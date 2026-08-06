@@ -132,7 +132,19 @@ jobs:
         # job.status at 'success' — so an expired ANTHROPIC_API_KEY could ship 16
         # English-only posts with no itineraries and report "✅ 상태: 성공"
         # (found 2026-08-05). The final Telegram now names whatever failed.
-        run: node scripts/translate-posts.mjs || echo "글 번역" >> /tmp/soft-fail.txt
+        # Report the SIZE of the failure, not just its name. On 2026-08-06 this
+        # sent "글 번역 실패" and all 18 posts were in fact translated in all
+        # four languages — a handful of individual jobs had failed and the step
+        # announced itself as broken. An alarm that overstates gets ignored,
+        # and then the one that matters is ignored with it.
+        run: |
+          set -o pipefail
+          node scripts/translate-posts.mjs 2>&1 | tee /tmp/translate.log || {
+            S=$(grep -o 'TRANSLATE_SUMMARY .*' /tmp/translate.log | tail -1)
+            F=$(echo "$S" | grep -o 'failed=[0-9]*' | grep -o '[0-9]*' || echo '?')
+            J=$(echo "$S" | grep -o 'jobs=[0-9]*' | grep -o '[0-9]*' || echo '?')
+            echo "글 번역 (${F}/${J}건 실패)" >> /tmp/soft-fail.txt
+          }
 
       # Country/city NAMES for ko/ja/es/zh. Idempotent (skips what it already has),
       # so this only costs anything when a new country or city appears — without it

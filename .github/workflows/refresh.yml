@@ -45,6 +45,22 @@ jobs:
       - name: Resync rating badges in descriptions
         run: node scripts/resync-rating-badges.mjs
 
+      # Opening hours move in that same refresh, and the PROSE quotes them:
+      # "6pm to 9pm is noticeably quieter" on a museum that closes at 5:30,
+      # "the market runs 7am to 11pm" on a market that shuts at 10. Both were
+      # live on 2026-08-07 with nothing able to reach them — the publish gate
+      # only inspects posts added in that run, and repair-held-posts only
+      # touches quarantined drafts, so a LIVE post whose hours changed under it
+      # had no repair path at all. Same reasoning as the badge resync above:
+      # fix the sentence in the same commit that moved the fact it cites.
+      # continue-on-error because this calls the writer model — a rewrite that
+      # fails must not cost the venue-data commit below.
+      - name: Correct prose that contradicts the new hours
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/fix-hours-claims.mjs
+
       # 362 fastly.4sqi.net hotlinks would rot silently (the old irs0/irs3
       # subdomains did exactly that) — weekly HEAD-check, no API keys needed.
       # Dead hero → visual-audit.json MISMATCH, so the nightly alt-photos

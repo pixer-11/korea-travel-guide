@@ -324,4 +324,10 @@ async function worker() {
 }
 await Promise.all(Array.from({ length: Math.min(CONCURRENCY, jobs.length) }, worker));
 console.log(`\nDone. ${done} translated, ${failed} failed.`);
+// A machine-readable line so the workflow can say HOW MUCH failed. On
+// 2026-08-06 the run reported "글 번역 실패" to Telegram and every one of the
+// 18 posts turned out to be translated — a few individual jobs had failed and
+// the whole step was announced as broken. An alarm that overstates is an alarm
+// that gets ignored, which is how the real problems that week went unread.
+console.log(`TRANSLATE_SUMMARY done=${done} failed=${failed} jobs=${jobs.length}`);
 if (failed) process.exitCode = 1;
