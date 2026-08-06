@@ -443,6 +443,32 @@ jobs:
         continue-on-error: true
         run: node scripts/check-wall-refs.mjs
 
+      # Does the photo belong to the place named beside it? The vision gate
+      # checks a POST's hero against that post's venue and has never looked at
+      # the images a COMPONENT assembles — the country tiles and the home
+      # spotlight, which pick a photo by filtering posts. The spotlight took
+      # its picture from the all-countries weekly rotation while its heading,
+      # flag and links were hard-coded to Korea, so on 2026-08-06 the home page
+      # showed the Alhambra captioned "South Korea". Three photo audits ran
+      # that day; none could see it, because all three only read posts.
+      - name: Check labels match their photos
+        id: labelphoto
+        if: steps.distbuild.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/audit-label-photo-match.mjs
+
+      - name: Warn on a label/photo mismatch
+        if: steps.labelphoto.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then exit 0; fi
+          TXT=$(printf '🖼 사진과 라벨이 어긋납니다\n\n어느 나라 이름 옆에 다른 나라 사진이 붙었습니다. 홈·목적지 페이지에서 바로 보이는 종류의 오류입니다.\n\nGitHub Actions 로그의 "Check labels match their photos" 단계를 확인하세요.')
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
       # h1->h3 reads fine to the eye and as a broken outline to screen readers,
       # crawlers and page-quality scorers. 245 pages had it; every one traced to
       # a section label styled as text instead of written as a heading. Zero

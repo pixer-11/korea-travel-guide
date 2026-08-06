@@ -58,16 +58,30 @@ const coverPool = posts.filter(
     (p.data.place?.userRatingsTotal ?? 0) >= 5000
 );
 
-// One per region, so the rotation moves across the world instead of cycling
-// through four spots in one city; strongest-rated post represents its region.
-const byRegion = new Map();
-for (const p of coverPool.sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))) {
-  if (!byRegion.has(p.data.region)) byRegion.set(p.data.region, p);
-}
-const rotation = [...byRegion.values()].sort((a, b) => a.id.localeCompare(b.id)); // stable order
-const cover = rotation.length
-  ? rotation[isoWeek(new Date()) % rotation.length]
-  : posts[0];
+// One per region, so a rotation moves across places instead of cycling through
+// four spots in one city; the strongest-rated post represents its region.
+const oneWeeklyPickPerRegion = (pool: any[]) => {
+  const byRegion = new Map();
+  for (const p of [...pool].sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))) {
+    if (!byRegion.has(p.data.region)) byRegion.set(p.data.region, p);
+  }
+  const rotation = [...byRegion.values()].sort((a, b) => a.id.localeCompare(b.id)); // stable order
+  return rotation.length ? rotation[isoWeek(new Date()) % rotation.length] : null;
+};
+
+const cover = oneWeeklyPickPerRegion(coverPool) ?? posts[0];
+
+// The spotlight block below is SOUTH KOREA — its flag, heading, city links and
+// button all say so. Its photo used to come from `cover`, which rotates across
+// every country on the site, so the two had nothing to do with each other. It
+// read correctly while the site was Korea-only and broke the week the rotation
+// reached Spain: the home page showed the Alhambra, in Granada, captioned
+// "South Korea" (owner caught it, 2026-08-06). Same pool, same weekly
+// rotation, filtered to Korea — so it is a Korean landmark, and a different
+// one each week.
+const koreaCover = oneWeeklyPickPerRegion(
+  coverPool.filter((p) => (p.data.country ?? 'South Korea') === 'South Korea'),
+);
 const rest = posts.filter((p) => p.id !== cover?.id);
 const latest = rest.slice(0, 3);
 // Don't showcase weak auto-generated cards on the highest-authority page. Food/
@@ -166,7 +180,16 @@ const koreaLinks = [
     <div class="wrap">
       <div class="spotlight">
         <div class="spotlight-media">
-          <img src={tileSize(cover?.data.heroImage?.url ?? '/images/placeholder-market.svg')} alt="South Korea" loading="lazy" width="800" height="1000" />
+          {/* This block is the SOUTH KOREA spotlight: flag, heading, Seoul/Busan/
+              Jeju links, and a button to /destinations/south-korea. The photo
+              used to come from `cover` — the weekly rotation, which draws from
+              every country on the site — so the picture had nothing to do with
+              the label beside it. Back when the site was Korea-only the cover
+              was always Korean and it looked right; the day the rotation
+              picked Granada, the home page showed the Alhambra under the words
+              "South Korea" (owner caught it, 2026-08-06). The image now comes
+              from Korean posts, like everything else in this block. */}
+          <img src={tileSize(koreaCover?.data.heroImage?.url ?? '') || repImage('South Korea') || '/images/placeholder-market.svg'} alt={localizePlace('South Korea', lang)} loading="lazy" width="800" height="1000" />
         </div>
         <div class="spotlight-body">
           <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
