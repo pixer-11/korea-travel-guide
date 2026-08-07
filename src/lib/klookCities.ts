@@ -13,6 +13,15 @@
 export interface KlookCity { id: number; slug: string; country: string; widget?: boolean }
 
 export const KLOOK_CITY: Record<string, KlookCity> = {
+  // Alias entries (2026-08-07 revenue audit): post regions whose name differs
+  // from Klook's slug but whose page is verifiably the same place. Candidates
+  // Miami (not in Klook's sitemap at all) and Washington DC (Klook's
+  // c84912-washington is Washington STATE — Seattle on the page) were REJECTED;
+  // a search fallback beats a confidently wrong destination.
+  "New Delhi": { id: 145, slug: 'delhi', country: 'India' },
+  "Bordeaux": { id: 318, slug: 'bordeaux-south-west', country: 'France' },
+  "Koh Samui": { id: 702414, slug: 'ko-samui', country: 'Thailand' },
+  "Lombok": { id: 14443, slug: 'central-lombok', country: 'Indonesia' },
   "Seoul": { id: 13, slug: 'seoul', country: 'South Korea', widget: true },
   "Busan": { id: 46, slug: 'busan', country: 'South Korea', widget: true },
   "Incheon": { id: 158, slug: 'incheon', country: 'South Korea', widget: true },
