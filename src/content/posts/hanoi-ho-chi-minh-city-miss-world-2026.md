@@ -1,5 +1,5 @@
 ---
-title: 'Miss World 2026: What to Know (Hanoi)'
+title: 'Miss World 2026: Dates, Host Cities & Tickets (Vietnam)'
 description: >-
   Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to
   September 5, 2026, with roughly 130 national delegates touring Vietnam before

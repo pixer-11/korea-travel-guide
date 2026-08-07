@@ -1,12 +1,7 @@
 ---
 draft: false
-title: >-
-  2026 Coupang Play Series: Manchester City vs Atlético Madrid: What to Know
-  (Seoul)
-description: >-
-  2026 Coupang Play Series: Manchester City vs Atlético Madrid in Seoul, South
-  Korea — August 5 & 9, 2026. What it is, when and where, and how to plan around
-  it.
+title: 'Man City vs Atlético Madrid in Seoul: 2026 Coupang Play Series'
+description: "Manchester City and Atlético Madrid play the 2026 Coupang Play Series at Seoul World Cup Stadium, Aug 5 & 9. Tickets, kickoff times, and how to get there."
 country: South Korea
 region: Seoul
 category: event

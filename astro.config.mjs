@@ -430,6 +430,7 @@ export default defineConfig({
       filter: (page) =>
         !page.includes('/embed/') &&
         !page.includes('/my-trip') &&
+        !page.includes('/ignore-me') &&
         !page.includes('/pinterest-callback') &&
         !Object.keys(REGION_ALIAS).some((a) => page.includes(`/regions/${a}/`)) &&
         ![...NOINDEX_SLUGS].some((slug) => page.includes(slug + '/') || page.endsWith(slug)),

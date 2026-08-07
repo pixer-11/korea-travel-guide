@@ -1,6 +1,6 @@
 ---
-title: 'Backyard: Fujairah Travel Guide'
-description: Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area of Fujairah City, best visited on a weekday morning when the shaded seating is quiet and the espresso machine isn't backed up.
+title: "Backyard: Fujairah Travel Guide (4.6★)"
+description: "Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area of Fujairah City, best visited on a weekday morning when the shaded seating is quiet and the espresso machine isn't backed up. 4.6★ (160 reviews) — what visitors say, hours, and tips."
 country: United Arab Emirates
 region: Fujairah
 category: trendy

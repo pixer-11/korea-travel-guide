@@ -1,9 +1,7 @@
 ---
 draft: false
-title: 'EuroVolley Women 2026 (Final Stage): What to Know (Istanbul)'
-description: >-
-  EuroVolley Women 2026 (Final Stage) in Istanbul, Turkey — August 21 -
-  September 6, 2026. What it is, when and where, and how to plan around it.
+title: 'CEV EuroVolley Women 2026 Istanbul: Dates, Tickets & Venue'
+description: "Istanbul hosts the pool phase and grand final of EuroVolley Women 2026 at Sinan Erdem Dome, August 21–September 6. Final night, tickets, and how to plan."
 country: Turkey
 region: Istanbul
 category: event

@@ -1,0 +1,93 @@
+---
+// Owner-only utility: one visit sets localStorage.plausible_ignore = "true",
+// which the Plausible script honors on every subsequent pageview in THIS
+// browser. Exists because 78% of recorded pageviews were the owner's own
+// visits (2026-08-07 audit) — the standard fix is a console command, but the
+// owner is non-technical, so this page does it on load instead.
+// noindex + excluded from the sitemap (astro.config.mjs filter).
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>내 방문 집계 제외 — Wander Atlas</title>
+    <style>
+      body {
+        font-family: -apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+        max-width: 34rem;
+        margin: 4rem auto;
+        padding: 0 1.25rem;
+        line-height: 1.7;
+        color: #1a202c;
+      }
+      .card {
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 1.5rem;
+        margin-top: 1.5rem;
+      }
+      .on { background: #f0fdf4; border-color: #86efac; }
+      .off { background: #fffbeb; border-color: #fcd34d; }
+      #status { font-size: 1.15rem; font-weight: 700; }
+      button {
+        margin-top: 1rem;
+        padding: 0.5rem 1rem;
+        border: 1px solid #cbd5e1;
+        border-radius: 8px;
+        background: #fff;
+        cursor: pointer;
+        font-size: 0.95rem;
+      }
+      small { color: #64748b; }
+    </style>
+  </head>
+  <body>
+    <h1>내 방문 집계 제외</h1>
+    <p>
+      이 페이지를 열면 <strong>지금 쓰고 있는 브라우저</strong>의 방문이
+      사이트 방문자 통계(Plausible)에서 빠집니다. 통계를 볼 때 내 방문이
+      섞이지 않게 하는 장치예요.
+    </p>
+    <div class="card" id="card">
+      <div id="status">확인 중…</div>
+      <button id="toggle" hidden></button>
+    </div>
+    <p style="margin-top:1.5rem">
+      <small>
+        브라우저·기기마다 한 번씩 열어 주세요 (폰 크롬, 컴퓨터 크롬 각각).
+        시크릿 창이나 브라우저 데이터 삭제 후에는 다시 열어야 합니다.
+      </small>
+    </p>
+    <script is:inline>
+      var KEY = 'plausible_ignore';
+      var statusEl = document.getElementById('status');
+      var card = document.getElementById('card');
+      var btn = document.getElementById('toggle');
+      function render(justSet) {
+        var on = localStorage.getItem(KEY) === 'true';
+        card.className = 'card ' + (on ? 'on' : 'off');
+        statusEl.textContent = on
+          ? (justSet ? '✅ 설정 완료 — 이 브라우저는 이제 집계에서 제외됩니다' : '✅ 이미 제외되어 있습니다')
+          : '⚠️ 현재 이 브라우저는 집계에 포함됩니다';
+        btn.hidden = false;
+        btn.textContent = on ? '제외 해제하기' : '다시 제외하기';
+      }
+      try {
+        var wasOn = localStorage.getItem(KEY) === 'true';
+        if (!wasOn) localStorage.setItem(KEY, 'true');
+        render(!wasOn);
+        btn.addEventListener('click', function () {
+          if (localStorage.getItem(KEY) === 'true') localStorage.removeItem(KEY);
+          else localStorage.setItem(KEY, 'true');
+          render(true);
+        });
+      } catch (e) {
+        statusEl.textContent = '❌ 설정 실패 — 브라우저가 저장을 막고 있어요 (시크릿 창인지 확인)';
+        card.className = 'card off';
+      }
+    </script>
+  </body>
+</html>

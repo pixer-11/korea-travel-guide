@@ -1,6 +1,6 @@
 ---
-title: 'Elamu: Where to Eat in Lombok'
-description: Elamu Lombok is a Greek restaurant near Kuta Beach in South Lombok, a short drive from the main strip of Jalan Pariwisata Pantai Kuta.
+title: "Elamu: Where to Eat in Lombok (4.8★)"
+description: "Elamu Lombok is a Greek restaurant near Kuta Beach in South Lombok, a short drive from the main strip of Jalan Pariwisata Pantai Kuta. 4.8★ (2,407 reviews) — what visitors say, hours, and tips."
 country: Indonesia
 region: Lombok
 category: restaurant
