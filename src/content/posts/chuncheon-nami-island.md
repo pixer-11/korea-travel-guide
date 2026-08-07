@@ -11,10 +11,10 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/58905788_fDRMvfLBBK1N0YiEnanmg2iDOOSxMz1YoHfbAzaWLb0.jpg
-    credit: 'Photo: Foursquare user content (Sonata Cafe & Nami Shop (소나타카페))'
-    license: foursquare
-    source: https://foursquare.com/v/51301549e4b0f53f7e1591c1
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Winter_Sonata_Nami_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: 'Photo: Penmerahpenbiru / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Winter_Sonata_Nami_Island.jpg
 place:
   id: ChIJda9gFeQmYzURIsXnKaOqStY
   name: Nami Island
