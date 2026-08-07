@@ -105,3 +105,21 @@ test('never returns empty', () => {
   assert.equal(eventProperName(''), '');
   assert.ok(eventProperName('2026: What to Know (Seoul)').length > 0);
 });
+
+// The article suffix in use since 2026-08-07. The old "What to Know" corpus
+// stays live, so BOTH must strip identically everywhere this module is used
+// (Event schema name, the ics/md feeds).
+test('strips the "Dates, Tickets & Venue" suffix the same as the old one', () => {
+  assert.equal(
+    eventSchemaName('Lollapalooza 2026: Dates, Tickets & Venue (Chicago)'),
+    'Lollapalooza 2026',
+  );
+  assert.equal(
+    eventSchemaName('UFC Fight Night: Ankalaev vs Rountree Jr: Dates, Tickets & Venue (Abu Dhabi)'),
+    'UFC Fight Night: Ankalaev vs Rountree Jr',
+  );
+  assert.equal(
+    eventProperName('EuroVolley Women 2026 (Final Stage): Dates, Tickets & Venue (Istanbul)'),
+    'EuroVolley Women',
+  );
+});

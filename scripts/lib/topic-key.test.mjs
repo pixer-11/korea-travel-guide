@@ -29,3 +29,13 @@ test('same name in different cities does NOT collapse', () => {
     topicKey('The Tower: Travel Guide', 'Paris'),
   );
 });
+
+// The event suffix changed on 2026-08-07. If the two forms produced different
+// keys, a re-discovered event would dodge the duplicate guard across the
+// rename and get published twice.
+test('old "What to Know" and new "Dates, Tickets & Venue" collapse to one key', () => {
+  assert.equal(
+    topicKey('Lollapalooza 2026: What to Know (Chicago)', 'Chicago'),
+    topicKey('Lollapalooza 2026: Dates, Tickets & Venue (Chicago)', 'Chicago'),
+  );
+});

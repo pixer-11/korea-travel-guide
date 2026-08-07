@@ -34,7 +34,7 @@ const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const APPLY = process.argv.includes('--apply');
 const KEEP_RANK = { attraction: 0, 'hidden-gem': 1, trendy: 2, restaurant: 3, event: 4 };
 
-const eventName = (title) => String(title).split(/:\s*(?:What to Know|A Visitor)/i)[0].trim();
+const eventName = (title) => String(title).split(/:\s*(?:What to Know|A Visitor|Dates, Tickets)/i)[0].trim();
 
 const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
 const posts = [];

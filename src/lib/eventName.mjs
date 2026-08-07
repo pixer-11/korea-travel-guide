@@ -16,7 +16,7 @@
 // colon or a dash, and the tail may end "(City)" or "in City" — all four
 // combinations occur in the corpus.
 const ARTICLE_SUFFIX = new RegExp(
-  String.raw`\s*[:\u2013\u2014-]\s*(?:What to Know|A Visitor(?:'s)? Guide|Complete Guide|Ultimate Guide)\b.*$`,
+  String.raw`\s*[:\u2013\u2014-]\s*(?:What to Know|A Visitor(?:'s)? Guide|Complete Guide|Ultimate Guide|Dates,? Tickets)\b.*$`,
   'i',
 );
 

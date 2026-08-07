@@ -8,7 +8,10 @@
 export const FILLER = new Set(['the', 'and', 'with', 'what', 'know', 'guide', 'visitor', 'visitors', 'where', 'eat', '2026', '2027']);
 
 export const topicKey = (title, region) => {
-  const name = String(title).split(/:\s*(?:What to Know|Where to Eat|A Visitor)/i)[0];
+  // "Dates, Tickets" is the event suffix in use since 2026-08-07; "What to
+  // Know" covers the back catalogue. Both must strip to the same key or a
+  // re-discovered event would dodge the duplicate guard across the rename.
+  const name = String(title).split(/:\s*(?:What to Know|Where to Eat|A Visitor|Dates, Tickets)/i)[0];
   return `${name} ${region}`
     .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
     .filter((w) => w.length > 2 && !FILLER.has(w))

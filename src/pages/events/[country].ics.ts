@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { isEventPast, eventSortValue } from '../../lib/eventStatus';
+import { eventSchemaName } from '../../lib/eventName';
 import { buildIcs, type IcsEvent } from '../../lib/ics';
 import { SITE } from '../../siteConfig';
 import countriesData from '../../../data/countries.json';
@@ -38,7 +39,7 @@ export const GET: APIRoute = async ({ site, props }) => {
     const slug = p.id.replace(/\.md$/, '');
     return {
       uid: `${slug}@wanderatlasguides.com`,
-      title: String(d.title).replace(/:\s*What to Know.*$/i, '').trim(),
+      title: eventSchemaName(d.title),
       description: d.description,
       url: `${base}/posts/${slug}`,
       location: [d.region, d.country].filter(Boolean).join(', '),

@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
+import { eventSchemaName } from '../lib/eventName';
 import { SITE } from '../siteConfig';
 
 // Machine-readable feed of upcoming events for AI assistants / agents. Same data
@@ -18,7 +19,10 @@ export const GET: APIRoute = async ({ site }) => {
     .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
 
   const fmt = (d?: Date | null) => (d ? new Date(d).toISOString().slice(0, 10) : null);
-  const cleanTitle = (t: string) => t.replace(/:\s*What to Know.*$/i, '').trim();
+  // Shared suffix stripper — the article suffix changed once already
+  // ("What to Know" → "Dates, Tickets & Venue", 2026-08-07) and a local regex
+  // here silently missed the new form.
+  const cleanTitle = (t: string) => eventSchemaName(t);
 
   const entries = upcoming.map((p) => {
     const d = p.data;

@@ -63,6 +63,11 @@ const discoverEvents = (country) =>
     `Search the web for NOTABLE, currently-UPCOMING events in ${country} over the next ~8 weeks that would draw international visitors: ` +
     `big concerts or tours by globally famous artists, major sports events (World Cup, Olympics, Grand Prix, major finals), large festivals, or major special exhibitions. ` +
     `Only REAL, CONFIRMED, upcoming events with a known date and city. ` +
+    // The Bangkok F4 lesson (2026-08-07): the official branding was "F✦FOREVER
+    // 1st World Tour" but every live search query said "f4 concert bangkok" —
+    // the page ranked 4-6 with 0 clicks because the searched-for name appeared
+    // nowhere in the title. Ask for the searched-for name up front.
+    `"name" must be the name people actually SEARCH for: include the widely-used short form or act name when one exists (e.g. "F4 (Meteor Garden) Reunion World Tour", not only the official branding "F✦FOREVER 1st World Tour"). ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
     `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"summary":"1-2 factual sentences: what, where, when"}]. ` +
     `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
@@ -117,8 +122,14 @@ async function writeDiscovered(item, ctx) {
   const slug = slugify(`${item.city}-${item.name}`);
   if (done.has(key) || existing.has(slug)) return false;
 
+  // "Dates, Tickets & Venue" replaced "What to Know" on 2026-08-07: GSC showed
+  // event pages ranked 4-10 with CTR at half of expectation (EuroVolley: 449
+  // impressions, 0.9%), and the live queries were all dates/tickets/venue
+  // intent the old suffix never answered. Every suffix-stripping consumer
+  // (topic-key, eventName.mjs, the ics/md feeds, reresolve-images) matches
+  // BOTH suffixes, so the back catalogue and the new form coexist.
   const title = kind === 'event'
-    ? `${item.name}: What to Know${item.city ? ` (${item.city})` : ''}`
+    ? `${item.name}: Dates, Tickets & Venue${item.city ? ` (${item.city})` : ''}`
     : makeTitle(item.name, { region: item.city, category: cat });
   // Near-duplicate guard: skip if a same-topic post already exists. Catches name
   // variants ("ChinaJoy" vs "ChinaJoy 2026") that pass the exact-slug check above
