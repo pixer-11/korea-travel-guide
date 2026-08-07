@@ -24,6 +24,23 @@ const state = (() => {
   try { return JSON.parse(readFileSync(STATE_FILE, 'utf8')); } catch { return { used: [] }; }
 })();
 
+// GitHub does not guarantee a scheduled run. On 2026-08-07 this job simply did
+// not fire — six consecutive days at 08:2x KST, then nothing — and the owner
+// noticed the missing message before any checker did. The workflow therefore
+// asks three times a morning instead of once, and this guard is what keeps that
+// from sending three different posts: the day's material goes out once, on
+// whichever attempt actually runs.
+//
+// KST, not UTC: the schedule is 22:25 UTC precisely so it lands at 07:25 the
+// NEXT day in Seoul, so a UTC date would flip in the middle of the run window
+// and let a second attempt through.
+const kstDay = () => new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+const FORCE = process.argv.includes('--force');
+if (!FORCE && state.lastSentDay === kstDay()) {
+  console.log(`already sent today (${state.lastSentDay}) — skipping. Use --force to override.`);
+  process.exit(0);
+}
+
 // -------- pick an unused, published post --------
 const files = readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
 const candidates = [];
@@ -347,6 +364,8 @@ if (tok && chat) {
 
 // -------- persist state --------
 state.used.push(post.slug);
+// Stamped so the day's later backup attempts know this one already went out.
+state.lastSentDay = kstDay();
 mkdirSync('data', { recursive: true });
 writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
-console.log(`state saved (${state.used.length} used)`);
+console.log(`state saved (${state.used.length} used, day ${state.lastSentDay})`);
