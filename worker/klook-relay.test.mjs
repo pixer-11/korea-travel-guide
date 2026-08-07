@@ -100,6 +100,30 @@ t('중계가 SubID 를 숏링크에 붙인다', () => {
   return ok ? null : '숏링크 요청에 sub_id 가 붙지 않음';
 });
 
+// ── 명시적 sub_id ─────────────────────────────────────────────
+// Referer 는 "어느 페이지"까지만 안다. 컴포넌트는 "그 페이지의 어느 블록"인지
+// 알고, 투어 위젯과 하단 고정바를 구분하는 것이 다음 링크를 어디에 둘지 아는
+// 유일한 방법이다. 쿼리 파라미터는 헤더만큼이나 조작 가능하므로 Referer 경로와
+// 같은 알파벳으로 걸러야 한다.
+t('명시적 sub_id 를 읽는다', () =>
+  /searchParams\.get\('sub_id'\)/.test(src) ? null : 'handleKlookGo 가 ?sub_id= 를 읽지 않는다');
+
+t('명시적 sub_id 가 Referer 보다 우선한다', () =>
+  /explicitSubId\(reqUrl\)\s*\?\?\s*subIdFromReferer/.test(src)
+    ? null
+    : 'Referer 가 명시적 값을 덮어쓰거나 순서가 뒤바뀌었다');
+
+t('명시적 sub_id 도 [a-z0-9_] 로 걸러진다', () => {
+  // String.raw — 이 줄을 heredoc 으로 쓰다가 \n 이 실제 개행이 되어 정규식이
+  // 통째로 깨졌다. lint-regex.mjs 가 감시하는 바로 그 함정.
+  const body = new RegExp(String.raw`function explicitSubId[\s\S]*?\n}`);
+  const fn = src.match(body)?.[0] ?? '';
+  if (!fn) return 'explicitSubId 가 없다';
+  if (!/\[\^a-z0-9\]\+/.test(fn)) return '문자 필터가 없다 — 임의 문자열이 URL 로 들어간다';
+  if (!/slice\(0, *80\)/.test(fn)) return '길이 제한이 없다';
+  return null;
+});
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;
@@ -110,3 +134,4 @@ for (const [name, fn] of cases) {
 }
 console.log(`\n${cases.length - fail}/${cases.length} passed`);
 process.exit(fail ? 1 : 0);
+

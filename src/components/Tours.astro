@@ -15,35 +15,54 @@ const cityLabel = localizePlace(city, lang);
 
 // Travelpayouts Klook city_id map (from the widget's city dropdown) — expand as
 // more ids are confirmed. Keys must match a post's `region` value exactly.
-const CITY_ID: Record<string, number> = {
-  Seoul: 13,
-  Busan: 46,
-  Incheon: 158,
-  Tokyo: 28,
-  Osaka: 29,
-  Kyoto: 30,
-  Fukuoka: 23442,
-  Sapporo: 133938,
-  Okinawa: 6484,
-  Nagoya: 71,
-  Nara: 7062,
-  Hiroshima: 5122,
-  Bangkok: 4,
-  Phuket: 7,
-  Shanghai: 59,
+// id feeds the price widget; slug builds the destination link. Both verified
+// against Klook's own sitemap-city-plain_en-us.xml on 2026-08-07 — which is
+// also where Fukuoka's id turned out to be wrong (23442 appears nowhere; the
+// real page is c5209-fukuoka-prefecture) and where several cities turned out
+// to be filed under a PREFECTURE slug rather than the city name.
+const CITY: Record<string, { id: number; slug: string }> = {
+  Seoul: { id: 13, slug: 'seoul' },
+  Busan: { id: 46, slug: 'busan' },
+  Incheon: { id: 158, slug: 'incheon' },
+  Tokyo: { id: 28, slug: 'tokyo' },
+  Osaka: { id: 29, slug: 'osaka' },
+  Kyoto: { id: 30, slug: 'kyoto' },
+  Fukuoka: { id: 5209, slug: 'fukuoka-prefecture' },
+  Sapporo: { id: 133938, slug: 'sapporo' },
+  Okinawa: { id: 6484, slug: 'okinawa-prefecture' },
+  Nagoya: { id: 71, slug: 'nagoya' },
+  Nara: { id: 7062, slug: 'nara-prefecture' },
+  Hiroshima: { id: 5122, slug: 'hiroshima-prefecture' },
+  Bangkok: { id: 4, slug: 'bangkok' },
+  Phuket: { id: 7, slug: 'phuket' },
+  Shanghai: { id: 59, slug: 'shanghai' },
   // The posts spell it Xi'an — "Xian" matched none of them, so the city fell
   // through to a plain search link for as long as this map has existed.
-  "Xi'an": 60,
+  "Xi'an": { id: 60, slug: 'xi-an' },
 };
-const cityId = CITY_ID[city];
-const src = cityId
-  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=${lang}&city_id=${cityId}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
+const mapped = CITY[city];
+const src = mapped
+  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=${lang}&city_id=${mapped.id}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
   : null;
 
-// Fallback for unmapped cities: a city-specific Klook search link (works for any
-// city, correct attribution via the account's own Klook redirect).
-const klookHref = city
-  ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
+// A mapped city goes to its DESTINATION page; only an unmapped one falls back
+// to search. Every link on this site used to be `search/?query=<city>`, which
+// is a page Klook's own robots.txt disallows — not somewhere to send a reader
+// who has just decided they want to do something in that city. The destination
+// page is the curated one, and the URL form is taken from Klook's own sitemap
+// (`/destination/c13-seoul/`), not guessed.
+//
+// SubID rides along so the Travelpayouts report can finally say WHICH page
+// earned: of 138 clicks to date, 93 arrived with an empty SubID purely because
+// almost no link set one.
+const subId = `tours_${city.toLowerCase().replace(/[^a-z0-9]+/g, '_')}`;
+const klookDest = mapped
+  ? `https://www.klook.com/${klookLocale(lang)}/destination/c${mapped.id}-${mapped.slug}/`
+  : city
+  ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(city)}`
+  : null;
+const klookHref = klookDest
+  ? `/go/klook?to=${encodeURIComponent(klookDest)}&sub_id=${encodeURIComponent(subId)}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 ---
 {city && (

@@ -375,10 +375,24 @@ export function subIdFromReferer(referer) {
   return slug || 'home';
 }
 
+// An explicit ?sub_id= beats the Referer. The Referer only ever knew which PAGE
+// the click came from; a component knows which BLOCK on that page, and telling
+// the tours widget apart from the sticky bar is the difference between "posts
+// carry clicks" and knowing where to put the next one. Sanitised through the
+// same alphabet as the Referer path, because a query parameter is no less
+// attacker-controllable than a header.
+function explicitSubId(url) {
+  const raw = url.searchParams.get('sub_id');
+  if (!raw) return null;
+  const clean = raw.toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '').slice(0, 80);
+  return clean || null;
+}
+
 async function handleKlookGo(request) {
-  const to = new URL(request.url).searchParams.get('to');
+  const reqUrl = new URL(request.url);
+  const to = reqUrl.searchParams.get('to');
   const dest = to && /^https:\/\/(www\.)?klook\.com\//.test(to) ? to : 'https://www.klook.com/';
-  const subId = subIdFromReferer(request.headers.get('referer'));
+  const subId = explicitSubId(reqUrl) ?? subIdFromReferer(request.headers.get('referer'));
   const fallback = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(dest)}`;
   try {
     // The SubID rides on the request that MINTS the token — that fetch is the
