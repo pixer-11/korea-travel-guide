@@ -48,12 +48,29 @@ export function heroWidth(post) {
  *   2. a hero of unknown width (the old behaviour — better than no photo)
  *   3. nothing, so BaseLayout falls back to the 1200×630 brand default
  * Never returns a hero that is known to be too narrow.
+ *
+ * Events are ranked LAST, not excluded. This function only ever filtered on
+ * width, so 13 of 17 event country hubs unfurled as somewhere else entirely:
+ * /events/vietnam/ showed Miss World Ireland 2022, /events/united-arab-emirates/
+ * showed Christina Aguilera in Rio, and /events/singapore/ and /events/thailand/
+ * shared one David Byrne photo taken in Amsterdam. A social card is the label
+ * and the picture side by side, so a performer standing in for a country is the
+ * same defect as the Alhambra captioned "South Korea".
+ *
+ * Last rather than never, because an events hub may have nothing else — and on
+ * that page a concert photo is at least honest about the subject. The rule
+ * repImage.ts uses for place tiles is stricter for the same reason: a CITY tile
+ * is claiming to show the city.
  */
 export function pickOgPhoto(posts) {
   const withHero = (posts ?? []).filter((p) => p?.data?.heroImage?.url);
-  const wide = withHero.find((p) => (heroWidth(p) ?? 0) >= MIN_WIDTH);
+  const placeFirst = [
+    ...withHero.filter((p) => p?.data?.category !== 'event'),
+    ...withHero.filter((p) => p?.data?.category === 'event'),
+  ];
+  const wide = placeFirst.find((p) => (heroWidth(p) ?? 0) >= MIN_WIDTH);
   if (wide) return wide.data.heroImage.url;
-  const unmeasured = withHero.find((p) => heroWidth(p) === null);
+  const unmeasured = placeFirst.find((p) => heroWidth(p) === null);
   return unmeasured?.data.heroImage.url;
 }
 

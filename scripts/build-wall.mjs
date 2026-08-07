@@ -33,6 +33,14 @@ async function heroUrls() {
   for (const f of files) {
     const raw = (await readFile(join(POSTS_DIR, f), 'utf8')).replace(/\r\n/g, '\n');
     const fm = raw.match(/^---\n([\s\S]*?)\n---/)?.[1] || '';
+    // Skip QUARANTINED posts. This read every .md in the directory, so a post
+    // pulled for having the wrong photo lost its article and kept its picture:
+    // 67 of 653 wall thumbnails came from drafts, and 26 of those were images
+    // the site's own vision gate had already judged MISMATCH — "This is Fuglen
+    // in Oslo, Norway, not Tokyo", "Image shows Sorrento coast, not Naples".
+    // The homepage shuffle then drew 12 tiles a day from a pool that was 10%
+    // material we had decided was wrong.
+    if (/^draft:\s*true\s*$/m.test(fm)) continue;
     const url = fm.match(/heroImage:\n(?:  .*\n)*?  url:\s*"?([^"\n]+?)"?\s*$/m)?.[1];
     // Accept remote (http) heroes AND self-hosted local ones (/venue-photos/…).
     if (url && (/^https?:/.test(url) || url.startsWith('/')) && !url.includes('placeholder')) urls.add(url);

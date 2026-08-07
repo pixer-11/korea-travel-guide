@@ -30,12 +30,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Reports each source SEPARATELY, not just "at least one". The old test was
+      # `A || B`, so a run with Foursquare and no Flickr looked identical to a
+      # run with both, and a photo source could be absent for months without
+      # anyone noticing — exactly how BESTTIME_API_KEY went missing and left
+      # every new post with no crowd data until someone happened to check.
+      # Measured 2026-08-07: 0 of 676 live heroes come from Flickr.
       - name: Check keys
         id: gate
         env:
           A: ${{ secrets.FOURSQUARE_API_KEY }}
           B: ${{ secrets.FLICKR_API_KEY }}
         run: |
+          [ -n "$A" ] && echo "fsq=yes" >> "$GITHUB_OUTPUT" || echo "fsq=no" >> "$GITHUB_OUTPUT"
+          [ -n "$B" ] && echo "flickr=yes" >> "$GITHUB_OUTPUT" || echo "flickr=no" >> "$GITHUB_OUTPUT"
+          echo "Foursquare key: $([ -n "$A" ] && echo present || echo MISSING)"
+          echo "Flickr key:     $([ -n "$B" ] && echo present || echo MISSING)"
           if [ -n "$A" ] || [ -n "$B" ]; then echo "on=true" >> "$GITHUB_OUTPUT"; else echo "on=false" >> "$GITHUB_OUTPUT"; fi
 
       - if: steps.gate.outputs.on == 'true'
@@ -157,10 +167,19 @@ jobs:
           W_UPGRADED: ${{ steps.width.outputs.upgraded }}
           W_NOWIDER: ${{ steps.width.outputs.nowider }}
           W_QUEUE: ${{ steps.scan.outputs.queuetotal }}
+          K_FSQ: ${{ steps.gate.outputs.fsq }}
+          K_FLICKR: ${{ steps.gate.outputs.flickr }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
             echo "🖼️ Wander Atlas — 대체 소스 사진 교체"
+            # A missing source is the difference between "no photo exists" and
+            # "we never looked there", and the owner cannot tell those apart
+            # from a count of failures. Say it every run.
+            if [ "${K_FSQ:-no}" != "yes" ] || [ "${K_FLICKR:-no}" != "yes" ]; then
+              echo "🔑 사진 출처 상태: 포스퀘어 $([ "${K_FSQ:-no}" = yes ] && echo 켜짐 || echo ❌꺼짐) · 플리커 $([ "${K_FLICKR:-no}" = yes ] && echo 켜짐 || echo ❌꺼짐)"
+              echo "   (꺼진 출처는 아예 찾아보지 않습니다 — 사진을 못 구한 게 아니라 안 본 것입니다)"
+            fi
             if [ "$JOB_STATUS" != "success" ]; then
               echo "❌ 실행 실패 — GitHub Actions 로그를 확인해 주세요."
             else

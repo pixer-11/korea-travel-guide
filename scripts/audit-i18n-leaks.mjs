@@ -71,6 +71,22 @@ export const RULES = [
   // first fix translated only the gloss and left the suffix on 12 Turkish
   // pages; the rule above could not see it because it only looks after the "·".
   { id: 'holiday-tentative-english', re: /\(Tentative Date\)/i, langs: LANGS },
+  // The rule above could not see the largest leak of all, and why is worth
+  // keeping: it builds its pattern FROM holidays.json and only matches after
+  // the "·" separator — the exact character that is absent when a gloss is
+  // MISSING. It reported clean while 216 of 329 holidays printed English on
+  // ko/ja/zh pages ("National Day" on Singapore's August, three English names
+  // in a row on Taiwan's February). A checker derived from the table it is
+  // meant to check cannot see what that table lacks.
+  //
+  // This one reads no table. It matches the holiday row's own markup — the span
+  // that follows .wtg-date — and fires when a CJK page renders that name in
+  // nothing but ASCII. Spanish is excluded: Latin script there is correct.
+  {
+    id: 'holiday-untranslated',
+    re: new RegExp(String.raw`class="wtg-date"[^>]*>[^<]*</span>\s*<span[^>]*>[\x20-\x7E]+</span>`),
+    langs: ['ko', 'ja', 'zh'],
+  },
   { id: 'klook-en-US', re: /klook\.com(%2F|\/)en-US/, langs: LANGS },
   { id: 'tickets-tours', re: /Tickets &(amp;)? tours for/, langs: LANGS },
   { id: 'price-Free', re: />Free</, langs: LANGS },

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { tileSize } from '../lib/repImage';
+import { tileSize, pickRepHeroUrl } from '../lib/repImage';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import { slugifyRegion } from '../lib/slug';
@@ -14,14 +14,32 @@ const { lang } = Astro.props;
 const t = useTranslations(lang);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
-// Same dark-tile trap as DestinationHub: hash-only, no existence check.
+// pickRepHeroUrl, not "the first post that happens to have a photo". Taking the
+// first one put an EVENT hero on 26 of 174 city tiles: "Madrid" showed The
+// Weeknd on stage in MILAN, "Istanbul" a studio portrait of Amr Diab holding
+// trophies, "Foxborough" BTS in Los Angeles. A concert photograph is a picture
+// of a performer and says nothing about the destination — which is exactly the
+// rule repImage.ts already encodes and which the country hubs, its only caller,
+// have been following correctly all along.
+//
+// Same shape as the Alhambra captioned "South Korea": an image chosen by one
+// piece of code sitting under a label chosen by another. The fix is not a
+// better heuristic here, it is having one picker.
 const counts = new Map<string, number>();
-const regionImg = new Map<string, string>();
+const byRegion = new Map<string, typeof posts>();
 for (const p of posts) {
   counts.set(p.data.region, (counts.get(p.data.region) ?? 0) + 1);
-  if (!regionImg.has(p.data.region) && p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder')) {
-    regionImg.set(p.data.region, tileSize(p.data.heroImage.url));
-  }
+  const list = byRegion.get(p.data.region) ?? [];
+  list.push(p);
+  byRegion.set(p.data.region, list);
+}
+const regionImg = new Map<string, string>();
+for (const [region, list] of byRegion) {
+  const url = pickRepHeroUrl(list);
+  // tileSize on the RAW stored url — repImage returns it untransformed on
+  // purpose, because hashing a transformed string once produced /wall/ names
+  // that exist nowhere and blacked out every tile.
+  if (url) regionImg.set(region, tileSize(url));
 }
 const regions = [...counts.entries()]
   .map(([name, count]) => ({ name, count, img: regionImg.get(name) ?? '' }))

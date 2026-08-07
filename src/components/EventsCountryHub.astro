@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Newsletter from './Newsletter.astro';
@@ -65,7 +66,22 @@ const jsonLd = {
 // og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
 // og:image separately (page weight is unaffected) and Google Discover only
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
-const ogPhoto = pickOgPhoto(events);
+// The country's PLACE photos are offered first, and the events only as a
+// fallback. Passing `events` alone meant the card could only ever be a
+// performer: /events/vietnam/ unfurled as Miss World Ireland 2022, and
+// /events/singapore/ and /events/thailand/ shared one photograph of David Byrne
+// taken in Amsterdam — 13 of 17 country hubs showed somewhere that was not that
+// country. A share card is a picture and a country name side by side, which is
+// the same defect as the Alhambra captioned "South Korea".
+//
+// pickOgPhoto already ranks events last, so ordering the candidates is the
+// whole fix; a country with no venue guides still gets its event photo rather
+// than the brand default.
+const placePhotos = await getCollection(
+  'posts',
+  ({ data }) => !data.draft && data.category !== 'event' && (data.country ?? 'South Korea') === country.name,
+);
+const ogPhoto = pickOgPhoto([...placePhotos, ...events]);
 
 ---
 
