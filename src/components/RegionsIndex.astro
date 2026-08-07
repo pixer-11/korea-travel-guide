@@ -63,7 +63,7 @@ const regions = [...counts.entries()]
     <div class="wrap">
       <div class="region-grid">
         {regions.map((r) => (
-          <a class="region-tile" href={localizePath(`/regions/${slugifyRegion(r.name)}/`, lang)} style={r.img ? `background-image:url(${r.img})` : ''}>
+          <a class:list={['region-tile', { 'no-photo': !r.img }]} href={localizePath(`/regions/${slugifyRegion(r.name)}/`, lang)} style={r.img ? `background-image:url(${r.img})` : ''}>
             <span>{localizePlace(r.name, lang)}<br /><small style="font-size:0.7rem;opacity:0.85;font-weight:500">{t('home.guides').replace('{n}', String(r.count))}</small></span>
           </a>
         ))}

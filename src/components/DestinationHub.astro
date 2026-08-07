@@ -141,7 +141,7 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
               <h2>{t('dest.whereToGo')}</h2>
               <div class="region-grid">
                 {regionsWithPosts.map((r) => (
-                  <a class:list={['region-tile', { 'is-major': isMajor(r) }]} href={localizePath(`/regions/${slugifyRegion(r)}/`, lang)} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{localizePlace(r, lang)}</span></a>
+                  <a class:list={['region-tile', { 'is-major': isMajor(r), 'no-photo': !regionImage(r) }]} href={localizePath(`/regions/${slugifyRegion(r)}/`, lang)} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{localizePlace(r, lang)}</span></a>
                 ))}
               </div>
             </div>

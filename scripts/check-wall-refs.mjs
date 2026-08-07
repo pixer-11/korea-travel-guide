@@ -40,6 +40,10 @@ const blank = new Map();
       // never carries a background) must not read as a dest-tile — it did, and
       // 34 phantom blanks hid the one real report line.
       for (const m of s2.matchAll(/class="(?:[^"]* )?(region-tile|dest-tile|country-photo)(?: [^"]*)?"[^>]*/g)) {
+        // `no-photo` is the DELIBERATE fallback (event-only city, no hero
+        // anywhere) — a styled gradient tile, not a blank box. A tile with no
+        // background and no `no-photo` class is still a real defect and alarms.
+        if (/(?:^|[" ])no-photo(?:[" ]|$)/.test(m[0])) continue;
         if (!/background-image:url\(/.test(m[0])) {
           const label = (s2.slice(m.index, m.index + 400).match(/<span[^>]*>([^<]{1,30})/) || [])[1] ?? '?';
           const key = `${m[1]}:${label}`;

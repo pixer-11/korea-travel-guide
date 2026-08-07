@@ -604,6 +604,14 @@ main { flex: 1; width: 100%; }
 }
 /* Faint place photo under a warm tint — image shows subtly, label stays legible. */
 .region-tile::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(26,20,15,0.32) 0%, rgba(26,20,15,0.72) 100%); }
+/* Event-only cities can have no photo anywhere (photoless events are allowed).
+   A deliberate warm gradient with a soft radial glow reads as design, not as a
+   broken tile; the photo takes over automatically the moment one exists. */
+.region-tile.no-photo {
+  background-image:
+    radial-gradient(120% 90% at 78% 18%, rgba(212, 175, 110, 0.22) 0%, rgba(212, 175, 110, 0) 55%),
+    linear-gradient(135deg, #4a3826 0%, #2a211a 60%, #3a2c1e 100%);
+}
 .region-tile span { position: relative; z-index: 1; text-shadow: 0 1px 12px rgba(0,0,0,0.45); }
 .region-tile:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); color: #fff; }
 
