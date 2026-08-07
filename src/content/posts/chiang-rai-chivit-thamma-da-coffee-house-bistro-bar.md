@@ -70,6 +70,7 @@ faq:
     a: Wat Rong Khun (White Temple) and Baan Dam Museum (Black House) are both within a reasonable drive north of the city, making a natural half-day loop that ends with a meal here.
 aiGenerated: true
 updatedDate: '2026-07-24'
+draft: true
 ---
 
 ## Why go

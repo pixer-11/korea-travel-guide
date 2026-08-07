@@ -1,8 +1,6 @@
 ---
 title: 'Barra Oso: Barcelona Travel Guide'
-description: >-
-  Barra Oso in Barcelona, Spain — a new/trending spot: what it is, where it is,
-  and how to visit.
+description: 'Barra Oso in Barcelona, Spain — a new/trending spot: what it is, where it is, and how to visit.'
 country: Spain
 region: Barcelona
 category: trendy
@@ -10,42 +8,25 @@ pubDate: '2026-07-29'
 tags:
   - barcelona
   - new & trending
-quickAnswer: >-
-  Barra Oso is an uptown Barcelona bar-restaurant that's landed as one of the
-  city's hottest new tables for 2026 — a "The Bear"-inspired room with an open
-  kitchen, natural wine, and a DJ-fuelled late-night energy, best known for its
-  amberjack crudo and steak tartare. Go for a late dinner rather than an early
-  one, and book ahead since word has spread fast. Confirm current hours and
-  reservation policy directly before you go, as details shift with demand.
+quickAnswer: Barra Oso is an uptown Barcelona bar-restaurant that's landed as one of the city's hottest new tables for 2026 — a "The Bear"-inspired room with an open kitchen, natural wine, and a DJ-fuelled late-night energy, best known for its amberjack crudo and steak tartare. Go for a late dinner rather than an early one, and book ahead since word has spread fast. Confirm current hours and reservation policy directly before you go, as details shift with demand.
 faq:
   - q: Do I need a reservation at Barra Oso?
-    a: >-
-      Yes — it's one of Barcelona's most talked-about 2026 openings, so booking
-      ahead is strongly recommended, especially for weekend nights. If you can't
-      get a table, ask about seating at the open-kitchen bar.
+    a: Yes — it's one of Barcelona's most talked-about 2026 openings, so booking ahead is strongly recommended, especially for weekend nights. If you can't get a table, ask about seating at the open-kitchen bar.
   - q: What should I order?
-    a: >-
-      The amberjack crudo and the steak tartare are the two signature dishes
-      people come back for. Pair them with a glass from the natural wine list,
-      and ask staff what else is currently on the menu since it's a newer,
-      evolving kitchen.
+    a: The amberjack crudo and the steak tartare are the two signature dishes people come back for. Pair them with a glass from the natural wine list, and ask staff what else is currently on the menu since it's a newer, evolving kitchen.
   - q: What's the vibe — is it more restaurant or nightlife?
-    a: >-
-      Both. It opens as a serious dinner spot with an open kitchen and natural
-      wine, then shifts later into a DJ-driven late-night scene. Go early for
-      the food, later for the full energy.
+    a: Both. It opens as a serious dinner spot with an open kitchen and natural wine, then shifts later into a DJ-driven late-night scene. Go early for the food, later for the full energy.
   - q: Where is it located in Barcelona?
-    a: >-
-      It's in the uptown dining area of the city, away from the old-town tourist
-      core. Given how recently it opened, confirm the exact address and nearest
-      metro stop on a map shortly before you go.
+    a: It's in the uptown dining area of the city, away from the old-town tourist core. Given how recently it opened, confirm the exact address and nearest metro stop on a map shortly before you go.
   - q: What are the opening hours?
-    a: >-
-      Not fixed here — as a newly opened, in-demand restaurant, hours can shift.
-      Check the current schedule and reservation policy directly before planning
-      your visit.
+    a: Not fixed here — as a newly opened, in-demand restaurant, hours can shift. Check the current schedule and reservation policy directly before planning your visit.
 aiGenerated: true
 photoless: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/17825828_rFFeMfwLAeC4W_xtYmNUEoMjjV2NdfxEe51CGUHUtQs.jpg
+  credit: 'Photo: Foursquare user content (El Nacional Barra de Vins)'
+  license: foursquare
+  source: https://foursquare.com/v/5b2171e5a795bd0039e1a214
 ---
 
 ## Why go

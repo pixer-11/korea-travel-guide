@@ -6,11 +6,10 @@ region: Clarke Quay
 category: restaurant
 pubDate: '2026-07-23T07:37:16.109Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/138369165_ZCHtpoTrafu6S9uPRWHWCyOmcOXO-aadwQidnX7Z5lw.jpg
+  url: https://fastly.4sqi.net/img/general/original/3275092_GpW_TTLMW5LzAWU5CLqVR_lnuRzFRna6JUS_D46S3hc.jpg
   credit: 'Photo: Foursquare user content (Malayan Settlement)'
   license: foursquare
   source: https://foursquare.com/v/6791b6e123751242ab2af9a6
-gallery: []
 place:
   id: ChIJc5IXFPUZ2jERJEHKmmHiZlA
   name: Malayan Settlement
@@ -46,7 +45,7 @@ place:
       - 21
     venueId: ven_416c5a69486d6d4b48454a52456a325a555046584935634a496843
   priceLevel: 2
-  phone: '+65 9009 7345'
+  phone: +65 9009 7345
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -72,7 +71,6 @@ faq:
     a: Yes — the Singapore River promenade, Read Bridge, and Fort Canning Park are all within a 5-10 minute walk, making it easy to combine with an evening riverside stroll.
 aiGenerated: true
 updatedDate: '2026-07-24'
-draft: true
 ---
 
 ## Why go

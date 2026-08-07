@@ -1,9 +1,6 @@
 ---
 title: Sightseeing in Busan
-description: >-
-  Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and
-  skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food,
-  and Gamcheon Culture Village for the hillside photo-op.
+description: 'Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food, and Gamcheon Culture Village for the hillside photo-op.'
 region: Busan
 country: South Korea
 category: attraction
@@ -12,43 +9,20 @@ gallery: []
 tags:
   - busan
   - sightseeing
-quickAnswer: >-
-  Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and
-  skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food,
-  and Gamcheon Culture Village for the hillside photo-op. Two to three full days
-  is enough to hit the highlights via subway plus short taxi hops; go in
-  May–June or September–October to avoid summer crowds and humidity.
+quickAnswer: 'Focus a Busan trip around three zones: Haeundae/Gwangalli for beaches and skyline views, Nampo-dong/Jagalchi for old-city harbor life and street food, and Gamcheon Culture Village for the hillside photo-op. Two to three full days is enough to hit the highlights via subway plus short taxi hops; go in May–June or September–October to avoid summer crowds and humidity.'
 faq:
   - q: How many days do I need for Busan?
-    a: >-
-      Two full days covers the main sights (Haeundae, Jagalchi, Gamcheon
-      Village); three days allows time for Beomeosa Temple and Geumjeongsan
-      Mountain, or a slower pace along the beaches.
+    a: Two full days covers the main sights (Haeundae, Jagalchi, Gamcheon Village); three days allows time for Beomeosa Temple and Geumjeongsan Mountain, or a slower pace along the beaches.
   - q: What's the best way to get around Busan?
-    a: >-
-      The subway (Lines 1–4) reaches most major sights, and a T-money card works
-      across subway, bus, and taxi. For coastal areas like Haeundae to
-      Gwangalli, taxis are cheap and often quicker than transferring subway
-      lines.
+    a: The subway (Lines 1–4) reaches most major sights, and a T-money card works across subway, bus, and taxi. For coastal areas like Haeundae to Gwangalli, taxis are cheap and often quicker than transferring subway lines.
   - q: When is the best time to visit Busan?
-    a: >-
-      May–early June and September–October offer mild weather and clear coastal
-      views. Summer is hot, humid, and crowded with beachgoers; October also
-      brings the Busan International Film Festival, which is lively but fills
-      hotels fast.
+    a: May–early June and September–October offer mild weather and clear coastal views. Summer is hot, humid, and crowded with beachgoers; October also brings the Busan International Film Festival, which is lively but fills hotels fast.
   - q: Is Gamcheon Culture Village worth the trip?
-    a: >-
-      Yes for photography and a walk through a real hillside neighborhood, but
-      go early morning on weekdays to avoid heavy tour-group crowds, and wear
-      good shoes for the steep alleys.
+    a: Yes for photography and a walk through a real hillside neighborhood, but go early morning on weekdays to avoid heavy tour-group crowds, and wear good shoes for the steep alleys.
   - q: What food should I try while sightseeing?
-    a: >-
-      Dwaeji gukbap (pork and rice soup) is Busan's signature dish, best found
-      near Seomyeon or Busan Station. At Jagalchi Market and BIFF Square, try
-      fresh raw fish upstairs at the market and ssiat hotteok (seed-filled sweet
-      pancakes) as a street snack.
+    a: Dwaeji gukbap (pork and rice soup) is Busan's signature dish, best found near Seomyeon or Busan Station. At Jagalchi Market and BIFF Square, try fresh raw fish upstairs at the market and ssiat hotteok (seed-filled sweet pancakes) as a street snack.
 aiGenerated: true
-draft: false
+draft: true
 photoless: true
 ---
 

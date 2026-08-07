@@ -8212,13 +8212,6 @@
   "reasonKo": "현대적 고급 레스토랑, 피자 오븐, 세련된 바",
   "at": "2026-08-07T09:19:08.722Z"
  },
- "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "bangkok-the-grand-palace",
-  "verdict": "MATCH",
-  "reason": "Thai temple architecture at sunset, Bangkok setting",
-  "reasonKo": "방콕의 태국 사원 건축, 석양",
-  "at": "2026-08-07T09:19:11.960Z"
- },
  "barcelona-mirador-torre-glories\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "barcelona-mirador-torre-glories",
   "verdict": "MATCH",
@@ -8275,26 +8268,12 @@
   "reasonKo": "태국 카페의 전형적인 디저트와 복권",
   "at": "2026-08-07T09:19:37.866Z"
  },
- "chiang-rai-khao-soi-restaurant\u0001https://fastly.4sqi.net/img/general/original/41366177_IEUfvo8n0H-gRSCr-bNlkQjLXNrEGobw7ck8QWIf9io.jpg": {
-  "slug": "chiang-rai-khao-soi-restaurant",
-  "verdict": "WEAK",
-  "reason": "Modern casual dining space, lacks distinctive Khao Soi resta",
-  "reasonKo": "일반적인 현대식 식당, 카오소이 특성 부족",
-  "at": "2026-08-07T09:19:39.814Z"
- },
  "chicago-medinah-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg/1920px-Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "chicago-medinah-temple",
   "verdict": "MATCH",
   "reason": "Ornate brick building with Islamic architecture, Chicago",
   "reasonKo": "시카고의 이슬람 건축 양식 건물",
   "at": "2026-08-07T09:19:42.679Z"
- },
- "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
-  "slug": "chinatown-my-awesome-cafe",
-  "verdict": "WEAK",
-  "reason": "Generic beverage, no distinctive venue markers visible",
-  "reasonKo": "일반적인 음료, 특정 장소 특징 없음",
-  "at": "2026-08-07T09:19:44.507Z"
  },
  "delhi-nisaba\u0001https://fastly.4sqi.net/img/general/original/4545393_jUSEayQ0EXR3H9FbdIQsPoZyfvNzR628MUkr5k-ge1g.jpg": {
   "slug": "delhi-nisaba",
@@ -8317,33 +8296,12 @@
   "reasonKo": "강릉의 전통 한옥 건축물과 일치",
   "at": "2026-08-07T09:19:53.082Z"
  },
- "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
-  "slug": "guangzhou-huacheng-square",
-  "verdict": "MATCH",
-  "reason": "Tall modern tower, palm trees, Guangzhou nightscape",
-  "reasonKo": "광저우 야경, 고층 현대 건물, 야자수",
-  "at": "2026-08-07T09:19:55.197Z"
- },
  "gyeongju-seokguram\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/1920px-Front_view_of_Seokguram_from_front_chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "gyeongju-seokguram",
   "verdict": "MISMATCH",
   "reason": "Image shows Western temple/museum, not Korean Buddhist grott",
   "reasonKo": "한국 불교 석굴 유적과 무관한 서양 건축",
   "at": "2026-08-07T09:19:57.407Z"
- },
- "hiroshima-hiroshima-breakfast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/3840px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "hiroshima-hiroshima-breakfast",
-  "verdict": "WEAK",
-  "reason": "Generic hotel breakfast, could be anywhere",
-  "reasonKo": "어디서나 볼 수 있는 일반적인 호텔 조식",
-  "at": "2026-08-07T09:19:59.978Z"
- },
- "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
-  "slug": "jakarta-social-house-grand-indonesia",
-  "verdict": "MATCH",
-  "reason": "Multiple dishes from Social House Jakarta restaurant",
-  "reasonKo": "소셜하우스 자카르타 레스토랑의 다양한 음식",
-  "at": "2026-08-07T09:20:01.831Z"
  },
  "los-angeles-lielle\u0001https://fastly.4sqi.net/img/general/original/496805_u0_KFq_ZnQkHqOrx9tjv3EYPj7MYJo-0gvu9c9G04rw.jpg": {
   "slug": "los-angeles-lielle",
@@ -8372,13 +8330,6 @@
   "reason": "Professional kitchen with hanging fish, trendy Milan restaur",
   "reasonKo": "밀라노 트렌디 레스토랑의 전문 주방",
   "at": "2026-08-07T09:20:12.872Z"
- },
- "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
-  "slug": "new-orleans-french-quarter",
-  "verdict": "MATCH",
-  "reason": "Ornate arched passage with festive lights, New Orleans style",
-  "reasonKo": "뉴올리언스 스타일의 화려한 아치형 통로",
-  "at": "2026-08-07T09:20:14.943Z"
  },
  "new-orleans-oak-alley-plantation\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
   "slug": "new-orleans-oak-alley-plantation",
@@ -8415,13 +8366,6 @@
   "reasonKo": "유리를 통해 보이는 딤섬 준비 모습",
   "at": "2026-08-07T09:20:30.172Z"
  },
- "rome-luna\u0001https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg": {
-  "slug": "rome-luna",
-  "verdict": "WEAK",
-  "reason": "Generic brunch setup; could be anywhere",
-  "reasonKo": "어디서나 볼 수 있는 일반적인 브런치",
-  "at": "2026-08-07T09:20:32.051Z"
- },
  "rome-tribuna-campitelli\u0001https://fastly.4sqi.net/img/general/original/512204999_L0djcXpkb8dA_C3YYjqlGJsMrs-gf6VB8q-8YaKSupU.jpg": {
   "slug": "rome-tribuna-campitelli",
   "verdict": "MATCH",
@@ -8435,13 +8379,6 @@
   "reason": "Bakery display case with artisan cakes, pastries, tarts.",
   "reasonKo": "장인정신의 케이크와 타르트를 보여주는 베이커리",
   "at": "2026-08-07T09:20:40.336Z"
- },
- "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/240315_N497EqrAslwkJwcQ4IpuOL2G_2k7u48KLWayFI-sDks.jpg": {
-  "slug": "san-francisco-the-happy-crane",
-  "verdict": "WEAK",
-  "reason": "Modern trendy interior, but no food visible or venue identif",
-  "reasonKo": "현대적이지만 음식이나 장소 확인 불가",
-  "at": "2026-08-07T09:20:44.313Z"
  },
  "seattle-biang-biang-noodles\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Biang_Biang_Mian.jpg/1920px-Biang_Biang_Mian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "seattle-biang-biang-noodles",
@@ -8457,33 +8394,12 @@
   "reasonKo": "서울 음식점과 무관한 크리스마스 장식",
   "at": "2026-08-07T09:20:50.430Z"
  },
- "singapore-milli\u0001https://fastly.4sqi.net/img/general/original/2846870_KUhZlbZqM1Qllm8uz_Mxvrnfhh_aayFPdaICKQ_gYJQ.jpg": {
-  "slug": "singapore-milli",
-  "verdict": "WEAK",
-  "reason": "Bar setup, but no distinctive venue identity visible",
-  "reasonKo": "술집 셋업이지만 장소 특정 불가",
-  "at": "2026-08-07T09:20:53.640Z"
- },
- "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
-  "slug": "surabaya-black-owl-surabaya",
-  "verdict": "MATCH",
-  "reason": "Upscale cocktail bar setting matches venue type",
-  "reasonKo": "고급 칼테일 바 분위기가 적합함",
-  "at": "2026-08-07T09:20:55.610Z"
- },
  "suzhou-master-of-the-nets-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Master_of_the_Nets_Garden_Suzhou.jpg/1920px-Master_of_the_Nets_Garden_Suzhou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "suzhou-master-of-the-nets-garden",
   "verdict": "MATCH",
   "reason": "Classic Chinese garden with pavilion, pond, architecture",
   "reasonKo": "전형적인 중국 정원, 정자, 연못, 건축물",
   "at": "2026-08-07T09:20:58.170Z"
- },
- "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "tainan-anping-old-street",
-  "verdict": "MATCH",
-  "reason": "Historic Taiwanese building with traditional architecture, A",
-  "reasonKo": "전형적인 안평 전통 건축물",
-  "at": "2026-08-07T09:21:00.016Z"
  },
  "taipei-addiction-aquatic-development\u0001https://fastly.4sqi.net/img/general/original/6400047_moki8Fk7EHLQzOjc53-GdMwq2ZZdk9WC1KaEkR7qW80.jpg": {
   "slug": "taipei-addiction-aquatic-development",

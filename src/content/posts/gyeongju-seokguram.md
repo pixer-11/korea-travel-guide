@@ -6,11 +6,10 @@ region: Gyeongju
 category: attraction
 pubDate: '2026-08-07T08:50:24.174Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/1920px-Front_view_of_Seokguram_from_front_chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Seok-Hong, Han / Wikimedia Commons (KOGL Type 1)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Front_view_of_Seokguram_from_front_chamber.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/24232909_LZBIl9deJSX_fVEiqUJDjONTLVOcrRAufG67zE_15tU.jpg
+  credit: 'Photo: Foursquare user content (Seokguram (석굴암))'
+  license: foursquare
+  source: https://foursquare.com/v/4b89e01bf964a5202d5332e3
 place:
   id: ChIJCQ6QQNqyZzUR0ujHdOUux88
   name: Seokguram
@@ -63,7 +62,6 @@ faq:
   - q: Can I go inside and touch the Buddha statue?
     a: No — a protective glass barrier separates visitors from the sculpture, installed to prevent humidity and touch damage, so you view it from just outside the chamber.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

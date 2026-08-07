@@ -1,10 +1,6 @@
 ---
 title: Barrafina in Dubai
-description: >-
-  Barrafina — London's celebrated Spanish counter-dining institution — opened
-  its first international outpost in Dubai's DIFC in late January 2026, serving
-  the same fast-fired tapas format (croquetas, grilled prawns, tortilla) at a
-  lively marble-topped bar.
+description: Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the same fast-fired tapas format (croquetas, grilled prawns, tortilla) at a lively marble-topped bar.
 country: United Arab Emirates
 region: Dubai
 category: restaurant
@@ -12,13 +8,10 @@ pubDate: '2026-07-23'
 place:
   id: ChIJb0ko4_xDXz4RrOW2NKjou8k
   name: Barrafina Restaurant DIFC
-  address: >-
-    Gate Village 01, Podium Level, Building 1 - زعبيل الثانية - DIFC - دبي -
-    United Arab Emirates
+  address: Gate Village 01, Podium Level, Building 1 - زعبيل الثانية - DIFC - دبي - United Arab Emirates
   rating: 4.4
   userRatingsTotal: 96
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14536468031404959148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14536468031404959148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.2132629
   lng: 55.282391700000005
@@ -34,40 +27,25 @@ place:
 tags:
   - dubai
   - new & trending
-quickAnswer: >-
-  Barrafina — London's celebrated Spanish counter-dining institution — opened
-  its first international outpost in Dubai's DIFC in late January 2026, serving
-  the same fast-fired tapas format (croquetas, grilled prawns, tortilla) at a
-  lively marble-topped bar. Go for lunch or an early dinner to snag counter
-  seats, since the concept doesn't take large parties, and confirm reservation
-  policy and hours directly with the restaurant before visiting, as details for
-  a newly opened venue can shift quickly.
+quickAnswer: Barrafina — London's celebrated Spanish counter-dining institution — opened its first international outpost in Dubai's DIFC in late January 2026, serving the same fast-fired tapas format (croquetas, grilled prawns, tortilla) at a lively marble-topped bar. Go for lunch or an early dinner to snag counter seats, since the concept doesn't take large parties, and confirm reservation policy and hours directly with the restaurant before visiting, as details for a newly opened venue can shift quickly.
 faq:
   - q: Where exactly is Barrafina Dubai located?
-    a: >-
-      It's in DIFC (Dubai International Financial Centre), the district known
-      for finance, galleries, and upscale dining just off Sheikh Zayed Road.
+    a: It's in DIFC (Dubai International Financial Centre), the district known for finance, galleries, and upscale dining just off Sheikh Zayed Road.
   - q: How do I get there by metro?
-    a: >-
-      Take the Red Line to Emirates Towers or Financial Centre station, then
-      walk into DIFC — allow 5-10 minutes on foot depending on the exact
-      entrance.
+    a: Take the Red Line to Emirates Towers or Financial Centre station, then walk into DIFC — allow 5-10 minutes on foot depending on the exact entrance.
   - q: Do I need a reservation?
-    a: >-
-      This depends on current policy, which may mirror London's counter-only,
-      no-large-booking approach. Confirm directly with the restaurant before
-      visiting, since it only opened in late January 2026.
+    a: This depends on current policy, which may mirror London's counter-only, no-large-booking approach. Confirm directly with the restaurant before visiting, since it only opened in late January 2026.
   - q: What should I order?
-    a: >-
-      Signature dishes carried over from London include croquetas, grilled
-      prawns, and tortilla española — classic Barrafina small plates meant to be
-      shared course by course rather than all at once.
+    a: Signature dishes carried over from London include croquetas, grilled prawns, and tortilla española — classic Barrafina small plates meant to be shared course by course rather than all at once.
   - q: What's the best time to visit to avoid a wait?
-    a: >-
-      Early lunch or an early dinner, before the after-work DIFC crowd arrives,
-      tends to offer the best shot at counter seating.
+    a: Early lunch or an early dinner, before the after-work DIFC crowd arrives, tends to offer the best shot at counter seating.
 aiGenerated: true
 photoless: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/20545493_0RjAAOhZd5Q_scHLHgJLakRDBabDS1xoYeyaIulJiBI.jpg
+  credit: 'Photo: Foursquare user content (Mercato - DIFC)'
+  license: foursquare
+  source: https://foursquare.com/v/574d8a59498e4e4889ccbf77
 ---
 
 ## Why Barrafina matters

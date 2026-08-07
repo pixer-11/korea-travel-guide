@@ -1,8 +1,6 @@
 ---
 title: NAM Kitchen in Gardena
-description: >-
-  NAM Kitchen in Gardena, United States — a new/trending spot: what it is, where
-  it is, and how to visit.
+description: 'NAM Kitchen in Gardena, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
 region: Gardena
 category: hidden-gem
@@ -10,41 +8,21 @@ pubDate: '2026-07-24'
 tags:
   - gardena
   - new & trending
-quickAnswer: >-
-  NAM Kitchen is a Vietnamese-Peruvian fusion restaurant in Gardena, a suburb
-  south of Los Angeles, that landed at No. 3 on Yelp's 2026 Top 100 U.S.
-  Restaurants list and was flagged as the most-reviewed business on that year's
-  ranking. Expect a wait if you go at peak dinner hours, and confirm current
-  hours and reservation policy before heading over since demand has spiked since
-  the list dropped.
+quickAnswer: NAM Kitchen is a Vietnamese-Peruvian fusion restaurant in Gardena, a suburb south of Los Angeles, that landed at No. 3 on Yelp's 2026 Top 100 U.S. Restaurants list and was flagged as the most-reviewed business on that year's ranking. Expect a wait if you go at peak dinner hours, and confirm current hours and reservation policy before heading over since demand has spiked since the list dropped.
 faq:
   - q: Do I need a reservation at NAM Kitchen?
-    a: >-
-      Reservation policies can change quickly for a restaurant that just landed
-      on a major national list, so check the restaurant's current booking status
-      directly before you go — don't rely on older information.
+    a: Reservation policies can change quickly for a restaurant that just landed on a major national list, so check the restaurant's current booking status directly before you go — don't rely on older information.
   - q: How do I get to NAM Kitchen in Gardena without a car?
-    a: >-
-      LA Metro buses serve Gardena's commercial corridors, but connections from
-      central LA can take 45+ minutes; driving or ride-share is generally
-      faster, and LAX is roughly a 15-20 minute drive away.
+    a: LA Metro buses serve Gardena's commercial corridors, but connections from central LA can take 45+ minutes; driving or ride-share is generally faster, and LAX is roughly a 15-20 minute drive away.
   - q: What kind of food does NAM Kitchen serve?
-    a: >-
-      It's a Vietnamese-Peruvian fusion menu, blending herb-forward,
-      chile-driven Peruvian flavors with Vietnamese staples like fish sauce,
-      fresh herbs, and rice or noodle dishes.
+    a: It's a Vietnamese-Peruvian fusion menu, blending herb-forward, chile-driven Peruvian flavors with Vietnamese staples like fish sauce, fresh herbs, and rice or noodle dishes.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Try an early weekday lunch or dinner rather than Friday or Saturday night
-      — demand has spiked since its Yelp Top 100 ranking, and weekends are
-      likely the busiest.
+    a: Try an early weekday lunch or dinner rather than Friday or Saturday night — demand has spiked since its Yelp Top 100 ranking, and weekends are likely the busiest.
   - q: Is NAM Kitchen a hidden gem or well-known now?
-    a: >-
-      It's trending fast: it ranked No. 3 on Yelp's 2026 Top 100 U.S.
-      Restaurants list and was the most-reviewed business on that list, so
-      expect crowds rather than a quiet, undiscovered scene.
+    a: 'It''s trending fast: it ranked No. 3 on Yelp''s 2026 Top 100 U.S. Restaurants list and was the most-reviewed business on that list, so expect crowds rather than a quiet, undiscovered scene.'
 aiGenerated: true
 photoless: true
+draft: true
 ---
 
 ## Why NAM Kitchen stands out
