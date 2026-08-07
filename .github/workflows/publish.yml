@@ -234,6 +234,18 @@ jobs:
           set -o pipefail
           node scripts/build-itineraries.mjs 2>&1 | tee /tmp/itin.log
 
+      # AFTER the builder, on purpose. Parking an itinerary whose stop got
+      # quarantined is correct; the missing half was the way back. Un-parking
+      # only ever happened as a side effect of a SUCCESSFUL regeneration, so an
+      # itinerary whose stops had all returned stayed down for as long as
+      # regeneration kept failing for an unrelated reason. Bangkok — the
+      # best-covered city on the site — sat behind a 301 for three days that
+      # way, with a finished, validator-clean file on disk. This asks the only
+      # question that decides it: are the stops live again?
+      - name: Republish itineraries whose stops came back
+        continue-on-error: true
+        run: node scripts/unpark-itineraries.mjs 2>&1 | tee -a /tmp/itin.log
+
       # Prose-only translation (ko/ja/es/zh) of whatever itinerary files exist —
       # resumable, skips up-to-date files, re-translates when sourceHash differs.
       - name: Translate itineraries (ko/ja/es/zh)
