@@ -124,6 +124,32 @@ const TOPIC_TEMPLATES = [
   { category: 'restaurant', topic: 'seafood', q: (r, c) => `best seafood restaurant in ${r} ${c}` },
   { category: 'restaurant', topic: 'noodles', q: (r, c) => `popular noodle or rice shop in ${r} ${c}` },
   { category: 'restaurant', topic: 'breakfast', q: (r, c) => `best breakfast or brunch spot in ${r} ${c}` },
+  // Nine more, 2026-08-07, to make a 5-day itinerary reachable at all.
+  //
+  // gateFor() in src/lib/itinerary.mjs wants 24 qualifying venues in one city
+  // before it will build the 5-day variant. This list generates exactly one
+  // candidate per template per city, so with 15 entries the automated pipeline
+  // capped every city at 15 and the gate could never be met. Today the
+  // best-covered city is Bangkok at 17, and it passed 15 only because Thailand
+  // carries 12 hand-curated targets. The code was offering a product it could
+  // not deliver.
+  //
+  // Chosen to be findable rather than to pad a number: each is a category
+  // Google Places actually returns for an ordinary city, and none repeats a
+  // template above — an art gallery is not the museum, a night-view spot is not
+  // the daytime observation deck. Balance is now 8 attraction / 7 restaurant /
+  // 5 trendy / 4 hidden-gem, keeping restaurants plentiful because the
+  // itinerary solver fills its lunch slot from that category alone and an
+  // attraction-heavy city produces day plans with no meal in them.
+  { category: 'attraction', topic: 'art gallery', q: (r, c) => `well-known art gallery in ${r} ${c}` },
+  { category: 'attraction', topic: 'night view', q: (r, c) => `best night view spot in ${r} ${c}` },
+  { category: 'attraction', topic: 'waterfront', q: (r, c) => `riverside or waterfront walk in ${r} ${c}` },
+  { category: 'restaurant', topic: 'vegetarian', q: (r, c) => `best vegetarian restaurant in ${r} ${c}` },
+  { category: 'restaurant', topic: 'grill', q: (r, c) => `popular grill or barbecue restaurant in ${r} ${c}` },
+  { category: 'trendy', topic: 'concept cafe', q: (r, c) => `unique concept cafe in ${r} ${c}` },
+  { category: 'trendy', topic: 'design shop', q: (r, c) => `independent design or lifestyle shop in ${r} ${c}` },
+  { category: 'hidden-gem', topic: 'old quarter', q: (r, c) => `old alley or historic quarter in ${r} ${c}` },
+  { category: 'hidden-gem', topic: 'bookshop', q: (r, c) => `independent bookshop worth visiting in ${r} ${c}` },
 ];
 
 async function main() {
