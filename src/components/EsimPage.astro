@@ -4,7 +4,7 @@ import Newsletter from './Newsletter.astro';
 import Emoji from './Emoji.astro';
 import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
-import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeEsim } from '../i18n/esim';
 import { esimCountries } from '../lib/esim-paths.mjs';
@@ -29,11 +29,21 @@ const metaTitle = fill('esim.metaTitle');
 const metaDesc = fill('esim.metaDesc');
 const dek = fill('esim.dek');
 
-// Klook eSIM search for this country, through the account's own affiliate
-// redirect (campaign 13694, pid 754088) — the same wiring PlanTrip uses, with
-// the store language following the page language via klookLocale. eSIM is the
-// highest-commission Klook category, which is why this page type exists.
-const klookEsim = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(`${country.name} eSIM`)}`)}`;
+// Yesim, not Klook. These pages were built on the belief that eSIM was Klook's
+// highest-commission category at ~20%; that rate is Klook's DIRECT programme.
+// Through Travelpayouts, marker 754088 earns 2–5% on everything Klook sells
+// (confirmed on the account's own Programs screen, 2026-08-07). Yesim — already
+// active on the same account, no application needed — pays 18%.
+//
+// The cookie decides it even more than the rate. Yesim's window is NINETY days
+// against Klook's 7–30, and it is the only 90-day window on the account. This
+// page type exists to be read by someone planning a trip weeks out; a 30-day
+// cookie expires before most of them buy anything.
+//
+// A country-specific link is not available for Yesim, so this is the storefront
+// with a per-page SubID appended — the report shows SubIDs record correctly, and
+// this is what will finally say WHICH country page earns.
+const esimHref = `https://yesim.tpx.lv/KABevuVe?sub_id=${encodeURIComponent(`esim_${country.slug}`)}`;
 
 const cmpRows = ['Setup', 'Share', 'Battery', 'Cost', 'Risk'].map((r) => ({
   label: t(`esim.row${r}` as any),
@@ -84,7 +94,7 @@ const jsonLd = {
     <section class="esim-quick">
       <h2>{t('esim.quickH')}</h2>
       <p>{fill('esim.quick')}</p>
-      <a class="esim-btn" href={klookEsim} target="_blank" rel="sponsored noopener">
+      <a class="esim-btn" href={esimHref} target="_blank" rel="sponsored noopener">
         <Emoji name="antenna-bars" /> {fill('esim.ctaBtn')}
       </a>
     </section>
@@ -158,7 +168,7 @@ const jsonLd = {
     <section class="esim-cta">
       <h2>{fill('esim.ctaH')}</h2>
       <p class="section-dek">{t('esim.ctaDek')}</p>
-      <a class="esim-btn" href={klookEsim} target="_blank" rel="sponsored noopener">
+      <a class="esim-btn" href={esimHref} target="_blank" rel="sponsored noopener">
         <Emoji name="antenna-bars" /> {fill('esim.ctaBtn')}
       </a>
       <p class="esim-price-note">{t('esim.priceNote')}</p>

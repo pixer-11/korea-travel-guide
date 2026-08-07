@@ -42,7 +42,11 @@ const services: { icon: string; label: string; desc: string; href: string; inter
     const hasGuide = esimSlug && (esimFacts as Record<string, unknown>)[esimSlug];
     return [hasGuide
       ? { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: localizePath(`/tools/esim/${esimSlug}`, lang), internal: true }
-      : { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe' }];
+      // SubID so this fallback is separable from the guide pages in the
+      // Travelpayouts report. Confirmed 2026-08-07 that SubIDs do record: of
+      // 138 clicks, 93 arrived with an empty one purely because most links
+      // never set one.
+      : { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: 'https://yesim.tpx.lv/KABevuVe?sub_id=plantrip_esim' }];
   })(),
   // Insurance card SHELVED until ~Oct 2026: EKTA left Travelpayouts (its links
   // 302 to VisitorsCoverage p=4552), and VisitorsCoverage is traffic-locked
