@@ -27,21 +27,12 @@ place:
   lng: 14.612004200000001
   busyness:
     updated: 2026-08-05
-    weekdayQuiet:
-      - 9
-      - 10
-      - 18
-      - 19
-      - 20
+    weekdayQuiet: [9, 10, 18, 19]
     weekdayBusy:
       - 13
       - 14
       - 15
-    weekendQuiet:
-      - 9
-      - 10
-      - 19
-      - 20
+    weekendQuiet: [9, 10, 19]
     weekendBusy:
       - 12
       - 13
@@ -49,6 +40,15 @@ place:
       - 15
       - 16
     venueId: "ven_6b6a534541416768684933524d784f562d5a33373638624a496843"
+  phone: '+39 089 857621'
+  openingHours:
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
 tags:
   - "amalfi coast"
   - "museum"

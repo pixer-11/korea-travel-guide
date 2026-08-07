@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.749584400000002
   lng: 100.54066329999999
+  phone: '+66 2 209 1700'
+  openingHours:
+    - 'Monday: 10:00 AM – 12:00 AM'
+    - 'Tuesday: 10:00 AM – 12:00 AM'
+    - 'Wednesday: 10:00 AM – 12:00 AM'
+    - 'Thursday: 10:00 AM – 12:00 AM'
+    - 'Friday: 10:00 AM – 12:00 AM'
+    - 'Saturday: 10:00 AM – 12:00 AM'
+    - 'Sunday: 10:00 AM – 12:00 AM'
 tags:
   - bangkok
   - bar

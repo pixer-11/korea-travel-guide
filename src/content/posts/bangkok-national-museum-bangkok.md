@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7576171
   lng: 100.4925167
+  phone: '+66 2 224 1370'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 8:30 AM – 4:00 PM'
+    - 'Thursday: 8:30 AM – 4:00 PM'
+    - 'Friday: 8:30 AM – 4:00 PM'
+    - 'Saturday: 8:30 AM – 4:00 PM'
+    - 'Sunday: 8:30 AM – 4:00 PM'
 tags:
   - bangkok
   - museum

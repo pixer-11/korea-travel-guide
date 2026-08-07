@@ -1,15 +1,12 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 48 itinerary stop(s) queued first
+Priority: 49 itinerary stop(s) queued first
+  ✓ bangkok-national-museum-bangkok.md +phone +7h hours (new post top-up)
   – bangkok-saladaeng.md: nothing new
+  ✓ bangkok-suan-luang-rama-ix.md +phone +7h hours (new post top-up)
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
   – bangkok-the-grand-palace.md: nothing new
-  ✓ new-york-american-museum-of-natural-history.md +phone +7h hours (new post top-up)
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17,18,19h (venue not open then); weekendQuiet: dropped 18,19,20h (venue not open then) — nothing left
-  ✓ new-york-castle-clinton-national-monument.md +phone +7h hours (new post top-up)
-  ✓ new-york-chelsea-market.md +phone +7h hours (new post top-up)
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ new-york-city-ci-siamo.md +phone +7h hours
-  ✓ new-york-one-world-observatory.md +phone +7h hours (new post top-up)
-  ✓ new-york-statue-of-liberty.md +phone +7h hours
+  – bangkok-the-temple-of-the-emerald-buddha.md: nothing new
+  ✓ bangkok-view-rooftop-bangkok.md +phone +7h hours (new post top-up)
   – new-york-the-channel-gardens.md: nothing new
   – new-york-times-square.md: nothing new
   – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
@@ -26,6 +23,9 @@ Priority: 48 itinerary stop(s) queued first
   – ajman-ajman-secret-beach.md: nothing new
   – amalfi-coast-amalfi-coast.md: nothing new
   – amalfi-coast-positano.md: nothing new
-  ✓ amalfi-coast-valle-delle-ferriere.md +phone (new post top-up)
+  – amalfi-coast-valle-delle-ferriere.md: nothing new
+  ✓ amalfi-coast-villa-rufolo.md +phone +7h hours (new post top-up)
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
+  – ankara-ankara-castle.md: nothing new
 
-BACKFILL RESULT: updated 7, backlog-updated 2, already-complete 40, no-new-data 18, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 793 (APPLIED).
+BACKFILL RESULT: updated 4, backlog-updated 0, already-complete 45, no-new-data 21, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 811 (APPLIED).

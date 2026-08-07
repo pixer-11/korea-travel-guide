@@ -23,20 +23,11 @@ place:
   lng: 100.6641942
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 19
+    weekdayQuiet: [10, 11, 12, 13, 14]
     weekdayBusy:
       - 17
       - 18
-    weekendQuiet:
-      - 12
-      - 13
-      - 19
+    weekendQuiet: [12, 13]
     weekendBusy:
       - 7
       - 8
@@ -44,6 +35,15 @@ place:
       - 17
       - 18
     venueId: ven_6778484964546369544e525245544867525a4d706d31754a496843
+  phone: '+66 2 106 2674'
+  openingHours:
+    - 'Monday: 5:00 AM – 7:00 PM'
+    - 'Tuesday: 5:00 AM – 7:00 PM'
+    - 'Wednesday: 5:00 AM – 7:00 PM'
+    - 'Thursday: 5:00 AM – 7:00 PM'
+    - 'Friday: 5:00 AM – 7:00 PM'
+    - 'Saturday: 5:00 AM – 7:00 PM'
+    - 'Sunday: 5:00 AM – 7:00 PM'
 tags:
   - bangkok
   - park
