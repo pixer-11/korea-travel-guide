@@ -157,7 +157,7 @@ const cityRows = [...cityAgg.entries()]
   .sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0]))
   .slice(0, 10)
   .map(([city, v]) => ({ city, n: v.n, hour: hourLabel(modeHour(v.freq)) }));
-const fill = (key: string, vars: Record<string, string | number>) =>
+const fill = (key: Parameters<typeof t>[0], vars: Record<string, string | number>) =>
   Object.entries(vars).reduce((s, [k, v]) => s.replace(`{${k}}`, String(v)), t(key));
 
 // Dataset markup alongside the WebApplication: this is what makes the page
