@@ -14,6 +14,7 @@ import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
 import { buildRoundups } from '../lib/roundups.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { clip } from '../lib/clip.mjs';
 
 // Shared region-hub body for BOTH the English route (/regions/<region>) and the
 // localized route (/[lang]/regions/<region>). Curated intros/FAQ come from
@@ -152,7 +153,13 @@ const jsonLd = {
 };
 
 const metaTitle = t('region.guideTitle').replace('{region}', regionLabel);
-const metaDesc = info?.blurb?.slice(0, 155) ?? t('region.metaDesc').replace('{region}', regionLabel).replace('{country}', countryLabel);
+// clip(), not slice(155). The bare slice cut 173 of 175 English region blurbs
+// mid-word and every Spanish one — /regions/paris/ ended its snippet on
+// "…hidden passages, and neighborhood " (measured live 2026-08-07), and
+// /ko/regions/washington-dc/ on "랑팡(L'", an unclosed bracket. These are the
+// pillar pages meant to win "paris travel guide"; a snippet that stops
+// mid-word reads as broken to anyone scanning a results page.
+const metaDesc = info?.blurb ? clip(info.blurb) : t('region.metaDesc').replace('{region}', regionLabel).replace('{country}', countryLabel);
 // Share card: a hub about a place should unfurl as that place, not the logo.
 // Falls through to the brand default in BaseLayout when nothing has a thumbnail.
 // og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch

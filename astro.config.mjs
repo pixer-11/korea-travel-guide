@@ -151,6 +151,30 @@ function regionSlug(input) {
     .replace(/^-+|-+$/g, '')
     .slice(0, 80);
 }
+// Region NAME normalizations: an old region spelling 301s to the canonical city
+// so an indexed URL keeps its equity.
+//
+// Module scope, not inside regionRedirects(), because the SITEMAP needs it too.
+// The region route builds a page for every raw region string it finds, so each
+// alias source got both a built page AND a 301 over it — and the sitemap, which
+// could not see this map from in there, submitted all of them. A live HEAD
+// census of the sitemap on 2026-08-07 returned 6,125 × 200 and exactly 10 × 301:
+// new-york-city and pasay-city, in five languages each.
+/** @type {Record<string, string>} */
+const REGION_ALIAS = {
+  'new-york-city': 'new-york',
+  'metro-manila': 'manila',
+  'pasay-city': 'manila',
+  'quezon-city': 'manila',
+  'makati-city': 'makati',
+  xian: 'xi-an',
+  // Greater-Bangkok satellite: Nonthaburi (Impact Arena's province) has no
+  // hub of its own, which sent its quarantined concert post's 301 to the
+  // homepage. Bangkok is where those visitors were going anyway — same
+  // metro-area convention as pasay/quezon → manila above.
+  nonthaburi: 'bangkok',
+};
+
 function regionRedirects() {
   const dir = join(__dirname, 'src/content/posts');
   let files = [];
@@ -191,20 +215,7 @@ function regionRedirects() {
   // an indexed URL keeps its equity. Defined before the drafts loop because the
   // drafts loop must apply it too — a quarantined Xian post used to redirect to
   // /regions/xian/, a spelling whose hub never existed.
-  /** @type {Record<string, string>} */
-  const alias = {
-    'new-york-city': 'new-york',
-    'metro-manila': 'manila',
-    'pasay-city': 'manila',
-    'quezon-city': 'manila',
-  'makati-city': 'makati',
-    xian: 'xi-an',
-    // Greater-Bangkok satellite: Nonthaburi (Impact Arena's province) has no
-    // hub of its own, which sent its quarantined concert post's 301 to the
-    // homepage. Bangkok is where those visitors were going anyway — same
-    // metro-area convention as pasay/quezon → manila above.
-    nonthaburi: 'bangkok',
-  };
+  const alias = REGION_ALIAS;
   /** @param {string} name */
   const canon = (name) => {
     const raw = regionSlug(name);
@@ -409,10 +420,18 @@ export default defineConfig({
       // Anything the page marks noindex must not be submitted, or Search Console
       // reports "Submitted URL marked noindex" for every one. /my-trip is
       // per-visitor, /pinterest-callback is an OAuth landing.
+      // Region ALIAS slugs are excluded too. The alias map above emits a 301 for
+      // each of them, but the region route still builds a page per raw slug, so
+      // /regions/new-york-city/ and /regions/pasay-city/ were being submitted in
+      // all five languages while returning 301 — 10 permanent "Page with
+      // redirect" rows in Search Console, and 10 built pages nothing can reach
+      // (verified live 2026-08-07: a full HEAD census of the sitemap returned
+      // 6,125 × 200 and exactly these 10 × 301).
       filter: (page) =>
         !page.includes('/embed/') &&
         !page.includes('/my-trip') &&
         !page.includes('/pinterest-callback') &&
+        !Object.keys(REGION_ALIAS).some((a) => page.includes(`/regions/${a}/`)) &&
         ![...NOINDEX_SLUGS].some((slug) => page.includes(slug + '/') || page.endsWith(slug)),
       // Advertise per-page freshness. AI search + Google use <lastmod> to decide
       // what to re-crawl and cite; on a daily-rebuilt automated site this is a

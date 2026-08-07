@@ -356,7 +356,13 @@ if (d.category === 'event' && d.eventStartDate) {
     },
     ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),
     description: description,
-    organizer: { '@id': `${site}/#org` },
+    // NO organizer. This used to declare Wander Atlas as the organizer of every
+    // event on the site — that we run La Tomatina, the Spanish Grand Prix and
+    // Comiket. It is a false statement made to Google in machine-readable form,
+    // on 98 live pages, in the one field a search engine reads as a claim of
+    // fact rather than as prose. Removed 2026-08-07; the correct value is the
+    // real organiser, which this pipeline does not know, and an absent optional
+    // property is worth strictly more than a wrong one.
   });
 }
 

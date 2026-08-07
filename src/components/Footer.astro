@@ -23,6 +23,12 @@ const year = new Date().getFullYear();
       <a href={localizePath('/tools/when-to-go', lang)}>{t('nav.tools')}</a>
       <a href={localizePath('/tools/best-time', lang)}>{t('nav.quietTimes')}</a>
       <a href={localizePath('/tools/esim', lang)}>{t('nav.esim')}</a>
+      {/* /essentials/ had exactly ONE inbound link on the whole site — the
+          homepage — while 23 English pages (17 country guides + 5 topic hubs +
+          the index), 115 across languages, hung off it, and the topic hubs got
+          two each. Every other section index is linked from here and sits at
+          1,224 inbound; this one was simply missed. */}
+      <a href={localizePath('/essentials', lang)}>{t('home.travelEssentials')}</a>
       <a href={localizePath('/events', lang)}>{t('nav.events')}</a>
       <a href={localizePath('/flights', lang)}>{t('nav.flights')}</a>
       <a href={localizePath('/my-trip', lang)}>{t('trip.title')}</a>

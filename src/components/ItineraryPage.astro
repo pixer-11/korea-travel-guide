@@ -15,6 +15,7 @@ import ItineraryEmailBox from './ItineraryEmailBox.astro';
 import PlanTrip from './PlanTrip.astro';
 import Emoji from './Emoji.astro';
 import { slugifyRegion } from '../lib/slug';
+import { thumbOr } from '../lib/wall';
 import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { closedDaysOf } from '../lib/itinerary.mjs';
@@ -400,7 +401,16 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
                 >
                   <div class="itin-stop-thumb">
                     {post.data.heroImage && (
-                      <img src={post.data.heroImage.url} alt={stopLabel} width="300" height="200" loading="lazy" decoding="async" />
+                      /* thumbOr, not the raw hero. These render at 300×200 and were
+                         pulling the 1920px Wikimedia originals — 602KB and 701KB for
+                         two of the nine on /itinerary/tokyo-3-days/, roughly 4–5MB to
+                         paint nine thumbnails. Rewriting the width in the URL is not
+                         an option: Wikimedia now serves only a fixed set of sizes
+                         (960 and 1280 answer, 320–800 return 400 "Use thumbnail sizes
+                         listed on w.wiki/GHai"). The 640px WebP the wall build already
+                         made is ~40KB, self-hosted, and thumbOr falls back to the
+                         original when a hero has no thumbnail yet. */
+                      <img src={thumbOr(post.data.heroImage.url)} alt={stopLabel} width="300" height="200" loading="lazy" decoding="async" />
                     )}
                   </div>
                   <div class="itin-stop-body">

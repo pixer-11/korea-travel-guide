@@ -15,6 +15,7 @@ import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import esimFacts from '../../data/esim-facts.json';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { clip } from '../lib/clip.mjs';
 
 // Shared country-hub body for /destinations/<country> (en) and
 // /[lang]/destinations/<country>. Country name via localizePlace, blurb via
@@ -103,11 +104,15 @@ const metaTitle = `${countryLabel} — ${t('nav.destinations')}`;
 // serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
 const ogPhoto = pickOgPhoto(posts);
 
+// clip(), not slice(155) — see RegionHub for the measurement behind this. Here
+// the bare slice cut /destinations/singapore/ at "…Peranakan cultures meet —",
+// ending the snippet on a dangling em dash.
+const metaDesc = blurb ? clip(blurb) : countryLabel;
 ---
 
 <BaseLayout image={ogPhoto}
   title={metaTitle}
-  description={blurb?.slice(0, 155) ?? countryLabel}
+  description={metaDesc}
   jsonLd={jsonLd}
   localized={true}
 >
