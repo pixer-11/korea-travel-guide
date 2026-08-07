@@ -379,6 +379,21 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
 
+      # Self-repair BEFORE the commit, so the fixes ship with the batch and the
+      # validation warning further down only ever names what a machine could
+      # not fix on its own. Added 2026-08-07, after an evening spent hand-
+      # running exactly these two on defects the daily report had flagged:
+      # ended events still speaking in future tense, and CJK translations
+      # showing literal asterisks. Both tools are idempotent and quiet when
+      # there is nothing to fix; either dying must not block the publish.
+      - name: Auto-repair known defect classes (ended-event tense, CJK bold)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
+          node scripts/repair-cjk-bold.mjs 2>&1 | tail -3 || true
+
       - name: Commit new posts
         id: commit
         run: |
