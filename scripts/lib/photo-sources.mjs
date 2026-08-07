@@ -36,6 +36,95 @@ async function fsqFetch(pathAndQuery) {
   return res;
 }
 
+// ── Venue-name identity matching (shared by Foursquare and Flickr) ──────────
+// Generic hospitality words prove nothing — "NAM Kitchen" once matched
+// "Three Spice Thai Kitchen" on 'kitchen' alone. Identity needs a
+// DISTINCTIVE token (or full-name containment). ONE list for both matchers:
+// it used to live as two near-identical copies and only one would get fixed.
+const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store',
+  'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
+  'centre', 'hotel', 'lounge',
+  // Added 2026-07-28: 'Tonkin Specialty Coffee' matched 'Shin Specialty Coffee'
+  // on the word 'specialty' alone. These describe a category, never a venue.
+  'specialty', 'speciality', 'roasters', 'roastery', 'bakery', 'bistro', 'eatery', 'diner', 'branch',
+  'village', 'viewpoint', 'view', 'night', 'day', 'walking', 'traditional', 'heritage', 'original',
+  // Added 2026-08-07: nationality/cuisine adjectives, SEO descriptors, and
+  // neighboring-business types name a CATEGORY, not a venue — "The Island
+  // Bangkok – Top Rated Thai Restaurant & Bar" (rank 4.7, 304 impressions)
+  // matched "Baan Sabai Thai Massage" 71m away on 'thai' alone and the post
+  // got quarantined. 'local' is deliberately absent: two published venues are
+  // literally named "Local Restaurant in <city>" (corpus sweep 2026-08-07);
+  // known cost of this batch is "French Market"-style landmarks, which refuse
+  // here (no photo — safe) and are covered by Commons instead.
+  'thai', 'korean', 'japanese', 'chinese', 'vietnamese', 'italian', 'french', 'indian',
+  'mexican', 'filipino', 'malay', 'malaysian', 'indonesian', 'singaporean', 'taiwanese',
+  'cantonese', 'spanish', 'greek', 'turkish', 'lebanese', 'balinese', 'khmer', 'burmese',
+  'asian', 'western',
+  'top', 'rated', 'best', 'famous', 'authentic',
+  'massage', 'spa']);
+
+// Script-aware, space-insensitive flattening: hangul/kana/thai names match too
+// ("주문진 등대" ↔ "Jumunjin Lighthouse (주문진등대)").
+const flatName = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC')
+  .replace(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]/g, '');
+const splitTokens = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC')
+  .split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/).filter(Boolean);
+
+// The city/country the search was scoped to proves nothing about WHICH venue
+// this is — every result shares it. 'Garden to Table Chiangmai' matched a
+// Chiang Mai walking street on the token 'chiangmai' alone (2026-07-28).
+// "Chiang Mai, Thailand" must also block the one-word spelling a venue name
+// uses ("Garden to Table Chiangmai"), so the joined form goes in too.
+const placeStopwords = (near) => {
+  const nearRaw = String(near || '').toLowerCase();
+  const stop = new Set(nearRaw.split(/[^a-z0-9]+/).filter((w) => w.length >= 3));
+  for (const part of nearRaw.split(',')) {
+    const joined = part.replace(/[^a-z0-9]/g, '');
+    if (joined.length >= 3) stop.add(joined);
+  }
+  return stop;
+};
+
+// The venue-name tokens that actually IDENTIFY it: generic/category words and
+// the search area's own name stripped out. Empty result = nothing to verify
+// identity with, so callers must refuse to match at all.
+export function distinctiveTokens(name, near) {
+  const stop = placeStopwords(near);
+  return splitTokens(name).filter((w) => w.length >= 3 && !GENERIC.has(w) && !stop.has(w));
+}
+
+// Pick the search result that shares venue IDENTITY with `name`, or null.
+// NAME MATCH ONLY — proximity is NOT identity (the 150m fallback once put
+// the ssambap shop NEXT DOOR onto the Manseok Dakgangjeong post; vision
+// can't tell two Korean restaurants apart from a table photo). Among matching
+// results the MOST shared distinctive tokens wins, not FSQ rank: "Nami Island"
+// took "Gamja Island" over the real "Nami Island (남이섬)" when first-match
+// ruled and the impostor sorted first (live repro 2026-08-07).
+export function pickVenueHit(name, near, results) {
+  const ourTokens = distinctiveTokens(name, near);
+  if (!ourTokens.length) return null;
+  const stop = placeStopwords(near);
+  const oursFlat = flatName(name);
+  let best = null, bestScore = 0;
+  for (const r of results || []) {
+    const rf = flatName(r.name);
+    if (!rf) continue;
+    // Token match must be on a WORD boundary of the result, not a substring of
+    // the flattened blob: "NAM Kitchen" matched "Vietnam Kitchen" because
+    // 'nam' sits inside 'vietnam', and "Sen Restaurant" matched "Essence".
+    const theirTokens = new Set(splitTokens(r.name));
+    let score = ourTokens.filter((t) => theirTokens.has(t)).length;
+    // Whole-name containment used to skip the stopword rules entirely, so
+    // "Kin Specialty Coffee" passed for "Tonkin Specialty Coffee". Require the
+    // contained name to carry a distinctive token of its own.
+    if (!score && rf.length >= 3 && oursFlat.includes(rf)) {
+      score = [...theirTokens].filter((t) => t.length >= 3 && !GENERIC.has(t) && !stop.has(t) && ourTokens.includes(t)).length;
+    }
+    if (score > bestScore) { best = r; bestScore = score; }
+  }
+  return best;
+}
+
 // Foursquare: match the venue by name near its stored coordinates, then pull
 // its photos. Returns [] when no key, no confident match, or no photos.
 export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
@@ -66,69 +155,17 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
       if ((body.results || [])[0]) console.log(`  [fsq] first result keys: ${Object.keys(body.results[0]).join(',').slice(0, 150)}`);
     }
     const results = body.results || [];
-    // Confidence: the top result's name must share a token with ours (the
-    // vision gate still has the final say — this just avoids junk lookups).
-    const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9\s]/g, '');
-    const ours = new Set(norm(name).split(/\s+/).filter((w) => w.length > 2));
-    // NAME MATCH ONLY — proximity is NOT identity (the 150m fallback once put
-    // the ssambap shop NEXT DOOR onto the Manseok Dakgangjeong post; vision
-    // can't tell two Korean restaurants apart from a table photo). Matching is
-    // script-aware and space-insensitive: hangul/kana/thai names match too
-    // ("주문진 등대" ↔ "Jumunjin Lighthouse (주문진등대)").
-    const flat = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').replace(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]/g, '');
-    const oursFlat = flat(name);
-    // Generic hospitality words prove nothing — "NAM Kitchen" once matched
-    // "Three Spice Thai Kitchen" on 'kitchen' alone. Identity needs a
-    // DISTINCTIVE token (or full-name containment).
-    const GENERIC = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store',
-      'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
-      'centre', 'hotel', 'lounge',
-      // Added 2026-07-28: 'Tonkin Specialty Coffee' matched 'Shin Specialty Coffee'
-      // on the word 'specialty' alone. These describe a category, never a venue.
-      'specialty', 'speciality', 'roasters', 'roastery', 'bakery', 'bistro', 'eatery', 'diner', 'branch',
-      'village', 'viewpoint', 'view', 'night', 'day', 'walking', 'traditional', 'heritage', 'original']);
-    // The city/country the search was scoped to proves nothing about WHICH venue
-    // this is — every result shares it. 'Garden to Table Chiangmai' matched a
-    // Chiang Mai walking street on the token 'chiangmai' alone (2026-07-28).
-    // "Chiang Mai, Thailand" must also block the one-word spelling a venue name
-    // uses ("Garden to Table Chiangmai"), so the joined form goes in too — and the
-    // venue's own region is often written that way. Without this the city token
-    // survived and matched "Chiang Mai Walking Street".
-    const nearRaw = String(near || '').toLowerCase();
-    const nearWords = nearRaw.split(/[^a-z0-9]+/).filter((w) => w.length >= 3);
-    const placeStop = new Set(nearWords);
-    for (const part of nearRaw.split(',')) {
-      const joined = part.replace(/[^a-z0-9]/g, '');
-      if (joined.length >= 3) placeStop.add(joined);
-    }
-    const ourTokens = String(name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/)
-      .filter((w) => w.length >= 3 && !GENERIC.has(w) && !placeStop.has(w));
-    if (!ourTokens.length) {
+    // Confidence: a result must share venue IDENTITY with ours (the vision
+    // gate still has the final say — this just avoids junk lookups). The
+    // matcher itself is pickVenueHit() above, extracted so tests can replay
+    // real incidents against it without the network.
+    if (!distinctiveTokens(name, near).length) {
       // Nothing distinctive left (e.g. 'The Coffee House Bangkok'): any hit would
       // rest on generic or city words, which is exactly how wrong venues got in.
       console.log(`  [fsq] "${name}" has no distinctive token after stopwords — refusing a name match`);
       return [];
     }
-    const hit = results.find((r) => {
-      const rf = flat(r.name);
-      if (!rf) return false;
-      // Token match must be on a WORD boundary of the result, not a substring of
-      // the flattened blob: "NAM Kitchen" matched "Vietnam Kitchen" because
-      // 'nam' sits inside 'vietnam', and "Sen Restaurant" matched "Essence".
-      const theirTokens = new Set(
-        String(r.name).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC')
-          .split(/[^a-z0-9가-힣ぁ-ヶ一-鿿ก-๛]+/)
-          .filter(Boolean)
-      );
-      if (ourTokens.some((t) => theirTokens.has(t))) return true;
-      // Whole-name containment used to skip the stopword rules entirely, so
-      // "Kin Specialty Coffee" passed for "Tonkin Specialty Coffee". Require the
-      // contained name to carry a distinctive token of its own.
-      if (rf.length >= 3 && oursFlat.includes(rf)) {
-        return [...theirTokens].some((t) => t.length >= 3 && !GENERIC.has(t) && !placeStop.has(t) && ourTokens.includes(t));
-      }
-      return false;
-    });
+    const hit = pickVenueHit(name, near, results);
     if (!hit) {
       if (!fsqVenuePhotos._nohit) { fsqVenuePhotos._nohit = true; console.log(`  [fsq] no hit for "${name}" — results were: ${results.map((r) => r.name + '@' + r.distance + 'm').join(' | ').slice(0, 160)}`); }
       return [];
@@ -184,20 +221,10 @@ export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
   // matched loosely, and with no lat/lng it searched the whole world. Every
   // guard in this file protected only the Foursquare branch, so the fallback
   // path — the common one, since FSQ often has nothing — was unguarded.
-  const GENERIC_F = new Set(['cafe', 'coffee', 'restaurant', 'the', 'and', 'bar', 'house', 'shop', 'store',
-    'food', 'kitchen', 'market', 'park', 'museum', 'beach', 'street', 'grill', 'garden', 'club', 'center',
-    'centre', 'hotel', 'lounge', 'specialty', 'speciality', 'roasters', 'roastery', 'bakery', 'bistro',
-    'eatery', 'diner', 'branch', 'village', 'viewpoint', 'view', 'night', 'day', 'walking', 'traditional',
-    'heritage', 'original']);
-  const nearRawF = String(near || '').toLowerCase();
-  const stopF = new Set(nearRawF.split(/[^a-z0-9]+/).filter((w) => w.length >= 3));
-  for (const part of nearRawF.split(',')) {
-    const j = part.replace(/[^a-z0-9]/g, '');
-    if (j.length >= 3) stopF.add(j);
-  }
-  const wordsOf = (v) => String(v).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC')
-    .split(/[^a-z0-9\uac00-\ud7a3\u3041-\u30f6\u4e00-\u9fff\u0e01-\u0e5b]+/).filter(Boolean);
-  const ourWords = wordsOf(name).filter((w) => w.length >= 3 && !GENERIC_F.has(w) && !stopF.has(w));
+  // The stopword list is the shared GENERIC one above: it was once a separate
+  // copy here (GENERIC_F) and only the FSQ copy got new additions.
+  const wordsOf = splitTokens;
+  const ourWords = distinctiveTokens(name, near);
   if (!ourWords.length) return [];  // nothing distinctive to verify against
   if (lat == null || lng == null) return [];  // a global text search is not evidence of place
   try {
