@@ -171,12 +171,22 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   // matters is unchanged and absolute: a WRONG photo never ships. Shipping
   // none is, and always was, an acceptable outcome for an event
   // (2026-08-07 owner decision, delegated).
-  const photoOptional = p.category === 'event';
+  //
+  // A VENUE guide is still required to have one — a reader wants to see the
+  // café, and every new post must arrive with a verified photo. The exception
+  // is `photoless: true`, which the nightly patrol sets only after a week of
+  // every free source returning nothing. That flag exists because the previous
+  // answer to "no photo after a week" was to DELETE the post, and the deletion
+  // of 92 such posts on 2026-07-26 took 39.9% of the site's impressions and
+  // 42.9% of its clicks with it (measured against Search Console the following
+  // week; average position fell 12 → 57 the next morning). A guide with no
+  // hero still answers its question. A deleted guide answers nothing.
+  const photoOptional = p.category === 'event' || p.photoless === true;
   if (!photoOptional && (!p.url || p.url.includes('placeholder'))) {
     issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
   } else if (photoOptional && p.url && p.url.includes('placeholder')) {
-    // An event may ship photoless, but never wearing a placeholder as if it
-    // were a real picture of the event.
+    // Photoless is allowed; wearing a placeholder as if it were a real picture
+    // of the place is not.
     issues.push(`PLACEHOLDER/no image [${p.category}]: ${p.f}`);
   }
   if (NON_LATIN.test(p.title)) issues.push(`NON-LATIN script in title "${p.title.slice(0, 40)}…": ${p.f}`);

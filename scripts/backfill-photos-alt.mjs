@@ -90,15 +90,15 @@ const used = await loadUsedImageUrls(POSTS);
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
 let fixed = 0, undrafted = 0, unfixed = 0, scanned = 0;
 const rewriteList = [];
-// Consecutive nightly failures per slug. Seven strikes retires the post: these
+// Consecutive nightly failures per slug. Seven strikes stops the search: these
 // are small venues (a café in Yana, a noodle stall) that no free photo source
-// has ever covered — after a week of the same empty answer, retrying is only a
-// vision-API bill. Owner-approved 2026-07-31, with the volume rule attached:
-// retirement never touches a LIVE page (only quarantined drafts qualify), so
-// the published count is unchanged and the country-fill keeps adding new
-// venues that DO have photos.
+// has ever covered, and after a week of the same empty answer another attempt
+// is only a vision-API bill.
+//
+// Seven strikes used to DELETE the post. It now only stops searching — see the
+// block near the bottom of this file for the measurement that changed the rule.
 const RETRY_FILE = 'data/photo-retry.json';
-const RETIRE_AFTER = 7;
+const GIVE_UP_AFTER = 7;
 const retryCount = existsSync(RETRY_FILE) ? JSON.parse(readFileSync(RETRY_FILE, 'utf8')) : {};
 
 for (const f of files) {
@@ -379,39 +379,43 @@ if (!DRY && auditDirty && auditStore) {
   console.log(`\n⚖️  ${acquitted.length} previously-flagged hero(es) re-approved on review: ${acquitted.slice(0, 10).join(', ')}`);
 }
 
-// ── Retirement: seven consecutive empty nights and a quarantined post leaves
-// the repo — its URL 301s to the region hub (astro.config reads the retired
-// list), its translations go with it, and the country-fill replaces the slot
-// with a venue that has photos. Guard rails: only draft:true files are ever
-// deleted, and the live-page count cannot change by construction.
-const retiredNow = [];
-if (!DRY) {
-  for (const [slug, n] of Object.entries(retryCount)) {
-    if (n < RETIRE_AFTER) continue;
-    const p = `src/content/posts/${slug}.md`;
-    if (!existsSync(p)) { delete retryCount[slug]; continue; }
-    let fm;
-    try { fm = matter(readFileSync(p, 'utf8')).data; } catch { continue; }
-    if (fm.draft !== true) { delete retryCount[slug]; continue; }   // never a live page
-
-    const retired = JSON.parse(await readFile('data/retired-posts.json', 'utf8'));
-    retired.push({ slug, region: fm.region ?? '', country: fm.country ?? '' });
-    await writeFile('data/retired-posts.json', JSON.stringify(retired, null, 1) + '\n', 'utf8');
-
-    const { unlink } = await import('node:fs/promises');
-    await unlink(p);
-    for (const l of ['ko', 'ja', 'es', 'zh']) {
-      const t = `src/content/i18n/${l}/${slug}.md`;
-      if (existsSync(t)) await unlink(t);
-    }
-    delete retryCount[slug];
-    retiredNow.push(slug);
-    console.log(`  🗑️  ${slug}: retired after ${n} empty nights — URL 301s to its region`);
-  }
+// ── Seven empty nights: the search stops. NOTHING IS DELETED.
+//
+// This block used to delete the file, its translations, and add the slug to a
+// 301 list. That is what happened to 92 posts on 2026-07-26, and measured
+// against Search Console afterwards, the URLs killed that week had carried
+// 39.9% of the site's impressions and 42.9% of its clicks in the five days
+// before. Five of the top eight pages went with them — kuala-lumpur-muljil was
+// ranking 4.9th and earning clicks the day it was removed. The next morning
+// the site's average position fell from 12 to 57 and has not recovered.
+//
+// Deletion is irreversible and bought nothing: a quarantined post is already
+// invisible, so removing the file changes no reader's experience and only
+// destroys the option to fix it later. The clock now just stops. The post
+// stays quarantined, the file stays in the repo, and a human decides.
+//
+// Deliberately NOT auto-publishing these either. A venue guide without a photo
+// is a weak page — the reader wants to see the café — so publishing photoless
+// is a judgement call per post, not a rule (owner, 2026-08-07). Events are the
+// exception and have their own path (release-photoless-events.mjs): a reader
+// searching an event wants the date, venue and tickets, all of which are on
+// the page. For venues, the 22 quarantined posts that actually draw search
+// impressions were released by hand; the other 86 draw none, so keeping them
+// down costs nothing and leaves the photo hunt running.
+const exhaustedNow = [];
+for (const [slug, n] of Object.entries(retryCount)) {
+  if (n < GIVE_UP_AFTER) continue;
+  const p = `${POSTS}/${slug}.md`;
+  if (!existsSync(p)) { delete retryCount[slug]; continue; }
+  let fm;
+  try { fm = matter(readFileSync(p, 'utf8')).data; } catch { continue; }
+  if (fm.draft !== true) { delete retryCount[slug]; continue; }   // already live again
+  exhaustedNow.push(slug);
+  console.log(`  ⏸️  ${slug}: no photo after ${n} nights — search paused, post kept (was: deleted)`);
 }
 if (!DRY) await writeFile(RETRY_FILE, JSON.stringify(retryCount, null, 1) + '\n', 'utf8');
 
 console.log(`\n📦 scanned ${scanned} target(s): ${fixed} fixed · ${undrafted} republished · ${unfixed} need venue-rewrite`);
 if (rewriteList.length) console.log('REWRITE_LIST ' + rewriteList.join(','));
-if (retiredNow.length) console.log('RETIRED_LIST ' + retiredNow.join(','));
-console.log(`ALT_SUMMARY fixed=${fixed} undrafted=${undrafted} unfixed=${unfixed} retired=${retiredNow.length}`);
+if (exhaustedNow.length) console.log('EXHAUSTED_LIST ' + exhaustedNow.join(','));
+console.log(`ALT_SUMMARY fixed=${fixed} undrafted=${undrafted} unfixed=${unfixed} exhausted=${exhaustedNow.length}`);

@@ -66,7 +66,7 @@ jobs:
           echo "fixed=$(echo "$s" | sed 's/.* fixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           echo "undrafted=$(echo "$s" | sed 's/.* undrafted=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           echo "unfixed=$(echo "$s" | sed 's/.* unfixed=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
-          echo "retired=$(echo "$s" | sed 's/.* retired=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
+          echo "exhausted=$(echo "$s" | sed 's/.* exhausted=\([0-9]*\).*/\1/')" >> "$GITHUB_OUTPUT"
           # Post lists for the Telegram report (user standing request: always
           # say WHICH posts) — first 15 each.
           # REPORTING MUST NEVER KILL THE RUN (a grep killed run #5, a head/sed
@@ -76,10 +76,10 @@ jobs:
           set +o pipefail
           awk '/✅ [a-z0-9-]+:/ { sub(/^ *✅ /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/fl.txt
           awk '/🚫 [a-z0-9-]+:/ { sub(/^ *🚫 /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/ul.txt
-          awk '/🗑️  [a-z0-9-]+:/ { sub(/^ *🗑️  /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/rl.txt
+          awk '/⏸️  [a-z0-9-]+:/ { sub(/^ *⏸️  /,"• "); sub(/:.*/,""); print; if (++n==15) exit }' /tmp/alt.log > /tmp/rl.txt
           { echo "fixedlist<<EOF_FL"; cat /tmp/fl.txt; echo "EOF_FL"; } >> "$GITHUB_OUTPUT"
           { echo "unfixedlist<<EOF_UL"; cat /tmp/ul.txt; echo "EOF_UL"; } >> "$GITHUB_OUTPUT"
-          { echo "retiredlist<<EOF_RL"; cat /tmp/rl.txt; echo "EOF_RL"; } >> "$GITHUB_OUTPUT"
+          { echo "exhaustedlist<<EOF_RL"; cat /tmp/rl.txt; echo "EOF_RL"; } >> "$GITHUB_OUTPUT"
           true
 
       # Discover large-card floor is 1200px. The scan caches probes per
@@ -152,8 +152,8 @@ jobs:
           UNFIXED: ${{ steps.run.outputs.unfixed }}
           FIXED_LIST: ${{ steps.run.outputs.fixedlist }}
           UNFIXED_LIST: ${{ steps.run.outputs.unfixedlist }}
-          RETIRED: ${{ steps.run.outputs.retired }}
-          RETIRED_LIST: ${{ steps.run.outputs.retiredlist }}
+          EXHAUSTED: ${{ steps.run.outputs.exhausted }}
+          EXHAUSTED_LIST: ${{ steps.run.outputs.exhaustedlist }}
           W_UPGRADED: ${{ steps.width.outputs.upgraded }}
           W_NOWIDER: ${{ steps.width.outputs.nowider }}
           W_QUEUE: ${{ steps.scan.outputs.queuetotal }}
@@ -168,12 +168,12 @@ jobs:
               echo "♻️ 재공개된 글: ${UNDRAFTED:-0}편"
               if [ -n "$FIXED_LIST" ]; then echo "📄 교체된 글:"; echo "$FIXED_LIST"; fi
               if [ "${UNFIXED:-0}" != "0" ]; then
-                echo "⚠️ 합격 사진을 못 찾은 글: ${UNFIXED}편 — 7일 연속 실패 시 자동 은퇴됩니다."
+                echo "⚠️ 합격 사진을 못 찾은 글: ${UNFIXED}편 — 계속 찾습니다. 글은 삭제되지 않습니다."
                 if [ -n "$UNFIXED_LIST" ]; then echo "$UNFIXED_LIST"; fi
               fi
-              if [ "${RETIRED:-0}" != "0" ] && [ -n "${RETIRED:-}" ]; then
-                echo "🗑️ 은퇴 처리: ${RETIRED}편 — 7일간 사진을 못 구해 삭제했고, 옛 주소는 지역 페이지로 자동 연결됩니다. 빈자리는 국가 채우기 발행이 사진 있는 새 장소로 메웁니다."
-                if [ -n "$RETIRED_LIST" ]; then echo "$RETIRED_LIST"; fi
+              if [ "${EXHAUSTED:-0}" != "0" ] && [ -n "${EXHAUSTED:-}" ]; then
+                echo "⏸️ 사진 탐색 중단: ${EXHAUSTED}편 — 7일간 어느 무료 사진 출처에도 없어 매일 재시도를 멈춥니다(예전에는 이 시점에 글을 삭제했습니다). 글은 격리 상태로 그대로 남아 있고, 공개할지는 사람이 판단합니다."
+                if [ -n "$EXHAUSTED_LIST" ]; then echo "$EXHAUSTED_LIST"; fi
               fi
               # 디스커버 대형카드(1200px) 미달 히어로 업그레이드 큐 — 교체 실패는
               # 정상 상태(더 큰 사진이 없으면 기존 사진 유지)라 결과가 있을 때만 알림.

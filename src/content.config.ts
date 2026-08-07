@@ -90,6 +90,13 @@ const posts = defineCollection({
     // Transparency: we disclose AI assistance to readers and to Google.
     aiGenerated: z.boolean().default(true),
     draft: z.boolean().default(false),
+    // Deliberately published without a hero, after every free photo source came
+    // back empty for a week. Distinguishes "we decided this guide is worth more
+    // than its missing picture" from "the pipeline dropped the photo" — the
+    // content validator requires a hero on everything else, and must keep doing
+    // so for new posts. Cleared automatically when the patrol finally attaches
+    // a verified photo.
+    photoless: z.boolean().default(false),
   }),
 });
 
