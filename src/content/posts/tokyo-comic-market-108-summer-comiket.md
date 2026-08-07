@@ -9,14 +9,6 @@ category: event
 pubDate: '2026-07-21'
 eventStartDate: '2026-08-15'
 eventEndDate: '2026-08-16'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tokyo_2017_%2838462211971%29.jpg/1920px-Tokyo_2017_%2838462211971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: >-
-    Photo: _steffen from Lüdenscheid, Deutschland / Wikimedia Commons (CC BY-SA
-    2.0)
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Tokyo_2017_(38462211971).jpg'
 gallery: []
 tags:
   - tokyo
