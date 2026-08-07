@@ -58,7 +58,9 @@ draft: false
 
 ## Why go
 
-You come around a bend on Ellipse Road and there they are: 22 Corinthian columns standing alone in a meadow, sandstone gone honey-gold in the late afternoon light, with nothing behind them but sky and grass. These are the original columns pulled from the U.S. Capitol's East Portico in a 1958 renovation, re-erected here in 1990, and the effect is deliberately strange — a ruin that was never a ruin, plopped in the middle of a Washington DC garden. It's the single most photographed spot in the U.S. National Arboretum, and it tells you everything about this place: part serious botanical research station, part unexpected folly, part quiet green escape from a city built on marble and traffic.
+You come around a bend on Ellipse Road and there they are: 22 Corinthian columns standing alone in a meadow, sandstone gone honey-gold in the late afternoon light, with nothing behind them but sky and grass. These are the original columns pulled from the U.S. Capitol's East Portico in a 1958 renovation, re-erected here in 1990, and the effect is deliberately strange — a ruin that was never a ruin, plopped in the middle of a Washington DC garden.
+
+It's the single most photographed spot in the U.S. National Arboretum, and it tells you everything about this place: part serious botanical research station, part unexpected folly, part quiet green escape from a city built on marble and traffic.
 
 The Arboretum is a federal research facility run by the USDA, which is why it feels different from a manicured city park — 446 acres of curated collections, working plant science, and long empty roads through woodland, all completely free to enter.
 
@@ -80,5 +82,9 @@ This is a very popular stop on DC itineraries, and it shows: weekend afternoons,
 
 ## How to visit like a local
 
-Treat it as a driving-and-walking loop rather than a single stroll — get a paper map at the Administration Building or check the posted map at the entrance, then drive between the Capitol Columns, the bonsai museum, and Mount Hamilton, parking at each and walking the short trails around them. Entry is free and there's no ticket line or booking system, so there's nothing to reserve in advance — just show up. Because it's a working federal facility, it closes earlier than most parks (confirm current hours before you go, as they shift seasonally) and closes entirely on Christmas Day. The single biggest mistake visitors make is underestimating the distances between collections and trying to see everything on foot in an afternoon; pick two or three highlights rather than attempting the whole 446 acres. Photographers favor the Capitol Columns at golden hour, late in the afternoon, when the low light rakes across the stone and the crowds have mostly headed home.
+Treat it as a driving-and-walking loop rather than a single stroll — get a paper map at the Administration Building or check the posted map at the entrance, then drive between the Capitol Columns, the bonsai museum, and Mount Hamilton, parking at each and walking the short trails around them. Entry is free and there's no ticket line or booking system, so there's nothing to reserve in advance — just show up.
+
+Because it's a working federal facility, it closes earlier than most parks (confirm current hours before you go, as they shift seasonally) and closes entirely on Christmas Day. The single biggest mistake visitors make is underestimating the distances between collections and trying to see everything on foot in an afternoon; pick two or three highlights rather than attempting the whole 446 acres.
+
+Photographers favor the Capitol Columns at golden hour, late in the afternoon, when the low light rakes across the stone and the crowds have mostly headed home.
 

@@ -40,15 +40,21 @@ aiGenerated: true
 
 ## Why go
 
-Le Noir sits inside the sprawling retail and dining complex at Marina Bay Sands, but it doesn't feel like a mall restaurant. The interior leans into a dark, theatrical aesthetic — think black lacquer, gold accents, oversized floral installations, and moody lighting — that has made it a favorite backdrop for photos as much as for the food and drink itself. The venue functions primarily as a bar with a substantial small-plates and dinner menu, which makes it flexible: drop in for a single cocktail, or settle in for a longer evening of shared dishes. A 4.8 rating from over 3,000 reviews is a strong signal for a venue this size, and it reflects consistency rather than a one-off trend.
+Le Noir sits inside the sprawling retail and dining complex at Marina Bay Sands, but it doesn't feel like a mall restaurant. The interior leans into a dark, theatrical aesthetic — think black lacquer, gold accents, oversized floral installations, and moody lighting — that has made it a favorite backdrop for photos as much as for the food and drink itself.
+
+The venue functions primarily as a bar with a substantial small-plates and dinner menu, which makes it flexible: drop in for a single cocktail, or settle in for a longer evening of shared dishes. A 4.8 rating from over 3,000 reviews is a strong signal for a venue this size, and it reflects consistency rather than a one-off trend.
 
 ## Getting there
 
-Le Noir is located at 2 Bayfront Avenue, #01-84, Singapore 018972 — inside The Shoppes at Marina Bay Sands, on the first floor. The fastest transit option is Bayfront MRT Station (Circle and Downtown lines), which connects directly into the basement of the mall via a sheltered underground link; from there, follow signs up to the retail level and toward the bay-facing side of the complex. If you're coming from the Marina Bay financial district or Gardens by the Bay, it's a comfortable 10-15 minute walk across the Bayfront Bridge or through the connected walkways. Taxis and ride-hailing cars can drop off at the Sands' main entrance, from which it's a short walk through the mall.
+Le Noir is located at 2 Bayfront Avenue, #01-84, Singapore 018972 — inside The Shoppes at Marina Bay Sands, on the first floor. The fastest transit option is Bayfront MRT Station (Circle and Downtown lines), which connects directly into the basement of the mall via a sheltered underground link; from there, follow signs up to the retail level and toward the bay-facing side of the complex.
+
+If you're coming from the Marina Bay financial district or Gardens by the Bay, it's a comfortable 10-15 minute walk across the Bayfront Bridge or through the connected walkways. Taxis and ride-hailing cars can drop off at the Sands' main entrance, from which it's a short walk through the mall.
 
 ## What to see and eat
 
-The menu blends European small plates with a cocktail list built around theatrical presentation — smoke, dry ice, and elaborate garnishes are part of the draw here, not just the drinks themselves. Expect a mix of shareable bites suited to grazing over a few hours: charcuterie-style boards, seafood small plates, and a selection of steaks and pastas for those wanting a fuller meal. The bar program is the headline act, with signature cocktails often built to be visually striking as well as well-balanced. Because Le Noir is inside the Marina Bay Sands complex, it pairs naturally with a night that also includes the Sands SkyPark, the casino floor, or a stroll along the waterfront promenade toward the Merlion and the Helix Bridge.
+The menu blends European small plates with a cocktail list built around theatrical presentation — smoke, dry ice, and elaborate garnishes are part of the draw here, not just the drinks themselves. Expect a mix of shareable bites suited to grazing over a few hours: charcuterie-style boards, seafood small plates, and a selection of steaks and pastas for those wanting a fuller meal.
+
+The bar program is the headline act, with signature cocktails often built to be visually striking as well as well-balanced. Because Le Noir is inside the Marina Bay Sands complex, it pairs naturally with a night that also includes the Sands SkyPark, the casino floor, or a stroll along the waterfront promenade toward the Merlion and the Helix Bridge.
 
 ## When to go
 
@@ -56,7 +62,9 @@ Early evening — roughly 6 to 7:30pm — tends to offer the calmest atmosphere,
 
 ## How to visit like a local
 
-Le Noir is well-known within Singapore's bar scene, not an under-the-radar spot, so treat it accordingly: book a table in advance, especially for weekend evenings, rather than assuming walk-in seating will be available. Payment is almost always by card or mobile wallet — cash is rarely used at bars in this complex, and service charge plus GST is typically already added to the bill, so additional tipping isn't expected or customary in Singapore. The most common mistake visitors make is arriving without a reservation on a Friday or Saturday night and being turned away or facing a long wait; calling or booking online ahead of time avoids this entirely. Dress code leans smart-casual to elevated — this isn't a beachwear or flip-flops venue given its location inside a luxury retail complex. If you're mainly after the visual drama of the space, consider going for a single cocktail during a quieter weekday slot rather than committing to a full dinner during peak hours, which lets you experience the design and drinks program without competing for a table.
+Le Noir is well-known within Singapore's bar scene, not an under-the-radar spot, so treat it accordingly: book a table in advance, especially for weekend evenings, rather than assuming walk-in seating will be available. Payment is almost always by card or mobile wallet — cash is rarely used at bars in this complex, and service charge plus GST is typically already added to the bill, so additional tipping isn't expected or customary in Singapore.
+
+The most common mistake visitors make is arriving without a reservation on a Friday or Saturday night and being turned away or facing a long wait; calling or booking online ahead of time avoids this entirely. Dress code leans smart-casual to elevated — this isn't a beachwear or flip-flops venue given its location inside a luxury retail complex. If you're mainly after the visual drama of the space, consider going for a single cocktail during a quieter weekday slot rather than committing to a full dinner during peak hours, which lets you experience the design and drinks program without competing for a table.
 
 ## Nearby to pair with your visit
 

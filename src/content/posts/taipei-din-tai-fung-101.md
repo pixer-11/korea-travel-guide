@@ -81,7 +81,9 @@ Walk down the stairs from street level and the transformation is immediate: fluo
 
 ## What to order
 
-The xiaolongbao (soup dumplings) are the reason the name exists — thin-skinned, pork-filled, holding a scalding pocket of broth that you're meant to rest on a spoon, nick with a chopstick, and sip before eating whole. Beyond the classic pork version, look for the crab roe and pork xiaolongbao if it's on the menu, plus the shrimp and pork wontons in chili oil, the pan-fried pork buns, and a plate of stir-fried green beans with garlic to cut the richness. Portions come in small steamer baskets, so ordering two or three dumpling varieties plus a vegetable side and a bowl of soup for two people is a reasonable spread.
+The xiaolongbao (soup dumplings) are the reason the name exists — thin-skinned, pork-filled, holding a scalding pocket of broth that you're meant to rest on a spoon, nick with a chopstick, and sip before eating whole. Beyond the classic pork version, look for the crab roe and pork xiaolongbao if it's on the menu, plus the shrimp and pork wontons in chili oil, the pan-fried pork buns, and a plate of stir-fried green beans with garlic to cut the richness.
+
+Portions come in small steamer baskets, so ordering two or three dumpling varieties plus a vegetable side and a bowl of soup for two people is a reasonable spread.
 
 ## Getting there
 
@@ -89,12 +91,18 @@ The restaurant is inside a building at 45 City Hall Rd, Xinyi District — the b
 
 ## When to go
 
-The restaurant opens at 10:45am and closes at 8:30pm every day of the week, with no variation by day. Within that window, the quietest stretch on weekdays is 10:45am to noon — meaning realistically the first hour or so after opening — and on weekends it's tighter still, roughly 10:45 to 11:45am. Avoid Saturday or Sunday afternoons: from 1pm until closing, this branch is consistently busiest, and that's when the wait stretches longest. If you can only come on a weekend, treat the opening hour as your best shot at a short wait.
+The restaurant opens at 10:45am and closes at 8:30pm every day of the week, with no variation by day. Within that window, the quietest stretch on weekdays is 10:45am to noon — meaning realistically the first hour or so after opening — and on weekends it's tighter still, roughly 10:45 to 11:45am. Avoid Saturday or Sunday afternoons: from 1pm until closing, this branch is consistently busiest, and that's when the wait stretches longest.
+
+If you can only come on a weekend, treat the opening hour as your best shot at a short wait.
 
 ## What to expect while you wait
 
-This is a genuinely high-traffic restaurant — one of the most visited Din Tai Fung branches in a city full of them — so plan for a queue no matter when you show up outside that early window. Staff typically hand out a numbered ticket and give a rough wait estimate; some visitors browse the mall level above or duck into nearby shops until their number is close. There's no meaningful way to book ahead for walk-in service at peak hours, so budget the wait as part of the visit rather than fighting it.
+This is a genuinely high-traffic restaurant — one of the most visited Din Tai Fung branches in a city full of them — so plan for a queue no matter when you show up outside that early window. Staff typically hand out a numbered ticket and give a rough wait estimate; some visitors browse the mall level above or duck into nearby shops until their number is close.
+
+There's no meaningful way to book ahead for walk-in service at peak hours, so budget the wait as part of the visit rather than fighting it.
 
 ## How to visit like a local
 
-Order efficiently: pick your steamer dumplings first, then one soup, one vegetable, maybe a rice dish, and let the table turn over quickly — this isn't a linger-over-tea kind of restaurant, and moving briskly through your meal is normal here, not rude. Payment is by card or cash, and tipping isn't expected in Taiwanese restaurants, including this one. The dumpling-folding is genuinely worth watching if there's a viewing window near the kitchen — it's not a gimmick, it's how the kitchen actually works. The mistake most first-timers make is showing up at 1 or 2pm on a Saturday expecting a five-minute wait; instead, aim for the 10:45am opening or the last hour before the 8:30pm close, when the crowd has usually thinned. And note the broth inside each dumpling is genuinely hot — let it cool a beat on the spoon before you bite in.
+Order efficiently: pick your steamer dumplings first, then one soup, one vegetable, maybe a rice dish, and let the table turn over quickly — this isn't a linger-over-tea kind of restaurant, and moving briskly through your meal is normal here, not rude. Payment is by card or cash, and tipping isn't expected in Taiwanese restaurants, including this one. The dumpling-folding is genuinely worth watching if there's a viewing window near the kitchen — it's not a gimmick, it's how the kitchen actually works.
+
+The mistake most first-timers make is showing up at 1 or 2pm on a Saturday expecting a five-minute wait; instead, aim for the 10:45am opening or the last hour before the 8:30pm close, when the crowd has usually thinned. And note the broth inside each dumpling is genuinely hot — let it cool a beat on the spoon before you bite in.

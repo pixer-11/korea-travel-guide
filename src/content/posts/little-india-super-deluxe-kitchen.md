@@ -64,15 +64,21 @@ draft: true
 
 ## Why go
 
-With a 4.9 rating across more than 2,500 reviews, Super Deluxe Kitchen has built a loyal following for consistently good North and South Indian cooking in the heart of Little India. It's not a heritage institution with a decades-long backstory — it's a newer-generation Indian kitchen that's earned its popularity through the food itself: well-spiced curries, fresh tandoor breads, and biryani that draws repeat customers. The Upper Weld Road address puts it just off the main tourist drag of Serangoon Road, so you get the neighborhood's authentic energy without fighting through the busiest stretch of Little India's shopfronts.
+With a 4.9 rating across more than 2,500 reviews, Super Deluxe Kitchen has built a loyal following for consistently good North and South Indian cooking in the heart of Little India. It's not a heritage institution with a decades-long backstory — it's a newer-generation Indian kitchen that's earned its popularity through the food itself: well-spiced curries, fresh tandoor breads, and biryani that draws repeat customers.
+
+The Upper Weld Road address puts it just off the main tourist drag of Serangoon Road, so you get the neighborhood's authentic energy without fighting through the busiest stretch of Little India's shopfronts.
 
 ## Getting there
 
-The restaurant sits at 29 Upper Weld Rd, in the quieter lanes behind the main Little India commercial strip. The closest stations are Farrer Park MRT (North East Line) and Jalan Besar MRT (Downtown Line), both roughly a 5–8 minute walk away. If coming from Little India MRT (North East Line/Downtown Line interchange), it's a slightly longer 10-minute walk north through the neighborhood — a pleasant route past spice shops, garland stalls, and sari stores if you've got time to spare. Taxis and ride-hail drop-offs are straightforward since Upper Weld Road is accessible by car, though parking is limited, so public transit is the more practical option.
+The restaurant sits at 29 Upper Weld Rd, in the quieter lanes behind the main Little India commercial strip. The closest stations are Farrer Park MRT (North East Line) and Jalan Besar MRT (Downtown Line), both roughly a 5–8 minute walk away. If coming from Little India MRT (North East Line/Downtown Line interchange), it's a slightly longer 10-minute walk north through the neighborhood — a pleasant route past spice shops, garland stalls, and sari stores if you've got time to spare.
+
+Taxis and ride-hail drop-offs are straightforward since Upper Weld Road is accessible by car, though parking is limited, so public transit is the more practical option.
 
 ## What to eat
 
-Expect a menu built around Indian comfort classics rather than an experimental spin — this is the kind of place where the biryani, butter chicken, and tandoori items are the anchors. Look for South Indian options like dosa and specialty curries alongside North Indian tandoor breads (naan, kulcha) and rich gravies. Vegetarian options are typically well represented on Indian menus in this neighborhood, and Super Deluxe Kitchen follows that pattern, making it workable for mixed groups of vegetarians and non-vegetarians. Portions here tend to be generous enough for sharing, so ordering a couple of curries plus bread and rice for two to three people is a reasonable approach rather than one dish per person.
+Expect a menu built around Indian comfort classics rather than an experimental spin — this is the kind of place where the biryani, butter chicken, and tandoori items are the anchors. Look for South Indian options like dosa and specialty curries alongside North Indian tandoor breads (naan, kulcha) and rich gravies. Vegetarian options are typically well represented on Indian menus in this neighborhood, and Super Deluxe Kitchen follows that pattern, making it workable for mixed groups of vegetarians and non-vegetarians.
+
+Portions here tend to be generous enough for sharing, so ordering a couple of curries plus bread and rice for two to three people is a reasonable approach rather than one dish per person.
 
 ## When to go
 
@@ -80,7 +86,11 @@ Lunch service (roughly midday to early afternoon) and dinner service (evening on
 
 ## How to visit like a local
 
-Given its strong review count and well-known status, this is not an undiscovered spot — it draws a steady crowd of both regulars and visitors, so plan around that rather than expecting a quiet find. The most useful strategy is timing: avoid the peak dinner window (roughly 7–8:30pm) on weekends if you want to walk in without a queue, and consider calling ahead or checking if reservations are accepted for larger groups. Payment at Little India restaurants is generally by cash or card, with mobile payment increasingly common in Singapore generally — check when your bill arrives if you're unsure. Tipping is not customary in Singapore, and many restaurants already include a service charge, so there's no need to add extra unless you want to. If you're new to the menu, ask staff to recommend the day's fresh curry or biryani rather than defaulting to the most familiar-sounding dish — kitchens like this often have a standout preparation that changes slightly by day. The most common visitor mistake is treating this as a five-minute pit stop; the busy, popular nature of the place means service moves at its own pace, so build in time rather than rushing between other Little India sights.
+Given its strong review count and well-known status, this is not an undiscovered spot — it draws a steady crowd of both regulars and visitors, so plan around that rather than expecting a quiet find. The most useful strategy is timing: avoid the peak dinner window (roughly 7–8:30pm) on weekends if you want to walk in without a queue, and consider calling ahead or checking if reservations are accepted for larger groups.
+
+Payment at Little India restaurants is generally by cash or card, with mobile payment increasingly common in Singapore generally — check when your bill arrives if you're unsure. Tipping is not customary in Singapore, and many restaurants already include a service charge, so there's no need to add extra unless you want to. If you're new to the menu, ask staff to recommend the day's fresh curry or biryani rather than defaulting to the most familiar-sounding dish — kitchens like this often have a standout preparation that changes slightly by day.
+
+The most common visitor mistake is treating this as a five-minute pit stop; the busy, popular nature of the place means service moves at its own pace, so build in time rather than rushing between other Little India sights.
 
 ## Nearby to pair with your visit
 

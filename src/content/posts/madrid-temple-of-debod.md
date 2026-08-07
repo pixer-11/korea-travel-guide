@@ -70,15 +70,21 @@ draft: false
 
 ## Why go
 
-You come up out of the trees at the western edge of Parque del Oeste and there it is: sandstone gateways, a stumpy pylon, a squat temple building sitting on a reflecting pool, all of it looking faintly out of place among the plane trees and joggers of central Madrid. That's the point. The Temple of Debod was carved and built over 2,200 years ago on the banks of the Nile, near Aswan, dedicated to the goddess Isis. When the Aswan High Dam threatened to flood the whole area in the 1960s, Egypt dismantled several threatened monuments and gave them away as thanks to the countries that helped rescue them. Spain got this one, block by numbered block, and reassembled it here in 1972. It is the only complete Egyptian temple you'll find in Spain, and one of very few outside Egypt at all.
+You come up out of the trees at the western edge of Parque del Oeste and there it is: sandstone gateways, a stumpy pylon, a squat temple building sitting on a reflecting pool, all of it looking faintly out of place among the plane trees and joggers of central Madrid. That's the point. The Temple of Debod was carved and built over 2,200 years ago on the banks of the Nile, near Aswan, dedicated to the goddess Isis.
+
+When the Aswan High Dam threatened to flood the whole area in the 1960s, Egypt dismantled several threatened monuments and gave them away as thanks to the countries that helped rescue them. Spain got this one, block by numbered block, and reassembled it here in 1972. It is the only complete Egyptian temple you'll find in Spain, and one of very few outside Egypt at all.
 
 ## Getting there
 
-The temple sits at C. de Ferraz, 1, in the Moncloa-Aravaca district, right where Parque del Oeste meets the edge of the old Cuartel de la Montaña gardens. The closest metro is Plaza de España (Lines 3 and 10), about a 10-minute walk uphill through the park; Príncipe Pío (Lines 6, 10, and R, plus cercanías trains) is a similar distance and arguably a prettier approach, climbing through the gardens rather than city streets. Several bus lines stop right along Calle Ferraz. There's no admission gate to the surrounding gardens or the exterior — you can wander the terrace, the pools, and the viewpoint any time of day, free, which is exactly why it draws such a steady crowd.
+The temple sits at C. de Ferraz, 1, in the Moncloa-Aravaca district, right where Parque del Oeste meets the edge of the old Cuartel de la Montaña gardens. The closest metro is Plaza de España (Lines 3 and 10), about a 10-minute walk uphill through the park; Príncipe Pío (Lines 6, 10, and R, plus cercanías trains) is a similar distance and arguably a prettier approach, climbing through the gardens rather than city streets.
+
+Several bus lines stop right along Calle Ferraz. There's no admission gate to the surrounding gardens or the exterior — you can wander the terrace, the pools, and the viewpoint any time of day, free, which is exactly why it draws such a steady crowd.
 
 ## What to see
 
-The real draw isn't really "inside" — it's the whole ensemble against the sky. The reconstructed gateways lead you across a shallow pool that mirrors the sandstone, and from the terrace behind the temple you get one of the widest unobstructed views in Madrid, looking west over the Manzanares valley toward the Sierra de Guadarrama. This is the spot locals half-jokingly call Madrid's best sunset bench, and on a clear evening the temple stone turns from pale gold to rose to grey-blue as the light drops behind the mountains. The interior houses a small museum on the temple's history and Egypt's rescue campaign, plus a couple of chambers with faint carved reliefs — modest in scale, but worth the short visit if you want context beyond the postcard shot.
+The real draw isn't really "inside" — it's the whole ensemble against the sky. The reconstructed gateways lead you across a shallow pool that mirrors the sandstone, and from the terrace behind the temple you get one of the widest unobstructed views in Madrid, looking west over the Manzanares valley toward the Sierra de Guadarrama. This is the spot locals half-jokingly call Madrid's best sunset bench, and on a clear evening the temple stone turns from pale gold to rose to grey-blue as the light drops behind the mountains.
+
+The interior houses a small museum on the temple's history and Egypt's rescue campaign, plus a couple of chambers with faint carved reliefs — modest in scale, but worth the short visit if you want context beyond the postcard shot.
 
 ## When to go
 
@@ -86,4 +92,8 @@ The temple and its museum are open Tuesday through Sunday, 10am to 8pm, and clos
 
 ## How to visit like a local
 
-This is one of Madrid's most visited monuments, not a secret, so treat the crowd as the main obstacle to plan around rather than something to be surprised by. The trick locals use is timing, not avoidance: come an hour before sunset but claim your spot on the terrace early, because prime viewing benches fill fast in the final 30 minutes of daylight. If you want the postcard shot without a hundred heads in it, arrive right at 10am instead. There's no ticket booth to queue at for the exterior, so budget your time for wandering the pools and terrace — 20 to 30 minutes is enough unless you're doing the small museum inside, which adds another 20. Bring water in summer; there's little shade on the exposed terrace at midday. Combine the visit with a stroll down through Parque del Oeste toward the Rosaleda (rose garden) or across to the Teleférico cable car if you want to stretch the afternoon, since both are an easy extension of the same walk. And don't skip checking the official city or Madrid tourism site before you go — museum hours around holidays sometimes shift from the standard schedule.
+This is one of Madrid's most visited monuments, not a secret, so treat the crowd as the main obstacle to plan around rather than something to be surprised by. The trick locals use is timing, not avoidance: come an hour before sunset but claim your spot on the terrace early, because prime viewing benches fill fast in the final 30 minutes of daylight.
+
+If you want the postcard shot without a hundred heads in it, arrive right at 10am instead. There's no ticket booth to queue at for the exterior, so budget your time for wandering the pools and terrace — 20 to 30 minutes is enough unless you're doing the small museum inside, which adds another 20. Bring water in summer; there's little shade on the exposed terrace at midday.
+
+Combine the visit with a stroll down through Parque del Oeste toward the Rosaleda (rose garden) or across to the Teleférico cable car if you want to stretch the afternoon, since both are an easy extension of the same walk. And don't skip checking the official city or Madrid tourism site before you go — museum hours around holidays sometimes shift from the standard schedule.

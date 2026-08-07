@@ -73,13 +73,19 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-The first thing you notice at The Buena Vista is the sound: the clink of glassware, the low roar of conversation bouncing off dark wood paneling, and — if you're near the bar — the rhythmic clatter of a bartender lining up mugs three and four at a time. It's 9am on a Tuesday and the place is already half full, coffee steam curling up past the vintage mirrors while somebody's ordering a Bloody Mary. This is not a sleepy breakfast spot. It's a working San Francisco institution that happens to open when most bars are still dark.
+The first thing you notice at The Buena Vista is the sound: the clink of glassware, the low roar of conversation bouncing off dark wood paneling, and — if you're near the bar — the rhythmic clatter of a bartender lining up mugs three and four at a time. It's 9am on a Tuesday and the place is already half full, coffee steam curling up past the vintage mirrors while somebody's ordering a Bloody Mary.
 
-Housed in a triangular corner building at Hyde and Beach streets since 1916, the room hasn't changed its bones much: a long, polished bar dominates one side, windows wrap the corner so you can watch the Hyde Street cable car crest the hill outside, and the tables are close enough that you'll end up chatting with strangers whether you plan to or not. The menu leans into American diner staples — burgers, eggs Benedict, a hearty corned beef hash — but almost nobody is here strictly for the food. They're here for the drink in the tall glass mug with the cream floating on top.
+This is not a sleepy breakfast spot. It's a working San Francisco institution that happens to open when most bars are still dark.
+
+Housed in a triangular corner building at Hyde and Beach streets since 1916, the room hasn't changed its bones much: a long, polished bar dominates one side, windows wrap the corner so you can watch the Hyde Street cable car crest the hill outside, and the tables are close enough that you'll end up chatting with strangers whether you plan to or not.
+
+The menu leans into American diner staples — burgers, eggs Benedict, a hearty corned beef hash — but almost nobody is here strictly for the food. They're here for the drink in the tall glass mug with the cream floating on top.
 
 ## Why everyone orders the Irish coffee
 
-The Buena Vista's claim to fame is simple: this is where Irish coffee was reportedly first served in the United States, brought over from Shannon Airport in Ireland and recreated behind this bar in 1952. The recipe hasn't strayed — hot coffee, sugar, Irish whiskey, and a layer of lightly whipped cream poured over the back of a spoon so it sits on top rather than mixing in. Bartenders here have poured so many of these that they do it without measuring, in a steady, practiced motion that's worth watching from a bar seat if you can get one.
+The Buena Vista's claim to fame is simple: this is where Irish coffee was reportedly first served in the United States, brought over from Shannon Airport in Ireland and recreated behind this bar in 1952. The recipe hasn't strayed — hot coffee, sugar, Irish whiskey, and a layer of lightly whipped cream poured over the back of a spoon so it sits on top rather than mixing in.
+
+Bartenders here have poured so many of these that they do it without measuring, in a steady, practiced motion that's worth watching from a bar seat if you can get one.
 
 ## Getting there
 
@@ -95,5 +101,7 @@ Weekday mornings, any time from opening at 9am, are noticeably calmer, and weeke
 
 ## How to visit like a local
 
-Skip the idea of a reservation — walk in, and if the tables are full, claim a stool at the bar, where service is often quicker anyway. Order it simply as "an Irish coffee" and don't ask for it decaf or iced; it's a specific, traditional build and bartenders make it the same way every time. The rookie mistake is stirring the cream into the coffee — it's meant to be sipped through, cold cream against hot coffee, not blended. Given this is a well-known, very popular stop on the wharf circuit rather than an undiscovered corner bar, the real local trick is timing: come at 9am on a weekday or right at the 8am weekend opening, before the tour buses unload. Tip in cash if you can, the standard 18-20% norm for American bars, and don't linger over a single drink at the bar during peak hours — turnover is part of the unspoken deal here.
+Skip the idea of a reservation — walk in, and if the tables are full, claim a stool at the bar, where service is often quicker anyway. Order it simply as "an Irish coffee" and don't ask for it decaf or iced; it's a specific, traditional build and bartenders make it the same way every time. The rookie mistake is stirring the cream into the coffee — it's meant to be sipped through, cold cream against hot coffee, not blended.
+
+Given this is a well-known, very popular stop on the wharf circuit rather than an undiscovered corner bar, the real local trick is timing: come at 9am on a weekday or right at the 8am weekend opening, before the tour buses unload. Tip in cash if you can, the standard 18-20% norm for American bars, and don't linger over a single drink at the bar during peak hours — turnover is part of the unspoken deal here.
 

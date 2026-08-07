@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-sebastian-bar-txepetxa
-srcHash: a9cdb1fa0130
+srcHash: 'b90a770c792a'
 title: 'Bar Txepetxa: Dónde comer en San Sebastián'
 description: 'Bar Txepetxa, en Arrandegi Kalea 5, en la Parte Vieja de San Sebastián, es un bar de pintxos construido en torno a una sola especialidad: las anchoas, servidas de una docena de formas distintas.'
 quickAnswer: 'Bar Txepetxa, en Arrandegi Kalea 5, en la Parte Vieja de San Sebastián, es un bar de pintxos construido en torno a una sola especialidad: las anchoas, servidas de una docena de formas distintas. Ve temprano (a la 1pm o a las 8pm) para hacerte con un hueco en la barra, pide 3-4 pintxos de anchoa con una copa de txakoli, y calcula unos 20-30 minutos de pie en la barra: es una parada más en una ruta de pintxos, no una comida sentada.'
@@ -20,15 +20,23 @@ faq:
 
 ## Por qué Bar Txepetxa es importante
 
-La Parte Vieja de San Sebastián es célebre por sus bares de pintxos, cada uno con una especialidad que hace mejor que nadie, y la de Bar Txepetxa es la anchoa. El boquerón —la anchoa cántabra fresca y curada, no la variedad salada en lata que conocen la mayoría de los visitantes— es la especialidad de la casa, y el bar se ha ganado una legión de fieles (una valoración de 4.7 en más de 3,600 reseñas) haciendo muy pocas cosas, pero muy bien hechas. Es una taberna pequeña y sin pretensiones más que un restaurante de destino, y ese es precisamente el punto: esto es la esencia de la gastronomía donostiarra clásica, de pie ante una barra de zinc con un pincho ensartado en un palillo en una mano y una copa de blanco local en la otra.
+La Parte Vieja de San Sebastián es célebre por sus bares de pintxos, cada uno con una especialidad que hace mejor que nadie, y la de Bar Txepetxa es la anchoa. El boquerón —la anchoa cántabra fresca y curada, no la variedad salada en lata que conocen la mayoría de los visitantes— es la especialidad de la casa, y el bar se ha ganado una legión de fieles (una valoración de 4.7 en más de 3,600 reseñas) haciendo muy pocas cosas, pero muy bien hechas.
+
+Es una taberna pequeña y sin pretensiones más que un restaurante de destino, y ese es precisamente el punto: esto es la esencia de la gastronomía donostiarra clásica, de pie ante una barra de zinc con un pincho ensartado en un palillo en una mano y una copa de blanco local en la otra.
 
 ## Qué comer
 
-La anchoa aquí llega marinada y coronada con combinaciones que varían ligeramente pero que siempre giran en torno al contraste: queso crema y algas, foie gras, hueva estilo caviar, txangurro (centollo) o simples guindillas. El pedido clásico es el "Gaupasa" o un plato mixto que permite probar varias coberturas una junto a otra; pide al personal que recomiende algunas si la pizarra o el menú plastificado no resultan claros. Las raciones son pequeñas a propósito (esto es pintxos, pensado para ir picando por varios bares), así que calcula 3-4 piezas por persona si Txepetxa es una parada más entre muchas, o más si es tu plan principal. Acompáñalos con una copa de txakoli, el vino blanco vasco ligero y algo espumoso que se sirve con un vertido teatral en arco alto para airearlo, o con una cerveza pequeña (zurito). Los precios son moderados para la Parte Vieja: espera una cuenta de gama media (nivel de precio 2), no de saldo, dada la calidad de las anchoas.
+La anchoa aquí llega marinada y coronada con combinaciones que varían ligeramente pero que siempre giran en torno al contraste: queso crema y algas, foie gras, hueva estilo caviar, txangurro (centollo) o simples guindillas. El pedido clásico es el "Gaupasa" o un plato mixto que permite probar varias coberturas una junto a otra; pide al personal que recomiende algunas si la pizarra o el menú plastificado no resultan claros.
+
+Las raciones son pequeñas a propósito (esto es pintxos, pensado para ir picando por varios bares), así que calcula 3-4 piezas por persona si Txepetxa es una parada más entre muchas, o más si es tu plan principal. Acompáñalos con una copa de txakoli, el vino blanco vasco ligero y algo espumoso que se sirve con un vertido teatral en arco alto para airearlo, o con una cerveza pequeña (zurito).
+
+Los precios son moderados para la Parte Vieja: espera una cuenta de gama media (nivel de precio 2), no de saldo, dada la calidad de las anchoas.
 
 ## Cómo llegar
 
-Bar Txepetxa se encuentra en Arrandegi Kalea, una calle estrecha en la Parte Vieja, a pocos minutos a pie de la Plaza de la Constitución y de la basílica de Santa María del Coro. San Sebastián no tiene metro, así que se llega a pie o en autobús; si vienes desde la estación de autobuses o de tren (Estación del Norte), son aproximadamente 15-20 minutos caminando por el paseo del Urumea y hacia la trama de calles del Casco Viejo. Los taxis y los autobuses urbanos (líneas hacia la Parte Vieja/Boulevard) son la alternativa práctica si vienes de más lejos, como Gros o el barrio del Antiguo. Como las calles de la Parte Vieja son muy peatonales y están muy apretadas, no se recomienda ir en coche: aparca en el borde del barrio y entra caminando.
+Bar Txepetxa se encuentra en Arrandegi Kalea, una calle estrecha en la Parte Vieja, a pocos minutos a pie de la Plaza de la Constitución y de la basílica de Santa María del Coro. San Sebastián no tiene metro, así que se llega a pie o en autobús; si vienes desde la estación de autobuses o de tren (Estación del Norte), son aproximadamente 15-20 minutos caminando por el paseo del Urumea y hacia la trama de calles del Casco Viejo.
+
+Los taxis y los autobuses urbanos (líneas hacia la Parte Vieja/Boulevard) son la alternativa práctica si vienes de más lejos, como Gros o el barrio del Antiguo. Como las calles de la Parte Vieja son muy peatonales y están muy apretadas, no se recomienda ir en coche: aparca en el borde del barrio y entra caminando.
 
 ## Cuándo ir
 
@@ -36,4 +44,6 @@ Llega cerca de la hora de apertura, tanto para comer (alrededor de la 1pm) como 
 
 ## Cerca de allí y consejos
 
-El reducido espacio del bar hace que se ponga ruidoso y abarrotado rápidamente, así que no es el lugar para una comida tranquila y prolongada: ven por las anchoas, come rápido y sigue tu camino. Ten en cuenta que los días y horarios de apertura pueden variar según la temporada (muchos bares de la Parte Vieja cierran un día entre semana), así que confirma el horario actual antes de convertirlo en tu única parada. Como su especialidad es tan concreta, no esperes encontrar aquí una oferta completa de pintxos como en bares más grandes: Txepetxa es un ataque de precisión, no un todoterreno. Combínalo con un paseo por la cercana playa de La Concha después, o con un café en la Plaza de la Constitución, para redondear una tarde en la Parte Vieja.
+El reducido espacio del bar hace que se ponga ruidoso y abarrotado rápidamente, así que no es el lugar para una comida tranquila y prolongada: ven por las anchoas, come rápido y sigue tu camino. Ten en cuenta que los días y horarios de apertura pueden variar según la temporada (muchos bares de la Parte Vieja cierran un día entre semana), así que confirma el horario actual antes de convertirlo en tu única parada.
+
+Como su especialidad es tan concreta, no esperes encontrar aquí una oferta completa de pintxos como en bares más grandes: Txepetxa es un ataque de precisión, no un todoterreno. Combínalo con un paseo por la cercana playa de La Concha después, o con un café en la Plaza de la Constitución, para redondear una tarde en la Parte Vieja.

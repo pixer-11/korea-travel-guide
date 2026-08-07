@@ -61,15 +61,21 @@ draft: false
 
 ## Why go
 
-Sentosa Sensoryscape is one of the newer additions to Sentosa's already crowded roster of attractions, but it hasn't yet become a must-do stop on most itineraries — which is exactly its appeal. Unlike the theme parks and beach clubs nearby, this is a free public installation built around light, sound, water, and scent: a sequence of garden "rooms" connecting Siloso Beach to the rest of the island via a canopy of illuminated forms that shift with the time of day. With a 4.5 rating from nearly 400 reviews, it has quietly built a loyal following among visitors looking for something calmer and more atmospheric than Sentosa's bigger-ticket experiences.
+Sentosa Sensoryscape is one of the newer additions to Sentosa's already crowded roster of attractions, but it hasn't yet become a must-do stop on most itineraries — which is exactly its appeal. Unlike the theme parks and beach clubs nearby, this is a free public installation built around light, sound, water, and scent: a sequence of garden "rooms" connecting Siloso Beach to the rest of the island via a canopy of illuminated forms that shift with the time of day.
+
+With a 4.5 rating from nearly 400 reviews, it has quietly built a loyal following among visitors looking for something calmer and more atmospheric than Sentosa's bigger-ticket experiences.
 
 ## Getting there
 
-The address is 3 Siloso Rd, #01-3, Singapore 098977, tucked along the route between Siloso Beach and the Sentosa Boardwalk/Beach Station area. If you're coming from mainland Singapore, take the Sentosa Express monorail from VivoCity (Harbourfront MRT, Circle Line/North East Line) to Beach Station, then walk toward Siloso Beach — Sensoryscape sits along this connecting path, so you'll likely pass through it without even seeking it out. Alternatively, walk across Sentosa Boardwalk from VivoCity (about 15–20 minutes) or hop on the free intra-island shuttle bus toward Siloso. There's no separate admission gate — it's an open-air walkway experience, so you can wander in at any point along the route.
+The address is 3 Siloso Rd, #01-3, Singapore 098977, tucked along the route between Siloso Beach and the Sentosa Boardwalk/Beach Station area. If you're coming from mainland Singapore, take the Sentosa Express monorail from VivoCity (Harbourfront MRT, Circle Line/North East Line) to Beach Station, then walk toward Siloso Beach — Sensoryscape sits along this connecting path, so you'll likely pass through it without even seeking it out.
+
+Alternatively, walk across Sentosa Boardwalk from VivoCity (about 15–20 minutes) or hop on the free intra-island shuttle bus toward Siloso. There's no separate admission gate — it's an open-air walkway experience, so you can wander in at any point along the route.
 
 ## What to see and do
 
-The installation is designed as a series of themed zones rather than one static display. Expect a canopy of sculptural, tree-like light structures that illuminate after dark, interactive water and mist features that respond to movement or touch, and quieter garden pockets with seating for resting mid-walk. Because it functions as a connector between the beach and the rest of Sentosa, it works well as a slow amble rather than a fixed "attraction visit" — walk one direction toward Siloso Beach for sand, food kiosks, and sunset views, or the other way toward Beach Station and the boardwalk back to VivoCity. Photographers should note the light installations are most striking about 30 minutes after sunset, once ambient daylight has faded but the sky still holds some color.
+The installation is designed as a series of themed zones rather than one static display. Expect a canopy of sculptural, tree-like light structures that illuminate after dark, interactive water and mist features that respond to movement or touch, and quieter garden pockets with seating for resting mid-walk. Because it functions as a connector between the beach and the rest of Sentosa, it works well as a slow amble rather than a fixed "attraction visit" — walk one direction toward Siloso Beach for sand, food kiosks, and sunset views, or the other way toward Beach Station and the boardwalk back to VivoCity.
+
+Photographers should note the light installations are most striking about 30 minutes after sunset, once ambient daylight has faded but the sky still holds some color.
 
 ## When to go
 
@@ -77,7 +83,11 @@ Late afternoon into early evening is the sweet spot: you get the daytime garden 
 
 ## How to visit like a local
 
-Treat it as a walk-through, not a ticketed stop — there's no queue system or entry fee to navigate, so the main skill is timing. Aim for a weekday around 6:30–7:30pm: this avoids the after-lunch cruise crowds and the peak dinner rush at Siloso Beach's restaurants, while still catching the lights coming on. Wear light, breathable clothing and comfortable sandals rather than beach flip-flops, since parts of the path are paved walkway rather than sand. There's little need for cash here since it's a public installation — save your wallet for food stalls or drinks along Siloso Beach afterward. The most common visitor mistake is rushing through it as a "pass-through corridor" on the way to the beach; slow down instead, since the mist and interactive water elements are easy to miss if you're walking briskly with a schedule in mind. Because it's still relatively under-the-radar compared to Sentosa's headline attractions, you can usually find a bench to sit on and enjoy the light show without jostling for space, even at peak dusk hours.
+Treat it as a walk-through, not a ticketed stop — there's no queue system or entry fee to navigate, so the main skill is timing. Aim for a weekday around 6:30–7:30pm: this avoids the after-lunch cruise crowds and the peak dinner rush at Siloso Beach's restaurants, while still catching the lights coming on. Wear light, breathable clothing and comfortable sandals rather than beach flip-flops, since parts of the path are paved walkway rather than sand.
+
+There's little need for cash here since it's a public installation — save your wallet for food stalls or drinks along Siloso Beach afterward. The most common visitor mistake is rushing through it as a "pass-through corridor" on the way to the beach; slow down instead, since the mist and interactive water elements are easy to miss if you're walking briskly with a schedule in mind.
+
+Because it's still relatively under-the-radar compared to Sentosa's headline attractions, you can usually find a bench to sit on and enjoy the light show without jostling for space, even at peak dusk hours.
 
 ## Nearby to pair with
 

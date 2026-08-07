@@ -67,15 +67,21 @@ aiGenerated: true
 
 ## Why go
 
-You come around the corner from Central Park and the building announces itself before you've even crossed the street: pink granite turrets, a triumphal equestrian arch out front, and a facade that looks more like a fortress than a museum. Inside, the scale keeps escalating. The Barosaurus rearing up in Theodore Roosevelt Rotunda is just the opening act — beyond it are 45 halls spread across four floors, covering dinosaurs, ocean life, human origins, gems and minerals, and the planetarium sphere that seems to float, unsupported, inside its glass cube. This isn't a museum you "pop into." It's a full sensory immersion in scale — the blue whale suspended over the Milstein Hall of Ocean Life is 94 feet long and impossible to photograph properly no matter where you stand.
+You come around the corner from Central Park and the building announces itself before you've even crossed the street: pink granite turrets, a triumphal equestrian arch out front, and a facade that looks more like a fortress than a museum. Inside, the scale keeps escalating. The Barosaurus rearing up in Theodore Roosevelt Rotunda is just the opening act — beyond it are 45 halls spread across four floors, covering dinosaurs, ocean life, human origins, gems and minerals, and the planetarium sphere that seems to float, unsupported, inside its glass cube.
+
+This isn't a museum you "pop into." It's a full sensory immersion in scale — the blue whale suspended over the Milstein Hall of Ocean Life is 94 feet long and impossible to photograph properly no matter where you stand.
 
 ## Getting there
 
-The museum occupies the whole block between Central Park West and Columbus Avenue, 77th to 81st Street, on the Upper West Side. The easiest approach is the B or C train to 81st Street–Museum of Natural History, which lets out via a station entrance decorated with mosaics of the very animals you're about to see inside. The 1 train to 79th Street is a few minutes' walk further, across Central Park West. Buses M7, M10, M11, and M79 all stop close by. If you're coming from Midtown, it's a straightforward 20–25 minute subway ride — faster than fighting for a cab through park traffic.
+The museum occupies the whole block between Central Park West and Columbus Avenue, 77th to 81st Street, on the Upper West Side. The easiest approach is the B or C train to 81st Street–Museum of Natural History, which lets out via a station entrance decorated with mosaics of the very animals you're about to see inside. The 1 train to 79th Street is a few minutes' walk further, across Central Park West.
+
+Buses M7, M10, M11, and M79 all stop close by. If you're coming from Midtown, it's a straightforward 20–25 minute subway ride — faster than fighting for a cab through park traffic.
 
 ## What to see inside
 
-Start high and work down, or you'll burn your energy on the crowded lower floors first. The fourth floor holds the fossil halls — the Tyrannosaurus rex and the sauropod skeletons are the ones everyone photographs, but the Hall of Vertebrate Origins nearby is quieter and just as good. The Hall of Biodiversity and the Milstein Hall of Ocean Life, both on the first floor, tend to be the most congested, since they're closest to the entrance. The Rose Center for Earth and Space, with its glowing glass cube visible from Central Park West at night, houses the Hayden Planetarium — book a timed show ticket separately if you want to sit in on one, since they sell out on busy days. The Hall of Human Origins and the Northwest Coast Hall (recently reinstalled in consultation with the Native communities it represents) reward slower, closer looking rather than a quick walkthrough.
+Start high and work down, or you'll burn your energy on the crowded lower floors first. The fourth floor holds the fossil halls — the Tyrannosaurus rex and the sauropod skeletons are the ones everyone photographs, but the Hall of Vertebrate Origins nearby is quieter and just as good. The Hall of Biodiversity and the Milstein Hall of Ocean Life, both on the first floor, tend to be the most congested, since they're closest to the entrance.
+
+The Rose Center for Earth and Space, with its glowing glass cube visible from Central Park West at night, houses the Hayden Planetarium — book a timed show ticket separately if you want to sit in on one, since they sell out on busy days. The Hall of Human Origins and the Northwest Coast Hall (recently reinstalled in consultation with the Native communities it represents) reward slower, closer looking rather than a quick walkthrough.
 
 ## When to go
 
@@ -83,7 +89,11 @@ The museum's own visitor data shows the calm and crush clearly: weekdays stay re
 
 ## How to visit like a local
 
-New Yorkers with museum memberships treat this as a place to drop into for an hour, not conquer in one go — you don't have to see all 45 halls in a single visit, and neither should you try. Buy tickets online in advance to skip the ticket-window line; entry uses timed slots so you can walk in near your booked time rather than queuing outside. Because the museum's pricing structure has different tiers (general admission vs. tickets that bundle the planetarium space show or special exhibitions), decide before you arrive whether you want those add-ons, since they're not automatically included. Most locals pay by card or phone tap rather than cash. Coat check near the rotunda is worth using in winter — it saves you hauling a parka through crowded halls. The single biggest mistake first-timers make is entering through the Central Park West doors and beelining straight for the dinosaurs, hitting the fourth floor at the same moment as every school group and tour bus arrival; going in a less obvious order, or starting on the top floor, dodges the worst of the bottleneck. Wear layers — the Rose Center's glass-enclosed spaces run warmer than the older stone halls.
+New Yorkers with museum memberships treat this as a place to drop into for an hour, not conquer in one go — you don't have to see all 45 halls in a single visit, and neither should you try. Buy tickets online in advance to skip the ticket-window line; entry uses timed slots so you can walk in near your booked time rather than queuing outside.
+
+Because the museum's pricing structure has different tiers (general admission vs. tickets that bundle the planetarium space show or special exhibitions), decide before you arrive whether you want those add-ons, since they're not automatically included. Most locals pay by card or phone tap rather than cash. Coat check near the rotunda is worth using in winter — it saves you hauling a parka through crowded halls.
+
+The single biggest mistake first-timers make is entering through the Central Park West doors and beelining straight for the dinosaurs, hitting the fourth floor at the same moment as every school group and tour bus arrival; going in a less obvious order, or starting on the top floor, dodges the worst of the bottleneck. Wear layers — the Rose Center's glass-enclosed spaces run warmer than the older stone halls.
 
 ## Nearby to pair with your visit
 

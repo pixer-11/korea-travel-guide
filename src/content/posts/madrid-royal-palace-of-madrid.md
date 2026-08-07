@@ -72,7 +72,9 @@ You come up from Calle Bailén and the palace announces itself before you've eve
 
 ## Why go
 
-The Royal Palace is Europe's largest royal residence by floor area, built on the orders of Felipe V after a fire destroyed the old Habsburg alcázar on this same site in 1734. What you walk through today is 18th-century Bourbon ambition rendered in marble, stucco, and silk: the Throne Room with its Tiepolo ceiling fresco, the Porcelain Room lined floor-to-ceiling with hand-molded china, the Royal Armory's suits of armor built for actual Habsburg kings and their warhorses. The Gasparini Room, with its riot of chinoiserie stucco, was designed as a dressing room and still feels almost too ornate to be real. It's one of the most visited sites in the country, and the sheer density of art and antiques per square meter — Caravaggio, Goya, and Velázquez all turn up on these walls — makes it worth the crowds.
+The Royal Palace is Europe's largest royal residence by floor area, built on the orders of Felipe V after a fire destroyed the old Habsburg alcázar on this same site in 1734. What you walk through today is 18th-century Bourbon ambition rendered in marble, stucco, and silk: the Throne Room with its Tiepolo ceiling fresco, the Porcelain Room lined floor-to-ceiling with hand-molded china, the Royal Armory's suits of armor built for actual Habsburg kings and their warhorses.
+
+The Gasparini Room, with its riot of chinoiserie stucco, was designed as a dressing room and still feels almost too ornate to be real. It's one of the most visited sites in the country, and the sheer density of art and antiques per square meter — Caravaggio, Goya, and Velázquez all turn up on these walls — makes it worth the crowds.
 
 ## Getting there
 
@@ -80,12 +82,20 @@ The palace sits in the Centro district, right beside the Almudena Cathedral and 
 
 ## What to see inside
 
-Don't just do the state rooms and leave. The Royal Armory, in its own wing off the Prince's Courtyard, is one of the best-preserved collections of historic arms and armor in the world. The Royal Pharmacy, tucked in a quiet corner, still has its 18th-century apothecary jars lined up on dark wood shelves. If the Royal Kitchens are open during your visit, they're worth the extra steps — copper pots the size of bathtubs and ovens built to feed hundreds. Outside, the Sabatini Gardens on the north side and the Campo del Moro gardens below the western façade give you a quiet, green counterpoint to all that gilt indoors, with a clean view back up at the palace's stone face.
+Don't just do the state rooms and leave. The Royal Armory, in its own wing off the Prince's Courtyard, is one of the best-preserved collections of historic arms and armor in the world. The Royal Pharmacy, tucked in a quiet corner, still has its 18th-century apothecary jars lined up on dark wood shelves. If the Royal Kitchens are open during your visit, they're worth the extra steps — copper pots the size of bathtubs and ovens built to feed hundreds.
+
+Outside, the Sabatini Gardens on the north side and the Campo del Moro gardens below the western façade give you a quiet, green counterpoint to all that gilt indoors, with a clean view back up at the palace's stone face.
 
 ## When to go
 
-The palace opens at 10am daily and closes at 6pm Monday through Saturday, but only until 3pm on Sundays — plan your day around that shorter Sunday window if that's your only free day. Weekday mornings between 10 and 11am are consistently the quietest stretch, so that's your best shot at wandering the state rooms without a shuffling crowd at your shoulder. Weekends are busiest from 1pm to 6pm, and that's the window to actively avoid; even weekend mornings stay fairly full from 10am through 4pm, so a weekday visit is genuinely worth rearranging your itinerary for if you can.
+The palace opens at 10am daily and closes at 6pm Monday through Saturday, but only until 3pm on Sundays — plan your day around that shorter Sunday window if that's your only free day. Weekday mornings between 10 and 11am are consistently the quietest stretch, so that's your best shot at wandering the state rooms without a shuffling crowd at your shoulder.
+
+Weekends are busiest from 1pm to 6pm, and that's the window to actively avoid; even weekend mornings stay fairly full from 10am through 4pm, so a weekday visit is genuinely worth rearranging your itinerary for if you can.
 
 ## How to visit like a local
 
-Book your timed-entry ticket online before you go — this is a very popular attraction and the walk-up ticket line at the palace itself can eat an hour of your morning that a five-minute online booking avoids entirely. Locals and regular visitors alike treat the first entry slot of the day as the move: you're in before the tour buses have properly unloaded. Payment inside is by card as much as cash these days, though an ATM and ticket counter exist if you need one. There's no tipping expected for palace staff or guides. Dress is casual but modest — no swimwear or bare torsos, as with most Spanish cathedrals and palaces nearby. The mistake most first-timers make is treating this as a quick photo-stop between the Prado and Plaza Mayor; the palace rewards a genuine two-to-three-hour visit, and rushing the Armory or Porcelain Room means missing the detail that makes them remarkable. If you want a full circuit, pair your palace visit with the neighboring Almudena Cathedral (free, right next door) and a slow loop through Campo del Moro afterward — by then the ridge-top light hits the western façade and the whole building looks entirely different than it did at 10am.
+Book your timed-entry ticket online before you go — this is a very popular attraction and the walk-up ticket line at the palace itself can eat an hour of your morning that a five-minute online booking avoids entirely. Locals and regular visitors alike treat the first entry slot of the day as the move: you're in before the tour buses have properly unloaded.
+
+Payment inside is by card as much as cash these days, though an ATM and ticket counter exist if you need one. There's no tipping expected for palace staff or guides. Dress is casual but modest — no swimwear or bare torsos, as with most Spanish cathedrals and palaces nearby. The mistake most first-timers make is treating this as a quick photo-stop between the Prado and Plaza Mayor; the palace rewards a genuine two-to-three-hour visit, and rushing the Armory or Porcelain Room means missing the detail that makes them remarkable.
+
+If you want a full circuit, pair your palace visit with the neighboring Almudena Cathedral (free, right next door) and a slow loop through Campo del Moro afterward — by then the ridge-top light hits the western façade and the whole building looks entirely different than it did at 10am.

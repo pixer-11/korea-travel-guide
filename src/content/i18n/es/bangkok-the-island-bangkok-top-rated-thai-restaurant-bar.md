@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
-srcHash: ea320bf29b37
+srcHash: 'ed97b252ddd2'
 title: 'The Island Bangkok, restaurante y bar tailandés de primer nivel: dónde comer'
 description: The Island Bangkok es un restaurante y bar tailandés muy bien valorado, escondido en Soi Samsen 4, en la zona de Banglamphu/Phra Nakhon, a poca distancia a pie de Khao San Road y del río.
 quickAnswer: The Island Bangkok es un restaurante y bar tailandés muy bien valorado, escondido en Soi Samsen 4, en la zona de Banglamphu/Phra Nakhon, a poca distancia a pie de Khao San Road y del río. Es ideal para un ambiente relajado, tipo jardín, con platos tailandeses clásicos y cócteles; calcula entre 1,5 y 2 horas para una comida completa. Conviene reservar con antelación o llegar temprano las noches de fin de semana, ya que es un lugar muy popular entre locales y turistas, con una enorme cantidad de reseñas (más de 14.600 valoraciones con 4,9 estrellas).
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-The Island Bangkok se ha ganado una de las mejores reputaciones entre los restaurantes de la zona del casco antiguo, con una valoración de 4,9 en más de 14.600 reseñas, un volumen y una puntuación que lo sitúan muy por delante de la mayoría de sus competidores en el distrito de Phra Nakhon. Es el tipo de lugar que los foros de viajes y los expatriados de Bangkok mencionan una y otra vez por ofrecer una experiencia gastronómica tailandesa fiable y con ambiente, sin necesidad de adentrarse en la zona más turística de Khao San Road. El entorno suele compararse con un lounge-jardín al aire libre: frondoso, con luz tenue y pensado para disfrutar con calma de la comida y las bebidas, más que para una parada rápida.
+The Island Bangkok se ha ganado una de las mejores reputaciones entre los restaurantes de la zona del casco antiguo, con una valoración de 4,9 en más de 14.600 reseñas, un volumen y una puntuación que lo sitúan muy por delante de la mayoría de sus competidores en el distrito de Phra Nakhon. Es el tipo de lugar que los foros de viajes y los expatriados de Bangkok mencionan una y otra vez por ofrecer una experiencia gastronómica tailandesa fiable y con ambiente, sin necesidad de adentrarse en la zona más turística de Khao San Road.
+
+El entorno suele compararse con un lounge-jardín al aire libre: frondoso, con luz tenue y pensado para disfrutar con calma de la comida y las bebidas, más que para una parada rápida.
 
 ## Cómo llegar
 
@@ -36,12 +38,18 @@ Como el restaurante se encuentra en un soi (calle secundaria) y no en una vía p
 
 Espera un menú centrado en clásicos tailandeses bien ejecutados, más que en una fusión experimental: piensa en tom yum goong, pad kra pao, curry verde, pescado entero a la parrilla y salteados de morning glory (kang kong), junto con una carta de cócteles y cervezas acorde con el lado "bar" del nombre. Los reseñadores destacan tanto el ambiente como la comida: luces de colores, vegetación y mesas al aire libre que le dan un aire más de restaurante-jardín que de local de centro comercial, algo que explica por qué funciona tan bien tanto para una cena como para una velada más larga de copas y comida.
 
-Aprovecha la visita para conocer los alrededores de Banglamphu: el Wat Chana Songkhram y el Monumento a la Democracia (Democracy Monument) están a un corto trayecto en taxi o a una larga caminata, y la propia Khao San Road queda lo bastante cerca como para dar un paseo antes o después de cenar, si buscas vida nocturna o compras callejeras. El Museo Nacional de Bangkok (National Museum Bangkok) y el Wat Suthat también son accesibles en 15-20 minutos, lo que convierte a este lugar en una buena parada para cenar tras un día recorriendo templos del casco antiguo.
+Aprovecha la visita para conocer los alrededores de Banglamphu: el Wat Chana Songkhram y el Monumento a la Democracia (Democracy Monument) están a un corto trayecto en taxi o a una larga caminata, y la propia Khao San Road queda lo bastante cerca como para dar un paseo antes o después de cenar, si buscas vida nocturna o compras callejeras.
+
+El Museo Nacional de Bangkok (National Museum Bangkok) y el Wat Suthat también son accesibles en 15-20 minutos, lo que convierte a este lugar en una buena parada para cenar tras un día recorriendo templos del casco antiguo.
 
 ## Cuándo ir
 
-Las noches son claramente el mejor momento: el ambiente de jardín-lounge y el lado "bar" del local cobran vida a partir del atardecer, aproximadamente desde primera hora de la tarde-noche en adelante. Los fines de semana y los periodos festivos atraen a las multitudes más grandes, a juzgar por el volumen de reseñas, así que reservar (si es posible) o llegar temprano, hacia las 6-6:30 pm, es la opción más segura si quieres mesa sin esperar. La temporada más fresca de Bangkok, de noviembre a febrero, hace que las mesas al aire libre o semiabiertas resulten mucho más agradables que durante el tramo caluroso de abril-mayo.
+Las noches son claramente el mejor momento: el ambiente de jardín-lounge y el lado "bar" del local cobran vida a partir del atardecer, aproximadamente desde primera hora de la tarde-noche en adelante. Los fines de semana y los periodos festivos atraen a las multitudes más grandes, a juzgar por el volumen de reseñas, así que reservar (si es posible) o llegar temprano, hacia las 6-6:30 pm, es la opción más segura si quieres mesa sin esperar.
+
+La temporada más fresca de Bangkok, de noviembre a febrero, hace que las mesas al aire libre o semiabiertas resulten mucho más agradables que durante el tramo caluroso de abril-mayo.
 
 ## Alrededores y consejos
 
-Calcula entre 1,5 y 2 horas para una cena en condiciones, más tiempo si te vas a quedar tomando algo. Como se trata de una dirección en un soi sin acceso cercano a transporte sobre rieles, planifica el trayecto tanto de ida como de vuelta: la disponibilidad de Grab puede escasear de madrugada en los sois más pequeños, así que conviene reservar el viaje de regreso antes de terminar el postre. Como ocurre con la mayoría de los restaurantes en Tailandia, confirma directamente con el local los horarios de apertura vigentes y cualquier cargo por servicio o precio de menú fijo, ya que estos detalles cambian con más frecuencia que la comida.
+Calcula entre 1,5 y 2 horas para una cena en condiciones, más tiempo si te vas a quedar tomando algo. Como se trata de una dirección en un soi sin acceso cercano a transporte sobre rieles, planifica el trayecto tanto de ida como de vuelta: la disponibilidad de Grab puede escasear de madrugada en los sois más pequeños, así que conviene reservar el viaje de regreso antes de terminar el postre.
+
+Como ocurre con la mayoría de los restaurantes en Tailandia, confirma directamente con el local los horarios de apertura vigentes y cualquier cargo por servicio o precio de menú fijo, ya que estos detalles cambian con más frecuencia que la comida.

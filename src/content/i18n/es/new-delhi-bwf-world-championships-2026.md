@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: new-delhi-bwf-world-championships-2026
-srcHash: 0b87265812eb
+srcHash: '67ad651eef9b'
 title: 'Campeonato Mundial de Bádminton BWF 2026: lo que hay que saber (Nueva Delhi)'
 description: El Campeonato Mundial de Bádminton BWF 2026 se disputa del 17 al 23 de agosto de 2026 en el Indira Gandhi Arena de Nueva Delhi, la primera vez en 17 años que India acoge el evento.
 quickAnswer: El Campeonato Mundial de Bádminton BWF 2026 se disputa del 17 al 23 de agosto de 2026 en el Indira Gandhi Arena de Nueva Delhi, la primera vez en 17 años que India acoge el evento. Se espera que estrellas como Shi Yu Qi, An Se-young, Lakshya Sen y PV Sindhu sean las grandes figuras, y que las finales atraigan al público más numeroso durante el último fin de semana. Reserva vuelos y hotel con antelación, y confirma el calendario exacto de partidos y las categorías de entradas en el sitio oficial de la BWF a medida que se acerque la fecha.
@@ -20,17 +20,23 @@ faq:
 
 ## Por qué ir
 
-El Campeonato Mundial de bádminton es el torneo individual más prestigioso del deporte fuera de los Juegos Olímpicos, y 2026 marca la primera vez en 17 años que India tiene la oportunidad de albergarlo. Solo eso convierte esta semana en un hito para los aficionados al bádminton del sur de Asia: la posibilidad de ver a las mayores figuras del deporte competir en casa por un favorito local, Lakshya Sen, y por la jugadora más laureada de India en la rama femenina, PV Sindhu, junto a estrellas globales como el chino Shi Yu Qi y la surcoreana An Se-young. Para los visitantes, también es motivo para combinar deporte de primer nivel con un primer viaje (o uno más) a Delhi, una de las grandes capitales históricas del subcontinente.
+El Campeonato Mundial de bádminton es el torneo individual más prestigioso del deporte fuera de los Juegos Olímpicos, y 2026 marca la primera vez en 17 años que India tiene la oportunidad de albergarlo. Solo eso convierte esta semana en un hito para los aficionados al bádminton del sur de Asia: la posibilidad de ver a las mayores figuras del deporte competir en casa por un favorito local, Lakshya Sen, y por la jugadora más laureada de India en la rama femenina, PV Sindhu, junto a estrellas globales como el chino Shi Yu Qi y la surcoreana An Se-young.
+
+Para los visitantes, también es motivo para combinar deporte de primer nivel con un primer viaje (o uno más) a Delhi, una de las grandes capitales históricas del subcontinente.
 
 ## Cómo llegar y datos básicos de la sede
 
 El torneo se disputa del **17 al 23 de agosto de 2026** en el **Indira Gandhi Arena** (también conocido como Indira Gandhi Indoor Stadium), un recinto cubierto y multiuso de larga tradición en el centro de Delhi, cerca de India Gate y de la zona de Delhi Cantonment. Es un recinto deportivo consolidado que ha acogido pruebas de los Juegos de la Commonwealth y anteriores competiciones internacionales de bádminton, por lo que está preparado para grandes multitudes, prensa y retransmisión internacional.
 
-La puerta de entrada internacional de Delhi es el Aeropuerto Internacional Indira Gandhi (DEL), conectado con el centro de la ciudad mediante la línea de metro Airport Express, que llega a la estación New Delhi Railway Station en unos 20 minutos. Desde allí, la red del metro de Delhi (las líneas Amarilla, Azul y Violeta conectan a través de estaciones de intercambio céntricas como Rajiv Chowk y Central Secretariat) es la forma más fiable de llegar a la zona del estadio, especialmente durante la semana del torneo, cuando el tráfico rodado cerca de las grandes sedes suele aumentar. Como los detalles exactos sobre la estación más cercana y los accesos para el evento de 2026 aún no se han hecho públicos de forma definitiva, conviene consultar la página oficial del campeonato de la BWF y el sitio del metro de Delhi más cerca de agosto para confirmar las rutas de acceso.
+La puerta de entrada internacional de Delhi es el Aeropuerto Internacional Indira Gandhi (DEL), conectado con el centro de la ciudad mediante la línea de metro Airport Express, que llega a la estación New Delhi Railway Station en unos 20 minutos. Desde allí, la red del metro de Delhi (las líneas Amarilla, Azul y Violeta conectan a través de estaciones de intercambio céntricas como Rajiv Chowk y Central Secretariat) es la forma más fiable de llegar a la zona del estadio, especialmente durante la semana del torneo, cuando el tráfico rodado cerca de las grandes sedes suele aumentar.
+
+Como los detalles exactos sobre la estación más cercana y los accesos para el evento de 2026 aún no se han hecho públicos de forma definitiva, conviene consultar la página oficial del campeonato de la BWF y el sitio del metro de Delhi más cerca de agosto para confirmar las rutas de acceso.
 
 ## Qué esperar durante la semana
 
-Se espera el formato habitual de los Campeonatos Mundiales: cinco días de fase clasificatoria y primeras rondas (individuales y dobles en los cuadros masculino, femenino y mixto) que desembocan en cuartos de final, semifinales y finales durante el fin de semana de cierre, el 22 y 23 de agosto. Las entradas por sesión suelen venderse por separado para los bloques de mañana y de tarde/noche, y las sesiones del día final son las que registran mayor demanda y precio. Dado que las categorías de entradas, los horarios exactos de los partidos y los precios aún no se han publicado oficialmente en el momento de escribir esto, conviene ser cauto con cualquier oferta de terceros y comprar únicamente a través de los canales oficiales de la BWF o socios autorizados una vez se abra la venta.
+Se espera el formato habitual de los Campeonatos Mundiales: cinco días de fase clasificatoria y primeras rondas (individuales y dobles en los cuadros masculino, femenino y mixto) que desembocan en cuartos de final, semifinales y finales durante el fin de semana de cierre, el 22 y 23 de agosto. Las entradas por sesión suelen venderse por separado para los bloques de mañana y de tarde/noche, y las sesiones del día final son las que registran mayor demanda y precio.
+
+Dado que las categorías de entradas, los horarios exactos de los partidos y los precios aún no se han publicado oficialmente en el momento de escribir esto, conviene ser cauto con cualquier oferta de terceros y comprar únicamente a través de los canales oficiales de la BWF o socios autorizados una vez se abra la venta.
 
 Más allá de la pista, la afición al bádminton en Delhi tiene hondas raíces: India ha producido una sucesión de jugadores de talla mundial en las últimas dos décadas, por lo que el público local suele ser entendido y ruidoso, especialmente en los partidos que involucran a jugadores indios como Sen y Sindhu.
 

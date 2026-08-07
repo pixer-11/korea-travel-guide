@@ -50,19 +50,27 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Jl. Progo is one of Bandung's small cluster of tree-lined "heritage streets" in Citarum, a residential pocket a few minutes from the city center that's known for colonial-era houses converted into cafés and boutiques. Hummingbird Eatery & Space fits that mold: a restored bungalow with a garden patio, indoor seating, and a menu built to please a mixed crowd — nasi goreng and rendang sit alongside pasta, burgers, crepes, and cold-pressed juices. It's currently one of the most-reviewed restaurants in the city (nearly 13,000 reviews and a 4.7 average), which tells you two things: the food and setting are reliably good, and you should expect company, especially on weekends.
+Jl. Progo is one of Bandung's small cluster of tree-lined "heritage streets" in Citarum, a residential pocket a few minutes from the city center that's known for colonial-era houses converted into cafés and boutiques. Hummingbird Eatery & Space fits that mold: a restored bungalow with a garden patio, indoor seating, and a menu built to please a mixed crowd — nasi goreng and rendang sit alongside pasta, burgers, crepes, and cold-pressed juices.
+
+It's currently one of the most-reviewed restaurants in the city (nearly 13,000 reviews and a 4.7 average), which tells you two things: the food and setting are reliably good, and you should expect company, especially on weekends.
 
 ## Getting there
 
-The address is Jl. Progo No.16, Citarum, Kecamatan Bandung Wetan, Kota Bandung, Jawa Barat 40116. It sits in the Citarum/Progo enclave north of the city center, an area better navigated by car, taxi, or ride-hailing app (Gojek or Grab) than public transit, since Bandung doesn't have a subway or extensive rail network within the city. From Bandung Station (Stasiun Bandung), it's roughly a 10–15 minute drive depending on traffic. If you're coming from the Dago or Riau shopping districts, it's an easy 5–10 minute hop. Street parking on Jl. Progo is limited, so many visitors arrive by ride-hailing app rather than self-driving.
+The address is Jl. Progo No.16, Citarum, Kecamatan Bandung Wetan, Kota Bandung, Jawa Barat 40116. It sits in the Citarum/Progo enclave north of the city center, an area better navigated by car, taxi, or ride-hailing app (Gojek or Grab) than public transit, since Bandung doesn't have a subway or extensive rail network within the city. From Bandung Station (Stasiun Bandung), it's roughly a 10–15 minute drive depending on traffic.
+
+If you're coming from the Dago or Riau shopping districts, it's an easy 5–10 minute hop. Street parking on Jl. Progo is limited, so many visitors arrive by ride-hailing app rather than self-driving.
 
 ## What to eat
 
-The menu bridges two worlds deliberately. For Indonesian classics, look for nasi goreng, rendang, and soto — dishes that anchor the "comfort food" reputation. On the Western side, expect pasta, sandwiches, and burgers aimed at brunch-and-lunch crowds. The crepes (both sweet and savory) are a signature item worth ordering alongside one of the fresh fruit juices or espresso drinks — the combination of café-style drinks with a full restaurant menu is part of what makes this a popular all-day spot rather than just a breakfast stop. Portions and pricing sit comfortably in the mid-range, so expect a casual-restaurant tab rather than street-food prices, but nothing approaching fine dining.
+The menu bridges two worlds deliberately. For Indonesian classics, look for nasi goreng, rendang, and soto — dishes that anchor the "comfort food" reputation. On the Western side, expect pasta, sandwiches, and burgers aimed at brunch-and-lunch crowds. The crepes (both sweet and savory) are a signature item worth ordering alongside one of the fresh fruit juices or espresso drinks — the combination of café-style drinks with a full restaurant menu is part of what makes this a popular all-day spot rather than just a breakfast stop.
+
+Portions and pricing sit comfortably in the mid-range, so expect a casual-restaurant tab rather than street-food prices, but nothing approaching fine dining.
 
 ## Atmosphere and setting
 
-The draw beyond the food is the space itself: a converted house with a garden patio shaded by trees, giving it a relaxed, almost residential feel rather than a formal dining room. Indoor seating offers air conditioning and a quieter backdrop for those avoiding Bandung's warm midday air, while the patio is the more atmospheric choice in the cooler morning or early evening hours. The overall vibe leans toward a laid-back, plant-filled café-restaurant hybrid — a common style in this part of Bandung, where old houses are repurposed into dining spots with garden seating.
+The draw beyond the food is the space itself: a converted house with a garden patio shaded by trees, giving it a relaxed, almost residential feel rather than a formal dining room. Indoor seating offers air conditioning and a quieter backdrop for those avoiding Bandung's warm midday air, while the patio is the more atmospheric choice in the cooler morning or early evening hours.
+
+The overall vibe leans toward a laid-back, plant-filled café-restaurant hybrid — a common style in this part of Bandung, where old houses are repurposed into dining spots with garden seating.
 
 ## When to go
 
@@ -70,4 +78,8 @@ Bandung's dry season (roughly April through October) makes outdoor patio seating
 
 ## How to visit like a local
 
-Given its size in review volume and its "very popular" status, this is not an under-the-radar find — it's a well-established, busy restaurant, and the smart move is timing rather than secrecy. Aim for a weekday visit, or a weekend arrival right at opening, to shorten the wait for a table, especially for patio seating. Payment is typically by cash or card, and most restaurants in this bracket in Bandung now accept QRIS mobile payment as well, so having a payment app or e-wallet set up (alongside cash as backup) smooths things along. Tipping isn't obligatory in Indonesia the way it is in the US — rounding up or leaving small change is appreciated but not expected, and a service charge may already be added to the bill. The most common visitor mistake is treating it as a quick stop: with a menu this broad and a setting built for lingering, it rewards a slower sit-down meal rather than a rushed one. If you want the patio specifically, ask when seated rather than assuming indoor is the only option — staff will accommodate preference when tables are free.
+Given its size in review volume and its "very popular" status, this is not an under-the-radar find — it's a well-established, busy restaurant, and the smart move is timing rather than secrecy. Aim for a weekday visit, or a weekend arrival right at opening, to shorten the wait for a table, especially for patio seating. Payment is typically by cash or card, and most restaurants in this bracket in Bandung now accept QRIS mobile payment as well, so having a payment app or e-wallet set up (alongside cash as backup) smooths things along.
+
+Tipping isn't obligatory in Indonesia the way it is in the US — rounding up or leaving small change is appreciated but not expected, and a service charge may already be added to the bill. The most common visitor mistake is treating it as a quick stop: with a menu this broad and a setting built for lingering, it rewards a slower sit-down meal rather than a rushed one.
+
+If you want the patio specifically, ask when seated rather than assuming indoor is the only option — staff will accommodate preference when tables are free.

@@ -53,7 +53,9 @@ photoless: true
 
 ## Why Daegu's Cafe Scene Stands Out
 
-Daegu doesn't get the international spotlight Seoul or Busan do, but it has quietly built one of Korea's most interesting cafe cultures, partly because the city has a genuine coffee-roasting heritage — it's often cited as a hub for specialty roasters — and partly because young entrepreneurs have converted old hanok, warehouses, and residential buildings into design-forward cafes rather than chain outlets. The result is a scene that feels more local and less commercialized than Seoul's Instagram-cafe circuit, while still delivering the polished interiors and elaborate drinks/desserts that define "trendy" cafe culture in Korea.
+Daegu doesn't get the international spotlight Seoul or Busan do, but it has quietly built one of Korea's most interesting cafe cultures, partly because the city has a genuine coffee-roasting heritage — it's often cited as a hub for specialty roasters — and partly because young entrepreneurs have converted old hanok, warehouses, and residential buildings into design-forward cafes rather than chain outlets.
+
+The result is a scene that feels more local and less commercialized than Seoul's Instagram-cafe circuit, while still delivering the polished interiors and elaborate drinks/desserts that define "trendy" cafe culture in Korea.
 
 ## Getting There
 
@@ -79,4 +81,6 @@ Weekday late morning (10:30am-12pm) or mid-afternoon (2-4pm) avoids the worst cr
 
 ## Nearby & Practical Tips
 
-Combine a cafe visit with nearby sights rather than treating it as a standalone stop: Dongseong-ro connects easily to **Seomun Market** (a few subway stops away) for a food-focused contrast, while Suseong Lake is a short taxi or bus ride from **Duryu Park** and **E-World**, Daegu's amusement-park-and-observation-tower area, good for an evening after an afternoon coffee. Menus in most trendy cafes include English or picture menus, and mobile payment is near-universal, but carrying a small amount of cash is still wise for smaller independent shops. Confirm individual cafe hours online before visiting, as many independent Korean cafes rotate weekly closed days (often Monday or Tuesday).
+Combine a cafe visit with nearby sights rather than treating it as a standalone stop: Dongseong-ro connects easily to **Seomun Market** (a few subway stops away) for a food-focused contrast, while Suseong Lake is a short taxi or bus ride from **Duryu Park** and **E-World**, Daegu's amusement-park-and-observation-tower area, good for an evening after an afternoon coffee. Menus in most trendy cafes include English or picture menus, and mobile payment is near-universal, but carrying a small amount of cash is still wise for smaller independent shops.
+
+Confirm individual cafe hours online before visiting, as many independent Korean cafes rotate weekly closed days (often Monday or Tuesday).

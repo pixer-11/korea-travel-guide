@@ -86,15 +86,23 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-The Atomic Bomb Dome (Genbaku Dome) is what remains of the former Hiroshima Prefectural Industrial Promotion Hall, a Czech-designed brick-and-steel building completed in 1915. On August 6, 1945, it stood almost directly beneath the atomic bomb's detonation point and, by a strange quirk of blast physics, its central dome and some walls survived while everything inside and around it was flattened. It's been left deliberately untouched since — no restoration, just structural reinforcement to keep it standing — and was inscribed as a UNESCO World Heritage Site in 1996. With a 4.7 rating across more than 34,000 reviews, it's one of the most visited single structures in Japan, but it rewards visitors less with grandeur than with silence: this is a place to look, not to photograph-and-move-on.
+The Atomic Bomb Dome (Genbaku Dome) is what remains of the former Hiroshima Prefectural Industrial Promotion Hall, a Czech-designed brick-and-steel building completed in 1915. On August 6, 1945, it stood almost directly beneath the atomic bomb's detonation point and, by a strange quirk of blast physics, its central dome and some walls survived while everything inside and around it was flattened.
+
+It's been left deliberately untouched since — no restoration, just structural reinforcement to keep it standing — and was inscribed as a UNESCO World Heritage Site in 1996. With a 4.7 rating across more than 34,000 reviews, it's one of the most visited single structures in Japan, but it rewards visitors less with grandeur than with silence: this is a place to look, not to photograph-and-move-on.
 
 ## Getting there
 
-The Dome is at 1-chōme-1-10 Ōtemachi, Naka Ward, right on the east bank of the Motoyasu River. The easiest approach is by tram (streetcar) — Hiroshima's iconic, still-running electric tram network. Take any tram heading toward Hiroshima Station/Eba/Hatchobori lines and get off at the Genbaku Dome-mae stop, which puts you directly across the river from the ruin. From Hiroshima Station, it's roughly a 15-minute tram ride. If you're coming on foot from Peace Memorial Park (just across the Motoyasu-gawa Peace Bridge or Motoyasu Bridge), it's a 5-minute walk. Hiroshima's bus network and rental bicycles (many hotels and the station have bike-share docks) also reach the area easily. There's no dedicated parking at the site itself, so driving is the least convenient option.
+The Dome is at 1-chōme-1-10 Ōtemachi, Naka Ward, right on the east bank of the Motoyasu River. The easiest approach is by tram (streetcar) — Hiroshima's iconic, still-running electric tram network. Take any tram heading toward Hiroshima Station/Eba/Hatchobori lines and get off at the Genbaku Dome-mae stop, which puts you directly across the river from the ruin. From Hiroshima Station, it's roughly a 15-minute tram ride.
+
+If you're coming on foot from Peace Memorial Park (just across the Motoyasu-gawa Peace Bridge or Motoyasu Bridge), it's a 5-minute walk. Hiroshima's bus network and rental bicycles (many hotels and the station have bike-share docks) also reach the area easily. There's no dedicated parking at the site itself, so driving is the least convenient option.
 
 ## What to see
 
-There's no interior access — the structure is fenced off for preservation and safety, so the experience is entirely about viewing it from the surrounding walkway and the opposite riverbank. Walk the full loop around the perimeter; the angle from the river's west bank, with the skeletal dome reflected in the water, is the classic and most affecting view, especially at dusk when the ruin is softly lit. Plaques around the site (in Japanese and English) explain the building's original function as an exhibition hall for local industry and products. Budget 15-30 minutes at the Dome itself, but pair it with the adjacent Peace Memorial Park, home to the Children's Peace Monument, the Flame of Peace, and the Cenotaph for the A-bomb Victims, all connected by shaded walking paths. The Hiroshima Peace Memorial Museum sits at the park's south end and is worth 1-2 hours for historical context — many visitors do museum first, then Dome, to end the visit at the ruin itself.
+There's no interior access — the structure is fenced off for preservation and safety, so the experience is entirely about viewing it from the surrounding walkway and the opposite riverbank. Walk the full loop around the perimeter; the angle from the river's west bank, with the skeletal dome reflected in the water, is the classic and most affecting view, especially at dusk when the ruin is softly lit.
+
+Plaques around the site (in Japanese and English) explain the building's original function as an exhibition hall for local industry and products. Budget 15-30 minutes at the Dome itself, but pair it with the adjacent Peace Memorial Park, home to the Children's Peace Monument, the Flame of Peace, and the Cenotaph for the A-bomb Victims, all connected by shaded walking paths.
+
+The Hiroshima Peace Memorial Museum sits at the park's south end and is worth 1-2 hours for historical context — many visitors do museum first, then Dome, to end the visit at the ruin itself.
 
 ## When to go
 
@@ -102,4 +110,6 @@ Early morning (before 9am) or the last hour before sunset are the quietest times
 
 ## Nearby & tips
 
-Combine the visit with Hiroshima Orizuru Tower, a short walk away, which has an observation deck looking down over the Dome and river — useful for orientation before you go in for a closer look. Okonomi-mura, a multi-floor building packed with okonomiyaki stalls serving Hiroshima-style layered pancakes, is about 15-20 minutes on foot or a short tram ride toward downtown, and makes a fitting meal after a reflective morning at the park. Since this is a memorial site as much as a historic landmark, keep noise and photography respectful — many visitors instinctively lower their voices near the ruin itself.
+Combine the visit with Hiroshima Orizuru Tower, a short walk away, which has an observation deck looking down over the Dome and river — useful for orientation before you go in for a closer look. Okonomi-mura, a multi-floor building packed with okonomiyaki stalls serving Hiroshima-style layered pancakes, is about 15-20 minutes on foot or a short tram ride toward downtown, and makes a fitting meal after a reflective morning at the park.
+
+Since this is a memorial site as much as a historic landmark, keep noise and photography respectful — many visitors instinctively lower their voices near the ruin itself.

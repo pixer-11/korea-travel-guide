@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: busan-sightseeing
-srcHash: 4d1c52756053
+srcHash: '7cb67e037bfb'
 title: Qué ver en Busan
 description: 'Organiza un viaje a Busan en torno a tres zonas: Haeundae/Gwangalli para playas y vistas del perfil urbano, Nampo-dong/Jagalchi para la vida portuaria del casco antiguo y la comida callejera, y Gamcheon Culture Village para la foto en la ladera.'
 quickAnswer: 'Organiza un viaje a Busan en torno a tres zonas: Haeundae/Gwangalli para playas y vistas del perfil urbano, Nampo-dong/Jagalchi para la vida portuaria del casco antiguo y la comida callejera, y Gamcheon Culture Village para la foto en la ladera. Con dos o tres días completos basta para ver lo más destacado combinando metro y trayectos cortos en taxi; ve en mayo-junio o septiembre-octubre para evitar las multitudes y la humedad del verano.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué Busan merece una mirada pausada
 
-La segunda ciudad de Corea cambia la densidad de Seúl por costa, montañas y un puerto en funcionamiento que aún huele a mercado de pescado a las 7 de la mañana. Busan se extiende sobre crestas montañosas y playas en lugar de seguir una única cuadrícula plana, así que hacer turismo aquí significa moverse entre barrios bien diferenciados en vez de caminarlo todo desde un solo punto. Ahí está el encanto: una mañana en una fortaleza de la era Joseon o en un templo budista, una tarde en la arena y una cena en un mercado que funciona desde la Guerra de Corea.
+La segunda ciudad de Corea cambia la densidad de Seúl por costa, montañas y un puerto en funcionamiento que aún huele a mercado de pescado a las 7 de la mañana. Busan se extiende sobre crestas montañosas y playas en lugar de seguir una única cuadrícula plana, así que hacer turismo aquí significa moverse entre barrios bien diferenciados en vez de caminarlo todo desde un solo punto.
+
+Ahí está el encanto: una mañana en una fortaleza de la era Joseon o en un templo budista, una tarde en la arena y una cena en un mercado que funciona desde la Guerra de Corea.
 
 ## Cómo llegar y moverse
 
-El metro de Busan (líneas 1 a 4) cubre la mayoría de las necesidades turísticas, y la tarjeta T-money (la misma que se usa en Seúl) funciona tanto en autobuses como en trenes. El aeropuerto internacional de Gimhae (Gimhae International Airport) conecta con la ciudad mediante el tren ligero Busan-Gimhae (Busan-Gimhae Light Rail Transit), con transbordo a la Línea 3 en la estación Daejeo, unos 40-50 minutos hasta el centro de Busan. Si llegas en KTX desde Seúl (unas 2.5 horas), llegarás a la estación de Busan (Busan Station) en la Línea 1, justo al borde de Nampo-dong y el barrio chino. Para los trayectos costeros entre Haeundae, Gwangalli y las playas del sur, los taxis son económicos en comparación con Seúl y a menudo más rápidos que hacer transbordos de línea.
+El metro de Busan (líneas 1 a 4) cubre la mayoría de las necesidades turísticas, y la tarjeta T-money (la misma que se usa en Seúl) funciona tanto en autobuses como en trenes. El aeropuerto internacional de Gimhae (Gimhae International Airport) conecta con la ciudad mediante el tren ligero Busan-Gimhae (Busan-Gimhae Light Rail Transit), con transbordo a la Línea 3 en la estación Daejeo, unos 40-50 minutos hasta el centro de Busan.
+
+Si llegas en KTX desde Seúl (unas 2.5 horas), llegarás a la estación de Busan (Busan Station) en la Línea 1, justo al borde de Nampo-dong y el barrio chino. Para los trayectos costeros entre Haeundae, Gwangalli y las playas del sur, los taxis son económicos en comparación con Seúl y a menudo más rápidos que hacer transbordos de línea.
 
 ## Qué ver
 
@@ -44,4 +48,6 @@ Finales de primavera (mayo a principios de junio) y otoño (septiembre-octubre) 
 
 ## Alrededores y consejos prácticos
 
-La playa de Songdo (Songdo Beach), el primer balneario de Busan desde la década de 1910, cuenta ahora con un teleférico y un mirador costero elevado (skywalk) si Haeundae resulta demasiado concurrida. El Festival Internacional de Cine de Busan (Busan International Film Festival, BIFF) toma Haeundae y Nampo-dong cada octubre, una época estupenda para visitar, aunque los hoteles se llenan con antelación. Confirma los horarios de apertura vigentes de templos y mercados antes de tu visita, ya que los horarios cambian según la temporada y algunos puestos cierran en días de descanso rotativos.
+La playa de Songdo (Songdo Beach), el primer balneario de Busan desde la década de 1910, cuenta ahora con un teleférico y un mirador costero elevado (skywalk) si Haeundae resulta demasiado concurrida. El Festival Internacional de Cine de Busan (Busan International Film Festival, BIFF) toma Haeundae y Nampo-dong cada octubre, una época estupenda para visitar, aunque los hoteles se llenan con antelación.
+
+Confirma los horarios de apertura vigentes de templos y mercados antes de tu visita, ya que los horarios cambian según la temporada y algunos puestos cierran en días de descanso rotativos.

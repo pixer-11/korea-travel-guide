@@ -72,13 +72,17 @@ The name nods to Tonkin, the old term for northern Vietnam, but the beans on off
 
 ## Getting there
 
-The café is at 91 Lý Tự Trọng, in Bến Thành ward, District 1 — the historic core of Saigon. It's roughly a 5–7 minute walk from Bến Thành Market, making it an easy add-on to a morning market visit or a stroll toward Nguyễn Huệ Walking Street. Landmarks nearby include the Bitexco Financial Tower (about 10–15 minutes on foot) and the Saigon Notre-Dame Cathedral/Central Post Office area (also walkable, roughly 15 minutes). Grab (Vietnam's dominant ride-hailing app) or a metered taxi from anywhere in District 1 will get you there in minutes given the central location; motorbike taxis are the fastest way through midday traffic. There's no metro line serving this exact block yet, so walking or ride-hailing is the practical approach.
+The café is at 91 Lý Tự Trọng, in Bến Thành ward, District 1 — the historic core of Saigon. It's roughly a 5–7 minute walk from Bến Thành Market, making it an easy add-on to a morning market visit or a stroll toward Nguyễn Huệ Walking Street. Landmarks nearby include the Bitexco Financial Tower (about 10–15 minutes on foot) and the Saigon Notre-Dame Cathedral/Central Post Office area (also walkable, roughly 15 minutes).
+
+Grab (Vietnam's dominant ride-hailing app) or a metered taxi from anywhere in District 1 will get you there in minutes given the central location; motorbike taxis are the fastest way through midday traffic. There's no metro line serving this exact block yet, so walking or ride-hailing is the practical approach.
 
 ## What to see and drink
 
 The space itself is small and minimalist — expect exposed materials, warm wood tones, and a counter where the brewing happens in full view. This is a place to watch technique: baristas here treat pour-over and filter coffee with the same precision you'd see in Melbourne or Seoul specialty cafés, but the raw material is 100% Vietnamese.
 
-Order a single-origin pour-over if you want to taste what Vietnamese Arabica can do outside the condensed-milk formula, or ask for a traditional phin brewed with specialty-grade beans for a familiar format with an elevated result. Cold brew and cà phê sữa đá riffs are usually available too, for those who want the classic flavor profile without sacrificing bean quality. Given the price level is on the affordable end for a specialty café, this is a rare chance to sample serious third-wave coffee craft at prices well below what similar quality costs in Tokyo, Singapore, or Sydney.
+Order a single-origin pour-over if you want to taste what Vietnamese Arabica can do outside the condensed-milk formula, or ask for a traditional phin brewed with specialty-grade beans for a familiar format with an elevated result. Cold brew and cà phê sữa đá riffs are usually available too, for those who want the classic flavor profile without sacrificing bean quality.
+
+Given the price level is on the affordable end for a specialty café, this is a rare chance to sample serious third-wave coffee craft at prices well below what similar quality costs in Tokyo, Singapore, or Sydney.
 
 Plan for 30–45 minutes if you're sitting in; seating is limited, so it leans toward a quick, quality-focused stop rather than a lounge-around café.
 

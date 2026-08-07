@@ -71,7 +71,9 @@ draft: false
 
 ## Why go
 
-Two low, scrub-covered hills rise on the outskirts of Bhubaneswar, and cut straight into their sandstone are dozens of cells, verandas, and courtyards hollowed out more than two thousand years ago for Jain monks. This isn't a reconstruction or a museum diorama — you're walking through the actual chiselled rooms where ascetics sat out the monsoon, tracing carved friezes of elephants, dancers, and hunting scenes that have weathered but not vanished. It's one of the oldest surviving rock-cut architectural complexes in India, older than most of the temples Bhubaneswar is famous for, and the fact that a working Jain temple still crowns Khandagiri means the site hasn't fully calcified into a ruin — you'll likely see a handful of pilgrims climbing past the caves toward it.
+Two low, scrub-covered hills rise on the outskirts of Bhubaneswar, and cut straight into their sandstone are dozens of cells, verandas, and courtyards hollowed out more than two thousand years ago for Jain monks. This isn't a reconstruction or a museum diorama — you're walking through the actual chiselled rooms where ascetics sat out the monsoon, tracing carved friezes of elephants, dancers, and hunting scenes that have weathered but not vanished.
+
+It's one of the oldest surviving rock-cut architectural complexes in India, older than most of the temples Bhubaneswar is famous for, and the fact that a working Jain temple still crowns Khandagiri means the site hasn't fully calcified into a ruin — you'll likely see a handful of pilgrims climbing past the caves toward it.
 
 ## Getting there
 
@@ -79,14 +81,22 @@ The caves sit about 6-7 km west of Bhubaneswar's city center, an easy 15-20 minu
 
 ## What to see
 
-Udayagiri, the larger of the two hills, is where you'll spend most of your time. Cave 1, Rani Gumpha ("Queen's Cave"), is the showpiece — a double-storeyed excavation wrapped in relief carvings of battle scenes, elopements, and courtly processions, its pillared verandas still legible after two millennia of wear. Cave 14, Hathi Gumpha ("Elephant Cave"), carries a long Prakrit inscription attributed to King Kharavela of the Mahameghavahana dynasty, one of the most important early historical inscriptions in eastern India — even if you can't read the script, a guide or the on-site signage will walk you through what it records. Climb to the top of Udayagiri and you get a wide, unglamorous but honest view over the surrounding plain and quarries.
+Udayagiri, the larger of the two hills, is where you'll spend most of your time. Cave 1, Rani Gumpha ("Queen's Cave"), is the showpiece — a double-storeyed excavation wrapped in relief carvings of battle scenes, elopements, and courtly processions, its pillared verandas still legible after two millennia of wear. Cave 14, Hathi Gumpha ("Elephant Cave"), carries a long Prakrit inscription attributed to King Kharavela of the Mahameghavahana dynasty, one of the most important early historical inscriptions in eastern India — even if you can't read the script, a guide or the on-site signage will walk you through what it records.
+
+Climb to the top of Udayagiri and you get a wide, unglamorous but honest view over the surrounding plain and quarries.
 
 Cross the road to Khandagiri and the mood shifts: fewer coach groups, a steeper scramble up bare rock, and at the summit an 18th-century Jain temple that's still in active use, incense and bells included. The caves here are smaller and less decorated than Udayagiri's, but the walk up is worth it for the temple alone and for looking back across at Udayagiri's carved face from a distance.
 
 ## When to go
 
-The site opens early in the morning and stays open through the day, and the difference between a good and a crowded visit here is almost entirely about timing. Measured foot-traffic shows the calm stretch runs from opening at 7am through the day on weekdays, and even weekend mornings stay manageable until midday. The crunch comes between 12pm and 5pm on weekends, when tour buses and family groups arrive en masse — plan around that window rather than into it. Early morning is also simply more comfortable physically: the rock holds heat, there's minimal shade on the climbs, and Odisha's afternoon sun by mid-morning in the warmer months is no joke.
+The site opens early in the morning and stays open through the day, and the difference between a good and a crowded visit here is almost entirely about timing. Measured foot-traffic shows the calm stretch runs from opening at 7am through the day on weekdays, and even weekend mornings stay manageable until midday. The crunch comes between 12pm and 5pm on weekends, when tour buses and family groups arrive en masse — plan around that window rather than into it.
+
+Early morning is also simply more comfortable physically: the rock holds heat, there's minimal shade on the climbs, and Odisha's afternoon sun by mid-morning in the warmer months is no joke.
 
 ## How to visit like a local
 
-Go early — ideally at or soon after the 6:30am opening on a weekday, when the site is at its quietest and the light is soft enough for photographs of the carvings without harsh glare. This is a genuinely well-visited landmark, not an undiscovered spot, so if you can't do a weekday, at least front-load a weekend visit before noon to dodge the 12-5pm crush. Wear shoes you can slip off easily, since you'll remove them before entering the temple at Khandagiri's summit, and carry water — there's little shade once you're climbing. Small tips for informal guides hovering near the entrance are common if you want the Hathi Gumpha inscription or the Rani Gumpha panels explained in more depth; agree on a rate before starting, since this isn't formally regulated. The most common visitor mistake is treating Udayagiri as the whole trip and skipping Khandagiri — the second hill takes only another 30-40 minutes and its temple-top view back across at the caves is one of the better photo spots on site.
+Go early — ideally at or soon after the 6:30am opening on a weekday, when the site is at its quietest and the light is soft enough for photographs of the carvings without harsh glare. This is a genuinely well-visited landmark, not an undiscovered spot, so if you can't do a weekday, at least front-load a weekend visit before noon to dodge the 12-5pm crush.
+
+Wear shoes you can slip off easily, since you'll remove them before entering the temple at Khandagiri's summit, and carry water — there's little shade once you're climbing. Small tips for informal guides hovering near the entrance are common if you want the Hathi Gumpha inscription or the Rani Gumpha panels explained in more depth; agree on a rate before starting, since this isn't formally regulated.
+
+The most common visitor mistake is treating Udayagiri as the whole trip and skipping Khandagiri — the second hill takes only another 30-40 minutes and its temple-top view back across at the caves is one of the better photo spots on site.

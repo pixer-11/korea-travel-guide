@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paju-heyri-art-village
-srcHash: 020d7b1ba0b1
+srcHash: '235a9063540b'
 title: Heyri Art Village en Paju
 description: Heyri Art Village es un distrito cultural construido desde cero en Paju, a unos 40–50 minutos al norte del centro de Seúl, repleto de pequeños museos, galerías y librerías.
 quickAnswer: Heyri Art Village es un distrito cultural construido desde cero en Paju, a unos 40–50 minutos al norte del centro de Seúl, repleto de pequeños museos, galerías, librerías y edificios de autor pensados para recorrerse a pie en unas 3–4 horas. Combina bien con una visita a la cercana Paju Book City o a la zona de Imjingak/DMZ, ya que las tres se encuentran a lo largo de la misma carretera al norte de Seúl. Ve una mañana entre semana si quieres encontrar los callejones tranquilos, y comprueba qué galerías están abiertas antes de ir, ya que algunos espacios más pequeños rotan sus exposiciones o cierran los lunes.
@@ -20,7 +20,11 @@ faq:
 
 ## Por qué ir
 
-Heyri Art Village (헤이리 예술마을) no es un barrio antiguo que se volvió artístico con el tiempo: se planificó desde cero a finales de la década de 1990 y principios de la de 2000 por un colectivo de escritores, artistas, arquitectos y músicos que querían una comunidad de baja altura y poco tráfico, construida en torno a galerías, estudios y librerías independientes. El resultado es un distrito extenso y de baja densidad con varios cientos de edificios, muchos de ellos obras notables de la arquitectura coreana contemporánea en hormigón, vidrio y acero corten, enmarcados por las colinas bajas cercanas al río Imjin. No se trata tanto de una gran atracción única, sino de pasear: jardines de esculturas inesperados, pequeños museos privados dedicados a un solo artista o tema, cafés dentro de casas de autor y callejones tranquilos que se sienten muy alejados de la densidad de Seúl, pese a estar a menos de una hora. Es un escape favorito de medio día para viajeros con sensibilidad por el diseño y familias que buscan algo más calmado que el centro de la ciudad.
+Heyri Art Village (헤이리 예술마을) no es un barrio antiguo que se volvió artístico con el tiempo: se planificó desde cero a finales de la década de 1990 y principios de la de 2000 por un colectivo de escritores, artistas, arquitectos y músicos que querían una comunidad de baja altura y poco tráfico, construida en torno a galerías, estudios y librerías independientes.
+
+El resultado es un distrito extenso y de baja densidad con varios cientos de edificios, muchos de ellos obras notables de la arquitectura coreana contemporánea en hormigón, vidrio y acero corten, enmarcados por las colinas bajas cercanas al río Imjin. No se trata tanto de una gran atracción única, sino de pasear: jardines de esculturas inesperados, pequeños museos privados dedicados a un solo artista o tema, cafés dentro de casas de autor y callejones tranquilos que se sienten muy alejados de la densidad de Seúl, pese a estar a menos de una hora.
+
+Es un escape favorito de medio día para viajeros con sensibilidad por el diseño y familias que buscan algo más calmado que el centro de la ciudad.
 
 ## Cómo llegar
 
@@ -48,4 +52,6 @@ La primavera (abril–mayo) y el otoño (finales de septiembre–noviembre) son 
 
 ## Cerca de aquí y consejos
 
-Heyri está lo bastante cerca de **Paju Book City**, otro distrito planificado formado por editoriales y librerías, como para combinar ambos en un mismo día. También queda de camino hacia el **Parque Imjingak** y el circuito más amplio de recorridos por la DMZ, por lo que muchos itinerarios combinan una mañana tranquila en Heyri con una tarde en la zona de la DMZ. Usa calzado adecuado para pendientes y pavimento irregular, ya que el pueblo tiene desniveles reales entre los grupos de edificios, y ten en cuenta que no todos los museos aceptan solo efectivo o solo tarjeta: llevar ambos sigue siendo lo más sensato para los comercios más pequeños.
+Heyri está lo bastante cerca de **Paju Book City**, otro distrito planificado formado por editoriales y librerías, como para combinar ambos en un mismo día. También queda de camino hacia el **Parque Imjingak** y el circuito más amplio de recorridos por la DMZ, por lo que muchos itinerarios combinan una mañana tranquila en Heyri con una tarde en la zona de la DMZ.
+
+Usa calzado adecuado para pendientes y pavimento irregular, ya que el pueblo tiene desniveles reales entre los grupos de edificios, y ten en cuenta que no todos los museos aceptan solo efectivo o solo tarjeta: llevar ambos sigue siendo lo más sensato para los comercios más pequeños.

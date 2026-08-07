@@ -74,11 +74,15 @@ aiGenerated: true
 
 ## Why go
 
-MERCI MARCEL is a French import — the Singapore branch sits inside Palais Renaissance, one of the older low-rise shopping arcades on Orchard Road, sandwiched between the glass towers of ION Orchard and Delfi Orchard. The brand built its reputation in Paris and Nice on a relaxed, plant-filled "eat all day" concept: croissants and coffee in the morning, salads and tartines at lunch, wine and bistro plates by evening. The Orchard outlet carries that same format into a mall setting, which is part of its appeal — a genuine sit-down, unhurried meal option in a stretch of Orchard Road otherwise dominated by food courts and quick-turnover chains. A 4.7 rating across more than 4,000 reviews makes it one of the more consistently well-reviewed Western restaurants on this strip.
+MERCI MARCEL is a French import — the Singapore branch sits inside Palais Renaissance, one of the older low-rise shopping arcades on Orchard Road, sandwiched between the glass towers of ION Orchard and Delfi Orchard. The brand built its reputation in Paris and Nice on a relaxed, plant-filled "eat all day" concept: croissants and coffee in the morning, salads and tartines at lunch, wine and bistro plates by evening.
+
+The Orchard outlet carries that same format into a mall setting, which is part of its appeal — a genuine sit-down, unhurried meal option in a stretch of Orchard Road otherwise dominated by food courts and quick-turnover chains. A 4.7 rating across more than 4,000 reviews makes it one of the more consistently well-reviewed Western restaurants on this strip.
 
 ## Getting there
 
-The address is 390 Orchard Road, #01-03/04 Palais Renaissance, Singapore 238871. The nearest station is Orchard MRT (North-South Line), roughly a 5–8 minute walk — exit toward Orchard Road/Tanglin Road side (Exit A or E, depending on which concourse you surface from) and head west past Ngee Ann City and ION Orchard. Somerset MRT is a slightly longer walk in the other direction. Palais Renaissance itself is a smaller, boutique-heavy mall (Miu Miu, Balenciaga, and similar labels occupy the ground floor), so it's easy to miss if you're expecting a large mall entrance — look for the low white building set back from the main road with outdoor seating visible from the street.
+The address is 390 Orchard Road, #01-03/04 Palais Renaissance, Singapore 238871. The nearest station is Orchard MRT (North-South Line), roughly a 5–8 minute walk — exit toward Orchard Road/Tanglin Road side (Exit A or E, depending on which concourse you surface from) and head west past Ngee Ann City and ION Orchard. Somerset MRT is a slightly longer walk in the other direction.
+
+Palais Renaissance itself is a smaller, boutique-heavy mall (Miu Miu, Balenciaga, and similar labels occupy the ground floor), so it's easy to miss if you're expecting a large mall entrance — look for the low white building set back from the main road with outdoor seating visible from the street.
 
 ## What to eat
 
@@ -90,7 +94,11 @@ Weekday lunch (roughly 12–2pm) and mid-afternoon are the calmest windows; week
 
 ## How to visit like a local
 
-This is a well-known, high-traffic address rather than an under-the-radar find, so the practical local move is timing, not secrecy. Regulars aiming for a relaxed meal avoid the Saturday/Sunday 11am–2pm brunch crush and instead go on a weekday, or eat dinner early (around 6–6:30pm) before the after-work and post-shopping wave arrives. Reservations are advisable for weekend brunch and Friday/Saturday dinner — walk-ins during peak hours often face a genuine wait rather than a quick seating. Payment is overwhelmingly cashless in this part of Singapore: card and mobile payment (PayNow, Apple/Google Pay) are standard, and tipping isn't customary or expected since a service charge is typically already applied to the bill — check before adding extra. If you're just passing through Palais Renaissance rather than making it a destination, the counter/café side works for a quick coffee and pastry without committing to a full table service meal. The most common visitor mistake is treating this as a quick-bite food-court stop when it operates as a full-service restaurant — service takes the time a real bistro meal takes, so build in at least an hour if you're also planning to shop Orchard Road the same day.
+This is a well-known, high-traffic address rather than an under-the-radar find, so the practical local move is timing, not secrecy. Regulars aiming for a relaxed meal avoid the Saturday/Sunday 11am–2pm brunch crush and instead go on a weekday, or eat dinner early (around 6–6:30pm) before the after-work and post-shopping wave arrives. Reservations are advisable for weekend brunch and Friday/Saturday dinner — walk-ins during peak hours often face a genuine wait rather than a quick seating.
+
+Payment is overwhelmingly cashless in this part of Singapore: card and mobile payment (PayNow, Apple/Google Pay) are standard, and tipping isn't customary or expected since a service charge is typically already applied to the bill — check before adding extra. If you're just passing through Palais Renaissance rather than making it a destination, the counter/café side works for a quick coffee and pastry without committing to a full table service meal.
+
+The most common visitor mistake is treating this as a quick-bite food-court stop when it operates as a full-service restaurant — service takes the time a real bistro meal takes, so build in at least an hour if you're also planning to shop Orchard Road the same day.
 
 ## Nearby to pair with
 

@@ -74,15 +74,21 @@ draft: false
 
 ## Why go
 
-Jeju is sold to most visitors as a landscape — volcanic cones, black-sand beaches, waterfalls tumbling out of basalt cliffs — but the island has a distinct human history that's easy to miss if you only chase views. Jeju National Museum is where that story gets filled in: the ancient Tamna kingdom that ruled the island independently for centuries, the haenyeo women divers, the shamanist belief system with its own pantheon, and the darker chapters of Joseon-era political exile, when the island was used as a place to banish disgraced officials and scholars. The building itself, a low, deliberately unshowy concrete structure set against greenery, was designed to not compete with the collection or the coastline nearby.
+Jeju is sold to most visitors as a landscape — volcanic cones, black-sand beaches, waterfalls tumbling out of basalt cliffs — but the island has a distinct human history that's easy to miss if you only chase views. Jeju National Museum is where that story gets filled in: the ancient Tamna kingdom that ruled the island independently for centuries, the haenyeo women divers, the shamanist belief system with its own pantheon, and the darker chapters of Joseon-era political exile, when the island was used as a place to banish disgraced officials and scholars.
+
+The building itself, a low, deliberately unshowy concrete structure set against greenery, was designed to not compete with the collection or the coastline nearby.
 
 ## Getting there
 
-The museum sits in Jeju City proper, at 17 Iljudong-ro, a few minutes' drive from the airport and easy to combine with a morning arrival or a final afternoon before a flight out. Public buses running along the northern coastal road stop within walking distance, and taxis from downtown Jeju City or the airport are quick and inexpensive given the short distance. There's no subway system on Jeju, so most visitors arrive by rental car, taxi, or local bus — if you're driving, there's on-site parking, which makes this an easy add-on to a loop around the island's north side.
+The museum sits in Jeju City proper, at 17 Iljudong-ro, a few minutes' drive from the airport and easy to combine with a morning arrival or a final afternoon before a flight out. Public buses running along the northern coastal road stop within walking distance, and taxis from downtown Jeju City or the airport are quick and inexpensive given the short distance.
+
+There's no subway system on Jeju, so most visitors arrive by rental car, taxi, or local bus — if you're driving, there's on-site parking, which makes this an easy add-on to a loop around the island's north side.
 
 ## What to see
 
-Inside, the permanent exhibits move roughly chronologically: prehistoric and Tamna-kingdom artifacts first, then a section on Jeju's maritime and shamanist culture, and finally displays covering the Joseon dynasty's use of the island as an exile destination for out-of-favor aristocrats and scholars. Look for the volcanic-rock burial markers, the reconstructed traditional Jeju house layout, and the artifacts tied to the haenyeo diving tradition — a culture UNESCO recognized as Intangible Cultural Heritage. Signage is bilingual in Korean and English throughout, which makes it genuinely navigable without a guide. The natural-history side of the collection also explains Jeju's volcanic formation in plain terms, useful context if you're about to go hike Hallasan or walk a lava tube afterward.
+Inside, the permanent exhibits move roughly chronologically: prehistoric and Tamna-kingdom artifacts first, then a section on Jeju's maritime and shamanist culture, and finally displays covering the Joseon dynasty's use of the island as an exile destination for out-of-favor aristocrats and scholars. Look for the volcanic-rock burial markers, the reconstructed traditional Jeju house layout, and the artifacts tied to the haenyeo diving tradition — a culture UNESCO recognized as Intangible Cultural Heritage.
+
+Signage is bilingual in Korean and English throughout, which makes it genuinely navigable without a guide. The natural-history side of the collection also explains Jeju's volcanic formation in plain terms, useful context if you're about to go hike Hallasan or walk a lava tube afterward.
 
 ## When to go
 
@@ -90,7 +96,11 @@ The museum keeps steady hours Tuesday through Sunday, 9am to 6pm, and is closed 
 
 ## How to visit like a local
 
-This is a well-known, well-visited stop rather than a secret one, so the smart move isn't finding it — it's timing it. Go right when the doors open at 9am, or drop in on a weekday, to skip the midday weekend crush. Entry to the permanent exhibition is typically free or very low-cost (special exhibitions sometimes carry a separate fee), but confirm current admission details before you go since these things shift. Koreans generally move through museums quietly and don't linger to chat in the galleries — follow that lead, keep voices low, and don't touch the reconstructed house displays even where they look walk-in-able. Photography is usually fine in the permanent galleries without flash, but special exhibitions sometimes restrict it, so check the signage at the entrance to each room rather than assuming. There's no dress code, but bring a light layer — the galleries run cool. If you're short on time, ask staff (or check the info desk map) for the highlights of the Tamna and haenyeo sections, since those are the two most Jeju-specific parts of the collection rather than generalized Korean history you might see in other regional museums.
+This is a well-known, well-visited stop rather than a secret one, so the smart move isn't finding it — it's timing it. Go right when the doors open at 9am, or drop in on a weekday, to skip the midday weekend crush. Entry to the permanent exhibition is typically free or very low-cost (special exhibitions sometimes carry a separate fee), but confirm current admission details before you go since these things shift.
+
+Koreans generally move through museums quietly and don't linger to chat in the galleries — follow that lead, keep voices low, and don't touch the reconstructed house displays even where they look walk-in-able. Photography is usually fine in the permanent galleries without flash, but special exhibitions sometimes restrict it, so check the signage at the entrance to each room rather than assuming.
+
+There's no dress code, but bring a light layer — the galleries run cool. If you're short on time, ask staff (or check the info desk map) for the highlights of the Tamna and haenyeo sections, since those are the two most Jeju-specific parts of the collection rather than generalized Korean history you might see in other regional museums.
 
 ## Nearby
 

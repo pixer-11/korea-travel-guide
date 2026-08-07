@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hoi-an-hoi-an-night-market
-srcHash: 31abc286f474
+srcHash: 'bb971d4a3fc7'
 title: 会安夜市旅行指南
 description: 会安夜市每晚都会在安会岛(An Hội islet)的阮黄街(Nguyễn Hoàng Street)沿线开放,从古城临河一带穿过木质人行桥即可抵达。
 quickAnswer: 会安夜市每晚都会在安会岛(An Hội islet)的阮黄街(Nguyễn Hoàng Street)沿线开放,从古城临河一带穿过木质人行桥即可抵达。建议傍晚6-7点左右到达,正好赶上灯笼点亮,预留1.5-2小时游览时间,而且最好空着肚子来——这里最大的亮点是街头小吃(越南法棍、甜品汤、烤串),此外还有丝绸灯笼和各种纪念品。这里游客确实很多,但拍照效果依然非常出片,尤其是之后再到秋盆河(Thu Bon River)放一盏漂浮蜡烛灯,更是锦上添花。

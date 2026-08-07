@@ -73,7 +73,9 @@ The restaurant sits at 114 Bạch Đằng in Hải Châu district, right along t
 
 ## Getting There
 
-Bạch Đằng runs parallel to the Han River on its western bank, so the restaurant is easy to find on foot if you're staying anywhere in central Hải Châu. From the Dragon Bridge (Cầu Rồng) or the Han River Bridge (Cầu Sông Hàn), it's roughly a 10–15 minute walk north or south along the river depending on the exact cross street. Taxis and Grab (the dominant ride-hailing app in Vietnam) are cheap and the simplest option if you're coming from the beach hotels along Võ Nguyên Giáp or from the Son Tra peninsula side. Given the address is on the main riverside road, ask your driver to drop you at "Bạch Đằng, gần cầu Rồng" (near Dragon Bridge) if the exact number doesn't register with them.
+Bạch Đằng runs parallel to the Han River on its western bank, so the restaurant is easy to find on foot if you're staying anywhere in central Hải Châu. From the Dragon Bridge (Cầu Rồng) or the Han River Bridge (Cầu Sông Hàn), it's roughly a 10–15 minute walk north or south along the river depending on the exact cross street.
+
+Taxis and Grab (the dominant ride-hailing app in Vietnam) are cheap and the simplest option if you're coming from the beach hotels along Võ Nguyên Giáp or from the Son Tra peninsula side. Given the address is on the main riverside road, ask your driver to drop you at "Bạch Đằng, gần cầu Rồng" (near Dragon Bridge) if the exact number doesn't register with them.
 
 ## What to Eat
 
@@ -88,8 +90,12 @@ Prices sit in the moderate range — comfortable for a full meal with drinks wit
 
 ## When to Go
 
-Da Nang's dry season, roughly February through August, is the easiest time to enjoy the riverside setting before or after dinner, with April–August also bringing the warmest, most swimmable beach weather. Evenings are the better call here: Bạch Đằng comes alive after dark when the Dragon Bridge is lit and, on weekend nights, breathes fire (in recent years typically around 9pm — confirm the current show schedule locally). Aiming to arrive somewhere around 5:30–6:30pm usually gets you seated comfortably before the dinner peak, especially if visiting as a larger group, since a restaurant with this review volume and rating routinely fills up.
+Da Nang's dry season, roughly February through August, is the easiest time to enjoy the riverside setting before or after dinner, with April–August also bringing the warmest, most swimmable beach weather. Evenings are the better call here: Bạch Đằng comes alive after dark when the Dragon Bridge is lit and, on weekend nights, breathes fire (in recent years typically around 9pm — confirm the current show schedule locally).
+
+Aiming to arrive somewhere around 5:30–6:30pm usually gets you seated comfortably before the dinner peak, especially if visiting as a larger group, since a restaurant with this review volume and rating routinely fills up.
 
 ## Nearby & Tips
 
-After eating, the riverside promenade itself is the natural next stop — a flat, pleasant stroll toward Dragon Bridge or across to the Son Tra side for a different skyline view. The Han Market (Chợ Hàn) is also within easy walking distance for souvenirs and dry goods, and it's a useful landmark if you want to anchor your route along Bạch Đằng. Because the restaurant leans local and high-volume rather than boutique, don't expect an intimate, quiet setting — it's better suited to travelers who want an energetic, communal dining experience over a quiet date-night atmosphere.
+After eating, the riverside promenade itself is the natural next stop — a flat, pleasant stroll toward Dragon Bridge or across to the Son Tra side for a different skyline view. The Han Market (Chợ Hàn) is also within easy walking distance for souvenirs and dry goods, and it's a useful landmark if you want to anchor your route along Bạch Đằng.
+
+Because the restaurant leans local and high-volume rather than boutique, don't expect an intimate, quiet setting — it's better suited to travelers who want an energetic, communal dining experience over a quiet date-night atmosphere.

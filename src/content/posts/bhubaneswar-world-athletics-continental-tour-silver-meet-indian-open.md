@@ -57,7 +57,9 @@ photoless: true
 
 ## Why this meet matters
 
-Bhubaneswar has spent the last decade building a reputation as India's most credible host city for elite sport, and the Indian Open is its latest proof point. After hosting a Continental Tour bronze-level meet at Kalinga Stadium in 2025, Bhubaneswar has been upgraded to Silver status for 2026 — putting it a tier above most regional meets on World Athletics' global circuit and a notch below Diamond League events. A Silver designation typically draws a stronger international start list, more world-ranking points on the line, and tighter competition standards, so expect athletes chasing qualification marks for global championships alongside strong Indian national talent.
+Bhubaneswar has spent the last decade building a reputation as India's most credible host city for elite sport, and the Indian Open is its latest proof point. After hosting a Continental Tour bronze-level meet at Kalinga Stadium in 2025, Bhubaneswar has been upgraded to Silver status for 2026 — putting it a tier above most regional meets on World Athletics' global circuit and a notch below Diamond League events.
+
+A Silver designation typically draws a stronger international start list, more world-ranking points on the line, and tighter competition standards, so expect athletes chasing qualification marks for global championships alongside strong Indian national talent.
 
 ## Getting there
 
@@ -65,7 +67,9 @@ Kalinga Stadium sits in the Kalinga Nagar/Nayapalli area of Bhubaneswar, a few k
 
 ## What to expect at Kalinga Stadium
 
-Kalinga Stadium is Odisha's flagship multi-sport venue, previously used for the Hockey World Cup and the Indian Grand Prix athletics meets. Its athletics stretch includes a synthetic track and stands that regularly host domestic and international competitions, so the infrastructure is well-tested for exactly this kind of event. For a Continental Tour meet, the program usually runs across a single day with heats or field events in the afternoon building toward marquee finals — sprints, middle-distance races, and jumps/throws — in the evening session, when temperatures drop and crowds peak. Exact event order and start times will be published closer to the date; check the official schedule before planning your day around specific races.
+Kalinga Stadium is Odisha's flagship multi-sport venue, previously used for the Hockey World Cup and the Indian Grand Prix athletics meets. Its athletics stretch includes a synthetic track and stands that regularly host domestic and international competitions, so the infrastructure is well-tested for exactly this kind of event. For a Continental Tour meet, the program usually runs across a single day with heats or field events in the afternoon building toward marquee finals — sprints, middle-distance races, and jumps/throws — in the evening session, when temperatures drop and crowds peak.
+
+Exact event order and start times will be published closer to the date; check the official schedule before planning your day around specific races.
 
 ## When to go
 
@@ -77,4 +81,8 @@ Bhubaneswar, the "Temple City," rewards a day or two either side of the meet. Th
 
 ## How to visit like a local
 
-Buy tickets and confirm entry gates only through official World Athletics or Odisha government sports announcements — third-party resellers around venue gates are common at big Indian sporting events and not reliable for authentic seating. Locals attending big meets at Kalinga Stadium typically arrive well before the marquee evening finals to avoid the bottleneck at security checkpoints, then settle in with snacks bought outside rather than expecting extensive concessions inside. Cash and UPI mobile payments are both widely used in Bhubaneswar, but carry some small cash for auto fares and street food stalls near the stadium, where digital payment isn't always accepted. Dress light and modest, keep a rain layer handy even if the morning looks clear, and don't assume you can drive right up to the gate — approach roads are usually restricted for major events, so factor in a short walk from the drop-off point. The biggest mistake visitors make is treating this like a casual walk-up event; for a first-ever Silver meet, expect heightened security and larger crowds than the 2025 bronze edition, so plan entry timing accordingly.
+Buy tickets and confirm entry gates only through official World Athletics or Odisha government sports announcements — third-party resellers around venue gates are common at big Indian sporting events and not reliable for authentic seating. Locals attending big meets at Kalinga Stadium typically arrive well before the marquee evening finals to avoid the bottleneck at security checkpoints, then settle in with snacks bought outside rather than expecting extensive concessions inside.
+
+Cash and UPI mobile payments are both widely used in Bhubaneswar, but carry some small cash for auto fares and street food stalls near the stadium, where digital payment isn't always accepted. Dress light and modest, keep a rain layer handy even if the morning looks clear, and don't assume you can drive right up to the gate — approach roads are usually restricted for major events, so factor in a short walk from the drop-off point.
+
+The biggest mistake visitors make is treating this like a casual walk-up event; for a first-ever Silver meet, expect heightened security and larger crowds than the 2025 bronze edition, so plan entry timing accordingly.

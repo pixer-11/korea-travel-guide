@@ -53,7 +53,9 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Chiang Mai's Old City is packed with guesthouse cafés and tourist-trap pad thai stalls, so a restaurant holding a 4.9 rating across almost 2,000 reviews stands out. Garden to Table Chiangmai has built its reputation on exactly what the name promises: dishes that lean on fresh, often locally grown produce rather than the deep-fried, heavily sauced fare that dominates backpacker menus. The price level is budget-friendly (priceLevel 1), so this isn't a splurge occasion — it's the kind of place you can eat at twice in one trip without blinking, and many visitors do.
+Chiang Mai's Old City is packed with guesthouse cafés and tourist-trap pad thai stalls, so a restaurant holding a 4.9 rating across almost 2,000 reviews stands out. Garden to Table Chiangmai has built its reputation on exactly what the name promises: dishes that lean on fresh, often locally grown produce rather than the deep-fried, heavily sauced fare that dominates backpacker menus.
+
+The price level is budget-friendly (priceLevel 1), so this isn't a splurge occasion — it's the kind of place you can eat at twice in one trip without blinking, and many visitors do.
 
 ## Getting there
 
@@ -68,14 +70,20 @@ Ratchapakhinai Road runs roughly north-south inside the western half of the Old 
 
 ## What to eat
 
-Expect a menu built around Thai home-style cooking with a Northern Thai (Lanna) accent — think herb-forward salads, curries, and stir-fries that use greens and vegetables sourced with more care than a typical tourist-strip kitchen. The "garden to table" concept suggests an emphasis on seasonal vegetables and herbs, so dishes like som tam (papaya salad), morning glory stir-fry, and Northern-style curries such as gaeng hang lay are worth asking about if they're on the day's menu. Portions and pricing sit firmly in the budget-to-moderate range, making it realistic to order two or three dishes to share.
+Expect a menu built around Thai home-style cooking with a Northern Thai (Lanna) accent — think herb-forward salads, curries, and stir-fries that use greens and vegetables sourced with more care than a typical tourist-strip kitchen. The "garden to table" concept suggests an emphasis on seasonal vegetables and herbs, so dishes like som tam (papaya salad), morning glory stir-fry, and Northern-style curries such as gaeng hang lay are worth asking about if they're on the day's menu.
+
+Portions and pricing sit firmly in the budget-to-moderate range, making it realistic to order two or three dishes to share.
 
 Given the volume of reviews, service can slow during peak dinner hours (7-8:30pm) — arriving right at opening, 2pm, or later in the evening usually means a shorter wait.
 
 ## When to go
 
-Chiang Mai's cool season (November through February) is the most comfortable time to explore the Old City on foot before or after eating, with lower humidity and daytime temperatures often in the mid-20s Celsius. If visiting during the hot season (March-May) or rainy season (June-October), plan outdoor temple visits for early morning and treat a relaxed lunch at Garden to Table as a midday break from the heat. Because exact hours can shift seasonally or around Thai public holidays, confirm the current opening times online or by phone before making a special trip.
+Chiang Mai's cool season (November through February) is the most comfortable time to explore the Old City on foot before or after eating, with lower humidity and daytime temperatures often in the mid-20s Celsius. If visiting during the hot season (March-May) or rainy season (June-October), plan outdoor temple visits for early morning and treat a relaxed lunch at Garden to Table as a midday break from the heat.
+
+Because exact hours can shift seasonally or around Thai public holidays, confirm the current opening times online or by phone before making a special trip.
 
 ## Nearby & tips
 
-If your trip coincides with a Sunday evening, you can still enjoy the Sunday Walking Street market on Ratchadamnoen Road — just note that Garden to Table itself is closed on Sundays, so plan your meal here on another day of your trip. Wat Chedi Luang and Wat Phra Singh are both walkable additions to build into the same afternoon. Since the restaurant is well-reviewed and modestly priced, it tends to fill quickly with both tourists and locals; reserving ahead if the option exists, or arriving slightly outside standard meal times, will save you a wait. As with most independent Chiang Mai restaurants, cash is still commonly preferred alongside card payments, so carrying some Thai baht is a sensible backup.
+If your trip coincides with a Sunday evening, you can still enjoy the Sunday Walking Street market on Ratchadamnoen Road — just note that Garden to Table itself is closed on Sundays, so plan your meal here on another day of your trip. Wat Chedi Luang and Wat Phra Singh are both walkable additions to build into the same afternoon.
+
+Since the restaurant is well-reviewed and modestly priced, it tends to fill quickly with both tourists and locals; reserving ahead if the option exists, or arriving slightly outside standard meal times, will save you a wait. As with most independent Chiang Mai restaurants, cash is still commonly preferred alongside card payments, so carrying some Thai baht is a sensible backup.

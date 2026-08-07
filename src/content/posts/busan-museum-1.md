@@ -61,7 +61,9 @@ draft: false
 
 ## Why MUSEUM 1 stands out in Haeundae
 
-Centum City isn't where most visitors expect to find a serious art stop — it's better known for the world's largest department store and a convention hall the size of an airport terminal. That's exactly what makes MUSEUM 1 feel like a discovery when you step inside. The building itself sits low and glassy against the surrounding towers, and the shift from the noise of Centum-seo-ro traffic to the hush of the galleries is immediate. You notice the light first: large windows filter it across polished concrete floors, throwing soft shadows over whatever installation happens to be filling the main hall that season.
+Centum City isn't where most visitors expect to find a serious art stop — it's better known for the world's largest department store and a convention hall the size of an airport terminal. That's exactly what makes MUSEUM 1 feel like a discovery when you step inside. The building itself sits low and glassy against the surrounding towers, and the shift from the noise of Centum-seo-ro traffic to the hush of the galleries is immediate.
+
+You notice the light first: large windows filter it across polished concrete floors, throwing soft shadows over whatever installation happens to be filling the main hall that season.
 
 With a rating around 4.3 from well over a thousand visitors, it's clearly doing something right for a museum tucked into a commercial district rather than a dedicated arts quarter.
 
@@ -71,7 +73,9 @@ The museum sits at 20 Centum-seo-ro in Haeundae-gu, right in the Centum City com
 
 ## What you'll actually see
 
-Expect rotating contemporary exhibitions — photography, installation work, design-focused shows — rather than a static permanent collection you might associate with older, encyclopedic museums. The galleries are arranged so you move through distinct rooms rather than one sprawling open floor, which keeps each show feeling contained and considered. Give yourself a good 90 minutes to two hours if you want to actually read the wall text and sit with the bigger installation pieces rather than speed-walk the halls. Because the program changes, it's worth checking what's currently on before you go — the building's appeal is consistent, but the specific draw shifts show to show.
+Expect rotating contemporary exhibitions — photography, installation work, design-focused shows — rather than a static permanent collection you might associate with older, encyclopedic museums. The galleries are arranged so you move through distinct rooms rather than one sprawling open floor, which keeps each show feeling contained and considered. Give yourself a good 90 minutes to two hours if you want to actually read the wall text and sit with the bigger installation pieces rather than speed-walk the halls.
+
+Because the program changes, it's worth checking what's currently on before you go — the building's appeal is consistent, but the specific draw shifts show to show.
 
 ## When to go
 
@@ -83,4 +87,6 @@ Because MUSEUM 1 sits inside the Centum City complex, it's easy to build a half-
 
 ## How to visit like a local
 
-Buy your ticket at the counter or through the museum's own kiosk rather than expecting elaborate advance-booking machinery — this isn't a blockbuster touring show requiring timed entry, so walk-ins are normal. Payment leans heavily toward card and mobile pay (T-money and phone tap are everywhere in Busan), though it's sensible to carry a little cash as backup for smaller counters nearby. There's no tipping expected anywhere in Korean museums or cafés. The most common mistake visitors make is treating this as a quick five-minute detour between shopping stops — the exhibitions reward slower looking, and arriving with an hour or two set aside rather than squeezing it between mall errands changes the experience considerably. If you want the building closest to empty, weekday mornings right after opening are your best window, before school groups and shoppers on lunch break start filtering through.
+Buy your ticket at the counter or through the museum's own kiosk rather than expecting elaborate advance-booking machinery — this isn't a blockbuster touring show requiring timed entry, so walk-ins are normal. Payment leans heavily toward card and mobile pay (T-money and phone tap are everywhere in Busan), though it's sensible to carry a little cash as backup for smaller counters nearby.
+
+There's no tipping expected anywhere in Korean museums or cafés. The most common mistake visitors make is treating this as a quick five-minute detour between shopping stops — the exhibitions reward slower looking, and arriving with an hour or two set aside rather than squeezing it between mall errands changes the experience considerably. If you want the building closest to empty, weekday mornings right after opening are your best window, before school groups and shoppers on lunch break start filtering through.

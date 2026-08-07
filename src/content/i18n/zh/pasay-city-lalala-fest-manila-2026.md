@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pasay-city-lalala-fest-manila-2026
-srcHash: ade0f48a4f67
+srcHash: 'ade0f48a4f67'
 title: LaLaLa Fest Manila 2026须知(帕塞市)
 description: LaLaLa Fest Manila 2026将于2026年8月21日在帕塞市(Pasay City)的世贸中心马尼拉(World Trade Center Manila)举行,由Steve Lacy和Two Door Cinema Club担任headliner。
 quickAnswer: LaLaLa Fest Manila 2026将于2026年8月21日在帕塞市(Pasay City)的世贸中心马尼拉(World Trade Center Manila)举行,由Steve Lacy和Two Door Cinema Club担任headliner。可以把这场活动当作从马尼拉市区出发的一日游来安排,场地是室内/会展中心形式——最近的交通站点是LRT-1线的Edsa站或MRT-3线的Taft Ave站,从场馆打车或搭乘短途交通即可到达。订机票或酒店前,请务必在LaLaLa Fest官方渠道确认具体演出时间、入场时间和票价档位。

@@ -32,15 +32,21 @@ draft: false
 
 ## Why Gyeongju Matters
 
-Gyeongju was the capital of the Silla Kingdom for roughly a thousand years, from 57 BCE to 935 CE, and the entire city functions as an open-air museum as a result. Unlike Seoul, where history is folded into a modern metropolis, Gyeongju's core sights sit in low-rise neighborhoods surrounded by grassy burial mounds, making it possible to walk from a royal tomb complex to a Joseon-era village lane in minutes. UNESCO has recognized both the Gyeongju Historic Areas and, separately, Bulguksa Temple and Seokguram Grotto as World Heritage Sites, which gives a rough shape to any itinerary: downtown tumuli and palace ruins on one side, mountain temples on the other.
+Gyeongju was the capital of the Silla Kingdom for roughly a thousand years, from 57 BCE to 935 CE, and the entire city functions as an open-air museum as a result. Unlike Seoul, where history is folded into a modern metropolis, Gyeongju's core sights sit in low-rise neighborhoods surrounded by grassy burial mounds, making it possible to walk from a royal tomb complex to a Joseon-era village lane in minutes.
+
+UNESCO has recognized both the Gyeongju Historic Areas and, separately, Bulguksa Temple and Seokguram Grotto as World Heritage Sites, which gives a rough shape to any itinerary: downtown tumuli and palace ruins on one side, mountain temples on the other.
 
 ## Getting There and Getting Around
 
-Gyeongju has no subway; visitors arrive via KTX to Singyeongju Station (a 20-minute bus or taxi ride into the historic center) or by intercity bus to the more centrally located Gyeongju Bus Terminal. Once in town, the downtown historic zone — Tumuli Park, Cheomseongdae Observatory, and Wolji Pond (also called Anapji) — is flat and compact enough to cover on foot or rented bicycle, with bike rental shops clustered near Hwangnidan-gil, the trendy café street that has become the unofficial base camp for visitors. For Bulguksa Temple and Seokguram Grotto, which sit on the slopes of Mt. Tohamsan about 40 minutes southeast of downtown, city buses 10, 11, and 12 run from the Intercity Bus Terminal and Singyeongju Station; a taxi is faster and worth it if traveling in a small group.
+Gyeongju has no subway; visitors arrive via KTX to Singyeongju Station (a 20-minute bus or taxi ride into the historic center) or by intercity bus to the more centrally located Gyeongju Bus Terminal. Once in town, the downtown historic zone — Tumuli Park, Cheomseongdae Observatory, and Wolji Pond (also called Anapji) — is flat and compact enough to cover on foot or rented bicycle, with bike rental shops clustered near Hwangnidan-gil, the trendy café street that has become the unofficial base camp for visitors.
+
+For Bulguksa Temple and Seokguram Grotto, which sit on the slopes of Mt. Tohamsan about 40 minutes southeast of downtown, city buses 10, 11, and 12 run from the Intercity Bus Terminal and Singyeongju Station; a taxi is faster and worth it if traveling in a small group.
 
 ## What to See
 
-Start at **Tumuli Park (Daereungwon)**, a walled garden containing over 20 royal burial mounds from the 5th and 6th centuries. Cheonmachong ("Heavenly Horse Tomb") is open for interior viewing and displays a reproduction of the gilt crown and painted saddle flap found inside. A short walk away, **Cheomseongdae Observatory** is often cited as the oldest surviving astronomical observatory in East Asia, a modest stone tower built during Queen Seondeok's reign in the 7th century. Nearby, **Wolji Pond** (formerly Anapji) — a Silla-era palace garden with reconstructed pavilions — is best visited at dusk, when the buildings and their reflections light up against the water.
+Start at **Tumuli Park (Daereungwon)**, a walled garden containing over 20 royal burial mounds from the 5th and 6th centuries. Cheonmachong ("Heavenly Horse Tomb") is open for interior viewing and displays a reproduction of the gilt crown and painted saddle flap found inside. A short walk away, **Cheomseongdae Observatory** is often cited as the oldest surviving astronomical observatory in East Asia, a modest stone tower built during Queen Seondeok's reign in the 7th century.
+
+Nearby, **Wolji Pond** (formerly Anapji) — a Silla-era palace garden with reconstructed pavilions — is best visited at dusk, when the buildings and their reflections light up against the water.
 
 Reserve a half-day for **Bulguksa Temple**, founded in 528 CE and rebuilt in the 8th century under Silla patronage; its Dabotap and Seokgatap stone pagodas flank the main courtyard and appear on Korean currency and postage stamps. From the temple, a bus or short drive climbs to **Seokguram Grotto**, a domed granite sanctuary housing a seated Buddha statue facing the East Sea — arrive early to avoid tour groups and to catch clearer mountain light through the small viewing window (the statue itself sits behind glass).
 

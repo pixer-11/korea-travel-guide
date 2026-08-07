@@ -68,7 +68,9 @@ Pompeii isn't a ruin in the usual sense — it's an entire Roman city frozen mid
 
 ## Getting there from Naples
 
-The easiest route is the Circumvesuviana train from Napoli Centrale (or Napoli Porta Nolana) toward Sorrento — get off at the "Pompei Scavi – Villa dei Misteri" stop, which sits right at the park's main entrance. The ride takes roughly 30-40 minutes and runs frequently through the day. This is different from the regular "Pompei" stop on the Naples–Salerno regional line, which drops you in the modern town center, a longer walk from the site — Circumvesuviana is the one you want. Drivers can use the Pompei Ovest exit off the A3 motorway; there are paid car parks near the Porta Marina and Piazza Anfiteatro entrances.
+The easiest route is the Circumvesuviana train from Napoli Centrale (or Napoli Porta Nolana) toward Sorrento — get off at the "Pompei Scavi – Villa dei Misteri" stop, which sits right at the park's main entrance. The ride takes roughly 30-40 minutes and runs frequently through the day. This is different from the regular "Pompei" stop on the Naples–Salerno regional line, which drops you in the modern town center, a longer walk from the site — Circumvesuviana is the one you want.
+
+Drivers can use the Pompei Ovest exit off the A3 motorway; there are paid car parks near the Porta Marina and Piazza Anfiteatro entrances.
 
 There are three entrances — Porta Marina, Piazza Esedra, and Piazza Anfiteatro — but Porta Marina (nearest the Circumvesuviana stop) is the classic starting point and puts you closest to the Forum.
 

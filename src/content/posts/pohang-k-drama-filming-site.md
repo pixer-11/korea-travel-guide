@@ -32,7 +32,9 @@ country: South Korea
 
 ## Why Pohang draws K-drama fans
 
-Pohang isn't Seoul or Busan, but that's exactly its appeal to production crews: the city preserves pockets of old Korea that are hard to find elsewhere. The standout is Guryongpo (구룡포), a fishing port on the Homigot peninsula that retains a cluster of Japanese colonial-era wooden buildings from the early 20th century, when the town was a base for Japanese fishing fleets. Its low-rise streets, faded signage, and harbor views gave "When the Camellia Blooms" (2019) its nostalgic small-town backdrop, and the area has since become a minor pilgrimage site for fans wanting to walk the same alleys.
+Pohang isn't Seoul or Busan, but that's exactly its appeal to production crews: the city preserves pockets of old Korea that are hard to find elsewhere. The standout is Guryongpo (구룡포), a fishing port on the Homigot peninsula that retains a cluster of Japanese colonial-era wooden buildings from the early 20th century, when the town was a base for Japanese fishing fleets.
+
+Its low-rise streets, faded signage, and harbor views gave "When the Camellia Blooms" (2019) its nostalgic small-town backdrop, and the area has since become a minor pilgrimage site for fans wanting to walk the same alleys.
 
 ## Getting there
 

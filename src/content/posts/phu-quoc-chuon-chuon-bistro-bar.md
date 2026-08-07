@@ -71,13 +71,17 @@ draft: false
 
 ## Why go
 
-Phu Quoc's dining scene tends to split between beachfront seafood shacks and hotel restaurants, so a place like Chuồn Chuồn Bistro & Bar stands out for its design-forward atmosphere without feeling like it belongs to a resort chain. The name translates to "dragonfly," and the space leans into that theme with greenery, warm lighting, and open-air seating that feels more like a garden lounge than a standard restaurant. It's the kind of spot travelers pick for a slower evening — a few cocktails, shared plates, and enough ambient charm to justify lingering over a two-hour dinner rather than rushing through a meal.
+Phu Quoc's dining scene tends to split between beachfront seafood shacks and hotel restaurants, so a place like Chuồn Chuồn Bistro & Bar stands out for its design-forward atmosphere without feeling like it belongs to a resort chain. The name translates to "dragonfly," and the space leans into that theme with greenery, warm lighting, and open-air seating that feels more like a garden lounge than a standard restaurant.
+
+It's the kind of spot travelers pick for a slower evening — a few cocktails, shared plates, and enough ambient charm to justify lingering over a two-hour dinner rather than rushing through a meal.
 
 With over 6,000 reviews and a 4.3 rating, it's clearly one of the more visited independent restaurants on the island, which also means expectations are set high — service and food quality can vary slightly depending on how busy the night is.
 
 ## Getting there
 
-Chuồn Chuồn sits on Tran Hung Dao Street (Đường Trần Hưng Đạo) in Phu Quoc Town, one of the island's main arteries connecting the airport area to Duong Dong town and the night market. It's roughly a 10–15 minute drive from Phu Quoc International Airport (PQC) and just a few minutes by car or scooter from Dinh Cau Night Market, making it easy to combine with an evening stroll along the harbor. Most visitors arrive by Grab (the regional ride-hailing app), taxi, or rented scooter, since Phu Quoc has no public bus network geared toward tourists. If self-driving, look for the entrance along Tran Hung Dao near kp7 (Khu Pho 7) — the address places it in the same general stretch as several other bars and restaurants catering to tourists, so it's worth confirming the exact turn-off on a map app before heading over, especially at night when signage can be easy to miss.
+Chuồn Chuồn sits on Tran Hung Dao Street (Đường Trần Hưng Đạo) in Phu Quoc Town, one of the island's main arteries connecting the airport area to Duong Dong town and the night market. It's roughly a 10–15 minute drive from Phu Quoc International Airport (PQC) and just a few minutes by car or scooter from Dinh Cau Night Market, making it easy to combine with an evening stroll along the harbor.
+
+Most visitors arrive by Grab (the regional ride-hailing app), taxi, or rented scooter, since Phu Quoc has no public bus network geared toward tourists. If self-driving, look for the entrance along Tran Hung Dao near kp7 (Khu Pho 7) — the address places it in the same general stretch as several other bars and restaurants catering to tourists, so it's worth confirming the exact turn-off on a map app before heading over, especially at night when signage can be easy to miss.
 
 ## What to see and eat
 
@@ -87,7 +91,9 @@ Given the price level (moderate for the island, roughly mid-range compared to Ph
 
 ## When to go
 
-Evenings are the main draw — the lighting, garden ambiance, and cooler air make dinner (roughly 6–9pm) usually the ideal window. Lunch service exists but loses much of the atmospheric appeal since the lantern and garden lighting is designed for after dark. Weekends and peak tourist season (November through April, Phu Quoc's dry season) tend to bring larger crowds, so arriving early or reserving ahead is worth doing if you have a specific time in mind. The rainy season (May–October) can still work for a visit, since much of the seating has cover, but check for outdoor umbrella arrangements if a downpour is likely.
+Evenings are the main draw — the lighting, garden ambiance, and cooler air make dinner (roughly 6–9pm) usually the ideal window. Lunch service exists but loses much of the atmospheric appeal since the lantern and garden lighting is designed for after dark. Weekends and peak tourist season (November through April, Phu Quoc's dry season) tend to bring larger crowds, so arriving early or reserving ahead is worth doing if you have a specific time in mind.
+
+The rainy season (May–October) can still work for a visit, since much of the seating has cover, but check for outdoor umbrella arrangements if a downpour is likely.
 
 ## Nearby & tips
 

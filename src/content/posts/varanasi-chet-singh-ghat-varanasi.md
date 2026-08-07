@@ -56,23 +56,37 @@ draft: false
 
 ## Why go
 
-Long before you reach it, Chet Singh Ghat announces itself: a squat, fortress-like mass of ochre and rose-washed stone rising straight out of the Ganges, its corner turrets rounded like bastions rather than the flat-faced havelis around it. This is the one stretch of the Varanasi waterfront that looks less like a temple town and more like a citadel under siege from the river itself. Built in the 18th century as a residence for Raja Chet Singh of Benares, it's remembered locally for the 1781 uprising against Warren Hastings, the British Governor-General, who nearly lost his life here when the raja's forces rose up against a punitive tax demand. Hastings escaped by night down a rope from the fort walls — a story every boatman on this stretch of river seems to know a version of.
+Long before you reach it, Chet Singh Ghat announces itself: a squat, fortress-like mass of ochre and rose-washed stone rising straight out of the Ganges, its corner turrets rounded like bastions rather than the flat-faced havelis around it. This is the one stretch of the Varanasi waterfront that looks less like a temple town and more like a citadel under siege from the river itself.
+
+Built in the 18th century as a residence for Raja Chet Singh of Benares, it's remembered locally for the 1781 uprising against Warren Hastings, the British Governor-General, who nearly lost his life here when the raja's forces rose up against a punitive tax demand. Hastings escaped by night down a rope from the fort walls — a story every boatman on this stretch of river seems to know a version of.
 
 ## What you'll see
 
-The ghat itself is a broad flight of stone steps running down to the water, but the real draw is the palace above: a rambling, semi-fortified structure with a wide terrace that looks straight across the Ganges to the flat sandbanks on the eastern bank. Inside are courtyards, arched colonnades, and narrow stone stairwells that locals and a handful of resident families still use — parts of the complex remain inhabited, so you're wandering through a lived-in relic rather than a roped-off museum. From the water, the ghat is often photographed as one of the most striking silhouettes on the whole crescent of Varanasi's riverfront, especially in the low, slanting light of early morning or dusk.
+The ghat itself is a broad flight of stone steps running down to the water, but the real draw is the palace above: a rambling, semi-fortified structure with a wide terrace that looks straight across the Ganges to the flat sandbanks on the eastern bank. Inside are courtyards, arched colonnades, and narrow stone stairwells that locals and a handful of resident families still use — parts of the complex remain inhabited, so you're wandering through a lived-in relic rather than a roped-off museum.
+
+From the water, the ghat is often photographed as one of the most striking silhouettes on the whole crescent of Varanasi's riverfront, especially in the low, slanting light of early morning or dusk.
 
 ## Getting there
 
-Chet Singh Ghat sits south of the main cluster of ghats, between Shivala Ghat and the quieter stretches leading down toward Assi Ghat. The easiest way in is by boat — any rowboat hired from Assi, Dashashwamedh, or Shivala Ghat can be steered here, and boatmen typically fold it into a longer sunrise or sunset river tour rather than as a standalone stop. If you'd rather walk, you can pick your way along the ghat-side path from Assi Ghat, though the route involves stairs, uneven stone, and the odd detour around a shrine or a resting buffalo. There's no metro in Varanasi; autos and e-rickshaws can drop you at the lanes near Shivala, from where it's a short walk down to the river. The site itself has no formal gate or ticket booth — it's open-air and accessible 24 hours, though after dark there's little lighting and few other visitors, so daytime is the practical window.
+Chet Singh Ghat sits south of the main cluster of ghats, between Shivala Ghat and the quieter stretches leading down toward Assi Ghat. The easiest way in is by boat — any rowboat hired from Assi, Dashashwamedh, or Shivala Ghat can be steered here, and boatmen typically fold it into a longer sunrise or sunset river tour rather than as a standalone stop.
+
+If you'd rather walk, you can pick your way along the ghat-side path from Assi Ghat, though the route involves stairs, uneven stone, and the odd detour around a shrine or a resting buffalo. There's no metro in Varanasi; autos and e-rickshaws can drop you at the lanes near Shivala, from where it's a short walk down to the river.
+
+The site itself has no formal gate or ticket booth — it's open-air and accessible 24 hours, though after dark there's little lighting and few other visitors, so daytime is the practical window.
 
 ## When to go
 
-Mornings are best, both for light and for logistics: sunrise boat rides (roughly 5:30–7am depending on the season) catch the fort walls turning gold and the ghat steps still damp and empty of the midday crowds that build up around the more central ghats. Because Chet Singh Ghat is a stop along a route rather than a single destination, most people fold it into an hour-long boat trip that also passes Manikarnika and Dashashwamedh — budget 20–30 minutes here specifically if you want to land and climb up to the terrace. Winter mornings (November–February) bring a soft mist off the river that makes the fort look especially dramatic, though it's also cold enough on the water to want a jacket.
+Mornings are best, both for light and for logistics: sunrise boat rides (roughly 5:30–7am depending on the season) catch the fort walls turning gold and the ghat steps still damp and empty of the midday crowds that build up around the more central ghats. Because Chet Singh Ghat is a stop along a route rather than a single destination, most people fold it into an hour-long boat trip that also passes Manikarnika and Dashashwamedh — budget 20–30 minutes here specifically if you want to land and climb up to the terrace.
+
+Winter mornings (November–February) bring a soft mist off the river that makes the fort look especially dramatic, though it's also cold enough on the water to want a jacket.
 
 ## How to visit like a local
 
-Boatmen negotiate fares per boat, not per person, and cash (small denomination rupees) is still the norm — settle the price before you push off, not after. If you want to actually climb into the fort rather than view it from the water, you can usually do so respectfully and without a formal entry fee, but move quietly through the courtyards: parts of the complex are still someone's home, not a stage set. Because this is a well-known stop on the standard boat circuit, the water in front of it can get crowded with tour boats by mid-morning — the trick locals and experienced boatmen use is timing the trip to catch the ghat just after sunrise or in the last hour before sunset, when the light is best and the traffic on the river thins out. Skip flash photography if anyone's around at dusk, and don't expect a ticket counter, gift shop, or guide stationed at the site — this is raw riverfront heritage, not a curated attraction.
+Boatmen negotiate fares per boat, not per person, and cash (small denomination rupees) is still the norm — settle the price before you push off, not after. If you want to actually climb into the fort rather than view it from the water, you can usually do so respectfully and without a formal entry fee, but move quietly through the courtyards: parts of the complex are still someone's home, not a stage set.
+
+Because this is a well-known stop on the standard boat circuit, the water in front of it can get crowded with tour boats by mid-morning — the trick locals and experienced boatmen use is timing the trip to catch the ghat just after sunrise or in the last hour before sunset, when the light is best and the traffic on the river thins out.
+
+Skip flash photography if anyone's around at dusk, and don't expect a ticket counter, gift shop, or guide stationed at the site — this is raw riverfront heritage, not a curated attraction.
 
 ## Nearby
 

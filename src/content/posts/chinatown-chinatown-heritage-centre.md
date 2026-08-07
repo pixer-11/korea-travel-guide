@@ -69,7 +69,9 @@ draft: false
 
 ## Why go
 
-Chinatown today is dominated by souvenir stalls and hawker stands, which makes it easy to forget that this district was once one of the most densely packed and impoverished immigrant enclaves in Southeast Asia. The Chinatown Heritage Centre, housed in three painstakingly restored shophouses on Pagoda Street, exists to fill in that gap. Instead of glass cases and wall text, the museum recreates actual living conditions: cramped cubicle rooms subdivided by wooden partitions, a tailor's shop, a coolie's sleeping quarters, and a reconstructed opium den, all built from oral histories and archival research on the families who once lived at this address. With a 4.6 rating across more than 4,400 reviews, it's one of the more consistently praised indoor attractions in the district, and unlike much of Chinatown's street-level commerce, it's a place to slow down.
+Chinatown today is dominated by souvenir stalls and hawker stands, which makes it easy to forget that this district was once one of the most densely packed and impoverished immigrant enclaves in Southeast Asia. The Chinatown Heritage Centre, housed in three painstakingly restored shophouses on Pagoda Street, exists to fill in that gap. Instead of glass cases and wall text, the museum recreates actual living conditions: cramped cubicle rooms subdivided by wooden partitions, a tailor's shop, a coolie's sleeping quarters, and a reconstructed opium den, all built from oral histories and archival research on the families who once lived at this address.
+
+With a 4.6 rating across more than 4,400 reviews, it's one of the more consistently praised indoor attractions in the district, and unlike much of Chinatown's street-level commerce, it's a place to slow down.
 
 ## Getting there
 
@@ -77,7 +79,9 @@ The centre sits at 48 Pagoda Street, right in the pedestrianized heart of Chinat
 
 ## What to see and do inside
 
-The exhibits unfold across three shophouse levels, arranged roughly chronologically from the arrival of migrants at Singapore's docks to their working lives in trades like tailoring, calligraphy, and provisions trading. Highlights include a recreated cubicle dwelling showing how up to a dozen people shared a single subdivided room, a mock-up of a traditional Chinese medicine hall, and a sobering opium den display that explains the drug's role in 19th-century Chinatown life. Interactive touchscreens and recorded oral histories (many in English with Chinese subtitles) supplement the physical sets. Photography is generally allowed in most galleries — check signage in rooms with fragile artifacts. Most visitors move through the full circuit in 60–90 minutes; history-minded travelers or those visiting with children doing the interactive stations may want closer to two hours.
+The exhibits unfold across three shophouse levels, arranged roughly chronologically from the arrival of migrants at Singapore's docks to their working lives in trades like tailoring, calligraphy, and provisions trading. Highlights include a recreated cubicle dwelling showing how up to a dozen people shared a single subdivided room, a mock-up of a traditional Chinese medicine hall, and a sobering opium den display that explains the drug's role in 19th-century Chinatown life.
+
+Interactive touchscreens and recorded oral histories (many in English with Chinese subtitles) supplement the physical sets. Photography is generally allowed in most galleries — check signage in rooms with fragile artifacts. Most visitors move through the full circuit in 60–90 minutes; history-minded travelers or those visiting with children doing the interactive stations may want closer to two hours.
 
 ## When to go
 
@@ -85,8 +89,12 @@ Weekday mornings, shortly after opening, are the quietest window — tour buses 
 
 ## What's nearby
 
-Pagoda Street itself is worth a slow walk before or after your visit, lined with stalls selling fans, chops (seals), and tourist-friendly souvenirs. Sri Mariamman Temple, Singapore's oldest Hindu temple, is a five-minute walk away on South Bridge Road and offers a striking contrast in architecture and atmosphere. The Buddha Tooth Relic Temple and Museum, a few streets over on South Bridge Road, pairs well as a second heritage stop. For food, the Chinatown Complex Food Centre on Smith Street is the district's largest hawker centre and a practical lunch stop after the museum.
+Pagoda Street itself is worth a slow walk before or after your visit, lined with stalls selling fans, chops (seals), and tourist-friendly souvenirs. Sri Mariamman Temple, Singapore's oldest Hindu temple, is a five-minute walk away on South Bridge Road and offers a striking contrast in architecture and atmosphere. The Buddha Tooth Relic Temple and Museum, a few streets over on South Bridge Road, pairs well as a second heritage stop.
+
+For food, the Chinatown Complex Food Centre on Smith Street is the district's largest hawker centre and a practical lunch stop after the museum.
 
 ## How to visit like a local
 
-Because this is a well-known, heavily reviewed museum rather than an under-the-radar find, the useful local strategy is timing, not secrecy: arrive right at opening or in the last hour before closing to sidestep coach-tour crowds that cluster mid-morning to mid-afternoon. Tickets and any in-museum purchases are typically handled by card or mobile payment, as with most Singapore attractions — carrying cash isn't necessary here. There's no tipping expectation in Singapore museums. Dress is casual, but note the shophouse staircases are narrow and steep, original to the 1900s buildings, so flat shoes make the climb easier. The most common visitor mistake is treating this as a quick photo stop between souvenir shopping; the exhibits reward reading the accompanying family histories rather than rushing through, since the personal stories are what distinguish this museum from a generic history display.
+Because this is a well-known, heavily reviewed museum rather than an under-the-radar find, the useful local strategy is timing, not secrecy: arrive right at opening or in the last hour before closing to sidestep coach-tour crowds that cluster mid-morning to mid-afternoon. Tickets and any in-museum purchases are typically handled by card or mobile payment, as with most Singapore attractions — carrying cash isn't necessary here.
+
+There's no tipping expectation in Singapore museums. Dress is casual, but note the shophouse staircases are narrow and steep, original to the 1900s buildings, so flat shoes make the climb easier. The most common visitor mistake is treating this as a quick photo stop between souvenir shopping; the exhibits reward reading the accompanying family histories rather than rushing through, since the personal stories are what distinguish this museum from a generic history display.

@@ -52,7 +52,9 @@ draft: false
 
 ## Why go
 
-You clock the palace long before you reach its gate — grey stone turrets and crenellated parapets rising above the traffic on Palace Road, oddly medieval against Bengaluru's glass office towers. Built in the 1880s for the Wadiyar royal family and consciously modeled on Windsor Castle, it's one of the few places in the city where the 19th-century Mysore court life is still tangible: teak-panelled corridors, faded oil portraits, Belgian glass, and ceilings painted with mythological scenes. It's not a working palace anymore — much of it functions as an event and concert venue — but the interior tour and the sprawling 45-acre grounds still give you a solid, tactile sense of Karnataka's royal history without needing a day trip out of the city.
+You clock the palace long before you reach its gate — grey stone turrets and crenellated parapets rising above the traffic on Palace Road, oddly medieval against Bengaluru's glass office towers. Built in the 1880s for the Wadiyar royal family and consciously modeled on Windsor Castle, it's one of the few places in the city where the 19th-century Mysore court life is still tangible: teak-panelled corridors, faded oil portraits, Belgian glass, and ceilings painted with mythological scenes.
+
+It's not a working palace anymore — much of it functions as an event and concert venue — but the interior tour and the sprawling 45-acre grounds still give you a solid, tactile sense of Karnataka's royal history without needing a day trip out of the city.
 
 ## Getting there
 
@@ -60,7 +62,9 @@ The palace sits on Palace Road in central Bengaluru, an easy landmark to reach f
 
 ## What to see
 
-The self-guided audio tour takes you through the durbar hall and a string of reception rooms hung with hunting trophies, chandeliers, and portraits of the Wadiyar maharajas — look for the carved wooden ceilings and the Gothic-style stained glass, both clear nods to the Windsor Castle blueprint. Photography inside is usually allowed for an extra fee (carry small change, this is the kind of add-on cost that changes over time). Outside, the manicured lawns and fort-like perimeter wall are where the palace does double duty as Bengaluru's go-to outdoor concert and event ground — international acts and large festivals routinely use these grounds, so check ahead in case part of the property is closed for a private event on the day you plan to visit. On the same grounds, an amusement park adds go-karting, paintball, and rides, which makes this a workable half-day stop if you've got kids in tow, not just a museum visit.
+The self-guided audio tour takes you through the durbar hall and a string of reception rooms hung with hunting trophies, chandeliers, and portraits of the Wadiyar maharajas — look for the carved wooden ceilings and the Gothic-style stained glass, both clear nods to the Windsor Castle blueprint. Photography inside is usually allowed for an extra fee (carry small change, this is the kind of add-on cost that changes over time).
+
+Outside, the manicured lawns and fort-like perimeter wall are where the palace does double duty as Bengaluru's go-to outdoor concert and event ground — international acts and large festivals routinely use these grounds, so check ahead in case part of the property is closed for a private event on the day you plan to visit. On the same grounds, an amusement park adds go-karting, paintball, and rides, which makes this a workable half-day stop if you've got kids in tow, not just a museum visit.
 
 ## When to go
 
@@ -68,7 +72,11 @@ Mornings, right after opening, are the calmest stretch — heat builds fast in B
 
 ## How to visit like a local
 
-Buy your ticket at the counter on arrival rather than assuming online booking is mandatory — queues move fairly briskly on weekdays, though weekends can bunch up, so build in extra buffer time if you're coming on a Saturday or Sunday. The audio guide is included in the standard entry and is worth using slowly rather than rushing — most visitors blow through it in 20 minutes and miss half the detail in the state rooms. Interior photography and video typically carry a separate camera fee charged at the gate, so keep small cash on hand even if you're paying for the main ticket by card. The single biggest mistake tourists make here is treating it as a quick photo-op from the road — the real substance is inside, and the grounds behind the palace (often closed off during private concerts or events) are worth checking about before you go, since access can vary day to day. Dress is casual, but this is still a heritage interior, so leave the swimwear and beach gear for elsewhere. If you're a live-music fan, keep an eye on the palace grounds' events calendar separately — a concert here at night is a completely different experience from the daytime museum visit, with the illuminated facade as a backdrop.
+Buy your ticket at the counter on arrival rather than assuming online booking is mandatory — queues move fairly briskly on weekdays, though weekends can bunch up, so build in extra buffer time if you're coming on a Saturday or Sunday. The audio guide is included in the standard entry and is worth using slowly rather than rushing — most visitors blow through it in 20 minutes and miss half the detail in the state rooms.
+
+Interior photography and video typically carry a separate camera fee charged at the gate, so keep small cash on hand even if you're paying for the main ticket by card. The single biggest mistake tourists make here is treating it as a quick photo-op from the road — the real substance is inside, and the grounds behind the palace (often closed off during private concerts or events) are worth checking about before you go, since access can vary day to day.
+
+Dress is casual, but this is still a heritage interior, so leave the swimwear and beach gear for elsewhere. If you're a live-music fan, keep an eye on the palace grounds' events calendar separately — a concert here at night is a completely different experience from the daytime museum visit, with the illuminated facade as a backdrop.
 
 ## Nearby
 

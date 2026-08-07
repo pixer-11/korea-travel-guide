@@ -62,7 +62,9 @@ eventRecurring: true
 
 ## Why this festival is worth planning around
 
-Pattaya Beach isn't short on spectacle any night of the year — the jet-ski buzz at dusk, the neon glow of Beach Road, the smell of grilled seafood drifting off the sand — but for a few nights in late July and into August, the whole bay turns into a stage. The Pattaya International Fireworks Festival brings pyrotechnic teams from different countries to compete, each team given a slot to choreograph bursts of color and shockwave booms to a synchronized soundtrack. It's the kind of event where the crowd's reaction — the collective intake of breath before a finale — is almost as much a part of the experience as the shells exploding over the water.
+Pattaya Beach isn't short on spectacle any night of the year — the jet-ski buzz at dusk, the neon glow of Beach Road, the smell of grilled seafood drifting off the sand — but for a few nights in late July and into August, the whole bay turns into a stage. The Pattaya International Fireworks Festival brings pyrotechnic teams from different countries to compete, each team given a slot to choreograph bursts of color and shockwave booms to a synchronized soundtrack.
+
+It's the kind of event where the crowd's reaction — the collective intake of breath before a finale — is almost as much a part of the experience as the shells exploding over the water.
 
 ## When it happens
 
@@ -70,16 +72,26 @@ The 2026 edition is set for July 30 through August 2. That's a multi-day event, 
 
 ## Where to watch
 
-The action centers on Pattaya Beach itself, the long curving stretch that runs parallel to Beach Road (Pattaya Sai Nueng) in the heart of the city. The beach and the road above it become the de facto grandstand — free and open to anyone who claims a patch of sand or curb early enough. Elevated view spots have historically included the rooftop bars and hotel terraces that line Beach Road and Pattaya Bay, some of which run their own ticketed fireworks-viewing parties with cover charges or minimum spends. If you'd rather stand and sway with the crowd on the sand than sit at a rooftop bar, that option costs nothing beyond getting yourself there.
+The action centers on Pattaya Beach itself, the long curving stretch that runs parallel to Beach Road (Pattaya Sai Nueng) in the heart of the city. The beach and the road above it become the de facto grandstand — free and open to anyone who claims a patch of sand or curb early enough. Elevated view spots have historically included the rooftop bars and hotel terraces that line Beach Road and Pattaya Bay, some of which run their own ticketed fireworks-viewing parties with cover charges or minimum spends.
+
+If you'd rather stand and sway with the crowd on the sand than sit at a rooftop bar, that option costs nothing beyond getting yourself there.
 
 ## Getting there
 
-Pattaya sits about two hours by road from Bangkok, and most visitors arrive via Suvarnabhumi or Don Mueang airports, either by pre-arranged transfer, minivan services from Ekkamai and Mo Chit bus terminals, or a taxi. Once in Pattaya, Beach Road is walkable from most central hotels, and the local baht bus (songthaew) network — the open-backed shared pickup trucks that loop the main roads — is the cheapest way to shuttle between your hotel and the beachfront if you're staying further out, like in Jomtien or North Pattaya. During festival nights, expect heavier-than-usual traffic and temporary road closures near the viewing areas, so budget extra time and consider walking or taking a songthaew rather than driving yourself.
+Pattaya sits about two hours by road from Bangkok, and most visitors arrive via Suvarnabhumi or Don Mueang airports, either by pre-arranged transfer, minivan services from Ekkamai and Mo Chit bus terminals, or a taxi. Once in Pattaya, Beach Road is walkable from most central hotels, and the local baht bus (songthaew) network — the open-backed shared pickup trucks that loop the main roads — is the cheapest way to shuttle between your hotel and the beachfront if you're staying further out, like in Jomtien or North Pattaya.
+
+During festival nights, expect heavier-than-usual traffic and temporary road closures near the viewing areas, so budget extra time and consider walking or taking a songthaew rather than driving yourself.
 
 ## What to expect on the ground
 
-Picture Beach Road closed to normal traffic flow, food vendors doubling down on grilled skewers and sliced mango, and a mixed crowd of Thai families, expat regulars, and tourists staking out spots with mats and folding chairs well before dark. The synchronized shows typically pair each country's fireworks segment with a musical track, so the rhythm of the display — slow builds, rapid-fire climaxes — is designed to land with the soundtrack rather than run on autopilot. Between segments, expect emcees, sponsor activity, and often a festive, slightly chaotic energy along the promenade as the crowd shifts between vendors and viewing spots.
+Picture Beach Road closed to normal traffic flow, food vendors doubling down on grilled skewers and sliced mango, and a mixed crowd of Thai families, expat regulars, and tourists staking out spots with mats and folding chairs well before dark. The synchronized shows typically pair each country's fireworks segment with a musical track, so the rhythm of the display — slow builds, rapid-fire climaxes — is designed to land with the soundtrack rather than run on autopilot.
+
+Between segments, expect emcees, sponsor activity, and often a festive, slightly chaotic energy along the promenade as the crowd shifts between vendors and viewing spots.
 
 ## How to visit like a local
 
-Arrive at least 90 minutes before the show is expected to start — regulars know that the good sightlines along the central beach and the Bali Hai Pier end fill up fast, and by the time the first shells go up, latecomers are stuck squinting from side streets. Bring small cash (Thai baht) for street food and songthaew fares, since many beachfront vendors won't take cards. If you want a rooftop bar view instead of sand, call ahead — the popular ones do fill their reservation lists in the days before. Dress light and expect the beach sand to be packed and warm underfoot even after sunset. The most common mistake visitors make is assuming they can drive close to Beach Road on show nights; parking disappears and roads close, so treat this as a walk-in, songthaew-in event. Finally, don't treat the festival dates as fixed in stone this far ahead — Pattaya's city and tourism authority pages are the place to verify the confirmed nights, exact viewing zones, and any ticketed sections before you book flights or hotels.
+Arrive at least 90 minutes before the show is expected to start — regulars know that the good sightlines along the central beach and the Bali Hai Pier end fill up fast, and by the time the first shells go up, latecomers are stuck squinting from side streets. Bring small cash (Thai baht) for street food and songthaew fares, since many beachfront vendors won't take cards.
+
+If you want a rooftop bar view instead of sand, call ahead — the popular ones do fill their reservation lists in the days before. Dress light and expect the beach sand to be packed and warm underfoot even after sunset. The most common mistake visitors make is assuming they can drive close to Beach Road on show nights; parking disappears and roads close, so treat this as a walk-in, songthaew-in event.
+
+Finally, don't treat the festival dates as fixed in stone this far ahead — Pattaya's city and tourism authority pages are the place to verify the confirmed nights, exact viewing zones, and any ticketed sections before you book flights or hotels.

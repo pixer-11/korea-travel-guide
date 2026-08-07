@@ -46,15 +46,21 @@ draft: false
 
 ## Why go
 
-Surabaya North Quay sits atop a building overlooking Tanjung Perak, one of Indonesia's busiest ports, and turns an otherwise industrial stretch of the city into a genuine viewpoint. The draw is simple: an open-air rooftop deck where you can watch cargo ships, tugboats, and — on good days — docked cruise liners against the flat expanse of the Java Sea. It's less about historical depth and more about atmosphere and photos, which is exactly why it has racked up over 23,000 reviews and a strong 4.4 rating. Unlike a lot of Surabaya's colonial-era sights, this one is modern, designed specifically for viewing and lingering rather than passing through.
+Surabaya North Quay sits atop a building overlooking Tanjung Perak, one of Indonesia's busiest ports, and turns an otherwise industrial stretch of the city into a genuine viewpoint. The draw is simple: an open-air rooftop deck where you can watch cargo ships, tugboats, and — on good days — docked cruise liners against the flat expanse of the Java Sea.
+
+It's less about historical depth and more about atmosphere and photos, which is exactly why it has racked up over 23,000 reviews and a strong 4.4 rating. Unlike a lot of Surabaya's colonial-era sights, this one is modern, designed specifically for viewing and lingering rather than passing through.
 
 ## Getting there
 
-The address is Jl. Jamrud Utara, in Perak Utara, within Kecamatan Pabean Cantian in North Surabaya — right by the Tanjung Perak port complex. This is not a neighborhood served by Surabaya's Suroboyo Bus routes or the city's limited rail network in any practical way, so the realistic options are a private car, taxi, or ride-hailing app (Gojek or Grab both operate widely in Surabaya). Budget 20–40 minutes from the city center (Tunjungan or the Old Town/Kya-Kya area) depending on traffic, which can back up near the port gates during shift changes and cargo movements. If you're combining this with a heritage-trail day, it pairs logically with Surabaya's Old Town (Kota Lama) sights like the Jembatan Merah and House of Sampoerna, both a short drive south.
+The address is Jl. Jamrud Utara, in Perak Utara, within Kecamatan Pabean Cantian in North Surabaya — right by the Tanjung Perak port complex. This is not a neighborhood served by Surabaya's Suroboyo Bus routes or the city's limited rail network in any practical way, so the realistic options are a private car, taxi, or ride-hailing app (Gojek or Grab both operate widely in Surabaya).
+
+Budget 20–40 minutes from the city center (Tunjungan or the Old Town/Kya-Kya area) depending on traffic, which can back up near the port gates during shift changes and cargo movements. If you're combining this with a heritage-trail day, it pairs logically with Surabaya's Old Town (Kota Lama) sights like the Jembatan Merah and House of Sampoerna, both a short drive south.
 
 ## What to see and do
 
-The main event is the rooftop deck itself: a wide, open platform built for unobstructed views of the shipping lanes, cranes, and vessels queuing in and out of Tanjung Perak. Because this is a real, active port — not a staged harbor — the scenery changes visit to visit: sometimes a cruise ship is berthed nearby, other times it's mostly container traffic and tugboats. Photographers favor it for the industrial-meets-seascape contrast, and it's a popular spot for silhouette shots at golden hour. There's typically food and drink service on site, so plan to sit, order something, and stay rather than rushing through — most visitors treat it as an hour-to-90-minute stop rather than a quick photo dash.
+The main event is the rooftop deck itself: a wide, open platform built for unobstructed views of the shipping lanes, cranes, and vessels queuing in and out of Tanjung Perak. Because this is a real, active port — not a staged harbor — the scenery changes visit to visit: sometimes a cruise ship is berthed nearby, other times it's mostly container traffic and tugboats.
+
+Photographers favor it for the industrial-meets-seascape contrast, and it's a popular spot for silhouette shots at golden hour. There's typically food and drink service on site, so plan to sit, order something, and stay rather than rushing through — most visitors treat it as an hour-to-90-minute stop rather than a quick photo dash.
 
 ## When to go
 
@@ -62,7 +68,11 @@ Late afternoon into sunset is the sweet spot: the heat of the day has eased, por
 
 ## How to visit like a local
 
-This is a very popular, well-trafficked attraction, not a hidden find, so the smartest move is to manage timing around the crowds rather than expect solitude. Weekday late afternoons are noticeably calmer than weekends and public holidays, when local families and groups pack the deck for sunset photos. Payment on site is typically by cash or QRIS mobile payment (Indonesia's near-universal QR code payment standard), so having a mobile wallet linked or some small cash on hand smooths things along — tipping isn't customary or expected here. There's usually no formal reservation system; it operates on a walk-in basis, so if you arrive right at peak sunset expect to wait a few minutes for a rail-side spot rather than a seat directly at the edge. The most common visitor mistake is treating it as a quick 10-minute photo op and rushing off — the setting rewards slowing down with a drink and watching the ship traffic shift over half an hour or more. Dress for sun and wind exposure since it's a fully open rooftop, and confirm current opening hours and any entry fee before heading out, as both can shift seasonally and aren't fixed public data.
+This is a very popular, well-trafficked attraction, not a hidden find, so the smartest move is to manage timing around the crowds rather than expect solitude. Weekday late afternoons are noticeably calmer than weekends and public holidays, when local families and groups pack the deck for sunset photos. Payment on site is typically by cash or QRIS mobile payment (Indonesia's near-universal QR code payment standard), so having a mobile wallet linked or some small cash on hand smooths things along — tipping isn't customary or expected here.
+
+There's usually no formal reservation system; it operates on a walk-in basis, so if you arrive right at peak sunset expect to wait a few minutes for a rail-side spot rather than a seat directly at the edge. The most common visitor mistake is treating it as a quick 10-minute photo op and rushing off — the setting rewards slowing down with a drink and watching the ship traffic shift over half an hour or more.
+
+Dress for sun and wind exposure since it's a fully open rooftop, and confirm current opening hours and any entry fee before heading out, as both can shift seasonally and aren't fixed public data.
 
 ## Nearby stops to combine
 

@@ -68,7 +68,9 @@ draft: false
 
 ## Why go
 
-Aix-en-Provence made Paul Cézanne, and the Musée Granet is where the town squares that debt as honestly as anywhere. But this isn't a one-artist shrine. Walk through the ground-floor rooms and you pass Ingres' luminous portraits, a small but genuine Rembrandt self-portrait, and canvases by Rubens, and you feel the collection's real ambition: to show four centuries of European painting inside a building that was itself once a working priory of the Knights of Malta. The stone stairwells still carry that institutional weight — thick walls, high windows, a hush that has nothing to do with being a museum and everything to do with having been a place of religious order for 200 years before it held a single painting.
+Aix-en-Provence made Paul Cézanne, and the Musée Granet is where the town squares that debt as honestly as anywhere. But this isn't a one-artist shrine. Walk through the ground-floor rooms and you pass Ingres' luminous portraits, a small but genuine Rembrandt self-portrait, and canvases by Rubens, and you feel the collection's real ambition: to show four centuries of European painting inside a building that was itself once a working priory of the Knights of Malta.
+
+The stone stairwells still carry that institutional weight — thick walls, high windows, a hush that has nothing to do with being a museum and everything to do with having been a place of religious order for 200 years before it held a single painting.
 
 ## Getting there
 
@@ -76,7 +78,9 @@ The museum stands on Place Saint-Jean de Malte, in the Mazarin quarter just sout
 
 ## What to see inside
 
-Start with the Cézanne rooms — the museum holds a real cluster of his work, tracing his return again and again to the same motifs: Mont Sainte-Victoire, bathers, the Provençal light he spent his life trying to pin down on canvas. From there, the Italian and Northern European galleries reward slower looking: a Rembrandt self-portrait that stops most people mid-stride, a run of Ingres portraits with that glassy, almost photographic finish he was known for. Don't skip the basement level, where archaeological finds from the Aix region — Celto-Ligurian sculpture, Roman-era objects — sit in cooler, dimmer rooms that make a good contrast to the bright galleries above. Budget two hours for a real visit, three if you like to read every label.
+Start with the Cézanne rooms — the museum holds a real cluster of his work, tracing his return again and again to the same motifs: Mont Sainte-Victoire, bathers, the Provençal light he spent his life trying to pin down on canvas. From there, the Italian and Northern European galleries reward slower looking: a Rembrandt self-portrait that stops most people mid-stride, a run of Ingres portraits with that glassy, almost photographic finish he was known for.
+
+Don't skip the basement level, where archaeological finds from the Aix region — Celto-Ligurian sculpture, Roman-era objects — sit in cooler, dimmer rooms that make a good contrast to the bright galleries above. Budget two hours for a real visit, three if you like to read every label.
 
 ## When to go
 
@@ -84,7 +88,11 @@ Crowd patterns here are genuinely predictable. Both weekdays and weekends run ca
 
 ## How to visit like a local
 
-Buy your ticket online in advance if you can — it saves the front-desk queue that forms once tour buses arrive, and Aix residents who visit regularly tend to do exactly this rather than risk a line. Dress and behave as you would in any converted religious building: this was a priory, and the bones of that history — vaulted ceilings, a chapel-like hush in the older wings — are still part of the experience, so keep voices down even where no sign asks you to. Payment is standard European card-and-contactless; you won't need cash inside. Photography without flash is generally fine in the permanent collection but check signage in any temporary exhibition, where loaned works often carry stricter rules. The mistake most first-time visitors make is treating this as a quick Cézanne stop between lunch and the next sight — the temporary exhibition wing (housed separately in the old chapel building attached to the museum) is frequently worth its own half hour, and skipping it means missing some of the best-curated shows in Aix. Afterward, do what regulars do: cut back up to Cours Mirabeau for a coffee under the plane trees rather than eating right at the museum's doorstep, where cafés cater more to passing tourists.
+Buy your ticket online in advance if you can — it saves the front-desk queue that forms once tour buses arrive, and Aix residents who visit regularly tend to do exactly this rather than risk a line. Dress and behave as you would in any converted religious building: this was a priory, and the bones of that history — vaulted ceilings, a chapel-like hush in the older wings — are still part of the experience, so keep voices down even where no sign asks you to.
+
+Payment is standard European card-and-contactless; you won't need cash inside. Photography without flash is generally fine in the permanent collection but check signage in any temporary exhibition, where loaned works often carry stricter rules. The mistake most first-time visitors make is treating this as a quick Cézanne stop between lunch and the next sight — the temporary exhibition wing (housed separately in the old chapel building attached to the museum) is frequently worth its own half hour, and skipping it means missing some of the best-curated shows in Aix.
+
+Afterward, do what regulars do: cut back up to Cours Mirabeau for a coffee under the plane trees rather than eating right at the museum's doorstep, where cafés cater more to passing tourists.
 
 ## Nearby, while you're there
 

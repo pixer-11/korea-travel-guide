@@ -79,7 +79,9 @@ You smell the place before you see the sign — charred tortilla and lime cuttin
 
 ## Why go
 
-This isn't a sit-down, menu-and-waiter restaurant — it's cafeteria-style, meaning you order at the counter, grab a tray, and find a seat among the surf-shack decor: hanging surfboards, string lights, painted tile, picnic-style tables. The food leans classic taqueria — tacos, burritos, quesadillas, chips loaded with salsa — plus a full bar pouring margaritas, which is part of why it's become a late-night fixture as much as a lunch spot. Prices sit at the budget end, so it's an easy in-and-out meal or a low-stakes stop before or after a night out.
+This isn't a sit-down, menu-and-waiter restaurant — it's cafeteria-style, meaning you order at the counter, grab a tray, and find a seat among the surf-shack decor: hanging surfboards, string lights, painted tile, picnic-style tables. The food leans classic taqueria — tacos, burritos, quesadillas, chips loaded with salsa — plus a full bar pouring margaritas, which is part of why it's become a late-night fixture as much as a lunch spot.
+
+Prices sit at the budget end, so it's an easy in-and-out meal or a low-stakes stop before or after a night out.
 
 ## Getting there
 
@@ -91,9 +93,15 @@ Stick to the taco stand's namesake: a few tacos, mixed proteins if you can't dec
 
 ## When to go
 
-Surfside operates 24 hours, every day of the week, which is rare enough in DC that it changes how you use the place. If you want a quiet counter and no wait, aim for a weekday morning between 7am and 9am — that's the calmest stretch all week. Weekend mornings are nearly as easy, with the lull holding from around 7am until roughly 1pm. After that, especially from 4pm to 11pm on Saturday and Sunday, the counter line backs up and the tables fill fast — that's the window worth avoiding if you don't want to eat standing up or hover for a seat.
+Surfside operates 24 hours, every day of the week, which is rare enough in DC that it changes how you use the place. If you want a quiet counter and no wait, aim for a weekday morning between 7am and 9am — that's the calmest stretch all week. Weekend mornings are nearly as easy, with the lull holding from around 7am until roughly 1pm.
+
+After that, especially from 4pm to 11pm on Saturday and Sunday, the counter line backs up and the tables fill fast — that's the window worth avoiding if you don't want to eat standing up or hover for a seat.
 
 ## How to visit like a local
 
-Because Surfside is well-known in the neighborhood rather than a hidden find, treat the crowd data as your planning tool rather than an afterthought. If you're food-first and want to actually sit down and enjoy the margarita, go early — a weekday breakfast-hour taco run before the office crowd or bar crowd shows up is the move locals who live nearby actually make. Ordering is simple and doesn't require Spanish beyond naming what you want off the menu board; point-and-order works fine if the counter is busy. Payment is standard card-or-cash at checkout, and since it's counter service, tipping is more casual than a sit-down restaurant — a jar or a prompt at the register rather than a percentage worked out over a bill. The mistake newcomers make is showing up right at the Saturday dinner rush expecting a quick in-and-out; that's precisely the four-to-eleven window locals steer around. Grab a tray, don't wait for someone to seat you, and if the patio-style seating near the surfboard decor is full, there's usually room at the counter itself — faster, and arguably better for people-watching the Dupont mix of diplomats, students, and 2am regulars that makes this place what it is.
+Because Surfside is well-known in the neighborhood rather than a hidden find, treat the crowd data as your planning tool rather than an afterthought. If you're food-first and want to actually sit down and enjoy the margarita, go early — a weekday breakfast-hour taco run before the office crowd or bar crowd shows up is the move locals who live nearby actually make.
+
+Ordering is simple and doesn't require Spanish beyond naming what you want off the menu board; point-and-order works fine if the counter is busy. Payment is standard card-or-cash at checkout, and since it's counter service, tipping is more casual than a sit-down restaurant — a jar or a prompt at the register rather than a percentage worked out over a bill.
+
+The mistake newcomers make is showing up right at the Saturday dinner rush expecting a quick in-and-out; that's precisely the four-to-eleven window locals steer around. Grab a tray, don't wait for someone to seat you, and if the patio-style seating near the surfboard decor is full, there's usually room at the counter itself — faster, and arguably better for people-watching the Dupont mix of diplomats, students, and 2am regulars that makes this place what it is.
 

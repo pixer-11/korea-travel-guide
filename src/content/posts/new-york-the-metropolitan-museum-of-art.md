@@ -73,7 +73,9 @@ draft: false
 
 ## Why go
 
-You come up out of the subway on the Upper East Side and the museum announces itself before you even see the doors — the banners strung across the colonnaded Beaux-Arts facade, the crowds already pooling on the wide stone steps. The Metropolitan Museum of Art isn't just big, it's disorienting in its range: Egyptian temple stones, Rembrandt self-portraits, a full suit of samurai armor, an entire reconstructed American wing with a real 1805 Wall Street bank facade built into it. Few museums anywhere hold this much, this consistently well-regarded — it's one of the most reviewed art institutions in the world, and the crowds inside make clear why.
+You come up out of the subway on the Upper East Side and the museum announces itself before you even see the doors — the banners strung across the colonnaded Beaux-Arts facade, the crowds already pooling on the wide stone steps. The Metropolitan Museum of Art isn't just big, it's disorienting in its range: Egyptian temple stones, Rembrandt self-portraits, a full suit of samurai armor, an entire reconstructed American wing with a real 1805 Wall Street bank facade built into it.
+
+Few museums anywhere hold this much, this consistently well-regarded — it's one of the most reviewed art institutions in the world, and the crowds inside make clear why.
 
 ## Getting there
 
@@ -81,15 +83,23 @@ The Met sits at 1000 Fifth Avenue at 82nd Street, on the edge of Central Park. T
 
 ## What to see
 
-Don't try to cover the whole museum — nobody does it in a day, and trying is how people burn out by the second hour. Give yourself a spine to follow: the Egyptian wing's Temple of Dendur, with its glass wall looking onto Central Park, is a natural anchor and rarely disappoints even repeat visitors. From there, the European paintings galleries on the second floor hold the Vermeers, the Bruegels, and a run of Impressionist rooms that rival any museum in Europe. The arms and armor collection on the first floor, all polished steel and horse armor under high ceilings, tends to be the one gallery that gets kids and skeptical teenagers actually looking up. If you have any energy left, the rooftop garden (seasonal, generally spring through fall) gives you a skyline view over Central Park's treeline that's worth the elevator ride alone.
+Don't try to cover the whole museum — nobody does it in a day, and trying is how people burn out by the second hour. Give yourself a spine to follow: the Egyptian wing's Temple of Dendur, with its glass wall looking onto Central Park, is a natural anchor and rarely disappoints even repeat visitors. From there, the European paintings galleries on the second floor hold the Vermeers, the Bruegels, and a run of Impressionist rooms that rival any museum in Europe.
+
+The arms and armor collection on the first floor, all polished steel and horse armor under high ceilings, tends to be the one gallery that gets kids and skeptical teenagers actually looking up. If you have any energy left, the rooftop garden (seasonal, generally spring through fall) gives you a skyline view over Central Park's treeline that's worth the elevator ride alone.
 
 ## When to go
 
-The Met is closed Wednesdays — plan your week around that. Otherwise it's open 10am to 5pm most days, but Fridays and Saturdays it stays open until 9pm, which changes the whole visit: the crowds thin, the light through the Great Hall's windows goes gold, and you can walk the American Wing courtyard without shuffling around tour groups. Measured foot traffic confirms what regulars already know — the museum is calmest in the last hour before closing, 5pm to 6pm, on both weekdays and weekends. Weekends from noon to 7pm are the opposite: this is when the galleries fill hardest, especially around the special exhibitions, so if you're set on visiting Saturday or Sunday, arrive right at 10am or hold off until late afternoon.
+The Met is closed Wednesdays — plan your week around that. Otherwise it's open 10am to 5pm most days, but Fridays and Saturdays it stays open until 9pm, which changes the whole visit: the crowds thin, the light through the Great Hall's windows goes gold, and you can walk the American Wing courtyard without shuffling around tour groups. Measured foot traffic confirms what regulars already know — the museum is calmest in the last hour before closing, 5pm to 6pm, on both weekdays and weekends.
+
+Weekends from noon to 7pm are the opposite: this is when the galleries fill hardest, especially around the special exhibitions, so if you're set on visiting Saturday or Sunday, arrive right at 10am or hold off until late afternoon.
 
 ## How to visit like a local
 
-Buy your ticket online before you go — you still queue for security, but skipping the ticket line saves real time on a Saturday. The Met is genuinely one of the most visited museums on earth, so don't expect a quiet room at midday; the move is to go late, ideally that 5pm–6pm window on a Friday or Saturday night, when the evening hours mean you're not racing a 5pm closing bell. Coat check is free and worth using if you're carrying a bag, since large bags aren't allowed into galleries. Most locals treat the Met as a repeat destination rather than a once-through checklist — they pick a wing, spend an hour, and leave, rather than trying to power through every department in one visit. If you want the classic New York photo, sit on the front steps around sunset rather than fighting the midday crowd for space. And don't skip the map at the entrance: the building's layout is genuinely labyrinthine, with wings that don't connect the way you'd expect, and even people who've been a dozen times still get turned around near the Asian art galleries.
+Buy your ticket online before you go — you still queue for security, but skipping the ticket line saves real time on a Saturday. The Met is genuinely one of the most visited museums on earth, so don't expect a quiet room at midday; the move is to go late, ideally that 5pm–6pm window on a Friday or Saturday night, when the evening hours mean you're not racing a 5pm closing bell.
+
+Coat check is free and worth using if you're carrying a bag, since large bags aren't allowed into galleries. Most locals treat the Met as a repeat destination rather than a once-through checklist — they pick a wing, spend an hour, and leave, rather than trying to power through every department in one visit. If you want the classic New York photo, sit on the front steps around sunset rather than fighting the midday crowd for space.
+
+And don't skip the map at the entrance: the building's layout is genuinely labyrinthine, with wings that don't connect the way you'd expect, and even people who've been a dozen times still get turned around near the Asian art galleries.
 
 ## Good to know
 

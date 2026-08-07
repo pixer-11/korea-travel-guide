@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: incheon-songdo-central-park
-srcHash: 5b6835d8cab6
+srcHash: '3f7a2f457628'
 title: 松岛中央公园:仁川旅行指南
 description: 松岛中央公园(Songdo Central Park)是位于仁川松岛国际商务区(Songdo International Business District)内的一片40公顷绿地,公园围绕一条海水运河而建,游客可以在此乘坐水上出租车,也可以租脚踏船。
 quickAnswer: 松岛中央公园(Songdo Central Park)是位于仁川松岛国际商务区(Songdo International Business District)内的一片40公顷绿地,公园围绕一条海水运河而建,游客可以在此乘坐水上出租车,也可以租脚踏船。乘坐仁川地铁1号线到中央公园站(Central Park Station),从4号出口出站即可直接走进公园。安排1.5-2小时用于漫步游览,如果想骑车环游公园或在日落时分流连于天际线美景,则需要更多时间。

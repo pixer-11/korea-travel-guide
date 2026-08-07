@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: kuala-lumpur-post-malone-live-in-malaysia
-srcHash: dc1c2f71ba69
+srcHash: 'ab4042d4b7f8'
 title: 포스트 말론 말레이시아 공연 안내 (쿠알라룸푸르)
 description: 포스트 말론이 2026년 9월 27일, 월드투어의 일환으로 쿠알라룸푸르 TM 내셔널 스타디움(Stadium Nasional Bukit Jalil)에서 말레이시아 데뷔 공연을 펼칩니다.
 quickAnswer: 포스트 말론은 2026년 9월 27일, 월드투어의 일환으로 쿠알라룸푸르 TM 내셔널 스타디움(Stadium Nasional Bukit Jalil)에서 말레이시아 데뷔 공연을 갖습니다. 티켓, 게이트 오픈 시간, 오프닝 공연 등에 대해서는 아직 공식적으로 자세히 발표되지 않았으니, 항공권이나 숙소를 예약하기 전 반드시 프로모터의 공식 채널을 통해 모든 사항을 확인하세요. 쿠알라룸푸르에서 열리는 스타디움 공연은 대중교통과 인근 호텔이 매진되는 경우가 흔하므로, 부킷 잘릴(Bukit Jalil) 인근이나 LRT 노선을 따라 숙소를 서둘러 예약하는 것이 좋습니다.

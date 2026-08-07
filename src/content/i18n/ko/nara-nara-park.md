@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: nara-nara-park
-srcHash: '45153212e903'
+srcHash: 'd22a014fb685'
 title: 나라 공원(Nara Park) 여행 가이드
 description: 나라 공원은 나라 시내 중심부에 자리한 광활한 공원으로, 사람에게 절하는 것으로 유명한 1,000마리 이상의 자유롭게 노니는 사슴과 도다이지(Todai-ji)를 비롯해 공원 주변을 둘러싼 사찰들로 잘 알려져 있습니다.
 quickAnswer: 나라 공원은 나라 시내 중심부에 자리한 광활한 공원으로, 사람에게 절하는 것으로 유명한 1,000마리 이상의 자유롭게 노니는 사슴과 도다이지(Todai-ji), 가스가 타이샤(Kasuga Taisha), 고후쿠지(Kofuku-ji) 등 공원 주변을 둘러싼 사찰들로 잘 알려져 있습니다. 도보로 반나절에서 하루 정도 일정을 잡고, 약 200엔짜리 사슴 전병(시카 센베, shika senbei)을 한 다발 사서, 단체 관광객이 몰리기 전인 이른 아침에 방문하는 것이 좋습니다. 긴테츠 나라역(Kintetsu Nara Station)에서 도보 5분, 또는 JR 나라역(JR Nara Station)에서 약 20분 거리입니다.

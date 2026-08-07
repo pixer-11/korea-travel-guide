@@ -75,7 +75,9 @@ Wat Mahathat isn't just another crumbling temple in a city full of them — it w
 
 ## Getting there
 
-Wat Mahathat sits on Soi Chikun in Tambon Pratuchai, on Ayutthaya's historic island, directly across the road from Wat Ratchaburana — the two are often visited together since they face each other. If you're coming from Ayutthaya Railway Station, the temple is roughly a 15–20 minute tuk-tuk ride (crossing the river via Pridi Damrong Bridge) or about a 25-minute walk. Most travelers base themselves near Chao Phrom Market or Soi Farang, both within a 5–10 minute tuk-tuk of the site. Bicycles are a popular way to cover Wat Mahathat along with the other central ruins (Wat Phra Si Sanphet and Wat Ratchaburana are both within a 5-minute ride), since the historic park is largely flat and closed to heavy traffic in the core zone.
+Wat Mahathat sits on Soi Chikun in Tambon Pratuchai, on Ayutthaya's historic island, directly across the road from Wat Ratchaburana — the two are often visited together since they face each other. If you're coming from Ayutthaya Railway Station, the temple is roughly a 15–20 minute tuk-tuk ride (crossing the river via Pridi Damrong Bridge) or about a 25-minute walk.
+
+Most travelers base themselves near Chao Phrom Market or Soi Farang, both within a 5–10 minute tuk-tuk of the site. Bicycles are a popular way to cover Wat Mahathat along with the other central ruins (Wat Phra Si Sanphet and Wat Ratchaburana are both within a 5-minute ride), since the historic park is largely flat and closed to heavy traffic in the core zone.
 
 ## What to see
 

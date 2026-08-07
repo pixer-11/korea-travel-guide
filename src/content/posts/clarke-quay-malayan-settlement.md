@@ -81,11 +81,15 @@ Clarke Quay is best known for riverside clubs, chain restaurants, and tourist-pr
 
 ## Getting there
 
-The restaurant sits at 3 River Valley Road, Block B, #1-03, inside the Clarke Quay dining and entertainment complex on the north bank of the Singapore River. The closest station is Clarke Quay MRT (North East Line), and Exit E feeds directly into the Clarke Quay development, putting you within a five-minute walk of Block B. If you're coming from Fort Canning or Chinatown, it's an easy 10–15 minute walk along the riverside promenade, which is a pleasant approach in the early evening when the shophouse blocks light up. Taxis and ride-hailing drop-offs are straightforward along Merchant Road, right at the edge of the complex — useful if you're arriving in a group or after dinner elsewhere.
+The restaurant sits at 3 River Valley Road, Block B, #1-03, inside the Clarke Quay dining and entertainment complex on the north bank of the Singapore River. The closest station is Clarke Quay MRT (North East Line), and Exit E feeds directly into the Clarke Quay development, putting you within a five-minute walk of Block B. If you're coming from Fort Canning or Chinatown, it's an easy 10–15 minute walk along the riverside promenade, which is a pleasant approach in the early evening when the shophouse blocks light up.
+
+Taxis and ride-hailing drop-offs are straightforward along Merchant Road, right at the edge of the complex — useful if you're arriving in a group or after dinner elsewhere.
 
 ## What to eat
 
-The menu leans into hybridized dishes rather than a strict à la carte split between "Western" and "local." Expect items built around rendang-crusted proteins, sambal-laced sauces on grilled meats, and desserts that fold in gula melaka (palm sugar) and coconut in place of standard Western pastry syrups. Steaks and grilled mains are a signature category, often finished with a Peranakan-spiced butter or sauce rather than a classic pepper or mushroom sauce. For a first visit, order one grilled main, one pasta or rice-based dish to see the fusion approach applied differently, and a shared dessert — the kitchen's palm-sugar-forward sweets are usually the more distinctive choice over anything chocolate-based. Portions and pricing sit in the mid-to-upper range typical of a sit-down Clarke Quay restaurant, so it suits a proper dinner rather than a quick bite.
+The menu leans into hybridized dishes rather than a strict à la carte split between "Western" and "local." Expect items built around rendang-crusted proteins, sambal-laced sauces on grilled meats, and desserts that fold in gula melaka (palm sugar) and coconut in place of standard Western pastry syrups. Steaks and grilled mains are a signature category, often finished with a Peranakan-spiced butter or sauce rather than a classic pepper or mushroom sauce.
+
+For a first visit, order one grilled main, one pasta or rice-based dish to see the fusion approach applied differently, and a shared dessert — the kitchen's palm-sugar-forward sweets are usually the more distinctive choice over anything chocolate-based. Portions and pricing sit in the mid-to-upper range typical of a sit-down Clarke Quay restaurant, so it suits a proper dinner rather than a quick bite.
 
 ## When to go
 
@@ -93,7 +97,9 @@ Weeknight dinners, especially Tuesday through Thursday, tend to be calmer than t
 
 ## How to visit like a local
 
-Book ahead for weekend dinners — a restaurant with this review volume in a high-footfall precinct like Clarke Quay fills its evening slots fast, and walk-ins on Friday or Saturday night should expect a wait. If you'd rather skip the queue, an early weekday dinner is the move: arrive before 7pm and you'll likely be seated immediately. Payment is by card or mobile pay as with almost all Singapore restaurants of this caliber; tipping isn't customary since a service charge is typically added to the bill, so there's no need to tip extra on top. Dress is smart-casual — Clarke Quay's club-district reputation doesn't extend to this restaurant's dining room. The mistake most first-time visitors make is treating it like a quick pre-clubbing bite; the fusion dishes reward a slower, full-course visit, and rushing through means missing the more considered dessert and sauce work that reviewers consistently single out. Because it sits a block back from the river-facing strip, it's easy to walk past — worth deliberately seeking out Block B rather than assuming it's on the main promenade row.
+Book ahead for weekend dinners — a restaurant with this review volume in a high-footfall precinct like Clarke Quay fills its evening slots fast, and walk-ins on Friday or Saturday night should expect a wait. If you'd rather skip the queue, an early weekday dinner is the move: arrive before 7pm and you'll likely be seated immediately. Payment is by card or mobile pay as with almost all Singapore restaurants of this caliber; tipping isn't customary since a service charge is typically added to the bill, so there's no need to tip extra on top.
+
+Dress is smart-casual — Clarke Quay's club-district reputation doesn't extend to this restaurant's dining room. The mistake most first-time visitors make is treating it like a quick pre-clubbing bite; the fusion dishes reward a slower, full-course visit, and rushing through means missing the more considered dessert and sauce work that reviewers consistently single out. Because it sits a block back from the river-facing strip, it's easy to walk past — worth deliberately seeking out Block B rather than assuming it's on the main promenade row.
 
 ## Nearby to pair with your visit
 

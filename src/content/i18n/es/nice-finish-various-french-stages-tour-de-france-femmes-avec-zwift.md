@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
-srcHash: 7ee74a88d8fb
+srcHash: 'f4ea55b71f56'
 title: 'Tour de France Femmes avec Zwift: qué debes saber en Niza'
 description: La edición 2026 del Tour de France Femmes avec Zwift se disputa del 1 al 9 de agosto, con un Grand Départ en Lausana (Suiza), una etapa cima en el Mont Ventoux y la final en la Promenade des Anglais de Niza.
 quickAnswer: 'La edición 2026 del Tour de France Femmes avec Zwift se disputa del 1 al 9 de agosto, con un Grand Départ en Lausana (Suiza), una etapa cima en el Mont Ventoux y la final en la Promenade des Anglais de Niza. Verlo desde la carretera es gratis: puedes elegir una etapa de montaña (Ventoux) para más emoción y una espera más larga, o la llegada en Niza para una ventana de visionado más corta y festiva, con fácil acceso en transporte público. Confirma el recorrido etapa por etapa y la lista de participantes en la web oficial del Tour de France Femmes cerca de la fecha de la carrera, ya que los horarios exactos y los puntos de acceso al recorrido solo se publican unas semanas antes.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-El Tour de France Femmes avec Zwift se ha convertido rápidamente en uno de los eventos más destacados del calendario del ciclismo femenino, y la edición de 2026 (del 1 al 9 de agosto) es especialmente notable porque arranca fuera de Francia por completo —un Grand Départ en Lausana (Suiza)— antes de que el pelotón cruce a Francia para un recorrido construido en torno a dos momentos legendarios: una llegada en alto en el Mont Ventoux y una etapa final que termina en Niza, en la Côte d'Azur. Ver el Tour desde la carretera no cuesta nada más allá de desplazarte hasta el recorrido, y es uno de los pocos eventos deportivos de élite en los que los espectadores pueden estar a pocos metros de los atletas.
+El Tour de France Femmes avec Zwift se ha convertido rápidamente en uno de los eventos más destacados del calendario del ciclismo femenino, y la edición de 2026 (del 1 al 9 de agosto) es especialmente notable porque arranca fuera de Francia por completo —un Grand Départ en Lausana (Suiza)— antes de que el pelotón cruce a Francia para un recorrido construido en torno a dos momentos legendarios: una llegada en alto en el Mont Ventoux y una etapa final que termina en Niza, en la Côte d'Azur.
+
+Ver el Tour desde la carretera no cuesta nada más allá de desplazarte hasta el recorrido, y es uno de los pocos eventos deportivos de élite en los que los espectadores pueden estar a pocos metros de los atletas.
 
 ## Cómo llegar
 
-Niza es la base logísticamente más sencilla: el aeropuerto de Niza Côte d'Azur es el segundo más concurrido de Francia, con vuelos directos desde la mayoría de los grandes centros europeos, y el centro de la ciudad está conectado por una red de tranvía y autobús que llega a la Promenade des Anglais en minutos. Si quieres seguir la carrera en etapas francesas anteriores o en la llegada en alto del Ventoux, planifica en torno a Provenza: los nudos ferroviarios útiles más cercanos son Aviñón (Avignon) u Orange, y necesitarás autobuses locales o un coche de alquiler para llegar a la propia montaña, ya que las laderas del Ventoux (los accesos de Bédoin, Malaucène y Sault) no tienen acceso en tren. Para el Grand Départ de Lausana, el aeropuerto de Ginebra es la puerta internacional más cercana, con un tren directo a Lausana de menos de una hora.
+Niza es la base logísticamente más sencilla: el aeropuerto de Niza Côte d'Azur es el segundo más concurrido de Francia, con vuelos directos desde la mayoría de los grandes centros europeos, y el centro de la ciudad está conectado por una red de tranvía y autobús que llega a la Promenade des Anglais en minutos. Si quieres seguir la carrera en etapas francesas anteriores o en la llegada en alto del Ventoux, planifica en torno a Provenza: los nudos ferroviarios útiles más cercanos son Aviñón (Avignon) u Orange, y necesitarás autobuses locales o un coche de alquiler para llegar a la propia montaña, ya que las laderas del Ventoux (los accesos de Bédoin, Malaucène y Sault) no tienen acceso en tren.
+
+Para el Grand Départ de Lausana, el aeropuerto de Ginebra es la puerta internacional más cercana, con un tren directo a Lausana de menos de una hora.
 
 ## Qué ver (y cómo verlo)
 
@@ -35,7 +39,9 @@ Niza es la base logísticamente más sencilla: el aeropuerto de Niza Côte d'Azu
 
 ## Cuándo ir
 
-A principios de agosto, el sur de Francia sufre el calor del verano, especialmente en el interior, alrededor del Ventoux y el valle del Ródano: espera días de más de 30 °C (86 °F), así que quienes vayan a ver una etapa de montaña deben tratarlo como una excursión: protección solar, mucha agua y calzado resistente para caminar desde las zonas de aparcamiento, ya que las carreteras se cierran al tráfico bastante antes de que lleguen los corredores. Niza en agosto es cálida pero suavizada por la brisa marina, y es temporada alta de turismo en la Riviera, así que reserva alojamiento con bastante antelación y espera tarifas más altas de verano.
+A principios de agosto, el sur de Francia sufre el calor del verano, especialmente en el interior, alrededor del Ventoux y el valle del Ródano: espera días de más de 30 °C (86 °F), así que quienes vayan a ver una etapa de montaña deben tratarlo como una excursión: protección solar, mucha agua y calzado resistente para caminar desde las zonas de aparcamiento, ya que las carreteras se cierran al tráfico bastante antes de que lleguen los corredores.
+
+Niza en agosto es cálida pero suavizada por la brisa marina, y es temporada alta de turismo en la Riviera, así que reserva alojamiento con bastante antelación y espera tarifas más altas de verano.
 
 ## Alrededores y consejos
 

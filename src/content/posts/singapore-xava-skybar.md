@@ -27,15 +27,21 @@ draft: true
 
 ## Why go
 
-You come up out of the lift and the first thing that hits you is the openness — no low ceiling, no glass box hemming you in, just 7,000 square feet of rooftop stretched out under the Marina Bay sky. The National Gallery Singapore, a pair of restored former colonial civic buildings — the old Supreme Court and City Hall — has always been one of the city's great architectural set pieces, all neoclassical columns and a dome you can spot from across the water. Xava Skybar sits on top of that history, which is part of what makes it feel different from the dozen other rooftop bars competing for your attention in this city: you're drinking a cocktail on a building that's been part of Singapore's civic life for more than a century, with the shard-like towers of Marina Bay Sands and the CBD skyline arranged in front of you like they were built for the photo.
+You come up out of the lift and the first thing that hits you is the openness — no low ceiling, no glass box hemming you in, just 7,000 square feet of rooftop stretched out under the Marina Bay sky. The National Gallery Singapore, a pair of restored former colonial civic buildings — the old Supreme Court and City Hall — has always been one of the city's great architectural set pieces, all neoclassical columns and a dome you can spot from across the water.
+
+Xava Skybar sits on top of that history, which is part of what makes it feel different from the dozen other rooftop bars competing for your attention in this city: you're drinking a cocktail on a building that's been part of Singapore's civic life for more than a century, with the shard-like towers of Marina Bay Sands and the CBD skyline arranged in front of you like they were built for the photo.
 
 ## What to expect
 
-Xava opened its doors on August 1, 2026, so at the time of writing it's one of the newest names on Singapore's rooftop scene. The layout splits between indoor seating — useful when the tropical humidity or an afternoon downpour rolls through — and alfresco tables and lounge seating open to the night air. The kitchen leans international rather than strictly Singaporean, with dishes like Wagyu Tataki signaling a menu built for sharing plates and slow-sipped drinks rather than a full sit-down dinner. The cocktail list is built around signature creations rather than standard classics, so come ready to ask your server what they'd pour for you rather than ordering off habit.
+Xava opened its doors on August 1, 2026, so at the time of writing it's one of the newest names on Singapore's rooftop scene. The layout splits between indoor seating — useful when the tropical humidity or an afternoon downpour rolls through — and alfresco tables and lounge seating open to the night air. The kitchen leans international rather than strictly Singaporean, with dishes like Wagyu Tataki signaling a menu built for sharing plates and slow-sipped drinks rather than a full sit-down dinner.
+
+The cocktail list is built around signature creations rather than standard classics, so come ready to ask your server what they'd pour for you rather than ordering off habit.
 
 ## Getting there
 
-The rooftop sits directly above the National Gallery Singapore, in the Civic District, an easy walk from City Hall MRT station (served by both the North-South and East-West lines) and from Raffles Place. The surrounding blocks are dense with reasons to make an afternoon of it before you go up: the Padang across the road, St Andrew's Cathedral, and the Esplanade waterfront a short stroll further east. Because the bar is inside a national museum building, expect the same kind of security and access procedures you'd find entering any major gallery — factor in a few extra minutes compared with a standalone bar you can walk straight into off the street.
+The rooftop sits directly above the National Gallery Singapore, in the Civic District, an easy walk from City Hall MRT station (served by both the North-South and East-West lines) and from Raffles Place. The surrounding blocks are dense with reasons to make an afternoon of it before you go up: the Padang across the road, St Andrew's Cathedral, and the Esplanade waterfront a short stroll further east.
+
+Because the bar is inside a national museum building, expect the same kind of security and access procedures you'd find entering any major gallery — factor in a few extra minutes compared with a standalone bar you can walk straight into off the street.
 
 ## When to go
 
@@ -43,7 +49,11 @@ This is a sunset bar by design — the entire draw is the unobstructed sightline
 
 ## How to visit like a local
 
-Reserve a table rather than walking in — a new rooftop with this kind of view and this address is going to draw both tourists doing the Marina Bay circuit and Singaporeans curious to check out the latest opening, and window seats will be the first to go. Dress smart-casual: this sits atop a national gallery in the Civic District, not a beach bar, and staff and other guests will be dressed accordingly. Payment across Singapore's bar scene is overwhelmingly cashless now — tap-to-pay cards and mobile wallets are the norm, and a service charge is typically already added to your bill, so there's no need to calculate a separate tip on top unless you want to. The mistake first-timers make at rooftop bars like this is treating it purely as a photo stop and rushing through — budget at least 90 minutes to actually eat something and let the view change as the light drops, rather than snapping a shot of the skyline and leaving. If you're mainly there for the view rather than dinner, ask about arriving slightly ahead of the dinner rush so you can claim a rail-side spot before the after-work crowd fills in.
+Reserve a table rather than walking in — a new rooftop with this kind of view and this address is going to draw both tourists doing the Marina Bay circuit and Singaporeans curious to check out the latest opening, and window seats will be the first to go. Dress smart-casual: this sits atop a national gallery in the Civic District, not a beach bar, and staff and other guests will be dressed accordingly.
+
+Payment across Singapore's bar scene is overwhelmingly cashless now — tap-to-pay cards and mobile wallets are the norm, and a service charge is typically already added to your bill, so there's no need to calculate a separate tip on top unless you want to. The mistake first-timers make at rooftop bars like this is treating it purely as a photo stop and rushing through — budget at least 90 minutes to actually eat something and let the view change as the light drops, rather than snapping a shot of the skyline and leaving.
+
+If you're mainly there for the view rather than dinner, ask about arriving slightly ahead of the dinner rush so you can claim a rail-side spot before the after-work crowd fills in.
 
 ## Nearby to combine with your visit
 

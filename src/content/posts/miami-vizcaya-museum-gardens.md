@@ -61,22 +61,32 @@ draft: false
 
 ## Why go
 
-Vizcaya is one of the few places in Miami where you can walk through an intact Gilded Age estate rather than a reconstruction. Built between 1914 and 1922 as the winter residence of agricultural-industrialist James Deering (of International Harvester money), the mansion blends Italian Renaissance, Baroque, and Rococo styles with a Mediterranean Revival exterior that helped define South Florida's architectural identity for the century that followed. The 4.7-star rating from more than 16,000 visitors isn't hype — the combination of an ornate historic house, ten acres of formal gardens, and a limestone grotto complex facing directly onto Biscayne Bay is genuinely unusual for a U.S. city.
+Vizcaya is one of the few places in Miami where you can walk through an intact Gilded Age estate rather than a reconstruction. Built between 1914 and 1922 as the winter residence of agricultural-industrialist James Deering (of International Harvester money), the mansion blends Italian Renaissance, Baroque, and Rococo styles with a Mediterranean Revival exterior that helped define South Florida's architectural identity for the century that followed.
+
+The 4.7-star rating from more than 16,000 visitors isn't hype — the combination of an ornate historic house, ten acres of formal gardens, and a limestone grotto complex facing directly onto Biscayne Bay is genuinely unusual for a U.S. city.
 
 ## Getting there
 
-The address is 3251 S Miami Ave, just south of downtown Miami and Brickell, on the edge of the Coconut Grove and Roads neighborhoods. The most useful public transit option is Metrorail's Vizcaya Station on the Orange/Green Line — exit and walk roughly 5 to 10 minutes east toward the bay to reach the entrance. Metromover doesn't reach this far south, so Metrorail is your best rail option. If driving, there's an on-site pay parking lot off South Miami Avenue; it fills up on weekends and during graduation-photo season (spring), so arrive early. Rideshare drop-off is straightforward at the main gate on South Miami Avenue.
+The address is 3251 S Miami Ave, just south of downtown Miami and Brickell, on the edge of the Coconut Grove and Roads neighborhoods. The most useful public transit option is Metrorail's Vizcaya Station on the Orange/Green Line — exit and walk roughly 5 to 10 minutes east toward the bay to reach the entrance. Metromover doesn't reach this far south, so Metrorail is your best rail option.
+
+If driving, there's an on-site pay parking lot off South Miami Avenue; it fills up on weekends and during graduation-photo season (spring), so arrive early. Rideshare drop-off is straightforward at the main gate on South Miami Avenue.
 
 ## What to see
 
 Start in the main house, where furnished rooms — the Renaissance Hall, the Tea Room opening onto the bay, and Deering's library — show off imported European antiques, tapestries, and ceilings shipped over from Italian and French villas. The rear terrace is the postcard shot: a stone breakwater shaped like a ship's bow (the "barge") sits just offshore in Biscayne Bay, originally built to break waves before the house's causeway existed.
 
-Behind the house, the formal gardens are laid out with clipped hedges, fountains, and statuary in a style modeled on 17th-century Italian and French gardens, unusual for a subtropical setting — designer Diego Suarez adapted European garden geometry to Florida's limestone bedrock and native hardwood hammock. Don't skip the grotto, a shaded, coral-rock cave-like structure near the Casba (a former garage/lodging building) that was used as a swimming pool for Deering's guests, decorated with faux stalactites, shells, and mosaic tile. The Mound, a small artificial hill with a gazebo, offers a good overview shot of the garden's symmetry. The Village, across South Miami Avenue, holds the original estate workshops and outbuildings and is included in general admission.
+Behind the house, the formal gardens are laid out with clipped hedges, fountains, and statuary in a style modeled on 17th-century Italian and French gardens, unusual for a subtropical setting — designer Diego Suarez adapted European garden geometry to Florida's limestone bedrock and native hardwood hammock. Don't skip the grotto, a shaded, coral-rock cave-like structure near the Casba (a former garage/lodging building) that was used as a swimming pool for Deering's guests, decorated with faux stalactites, shells, and mosaic tile.
+
+The Mound, a small artificial hill with a gazebo, offers a good overview shot of the garden's symmetry. The Village, across South Miami Avenue, holds the original estate workshops and outbuildings and is included in general admission.
 
 ## When to go
 
-Plan for 2 to 3 hours to see both the house interior and gardens without rushing. South Florida's dry season, roughly November through April, brings lower humidity and is the most comfortable time to walk the outdoor grounds; summer (June–September) is hot, prone to sudden afternoon thunderstorms, and more mosquito-prone near the grotto and hammock areas. Weekday mornings, shortly after opening, are noticeably quieter than weekends and holidays, when the estate is popular for both tourists and local photo shoots (quinceañeras, engagements, graduations). Vizcaya sells timed-entry tickets online, and given the volume of reviews and visitors, booking a day or two ahead is worth doing, especially around winter holidays.
+Plan for 2 to 3 hours to see both the house interior and gardens without rushing. South Florida's dry season, roughly November through April, brings lower humidity and is the most comfortable time to walk the outdoor grounds; summer (June–September) is hot, prone to sudden afternoon thunderstorms, and more mosquito-prone near the grotto and hammock areas. Weekday mornings, shortly after opening, are noticeably quieter than weekends and holidays, when the estate is popular for both tourists and local photo shoots (quinceañeras, engagements, graduations).
+
+Vizcaya sells timed-entry tickets online, and given the volume of reviews and visitors, booking a day or two ahead is worth doing, especially around winter holidays.
 
 ## Nearby & tips
 
-The neighborhood invites a longer visit: Coconut Grove's shops and restaurants are a short drive or rideshare north, and Brickell's skyline and waterfront are just minutes away by car or Metrorail. Wear real shoes — garden paths are gravel and stone, and the grotto floor can be damp and uneven. Interior photography rules can vary, and flash is often restricted to protect antique textiles and finishes, so check current signage. Confirm official hours, ticket prices, and any seasonal closures (the estate periodically closes sections for hurricane repair or conservation work) on Vizcaya's own site before visiting, since these details shift year to year.
+The neighborhood invites a longer visit: Coconut Grove's shops and restaurants are a short drive or rideshare north, and Brickell's skyline and waterfront are just minutes away by car or Metrorail. Wear real shoes — garden paths are gravel and stone, and the grotto floor can be damp and uneven. Interior photography rules can vary, and flash is often restricted to protect antique textiles and finishes, so check current signage.
+
+Confirm official hours, ticket prices, and any seasonal closures (the estate periodically closes sections for hurricane repair or conservation work) on Vizcaya's own site before visiting, since these details shift year to year.

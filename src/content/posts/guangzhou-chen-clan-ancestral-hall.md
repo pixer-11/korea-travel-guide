@@ -47,15 +47,21 @@ You come up out of the metro stairwell already inside the experience — Chen Cl
 
 ## Why this place, not another temple
 
-Guangzhou has plenty of temples, but the Chen Clan Ancestral Hall isn't really a temple in the worship sense — it was built in 1894 as a shuyuan, a combined ancestral shrine and academy, funded jointly by 72 branches of the Chen surname from across Guangdong so their sons would have a place to study, sit exams, and lodge while doing so. That collective, clan-pooled origin is why the decoration is so dense and so competitive-feeling: each family wanted its section to outdo the next. The result, nine halls and six courtyards linked by covered corridors, is now protected as a national cultural relic and run as the Guangdong Folk Art Museum, with rotating exhibits of ivory carving, embroidery, and shadow puppetry tucked into the side halls.
+Guangzhou has plenty of temples, but the Chen Clan Ancestral Hall isn't really a temple in the worship sense — it was built in 1894 as a shuyuan, a combined ancestral shrine and academy, funded jointly by 72 branches of the Chen surname from across Guangdong so their sons would have a place to study, sit exams, and lodge while doing so.
+
+That collective, clan-pooled origin is why the decoration is so dense and so competitive-feeling: each family wanted its section to outdo the next. The result, nine halls and six courtyards linked by covered corridors, is now protected as a national cultural relic and run as the Guangdong Folk Art Museum, with rotating exhibits of ivory carving, embroidery, and shadow puppetry tucked into the side halls.
 
 ## What actually stops you in your tracks
 
-It's the roof. Ridge after ridge is loaded with Shiwan ceramic figurines — opera scenes, dragons, phoenixes, whole crowded tableaux fired in the nearby Shiwan kilns and set up in continuous strips along the eaves. From the main courtyard you can tilt your head back and pick out individual characters mid-gesture, glazed in mustard yellow, cobalt, and a green that's gone slightly matte with age. At ground level the craftsmanship keeps going: wood-carved screens so deep-cut they read almost as sculpture, grey-brick relief panels of birds and blossoms let into the walls, and iron-cast balustrades that were unusually modern touches for the 1890s. Look for the lime-mortar mouldings above doorways too — a decorative technique specific to this region that most first-time visitors walk straight past.
+It's the roof. Ridge after ridge is loaded with Shiwan ceramic figurines — opera scenes, dragons, phoenixes, whole crowded tableaux fired in the nearby Shiwan kilns and set up in continuous strips along the eaves. From the main courtyard you can tilt your head back and pick out individual characters mid-gesture, glazed in mustard yellow, cobalt, and a green that's gone slightly matte with age.
+
+At ground level the craftsmanship keeps going: wood-carved screens so deep-cut they read almost as sculpture, grey-brick relief panels of birds and blossoms let into the walls, and iron-cast balustrades that were unusually modern touches for the 1890s. Look for the lime-mortar mouldings above doorways too — a decorative technique specific to this region that most first-time visitors walk straight past.
 
 ## Getting there and timing your visit
 
-Take Metro Line 1 to Chen Clan Academy Station (陈家祠站) — the entrance is essentially at street level from the station exit, a couple of minutes' walk. The full address is on Zhongshan Qi/Ba Road in Liwan District, and staff or ticket-counter signage will confirm current hours and admission on the day, since these can shift seasonally — worth a quick check before you go rather than assuming. Plan on 90 minutes to two hours if you want to actually read the exhibit labels in the side halls rather than just photograph the roofline.
+Take Metro Line 1 to Chen Clan Academy Station (陈家祠站) — the entrance is essentially at street level from the station exit, a couple of minutes' walk. The full address is on Zhongshan Qi/Ba Road in Liwan District, and staff or ticket-counter signage will confirm current hours and admission on the day, since these can shift seasonally — worth a quick check before you go rather than assuming.
+
+Plan on 90 minutes to two hours if you want to actually read the exhibit labels in the side halls rather than just photograph the roofline.
 
 ## Beyond the hall itself
 
@@ -63,5 +69,7 @@ Liwan is one of Guangzhou's older, lower-rise districts, and the streets around 
 
 ## How to visit like a local
 
-Go early on a weekday — this is a well-known stop on the Guangzhou circuit, popular with both domestic tour groups and school trips, so the courtyards fill up fast by mid-morning and stay busy through the afternoon, especially on weekends. Arriving close to opening buys you a window of relative calm before the group tours arrive, and the light in the main courtyard is better for photographing the roof carvings before the sun gets high and flat. Buy your ticket at the counter or via the venue's official channel rather than from touts near the entrance — there's no need for a middleman here. Most locals treat this as a half-morning outing rather than an all-day museum crawl, then move on to lunch in one of the noodle or congee shops nearby rather than eating on-site. Etiquette is simple: keep voices down in the exhibit halls, don't touch the carved screens or lattice work no matter how tempting the texture looks, and expect to remove hats for photos in front of the main hall if a docent asks — a small courtesy that keeps the sightlines clear for everyone else.
+Go early on a weekday — this is a well-known stop on the Guangzhou circuit, popular with both domestic tour groups and school trips, so the courtyards fill up fast by mid-morning and stay busy through the afternoon, especially on weekends. Arriving close to opening buys you a window of relative calm before the group tours arrive, and the light in the main courtyard is better for photographing the roof carvings before the sun gets high and flat.
+
+Buy your ticket at the counter or via the venue's official channel rather than from touts near the entrance — there's no need for a middleman here. Most locals treat this as a half-morning outing rather than an all-day museum crawl, then move on to lunch in one of the noodle or congee shops nearby rather than eating on-site. Etiquette is simple: keep voices down in the exhibit halls, don't touch the carved screens or lattice work no matter how tempting the texture looks, and expect to remove hats for photos in front of the main hall if a docent asks — a small courtesy that keeps the sightlines clear for everyone else.
 

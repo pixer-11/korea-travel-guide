@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-mini-siam
-srcHash: d619bee09522
+srcHash: 'f65357e09274'
 title: 'Mini Siam: Guía de viaje de Pattaya'
 description: Mini Siam es un parque de miniaturas en Sukhumvit Road, en el extremo norte de Pattaya, que exhibe réplicas a escala de monumentos tailandeses (como Wat Arun y el Gran Palacio) y de monumentos del mundo (la Torre Eiffel, el Big Ben, Angkor Wat) distribuidas por terrenos abiertos.
 quickAnswer: Mini Siam es un parque de miniaturas en Sukhumvit Road, en el extremo norte de Pattaya, que exhibe réplicas a escala de monumentos tailandeses (como Wat Arun y el Gran Palacio) y de monumentos del mundo (la Torre Eiffel, el Big Ben, Angkor Wat) distribuidas por terrenos abiertos. Calcula entre 1,5 y 2 horas, ve a última hora de la tarde y comienzo del anochecer para aprovechar tanto las fotos con luz de día como el encendido de las luces, y combínalo con otras paradas del norte de Pattaya, ya que queda alejado de la franja de playa.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Mini Siam es una de las atracciones temáticas más antiguas de Pattaya, construida bajo la idea de recorrer Tailandia y el mundo en una sola tarde sin salir de la provincia de Chon Buri. El parque se divide en dos zonas: "Siam", con réplicas a escala de las estructuras más reconocibles de Tailandia (Wat Arun, el Gran Palacio, el Monumento a la Democracia de Bangkok, el Parque Histórico de Phimai y los karsts de piedra caliza del sur de Tailandia), y una sección internacional con íconos como la Torre Eiffel, el Tower Bridge, el Big Ben, la Ópera de Sídney, Angkor Wat y la Estatua de la Libertad. Es un museo al aire libre tranquilo y fácil de recorrer a pie, que atrae especialmente a familias con niños, a entusiastas de las maquetas y la arquitectura, y a cualquiera que busque una escapada sencilla de medio día lejos de la playa. Con una calificación de 4.2 en casi 8,000 reseñas, es una parada bien establecida y no una trampa turística improvisada.
+Mini Siam es una de las atracciones temáticas más antiguas de Pattaya, construida bajo la idea de recorrer Tailandia y el mundo en una sola tarde sin salir de la provincia de Chon Buri. El parque se divide en dos zonas: "Siam", con réplicas a escala de las estructuras más reconocibles de Tailandia (Wat Arun, el Gran Palacio, el Monumento a la Democracia de Bangkok, el Parque Histórico de Phimai y los karsts de piedra caliza del sur de Tailandia), y una sección internacional con íconos como la Torre Eiffel, el Tower Bridge, el Big Ben, la Ópera de Sídney, Angkor Wat y la Estatua de la Libertad.
+
+Es un museo al aire libre tranquilo y fácil de recorrer a pie, que atrae especialmente a familias con niños, a entusiastas de las maquetas y la arquitectura, y a cualquiera que busque una escapada sencilla de medio día lejos de la playa. Con una calificación de 4.2 en casi 8,000 reseñas, es una parada bien establecida y no una trampa turística improvisada.
 
 ## Cómo llegar
 
@@ -45,8 +47,12 @@ El parque también cuenta con una cafetería en el propio recinto donde puedes h
 
 ## Cuándo ir
 
-El clima de Tailandia hace que el momento del día importe más que en un museo bajo techo. Las mañanas (antes de las 11 am) son más frescas para caminar, pero muchos visitantes prefieren llegar a **última hora de la tarde**, alrededor de las 4-5 pm, para fotografiar las maquetas con luz natural y luego quedarse mientras se encienden las luces al anochecer, que iluminan varias de las réplicas después del atardecer y cambian bastante el ambiente. Los días de semana son más tranquilos que los fines de semana y los feriados nacionales tailandeses, cuando los grupos turísticos locales aumentan la afluencia. La temporada más fresca (de noviembre a febrero) es, en general, el momento más agradable para visitar Pattaya, aunque Mini Siam funciona todo el año.
+El clima de Tailandia hace que el momento del día importe más que en un museo bajo techo. Las mañanas (antes de las 11 am) son más frescas para caminar, pero muchos visitantes prefieren llegar a **última hora de la tarde**, alrededor de las 4-5 pm, para fotografiar las maquetas con luz natural y luego quedarse mientras se encienden las luces al anochecer, que iluminan varias de las réplicas después del atardecer y cambian bastante el ambiente.
+
+Los días de semana son más tranquilos que los fines de semana y los feriados nacionales tailandeses, cuando los grupos turísticos locales aumentan la afluencia. La temporada más fresca (de noviembre a febrero) es, en general, el momento más agradable para visitar Pattaya, aunque Mini Siam funciona todo el año.
 
 ## Cerca de allí y consejos
 
-Como Mini Siam se encuentra en el tramo norte de Sukhumvit Road, combina bien con otras atracciones del norte de Pattaya en lugar de con los sitios frente a la playa; revisa qué más hay en ese mismo corredor vial antes de reservar el transporte, para poder combinar paradas en un solo viaje en taxi y evitar regresar sobre tus pasos por el tráfico del centro. Lleva billetes pequeños por si haces alguna compra adicional en el lugar, y verifica los horarios de apertura y los precios de entrada vigentes al llegar o a través de fuentes oficiales, ya que estos datos se revisan periódicamente.
+Como Mini Siam se encuentra en el tramo norte de Sukhumvit Road, combina bien con otras atracciones del norte de Pattaya en lugar de con los sitios frente a la playa; revisa qué más hay en ese mismo corredor vial antes de reservar el transporte, para poder combinar paradas en un solo viaje en taxi y evitar regresar sobre tus pasos por el tráfico del centro.
+
+Lleva billetes pequeños por si haces alguna compra adicional en el lugar, y verifica los horarios de apertura y los precios de entrada vigentes al llegar o a través de fuentes oficiales, ya que estos datos se revisan periódicamente.

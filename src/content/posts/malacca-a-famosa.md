@@ -52,15 +52,21 @@ draft: false
 
 ## Why go
 
-What's left of A Famosa is modest — a single stone gate, weathered and pitted, propped up with buttresses and shaded by rain trees — but it's the last visible fragment of one of Southeast Asia's most fought-over fortresses. The Portuguese built the original fort in 1511 after conquering the Malacca Sultanate, the Dutch took it in 1641, and the British nearly demolished the whole thing in the early 1800s; only intervention from Stamford Raffles saved this gatehouse, Porta de Santiago, from total destruction. Standing in front of it, you're looking at five centuries of colonial history compressed into one crumbling archway, with laterite blocks and coral stone still visible where later repairs patched the original structure.
+What's left of A Famosa is modest — a single stone gate, weathered and pitted, propped up with buttresses and shaded by rain trees — but it's the last visible fragment of one of Southeast Asia's most fought-over fortresses. The Portuguese built the original fort in 1511 after conquering the Malacca Sultanate, the Dutch took it in 1641, and the British nearly demolished the whole thing in the early 1800s; only intervention from Stamford Raffles saved this gatehouse, Porta de Santiago, from total destruction.
+
+Standing in front of it, you're looking at five centuries of colonial history compressed into one crumbling archway, with laterite blocks and coral stone still visible where later repairs patched the original structure.
 
 ## Getting there
 
-A Famosa sits on Jalan Kota in Banda Hilir, Melaka's compact historic core, directly below St Paul's Hill. If you're staying in the Jonker Street / Chinatown area, it's a flat 15-20 minute walk along the Malacca River. From Melaka Sentral bus terminal, a Grab ride or local taxi takes about 15 minutes; there's no train station in central Melaka, so most visitors arrive by bus from Kuala Lumpur (roughly 2-2.5 hours) and get around the old town on foot. Parking near the site is limited and fills quickly, so if you're driving, aim for the paid lots near Dataran Pahlawan mall and walk the last stretch.
+A Famosa sits on Jalan Kota in Banda Hilir, Melaka's compact historic core, directly below St Paul's Hill. If you're staying in the Jonker Street / Chinatown area, it's a flat 15-20 minute walk along the Malacca River. From Melaka Sentral bus terminal, a Grab ride or local taxi takes about 15 minutes; there's no train station in central Melaka, so most visitors arrive by bus from Kuala Lumpur (roughly 2-2.5 hours) and get around the old town on foot.
+
+Parking near the site is limited and fills quickly, so if you're driving, aim for the paid lots near Dataran Pahlawan mall and walk the last stretch.
 
 ## What to see
 
-The gate itself takes only a few minutes to admire — look for the Latin inscriptions and coats of arms still legible on the stonework, and the niche that once held a statue of St James. From there, climb the steps directly behind it up St Paul's Hill to St Paul's Church, a roofless 16th-century chapel with tombstones lining the interior walls and views over the Straits of Malacca and the modern port. At the base of the hill you'll find the Stadthuys, the salmon-red Dutch colonial town hall, and Christ Church a few steps further, both easy to combine into the same visit. The Melaka Sultanate Palace replica and the Proclamation of Independence Memorial are also within a short walk, making this cluster the densest concentration of historic sights in the city.
+The gate itself takes only a few minutes to admire — look for the Latin inscriptions and coats of arms still legible on the stonework, and the niche that once held a statue of St James. From there, climb the steps directly behind it up St Paul's Hill to St Paul's Church, a roofless 16th-century chapel with tombstones lining the interior walls and views over the Straits of Malacca and the modern port.
+
+At the base of the hill you'll find the Stadthuys, the salmon-red Dutch colonial town hall, and Christ Church a few steps further, both easy to combine into the same visit. The Melaka Sultanate Palace replica and the Proclamation of Independence Memorial are also within a short walk, making this cluster the densest concentration of historic sights in the city.
 
 ## When to go
 
@@ -68,7 +74,11 @@ Melaka's heat builds fast once the sun is up, so mornings before 10am or the cou
 
 ## How to visit like a local
 
-Given how heavily trafficked this site is, the smartest move is timing, not secrecy — there's nothing under-the-radar about A Famosa, and treating it as a "hidden find" would be misleading. Arrive right as the area opens up for the day, before the tour buses from Kuala Lumpur and Singapore roll in, or come back after 5pm when the light softens and the site empties out. There's no entry fee or ticket booth at the gate itself, since it's an open-air ruin you can walk straight up to, so there's nothing to book in advance — just budget for parking or your Grab fare. Wear real shoes rather than sandals for the uneven laterite steps up St Paul's Hill, and carry water; there's little shade once you're climbing. Locals and guides alike will tell you the biggest mistake visitors make is snapping a photo of the gate and leaving — the real reward is the ten-minute climb behind it, where the hilltop church and harbour view put the fort's original strategic purpose into context. Cash is still handy for the small snack and drink stalls that set up near the base of the hill, though most shops and cafés in Banda Hilir now take cards or e-wallets.
+Given how heavily trafficked this site is, the smartest move is timing, not secrecy — there's nothing under-the-radar about A Famosa, and treating it as a "hidden find" would be misleading. Arrive right as the area opens up for the day, before the tour buses from Kuala Lumpur and Singapore roll in, or come back after 5pm when the light softens and the site empties out.
+
+There's no entry fee or ticket booth at the gate itself, since it's an open-air ruin you can walk straight up to, so there's nothing to book in advance — just budget for parking or your Grab fare. Wear real shoes rather than sandals for the uneven laterite steps up St Paul's Hill, and carry water; there's little shade once you're climbing.
+
+Locals and guides alike will tell you the biggest mistake visitors make is snapping a photo of the gate and leaving — the real reward is the ten-minute climb behind it, where the hilltop church and harbour view put the fort's original strategic purpose into context. Cash is still handy for the small snack and drink stalls that set up near the base of the hill, though most shops and cafés in Banda Hilir now take cards or e-wallets.
 
 ## Nearby to combine
 

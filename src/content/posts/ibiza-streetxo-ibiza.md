@@ -51,11 +51,15 @@ draft: true
 
 ## Why StreetXO Ibiza Matters
 
-Dabiz Muñoz is one of the most decorated chefs working today — his Madrid flagship DiverXO has repeatedly placed among the World's 50 Best Restaurants and holds multiple Michelin stars. StreetXO is his more theatrical, lower-barrier concept: a loud, kinetic take on global street food filtered through fine-dining technique, built around an open kitchen and a central bar where diners watch dishes assembled in real time rather than sitting at quiet, spaced-out tables. Bringing that format to Ibiza for the summer season, housed inside The Unexpected Ibiza Hotel, is a notable arrival for an island whose dining scene is usually dominated by beach clubs and sunset-view restaurants rather than chef-driven concept spaces. For visitors who track the World's 50 Best ecosystem or have eaten at StreetXO's Madrid or London branches, this is a chance to see the format transplanted into an island context.
+Dabiz Muñoz is one of the most decorated chefs working today — his Madrid flagship DiverXO has repeatedly placed among the World's 50 Best Restaurants and holds multiple Michelin stars. StreetXO is his more theatrical, lower-barrier concept: a loud, kinetic take on global street food filtered through fine-dining technique, built around an open kitchen and a central bar where diners watch dishes assembled in real time rather than sitting at quiet, spaced-out tables.
+
+Bringing that format to Ibiza for the summer season, housed inside The Unexpected Ibiza Hotel, is a notable arrival for an island whose dining scene is usually dominated by beach clubs and sunset-view restaurants rather than chef-driven concept spaces. For visitors who track the World's 50 Best ecosystem or have eaten at StreetXO's Madrid or London branches, this is a chance to see the format transplanted into an island context.
 
 ## What Makes It Stand Out
 
-The defining feature of StreetXO as a format is the central bar wrapped around an open kitchen — the point is spectacle as much as food, with chefs plating and finishing dishes in view of guests seated around the counter. The menu philosophy (based on the brand's other locations) leans into fusing street food traditions — think Asian, Latin American, and Mediterranean influences — with the precision and unexpected flavor combinations Muñoz is known for at DiverXO. Because this is a newly opened, seasonal iteration, treat any specific dish names or prices you see online as provisional; confirm the current menu directly with the restaurant or hotel before building your night around a particular item.
+The defining feature of StreetXO as a format is the central bar wrapped around an open kitchen — the point is spectacle as much as food, with chefs plating and finishing dishes in view of guests seated around the counter. The menu philosophy (based on the brand's other locations) leans into fusing street food traditions — think Asian, Latin American, and Mediterranean influences — with the precision and unexpected flavor combinations Muñoz is known for at DiverXO.
+
+Because this is a newly opened, seasonal iteration, treat any specific dish names or prices you see online as provisional; confirm the current menu directly with the restaurant or hotel before building your night around a particular item.
 
 ## Where It Is and Getting There
 
@@ -63,7 +67,9 @@ StreetXO Ibiza is located inside The Unexpected Ibiza Hotel. As with most higher
 
 ## When to Go and How to Book
 
-This is described as a summer concept, meaning it's tied to Ibiza's high season (roughly May/June through September/October, when most seasonal restaurants, beach clubs, and hotel-based venues on the island operate). Given Muñoz's profile and the buzz around DiverXO, expect demand to be high and tables to move fast once word spreads — reserve as early as your travel dates allow rather than assuming walk-in availability. Because opening hours, days of operation, and reservation systems for a brand-new seasonal launch can change quickly in the first months, call or check the hotel's official channels close to your visit date rather than relying on early press coverage.
+This is described as a summer concept, meaning it's tied to Ibiza's high season (roughly May/June through September/October, when most seasonal restaurants, beach clubs, and hotel-based venues on the island operate). Given Muñoz's profile and the buzz around DiverXO, expect demand to be high and tables to move fast once word spreads — reserve as early as your travel dates allow rather than assuming walk-in availability.
+
+Because opening hours, days of operation, and reservation systems for a brand-new seasonal launch can change quickly in the first months, call or check the hotel's official channels close to your visit date rather than relying on early press coverage.
 
 ## Tips for Visiting
 

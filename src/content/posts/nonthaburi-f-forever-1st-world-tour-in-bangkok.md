@@ -74,15 +74,23 @@ IMPACT Arena is part of the wider IMPACT Muang Thong Thani complex in Nonthaburi
 
 ## Getting there from Bangkok
 
-The most reliable route from central Bangkok is a taxi or ride-hailing app (Grab is widely used in Thailand) directly to IMPACT Arena — expect the ride to take anywhere from 30 minutes to well over an hour depending on traffic and which part of the city you start from. On concert nights, traffic around Muang Thong Thani backs up significantly, so budget extra time rather than cutting it close. Some visitors combine a BTS or MRT ride toward the northern edge of the city with a taxi for the final stretch, since Nonthaburi itself isn't directly served by a rail line into the IMPACT complex. Whatever you choose, treat the last leg as the slow part of your journey and start moving well before doors are due to open.
+The most reliable route from central Bangkok is a taxi or ride-hailing app (Grab is widely used in Thailand) directly to IMPACT Arena — expect the ride to take anywhere from 30 minutes to well over an hour depending on traffic and which part of the city you start from. On concert nights, traffic around Muang Thong Thani backs up significantly, so budget extra time rather than cutting it close.
+
+Some visitors combine a BTS or MRT ride toward the northern edge of the city with a taxi for the final stretch, since Nonthaburi itself isn't directly served by a rail line into the IMPACT complex. Whatever you choose, treat the last leg as the slow part of your journey and start moving well before doors are due to open.
 
 ## What to expect inside
 
-Two nights at this scale typically means a full staging production — a proper indoor arena setup with tiered seating and a stadium sound system, not a stripped-down showcase. Expect setlists built around the nostalgia of F4's soundtrack era layered with newer material, and — given Ashin's involvement — likely a segment or duet that blends Mayday's catalogue into the mix. None of the setlist, ticket tiers, or exact doors/show times are confirmed publicly in detail, so don't plan your evening around assumptions; check the official tour announcement and IMPACT Arena's own event page close to the date for the confirmed schedule.
+Two nights at this scale typically means a full staging production — a proper indoor arena setup with tiered seating and a stadium sound system, not a stripped-down showcase. Expect setlists built around the nostalgia of F4's soundtrack era layered with newer material, and — given Ashin's involvement — likely a segment or duet that blends Mayday's catalogue into the mix.
+
+None of the setlist, ticket tiers, or exact doors/show times are confirmed publicly in detail, so don't plan your evening around assumptions; check the official tour announcement and IMPACT Arena's own event page close to the date for the confirmed schedule.
 
 ## How to visit like a local
 
-Thai concertgoers at IMPACT Arena tend to arrive well ahead of doors — think an hour or more early — both to deal with security lines and to grab merchandise before it queues out. Follow that pattern rather than arriving right at showtime. Payment at the venue and for merch is increasingly cashless — PromptPay QR and cards are widely accepted in Bangkok generally — but it's still sensible to carry some Thai baht in cash as backup, since merch lines move faster for people who aren't fumbling with a foreign card reader. Tipping isn't expected at ticketed events like this. The single biggest mistake international fans make is underestimating the distance and traffic between central Bangkok and Nonthaburi — this isn't a five-minute cab ride, so build in the buffer. If you want the calmest arrival, aim for the early end of the "well ahead of doors" window rather than the last twenty minutes, when taxi queues around the complex peak alongside everyone else's last-minute rush. Officially licensed tour merchandise and any pre-show fan events, if announced, will be posted through the promoter's own social channels, so follow those directly rather than relying on resale sites for tickets or add-ons.
+Thai concertgoers at IMPACT Arena tend to arrive well ahead of doors — think an hour or more early — both to deal with security lines and to grab merchandise before it queues out. Follow that pattern rather than arriving right at showtime. Payment at the venue and for merch is increasingly cashless — PromptPay QR and cards are widely accepted in Bangkok generally — but it's still sensible to carry some Thai baht in cash as backup, since merch lines move faster for people who aren't fumbling with a foreign card reader.
+
+Tipping isn't expected at ticketed events like this. The single biggest mistake international fans make is underestimating the distance and traffic between central Bangkok and Nonthaburi — this isn't a five-minute cab ride, so build in the buffer. If you want the calmest arrival, aim for the early end of the "well ahead of doors" window rather than the last twenty minutes, when taxi queues around the complex peak alongside everyone else's last-minute rush.
+
+Officially licensed tour merchandise and any pre-show fan events, if announced, will be posted through the promoter's own social channels, so follow those directly rather than relying on resale sites for tickets or add-ons.
 
 ## Before you book
 

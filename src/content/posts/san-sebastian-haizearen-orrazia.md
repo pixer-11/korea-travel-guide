@@ -57,25 +57,35 @@ draft: true
 
 ## Why go
 
-You feel the change before you see it. Walking west along Ondarreta, the manicured promenade — joggers, prams, ice-cream cones — starts to thin out, the buildings give way to bare cliff, and the wind, funneled between Monte Igueldo and the open Atlantic, suddenly has real weight behind it. That's the point. Eduardo Chillida placed his three rust-red iron claws exactly where the sea narrows and the swell piles up against the rocks, so the sculptures don't just sit in the landscape — they seem to be wrestling with it. Two are anchored just offshore, half-submerged, and one is bolted into the paved lookout itself. On a rough day, spray comes right up over the railing and soaks the metal dark.
+You feel the change before you see it. Walking west along Ondarreta, the manicured promenade — joggers, prams, ice-cream cones — starts to thin out, the buildings give way to bare cliff, and the wind, funneled between Monte Igueldo and the open Atlantic, suddenly has real weight behind it. That's the point. Eduardo Chillida placed his three rust-red iron claws exactly where the sea narrows and the swell piles up against the rocks, so the sculptures don't just sit in the landscape — they seem to be wrestling with it.
+
+Two are anchored just offshore, half-submerged, and one is bolted into the paved lookout itself. On a rough day, spray comes right up over the railing and soaks the metal dark.
 
 Chillida, San Sebastián's most famous sculptor, finished the piece in 1977 after roughly a decade of planning with an engineer to make sure the forms could survive the Atlantic. It's since become one of the most photographed things in the city — genuinely one of the most-visited and most-reviewed sights in San Sebastián, so don't expect to have it to yourself in high season.
 
 ## Getting there
 
-The sculpture stands right at Eduardo Chillida Pasealekua, at the western tip of Ondarreta beach, below the funicular station for Monte Igueldo. The simplest approach is on foot: from the Old Town or La Concha, follow the seafront promenade the entire way — it's a flat, scenic walk of roughly 30–40 minutes from the city center, passing the Miramar Palace gardens and the length of Ondarreta beach. If you'd rather not walk both ways, city buses running along the seafront (lines heading toward Ondarreta/Igueldo) will drop you within a few minutes' walk, and there's limited street parking nearby, though it fills up fast on weekends. Many visitors combine the walk with a ride up the Monte Igueldo funicular, whose base station is a two-minute stroll away.
+The sculpture stands right at Eduardo Chillida Pasealekua, at the western tip of Ondarreta beach, below the funicular station for Monte Igueldo. The simplest approach is on foot: from the Old Town or La Concha, follow the seafront promenade the entire way — it's a flat, scenic walk of roughly 30–40 minutes from the city center, passing the Miramar Palace gardens and the length of Ondarreta beach.
+
+If you'd rather not walk both ways, city buses running along the seafront (lines heading toward Ondarreta/Igueldo) will drop you within a few minutes' walk, and there's limited street parking nearby, though it fills up fast on weekends. Many visitors combine the walk with a ride up the Monte Igueldo funicular, whose base station is a two-minute stroll away.
 
 ## What you'll actually see
 
-Up close, the claw-like forms are bigger and rougher than photos suggest — thick, riveted iron plates, pitted and streaked with rust, deliberately left to weather rather than polished. The two seaward pieces sit on rock outcrops and are partly swallowed by waves at high tide; the third, set into the stone plaza, has become an informal bench and photo perch. There's no ticket booth, no signage beyond a small plaque, no gift shop — just the paved lookout, a curved stone wall that doubles as seating, and the open Atlantic stretching to the horizon. Low winter light or an incoming storm suits the piece far better than a flat blue-sky noon; the drama Chillida built into the ironwork needs weather to read properly.
+Up close, the claw-like forms are bigger and rougher than photos suggest — thick, riveted iron plates, pitted and streaked with rust, deliberately left to weather rather than polished. The two seaward pieces sit on rock outcrops and are partly swallowed by waves at high tide; the third, set into the stone plaza, has become an informal bench and photo perch.
+
+There's no ticket booth, no signage beyond a small plaque, no gift shop — just the paved lookout, a curved stone wall that doubles as seating, and the open Atlantic stretching to the horizon. Low winter light or an incoming storm suits the piece far better than a flat blue-sky noon; the drama Chillida built into the ironwork needs weather to read properly.
 
 ## When to go
 
-Because it's an open-air public sculpture with no gate, it's accessible 24 hours a day, every day of the week — there's genuinely no wrong hour by the rules, only a wrong hour by the crowds. Sunrise and the hour before sunset are the calmest and most photogenic, with soft raking light on the rust-colored iron and far fewer people in your shot. Midday in summer, especially weekends, brings tour groups walking the promenade from La Concha, so the little viewing plaza can feel genuinely packed. Storm season (autumn through winter) is when the sculpture earns its reputation, with waves breaking dramatically over the rocks — just stay behind the railings, as the swell here is stronger than it looks.
+Because it's an open-air public sculpture with no gate, it's accessible 24 hours a day, every day of the week — there's genuinely no wrong hour by the rules, only a wrong hour by the crowds. Sunrise and the hour before sunset are the calmest and most photogenic, with soft raking light on the rust-colored iron and far fewer people in your shot.
+
+Midday in summer, especially weekends, brings tour groups walking the promenade from La Concha, so the little viewing plaza can feel genuinely packed. Storm season (autumn through winter) is when the sculpture earns its reputation, with waves breaking dramatically over the rocks — just stay behind the railings, as the swell here is stronger than it looks.
 
 ## How to visit like a local
 
-Treat it as a stop on a walk, not a destination in itself — locals pass it on the way to or from a swim at Ondarreta, a coffee, or the funicular, rather than making a special trip. There's nothing to pay and nothing to book; it's simply there, so the only real strategy is timing your arrival to dodge the tour-bus hours around midday. Skip the crowded railing directly in front and walk a little further along the rocks for a quieter angle. Locals call it by its Basque name, Haizearen Orrazia, or the Spanish El Peine del Viento — either works if you're asking for directions. The mistake most first-timers make is treating this as a quick photo op and turning straight back: the better move is to keep going a few more minutes toward the base of Monte Igueldo, where the crowd thins out and the coastal views open up further.
+Treat it as a stop on a walk, not a destination in itself — locals pass it on the way to or from a swim at Ondarreta, a coffee, or the funicular, rather than making a special trip. There's nothing to pay and nothing to book; it's simply there, so the only real strategy is timing your arrival to dodge the tour-bus hours around midday.
+
+Skip the crowded railing directly in front and walk a little further along the rocks for a quieter angle. Locals call it by its Basque name, Haizearen Orrazia, or the Spanish El Peine del Viento — either works if you're asking for directions. The mistake most first-timers make is treating this as a quick photo op and turning straight back: the better move is to keep going a few more minutes toward the base of Monte Igueldo, where the crowd thins out and the coastal views open up further.
 
 ## Nearby
 

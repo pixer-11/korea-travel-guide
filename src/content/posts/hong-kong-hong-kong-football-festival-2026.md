@@ -33,19 +33,27 @@ eventRecurring: true
 
 ## Why this event matters
 
-Pre-season friendlies in Asia aren't new, but this one is different because of the venue. The Hong Kong Football Festival 2026 (July 31–August 5) is one of the first major sporting spectacles to be staged at the new Kai Tak Stadium, built on the site of the old Kai Tak Airport in Kowloon East. The festival brings together four of European football's biggest names — Manchester City, Inter Milan, Chelsea FC and Juventus — for two exhibition matches over the week-long window. For Hong Kong, this is as much about showcasing its new 50,000-seat national stadium to the world as it is about the football itself, so expect the trip to double as a first look at a genuinely new piece of civic infrastructure rather than just another summer friendly.
+Pre-season friendlies in Asia aren't new, but this one is different because of the venue. The Hong Kong Football Festival 2026 (July 31–August 5) is one of the first major sporting spectacles to be staged at the new Kai Tak Stadium, built on the site of the old Kai Tak Airport in Kowloon East. The festival brings together four of European football's biggest names — Manchester City, Inter Milan, Chelsea FC and Juventus — for two exhibition matches over the week-long window.
+
+For Hong Kong, this is as much about showcasing its new 50,000-seat national stadium to the world as it is about the football itself, so expect the trip to double as a first look at a genuinely new piece of civic infrastructure rather than just another summer friendly.
 
 ## Getting there and getting around
 
-Kai Tak Stadium sits within the larger Kai Tak Sports Park development in Kowloon East, on the former runway site jutting into Kowloon Bay. The area is served by Kai Tak MTR station on the Tuen Ma line, which was purpose-built with the sports park in mind — plan to exit toward the sports park rather than the residential side of the development, and follow stadium signage once above ground. If arriving from Hong Kong Island or Tsim Sha Tsui, budget extra time: match-day crowds funneling through a single new station can back up quickly, and additional shuttle bus services are typically laid on for events of this scale. Taxis and ride-hailing will face the same road congestion around Kowloon Bay and Prince Edward Road East, so the MTR is the more predictable option on match days.
+Kai Tak Stadium sits within the larger Kai Tak Sports Park development in Kowloon East, on the former runway site jutting into Kowloon Bay. The area is served by Kai Tak MTR station on the Tuen Ma line, which was purpose-built with the sports park in mind — plan to exit toward the sports park rather than the residential side of the development, and follow stadium signage once above ground.
+
+If arriving from Hong Kong Island or Tsim Sha Tsui, budget extra time: match-day crowds funneling through a single new station can back up quickly, and additional shuttle bus services are typically laid on for events of this scale. Taxis and ride-hailing will face the same road congestion around Kowloon Bay and Prince Edward Road East, so the MTR is the more predictable option on match days.
 
 ## What to expect at the festival
 
-With only two matches confirmed across a five-day window, the festival format likely mixes marquee games with surrounding activities — fan zones, autograph or meet-and-greet sessions, and retail pop-ups are typical for events pairing top European clubs with Asian tour stops, though the festival's official schedule should be checked for what's actually confirmed for 2026. Given the mix of Manchester City, Chelsea, Inter Milan and Juventus, expect the two fixtures to be cross-club pairings rather than a round-robin, so check which teams play which day before booking travel around a specific club's fixture. Arrive well before kickoff — new stadiums often have first-year teething issues with entry gates and bag checks, and Kai Tak's scale means longer walks from concourse to seat than older Hong Kong venues like Mong Kok Stadium.
+With only two matches confirmed across a five-day window, the festival format likely mixes marquee games with surrounding activities — fan zones, autograph or meet-and-greet sessions, and retail pop-ups are typical for events pairing top European clubs with Asian tour stops, though the festival's official schedule should be checked for what's actually confirmed for 2026. Given the mix of Manchester City, Chelsea, Inter Milan and Juventus, expect the two fixtures to be cross-club pairings rather than a round-robin, so check which teams play which day before booking travel around a specific club's fixture.
+
+Arrive well before kickoff — new stadiums often have first-year teething issues with entry gates and bag checks, and Kai Tak's scale means longer walks from concourse to seat than older Hong Kong venues like Mong Kok Stadium.
 
 ## When to go and what to pack
 
-Late July and early August is peak subtropical summer in Hong Kong: expect high heat, humidity, and a real chance of afternoon thunderstorms or a tropical cyclone warning, which can affect outdoor events. Kai Tak Stadium has a retractable roof and cooling systems designed partly to address this, but transport to and from the venue is still outdoors, so light, breathable clothing, a collapsible umbrella, and a refillable water bottle are worth carrying. This is also a period when Hong Kong sees strong inbound tourism for summer sales and festivals, so hotel rates in Kowloon and on Hong Kong Island tend to rise — booking accommodation well ahead of July 2026 is advisable.
+Late July and early August is peak subtropical summer in Hong Kong: expect high heat, humidity, and a real chance of afternoon thunderstorms or a tropical cyclone warning, which can affect outdoor events. Kai Tak Stadium has a retractable roof and cooling systems designed partly to address this, but transport to and from the venue is still outdoors, so light, breathable clothing, a collapsible umbrella, and a refillable water bottle are worth carrying.
+
+This is also a period when Hong Kong sees strong inbound tourism for summer sales and festivals, so hotel rates in Kowloon and on Hong Kong Island tend to rise — booking accommodation well ahead of July 2026 is advisable.
 
 ## Nearby and practical tips
 

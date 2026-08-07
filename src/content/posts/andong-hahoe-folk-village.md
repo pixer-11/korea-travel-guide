@@ -67,11 +67,15 @@ draft: false
 
 ## Why go
 
-Hahoe ("river turning back") sits inside a near-360-degree loop of the Nakdong River, a natural moat that has kept the village physically isolated for over 600 years. It's a UNESCO World Heritage Site (inscribed in 2010 alongside Yangdong Village) and, unlike many restored "folk villages" in Korea, this one is genuinely lived in — descendants of the Pungsan Ryu clan still occupy many of the tile-roofed hanok and thatched farmhouses. The village is inseparable from Korea's mask-dance heritage: the Hahoe Byeolsingut Talnori (a shamanistic mask dance drama) originated here, and the wooden Hahoe masks are recognized as National Treasures.
+Hahoe ("river turning back") sits inside a near-360-degree loop of the Nakdong River, a natural moat that has kept the village physically isolated for over 600 years. It's a UNESCO World Heritage Site (inscribed in 2010 alongside Yangdong Village) and, unlike many restored "folk villages" in Korea, this one is genuinely lived in — descendants of the Pungsan Ryu clan still occupy many of the tile-roofed hanok and thatched farmhouses.
+
+The village is inseparable from Korea's mask-dance heritage: the Hahoe Byeolsingut Talnori (a shamanistic mask dance drama) originated here, and the wooden Hahoe masks are recognized as National Treasures.
 
 ## Getting there
 
-Hahoe Folk Village is at 186 Jeonseo-ro, Pungcheon-myeon, about 24 km west of downtown Andong. From Andong Bus Terminal or Andong Station, city bus 46 runs directly to the village several times a day; the ride takes roughly 40-50 minutes. A taxi from central Andong takes about 30 minutes. If arriving from Seoul, the KTX to Andong Station followed by the local bus or a taxi is the most common route; there's no direct rail line into the village itself. Once at the entrance area, cars and buses stop at a visitor center, and you transfer to a short shuttle bus (included in most ticket combos) that carries you the final stretch into the village core, since private vehicles aren't allowed inside.
+Hahoe Folk Village is at 186 Jeonseo-ro, Pungcheon-myeon, about 24 km west of downtown Andong. From Andong Bus Terminal or Andong Station, city bus 46 runs directly to the village several times a day; the ride takes roughly 40-50 minutes. A taxi from central Andong takes about 30 minutes. If arriving from Seoul, the KTX to Andong Station followed by the local bus or a taxi is the most common route; there's no direct rail line into the village itself.
+
+Once at the entrance area, cars and buses stop at a visitor center, and you transfer to a short shuttle bus (included in most ticket combos) that carries you the final stretch into the village core, since private vehicles aren't allowed inside.
 
 ## What to see and do
 

@@ -61,19 +61,27 @@ draft: false
 
 ## Why go
 
-You walk in off 3rd Street and the ceiling just keeps climbing — SFMOMA's atrium is one of those spaces that resets your sense of scale before you've seen a single painting. This is one of the largest modern art museums in the country, seven floors wrapped around that central void, and the collection backs up the architecture: Diebenkorn's California light, Rothko color fields, a deep well of Bay Area photography (Adams, Arbus, Sherman), plus rotating installations that spill out onto the outdoor sculpture terrace. With well over 16,000 visitor reviews and a rating that consistently sits near the top of the scale, it's not an insider pick — it's the city's flagship art museum, and it draws accordingly.
+You walk in off 3rd Street and the ceiling just keeps climbing — SFMOMA's atrium is one of those spaces that resets your sense of scale before you've seen a single painting. This is one of the largest modern art museums in the country, seven floors wrapped around that central void, and the collection backs up the architecture: Diebenkorn's California light, Rothko color fields, a deep well of Bay Area photography (Adams, Arbus, Sherman), plus rotating installations that spill out onto the outdoor sculpture terrace.
+
+With well over 16,000 visitor reviews and a rating that consistently sits near the top of the scale, it's not an insider pick — it's the city's flagship art museum, and it draws accordingly.
 
 ## Getting there
 
-The address is 151 3rd Street, in SoMa, wedged between Yerba Buena Gardens and the Moscone Center. Powell Street BART and Muni Metro station is about a five-minute walk; if you're coming from the Embarcadero or Financial District, the Montgomery Street station is a similarly short walk. Multiple Muni bus lines run along Mission and Market streets a block or two away. Driving in is workable but pricey — SoMa parking garages fill fast when there's a Moscone Center event, so check the calendar before you commit to a car. If you're museum-hopping, it's a flat 10-minute walk to the Contemporary Jewish Museum and Yerba Buena Center for the Arts, making this stretch of SoMa a natural half-day cluster.
+The address is 151 3rd Street, in SoMa, wedged between Yerba Buena Gardens and the Moscone Center. Powell Street BART and Muni Metro station is about a five-minute walk; if you're coming from the Embarcadero or Financial District, the Montgomery Street station is a similarly short walk. Multiple Muni bus lines run along Mission and Market streets a block or two away.
+
+Driving in is workable but pricey — SoMa parking garages fill fast when there's a Moscone Center event, so check the calendar before you commit to a car. If you're museum-hopping, it's a flat 10-minute walk to the Contemporary Jewish Museum and Yerba Buena Center for the Arts, making this stretch of SoMa a natural half-day cluster.
 
 ## What to see and do inside
 
-Start high and work down, or vice versa — there's no single "correct" route, but the top floors tend to hold the special exhibitions while the second floor anchors the permanent painting and sculpture collection. Give the photography galleries real time; SFMOMA's holdings here are deep and less crowded than the marquee painting rooms. The Botta rotunda staircase (the museum's original 1995 core, now folded into the 2016 Snøhetta expansion) is worth pausing on for the striped skylight alone. Outside, the living wall on the third-floor terrace is one of the largest of its kind in a museum setting and makes a good breather between galleries. Budget two to three hours for a decent pass through the highlights, closer to four if you're a slow-and-thorough gallery walker.
+Start high and work down, or vice versa — there's no single "correct" route, but the top floors tend to hold the special exhibitions while the second floor anchors the permanent painting and sculpture collection. Give the photography galleries real time; SFMOMA's holdings here are deep and less crowded than the marquee painting rooms. The Botta rotunda staircase (the museum's original 1995 core, now folded into the 2016 Snøhetta expansion) is worth pausing on for the striped skylight alone.
+
+Outside, the living wall on the third-floor terrace is one of the largest of its kind in a museum setting and makes a good breather between galleries. Budget two to three hours for a decent pass through the highlights, closer to four if you're a slow-and-thorough gallery walker.
 
 ## When to go
 
-The measured foot-traffic pattern here is consistent and useful: weekends get heaviest between 11am and 5pm, so if a weekend visit is your only option, book your entry for opening or push it later in the day. Both weekdays and weekends quiet down noticeably between 5pm and 6pm — that's the calm window if the museum's hours that day extend into early evening, and it's the best time to see the atrium and top-floor galleries without threading through tour groups. Because opening hours and any late-evening days shift seasonally and the museum does close on select days, confirm the current schedule on SFMOMA's own site before you plan around a specific hour.
+The measured foot-traffic pattern here is consistent and useful: weekends get heaviest between 11am and 5pm, so if a weekend visit is your only option, book your entry for opening or push it later in the day. Both weekdays and weekends quiet down noticeably between 5pm and 6pm — that's the calm window if the museum's hours that day extend into early evening, and it's the best time to see the atrium and top-floor galleries without threading through tour groups.
+
+Because opening hours and any late-evening days shift seasonally and the museum does close on select days, confirm the current schedule on SFMOMA's own site before you plan around a specific hour.
 
 ## Practical tips for your visit
 
@@ -81,4 +89,6 @@ Tickets are timed-entry during busy periods, so buying online ahead of a weekend
 
 ## How to visit like a local
 
-Locals treat SFMOMA as a late-afternoon stop rather than a morning-first errand — arriving after the tour buses and school groups have cycled through means you get the 5pm–6pm lull the crowd data confirms on both weekdays and weekends. Payment is entirely card/mobile-friendly, from ticket kiosks to the café, so there's no need to carry cash. Membership is popular among regular visitors since it includes unlimited free entry and skips the timed-ticket line entirely — if you think you'll return within a year, it can pay for itself fast. The etiquette mistake most first-timers make is rushing the second floor to get to the "famous" special exhibition upstairs; slow down there, since it holds the strongest run of the permanent collection. And don't skip the sculpture terrace just because it's outdoors — it's one of the few spots in the building where you can sit, breathe, and look back at the atrium from a completely different angle.
+Locals treat SFMOMA as a late-afternoon stop rather than a morning-first errand — arriving after the tour buses and school groups have cycled through means you get the 5pm–6pm lull the crowd data confirms on both weekdays and weekends. Payment is entirely card/mobile-friendly, from ticket kiosks to the café, so there's no need to carry cash. Membership is popular among regular visitors since it includes unlimited free entry and skips the timed-ticket line entirely — if you think you'll return within a year, it can pay for itself fast.
+
+The etiquette mistake most first-timers make is rushing the second floor to get to the "famous" special exhibition upstairs; slow down there, since it holds the strongest run of the permanent collection. And don't skip the sculpture terrace just because it's outdoors — it's one of the few spots in the building where you can sit, breathe, and look back at the atrium from a completely different angle.

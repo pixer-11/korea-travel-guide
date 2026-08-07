@@ -63,7 +63,9 @@ Most visitors base themselves in Naha, and it's easy to spend a whole trip shutt
 
 ## Getting there
 
-Okinawa World sits at Maekawa-1336, Tamagusuku, Nanjo, in the south of the main island, roughly 30–40 minutes by car or taxi from central Naha and about 15 minutes from Naha Airport by expressway once you're clear of city traffic. There's no train service in this part of Okinawa — the island's monorail (Yui Rail) doesn't reach Nanjo — so most independent travelers rent a car, which also lets you continue on to the Nanjo coastline afterward. If you don't want to drive, Okinawa Bus and several sightseeing shuttle services run routes from Naha bus terminal and from major resort hotels; a package tour bus is the simplest option if you're not renting a car for the whole trip. On-site parking is ample, since the park is built around a highway-adjacent complex designed for bus and car arrivals.
+Okinawa World sits at Maekawa-1336, Tamagusuku, Nanjo, in the south of the main island, roughly 30–40 minutes by car or taxi from central Naha and about 15 minutes from Naha Airport by expressway once you're clear of city traffic. There's no train service in this part of Okinawa — the island's monorail (Yui Rail) doesn't reach Nanjo — so most independent travelers rent a car, which also lets you continue on to the Nanjo coastline afterward.
+
+If you don't want to drive, Okinawa Bus and several sightseeing shuttle services run routes from Naha bus terminal and from major resort hotels; a package tour bus is the simplest option if you're not renting a car for the whole trip. On-site parking is ample, since the park is built around a highway-adjacent complex designed for bus and car arrivals.
 
 ## What to see and do
 

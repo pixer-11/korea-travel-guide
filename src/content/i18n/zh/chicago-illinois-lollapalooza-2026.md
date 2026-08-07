@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chicago-illinois-lollapalooza-2026
-srcHash: 'df082ee10cbd'
+srcHash: '1885922699f2'
 title: 2026年芝加哥Lollapalooza音乐节指南
 description: 2026年Lollapalooza音乐节将于7月30日至8月2日在芝加哥格兰特公园（Grant Park）举行，压轴阵容包括Charli XCX、Lorde和Doja Cat。
 quickAnswer: 2026年Lollapalooza音乐节将于7月30日至8月2日在芝加哥格兰特公园（Grant Park）举行，压轴阵容包括Charli XCX、Lorde和Doja Cat。请务必只通过Lollapalooza官方网站或App购票并查看每届的演出时间表，因为入场口位置、开放时间和阵容安排每年都会变化。建议住在环线区（the Loop）或南环线区（South Loop）附近，这样可以步行或乘坐CTA前往格兰特公园，而不必开车。
@@ -28,7 +28,9 @@ Lollapalooza是美国少数几个至今仍在大都市市中心核心地带举�
 
 ## 场内体验
 
-Lollapalooza通常会在公园的湖滨草坪上设置多个舞台，各类音乐风格交织编排，你可能在前往摇滚或嘻哈压轴演出的路上，就会经过house和电子音乐的帐篷区。往届音乐节设有现场艺术装置、品牌互动展位、面向家庭观众的Kidzapalooza专区，以及精心策划的美食街区，既有芝加哥本地摊位，也有全国连锁品牌——无需离开场地就能尝到深盘披萨（deep-dish pizza）、意式牛肉三明治（Italian beef）或本地咖啡。公园内通常设有多处饮水补给站，考虑到七月末芝加哥的炎热潮湿天气，善用这些补给站十分必要。行李规定（大型美国音乐节通行的透明包规定）以及违禁物品清单每年都会调整，请以你所参加那一届在Lollapalooza官网上公布的信息为准。
+Lollapalooza通常会在公园的湖滨草坪上设置多个舞台，各类音乐风格交织编排，你可能在前往摇滚或嘻哈压轴演出的路上，就会经过house和电子音乐的帐篷区。往届音乐节设有现场艺术装置、品牌互动展位、面向家庭观众的Kidzapalooza专区，以及精心策划的美食街区，既有芝加哥本地摊位，也有全国连锁品牌——无需离开场地就能尝到深盘披萨（deep-dish pizza）、意式牛肉三明治（Italian beef）或本地咖啡。
+
+公园内通常设有多处饮水补给站，考虑到七月末芝加哥的炎热潮湿天气，善用这些补给站十分必要。行李规定（大型美国音乐节通行的透明包规定）以及违禁物品清单每年都会调整，请以你所参加那一届在Lollapalooza官网上公布的信息为准。
 
 ## 何时前往、停留多久
 
@@ -36,4 +38,6 @@ Lollapalooza通常会在公园的湖滨草坪上设置多个舞台，各类音�
 
 ## 周边景点与实用建议
 
-格兰特公园步行可达芝加哥艺术学院（Art Institute of Chicago）、千禧公园（Millennium Park，云门雕塑"The Bean"所在地）以及Museum Campus（菲尔德自然历史博物馆Field Museum、谢德水族馆Shedd Aquarium、阿德勒天文馆Adler Planetarium）——这些都值得安排在音乐节前后的行程中。南环线区和西环线区（West Loop）有不少营业到深夜的餐厅，适合压轴演出结束后前往。公园附近及环线区内的酒店在七月这段日期通常会提前订满，如果你是从芝加哥以外前来，尽早预订会更有保障。由于阵容、票价档次、场地细节和开放时间都可能发生变化，请以Lollapalooza官方网站和App作为确认日期、价格及入场安排的唯一权威信息来源，再最终确定你的出行计划。
+格兰特公园步行可达芝加哥艺术学院（Art Institute of Chicago）、千禧公园（Millennium Park，云门雕塑"The Bean"所在地）以及Museum Campus（菲尔德自然历史博物馆Field Museum、谢德水族馆Shedd Aquarium、阿德勒天文馆Adler Planetarium）——这些都值得安排在音乐节前后的行程中。南环线区和西环线区（West Loop）有不少营业到深夜的餐厅，适合压轴演出结束后前往。公园附近及环线区内的酒店在七月这段日期通常会提前订满，如果你是从芝加哥以外前来，尽早预订会更有保障。
+
+由于阵容、票价档次、场地细节和开放时间都可能发生变化，请以Lollapalooza官方网站和App作为确认日期、价格及入场安排的唯一权威信息来源，再最终确定你的出行计划。

@@ -70,23 +70,35 @@ draft: false
 
 ## Why go
 
-You hear the fountain before you see it. Rome's streets around Piazza di Trevi are narrow, sound bounces oddly off the stone, and then you turn a corner and the roar of falling water hits you all at once, echoing off a wall of travertine three storeys high. Nicola Salvi's design, finished in 1762 after his death, backs directly onto the Palazzo Poli, so the whole facade reads like a stage set — Neptune driving a shell-chariot pulled by sea horses, tritons straining against the current, water crashing down artificial rock into a pool the size of a small piazza. It's fed by the Acqua Vergine, an aqueduct route that's been delivering water into Rome since ancient times, which is part of why the fountain sits where it does, at the terminus of that ancient line.
+You hear the fountain before you see it. Rome's streets around Piazza di Trevi are narrow, sound bounces oddly off the stone, and then you turn a corner and the roar of falling water hits you all at once, echoing off a wall of travertine three storeys high. Nicola Salvi's design, finished in 1762 after his death, backs directly onto the Palazzo Poli, so the whole facade reads like a stage set — Neptune driving a shell-chariot pulled by sea horses, tritons straining against the current, water crashing down artificial rock into a pool the size of a small piazza.
+
+It's fed by the Acqua Vergine, an aqueduct route that's been delivering water into Rome since ancient times, which is part of why the fountain sits where it does, at the terminus of that ancient line.
 
 ## Getting there
 
-The fountain is tucked in the Quirinale/Trevi district, walkable from most of central Rome. The nearest metro stop is Barberini on Line A, about a 10-minute walk downhill. Spanish Steps station, also Line A, works almost as well and lets you thread through the shopping streets on the way. If you're coming by bus, several lines stop along Via del Tritone, one street over — from there you just follow the crowd noise and the signs pointing down the side alley into the piazza. There's no vehicle access into the square itself; the surrounding streets are pedestrian lanes barely wide enough for two people to pass.
+The fountain is tucked in the Quirinale/Trevi district, walkable from most of central Rome. The nearest metro stop is Barberini on Line A, about a 10-minute walk downhill. Spanish Steps station, also Line A, works almost as well and lets you thread through the shopping streets on the way. If you're coming by bus, several lines stop along Via del Tritone, one street over — from there you just follow the crowd noise and the signs pointing down the side alley into the piazza.
+
+There's no vehicle access into the square itself; the surrounding streets are pedestrian lanes barely wide enough for two people to pass.
 
 ## What to see
 
-Look past the coin-throwing for a minute and the sculptural program actually tells a story: the central niche shows Oceanus, flanked by allegorical reliefs of Abundance and Salubrity, with the whole ensemble meant to celebrate the life-giving arrival of water into the city. The two rearing horses on either side of Oceanus are traditionally read as the sea in different moods — one calm, one turbulent. Look up and to the sides for the smaller stone panels showing the legendary origin of the Acqua Vergine spring. Because the fountain backs onto a real palazzo facade, the scale only registers once you're standing close to the basin edge, looking up.
+Look past the coin-throwing for a minute and the sculptural program actually tells a story: the central niche shows Oceanus, flanked by allegorical reliefs of Abundance and Salubrity, with the whole ensemble meant to celebrate the life-giving arrival of water into the city. The two rearing horses on either side of Oceanus are traditionally read as the sea in different moods — one calm, one turbulent.
+
+Look up and to the sides for the smaller stone panels showing the legendary origin of the Acqua Vergine spring. Because the fountain backs onto a real palazzo facade, the scale only registers once you're standing close to the basin edge, looking up.
 
 ## When to go
 
-This is one of the most visited monuments in Italy, and the piazza is small relative to the crowd it pulls, so timing matters more here than almost anywhere else in Rome. Measured foot-traffic shows the calm window is 9am–11am, on both weekdays and weekends — arrive then and you'll get actual space at the railing. Avoid showing up between 2pm and 9pm on a weekend, which is consistently the most packed stretch. The fountain itself runs long hours, 9am to 10pm most days, though Mondays and Fridays it opens later, at 11:30am, so plan an early visit those two days around the later start rather than assuming a 9am arrival. Evening is worth it too, if crowds don't bother you — the water's lit and the stone glows warm gold against the dark.
+This is one of the most visited monuments in Italy, and the piazza is small relative to the crowd it pulls, so timing matters more here than almost anywhere else in Rome. Measured foot-traffic shows the calm window is 9am–11am, on both weekdays and weekends — arrive then and you'll get actual space at the railing. Avoid showing up between 2pm and 9pm on a weekend, which is consistently the most packed stretch.
+
+The fountain itself runs long hours, 9am to 10pm most days, though Mondays and Fridays it opens later, at 11:30am, so plan an early visit those two days around the later start rather than assuming a 9am arrival. Evening is worth it too, if crowds don't bother you — the water's lit and the stone glows warm gold against the dark.
 
 ## How to visit like a local
 
-Because this fountain draws such heavy tourist traffic, the smart move is treating it as a quick, well-timed stop rather than a leisurely sit-down — go early (9–11am), do your coin toss, take your photo, and move on before the tour groups arrive mid-morning. The coin tradition is simple: toss one coin with your right hand over your left shoulder, back to the fountain, said to guarantee a return to Rome. Coins are collected regularly and the proceeds go to a charity that supports a supermarket for those in need, run through Caritas, so it's not just theater. Don't wade in or sit on the sculptures — both are against the rules and patrolled. Pickpockets work this piazza precisely because everyone's distracted staring upward with a phone out, so keep bags zipped and in front of you. Skip the overpriced cafés with tables directly on the piazza; walk two minutes in any direction and prices for coffee or gelato drop noticeably. There's no admission fee and no ticket — it's a public square, open-air, all day.
+Because this fountain draws such heavy tourist traffic, the smart move is treating it as a quick, well-timed stop rather than a leisurely sit-down — go early (9–11am), do your coin toss, take your photo, and move on before the tour groups arrive mid-morning. The coin tradition is simple: toss one coin with your right hand over your left shoulder, back to the fountain, said to guarantee a return to Rome.
+
+Coins are collected regularly and the proceeds go to a charity that supports a supermarket for those in need, run through Caritas, so it's not just theater. Don't wade in or sit on the sculptures — both are against the rules and patrolled. Pickpockets work this piazza precisely because everyone's distracted staring upward with a phone out, so keep bags zipped and in front of you.
+
+Skip the overpriced cafés with tables directly on the piazza; walk two minutes in any direction and prices for coffee or gelato drop noticeably. There's no admission fee and no ticket — it's a public square, open-air, all day.
 
 ## Nearby to pair it with
 

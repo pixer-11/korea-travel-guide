@@ -46,7 +46,9 @@ draft: false
 
 ## Why go
 
-Mini Siam is one of Pattaya's oldest theme attractions, built around the idea of touring Thailand and the world in a single afternoon without leaving Chon Buri province. The park is split into two zones: "Siam" featuring scaled replicas of Thailand's most recognizable structures (Wat Arun, the Grand Palace, Bangkok's Democracy Monument, Phimai Historical Park, and Southern Thailand's limestone karsts), and an international section with icons like the Eiffel Tower, Tower Bridge, Big Ben, the Sydney Opera House, Angkor Wat, and the Statue of Liberty. It's a low-key, walkable outdoor museum that appeals especially to families with kids, model/architecture enthusiasts, and anyone wanting an easy half-day break from the beach. With a 4.2 rating across nearly 8,000 reviews, it's a well-established stop rather than a fly-by-night tourist trap.
+Mini Siam is one of Pattaya's oldest theme attractions, built around the idea of touring Thailand and the world in a single afternoon without leaving Chon Buri province. The park is split into two zones: "Siam" featuring scaled replicas of Thailand's most recognizable structures (Wat Arun, the Grand Palace, Bangkok's Democracy Monument, Phimai Historical Park, and Southern Thailand's limestone karsts), and an international section with icons like the Eiffel Tower, Tower Bridge, Big Ben, the Sydney Opera House, Angkor Wat, and the Statue of Liberty.
+
+It's a low-key, walkable outdoor museum that appeals especially to families with kids, model/architecture enthusiasts, and anyone wanting an easy half-day break from the beach. With a 4.2 rating across nearly 8,000 reviews, it's a well-established stop rather than a fly-by-night tourist trap.
 
 ## Getting there
 
@@ -71,7 +73,9 @@ The park also has an on-site café where you can pause for cold drinks or snacks
 
 ## When to go
 
-Thailand's weather makes timing matter more than at an indoor museum. Mornings (before 11am) are cooler for walking, but many visitors prefer arriving in the **late afternoon**, around 4–5pm, so they can photograph the models in natural light and then stay as evening lighting comes on, which illuminates several of the replicas after dark and changes the atmosphere considerably. Weekdays are quieter than weekends and Thai public holidays, when domestic tour groups add to the crowd. The cooler season (November to February) is the most comfortable time to visit Pattaya generally, though Mini Siam operates year-round.
+Thailand's weather makes timing matter more than at an indoor museum. Mornings (before 11am) are cooler for walking, but many visitors prefer arriving in the **late afternoon**, around 4–5pm, so they can photograph the models in natural light and then stay as evening lighting comes on, which illuminates several of the replicas after dark and changes the atmosphere considerably. Weekdays are quieter than weekends and Thai public holidays, when domestic tour groups add to the crowd.
+
+The cooler season (November to February) is the most comfortable time to visit Pattaya generally, though Mini Siam operates year-round.
 
 ## Nearby & tips
 

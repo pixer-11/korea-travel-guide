@@ -70,15 +70,21 @@ draft: false
 
 ## Why go
 
-You come around the corner from the Piazzetta and the façade just stops you: pink-and-white Verona marble laid in a diamond pattern, a colonnade of pointed Gothic arches below, and a solid wall of stone above that looks almost fortified by comparison. This was the seat of the Venetian Republic for centuries — where the Doge lived, where the Great Council legislated, and where prisoners were marched across the Bridge of Sighs to cells that still smell faintly of damp stone. It's one of the most visited sites in Venice, and it earns that status: the scale of the state rooms, the sheer density of Tintoretto and Veronese canvases, and the genuine sense of walking through the machinery of a 700-year-old maritime empire make it worth the crowds.
+You come around the corner from the Piazzetta and the façade just stops you: pink-and-white Verona marble laid in a diamond pattern, a colonnade of pointed Gothic arches below, and a solid wall of stone above that looks almost fortified by comparison. This was the seat of the Venetian Republic for centuries — where the Doge lived, where the Great Council legislated, and where prisoners were marched across the Bridge of Sighs to cells that still smell faintly of damp stone.
+
+It's one of the most visited sites in Venice, and it earns that status: the scale of the state rooms, the sheer density of Tintoretto and Veronese canvases, and the genuine sense of walking through the machinery of a 700-year-old maritime empire make it worth the crowds.
 
 ## Getting there
 
-The palace sits on the southeast corner of Piazza San Marco, address P.za San Marco, 1. If you're on foot, it's simply the building at the water's edge next to the Basilica di San Marco's bell tower — you can't miss the striped facade. By vaporetto, get off at the San Marco-Vallaresso or San Zaccaria stop (lines 1, 2, 5.1, 5.2); both are a three-to-five-minute walk along the waterfront. There's no metro in Venice, so water transport or walking are your only options — from the train station (Santa Lucia) or Piazzale Roma, figure on a 35-40 minute walk or a vaporetto ride with a change.
+The palace sits on the southeast corner of Piazza San Marco, address P.za San Marco, 1. If you're on foot, it's simply the building at the water's edge next to the Basilica di San Marco's bell tower — you can't miss the striped facade. By vaporetto, get off at the San Marco-Vallaresso or San Zaccaria stop (lines 1, 2, 5.1, 5.2); both are a three-to-five-minute walk along the waterfront.
+
+There's no metro in Venice, so water transport or walking are your only options — from the train station (Santa Lucia) or Piazzale Roma, figure on a 35-40 minute walk or a vaporetto ride with a change.
 
 ## What to see inside
 
-Give yourself two to three hours minimum. The route takes you up the Golden Staircase into the Doge's private apartments, then into the institutional rooms: the Sala del Collegio, the Sala del Senato, and the vast Sala del Maggior Consiglio, whose ceiling holds Tintoretto's "Paradiso," reputedly one of the largest oil paintings in the world. From there the route crosses the enclosed Bridge of Sighs into the Prigioni Nuove, the old prison cells, where the barred windows and narrow stone corridors make the earlier opulence feel deliberately staged. If you want more, the Secret Itineraries tour (book separately, in advance) takes you through the interrogation rooms and the cramped attic cells where Casanova was once held.
+Give yourself two to three hours minimum. The route takes you up the Golden Staircase into the Doge's private apartments, then into the institutional rooms: the Sala del Collegio, the Sala del Senato, and the vast Sala del Maggior Consiglio, whose ceiling holds Tintoretto's "Paradiso," reputedly one of the largest oil paintings in the world. From there the route crosses the enclosed Bridge of Sighs into the Prigioni Nuove, the old prison cells, where the barred windows and narrow stone corridors make the earlier opulence feel deliberately staged.
+
+If you want more, the Secret Itineraries tour (book separately, in advance) takes you through the interrogation rooms and the cramped attic cells where Casanova was once held.
 
 ## When to go
 
@@ -86,7 +92,11 @@ Mornings right at opening tend to be calmest — arrive as close to 9am as you c
 
 ## How to visit like a local
 
-Buy your ticket online in advance and choose a timed entry slot — this alone cuts your wait at the door from potentially an hour to almost nothing, and it's how anyone who visits Venice regularly handles the major sights. Note that the Doge's Palace ticket is usually bundled with the Museo Correr and other Piazza San Marco museums under the "Museums of St Mark's Square Square" pass, so check what's included before buying a standalone ticket. Payment inside is card-friendly, but keep some cash for the small kiosks and cafés on the square itself. The single biggest mistake visitors make is treating this as a quick photo-stop between the Basilica and lunch — the palace rewards a slow pace, especially in the Sala del Maggior Consiglio, where craning your neck at the ceiling for a few extra minutes reveals details in the Tintoretto that a rushed glance misses entirely. Dress code is casual here (unlike the Basilica next door, which enforces covered shoulders and knees), but do keep voices low in the state rooms — they're still functioning as a serious historical archive, not just a photo backdrop.
+Buy your ticket online in advance and choose a timed entry slot — this alone cuts your wait at the door from potentially an hour to almost nothing, and it's how anyone who visits Venice regularly handles the major sights. Note that the Doge's Palace ticket is usually bundled with the Museo Correr and other Piazza San Marco museums under the "Museums of St Mark's Square Square" pass, so check what's included before buying a standalone ticket.
+
+Payment inside is card-friendly, but keep some cash for the small kiosks and cafés on the square itself. The single biggest mistake visitors make is treating this as a quick photo-stop between the Basilica and lunch — the palace rewards a slow pace, especially in the Sala del Maggior Consiglio, where craning your neck at the ceiling for a few extra minutes reveals details in the Tintoretto that a rushed glance misses entirely.
+
+Dress code is casual here (unlike the Basilica next door, which enforces covered shoulders and knees), but do keep voices low in the state rooms — they're still functioning as a serious historical archive, not just a photo backdrop.
 
 ## Nearby to combine with your visit
 

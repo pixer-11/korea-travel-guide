@@ -66,15 +66,21 @@ draft: false
 
 ## Why Mitaki Temple is worth the detour
 
-Most visitors spend their Hiroshima day between the Peace Memorial Park and Itsukushima Shrine and never make it up the hill to Mitaki-ji, which is exactly why it feels so different when you do. The name means "three waterfalls," and that's the first thing you register once you're past the gate: the sound of falling water threading through cedar and maple, echoing off wet rock. Founded in the 9th century and rebuilt after the 1945 bombing, the temple grounds also hold a multi-tiered pagoda relocated from Wakayama Prefecture in the 1950s as a memorial to atomic bomb victims — a quietly weighty detail that gives the greenery here more resonance than a typical temple stroll.
+Most visitors spend their Hiroshima day between the Peace Memorial Park and Itsukushima Shrine and never make it up the hill to Mitaki-ji, which is exactly why it feels so different when you do. The name means "three waterfalls," and that's the first thing you register once you're past the gate: the sound of falling water threading through cedar and maple, echoing off wet rock.
+
+Founded in the 9th century and rebuilt after the 1945 bombing, the temple grounds also hold a multi-tiered pagoda relocated from Wakayama Prefecture in the 1950s as a memorial to atomic bomb victims — a quietly weighty detail that gives the greenery here more resonance than a typical temple stroll.
 
 ## Getting there
 
-Take the JR Sanyo Line from Hiroshima Station to Mitaki Station — it's a short, roughly 10-minute ride, and only a few stops. From the station, it's about a 15-20 minute walk uphill, following signs through a residential neighborhood before the road narrows and the trees close in. There's no dramatic entrance plaza; you simply arrive at a wooden gate flanked by moss-covered stone lanterns, and the city noise drops away almost immediately. Because it sits outside the main tourist loop around the Peace Park and A-Bomb Dome, you won't find big tour buses here, which keeps the pace unhurried even on a clear autumn Saturday.
+Take the JR Sanyo Line from Hiroshima Station to Mitaki Station — it's a short, roughly 10-minute ride, and only a few stops. From the station, it's about a 15-20 minute walk uphill, following signs through a residential neighborhood before the road narrows and the trees close in. There's no dramatic entrance plaza; you simply arrive at a wooden gate flanked by moss-covered stone lanterns, and the city noise drops away almost immediately.
+
+Because it sits outside the main tourist loop around the Peace Park and A-Bomb Dome, you won't find big tour buses here, which keeps the pace unhurried even on a clear autumn Saturday.
 
 ## What to see inside the grounds
 
-Follow the main stone path and you'll pass the first of the three namesake waterfalls within a few minutes, its spray cooling the air even in summer. The trail climbs gently past a cluster of weathered Jizo statues — small stone figures wrapped in faded red cloth, some missing noses or hands to centuries of weather — tucked into niches along the rock face. Higher up, the pagoda stands in a small clearing, its dark wood and curved eaves set against a backdrop of maples that turn deep red and gold from mid-to-late November. The Main Hall (Hondo), with its heavy thatched-style roof, sits partway up the slope; take your shoes off if you step onto the wooden platform to look inside. Most people spend 45 minutes to just over an hour here, longer if you linger by the second and third waterfalls further up the ravine, which see far fewer visitors than the lower path.
+Follow the main stone path and you'll pass the first of the three namesake waterfalls within a few minutes, its spray cooling the air even in summer. The trail climbs gently past a cluster of weathered Jizo statues — small stone figures wrapped in faded red cloth, some missing noses or hands to centuries of weather — tucked into niches along the rock face.
+
+Higher up, the pagoda stands in a small clearing, its dark wood and curved eaves set against a backdrop of maples that turn deep red and gold from mid-to-late November. The Main Hall (Hondo), with its heavy thatched-style roof, sits partway up the slope; take your shoes off if you step onto the wooden platform to look inside. Most people spend 45 minutes to just over an hour here, longer if you linger by the second and third waterfalls further up the ravine, which see far fewer visitors than the lower path.
 
 ## When to go
 
@@ -82,7 +88,11 @@ Fall foliage (mid-November into early December) is the signature season, when th
 
 ## How to visit like a local
 
-There's no ticket booth turnstile or timed-entry system — you simply walk in, though a small donation box near the entrance is customary, and change is worth carrying for this. Bow slightly at the main gate before entering, as you would at any Shingon temple, and keep voices low near the Hondo and the atomic bomb memorial pagoda, which locals treat as a place of quiet reflection rather than a photo backdrop. The biggest mistake visitors make is treating Mitaki as a quick 20-minute add-on between the Peace Park and dinner; the paths reward slower walking, and the upper waterfalls are easy to miss if you turn back too soon. Wear shoes you can slip off easily for the temple hall, and bring a bit of cash for the small tea house near the entrance selling local sweets — cards aren't the norm here. Combine the visit with a walk back down through the residential streets toward Mitaki Station rather than retracing your steps exactly, since the neighborhood itself offers a low-key look at everyday Hiroshima life away from the memorial sites downtown.
+There's no ticket booth turnstile or timed-entry system — you simply walk in, though a small donation box near the entrance is customary, and change is worth carrying for this. Bow slightly at the main gate before entering, as you would at any Shingon temple, and keep voices low near the Hondo and the atomic bomb memorial pagoda, which locals treat as a place of quiet reflection rather than a photo backdrop.
+
+The biggest mistake visitors make is treating Mitaki as a quick 20-minute add-on between the Peace Park and dinner; the paths reward slower walking, and the upper waterfalls are easy to miss if you turn back too soon. Wear shoes you can slip off easily for the temple hall, and bring a bit of cash for the small tea house near the entrance selling local sweets — cards aren't the norm here.
+
+Combine the visit with a walk back down through the residential streets toward Mitaki Station rather than retracing your steps exactly, since the neighborhood itself offers a low-key look at everyday Hiroshima life away from the memorial sites downtown.
 
 ## Nearby to pair with your visit
 

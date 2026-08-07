@@ -55,15 +55,21 @@ draft: false
 
 ## Why go
 
-Fujairah Fort is widely regarded as the oldest fort in the United Arab Emirates, constructed between 1500 and 1550 CE — well before the country's other coastal forts were built. It sits on a natural rock outcrop overlooking Al Sharyah, giving it a commanding defensive position that once guarded the approach from the Hajar Mountains to the coast. The structure is built from local materials — stone, mud-brick, and coral — and its silhouette of three round towers connected by thick defensive walls is one of the most photographed sights in Fujairah city. It's not a manicured museum-piece fort; much of its appeal is that it still looks like a working fortification that has weathered five centuries, cannon fire from the early 20th century included.
+Fujairah Fort is widely regarded as the oldest fort in the United Arab Emirates, constructed between 1500 and 1550 CE — well before the country's other coastal forts were built. It sits on a natural rock outcrop overlooking Al Sharyah, giving it a commanding defensive position that once guarded the approach from the Hajar Mountains to the coast. The structure is built from local materials — stone, mud-brick, and coral — and its silhouette of three round towers connected by thick defensive walls is one of the most photographed sights in Fujairah city.
+
+It's not a manicured museum-piece fort; much of its appeal is that it still looks like a working fortification that has weathered five centuries, cannon fire from the early 20th century included.
 
 ## Getting there
 
-Fujairah Fort is located in Al Sharyah, right beside the Fujairah Museum (the Google Plus Code area is 48QP+FRQ). It's a short drive from Fujairah city center — most visitors arrive by taxi or rental car, since the UAE's East Coast emirates don't have a metro system. There's usually informal parking near the museum and Heritage Village at the base of the hill. If you're coming from Dubai or Sharjah, the drive over the Hajar Mountains via the E99 or E84 highway takes roughly 1.5 to 2 hours, and the fort is an easy add-on to a day trip that also covers Al Bidyah Mosque or Fujairah's beaches.
+Fujairah Fort is located in Al Sharyah, right beside the Fujairah Museum (the Google Plus Code area is 48QP+FRQ). It's a short drive from Fujairah city center — most visitors arrive by taxi or rental car, since the UAE's East Coast emirates don't have a metro system. There's usually informal parking near the museum and Heritage Village at the base of the hill.
+
+If you're coming from Dubai or Sharjah, the drive over the Hajar Mountains via the E99 or E84 highway takes roughly 1.5 to 2 hours, and the fort is an easy add-on to a day trip that also covers Al Bidyah Mosque or Fujairah's beaches.
 
 ## What to see
 
-The fort's three round towers are the main draw — climb the restored pathways and staircases for views over the surrounding low-rise city and the mountains behind it. Look for the arrow slits and firing positions built into the walls, evidence of the fort's active military use into the 20th century (it was partially damaged by British naval shelling in 1925). At the base of the hill, the adjoining Heritage Village recreates a traditional Fujairah settlement with reconstructed barasti (palm-frond) houses, giving useful context for how the fort once functioned as the protective anchor for the town below. The Fujairah Museum next door houses artifacts — pottery, weapons, and archaeological finds from the region — that fill in the history the fort itself doesn't explain with signage.
+The fort's three round towers are the main draw — climb the restored pathways and staircases for views over the surrounding low-rise city and the mountains behind it. Look for the arrow slits and firing positions built into the walls, evidence of the fort's active military use into the 20th century (it was partially damaged by British naval shelling in 1925).
+
+At the base of the hill, the adjoining Heritage Village recreates a traditional Fujairah settlement with reconstructed barasti (palm-frond) houses, giving useful context for how the fort once functioned as the protective anchor for the town below. The Fujairah Museum next door houses artifacts — pottery, weapons, and archaeological finds from the region — that fill in the history the fort itself doesn't explain with signage.
 
 ## When to go
 
@@ -71,7 +77,11 @@ The UAE's cooler months, roughly November through March, make climbing the fort'
 
 ## How to visit like a local
 
-Fujairah Fort is well-known and gets a steady stream of visitors, especially on weekends (Friday–Saturday) and around holidays, so if you want the towers to yourself, arrive right at opening on a weekday morning. There's no ticket booth drama here — entry is straightforward, and payment (where applicable, such as for the adjoining museum) is typically by cash or card; don't expect elaborate signage in English at every turn, so a quick look at the museum's information panels before you climb helps orient you. The etiquette is simple: wear closed shoes, since the stone paths are uneven and can be slippery even without rain, and be mindful that this is a heritage site, not a playground — avoid climbing on unstabilized sections of wall outside the marked paths. The most common visitor mistake is treating the fort as a five-minute photo stop and skipping the museum and Heritage Village entirely; spending time in both gives the fort's history far more weight than the towers alone can convey. Dress modestly, as you would anywhere in Fujairah's public heritage sites — shoulders and knees covered is a safe default.
+Fujairah Fort is well-known and gets a steady stream of visitors, especially on weekends (Friday–Saturday) and around holidays, so if you want the towers to yourself, arrive right at opening on a weekday morning. There's no ticket booth drama here — entry is straightforward, and payment (where applicable, such as for the adjoining museum) is typically by cash or card; don't expect elaborate signage in English at every turn, so a quick look at the museum's information panels before you climb helps orient you.
+
+The etiquette is simple: wear closed shoes, since the stone paths are uneven and can be slippery even without rain, and be mindful that this is a heritage site, not a playground — avoid climbing on unstabilized sections of wall outside the marked paths. The most common visitor mistake is treating the fort as a five-minute photo stop and skipping the museum and Heritage Village entirely; spending time in both gives the fort's history far more weight than the towers alone can convey.
+
+Dress modestly, as you would anywhere in Fujairah's public heritage sites — shoulders and knees covered is a safe default.
 
 ## Nearby stops
 

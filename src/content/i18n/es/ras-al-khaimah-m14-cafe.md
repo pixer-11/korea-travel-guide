@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-m14-cafe
-srcHash: 14657ba79324
+srcHash: 'b4833a9b2e3a'
 title: 'M14 Cafe: Guía de viaje de Ras Al Khaimah'
 description: M14 Cafe es una cafetería de especialidad tranquila y sin pretensiones, escondida cerca de New Mall en Sheikh Humaid Al Mohammad Al Qasimi Road, en Seih Al Araibi, Ras Al Khaimah — merece un desvío si buscas un buen flat white o un brunch de calidad sin las multitudes del food court del centro comercial.
 quickAnswer: M14 Cafe es una cafetería de especialidad tranquila y sin pretensiones, escondida cerca de New Mall en Sheikh Humaid Al Mohammad Al Qasimi Road, en Seih Al Araibi, Ras Al Khaimah — merece un desvío si buscas un buen flat white o un brunch de calidad sin las multitudes del food court del centro comercial. Tiene una calificación de 4.4 sobre 706 reseñas, precios medios (aproximadamente AED 20-45 por artículo) y se recomienda visitarla a media mañana entre semana. Calcula entre 45 y 90 minutos; combínala con un paseo por New Mall o un trayecto en coche por la carretera hacia Jebel Jais.
@@ -20,13 +20,17 @@ faq:
 
 ## Por qué ir
 
-La escena de cafeterías de Ras Al Khaimah ha crecido rápidamente en los últimos años, pero gran parte se concentra alrededor de la marina y las grandes franjas hoteleras. M14 Cafe está un poco más apartado —tierra adentro, cerca de New Mall, en Sheikh Humaid Al Mohammad Al Qasimi Road, en la zona de Seih Al Araibi— y se ha ganado una sólida calificación de 4.4 con 706 reseñas sin convertirse en una parada turística obligatoria. Esa combinación es poco habitual en el emirato: una cafetería lo bastante buena como para llenarse los fines de semana, pero todavía lo suficientemente discreta como para encontrar sitio y quedarse un rato.
+La escena de cafeterías de Ras Al Khaimah ha crecido rápidamente en los últimos años, pero gran parte se concentra alrededor de la marina y las grandes franjas hoteleras. M14 Cafe está un poco más apartado —tierra adentro, cerca de New Mall, en Sheikh Humaid Al Mohammad Al Qasimi Road, en la zona de Seih Al Araibi— y se ha ganado una sólida calificación de 4.4 con 706 reseñas sin convertirse en una parada turística obligatoria.
+
+Esa combinación es poco habitual en el emirato: una cafetería lo bastante buena como para llenarse los fines de semana, pero todavía lo suficientemente discreta como para encontrar sitio y quedarse un rato.
 
 Es el tipo de lugar pensado para viajeros que buscan una pausa de café de verdad y no solo una foto: piensa en bebidas de espresso de especialidad, un menú de brunch decente y un aire acondicionado que realmente te da motivos para quedarte una hora.
 
 ## Cómo llegar
 
-M14 Cafe se alcanza más fácilmente en coche o taxi, como ocurre con la mayor parte de Ras Al Khaimah fuera del casco antiguo. La dirección lo sitúa justo al lado de New Mall, en Sheikh Humaid Al Mohammad Al Qasimi Road, una de las principales arterias que atraviesan Seih Al Araibi, un distrito a poca distancia en coche desde la corniche y a unos 15-20 minutos del centro de RAK, según el tráfico. Si vienes desde el aeropuerto (RAK International Airport), el trayecto es igual de corto, lo que convierte este lugar en una primera o última parada razonable en un viaje.
+M14 Cafe se alcanza más fácilmente en coche o taxi, como ocurre con la mayor parte de Ras Al Khaimah fuera del casco antiguo. La dirección lo sitúa justo al lado de New Mall, en Sheikh Humaid Al Mohammad Al Qasimi Road, una de las principales arterias que atraviesan Seih Al Araibi, un distrito a poca distancia en coche desde la corniche y a unos 15-20 minutos del centro de RAK, según el tráfico.
+
+Si vienes desde el aeropuerto (RAK International Airport), el trayecto es igual de corto, lo que convierte este lugar en una primera o última parada razonable en un viaje.
 
 Ras Al Khaimah no tiene metro, así que cuenta con tomar un taxi (fácil de pedir por app) o alquilar un coche. Aparcar cerca de New Mall suele ser sencillo, ya que hay estacionamientos dedicados que dan servicio al complejo comercial y a las cafeterías y tiendas de alrededor.
 

@@ -74,15 +74,21 @@ aiGenerated: true
 
 ## Why go
 
-Giyanti Coffee Roastery has built its reputation on doing one thing well: sourcing and roasting Indonesian coffee beans and letting them speak for themselves. Housed in a converted colonial-era building on Jl. Surabaya, the cafe roasts on-site and rotates single-origin offerings from across the archipelago — think Gayo from Aceh, Toraja from Sulawesi, Kintamani from Bali, and Flores Bajawa — alongside imported beans for comparison. With a 4.6 rating from over 4,300 reviews, it's firmly established as one of Jakarta's go-to spots for people serious about coffee, not just a trendy backdrop for photos (though the industrial-meets-heritage interior does that too).
+Giyanti Coffee Roastery has built its reputation on doing one thing well: sourcing and roasting Indonesian coffee beans and letting them speak for themselves. Housed in a converted colonial-era building on Jl. Surabaya, the cafe roasts on-site and rotates single-origin offerings from across the archipelago — think Gayo from Aceh, Toraja from Sulawesi, Kintamani from Bali, and Flores Bajawa — alongside imported beans for comparison.
+
+With a 4.6 rating from over 4,300 reviews, it's firmly established as one of Jakarta's go-to spots for people serious about coffee, not just a trendy backdrop for photos (though the industrial-meets-heritage interior does that too).
 
 ## Getting there
 
-The address is Jl. Surabaya No.20, in Menteng, Central Jakarta — one of the city's oldest and leafiest residential districts, laid out during the Dutch colonial period. The nearest useful public transport is Transjakarta's Menteng or Surabaya-area corridor stops; if you're using the MRT, Dukuh Atas BNI station is roughly a 15–20 minute drive or a longer walk, so most visitors arrive by ride-hailing app (Gojek or Grab) rather than rail. Traffic in this part of Central Jakarta builds up by mid-morning and again in the evening, so factor that into your timing. Street parking exists but is limited, and it's tight during weekend market hours.
+The address is Jl. Surabaya No.20, in Menteng, Central Jakarta — one of the city's oldest and leafiest residential districts, laid out during the Dutch colonial period. The nearest useful public transport is Transjakarta's Menteng or Surabaya-area corridor stops; if you're using the MRT, Dukuh Atas BNI station is roughly a 15–20 minute drive or a longer walk, so most visitors arrive by ride-hailing app (Gojek or Grab) rather than rail.
+
+Traffic in this part of Central Jakarta builds up by mid-morning and again in the evening, so factor that into your timing. Street parking exists but is limited, and it's tight during weekend market hours.
 
 ## What to see and drink
 
-Start with the roastery itself: much of the appeal is watching beans get sorted, roasted, and brewed in an open setup rather than hidden in a back room. Order a manual brew (V60 or syphon) if you want to taste a single origin cleanly, or go for a classic Indonesian-style kopi tubruk if you want something closer to how coffee is traditionally served here. The espresso-based menu covers the usual flatwhites and cappuccinos, but the real draw is the rotating single-origin list — ask staff what's freshly roasted that week, since availability shifts with harvest season. Pair your coffee with something from the light food menu; portions and pricing sit in the moderate range for Jakarta cafes (roughly a mid-tier price level, not a budget warung but not luxury either).
+Start with the roastery itself: much of the appeal is watching beans get sorted, roasted, and brewed in an open setup rather than hidden in a back room. Order a manual brew (V60 or syphon) if you want to taste a single origin cleanly, or go for a classic Indonesian-style kopi tubruk if you want something closer to how coffee is traditionally served here.
+
+The espresso-based menu covers the usual flatwhites and cappuccinos, but the real draw is the rotating single-origin list — ask staff what's freshly roasted that week, since availability shifts with harvest season. Pair your coffee with something from the light food menu; portions and pricing sit in the moderate range for Jakarta cafes (roughly a mid-tier price level, not a budget warung but not luxury either).
 
 Just outside, Jl. Surabaya itself is Jakarta's well-known antiques and curio market, lined with stalls selling old records, colonial-era brassware, batik, and vintage oddities. Combining the two — coffee first, market browsing after — is the natural way to spend a couple of hours here.
 
@@ -92,7 +98,11 @@ Weekday mornings, roughly 9–11am, tend to be the calmest window before lunch c
 
 ## How to visit like a local
 
-This is a well-known, well-reviewed cafe rather than a hidden find, so expect steady foot traffic — plan around that rather than expecting an empty room. The most effective way to beat the crowd is timing: arrive right at opening on a weekday, or visit in the late afternoon lull after lunch service winds down but before evening regulars arrive. Payment is typically by card or e-wallet (QRIS is widely accepted across Jakarta cafes), though carrying some cash is still sensible for the antiques market stalls outside, where bargaining is normal and cash is preferred. Tipping isn't obligatory or heavily practiced at Indonesian cafes; rounding up or leaving small change is appreciated but not expected. If you want to sound like you know your coffee, ask specifically for the origin and processing method (washed, natural, honey) rather than just "the special" — staff are used to explaining the differences and it's the fastest way into a more interesting conversation about what's in your cup. The most common visitor mistake is treating this purely as a photo-op stop and rushing through; the better use of a visit is slowing down over one well-made pour-over and asking what's currently in the roaster.
+This is a well-known, well-reviewed cafe rather than a hidden find, so expect steady foot traffic — plan around that rather than expecting an empty room. The most effective way to beat the crowd is timing: arrive right at opening on a weekday, or visit in the late afternoon lull after lunch service winds down but before evening regulars arrive.
+
+Payment is typically by card or e-wallet (QRIS is widely accepted across Jakarta cafes), though carrying some cash is still sensible for the antiques market stalls outside, where bargaining is normal and cash is preferred. Tipping isn't obligatory or heavily practiced at Indonesian cafes; rounding up or leaving small change is appreciated but not expected. If you want to sound like you know your coffee, ask specifically for the origin and processing method (washed, natural, honey) rather than just "the special" — staff are used to explaining the differences and it's the fastest way into a more interesting conversation about what's in your cup.
+
+The most common visitor mistake is treating this purely as a photo-op stop and rushing through; the better use of a visit is slowing down over one well-made pour-over and asking what's currently in the roaster.
 
 ## Nearby to combine
 

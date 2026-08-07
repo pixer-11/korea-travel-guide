@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sharjah-al-noor-island
-srcHash: d3253afecfd5
+srcHash: '10d2aa68cf9e'
 title: 'Isla Al Noor: Guía de viaje de Sharjah'
 description: La Isla Al Noor se encuentra en la laguna Khalid, sobre Buhairah Corniche, en el centro de Sharjah, a poca distancia a pie o en taxi de Al Majaz Waterfront.
 quickAnswer: La Isla Al Noor se encuentra en la laguna Khalid, sobre Buhairah Corniche, en el centro de Sharjah, a poca distancia a pie o en taxi de Al Majaz Waterfront. Calcula entre 1.5 y 2.5 horas para recorrer el paseo marítimo, curiosear en el pabellón de libros, pasear por la casa de mariposas y ver las instalaciones de arte moderno repartidas por la isla. Ve a última hora de la tarde o al anochecer, especialmente en los meses más frescos (octubre–abril), cuando tanto la luz como la temperatura juegan a tu favor.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-La Isla Al Noor es una pequeña isla ajardinada en medio de la laguna Khalid, conectada con tierra firme por un puente peatonal cerca de Al Majaz 1. Es la respuesta de Sharjah a un tranquilo refugio verde dentro de una bulliciosa ciudad costera: una mezcla de jardines, esculturas, una casa de mariposas de cristal y un llamativo pabellón de libros, todo alrededor de la laguna con vistas al perfil urbano de Buhairah Corniche. Es lo bastante compacta como para verla sin necesidad de dedicarle un día entero, pero lo suficientemente singular como para merecer organizar una tarde en torno a ella, sobre todo si ya estás explorando Al Majaz Waterfront o la zona de Sharjah Corniche.
+La Isla Al Noor es una pequeña isla ajardinada en medio de la laguna Khalid, conectada con tierra firme por un puente peatonal cerca de Al Majaz 1. Es la respuesta de Sharjah a un tranquilo refugio verde dentro de una bulliciosa ciudad costera: una mezcla de jardines, esculturas, una casa de mariposas de cristal y un llamativo pabellón de libros, todo alrededor de la laguna con vistas al perfil urbano de Buhairah Corniche.
+
+Es lo bastante compacta como para verla sin necesidad de dedicarle un día entero, pero lo suficientemente singular como para merecer organizar una tarde en torno a ella, sobre todo si ya estás explorando Al Majaz Waterfront o la zona de Sharjah Corniche.
 
 ## Cómo llegar
 
-La isla está justo frente a Buhairah Corniche Road, en Al Majaz 1, al otro lado de la laguna respecto al parque y la zona de fuentes de Al Majaz Waterfront. Los taxis y las aplicaciones de transporte con conductor son la forma más sencilla de llegar, ya que la red de autobuses públicos de Sharjah no tiene una línea directa hasta el puente de entrada. Si vienes desde Dubái, el trayecto por Sheikh Mohammed Bin Zayed Road o Al Ittihad Road suele tardar entre 30 y 45 minutos según el tráfico. Una vez en Buhairah Corniche, el puente de entrada de la isla y la taquilla son fáciles de localizar cerca del paseo frente al agua; busca la señalización que indica Al Noor Island en lugar de una dirección formal, ya que el lugar se ubica mejor por referencia a la propia laguna.
+La isla está justo frente a Buhairah Corniche Road, en Al Majaz 1, al otro lado de la laguna respecto al parque y la zona de fuentes de Al Majaz Waterfront. Los taxis y las aplicaciones de transporte con conductor son la forma más sencilla de llegar, ya que la red de autobuses públicos de Sharjah no tiene una línea directa hasta el puente de entrada.
+
+Si vienes desde Dubái, el trayecto por Sheikh Mohammed Bin Zayed Road o Al Ittihad Road suele tardar entre 30 y 45 minutos según el tráfico. Una vez en Buhairah Corniche, el puente de entrada de la isla y la taquilla son fáciles de localizar cerca del paseo frente al agua; busca la señalización que indica Al Noor Island en lugar de una dirección formal, ya que el lugar se ubica mejor por referencia a la propia laguna.
 
 ## Qué ver y hacer
 
@@ -38,11 +42,19 @@ Calcula entre 90 minutos y dos horas y media para recorrer el circuito completo 
 
 ## Cuándo ir
 
-El clima de Sharjah hace que elegir bien el momento sea más importante de lo habitual. El periodo más agradable va de **octubre a abril**, cuando las temperaturas diurnas y nocturnas son lo bastante suaves como para disfrutar de los senderos y jardines al aire libre. Durante los meses de máximo calor del verano (junio–septiembre), el calor y la humedad son intensos, así que un paseo al aire libre por la isla resulta mucho más agradable después de la puesta de sol, cuando la iluminación de la isla y los reflejos en la laguna cobran todo su encanto. Al final de la tarde y al anochecer suele darse la mejor combinación de aire más fresco y buena luz para fotos, sea cual sea la época del año.
+El clima de Sharjah hace que elegir bien el momento sea más importante de lo habitual. El periodo más agradable va de **octubre a abril**, cuando las temperaturas diurnas y nocturnas son lo bastante suaves como para disfrutar de los senderos y jardines al aire libre. Durante los meses de máximo calor del verano (junio–septiembre), el calor y la humedad son intensos, así que un paseo al aire libre por la isla resulta mucho más agradable después de la puesta de sol, cuando la iluminación de la isla y los reflejos en la laguna cobran todo su encanto.
+
+Al final de la tarde y al anochecer suele darse la mejor combinación de aire más fresco y buena luz para fotos, sea cual sea la época del año.
 
 ## Cómo visitarla como un local
 
-La Isla Al Noor es una atracción conocida y bien valorada (4.4 estrellas entre miles de reseñas), no un descubrimiento secreto, así que espera un flujo constante de visitantes, especialmente las tardes de fin de semana y en festivos, cuando Al Majaz Waterfront, al otro lado de la laguna, también se llena. Para evitar los momentos de más afluencia, procura visitarla entre semana o llegar casi a la hora de apertura, por la mañana, antes de que lleguen los grupos turísticos y las familias tras el horario escolar y laboral. La entrada suele adquirirse en una taquilla junto al puente y, aunque se acepta efectivo, el pago con tarjeta y móvil es cada vez más habitual en las atracciones de Sharjah; aun así, lleva algo de efectivo de repuesto, ya que los lectores de tarjetas pueden fallar en los quioscos más pequeños. Aquí no existe realmente una "entrada secreta" ni un truco de local; lo práctico es simplemente ajustar la visita a los patrones de afluencia en lugar de buscar una ruta alternativa. Mantén el volumen bajo dentro de la casa de mariposas: los movimientos bruscos y la fotografía con flash pueden alterar a las mariposas, y el personal te pedirá que apagues el flash. Se recomienda vestir de forma modesta, como en la mayoría de las atracciones públicas de Sharjah, un emirato con un tono cultural más conservador que el vecino Dubái. El error más habitual de los visitantes es tratarla como una parada rápida de 20 minutos para hacer fotos y recorrerla con prisa; la isla premia un ritmo más pausado, especialmente en torno al pabellón de libros y los bancos frente a la laguna, donde las vistas de la ciudad se disfrutan mejor sentado que caminando.
+La Isla Al Noor es una atracción conocida y bien valorada (4.4 estrellas entre miles de reseñas), no un descubrimiento secreto, así que espera un flujo constante de visitantes, especialmente las tardes de fin de semana y en festivos, cuando Al Majaz Waterfront, al otro lado de la laguna, también se llena. Para evitar los momentos de más afluencia, procura visitarla entre semana o llegar casi a la hora de apertura, por la mañana, antes de que lleguen los grupos turísticos y las familias tras el horario escolar y laboral.
+
+La entrada suele adquirirse en una taquilla junto al puente y, aunque se acepta efectivo, el pago con tarjeta y móvil es cada vez más habitual en las atracciones de Sharjah; aun así, lleva algo de efectivo de repuesto, ya que los lectores de tarjetas pueden fallar en los quioscos más pequeños. Aquí no existe realmente una "entrada secreta" ni un truco de local; lo práctico es simplemente ajustar la visita a los patrones de afluencia en lugar de buscar una ruta alternativa.
+
+Mantén el volumen bajo dentro de la casa de mariposas: los movimientos bruscos y la fotografía con flash pueden alterar a las mariposas, y el personal te pedirá que apagues el flash. Se recomienda vestir de forma modesta, como en la mayoría de las atracciones públicas de Sharjah, un emirato con un tono cultural más conservador que el vecino Dubái.
+
+El error más habitual de los visitantes es tratarla como una parada rápida de 20 minutos para hacer fotos y recorrerla con prisa; la isla premia un ritmo más pausado, especialmente en torno al pabellón de libros y los bancos frente a la laguna, donde las vistas de la ciudad se disfrutan mejor sentado que caminando.
 
 ## Qué combinar cerca de la isla
 

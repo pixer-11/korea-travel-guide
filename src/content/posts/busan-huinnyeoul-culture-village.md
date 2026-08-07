@@ -77,15 +77,23 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Huinnyeoul Culture Village sits tucked into a narrow strip of land on Yeongdo Island, wedged between a rocky shoreline and a steep hillside in Yeongdo-gu. Unlike its more famous cousin Gamcheon Culture Village on the mainland side of Busan, Huinnyeoul (흰여울) is smaller, quieter, and built around a single dramatic asset: a footpath that runs directly along the sea, with the village's low-rise homes stacked above it. The name roughly translates to "white rapids," a reference to how waves used to crash against the rocks below during storms. The neighborhood was largely built up by refugees during the Korean War, and in the 2010s the district government turned it into an arts village, adding murals, small galleries, and cafés without erasing the working-class character of the original houses. The result — rated 4.4 stars across nearly 9,000 reviews — is one of Busan's most photographed "hidden gem" spots, though it's no longer much of a secret.
+Huinnyeoul Culture Village sits tucked into a narrow strip of land on Yeongdo Island, wedged between a rocky shoreline and a steep hillside in Yeongdo-gu. Unlike its more famous cousin Gamcheon Culture Village on the mainland side of Busan, Huinnyeoul (흰여울) is smaller, quieter, and built around a single dramatic asset: a footpath that runs directly along the sea, with the village's low-rise homes stacked above it.
+
+The name roughly translates to "white rapids," a reference to how waves used to crash against the rocks below during storms. The neighborhood was largely built up by refugees during the Korean War, and in the 2010s the district government turned it into an arts village, adding murals, small galleries, and cafés without erasing the working-class character of the original houses.
+
+The result — rated 4.4 stars across nearly 9,000 reviews — is one of Busan's most photographed "hidden gem" spots, though it's no longer much of a secret.
 
 ## Getting there
 
-There's no subway station directly at Huinnyeoul; Yeongdo Island isn't served by Busan's metro lines, so bus is the standard route. From Nampo-dong or Busan Station, local buses (routes such as 6, 7, 9, 71, or 508, depending on your starting point) cross the Yeongdo Bridge and stop near Jeoryeong or Huinnyeoul entrance — check a real-time transit app before heading out, since bus numbers serving the village get adjusted periodically. A taxi from Nampo-dong or Busan Station takes roughly 10–15 minutes and is inexpensive enough to be worth it if you're short on time or traveling with a group. Many visitors combine the trip with Jagalchi Fish Market or the Yeongdo Bridge area, both a short ride away, making a loop rather than a there-and-back.
+There's no subway station directly at Huinnyeoul; Yeongdo Island isn't served by Busan's metro lines, so bus is the standard route. From Nampo-dong or Busan Station, local buses (routes such as 6, 7, 9, 71, or 508, depending on your starting point) cross the Yeongdo Bridge and stop near Jeoryeong or Huinnyeoul entrance — check a real-time transit app before heading out, since bus numbers serving the village get adjusted periodically.
+
+A taxi from Nampo-dong or Busan Station takes roughly 10–15 minutes and is inexpensive enough to be worth it if you're short on time or traveling with a group. Many visitors combine the trip with Jagalchi Fish Market or the Yeongdo Bridge area, both a short ride away, making a loop rather than a there-and-back.
 
 ## What to see and do
 
-The main draw is the waterside walking path that hugs the cliff base — a flat, paved stretch with benches facing the open sea toward Jeoryeong Bay, popular for photos at sunrise or sunset. Above it, the village itself is a maze of narrow stone stairways and alleys threaded between low houses, many painted with murals or fitted with small painted doors and window frames that reference the neighborhood's film-location fame (parts of the Korean film "Ode to My Father" were shot here). Look for the "Huinnyeoul No. 1 Slate House," a preserved traditional dwelling open to visitors that shows what the original refugee-era homes looked like. Several small cafés and galleries are built directly into converted houses, often with sea-view windows framing the water below — worth a stop for coffee even if just to sit and look out. Budget 60–90 minutes to walk the whole village slowly, more if you stop to browse the small craft and photo shops along the main lane.
+The main draw is the waterside walking path that hugs the cliff base — a flat, paved stretch with benches facing the open sea toward Jeoryeong Bay, popular for photos at sunrise or sunset. Above it, the village itself is a maze of narrow stone stairways and alleys threaded between low houses, many painted with murals or fitted with small painted doors and window frames that reference the neighborhood's film-location fame (parts of the Korean film "Ode to My Father" were shot here).
+
+Look for the "Huinnyeoul No. 1 Slate House," a preserved traditional dwelling open to visitors that shows what the original refugee-era homes looked like. Several small cafés and galleries are built directly into converted houses, often with sea-view windows framing the water below — worth a stop for coffee even if just to sit and look out. Budget 60–90 minutes to walk the whole village slowly, more if you stop to browse the small craft and photo shops along the main lane.
 
 ## When to go
 
@@ -93,4 +101,6 @@ Weekday mornings or later afternoons are noticeably quieter than weekend midday,
 
 ## Nearby & tips
 
-Jeoryeong Coastal Walk (Jeoryeong Haean-sanchaek-ro) continues the seaside path further along the coast and is an easy add-on for those who want more sea views without backtracking. Bongnae Mountain, Yeongdo's central peak, offers a longer hike with panoramic views over the harbor for travelers with extra time. Public restrooms and small snack stalls are limited inside the village itself, so it's worth eating beforehand in Nampo-dong or grabbing something at one of the village's few cafés. Confirm current bus routes and any posted opening hours for the Slate House museum before setting out, as these details shift more often than the village's layout.
+Jeoryeong Coastal Walk (Jeoryeong Haean-sanchaek-ro) continues the seaside path further along the coast and is an easy add-on for those who want more sea views without backtracking. Bongnae Mountain, Yeongdo's central peak, offers a longer hike with panoramic views over the harbor for travelers with extra time. Public restrooms and small snack stalls are limited inside the village itself, so it's worth eating beforehand in Nampo-dong or grabbing something at one of the village's few cafés.
+
+Confirm current bus routes and any posted opening hours for the Slate House museum before setting out, as these details shift more often than the village's layout.

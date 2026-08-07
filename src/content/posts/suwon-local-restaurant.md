@@ -32,11 +32,15 @@ draft: true
 
 ## Why Suwon, and Why Its Food Scene
 
-Suwon is best known as the home of Hwaseong Fortress, the UNESCO-listed 18th-century walled city built by King Jeongjo. But the fortress isn't just a historic backdrop — the neighborhoods inside and around its walls have grown into one of Gyeonggi Province's most rewarding places to eat. Suwon's signature dish, **Suwon galbi** (grilled beef short ribs, traditionally cut thicker than Seoul-style galbi), originated here in the mid-20th century and remains the reason many day-trippers come specifically to eat before or after touring the fortress. Beyond galbi, the area around Paldalmun Gate and the traditional markets nearby offer a dense, walkable concentration of local eateries that rarely make it onto English-language menus elsewhere.
+Suwon is best known as the home of Hwaseong Fortress, the UNESCO-listed 18th-century walled city built by King Jeongjo. But the fortress isn't just a historic backdrop — the neighborhoods inside and around its walls have grown into one of Gyeonggi Province's most rewarding places to eat. Suwon's signature dish, **Suwon galbi** (grilled beef short ribs, traditionally cut thicker than Seoul-style galbi), originated here in the mid-20th century and remains the reason many day-trippers come specifically to eat before or after touring the fortress.
+
+Beyond galbi, the area around Paldalmun Gate and the traditional markets nearby offer a dense, walkable concentration of local eateries that rarely make it onto English-language menus elsewhere.
 
 ## Getting There
 
-Suwon Station is the main hub, reachable via **Line 1** of the Seoul subway (about 1–1.5 hours from central Seoul) or by KTX/ITX trains from Seoul Station (roughly 30-45 minutes). From Suwon Station, the historic core around Hwaseong Fortress and Paldalmun Gate is about 10-15 minutes by taxi, or reachable via local buses (13, 36, 46, and several others run toward Paldalmun). Many visitors instead get off at **Suwon Station Line 1** and transfer to a bus, or take a taxi directly to **Paldalmun Gate**, which sits at the literal center of the old walled city and is the best orientation point for finding restaurants nearby.
+Suwon Station is the main hub, reachable via **Line 1** of the Seoul subway (about 1–1.5 hours from central Seoul) or by KTX/ITX trains from Seoul Station (roughly 30-45 minutes). From Suwon Station, the historic core around Hwaseong Fortress and Paldalmun Gate is about 10-15 minutes by taxi, or reachable via local buses (13, 36, 46, and several others run toward Paldalmun).
+
+Many visitors instead get off at **Suwon Station Line 1** and transfer to a bus, or take a taxi directly to **Paldalmun Gate**, which sits at the literal center of the old walled city and is the best orientation point for finding restaurants nearby.
 
 ## What to Eat and Where to Look
 

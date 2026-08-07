@@ -51,11 +51,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Chatuchak isn't a tidy tourist bazaar — it's a genuine working market that many Bangkokians still use for furniture, plants, and pets, which is exactly why it's worth the trip. With more than 15,000 stalls across 27 numbered sections, it's regularly cited as one of the largest weekend markets on earth, and its 4.4 rating from over 56,000 Google reviews reflects just how consistently it delivers for both first-time visitors and longtime Bangkok residents. Expect a genuinely eclectic mix: vintage Levi's and military surplus, hand-thrown ceramics, Isaan street food, second-hand vinyl, taxidermy, and yes, actual live animals for sale (more on that below).
+Chatuchak isn't a tidy tourist bazaar — it's a genuine working market that many Bangkokians still use for furniture, plants, and pets, which is exactly why it's worth the trip. With more than 15,000 stalls across 27 numbered sections, it's regularly cited as one of the largest weekend markets on earth, and its 4.4 rating from over 56,000 Google reviews reflects just how consistently it delivers for both first-time visitors and longtime Bangkok residents.
+
+Expect a genuinely eclectic mix: vintage Levi's and military surplus, hand-thrown ceramics, Isaan street food, second-hand vinyl, taxidermy, and yes, actual live animals for sale (more on that below).
 
 ## Getting there
 
-The market sits at 587, 10 Kamphaeng Phet 2 Rd, Chatuchak district, and it's built for public transit. The easiest route is the MRT (subway) to **Kamphaeng Phet station**, whose Exit 1 opens directly onto the market's northern edge near the plant and pet sections. Alternatively, take the BTS Skytrain to **Mo Chit station** and walk through Chatuchak Park, or exit at **BTS Mo Chit / MRT Chatuchak Park** for the main southern gates. Avoid driving — parking is scarce and the surrounding roads gridlock badly on market days. Taxis and ride-hailing apps (Grab) can drop you at the park's edge, but confirm with the driver which entrance, since the site spans multiple city blocks.
+The market sits at 587, 10 Kamphaeng Phet 2 Rd, Chatuchak district, and it's built for public transit. The easiest route is the MRT (subway) to **Kamphaeng Phet station**, whose Exit 1 opens directly onto the market's northern edge near the plant and pet sections. Alternatively, take the BTS Skytrain to **Mo Chit station** and walk through Chatuchak Park, or exit at **BTS Mo Chit / MRT Chatuchak Park** for the main southern gates.
+
+Avoid driving — parking is scarce and the surrounding roads gridlock badly on market days. Taxis and ride-hailing apps (Grab) can drop you at the park's edge, but confirm with the driver which entrance, since the site spans multiple city blocks.
 
 ## What to see, buy, and eat
 
@@ -76,4 +80,6 @@ The market runs primarily **Saturday and Sunday**, roughly 9am to 6pm, though ma
 
 ## Nearby & tips
 
-**Chatuchak Park** and the adjoining **Or Tor Kor Market** (known for premium Thai produce and prepared food) sit within easy walking distance and make a good cooldown stop after the market's maze-like intensity. Free market maps are available at information booths near the entrances — grab one, since phone GPS struggles under the market's dense tin roofing and narrow alleys. Wear light, breathable clothing, and consider a paper fan or handheld one, as ventilation between stalls is minimal. Plan for at least half a day if you want to see more than one or two sections properly — most visitors report getting genuinely lost at least once, which is part of the experience rather than a problem to avoid.
+**Chatuchak Park** and the adjoining **Or Tor Kor Market** (known for premium Thai produce and prepared food) sit within easy walking distance and make a good cooldown stop after the market's maze-like intensity. Free market maps are available at information booths near the entrances — grab one, since phone GPS struggles under the market's dense tin roofing and narrow alleys.
+
+Wear light, breathable clothing, and consider a paper fan or handheld one, as ventilation between stalls is minimal. Plan for at least half a day if you want to see more than one or two sections properly — most visitors report getting genuinely lost at least once, which is part of the experience rather than a problem to avoid.

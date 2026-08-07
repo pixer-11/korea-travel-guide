@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jeonju-hidden-gem
-srcHash: 49bc151efab2
+srcHash: '39ba0507bb92'
 title: 全州隐藏秘境
 description: 跳过全州韩屋村拥挤的主巷道，前往村落核心区以东的南门实길（Nammusil-gil）和自满壁画村（Jaman Mural Village），以及梧木台（Omokdae）和梨木台（Imokdae）山顶周边安静的居民小巷。
 quickAnswer: 跳过全州韩屋村拥挤的主巷道，前往村落核心区以东的南门实길（Nammusil-gil）和自满壁画村（Jaman Mural Village），以及梧木台（Omokdae）和梨木台（Imokdae）山顶周边安静的居民小巷。这些地方距离主要韩屋群仅10—15分钟步行路程，人流量却少得多，在这里你能找到仍在营业的传统茶馆、小型韩纸（hanji）工坊，还能不用排队买票就欣赏到毫无遮挡的瓦屋顶天台景观。

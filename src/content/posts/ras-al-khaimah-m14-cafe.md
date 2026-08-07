@@ -64,13 +64,17 @@ draft: true
 
 ## Why go
 
-Ras Al Khaimah's cafe scene has grown fast in the last few years, but much of it clusters around the marina and the big hotel strips. M14 Cafe sits a bit apart — inland, near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in the Seih Al Araibi area — and it's earned a strong 4.4 rating across 706 reviews without becoming a tourist checkpoint. That combination is rare in the emirate: a coffee shop good enough to be busy on weekends, yet still under-the-radar enough that you can usually find a seat and linger.
+Ras Al Khaimah's cafe scene has grown fast in the last few years, but much of it clusters around the marina and the big hotel strips. M14 Cafe sits a bit apart — inland, near New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road in the Seih Al Araibi area — and it's earned a strong 4.4 rating across 706 reviews without becoming a tourist checkpoint.
+
+That combination is rare in the emirate: a coffee shop good enough to be busy on weekends, yet still under-the-radar enough that you can usually find a seat and linger.
 
 It's the kind of place suited to travelers who want a real coffee break rather than a photo-op — think specialty espresso drinks, a workable brunch menu, and air conditioning that actually gives you a reason to stay an hour.
 
 ## Getting there
 
-M14 Cafe is easiest to reach by car or taxi, as is true for most of Ras Al Khaimah outside the old town core. The address places it right by New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road, one of the main arteries running through Seih Al Araibi — a district a short drive inland from the corniche and roughly 15-20 minutes from central RAK depending on traffic. If you're coming from the airport (RAK International Airport), it's a similarly quick hop, making this a sensible first or last stop on a trip.
+M14 Cafe is easiest to reach by car or taxi, as is true for most of Ras Al Khaimah outside the old town core. The address places it right by New Mall on Sheikh Humaid Al Mohammad Al Qasimi Road, one of the main arteries running through Seih Al Araibi — a district a short drive inland from the corniche and roughly 15-20 minutes from central RAK depending on traffic.
+
+If you're coming from the airport (RAK International Airport), it's a similarly quick hop, making this a sensible first or last stop on a trip.
 
 There's no metro in Ras Al Khaimah, so budget for a taxi (easily hailed via app) or a rental car. Parking around New Mall is generally straightforward, with dedicated lots serving the retail complex and its surrounding cafes and shops.
 

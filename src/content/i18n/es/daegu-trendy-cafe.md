@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: daegu-trendy-cafe
-srcHash: ee27d3031040
+srcHash: '4aa22aa183f8'
 title: Cafés de moda en Daegu
 description: Para los mejores cafés de moda de Daegu, dirígete a la zona de Dongseong-ro / Calle Kim Kwang-seok cerca de la estación de Jungangno (Línea 1) o a la más tranquila Calle Cultural de Bongsan, y para vivir la auténtica experiencia del "distrito de cafés", ve a la Calle de Cafés de Suseong-ro, junto a Suseongmot (Lago Suseong).
 quickAnswer: Para los mejores cafés de moda de Daegu, dirígete a la zona de Dongseong-ro / Calle Kim Kwang-seok cerca de la estación de Jungangno (Línea 1) o a la más tranquila Calle Cultural de Bongsan, y para vivir la auténtica experiencia del "distrito de cafés", ve a la Calle de Cafés de Suseong-ro, junto a Suseongmot (Lago Suseong). Encontrarás cafés instalados en hanok renovados, tostadurías en antiguos almacenes industriales y terrazas junto al lago; planea un recorrido de 2-3 horas combinando una parada para tomar café con un paseo. Ve entre semana por la mañana o a última hora de la tarde para evitar las colas del fin de semana, especialmente alrededor del Lago Suseong.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué destaca la escena de cafés de Daegu
 
-Daegu no recibe el protagonismo internacional de Seúl o Busan, pero ha construido silenciosamente una de las culturas de café más interesantes de Corea, en parte porque la ciudad tiene una auténtica herencia como tostadora de café —a menudo se la menciona como un centro de tostadores especializados— y en parte porque jóvenes emprendedores han convertido antiguos hanok, almacenes y edificios residenciales en cafés de diseño en lugar de locales de cadenas. El resultado es una escena que se siente más local y menos comercializada que el circuito de cafés "instagrameables" de Seúl, sin dejar de ofrecer los interiores cuidados y las bebidas/postres elaborados que definen la cultura del café "de moda" en Corea.
+Daegu no recibe el protagonismo internacional de Seúl o Busan, pero ha construido silenciosamente una de las culturas de café más interesantes de Corea, en parte porque la ciudad tiene una auténtica herencia como tostadora de café —a menudo se la menciona como un centro de tostadores especializados— y en parte porque jóvenes emprendedores han convertido antiguos hanok, almacenes y edificios residenciales en cafés de diseño en lugar de locales de cadenas.
+
+El resultado es una escena que se siente más local y menos comercializada que el circuito de cafés "instagrameables" de Seúl, sin dejar de ofrecer los interiores cuidados y las bebidas/postres elaborados que definen la cultura del café "de moda" en Corea.
 
 ## Cómo llegar
 
@@ -46,4 +48,6 @@ Ir entre semana a media mañana (10:30-12:00) o a media tarde (14:00-16:00) perm
 
 ## Alrededores y consejos prácticos
 
-Combina la visita a los cafés con lugares cercanos en lugar de tratarla como una parada aislada: Dongseong-ro conecta fácilmente con el **Mercado de Seomun** (a pocas estaciones de metro) para un contraste centrado en la comida, mientras que el Lago Suseong está a un corto trayecto en taxi o autobús del **Parque Duryu** y **E-World**, la zona de parque de atracciones y torre mirador de Daegu, ideal para pasar la tarde-noche después de un café por la tarde. La mayoría de los cafés de moda tienen menús en inglés o con fotos, y el pago móvil es prácticamente universal, aunque sigue siendo aconsejable llevar algo de efectivo para los locales independientes más pequeños. Confirma los horarios de cada café en línea antes de visitarlo, ya que muchos cafés coreanos independientes rotan sus días de cierre semanal (a menudo lunes o martes).
+Combina la visita a los cafés con lugares cercanos en lugar de tratarla como una parada aislada: Dongseong-ro conecta fácilmente con el **Mercado de Seomun** (a pocas estaciones de metro) para un contraste centrado en la comida, mientras que el Lago Suseong está a un corto trayecto en taxi o autobús del **Parque Duryu** y **E-World**, la zona de parque de atracciones y torre mirador de Daegu, ideal para pasar la tarde-noche después de un café por la tarde.
+
+La mayoría de los cafés de moda tienen menús en inglés o con fotos, y el pago móvil es prácticamente universal, aunque sigue siendo aconsejable llevar algo de efectivo para los locales independientes más pequeños. Confirma los horarios de cada café en línea antes de visitarlo, ya que muchos cafés coreanos independientes rotan sus días de cierre semanal (a menudo lunes o martes).

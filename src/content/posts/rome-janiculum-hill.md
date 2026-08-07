@@ -78,25 +78,39 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You climb out of Trastevere's tangle of ochre buildings and washing lines, past the Orto Botanico wall, and the noise of scooters and clinking trattoria glasses just falls away behind you. The road switchbacks up through umbrella pines, and every few turns there's a gap in the trees where the whole basin of Rome opens up below — domes first, then rooftops, then the hazy line of hills beyond. This is the Gianicolo, one of Rome's highest points, and unlike the Colosseum or the Vatican museums, there's no ticket, no queue, no closing time. It's open around the clock, every day of the week.
+You climb out of Trastevere's tangle of ochre buildings and washing lines, past the Orto Botanico wall, and the noise of scooters and clinking trattoria glasses just falls away behind you. The road switchbacks up through umbrella pines, and every few turns there's a gap in the trees where the whole basin of Rome opens up below — domes first, then rooftops, then the hazy line of hills beyond.
+
+This is the Gianicolo, one of Rome's highest points, and unlike the Colosseum or the Vatican museums, there's no ticket, no queue, no closing time. It's open around the clock, every day of the week.
 
 ## Why go
 
-Janiculum Hill isn't part of ancient Rome's official Seven Hills — it sits just across the Tiber — which is exactly why it became the city's best panoramic balcony: nobody built over it. Garibaldi's equestrian statue commands the main terrace, sword drawn, facing the city he fought to unite. Below him, St. Peter's dome punctuates the skyline to the northwest, and on a clear afternoon you can pick out the Pantheon's grey curve, the Altare della Patria's white marble, and the distant Alban Hills. At noon, a cannon still fires from the terrace — a tradition dating to the 1800s, once used so Romans could set their clocks.
+Janiculum Hill isn't part of ancient Rome's official Seven Hills — it sits just across the Tiber — which is exactly why it became the city's best panoramic balcony: nobody built over it. Garibaldi's equestrian statue commands the main terrace, sword drawn, facing the city he fought to unite. Below him, St. Peter's dome punctuates the skyline to the northwest, and on a clear afternoon you can pick out the Pantheon's grey curve, the Altare della Patria's white marble, and the distant Alban Hills.
+
+At noon, a cannon still fires from the terrace — a tradition dating to the 1800s, once used so Romans could set their clocks.
 
 ## Getting there
 
-The easiest approach is a taxi or rideshare directly to Piazzale Giuseppe Garibaldi, the main viewpoint. Budget travelers take bus 115, which loops up from Trastevere, or walk — it's steep but only about 15–20 minutes on foot from Piazza Trilussa, up Via Garibaldi past the Church of San Pietro in Montorio (where Bramante's Tempietto marks the spot early Christians believed St. Peter was crucified). If you're coming from the Vatican side, it's a flatter approach via Via delle Fornaci. There's no metro station up here; this is a hill, and you feel every meter of the climb.
+The easiest approach is a taxi or rideshare directly to Piazzale Giuseppe Garibaldi, the main viewpoint. Budget travelers take bus 115, which loops up from Trastevere, or walk — it's steep but only about 15–20 minutes on foot from Piazza Trilussa, up Via Garibaldi past the Church of San Pietro in Montorio (where Bramante's Tempietto marks the spot early Christians believed St. Peter was crucified).
+
+If you're coming from the Vatican side, it's a flatter approach via Via delle Fornaci. There's no metro station up here; this is a hill, and you feel every meter of the climb.
 
 ## What to see once you're up there
 
-Beyond the Garibaldi terrace, walk the tree-lined promenade toward the Fontanone dell'Acqua Paola, a Baroque fountain fed by an ancient Roman aqueduct that Romans nicknamed "il Fontanone" — the big fountain — for its five gushing arches. Further along, the Faro degli Italiani, a lighthouse gifted by Italian expats in Argentina, feels almost out of place among the pines but throws Italy's colors across the sky at dusk. Joggers, dog-walkers, and couples on benches share the space with the tour groups clustered at the main lookout, and if you keep walking past the crowd, the path thins out fast.
+Beyond the Garibaldi terrace, walk the tree-lined promenade toward the Fontanone dell'Acqua Paola, a Baroque fountain fed by an ancient Roman aqueduct that Romans nicknamed "il Fontanone" — the big fountain — for its five gushing arches. Further along, the Faro degli Italiani, a lighthouse gifted by Italian expats in Argentina, feels almost out of place among the pines but throws Italy's colors across the sky at dusk.
+
+Joggers, dog-walkers, and couples on benches share the space with the tour groups clustered at the main lookout, and if you keep walking past the crowd, the path thins out fast.
 
 ## When to go
 
-The measured quietest window here is 7am to 9am, on both weekdays and weekends — the cannon hasn't fired yet, the light is still low and gold across the rooftops, and the terrace belongs mostly to runners and locals walking dogs. On weekends, crowds build steadily and stay heavy from 10am all the way to 11pm, so if you're chasing an empty photo at the balustrade, don't come after breakfast. Sunset is the famous alternative time — genuinely spectacular, with the dome of St. Peter's silhouetted against orange sky — but expect to share the rail with a real crowd of visitors doing exactly the same thing.
+The measured quietest window here is 7am to 9am, on both weekdays and weekends — the cannon hasn't fired yet, the light is still low and gold across the rooftops, and the terrace belongs mostly to runners and locals walking dogs. On weekends, crowds build steadily and stay heavy from 10am all the way to 11pm, so if you're chasing an empty photo at the balustrade, don't come after breakfast.
+
+Sunset is the famous alternative time — genuinely spectacular, with the dome of St. Peter's silhouetted against orange sky — but expect to share the rail with a real crowd of visitors doing exactly the same thing.
 
 ## How to visit like a local
 
-Skip the sunset scrum if you actually want space to breathe: come at 7am instead, when the terrace is nearly empty and the whole city is still waking up under a soft haze. There's nothing to buy and no ticket booth, so there's no queue etiquette to navigate — this is a public park, not an attraction with a gate. If you do come at noon, position yourself near the cannon a few minutes early; it's loud, and the moment draws a small cluster of phones every single day. Wear real shoes — the climb and the cobbled paths punish flip-flops — and bring water, since there are only a couple of kiosks up top and they don't always suit walking early hours. Combine the visit with the Tempietto and the Orto Botanico on the way up, since both sit directly on the route from Trastevere and cost little extra time.
+Skip the sunset scrum if you actually want space to breathe: come at 7am instead, when the terrace is nearly empty and the whole city is still waking up under a soft haze. There's nothing to buy and no ticket booth, so there's no queue etiquette to navigate — this is a public park, not an attraction with a gate.
+
+If you do come at noon, position yourself near the cannon a few minutes early; it's loud, and the moment draws a small cluster of phones every single day. Wear real shoes — the climb and the cobbled paths punish flip-flops — and bring water, since there are only a couple of kiosks up top and they don't always suit walking early hours.
+
+Combine the visit with the Tempietto and the Orto Botanico on the way up, since both sit directly on the route from Trastevere and cost little extra time.
 

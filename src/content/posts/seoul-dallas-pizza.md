@@ -50,15 +50,21 @@ draft: true
 
 ## Why Dallas Pizza Is Worth the Trip
 
-Mullae-dong isn't where most visitors expect to find one of Seoul's buzziest restaurant openings. For decades this pocket of western Seoul, sandwiched between Yeongdeungpo and Mullae Station, was known purely for metalworking — sheet-metal shops, welding sparks, and the clang of machinery. That industrial backbone never left, but over the past fifteen years artists priced out of other neighborhoods moved into empty workshop spaces, layering studios, galleries, and now destination-worthy food and drink on top of the district's gritty base. Dallas Pizza is the latest and most talked-about addition to that mix: a pizzeria that has quickly become one of the trendiest reservations in the neighborhood, precisely because it sits where you'd least expect it — down a narrow alley, right next to a metal shop that's still actively in operation.
+Mullae-dong isn't where most visitors expect to find one of Seoul's buzziest restaurant openings. For decades this pocket of western Seoul, sandwiched between Yeongdeungpo and Mullae Station, was known purely for metalworking — sheet-metal shops, welding sparks, and the clang of machinery. That industrial backbone never left, but over the past fifteen years artists priced out of other neighborhoods moved into empty workshop spaces, layering studios, galleries, and now destination-worthy food and drink on top of the district's gritty base.
+
+Dallas Pizza is the latest and most talked-about addition to that mix: a pizzeria that has quickly become one of the trendiest reservations in the neighborhood, precisely because it sits where you'd least expect it — down a narrow alley, right next to a metal shop that's still actively in operation.
 
 ## Getting There
 
-Mullae-dong is served by Mullae Station on Seoul Subway Line 2, one of the city's busiest lines, which makes the area easy to reach from almost anywhere downtown. From the station, the district's mural-covered workshop streets spread out in a loose grid; Dallas Pizza's alley entrance is easy to miss if you're not looking for it, since the surrounding buildings are working metal shops rather than storefronts built for foot traffic. This is part of the appeal and part of the challenge — bring a mapped pin rather than relying on signage, and expect the final approach to feel more like finding a friend's workshop than walking into a restaurant.
+Mullae-dong is served by Mullae Station on Seoul Subway Line 2, one of the city's busiest lines, which makes the area easy to reach from almost anywhere downtown. From the station, the district's mural-covered workshop streets spread out in a loose grid; Dallas Pizza's alley entrance is easy to miss if you're not looking for it, since the surrounding buildings are working metal shops rather than storefronts built for foot traffic.
+
+This is part of the appeal and part of the challenge — bring a mapped pin rather than relying on signage, and expect the final approach to feel more like finding a friend's workshop than walking into a restaurant.
 
 ## What Makes It Stand Out
 
-The draw here isn't just the food — it's the contrast. You pass through an alley still humming with the sounds of an active metal workshop, then step into a pizzeria clearly designed by people who understand what makes a space feel discovered rather than manufactured. That juxtaposition of raw industrial grit and considered hospitality is exactly what has made Mullae-dong a destination for Seoul's creative crowd over the last decade, and Dallas Pizza has become something of a flagship example of that evolution. Because the restaurant is reservation-only and details are still settling as word spreads, it's worth treating any menu or hours info you find online as provisional — confirm directly with the restaurant's own booking channel before building plans around it.
+The draw here isn't just the food — it's the contrast. You pass through an alley still humming with the sounds of an active metal workshop, then step into a pizzeria clearly designed by people who understand what makes a space feel discovered rather than manufactured. That juxtaposition of raw industrial grit and considered hospitality is exactly what has made Mullae-dong a destination for Seoul's creative crowd over the last decade, and Dallas Pizza has become something of a flagship example of that evolution.
+
+Because the restaurant is reservation-only and details are still settling as word spreads, it's worth treating any menu or hours info you find online as provisional — confirm directly with the restaurant's own booking channel before building plans around it.
 
 ## When to Go
 
@@ -66,7 +72,11 @@ Given its reservation-only model and its reputation as one of the most talked-ab
 
 ## How to visit like a local
 
-Book your table before you fly, not after you land — reservation-only spots that are trending in Seoul tend to fill their slots quickly, often through Naver or Instagram booking links rather than international platforms, so start your search there and be ready to act fast if a slot appears. Because this is a small operation squeezed into a converted alley space, expect payment to be handled the way most contemporary Seoul restaurants operate: card or mobile pay (Naver Pay, Kakao Pay) rather than cash, and no tipping — it isn't customary anywhere in South Korea, including trendy restaurants. If you don't read Korean, save the restaurant's name in Hangul (달라스피자) on your phone to show a taxi driver or to search local map apps like Naver Map or Kakao Map, which are far more reliable for pinpointing an alley address than international map apps in this part of Seoul. The single biggest mistake visitors make here is treating it like a casual walk-in spot because it's "just a pizza place" — arrive without a reservation and you'll likely be turned away at the door. Also budget extra walking time: house numbers in Mullae-dong's workshop alleys don't always run in obvious order, and the metal shop next door is a genuine working business, not a decorative prop, so keep clear of machinery and materials as you find your way in.
+Book your table before you fly, not after you land — reservation-only spots that are trending in Seoul tend to fill their slots quickly, often through Naver or Instagram booking links rather than international platforms, so start your search there and be ready to act fast if a slot appears. Because this is a small operation squeezed into a converted alley space, expect payment to be handled the way most contemporary Seoul restaurants operate: card or mobile pay (Naver Pay, Kakao Pay) rather than cash, and no tipping — it isn't customary anywhere in South Korea, including trendy restaurants.
+
+If you don't read Korean, save the restaurant's name in Hangul (달라스피자) on your phone to show a taxi driver or to search local map apps like Naver Map or Kakao Map, which are far more reliable for pinpointing an alley address than international map apps in this part of Seoul. The single biggest mistake visitors make here is treating it like a casual walk-in spot because it's "just a pizza place" — arrive without a reservation and you'll likely be turned away at the door.
+
+Also budget extra walking time: house numbers in Mullae-dong's workshop alleys don't always run in obvious order, and the metal shop next door is a genuine working business, not a decorative prop, so keep clear of machinery and materials as you find your way in.
 
 ## Nearby to Combine With Your Visit
 

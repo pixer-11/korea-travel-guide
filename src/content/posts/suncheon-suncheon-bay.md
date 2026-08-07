@@ -45,11 +45,15 @@ country: South Korea
 
 ## Why go
 
-Suncheon Bay is one of the largest and best-preserved tidal wetlands in the world, and it's the reason Suncheon markets itself as South Korea's "Garden City." The reserve's silver-green reed fields (called *galdae* in Korean), tidal mudflats, and resident cranes have made it a UNESCO-listed Ramsar wetland, while the neighboring Suncheon Bay National Garden — built for the 2013 Suncheon Garden Expo — turned the area into a full-day destination combining landscaped international gardens with raw coastal ecology. Few places in Korea let you walk from manicured French and Italian-style garden plots into an untouched tidal marsh within the same afternoon.
+Suncheon Bay is one of the largest and best-preserved tidal wetlands in the world, and it's the reason Suncheon markets itself as South Korea's "Garden City." The reserve's silver-green reed fields (called *galdae* in Korean), tidal mudflats, and resident cranes have made it a UNESCO-listed Ramsar wetland, while the neighboring Suncheon Bay National Garden — built for the 2013 Suncheon Garden Expo — turned the area into a full-day destination combining landscaped international gardens with raw coastal ecology.
+
+Few places in Korea let you walk from manicured French and Italian-style garden plots into an untouched tidal marsh within the same afternoon.
 
 ## Getting there
 
-Suncheon Bay is a few kilometers south of downtown Suncheon, which itself is reachable by KTX from Seoul (roughly 2.5–3 hours) or by train/bus from Yeosu and Gwangju. From Suncheon Station or the Suncheon Bus Terminal, local city buses (routes 1, 2, and 66 are commonly used by visitors) run directly to the Suncheon Bay National Garden entrance; a taxi from the station takes about 15–20 minutes. There is no subway in Suncheon, so bus or taxi is standard. Many visitors also arrive via organized day tours from Yeosu or Gwangju, since the bay pairs naturally with Yeosu's coastal sights.
+Suncheon Bay is a few kilometers south of downtown Suncheon, which itself is reachable by KTX from Seoul (roughly 2.5–3 hours) or by train/bus from Yeosu and Gwangju. From Suncheon Station or the Suncheon Bus Terminal, local city buses (routes 1, 2, and 66 are commonly used by visitors) run directly to the Suncheon Bay National Garden entrance; a taxi from the station takes about 15–20 minutes.
+
+There is no subway in Suncheon, so bus or taxi is standard. Many visitors also arrive via organized day tours from Yeosu or Gwangju, since the bay pairs naturally with Yeosu's coastal sights.
 
 ## What to see and do
 
@@ -61,7 +65,9 @@ The signature view is from **Yongsan Observatory**, a roughly 40–50 minute uph
 
 ## When to go
 
-Each season shows a different bay. Autumn (late September through October) is the postcard season, when the reeds turn golden-silver and sway densely along the channel — this is also the most crowded period. Winter (December–February) trades the reeds for migratory cranes and a starker, quieter landscape. Spring brings green shoots and mild walking weather, while summer is lush but hot and humid, with fewer birds. Regardless of season, plan to arrive by early-to-mid afternoon so you have time for both the garden and the wetland walk before the observatory sunset light.
+Each season shows a different bay. Autumn (late September through October) is the postcard season, when the reeds turn golden-silver and sway densely along the channel — this is also the most crowded period. Winter (December–February) trades the reeds for migratory cranes and a starker, quieter landscape. Spring brings green shoots and mild walking weather, while summer is lush but hot and humid, with fewer birds.
+
+Regardless of season, plan to arrive by early-to-mid afternoon so you have time for both the garden and the wetland walk before the observatory sunset light.
 
 ## Nearby and practical tips
 

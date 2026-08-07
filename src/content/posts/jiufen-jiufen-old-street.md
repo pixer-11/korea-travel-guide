@@ -61,7 +61,9 @@ Jiufen climbs the side of a mountain in New Taipei City's Ruifang District, and 
 
 ## Why Jiufen became famous
 
-Jiufen was a gold-mining town in the late 19th and early 20th centuries under Japanese rule, and the wealth from that boom built the teahouses and theaters that still line the hillside. When the mines closed in the 1970s, the town nearly emptied out. It was a 1989 film, Hou Hsiao-hsien's "A City of Sadness," that brought it back into the national imagination, and tourism has climbed steadily since. Today it draws well over a hundred thousand visitors a year, and it shows: this is not a quiet corner of Taiwan, and treating it as one will only lead to frustration.
+Jiufen was a gold-mining town in the late 19th and early 20th centuries under Japanese rule, and the wealth from that boom built the teahouses and theaters that still line the hillside. When the mines closed in the 1970s, the town nearly emptied out. It was a 1989 film, Hou Hsiao-hsien's "A City of Sadness," that brought it back into the national imagination, and tourism has climbed steadily since.
+
+Today it draws well over a hundred thousand visitors a year, and it shows: this is not a quiet corner of Taiwan, and treating it as one will only lead to frustration.
 
 ## Getting there
 
@@ -69,7 +71,9 @@ The most common route from Taipei is a bus directly to Jiufen — the 1062 from 
 
 ## What to see and eat
 
-Jishan Old Street is the main pedestrian artery, but the real charm is ducking off it onto Shuqi Road, the steeper cross-street with the postcard view down toward the sea — this is the spot everyone photographs at dusk when the lanterns switch on. A-Mei Tea House, with its multi-tiered wooden facade, is the building most identified with the town's teahouse era; you don't have to go inside to appreciate it from the viewing platform across the alley. For food, look for taro balls (芋圓) served hot or cold in sweet syrup, peanut ice cream rolls shaved tableside, and fish ball soup from the stalls that have been running for generations. Portions are small and cheap, so the move is to graze across five or six stalls rather than commit to one sit-down meal.
+Jishan Old Street is the main pedestrian artery, but the real charm is ducking off it onto Shuqi Road, the steeper cross-street with the postcard view down toward the sea — this is the spot everyone photographs at dusk when the lanterns switch on. A-Mei Tea House, with its multi-tiered wooden facade, is the building most identified with the town's teahouse era; you don't have to go inside to appreciate it from the viewing platform across the alley.
+
+For food, look for taro balls (芋圓) served hot or cold in sweet syrup, peanut ice cream rolls shaved tableside, and fish ball soup from the stalls that have been running for generations. Portions are small and cheap, so the move is to graze across five or six stalls rather than commit to one sit-down meal.
 
 ## When to go
 
@@ -77,4 +81,6 @@ Jiufen has no shade and no flat ground, so midsummer midday visits are genuinely
 
 ## How to visit like a local
 
-Skip Saturday and Sunday afternoons entirely if you can — that's when tour buses from Taipei arrive in waves and Jishan Street becomes a single-file crawl. A weekday visit, or a weekend visit before 10am, is dramatically calmer. Most stalls and small shops deal in cash, though larger tea houses increasingly accept cards or mobile payment — carry some New Taiwan dollars in small bills regardless. There's no real queueing system on the main street, just patient shuffling with the flow of foot traffic; trying to push against the current is the fastest way to get frustrated. The most common mistake visitors make is trying to see Jiufen as a quick 30-minute photo stop between other sights — the steps and crowds mean it takes longer than it looks, so budget at least two hours, more if you want to sit down for tea with a sea view.
+Skip Saturday and Sunday afternoons entirely if you can — that's when tour buses from Taipei arrive in waves and Jishan Street becomes a single-file crawl. A weekday visit, or a weekend visit before 10am, is dramatically calmer. Most stalls and small shops deal in cash, though larger tea houses increasingly accept cards or mobile payment — carry some New Taiwan dollars in small bills regardless.
+
+There's no real queueing system on the main street, just patient shuffling with the flow of foot traffic; trying to push against the current is the fastest way to get frustrated. The most common mistake visitors make is trying to see Jiufen as a quick 30-minute photo stop between other sights — the steps and crowds mean it takes longer than it looks, so budget at least two hours, more if you want to sit down for tea with a sea view.

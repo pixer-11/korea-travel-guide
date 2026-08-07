@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hyderabad-kadamba
-srcHash: 9c0a3f7aea8b
+srcHash: '33638c22edce'
 title: 海得拉巴 Kadamba 屋顶酒吧
 description: Kadamba 是位于海得拉巴 Madhapur 的一间屋顶酒吧,俯瞰 Durgam Cheruvu 湖,以三棵真实生长的 Kadamba 树和低矮的原址座位设计而闻名,风格宛如印度村落的公共集会场所（chaupal）。
 quickAnswer: Kadamba 是位于海得拉巴 Madhapur 的一间屋顶酒吧,俯瞰 Durgam Cheruvu 湖,围绕三棵真实生长的 Kadamba 树而建,配有低矮的原址座位,风格宛如印度村落的公共集会场所（village chaupal）。这里以来自果阿（Goa）的调酒师 Sujan Shetty 与 Palash Kadam 合作打造的大胆创新鸡尾酒和小食菜单而闻名——比如 Aam-Chur、Agasi Negroni,以及 podi edamame（香料毛豆）。建议在黄昏时分前往,由于目前是全城热议的新开业场所,最好提前预订,并在出发前确认营业时间。
@@ -20,13 +20,17 @@ faq:
 
 ## 为什么值得一去
 
-海得拉巴的屋顶酒吧并不少见,但 Kadamba 的与众不同之处在于——它的设计并非与场地本身对抗,而是从场地中生长出来的。这间屋顶酒吧围绕着三棵真实生长的 Kadamba 树而建,这些树被原地保留,而非作为盆栽装饰摆放，低矮的长凳直接嵌入整体布局之中,使整个空间更像是印度村落公共集会场所（village chaupal，一种遍布印度乡村的树荫下公共聚会场地）的现代演绎,而非千篇一律的玻璃钢铁风格休闲酒吧。这样的设计带来的效果是:整个场所显得质朴而扎根,在如此热门的酒吧中显得格外宁静,视野向外延展,可以望见 Durgam Cheruvu——这座岩石环绕的湖泊,如今已成为 Madhapur 的标志性景观。
+海得拉巴的屋顶酒吧并不少见,但 Kadamba 的与众不同之处在于——它的设计并非与场地本身对抗,而是从场地中生长出来的。这间屋顶酒吧围绕着三棵真实生长的 Kadamba 树而建,这些树被原地保留,而非作为盆栽装饰摆放，低矮的长凳直接嵌入整体布局之中,使整个空间更像是印度村落公共集会场所（village chaupal，一种遍布印度乡村的树荫下公共聚会场地）的现代演绎,而非千篇一律的玻璃钢铁风格休闲酒吧。
+
+这样的设计带来的效果是:整个场所显得质朴而扎根,在如此热门的酒吧中显得格外宁静,视野向外延展,可以望见 Durgam Cheruvu——这座岩石环绕的湖泊,如今已成为 Madhapur 的标志性景观。
 
 酒水菜单是 Kadamba 开业后迅速声名鹊起的另一个原因。这里由在果阿（Goa）酒吧圈颇具名气的调酒师 Sujan Shetty 掌舵,与 Palash Kadam 携手合作。他们的菜单大胆创新而非四平八稳——Aam-Chur 从印度日常调味料中汲取灵感（融合了芒果与芒果干粉的风味）,而 Agasi Negroni 则以经典意大利配方为基底,用本地食材加以改良。在小食方面,podi edamame（拌有南印度香料粉的毛豆）被特别称赞为一大亮点——这道看似简单的小菜,恰恰体现了后厨以酒吧小食视角重新演绎印度风味（desi flavors）的理念。
 
 ## 交通指南
 
-Kadamba 位于 Madhapur,紧邻 Durgam Cheruvu 湖畔,地处海得拉巴 HITEC City / Gachibowli 科技走廊的核心地带。这一带与 Jubilee Hills 和 Kondapur 属于同一片城区,因此如果你下榻在这些街区附近,或是在 Banjara Hills 一带,车程大约 15 到 25 分钟,具体视路况而定。海得拉巴地铁蓝线（Blue Line）设有 Durgam Cheruvu 站,专门为服务这片湖区而建,车站本身还配有一处屋顶观景台——这是最便捷的公共交通选择,从车站步行即可到达湖边如雨后春笋般涌现的酒吧和咖啡馆。如果你从更远的地方过来,三轮车（Autos）和网约车会是更省心的选择,因为周末夜晚湖区附近的停车位往往十分紧张。
+Kadamba 位于 Madhapur,紧邻 Durgam Cheruvu 湖畔,地处海得拉巴 HITEC City / Gachibowli 科技走廊的核心地带。这一带与 Jubilee Hills 和 Kondapur 属于同一片城区,因此如果你下榻在这些街区附近,或是在 Banjara Hills 一带,车程大约 15 到 25 分钟,具体视路况而定。海得拉巴地铁蓝线（Blue Line）设有 Durgam Cheruvu 站,专门为服务这片湖区而建,车站本身还配有一处屋顶观景台——这是最便捷的公共交通选择,从车站步行即可到达湖边如雨后春笋般涌现的酒吧和咖啡馆。
+
+如果你从更远的地方过来,三轮车（Autos）和网约车会是更省心的选择,因为周末夜晚湖区附近的停车位往往十分紧张。
 
 ## 游览与美食指南
 

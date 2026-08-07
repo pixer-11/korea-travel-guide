@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-luna
-srcHash: 3a020a9e5884
+srcHash: '52890d7b0002'
 title: Luna en Roma
 description: Luna es un local de especialidad de café y brunch abierto en 2025 cerca de Piazza Barberini, creado por el equipo de Faro y Aliena Coffee Roasters, que combina un serio programa de espresso con una panadería propia y una carta lúdica con temática espacial.
 quickAnswer: 'Luna es un local de especialidad de café y brunch abierto en 2025 cerca de Piazza Barberini, creado por el equipo de Faro y Aliena Coffee Roasters, que combina un serio programa de espresso con una panadería propia y una carta lúdica con temática espacial. Lo mejor es verlo como una parada de media mañana o de brunch de fin de semana mientras se explora el centro de Roma: conviene llegar sin esperar un horario fijo y confirmar los horarios actuales antes de ir, ya que las aperturas nuevas suelen ajustar sus horarios con frecuencia durante su primer año.'
@@ -20,19 +20,25 @@ faq:
 
 ## Por qué destaca Luna
 
-La escena de cafés de Roma ha significado tradicionalmente tomar un espresso rápido de pie ante una barra de mármol, pero una nueva ola de cafeterías de especialidad ha ido cambiando ese guion — y Luna, que abrió en 2025 cerca de Piazza Barberini, es una de las incorporaciones más comentadas. Viene del equipo detrás de Faro, una de las cafeterías pioneras de la tercera ola en Roma, y de Aliena Coffee Roasters, así que los granos y los métodos de preparación son un valor conocido para quien haya seguido la escena cafetera de la ciudad en los últimos años. Lo que diferencia a Luna de sus hermanos es el formato: una carta completa de brunch durante todo el día más una panadería propia, todo envuelto en una temática espacial y lunar suelta que se refleja en los nombres y la presentación más que en una decoración recargada.
+La escena de cafés de Roma ha significado tradicionalmente tomar un espresso rápido de pie ante una barra de mármol, pero una nueva ola de cafeterías de especialidad ha ido cambiando ese guion — y Luna, que abrió en 2025 cerca de Piazza Barberini, es una de las incorporaciones más comentadas. Viene del equipo detrás de Faro, una de las cafeterías pioneras de la tercera ola en Roma, y de Aliena Coffee Roasters, así que los granos y los métodos de preparación son un valor conocido para quien haya seguido la escena cafetera de la ciudad en los últimos años.
+
+Lo que diferencia a Luna de sus hermanos es el formato: una carta completa de brunch durante todo el día más una panadería propia, todo envuelto en una temática espacial y lunar suelta que se refleja en los nombres y la presentación más que en una decoración recargada.
 
 Para los visitantes, esto importa porque las opciones de brunch en Roma que van más allá de un cornetto y un cappuccino siguen siendo relativamente escasas en el centro histórico. Luna llena ese vacío mientras se mantiene cerca de las principales rutas turísticas, convirtiéndose en una parada lógica entre la Fontana de Trevi y los jardines de Villa Borghese en lugar de un destino que requiera un viaje especial.
 
 ## Cómo llegar
 
-Luna está cerca de Piazza Barberini, uno de los puntos de referencia más sencillos del centro de Roma. La parada de metro más cercana es **Barberini (Línea A)**, la misma línea que conecta con Termini y con la parada Spagna para la Escalinata de la Plaza de España. Desde la salida de la estación Barberini, la propia plaza está marcada por la Fontana del Tritón de Bernini, un punto útil si vas orientándote a pie en lugar de depender del GPS en las estrechas calles de alrededor. Piazza Barberini también se encuentra en el límite de los barrios Tridente y Quirinale, por lo que se puede llegar a pie — unos 10-15 minutos — desde la Fontana de Trevi, y unos 15-20 minutos desde la Escalinata de la Plaza de España si prefieres caminar en lugar de tomar el metro una sola parada.
+Luna está cerca de Piazza Barberini, uno de los puntos de referencia más sencillos del centro de Roma. La parada de metro más cercana es **Barberini (Línea A)**, la misma línea que conecta con Termini y con la parada Spagna para la Escalinata de la Plaza de España. Desde la salida de la estación Barberini, la propia plaza está marcada por la Fontana del Tritón de Bernini, un punto útil si vas orientándote a pie en lugar de depender del GPS en las estrechas calles de alrededor.
+
+Piazza Barberini también se encuentra en el límite de los barrios Tridente y Quirinale, por lo que se puede llegar a pie — unos 10-15 minutos — desde la Fontana de Trevi, y unos 15-20 minutos desde la Escalinata de la Plaza de España si prefieres caminar en lugar de tomar el metro una sola parada.
 
 Los taxis y los coches de plataformas como Uber pueden dejarte fácilmente aquí, ya que Piazza Barberini es una gran rotonda de tráfico, a diferencia de las zonas peatonales del interior del casco histórico.
 
 ## Qué esperar
 
-Dada la trayectoria del equipo, se puede esperar un programa de espresso serio: granos de calidad del propio tostado de Aliena, y baristas que dominan bien la textura de la leche y la extracción — un nivel por encima del espresso de barra estándar que sirven la mayoría de los cafés romanos. El formato de brunch durante todo el día sugiere platos de huevo, bollería y platos más ligeros pensados para disfrutar con calma, mientras que la panadería propia apunta a pan fresco y viennoiserie elaborados en el local en lugar de traídos de fuera. El nombre lúdico de la carta con temática espacial es un toque distintivo que se ha convertido en parte de la identidad del local y de su presencia en redes sociales desde su apertura.
+Dada la trayectoria del equipo, se puede esperar un programa de espresso serio: granos de calidad del propio tostado de Aliena, y baristas que dominan bien la textura de la leche y la extracción — un nivel por encima del espresso de barra estándar que sirven la mayoría de los cafés romanos. El formato de brunch durante todo el día sugiere platos de huevo, bollería y platos más ligeros pensados para disfrutar con calma, mientras que la panadería propia apunta a pan fresco y viennoiserie elaborados en el local en lugar de traídos de fuera.
+
+El nombre lúdico de la carta con temática espacial es un toque distintivo que se ha convertido en parte de la identidad del local y de su presencia en redes sociales desde su apertura.
 
 Como Luna es una apertura reciente, los platos exactos, los precios y la carta completa no estaban confirmados en el momento de escribir esto — conviene tratar cualquier detalle que se vea en línea como una foto del momento y no como una garantía, y revisar directamente la carta y los horarios actuales (a través de sus redes sociales o su ficha de Google) antes de convertirlo en el centro de una mañana.
 

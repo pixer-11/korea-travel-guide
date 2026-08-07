@@ -70,7 +70,9 @@ updatedDate: '2026-07-24'
 
 ## Why Jeonju is a food destination first
 
-Jeonju has long been considered the unofficial food capital of South Korea, and the claim isn't marketing fluff — it's the acknowledged birthplace of bibimbap as most Koreans know it today, and the city holds a UNESCO "City of Gastronomy" designation. The reason to come here isn't a single landmark dish but a whole layered food culture: fermented soy and chili pastes made with famously good local water, a centuries-old market culture, and a hanok village that has turned traditional eating into its main tourist draw. Restaurants inside the village lean into this identity hard, which is exactly what a visitor wants — you're not hunting for authenticity, you're surrounded by it.
+Jeonju has long been considered the unofficial food capital of South Korea, and the claim isn't marketing fluff — it's the acknowledged birthplace of bibimbap as most Koreans know it today, and the city holds a UNESCO "City of Gastronomy" designation. The reason to come here isn't a single landmark dish but a whole layered food culture: fermented soy and chili pastes made with famously good local water, a centuries-old market culture, and a hanok village that has turned traditional eating into its main tourist draw.
+
+Restaurants inside the village lean into this identity hard, which is exactly what a visitor wants — you're not hunting for authenticity, you're surrounded by it.
 
 ## Getting there
 
@@ -78,12 +80,20 @@ The Jeonju Hanok Village sits in Wansan-gu, south of the Jeonju River, and is be
 
 ## What to eat here
 
-Start with **Jeonju bibimbap**, the dish that put the city on the culinary map: rice mixed with dozens of seasoned vegetables, raw or cooked beef, a raw egg yolk, and a spoon of the region's chili paste, often served in a hot stone bowl (dolsot) so the bottom layer crisps into a rice crust. Order **kongnamul-gukbap** if you're eating breakfast or need something after a night of makgeolli — it's a clear, bean-sprout soup with rice, historically a hangover cure and a genuine local staple rather than a tourist invention. Pair meals with **makgeolli**, the milky, lightly fizzy rice wine; Jeonju's version is often served in a full table setting with a dozen small side dishes (anju) included in the price, which is part of the local drinking custom, not an upsell. For something to eat on the move through the alleys, look for **PNB** or **Pungnyeon** hallabong/choco pies, **kkojangeo** (grilled skewered eel or fish cakes), and **modu-tteok**. The restaurant at 31 Taejo-ro, with its 4.1 rating across 315 reviews, is a reasonable one-stop option for bibimbap and traditional sides if you'd rather sit down for a full meal than graze.
+Start with **Jeonju bibimbap**, the dish that put the city on the culinary map: rice mixed with dozens of seasoned vegetables, raw or cooked beef, a raw egg yolk, and a spoon of the region's chili paste, often served in a hot stone bowl (dolsot) so the bottom layer crisps into a rice crust. Order **kongnamul-gukbap** if you're eating breakfast or need something after a night of makgeolli — it's a clear, bean-sprout soup with rice, historically a hangover cure and a genuine local staple rather than a tourist invention.
+
+Pair meals with **makgeolli**, the milky, lightly fizzy rice wine; Jeonju's version is often served in a full table setting with a dozen small side dishes (anju) included in the price, which is part of the local drinking custom, not an upsell. For something to eat on the move through the alleys, look for **PNB** or **Pungnyeon** hallabong/choco pies, **kkojangeo** (grilled skewered eel or fish cakes), and **modu-tteok**.
+
+The restaurant at 31 Taejo-ro, with its 4.1 rating across 315 reviews, is a reasonable one-stop option for bibimbap and traditional sides if you'd rather sit down for a full meal than graze.
 
 ## When to go and how long to stay
 
-Aim for a weekday lunch (11:30am-1pm) to beat both tour groups and the lines that build at popular hanok-village spots by early afternoon. Spring (April) and autumn (October-November) bring the most comfortable walking weather and coincide with the Jeonju Bibimbap Festival and Jeonju International Film Festival, both of which pull crowds, so book ahead or arrive early during those windows. Two to three hours is enough to eat a proper meal, snack through a couple of alley stalls, and see the shrine and cathedral nearby; a half-day lets you add a hanok stay or a tea house.
+Aim for a weekday lunch (11:30am-1pm) to beat both tour groups and the lines that build at popular hanok-village spots by early afternoon. Spring (April) and autumn (October-November) bring the most comfortable walking weather and coincide with the Jeonju Bibimbap Festival and Jeonju International Film Festival, both of which pull crowds, so book ahead or arrive early during those windows.
+
+Two to three hours is enough to eat a proper meal, snack through a couple of alley stalls, and see the shrine and cathedral nearby; a half-day lets you add a hanok stay or a tea house.
 
 ## Nearby and practical tips
 
-Gyeonggijeon Shrine (housing portraits of the Joseon dynasty's founding king) and Jeondong Catholic Church are both a five-to-ten-minute walk from the Taejo-ro restaurant strip and worth combining with a meal. Nambu Market, a few minutes further, runs a night market on Friday and Saturday evenings and is a good second stop for cheaper street food after a sit-down lunch. Many hanok-village restaurants only accept cash or Korean card payment at smaller stalls, so carry some won as backup even though larger restaurants take international cards. Renting a hanbok (traditional dress) for a few hours, common right at the village entrance, gets you discounted or free entry at several nearby attractions — worth doing before, not after, your meal, since bibimbap and sesame oil don't mix well with rented silk.
+Gyeonggijeon Shrine (housing portraits of the Joseon dynasty's founding king) and Jeondong Catholic Church are both a five-to-ten-minute walk from the Taejo-ro restaurant strip and worth combining with a meal. Nambu Market, a few minutes further, runs a night market on Friday and Saturday evenings and is a good second stop for cheaper street food after a sit-down lunch. Many hanok-village restaurants only accept cash or Korean card payment at smaller stalls, so carry some won as backup even though larger restaurants take international cards.
+
+Renting a hanbok (traditional dress) for a few hours, common right at the village entrance, gets you discounted or free entry at several nearby attractions — worth doing before, not after, your meal, since bibimbap and sesame oil don't mix well with rented silk.

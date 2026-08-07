@@ -60,15 +60,21 @@ eventRecurring: true
 
 ## Why go
 
-Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition (July 30–August 2) has already confirmed Charli XCX, Lorde, and Doja Cat as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages. The full lineup, set times and daily posters were published in the months before the festival, and follow the same pattern for each edition.
+Lollapalooza is one of the few American festivals still held in the heart of a major downtown, and that's the appeal: Grant Park sits between Michigan Avenue and Lake Michigan, so between sets you can see the Chicago skyline, Buckingham Fountain, and the lake all from the festival grounds. The 2026 edition (July 30–August 2) has already confirmed Charli XCX, Lorde, and Doja Cat as headliners, continuing Lollapalooza's pattern of mixing pop, hip-hop, rock, and electronic acts across roughly eight stages.
+
+The full lineup, set times and daily posters were published in the months before the festival, and follow the same pattern for each edition.
 
 ## Getting there
 
-Grant Park is bounded by Michigan Avenue, Lake Shore Drive, Balbo Drive, and Roosevelt Road, right against the Loop. The most convenient CTA stops are Roosevelt (Red, Orange, Green Lines) and Harrison (Red Line), both a short walk from the south end of the park; Metra Electric and South Shore trains also stop at Museum Campus/11th Street. If you're staying downtown, walking is realistic from most South Loop, Loop, or Streeterville hotels. Driving is discouraged — Lake Shore Drive sees closures, parking downtown is expensive, and rideshare pickup zones get congested at rush hour and after headliner sets. Divvy bike stations ring the park but expect them to empty out fast during peak entry/exit windows.
+Grant Park is bounded by Michigan Avenue, Lake Shore Drive, Balbo Drive, and Roosevelt Road, right against the Loop. The most convenient CTA stops are Roosevelt (Red, Orange, Green Lines) and Harrison (Red Line), both a short walk from the south end of the park; Metra Electric and South Shore trains also stop at Museum Campus/11th Street. If you're staying downtown, walking is realistic from most South Loop, Loop, or Streeterville hotels.
+
+Driving is discouraged — Lake Shore Drive sees closures, parking downtown is expensive, and rideshare pickup zones get congested at rush hour and after headliner sets. Divvy bike stations ring the park but expect them to empty out fast during peak entry/exit windows.
 
 ## What to expect inside
 
-Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming so you'll walk past house and electronic tents on the way to a rock or hip-hop headliner. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds. Water refill stations are usually placed throughout the park, worth using given the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists are adjusted year to year and should be checked on the official Lollapalooza site for the edition you are attending.
+Lollapalooza typically spans multiple stages spread across the park's lakefront lawns, with genre-mixed programming so you'll walk past house and electronic tents on the way to a rock or hip-hop headliner. Past years have featured on-site art installations, brand activations, a Kidzapalooza family area, and a curated food row with Chicago-based vendors alongside national chains — a good way to sample deep-dish, Italian beef, or local coffee without leaving the grounds.
+
+Water refill stations are usually placed throughout the park, worth using given the late-July Chicago heat and humidity. Bag policies (clear bag rules are standard at large U.S. festivals) and prohibited-item lists are adjusted year to year and should be checked on the official Lollapalooza site for the edition you are attending.
 
 ## When to go and how long to stay
 
@@ -76,4 +82,6 @@ The festival runs four days, Thursday through Sunday, and single-day and four-da
 
 ## Nearby & practical tips
 
-Grant Park sits within walking distance of the Art Institute of Chicago, Millennium Park (Cloud Gate/"The Bean"), and the Museum Campus (Field Museum, Shedd Aquarium, Adler Planetarium) — all worth building into a pre- or post-festival day. The South Loop and West Loop have late-serving restaurants for after headliner sets end. Hotels near the park and in the Loop book up well ahead of the July dates, so reserving early is worthwhile if you're traveling from outside Chicago. Because lineup, ticket tiers, venue details, and hours are all subject to change, treat the official Lollapalooza website and app as the single source of truth for confirming dates, prices, and entry logistics before you finalize travel plans.
+Grant Park sits within walking distance of the Art Institute of Chicago, Millennium Park (Cloud Gate/"The Bean"), and the Museum Campus (Field Museum, Shedd Aquarium, Adler Planetarium) — all worth building into a pre- or post-festival day. The South Loop and West Loop have late-serving restaurants for after headliner sets end. Hotels near the park and in the Loop book up well ahead of the July dates, so reserving early is worthwhile if you're traveling from outside Chicago.
+
+Because lineup, ticket tiers, venue details, and hours are all subject to change, treat the official Lollapalooza website and app as the single source of truth for confirming dates, prices, and entry logistics before you finalize travel plans.

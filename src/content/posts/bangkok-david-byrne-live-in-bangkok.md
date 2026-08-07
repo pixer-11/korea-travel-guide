@@ -57,7 +57,9 @@ eventRecurring: false
 ---
 ## Why this show matters
 
-David Byrne isn't just a legacy act cashing in on nostalgia — he's the restless art-rock mind behind Talking Heads classics like "Once in a Lifetime" and "This Must Be the Place," and more recently the acclaimed "American Utopia" stage show (a Broadway run and Spike Lee concert film). His live sets are known for choreographed movement, a stripped-stage aesthetic, and a full band that treats old songs like new ideas rather than museum pieces. A Bangkok date on a global tour is a rare chance for Southeast Asian fans to catch an artist who rarely routes through the region.
+David Byrne isn't just a legacy act cashing in on nostalgia — he's the restless art-rock mind behind Talking Heads classics like "Once in a Lifetime" and "This Must Be the Place," and more recently the acclaimed "American Utopia" stage show (a Broadway run and Spike Lee concert film). His live sets are known for choreographed movement, a stripped-stage aesthetic, and a full band that treats old songs like new ideas rather than museum pieces.
+
+A Bangkok date on a global tour is a rare chance for Southeast Asian fans to catch an artist who rarely routes through the region.
 
 ## The essentials: date and venue
 
@@ -65,7 +67,9 @@ The show is scheduled for **Monday, August 10, 2026**, at **UOB Live**, one of B
 
 ## Getting to UOB Live
 
-UOB Live is one of the more transit-friendly arenas in the city. The closest station is **Sam Yan MRT (Blue Line)**, with an exit that connects directly into the Samyan Mitrtown building — meaning arriving fans can skip Bangkok's often-snarled surface traffic entirely. If coming from Sukhumvit or Silom hotel areas, riding the Blue Line to Sam Yan is typically faster and cheaper than a taxi or ride-hail app, especially on a weekday evening when office traffic in the Silom-Sathorn corridor peaks. For those staying near the Chao Phraya river or Chinatown (Yaowarat), it's a short taxi hop or a MRT connection via Hua Lamphong station, one stop away.
+UOB Live is one of the more transit-friendly arenas in the city. The closest station is **Sam Yan MRT (Blue Line)**, with an exit that connects directly into the Samyan Mitrtown building — meaning arriving fans can skip Bangkok's often-snarled surface traffic entirely. If coming from Sukhumvit or Silom hotel areas, riding the Blue Line to Sam Yan is typically faster and cheaper than a taxi or ride-hail app, especially on a weekday evening when office traffic in the Silom-Sathorn corridor peaks.
+
+For those staying near the Chao Phraya river or Chinatown (Yaowarat), it's a short taxi hop or a MRT connection via Hua Lamphong station, one stop away.
 
 ## Where to eat and what to do beforehand
 
@@ -75,7 +79,9 @@ Given Monday's typically lighter crowds, arriving 60–90 minutes before doors i
 
 ## Practical tips for international visitors
 
-August falls in Bangkok's rainy season, so pack a compact umbrella or light rain jacket for the walk between transit and the venue, even though most of the route from Sam Yan MRT is covered. Nights stay warm and humid (typically in the high 20s to low 30s Celsius), so the arena's air conditioning is a welcome relief once inside. Tickets for international touring acts at UOB Live often sell through platforms like Thai Ticket Major or the venue's own partners — beware third-party resale sites and confirm authenticity before purchasing. If flying in specifically for the concert, note that Bangkok has two major airports: Suvarnabhumi (BKK) and Don Mueang (DMK), both connected to the city center by train or taxi, with Suvarnabhumi's Airport Rail Link being the more direct option toward the Sam Yan/Silom side of town.
+August falls in Bangkok's rainy season, so pack a compact umbrella or light rain jacket for the walk between transit and the venue, even though most of the route from Sam Yan MRT is covered. Nights stay warm and humid (typically in the high 20s to low 30s Celsius), so the arena's air conditioning is a welcome relief once inside.
+
+Tickets for international touring acts at UOB Live often sell through platforms like Thai Ticket Major or the venue's own partners — beware third-party resale sites and confirm authenticity before purchasing. If flying in specifically for the concert, note that Bangkok has two major airports: Suvarnabhumi (BKK) and Don Mueang (DMK), both connected to the city center by train or taxi, with Suvarnabhumi's Airport Rail Link being the more direct option toward the Sam Yan/Silom side of town.
 
 ## Nearby & tips
 

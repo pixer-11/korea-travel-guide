@@ -57,15 +57,21 @@ draft: false
 
 ## Why go
 
-Bodrum Castle doesn't announce itself with a grand approach road or a ticket plaza visible from miles away — you round the curve of the harbor promenade, past the fishing boats and gulet charters, and it's simply there: a fortress of grey-gold stone rising straight out of the Aegean, its towers named for the nations that built them. The Knights Hospitaller of St. John raised it in the early 1400s using stones scavenged from the nearby Mausoleum at Halicarnassus, one of the Seven Wonders of the Ancient World — so the walls themselves are a kind of ancient recycling project, and you can still spot carved fragments and coats of arms embedded in the masonry as you walk the ramparts. The castle splits the town's two bays, so almost every angle inside gives you a different postcard: yachts on one side, the old Turkish quarter on the other.
+Bodrum Castle doesn't announce itself with a grand approach road or a ticket plaza visible from miles away — you round the curve of the harbor promenade, past the fishing boats and gulet charters, and it's simply there: a fortress of grey-gold stone rising straight out of the Aegean, its towers named for the nations that built them. The Knights Hospitaller of St. John raised it in the early 1400s using stones scavenged from the nearby Mausoleum at Halicarnassus, one of the Seven Wonders of the Ancient World — so the walls themselves are a kind of ancient recycling project, and you can still spot carved fragments and coats of arms embedded in the masonry as you walk the ramparts.
+
+The castle splits the town's two bays, so almost every angle inside gives you a different postcard: yachts on one side, the old Turkish quarter on the other.
 
 ## What to see inside
 
-The castle now houses the Museum of Underwater Archaeology, and this is the real reason to allot real time here rather than just snapping photos of the exterior. The standout exhibit is the Uluburun Shipwreck Hall, built around cargo from a Late Bronze Age wreck — copper ingots, glass beads, ebony logs, even a gold scarab bearing Nefertiti's name — recovered from the seabed off the coast. There's also a reconstructed Ottoman-era shipwreck room and the English Tower, decorated with medieval graffiti carved by bored knights centuries ago. Climb to the upper terraces and you get a genuinely wide sweep of the peninsula: the marina, the whitewashed hillside houses, and on clear days the silhouette of the Greek island of Kos across the water. Give yourself at least two hours if you actually want to read the exhibit panels rather than just walk through.
+The castle now houses the Museum of Underwater Archaeology, and this is the real reason to allot real time here rather than just snapping photos of the exterior. The standout exhibit is the Uluburun Shipwreck Hall, built around cargo from a Late Bronze Age wreck — copper ingots, glass beads, ebony logs, even a gold scarab bearing Nefertiti's name — recovered from the seabed off the coast.
+
+There's also a reconstructed Ottoman-era shipwreck room and the English Tower, decorated with medieval graffiti carved by bored knights centuries ago. Climb to the upper terraces and you get a genuinely wide sweep of the peninsula: the marina, the whitewashed hillside houses, and on clear days the silhouette of the Greek island of Kos across the water. Give yourself at least two hours if you actually want to read the exhibit panels rather than just walk through.
 
 ## Getting there
 
-The castle sits at the address Çarşı, Kale Cd., in central Bodrum, and it's walkable from almost anywhere in town. If you're coming from the otogar (bus station) or the marina, it's roughly a 10-15 minute stroll along the waterfront promenade — just keep the sea on one side and follow the crowd toward the fortress silhouette. Dolmuş minibuses and taxis from other parts of the peninsula (Gümbet, Bitez, Yalıkavak) drop you within a few minutes' walk of the entrance. There's no dedicated parking lot right at the castle, so if you're driving, expect to park in town and walk the last stretch.
+The castle sits at the address Çarşı, Kale Cd., in central Bodrum, and it's walkable from almost anywhere in town. If you're coming from the otogar (bus station) or the marina, it's roughly a 10-15 minute stroll along the waterfront promenade — just keep the sea on one side and follow the crowd toward the fortress silhouette. Dolmuş minibuses and taxis from other parts of the peninsula (Gümbet, Bitez, Yalıkavak) drop you within a few minutes' walk of the entrance.
+
+There's no dedicated parking lot right at the castle, so if you're driving, expect to park in town and walk the last stretch.
 
 ## When to go
 
@@ -73,7 +79,9 @@ This is a very popular stop for both independent travelers and cruise-ship group
 
 ## How to visit like a local
 
-Buy or check tickets online in advance where possible to skip the queue at the gate — with this many annual visitors, the ticket line is the single biggest time-waster. Wear proper shoes: the ramparts and tower staircases are uneven worn stone, not flat museum flooring, and flip-flops make the steeper sections genuinely awkward. Most visitors pay by card these days, though carrying some cash is sensible for small purchases at nearby stalls. There's no bargaining or special etiquette required inside the museum itself, but do be quiet and respectful in the shipwreck halls — they're dimly lit and designed for slow viewing, not photo rushes. The mistake most first-timers make is treating this as a quick 30-minute photo stop; the underwater archaeology collection is genuinely one of the best of its kind in the world, and rushing it means missing the Uluburun exhibit entirely. Since this isn't an undiscovered spot, don't expect solitude — the reward here is the site itself, not exclusivity.
+Buy or check tickets online in advance where possible to skip the queue at the gate — with this many annual visitors, the ticket line is the single biggest time-waster. Wear proper shoes: the ramparts and tower staircases are uneven worn stone, not flat museum flooring, and flip-flops make the steeper sections genuinely awkward. Most visitors pay by card these days, though carrying some cash is sensible for small purchases at nearby stalls.
+
+There's no bargaining or special etiquette required inside the museum itself, but do be quiet and respectful in the shipwreck halls — they're dimly lit and designed for slow viewing, not photo rushes. The mistake most first-timers make is treating this as a quick 30-minute photo stop; the underwater archaeology collection is genuinely one of the best of its kind in the world, and rushing it means missing the Uluburun exhibit entirely. Since this isn't an undiscovered spot, don't expect solitude — the reward here is the site itself, not exclusivity.
 
 ## Nearby
 

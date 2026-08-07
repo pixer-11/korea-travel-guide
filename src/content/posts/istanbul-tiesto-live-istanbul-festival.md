@@ -59,11 +59,15 @@ Tiësto doesn't play Istanbul often, and when a name of that scale headlines an 
 
 ## Getting to Yenikapı
 
-Yenikapı is one of Istanbul's great transit hubs, which is exactly why organizers use the park next to it. The Yenikapı station complex connects the M1A/M1B metro lines, the T1 tram (get off at the Yenikapı stop), and the Marmaray cross-Bosphorus rail line, plus ferries from the Kadıköy and Bakırköy sides. If you're staying in Sultanahmet or Beyoğlu, the tram or a short taxi ride gets you there in fifteen to twenty minutes outside rush hour. Coming from the Asian side, Marmaray under the Bosphorus is the fastest option and avoids the traffic that builds up on the bridges during big events. Given the scale of the crowd a Tiësto date will pull, budget extra time on both ends — getting out of Yenikapı after the last set can take considerably longer than getting in.
+Yenikapı is one of Istanbul's great transit hubs, which is exactly why organizers use the park next to it. The Yenikapı station complex connects the M1A/M1B metro lines, the T1 tram (get off at the Yenikapı stop), and the Marmaray cross-Bosphorus rail line, plus ferries from the Kadıköy and Bakırköy sides. If you're staying in Sultanahmet or Beyoğlu, the tram or a short taxi ride gets you there in fifteen to twenty minutes outside rush hour.
+
+Coming from the Asian side, Marmaray under the Bosphorus is the fastest option and avoids the traffic that builds up on the bridges during big events. Given the scale of the crowd a Tiësto date will pull, budget extra time on both ends — getting out of Yenikapı after the last set can take considerably longer than getting in.
 
 ## What to expect on site
 
-Picture a wide-open festival ground rather than an indoor club: temporary stages, tented bars, and food stalls spread across packed earth and paving, with sea air cutting through the heat of an August night. Expect the kind of production a headliner like this commands — a big LED stage, heavy-duty sound rigs, and a crowd that skews toward both Istanbul's young club scene and fans flying in specifically for the date. Since this is an outdoor summer event, dress light, but bring a layer for after midnight when the breeze off the Marmara picks up. Water points and shaded rest areas are typical at Yenikapı's larger festivals, but exact site maps and stage times are only released closer to the date, so don't lock in a minute-by-minute plan yet.
+Picture a wide-open festival ground rather than an indoor club: temporary stages, tented bars, and food stalls spread across packed earth and paving, with sea air cutting through the heat of an August night. Expect the kind of production a headliner like this commands — a big LED stage, heavy-duty sound rigs, and a crowd that skews toward both Istanbul's young club scene and fans flying in specifically for the date.
+
+Since this is an outdoor summer event, dress light, but bring a layer for after midnight when the breeze off the Marmara picks up. Water points and shaded rest areas are typical at Yenikapı's larger festivals, but exact site maps and stage times are only released closer to the date, so don't lock in a minute-by-minute plan yet.
 
 ## Tickets and timing — confirm before you commit
 
@@ -71,7 +75,11 @@ The date circulating for this show is August 8, 2026, but festival lineups, set 
 
 ## How to visit like a local
 
-Istanbullus heading to a Yenikapı festival rarely drive — parking near the site is limited and traffic around the peninsula backs up fast once an event lets out, so the tram-or-Marmaray-plus-walk approach is standard practice. Most people also eat before they arrive rather than relying on festival food stalls for a full meal; grab a late dinner in nearby Kumkapı, a fish-restaurant neighborhood a short walk from Yenikapı, and head to the site afterward. Cash still gets used at some smaller vendors around Istanbul events, but card and contactless payment are increasingly standard at ticketed festival bars — bring both to be safe. If you can, arrive a couple of hours before the headline slot: doors and support acts thin the entry queues, whereas showing up right as Tiësto is expected on stage means merging into the thickest part of the crowd. The most common mistake visitors make is underestimating exit time — plan to linger at the site for a while after the last song, or walk a few minutes toward Kumkapı or the tram stop before the whole crowd does the same, rather than rushing straight into the bottleneck at the gates.
+Istanbullus heading to a Yenikapı festival rarely drive — parking near the site is limited and traffic around the peninsula backs up fast once an event lets out, so the tram-or-Marmaray-plus-walk approach is standard practice. Most people also eat before they arrive rather than relying on festival food stalls for a full meal; grab a late dinner in nearby Kumkapı, a fish-restaurant neighborhood a short walk from Yenikapı, and head to the site afterward.
+
+Cash still gets used at some smaller vendors around Istanbul events, but card and contactless payment are increasingly standard at ticketed festival bars — bring both to be safe. If you can, arrive a couple of hours before the headline slot: doors and support acts thin the entry queues, whereas showing up right as Tiësto is expected on stage means merging into the thickest part of the crowd.
+
+The most common mistake visitors make is underestimating exit time — plan to linger at the site for a while after the last song, or walk a few minutes toward Kumkapı or the tram stop before the whole crowd does the same, rather than rushing straight into the bottleneck at the gates.
 
 ## Nearby to fill out the trip
 

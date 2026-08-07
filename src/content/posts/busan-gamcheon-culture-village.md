@@ -54,15 +54,21 @@ draft: false
 ---
 ## Why go
 
-Gamcheon Culture Village earns its 4.4-star rating and near-33,000 reviews for good reason: it's one of the most photogenic corners of Busan, a hillside maze of blue, pink, and yellow houses stacked above the harbor, laced with painted stairways, murals, and pocket-sized galleries. The village began as a refugee settlement in the 1950s (many residents were followers of the Taegeukdo religion who fled during the Korean War), and its current identity as an "art village" dates to a 2009 public arts project that invited students and artists to repaint facades and install sculptures throughout the maze of alleys. It's not a museum piece — people still live here — which gives the murals and rooftop views a lived-in texture you don't get in a purpose-built attraction.
+Gamcheon Culture Village earns its 4.4-star rating and near-33,000 reviews for good reason: it's one of the most photogenic corners of Busan, a hillside maze of blue, pink, and yellow houses stacked above the harbor, laced with painted stairways, murals, and pocket-sized galleries. The village began as a refugee settlement in the 1950s (many residents were followers of the Taegeukdo religion who fled during the Korean War), and its current identity as an "art village" dates to a 2009 public arts project that invited students and artists to repaint facades and install sculptures throughout the maze of alleys.
+
+It's not a museum piece — people still live here — which gives the murals and rooftop views a lived-in texture you don't get in a purpose-built attraction.
 
 ## Getting there
 
-The village sits at 203 Gamnae 2-ro, Saha-gu, on a steep hillside inland from Busan's coast. The most reliable route is Busan Metro Line 1 to Toseong Station, Exit 6, then either a short taxi ride (roughly 10 minutes) or the local Saha-gu shuttle/village bus that loops up toward the entrance — signs and taxi stands near the exit point toward Gamcheon. Several city buses (including routes that stop at "Gamcheon Culture Village" or "Gamcheon Elementary School") also run from Toseong and nearby Jagalchi/Nampo areas; a taxi is worth the small fare given how steep the walk up is. Because the site is one large open-air neighborhood rather than a gated attraction, there's no single "front door" — most visitors enter near the information center at the top of the main road and work downhill.
+The village sits at 203 Gamnae 2-ro, Saha-gu, on a steep hillside inland from Busan's coast. The most reliable route is Busan Metro Line 1 to Toseong Station, Exit 6, then either a short taxi ride (roughly 10 minutes) or the local Saha-gu shuttle/village bus that loops up toward the entrance — signs and taxi stands near the exit point toward Gamcheon.
+
+Several city buses (including routes that stop at "Gamcheon Culture Village" or "Gamcheon Elementary School") also run from Toseong and nearby Jagalchi/Nampo areas; a taxi is worth the small fare given how steep the walk up is. Because the site is one large open-air neighborhood rather than a gated attraction, there's no single "front door" — most visitors enter near the information center at the top of the main road and work downhill.
 
 ## What to see and do
 
-Start at the information center to pick up (or buy, if still offered) a stamp-tour map — a self-guided trail linking painted walls, small sculptures, and photo spots, including the well-known Little Prince and fox statue overlooking the rooftops. Wander the narrow stepped alleys (labeled with directional fish or star markers) to find murals, tiny craft shops, and independent cafés tucked into former homes. The Gamcheon Culture Village Art Space and several small galleries display work from resident and visiting artists — most charge a small admission or request a donation. Rooftop viewpoints scattered through the village give sweeping views over the terraced houses down to the harbor; sunset and the "blue hour" just after are especially flattering for photos. Budget 2–3 hours minimum; photographers and slow wanderers can easily spend half a day.
+Start at the information center to pick up (or buy, if still offered) a stamp-tour map — a self-guided trail linking painted walls, small sculptures, and photo spots, including the well-known Little Prince and fox statue overlooking the rooftops. Wander the narrow stepped alleys (labeled with directional fish or star markers) to find murals, tiny craft shops, and independent cafés tucked into former homes.
+
+The Gamcheon Culture Village Art Space and several small galleries display work from resident and visiting artists — most charge a small admission or request a donation. Rooftop viewpoints scattered through the village give sweeping views over the terraced houses down to the harbor; sunset and the "blue hour" just after are especially flattering for photos. Budget 2–3 hours minimum; photographers and slow wanderers can easily spend half a day.
 
 ## When to go
 
@@ -70,7 +76,11 @@ Weekday mornings are calmest, before tour buses and photo groups arrive. Late af
 
 ## How to visit like a local
 
-Treat this as a residential neighborhood first, attraction second: keep voices down in the narrow lanes, don't peer into open doors or windows, and stay off private stairs and rooftops that aren't marked as public viewpoints. Most cafés, shops, and small galleries accept card or mobile payment (T-money and standard Korean card readers are common), though carrying some cash helps for tiny stalls and donation boxes at galleries. There's no ticket booth or entry fee for the village itself — only optional paid sites like the small museum spaces — so skip anyone offering to "sell" general admission. The biggest visitor mistake is arriving mid-morning to early afternoon on a weekend and getting stuck in single-file lines at the two or three most famous mural corners; walking the stamp trail counterclockwise or starting from the bottom of the hill often bypasses the worst bottlenecks. Wear real walking shoes — the entire village is stairs and sloped alleys, and rain makes the tile-painted steps slick.
+Treat this as a residential neighborhood first, attraction second: keep voices down in the narrow lanes, don't peer into open doors or windows, and stay off private stairs and rooftops that aren't marked as public viewpoints. Most cafés, shops, and small galleries accept card or mobile payment (T-money and standard Korean card readers are common), though carrying some cash helps for tiny stalls and donation boxes at galleries.
+
+There's no ticket booth or entry fee for the village itself — only optional paid sites like the small museum spaces — so skip anyone offering to "sell" general admission. The biggest visitor mistake is arriving mid-morning to early afternoon on a weekend and getting stuck in single-file lines at the two or three most famous mural corners; walking the stamp trail counterclockwise or starting from the bottom of the hill often bypasses the worst bottlenecks.
+
+Wear real walking shoes — the entire village is stairs and sloped alleys, and rain makes the tile-painted steps slick.
 
 ## Nearby
 

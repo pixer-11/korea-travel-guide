@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: sokcho-seoraksan-cable-car
-srcHash: '0dc5ce622fbd'
+srcHash: '7ddb235a4b20'
 title: 雪岳山缆车：束草旅行指南
 description: 雪岳山缆车从小公园（Sogongwon Park）附近的下站出发，直达雪岳山权金城要塞所在的山脊。
 quickAnswer: 雪岳山缆车从小公园（Sogongwon Park）附近的下站出发，约6分钟便可抵达雪岳山（Mt. Gwonggeumseong，海拔约705米）上的权金城（Gwongeumseong Fortress）要塞山脊，省去数小时陡峭爬山之苦。建议早上9点前到达，或选择工作日前往，以避开排队购票的长龙；往返全程（含前往要塞观景点的短程攀爬）预计需1至1.5小时。10月中下旬秋高气爽的清晨，是俯瞰雪岳山国立公园与东海的最佳观景时机。
@@ -24,7 +24,9 @@ faq:
 
 ## 如何前往
 
-缆车下站位于束草市雪岳洞雪岳山路1137号（1137 Seoraksan-ro, Seorak-dong, Sokcho-si），就在雪岳山国立公园入口内侧，距小公园（Sogongwon Park）不远。大多数游客选择从束草市区乘车或打车前往（约15-20分钟），也可乘坐公交——7路和7-1路公交车从束草市外巴士客运站（Sokcho Intercity Bus Terminal）及束草高速巴士客运站（Sokcho Express Bus Terminal）直达雪岳山公园入口，从公交站步行穿过公园正门，再走5-10分钟即可到达缆车站。束草本地没有火车站，大多数外地游客乘坐大巴从首尔东首尔巴士客运站或高速巴士客运站出发（约2-2.5小时），再换乘当地公交或出租车完成最后一程。
+缆车下站位于束草市雪岳洞雪岳山路1137号（1137 Seoraksan-ro, Seorak-dong, Sokcho-si），就在雪岳山国立公园入口内侧，距小公园（Sogongwon Park）不远。大多数游客选择从束草市区乘车或打车前往（约15-20分钟），也可乘坐公交——7路和7-1路公交车从束草市外巴士客运站（Sokcho Intercity Bus Terminal）及束草高速巴士客运站（Sokcho Express Bus Terminal）直达雪岳山公园入口，从公交站步行穿过公园正门，再走5-10分钟即可到达缆车站。
+
+束草本地没有火车站，大多数外地游客乘坐大巴从首尔东首尔巴士客运站或高速巴士客运站出发（约2-2.5小时），再换乘当地公交或出租车完成最后一程。
 
 ## 游览看点
 

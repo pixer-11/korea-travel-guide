@@ -49,7 +49,9 @@ photoless: true
 
 ## Why NAM Kitchen stands out
 
-Fusion restaurants are common in Los Angeles County, but few pair Vietnamese and Peruvian cooking traditions in one kitchen, and fewer still do it well enough to catch national attention. NAM Kitchen did both: it placed No. 3 on Yelp's 2026 Top 100 U.S. Restaurants list, and it was singled out as the single most-reviewed business among every entry on that list. That combination — a top-three national ranking plus an outsized volume of reviews — signals a restaurant that has moved fast from neighborhood favorite to a genuine culinary destination, all while staying in Gardena rather than a flashier LA neighborhood.
+Fusion restaurants are common in Los Angeles County, but few pair Vietnamese and Peruvian cooking traditions in one kitchen, and fewer still do it well enough to catch national attention. NAM Kitchen did both: it placed No. 3 on Yelp's 2026 Top 100 U.S. Restaurants list, and it was singled out as the single most-reviewed business among every entry on that list.
+
+That combination — a top-three national ranking plus an outsized volume of reviews — signals a restaurant that has moved fast from neighborhood favorite to a genuine culinary destination, all while staying in Gardena rather than a flashier LA neighborhood.
 
 Vietnamese and Peruvian cuisines share more overlap than diners might expect: both lean on bright acidity, fresh herbs, chiles, and char-grilled proteins, and both cultures have long histories of adapting French and Chinese influences into something distinct. A kitchen built around that overlap has room to be genuinely creative rather than gimmicky, which appears to be a big part of the buzz.
 
@@ -61,11 +63,15 @@ Because exact hours and the current reservation system can shift quickly for a r
 
 ## What to expect at the table
 
-Specific dishes and prices aren't set in stone here, precisely because a newly trending kitchen tends to adjust its offerings as it scales. What is safe to expect, based on the fusion concept itself, is a menu built around shared techniques: think grilled and marinated meats, herb-forward sauces, rice- or noodle-based mains, and a nod to Peruvian staples like aji-based condiments alongside Vietnamese staples like fish sauce and fresh herbs. Go in curious rather than with a fixed dish in mind, and ask staff what's distinctive that day — a good approach at any restaurant balancing two cuisines rather than defaulting to one.
+Specific dishes and prices aren't set in stone here, precisely because a newly trending kitchen tends to adjust its offerings as it scales. What is safe to expect, based on the fusion concept itself, is a menu built around shared techniques: think grilled and marinated meats, herb-forward sauces, rice- or noodle-based mains, and a nod to Peruvian staples like aji-based condiments alongside Vietnamese staples like fish sauce and fresh herbs.
+
+Go in curious rather than with a fixed dish in mind, and ask staff what's distinctive that day — a good approach at any restaurant balancing two cuisines rather than defaulting to one.
 
 ## Getting there
 
-Gardena is a car-friendly LA suburb, and driving is the most practical way to reach NAM Kitchen; check the restaurant's listed address for the closest parking, since street parking availability in South Bay commercial strips varies block to block. If you're relying on public transit, LA Metro bus lines serve Gardena's main corridors, though connections from central LA can take 45 minutes or more, so budget accordingly. Ride-share is a reasonable fallback if you're coming from the airport (LAX is roughly a 15-20 minute drive away depending on traffic) or from elsewhere in the South Bay.
+Gardena is a car-friendly LA suburb, and driving is the most practical way to reach NAM Kitchen; check the restaurant's listed address for the closest parking, since street parking availability in South Bay commercial strips varies block to block. If you're relying on public transit, LA Metro bus lines serve Gardena's main corridors, though connections from central LA can take 45 minutes or more, so budget accordingly.
+
+Ride-share is a reasonable fallback if you're coming from the airport (LAX is roughly a 15-20 minute drive away depending on traffic) or from elsewhere in the South Bay.
 
 ## When to go
 
@@ -73,4 +79,6 @@ Newly-ranked restaurants almost always see a surge in walk-in traffic right afte
 
 ## How to visit like a local
 
-Call ahead or check the restaurant's official page the same day you plan to go, since a sudden national ranking can mean shifting hours, a temporary reservation requirement, or a wait even on off-peak nights. If reservations aren't available, arrive right at opening for lunch or dinner rather than in the middle of the rush. South Bay diners generally tip in the standard U.S. range (typically 18-20% at sit-down restaurants) and pay by card as the default, though it's worth carrying some cash as backup for smaller, older-school businesses nearby. The biggest mistake visitors make with a suddenly-trending spot like this is treating a months-old online menu or Google hours listing as current — always verify same-day before making the drive out to Gardena.
+Call ahead or check the restaurant's official page the same day you plan to go, since a sudden national ranking can mean shifting hours, a temporary reservation requirement, or a wait even on off-peak nights. If reservations aren't available, arrive right at opening for lunch or dinner rather than in the middle of the rush. South Bay diners generally tip in the standard U.S. range (typically 18-20% at sit-down restaurants) and pay by card as the default, though it's worth carrying some cash as backup for smaller, older-school businesses nearby.
+
+The biggest mistake visitors make with a suddenly-trending spot like this is treating a months-old online menu or Google hours listing as current — always verify same-day before making the drive out to Gardena.

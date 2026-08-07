@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: suwon-local-restaurant
-srcHash: 43dcde88ad75
+srcHash: '0908a2b3f016'
 title: 水原当地餐厅指南
 description: 水原的招牌美食是王排骨（wang-galbi），也就是超大份的烤牛排骨，在历史城区的八达门（Paldalmun Gate）和永东市场（Yeongdong Market）附近最能品尝到地道风味。
 quickAnswer: 水原的招牌美食是王排骨（wang-galbi），也就是超大份的烤牛排骨，在历史城区的八达门（Paldalmun Gate）和永东市场（Yeongdong Market）附近最能品尝到地道风味。建议傍晚空腹前往，顺便沿华城（Hwaseong Fortress）城墙走一走，可先乘地铁1号线到水原站（Suwon Station），再转乘出租车或公交车前往该区域。
@@ -20,7 +20,9 @@ faq:
 
 ## 为什么是水原，为什么是这里的美食
 
-水原（Suwon）最广为人知的是华城（Hwaseong Fortress）——由正祖大王（King Jeongjo）建于18世纪、被列入联合国教科文组织世界遗产名录的城墙古城。但这座古城并不仅仅是历史背景板，城墙内外的街区已经发展成京畿道（Gyeonggi Province）最值得一去的美食目的地之一。水原的招牌菜——**水原排骨（Suwon galbi）**，即烤牛排骨（传统上切得比首尔式排骨更厚），起源于20世纪中期，至今仍是许多一日游游客专程前来、在游览古城前后大快朵颐的理由。除了排骨之外，八达门（Paldalmun Gate）周边及附近的传统市场也聚集了大量本地小吃店，这些地方步行可及、密度很高，且很少有英文菜单。
+水原（Suwon）最广为人知的是华城（Hwaseong Fortress）——由正祖大王（King Jeongjo）建于18世纪、被列入联合国教科文组织世界遗产名录的城墙古城。但这座古城并不仅仅是历史背景板，城墙内外的街区已经发展成京畿道（Gyeonggi Province）最值得一去的美食目的地之一。水原的招牌菜——**水原排骨（Suwon galbi）**，即烤牛排骨（传统上切得比首尔式排骨更厚），起源于20世纪中期，至今仍是许多一日游游客专程前来、在游览古城前后大快朵颐的理由。
+
+除了排骨之外，八达门（Paldalmun Gate）周边及附近的传统市场也聚集了大量本地小吃店，这些地方步行可及、密度很高，且很少有英文菜单。
 
 ## 如何抵达
 

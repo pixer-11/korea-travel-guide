@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: barcelona-gloria-osteria
-srcHash: 29b95f56d099
+srcHash: '254087875f9c'
 title: Gloria Osteria en Barcelona
 description: Gloria Osteria es el debut en Barcelona de Big Mamma, el grupo de restaurantes franco-italiano conocido por convertir la osteria clásica en un evento vanguardista y lleno de energía.
 quickAnswer: Gloria Osteria es el debut en Barcelona de Big Mamma, el grupo de restaurantes franco-italiano conocido por convertir la osteria clásica en un evento vanguardista y lleno de energía. Abrió con tanta demanda que se llenó por completo en su primera semana, así que conviene reservar online con bastante antelación o intentar entrar sin reserva justo a la hora de apertura por si hay alguna cancelación. Hay que esperar un comedor animado y muy fotogénico, centrado en la comida reconfortante italiana, más que el ambiente tranquilo y clásico de una trattoria de toda la vida.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué Gloria Osteria es noticia ahora
 
-Big Mamma lleva la última década convirtiendo el "restaurante italiano" en todo un acontecimiento sensorial en ciudades como París, Londres y otras grandes urbes, combinando interiores maximalistas con pasta y pizza que triunfan entre el público. Gloria Osteria es la primera apertura del grupo en Barcelona, y ha llegado con un revuelo poco habitual incluso en una ciudad tan saturada de buena gastronomía como esta. Se llenó por completo en su primera semana de apertura y rápidamente se ha convertido en una de las mesas más codiciadas de Barcelona — el tipo de sitio del que los locales todavía hablan con sus amigos y que los visitantes ya tienen anotado antes incluso de aterrizar.
+Big Mamma lleva la última década convirtiendo el "restaurante italiano" en todo un acontecimiento sensorial en ciudades como París, Londres y otras grandes urbes, combinando interiores maximalistas con pasta y pizza que triunfan entre el público. Gloria Osteria es la primera apertura del grupo en Barcelona, y ha llegado con un revuelo poco habitual incluso en una ciudad tan saturada de buena gastronomía como esta.
+
+Se llenó por completo en su primera semana de apertura y rápidamente se ha convertido en una de las mesas más codiciadas de Barcelona — el tipo de sitio del que los locales todavía hablan con sus amigos y que los visitantes ya tienen anotado antes incluso de aterrizar.
 
 Lo que hace que merezca la pena el esfuerzo no es la novedad por la novedad. El modelo de Big Mamma es constante en todas sus ciudades: una sala espectacular y perfecta para Instagram, una cocina abierta que puedes ver en plena acción, y una carta pensada para compartir en voz alta con una mesa llena de gente. Si esa fórmula te ha funcionado en otra ciudad, Gloria Osteria es el capítulo barcelonés de la misma.
 
@@ -38,8 +40,12 @@ Como el grupo no ha publicado detalles concretos sobre este local de Barcelona m
 
 ## Reservas y cuándo ir
 
-Dado que Gloria Osteria se llenó por completo en su primera semana, considera la reserva algo esencial, no opcional, especialmente para las cenas de viernes y sábado. Los restaurantes del grupo Big Mamma en otros lugares suelen abrir las reservas online con varias semanas de antelación, así que pon un recordatorio en el calendario y reserva en cuanto se abra una nueva ventana. Si tienes flexibilidad, un almuerzo entre semana o una cena temprana en día laborable suele ser tu mejor opción para conseguir mesa sin semanas de planificación previa, y presentarte sin reserva, solo o en pareja, justo a la hora de apertura a veces permite conseguir un sitio en la barra o el mostrador incluso cuando el comedor está completo.
+Dado que Gloria Osteria se llenó por completo en su primera semana, considera la reserva algo esencial, no opcional, especialmente para las cenas de viernes y sábado. Los restaurantes del grupo Big Mamma en otros lugares suelen abrir las reservas online con varias semanas de antelación, así que pon un recordatorio en el calendario y reserva en cuanto se abra una nueva ventana.
+
+Si tienes flexibilidad, un almuerzo entre semana o una cena temprana en día laborable suele ser tu mejor opción para conseguir mesa sin semanas de planificación previa, y presentarte sin reserva, solo o en pareja, justo a la hora de apertura a veces permite conseguir un sitio en la barra o el mostrador incluso cuando el comedor está completo.
 
 ## Alrededores y consejos
 
-Plantea la visita a Gloria Osteria como el eje de una salida nocturna más que como una comida rápida — combínala con una copa antes de cenar en algún bar de cócteles cercano y un paseo después de cenar por el barrio céntrico en el que se encuentre. El código de vestimenta probablemente se inclina hacia lo informal-elegante más que hacia lo formal, en línea con la identidad estilosa pero cercana del grupo. Y lo más importante: al tratarse de un restaurante recién abierto y en plena efervescencia, verifica los horarios actuales, los enlaces de reserva y cualquier política de acceso sin reserva justo antes de ir — los detalles en esta fase del lanzamiento pueden cambiar de una semana a otra.
+Plantea la visita a Gloria Osteria como el eje de una salida nocturna más que como una comida rápida — combínala con una copa antes de cenar en algún bar de cócteles cercano y un paseo después de cenar por el barrio céntrico en el que se encuentre. El código de vestimenta probablemente se inclina hacia lo informal-elegante más que hacia lo formal, en línea con la identidad estilosa pero cercana del grupo.
+
+Y lo más importante: al tratarse de un restaurante recién abierto y en plena efervescencia, verifica los horarios actuales, los enlaces de reserva y cualquier política de acceso sin reserva justo antes de ir — los detalles en esta fase del lanzamiento pueden cambiar de una semana a otra.

@@ -52,7 +52,9 @@ draft: false
 
 ## Why go
 
-You step through the entrance gate and the temperature drops before you've walked ten meters — that's the bamboo doing its work, filtering the Jeolla sunlight into a shifting green-gold haze. Juknokwon isn't a single grove; it's a 31-hectare park stitched together from eight named paths — Unhyang-gil, Sasibudae-gil, Jeongsimpumseong-gil among them — that thread through stands of moso bamboo so dense the culms creak and knock together overhead when the wind picks up. This is the reason Damyang calls itself Korea's bamboo capital, and Juknokwon is the place that claim is built on.
+You step through the entrance gate and the temperature drops before you've walked ten meters — that's the bamboo doing its work, filtering the Jeolla sunlight into a shifting green-gold haze. Juknokwon isn't a single grove; it's a 31-hectare park stitched together from eight named paths — Unhyang-gil, Sasibudae-gil, Jeongsimpumseong-gil among them — that thread through stands of moso bamboo so dense the culms creak and knock together overhead when the wind picks up.
+
+This is the reason Damyang calls itself Korea's bamboo capital, and Juknokwon is the place that claim is built on.
 
 ## Getting there
 
@@ -60,15 +62,23 @@ Damyang itself has no train station, so most visitors come via Gwangju. From Gwa
 
 ## What to see and do inside
 
-Once inside, the paths loop and cross, so you can wander for twenty minutes or two hours depending on your appetite. Look for the small pavilions tucked into clearings — spots locals and visitors alike use to sit, catch their breath, and listen to the specific hush that only a bamboo forest produces, that dry rustle instead of the rounder sound of broadleaf trees. Several sections have hanging lights strung between the stalks for night walks, turning the same paths into something moodier and more theatrical after dark, when the shadows the bamboo throws get long and jagged. Just adjacent to the main bamboo garden, the Korean Traditional Garden (Hallyang-jeong) and the much-photographed Metasequoia-lined road pair naturally with a Juknokwon visit — most people do all three in one outing, since they sit within walking distance of each other.
+Once inside, the paths loop and cross, so you can wander for twenty minutes or two hours depending on your appetite. Look for the small pavilions tucked into clearings — spots locals and visitors alike use to sit, catch their breath, and listen to the specific hush that only a bamboo forest produces, that dry rustle instead of the rounder sound of broadleaf trees.
+
+Several sections have hanging lights strung between the stalks for night walks, turning the same paths into something moodier and more theatrical after dark, when the shadows the bamboo throws get long and jagged. Just adjacent to the main bamboo garden, the Korean Traditional Garden (Hallyang-jeong) and the much-photographed Metasequoia-lined road pair naturally with a Juknokwon visit — most people do all three in one outing, since they sit within walking distance of each other.
 
 ## When to go
 
-With over 11,000 reviews and a 4.4 rating, Juknokwon is firmly on the itinerary for domestic and international visitors alike — this is not an undiscovered corner of Korea, and you should plan around the crowds rather than expect to avoid them entirely. Late spring and early autumn bring the most comfortable walking temperatures; midsummer is humid and buggy under the canopy, while a light snow dusting in winter (rare but not unheard of) turns the paths almost monochrome. Weekday mornings, before the tour buses arrive from Gwangju and Suncheon, are consistently calmer than weekend afternoons, when the main entrance path can bottleneck.
+With over 11,000 reviews and a 4.4 rating, Juknokwon is firmly on the itinerary for domestic and international visitors alike — this is not an undiscovered corner of Korea, and you should plan around the crowds rather than expect to avoid them entirely. Late spring and early autumn bring the most comfortable walking temperatures; midsummer is humid and buggy under the canopy, while a light snow dusting in winter (rare but not unheard of) turns the paths almost monochrome.
+
+Weekday mornings, before the tour buses arrive from Gwangju and Suncheon, are consistently calmer than weekend afternoons, when the main entrance path can bottleneck.
 
 ## How to visit like a local
 
-Come in the first couple of hours after opening on a weekday if you can — that's the window before large group tours cycle through, and the light angling low through the bamboo at that hour is genuinely better for both walking and photos than the flat midday glare. Entry is typically handled at a ticket booth near the main gate; card and mobile payment (Korean transit-style cards like T-money are widely accepted at Damyang attractions) work fine, so you don't need to worry about carrying exact cash, though it's still smart to have some on hand as backup. Wear shoes with actual grip — the packed-earth paths get slick and muddy after rain, which is the single most common complaint from visitors who show up in sandals. The mistake most first-timers make is treating Juknokwon as a quick photo-stop: budget at least 90 minutes, take one of the longer loop trails instead of just the first paved section near the entrance, and you'll actually get past the crowds clustering near the gate into the quieter interior groves. If you're debating the night walk, know that not all the light installations run year-round, so confirm current opening hours and whether evening illumination is active before you plan your day around it.
+Come in the first couple of hours after opening on a weekday if you can — that's the window before large group tours cycle through, and the light angling low through the bamboo at that hour is genuinely better for both walking and photos than the flat midday glare. Entry is typically handled at a ticket booth near the main gate; card and mobile payment (Korean transit-style cards like T-money are widely accepted at Damyang attractions) work fine, so you don't need to worry about carrying exact cash, though it's still smart to have some on hand as backup.
+
+Wear shoes with actual grip — the packed-earth paths get slick and muddy after rain, which is the single most common complaint from visitors who show up in sandals. The mistake most first-timers make is treating Juknokwon as a quick photo-stop: budget at least 90 minutes, take one of the longer loop trails instead of just the first paved section near the entrance, and you'll actually get past the crowds clustering near the gate into the quieter interior groves.
+
+If you're debating the night walk, know that not all the light installations run year-round, so confirm current opening hours and whether evening illumination is active before you plan your day around it.
 
 ## Nearby to combine with your visit
 

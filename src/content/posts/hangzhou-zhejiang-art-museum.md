@@ -48,11 +48,15 @@ draft: false
 
 ## Why go
 
-You come to the Zhejiang Art Museum not for a single blockbuster masterpiece but for the quiet pleasure of stepping out of the West Lake crowds into cool, high-ceilinged galleries showing contemporary Chinese ink painting, calligraphy, printmaking and photography. Zhejiang has one of China's deepest traditions of ink art — this is the province that produced generations of literati painters — and the museum's rotating exhibitions are how that tradition keeps talking to the present. It's a palate-cleanser between temple visits and lakeside photo stops, the kind of place where you slow your pace without meaning to.
+You come to the Zhejiang Art Museum not for a single blockbuster masterpiece but for the quiet pleasure of stepping out of the West Lake crowds into cool, high-ceilinged galleries showing contemporary Chinese ink painting, calligraphy, printmaking and photography. Zhejiang has one of China's deepest traditions of ink art — this is the province that produced generations of literati painters — and the museum's rotating exhibitions are how that tradition keeps talking to the present.
+
+It's a palate-cleanser between temple visits and lakeside photo stops, the kind of place where you slow your pace without meaning to.
 
 ## Getting there
 
-The museum sits at 138 Nan Shan Lu, on the southern arc of West Lake, in a stretch of the lakeshore locals call Nanshan Road — the same road that strings together the China Academy of Art's main campus, Liuhe area approaches, and the causeway toward Leifeng Pagoda. If you're coming from the lake itself, walk along the water past the willow trees and pedalo docks on Nanshan Road; the museum's low-slung, dark-toned building with its angular roofline is easy to spot set back from the road. Most visitors combine it on foot with Leifeng Pagoda (10–15 minutes' walk) or the Su Causeway. There's no metro station directly outside, so a taxi, bike-share, or the bus routes running along Nanshan Road are your practical options — ask your hotel to confirm the current best bus number, since routes shift.
+The museum sits at 138 Nan Shan Lu, on the southern arc of West Lake, in a stretch of the lakeshore locals call Nanshan Road — the same road that strings together the China Academy of Art's main campus, Liuhe area approaches, and the causeway toward Leifeng Pagoda. If you're coming from the lake itself, walk along the water past the willow trees and pedalo docks on Nanshan Road; the museum's low-slung, dark-toned building with its angular roofline is easy to spot set back from the road.
+
+Most visitors combine it on foot with Leifeng Pagoda (10–15 minutes' walk) or the Su Causeway. There's no metro station directly outside, so a taxi, bike-share, or the bus routes running along Nanshan Road are your practical options — ask your hotel to confirm the current best bus number, since routes shift.
 
 ## What to see
 
@@ -60,11 +64,15 @@ Inside, the museum is organized around big, light-filled halls that rotate throu
 
 ## When to go
 
-Because exhibitions rotate, there's no single "best season" tied to the art itself — but the setting rewards a spring or autumn visit, when West Lake's paths outside are at their most walkable and the light through the galleries' windows is softest in late morning. Midday in summer can turn the surrounding lakeside into a crowded, humid slog, so treat the museum as an air-conditioned rest stop if you're touring West Lake in July or August. Plan on 45 minutes for a quick pass through one or two galleries, or up to 90 minutes if a major show is on and you want to linger over the calligraphy.
+Because exhibitions rotate, there's no single "best season" tied to the art itself — but the setting rewards a spring or autumn visit, when West Lake's paths outside are at their most walkable and the light through the galleries' windows is softest in late morning. Midday in summer can turn the surrounding lakeside into a crowded, humid slog, so treat the museum as an air-conditioned rest stop if you're touring West Lake in July or August.
+
+Plan on 45 minutes for a quick pass through one or two galleries, or up to 90 minutes if a major show is on and you want to linger over the calligraphy.
 
 ## How to visit like a local
 
-Go on a weekday morning, right after opening if you can manage it — locals treat this stretch of Nanshan Road as an early lap around the lake before the tour groups arrive, and the museum benefits from the same lull. Bring a passport or ID, since Chinese museums typically require it for entry even when admission is free, and don't assume you can just walk in with a bag — larger bags often need to go through a checkpoint or storage. Payment for any café or shop on site will be almost entirely mobile (WeChat Pay/Alipay) rather than cash, so have a Chinese payment app set up beforehand if you plan to buy anything. Dress and behave as you would in any quiet gallery: voices low, no flash photography near works on paper, and no touching scrolls or frames. The mistake first-time visitors make is treating this as a five-minute photo-op between West Lake sights — the galleries are calm enough that rushing through defeats the point; better to treat it as the deliberate slow beat in an otherwise fast day of sightseeing.
+Go on a weekday morning, right after opening if you can manage it — locals treat this stretch of Nanshan Road as an early lap around the lake before the tour groups arrive, and the museum benefits from the same lull. Bring a passport or ID, since Chinese museums typically require it for entry even when admission is free, and don't assume you can just walk in with a bag — larger bags often need to go through a checkpoint or storage.
+
+Payment for any café or shop on site will be almost entirely mobile (WeChat Pay/Alipay) rather than cash, so have a Chinese payment app set up beforehand if you plan to buy anything. Dress and behave as you would in any quiet gallery: voices low, no flash photography near works on paper, and no touching scrolls or frames. The mistake first-time visitors make is treating this as a five-minute photo-op between West Lake sights — the galleries are calm enough that rushing through defeats the point; better to treat it as the deliberate slow beat in an otherwise fast day of sightseeing.
 
 ## Nearby to combine
 

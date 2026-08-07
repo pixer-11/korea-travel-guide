@@ -44,7 +44,9 @@ Sendang Gile is one of Lombok's most photographed natural sites, and the rating 
 
 ## Getting there
 
-The waterfall sits above Senaru village in Bayan district, North Lombok, roughly a 2–2.5 hour drive from Senggigi or the Lombok International Airport (Praya), and about 3–3.5 hours from the Gili Islands boat harbor at Bangsal (boat to Bangsal, then car/motorbike up to Senaru). Most travelers arrange a private car, motorbike, or join a Rinjani-area day tour that pairs the falls with a stop in Senaru's traditional Sasak villages. There's no train or public transit option that reaches Senaru directly, so a hired driver or rental scooter is the practical route. The site address (Air Terjun Sendang Gile, Jl. Pariwisata, Senaru) is well signposted once you're in the village, with parking near the entrance gate.
+The waterfall sits above Senaru village in Bayan district, North Lombok, roughly a 2–2.5 hour drive from Senggigi or the Lombok International Airport (Praya), and about 3–3.5 hours from the Gili Islands boat harbor at Bangsal (boat to Bangsal, then car/motorbike up to Senaru). Most travelers arrange a private car, motorbike, or join a Rinjani-area day tour that pairs the falls with a stop in Senaru's traditional Sasak villages.
+
+There's no train or public transit option that reaches Senaru directly, so a hired driver or rental scooter is the practical route. The site address (Air Terjun Sendang Gile, Jl. Pariwisata, Senaru) is well signposted once you're in the village, with parking near the entrance gate.
 
 ## What to see and do
 
@@ -60,7 +62,11 @@ Dry season, roughly April through October, is the most reliable window: trails a
 
 ## How to visit like a local
 
-This is a well-known, well-visited site rather than a hidden find, so the real local skill is timing: arrive at or just after opening, before tour buses and day-trip groups from Senggigi and the Gilis land mid-morning. Weekends and Indonesian public holidays bring the heaviest crowds; a weekday visit thins the queue at both the ticket booth and the narrow stone stairway. Entry and parking fees are collected in cash at the gate — bring small-denomination rupiah, as change and card facilities are unreliable this far from the coast. Guides are optional for Sendang Gile alone but genuinely useful for the Tiu Kelep river crossings, especially after rain; agree on a fee before setting out. Wear sandals with grip (like reef sandals) rather than street sneakers — the rock is slick, and hiking barefoot or in flip-flops is the most common tourist misstep. Pack a dry bag or plastic sleeve for your phone if you plan to swim, and carry out any rubbish, since bins are limited past the entrance. A small tip for a local guide is appreciated but not obligatory; it's typically handed over in cash at the end of the walk rather than negotiated upfront.
+This is a well-known, well-visited site rather than a hidden find, so the real local skill is timing: arrive at or just after opening, before tour buses and day-trip groups from Senggigi and the Gilis land mid-morning. Weekends and Indonesian public holidays bring the heaviest crowds; a weekday visit thins the queue at both the ticket booth and the narrow stone stairway.
+
+Entry and parking fees are collected in cash at the gate — bring small-denomination rupiah, as change and card facilities are unreliable this far from the coast. Guides are optional for Sendang Gile alone but genuinely useful for the Tiu Kelep river crossings, especially after rain; agree on a fee before setting out. Wear sandals with grip (like reef sandals) rather than street sneakers — the rock is slick, and hiking barefoot or in flip-flops is the most common tourist misstep.
+
+Pack a dry bag or plastic sleeve for your phone if you plan to swim, and carry out any rubbish, since bins are limited past the entrance. A small tip for a local guide is appreciated but not obligatory; it's typically handed over in cash at the end of the walk rather than negotiated upfront.
 
 ## Nearby to combine
 

@@ -65,8 +65,12 @@ Renting a hanbok (traditional Korean dress) from one of the many shops lining th
 
 ## When to go
 
-Morning, right after opening, is the calmest time to see the main halls before tour groups arrive. Spring (April) brings cherry blossoms along the palace walls, while autumn (late October to early November) is arguably the best season, with the ginkgo and maple trees around Gyeonghoeru and Hyangwonjeong turning color. Summer is hot with little shade across the open courtyards, so early morning or late afternoon visits are more comfortable. The palace is closed on Tuesdays year-round, a rule that also applies to several other Seoul palaces, so plan your Jongno-area itinerary accordingly.
+Morning, right after opening, is the calmest time to see the main halls before tour groups arrive. Spring (April) brings cherry blossoms along the palace walls, while autumn (late October to early November) is arguably the best season, with the ginkgo and maple trees around Gyeonghoeru and Hyangwonjeong turning color. Summer is hot with little shade across the open courtyards, so early morning or late afternoon visits are more comfortable.
+
+The palace is closed on Tuesdays year-round, a rule that also applies to several other Seoul palaces, so plan your Jongno-area itinerary accordingly.
 
 ## Nearby & tips
 
-Bukchon Hanok Village, a preserved hillside neighborhood of traditional houses, sits just east of the palace and pairs naturally with a visit. Insadong, known for tea houses, galleries, and antique shops, is a short walk further east. Directly north, Cheong Wa Dae (the former presidential residence, now open to the public) is an easy add-on if time allows. For food, the streets around Gyeongbokgung Station and Tongin Market (a few minutes northwest) offer inexpensive Korean lunches, including the market's well-known dosirak (lunch box) stalls using brass coin currency. Budget 2-3 hours for the palace alone, more if combining it with the folk museum or a hanbok rental session, which typically adds photo time in front of Gyeonghoeru.
+Bukchon Hanok Village, a preserved hillside neighborhood of traditional houses, sits just east of the palace and pairs naturally with a visit. Insadong, known for tea houses, galleries, and antique shops, is a short walk further east. Directly north, Cheong Wa Dae (the former presidential residence, now open to the public) is an easy add-on if time allows. For food, the streets around Gyeongbokgung Station and Tongin Market (a few minutes northwest) offer inexpensive Korean lunches, including the market's well-known dosirak (lunch box) stalls using brass coin currency.
+
+Budget 2-3 hours for the palace alone, more if combining it with the folk museum or a hanbok rental session, which typically adds photo time in front of Gyeonghoeru.

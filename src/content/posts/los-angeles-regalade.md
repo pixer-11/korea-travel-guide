@@ -31,15 +31,21 @@ draft: false
 
 ## Why go
 
-Régalade isn't trying to reinvent French cooking — that's the point. In a Los Angeles dining scene where every other opening seems to chase a gimmick, this Beverly Grove bistro leans hard into the pleasures of a well-run neighborhood spot: bread that's actually good, a wine list you can navigate without a sommelier's help, and a menu built on the dishes that made bistro cooking beloved in the first place. It comes from the team behind Oste, the Italian restaurant a few blocks away, and you can feel that same instinct for hospitality without stiffness carried over into the French format.
+Régalade isn't trying to reinvent French cooking — that's the point. In a Los Angeles dining scene where every other opening seems to chase a gimmick, this Beverly Grove bistro leans hard into the pleasures of a well-run neighborhood spot: bread that's actually good, a wine list you can navigate without a sommelier's help, and a menu built on the dishes that made bistro cooking beloved in the first place.
+
+It comes from the team behind Oste, the Italian restaurant a few blocks away, and you can feel that same instinct for hospitality without stiffness carried over into the French format.
 
 ## The neighborhood
 
-Beverly Grove sits in that dense, walkable pocket of LA between West Hollywood and the Fairfax District, threaded by Third Street and Beverly Boulevard. It's a part of town built for grazing — vintage shops, design showrooms, and a steady rotation of restaurants that locals actually use rather than just photograph. Régalade fits neatly into that fabric: the kind of place you might duck into after browsing furniture stores on Beverly, or before catching a show at one of the nearby theaters on La Cienega. Parking in this stretch of the city runs the usual LA gauntlet of metered curb spots and small lots, so budget a few extra minutes if you're driving, and don't be surprised if valet is your easiest option on a busy night.
+Beverly Grove sits in that dense, walkable pocket of LA between West Hollywood and the Fairfax District, threaded by Third Street and Beverly Boulevard. It's a part of town built for grazing — vintage shops, design showrooms, and a steady rotation of restaurants that locals actually use rather than just photograph. Régalade fits neatly into that fabric: the kind of place you might duck into after browsing furniture stores on Beverly, or before catching a show at one of the nearby theaters on La Cienega.
+
+Parking in this stretch of the city runs the usual LA gauntlet of metered curb spots and small lots, so budget a few extra minutes if you're driving, and don't be surprised if valet is your easiest option on a busy night.
 
 ## What to expect at the table
 
-Classic bistro cooking, without the theatrics. Expect the vocabulary of a traditional Parisian menu — the steak-frites, the roast chicken, the onion soup, the kind of dishes that reward technique over novelty — executed by people who clearly enjoy the genre rather than treating it as a museum piece. Because the exact menu shifts with season and market, and because a restaurant this new is still calibrating, don't go in expecting a fixed lineup of dishes; go in expecting the register: rich, buttery, unpretentious French food meant to be eaten slowly and paired with wine. It's open for both lunch and dinner, which makes it a flexible stop whether you're building a midday break into a shopping afternoon or anchoring an evening out.
+Classic bistro cooking, without the theatrics. Expect the vocabulary of a traditional Parisian menu — the steak-frites, the roast chicken, the onion soup, the kind of dishes that reward technique over novelty — executed by people who clearly enjoy the genre rather than treating it as a museum piece. Because the exact menu shifts with season and market, and because a restaurant this new is still calibrating, don't go in expecting a fixed lineup of dishes; go in expecting the register: rich, buttery, unpretentious French food meant to be eaten slowly and paired with wine.
+
+It's open for both lunch and dinner, which makes it a flexible stop whether you're building a midday break into a shopping afternoon or anchoring an evening out.
 
 ## When to go
 
@@ -51,4 +57,8 @@ Beverly Grove doesn't have a subway station directly on top of it, so most visit
 
 ## How to visit like a local
 
-Book ahead — for a trending new opening like this, walking in and hoping for a table on a weekend night is a gamble, so reserve online or by phone a few days out if you can, especially for dinner. If you want a quieter, more conversational meal, aim for an early weekday lunch rather than peak Friday or Saturday dinner service. Dress is Beverly Grove casual-chic: you won't need a jacket, but athletic wear will feel out of place. Payment is straightforward — cards and contactless are standard across LA restaurants, and tipping 18-20% is the local norm. The biggest mistake visitors make at a spot like this is treating it like a quick bite between errands; a proper bistro meal here rewards lingering over a glass of wine rather than rushing the courses. And because opening hours and reservation policies are still settling in for a restaurant this new, always check Régalade's current hours and book directly before you head over.
+Book ahead — for a trending new opening like this, walking in and hoping for a table on a weekend night is a gamble, so reserve online or by phone a few days out if you can, especially for dinner. If you want a quieter, more conversational meal, aim for an early weekday lunch rather than peak Friday or Saturday dinner service.
+
+Dress is Beverly Grove casual-chic: you won't need a jacket, but athletic wear will feel out of place. Payment is straightforward — cards and contactless are standard across LA restaurants, and tipping 18-20% is the local norm. The biggest mistake visitors make at a spot like this is treating it like a quick bite between errands; a proper bistro meal here rewards lingering over a glass of wine rather than rushing the courses.
+
+And because opening hours and reservation policies are still settling in for a restaurant this new, always check Régalade's current hours and book directly before you head over.

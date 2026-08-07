@@ -55,15 +55,21 @@ draft: false
 
 ## Why go
 
-Donggung Palace & Wolji Pond (also still called by its older name, Anapji) was built around 674 CE as a detached palace of the Silla kingdom, used for royal banquets and to receive important guests. What survives and has been reconstructed is a cluster of pavilions arranged around a manmade pond with three small islets — a deliberate miniature landscape meant to evoke the mythical mountains of immortals. Excavations here turned up tens of thousands of artifacts, from roof tiles to a wooden 14-sided die used for drinking games, now displayed at the Gyeongju National Museum a short drive away. The site's real draw today, though, is visual: warm lighting after dark turns the pavilions and their mirror image on the water into one of the most photographed scenes in Gyeongju.
+Donggung Palace & Wolji Pond (also still called by its older name, Anapji) was built around 674 CE as a detached palace of the Silla kingdom, used for royal banquets and to receive important guests. What survives and has been reconstructed is a cluster of pavilions arranged around a manmade pond with three small islets — a deliberate miniature landscape meant to evoke the mythical mountains of immortals.
+
+Excavations here turned up tens of thousands of artifacts, from roof tiles to a wooden 14-sided die used for drinking games, now displayed at the Gyeongju National Museum a short drive away. The site's real draw today, though, is visual: warm lighting after dark turns the pavilions and their mirror image on the water into one of the most photographed scenes in Gyeongju.
 
 ## Getting there
 
-The site sits at 102 Wonhwa-ro in Gyeongju, on the eastern edge of the historic Wolseong/Gyerim forest area, roughly a 15–20 minute walk from Gyeongju's downtown hotel district and a similar distance from Cheomseongdae Observatory. There's no subway in Gyeongju — most visitors arrive by intercity bus or KTX to Singyeongju Station, then transfer to a local city bus or taxi into town (about 20–25 minutes from the KTX station by taxi). Once downtown, this cluster of Silla-era sites — Wolji Pond, Cheomseongdae, Gyerim Forest, and Wolseong — is compact enough to cover on foot or by rented bicycle, which is how many visitors and locals get around Gyeongju's flat old town.
+The site sits at 102 Wonhwa-ro in Gyeongju, on the eastern edge of the historic Wolseong/Gyerim forest area, roughly a 15–20 minute walk from Gyeongju's downtown hotel district and a similar distance from Cheomseongdae Observatory. There's no subway in Gyeongju — most visitors arrive by intercity bus or KTX to Singyeongju Station, then transfer to a local city bus or taxi into town (about 20–25 minutes from the KTX station by taxi).
+
+Once downtown, this cluster of Silla-era sites — Wolji Pond, Cheomseongdae, Gyerim Forest, and Wolseong — is compact enough to cover on foot or by rented bicycle, which is how many visitors and locals get around Gyeongju's flat old town.
 
 ## What to see
 
-Inside, wooden walkways trace the pond's edge, giving changing angles on the reconstructed pavilions (only a handful of the original more than 20 structures have been rebuilt). Look for the artificial rock formations and pine plantings along the shoreline, designed centuries ago to look natural rather than manicured. In summer, the pond's surface fills with lotus, adding another layer to the reflection shots. The adjoining Wolji Pond Exhibition Hall (sometimes labeled the Donggung and Wolji Relics Exhibition) displays recovered artifacts and models showing how the full complex once looked — worth 15–20 minutes if you want context before or after the outdoor loop.
+Inside, wooden walkways trace the pond's edge, giving changing angles on the reconstructed pavilions (only a handful of the original more than 20 structures have been rebuilt). Look for the artificial rock formations and pine plantings along the shoreline, designed centuries ago to look natural rather than manicured. In summer, the pond's surface fills with lotus, adding another layer to the reflection shots.
+
+The adjoining Wolji Pond Exhibition Hall (sometimes labeled the Donggung and Wolji Relics Exhibition) displays recovered artifacts and models showing how the full complex once looked — worth 15–20 minutes if you want context before or after the outdoor loop.
 
 ## When to go
 
@@ -71,5 +77,9 @@ Arrive in the last hour before sunset to watch the transition from daylight to t
 
 ## How to visit like a local
 
-This is one of Gyeongju's signature attractions, not a secret, so plan around the crowds rather than expecting to avoid them entirely. The calmest window is right at opening for the evening lighting — arrive as the sky is still blue rather than fully dark, since that's when photographers cluster most densely. Entry is typically via ticket booths near the main gate; buy on the spot rather than expecting online-only sales, and have cash or a card ready, as both are commonly accepted at Korean cultural sites. There's rarely a formal queue system, so it self-organizes — just follow the flow along the wooden walkway rather than backtracking against foot traffic, which is the main etiquette friction point. The most common visitor mistake is treating this as a quick daytime drive-by; the daytime view is pleasant but ordinary, while the after-dark reflection is the reason the site has its reputation, so don't skip the evening return. If cycling between sites, use the marked bike lanes rather than the pedestrian walkways directly around the pond. Combine the visit with a walk through nearby Gyerim Forest or Wolseong Fortress beforehand, saving Wolji Pond itself for last as the light fades — that sequence is how the loop naturally works for most evening visitors.
+This is one of Gyeongju's signature attractions, not a secret, so plan around the crowds rather than expecting to avoid them entirely. The calmest window is right at opening for the evening lighting — arrive as the sky is still blue rather than fully dark, since that's when photographers cluster most densely. Entry is typically via ticket booths near the main gate; buy on the spot rather than expecting online-only sales, and have cash or a card ready, as both are commonly accepted at Korean cultural sites.
+
+There's rarely a formal queue system, so it self-organizes — just follow the flow along the wooden walkway rather than backtracking against foot traffic, which is the main etiquette friction point. The most common visitor mistake is treating this as a quick daytime drive-by; the daytime view is pleasant but ordinary, while the after-dark reflection is the reason the site has its reputation, so don't skip the evening return.
+
+If cycling between sites, use the marked bike lanes rather than the pedestrian walkways directly around the pond. Combine the visit with a walk through nearby Gyerim Forest or Wolseong Fortress beforehand, saving Wolji Pond itself for last as the light fades — that sequence is how the loop naturally works for most evening visitors.
 

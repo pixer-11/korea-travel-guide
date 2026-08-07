@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: los-angeles-bad-roman
-srcHash: 4a3c904974cb
+srcHash: '4a3c904974cb'
 title: Bad Roman en Los Ángeles
 description: Bad Roman es un restaurante italiano maximalista y de postín de Quality Branded Hospitality (el equipo detrás de Don Angie y Zou Zou's) en Beverly Hills, reconocible al instante por su motivo de serpiente de neón naranja resplandeciente y su comedor teatral y desbordante.
 quickAnswer: Bad Roman es un restaurante italiano maximalista y de postín de Quality Branded Hospitality (el equipo detrás de Don Angie y Zou Zou's) en Beverly Hills, reconocible al instante por su motivo de serpiente de neón naranja resplandeciente y su comedor teatral y desbordante. Está pensado para una noche animada más que para una cena tranquila, así que reserva con antelación, vístete un poco arreglado y ve con ganas de espectáculo tanto como de pasta. Confirma el horario actual y reserva en línea antes de ir, ya que lugares de moda como este se llenan rápido y los detalles pueden cambiar.
@@ -22,7 +22,9 @@ faq:
 
 Los Ángeles no tiene escasez de restaurantes italianos, pero Bad Roman se concibió para ser diferente desde el momento en que entras. Es el último concepto de Quality Branded Hospitality, el grupo detrás de dos de los restaurantes más comentados de la ciudad en los últimos años, Don Angie y Zou Zou's. Ese linaje importa: ambos restaurantes predecesores se ganaron su reputación con espacios atrevidos y muy trabajados en el diseño, combinados con una cocina segura y de gran atractivo popular, y Bad Roman aplica esa misma fórmula a la comida italiana a una escala mayor y más teatral.
 
-El elemento distintivo es imposible de pasar por alto: un enorme motivo de serpiente de neón naranja que serpentea por el espacio, dando anclaje a un interior diseñado para ser maximalista casi hasta el punto de la sobrecarga sensorial. Piensa en colores saturados, adornos decorativos de gran tamaño y una sala pensada tanto para el espectáculo y las redes sociales como para la conversación tranquila. Se trata de cenar como forma de entretenimiento, en la línea de la actual ola de restaurantes de Los Ángeles centrados en la "experiencia", donde el diseño es el gran protagonista y no un simple telón de fondo.
+El elemento distintivo es imposible de pasar por alto: un enorme motivo de serpiente de neón naranja que serpentea por el espacio, dando anclaje a un interior diseñado para ser maximalista casi hasta el punto de la sobrecarga sensorial. Piensa en colores saturados, adornos decorativos de gran tamaño y una sala pensada tanto para el espectáculo y las redes sociales como para la conversación tranquila.
+
+Se trata de cenar como forma de entretenimiento, en la línea de la actual ola de restaurantes de Los Ángeles centrados en la "experiencia", donde el diseño es el gran protagonista y no un simple telón de fondo.
 
 ## Dónde está y cómo llegar
 
@@ -38,10 +40,14 @@ Con lo que sí puedes contar es con el ambiente: es un restaurante pensado para 
 
 ## Cuándo ir y cómo reservar
 
-Dado su estatus de local recién inaugurado y muy de moda, de un grupo hostelero con trayectoria probada, la demanda ha sido alta, y reservar es la opción más segura frente a arriesgarse a ir sin reserva. Reserva a través de la web oficial del restaurante o de una plataforma de reservas importante, e intenta asegurar tu mesa con varios días de antelación para las noches de fin de semana. Entre semana, sobre todo en los primeros turnos, suele ofrecerse un ritmo más relajado si no buscas el ambiente intenso de una noche de viernes o sábado.
+Dado su estatus de local recién inaugurado y muy de moda, de un grupo hostelero con trayectoria probada, la demanda ha sido alta, y reservar es la opción más segura frente a arriesgarse a ir sin reserva. Reserva a través de la web oficial del restaurante o de una plataforma de reservas importante, e intenta asegurar tu mesa con varios días de antelación para las noches de fin de semana.
+
+Entre semana, sobre todo en los primeros turnos, suele ofrecerse un ritmo más relajado si no buscas el ambiente intenso de una noche de viernes o sábado.
 
 Como ocurre con cualquier restaurante recién inaugurado que está en boca de todos, los horarios, las políticas de reserva e incluso la oferta de menú pueden cambiar en los meses posteriores a la apertura. Confirma siempre el horario y la disponibilidad actuales directamente a través de los canales oficiales de Bad Roman antes de cerrar tus planes.
 
 ## Cerca del lugar y consejos prácticos
 
-Combina tu visita con un paseo por Rodeo Drive, una parada en el letrero de Beverly Hills (Beverly Hills Sign) en Beverly Gardens Park, o una visita a alguna de las pequeñas galerías de diseño y arte de la zona, todo a poca distancia a pie o en un breve trayecto en coche. El código de vestimenta se inclina hacia la norma de Beverly Hills de "casual elegante": arreglado pero sin caer en lo excesivamente formal. Llega unos minutos antes si tienes reserva, ya que en salas maximalistas y muy solicitadas como esta, rara vez se guarda la mesa mucho más allá de la hora reservada.
+Combina tu visita con un paseo por Rodeo Drive, una parada en el letrero de Beverly Hills (Beverly Hills Sign) en Beverly Gardens Park, o una visita a alguna de las pequeñas galerías de diseño y arte de la zona, todo a poca distancia a pie o en un breve trayecto en coche. El código de vestimenta se inclina hacia la norma de Beverly Hills de "casual elegante": arreglado pero sin caer en lo excesivamente formal.
+
+Llega unos minutos antes si tienes reserva, ya que en salas maximalistas y muy solicitadas como esta, rara vez se guarda la mesa mucho más allá de la hora reservada.

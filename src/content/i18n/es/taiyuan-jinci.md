@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: taiyuan-jinci
-srcHash: 9f078940f67a
+srcHash: '8ae81ad2d9ae'
 title: 'Jinci: Guía de viaje de Taiyuan'
 description: Jinci (晋祠) es un extenso complejo de templos de la era Song del Norte en el extremo suroeste de Taiyuan, construido alrededor de un manantial sagrado y un ciprés de 3.000 años de antigüedad.
 quickAnswer: Jinci (晋祠) es un extenso complejo de templos de la era Song del Norte en el extremo suroeste de Taiyuan, construido alrededor de un manantial sagrado y un ciprés de 3.000 años de antigüedad. Reserva entre dos y tres horas para recorrer con calma sus salones, jardines y patios. Sigue siendo un lugar sorprendentemente poco concurrido en comparación con los templos más famosos de China, así que basta con visitarlo una mañana entre semana para tener muchos rincones casi para ti solo.
@@ -26,15 +26,21 @@ El complejo se encuentra a los pies del monte Xuanweng, en el distrito de Jinyua
 
 ## Por qué ir
 
-La atracción principal es el Salón Shengmu (Salón de la Madre Sagrada), una estructura de la dinastía Song del Norte que data del año 1023 d. C., uno de los edificios de madera más antiguos que aún se mantienen en pie en China. Su tejado se curva hacia arriba con una ligereza que los salones posteriores, más pesados, de las dinastías Ming y Qing, perdieron; en su interior hay 43 estatuas de arcilla pintada de la dinastía Song que representan a damas de la corte, con rostros y posturas de una expresividad sorprendente que los historiadores del arte aún estudian por su realismo. Frente al salón se alza la razón por la que muchos oyeron hablar de Jinci por primera vez: un ciprés de unos 3.000 años de antigüedad, que crece con una inclinación dramática, apuntalado en algunos puntos y todavía muy vivo. Cerca de allí, el Manantial de la Eterna Juventud ha alimentado el sitio durante siglos y le da al complejo su carácter acuático, casi de jardín, con estanques, un entrecruzado "Puente Volador del Estanque de los Peces" (un diseño de puente cruciforme único en la arquitectura china) y canales que antaño regaban los campos circundantes.
+La atracción principal es el Salón Shengmu (Salón de la Madre Sagrada), una estructura de la dinastía Song del Norte que data del año 1023 d. C., uno de los edificios de madera más antiguos que aún se mantienen en pie en China. Su tejado se curva hacia arriba con una ligereza que los salones posteriores, más pesados, de las dinastías Ming y Qing, perdieron; en su interior hay 43 estatuas de arcilla pintada de la dinastía Song que representan a damas de la corte, con rostros y posturas de una expresividad sorprendente que los historiadores del arte aún estudian por su realismo.
+
+Frente al salón se alza la razón por la que muchos oyeron hablar de Jinci por primera vez: un ciprés de unos 3.000 años de antigüedad, que crece con una inclinación dramática, apuntalado en algunos puntos y todavía muy vivo. Cerca de allí, el Manantial de la Eterna Juventud ha alimentado el sitio durante siglos y le da al complejo su carácter acuático, casi de jardín, con estanques, un entrecruzado "Puente Volador del Estanque de los Peces" (un diseño de puente cruciforme único en la arquitectura china) y canales que antaño regaban los campos circundantes.
 
 ## Cómo llegar
 
-Jinci se encuentra en el distrito de Jinyuan, a unos 25 km al suroeste del centro de Taiyuan; calcula entre 45 minutos y una hora en taxi o coche compartido desde el centro de la ciudad o desde la estación de tren de Taiyuan Sur (Taiyuan South Railway Station). Hay autobuses públicos que van desde el centro de Taiyuan hacia Jinci Park; pide a tu hotel que confirme el número de ruta actual, ya que las líneas de autobús urbano se renumeran periódicamente. Si conduces o vas en taxi, la dirección del sitio se ubica claramente en el distrito de Jinyuan en cualquier aplicación de mapas china (Baidu Maps o Amap funcionan de forma más fiable que Google Maps en esta zona).
+Jinci se encuentra en el distrito de Jinyuan, a unos 25 km al suroeste del centro de Taiyuan; calcula entre 45 minutos y una hora en taxi o coche compartido desde el centro de la ciudad o desde la estación de tren de Taiyuan Sur (Taiyuan South Railway Station). Hay autobuses públicos que van desde el centro de Taiyuan hacia Jinci Park; pide a tu hotel que confirme el número de ruta actual, ya que las líneas de autobús urbano se renumeran periódicamente.
+
+Si conduces o vas en taxi, la dirección del sitio se ubica claramente en el distrito de Jinyuan en cualquier aplicación de mapas china (Baidu Maps o Amap funcionan de forma más fiable que Google Maps en esta zona).
 
 ## Qué ver y hacer
 
-Además del Salón Shengmu y el antiguo ciprés, reserva tiempo para la Terraza del Espejo de Agua, un escenario de ópera al aire libre de la dinastía Ming que mira hacia el salón principal, y para pasear por los patios laterales más tranquilos, donde a veces jubilados locales practican tai chi o caligrafía con pinceles de agua sobre las losas de piedra. El Templo Zhusheng y el anexo del Templo de Confucio son fáciles de pasar por alto, pero merecen un desvío si te gustan los rincones más tranquilos y menos restaurados. Calcula al menos dos o tres horas; los visitantes más interesados en la historia podrían dedicar fácilmente medio día.
+Además del Salón Shengmu y el antiguo ciprés, reserva tiempo para la Terraza del Espejo de Agua, un escenario de ópera al aire libre de la dinastía Ming que mira hacia el salón principal, y para pasear por los patios laterales más tranquilos, donde a veces jubilados locales practican tai chi o caligrafía con pinceles de agua sobre las losas de piedra.
+
+El Templo Zhusheng y el anexo del Templo de Confucio son fáciles de pasar por alto, pero merecen un desvío si te gustan los rincones más tranquilos y menos restaurados. Calcula al menos dos o tres horas; los visitantes más interesados en la historia podrían dedicar fácilmente medio día.
 
 ## Cuándo ir
 
@@ -42,4 +48,8 @@ La primavera y el otoño son las estaciones más agradables: el verano en el val
 
 ## Cómo visitarlo como un local
 
-Compra tu entrada en la puerta en lugar de a través de una aplicación externa: los precios y horarios cambian según la temporada, así que confirma ambos antes de salir. En la entrada y en el interior, tanto para tentempiés como para té, se aceptan efectivo y pago móvil (WeChat Pay/Alipay). No hace falta reservar con antelación; no es una atracción de entrada por horario. Usa calzado adecuado para caminar sobre piedra irregular, ya que los senderos entre los salones son el empedrado original, no cemento alisado. El error que comete la mayoría de los visitantes es ir directo al Salón Shengmu y al ciprés, y luego marcharse; en cambio, sigue los canales de agua hasta los patios laterales más pequeños, donde las multitudes se reducen a casi nadie y se percibe mejor a Jinci como un templo-jardín en funcionamiento, no como un único monumento para la foto. Si lees chino, pide un mapa del sitio en la entrada; muchos de los salones más pequeños tienen señalización mínima en inglés.
+Compra tu entrada en la puerta en lugar de a través de una aplicación externa: los precios y horarios cambian según la temporada, así que confirma ambos antes de salir. En la entrada y en el interior, tanto para tentempiés como para té, se aceptan efectivo y pago móvil (WeChat Pay/Alipay). No hace falta reservar con antelación; no es una atracción de entrada por horario.
+
+Usa calzado adecuado para caminar sobre piedra irregular, ya que los senderos entre los salones son el empedrado original, no cemento alisado. El error que comete la mayoría de los visitantes es ir directo al Salón Shengmu y al ciprés, y luego marcharse; en cambio, sigue los canales de agua hasta los patios laterales más pequeños, donde las multitudes se reducen a casi nadie y se percibe mejor a Jinci como un templo-jardín en funcionamiento, no como un único monumento para la foto.
+
+Si lees chino, pide un mapa del sitio en la entrada; muchos de los salones más pequeños tienen señalización mínima en inglés.

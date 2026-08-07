@@ -69,7 +69,9 @@ draft: false
 
 ## Why go
 
-You smell it before you see the sign: sugared almonds, melted chocolate, something faintly of orange peel and butter. La Colmena sits on a triangular sliver of Plaça de l'Àngel, at the seam where the Gothic Quarter gives way to the wider streets of the Born, and it has been doing more or less the same thing since the 19th century — turning out dense, old-world Catalan and Spanish sweets from a counter that looks like it was carved out of the building itself. This isn't a café with armchairs and oat-milk lattes. It's a working pastry shop, glass cases stacked with turrón, candied fruit glowing like stained glass, marzipan shaped into little fruits, and trays of dry, crumbly polvorones dusted white. You come here to buy, not to linger.
+You smell it before you see the sign: sugared almonds, melted chocolate, something faintly of orange peel and butter. La Colmena sits on a triangular sliver of Plaça de l'Àngel, at the seam where the Gothic Quarter gives way to the wider streets of the Born, and it has been doing more or less the same thing since the 19th century — turning out dense, old-world Catalan and Spanish sweets from a counter that looks like it was carved out of the building itself.
+
+This isn't a café with armchairs and oat-milk lattes. It's a working pastry shop, glass cases stacked with turrón, candied fruit glowing like stained glass, marzipan shaped into little fruits, and trays of dry, crumbly polvorones dusted white. You come here to buy, not to linger.
 
 ## Getting there
 
@@ -77,12 +79,20 @@ The shop sits right where Carrer de la Llibreteria meets Plaça de l'Àngel, a f
 
 ## What to see (and eat)
 
-The window display does a lot of the talking: towers of glazed figs, whole marzipan-topped cakes, and — depending on the season — trays of panellets around All Saints' or turrón blocks stacked for Christmas. Inside, the counter runs long and the staff move fast, wrapping boxes in the shop's own paper and string with the kind of practiced motion that comes from decades of repetition. Look for the classic Spanish touchstones: turrón de Jijona (soft, almond-paste style) and turrón de Alicante (hard, brittle with whole almonds), candied clementines and pears coated in a shell of sugar, and dense, short cookies like polvorones and mantecados that crumble the moment you bite them. There are savory bites too — small empanadas and salty snacks — but the reputation here is built on sugar. Nothing is meant to be eaten standing at the counter; you buy by weight or by box and take it with you, maybe to eat on a bench in the plaza outside or back at your hotel.
+The window display does a lot of the talking: towers of glazed figs, whole marzipan-topped cakes, and — depending on the season — trays of panellets around All Saints' or turrón blocks stacked for Christmas. Inside, the counter runs long and the staff move fast, wrapping boxes in the shop's own paper and string with the kind of practiced motion that comes from decades of repetition.
+
+Look for the classic Spanish touchstones: turrón de Jijona (soft, almond-paste style) and turrón de Alicante (hard, brittle with whole almonds), candied clementines and pears coated in a shell of sugar, and dense, short cookies like polvorones and mantecados that crumble the moment you bite them. There are savory bites too — small empanadas and salty snacks — but the reputation here is built on sugar.
+
+Nothing is meant to be eaten standing at the counter; you buy by weight or by box and take it with you, maybe to eat on a bench in the plaza outside or back at your hotel.
 
 ## When to go
 
-The shop opens at 9am and stays open straight through to 9pm, seven days a week, so there's no midday closure to plan around. The measured pattern of foot traffic backs up what you'd guess just standing outside: weekend mornings between 9am and noon are the calmest stretch, when you can actually study the cases without someone's elbow in your back. Weekend afternoons are the opposite — foot traffic climbs steadily and peaks between 4pm and 8pm, when day-trippers and Cathedral crowds spill into the plaza. If your schedule is flexible, do your browsing in that quiet morning window and save the busy stretch for somewhere else.
+The shop opens at 9am and stays open straight through to 9pm, seven days a week, so there's no midday closure to plan around. The measured pattern of foot traffic backs up what you'd guess just standing outside: weekend mornings between 9am and noon are the calmest stretch, when you can actually study the cases without someone's elbow in your back.
+
+Weekend afternoons are the opposite — foot traffic climbs steadily and peaks between 4pm and 8pm, when day-trippers and Cathedral crowds spill into the plaza. If your schedule is flexible, do your browsing in that quiet morning window and save the busy stretch for somewhere else.
 
 ## How to visit like a local
 
-Treat it the way people here treat any counter-serve institution: know roughly what you want before you reach the front, because the line moves quickly and the staff aren't there to walk you through a leisurely tasting menu. Point at what catches your eye in the case, ask for a weight ("cent grams," a hundred grams, is a normal unit to request) or a small box, and pay by card or cash — both are accepted without fuss. It's not a place to grab a table and chat; there isn't one. Since this is a well-known stop for visitors as well as locals doing their holiday shopping, the biggest mistake is arriving at 5pm on a Saturday expecting a quick in-and-out — that's exactly the window the crowd data flags as busiest. Swing by in the morning instead, and treat the visit as a five-to-ten-minute stop: enough time to choose, pay, and step back out into the plaza with your box under your arm.
+Treat it the way people here treat any counter-serve institution: know roughly what you want before you reach the front, because the line moves quickly and the staff aren't there to walk you through a leisurely tasting menu. Point at what catches your eye in the case, ask for a weight ("cent grams," a hundred grams, is a normal unit to request) or a small box, and pay by card or cash — both are accepted without fuss.
+
+It's not a place to grab a table and chat; there isn't one. Since this is a well-known stop for visitors as well as locals doing their holiday shopping, the biggest mistake is arriving at 5pm on a Saturday expecting a quick in-and-out — that's exactly the window the crowd data flags as busiest. Swing by in the morning instead, and treat the visit as a five-to-ten-minute stop: enough time to choose, pay, and step back out into the plaza with your box under your arm.

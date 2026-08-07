@@ -48,23 +48,35 @@ aiGenerated: true
 
 ## Why go
 
-Gyeongpo Lake is a shallow, brackish lagoon separated from the East Sea by a narrow strip of sand, and it's one of Gangneung's signature landscapes — the kind of place old paintings and poems were written about. The lake draws migratory birds in cooler months, and its flat banks are lined with pine trees, flower beds, and a paved path that makes it one of the easiest lakes in Korea to walk around fully. With a 4.4 rating from nearly 600 reviews, it's a reliable, well-loved stop rather than an obscure detour — expect other visitors, especially at sunset.
+Gyeongpo Lake is a shallow, brackish lagoon separated from the East Sea by a narrow strip of sand, and it's one of Gangneung's signature landscapes — the kind of place old paintings and poems were written about. The lake draws migratory birds in cooler months, and its flat banks are lined with pine trees, flower beds, and a paved path that makes it one of the easiest lakes in Korea to walk around fully.
+
+With a 4.4 rating from nearly 600 reviews, it's a reliable, well-loved stop rather than an obscure detour — expect other visitors, especially at sunset.
 
 ## Getting there
 
-Gyeongpo Lake sits in Jeo-dong, about 6km northeast of Gangneung Station (the KTX terminus since the line opened in 2018). From the station, city buses (numbers such as 202, 300, or 302 have historically served the Gyeongpo area — confirm the current route at the station or with a taxi driver, since numbering shifts occasionally) take about 20–25 minutes. A taxi runs roughly 15 minutes and is inexpensive enough that groups often split one rather than wait for a bus. If you're coming from Gyeongpo Beach, the lake is a 5–10 minute walk inland — many visitors do both in one outing.
+Gyeongpo Lake sits in Jeo-dong, about 6km northeast of Gangneung Station (the KTX terminus since the line opened in 2018). From the station, city buses (numbers such as 202, 300, or 302 have historically served the Gyeongpo area — confirm the current route at the station or with a taxi driver, since numbering shifts occasionally) take about 20–25 minutes. A taxi runs roughly 15 minutes and is inexpensive enough that groups often split one rather than wait for a bus.
+
+If you're coming from Gyeongpo Beach, the lake is a 5–10 minute walk inland — many visitors do both in one outing.
 
 ## What to see and do
 
-The full lakeside loop is about 4.3km on a paved, mostly flat path — walkable in under 1.5 hours, or faster by rental bike (bike-share racks are scattered around the shoreline). The main landmark is Gyeongpodae Pavilion, a Joseon-era structure on a low hill on the north side of the lake, built for viewing the moon's reflection — locally it's said you can see the moon five times here: in the sky, the sea, the lake, your wine cup, and your companion's eyes. Nearby, Heojun and Heo Nanseolheon memorial sites and small gardens commemorate Gangneung's literary history. On the water, look for grebes, mandarin ducks, and other migratory birds, particularly in autumn and winter. Spring brings a cherry blossom corridor along parts of the path, drawing crowds for a couple of weeks in early April. A pedestrian/cycling bridge and several photo-friendly platforms jut into the lake for closer views.
+The full lakeside loop is about 4.3km on a paved, mostly flat path — walkable in under 1.5 hours, or faster by rental bike (bike-share racks are scattered around the shoreline). The main landmark is Gyeongpodae Pavilion, a Joseon-era structure on a low hill on the north side of the lake, built for viewing the moon's reflection — locally it's said you can see the moon five times here: in the sky, the sea, the lake, your wine cup, and your companion's eyes.
+
+Nearby, Heojun and Heo Nanseolheon memorial sites and small gardens commemorate Gangneung's literary history. On the water, look for grebes, mandarin ducks, and other migratory birds, particularly in autumn and winter. Spring brings a cherry blossom corridor along parts of the path, drawing crowds for a couple of weeks in early April. A pedestrian/cycling bridge and several photo-friendly platforms jut into the lake for closer views.
 
 ## When to go
 
-Sunrise and sunset are the standout times — the lake's flat, open water reflects color especially well at dusk, and the editorial consensus on this spot centers on sunset views. Early morning (before 8am) is quietest and best for birdwatching and photos without crowds. Cherry blossom season (late March–early April) and the crisp days of October–November (migratory bird season, fall foliage) are the two peak windows; summer is green and pleasant but busier due to nearby beach tourism. The loop is doable year-round since it's flat and mostly paved, though winter wind off the sea can be sharp.
+Sunrise and sunset are the standout times — the lake's flat, open water reflects color especially well at dusk, and the editorial consensus on this spot centers on sunset views. Early morning (before 8am) is quietest and best for birdwatching and photos without crowds. Cherry blossom season (late March–early April) and the crisp days of October–November (migratory bird season, fall foliage) are the two peak windows; summer is green and pleasant but busier due to nearby beach tourism.
+
+The loop is doable year-round since it's flat and mostly paved, though winter wind off the sea can be sharp.
 
 ## How to visit like a local
 
-Go at golden hour but arrive on the east or south side of the lake for sunset, since that's where the open water faces the setting light without pavilion buildings blocking the view. Locals and regular visitors often treat the loop as a morning or evening exercise circuit rather than a single-stop photo errand — bring or rent a bike if you want to cover the whole 4.3km plus a beach detour in one go. Payment for bike rentals and any lakeside snacks is overwhelmingly by card or mobile pay (Korea is a near-cashless society), so don't bother hunting for cash first. There's no ticket or entry fee to walk the public path or view the lake itself, so the "cost" of visiting is really just transport and whatever food you buy — the common tourist mistake is treating this as a quick 15-minute photo stop and missing the pavilion or bird areas on the far side. If you only have time for a partial loop, prioritize the Gyeongpodae Pavilion side over the modern developed edge for a quieter, more scenic stretch.
+Go at golden hour but arrive on the east or south side of the lake for sunset, since that's where the open water faces the setting light without pavilion buildings blocking the view. Locals and regular visitors often treat the loop as a morning or evening exercise circuit rather than a single-stop photo errand — bring or rent a bike if you want to cover the whole 4.3km plus a beach detour in one go.
+
+Payment for bike rentals and any lakeside snacks is overwhelmingly by card or mobile pay (Korea is a near-cashless society), so don't bother hunting for cash first. There's no ticket or entry fee to walk the public path or view the lake itself, so the "cost" of visiting is really just transport and whatever food you buy — the common tourist mistake is treating this as a quick 15-minute photo stop and missing the pavilion or bird areas on the far side.
+
+If you only have time for a partial loop, prioritize the Gyeongpodae Pavilion side over the modern developed edge for a quieter, more scenic stretch.
 
 ## Nearby
 

@@ -81,23 +81,35 @@ draft: false
 
 ## Why go
 
-You come to Tapas Boatella for the location as much as the food: a wraparound terrace angled straight at the wrought-iron and stained-glass front of the Mercado Central, one of Europe's great covered markets. The plaza itself does a lot of the work — pigeons scattering across the cobbles, the modernista ironwork catching the morning light, the low murmur of a neighborhood that's equal parts tourists photographing the market doors and locals cutting through on their way to buy fish. This is a bar that leans into that setting rather than fighting it, with a menu built around what's sold twenty meters away that same morning.
+You come to Tapas Boatella for the location as much as the food: a wraparound terrace angled straight at the wrought-iron and stained-glass front of the Mercado Central, one of Europe's great covered markets. The plaza itself does a lot of the work — pigeons scattering across the cobbles, the modernista ironwork catching the morning light, the low murmur of a neighborhood that's equal parts tourists photographing the market doors and locals cutting through on their way to buy fish.
+
+This is a bar that leans into that setting rather than fighting it, with a menu built around what's sold twenty meters away that same morning.
 
 ## Getting there
 
-The bar sits on Plaça del Mercat, in the historic Ciutat Vella district, directly across from the Mercado Central and a short walk from the Llotja de la Seda (the Gothic silk exchange, a UNESCO World Heritage Site) and Valencia Cathedral. The closest metro stop is Xàtiva (Lines 3, 5, 7, 9), about a 10-minute walk, though most visitors arrive on foot from the old town after a morning at the market or cathedral. If you're coming from the beach or the Turia Gardens, any city bus heading into Ciutat Vella will drop you within a few minutes' walk.
+The bar sits on Plaça del Mercat, in the historic Ciutat Vella district, directly across from the Mercado Central and a short walk from the Llotja de la Seda (the Gothic silk exchange, a UNESCO World Heritage Site) and Valencia Cathedral. The closest metro stop is Xàtiva (Lines 3, 5, 7, 9), about a 10-minute walk, though most visitors arrive on foot from the old town after a morning at the market or cathedral.
+
+If you're coming from the beach or the Turia Gardens, any city bus heading into Ciutat Vella will drop you within a few minutes' walk.
 
 ## What to eat
 
-The kitchen works the market-to-counter angle hard: expect grilled or fried pescaíto (small fried fish), clams, mussels, and grilled octopus alongside croquettes and jamón. Paella and other rice dishes show up on the menu too, though in a city with dedicated rice specialists nearby, this is more a solid, convenient version than a destination dish in itself. Finish with a classic dessert — flan or an orange-scented arroz con leche if it's on offer that day. Portions are tapas-sized, so plan to order several plates between two or three people rather than one dish each. Prices sit at the budget-friendly end for a spot in this location, which is part of why it fills up.
+The kitchen works the market-to-counter angle hard: expect grilled or fried pescaíto (small fried fish), clams, mussels, and grilled octopus alongside croquettes and jamón. Paella and other rice dishes show up on the menu too, though in a city with dedicated rice specialists nearby, this is more a solid, convenient version than a destination dish in itself. Finish with a classic dessert — flan or an orange-scented arroz con leche if it's on offer that day.
+
+Portions are tapas-sized, so plan to order several plates between two or three people rather than one dish each. Prices sit at the budget-friendly end for a spot in this location, which is part of why it fills up.
 
 ## When to go
 
-Boatella is closed Tuesday and Wednesday, so build those out of your plans entirely — a common trip-up for visitors who assume every restaurant near the market runs seven days a week. On the days it's open (Monday, Thursday through Sunday), hours run 8am to 11pm, so it works equally well for a coffee-and-pastry breakfast, a late lunch after browsing the market stalls, or an early dinner before heading into the old town for the evening. The crowd data is unambiguous about timing: weekends get genuinely busy from 11am straight through to closing, while the calm window is early, 8 to 9am, before the market crowds spill over into the plaza.
+Boatella is closed Tuesday and Wednesday, so build those out of your plans entirely — a common trip-up for visitors who assume every restaurant near the market runs seven days a week. On the days it's open (Monday, Thursday through Sunday), hours run 8am to 11pm, so it works equally well for a coffee-and-pastry breakfast, a late lunch after browsing the market stalls, or an early dinner before heading into the old town for the evening.
+
+The crowd data is unambiguous about timing: weekends get genuinely busy from 11am straight through to closing, while the calm window is early, 8 to 9am, before the market crowds spill over into the plaza.
 
 ## How to visit like a local
 
-This is a well-known, busy address — not a quiet find — so the smart move is timing, not secrecy. If you want a table without a wait, especially on Friday through Sunday, show up right at opening or just after, in that 8–9am quiet stretch, and treat it as a market-morning breakfast rather than a dinner reservation. If you can only come later, expect a queue or standing room at the bar counter, and don't be surprised if outdoor tables are wait-listed while the counter has open stools. Order tapas-style: pick two or three small plates per person and share, rather than ordering full portions solo — that's how the menu is designed and how you'll get the best value. Payment is by card or cash as at most Spanish bars, and tipping is not obligatory; rounding up or leaving small change is the norm rather than a percentage tip. Waitstaff move fast during peak hours, so flag them clearly rather than waiting to be asked — a raised hand or a clear "¡Oiga!" is standard practice, not rude. And because Tuesday and Wednesday closures catch a lot of visitors out, double-check the day of the week before you build it into an itinerary, especially if you're combining it with a specific market visit.
+This is a well-known, busy address — not a quiet find — so the smart move is timing, not secrecy. If you want a table without a wait, especially on Friday through Sunday, show up right at opening or just after, in that 8–9am quiet stretch, and treat it as a market-morning breakfast rather than a dinner reservation. If you can only come later, expect a queue or standing room at the bar counter, and don't be surprised if outdoor tables are wait-listed while the counter has open stools.
+
+Order tapas-style: pick two or three small plates per person and share, rather than ordering full portions solo — that's how the menu is designed and how you'll get the best value. Payment is by card or cash as at most Spanish bars, and tipping is not obligatory; rounding up or leaving small change is the norm rather than a percentage tip.
+
+Waitstaff move fast during peak hours, so flag them clearly rather than waiting to be asked — a raised hand or a clear "¡Oiga!" is standard practice, not rude. And because Tuesday and Wednesday closures catch a lot of visitors out, double-check the day of the week before you build it into an itinerary, especially if you're combining it with a specific market visit.
 
 ## Nearby, worth combining
 

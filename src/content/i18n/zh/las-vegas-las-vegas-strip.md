@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: las-vegas-las-vegas-strip
-srcHash: f4ab8144cfb5
+srcHash: '2605dcf5e84b'
 title: 拉斯维加斯大道：旅行指南
 description: 拉斯维加斯大道（Las Vegas Strip）是拉斯维加斯大道南段（Las Vegas Boulevard South）中长4.2英里的一段，位于曼德勒海湾（Mandalay Bay）与撒哈拉/太空针塔（Sahara/Stratosphere）区域之间，汇集了这座城市最大的赌场度假村、演出，以及百乐宫喷泉（Bellagio Fountains）和弗里蒙特式霓虹灯这样的免费奇观。
 quickAnswer: 拉斯维加斯大道（Las Vegas Strip）是拉斯维加斯大道南段（Las Vegas Boulevard South）中长4.2英里的一段，位于曼德勒海湾（Mandalay Bay）与撒哈拉/太空针塔（Sahara/Stratosphere）区域之间，汇集了这座城市最大的赌场度假村、演出，以及百乐宫喷泉（Bellagio Fountains）和弗里蒙特式霓虹灯这样的免费奇观。建议分段步行，而不是从头走到尾，长距离移动可以搭乘单轨列车或网约车，并尽量安排在傍晚出行，此时灯光和人潮都达到高峰。安排两到四天时间，就足以游览主要度假村、看一场演出，再体验几个免费景点，不必太赶。
@@ -24,7 +24,9 @@ faq:
 
 ## 如何前往
 
-拉斯维加斯大道南段（Las Vegas Boulevard South）是大道的正式名称，也是整片区域的主轴线。若乘飞机抵达，麦卡伦/哈里·里德国际机场（McCarran/Harry Reid International Airport，LAS）距离曼德勒海湾（Mandalay Bay）附近的南端约10-15分钟车程或网约车车程。在大道内部，拉斯维加斯单轨列车（Las Vegas Monorail）沿大道东侧后方运行，连接米高梅大酒店（MGM Grand）、巴利/马蹄铁（Bally's/Horseshoe）、火烈鸟（Flamingo）、哈拉斯（Harrah's）以及拉斯维加斯会展中心（Las Vegas Convention Center）等地——在夏季酷热天气下，是省去长距离步行的好选择。免费的百乐宫/城市中心（Bellagio/City Center）观光电车则连接百乐宫（Bellagio）、水晶（Crystals）与阿丽雅（Aria）。赌场地图上看似很近的距离，实际走起来往往更远：即便两处度假村在地图上看似"近在咫尺"，实际步行也可能需要20-30分钟，因此规划行程时要留出充足时间，长距离移动不妨考虑网约车或双层观光巴士"Deuce"，尤其是前往太空针塔（Stratosphere）/撒哈拉（SAHARA）一端时。
+拉斯维加斯大道南段（Las Vegas Boulevard South）是大道的正式名称，也是整片区域的主轴线。若乘飞机抵达，麦卡伦/哈里·里德国际机场（McCarran/Harry Reid International Airport，LAS）距离曼德勒海湾（Mandalay Bay）附近的南端约10-15分钟车程或网约车车程。在大道内部，拉斯维加斯单轨列车（Las Vegas Monorail）沿大道东侧后方运行，连接米高梅大酒店（MGM Grand）、巴利/马蹄铁（Bally's/Horseshoe）、火烈鸟（Flamingo）、哈拉斯（Harrah's）以及拉斯维加斯会展中心（Las Vegas Convention Center）等地——在夏季酷热天气下，是省去长距离步行的好选择。
+
+免费的百乐宫/城市中心（Bellagio/City Center）观光电车则连接百乐宫（Bellagio）、水晶（Crystals）与阿丽雅（Aria）。赌场地图上看似很近的距离，实际走起来往往更远：即便两处度假村在地图上看似"近在咫尺"，实际步行也可能需要20-30分钟，因此规划行程时要留出充足时间，长距离移动不妨考虑网约车或双层观光巴士"Deuce"，尤其是前往太空针塔（Stratosphere）/撒哈拉（SAHARA）一端时。
 
 ## 看什么、玩什么
 
@@ -42,4 +44,6 @@ faq:
 
 ## 周边与实用建议
 
-拉斯维加斯市中心（Downtown Las Vegas）和弗里蒙特街体验区（Fremont Street Experience）——一个拥有自己的灯光秀、更古老的霓虹灯篷区——位于大道北端以北约4-5英里处，值得专门安排一次行程，而不是步行前往。大多数度假村的停车场都可自助停车，如果是酒店住客或消费达到一定金额通常免费；代客泊车一般需支付费用外加小费。在几个主要路口（如火烈鸟/大道路口Flamingo/Strip和特罗皮卡纳/大道路口Tropicana/Strip），人行道被设计成高架天桥，以将行人与车流分开——请走天桥，而不要闯红灯乱穿马路，这既违法也会被开罚单。建议穿着舒适、已经磨合过的鞋子：大道上的距离积累起来很可观，而赌场内部的布局设计也往往会让你不知不觉走得比预想中更远。
+拉斯维加斯市中心（Downtown Las Vegas）和弗里蒙特街体验区（Fremont Street Experience）——一个拥有自己的灯光秀、更古老的霓虹灯篷区——位于大道北端以北约4-5英里处，值得专门安排一次行程，而不是步行前往。大多数度假村的停车场都可自助停车，如果是酒店住客或消费达到一定金额通常免费；代客泊车一般需支付费用外加小费。在几个主要路口（如火烈鸟/大道路口Flamingo/Strip和特罗皮卡纳/大道路口Tropicana/Strip），人行道被设计成高架天桥，以将行人与车流分开——请走天桥，而不要闯红灯乱穿马路，这既违法也会被开罚单。
+
+建议穿着舒适、已经磨合过的鞋子：大道上的距离积累起来很可观，而赌场内部的布局设计也往往会让你不知不觉走得比预想中更远。

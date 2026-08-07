@@ -55,15 +55,21 @@ draft: false
 
 ## Why go
 
-Tokyo Tower has watched over the city since 1958, when it was built as a broadcasting tower and briefly stood as the tallest structure in Japan. At 333 meters, painted in "Tokyo Tower White" and international orange (a color scheme required by aviation law), it's an obvious visual cousin of the Eiffel Tower — sleeker legs, same era of steel-lattice optimism. Unlike the more modern, commercially slick Tokyo Skytree across town, Tokyo Tower feels like a mid-century icon that Tokyo grew up around rather than a purpose-built tourist machine. With a 4.5 rating across nearly 100,000 reviews, it remains one of the city's most consistently beloved landmarks, prized as much for the retro atmosphere and skyline framing (Mount Fuji is visible on clear winter days) as for the views themselves.
+Tokyo Tower has watched over the city since 1958, when it was built as a broadcasting tower and briefly stood as the tallest structure in Japan. At 333 meters, painted in "Tokyo Tower White" and international orange (a color scheme required by aviation law), it's an obvious visual cousin of the Eiffel Tower — sleeker legs, same era of steel-lattice optimism.
+
+Unlike the more modern, commercially slick Tokyo Skytree across town, Tokyo Tower feels like a mid-century icon that Tokyo grew up around rather than a purpose-built tourist machine. With a 4.5 rating across nearly 100,000 reviews, it remains one of the city's most consistently beloved landmarks, prized as much for the retro atmosphere and skyline framing (Mount Fuji is visible on clear winter days) as for the views themselves.
 
 ## Getting there
 
-The tower sits at 4-chōme-2-8 Shibakōen, Minato City, in the Shiba Park area, a low-key neighborhood of temples and green space rather than neon. The closest station is Akabanebashi on the Toei Oedo Line, about a 5-minute walk via the Akabanebashi exit. Onarimon and Kamiyacho stations, both on the Toei Mita/Hibiya lines, are roughly 6-8 minutes on foot. Shiba-koen Station (Toei Mita Line) also works and drops you near Zojoji Temple, which sits directly at the tower's base and is worth pairing with your visit. If arriving from central Tokyo, a taxi from Roppongi or Shimbashi takes about 10-15 minutes depending on traffic. There's no direct JR line, so factor in one subway transfer from most hotel areas.
+The tower sits at 4-chōme-2-8 Shibakōen, Minato City, in the Shiba Park area, a low-key neighborhood of temples and green space rather than neon. The closest station is Akabanebashi on the Toei Oedo Line, about a 5-minute walk via the Akabanebashi exit. Onarimon and Kamiyacho stations, both on the Toei Mita/Hibiya lines, are roughly 6-8 minutes on foot. Shiba-koen Station (Toei Mita Line) also works and drops you near Zojoji Temple, which sits directly at the tower's base and is worth pairing with your visit.
+
+If arriving from central Tokyo, a taxi from Roppongi or Shimbashi takes about 10-15 minutes depending on traffic. There's no direct JR line, so factor in one subway transfer from most hotel areas.
 
 ## What to see and do
 
-The tower has two observation levels. The Main Deck at 150 meters is the standard experience — glass floor panels for a slightly vertigo-inducing look straight down, café seating, and gift shops selling tower-shaped everything. The Top Deck at 150m-plus (topping out near 250m) requires a separate, pricier ticket and includes a short guided/digital experience before you reach the platform, with sweeping views toward Tokyo Bay, Roppongi, and on clear days, Mount Fuji to the southwest. Give yourself 60-90 minutes total; longer if you linger for photos at golden hour. At the base, FootTown houses restaurants, a small aquarium, and rotating character-collaboration attractions (One Piece and other anime tie-ins have run here for years) — good options if traveling with kids or waiting out a rain delay.
+The tower has two observation levels. The Main Deck at 150 meters is the standard experience — glass floor panels for a slightly vertigo-inducing look straight down, café seating, and gift shops selling tower-shaped everything. The Top Deck at 150m-plus (topping out near 250m) requires a separate, pricier ticket and includes a short guided/digital experience before you reach the platform, with sweeping views toward Tokyo Bay, Roppongi, and on clear days, Mount Fuji to the southwest.
+
+Give yourself 60-90 minutes total; longer if you linger for photos at golden hour. At the base, FootTown houses restaurants, a small aquarium, and rotating character-collaboration attractions (One Piece and other anime tie-ins have run here for years) — good options if traveling with kids or waiting out a rain delay.
 
 ## When to go
 
@@ -71,4 +77,6 @@ Late afternoon into early evening is the sweet spot: you get daylight views tran
 
 ## Nearby & tips
 
-Zojoji Temple, a major Jodo-shu Buddhist temple with a striking main gate (Sanmon, one of Tokyo's oldest wooden structures), sits right beside the tower and makes a natural combined stop, especially for the classic photo of the temple's pagoda framed against the tower. Shiba Park itself offers walking paths and a quieter, greener contrast to the tower's crowds. For tickets, buying Top Deck admission online in advance is worth it — it comes with a timed entry slot and bypasses a chunk of the line that forms for walk-up Main Deck tickets. Prices and hours shift periodically, so confirm current rates on the official site before your trip rather than relying on older guidebooks. If budget-conscious, note the Main Deck alone is considerably cheaper and still delivers a strong panoramic view of central Tokyo.
+Zojoji Temple, a major Jodo-shu Buddhist temple with a striking main gate (Sanmon, one of Tokyo's oldest wooden structures), sits right beside the tower and makes a natural combined stop, especially for the classic photo of the temple's pagoda framed against the tower. Shiba Park itself offers walking paths and a quieter, greener contrast to the tower's crowds. For tickets, buying Top Deck admission online in advance is worth it — it comes with a timed entry slot and bypasses a chunk of the line that forms for walk-up Main Deck tickets.
+
+Prices and hours shift periodically, so confirm current rates on the official site before your trip rather than relying on older guidebooks. If budget-conscious, note the Main Deck alone is considerably cheaper and still delivers a strong panoramic view of central Tokyo.

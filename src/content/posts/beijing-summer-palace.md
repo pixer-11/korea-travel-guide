@@ -60,15 +60,21 @@ You feel the scale of the place before you understand any of its history. Past t
 
 ## Why go
 
-This is imperial escapism built at genuinely enormous scale. The Qing court used it as a retreat from the formality of the Forbidden City, and everything here was designed to feel less like a palace and more like a constructed paradise — borrowed scenery from Hangzhou's West Lake, artificial hills made from the dredged lake mud, temples stacked up the slope so that from the water they read as a single dramatic silhouette. UNESCO lists it as a masterpiece of Chinese landscape garden design, and even on a crowded afternoon you can feel why: the sightlines are engineered, every turn in the Long Corridor frames a different view of the lake.
+This is imperial escapism built at genuinely enormous scale. The Qing court used it as a retreat from the formality of the Forbidden City, and everything here was designed to feel less like a palace and more like a constructed paradise — borrowed scenery from Hangzhou's West Lake, artificial hills made from the dredged lake mud, temples stacked up the slope so that from the water they read as a single dramatic silhouette.
+
+UNESCO lists it as a masterpiece of Chinese landscape garden design, and even on a crowded afternoon you can feel why: the sightlines are engineered, every turn in the Long Corridor frames a different view of the lake.
 
 ## Getting there
 
-The easiest approach is by subway to Beigongmen Station on Line 4, which puts you right at the North Palace Gate. Xiyuan Station, also on Line 4, is a short walk from the New Summer Palace Gate if you'd rather start on the western side and work around the lake. Taxis and ride-hailing apps are easy here too, but drop-off traffic around the East Gate gets thick on weekends, so the subway is usually faster. However you arrive, wear shoes you don't mind walking a lot in — the grounds are large enough that a loop from one gate to another can easily run 4-5km.
+The easiest approach is by subway to Beigongmen Station on Line 4, which puts you right at the North Palace Gate. Xiyuan Station, also on Line 4, is a short walk from the New Summer Palace Gate if you'd rather start on the western side and work around the lake. Taxis and ride-hailing apps are easy here too, but drop-off traffic around the East Gate gets thick on weekends, so the subway is usually faster.
+
+However you arrive, wear shoes you don't mind walking a lot in — the grounds are large enough that a loop from one gate to another can easily run 4-5km.
 
 ## What to see
 
-Start with the Long Corridor, the 728-meter covered walkway painted with thousands of individual scenes from Chinese literature, mythology and landscape — it's worth slowing down here rather than power-walking through. From its western end, the path climbs Longevity Hill to the Tower of Buddhist Incense, the palace's tallest structure and the best vantage point over Kunming Lake and, on clear days, the hills beyond the city. Down at lake level, don't skip the Marble Boat, a two-story pavilion carved from stone that famously never sailed anywhere, and the Seventeen-Arch Bridge, which connects the eastern shore to South Lake Island — the arches align with the setting sun on certain autumn afternoons, a detail photographers chase every year. In warmer months you can also cross the lake by boat rather than walking the full shoreline, which saves time and legs.
+Start with the Long Corridor, the 728-meter covered walkway painted with thousands of individual scenes from Chinese literature, mythology and landscape — it's worth slowing down here rather than power-walking through. From its western end, the path climbs Longevity Hill to the Tower of Buddhist Incense, the palace's tallest structure and the best vantage point over Kunming Lake and, on clear days, the hills beyond the city.
+
+Down at lake level, don't skip the Marble Boat, a two-story pavilion carved from stone that famously never sailed anywhere, and the Seventeen-Arch Bridge, which connects the eastern shore to South Lake Island — the arches align with the setting sun on certain autumn afternoons, a detail photographers chase every year. In warmer months you can also cross the lake by boat rather than walking the full shoreline, which saves time and legs.
 
 ## When to go
 
@@ -76,4 +82,6 @@ Spring (April-May) and autumn (September-October) give you mild weather and the 
 
 ## How to visit like a local
 
-This is one of Beijing's most-visited sites, not an undiscovered corner, so plan around the crowds rather than expecting to avoid them entirely. Aim to be at a gate right at opening, or arrive after 3pm when tour groups start thinning out. Buy your ticket in advance through the official Summer Palace WeChat mini-program or a reputable booking app rather than queuing at the gate — combined tickets that include the Tower of Buddhist Incense and other sub-sites cost a bit more but save you from a second line later. Cash is barely used anymore; mobile payment (Alipay/WeChat Pay) or a card is standard, and there's no tipping expected anywhere on the grounds. If you only have half a day, enter at the East Gate, cover the Long Corridor and Longevity Hill, then exit via the North Palace Gate to Beigongmen station rather than doubling back — it's the natural, least crowded flow through the site and it's how most repeat visitors structure their route.
+This is one of Beijing's most-visited sites, not an undiscovered corner, so plan around the crowds rather than expecting to avoid them entirely. Aim to be at a gate right at opening, or arrive after 3pm when tour groups start thinning out. Buy your ticket in advance through the official Summer Palace WeChat mini-program or a reputable booking app rather than queuing at the gate — combined tickets that include the Tower of Buddhist Incense and other sub-sites cost a bit more but save you from a second line later.
+
+Cash is barely used anymore; mobile payment (Alipay/WeChat Pay) or a card is standard, and there's no tipping expected anywhere on the grounds. If you only have half a day, enter at the East Gate, cover the Long Corridor and Longevity Hill, then exit via the North Palace Gate to Beigongmen station rather than doubling back — it's the natural, least crowded flow through the site and it's how most repeat visitors structure their route.

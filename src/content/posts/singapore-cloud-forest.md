@@ -61,15 +61,21 @@ You step through the glass doors and the temperature drops ten degrees in second
 
 ## Getting there
 
-The dome sits at 18 Marina Gardens Dr, inside Gardens by the Bay, on reclaimed land facing Marina Bay Sands. The easiest route is Bayfront MRT station (Circle and Downtown lines), taking Exit B, which feeds directly into an underground link to the Gardens — you barely see daylight before you're at the ticketing hall. From Marina Bay Sands itself, it's a flat, shaded ten-minute walk across the bridge past the Supertree Grove. Taxis and ride-hail drop off at the Gardens by the Bay entrance closest to the conservatories, which saves you the longer walk from the Bayfront underpass if you're carrying bags or travelling with kids.
+The dome sits at 18 Marina Gardens Dr, inside Gardens by the Bay, on reclaimed land facing Marina Bay Sands. The easiest route is Bayfront MRT station (Circle and Downtown lines), taking Exit B, which feeds directly into an underground link to the Gardens — you barely see daylight before you're at the ticketing hall. From Marina Bay Sands itself, it's a flat, shaded ten-minute walk across the bridge past the Supertree Grove.
+
+Taxis and ride-hail drop off at the Gardens by the Bay entrance closest to the conservatories, which saves you the longer walk from the Bayfront underpass if you're carrying bags or travelling with kids.
 
 ## What to see inside
 
-A lift near the entrance carries you straight to the top of the mountain, and from there you walk down via a suspended walkway called the Cloud Walk, followed by the Cloud Walk's lower loop, the Cavern, and the Crystal Mountain. The waterfall is best appreciated from the covered walkway roughly halfway down, where spray drifts across the path and the noise briefly drowns out everything else. Look for the Lost World section near the base, where gnarled trunks and epiphytes recreate a highland rainforest floor, and the crystalline "Secret Garden" display embedded partway up the mountain. The whole loop is one-directional and takes most people 45 minutes to an hour if you stop for photos, longer if you linger at the informational panels on cloud forest ecology.
+A lift near the entrance carries you straight to the top of the mountain, and from there you walk down via a suspended walkway called the Cloud Walk, followed by the Cloud Walk's lower loop, the Cavern, and the Crystal Mountain. The waterfall is best appreciated from the covered walkway roughly halfway down, where spray drifts across the path and the noise briefly drowns out everything else.
+
+Look for the Lost World section near the base, where gnarled trunks and epiphytes recreate a highland rainforest floor, and the crystalline "Secret Garden" display embedded partway up the mountain. The whole loop is one-directional and takes most people 45 minutes to an hour if you stop for photos, longer if you linger at the informational panels on cloud forest ecology.
 
 ## When to go
 
-This is one of the busiest paid attractions in Singapore, so timing matters more here than at almost any other stop on a Singapore itinerary. Arrive at opening, generally 9am, on a weekday morning, and you'll have long stretches of the walkway to yourself before tour buses and school groups fill in by mid-morning. Afternoons, especially weekends and public holidays, mean queued lifts and shoulder-to-shoulder photo spots at the waterfall viewpoint. Rain doesn't affect anything since you're indoors, which makes Cloud Forest a genuinely good rainy-afternoon plan when outdoor Gardens attractions like the Supertree Grove or OCBC Skyway lose their appeal.
+This is one of the busiest paid attractions in Singapore, so timing matters more here than at almost any other stop on a Singapore itinerary. Arrive at opening, generally 9am, on a weekday morning, and you'll have long stretches of the walkway to yourself before tour buses and school groups fill in by mid-morning. Afternoons, especially weekends and public holidays, mean queued lifts and shoulder-to-shoulder photo spots at the waterfall viewpoint.
+
+Rain doesn't affect anything since you're indoors, which makes Cloud Forest a genuinely good rainy-afternoon plan when outdoor Gardens attractions like the Supertree Grove or OCBC Skyway lose their appeal.
 
 ## Flower Dome next door
 
@@ -77,4 +83,8 @@ Combined tickets covering both conservatories are the standard option, and it's 
 
 ## How to visit like a local
 
-Buy tickets online in advance rather than queuing at the counter — the ticketing hall lines back up fast once tour groups arrive, and most locals book ahead through the official Gardens by the Bay site to skip straight to the entry gate. Payment inside is cashless-friendly, with card and mobile payment accepted at the on-site café and gift shop. Don't make the common tourist mistake of doing Cloud Forest at midday: the crowds peak then, and the mountain's narrow walkways don't allow much overtaking, so a slow group ahead of you slows your whole loop. Wear light layers — you'll want short sleeves outside in Singapore's heat but will feel genuinely cold and damp inside the dome, especially near the upper Cloud Walk. Since this is a well-visited, ticketed attraction rather than a quiet local spot, the real "local" move is simply beating the crowd curve: go early, go on a weekday, and save the Supertree Grove and Skyway for late afternoon when the outdoor light is better anyway.
+Buy tickets online in advance rather than queuing at the counter — the ticketing hall lines back up fast once tour groups arrive, and most locals book ahead through the official Gardens by the Bay site to skip straight to the entry gate. Payment inside is cashless-friendly, with card and mobile payment accepted at the on-site café and gift shop.
+
+Don't make the common tourist mistake of doing Cloud Forest at midday: the crowds peak then, and the mountain's narrow walkways don't allow much overtaking, so a slow group ahead of you slows your whole loop. Wear light layers — you'll want short sleeves outside in Singapore's heat but will feel genuinely cold and damp inside the dome, especially near the upper Cloud Walk.
+
+Since this is a well-visited, ticketed attraction rather than a quiet local spot, the real "local" move is simply beating the crowd curve: go early, go on a weekday, and save the Supertree Grove and Skyway for late afternoon when the outdoor light is better anyway.

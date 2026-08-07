@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: granada-alhambra
-srcHash: b80ab95f7833
+srcHash: 'a01230ee5ba0'
 title: 'Alhambra: Guía de viaje de Granada'
 description: Reserva las entradas a la Alhambra online con semanas (en temporada alta, meses) de antelación en el sitio oficial tickets.alhambra-patronato.es, eligiendo una franja horaria concreta para los Palacios Nazaríes.
 quickAnswer: 'Reserva las entradas a la Alhambra online con semanas (en temporada alta, meses) de antelación en el sitio oficial tickets.alhambra-patronato.es, eligiendo una franja horaria concreta para los Palacios Nazaríes: esta es la única parte de la visita con horario fijo y sin excepciones. Calcula un mínimo de 3-4 horas para recorrer los Palacios Nazaríes, la fortaleza de la Alcazaba y los jardines del Generalife, y llega al menos 30 minutos antes de tu franja horaria del palacio, ya que a quienes llegan tarde no se les permite el acceso.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-La Alhambra es el complejo palaciego islámico medieval mejor conservado de Europa, construido principalmente bajo la dinastía nazarí en los siglos XIII y XIV sobre una colina con vistas a Granada. Su reputación (una valoración de 4.8 entre casi 158,000 reseñas no es casualidad) se basa en la intrincada labor de sus yeserías y azulejos, la ingeniería de sus canales de agua, y la manera en que todo el conjunto —palacios, fortaleza y jardines— narra la historia del último reino musulmán de la península ibérica antes de la conquista cristiana de 1492. Los techos de cedro tallado del Salón de los Embajadores y las cúpulas de mocárabes de la Sala de las Dos Hermanas se cuentan entre los mejores ejemplos que se conservan del arte decorativo nazarí en cualquier parte del mundo.
+La Alhambra es el complejo palaciego islámico medieval mejor conservado de Europa, construido principalmente bajo la dinastía nazarí en los siglos XIII y XIV sobre una colina con vistas a Granada. Su reputación (una valoración de 4.8 entre casi 158,000 reseñas no es casualidad) se basa en la intrincada labor de sus yeserías y azulejos, la ingeniería de sus canales de agua, y la manera en que todo el conjunto —palacios, fortaleza y jardines— narra la historia del último reino musulmán de la península ibérica antes de la conquista cristiana de 1492.
+
+Los techos de cedro tallado del Salón de los Embajadores y las cúpulas de mocárabes de la Sala de las Dos Hermanas se cuentan entre los mejores ejemplos que se conservan del arte decorativo nazarí en cualquier parte del mundo.
 
 ## Cómo llegar
 
-El complejo se alza sobre la colina de la Sabika, encima del distrito Centro de Granada, en C. Real de la Alhambra, s/n. Desde la Plaza Nueva, en el centro de la ciudad, es una empinada caminata cuesta arriba de 20-25 minutos por la Cuesta de Gomérez y la Calle Real de la Alhambra; es factible, pero conviene llevar calzado adecuado. Otra opción es el minibús C3 o C4 (los pequeños autobuses municipales rojos de Granada, diseñados para estas calles estrechas), que va desde la Plaza Nueva directamente hasta la zona de la Puerta de la Justicia de la Alhambra por un par de euros. Los taxis desde el centro tardan unos 10 minutos. Si viajas en coche, hay un aparcamiento de pago cerca de la taquilla y la entrada principal, aunque la mayoría de los visitantes prescinde del coche dadas las estrechas calles del casco antiguo de Granada.
+El complejo se alza sobre la colina de la Sabika, encima del distrito Centro de Granada, en C. Real de la Alhambra, s/n. Desde la Plaza Nueva, en el centro de la ciudad, es una empinada caminata cuesta arriba de 20-25 minutos por la Cuesta de Gomérez y la Calle Real de la Alhambra; es factible, pero conviene llevar calzado adecuado.
+
+Otra opción es el minibús C3 o C4 (los pequeños autobuses municipales rojos de Granada, diseñados para estas calles estrechas), que va desde la Plaza Nueva directamente hasta la zona de la Puerta de la Justicia de la Alhambra por un par de euros. Los taxis desde el centro tardan unos 10 minutos. Si viajas en coche, hay un aparcamiento de pago cerca de la taquilla y la entrada principal, aunque la mayoría de los visitantes prescinde del coche dadas las estrechas calles del casco antiguo de Granada.
 
 ## Qué ver
 
@@ -38,8 +42,12 @@ No te apresures por los jardines y patios que conectan estas zonas: los jardines
 
 ## Cuándo ir
 
-Primera hora de la mañana (la apertura suele ser alrededor de las 8:30) o las últimas franjas antes del cierre ofrecen la luz más suave para fotos y notablemente menos aglomeraciones, especialmente en los interiores de los palacios, donde el espacio es reducido. La primavera (abril-mayo) y el otoño (octubre) traen un clima suave y jardines en flor o dorados, sin el calor brutal del verano: Granada suele superar los 35 °C en julio y agosto, y apenas hay sombra en las murallas de la fortaleza. Las visitas nocturnas a los Palacios Nazaríes se ofrecen de forma estacional y ofrecen un ambiente completamente distinto, más tranquilo, bajo iluminación interior; consulta las fechas disponibles al reservar.
+Primera hora de la mañana (la apertura suele ser alrededor de las 8:30) o las últimas franjas antes del cierre ofrecen la luz más suave para fotos y notablemente menos aglomeraciones, especialmente en los interiores de los palacios, donde el espacio es reducido. La primavera (abril-mayo) y el otoño (octubre) traen un clima suave y jardines en flor o dorados, sin el calor brutal del verano: Granada suele superar los 35 °C en julio y agosto, y apenas hay sombra en las murallas de la fortaleza.
+
+Las visitas nocturnas a los Palacios Nazaríes se ofrecen de forma estacional y ofrecen un ambiente completamente distinto, más tranquilo, bajo iluminación interior; consulta las fechas disponibles al reservar.
 
 ## Cerca de allí y consejos
 
-Confirma los horarios y precios actuales de las entradas en el sitio oficial del Patronato de la Alhambra antes de viajar, ya que ambos varían según la temporada y las entradas suelen agotarse con días o semanas de antelación en temporada alta (abril-octubre). No hay reingreso una vez que sales, así que come antes o lleva agua contigo. Después de la visita, pasea hasta el Albaicín, el antiguo barrio morisco que mira hacia la Alhambra al otro lado del valle del Darro: el Mirador de San Nicolás ofrece la clásica postal del complejo palaciego con Sierra Nevada de fondo. Sacromonte, un poco más allá, es el barrio tradicional de cuevas flamencas de Granada, ideal si quieres combinar el día con un espectáculo por la noche.
+Confirma los horarios y precios actuales de las entradas en el sitio oficial del Patronato de la Alhambra antes de viajar, ya que ambos varían según la temporada y las entradas suelen agotarse con días o semanas de antelación en temporada alta (abril-octubre). No hay reingreso una vez que sales, así que come antes o lleva agua contigo. Después de la visita, pasea hasta el Albaicín, el antiguo barrio morisco que mira hacia la Alhambra al otro lado del valle del Darro: el Mirador de San Nicolás ofrece la clásica postal del complejo palaciego con Sierra Nevada de fondo.
+
+Sacromonte, un poco más allá, es el barrio tradicional de cuevas flamencas de Granada, ideal si quieres combinar el día con un espectáculo por la noche.

@@ -48,23 +48,35 @@ draft: false
 
 ## Why go
 
-Long before you reach the entrance, the building itself signals what's inside: a squat, circular drum topped by an arched handle, deliberately shaped to echo an ancient bronze ding vessel. It's a rare piece of 1990s Shanghai architecture that isn't chasing height, and against the surrounding towers of People's Square it reads almost like a monument dropped from another era. Inside, the cool marble lobby and the hush of the galleries are a genuine relief from the traffic and crowds outside — this is one of the best free things to do in Shanghai, and one of the few places in the city where you can spend a whole afternoon without spending a yuan.
+Long before you reach the entrance, the building itself signals what's inside: a squat, circular drum topped by an arched handle, deliberately shaped to echo an ancient bronze ding vessel. It's a rare piece of 1990s Shanghai architecture that isn't chasing height, and against the surrounding towers of People's Square it reads almost like a monument dropped from another era.
+
+Inside, the cool marble lobby and the hush of the galleries are a genuine relief from the traffic and crowds outside — this is one of the best free things to do in Shanghai, and one of the few places in the city where you can spend a whole afternoon without spending a yuan.
 
 ## What you'll actually see
 
-The museum's bronze gallery is the reason many specialists make the trip alone: ritual wine vessels and cooking cauldrons dating back to the Shang and Zhou dynasties, their surfaces thick with taotie masks and coiled dragons, lit so the green-black patina seems to glow from within. Upstairs, the ceramics gallery walks you chronologically from crude Neolithic pottery through the pale celadon glazes of the Song dynasty to the cobalt-blue-and-white porcelain that made Chinese export ware famous across the world. Don't rush past the jade and seal-carving rooms — they're smaller and quieter, and the intricacy of the carving rewards a slow look. The calligraphy and painting galleries, kept deliberately dim to protect the ink and silk, hold scrolls that stretch back over a thousand years; give your eyes a minute to adjust and the brushwork starts to resolve. There's also a strong collection of Ming and Qing furniture — huanghuali wood chairs and cabinets displayed almost like sculpture.
+The museum's bronze gallery is the reason many specialists make the trip alone: ritual wine vessels and cooking cauldrons dating back to the Shang and Zhou dynasties, their surfaces thick with taotie masks and coiled dragons, lit so the green-black patina seems to glow from within. Upstairs, the ceramics gallery walks you chronologically from crude Neolithic pottery through the pale celadon glazes of the Song dynasty to the cobalt-blue-and-white porcelain that made Chinese export ware famous across the world.
+
+Don't rush past the jade and seal-carving rooms — they're smaller and quieter, and the intricacy of the carving rewards a slow look. The calligraphy and painting galleries, kept deliberately dim to protect the ink and silk, hold scrolls that stretch back over a thousand years; give your eyes a minute to adjust and the brushwork starts to resolve. There's also a strong collection of Ming and Qing furniture — huanghuali wood chairs and cabinets displayed almost like sculpture.
 
 ## Getting there
 
-The museum sits at 201 Ren Min Da Dao, right on the southern edge of People's Square, in Huangpu District — the historic heart of Shanghai. The closest stop is People's Square Station, served by Metro Lines 1, 2, and 8; take the exit signed for the Shanghai Museum / Shanghai Art Museum and you'll see the drum-shaped building across the square within a couple of minutes' walk. It's also an easy stroll from Nanjing Road pedestrian street and the Shanghai Grand Theatre, so it pairs naturally with a morning or afternoon in that part of downtown.
+The museum sits at 201 Ren Min Da Dao, right on the southern edge of People's Square, in Huangpu District — the historic heart of Shanghai. The closest stop is People's Square Station, served by Metro Lines 1, 2, and 8; take the exit signed for the Shanghai Museum / Shanghai Art Museum and you'll see the drum-shaped building across the square within a couple of minutes' walk.
+
+It's also an easy stroll from Nanjing Road pedestrian street and the Shanghai Grand Theatre, so it pairs naturally with a morning or afternoon in that part of downtown.
 
 ## When to go
 
-Because entry is free, demand is high, and the museum manages it with timed online booking rather than a simple walk-up queue — check the official museum website or WeChat account a few days ahead, since slots for weekends and public holidays can fill up. Weekday mornings, especially right after opening, are consistently the calmest time to move through the galleries without craning over tour groups. Chinese national holidays (May Day, National Day week in October) and school holiday periods bring the heaviest crowds; if you can, avoid those windows entirely. Budget two to three hours for a proper visit, longer if you want to linger in the painting and calligraphy rooms.
+Because entry is free, demand is high, and the museum manages it with timed online booking rather than a simple walk-up queue — check the official museum website or WeChat account a few days ahead, since slots for weekends and public holidays can fill up. Weekday mornings, especially right after opening, are consistently the calmest time to move through the galleries without craning over tour groups.
+
+Chinese national holidays (May Day, National Day week in October) and school holiday periods bring the heaviest crowds; if you can, avoid those windows entirely. Budget two to three hours for a proper visit, longer if you want to linger in the painting and calligraphy rooms.
 
 ## How to visit like a local
 
-Book your free ticket online in advance rather than showing up and hoping — most Shanghai residents plan around this rather than risk being turned away. Bring your passport (or ID), since it's checked against the reservation at the door. Bags go through airport-style security, so arrive a few minutes early to clear it without stress. Photography without flash is generally fine in most galleries, but flash and tripods are typically restricted to protect the paintings and textiles — follow the gallery staff's cues rather than assuming. Locals tend to treat the museum as a rotating destination: they'll pick two or three galleries — bronzes and ceramics, say — rather than trying to absorb the whole building in one go, then come back another visit for painting or furniture. If you want a break, the ground-floor museum shop and café are useful, unhurried spots to sit rather than crowded rest stops. Note that the museum closes its doors to new entrants shortly before the stated closing time, so don't plan on strolling in during the final half hour.
+Book your free ticket online in advance rather than showing up and hoping — most Shanghai residents plan around this rather than risk being turned away. Bring your passport (or ID), since it's checked against the reservation at the door. Bags go through airport-style security, so arrive a few minutes early to clear it without stress. Photography without flash is generally fine in most galleries, but flash and tripods are typically restricted to protect the paintings and textiles — follow the gallery staff's cues rather than assuming.
+
+Locals tend to treat the museum as a rotating destination: they'll pick two or three galleries — bronzes and ceramics, say — rather than trying to absorb the whole building in one go, then come back another visit for painting or furniture. If you want a break, the ground-floor museum shop and café are useful, unhurried spots to sit rather than crowded rest stops.
+
+Note that the museum closes its doors to new entrants shortly before the stated closing time, so don't plan on strolling in during the final half hour.
 
 ## Nearby to combine with your visit
 

@@ -76,11 +76,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Songdo Central Park is the green heart of one of Asia's most ambitious planned cities. Built on reclaimed land in Incheon's Yeonsu-gu district, the park was explicitly modeled on New York's Central Park — hence the name — but its defining feature is distinctly Korean: a long, curving seawater canal fed directly from the Yellow Sea, running roughly 1.8 km through the middle of the park. Unlike most urban parks, this one is ringed by glass-and-steel skyscrapers, including the twisting G-Tower and the 68-story Northeast Asia Trade Tower (NEATT), giving the whole space a futuristic, almost sci-fi backdrop that's become one of Incheon's most photographed skylines, especially at dusk when the towers light up and reflect on the water.
+Songdo Central Park is the green heart of one of Asia's most ambitious planned cities. Built on reclaimed land in Incheon's Yeonsu-gu district, the park was explicitly modeled on New York's Central Park — hence the name — but its defining feature is distinctly Korean: a long, curving seawater canal fed directly from the Yellow Sea, running roughly 1.8 km through the middle of the park.
+
+Unlike most urban parks, this one is ringed by glass-and-steel skyscrapers, including the twisting G-Tower and the 68-story Northeast Asia Trade Tower (NEATT), giving the whole space a futuristic, almost sci-fi backdrop that's become one of Incheon's most photographed skylines, especially at dusk when the towers light up and reflect on the water.
 
 ## Getting there
 
-The park sits at 160 Convensia-daero, Yeonsu-gu, Incheon, and is easiest to reach via Incheon Subway Line 1. Get off at **Central Park Station**, and take **Exit 4**, which leads directly into the park grounds — no long walk required. From Incheon National Airport, it's roughly a 30–40 minute taxi ride, or you can take an airport limousine bus toward Songdo and transfer to the subway. If you're coming from Seoul, the trip typically takes 90 minutes to two hours depending on your starting subway line, since Line 1 connects to several transfer points including Bupyeong and Dongincheon.
+The park sits at 160 Convensia-daero, Yeonsu-gu, Incheon, and is easiest to reach via Incheon Subway Line 1. Get off at **Central Park Station**, and take **Exit 4**, which leads directly into the park grounds — no long walk required. From Incheon National Airport, it's roughly a 30–40 minute taxi ride, or you can take an airport limousine bus toward Songdo and transfer to the subway.
+
+If you're coming from Seoul, the trip typically takes 90 minutes to two hours depending on your starting subway line, since Line 1 connects to several transfer points including Bupyeong and Dongincheon.
 
 ## What to see and do
 

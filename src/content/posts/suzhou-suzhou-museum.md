@@ -48,19 +48,27 @@ draft: false
 
 ## Why go
 
-You come around the corner from the Humble Administrator's Garden expecting more whitewashed walls and grey roof tiles, and that's exactly what you get — except reimagined in glass, steel, and honed granite. I.M. Pei, who was born in Suzhou and returned late in his career to design this building, took the city's classic black-and-white Ming and Qing dynasty architecture and distilled it into sharp geometric lines and diamond-shaped skylights. The museum sits directly beside the Zhuozheng Yuan (Humble Administrator's Garden) and backs onto the old Prince Zhong's Mansion, so the setting does half the work before you've even seen an artifact.
+You come around the corner from the Humble Administrator's Garden expecting more whitewashed walls and grey roof tiles, and that's exactly what you get — except reimagined in glass, steel, and honed granite. I.M. Pei, who was born in Suzhou and returned late in his career to design this building, took the city's classic black-and-white Ming and Qing dynasty architecture and distilled it into sharp geometric lines and diamond-shaped skylights.
+
+The museum sits directly beside the Zhuozheng Yuan (Humble Administrator's Garden) and backs onto the old Prince Zhong's Mansion, so the setting does half the work before you've even seen an artifact.
 
 ## What you'll actually see
 
-Inside, the collection is smaller and more focused than you might expect from a city this old — this isn't the Shanghai Museum's sprawl. Instead it leans into what Suzhou itself is famous for: delicate calligraphy and scroll painting from the Ming and Qing periods, jade and ivory carving, lacquerware, and a room of relics excavated locally, including Buddhist artifacts from the Yunyan Pagoda. A quiet highlight is the ceramics gallery, where celadon and blue-and-white pieces are lit so the glaze seems to hold its own light. Give the calligraphy hall extra time even if you can't read the characters — the brushwork itself is the point.
+Inside, the collection is smaller and more focused than you might expect from a city this old — this isn't the Shanghai Museum's sprawl. Instead it leans into what Suzhou itself is famous for: delicate calligraphy and scroll painting from the Ming and Qing periods, jade and ivory carving, lacquerware, and a room of relics excavated locally, including Buddhist artifacts from the Yunyan Pagoda.
+
+A quiet highlight is the ceramics gallery, where celadon and blue-and-white pieces are lit so the glaze seems to hold its own light. Give the calligraphy hall extra time even if you can't read the characters — the brushwork itself is the point.
 
 ## The building is the exhibit
 
-Don't rush past the architecture to get to the display cases, because here they're inseparable. Pei's central courtyard borrows the vocabulary of a scholar's garden — a rock formation sliced and arranged against a whitewashed wall like a Song dynasty ink painting, a still pond, a covered walkway with geometric latticework windows framing each view. Light falls through pyramidal skylights and diamond-cut openings in bands that shift through the day, so the corridors feel different at 9:30am than they do at noon. Bring a few extra minutes just to sit by the courtyard water rather than moving straight through to the next gallery.
+Don't rush past the architecture to get to the display cases, because here they're inseparable. Pei's central courtyard borrows the vocabulary of a scholar's garden — a rock formation sliced and arranged against a whitewashed wall like a Song dynasty ink painting, a still pond, a covered walkway with geometric latticework windows framing each view. Light falls through pyramidal skylights and diamond-cut openings in bands that shift through the day, so the corridors feel different at 9:30am than they do at noon.
+
+Bring a few extra minutes just to sit by the courtyard water rather than moving straight through to the next gallery.
 
 ## Getting there
 
-The museum sits at 204 Dongbei Jie in the Gusu District, in the historic core north of the Guanqian Street shopping area. It's a short walk from Suzhou's canal-lined old town, and most visitors combine it with the Humble Administrator's Garden and the Suzhou Museum's neighbor, the Prince Zhong's Mansion, all within a few minutes of each other on foot. By metro, take Line 4 to Lindun Road Station and walk roughly 15–20 minutes north, or combine with a taxi/rideshare if you're coming straight from a hotel outside the old city — traffic on the narrow lanes near Pingjiang Road can slow things down.
+The museum sits at 204 Dongbei Jie in the Gusu District, in the historic core north of the Guanqian Street shopping area. It's a short walk from Suzhou's canal-lined old town, and most visitors combine it with the Humble Administrator's Garden and the Suzhou Museum's neighbor, the Prince Zhong's Mansion, all within a few minutes of each other on foot.
+
+By metro, take Line 4 to Lindun Road Station and walk roughly 15–20 minutes north, or combine with a taxi/rideshare if you're coming straight from a hotel outside the old city — traffic on the narrow lanes near Pingjiang Road can slow things down.
 
 ## When to go
 
@@ -68,4 +76,6 @@ Plan on 90 minutes for a focused visit, two hours if you want to sit with the co
 
 ## How to visit like a local
 
-Book your free timed-entry ticket online in advance (via the museum's official WeChat account or website) rather than showing up and hoping — this is standard practice for locals and saves you a queue at the gate, since same-day walk-in slots can run out by mid-morning. Bring your passport; it's checked against your reservation at the entrance. Arrive as close to opening as you can manage, since the crowd builds steadily through late morning and stays heavy until mid-afternoon. Once inside, most people move counter-clockwise from the main hall through the history gallery first, then loop back through the arts and crafts wing — going against that flow briefly can buy you a few quiet minutes alone in the more popular rooms. There's no food allowed inside, and photography is fine in most galleries without flash. Afterward, follow the crowd's usual pattern and walk straight into the Humble Administrator's Garden next door, or slip north to the quieter lanes around Pingjiang Road for tea rather than fighting the queues on Guanqian Street.
+Book your free timed-entry ticket online in advance (via the museum's official WeChat account or website) rather than showing up and hoping — this is standard practice for locals and saves you a queue at the gate, since same-day walk-in slots can run out by mid-morning. Bring your passport; it's checked against your reservation at the entrance. Arrive as close to opening as you can manage, since the crowd builds steadily through late morning and stays heavy until mid-afternoon.
+
+Once inside, most people move counter-clockwise from the main hall through the history gallery first, then loop back through the arts and crafts wing — going against that flow briefly can buy you a few quiet minutes alone in the more popular rooms. There's no food allowed inside, and photography is fine in most galleries without flash. Afterward, follow the crowd's usual pattern and walk straight into the Humble Administrator's Garden next door, or slip north to the quieter lanes around Pingjiang Road for tea rather than fighting the queues on Guanqian Street.

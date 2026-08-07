@@ -67,15 +67,21 @@ aiGenerated: true
 
 ## Why Black Owl stands out
 
-Surabaya has no shortage of café-restaurant hybrids, but Black Owl has built one of the strongest reputations in the city, holding a 4.9 rating across close to 1,800 reviews — an unusually high volume and score for a single-location restaurant. That kind of consistency over thousands of visits suggests a kitchen and service team that has ironed out the wrinkles most new cafés struggle with. It sits in Tegalsari, one of Surabaya's more central and commercially active districts, making it an easy add-on whether you're staying near the old city, Gubeng, or the shopping strip along Jl. Basuki Rahmat.
+Surabaya has no shortage of café-restaurant hybrids, but Black Owl has built one of the strongest reputations in the city, holding a 4.9 rating across close to 1,800 reviews — an unusually high volume and score for a single-location restaurant. That kind of consistency over thousands of visits suggests a kitchen and service team that has ironed out the wrinkles most new cafés struggle with.
+
+It sits in Tegalsari, one of Surabaya's more central and commercially active districts, making it an easy add-on whether you're staying near the old city, Gubeng, or the shopping strip along Jl. Basuki Rahmat.
 
 ## Getting there
 
-The address is Jl. Basuki Rahmat No.80, RW.82, Tegal Sari, Kecamatan Tegalsari, Surabaya, Jawa Timur 60262. Basuki Rahmat is one of Surabaya's main north-south arterial roads, running through the city center past landmarks like Tunjungan Plaza and the Grahadi Building, so most taxi and ride-hail (Gojek/Grab) drivers know it instantly. If you're coming by train, Surabaya Gubeng Station is the closer of the city's two main stations, roughly a 10–15 minute drive depending on traffic; Pasar Turi Station is a bit farther. There's no dedicated MRT/LRT system in Surabaya, so ride-hailing apps or metered taxis (Blue Bird is the trusted operator) are the practical way in. If you're walking from a hotel along Tunjungan or Basuki Rahmat, the street is walkable but hot and traffic-heavy midday, so an early evening stroll works better than a noon walk.
+The address is Jl. Basuki Rahmat No.80, RW.82, Tegal Sari, Kecamatan Tegalsari, Surabaya, Jawa Timur 60262. Basuki Rahmat is one of Surabaya's main north-south arterial roads, running through the city center past landmarks like Tunjungan Plaza and the Grahadi Building, so most taxi and ride-hail (Gojek/Grab) drivers know it instantly. If you're coming by train, Surabaya Gubeng Station is the closer of the city's two main stations, roughly a 10–15 minute drive depending on traffic; Pasar Turi Station is a bit farther.
+
+There's no dedicated MRT/LRT system in Surabaya, so ride-hailing apps or metered taxis (Blue Bird is the trusted operator) are the practical way in. If you're walking from a hotel along Tunjungan or Basuki Rahmat, the street is walkable but hot and traffic-heavy midday, so an early evening stroll works better than a noon walk.
 
 ## What to expect on the menu
 
-Black Owl leans into the modern all-day café format popular across Indonesian cities: think hearty Western-leaning mains (pasta, steak, rice bowls), all-day breakfast items, specialty coffee, and dessert-forward items like cakes or shareable sweets. This format is designed for lingering — brunch, a working coffee session, or a full dinner — rather than a quick in-and-out meal, which explains why review volume has climbed so high; the venue accommodates repeat visits for different occasions rather than a single tourist stop. Because exact dishes and prices shift with seasonal menus, treat any specific item names you hear about as a starting point and check the current menu on arrival or via the restaurant's own social channels before you go.
+Black Owl leans into the modern all-day café format popular across Indonesian cities: think hearty Western-leaning mains (pasta, steak, rice bowls), all-day breakfast items, specialty coffee, and dessert-forward items like cakes or shareable sweets. This format is designed for lingering — brunch, a working coffee session, or a full dinner — rather than a quick in-and-out meal, which explains why review volume has climbed so high; the venue accommodates repeat visits for different occasions rather than a single tourist stop.
+
+Because exact dishes and prices shift with seasonal menus, treat any specific item names you hear about as a starting point and check the current menu on arrival or via the restaurant's own social channels before you go.
 
 ## When to go
 
@@ -83,7 +89,9 @@ Weekday late mornings through mid-afternoon (roughly 11am–3pm) tend to be calm
 
 ## How to visit like a local
 
-Black Owl is well-known enough in Surabaya's dining scene that arriving without a plan on a weekend evening means a wait — this is not an under-the-radar spot, so beating the crowd matters more than finding it. Locals dealing with Surabaya's popular café-restaurants typically call ahead or check for a reservation option through the restaurant's Instagram or WhatsApp rather than just walking in blind at peak hours; do the same if you're set on going Friday–Sunday night. Payment across Indonesian restaurants at this tier is almost always by card or QRIS (Indonesia's universal QR payment code) alongside cash, so don't assume you need exact rupiah on hand. Tipping isn't a strong local custom in Indonesia — a service charge is often already built into the bill, so check before adding extra. The most common visitor mistake is treating this as a five-minute stop between sights; the format rewards sitting down properly, ordering coffee or dessert alongside a main, and letting the meal run the full hour-plus rather than rushing to the next Surabaya landmark.
+Black Owl is well-known enough in Surabaya's dining scene that arriving without a plan on a weekend evening means a wait — this is not an under-the-radar spot, so beating the crowd matters more than finding it. Locals dealing with Surabaya's popular café-restaurants typically call ahead or check for a reservation option through the restaurant's Instagram or WhatsApp rather than just walking in blind at peak hours; do the same if you're set on going Friday–Sunday night.
+
+Payment across Indonesian restaurants at this tier is almost always by card or QRIS (Indonesia's universal QR payment code) alongside cash, so don't assume you need exact rupiah on hand. Tipping isn't a strong local custom in Indonesia — a service charge is often already built into the bill, so check before adding extra. The most common visitor mistake is treating this as a five-minute stop between sights; the format rewards sitting down properly, ordering coffee or dessert alongside a main, and letting the meal run the full hour-plus rather than rushing to the next Surabaya landmark.
 
 ## Nearby to pair with your visit
 

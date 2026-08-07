@@ -67,7 +67,9 @@ Jeonju Hanok Village is packed with cafés chasing the "trendy hanok" aesthetic,
 
 ## Getting there
 
-The address is 100 Jeondongseongdang-gil, Wansan-gu, Jeonju — placing it in the Jeondong pocket of the Hanok Village, right around the corner from Jeondong Catholic Church, one of the most recognizable Western-style buildings in the district and a useful landmark if GPS gets confused among the narrow hanok alleys. If arriving by train, Jeonju Station is roughly a 15–20 minute taxi or bus ride away; by intercity bus, Jeonju Bus Terminal is a similar distance. Once in the Hanok Village itself, everything is walkable — this is a pedestrian-heavy district with limited car access, so plan to arrive on foot from wherever you're staying or park at one of the public lots near the village entrance and walk in. From the village's main gate area near Gyeonggijeon Shrine, it's roughly a 5–10 minute walk northeast toward the church.
+The address is 100 Jeondongseongdang-gil, Wansan-gu, Jeonju — placing it in the Jeondong pocket of the Hanok Village, right around the corner from Jeondong Catholic Church, one of the most recognizable Western-style buildings in the district and a useful landmark if GPS gets confused among the narrow hanok alleys. If arriving by train, Jeonju Station is roughly a 15–20 minute taxi or bus ride away; by intercity bus, Jeonju Bus Terminal is a similar distance.
+
+Once in the Hanok Village itself, everything is walkable — this is a pedestrian-heavy district with limited car access, so plan to arrive on foot from wherever you're staying or park at one of the public lots near the village entrance and walk in. From the village's main gate area near Gyeonggijeon Shrine, it's roughly a 5–10 minute walk northeast toward the church.
 
 ## What to see and eat
 

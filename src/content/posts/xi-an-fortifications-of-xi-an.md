@@ -46,15 +46,21 @@ You come up the ramp expecting a ruin and instead find a fully intact rampart wi
 
 ## Why it's worth your time
 
-Most Chinese cities tore their walls down in the 20th century to build ring roads. Xi'an didn't, and what survives is the largest and best-preserved city wall in the country — a rectangle roughly 13.7 kilometers around, built on Tang-dynasty foundations and rebuilt to its current form under the early Ming emperors in the 1370s. Outside the wall runs a wide moat; inside it, watchtowers, ramp gates, and a surprisingly green parkland strip where locals do tai chi at dawn. It's a working monument, not a museum piece, and that's what makes an hour or two up top feel different from most "ancient wall" stops elsewhere in Asia.
+Most Chinese cities tore their walls down in the 20th century to build ring roads. Xi'an didn't, and what survives is the largest and best-preserved city wall in the country — a rectangle roughly 13.7 kilometers around, built on Tang-dynasty foundations and rebuilt to its current form under the early Ming emperors in the 1370s. Outside the wall runs a wide moat; inside it, watchtowers, ramp gates, and a surprisingly green parkland strip where locals do tai chi at dawn.
+
+It's a working monument, not a museum piece, and that's what makes an hour or two up top feel different from most "ancient wall" stops elsewhere in Asia.
 
 ## Getting there and getting up
 
-The wall rings the entire city center, so you don't so much "arrive" as pick an entrance. The four main gates align with the compass — Yongningmen (South Gate), Anyuanmen (North), Changlemen (East), and Anding men (West) — and South Gate is the most atmospheric, with a restored barbican, drawbridge, and moat crossing that gives you a sense of what an approaching army would have faced. Xi'an's metro Line 2 stops at Yongningmen (South Gate) station, putting you a short walk from the ramp. Line 2 and Line 1 also brush the Bell Tower area a few minutes' walk from the wall's inner ring. Access points with ticket booths and stairs or ramps up onto the wall are spaced around the loop, so you can choose an entrance close to wherever else you're staying in the old town.
+The wall rings the entire city center, so you don't so much "arrive" as pick an entrance. The four main gates align with the compass — Yongningmen (South Gate), Anyuanmen (North), Changlemen (East), and Anding men (West) — and South Gate is the most atmospheric, with a restored barbican, drawbridge, and moat crossing that gives you a sense of what an approaching army would have faced.
+
+Xi'an's metro Line 2 stops at Yongningmen (South Gate) station, putting you a short walk from the ramp. Line 2 and Line 1 also brush the Bell Tower area a few minutes' walk from the wall's inner ring. Access points with ticket booths and stairs or ramps up onto the wall are spaced around the loop, so you can choose an entrance close to wherever else you're staying in the old town.
 
 ## What to actually do up there
 
-Once you're on top, the wall itself is the attraction: wide enough (12-14 meters) that it was historically used as a parade and defense platform, now used for a dedicated cycling path and pedestrian walkway. Renting a bike at the gate and riding a stretch — or the full loop if you have the stamina — is the classic way to experience it; electric golf carts are also available for those who don't want to walk or pedal far. Watchtowers and corner turrets punctuate the route at intervals, and gaps between the crenellations were originally arrow slits for archers. Look down on the inner side and you'll see the moat gardens and the low rooftops of the old city; look toward the center and the Bell Tower and Drum Tower rise above the rooftops, illuminated gold after dark.
+Once you're on top, the wall itself is the attraction: wide enough (12-14 meters) that it was historically used as a parade and defense platform, now used for a dedicated cycling path and pedestrian walkway. Renting a bike at the gate and riding a stretch — or the full loop if you have the stamina — is the classic way to experience it; electric golf carts are also available for those who don't want to walk or pedal far.
+
+Watchtowers and corner turrets punctuate the route at intervals, and gaps between the crenellations were originally arrow slits for archers. Look down on the inner side and you'll see the moat gardens and the low rooftops of the old city; look toward the center and the Bell Tower and Drum Tower rise above the rooftops, illuminated gold after dark.
 
 ## When to go
 
@@ -62,4 +68,8 @@ Early morning brings soft light and locals exercising along the ramparts; late a
 
 ## How to visit like a local
 
-This is a well-preserved landmark rather than a secret, but it's genuinely under the visited-by-tourists radar compared to the Terracotta Army or Muslim Quarter, so you can still get a stretch of wall almost to yourself, especially away from South Gate. Buy your entry ticket at whichever gate you pick — South Gate and East Gate tend to have the steadiest ticket-counter lines — and confirm current opening hours and ticket prices before you go, since they can shift seasonally. Locals doing their morning walk or tai chi routine tend to use the wall as a park, not a photo op, so keep to the outer edge if you're not moving fast on a bike. If you rent a bicycle, note the return points are fixed at specific gates, not wherever you stop, so plan your loop distance around getting back to a rental station rather than pushing on impulsively. Bring a portable charger and water; there's little shade and few shops once you're up on the ramparts, and the flat brick surface makes the distances deceptively longer on foot than they look from ground level.
+This is a well-preserved landmark rather than a secret, but it's genuinely under the visited-by-tourists radar compared to the Terracotta Army or Muslim Quarter, so you can still get a stretch of wall almost to yourself, especially away from South Gate. Buy your entry ticket at whichever gate you pick — South Gate and East Gate tend to have the steadiest ticket-counter lines — and confirm current opening hours and ticket prices before you go, since they can shift seasonally.
+
+Locals doing their morning walk or tai chi routine tend to use the wall as a park, not a photo op, so keep to the outer edge if you're not moving fast on a bike. If you rent a bicycle, note the return points are fixed at specific gates, not wherever you stop, so plan your loop distance around getting back to a rental station rather than pushing on impulsively.
+
+Bring a portable charger and water; there's little shade and few shops once you're up on the ramparts, and the flat brick surface makes the distances deceptively longer on foot than they look from ground level.

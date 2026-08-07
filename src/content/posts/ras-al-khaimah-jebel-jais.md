@@ -46,11 +46,15 @@ draft: false
 
 ## Why go
 
-Jebel Jais is the highest point in the UAE, part of the Hajar Mountains range that separates Ras Al Khaimah's coastline from the interior desert. The draw isn't a single monument but the mountain itself: a switchback road climbing to around 1,680 metres of paved elevation, dramatic limestone cliffs, and a noticeably cooler climate than the coast — often 10–15°C lower than sea level in RAK. With a 4.6 rating across more than 21,000 reviews, it's firmly established as one of the emirate's headline attractions, not a hidden find, so expect company, especially on weekends.
+Jebel Jais is the highest point in the UAE, part of the Hajar Mountains range that separates Ras Al Khaimah's coastline from the interior desert. The draw isn't a single monument but the mountain itself: a switchback road climbing to around 1,680 metres of paved elevation, dramatic limestone cliffs, and a noticeably cooler climate than the coast — often 10–15°C lower than sea level in RAK.
+
+With a 4.6 rating across more than 21,000 reviews, it's firmly established as one of the emirate's headline attractions, not a hidden find, so expect company, especially on weekends.
 
 ## Getting there
 
-The mountain sits in Wadi Shehah, Ras Al Khaimah. Most visitors arrive by car: it's roughly 1.5 hours from Dubai via the E611 and E18, and about 45 minutes from Ras Al Khaimah city center. There is no public bus or metro service up the mountain, so a rental car, taxi, or organized tour transfer is effectively required. The Jais Mountain Road itself is a well-maintained, signposted route with regular pull-offs; it's popular with cyclists and sports cars alike, so watch for both on the tighter bends. If you don't want to drive the switchbacks yourself, several Dubai and RAK-based tour operators run day trips that bundle transport with a zip line or toboggan slot.
+The mountain sits in Wadi Shehah, Ras Al Khaimah. Most visitors arrive by car: it's roughly 1.5 hours from Dubai via the E611 and E18, and about 45 minutes from Ras Al Khaimah city center. There is no public bus or metro service up the mountain, so a rental car, taxi, or organized tour transfer is effectively required. The Jais Mountain Road itself is a well-maintained, signposted route with regular pull-offs; it's popular with cyclists and sports cars alike, so watch for both on the tighter bends.
+
+If you don't want to drive the switchbacks yourself, several Dubai and RAK-based tour operators run day trips that bundle transport with a zip line or toboggan slot.
 
 ## What to see and do
 
@@ -68,7 +72,9 @@ The cooler months, roughly October through April, are by far the most comfortabl
 
 ## How to visit like a local
 
-Given its popularity, the main local-savvy move is timing, not secrecy — this is a well-known, well-visited attraction, and there's no under-the-radar way to have it to yourself. Arrive early, ideally at or before opening on a weekday, to beat both the midday heat and the tour-bus rush that peaks late morning through afternoon. If you're booking the zip line or sledder, reserve online in advance rather than turning up hoping for a same-day slot, especially around UAE public holidays and winter weekends when capacity sells out. Payment at the attractions is by card as much as cash, but keep some cash for small roadside stalls or parking. Dress in layers: it can be markedly cooler and windier at elevation than at your hotel on the coast, even in the shoulder seasons. The most common visitor mistake is treating the drive itself as an afterthought — the road has sharp hairpins and long drop-offs, so budget extra time, keep speeds down on blind corners, and pull off fully at designated viewpoints rather than stopping on the shoulder for photos.
+Given its popularity, the main local-savvy move is timing, not secrecy — this is a well-known, well-visited attraction, and there's no under-the-radar way to have it to yourself. Arrive early, ideally at or before opening on a weekday, to beat both the midday heat and the tour-bus rush that peaks late morning through afternoon. If you're booking the zip line or sledder, reserve online in advance rather than turning up hoping for a same-day slot, especially around UAE public holidays and winter weekends when capacity sells out.
+
+Payment at the attractions is by card as much as cash, but keep some cash for small roadside stalls or parking. Dress in layers: it can be markedly cooler and windier at elevation than at your hotel on the coast, even in the shoulder seasons. The most common visitor mistake is treating the drive itself as an afterthought — the road has sharp hairpins and long drop-offs, so budget extra time, keep speeds down on blind corners, and pull off fully at designated viewpoints rather than stopping on the shoulder for photos.
 
 ## Nearby to combine with your trip
 

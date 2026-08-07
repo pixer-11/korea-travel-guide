@@ -31,23 +31,33 @@ draft: false
 
 ## Why Atomix matters right now
 
-There's a reason Atomix keeps showing up on best-of-North-America lists rather than best-of-Koreatown ones — landing at No.7 on the 2026 North America's 50 Best Restaurants ranking puts it in company with the continent's most ambitious tables, and it's the only Korean restaurant operating at that level in New York. Husband-and-wife team Junghyun "JP" Park (the chef) and Ellia Park (who runs the front of house and overall concept) built something that reads less like a restaurant and more like a private commission: a 12-course tasting menu where each dish arrives in ceramics made specifically for that course, not pulled from a generic set. You notice this before you notice the food — the plate itself is doing work, shaped and glazed to frame what's about to sit on it.
+There's a reason Atomix keeps showing up on best-of-North-America lists rather than best-of-Koreatown ones — landing at No.7 on the 2026 North America's 50 Best Restaurants ranking puts it in company with the continent's most ambitious tables, and it's the only Korean restaurant operating at that level in New York. Husband-and-wife team Junghyun "JP" Park (the chef) and Ellia Park (who runs the front of house and overall concept) built something that reads less like a restaurant and more like a private commission: a 12-course tasting menu where each dish arrives in ceramics made specifically for that course, not pulled from a generic set.
+
+You notice this before you notice the food — the plate itself is doing work, shaped and glazed to frame what's about to sit on it.
 
 ## What the experience actually feels like
 
-Korean fine dining in the U.S. has often meant Korean flavors filtered through a French tasting-menu format. Atomix inverts that: the structure, pacing, and reference points are distinctly Korean, built around courses that echo hansik (traditional Korean full-course dining) rather than imitating a European chef's table. Expect the kind of unhurried rhythm where a server explains what you're eating and why the vessel underneath it was chosen — a low, glazed bowl for something meant to be warmed by your hands, a flat stone-like plate for something meant to be seen before it's touched. The room itself is small and quiet by design, intimate rather than showy, which is part of why seats are hard to come by.
+Korean fine dining in the U.S. has often meant Korean flavors filtered through a French tasting-menu format. Atomix inverts that: the structure, pacing, and reference points are distinctly Korean, built around courses that echo hansik (traditional Korean full-course dining) rather than imitating a European chef's table. Expect the kind of unhurried rhythm where a server explains what you're eating and why the vessel underneath it was chosen — a low, glazed bowl for something meant to be warmed by your hands, a flat stone-like plate for something meant to be seen before it's touched.
+
+The room itself is small and quiet by design, intimate rather than showy, which is part of why seats are hard to come by.
 
 ## Getting there
 
-Atomix sits in the NoMad/Koreatown-adjacent pocket of Manhattan, in the same general orbit as Madison Square Park — an area dense with subway access. Multiple lines converge nearby (the N/Q/R/W and 6 trains all serve the 28th Street and 23rd Street stations within a short walk), making it an easy add-on if you're already spending an afternoon around the Flatiron District or Koreatown on West 32nd Street. Because addresses and entrances for reservation-only fine dining rooms can shift, confirm the exact street address and closest subway exit when you book rather than relying on an old listing.
+Atomix sits in the NoMad/Koreatown-adjacent pocket of Manhattan, in the same general orbit as Madison Square Park — an area dense with subway access. Multiple lines converge nearby (the N/Q/R/W and 6 trains all serve the 28th Street and 23rd Street stations within a short walk), making it an easy add-on if you're already spending an afternoon around the Flatiron District or Koreatown on West 32nd Street.
+
+Because addresses and entrances for reservation-only fine dining rooms can shift, confirm the exact street address and closest subway exit when you book rather than relying on an old listing.
 
 ## Booking, and why timing is everything here
 
-This is not a restaurant you show up to. Tasting menus at this level run long — plan for a multi-hour seating — and tables are released on a reservation platform that fills quickly given the restaurant's ranking and reputation. If you have a specific date in mind (a birthday, an anniversary, a trip anchored around this one meal), set a reminder for whenever reservations open and book the moment they do. Because opening hours, seating windows, and the exact reservation system can change, treat anything you read here as a starting point and verify current hours and booking details directly on Atomix's own site before you build a trip around it.
+This is not a restaurant you show up to. Tasting menus at this level run long — plan for a multi-hour seating — and tables are released on a reservation platform that fills quickly given the restaurant's ranking and reputation. If you have a specific date in mind (a birthday, an anniversary, a trip anchored around this one meal), set a reminder for whenever reservations open and book the moment they do.
+
+Because opening hours, seating windows, and the exact reservation system can change, treat anything you read here as a starting point and verify current hours and booking details directly on Atomix's own site before you build a trip around it.
 
 ## How to visit like a local
 
-New Yorkers who chase reservation-only tasting menus at this tier treat it like buying concert tickets: they know the release date, they're logged in early, and they book the earliest available slot rather than holding out for a preferred one. Dress for the occasion but not stiffly — this isn't a black-tie room, more quietly polished. Payment is by card, as is standard at nearly every fine-dining restaurant in Manhattan; service is generally included or clearly explained at the end, so ask if you're unsure rather than assuming. The etiquette mistake first-timers make is treating it like a normal dinner reservation they can shift last-minute — cancellation policies at this level are typically strict, so only book a date you're confident you can keep. Come hungry but paced: with twelve courses over several hours, skip the heavy lunch beforehand. And if you can't get a reservation on your travel dates, it's worth checking back periodically, since cancellations do open up unexpectedly.
+New Yorkers who chase reservation-only tasting menus at this tier treat it like buying concert tickets: they know the release date, they're logged in early, and they book the earliest available slot rather than holding out for a preferred one. Dress for the occasion but not stiffly — this isn't a black-tie room, more quietly polished. Payment is by card, as is standard at nearly every fine-dining restaurant in Manhattan; service is generally included or clearly explained at the end, so ask if you're unsure rather than assuming.
+
+The etiquette mistake first-timers make is treating it like a normal dinner reservation they can shift last-minute — cancellation policies at this level are typically strict, so only book a date you're confident you can keep. Come hungry but paced: with twelve courses over several hours, skip the heavy lunch beforehand. And if you can't get a reservation on your travel dates, it's worth checking back periodically, since cancellations do open up unexpectedly.
 
 ## Nearby, if you want to make a day of it
 

@@ -59,7 +59,9 @@ You feel the scale before you understand it. Walking down Avenida de la Constitu
 
 ## Why go
 
-Inside, the nave rises into shadow, ribbed vaulting disappearing above rows of chapels thick with gilded altarpieces. The Capilla Mayor holds a retable considered one of the largest and most elaborate in the world, a wall of carved and gilded wood scenes taking up the entire east end. Near the south transept, four larger-than-life bronze royal pallbearers hoist an ornate casket at shoulder height — the tomb of Christopher Columbus, whose remains (with some historical debate) are believed to rest here. The mix of Gothic bones, Mudejar craftsmanship, and later Renaissance and Baroque additions is what makes this building unlike any other cathedral in Spain.
+Inside, the nave rises into shadow, ribbed vaulting disappearing above rows of chapels thick with gilded altarpieces. The Capilla Mayor holds a retable considered one of the largest and most elaborate in the world, a wall of carved and gilded wood scenes taking up the entire east end. Near the south transept, four larger-than-life bronze royal pallbearers hoist an ornate casket at shoulder height — the tomb of Christopher Columbus, whose remains (with some historical debate) are believed to rest here.
+
+The mix of Gothic bones, Mudejar craftsmanship, and later Renaissance and Baroque additions is what makes this building unlike any other cathedral in Spain.
 
 ## The Giralda climb
 
@@ -67,7 +69,9 @@ Instead of stairs, the tower has a ramp — 35 sloped switchbacks originally bui
 
 ## Getting there
 
-The cathedral sits in the Casco Antiguo, right next to the Real Alcázar and a short walk from Plaza de España and the Archivo de Indias, so most visitors fold all three into one day in this part of the city. There's no metro stop directly beneath it, but Puerta de Jerez and Prado de San Sebastián are the nearest tram stops on the T1 line, both a five-to-ten-minute walk away. If you're coming by regional or high-speed train, Santa Justa station is about a 25-minute walk or a short taxi ride.
+The cathedral sits in the Casco Antiguo, right next to the Real Alcázar and a short walk from Plaza de España and the Archivo de Indias, so most visitors fold all three into one day in this part of the city. There's no metro stop directly beneath it, but Puerta de Jerez and Prado de San Sebastián are the nearest tram stops on the T1 line, both a five-to-ten-minute walk away.
+
+If you're coming by regional or high-speed train, Santa Justa station is about a 25-minute walk or a short taxi ride.
 
 ## When to go
 
@@ -75,5 +79,7 @@ Early morning, right at opening, is consistently the calmest time to be inside �
 
 ## How to visit like a local
 
-Buy your timed-entry ticket online in advance rather than joining the walk-up line at the door — this is one of the most-reviewed attractions in Spain, and the ticket window queue can eat 30–45 minutes you don't need to lose. Entry is via the Patio de los Naranjos on the north side, not through the main Puerta de la Asunción facade facing the plaza. Dress with shoulders and knees covered, as it remains an active church, and speak quietly — Mass and prayer still happen here on a regular schedule, and some chapels close to sightseeing during services. Payment for tickets is by card as much as cash these days, and there's no tipping expected inside. The most common visitor mistake is treating the Giralda and the cathedral as a quick 20-minute stop: the ramp climb alone takes real time, and rushing means missing the choir stalls, the sacristy's Murillo and Zurbarán paintings, and the treasury — save at least ninety unhurried minutes for the whole complex.
+Buy your timed-entry ticket online in advance rather than joining the walk-up line at the door — this is one of the most-reviewed attractions in Spain, and the ticket window queue can eat 30–45 minutes you don't need to lose. Entry is via the Patio de los Naranjos on the north side, not through the main Puerta de la Asunción facade facing the plaza.
+
+Dress with shoulders and knees covered, as it remains an active church, and speak quietly — Mass and prayer still happen here on a regular schedule, and some chapels close to sightseeing during services. Payment for tickets is by card as much as cash these days, and there's no tipping expected inside. The most common visitor mistake is treating the Giralda and the cathedral as a quick 20-minute stop: the ramp climb alone takes real time, and rushing means missing the choir stalls, the sacristy's Murillo and Zurbarán paintings, and the treasury — save at least ninety unhurried minutes for the whole complex.
 

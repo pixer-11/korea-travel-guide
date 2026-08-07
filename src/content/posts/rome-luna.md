@@ -41,19 +41,25 @@ draft: false
 
 ## Why Luna stands out
 
-Rome's café scene has historically meant standing at a marble bar for a fast espresso, but a newer wave of specialty coffee shops has been rewriting that script — and Luna, which opened in 2025 near Piazza Barberini, is one of the more talked-about additions. It comes from the team behind Faro, one of Rome's original third-wave coffee bars, and Aliena Coffee Roasters, so the beans and brewing methods are a known quantity for anyone who's tracked the city's coffee scene over the past few years. What differentiates Luna from its siblings is the format: a full all-day brunch menu plus an in-house bakery, wrapped in a loose space and moon theme that shows up in the naming and presentation rather than in heavy-handed decor gimmicks.
+Rome's café scene has historically meant standing at a marble bar for a fast espresso, but a newer wave of specialty coffee shops has been rewriting that script — and Luna, which opened in 2025 near Piazza Barberini, is one of the more talked-about additions. It comes from the team behind Faro, one of Rome's original third-wave coffee bars, and Aliena Coffee Roasters, so the beans and brewing methods are a known quantity for anyone who's tracked the city's coffee scene over the past few years.
+
+What differentiates Luna from its siblings is the format: a full all-day brunch menu plus an in-house bakery, wrapped in a loose space and moon theme that shows up in the naming and presentation rather than in heavy-handed decor gimmicks.
 
 For visitors, this matters because Rome brunch options that go beyond a cornetto and cappuccino are still relatively rare in the historic center. Luna fills that gap while staying close to major sightseeing routes, making it a logical stop between the Trevi Fountain and the Villa Borghese gardens rather than a destination requiring a special trip.
 
 ## Getting there
 
-Luna sits near Piazza Barberini, one of the easier reference points in central Rome. The closest metro stop is **Barberini (Line A)**, the same line that connects to Termini and the Spagna stop for the Spanish Steps. From the Barberini station exit, the square itself is anchored by Bernini's Triton Fountain, a useful landmark if you're triangulating on foot rather than relying on GPS in the narrow surrounding streets. Piazza Barberini also sits at the edge of the Tridente and Quirinale districts, so it's walkable — roughly 10-15 minutes — from the Trevi Fountain, and about 15-20 minutes from the Spanish Steps if you'd rather stroll than take the metro one stop.
+Luna sits near Piazza Barberini, one of the easier reference points in central Rome. The closest metro stop is **Barberini (Line A)**, the same line that connects to Termini and the Spagna stop for the Spanish Steps. From the Barberini station exit, the square itself is anchored by Bernini's Triton Fountain, a useful landmark if you're triangulating on foot rather than relying on GPS in the narrow surrounding streets.
+
+Piazza Barberini also sits at the edge of the Tridente and Quirinale districts, so it's walkable — roughly 10-15 minutes — from the Trevi Fountain, and about 15-20 minutes from the Spanish Steps if you'd rather stroll than take the metro one stop.
 
 Taxis and rideshare drop-offs are straightforward here since Piazza Barberini is a major traffic circle, unlike the pedestrian-only zones deeper in the historic core.
 
 ## What to expect
 
-Given the pedigree of the team, expect a proper espresso program: quality beans from Aliena's own roasting, and baristas who know their way around milk texture and extraction — a step up from the standard bar-counter espresso most Roman cafés serve. The all-day brunch format suggests egg dishes, pastries, and lighter plates designed to be lingered over, while the in-house bakery points to fresh bread and viennoiserie made on-site rather than trucked in. The space-themed menu naming is a playful touch that's become part of the shop's identity and social media presence since opening.
+Given the pedigree of the team, expect a proper espresso program: quality beans from Aliena's own roasting, and baristas who know their way around milk texture and extraction — a step up from the standard bar-counter espresso most Roman cafés serve. The all-day brunch format suggests egg dishes, pastries, and lighter plates designed to be lingered over, while the in-house bakery points to fresh bread and viennoiserie made on-site rather than trucked in.
+
+The space-themed menu naming is a playful touch that's become part of the shop's identity and social media presence since opening.
 
 Because Luna is a recent opening, exact dishes, prices, and the full menu lineup weren't confirmed at the time of writing — treat any specifics you see online as a snapshot rather than a guarantee, and check the current menu and hours directly (via their social channels or Google listing) before making it the centerpiece of a morning.
 

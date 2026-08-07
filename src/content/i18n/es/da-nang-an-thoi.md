@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-an-thoi
-srcHash: fabcb227ead3
+srcHash: 'b84e94a7cb3c'
 title: 'Ăn Thôi: Dónde comer en Da Nang'
 description: Ăn Thôi es un restaurante vietnamita grande y animado en Bạch Đằng, el paseo junto al río de Da Nang, conocido sobre todo por sus mariscos y especialidades del centro de Vietnam.
 quickAnswer: 'Ăn Thôi es un restaurante vietnamita grande y animado en Bạch Đằng, el paseo junto al río de Da Nang, conocido sobre todo por sus mariscos y especialidades del centro de Vietnam como el bánh xèo, el mì Quảng y platos a la parrilla a precios moderados. Es una gran opción para una primera comida en grupo en Da Nang: conviene ir a primera hora de la noche (17:30–19:00) para evitar el ajetreo de la cena y ver el río y el puente Dragón (Dragon Bridge) iluminados cerca de allí.'
@@ -26,7 +26,9 @@ El restaurante está en 114 Bạch Đằng, en el distrito de Hải Châu, justo
 
 ## Cómo llegar
 
-Bạch Đằng corre paralela al río Han por su orilla occidental, así que el restaurante es fácil de encontrar a pie desde cualquier punto del centro de Hải Châu. Desde el puente Dragón (Cầu Rồng) o el puente del río Han (Cầu Sông Hàn), son unos 10–15 minutos caminando hacia el norte o el sur a lo largo del río, según la calle transversal exacta. Los taxis y Grab (la app de transporte dominante en Vietnam) son baratos y la opción más sencilla si vienes desde los hoteles de playa en Võ Nguyên Giáp o desde el lado de la península de Son Trà. Como la dirección está en la vía principal junto al río, si el número exacto no le resulta familiar al conductor, pídele que te deje en "Bạch Đằng, gần cầu Rồng" (cerca del puente Dragón).
+Bạch Đằng corre paralela al río Han por su orilla occidental, así que el restaurante es fácil de encontrar a pie desde cualquier punto del centro de Hải Châu. Desde el puente Dragón (Cầu Rồng) o el puente del río Han (Cầu Sông Hàn), son unos 10–15 minutos caminando hacia el norte o el sur a lo largo del río, según la calle transversal exacta.
+
+Los taxis y Grab (la app de transporte dominante en Vietnam) son baratos y la opción más sencilla si vienes desde los hoteles de playa en Võ Nguyên Giáp o desde el lado de la península de Son Trà. Como la dirección está en la vía principal junto al río, si el número exacto no le resulta familiar al conductor, pídele que te deje en "Bạch Đằng, gần cầu Rồng" (cerca del puente Dragón).
 
 ## Qué comer
 
@@ -41,8 +43,12 @@ El nivel de precio se sitúa en el rango moderado, cómodo para una comida compl
 
 ## Cuándo ir
 
-La estación seca de Da Nang, aproximadamente de febrero a agosto, es la época más cómoda para disfrutar del entorno ribereño antes o después de cenar, y de abril a agosto además trae el clima de playa más cálido y apto para nadar. Las noches son la mejor opción aquí: Bạch Đằng cobra vida tras el anochecer, cuando el puente Dragón se ilumina y, los fines de semana por la noche, "escupe fuego" (normalmente hacia las 21:00). Procura llegar entre las 17:30 y las 18:30 para conseguir mesa cómodamente antes del pico de la cena, sobre todo si vas en grupo grande, ya que un restaurante con este volumen de reseñas y esta calificación suele llenarse.
+La estación seca de Da Nang, aproximadamente de febrero a agosto, es la época más cómoda para disfrutar del entorno ribereño antes o después de cenar, y de abril a agosto además trae el clima de playa más cálido y apto para nadar. Las noches son la mejor opción aquí: Bạch Đằng cobra vida tras el anochecer, cuando el puente Dragón se ilumina y, los fines de semana por la noche, "escupe fuego" (normalmente hacia las 21:00).
+
+Procura llegar entre las 17:30 y las 18:30 para conseguir mesa cómodamente antes del pico de la cena, sobre todo si vas en grupo grande, ya que un restaurante con este volumen de reseñas y esta calificación suele llenarse.
 
 ## Alrededores y consejos
 
-Después de comer, el propio paseo ribereño es la siguiente parada natural: un recorrido llano y agradable hacia el puente Dragón, o cruzando hacia el lado de Son Trà para ver el perfil de la ciudad desde otro ángulo. El mercado de Han (Chợ Hàn) también está a poca distancia a pie, ideal para souvenirs y productos secos, y sirve como un punto de referencia útil si quieres organizar tu recorrido a lo largo de Bạch Đằng. Como el restaurante tiene un carácter más local y de alto volumen que boutique, no esperes un ambiente íntimo y tranquilo: se adapta mejor a viajeros que buscan una experiencia gastronómica animada y comunitaria, más que a una cena tranquila en pareja.
+Después de comer, el propio paseo ribereño es la siguiente parada natural: un recorrido llano y agradable hacia el puente Dragón, o cruzando hacia el lado de Son Trà para ver el perfil de la ciudad desde otro ángulo. El mercado de Han (Chợ Hàn) también está a poca distancia a pie, ideal para souvenirs y productos secos, y sirve como un punto de referencia útil si quieres organizar tu recorrido a lo largo de Bạch Đằng.
+
+Como el restaurante tiene un carácter más local y de alto volumen que boutique, no esperes un ambiente íntimo y tranquilo: se adapta mejor a viajeros que buscan una experiencia gastronómica animada y comunitaria, más que a una cena tranquila en pareja.

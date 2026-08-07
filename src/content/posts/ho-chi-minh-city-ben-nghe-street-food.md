@@ -79,11 +79,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Ben Nghe Street Food solves a real problem for visitors: Ho Chi Minh City's best street food is often scattered across unmarked sidewalk carts with no English menus and inconsistent hygiene standards. This spot consolidates that experience into one address — a semi-open-air night market-style food court in District 1 with rows of grill stations, seafood tanks, and hot-pot tables. With a 4.3 rating from nearly 13,000 reviews, it's clearly a proven quantity for travelers who want a taste of Saigon's street-food culture without the guesswork. It functions less like a single restaurant and more like a curated collection of vendors under one roof, which makes it easy to sample widely in one sitting.
+Ben Nghe Street Food solves a real problem for visitors: Ho Chi Minh City's best street food is often scattered across unmarked sidewalk carts with no English menus and inconsistent hygiene standards. This spot consolidates that experience into one address — a semi-open-air night market-style food court in District 1 with rows of grill stations, seafood tanks, and hot-pot tables.
+
+With a 4.3 rating from nearly 13,000 reviews, it's clearly a proven quantity for travelers who want a taste of Saigon's street-food culture without the guesswork. It functions less like a single restaurant and more like a curated collection of vendors under one roof, which makes it easy to sample widely in one sitting.
 
 ## Getting there
 
-The address is 134 Nam Kỳ Khởi Nghĩa, in Sài Gòn ward, District 1 — one of the most central and walkable parts of Ho Chi Minh City. It sits within easy reach of the Notre-Dame Cathedral Basilica of Saigon and the Central Post Office, both a short walk north, and isn't far from Reunification Palace. If you're staying anywhere near Dong Khoi Street or the Bui Vien backpacker area, expect a 10–15 minute walk or a quick, inexpensive Grab (Vietnam's dominant ride-hailing app) ride. Taxis and Grab cars are the most reliable way to arrive after dark, since street parking in District 1 is limited and traffic can be chaotic during rush hour (roughly 5–7 pm).
+The address is 134 Nam Kỳ Khởi Nghĩa, in Sài Gòn ward, District 1 — one of the most central and walkable parts of Ho Chi Minh City. It sits within easy reach of the Notre-Dame Cathedral Basilica of Saigon and the Central Post Office, both a short walk north, and isn't far from Reunification Palace. If you're staying anywhere near Dong Khoi Street or the Bui Vien backpacker area, expect a 10–15 minute walk or a quick, inexpensive Grab (Vietnam's dominant ride-hailing app) ride.
+
+Taxis and Grab cars are the most reliable way to arrive after dark, since street parking in District 1 is limited and traffic can be chaotic during rush hour (roughly 5–7 pm).
 
 ## What to eat
 

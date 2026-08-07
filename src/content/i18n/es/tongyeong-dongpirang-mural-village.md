@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: tongyeong-dongpirang-mural-village
-srcHash: ebe518bfcda5
+srcHash: '2caec0a143d5'
 title: Aldea de murales de Dongpirang en Tongyeong
 description: Dongpirang es una pequeña aldea de murales en la ladera del lado este del casco antiguo del puerto de Tongyeong, justo al lado del mercado Jungang y bajo el parque Nammangsan.
 quickAnswer: Dongpirang es una pequeña aldea de murales en la ladera del lado este del casco antiguo del puerto de Tongyeong, justo al lado del mercado Jungang y bajo el parque Nammangsan. Calcula entre 1 y 1,5 horas para recorrer los callejones y los murales, más otros 20–30 minutos para subir hasta el pabellón de la cima y disfrutar de una vista panorámica del puerto de Tongyeong y las islas cercanas. La entrada es gratuita, y lo mejor es visitarla temprano por la mañana o a última hora de la tarde en un día laborable para evitar los grupos turísticos. Combina muy bien con una parada en el mercado Jungang y un paseo en el teleférico de Tongyeong.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Dongpirang ("la aldea del acantilado del este") es una de las aldeas de murales originales de Corea, el modelo que inspiró proyectos similares en todo el país. A mediados de la década de 2000, este barrio en la ladera estaba destinado a ser demolido como parte de un plan de reurbanización urbana. Un colectivo de arte cívico y varios voluntarios pintaron murales en las paredes, escaleras y tejados de las casas bajas para llamar la atención del público y salvar la aldea. Funcionó: los murales convirtieron una tranquila ladera de un pueblo pesquero en uno de los rincones más fotografiados de Tongyeong, y el barrio sigue habitado, no es un decorado preparado para el cine. Encontrarás callejones estrechos, vistas al mar, ropa tendida junto a paredes pintadas y una subida algo empinada pero manejable.
+Dongpirang ("la aldea del acantilado del este") es una de las aldeas de murales originales de Corea, el modelo que inspiró proyectos similares en todo el país. A mediados de la década de 2000, este barrio en la ladera estaba destinado a ser demolido como parte de un plan de reurbanización urbana. Un colectivo de arte cívico y varios voluntarios pintaron murales en las paredes, escaleras y tejados de las casas bajas para llamar la atención del público y salvar la aldea.
+
+Funcionó: los murales convirtieron una tranquila ladera de un pueblo pesquero en uno de los rincones más fotografiados de Tongyeong, y el barrio sigue habitado, no es un decorado preparado para el cine. Encontrarás callejones estrechos, vistas al mar, ropa tendida junto a paredes pintadas y una subida algo empinada pero manejable.
 
 ## Cómo llegar
 
@@ -38,8 +40,12 @@ Como los callejones son escaleras de piedra empinadas, usa calzado con buen agar
 
 ## Cuándo ir
 
-Las mañanas entre semana (antes de las 10 a. m.) o las últimas horas de la tarde después de las 4 p. m. son los momentos más tranquilos: Dongpirang es muy popular entre los grupos turísticos nacionales y las excursiones escolares, y los callejones estrechos se congestionan a mediodía los fines de semana y días festivos. La primavera (abril–mayo) y el otoño (octubre–noviembre) ofrecen el clima más agradable para la subida; el verano es húmedo y los tramos en cuesta se sienten más empinados con el calor. Los murales se aprecian mejor, y la vista desde la cima está en su mejor momento, en los días despejados: la neblina del puerto de Tongyeong en días nublados reduce bastante la visibilidad de las islas.
+Las mañanas entre semana (antes de las 10 a. m.) o las últimas horas de la tarde después de las 4 p. m. son los momentos más tranquilos: Dongpirang es muy popular entre los grupos turísticos nacionales y las excursiones escolares, y los callejones estrechos se congestionan a mediodía los fines de semana y días festivos. La primavera (abril–mayo) y el otoño (octubre–noviembre) ofrecen el clima más agradable para la subida; el verano es húmedo y los tramos en cuesta se sienten más empinados con el calor.
+
+Los murales se aprecian mejor, y la vista desde la cima está en su mejor momento, en los días despejados: la neblina del puerto de Tongyeong en días nublados reduce bastante la visibilidad de las islas.
 
 ## Cerca de allí y consejos
 
-Dongpirang combina muy bien con el **mercado Jungang (Chungmu)**, situado a sus pies: ve a probar marisco fresco, hotteok y el plato distintivo de Tongyeong, el *chungmu gimbap* (pequeños rollitos de arroz servidos con calamar picante y kimchi de rábano, sin relleno dentro del arroz). A poca distancia a pie o en un corto trayecto en taxi está el **teleférico de Tongyeong**, que sube al monte Mireuksan para ofrecer una vista aún más alta salpicada de islas, y la **terminal de ferris de Tongyeong**, desde donde zarpan barcos hacia islas cercanas como Sado y Yokjido. Seomindang, la calle porticada del mercado del casco antiguo, y el histórico pabellón naval de Sebyeonggwan también están a poca distancia a pie o en un breve trayecto en taxi, lo que convierte la colina de Dongpirang en un buen punto de partida para un recorrido de medio día por el Tongyeong antiguo.
+Dongpirang combina muy bien con el **mercado Jungang (Chungmu)**, situado a sus pies: ve a probar marisco fresco, hotteok y el plato distintivo de Tongyeong, el *chungmu gimbap* (pequeños rollitos de arroz servidos con calamar picante y kimchi de rábano, sin relleno dentro del arroz). A poca distancia a pie o en un corto trayecto en taxi está el **teleférico de Tongyeong**, que sube al monte Mireuksan para ofrecer una vista aún más alta salpicada de islas, y la **terminal de ferris de Tongyeong**, desde donde zarpan barcos hacia islas cercanas como Sado y Yokjido.
+
+Seomindang, la calle porticada del mercado del casco antiguo, y el histórico pabellón naval de Sebyeonggwan también están a poca distancia a pie o en un breve trayecto en taxi, lo que convierte la colina de Dongpirang en un buen punto de partida para un recorrido de medio día por el Tongyeong antiguo.

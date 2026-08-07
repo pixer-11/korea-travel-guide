@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: naples-archaeological-park-of-pompeii
-srcHash: 60e6dfb3b2f3
+srcHash: '14ed77791a64'
 title: 'Parque Arqueológico de Pompeya: Guía de viaje de Nápoles'
 description: El Parque Arqueológico de Pompeya es una ciudad romana completa sepultada por el Vesubio en el año 79 d. C., ubicada en la localidad de Pompei, a unos 30 minutos en tren de Nápoles.
 quickAnswer: 'El Parque Arqueológico de Pompeya es una ciudad romana completa sepultada por el Vesubio en el año 79 d. C., ubicada en la localidad de Pompei, a unos 30 minutos en tren de Nápoles. Calcula un mínimo de 3-4 horas (un día entero si te apasiona la historia), entra por Porta Marina y ve a primera hora de la mañana para evitar tanto las multitudes como el calor del verano. Lleva calzado cómodo de verdad: los adoquines romanos originales son irregulares y hay poca sombra.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Pompeya no es una ruina en el sentido habitual: es una ciudad romana entera congelada en pleno día, sellada bajo ceniza volcánica y piedra pómez cuando el Vesubio entró en erupción en el año 79 d. C. Calles, panaderías, burdeles, templos, cuarteles de gladiadores y villas privadas con frescos y mosaicos intactos han sobrevivido porque la erupción los sofocó en lugar de destruirlos. Con una calificación de 4.7 en más de 85,000 reseñas, es uno de los sitios mejor valorados de Italia de forma constante, y sigue siendo el mejor lugar del mundo para ver cómo funcionaba realmente una ciudad romana corriente, hasta las rodadas de carros desgastadas en las calles de piedra y los mostradores de comida rápida (thermopolia) que aún las bordean.
+Pompeya no es una ruina en el sentido habitual: es una ciudad romana entera congelada en pleno día, sellada bajo ceniza volcánica y piedra pómez cuando el Vesubio entró en erupción en el año 79 d. C. Calles, panaderías, burdeles, templos, cuarteles de gladiadores y villas privadas con frescos y mosaicos intactos han sobrevivido porque la erupción los sofocó en lugar de destruirlos.
+
+Con una calificación de 4.7 en más de 85,000 reseñas, es uno de los sitios mejor valorados de Italia de forma constante, y sigue siendo el mejor lugar del mundo para ver cómo funcionaba realmente una ciudad romana corriente, hasta las rodadas de carros desgastadas en las calles de piedra y los mostradores de comida rápida (thermopolia) que aún las bordean.
 
 ## Cómo llegar desde Nápoles
 
-La ruta más sencilla es el tren Circumvesuviana desde Napoli Centrale (o Napoli Porta Nolana) en dirección a Sorrento: bájate en la parada "Pompei Scavi – Villa dei Misteri", que se encuentra justo en la entrada principal del parque. El trayecto dura aproximadamente 30-40 minutos y tiene salidas frecuentes durante todo el día. Esta parada es distinta de la parada regular "Pompei" de la línea regional Nápoles–Salerno, que te deja en el centro del pueblo moderno, más lejos del yacimiento; la que te interesa es la Circumvesuviana. Quienes viajen en coche pueden tomar la salida Pompei Ovest de la autopista A3; hay aparcamientos de pago cerca de las entradas de Porta Marina y Piazza Anfiteatro.
+La ruta más sencilla es el tren Circumvesuviana desde Napoli Centrale (o Napoli Porta Nolana) en dirección a Sorrento: bájate en la parada "Pompei Scavi – Villa dei Misteri", que se encuentra justo en la entrada principal del parque. El trayecto dura aproximadamente 30-40 minutos y tiene salidas frecuentes durante todo el día. Esta parada es distinta de la parada regular "Pompei" de la línea regional Nápoles–Salerno, que te deja en el centro del pueblo moderno, más lejos del yacimiento; la que te interesa es la Circumvesuviana.
+
+Quienes viajen en coche pueden tomar la salida Pompei Ovest de la autopista A3; hay aparcamientos de pago cerca de las entradas de Porta Marina y Piazza Anfiteatro.
 
 Hay tres entradas —Porta Marina, Piazza Esedra y Piazza Anfiteatro—, pero Porta Marina (la más cercana a la parada de la Circumvesuviana) es el punto de partida clásico y te deja lo más cerca posible del Foro.
 
@@ -44,7 +48,9 @@ Resérvate un mínimo de tres a cuatro horas; los viajeros más apasionados por 
 
 ## Cuándo ir y consejos prácticos
 
-Llega a la hora de apertura (comprueba el horario vigente antes de ir, ya que varía según la temporada) para evitar tanto las multitudes de grupos turísticos como el sol implacable del mediodía: apenas hay sombra en la mayor parte del recinto. La primavera (abril-mayo) y principios de otoño (septiembre-octubre) ofrecen las temperaturas más agradables para caminar; el calor de pleno verano sobre la piedra volcánica sin sombra puede volverse brutal ya a primera hora de la tarde. Lleva agua, protección solar y calzado resistente, ya que el pavimento romano original es irregular y resbaladizo cuando está desgastado.
+Llega a la hora de apertura (comprueba el horario vigente antes de ir, ya que varía según la temporada) para evitar tanto las multitudes de grupos turísticos como el sol implacable del mediodía: apenas hay sombra en la mayor parte del recinto. La primavera (abril-mayo) y principios de otoño (septiembre-octubre) ofrecen las temperaturas más agradables para caminar; el calor de pleno verano sobre la piedra volcánica sin sombra puede volverse brutal ya a primera hora de la tarde.
+
+Lleva agua, protección solar y calzado resistente, ya que el pavimento romano original es irregular y resbaladizo cuando está desgastado.
 
 Compra las entradas por internet con antelación siempre que sea posible: las colas en la puerta pueden ser largas, especialmente los fines de semana y días festivos. A veces hay una entrada combinada que incluye Pompeya, Herculano y otros yacimientos vesubianos dentro de un período de validez determinado, algo que vale la pena si visitas más de uno.
 

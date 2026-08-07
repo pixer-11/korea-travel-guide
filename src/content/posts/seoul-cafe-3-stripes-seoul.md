@@ -32,15 +32,21 @@ draft: false
 
 ## Why go
 
-CAFE 3 STRIPES SEOUL is Adidas's foray into the cafe-as-brand-experience trend that's taken over Seongsu-dong, the neighborhood widely nicknamed Korea's "Brooklyn" for its former shoe-factory and warehouse buildings now filled with flagship stores, galleries, and design studios. The cafe launched in late 2025 with a fashion-show preview event, signaling it's meant less as a place to grab a quick coffee and more as a branded cultural stop — part retail storytelling, part art installation, part cafe. Its industrial-chic interior leans into the neighborhood's raw-concrete, exposed-pipe aesthetic while layering in Adidas's three-stripe visual identity and Instagram-ready installations designed for photos. The menu, developed with the Korean creative collective DORE CREATIVE CREW, has featured around 50 items aimed squarely at health-conscious Gen Z tastes — expect the lineup to rotate — think the kind of clean, visually styled food and drink menus that dominate Seoul's cafe culture right now.
+CAFE 3 STRIPES SEOUL is Adidas's foray into the cafe-as-brand-experience trend that's taken over Seongsu-dong, the neighborhood widely nicknamed Korea's "Brooklyn" for its former shoe-factory and warehouse buildings now filled with flagship stores, galleries, and design studios. The cafe launched in late 2025 with a fashion-show preview event, signaling it's meant less as a place to grab a quick coffee and more as a branded cultural stop — part retail storytelling, part art installation, part cafe.
+
+Its industrial-chic interior leans into the neighborhood's raw-concrete, exposed-pipe aesthetic while layering in Adidas's three-stripe visual identity and Instagram-ready installations designed for photos. The menu, developed with the Korean creative collective DORE CREATIVE CREW, has featured around 50 items aimed squarely at health-conscious Gen Z tastes — expect the lineup to rotate — think the kind of clean, visually styled food and drink menus that dominate Seoul's cafe culture right now.
 
 ## Getting there
 
-Seongsu-dong sits on Seoul Subway Line 2, and Seongsu Station is the natural gateway to the neighborhood's cafe and boutique cluster. From Seongsu Station, the district's main strip of converted warehouses and flagship stores (including brands like Ader Error and Common Ground nearby) is a short walk north, and CAFE 3 STRIPES SEOUL sits within this dense pocket of design-forward retail. If arriving by taxi, ask for "Seongsu-dong cafe street" (성수동 카페거리) as a general landmark, since the neighborhood's small blocks can be confusing on foot. Weekday mornings are noticeably quieter for navigating the area; weekends bring heavy foot traffic as both locals and tourists treat Seongsu as a full afternoon itinerary.
+Seongsu-dong sits on Seoul Subway Line 2, and Seongsu Station is the natural gateway to the neighborhood's cafe and boutique cluster. From Seongsu Station, the district's main strip of converted warehouses and flagship stores (including brands like Ader Error and Common Ground nearby) is a short walk north, and CAFE 3 STRIPES SEOUL sits within this dense pocket of design-forward retail.
+
+If arriving by taxi, ask for "Seongsu-dong cafe street" (성수동 카페거리) as a general landmark, since the neighborhood's small blocks can be confusing on foot. Weekday mornings are noticeably quieter for navigating the area; weekends bring heavy foot traffic as both locals and tourists treat Seongsu as a full afternoon itinerary.
 
 ## What to see and eat
 
-The draw here is the whole package rather than a single dish: expect large-scale art installations and design elements built around Adidas's brand world, photo-friendly corners engineered for social sharing, and a menu that reads more like a wellness-cafe lineup than a traditional coffee shop list — expect items positioned around health-conscious ingredients rather than heavy pastries. Because the menu was co-developed with DORE CREATIVE CREW, a name recognized in Seoul's contemporary creative and design scene, presentation is likely to be as considered as the food itself. Budget time to walk the space slowly — this is a cafe built for lingering and photographing installations, not a grab-and-go counter.
+The draw here is the whole package rather than a single dish: expect large-scale art installations and design elements built around Adidas's brand world, photo-friendly corners engineered for social sharing, and a menu that reads more like a wellness-cafe lineup than a traditional coffee shop list — expect items positioned around health-conscious ingredients rather than heavy pastries. Because the menu was co-developed with DORE CREATIVE CREW, a name recognized in Seoul's contemporary creative and design scene, presentation is likely to be as considered as the food itself.
+
+Budget time to walk the space slowly — this is a cafe built for lingering and photographing installations, not a grab-and-go counter.
 
 ## When to go
 
@@ -48,4 +54,6 @@ Aim for a weekday, especially late morning after opening or mid-afternoon before
 
 ## Nearby & tips
 
-Seongsu-dong rewards slow wandering: within a few minutes' walk you'll find a dense mix of independent cafes, concept stores, and converted industrial buildings that now house galleries and design studios, making it easy to build a half-day loop around CAFE 3 STRIPES SEOUL. Common Ground, the shipping-container mall, and various flagship stores from Korean and international fashion labels are part of the same walkable cluster. Since this is a brand-operated space rather than an independent cafe, don't assume standard cafe norms — confirm whether reservations, time limits, or purchase minimums apply before planning your visit around it, and treat posted hours as provisional until verified on the day you go.
+Seongsu-dong rewards slow wandering: within a few minutes' walk you'll find a dense mix of independent cafes, concept stores, and converted industrial buildings that now house galleries and design studios, making it easy to build a half-day loop around CAFE 3 STRIPES SEOUL. Common Ground, the shipping-container mall, and various flagship stores from Korean and international fashion labels are part of the same walkable cluster.
+
+Since this is a brand-operated space rather than an independent cafe, don't assume standard cafe norms — confirm whether reservations, time limits, or purchase minimums apply before planning your visit around it, and treat posted hours as provisional until verified on the day you go.

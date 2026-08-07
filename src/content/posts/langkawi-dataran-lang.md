@@ -66,15 +66,21 @@ Dataran Lang sits right on the Kuah waterfront, an easy 10-15 minute walk from t
 
 ## What to see and do
 
-The eagle statue itself is the centerpiece — walk right up to the base for the classic wide-angle shot, then step back toward the water for a version with the strait behind it. The plaza's fountains run at intervals and make a nice foreground if you're shooting video. Look for the small amphitheater-style seating and the flagpole row, both good vantage points slightly above ground level. Across the road you'll find Kuah's duty-free strip — chocolate, alcohol, and electronics shops — so this pairs naturally with an afternoon of shopping. The jetty, with cafes and a view of departing ferries, is close enough to fold into the same outing.
+The eagle statue itself is the centerpiece — walk right up to the base for the classic wide-angle shot, then step back toward the water for a version with the strait behind it. The plaza's fountains run at intervals and make a nice foreground if you're shooting video. Look for the small amphitheater-style seating and the flagpole row, both good vantage points slightly above ground level.
+
+Across the road you'll find Kuah's duty-free strip — chocolate, alcohol, and electronics shops — so this pairs naturally with an afternoon of shopping. The jetty, with cafes and a view of departing ferries, is close enough to fold into the same outing.
 
 ## When to go
 
-Langkawi's dry season, roughly November through March, gives you the clearest skies for photos, though the island sees decent weather most months outside the monsoon peak around September-October. Within the day, early morning (before 9am) or the last hour before sunset are your best windows — the light is softer and raking across the statue rather than blasting straight down, and the worst of the coach-tour traffic hasn't arrived or has already moved on to dinner. Midday sun here is harsh and the concrete plaza offers little shade, so if you're visiting between 11am and 3pm, bring a hat and expect a warm, glary walk.
+Langkawi's dry season, roughly November through March, gives you the clearest skies for photos, though the island sees decent weather most months outside the monsoon peak around September-October. Within the day, early morning (before 9am) or the last hour before sunset are your best windows — the light is softer and raking across the statue rather than blasting straight down, and the worst of the coach-tour traffic hasn't arrived or has already moved on to dinner.
+
+Midday sun here is harsh and the concrete plaza offers little shade, so if you're visiting between 11am and 3pm, bring a hat and expect a warm, glary walk.
 
 ## How to visit like a local
 
-Because this is a well-known, heavily visited landmark rather than a quiet corner of the island, the smart move is timing, not secrecy. Arrive right as it opens or in the last light of the day to get the plaza closer to empty — mid-morning to early afternoon is when tour buses cycle through in waves. There's no admission fee to walk the square, so there's nothing to book in advance; just show up. If you want a coconut or snack from the roadside vendors, small cash in ringgit is the easiest way to pay — card machines are inconsistent at these stalls. Dress is casual; this is an outdoor public plaza, not a temple, so there's no cover-up requirement, though sun protection matters more than modesty here. The mistake most visitors make is treating it as a 5-minute drive-by photo stop and missing the wider Kuah waterfront — walk the extra few minutes to the jetty promenade and you get a longer, better view back at the eagle from across the water, plus a chance to watch the ferries come in.
+Because this is a well-known, heavily visited landmark rather than a quiet corner of the island, the smart move is timing, not secrecy. Arrive right as it opens or in the last light of the day to get the plaza closer to empty — mid-morning to early afternoon is when tour buses cycle through in waves. There's no admission fee to walk the square, so there's nothing to book in advance; just show up.
+
+If you want a coconut or snack from the roadside vendors, small cash in ringgit is the easiest way to pay — card machines are inconsistent at these stalls. Dress is casual; this is an outdoor public plaza, not a temple, so there's no cover-up requirement, though sun protection matters more than modesty here. The mistake most visitors make is treating it as a 5-minute drive-by photo stop and missing the wider Kuah waterfront — walk the extra few minutes to the jetty promenade and you get a longer, better view back at the eagle from across the water, plus a chance to watch the ferries come in.
 
 ## Nearby stops worth combining
 

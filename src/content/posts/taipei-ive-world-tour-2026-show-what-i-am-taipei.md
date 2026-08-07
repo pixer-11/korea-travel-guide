@@ -64,7 +64,9 @@ Taipei Arena sits directly above Taipei Arena Station on the Wenhu Line (Brown L
 
 ## What the venue experience feels like
 
-Inside, Taipei Arena's bowl seating wraps close enough to the stage that even mid-tier sections get a real view of the screens and lighting rigs, not just a speck on a distant platform. The building holds around 15,000 people, so a sold-out multi-night run means the plaza outside becomes its own kind of pre-show event — vendors, fan-run pop-ups, and photo backdrops tend to cluster near the main entrance in the hours before doors. Expect security screening similar to any major arena show: bag checks, no large flags or professional cameras, and a scan of your ticket QR code at entry.
+Inside, Taipei Arena's bowl seating wraps close enough to the stage that even mid-tier sections get a real view of the screens and lighting rigs, not just a speck on a distant platform. The building holds around 15,000 people, so a sold-out multi-night run means the plaza outside becomes its own kind of pre-show event — vendors, fan-run pop-ups, and photo backdrops tend to cluster near the main entrance in the hours before doors.
+
+Expect security screening similar to any major arena show: bag checks, no large flags or professional cameras, and a scan of your ticket QR code at entry.
 
 ## When to arrive each night
 
@@ -72,7 +74,11 @@ With three consecutive nights, crowd patterns tend to shift slightly — the fir
 
 ## How to visit like a local
 
-Taiwanese concertgoers overwhelmingly buy tickets through official local ticketing platforms rather than international resellers, and tickets for a run like this typically go on sale in tiered phases — a fan-club presale followed by a general public sale — so if you're flying in specifically for this, get on the artist's official social channels and the venue's own listings early rather than relying on secondhand information. Payment at the arena and surrounding vendors is almost entirely by contactless card or Taiwan's EasyCard/iPASS transit cards, though small night-market stalls nearby still favor cash, so keep some Taiwan dollars on you if you're eating in the area. Lightsticks (the official IVE "Moment" bong) are common but not mandatory — plenty of attendees just bring phone lights. The mistake international fans make most often here is underestimating how quickly the Wenhu Line platform floods after a show ends; if you're not in a rush, waiting 15–20 minutes on the concourse before heading down to the MRT saves you from the worst of the crush. Queuing at Taipei Arena is orderly and lane-marked well before doors, so joining the line even without merchandise or floor tickets is normal and expected.
+Taiwanese concertgoers overwhelmingly buy tickets through official local ticketing platforms rather than international resellers, and tickets for a run like this typically go on sale in tiered phases — a fan-club presale followed by a general public sale — so if you're flying in specifically for this, get on the artist's official social channels and the venue's own listings early rather than relying on secondhand information.
+
+Payment at the arena and surrounding vendors is almost entirely by contactless card or Taiwan's EasyCard/iPASS transit cards, though small night-market stalls nearby still favor cash, so keep some Taiwan dollars on you if you're eating in the area. Lightsticks (the official IVE "Moment" bong) are common but not mandatory — plenty of attendees just bring phone lights. The mistake international fans make most often here is underestimating how quickly the Wenhu Line platform floods after a show ends; if you're not in a rush, waiting 15–20 minutes on the concourse before heading down to the MRT saves you from the worst of the crush.
+
+Queuing at Taipei Arena is orderly and lane-marked well before doors, so joining the line even without merchandise or floor tickets is normal and expected.
 
 ## Before you book
 

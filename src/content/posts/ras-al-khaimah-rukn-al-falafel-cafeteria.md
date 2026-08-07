@@ -69,23 +69,35 @@ draft: true
 
 ## Why go
 
-Rukn Al Falafel Cafeteria won't show up on a "top 10 Ras Al Khaimah" list dominated by beach resorts and mountain lodges, and that's precisely its appeal. This is a working-class cafeteria in the Sidrow area — the kind of Arabic street-food counter found across the UAE's smaller emirates, where the menu revolves around falafel, shawarma, hummus, and grilled sandwiches rather than tasting menus. A 4.3 rating across 659 reviews signals consistency over years of daily service, not a viral moment. It's the sort of stop worth making if you're driving between RAK's old town, the Corniche, or the road up toward Jebel Jais and want something quick, cheap, and genuinely tasty instead of a chain outlet.
+Rukn Al Falafel Cafeteria won't show up on a "top 10 Ras Al Khaimah" list dominated by beach resorts and mountain lodges, and that's precisely its appeal. This is a working-class cafeteria in the Sidrow area — the kind of Arabic street-food counter found across the UAE's smaller emirates, where the menu revolves around falafel, shawarma, hummus, and grilled sandwiches rather than tasting menus.
+
+A 4.3 rating across 659 reviews signals consistency over years of daily service, not a viral moment. It's the sort of stop worth making if you're driving between RAK's old town, the Corniche, or the road up toward Jebel Jais and want something quick, cheap, and genuinely tasty instead of a chain outlet.
 
 ## Getting there
 
-The cafeteria sits in Sidrow, a residential-commercial pocket of Ras Al Khaimah city (Plus Code reference QWRW+G3C). Ras Al Khaimah doesn't have a metro system, so the practical way in is by car or taxi — RAK taxis are metered and easy to flag or book by phone. If you're staying near the Corniche or downtown RAK, the drive is short, generally under 15 minutes depending on traffic. There's no dedicated visitor parking lot; expect to use street parking nearby, as is typical for cafeteria-style spots in this part of the emirate. Because the address is a local grid reference rather than a landmark-anchored street, punching the Plus Code directly into Google Maps or a ride-hailing app is more reliable than searching by name alone.
+The cafeteria sits in Sidrow, a residential-commercial pocket of Ras Al Khaimah city (Plus Code reference QWRW+G3C). Ras Al Khaimah doesn't have a metro system, so the practical way in is by car or taxi — RAK taxis are metered and easy to flag or book by phone. If you're staying near the Corniche or downtown RAK, the drive is short, generally under 15 minutes depending on traffic.
+
+There's no dedicated visitor parking lot; expect to use street parking nearby, as is typical for cafeteria-style spots in this part of the emirate. Because the address is a local grid reference rather than a landmark-anchored street, punching the Plus Code directly into Google Maps or a ride-hailing app is more reliable than searching by name alone.
 
 ## What to eat
 
-Falafel is the namesake dish and the one to order first — freshly fried, herb-flecked, and usually served either loose by weight or stuffed into fresh khubz (Arabic flatbread) with tahini, pickles, and salad. Beyond falafel, expect a standard Levantine-Emirati cafeteria spread: shawarma (chicken or beef), hummus and moutabal (smoky eggplant dip), foul medames (stewed fava beans), and grilled sandwiches. Portions tend to be generous for the price, and with a price level of 2 (on a typical 1–4 scale), a full meal for one person usually stays well under what you'd pay at a hotel café. This isn't a place for leisurely dining — it's counter service or quick-turnaround tables, built for takeaway as much as eating in.
+Falafel is the namesake dish and the one to order first — freshly fried, herb-flecked, and usually served either loose by weight or stuffed into fresh khubz (Arabic flatbread) with tahini, pickles, and salad. Beyond falafel, expect a standard Levantine-Emirati cafeteria spread: shawarma (chicken or beef), hummus and moutabal (smoky eggplant dip), foul medames (stewed fava beans), and grilled sandwiches.
+
+Portions tend to be generous for the price, and with a price level of 2 (on a typical 1–4 scale), a full meal for one person usually stays well under what you'd pay at a hotel café. This isn't a place for leisurely dining — it's counter service or quick-turnaround tables, built for takeaway as much as eating in.
 
 ## When to go
 
-Late morning through early afternoon (roughly 11am–2pm) is when falafel batches are freshest and turnover is highest, since cafeterias like this fry in small rounds rather than holding large batches under heat lamps. Early evening, after the day's heat breaks, is the other reliable window, especially if you're combining the stop with a Corniche walk or a drive toward the older souq streets. Fridays can bring a midday lull around prayer time, common across the UAE's local eateries, so avoid arriving right at midday on a Friday if you want food moving fast.
+Late morning through early afternoon (roughly 11am–2pm) is when falafel batches are freshest and turnover is highest, since cafeterias like this fry in small rounds rather than holding large batches under heat lamps. Early evening, after the day's heat breaks, is the other reliable window, especially if you're combining the stop with a Corniche walk or a drive toward the older souq streets.
+
+Fridays can bring a midday lull around prayer time, common across the UAE's local eateries, so avoid arriving right at midday on a Friday if you want food moving fast.
 
 ## How to visit like a local
 
-Order at the counter rather than waiting for table service — that's how these cafeterias function, and it speeds things up considerably. Cash remains widely used at small Arabic cafeterias in the UAE, though many now accept cards or tap-to-pay, so carry a mix. Tipping isn't obligatory here the way it might be at a sit-down restaurant; rounding up or leaving small change is appreciated but not expected. If you don't speak Arabic, pointing at the menu board or simply saying "falafel sandwich" and the type of shawarma you want (chicken or beef, "dijaj" or "lahm") gets you through easily. The most common visitor mistake is treating this like a leisurely restaurant experience — arriving expecting a host, a wait staff, and a printed English menu with descriptions. Instead, look at what regulars are ordering, keep your order simple, and eat where locals do: standing at the counter or at a shared plastic table, not lingering over multiple courses. Because it's still under the radar for tourists, expect a clientele that's mostly local residents and workers from the surrounding area rather than a visitor crowd — part of what keeps it honest and unpretentious.
+Order at the counter rather than waiting for table service — that's how these cafeterias function, and it speeds things up considerably. Cash remains widely used at small Arabic cafeterias in the UAE, though many now accept cards or tap-to-pay, so carry a mix. Tipping isn't obligatory here the way it might be at a sit-down restaurant; rounding up or leaving small change is appreciated but not expected.
+
+If you don't speak Arabic, pointing at the menu board or simply saying "falafel sandwich" and the type of shawarma you want (chicken or beef, "dijaj" or "lahm") gets you through easily. The most common visitor mistake is treating this like a leisurely restaurant experience — arriving expecting a host, a wait staff, and a printed English menu with descriptions.
+
+Instead, look at what regulars are ordering, keep your order simple, and eat where locals do: standing at the counter or at a shared plastic table, not lingering over multiple courses. Because it's still under the radar for tourists, expect a clientele that's mostly local residents and workers from the surrounding area rather than a visitor crowd — part of what keeps it honest and unpretentious.
 
 ## Nearby to combine with
 

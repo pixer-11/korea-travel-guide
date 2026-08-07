@@ -80,15 +80,21 @@ draft: false
 
 ## Why go
 
-You come around the corner from Rue de la Cité and there it is, filling the whole width of the square — twin towers, a rose window, that spiky crown of a spire rebuilt after the 2019 fire that nearly took the whole roof with it. Notre-Dame de Paris has stood on the Île de la Cité since the 1160s, and even from across the parvis you can pick out the details that made it a template for Gothic architecture across Europe: the flying buttresses fanning out from the choir like ribs, the rows of gargoyles that were less about decoration and more about drainage, and the sheer vertical pull of a facade designed to make thirteenth-century Parisians feel small. Victor Hugo used it as the stage for Quasimodo and Esmeralda, and that novel is a big part of why the world cared so much when it burned — and why so many people show up now to see it standing again.
+You come around the corner from Rue de la Cité and there it is, filling the whole width of the square — twin towers, a rose window, that spiky crown of a spire rebuilt after the 2019 fire that nearly took the whole roof with it. Notre-Dame de Paris has stood on the Île de la Cité since the 1160s, and even from across the parvis you can pick out the details that made it a template for Gothic architecture across Europe: the flying buttresses fanning out from the choir like ribs, the rows of gargoyles that were less about decoration and more about drainage, and the sheer vertical pull of a facade designed to make thirteenth-century Parisians feel small.
+
+Victor Hugo used it as the stage for Quasimodo and Esmeralda, and that novel is a big part of why the world cared so much when it burned — and why so many people show up now to see it standing again.
 
 ## Getting there
 
-The cathedral sits at 6 Parvis Notre-Dame - Place Jean-Paul II, on the eastern tip of Île de la Cité, in the 4th arrondissement. The easiest approach is Métro Line 4 to Cité station, which drops you a short walk away across the Pont au Double. Saint-Michel–Notre-Dame (Lines 4 and RER B/C) works just as well and lands you on the Left Bank side, an easy stroll over the bridge. Several bus lines (21, 38, 47, 85) stop nearby too. Whichever way you arrive, the walk itself is part of the experience — you cross water to get here, and the towers announce themselves well before you reach the square.
+The cathedral sits at 6 Parvis Notre-Dame - Place Jean-Paul II, on the eastern tip of Île de la Cité, in the 4th arrondissement. The easiest approach is Métro Line 4 to Cité station, which drops you a short walk away across the Pont au Double. Saint-Michel–Notre-Dame (Lines 4 and RER B/C) works just as well and lands you on the Left Bank side, an easy stroll over the bridge.
+
+Several bus lines (21, 38, 47, 85) stop nearby too. Whichever way you arrive, the walk itself is part of the experience — you cross water to get here, and the towers announce themselves well before you reach the square.
 
 ## What to see
 
-Inside, the scale is the point: soaring stone vaults, the restored choir, and the rose windows glowing blue and red when the light hits them right, particularly in the afternoon. The restoration after the fire was famously meticulous — oak beams cut and shaped using medieval techniques, stonework cleaned back to something close to its original pale color — so even people who saw the cathedral before 2019 describe the interior now as noticeably brighter. Outside, walk the full perimeter along the Seine to see the flying buttresses from the Square Jean XXIII behind the apse, and look up at the gargoyles and chimeras along the roofline — the originals, plus the invented monsters added during the 19th-century restoration led by Viollet-le-Duc. Give yourself 45 minutes to an hour for the nave and choir, longer if you linger over the exterior or the small archaeological crypt in the square out front.
+Inside, the scale is the point: soaring stone vaults, the restored choir, and the rose windows glowing blue and red when the light hits them right, particularly in the afternoon. The restoration after the fire was famously meticulous — oak beams cut and shaped using medieval techniques, stonework cleaned back to something close to its original pale color — so even people who saw the cathedral before 2019 describe the interior now as noticeably brighter.
+
+Outside, walk the full perimeter along the Seine to see the flying buttresses from the Square Jean XXIII behind the apse, and look up at the gargoyles and chimeras along the roofline — the originals, plus the invented monsters added during the 19th-century restoration led by Viollet-le-Duc. Give yourself 45 minutes to an hour for the nave and choir, longer if you linger over the exterior or the small archaeological crypt in the square out front.
 
 ## When to go
 
@@ -96,7 +102,9 @@ Opening hours run 7:50am–7pm most weekdays, with Thursdays stretching to 10pm 
 
 ## How to visit like a local
 
-This is not a quiet, undiscovered corner of Paris — it's one of the most-visited religious buildings in the world, and the smart move is working around that rather than pretending otherwise. Skip the 11am–6pm weekend stretch entirely if you can; go at opening instead, or use the Thursday evening hours for a much calmer nave. Entry to the cathedral itself is free, and there's no advance booking system for general visits, so it's queue-and-enter — the line moves faster than it looks, but arriving early still saves real time. Dress with shoulders and knees covered, as is standard for any working church in France, and keep your voice down inside: this is an active place of worship, with regular Mass times, not just a monument. Photography is generally fine in the nave but flash and tripods are typically discouraged near the altar. Locals crossing the square rarely stop to gawk at the facade the way visitors do — if you want that view uncrowded, step back into Square Jean XXIII behind the apse rather than fighting for space on the main parvis.
+This is not a quiet, undiscovered corner of Paris — it's one of the most-visited religious buildings in the world, and the smart move is working around that rather than pretending otherwise. Skip the 11am–6pm weekend stretch entirely if you can; go at opening instead, or use the Thursday evening hours for a much calmer nave. Entry to the cathedral itself is free, and there's no advance booking system for general visits, so it's queue-and-enter — the line moves faster than it looks, but arriving early still saves real time.
+
+Dress with shoulders and knees covered, as is standard for any working church in France, and keep your voice down inside: this is an active place of worship, with regular Mass times, not just a monument. Photography is generally fine in the nave but flash and tripods are typically discouraged near the altar. Locals crossing the square rarely stop to gawk at the facade the way visitors do — if you want that view uncrowded, step back into Square Jean XXIII behind the apse rather than fighting for space on the main parvis.
 
 ## Nearby to combine with your visit
 

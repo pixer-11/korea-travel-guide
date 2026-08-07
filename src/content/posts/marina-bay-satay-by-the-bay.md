@@ -43,15 +43,21 @@ draft: true
 
 ## Why go
 
-Satay by the Bay sits at the edge of Gardens by the Bay, close to the Supertree Grove and the Meadow, making it the obvious refuelling stop if you're spending a day exploring the Cloud Forest, Flower Dome, or the free outdoor gardens. It's a sprawling, open-air hawker court rather than a single restaurant — dozens of stalls under a covered structure with garden views, so you get the breadth of Singaporean street food without leaving the Marina Bay precinct. With over 6,600 reviews and a 4-star average, it's firmly on the tourist circuit, but the scale of the place (and the fact it's outdoors) means it rarely feels as claustrophobic as a small hawker centre in town.
+Satay by the Bay sits at the edge of Gardens by the Bay, close to the Supertree Grove and the Meadow, making it the obvious refuelling stop if you're spending a day exploring the Cloud Forest, Flower Dome, or the free outdoor gardens. It's a sprawling, open-air hawker court rather than a single restaurant — dozens of stalls under a covered structure with garden views, so you get the breadth of Singaporean street food without leaving the Marina Bay precinct.
+
+With over 6,600 reviews and a 4-star average, it's firmly on the tourist circuit, but the scale of the place (and the fact it's outdoors) means it rarely feels as claustrophobic as a small hawker centre in town.
 
 ## Getting there
 
-The nearest MRT station is Bayfront (Circle Line and Downtown Line); from there it's roughly a 10–15 minute walk through Gardens by the Bay, or you can hop on the free Gardens shuttle bus that loops between Bayfront and the park's attractions. If you're coming from Marina Bay Sands, it's a pleasant 15–20 minute stroll along the waterfront and through the Meadow. Taxis and ride-hail apps can drop off directly at Marina Gardens Drive, close to the #01-19 entrance. Because the food court is within Gardens by the Bay's grounds (an outdoor area that's free to enter), you don't need a ticket to the paid conservatories to eat here.
+The nearest MRT station is Bayfront (Circle Line and Downtown Line); from there it's roughly a 10–15 minute walk through Gardens by the Bay, or you can hop on the free Gardens shuttle bus that loops between Bayfront and the park's attractions. If you're coming from Marina Bay Sands, it's a pleasant 15–20 minute stroll along the waterfront and through the Meadow.
+
+Taxis and ride-hail apps can drop off directly at Marina Gardens Drive, close to the #01-19 entrance. Because the food court is within Gardens by the Bay's grounds (an outdoor area that's free to enter), you don't need a ticket to the paid conservatories to eat here.
 
 ## What to see / eat
 
-As the name promises, satay is the headline act — look for stalls grilling skewered chicken, mutton, and beef over charcoal, served with the classic sides of pressed rice cakes (ketupat), cucumber, raw onion, and peanut sauce. Beyond satay, expect the standard hawker repertoire: char kway teow, Hainanese chicken rice, laksa, oyster omelette, roti prata, and fresh coconuts, alongside international counters serving Western grills, Japanese, and Thai food. It's a graze-and-share format — order a few dishes from different stalls, grab a shared table, and eat under the open sky with views toward the Supertree structures. Portions and pricing sit in the mid-range hawker bracket (price level 2), so a casual meal for one typically runs cheaper than sit-down restaurants elsewhere in Marina Bay, though exact prices vary by stall and should be checked at the counter.
+As the name promises, satay is the headline act — look for stalls grilling skewered chicken, mutton, and beef over charcoal, served with the classic sides of pressed rice cakes (ketupat), cucumber, raw onion, and peanut sauce. Beyond satay, expect the standard hawker repertoire: char kway teow, Hainanese chicken rice, laksa, oyster omelette, roti prata, and fresh coconuts, alongside international counters serving Western grills, Japanese, and Thai food.
+
+It's a graze-and-share format — order a few dishes from different stalls, grab a shared table, and eat under the open sky with views toward the Supertree structures. Portions and pricing sit in the mid-range hawker bracket (price level 2), so a casual meal for one typically runs cheaper than sit-down restaurants elsewhere in Marina Bay, though exact prices vary by stall and should be checked at the counter.
 
 ## When to go
 
@@ -59,7 +65,11 @@ Late afternoon into early evening is the sweet spot: arrive around 5:30–6:00pm
 
 ## How to visit like a local
 
-Because this is a very popular, well-reviewed stop on most Marina Bay itineraries, don't expect a quiet or undiscovered find — the smarter move is timing rather than seeking secrecy. Go right when stalls open for dinner service (mid-afternoon) or eat an early lunch to dodge the peak 6:30–8pm crush, when queues at the most popular satay and chicken rice stalls lengthen fastest. This is self-service hawker dining: find an empty seat first (or leave a tissue packet/item to "chope" it, a common Singaporean practice), then queue at individual stalls to order and pay — most stalls accept cash and increasingly PayNow or card, but carrying some small cash bills speeds things up at older stalls. Tipping isn't expected. Order satay by the stick count rather than a set "plate," and ask for extra ketupat if you want more bulk without more meat. The most common visitor misstep is treating it like a restaurant with table service — instead, treat it as a food court: claim a table, walk to stalls, carry your own tray back, and bus your own trays to designated stations when done, which is standard hawker-centre etiquette across Singapore.
+Because this is a very popular, well-reviewed stop on most Marina Bay itineraries, don't expect a quiet or undiscovered find — the smarter move is timing rather than seeking secrecy. Go right when stalls open for dinner service (mid-afternoon) or eat an early lunch to dodge the peak 6:30–8pm crush, when queues at the most popular satay and chicken rice stalls lengthen fastest.
+
+This is self-service hawker dining: find an empty seat first (or leave a tissue packet/item to "chope" it, a common Singaporean practice), then queue at individual stalls to order and pay — most stalls accept cash and increasingly PayNow or card, but carrying some small cash bills speeds things up at older stalls. Tipping isn't expected. Order satay by the stick count rather than a set "plate," and ask for extra ketupat if you want more bulk without more meat.
+
+The most common visitor misstep is treating it like a restaurant with table service — instead, treat it as a food court: claim a table, walk to stalls, carry your own tray back, and bus your own trays to designated stations when done, which is standard hawker-centre etiquette across Singapore.
 
 ## Nearby to pair with your visit
 

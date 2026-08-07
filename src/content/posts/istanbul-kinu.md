@@ -49,7 +49,9 @@ draft: false
 
 ## Why kinu matters right now
 
-Istanbul's café scene has long been dominated by Turkish coffee houses and third-wave espresso bars, so the arrival of kinu in 2026 marked a genuine shift. It's a dedicated matcha bar — not a café that happens to stock matcha powder as an afterthought, but a space built entirely around the ceremony and culture of Japanese green tea. Behind it is Illusory Superiority, a local arts and lifestyle platform known for curating spaces that blend design sensibility with a specific cultural obsession. That pedigree shows: kinu isn't just selling drinks, it's presenting a whole aesthetic and ritual around matcha to a city that has been steadily building its own community of matcha devotees.
+Istanbul's café scene has long been dominated by Turkish coffee houses and third-wave espresso bars, so the arrival of kinu in 2026 marked a genuine shift. It's a dedicated matcha bar — not a café that happens to stock matcha powder as an afterthought, but a space built entirely around the ceremony and culture of Japanese green tea. Behind it is Illusory Superiority, a local arts and lifestyle platform known for curating spaces that blend design sensibility with a specific cultural obsession.
+
+That pedigree shows: kinu isn't just selling drinks, it's presenting a whole aesthetic and ritual around matcha to a city that has been steadily building its own community of matcha devotees.
 
 ## The setting: Japanese minimalism in Beyoğlu
 
@@ -57,7 +59,9 @@ kinu sits in Beyoğlu, the historic district that anchors Istanbul's contemporar
 
 ## What to expect
 
-Because kinu is newly opened, exact offerings and pricing aren't fixed public knowledge yet, but the concept is clear: expect ceremonial and everyday-grade matcha prepared with attention to technique, likely alongside matcha-based drinks and possibly pastries or light bites that complement the tea program. Given the backing of a lifestyle-focused platform, presentation is likely to be a strong part of the experience — think considered plating and styling rather than a quick grab-and-go pour. Confirm the current menu and price range on site or via kinu's own channels before visiting, since a young venue like this may still be refining what it serves.
+Because kinu is newly opened, exact offerings and pricing aren't fixed public knowledge yet, but the concept is clear: expect ceremonial and everyday-grade matcha prepared with attention to technique, likely alongside matcha-based drinks and possibly pastries or light bites that complement the tea program. Given the backing of a lifestyle-focused platform, presentation is likely to be a strong part of the experience — think considered plating and styling rather than a quick grab-and-go pour.
+
+Confirm the current menu and price range on site or via kinu's own channels before visiting, since a young venue like this may still be refining what it serves.
 
 ## Who's going, and why it's buzzy
 
@@ -65,8 +69,14 @@ Istanbul has a growing subculture of matcha aficionados — a mix of design-cons
 
 ## Getting there
 
-Beyoğlu is one of the most walkable and transit-connected districts in Istanbul. The nearest major anchor point is Taksim Square, reachable via the M2 metro line, from which İstiklal Avenue's historic tram runs down through the heart of the district. From either Taksim or the Tünel end of İstiklal, kinu is within a manageable walk through Beyoğlu's side streets — the kind of area where wandering is part of the experience. Taxis and ride-hailing apps are widely used and straightforward if you're coming from the Asian side or from further-flung neighborhoods like Kadıköy or Şişli.
+Beyoğlu is one of the most walkable and transit-connected districts in Istanbul. The nearest major anchor point is Taksim Square, reachable via the M2 metro line, from which İstiklal Avenue's historic tram runs down through the heart of the district. From either Taksim or the Tünel end of İstiklal, kinu is within a manageable walk through Beyoğlu's side streets — the kind of area where wandering is part of the experience.
+
+Taxis and ride-hailing apps are widely used and straightforward if you're coming from the Asian side or from further-flung neighborhoods like Kadıköy or Şişli.
 
 ## How to visit like a local
 
-Matcha bars like kinu tend to draw their heaviest crowds in the late afternoon and early evening, when Beyoğlu's café culture kicks into gear, so a weekday morning or early afternoon visit is the surer bet for a quieter counter and unhurried service. Payment in Istanbul's newer café scene is overwhelmingly card and mobile-pay friendly, though it's sensible to carry some cash as backup, as is true across the city. Tipping isn't obligatory but a small rounded-up amount or leaving loose change is customary at bars and cafés in this scene. If kinu takes reservations or has a walk-in-only policy, that's worth checking directly beforehand — new, design-forward openings in Beyoğlu often shift between the two as they find their rhythm. The most common mistake visitors make at a specialist matcha bar like this is treating it like a quick coffee stop; the point here is the slower, more deliberate preparation, so build in time to actually sit rather than order-and-go. And since kinu is genuinely new, don't assume last month's opening hours or offerings are still accurate — a quick check of their current social channels or a phone call before you go will save a wasted trip.
+Matcha bars like kinu tend to draw their heaviest crowds in the late afternoon and early evening, when Beyoğlu's café culture kicks into gear, so a weekday morning or early afternoon visit is the surer bet for a quieter counter and unhurried service. Payment in Istanbul's newer café scene is overwhelmingly card and mobile-pay friendly, though it's sensible to carry some cash as backup, as is true across the city.
+
+Tipping isn't obligatory but a small rounded-up amount or leaving loose change is customary at bars and cafés in this scene. If kinu takes reservations or has a walk-in-only policy, that's worth checking directly beforehand — new, design-forward openings in Beyoğlu often shift between the two as they find their rhythm. The most common mistake visitors make at a specialist matcha bar like this is treating it like a quick coffee stop; the point here is the slower, more deliberate preparation, so build in time to actually sit rather than order-and-go.
+
+And since kinu is genuinely new, don't assume last month's opening hours or offerings are still accurate — a quick check of their current social channels or a phone call before you go will save a wasted trip.

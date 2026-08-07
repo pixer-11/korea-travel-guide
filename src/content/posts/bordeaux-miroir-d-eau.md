@@ -46,13 +46,17 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You smell the river before you see the pool — a faint mineral dampness carried off the Garonne, mixing with waffle batter and coffee from the cafés lining the quay. Then you round the corner from Rue Fernand Philippart and the Place de la Bourse opens up in front of you: honey-colored stone, curved colonnades, and at its feet, a thin sheet of water stretched across 3,450 square meters of black granite, doubling the whole scene like a photograph folded in half. This is the Miroir d'eau, the "water mirror," and it's genuinely one of the largest reflecting pools anywhere in the world.
+You smell the river before you see the pool — a faint mineral dampness carried off the Garonne, mixing with waffle batter and coffee from the cafés lining the quay. Then you round the corner from Rue Fernand Philippart and the Place de la Bourse opens up in front of you: honey-colored stone, curved colonnades, and at its feet, a thin sheet of water stretched across 3,450 square meters of black granite, doubling the whole scene like a photograph folded in half.
+
+This is the Miroir d'eau, the "water mirror," and it's genuinely one of the largest reflecting pools anywhere in the world.
 
 It was built in 2006, part of the broader remaking of Bordeaux's riverfront that pedestrianized the quays and reconnected the city with the water it had turned its back on for decades. The idea is simple but engineered with real precision: a film of water just a centimeter or two deep settles over the granite, sensors cycle it on a rhythm, and every seven minutes or so it disappears into a fine fog that rolls out across the square before the water reappears, glassy and still, mirroring the Bourse's dome and pilasters.
 
 ## What you'll actually see
 
-On a clear day the reflection is close to perfect — the sky, the stone façade, and whoever happens to be standing in the water at the time, silhouetted against their own doubled image. On a still evening, after the day-trippers have moved on, the surface goes molten gold with the sunset. Then the mist cycle kicks in: jets release a fog that curls at ankle height, swallows people's legs, and drifts toward the river before the pool refills. It's the kind of thing that photographs well because it genuinely looks different every few minutes — glass, then cloud, then glass again.
+On a clear day the reflection is close to perfect — the sky, the stone façade, and whoever happens to be standing in the water at the time, silhouetted against their own doubled image. On a still evening, after the day-trippers have moved on, the surface goes molten gold with the sunset. Then the mist cycle kicks in: jets release a fog that curls at ankle height, swallows people's legs, and drifts toward the river before the pool refills.
+
+It's the kind of thing that photographs well because it genuinely looks different every few minutes — glass, then cloud, then glass again.
 
 ## Getting there
 
@@ -60,12 +64,18 @@ The Miroir d'eau sits on Place de la Bourse, directly on the Quai Richelieu in c
 
 ## When to go
 
-Because it's outdoors and free, there's no ticket and no closing gate, but the character of a visit changes enormously with the hour. Midday, especially in summer, it's crowded with families cooling off, tour groups, and kids splashing barefoot — lively, but you'll be sharing every reflection with fifty other people. Early morning, before the tour buses arrive, and the hour around sunset are when the pool is calmest and the light does the most work, turning the Bourse's stone facade amber and doubling it cleanly on the water. Winter mornings, with low fog off the river, are quieter still and have their own stark, minimal beauty even without the summer crowds wading in.
+Because it's outdoors and free, there's no ticket and no closing gate, but the character of a visit changes enormously with the hour. Midday, especially in summer, it's crowded with families cooling off, tour groups, and kids splashing barefoot — lively, but you'll be sharing every reflection with fifty other people. Early morning, before the tour buses arrive, and the hour around sunset are when the pool is calmest and the light does the most work, turning the Bourse's stone facade amber and doubling it cleanly on the water.
+
+Winter mornings, with low fog off the river, are quieter still and have their own stark, minimal beauty even without the summer crowds wading in.
 
 ## Beyond the pool itself
 
-The Place de la Bourse behind you is worth lingering over on its own — a set-piece of 18th-century French classical architecture, commissioned to give Bordeaux's merchant elite a grand civic face onto the river. Walk the Quai Richelieu in either direction and you hit the Bordeaux wine bars and bistro terraces that cluster near the quay, or continue toward the Pont de Pierre for a longer river view. The Cité du Vin and the Jardin Public are both a further tram ride away if you want to build a fuller half-day around this stretch of the river.
+The Place de la Bourse behind you is worth lingering over on its own — a set-piece of 18th-century French classical architecture, commissioned to give Bordeaux's merchant elite a grand civic face onto the river. Walk the Quai Richelieu in either direction and you hit the Bordeaux wine bars and bistro terraces that cluster near the quay, or continue toward the Pont de Pierre for a longer river view.
+
+The Cité du Vin and the Jardin Public are both a further tram ride away if you want to build a fuller half-day around this stretch of the river.
 
 ## How to visit like a local
 
-Because this is one of Bordeaux's most visited spots, don't expect solitude — the smarter move is timing, not secrecy. Go right after the shops open or in the last hour of daylight, when tour groups have thinned and the light is better anyway. Nobody pays to enter and there's no queue system, so just walk in; if you're wading, flip-flops or bare feet work fine and locals genuinely do walk through it barefoot with kids in tow, so you won't stand out doing the same. Keep phones and cameras clear of the misting jets — they release without much warning. Sit on the stone edge rather than blocking the open water if you want to watch the mist cycle rather than be in it, and resist the urge to linger right at midday in July, when the granite radiates heat and the crowd is at its densest.
+Because this is one of Bordeaux's most visited spots, don't expect solitude — the smarter move is timing, not secrecy. Go right after the shops open or in the last hour of daylight, when tour groups have thinned and the light is better anyway. Nobody pays to enter and there's no queue system, so just walk in; if you're wading, flip-flops or bare feet work fine and locals genuinely do walk through it barefoot with kids in tow, so you won't stand out doing the same.
+
+Keep phones and cameras clear of the misting jets — they release without much warning. Sit on the stone edge rather than blocking the open water if you want to watch the mist cycle rather than be in it, and resist the urge to linger right at midday in July, when the granite radiates heat and the crowd is at its densest.

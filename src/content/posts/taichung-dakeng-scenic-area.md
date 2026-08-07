@@ -70,7 +70,9 @@ draft: false
 
 ## Why go
 
-You come around a bend on Dongshan Road and the city noise just drops away. One minute you're in Taichung traffic, the next you're staring up at a wall of green — betel palm groves, bamboo stands, and forested ridgeline folding back into the Central Mountain Range. Dakeng isn't one trail, it's a whole system of them, numbered 1 through 10ish, scattered across the hills of Beitun District on the city's northeastern edge. Locals come here to sweat, tourists come here for the views, and on a clear morning you can see why both keep coming back: the air smells like wet earth and crushed leaves, cicadas roar in summer, and every switchback opens onto another slice of the Taichung basin spread out below.
+You come around a bend on Dongshan Road and the city noise just drops away. One minute you're in Taichung traffic, the next you're staring up at a wall of green — betel palm groves, bamboo stands, and forested ridgeline folding back into the Central Mountain Range. Dakeng isn't one trail, it's a whole system of them, numbered 1 through 10ish, scattered across the hills of Beitun District on the city's northeastern edge.
+
+Locals come here to sweat, tourists come here for the views, and on a clear morning you can see why both keep coming back: the air smells like wet earth and crushed leaves, cicadas roar in summer, and every switchback opens onto another slice of the Taichung basin spread out below.
 
 ## Getting there
 
@@ -78,7 +80,9 @@ Dakeng sits inland from central Taichung, roughly a 30–40 minute taxi or scoot
 
 ## What to see and do
 
-Trail 4 is the one everyone talks about, and for good reason: it climbs through sections of wooden ladders and taut ropes bolted into the rock face, more scramble than stroll in places, rewarding you with wide-open views back over Taichung's rooftops and, on a clear day, out toward the coast. It's strenuous — steep, humid, and unshaded in stretches — so it's not the trail to underestimate in July. If you want something gentler, Trails 9 and 10 offer more forested, shaded walking with less climbing, better suited to families or anyone short on time. Wildlife-watching is part of the appeal too: butterflies drift across the paths in spring and summer, and you'll hear (even if you don't see) plenty of birdlife in the canopy. Whichever trail you choose, this is a half-day commitment at minimum — figure two to four hours depending on distance and how many ladder sections you're willing to tackle.
+Trail 4 is the one everyone talks about, and for good reason: it climbs through sections of wooden ladders and taut ropes bolted into the rock face, more scramble than stroll in places, rewarding you with wide-open views back over Taichung's rooftops and, on a clear day, out toward the coast. It's strenuous — steep, humid, and unshaded in stretches — so it's not the trail to underestimate in July.
+
+If you want something gentler, Trails 9 and 10 offer more forested, shaded walking with less climbing, better suited to families or anyone short on time. Wildlife-watching is part of the appeal too: butterflies drift across the paths in spring and summer, and you'll hear (even if you don't see) plenty of birdlife in the canopy. Whichever trail you choose, this is a half-day commitment at minimum — figure two to four hours depending on distance and how many ladder sections you're willing to tackle.
 
 ## When to go
 
@@ -86,7 +90,9 @@ Early morning is the move here, both for temperature and for light — the hills
 
 ## How to visit like a local
 
-Wear proper hiking shoes with grip, not sneakers — the rope-and-ladder sections on Trail 4 punish anything with a smooth sole, and gloves (sold cheaply at the trailhead stalls) save your palms on the rope climbs. Bring more water than you think you need; there's minimal shade and the humidity makes the climbs feel harder than the distance suggests. Cash is still king at the roadside fruit and drink stands along Lane 383 — don't count on card machines out here. Since this is a genuinely popular attraction rather than a quiet local secret, the real strategy is timing: arrive as close to opening light as you can manage, especially on weekends, and you'll beat both the heat and the trailhead traffic. The mistake first-timers make is picking Trail 4 without realizing how physical it is — read the trail markers at the entrance, which indicate difficulty, and match it honestly to your fitness level rather than following whichever group looks most photogenic. Pack out your trash; there are few bins once you're past the entrance area.
+Wear proper hiking shoes with grip, not sneakers — the rope-and-ladder sections on Trail 4 punish anything with a smooth sole, and gloves (sold cheaply at the trailhead stalls) save your palms on the rope climbs. Bring more water than you think you need; there's minimal shade and the humidity makes the climbs feel harder than the distance suggests. Cash is still king at the roadside fruit and drink stands along Lane 383 — don't count on card machines out here.
+
+Since this is a genuinely popular attraction rather than a quiet local secret, the real strategy is timing: arrive as close to opening light as you can manage, especially on weekends, and you'll beat both the heat and the trailhead traffic. The mistake first-timers make is picking Trail 4 without realizing how physical it is — read the trail markers at the entrance, which indicate difficulty, and match it honestly to your fitness level rather than following whichever group looks most photogenic. Pack out your trash; there are few bins once you're past the entrance area.
 
 ## Good to know before you leave
 

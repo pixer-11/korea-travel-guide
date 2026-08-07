@@ -61,7 +61,9 @@ aiGenerated: true
 ---
 ## Why go
 
-LiLo Coffee Roasters has been quietly roasting its own beans in this corner of Nishishinsaibashi since 2014, long before "third wave" coffee became a buzzword in Osaka. What sets it apart from the countless café options in the area is consistency: a 4.8-star rating across more than 2,400 reviews is rare for any food or drink spot, let alone a small independent roaster competing with chains just blocks away. This is a destination for people who care about how their coffee is sourced and brewed, not just a place to sit down — though there is seating, and free Wi-Fi if you want to linger with a laptop.
+LiLo Coffee Roasters has been quietly roasting its own beans in this corner of Nishishinsaibashi since 2014, long before "third wave" coffee became a buzzword in Osaka. What sets it apart from the countless café options in the area is consistency: a 4.8-star rating across more than 2,400 reviews is rare for any food or drink spot, let alone a small independent roaster competing with chains just blocks away.
+
+This is a destination for people who care about how their coffee is sourced and brewed, not just a place to sit down — though there is seating, and free Wi-Fi if you want to linger with a laptop.
 
 ## Getting there
 
@@ -69,7 +71,9 @@ The address is 1-chōme-10-28, Nishishinsaibashi, Chuo Ward, Osaka, on the groun
 
 ## What to see and drink
 
-LiLo's core identity is the in-house roasting — beans are roasted on-site or nearby and rotate seasonally, so ask staff what's freshest that week rather than defaulting to a house blend. The espresso-based drinks (latte, cappuccino) are well-balanced and popular with regulars, but the pour-over single origins are where the roasting quality really shows, especially if you're curious about Ethiopian or Central American lots when they're in stock. Price level sits in the moderate range for specialty coffee in Japan — expect somewhere around ¥500–900 for most drinks, though exact prices should be confirmed on-site since menus shift with bean availability. The space itself is small and cosy rather than sprawling, so this isn't the spot for a long laptop session during peak hours; mid-morning on a weekday tends to be calmer than weekend afternoons, when local coffee enthusiasts and visitors following review recommendations both show up.
+LiLo's core identity is the in-house roasting — beans are roasted on-site or nearby and rotate seasonally, so ask staff what's freshest that week rather than defaulting to a house blend. The espresso-based drinks (latte, cappuccino) are well-balanced and popular with regulars, but the pour-over single origins are where the roasting quality really shows, especially if you're curious about Ethiopian or Central American lots when they're in stock.
+
+Price level sits in the moderate range for specialty coffee in Japan — expect somewhere around ¥500–900 for most drinks, though exact prices should be confirmed on-site since menus shift with bean availability. The space itself is small and cosy rather than sprawling, so this isn't the spot for a long laptop session during peak hours; mid-morning on a weekday tends to be calmer than weekend afternoons, when local coffee enthusiasts and visitors following review recommendations both show up.
 
 ## When to go
 
@@ -77,4 +81,6 @@ Given the tight footprint, aim for off-peak windows — late morning (10:30–11
 
 ## Nearby & tips
 
-Nishishinsaibashi rewards walking: Amerikamura's boutiques and street-fashion shops are a short stroll northwest, while the covered Shinsaibashi-suji shopping arcade and the canal-side Dotonbori strip are within about 10–15 minutes on foot to the east, making LiLo a sensible caffeine stop before or after either. Because the café is compact, it's not designed for large groups — solo visitors or pairs will have an easier time finding a seat. If you're a coffee-focused traveler, consider asking staff about their roasting philosophy or current origin lots; the depth of knowledge behind the counter is part of what has built the loyal following reflected in its review count. As with any small independent business, hours can shift around holidays, so a quick check of current opening times before heading over is worth the extra minute.
+Nishishinsaibashi rewards walking: Amerikamura's boutiques and street-fashion shops are a short stroll northwest, while the covered Shinsaibashi-suji shopping arcade and the canal-side Dotonbori strip are within about 10–15 minutes on foot to the east, making LiLo a sensible caffeine stop before or after either. Because the café is compact, it's not designed for large groups — solo visitors or pairs will have an easier time finding a seat.
+
+If you're a coffee-focused traveler, consider asking staff about their roasting philosophy or current origin lots; the depth of knowledge behind the counter is part of what has built the loyal following reflected in its review count. As with any small independent business, hours can shift around holidays, so a quick check of current opening times before heading over is worth the extra minute.

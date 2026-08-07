@@ -33,11 +33,15 @@ The café spreads across two storeys, and that vertical layout is part of the ap
 
 ## What to see and eat
 
-The headline item making the rounds online is Kirin's duct-taped-banana-inspired cake — a cheeky, visual pun on the infamous "banana taped to a wall" art piece, reimagined as something you can actually eat. Beyond that signature dessert, expect a rotating lineup of playful drinks and sweets that lean into the same visual-first philosophy as the decor — the kind of items designed to look as unusual on your table as the room looks around you. Because menus at trending cafés like this change often, don't lock in on a specific dish before you go; treat the duct-tape cake as the one thing worth asking about, and stay open to whatever else is on offer that week.
+The headline item making the rounds online is Kirin's duct-taped-banana-inspired cake — a cheeky, visual pun on the infamous "banana taped to a wall" art piece, reimagined as something you can actually eat. Beyond that signature dessert, expect a rotating lineup of playful drinks and sweets that lean into the same visual-first philosophy as the decor — the kind of items designed to look as unusual on your table as the room looks around you.
+
+Because menus at trending cafés like this change often, don't lock in on a specific dish before you go; treat the duct-tape cake as the one thing worth asking about, and stay open to whatever else is on offer that week.
 
 ## Where it fits in Johor Bahru
 
-Kirin Coffee sits near Mount Austin, one of Johor Bahru's established residential and commercial pockets, a short drive from the city centre and well within reach if you're already exploring JB's newer café clusters. It's not a stand-alone destination so much as part of a broader wave of design-forward cafés that have opened across the city in recent years, catering to a young, photo-savvy crowd as much as coffee purists. If you're coming from central JB or from the Woodlands/Causeway side on a day trip from Singapore, budget it as a stop rather than the whole itinerary — pair it with other Mount Austin-area shops or a broader JB café crawl.
+Kirin Coffee sits near Mount Austin, one of Johor Bahru's established residential and commercial pockets, a short drive from the city centre and well within reach if you're already exploring JB's newer café clusters. It's not a stand-alone destination so much as part of a broader wave of design-forward cafés that have opened across the city in recent years, catering to a young, photo-savvy crowd as much as coffee purists.
+
+If you're coming from central JB or from the Woodlands/Causeway side on a day trip from Singapore, budget it as a stop rather than the whole itinerary — pair it with other Mount Austin-area shops or a broader JB café crawl.
 
 ## When to go
 
@@ -45,7 +49,11 @@ Because this is a recently opened, fast-trending spot, the busiest hours tend to
 
 ## How to visit like a local
 
-Treat it the way JB regulars treat any new viral café: check social media the morning of your visit for real-time queue updates, since word-of-mouth spreads fast and a quiet Tuesday can turn into a line by Saturday. Payment at most modern JB cafés is a mix of cash and e-wallet or card, so carry a backup payment method rather than assuming one will work. If the space looks busy when you arrive, it's normal here to grab a drink and circulate through both floors while you wait for a seat, rather than hovering by the door. The most common mistake visitors make is showing up expecting a quiet coffee break — this is a photograph-first destination, so pace your visit to include time wandering the decor, not just sitting down. And because reservations, hours, and even the standout menu items can shift as the café settles into its rhythm, a quick check of its current social media page before you go will save you a wasted trip.
+Treat it the way JB regulars treat any new viral café: check social media the morning of your visit for real-time queue updates, since word-of-mouth spreads fast and a quiet Tuesday can turn into a line by Saturday. Payment at most modern JB cafés is a mix of cash and e-wallet or card, so carry a backup payment method rather than assuming one will work.
+
+If the space looks busy when you arrive, it's normal here to grab a drink and circulate through both floors while you wait for a seat, rather than hovering by the door. The most common mistake visitors make is showing up expecting a quiet coffee break — this is a photograph-first destination, so pace your visit to include time wandering the decor, not just sitting down.
+
+And because reservations, hours, and even the standout menu items can shift as the café settles into its rhythm, a quick check of its current social media page before you go will save you a wasted trip.
 
 ## Getting there
 

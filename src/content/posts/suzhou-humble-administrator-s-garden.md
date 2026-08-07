@@ -53,11 +53,17 @@ Suzhou calls itself the "Venice of the East," and nowhere makes the case better 
 
 ## Getting there
 
-The garden sits in Gusu District, in the northeastern pocket of the old city, at 178 Dong Bei Jie. The easiest approach is by taxi or ride-hail directly to the East Gate entrance, since Suzhou's metro doesn't run a station right to the door — Line 4's Beisita Station is the closest stop, then a 15–20 minute walk or short cab ride north. Most visitors combine the trip with the Suzhou Museum (designed by I.M. Pei) and the Suzhou Silk Museum, both a few minutes' walk away, and the Lion Grove Garden is close enough to fold into the same morning.
+The garden sits in Gusu District, in the northeastern pocket of the old city, at 178 Dong Bei Jie. The easiest approach is by taxi or ride-hail directly to the East Gate entrance, since Suzhou's metro doesn't run a station right to the door — Line 4's Beisita Station is the closest stop, then a 15–20 minute walk or short cab ride north.
+
+Most visitors combine the trip with the Suzhou Museum (designed by I.M. Pei) and the Suzhou Silk Museum, both a few minutes' walk away, and the Lion Grove Garden is close enough to fold into the same morning.
 
 ## What to see
 
-The layout splits into three sections — East, Central, and West — and they're not equal in interest. The Central Area is the historic core and the one to prioritize if time is short: this is where you find the Hall of Distant Fragrance, the Small Flying Rainbow Bridge arcing over a lily pond, and the long covered corridors that zigzag along the water so that no two views repeat. Lotus blooms fill the central ponds from June through August, but even bare in winter the bones of the design — rock, water, whitewashed wall — hold up. The West Area, added later, has a slightly different character, denser with pavilions and carved wooden lattice windows; the "Mandarin Duck Hall" here has stained-glass panels that are worth slowing down for. The East Area is more open lawn and was largely reconstructed in the 20th century, so it's the least essential if you're pressed for time.
+The layout splits into three sections — East, Central, and West — and they're not equal in interest. The Central Area is the historic core and the one to prioritize if time is short: this is where you find the Hall of Distant Fragrance, the Small Flying Rainbow Bridge arcing over a lily pond, and the long covered corridors that zigzag along the water so that no two views repeat.
+
+Lotus blooms fill the central ponds from June through August, but even bare in winter the bones of the design — rock, water, whitewashed wall — hold up. The West Area, added later, has a slightly different character, denser with pavilions and carved wooden lattice windows; the "Mandarin Duck Hall" here has stained-glass panels that are worth slowing down for.
+
+The East Area is more open lawn and was largely reconstructed in the 20th century, so it's the least essential if you're pressed for time.
 
 Budget two to three hours to walk it properly. Rushing through in under an hour means you'll miss the way the garden's borrowed scenery works — walls and windows are cut to frame views of pagodas and trees beyond the garden's own boundary, a signature trick of Suzhou garden design.
 
@@ -67,7 +73,11 @@ Spring (April–May) and autumn (October–November) bring the mildest weather a
 
 ## How to visit like a local
 
-This is one of Suzhou's most visited sites, not a quiet find, so the real skill is timing rather than stumbling onto something undiscovered. Arrive right when the gate opens in the morning — the first hour is dramatically calmer than midday, when tour buses from Shanghai unload in waves. Buy your ticket online in advance through the official WeChat mini-program or ctrip-style platforms if possible; queues at the physical counter can be long on weekends and holidays, and same-day walk-up tickets sometimes sell out during peak season. Payment on-site, if you do need it, is almost entirely mobile — Alipay and WeChat Pay are standard, and carrying cash as backup is still wise since not every ticket window accommodates foreign cards smoothly. Once inside, resist the urge to photograph every pavilion head-on from the main path; locals and serious photographers hang back and wait for a break in the crowd to catch the reflection in the ponds, which is really the whole point of the design. The most common visitor mistake is treating this like a quick photo-stop between other sights — the garden rewards slow, looping walks, doubling back along the same corridor to see how a view changes with the light. Wear shoes with a good grip, too: many of the paths are old, uneven stone, especially around the rockeries.
+This is one of Suzhou's most visited sites, not a quiet find, so the real skill is timing rather than stumbling onto something undiscovered. Arrive right when the gate opens in the morning — the first hour is dramatically calmer than midday, when tour buses from Shanghai unload in waves. Buy your ticket online in advance through the official WeChat mini-program or ctrip-style platforms if possible; queues at the physical counter can be long on weekends and holidays, and same-day walk-up tickets sometimes sell out during peak season.
+
+Payment on-site, if you do need it, is almost entirely mobile — Alipay and WeChat Pay are standard, and carrying cash as backup is still wise since not every ticket window accommodates foreign cards smoothly. Once inside, resist the urge to photograph every pavilion head-on from the main path; locals and serious photographers hang back and wait for a break in the crowd to catch the reflection in the ponds, which is really the whole point of the design.
+
+The most common visitor mistake is treating this like a quick photo-stop between other sights — the garden rewards slow, looping walks, doubling back along the same corridor to see how a view changes with the light. Wear shoes with a good grip, too: many of the paths are old, uneven stone, especially around the rockeries.
 
 ## Nearby to combine
 

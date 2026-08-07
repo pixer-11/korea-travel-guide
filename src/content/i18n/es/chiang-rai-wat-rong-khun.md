@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-rai-wat-rong-khun
-srcHash: 5c834cbcbb3f
+srcHash: '26f47098392e'
 title: 'Wat Rong Khun: guía de viaje de Chiang Rai'
 description: Wat Rong Khun, más conocido como el Templo Blanco, se encuentra a unos 13 km (20–25 minutos en coche) al sur del centro de Chiang Rai, en la carretera hacia Bangkok, y lo mejor es visitarlo justo a la apertura (alrededor de las 8am), antes de que lleguen los autobuses turísticos.
 quickAnswer: Wat Rong Khun, más conocido como el Templo Blanco, se encuentra a unos 13 km (20–25 minutos en coche) al sur del centro de Chiang Rai, en la carretera hacia Bangkok, y lo mejor es visitarlo justo a la apertura (alrededor de las 8am), antes de que lleguen los autobuses turísticos. Reserva entre 1 y 1.5 horas para cruzar el puente de espejos sobre el "Ciclo del Renacimiento", ver los murales del Ubosot y recorrer el pabellón dorado de los baños y la tienda de regalos. Se exige vestimenta modesta (hombros y rodillas cubiertos), y hay que tener en cuenta que sigue siendo un proyecto artístico activo y en evolución del artista Chalermchai Kositpipat, no una ruina antigua.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué vale la pena visitar Wat Rong Khun
 
-Wat Rong Khun, conocido universalmente como el Templo Blanco, es uno de los lugares religiosos más fotografiados de Tailandia y se cuenta constantemente entre las principales atracciones de Chiang Rai (4.6 estrellas en casi 25,000 reseñas). A diferencia de los templos centenarios de Chiang Mai o Ayutthaya, este es una obra de arte viva: el artista tailandés Chalermchai Kositpipat comenzó a reconstruir un templo local en ruinas en 1997, financiándolo íntegramente con recursos propios y donaciones, y la construcción continúa hasta hoy. El yeso completamente blanco, incrustado con fragmentos de vidrio espejado, busca simbolizar la pureza de Buda, mientras que la superficie brillante representa la sabiduría iluminando el universo. Es realmente distinto a cualquier otro wat del país —una mezcla de santuario budista, instalación de arte surrealista y curiosidad de la cultura pop (busca las figuras de Predator, Kung Fu Panda y Superman incorporadas en los murales).
+Wat Rong Khun, conocido universalmente como el Templo Blanco, es uno de los lugares religiosos más fotografiados de Tailandia y se cuenta constantemente entre las principales atracciones de Chiang Rai (4.6 estrellas en casi 25,000 reseñas). A diferencia de los templos centenarios de Chiang Mai o Ayutthaya, este es una obra de arte viva: el artista tailandés Chalermchai Kositpipat comenzó a reconstruir un templo local en ruinas en 1997, financiándolo íntegramente con recursos propios y donaciones, y la construcción continúa hasta hoy.
+
+El yeso completamente blanco, incrustado con fragmentos de vidrio espejado, busca simbolizar la pureza de Buda, mientras que la superficie brillante representa la sabiduría iluminando el universo. Es realmente distinto a cualquier otro wat del país —una mezcla de santuario budista, instalación de arte surrealista y curiosidad de la cultura pop (busca las figuras de Predator, Kung Fu Panda y Superman incorporadas en los murales).
 
 ## Cómo llegar
 
@@ -34,7 +36,9 @@ Wat Rong Khun está ubicado en el subdistrito de Pa O Don Chai, distrito de Muea
 
 Comienza en el puente de entrada, flanqueado por cientos de manos extendidas que emergen del suelo: la instalación se llama "El Ciclo del Renacimiento", y cruzarlo simboliza dejar atrás el ciclo del deseo antes de alcanzar la iluminación. Más adelante, un pequeño puente custodiado por dos figuras míticas de Kala/Rahu conduce al **Ubosot** principal (sala de ordenación), el elemento central del templo, decorado en su interior con murales que combinan la iconografía budista tradicional con imágenes modernas sorprendentes: motores a reacción, superhéroes y escenas apocalípticas se entrelazan con las enseñanzas de Buda. Por lo general, no se permite fotografiar dentro de esta sala.
 
-No te pierdas el resto del recinto: el llamativo edificio de color dorado cerca de la entrada no es un santuario, sino los baños, deliberadamente dorados para representar el cuerpo (en contraste con el templo blanco, que representa la mente). También hay una galería/tienda de regalos donde se venden grabados y postales de Chalermchai, y una gran campana ceremonial que los visitantes pueden hacer sonar una vez para atraer buena suerte. Reserva entre 60 y 90 minutos para recorrer el recinto con calma, sin apresurarte en la fila para la foto del puente.
+No te pierdas el resto del recinto: el llamativo edificio de color dorado cerca de la entrada no es un santuario, sino los baños, deliberadamente dorados para representar el cuerpo (en contraste con el templo blanco, que representa la mente). También hay una galería/tienda de regalos donde se venden grabados y postales de Chalermchai, y una gran campana ceremonial que los visitantes pueden hacer sonar una vez para atraer buena suerte.
+
+Reserva entre 60 y 90 minutos para recorrer el recinto con calma, sin apresurarte en la fila para la foto del puente.
 
 ## Cuándo ir
 

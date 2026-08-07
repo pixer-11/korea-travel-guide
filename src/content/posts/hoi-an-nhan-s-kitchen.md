@@ -79,11 +79,15 @@ Hoi An's Old Town is thick with tourist-trap menus and inflated prices, so a spo
 
 ## What to eat
 
-This is the place to work through Hoi An's signature dishes rather than order something generic. Start with **cao lầu**, the town's iconic noodle dish — thick, chewy noodles (traditionally made with water from a specific local well) tossed with pork slices, greens, and crunchy pork crackling, served in a shallow, almost dry broth rather than a soup. Follow it with **white rose dumplings** (bánh bao vạc), delicate steamed shrimp parcels shaped to resemble a flower, a dish that originated in Hoi An and is hard to find done well outside it. If you want something more filling, **bánh xèo** — a crispy turmeric-yellow rice pancake folded over pork, shrimp, and bean sprouts, eaten wrapped in rice paper with herbs and dipped in fish-sauce dressing — is a reliable order. Spring rolls and a bowl of **mì Quảng** (a turmeric-tinted noodle dish from the neighboring province, with a much smaller amount of broth than a typical noodle soup) round out a good first visit. Portions are sized for casual grazing, so two or three people can comfortably share four or five dishes.
+This is the place to work through Hoi An's signature dishes rather than order something generic. Start with **cao lầu**, the town's iconic noodle dish — thick, chewy noodles (traditionally made with water from a specific local well) tossed with pork slices, greens, and crunchy pork crackling, served in a shallow, almost dry broth rather than a soup. Follow it with **white rose dumplings** (bánh bao vạc), delicate steamed shrimp parcels shaped to resemble a flower, a dish that originated in Hoi An and is hard to find done well outside it.
+
+If you want something more filling, **bánh xèo** — a crispy turmeric-yellow rice pancake folded over pork, shrimp, and bean sprouts, eaten wrapped in rice paper with herbs and dipped in fish-sauce dressing — is a reliable order. Spring rolls and a bowl of **mì Quảng** (a turmeric-tinted noodle dish from the neighboring province, with a much smaller amount of broth than a typical noodle soup) round out a good first visit. Portions are sized for casual grazing, so two or three people can comfortably share four or five dishes.
 
 ## Getting there
 
-The address, 167 Trần Nhân Tông, sits outside the pedestrian-only core of the Ancient Town, in the Hội An Đông area — expect a short walk, bike ride, or cheap taxi/Grab from the Old Town's riverside strip rather than a spot you'll stumble into while wandering the lantern-lit streets. If you're staying near the Old Town, a bicycle (widely available free or for a few dollars a day from hotels) is the easiest way to reach it, since parking and street layout on the outskirts are simpler than navigating the walking zone. Confirm the exact route with your accommodation or a map app on the day, since street numbering in Hoi An can be inconsistent.
+The address, 167 Trần Nhân Tông, sits outside the pedestrian-only core of the Ancient Town, in the Hội An Đông area — expect a short walk, bike ride, or cheap taxi/Grab from the Old Town's riverside strip rather than a spot you'll stumble into while wandering the lantern-lit streets. If you're staying near the Old Town, a bicycle (widely available free or for a few dollars a day from hotels) is the easiest way to reach it, since parking and street layout on the outskirts are simpler than navigating the walking zone.
+
+Confirm the exact route with your accommodation or a map app on the day, since street numbering in Hoi An can be inconsistent.
 
 ## When to go
 
@@ -91,5 +95,7 @@ Go for lunch (around 11:30am–1pm) or an early dinner (5:30–7pm) to beat both
 
 ## Nearby & tips
 
-Because it sits a little outside the tourist core, Nhan's Kitchen is a good stop to combine with a bike ride past the rice paddies and back roads east of the Ancient Town, rather than treating it as a stand-alone destination. Portions and prices are geared toward casual, repeat local dining, so it suits travelers looking for an unpretentious meal rather than a special-occasion setting — no white tablecloths, just fast turnover and food cooked to order. As with most small family-run kitchens in Vietnam, cash is the safer bet even if card payment is offered, and it's worth double-checking current opening hours before heading out, since small local restaurants adjust seasonally.
+Because it sits a little outside the tourist core, Nhan's Kitchen is a good stop to combine with a bike ride past the rice paddies and back roads east of the Ancient Town, rather than treating it as a stand-alone destination. Portions and prices are geared toward casual, repeat local dining, so it suits travelers looking for an unpretentious meal rather than a special-occasion setting — no white tablecloths, just fast turnover and food cooked to order.
+
+As with most small family-run kitchens in Vietnam, cash is the safer bet even if card payment is offered, and it's worth double-checking current opening hours before heading out, since small local restaurants adjust seasonally.
 

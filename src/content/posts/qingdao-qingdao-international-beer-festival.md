@@ -66,11 +66,15 @@ eventRecurring: true
 
 ## Why go
 
-Qingdao's beer culture isn't a marketing gimmick — it's baked into the city's DNA. The Tsingtao Brewery was founded in 1903 under German colonial rule, and Qingdao remains the only Chinese city with a beer named after it recognized globally. The International Beer Festival, held nearly every summer since 1991, turns that heritage into a month-plus open-air party: rows of tented beer gardens, stage performances, fireworks on big nights, and a genuinely international guest list of breweries pouring alongside domestic giants like Tsingtao and Harbin. It's less a wine-tasting-style event and more a boisterous, all-ages carnival — food stalls, carnival rides, and a crowd that swells into the millions over its run.
+Qingdao's beer culture isn't a marketing gimmick — it's baked into the city's DNA. The Tsingtao Brewery was founded in 1903 under German colonial rule, and Qingdao remains the only Chinese city with a beer named after it recognized globally. The International Beer Festival, held nearly every summer since 1991, turns that heritage into a month-plus open-air party: rows of tented beer gardens, stage performances, fireworks on big nights, and a genuinely international guest list of breweries pouring alongside domestic giants like Tsingtao and Harbin.
+
+It's less a wine-tasting-style event and more a boisterous, all-ages carnival — food stalls, carnival rides, and a crowd that swells into the millions over its run.
 
 ## Getting there
 
-The festival's main venue in recent years has been the Beer City site in Chengyang District, on the western edge of the city near Jimo, purpose-built with permanent pavilion structures for the festival and other expos. It sits a fair distance from the old colonial core (Badaguan, Zhongshan Road), so budget 40–60 minutes by taxi or metro from central Qingdao. Qingdao Metro Line 1 and Line 8 have stations that connect toward the Chengyang area — check current line maps, as the metro network has expanded significantly in recent years and station names/interchange points shift with new openings. Ride-hailing apps or taxis remain the simplest option for evening return trips, since festival-night traffic and metro closing times can make last-minute exits slow.
+The festival's main venue in recent years has been the Beer City site in Chengyang District, on the western edge of the city near Jimo, purpose-built with permanent pavilion structures for the festival and other expos. It sits a fair distance from the old colonial core (Badaguan, Zhongshan Road), so budget 40–60 minutes by taxi or metro from central Qingdao.
+
+Qingdao Metro Line 1 and Line 8 have stations that connect toward the Chengyang area — check current line maps, as the metro network has expanded significantly in recent years and station names/interchange points shift with new openings. Ride-hailing apps or taxis remain the simplest option for evening return trips, since festival-night traffic and metro closing times can make last-minute exits slow.
 
 ## What to see and do
 
@@ -86,4 +90,6 @@ The 2026 edition is slated for mid-July through August, spanning several weeks r
 
 ## Nearby & tips
 
-Because exact opening dates, ticketed zones, and venue maps can shift year to year, always check the festival's official site or Qingdao's municipal tourism board announcements shortly before your trip — this guide reflects the mid-July–August 2026 window as currently announced, but gate times, specific brewery lineups, and any entry fees are not yet locked in this far out. Book accommodation in the Shinan or Shibei districts if you want easy access to the old town and beaches, accepting the longer commute to Beer City, or stay closer to Chengyang if the festival is your main priority. Cash and mobile payment (Alipay/WeChat Pay) are both common at vendor stalls, though foreign travelers should carry a backup international card or some cash since not all vendors accept foreign mobile wallets seamlessly.
+Because exact opening dates, ticketed zones, and venue maps can shift year to year, always check the festival's official site or Qingdao's municipal tourism board announcements shortly before your trip — this guide reflects the mid-July–August 2026 window as currently announced, but gate times, specific brewery lineups, and any entry fees are not yet locked in this far out. Book accommodation in the Shinan or Shibei districts if you want easy access to the old town and beaches, accepting the longer commute to Beer City, or stay closer to Chengyang if the festival is your main priority.
+
+Cash and mobile payment (Alipay/WeChat Pay) are both common at vendor stalls, though foreign travelers should carry a backup international card or some cash since not all vendors accept foreign mobile wallets seamlessly.

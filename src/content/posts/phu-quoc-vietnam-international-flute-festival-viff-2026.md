@@ -69,7 +69,9 @@ VIFF 2026 was billed as the first-ever international flute festival and competit
 
 ## Getting there
 
-Phu Quoc has its own international airport (Phu Quoc International Airport, code PQC), with direct flights from Ho Chi Minh City (about an hour), Hanoi, and a growing number of regional Asian hubs. From the mainland, an alternative is flying into Ho Chi Minh City's Tan Son Nhat and connecting onward, since Phu Quoc sits in the Gulf of Thailand off Vietnam's southern coast rather than being reachable by road. There's no rail link to the island; ferries run from Ha Tien and Rach Gia on the mainland to Phu Quoc's An Thoi or Duong Dong ferry terminals, but flying is faster and more reliable for a festival trip with a fixed schedule. Once on the island, taxis, Grab (Vietnam's ride-hailing app), and hotel shuttles are the practical way to move between accommodation, beaches, and festival venues — Phu Quoc has no metro or extensive public bus network.
+Phu Quoc has its own international airport (Phu Quoc International Airport, code PQC), with direct flights from Ho Chi Minh City (about an hour), Hanoi, and a growing number of regional Asian hubs. From the mainland, an alternative is flying into Ho Chi Minh City's Tan Son Nhat and connecting onward, since Phu Quoc sits in the Gulf of Thailand off Vietnam's southern coast rather than being reachable by road.
+
+There's no rail link to the island; ferries run from Ha Tien and Rach Gia on the mainland to Phu Quoc's An Thoi or Duong Dong ferry terminals, but flying is faster and more reliable for a festival trip with a fixed schedule. Once on the island, taxis, Grab (Vietnam's ride-hailing app), and hotel shuttles are the practical way to move between accommodation, beaches, and festival venues — Phu Quoc has no metro or extensive public bus network.
 
 ## What to expect at the festival
 

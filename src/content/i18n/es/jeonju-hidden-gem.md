@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jeonju-hidden-gem
-srcHash: 49bc151efab2
+srcHash: '39ba0507bb92'
 title: Una joya escondida en Jeonju
 description: Olvídate de los callejones abarrotados del centro de Jeonju Hanok Village y dirígete a la zona de Nammusil-gil y Jaman Mural Village, al este del núcleo del pueblo.
 quickAnswer: Olvídate de los callejones abarrotados del centro de Jeonju Hanok Village y dirígete en cambio a la zona de Nammusil-gil y Jaman Mural Village, al este del núcleo del pueblo, además de los tranquilos callejones residenciales que rodean las colinas de Omokdae e Imokdae. Estos lugares están a 10–15 minutos a pie del conjunto hanok principal, pero reciben una fracción del tráfico peatonal, y es ahí donde encontrarás casas de té tradicionales en funcionamiento, pequeños talleres de papel hanji y vistas panorámicas de los tejados de tejas sin las colas para comprar entradas.
@@ -24,7 +24,9 @@ Jeonju Hanok Village atrae a las multitudes hacia sus vías centrales, pero el d
 
 ## Cómo llegar
 
-Jeonju se alcanza más fácilmente en tren (KTX o ITX desde la Estación de Yongsan en Seúl, aproximadamente 2–2.5 horas) o en autobús interurbano desde la Terminal Central City de Seúl (alrededor de 3 horas). Desde la Estación de Jeonju o la terminal de autobuses, los autobuses urbanos (79, 79-1 y otros varios) llegan a la zona de Hanok Village en unos 15–20 minutos; un taxi cuesta aproximadamente ₩6.000–8.000 según el tráfico. Jeonju no tiene sistema de metro propio, así que los autobuses y los taxis son la opción habitual. Una vez cerca del pueblo, todo lo descrito a continuación se puede recorrer a pie: los rincones ocultos están, literalmente, a pocas calles de la zona de la puerta principal, cerca de la Puerta Pungnammun.
+Jeonju se alcanza más fácilmente en tren (KTX o ITX desde la Estación de Yongsan en Seúl, aproximadamente 2–2.5 horas) o en autobús interurbano desde la Terminal Central City de Seúl (alrededor de 3 horas). Desde la Estación de Jeonju o la terminal de autobuses, los autobuses urbanos (79, 79-1 y otros varios) llegan a la zona de Hanok Village en unos 15–20 minutos; un taxi cuesta aproximadamente ₩6.000–8.000 según el tráfico.
+
+Jeonju no tiene sistema de metro propio, así que los autobuses y los taxis son la opción habitual. Una vez cerca del pueblo, todo lo descrito a continuación se puede recorrer a pie: los rincones ocultos están, literalmente, a pocas calles de la zona de la puerta principal, cerca de la Puerta Pungnammun.
 
 ## Qué ver y hacer fuera de la zona principal
 
@@ -38,8 +40,12 @@ No te pierdas el **Mercado Nambu (Nambu Market)**, un mercado tradicional a poca
 
 ## Comida y bebida que vale la pena buscar
 
-Jeonju es reconocida como la cuna del **bibimbap**, y el plato aquí suele incluir guarniciones más elaboradas —carne de res cruda, piñones y un aderezo con un marcado sabor a aceite de sésamo— que las versiones que se encuentran en otras partes de Corea. En lugar de los restaurantes orientados al turista que están directamente en la calle principal, las calles laterales, una o dos manzanas atrás, suelen ofrecer la misma calidad a precios más razonables. Busca también el **kongnamul gukbap** (sopa de brotes de soja con arroz), una especialidad de Jeonju que a menudo se come como remedio para la resaca, y el **moju**, una bebida de arroz suavemente alcohólica y especiada con canela, propia de la región.
+Jeonju es reconocida como la cuna del **bibimbap**, y el plato aquí suele incluir guarniciones más elaboradas —carne de res cruda, piñones y un aderezo con un marcado sabor a aceite de sésamo— que las versiones que se encuentran en otras partes de Corea. En lugar de los restaurantes orientados al turista que están directamente en la calle principal, las calles laterales, una o dos manzanas atrás, suelen ofrecer la misma calidad a precios más razonables.
+
+Busca también el **kongnamul gukbap** (sopa de brotes de soja con arroz), una especialidad de Jeonju que a menudo se come como remedio para la resaca, y el **moju**, una bebida de arroz suavemente alcohólica y especiada con canela, propia de la región.
 
 ## Cuándo ir y consejos prácticos
 
-Si es posible, visita entre semana por la mañana: los fines de semana y los días festivos coreanos traen multitudes considerables incluso a los rincones "ocultos". La primavera (abril) y el otoño (octubre–noviembre) ofrecen el mejor clima para las caminatas por las colinas hacia Omokdae y Jaman Village. Reserva medio día para recorrer con calma los callejones tranquilos, los miradores en las colinas y disfrutar de una comida en el mercado; añade otra hora si quieres probar un taller de hanji. El calzado cómodo importa más de lo habitual aquí, debido a los escalones de piedra y los callejones en pendiente.
+Si es posible, visita entre semana por la mañana: los fines de semana y los días festivos coreanos traen multitudes considerables incluso a los rincones "ocultos". La primavera (abril) y el otoño (octubre–noviembre) ofrecen el mejor clima para las caminatas por las colinas hacia Omokdae y Jaman Village. Reserva medio día para recorrer con calma los callejones tranquilos, los miradores en las colinas y disfrutar de una comida en el mercado; añade otra hora si quieres probar un taller de hanji.
+
+El calzado cómodo importa más de lo habitual aquí, debido a los escalones de piedra y los callejones en pendiente.

@@ -79,7 +79,9 @@ draft: false
 
 ## Why go
 
-The L-shaped stone hall of the Egyptian Bazaar has been selling spice since 1664, built as part of the New Mosque complex to fund its upkeep. You smell it before you see it — the doorway near Eminönü exhales a wall of cumin, sumac, dried mint, and rose petals that hits you the second you step off the sunny cobblestones and into the vaulted shade. The ceiling arches overhead in worn brick and painted plaster, and the light drops to a dim, coppery gold. Stalls run in tight rows on both sides, mounds of spice piled into pyramids of ochre, rust, and green, jars of Turkish delight stacked to the rafters, and strings of dried peppers and eggplant swinging from the awnings like party bunting.
+The L-shaped stone hall of the Egyptian Bazaar has been selling spice since 1664, built as part of the New Mosque complex to fund its upkeep. You smell it before you see it — the doorway near Eminönü exhales a wall of cumin, sumac, dried mint, and rose petals that hits you the second you step off the sunny cobblestones and into the vaulted shade.
+
+The ceiling arches overhead in worn brick and painted plaster, and the light drops to a dim, coppery gold. Stalls run in tight rows on both sides, mounds of spice piled into pyramids of ochre, rust, and green, jars of Turkish delight stacked to the rafters, and strings of dried peppers and eggplant swinging from the awnings like party bunting.
 
 This isn't an undiscovered corner of the city — with a 4.5-star rating built on nearly 200,000 reviews, it's one of the most visited market halls in Istanbul, and it feels that way most afternoons. But the building itself, the vendors' patter, and the actual commerce happening around you are real and worth the crowd.
 
@@ -89,7 +91,9 @@ The bazaar sits in Eminönü, right at the base of the Golden Horn, next to the 
 
 ## What to see and buy
 
-Spice stalls dominate, but look past the tourist-facing saffron tins for the smaller counters selling Turkish coffee ground to order, dried figs and apricots strung on twine, and blocks of lokum (Turkish delight) cut fresh off the tray — pistachio and rosewater are the classic combination. Several corners specialize in caviar-style fish roe and cured pastırma, a reminder this was originally a provisions market, not a souvenir strip. Textile and ceramic stalls cluster toward the quieter side arms of the L, with hand-painted Iznik-style tiles and evil-eye trinkets in every size. Step outside the bazaar's western end and you're in a warren of side streets selling cheese, olives, and coffee equipment at local, non-tourist prices — often the better shopping is here, just outside the covered hall.
+Spice stalls dominate, but look past the tourist-facing saffron tins for the smaller counters selling Turkish coffee ground to order, dried figs and apricots strung on twine, and blocks of lokum (Turkish delight) cut fresh off the tray — pistachio and rosewater are the classic combination. Several corners specialize in caviar-style fish roe and cured pastırma, a reminder this was originally a provisions market, not a souvenir strip.
+
+Textile and ceramic stalls cluster toward the quieter side arms of the L, with hand-painted Iznik-style tiles and evil-eye trinkets in every size. Step outside the bazaar's western end and you're in a warren of side streets selling cheese, olives, and coffee equipment at local, non-tourist prices — often the better shopping is here, just outside the covered hall.
 
 ## When to go
 
@@ -97,5 +101,9 @@ The market keeps the same hours daily, 8am to 7:30pm, seven days a week, so ther
 
 ## How to visit like a local
 
-Go right at opening, 8am, on a weekday if you can — the vendors are setting up, the smell of fresh coffee grinding drifts from the roasters, and you'll have the arched hall nearly to yourself for the first hour. Cash (Turkish lira) is still preferred at most stalls and gives you real room to negotiate; card machines exist but vendors quote friendlier prices for cash, and haggling here is expected, not rude — a polite counter-offer at 60–70% of the asking price is normal practice, not an insult. Nobody tips in a market stall; a firm handshake and a "teşekkürler" (thank you) closes the deal. The tourist mistake is buying the first vibrant display of saffron or "Turkish Viagra" spice mix you see near the entrance — those front-row stalls charge a premium for foot traffic. Walk deeper in, compare a few counters, and taste before you buy; most vendors will offer a sample of lokum or tea without any pressure to purchase. Budget 45 minutes for a walk-through, 75 minutes if you plan to buy and chat with sellers, and combine it with the New Mosque next door or a tea break at one of the small stools set up just outside the market's harbor-side entrance, where you can watch the ferries come in.
+Go right at opening, 8am, on a weekday if you can — the vendors are setting up, the smell of fresh coffee grinding drifts from the roasters, and you'll have the arched hall nearly to yourself for the first hour. Cash (Turkish lira) is still preferred at most stalls and gives you real room to negotiate; card machines exist but vendors quote friendlier prices for cash, and haggling here is expected, not rude — a polite counter-offer at 60–70% of the asking price is normal practice, not an insult.
+
+Nobody tips in a market stall; a firm handshake and a "teşekkürler" (thank you) closes the deal. The tourist mistake is buying the first vibrant display of saffron or "Turkish Viagra" spice mix you see near the entrance — those front-row stalls charge a premium for foot traffic. Walk deeper in, compare a few counters, and taste before you buy; most vendors will offer a sample of lokum or tea without any pressure to purchase.
+
+Budget 45 minutes for a walk-through, 75 minutes if you plan to buy and chat with sellers, and combine it with the New Mosque next door or a tea break at one of the small stools set up just outside the market's harbor-side entrance, where you can watch the ferries come in.
 

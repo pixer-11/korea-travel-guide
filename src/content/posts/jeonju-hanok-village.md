@@ -63,7 +63,9 @@ Jeonju has no subway system, so the standard route is by KTX or SRT high-speed r
 
 ## What to see and eat
 
-Start at Gyeonggijeon Shrine, the walled royal compound with quiet courtyards shaded by old pine and gingko trees — a good introduction before the crowds thicken on the main streets. From there, wander toward Omokdae and Imokdae, hillside pavilions with panoramic rooftop views over the sea of curved tiled roofs; the climb to Omokdae takes about 10–15 minutes and is worth doing near sunset. Jeondong Catholic Cathedral, a Romanesque brick building from 1914, sits at the village's edge and makes a striking contrast to the surrounding hanok — it's also said to be near the site where early Korean Catholic martyrs were executed.
+Start at Gyeonggijeon Shrine, the walled royal compound with quiet courtyards shaded by old pine and gingko trees — a good introduction before the crowds thicken on the main streets. From there, wander toward Omokdae and Imokdae, hillside pavilions with panoramic rooftop views over the sea of curved tiled roofs; the climb to Omokdae takes about 10–15 minutes and is worth doing near sunset.
+
+Jeondong Catholic Cathedral, a Romanesque brick building from 1914, sits at the village's edge and makes a striking contrast to the surrounding hanok — it's also said to be near the site where early Korean Catholic martyrs were executed.
 
 Food is central to any visit. Jeonju bibimbap is the signature dish, distinguished from other regional versions by the use of raw beef, bean sprouts, and a rich sesame-oil-laced rice base often served in a hot stone pot (dolsot). Look for it at the small family-run restaurants lining the side streets rather than the busiest main strip. Other local specialties worth seeking out include kongnamul gukbap (bean sprout soup with rice), makgeolli served in brass kettles with an array of complimentary side dishes at makgeolli-town-style taverns, and street snacks like PNB-style hollow bread ("choco pie" origin story bakeries) and skewered rice cakes along the main pedestrian lane.
 

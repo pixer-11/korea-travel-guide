@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: andong-hahoe-folk-village
-srcHash: 25f42eed5ce1
+srcHash: 'b363c567c194'
 title: 'Aldea Folclórica de Hahoe, Andong: Guía de viaje'
 description: La Aldea Folclórica de Hahoe (Andong Hahoe Folk Village) es un pueblo de la era Joseon aún habitado, situado en un meandro en herradura del río Nakdong.
 quickAnswer: La Aldea Folclórica de Hahoe (Andong Hahoe Folk Village) es un pueblo de la era Joseon aún habitado, situado en un meandro en herradura del río Nakdong. Lo mejor es dedicarle medio día para ver las casas tradicionales con tejado de tejas y de paja, el Museo de Máscaras de Hahoe (Hahoe Mask Museum) y, si coincide con el horario, una función de la danza enmascarada Hahoe Byeolsingut. Compra la entrada combinada de aldea y lanzadera (shuttle) en la entrada, calcula entre 2 y 3 horas, y ve un fin de semana entre primavera y otoño para poder ver las funciones de danza enmascarada al aire libre.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Hahoe ("el río que da la vuelta") se sitúa dentro de un meandro de casi 360 grados del río Nakdong, un foso natural que ha mantenido a la aldea físicamente aislada durante más de 600 años. Es Patrimonio Mundial de la UNESCO (declarada en 2010 junto con la Aldea de Yangdong, Yangdong Village) y, a diferencia de muchas "aldeas folclóricas" restauradas en Corea, esta está realmente habitada: descendientes del clan Pungsan Ryu todavía ocupan muchos de los hanok con tejado de tejas y las casas de campo con techo de paja. La aldea es inseparable del patrimonio coreano de danza enmascarada: el Hahoe Byeolsingut Talnori (un drama de danza enmascarada de origen chamánico) se originó aquí, y las máscaras de madera de Hahoe están reconocidas como Tesoros Nacionales.
+Hahoe ("el río que da la vuelta") se sitúa dentro de un meandro de casi 360 grados del río Nakdong, un foso natural que ha mantenido a la aldea físicamente aislada durante más de 600 años. Es Patrimonio Mundial de la UNESCO (declarada en 2010 junto con la Aldea de Yangdong, Yangdong Village) y, a diferencia de muchas "aldeas folclóricas" restauradas en Corea, esta está realmente habitada: descendientes del clan Pungsan Ryu todavía ocupan muchos de los hanok con tejado de tejas y las casas de campo con techo de paja.
+
+La aldea es inseparable del patrimonio coreano de danza enmascarada: el Hahoe Byeolsingut Talnori (un drama de danza enmascarada de origen chamánico) se originó aquí, y las máscaras de madera de Hahoe están reconocidas como Tesoros Nacionales.
 
 ## Cómo llegar
 
-La Aldea Folclórica de Hahoe se encuentra en 186 Jeonseo-ro, Pungcheon-myeon, a unos 24 km al oeste del centro de Andong. Desde la Terminal de Autobuses de Andong (Andong Bus Terminal) o la Estación de Andong (Andong Station), el autobús urbano 46 va directamente a la aldea varias veces al día; el trayecto dura aproximadamente 40-50 minutos. Un taxi desde el centro de Andong tarda unos 30 minutos. Si llegas desde Seúl, la ruta más habitual es tomar el KTX hasta la Estación de Andong y luego el autobús local o un taxi; no hay línea ferroviaria directa hasta la propia aldea. Al llegar a la zona de entrada, los coches y autobuses se detienen en un centro de visitantes, y desde allí se hace trasbordo a una breve lanzadera (shuttle, incluida en la mayoría de las combinaciones de entrada) que te lleva el último tramo hasta el núcleo de la aldea, ya que no se permite el acceso de vehículos privados en su interior.
+La Aldea Folclórica de Hahoe se encuentra en 186 Jeonseo-ro, Pungcheon-myeon, a unos 24 km al oeste del centro de Andong. Desde la Terminal de Autobuses de Andong (Andong Bus Terminal) o la Estación de Andong (Andong Station), el autobús urbano 46 va directamente a la aldea varias veces al día; el trayecto dura aproximadamente 40-50 minutos. Un taxi desde el centro de Andong tarda unos 30 minutos.
+
+Si llegas desde Seúl, la ruta más habitual es tomar el KTX hasta la Estación de Andong y luego el autobús local o un taxi; no hay línea ferroviaria directa hasta la propia aldea. Al llegar a la zona de entrada, los coches y autobuses se detienen en un centro de visitantes, y desde allí se hace trasbordo a una breve lanzadera (shuttle, incluida en la mayoría de las combinaciones de entrada) que te lleva el último tramo hasta el núcleo de la aldea, ya que no se permite el acceso de vehículos privados en su interior.
 
 ## Qué ver y hacer
 
@@ -43,4 +47,6 @@ La primavera (abril-mayo) y el otoño (octubre-noviembre) traen el mejor clima y
 
 ## Cerca de allí y consejos
 
-Combina la visita con el **Museo de la Aldea Folclórica de Andong (Andong Folk Village Museum)** y la **Presa de Andong (Andong Dam)**, ambos a poca distancia en coche, o continúa hasta el **Templo Bongjeongsa (Bongjeongsa Temple)**, uno de los edificios de madera más antiguos de Corea, a unos 30-40 minutos. Entre las especialidades locales que vale la pena probar en el pueblo de Andong están el *heotjesatbap* (bibimbap al estilo de los ritos ancestrales) y el *Andong jjimdak* (pollo estofado con fideos y verduras). Usa calzado adecuado para senderos sin pavimentar, y ten en cuenta que varias casas son residencias privadas: se espera una visita respetuosa y silenciosa desde los caminos designados, en lugar de entrar sin invitación a los patios.
+Combina la visita con el **Museo de la Aldea Folclórica de Andong (Andong Folk Village Museum)** y la **Presa de Andong (Andong Dam)**, ambos a poca distancia en coche, o continúa hasta el **Templo Bongjeongsa (Bongjeongsa Temple)**, uno de los edificios de madera más antiguos de Corea, a unos 30-40 minutos. Entre las especialidades locales que vale la pena probar en el pueblo de Andong están el *heotjesatbap* (bibimbap al estilo de los ritos ancestrales) y el *Andong jjimdak* (pollo estofado con fideos y verduras).
+
+Usa calzado adecuado para senderos sin pavimentar, y ten en cuenta que varias casas son residencias privadas: se espera una visita respetuosa y silenciosa desde los caminos designados, en lugar de entrar sin invitación a los patios.

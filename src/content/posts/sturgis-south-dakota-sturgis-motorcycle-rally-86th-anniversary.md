@@ -58,7 +58,9 @@ eventRecurring: true
 
 ## Why go
 
-Sturgis is the largest motorcycle rally on the planet, and the 2026 edition marks its 86th anniversary with the theme "Sturgis Salutes America." What began in 1938 as a small race organized by the Jackpine Gypsies motorcycle club has grown into a ten-day, half-a-million-strong takeover of a South Dakota town whose year-round population is only a few thousand. Main Street becomes a wall-to-wall procession of custom choppers and touring bikes, vendor rows sell leather and chrome for blocks, and national touring acts play nightly at venues scattered across the Black Hills. Beyond the spectacle, the surrounding landscape — granite peaks, pine forests, and some of the best motorcycling roads in the country — is arguably the real headliner.
+Sturgis is the largest motorcycle rally on the planet, and the 2026 edition marks its 86th anniversary with the theme "Sturgis Salutes America." What began in 1938 as a small race organized by the Jackpine Gypsies motorcycle club has grown into a ten-day, half-a-million-strong takeover of a South Dakota town whose year-round population is only a few thousand. Main Street becomes a wall-to-wall procession of custom choppers and touring bikes, vendor rows sell leather and chrome for blocks, and national touring acts play nightly at venues scattered across the Black Hills.
+
+Beyond the spectacle, the surrounding landscape — granite peaks, pine forests, and some of the best motorcycling roads in the country — is arguably the real headliner.
 
 ## When it happens
 
@@ -66,7 +68,9 @@ The 2026 rally runs **August 7–16**. That ten-day window is traditional for St
 
 ## Getting there
 
-Rapid City Regional Airport (RAP) is the closest major airport, about a 25–30 minute drive south of Sturgis via I-90. It's the practical gateway for anyone flying in rather than riding. If you're driving your own bike, Sturgis sits directly on Interstate 90 in western South Dakota, making it an easy stop for cross-country riders coming from Wyoming, Montana, or the Midwest. Many attendees also stage in Rapid City or Deadwood (15 minutes away via US-14A through Boulder Canyon) and ride into Sturgis daily, since in-town lodging books out fast and camping options fill early.
+Rapid City Regional Airport (RAP) is the closest major airport, about a 25–30 minute drive south of Sturgis via I-90. It's the practical gateway for anyone flying in rather than riding. If you're driving your own bike, Sturgis sits directly on Interstate 90 in western South Dakota, making it an easy stop for cross-country riders coming from Wyoming, Montana, or the Midwest.
+
+Many attendees also stage in Rapid City or Deadwood (15 minutes away via US-14A through Boulder Canyon) and ride into Sturgis daily, since in-town lodging books out fast and camping options fill early.
 
 ## What to see and do
 
@@ -81,4 +85,6 @@ Spend at least three to four days if you want to combine rally atmosphere with a
 
 ## When to go and practical tips
 
-Early in the ten-day run (the first two or three days) tends to be less crowded than the middle weekend, which is typically the peak. Temperatures in the Black Hills in August commonly reach the 80s–90s°F by day and cool markedly at night, so layered riding gear matters. Lodging in Sturgis itself sells out roughly a year in advance for rally week — Rapid City and Deadwood are reliable fallbacks with more inventory. Because prices for camping, tickets, and vendor goods fluctuate year to year and venue-by-venue, treat any number you see online as approximate and verify current rates and event access directly through the official Sturgis Motorcycle Rally website before finalizing plans.
+Early in the ten-day run (the first two or three days) tends to be less crowded than the middle weekend, which is typically the peak. Temperatures in the Black Hills in August commonly reach the 80s–90s°F by day and cool markedly at night, so layered riding gear matters. Lodging in Sturgis itself sells out roughly a year in advance for rally week — Rapid City and Deadwood are reliable fallbacks with more inventory.
+
+Because prices for camping, tickets, and vendor goods fluctuate year to year and venue-by-venue, treat any number you see online as approximate and verify current rates and event access directly through the official Sturgis Motorcycle Rally website before finalizing plans.

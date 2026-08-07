@@ -53,7 +53,9 @@ eventRecurring: false
 
 ## Why this show matters
 
-Lee Hi, the South Korean singer known for her smoky, soul-inflected vocals on tracks like "1, 2, 3, 4," "Breathe," and "Rose," is bringing her *808 HI Recordings* world tour to Indonesia for the very first time. This Jakarta date marks her first-ever solo concert in the country, which is a notable milestone for her local fanbase after years of only catching her at group showcases or festival lineups. Joining her is special guest DOK2, a veteran Korean rapper and producer, which suggests the night will lean into a hip-hop-and-R&B-flavored set rather than a straight pop showcase. For fans of Korean R&B and AOMG/hip-hop adjacent acts, this is a rare chance to see both artists on Indonesian soil.
+Lee Hi, the South Korean singer known for her smoky, soul-inflected vocals on tracks like "1, 2, 3, 4," "Breathe," and "Rose," is bringing her *808 HI Recordings* world tour to Indonesia for the very first time. This Jakarta date marks her first-ever solo concert in the country, which is a notable milestone for her local fanbase after years of only catching her at group showcases or festival lineups.
+
+Joining her is special guest DOK2, a veteran Korean rapper and producer, which suggests the night will lean into a hip-hop-and-R&B-flavored set rather than a straight pop showcase. For fans of Korean R&B and AOMG/hip-hop adjacent acts, this is a rare chance to see both artists on Indonesian soil.
 
 ## Where and when
 
@@ -63,7 +65,9 @@ Because tour dates, doors times, and even venues can shift in the lead-up to a s
 
 ## Getting to Bengkel Hall, SCBD
 
-SCBD sits along Jalan Jenderal Sudirman, one of Jakarta's main arteries, and is well served by the city's transit options. The Jakarta MRT's Blue Line has stations directly in the district — ASEAN and Senayan/Istora stations are the closest, both putting you within a short walk or quick ride-hail trip of the SCBD core. Given Jakarta's notorious traffic, especially on a weekend evening, budget extra time if arriving by car or app-based ride service (Gojek and Grab are the standard options locals use). Taxis and ride-hailing are plentiful in this district since it's a business and nightlife hub, so getting out after the show is easier than in outer areas of the city.
+SCBD sits along Jalan Jenderal Sudirman, one of Jakarta's main arteries, and is well served by the city's transit options. The Jakarta MRT's Blue Line has stations directly in the district — ASEAN and Senayan/Istora stations are the closest, both putting you within a short walk or quick ride-hail trip of the SCBD core. Given Jakarta's notorious traffic, especially on a weekend evening, budget extra time if arriving by car or app-based ride service (Gojek and Grab are the standard options locals use).
+
+Taxis and ride-hailing are plentiful in this district since it's a business and nightlife hub, so getting out after the show is easier than in outer areas of the city.
 
 ## What to expect from the set
 
@@ -75,4 +79,8 @@ Ticket pricing, seating categories, and on-sale dates were not specified in the 
 
 ## How to visit like a local
 
-Jakarta concertgoers tend to arrive in waves rather than queue for hours outside — unless it's a general-admission floor show, in which case early birders start lining up a few hours ahead to secure spots near the stage. If Bengkel Hall runs a numbered or zoned floor system, check your ticket category ahead of time rather than assuming first-come-first-served. Cashless payment is the norm at Jakarta venues now — expect QRIS (Indonesia's universal QR payment system) or card readers at merchandise booths, so carrying some cash as backup is still wise in case terminals are slow. Traffic around SCBD gets heavy after 5 p.m. on weekdays and weekends alike, so locals heading to shows here often use the MRT to Senayan or ASEAN station and finish the last stretch on foot or by a short Gojek ride rather than driving in directly. A common visitor mistake is underestimating how spread out SCBD is — Bengkel Hall isn't inside the biggest mall complexes, so confirm the exact building entrance on a map app rather than assuming it's attached to a shopping center. Finally, always cross-check the show date, doors time, and any age or ID requirements against the official Lee Hi or promoter announcement shortly before traveling, since Indonesian concert logistics can be finalized close to the date.
+Jakarta concertgoers tend to arrive in waves rather than queue for hours outside — unless it's a general-admission floor show, in which case early birders start lining up a few hours ahead to secure spots near the stage. If Bengkel Hall runs a numbered or zoned floor system, check your ticket category ahead of time rather than assuming first-come-first-served. Cashless payment is the norm at Jakarta venues now — expect QRIS (Indonesia's universal QR payment system) or card readers at merchandise booths, so carrying some cash as backup is still wise in case terminals are slow.
+
+Traffic around SCBD gets heavy after 5 p.m. on weekdays and weekends alike, so locals heading to shows here often use the MRT to Senayan or ASEAN station and finish the last stretch on foot or by a short Gojek ride rather than driving in directly. A common visitor mistake is underestimating how spread out SCBD is — Bengkel Hall isn't inside the biggest mall complexes, so confirm the exact building entrance on a map app rather than assuming it's attached to a shopping center.
+
+Finally, always cross-check the show date, doors time, and any age or ID requirements against the official Lee Hi or promoter announcement shortly before traveling, since Indonesian concert logistics can be finalized close to the date.

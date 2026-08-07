@@ -46,15 +46,21 @@ aiGenerated: true
 
 ## Why go
 
-Jumunjin Lighthouse sits on a modest bluff overlooking Jumunjin Port, one of Gangwon-do's busiest fishing harbors, roughly 25 minutes north of downtown Gangneung. The lighthouse itself is unassuming — a squat white tower first built in 1918 to guide fishing boats along Korea's east coast — but the real draw is the panorama from its base: a sweeping view of the harbor's fishing fleet, the open East Sea, and, on clear days, the rocky coastline stretching toward Sokcho. It's become a minor pop-culture pilgrimage spot too, since the surrounding cliffs and staircase appeared in the hit K-drama "Goblin" (Guardian: The Lonely and Great God), which has kept a steady stream of visitors climbing the hill even though the lighthouse predates the show by a century.
+Jumunjin Lighthouse sits on a modest bluff overlooking Jumunjin Port, one of Gangwon-do's busiest fishing harbors, roughly 25 minutes north of downtown Gangneung. The lighthouse itself is unassuming — a squat white tower first built in 1918 to guide fishing boats along Korea's east coast — but the real draw is the panorama from its base: a sweeping view of the harbor's fishing fleet, the open East Sea, and, on clear days, the rocky coastline stretching toward Sokcho.
+
+It's become a minor pop-culture pilgrimage spot too, since the surrounding cliffs and staircase appeared in the hit K-drama "Goblin" (Guardian: The Lonely and Great God), which has kept a steady stream of visitors climbing the hill even though the lighthouse predates the show by a century.
 
 ## Getting there
 
-The address is 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do. From Gangneung's Intercity Bus Terminal or Gangneung Station, the most reliable option is a taxi (about 20–25 minutes, roughly ₩20,000–25,000 depending on traffic) or driving yourself, since parking is available near the base of the hill. City buses do run from central Gangneung to Jumunjin-eup, but the lighthouse hill itself sits a steep 10–15 minute walk uphill from the nearest bus stop, so budget extra time if you're relying on public transit. Many visitors combine the trip with a rental car day covering Gyeongpo Beach and Anmok Beach on the way north.
+The address is 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do. From Gangneung's Intercity Bus Terminal or Gangneung Station, the most reliable option is a taxi (about 20–25 minutes, roughly ₩20,000–25,000 depending on traffic) or driving yourself, since parking is available near the base of the hill. City buses do run from central Gangneung to Jumunjin-eup, but the lighthouse hill itself sits a steep 10–15 minute walk uphill from the nearest bus stop, so budget extra time if you're relying on public transit.
+
+Many visitors combine the trip with a rental car day covering Gyeongpo Beach and Anmok Beach on the way north.
 
 ## What to see and do
 
-The main path is a short, well-paved staircase and walkway leading up from the port to the lighthouse platform — expect 5–10 minutes of climbing, more if you stop for photos. At the top, the lighthouse compound has a small deck area and photo spots overlooking the breakwater and fishing boats below. Look for the "Goblin" filming marker near the cliffside staircase, a popular photo backdrop for drama fans. Down at sea level, Jumunjin Port itself is worth a wander before or after the climb: this is one of the largest squid and fish landing ports on the east coast, and the adjacent Jumunjin Fish Market sells fresh and dried seafood, including the region's well-known dried squid (ojingeo) and semi-dried fish (gwamegi in season). Grabbing a bowl of fish stew or fresh sashimi at one of the harbor-front restaurants pairs naturally with the visit.
+The main path is a short, well-paved staircase and walkway leading up from the port to the lighthouse platform — expect 5–10 minutes of climbing, more if you stop for photos. At the top, the lighthouse compound has a small deck area and photo spots overlooking the breakwater and fishing boats below. Look for the "Goblin" filming marker near the cliffside staircase, a popular photo backdrop for drama fans.
+
+Down at sea level, Jumunjin Port itself is worth a wander before or after the climb: this is one of the largest squid and fish landing ports on the east coast, and the adjacent Jumunjin Fish Market sells fresh and dried seafood, including the region's well-known dried squid (ojingeo) and semi-dried fish (gwamegi in season). Grabbing a bowl of fish stew or fresh sashimi at one of the harbor-front restaurants pairs naturally with the visit.
 
 ## When to go
 
@@ -62,4 +68,6 @@ Late afternoon into sunset is the ideal window — the lighthouse faces the wate
 
 ## Nearby & tips
 
-There's no admission fee to walk up to the lighthouse, and the site is generally open to visitors year-round, though it's worth confirming current access hours locally since coastal facilities occasionally adjust for maintenance or weather. Beyond the port and market, Jumunjin Beach is a short drive away and offers a quieter alternative to the more crowded Gyeongpo Beach closer to central Gangneung. If time allows, the drive between Jumunjin and downtown Gangneung passes several smaller fishing villages worth a quick stop for coffee — this stretch of coastline has become known for scenic cafés with ocean-facing windows. Wear shoes with good grip for the staircase, especially after rain, and check the tide and weather forecast if you plan to combine the lighthouse with beach time.
+There's no admission fee to walk up to the lighthouse, and the site is generally open to visitors year-round, though it's worth confirming current access hours locally since coastal facilities occasionally adjust for maintenance or weather. Beyond the port and market, Jumunjin Beach is a short drive away and offers a quieter alternative to the more crowded Gyeongpo Beach closer to central Gangneung.
+
+If time allows, the drive between Jumunjin and downtown Gangneung passes several smaller fishing villages worth a quick stop for coffee — this stretch of coastline has become known for scenic cafés with ocean-facing windows. Wear shoes with good grip for the staircase, especially after rain, and check the tide and weather forecast if you plan to combine the lighthouse with beach time.

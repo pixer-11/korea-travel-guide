@@ -67,19 +67,25 @@ draft: false
 
 ## Why go
 
-The Lost World Castle sits on the southern slope of Mount Merapi, one of Indonesia's most active volcanoes, and its stone-fort architecture is a deliberate photo-op: crenellated towers, a broad viewing terrace, and a giant dragon-skull-like doorway built from volcanic rock. The site doubles as a small geology visitor center, with exhibits explaining the material that reshaped this landscape after Merapi's major 2010 eruption — much of the surrounding area was buried in pyroclastic flow, and the "castle" itself was constructed partly from recovered volcanic stone. On clear mornings the summit of Merapi is visible from the ramparts, which is the real draw beyond the Instagram backdrop.
+The Lost World Castle sits on the southern slope of Mount Merapi, one of Indonesia's most active volcanoes, and its stone-fort architecture is a deliberate photo-op: crenellated towers, a broad viewing terrace, and a giant dragon-skull-like doorway built from volcanic rock. The site doubles as a small geology visitor center, with exhibits explaining the material that reshaped this landscape after Merapi's major 2010 eruption — much of the surrounding area was buried in pyroclastic flow, and the "castle" itself was constructed partly from recovered volcanic stone.
+
+On clear mornings the summit of Merapi is visible from the ramparts, which is the real draw beyond the Instagram backdrop.
 
 With a 4.3 rating across more than 22,000 reviews, it's firmly on the well-trodden Yogyakarta itinerary rather than an undiscovered spot — plan around that rather than expecting solitude.
 
 ## Getting there
 
-The address is Jl. Petung Merapi, Petung, Kepuharjo, Kecamatan Cangkringan, Kabupaten Sleman — roughly 25-30km north of Yogyakarta's city center and Malioboro Street, and about 45-60 minutes by car or motorbike depending on traffic and which route you take up the slope. There's no direct public bus route; most visitors arrive by rented motorbike, private car, ride-hailing app (availability can be patchy this far up the volcano, so it's often easier to arrange a return trip in advance), or as part of an organized Merapi tour package. Many day tours bundle Lost World Castle with the Merapi Volcano Jeep Tour, which departs from villages like Kaliurang or Kinahrejo closer to the base.
+The address is Jl. Petung Merapi, Petung, Kepuharjo, Kecamatan Cangkringan, Kabupaten Sleman — roughly 25-30km north of Yogyakarta's city center and Malioboro Street, and about 45-60 minutes by car or motorbike depending on traffic and which route you take up the slope. There's no direct public bus route; most visitors arrive by rented motorbike, private car, ride-hailing app (availability can be patchy this far up the volcano, so it's often easier to arrange a return trip in advance), or as part of an organized Merapi tour package.
+
+Many day tours bundle Lost World Castle with the Merapi Volcano Jeep Tour, which departs from villages like Kaliurang or Kinahrejo closer to the base.
 
 Roads narrow and steepen as you approach Cangkringan, so allow extra time, particularly after rain when the volcanic soil can make surfaces slick.
 
 ## What to see and do
 
-Beyond the main fort structure and its photo terraces, look for the geology displays that explain lahar (volcanic mudflow) and pyroclastic material — useful context if you're also visiting the nearby Merapi Museum or the Kaliadem bunker, where villagers historically sheltered during eruptions. The upper terraces give the best unobstructed views toward the summit; go up rather than lingering only at ground level. There are multiple themed photo spots throughout the grounds (the entrance dragon skull, castle walls, viewing towers), so budget time to walk the full site rather than just the entrance area.
+Beyond the main fort structure and its photo terraces, look for the geology displays that explain lahar (volcanic mudflow) and pyroclastic material — useful context if you're also visiting the nearby Merapi Museum or the Kaliadem bunker, where villagers historically sheltered during eruptions. The upper terraces give the best unobstructed views toward the summit; go up rather than lingering only at ground level.
+
+There are multiple themed photo spots throughout the grounds (the entrance dragon skull, castle walls, viewing towers), so budget time to walk the full site rather than just the entrance area.
 
 Food stalls and warungs near the entrance sell simple Indonesian staples and drinks — treat this as a rest stop rather than a culinary destination.
 
@@ -89,7 +95,9 @@ Aim for early morning, ideally soon after opening, when Merapi's peak is least l
 
 ## How to visit like a local
 
-Because this is a heavily visited attraction rather than a quiet find, the practical goal is beating the crowds, not avoiding them entirely. Arrive at opening or in the first hour to get clear photos before tour buses and group vans fill the terraces — by late morning on weekends, popular photo spots can have short queues. Entry is typically paid in cash at the gate (small denominations of Indonesian rupiah are useful, since change can be limited), and it's worth confirming current admission and any extra camera/drone fees at the entrance, as these details shift over time. Wear closed shoes with grip — the volcanic-stone paths and staircases can be uneven and slippery. Bring a light jacket for the cooler, breezier elevation, plus sun protection for the exposed upper terraces. The most common visitor mistake is treating it as a quick 20-minute photo stop and rushing back down without exploring the geology exhibits or upper viewpoints, missing both the context and the best angle on Merapi itself.
+Because this is a heavily visited attraction rather than a quiet find, the practical goal is beating the crowds, not avoiding them entirely. Arrive at opening or in the first hour to get clear photos before tour buses and group vans fill the terraces — by late morning on weekends, popular photo spots can have short queues. Entry is typically paid in cash at the gate (small denominations of Indonesian rupiah are useful, since change can be limited), and it's worth confirming current admission and any extra camera/drone fees at the entrance, as these details shift over time.
+
+Wear closed shoes with grip — the volcanic-stone paths and staircases can be uneven and slippery. Bring a light jacket for the cooler, breezier elevation, plus sun protection for the exposed upper terraces. The most common visitor mistake is treating it as a quick 20-minute photo stop and rushing back down without exploring the geology exhibits or upper viewpoints, missing both the context and the best angle on Merapi itself.
 
 ## Nearby stops worth combining
 

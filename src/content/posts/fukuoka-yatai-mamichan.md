@@ -52,24 +52,34 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Fukuoka is one of the last Japanese cities where street-side yatai (open-air food carts) still line the sidewalks each evening, and Tenjin's cluster along Showa-dori is the most convenient for visitors staying in the central business and shopping district. Yatai Mamichan is one of the standout stalls in this row, built around a specialty rarely seen at other carts: grilled ox tongue (gyutan), served alongside a soft, almost custardy Japanese-style omelet. Both dishes have earned the stall a loyal following, reflected in its 4.2 rating across more than 600 reviews — a strong showing for a format with only a handful of stools.
+Fukuoka is one of the last Japanese cities where street-side yatai (open-air food carts) still line the sidewalks each evening, and Tenjin's cluster along Showa-dori is the most convenient for visitors staying in the central business and shopping district. Yatai Mamichan is one of the standout stalls in this row, built around a specialty rarely seen at other carts: grilled ox tongue (gyutan), served alongside a soft, almost custardy Japanese-style omelet.
+
+Both dishes have earned the stall a loyal following, reflected in its 4.2 rating across more than 600 reviews — a strong showing for a format with only a handful of stools.
 
 Unlike a restaurant, a yatai is as much about the setting as the food: canvas sheeting, a portable grill, a counter, and stools set up on the pavement after dark. Mamichan captures that classic Fukuoka-style yatai experience while still delivering food solid enough to draw repeat customers rather than just curious tourists.
 
 ## Getting there
 
-The address places Mamichan in Tenjin 2-chome, Chuo Ward, on the Showa-dori side of the block — the tell-tale sign of a yatai is that it doesn't have a conventional storefront, so look for the pull-down tarp and stools appearing on the sidewalk after early evening. The nearest station is Tenjin Station on the Fukuoka City Subway Kuko (Airport) Line, about a 5–7 minute walk. Tenjin is also served by Nishitetsu Fukuoka (Tenjin) Station and the Nishitetsu bus terminal, both within walking distance, since this is Fukuoka's main downtown hub. If arriving from Hakata Station, the subway ride to Tenjin takes roughly 5 minutes.
+The address places Mamichan in Tenjin 2-chome, Chuo Ward, on the Showa-dori side of the block — the tell-tale sign of a yatai is that it doesn't have a conventional storefront, so look for the pull-down tarp and stools appearing on the sidewalk after early evening. The nearest station is Tenjin Station on the Fukuoka City Subway Kuko (Airport) Line, about a 5–7 minute walk.
+
+Tenjin is also served by Nishitetsu Fukuoka (Tenjin) Station and the Nishitetsu bus terminal, both within walking distance, since this is Fukuoka's main downtown hub. If arriving from Hakata Station, the subway ride to Tenjin takes roughly 5 minutes.
 
 Because yatai set up outdoors each night and pack away before morning, there's no useful address to type into a taxi during the day — aim to arrive after dark when the stalls are visibly open, roughly 6–7pm onward.
 
 ## What to eat
 
-Ox tongue and the house omelet are the two dishes reviewers single out most often, and both are worth ordering first if you only get one round. Beyond those specialties, expect a broader yatai menu of ramen (often a Hakata-style tonkotsu pork-bone broth), yakitori skewers, oden, and simple stir-fries — the kind of small, fast dishes designed to be eaten over drinks rather than as a single big meal. Price level is on the modest end for Fukuoka dining, and yatai in general run cheap by nature: individual dishes and skewers are typically a few hundred yen each, with a casual night of grazing and drinks landing well under what a sit-down izakaya would cost. Bring cash, since many yatai — Mamichan included — are cash-only or have limited card support.
+Ox tongue and the house omelet are the two dishes reviewers single out most often, and both are worth ordering first if you only get one round. Beyond those specialties, expect a broader yatai menu of ramen (often a Hakata-style tonkotsu pork-bone broth), yakitori skewers, oden, and simple stir-fries — the kind of small, fast dishes designed to be eaten over drinks rather than as a single big meal.
+
+Price level is on the modest end for Fukuoka dining, and yatai in general run cheap by nature: individual dishes and skewers are typically a few hundred yen each, with a casual night of grazing and drinks landing well under what a sit-down izakaya would cost. Bring cash, since many yatai — Mamichan included — are cash-only or have limited card support.
 
 ## When to go
 
-Yatai culture is a nighttime phenomenon; stalls typically open in the early evening and run until the early hours, so lunchtime visits aren't an option. Arriving right at opening (around 6–7pm) means shorter waits and a full menu; later in the evening, especially on weekends, seating fills fast since most yatai only fit ten to fifteen people at the counter. Fukuoka's yatai scene is busiest in the cooler months — spring and autumn evenings are especially pleasant for eating outdoors — though the stalls run year-round, including through summer humidity and winter chill, often with tarps rolled down for warmth.
+Yatai culture is a nighttime phenomenon; stalls typically open in the early evening and run until the early hours, so lunchtime visits aren't an option. Arriving right at opening (around 6–7pm) means shorter waits and a full menu; later in the evening, especially on weekends, seating fills fast since most yatai only fit ten to fifteen people at the counter.
+
+Fukuoka's yatai scene is busiest in the cooler months — spring and autumn evenings are especially pleasant for eating outdoors — though the stalls run year-round, including through summer humidity and winter chill, often with tarps rolled down for warmth.
 
 ## Nearby & tips
 
-Mamichan sits within Tenjin's broader yatai row along Showa-dori, so it's easy to combine with a stall-hopping crawl — order a dish or two at Mamichan, then continue down the street to sample others. Tenjin itself is Fukuoka's central shopping and nightlife district, with Tenjin Underground Mall, Nishitetsu Grand Hotel, and Tenjin Chuo Park all within a few minutes' walk for before-or-after sightseeing. Seating is counter-style and communal, so solo travelers and pairs fit in easily, but larger groups may need to split up or wait. Since space is tight, keep bags at your feet and be ready to move along once you've finished your last dish — turnover is part of yatai etiquette.
+Mamichan sits within Tenjin's broader yatai row along Showa-dori, so it's easy to combine with a stall-hopping crawl — order a dish or two at Mamichan, then continue down the street to sample others. Tenjin itself is Fukuoka's central shopping and nightlife district, with Tenjin Underground Mall, Nishitetsu Grand Hotel, and Tenjin Chuo Park all within a few minutes' walk for before-or-after sightseeing.
+
+Seating is counter-style and communal, so solo travelers and pairs fit in easily, but larger groups may need to split up or wait. Since space is tight, keep bags at your feet and be ready to move along once you've finished your last dish — turnover is part of yatai etiquette.

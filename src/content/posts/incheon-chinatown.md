@@ -58,7 +58,9 @@ Incheon's Chinatown is the oldest and largest Chinese enclave in Korea, establis
 
 ## Getting there
 
-Take Seoul Subway Line 1 (the line runs from Seoul all the way out to Incheon) to Incheon Station, the terminus. Exit 1 puts you directly at the ornate Chinatown gate (Jung-guk-ji Ilbeon paepangmun), the neighborhood's main entrance arch. From Seoul Station or City Hall, expect roughly 60-75 minutes on the train, so this pairs best with an early start or an Incheon-focused day rather than as an add-on to a packed Seoul itinerary. There's no need for a taxi once you arrive — the whole district is walkable, though the main street climbs a noticeable hill.
+Take Seoul Subway Line 1 (the line runs from Seoul all the way out to Incheon) to Incheon Station, the terminus. Exit 1 puts you directly at the ornate Chinatown gate (Jung-guk-ji Ilbeon paepangmun), the neighborhood's main entrance arch. From Seoul Station or City Hall, expect roughly 60-75 minutes on the train, so this pairs best with an early start or an Incheon-focused day rather than as an add-on to a packed Seoul itinerary.
+
+There's no need for a taxi once you arrive — the whole district is walkable, though the main street climbs a noticeable hill.
 
 ## What to see and eat
 
@@ -76,4 +78,6 @@ Weekday afternoons are noticeably quieter than weekends, when domestic tour buse
 
 ## Nearby and practical tips
 
-Combine the visit with nearby Songdo Central Park or the Incheon Art Platform if staying longer in the area, though these require additional transit. Cash is still useful at smaller souvenir stalls, and note that not every restaurant on the main strip takes card for small purchases. Confirm current opening hours for the Jajangmyeon Museum before visiting, as museum hours in Korea often shift seasonally. Finally, don't expect an English-heavy experience inside every restaurant — menus with pictures are common, which makes ordering jajangmyeon or tangsuyuk easy even without Korean or Chinese.
+Combine the visit with nearby Songdo Central Park or the Incheon Art Platform if staying longer in the area, though these require additional transit. Cash is still useful at smaller souvenir stalls, and note that not every restaurant on the main strip takes card for small purchases. Confirm current opening hours for the Jajangmyeon Museum before visiting, as museum hours in Korea often shift seasonally.
+
+Finally, don't expect an English-heavy experience inside every restaurant — menus with pictures are common, which makes ordering jajangmyeon or tangsuyuk easy even without Korean or Chinese.

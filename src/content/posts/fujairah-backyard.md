@@ -57,11 +57,15 @@ Fujairah doesn't have the density of café culture you'd find in Dubai or Abu Dh
 
 ## Getting there
 
-Backyard sits at what's locally mapped as 49X4+F3V, Al Faseel, Fujairah — a district on the inland side of Fujairah City, a short drive from the coastal corniche and the older parts of town near Fujairah Fort and the Heritage Village. Fujairah doesn't have a metro or extensive public bus network geared toward tourists, so the practical way to reach it is by car or taxi; ride-hailing apps operate in the emirate and are the simplest option if you're not self-driving. If you're coming from Dubai or Sharjah, the drive across the Hajar Mountains via the E88 or E84 highways takes roughly 1.5–2 hours, making Backyard a plausible coffee stop either on arrival in Fujairah or before heading back.
+Backyard sits at what's locally mapped as 49X4+F3V, Al Faseel, Fujairah — a district on the inland side of Fujairah City, a short drive from the coastal corniche and the older parts of town near Fujairah Fort and the Heritage Village. Fujairah doesn't have a metro or extensive public bus network geared toward tourists, so the practical way to reach it is by car or taxi; ride-hailing apps operate in the emirate and are the simplest option if you're not self-driving.
+
+If you're coming from Dubai or Sharjah, the drive across the Hajar Mountains via the E88 or E84 highways takes roughly 1.5–2 hours, making Backyard a plausible coffee stop either on arrival in Fujairah or before heading back.
 
 ## What to expect
 
-As a coffee shop rather than a restaurant, the draw here is espresso-based drinks, likely alongside the kind of light bites and pastries typical of independent specialty cafés in the UAE — think flat whites, pour-overs, and a small food menu rather than a full dining experience. Given the "Backyard" branding, expect an outdoor or semi-outdoor seating element, which in Fujairah's climate means it's most enjoyable outside the peak summer heat. Reviews at this rating level typically reflect consistency in drink quality and a comfortable, low-key atmosphere rather than novelty or spectacle — this is a place to sit with a coffee for half an hour, not a must-see attraction to check off a list.
+As a coffee shop rather than a restaurant, the draw here is espresso-based drinks, likely alongside the kind of light bites and pastries typical of independent specialty cafés in the UAE — think flat whites, pour-overs, and a small food menu rather than a full dining experience. Given the "Backyard" branding, expect an outdoor or semi-outdoor seating element, which in Fujairah's climate means it's most enjoyable outside the peak summer heat.
+
+Reviews at this rating level typically reflect consistency in drink quality and a comfortable, low-key atmosphere rather than novelty or spectacle — this is a place to sit with a coffee for half an hour, not a must-see attraction to check off a list.
 
 ## When to go
 
@@ -69,8 +73,12 @@ Fujairah's climate swings hard: from November through March, mornings and early 
 
 ## Pairing it with the rest of Fujairah
 
-Backyard works best as a stop within a broader half-day loop of Fujairah City. Nearby options worth combining it with include Fujairah Fort, one of the oldest forts in the UAE, and the adjacent Al Bidyah Mosque area further north, believed to be among the oldest mosques in the country. The Fujairah Corniche and the modern waterfront near Fujairah Port are also within easy driving distance, giving you a scenic walk to follow up the coffee. Because Backyard is a small venue, it's best treated as a refueling stop between these sights rather than a destination requiring hours on its own.
+Backyard works best as a stop within a broader half-day loop of Fujairah City. Nearby options worth combining it with include Fujairah Fort, one of the oldest forts in the UAE, and the adjacent Al Bidyah Mosque area further north, believed to be among the oldest mosques in the country. The Fujairah Corniche and the modern waterfront near Fujairah Port are also within easy driving distance, giving you a scenic walk to follow up the coffee.
+
+Because Backyard is a small venue, it's best treated as a refueling stop between these sights rather than a destination requiring hours on its own.
 
 ## How to visit like a local
 
-Go on a weekday mid-morning, after the early rush and well before any lunch crowd — this is when small independent cafés in the UAE are calmest and staff have time to talk through the menu if you're unfamiliar with pour-over options or bean origins. Cash is accepted almost everywhere in Fujairah, but card and mobile payments (Apple Pay, tap-to-pay) are increasingly standard at specialty cafés, so don't worry about carrying exact change. Tipping isn't obligatory in the UAE café scene, though rounding up or leaving small change is appreciated and common. Since this is an under-the-radar spot rather than a tourist landmark, there's no formal queue system or booking expectation — walk in, order at the counter, and grab whatever backyard-style seating suits the weather. The most common visitor mistake is treating it as a full meal stop; go in expecting coffee and a light bite, not a restaurant menu, and you'll leave satisfied rather than disappointed.
+Go on a weekday mid-morning, after the early rush and well before any lunch crowd — this is when small independent cafés in the UAE are calmest and staff have time to talk through the menu if you're unfamiliar with pour-over options or bean origins. Cash is accepted almost everywhere in Fujairah, but card and mobile payments (Apple Pay, tap-to-pay) are increasingly standard at specialty cafés, so don't worry about carrying exact change.
+
+Tipping isn't obligatory in the UAE café scene, though rounding up or leaving small change is appreciated and common. Since this is an under-the-radar spot rather than a tourist landmark, there's no formal queue system or booking expectation — walk in, order at the counter, and grab whatever backyard-style seating suits the weather. The most common visitor mistake is treating it as a full meal stop; go in expecting coffee and a light bite, not a restaurant menu, and you'll leave satisfied rather than disappointed.

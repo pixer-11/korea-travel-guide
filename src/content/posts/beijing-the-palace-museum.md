@@ -89,7 +89,9 @@ Entry is by timed slot, booked online in advance (the museum sells out on peak d
 
 ## What to see and eat
 
-Beyond the three great front halls, make time for the Hall of Mental Cultivation, where Qing emperors actually worked, and the Nine Dragon Screen tucked into the northeastern quarter. The Treasure Gallery in the Palace of Tranquil Longevity holds imperial jade, gold ceremonial objects, and jewel-encrusted ornaments, and it's worth the extra ticket if you have any interest in Qing court life. Food inside is limited and functional — a few cafés and snack kiosks near the Imperial Garden — so most visitors eat before or after, in the hutongs east of the complex or around Jingshan Park.
+Beyond the three great front halls, make time for the Hall of Mental Cultivation, where Qing emperors actually worked, and the Nine Dragon Screen tucked into the northeastern quarter. The Treasure Gallery in the Palace of Tranquil Longevity holds imperial jade, gold ceremonial objects, and jewel-encrusted ornaments, and it's worth the extra ticket if you have any interest in Qing court life.
+
+Food inside is limited and functional — a few cafés and snack kiosks near the Imperial Garden — so most visitors eat before or after, in the hutongs east of the complex or around Jingshan Park.
 
 ## When to go
 
@@ -97,4 +99,6 @@ Spring and autumn bring the mildest weather and the clearest light for photos on
 
 ## How to visit like a local
 
-This is one of the most-visited sites in China, not a quiet corner of Beijing, so the smart move is to work around the crowds rather than hope to avoid them. Book your ticket the moment your dates are set — slots vanish days ahead in peak season — and show up at opening rather than mid-morning. Head straight for the central axis first while it's still relatively clear, then loop into the quieter side halls and gardens as the main halls fill up. Payment is almost entirely by mobile app (Alipay or WeChat Pay) rather than cash, so have one set up before you arrive. Exit through the north gate into Jingshan Park and climb the hill there — the view back over the palace's golden roofs, laid out in full, is the payoff most tour groups skip because they leave the way they came in.
+This is one of the most-visited sites in China, not a quiet corner of Beijing, so the smart move is to work around the crowds rather than hope to avoid them. Book your ticket the moment your dates are set — slots vanish days ahead in peak season — and show up at opening rather than mid-morning. Head straight for the central axis first while it's still relatively clear, then loop into the quieter side halls and gardens as the main halls fill up.
+
+Payment is almost entirely by mobile app (Alipay or WeChat Pay) rather than cash, so have one set up before you arrive. Exit through the north gate into Jingshan Park and climb the hill there — the view back over the palace's golden roofs, laid out in full, is the payoff most tour groups skip because they leave the way they came in.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: busan-sightseeing
-srcHash: 4d1c52756053
+srcHash: '7cb67e037bfb'
 title: 釜山观光指南
 description: 釜山之旅可围绕三大区域展开:海云台(Haeundae)/广安里(Gwangalli)享受海滩与天际线景观,南浦洞(Nampo-dong)/札嘎其(Jagalchi)体验旧城港口生活与街头小吃,以及感受山城彩色阶梯的甘川文化村。
 quickAnswer: 釜山之旅可围绕三大区域展开:海云台(Haeundae)/广安里(Gwangalli)享受海滩与天际线景观,南浦洞(Nampo-dong)/札嘎其(Jagalchi)体验旧城港口生活与街头小吃,以及甘川文化村(Gamcheon Culture Village)的山城打卡拍照胜地。两到三整天时间足以通过地铁加短途打车游览主要景点;建议在5-6月或9-10月前往,以避开夏季的人潮与湿热天气。

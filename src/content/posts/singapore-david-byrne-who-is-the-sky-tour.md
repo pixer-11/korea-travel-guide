@@ -60,7 +60,9 @@ eventRecurring: false
 
 ## Why this show matters
 
-David Byrne, the former Talking Heads frontman and one of art-rock's most idiosyncratic performers, is bringing his "Who Is The Sky?" tour to Singapore in support of his recent album of the same name. Byrne has built a reputation for staging concerts as full theatrical productions rather than standard rock shows — his 2018-2020 "American Utopia" run (later a Spike Lee-directed film and Broadway production) set a high bar with synchronized choreography, marching-band-style mobility, and a stage stripped of cables and amps. The Singapore date continues that tradition, with a live ensemble of 13 musicians, singers and dancers joining Byrne on stage. Expect a mix of new material from the "Who Is The Sky?" album alongside reworked Talking Heads-era favorites, delivered with the visual precision Byrne's shows are known for.
+David Byrne, the former Talking Heads frontman and one of art-rock's most idiosyncratic performers, is bringing his "Who Is The Sky?" tour to Singapore in support of his recent album of the same name. Byrne has built a reputation for staging concerts as full theatrical productions rather than standard rock shows — his 2018-2020 "American Utopia" run (later a Spike Lee-directed film and Broadway production) set a high bar with synchronized choreography, marching-band-style mobility, and a stage stripped of cables and amps.
+
+The Singapore date continues that tradition, with a live ensemble of 13 musicians, singers and dancers joining Byrne on stage. Expect a mix of new material from the "Who Is The Sky?" album alongside reworked Talking Heads-era favorites, delivered with the visual precision Byrne's shows are known for.
 
 ## The venue: The Star Theatre
 
@@ -68,7 +70,9 @@ The concert is set for **The Star Theatre**, the main performance hall inside Th
 
 ## Getting there
 
-The Star Theatre sits directly above **HarbourFront MRT Station**, served by the North East Line (NE1) and the Circle Line (CC29) — the venue is connected via a short walk through HarbourFront Centre and VivoCity mall, so it's easily reached without a car. Drivers can use parking at VivoCity or HarbourFront Centre, though expect it to fill up on event nights. If arriving by taxi or ride-hail app, HarbourFront Centre's drop-off area is the most direct point of entry. Given the venue's popularity for concerts, budget extra time for security checks and bag drop-off queues, especially if it's a full-house night.
+The Star Theatre sits directly above **HarbourFront MRT Station**, served by the North East Line (NE1) and the Circle Line (CC29) — the venue is connected via a short walk through HarbourFront Centre and VivoCity mall, so it's easily reached without a car. Drivers can use parking at VivoCity or HarbourFront Centre, though expect it to fill up on event nights.
+
+If arriving by taxi or ride-hail app, HarbourFront Centre's drop-off area is the most direct point of entry. Given the venue's popularity for concerts, budget extra time for security checks and bag drop-off queues, especially if it's a full-house night.
 
 ## What to expect from the show
 
@@ -80,5 +84,7 @@ Ticket prices, exact doors/showtime, and seating chart specifics have not been f
 
 ## How to visit like a local
 
-Singapore concertgoers at The Star Theatre tend to arrive with enough buffer to grab food at VivoCity beforehand rather than eat on-site — the mall's food court and restaurants on the lower floors are the practical, wallet-friendly option compared to venue concessions. Payment culture in Singapore is heavily cashless: tap-to-pay cards, EZ-Link, and mobile wallets like PayNow are standard for MRT fares, food stalls, and merchandise stands alike, so don't assume you'll need cash. Tipping is not customary in Singapore and isn't expected at the venue. Dress is casual — Singapore's tropical humidity means light clothing is far more common than concert leathers, and the theatre itself is air-conditioned, so a light layer helps for the temperature swing. The most common visitor mistake is underestimating HarbourFront MRT crowd surges right after the show ends — locals who attend regularly often linger 15-20 minutes in VivoCity before heading to the platform, letting the first rush clear rather than fighting the crowd at the exits.
+Singapore concertgoers at The Star Theatre tend to arrive with enough buffer to grab food at VivoCity beforehand rather than eat on-site — the mall's food court and restaurants on the lower floors are the practical, wallet-friendly option compared to venue concessions. Payment culture in Singapore is heavily cashless: tap-to-pay cards, EZ-Link, and mobile wallets like PayNow are standard for MRT fares, food stalls, and merchandise stands alike, so don't assume you'll need cash.
+
+Tipping is not customary in Singapore and isn't expected at the venue. Dress is casual — Singapore's tropical humidity means light clothing is far more common than concert leathers, and the theatre itself is air-conditioned, so a light layer helps for the temperature swing. The most common visitor mistake is underestimating HarbourFront MRT crowd surges right after the show ends — locals who attend regularly often linger 15-20 minutes in VivoCity before heading to the platform, letting the first rush clear rather than fighting the crowd at the exits.
 

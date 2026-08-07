@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: xian-emperor-qinshihuang-s-mausoleum-site-museum
-srcHash: df907dd7cb55
+srcHash: '3d974ee4201b'
 title: 'Museo del Sitio del Mausoleo del Emperador Qin Shi Huang: Guía de viaje de Xi''an'
 description: El Museo del Sitio del Mausoleo del Emperador Qin Shi Huang —más conocido como el Ejército de Terracota— se encuentra en el distrito de Lintong, a unas 1.5 horas (40km) al este del centro de Xi'an.
 quickAnswer: 'El Museo del Sitio del Mausoleo del Emperador Qin Shi Huang —más conocido como el Ejército de Terracota— se encuentra en el distrito de Lintong, a unas 1.5 horas (40km) al este del centro de Xi''an. Planea medio día: 2.5–3.5 horas para ver las tres fosas de excavación y la sala de las carrozas de bronce. Ve temprano en un día laborable, contrata a un guía oficial o una audioguía en la entrada, y deja la Fosa 1 para el final para disfrutar del impacto visual completo del ejército en formación.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Este sitio protege uno de los hallazgos arqueológicos más importantes del siglo XX: miles de soldados, caballos y carrozas de arcilla de tamaño real, enterrados alrededor del año 210 a. C. para custodiar en la otra vida al emperador Qin Shi Huang, el primer unificador de China. Descubiertas por accidente por unos agricultores que cavaban un pozo en 1974, las fosas revelan rostros esculpidos individualmente, detalles de armaduras y formaciones de batalla que tomaron a un estimado de 700,000 trabajadores décadas en completar. Con una calificación de 4.6 en más de 8,000 reseñas, se ubica constantemente entre las principales razones por las que los viajeros visitan Xi'an — esto no es un montaje para fotos, sino un sitio de excavación en funcionamiento que se recorre sobre plataformas elevadas por encima de la excavación real.
+Este sitio protege uno de los hallazgos arqueológicos más importantes del siglo XX: miles de soldados, caballos y carrozas de arcilla de tamaño real, enterrados alrededor del año 210 a. C. para custodiar en la otra vida al emperador Qin Shi Huang, el primer unificador de China. Descubiertas por accidente por unos agricultores que cavaban un pozo en 1974, las fosas revelan rostros esculpidos individualmente, detalles de armaduras y formaciones de batalla que tomaron a un estimado de 700,000 trabajadores décadas en completar.
+
+Con una calificación de 4.6 en más de 8,000 reseñas, se ubica constantemente entre las principales razones por las que los viajeros visitan Xi'an — esto no es un montaje para fotos, sino un sitio de excavación en funcionamiento que se recorre sobre plataformas elevadas por encima de la excavación real.
 
 ## Cómo llegar
 
-El museo se encuentra en el distrito de Lintong, a unos 40km (aproximadamente 1.5 horas por carretera) al noreste del centro de Xi'an. La opción económica más confiable es la Línea de Autobús Turístico 5 (también señalizada como You You 5 o Bus 306), que sale de la plaza este de la Estación de Tren de Xi'an (Xi'an Railway Station) y te deja cerca de la entrada del museo por una tarifa fija baja — busca la señalización oficial verde y blanca del autobús turístico para evitar a conductores no autorizados que ofrecen viajes "directos". Un taxi o un servicio de transporte privado (Didi) cuesta más pero tarda aproximadamente lo mismo, según el tráfico. Muchos visitantes prefieren reservar un tour de medio día que incluye transporte y guía, lo cual vale la pena aquí, ya que la señalización en el sitio explica menos de lo que se esperaría para un lugar de esta importancia.
+El museo se encuentra en el distrito de Lintong, a unos 40km (aproximadamente 1.5 horas por carretera) al noreste del centro de Xi'an. La opción económica más confiable es la Línea de Autobús Turístico 5 (también señalizada como You You 5 o Bus 306), que sale de la plaza este de la Estación de Tren de Xi'an (Xi'an Railway Station) y te deja cerca de la entrada del museo por una tarifa fija baja — busca la señalización oficial verde y blanca del autobús turístico para evitar a conductores no autorizados que ofrecen viajes "directos".
+
+Un taxi o un servicio de transporte privado (Didi) cuesta más pero tarda aproximadamente lo mismo, según el tráfico. Muchos visitantes prefieren reservar un tour de medio día que incluye transporte y guía, lo cual vale la pena aquí, ya que la señalización en el sitio explica menos de lo que se esperaría para un lugar de esta importancia.
 
 ## Qué ver
 
@@ -39,8 +43,12 @@ Calcula un mínimo de 2.5 a 3.5 horas para recorrer las tres fosas y la sala sin
 
 ## Cuándo ir
 
-Llega a la hora de apertura o cerca de ella en un día laborable; a media mañana, los grupos de turistas de los hoteles del centro inundan la Fosa 1 y se vuelve ruidosa y concurrida cerca de las barandillas. La primavera (abril–mayo) y el otoño (septiembre–octubre) ofrecen el clima más agradable para caminar al aire libre entre las fosas. El verano es caluroso, y la sala que cubre la Fosa 1, aunque techada, no cuenta con mucho aire acondicionado. El invierno es la temporada más tranquila y las figuras se fotografían bien bajo una luz más uniforme, aunque algunos viajeros encuentran el sitio menos atmosférico bajo cielos grises.
+Llega a la hora de apertura o cerca de ella en un día laborable; a media mañana, los grupos de turistas de los hoteles del centro inundan la Fosa 1 y se vuelve ruidosa y concurrida cerca de las barandillas. La primavera (abril–mayo) y el otoño (septiembre–octubre) ofrecen el clima más agradable para caminar al aire libre entre las fosas.
+
+El verano es caluroso, y la sala que cubre la Fosa 1, aunque techada, no cuenta con mucho aire acondicionado. El invierno es la temporada más tranquila y las figuras se fotografían bien bajo una luz más uniforme, aunque algunos viajeros encuentran el sitio menos atmosférico bajo cielos grises.
 
 ## Cerca de allí y consejos
 
-El montículo real de la tumba del emperador Qin Shi Huang se encuentra a unos 1.5km de las fosas y se puede llegar en un autobús lanzadera incluido en algunos paquetes de entrada — hoy en día es principalmente una colina cubierta de hierba, ya que la excavación está deliberadamente pausada, pero vale la pena el pequeño desvío para tener contexto. El distrito de Lintong también cuenta con puestos sencillos de fideos y dumplings cerca de la entrada del sitio para un almuerzo rápido antes de regresar. Combina esta excursión con las Termas de Huaqing (Huaqing Hot Springs), a poca distancia en coche, si dispones de un día completo. Lleva efectivo en denominaciones pequeñas para las tarifas de los autobuses locales y confirma en línea los precios de entrada y horarios actuales antes de ir, ya que ambos se ajustan según la temporada.
+El montículo real de la tumba del emperador Qin Shi Huang se encuentra a unos 1.5km de las fosas y se puede llegar en un autobús lanzadera incluido en algunos paquetes de entrada — hoy en día es principalmente una colina cubierta de hierba, ya que la excavación está deliberadamente pausada, pero vale la pena el pequeño desvío para tener contexto.
+
+El distrito de Lintong también cuenta con puestos sencillos de fideos y dumplings cerca de la entrada del sitio para un almuerzo rápido antes de regresar. Combina esta excursión con las Termas de Huaqing (Huaqing Hot Springs), a poca distancia en coche, si dispones de un día completo. Lleva efectivo en denominaciones pequeñas para las tarifas de los autobuses locales y confirma en línea los precios de entrada y horarios actuales antes de ir, ya que ambos se ajustan según la temporada.

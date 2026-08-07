@@ -52,7 +52,9 @@ draft: false
 
 ## Why go
 
-You come up out of Place Masséna's checkerboard paving and the city just opens up — palm trees, lawns, and a long shallow sheet of water that mirrors the sky and the belle-époque façades around it. The Promenade du Paillon is what Nice did with a river: the Paillon itself was covered over decades ago, and this park now traces its old course from the sea almost up to the hills, a green spine cutting the city in two. It's not a wilderness escape — it's civic space, built to be used — but the variety packs into a short walk is real: Mediterranean pines, olive trees, bamboo groves, a rose garden, and a mirror pool where kids run through jets of water that shoot up on a timer, sending shrieks and spray across the paving stones.
+You come up out of Place Masséna's checkerboard paving and the city just opens up — palm trees, lawns, and a long shallow sheet of water that mirrors the sky and the belle-époque façades around it. The Promenade du Paillon is what Nice did with a river: the Paillon itself was covered over decades ago, and this park now traces its old course from the sea almost up to the hills, a green spine cutting the city in two.
+
+It's not a wilderness escape — it's civic space, built to be used — but the variety packs into a short walk is real: Mediterranean pines, olive trees, bamboo groves, a rose garden, and a mirror pool where kids run through jets of water that shoot up on a timer, sending shrieks and spray across the paving stones.
 
 ## Getting there
 
@@ -60,12 +62,20 @@ The park's southern end starts right at Place Masséna, a two-minute walk from N
 
 ## What to see
 
-Break the walk into its sections rather than trying to see it all at once. Nearest the sea, the Jardin Albert 1er and the fountains near Place Masséna give way to the reflecting pool and play area — the most photographed stretch, especially at dusk when the water catches the light from the surrounding buildings. Further north, past Rue de la Préfecture, the park turns leafier and quieter, with a dedicated children's playground, a skate spot, and stretches of lawn where locals actually sit and eat lunch rather than just pass through. At the northern end, the Promenade opens onto MAMAC, Nice's modern art museum housed in a striking cube of white marble and glass, and the Nice Acropolis convention centre. The whole walk end to end takes about 20-25 minutes without stopping; give yourself an hour if you want to actually sit, watch the fountains, or let kids loose in the play area.
+Break the walk into its sections rather than trying to see it all at once. Nearest the sea, the Jardin Albert 1er and the fountains near Place Masséna give way to the reflecting pool and play area — the most photographed stretch, especially at dusk when the water catches the light from the surrounding buildings. Further north, past Rue de la Préfecture, the park turns leafier and quieter, with a dedicated children's playground, a skate spot, and stretches of lawn where locals actually sit and eat lunch rather than just pass through.
+
+At the northern end, the Promenade opens onto MAMAC, Nice's modern art museum housed in a striking cube of white marble and glass, and the Nice Acropolis convention centre. The whole walk end to end takes about 20-25 minutes without stopping; give yourself an hour if you want to actually sit, watch the fountains, or let kids loose in the play area.
 
 ## When to go
 
-This is a well-known, heavily used park — it's the kind of place every visitor to Nice ends up walking through at some point, since it connects so many of the city's landmarks. That means the mirror pool and playgrounds get genuinely crowded on weekend afternoons and after school lets out. Early morning, before the heat and before the crowds, the light is softer and you'll have long stretches of path close to yourself. Spring and early autumn are the most comfortable seasons; summer midday can be brutally hot with little canopy over the central pool section.
+This is a well-known, heavily used park — it's the kind of place every visitor to Nice ends up walking through at some point, since it connects so many of the city's landmarks. That means the mirror pool and playgrounds get genuinely crowded on weekend afternoons and after school lets out. Early morning, before the heat and before the crowds, the light is softer and you'll have long stretches of path close to yourself.
+
+Spring and early autumn are the most comfortable seasons; summer midday can be brutally hot with little canopy over the central pool section.
 
 ## How to visit like a local
 
-Treat the Promenade as a through-route, not a destination in itself — that's how locals use it, cutting between the Old Town, Place Masséna, and the museum quarter rather than lingering at any one spot. If you do want to sit, head for the shaded lawns north of Rue de la Préfecture rather than the open pool area, which is where the crowds concentrate. There's nothing to buy or book — it's simply an open public park — so the only real etiquette is keeping to the edges of the mirror pool if you're not one of the kids splashing through it, and giving space to the joggers and cyclists who use the paths as a genuine commuting route morning and evening. The most common visitor mistake is rushing the whole length in ten minutes for photos and missing that the park changes character block by block — the calm, tree-heavy northern end near MAMAC feels almost nothing like the busy fountain plaza by Place Masséna. If you're travelling with children, the play area and fountain jets are the draw, but go earlier in the day if you want them to yourselves.
+Treat the Promenade as a through-route, not a destination in itself — that's how locals use it, cutting between the Old Town, Place Masséna, and the museum quarter rather than lingering at any one spot. If you do want to sit, head for the shaded lawns north of Rue de la Préfecture rather than the open pool area, which is where the crowds concentrate.
+
+There's nothing to buy or book — it's simply an open public park — so the only real etiquette is keeping to the edges of the mirror pool if you're not one of the kids splashing through it, and giving space to the joggers and cyclists who use the paths as a genuine commuting route morning and evening. The most common visitor mistake is rushing the whole length in ten minutes for photos and missing that the park changes character block by block — the calm, tree-heavy northern end near MAMAC feels almost nothing like the busy fountain plaza by Place Masséna.
+
+If you're travelling with children, the play area and fountain jets are the draw, but go earlier in the day if you want them to yourselves.

@@ -48,15 +48,21 @@ draft: false
 
 ## Why go
 
-You don't come to Wat Kaew Korawaram expecting a ruin or a relic on the scale of Ayutthaya — you come because it's the temple that Krabi Town actually uses, and it shows. The main viharn (ordination hall) is a modern construction, finished in the early 1990s, but it's built with an unapologetic wow factor: white walls trimmed in gold, a multi-tiered roof that catches the light, and naga serpents guarding every staircase. Locals still bring offerings here, monks still chant at dawn, and the whole complex sits on a small forested hill that gives you one of the better free views over Krabi Town's tin roofs and the limestone karsts beyond.
+You don't come to Wat Kaew Korawaram expecting a ruin or a relic on the scale of Ayutthaya — you come because it's the temple that Krabi Town actually uses, and it shows. The main viharn (ordination hall) is a modern construction, finished in the early 1990s, but it's built with an unapologetic wow factor: white walls trimmed in gold, a multi-tiered roof that catches the light, and naga serpents guarding every staircase.
+
+Locals still bring offerings here, monks still chant at dawn, and the whole complex sits on a small forested hill that gives you one of the better free views over Krabi Town's tin roofs and the limestone karsts beyond.
 
 ## Getting there
 
-The temple sits on Thanon Isara (Isara Road) in Tambon Pak Nam, right in the historic core of Krabi Town, close enough to the Chao Fah Pier riverside walk and the Krabi Town night market that you can fold it into an evening stroll. If you're staying in town, it's a 10–15 minute walk from most guesthouses near the river; a tuk-tuk from the pier area or bus terminal costs only a few minutes' ride and drivers all know it by name. There's no MRT or train system in Krabi, so tuk-tuk, motorbike taxi, or your own rented scooter are the realistic options — parking is easy and free at the temple grounds.
+The temple sits on Thanon Isara (Isara Road) in Tambon Pak Nam, right in the historic core of Krabi Town, close enough to the Chao Fah Pier riverside walk and the Krabi Town night market that you can fold it into an evening stroll. If you're staying in town, it's a 10–15 minute walk from most guesthouses near the river; a tuk-tuk from the pier area or bus terminal costs only a few minutes' ride and drivers all know it by name.
+
+There's no MRT or train system in Krabi, so tuk-tuk, motorbike taxi, or your own rented scooter are the realistic options — parking is easy and free at the temple grounds.
 
 ## What to see
 
-Climb the naga-flanked staircase to the main viharn first — take your shoes off before stepping onto the platform, as you would at any Thai temple, and look up at the roof finials (chofah) that curl like flames against the sky. Inside, the principal Buddha image sits under a coffered ceiling painted with murals; incense smoke curls up from the offering tables near the entrance. From there, follow the path around the back of the hill to find the giant standing golden Buddha statue that overlooks the town — this is the image most visitors remember, partly for its scale and partly for the view alongside it: corrugated rooftops, the Krabi River snaking toward the sea, and jungle-covered limestone peaks in the distance. Smaller shrine buildings and bell towers are scattered around the grounds, worth a slow lap if you have the time.
+Climb the naga-flanked staircase to the main viharn first — take your shoes off before stepping onto the platform, as you would at any Thai temple, and look up at the roof finials (chofah) that curl like flames against the sky. Inside, the principal Buddha image sits under a coffered ceiling painted with murals; incense smoke curls up from the offering tables near the entrance.
+
+From there, follow the path around the back of the hill to find the giant standing golden Buddha statue that overlooks the town — this is the image most visitors remember, partly for its scale and partly for the view alongside it: corrugated rooftops, the Krabi River snaking toward the sea, and jungle-covered limestone peaks in the distance. Smaller shrine buildings and bell towers are scattered around the grounds, worth a slow lap if you have the time.
 
 ## When to go
 
@@ -64,7 +70,9 @@ Early morning (before 9am) or late afternoon (after 4pm) are the most comfortabl
 
 ## How to visit like a local
 
-This is a working temple, not a museum, so the etiquette that matters here is the etiquette that matters everywhere in Thailand: cover your shoulders and knees, remove your shoes before entering any building with a Buddha image, and keep your voice down if a monk is chanting or someone is praying nearby. There's no entrance fee and no ticket booth — donations go in the boxes near the main hall if you'd like to leave one, and it's respectful to do so quietly rather than making a show of it. Women should avoid touching monks directly. Locals tend to visit in the cool hours around sunrise or just before sunset, both to pay respects and to catch the view, so timing your visit the same way puts you in step with how the temple is actually used rather than just photographed. The most common mistake visitors make is treating the hilltop Buddha statue purely as a photo backdrop and skipping the viharn itself — the ordination hall's interior murals and the atmosphere of an active place of worship are the more memorable half of the visit.
+This is a working temple, not a museum, so the etiquette that matters here is the etiquette that matters everywhere in Thailand: cover your shoulders and knees, remove your shoes before entering any building with a Buddha image, and keep your voice down if a monk is chanting or someone is praying nearby. There's no entrance fee and no ticket booth — donations go in the boxes near the main hall if you'd like to leave one, and it's respectful to do so quietly rather than making a show of it.
+
+Women should avoid touching monks directly. Locals tend to visit in the cool hours around sunrise or just before sunset, both to pay respects and to catch the view, so timing your visit the same way puts you in step with how the temple is actually used rather than just photographed. The most common mistake visitors make is treating the hilltop Buddha statue purely as a photo backdrop and skipping the viharn itself — the ordination hall's interior murals and the atmosphere of an active place of worship are the more memorable half of the visit.
 
 ## Nearby
 

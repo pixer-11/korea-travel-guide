@@ -41,11 +41,15 @@ draft: false
 
 ## Why go
 
-Al Noor Island is a small, landscaped island in the middle of Khalid Lagoon, connected to the mainland by a pedestrian bridge near Al Majaz 1. It's Sharjah's answer to a quiet green escape inside a busy waterfront city: a mix of gardens, sculpture, a glass butterfly house, and a striking book pavilion, all wrapped around the lagoon with skyline views back toward Buhairah Corniche. It's compact enough to see without a full day trip but distinctive enough to be worth building an afternoon around, especially if you're already exploring Al Majaz Waterfront or the Sharjah Corniche area.
+Al Noor Island is a small, landscaped island in the middle of Khalid Lagoon, connected to the mainland by a pedestrian bridge near Al Majaz 1. It's Sharjah's answer to a quiet green escape inside a busy waterfront city: a mix of gardens, sculpture, a glass butterfly house, and a striking book pavilion, all wrapped around the lagoon with skyline views back toward Buhairah Corniche.
+
+It's compact enough to see without a full day trip but distinctive enough to be worth building an afternoon around, especially if you're already exploring Al Majaz Waterfront or the Sharjah Corniche area.
 
 ## Getting there
 
-The island sits just off Buhairah Corniche Road at Al Majaz 1, directly across the lagoon from the Al Majaz Waterfront park and fountain area. Taxis and ride-hailing apps are the most straightforward way to arrive, since Sharjah's public bus network doesn't run a direct line to the entrance bridge. If you're coming from Dubai, the drive along Sheikh Mohammed Bin Zayed Road or Al Ittihad Road typically takes 30–45 minutes depending on traffic. Once you're on Buhairah Corniche, the island's entrance bridge and ticket booth are easy to spot near the waterfront promenade — look for signage pointing to Al Noor Island rather than a formal street address, since the location is best located by the lagoon itself.
+The island sits just off Buhairah Corniche Road at Al Majaz 1, directly across the lagoon from the Al Majaz Waterfront park and fountain area. Taxis and ride-hailing apps are the most straightforward way to arrive, since Sharjah's public bus network doesn't run a direct line to the entrance bridge. If you're coming from Dubai, the drive along Sheikh Mohammed Bin Zayed Road or Al Ittihad Road typically takes 30–45 minutes depending on traffic.
+
+Once you're on Buhairah Corniche, the island's entrance bridge and ticket booth are easy to spot near the waterfront promenade — look for signage pointing to Al Noor Island rather than a formal street address, since the location is best located by the lagoon itself.
 
 ## What to see and do
 
@@ -63,7 +67,11 @@ Sharjah's climate makes timing matter more than usual. The comfortable stretch i
 
 ## How to visit like a local
 
-Al Noor Island is a well-known, well-reviewed attraction (4.4 stars across thousands of reviews), not a hidden find, so expect steady foot traffic, especially on weekend evenings and public holidays when Al Majaz Waterfront across the lagoon also fills up. To sidestep the busiest windows, aim for a weekday visit or arrive close to opening in the morning before tour groups and families arrive after school and work hours. Entry is typically ticketed at a booth by the bridge, and while cash is accepted, card and mobile payment are increasingly common across Sharjah attractions — carry a backup in cash regardless, since card readers can be inconsistent at smaller kiosks. There's no real "local secret" entrance or trick here; the practical move is simply timing your visit around the crowd patterns rather than seeking an alternate route. Keep noise levels down inside the butterfly house — sudden movement and flash photography can disturb the butterflies, and staff will ask you to dim your flash. Modest dress is appropriate, as it is at most public attractions in Sharjah, which has a more conservative cultural tone than neighboring Dubai. The most common visitor mistake is treating it as a quick 20-minute photo stop and rushing through — the island rewards a slower pace, particularly around the book pavilion and lagoon-facing benches where the city views are best appreciated sitting down rather than walking past.
+Al Noor Island is a well-known, well-reviewed attraction (4.4 stars across thousands of reviews), not a hidden find, so expect steady foot traffic, especially on weekend evenings and public holidays when Al Majaz Waterfront across the lagoon also fills up. To sidestep the busiest windows, aim for a weekday visit or arrive close to opening in the morning before tour groups and families arrive after school and work hours.
+
+Entry is typically ticketed at a booth by the bridge, and while cash is accepted, card and mobile payment are increasingly common across Sharjah attractions — carry a backup in cash regardless, since card readers can be inconsistent at smaller kiosks. There's no real "local secret" entrance or trick here; the practical move is simply timing your visit around the crowd patterns rather than seeking an alternate route.
+
+Keep noise levels down inside the butterfly house — sudden movement and flash photography can disturb the butterflies, and staff will ask you to dim your flash. Modest dress is appropriate, as it is at most public attractions in Sharjah, which has a more conservative cultural tone than neighboring Dubai. The most common visitor mistake is treating it as a quick 20-minute photo stop and rushing through — the island rewards a slower pace, particularly around the book pavilion and lagoon-facing benches where the city views are best appreciated sitting down rather than walking past.
 
 ## Nearby to pair with your visit
 

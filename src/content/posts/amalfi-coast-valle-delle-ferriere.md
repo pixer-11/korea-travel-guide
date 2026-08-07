@@ -49,7 +49,9 @@ Valle delle Ferriere takes its name from the ironworks and paper mills that once
 
 ## Getting there
 
-Most visitors start from Amalfi itself, following signs toward "Valle delle Ferriere" or "Pontone" from the upper part of town, near the Museo della Carta (Paper Museum) — a natural first stop, since it explains the valley's papermaking history before you walk into the landscape that produced it. The trail follows the Canneto stream upward through the gorge. An alternative is to start higher, from Scala or the hamlet of Pontone (reachable by local bus or a walk up from Amalfi), and descend into the valley instead of climbing — a good option if you'd rather go downhill on tired legs. The address associated with the reserve sits in Scala's municipal territory, though the most common approach is still from Amalfi.
+Most visitors start from Amalfi itself, following signs toward "Valle delle Ferriere" or "Pontone" from the upper part of town, near the Museo della Carta (Paper Museum) — a natural first stop, since it explains the valley's papermaking history before you walk into the landscape that produced it. The trail follows the Canneto stream upward through the gorge. An alternative is to start higher, from Scala or the hamlet of Pontone (reachable by local bus or a walk up from Amalfi), and descend into the valley instead of climbing — a good option if you'd rather go downhill on tired legs.
+
+The address associated with the reserve sits in Scala's municipal territory, though the most common approach is still from Amalfi.
 
 ## What to see and do
 
@@ -63,4 +65,6 @@ Spring and early autumn bring the greenest ferns and the fullest waterfalls, sin
 
 ## How to visit like a local
 
-Start early — by mid-morning the trailhead area in Amalfi fills with day-trippers heading the opposite direction, toward the beach and the Duomo, so an early departure buys you a quieter gorge and cooler walking temperatures. There's no ticket booth at the main trailhead for the standard walk, so there's nothing to book in advance for the lower valley; bring cash anyway in case of a small entrance fee at points where the reserve is staffed, and carry water since there's nowhere to buy any once you're in the gorge. Greet other walkers with a simple "buongiorno" as you pass on narrow sections — it's standard trail courtesy here, not a tourist affectation. The most common mistake is underestimating the terrain because the walk starts in a town: wear proper shoes, not the sandals you wore around Amalfi's piazza that morning. If you want to reach the restricted upper core zone with its rarest ferns, that typically requires arranging a guide in advance through local hiking outfits — don't expect to wing it at the gate.
+Start early — by mid-morning the trailhead area in Amalfi fills with day-trippers heading the opposite direction, toward the beach and the Duomo, so an early departure buys you a quieter gorge and cooler walking temperatures. There's no ticket booth at the main trailhead for the standard walk, so there's nothing to book in advance for the lower valley; bring cash anyway in case of a small entrance fee at points where the reserve is staffed, and carry water since there's nowhere to buy any once you're in the gorge.
+
+Greet other walkers with a simple "buongiorno" as you pass on narrow sections — it's standard trail courtesy here, not a tourist affectation. The most common mistake is underestimating the terrain because the walk starts in a town: wear proper shoes, not the sandals you wore around Amalfi's piazza that morning. If you want to reach the restricted upper core zone with its rarest ferns, that typically requires arranging a guide in advance through local hiking outfits — don't expect to wing it at the gate.

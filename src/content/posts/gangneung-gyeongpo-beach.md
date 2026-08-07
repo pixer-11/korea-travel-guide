@@ -55,7 +55,9 @@ draft: false
 
 ## Why go
 
-Gyeongpo Beach is the best-known beach in Gangwon-do for good reason: roughly 6 kilometers of wide, firm sand facing due east, backed by a dense pine forest (the Gyeongpo Pine Grove) that gives the shoreline shade and a windbreak most Korean beach towns lack. It's rated 4.4 by over 8,000 reviewers, and it's one of the more reliable spots on the east coast to watch a sunrise, since the beach faces open water with no headland blocking the horizon. Locals also come for the adjoining Gyeongpo Lake, a lagoon just inland separated from the sea by a thin strip of dunes and pines — a rare pairing of lake and ocean scenery within walking distance of each other.
+Gyeongpo Beach is the best-known beach in Gangwon-do for good reason: roughly 6 kilometers of wide, firm sand facing due east, backed by a dense pine forest (the Gyeongpo Pine Grove) that gives the shoreline shade and a windbreak most Korean beach towns lack. It's rated 4.4 by over 8,000 reviewers, and it's one of the more reliable spots on the east coast to watch a sunrise, since the beach faces open water with no headland blocking the horizon.
+
+Locals also come for the adjoining Gyeongpo Lake, a lagoon just inland separated from the sea by a thin strip of dunes and pines — a rare pairing of lake and ocean scenery within walking distance of each other.
 
 ## Getting there
 

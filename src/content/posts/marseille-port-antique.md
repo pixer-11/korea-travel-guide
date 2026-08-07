@@ -64,11 +64,15 @@ draft: true
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come down a short flight of steps off Rue Henri Barbusse, past the flank of the Centre Bourse mall, and the traffic noise just drops away. Below you is a sunken lawn scattered with stone: a curved line of massive limestone blocks, the worn ruts of a paved road, the stump of a tower. It doesn't look like much from the railing above, which is exactly why so many people walk past it without noticing. Once you're inside, though, it's obviously old in a way that's hard to fake — these are fragments of the Greek fortifications and harbor works from Massalia, the settlement Phocaean sailors from Asia Minor founded here around 600 BC, plus a length of Roman road laid centuries later when the town became a Roman port. Marseille calls itself France's oldest city, and this patch of grass is about as close as you'll get to physical proof of it.
+You come down a short flight of steps off Rue Henri Barbusse, past the flank of the Centre Bourse mall, and the traffic noise just drops away. Below you is a sunken lawn scattered with stone: a curved line of massive limestone blocks, the worn ruts of a paved road, the stump of a tower. It doesn't look like much from the railing above, which is exactly why so many people walk past it without noticing.
+
+Once you're inside, though, it's obviously old in a way that's hard to fake — these are fragments of the Greek fortifications and harbor works from Massalia, the settlement Phocaean sailors from Asia Minor founded here around 600 BC, plus a length of Roman road laid centuries later when the town became a Roman port. Marseille calls itself France's oldest city, and this patch of grass is about as close as you'll get to physical proof of it.
 
 ## Why go
 
-Most visitors to Marseille see the Vieux-Port, Notre-Dame de la Garde, maybe the Panier's painted alleys — and never realize that the oldest visible remains in the city are sitting in a public garden next to a shopping center. That contrast is the whole appeal. You get archeology without a ticket line, without a museum's hush, just a patch of open sky, some benches, and stonework you can walk right up to and touch (though you shouldn't). It's a small site, so temper expectations: this isn't Ephesus. But for anyone who wants to feel the layers of a 2,600-year-old port town stacked in one glance, it delivers.
+Most visitors to Marseille see the Vieux-Port, Notre-Dame de la Garde, maybe the Panier's painted alleys — and never realize that the oldest visible remains in the city are sitting in a public garden next to a shopping center. That contrast is the whole appeal. You get archeology without a ticket line, without a museum's hush, just a patch of open sky, some benches, and stonework you can walk right up to and touch (though you shouldn't).
+
+It's a small site, so temper expectations: this isn't Ephesus. But for anyone who wants to feel the layers of a 2,600-year-old port town stacked in one glance, it delivers.
 
 ## Getting there
 
@@ -76,7 +80,9 @@ The garden sits at 2 Rue Henri Barbusse, in the 1st arrondissement, wedged betwe
 
 ## What to see
 
-Inside, wooden walkways and gravel paths loop around the main features: a stretch of the old Roman road with its wheel-worn stones, sections of the Greek defensive wall dating to the city's founding era, and remnants of a tower and the ancient harbor's edge, since this whole area was originally shoreline before later silting and construction pushed the sea back. Information panels (in French, with some English) sketch out what you're looking at and how it fits into ancient Massalia's layout. Bring ten minutes of patience and it rewards you — the low relief and quiet let you actually read the stones instead of skimming past them.
+Inside, wooden walkways and gravel paths loop around the main features: a stretch of the old Roman road with its wheel-worn stones, sections of the Greek defensive wall dating to the city's founding era, and remnants of a tower and the ancient harbor's edge, since this whole area was originally shoreline before later silting and construction pushed the sea back.
+
+Information panels (in French, with some English) sketch out what you're looking at and how it fits into ancient Massalia's layout. Bring ten minutes of patience and it rewards you — the low relief and quiet let you actually read the stones instead of skimming past them.
 
 ## When to go
 
@@ -84,4 +90,6 @@ The garden keeps regular opening hours, and is closed all day Monday, so don't p
 
 ## How to visit like a local
 
-Visiting is simple — you just walk down the steps and in, so there's nothing to plan beyond timing your visit outside the Saturday–Sunday afternoon rush. Locals tend to treat it less as a destination and more as a shortcut or a quiet breather between the Vieux-Port and the shopping streets around Rue de la République, so don't expect a crowd of history buffs — you'll often have long stretches of the path alone. The etiquette is simple: stay on the marked walkways, don't climb the stonework, and keep voices low since it functions as a genuine park as much as a ruin. The mistake most first-timers make is glancing over the railing from street level, deciding it's "just some rocks," and moving on — go down the steps and actually walk the loop; the perspective changes completely once you're standing beside the wall instead of looking down on it.
+Visiting is simple — you just walk down the steps and in, so there's nothing to plan beyond timing your visit outside the Saturday–Sunday afternoon rush. Locals tend to treat it less as a destination and more as a shortcut or a quiet breather between the Vieux-Port and the shopping streets around Rue de la République, so don't expect a crowd of history buffs — you'll often have long stretches of the path alone.
+
+The etiquette is simple: stay on the marked walkways, don't climb the stonework, and keep voices low since it functions as a genuine park as much as a ruin. The mistake most first-timers make is glancing over the railing from street level, deciding it's "just some rocks," and moving on — go down the steps and actually walk the loop; the perspective changes completely once you're standing beside the wall instead of looking down on it.

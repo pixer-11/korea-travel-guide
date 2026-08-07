@@ -50,7 +50,9 @@ draft: true
 
 ## Why Coffee Street Exists
 
-Gangneung's reputation as Korea's coffee capital isn't marketing spin — it dates back to the 1980s, when instant coffee vending machines lined Anmok Beach and locals began experimenting with roasting. By the 2000s, small-batch roasters had set up shop directly on the sand-facing road at Anmok, and the area organically became known as "Coffee Street" (커피거리). Gangneung also hosts an annual Coffee Festival in autumn, cementing the city's identity around bean culture. Today the street is a dense row of multi-story cafés, most with floor-to-ceiling windows facing the East Sea, making it as much a scenery stop as a caffeine stop.
+Gangneung's reputation as Korea's coffee capital isn't marketing spin — it dates back to the 1980s, when instant coffee vending machines lined Anmok Beach and locals began experimenting with roasting. By the 2000s, small-batch roasters had set up shop directly on the sand-facing road at Anmok, and the area organically became known as "Coffee Street" (커피거리). Gangneung also hosts an annual Coffee Festival in autumn, cementing the city's identity around bean culture.
+
+Today the street is a dense row of multi-story cafés, most with floor-to-ceiling windows facing the East Sea, making it as much a scenery stop as a caffeine stop.
 
 ## Getting There
 
@@ -70,4 +72,6 @@ Late afternoon into early evening is ideal — the sun angles low over the water
 
 ## Practical Tips
 
-Plan for 2-3 hours minimum if you want to sit down, enjoy a drink with a view, and walk part of the boardwalk. There's no admission fee for the street — you're simply paying café prices per drink, which vary shop to shop, so treat it like grazing rather than a single fixed-cost attraction. Comfortable footwear helps for the boardwalk section, and a light jacket is worth carrying even in warmer months since coastal wind picks up by evening. Cash and card are both generally accepted, but as with any small independent café, having some cash on hand avoids friction at smaller counters. Pair the visit with Gangneung's Ojukheon House (birthplace of scholar Yi I) or the Jumunjin fish market if you have a full day to spend in the area.
+Plan for 2-3 hours minimum if you want to sit down, enjoy a drink with a view, and walk part of the boardwalk. There's no admission fee for the street — you're simply paying café prices per drink, which vary shop to shop, so treat it like grazing rather than a single fixed-cost attraction. Comfortable footwear helps for the boardwalk section, and a light jacket is worth carrying even in warmer months since coastal wind picks up by evening.
+
+Cash and card are both generally accepted, but as with any small independent café, having some cash on hand avoids friction at smaller counters. Pair the visit with Gangneung's Ojukheon House (birthplace of scholar Yi I) or the Jumunjin fish market if you have a full day to spend in the area.

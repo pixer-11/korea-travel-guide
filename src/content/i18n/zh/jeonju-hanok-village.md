@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jeonju-hanok-village
-srcHash: 918020bcf218
+srcHash: '947344e49686'
 title: 全州韩屋村
 description: 全州韩屋村位于全州老城区附近的丰南洞（Pungnam-dong）/校洞（Gyo-dong）一带，是韩国规模最大的传统韩屋建筑群（约800栋建筑），最适合花3-5小时徒步游览。来这里可以品尝全州拌饭、租一套韩服拍照漫步，还能参观庆基殿（Gyeonggijeon Shrine）。建议清晨或工作日前往，以避开人潮。
 quickAnswer: 全州韩屋村位于全州老城区附近的丰南洞（Pungnam-dong）/校洞（Gyo-dong）一带，是韩国规模最大的传统韩屋建筑群（约800栋建筑），最适合花3-5小时徒步游览。来这里可以品尝全州拌饭、租一套韩服拍照漫步，还能参观庆基殿（Gyeonggijeon Shrine）。建议清晨或工作日前往，以避开人潮。由于市内没有地铁，可乘KTX抵达全州站，再转乘出租车或公交车前往。

@@ -81,7 +81,9 @@ If your main goal is a specific matchup or the final itself, build in flexibilit
 
 ## How to visit like a local
 
-Buy your metro travel card (or just tap in with a contactless bank card, which Shenzhen's system supports) rather than fumbling with single-ticket machines — it's how residents move through the city and it'll save you time getting to and from the venue each day. Mobile payment is dominant here: Alipay and WeChat Pay cover almost everything from taxis to street food, so set one up before you arrive if you can, since cash is increasingly an afterthought in daily transactions. Arrive at the arena earlier than you think for the marquee sessions — ties involving the home Chinese team or a heavily favored side will draw the thickest crowds and the security/entry queues lengthen fast in the final hour before first serve. Outside match hours, Shenzhen rewards wandering: it's a young, fast-moving city built almost entirely since the 1980s, so don't expect ancient temples — expect design districts, night markets, and a skyline that changes year to year.
+Buy your metro travel card (or just tap in with a contactless bank card, which Shenzhen's system supports) rather than fumbling with single-ticket machines — it's how residents move through the city and it'll save you time getting to and from the venue each day. Mobile payment is dominant here: Alipay and WeChat Pay cover almost everything from taxis to street food, so set one up before you arrive if you can, since cash is increasingly an afterthought in daily transactions.
+
+Arrive at the arena earlier than you think for the marquee sessions — ties involving the home Chinese team or a heavily favored side will draw the thickest crowds and the security/entry queues lengthen fast in the final hour before first serve. Outside match hours, Shenzhen rewards wandering: it's a young, fast-moving city built almost entirely since the 1980s, so don't expect ancient temples — expect design districts, night markets, and a skyline that changes year to year.
 
 ## Before you book
 

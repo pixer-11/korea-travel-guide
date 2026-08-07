@@ -52,23 +52,35 @@ draft: false
 
 ## Why go
 
-You come here for the choreography of it — not wild nature, but nature arranged with intent. The Garden of Morning Calm sits in a valley near Mount Cheonggye, and its name comes from an old poetic epithet for Korea itself, "Land of Morning Calm." Walking in, you notice how the paths curl rather than run straight, pulling you from one themed section into the next: a hae-oreum garden of ornamental grasses, a herb garden thick with the smell of crushed rosemary and mint underfoot, a bonsai collection clipped into decades-old shapes. Each turn resets the view. It's the kind of place designed to be photographed, and everyone around you will be doing exactly that.
+You come here for the choreography of it — not wild nature, but nature arranged with intent. The Garden of Morning Calm sits in a valley near Mount Cheonggye, and its name comes from an old poetic epithet for Korea itself, "Land of Morning Calm." Walking in, you notice how the paths curl rather than run straight, pulling you from one themed section into the next: a hae-oreum garden of ornamental grasses, a herb garden thick with the smell of crushed rosemary and mint underfoot, a bonsai collection clipped into decades-old shapes.
+
+Each turn resets the view. It's the kind of place designed to be photographed, and everyone around you will be doing exactly that.
 
 ## Getting there
 
-Gapyeong-gun is roughly 60km northeast of Seoul, and most visitors arrive one of three ways. The easiest is direct: take the Gyeongchun Line (ITX-Cheongchun or commuter train) to Cheongpyeong Station, then catch a taxi (about 20 minutes) or the local shuttle bus that runs to the garden, especially during festival periods. Driving takes about 90 minutes from central Seoul via the Seoul-Chuncheon Expressway, and there's a parking area at the entrance. Many visitors combine the trip with Nami Island, which is nearby and often bundled into the same day out — tour buses frequently run a Nami Island–Garden of Morning Calm circuit, which saves the hassle of connecting buses yourself.
+Gapyeong-gun is roughly 60km northeast of Seoul, and most visitors arrive one of three ways. The easiest is direct: take the Gyeongchun Line (ITX-Cheongchun or commuter train) to Cheongpyeong Station, then catch a taxi (about 20 minutes) or the local shuttle bus that runs to the garden, especially during festival periods. Driving takes about 90 minutes from central Seoul via the Seoul-Chuncheon Expressway, and there's a parking area at the entrance.
+
+Many visitors combine the trip with Nami Island, which is nearby and often bundled into the same day out — tour buses frequently run a Nami Island–Garden of Morning Calm circuit, which saves the hassle of connecting buses yourself.
 
 ## What to see
 
-The garden unfolds as a series of rooms rather than one open space. The Sky Garden and the Central Garden near the entrance give you manicured lawns and topiary; deeper in, the Green Path and the Water Garden slow the pace with ponds and reflective pools. In spring, the Royal Garden's tulip and flower beds are the draw; by summer the greenery thickens into deep shade; and from late autumn into winter, the garden transforms for its Lighting Festival, when hundreds of thousands of small lights turn the paths into something closer to a light sculpture park than a botanical one — this is now arguably its biggest draw, running from around November into March, though hours and exact dates shift year to year, so check ahead. Plan for two to three hours to walk the full network of paths at an unhurried pace, more if you're stopping constantly for photos, which most people do.
+The garden unfolds as a series of rooms rather than one open space. The Sky Garden and the Central Garden near the entrance give you manicured lawns and topiary; deeper in, the Green Path and the Water Garden slow the pace with ponds and reflective pools. In spring, the Royal Garden's tulip and flower beds are the draw; by summer the greenery thickens into deep shade; and from late autumn into winter, the garden transforms for its Lighting Festival, when hundreds of thousands of small lights turn the paths into something closer to a light sculpture park than a botanical one — this is now arguably its biggest draw, running from around November into March, though hours and exact dates shift year to year, so check ahead.
+
+Plan for two to three hours to walk the full network of paths at an unhurried pace, more if you're stopping constantly for photos, which most people do.
 
 ## When to go
 
-Because this is a well-visited, well-reviewed destination — not an under-the-radar spot — weekends and Korean public holidays bring real crowds, especially during the spring bloom and the winter lighting festival. Weekday mornings are your best window: arrive close to opening time and you'll have long stretches of path without a queue for photos at the popular spots like the pine tree lawn and the observatory viewpoint. If you can only go on a weekend, aim to enter within the first hour of opening rather than midday, when tour buses tend to arrive in waves.
+Because this is a well-visited, well-reviewed destination — not an under-the-radar spot — weekends and Korean public holidays bring real crowds, especially during the spring bloom and the winter lighting festival. Weekday mornings are your best window: arrive close to opening time and you'll have long stretches of path without a queue for photos at the popular spots like the pine tree lawn and the observatory viewpoint.
+
+If you can only go on a weekend, aim to enter within the first hour of opening rather than midday, when tour buses tend to arrive in waves.
 
 ## How to visit like a local
 
-This is not a secret spot — it's one of Gapyeong's headline attractions, so the smart move is timing rather than seeking out a quiet corner. Go on a weekday if your schedule allows, and get there right at opening rather than after lunch. Entry is ticketed at a booth near the entrance; card payment is standard, and during festival periods it's worth pre-checking whether timed-entry tickets are sold online, since queues at the gate lengthen fast on winter evenings when the lights draw crowds after dark. Wear shoes you don't mind on gravel and slight inclines — the paths are well maintained but not flat throughout. The mistake first-timers make is rushing straight to the most Instagrammed corner (the pine tree on the central lawn) and missing the quieter garden rooms further along the loop, like the herb garden and the Water Garden, where the crowds thin out simply because they're a ten-minute walk from the entrance. Bring a jacket even in shoulder season — the valley setting holds a chill after sunset, especially if you're staying for the winter lights.
+This is not a secret spot — it's one of Gapyeong's headline attractions, so the smart move is timing rather than seeking out a quiet corner. Go on a weekday if your schedule allows, and get there right at opening rather than after lunch. Entry is ticketed at a booth near the entrance; card payment is standard, and during festival periods it's worth pre-checking whether timed-entry tickets are sold online, since queues at the gate lengthen fast on winter evenings when the lights draw crowds after dark.
+
+Wear shoes you don't mind on gravel and slight inclines — the paths are well maintained but not flat throughout. The mistake first-timers make is rushing straight to the most Instagrammed corner (the pine tree on the central lawn) and missing the quieter garden rooms further along the loop, like the herb garden and the Water Garden, where the crowds thin out simply because they're a ten-minute walk from the entrance.
+
+Bring a jacket even in shoulder season — the valley setting holds a chill after sunset, especially if you're staying for the winter lights.
 
 ## Nearby
 

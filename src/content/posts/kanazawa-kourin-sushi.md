@@ -64,4 +64,6 @@ Lunch on a weekday is the easiest time to get a seat without a long wait, partic
 
 ## Nearby & Tips
 
-Omicho Market itself is worth an hour before or after your meal — wander the stalls even if you don't buy anything, since seeing the raw ingredients gives context to what's on your plate. Kanazawa Castle Park and Kenrokuen Garden, one of Japan's "three great gardens," are about a 15-20 minute walk east, making Kourin Sushi a sensible lunch stop before an afternoon of sightseeing. The Higashi Chaya geisha district, known for its preserved teahouse architecture, is a further 10-15 minutes on foot or a short taxi ride, and pairs well with a late lunch here followed by an early evening stroll.
+Omicho Market itself is worth an hour before or after your meal — wander the stalls even if you don't buy anything, since seeing the raw ingredients gives context to what's on your plate. Kanazawa Castle Park and Kenrokuen Garden, one of Japan's "three great gardens," are about a 15-20 minute walk east, making Kourin Sushi a sensible lunch stop before an afternoon of sightseeing.
+
+The Higashi Chaya geisha district, known for its preserved teahouse architecture, is a further 10-15 minutes on foot or a short taxi ride, and pairs well with a late lunch here followed by an early evening stroll.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: daegu-trendy-cafe
-srcHash: ee27d3031040
+srcHash: '4aa22aa183f8'
 title: 대구의 트렌디한 카페
 description: 대구 최고의 트렌디한 카페를 찾는다면 중앙로역(Jungangno Station, 1호선) 인근 동성로(Dongseong-ro)/김광석길(Kim Kwang-seok Street) 지역이나 한적한 봉산문화거리(Bongsan Culture Street)로 가보세요.
 quickAnswer: 대구 최고의 트렌디한 카페를 찾는다면 중앙로역(Jungangno Station, 1호선) 인근 동성로(Dongseong-ro)/김광석길(Kim Kwang-seok Street) 지역이나 한적한 봉산문화거리(Bongsan Culture Street)로 가보세요. 진정한 "카페거리" 분위기를 느끼고 싶다면 수성못(Suseongmot, 수성호수) 변의 수성로 카페거리(Suseong-ro Cafe Street)를 추천합니다. 개조한 한옥 카페, 창고를 개조한 로스터리, 호숫가 테라스 카페 등을 만날 수 있으니 커피 한 잔과 산책을 곁들여 2~3시간 정도 코스로 계획해 보세요. 특히 수성못 주변은 주말이면 줄이 길게 늘어서므로, 평일 오전이나 늦은 오후에 방문하는 것이 좋습니다.

@@ -56,7 +56,9 @@ draft: false
 
 ## Why go
 
-You feel it before you see a sign: the temperature drops, the road narrows into a green tunnel, and sunlight breaks into thin, moving shafts through thousands of mahogany trunks planted arrow-straight on either side of the asphalt. For about two kilometers, the Loay Interior Road cuts through what is essentially a man-made corridor of forest — dense, quiet, and startlingly cool compared to the tropical glare of the rest of Bohol. It's not a wilderness experience; it's a planted grid of mahogany that has matured into something genuinely atmospheric, and it's become one of the standard stops on the Bohol countryside circuit alongside the Chocolate Hills and the Loboc River.
+You feel it before you see a sign: the temperature drops, the road narrows into a green tunnel, and sunlight breaks into thin, moving shafts through thousands of mahogany trunks planted arrow-straight on either side of the asphalt. For about two kilometers, the Loay Interior Road cuts through what is essentially a man-made corridor of forest — dense, quiet, and startlingly cool compared to the tropical glare of the rest of Bohol.
+
+It's not a wilderness experience; it's a planted grid of mahogany that has matured into something genuinely atmospheric, and it's become one of the standard stops on the Bohol countryside circuit alongside the Chocolate Hills and the Loboc River.
 
 ## The backstory
 
@@ -64,11 +66,15 @@ The forest was planted in the mid-20th century, part of a reforestation effort u
 
 ## Getting there
 
-Bilar Man-Made Forest sits on the Loay Interior Road in the town of Bilar, inland Bohol, about 45 to 55 minutes by car or habal-habal (motorbike taxi) from Tagbilaran City, and roughly 15-20 minutes past the Loboc River area if you're coming from the coast. Most visitors reach it as a stop on a chartered van or tricycle countryside tour that also covers the Chocolate Hills, the Tarsier Sanctuary, and Loboc — there's no public jeepney that conveniently drops you right at the viewing deck, so a private vehicle, rented scooter, or organized tour is the practical way in. The road itself runs straight through the forest, so even if your itinerary doesn't list it as a stop, you'll pass through it on the way to or from the Chocolate Hills.
+Bilar Man-Made Forest sits on the Loay Interior Road in the town of Bilar, inland Bohol, about 45 to 55 minutes by car or habal-habal (motorbike taxi) from Tagbilaran City, and roughly 15-20 minutes past the Loboc River area if you're coming from the coast. Most visitors reach it as a stop on a chartered van or tricycle countryside tour that also covers the Chocolate Hills, the Tarsier Sanctuary, and Loboc — there's no public jeepney that conveniently drops you right at the viewing deck, so a private vehicle, rented scooter, or organized tour is the practical way in.
+
+The road itself runs straight through the forest, so even if your itinerary doesn't list it as a stop, you'll pass through it on the way to or from the Chocolate Hills.
 
 ## What to see and do
 
-The core of the visit is simple: a roadside viewing deck and a couple of designated pull-offs where vehicles stop so passengers can walk into the tree rows for photos. Look for the section where the canopy is thickest and the light comes through in narrow beams — this is the spot nearly every photo of the forest is taken from. There are short informal trails leading a few meters off the road into the trees, enough to get the sensation of being enclosed by trunks without a real hike. Some stalls near the parking area sell coconut snacks, buko juice, and souvenirs, useful for a quick break before continuing on to Chocolate Hills or the Man-Made Forest's neighbor attraction, the Bilar Bamboo groves nearby.
+The core of the visit is simple: a roadside viewing deck and a couple of designated pull-offs where vehicles stop so passengers can walk into the tree rows for photos. Look for the section where the canopy is thickest and the light comes through in narrow beams — this is the spot nearly every photo of the forest is taken from.
+
+There are short informal trails leading a few meters off the road into the trees, enough to get the sensation of being enclosed by trunks without a real hike. Some stalls near the parking area sell coconut snacks, buko juice, and souvenirs, useful for a quick break before continuing on to Chocolate Hills or the Man-Made Forest's neighbor attraction, the Bilar Bamboo groves nearby.
 
 ## When to go
 
@@ -76,4 +82,8 @@ Early morning (before 9am) or late afternoon light gives the most dramatic shaft
 
 ## How to visit like a local
 
-Treat this as a five-to-fifteen-minute photo stop within a longer countryside itinerary, not a standalone destination — that's how most vehicles moving between Loboc and the Chocolate Hills actually use it. Ask your driver or tour guide to time the stop for early morning before the bulk of tour vans start their loop; that's the practical way to dodge the crowding at the viewing deck. There's no formal ticket booth or fixed entrance fee here — it's a public road corridor, so bring small pesos in cash for the snack stalls rather than expecting card payment. Don't wander far off the marked pull-off areas; the trees are planted close and the ground between rows isn't set up as trail. If you're on a rented scooter, pull fully off the road shoulder before stopping to shoot photos, since traffic moves through at speed and the road has no dedicated parking bays. Pair the stop with the nearby Loboc River for a cool-water contrast, and keep your camera ready before you arrive — the forest starts abruptly, and blink-and-you-miss-it is a real risk if you're dozing in the back seat.
+Treat this as a five-to-fifteen-minute photo stop within a longer countryside itinerary, not a standalone destination — that's how most vehicles moving between Loboc and the Chocolate Hills actually use it. Ask your driver or tour guide to time the stop for early morning before the bulk of tour vans start their loop; that's the practical way to dodge the crowding at the viewing deck.
+
+There's no formal ticket booth or fixed entrance fee here — it's a public road corridor, so bring small pesos in cash for the snack stalls rather than expecting card payment. Don't wander far off the marked pull-off areas; the trees are planted close and the ground between rows isn't set up as trail. If you're on a rented scooter, pull fully off the road shoulder before stopping to shoot photos, since traffic moves through at speed and the road has no dedicated parking bays.
+
+Pair the stop with the nearby Loboc River for a cool-water contrast, and keep your camera ready before you arrive — the forest starts abruptly, and blink-and-you-miss-it is a real risk if you're dozing in the back seat.

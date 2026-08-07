@@ -87,19 +87,29 @@ draft: false
 
 ## Why go
 
-You come to the Peppermill for the same reason people have come since the late 1970s: it's the last big free-standing coffee shop on the Strip that still feels like Vegas before the mega-resorts swallowed everything. Step off Las Vegas Boulevard, past the fake palm fronds and neon script sign, and the volume drops — the casino-floor clang gives way to dim lighting, mirrored ceilings, and a sunken cocktail lounge built around a fire pit ringed by water. It's kitsch, but earnest kitsch, the kind that's been polished by four decades of regulars, bachelorette parties, and night-shift dealers coming off a double.
+You come to the Peppermill for the same reason people have come since the late 1970s: it's the last big free-standing coffee shop on the Strip that still feels like Vegas before the mega-resorts swallowed everything. Step off Las Vegas Boulevard, past the fake palm fronds and neon script sign, and the volume drops — the casino-floor clang gives way to dim lighting, mirrored ceilings, and a sunken cocktail lounge built around a fire pit ringed by water.
+
+It's kitsch, but earnest kitsch, the kind that's been polished by four decades of regulars, bachelorette parties, and night-shift dealers coming off a double.
 
 ## Getting there
 
-The address is 2985 Las Vegas Blvd S, roughly across from the Fashion Show Mall and a short walk south of the Wynn and Encore, on the west side of the Strip near Riviera Boulevard. There's no dedicated Strip monorail stop nearby, so most visitors either walk from a Strip hotel (it's about a 10–15 minute walk from Circus Circus or Treasure Island) or take a rideshare — traffic on the Boulevard can make even a short trip slow during peak hours, so budget extra time in the evening. If you're driving, there's a surface parking lot behind the building, which is more convenient than hunting for Strip garage parking.
+The address is 2985 Las Vegas Blvd S, roughly across from the Fashion Show Mall and a short walk south of the Wynn and Encore, on the west side of the Strip near Riviera Boulevard. There's no dedicated Strip monorail stop nearby, so most visitors either walk from a Strip hotel (it's about a 10–15 minute walk from Circus Circus or Treasure Island) or take a rideshare — traffic on the Boulevard can make even a short trip slow during peak hours, so budget extra time in the evening.
+
+If you're driving, there's a surface parking lot behind the building, which is more convenient than hunting for Strip garage parking.
 
 ## What to eat (and drink)
 
-This is a diner at its core, so the menu leans into classic American comfort food: the Denver omelet and the corned beef hash are old standbys for breakfast, which is available essentially around the clock. Portions are famously huge — a single order of anything can comfortably feed two — and that generosity is a big part of the restaurant's reputation. But the real draw for a lot of visitors is the Fireside Lounge attached to the dining room: a dark, low-slung cocktail bar with round leather booths, a reflection pool, and a gas fire pit in the center. Order one of the oversized, fruit-garnished specialty cocktails — the kind served in a glass big enough to need two hands — and just sit with it for a while. It's a mid-range spot by Strip standards: not cheap diner prices, but nowhere near the tasting-menu territory of the resort restaurants nearby.
+This is a diner at its core, so the menu leans into classic American comfort food: the Denver omelet and the corned beef hash are old standbys for breakfast, which is available essentially around the clock. Portions are famously huge — a single order of anything can comfortably feed two — and that generosity is a big part of the restaurant's reputation.
+
+But the real draw for a lot of visitors is the Fireside Lounge attached to the dining room: a dark, low-slung cocktail bar with round leather booths, a reflection pool, and a gas fire pit in the center. Order one of the oversized, fruit-garnished specialty cocktails — the kind served in a glass big enough to need two hands — and just sit with it for a while.
+
+It's a mid-range spot by Strip standards: not cheap diner prices, but nowhere near the tasting-menu territory of the resort restaurants nearby.
 
 ## When to go
 
-The Peppermill keeps unusual hours depending on the day: Monday and Tuesday it runs 7am to 2am, Wednesday it closes earlier at midnight, and from Thursday through Sunday it's open all night, every night. That flexibility is part of its appeal — it's one of the few places on the Strip where a 3am plate of hash browns is genuinely possible, but only from Thursday onward. Measured foot traffic shows the calmest window is consistently 7am–8am, both on weekdays and weekends, before the breakfast rush builds. On weekends, things stay busy from mid-morning all the way through 11pm, so if you want the lounge's fire pit without a wait, an early-morning cocktail (yes, people do this) or a very late-night visit outside that 9am–11pm stretch is your best bet.
+The Peppermill keeps unusual hours depending on the day: Monday and Tuesday it runs 7am to 2am, Wednesday it closes earlier at midnight, and from Thursday through Sunday it's open all night, every night. That flexibility is part of its appeal — it's one of the few places on the Strip where a 3am plate of hash browns is genuinely possible, but only from Thursday onward.
+
+Measured foot traffic shows the calmest window is consistently 7am–8am, both on weekdays and weekends, before the breakfast rush builds. On weekends, things stay busy from mid-morning all the way through 11pm, so if you want the lounge's fire pit without a wait, an early-morning cocktail (yes, people do this) or a very late-night visit outside that 9am–11pm stretch is your best bet.
 
 ## The lounge experience
 
@@ -107,4 +117,6 @@ Even if you skip the dining room, the Fireside Lounge is worth ducking into on i
 
 ## How to visit like a local
 
-Because this is a very popular, high-traffic stop rather than an under-the-radar find, the smartest move is timing, not secrecy. Aim for that 7am–8am window if you want an actual table without a wait, especially on weekends when the place stays packed into the evening. There's no reservation system for casual visits — it's a walk-in, take-a-seat-at-the-host-stand kind of place, so arriving right at opening or well after midnight (on the nights it runs 24 hours) is how regulars avoid the line. Cash and card are both fine, and standard American restaurant tipping — around 18-20% for table service — applies in both the diner and the lounge. The rookie mistake is treating the lounge like a quick photo-op bar: settle into a booth, order one big cocktail, and let it be the slow part of your night rather than a five-minute detour.
+Because this is a very popular, high-traffic stop rather than an under-the-radar find, the smartest move is timing, not secrecy. Aim for that 7am–8am window if you want an actual table without a wait, especially on weekends when the place stays packed into the evening. There's no reservation system for casual visits — it's a walk-in, take-a-seat-at-the-host-stand kind of place, so arriving right at opening or well after midnight (on the nights it runs 24 hours) is how regulars avoid the line.
+
+Cash and card are both fine, and standard American restaurant tipping — around 18-20% for table service — applies in both the diner and the lounge. The rookie mistake is treating the lounge like a quick photo-op bar: settle into a booth, order one big cocktail, and let it be the slow part of your night rather than a five-minute detour.

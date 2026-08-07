@@ -77,15 +77,21 @@ You enter through a stone gate carved with a relief of Santiago Matamoros — St
 
 ## Why go
 
-Fort Santiago isn't just a photogenic ruin — it's the place where José Rizal spent his last night before his execution in 1896, and where thousands of civilians and POWs were held and killed during the Japanese occupation of WWII. The Rizal Shrine, housed in what was once part of the fort's barracks, holds his personal effects, letters, and the room where he wrote his final poem. Bronze footsteps set into the pavement trace his walk from cell to the firing squad site on the old Plaza de Armas, a simple but genuinely affecting detail that turns an abstract history lesson into something physical you can follow with your own feet.
+Fort Santiago isn't just a photogenic ruin — it's the place where José Rizal spent his last night before his execution in 1896, and where thousands of civilians and POWs were held and killed during the Japanese occupation of WWII. The Rizal Shrine, housed in what was once part of the fort's barracks, holds his personal effects, letters, and the room where he wrote his final poem.
+
+Bronze footsteps set into the pavement trace his walk from cell to the firing squad site on the old Plaza de Armas, a simple but genuinely affecting detail that turns an abstract history lesson into something physical you can follow with your own feet.
 
 ## Getting there
 
-Fort Santiago sits at the northwestern edge of Intramuros, Manila's walled Spanish-colonial old town, with its entrance facing Anda Circle near the Pasig River. The easiest approach is by taxi or ride-hailing app directly to the fort's gate — traffic in central Manila can be unpredictable, so build in extra time. If you're already exploring Intramuros on foot, it's a straightforward walk from Manila Cathedral or San Agustin Church, both within the same walled district, roughly 10–15 minutes depending on your pace. Many visitors also arrive via a *calesa* (horse-drawn carriage), a popular if touristy way to tour Intramuros' cobbled streets before or after the fort.
+Fort Santiago sits at the northwestern edge of Intramuros, Manila's walled Spanish-colonial old town, with its entrance facing Anda Circle near the Pasig River. The easiest approach is by taxi or ride-hailing app directly to the fort's gate — traffic in central Manila can be unpredictable, so build in extra time. If you're already exploring Intramuros on foot, it's a straightforward walk from Manila Cathedral or San Agustin Church, both within the same walled district, roughly 10–15 minutes depending on your pace.
+
+Many visitors also arrive via a *calesa* (horse-drawn carriage), a popular if touristy way to tour Intramuros' cobbled streets before or after the fort.
 
 ## What to see and do inside
 
-Past the gate, the path opens onto wide lawns and the fort's outer bulwarks, where you can climb up onto the walls for a view over the Pasig River and, on clearer days, Manila Bay in the distance. Cannons still point out from the ramparts. Below, the Baluarte de Santa Barbara and the old dungeons are worth ducking into — low, damp chambers where prisoners were once held, some of them flooded at high tide in a grim design detail that's hard to forget once you've seen it. The Rizal Shrine museum is the centerpiece: expect glass cases of Rizal's writings, personal items, and reproductions of his execution. Set aside at least 45 minutes for the museum alone, and another 45 minutes to an hour for the grounds and walls.
+Past the gate, the path opens onto wide lawns and the fort's outer bulwarks, where you can climb up onto the walls for a view over the Pasig River and, on clearer days, Manila Bay in the distance. Cannons still point out from the ramparts. Below, the Baluarte de Santa Barbara and the old dungeons are worth ducking into — low, damp chambers where prisoners were once held, some of them flooded at high tide in a grim design detail that's hard to forget once you've seen it.
+
+The Rizal Shrine museum is the centerpiece: expect glass cases of Rizal's writings, personal items, and reproductions of his execution. Set aside at least 45 minutes for the museum alone, and another 45 minutes to an hour for the grounds and walls.
 
 ## When to go
 
@@ -93,4 +99,8 @@ Fort Santiago is open daily, which makes it one of the few Intramuros sites you 
 
 ## How to visit like a local
 
-Go early. Because this is a heavily visited landmark rather than an under-the-radar spot, the single best move is timing, not secrecy — arrive right at 8am on a weekday if you can, or by 10am at the latest on weekends, before the tour buses from nearby hotels unload. Bring small bills for the entrance fee (prices are modest but change occasionally, so don't assume last year's rate), and note that lines at the ticket booth move fastest in the morning. Evenings after 6pm have their own appeal — cooler air, floodlit walls, far fewer people — and since the fort stays open until 11pm, it's a legitimate alternative to the crowded daytime hours if you don't mind seeing the museum sections closed earlier than the grounds. Wear shoes you can walk cobblestones and uneven stone steps in; the ramparts have no handrails in places. Combine your visit with San Agustin Church or Casa Manila within Intramuros to make a half-day of it, and treat the fort itself as a place to linger rather than rush — the atmosphere, especially near the execution site at dusk, rewards slowing down.
+Go early. Because this is a heavily visited landmark rather than an under-the-radar spot, the single best move is timing, not secrecy — arrive right at 8am on a weekday if you can, or by 10am at the latest on weekends, before the tour buses from nearby hotels unload. Bring small bills for the entrance fee (prices are modest but change occasionally, so don't assume last year's rate), and note that lines at the ticket booth move fastest in the morning.
+
+Evenings after 6pm have their own appeal — cooler air, floodlit walls, far fewer people — and since the fort stays open until 11pm, it's a legitimate alternative to the crowded daytime hours if you don't mind seeing the museum sections closed earlier than the grounds. Wear shoes you can walk cobblestones and uneven stone steps in; the ramparts have no handrails in places.
+
+Combine your visit with San Agustin Church or Casa Manila within Intramuros to make a half-day of it, and treat the fort itself as a place to linger rather than rush — the atmosphere, especially near the execution site at dusk, rewards slowing down.

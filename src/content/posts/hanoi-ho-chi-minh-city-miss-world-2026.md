@@ -75,7 +75,9 @@ Exact venues, daily schedules, and which host city gets which segment have not b
 
 ## Getting there and getting around
 
-Both host cities have major international airports: **Noi Bai International (HAN)** in Hanoi and **Tan Son Nhat International (SGN)** in Ho Chi Minh City, both served by long-haul carriers from Europe, North America, Australia, and across Asia. Domestic flights between the two cities run roughly 2 hours and are frequent on Vietnam Airlines, Vietjet, and Bamboo Airways, making a two-city trip (arrival events in Hanoi, finale in HCMC, or vice versa) very feasible within a single visit. The **Reunification Express train** is a scenic but much slower alternative (30+ hours), better as a bonus leg than a main transport plan.
+Both host cities have major international airports: **Noi Bai International (HAN)** in Hanoi and **Tan Son Nhat International (SGN)** in Ho Chi Minh City, both served by long-haul carriers from Europe, North America, Australia, and across Asia. Domestic flights between the two cities run roughly 2 hours and are frequent on Vietnam Airlines, Vietjet, and Bamboo Airways, making a two-city trip (arrival events in Hanoi, finale in HCMC, or vice versa) very feasible within a single visit.
+
+The **Reunification Express train** is a scenic but much slower alternative (30+ hours), better as a bonus leg than a main transport plan.
 
 ## What to see while you're there
 
@@ -88,5 +90,7 @@ Pageant week is also a good excuse to sample regional food differences: Hanoi's 
 
 ## Practical notes and when to go
 
-August and early September fall in Vietnam's rainy season in both the north and south — expect humid heat, sudden downpours, and occasional typhoon activity, especially in central and northern regions. Pack light, quick-dry clothing and a compact umbrella rather than a poncho. Hotel rates and flight prices in both cities are likely to climb as September 5 approaches, so booking accommodation early — especially in HCMC around the finale dates — is the single most useful thing to do now. Tickets, if made publicly available, would be announced through Miss World's official website and Vietnamese state broadcaster partners; avoid third-party resellers until an official sales channel is confirmed.
+August and early September fall in Vietnam's rainy season in both the north and south — expect humid heat, sudden downpours, and occasional typhoon activity, especially in central and northern regions. Pack light, quick-dry clothing and a compact umbrella rather than a poncho. Hotel rates and flight prices in both cities are likely to climb as September 5 approaches, so booking accommodation early — especially in HCMC around the finale dates — is the single most useful thing to do now.
+
+Tickets, if made publicly available, would be announced through Miss World's official website and Vietnamese state broadcaster partners; avoid third-party resellers until an official sales channel is confirmed.
 

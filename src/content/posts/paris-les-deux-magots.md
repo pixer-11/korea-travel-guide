@@ -81,7 +81,9 @@ draft: false
 
 ## Why go
 
-You come to Les Deux Magots less for a single dish and more for the room itself — the wicker chairs lined up like theatre seats facing Place Saint-Germain-des-Prés, the brass rails worn smooth, the two carved wooden figures of Chinese dignitaries (the "magots" that give the place its name) watching over the interior from their perch near the bar. Opened in 1885, this is one of the addresses that shaped how the world imagines the Left Bank: Sartre and Simone de Beauvoir worked at these tables, Hemingway drank here, and the café still hands out an annual literary prize. You're not visiting a museum piece, though — waiters in long white aprons and black waistcoats still glide between tables with the same brisk formality, and the espresso machine still hisses behind the zinc bar every few minutes from open to close.
+You come to Les Deux Magots less for a single dish and more for the room itself — the wicker chairs lined up like theatre seats facing Place Saint-Germain-des-Prés, the brass rails worn smooth, the two carved wooden figures of Chinese dignitaries (the "magots" that give the place its name) watching over the interior from their perch near the bar.
+
+Opened in 1885, this is one of the addresses that shaped how the world imagines the Left Bank: Sartre and Simone de Beauvoir worked at these tables, Hemingway drank here, and the café still hands out an annual literary prize. You're not visiting a museum piece, though — waiters in long white aprons and black waistcoats still glide between tables with the same brisk formality, and the espresso machine still hisses behind the zinc bar every few minutes from open to close.
 
 ## Getting there
 
@@ -89,12 +91,20 @@ The café sits directly on Place Saint-Germain-des-Prés at 6 Place Saint-Germai
 
 ## What to see / eat
 
-The menu leans classic French brasserie: onion soup gratinée, steak tartare prepared tableside, croque monsieur, and their own hot chocolate, which arrives thick and dark in a small silver pot. Breakfast here is a ritual in itself — a basket of croissants and the house jam alongside a café crème as the square wakes up around you. Prices sit on the higher end for Paris café culture; you're paying for the location, the history, and the linen as much as the food, so treat it as an experience rather than a bargain meal. Sit on the heated, glass-enclosed terrace if you want the street theatre — passersby, the church bells marking the hour, tourists photographing the awning — or move inside near the magots statues for a quieter, wood-paneled hush.
+The menu leans classic French brasserie: onion soup gratinée, steak tartare prepared tableside, croque monsieur, and their own hot chocolate, which arrives thick and dark in a small silver pot. Breakfast here is a ritual in itself — a basket of croissants and the house jam alongside a café crème as the square wakes up around you. Prices sit on the higher end for Paris café culture; you're paying for the location, the history, and the linen as much as the food, so treat it as an experience rather than a bargain meal.
+
+Sit on the heated, glass-enclosed terrace if you want the street theatre — passersby, the church bells marking the hour, tourists photographing the awning — or move inside near the magots statues for a quieter, wood-paneled hush.
 
 ## When to go
 
-The café opens at 7:30am every day and stays open until 1am, so there's real flexibility here that most Paris cafés don't offer. Mornings are genuinely calm: the quiet window runs from opening until about 11am on both weekdays and weekends, when you can actually hear the coffee machine over conversation. Avoid rolling in on a weekend between noon and 9pm — that stretch is consistently the busiest, with tour groups and lunch crowds filling the terrace and a wait for tables. If you're set on a weekend visit, either arrive right at 7:30am for breakfast or hold off until after 9pm, when things thin out again.
+The café opens at 7:30am every day and stays open until 1am, so there's real flexibility here that most Paris cafés don't offer. Mornings are genuinely calm: the quiet window runs from opening until about 11am on both weekdays and weekends, when you can actually hear the coffee machine over conversation. Avoid rolling in on a weekend between noon and 9pm — that stretch is consistently the busiest, with tour groups and lunch crowds filling the terrace and a wait for tables.
+
+If you're set on a weekend visit, either arrive right at 7:30am for breakfast or hold off until after 9pm, when things thin out again.
 
 ## How to visit like a local
 
-Skip the idea of booking — Les Deux Magots doesn't run on reservations for casual visits, it runs on the terrace turning over, so arrive with a little patience or come at an off-peak hour instead. Order at your seat once a waiter approaches; there's no counter service here despite the café feel. A café or coffee at the bar (if you stand) is the cheapest way to experience the room, while a full sit-down meal on the terrace is where the price climbs. Tipping isn't obligatory since service is included by law in France, but rounding up a euro or two in cash is normal and appreciated. Because this is a very well-known, very well-visited address rather than a quiet local haunt, don't expect to have it to yourself — the smarter move is timing, not searching for a secret entrance or back table. The most common tourist mistake is treating it purely as a photo-op and rushing off; slow down, order the hot chocolate, and let the people-watching do the work — that's genuinely what the place is for.
+Skip the idea of booking — Les Deux Magots doesn't run on reservations for casual visits, it runs on the terrace turning over, so arrive with a little patience or come at an off-peak hour instead. Order at your seat once a waiter approaches; there's no counter service here despite the café feel. A café or coffee at the bar (if you stand) is the cheapest way to experience the room, while a full sit-down meal on the terrace is where the price climbs.
+
+Tipping isn't obligatory since service is included by law in France, but rounding up a euro or two in cash is normal and appreciated. Because this is a very well-known, very well-visited address rather than a quiet local haunt, don't expect to have it to yourself — the smarter move is timing, not searching for a secret entrance or back table.
+
+The most common tourist mistake is treating it purely as a photo-op and rushing off; slow down, order the hot chocolate, and let the people-watching do the work — that's genuinely what the place is for.

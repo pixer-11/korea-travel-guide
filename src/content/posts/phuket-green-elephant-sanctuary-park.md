@@ -49,11 +49,15 @@ Phuket has dozens of "elephant experience" outfits, but most are clustered aroun
 
 ## What to see and do
 
-Visits run as small guided groups moving through a set sequence: an introduction to the herd (most sanctuaries here host rescued elephants formerly used in logging or tourist-riding camps), a hands-on feeding session with bananas and sugarcane, a walk alongside the elephants through the park's jungle paths, and a mud spa/bath session in a shallow pool where visitors help scrub the animals down. Guides typically explain each elephant's backstory and the visible signs of old injuries from their working years — it's as much a rescue-education stop as an animal encounter. Sessions run for roughly half a day (morning or afternoon slots), which is enough time without feeling rushed, and groups are kept small enough that everyone gets close contact rather than watching from a distance.
+Visits run as small guided groups moving through a set sequence: an introduction to the herd (most sanctuaries here host rescued elephants formerly used in logging or tourist-riding camps), a hands-on feeding session with bananas and sugarcane, a walk alongside the elephants through the park's jungle paths, and a mud spa/bath session in a shallow pool where visitors help scrub the animals down.
+
+Guides typically explain each elephant's backstory and the visible signs of old injuries from their working years — it's as much a rescue-education stop as an animal encounter. Sessions run for roughly half a day (morning or afternoon slots), which is enough time without feeling rushed, and groups are kept small enough that everyone gets close contact rather than watching from a distance.
 
 ## Getting there
 
-The sanctuary sits inland from Bang Tao and Layan beaches in Cherngtalay, Thalang — Phuket's northwest resort belt, close to the Boat Avenue and Porto de Phuket shopping areas. There's no meaningful public bus network to the site, so practical options are: a Grab/taxi from your hotel (most west-coast resorts from Surin to Layan are a 10–20 minute drive), a rental scooter or car if you're comfortable with Thai traffic, or the shared hotel-pickup transfer that many sanctuaries include when you book directly through their website — check at booking time, since pickup zones are usually limited to nearby beach areas rather than the whole island. From Phuket International Airport it's roughly 25–35 minutes by car, making it an easy stop on an arrival or departure day if timing allows.
+The sanctuary sits inland from Bang Tao and Layan beaches in Cherngtalay, Thalang — Phuket's northwest resort belt, close to the Boat Avenue and Porto de Phuket shopping areas. There's no meaningful public bus network to the site, so practical options are: a Grab/taxi from your hotel (most west-coast resorts from Surin to Layan are a 10–20 minute drive), a rental scooter or car if you're comfortable with Thai traffic, or the shared hotel-pickup transfer that many sanctuaries include when you book directly through their website — check at booking time, since pickup zones are usually limited to nearby beach areas rather than the whole island.
+
+From Phuket International Airport it's roughly 25–35 minutes by car, making it an easy stop on an arrival or departure day if timing allows.
 
 ## When to go
 
@@ -61,4 +65,6 @@ Book the morning slot if you want cooler temperatures and calmer elephants — P
 
 ## Nearby and practical tips
 
-Because it sits in Cherngtalay rather than the touristy south, you can easily pair a visit with lunch in Boat Avenue or a walk along Layan or Bang Tao beach afterward — both are a short drive away. Bring reef-safe insect repellent, a towel, and sandals you don't mind getting wet; leave cameras in a dry bag if you plan to get in the mud pool yourself. Reviews consistently praise the guides' knowledge and the unhurried pace, so this suits travelers who want a genuine rescue-sanctuary visit over a quick souvenir-photo stop. As with most private sanctuaries, exact tour prices, start times, and group sizes shift seasonally, so confirm current schedules and rates directly with the park before booking, ideally a few days ahead since small-group slots fill up during high season (December–February).
+Because it sits in Cherngtalay rather than the touristy south, you can easily pair a visit with lunch in Boat Avenue or a walk along Layan or Bang Tao beach afterward — both are a short drive away. Bring reef-safe insect repellent, a towel, and sandals you don't mind getting wet; leave cameras in a dry bag if you plan to get in the mud pool yourself.
+
+Reviews consistently praise the guides' knowledge and the unhurried pace, so this suits travelers who want a genuine rescue-sanctuary visit over a quick souvenir-photo stop. As with most private sanctuaries, exact tour prices, start times, and group sizes shift seasonally, so confirm current schedules and rates directly with the park before booking, ideally a few days ahead since small-group slots fill up during high season (December–February).

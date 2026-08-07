@@ -73,7 +73,9 @@ The complex sits at 335 Smith Street, in the heart of Chinatown. The closest MRT
 
 ## What to eat
 
-Head straight to the second floor for cooked food; the ground floor is the wet market (produce, meat, dry goods), worth a walk-through but not where you'll sit down to eat. Stalls worth seeking out by name include Liao Fan Hawker Chai Tow Kway, a Michelin-recognized operation known for its char siu and soya sauce chicken rice lineage, and the perennially long-queued Hong Kong Soya Sauce Chicken Rice & Noodle stall—both have drawn Michelin Bib Gourmand attention in past years. Beyond the headline names, look for stalls specializing in single dishes done well: fish soup, oyster omelette, carrot cake (chai tow kway, both the black sugar-glazed and white versions), popiah, and claypot rice. As with most hawker centres, the rule of thumb is to follow the stall with the visible queue of locals, not tourists—it's usually a sign the kitchen is turning out a single specialty fast and fresh rather than a broad, mediocre menu.
+Head straight to the second floor for cooked food; the ground floor is the wet market (produce, meat, dry goods), worth a walk-through but not where you'll sit down to eat. Stalls worth seeking out by name include Liao Fan Hawker Chai Tow Kway, a Michelin-recognized operation known for its char siu and soya sauce chicken rice lineage, and the perennially long-queued Hong Kong Soya Sauce Chicken Rice & Noodle stall—both have drawn Michelin Bib Gourmand attention in past years.
+
+Beyond the headline names, look for stalls specializing in single dishes done well: fish soup, oyster omelette, carrot cake (chai tow kway, both the black sugar-glazed and white versions), popiah, and claypot rice. As with most hawker centres, the rule of thumb is to follow the stall with the visible queue of locals, not tourists—it's usually a sign the kitchen is turning out a single specialty fast and fresh rather than a broad, mediocre menu.
 
 ## When to go
 
@@ -81,7 +83,11 @@ Weekday mornings before 11am are calmest, since the market and food stalls open 
 
 ## How to visit like a local
 
-Given how popular and frequently written-up this hawker centre now is, don't expect a quiet, undiscovered find—it draws heavy tourist traffic on top of its market-day regulars, so the practical local move is timing, not secrecy. Locals eat in shifts: an early market run, then a fast lunch, rarely lingering. Payment is mostly cash at older stalls, though a growing number now accept PayNow or card via QR code—carry small bills to avoid holdups at the till. There's no tipping. Claim a table first if the hall is busy (leaving a packet of tissue on the seat is the customary way locals reserve a spot), then order at individual stalls and carry your own tray—there's no table service. Split dishes across two or three stalls between your group rather than ordering a full meal from one counter; that's how regulars sample more for less. The most common tourist mistake is joining the longest queue on principle: some of the best food here comes from stalls with modest lines simply because they're less Instagrammed, and prices climb faster at the famous names, so weigh a 20-minute wait against trying something less hyped nearby.
+Given how popular and frequently written-up this hawker centre now is, don't expect a quiet, undiscovered find—it draws heavy tourist traffic on top of its market-day regulars, so the practical local move is timing, not secrecy. Locals eat in shifts: an early market run, then a fast lunch, rarely lingering. Payment is mostly cash at older stalls, though a growing number now accept PayNow or card via QR code—carry small bills to avoid holdups at the till.
+
+There's no tipping. Claim a table first if the hall is busy (leaving a packet of tissue on the seat is the customary way locals reserve a spot), then order at individual stalls and carry your own tray—there's no table service. Split dishes across two or three stalls between your group rather than ordering a full meal from one counter; that's how regulars sample more for less.
+
+The most common tourist mistake is joining the longest queue on principle: some of the best food here comes from stalls with modest lines simply because they're less Instagrammed, and prices climb faster at the famous names, so weigh a 20-minute wait against trying something less hyped nearby.
 
 ## Nearby to pair with your visit
 

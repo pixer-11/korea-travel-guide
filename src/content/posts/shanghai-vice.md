@@ -32,19 +32,27 @@ draft: false
 
 ## Why VICE Stands Out
 
-Shanghai's restaurant scene turns over constantly, but VICE has arrived with a pedigree worth noting: chef Carlos Sotomayor, whose cooking draws on Peruvian tradition, has teamed up with Raffe Ibrahamian, the operator behind Cantina Agave, one of the city's established agave-and-Mexican-food destinations. Together they've built a menu that threads Peruvian technique and flavor through an Asian-influenced lens — a combination that's still rare in Shanghai, where Latin American cooking remains a small niche compared to the city's deep bench of French, Italian, and Cantonese fine dining. The result is being watched closely by the city's food press as one of the more distinctive concept launches of the season.
+Shanghai's restaurant scene turns over constantly, but VICE has arrived with a pedigree worth noting: chef Carlos Sotomayor, whose cooking draws on Peruvian tradition, has teamed up with Raffe Ibrahamian, the operator behind Cantina Agave, one of the city's established agave-and-Mexican-food destinations. Together they've built a menu that threads Peruvian technique and flavor through an Asian-influenced lens — a combination that's still rare in Shanghai, where Latin American cooking remains a small niche compared to the city's deep bench of French, Italian, and Cantonese fine dining.
+
+The result is being watched closely by the city's food press as one of the more distinctive concept launches of the season.
 
 ## The Setting: A Restored Lane House on Yongjia Lu
 
-Rather than a glass-tower dining room, VICE occupies a restored heritage lane house on Yongjia Lu, a leafy street in the former French Concession known for its plane-tree canopy and a steady mix of independent boutiques, wine bars, and chef-driven restaurants tucked into converted shikumen and villa buildings. The choice of a lane house is very much in step with how the neighborhood's best newer openings present themselves: intimate, residential-feeling spaces that preserve original brick, timber, or window details rather than stripping them for a generic modern fit-out. Expect the kind of layout typical of these conversions — multiple smaller rooms or floors rather than one big hall, which tends to make reservations for prime slots and larger groups tighter than a standalone building would allow.
+Rather than a glass-tower dining room, VICE occupies a restored heritage lane house on Yongjia Lu, a leafy street in the former French Concession known for its plane-tree canopy and a steady mix of independent boutiques, wine bars, and chef-driven restaurants tucked into converted shikumen and villa buildings. The choice of a lane house is very much in step with how the neighborhood's best newer openings present themselves: intimate, residential-feeling spaces that preserve original brick, timber, or window details rather than stripping them for a generic modern fit-out.
+
+Expect the kind of layout typical of these conversions — multiple smaller rooms or floors rather than one big hall, which tends to make reservations for prime slots and larger groups tighter than a standalone building would allow.
 
 ## Getting There
 
-Yongjia Lu sits in the heart of the former French Concession, within easy reach of Shanghai's metro network. The closest stations are generally Jiaotong University Station or Changshu Road Station on Line 10 and Line 11, both a manageable walk into the tree-lined streets of the neighborhood; taxis and ride-hailing apps are the simplest option if you're coming from elsewhere in the city, since lane addresses can be fiddly to pinpoint on foot. Given the address is inside a converted lane house rather than a street-facing storefront, it's worth pulling up the exact pin in a map app and confirming the entrance before you arrive, as heritage-lane restaurants in this part of Shanghai are sometimes set back from the main road or shared with residential entrances.
+Yongjia Lu sits in the heart of the former French Concession, within easy reach of Shanghai's metro network. The closest stations are generally Jiaotong University Station or Changshu Road Station on Line 10 and Line 11, both a manageable walk into the tree-lined streets of the neighborhood; taxis and ride-hailing apps are the simplest option if you're coming from elsewhere in the city, since lane addresses can be fiddly to pinpoint on foot.
+
+Given the address is inside a converted lane house rather than a street-facing storefront, it's worth pulling up the exact pin in a map app and confirming the entrance before you arrive, as heritage-lane restaurants in this part of Shanghai are sometimes set back from the main road or shared with residential entrances.
 
 ## What to Expect at the Table
 
-Details on the actual menu were not confirmed at the time of writing, so it's best to treat any online rundowns of specific dishes as unconfirmed until you've checked directly with the restaurant or a very recent source. What is established is the concept: a fusion of Sotomayor's Peruvian cooking roots — think the kind of citrus-forward, chile-driven, seafood-savvy techniques associated with that cuisine — filtered through Asian ingredients and sensibility, under the same ownership hand that's built a following for Cantina Agave's approach to Latin American food in Shanghai. Diners coming from Cantina Agave should expect a related but distinct experience: VICE is its own concept, not a spinoff menu.
+Details on the actual menu were not confirmed at the time of writing, so it's best to treat any online rundowns of specific dishes as unconfirmed until you've checked directly with the restaurant or a very recent source. What is established is the concept: a fusion of Sotomayor's Peruvian cooking roots — think the kind of citrus-forward, chile-driven, seafood-savvy techniques associated with that cuisine — filtered through Asian ingredients and sensibility, under the same ownership hand that's built a following for Cantina Agave's approach to Latin American food in Shanghai.
+
+Diners coming from Cantina Agave should expect a related but distinct experience: VICE is its own concept, not a spinoff menu.
 
 ## Practical Tips Before You Go
 

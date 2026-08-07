@@ -52,17 +52,23 @@ draft: false
 
 ## Why go
 
-Aquarium Paradise doesn't look like much from the road — a modest shopfront wedged into the leafy stretch of Jayamahal Main Road, facing the old Doordarshan TV Tower. Step inside, though, and the space opens up into row after row of glass tanks stacked floor to ceiling, water pumps hissing, blue LED tube lights turning the whole room into a soft aquatic glow. This is Bengaluru's best-known address for ornamental fish, and it's earned a loyal, very large following — the kind of place where you'll find serious aquarists debating filtration systems next to families picking out their first goldfish.
+Aquarium Paradise doesn't look like much from the road — a modest shopfront wedged into the leafy stretch of Jayamahal Main Road, facing the old Doordarshan TV Tower. Step inside, though, and the space opens up into row after row of glass tanks stacked floor to ceiling, water pumps hissing, blue LED tube lights turning the whole room into a soft aquatic glow.
+
+This is Bengaluru's best-known address for ornamental fish, and it's earned a loyal, very large following — the kind of place where you'll find serious aquarists debating filtration systems next to families picking out their first goldfish.
 
 It's not a "sight" in the museum sense. There's no ticket counter, no curated exhibit placards. It functions as a retail aquarium — you're browsing livestock and equipment as much as admiring it — but the sheer density and variety of fish, from flashy discus and arowana to modest guppies and mollies, gives it the feel of a small, slightly chaotic public aquarium that happens to sell everything on display.
 
 ## Getting there
 
-Aquarium Paradise sits on Jayamahal Main Road in J.C. Nagar, in the leafy belt between Sadashivanagar and Cantonment, directly opposite the TV Tower — a handy landmark since the tower is visible from a distance and most auto-rickshaw drivers know it. If you're coming by metro, the nearest stations are on the Green Line around Mantri Square Sampige Road or Yeshwantpur, from where an auto is the easiest last leg; there's no station within walking distance. Driving yourself is straightforward on weekdays, though street parking near the TV Tower stretch can get tight in the evenings when the shop is busiest.
+Aquarium Paradise sits on Jayamahal Main Road in J.C. Nagar, in the leafy belt between Sadashivanagar and Cantonment, directly opposite the TV Tower — a handy landmark since the tower is visible from a distance and most auto-rickshaw drivers know it. If you're coming by metro, the nearest stations are on the Green Line around Mantri Square Sampige Road or Yeshwantpur, from where an auto is the easiest last leg; there's no station within walking distance.
+
+Driving yourself is straightforward on weekdays, though street parking near the TV Tower stretch can get tight in the evenings when the shop is busiest.
 
 ## What to see (and maybe bring home)
 
-The draw here is the sheer range: tank after tank of freshwater and marine species, some for a few hundred rupees, others — the larger arowanas, rare cichlids, imported marine fish — priced well into four figures. Staff are used to fielding questions from total beginners as well as people setting up 200-gallon tanks, and they'll usually walk you through compatibility (which fish can share a tank without eating each other) if you ask. Beyond livestock, there are aisles of equipment: filters, air pumps, driftwood, artificial and live plants, tank decorations, and bagged food. Even if you're not planning to buy a fish and fly home with it, it's worth 20 minutes just to wander past the tanks — the colour and motion of it is genuinely mesmerizing, especially the marine section where the lighting shifts to make coral-mimicking plastic and live rock glow.
+The draw here is the sheer range: tank after tank of freshwater and marine species, some for a few hundred rupees, others — the larger arowanas, rare cichlids, imported marine fish — priced well into four figures. Staff are used to fielding questions from total beginners as well as people setting up 200-gallon tanks, and they'll usually walk you through compatibility (which fish can share a tank without eating each other) if you ask.
+
+Beyond livestock, there are aisles of equipment: filters, air pumps, driftwood, artificial and live plants, tank decorations, and bagged food. Even if you're not planning to buy a fish and fly home with it, it's worth 20 minutes just to wander past the tanks — the colour and motion of it is genuinely mesmerizing, especially the marine section where the lighting shifts to make coral-mimicking plastic and live rock glow.
 
 ## When to go
 
@@ -70,6 +76,10 @@ Check current opening hours before you go, since shop hours can shift. Because i
 
 ## How to visit like a local
 
-Regulars treat this less as a sightseeing stop and more as a supply run, and you'll get more out of it if you do too. Know roughly what you want before you walk in — a type of fish, a tank size, a filtration problem — because the staff respond well to specific questions and can get overwhelmed fielding vague ones during busy stretches. Payment is typically by cash or card; carrying a bit of cash still helps for small accessory purchases. If you do buy live fish, ask for a proper double-bagged transport pack with oxygen, and don't dawdle elsewhere before getting them home or into a tank. The most common mistake newcomers make is buying fish species impulsively without checking compatibility — ask before you buy, since the staff will tell you plainly if two species will fight or if a tank is too small. And because this is a very popular stop for local hobbyists, not a quiet backstreet find, don't expect an empty shop — the buzz of people and pumps is part of the experience.
+Regulars treat this less as a sightseeing stop and more as a supply run, and you'll get more out of it if you do too. Know roughly what you want before you walk in — a type of fish, a tank size, a filtration problem — because the staff respond well to specific questions and can get overwhelmed fielding vague ones during busy stretches.
+
+Payment is typically by cash or card; carrying a bit of cash still helps for small accessory purchases. If you do buy live fish, ask for a proper double-bagged transport pack with oxygen, and don't dawdle elsewhere before getting them home or into a tank. The most common mistake newcomers make is buying fish species impulsively without checking compatibility — ask before you buy, since the staff will tell you plainly if two species will fight or if a tank is too small.
+
+And because this is a very popular stop for local hobbyists, not a quiet backstreet find, don't expect an empty shop — the buzz of people and pumps is part of the experience.
 
 Pair the visit with a stroll through the nearby Sadashivanagar and Jayamahal neighbourhoods, both dotted with cafés and quiet, tree-lined residential streets, or continue on to the Bangalore Golf Club and Cubbon Park area, a short drive south, to round out a half-day loop.

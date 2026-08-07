@@ -97,15 +97,21 @@ draft: false
 ---
 ## Why go
 
-Art House Cafe is less a standalone café than a discovery inside the Etihad Modern Art Gallery, one of Abu Dhabi's low-key cultural spots in the Al Bateen area. The pairing works: you get a genuinely photogenic, colorful interior — think mismatched art, bold wall pieces, and a leafy courtyard feel — alongside a menu built around breakfast plates, sandwiches, and specialty coffee and tea. With a 4.6 rating from over 3,000 reviews, it has built a loyal following among residents and visitors looking for a design-forward brunch spot that isn't in a mall. It's the kind of place suited to a slow morning: order, wander the gallery, sit back down for a second coffee.
+Art House Cafe is less a standalone café than a discovery inside the Etihad Modern Art Gallery, one of Abu Dhabi's low-key cultural spots in the Al Bateen area. The pairing works: you get a genuinely photogenic, colorful interior — think mismatched art, bold wall pieces, and a leafy courtyard feel — alongside a menu built around breakfast plates, sandwiches, and specialty coffee and tea.
+
+With a 4.6 rating from over 3,000 reviews, it has built a loyal following among residents and visitors looking for a design-forward brunch spot that isn't in a mall. It's the kind of place suited to a slow morning: order, wander the gallery, sit back down for a second coffee.
 
 ## Getting there
 
-The cafe is tucked into a villa at Al Huwelat Street, Villa No. 15, off 4 Al Falah Street, opposite Al Bateen, in Abu Dhabi's Bateen area (postal zone W17 03). This is a low-rise residential and diplomatic district on the western side of Abu Dhabi Island, a few minutes' drive from Al Bateen Marina and the Corniche's western stretch. There's no metro system in Abu Dhabi, so a taxi or ride-hailing app (Careem or Uber) is the most straightforward way in — expect roughly a 10–15 minute ride from central Abu Dhabi landmarks like the Corniche or World Trade Center Mall. If you're driving, the villa setting means street parking is limited, so allow a few extra minutes to circle the block during peak hours.
+The cafe is tucked into a villa at Al Huwelat Street, Villa No. 15, off 4 Al Falah Street, opposite Al Bateen, in Abu Dhabi's Bateen area (postal zone W17 03). This is a low-rise residential and diplomatic district on the western side of Abu Dhabi Island, a few minutes' drive from Al Bateen Marina and the Corniche's western stretch.
+
+There's no metro system in Abu Dhabi, so a taxi or ride-hailing app (Careem or Uber) is the most straightforward way in — expect roughly a 10–15 minute ride from central Abu Dhabi landmarks like the Corniche or World Trade Center Mall. If you're driving, the villa setting means street parking is limited, so allow a few extra minutes to circle the block during peak hours.
 
 ## What to see and eat
 
-The draw is the split identity: half art gallery, half café. Etihad Modern Art Gallery showcases contemporary Emirati and regional art, and the cafe threads through and around the exhibition space, so a coffee here doubles as a mini gallery visit. On the menu, expect all-day breakfast plates (think shakshuka-style eggs, avocado toast, pancakes), a solid sandwich selection, fresh juices, and specialty coffee and tea — moderately priced, reflecting its café-with-ambition positioning rather than a budget grab-and-go spot. Portions and presentation lean toward the Instagram-friendly, but the food holds up as a genuine brunch destination rather than just a backdrop. Plan for 45 minutes to an hour if you're just eating, or up to 90 minutes if you want to properly explore the gallery walls between courses.
+The draw is the split identity: half art gallery, half café. Etihad Modern Art Gallery showcases contemporary Emirati and regional art, and the cafe threads through and around the exhibition space, so a coffee here doubles as a mini gallery visit. On the menu, expect all-day breakfast plates (think shakshuka-style eggs, avocado toast, pancakes), a solid sandwich selection, fresh juices, and specialty coffee and tea — moderately priced, reflecting its café-with-ambition positioning rather than a budget grab-and-go spot.
+
+Portions and presentation lean toward the Instagram-friendly, but the food holds up as a genuine brunch destination rather than just a backdrop. Plan for 45 minutes to an hour if you're just eating, or up to 90 minutes if you want to properly explore the gallery walls between courses.
 
 ## When to go
 
@@ -113,7 +119,11 @@ Weekday mornings (roughly 9–11 a.m.) tend to be the calmest window, before the
 
 ## How to visit like a local
 
-This is a well-known spot on Abu Dhabi's café circuit, not a hidden find, so treat it accordingly: it draws a steady, loyal crowd, and weekend brunch slots fill quickly. If you're set on a Friday or Saturday visit, call ahead or check if reservations are being taken that day, and have a backup plan in mind rather than showing up cold at noon. Payment is overwhelmingly by card or mobile pay (Apple Pay/Google Pay are widely accepted across Abu Dhabi cafés), though carrying some dirhams in small notes is still sensible for any incidental purchase. Tipping isn't obligatory in the UAE, but rounding up or leaving 10% for table service is common and appreciated. The most common visitor mistake is treating this purely as a quick coffee stop and rushing out — the gallery setting rewards a slower pace, so linger, walk the room, and look at what's on the walls rather than just snapping the seating area and leaving. Dress is casual but the space is polished, so smart-casual fits the vibe better than beach attire, especially if you're combining the visit with a stop at nearby Al Bateen Marina or the Corniche.
+This is a well-known spot on Abu Dhabi's café circuit, not a hidden find, so treat it accordingly: it draws a steady, loyal crowd, and weekend brunch slots fill quickly. If you're set on a Friday or Saturday visit, call ahead or check if reservations are being taken that day, and have a backup plan in mind rather than showing up cold at noon.
+
+Payment is overwhelmingly by card or mobile pay (Apple Pay/Google Pay are widely accepted across Abu Dhabi cafés), though carrying some dirhams in small notes is still sensible for any incidental purchase. Tipping isn't obligatory in the UAE, but rounding up or leaving 10% for table service is common and appreciated. The most common visitor mistake is treating this purely as a quick coffee stop and rushing out — the gallery setting rewards a slower pace, so linger, walk the room, and look at what's on the walls rather than just snapping the seating area and leaving.
+
+Dress is casual but the space is polished, so smart-casual fits the vibe better than beach attire, especially if you're combining the visit with a stop at nearby Al Bateen Marina or the Corniche.
 
 ## Nearby to pair with your visit
 

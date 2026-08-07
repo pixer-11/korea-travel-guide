@@ -73,11 +73,17 @@ draft: false
 
 ## Why go
 
-You come out of the LRT stairwell, cross the road, and suddenly the city opens up. After the shopfronts and scaffolding of central KL, Merdeka Square is startling for its sheer emptiness — a rectangle of clipped grass roughly the size of a football pitch, ringed by colonnades, copper domes, and clock towers instead of glass skyscrapers. At the northern end, a flagpole rises 95 metres, one of the tallest in the world, standing on the exact spot where the Union Jack was lowered and the flag of independent Malaya raised for the first time just after midnight on 31 August 1957. Stand underneath it and look up; on a breezy afternoon you can hear the fabric snapping overhead long before you see it.
+You come out of the LRT stairwell, cross the road, and suddenly the city opens up. After the shopfronts and scaffolding of central KL, Merdeka Square is startling for its sheer emptiness — a rectangle of clipped grass roughly the size of a football pitch, ringed by colonnades, copper domes, and clock towers instead of glass skyscrapers. At the northern end, a flagpole rises 95 metres, one of the tallest in the world, standing on the exact spot where the Union Jack was lowered and the flag of independent Malaya raised for the first time just after midnight on 31 August 1957.
+
+Stand underneath it and look up; on a breezy afternoon you can hear the fabric snapping overhead long before you see it.
 
 ## What you'll see
 
-The square is really an open-air stage for the buildings around it. On the east side, the Sultan Abdul Samad Building runs almost the full length of the field — a red-brick, Moorish-influenced confection of onion domes, horseshoe arches, and a clock tower that used to be the tallest structure in the city. It once housed British colonial administrative offices; today parts of it are used by the Ministry of Communications and for cultural events. Across the grass, the mock-Tudor Royal Selangor Club, with its black timber beams and wraparound veranda, has been a cricket and social club since 1884 — the pitch it faces is the same lawn now known as Merdeka Square. Walk a few minutes south along the Klang and Gombak rivers to the point where they meet, the Sungai Gabungan confluence and the site of KL's original settlement, now lit up at night as the River of Life installation. Just north of the square, Masjid Jamek, the city's oldest mosque, sits right at that river junction with its own striped domes and palm-lined courtyard.
+The square is really an open-air stage for the buildings around it. On the east side, the Sultan Abdul Samad Building runs almost the full length of the field — a red-brick, Moorish-influenced confection of onion domes, horseshoe arches, and a clock tower that used to be the tallest structure in the city. It once housed British colonial administrative offices; today parts of it are used by the Ministry of Communications and for cultural events.
+
+Across the grass, the mock-Tudor Royal Selangor Club, with its black timber beams and wraparound veranda, has been a cricket and social club since 1884 — the pitch it faces is the same lawn now known as Merdeka Square. Walk a few minutes south along the Klang and Gombak rivers to the point where they meet, the Sungai Gabungan confluence and the site of KL's original settlement, now lit up at night as the River of Life installation.
+
+Just north of the square, Masjid Jamek, the city's oldest mosque, sits right at that river junction with its own striped domes and palm-lined courtyard.
 
 ## Getting there
 
@@ -85,8 +91,14 @@ The easiest approach is Masjid Jamek LRT station (Kelana Jaya and Ampang/Sri Pet
 
 ## When to go
 
-The square is open 24 hours, but comfort and crowd size shift a lot through the day. On weekdays, it's quietest between 7am and 8am — cool air, joggers on the grass, almost no one else around the flagpole. Weekends are calmest between 7am and 9am, which is also the best light for photos of the Sultan Abdul Samad Building's façade. Avoid arriving on a weekend afternoon or evening: crowds build steadily from 4pm and stay heavy until around 11pm, when families, tour groups, and couples come out for the cooler air and the illuminated buildings. If you want the square lit up but without the density of people, aim for right after sunset on a weekday instead.
+The square is open 24 hours, but comfort and crowd size shift a lot through the day. On weekdays, it's quietest between 7am and 8am — cool air, joggers on the grass, almost no one else around the flagpole. Weekends are calmest between 7am and 9am, which is also the best light for photos of the Sultan Abdul Samad Building's façade.
+
+Avoid arriving on a weekend afternoon or evening: crowds build steadily from 4pm and stay heavy until around 11pm, when families, tour groups, and couples come out for the cooler air and the illuminated buildings. If you want the square lit up but without the density of people, aim for right after sunset on a weekday instead.
 
 ## How to visit like a local
 
-Merdeka Square is one of KL's most-visited landmarks, not a quiet corner, so plan around the numbers rather than expecting solitude. Go early — the 7–9am window is your best shot at an unobstructed view of the flagpole and empty lawn — or accept the buzz and lean into it in the evening, when the buildings are floodlit and street vendors set up nearby. There's no entry fee and no gate, so there's nothing to queue for; you simply walk onto the grass from any side. Locals treat it as a thoroughfare and photo backdrop rather than a destination to linger for hours, so most visits are 20–40 minutes unless you're combining it with the nearby Masjid Jamek, the City Gallery (which has a good scale model of old KL), or a riverside stroll to the confluence. Dress modestly if you plan to step into Masjid Jamek afterwards — shoulders and knees covered, and robes are usually available for loan at the entrance. The most common tourist mistake is treating this purely as a photo-stop and rushing off within five minutes; slow down enough to notice the clock tower chime or catch the flag being raised and lowered, which happens with a small ceremony at set times.
+Merdeka Square is one of KL's most-visited landmarks, not a quiet corner, so plan around the numbers rather than expecting solitude. Go early — the 7–9am window is your best shot at an unobstructed view of the flagpole and empty lawn — or accept the buzz and lean into it in the evening, when the buildings are floodlit and street vendors set up nearby.
+
+There's no entry fee and no gate, so there's nothing to queue for; you simply walk onto the grass from any side. Locals treat it as a thoroughfare and photo backdrop rather than a destination to linger for hours, so most visits are 20–40 minutes unless you're combining it with the nearby Masjid Jamek, the City Gallery (which has a good scale model of old KL), or a riverside stroll to the confluence.
+
+Dress modestly if you plan to step into Masjid Jamek afterwards — shoulders and knees covered, and robes are usually available for loan at the entrance. The most common tourist mistake is treating this purely as a photo-stop and rushing off within five minutes; slow down enough to notice the clock tower chime or catch the flag being raised and lowered, which happens with a small ceremony at set times.

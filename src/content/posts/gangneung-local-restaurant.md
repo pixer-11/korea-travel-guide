@@ -54,4 +54,6 @@ Late morning to early afternoon is when Jungang Market's food stalls and surroun
 
 ## Nearby & Practical Tips
 
-Pair a meal in Chodang Village with a walk around Gyeongpo Lake or Gyeongpo Beach, both a few minutes away on foot. Jungang Market meals combine well with a stop at the nearby Gangneung Coffee Street (Anmok), since Gangneung is also known nationally as a coffee-roasting hub. Menus at smaller local restaurants may only be in Korean, so it helps to know key words: 순두부 (sundubu/tofu), 막국수 (cold noodles), 물회 (cold raw fish soup), and 회 (raw fish). Cash is still useful at market stalls, though most sit-down restaurants accept cards. Confirm current opening hours ahead of time, since many family-run places close one day a week on a rotating or seasonal basis.
+Pair a meal in Chodang Village with a walk around Gyeongpo Lake or Gyeongpo Beach, both a few minutes away on foot. Jungang Market meals combine well with a stop at the nearby Gangneung Coffee Street (Anmok), since Gangneung is also known nationally as a coffee-roasting hub. Menus at smaller local restaurants may only be in Korean, so it helps to know key words: 순두부 (sundubu/tofu), 막국수 (cold noodles), 물회 (cold raw fish soup), and 회 (raw fish).
+
+Cash is still useful at market stalls, though most sit-down restaurants accept cards. Confirm current opening hours ahead of time, since many family-run places close one day a week on a rotating or seasonal basis.

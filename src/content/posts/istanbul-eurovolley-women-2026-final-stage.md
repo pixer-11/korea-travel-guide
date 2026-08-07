@@ -58,15 +58,21 @@ Volleyball in Turkey is not a niche sport — it's a national obsession, and the
 
 ## Getting there
 
-The Sinan Erdem Dome sits on the European side of the city, right on the Marmara Sea coast in Bakırköy district, inside the Ataköy sports complex — the same waterfront cluster that once hosted Olympic-bid facilities. It's a short taxi or metro-plus-tram hop from the historic peninsula: the Metrobüs (Istanbul's dedicated bus-rapid-transit corridor) has a stop within walking distance, and taxis from Sultanahmet or Taksim typically take 25-40 minutes depending on traffic along the coastal road. If you're staying near the airport, note this is the newer IST airport in the northwest — plan on 45 minutes to an hour by car or the M11/M2 metro combination into town, with a further leg out to Bakırköy for matches.
+The Sinan Erdem Dome sits on the European side of the city, right on the Marmara Sea coast in Bakırköy district, inside the Ataköy sports complex — the same waterfront cluster that once hosted Olympic-bid facilities. It's a short taxi or metro-plus-tram hop from the historic peninsula: the Metrobüs (Istanbul's dedicated bus-rapid-transit corridor) has a stop within walking distance, and taxis from Sultanahmet or Taksim typically take 25-40 minutes depending on traffic along the coastal road.
+
+If you're staying near the airport, note this is the newer IST airport in the northwest — plan on 45 minutes to an hour by car or the M11/M2 metro combination into town, with a further leg out to Bakırköy for matches.
 
 ## What to expect at the venue
 
-The dome itself is a large, curved indoor arena built into the Ataköy shoreline, with the Sea of Marmara visible from parts of the approach — a genuinely striking setting to arrive at as dusk falls and the building's lights start reflecting off the water. Inside, expect the standard big-arena rhythm: bag checks at the gate, ticket scans, concourse food stalls, and a bowl of tiered seating that can get loud fast once a set is close. For pool-stage matches you'll likely find it easier to move around and get closer to the action; for the final itself, expect a sold-out or near-capacity house, tighter security queues, and a longer walk from public transport drop-off points because of crowd control.
+The dome itself is a large, curved indoor arena built into the Ataköy shoreline, with the Sea of Marmara visible from parts of the approach — a genuinely striking setting to arrive at as dusk falls and the building's lights start reflecting off the water. Inside, expect the standard big-arena rhythm: bag checks at the gate, ticket scans, concourse food stalls, and a bowl of tiered seating that can get loud fast once a set is close.
+
+For pool-stage matches you'll likely find it easier to move around and get closer to the action; for the final itself, expect a sold-out or near-capacity house, tighter security queues, and a longer walk from public transport drop-off points because of crowd control.
 
 ## What to see and do around it
 
-Bakırköy itself is a workaday, largely residential coastal district rather than a tourist zone, which means a night at the dome pairs naturally with a day spent elsewhere and an evening trip out for the match. Combine it with a stroll along the Ataköy marina promenade before the game, or base your day around Beşiktaş and Ortaköy a bit further up the Bosphorus, then taxi down to Bakırköy for the evening session. If your dates overlap with the group stage, build in time to also see the old city — Hagia Sophia, the Blue Mosque, and the Basilica Cistern are all roughly 30-40 minutes away by taxi or tram-plus-transfer, easily doable earlier the same day.
+Bakırköy itself is a workaday, largely residential coastal district rather than a tourist zone, which means a night at the dome pairs naturally with a day spent elsewhere and an evening trip out for the match. Combine it with a stroll along the Ataköy marina promenade before the game, or base your day around Beşiktaş and Ortaköy a bit further up the Bosphorus, then taxi down to Bakırköy for the evening session.
+
+If your dates overlap with the group stage, build in time to also see the old city — Hagia Sophia, the Blue Mosque, and the Basilica Cistern are all roughly 30-40 minutes away by taxi or tram-plus-transfer, easily doable earlier the same day.
 
 ## When to go
 
@@ -74,5 +80,9 @@ The window running August 21 to September 6, 2026 covers roughly two and a half 
 
 ## How to visit like a local
 
-Turkish volleyball crowds arrive early and dressed in team colors — if you want the full atmosphere rather than just a seat, get to the dome at least 45-60 minutes before the scheduled start, since the pre-match build-up (music, chants starting up section by section) is half the fun. Tickets for high-demand matches involving the Turkish national team sell out fast, so treat any on-sale date as urgent rather than something to leave for the week of the match. Inside, card and mobile payment are standard at concession stands, though it's worth carrying some cash as backup for smaller vendors near the entrances. The single biggest mistake visitors make is assuming they can walk up and buy a ticket at the door for a Turkey match — plan to book in advance through official vendors only, and be wary of resale tickets from unofficial sources. Basic Turkish phrases go a long way with staff and fellow spectators, but arena staff at a major international event like this are generally used to English-speaking visitors too.
+Turkish volleyball crowds arrive early and dressed in team colors — if you want the full atmosphere rather than just a seat, get to the dome at least 45-60 minutes before the scheduled start, since the pre-match build-up (music, chants starting up section by section) is half the fun. Tickets for high-demand matches involving the Turkish national team sell out fast, so treat any on-sale date as urgent rather than something to leave for the week of the match.
+
+Inside, card and mobile payment are standard at concession stands, though it's worth carrying some cash as backup for smaller vendors near the entrances. The single biggest mistake visitors make is assuming they can walk up and buy a ticket at the door for a Turkey match — plan to book in advance through official vendors only, and be wary of resale tickets from unofficial sources.
+
+Basic Turkish phrases go a long way with staff and fellow spectators, but arena staff at a major international event like this are generally used to English-speaking visitors too.
 

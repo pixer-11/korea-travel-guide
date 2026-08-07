@@ -55,7 +55,9 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You spot the tower long before you reach it — a slim white-and-red lattice mast poking up over the plane trees of Yamashita Park, looking like something that wandered in from a 1960s postcard. That's not far off: Marine Tower went up in 1961 to mark the centennial of Yokohama's port opening, and for years it held the title of tallest lighthouse structure in the world. It's since been decommissioned as an active lighthouse, but the steel bones and the retro control-room aesthetic in the base are original, and that history is part of the charm — this isn't a slick modern skyscraper, it's a mid-century harbor landmark that's aged into a kind of civic mascot.
+You spot the tower long before you reach it — a slim white-and-red lattice mast poking up over the plane trees of Yamashita Park, looking like something that wandered in from a 1960s postcard. That's not far off: Marine Tower went up in 1961 to mark the centennial of Yokohama's port opening, and for years it held the title of tallest lighthouse structure in the world.
+
+It's since been decommissioned as an active lighthouse, but the steel bones and the retro control-room aesthetic in the base are original, and that history is part of the charm — this isn't a slick modern skyscraper, it's a mid-century harbor landmark that's aged into a kind of civic mascot.
 
 ## Getting there
 
@@ -63,11 +65,15 @@ The tower stands at 14-1 Yamashitacho, Naka Ward, right at the entrance to Yamas
 
 ## What you'll see inside
 
-The elevator ride up is quick, and you step out into a glassed-in observation floor with the harbor spread out below — Yamashita Park's lawns and rose beds directly beneath you, the retired ocean liner Hikawa Maru moored just offshore, and on a clear day the Minato Mirai skyline with the Landmark Tower and the Cosmo Clock 21 Ferris wheel visible across the water. There's an open-air deck a level up too, where the wind off the bay and the gulls circling below make it feel less like a sealed-box observatory and more like standing on a ship's bridge. Lower floors hold a small café, gift shop, and displays touching on the tower's lighthouse history and Yokohama's port heritage — worth a slow ten minutes if you like that kind of maritime trivia.
+The elevator ride up is quick, and you step out into a glassed-in observation floor with the harbor spread out below — Yamashita Park's lawns and rose beds directly beneath you, the retired ocean liner Hikawa Maru moored just offshore, and on a clear day the Minato Mirai skyline with the Landmark Tower and the Cosmo Clock 21 Ferris wheel visible across the water.
+
+There's an open-air deck a level up too, where the wind off the bay and the gulls circling below make it feel less like a sealed-box observatory and more like standing on a ship's bridge. Lower floors hold a small café, gift shop, and displays touching on the tower's lighthouse history and Yokohama's port heritage — worth a slow ten minutes if you like that kind of maritime trivia.
 
 ## When to go
 
-Late afternoon is the sweet spot: you get daylight views of the harbor traffic and container cranes across the bay, then watch the light shift and the city lights start switching on without having to time two separate visits. Weekday mornings tend to be the calmest stretch if you'd rather have the deck to yourself and skip any queue at the ticket counter. Cherry blossom season (late March–early April) brings extra crowds to Yamashita Park below, which can mean more foot traffic through the tower too. Rated 4.2 from over 4,200 reviews, it's a firmly well-known stop on the Yokohama waterfront circuit rather than an under-the-radar find, so expect a mix of families, couples, and tour groups rather than having the place to yourself.
+Late afternoon is the sweet spot: you get daylight views of the harbor traffic and container cranes across the bay, then watch the light shift and the city lights start switching on without having to time two separate visits. Weekday mornings tend to be the calmest stretch if you'd rather have the deck to yourself and skip any queue at the ticket counter.
+
+Cherry blossom season (late March–early April) brings extra crowds to Yamashita Park below, which can mean more foot traffic through the tower too. Rated 4.2 from over 4,200 reviews, it's a firmly well-known stop on the Yokohama waterfront circuit rather than an under-the-radar find, so expect a mix of families, couples, and tour groups rather than having the place to yourself.
 
 ## Nearby, so you can build a half-day around it
 
@@ -75,4 +81,6 @@ Yamashita Park itself is worth lingering in — a long harborside lawn built in 
 
 ## How to visit like a local
 
-Buy your ticket at the counter on arrival rather than expecting a big queue system — this isn't a reservation-only attraction, though it is popular enough that a short wait can build on weekend afternoons and around sunset, so aim for a weekday or an early-afternoon slot if you want to beat the rush. Payment is accepted by cash and increasingly by IC transit card or credit card at the ticket counter, but it's still sensible to carry some cash as backup, since smaller attraction counters in Japan can be slower to update. There's no tipping expected anywhere in Japan, including here. The mistake visitors often make is treating this as a quick photo-op and rushing back down within ten minutes — the better move is to time your visit for the hour before sunset, ride up once, and just stay through the light change rather than trying to squeeze it between other stops.
+Buy your ticket at the counter on arrival rather than expecting a big queue system — this isn't a reservation-only attraction, though it is popular enough that a short wait can build on weekend afternoons and around sunset, so aim for a weekday or an early-afternoon slot if you want to beat the rush. Payment is accepted by cash and increasingly by IC transit card or credit card at the ticket counter, but it's still sensible to carry some cash as backup, since smaller attraction counters in Japan can be slower to update.
+
+There's no tipping expected anywhere in Japan, including here. The mistake visitors often make is treating this as a quick photo-op and rushing back down within ten minutes — the better move is to time your visit for the hour before sunset, ride up once, and just stay through the light change rather than trying to squeeze it between other stops.

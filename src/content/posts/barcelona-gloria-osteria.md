@@ -55,7 +55,9 @@ draft: false
 
 ## Why Gloria Osteria matters right now
 
-Big Mamma has spent the last decade turning "Italian restaurant" into a full sensory event across Paris, London, and other major cities, pairing maximalist interiors with crowd-pleasing pasta and pizza. Gloria Osteria is the group's first Barcelona outpost, and it landed with the kind of buzz that's rare even in a city as saturated with good food as this one. It was fully booked within its first week of opening, and it has quickly become one of the hottest tables in Barcelona — the kind of place locals are still messaging friends about and visitors are penciling in before they've even landed.
+Big Mamma has spent the last decade turning "Italian restaurant" into a full sensory event across Paris, London, and other major cities, pairing maximalist interiors with crowd-pleasing pasta and pizza. Gloria Osteria is the group's first Barcelona outpost, and it landed with the kind of buzz that's rare even in a city as saturated with good food as this one.
+
+It was fully booked within its first week of opening, and it has quickly become one of the hottest tables in Barcelona — the kind of place locals are still messaging friends about and visitors are penciling in before they've even landed.
 
 What makes it worth the effort isn't novelty for novelty's sake. Big Mamma's model is consistent across its cities: a dramatic, Instagram-ready room, an open kitchen you can watch working, and a menu built to be shared loudly at a table full of people. If that formula has worked for you in another city, Gloria Osteria is the Barcelona chapter of it.
 

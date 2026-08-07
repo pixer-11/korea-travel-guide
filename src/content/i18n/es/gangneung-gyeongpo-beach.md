@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-gyeongpo-beach
-srcHash: 5ecffd3fef81
+srcHash: '22a1a65001d5'
 title: 'Playa de Gyeongpo: Guía de viaje de Gangneung'
 description: La playa de Gyeongpo (Gyeongpo Beach) es el tramo de arena insignia de Gangneung en la costa este de Corea del Sur, una playa ancha y de suave pendiente respaldada por un pinar y bordeada de cafés, restaurantes de mariscos y hoteles.
 quickAnswer: La playa de Gyeongpo (Gyeongpo Beach) es el tramo de arena insignia de Gangneung en la costa este de Corea del Sur, una playa ancha y de suave pendiente respaldada por un pinar y bordeada de cafés, restaurantes de mariscos y hoteles. Es más concurrida de finales de junio a agosto, pero merece la pena visitarla durante todo el año por sus vistas del amanecer, la ruta circular junto al lago Gyeongpo (Gyeongpo Lake) y un grupo de museos y cafés cercanos. Calcula entre 2 y 3 horas para la playa y el lago, o medio día si le sumas los cafés de la calle del café y Ojukheon.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-La playa de Gyeongpo (Gyeongpo Beach) es la playa más conocida de la provincia de Gangwon-do, y no es casualidad: unos 6 kilómetros de arena ancha y firme orientada directamente al este, respaldada por un denso bosque de pinos (el pinar de Gyeongpo, Gyeongpo Pine Grove) que le da sombra y protección contra el viento, algo que la mayoría de los pueblos costeros de Corea no tiene. Tiene una calificación de 4.4 con más de 8,000 reseñas, y es uno de los lugares más fiables de la costa este para ver el amanecer, ya que la playa mira a mar abierto sin ningún cabo que bloquee el horizonte. Los locales también acuden por el lago Gyeongpo (Gyeongpo Lake) contiguo, una laguna tierra adentro separada del mar por una fina franja de dunas y pinos, una rara combinación de paisaje lacustre y marino a poca distancia a pie el uno del otro.
+La playa de Gyeongpo (Gyeongpo Beach) es la playa más conocida de la provincia de Gangwon-do, y no es casualidad: unos 6 kilómetros de arena ancha y firme orientada directamente al este, respaldada por un denso bosque de pinos (el pinar de Gyeongpo, Gyeongpo Pine Grove) que le da sombra y protección contra el viento, algo que la mayoría de los pueblos costeros de Corea no tiene.
+
+Tiene una calificación de 4.4 con más de 8,000 reseñas, y es uno de los lugares más fiables de la costa este para ver el amanecer, ya que la playa mira a mar abierto sin ningún cabo que bloquee el horizonte. Los locales también acuden por el lago Gyeongpo (Gyeongpo Lake) contiguo, una laguna tierra adentro separada del mar por una fina franja de dunas y pinos, una rara combinación de paisaje lacustre y marino a poca distancia a pie el uno del otro.
 
 ## Cómo llegar
 
-La playa de Gyeongpo se encuentra en Gangmun-dong, en el extremo norte de la ciudad de Gangneung, a unos 6-7 km de la estación de KTX de Gangneung. La línea Gyeonggang del KTX conecta Gangneung directamente con Seúl (Cheongnyangni o la estación de Seúl) en aproximadamente 1 hora y 50 minutos, lo que hace factible una excursión de un día o de una noche desde la capital. Desde la estación de Gangneung o la terminal de autobuses interurbanos, los autobuses urbanos (busca rutas señalizadas hacia Gyeongpo/Gangmun, como la serie 300 o los autobuses 202/300) van a Gyeongpo cada 15-20 minutos aproximadamente y tardan unos 20-25 minutos; un taxi cubre la misma distancia en unos 15 minutos. Si conduces, hay estacionamiento pavimentado a lo largo de la vía frente a la playa, aunque se llena rápido los fines de semana de verano.
+La playa de Gyeongpo se encuentra en Gangmun-dong, en el extremo norte de la ciudad de Gangneung, a unos 6-7 km de la estación de KTX de Gangneung. La línea Gyeonggang del KTX conecta Gangneung directamente con Seúl (Cheongnyangni o la estación de Seúl) en aproximadamente 1 hora y 50 minutos, lo que hace factible una excursión de un día o de una noche desde la capital.
+
+Desde la estación de Gangneung o la terminal de autobuses interurbanos, los autobuses urbanos (busca rutas señalizadas hacia Gyeongpo/Gangmun, como la serie 300 o los autobuses 202/300) van a Gyeongpo cada 15-20 minutos aproximadamente y tardan unos 20-25 minutos; un taxi cubre la misma distancia en unos 15 minutos. Si conduces, hay estacionamiento pavimentado a lo largo de la vía frente a la playa, aunque se llena rápido los fines de semana de verano.
 
 ## Qué ver y hacer
 
@@ -41,4 +45,6 @@ De finales de junio a agosto es temporada alta, cuando la playa recibe a multitu
 
 ## Cerca de allí y consejos
 
-Combina Gyeongpo con la calle del café de Anmok, Ojukheon y la casa histórica Gangneung Seongyojang (una de las residencias aristocráticas tradicionales más grandes que se conservan en Corea) para un día completo por Gangneung. Vale la pena poner el despertador para ver el amanecer: llega 20-30 minutos antes de la hora oficial de salida del sol, que varía según la temporada. Confirma localmente las fechas vigentes de la temporada de baño, los horarios de los salvavidas y cualquier tarifa de las instalaciones de la playa, ya que estos datos los fija la ciudad cada año.
+Combina Gyeongpo con la calle del café de Anmok, Ojukheon y la casa histórica Gangneung Seongyojang (una de las residencias aristocráticas tradicionales más grandes que se conservan en Corea) para un día completo por Gangneung. Vale la pena poner el despertador para ver el amanecer: llega 20-30 minutos antes de la hora oficial de salida del sol, que varía según la temporada.
+
+Confirma localmente las fechas vigentes de la temporada de baño, los horarios de los salvavidas y cualquier tarifa de las instalaciones de la playa, ya que estos datos los fija la ciudad cada año.

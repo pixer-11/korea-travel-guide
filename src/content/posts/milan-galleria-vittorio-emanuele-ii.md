@@ -88,24 +88,36 @@ draft: false
 
 ## Why go
 
-You come out of the Duomo, blinking in the light off the cathedral's white marble, and there's this arched entrance to your right that looks almost like a train station gate from another century. Walk through it and the whole mood changes: a soaring cross-shaped arcade of iron and glass rises above you, four storeys of ochre stonework and arched windows, and at the center, directly under the glass dome, an octagon of mosaic floor with the coats of arms of Turin, Florence, Rome and Milan laid out in stone. This is the Galleria Vittorio Emanuele II, built in the 1860s-70s and named for Italy's first king, and it's often called the world's oldest active shopping mall — though "mall" undersells what's really an architectural showpiece that happens to have Prada and Louis Vuitton in it.
+You come out of the Duomo, blinking in the light off the cathedral's white marble, and there's this arched entrance to your right that looks almost like a train station gate from another century. Walk through it and the whole mood changes: a soaring cross-shaped arcade of iron and glass rises above you, four storeys of ochre stonework and arched windows, and at the center, directly under the glass dome, an octagon of mosaic floor with the coats of arms of Turin, Florence, Rome and Milan laid out in stone.
+
+This is the Galleria Vittorio Emanuele II, built in the 1860s-70s and named for Italy's first king, and it's often called the world's oldest active shopping mall — though "mall" undersells what's really an architectural showpiece that happens to have Prada and Louis Vuitton in it.
 
 ## What you'll actually see
 
-The floor mosaics are the detail everyone photographs, especially the Turin bull — tradition says spinning three times on your heel on the bull's more sensitive anatomy brings good luck, and you'll see a shallow worn patch in the marble where a century of visitors has done exactly that. Overhead, the glass-and-iron vault (restored more than once, including after WWII bombing damage) throws diffused light down four wings that funnel out toward the Duomo, La Scala opera house, Via Dante and Corso Vittorio Emanuele. High-end boutiques line the ground floor, but look up at the frescoed spandrels and allegorical figures representing Art, Industry, Science and Agriculture — the Galleria was conceived as a monument to a newly unified Italy, not just a shopping strip.
+The floor mosaics are the detail everyone photographs, especially the Turin bull — tradition says spinning three times on your heel on the bull's more sensitive anatomy brings good luck, and you'll see a shallow worn patch in the marble where a century of visitors has done exactly that. Overhead, the glass-and-iron vault (restored more than once, including after WWII bombing damage) throws diffused light down four wings that funnel out toward the Duomo, La Scala opera house, Via Dante and Corso Vittorio Emanuele.
+
+High-end boutiques line the ground floor, but look up at the frescoed spandrels and allegorical figures representing Art, Industry, Science and Agriculture — the Galleria was conceived as a monument to a newly unified Italy, not just a shopping strip.
 
 ## Eating and drinking here
 
-Camparino in Galleria, at the Duomo end, is the historic bar where Campari itself was born, all Art Nouveau mirrors and brass fittings — a coffee or aperitivo here costs more than elsewhere in Milan, but you're paying for the room as much as the drink. Savini, an old-school Milanese restaurant, has occupied a corner of the Galleria for well over a century. There are gelato counters and a McDonald's too (itself controversially housed in a landmarked space), so the Galleria spans the full range from tourist-trap to genuine Milanese institution — choose accordingly.
+Camparino in Galleria, at the Duomo end, is the historic bar where Campari itself was born, all Art Nouveau mirrors and brass fittings — a coffee or aperitivo here costs more than elsewhere in Milan, but you're paying for the room as much as the drink. Savini, an old-school Milanese restaurant, has occupied a corner of the Galleria for well over a century.
+
+There are gelato counters and a McDonald's too (itself controversially housed in a landmarked space), so the Galleria spans the full range from tourist-trap to genuine Milanese institution — choose accordingly.
 
 ## Getting there
 
-The Galleria sits right between Piazza del Duomo and Piazza della Scala in the historic center. The Duomo entrance is a two-minute walk from Duomo station on Metro Line 1 (red) or Line 3 (yellow) — take the exit signed for Piazza del Duomo and you'll see the arcade's arch facing the cathedral square. Coming from La Scala, you enter from the opposite end at Piazza della Scala. There's no ticket and no gate; it's a public thoroughfare as much as a shopping arcade, open 24 hours every day of the week.
+The Galleria sits right between Piazza del Duomo and Piazza della Scala in the historic center. The Duomo entrance is a two-minute walk from Duomo station on Metro Line 1 (red) or Line 3 (yellow) — take the exit signed for Piazza del Duomo and you'll see the arcade's arch facing the cathedral square. Coming from La Scala, you enter from the opposite end at Piazza della Scala.
+
+There's no ticket and no gate; it's a public thoroughfare as much as a shopping arcade, open 24 hours every day of the week.
 
 ## When to go
 
-Because it's a walk-through arcade rather than a ticketed sight, you can technically visit any hour, but the experience changes completely depending on when. Between roughly 11am and 10pm on weekends, the wings fill with a steady crush of tourists, tour groups, and shoppers, and getting a clean photo of the mosaic floor or the dome means waiting out other people's selfies. The quiet window — on both weekdays and weekends — is 7am to 9am, when the shutters on most boutiques are still down, the light comes in low and golden through the glass roof, and you'll often have whole stretches of the mosaic floor to yourself.
+Because it's a walk-through arcade rather than a ticketed sight, you can technically visit any hour, but the experience changes completely depending on when. Between roughly 11am and 10pm on weekends, the wings fill with a steady crush of tourists, tour groups, and shoppers, and getting a clean photo of the mosaic floor or the dome means waiting out other people's selfies.
+
+The quiet window — on both weekdays and weekends — is 7am to 9am, when the shutters on most boutiques are still down, the light comes in low and golden through the glass roof, and you'll often have whole stretches of the mosaic floor to yourself.
 
 ## How to visit like a local
 
-Milanese who pass through the Galleria daily on their way to work don't linger at the center octagon — they cut through the wings without breaking stride, so if you want to stop and photograph the dome, step to the side rather than blocking the through-traffic. This is an unapologetically busy, very touristed landmark, not a secret, so the real trick is timing: arrive in that early 7-9am window, or come back late in the evening when the boutiques have shuttered and the arcade empties out again, lit up but calm. Skip the pricier sit-down coffee at Camparino if you're on a budget — standing at the bar counter (standard practice across Italy) is cheaper than taking a table, and locals rarely tip beyond rounding up. Don't bother queuing for a "lucky" photo op on the Turin bull mosaic during peak hours; if you want the ritual, it's far less crowded at dawn.
+Milanese who pass through the Galleria daily on their way to work don't linger at the center octagon — they cut through the wings without breaking stride, so if you want to stop and photograph the dome, step to the side rather than blocking the through-traffic. This is an unapologetically busy, very touristed landmark, not a secret, so the real trick is timing: arrive in that early 7-9am window, or come back late in the evening when the boutiques have shuttered and the arcade empties out again, lit up but calm.
+
+Skip the pricier sit-down coffee at Camparino if you're on a budget — standing at the bar counter (standard practice across Italy) is cheaper than taking a table, and locals rarely tip beyond rounding up. Don't bother queuing for a "lucky" photo op on the Turin bull mosaic during peak hours; if you want the ritual, it's far less crowded at dawn.

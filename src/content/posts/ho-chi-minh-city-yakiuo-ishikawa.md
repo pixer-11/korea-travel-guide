@@ -27,7 +27,9 @@ draft: true
 
 ## Why this place is turning heads
 
-Ho Chi Minh City's dining scene has no shortage of grills, but Yakiuo Ishikawa flips a genre on its head. Yakiniku — Japanese-style tabletop barbecue — is built around beef, usually Wagyu, sizzling over charcoal or a built-in grill. Here, there's no beef at all. Instead, the kitchen sources sashimi-grade seafood, most notably Otoro (the fatty, prized cut of bluefin tuna belly usually reserved for the sushi counter), and sears it tableside so the fat renders and caramelizes the way marbled beef would. The effect is designed to trick your senses: the smoke, the char marks, the way the surface blisters and glistens under the grill lamps — all cues your brain reads as "steakhouse," except what lands on your plate is fish.
+Ho Chi Minh City's dining scene has no shortage of grills, but Yakiuo Ishikawa flips a genre on its head. Yakiniku — Japanese-style tabletop barbecue — is built around beef, usually Wagyu, sizzling over charcoal or a built-in grill. Here, there's no beef at all. Instead, the kitchen sources sashimi-grade seafood, most notably Otoro (the fatty, prized cut of bluefin tuna belly usually reserved for the sushi counter), and sears it tableside so the fat renders and caramelizes the way marbled beef would.
+
+The effect is designed to trick your senses: the smoke, the char marks, the way the surface blisters and glistens under the grill lamps — all cues your brain reads as "steakhouse," except what lands on your plate is fish.
 
 It's the kind of idea that could easily read as gimmicky, but the concept earned real recognition fast: a Vietcetera Flavors Award for "Concept of the Year," a nod that put it on the radar of the city's more adventurous, design-conscious diners rather than just tourists hunting a photo opportunity.
 
@@ -39,7 +41,9 @@ A second location is opening in Thao Dien, the leafy, expat-heavy pocket of Dist
 
 ## What to expect at the table
 
-Come hungry for something theatrical. The draw here isn't a sprawling menu — it's watching a single premium ingredient get put through a process usually reserved for red meat. Seared Otoro is the signature move: a cut that's normally served raw and cool gets a hot, smoky finish instead, playing with the contrast between the tuna's natural richness and the caramelized crust from the grill. Expect the kind of open-concept, interactive dining format yakiniku is known for — grilling happens at or near your table, so there's a live, sensory element to the meal rather than everything arriving pre-plated from a hidden kitchen.
+Come hungry for something theatrical. The draw here isn't a sprawling menu — it's watching a single premium ingredient get put through a process usually reserved for red meat. Seared Otoro is the signature move: a cut that's normally served raw and cool gets a hot, smoky finish instead, playing with the contrast between the tuna's natural richness and the caramelized crust from the grill.
+
+Expect the kind of open-concept, interactive dining format yakiniku is known for — grilling happens at or near your table, so there's a live, sensory element to the meal rather than everything arriving pre-plated from a hidden kitchen.
 
 Because exact menu items, portion sizes, and prices weren't part of the confirmed details for this piece, treat any specific dish list you see online as provisional until you're seated — ask your server what's freshest that day, especially if the seafood sourcing rotates.
 
@@ -49,4 +53,6 @@ Dinner is the natural time slot for a grill-forward concept like this, and given
 
 ## How to visit like a local
 
-Book ahead — a concept that's freshly won a "Concept of the Year" award and is actively expanding to a second neighborhood is not one where you want to gamble on a walk-in table, particularly on weekend nights. Reservations in Ho Chi Minh City are typically made by phone or through the restaurant's social media/Instagram DMs rather than third-party apps, so check their current channels before you go. Dress for a mid-range to upscale night out — District 1's better restaurants skew smart-casual, not shorts-and-flip-flops. Payment is almost universally by card or e-wallet (MoMo, ZaloPay) in this tier of restaurant, though it's still wise to carry some cash as backup. Since this is a newly opened, still-expanding spot, double-check current opening hours and which location (District 1 or Thao Dien) is live before making the trip — details for a place this new can change quickly.
+Book ahead — a concept that's freshly won a "Concept of the Year" award and is actively expanding to a second neighborhood is not one where you want to gamble on a walk-in table, particularly on weekend nights. Reservations in Ho Chi Minh City are typically made by phone or through the restaurant's social media/Instagram DMs rather than third-party apps, so check their current channels before you go.
+
+Dress for a mid-range to upscale night out — District 1's better restaurants skew smart-casual, not shorts-and-flip-flops. Payment is almost universally by card or e-wallet (MoMo, ZaloPay) in this tier of restaurant, though it's still wise to carry some cash as backup. Since this is a newly opened, still-expanding spot, double-check current opening hours and which location (District 1 or Thao Dien) is live before making the trip — details for a place this new can change quickly.

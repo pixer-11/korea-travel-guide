@@ -74,7 +74,9 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come up Via della Conciliazione and the basilica just keeps getting bigger, which is the point — Bernini built this axis so the whole city funnels your eye straight toward Michelangelo's dome. Cross into Piazza San Pietro and the colonnades wrap around you like arms, four rows of Doric columns holding up a parade of saints against the sky. It's only once you're standing under that dome, craning your neck at the gilded coffering 130-odd meters overhead, that the scale actually lands: this building can hold up to 20,000 people and somehow still doesn't feel crowded once you're inside its footprint, even when the piazza outside is jammed.
+You come up Via della Conciliazione and the basilica just keeps getting bigger, which is the point — Bernini built this axis so the whole city funnels your eye straight toward Michelangelo's dome. Cross into Piazza San Pietro and the colonnades wrap around you like arms, four rows of Doric columns holding up a parade of saints against the sky.
+
+It's only once you're standing under that dome, craning your neck at the gilded coffering 130-odd meters overhead, that the scale actually lands: this building can hold up to 20,000 people and somehow still doesn't feel crowded once you're inside its footprint, even when the piazza outside is jammed.
 
 ## Why go
 
@@ -86,7 +88,9 @@ The basilica sits at Piazza San Pietro, 00120 Vatican City, on the west bank of 
 
 ## What to see inside
 
-Once through security, the sheer volume of the nave takes over — 187 meters long, with marble floor inlays marking how other famous cathedrals would fit inside it if you laid them end to end. Head for the Pietà first, just inside on the right, then work toward the crossing for Bernini's baldachin and the bronze statue of St. Peter, its foot worn smooth by centuries of pilgrims touching it. The dome climb (roughly 320 steps if you skip the elevator, more if you don't) rewards you with a view over Rome's rooftops that's worth the claustrophobic spiral staircase near the top. Down below, the Vatican Grottoes hold the tombs of past popes, including John Paul II.
+Once through security, the sheer volume of the nave takes over — 187 meters long, with marble floor inlays marking how other famous cathedrals would fit inside it if you laid them end to end. Head for the Pietà first, just inside on the right, then work toward the crossing for Bernini's baldachin and the bronze statue of St. Peter, its foot worn smooth by centuries of pilgrims touching it.
+
+The dome climb (roughly 320 steps if you skip the elevator, more if you don't) rewards you with a view over Rome's rooftops that's worth the claustrophobic spiral staircase near the top. Down below, the Vatican Grottoes hold the tombs of past popes, including John Paul II.
 
 ## When to go
 
@@ -94,4 +98,6 @@ The basilica keeps the same hours every day, 7:00 AM to 7:10 PM, with no weekly 
 
 ## How to visit like a local
 
-Basilica entry is free, and there's no advance booking system for the church itself, so the queue is genuinely first-come-first-served — arriving before 7am, or after 5pm, cuts your wait dramatically versus midday. Security screening (metal detectors, bag checks) is the slow part, not ticketing, so travel light. Dress code is enforced at the door: covered shoulders and knees for everyone, no exceptions, no matter how far you've traveled. The dome climb and the Vatican Museums/Sistine Chapel are separate tickets from the basilica itself — don't assume one covers the other. The mistake most visitors make is treating St. Peter's Square and the basilica as a quick 20-minute photo stop; give yourself a genuine hour and a half minimum, longer with the dome, and resist the urge to skip the Grottoes just because they're not visible from the main floor.
+Basilica entry is free, and there's no advance booking system for the church itself, so the queue is genuinely first-come-first-served — arriving before 7am, or after 5pm, cuts your wait dramatically versus midday. Security screening (metal detectors, bag checks) is the slow part, not ticketing, so travel light. Dress code is enforced at the door: covered shoulders and knees for everyone, no exceptions, no matter how far you've traveled.
+
+The dome climb and the Vatican Museums/Sistine Chapel are separate tickets from the basilica itself — don't assume one covers the other. The mistake most visitors make is treating St. Peter's Square and the basilica as a quick 20-minute photo stop; give yourself a genuine hour and a half minimum, longer with the dome, and resist the urge to skip the Grottoes just because they're not visible from the main floor.

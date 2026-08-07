@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: sturgis-south-dakota-sturgis-motorcycle-rally-86th-anniversary
-srcHash: 923e3c6c3019
+srcHash: '67a6fc8f3a57'
 title: 'Rally de Motociclistas de Sturgis (86.º aniversario): lo que hay que saber (Sturgis)'
 description: El 86.º Rally de Motociclistas de Sturgis se celebra del 7 al 16 de agosto de 2026 en Sturgis, y atrae a cerca de medio millón de motociclistas a las Black Hills para disfrutar de conciertos, carreras y rutas panorámicas.
 quickAnswer: El 86.º Rally de Motociclistas de Sturgis se celebra del 7 al 16 de agosto de 2026 en Sturgis, y atrae a cerca de medio millón de motociclistas a las Black Hills para disfrutar de conciertos, carreras y rutas grupales panorámicas bajo el lema "Sturgis Salutes America". Aloja tu base en Sturgis, Rapid City o Deadwood, reserva alojamiento y vuelos con muchos meses de antelación, y confirma los horarios exactos de cada sede y los detalles de las entradas en el sitio web oficial del Sturgis Motorcycle Rally antes de viajar.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Sturgis es el rally de motociclistas más grande del planeta, y la edición de 2026 marca su 86.º aniversario bajo el lema "Sturgis Salutes America". Lo que comenzó en 1938 como una pequeña carrera organizada por el club de motociclistas Jackpine Gypsies se ha convertido en una toma de posesión de diez días y medio millón de personas de un pueblo de Dakota del Sur cuya población durante el resto del año apenas alcanza unos pocos miles. Main Street se transforma en un desfile ininterrumpido de choppers personalizados y motos de turismo, las filas de vendedores ofrecen cuero y cromo a lo largo de varias cuadras, y artistas de gira nacional tocan cada noche en locales repartidos por las Black Hills. Más allá del espectáculo, el paisaje circundante —picos de granito, bosques de pinos y algunas de las mejores carreteras para motociclismo del país— es posiblemente el verdadero protagonista.
+Sturgis es el rally de motociclistas más grande del planeta, y la edición de 2026 marca su 86.º aniversario bajo el lema "Sturgis Salutes America". Lo que comenzó en 1938 como una pequeña carrera organizada por el club de motociclistas Jackpine Gypsies se ha convertido en una toma de posesión de diez días y medio millón de personas de un pueblo de Dakota del Sur cuya población durante el resto del año apenas alcanza unos pocos miles.
+
+Main Street se transforma en un desfile ininterrumpido de choppers personalizados y motos de turismo, las filas de vendedores ofrecen cuero y cromo a lo largo de varias cuadras, y artistas de gira nacional tocan cada noche en locales repartidos por las Black Hills. Más allá del espectáculo, el paisaje circundante —picos de granito, bosques de pinos y algunas de las mejores carreteras para motociclismo del país— es posiblemente el verdadero protagonista.
 
 ## Cuándo ocurre
 
@@ -28,7 +30,9 @@ El rally de 2026 se celebra del **7 al 16 de agosto**. Esa ventana de diez días
 
 ## Cómo llegar
 
-El Rapid City Regional Airport (RAP) es el aeropuerto principal más cercano, a unos 25–30 minutos en auto al sur de Sturgis por la I-90. Es la puerta de entrada práctica para quienes llegan en avión en lugar de en moto. Si conduces tu propia motocicleta, Sturgis se encuentra directamente sobre la Interestatal 90, en el oeste de Dakota del Sur, lo que la convierte en una parada fácil para motociclistas que atraviesan el país desde Wyoming, Montana o el Medio Oeste. Muchos asistentes también se instalan en Rapid City o Deadwood (a 15 minutos por la US-14A a través de Boulder Canyon) y viajan a diario hasta Sturgis, ya que el alojamiento en el pueblo se agota rápido y las opciones de camping se llenan pronto.
+El Rapid City Regional Airport (RAP) es el aeropuerto principal más cercano, a unos 25–30 minutos en auto al sur de Sturgis por la I-90. Es la puerta de entrada práctica para quienes llegan en avión en lugar de en moto. Si conduces tu propia motocicleta, Sturgis se encuentra directamente sobre la Interestatal 90, en el oeste de Dakota del Sur, lo que la convierte en una parada fácil para motociclistas que atraviesan el país desde Wyoming, Montana o el Medio Oeste.
+
+Muchos asistentes también se instalan en Rapid City o Deadwood (a 15 minutos por la US-14A a través de Boulder Canyon) y viajan a diario hasta Sturgis, ya que el alojamiento en el pueblo se agota rápido y las opciones de camping se llenan pronto.
 
 ## Qué ver y hacer
 
@@ -43,4 +47,6 @@ Dedica al menos tres o cuatro días si quieres combinar el ambiente del rally co
 
 ## Cuándo ir y consejos prácticos
 
-Los primeros días del recorrido de diez días (los dos o tres iniciales) suelen ser menos concurridos que el fin de semana central, que normalmente marca el punto álgido. En agosto, las temperaturas en las Black Hills suelen alcanzar entre los 80 y 90 °F (unos 27–32 °C) durante el día y bajan notablemente por la noche, así que el equipo de moto por capas es importante. El alojamiento en el propio Sturgis se agota con casi un año de antelación para la semana del rally; Rapid City y Deadwood son alternativas confiables con más disponibilidad. Como los precios de camping, entradas y productos de los vendedores varían de un año a otro y según el local, considera cualquier cifra que veas en internet como aproximada y verifica las tarifas actuales y el acceso a los eventos directamente en el sitio web oficial del Sturgis Motorcycle Rally antes de cerrar tus planes.
+Los primeros días del recorrido de diez días (los dos o tres iniciales) suelen ser menos concurridos que el fin de semana central, que normalmente marca el punto álgido. En agosto, las temperaturas en las Black Hills suelen alcanzar entre los 80 y 90 °F (unos 27–32 °C) durante el día y bajan notablemente por la noche, así que el equipo de moto por capas es importante.
+
+El alojamiento en el propio Sturgis se agota con casi un año de antelación para la semana del rally; Rapid City y Deadwood son alternativas confiables con más disponibilidad. Como los precios de camping, entradas y productos de los vendedores varían de un año a otro y según el local, considera cualquier cifra que veas en internet como aproximada y verifica las tarifas actuales y el acceso a los eventos directamente en el sitio web oficial del Sturgis Motorcycle Rally antes de cerrar tus planes.

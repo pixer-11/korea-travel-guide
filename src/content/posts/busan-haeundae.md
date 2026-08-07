@@ -43,17 +43,25 @@ draft: false
 
 ## Why Haeundae Is Busan's Signature Beach
 
-Haeundae is Korea's most famous urban beach, a wide crescent of pale sand backed by a dense wall of high-rise hotels and apartment towers, including the LCT Landmark Tower — one of the tallest residential buildings in the country. The name comes from Choi Chi-won, a Silla-dynasty scholar whose pen name "Haeun" is said to be carved into rocks at nearby Dongbaekseom. Unlike Busan's quieter beaches, Haeundae functions as a full neighborhood: a functioning city district with a beach at its doorstep, which is why it draws both sunbathers and travelers who just want a walkable coastal base with restaurants, cafes, and nightlife layered around it.
+Haeundae is Korea's most famous urban beach, a wide crescent of pale sand backed by a dense wall of high-rise hotels and apartment towers, including the LCT Landmark Tower — one of the tallest residential buildings in the country. The name comes from Choi Chi-won, a Silla-dynasty scholar whose pen name "Haeun" is said to be carved into rocks at nearby Dongbaekseom.
+
+Unlike Busan's quieter beaches, Haeundae functions as a full neighborhood: a functioning city district with a beach at its doorstep, which is why it draws both sunbathers and travelers who just want a walkable coastal base with restaurants, cafes, and nightlife layered around it.
 
 ## Getting There
 
-Take Busan Metro Line 2 to Haeundae Station. Exit 3 or Exit 5 leads onto Guemgangno, a straight shot toward the sand that takes about 10–15 minutes on foot, passing convenience stores, motels, and street food carts along the way. If arriving from Seomyeon or Nampo-dong, the Line 2 ride runs roughly 40–50 minutes depending on transfers, so budget travel time accordingly. Taxis from Busan Station or Nampo-dong take 25–35 minutes without traffic, longer on summer weekends when coastal roads clog up. For those coming from Gimhae International Airport, the Airport Limousine bus to Haeundae is often more comfortable than transferring metro lines with luggage.
+Take Busan Metro Line 2 to Haeundae Station. Exit 3 or Exit 5 leads onto Guemgangno, a straight shot toward the sand that takes about 10–15 minutes on foot, passing convenience stores, motels, and street food carts along the way. If arriving from Seomyeon or Nampo-dong, the Line 2 ride runs roughly 40–50 minutes depending on transfers, so budget travel time accordingly.
+
+Taxis from Busan Station or Nampo-dong take 25–35 minutes without traffic, longer on summer weekends when coastal roads clog up. For those coming from Gimhae International Airport, the Airport Limousine bus to Haeundae is often more comfortable than transferring metro lines with luggage.
 
 ## What to See and Do
 
-The beach itself is the headline: roughly 1.5 km of sand, popular for swimming from about June through August when a lifeguard-monitored swim zone is marked with buoys. Just east of the main sand, Dongbaekseom (Dongbaek Island) is a small pine-covered headland with a paved coastal walking path circling it — about a 30–40 minute loop — leading to the Nurimaru APEC House, a glass-domed hall built for the 2005 APEC summit. West along the shore, the Haeundae SeaWalk is a raised platform stretching out over the water toward Dongbaek Island, good for photos at sunrise or sunset.
+The beach itself is the headline: roughly 1.5 km of sand, popular for swimming from about June through August when a lifeguard-monitored swim zone is marked with buoys. Just east of the main sand, Dongbaekseom (Dongbaek Island) is a small pine-covered headland with a paved coastal walking path circling it — about a 30–40 minute loop — leading to the Nurimaru APEC House, a glass-domed hall built for the 2005 APEC summit.
 
-For families, the Sea Life Busan Aquarium sits right on the beachfront near the western end, an easy stop before or after a swim. Food-wise, the streets one block back from the sand are packed with seafood restaurants serving grilled mackerel and hoe (raw fish platters), alongside Busan specialties like ssiat hotteok (seed-filled sweet pancakes) sold from carts near the beach entrance. Nearby Mipo, just past Dongbaekseom, marks the start of the Dalmaji-gil coastal road, a hillside route lined with cafes overlooking the sea — good for a slower, less crowded walk than the main beach strip.
+West along the shore, the Haeundae SeaWalk is a raised platform stretching out over the water toward Dongbaek Island, good for photos at sunrise or sunset.
+
+For families, the Sea Life Busan Aquarium sits right on the beachfront near the western end, an easy stop before or after a swim. Food-wise, the streets one block back from the sand are packed with seafood restaurants serving grilled mackerel and hoe (raw fish platters), alongside Busan specialties like ssiat hotteok (seed-filled sweet pancakes) sold from carts near the beach entrance.
+
+Nearby Mipo, just past Dongbaekseom, marks the start of the Dalmaji-gil coastal road, a hillside route lined with cafes overlooking the sea — good for a slower, less crowded walk than the main beach strip.
 
 ## When to Go
 

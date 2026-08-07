@@ -56,11 +56,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Ohori Park is Fukuoka's answer to a downtown escape valve — a roughly 40-hectare park wrapped around a wide, willow-lined lake right in Chuo Ward, minutes from the skyscrapers of Tenjin. It's rated 4.5 stars across more than 15,000 reviews, which for a city park is a strong signal that it delivers on the basics: clean paths, a genuinely scenic lake, and enough variety (boats, gardens, a museum next door, cafés) to fill a couple of hours without feeling like a single-purpose stroll. The park's design nods to Hangzhou's West Lake in China, and three small islands connected by bridges sit within the water, giving the walking loop a bit of visual rhythm instead of a flat, featureless perimeter.
+Ohori Park is Fukuoka's answer to a downtown escape valve — a roughly 40-hectare park wrapped around a wide, willow-lined lake right in Chuo Ward, minutes from the skyscrapers of Tenjin. It's rated 4.5 stars across more than 15,000 reviews, which for a city park is a strong signal that it delivers on the basics: clean paths, a genuinely scenic lake, and enough variety (boats, gardens, a museum next door, cafés) to fill a couple of hours without feeling like a single-purpose stroll.
+
+The park's design nods to Hangzhou's West Lake in China, and three small islands connected by bridges sit within the water, giving the walking loop a bit of visual rhythm instead of a flat, featureless perimeter.
 
 ## Getting there
 
-The park sits between Fukuoka Castle ruins (Maizuru Park) and the Fukuoka Art Museum, making it easy to fold into a half-day covering all three. The nearest subway stop is **Ohorikoen Station** on the Fukuoka City Subway Kuko (Airport) Line — exit and it's a short walk to the lake's edge. **Tojinmachi Station**, also on the Kuko Line, is a similarly close alternative if you're coming from Fukuoka Airport or Tenjin (the ride from Tenjin is about two stops, under 10 minutes). If you're walking from Tenjin instead, it's roughly 20-25 minutes on foot through the castle ruins area, which is a pleasant way to link the two sites. Driving is possible — there's parking near the park — but subway is simpler given central Fukuoka's one-way streets.
+The park sits between Fukuoka Castle ruins (Maizuru Park) and the Fukuoka Art Museum, making it easy to fold into a half-day covering all three. The nearest subway stop is **Ohorikoen Station** on the Fukuoka City Subway Kuko (Airport) Line — exit and it's a short walk to the lake's edge. **Tojinmachi Station**, also on the Kuko Line, is a similarly close alternative if you're coming from Fukuoka Airport or Tenjin (the ride from Tenjin is about two stops, under 10 minutes).
+
+If you're walking from Tenjin instead, it's roughly 20-25 minutes on foot through the castle ruins area, which is a pleasant way to link the two sites. Driving is possible — there's parking near the park — but subway is simpler given central Fukuoka's one-way streets.
 
 ## What to see and do
 
@@ -76,7 +80,9 @@ For food, there's a lakeside **coffee shop/café** right on the water where you 
 
 ## When to go
 
-**Spring (late March–early April)** is peak season: the park is one of Fukuoka's better cherry blossom spots, with sakura lining sections of the path and drawing hanami picnickers. **Autumn** brings turning foliage around the lake, also worth the trip. Early morning (before 8am) or early evening near sunset are the most atmospheric times year-round, avoiding both midday heat in summer and the after-work crowds. The park is free and open-air, so it's accessible any day; only the Japanese Garden and boat rentals have their own hours and possible closures, generally in the early-to-late afternoon window.
+**Spring (late March–early April)** is peak season: the park is one of Fukuoka's better cherry blossom spots, with sakura lining sections of the path and drawing hanami picnickers. **Autumn** brings turning foliage around the lake, also worth the trip. Early morning (before 8am) or early evening near sunset are the most atmospheric times year-round, avoiding both midday heat in summer and the after-work crowds.
+
+The park is free and open-air, so it's accessible any day; only the Japanese Garden and boat rentals have their own hours and possible closures, generally in the early-to-late afternoon window.
 
 ## Nearby & tips
 

@@ -89,7 +89,11 @@ Mornings (roughly 8–10am) and early afternoons on weekdays are the calmest win
 
 ## How to Visit Like a Local
 
-Livingstone's scale and reputation mean it draws a steady mix of tourists and long-term Bali residents rather than being a local secret — so the smart move isn't finding a quiet version of it, it's timing your visit to dodge the crush. Arrive right at opening or aim for a 3–5pm lull between lunch and dinner services. For dinner or weekend visits, reserve a table in advance rather than walking in; walking in without a booking, especially as part of a large group, is the most common reason visitors end up waiting. Payment is straightforward — cards are widely accepted alongside cash, and a service charge is often already built into the bill, so check before adding an extra tip on top (a small rounding-up is appreciated but not obligatory beyond that). Dress code is relaxed resort-casual — Bali café culture doesn't require dressing up, though many visitors do treat it as a photo stop, so expect phones and tripods around the more photogenic seating areas. If you're mainly there for photos rather than a full meal, visiting during the slower afternoon window lets you actually use the space without rushing past other guests waiting for your seat.
+Livingstone's scale and reputation mean it draws a steady mix of tourists and long-term Bali residents rather than being a local secret — so the smart move isn't finding a quiet version of it, it's timing your visit to dodge the crush. Arrive right at opening or aim for a 3–5pm lull between lunch and dinner services. For dinner or weekend visits, reserve a table in advance rather than walking in; walking in without a booking, especially as part of a large group, is the most common reason visitors end up waiting.
+
+Payment is straightforward — cards are widely accepted alongside cash, and a service charge is often already built into the bill, so check before adding an extra tip on top (a small rounding-up is appreciated but not obligatory beyond that). Dress code is relaxed resort-casual — Bali café culture doesn't require dressing up, though many visitors do treat it as a photo stop, so expect phones and tripods around the more photogenic seating areas.
+
+If you're mainly there for photos rather than a full meal, visiting during the slower afternoon window lets you actually use the space without rushing past other guests waiting for your seat.
 
 ## Nearby to Pair With Your Visit
 

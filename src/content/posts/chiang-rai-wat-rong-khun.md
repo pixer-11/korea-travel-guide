@@ -68,7 +68,9 @@ updatedDate: '2026-07-24'
 
 ## Why Wat Rong Khun is worth the trip
 
-Wat Rong Khun, universally nicknamed the White Temple, is one of Thailand's most photographed religious sites and consistently rated among Chiang Rai's top attractions (4.6 stars across nearly 25,000 reviews). Unlike the centuries-old temples of Chiang Mai or Ayutthaya, this is a living artwork: Thai artist Chalermchai Kositpipat began rebuilding a dilapidated local temple in 1997, funding it entirely himself and through donations, and construction is still ongoing today. The all-white plaster, embedded with mirrored glass fragments, is meant to symbolize the purity of the Buddha, while the glittering surface represents wisdom shining across the universe. It's genuinely unlike any other wat in the country — equal parts Buddhist sanctuary, surrealist art installation, and pop-culture curiosity (look for Predator, Kung Fu Panda, and Superman figures worked into the murals).
+Wat Rong Khun, universally nicknamed the White Temple, is one of Thailand's most photographed religious sites and consistently rated among Chiang Rai's top attractions (4.6 stars across nearly 25,000 reviews). Unlike the centuries-old temples of Chiang Mai or Ayutthaya, this is a living artwork: Thai artist Chalermchai Kositpipat began rebuilding a dilapidated local temple in 1997, funding it entirely himself and through donations, and construction is still ongoing today.
+
+The all-white plaster, embedded with mirrored glass fragments, is meant to symbolize the purity of the Buddha, while the glittering surface represents wisdom shining across the universe. It's genuinely unlike any other wat in the country — equal parts Buddhist sanctuary, surrealist art installation, and pop-culture curiosity (look for Predator, Kung Fu Panda, and Superman figures worked into the murals).
 
 ## Getting there
 

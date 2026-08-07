@@ -50,7 +50,9 @@ West Lake has been eulogized by Chinese poets, painters, and emperors for over a
 
 ## Getting there
 
-Hangzhou East Railway Station is the main arrival point if you're coming by high-speed rail from Shanghai (roughly 45 minutes to 1.5 hours depending on the train). From Hangzhou East, take Metro Line 2 to Longxiang Bridge Station, then transfer to Metro Line 1 toward Wulin Square/Longxiang area, or simply take a taxi/rideshare directly to the lake (about 25-30 minutes, traffic permitting). If you're staying centrally, the lake is walkable from the Wulin Square and Hefang Street/Wushan areas. There's no single "front door" — most visitors enter near Yinbin Road on the north shore or Nanshan Road on the east/south shore, both lined with hotels and restaurants.
+Hangzhou East Railway Station is the main arrival point if you're coming by high-speed rail from Shanghai (roughly 45 minutes to 1.5 hours depending on the train). From Hangzhou East, take Metro Line 2 to Longxiang Bridge Station, then transfer to Metro Line 1 toward Wulin Square/Longxiang area, or simply take a taxi/rideshare directly to the lake (about 25-30 minutes, traffic permitting).
+
+If you're staying centrally, the lake is walkable from the Wulin Square and Hefang Street/Wushan areas. There's no single "front door" — most visitors enter near Yinbin Road on the north shore or Nanshan Road on the east/south shore, both lined with hotels and restaurants.
 
 ## What to see and do
 
@@ -62,7 +64,9 @@ For food, look for beggar's chicken (jiaohua ji) and West Lake vinegar fish (xih
 
 ## When to go
 
-Spring (March–May) brings blossoms and the least oppressive humidity; autumn (September–November) is arguably the best window, with clear skies and the famous "Autumn Moon over a Calm Lake" viewing tradition. Summer brings blooming lotus flowers in the shallows but also heat and crowds; winter is quieter and occasionally delivers snow-dusted pagodas, a scene celebrated in classical paintings as "Broken Bridge Snow." Early morning (before 8am) is when locals do tai chi along the banks and the light is softest for photos — it's also the easiest time to avoid domestic tour groups, which peak midday and on weekends.
+Spring (March–May) brings blossoms and the least oppressive humidity; autumn (September–November) is arguably the best window, with clear skies and the famous "Autumn Moon over a Calm Lake" viewing tradition. Summer brings blooming lotus flowers in the shallows but also heat and crowds; winter is quieter and occasionally delivers snow-dusted pagodas, a scene celebrated in classical paintings as "Broken Bridge Snow."
+
+Early morning (before 8am) is when locals do tai chi along the banks and the light is softest for photos — it's also the easiest time to avoid domestic tour groups, which peak midday and on weekends.
 
 ## Nearby & practical tips
 

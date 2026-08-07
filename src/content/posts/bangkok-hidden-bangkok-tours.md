@@ -50,15 +50,21 @@ draft: false
 
 ## Why go
 
-Most first-time visitors see Bangkok through the Grand Palace, Wat Pho, and Khao San Road — all on the Rattanakosin (Bangkok proper) side of the Chao Phraya River. Hidden Bangkok Tours operates from the opposite bank, in Bangkok Yai and the Wat Arun area of Thonburi, the original Siamese capital before Rattanakosin was built in 1782. This is a district of narrow sois, wooden stilt houses along klongs (canals), neighborhood temples with no entrance queues, and markets that serve residents rather than tour buses. The appeal isn't a single monument — it's the texture of daily life in a part of Bangkok that retains its 18th-century layout, just a 10-minute boat ride from the postcard skyline.
+Most first-time visitors see Bangkok through the Grand Palace, Wat Pho, and Khao San Road — all on the Rattanakosin (Bangkok proper) side of the Chao Phraya River. Hidden Bangkok Tours operates from the opposite bank, in Bangkok Yai and the Wat Arun area of Thonburi, the original Siamese capital before Rattanakosin was built in 1782. This is a district of narrow sois, wooden stilt houses along klongs (canals), neighborhood temples with no entrance queues, and markets that serve residents rather than tour buses.
+
+The appeal isn't a single monument — it's the texture of daily life in a part of Bangkok that retains its 18th-century layout, just a 10-minute boat ride from the postcard skyline.
 
 ## Getting there
 
-The operator's address, 113 Soi Wat Nak Klang, sits in Khwaeng Wat Arun, Khet Bangkok Yai — essentially the back streets behind the famous Temple of Dawn. The most reliable approach is via the BTS Silom Line to **Wongwian Yai station**, then a short taxi or motorbike taxi (5-10 minutes) into the sois, since the neighborhood's canal-front alleys aren't well served by ride-hailing pickup points. Alternatively, take the Chao Phraya Express Boat to **Wat Arun pier (N8)**, then walk or grab a motorbike taxi inland — this route lets you glimpse the temple's prang towers before the tour even starts. Confirm the exact meeting point when booking, since many "hidden Bangkok" walks begin at a specific soi entrance rather than the tour company's registered address.
+The operator's address, 113 Soi Wat Nak Klang, sits in Khwaeng Wat Arun, Khet Bangkok Yai — essentially the back streets behind the famous Temple of Dawn. The most reliable approach is via the BTS Silom Line to **Wongwian Yai station**, then a short taxi or motorbike taxi (5-10 minutes) into the sois, since the neighborhood's canal-front alleys aren't well served by ride-hailing pickup points.
+
+Alternatively, take the Chao Phraya Express Boat to **Wat Arun pier (N8)**, then walk or grab a motorbike taxi inland — this route lets you glimpse the temple's prang towers before the tour even starts. Confirm the exact meeting point when booking, since many "hidden Bangkok" walks begin at a specific soi entrance rather than the tour company's registered address.
 
 ## What to see and eat
 
-Expect a route built around backstreet temples like **Wat Prayurawongsawas** (known for its whitewashed chedi and turtle pond) and smaller neighborhood shrines that rarely appear on standard itineraries. Good Thonburi-side operators typically weave in a klong-side walk — Bangkok Yai and neighboring Bangkok Noi still have functioning canal communities where residents commute by longtail boat — plus a stop at a wet market for fruit, dried chili pastes, or a bowl of boat noodles (kuay teow reua) from a vendor who's been at the same corner for decades. Look for stops at old Chinese-Thai shophouses, artisan workshops (lacquerware, Buddhist amulet carving, or gold-leaf application are common Thonburi trades), and a riverside viewpoint for photographing Wat Arun from across the water — often a better angle than fighting crowds at the temple itself.
+Expect a route built around backstreet temples like **Wat Prayurawongsawas** (known for its whitewashed chedi and turtle pond) and smaller neighborhood shrines that rarely appear on standard itineraries. Good Thonburi-side operators typically weave in a klong-side walk — Bangkok Yai and neighboring Bangkok Noi still have functioning canal communities where residents commute by longtail boat — plus a stop at a wet market for fruit, dried chili pastes, or a bowl of boat noodles (kuay teow reua) from a vendor who's been at the same corner for decades.
+
+Look for stops at old Chinese-Thai shophouses, artisan workshops (lacquerware, Buddhist amulet carving, or gold-leaf application are common Thonburi trades), and a riverside viewpoint for photographing Wat Arun from across the water — often a better angle than fighting crowds at the temple itself.
 
 ## When to go
 
@@ -66,4 +72,6 @@ Thonburi's alleys have little shade, so mornings (starting around 8-9am) or late
 
 ## Nearby & tips
 
-Pair the tour with a visit to Wat Arun itself (best photographed at sunset from the east bank) or Wat Pho and the Grand Palace on the river's other side — a cross-river ferry from Tha Tien pier connects both worlds in minutes. Wear closed shoes suited to uneven pavement and temple thresholds, and bring small baht denominations for market snacks, since vendors here rarely take cards. Given the 4.9 rating across almost 400 reviews, group sizes are likely kept small — book a few days ahead, especially around Thai public holidays when family-run stops may close. Always confirm current tour duration, price, and start time directly with the operator before finalizing plans, as these details shift more often than the neighborhood itself.
+Pair the tour with a visit to Wat Arun itself (best photographed at sunset from the east bank) or Wat Pho and the Grand Palace on the river's other side — a cross-river ferry from Tha Tien pier connects both worlds in minutes. Wear closed shoes suited to uneven pavement and temple thresholds, and bring small baht denominations for market snacks, since vendors here rarely take cards.
+
+Given the 4.9 rating across almost 400 reviews, group sizes are likely kept small — book a few days ahead, especially around Thai public holidays when family-run stops may close. Always confirm current tour duration, price, and start time directly with the operator before finalizing plans, as these details shift more often than the neighborhood itself.

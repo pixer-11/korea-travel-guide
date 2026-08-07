@@ -65,17 +65,23 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-The Old Quarter is Hanoi's original commercial heart, dating back roughly 1,000 years to when Ly Dynasty artisans and merchants organized into guilds along Hoan Kiem Lake. Each guild took a street named "Hang" (meaning "merchandise") plus its specialty — Hang Bac for silversmiths, Hang Ma for votive paper and, now, festive decorations, Hang Gai for silk. Many of these streets still sell roughly what they did centuries ago, layered under motorbike repair shops, cafes, and backpacker bars. With a 4.6 rating across nearly 10,000 reviews, it's consistently rated as Hanoi's most essential neighborhood to walk rather than just view — the appeal is atmosphere and density, not a single ticketed sight.
+The Old Quarter is Hanoi's original commercial heart, dating back roughly 1,000 years to when Ly Dynasty artisans and merchants organized into guilds along Hoan Kiem Lake. Each guild took a street named "Hang" (meaning "merchandise") plus its specialty — Hang Bac for silversmiths, Hang Ma for votive paper and, now, festive decorations, Hang Gai for silk. Many of these streets still sell roughly what they did centuries ago, layered under motorbike repair shops, cafes, and backpacker bars.
+
+With a 4.6 rating across nearly 10,000 reviews, it's consistently rated as Hanoi's most essential neighborhood to walk rather than just view — the appeal is atmosphere and density, not a single ticketed sight.
 
 ## Getting there
 
-The Old Quarter sits immediately north of Hoan Kiem Lake, bordered roughly by Tran Nhat Duat to the north and the lake itself to the south, centered on streets like Hang Dao, Hang Ngang, and Ma May. Hanoi has no metro line serving this area yet (Cat Linh–Ha Dong line stops well to the west), so most visitors arrive by taxi, Grab, or on foot from hotels around the lake. If you're staying in the French Quarter or near Hanoi Opera House, it's a 15-20 minute walk. Cyclos and pedicabs also loop through for a slower, guided pass — agree on a price before boarding since meters aren't used.
+The Old Quarter sits immediately north of Hoan Kiem Lake, bordered roughly by Tran Nhat Duat to the north and the lake itself to the south, centered on streets like Hang Dao, Hang Ngang, and Ma May. Hanoi has no metro line serving this area yet (Cat Linh–Ha Dong line stops well to the west), so most visitors arrive by taxi, Grab, or on foot from hotels around the lake.
+
+If you're staying in the French Quarter or near Hanoi Opera House, it's a 15-20 minute walk. Cyclos and pedicabs also loop through for a slower, guided pass — agree on a price before boarding since meters aren't used.
 
 ## What to see and eat
 
 Start at the northern end of Hoan Kiem Lake and head into Hang Dao, which becomes Hang Ngang — the address anchoring this whole district. Weave through Hang Bac (silver), Hang Ma (colorful paper lanterns and decorations, especially vivid before Mid-Autumn Festival and Tet), and Ma May, home to the well-preserved Ancient House at 87 Ma May, a restored 19th-century merchant tube house open for a small entry fee that illustrates the narrow "tube house" architecture the district is known for — long, slender buildings built to minimize street-frontage tax.
 
-For food, hunt down bun cha (grilled pork with noodles) around Hang Manh, banh mi and egg coffee at small stools tucked into alleys, and the sprawling hawker stalls on Hang Buom and Ta Hien after dark. Ta Hien's "Beer Corner" (Bia Hoi Corner), at the junction with Luong Ngoc Quyen, is the default spot for cheap draft beer on tiny plastic stools — arrive by early evening for a seat. Don't skip Dong Xuan Market at the quarter's northern edge, Hanoi's largest covered market for textiles, housewares, and dried goods.
+For food, hunt down bun cha (grilled pork with noodles) around Hang Manh, banh mi and egg coffee at small stools tucked into alleys, and the sprawling hawker stalls on Hang Buom and Ta Hien after dark. Ta Hien's "Beer Corner" (Bia Hoi Corner), at the junction with Luong Ngoc Quyen, is the default spot for cheap draft beer on tiny plastic stools — arrive by early evening for a seat.
+
+Don't skip Dong Xuan Market at the quarter's northern edge, Hanoi's largest covered market for textiles, housewares, and dried goods.
 
 ## When to go
 
@@ -83,4 +89,6 @@ Weekend evenings (Friday, Saturday, Sunday, roughly 7pm to midnight) transform t
 
 ## Nearby & tips
 
-Hoan Kiem Lake and Ngoc Son Temple are a five-minute walk south — easy to combine with an Old Quarter visit into a half-day loop. St. Joseph's Cathedral is about 10-15 minutes on foot southwest. Traffic doesn't fully stop for pedestrians here, so cross slowly and predictably, letting motorbikes flow around you rather than darting. Storefronts double as homes and workshops, so keep an eye out rather than blocking doorways for photos. Small change helps for street food stalls, and most vendors expect polite haggling at Dong Xuan Market and night-market stalls, though not typically at sit-down restaurants.
+Hoan Kiem Lake and Ngoc Son Temple are a five-minute walk south — easy to combine with an Old Quarter visit into a half-day loop. St. Joseph's Cathedral is about 10-15 minutes on foot southwest. Traffic doesn't fully stop for pedestrians here, so cross slowly and predictably, letting motorbikes flow around you rather than darting. Storefronts double as homes and workshops, so keep an eye out rather than blocking doorways for photos.
+
+Small change helps for street food stalls, and most vendors expect polite haggling at Dong Xuan Market and night-market stalls, though not typically at sit-down restaurants.

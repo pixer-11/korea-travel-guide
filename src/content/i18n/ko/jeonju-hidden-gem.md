@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jeonju-hidden-gem
-srcHash: 49bc151efab2
+srcHash: '39ba0507bb92'
 title: 전주에서 발견하는 숨은 명소
 description: 전주 한옥마을의 붐비는 중심 골목은 건너뛰고, 마을 동쪽의 남묵실길(Nammusil-gil)과 자만벽화마을(Jaman Mural Village), 그리고 오목대와 이목대 언덕 주변으로 향해보세요.
 quickAnswer: 전주 한옥마을의 붐비는 중심 골목은 건너뛰고, 마을 동쪽의 남묵실길(Nammusil-gil)과 자만벽화마을(Jaman Mural Village), 그리고 오목대와 이목대 언덕 주변의 조용한 주택가 골목으로 향해보세요. 이곳들은 한옥마을 중심지에서 도보로 10~15분 거리에 있지만 방문객은 훨씬 적으며, 실제로 운영 중인 전통 찻집과 아담한 한지 공방, 그리고 줄을 서지 않고도 기와지붕이 펼쳐지는 전망을 감상할 수 있는 곳들입니다.

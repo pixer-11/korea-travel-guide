@@ -70,11 +70,15 @@ draft: false
 
 ## Why Bukchon feels different from the rest of Seoul
 
-You come up out of the modern grid of Jongno District and the streets suddenly narrow, tilt uphill, and go quiet in a way that Myeongdong or Hongdae never do. Grey tiled roofs — giwa — curve and overlap down the hillside in rows, and between them run alleys barely wide enough for two people to pass. This is Bukchon, "north village," sitting in the saddle between Gyeongbokgung Palace and Changdeokgung Palace, on land that's been settled since the 14th-century founding of the Joseon dynasty. The hanok you see aren't museum reconstructions — most were built in the 1920s–30s as the aristocracy's compact urban version of the courtyard house, and a good number are still private homes today.
+You come up out of the modern grid of Jongno District and the streets suddenly narrow, tilt uphill, and go quiet in a way that Myeongdong or Hongdae never do. Grey tiled roofs — giwa — curve and overlap down the hillside in rows, and between them run alleys barely wide enough for two people to pass. This is Bukchon, "north village," sitting in the saddle between Gyeongbokgung Palace and Changdeokgung Palace, on land that's been settled since the 14th-century founding of the Joseon dynasty.
+
+The hanok you see aren't museum reconstructions — most were built in the 1920s–30s as the aristocracy's compact urban version of the courtyard house, and a good number are still private homes today.
 
 ## What you're actually looking at
 
-There's no single entrance or ticket booth — Bukchon is a live residential district, and the "sights" are the streetscape itself. The name almost every visitor is chasing is Bukchon-ro 11-gil, a steep, camera-ready lane where the rooflines stack up in tiers against the skyline — it's the image on every Seoul postcard. Nearby, the Bukchon Traditional Culture Center occupies a restored hanok and gives context on how these houses were actually laid out, with their heated ondol floors and inward-facing courtyards. A short walk away, small workshops let you try on hanbok, and a scattering of tea houses and ceramics studios operate out of converted homes — look for hand-painted signs rather than neon.
+There's no single entrance or ticket booth — Bukchon is a live residential district, and the "sights" are the streetscape itself. The name almost every visitor is chasing is Bukchon-ro 11-gil, a steep, camera-ready lane where the rooflines stack up in tiers against the skyline — it's the image on every Seoul postcard. Nearby, the Bukchon Traditional Culture Center occupies a restored hanok and gives context on how these houses were actually laid out, with their heated ondol floors and inward-facing courtyards.
+
+A short walk away, small workshops let you try on hanbok, and a scattering of tea houses and ceramics studios operate out of converted homes — look for hand-painted signs rather than neon.
 
 ## Getting there
 
@@ -82,9 +86,15 @@ The village sits between two subway stops, and either works: Anguk Station on Li
 
 ## When to go
 
-Bukchon is open daily, 10am to 5pm, and this isn't a place to stretch past dusk — there's no lighting plan for tourists, and by evening the residential streets are simply dark and quiet. The measured foot traffic backs up what you'd guess: the calmest hour, on both weekdays and weekends, is 10am–11am, right at opening. Avoid rolling in between noon and 5pm on a weekend, when the narrow lanes — especially Bukchon-ro 11-gil — fill with tour groups and the photo queue at the main viewpoint can stall completely. Spring (cherry blossoms) and autumn (foliage against the tiled roofs) are the visual high points, which also means bigger crowds in those seasons — an early arrival matters even more then.
+Bukchon is open daily, 10am to 5pm, and this isn't a place to stretch past dusk — there's no lighting plan for tourists, and by evening the residential streets are simply dark and quiet. The measured foot traffic backs up what you'd guess: the calmest hour, on both weekdays and weekends, is 10am–11am, right at opening. Avoid rolling in between noon and 5pm on a weekend, when the narrow lanes — especially Bukchon-ro 11-gil — fill with tour groups and the photo queue at the main viewpoint can stall completely.
+
+Spring (cherry blossoms) and autumn (foliage against the tiled roofs) are the visual high points, which also means bigger crowds in those seasons — an early arrival matters even more then.
 
 ## How to visit like a local
 
-Come at opening. The 10–11am window isn't just quieter for you — it's quieter for the residents, who've asked visitors repeatedly to keep noise down before 10am and after sunset, since this is still someone's front door. Speak softly in the residential lanes; loud group photo sessions right outside a gate are the single biggest source of local complaints. Skip the idea of "must-see stops" and instead pick two or three connecting alleys and walk them slowly — Bukchon rewards wandering more than checklist-ticking. If you want the hanbok photos, rent from a shop near Anguk Station rather than hauling a bulky outfit uphill. There's no admission fee and nothing to book, so budget-wise this is essentially free beyond whatever tea, hanbok rental, or workshop you choose to pay for, all cash- or card-friendly like the rest of Seoul. Because this is a very-visited landmark rather than an undiscovered corner, the real "local" move isn't finding a secret street — it's timing: go early, avoid the noon-to-5pm weekend crush, and treat the private homes with the same restraint you'd want shown at your own front gate. Pair the visit with nearby Gyeongbokgung or Changdeokgung on the same trip, since both are close enough to fold into a single morning.
+Come at opening. The 10–11am window isn't just quieter for you — it's quieter for the residents, who've asked visitors repeatedly to keep noise down before 10am and after sunset, since this is still someone's front door. Speak softly in the residential lanes; loud group photo sessions right outside a gate are the single biggest source of local complaints. Skip the idea of "must-see stops" and instead pick two or three connecting alleys and walk them slowly — Bukchon rewards wandering more than checklist-ticking.
+
+If you want the hanbok photos, rent from a shop near Anguk Station rather than hauling a bulky outfit uphill. There's no admission fee and nothing to book, so budget-wise this is essentially free beyond whatever tea, hanbok rental, or workshop you choose to pay for, all cash- or card-friendly like the rest of Seoul. Because this is a very-visited landmark rather than an undiscovered corner, the real "local" move isn't finding a secret street — it's timing: go early, avoid the noon-to-5pm weekend crush, and treat the private homes with the same restraint you'd want shown at your own front gate.
+
+Pair the visit with nearby Gyeongbokgung or Changdeokgung on the same trip, since both are close enough to fold into a single morning.
 

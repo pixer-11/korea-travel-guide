@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nagoya-noritake-garden
-srcHash: 2fcc52374980
+srcHash: 'e6ec2c4baa6b'
 title: 'Noritake Garden: Guía de viaje de Nagoya'
 description: Noritake Garden es un antiguo terreno de fábrica de cerámica reconvertido en Nishi Ward, a unos 10 minutos a pie de la estación de Kamejima (Kamejima Station) en la línea de metro Higashiyama.
 quickAnswer: Noritake Garden es un antiguo terreno de fábrica de cerámica reconvertido en Nishi Ward, a unos 10 minutos a pie de la estación de Kamejima (Kamejima Station) en la línea de metro Higashiyama, con un pequeño museo, una chimenea de horno en funcionamiento, talleres artesanales, jardines y una tienda que vende vajilla Noritake. Calcula entre 1,5 y 2 horas, y ve una mañana entre semana para ver a los artesanos del taller trabajar sin aglomeraciones. La entrada a los jardines en sí suele ser gratuita o de bajo costo, con una pequeña tarifa aparte para el museo/centro de artesanía; confirma los precios vigentes antes de ir.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Noritake es una de las marcas de vajilla y porcelana más reconocidas de Japón, fundada en Nagoya en 1904, y este sitio corresponde a los terrenos de la fábrica original de la compañía, convertidos en un parque público y complejo cultural. A diferencia de un museo construido para tal fin, el atractivo aquí radica en la sensación de historia superpuesta: edificios de horno de ladrillo rojo de principios del siglo XX conviven con estanques, céspedes y pabellones comerciales contemporáneos, de modo que caminas por un patrimonio industrial genuino y no por una reconstrucción. Es una verdadera joya escondida para quienes recorren Nagoya más allá del circuito habitual de castillos y santuarios: tranquilo, fácil de recorrer a pie y rara vez abarrotado de grupos turísticos, lo cual se refleja en su sólida calificación de 4.1 con casi 8.000 reseñas.
+Noritake es una de las marcas de vajilla y porcelana más reconocidas de Japón, fundada en Nagoya en 1904, y este sitio corresponde a los terrenos de la fábrica original de la compañía, convertidos en un parque público y complejo cultural. A diferencia de un museo construido para tal fin, el atractivo aquí radica en la sensación de historia superpuesta: edificios de horno de ladrillo rojo de principios del siglo XX conviven con estanques, céspedes y pabellones comerciales contemporáneos, de modo que caminas por un patrimonio industrial genuino y no por una reconstrucción.
+
+Es una verdadera joya escondida para quienes recorren Nagoya más allá del circuito habitual de castillos y santuarios: tranquilo, fácil de recorrer a pie y rara vez abarrotado de grupos turísticos, lo cual se refleja en su sólida calificación de 4.1 con casi 8.000 reseñas.
 
 ## Cómo llegar
 
-El jardín se ubica en 3-chōme-1-36 Noritakeshinmachi, en Nishi Ward. La forma más sencilla de llegar es tomar la línea de metro Higashiyama hasta la estación de Kamejima (Kamejima Station), desde donde hay una caminata de aproximadamente 10-15 minutos siguiendo las señales hacia la chimenea de ladrillo que se ve por encima de los tejados; esa chimenea es un buen punto de referencia si te desorientas. Como alternativa, la estación de Nagoya (Nagoya Station) —el principal centro de trenes JR/Meitetsu/Kintetsu— está a solo 1,5-2 km, por lo que también es viable ir en taxi o caminar unos 20-25 minutos si ya te encuentras en esa zona. El autobús turístico Meguru de Nagoya normalmente no para aquí, así que el metro es la ruta más confiable.
+El jardín se ubica en 3-chōme-1-36 Noritakeshinmachi, en Nishi Ward. La forma más sencilla de llegar es tomar la línea de metro Higashiyama hasta la estación de Kamejima (Kamejima Station), desde donde hay una caminata de aproximadamente 10-15 minutos siguiendo las señales hacia la chimenea de ladrillo que se ve por encima de los tejados; esa chimenea es un buen punto de referencia si te desorientas.
+
+Como alternativa, la estación de Nagoya (Nagoya Station) —el principal centro de trenes JR/Meitetsu/Kintetsu— está a solo 1,5-2 km, por lo que también es viable ir en taxi o caminar unos 20-25 minutos si ya te encuentras en esa zona. El autobús turístico Meguru de Nagoya normalmente no para aquí, así que el metro es la ruta más confiable.
 
 ## Qué ver y hacer
 
@@ -39,8 +43,14 @@ Reserva al menos 90 minutos, más si quieres probar alguna actividad artesanal. 
 
 ## Cuándo ir
 
-La primavera (con cerezos en flor a lo largo de los senderos del jardín, aproximadamente entre fines de marzo y principios de abril) y el otoño (koyo, el follaje de noviembre) son las temporadas más fotogénicas, pero el sitio resulta agradable prácticamente todo el año, ya que gran parte está cubierta o a la sombra. Las mañanas entre semana son las más tranquilas; los fines de semana pueden traer familias y grupos escolares a los talleres artesanales. Como parte del complejo está bajo techo, también funciona bien como alternativa en un día lluvioso en Nagoya, cuando el turismo al aire libre resulta menos atractivo.
+La primavera (con cerezos en flor a lo largo de los senderos del jardín, aproximadamente entre fines de marzo y principios de abril) y el otoño (koyo, el follaje de noviembre) son las temporadas más fotogénicas, pero el sitio resulta agradable prácticamente todo el año, ya que gran parte está cubierta o a la sombra. Las mañanas entre semana son las más tranquilas; los fines de semana pueden traer familias y grupos escolares a los talleres artesanales.
+
+Como parte del complejo está bajo techo, también funciona bien como alternativa en un día lluvioso en Nagoya, cuando el turismo al aire libre resulta menos atractivo.
 
 ## Cerca de allí y consejos prácticos
 
-El Museo Conmemorativo de Industria y Tecnología de Toyota (Toyota Commemorative Museum of Industry and Technology), que aborda los orígenes del Grupo Toyota (a su vez vinculado históricamente con los fundadores de Noritake), está a una distancia cómoda a pie o en un corto trayecto en taxi, y combina de forma natural con una visita a Noritake para dedicar media jornada al patrimonio industrial. Las torres de compras y restaurantes de la estación de Nagoya están lo suficientemente cerca como para combinarlas con una tarde aquí. Ten en cuenta que las estructuras de admisión pueden cambiar: el acceso a los terrenos del jardín suele ser gratuito, mientras que el museo y las experiencias artesanales prácticas cobran tarifas adicionales pequeñas, así que conviene revisar la señalización oficial o preguntar en la taquilla al llegar, en lugar de asumir que un solo precio lo cubre todo. Es recomendable llevar calzado cómodo, ya que el recorrido cubre bastante terreno, y solo la zona de la tienda puede fácilmente ocupar 20-30 minutos para quienes se interesan en cerámica.
+El Museo Conmemorativo de Industria y Tecnología de Toyota (Toyota Commemorative Museum of Industry and Technology), que aborda los orígenes del Grupo Toyota (a su vez vinculado históricamente con los fundadores de Noritake), está a una distancia cómoda a pie o en un corto trayecto en taxi, y combina de forma natural con una visita a Noritake para dedicar media jornada al patrimonio industrial.
+
+Las torres de compras y restaurantes de la estación de Nagoya están lo suficientemente cerca como para combinarlas con una tarde aquí. Ten en cuenta que las estructuras de admisión pueden cambiar: el acceso a los terrenos del jardín suele ser gratuito, mientras que el museo y las experiencias artesanales prácticas cobran tarifas adicionales pequeñas, así que conviene revisar la señalización oficial o preguntar en la taquilla al llegar, en lugar de asumir que un solo precio lo cubre todo.
+
+Es recomendable llevar calzado cómodo, ya que el recorrido cubre bastante terreno, y solo la zona de la tienda puede fácilmente ocupar 20-30 minutos para quienes se interesan en cerámica.

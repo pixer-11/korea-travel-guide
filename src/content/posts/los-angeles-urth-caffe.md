@@ -53,15 +53,21 @@ draft: false
 
 ## Why go
 
-Urth Caffè's Arts District outpost is the kind of place that photographs better than it should be able to, and then tastes just as good as it looks. You walk in past a glass pastry case stacked with towering slices of cake and rows of croissants, and the whole room smells like scalded milk and roasted beans. Skylights and tall windows throw a soft, even light across the marble-topped tables, and out on the patio, strings of café lights hang over a crowd that skews equal parts industry types on laptops, tourists comparing photos, and locals nursing an oat-milk latte over a paperback. It's not a quiet secret — it's one of the most photographed café patios in the city — and that's precisely the draw.
+Urth Caffè's Arts District outpost is the kind of place that photographs better than it should be able to, and then tastes just as good as it looks. You walk in past a glass pastry case stacked with towering slices of cake and rows of croissants, and the whole room smells like scalded milk and roasted beans. Skylights and tall windows throw a soft, even light across the marble-topped tables, and out on the patio, strings of café lights hang over a crowd that skews equal parts industry types on laptops, tourists comparing photos, and locals nursing an oat-milk latte over a paperback.
+
+It's not a quiet secret — it's one of the most photographed café patios in the city — and that's precisely the draw.
 
 ## Getting there
 
-The address is 459 S Hewitt St, in the Arts District just southeast of Little Tokyo and a short walk from the Sixth Street Viaduct. If you're coming by Metro, the A or E Line to Little Tokyo/Arts District station puts you within a 10–15 minute walk. Driving is the more common approach for most visitors, and street parking in the Arts District is tight but workable, especially earlier in the day; there are also a handful of paid lots scattered along Traction and Hewitt if the curb is full. Because the neighborhood is full of converted warehouses and design studios, it's worth building in a few extra minutes to wander before or after your coffee.
+The address is 459 S Hewitt St, in the Arts District just southeast of Little Tokyo and a short walk from the Sixth Street Viaduct. If you're coming by Metro, the A or E Line to Little Tokyo/Arts District station puts you within a 10–15 minute walk. Driving is the more common approach for most visitors, and street parking in the Arts District is tight but workable, especially earlier in the day; there are also a handful of paid lots scattered along Traction and Hewitt if the curb is full.
+
+Because the neighborhood is full of converted warehouses and design studios, it's worth building in a few extra minutes to wander before or after your coffee.
 
 ## What to see and eat
 
-The menu is long — this is a full American café menu, not just an espresso bar — with organic coffee blends, loose-leaf teas, fresh-squeezed juices, and a pastry case that's arguably the main event. Expect European-style cakes and tarts, croissants, and a rotating lineup of scones and muffins, alongside heartier options like egg dishes, salads, and sandwiches for anyone treating this as brunch rather than a coffee break. Portions run generous, and pricing sits in the mid-range for a Los Angeles café — not cheap, but in line with the setting and the quality of the pastry program. Counter service means you order and pay up front, then find a seat; on busy mornings that can mean circling the patio once before a table frees up.
+The menu is long — this is a full American café menu, not just an espresso bar — with organic coffee blends, loose-leaf teas, fresh-squeezed juices, and a pastry case that's arguably the main event. Expect European-style cakes and tarts, croissants, and a rotating lineup of scones and muffins, alongside heartier options like egg dishes, salads, and sandwiches for anyone treating this as brunch rather than a coffee break.
+
+Portions run generous, and pricing sits in the mid-range for a Los Angeles café — not cheap, but in line with the setting and the quality of the pastry program. Counter service means you order and pay up front, then find a seat; on busy mornings that can mean circling the patio once before a table frees up.
 
 ## When to go
 
@@ -69,4 +75,8 @@ With extended daily hours, Urth Caffè has enough runway to work as a breakfast 
 
 ## How to visit like a local
 
-This is a genuinely busy, well-known spot rather than an under-the-radar find, so the smartest move is timing, not secrecy. Aim for the early window right after opening on a weekday — the light is good, the patio isn't full, and you won't be rushed off a table. Order at the counter and pay there; tipping a dollar or two in the jar for counter service is common practice at LA cafés like this one, though it's not obligatory. If you're set on outdoor seating, send one person to hold a table while another orders, since patio spots turn over slowly once people settle in with laptops or long conversations. The mistake first-time visitors make is treating it purely as a quick espresso stop — with a menu this deep, it rewards lingering over a pastry and a proper drink rather than a five-minute grab-and-go. And if the wait looks long, remember Urth has multiple Los Angeles locations; this Arts District branch is beloved for its setting, but it's not the only place to get the same coffee and cake.
+This is a genuinely busy, well-known spot rather than an under-the-radar find, so the smartest move is timing, not secrecy. Aim for the early window right after opening on a weekday — the light is good, the patio isn't full, and you won't be rushed off a table. Order at the counter and pay there; tipping a dollar or two in the jar for counter service is common practice at LA cafés like this one, though it's not obligatory.
+
+If you're set on outdoor seating, send one person to hold a table while another orders, since patio spots turn over slowly once people settle in with laptops or long conversations. The mistake first-time visitors make is treating it purely as a quick espresso stop — with a menu this deep, it rewards lingering over a pastry and a proper drink rather than a five-minute grab-and-go.
+
+And if the wait looks long, remember Urth has multiple Los Angeles locations; this Arts District branch is beloved for its setting, but it's not the only place to get the same coffee and cake.

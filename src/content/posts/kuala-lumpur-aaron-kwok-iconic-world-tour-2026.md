@@ -57,7 +57,9 @@ eventRecurring: false
 
 ## Why This Show Matters
 
-Aaron Kwok is one of Cantopop's "Four Heavenly Kings," a title that has defined Hong Kong pop stardom since the early 1990s alongside Jacky Cheung, Andy Lau, and Leon Lai. Decades on, Kwok remains known for elaborate, dance-heavy stage productions, and the ICONIC World Tour 2026 continues that reputation, arriving in Kuala Lumpur with a touring crew reported at 200 members — enough to suggest a full-scale arena production with multiple stage setups, LED design, and choreography rather than a stripped-down concert format. For fans across Southeast Asia, a Kuala Lumpur stop means one of the few chances in the region to catch this leg of the tour without traveling to Hong Kong, Taipei, or Singapore.
+Aaron Kwok is one of Cantopop's "Four Heavenly Kings," a title that has defined Hong Kong pop stardom since the early 1990s alongside Jacky Cheung, Andy Lau, and Leon Lai. Decades on, Kwok remains known for elaborate, dance-heavy stage productions, and the ICONIC World Tour 2026 continues that reputation, arriving in Kuala Lumpur with a touring crew reported at 200 members — enough to suggest a full-scale arena production with multiple stage setups, LED design, and choreography rather than a stripped-down concert format.
+
+For fans across Southeast Asia, a Kuala Lumpur stop means one of the few chances in the region to catch this leg of the tour without traveling to Hong Kong, Taipei, or Singapore.
 
 ## Getting There: Unifi Arena, Bukit Jalil
 
@@ -73,7 +75,9 @@ Kwok's live shows typically combine live vocals with tightly choreographed dance
 
 ## When to Go and How to Plan the Trip
 
-September puts this concert in Malaysia's wetter shoulder season, with afternoon thunderstorms common in the Klang Valley — pack a light rain layer for the commute even if the arena itself is indoor. Since this is a single-date event (September 12, 2026, as currently announced), fans traveling from abroad should treat flights and hotel bookings as flexible until the promoter confirms the date is final, since concert dates occasionally shift. Book accommodations in the Bukit Jalil, Sri Petaling, or nearby Puchong areas for the shortest commute, or stay in central KL (Bukit Bintang, KLCC) and budget 30–40 minutes via LRT with a transfer.
+September puts this concert in Malaysia's wetter shoulder season, with afternoon thunderstorms common in the Klang Valley — pack a light rain layer for the commute even if the arena itself is indoor. Since this is a single-date event (September 12, 2026, as currently announced), fans traveling from abroad should treat flights and hotel bookings as flexible until the promoter confirms the date is final, since concert dates occasionally shift.
+
+Book accommodations in the Bukit Jalil, Sri Petaling, or nearby Puchong areas for the shortest commute, or stay in central KL (Bukit Bintang, KLCC) and budget 30–40 minutes via LRT with a transfer.
 
 ## Nearby & Practical Tips
 

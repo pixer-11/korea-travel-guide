@@ -46,7 +46,9 @@ draft: false
 
 ## Why go
 
-Piazza San Marco has been Venice's civic and religious heart since the 12th century, and it's the only public space in the city grand enough to be called a "piazza" (every other square is a campo). It's dominated by St. Mark's Basilica, whose gold-mosaic domes and Byzantine styling set it apart from anything else in Italy — a legacy of Venice's centuries-long trading ties with Constantinople. Napoleon reportedly called it "the finest drawing room in Europe," and standing in the square at dusk, with the Campanile lit up and the basilica's facade glowing, it's easy to see why. With a 4.7 rating across nearly 195,000 reviews, it's the single most-visited spot in Venice, and deservedly so — but that also means it demands a plan.
+Piazza San Marco has been Venice's civic and religious heart since the 12th century, and it's the only public space in the city grand enough to be called a "piazza" (every other square is a campo). It's dominated by St. Mark's Basilica, whose gold-mosaic domes and Byzantine styling set it apart from anything else in Italy — a legacy of Venice's centuries-long trading ties with Constantinople.
+
+Napoleon reportedly called it "the finest drawing room in Europe," and standing in the square at dusk, with the Campanile lit up and the basilica's facade glowing, it's easy to see why. With a 4.7 rating across nearly 195,000 reviews, it's the single most-visited spot in Venice, and deservedly so — but that also means it demands a plan.
 
 ## Getting there
 
@@ -54,12 +56,18 @@ The square sits at the southern tip of the historic center, in the sestiere of S
 
 ## What to see
 
-Start with **St. Mark's Basilica**, free to enter but with a "skip the line" reserved-entry option worth booking online in high season — the standard queue can run over an hour. Inside, the ceiling is covered in gold-ground mosaics dating from the 11th to 13th centuries. Climb the **Campanile** (the freestanding bell tower, rebuilt after it collapsed in 1902) for the best rooftop view over the lagoon and red-tiled rooftops — it has an elevator, so no stair climb required. On the piazza's south side, the **Doge's Palace** (Palazzo Ducale) was the seat of Venetian government for centuries and connects via the enclosed **Bridge of Sighs** to the old prisons. The **Torre dell'Orologio**, the astronomical clock tower on the square's north side, can only be visited by pre-booked guided tour. For a slower pace, the arcaded **Procuratie Vecchie** and **Nuove** house historic cafés — Caffè Florian (open since 1720) and Caffè Quadri are the famous, pricier options, worth a coffee just for the orchestras and belle-époque interiors, even if a sit-down cappuccino here costs several times the counter price elsewhere.
+Start with **St. Mark's Basilica**, free to enter but with a "skip the line" reserved-entry option worth booking online in high season — the standard queue can run over an hour. Inside, the ceiling is covered in gold-ground mosaics dating from the 11th to 13th centuries. Climb the **Campanile** (the freestanding bell tower, rebuilt after it collapsed in 1902) for the best rooftop view over the lagoon and red-tiled rooftops — it has an elevator, so no stair climb required.
+
+On the piazza's south side, the **Doge's Palace** (Palazzo Ducale) was the seat of Venetian government for centuries and connects via the enclosed **Bridge of Sighs** to the old prisons. The **Torre dell'Orologio**, the astronomical clock tower on the square's north side, can only be visited by pre-booked guided tour. For a slower pace, the arcaded **Procuratie Vecchie** and **Nuove** house historic cafés — Caffè Florian (open since 1720) and Caffè Quadri are the famous, pricier options, worth a coffee just for the orchestras and belle-époque interiors, even if a sit-down cappuccino here costs several times the counter price elsewhere.
 
 ## When to go
 
-Arrive before 9am or after 7pm to see the square with breathing room; midday between roughly 10am and 4pm is consistently the most crowded window, especially when cruise ships are in port. Acqua alta (seasonal high tide flooding) is most common between autumn and early spring, particularly November and December — raised walkways go up when it happens, so it's rarely a dealbreaker, just check forecasts. Late spring (May) and early autumn (late September–October) bring milder weather and thinner crowds than peak summer. Winter mornings, especially December through February, can be near-empty and beautifully atmospheric with mist over the lagoon.
+Arrive before 9am or after 7pm to see the square with breathing room; midday between roughly 10am and 4pm is consistently the most crowded window, especially when cruise ships are in port. Acqua alta (seasonal high tide flooding) is most common between autumn and early spring, particularly November and December — raised walkways go up when it happens, so it's rarely a dealbreaker, just check forecasts.
+
+Late spring (May) and early autumn (late September–October) bring milder weather and thinner crowds than peak summer. Winter mornings, especially December through February, can be near-empty and beautifully atmospheric with mist over the lagoon.
 
 ## Nearby & tips
 
-The square opens directly onto the **Bacino di San Marco**, the waterfront promenade where gondoliers moor and where you can catch a vaporetto to Murano, Burano, or the Lido. The Correr Museum, covering Venetian history and art, sits at the piazza's opposite end from the basilica and is included with some combined museum passes. Pigeon feeding is officially discouraged and there's minimal shade, so carry water in summer. Prices for coffee, gondola rides, and museum tickets change often, so confirm current admission fees and basilica opening hours on official sites before visiting.
+The square opens directly onto the **Bacino di San Marco**, the waterfront promenade where gondoliers moor and where you can catch a vaporetto to Murano, Burano, or the Lido. The Correr Museum, covering Venetian history and art, sits at the piazza's opposite end from the basilica and is included with some combined museum passes. Pigeon feeding is officially discouraged and there's minimal shade, so carry water in summer.
+
+Prices for coffee, gondola rides, and museum tickets change often, so confirm current admission fees and basilica opening hours on official sites before visiting.

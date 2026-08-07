@@ -70,24 +70,36 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come up out of the switchbacks from Amalfi or Minori, ears still popping from the climb, and Ravello opens out flat and quiet after the vertical drama of the coast road. Piazza Duomo is small enough to cross in twenty steps, and Villa Rufolo's entrance is tucked just off it, behind a stone archway that gives almost nothing away. That's part of the effect: you walk through a dim, low passage past the old watchtower and courtyard, and then the garden hits you all at once — clipped hedges, towering pines, and beyond them nothing but blue.
+You come up out of the switchbacks from Amalfi or Minori, ears still popping from the climb, and Ravello opens out flat and quiet after the vertical drama of the coast road. Piazza Duomo is small enough to cross in twenty steps, and Villa Rufolo's entrance is tucked just off it, behind a stone archway that gives almost nothing away.
+
+That's part of the effect: you walk through a dim, low passage past the old watchtower and courtyard, and then the garden hits you all at once — clipped hedges, towering pines, and beyond them nothing but blue.
 
 ## Why go
 
-Villa Rufolo was built in the 1200s by the Rufolo family, wealthy merchants whose money and trade contacts stretched to North Africa and the Levant, which is why the villa's courtyards and arches carry a distinctly Moorish flavor — interlaced arches, geometric brickwork, a cloister that could belong as easily to Andalusia as to Campania. Wagner visited in 1880 and reportedly found his imagined garden of Klingsor from Parsifal already built here; the Ravello Festival still stages concerts on the cliffside belvedere in his honor. You don't need to know any of that to feel the pull of the place, but it explains why a relatively compact villa carries this much weight.
+Villa Rufolo was built in the 1200s by the Rufolo family, wealthy merchants whose money and trade contacts stretched to North Africa and the Levant, which is why the villa's courtyards and arches carry a distinctly Moorish flavor — interlaced arches, geometric brickwork, a cloister that could belong as easily to Andalusia as to Campania. Wagner visited in 1880 and reportedly found his imagined garden of Klingsor from Parsifal already built here; the Ravello Festival still stages concerts on the cliffside belvedere in his honor.
+
+You don't need to know any of that to feel the pull of the place, but it explains why a relatively compact villa carries this much weight.
 
 ## What to see
 
-The route is short but layered. From the entrance you pass through the Moorish cloister and past the Torre Maggiore, one of the original medieval defense towers, before the path opens into the main gardens — terraced lawns, ceramic urns, and a long allée of clipped hedges leading toward the edge of the cliff. The final terrace, the Belvedere, is the reason everyone comes: a stone balustrade with the Bay of Salerno spread out several hundred feet below, the coastline curling away toward Minori and Maiori. On a clear day you can pick out the haze where the sea meets the sky and lose the horizon line entirely. Give yourself 45 minutes to an hour — enough to walk the gardens slowly, sit on one of the stone benches, and let the view do its work rather than rushing through for a photo.
+The route is short but layered. From the entrance you pass through the Moorish cloister and past the Torre Maggiore, one of the original medieval defense towers, before the path opens into the main gardens — terraced lawns, ceramic urns, and a long allée of clipped hedges leading toward the edge of the cliff. The final terrace, the Belvedere, is the reason everyone comes: a stone balustrade with the Bay of Salerno spread out several hundred feet below, the coastline curling away toward Minori and Maiori.
+
+On a clear day you can pick out the haze where the sea meets the sky and lose the horizon line entirely. Give yourself 45 minutes to an hour — enough to walk the gardens slowly, sit on one of the stone benches, and let the view do its work rather than rushing through for a photo.
 
 ## Getting there
 
-Ravello has no train station; the standard route is a SITA bus or taxi up from Amalfi (about 25–30 minutes) or from Minori, both departing near the seafront. Driving yourself means navigating the narrow coast road and then an even narrower climb into town, with limited parking near Piazza Duomo — most visitors park in the pay lots below the historic center and walk up. However you arrive, Villa Rufolo's entrance faces directly onto the piazza, next to Ravello's Duomo, so once you're in the square you can't really miss it.
+Ravello has no train station; the standard route is a SITA bus or taxi up from Amalfi (about 25–30 minutes) or from Minori, both departing near the seafront. Driving yourself means navigating the narrow coast road and then an even narrower climb into town, with limited parking near Piazza Duomo — most visitors park in the pay lots below the historic center and walk up.
+
+However you arrive, Villa Rufolo's entrance faces directly onto the piazza, next to Ravello's Duomo, so once you're in the square you can't really miss it.
 
 ## When to go
 
-Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view — worth timing a visit around if you can get tickets. Based on measured visitor patterns, the calmest hours to walk the gardens are between 9am and 9pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse. If you're coming on a Saturday or Sunday, get there before noon or wait until after 5pm for a far more relaxed pace through the cloister and terraces.
+Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view — worth timing a visit around if you can get tickets. Based on measured visitor patterns, the calmest hours to walk the gardens are between 9am and 9pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse.
+
+If you're coming on a Saturday or Sunday, get there before noon or wait until after 5pm for a far more relaxed pace through the cloister and terraces.
 
 ## How to visit like a local
 
-Buy your ticket at the small booth by the entrance rather than assuming you need to book online — lines are rarely long outside the noon-to-5pm weekend peak. Once inside, resist the urge to sprint straight to the belvedere; the Moorish cloister and the climb up Torre Maggiore reward a slower pace and are where most rushed visitors miss the architectural detail entirely. Ravello itself is pedestrian-only at its core, so wear shoes suited to stone paths and a few steps. Combine the visit with a coffee in Piazza Duomo afterward — it's what the square is built for — and if you only have time for one villa in Ravello, note that Villa Cimbrone's famous "Terrace of Infinity" is a 15-minute walk further along, making a natural pairing with Rufolo if you've got a full morning or afternoon free.
+Buy your ticket at the small booth by the entrance rather than assuming you need to book online — lines are rarely long outside the noon-to-5pm weekend peak. Once inside, resist the urge to sprint straight to the belvedere; the Moorish cloister and the climb up Torre Maggiore reward a slower pace and are where most rushed visitors miss the architectural detail entirely.
+
+Ravello itself is pedestrian-only at its core, so wear shoes suited to stone paths and a few steps. Combine the visit with a coffee in Piazza Duomo afterward — it's what the square is built for — and if you only have time for one villa in Ravello, note that Villa Cimbrone's famous "Terrace of Infinity" is a 15-minute walk further along, making a natural pairing with Rufolo if you've got a full morning or afternoon free.

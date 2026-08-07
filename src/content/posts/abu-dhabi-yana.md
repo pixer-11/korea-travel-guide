@@ -32,23 +32,33 @@ draft: true
 
 ## Why Yana stands out
 
-You feel the shift the moment you step off Saadiyat's main road and into Yana's entrance — the noise of traffic gives way to something quieter, more deliberate. Inside, cobalt-blue walls catch the low gold lighting, and the whole room feels designed for lingering rather than rushing through a meal. This is Nikkei-adjacent cooking at its most confident: Peruvian technique meeting pan-Asian flavor, plated with the kind of precision that photographs well but tastes even better. It's easy to see why Yana has become one of Abu Dhabi's reference points for a proper date-night dinner — the kind of place you dress up slightly for, even in a city that doesn't always demand it.
+You feel the shift the moment you step off Saadiyat's main road and into Yana's entrance — the noise of traffic gives way to something quieter, more deliberate. Inside, cobalt-blue walls catch the low gold lighting, and the whole room feels designed for lingering rather than rushing through a meal. This is Nikkei-adjacent cooking at its most confident: Peruvian technique meeting pan-Asian flavor, plated with the kind of precision that photographs well but tastes even better.
+
+It's easy to see why Yana has become one of Abu Dhabi's reference points for a proper date-night dinner — the kind of place you dress up slightly for, even in a city that doesn't always demand it.
 
 ## Where it is and what's around it
 
-Saadiyat Island sits just northeast of central Abu Dhabi, connected by a short bridge, and it's already home to the cultural heavyweights — Louvre Abu Dhabi, the Saadiyat Cultural District, and a string of beach clubs along the coast. Yana leans into that setting, with a seaside orientation that makes it a natural stop before or after a museum visit or a late-afternoon walk on the public beach. If you're spending a day on Saadiyat, it's worth building your schedule around the island rather than trying to bolt on a separate trip — the distances between the museums, the beach, and the dining strip are short but not really walkable in the Gulf heat outside of the cooler months.
+Saadiyat Island sits just northeast of central Abu Dhabi, connected by a short bridge, and it's already home to the cultural heavyweights — Louvre Abu Dhabi, the Saadiyat Cultural District, and a string of beach clubs along the coast. Yana leans into that setting, with a seaside orientation that makes it a natural stop before or after a museum visit or a late-afternoon walk on the public beach.
+
+If you're spending a day on Saadiyat, it's worth building your schedule around the island rather than trying to bolt on a separate trip — the distances between the museums, the beach, and the dining strip are short but not really walkable in the Gulf heat outside of the cooler months.
 
 ## What to order
 
-The menu draws its identity from two very different culinary traditions, and the kitchen doesn't shy away from letting them collide. The ceviche is the dish most people mention first — bright, acidic, clearly rooted in Peruvian technique — while the hamachi crudo threaded with mango purée is the one that signals what makes Yana distinct: a Japanese-style preparation nudged toward Southeast Asian sweetness. Between the two, you get a fair sense of the kitchen's range: raw fish handled with restraint, sauces built for contrast rather than richness, and plating that treats each dish like a small event rather than a side note to conversation.
+The menu draws its identity from two very different culinary traditions, and the kitchen doesn't shy away from letting them collide. The ceviche is the dish most people mention first — bright, acidic, clearly rooted in Peruvian technique — while the hamachi crudo threaded with mango purée is the one that signals what makes Yana distinct: a Japanese-style preparation nudged toward Southeast Asian sweetness.
+
+Between the two, you get a fair sense of the kitchen's range: raw fish handled with restraint, sauces built for contrast rather than richness, and plating that treats each dish like a small event rather than a side note to conversation.
 
 ## When to go
 
-Evenings are where Yana makes its case. The cobalt-and-gold interior is built for artificial light — it's a room designed to be seen after dark, when the seaside views outside give way to reflections in the glass and the lighting inside does the heavy lifting. A sunset arrival gives you a short window to catch the water while there's still light, then settle in as the room shifts into full dinner mode. Because it's positioned as a special-occasion restaurant rather than a quick bite, plan for a leisurely two hours or so at the table rather than treating it as a fast turnaround.
+Evenings are where Yana makes its case. The cobalt-and-gold interior is built for artificial light — it's a room designed to be seen after dark, when the seaside views outside give way to reflections in the glass and the lighting inside does the heavy lifting. A sunset arrival gives you a short window to catch the water while there's still light, then settle in as the room shifts into full dinner mode.
+
+Because it's positioned as a special-occasion restaurant rather than a quick bite, plan for a leisurely two hours or so at the table rather than treating it as a fast turnaround.
 
 ## How to visit like a local
 
-Reservations are the single most useful thing to sort out before you arrive — a restaurant with this kind of design and menu draws a steady date-night and special-occasion crowd, and walking in without a booking on a weekend evening is a gamble you don't want to take. Book directly through the restaurant or a reservations platform a few days ahead if you can, and reconfirm the timing the same day, since hours at newer, trending venues can shift. Dress a notch smarter than beach-casual — Saadiyat's daytime uniform of swimwear and sandals doesn't carry over into the dining room. Payment across Abu Dhabi's higher-end restaurants is almost always by card, with tipping appreciated but not mandatory — rounding up or leaving 10% is the common local practice rather than anything obligatory. If you want the quieter version of the room, an early-evening reservation before the main dinner rush tends to give you calmer service and easier conversation, saving the louder, fuller tables for later in the night.
+Reservations are the single most useful thing to sort out before you arrive — a restaurant with this kind of design and menu draws a steady date-night and special-occasion crowd, and walking in without a booking on a weekend evening is a gamble you don't want to take. Book directly through the restaurant or a reservations platform a few days ahead if you can, and reconfirm the timing the same day, since hours at newer, trending venues can shift.
+
+Dress a notch smarter than beach-casual — Saadiyat's daytime uniform of swimwear and sandals doesn't carry over into the dining room. Payment across Abu Dhabi's higher-end restaurants is almost always by card, with tipping appreciated but not mandatory — rounding up or leaving 10% is the common local practice rather than anything obligatory. If you want the quieter version of the room, an early-evening reservation before the main dinner rush tends to give you calmer service and easier conversation, saving the louder, fuller tables for later in the night.
 
 ## Getting there
 

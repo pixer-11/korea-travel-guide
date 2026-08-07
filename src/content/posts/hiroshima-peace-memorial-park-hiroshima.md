@@ -60,17 +60,23 @@ Peace Memorial Park (Heiwa Kinen Koen) occupies the former Nakajima district, a 
 
 ## Getting there
 
-The park sits at 1 Nakajimacho, Naka Ward, on a delta formed by two branches of the Ota River. From Hiroshima Station, take the Hiroden streetcar (tram) Line 2 or 6 toward Miyajima-guchi/Eba and get off at Genbaku Dome-mae (Atomic Bomb Dome) station — the ride takes about 15–20 minutes and the tram stop puts you right at the park's northern edge, facing the Dome. Alternatively, it's a 20–25 minute walk from Hiroshima Station if you want to pass through the covered Hondori shopping arcade en route. The park is also walkable from the Peace Boulevard tram stops to the south. There's no single "front gate" — paths crisscross the whole delta, so most people start at the Dome and walk south toward the museum.
+The park sits at 1 Nakajimacho, Naka Ward, on a delta formed by two branches of the Ota River. From Hiroshima Station, take the Hiroden streetcar (tram) Line 2 or 6 toward Miyajima-guchi/Eba and get off at Genbaku Dome-mae (Atomic Bomb Dome) station — the ride takes about 15–20 minutes and the tram stop puts you right at the park's northern edge, facing the Dome.
+
+Alternatively, it's a 20–25 minute walk from Hiroshima Station if you want to pass through the covered Hondori shopping arcade en route. The park is also walkable from the Peace Boulevard tram stops to the south. There's no single "front gate" — paths crisscross the whole delta, so most people start at the Dome and walk south toward the museum.
 
 ## What to see
 
 Begin at the **Atomic Bomb Dome** (Genbaku Dome), the skeletal ruin of the former Hiroshima Prefectural Industrial Promotion Hall, left standing as it was in 1945 and designated a UNESCO World Heritage Site in 1996. It's just across the river from the park proper, connected by the Motoyasu Bridge. Crossing south into the park, you'll pass the **Peace Flame**, which has burned continuously since 1964 and will only be extinguished once all nuclear weapons are eliminated, and the arched **Cenotaph for the A-bomb Victims**, designed by Kenzo Tange so that, standing behind it, visitors see the Peace Flame and the Dome framed in a single line of sight.
 
-Nearby is the **Children's Peace Monument**, dedicated to Sadako Sasaki and the child victims of the bombing; the surrounding cases of folded paper cranes, sent from schools worldwide, are refreshed regularly. The **Peace Memorial Museum**, at the park's southern end, houses artifacts, photographs, and personal accounts from the bombing and is generally considered essential for understanding the day's events — budget 60–90 minutes for the exhibits alone. The adjacent **National Peace Memorial Hall for the Atomic Bomb Victims** offers a quieter, free space with a 360-degree panoramic relief of the destroyed city and a victims' registry.
+Nearby is the **Children's Peace Monument**, dedicated to Sadako Sasaki and the child victims of the bombing; the surrounding cases of folded paper cranes, sent from schools worldwide, are refreshed regularly. The **Peace Memorial Museum**, at the park's southern end, houses artifacts, photographs, and personal accounts from the bombing and is generally considered essential for understanding the day's events — budget 60–90 minutes for the exhibits alone.
+
+The adjacent **National Peace Memorial Hall for the Atomic Bomb Victims** offers a quieter, free space with a 360-degree panoramic relief of the destroyed city and a victims' registry.
 
 ## When to go
 
-The park is open year-round and outdoor areas have no admission fee (museum entry has a separate, modest ticket price — check current hours and fees on the museum's official site before visiting, since these are periodically revised). Early morning, right after opening, and late afternoon before sunset tend to be quieter than midday, when tour buses arrive. August 6th itself draws large crowds for the annual Peace Memorial Ceremony, moving but crowded; if you prefer solitude, avoid that date. Spring cherry blossoms along the river paths and the museum's air-conditioned interior in summer are both good reasons to visit outside the ceremony period. Winter is cold but crowd-free.
+The park is open year-round and outdoor areas have no admission fee (museum entry has a separate, modest ticket price — check current hours and fees on the museum's official site before visiting, since these are periodically revised). Early morning, right after opening, and late afternoon before sunset tend to be quieter than midday, when tour buses arrive. August 6th itself draws large crowds for the annual Peace Memorial Ceremony, moving but crowded; if you prefer solitude, avoid that date.
+
+Spring cherry blossoms along the river paths and the museum's air-conditioned interior in summer are both good reasons to visit outside the ceremony period. Winter is cold but crowd-free.
 
 ## Nearby & tips
 

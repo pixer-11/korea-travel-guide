@@ -65,11 +65,15 @@ draft: false
 
 ## Why go
 
-Monumen Kapal Selam, known locally as Monkasel, is one of the few places in Southeast Asia where visitors can climb inside a full-sized, retired combat submarine rather than just look at models or photos. The vessel is KRI Pasopati 410, a Whiskey-class submarine built in the Soviet Union and used by the Indonesian Navy from the 1960s through the 1990s during operations to reclaim West Irian. In 1990 it was cut into sections, transported to Surabaya, and welded back together on land as a static museum — a genuinely unusual bit of military-heritage engineering. With a 4.5 rating across nearly 17,000 reviews, it's firmly established as one of Surabaya's most-visited attractions, so expect company rather than solitude.
+Monumen Kapal Selam, known locally as Monkasel, is one of the few places in Southeast Asia where visitors can climb inside a full-sized, retired combat submarine rather than just look at models or photos. The vessel is KRI Pasopati 410, a Whiskey-class submarine built in the Soviet Union and used by the Indonesian Navy from the 1960s through the 1990s during operations to reclaim West Irian.
+
+In 1990 it was cut into sections, transported to Surabaya, and welded back together on land as a static museum — a genuinely unusual bit of military-heritage engineering. With a 4.5 rating across nearly 17,000 reviews, it's firmly established as one of Surabaya's most-visited attractions, so expect company rather than solitude.
 
 ## Getting there
 
-Monkasel sits at Jl. Pemuda No. 39, Embong Kaliasin, Kecamatan Genteng — right in Surabaya's downtown core, a short walk from Balai Pemuda (the old Dutch-era social hall) and just a few minutes' drive or ride-hail trip from Tunjungan Plaza mall. The Gubeng railway station is roughly 1–2 km away, making a becak, Grab/Gojek motorbike, or a 15-minute walk all realistic options if you're arriving by train. If you're coming from the airport (Juanda), expect a 45–60 minute drive depending on traffic, since it's on the opposite side of the city. There's no dedicated train or metro line to the site, so ride-hailing apps are the most reliable way to arrive without a rental car.
+Monkasel sits at Jl. Pemuda No. 39, Embong Kaliasin, Kecamatan Genteng — right in Surabaya's downtown core, a short walk from Balai Pemuda (the old Dutch-era social hall) and just a few minutes' drive or ride-hail trip from Tunjungan Plaza mall. The Gubeng railway station is roughly 1–2 km away, making a becak, Grab/Gojek motorbike, or a 15-minute walk all realistic options if you're arriving by train.
+
+If you're coming from the airport (Juanda), expect a 45–60 minute drive depending on traffic, since it's on the opposite side of the city. There's no dedicated train or metro line to the site, so ride-hailing apps are the most reliable way to arrive without a rental car.
 
 ## What to see and do
 
@@ -83,5 +87,7 @@ Mornings on weekdays, shortly after opening, are the calmest window — the site
 
 ## How to visit like a local
 
-This is a well-known, heavily visited landmark rather than an under-the-radar find, so plan around the crowds instead of expecting to avoid them: arrive at opening or in the last hour before closing for shorter waits at the entry hatch. Tickets are typically bought on-site at a small counter near the entrance, and cash in small denominations is the safest bet, though card or mobile payment acceptance has been expanding at Surabaya attractions generally. There's usually a single-file flow through the submarine, so let faster-moving visitors pass in tighter sections rather than blocking the passage — a common tourist misstep is lingering too long in the first chamber and creating a bottleneck for everyone behind. Wear flat, closed shoes, since there are steep interior ladders and raised hatch thresholds that catch sandals. After the sub, most visitors sit at the riverside cafes to cool off — that's as much a part of the local routine here as the tour itself, and it's a good time to people-watch rather than rush to the next stop.
+This is a well-known, heavily visited landmark rather than an under-the-radar find, so plan around the crowds instead of expecting to avoid them: arrive at opening or in the last hour before closing for shorter waits at the entry hatch. Tickets are typically bought on-site at a small counter near the entrance, and cash in small denominations is the safest bet, though card or mobile payment acceptance has been expanding at Surabaya attractions generally.
+
+There's usually a single-file flow through the submarine, so let faster-moving visitors pass in tighter sections rather than blocking the passage — a common tourist misstep is lingering too long in the first chamber and creating a bottleneck for everyone behind. Wear flat, closed shoes, since there are steep interior ladders and raised hatch thresholds that catch sandals. After the sub, most visitors sit at the riverside cafes to cool off — that's as much a part of the local routine here as the tour itself, and it's a good time to people-watch rather than rush to the next stop.
 

@@ -60,7 +60,9 @@ This isn't a restaurant you stumble into between sightseeing stops. It's a desti
 
 ## Getting there
 
-The restaurant is on the 3rd floor of the Mizuno Building (水野ビル) in Nishiazabu 4-chome, Minato City — an upscale, low-key residential-meets-nightlife pocket of Tokyo sandwiched between Roppongi and Omotesando. Nishiazabu doesn't have its own train station, so the practical approach is a short taxi or a 10–15 minute walk from one of a few nearby stations: Roppongi Station (Tokyo Metro Hibiya Line and Toei Oedo Line) is the most common access point, or Hiroo Station (Hibiya Line) if you're coming from that side. Given the address is a specific building rather than a street-level storefront, many visitors find it easier to take a taxi directly to the address, especially at night — Nishiazabu's backstreets are not brightly lit and building entrances can be easy to miss.
+The restaurant is on the 3rd floor of the Mizuno Building (水野ビル) in Nishiazabu 4-chome, Minato City — an upscale, low-key residential-meets-nightlife pocket of Tokyo sandwiched between Roppongi and Omotesando. Nishiazabu doesn't have its own train station, so the practical approach is a short taxi or a 10–15 minute walk from one of a few nearby stations: Roppongi Station (Tokyo Metro Hibiya Line and Toei Oedo Line) is the most common access point, or Hiroo Station (Hibiya Line) if you're coming from that side.
+
+Given the address is a specific building rather than a street-level storefront, many visitors find it easier to take a taxi directly to the address, especially at night — Nishiazabu's backstreets are not brightly lit and building entrances can be easy to miss.
 
 ## What to expect at the table
 
@@ -70,7 +72,9 @@ Because pricing and seasonal menus shift and aren't the kind of detail worth gue
 
 ## When to go and how to book
 
-Restaurants of this caliber in Tokyo — especially small, counter-driven kaiseki spots — routinely operate reservation-only, and popular ones fill up weeks or even a month or more in advance, particularly for weekend evening seatings. If your trip dates are fixed, reach out as early as possible; many higher-end Japanese restaurants also require reservations be made in Japanese or through a concierge/hotel service, so it's worth asking your hotel concierge to assist if you don't speak Japanese. First-time cancellation policies can be strict, so confirm arrival time and any dietary restrictions (allergies, pescatarian needs) when booking rather than at the door.
+Restaurants of this caliber in Tokyo — especially small, counter-driven kaiseki spots — routinely operate reservation-only, and popular ones fill up weeks or even a month or more in advance, particularly for weekend evening seatings. If your trip dates are fixed, reach out as early as possible; many higher-end Japanese restaurants also require reservations be made in Japanese or through a concierge/hotel service, so it's worth asking your hotel concierge to assist if you don't speak Japanese.
+
+First-time cancellation policies can be strict, so confirm arrival time and any dietary restrictions (allergies, pescatarian needs) when booking rather than at the door.
 
 Evening dinner service is the standard time slot for this kind of kaiseki experience; arrive on time, as multi-course meals are typically paced from the kitchen and late arrivals can disrupt the whole seating.
 

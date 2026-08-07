@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: valencia-ciudad-de-las-artes-y-las-ciencias
-srcHash: 4b3bea63f482
+srcHash: '6cec3c9c5707'
 title: '시우닷 데 라스 아르테스 이 라스 시엔시아스: 발렌시아 여행 가이드'
 description: 시우닷 데 라스 아르테스 이 라스 시엔시아스(Ciudad de las Artes y las Ciencias)는 건축가 산티아고 칼라트라바와 펠릭스 칸델라가 설계한, 물길을 돌린 투리아 강바닥 동쪽 끝에 자리한 발렌시아의 미래지향적인 박물관·공원 복합단지입니다.
 quickAnswer: 시우닷 데 라스 아르테스 이 라스 시엔시아스는 건축가 산티아고 칼라트라바(Santiago Calatrava)와 펠릭스 칸델라(Félix Candela)가 설계한, 물길을 돌린 투리아(Turia) 강바닥 동쪽 끝에 자리한 발렌시아의 미래지향적인 박물관·공원 복합단지입니다. 부지를 둘러보고 사진만 찍는다면 반나절, 에미스페릭(Hemisfèric, IMAX/천문관)과 프린시페 펠리페 과학박물관, 오세아노그라픽(Oceanogràfic) 아쿠아리움까지 함께 본다면 하루 종일 잡는 것이 좋습니다. 유료 시설은 온라인으로 미리 티켓을 구매하고, 여름철에는 흰색 콘크리트에 반사되는 강한 햇볕과 인파를 피하기 위해 이른 아침이나 늦은 오후에 방문하세요.

@@ -58,7 +58,9 @@ Korea's second city trades Seoul's density for coastline, mountains, and a worki
 
 ## Getting There and Around
 
-Busan's subway (Lines 1–4) covers most sightseeing needs, and a T-money card (same one used in Seoul) works across buses and trains. Gimhae International Airport connects to the city via the Busan-Gimhae Light Rail Transit, transferring to Line 3 at Daejeo Station, roughly 40–50 minutes to central Busan. If arriving by KTX from Seoul (about 2.5 hours), you'll land at Busan Station on Line 1, right at the edge of Nampo-dong and Chinatown. For coastal hops between Haeundae, Gwangalli, and the southern beaches, taxis are inexpensive relative to Seoul and often faster than transferring lines.
+Busan's subway (Lines 1–4) covers most sightseeing needs, and a T-money card (same one used in Seoul) works across buses and trains. Gimhae International Airport connects to the city via the Busan-Gimhae Light Rail Transit, transferring to Line 3 at Daejeo Station, roughly 40–50 minutes to central Busan. If arriving by KTX from Seoul (about 2.5 hours), you'll land at Busan Station on Line 1, right at the edge of Nampo-dong and Chinatown.
+
+For coastal hops between Haeundae, Gwangalli, and the southern beaches, taxis are inexpensive relative to Seoul and often faster than transferring lines.
 
 ## What to See
 

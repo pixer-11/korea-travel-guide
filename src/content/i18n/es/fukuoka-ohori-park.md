@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fukuoka-ohori-park
-srcHash: 5a46ea8fc6e3
+srcHash: 'c3fb60bf1682'
 title: 'Parque Ohori: Guía de viaje de Fukuoka'
 description: El parque Ohori (大濠公園) es un gran parque junto al lago en el distrito de Chuo de Fukuoka, construido alrededor de un lago tipo laguna inspirado en el Lago del Oeste de Hangzhou, China.
 quickAnswer: El parque Ohori (大濠公園) es un gran parque junto al lago en el distrito de Chuo de Fukuoka, construido alrededor de un lago tipo laguna inspirado en el Lago del Oeste de Hangzhou, China. Ven a caminar o trotar en un circuito de 1,5-2 km alrededor del agua, a pasear en bote de pedales y a visitar el Jardín Japonés del Parque Ohori o el Museo de Arte de Fukuoka justo al lado — calcula entre 1,5 y 2 horas, más si te demoras en el café junto al lago.
@@ -20,11 +20,17 @@ faq:
 
 ## Por qué ir
 
-El parque Ohori es la vía de escape del centro de Fukuoka: un parque de unas 40 hectáreas que rodea un amplio lago bordeado de sauces, justo en el distrito de Chuo, a minutos de los rascacielos de Tenjin. Tiene una calificación de 4,5 estrellas en más de 15.000 reseñas, lo cual, para un parque urbano, es una señal clara de que cumple con lo básico: senderos limpios, un lago genuinamente pintoresco y suficiente variedad (botes, jardines, un museo al lado, cafés) para llenar un par de horas sin que se sienta como un simple paseo de un solo propósito. El diseño del parque hace un guiño al Lago del Oeste de Hangzhou, en China, y tres pequeñas islas conectadas por puentes se ubican dentro del agua, dándole al circuito a pie un poco de ritmo visual en lugar de un perímetro plano y sin rasgos distintivos.
+El parque Ohori es la vía de escape del centro de Fukuoka: un parque de unas 40 hectáreas que rodea un amplio lago bordeado de sauces, justo en el distrito de Chuo, a minutos de los rascacielos de Tenjin. Tiene una calificación de 4,5 estrellas en más de 15.000 reseñas, lo cual, para un parque urbano, es una señal clara de que cumple con lo básico: senderos limpios, un lago genuinamente pintoresco y suficiente variedad (botes, jardines, un museo al lado, cafés) para llenar un par de horas sin que se sienta como un simple paseo de un solo propósito.
+
+El diseño del parque hace un guiño al Lago del Oeste de Hangzhou, en China, y tres pequeñas islas conectadas por puentes se ubican dentro del agua, dándole al circuito a pie un poco de ritmo visual en lugar de un perímetro plano y sin rasgos distintivos.
 
 ## Cómo llegar
 
-El parque se ubica entre las ruinas del Castillo de Fukuoka (Parque Maizuru) y el Museo de Arte de Fukuoka, lo que facilita incluirlo en una salida de medio día que abarque los tres sitios. La parada de metro más cercana es la **estación Ohorikoen**, en la línea Kuko (Airport) del metro municipal de Fukuoka — al salir, es una corta caminata hasta la orilla del lago. La **estación Tojinmachi**, también en la línea Kuko, es una alternativa igual de cercana si vienes desde el Aeropuerto de Fukuoka o desde Tenjin (el trayecto desde Tenjin es de unas dos paradas, menos de 10 minutos). Si prefieres caminar desde Tenjin, son unos 20-25 minutos a pie por la zona de las ruinas del castillo, una manera agradable de conectar ambos sitios. También se puede ir en auto — hay estacionamiento cerca del parque —, pero el metro resulta más sencillo dadas las calles de sentido único del centro de Fukuoka.
+El parque se ubica entre las ruinas del Castillo de Fukuoka (Parque Maizuru) y el Museo de Arte de Fukuoka, lo que facilita incluirlo en una salida de medio día que abarque los tres sitios. La parada de metro más cercana es la **estación Ohorikoen**, en la línea Kuko (Airport) del metro municipal de Fukuoka — al salir, es una corta caminata hasta la orilla del lago.
+
+La **estación Tojinmachi**, también en la línea Kuko, es una alternativa igual de cercana si vienes desde el Aeropuerto de Fukuoka o desde Tenjin (el trayecto desde Tenjin es de unas dos paradas, menos de 10 minutos). Si prefieres caminar desde Tenjin, son unos 20-25 minutos a pie por la zona de las ruinas del castillo, una manera agradable de conectar ambos sitios.
+
+También se puede ir en auto — hay estacionamiento cerca del parque —, pero el metro resulta más sencillo dadas las calles de sentido único del centro de Fukuoka.
 
 ## Qué ver y hacer
 
@@ -40,7 +46,9 @@ Para comer, hay una **cafetería** junto al lago, justo sobre el agua, donde pue
 
 ## Cuándo ir
 
-**La primavera (finales de marzo–principios de abril)** es temporada alta: el parque es uno de los mejores lugares de Fukuoka para ver los cerezos en flor, con sakura bordeando tramos del camino y atrayendo a quienes hacen hanami (picnics bajo los cerezos). **El otoño** trae el cambio de color del follaje alrededor del lago, también digno de una visita. La mañana temprano (antes de las 8 a. m.) o el atardecer son los momentos más atmosféricos durante todo el año, evitando tanto el calor del mediodía en verano como las multitudes después del trabajo. El parque es gratuito y al aire libre, por lo que es accesible cualquier día; solo el Jardín Japonés y el alquiler de botes tienen su propio horario y posibles cierres, generalmente en la franja de la tarde.
+**La primavera (finales de marzo–principios de abril)** es temporada alta: el parque es uno de los mejores lugares de Fukuoka para ver los cerezos en flor, con sakura bordeando tramos del camino y atrayendo a quienes hacen hanami (picnics bajo los cerezos). **El otoño** trae el cambio de color del follaje alrededor del lago, también digno de una visita. La mañana temprano (antes de las 8 a. m.) o el atardecer son los momentos más atmosféricos durante todo el año, evitando tanto el calor del mediodía en verano como las multitudes después del trabajo.
+
+El parque es gratuito y al aire libre, por lo que es accesible cualquier día; solo el Jardín Japonés y el alquiler de botes tienen su propio horario y posibles cierres, generalmente en la franja de la tarde.
 
 ## Cerca de aquí y consejos
 

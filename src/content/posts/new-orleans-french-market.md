@@ -57,23 +57,35 @@ draft: false
 
 ## Why the French Market still matters
 
-Walk down N Peters St with the Mississippi levee at your back and you're tracing one of the oldest continuously operating public market sites in the United States — vendors have sold goods on this stretch since the late 1700s, when it started as a Native American trading post before becoming a produce and meat market for the French and Spanish colonial city. What you find today isn't a museum piece, though. It's a working market: corrugated-roof pavilions strung along six blocks, humid with the smell of hot pepper sauce, roasting pecans, and river air, echoing with vendors calling out prices on hand-painted alligator heads and fleur-de-lis magnets.
+Walk down N Peters St with the Mississippi levee at your back and you're tracing one of the oldest continuously operating public market sites in the United States — vendors have sold goods on this stretch since the late 1700s, when it started as a Native American trading post before becoming a produce and meat market for the French and Spanish colonial city.
+
+What you find today isn't a museum piece, though. It's a working market: corrugated-roof pavilions strung along six blocks, humid with the smell of hot pepper sauce, roasting pecans, and river air, echoing with vendors calling out prices on hand-painted alligator heads and fleur-de-lis magnets.
 
 ## What you'll actually find inside
 
-The market splits loosely into two moods. Closest to Jackson Square, the buildings feel more like a curated flea market — tables of turquoise jewelry, local artists' prints, leather goods, and the kind of Mardi Gras-mask souvenirs that only make sense once you're standing under their beads and sequins. Push further toward Esplanade Avenue and the stalls turn to food and produce: bags of pecans and pralines stacked next to jars of Louisiana hot sauce, fresh-squeezed lemonade stands, and, on many days, a muffuletta counter piled with olive salad and cured meats. Café du Monde's original location anchors the market's Jackson Square end — the green-and-white awning and the powdered-sugar dusting on every table are unmistakable, and it's worth the short wait for beignets even if you skip everything else. The open-air flea market section runs largest on weekends, when more independent vendors set up alongside the permanent stalls.
+The market splits loosely into two moods. Closest to Jackson Square, the buildings feel more like a curated flea market — tables of turquoise jewelry, local artists' prints, leather goods, and the kind of Mardi Gras-mask souvenirs that only make sense once you're standing under their beads and sequins. Push further toward Esplanade Avenue and the stalls turn to food and produce: bags of pecans and pralines stacked next to jars of Louisiana hot sauce, fresh-squeezed lemonade stands, and, on many days, a muffuletta counter piled with olive salad and cured meats.
+
+Café du Monde's original location anchors the market's Jackson Square end — the green-and-white awning and the powdered-sugar dusting on every table are unmistakable, and it's worth the short wait for beignets even if you skip everything else. The open-air flea market section runs largest on weekends, when more independent vendors set up alongside the permanent stalls.
 
 ## Getting there and getting around
 
-The French Market sits inside the French Quarter, one block off the river, stretching roughly from St. Ann Street down past Barracks and toward Esplanade. If you're staying anywhere in the Quarter you can walk it in ten minutes. From the Central Business District, the RTA Riverfront streetcar line runs along the levee and stops within a couple of blocks. Ride-share drop-off is easiest on Decatur Street, one block inland, since N Peters itself gets pedestrian-heavy. There's no admission fee — you're browsing a public market, so the only cost is what you choose to buy.
+The French Market sits inside the French Quarter, one block off the river, stretching roughly from St. Ann Street down past Barracks and toward Esplanade. If you're staying anywhere in the Quarter you can walk it in ten minutes. From the Central Business District, the RTA Riverfront streetcar line runs along the levee and stops within a couple of blocks.
+
+Ride-share drop-off is easiest on Decatur Street, one block inland, since N Peters itself gets pedestrian-heavy. There's no admission fee — you're browsing a public market, so the only cost is what you choose to buy.
 
 ## When to go
 
-The market keeps the same hours every day, 10am to 6pm, seven days a week, so there's no early-morning or late-night window to exploit — plan your visit inside that block. Mornings right at opening are noticeably calmer than afternoons, especially once cruise-ship and hotel tour groups filter in after lunch. Weekends bring the biggest crowds and the fullest lineup of flea-market vendors, so if browsing without shoulder-to-shoulder foot traffic matters more to you than seeing every stall, aim for a weekday. Louisiana humidity is real: spring (March–May) and fall (October–November) are far more comfortable than a July afternoon under those metal roofs.
+The market keeps the same hours every day, 10am to 6pm, seven days a week, so there's no early-morning or late-night window to exploit — plan your visit inside that block. Mornings right at opening are noticeably calmer than afternoons, especially once cruise-ship and hotel tour groups filter in after lunch. Weekends bring the biggest crowds and the fullest lineup of flea-market vendors, so if browsing without shoulder-to-shoulder foot traffic matters more to you than seeing every stall, aim for a weekday.
+
+Louisiana humidity is real: spring (March–May) and fall (October–November) are far more comfortable than a July afternoon under those metal roofs.
 
 ## How to visit like a local
 
-This is one of the most-visited stops in the French Quarter, so treat it like a market to move through efficiently rather than a hidden find — the crowd-beating strategy is your best asset. Arrive close to the 10am opening on a weekday if you can; by early afternoon on weekends the aisles bottleneck and the good parking and streetcar seats disappear. Most vendors take cards now, but keep a little cash on hand for the smaller produce and craft stalls where card readers are hit-or-miss. Haggling isn't really the custom here — prices on crafts and jewelry are generally firm, though asking about a discount on multiple items rarely hurts. The classic tourist mistake is stopping only at the first block near Jackson Square and never reaching the food stalls further down toward Esplanade, where the pralines and hot sauce vendors tend to be better value and less crowded. If you want the real flavor of the place, buy something to eat as you walk — a hot praline or a cup of fresh lemonade — rather than treating it purely as a photo-op backdrop for Café du Monde.
+This is one of the most-visited stops in the French Quarter, so treat it like a market to move through efficiently rather than a hidden find — the crowd-beating strategy is your best asset. Arrive close to the 10am opening on a weekday if you can; by early afternoon on weekends the aisles bottleneck and the good parking and streetcar seats disappear.
+
+Most vendors take cards now, but keep a little cash on hand for the smaller produce and craft stalls where card readers are hit-or-miss. Haggling isn't really the custom here — prices on crafts and jewelry are generally firm, though asking about a discount on multiple items rarely hurts. The classic tourist mistake is stopping only at the first block near Jackson Square and never reaching the food stalls further down toward Esplanade, where the pralines and hot sauce vendors tend to be better value and less crowded.
+
+If you want the real flavor of the place, buy something to eat as you walk — a hot praline or a cup of fresh lemonade — rather than treating it purely as a photo-op backdrop for Café du Monde.
 
 ## Nearby to pair with your visit
 

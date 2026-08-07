@@ -97,11 +97,15 @@ photoless: true
 
 ## Why Eggslut is worth the line
 
-You smell it before you see the sign: butter hitting a flat-top, coffee steam curling up into the market's high skylights, the low roar of a dozen other food stalls clattering around you. Eggslut occupies a narrow corner stall inside Grand Central Market, and even from thirty feet away you can spot it by the queue snaking between the produce stands and the tortilla counter. This is a breakfast institution that grew out of a food truck into one of Downtown LA's most talked-about counters, and with a rating holding steady above 4.4 across thousands of reviews, it's not exactly a secret — expect to share the experience with plenty of other people who had the same idea.
+You smell it before you see the sign: butter hitting a flat-top, coffee steam curling up into the market's high skylights, the low roar of a dozen other food stalls clattering around you. Eggslut occupies a narrow corner stall inside Grand Central Market, and even from thirty feet away you can spot it by the queue snaking between the produce stands and the tortilla counter.
+
+This is a breakfast institution that grew out of a food truck into one of Downtown LA's most talked-about counters, and with a rating holding steady above 4.4 across thousands of reviews, it's not exactly a secret — expect to share the experience with plenty of other people who had the same idea.
 
 ## What to order
 
-The menu is short and deliberately so. The signature "Slut" is a coddled egg served in a glass jar over creamy potato purée, chives scattered on top, a small wooden spoon for scraping the bottom. It's rich and a little indulgent for 8am. The "Fairfax" is the sandwich most people actually order: a soft-scrambled egg, cheddar, caramelized onions, and sriracha aioli packed into a brioche bun that gives slightly under the weight of the egg. Both come out fast because the line cooks work in tight, practiced motion behind the counter — you can watch the whole process, egg cracked to sandwich wrapped, in under a minute. Portions are not huge; this is a snack-sized indulgence, not a sit-down brunch, and the price sits in the mid-range for what you get, given the market setting.
+The menu is short and deliberately so. The signature "Slut" is a coddled egg served in a glass jar over creamy potato purée, chives scattered on top, a small wooden spoon for scraping the bottom. It's rich and a little indulgent for 8am. The "Fairfax" is the sandwich most people actually order: a soft-scrambled egg, cheddar, caramelized onions, and sriracha aioli packed into a brioche bun that gives slightly under the weight of the egg.
+
+Both come out fast because the line cooks work in tight, practiced motion behind the counter — you can watch the whole process, egg cracked to sandwich wrapped, in under a minute. Portions are not huge; this is a snack-sized indulgence, not a sit-down brunch, and the price sits in the mid-range for what you get, given the market setting.
 
 ## Getting there
 
@@ -109,12 +113,18 @@ Eggslut sits inside Grand Central Market on South Broadway, in the Historic Core
 
 ## When to go
 
-The hours here are tight and worth planning around: Eggslut runs 8am to 2pm, seven days a week, with no exceptions for a late lunch or dinner run. That narrow window is exactly why the line builds. On weekdays, the calmest stretch is 8am to 10am, right after opening, before the office crowd and tourists arrive. On weekends the quiet window shrinks further to just 8am–9am — after that, from 10am straight through to closing at 2pm, the line becomes the longest in the market as brunch crowds descend. If you only have one shot at this, an early weekend visit before 9am is your best bet for actually getting a seat.
+The hours here are tight and worth planning around: Eggslut runs 8am to 2pm, seven days a week, with no exceptions for a late lunch or dinner run. That narrow window is exactly why the line builds. On weekdays, the calmest stretch is 8am to 10am, right after opening, before the office crowd and tourists arrive. On weekends the quiet window shrinks further to just 8am–9am — after that, from 10am straight through to closing at 2pm, the line becomes the longest in the market as brunch crowds descend.
+
+If you only have one shot at this, an early weekend visit before 9am is your best bet for actually getting a seat.
 
 ## What else to see nearby
 
-Grand Central Market itself is worth wandering before or after — dozens of stalls selling everything from birria tacos to Thai iced tea sit under the same century-old roof, so budget time to graze rather than just grab-and-go. Across the street, the Bradbury Building's wrought-iron atrium is free to peek into during business hours and is one of the most photographed interiors in the city. Angels Flight, the world's shortest funicular railway, is a block away and connects the Historic Core up to Bunker Hill and the Museum of Contemporary Art.
+Grand Central Market itself is worth wandering before or after — dozens of stalls selling everything from birria tacos to Thai iced tea sit under the same century-old roof, so budget time to graze rather than just grab-and-go. Across the street, the Bradbury Building's wrought-iron atrium is free to peek into during business hours and is one of the most photographed interiors in the city.
+
+Angels Flight, the world's shortest funicular railway, is a block away and connects the Historic Core up to Bunker Hill and the Museum of Contemporary Art.
 
 ## How to visit like a local
 
-Order at the counter and pay by card or tap — cash isn't really the norm here anymore, and there's no table service to tip on beyond the standard counter jar. There's no reservation system: you queue, you order, you find your own seat at the market's shared communal tables, which fill up fast during the 10am–2pm weekend rush. The single biggest mistake visitors make is showing up at noon on a Saturday expecting a quick bite — that's peak crowd time, and the line can eat 30+ minutes on its own. Instead, treat it like breakfast, not brunch: arrive within the first hour or two of opening, order the Fairfax if you want speed and the Slut if you have a few extra minutes to eat it properly with a spoon, and use the rest of your market visit to explore the other stalls while you wait for the crowd to thin.
+Order at the counter and pay by card or tap — cash isn't really the norm here anymore, and there's no table service to tip on beyond the standard counter jar. There's no reservation system: you queue, you order, you find your own seat at the market's shared communal tables, which fill up fast during the 10am–2pm weekend rush. The single biggest mistake visitors make is showing up at noon on a Saturday expecting a quick bite — that's peak crowd time, and the line can eat 30+ minutes on its own.
+
+Instead, treat it like breakfast, not brunch: arrive within the first hour or two of opening, order the Fairfax if you want speed and the Slut if you have a few extra minutes to eat it properly with a spoon, and use the rest of your market visit to explore the other stalls while you wait for the crowd to thin.

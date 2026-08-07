@@ -49,7 +49,9 @@ draft: false
 
 ## Why go
 
-You see it long before you reach it — a honey-coloured arch rising out of the haze at the end of a dead-straight avenue, framed by lawns and reflecting pools. India Gate was designed by Edwin Lutyens and completed in 1931, and it does exactly what a war memorial should do: it makes you stop walking and just look. The names of roughly 13,000 British Indian Army soldiers killed in the First World War and the Third Anglo-Afghan War are carved into the stone. Beneath the arch burns the Amar Jawan Jyoti flame, and the whole structure sits at the eastern end of Kartavya Path (formerly Rajpath), New Delhi's ceremonial boulevard that leads all the way to Rashtrapati Bhavan.
+You see it long before you reach it — a honey-coloured arch rising out of the haze at the end of a dead-straight avenue, framed by lawns and reflecting pools. India Gate was designed by Edwin Lutyens and completed in 1931, and it does exactly what a war memorial should do: it makes you stop walking and just look. The names of roughly 13,000 British Indian Army soldiers killed in the First World War and the Third Anglo-Afghan War are carved into the stone.
+
+Beneath the arch burns the Amar Jawan Jyoti flame, and the whole structure sits at the eastern end of Kartavya Path (formerly Rajpath), New Delhi's ceremonial boulevard that leads all the way to Rashtrapati Bhavan.
 
 ## Getting there
 
@@ -57,7 +59,9 @@ The nearest metro station is Central Secretariat on the Yellow and Violet Lines,
 
 ## What to see and do
 
-Walk the length of the arch first, reading the regimental names cut into the sandstone, then step back onto the lawns for the classic postcard view with the canopy — the sandstone pavilion nearby that once held a statue of King George V — visible across the way. At night the whole monument is floodlit and the pools in front of it catch the reflection, which is when most of the photography happens. Families spread out on the grass with kulfi and roasted corn from the vendors that line the perimeter; it's as much a public park ritual as a monument visit. On Republic Day in January, the surrounding boulevard becomes the parade route for India's biggest annual military and cultural procession, so expect road closures and heavy security if you're in Delhi that week.
+Walk the length of the arch first, reading the regimental names cut into the sandstone, then step back onto the lawns for the classic postcard view with the canopy — the sandstone pavilion nearby that once held a statue of King George V — visible across the way. At night the whole monument is floodlit and the pools in front of it catch the reflection, which is when most of the photography happens.
+
+Families spread out on the grass with kulfi and roasted corn from the vendors that line the perimeter; it's as much a public park ritual as a monument visit. On Republic Day in January, the surrounding boulevard becomes the parade route for India's biggest annual military and cultural procession, so expect road closures and heavy security if you're in Delhi that week.
 
 ## When to go
 
@@ -65,7 +69,11 @@ Delhi's climate makes timing matter more than usual. October through March bring
 
 ## How to visit like a local
 
-India Gate is one of Delhi's most visited landmarks, so don't expect solitude — the smart move is timing, not searching for a quiet corner that doesn't exist. Weekend evenings, especially Saturday and Sunday after 6pm, draw the thickest crowds; if you want space to actually see the carved names and take a clean photo, go on a weekday morning instead, when the lawns are still being watered and the vendors are just setting up. There's no entry fee and no ticket counter — you simply walk onto the lawns from Kartavya Path, so be wary of anyone approaching you claiming to sell tickets or offer a "guided entry." Vendors selling snacks, balloons, and photo services work the perimeter and expect cash in small denominations; haggle lightly and gently for anything beyond food. Wear shoes you can walk in, since the boulevard and lawns are far larger than they look in photos, and there's little shade before evening. Security checks are common near the flame and canopy area, particularly around Republic Day, so keep bags light and be patient with barricades. If you want the monument almost to yourself, an early weekday morning before the heat and crowds arrive is genuinely your best window.
+India Gate is one of Delhi's most visited landmarks, so don't expect solitude — the smart move is timing, not searching for a quiet corner that doesn't exist. Weekend evenings, especially Saturday and Sunday after 6pm, draw the thickest crowds; if you want space to actually see the carved names and take a clean photo, go on a weekday morning instead, when the lawns are still being watered and the vendors are just setting up.
+
+There's no entry fee and no ticket counter — you simply walk onto the lawns from Kartavya Path, so be wary of anyone approaching you claiming to sell tickets or offer a "guided entry." Vendors selling snacks, balloons, and photo services work the perimeter and expect cash in small denominations; haggle lightly and gently for anything beyond food. Wear shoes you can walk in, since the boulevard and lawns are far larger than they look in photos, and there's little shade before evening.
+
+Security checks are common near the flame and canopy area, particularly around Republic Day, so keep bags light and be patient with barricades. If you want the monument almost to yourself, an early weekday morning before the heat and crowds arrive is genuinely your best window.
 
 ## Nearby to combine
 

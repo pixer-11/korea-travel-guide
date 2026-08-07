@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: las-vegas-las-vegas-strip
-srcHash: f4ab8144cfb5
+srcHash: '2605dcf5e84b'
 title: 'Las Vegas Strip: Guía de viaje'
 description: El Las Vegas Strip es el tramo de 4,2 millas de Las Vegas Boulevard South entre Mandalay Bay y la zona de Sahara/Stratosphere, repleto de los casino-resorts más grandes de la ciudad, espectáculos y atracciones gratuitas como las Fuentes del Bellagio y el estilo neón de Fremont.
 quickAnswer: El Las Vegas Strip es el tramo de 4,2 millas de Las Vegas Boulevard South entre Mandalay Bay y la zona de Sahara/Stratosphere, repleto de los casino-resorts más grandes de la ciudad, espectáculos y atracciones gratuitas como las Fuentes del Bellagio y el estilo neón de Fremont. Recórrelo por tramos en lugar de de punta a punta, usa el monorraíl o un servicio de transporte privado (rideshare) entre puntos distantes, y planea las visitas para la noche, cuando las luces y las multitudes alcanzan su punto máximo. De dos a cuatro días son suficientes para recorrer los principales resorts, ver un espectáculo y disfrutar de un par de atracciones gratuitas sin apuros.
@@ -24,7 +24,9 @@ El Strip es menos una calle única que un skyline concentrado de mega-resorts te
 
 ## Cómo llegar
 
-Las Vegas Boulevard South es el nombre oficial del Strip y su eje central. Si llegas en avión, el Aeropuerto Internacional McCarran/Harry Reid (LAS) está a unos 10-15 minutos en coche o servicio de transporte privado (rideshare) del extremo sur, cerca de Mandalay Bay. Dentro del Strip, el Las Vegas Monorail circula por el lado este del bulevar, conectando resorts como MGM Grand, Bally's/Horseshoe, Flamingo, Harrah's y el Las Vegas Convention Center, útil para evitar largas caminatas con el calor del verano. El tranvía gratuito Bellagio/City Center conecta Bellagio, Crystals y Aria. Las distancias parecen más cortas en un mapa de casinos de lo que realmente son: caminar entre resorts que parecen estar "uno al lado del otro" puede llevar de 20 a 30 minutos, así que calcula el tiempo con margen, y considera el rideshare o el autobús de dos pisos Deuce para trayectos más largos, especialmente hacia el extremo del Stratosphere/SAHARA.
+Las Vegas Boulevard South es el nombre oficial del Strip y su eje central. Si llegas en avión, el Aeropuerto Internacional McCarran/Harry Reid (LAS) está a unos 10-15 minutos en coche o servicio de transporte privado (rideshare) del extremo sur, cerca de Mandalay Bay. Dentro del Strip, el Las Vegas Monorail circula por el lado este del bulevar, conectando resorts como MGM Grand, Bally's/Horseshoe, Flamingo, Harrah's y el Las Vegas Convention Center, útil para evitar largas caminatas con el calor del verano.
+
+El tranvía gratuito Bellagio/City Center conecta Bellagio, Crystals y Aria. Las distancias parecen más cortas en un mapa de casinos de lo que realmente son: caminar entre resorts que parecen estar "uno al lado del otro" puede llevar de 20 a 30 minutos, así que calcula el tiempo con margen, y considera el rideshare o el autobús de dos pisos Deuce para trayectos más largos, especialmente hacia el extremo del Stratosphere/SAHARA.
 
 ## Qué ver y hacer
 
@@ -38,8 +40,12 @@ En cuanto a comida, los propios resorts son el destino: la mayoría tiene un foo
 
 ## Cuándo ir
 
-Las noches son el mejor momento para el Strip: las luces, las fuentes y la energía de las calles alcanzan su punto máximo después del atardecer. La primavera (marzo-mayo) y el otoño (octubre-noviembre) traen temperaturas diurnas más suaves para caminar; el verano suele superar con frecuencia los 100°F (38°C), lo que hace más atractivo moverse entre casinos por dentro o usar el monorraíl en lugar de largas caminatas al aire libre. Los días de semana son más tranquilos y las tarifas de hotel más económicas que los fines de semana, cuando las convenciones y las fiestas llenan las aceras. En los grandes feriados (especialmente en Nochevieja/Fin de Año) se cierran tramos de Las Vegas Boulevard al tráfico vehicular para dar paso a los peatones, algo espectacular, pero con muchísima gente.
+Las noches son el mejor momento para el Strip: las luces, las fuentes y la energía de las calles alcanzan su punto máximo después del atardecer. La primavera (marzo-mayo) y el otoño (octubre-noviembre) traen temperaturas diurnas más suaves para caminar; el verano suele superar con frecuencia los 100°F (38°C), lo que hace más atractivo moverse entre casinos por dentro o usar el monorraíl en lugar de largas caminatas al aire libre.
+
+Los días de semana son más tranquilos y las tarifas de hotel más económicas que los fines de semana, cuando las convenciones y las fiestas llenan las aceras. En los grandes feriados (especialmente en Nochevieja/Fin de Año) se cierran tramos de Las Vegas Boulevard al tráfico vehicular para dar paso a los peatones, algo espectacular, pero con muchísima gente.
 
 ## Alrededores y consejos
 
-El centro de Las Vegas (Downtown Las Vegas) y el Fremont Street Experience, un distrito más antiguo, con marquesinas de neón y sus propios espectáculos de luces, se encuentran a unas 4-5 millas al norte del extremo norte del Strip, y vale la pena visitarlos por separado, no a pie desde el Strip. Los estacionamientos de la mayoría de los resorts son de autoservicio y suelen ser gratuitos si te hospedas en el hotel o realizas una pequeña compra; el servicio de valet parking normalmente tiene un costo, además de la propina. En varias intersecciones importantes (como Flamingo/Strip y Tropicana/Strip) las aceras se convierten en puentes peatonales elevados para mantener el tránsito a pie despejado de la calzada; úsalos en lugar de cruzar por fuera de las zonas señalizadas, algo que además de ilegal, puede generar una multa. Usa zapatos ya usados y cómodos: las distancias se acumulan rápido, y los pisos de los casinos están diseñados para hacerte caminar más de lo que esperabas.
+El centro de Las Vegas (Downtown Las Vegas) y el Fremont Street Experience, un distrito más antiguo, con marquesinas de neón y sus propios espectáculos de luces, se encuentran a unas 4-5 millas al norte del extremo norte del Strip, y vale la pena visitarlos por separado, no a pie desde el Strip. Los estacionamientos de la mayoría de los resorts son de autoservicio y suelen ser gratuitos si te hospedas en el hotel o realizas una pequeña compra; el servicio de valet parking normalmente tiene un costo, además de la propina.
+
+En varias intersecciones importantes (como Flamingo/Strip y Tropicana/Strip) las aceras se convierten en puentes peatonales elevados para mantener el tránsito a pie despejado de la calzada; úsalos en lugar de cruzar por fuera de las zonas señalizadas, algo que además de ilegal, puede generar una multa. Usa zapatos ya usados y cómodos: las distancias se acumulan rápido, y los pisos de los casinos están diseñados para hacerte caminar más de lo que esperabas.

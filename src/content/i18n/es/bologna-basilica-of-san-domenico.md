@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bologna-basilica-of-san-domenico
-srcHash: 'ec8a1a042ef0'
+srcHash: '1e74ba775425'
 title: 'Basílica de San Domenico: Guía de viaje de Bolonia'
 description: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia.
 quickAnswer: La Basílica de San Domenico se encuentra a 12 minutos a pie al sur de la Piazza Maggiore, en el barrio universitario cerca de las antiguas murallas de Bolonia. Está tranquila prácticamente todo el día, tanto entre semana como los fines de semana, de 7:30 a 13:00 y de 15:30 a 20:00 — la única franja que conviene evitar es de 16:00 a 18:00 los fines de semana, cuando los grupos turísticos se concentran alrededor del Arca di San Domenico. Calcula entre 45 minutos y una hora, y la entrada es gratuita.
@@ -17,20 +17,23 @@ faq:
   - q: ¿Cuál es lo principal que hay que ver dentro?
     a: El Arca di San Domenico, el sepulcro-relicario de Santo Domingo, esculpido por Nicola Pisano, Nicolò dell'Arca y un joven Michelangelo, quien talló un ángel arrodillado en el lado derecho hacia 1494.
 ---
-
 Se viene a San Domenico por los huesos de un santo y el cincel de un genio, y uno acaba paseando por ocho siglos de historia de Bolonia casi sin darse cuenta. La basílica se encuentra en el extremo sur del centro histórico, en una plaza que se siente varios grados más tranquila que el bullicio estudiantil de la Piazza Maggiore o de Via Zamboni: una plaza amplia y soleada, con una elegancia algo desgastada, rodeada de edificios porticados y con dos curiosas columnas que sostienen estatuas de la Virgen y de San Domenico, erigidas siglos atrás como marcadores de la peste.
 
 La fachada es engañosamente sencilla: ladrillo, de estructura románica, remodelada a lo largo de los siglos de modo que la línea del tejado y el portal resultan más sobrios que el derroche de arte que espera en el interior. Al cruzar las puertas, los ojos tardan un instante en adaptarse al interior en penumbra y fresco: un silencio que aún conserva esta iglesia en activo, con incienso y piedra antigua en el aire, y pasos que resuenan sobre un suelo pulido por siglos de pisadas.
 
 ## Por qué importa esta basílica
 
-Santo Domingo, fundador de la orden dominica, murió en Bolonia en 1221, y sus restos descansan aquí, en el Arca di San Domenico, el sepulcro-relicario que motiva la visita de historiadores del arte. Es un proyecto renacentista genuinamente colectivo: Nicola Pisano diseñó la base en la década de 1260, Nicolò dell'Arca añadió la corona escultórica superior en la década de 1470 (su nombre proviene precisamente de este encargo), y un joven Michelangelo —apenas veinteañero, recién llegado a Bolonia— talló tres de las figuras hacia 1494, entre ellas un ángel arrodillado que sostiene un candelabro. Su ángel se encuentra en el lado derecho del arca; es más pequeño y contenido que sus obras romanas posteriores, pero se reconoce inconfundiblemente su mano.
+Santo Domingo, fundador de la orden dominica, murió en Bolonia en 1221, y sus restos descansan aquí, en el Arca di San Domenico, el sepulcro-relicario que motiva la visita de historiadores del arte. Es un proyecto renacentista genuinamente colectivo: Nicola Pisano diseñó la base en la década de 1260, Nicolò dell'Arca añadió la corona escultórica superior en la década de 1470 (su nombre proviene precisamente de este encargo), y un joven Michelangelo —apenas veinteañero, recién llegado a Bolonia— talló tres de las figuras hacia 1494, entre ellas un ángel arrodillado que sostiene un candelabro.
+
+Su ángel se encuentra en el lado derecho del arca; es más pequeño y contenido que sus obras romanas posteriores, pero se reconoce inconfundiblemente su mano.
 
 Más allá del sepulcro, la iglesia alberga una serie de capillas laterales repletas de pinturas, sillería coral con intrincadas taraceas de madera en la zona de la sacristía, y un campanario que lleva siglos ligeramente inclinado, una más entre las varias torres torcidas repartidas por Bolonia junto a las famosas Asinelli y Garisenda.
 
 ## Cómo llegar
 
-Desde la Piazza Maggiore, camina hacia el sur por Via Garibaldi y luego por Via Frate Diamante, y llegarás a la Piazza San Domenico en unos 12–15 minutos a pie; esta es una zona compacta y fácil de recorrer a pie dentro del centro storico de Bolonia, y conducir no es necesario ni agradable dadas las zonas de tráfico restringido. Si vienes desde la estación de tren de Bologna Centrale, es una caminata llana de 20–25 minutos siguiendo Via dell'Indipendenza y atravesando el centro, o un breve trayecto en autobús si prefieres reservar energías para pasear después bajo los pórticos.
+Desde la Piazza Maggiore, camina hacia el sur por Via Garibaldi y luego por Via Frate Diamante, y llegarás a la Piazza San Domenico en unos 12–15 minutos a pie; esta es una zona compacta y fácil de recorrer a pie dentro del centro storico de Bolonia, y conducir no es necesario ni agradable dadas las zonas de tráfico restringido.
+
+Si vienes desde la estación de tren de Bologna Centrale, es una caminata llana de 20–25 minutos siguiendo Via dell'Indipendenza y atravesando el centro, o un breve trayecto en autobús si prefieres reservar energías para pasear después bajo los pórticos.
 
 ## Qué ver y cuánto tiempo quedarse
 
@@ -42,4 +45,6 @@ Los patrones de afluencia aquí son inusualmente favorables: la iglesia se manti
 
 ## Cómo visitarla como un local
 
-Vístete y compórtate como lo harías en cualquier iglesia católica en funcionamiento: hombros y rodillas cubiertos, teléfonos en silencio, voz baja, especialmente si hay una misa en curso. No existe sistema de entradas ni de reserva; simplemente se entra por la puerta principal que da a la plaza. El acceso es gratuito, así que no hay cola que planificar, pero conviene llevar alguna moneda para las alcancías de las capillas, una cortesía habitual más que una obligación. Esta es una parada bien conocida en la ruta artística de Bolonia, no un secreto, así que la estrategia inteligente no es buscar la soledad por azar, sino por el horario: ven fuera de esa franja de 16:00 a 18:00 los fines de semana y evitarás por completo lo peor de las aglomeraciones. Después, tómate cinco minutos más para dar una vuelta por la propia plaza; los pórticos de aquí son obra medieval original, menos restaurados y más llenos de atmósfera que los más vistosos cerca de las dos torres.
+Vístete y compórtate como lo harías en cualquier iglesia católica en funcionamiento: hombros y rodillas cubiertos, teléfonos en silencio, voz baja, especialmente si hay una misa en curso. No existe sistema de entradas ni de reserva; simplemente se entra por la puerta principal que da a la plaza. El acceso es gratuito, así que no hay cola que planificar, pero conviene llevar alguna moneda para las alcancías de las capillas, una cortesía habitual más que una obligación.
+
+Esta es una parada bien conocida en la ruta artística de Bolonia, no un secreto, así que la estrategia inteligente no es buscar la soledad por azar, sino por el horario: ven fuera de esa franja de 16:00 a 18:00 los fines de semana y evitarás por completo lo peor de las aglomeraciones. Después, tómate cinco minutos más para dar una vuelta por la propia plaza; los pórticos de aquí son obra medieval original, menos restaurados y más llenos de atmósfera que los más vistosos cerca de las dos torres.

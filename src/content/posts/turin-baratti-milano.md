@@ -67,11 +67,15 @@ draft: false
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You smell it before you see it: warm sugar, roasted hazelnut, and the faint bitterness of espresso drifting out from under the arcade at Piazza Castello. Step through the door of Baratti & Milano and the noise of the square drops away instantly, replaced by the click of spoons on saucers and the soft murmur of a room that hasn't changed its manners in over a century. Gilt mirrors run floor to ceiling, brass fittings catch the light from etched-glass lamps, and the marble-topped counter glows under a row of chandeliers. This isn't a café dressed up to look historic — it opened in 1873 and has been serving Torinesi ever since, tucked at the entrance to the Galleria Subalpina, one of the city's great 19th-century glass-roofed arcades.
+You smell it before you see it: warm sugar, roasted hazelnut, and the faint bitterness of espresso drifting out from under the arcade at Piazza Castello. Step through the door of Baratti & Milano and the noise of the square drops away instantly, replaced by the click of spoons on saucers and the soft murmur of a room that hasn't changed its manners in over a century.
+
+Gilt mirrors run floor to ceiling, brass fittings catch the light from etched-glass lamps, and the marble-topped counter glows under a row of chandeliers. This isn't a café dressed up to look historic — it opened in 1873 and has been serving Torinesi ever since, tucked at the entrance to the Galleria Subalpina, one of the city's great 19th-century glass-roofed arcades.
 
 ## Why it's worth your time
 
-Turin, not Switzerland, is where modern chocolate-making really took shape, and Baratti & Milano is one of the houses that built that reputation. This is the birthplace-adjacent home turf of the gianduiotto — the foil-wrapped, boat-shaped hazelnut chocolate you'll find sold by weight at the counter — and of the bicerin, a small glass of espresso, drinking chocolate, and whipped cream served unstirred so you get all three layers in one sip. Sit at one of the small marble tables and order a bicerin with a plate of the house chocolates; it's a slow, deliberate ritual, not a grab-and-go coffee.
+Turin, not Switzerland, is where modern chocolate-making really took shape, and Baratti & Milano is one of the houses that built that reputation. This is the birthplace-adjacent home turf of the gianduiotto — the foil-wrapped, boat-shaped hazelnut chocolate you'll find sold by weight at the counter — and of the bicerin, a small glass of espresso, drinking chocolate, and whipped cream served unstirred so you get all three layers in one sip.
+
+Sit at one of the small marble tables and order a bicerin with a plate of the house chocolates; it's a slow, deliberate ritual, not a grab-and-go coffee.
 
 ## What to see and eat
 
@@ -87,4 +91,8 @@ Baratti & Milano keeps regular café hours typical of central Turin's historic e
 
 ## How to visit like a local
 
-Torinesi treat this as a place to sit, not rush through — if you only want a quick espresso, stand at the bar, which is cheaper and faster than table service. For the full bicerin experience, take a table and let the waiter bring it to you unstirred; stirring it yourself is fine, but tasting the layers separately first is part of the tradition. Payment is by card or cash as you'd expect anywhere in central Turin, and a modest rounding-up rather than a large tip is the norm. The mistake visitors make is treating this purely as a chocolate shop and rushing the sit-down side, or arriving mid-morning on a weekend expecting calm — go right at 9am on a weekday instead, or accept the buzz as part of the experience. If you want chocolates to take home, ask the counter staff to box an assortment rather than picking blind; they're used to explaining what's what.
+Torinesi treat this as a place to sit, not rush through — if you only want a quick espresso, stand at the bar, which is cheaper and faster than table service. For the full bicerin experience, take a table and let the waiter bring it to you unstirred; stirring it yourself is fine, but tasting the layers separately first is part of the tradition.
+
+Payment is by card or cash as you'd expect anywhere in central Turin, and a modest rounding-up rather than a large tip is the norm. The mistake visitors make is treating this purely as a chocolate shop and rushing the sit-down side, or arriving mid-morning on a weekend expecting calm — go right at 9am on a weekday instead, or accept the buzz as part of the experience.
+
+If you want chocolates to take home, ask the counter staff to box an assortment rather than picking blind; they're used to explaining what's what.

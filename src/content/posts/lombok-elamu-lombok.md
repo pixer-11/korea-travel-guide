@@ -65,11 +65,15 @@ aiGenerated: true
 
 ## Why go
 
-Lombok's Kuta district is dense with warungs serving nasi campur and grilled fish, so a Greek restaurant standing out with a 4.8 rating across more than 2,400 reviews is worth noting. Elamu Lombok has become a fixture for travelers craving a break from Indonesian staples — moussaka, souvlaki, tzatziki, grilled halloumi, and generous Mediterranean mezze spreads served in an open-air, plant-filled dining room typical of Lombok's beach-town architecture. It's the kind of place that works equally well for a lazy lunch after surfing at Kuta or Mawun, or a proper sit-down dinner to end a long day of beach-hopping.
+Lombok's Kuta district is dense with warungs serving nasi campur and grilled fish, so a Greek restaurant standing out with a 4.8 rating across more than 2,400 reviews is worth noting. Elamu Lombok has become a fixture for travelers craving a break from Indonesian staples — moussaka, souvlaki, tzatziki, grilled halloumi, and generous Mediterranean mezze spreads served in an open-air, plant-filled dining room typical of Lombok's beach-town architecture.
+
+It's the kind of place that works equally well for a lazy lunch after surfing at Kuta or Mawun, or a proper sit-down dinner to end a long day of beach-hopping.
 
 ## Getting there
 
-Elamu Lombok sits on Jl. Pariwisata Pantai Kuta in Kuta, Kecamatan Pujut, Kabupaten Lombok Tengah — the main road that runs through Kuta village toward the beach and connects to the string of bays further east and west (Tanjung Aan, Mawun, Selong Belanak). Most visitors reach it by scooter or private car/driver, since Lombok has no ride-hailing app coverage as reliable as neighboring Bali and no train or metro system. If you're staying in Kuta itself, it's walkable or a five-minute scooter ride from most guesthouses; if you're coming from Lombok International Airport (Zainuddin Abdul Majid, roughly 30-40 minutes north), arrange a taxi or hotel transfer in advance, since airport taxi queues can be unpredictable outside flight arrival windows.
+Elamu Lombok sits on Jl. Pariwisata Pantai Kuta in Kuta, Kecamatan Pujut, Kabupaten Lombok Tengah — the main road that runs through Kuta village toward the beach and connects to the string of bays further east and west (Tanjung Aan, Mawun, Selong Belanak). Most visitors reach it by scooter or private car/driver, since Lombok has no ride-hailing app coverage as reliable as neighboring Bali and no train or metro system.
+
+If you're staying in Kuta itself, it's walkable or a five-minute scooter ride from most guesthouses; if you're coming from Lombok International Airport (Zainuddin Abdul Majid, roughly 30-40 minutes north), arrange a taxi or hotel transfer in advance, since airport taxi queues can be unpredictable outside flight arrival windows.
 
 ## What to eat
 
@@ -81,7 +85,11 @@ Lombok's dry season, roughly April through October, is the most comfortable stre
 
 ## How to visit like a local
 
-Because this spot is well-known rather than under-the-radar, the smartest move is timing, not secrecy: aim for an early lunch (before 12:30 pm) or an early dinner seating (before 6:30 pm) to avoid the wait that builds up once the after-beach crowd arrives. If the restaurant takes reservations, use them, especially in peak season (July–August, late December); if it's walk-in only, put your name down and use the wait time to stroll the surrounding street rather than hovering at the entrance. Cash and card are both generally usable in Kuta's more established restaurants, but carrying some rupiah in cash is still wise, as card machines and connectivity can be inconsistent in this part of Lombok. Tipping isn't obligatory in Indonesia, but rounding up or leaving small change for good service is appreciated and increasingly common at restaurants catering to international visitors. The most common misstep tourists make here is treating it as a quick bite between beach stops — the food and setting reward a slower, sit-down meal, so build in real time rather than squeezing it between activities.
+Because this spot is well-known rather than under-the-radar, the smartest move is timing, not secrecy: aim for an early lunch (before 12:30 pm) or an early dinner seating (before 6:30 pm) to avoid the wait that builds up once the after-beach crowd arrives. If the restaurant takes reservations, use them, especially in peak season (July–August, late December); if it's walk-in only, put your name down and use the wait time to stroll the surrounding street rather than hovering at the entrance.
+
+Cash and card are both generally usable in Kuta's more established restaurants, but carrying some rupiah in cash is still wise, as card machines and connectivity can be inconsistent in this part of Lombok. Tipping isn't obligatory in Indonesia, but rounding up or leaving small change for good service is appreciated and increasingly common at restaurants catering to international visitors.
+
+The most common misstep tourists make here is treating it as a quick bite between beach stops — the food and setting reward a slower, sit-down meal, so build in real time rather than squeezing it between activities.
 
 ## Nearby to pair with your visit
 

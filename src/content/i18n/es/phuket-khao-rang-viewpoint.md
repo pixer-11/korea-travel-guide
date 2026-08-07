@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-khao-rang-viewpoint
-srcHash: c5a3e65046cc
+srcHash: '2706f0bf6d19'
 title: 'Mirador de Khao Rang: Guía de viaje de Phuket'
 description: 'Khao Rang (Rang Hill) es un parque en la cima de una colina, justo al noroeste de la ciudad de Phuket, que ofrece las mejores vistas panorámicas de los tejados de la ciudad, el puerto y las islas cercanas: la entrada es gratuita y lo mejor es visitarlo a última hora de la tarde hasta la puesta de sol.'
 quickAnswer: 'Khao Rang (Rang Hill) es un parque en la cima de una colina, justo al noroeste de la ciudad de Phuket, que ofrece las mejores vistas panorámicas de los tejados de la ciudad, el puerto y las islas cercanas: la entrada es gratuita y lo mejor es visitarlo a última hora de la tarde hasta la puesta de sol. Calcula entre 45 y 90 minutos, ve en coche o toma un taxi/moto (grab) ya que no hay autobús público directo, y combínalo con una comida en los restaurantes de la colina o un paseo por la ciudad de Phuket, más abajo.'
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Khao Rang, también llamada Rang Hill, es el punto más alto sobre la ciudad de Phuket (Phuket Town), y es el lugar al que van los propios locales para ver la puesta de sol sobre el mar de Andamán. A diferencia de los miradores más turísticos del sur de la isla (Karon, Cabo Promthep), Khao Rang ofrece una vista de 360 grados de una ciudad en pleno funcionamiento: los tejados rojos de las casas-tienda de estilo sino-portugués del casco antiguo, la zona portuaria, islas de piedra caliza a lo lejos y, en días despejados, hasta las colinas de Phang Nga. La calificación de 4.5 estrellas basada en casi 7,000 reseñas refleja lo bien valorada que está la vista en sí, aunque las instalaciones del parque son sencillas.
+Khao Rang, también llamada Rang Hill, es el punto más alto sobre la ciudad de Phuket (Phuket Town), y es el lugar al que van los propios locales para ver la puesta de sol sobre el mar de Andamán. A diferencia de los miradores más turísticos del sur de la isla (Karon, Cabo Promthep), Khao Rang ofrece una vista de 360 grados de una ciudad en pleno funcionamiento: los tejados rojos de las casas-tienda de estilo sino-portugués del casco antiguo, la zona portuaria, islas de piedra caliza a lo lejos y, en días despejados, hasta las colinas de Phang Nga.
+
+La calificación de 4.5 estrellas basada en casi 7,000 reseñas refleja lo bien valorada que está la vista en sí, aunque las instalaciones del parque son sencillas.
 
 ## Cómo llegar
 
@@ -44,8 +46,12 @@ Algunos consejos prácticos para aprovechar al máximo la visita:
 
 ## Cuándo ir
 
-Última hora de la tarde (aproximadamente entre las 5:00 y las 6:30 PM, según la época del año) es el mejor momento, ideal para ver la puesta de sol mientras el cielo se tiñe de naranja sobre la ciudad y las islas, seguido por el encendido de las luces de la ciudad de Phuket más abajo. Las mañanas ofrecen temperaturas más frescas, mejor visibilidad (menos neblina) y menos gente, si tu prioridad es fotografiar sin multitudes. Evita el mediodía durante la temporada seca (aproximadamente de diciembre a abril), cuando el calor y el resplandor deslucen las vistas; durante la temporada de lluvias (de mayo a octubre) el cielo puede verse espectacular, pero conviene revisar si hay nubes de tormenta que puedan tapar las islas.
+Última hora de la tarde (aproximadamente entre las 5:00 y las 6:30 PM, según la época del año) es el mejor momento, ideal para ver la puesta de sol mientras el cielo se tiñe de naranja sobre la ciudad y las islas, seguido por el encendido de las luces de la ciudad de Phuket más abajo. Las mañanas ofrecen temperaturas más frescas, mejor visibilidad (menos neblina) y menos gente, si tu prioridad es fotografiar sin multitudes.
+
+Evita el mediodía durante la temporada seca (aproximadamente de diciembre a abril), cuando el calor y el resplandor deslucen las vistas; durante la temporada de lluvias (de mayo a octubre) el cielo puede verse espectacular, pero conviene revisar si hay nubes de tormenta que puedan tapar las islas.
 
 ## Cerca de allí y consejos
 
-Khao Rang combina de forma natural con una visita al casco antiguo de Phuket (Phuket Old Town), a solo un corto trayecto en coche, donde se puede recorrer Thalang Road y Soi Romanee para admirar su arquitectura sino-portuguesa bien conservada, sus cafés boutique y sus puestos de comida callejera. Como el mirador no cobra entrada, es un complemento fácil y económico para un día dedicado a recorrer museos o ir de compras en el casco antiguo. Lleva ropa ligera pero con alguna capa extra: la brisa en la cima es notablemente más fresca que en la ciudad, especialmente al atardecer, y conviene confirmar los horarios de apertura vigentes localmente, ya que pueden variar ligeramente en días festivos.
+Khao Rang combina de forma natural con una visita al casco antiguo de Phuket (Phuket Old Town), a solo un corto trayecto en coche, donde se puede recorrer Thalang Road y Soi Romanee para admirar su arquitectura sino-portuguesa bien conservada, sus cafés boutique y sus puestos de comida callejera. Como el mirador no cobra entrada, es un complemento fácil y económico para un día dedicado a recorrer museos o ir de compras en el casco antiguo.
+
+Lleva ropa ligera pero con alguna capa extra: la brisa en la cima es notablemente más fresca que en la ciudad, especialmente al atardecer, y conviene confirmar los horarios de apertura vigentes localmente, ya que pueden variar ligeramente en días festivos.

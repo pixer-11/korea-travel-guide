@@ -59,7 +59,9 @@ eventRecurring: true
 
 ## Why go
 
-Nothing else in Japan's summer festival calendar quite matches the scale of the nebuta floats. These are not paper lanterns — they're room-sized, wire-framed, washi-paper sculptures of snarling warriors, deities, and kabuki figures, lit from within and rolled through the streets after dark so the whole thing glows like a lantern the size of a bus. Add a few thousand haneto dancers in bright orange-and-gold costumes hopping and chanting "rassera, rassera," plus taiko drums and flutes bouncing off the buildings, and you get one of the loudest, most physically overwhelming festival nights in the country. It's the kind of event that makes sense of why Aomori's tourism identity is built almost entirely around one week in August.
+Nothing else in Japan's summer festival calendar quite matches the scale of the nebuta floats. These are not paper lanterns — they're room-sized, wire-framed, washi-paper sculptures of snarling warriors, deities, and kabuki figures, lit from within and rolled through the streets after dark so the whole thing glows like a lantern the size of a bus. Add a few thousand haneto dancers in bright orange-and-gold costumes hopping and chanting "rassera, rassera," plus taiko drums and flutes bouncing off the buildings, and you get one of the loudest, most physically overwhelming festival nights in the country.
+
+It's the kind of event that makes sense of why Aomori's tourism identity is built almost entirely around one week in August.
 
 ## Getting there
 
@@ -67,7 +69,9 @@ Aomori City sits at the northern tip of Honshu, reachable by Tohoku/Hokkaido Shi
 
 ## What to see
 
-The floats themselves are the headline: each one is built by a local team over months, often depicting a scene from mythology or classical theater, with articulated jaws, rolling eyes, and layers of pigment that seem to shift color as the light inside moves. During the evening parades they're pulled through a set route in central Aomori, rotated by handlers so the crowd sees every angle, while haneto dancers weave around them. Beyond the parade, it's worth seeking out the Nebuta Warasse museum near the waterfront, which displays prize-winning floats from past years and lets you get close enough to appreciate the papercraft and lacquer-like painting that's impossible to see properly from a packed sidewalk at night. The daytime version of the festival, when floats are shown lit but stationary, is a good way to appreciate the artistry without the crowd crush of the night parade.
+The floats themselves are the headline: each one is built by a local team over months, often depicting a scene from mythology or classical theater, with articulated jaws, rolling eyes, and layers of pigment that seem to shift color as the light inside moves. During the evening parades they're pulled through a set route in central Aomori, rotated by handlers so the crowd sees every angle, while haneto dancers weave around them.
+
+Beyond the parade, it's worth seeking out the Nebuta Warasse museum near the waterfront, which displays prize-winning floats from past years and lets you get close enough to appreciate the papercraft and lacquer-like painting that's impossible to see properly from a packed sidewalk at night. The daytime version of the festival, when floats are shown lit but stationary, is a good way to appreciate the artistry without the crowd crush of the night parade.
 
 ## When to go
 
@@ -75,7 +79,11 @@ The festival runs August 2–7, 2026. Early evenings in the first few days of th
 
 ## How to visit like a local
 
-Free standing-room viewing is possible along much of the parade route, but locals who want a guaranteed spot arrive well before the parade start and stake out curbside space — bring something to sit on, since you'll likely be on the pavement for a while. Paid seating exists in bleacher sections and sells out early; if you want to sit rather than stand, that's the ticket to sort out first. Cash still gets used heavily at festival food stalls (yatai) lining the streets, so carry some rather than assuming card payment everywhere. If you want to join in as a dancer rather than just watch, haneto costumes can typically be rented on the day and anyone is allowed to dance in the parade — it's one of the few big Japanese festivals where spectators are actively invited to jump in. The etiquette mistake first-timers make is treating it like a static show: stay alert, because floats and dancers move continuously and crowds shift with them, and blocking a handler's sightline near a float can actually get you moved along by staff. Evenings are hot and humid, and the crowds are dense enough that small children or anyone uncomfortable in tight spaces should aim for the edges of the route rather than the center near the floats.
+Free standing-room viewing is possible along much of the parade route, but locals who want a guaranteed spot arrive well before the parade start and stake out curbside space — bring something to sit on, since you'll likely be on the pavement for a while. Paid seating exists in bleacher sections and sells out early; if you want to sit rather than stand, that's the ticket to sort out first.
+
+Cash still gets used heavily at festival food stalls (yatai) lining the streets, so carry some rather than assuming card payment everywhere. If you want to join in as a dancer rather than just watch, haneto costumes can typically be rented on the day and anyone is allowed to dance in the parade — it's one of the few big Japanese festivals where spectators are actively invited to jump in.
+
+The etiquette mistake first-timers make is treating it like a static show: stay alert, because floats and dancers move continuously and crowds shift with them, and blocking a handler's sightline near a float can actually get you moved along by staff. Evenings are hot and humid, and the crowds are dense enough that small children or anyone uncomfortable in tight spaces should aim for the edges of the route rather than the center near the floats.
 
 ## Nearby to pair with your trip
 

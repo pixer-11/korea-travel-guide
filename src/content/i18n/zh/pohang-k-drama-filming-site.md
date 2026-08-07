@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pohang-k-drama-filming-site
-srcHash: 39ecc1c822fa
+srcHash: 'a459e8dde3ee'
 title: 浦项韩剧取景地
 description: 浦项最著名的韩剧取景地是九龙浦（Guryongpo），这座位于迎日湾半岛（Homigot peninsula）上、保留着日据时代风貌的渔村，其古老的木造店铺和狭窄巷弄在热门剧集《山茶花开时》（When the Camellia Blooms）中化身为20世纪80至90年代的港口小镇。
 quickAnswer: 浦项最著名的韩剧取景地是九龙浦（Guryongpo），这座位于迎日湾半岛（Homigot peninsula）上、保留着日据时代风貌的渔村，其古老的木造店铺和狭窄巷弄在热门剧集《山茶花开时》（When the Camellia Blooms）中化身为20世纪80至90年代的港口小镇。可以将它与附近的迎日湾日出广场（Homigot Sunrise Square，以“和谐之手”雕塑闻名）安排在一起，从浦项主要的巴士/火车站出发进行半日游。建议选择工作日上午前往，穿上适合行走坡道小巷的鞋子，并顺便品尝港边的新鲜生鱼片（hoe）或烤秋刀鱼。

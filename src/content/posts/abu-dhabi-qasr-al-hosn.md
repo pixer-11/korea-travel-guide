@@ -56,15 +56,21 @@ updatedDate: '2026-07-26'
 
 ## Why go
 
-Qasr Al Hosn is the site around which Abu Dhabi grew, and it's the reason the city exists where it does. The original coral-and-seashell watchtower was built in the 1760s to guard the only freshwater well on the island, and the fort was expanded over the following century into the seat of the ruling Al Nahyan family. It later served as the residence of the rulers, the seat of government, and the national archive before being restored and reopened as a museum. Unlike many "heritage" stops that are reconstructions, this is the genuine article — the oldest surviving structure in Abu Dhabi — which is why it now pulls in thousands of visitors a year and holds a strong 4.6 rating across roughly 8,000 reviews.
+Qasr Al Hosn is the site around which Abu Dhabi grew, and it's the reason the city exists where it does. The original coral-and-seashell watchtower was built in the 1760s to guard the only freshwater well on the island, and the fort was expanded over the following century into the seat of the ruling Al Nahyan family. It later served as the residence of the rulers, the seat of government, and the national archive before being restored and reopened as a museum.
+
+Unlike many "heritage" stops that are reconstructions, this is the genuine article — the oldest surviving structure in Abu Dhabi — which is why it now pulls in thousands of visitors a year and holds a strong 4.6 rating across roughly 8,000 reviews.
 
 ## Getting there
 
-The museum sits on Rashid Bin Saeed Al Maktoum Street (2nd Street) in the Al Hisn area, right in the downtown core, within easy walking distance of the Abu Dhabi Corniche and a short taxi ride from Zayed the First Street (formerly Electra Street). There's no metro system in Abu Dhabi, so most visitors arrive by taxi, rideshare, or rental car; on-site and street parking is available around the compound. If you're staying near the Corniche or World Trade Center Mall, it's a walkable or five-minute-drive detour — worth pairing with a stroll past the nearby Cultural Foundation building, which sits on the same grounds and hosts art exhibitions and public programming.
+The museum sits on Rashid Bin Saeed Al Maktoum Street (2nd Street) in the Al Hisn area, right in the downtown core, within easy walking distance of the Abu Dhabi Corniche and a short taxi ride from Zayed the First Street (formerly Electra Street). There's no metro system in Abu Dhabi, so most visitors arrive by taxi, rideshare, or rental car; on-site and street parking is available around the compound.
+
+If you're staying near the Corniche or World Trade Center Mall, it's a walkable or five-minute-drive detour — worth pairing with a stroll past the nearby Cultural Foundation building, which sits on the same grounds and hosts art exhibitions and public programming.
 
 ## What to see and do
 
-The complex has two distinct parts. The **Inner Fort** is the original 18th-century structure — thick coral-stone walls, a watchtower, and the well the settlement was built around — now presented with minimal intervention so the age of the material speaks for itself. The **Palace**, added in stages through the 20th century, houses the main museum galleries, tracing Abu Dhabi's transformation from a pearling and fishing settlement into a modern capital, using oral histories, archival photography, and family artifacts donated by Emirati residents. Look for the majlis reception rooms and the recreated domestic quarters, which give a sense of daily life before oil revenue reshaped the city. Give yourself 90 minutes to two hours to do both halves justice, more if a temporary exhibition or cultural festival is running — the site regularly hosts the annual Qasr Al Hosn Festival and other seasonal cultural programming, so check what's on before you go.
+The complex has two distinct parts. The **Inner Fort** is the original 18th-century structure — thick coral-stone walls, a watchtower, and the well the settlement was built around — now presented with minimal intervention so the age of the material speaks for itself. The **Palace**, added in stages through the 20th century, houses the main museum galleries, tracing Abu Dhabi's transformation from a pearling and fishing settlement into a modern capital, using oral histories, archival photography, and family artifacts donated by Emirati residents.
+
+Look for the majlis reception rooms and the recreated domestic quarters, which give a sense of daily life before oil revenue reshaped the city. Give yourself 90 minutes to two hours to do both halves justice, more if a temporary exhibition or cultural festival is running — the site regularly hosts the annual Qasr Al Hosn Festival and other seasonal cultural programming, so check what's on before you go.
 
 ## When to go
 
@@ -72,7 +78,9 @@ Visit on a weekday morning shortly after opening, when light through the courtya
 
 ## How to visit like a local
 
-Given its popularity, the smartest move is timing rather than trying to find a quiet version of this landmark — it isn't one. Arrive at opening or in the last couple of hours before closing to dodge the mid-morning tour-bus rush, and expect a security/bag check at entry, standard for major Abu Dhabi cultural sites. Tickets and combined passes (sometimes bundled with other Abu Dhabi Culture sites like the Cultural Foundation) are generally best bought online in advance to skip the counter queue, and payment on-site is predominantly by card. Modest dress is appreciated, as at most heritage and government-adjacent sites in the UAE — shoulders and knees covered is a safe default. The most common visitor mistake is treating this as a quick photo stop from the outside; the real value is inside the Palace galleries, where the oral-history displays explain context you won't get from the facade alone. Photography is generally allowed in the courtyards and galleries, but check current signage for restrictions in specific rooms.
+Given its popularity, the smartest move is timing rather than trying to find a quiet version of this landmark — it isn't one. Arrive at opening or in the last couple of hours before closing to dodge the mid-morning tour-bus rush, and expect a security/bag check at entry, standard for major Abu Dhabi cultural sites. Tickets and combined passes (sometimes bundled with other Abu Dhabi Culture sites like the Cultural Foundation) are generally best bought online in advance to skip the counter queue, and payment on-site is predominantly by card.
+
+Modest dress is appreciated, as at most heritage and government-adjacent sites in the UAE — shoulders and knees covered is a safe default. The most common visitor mistake is treating this as a quick photo stop from the outside; the real value is inside the Palace galleries, where the oral-history displays explain context you won't get from the facade alone. Photography is generally allowed in the courtyards and galleries, but check current signage for restrictions in specific rooms.
 
 ## Nearby to pair with your visit
 

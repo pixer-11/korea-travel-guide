@@ -48,11 +48,15 @@ draft: false
 
 ## Why go
 
-You come up out of a side street — via Rizzoli or via Indipendenza, it doesn't matter which — and the space just opens up. No warning, no long approach: one moment you're under a low stone portico, the next you're standing in a rectangle of open sky bigger than a football pitch, with a wall of pink-and-grey brick rising in front of you. This is Piazza Maggiore, and it's been Bologna's civic living room since the 13th century. The scale of it is the first thing that hits you — this was built to hold the whole medieval city at once, for markets, executions, papal visits, and it still does the job at Sunday aperitivo time, just with spritz instead of scaffolds.
+You come up out of a side street — via Rizzoli or via Indipendenza, it doesn't matter which — and the space just opens up. No warning, no long approach: one moment you're under a low stone portico, the next you're standing in a rectangle of open sky bigger than a football pitch, with a wall of pink-and-grey brick rising in front of you.
+
+This is Piazza Maggiore, and it's been Bologna's civic living room since the 13th century. The scale of it is the first thing that hits you — this was built to hold the whole medieval city at once, for markets, executions, papal visits, and it still does the job at Sunday aperitivo time, just with spritz instead of scaffolds.
 
 ## What you're actually looking at
 
-The unmissable wall on the square's south side is the Basilica di San Petronio — and if the façade looks unfinished, that's because it is. Look closely: the lower third is polished white-and-pink marble in a precise geometric pattern, and above it the brick is left raw, exposed, waiting for cladding that never came (funding was famously diverted, so the story goes, to build the university's Archiginnasio instead). Step inside — it's free to enter the nave — and you're in one of the largest brick-built churches on earth, with a sundial etched into the floor by the astronomer Cassini in 1655 that still works.
+The unmissable wall on the square's south side is the Basilica di San Petronio — and if the façade looks unfinished, that's because it is. Look closely: the lower third is polished white-and-pink marble in a precise geometric pattern, and above it the brick is left raw, exposed, waiting for cladding that never came (funding was famously diverted, so the story goes, to build the university's Archiginnasio instead).
+
+Step inside — it's free to enter the nave — and you're in one of the largest brick-built churches on earth, with a sundial etched into the floor by the astronomer Cassini in 1655 that still works.
 
 Turn around and the medieval Palazzo d'Accursio (also called Palazzo Comunale) dominates the west side, still Bologna's city hall, its clock tower visible for blocks. Palazzo dei Notai and Palazzo del Podestà, with its arcaded ground floor you can walk straight through, close off the other edges. Slip through that arcade and you land in Piazza del Nettuno, where Giambologna's 1566 bronze Neptune — muscular, four sea-nymphs at his feet, one hand raised — presides over a fountain that's been a meeting point for centuries.
 
@@ -62,11 +66,15 @@ The piazza sits dead-center in Bologna's historic core, a 15–20 minute walk fr
 
 ## When to go
 
-With over 88,000 reviews and a 4.7 rating, this is Bologna's single most visited spot, so don't expect solitude at midday. Early morning, before the shops and cafés fully open, the square belongs to joggers, pigeons, and delivery bikes — the light rakes low across the brick and the marble on San Petronio's façade glows pink. Evenings after dinner are similarly calm-ish and atmospheric, with the basilica floodlit and students draped over the church's low steps. Midday through early evening is when tour groups, street performers, and lunch crowds peak — if you're here then, treat it as a pass-through rather than a lingering stop, and come back later.
+With over 88,000 reviews and a 4.7 rating, this is Bologna's single most visited spot, so don't expect solitude at midday. Early morning, before the shops and cafés fully open, the square belongs to joggers, pigeons, and delivery bikes — the light rakes low across the brick and the marble on San Petronio's façade glows pink. Evenings after dinner are similarly calm-ish and atmospheric, with the basilica floodlit and students draped over the church's low steps.
+
+Midday through early evening is when tour groups, street performers, and lunch crowds peak — if you're here then, treat it as a pass-through rather than a lingering stop, and come back later.
 
 ## How to visit like a local
 
-Nobody "discovers" this square — it's the busiest address in Bologna, so plan around the crowds rather than expecting to dodge them. Sit on the basilica's broad stone steps rather than paying for a café seat if you just want to watch the square; it's what everyone does, tourists and Bolognesi alike. If you do want a coffee or spritz at one of the perimeter bars, know that table service at a prime piazza-facing seat costs noticeably more than standing at the bar — order "al banco" (at the counter) the way locals do for a quick, cheap espresso, and reserve the table seats for when you actually want to linger. Cash and card are both fine everywhere. Skip the pushy street vendors selling selfie sticks and roses; a polite "no, grazie" and continuing to walk works fine. And don't skip Piazza del Nettuno through the passage by Palazzo del Podestà — most people only see the main square and miss the fountain a few steps away.
+Nobody "discovers" this square — it's the busiest address in Bologna, so plan around the crowds rather than expecting to dodge them. Sit on the basilica's broad stone steps rather than paying for a café seat if you just want to watch the square; it's what everyone does, tourists and Bolognesi alike. If you do want a coffee or spritz at one of the perimeter bars, know that table service at a prime piazza-facing seat costs noticeably more than standing at the bar — order "al banco" (at the counter) the way locals do for a quick, cheap espresso, and reserve the table seats for when you actually want to linger.
+
+Cash and card are both fine everywhere. Skip the pushy street vendors selling selfie sticks and roses; a polite "no, grazie" and continuing to walk works fine. And don't skip Piazza del Nettuno through the passage by Palazzo del Podestà — most people only see the main square and miss the fountain a few steps away.
 
 ## Nearby to pair with your visit
 

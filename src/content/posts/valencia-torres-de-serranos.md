@@ -60,24 +60,36 @@ draft: false
 
 ## Why go
 
-You see Torres de Serranos long before you reach it — two squared, crenellated towers rising out of a plaza like the prow of a stone ship, their pale limestone gone honey-colored where centuries of sun have worn it smooth. This was one of twelve gates in Valencia's old city wall, built at the end of the 14th century, and it's the best-preserved of the two that survive. Unlike a lot of "old town gate" attractions that turn out to be a single arch you glance at and move on from, this one you actually enter, climb, and stand on top of. The reward is a 360-degree view: the green ribbon of the old Turia riverbed gardens on one side, the cathedral's Micalet tower and the tangle of Ciutat Vella rooftops on the other.
+You see Torres de Serranos long before you reach it — two squared, crenellated towers rising out of a plaza like the prow of a stone ship, their pale limestone gone honey-colored where centuries of sun have worn it smooth. This was one of twelve gates in Valencia's old city wall, built at the end of the 14th century, and it's the best-preserved of the two that survive.
+
+Unlike a lot of "old town gate" attractions that turn out to be a single arch you glance at and move on from, this one you actually enter, climb, and stand on top of. The reward is a 360-degree view: the green ribbon of the old Turia riverbed gardens on one side, the cathedral's Micalet tower and the tangle of Ciutat Vella rooftops on the other.
 
 ## What you'll actually see
 
-Inside, the towers are mostly bare — no ornate furnishings, because for stretches of their history they served as a prison, not a palace. That rough, functional feel is part of the appeal: thick stone walls, narrow slit windows, a spiral staircase that gets tighter as you go up. Panels along the way explain the gate's role defending the medieval city and its later life holding prisoners, including, according to local lore, inmates awaiting transfer during wartime periods. At the top, the wide terraces between the two towers open up, and this is where you slow down — it's where every visitor ends up leaning on the parapet with a phone out, and rightly so.
+Inside, the towers are mostly bare — no ornate furnishings, because for stretches of their history they served as a prison, not a palace. That rough, functional feel is part of the appeal: thick stone walls, narrow slit windows, a spiral staircase that gets tighter as you go up. Panels along the way explain the gate's role defending the medieval city and its later life holding prisoners, including, according to local lore, inmates awaiting transfer during wartime periods.
+
+At the top, the wide terraces between the two towers open up, and this is where you slow down — it's where every visitor ends up leaning on the parapet with a phone out, and rightly so.
 
 ## Getting there
 
-Torres de Serranos sits at C. de la Blanqueria, 1, right on the edge of Ciutat Vella, where the old town meets the Turia gardens. The easiest approach on foot is straight through the riverbed park — cross via the Puente de Serranos bridge, which lands you almost at the towers' base. If you're coming by metro, Alameda station (Lines 3 and 5) is about a 15-minute walk along the gardens, a pleasant approach in its own right since you pass fountains, jacaranda-lined paths, and joggers cutting through the old dry riverbed. Several city bus routes also stop nearby on Paseo de la Pechina. It's a natural bookend to a walk through Barrio del Carmen, the artsy, mural-covered quarter just inside the walls.
+Torres de Serranos sits at C. de la Blanqueria, 1, right on the edge of Ciutat Vella, where the old town meets the Turia gardens. The easiest approach on foot is straight through the riverbed park — cross via the Puente de Serranos bridge, which lands you almost at the towers' base. If you're coming by metro, Alameda station (Lines 3 and 5) is about a 15-minute walk along the gardens, a pleasant approach in its own right since you pass fountains, jacaranda-lined paths, and joggers cutting through the old dry riverbed.
+
+Several city bus routes also stop nearby on Paseo de la Pechina. It's a natural bookend to a walk through Barrio del Carmen, the artsy, mural-covered quarter just inside the walls.
 
 ## When to go
 
-The towers are busiest on weekends between noon and 6pm, when tour groups and day-trippers converge with the after-lunch crowd — that's the window to avoid if you want the staircase and rooftop to yourself. On weekdays and weekend mornings and evenings, roughly 10am to 8pm stays noticeably calmer, and that's when the light is better for photos too: early sun raking across the stonework, or late-afternoon gold hitting the west-facing terrace. Spring and autumn evenings are especially good, since the Mediterranean heat has eased but there's still enough daylight to see the view properly.
+The towers are busiest on weekends between noon and 6pm, when tour groups and day-trippers converge with the after-lunch crowd — that's the window to avoid if you want the staircase and rooftop to yourself. On weekdays and weekend mornings and evenings, roughly 10am to 8pm stays noticeably calmer, and that's when the light is better for photos too: early sun raking across the stonework, or late-afternoon gold hitting the west-facing terrace.
+
+Spring and autumn evenings are especially good, since the Mediterranean heat has eased but there's still enough daylight to see the view properly.
 
 ## Nearby to combine
 
-Once you're back down, the Torres de Quart — the other surviving gate tower — sits a 15-minute walk away on the opposite side of the old town, and comparing the two is worth doing if you have time. Just inside the walls, the Museo Fallero and the IVAM contemporary art museum are both within easy reach, and the Mercado Central and La Lonja de la Seda (a UNESCO-listed silk exchange) are a short walk further into Ciutat Vella. Budget an hour for the towers themselves, or fold them into a half-day loop through the old quarter and riverbed gardens.
+Once you're back down, the Torres de Quart — the other surviving gate tower — sits a 15-minute walk away on the opposite side of the old town, and comparing the two is worth doing if you have time. Just inside the walls, the Museo Fallero and the IVAM contemporary art museum are both within easy reach, and the Mercado Central and La Lonja de la Seda (a UNESCO-listed silk exchange) are a short walk further into Ciutat Vella.
+
+Budget an hour for the towers themselves, or fold them into a half-day loop through the old quarter and riverbed gardens.
 
 ## How to visit like a local
 
-Skip the midday weekend rush — locals crossing the gardens tend to pass through in the early morning or as the evening cools down, both of which line up with the quieter 10am–8pm stretch the crowd data shows. There's no formal booking system typically required for a visit this size; you simply queue at the entrance and pay on arrival, so bring small change or a card since ticket booths at Valencia's monuments often prefer contactless payment. Dress for stairs: the spiral staircase is stone, uneven in places, and has no elevator, so flat shoes matter more here than at almost any other stop in the old town. The mistake most visitors make is treating this as a five-minute photo op from the plaza below — the real payoff is on top, so give yourself the full climb rather than admiring the towers only from street level. Confirm same-day opening hours and admission price locally before you go, since municipal monuments in Valencia periodically adjust both.
+Skip the midday weekend rush — locals crossing the gardens tend to pass through in the early morning or as the evening cools down, both of which line up with the quieter 10am–8pm stretch the crowd data shows. There's no formal booking system typically required for a visit this size; you simply queue at the entrance and pay on arrival, so bring small change or a card since ticket booths at Valencia's monuments often prefer contactless payment.
+
+Dress for stairs: the spiral staircase is stone, uneven in places, and has no elevator, so flat shoes matter more here than at almost any other stop in the old town. The mistake most visitors make is treating this as a five-minute photo op from the plaza below — the real payoff is on top, so give yourself the full climb rather than admiring the towers only from street level. Confirm same-day opening hours and admission price locally before you go, since municipal monuments in Valencia periodically adjust both.

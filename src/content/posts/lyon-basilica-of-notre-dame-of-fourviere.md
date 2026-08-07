@@ -57,7 +57,9 @@ draft: false
 
 ## Why go
 
-You see it before you arrive anywhere near it — four stone towers and a gilded Virgin Mary statue catching the light from almost every vantage point in Lyon, sitting on the hill of Fourvière like a crown on the city. Up close, the basilica is stranger and more theatrical than the view from below suggests: an interior crammed with mosaics in gold, blue and deep red, Byzantine-influenced arches, and a lower crypt that feels almost subterranean compared to the light-flooded nave above. It was built between 1872 and 1884, largely funded by the city as a votive offering after Lyon was spared during the Franco-Prussian War, and that origin story still shapes the mood inside — equal parts civic pride and devotion.
+You see it before you arrive anywhere near it — four stone towers and a gilded Virgin Mary statue catching the light from almost every vantage point in Lyon, sitting on the hill of Fourvière like a crown on the city. Up close, the basilica is stranger and more theatrical than the view from below suggests: an interior crammed with mosaics in gold, blue and deep red, Byzantine-influenced arches, and a lower crypt that feels almost subterranean compared to the light-flooded nave above.
+
+It was built between 1872 and 1884, largely funded by the city as a votive offering after Lyon was spared during the Franco-Prussian War, and that origin story still shapes the mood inside — equal parts civic pride and devotion.
 
 ## Getting there
 
@@ -65,7 +67,11 @@ The easiest route is the funicular from Vieux Lyon métro station (Line D) — l
 
 ## What to see
 
-Inside, look up: the ceiling mosaics tell the story of the Virgin Mary's role in French history, including a panel commemorating Joan of Arc. The choir and side chapels are dense with symbolism — angels, saints, and civic emblems worked into nearly every surface, a deliberate contrast to the relatively plain Gothic crypt chapel below, dedicated to Saint Joseph, which feels calmer and far less ornamented. Step outside onto the esplanade for the real payoff: an unobstructed panorama over Lyon's rooftops, the confluence of the Rhône and Saône rivers, and on clear days, the outline of the Alps and Mont Blanc on the horizon. The small Musée d'Art Sacré, attached to the basilica, holds vestments, reliquaries and artwork tied to the site's history, and is worth 20 minutes if you want context beyond the architecture. Just downhill are the Roman theatres (Théâtres Romains de Fourvière), Lyon's ancient amphitheater ruins, an easy add-on if you're already up the hill.
+Inside, look up: the ceiling mosaics tell the story of the Virgin Mary's role in French history, including a panel commemorating Joan of Arc. The choir and side chapels are dense with symbolism — angels, saints, and civic emblems worked into nearly every surface, a deliberate contrast to the relatively plain Gothic crypt chapel below, dedicated to Saint Joseph, which feels calmer and far less ornamented.
+
+Step outside onto the esplanade for the real payoff: an unobstructed panorama over Lyon's rooftops, the confluence of the Rhône and Saône rivers, and on clear days, the outline of the Alps and Mont Blanc on the horizon. The small Musée d'Art Sacré, attached to the basilica, holds vestments, reliquaries and artwork tied to the site's history, and is worth 20 minutes if you want context beyond the architecture.
+
+Just downhill are the Roman theatres (Théâtres Romains de Fourvière), Lyon's ancient amphitheater ruins, an easy add-on if you're already up the hill.
 
 ## When to go
 
@@ -73,5 +79,9 @@ This is one of Lyon's most-visited sites, and it shows — tour groups and coach
 
 ## How to visit like a local
 
-Entry to the basilica itself is free, so there's no ticket queue to plan around — the crowding happens at the viewpoint and inside the nave, not at a gate. Dress modestly, as this remains an active Catholic church with regular Mass and services; keep voices low and avoid visiting during a service unless you're there to attend. Given how firmly this is on the tourist circuit, the smartest move isn't hunting for a secret entrance but simply shifting your timing: go early morning or toward evening rather than the midday peak when tour buses unload. If you plan to see the crypt, the art museum, and the Roman ruins as well, treat it as a half-day hillside outing rather than a quick photo stop — most visitors underestimate how much there is to see once you're actually up there. Cash isn't really needed for the basilica itself, though the museum and any gift shop items may involve a small entry or purchase, so it's worth carrying a card or a little cash regardless. The funicular runs on the same ticketing system as Lyon's metro and buses (TCL), so a standard transit ticket or Lyon City Card covers it — don't pay a separate cash fare at the base station if you already have transit tickets.
+Entry to the basilica itself is free, so there's no ticket queue to plan around — the crowding happens at the viewpoint and inside the nave, not at a gate. Dress modestly, as this remains an active Catholic church with regular Mass and services; keep voices low and avoid visiting during a service unless you're there to attend. Given how firmly this is on the tourist circuit, the smartest move isn't hunting for a secret entrance but simply shifting your timing: go early morning or toward evening rather than the midday peak when tour buses unload.
+
+If you plan to see the crypt, the art museum, and the Roman ruins as well, treat it as a half-day hillside outing rather than a quick photo stop — most visitors underestimate how much there is to see once you're actually up there. Cash isn't really needed for the basilica itself, though the museum and any gift shop items may involve a small entry or purchase, so it's worth carrying a card or a little cash regardless.
+
+The funicular runs on the same ticketing system as Lyon's metro and buses (TCL), so a standard transit ticket or Lyon City Card covers it — don't pay a separate cash fare at the base station if you already have transit tickets.
 

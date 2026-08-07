@@ -57,19 +57,27 @@ eventRecurring: true
 
 ## Why this fixture matters
 
-The Coupang Play Series has become Korea's marquee pre-season football event, and the 2026 edition is its biggest yet: Manchester City face a Team K League selection on August 5, then Atlético Madrid arrive for a second showcase match on August 9. Both fixtures are set for Seoul World Cup Stadium, the 66,000-capacity venue built for the 2002 FIFA World Cup. For fans in East Asia, this is a rare chance to see Premier League and La Liga heavyweights without flying to Europe, and it turns Sangam-dong into a football-festival zone for most of August.
+The Coupang Play Series has become Korea's marquee pre-season football event, and the 2026 edition is its biggest yet: Manchester City face a Team K League selection on August 5, then Atlético Madrid arrive for a second showcase match on August 9. Both fixtures are set for Seoul World Cup Stadium, the 66,000-capacity venue built for the 2002 FIFA World Cup.
+
+For fans in East Asia, this is a rare chance to see Premier League and La Liga heavyweights without flying to Europe, and it turns Sangam-dong into a football-festival zone for most of August.
 
 ## Getting there
 
-Seoul World Cup Stadium sits in Mapo-gu's Sangam-dong district and is directly served by World Cup Stadium Station (Line 6) — Exits 1 and 2 feed straight into the stadium plaza. If you're coming from Gangnam or Myeongdong, expect roughly 40–50 minutes by subway with a transfer. Airport Railroad (AREX) travelers can connect to Line 6 at Digital Media City station, one stop from the stadium, making this an easy add-on for anyone flying in via Incheon. Taxis are an option but traffic around the stadium backs up heavily on matchdays, so the subway is the more reliable choice for both the August 5 and August 9 dates.
+Seoul World Cup Stadium sits in Mapo-gu's Sangam-dong district and is directly served by World Cup Stadium Station (Line 6) — Exits 1 and 2 feed straight into the stadium plaza. If you're coming from Gangnam or Myeongdong, expect roughly 40–50 minutes by subway with a transfer. Airport Railroad (AREX) travelers can connect to Line 6 at Digital Media City station, one stop from the stadium, making this an easy add-on for anyone flying in via Incheon.
+
+Taxis are an option but traffic around the stadium backs up heavily on matchdays, so the subway is the more reliable choice for both the August 5 and August 9 dates.
 
 ## What to expect at the venue
 
-Seoul World Cup Stadium is a full-scale international venue with tiered seating, large concourses, and a stadium-adjacent shopping and dining complex called the Sangam World Cup Park area, which includes a mall with cinemas and restaurants for pre- or post-match downtime. The surrounding World Cup Park is a green, walkable space with themed sections (Peace Park, Sky Park among them) worth a stroll if you arrive early. Given the scale of a Manchester City–Atlético Madrid style double-header, expect vendor areas, fan zones, and merchandise stalls to be more elaborate than a typical K League match — closer in feel to an international friendly tour stop.
+Seoul World Cup Stadium is a full-scale international venue with tiered seating, large concourses, and a stadium-adjacent shopping and dining complex called the Sangam World Cup Park area, which includes a mall with cinemas and restaurants for pre- or post-match downtime. The surrounding World Cup Park is a green, walkable space with themed sections (Peace Park, Sky Park among them) worth a stroll if you arrive early.
+
+Given the scale of a Manchester City–Atlético Madrid style double-header, expect vendor areas, fan zones, and merchandise stalls to be more elaborate than a typical K League match — closer in feel to an international friendly tour stop.
 
 ## Tickets, dates, and what's still unconfirmed
 
-The organizers have confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — but exact kickoff times, ticket price tiers, and seating maps are typically released closer to the event. Because this is a high-profile pre-season series featuring two of Europe's most-followed clubs, tickets for marquee sections are likely to move fast once sales open. Always verify current dates, kickoff time, venue details, and pricing directly through Coupang Play's official event page or authorized ticket partners before booking flights or hotels — pre-season football calendars can shift due to club schedules.
+The organizers have confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — but exact kickoff times, ticket price tiers, and seating maps are typically released closer to the event. Because this is a high-profile pre-season series featuring two of Europe's most-followed clubs, tickets for marquee sections are likely to move fast once sales open.
+
+Always verify current dates, kickoff time, venue details, and pricing directly through Coupang Play's official event page or authorized ticket partners before booking flights or hotels — pre-season football calendars can shift due to club schedules.
 
 ## When to go and how long to stay
 
@@ -77,4 +85,8 @@ Plan to arrive at the stadium grounds at least 90 minutes before kickoff; gates 
 
 ## How to visit like a local
 
-Korean fans overwhelmingly buy tickets online in advance through official platforms and pay by card or mobile pay (Naver Pay, Kakao Pay, or a Korean-linked card) — walk-up ticket booths are unreliable for high-demand matches like this, so don't plan around them. Dress light and bring a small hand fan or portable battery fan, standard gear for locals sitting through August heat. If you want food, eat before entering or grab something from stalls near Exits 1–2 rather than relying on limited in-stadium options. The most common visitor mistake is underestimating exit congestion: locals typically linger 15–20 minutes at their seats or grab a coffee nearby rather than rushing the packed platform at World Cup Stadium Station right after the final whistle. Cheering sections tend to organize call-and-response chants led by ultras near the lower tiers — following along, even without knowing the words, is welcomed rather than seen as intrusive.
+Korean fans overwhelmingly buy tickets online in advance through official platforms and pay by card or mobile pay (Naver Pay, Kakao Pay, or a Korean-linked card) — walk-up ticket booths are unreliable for high-demand matches like this, so don't plan around them. Dress light and bring a small hand fan or portable battery fan, standard gear for locals sitting through August heat.
+
+If you want food, eat before entering or grab something from stalls near Exits 1–2 rather than relying on limited in-stadium options. The most common visitor mistake is underestimating exit congestion: locals typically linger 15–20 minutes at their seats or grab a coffee nearby rather than rushing the packed platform at World Cup Stadium Station right after the final whistle.
+
+Cheering sections tend to organize call-and-response chants led by ultras near the lower tiers — following along, even without knowing the words, is welcomed rather than seen as intrusive.

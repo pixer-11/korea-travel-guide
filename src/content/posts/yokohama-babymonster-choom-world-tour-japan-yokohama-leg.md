@@ -68,18 +68,28 @@ Pia Arena MM opened in 2020 in Yokohama's Minato Mirai ("Minatomirai," literally
 
 ## Getting there
 
-The closest station is Minatomirai Station on the Minatomirai Line, about a 5–10 minute walk from the arena. Sakuragicho Station (JR Negishi Line and the Yokohama Municipal Subway) is another walkable option, roughly 15 minutes on foot, and is useful if you're coming directly from Tokyo or Shin-Yokohama by JR lines. From central Tokyo (Shibuya or Shinjuku), figure 30–45 minutes by train depending on your route and transfers. If you're flying in internationally, Haneda Airport is the more convenient gateway (around 30–40 minutes to Yokohama by train or limousine bus) compared to Narita.
+The closest station is Minatomirai Station on the Minatomirai Line, about a 5–10 minute walk from the arena. Sakuragicho Station (JR Negishi Line and the Yokohama Municipal Subway) is another walkable option, roughly 15 minutes on foot, and is useful if you're coming directly from Tokyo or Shin-Yokohama by JR lines. From central Tokyo (Shibuya or Shinjuku), figure 30–45 minutes by train depending on your route and transfers.
+
+If you're flying in internationally, Haneda Airport is the more convenient gateway (around 30–40 minutes to Yokohama by train or limousine bus) compared to Narita.
 
 ## What to expect
 
-"Choom" — a Korean word for dance — signals a show built around BABYMONSTER's choreography-forward performance style, so expect a high-energy set drawing from their debut EPs and singles. Specific setlists, opening acts, and merchandise details have not been officially detailed at time of writing, and running times, doors, and ticket tiers for the Yokohama dates should be confirmed only through official channels — YG Entertainment's and BABYMONSTER's official social accounts, the tour's official ticketing partners, and the Pia Arena MM venue page. Given this is a two-night stop within a larger 11-show run, expect high demand and likely a lottery or staggered on-sale system common to major K-pop tours in Japan.
+"Choom" — a Korean word for dance — signals a show built around BABYMONSTER's choreography-forward performance style, so expect a high-energy set drawing from their debut EPs and singles. Specific setlists, opening acts, and merchandise details have not been officially detailed at time of writing, and running times, doors, and ticket tiers for the Yokohama dates should be confirmed only through official channels — YG Entertainment's and BABYMONSTER's official social accounts, the tour's official ticketing partners, and the Pia Arena MM venue page.
+
+Given this is a two-night stop within a larger 11-show run, expect high demand and likely a lottery or staggered on-sale system common to major K-pop tours in Japan.
 
 ## Where to stay and eat nearby
 
-Minato Mirai and neighboring Yokohama Station have a dense cluster of hotels within a 10–20 minute walk or short train ride of the arena, ranging from business hotels to harbor-view properties. For pre- or post-show food, Yokohama's Chinatown (Yokohama Chukagai), one of the largest in Asia, is a short taxi or train ride away and stays lively into the evening — good for a group dinner before an evening show. Closer to the arena itself, the Minato Mirai and Landmark Plaza area has casual chain restaurants and convenience stores suited to a quick pre-show meal.
+Minato Mirai and neighboring Yokohama Station have a dense cluster of hotels within a 10–20 minute walk or short train ride of the arena, ranging from business hotels to harbor-view properties. For pre- or post-show food, Yokohama's Chinatown (Yokohama Chukagai), one of the largest in Asia, is a short taxi or train ride away and stays lively into the evening — good for a group dinner before an evening show.
+
+Closer to the arena itself, the Minato Mirai and Landmark Plaza area has casual chain restaurants and convenience stores suited to a quick pre-show meal.
 
 ## How to visit like a local
 
-Japanese concert crowds are famously orderly, and it pays to match that rhythm rather than fight it. Arrive with your ticket (paper or mobile, depending on the sales method) already sorted well before doors — last-minute box-office pickups are not reliable for big tours, and most sales for shows like this run through pre-registered lottery (ticket) systems weeks in advance. Cash is still widely used for merchandise stalls at Japanese arena shows, so carry yen rather than assuming card or mobile pay will work at every booth; lines for goods often form hours before doors and move slowly, so decide in advance whether merch or a calm entry matters more to you. Inside the venue, Japanese fan culture favors coordinated chants and light-stick waving over shouting individual requests, so watch and follow the surrounding crowd's cues rather than assuming home-country concert etiquette applies. The most common visitor mistake is underestimating transit timing on the return leg — trains from Minatomirai and Sakuragicho get very crowded immediately after a show lets out, so budget extra time or plan a short walk to a quieter station if you have a late connection.
+Japanese concert crowds are famously orderly, and it pays to match that rhythm rather than fight it. Arrive with your ticket (paper or mobile, depending on the sales method) already sorted well before doors — last-minute box-office pickups are not reliable for big tours, and most sales for shows like this run through pre-registered lottery (ticket) systems weeks in advance.
+
+Cash is still widely used for merchandise stalls at Japanese arena shows, so carry yen rather than assuming card or mobile pay will work at every booth; lines for goods often form hours before doors and move slowly, so decide in advance whether merch or a calm entry matters more to you. Inside the venue, Japanese fan culture favors coordinated chants and light-stick waving over shouting individual requests, so watch and follow the surrounding crowd's cues rather than assuming home-country concert etiquette applies.
+
+The most common visitor mistake is underestimating transit timing on the return leg — trains from Minatomirai and Sakuragicho get very crowded immediately after a show lets out, so budget extra time or plan a short walk to a quieter station if you have a late connection.
 
 Because dates, lineup details, and ticket links for tours like this can shift, always verify the specific August 1–2, 2026 schedule, doors time, and purchase details on BABYMONSTER's and YG Entertainment's official pages before finalizing travel.

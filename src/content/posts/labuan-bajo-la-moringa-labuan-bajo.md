@@ -73,23 +73,33 @@ draft: true
 ---
 ## Why go
 
-Labuan Bajo's dining scene has exploded alongside its status as the gateway to Komodo National Park, and La Moringa has become one of the town's most consistently praised addresses — a 4.9 rating from over 2,300 reviews is a rare number for any restaurant, anywhere. It sits in the mid-range price bracket, so it works equally well as a casual lunch stop between boat bookings or a proper sit-down dinner after a day on the water. The menu leans into a mix of Indonesian classics and Western comfort food, which suits the town's mixed crowd of domestic tourists, dive-trip groups, and international backpackers refueling before or after multi-day Komodo liveaboards.
+Labuan Bajo's dining scene has exploded alongside its status as the gateway to Komodo National Park, and La Moringa has become one of the town's most consistently praised addresses — a 4.9 rating from over 2,300 reviews is a rare number for any restaurant, anywhere. It sits in the mid-range price bracket, so it works equally well as a casual lunch stop between boat bookings or a proper sit-down dinner after a day on the water.
+
+The menu leans into a mix of Indonesian classics and Western comfort food, which suits the town's mixed crowd of domestic tourists, dive-trip groups, and international backpackers refueling before or after multi-day Komodo liveaboards.
 
 ## Getting there
 
-La Moringa is located on Jl. Trans Flores, the main arterial road running through Labuan Bajo, in Kecamatan Komodo, Kabupaten Manggarai Barat. Most travelers stay within a 10–15 minute walk or short motorbike/ojek ride of the harbor area, and Jl. Trans Flores connects directly to that strip, so getting here from most hotels or guesthouses in town is straightforward — flag a local ojek, use a ride app if available, or walk if your accommodation is central. Labuan Bajo's Komodo Airport (LBJ) is roughly a 15–20 minute drive away, making this a realistic first-night or last-night dinner spot for anyone flying in or out.
+La Moringa is located on Jl. Trans Flores, the main arterial road running through Labuan Bajo, in Kecamatan Komodo, Kabupaten Manggarai Barat. Most travelers stay within a 10–15 minute walk or short motorbike/ojek ride of the harbor area, and Jl. Trans Flores connects directly to that strip, so getting here from most hotels or guesthouses in town is straightforward — flag a local ojek, use a ride app if available, or walk if your accommodation is central.
+
+Labuan Bajo's Komodo Airport (LBJ) is roughly a 15–20 minute drive away, making this a realistic first-night or last-night dinner spot for anyone flying in or out.
 
 ## What to see / eat
 
-Expect a menu built around Indonesian staples alongside pasta, pizza, and other Western options aimed at the international traveler crowd. Portions and pricing sit in the moderate range for Labuan Bajo, not the cheapest warung in town but well below the premium beachfront resort restaurants. Given the volume and consistency of reviews, dishes are reported as reliably well-executed rather than a single standout "must-order" item, so it's a solid choice when you want a good meal without doing extensive research first. Pair a visit here with a stroll along the Labuan Bajo waterfront afterward, where the harbor lights up with fishing boats and liveaboard vessels at dusk.
+Expect a menu built around Indonesian staples alongside pasta, pizza, and other Western options aimed at the international traveler crowd. Portions and pricing sit in the moderate range for Labuan Bajo, not the cheapest warung in town but well below the premium beachfront resort restaurants. Given the volume and consistency of reviews, dishes are reported as reliably well-executed rather than a single standout "must-order" item, so it's a solid choice when you want a good meal without doing extensive research first.
+
+Pair a visit here with a stroll along the Labuan Bajo waterfront afterward, where the harbor lights up with fishing boats and liveaboard vessels at dusk.
 
 ## When to go
 
-Labuan Bajo runs on a dry season (roughly April to November) and wet season (December to March) cycle. Dry season brings the bulk of tourist traffic — and the bulk of Komodo tour departures — meaning dinner spots in town, including this one, tend to get busiest in the evening, often roughly between 7 and 9pm, when boats return from day trips. Arriving for an earlier dinner, around 5:30–6:30pm, generally means shorter waits and more relaxed service. Wet season months are quieter across the whole town, restaurants included, though some boat trips run less frequently.
+Labuan Bajo runs on a dry season (roughly April to November) and wet season (December to March) cycle. Dry season brings the bulk of tourist traffic — and the bulk of Komodo tour departures — meaning dinner spots in town, including this one, tend to get busiest in the evening, often roughly between 7 and 9pm, when boats return from day trips.
+
+Arriving for an earlier dinner, around 5:30–6:30pm, generally means shorter waits and more relaxed service. Wet season months are quieter across the whole town, restaurants included, though some boat trips run less frequently.
 
 ## How to visit like a local
 
-Because this restaurant is genuinely well-known rather than a quiet find, the smartest move is timing, not secrecy. Aim for an early dinner seating or a late lunch to sidestep the post-tour rush, since large groups returning from Komodo boat trips tend to arrive together in the early evening. If you're part of a bigger group or visiting during peak dry-season months, it's worth calling ahead or asking your hotel/guide to help reserve a table rather than walking in and hoping — reviews suggest it can fill up. Cash is still commonly used around Labuan Bajo for smaller transactions, though card payment is increasingly available at established restaurants in town; carrying some rupiah as backup is sensible. Tipping isn't obligatory in Indonesia but rounding up or leaving small change for good service is appreciated rather than expected. A common mistake visitors make in Labuan Bajo generally is underestimating how spread out the town is and how quickly evening dinner spots fill once tour boats return — building in flexible timing, rather than a strict reservation-free walk-in plan during high season, avoids frustration.
+Because this restaurant is genuinely well-known rather than a quiet find, the smartest move is timing, not secrecy. Aim for an early dinner seating or a late lunch to sidestep the post-tour rush, since large groups returning from Komodo boat trips tend to arrive together in the early evening. If you're part of a bigger group or visiting during peak dry-season months, it's worth calling ahead or asking your hotel/guide to help reserve a table rather than walking in and hoping — reviews suggest it can fill up.
+
+Cash is still commonly used around Labuan Bajo for smaller transactions, though card payment is increasingly available at established restaurants in town; carrying some rupiah as backup is sensible. Tipping isn't obligatory in Indonesia but rounding up or leaving small change for good service is appreciated rather than expected. A common mistake visitors make in Labuan Bajo generally is underestimating how spread out the town is and how quickly evening dinner spots fill once tour boats return — building in flexible timing, rather than a strict reservation-free walk-in plan during high season, avoids frustration.
 
 ## Nearby to combine
 

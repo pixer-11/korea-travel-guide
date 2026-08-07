@@ -61,11 +61,15 @@ draft: false
 
 ## Why go
 
-Some restaurants sell food; El Rinconcillo sells continuity. The building has operated as a tavern since 1670, and the room itself does most of the talking before a plate ever arrives: dark wood shelving stacked with bottles up to the ceiling, hand-painted azulejo tiles gone soft at the edges, hams hanging over the zinc-topped bar, and a century and a half of waiters' chalk tallies still scratched onto the wooden counter instead of printed on a receipt. You're not visiting for novelty here — you're visiting because this is the template every other historic tapas bar in Andalusia has been copying for generations.
+Some restaurants sell food; El Rinconcillo sells continuity. The building has operated as a tavern since 1670, and the room itself does most of the talking before a plate ever arrives: dark wood shelving stacked with bottles up to the ceiling, hand-painted azulejo tiles gone soft at the edges, hams hanging over the zinc-topped bar, and a century and a half of waiters' chalk tallies still scratched onto the wooden counter instead of printed on a receipt.
+
+You're not visiting for novelty here — you're visiting because this is the template every other historic tapas bar in Andalusia has been copying for generations.
 
 ## Getting there
 
-El Rinconcillo sits at Calle Gerona, 40, in the Casco Antiguo, on the northern edge of the old town where it shades into the Alameda de Hércules neighborhood. It's an easy 10–12 minute walk from the Cathedral and the Metropol Parasol (Las Setas), and about the same distance from the Alameda's bar-lined square if you're coming from a stroll through that part of town. There's no metro stop directly on top of it — Seville's old center is compact and low-rise enough that walking or a short taxi from wherever you're staying is the normal way in. If you're arriving from further out, the C1/C2 city bus routes skirt the old town's ring roads, but honestly, most visitors just walk it as part of a wider loop through the old quarter.
+El Rinconcillo sits at Calle Gerona, 40, in the Casco Antiguo, on the northern edge of the old town where it shades into the Alameda de Hércules neighborhood. It's an easy 10–12 minute walk from the Cathedral and the Metropol Parasol (Las Setas), and about the same distance from the Alameda's bar-lined square if you're coming from a stroll through that part of town.
+
+There's no metro stop directly on top of it — Seville's old center is compact and low-rise enough that walking or a short taxi from wherever you're staying is the normal way in. If you're arriving from further out, the C1/C2 city bus routes skirt the old town's ring roads, but honestly, most visitors just walk it as part of a wider loop through the old quarter.
 
 ## What to eat
 
@@ -73,11 +77,17 @@ Start with the classics rather than improvising: espinacas con garbanzos (spinac
 
 ## When to go
 
-This is a genuinely busy, widely-loved address — it holds thousands of reviews and a strong rating for good reason — so there's no real "secret" hour left to discover. What you can control is arriving right as service opens rather than at the traditional Spanish 9 or 10pm dinner crunch, when the bar area packs shoulder to shoulder and tables turn slowly. Double-check the current opening days and hours directly before you go, since Spanish restaurants — even institutions like this one — do shift their weekly schedule, and you don't want to walk here across the old town only to find the shutters down.
+This is a genuinely busy, widely-loved address — it holds thousands of reviews and a strong rating for good reason — so there's no real "secret" hour left to discover. What you can control is arriving right as service opens rather than at the traditional Spanish 9 or 10pm dinner crunch, when the bar area packs shoulder to shoulder and tables turn slowly.
+
+Double-check the current opening days and hours directly before you go, since Spanish restaurants — even institutions like this one — do shift their weekly schedule, and you don't want to walk here across the old town only to find the shutters down.
 
 ## How to visit like a local
 
-Order at the bar in Spanish if you can manage even a few words — "una de espinacas," "un poco de jamón" — and don't be surprised or offended when the bartender chalks your running total directly onto the wooden counter in front of you; it's the house's centuries-old system, not a mistake, and it gets tallied up honestly when you're ready to pay. Standing at the bar rather than waiting for a table is both faster and more in keeping with how the place actually runs — tables fill up and turn over slowly, while the counter moves quickly and lets you order in stages as you go. Tipping isn't obligatory the way it is in the US; rounding up or leaving small change is the norm. The single biggest mistake visitors make is treating this like a sit-down restaurant with a reservation system — it isn't really that kind of place, and showing up expecting to be seated immediately at a table, menu in hand, misses the point of a bar that's meant to be worked through standing up, plate by plate, with the crowd around you.
+Order at the bar in Spanish if you can manage even a few words — "una de espinacas," "un poco de jamón" — and don't be surprised or offended when the bartender chalks your running total directly onto the wooden counter in front of you; it's the house's centuries-old system, not a mistake, and it gets tallied up honestly when you're ready to pay.
+
+Standing at the bar rather than waiting for a table is both faster and more in keeping with how the place actually runs — tables fill up and turn over slowly, while the counter moves quickly and lets you order in stages as you go. Tipping isn't obligatory the way it is in the US; rounding up or leaving small change is the norm.
+
+The single biggest mistake visitors make is treating this like a sit-down restaurant with a reservation system — it isn't really that kind of place, and showing up expecting to be seated immediately at a table, menu in hand, misses the point of a bar that's meant to be worked through standing up, plate by plate, with the crowd around you.
 
 ## Nearby to combine with
 

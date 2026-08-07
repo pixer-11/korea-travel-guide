@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: osaka-osaka-castle
-srcHash: 56491fb51ec4
+srcHash: '2779c40dc3f8'
 title: 'Castillo de Osaka: Guía de viaje'
 description: El Castillo de Osaka se visita mejor por la mañana (las puertas abren alrededor de las 9:00) para evitar multitudes y el calor, con 2-3 horas suficientes para el parque, el museo dentro de la torre principal y los fosos y muros de piedra.
 quickAnswer: El Castillo de Osaka se visita mejor por la mañana (las puertas abren alrededor de las 9:00) para evitar multitudes y el calor, con 2-3 horas suficientes para el parque, el museo dentro de la torre principal y los fosos y muros de piedra. Las estaciones más cercanas son Osakajokoen (línea circular JR Osaka Loop Line) y Tanimachi 4-chome (líneas de metro Chuo/Tanimachi), ambas a unos 10-15 minutos a pie de la torre. La entrada al recinto del castillo es gratuita; solo la torre principal (museo) cobra una pequeña tarifa, normalmente alrededor de ¥600 para adultos — confirma los precios actuales antes de ir.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-El Castillo de Osaka (Ōsakajō) es uno de los monumentos más reconocibles de Japón, construido originalmente en 1583 por Toyotomi Hideyoshi mientras consolidaba el poder tras la muerte de Oda Nobunaga. La estructura actual data de una reconstrucción de 1931 (con una restauración adicional en 1997), ya que la torre original fue destruida en el siglo XVII y una reconstrucción posterior se incendió en 1665. Lo que se ve hoy es una réplica de concreto fiel a la silueta del período Edo, coronada con motivos de tigres y dragones bañados en pan de oro, asentada sobre muros de piedra y fosos genuinamente masivos de la era Edo que sobrevivieron a los siglos. Con una calificación de 4.4 basada en casi 98,000 reseñas, es uno de los lugares más visitados de Osaka, y el parque que lo rodea —el Parque del Castillo de Osaka (Ōsakajō Kōen)— es un destino en sí mismo, especialmente por los cerezos en flor a finales de marzo/principios de abril y el follaje otoñal en noviembre.
+El Castillo de Osaka (Ōsakajō) es uno de los monumentos más reconocibles de Japón, construido originalmente en 1583 por Toyotomi Hideyoshi mientras consolidaba el poder tras la muerte de Oda Nobunaga. La estructura actual data de una reconstrucción de 1931 (con una restauración adicional en 1997), ya que la torre original fue destruida en el siglo XVII y una reconstrucción posterior se incendió en 1665.
+
+Lo que se ve hoy es una réplica de concreto fiel a la silueta del período Edo, coronada con motivos de tigres y dragones bañados en pan de oro, asentada sobre muros de piedra y fosos genuinamente masivos de la era Edo que sobrevivieron a los siglos. Con una calificación de 4.4 basada en casi 98,000 reseñas, es uno de los lugares más visitados de Osaka, y el parque que lo rodea —el Parque del Castillo de Osaka (Ōsakajō Kōen)— es un destino en sí mismo, especialmente por los cerezos en flor a finales de marzo/principios de abril y el follaje otoñal en noviembre.
 
 ## Cómo llegar
 
@@ -49,4 +51,8 @@ Temprano por la mañana (poco después de la apertura, alrededor de las 9:00) ev
 
 ## Cerca de ahí y consejos prácticos
 
-La entrada al recinto del castillo es gratuita; solo el museo dentro de la torre principal cobra entrada, históricamente alrededor de ¥600 para adultos, con descuentos para niños — consulta fuentes oficiales para conocer los precios actuales antes de tu visita, ya que las tarifas y horarios se ajustan periódicamente. A veces hay boletos combinados que incluyen el Jardín Nishinomaru. En cuanto a comida, el parque tiene algunos cafés y puestos dispersos, pero el área más amplia del Osaka Business Park y el distrito de Morinomiya (ambos a poca distancia caminando) ofrecen opciones completas de restaurantes. Dentro del parque hay bicicletas de alquiler y un pequeño tranvía turístico (el "Road Train") para quienes prefieran no recorrer todo el recinto a pie. Combina tu visita con el cercano Museo de Historia de Osaka, justo al oeste del castillo cerca de la estación Tanimachi 4-chome, para tener una visión más completa del pasado de la ciudad durante el período Edo.
+La entrada al recinto del castillo es gratuita; solo el museo dentro de la torre principal cobra entrada, históricamente alrededor de ¥600 para adultos, con descuentos para niños — consulta fuentes oficiales para conocer los precios actuales antes de tu visita, ya que las tarifas y horarios se ajustan periódicamente. A veces hay boletos combinados que incluyen el Jardín Nishinomaru.
+
+En cuanto a comida, el parque tiene algunos cafés y puestos dispersos, pero el área más amplia del Osaka Business Park y el distrito de Morinomiya (ambos a poca distancia caminando) ofrecen opciones completas de restaurantes. Dentro del parque hay bicicletas de alquiler y un pequeño tranvía turístico (el "Road Train") para quienes prefieran no recorrer todo el recinto a pie.
+
+Combina tu visita con el cercano Museo de Historia de Osaka, justo al oeste del castillo cerca de la estación Tanimachi 4-chome, para tener una visión más completa del pasado de la ciudad durante el período Edo.

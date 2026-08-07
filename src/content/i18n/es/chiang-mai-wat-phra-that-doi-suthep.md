@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiang-mai-wat-phra-that-doi-suthep
-srcHash: 98f4edab9c8e
+srcHash: 'ce0297c9c419'
 title: 'Wat Phra That Doi Suthep: Guía de Viaje de Chiang Mai'
 description: Wat Phra That Doi Suthep se alza en una montaña boscosa a unos 15 km (entre 30 y 45 minutos en coche) al noroeste del casco antiguo de Chiang Mai, coronado por un reluciente chedi dorado con amplias vistas sobre el valle.
 quickAnswer: Wat Phra That Doi Suthep se alza en una montaña boscosa a unos 15 km (entre 30 y 45 minutos en coche) al noroeste del casco antiguo de Chiang Mai, coronado por un reluciente chedi dorado con amplias vistas sobre el valle. Calcula entre 1,5 y 2 horas para visitar el templo, más tiempo si subes por la escalinata naga de 306 escalones en lugar de tomar el funicular. Ve a primera hora de la mañana (antes de las 9 a. m.) o por la tarde para evitar las aglomeraciones de autobuses turísticos y el calor del mediodía.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Wat Phra That Doi Suthep es el templo más sagrado de Chiang Mai y, con 4.7 estrellas en casi 12,000 reseñas, uno de los sitios mejor valorados del norte de Tailandia de forma constante. Fundado en 1383 bajo el rey Keu Naone del reino de Lanna, la leyenda cuenta que un elefante blanco que transportaba una reliquia de Buda subió la montaña, barritó tres veces y murió en el lugar elegido para el templo — de ahí el nombre Doi Suthep ("Montaña Suthep"). El elemento central es un chedi dorado enchapado en cobre que alberga esa reliquia, rodeado de pagodas más pequeñas, campanas, un pequeño museo y una terraza que se abre a vistas panorámicas de la ciudad de Chiang Mai y el valle circundante en días despejados.
+Wat Phra That Doi Suthep es el templo más sagrado de Chiang Mai y, con 4.7 estrellas en casi 12,000 reseñas, uno de los sitios mejor valorados del norte de Tailandia de forma constante. Fundado en 1383 bajo el rey Keu Naone del reino de Lanna, la leyenda cuenta que un elefante blanco que transportaba una reliquia de Buda subió la montaña, barritó tres veces y murió en el lugar elegido para el templo — de ahí el nombre Doi Suthep ("Montaña Suthep").
+
+El elemento central es un chedi dorado enchapado en cobre que alberga esa reliquia, rodeado de pagodas más pequeñas, campanas, un pequeño museo y una terraza que se abre a vistas panorámicas de la ciudad de Chiang Mai y el valle circundante en días despejados.
 
 ## Cómo llegar
 
@@ -49,4 +51,6 @@ Los meses más frescos (de noviembre a febrero) traen los cielos más despejados
 
 ## Cerca de allí y consejos
 
-Combina la visita con el Palacio Bhubing, la residencia real de invierno a poca distancia más arriba en la montaña (jardines abiertos por temporada), o continúa hacia un cercano pueblo hmong para artesanías y productos de montaña. El Parque Nacional Doi Suthep-Pui rodea el templo, así que hay senderos cortos por el bosque y una o dos pequeñas cascadas al alcance si tienes tiempo extra. Lleva efectivo para las tarifas del songthaew, las donaciones para bendiciones y los boletos del funicular, ya que las opciones de pago con tarjeta pueden ser limitadas en la montaña.
+Combina la visita con el Palacio Bhubing, la residencia real de invierno a poca distancia más arriba en la montaña (jardines abiertos por temporada), o continúa hacia un cercano pueblo hmong para artesanías y productos de montaña. El Parque Nacional Doi Suthep-Pui rodea el templo, así que hay senderos cortos por el bosque y una o dos pequeñas cascadas al alcance si tienes tiempo extra.
+
+Lleva efectivo para las tarifas del songthaew, las donaciones para bendiciones y los boletos del funicular, ya que las opciones de pago con tarjeta pueden ser limitadas en la montaña.

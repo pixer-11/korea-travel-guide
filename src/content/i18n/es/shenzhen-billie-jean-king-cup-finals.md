@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shenzhen-billie-jean-king-cup-finals
-srcHash: c87dc9ff9696
+srcHash: '782b8375e871'
 title: 'Finales de la Billie Jean King Cup: lo que hay que saber (Shenzhen)'
 description: Finales de la Billie Jean King Cup en Shenzhen, China — del 22 al 27 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje.
 quickAnswer: Las Finales de la Billie Jean King Cup —la máxima competición internacional por equipos del tenis femenino— están previstas en Shenzhen, China, del 22 al 27 de septiembre de 2026. Considera esta fecha como provisional hasta que se confirme en la web oficial de la Billie Jean King Cup / ITF, ya que aún no se han cerrado públicamente la sede, los horarios de las sesiones ni los detalles de venta de entradas para la edición de 2026. Si quieres ver tanto los partidos de la fase de grupos como las rondas eliminatorias, calcula estar en Shenzhen al menos dos o tres días.
@@ -20,13 +20,17 @@ faq:
 
 ## Por qué importa este evento
 
-Las Finales de la Billie Jean King Cup son lo más parecido que tiene el tenis femenino a un Mundial: se enfrentan selecciones nacionales, no cabezas de serie individuales, a lo largo de una semana comprimida de partidos de individuales y dobles, y el ambiente en las gradas se acerca más al de un estadio de fútbol que al de una parada habitual del circuito. Cuando llegue a Shenzhen del 22 al 27 de septiembre de 2026, la ciudad se sumará a sedes anteriores como Praga, Glasgow y Málaga en la lista corta de ciudades que han albergado las Finales, una señal de lo en serio que el tenis se toma ahora a las ciudades chinas como mercado, tras el propio historial de Shenzhen como sede de las Finales de la WTA en años anteriores.
+Las Finales de la Billie Jean King Cup son lo más parecido que tiene el tenis femenino a un Mundial: se enfrentan selecciones nacionales, no cabezas de serie individuales, a lo largo de una semana comprimida de partidos de individuales y dobles, y el ambiente en las gradas se acerca más al de un estadio de fútbol que al de una parada habitual del circuito.
+
+Cuando llegue a Shenzhen del 22 al 27 de septiembre de 2026, la ciudad se sumará a sedes anteriores como Praga, Glasgow y Málaga en la lista corta de ciudades que han albergado las Finales, una señal de lo en serio que el tenis se toma ahora a las ciudades chinas como mercado, tras el propio historial de Shenzhen como sede de las Finales de la WTA en años anteriores.
 
 Para el visitante, ese historial importa en la práctica: Shenzhen ya cuenta con la infraestructura —pabellones, oferta hotelera, conexiones de transporte— desarrollada a raíz de esos eventos tenísticos de primer nivel, por lo que una semana como esta suele desarrollarse sin contratiempos incluso para quienes visitan la ciudad por primera vez.
 
 ## Cómo llegar y moverse
 
-Shenzhen está justo al otro lado de la frontera con Hong Kong, y la mayoría de los visitantes internacionales llegan por uno de dos aeropuertos: el Aeropuerto Internacional Bao'an de Shenzhen (SZX), que tiene conexiones directas con los principales centros asiáticos y un número creciente de rutas de larga distancia, o el Aeropuerto Internacional de Hong Kong, seguido de un autocar transfronterizo o el tren de alta velocidad hasta Shenzhen. Si vienes desde otro punto de China, las estaciones de tren de alta velocidad de la ciudad (Shenzhen North y Futian) la conectan con Guangzhou, Shanghái y Pekín en pocas horas.
+Shenzhen está justo al otro lado de la frontera con Hong Kong, y la mayoría de los visitantes internacionales llegan por uno de dos aeropuertos: el Aeropuerto Internacional Bao'an de Shenzhen (SZX), que tiene conexiones directas con los principales centros asiáticos y un número creciente de rutas de larga distancia, o el Aeropuerto Internacional de Hong Kong, seguido de un autocar transfronterizo o el tren de alta velocidad hasta Shenzhen.
+
+Si vienes desde otro punto de China, las estaciones de tren de alta velocidad de la ciudad (Shenzhen North y Futian) la conectan con Guangzhou, Shanghái y Pekín en pocas horas.
 
 Una vez en la ciudad, el metro de Shenzhen (Shenzhen Metro) es la forma más fácil de moverse: es extenso, tiene señalización en inglés y conecta los principales distritos donde se concentran los hoteles (Futian y Nanshan son los dos más convenientes para un gran evento deportivo, ya que ambos cuentan con buena cobertura de metro y una densa concentración de restaurantes y hoteles).
 
@@ -44,7 +48,9 @@ Si tu objetivo principal es un enfrentamiento concreto o la propia final, deja m
 
 ## Cómo visitar la ciudad como un local
 
-Compra tu tarjeta de transporte del metro (o simplemente valida con una tarjeta bancaria sin contacto, algo que el sistema de Shenzhen admite) en lugar de complicarte con las máquinas de billetes individuales: así es como se mueven los residentes por la ciudad, y te ahorrará tiempo para llegar y volver del recinto cada día. El pago móvil domina aquí: Alipay y WeChat Pay cubren casi todo, desde taxis hasta comida callejera, así que configura una de las dos aplicaciones antes de llegar si puedes, ya que el efectivo es cada vez más una idea secundaria en las transacciones diarias. Llega al pabellón antes de lo que crees para las sesiones estelares: las eliminatorias en las que participe el equipo local chino o un equipo muy favorito atraerán a las multitudes más numerosas, y las colas de seguridad y acceso se alargan rápidamente en la última hora antes del primer saque. Fuera del horario de partidos, Shenzhen premia el callejeo: es una ciudad joven y de ritmo acelerado, construida casi por completo a partir de la década de 1980, así que no esperes templos antiguos, sino barrios de diseño, mercados nocturnos y un horizonte urbano que cambia de un año para otro.
+Compra tu tarjeta de transporte del metro (o simplemente valida con una tarjeta bancaria sin contacto, algo que el sistema de Shenzhen admite) en lugar de complicarte con las máquinas de billetes individuales: así es como se mueven los residentes por la ciudad, y te ahorrará tiempo para llegar y volver del recinto cada día. El pago móvil domina aquí: Alipay y WeChat Pay cubren casi todo, desde taxis hasta comida callejera, así que configura una de las dos aplicaciones antes de llegar si puedes, ya que el efectivo es cada vez más una idea secundaria en las transacciones diarias.
+
+Llega al pabellón antes de lo que crees para las sesiones estelares: las eliminatorias en las que participe el equipo local chino o un equipo muy favorito atraerán a las multitudes más numerosas, y las colas de seguridad y acceso se alargan rápidamente en la última hora antes del primer saque. Fuera del horario de partidos, Shenzhen premia el callejeo: es una ciudad joven y de ritmo acelerado, construida casi por completo a partir de la década de 1980, así que no esperes templos antiguos, sino barrios de diseño, mercados nocturnos y un horizonte urbano que cambia de un año para otro.
 
 ## Antes de reservar
 

@@ -54,7 +54,9 @@ eventRecurring: true
 
 ## Why go
 
-The China Open is one of the ranking events on the World Snooker Tour's China swing, and in 2026 it lands in Taiyuan, the capital of Shanxi province, at the Riverside Sports Centre. For snooker fans, this is a rare chance to watch top-tier professional players — including defending champion Neil Robertson — compete on Chinese soil in an arena setting rather than on television. Ranking events like this feed directly into players' world rankings and the road to the World Championship in Sheffield, so matches carry real competitive weight, not just exhibition value.
+The China Open is one of the ranking events on the World Snooker Tour's China swing, and in 2026 it lands in Taiyuan, the capital of Shanxi province, at the Riverside Sports Centre. For snooker fans, this is a rare chance to watch top-tier professional players — including defending champion Neil Robertson — compete on Chinese soil in an arena setting rather than on television.
+
+Ranking events like this feed directly into players' world rankings and the road to the World Championship in Sheffield, so matches carry real competitive weight, not just exhibition value.
 
 ## Getting there
 
@@ -62,7 +64,9 @@ Taiyuan is well connected by high-speed rail, with Taiyuan South Railway Station
 
 ## What to expect at the venue
 
-Riverside Sports Centre is a multi-purpose arena that hosts basketball, concerts, and other large-scale events in addition to snooker, so expect a proper stadium atmosphere rather than a small snooker club setting. Ranking events of this size typically run multiple tables in the early rounds (often in a separate arena or practice hall) before consolidating to the main table for the closing rounds — quarterfinals through the final are the sessions most likely to feature the biggest names on the show table. Sessions are usually split into afternoon and evening blocks over the multi-day run, with the tournament spanning August 8–16, 2026.
+Riverside Sports Centre is a multi-purpose arena that hosts basketball, concerts, and other large-scale events in addition to snooker, so expect a proper stadium atmosphere rather than a small snooker club setting. Ranking events of this size typically run multiple tables in the early rounds (often in a separate arena or practice hall) before consolidating to the main table for the closing rounds — quarterfinals through the final are the sessions most likely to feature the biggest names on the show table.
+
+Sessions are usually split into afternoon and evening blocks over the multi-day run, with the tournament spanning August 8–16, 2026.
 
 ## Who to watch
 
@@ -74,7 +78,9 @@ As with most WST ranking events, tickets are usually sold by session (single day
 
 ## How to visit like a local
 
-Arrive for the earlier afternoon session if you want a calmer venue experience — evening sessions and weekend dates (especially the final) draw denser crowds and are the ones most likely to sell out first, so book those in advance if you have a specific match in mind. Payment in China is overwhelmingly mobile: Alipay and WeChat Pay are standard for concessions, merchandise, and even taxis, so set these up (or carry backup cash) before arrival, as foreign cards aren't universally accepted at smaller vendors. Snooker crowds observe a distinct etiquette carried over from the sport's British roots — spectators stay quiet and still during a player's shot, applaud after a break or a good safety exchange, and avoid flash photography; this holds even at Chinese venues with a livelier atmosphere between frames. Tipping isn't expected anywhere in China, including at the venue. A common visitor mistake is assuming session times mirror UK tournaments' start times — always check the local Taiyuan schedule (Beijing Time) rather than converting from a memory of Sheffield or London event hours.
+Arrive for the earlier afternoon session if you want a calmer venue experience — evening sessions and weekend dates (especially the final) draw denser crowds and are the ones most likely to sell out first, so book those in advance if you have a specific match in mind. Payment in China is overwhelmingly mobile: Alipay and WeChat Pay are standard for concessions, merchandise, and even taxis, so set these up (or carry backup cash) before arrival, as foreign cards aren't universally accepted at smaller vendors.
+
+Snooker crowds observe a distinct etiquette carried over from the sport's British roots — spectators stay quiet and still during a player's shot, applaud after a break or a good safety exchange, and avoid flash photography; this holds even at Chinese venues with a livelier atmosphere between frames. Tipping isn't expected anywhere in China, including at the venue. A common visitor mistake is assuming session times mirror UK tournaments' start times — always check the local Taiyuan schedule (Beijing Time) rather than converting from a memory of Sheffield or London event hours.
 
 ## Beyond the baize
 

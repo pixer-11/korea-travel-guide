@@ -66,7 +66,9 @@ draft: false
 
 ## Why go
 
-Few cityscapes look like this. The Ciudad de las Artes y las Ciencias (City of Arts and Sciences) is a cluster of gleaming white, shell-like structures designed largely by Valencia-born architect Santiago Calatrava, built along a 2-kilometer stretch of the old Turia riverbed that was rerouted after a catastrophic 1957 flood and turned into a public park. The complex opened in stages between 1998 and 2005 and has become Valencia's defining landmark, rated 4.7 stars across nearly 154,000 reviews. Even visitors who skip every ticketed attraction still walk away impressed simply from strolling among the buildings, reflecting pools, and sculptural bridges.
+Few cityscapes look like this. The Ciudad de las Artes y las Ciencias (City of Arts and Sciences) is a cluster of gleaming white, shell-like structures designed largely by Valencia-born architect Santiago Calatrava, built along a 2-kilometer stretch of the old Turia riverbed that was rerouted after a catastrophic 1957 flood and turned into a public park. The complex opened in stages between 1998 and 2005 and has become Valencia's defining landmark, rated 4.7 stars across nearly 154,000 reviews.
+
+Even visitors who skip every ticketed attraction still walk away impressed simply from strolling among the buildings, reflecting pools, and sculptural bridges.
 
 ## What's inside
 
@@ -81,12 +83,18 @@ The complex is made up of distinct buildings, and it helps to know what each one
 
 ## Getting there
 
-The complex sits in the Quatre Carreres district at the eastern end of the Turia Gardens (Jardí del Túria), roughly 4 km from Valencia's old town. The most convenient public transport is **Metro Line 9**, alighting at **Alameda** or **Jesús** station and walking about 10–15 minutes along the riverbed park. Bus lines 35 and 95 also stop nearby, and the EMT bike-share system has docking stations right along the park path. Driving is possible but parking near the buildings fills quickly on weekends; there are paid underground lots close to the Oceanogràfic entrance.
+The complex sits in the Quatre Carreres district at the eastern end of the Turia Gardens (Jardí del Túria), roughly 4 km from Valencia's old town. The most convenient public transport is **Metro Line 9**, alighting at **Alameda** or **Jesús** station and walking about 10–15 minutes along the riverbed park. Bus lines 35 and 95 also stop nearby, and the EMT bike-share system has docking stations right along the park path.
+
+Driving is possible but parking near the buildings fills quickly on weekends; there are paid underground lots close to the Oceanogràfic entrance.
 
 ## When to go and how long to spend
 
-Budget at least 2–3 hours just for the exteriors, photography, and a walk through the Umbracle gardens — this part is free and open year-round. If you're adding L'Oceanogràfic, set aside a half day, since the aquarium is large and includes an outdoor dolphinarium show. Mornings (opening time to around 11am) and the last two hours before closing tend to be quieter than midday. Spring (April–June) and early autumn (September–October) bring milder temperatures than the intense summer heat, when the white concrete surfaces radiate heat and shade is scarce. Evenings are worth a return visit even after ticketed sites close: the buildings are illuminated at night and reflect dramatically in the surrounding pools.
+Budget at least 2–3 hours just for the exteriors, photography, and a walk through the Umbracle gardens — this part is free and open year-round. If you're adding L'Oceanogràfic, set aside a half day, since the aquarium is large and includes an outdoor dolphinarium show. Mornings (opening time to around 11am) and the last two hours before closing tend to be quieter than midday.
+
+Spring (April–June) and early autumn (September–October) bring milder temperatures than the intense summer heat, when the white concrete surfaces radiate heat and shade is scarce. Evenings are worth a return visit even after ticketed sites close: the buildings are illuminated at night and reflect dramatically in the surrounding pools.
 
 ## Tips for visiting
 
-Buy tickets for L'Oceanogràfic and the Hemisfèric/Museu de les Ciències online in advance — combined tickets covering multiple attractions are usually available and can save money versus paying separately, though exact pricing should be confirmed on the official website since it changes seasonally. Wear sunglasses and a hat; the light bouncing off the white trencadís-tiled surfaces is intense. Bring swimwear if visiting in warm months, as there's a small artificial beach area near the Oceanogràfic entrance. After visiting, the beach district of Malvarrosa and the historic center are both reachable within 15–20 minutes by tram or taxi, making the City of Arts and Sciences an easy add-on to either a beach day or a city-center itinerary.
+Buy tickets for L'Oceanogràfic and the Hemisfèric/Museu de les Ciències online in advance — combined tickets covering multiple attractions are usually available and can save money versus paying separately, though exact pricing should be confirmed on the official website since it changes seasonally. Wear sunglasses and a hat; the light bouncing off the white trencadís-tiled surfaces is intense. Bring swimwear if visiting in warm months, as there's a small artificial beach area near the Oceanogràfic entrance.
+
+After visiting, the beach district of Malvarrosa and the historic center are both reachable within 15–20 minutes by tram or taxi, making the City of Arts and Sciences an easy add-on to either a beach day or a city-center itinerary.

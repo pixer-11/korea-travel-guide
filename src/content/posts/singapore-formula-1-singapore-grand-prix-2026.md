@@ -56,15 +56,21 @@ The first thing you notice, days before a single engine fires, is the scaffoldin
 
 ## Why this year is different
 
-The 2026 race, set for October 9-11 at the Marina Bay Street Circuit, marks the first time Singapore has hosted an F1 Sprint weekend — meaning an extra qualifying and Sprint race are added to Saturday, on top of the usual Friday practice and Sunday Grand Prix. That compresses the on-track action into a busier, more front-loaded schedule than in past years, so if you're only buying a single day's ticket, Saturday now carries more racing than it used to. The off-track side has also expanded: the post-session concert program has grown into as big a draw as the race itself for plenty of attendees.
+The 2026 race, set for October 9-11 at the Marina Bay Street Circuit, marks the first time Singapore has hosted an F1 Sprint weekend — meaning an extra qualifying and Sprint race are added to Saturday, on top of the usual Friday practice and Sunday Grand Prix. That compresses the on-track action into a busier, more front-loaded schedule than in past years, so if you're only buying a single day's ticket, Saturday now carries more racing than it used to.
+
+The off-track side has also expanded: the post-session concert program has grown into as big a draw as the race itself for plenty of attendees.
 
 ## Getting there and getting around
 
-The circuit wraps around the Marina Bay, City Hall, and Esplanade districts, and it's built for a city that already runs on its MRT. Promenade and Bayfront stations (Circle Line and Downtown Line respectively) sit closest to the paddock and Padang grandstands, while City Hall and Raffles Place stations (both interchange stations on multiple lines) are a walkable 10-15 minutes from the outer sections. Trains run later than usual on race nights, but expect them to be packed at the final checkered flag — locals who do this every year build in extra time rather than fighting the crowd at the barriers. Roads inside the circuit footprint close progressively in the days before the race, so if your hotel is inside the loop, check your walking route in advance; some usual entrances get rerouted.
+The circuit wraps around the Marina Bay, City Hall, and Esplanade districts, and it's built for a city that already runs on its MRT. Promenade and Bayfront stations (Circle Line and Downtown Line respectively) sit closest to the paddock and Padang grandstands, while City Hall and Raffles Place stations (both interchange stations on multiple lines) are a walkable 10-15 minutes from the outer sections.
+
+Trains run later than usual on race nights, but expect them to be packed at the final checkered flag — locals who do this every year build in extra time rather than fighting the crowd at the barriers. Roads inside the circuit footprint close progressively in the days before the race, so if your hotel is inside the loop, check your walking route in advance; some usual entrances get rerouted.
 
 ## What the weekend actually looks like
 
-Racing under floodlights is the whole point here — Singapore was F1's first night race, and the heat that built up during the day radiates back off the tarmac after dark, so it's warm and humid trackside even at 10pm. Grandstands along the Marina Bay straight and around the Anderson Bridge area give you both track action and skyline backdrop in the same sightline, which is why they're consistently the first to sell out. Beyond the track, the concert stages and fan zones around the Padang keep running well after the chequered flag, so a single ticket typically buys you a full night rather than just a race.
+Racing under floodlights is the whole point here — Singapore was F1's first night race, and the heat that built up during the day radiates back off the tarmac after dark, so it's warm and humid trackside even at 10pm. Grandstands along the Marina Bay straight and around the Anderson Bridge area give you both track action and skyline backdrop in the same sightline, which is why they're consistently the first to sell out.
+
+Beyond the track, the concert stages and fan zones around the Padang keep running well after the chequered flag, so a single ticket typically buys you a full night rather than just a race.
 
 ## When to go and how long to stay
 
@@ -72,4 +78,8 @@ Most visitors build a four-to-five day trip around the Friday-Sunday sessions, a
 
 ## How to visit like a local
 
-Regulars buy single-day Padang or Bay Grandstand tickets rather than the pricier three-day packages if they only care about the Sunday race, and they book accommodation in Bugis, Chinatown, or Tanjong Pagar rather than paying inflated Marina Bay hotel rates during race week. Payment at food and drink stalls inside the circuit is overwhelmingly cashless — tap-to-pay cards and mobile wallets are the norm, so don't rely on cash alone. The mistake most first-timers make is underestimating the walk between MRT exits and their actual grandstand gate, which can be 15-20 minutes through security screening lines; locals arrive a full session earlier than they think they need to. Because this is a high-demand, heavily attended event, the smartest crowd-avoidance move is simply timing your MRT ride 30-45 minutes before or after the main session breaks, rather than moving with the bulk of the crowd. Dates, ticket tiers, grandstand maps, and the full concert schedule should always be confirmed on the official Singapore Grand Prix website before booking, since support acts and exact session times are typically finalised closer to race week.
+Regulars buy single-day Padang or Bay Grandstand tickets rather than the pricier three-day packages if they only care about the Sunday race, and they book accommodation in Bugis, Chinatown, or Tanjong Pagar rather than paying inflated Marina Bay hotel rates during race week. Payment at food and drink stalls inside the circuit is overwhelmingly cashless — tap-to-pay cards and mobile wallets are the norm, so don't rely on cash alone.
+
+The mistake most first-timers make is underestimating the walk between MRT exits and their actual grandstand gate, which can be 15-20 minutes through security screening lines; locals arrive a full session earlier than they think they need to. Because this is a high-demand, heavily attended event, the smartest crowd-avoidance move is simply timing your MRT ride 30-45 minutes before or after the main session breaks, rather than moving with the bulk of the crowd.
+
+Dates, ticket tiers, grandstand maps, and the full concert schedule should always be confirmed on the official Singapore Grand Prix website before booking, since support acts and exact session times are typically finalised closer to race week.

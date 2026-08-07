@@ -69,11 +69,15 @@ With a 4.5 rating from close to 2,900 reviews, it's firmly established on Jakart
 
 ## Getting There
 
-The site sits directly on Jl. Gajah Mada, one of West Jakarta's major arterial roads, making it easy to reach by car, taxi, or ride-hailing app (Gojek/Grab), which is how most visitors arrive given Jakarta's traffic patterns and the lack of a direct rail stop at the door. The closest heavy-rail option is Jakarta Kota Station, a hub for both KRL Commuterline trains and the historic old-town area, roughly a 10–15 minute drive depending on traffic. If you're coming from the TransJakarta busway network, corridors running along Gajah Mada/Hayam Wuruk drop passengers within walking distance. Given the road's one-way traffic flow and limited street parking, ride-hailing drop-off directly at the entrance is usually the least stressful option.
+The site sits directly on Jl. Gajah Mada, one of West Jakarta's major arterial roads, making it easy to reach by car, taxi, or ride-hailing app (Gojek/Grab), which is how most visitors arrive given Jakarta's traffic patterns and the lack of a direct rail stop at the door. The closest heavy-rail option is Jakarta Kota Station, a hub for both KRL Commuterline trains and the historic old-town area, roughly a 10–15 minute drive depending on traffic.
+
+If you're coming from the TransJakarta busway network, corridors running along Gajah Mada/Hayam Wuruk drop passengers within walking distance. Given the road's one-way traffic flow and limited street parking, ride-hailing drop-off directly at the entrance is usually the least stressful option.
 
 ## What to Eat
 
-Expect an "upmarket outdoor food court" format: a rotating lineup of stalls under one roofed, open-sided structure, rather than a single kitchen. The strength here is variety — expect stalls doing Chinese-Indonesian classics (think kwetiau goreng, bebek/babi panggang-style dishes typical of Jakarta's Chinatown food scene), Indonesian standards like sate and nasi campur, plus grilled seafood and Western-leaning options for mixed groups. Cold beer service is a defining feature (uncommon at many Jakarta food courts), which is part of why it draws an evening crowd rather than a lunch one. Price level sits in the mid-range (moderate) bracket — plan for a step up from a street-side warung but well below a sit-down restaurant, and confirm current menu prices at the stall since food-court vendors set their own.
+Expect an "upmarket outdoor food court" format: a rotating lineup of stalls under one roofed, open-sided structure, rather than a single kitchen. The strength here is variety — expect stalls doing Chinese-Indonesian classics (think kwetiau goreng, bebek/babi panggang-style dishes typical of Jakarta's Chinatown food scene), Indonesian standards like sate and nasi campur, plus grilled seafood and Western-leaning options for mixed groups.
+
+Cold beer service is a defining feature (uncommon at many Jakarta food courts), which is part of why it draws an evening crowd rather than a lunch one. Price level sits in the mid-range (moderate) bracket — plan for a step up from a street-side warung but well below a sit-down restaurant, and confirm current menu prices at the stall since food-court vendors set their own.
 
 ## When to Go
 
@@ -81,5 +85,9 @@ This is fundamentally a dinner destination — the open-air seating and beer-for
 
 ## How to visit like a local
 
-Since this is a well-known, well-reviewed spot rather than an under-the-radar one, the practical challenge is crowd management, not discovery. Arrive by 6:30–7 pm on a weeknight to snag a table before the after-work and dinner rush fills the communal seating. Tables are shared-style — it's normal to sit near strangers, so don't wait for a private table to open up. Order at each stall individually rather than expecting one central menu; cash is still commonly used at smaller stalls, though many now accept QRIS mobile payment or cards, so carry some rupiah as backup. Tipping isn't standard practice at Indonesian food courts — round up or leave small change if service was notably good, but it's not expected. The most common visitor mistake is treating it like a single restaurant with one bill: keep track of what you order at each stall, since payment is typically settled per vendor, not at a central counter. After eating, it's worth walking a few minutes into the surrounding Glodok/Pancoran area, one of the oldest Chinatowns in Southeast Asia, for dessert or a look at nearby temples and old shophouse architecture — a natural extension of the same night out.
+Since this is a well-known, well-reviewed spot rather than an under-the-radar one, the practical challenge is crowd management, not discovery. Arrive by 6:30–7 pm on a weeknight to snag a table before the after-work and dinner rush fills the communal seating. Tables are shared-style — it's normal to sit near strangers, so don't wait for a private table to open up.
+
+Order at each stall individually rather than expecting one central menu; cash is still commonly used at smaller stalls, though many now accept QRIS mobile payment or cards, so carry some rupiah as backup. Tipping isn't standard practice at Indonesian food courts — round up or leave small change if service was notably good, but it's not expected. The most common visitor mistake is treating it like a single restaurant with one bill: keep track of what you order at each stall, since payment is typically settled per vendor, not at a central counter.
+
+After eating, it's worth walking a few minutes into the surrounding Glodok/Pancoran area, one of the oldest Chinatowns in Southeast Asia, for dessert or a look at nearby temples and old shophouse architecture — a natural extension of the same night out.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-samui-izzy-s-specialty-coffee
-srcHash: c43ad46c9741
+srcHash: 'fb38aceec3fd'
 title: 'Izzy''s Specialty Coffee: Guía de Viaje de Koh Samui'
 description: Izzy's Specialty Coffee es una cafetería de producción artesanal escondida entre los callejones de antiguas casas-tienda de Fisherman's Village, en Bo Put, en la costa norte de Koh Samui — ve antes de las 10am para conseguir asiento y probar un pour-over de barra lenta junto a sus granos tostados en casa.
 quickAnswer: Izzy's Specialty Coffee es una cafetería de producción artesanal escondida entre los callejones de antiguas casas-tienda de Fisherman's Village, en Bo Put, en la costa norte de Koh Samui — ve antes de las 10am para conseguir asiento y probar un pour-over de barra lenta junto a sus granos tostados en casa. Se puede llegar caminando desde la Fisherman's Village Walking Street y combina bien con una mañana de playa en Bo Put Pier. Calcula entre 30 y 45 minutos; se llena hacia el mediodía dado que tiene más de 1,000 reseñas casi perfectas.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué Izzy's destaca
 
-Fisherman's Village, en Bo Put, es la zona más caminable y fotogénica de Koh Samui — un antiguo asentamiento pesquero chino-tailandés convertido en un corredor de tiendas boutique y cafés instalados en casas-tienda de madera restauradas. Izzy's Specialty Coffee se ha convertido en una de sus direcciones de referencia, con un raro promedio de 5 estrellas en más de 1,000 reseñas, señal de que no es solo otra parada de café de pueblo playero que se apoya únicamente en su ubicación. El atractivo está en el abastecimiento de grado especial y una operación de tueste/preparación a la vista, en un destino donde un buen espresso solía significar el recargo de un lobby de resort. Para los viajeros a quienes les importa tanto su café como su vista, se ha convertido en una especie de parada de peregrinación en la costa norte de la isla.
+Fisherman's Village, en Bo Put, es la zona más caminable y fotogénica de Koh Samui — un antiguo asentamiento pesquero chino-tailandés convertido en un corredor de tiendas boutique y cafés instalados en casas-tienda de madera restauradas. Izzy's Specialty Coffee se ha convertido en una de sus direcciones de referencia, con un raro promedio de 5 estrellas en más de 1,000 reseñas, señal de que no es solo otra parada de café de pueblo playero que se apoya únicamente en su ubicación.
+
+El atractivo está en el abastecimiento de grado especial y una operación de tueste/preparación a la vista, en un destino donde un buen espresso solía significar el recargo de un lobby de resort. Para los viajeros a quienes les importa tanto su café como su vista, se ha convertido en una especie de parada de peregrinación en la costa norte de la isla.
 
 ## Cómo llegar
 
@@ -34,13 +36,17 @@ La ubicación exacta (H26c+jh6) te deja justo en la retícula de callejones estr
 
 ## Qué pedir y qué esperar
 
-Espera una configuración de café especial genuina, no un menú de cafetería genérico: opciones de filtro/pour-over, granos de origen único (que suelen rotar) y un flat white o cortado sobre una base de espresso bien extraído. Los baristas aquí suelen conocer bien el origen y el perfil de tueste, así que vale la pena preguntar qué está fresco esa semana en lugar de quedarse con lo habitual. Muchos visitantes combinan el café con un desayuno ligero o un pastelito — las porciones y la disposición favorecen una estancia tranquila sentado más que una parada rápida para llevar, aunque también hay opción para llevar para quienes continúan por la calle peatonal.
+Espera una configuración de café especial genuina, no un menú de cafetería genérico: opciones de filtro/pour-over, granos de origen único (que suelen rotar) y un flat white o cortado sobre una base de espresso bien extraído. Los baristas aquí suelen conocer bien el origen y el perfil de tueste, así que vale la pena preguntar qué está fresco esa semana en lugar de quedarse con lo habitual.
+
+Muchos visitantes combinan el café con un desayuno ligero o un pastelito — las porciones y la disposición favorecen una estancia tranquila sentado más que una parada rápida para llevar, aunque también hay opción para llevar para quienes continúan por la calle peatonal.
 
 Los asientos son limitados y muy solicitados, algo coherente con su tamaño de casa-tienda — es un espacio íntimo, no una cafetería grande, así que a los viajeros solos y a las parejas les resultará más fácil encontrar mesa que a los grupos numerosos.
 
 ## Cuándo ir
 
-Las mañanas (desde la apertura hasta cerca de las 10-11am) son el momento ideal: más tranquilo, más fresco, y conseguirás mesa sin esperar. Fisherman's Village vuelve a cobrar vida por la noche cuando funciona el mercado nocturno de la calle peatonal (habitualmente los viernes por la noche, aunque varía según la temporada), así que un café temprano seguido de una vuelta más tarde para disfrutar del ambiente del mercado forma una combinación natural de día a noche. Evita el bajón de calor del mediodía, entre aproximadamente las 12 y las 3pm, si quieres una estancia tranquila sentado, ya que tanto las multitudes como las temperaturas alcanzan su punto máximo en ese horario.
+Las mañanas (desde la apertura hasta cerca de las 10-11am) son el momento ideal: más tranquilo, más fresco, y conseguirás mesa sin esperar. Fisherman's Village vuelve a cobrar vida por la noche cuando funciona el mercado nocturno de la calle peatonal (habitualmente los viernes por la noche, aunque varía según la temporada), así que un café temprano seguido de una vuelta más tarde para disfrutar del ambiente del mercado forma una combinación natural de día a noche.
+
+Evita el bajón de calor del mediodía, entre aproximadamente las 12 y las 3pm, si quieres una estancia tranquila sentado, ya que tanto las multitudes como las temperaturas alcanzan su punto máximo en ese horario.
 
 ## Cerca de allí y consejos
 

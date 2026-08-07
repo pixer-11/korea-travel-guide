@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-kenroku-en
-srcHash: e61474ae4cba
+srcHash: '35307e41bf31'
 title: 'Kenroku-en: Guía de viaje de Kanazawa'
 description: Kenroku-en es el célebre jardín de paseo de la era Edo en Kanazawa, considerado uno de los "tres grandes jardines" de Japón junto con Kairaku-en y Koraku-en, y merece una visita.
 quickAnswer: 'Kenroku-en es el célebre jardín de paseo de la era Edo en Kanazawa, considerado uno de los "tres grandes jardines" de Japón junto con Kairaku-en y Koraku-en, y vale la pena dedicarle entre 90 minutos y 2 horas. Entra cerca de la parada de autobús Kenrokuen-shita/Kanko Center y dirígete directamente a la zona del estanque Kasumigaike para ver el icónico farol de piedra Kotoji-toro. Ve temprano por la mañana o justo después de la apertura para evitar los grupos turísticos, y ten en cuenta la temporada: los cerezos en flor, el verdor del verano, los arces otoñales y los famosos pinos atados con cuerdas yukizuri en invierno transforman el parque en cada época del año.'
@@ -24,7 +24,9 @@ Kenroku-en (兼六園) significa "Jardín de los Seis Atributos", en referencia 
 
 ## Cómo llegar
 
-Kenroku-en se encuentra en el centro de Kanazawa, justo al lado del Parque del Castillo de Kanazawa. Desde la estación JR de Kanazawa (JR Kanazawa Station), la ruta más sencilla es el Kanazawa Loop Bus o el Kenrokuen Shuttle, ambos con un trayecto de 10 a 15 minutos hasta la parada Kenrokuen-shita/Kenrokuen Kanko Center, justo en una de las entradas principales del jardín (zona de la puerta Katsurazaka o Kodatsuno). Un taxi desde la estación tarda aproximadamente lo mismo con tráfico ligero. Si prefieres caminar, son unos 25-30 minutos a pie atravesando el distrito comercial de Korinbo. Combina la visita con el Parque del Castillo de Kanazawa, que se conecta directamente por el lado de la puerta Ishikawa-mon, para ver ambos sin tener que desandar el camino.
+Kenroku-en se encuentra en el centro de Kanazawa, justo al lado del Parque del Castillo de Kanazawa. Desde la estación JR de Kanazawa (JR Kanazawa Station), la ruta más sencilla es el Kanazawa Loop Bus o el Kenrokuen Shuttle, ambos con un trayecto de 10 a 15 minutos hasta la parada Kenrokuen-shita/Kenrokuen Kanko Center, justo en una de las entradas principales del jardín (zona de la puerta Katsurazaka o Kodatsuno).
+
+Un taxi desde la estación tarda aproximadamente lo mismo con tráfico ligero. Si prefieres caminar, son unos 25-30 minutos a pie atravesando el distrito comercial de Korinbo. Combina la visita con el Parque del Castillo de Kanazawa, que se conecta directamente por el lado de la puerta Ishikawa-mon, para ver ambos sin tener que desandar el camino.
 
 ## Qué ver dentro del jardín
 
@@ -40,7 +42,9 @@ Sal hacia el Parque del Castillo de Kanazawa para prolongar la visita, o diríge
 
 ## Cuándo ir
 
-Kenroku-en se gana a pulso su fama de ser "hermoso en cada estación". La primavera (finales de marzo-abril) trae la floración de unos 400 cerezos. A principios de verano florecen los lirios alrededor de los estanques. En otoño (mediados o finales de noviembre) los arces alrededor de Kasumigaike se tiñen de un rojo intenso, y a veces el jardín abre para iluminaciones nocturnas especiales durante el pico de color, vale la pena consultar la cartelera turística local si se visita en esas fechas. El invierno es posiblemente la temporada más icónica: desde aproximadamente noviembre hasta mediados de marzo, los jardineros instalan el **yukizuri**, las redes de cuerdas tendidas desde altos postes de madera para proteger las ramas de los pinos del peso de la nieve, una técnica propia de esta región y una imagen distintiva de Kanazawa. Llega justo a la apertura (el jardín suele abrir muy temprano por la mañana) para disfrutar de la mejor luz y menos aglomeraciones, ya que es constantemente uno de los sitios más visitados de la ciudad.
+Kenroku-en se gana a pulso su fama de ser "hermoso en cada estación". La primavera (finales de marzo-abril) trae la floración de unos 400 cerezos. A principios de verano florecen los lirios alrededor de los estanques. En otoño (mediados o finales de noviembre) los arces alrededor de Kasumigaike se tiñen de un rojo intenso, y a veces el jardín abre para iluminaciones nocturnas especiales durante el pico de color, vale la pena consultar la cartelera turística local si se visita en esas fechas.
+
+El invierno es posiblemente la temporada más icónica: desde aproximadamente noviembre hasta mediados de marzo, los jardineros instalan el **yukizuri**, las redes de cuerdas tendidas desde altos postes de madera para proteger las ramas de los pinos del peso de la nieve, una técnica propia de esta región y una imagen distintiva de Kanazawa. Llega justo a la apertura (el jardín suele abrir muy temprano por la mañana) para disfrutar de la mejor luz y menos aglomeraciones, ya que es constantemente uno de los sitios más visitados de la ciudad.
 
 ## Consejos prácticos
 

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-ben-nghe-street-food
-srcHash: 96bd4d305867
+srcHash: 'bf373db4cec5'
 title: '벤응에 스트리트 푸드: 호치민시 맛집 탐방'
 description: 벤응에 스트리트 푸드(Ben Nghe Street Food, 134 Nam Kỳ Khởi Nghĩa, 1군)는 수십 개의 베트남 길거리 음식 노점이 한자리에 모인 대형 야외 푸드코트입니다.
 quickAnswer: 벤응에 스트리트 푸드(Ben Nghe Street Food, 134 Nam Kỳ Khởi Nghĩa, 1군)는 수십 개의 베트남 길거리 음식 노점이 지붕 있는 관광객 친화적 공간에 모여 있는 대형 야외 푸드코트입니다 — 구운 고기와 해산물, 쌀국수(pho), 반쎄오(banh xeo), 신선한 코코넛까지 두루 즐길 수 있습니다. 개별 노점을 일일이 찾아다니지 않고도 다양한 길거리 음식을 맛보고 싶다면 좋은 선택이지만, 가격은 다른 곳의 단일 노점에서 먹는 것보다 다소 높은 편입니다. 배를 든든히 비우고 가서 일행과 함께 여러 요리를 나눠 먹는 것을 추천하며, 활기차고 연기 자욱한 플라스틱 의자 분위기는 저녁 시간에 가장 잘 즐길 수 있습니다.

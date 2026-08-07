@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-tonkin-specialty-coffee
-srcHash: 51e2a4d5eafc
+srcHash: '44a8bf1911de'
 title: '통킨 스페셜티 커피: 호치민시 여행 가이드'
 description: 통킨 스페셜티 커피(Tonkin Specialty Coffee)는 1군(District 1) 벤탄(Bến Thành) 지구 91 Lý Tự Trọng에 위치한 작고 세련된 디자인의 카페로, 벤탄 시장(Bến Thành Market) 로터리에서 걸어서 가까운 거리에 있다.
 quickAnswer: 통킨 스페셜티 커피는 1군(District 1) 벤탄(Bến Thành) 지구 91 Lý Tự Trọng에 위치한 작고 세련된 디자인의 카페로, 벤탄 시장(Bến Thành Market) 로터리에서 걸어서 가까운 거리에 있다. 흔한 연유 커피 대신 달랏(Da Lat), 카우닷(Cau Dat) 등 베트남 단일 원산지 원두로 내린 푸어오버와 베트남식 스페셜티 커피를 맛보러 가보자. 30~45분 정도 여유를 두고, 카페 수준의 정성이 담긴 커피를 길거리 음식 수준의 가격에 즐길 수 있다. 공간이 아담한 편이라 자리에 앉고 싶다면 평일 오전 중 방문을 추천한다.
@@ -26,7 +26,9 @@ faq:
 
 ## 가는 방법
 
-카페는 사이공의 역사적 중심지인 1군 벤탄(Bến Thành) 지구, 91 Lý Tự Trọng에 위치해 있다. 벤탄 시장(Bến Thành Market)에서 도보로 약 5\~7분 거리라 아침 시장 구경이나 응우옌후에 보행자 거리(Nguyễn Huệ Walking Street) 산책 코스에 자연스럽게 곁들이기 좋다. 근처 명소로는 비텍스코 파이낸셜 타워(Bitexco Financial Tower, 도보 약 10\~15분)와 사이공 노트르담 대성당/중앙우체국(Saigon Notre-Dame Cathedral/Central Post Office) 일대(도보 약 15분)가 있다. 1군 어디에서 출발하든 그랩(Grab, 베트남에서 가장 많이 쓰이는 승차 공유 앱)이나 미터제 택시를 타면 워낙 중심가라 금방 도착한다. 한낮 교통 체증을 뚫고 가장 빨리 가는 방법은 오토바이 택시다. 이 블록까지 바로 연결되는 지하철 노선은 아직 없어서, 도보나 승차 공유 앱을 이용하는 것이 현실적이다.
+카페는 사이공의 역사적 중심지인 1군 벤탄(Bến Thành) 지구, 91 Lý Tự Trọng에 위치해 있다. 벤탄 시장(Bến Thành Market)에서 도보로 약 5\~7분 거리라 아침 시장 구경이나 응우옌후에 보행자 거리(Nguyễn Huệ Walking Street) 산책 코스에 자연스럽게 곁들이기 좋다. 근처 명소로는 비텍스코 파이낸셜 타워(Bitexco Financial Tower, 도보 약 10\~15분)와 사이공 노트르담 대성당/중앙우체국(Saigon Notre-Dame Cathedral/Central Post Office) 일대(도보 약 15분)가 있다. 1군 어디에서 출발하든 그랩(Grab, 베트남에서 가장 많이 쓰이는 승차 공유 앱)이나 미터제 택시를 타면 워낙 중심가라 금방 도착한다.
+
+한낮 교통 체증을 뚫고 가장 빨리 가는 방법은 오토바이 택시다. 이 블록까지 바로 연결되는 지하철 노선은 아직 없어서, 도보나 승차 공유 앱을 이용하는 것이 현실적이다.
 
 ## 무엇을 보고 마실까
 

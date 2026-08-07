@@ -69,11 +69,15 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You see MuCEM before you reach it. The black concrete lace screen wraps the cube-shaped building like a shipping crate dipped in ironwork, and the whole thing seems to float at the edge of the J4 esplanade, sea on three sides. Walk out from the Vieux-Port and the Mediterranean just opens up in front of you — container cranes down the coast, ferries sliding toward Corsica and North Africa, the fort walls of Saint-Jean opposite. This is Marseille's port announcing itself as a museum, and the building alone justifies the trip before you've bought a ticket.
+You see MuCEM before you reach it. The black concrete lace screen wraps the cube-shaped building like a shipping crate dipped in ironwork, and the whole thing seems to float at the edge of the J4 esplanade, sea on three sides. Walk out from the Vieux-Port and the Mediterranean just opens up in front of you — container cranes down the coast, ferries sliding toward Corsica and North Africa, the fort walls of Saint-Jean opposite.
+
+This is Marseille's port announcing itself as a museum, and the building alone justifies the trip before you've bought a ticket.
 
 ## Why go
 
-Opened in 2013 when Marseille was European Capital of Culture, MuCEM is the first French national museum devoted entirely to Mediterranean civilisation — not just France, but the whole basin: North Africa, the Levant, Southern Europe, three thousand years of trade, migration, religion and food pressed into one building. The permanent galleries move through olive oil and grain routes, ancient agriculture, the birth of citizenship and monotheism, and the tangled, often violent modern history of the sea's shores. Temporary exhibitions upstairs tend to be sharper and more contemporary — recent themes have ranged from migration to fashion to popular uprisings.
+Opened in 2013 when Marseille was European Capital of Culture, MuCEM is the first French national museum devoted entirely to Mediterranean civilisation — not just France, but the whole basin: North Africa, the Levant, Southern Europe, three thousand years of trade, migration, religion and food pressed into one building. The permanent galleries move through olive oil and grain routes, ancient agriculture, the birth of citizenship and monotheism, and the tangled, often violent modern history of the sea's shores.
+
+Temporary exhibitions upstairs tend to be sharper and more contemporary — recent themes have ranged from migration to fashion to popular uprisings.
 
 ## Getting there
 
@@ -81,15 +85,21 @@ MuCEM sits at 1 Esplanade J4, right where the Vieux-Port meets the sea. The easi
 
 ## What to see
 
-Start with the permanent "Galerie de la Méditerranée," which unfolds chronologically and thematically across the J4 building's upper level — go slowly through the section on the invention of agriculture and the domestication of the vine and olive, it grounds everything that follows. Don't skip the footbridge that leads from the rooftop terrace across to Fort Saint-Jean; it's included in most ticket types and it's one of the best free-feeling views in the city, arcing over the water with the cathedral and Notre-Dame de la Garde visible in either direction. Fort Saint-Jean itself, a 12th–17th century fortress the museum now incorporates, has gardens and towers worth the extra half hour. Back inside J4, the rooftop terrace restaurant and the ground-floor bookshop are both worth ten minutes even if you're not eating.
+Start with the permanent "Galerie de la Méditerranée," which unfolds chronologically and thematically across the J4 building's upper level — go slowly through the section on the invention of agriculture and the domestication of the vine and olive, it grounds everything that follows. Don't skip the footbridge that leads from the rooftop terrace across to Fort Saint-Jean; it's included in most ticket types and it's one of the best free-feeling views in the city, arcing over the water with the cathedral and Notre-Dame de la Garde visible in either direction.
+
+Fort Saint-Jean itself, a 12th–17th century fortress the museum now incorporates, has gardens and towers worth the extra half hour. Back inside J4, the rooftop terrace restaurant and the ground-floor bookshop are both worth ten minutes even if you're not eating.
 
 ## When to go
 
-The museum draws a genuinely large crowd — it's one of the most-visited cultural sites in southern France, and weekends between 11am and 6pm are consistently the busiest stretch, with queues building at the ticket desks and lines-of-sight through the galleries getting crowded. If your schedule allows it, the calm window is 6pm to 9pm, true on both weekdays and weekends, when the light through the lace facade turns gold and the terraces empty out. If you can only come at midday on a Saturday or Sunday, get there right as it opens rather than mid-afternoon.
+The museum draws a genuinely large crowd — it's one of the most-visited cultural sites in southern France, and weekends between 11am and 6pm are consistently the busiest stretch, with queues building at the ticket desks and lines-of-sight through the galleries getting crowded. If your schedule allows it, the calm window is 6pm to 9pm, true on both weekdays and weekends, when the light through the lace facade turns gold and the terraces empty out.
+
+If you can only come at midday on a Saturday or Sunday, get there right as it opens rather than mid-afternoon.
 
 ## How to visit like a local
 
-Buy your ticket online in advance where possible to skip the ticket-counter line, and go straight for the evening slot if your itinerary allows — the 6–9pm window is quieter and also the best time to watch the sun drop over the harbor from the rooftop terrace. Locals tend to treat MuCEM as much as a place to walk through and sit outside as a museum to tour end to end; it's entirely normal to cross the footbridge to Fort Saint-Jean, wander the gardens, and only pop into one or two galleries rather than the whole permanent collection. Payment is standard card-and-contactless across ticket desks, café and bookshop, so cash isn't necessary. The mistake first-time visitors make is treating this as a quick add-on to the Vieux-Port stroll — give it a genuine two to three hours, since the fort, the bridges and the terraces are as much the experience as the galleries themselves.
+Buy your ticket online in advance where possible to skip the ticket-counter line, and go straight for the evening slot if your itinerary allows — the 6–9pm window is quieter and also the best time to watch the sun drop over the harbor from the rooftop terrace. Locals tend to treat MuCEM as much as a place to walk through and sit outside as a museum to tour end to end; it's entirely normal to cross the footbridge to Fort Saint-Jean, wander the gardens, and only pop into one or two galleries rather than the whole permanent collection.
+
+Payment is standard card-and-contactless across ticket desks, café and bookshop, so cash isn't necessary. The mistake first-time visitors make is treating this as a quick add-on to the Vieux-Port stroll — give it a genuine two to three hours, since the fort, the bridges and the terraces are as much the experience as the galleries themselves.
 
 ## Nearby
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: mumbai-sweeney
-srcHash: 'fb074075b8cc'
+srcHash: '29df96c864f0'
 title: 'Sweeney: Guía de viaje de Mumbai'
 description: 'Sweeney en Mumbai, India — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Sweeney es un animado restaurante-bar nuevo instalado en un edificio patrimonial de Ballard Estate, en la zona de Fort, copropiedad de Malaika Arora y el restaurador Dhaval Udeshi. El atractivo es tanto botánico como culinario: un mangotón de 140 años cubre casi la mitad de la zona de asientos al aire libre, y según cuentan, el personal reparte frascos de mermelada de mango si te cae fruta encima mientras estás sentado debajo. Ve un día de semana por la noche, reserva con antelación ya que es un lugar recién puesto de moda en la ciudad, y confirma el horario actual antes de ir.'
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué Sweeney merece el desvío
 
-Ballard Estate no es donde esperarías que aterrizara la última apertura de moda de Mumbai, esa que todo el mundo quiere ver y en la que quiere ser visto. Este es el antiguo barrio naviero y de seguros de la ciudad — fachadas de piedra de estilo eduardiano, amplias calles de la era colonial construidas para carruajes de caballos, oficinas que se vacían a las 7 de la tarde. En uno de estos edificios patrimoniales ha llegado Sweeney, un restaurante-bar copropiedad de la actriz y empresaria Malaika Arora y el restaurador Dhaval Udeshi, y se ha convertido en uno de los nombres por los que la gente pelea una mesa ahora mismo. El contraste es parte del atractivo: una sala moderna y elegante instalada en un barrio que todavía baja las persianas al anochecer.
+Ballard Estate no es donde esperarías que aterrizara la última apertura de moda de Mumbai, esa que todo el mundo quiere ver y en la que quiere ser visto. Este es el antiguo barrio naviero y de seguros de la ciudad — fachadas de piedra de estilo eduardiano, amplias calles de la era colonial construidas para carruajes de caballos, oficinas que se vacían a las 7 de la tarde.
+
+En uno de estos edificios patrimoniales ha llegado Sweeney, un restaurante-bar copropiedad de la actriz y empresaria Malaika Arora y el restaurador Dhaval Udeshi, y se ha convertido en uno de los nombres por los que la gente pelea una mesa ahora mismo. El contraste es parte del atractivo: una sala moderna y elegante instalada en un barrio que todavía baja las persianas al anochecer.
 
 ## El árbol de mango es la clave de todo
 
@@ -30,15 +32,23 @@ Y luego está la peculiaridad de la que todos hablan: si un mango cae del árbol
 
 ## Cómo llegar
 
-Ballard Estate se sitúa justo al norte de la zona de Fort, a poca distancia de la Chhatrapati Shivaji Maharaj Terminus y del distrito comercial de Fort — una zona que se explora mejor a pie una vez que llegas, ya que la cuadrícula de calles es compacta y la arquitectura (antiguas aduanas, viejas casas comerciales, fachadas Art Déco mezcladas con estilo victoriano gótico) recompensa un paseo lento desde donde te deje el taxi o el auto-rickshaw. El tráfico hacia este rincón del sur de Mumbai puede ser denso durante el horario de oficina entre semana, así que ten en cuenta tiempo extra si vas a primera hora de la tarde.
+Ballard Estate se sitúa justo al norte de la zona de Fort, a poca distancia de la Chhatrapati Shivaji Maharaj Terminus y del distrito comercial de Fort — una zona que se explora mejor a pie una vez que llegas, ya que la cuadrícula de calles es compacta y la arquitectura (antiguas aduanas, viejas casas comerciales, fachadas Art Déco mezcladas con estilo victoriano gótico) recompensa un paseo lento desde donde te deje el taxi o el auto-rickshaw.
+
+El tráfico hacia este rincón del sur de Mumbai puede ser denso durante el horario de oficina entre semana, así que ten en cuenta tiempo extra si vas a primera hora de la tarde.
 
 ## Qué esperar al sentarte
 
-No pudimos confirmar detalles concretos del menú, así que tómalo como un aviso y no como un repaso de platos: espera el tipo de formato de restaurante-bar contemporáneo y con mucho diseño que se ha convertido en la plantilla de las nuevas aperturas de Mumbai — una carta de bebidas cuidada, una cocina que apuesta por platos para compartir, y una sala pensada tanto para quedarse un rato como para comer. Dado el prestigio de sus propietarios y la expectación en torno a la apertura, aquí la presentación y el ambiente son claramente una prioridad. Confirma directamente con el restaurante el horario actual, la política de reservas y el menú antes de ir, ya que todo esto es del tipo de detalle que cambia rápido en un local recién inaugurado.
+No pudimos confirmar detalles concretos del menú, así que tómalo como un aviso y no como un repaso de platos: espera el tipo de formato de restaurante-bar contemporáneo y con mucho diseño que se ha convertido en la plantilla de las nuevas aperturas de Mumbai — una carta de bebidas cuidada, una cocina que apuesta por platos para compartir, y una sala pensada tanto para quedarse un rato como para comer.
+
+Dado el prestigio de sus propietarios y la expectación en torno a la apertura, aquí la presentación y el ambiente son claramente una prioridad. Confirma directamente con el restaurante el horario actual, la política de reservas y el menú antes de ir, ya que todo esto es del tipo de detalle que cambia rápido en un local recién inaugurado.
 
 ## Cómo visitarlo como un local
 
-Reserva con antelación — una apertura nueva vinculada a un nombre conocido del mundo del espectáculo y la hostelería de Mumbai se llena rápido, sobre todo en noches de fin de semana, y Ballard Estate no tiene la densidad de locales para entrar sin reserva que sí tiene, por ejemplo, una calle principal de Bandra, por si te quedas sin mesa. Las noches entre semana, una vez que se ha ido el gentío de oficinistas de la zona, son tu mejor opción para una visita más tranquila y para poder conversar bajo el árbol sin una sala abarrotada. Vístete como lo harías para cualquier bar-restaurante elegante de Mumbai — informal pero cuidado, nada de aire playero. El pago en la escena gastronómica de Mumbai hoy en día es abrumadoramente con tarjeta y UPI, así que no te preocupes por llevar grandes cantidades de efectivo, aunque conviene tener algo a mano para la propina, que suele rondar el 5-10% si el servicio no está ya incluido. El error más común de los visitantes en Ballard Estate en general es tratarlo solo como una parada diurna de paseo patrimonial y pasar por alto que su escena de restaurantes cobra vida específicamente por la noche — planea tu visita a Sweeney como el eje de una salida nocturna, y aprovecha antes para pasear por las calles cercanas mientras aún hay buena luz para ver las fachadas antiguas.
+Reserva con antelación — una apertura nueva vinculada a un nombre conocido del mundo del espectáculo y la hostelería de Mumbai se llena rápido, sobre todo en noches de fin de semana, y Ballard Estate no tiene la densidad de locales para entrar sin reserva que sí tiene, por ejemplo, una calle principal de Bandra, por si te quedas sin mesa.
+
+Las noches entre semana, una vez que se ha ido el gentío de oficinistas de la zona, son tu mejor opción para una visita más tranquila y para poder conversar bajo el árbol sin una sala abarrotada. Vístete como lo harías para cualquier bar-restaurante elegante de Mumbai — informal pero cuidado, nada de aire playero. El pago en la escena gastronómica de Mumbai hoy en día es abrumadoramente con tarjeta y UPI, así que no te preocupes por llevar grandes cantidades de efectivo, aunque conviene tener algo a mano para la propina, que suele rondar el 5-10% si el servicio no está ya incluido.
+
+El error más común de los visitantes en Ballard Estate en general es tratarlo solo como una parada diurna de paseo patrimonial y pasar por alto que su escena de restaurantes cobra vida específicamente por la noche — planea tu visita a Sweeney como el eje de una salida nocturna, y aprovecha antes para pasear por las calles cercanas mientras aún hay buena luz para ver las fachadas antiguas.
 
 ## Más allá del restaurante
 

@@ -32,22 +32,32 @@ country: South Korea
 
 ## Why go
 
-Damyang, a small county in South Jeolla Province about 20-30 minutes north of Gwangju, has been synonymous with bamboo craftsmanship for centuries — bamboo baskets, mats, and fans from this region were once sent as tribute to the royal court. Juknokwon, opened in 2003, turned that legacy into a public park by threading boardwalks and dirt paths through a dense grove of towering moso bamboo (some stalks reach over 10 meters). The rustle of wind through thousands of stalks, the green-tinted light filtering down, and the cool air even in summer make it one of the most atmospheric natural attractions in the country — and a favorite backdrop for Korean dramas and films.
+Damyang, a small county in South Jeolla Province about 20-30 minutes north of Gwangju, has been synonymous with bamboo craftsmanship for centuries — bamboo baskets, mats, and fans from this region were once sent as tribute to the royal court. Juknokwon, opened in 2003, turned that legacy into a public park by threading boardwalks and dirt paths through a dense grove of towering moso bamboo (some stalks reach over 10 meters).
+
+The rustle of wind through thousands of stalks, the green-tinted light filtering down, and the cool air even in summer make it one of the most atmospheric natural attractions in the country — and a favorite backdrop for Korean dramas and films.
 
 ## Getting there
 
-Most visitors base themselves in Gwangju, Korea's sixth-largest city, and take a bus out to Damyang. From Gwangju's U-Square Bus Terminal, intercity buses to Damyang run frequently (roughly every 10-20 minutes) and take about 40-50 minutes depending on traffic and route. From Damyang's own bus terminal, Juknokwon is an easy 10-15 minute walk, or a short taxi ride if you'd rather not walk after a long trip. There's no train station in Damyang itself, so bus is the standard way in — Gwangju Songjeong KTX station connects to U-Square by local bus or taxi if you're arriving from Seoul or Busan. Many day-tour operators and taxi drivers in Gwangju also package Juknokwon with the Metasequoia Road and Soswaewon Garden as a single loop, which is worth considering if you don't want to manage multiple bus transfers.
+Most visitors base themselves in Gwangju, Korea's sixth-largest city, and take a bus out to Damyang. From Gwangju's U-Square Bus Terminal, intercity buses to Damyang run frequently (roughly every 10-20 minutes) and take about 40-50 minutes depending on traffic and route. From Damyang's own bus terminal, Juknokwon is an easy 10-15 minute walk, or a short taxi ride if you'd rather not walk after a long trip.
+
+There's no train station in Damyang itself, so bus is the standard way in — Gwangju Songjeong KTX station connects to U-Square by local bus or taxi if you're arriving from Seoul or Busan. Many day-tour operators and taxi drivers in Gwangju also package Juknokwon with the Metasequoia Road and Soswaewon Garden as a single loop, which is worth considering if you don't want to manage multiple bus transfers.
 
 ## What to see and do
 
-Inside Juknokwon, eight numbered trails (each with a name like "Path of Wisdom" or "Philosopher's Path") wind through the bamboo at slightly different angles, so even a short visit can feel varied. Look for the small ponds, pavilions, and rest platforms tucked into the grove — traditional Korean pavilions (jeongja) dot the paths and are good spots to sit and listen to the bamboo creak in the wind. A lookout deck near the entrance gives a wide view over Damyang town and the surrounding hills. Budget 1.5 to 2 hours to walk most of the trails at an unhurried pace; the full network can be covered in under an hour if you're efficient, but the appeal here is slowing down.
+Inside Juknokwon, eight numbered trails (each with a name like "Path of Wisdom" or "Philosopher's Path") wind through the bamboo at slightly different angles, so even a short visit can feel varied. Look for the small ponds, pavilions, and rest platforms tucked into the grove — traditional Korean pavilions (jeongja) dot the paths and are good spots to sit and listen to the bamboo creak in the wind.
+
+A lookout deck near the entrance gives a wide view over Damyang town and the surrounding hills. Budget 1.5 to 2 hours to walk most of the trails at an unhurried pace; the full network can be covered in under an hour if you're efficient, but the appeal here is slowing down.
 
 Just outside or near the park, look for Damyang's signature dish, **daetongbap** — rice steamed inside a section of bamboo, often served with a small side of makgeolli (rice wine) at restaurants that specialize in it. It's a distinctly regional specialty and worth seeking out over a generic bibimbap lunch.
 
 ## When to go
 
-Bamboo stays green year-round, so Juknokwon is a viable trip in any season, but each has a different mood. Summer (June-August) offers full canopy shade, making the forest noticeably cooler than the open street — a real relief on a hot Jeolla afternoon. Spring and autumn bring more comfortable walking temperatures and clearer light for photos. Winter is quieter with fewer crowds, though the bamboo can look slightly less lush against bare surrounding trees. Early morning on a weekday is the best window to avoid tour groups, especially during Korean holiday weekends when the park draws heavy domestic foot traffic.
+Bamboo stays green year-round, so Juknokwon is a viable trip in any season, but each has a different mood. Summer (June-August) offers full canopy shade, making the forest noticeably cooler than the open street — a real relief on a hot Jeolla afternoon. Spring and autumn bring more comfortable walking temperatures and clearer light for photos. Winter is quieter with fewer crowds, though the bamboo can look slightly less lush against bare surrounding trees.
+
+Early morning on a weekday is the best window to avoid tour groups, especially during Korean holiday weekends when the park draws heavy domestic foot traffic.
 
 ## Nearby & tips
 
-Directly adjacent to Juknokwon is the Damyang Metasequoia-Lined Road, a straight avenue of tall dawn redwoods planted decades ago that's become an Instagram-famous spot in its own right — it's an easy add-on walk. Gwanbangjerim, a riverside forest park along the Yeongsan River with old trees and a pleasant walking path, is also within a short taxi ride of central Damyang. Bring cash in small bills for local snack stalls near the entrance, as not all vendors take cards, and check current admission fees and opening hours online or at the tourist information booth before you go, since these can shift seasonally.
+Directly adjacent to Juknokwon is the Damyang Metasequoia-Lined Road, a straight avenue of tall dawn redwoods planted decades ago that's become an Instagram-famous spot in its own right — it's an easy add-on walk. Gwanbangjerim, a riverside forest park along the Yeongsan River with old trees and a pleasant walking path, is also within a short taxi ride of central Damyang.
+
+Bring cash in small bills for local snack stalls near the entrance, as not all vendors take cards, and check current admission fees and opening hours online or at the tourist information booth before you go, since these can shift seasonally.

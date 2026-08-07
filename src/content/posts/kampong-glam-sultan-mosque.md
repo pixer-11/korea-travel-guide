@@ -59,11 +59,15 @@ Sultan Mosque (Masjid Sultan) is the spiritual and visual centerpiece of Kampong
 
 ## Getting there
 
-The mosque sits at 3 Muscat St, in the pedestrianized heart of Kampong Glam. The easiest approach is Bugis MRT Station (Downtown Line and East-West Line); take Exit C and walk roughly 8-10 minutes north along Arab Street, or Exit D and cut through Haji Lane. Nicoll Highway MRT (Circle Line) is a slightly longer walk from the other side. Multiple SBS Transit bus services run along Victoria Street and Beach Road, both a short walk from the mosque. Taxis and ride-hail can drop off on North Bridge Road, but the surrounding streets are largely car-limited, so plan on walking the last stretch regardless.
+The mosque sits at 3 Muscat St, in the pedestrianized heart of Kampong Glam. The easiest approach is Bugis MRT Station (Downtown Line and East-West Line); take Exit C and walk roughly 8-10 minutes north along Arab Street, or Exit D and cut through Haji Lane. Nicoll Highway MRT (Circle Line) is a slightly longer walk from the other side.
+
+Multiple SBS Transit bus services run along Victoria Street and Beach Road, both a short walk from the mosque. Taxis and ride-hail can drop off on North Bridge Road, but the surrounding streets are largely car-limited, so plan on walking the last stretch regardless.
 
 ## What to see
 
-The prayer hall itself is closed to non-Muslim visitors during prayer times, but the mosque permits guided and self-guided visits outside those windows, with volunteers often on hand near the entrance to answer questions. Look for the onion domes, the grand staircase, and the mix of Persian, Turkish, and Moorish architectural details layered onto the Indo-Saracenic frame. The surrounding courtyard and covered walkways are worth lingering in even if you don't go inside. Just beyond the mosque, Bussorah Street offers a pedestrian promenade with cafes and shops that frames the building nicely for photos, especially looking back from the far end toward the domes. Round out the visit with a walk through the Malay Heritage Centre (in the former Istana Kampong Glam palace grounds), Arab Street's textile and carpet shops, and Haji Lane's boutiques and street art — all within a five-minute walk.
+The prayer hall itself is closed to non-Muslim visitors during prayer times, but the mosque permits guided and self-guided visits outside those windows, with volunteers often on hand near the entrance to answer questions. Look for the onion domes, the grand staircase, and the mix of Persian, Turkish, and Moorish architectural details layered onto the Indo-Saracenic frame. The surrounding courtyard and covered walkways are worth lingering in even if you don't go inside.
+
+Just beyond the mosque, Bussorah Street offers a pedestrian promenade with cafes and shops that frames the building nicely for photos, especially looking back from the far end toward the domes. Round out the visit with a walk through the Malay Heritage Centre (in the former Istana Kampong Glam palace grounds), Arab Street's textile and carpet shops, and Haji Lane's boutiques and street art — all within a five-minute walk.
 
 ## When to go
 
@@ -71,7 +75,11 @@ Weekday mornings shortly after opening tend to be calmest, before tour groups an
 
 ## How to visit like a local
 
-This is a working mosque first and an attraction second, so the etiquette matters more than at a typical sight. Dress modestly — shoulders and knees covered — and expect that robes or sarongs are lent free at the entrance for anyone underdressed; return them where you picked them up. Shoes come off before entering carpeted prayer areas. Keep voices low, avoid pointing feet toward the qibla direction, and ask before photographing worshippers up close. Given the very high visitor volume here, the single biggest local-savvy move is timing: come early on a weekday, not midday and not Friday, if you want space to actually look rather than shuffle through with a tour group. There's no general entry fee at time of writing, though donations are welcomed and appreciated; confirm current visiting hours and any tour schedule with signage at the entrance, since these shift around prayer times and religious holidays. Cash is useful for small donations or nearby hawker stalls, though most shops on Arab Street and Haji Lane now take cards. Don't make the common tourist mistake of treating the courtyard like a generic photo backdrop — a brief pause to read the posted information on the mosque's history goes a long way toward understanding why this particular building, more than any other in Singapore, still functions as the anchor of an entire heritage district.
+This is a working mosque first and an attraction second, so the etiquette matters more than at a typical sight. Dress modestly — shoulders and knees covered — and expect that robes or sarongs are lent free at the entrance for anyone underdressed; return them where you picked them up. Shoes come off before entering carpeted prayer areas. Keep voices low, avoid pointing feet toward the qibla direction, and ask before photographing worshippers up close.
+
+Given the very high visitor volume here, the single biggest local-savvy move is timing: come early on a weekday, not midday and not Friday, if you want space to actually look rather than shuffle through with a tour group. There's no general entry fee at time of writing, though donations are welcomed and appreciated; confirm current visiting hours and any tour schedule with signage at the entrance, since these shift around prayer times and religious holidays.
+
+Cash is useful for small donations or nearby hawker stalls, though most shops on Arab Street and Haji Lane now take cards. Don't make the common tourist mistake of treating the courtyard like a generic photo backdrop — a brief pause to read the posted information on the mosque's history goes a long way toward understanding why this particular building, more than any other in Singapore, still functions as the anchor of an entire heritage district.
 
 ## Nearby stops worth combining
 

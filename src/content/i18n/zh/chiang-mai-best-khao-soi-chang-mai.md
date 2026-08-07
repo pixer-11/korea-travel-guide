@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-best-khao-soi-chang-mai
-srcHash: '3ba307a39d92'
+srcHash: '3f785e832009'
 title: 最佳考素面(Best Khao Soi Chang Mai):清迈美食指南
 description: 前往帕辛(Phra Singh)地区的Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗地道的考素面——这道泰北咖喱面食以酥脆的鸡蛋面条为顶料。
 quickAnswer: 前往帕辛（Phra Singh）地区的Best Khao Soi Chang Mai（地址：1, Tambon Phra Sing, Amphoe Mueang Chiang Mai, 50200），品尝一碗地道的考素面——这道泰北咖喱面食以酥脆的鸡蛋面条为顶料。该店在252条评价中获得4.6的高分，因此可以预见这是一家专注于把这碗面做好、朴实无华、不讲排场的小店。建议傍晚前往——营业时间为平日下午4点至晚上10点，周六下午3点至晚上10点，周日休息——点一份鸡肉或牛肉口味，坐下来好好吃一顿再加点配菜，大约需要30-45分钟。

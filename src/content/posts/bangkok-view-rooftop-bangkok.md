@@ -48,15 +48,21 @@ draft: false
 
 ## Why go
 
-Bangkok's rooftop scene is famous for its sky-high showstoppers — the ones with the vertigo-inducing glass floors and the price tags to match. View Rooftop is the other kind: a 9th-floor terrace bar at the Novotel Bangkok Platinum Pratunam that doesn't try to out-tower anyone. What it does instead is give you an honest, unpretentious slice of the Bangkok skyline — a jumble of shophouse roofs, condo towers, and the neon wash of the Pratunam wholesale-fashion district spreading out below — without the velvet-rope routine. It's become one of the better-reviewed rooftops in the city, and it's easy to see why: the setting is relaxed enough that you can actually linger.
+Bangkok's rooftop scene is famous for its sky-high showstoppers — the ones with the vertigo-inducing glass floors and the price tags to match. View Rooftop is the other kind: a 9th-floor terrace bar at the Novotel Bangkok Platinum Pratunam that doesn't try to out-tower anyone. What it does instead is give you an honest, unpretentious slice of the Bangkok skyline — a jumble of shophouse roofs, condo towers, and the neon wash of the Pratunam wholesale-fashion district spreading out below — without the velvet-rope routine.
+
+It's become one of the better-reviewed rooftops in the city, and it's easy to see why: the setting is relaxed enough that you can actually linger.
 
 ## Getting there
 
-The bar sits inside the Novotel Bangkok Platinum Pratunam at 220 Thanon Phetchaburi, in Ratchathewi district. The closest transit link is BTS Chit Lom or Phaya Thai, both a short taxi or tuk-tuk ride away, but honestly the easiest approach for most visitors is a Grab (Thailand's ride-hailing app) straight to the hotel lobby — traffic on Phetchaburi Road can be slow, so budget extra time in the late afternoon rush. From the lobby, it's a quick lift ride up to the 9th floor. If you're already shopping at Platinum Fashion Mall, the hotel is essentially next door, making this a natural stop to rest your feet mid-spree.
+The bar sits inside the Novotel Bangkok Platinum Pratunam at 220 Thanon Phetchaburi, in Ratchathewi district. The closest transit link is BTS Chit Lom or Phaya Thai, both a short taxi or tuk-tuk ride away, but honestly the easiest approach for most visitors is a Grab (Thailand's ride-hailing app) straight to the hotel lobby — traffic on Phetchaburi Road can be slow, so budget extra time in the late afternoon rush.
+
+From the lobby, it's a quick lift ride up to the 9th floor. If you're already shopping at Platinum Fashion Mall, the hotel is essentially next door, making this a natural stop to rest your feet mid-spree.
 
 ## What to see and do
 
-The draw here isn't a single showpiece view — it's the wraparound feel of being just high enough to see the city stretch out in every direction without craning your neck upward at a taller building next door. By day the terrace doubles as a pool deck, with loungers around the hotel's outdoor pool; by evening the mood shifts, string lighting and low music take over, and the crowd skews toward hotel guests unwinding with a cocktail and visitors who've timed their arrival for the sunset. Order something cold — the cocktail list leans tropical, and there's usually a reasonable wine and beer selection too — and claim a spot at the railing before the tables fill. Food here is more snack-and-drink than destination dining, so if you're after a full dinner, treat this as a pre- or post-meal stop rather than the main event.
+The draw here isn't a single showpiece view — it's the wraparound feel of being just high enough to see the city stretch out in every direction without craning your neck upward at a taller building next door. By day the terrace doubles as a pool deck, with loungers around the hotel's outdoor pool; by evening the mood shifts, string lighting and low music take over, and the crowd skews toward hotel guests unwinding with a cocktail and visitors who've timed their arrival for the sunset.
+
+Order something cold — the cocktail list leans tropical, and there's usually a reasonable wine and beer selection too — and claim a spot at the railing before the tables fill. Food here is more snack-and-drink than destination dining, so if you're after a full dinner, treat this as a pre- or post-meal stop rather than the main event.
 
 ## When to go
 
@@ -64,4 +70,8 @@ Late afternoon into early evening is the sweet spot — arrive with enough dayli
 
 ## How to visit like a local
 
-Frequent rooftop-goers in Bangkok treat these bars as a pre-dinner ritual rather than an all-night destination — arrive for the last hour of daylight, have one or two drinks while the sky changes color, then move on to dinner elsewhere in the city. Payment is almost always by card or QR-code mobile transfer here, as in most Bangkok hotel bars, though it's worth carrying some cash for tuk-tuks or street food on the way. Tipping isn't obligatory but rounding up or leaving small change is appreciated. There's generally no strict reservation system for casual rooftop drinks, but if you're coming as a larger group or around a weekend evening, calling ahead to the hotel avoids any wait for a table. Dress code is smart-casual rather than formal — flip-flops and swimwear (fresh from the pool) are the one thing to avoid. The mistake first-timers make is treating this like one of the mega-tall showpiece bars and expecting a jaw-dropping vertical view; come instead for the relaxed, unhurried atmosphere and the value, and you'll leave satisfied rather than disappointed.
+Frequent rooftop-goers in Bangkok treat these bars as a pre-dinner ritual rather than an all-night destination — arrive for the last hour of daylight, have one or two drinks while the sky changes color, then move on to dinner elsewhere in the city. Payment is almost always by card or QR-code mobile transfer here, as in most Bangkok hotel bars, though it's worth carrying some cash for tuk-tuks or street food on the way.
+
+Tipping isn't obligatory but rounding up or leaving small change is appreciated. There's generally no strict reservation system for casual rooftop drinks, but if you're coming as a larger group or around a weekend evening, calling ahead to the hotel avoids any wait for a table. Dress code is smart-casual rather than formal — flip-flops and swimwear (fresh from the pool) are the one thing to avoid.
+
+The mistake first-timers make is treating this like one of the mega-tall showpiece bars and expecting a jaw-dropping vertical view; come instead for the relaxed, unhurried atmosphere and the value, and you'll leave satisfied rather than disappointed.

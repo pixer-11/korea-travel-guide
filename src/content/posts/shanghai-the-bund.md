@@ -46,22 +46,32 @@ draft: false
 
 ## Why go
 
-The Bund (Waitan) is Shanghai's signature stretch of waterfront, a 1,500-meter promenade running along Zhongshan Dong Yi Road in Huangpu District. Its fame rests on the contrast it offers: on the western side stands a row of over 20 early-20th-century buildings in Gothic, Baroque, Romanesque, and Art Deco styles — remnants of Shanghai's era as a treaty port and international financial hub. On the eastern side, across the Huangpu River, rises Pudong's skyline: the Oriental Pearl Tower, Jin Mao Tower, Shanghai World Financial Center ("the bottle opener"), and the Shanghai Tower, currently among the tallest buildings on earth. Few places pack a clearer visual timeline of the city's transformation into a single sightline.
+The Bund (Waitan) is Shanghai's signature stretch of waterfront, a 1,500-meter promenade running along Zhongshan Dong Yi Road in Huangpu District. Its fame rests on the contrast it offers: on the western side stands a row of over 20 early-20th-century buildings in Gothic, Baroque, Romanesque, and Art Deco styles — remnants of Shanghai's era as a treaty port and international financial hub.
+
+On the eastern side, across the Huangpu River, rises Pudong's skyline: the Oriental Pearl Tower, Jin Mao Tower, Shanghai World Financial Center ("the bottle opener"), and the Shanghai Tower, currently among the tallest buildings on earth. Few places pack a clearer visual timeline of the city's transformation into a single sightline.
 
 ## Getting there
 
-The most convenient stop is **East Nanjing Road Station**, served by Metro Line 2 and Line 10. From there, walk east along Nanjing Road — Shanghai's famous pedestrian shopping street — for roughly 10–15 minutes until it opens onto the river. Alternatively, **Nanjing East Road Station's** exits are signposted toward Waitan (the Bund). Taxis and ride-hailing apps are simple options too, though weekend traffic near the riverfront can be slow; expect drop-off a short walk from the promenade itself due to pedestrian-only sections. The area is flat and walkable, with no admission fee or gate — it's an open public promenade accessible around the clock.
+The most convenient stop is **East Nanjing Road Station**, served by Metro Line 2 and Line 10. From there, walk east along Nanjing Road — Shanghai's famous pedestrian shopping street — for roughly 10–15 minutes until it opens onto the river. Alternatively, **Nanjing East Road Station's** exits are signposted toward Waitan (the Bund). Taxis and ride-hailing apps are simple options too, though weekend traffic near the riverfront can be slow; expect drop-off a short walk from the promenade itself due to pedestrian-only sections.
+
+The area is flat and walkable, with no admission fee or gate — it's an open public promenade accessible around the clock.
 
 ## What to see
 
-Walking north to south (or vice versa), look for these landmarks along the colonial-era row, often called the "Bund architectural cluster": the former **HSBC Building** (1923), noted for its bronze lions and domed lobby mosaics; the **Customs House**, with its clock tower nicknamed "Big Ching" for its Big Ben-style chimes; and the **Peace Hotel** at the corner of Nanjing Road, a 1929 Art Deco landmark still operating as a hotel, with a rooftop bar worth a visit for elevated night views. Historical plaques along the walkway identify many buildings' original tenants — mostly foreign banks, trading houses, and consulates from the 1920s–30s.
+Walking north to south (or vice versa), look for these landmarks along the colonial-era row, often called the "Bund architectural cluster": the former **HSBC Building** (1923), noted for its bronze lions and domed lobby mosaics; the **Customs House**, with its clock tower nicknamed "Big Ching" for its Big Ben-style chimes; and the **Peace Hotel** at the corner of Nanjing Road, a 1929 Art Deco landmark still operating as a hotel, with a rooftop bar worth a visit for elevated night views.
+
+Historical plaques along the walkway identify many buildings' original tenants — mostly foreign banks, trading houses, and consulates from the 1920s–30s.
 
 Across the river, Pudong's towers are best appreciated from the Bund itself rather than up close; the promenade functions as the classic viewing platform for that skyline. For a different vantage point, the **Bund Sightseeing Tunnel** connects to Pudong under the river, or hop on one of the short **Huangpu River cruises** that depart from docks near the Bund, giving a floating view of both banks — worthwhile after dark when both sides are illuminated.
 
 ## When to go
 
-Dusk is the standout time: buildings on the Bund side and the Pudong skyline both light up shortly after sunset, and the transition from daylight to neon is the visual highlight most visitors come for. Arrive 30–45 minutes before sunset to walk the full stretch in daylight, then stay for the illumination. Weekday evenings are noticeably calmer than weekends and Chinese holidays, when the promenade gets crowded. Early morning (before 8am) is the quiet alternative, favored by locals doing tai chi and photographers seeking clear shots without crowds. Spring (April–May) and autumn (October–November) offer the most comfortable walking weather; summer is hot and humid, winter can be windy along the open riverfront.
+Dusk is the standout time: buildings on the Bund side and the Pudong skyline both light up shortly after sunset, and the transition from daylight to neon is the visual highlight most visitors come for. Arrive 30–45 minutes before sunset to walk the full stretch in daylight, then stay for the illumination. Weekday evenings are noticeably calmer than weekends and Chinese holidays, when the promenade gets crowded.
+
+Early morning (before 8am) is the quiet alternative, favored by locals doing tai chi and photographers seeking clear shots without crowds. Spring (April–May) and autumn (October–November) offer the most comfortable walking weather; summer is hot and humid, winter can be windy along the open riverfront.
 
 ## Nearby & tips
 
-Nanjing Road Pedestrian Street connects directly to the Bund's northern end, making it easy to combine shopping and sightseeing in one outing. The Bund Finance Center and nearby Yuyuan Garden / Old City God Temple area (a short taxi ride south) are common pairings for a fuller half-day itinerary. Public benches and railings along the promenade fill up fast at peak viewing times, so those wanting a clear photo spot should stake out a position early. Restrooms and cafés are available in the buildings set back from the water, including some restored heritage sites now housing restaurants and bars with river-facing terraces — a good option for a sit-down view rather than standing at the railing.
+Nanjing Road Pedestrian Street connects directly to the Bund's northern end, making it easy to combine shopping and sightseeing in one outing. The Bund Finance Center and nearby Yuyuan Garden / Old City God Temple area (a short taxi ride south) are common pairings for a fuller half-day itinerary. Public benches and railings along the promenade fill up fast at peak viewing times, so those wanting a clear photo spot should stake out a position early.
+
+Restrooms and cafés are available in the buildings set back from the water, including some restored heritage sites now housing restaurants and bars with river-facing terraces — a good option for a sit-down view rather than standing at the railing.

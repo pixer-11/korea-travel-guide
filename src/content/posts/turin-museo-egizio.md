@@ -56,15 +56,21 @@ draft: false
 
 ## Why go
 
-Walk in off Via Accademia delle Scienze and the first thing that hits you is scale: rows of granite sphinxes and colossal statues of Ramesses II lined up under a soft, gallery-grade light, their basalt surfaces polished smooth by three thousand years and several centuries of museum handling. This isn't a side gallery bolted onto a bigger institution — it's a dedicated Egyptology museum, founded in 1824, and after Cairo's own collection, it's considered the most important assembly of Egyptian material anywhere. You feel that seriousness in the hush of the rooms and the way visitors instinctively lower their voices near the sarcophagi.
+Walk in off Via Accademia delle Scienze and the first thing that hits you is scale: rows of granite sphinxes and colossal statues of Ramesses II lined up under a soft, gallery-grade light, their basalt surfaces polished smooth by three thousand years and several centuries of museum handling. This isn't a side gallery bolted onto a bigger institution — it's a dedicated Egyptology museum, founded in 1824, and after Cairo's own collection, it's considered the most important assembly of Egyptian material anywhere.
+
+You feel that seriousness in the hush of the rooms and the way visitors instinctively lower their voices near the sarcophagi.
 
 ## Getting there
 
-The museum sits in the heart of Turin's historic centre, a few minutes' walk from Piazza Castello and the Palazzo Reale, in a stately 17th-century palazzo that once housed the Turin Academy of Sciences. If you're arriving by public transport, the GTT bus network covers the area well, and it's an easy walk from Porta Nuova or Porta Susa train stations — roughly 15-20 minutes on foot from either, through streets lined with the porticoed arcades Turin is known for. Driving isn't worth the hassle here; the centro storico is largely pedestrianised or tightly restricted, so park on the outskirts and walk in.
+The museum sits in the heart of Turin's historic centre, a few minutes' walk from Piazza Castello and the Palazzo Reale, in a stately 17th-century palazzo that once housed the Turin Academy of Sciences. If you're arriving by public transport, the GTT bus network covers the area well, and it's an easy walk from Porta Nuova or Porta Susa train stations — roughly 15-20 minutes on foot from either, through streets lined with the porticoed arcades Turin is known for.
+
+Driving isn't worth the hassle here; the centro storico is largely pedestrianised or tightly restricted, so park on the outskirts and walk in.
 
 ## What to see
 
-Give yourself two to three hours minimum — this collection rewards slow looking rather than a dash-through. The ground floor's Statuary Gallery is the showstopper: a darkened, almost theatrical hall of black granite and diorite statues of pharaohs and deities, lit so each carved face seems to emerge from shadow. Upstairs, don't rush past the Tomb of Kha and Merit, a virtually intact burial assemblage from Deir el-Medina complete with furniture, clothing, food offerings, and cosmetic jars — it's one of the few places in the world where you get a sense of ordinary domestic life rather than just royal grandeur. The papyrus collection includes fragments of the famous "Turin King List" and early erotic satirical papyri, and the mummy and sarcophagus rooms are genuinely well-curated rather than macabre for shock value, with explanatory panels on mummification techniques and funerary belief systems.
+Give yourself two to three hours minimum — this collection rewards slow looking rather than a dash-through. The ground floor's Statuary Gallery is the showstopper: a darkened, almost theatrical hall of black granite and diorite statues of pharaohs and deities, lit so each carved face seems to emerge from shadow. Upstairs, don't rush past the Tomb of Kha and Merit, a virtually intact burial assemblage from Deir el-Medina complete with furniture, clothing, food offerings, and cosmetic jars — it's one of the few places in the world where you get a sense of ordinary domestic life rather than just royal grandeur.
+
+The papyrus collection includes fragments of the famous "Turin King List" and early erotic satirical papyri, and the mummy and sarcophagus rooms are genuinely well-curated rather than macabre for shock value, with explanatory panels on mummification techniques and funerary belief systems.
 
 ## When to go
 
@@ -72,7 +78,11 @@ With a 4.7 rating built on tens of thousands of reviews, this is one of Turin's 
 
 ## How to visit like a local
 
-Book your ticket online in advance with a timed entry slot — this is standard practice for Turin's major museums now, and it lets you skip the walk-up ticket line entirely. Payment inside is by card as much as cash, and there's no tipping expectation in an Italian state or civic museum context. Note the museum is open every day of the week, including Mondays — though Monday hours differ from the rest of the week — so if you want the full experience, plan your visit for Tuesday through Sunday, and always double-check current opening days and hours on the official site before you go, since these do shift seasonally. The mistake most first-time visitors make is treating this like a quick photo-stop between the Egyptian obelisk outside and Piazza Castello nearby; the collection is dense enough that rushing it means missing the Tomb of Kha, which is easy to overlook if you're moving fast. Wear a layer you can take off — the galleries are climate-controlled and can run cool. If you want context before you go, the museum's own audioguide (available in multiple languages) is worth the small add-on cost rather than relying purely on wall text, since object labels are necessarily brief given how much is on display.
+Book your ticket online in advance with a timed entry slot — this is standard practice for Turin's major museums now, and it lets you skip the walk-up ticket line entirely. Payment inside is by card as much as cash, and there's no tipping expectation in an Italian state or civic museum context. Note the museum is open every day of the week, including Mondays — though Monday hours differ from the rest of the week — so if you want the full experience, plan your visit for Tuesday through Sunday, and always double-check current opening days and hours on the official site before you go, since these do shift seasonally.
+
+The mistake most first-time visitors make is treating this like a quick photo-stop between the Egyptian obelisk outside and Piazza Castello nearby; the collection is dense enough that rushing it means missing the Tomb of Kha, which is easy to overlook if you're moving fast. Wear a layer you can take off — the galleries are climate-controlled and can run cool.
+
+If you want context before you go, the museum's own audioguide (available in multiple languages) is worth the small add-on cost rather than relying purely on wall text, since object labels are necessarily brief given how much is on display.
 
 ## Nearby to combine
 

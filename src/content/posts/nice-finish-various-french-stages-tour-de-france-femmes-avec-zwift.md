@@ -58,11 +58,15 @@ photoless: true
 
 ## Why go
 
-The Tour de France Femmes avec Zwift has quickly become one of the marquee events on the women's cycling calendar, and the 2026 edition (August 1–9) is especially notable for starting outside France entirely — a Grand Départ in Lausanne, Switzerland — before the peloton crosses into France for a route built around two legendary set pieces: a summit finish on Mont Ventoux and a closing stage that ends in Nice on the Côte d'Azur. Watching the Tour roadside costs nothing beyond getting yourself to the route, and it's one of the few elite sporting events where spectators can stand meters from the athletes.
+The Tour de France Femmes avec Zwift has quickly become one of the marquee events on the women's cycling calendar, and the 2026 edition (August 1–9) is especially notable for starting outside France entirely — a Grand Départ in Lausanne, Switzerland — before the peloton crosses into France for a route built around two legendary set pieces: a summit finish on Mont Ventoux and a closing stage that ends in Nice on the Côte d'Azur.
+
+Watching the Tour roadside costs nothing beyond getting yourself to the route, and it's one of the few elite sporting events where spectators can stand meters from the athletes.
 
 ## Getting there
 
-Nice is the easiest base logistically: Nice Côte d'Azur Airport is France's second-busiest, with direct flights from most major European hubs, and the city center sits on a tram and bus network that reaches the Promenade des Anglais in minutes. If you want to catch the race earlier in its French stages or the Ventoux summit finish, plan around Provence — the nearest useful rail hubs are Avignon or Orange, with local buses or a rental car needed to reach the mountain itself, since Ventoux's slopes (Bédoin, Malaucène, and Sault approaches) have no train access. For Lausanne's Grand Départ, Geneva Airport is the nearest international gateway, with a direct train to Lausanne taking under an hour.
+Nice is the easiest base logistically: Nice Côte d'Azur Airport is France's second-busiest, with direct flights from most major European hubs, and the city center sits on a tram and bus network that reaches the Promenade des Anglais in minutes. If you want to catch the race earlier in its French stages or the Ventoux summit finish, plan around Provence — the nearest useful rail hubs are Avignon or Orange, with local buses or a rental car needed to reach the mountain itself, since Ventoux's slopes (Bédoin, Malaucène, and Sault approaches) have no train access.
+
+For Lausanne's Grand Départ, Geneva Airport is the nearest international gateway, with a direct train to Lausanne taking under an hour.
 
 ## What to see (and how to watch)
 

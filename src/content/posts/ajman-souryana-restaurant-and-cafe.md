@@ -82,11 +82,15 @@ Souryana has become one of Ajman's most-reviewed restaurants, and the numbers ba
 
 ## What to eat
 
-Expect the backbone of Levantine grill cooking — shish tawook, kafta, lamb chops, and mixed grill platters served with garlic sauce (toum), pickles, and grilled tomatoes and peppers. Mezze plates like hummus, moutabal (smoky eggplant dip), tabbouleh, and fattoush are worth ordering to start, especially if you're sharing across a table. Souryana's bread — often baked fresh and served warm — is a highlight in its own right, frequently called out in reviews as a reason to return. Shawarma wraps and platters are also a strong pick for a faster, lighter meal if you're not in the mood for a full grill spread. Pair the meal with fresh juice or Arabic coffee to round it out the way locals typically do.
+Expect the backbone of Levantine grill cooking — shish tawook, kafta, lamb chops, and mixed grill platters served with garlic sauce (toum), pickles, and grilled tomatoes and peppers. Mezze plates like hummus, moutabal (smoky eggplant dip), tabbouleh, and fattoush are worth ordering to start, especially if you're sharing across a table. Souryana's bread — often baked fresh and served warm — is a highlight in its own right, frequently called out in reviews as a reason to return.
+
+Shawarma wraps and platters are also a strong pick for a faster, lighter meal if you're not in the mood for a full grill spread. Pair the meal with fresh juice or Arabic coffee to round it out the way locals typically do.
 
 ## Getting there
 
-Souryana sits in Al Nakhil 2, one of Ajman's residential-commercial neighborhoods a short drive from the Ajman Corniche and the city center. Ajman doesn't have a metro system, so the practical options are a taxi or rideshare (Careem or Uber both operate in the emirate), or driving yourself if you're staying in Ajman, Sharjah, or Dubai — the emirate is compact enough that most points in Ajman are within a 10-15 minute drive. If you're coming from Dubai or Sharjah, allow 30-45 minutes depending on traffic on Sheikh Mohammed Bin Zayed Road. Street parking or a nearby lot is typical in Al Nakhil; arrive a little early during peak hours to secure a spot.
+Souryana sits in Al Nakhil 2, one of Ajman's residential-commercial neighborhoods a short drive from the Ajman Corniche and the city center. Ajman doesn't have a metro system, so the practical options are a taxi or rideshare (Careem or Uber both operate in the emirate), or driving yourself if you're staying in Ajman, Sharjah, or Dubai — the emirate is compact enough that most points in Ajman are within a 10-15 minute drive.
+
+If you're coming from Dubai or Sharjah, allow 30-45 minutes depending on traffic on Sheikh Mohammed Bin Zayed Road. Street parking or a nearby lot is typical in Al Nakhil; arrive a little early during peak hours to secure a spot.
 
 ## When to go
 
@@ -94,7 +98,11 @@ Dinner is the peak time here, particularly Thursday and Friday evenings (the sta
 
 ## How to visit like a local
 
-This is a genuinely popular spot rather than a hidden find, so the smart move is managing timing, not seeking secrecy. Weeknight dinners between 6 and 7pm, or a midday weekday lunch, are noticeably calmer than the Thursday-Friday evening crush. If you're set on a weekend dinner, calling ahead or arriving right as the restaurant opens for the evening will save you a wait — large group tables in particular should try to reserve or call ahead given the review volume this place attracts. Payment is straightforward: cards are widely accepted across UAE restaurants at this level, though carrying some cash is still sensible for smaller add-ons or in case of system downtime. Tipping isn't mandatory in the UAE, but rounding up or leaving 10% for good service is common practice and appreciated. Ordering family-style — a few mezze plates plus a mixed grill platter for the table — is how most regulars eat here rather than ordering individual mains, and it's a more economical, sociable way to sample the menu. The most common misstep for first-time visitors is underestimating portion sizes and over-ordering; start with one or two mezze and a shared grill platter, then add more if needed.
+This is a genuinely popular spot rather than a hidden find, so the smart move is managing timing, not seeking secrecy. Weeknight dinners between 6 and 7pm, or a midday weekday lunch, are noticeably calmer than the Thursday-Friday evening crush. If you're set on a weekend dinner, calling ahead or arriving right as the restaurant opens for the evening will save you a wait — large group tables in particular should try to reserve or call ahead given the review volume this place attracts.
+
+Payment is straightforward: cards are widely accepted across UAE restaurants at this level, though carrying some cash is still sensible for smaller add-ons or in case of system downtime. Tipping isn't mandatory in the UAE, but rounding up or leaving 10% for good service is common practice and appreciated. Ordering family-style — a few mezze plates plus a mixed grill platter for the table — is how most regulars eat here rather than ordering individual mains, and it's a more economical, sociable way to sample the menu.
+
+The most common misstep for first-time visitors is underestimating portion sizes and over-ordering; start with one or two mezze and a shared grill platter, then add more if needed.
 
 ## Nearby to pair with your visit
 

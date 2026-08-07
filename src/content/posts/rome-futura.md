@@ -32,17 +32,23 @@ draft: true
 
 ## Why Futura is worth seeking out
 
-Monti has spent the last decade turning from a sleepy, artisan-shop neighborhood into one of Rome's most interesting places to eat, and Futura is the latest evidence of that shift. Opened in 2025 by chef Anastasia Paris, it's a small-format restaurant — just 20 seats — built around an open-air kitchen and a chef's table, so the line between dining room and kitchen essentially disappears. That format has become a signature move for Rome's newer contemporary spots, and Futura's proximity to Retrobottega (one of the restaurants that pioneered this open-kitchen, tasting-menu style in the city) is not a coincidence of geography alone; it signals the kind of ambitious, technique-forward cooking the neighborhood has become known for.
+Monti has spent the last decade turning from a sleepy, artisan-shop neighborhood into one of Rome's most interesting places to eat, and Futura is the latest evidence of that shift. Opened in 2025 by chef Anastasia Paris, it's a small-format restaurant — just 20 seats — built around an open-air kitchen and a chef's table, so the line between dining room and kitchen essentially disappears.
+
+That format has become a signature move for Rome's newer contemporary spots, and Futura's proximity to Retrobottega (one of the restaurants that pioneered this open-kitchen, tasting-menu style in the city) is not a coincidence of geography alone; it signals the kind of ambitious, technique-forward cooking the neighborhood has become known for.
 
 For visitors who've already done the classic trattoria circuit — cacio e pepe in Trastevere, carbonara near Campo de' Fiori — Futura offers a different register: a smaller, more theatrical dining experience where watching the kitchen work is part of the appeal, and where the room itself (intimate, contemporary, deliberately unfussy) reflects a broader trend of chef-driven, design-conscious restaurants opening across central Rome.
 
 ## Getting there
 
-Futura sits on Via Panisperna, the long, sloping street that cuts through the heart of Monti from near the Quirinale down toward Via Cavour. The most convenient access point is **Cavour station on Metro Line B**, a walk of roughly 5–8 minutes uphill into the neighborhood. Alternatively, **Termini station** (Lines A and B, plus regional and high-speed rail) is about a 15-minute walk or a short taxi ride away, which makes Futura an easy add-on for travelers arriving by train or staying near the station. Via Panisperna itself is pedestrian-friendly and lined with vintage shops, wine bars, and small galleries, so it rewards arriving a little early to wander before your seating.
+Futura sits on Via Panisperna, the long, sloping street that cuts through the heart of Monti from near the Quirinale down toward Via Cavour. The most convenient access point is **Cavour station on Metro Line B**, a walk of roughly 5–8 minutes uphill into the neighborhood. Alternatively, **Termini station** (Lines A and B, plus regional and high-speed rail) is about a 15-minute walk or a short taxi ride away, which makes Futura an easy add-on for travelers arriving by train or staying near the station.
+
+Via Panisperna itself is pedestrian-friendly and lined with vintage shops, wine bars, and small galleries, so it rewards arriving a little early to wander before your seating.
 
 ## What to expect
 
-Given the 20-seat count and open kitchen layout, Futura is built for a more immersive meal than a typical neighborhood trattoria — expect to see plating, searing, and finishing touches happen a few feet from your table, especially if you're seated at the chef's table itself. This is a relatively new opening, so specifics like a fixed tasting menu, à la carte pricing, or seasonal rotations aren't yet settled enough to print with confidence. What is clear is the ambition: a contemporary Roman kitchen led by a named chef, in a format designed for close interaction between diners and cooks, in a city where that style still stands out from the surrounding trattorias and pizzerias.
+Given the 20-seat count and open kitchen layout, Futura is built for a more immersive meal than a typical neighborhood trattoria — expect to see plating, searing, and finishing touches happen a few feet from your table, especially if you're seated at the chef's table itself. This is a relatively new opening, so specifics like a fixed tasting menu, à la carte pricing, or seasonal rotations aren't yet settled enough to print with confidence.
+
+What is clear is the ambition: a contemporary Roman kitchen led by a named chef, in a format designed for close interaction between diners and cooks, in a city where that style still stands out from the surrounding trattorias and pizzerias.
 
 Because the space is small, walk-ins are a gamble — reserve ahead, and reconfirm your booking the same day if the restaurant allows it, since compact dining rooms like this tend to have tight turnover and little flexibility for late arrivals.
 

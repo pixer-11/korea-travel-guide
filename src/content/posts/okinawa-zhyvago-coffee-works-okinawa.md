@@ -41,20 +41,32 @@ aiGenerated: true
 
 ## Why go
 
-Zhyvago Coffee Works Okinawa has built a loyal following — a 4.6 rating across more than 1,000 reviews is unusually high for a café — by pairing serious espresso with a setting that feels more Venice Beach than mainland Japan. The industrial-chic interior (exposed concrete, steel fixtures, big glass frontage) opens onto a terrace that faces the water directly, which is the main draw: few coffee shops on the island let you drink a flat white with your feet practically in the sand. It's the kind of place locals bring visitors precisely because it doesn't feel like a typical Japanese kissaten — it's closer to a Melbourne or LA coffee bar transplanted onto Okinawa's west coast.
+Zhyvago Coffee Works Okinawa has built a loyal following — a 4.6 rating across more than 1,000 reviews is unusually high for a café — by pairing serious espresso with a setting that feels more Venice Beach than mainland Japan. The industrial-chic interior (exposed concrete, steel fixtures, big glass frontage) opens onto a terrace that faces the water directly, which is the main draw: few coffee shops on the island let you drink a flat white with your feet practically in the sand.
+
+It's the kind of place locals bring visitors precisely because it doesn't feel like a typical Japanese kissaten — it's closer to a Melbourne or LA coffee bar transplanted onto Okinawa's west coast.
 
 ## Getting there
 
-The shop sits at 9-46 Mihama, Chatan, in the Nakagami District, inside the Distortion Seaside Building on the ground floor. This puts it squarely in and around American Village, Chatan's sprawling waterfront entertainment complex of shops, restaurants, and the landmark Ferris wheel (Sky Max Café). Okinawa has no rail line reaching this part of the island, so a rental car or taxi from Naha is the practical option — figure roughly 30-40 minutes by car from central Naha or Naha Airport depending on traffic, heading north up Route 58. If you're staying in the Chatan/Mihama resort strip already, it's a walkable addition to an evening out. Parking is available around American Village, though spots near the water fill up fast on weekends and during sunset hours.
+The shop sits at 9-46 Mihama, Chatan, in the Nakagami District, inside the Distortion Seaside Building on the ground floor. This puts it squarely in and around American Village, Chatan's sprawling waterfront entertainment complex of shops, restaurants, and the landmark Ferris wheel (Sky Max Café). Okinawa has no rail line reaching this part of the island, so a rental car or taxi from Naha is the practical option — figure roughly 30-40 minutes by car from central Naha or Naha Airport depending on traffic, heading north up Route 58.
+
+If you're staying in the Chatan/Mihama resort strip already, it's a walkable addition to an evening out. Parking is available around American Village, though spots near the water fill up fast on weekends and during sunset hours.
 
 ## What to try
 
-Espresso is the anchor here — expect standard specialty-café options like flat whites, cortados, and pour-overs alongside the espresso classics, plus a rotating case of pastries and light snacks (think croissants, muffins, and simple savory bites rather than a full food menu). Prices sit in the moderate range for Japan, so a coffee and pastry combo won't break a resort-town budget, but it's priced above a convenience-store coffee. This isn't a sit-down-for-hours brunch spot as much as a well-executed coffee bar — plan for a focused visit rather than a full meal.
+Espresso is the anchor here — expect standard specialty-café options like flat whites, cortados, and pour-overs alongside the espresso classics, plus a rotating case of pastries and light snacks (think croissants, muffins, and simple savory bites rather than a full food menu). Prices sit in the moderate range for Japan, so a coffee and pastry combo won't break a resort-town budget, but it's priced above a convenience-store coffee.
+
+This isn't a sit-down-for-hours brunch spot as much as a well-executed coffee bar — plan for a focused visit rather than a full meal.
 
 ## When to go
 
-The terrace is the whole point, so timing matters. Late afternoon into early evening is the sweet spot: the sun drops over the water to the west, and the outdoor seats facing the beach turn into some of the best sunset-watching real estate in Chatan. Mornings are quieter and better if you want actual working space or a calmer coffee without a wait — this being a popular, high-review spot, midday and sunset hours on weekends can mean a queue, especially in peak travel season (spring and summer). Rainy or windy days (Okinawa sees a typhoon season roughly June through October) will push the experience indoors, where the concrete-and-steel interior still holds its own aesthetically.
+The terrace is the whole point, so timing matters. Late afternoon into early evening is the sweet spot: the sun drops over the water to the west, and the outdoor seats facing the beach turn into some of the best sunset-watching real estate in Chatan. Mornings are quieter and better if you want actual working space or a calmer coffee without a wait — this being a popular, high-review spot, midday and sunset hours on weekends can mean a queue, especially in peak travel season (spring and summer).
+
+Rainy or windy days (Okinawa sees a typhoon season roughly June through October) will push the experience indoors, where the concrete-and-steel interior still holds its own aesthetically.
 
 ## Nearby & tips
 
-American Village is immediately around the corner, so a coffee stop pairs naturally with browsing its shops, the Ferris wheel, and its cluster of restaurants and bars. Sunset Beach, a public beach right along the same stretch of coast, is a short walk away and worth combining with your visit if you want to actually get in the water rather than just look at it. Because the café faces the sea directly, ask for terrace seating if it's available — it's the reason to choose this spot over any other coffee bar in Chatan. Cash and card are both generally accepted at cafés of this size in Japan, but carrying some cash is still sensible in case of card system outages, which occasionally happen at smaller Okinawan businesses. If you're driving, note that Route 58 traffic through Chatan can back up in the early evening exactly when everyone else is also heading there for sunset.
+American Village is immediately around the corner, so a coffee stop pairs naturally with browsing its shops, the Ferris wheel, and its cluster of restaurants and bars. Sunset Beach, a public beach right along the same stretch of coast, is a short walk away and worth combining with your visit if you want to actually get in the water rather than just look at it.
+
+Because the café faces the sea directly, ask for terrace seating if it's available — it's the reason to choose this spot over any other coffee bar in Chatan. Cash and card are both generally accepted at cafés of this size in Japan, but carrying some cash is still sensible in case of card system outages, which occasionally happen at smaller Okinawan businesses.
+
+If you're driving, note that Route 58 traffic through Chatan can back up in the early evening exactly when everyone else is also heading there for sunset.

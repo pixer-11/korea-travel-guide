@@ -68,16 +68,19 @@ faq:
     a: Piazza San Carlo, the Egyptian Museum, and the riverside Parco del Valentino are all within easy walking distance, making it simple to combine the Mole with a few hours of central Turin sightseeing.
 aiGenerated: true
 ---
-
 You see it before you see anything else in Turin. From the Po's riverbanks, from the arcaded stretch of Via Roma, even from a train pulling into Porta Nuova, the Mole Antonelliana pokes up over the rooftops like a needle stitched into the sky, its aluminum spire catching the light differently depending on the hour. Up close, the building is stranger and more theatrical than photos suggest — a squat, heavily colonnaded base topped by a dome that keeps rising, tier after tier, until it narrows into that impossibly thin spire. It doesn't look like it should hold together, and for a while, structurally, it barely did.
 
 ## A synagogue that became a monument to cinema
 
-Architect Alessandro Antonelli started this in the 1860s as a synagogue for Turin's Jewish community, then kept redesigning upward, driven by his own obsession with height, until costs spiraled and the city took it over as a civic monument instead. By the time it was finished in 1889, it was briefly the tallest building in Europe. Today the inside houses the National Museum of Cinema, one of the most-reviewed cultural sites in the country and consistently well rated by visitors — a sprawling, theatrical collection of props, posters, early cameras, and optical toys arranged around a vast central hall that opens straight up into the dome itself. You crane your neck and the whole cavity of the building opens above you, red velvet chaise-lounges scattered on the ground floor where visitors lie back to watch clips projected onto the curved ceiling.
+Architect Alessandro Antonelli started this in the 1860s as a synagogue for Turin's Jewish community, then kept redesigning upward, driven by his own obsession with height, until costs spiraled and the city took it over as a civic monument instead. By the time it was finished in 1889, it was briefly the tallest building in Europe. Today the inside houses the National Museum of Cinema, one of the most-reviewed cultural sites in the country and consistently well rated by visitors — a sprawling, theatrical collection of props, posters, early cameras, and optical toys arranged around a vast central hall that opens straight up into the dome itself.
+
+You crane your neck and the whole cavity of the building opens above you, red velvet chaise-lounges scattered on the ground floor where visitors lie back to watch clips projected onto the curved ceiling.
 
 ## The lift, the view, and the vertigo
 
-The reason most people come, though, is the glass panoramic lift that rises through the middle of that same open hall, cables and counterweights visible the whole way, climbing past the drum of the dome to a wraparound terrace roughly 85 meters up. Turin unrolls in every direction from there: the grid of Baroque boulevards below, the Po curling past the hills of the Basilica di Superga, and on a clear winter day, the jagged white wall of the Alps sitting improbably close on the horizon. It's a short ride, maybe a minute, but the terrace itself rewards a slow lap — the wind up there is noticeably sharper than street level, so a layer helps even in shoulder season.
+The reason most people come, though, is the glass panoramic lift that rises through the middle of that same open hall, cables and counterweights visible the whole way, climbing past the drum of the dome to a wraparound terrace roughly 85 meters up. Turin unrolls in every direction from there: the grid of Baroque boulevards below, the Po curling past the hills of the Basilica di Superga, and on a clear winter day, the jagged white wall of the Alps sitting improbably close on the horizon.
+
+It's a short ride, maybe a minute, but the terrace itself rewards a slow lap — the wind up there is noticeably sharper than street level, so a layer helps even in shoulder season.
 
 ## Getting there
 
@@ -85,8 +88,14 @@ The Mole sits on Via Montebello, a five-to-ten-minute walk from Piazza Castello 
 
 ## When to go
 
-Given how popular this landmark has become, timing matters more than most places in the city. Weekdays are calmer across the whole span from opening to 7pm, so a Monday or Wednesday morning visit lets you take the lift without a long wait. Weekends are a different story — expect the heaviest crowds from 11am to 7pm, with the museum's ticket line for the elevator stretching well into the entrance hall. If a weekend is your only option, the window right at opening, 9am, is noticeably quieter, and it lets you beat the crowds before they build through the day.
+Given how popular this landmark has become, timing matters more than most places in the city. Weekdays are calmer across the whole span from opening to 7pm, so a Monday or Wednesday morning visit lets you take the lift without a long wait. Weekends are a different story — expect the heaviest crowds from 11am to 7pm, with the museum's ticket line for the elevator stretching well into the entrance hall.
+
+If a weekend is your only option, the window right at opening, 9am, is noticeably quieter, and it lets you beat the crowds before they build through the day.
 
 ## How to visit like a local
 
-Because this is one of Turin's most-visited sights rather than a quiet find, the smart move is working around the crowds rather than expecting to avoid them. Book your museum and elevator ticket online in advance where possible — the elevator has a separate, timed-entry ticket from general museum admission, and same-day walk-up slots can sell out on weekend afternoons. Payment at the desk is standard card-and-cash Italian retail, no tipping expected. Dress for wind on the terrace regardless of season. The mistake most first-timers make is treating the lift as the whole visit and rushing back out — the cinema museum below deserves at least 45 minutes on its own, with its winding ramp of themed galleries spiraling around the central hall. If you want the terrace closer to sunset without weekend crowds, a weekday early evening is the sweet spot most locals and repeat visitors quietly aim for.
+Because this is one of Turin's most-visited sights rather than a quiet find, the smart move is working around the crowds rather than expecting to avoid them. Book your museum and elevator ticket online in advance where possible — the elevator has a separate, timed-entry ticket from general museum admission, and same-day walk-up slots can sell out on weekend afternoons.
+
+Payment at the desk is standard card-and-cash Italian retail, no tipping expected. Dress for wind on the terrace regardless of season. The mistake most first-timers make is treating the lift as the whole visit and rushing back out — the cinema museum below deserves at least 45 minutes on its own, with its winding ramp of themed galleries spiraling around the central hall.
+
+If you want the terrace closer to sunset without weekend crowds, a weekday early evening is the sweet spot most locals and repeat visitors quietly aim for.

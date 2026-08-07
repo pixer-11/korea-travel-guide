@@ -32,17 +32,23 @@ draft: true
 
 ## Why go
 
-For decades, Formosa Plastics Group — one of Taiwan's largest industrial conglomerates — kept an in-house canteen that fed executives and staff but stayed closed to the public. That kitchen has now opened its doors to outside diners, and the draw is a single dish with a four-decade pedigree: a bone-in beef short rib recipe reportedly refined over 40 years inside the company's internal kitchens. Alongside it sits a beef short rib noodle soup, its broth simmered for three days and served only in limited daily quantities. The appeal here isn't ambiance or novelty plating — it's the rare chance to eat food that was, until recently, essentially private, corporate-only cuisine, now plated for anyone willing to show up.
+For decades, Formosa Plastics Group — one of Taiwan's largest industrial conglomerates — kept an in-house canteen that fed executives and staff but stayed closed to the public. That kitchen has now opened its doors to outside diners, and the draw is a single dish with a four-decade pedigree: a bone-in beef short rib recipe reportedly refined over 40 years inside the company's internal kitchens.
+
+Alongside it sits a beef short rib noodle soup, its broth simmered for three days and served only in limited daily quantities. The appeal here isn't ambiance or novelty plating — it's the rare chance to eat food that was, until recently, essentially private, corporate-only cuisine, now plated for anyone willing to show up.
 
 This is a genuinely trending spot in Taipei's food conversation precisely because of that backstory. Industrial-canteen food with real institutional history is uncommon anywhere, and Formosa Plastics' reputation for internal discipline and quality control has fed curiosity about what its staff have actually been eating all these years.
 
 ## Getting there
 
-FB Kitchen is located in Neihu District, on Taipei's east side — a mixed residential, tech-office, and light-industrial area that's home to many corporate headquarters, Formosa Plastics among them. Neihu is served by the Taipei Metro Wenhu Line (Brown Line); depending on the exact address, stations like Neihu, Dahu Park, or Gangqian are the likely access points, with a taxi or short walk/bus connection to bridge the final stretch, since Neihu's office parks are spread out and not always a straight walk from the metro exit. Because this is a corporate-campus-adjacent property rather than a standalone street-front restaurant, it's worth confirming the precise building and entrance via map pin or a phone call before setting out, and building in extra time versus a typical restaurant visit.
+FB Kitchen is located in Neihu District, on Taipei's east side — a mixed residential, tech-office, and light-industrial area that's home to many corporate headquarters, Formosa Plastics among them. Neihu is served by the Taipei Metro Wenhu Line (Brown Line); depending on the exact address, stations like Neihu, Dahu Park, or Gangqian are the likely access points, with a taxi or short walk/bus connection to bridge the final stretch, since Neihu's office parks are spread out and not always a straight walk from the metro exit.
+
+Because this is a corporate-campus-adjacent property rather than a standalone street-front restaurant, it's worth confirming the precise building and entrance via map pin or a phone call before setting out, and building in extra time versus a typical restaurant visit.
 
 ## What to see / eat
 
-The headline order is the bone-in beef short rib — the dish with the 40-year lineage, and the reason most people are making the trip. Pair it, if available, with the beef short rib noodle soup, distinguished by its broth, which is slow-cooked over three days for depth and richness. This soup is served in daily-limited quantities, meaning it can sell out, so it's not a dish to plan around arriving late for. Beyond these two anchor items, treat the rest of the menu as a discovery — this is a former private canteen turned public restaurant, and specifics like a full menu, pricing, or combo sets aren't reliably documented yet, so go in ready to ask staff what's on offer that day rather than expecting a fixed public menu ahead of time.
+The headline order is the bone-in beef short rib — the dish with the 40-year lineage, and the reason most people are making the trip. Pair it, if available, with the beef short rib noodle soup, distinguished by its broth, which is slow-cooked over three days for depth and richness. This soup is served in daily-limited quantities, meaning it can sell out, so it's not a dish to plan around arriving late for.
+
+Beyond these two anchor items, treat the rest of the menu as a discovery — this is a former private canteen turned public restaurant, and specifics like a full menu, pricing, or combo sets aren't reliably documented yet, so go in ready to ask staff what's on offer that day rather than expecting a fixed public menu ahead of time.
 
 ## When to go
 
@@ -50,4 +56,6 @@ Lunch is the natural window for a canteen-style kitchen like this, especially si
 
 ## Nearby & tips
 
-Neihu is not a classic tourist district — it's a business and tech hub — so pair a visit here with practical Taipei sightseeing rather than expecting boutique shopping streets nearby. The Neihu Science Park and Dahu Park (a quiet lake park good for a post-meal walk) are both in the general area and make sensible bookends to a visit. Because this is a recently opened operation transitioning from private to public use, opening hours, days of operation, and reservation policies are the details most likely to shift — confirm all of these directly (via phone, official social channels, or a delivery/reservation platform) shortly before you go, rather than relying on secondhand listings.
+Neihu is not a classic tourist district — it's a business and tech hub — so pair a visit here with practical Taipei sightseeing rather than expecting boutique shopping streets nearby. The Neihu Science Park and Dahu Park (a quiet lake park good for a post-meal walk) are both in the general area and make sensible bookends to a visit.
+
+Because this is a recently opened operation transitioning from private to public use, opening hours, days of operation, and reservation policies are the details most likely to shift — confirm all of these directly (via phone, official social channels, or a delivery/reservation platform) shortly before you go, rather than relying on secondhand listings.

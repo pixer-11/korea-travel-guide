@@ -71,19 +71,29 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come up from the riverside path and the first thing you see is stone — grey, weathered, stacked in long curving courses that follow the natural bend of the Namgang River rather than fighting it. That's the tell that this wall is old and rebuilt many times: 1,760 meters of it, tracing the original medieval perimeter, with the modern city humming on one side and the slow green water on the other. Locals just call it Jinjuseong — "seong" simply meaning fortress — and it doesn't need a foreign name to feel monumental.
+You come up from the riverside path and the first thing you see is stone — grey, weathered, stacked in long curving courses that follow the natural bend of the Namgang River rather than fighting it. That's the tell that this wall is old and rebuilt many times: 1,760 meters of it, tracing the original medieval perimeter, with the modern city humming on one side and the slow green water on the other.
+
+Locals just call it Jinjuseong — "seong" simply meaning fortress — and it doesn't need a foreign name to feel monumental.
 
 ## Why go
 
-This isn't a reconstructed film-set castle with a single keep and a gift shop. Jinjuseong is a walkable historical district: stone ramparts you climb onto and walk along, several restored pavilions, shaded lawns where families spread out mats, and the Gyeongnam National University-run museum that lays out the fortress's role in the brutal 16th-century Imjin War sieges against Japanese forces. The pavilion Chokseongnu, perched on a rock outcrop directly above the river, is the visual anchor — its wooden eaves framed against the water below are the image most people carry out with them. There's also a shrine and monument to Nongae, the gisaeng who, according to well-known local history, leapt into the river with an enemy general to keep him from escaping after the city fell in 1593. Whether or not you know the story going in, the plaque and the small pavilion marking the spot make it stick.
+This isn't a reconstructed film-set castle with a single keep and a gift shop. Jinjuseong is a walkable historical district: stone ramparts you climb onto and walk along, several restored pavilions, shaded lawns where families spread out mats, and the Gyeongnam National University-run museum that lays out the fortress's role in the brutal 16th-century Imjin War sieges against Japanese forces.
+
+The pavilion Chokseongnu, perched on a rock outcrop directly above the river, is the visual anchor — its wooden eaves framed against the water below are the image most people carry out with them. There's also a shrine and monument to Nongae, the gisaeng who, according to well-known local history, leapt into the river with an enemy general to keep him from escaping after the city fell in 1593.
+
+Whether or not you know the story going in, the plaque and the small pavilion marking the spot make it stick.
 
 ## Getting there
 
-Jinju itself is reached most easily by intercity bus from Seoul, Busan, or Daegu into Jinju Intercity Bus Terminal, or by train to Jinju Station on the Gyeongjeon Line. From either arrival point, the fortress sits close to the city center on the north bank of the Namgang River, at 626 Namgang-ro — a short taxi ride or a 15–20 minute walk from the bus terminal area. There's no subway system in Jinju, so local buses or a taxi are your practical options once you're in town; ask your accommodation which local bus line runs closest, since routes shift.
+Jinju itself is reached most easily by intercity bus from Seoul, Busan, or Daegu into Jinju Intercity Bus Terminal, or by train to Jinju Station on the Gyeongjeon Line. From either arrival point, the fortress sits close to the city center on the north bank of the Namgang River, at 626 Namgang-ro — a short taxi ride or a 15–20 minute walk from the bus terminal area.
+
+There's no subway system in Jinju, so local buses or a taxi are your practical options once you're in town; ask your accommodation which local bus line runs closest, since routes shift.
 
 ## What to see and do inside
 
-Give yourself 1.5 to 2 hours, more if you want to sit by the river or read every museum panel. Walk the wall itself first — it's the spine of the whole visit and gives you sweeping views down onto the water and across to the modern skyline. Chokseongnu pavilion is worth lingering at rather than photographing and moving on; it's where the fortress's identity as both a military site and a place of grief and memory comes together. The Gyeongnam National University Museum inside the grounds houses artifacts from the sieges and is a good, air-conditioned pause if you're visiting in summer heat. Come the Jinju Namgang Yudeung (Lantern) Festival, typically held in autumn, the fortress grounds and the river below fill with floating paper lanterns — a completely different atmosphere from a quiet weekday walk, and worth timing your trip around if festivals interest you.
+Give yourself 1.5 to 2 hours, more if you want to sit by the river or read every museum panel. Walk the wall itself first — it's the spine of the whole visit and gives you sweeping views down onto the water and across to the modern skyline. Chokseongnu pavilion is worth lingering at rather than photographing and moving on; it's where the fortress's identity as both a military site and a place of grief and memory comes together.
+
+The Gyeongnam National University Museum inside the grounds houses artifacts from the sieges and is a good, air-conditioned pause if you're visiting in summer heat. Come the Jinju Namgang Yudeung (Lantern) Festival, typically held in autumn, the fortress grounds and the river below fill with floating paper lanterns — a completely different atmosphere from a quiet weekday walk, and worth timing your trip around if festivals interest you.
 
 ## When to go
 
@@ -91,4 +101,6 @@ The fortress keeps the same hours every day of the week, 9am to 6pm, so there's 
 
 ## How to visit like a local
 
-This is a well-known, well-visited site in Jinju, not an undiscovered corner, so the useful local skill here is timing rather than secrecy. Go early — 9am on any day, or before 10am specifically if it's a weekend — and you'll have the wall-top paths and Chokseongnu's viewpoint largely to yourself before tour groups and families arrive. Entry to Korean historical sites like this is typically a modest admission fee, paid in cash or by card at a small ticket booth near the main gate; confirm the current price on arrival since these do get periodically adjusted. Wear shoes with grip — the stone steps up onto the ramparts are uneven and can be slick after rain. The mistake most visitors make is treating this as a 20-minute photo stop; the site rewards a slower loop that includes the museum and the Nongae shrine, not just the postcard view from the pavilion. Combine it with a walk along the riverside park just outside the walls, where locals jog and cycle in the evening, for a fuller sense of how the fortress sits inside the living city rather than apart from it.
+This is a well-known, well-visited site in Jinju, not an undiscovered corner, so the useful local skill here is timing rather than secrecy. Go early — 9am on any day, or before 10am specifically if it's a weekend — and you'll have the wall-top paths and Chokseongnu's viewpoint largely to yourself before tour groups and families arrive. Entry to Korean historical sites like this is typically a modest admission fee, paid in cash or by card at a small ticket booth near the main gate; confirm the current price on arrival since these do get periodically adjusted.
+
+Wear shoes with grip — the stone steps up onto the ramparts are uneven and can be slick after rain. The mistake most visitors make is treating this as a 20-minute photo stop; the site rewards a slower loop that includes the museum and the Nongae shrine, not just the postcard view from the pavilion. Combine it with a walk along the riverside park just outside the walls, where locals jog and cycle in the evening, for a fuller sense of how the fortress sits inside the living city rather than apart from it.

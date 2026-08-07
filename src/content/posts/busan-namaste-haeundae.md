@@ -59,11 +59,15 @@ Busan's Haeundae district is best known for its wide sandy beach, seafood stalls
 
 ## Getting there
 
-The restaurant sits at 7 Haeundaehaebyeon-ro 265beon-gil, a small lane in the Haeundae-gu area, an easy walk from the beachfront. The closest subway stop is Haeundae Station on Busan Metro Line 2 (Exit 5), from which it's roughly a 10 to 15 minute walk toward the shoreline, passing through the cluster of motels, cafés, and convenience stores that fill this part of the district. If you're coming straight from the sand, the restaurant is set back just a block or two from the main Haeundae Beach promenade, making it a convenient midday break from sunbathing or a post-swim dinner stop. Taxis are plentiful along the beach road if you'd rather skip the walk, especially in summer heat.
+The restaurant sits at 7 Haeundaehaebyeon-ro 265beon-gil, a small lane in the Haeundae-gu area, an easy walk from the beachfront. The closest subway stop is Haeundae Station on Busan Metro Line 2 (Exit 5), from which it's roughly a 10 to 15 minute walk toward the shoreline, passing through the cluster of motels, cafés, and convenience stores that fill this part of the district.
+
+If you're coming straight from the sand, the restaurant is set back just a block or two from the main Haeundae Beach promenade, making it a convenient midday break from sunbathing or a post-swim dinner stop. Taxis are plentiful along the beach road if you'd rather skip the walk, especially in summer heat.
 
 ## What to eat
 
-Expect a menu built around North Indian tandoori classics and Nepali-influenced curries: butter chicken, chicken tikka masala, saag paneer, and various dal preparations show up often in reviews, alongside freshly baked naan (garlic and cheese versions are common crowd-pleasers) and tandoori-grilled meats. Vegetarian and vegan diners tend to have an easier time here than at most Korean restaurants nearby, since paneer- and lentil-based dishes are core to the menu rather than an afterthought. Portions are generally sized for sharing, so a table of two or three ordering a couple of curries, a naan basket, and rice is a common approach. With a moderate price level, it sits comfortably between cheap street food and a splurge dinner — reasonable for the quality and portion sizes reported.
+Expect a menu built around North Indian tandoori classics and Nepali-influenced curries: butter chicken, chicken tikka masala, saag paneer, and various dal preparations show up often in reviews, alongside freshly baked naan (garlic and cheese versions are common crowd-pleasers) and tandoori-grilled meats. Vegetarian and vegan diners tend to have an easier time here than at most Korean restaurants nearby, since paneer- and lentil-based dishes are core to the menu rather than an afterthought.
+
+Portions are generally sized for sharing, so a table of two or three ordering a couple of curries, a naan basket, and rice is a common approach. With a moderate price level, it sits comfortably between cheap street food and a splurge dinner — reasonable for the quality and portion sizes reported.
 
 ## When to go
 
@@ -71,8 +75,12 @@ Haeundae is at its busiest from late morning through evening in summer (July–A
 
 ## Nearby things to pair with your meal
 
-Haeundae Beach itself is the obvious anchor — a walk along the 1.5km stretch of sand, especially near sunset, pairs naturally with a curry dinner afterward. Dalmaji-gil, the coastal road winding up toward Songjeong, offers cafés and sea views if you want a walk to work off the meal. The Haeundae Traditional Market and the SEA LIFE Busan Aquarium are both within easy walking distance for an afternoon combined with your visit. If you're extending your day, the Busan X the Sky observation deck and the Dongbaekseom coastal trail are both a short taxi ride away.
+Haeundae Beach itself is the obvious anchor — a walk along the 1.5km stretch of sand, especially near sunset, pairs naturally with a curry dinner afterward. Dalmaji-gil, the coastal road winding up toward Songjeong, offers cafés and sea views if you want a walk to work off the meal. The Haeundae Traditional Market and the SEA LIFE Busan Aquarium are both within easy walking distance for an afternoon combined with your visit.
+
+If you're extending your day, the Busan X the Sky observation deck and the Dongbaekseom coastal trail are both a short taxi ride away.
 
 ## How to visit like a local
 
-Because this restaurant draws a loyal crowd rather than only passing tourists, expect it to be genuinely busy at peak meal times — arriving slightly off-hour (early lunch or dinner before 6:30pm) is the simplest way to avoid a queue rather than assuming it'll be quiet. Card and mobile payment are standard across Busan restaurants, including here, so don't worry about carrying large amounts of cash, though it's wise to have some on hand as backup. Tipping is not expected or practiced in South Korea, so skip it. If the small dining room is full, consider takeout or delivery, both of which are common for this kind of spot in Haeundae. A common visitor mistake is treating this as a five-minute stop between beach activities — dishes are cooked to order, so build in real time rather than rushing.
+Because this restaurant draws a loyal crowd rather than only passing tourists, expect it to be genuinely busy at peak meal times — arriving slightly off-hour (early lunch or dinner before 6:30pm) is the simplest way to avoid a queue rather than assuming it'll be quiet. Card and mobile payment are standard across Busan restaurants, including here, so don't worry about carrying large amounts of cash, though it's wise to have some on hand as backup.
+
+Tipping is not expected or practiced in South Korea, so skip it. If the small dining room is full, consider takeout or delivery, both of which are common for this kind of spot in Haeundae. A common visitor mistake is treating this as a five-minute stop between beach activities — dishes are cooked to order, so build in real time rather than rushing.

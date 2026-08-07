@@ -66,15 +66,21 @@ Okinawa's dining scene leans heavily on goya champuru, Okinawa soba, and taco ri
 
 ## Getting there
 
-The restaurant sits on the 3rd floor of a building at 51-2 Mihama, Chatan, in the Nakagami District — right in the heart of American Village (Depot Island), one of Okinawa's best-known shopping and entertainment zones on the central-west coast, a short drive north of Naha. American Village is packed with parking garages and pay lots, so driving a rental car is the most practical way to arrive; Okinawa's public transit network is limited and there's no train line running through Chatan. From Naha Airport, expect roughly 30–40 minutes by car depending on traffic. If you're staying at one of the resort hotels along the Chatan or Onna coastline, a taxi or hotel shuttle into American Village is usually straightforward. Because the restaurant is on an upper floor, look for building signage at street level directing you to the elevator rather than a ground-floor entrance.
+The restaurant sits on the 3rd floor of a building at 51-2 Mihama, Chatan, in the Nakagami District — right in the heart of American Village (Depot Island), one of Okinawa's best-known shopping and entertainment zones on the central-west coast, a short drive north of Naha. American Village is packed with parking garages and pay lots, so driving a rental car is the most practical way to arrive; Okinawa's public transit network is limited and there's no train line running through Chatan.
+
+From Naha Airport, expect roughly 30–40 minutes by car depending on traffic. If you're staying at one of the resort hotels along the Chatan or Onna coastline, a taxi or hotel shuttle into American Village is usually straightforward. Because the restaurant is on an upper floor, look for building signage at street level directing you to the elevator rather than a ground-floor entrance.
 
 ## What to eat
 
-The draw is the steam counter itself. Typical picks include snow crab legs, whole shrimp, clams, mussels, and scallops, often sold by weight or piece so you can build a plate that matches your appetite and budget. Many visitors order a base of shellfish first, then return to the counter for seconds once they see how the steaming works. Sauces and dipping condiments — garlic butter, ponzu, or a citrus-soy blend common in Okinawan cooking — are typically available table-side to season the steamed seafood simply, letting the crab and shellfish flavor lead. Because pricing here depends on live seafood market weight, treat any number you see in advance as approximate and confirm current pricing on-site before ordering a large spread.
+The draw is the steam counter itself. Typical picks include snow crab legs, whole shrimp, clams, mussels, and scallops, often sold by weight or piece so you can build a plate that matches your appetite and budget. Many visitors order a base of shellfish first, then return to the counter for seconds once they see how the steaming works. Sauces and dipping condiments — garlic butter, ponzu, or a citrus-soy blend common in Okinawan cooking — are typically available table-side to season the steamed seafood simply, letting the crab and shellfish flavor lead.
+
+Because pricing here depends on live seafood market weight, treat any number you see in advance as approximate and confirm current pricing on-site before ordering a large spread.
 
 ## When to go
 
-Expect a wait, especially at dinner and on weekends — this is one of the busiest seafood spots in the American Village area, and lines are a known feature of the experience, not an exception. Arriving right at opening for lunch, or coming on a weekday afternoon, is the best way to shorten the wait. If you can, ask about reservations or a call-ahead waitlist system, since availability and process can shift over time. Pair the meal with an evening stroll through American Village afterward — the Sunset Beach boardwalk and the giant Ferris wheel nearby make a natural follow-up, especially if you time dinner for sunset over the East China Sea.
+Expect a wait, especially at dinner and on weekends — this is one of the busiest seafood spots in the American Village area, and lines are a known feature of the experience, not an exception. Arriving right at opening for lunch, or coming on a weekday afternoon, is the best way to shorten the wait. If you can, ask about reservations or a call-ahead waitlist system, since availability and process can shift over time.
+
+Pair the meal with an evening stroll through American Village afterward — the Sunset Beach boardwalk and the giant Ferris wheel nearby make a natural follow-up, especially if you time dinner for sunset over the East China Sea.
 
 ## Nearby & tips
 

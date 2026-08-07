@@ -29,16 +29,21 @@ faq:
 aiGenerated: true
 draft: true
 ---
+You feel the shift the moment you turn off the traffic-choked stretch of Mahalaxmi and pass through the gates of the Royal Western India Turf Club. Outside, it's auto-rickshaws, honking, the smell of the flower market drifting over from Dadar. Inside, the noise falls away and you're suddenly walking a path lined with clipped hedges toward a fountain that looks like it belongs in a much older, much grander building.
 
-You feel the shift the moment you turn off the traffic-choked stretch of Mahalaxmi and pass through the gates of the Royal Western India Turf Club. Outside, it's auto-rickshaws, honking, the smell of the flower market drifting over from Dadar. Inside, the noise falls away and you're suddenly walking a path lined with clipped hedges toward a fountain that looks like it belongs in a much older, much grander building. This is Soraia — Mumbai's newest attempt to reinvent what a "club" in this city can look like, and one of the more talked-about openings feeding into what's being called the city's emerging club landscape heading into 2026.
+This is Soraia — Mumbai's newest attempt to reinvent what a "club" in this city can look like, and one of the more talked-about openings feeding into what's being called the city's emerging club landscape heading into 2026.
 
 ## Why Soraia stands out
 
-What makes Soraia worth the detour isn't just that it's new — Mumbai gets new restaurants and lounges constantly — it's the setting and the design pedigree. The space was conceived by Gauri Khan, whose interiors work across the city (from restaurants to private homes) tends toward the maximalist and the photogenic, and it shows here in the layering of indoor and alfresco zones. You move from an air-conditioned interior with the kind of considered lighting that makes everyone look good, out through glass or open thresholds into a green, fountain-anchored courtyard that would otherwise feel entirely out of place a few hundred metres from a racecourse grandstand. The juxtaposition — turf club colonial bones dressed up with a contemporary, almost tropical-garden entrance — is the whole point.
+What makes Soraia worth the detour isn't just that it's new — Mumbai gets new restaurants and lounges constantly — it's the setting and the design pedigree. The space was conceived by Gauri Khan, whose interiors work across the city (from restaurants to private homes) tends toward the maximalist and the photogenic, and it shows here in the layering of indoor and alfresco zones.
+
+You move from an air-conditioned interior with the kind of considered lighting that makes everyone look good, out through glass or open thresholds into a green, fountain-anchored courtyard that would otherwise feel entirely out of place a few hundred metres from a racecourse grandstand. The juxtaposition — turf club colonial bones dressed up with a contemporary, almost tropical-garden entrance — is the whole point.
 
 ## Getting there
 
-Soraia sits within the grounds of the Royal Western India Turf Club in Mahalaxmi, one of South Mumbai's more distinctive addresses thanks to the racecourse itself, the Mahalaxmi Temple nearby, and the Arabian Sea views from the higher points of the club grounds. Mahalaxmi railway station on the Western Line is the easiest landmark to navigate by, a short auto ride from the turf club gates. If you're coming from Bandra, Worli or South Mumbai proper, a cab is the simpler option given how spread out the turf club compound is and how little signage helps once you're inside it — tell your driver "Royal Western India Turf Club, Mahalaxmi" rather than just the venue name, since Soraia is a newer addition and not every driver will know it yet.
+Soraia sits within the grounds of the Royal Western India Turf Club in Mahalaxmi, one of South Mumbai's more distinctive addresses thanks to the racecourse itself, the Mahalaxmi Temple nearby, and the Arabian Sea views from the higher points of the club grounds. Mahalaxmi railway station on the Western Line is the easiest landmark to navigate by, a short auto ride from the turf club gates.
+
+If you're coming from Bandra, Worli or South Mumbai proper, a cab is the simpler option given how spread out the turf club compound is and how little signage helps once you're inside it — tell your driver "Royal Western India Turf Club, Mahalaxmi" rather than just the venue name, since Soraia is a newer addition and not every driver will know it yet.
 
 ## What to expect once you're inside
 
@@ -50,4 +55,6 @@ Evenings are clearly what this space is built for — the lighting design and th
 
 ## How to visit like a local
 
-Book ahead rather than walking in — clubs and restaurants tied to fresh, high-profile design openings in Mumbai fill up fast on word of mouth alone, and turf club access can also mean navigating gate protocols you won't know about until you're standing there. Call or check Soraia's official channels for the day's hours, reservation policy and any dress code before you set out, since venues inside private club grounds often have entry rules that differ from a standalone restaurant. Dress smart — this isn't a flip-flops-and-shorts kind of courtyard even though it's outdoors. Payment across Mumbai's upscale dining scene is overwhelmingly by card or UPI, so don't assume you'll need cash. And the most common mistake with new, design-forward openings like this: treating it purely as a restaurant. Budget time to actually walk the space — the fountain entrance and the indoor-outdoor flow are as much the draw as anything on a plate.
+Book ahead rather than walking in — clubs and restaurants tied to fresh, high-profile design openings in Mumbai fill up fast on word of mouth alone, and turf club access can also mean navigating gate protocols you won't know about until you're standing there. Call or check Soraia's official channels for the day's hours, reservation policy and any dress code before you set out, since venues inside private club grounds often have entry rules that differ from a standalone restaurant.
+
+Dress smart — this isn't a flip-flops-and-shorts kind of courtyard even though it's outdoors. Payment across Mumbai's upscale dining scene is overwhelmingly by card or UPI, so don't assume you'll need cash. And the most common mistake with new, design-forward openings like this: treating it purely as a restaurant. Budget time to actually walk the space — the fountain entrance and the indoor-outdoor flow are as much the draw as anything on a plate.

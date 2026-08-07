@@ -74,7 +74,9 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come through a plain stone doorway off a gravel path, past a guard checking tickets against passports, and the noise of the Alhambra's gardens falls away. Inside, the Mexuar hall is dim and cool, its wooden ceiling blackened with age, and it takes a second for your eyes to adjust before you notice the inscriptions running around the walls — repeating bands of Arabic script that read, over and over, "There is no victor but God." That single phrase, carved into plaster thousands of times across the complex, tells you more about the Nasrid dynasty's precarious 250-year hold on Granada than any placard could.
+You come through a plain stone doorway off a gravel path, past a guard checking tickets against passports, and the noise of the Alhambra's gardens falls away. Inside, the Mexuar hall is dim and cool, its wooden ceiling blackened with age, and it takes a second for your eyes to adjust before you notice the inscriptions running around the walls — repeating bands of Arabic script that read, over and over, "There is no victor but God."
+
+That single phrase, carved into plaster thousands of times across the complex, tells you more about the Nasrid dynasty's precarious 250-year hold on Granada than any placard could.
 
 ## Why the Nasrid Palaces matter
 
@@ -82,11 +84,15 @@ This is the surviving royal residence of the Nasrid sultans, the last Muslim dyn
 
 ## Getting there and getting in
 
-The palaces sit inside the Alhambra complex, on the hill above Granada's Albaicín, at C. Real de la Alhambra, s/n. From Plaza Nueva in the city centre, it's a steep 20–25 minute walk up Cuesta de Gomérez, or you can take the C3 minibus, which loops up from Plaza Nueva and Plaza Isabel la Católica directly to the Alhambra gate. The single detail that matters most: your ticket lists a specific half-hour window for Nasrid Palaces entry, separate from your general Alhambra admission, and staff enforce it strictly — arrive even 15 minutes late and you may be turned away. Book through the official Alhambra ticketing system as far ahead as you can; slots for the palaces routinely sell out days or weeks in advance, especially in spring and autumn.
+The palaces sit inside the Alhambra complex, on the hill above Granada's Albaicín, at C. Real de la Alhambra, s/n. From Plaza Nueva in the city centre, it's a steep 20–25 minute walk up Cuesta de Gomérez, or you can take the C3 minibus, which loops up from Plaza Nueva and Plaza Isabel la Católica directly to the Alhambra gate.
+
+The single detail that matters most: your ticket lists a specific half-hour window for Nasrid Palaces entry, separate from your general Alhambra admission, and staff enforce it strictly — arrive even 15 minutes late and you may be turned away. Book through the official Alhambra ticketing system as far ahead as you can; slots for the palaces routinely sell out days or weeks in advance, especially in spring and autumn.
 
 ## What to see inside
 
-Beyond the Mexuar and the Comares Palace (home to the Court of the Myrtles and the Hall of the Ambassadors, the sultan's throne room), you pass into the later Palace of the Lions. Look up in the Hall of the Two Sisters and the Hall of the Abencerrajes for the muqarnas ceilings — thousands of small carved niches that catch the light differently as you move underneath them. Give the palaces a focused hour, though most visitors linger 90 minutes to two hours once you fold in the adjoining Partal gardens, where a rectangular pool mirrors a small pavilion and the crowds thin out noticeably.
+Beyond the Mexuar and the Comares Palace (home to the Court of the Myrtles and the Hall of the Ambassadors, the sultan's throne room), you pass into the later Palace of the Lions. Look up in the Hall of the Two Sisters and the Hall of the Abencerrajes for the muqarnas ceilings — thousands of small carved niches that catch the light differently as you move underneath them.
+
+Give the palaces a focused hour, though most visitors linger 90 minutes to two hours once you fold in the adjoining Partal gardens, where a rectangular pool mirrors a small pavilion and the crowds thin out noticeably.
 
 ## When to go
 
@@ -94,4 +100,6 @@ The complex opens at 8am, and that first morning stretch is measurably the quiet
 
 ## How to visit like a local
 
-Book your entry the moment you have firm travel dates — Granada residents and repeat visitors know these tickets are the hardest part of the whole visit, not the walking. Bring the same ID used for booking; it's checked against every ticket at the gate. Head straight for your timed Nasrid Palaces slot first rather than wandering the Alcazaba or gardens beforehand, since missing the window means losing that portion of your ticket entirely. Inside, keep moving with the flow of foot traffic through the narrow doorways — pausing to photograph blocks the single-file route through rooms like the Hall of the Ambassadors. Pay for tickets online in advance rather than hoping for same-day sales at the gate, which are rare and unreliable. And once you exit into the Partal gardens, most visitors peel off quickly toward the Generalife or the exit — stay another ten minutes by the long pool here, where the crowd noise drops and the views back toward the palace walls are some of the best in the whole complex.
+Book your entry the moment you have firm travel dates — Granada residents and repeat visitors know these tickets are the hardest part of the whole visit, not the walking. Bring the same ID used for booking; it's checked against every ticket at the gate. Head straight for your timed Nasrid Palaces slot first rather than wandering the Alcazaba or gardens beforehand, since missing the window means losing that portion of your ticket entirely.
+
+Inside, keep moving with the flow of foot traffic through the narrow doorways — pausing to photograph blocks the single-file route through rooms like the Hall of the Ambassadors. Pay for tickets online in advance rather than hoping for same-day sales at the gate, which are rare and unreliable. And once you exit into the Partal gardens, most visitors peel off quickly toward the Generalife or the exit — stay another ten minutes by the long pool here, where the crowd noise drops and the views back toward the palace walls are some of the best in the whole complex.

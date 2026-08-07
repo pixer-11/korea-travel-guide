@@ -58,7 +58,9 @@ updatedDate: '2026-07-26'
 
 ## Why go
 
-You see it before you understand it. Walking along the Nervión River, the building unfolds in curved sheets of titanium that catch the light differently every few steps — silver-grey under cloud, almost gold at sunset. Frank Gehry's structure, finished in 1997, isn't just a container for art; it's the reason Bilbao stopped being a rust-belt shipping city and became a destination in its own right. Locals still call the phenomenon "the Bilbao effect," and standing under the museum's soaring atrium, its glass panes throwing lattices of shadow across the floor, you get why urban planners around the world tried to copy it.
+You see it before you understand it. Walking along the Nervión River, the building unfolds in curved sheets of titanium that catch the light differently every few steps — silver-grey under cloud, almost gold at sunset. Frank Gehry's structure, finished in 1997, isn't just a container for art; it's the reason Bilbao stopped being a rust-belt shipping city and became a destination in its own right.
+
+Locals still call the phenomenon "the Bilbao effect," and standing under the museum's soaring atrium, its glass panes throwing lattices of shadow across the floor, you get why urban planners around the world tried to copy it.
 
 ## Getting there
 
@@ -66,14 +68,20 @@ The museum sits at Abandoibarra Etorbidea, 2, in the Abando district, a flat 15-
 
 ## What to see
 
-Inside, the ground floor's cavernous Fish Gallery holds Richard Serra's "The Matter of Time" — a series of curling steel spirals you walk through, and the acoustics change as you move deeper in, the outside noise falling away. Upstairs galleries rotate temporary exhibitions alongside a strong core of postwar and contemporary work: Rothko, de Kooning, Warhol, and a rotating slice of the wider Guggenheim network's holdings. Give yourself two to three hours minimum — longer if a major touring exhibition is on, since those draw their own queues within the museum.
+Inside, the ground floor's cavernous Fish Gallery holds Richard Serra's "The Matter of Time" — a series of curling steel spirals you walk through, and the acoustics change as you move deeper in, the outside noise falling away. Upstairs galleries rotate temporary exhibitions alongside a strong core of postwar and contemporary work: Rothko, de Kooning, Warhol, and a rotating slice of the wider Guggenheim network's holdings.
+
+Give yourself two to three hours minimum — longer if a major touring exhibition is on, since those draw their own queues within the museum.
 
 Outside is half the experience. Jeff Koons's "Puppy," a 43-foot West Highland terrier covered in living flowering plants, sits by the entrance and is repotted seasonally by museum gardeners. Round the riverside face of the building and you'll find Louise Bourgeois's bronze spider "Maman," nearly 30 feet tall on spindly legs — genuinely unsettling up close in a way photos don't convey. Both are free to view without a ticket, so even a walk-by after dinner is worthwhile if you don't have time to go inside.
 
 ## When to go
 
-As one of the most-visited museums in Spain, the Guggenheim gets genuinely crowded, especially cruise-ship days when Bilbao's port brings in coach groups by mid-morning. Aim for right at opening or the last couple of hours before closing on a weekday, when gallery light is softer and the atrium isn't full of tour groups clustering around guides. Avoid arriving between late morning and early afternoon on weekends if you can — that's when the ticket hall and cloakroom queues stack up. Note that many Guggenheim branches, including this one, typically close on Mondays outside peak season — check the current calendar before you plan around it.
+As one of the most-visited museums in Spain, the Guggenheim gets genuinely crowded, especially cruise-ship days when Bilbao's port brings in coach groups by mid-morning. Aim for right at opening or the last couple of hours before closing on a weekday, when gallery light is softer and the atrium isn't full of tour groups clustering around guides. Avoid arriving between late morning and early afternoon on weekends if you can — that's when the ticket hall and cloakroom queues stack up.
+
+Note that many Guggenheim branches, including this one, typically close on Mondays outside peak season — check the current calendar before you plan around it.
 
 ## How to visit like a local
 
-Buy timed-entry tickets online rather than queuing at the door; the museum sells a set number of walk-up tickets each day and they can run out by midday in high season. Almost everyone pays by card or via the museum's app — cash is accepted but card is faster through the gates. There's no tipping expected inside. If you only want the exterior and sculptures, you don't need a ticket at all — locals and regular visitors often just walk the riverside path in the evening when the building is floodlit, which is free and, some say, more atmospheric than daytime. The most common tourist mistake is treating this purely as a foreign-art pilgrimage and skipping the building itself: slow down outside, walk a full loop around the perimeter, and look up at how the titanium panels meet the glass curtain wall before you even go in. Photography is allowed in most permanent galleries but restricted in some temporary exhibitions, so check the signage rather than assuming.
+Buy timed-entry tickets online rather than queuing at the door; the museum sells a set number of walk-up tickets each day and they can run out by midday in high season. Almost everyone pays by card or via the museum's app — cash is accepted but card is faster through the gates. There's no tipping expected inside. If you only want the exterior and sculptures, you don't need a ticket at all — locals and regular visitors often just walk the riverside path in the evening when the building is floodlit, which is free and, some say, more atmospheric than daytime.
+
+The most common tourist mistake is treating this purely as a foreign-art pilgrimage and skipping the building itself: slow down outside, walk a full loop around the perimeter, and look up at how the titanium panels meet the glass curtain wall before you even go in. Photography is allowed in most permanent galleries but restricted in some temporary exhibitions, so check the signage rather than assuming.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suncheon-suncheon-bay
-srcHash: ff0b688d9e9c
+srcHash: '44b1393e80ec'
 title: Bahía de Suncheon
 description: 'El Jardín Nacional de la Bahía de Suncheon y la contigua Reserva del Humedal de la Bahía de Suncheon (Suncheonman) se visitan mejor juntos en una sola excursión de un día: comienza por la mañana en el Jardín Nacional, camina o toma el autobús lanzadera hasta la entrada del humedal, y luego sube al Mirador de Yongsan (Yongsan Observatory) antes del atardecer para ver el famoso canal de juncos en forma de S.'
 quickAnswer: 'El Jardín Nacional de la Bahía de Suncheon y la contigua Reserva del Humedal de la Bahía de Suncheon (Suncheonman) se visitan mejor juntos en una sola excursión de un día: comienza por la mañana en el Jardín Nacional, camina o toma el autobús lanzadera hasta la entrada del humedal, y luego sube al Mirador de Yongsan (Yongsan Observatory) antes del atardecer para ver el famoso canal de juncos en forma de S. Reserva una tarde completa (4-6 horas) y lleva calzado adecuado para pasarelas de madera y una subida de dificultad moderada.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-La Bahía de Suncheon es uno de los humedales de marea más grandes y mejor conservados del mundo, y es la razón por la que Suncheon se promociona como la "Ciudad Jardín" de Corea del Sur. Los campos de juncos de tono verde plateado de la reserva (llamados *galdae* en coreano), las marismas de marea y las grullas residentes han convertido el lugar en un humedal Ramsar declarado por la UNESCO, mientras que el vecino Jardín Nacional de la Bahía de Suncheon —construido para la Expo del Jardín de Suncheon de 2013— transformó la zona en un destino de día completo que combina jardines internacionales paisajísticos con una ecología costera virgen. Pocos lugares en Corea permiten pasar de parcelas de jardines cuidados al estilo francés e italiano a una marisma de marea intacta en la misma tarde.
+La Bahía de Suncheon es uno de los humedales de marea más grandes y mejor conservados del mundo, y es la razón por la que Suncheon se promociona como la "Ciudad Jardín" de Corea del Sur. Los campos de juncos de tono verde plateado de la reserva (llamados *galdae* en coreano), las marismas de marea y las grullas residentes han convertido el lugar en un humedal Ramsar declarado por la UNESCO, mientras que el vecino Jardín Nacional de la Bahía de Suncheon —construido para la Expo del Jardín de Suncheon de 2013— transformó la zona en un destino de día completo que combina jardines internacionales paisajísticos con una ecología costera virgen.
+
+Pocos lugares en Corea permiten pasar de parcelas de jardines cuidados al estilo francés e italiano a una marisma de marea intacta en la misma tarde.
 
 ## Cómo llegar
 
-La Bahía de Suncheon está a pocos kilómetros al sur del centro de Suncheon, que a su vez es accesible en KTX desde Seúl (aproximadamente 2.5-3 horas) o en tren/autobús desde Yeosu y Gwangju. Desde la Estación de Suncheon (Suncheon Station) o la Terminal de Autobuses de Suncheon (Suncheon Bus Terminal), los autobuses urbanos locales (las rutas 1, 2 y 66 son las que suelen usar los visitantes) van directo hasta la entrada del Jardín Nacional de la Bahía de Suncheon; un taxi desde la estación tarda unos 15-20 minutos. Suncheon no tiene metro, así que el autobús o el taxi son la opción habitual. Muchos visitantes también llegan mediante excursiones organizadas de un día desde Yeosu o Gwangju, ya que la bahía se combina de forma natural con los atractivos costeros de Yeosu.
+La Bahía de Suncheon está a pocos kilómetros al sur del centro de Suncheon, que a su vez es accesible en KTX desde Seúl (aproximadamente 2.5-3 horas) o en tren/autobús desde Yeosu y Gwangju. Desde la Estación de Suncheon (Suncheon Station) o la Terminal de Autobuses de Suncheon (Suncheon Bus Terminal), los autobuses urbanos locales (las rutas 1, 2 y 66 son las que suelen usar los visitantes) van directo hasta la entrada del Jardín Nacional de la Bahía de Suncheon; un taxi desde la estación tarda unos 15-20 minutos.
+
+Suncheon no tiene metro, así que el autobús o el taxi son la opción habitual. Muchos visitantes también llegan mediante excursiones organizadas de un día desde Yeosu o Gwangju, ya que la bahía se combina de forma natural con los atractivos costeros de Yeosu.
 
 ## Qué ver y hacer
 
@@ -36,7 +40,9 @@ La vista emblemática es la del **Mirador de Yongsan** (Yongsan Observatory), un
 
 ## Cuándo ir
 
-Cada estación muestra una bahía distinta. El otoño (de finales de septiembre a octubre) es la temporada de postal, cuando los juncos adquieren un tono dorado-plateado y se mecen densamente a lo largo del canal; también es el período con más afluencia de visitantes. El invierno (diciembre-febrero) cambia los juncos por las grullas migratorias y un paisaje más austero y tranquilo. La primavera trae brotes verdes y un clima agradable para caminar, mientras que el verano es exuberante pero caluroso y húmedo, con menos aves. Sea cual sea la temporada, procura llegar a primera o media tarde para tener tiempo tanto para el jardín como para el paseo por el humedal antes de la luz del atardecer en el mirador.
+Cada estación muestra una bahía distinta. El otoño (de finales de septiembre a octubre) es la temporada de postal, cuando los juncos adquieren un tono dorado-plateado y se mecen densamente a lo largo del canal; también es el período con más afluencia de visitantes. El invierno (diciembre-febrero) cambia los juncos por las grullas migratorias y un paisaje más austero y tranquilo.
+
+La primavera trae brotes verdes y un clima agradable para caminar, mientras que el verano es exuberante pero caluroso y húmedo, con menos aves. Sea cual sea la temporada, procura llegar a primera o media tarde para tener tiempo tanto para el jardín como para el paseo por el humedal antes de la luz del atardecer en el mirador.
 
 ## Alrededores y consejos prácticos
 

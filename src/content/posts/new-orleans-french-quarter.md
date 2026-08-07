@@ -43,17 +43,23 @@ draft: false
 
 ## Why go
 
-The French Quarter, or "Vieux Carré," is the original footprint of New Orleans, laid out by French engineers in 1718 and rebuilt largely in Spanish colonial style after fires in 1788 and 1794 — which is why the ironwork balconies and courtyards feel more Havana or Seville than Paris. It's dense with 300 years of layered history: Creole townhouses, hidden carriageway courtyards, and a street grid that still follows the original French plan. Most visitors only see Bourbon Street's bar strip, which is a fraction of what's here. The hidden gem angle is a few blocks in any direction from Bourbon: quiet residential lanes, working artist studios, and architecture nobody photographs for Instagram.
+The French Quarter, or "Vieux Carré," is the original footprint of New Orleans, laid out by French engineers in 1718 and rebuilt largely in Spanish colonial style after fires in 1788 and 1794 — which is why the ironwork balconies and courtyards feel more Havana or Seville than Paris. It's dense with 300 years of layered history: Creole townhouses, hidden carriageway courtyards, and a street grid that still follows the original French plan.
+
+Most visitors only see Bourbon Street's bar strip, which is a fraction of what's here. The hidden gem angle is a few blocks in any direction from Bourbon: quiet residential lanes, working artist studios, and architecture nobody photographs for Instagram.
 
 ## Getting there
 
-The Quarter sits directly against the Mississippi River, bordered by Canal Street (the boundary with the Central Business District), North Rampart Street (facing the Marigny/Faubourg neighborhoods), and Esplanade Avenue. If flying into Louis Armstrong International Airport, a taxi or rideshare into the Quarter runs 20–30 minutes depending on traffic. From downtown hotels, it's an easy walk across Canal Street, or a hop on the RTA streetcar lines that run along Canal and the riverfront. Once inside the Quarter, skip cars entirely — streets are narrow, one-way, and parking is scarce and expensive. Everything of interest is within a 15–20 minute walk from Jackson Square, the historic heart of the neighborhood.
+The Quarter sits directly against the Mississippi River, bordered by Canal Street (the boundary with the Central Business District), North Rampart Street (facing the Marigny/Faubourg neighborhoods), and Esplanade Avenue. If flying into Louis Armstrong International Airport, a taxi or rideshare into the Quarter runs 20–30 minutes depending on traffic. From downtown hotels, it's an easy walk across Canal Street, or a hop on the RTA streetcar lines that run along Canal and the riverfront.
+
+Once inside the Quarter, skip cars entirely — streets are narrow, one-way, and parking is scarce and expensive. Everything of interest is within a 15–20 minute walk from Jackson Square, the historic heart of the neighborhood.
 
 ## What to see and do
 
 Start at **Jackson Square**, anchored by the St. Louis Cathedral, the oldest continuously active Catholic cathedral in the U.S., flanked by the Cabildo and Presbytère (both part of the Louisiana State Museum). Artists and tarot readers set up along the square's iron fence most days. From there, walk **Royal Street** rather than Bourbon — it's lined with antique dealers, art galleries, and quieter balcony architecture, and it closes to cars for pedestrian stretches midday. **Frenchmen Street**, just outside the Quarter's edge near Esplanade, is where locals go for live jazz and brass bands in small clubs, generally a better music scene than Bourbon's tourist bars.
 
-For food, the Quarter is the birthplace of the muffuletta (Central Grocery is the classic origin point) and beignets are practically mandatory at Café du Monde on Decatur Street, which has traditionally kept round-the-clock hours (confirm current times) and is always busy. Po'boys, gumbo, and turtle soup show up on menus throughout — Galatoire's and Antoine's are old-guard Creole institutions if you want a sit-down, white-tablecloth version of the cuisine. Wander into a few open courtyards along Royal or Chartres Street — many buildings keep gates open during the day, revealing lush interior gardens that are the neighborhood's true architectural signature.
+For food, the Quarter is the birthplace of the muffuletta (Central Grocery is the classic origin point) and beignets are practically mandatory at Café du Monde on Decatur Street, which has traditionally kept round-the-clock hours (confirm current times) and is always busy. Po'boys, gumbo, and turtle soup show up on menus throughout — Galatoire's and Antoine's are old-guard Creole institutions if you want a sit-down, white-tablecloth version of the cuisine.
+
+Wander into a few open courtyards along Royal or Chartres Street — many buildings keep gates open during the day, revealing lush interior gardens that are the neighborhood's true architectural signature.
 
 Budget half a day just walking without a destination: the balconies, cast-iron galleries, and narrow "banquette" sidewalks reward slow looking more than any single ticketed attraction.
 

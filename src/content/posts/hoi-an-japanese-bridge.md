@@ -58,17 +58,23 @@ Few structures pack as much symbolism into 18 meters as the Japanese Bridge (loc
 
 ## Getting there
 
-The bridge sits at the western edge of Hoi An's pedestrian Ancient Town, on Nguyễn Thị Minh Khai Street where it meets Trần Phú Street. If you're staying near An Bang Beach or the Cua Dai area, a taxi or Grab into the old town takes roughly 15-20 minutes. From central Hoi An, everything is walkable — the bridge is about a 5-minute stroll from the riverside market and just off the main tourist strip of Trần Phú. Since the Ancient Town is closed to cars and largely closed to motorbikes during the day, most visitors park a scooter or bicycle at the edge of the pedestrian zone and walk in. There's no dedicated parking at the bridge itself, so use one of the paid lots along Bạch Đằng Street near the river.
+The bridge sits at the western edge of Hoi An's pedestrian Ancient Town, on Nguyễn Thị Minh Khai Street where it meets Trần Phú Street. If you're staying near An Bang Beach or the Cua Dai area, a taxi or Grab into the old town takes roughly 15-20 minutes. From central Hoi An, everything is walkable — the bridge is about a 5-minute stroll from the riverside market and just off the main tourist strip of Trần Phú.
+
+Since the Ancient Town is closed to cars and largely closed to motorbikes during the day, most visitors park a scooter or bicycle at the edge of the pedestrian zone and walk in. There's no dedicated parking at the bridge itself, so use one of the paid lots along Bạch Đằng Street near the river.
 
 ## What to see and do
 
-The bridge itself is short — you'll cross it in under a minute — but the details reward slow looking. Step inside the small shrine on the north side, dedicated to Tran Vo Bac De, a deity believed to control weather and protect against floods, which were (and remain) a real threat to this low-lying river town. Look for the carved wooden panels, the slightly sagging roofline from centuries of settling, and the stone tablet with an inscription dating a renovation. Photographers tend to shoot from the small side street just downstream, which frames the bridge with its own reflection in the canal.
+The bridge itself is short — you'll cross it in under a minute — but the details reward slow looking. Step inside the small shrine on the north side, dedicated to Tran Vo Bac De, a deity believed to control weather and protect against floods, which were (and remain) a real threat to this low-lying river town. Look for the carved wooden panels, the slightly sagging roofline from centuries of settling, and the stone tablet with an inscription dating a renovation.
+
+Photographers tend to shoot from the small side street just downstream, which frames the bridge with its own reflection in the canal.
 
 Entry to the bridge is included in Hoi An's Ancient Town heritage ticket, sold at booths around the old town's perimeter; the ticket also covers entry into a handful of historic houses, assembly halls, and museums, so it's worth using it for more than just the bridge. Keep in mind the bridge itself is quite small and gets crowded fast — most people spend 15-20 minutes here, longer if the queue for photos is long.
 
 ## When to go
 
-Early morning is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within; this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below. Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
+Early morning is the best window for photos without the crowd — Chùa Cầu is a mandatory stop for every tour group, so mid-morning through late afternoon gets packed. The other prime time is just after sunset, when the surrounding streets glow with silk lanterns and the bridge is lit from within; this is especially atmospheric during the Hoi An Lantern Festival, held on the 14th day of each lunar month, when motorbikes are banned and candles float on the canal below.
+
+Dry season (February to July) offers the most reliable weather, while the rainy season (October-November) occasionally brings flooding that can affect access to the old town entirely.
 
 ## Nearby and tips
 

@@ -61,7 +61,9 @@ draft: false
 
 ## Why go
 
-Surabaya's café scene has exploded over the past decade, but Blue Doors stands out for its look before its menu: whitewashed walls, cobalt-blue shutters and doors, and greenery spilling over a courtyard that feels more Mediterranean than East Java. With a 4.7 rating across nearly 1,200 reviews, it has built a loyal following among people chasing a good flat white and an even better photo backdrop, without becoming an overrun tourist stop. This is a trendy, design-forward hangout rather than a heritage landmark, which is exactly its appeal — a calm, aesthetic pocket in a busy commercial pocket of the city.
+Surabaya's café scene has exploded over the past decade, but Blue Doors stands out for its look before its menu: whitewashed walls, cobalt-blue shutters and doors, and greenery spilling over a courtyard that feels more Mediterranean than East Java. With a 4.7 rating across nearly 1,200 reviews, it has built a loyal following among people chasing a good flat white and an even better photo backdrop, without becoming an overrun tourist stop.
+
+This is a trendy, design-forward hangout rather than a heritage landmark, which is exactly its appeal — a calm, aesthetic pocket in a busy commercial pocket of the city.
 
 ## Getting there
 
@@ -87,7 +89,9 @@ Surabaya is hot and humid year-round, so the covered/air-conditioned indoor seat
 
 ## How to visit like a local
 
-Because Blue Doors hasn't been swallowed by mass tourism, the smartest move is timing rather than avoidance — go on a weekday between opening and late morning, or after the mid-afternoon lull, to get the courtyard's best light and fewest people in your photos. Order at the counter or via table service as directed by staff (Indonesian cafés at this price point typically take both cash and cards, plus QRIS mobile payment, which is now standard across Surabaya), and a modest rounding-up rather than a large percentage tip is the norm — table tipping isn't a strong local expectation. If you want a specific table or the courtyard on a weekend, arrive close to opening rather than assuming you can walk in and sit down at peak hours. The most common visitor mistake is treating it purely as a photo backdrop and rushing off — locals and regulars tend to actually settle in for a coffee or brunch, which is also the easiest way to justify lingering for photos without feeling rushed by other guests waiting for your table.
+Because Blue Doors hasn't been swallowed by mass tourism, the smartest move is timing rather than avoidance — go on a weekday between opening and late morning, or after the mid-afternoon lull, to get the courtyard's best light and fewest people in your photos. Order at the counter or via table service as directed by staff (Indonesian cafés at this price point typically take both cash and cards, plus QRIS mobile payment, which is now standard across Surabaya), and a modest rounding-up rather than a large percentage tip is the norm — table tipping isn't a strong local expectation.
+
+If you want a specific table or the courtyard on a weekend, arrive close to opening rather than assuming you can walk in and sit down at peak hours. The most common visitor mistake is treating it purely as a photo backdrop and rushing off — locals and regulars tend to actually settle in for a coffee or brunch, which is also the easiest way to justify lingering for photos without feeling rushed by other guests waiting for your table.
 
 ## Nearby
 

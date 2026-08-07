@@ -55,13 +55,19 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You smell Lau Pa Sat before you see it properly — a wall of charcoal smoke, chilli, and grilled lemongrass drifting out from under the cast-iron canopy onto Raffles Quay. Then the building itself resolves out of the glass-and-steel skyline around it: an octagonal Victorian market hall, its ironwork painted a deep green-and-cream, looking like it wandered in from another century and got surrounded by bank towers. It has, more or less. The structure dates to the 1890s, prefabricated in Glasgow and shipped out as one of colonial Singapore's original produce markets, later reassembled and converted into the hawker centre you see today.
+You smell Lau Pa Sat before you see it properly — a wall of charcoal smoke, chilli, and grilled lemongrass drifting out from under the cast-iron canopy onto Raffles Quay. Then the building itself resolves out of the glass-and-steel skyline around it: an octagonal Victorian market hall, its ironwork painted a deep green-and-cream, looking like it wandered in from another century and got surrounded by bank towers.
 
-Inside, the roofline soars up into a web of iron trusses and slatted vents, and the light comes in low and slatted through the arched windows. Rows of stalls radiate out from the centre like spokes, each one a family operation with a laminated menu, a portrait of the hawker over the wok, and a queue that swells and shrinks through the day like a tide. At lunchtime the noise is a wall — cleavers on chopping boards, the hiss of noodles hitting hot oil, chairs scraping on stone — because this is prime real estate for the entire Central Business District, and everyone from bankers to construction crews eats here.
+It has, more or less. The structure dates to the 1890s, prefabricated in Glasgow and shipped out as one of colonial Singapore's original produce markets, later reassembled and converted into the hawker centre you see today.
+
+Inside, the roofline soars up into a web of iron trusses and slatted vents, and the light comes in low and slatted through the arched windows. Rows of stalls radiate out from the centre like spokes, each one a family operation with a laminated menu, a portrait of the hawker over the wok, and a queue that swells and shrinks through the day like a tide.
+
+At lunchtime the noise is a wall — cleavers on chopping boards, the hiss of noodles hitting hot oil, chairs scraping on stone — because this is prime real estate for the entire Central Business District, and everyone from bankers to construction crews eats here.
 
 ## What to eat
 
-This is where you come for hawker classics done at volume: Hainanese chicken rice, char kway teow blackened in a well-seasoned wok, oyster omelette, laksa, carrot cake (the savoury turnip kind, fried with egg and preserved radish), and Hokkien mee with its deep prawn-stock aroma. There are also international stalls — Indian, Japanese, Western grills — reflecting the CBD lunch crowd's range of cravings. But the real draw, and the reason people plan an evening around this specific block, is Satay Street: after dark, Boon Tat Street on the market's south flank closes to cars, and satay stalls wheel out charcoal braziers right onto the tarmac, fanning skewers of chicken, beef, and mutton over open flame, served with peanut sauce, ketupat, and raw onion and cucumber.
+This is where you come for hawker classics done at volume: Hainanese chicken rice, char kway teow blackened in a well-seasoned wok, oyster omelette, laksa, carrot cake (the savoury turnip kind, fried with egg and preserved radish), and Hokkien mee with its deep prawn-stock aroma. There are also international stalls — Indian, Japanese, Western grills — reflecting the CBD lunch crowd's range of cravings.
+
+But the real draw, and the reason people plan an evening around this specific block, is Satay Street: after dark, Boon Tat Street on the market's south flank closes to cars, and satay stalls wheel out charcoal braziers right onto the tarmac, fanning skewers of chicken, beef, and mutton over open flame, served with peanut sauce, ketupat, and raw onion and cucumber.
 
 ## Getting there
 
@@ -73,5 +79,7 @@ Lunch here, roughly 11:30am to 2pm on weekdays, is the peak crush — office wor
 
 ## How to visit like a local
 
-Scope your stall before you queue — walk the full loop once, note the handwritten specials and the length of each line, then commit. Order and pay at the stall itself (most take cash, and a growing number take PayNow or card via QR code, but don't assume every stall does), then grab any open seat in the shared communal seating — table-hunting here is first-come, first-served, not stall-specific. Tissue packets or umbrellas left on a table mean it's taken; that's the local method of reserving a seat while you queue elsewhere. Given how popular and well-reviewed this place already is, don't expect a quiet, undiscovered corner — the smarter move is timing your visit around the lunch rush rather than hoping to dodge it by luck. At Satay Street, portions are typically sold by the stick, so ask the price per skewer before ordering a stack, and expect servers to tally your bill by counting the skewers left on your table at the end.
+Scope your stall before you queue — walk the full loop once, note the handwritten specials and the length of each line, then commit. Order and pay at the stall itself (most take cash, and a growing number take PayNow or card via QR code, but don't assume every stall does), then grab any open seat in the shared communal seating — table-hunting here is first-come, first-served, not stall-specific.
+
+Tissue packets or umbrellas left on a table mean it's taken; that's the local method of reserving a seat while you queue elsewhere. Given how popular and well-reviewed this place already is, don't expect a quiet, undiscovered corner — the smarter move is timing your visit around the lunch rush rather than hoping to dodge it by luck. At Satay Street, portions are typically sold by the stick, so ask the price per skewer before ordering a stack, and expect servers to tally your bill by counting the skewers left on your table at the end.
 

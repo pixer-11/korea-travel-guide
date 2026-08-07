@@ -60,23 +60,35 @@ eventRecurring: false
 
 ## Why this show matters
 
-A concert on Montjuïc hill has a different weight than one at a suburban arena. The Estadi Olímpic Lluís Companys was built in the 1920s and remade for the 1992 Barcelona Olympics, and its stone facade and tiered bowl still carry that Olympic-era grandeur. When a global headliner like The Weeknd plays here, the setting becomes part of the show: you're watching a stadium-scale production of falsetto hooks, neon-lit R&B, and towering stagecraft inside a venue better known for opening ceremonies and athletics finals. The date on the books is September 1, 2026, part of his ongoing world tour — treat that as the anchor fact, but confirm it hasn't shifted before you commit money to travel.
+A concert on Montjuïc hill has a different weight than one at a suburban arena. The Estadi Olímpic Lluís Companys was built in the 1920s and remade for the 1992 Barcelona Olympics, and its stone facade and tiered bowl still carry that Olympic-era grandeur. When a global headliner like The Weeknd plays here, the setting becomes part of the show: you're watching a stadium-scale production of falsetto hooks, neon-lit R&B, and towering stagecraft inside a venue better known for opening ceremonies and athletics finals.
+
+The date on the books is September 1, 2026, part of his ongoing world tour — treat that as the anchor fact, but confirm it hasn't shifted before you commit money to travel.
 
 ## Getting there and getting up the hill
 
-Montjuïc is a hill, not a neighborhood you stumble into, so getting there is its own small logistics puzzle. The most reliable route is Metro Line 1 (red line) to Plaça Espanya, from where it's a walkable but uphill 20–25 minutes past the Venetian Towers and the Font Màgica fountains, or you can hop on a shuttle bus that Barcelona typically runs on major event nights from Espanya up to the Olympic ring. Alternatively, the Montjuïc funicular (connected to Metro Line 2/3 at Paral·lel) drops you much closer to the stadium with far less climbing. If you're staying near the Gothic Quarter or Eixample, budget at least 45 minutes door-to-seat once you factor in the walk and likely crowd bottlenecks at the stadium gates.
+Montjuïc is a hill, not a neighborhood you stumble into, so getting there is its own small logistics puzzle. The most reliable route is Metro Line 1 (red line) to Plaça Espanya, from where it's a walkable but uphill 20–25 minutes past the Venetian Towers and the Font Màgica fountains, or you can hop on a shuttle bus that Barcelona typically runs on major event nights from Espanya up to the Olympic ring.
+
+Alternatively, the Montjuïc funicular (connected to Metro Line 2/3 at Paral·lel) drops you much closer to the stadium with far less climbing. If you're staying near the Gothic Quarter or Eixample, budget at least 45 minutes door-to-seat once you factor in the walk and likely crowd bottlenecks at the stadium gates.
 
 ## What to expect inside
 
-Estadi Olímpic holds tens of thousands, so sightlines vary enormously between the pitch-level standing area and the stone tiered seating that rings the upper bowl. Stadium shows on this scale usually mean a long night: gates open well ahead of the headline set to let the crowd filter in, there's typically a support act, and The Weeknd's stage productions on this tour have leaned into elaborate lighting rigs and screen work, so seats with a clear view of the main stage (rather than pure side-angle) are worth seeking if you have a choice at booking. None of the specific set times, opening acts, or stage design for the Barcelona date are locked in publicly with certainty this far out — check the official tour page or Ticketmaster listing close to the date for the confirmed running order.
+Estadi Olímpic holds tens of thousands, so sightlines vary enormously between the pitch-level standing area and the stone tiered seating that rings the upper bowl. Stadium shows on this scale usually mean a long night: gates open well ahead of the headline set to let the crowd filter in, there's typically a support act, and The Weeknd's stage productions on this tour have leaned into elaborate lighting rigs and screen work, so seats with a clear view of the main stage (rather than pure side-angle) are worth seeking if you have a choice at booking.
+
+None of the specific set times, opening acts, or stage design for the Barcelona date are locked in publicly with certainty this far out — check the official tour page or Ticketmaster listing close to the date for the confirmed running order.
 
 ## When to arrive and what to bring
 
-September in Barcelona is still late-summer warm, often into the high 20s Celsius in early afternoon, cooling only slightly after sunset — dress for heat if you're arriving early to claim a spot on the floor. Stone stadium seating means little shade and hard surfaces for hours, so a light layer for the evening breeze off the hill is smarter than a heavy jacket. Water bottles and large bags are almost always restricted at stadium concerts in Spain, so travel light and check the venue's official bag policy before you leave your hotel.
+September in Barcelona is still late-summer warm, often into the high 20s Celsius in early afternoon, cooling only slightly after sunset — dress for heat if you're arriving early to claim a spot on the floor. Stone stadium seating means little shade and hard surfaces for hours, so a light layer for the evening breeze off the hill is smarter than a heavy jacket.
+
+Water bottles and large bags are almost always restricted at stadium concerts in Spain, so travel light and check the venue's official bag policy before you leave your hotel.
 
 ## How to visit like a local
 
-Barcelona concertgoers rarely rush the gates the moment they open — the smart move is arriving in the first hour of doors rather than right at opening, once the initial surge has cleared, unless you specifically want to be pressed against the barrier. Payment inside is almost entirely card and mobile pay now, with cash bars increasingly rare at major Barcelona venues, so don't count on needing coins for a beer. Tickets are typically checked via mobile barcode rather than printed paper, so have the app downloaded and your phone charged rather than screenshotting at the last minute. The single most common mistake visitors make is underestimating the walk up Montjuïc: locals either take the funicular or budget real time for the incline, while first-timers often arrive breathless and late having assumed it was a flat stroll from the metro. If you want a pre-show routine locals actually use, grab a vermouth or tapas in Poble Sec, the neighborhood at the foot of the hill on the Paral·lel side, before making the climb.
+Barcelona concertgoers rarely rush the gates the moment they open — the smart move is arriving in the first hour of doors rather than right at opening, once the initial surge has cleared, unless you specifically want to be pressed against the barrier. Payment inside is almost entirely card and mobile pay now, with cash bars increasingly rare at major Barcelona venues, so don't count on needing coins for a beer.
+
+Tickets are typically checked via mobile barcode rather than printed paper, so have the app downloaded and your phone charged rather than screenshotting at the last minute. The single most common mistake visitors make is underestimating the walk up Montjuïc: locals either take the funicular or budget real time for the incline, while first-timers often arrive breathless and late having assumed it was a flat stroll from the metro.
+
+If you want a pre-show routine locals actually use, grab a vermouth or tapas in Poble Sec, the neighborhood at the foot of the hill on the Paral·lel side, before making the climb.
 
 ## Before you book
 

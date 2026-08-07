@@ -55,15 +55,21 @@ draft: false
 
 ## Why go
 
-You come to Bueng Phra Ram not for a single monument but for the view that ties several of them together. This is the large rectangular lake at the historic heart of Ayutthaya island, and from its grassy banks you get one of the best free vantage points in the city: the laterite spires of Wat Phra Ram rising directly across the water, with Wat Mahathat's tree-choked prangs just a short walk beyond. Locals believe the lake occupies what was once part of the royal palace grounds and the old city moat system, so even the water itself is doing double duty as a five-century-old piece of urban planning.
+You come to Bueng Phra Ram not for a single monument but for the view that ties several of them together. This is the large rectangular lake at the historic heart of Ayutthaya island, and from its grassy banks you get one of the best free vantage points in the city: the laterite spires of Wat Phra Ram rising directly across the water, with Wat Mahathat's tree-choked prangs just a short walk beyond.
+
+Locals believe the lake occupies what was once part of the royal palace grounds and the old city moat system, so even the water itself is doing double duty as a five-century-old piece of urban planning.
 
 ## Getting there
 
-Bueng Phra Ram sits inside Ayutthaya's historic island in the Tha Wasukri area, an easy bicycle ride or short tuk-tuk hop from the train station side of the river crossing. Most visitors base themselves near Chao Phrom Market or the guesthouse strip on Naresuan Soi 2, both about 10–15 minutes away by bike. There's no gate, no ticket booth, and no fixed entrance — you simply arrive at the perimeter road and start walking. Renting a bicycle for the day is the standard way locals and travelers alike move between the park and the surrounding temple clusters, since everything on the island sits within a few kilometers of everything else.
+Bueng Phra Ram sits inside Ayutthaya's historic island in the Tha Wasukri area, an easy bicycle ride or short tuk-tuk hop from the train station side of the river crossing. Most visitors base themselves near Chao Phrom Market or the guesthouse strip on Naresuan Soi 2, both about 10–15 minutes away by bike. There's no gate, no ticket booth, and no fixed entrance — you simply arrive at the perimeter road and start walking.
+
+Renting a bicycle for the day is the standard way locals and travelers alike move between the park and the surrounding temple clusters, since everything on the island sits within a few kilometers of everything else.
 
 ## What to see and do
 
-The park itself is simple: a wide lake ringed by a paved walking path, lawns, shade trees, and benches. The payoff is the sightlines. Stand on the western edge near dusk and Wat Phra Ram's central prang catches the last orange light while egrets pick along the shallows. Walk the northern rim and Wat Mahathat's silhouette — famous for the stone Buddha head engulfed in banyan roots nearby — appears above the treeline. Bring your own snacks or buy grilled skewers and iced drinks from the small vendor carts that set up along the path; there's no formal dining inside the park, just informal street food at the edges. Give yourself 30–45 minutes for a loop with photo stops, longer if you plan to combine it with entry into Wat Phra Ram's ruins.
+The park itself is simple: a wide lake ringed by a paved walking path, lawns, shade trees, and benches. The payoff is the sightlines. Stand on the western edge near dusk and Wat Phra Ram's central prang catches the last orange light while egrets pick along the shallows. Walk the northern rim and Wat Mahathat's silhouette — famous for the stone Buddha head engulfed in banyan roots nearby — appears above the treeline.
+
+Bring your own snacks or buy grilled skewers and iced drinks from the small vendor carts that set up along the path; there's no formal dining inside the park, just informal street food at the edges. Give yourself 30–45 minutes for a loop with photo stops, longer if you plan to combine it with entry into Wat Phra Ram's ruins.
 
 ## When to go
 
@@ -71,7 +77,9 @@ Mornings before the heat sets in are the most comfortable time to circle the lak
 
 ## How to visit like a local
 
-Skip the weekend evening crush unless you specifically want the atmosphere of it — that 4pm–11pm stretch is when the park is at its fullest, with joggers, badminton games, and food vendors taking over the paths. If you want the reflective-water shots without dodging crowds, come on a weekday morning or a weekend early-to-mid afternoon instead. There's no admission fee and no ticket line to plan around, so you can treat it as a free add-on before or after paying entry to Wat Phra Ram or Wat Mahathat next door. Bicycles are the local currency of movement here — rent one from a shop near Chao Phrom Market rather than relying on tuk-tuks, since the flat, walkable island makes cycling both cheaper and more pleasant. Bring small cash for the cart vendors, as they're informal stalls without card readers. The single most common visitor mistake is treating Bueng Phra Ram as a standalone stop and rushing through it in five minutes — the park rewards a slower loop, ideally timed so you're standing at the water's edge as the temple spires catch the changing light rather than glancing at it from a moving tuk-tuk.
+Skip the weekend evening crush unless you specifically want the atmosphere of it — that 4pm–11pm stretch is when the park is at its fullest, with joggers, badminton games, and food vendors taking over the paths. If you want the reflective-water shots without dodging crowds, come on a weekday morning or a weekend early-to-mid afternoon instead. There's no admission fee and no ticket line to plan around, so you can treat it as a free add-on before or after paying entry to Wat Phra Ram or Wat Mahathat next door.
+
+Bicycles are the local currency of movement here — rent one from a shop near Chao Phrom Market rather than relying on tuk-tuks, since the flat, walkable island makes cycling both cheaper and more pleasant. Bring small cash for the cart vendors, as they're informal stalls without card readers. The single most common visitor mistake is treating Bueng Phra Ram as a standalone stop and rushing through it in five minutes — the park rewards a slower loop, ideally timed so you're standing at the water's edge as the temple spires catch the changing light rather than glancing at it from a moving tuk-tuk.
 
 ## Nearby to combine
 

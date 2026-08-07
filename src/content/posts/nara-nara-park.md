@@ -77,7 +77,9 @@ draft: false
 
 ## Why go
 
-Nara Park (Nara Kōen) is less a single attraction than a green, temple-studded district covering roughly 500 hectares at the base of Mount Wakakusa. It's rated 4.6 across tens of thousands of reviews, and the reason is twofold: the deer, and the density of world-class heritage sites packed into walking distance of each other. The sika deer here — over 1,000 of them — are considered sacred messengers of the Shinto gods in local tradition, descended from a deer said to have carried a deity to nearby Kasuga Taisha on a white stag. Centuries of contact with visitors have made them tame enough to bow for crackers, though they're still wild animals and can nip or headbutt if you're slow handing over food.
+Nara Park (Nara Kōen) is less a single attraction than a green, temple-studded district covering roughly 500 hectares at the base of Mount Wakakusa. It's rated 4.6 across tens of thousands of reviews, and the reason is twofold: the deer, and the density of world-class heritage sites packed into walking distance of each other. The sika deer here — over 1,000 of them — are considered sacred messengers of the Shinto gods in local tradition, descended from a deer said to have carried a deity to nearby Kasuga Taisha on a white stag.
+
+Centuries of contact with visitors have made them tame enough to bow for crackers, though they're still wild animals and can nip or headbutt if you're slow handing over food.
 
 ## Getting there
 
@@ -97,7 +99,9 @@ Wakakusayama, the grassy hill on the park's eastern edge, is a worthwhile detour
 
 ## When to go
 
-Early morning (before 9am) is quietest, both for deer encounters and for beating tour groups at Todai-ji. Autumn (November) brings striking maple color around Todai-ji and Kasuga Taisha; spring (late March-early April) draws crowds for cherry blossoms along the park's paths. Deer are shedding their antlers and calving in late spring/summer, and does with fawns are kept in a separate enclosure during birthing season for safety — check current signage. Avoid feeding sessions around midday in peak season if crowds bother you; deer congregate most heavily near cracker vendors and the Todai-ji approach.
+Early morning (before 9am) is quietest, both for deer encounters and for beating tour groups at Todai-ji. Autumn (November) brings striking maple color around Todai-ji and Kasuga Taisha; spring (late March-early April) draws crowds for cherry blossoms along the park's paths. Deer are shedding their antlers and calving in late spring/summer, and does with fawns are kept in a separate enclosure during birthing season for safety — check current signage.
+
+Avoid feeding sessions around midday in peak season if crowds bother you; deer congregate most heavily near cracker vendors and the Todai-ji approach.
 
 ## Nearby and practical tips
 

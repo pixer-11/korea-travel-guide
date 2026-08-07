@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: tongyeong-dongpirang-mural-village
-srcHash: ebe518bfcda5
+srcHash: '2caec0a143d5'
 title: 统营东皮郎壁画村
 description: 东皮郎（Dongpirang）是位于统营旧港东侧的一座山坡壁画村，紧邻中央市场，坐落在南望山公园脚下。
 quickAnswer: 东皮郎（Dongpirang）是位于统营旧港东侧的一座山坡壁画村，紧邻中央市场（Jungang Market），坐落在南望山公园（Nammangsan Park）脚下。建议预留1—1.5小时在巷弄与壁画间漫步，再花20—30分钟爬到山顶凉亭，饱览统营港湾及外海岛屿的全景。这里免费开放，最好选在平日清晨或傍晚前往，以避开旅行团人潮；顺路还可以逛逛中央市场，搭乘统营缆车。
@@ -42,4 +42,6 @@ faq:
 
 ## 周边景点与实用贴士
 
-东皮郎脚下紧邻**中央（忠武）市场**，很适合顺路一游——可以品尝新鲜海鲜、糖饼（hotteok），以及统营的招牌美食**忠武紫菜包饭**（chungmu gimbap，一种搭配辣鱿鱼和萝卜泡菜食用的小紫菜卷，米饭本身不包馅料）。步行或打车不远处便是**统营缆车**（Tongyeong Cable Car），可登上弥勒山（Mireuksan）欣赏更高处的岛屿景观；还有**统营轮渡客运站**（Tongyeong Ferry Terminal），从这里可搭船前往思到岛（Sado）、欲知岛（Yokjido）等周边岛屿。旧市区的带廊市场街西门堂（Seomindang），以及历史悠久的洗兵馆（Sebyeonggwan）海军阁楼，也都在步行或短途打车可达的范围内，使东皮郎山坡成为串联统营老城半日游的绝佳起点。
+东皮郎脚下紧邻**中央（忠武）市场**，很适合顺路一游——可以品尝新鲜海鲜、糖饼（hotteok），以及统营的招牌美食**忠武紫菜包饭**（chungmu gimbap，一种搭配辣鱿鱼和萝卜泡菜食用的小紫菜卷，米饭本身不包馅料）。步行或打车不远处便是**统营缆车**（Tongyeong Cable Car），可登上弥勒山（Mireuksan）欣赏更高处的岛屿景观；还有**统营轮渡客运站**（Tongyeong Ferry Terminal），从这里可搭船前往思到岛（Sado）、欲知岛（Yokjido）等周边岛屿。
+
+旧市区的带廊市场街西门堂（Seomindang），以及历史悠久的洗兵馆（Sebyeonggwan）海军阁楼，也都在步行或短途打车可达的范围内，使东皮郎山坡成为串联统营老城半日游的绝佳起点。

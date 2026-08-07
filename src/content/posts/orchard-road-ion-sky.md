@@ -57,7 +57,9 @@ aiGenerated: true
 
 ## Why go
 
-ION Sky sits atop ION Orchard, the glass-and-steel shopping complex that anchors the junction of Orchard Road and Paterson Road, directly above Orchard MRT station. At 56 storeys up, it's one of the few vantage points in central Singapore where you can see Orchard Road's retail canyon on one side and the green sprawl of the Singapore Botanic Gardens and the Central Business District skyline on the other, all without leaving the shopping belt. With a 4.6 rating across more than 3,000 reviews, it's become one of the more consistently well-regarded attractions in the district — not a hidden find, but a reliably good one.
+ION Sky sits atop ION Orchard, the glass-and-steel shopping complex that anchors the junction of Orchard Road and Paterson Road, directly above Orchard MRT station. At 56 storeys up, it's one of the few vantage points in central Singapore where you can see Orchard Road's retail canyon on one side and the green sprawl of the Singapore Botanic Gardens and the Central Business District skyline on the other, all without leaving the shopping belt.
+
+With a 4.6 rating across more than 3,000 reviews, it's become one of the more consistently well-regarded attractions in the district — not a hidden find, but a reliably good one.
 
 Beyond the view, the deck includes small exhibits touching on Singapore's food culture and city history, which give the visit a bit more substance than a pure photo-op lookout.
 
@@ -81,7 +83,9 @@ Late afternoon into early evening is the strongest window: you get daylight view
 
 Since ION Sky is well-known rather than a niche find, the practical challenge is timing around crowds rather than discovering it. Weekday late afternoons (around 4–6pm) tend to be quieter than weekends, when visiting the deck is often bundled with a day of shopping along Orchard Road. Entry has historically been tied to a minimum spend or redemption at ION Orchard's customer service counter rather than a straightforward ticket booth, and the exact process has changed over the years — confirm the current admission or registration method on the mall's official channels before heading up, rather than assuming a walk-up ticket price.
 
-Dress for air-conditioning — the deck and lift lobby are climate-controlled and can feel cold after Orchard Road's humidity. Photography is the main activity, so if you're visiting near sunset, expect a brief cluster of visitors near the west-facing windows and be ready to wait a minute for a clear shot rather than jostle for position. The most common visitor mistake is treating it as a long outing — pair it with lunch or shopping in ION Orchard itself, since the deck alone doesn't need more than three-quarters of an hour. Payment throughout ION Orchard is standard Singapore retail practice: cards and mobile pay (PayNow, Apple/Google Pay) are widely accepted, with tipping not customary anywhere in the mall.
+Dress for air-conditioning — the deck and lift lobby are climate-controlled and can feel cold after Orchard Road's humidity. Photography is the main activity, so if you're visiting near sunset, expect a brief cluster of visitors near the west-facing windows and be ready to wait a minute for a clear shot rather than jostle for position. The most common visitor mistake is treating it as a long outing — pair it with lunch or shopping in ION Orchard itself, since the deck alone doesn't need more than three-quarters of an hour.
+
+Payment throughout ION Orchard is standard Singapore retail practice: cards and mobile pay (PayNow, Apple/Google Pay) are widely accepted, with tipping not customary anywhere in the mall.
 
 ## Nearby to combine with
 

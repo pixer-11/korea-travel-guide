@@ -74,15 +74,21 @@ eventRecurring: true
 ---
 ## Why Strasbourg at Christmas
 
-Strasbourg calls itself the "Capitale de Noël" (Capital of Christmas), and it has the paper trail to prove it — the market traces back to 1570, making it one of the oldest Christmas markets in Europe. The half-timbered houses of the Petite France district, the pink sandstone bulk of Strasbourg Cathedral, and canals threading through the old town give the decorations a backdrop that feels genuinely medieval rather than manufactured. Unlike a single-square market, Strasbourg spreads roughly a dozen themed markets across the city center, so the whole historic core becomes one continuous, walkable event.
+Strasbourg calls itself the "Capitale de Noël" (Capital of Christmas), and it has the paper trail to prove it — the market traces back to 1570, making it one of the oldest Christmas markets in Europe. The half-timbered houses of the Petite France district, the pink sandstone bulk of Strasbourg Cathedral, and canals threading through the old town give the decorations a backdrop that feels genuinely medieval rather than manufactured.
+
+Unlike a single-square market, Strasbourg spreads roughly a dozen themed markets across the city center, so the whole historic core becomes one continuous, walkable event.
 
 ## Getting there and getting around
 
-Strasbourg is on the France-Germany border, about 1h50 by direct TGV from Paris Gare de l'Est, or a short train ride from Frankfurt, Karlsruhe, or Basel. Strasbourg-Entzheim Airport handles some European flights, but most visitors arrive by rail into Strasbourg-Ville station, a 15-20 minute walk (or quick tram ride on Lines A, C, or D toward Homme de Fer) from the cathedral and market squares. The old town itself is compact and pedestrian-heavy in December — trams are useful for reaching the station or outer neighborhoods, but once inside the historic center, walking is the only practical way to move between market squares.
+Strasbourg is on the France-Germany border, about 1h50 by direct TGV from Paris Gare de l'Est, or a short train ride from Frankfurt, Karlsruhe, or Basel. Strasbourg-Entzheim Airport handles some European flights, but most visitors arrive by rail into Strasbourg-Ville station, a 15-20 minute walk (or quick tram ride on Lines A, C, or D toward Homme de Fer) from the cathedral and market squares.
+
+The old town itself is compact and pedestrian-heavy in December — trams are useful for reaching the station or outer neighborhoods, but once inside the historic center, walking is the only practical way to move between market squares.
 
 ## What to see
 
-Place de la Cathédrale is the emotional center, with market chalets clustered directly beneath Strasbourg Cathedral's Gothic façade — the astronomical clock inside is worth the modest entry fee if you have 30 minutes to spare. Place Kléber hosts the "Grand Sapin," a Christmas tree that's often 25-30 meters tall and decorated with thousands of lights, usually with a small stage and activity zone for kids underneath. Place Broglie leans toward gourmet and gift stalls, while Place du Château sits in the cathedral's shadow with crafts and children's rides. For something quieter, cross into Petite France, where the canal-side houses are individually lit and reflected in the water — it's less crowded than the central squares, especially after dark on a weeknight.
+Place de la Cathédrale is the emotional center, with market chalets clustered directly beneath Strasbourg Cathedral's Gothic façade — the astronomical clock inside is worth the modest entry fee if you have 30 minutes to spare. Place Kléber hosts the "Grand Sapin," a Christmas tree that's often 25-30 meters tall and decorated with thousands of lights, usually with a small stage and activity zone for kids underneath.
+
+Place Broglie leans toward gourmet and gift stalls, while Place du Château sits in the cathedral's shadow with crafts and children's rides. For something quieter, cross into Petite France, where the canal-side houses are individually lit and reflected in the water — it's less crowded than the central squares, especially after dark on a weeknight.
 
 If you're visiting outside the market weeks (roughly late November through December 31), the shop *Christmas in Alsace* at 10 Rue des Dentelles keeps the spirit alive year-round. It's a dedicated Christmas boutique a few minutes' walk from the cathedral, selling Alsatian-style ornaments, nutcrackers, nativity figures, and regional decorations — reviewers rate it highly (4.4 stars from 538 reviews), and it's a reliable stop if you want a tangible souvenir of Alsatian Christmas craft without needing to time your trip to the market's exact dates.
 
@@ -92,4 +98,6 @@ Vin chaud (mulled wine) is the default hand-warmer, but Alsace has its own culin
 
 ## When to go and practical tips
 
-Weekday afternoons and evenings are noticeably calmer than weekends, when day-trippers arrive from Germany and beyond. Lights typically come on around dusk (roughly 5-6pm in December), so timing arrival for late afternoon lets you see the squares in daylight and after dark in one visit. December weather runs cold and often damp — layers and waterproof shoes matter more than any single accessory. Christmas Eve (December 24) usually marks the market's closing day, with most chalets closed by December 25, so plan the market portion of your trip before then if that's the goal. Hotel prices in the old town rise sharply through December, so booking well ahead, or staying slightly outside the center near the train station, can save meaningfully on cost.
+Weekday afternoons and evenings are noticeably calmer than weekends, when day-trippers arrive from Germany and beyond. Lights typically come on around dusk (roughly 5-6pm in December), so timing arrival for late afternoon lets you see the squares in daylight and after dark in one visit. December weather runs cold and often damp — layers and waterproof shoes matter more than any single accessory.
+
+Christmas Eve (December 24) usually marks the market's closing day, with most chalets closed by December 25, so plan the market portion of your trip before then if that's the goal. Hotel prices in the old town rise sharply through December, so booking well ahead, or staying slightly outside the center near the train station, can save meaningfully on cost.

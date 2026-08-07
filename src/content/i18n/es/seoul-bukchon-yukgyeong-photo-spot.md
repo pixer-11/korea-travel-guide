@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-bukchon-yukgyeong-photo-spot
-srcHash: '499acc0ce113'
+srcHash: 'afbbce4122d0'
 title: 'Bukchon Yukgyeong (punto fotográfico): guía de viaje de Seúl'
 description: 'Bukchon Yukgyeong ("las seis vistas escénicas de Bukchon") es una ruta autoguiada a pie por los empinados callejones de la Aldea Hanok de Bukchon, en el distrito de Jongno, donde la "Vista 6", en las calles de la ladera de Gahoe-dong (31-48 Gahoe-dong), es el punto más fotografiado: un estrecho callejón de piedra enmarcado por tejados curvos de hanok, con la Torre Namsan visible a lo lejos.'
 quickAnswer: 'Bukchon Yukgyeong ("las seis vistas escénicas de Bukchon") es una ruta autoguiada a pie por los empinados callejones de la Aldea Hanok de Bukchon, en el distrito de Jongno, donde la "Vista 6", en las calles de la ladera de Gahoe-dong (31-48 Gahoe-dong), es el punto más fotografiado: un estrecho callejón de piedra enmarcado por tejados curvos de hanok, con la Torre Namsan visible a lo lejos. Ve justo a la apertura, las 10 a. m., o a última hora de la tarde entre semana para fotografiarlo sin multitudes, ya que se trata de un barrio residencial donde realmente vive gente. Calcula entre 1 y 2 horas para recorrer las seis vistas desde la Estación Anguk (Línea 3) hasta la Escuela Primaria Jaedong.'
@@ -20,11 +20,17 @@ faq:
 
 ## Por qué ir
 
-La Aldea Hanok de Bukchon es uno de los últimos conjuntos intactos de casas tradicionales *hanok* de Seúl, y el "Yukgyeong" (las seis vistas escénicas) es la respuesta no oficial de la ciudad a las rutas fotográficas urbanas famosas en Instagram. A diferencia de un pueblo folclórico construido para turistas, este es un barrio vivo —unos 900 hanok todavía alojan a residentes reales— encajado en las colinas entre los palacios de Gyeongbokgung y Changdeokgung. Las seis vistas numeradas te guían entre tejados inclinados de teja, muros de contención de granito y perspectivas de callejones que se alinean perfectamente con la Torre N Seoul en el monte Namsan al fondo. La Vista 6, cerca de la dirección 31-48 Gahoe-dong, es la foto de postal: un callejón de piedra empinado y sinuoso, bordeado a ambos lados por oscuros aleros de teja, casi sin señalización moderna en el encuadre. Ha obtenido una calificación de 4.6 en casi 1,300 reseñas, en gran parte de visitantes que buscan justamente esa foto.
+La Aldea Hanok de Bukchon es uno de los últimos conjuntos intactos de casas tradicionales *hanok* de Seúl, y el "Yukgyeong" (las seis vistas escénicas) es la respuesta no oficial de la ciudad a las rutas fotográficas urbanas famosas en Instagram. A diferencia de un pueblo folclórico construido para turistas, este es un barrio vivo —unos 900 hanok todavía alojan a residentes reales— encajado en las colinas entre los palacios de Gyeongbokgung y Changdeokgung.
+
+Las seis vistas numeradas te guían entre tejados inclinados de teja, muros de contención de granito y perspectivas de callejones que se alinean perfectamente con la Torre N Seoul en el monte Namsan al fondo. La Vista 6, cerca de la dirección 31-48 Gahoe-dong, es la foto de postal: un callejón de piedra empinado y sinuoso, bordeado a ambos lados por oscuros aleros de teja, casi sin señalización moderna en el encuadre.
+
+Ha obtenido una calificación de 4.6 en casi 1,300 reseñas, en gran parte de visitantes que buscan justamente esa foto.
 
 ## Cómo llegar
 
-Toma la Línea 3 del metro de Seúl hasta la Estación Anguk y sal por la Salida 2. Desde allí es una caminata cuesta arriba de unos 10 a 15 minutos hasta Gahoe-dong. Como alternativa, la Estación Jongno 3-ga (Líneas 1, 3, 5) implica una caminata un poco más larga, pero evita parte de la subida inicial más empinada. No hay una "entrada" única: el Yukgyeong es una ruta, no un sitio con acceso controlado, así que la mayoría de los visitantes sigue los postes numerados (del 1 al 6) colocados en farolas y muros de piedra a lo largo del pueblo. A veces hay mapas impresos gratuitos disponibles en el Centro de Cultura Tradicional de Bukchon, cerca de la base de la colina; el sitio web de la Organización de Turismo de Seúl también tiene un mapa de la ruta de Bukchon descargable, útil para guardarlo en capturas de pantalla antes de ir, ya que la señal móvil y el GPS pueden ser poco confiables en los estrechos callejones.
+Toma la Línea 3 del metro de Seúl hasta la Estación Anguk y sal por la Salida 2. Desde allí es una caminata cuesta arriba de unos 10 a 15 minutos hasta Gahoe-dong. Como alternativa, la Estación Jongno 3-ga (Líneas 1, 3, 5) implica una caminata un poco más larga, pero evita parte de la subida inicial más empinada. No hay una "entrada" única: el Yukgyeong es una ruta, no un sitio con acceso controlado, así que la mayoría de los visitantes sigue los postes numerados (del 1 al 6) colocados en farolas y muros de piedra a lo largo del pueblo.
+
+A veces hay mapas impresos gratuitos disponibles en el Centro de Cultura Tradicional de Bukchon, cerca de la base de la colina; el sitio web de la Organización de Turismo de Seúl también tiene un mapa de la ruta de Bukchon descargable, útil para guardarlo en capturas de pantalla antes de ir, ya que la señal móvil y el GPS pueden ser poco confiables en los estrechos callejones.
 
 ## Qué ver
 
@@ -36,7 +42,9 @@ Toma la Línea 3 del metro de Seúl hasta la Estación Anguk y sal por la Salida
 
 ## Cuándo ir
 
-La mañana temprano suele ser el mejor momento: luz suave, poco tránsito peatonal y respeto por los residentes que aún duermen. A última hora de la tarde entre semana también funciona, aunque los fines de semana se llenan de grupos turísticos desde media mañana. La primavera (abril) y el otoño (octubre-noviembre) traen la luz más favorecedora y temperaturas cómodas para caminar; en pleno verano hay humedad y los tramos cuesta arriba se vuelven exigentes, mientras que en invierno los callejones pueden estar resbaladizos por el hielo. Calcula entre 1 y 2 horas para recorrer la ruta completa de las seis vistas a un ritmo relajado, con paradas para fotos.
+La mañana temprano suele ser el mejor momento: luz suave, poco tránsito peatonal y respeto por los residentes que aún duermen. A última hora de la tarde entre semana también funciona, aunque los fines de semana se llenan de grupos turísticos desde media mañana. La primavera (abril) y el otoño (octubre-noviembre) traen la luz más favorecedora y temperaturas cómodas para caminar; en pleno verano hay humedad y los tramos cuesta arriba se vuelven exigentes, mientras que en invierno los callejones pueden estar resbaladizos por el hielo.
+
+Calcula entre 1 y 2 horas para recorrer la ruta completa de las seis vistas a un ritmo relajado, con paradas para fotos.
 
 ## Cerca de allí y consejos
 

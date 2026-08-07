@@ -56,15 +56,21 @@ draft: false
 
 ## Why go
 
-You see the Flyer before you understand its scale — a slim ring of steel rising over Marina Bay, visible from the Esplanade, from Gardens by the Bay, even from the expressway coming in from Changi. Up close, at 165 metres, it's taller than the London Eye, and the 28 fully air-conditioned capsules look almost toy-like against the sky until you're standing beneath one and it swallows you whole. Opened in 2008, it was built to give Singapore what it didn't quite have: a single vantage point that takes in the colonial core, the futuristic Marina Bay skyline, and the container ships queued in the Strait, all in one slow, cinematic sweep.
+You see the Flyer before you understand its scale — a slim ring of steel rising over Marina Bay, visible from the Esplanade, from Gardens by the Bay, even from the expressway coming in from Changi. Up close, at 165 metres, it's taller than the London Eye, and the 28 fully air-conditioned capsules look almost toy-like against the sky until you're standing beneath one and it swallows you whole.
+
+Opened in 2008, it was built to give Singapore what it didn't quite have: a single vantage point that takes in the colonial core, the futuristic Marina Bay skyline, and the container ships queued in the Strait, all in one slow, cinematic sweep.
 
 ## What you'll see and feel
 
-Boarding happens on a moving platform, so the wheel barely pauses — you step into a capsule that seats up to 28 people, though most rotations feel spacious rather than crowded. As the capsule lifts off, the terminal building shrinks first, then the Padang and the colonial district, then Marina Bay Sands' three towers with their surfboard-shaped SkyPark come into view at eye level and, eventually, below you. The full rotation takes around 30 minutes — long enough that the light changes noticeably if you catch it near dusk, the glass towers flipping from glare to glow. On a clear day you can pick out Indonesia's Riau islands on the horizon; on a hazier one, the show is entirely the city itself — the Singapore River threading past Boat Quay, the green canopy of the Botanic Gardens in the distance, cargo ships stacked at anchor offshore.
+Boarding happens on a moving platform, so the wheel barely pauses — you step into a capsule that seats up to 28 people, though most rotations feel spacious rather than crowded. As the capsule lifts off, the terminal building shrinks first, then the Padang and the colonial district, then Marina Bay Sands' three towers with their surfboard-shaped SkyPark come into view at eye level and, eventually, below you.
+
+The full rotation takes around 30 minutes — long enough that the light changes noticeably if you catch it near dusk, the glass towers flipping from glare to glow. On a clear day you can pick out Indonesia's Riau islands on the horizon; on a hazier one, the show is entirely the city itself — the Singapore River threading past Boat Quay, the green canopy of the Botanic Gardens in the distance, cargo ships stacked at anchor offshore.
 
 ## Getting there
 
-The Flyer sits at 30 Raffles Avenue, in the Marina Bay/Promenade district, an easy walk from the Marina Bay Sands and Gardens by the Bay. The nearest MRT stop is Promenade Station (Circle Line and Downtown Line), about a 10-minute walk via covered link bridges — useful in Singapore's heat or sudden downpours. Bugis and Esplanade stations are also within a 15–20 minute walk if you're combining it with a stroll along the bay. Taxis and ride-hailing apps drop off directly at the terminal building, which also houses ticketing, a gift shop, and food and drink options for before or after your flight.
+The Flyer sits at 30 Raffles Avenue, in the Marina Bay/Promenade district, an easy walk from the Marina Bay Sands and Gardens by the Bay. The nearest MRT stop is Promenade Station (Circle Line and Downtown Line), about a 10-minute walk via covered link bridges — useful in Singapore's heat or sudden downpours. Bugis and Esplanade stations are also within a 15–20 minute walk if you're combining it with a stroll along the bay.
+
+Taxis and ride-hailing apps drop off directly at the terminal building, which also houses ticketing, a gift shop, and food and drink options for before or after your flight.
 
 ## Beyond the basic ticket
 
@@ -72,7 +78,11 @@ Beyond the standard rotation, the Flyer runs a butler-serviced private capsule o
 
 ## How to visit like a local
 
-This is one of Singapore's most visited attractions, with tens of thousands of reviews, so treat it like a busy landmark rather than a quiet find — the goal is beating the crowds, not avoiding them entirely. Buy tickets online in advance for a specific time slot rather than queuing at the counter; walk-up lines build fast in the late afternoon and early evening, when tour groups and sunset-chasers converge. A weekday morning slot, shortly after opening, tends to be calmest, with short waits at the boarding platform and capsules that aren't packed. If you want the skyline lit up, go for one of the last rotations before closing instead of the crowded sunset window — you'll get the blue-hour transition into night lights without the peak crush. Payment is standard card or mobile pay at the ticket counters and online, and there's no tipping expected for the regular ride (butler-service packages may include service in the price — check when booking). Dress for a strong air-conditioning contrast against Singapore's humidity, and skip trying to time your visit around fireworks or events at Marina Bay Sands unless you've checked the schedule — the wheel's own crowds don't need the extra competition. The most common mistake visitors make is arriving without a booked slot and assuming they'll walk straight on; build in at least a 30–45 minute buffer if you're ticketing on the day.
+This is one of Singapore's most visited attractions, with tens of thousands of reviews, so treat it like a busy landmark rather than a quiet find — the goal is beating the crowds, not avoiding them entirely. Buy tickets online in advance for a specific time slot rather than queuing at the counter; walk-up lines build fast in the late afternoon and early evening, when tour groups and sunset-chasers converge.
+
+A weekday morning slot, shortly after opening, tends to be calmest, with short waits at the boarding platform and capsules that aren't packed. If you want the skyline lit up, go for one of the last rotations before closing instead of the crowded sunset window — you'll get the blue-hour transition into night lights without the peak crush. Payment is standard card or mobile pay at the ticket counters and online, and there's no tipping expected for the regular ride (butler-service packages may include service in the price — check when booking).
+
+Dress for a strong air-conditioning contrast against Singapore's humidity, and skip trying to time your visit around fireworks or events at Marina Bay Sands unless you've checked the schedule — the wheel's own crowds don't need the extra competition. The most common mistake visitors make is arriving without a booked slot and assuming they'll walk straight on; build in at least a 30–45 minute buffer if you're ticketing on the day.
 
 ## Good to combine with
 

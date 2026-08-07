@@ -30,17 +30,23 @@ heroImage:
 
 ## Why YAPA stands out
 
-Viale Monte Nero isn't Milan's most obvious dining strip — it's a wide, tree-lined residential road southeast of the center, more known for everyday trattorias and aperitivo bars than culinary statements. That's part of what makes YAPA feel like a jolt when you walk in. The room hums with the low roar of a robatayaki grill working through skewers and charred vegetables, smoke curling up toward the vents, while behind the bar someone is shaking or stirring a cocktail built from a recipe that might have come out of a collaboration with a bar in New York. The kitchen, under chef Matteo Pancetti, calls its own approach "Nomadic Soul" — a deliberate mash-up of Japanese grilling technique and South American flavor instincts, plated for a Milanese crowd that wants something that doesn't look or taste like anything else on the block.
+Viale Monte Nero isn't Milan's most obvious dining strip — it's a wide, tree-lined residential road southeast of the center, more known for everyday trattorias and aperitivo bars than culinary statements. That's part of what makes YAPA feel like a jolt when you walk in. The room hums with the low roar of a robatayaki grill working through skewers and charred vegetables, smoke curling up toward the vents, while behind the bar someone is shaking or stirring a cocktail built from a recipe that might have come out of a collaboration with a bar in New York.
+
+The kitchen, under chef Matteo Pancetti, calls its own approach "Nomadic Soul" — a deliberate mash-up of Japanese grilling technique and South American flavor instincts, plated for a Milanese crowd that wants something that doesn't look or taste like anything else on the block.
 
 ## What you'll find on arrival
 
-Walk in and the open robatayaki station is the visual anchor — a Japanese-style charcoal grill where skewers of protein and vegetables cook slowly over intense, direct heat, the classic technique for this style of cooking. It's the kind of setup where you can watch the char develop in real time, which gives the whole space an open-kitchen energy even if you're seated well away from it. YAPA recently expanded its footprint, so the layout now has room to breathe — useful, because this is not a quiet corner spot; it fills up and stays loud in the way genuinely popular places do.
+Walk in and the open robatayaki station is the visual anchor — a Japanese-style charcoal grill where skewers of protein and vegetables cook slowly over intense, direct heat, the classic technique for this style of cooking. It's the kind of setup where you can watch the char develop in real time, which gives the whole space an open-kitchen energy even if you're seated well away from it.
+
+YAPA recently expanded its footprint, so the layout now has room to breathe — useful, because this is not a quiet corner spot; it fills up and stays loud in the way genuinely popular places do.
 
 The drinks program is arguably as much of a draw as the grill. YAPA runs a globally inspired cocktail list and has launched "Liquid Diaries," a rotating collaboration series that has brought in international guest bars — including Double Chicken Please from New York, one of the more talked-about cocktail bars in the US in recent years. Practically, this means the drink menu isn't static: what you're offered on a given visit may reflect whichever guest partnership is running, which is part of the appeal if you like to track what's new rather than order the same negroni everywhere.
 
 ## Getting there
 
-The address sits on Viale Monte Nero, in the belt of streets between Porta Romana and Corso di Porta Vittoria, an area easy to reach on foot from the Duomo in fifteen to twenty minutes, or via Milan's tram network, which runs directly along viali like this one. If you're coming from further out, the nearest metro options are around the Porta Romana (Line 3, yellow) or San Babila (Line 1, red) stations, both a short walk or tram hop from Monte Nero. This is a genuinely residential, lived-in stretch of Milan — expect apartment blocks and small shops around it, not a tourist strip, so the restaurant itself is the destination rather than a stop along a sightseeing route.
+The address sits on Viale Monte Nero, in the belt of streets between Porta Romana and Corso di Porta Vittoria, an area easy to reach on foot from the Duomo in fifteen to twenty minutes, or via Milan's tram network, which runs directly along viali like this one. If you're coming from further out, the nearest metro options are around the Porta Romana (Line 3, yellow) or San Babila (Line 1, red) stations, both a short walk or tram hop from Monte Nero.
+
+This is a genuinely residential, lived-in stretch of Milan — expect apartment blocks and small shops around it, not a tourist strip, so the restaurant itself is the destination rather than a stop along a sightseeing route.
 
 ## When to go
 
@@ -48,5 +54,7 @@ Because YAPA functions as both a dinner spot and a cocktail destination, evening
 
 ## How to visit like a local
 
-Book ahead rather than walking in — anywhere running a named chef concept and a guest-bar collaboration series is drawing a crowd that plans ahead, and Milanese diners increasingly reserve even casual-feeling spots like this one. Expect to pay by card; contactless is standard across Milan's bar and restaurant scene, though it's still wise to carry some cash as backup. If the "Liquid Diaries" series is running during your visit, ask what the current collaboration is — that's the detail regulars will be talking about, and staff will usually walk you through the concept behind it. Dress code leans smart-casual rather than dressy. The mistake visitors make is treating this as a quick pre-dinner drink stop; the room is built around lingering over the grill and a full cocktail arc, so budget a proper two-hour sitting rather than squeezing it into a rushed schedule between other plans.
+Book ahead rather than walking in — anywhere running a named chef concept and a guest-bar collaboration series is drawing a crowd that plans ahead, and Milanese diners increasingly reserve even casual-feeling spots like this one. Expect to pay by card; contactless is standard across Milan's bar and restaurant scene, though it's still wise to carry some cash as backup.
+
+If the "Liquid Diaries" series is running during your visit, ask what the current collaboration is — that's the detail regulars will be talking about, and staff will usually walk you through the concept behind it. Dress code leans smart-casual rather than dressy. The mistake visitors make is treating this as a quick pre-dinner drink stop; the room is built around lingering over the grill and a full cocktail arc, so budget a proper two-hour sitting rather than squeezing it into a rushed schedule between other plans.
 

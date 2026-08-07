@@ -41,11 +41,15 @@ draft: false
 
 ## Why go
 
-This site protects one of the most important archaeological finds of the 20th century: thousands of life-sized clay soldiers, horses, and chariots buried around 210 BCE to guard Emperor Qin Shi Huang, China's first unifier, in the afterlife. Discovered accidentally by farmers digging a well in 1974, the pits reveal individually sculpted faces, armor detail, and battle formations that took an estimated 700,000 laborers decades to complete. With a 4.6 rating across more than 8,000 reviews, it's consistently ranked among the top reasons travelers visit Xi'an at all — this isn't a staged photo-op, it's a working excavation site you walk through on raised platforms above the actual dig.
+This site protects one of the most important archaeological finds of the 20th century: thousands of life-sized clay soldiers, horses, and chariots buried around 210 BCE to guard Emperor Qin Shi Huang, China's first unifier, in the afterlife. Discovered accidentally by farmers digging a well in 1974, the pits reveal individually sculpted faces, armor detail, and battle formations that took an estimated 700,000 laborers decades to complete.
+
+With a 4.6 rating across more than 8,000 reviews, it's consistently ranked among the top reasons travelers visit Xi'an at all — this isn't a staged photo-op, it's a working excavation site you walk through on raised platforms above the actual dig.
 
 ## Getting there
 
-The museum sits in Lintong District, roughly 40km (about 1.5 hours by road) northeast of central Xi'an. The most reliable budget option is Tourist Bus Line 5 (also signed as You You 5 or Bus 306), which departs from the east square of Xi'an Railway Station and drops you near the museum entrance for a low fixed fare — look for the official green-and-white tourist bus signage to avoid unlicensed drivers touting "direct" rides. A taxi or ride-hail (Didi) costs more but takes about the same time depending on traffic. Many visitors instead book a half-day tour that bundles transport with a guide, which is worth it here because on-site signage explains less than you'd expect for a site this significant.
+The museum sits in Lintong District, roughly 40km (about 1.5 hours by road) northeast of central Xi'an. The most reliable budget option is Tourist Bus Line 5 (also signed as You You 5 or Bus 306), which departs from the east square of Xi'an Railway Station and drops you near the museum entrance for a low fixed fare — look for the official green-and-white tourist bus signage to avoid unlicensed drivers touting "direct" rides.
+
+A taxi or ride-hail (Didi) costs more but takes about the same time depending on traffic. Many visitors instead book a half-day tour that bundles transport with a guide, which is worth it here because on-site signage explains less than you'd expect for a site this significant.
 
 ## What to see
 
@@ -64,4 +68,6 @@ Arrive at or near opening time on a weekday; by mid-morning, tour groups from do
 
 ## Nearby & tips
 
-The actual burial mound of Emperor Qin Shi Huang lies about 1.5km from the pits and can be reached by shuttle bus included in some ticket packages — it's mostly a grassy hill today, since excavation is deliberately paused, but worth the short detour for context. Lintong District also has simple noodle and dumpling stalls near the site entrance for a quick lunch before heading back. Combine this trip with the Huaqing Hot Springs, a short drive away, if you have a full day. Bring cash in small denominations for local shuttle fares and confirm current ticket prices and hours online before you go, since both are adjusted seasonally.
+The actual burial mound of Emperor Qin Shi Huang lies about 1.5km from the pits and can be reached by shuttle bus included in some ticket packages — it's mostly a grassy hill today, since excavation is deliberately paused, but worth the short detour for context. Lintong District also has simple noodle and dumpling stalls near the site entrance for a quick lunch before heading back.
+
+Combine this trip with the Huaqing Hot Springs, a short drive away, if you have a full day. Bring cash in small denominations for local shuttle fares and confirm current ticket prices and hours online before you go, since both are adjusted seasonally.

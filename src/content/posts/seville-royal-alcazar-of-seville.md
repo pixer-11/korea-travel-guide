@@ -46,11 +46,15 @@ draft: false
 
 ## Why go
 
-The Royal Alcázar of Seville isn't a ruin or a museum piece pretending at royal life — it's a working palace, still used by the Spanish royal family when they're in the city, which makes it unique among Spain's great monuments. Its centerpiece, the Palacio de Don Pedro, was built in the 1360s by Christian King Pedro I using Moorish craftsmen from Granada, producing a building that's technically Christian but visually and structurally Mudéjar: horseshoe arches, carved stucco, gilded ceilings, and acres of 16th-century azulejo tilework. Add in the Gothic Palace, the Admiral's Hall (where voyages to the Americas were once planned), and the sprawling gardens with fountains, pavilions, and peacocks, and it's easy to see why it holds a 4.7 rating across more than 100,000 reviews. It's also a filming location for "Game of Thrones" (as the Water Gardens of Dorne), which draws a subset of visitors specifically hunting for those spots.
+The Royal Alcázar of Seville isn't a ruin or a museum piece pretending at royal life — it's a working palace, still used by the Spanish royal family when they're in the city, which makes it unique among Spain's great monuments. Its centerpiece, the Palacio de Don Pedro, was built in the 1360s by Christian King Pedro I using Moorish craftsmen from Granada, producing a building that's technically Christian but visually and structurally Mudéjar: horseshoe arches, carved stucco, gilded ceilings, and acres of 16th-century azulejo tilework.
+
+Add in the Gothic Palace, the Admiral's Hall (where voyages to the Americas were once planned), and the sprawling gardens with fountains, pavilions, and peacocks, and it's easy to see why it holds a 4.7 rating across more than 100,000 reviews. It's also a filming location for "Game of Thrones" (as the Water Gardens of Dorne), which draws a subset of visitors specifically hunting for those spots.
 
 ## Getting there
 
-The Alcázar sits in the Casco Antiguo (old town), directly beside Seville Cathedral and the Giralda tower, at the edge of the Barrio Santa Cruz. There's no metro station right at the door — Seville's compact center is best covered on foot — but the closest tram stop is Archivo de Indias on the T1 line, about a 3-minute walk. If arriving from Santa Justa train station, a taxi or the C1/C2 bus into the center followed by a 15–20 minute walk covers it easily. The entrance is on Plaza del Triunfo, the same square that fronts the Cathedral, so most visitors simply combine the two on foot from wherever they're staying in the old town.
+The Alcázar sits in the Casco Antiguo (old town), directly beside Seville Cathedral and the Giralda tower, at the edge of the Barrio Santa Cruz. There's no metro station right at the door — Seville's compact center is best covered on foot — but the closest tram stop is Archivo de Indias on the T1 line, about a 3-minute walk.
+
+If arriving from Santa Justa train station, a taxi or the C1/C2 bus into the center followed by a 15–20 minute walk covers it easily. The entrance is on Plaza del Triunfo, the same square that fronts the Cathedral, so most visitors simply combine the two on foot from wherever they're staying in the old town.
 
 ## What to see and how to plan your visit
 

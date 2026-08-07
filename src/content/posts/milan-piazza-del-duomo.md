@@ -56,7 +56,9 @@ draft: false
 
 ## Why go
 
-You come up out of the metro and the light changes first — the street narrows, then suddenly opens, and there it is: the Duomo's facade, white and grey-veined marble stacked with spires, saints, and gargoyles, over three thousand statues in total if you believe the guides (and it's roughly true). Piazza del Duomo isn't a quiet monument you admire from a distance; it's Milan's living room, ringed by pigeons, street performers, gelato carts, and the constant low hum of a city that never quite stops moving through it. This is the spot every Milan itinerary starts from, and for good reason — within a two-minute walk you've got the cathedral, the Royal Palace (Palazzo Reale), and the glass-vaulted Galleria Vittorio Emanuele II, one of the world's oldest shopping arcades.
+You come up out of the metro and the light changes first — the street narrows, then suddenly opens, and there it is: the Duomo's facade, white and grey-veined marble stacked with spires, saints, and gargoyles, over three thousand statues in total if you believe the guides (and it's roughly true). Piazza del Duomo isn't a quiet monument you admire from a distance; it's Milan's living room, ringed by pigeons, street performers, gelato carts, and the constant low hum of a city that never quite stops moving through it.
+
+This is the spot every Milan itinerary starts from, and for good reason — within a two-minute walk you've got the cathedral, the Royal Palace (Palazzo Reale), and the glass-vaulted Galleria Vittorio Emanuele II, one of the world's oldest shopping arcades.
 
 ## Getting there
 
@@ -64,13 +66,21 @@ The piazza sits directly above the Duomo metro station, served by the M1 (red) a
 
 ## What to see
 
-The cathedral itself is the obvious centerpiece — its facade took nearly six centuries to complete, a patchwork of Gothic spires and later neoclassical additions that somehow reads as unified from a distance. To its left, the Royal Palace hosts rotating art exhibitions in a building that once housed Milan's rulers. Behind you as you face the Duomo, the mouth of the Galleria opens up: check the mosaic floor for the bull (Torino's symbol) and spin on its groin with your heel for luck, a habit so worn into the marble you can see the depression underfoot. Overhead, the arcade's iron-and-glass roof throws diagonal light across the cafés and boutiques below. Don't skip looking up at the Duomo's roof terraces — accessible by stairs or elevator (book tickets in advance) — where you walk among the spires at close range with the city sprawling out below.
+The cathedral itself is the obvious centerpiece — its facade took nearly six centuries to complete, a patchwork of Gothic spires and later neoclassical additions that somehow reads as unified from a distance. To its left, the Royal Palace hosts rotating art exhibitions in a building that once housed Milan's rulers. Behind you as you face the Duomo, the mouth of the Galleria opens up: check the mosaic floor for the bull (Torino's symbol) and spin on its groin with your heel for luck, a habit so worn into the marble you can see the depression underfoot.
+
+Overhead, the arcade's iron-and-glass roof throws diagonal light across the cafés and boutiques below. Don't skip looking up at the Duomo's roof terraces — accessible by stairs or elevator (book tickets in advance) — where you walk among the spires at close range with the city sprawling out below.
 
 ## When to go
 
-Piazza del Duomo carries a rating near the top of the scale from tens of thousands of reviewers, and it earns that reputation, but it also means the square is rarely empty. Midday and early afternoon, especially on weekends, is when tour groups cluster thickest in front of the cathedral steps. Early morning light — before the crowds arrive and before the sun climbs high enough to flatten the facade's shadows — gives you the best photos and the calmest atmosphere. Evenings after dinner are a close second: the floodlit facade takes on a warmer, almost golden cast, and the square empties out enough that you can actually hear your own footsteps on the stone.
+Piazza del Duomo carries a rating near the top of the scale from tens of thousands of reviewers, and it earns that reputation, but it also means the square is rarely empty. Midday and early afternoon, especially on weekends, is when tour groups cluster thickest in front of the cathedral steps. Early morning light — before the crowds arrive and before the sun climbs high enough to flatten the facade's shadows — gives you the best photos and the calmest atmosphere.
+
+Evenings after dinner are a close second: the floodlit facade takes on a warmer, almost golden cast, and the square empties out enough that you can actually hear your own footsteps on the stone.
 
 ## How to visit like a local
 
-Don't expect to have this place to yourself — it's one of the most visited squares in Italy, not a hidden corner, so plan around the crowds rather than hoping to avoid them entirely. The single biggest mistake visitors make is queuing for cathedral or rooftop tickets on-site in the middle of the day; buy timed-entry tickets online in advance and you'll skip the worst of the line. Most cafés and shops around the piazza take cards and contactless payment without issue, though carrying some small cash is useful for street vendors and the occasional gelato stand. If you want a coffee, stand at the bar rather than sitting at a table — it's cheaper and it's how Milanese actually drink their espresso, in two minutes, standing up. Keep a hand on your bag near the cathedral steps and inside the Galleria, where the density of people makes it a natural spot for pickpockets. And resist the men offering to tie a "friendship bracelet" on your wrist near the church entrance — it's a well-known tourist scam, not a gift.
+Don't expect to have this place to yourself — it's one of the most visited squares in Italy, not a hidden corner, so plan around the crowds rather than hoping to avoid them entirely. The single biggest mistake visitors make is queuing for cathedral or rooftop tickets on-site in the middle of the day; buy timed-entry tickets online in advance and you'll skip the worst of the line.
+
+Most cafés and shops around the piazza take cards and contactless payment without issue, though carrying some small cash is useful for street vendors and the occasional gelato stand. If you want a coffee, stand at the bar rather than sitting at a table — it's cheaper and it's how Milanese actually drink their espresso, in two minutes, standing up.
+
+Keep a hand on your bag near the cathedral steps and inside the Galleria, where the density of people makes it a natural spot for pickpockets. And resist the men offering to tie a "friendship bracelet" on your wrist near the church entrance — it's a well-known tourist scam, not a gift.
 

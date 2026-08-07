@@ -73,23 +73,35 @@ draft: false
 
 ## Why Carmelo pulls a crowd
 
-You spot Carmelo before you reach it — strings of lights, painted signage, and windows fogged faintly from the kitchen heat spilling onto Rue Neuve. Step inside and the room keeps unfolding: it's not one dining room but several, each papered, tiled, and hung with a different accumulation of trinkets, vintage posters, and mismatched lamps, the kind of layered décor that looks assembled over years rather than designed in a weekend. It reads as more Little Italy than Lyonnais bouchon, and that's the point — this is a break from the city's usual quenelles and andouillette, in favor of platters of pasta piled high enough to need two hands.
+You spot Carmelo before you reach it — strings of lights, painted signage, and windows fogged faintly from the kitchen heat spilling onto Rue Neuve. Step inside and the room keeps unfolding: it's not one dining room but several, each papered, tiled, and hung with a different accumulation of trinkets, vintage posters, and mismatched lamps, the kind of layered décor that looks assembled over years rather than designed in a weekend.
+
+It reads as more Little Italy than Lyonnais bouchon, and that's the point — this is a break from the city's usual quenelles and andouillette, in favor of platters of pasta piled high enough to need two hands.
 
 ## Getting there
 
-Carmelo sits at 7 Rue Neuve, in Lyon's 1st arrondissement, right in the knot of pedestrian streets behind Place des Terreaux. The closest metro stop is Hôtel de Ville - Louis Pradel (Line A), about a 5-minute walk; Cordeliers (Lines A and C) works almost as well. If you're coming from Vieux Lyon or Fourvière, it's an easy 15-minute walk across the Saône, and a good excuse to pass by the Musée des Beaux-Arts and the Terreaux fountain on the way. This is dense, walkable Presqu'île territory — you won't need a car, and parking here is more trouble than it's worth.
+Carmelo sits at 7 Rue Neuve, in Lyon's 1st arrondissement, right in the knot of pedestrian streets behind Place des Terreaux. The closest metro stop is Hôtel de Ville - Louis Pradel (Line A), about a 5-minute walk; Cordeliers (Lines A and C) works almost as well. If you're coming from Vieux Lyon or Fourvière, it's an easy 15-minute walk across the Saône, and a good excuse to pass by the Musée des Beaux-Arts and the Terreaux fountain on the way.
+
+This is dense, walkable Presqu'île territory — you won't need a car, and parking here is more trouble than it's worth.
 
 ## What to eat
 
-Expect the Italian staples done generously rather than delicately: burrata starters, plates of tagliatelle or gnocchi under sauces that lean rich and buttery, thin-crust pizzas, and tiramisu big enough to share even when the menu doesn't suggest sharing. Portions are the running theme in almost every account of the place — this is food meant to be eaten slowly, over a couple of hours, not rushed between sightseeing stops. The room hums at full volume once it fills, plates coming out of the kitchen in a steady stream rather than a slow trickle, and the noise and warmth of it are part of the draw as much as the food itself.
+Expect the Italian staples done generously rather than delicately: burrata starters, plates of tagliatelle or gnocchi under sauces that lean rich and buttery, thin-crust pizzas, and tiramisu big enough to share even when the menu doesn't suggest sharing. Portions are the running theme in almost every account of the place — this is food meant to be eaten slowly, over a couple of hours, not rushed between sightseeing stops.
+
+The room hums at full volume once it fills, plates coming out of the kitchen in a steady stream rather than a slow trickle, and the noise and warmth of it are part of the draw as much as the food itself.
 
 ## When to go
 
-Carmelo runs on two distinct service windows rather than one long stretch — lunch from 11:45am to 2pm, and dinner from 6:15pm, closing at 10:15pm most nights (10:45pm on Fridays and Saturdays). The one exception: on weekends lunch stretches to 3:15pm and the room stays genuinely busy from midday through closing, so that's the window to avoid if you want a table without a wait. There isn't a hidden quiet hour to slip into here — the honest advice is to eat either right at opening, 11:45am, when lunch service starts, or plan to queue, especially Friday and Saturday nights.
+Carmelo runs on two distinct service windows rather than one long stretch — lunch from 11:45am to 2pm, and dinner from 6:15pm, closing at 10:15pm most nights (10:45pm on Fridays and Saturdays). The one exception: on weekends lunch stretches to 3:15pm and the room stays genuinely busy from midday through closing, so that's the window to avoid if you want a table without a wait.
+
+There isn't a hidden quiet hour to slip into here — the honest advice is to eat either right at opening, 11:45am, when lunch service starts, or plan to queue, especially Friday and Saturday nights.
 
 ## How to visit like a local
 
-Book ahead if you can, especially for dinner or any weekend slot — with a restaurant this consistently full, walk-ins should have a backup plan or be ready to wait at the bar area for a table to turn over. Payment is standard French restaurant practice: card is accepted everywhere, and a service charge is already built into French bills by law, so tipping is a small rounding-up gesture rather than an expectation — a euro or two, or nothing at all, is normal. If you're eating solo or as a pair, going right at opening (11:45am for lunch) is your best shot at a table without booking. The most common misstep visitors make is treating this like a quick bite between Vieux Lyon and the Presqu'île's shops — the multi-room layout and the volume of food mean it rewards a proper sit-down of an hour or more, not a rushed 20-minute stop. Given how popular Carmelo has become — it's one of the most-reviewed restaurants in central Lyon — don't expect an undiscovered spot; expect a lively, packed room and plan your timing around that reality rather than hoping to beat the crowd by luck.
+Book ahead if you can, especially for dinner or any weekend slot — with a restaurant this consistently full, walk-ins should have a backup plan or be ready to wait at the bar area for a table to turn over. Payment is standard French restaurant practice: card is accepted everywhere, and a service charge is already built into French bills by law, so tipping is a small rounding-up gesture rather than an expectation — a euro or two, or nothing at all, is normal.
+
+If you're eating solo or as a pair, going right at opening (11:45am for lunch) is your best shot at a table without booking. The most common misstep visitors make is treating this like a quick bite between Vieux Lyon and the Presqu'île's shops — the multi-room layout and the volume of food mean it rewards a proper sit-down of an hour or more, not a rushed 20-minute stop.
+
+Given how popular Carmelo has become — it's one of the most-reviewed restaurants in central Lyon — don't expect an undiscovered spot; expect a lively, packed room and plan your timing around that reality rather than hoping to beat the crowd by luck.
 
 ## Nearby to pair with your visit
 

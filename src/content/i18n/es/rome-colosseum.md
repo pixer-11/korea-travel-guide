@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: rome-colosseum
-srcHash: d5617d3ca3f9
+srcHash: '5b100f555093'
 title: 'Coliseo: guía de viaje de Roma'
 description: Compra tu entrada con horario asignado online antes de ir (el Coliseo, el Foro Romano y el Palatino comparten una entrada combinada, válida por 24 horas) y llega a tu franja horaria 15 minutos antes, teniendo en cuenta la cola de seguridad.
 quickAnswer: Compra tu entrada con horario asignado online antes de ir (el Coliseo, el Foro Romano y el Palatino comparten una entrada combinada, válida por 24 horas) y llega a tu franja horaria 15 minutos antes, teniendo en cuenta la cola de seguridad. Calcula entre 2 y 2,5 horas solo para el anfiteatro, más si añades la visita a la arena o al subterráneo. La parada más cercana es Colosseo, en la Línea B del metro, justo frente a la entrada al otro lado de la plaza.
@@ -24,7 +24,9 @@ Pocas ruinas en el mundo cargan con el peso histórico del Coliseo. Terminado en
 
 ## Cómo llegar
 
-El Coliseo se encuentra en P.za del Colosseo, 1, en pleno corazón de la Roma antigua, flanqueado por el Foro Romano y el Palatino. La forma más sencilla de llegar es la Línea B del metro hasta la parada Colosseo, que te deja justo enfrente de la entrada principal: verás el anfiteatro nada más subir las escaleras. La Línea A conecta con la Línea B en la estación Termini si vienes de otra zona de la ciudad. El tranvía 3 y varios autobuses (incluidos el 51, el 75 y el 85) también paran cerca, en Via dei Fori Imperiali o Via Celio Vibenna. Si caminas desde el centro de Roma, el tramo de Via dei Fori Imperiali desde Piazza Venezia lleva unos 15-20 minutos y ofrece un buen anticipo de las ruinas del Foro por el camino.
+El Coliseo se encuentra en P.za del Colosseo, 1, en pleno corazón de la Roma antigua, flanqueado por el Foro Romano y el Palatino. La forma más sencilla de llegar es la Línea B del metro hasta la parada Colosseo, que te deja justo enfrente de la entrada principal: verás el anfiteatro nada más subir las escaleras. La Línea A conecta con la Línea B en la estación Termini si vienes de otra zona de la ciudad.
+
+El tranvía 3 y varios autobuses (incluidos el 51, el 75 y el 85) también paran cerca, en Via dei Fori Imperiali o Via Celio Vibenna. Si caminas desde el centro de Roma, el tramo de Via dei Fori Imperiali desde Piazza Venezia lleva unos 15-20 minutos y ofrece un buen anticipo de las ruinas del Foro por el camino.
 
 ## Qué ver y cómo planear la visita
 
@@ -34,8 +36,12 @@ Como el Coliseo se vende junto con el Foro Romano y el Palatino en la misma entr
 
 ## Cuándo ir
 
-Primera hora de la mañana (la apertura, generalmente hacia las 8:30 o las 9:00) y las últimas franjas de entrada del día son sistemáticamente los momentos con menos gente, y la luz más suave hace que los arcos de piedra resulten más fotogénicos. El mediodía de junio a agosto es implacable: sol pleno, sin sombra dentro de la arena y las mayores aglomeraciones. La primavera (abril-mayo) y el otoño (septiembre-octubre) ofrecen el mejor equilibrio entre clima templado y colas manejables. Los horarios de apertura varían según la temporada y los días festivos, así que conviene confirmarlos en el sitio oficial del Parco Archeologico del Colosseo antes de reservar.
+Primera hora de la mañana (la apertura, generalmente hacia las 8:30 o las 9:00) y las últimas franjas de entrada del día son sistemáticamente los momentos con menos gente, y la luz más suave hace que los arcos de piedra resulten más fotogénicos. El mediodía de junio a agosto es implacable: sol pleno, sin sombra dentro de la arena y las mayores aglomeraciones.
+
+La primavera (abril-mayo) y el otoño (septiembre-octubre) ofrecen el mejor equilibrio entre clima templado y colas manejables. Los horarios de apertura varían según la temporada y los días festivos, así que conviene confirmarlos en el sitio oficial del Parco Archeologico del Colosseo antes de reservar.
 
 ## Cerca de allí y consejos
 
-El control de seguridad (revisión de bolsos, detector de metales) añade tiempo real incluso con una entrada con horario asignado, así que llega 15-20 minutos antes de tu franja en lugar de justo a la hora. Las visitas guiadas con acceso preferente cuestan más, pero incluyen el acceso a la arena o al subterráneo, que no siempre se puede añadir después. Justo afuera, el Arco de Constantino está a un corto paseo al sur del Coliseo y merece una mirada antes o después de la visita. Para comer, el barrio de Monti, unos minutos al norte, tiene trattorias mucho mejores que cualquier cosa directamente en la plaza, que está llena de cafés para turistas. Lleva agua en verano: hay poca sombra, y los vendedores cercanos son más caros que una tienda a pocas calles de distancia.
+El control de seguridad (revisión de bolsos, detector de metales) añade tiempo real incluso con una entrada con horario asignado, así que llega 15-20 minutos antes de tu franja en lugar de justo a la hora. Las visitas guiadas con acceso preferente cuestan más, pero incluyen el acceso a la arena o al subterráneo, que no siempre se puede añadir después.
+
+Justo afuera, el Arco de Constantino está a un corto paseo al sur del Coliseo y merece una mirada antes o después de la visita. Para comer, el barrio de Monti, unos minutos al norte, tiene trattorias mucho mejores que cualquier cosa directamente en la plaza, que está llena de cafés para turistas. Lleva agua en verano: hay poca sombra, y los vendedores cercanos son más caros que una tienda a pocas calles de distancia.

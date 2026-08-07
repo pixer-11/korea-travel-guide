@@ -73,7 +73,9 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Hidden Gem Cafe has earned its 4.8-star rating (from over 4,300 reviews) less for groundbreaking coffee than for the setting: a narrow tube-house on Hàng Mắm street that's been converted into a stacked, plant-draped café with several rooftop terraces layered on top of each other. The Old Quarter is full of "hidden" rooftop cafés advertised on street-corner sandwich boards, but this one delivers an actual view — corrugated rooftops, tangled power lines, tamarind trees, and glimpses of the Red River district toward Long Biên Bridge. It's a good antidote to the noise of Hàng Bạc and Mã Mây a few blocks over, and a genuinely photogenic stop if you want a break from temple-and-market sightseeing.
+Hidden Gem Cafe has earned its 4.8-star rating (from over 4,300 reviews) less for groundbreaking coffee than for the setting: a narrow tube-house on Hàng Mắm street that's been converted into a stacked, plant-draped café with several rooftop terraces layered on top of each other. The Old Quarter is full of "hidden" rooftop cafés advertised on street-corner sandwich boards, but this one delivers an actual view — corrugated rooftops, tangled power lines, tamarind trees, and glimpses of the Red River district toward Long Biên Bridge.
+
+It's a good antidote to the noise of Hàng Bạc and Mã Mây a few blocks over, and a genuinely photogenic stop if you want a break from temple-and-market sightseeing.
 
 ## Getting there
 
@@ -83,7 +85,9 @@ Hanoi has no metro line serving this part of the Old Quarter yet, so the practic
 
 ## What to see / eat
 
-Expect the Hanoi café staples: cà phê trứng (egg coffee, a Hanoi specialty with a whipped egg-yolk-and-condensed-milk topping), cà phê sữa đá (iced milk coffee), and cốt dừa (coconut coffee), alongside lotus tea and fresh fruit juices. The main draw, though, is the building itself — expect three or four levels, each with a different vantage point, from an enclosed mid-floor lounge to an open-air rooftop with low stools and small tables. Seating is limited at the top, so if a rooftop spot is what you're after, arrive outside peak hours or be ready to wait.
+Expect the Hanoi café staples: cà phê trứng (egg coffee, a Hanoi specialty with a whipped egg-yolk-and-condensed-milk topping), cà phê sữa đá (iced milk coffee), and cốt dừa (coconut coffee), alongside lotus tea and fresh fruit juices. The main draw, though, is the building itself — expect three or four levels, each with a different vantage point, from an enclosed mid-floor lounge to an open-air rooftop with low stools and small tables.
+
+Seating is limited at the top, so if a rooftop spot is what you're after, arrive outside peak hours or be ready to wait.
 
 Budget roughly 45 minutes to 90 minutes: enough time to climb through the floors, find a seat, and let a slow Vietnamese coffee do its thing (egg coffee especially is meant to be sipped slowly while the foam holds). Bring a phone or camera — the layered rooftop views over Old Quarter tube-houses are the reason this place shows up constantly in Hanoi photo guides.
 
@@ -93,4 +97,6 @@ Mid-morning (9–11am) or an hour before sunset are the best windows — light i
 
 ## Nearby & tips
 
-Combine the visit with a walking loop of the Old Quarter: Hoàn Kiếm Lake and Ngọc Sơn Temple are a few minutes away, and Hàng Bạc, Hàng Buồm, and Mã Mây streets nearby are dense with more street food, tailor shops, and other café rooftops if this one is full. The Dong Xuan Market and the Long Biên Bridge viewpoint are both reachable on foot for those wanting a longer afternoon route. As with most Old Quarter buildings, stairs are steep and narrow, so it's not ideal for anyone with mobility issues — ask staff if a lower floor table is available. Check current opening hours locally, since small Old Quarter cafés often adjust them seasonally or around local holidays like Tết.
+Combine the visit with a walking loop of the Old Quarter: Hoàn Kiếm Lake and Ngọc Sơn Temple are a few minutes away, and Hàng Bạc, Hàng Buồm, and Mã Mây streets nearby are dense with more street food, tailor shops, and other café rooftops if this one is full. The Dong Xuan Market and the Long Biên Bridge viewpoint are both reachable on foot for those wanting a longer afternoon route.
+
+As with most Old Quarter buildings, stairs are steep and narrow, so it's not ideal for anyone with mobility issues — ask staff if a lower floor table is available. Check current opening hours locally, since small Old Quarter cafés often adjust them seasonally or around local holidays like Tết.

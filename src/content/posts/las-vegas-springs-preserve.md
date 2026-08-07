@@ -72,7 +72,9 @@ aiGenerated: true
 
 ## Why go
 
-Long before neon, there was water here. Springs Preserve sits on the exact site where natural artesian springs once bubbled up out of the Mojave floor, forming the oasis that gave Las Vegas — "the meadows" — its name. Today the springs themselves have run dry, drained by decades of groundwater pumping, but the 180-acre site around them has been turned into a sprawling complex of trails, wetlands habitat, botanical gardens, and museums that tells the story of how a patch of desert became modern Las Vegas. It's the rare Las Vegas attraction that has nothing to do with slot machines, and that contrast is exactly the point.
+Long before neon, there was water here. Springs Preserve sits on the exact site where natural artesian springs once bubbled up out of the Mojave floor, forming the oasis that gave Las Vegas — "the meadows" — its name. Today the springs themselves have run dry, drained by decades of groundwater pumping, but the 180-acre site around them has been turned into a sprawling complex of trails, wetlands habitat, botanical gardens, and museums that tells the story of how a patch of desert became modern Las Vegas.
+
+It's the rare Las Vegas attraction that has nothing to do with slot machines, and that contrast is exactly the point.
 
 ## Getting there and getting oriented
 
@@ -86,8 +88,14 @@ Indoors, the Nevada State Museum covers natural history and statehood with real 
 
 ## When to go
 
-Springs Preserve keeps a tighter schedule than most Vegas attractions, so check the current hours before you go, since it isn't open every day. Build your visit around those hours first — nothing is worse than driving out only to find the gates shut. On weekends, foot traffic builds steadily across the whole 9am–4pm window, so arriving right at opening is the single best move: the trails are shaded and cool, the light is soft for photos over the wetlands, and you'll beat the midday crowds through the museum entrances. Because it's outdoors and largely unshaded once the sun climbs, this is also a spring or fall visit if you have the choice — summer afternoons in the low desert regularly push past 100°F, and the trails offer little relief from it after mid-morning.
+Springs Preserve keeps a tighter schedule than most Vegas attractions, so check the current hours before you go, since it isn't open every day. Build your visit around those hours first — nothing is worse than driving out only to find the gates shut. On weekends, foot traffic builds steadily across the whole 9am–4pm window, so arriving right at opening is the single best move: the trails are shaded and cool, the light is soft for photos over the wetlands, and you'll beat the midday crowds through the museum entrances.
+
+Because it's outdoors and largely unshaded once the sun climbs, this is also a spring or fall visit if you have the choice — summer afternoons in the low desert regularly push past 100°F, and the trails offer little relief from it after mid-morning.
 
 ## How to visit like a local
 
-This is a popular, well-reviewed attraction rather than a quiet find, so the smartest local move is timing, not secrecy. Arrive at or close to the 9am opening, especially on a Saturday or Sunday, since the site only gets busier as the day goes on and there's no quiet late-afternoon lull to wait for. Wear real walking shoes — the outdoor loop covers uneven, sun-exposed ground — and bring water even in cooler months, since shade is patchy. Tickets and any café purchases are handled by card as easily as cash, so there's no need to plan around cash-only spots. Budget the better part of a morning or afternoon: rushing the outdoor trails to "do" the museums too, or vice versa, is the most common visitor mistake here. Pick one focus per visit, or set aside a full 3–4 hours to do both properly. If you only have an hour, skip straight to the wetlands trail and demonstration gardens — they capture the site's core idea, the improbable water that built Las Vegas, better than anything indoors.
+This is a popular, well-reviewed attraction rather than a quiet find, so the smartest local move is timing, not secrecy. Arrive at or close to the 9am opening, especially on a Saturday or Sunday, since the site only gets busier as the day goes on and there's no quiet late-afternoon lull to wait for. Wear real walking shoes — the outdoor loop covers uneven, sun-exposed ground — and bring water even in cooler months, since shade is patchy.
+
+Tickets and any café purchases are handled by card as easily as cash, so there's no need to plan around cash-only spots. Budget the better part of a morning or afternoon: rushing the outdoor trails to "do" the museums too, or vice versa, is the most common visitor mistake here. Pick one focus per visit, or set aside a full 3–4 hours to do both properly.
+
+If you only have an hour, skip straight to the wetlands trail and demonstration gardens — they capture the site's core idea, the improbable water that built Las Vegas, better than anything indoors.

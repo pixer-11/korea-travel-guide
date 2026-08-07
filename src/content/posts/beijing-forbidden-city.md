@@ -54,11 +54,15 @@ You feel the scale before you understand it. Standing at the Meridian Gate — W
 
 ## Orientation: how the palace is built
 
-The Forbidden City runs on a strict north-south spine. You enter from the south at Wu Men, cross the vast paved expanse of the Outer Court — where the Hall of Supreme Harmony (Taihe Dian) rises on its triple marble terrace, the largest wooden structure of its kind in China — then pass into the Inner Court, the emperor's actual living quarters, tighter and more human in scale. The axis ends at Shenwu Gate on the north wall. Most visitors walk south to north, which is also the direction the ticketing and security queues push you, so don't fight it.
+The Forbidden City runs on a strict north-south spine. You enter from the south at Wu Men, cross the vast paved expanse of the Outer Court — where the Hall of Supreme Harmony (Taihe Dian) rises on its triple marble terrace, the largest wooden structure of its kind in China — then pass into the Inner Court, the emperor's actual living quarters, tighter and more human in scale.
+
+The axis ends at Shenwu Gate on the north wall. Most visitors walk south to north, which is also the direction the ticketing and security queues push you, so don't fight it.
 
 ## What to actually look at
 
-Don't just photograph the big halls and move on. Duck into the side courtyards — the Hall of Clocks and Watches and the Treasure Gallery in the eastern sections hold some of the finest decorative arts anywhere in China, and they're usually far less crowded than the central axis. The Imperial Garden just before Shenwu Gate is small but dense with twisted cypress trees, rockeries, and pavilions — a good place to sit for ten minutes before you're spat back out into modern Beijing. Look down as much as up: the drainage carvings, the bronze vats once filled with water for firefighting, the worn stone dragons on the terraces all reward slow attention.
+Don't just photograph the big halls and move on. Duck into the side courtyards — the Hall of Clocks and Watches and the Treasure Gallery in the eastern sections hold some of the finest decorative arts anywhere in China, and they're usually far less crowded than the central axis. The Imperial Garden just before Shenwu Gate is small but dense with twisted cypress trees, rockeries, and pavilions — a good place to sit for ten minutes before you're spat back out into modern Beijing.
+
+Look down as much as up: the drainage carvings, the bronze vats once filled with water for firefighting, the worn stone dragons on the terraces all reward slow attention.
 
 ## Getting there
 
@@ -70,4 +74,8 @@ Spring (April-May) and autumn (September-October) give you mild temperatures and
 
 ## How to visit like a local
 
-This is one of the most visited sites on the planet, not a quiet corner of Beijing, so plan around the crowds rather than pretending you'll avoid them entirely. Arrive right as it opens and head first to the Outer Court's big halls before the tour groups catch up — by mid-morning the central axis is dense with people, and it only builds through early afternoon. Buy your ticket online in advance through the official Forbidden City (Palace Museum) website or app using your passport number, since same-day gate sales aren't reliably available; payment inside the complex for any extras is mostly mobile (WeChat Pay/Alipay), so carry your phone rather than relying on cash. The single biggest mistake visitors make is trying to see everything: pick the Outer Court halls, one or two eastern side galleries, and the Imperial Garden, and let the rest go rather than rushing the whole 180-acre complex in one exhausted lap. Wear real walking shoes — the ground is uneven paving stone throughout — and know there's minimal shade, so bring water and a hat in summer. Combine the visit with Tiananmen Square beforehand and Jingshan Park afterward for the skyline view; together it makes a natural half-day arc through the historic center of Beijing.
+This is one of the most visited sites on the planet, not a quiet corner of Beijing, so plan around the crowds rather than pretending you'll avoid them entirely. Arrive right as it opens and head first to the Outer Court's big halls before the tour groups catch up — by mid-morning the central axis is dense with people, and it only builds through early afternoon.
+
+Buy your ticket online in advance through the official Forbidden City (Palace Museum) website or app using your passport number, since same-day gate sales aren't reliably available; payment inside the complex for any extras is mostly mobile (WeChat Pay/Alipay), so carry your phone rather than relying on cash. The single biggest mistake visitors make is trying to see everything: pick the Outer Court halls, one or two eastern side galleries, and the Imperial Garden, and let the rest go rather than rushing the whole 180-acre complex in one exhausted lap.
+
+Wear real walking shoes — the ground is uneven paving stone throughout — and know there's minimal shade, so bring water and a hat in summer. Combine the visit with Tiananmen Square beforehand and Jingshan Park afterward for the skyline view; together it makes a natural half-day arc through the historic center of Beijing.

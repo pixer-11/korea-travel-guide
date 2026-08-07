@@ -42,17 +42,23 @@ draft: false
 
 ## Why Casa Mori Stands Out
 
-Dempsey Hill has long been Singapore's go-to enclave for restaurants set inside colonial-era black-and-white bungalows surrounded by rain trees, and Casa Mori is one of the more talked-about recent additions to that strip. The concept pairs two distinct culinary voices: Willin Low, the chef widely credited with pioneering "mod-Sin" cuisine (modern Singaporean cooking that reinterprets hawker classics through a fine-dining lens), and Jose Alonso, a Spanish chef bringing tapas and sharing-plate technique. The result is a menu built around Spanish-style small plates seasoned with distinctly Singaporean touches — think cincalok (fermented shrimp paste) and sambal worked into dishes that otherwise read as Iberian. It's this cross-cultural mash-up, rather than either cuisine in isolation, that gives Casa Mori its identity and its buzz.
+Dempsey Hill has long been Singapore's go-to enclave for restaurants set inside colonial-era black-and-white bungalows surrounded by rain trees, and Casa Mori is one of the more talked-about recent additions to that strip. The concept pairs two distinct culinary voices: Willin Low, the chef widely credited with pioneering "mod-Sin" cuisine (modern Singaporean cooking that reinterprets hawker classics through a fine-dining lens), and Jose Alonso, a Spanish chef bringing tapas and sharing-plate technique.
+
+The result is a menu built around Spanish-style small plates seasoned with distinctly Singaporean touches — think cincalok (fermented shrimp paste) and sambal worked into dishes that otherwise read as Iberian. It's this cross-cultural mash-up, rather than either cuisine in isolation, that gives Casa Mori its identity and its buzz.
 
 The setting matters too. The dining room is done up in a striking blush-pink palette, a departure from the earthy, plantation-style interiors typical of Dempsey's older tenants, making it as much a visual draw as a culinary one.
 
 ## Getting There
 
-Dempsey Hill sits within the Central Nature Parks corridor, wedged between Holland Village and the Botanic Gardens, and it is not directly served by an MRT station — this is one of the few well-known dining precincts in Singapore where a taxi, ride-hail app, or bus is genuinely the easiest option. The nearest MRT stations are Napier (Thomson-East Coast Line) and Botanic Gardens (Circle Line/Downtown Line), both roughly a 10–15 minute walk or a short bus ride away. Given Dempsey's hilly, low-density layout and limited street lighting at night, most visitors arrive by car or ride-hail rather than on foot, especially for dinner.
+Dempsey Hill sits within the Central Nature Parks corridor, wedged between Holland Village and the Botanic Gardens, and it is not directly served by an MRT station — this is one of the few well-known dining precincts in Singapore where a taxi, ride-hail app, or bus is genuinely the easiest option. The nearest MRT stations are Napier (Thomson-East Coast Line) and Botanic Gardens (Circle Line/Downtown Line), both roughly a 10–15 minute walk or a short bus ride away.
+
+Given Dempsey's hilly, low-density layout and limited street lighting at night, most visitors arrive by car or ride-hail rather than on foot, especially for dinner.
 
 ## What to Expect on the Plate
 
-Because this is a newly opened, evolving menu, exact dishes and prices aren't fixed for long — but the format is clear: Spanish-inflected small plates meant for sharing across the table, in the tradition of tapas bars, rather than individually plated mains. Expect the kitchen to lean on Spanish staples like cured meats, seafood, and rice or bread-based dishes, reworked with Southeast Asian ferments and chilli pastes native to Singapore's own hawker pantry. This is very much in keeping with Willin Low's long-running culinary project of dignifying local flavours within a global fine-dining vocabulary, first established at his restaurant Wild Rocket.
+Because this is a newly opened, evolving menu, exact dishes and prices aren't fixed for long — but the format is clear: Spanish-inflected small plates meant for sharing across the table, in the tradition of tapas bars, rather than individually plated mains. Expect the kitchen to lean on Spanish staples like cured meats, seafood, and rice or bread-based dishes, reworked with Southeast Asian ferments and chilli pastes native to Singapore's own hawker pantry.
+
+This is very much in keeping with Willin Low's long-running culinary project of dignifying local flavours within a global fine-dining vocabulary, first established at his restaurant Wild Rocket.
 
 ## When to Go
 
@@ -60,7 +66,11 @@ Dempsey Hill's restaurants generally see two rushes: a lunch crowd on weekends d
 
 ## How to Visit Like a Local
 
-Book ahead rather than walking in — new, buzzy openings in Singapore's dining scene fill reservation slots quickly, especially on weekends, and Dempsey's spread-out layout means there's little foot traffic to catch a walk-in table. Go with three or more people if possible: sharing-plate menus are built around ordering broadly across categories, and a larger table lets you sample more of the Spanish-Singaporean mash-up without over-ordering for two. Payment across Singapore's mid-to-upscale dining scene is almost universally cashless — expect to pay by card or mobile wallet, and note that a service charge and GST are typically already added to the bill, so additional tipping isn't expected or necessary. Dress code at Dempsey venues tends toward smart-casual rather than beachwear or flip-flops, even though the setting is leafy and relaxed. Since this is a recently opened restaurant riding a wave of local press coverage, treat any menu, price, or hours information you find online — including in this guide — as a starting point, and confirm current details directly with the restaurant before you go.
+Book ahead rather than walking in — new, buzzy openings in Singapore's dining scene fill reservation slots quickly, especially on weekends, and Dempsey's spread-out layout means there's little foot traffic to catch a walk-in table. Go with three or more people if possible: sharing-plate menus are built around ordering broadly across categories, and a larger table lets you sample more of the Spanish-Singaporean mash-up without over-ordering for two.
+
+Payment across Singapore's mid-to-upscale dining scene is almost universally cashless — expect to pay by card or mobile wallet, and note that a service charge and GST are typically already added to the bill, so additional tipping isn't expected or necessary. Dress code at Dempsey venues tends toward smart-casual rather than beachwear or flip-flops, even though the setting is leafy and relaxed.
+
+Since this is a recently opened restaurant riding a wave of local press coverage, treat any menu, price, or hours information you find online — including in this guide — as a starting point, and confirm current details directly with the restaurant before you go.
 
 ## Nearby to Combine With Your Visit
 

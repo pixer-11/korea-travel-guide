@@ -80,11 +80,15 @@ The white travertine dome of Sacré-Cœur is one of those Paris silhouettes you 
 
 ## Getting there
 
-The closest Métro station is Anvers on Line 2; from the exit, walk up Rue de Steinkerque past the fabric shops and souvenir stalls, and the basilica appears framed at the top of the street. If you'd rather not tackle the stairs of Rue Foyatier, the funicular from Place Saint-Pierre runs on the same ticket as the Métro and takes under two minutes to reach the top. Abbesses (Line 12) is another option, though it means a steeper uphill walk through the winding streets of the Montmartre hillside. Whichever way you arrive, budget extra time — this is one of the most visited monuments in Paris, and the approach itself, through the Montmartre lanes, is part of the experience.
+The closest Métro station is Anvers on Line 2; from the exit, walk up Rue de Steinkerque past the fabric shops and souvenir stalls, and the basilica appears framed at the top of the street. If you'd rather not tackle the stairs of Rue Foyatier, the funicular from Place Saint-Pierre runs on the same ticket as the Métro and takes under two minutes to reach the top.
+
+Abbesses (Line 12) is another option, though it means a steeper uphill walk through the winding streets of the Montmartre hillside. Whichever way you arrive, budget extra time — this is one of the most visited monuments in Paris, and the approach itself, through the Montmartre lanes, is part of the experience.
 
 ## What to see and do
 
-The basilica is open daily from 6:30am to 10:30pm, and stepping inside costs nothing — you're free to sit in a pew, walk the ambulatory, and take in the mosaic of the Sacred Heart, one of the largest in the world. Separate paid access lets you climb the dome, several hundred narrow spiral steps, for a 360-degree panorama over Paris that on a clear day reaches past the Eiffel Tower to the hills beyond the city. The crypt, also a paid add-on, holds the church's foundations and a quieter, cooler counterpoint to the brightness above. Outside, the front steps and terraced lawns are themselves a destination: buskers, street artists, and knots of visitors watching the sun go down over the rooftops. A few minutes' walk behind the basilica, Place du Tertre is where portrait painters have set up easels for over a century — worth a look, though it's unabashedly touristy.
+The basilica is open daily from 6:30am to 10:30pm, and stepping inside costs nothing — you're free to sit in a pew, walk the ambulatory, and take in the mosaic of the Sacred Heart, one of the largest in the world. Separate paid access lets you climb the dome, several hundred narrow spiral steps, for a 360-degree panorama over Paris that on a clear day reaches past the Eiffel Tower to the hills beyond the city.
+
+The crypt, also a paid add-on, holds the church's foundations and a quieter, cooler counterpoint to the brightness above. Outside, the front steps and terraced lawns are themselves a destination: buskers, street artists, and knots of visitors watching the sun go down over the rooftops. A few minutes' walk behind the basilica, Place du Tertre is where portrait painters have set up easels for over a century — worth a look, though it's unabashedly touristy.
 
 ## When to go
 
@@ -92,7 +96,11 @@ Weekdays are calmer throughout the day, but the real trick is timing weekends ca
 
 ## How to visit like a local
 
-This is a functioning church, well down from "hidden" — it's one of the most-visited religious sites in the country — so the goal isn't discovery, it's timing and manners. Dress with shoulders and knees covered, keep your voice down and your phone silenced once inside, and skip photography during Mass (Masses run several times daily, and the schedule is posted at the entrance). There's no entry fee for the church itself, so don't let anyone outside try to sell you a "ticket" for the basilica — only the dome and crypt require payment, and those lines are typically to the side of the main entrance. Cash and card are both accepted for the paid areas. If you want the view without the crush, come at opening on a weekend or any time on a weekday, then walk the residential streets just west of the basilica — Rue Cortot, Rue de l'Abreuvoir — where the crowds thin out within a couple of blocks. The mistake most first-timers make is treating the front steps as the only viewpoint; a short walk to the small terrace at the western side of the dome gives a similar panorama with far fewer people jostling for space.
+This is a functioning church, well down from "hidden" — it's one of the most-visited religious sites in the country — so the goal isn't discovery, it's timing and manners. Dress with shoulders and knees covered, keep your voice down and your phone silenced once inside, and skip photography during Mass (Masses run several times daily, and the schedule is posted at the entrance).
+
+There's no entry fee for the church itself, so don't let anyone outside try to sell you a "ticket" for the basilica — only the dome and crypt require payment, and those lines are typically to the side of the main entrance. Cash and card are both accepted for the paid areas. If you want the view without the crush, come at opening on a weekend or any time on a weekday, then walk the residential streets just west of the basilica — Rue Cortot, Rue de l'Abreuvoir — where the crowds thin out within a couple of blocks.
+
+The mistake most first-timers make is treating the front steps as the only viewpoint; a short walk to the small terrace at the western side of the dome gives a similar panorama with far fewer people jostling for space.
 
 ## Nearby to combine with your visit
 

@@ -56,15 +56,21 @@ draft: false
 
 ## Why go
 
-You feel the shift the moment you step off Calle Alcazabilla and start climbing. Traffic noise falls away, replaced by trickling fountains and the rustle of palm fronds, and the honey-colored stone walls close in around a switchback path that was built, deliberately, to confuse invaders. The Alcazaba is Málaga's 11th-century Moorish palace-fortress, and it's the best-preserved structure of its kind in the region — better kept, many say, than the Alhambra's outer walls in Granada. With a 4.6 rating across more than 40,000 reviews, it's not a quiet corner of the city anymore; it's one of the most visited sights on the Costa del Sol, so plan around the crowds rather than hoping to avoid them entirely.
+You feel the shift the moment you step off Calle Alcazabilla and start climbing. Traffic noise falls away, replaced by trickling fountains and the rustle of palm fronds, and the honey-colored stone walls close in around a switchback path that was built, deliberately, to confuse invaders. The Alcazaba is Málaga's 11th-century Moorish palace-fortress, and it's the best-preserved structure of its kind in the region — better kept, many say, than the Alhambra's outer walls in Granada.
+
+With a 4.6 rating across more than 40,000 reviews, it's not a quiet corner of the city anymore; it's one of the most visited sights on the Costa del Sol, so plan around the crowds rather than hoping to avoid them entirely.
 
 ## What you'll see
 
-Inside, the fortress unfolds as a sequence of small courtyards, not one grand hall. Horseshoe arches frame views of container ships in the harbor below; keyhole windows cut into thick defensive walls let slats of light onto tiled floors. The gardens are the real surprise — narrow channels of water run along the paths in the old Andalusi style, feeding fountains ringed with jasmine, roses, and orange trees, a direct echo of the paradise gardens the Nasrid and Hammudid rulers built to make a fortress feel like a retreat. Climb through the upper enclosure and the Mediterranean opens up in full: the harbor, the bullring, and on clear days the hills toward the Strait of Gibraltar. At the base of the hill, visible before you even buy a ticket, sits the excavated Roman theatre — a reminder that this same outcrop has been fortified, in some form, for over two thousand years.
+Inside, the fortress unfolds as a sequence of small courtyards, not one grand hall. Horseshoe arches frame views of container ships in the harbor below; keyhole windows cut into thick defensive walls let slats of light onto tiled floors. The gardens are the real surprise — narrow channels of water run along the paths in the old Andalusi style, feeding fountains ringed with jasmine, roses, and orange trees, a direct echo of the paradise gardens the Nasrid and Hammudid rulers built to make a fortress feel like a retreat.
+
+Climb through the upper enclosure and the Mediterranean opens up in full: the harbor, the bullring, and on clear days the hills toward the Strait of Gibraltar. At the base of the hill, visible before you even buy a ticket, sits the excavated Roman theatre — a reminder that this same outcrop has been fortified, in some form, for over two thousand years.
 
 ## Getting there
 
-The entrance sits on C/ Alcazabilla, 2, in Málaga's Distrito Centro, a five-minute walk from the Cathedral and right beside the Roman theatre. If you're coming from the cruise port or Málaga-María Zambrano train station, it's a 15-20 minute walk through the old town, or a short taxi ride. There's no dedicated metro stop this central — the historic core is compact enough that most visitors simply walk in from wherever they're staying. Look for the ticket booth near the theatre; the climb itself is a series of ramps and shallow steps rather than a single staircase, so budget more time than the modest hilltop distance suggests.
+The entrance sits on C/ Alcazabilla, 2, in Málaga's Distrito Centro, a five-minute walk from the Cathedral and right beside the Roman theatre. If you're coming from the cruise port or Málaga-María Zambrano train station, it's a 15-20 minute walk through the old town, or a short taxi ride. There's no dedicated metro stop this central — the historic core is compact enough that most visitors simply walk in from wherever they're staying.
+
+Look for the ticket booth near the theatre; the climb itself is a series of ramps and shallow steps rather than a single staircase, so budget more time than the modest hilltop distance suggests.
 
 ## When to go
 
@@ -72,8 +78,12 @@ Because this is a very popular, heavily trafficked sight, timing your visit matt
 
 ## Pairing it with the rest of the hill
 
-The Alcazaba connects, via a covered walkway, to the Gibralfaro castle further up the same hill — a steeper, longer climb (or a short bus ride) rewarded with the widest panoramic views in the city. Many visitors do both in a single morning: Roman theatre, then Alcazaba, then Gibralfaro, finishing with a drink back down in the tapas bars around Plaza de la Merced. Combined, that's a half-day outing; the Alcazaba alone needs 60 to 90 minutes if you read the information panels, less if you're just after the views and photos.
+The Alcazaba connects, via a covered walkway, to the Gibralfaro castle further up the same hill — a steeper, longer climb (or a short bus ride) rewarded with the widest panoramic views in the city. Many visitors do both in a single morning: Roman theatre, then Alcazaba, then Gibralfaro, finishing with a drink back down in the tapas bars around Plaza de la Merced.
+
+Combined, that's a half-day outing; the Alcazaba alone needs 60 to 90 minutes if you read the information panels, less if you're just after the views and photos.
 
 ## How to visit like a local
 
-Skip the idea of finding this place empty — it's one of Málaga's headline attractions, and the goal is beating the crowds, not avoiding them. Buy tickets online in advance where possible to skip the queue at the booth, and pay by card, which is standard here. There's often a combined ticket covering both the Alcazaba and Gibralfaro castle, worth it if you plan to climb both. Wear shoes with real grip — the stone ramps are smooth and slick after rain, worn down by centuries of foot traffic. Bring water in summer; there's little shade once you're inside the walls. The mistake most first-time visitors make is treating it as a quick photo stop from the outside — the real reward is in the water gardens and the upper terraces, which take a bit of climbing to reach, so leave enough time to actually get to the top rather than turning back at the first courtyard.
+Skip the idea of finding this place empty — it's one of Málaga's headline attractions, and the goal is beating the crowds, not avoiding them. Buy tickets online in advance where possible to skip the queue at the booth, and pay by card, which is standard here. There's often a combined ticket covering both the Alcazaba and Gibralfaro castle, worth it if you plan to climb both.
+
+Wear shoes with real grip — the stone ramps are smooth and slick after rain, worn down by centuries of foot traffic. Bring water in summer; there's little shade once you're inside the walls. The mistake most first-time visitors make is treating it as a quick photo stop from the outside — the real reward is in the water gardens and the upper terraces, which take a bit of climbing to reach, so leave enough time to actually get to the top rather than turning back at the first courtyard.

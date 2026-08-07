@@ -48,7 +48,9 @@ draft: false
 
 ## Why go
 
-The name comes from the reeds that once grew at the cave mouth, used to make flutes — a detail that feels almost quaint once you're inside, because nothing about this cave reads as quaint. Reed Flute Cave has been forming for roughly 240 million years, and the karst dissolution that carved it has left behind a genuinely strange landscape of stone curtains, columns, and flowstone that locals nicknamed "the Palace of Natural Arts" for a reason. What sets it apart from other karst caves around Guilin is the lighting: designers have washed the formations in shifting reds, greens, purples, and ambers, so a plain limestone column suddenly reads as a jade forest or a coral reef. It's theatrical, unapologetically so, and it works.
+The name comes from the reeds that once grew at the cave mouth, used to make flutes — a detail that feels almost quaint once you're inside, because nothing about this cave reads as quaint. Reed Flute Cave has been forming for roughly 240 million years, and the karst dissolution that carved it has left behind a genuinely strange landscape of stone curtains, columns, and flowstone that locals nicknamed "the Palace of Natural Arts" for a reason.
+
+What sets it apart from other karst caves around Guilin is the lighting: designers have washed the formations in shifting reds, greens, purples, and ambers, so a plain limestone column suddenly reads as a jade forest or a coral reef. It's theatrical, unapologetically so, and it works.
 
 ## Getting there
 
@@ -56,7 +58,9 @@ Reed Flute Cave sits at 1 Lu Di Lu in Xiufeng District, about 5km northwest of c
 
 ## What to see inside
 
-The walking route loops for roughly 500 meters through a single vast chamber system, and the ceiling in the main hall soars high enough that the colored lights fade into shadow before they reach it. Look for the formations with folk names carved out of pure imagination: the "Crystal Palace of the Dragon King," a curtain of flowstone called the "Virgin Forest," and a reflecting pool where stalactites double themselves in the still water so convincingly you'll want to check which half is real. Older stone inscriptions and ink writings from visitors dating back over a thousand years are preserved on the cave walls near the entrance — Guilin was a stop on inland travel routes even in the Tang dynasty, and people carved their impressions the same way travelers do now, just with brushes instead of phones.
+The walking route loops for roughly 500 meters through a single vast chamber system, and the ceiling in the main hall soars high enough that the colored lights fade into shadow before they reach it. Look for the formations with folk names carved out of pure imagination: the "Crystal Palace of the Dragon King," a curtain of flowstone called the "Virgin Forest," and a reflecting pool where stalactites double themselves in the still water so convincingly you'll want to check which half is real.
+
+Older stone inscriptions and ink writings from visitors dating back over a thousand years are preserved on the cave walls near the entrance — Guilin was a stop on inland travel routes even in the Tang dynasty, and people carved their impressions the same way travelers do now, just with brushes instead of phones.
 
 ## When to go
 
@@ -64,7 +68,11 @@ Guilin's cave interior stays a fairly constant cool temperature regardless of se
 
 ## How to visit like a local
 
-Buy your ticket at the counter by the park entrance rather than through a third-party bundle if you can, since the cave is sometimes packaged into day tours that move through quickly — you want the full loop, not the abbreviated version. Go in the morning on a weekday if your schedule allows; tour buses from Guilin's hotels tend to arrive in waves after mid-morning, and the cave's single walking path means one large group ahead of you slows everyone behind. Wear shoes with actual grip — the path is paved but damp underfoot year-round, and the humidity means condensation collects on railings and low ceiling sections. A collapsible umbrella or light rain jacket in your bag isn't overkill; parts of the cave genuinely drip. Photography is allowed and even encouraged given the lighting design, but a tripod will slow you down in narrow spots and isn't really necessary — the colored floodlighting is bright enough for handheld shots. This isn't a place locals frequent regularly since it's squarely a sightseeing destination rather than a daily-life spot, but it remains less overrun than Guilin's river cruises and headline viewpoints, so you won't need to fight for photo angles the way you might elsewhere in the city. Cash and mobile payment (Alipay/WeChat Pay) both work at the ticket counter and nearby vendor stalls, though card acceptance can be inconsistent, so having a backup payment method is sensible.
+Buy your ticket at the counter by the park entrance rather than through a third-party bundle if you can, since the cave is sometimes packaged into day tours that move through quickly — you want the full loop, not the abbreviated version. Go in the morning on a weekday if your schedule allows; tour buses from Guilin's hotels tend to arrive in waves after mid-morning, and the cave's single walking path means one large group ahead of you slows everyone behind.
+
+Wear shoes with actual grip — the path is paved but damp underfoot year-round, and the humidity means condensation collects on railings and low ceiling sections. A collapsible umbrella or light rain jacket in your bag isn't overkill; parts of the cave genuinely drip. Photography is allowed and even encouraged given the lighting design, but a tripod will slow you down in narrow spots and isn't really necessary — the colored floodlighting is bright enough for handheld shots.
+
+This isn't a place locals frequent regularly since it's squarely a sightseeing destination rather than a daily-life spot, but it remains less overrun than Guilin's river cruises and headline viewpoints, so you won't need to fight for photo angles the way you might elsewhere in the city. Cash and mobile payment (Alipay/WeChat Pay) both work at the ticket counter and nearby vendor stalls, though card acceptance can be inconsistent, so having a backup payment method is sensible.
 
 ## Nearby
 

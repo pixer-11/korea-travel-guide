@@ -64,15 +64,21 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Built in 1782 by King Rama I as the seat of the Chakri dynasty, the Grand Palace is Bangkok's most photographed landmark and, at a 4.6 rating across roughly 79,000 reviews, one of its most consistently praised. It's a walled complex of gilded spires, mirrored mosaics, and mythological guardian statues rather than a single building, and it's still used for state ceremonies, so parts remain closed to the public. The undisputed centerpiece is Wat Phra Kaew, the Temple of the Emerald Buddha, which houses Thailand's most sacred Buddha image, carved from a single block of green jade or jasper (not emerald, despite the name) and dressed in seasonal robes changed by the King three times a year.
+Built in 1782 by King Rama I as the seat of the Chakri dynasty, the Grand Palace is Bangkok's most photographed landmark and, at a 4.6 rating across roughly 79,000 reviews, one of its most consistently praised. It's a walled complex of gilded spires, mirrored mosaics, and mythological guardian statues rather than a single building, and it's still used for state ceremonies, so parts remain closed to the public.
+
+The undisputed centerpiece is Wat Phra Kaew, the Temple of the Emerald Buddha, which houses Thailand's most sacred Buddha image, carved from a single block of green jade or jasper (not emerald, despite the name) and dressed in seasonal robes changed by the King three times a year.
 
 ## Getting there
 
-The palace sits in the Phra Nakhon district on Na Phra Lan Road, close to the Chao Phraya River, in the historic core known as Rattanakosin Island. There's no MRT or BTS station right at the door, which is part of why many visitors underestimate the trip time. The most common approach is to take the Chao Phraya Express Boat to Tha Chang Pier (N9), then walk about 5-10 minutes east to the palace walls. Alternatively, take the MRT Blue Line to Sanam Chai station, which opened specifically to serve this area, and walk roughly 10-15 minutes through the old quarter. Taxis and tuk-tuks can drop off nearby, but traffic around Rattanakosin Island is often heavy, so factor in extra time, especially on weekday mornings.
+The palace sits in the Phra Nakhon district on Na Phra Lan Road, close to the Chao Phraya River, in the historic core known as Rattanakosin Island. There's no MRT or BTS station right at the door, which is part of why many visitors underestimate the trip time. The most common approach is to take the Chao Phraya Express Boat to Tha Chang Pier (N9), then walk about 5-10 minutes east to the palace walls.
+
+Alternatively, take the MRT Blue Line to Sanam Chai station, which opened specifically to serve this area, and walk roughly 10-15 minutes through the old quarter. Taxis and tuk-tuks can drop off nearby, but traffic around Rattanakosin Island is often heavy, so factor in extra time, especially on weekday mornings.
 
 ## What to see and how long to spend
 
-Budget at least 2-3 hours inside, more if you like architecture or photography. Beyond Wat Phra Kaew, walk the cloister galleries ringing the temple, painted floor-to-ceiling with murals of the Ramakien (the Thai version of the Ramayana epic), and look for the pairs of towering yaksha (guardian demon) statues flanking the gates. The Chakri Maha Prasat Throne Hall, with its distinctive mix of Thai spired roofs atop a European neoclassical base, reflects 19th-century Siam's balancing act between tradition and Western influence. Tickets purchased at the palace generally include entry to the nearby Queen Sirikit Museum of Textiles and sometimes other royal collections on the same grounds — check your ticket for what's bundled, since this changes periodically. Photography is allowed in most outdoor areas but prohibited inside the Emerald Buddha hall itself.
+Budget at least 2-3 hours inside, more if you like architecture or photography. Beyond Wat Phra Kaew, walk the cloister galleries ringing the temple, painted floor-to-ceiling with murals of the Ramakien (the Thai version of the Ramayana epic), and look for the pairs of towering yaksha (guardian demon) statues flanking the gates. The Chakri Maha Prasat Throne Hall, with its distinctive mix of Thai spired roofs atop a European neoclassical base, reflects 19th-century Siam's balancing act between tradition and Western influence.
+
+Tickets purchased at the palace generally include entry to the nearby Queen Sirikit Museum of Textiles and sometimes other royal collections on the same grounds — check your ticket for what's bundled, since this changes periodically. Photography is allowed in most outdoor areas but prohibited inside the Emerald Buddha hall itself.
 
 ## When to go
 
@@ -80,4 +86,6 @@ Arrive right at opening, generally 8:30am, to beat both the midday heat and the 
 
 ## Nearby & practical tips
 
-Dress code is strictly enforced: shoulders, knees, and midriffs must be covered, and shoes should be closed-toe or at least secure sandals — flip-flops can draw scrutiny. If you show up underdressed, staff near the entrance loan sarongs and shirts, usually against a small deposit, but the queue for this eats into your visit time. Ignore anyone outside the walls claiming the palace is "closed for a Buddhist holiday" and offering to take you elsewhere by tuk-tuk — this is a long-running scam. Once inside, combine your visit with two short walks nearby: Wat Pho (Temple of the Reclining Buddha) is about 10 minutes on foot to the south, and Wat Arun (Temple of Dawn) is a quick cross-river ferry ride from Tha Tien Pier, making a natural three-temple loop for one morning or afternoon.
+Dress code is strictly enforced: shoulders, knees, and midriffs must be covered, and shoes should be closed-toe or at least secure sandals — flip-flops can draw scrutiny. If you show up underdressed, staff near the entrance loan sarongs and shirts, usually against a small deposit, but the queue for this eats into your visit time. Ignore anyone outside the walls claiming the palace is "closed for a Buddhist holiday" and offering to take you elsewhere by tuk-tuk — this is a long-running scam.
+
+Once inside, combine your visit with two short walks nearby: Wat Pho (Temple of the Reclining Buddha) is about 10 minutes on foot to the south, and Wat Arun (Temple of Dawn) is a quick cross-river ferry ride from Tha Tien Pier, making a natural three-temple loop for one morning or afternoon.

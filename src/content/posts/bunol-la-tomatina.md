@@ -58,11 +58,15 @@ eventRecurring: true
 
 ## Why go
 
-La Tomatina is Spain's most photogenic food fight: over 100 metric tons of overripe tomatoes hurled through the narrow streets of Buñol's old town in a single, chaotic morning. It began in the 1940s, reportedly from a spontaneous local scuffle during a town parade, and has since grown into a globally known festival that draws visitors from dozens of countries. The appeal isn't refined cultural spectacle — it's pure, communal, slightly absurd fun, and a chance to see a small Valencian town transform into a sea of red pulp for one hour a year.
+La Tomatina is Spain's most photogenic food fight: over 100 metric tons of overripe tomatoes hurled through the narrow streets of Buñol's old town in a single, chaotic morning. It began in the 1940s, reportedly from a spontaneous local scuffle during a town parade, and has since grown into a globally known festival that draws visitors from dozens of countries.
+
+The appeal isn't refined cultural spectacle — it's pure, communal, slightly absurd fun, and a chance to see a small Valencian town transform into a sea of red pulp for one hour a year.
 
 ## When it happens
 
-The 2026 edition is set for **August 26, 2026**, held on the last Wednesday of August as per tradition, as part of Buñol's week-long Fiestas de Buñol in honor of San Luis Bertrán and the Virgen de los Desamparados. The tomato fight itself is a single-morning event, typically starting around late morning once a greased pole (the *palo jabón*) is climbed to release a ham fixed at the top — a traditional signal that the fight can begin. Because dates, start times, and event logistics can shift, confirm the exact schedule on the official La Tomatina website or Buñol's tourism office before booking travel.
+The 2026 edition is set for **August 26, 2026**, held on the last Wednesday of August as per tradition, as part of Buñol's week-long Fiestas de Buñol in honor of San Luis Bertrán and the Virgen de los Desamparados. The tomato fight itself is a single-morning event, typically starting around late morning once a greased pole (the *palo jabón*) is climbed to release a ham fixed at the top — a traditional signal that the fight can begin.
+
+Because dates, start times, and event logistics can shift, confirm the exact schedule on the official La Tomatina website or Buñol's tourism office before booking travel.
 
 ## Getting there
 
@@ -76,9 +80,13 @@ Practical essentials: wear clothes and shoes you're ready to throw away, protect
 
 ## What to see and do beyond the fight
 
-The tomato fight is short — the surrounding fiesta week is longer. Buñol's Fiestas de Buñol includes fireworks, parades, live music, and traditional Valencian food stalls in the days leading up to and following the main event. The town's old quarter, with its narrow lanes and the Buñol Castle overlooking the center, is worth a slower look on a quieter day, since the tomato fight itself leaves little room for sightseeing. If you're staying in Valencia, pair the trip with a visit to the City of Arts and Sciences or the Central Market, both easy to combine with a day trip out to Buñol.
+The tomato fight is short — the surrounding fiesta week is longer. Buñol's Fiestas de Buñol includes fireworks, parades, live music, and traditional Valencian food stalls in the days leading up to and following the main event. The town's old quarter, with its narrow lanes and the Buñol Castle overlooking the center, is worth a slower look on a quieter day, since the tomato fight itself leaves little room for sightseeing.
+
+If you're staying in Valencia, pair the trip with a visit to the City of Arts and Sciences or the Central Market, both easy to combine with a day trip out to Buñol.
 
 ## How to visit like a local
 
-Locals and repeat visitors treat the fight as a fast, physical hour, not a lounging photo-op — most keep phones and cameras sealed in waterproof bags or leave them behind entirely, since nothing survives the pulp unprotected. Payment around town during fiesta week is mostly cash-friendly at small food stalls, though cards work in Valencia-side transfers and bigger vendors. The most common visitor mistake is underestimating logistics: showing up without a pre-bought ticket, without a way back to Valencia that evening, or without closed shoes (sandals get lost in the tomato slurry fast). Position yourself in the middle of the route rather than right at the trucks distributing tomatoes if you want more room to move; the crush is densest near the truck line. After the hour ends, join the informal rinse-off at the public hoses before heading to the train — waiting too long means a soaked, sticky, crowded ride home.
+Locals and repeat visitors treat the fight as a fast, physical hour, not a lounging photo-op — most keep phones and cameras sealed in waterproof bags or leave them behind entirely, since nothing survives the pulp unprotected. Payment around town during fiesta week is mostly cash-friendly at small food stalls, though cards work in Valencia-side transfers and bigger vendors. The most common visitor mistake is underestimating logistics: showing up without a pre-bought ticket, without a way back to Valencia that evening, or without closed shoes (sandals get lost in the tomato slurry fast).
+
+Position yourself in the middle of the route rather than right at the trucks distributing tomatoes if you want more room to move; the crush is densest near the truck line. After the hour ends, join the informal rinse-off at the public hoses before heading to the train — waiting too long means a soaked, sticky, crowded ride home.
 

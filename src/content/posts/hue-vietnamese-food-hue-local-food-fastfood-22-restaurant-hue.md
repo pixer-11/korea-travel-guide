@@ -60,11 +60,15 @@ updatedDate: "2026-07-24"
 
 ## Why go
 
-Hue's food scene is defined by dishes you won't easily find outside central Vietnam — bún bò Huế (spicy lemongrass beef noodle soup), bánh khoái (crispy turmeric pancake), nem lụi (grilled pork skewers wrapped in rice paper), and com hen (baby clam rice, a Hue specialty tied to the Perfume River). Vietnamese Food - Hue Local Food & FastFood 22 Restaurant, at 22 Trần Huy Liệu, has built an unusually strong reputation among travelers for delivering these dishes at low prices with consistent quality — a 4.9 rating across more than 2,000 reviews is a rare combination in a city full of tourist-facing eateries near the Citadel. The price level sits at the budget end, making it a solid stop for anyone who wants an introduction to Hue's imperial-era cuisine without committing to a formal, pricier restaurant.
+Hue's food scene is defined by dishes you won't easily find outside central Vietnam — bún bò Huế (spicy lemongrass beef noodle soup), bánh khoái (crispy turmeric pancake), nem lụi (grilled pork skewers wrapped in rice paper), and com hen (baby clam rice, a Hue specialty tied to the Perfume River). Vietnamese Food - Hue Local Food & FastFood 22 Restaurant, at 22 Trần Huy Liệu, has built an unusually strong reputation among travelers for delivering these dishes at low prices with consistent quality — a 4.9 rating across more than 2,000 reviews is a rare combination in a city full of tourist-facing eateries near the Citadel.
+
+The price level sits at the budget end, making it a solid stop for anyone who wants an introduction to Hue's imperial-era cuisine without committing to a formal, pricier restaurant.
 
 ## Getting there
 
-The restaurant sits in Phú Xuân ward, on the Citadel (north) side of the Perfume River — the historic heart of Hue where the old Imperial City and Ngo Mon Gate are located. Trần Huy Liệu is a smaller residential street, so arriving by taxi, Grab (Vietnam's dominant ride-hailing app), or rental bicycle/motorbike is more practical than trying to navigate on foot from across the river unless you're already staying in the Citadel area. Most hotels in the Phú Xuân/Phú Hoà area are within a 10–15 minute walk or a very short ride. If you're coming from the tourist-heavy south bank (near Le Loi Street and the train station), expect roughly a 10-minute drive crossing Trang Tien or Phu Xuan Bridge.
+The restaurant sits in Phú Xuân ward, on the Citadel (north) side of the Perfume River — the historic heart of Hue where the old Imperial City and Ngo Mon Gate are located. Trần Huy Liệu is a smaller residential street, so arriving by taxi, Grab (Vietnam's dominant ride-hailing app), or rental bicycle/motorbike is more practical than trying to navigate on foot from across the river unless you're already staying in the Citadel area.
+
+Most hotels in the Phú Xuân/Phú Hoà area are within a 10–15 minute walk or a very short ride. If you're coming from the tourist-heavy south bank (near Le Loi Street and the train station), expect roughly a 10-minute drive crossing Trang Tien or Phu Xuan Bridge.
 
 ## What to eat
 
@@ -84,4 +88,6 @@ Lunch (11:30 am–1:30 pm) and early dinner (6–7 pm) are the safest windows fo
 
 ## Nearby & tips
 
-Pair a meal here with a walk through the Imperial City (Hue's UNESCO-listed Citadel) or a visit to Dong Ba Market, the city's main market for local snacks, dried goods, and conical hats, both on the same side of the river. Since the restaurant leans toward local and fast-casual service rather than white-tablecloth dining, expect simple seating, quick service, and an English menu that may be limited — pointing at photos or dish names is common practice and perfectly normal here. Confirm current hours before heading out, especially around Vietnamese public holidays like Tet, when many family-run eateries adjust schedules or close for several days.
+Pair a meal here with a walk through the Imperial City (Hue's UNESCO-listed Citadel) or a visit to Dong Ba Market, the city's main market for local snacks, dried goods, and conical hats, both on the same side of the river. Since the restaurant leans toward local and fast-casual service rather than white-tablecloth dining, expect simple seating, quick service, and an English menu that may be limited — pointing at photos or dish names is common practice and perfectly normal here.
+
+Confirm current hours before heading out, especially around Vietnamese public holidays like Tet, when many family-run eateries adjust schedules or close for several days.

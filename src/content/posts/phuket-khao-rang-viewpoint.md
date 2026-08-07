@@ -72,7 +72,9 @@ aiGenerated: true
 
 ## Why go
 
-Khao Rang, also called Rang Hill, is the highest point overlooking Phuket Town, and it's the spot locals themselves go to watch the sun set over the Andaman Sea. Unlike the more touristy viewpoints in the south of the island (Karon, Promthep Cape), Khao Rang gives you a 360-degree look at a working city: red-tiled Sino-Portuguese shophouse roofs in the old town, the port area, distant limestone islands, and on clear days the hills of Phang Nga. The 4.5-star rating from nearly 7,000 reviews reflects how consistently visitors rate the view itself, even though the surrounding park facilities are simple.
+Khao Rang, also called Rang Hill, is the highest point overlooking Phuket Town, and it's the spot locals themselves go to watch the sun set over the Andaman Sea. Unlike the more touristy viewpoints in the south of the island (Karon, Promthep Cape), Khao Rang gives you a 360-degree look at a working city: red-tiled Sino-Portuguese shophouse roofs in the old town, the port area, distant limestone islands, and on clear days the hills of Phang Nga.
+
+The 4.5-star rating from nearly 7,000 reviews reflects how consistently visitors rate the view itself, even though the surrounding park facilities are simple.
 
 ## Getting there
 
@@ -100,4 +102,6 @@ Late afternoon (around 5:00–6:30 PM depending on the season) is the prime wind
 
 ## Nearby & tips
 
-Khao Rang pairs naturally with a visit to Phuket Old Town, only a short drive away, where you can walk Thalang Road and Soi Romanee for their preserved Sino-Portuguese architecture, boutique cafés, and street food stalls. Because the viewpoint has no admission fee, it's an easy, low-cost addition to a day otherwise spent museum-hopping or shopping in the old quarter. Wear light layers — the hilltop breeze is noticeably cooler than the town below, especially at sunset — and confirm current opening hours locally, since park hours can shift slightly around public holidays.
+Khao Rang pairs naturally with a visit to Phuket Old Town, only a short drive away, where you can walk Thalang Road and Soi Romanee for their preserved Sino-Portuguese architecture, boutique cafés, and street food stalls. Because the viewpoint has no admission fee, it's an easy, low-cost addition to a day otherwise spent museum-hopping or shopping in the old quarter.
+
+Wear light layers — the hilltop breeze is noticeably cooler than the town below, especially at sunset — and confirm current opening hours locally, since park hours can shift slightly around public holidays.

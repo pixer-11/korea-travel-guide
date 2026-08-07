@@ -50,7 +50,9 @@ draft: false
 ---
 ## Why Lenox House stands out
 
-Tokyo has no shortage of Italian restaurants, but Lenox House earns its buzz through pedigree and restraint. It comes from the team behind The Great Burger, a long-running cult favorite in the city's burger scene, and that same instinct for doing one thing with real craft carries over here. Instead of chasing trends with fusion gimmicks, Lenox House leans into handmade pasta and regional Italian dishes, reworked with seasonal Japanese ingredients rather than imported substitutes. The result is a menu that feels distinctly Tokyo even while staying rooted in Italian technique — the kind of quiet confidence that tends to separate places built to last from places built for a single news cycle.
+Tokyo has no shortage of Italian restaurants, but Lenox House earns its buzz through pedigree and restraint. It comes from the team behind The Great Burger, a long-running cult favorite in the city's burger scene, and that same instinct for doing one thing with real craft carries over here. Instead of chasing trends with fusion gimmicks, Lenox House leans into handmade pasta and regional Italian dishes, reworked with seasonal Japanese ingredients rather than imported substitutes.
+
+The result is a menu that feels distinctly Tokyo even while staying rooted in Italian technique — the kind of quiet confidence that tends to separate places built to last from places built for a single news cycle.
 
 ## The neighborhood: Yoyogi, away from the crowds
 
@@ -58,16 +60,24 @@ Lenox House sits in Yoyogi, a residential-leaning pocket of Shibuya Ward that si
 
 ## Getting there
 
-The restaurant is near Sangubashi Station, served by the Odakyu Odawara Line — a quick, one- or two-stop hop from Shinjuku Station, making it an easy add-on if you're already based in that part of the city. Sangubashi is also the closest station to the northern entrance of Yoyogi Park and to the National Yoyogi Stadium/NHK Hall area, so Lenox House works well as a dinner stop after wandering the park or catching an event nearby. From the station, the restaurant is within an easy walk — the kind of short stroll that lets you decompress from train crowds before settling into the vintage-meets-modern dining room.
+The restaurant is near Sangubashi Station, served by the Odakyu Odawara Line — a quick, one- or two-stop hop from Shinjuku Station, making it an easy add-on if you're already based in that part of the city. Sangubashi is also the closest station to the northern entrance of Yoyogi Park and to the National Yoyogi Stadium/NHK Hall area, so Lenox House works well as a dinner stop after wandering the park or catching an event nearby.
+
+From the station, the restaurant is within an easy walk — the kind of short stroll that lets you decompress from train crowds before settling into the vintage-meets-modern dining room.
 
 ## What to expect inside and on the plate
 
-Expect a space that plays with contrast: worn-in, vintage furnishings and fixtures set against cleaner, more contemporary design touches — a look that echoes the "old meets new" identity of many Tokyo restaurants run by chefs with a design eye, rather than a themed or overly styled interior. On the food side, the focus is handmade pasta alongside other regional Italian dishes reinterpreted with what's in season locally. Because exact dishes rotate with seasonal ingredients and specific menu items and prices weren't published at the time of writing, treat any dish names you see online as a snapshot rather than a fixed menu — check current offerings directly with the restaurant or its latest social posts before you go.
+Expect a space that plays with contrast: worn-in, vintage furnishings and fixtures set against cleaner, more contemporary design touches — a look that echoes the "old meets new" identity of many Tokyo restaurants run by chefs with a design eye, rather than a themed or overly styled interior. On the food side, the focus is handmade pasta alongside other regional Italian dishes reinterpreted with what's in season locally.
+
+Because exact dishes rotate with seasonal ingredients and specific menu items and prices weren't published at the time of writing, treat any dish names you see online as a snapshot rather than a fixed menu — check current offerings directly with the restaurant or its latest social posts before you go.
 
 ## When to go
 
-As a dinner-oriented Italian restaurant tied to a well-known team, Lenox House is best treated as an evening reservation rather than a casual walk-in, especially since it's currently trending among Tokyo food followers. If you want a calmer meal, an early weekday dinner seating is generally a safer bet in Tokyo's restaurant scene than Friday or Saturday night, when word-of-mouth spots like this tend to fill fastest. Hours were not confirmed for this guide, so verify the restaurant's current schedule and whether it's open for lunch before planning your day around it.
+As a dinner-oriented Italian restaurant tied to a well-known team, Lenox House is best treated as an evening reservation rather than a casual walk-in, especially since it's currently trending among Tokyo food followers. If you want a calmer meal, an early weekday dinner seating is generally a safer bet in Tokyo's restaurant scene than Friday or Saturday night, when word-of-mouth spots like this tend to fill fastest.
+
+Hours were not confirmed for this guide, so verify the restaurant's current schedule and whether it's open for lunch before planning your day around it.
 
 ## How to visit like a local
 
-Book ahead if a reservation system is available — in Tokyo, trending restaurants from known chef teams fill up fast once word spreads, and walk-in seating (if offered at all) is usually limited to counter or bar seats. If you do walk in, go right at opening rather than mid-service to avoid a wait. Diners in Japan almost always settle the bill at a front register rather than tableside, and tipping is not customary — service is already built into the price, so there's no need to leave extra cash. Keep voices moderate; Japanese dining rooms, especially smaller ones with a design-forward interior like this, tend to stay conversational rather than loud. The most common visitor mistake here would be treating it like a casual burger-joint drop-in because of the team's Great Burger connection — Lenox House is positioned as a sit-down Italian dinner, so dress and pace accordingly, and confirm reservation policy and hours directly before you go.
+Book ahead if a reservation system is available — in Tokyo, trending restaurants from known chef teams fill up fast once word spreads, and walk-in seating (if offered at all) is usually limited to counter or bar seats. If you do walk in, go right at opening rather than mid-service to avoid a wait. Diners in Japan almost always settle the bill at a front register rather than tableside, and tipping is not customary — service is already built into the price, so there's no need to leave extra cash.
+
+Keep voices moderate; Japanese dining rooms, especially smaller ones with a design-forward interior like this, tend to stay conversational rather than loud. The most common visitor mistake here would be treating it like a casual burger-joint drop-in because of the team's Great Burger connection — Lenox House is positioned as a sit-down Italian dinner, so dress and pace accordingly, and confirm reservation policy and hours directly before you go.

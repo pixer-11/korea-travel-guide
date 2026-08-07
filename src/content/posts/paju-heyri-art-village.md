@@ -42,7 +42,9 @@ country: South Korea
 
 ## Why go
 
-Heyri Art Village (헤이리 예술마을) is not an old neighborhood that organically became artsy — it was planned from the ground up in the late 1990s and early 2000s by a collective of writers, artists, architects, and musicians who wanted a car-light, low-rise community built around galleries, studios, and independent bookshops. The result is a sprawling, low-density district of several hundred buildings, many of them striking works of contemporary Korean architecture in concrete, glass, and corten steel, set against the low hills near the Imjin River. It's less about any single blockbuster attraction and more about wandering: unexpected sculpture gardens, small private museums devoted to a single artist or theme, cafés inside architect-designed houses, and quiet lanes that feel far removed from Seoul's density despite being under an hour away. It's a favorite half-day escape for design-minded travelers and families looking for something calmer than the city center.
+Heyri Art Village (헤이리 예술마을) is not an old neighborhood that organically became artsy — it was planned from the ground up in the late 1990s and early 2000s by a collective of writers, artists, architects, and musicians who wanted a car-light, low-rise community built around galleries, studios, and independent bookshops. The result is a sprawling, low-density district of several hundred buildings, many of them striking works of contemporary Korean architecture in concrete, glass, and corten steel, set against the low hills near the Imjin River.
+
+It's less about any single blockbuster attraction and more about wandering: unexpected sculpture gardens, small private museums devoted to a single artist or theme, cafés inside architect-designed houses, and quiet lanes that feel far removed from Seoul's density despite being under an hour away. It's a favorite half-day escape for design-minded travelers and families looking for something calmer than the city center.
 
 ## Getting there
 

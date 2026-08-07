@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: incheon-chinatown
-srcHash: e4f89ff1ea77
+srcHash: 'f2298a98104c'
 title: El Barrio Chino de Incheon
 description: El Barrio Chino de Incheon se encuentra justo a la salida de la Estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día.
 quickAnswer: 'El Barrio Chino de Incheon se encuentra justo a la salida de la Estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día: pasea por la cuesta de Chinatown-ro, flanqueada de faroles rojos, prueba el jajangmyeon (fideos con salsa de frijol negro) en alguno de los restaurantes chinos tradicionales, y luego sube hasta el Parque Jayu (de la Libertad) para bajar después hacia las calles históricas del Puerto Abierto y el callejón de murales de Wangbimarosugil. Ve un día de semana por la tarde para evitar las multitudes de grupos turísticos, y reserva entre 3 y 4 horas, incluyendo una comida.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-El Barrio Chino de Incheon es el enclave chino más antiguo y grande de Corea, establecido en la década de 1880 tras la apertura del puerto al comercio extranjero, cuando comerciantes de la dinastía Qing se asentaron aquí. También se le atribuye ampliamente ser el lugar de origen del jajangmyeon, el plato de fideos con salsa de frijol negro de sabor agridulce que hoy se considera comida reconfortante coreana más que una importación china. A diferencia de los barrios chinos pulidos de otras ciudades del mundo, el de Incheon es pequeño, algo desgastado y genuinamente histórico en lugar de estar construido únicamente para turistas: las calles todavía siguen el trazado original de la concesión extranjera del siglo XIX, con edificios de estilo Qing, japonés y occidental ubicados a pocas cuadras entre sí.
+El Barrio Chino de Incheon es el enclave chino más antiguo y grande de Corea, establecido en la década de 1880 tras la apertura del puerto al comercio extranjero, cuando comerciantes de la dinastía Qing se asentaron aquí. También se le atribuye ampliamente ser el lugar de origen del jajangmyeon, el plato de fideos con salsa de frijol negro de sabor agridulce que hoy se considera comida reconfortante coreana más que una importación china.
+
+A diferencia de los barrios chinos pulidos de otras ciudades del mundo, el de Incheon es pequeño, algo desgastado y genuinamente histórico en lugar de estar construido únicamente para turistas: las calles todavía siguen el trazado original de la concesión extranjera del siglo XIX, con edificios de estilo Qing, japonés y occidental ubicados a pocas cuadras entre sí.
 
 ## Cómo llegar
 
-Toma la Línea 1 del metro de Seúl (la línea que va desde Seúl hasta Incheon) hasta la Estación de Incheon, la terminal. La Salida 1 te deja justo frente al ornamentado portal del Barrio Chino (Jung-guk-ji Ilbeon paepangmun), el arco de entrada principal del barrio. Desde la Estación de Seúl o City Hall, calcula unos 60-75 minutos en tren, así que esta visita combina mejor con una salida temprana o un día dedicado a Incheon, en lugar de añadirla a un itinerario muy cargado en Seúl. No hace falta tomar un taxi una vez que llegas: todo el barrio se recorre a pie, aunque la calle principal sube por una cuesta bastante marcada.
+Toma la Línea 1 del metro de Seúl (la línea que va desde Seúl hasta Incheon) hasta la Estación de Incheon, la terminal. La Salida 1 te deja justo frente al ornamentado portal del Barrio Chino (Jung-guk-ji Ilbeon paepangmun), el arco de entrada principal del barrio. Desde la Estación de Seúl o City Hall, calcula unos 60-75 minutos en tren, así que esta visita combina mejor con una salida temprana o un día dedicado a Incheon, en lugar de añadirla a un itinerario muy cargado en Seúl.
+
+No hace falta tomar un taxi una vez que llegas: todo el barrio se recorre a pie, aunque la calle principal sube por una cuesta bastante marcada.
 
 ## Qué ver y comer
 
@@ -42,4 +46,6 @@ Las tardes entre semana son notablemente más tranquilas que los fines de semana
 
 ## Alrededores y consejos prácticos
 
-Combina la visita con el cercano Parque Central de Songdo o la Plataforma de Arte de Incheon si te quedas más tiempo en la zona, aunque estos requieren transporte adicional. El efectivo sigue siendo útil en los puestos de souvenirs más pequeños, y ten en cuenta que no todos los restaurantes de la calle principal aceptan tarjeta para compras pequeñas. Confirma el horario actual del Museo del Jajangmyeon antes de visitarlo, ya que los horarios de los museos en Corea suelen cambiar según la temporada. Por último, no esperes que el inglés esté muy presente dentro de todos los restaurantes: los menús con fotos son comunes, lo que facilita pedir jajangmyeon o tangsuyuk incluso sin saber coreano o chino.
+Combina la visita con el cercano Parque Central de Songdo o la Plataforma de Arte de Incheon si te quedas más tiempo en la zona, aunque estos requieren transporte adicional. El efectivo sigue siendo útil en los puestos de souvenirs más pequeños, y ten en cuenta que no todos los restaurantes de la calle principal aceptan tarjeta para compras pequeñas.
+
+Confirma el horario actual del Museo del Jajangmyeon antes de visitarlo, ya que los horarios de los museos en Corea suelen cambiar según la temporada. Por último, no esperes que el inglés esté muy presente dentro de todos los restaurantes: los menús con fotos son comunes, lo que facilita pedir jajangmyeon o tangsuyuk incluso sin saber coreano o chino.

@@ -42,15 +42,21 @@ draft: true
 
 ## Why go
 
-Okinawa's food scene is famous for its own Ryukyu dishes, but the island's decades-long relationship with the U.S. military and nearby Southeast Asian communities has also seeded pockets of genuinely good international street food — and Philippines Street Food Gonta in Chatan is one of the better-known examples. It's a no-frills counter operation rather than a sit-down restaurant, serving Filipino staples like grilled pork or chicken skewers (inasal-style barbecue), lumpia (fried spring rolls), and halo-halo, the shaved-ice dessert layered with beans, jelly, and evaporated milk. With a 4.5 rating across 64 reviews, it has built a loyal following among both locals and visitors looking for something different from the tempura and steak houses that dominate the area.
+Okinawa's food scene is famous for its own Ryukyu dishes, but the island's decades-long relationship with the U.S. military and nearby Southeast Asian communities has also seeded pockets of genuinely good international street food — and Philippines Street Food Gonta in Chatan is one of the better-known examples. It's a no-frills counter operation rather than a sit-down restaurant, serving Filipino staples like grilled pork or chicken skewers (inasal-style barbecue), lumpia (fried spring rolls), and halo-halo, the shaved-ice dessert layered with beans, jelly, and evaporated milk.
+
+With a 4.5 rating across 64 reviews, it has built a loyal following among both locals and visitors looking for something different from the tempura and steak houses that dominate the area.
 
 ## Where it is and getting there
 
-The address is 5 Chatan, 2-chōme-16 Chatan, Nakagami District, Okinawa 904-0116 — squarely in Chatan Town, the stretch of coastline just north of Naha that's home to American Village, Okinawa's neon-lit shopping and entertainment complex. This part of the island doesn't have train service (Okinawa's only rail line, the Yui Rail monorail, doesn't reach this far north), so the practical options are a rental car or a taxi from central Naha, roughly 30–40 minutes depending on traffic. If you're staying in one of the resort hotels along the Chatan/Mihama coast, it's a short drive or even a walkable errand. Parking in American Village itself is plentiful but fills up on weekend nights, so leave a buffer of extra time.
+The address is 5 Chatan, 2-chōme-16 Chatan, Nakagami District, Okinawa 904-0116 — squarely in Chatan Town, the stretch of coastline just north of Naha that's home to American Village, Okinawa's neon-lit shopping and entertainment complex. This part of the island doesn't have train service (Okinawa's only rail line, the Yui Rail monorail, doesn't reach this far north), so the practical options are a rental car or a taxi from central Naha, roughly 30–40 minutes depending on traffic.
+
+If you're staying in one of the resort hotels along the Chatan/Mihama coast, it's a short drive or even a walkable errand. Parking in American Village itself is plentiful but fills up on weekend nights, so leave a buffer of extra time.
 
 ## What to eat
 
-Go in expecting a streetfood menu, not a multi-course dinner. The signature items are grilled meat skewers seasoned in the Filipino barbecue style — sweet-savory marinade, slightly charred at the edges — plus lumpia and other fried snacks that pair well with a cold drink. Halo-halo is the dessert most people photograph before eating, and it's a good palate-cleanser after salty grilled food. Because portions are counter-style and inexpensive, the smart move is ordering two or three different items to share rather than committing to one dish. Prices are modest by Japanese standards, but menu costs and exact hours can shift, so it's worth checking current listings or calling ahead if you're planning a specific stop.
+Go in expecting a streetfood menu, not a multi-course dinner. The signature items are grilled meat skewers seasoned in the Filipino barbecue style — sweet-savory marinade, slightly charred at the edges — plus lumpia and other fried snacks that pair well with a cold drink. Halo-halo is the dessert most people photograph before eating, and it's a good palate-cleanser after salty grilled food.
+
+Because portions are counter-style and inexpensive, the smart move is ordering two or three different items to share rather than committing to one dish. Prices are modest by Japanese standards, but menu costs and exact hours can shift, so it's worth checking current listings or calling ahead if you're planning a specific stop.
 
 ## When to go
 
@@ -58,4 +64,6 @@ This is fundamentally a night-food spot. Chatan and American Village come alive 
 
 ## Nearby & tips
 
-Pair a visit with a walk through American Village for the Ferris wheel, beachfront sunset views, and its mix of import shops and cafés — it's one of the few places in Okinawa with a genuinely international, slightly Americanized streetscape. Sunset Beach itself is a couple of minutes' walk and worth timing your visit around, since Chatan's west-facing coastline produces some of the island's best sunset views. Bring small cash, as counter-style street food vendors in Japan often prefer it even when cards are accepted elsewhere. And treat this as one stop on a broader Chatan food crawl rather than a standalone destination — the area has a dense cluster of casual eateries within a five-minute walk, so arriving a little hungry and sharing plates across two or three stops is the most efficient way to experience the neighborhood.
+Pair a visit with a walk through American Village for the Ferris wheel, beachfront sunset views, and its mix of import shops and cafés — it's one of the few places in Okinawa with a genuinely international, slightly Americanized streetscape. Sunset Beach itself is a couple of minutes' walk and worth timing your visit around, since Chatan's west-facing coastline produces some of the island's best sunset views.
+
+Bring small cash, as counter-style street food vendors in Japan often prefer it even when cards are accepted elsewhere. And treat this as one stop on a broader Chatan food crawl rather than a standalone destination — the area has a dense cluster of casual eateries within a five-minute walk, so arriving a little hungry and sharing plates across two or three stops is the most efficient way to experience the neighborhood.

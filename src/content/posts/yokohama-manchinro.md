@@ -58,15 +58,21 @@ draft: false
 
 ## Why Manchinro matters in Chinatown
 
-Walk into Yokohama's Chinatown from any of its ornamental gates and you'll notice the crowds thin and thicken around certain landmarks — Manchinro is one of them. It's one of the oldest and most storied names in a neighborhood that's been serving Cantonese food since Chinese merchants settled here in the 1860s. The building itself announces its ambitions before you've even opened the menu: red lacquered columns, gold detailing, carved screens, and a grand staircase that make it feel less like a restaurant and more like a banquet hall built for celebration. That opulence is the point — this is where Yokohama families come to mark birthdays, graduations, and anniversaries, not just to grab lunch between sightseeing stops.
+Walk into Yokohama's Chinatown from any of its ornamental gates and you'll notice the crowds thin and thicken around certain landmarks — Manchinro is one of them. It's one of the oldest and most storied names in a neighborhood that's been serving Cantonese food since Chinese merchants settled here in the 1860s. The building itself announces its ambitions before you've even opened the menu: red lacquered columns, gold detailing, carved screens, and a grand staircase that make it feel less like a restaurant and more like a banquet hall built for celebration.
+
+That opulence is the point — this is where Yokohama families come to mark birthdays, graduations, and anniversaries, not just to grab lunch between sightseeing stops.
 
 ## What to eat
 
-The kitchen works in the classic Cantonese register: whole steamed fish, slow-braised abalone, shark fin soup, Peking duck carved tableside, and a dim sum program that ranges from delicate shrimp har gow to sturdier char siu buns. Portions and presentation lean toward the formal — many dishes arrive as part of set courses rather than à la carte grazing, which suits the restaurant's role as a place for a proper sit-down meal rather than a fast Chinatown snack. Given the price level, expect a bill that reflects the ingredients (abalone and shark fin aren't cheap anywhere) and the setting; this isn't the noodle counter or steamed-bun stall you'll find elsewhere on the same block, and it isn't trying to be.
+The kitchen works in the classic Cantonese register: whole steamed fish, slow-braised abalone, shark fin soup, Peking duck carved tableside, and a dim sum program that ranges from delicate shrimp har gow to sturdier char siu buns. Portions and presentation lean toward the formal — many dishes arrive as part of set courses rather than à la carte grazing, which suits the restaurant's role as a place for a proper sit-down meal rather than a fast Chinatown snack.
+
+Given the price level, expect a bill that reflects the ingredients (abalone and shark fin aren't cheap anywhere) and the setting; this isn't the noodle counter or steamed-bun stall you'll find elsewhere on the same block, and it isn't trying to be.
 
 ## The room itself
 
-The dining rooms spread across multiple floors, with private rooms available for groups, and the decor throughout is thick with carved wood, red and gold color schemes, and framed calligraphy — the kind of maximalist interior that photographs well but is really designed for the way Cantonese banquets unfold over hours, with dishes arriving in sequence for a table of six or eight rather than a solo diner. If you're a party of two, you'll still feel the room's scale; it's worth coming with an appetite and, ideally, people to share courses with.
+The dining rooms spread across multiple floors, with private rooms available for groups, and the decor throughout is thick with carved wood, red and gold color schemes, and framed calligraphy — the kind of maximalist interior that photographs well but is really designed for the way Cantonese banquets unfold over hours, with dishes arriving in sequence for a table of six or eight rather than a solo diner.
+
+If you're a party of two, you'll still feel the room's scale; it's worth coming with an appetite and, ideally, people to share courses with.
 
 ## Getting there
 
@@ -74,8 +80,14 @@ Manchinro sits at 153 Yamashitacho, right in the working core of Chinatown, a fe
 
 ## When to go
 
-Chinatown itself is busiest on weekends and around lunchtime, when tour groups and day-trippers from Tokyo flood the main streets, and Manchinro, as one of the most recognized names in the district, fills accordingly. If you want a calmer meal, aim for an early weekday lunch — sitting down as service opens gives you the best shot at being seated without a wait and lets you actually hear yourself think in a room that gets loud once full. Dim sum lunch is generally a lighter, faster meal than the dinner banquets, so it's the better choice if you're short on time.
+Chinatown itself is busiest on weekends and around lunchtime, when tour groups and day-trippers from Tokyo flood the main streets, and Manchinro, as one of the most recognized names in the district, fills accordingly. If you want a calmer meal, aim for an early weekday lunch — sitting down as service opens gives you the best shot at being seated without a wait and lets you actually hear yourself think in a room that gets loud once full.
+
+Dim sum lunch is generally a lighter, faster meal than the dinner banquets, so it's the better choice if you're short on time.
 
 ## How to visit like a local
 
-Book a table ahead if you're coming for dinner or on a weekend — this is a well-known destination restaurant, not a walk-in noodle shop, and word-of-mouth plus its Chinatown location mean tables fill fast. Because it's genuinely popular with visitors as well as regulars, don't expect an undiscovered or quiet corner of Chinatown; the way to "beat" the crowd here is timing, not secrecy — go for an early lunch sitting rather than peak dinner hours. Dress a notch above Chinatown-casual; the surroundings are formal enough that streetwear feels out of place. Payment by card is standard at this level of restaurant, though it's still wise to carry some cash as a backup, as smaller Chinatown businesses nearby often prefer it. If you're unsure what to order, ask staff to recommend a set course — it's the way the menu is designed to be eaten, and it takes the guesswork out of pairing dishes for a shared table. The most common mistake visitors make is treating Manchinro like a quick Chinatown snack stop; budget real time — 90 minutes to two hours — for the meal to unfold properly.
+Book a table ahead if you're coming for dinner or on a weekend — this is a well-known destination restaurant, not a walk-in noodle shop, and word-of-mouth plus its Chinatown location mean tables fill fast. Because it's genuinely popular with visitors as well as regulars, don't expect an undiscovered or quiet corner of Chinatown; the way to "beat" the crowd here is timing, not secrecy — go for an early lunch sitting rather than peak dinner hours.
+
+Dress a notch above Chinatown-casual; the surroundings are formal enough that streetwear feels out of place. Payment by card is standard at this level of restaurant, though it's still wise to carry some cash as a backup, as smaller Chinatown businesses nearby often prefer it. If you're unsure what to order, ask staff to recommend a set course — it's the way the menu is designed to be eaten, and it takes the guesswork out of pairing dishes for a shared table.
+
+The most common mistake visitors make is treating Manchinro like a quick Chinatown snack stop; budget real time — 90 minutes to two hours — for the meal to unfold properly.

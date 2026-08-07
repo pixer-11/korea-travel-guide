@@ -82,11 +82,15 @@ draft: false
 
 ## Why go
 
-You see it before you reach it: a pale, wave-like stone facade that seems to have been poured rather than built, with wrought-iron balconies twisted into knots of seaweed and vine. Antoni Gaudí finished Casa Milà in 1912, and locals nicknamed it "La Pedrera" — the quarry — because the undulating limestone looked like an unfinished rock face rather than a respectable Eixample apartment block. There's not a straight wall in the place. Even the interior courtyards curve, painted in fading blues and ochres that shift with the light as you look up through them.
+You see it before you reach it: a pale, wave-like stone facade that seems to have been poured rather than built, with wrought-iron balconies twisted into knots of seaweed and vine. Antoni Gaudí finished Casa Milà in 1912, and locals nicknamed it "La Pedrera" — the quarry — because the undulating limestone looked like an unfinished rock face rather than a respectable Eixample apartment block.
+
+There's not a straight wall in the place. Even the interior courtyards curve, painted in fading blues and ochres that shift with the light as you look up through them.
 
 ## What to see inside
 
-The visit unfolds in three acts. First, the Espai Gaudí in the attic, a forest of 270 raw brick catenary arches that once supported the roof and now houses a small museum of models and sketches explaining how Gaudí engineered curves without a single straight beam. Then a restored apartment, El Pis de la Pedrera, decorated as a well-off Barcelona family might have lived here around 1910 — Modernista furniture, hydraulic tile floors, a kitchen with copper pots still hanging. Finally, the roof terrace, the reason most people come: chimneys twisted into helmeted warrior shapes, ventilation towers coated in broken glass and marble chips (trencadís), all of it rippling underfoot because the roof itself is never flat. On a clear day you can pick out Sagrada Família's spires a few blocks northeast and the hazy line of Tibidabo above the city.
+The visit unfolds in three acts. First, the Espai Gaudí in the attic, a forest of 270 raw brick catenary arches that once supported the roof and now houses a small museum of models and sketches explaining how Gaudí engineered curves without a single straight beam. Then a restored apartment, El Pis de la Pedrera, decorated as a well-off Barcelona family might have lived here around 1910 — Modernista furniture, hydraulic tile floors, a kitchen with copper pots still hanging.
+
+Finally, the roof terrace, the reason most people come: chimneys twisted into helmeted warrior shapes, ventilation towers coated in broken glass and marble chips (trencadís), all of it rippling underfoot because the roof itself is never flat. On a clear day you can pick out Sagrada Família's spires a few blocks northeast and the hazy line of Tibidabo above the city.
 
 ## Getting there
 
@@ -98,7 +102,11 @@ La Pedrera opens daily from 9am to 11pm, with no weekly closing day, which gives
 
 ## How to visit like a local
 
-This is one of the most visited buildings in Spain, so don't expect a quiet, undiscovered corner — the smart move is timing, not secrecy. Book a timed-entry ticket online in advance rather than queuing at the door; walk-up lines routinely stretch long during the 11am–7pm peak, especially on weekends. If your schedule allows it, aim for the first entry slot after 9am or a late-afternoon/evening slot, when the crowd data shows the building noticeably quieter than midday. Bring the audio guide or app commentary rather than rushing through — the engineering details in the attic reward a slow read of the small placards, and most visitors blow past them heading straight for the roof. Wear shoes with grip: the roof terrace floor is uneven stone and can be slick after rain. Payment is standard card/contactless at the ticket counters, though buying online avoids that altogether. The mistake most first-timers make is treating this as a five-minute photo stop on the way to Casa Batlló two blocks away — give it the full 90 minutes to two hours it needs, and try to visit the two Gaudí buildings on separate outings rather than back-to-back, since both reward unhurried attention.
+This is one of the most visited buildings in Spain, so don't expect a quiet, undiscovered corner — the smart move is timing, not secrecy. Book a timed-entry ticket online in advance rather than queuing at the door; walk-up lines routinely stretch long during the 11am–7pm peak, especially on weekends. If your schedule allows it, aim for the first entry slot after 9am or a late-afternoon/evening slot, when the crowd data shows the building noticeably quieter than midday.
+
+Bring the audio guide or app commentary rather than rushing through — the engineering details in the attic reward a slow read of the small placards, and most visitors blow past them heading straight for the roof. Wear shoes with grip: the roof terrace floor is uneven stone and can be slick after rain. Payment is standard card/contactless at the ticket counters, though buying online avoids that altogether.
+
+The mistake most first-timers make is treating this as a five-minute photo stop on the way to Casa Batlló two blocks away — give it the full 90 minutes to two hours it needs, and try to visit the two Gaudí buildings on separate outings rather than back-to-back, since both reward unhurried attention.
 
 ## Nearby to combine
 

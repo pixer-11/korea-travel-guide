@@ -52,22 +52,34 @@ draft: false
 
 ## Why go
 
-You spot it long before you reach it — a slim white mast poking above the shophouse roofs of Banda Hilir, with a glass capsule ring slowly rotating around the top. Menara Taming Sari isn't a viewing platform you climb; it's a gyro tower, meaning the entire circular cabin rises up the mast while rotating a full 360 degrees, so you never have to jostle for a window seat. At 80 metres up, the historic core of Malacca flattens out into red-tiled roofs, the green dome of the Masjid Selat, the Melaka River snaking toward the Straits, and the container cranes of the port working in the haze. It's touristy, unapologetically so, but the view is the real thing.
+You spot it long before you reach it — a slim white mast poking above the shophouse roofs of Banda Hilir, with a glass capsule ring slowly rotating around the top. Menara Taming Sari isn't a viewing platform you climb; it's a gyro tower, meaning the entire circular cabin rises up the mast while rotating a full 360 degrees, so you never have to jostle for a window seat.
+
+At 80 metres up, the historic core of Malacca flattens out into red-tiled roofs, the green dome of the Masjid Selat, the Melaka River snaking toward the Straits, and the container cranes of the port working in the haze. It's touristy, unapologetically so, but the view is the real thing.
 
 ## Getting there
 
-The tower sits on Jalan Merdeka in Banda Hilir, directly across from A Famosa's ruined gatehouse and only a few hundred metres from the Stadthuys, Christ Church and Jonker Street. If you're already exploring the Dutch Square/Jonker Street heritage zone on foot, you can simply walk over — most visitors combine it with the same afternoon they see the red colonial buildings and climb St Paul's Hill. Grab or a local taxi from anywhere in central Melaka takes only a few minutes; there's also paid parking nearby for those with a rental car. Look for the ticket counter at the base of the tower, next to the small dancing fountain area that lights up after dark.
+The tower sits on Jalan Merdeka in Banda Hilir, directly across from A Famosa's ruined gatehouse and only a few hundred metres from the Stadthuys, Christ Church and Jonker Street. If you're already exploring the Dutch Square/Jonker Street heritage zone on foot, you can simply walk over — most visitors combine it with the same afternoon they see the red colonial buildings and climb St Paul's Hill.
+
+Grab or a local taxi from anywhere in central Melaka takes only a few minutes; there's also paid parking nearby for those with a rental car. Look for the ticket counter at the base of the tower, next to the small dancing fountain area that lights up after dark.
 
 ## What to see and do
 
-The ride itself lasts around 7 minutes: the capsule lifts off, rotates slowly, holds briefly at the top, then descends, so you get roughly two full rotations to sort out landmarks. By day you can pick out A Famosa's gate directly below, the Melaka River bridges, and the Straits of Malacca stretching toward Sumatra on a clear afternoon. By evening the old town's streetlights and the tower's own coloured lighting turn the whole scene into something closer to a slow-motion light show, and the Malacca skyline lights up block by block. Bring a phone or camera with a wide lens — the glass walls of the pod are clean enough for decent photos, though shooting straight down through the floor glass (yes, there's a small glass floor panel in some capsules) is the shot most people go for.
+The ride itself lasts around 7 minutes: the capsule lifts off, rotates slowly, holds briefly at the top, then descends, so you get roughly two full rotations to sort out landmarks. By day you can pick out A Famosa's gate directly below, the Melaka River bridges, and the Straits of Malacca stretching toward Sumatra on a clear afternoon. By evening the old town's streetlights and the tower's own coloured lighting turn the whole scene into something closer to a slow-motion light show, and the Malacca skyline lights up block by block.
+
+Bring a phone or camera with a wide lens — the glass walls of the pod are clean enough for decent photos, though shooting straight down through the floor glass (yes, there's a small glass floor panel in some capsules) is the shot most people go for.
 
 Afterwards, the surrounding Banda Hilir strip has food trucks, a small fountain show at night, and river-cruise jetties if you want to see the same skyline from water level instead of from 80 metres up.
 
 ## When to go
 
-With over 24,000 reviews and a 4.4 rating, this is one of the most visited single attractions in Malacca, and it shows in the queue length. Malaysian school holidays and weekend afternoons are the worst, with waits stretching well past the ride time itself. Early morning, right after opening, tends to be calmer, as does the hour before sunset — you get the added bonus of watching the town shift from daylight to lit-up dusk during the same rotation. Midday heat also makes the outdoor queue area uncomfortable, so if you can only go then, expect to sweat it out in the sun before you get near the cabin.
+With over 24,000 reviews and a 4.4 rating, this is one of the most visited single attractions in Malacca, and it shows in the queue length. Malaysian school holidays and weekend afternoons are the worst, with waits stretching well past the ride time itself. Early morning, right after opening, tends to be calmer, as does the hour before sunset — you get the added bonus of watching the town shift from daylight to lit-up dusk during the same rotation.
+
+Midday heat also makes the outdoor queue area uncomfortable, so if you can only go then, expect to sweat it out in the sun before you get near the cabin.
 
 ## How to visit like a local
 
-Because this is a heavily visited, mainstream attraction rather than an under-the-radar spot, the smart move is simply timing: go at opening or in the last hour before sunset to dodge both the tour-bus crowds and the heat. Buy your ticket at the base counter or through your hotel tour desk — cash and card are both commonly accepted, and there's no tipping expected anywhere in the process. There's no advance-booking system that locals rely on; it's a walk-up queue, so arriving with a group already assembled (not splitting up to find parking first) saves time. The most common mistake visitors make is treating this as a half-day activity — the ride itself is brief, so plan it as one stop bolted onto a longer walk through Jonker Street, Dutch Square and the river, not as a destination on its own. Skip the umbrella; the capsule is enclosed and air-conditioned, so the only weather that matters is what you'll face waiting in line outside.
+Because this is a heavily visited, mainstream attraction rather than an under-the-radar spot, the smart move is simply timing: go at opening or in the last hour before sunset to dodge both the tour-bus crowds and the heat. Buy your ticket at the base counter or through your hotel tour desk — cash and card are both commonly accepted, and there's no tipping expected anywhere in the process.
+
+There's no advance-booking system that locals rely on; it's a walk-up queue, so arriving with a group already assembled (not splitting up to find parking first) saves time. The most common mistake visitors make is treating this as a half-day activity — the ride itself is brief, so plan it as one stop bolted onto a longer walk through Jonker Street, Dutch Square and the river, not as a destination on its own.
+
+Skip the umbrella; the capsule is enclosed and air-conditioned, so the only weather that matters is what you'll face waiting in line outside.

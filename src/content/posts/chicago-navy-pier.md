@@ -51,15 +51,21 @@ draft: false
 
 ## Why go
 
-You feel the shift before you even reach the entrance — the crowd thickens, the lake wind picks up, and the skyline suddenly opens up behind you as Lake Michigan spreads out to the horizon. Navy Pier juts nearly a mile out into the water, and it's less a single attraction than a small self-contained district: fairground rides, a stained-glass museum, formal gardens, restaurants, a marina full of tour boats, and — most evenings from Memorial Day through Labor Day — fireworks that light up over the water. It was built in 1916 as a shipping and recreation pier, later served as a Navy training site during both World Wars, and that dual identity of utility and leisure is still baked into its bones.
+You feel the shift before you even reach the entrance — the crowd thickens, the lake wind picks up, and the skyline suddenly opens up behind you as Lake Michigan spreads out to the horizon. Navy Pier juts nearly a mile out into the water, and it's less a single attraction than a small self-contained district: fairground rides, a stained-glass museum, formal gardens, restaurants, a marina full of tour boats, and — most evenings from Memorial Day through Labor Day — fireworks that light up over the water.
+
+It was built in 1916 as a shipping and recreation pier, later served as a Navy training site during both World Wars, and that dual identity of utility and leisure is still baked into its bones.
 
 ## Getting there
 
-The pier sits at 600 E Grand Ave, at the eastern edge of Streeterville, so it's an easy walk from the Magnificent Mile — about 15-20 minutes from Michigan Avenue. If you'd rather ride, the CTA bus 29 (Navy Pier) and the free Chicago Water Taxi and Navy Pier trolley (seasonal, from the Loop) both drop you right at the entrance. By CTA train, get off at Grand/State on the Red Line, then walk about 15-20 minutes east, or catch the free trolley from there in summer. Driving in means parking garage fees that climb fast on weekends, so unless you're coming late at night, public transit or a walk is the easier call.
+The pier sits at 600 E Grand Ave, at the eastern edge of Streeterville, so it's an easy walk from the Magnificent Mile — about 15-20 minutes from Michigan Avenue. If you'd rather ride, the CTA bus 29 (Navy Pier) and the free Chicago Water Taxi and Navy Pier trolley (seasonal, from the Loop) both drop you right at the entrance.
+
+By CTA train, get off at Grand/State on the Red Line, then walk about 15-20 minutes east, or catch the free trolley from there in summer. Driving in means parking garage fees that climb fast on weekends, so unless you're coming late at night, public transit or a walk is the easier call.
 
 ## What to see and do
 
-Give yourself at least two hours just to cover the basics: a ride on the 200-foot Centennial Wheel (Navy Pier's answer to the London Eye, with enclosed gondolas that make it viable even in January), a wander through the Smith Museum of Stained Glass Windows tucked along the Family Pavilion's lower level, and a pass through the Crystal Gardens' six-story glass atrium of palm trees, which is worth ducking into even if you're not shopping. Boat lovers can catch an architecture cruise or a tall-ship sail on the Windy from the docks on the south side. Families gravitate to the carousel, mini-golf, and the IMAX theater; if you're traveling with kids the Chicago Children's Museum is also on-site. Food ranges from quick counter service to sit-down lake-view dining — nothing here is a hidden culinary secret, so expect tourist pricing, but the view from an east-facing patio at sunset earns its markup.
+Give yourself at least two hours just to cover the basics: a ride on the 200-foot Centennial Wheel (Navy Pier's answer to the London Eye, with enclosed gondolas that make it viable even in January), a wander through the Smith Museum of Stained Glass Windows tucked along the Family Pavilion's lower level, and a pass through the Crystal Gardens' six-story glass atrium of palm trees, which is worth ducking into even if you're not shopping.
+
+Boat lovers can catch an architecture cruise or a tall-ship sail on the Windy from the docks on the south side. Families gravitate to the carousel, mini-golf, and the IMAX theater; if you're traveling with kids the Chicago Children's Museum is also on-site. Food ranges from quick counter service to sit-down lake-view dining — nothing here is a hidden culinary secret, so expect tourist pricing, but the view from an east-facing patio at sunset earns its markup.
 
 ## When to go
 
@@ -67,4 +73,8 @@ Navy Pier's hours vary by season, so it's worth checking online before you go, e
 
 ## How to visit like a local
 
-Since this is squarely a big, busy tourist attraction rather than a locals' hangout, the smart move is planning around the crowds rather than pretending they don't exist. Buy timed tickets for the Centennial Wheel or any boat tour online in advance — the walk-up line on a summer afternoon can eat 45 minutes you didn't budget for. Most food and ticket vendors take cards and mobile payment, so there's no need to plan around cash. If you're set on seeing fireworks, they typically launch late (check the schedule, as it varies by season and day), so grab your spot on the pier's east end at least 30-45 minutes early rather than fighting through the crowd right before showtime. The single biggest mistake first-timers make is treating Navy Pier as a quick 30-minute photo stop — it rewards a slower pace, and the far east end, past most of the shops, is where the crowd thins and the lake views actually open up. Wear layers: the pier's exposed position means wind off the lake can be 10 degrees colder than downtown, even in shoulder-season months.
+Since this is squarely a big, busy tourist attraction rather than a locals' hangout, the smart move is planning around the crowds rather than pretending they don't exist. Buy timed tickets for the Centennial Wheel or any boat tour online in advance — the walk-up line on a summer afternoon can eat 45 minutes you didn't budget for. Most food and ticket vendors take cards and mobile payment, so there's no need to plan around cash.
+
+If you're set on seeing fireworks, they typically launch late (check the schedule, as it varies by season and day), so grab your spot on the pier's east end at least 30-45 minutes early rather than fighting through the crowd right before showtime. The single biggest mistake first-timers make is treating Navy Pier as a quick 30-minute photo stop — it rewards a slower pace, and the far east end, past most of the shops, is where the crowd thins and the lake views actually open up.
+
+Wear layers: the pier's exposed position means wind off the lake can be 10 degrees colder than downtown, even in shoulder-season months.

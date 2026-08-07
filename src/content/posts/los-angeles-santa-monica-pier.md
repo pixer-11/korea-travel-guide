@@ -77,15 +77,21 @@ You smell the pier before you see it — funnel cake and salt air, a faint tang 
 
 ## Why go
 
-The pier packs a lot into a small footprint: a solar-powered Ferris wheel and roller coaster at Pacific Park, a bustling arcade with the clatter of skee-ball and claw machines, a hand-carved 1922 carousel inside a Byzantine-style building, and the modest Santa Monica Pier Aquarium tucked underneath the deck, run by a local marine science group. Add fishing spots at the pier's end, buskers playing to the sunset crowd, and a view up the coastline toward the Santa Monica Mountains, and you get why this remains one of the most photographed spots in Los Angeles. It's not subtle, and it's not quiet — this is one of the most visited attractions in the city, and it feels that way most afternoons.
+The pier packs a lot into a small footprint: a solar-powered Ferris wheel and roller coaster at Pacific Park, a bustling arcade with the clatter of skee-ball and claw machines, a hand-carved 1922 carousel inside a Byzantine-style building, and the modest Santa Monica Pier Aquarium tucked underneath the deck, run by a local marine science group. Add fishing spots at the pier's end, buskers playing to the sunset crowd, and a view up the coastline toward the Santa Monica Mountains, and you get why this remains one of the most photographed spots in Los Angeles.
+
+It's not subtle, and it's not quiet — this is one of the most visited attractions in the city, and it feels that way most afternoons.
 
 ## Getting there
 
-The pier sits at the foot of Colorado Avenue, right where it meets Ocean Avenue, at 200 Santa Monica Pier. If you're on the Metro E Line (Expo), get off at Downtown Santa Monica station and walk about ten to fifteen minutes west, downhill, straight toward the ocean — you'll see the Ferris wheel as a landmark the whole way. Driving in, expect to pay for parking in the pier's own lots or the beach lots just north and south; on weekends, especially in summer, these fill early. If you're coming from elsewhere on the Westside, the Big Blue Bus network runs multiple routes ending a few blocks away on the Third Street Promenade, which is worth combining with your visit anyway.
+The pier sits at the foot of Colorado Avenue, right where it meets Ocean Avenue, at 200 Santa Monica Pier. If you're on the Metro E Line (Expo), get off at Downtown Santa Monica station and walk about ten to fifteen minutes west, downhill, straight toward the ocean — you'll see the Ferris wheel as a landmark the whole way.
+
+Driving in, expect to pay for parking in the pier's own lots or the beach lots just north and south; on weekends, especially in summer, these fill early. If you're coming from elsewhere on the Westside, the Big Blue Bus network runs multiple routes ending a few blocks away on the Third Street Promenade, which is worth combining with your visit anyway.
 
 ## What to see and do
 
-Start at the arch — the pier's illuminated sign is the classic photo, best taken looking east with the mountains behind it. Walk the length of the pier toward the water, where anglers cast lines off the end rail without a fishing license required (California state law exempts public piers). Pacific Park's rides run on separate ticket pricing from general pier admission, which is free — you only pay if you ride or go into the aquarium. Budget an hour just to wander, longer if kids want rides or you want to sit with fish tacos or ice cream and watch the surfers below. The aquarium is small, easily done in 30–45 minutes, and a good option if the midday sun gets intense.
+Start at the arch — the pier's illuminated sign is the classic photo, best taken looking east with the mountains behind it. Walk the length of the pier toward the water, where anglers cast lines off the end rail without a fishing license required (California state law exempts public piers). Pacific Park's rides run on separate ticket pricing from general pier admission, which is free — you only pay if you ride or go into the aquarium.
+
+Budget an hour just to wander, longer if kids want rides or you want to sit with fish tacos or ice cream and watch the surfers below. The aquarium is small, easily done in 30–45 minutes, and a good option if the midday sun gets intense.
 
 ## When to go
 
@@ -93,7 +99,11 @@ Sunset is the pier's best-known hour, when the Ferris wheel lights up against a 
 
 ## How to visit like a local
 
-Skip the noon-to-evening weekend rush entirely if you can — go at opening, order coffee from one of the stands, and walk the pier while the arcade lights are still dim and the boards are nearly empty. Most vendors and the aquarium accept cards and mobile pay, though a little cash helps for street performers and the occasional cash-only food cart. There's no formal queue system for walking onto the pier itself, but ride tickets at Pacific Park are usually bought at a kiosk or online in advance, which saves time in high season. The single biggest mistake visitors make is driving in expecting easy free parking — assume you'll pay, and consider parking a few blocks inland in downtown Santa Monica and walking down, which is often cheaper and faster than circling the pier lots. And if fishing off the end rail appeals to you, know that it's genuinely free and legal without a license — a detail many visitors never realize.
+Skip the noon-to-evening weekend rush entirely if you can — go at opening, order coffee from one of the stands, and walk the pier while the arcade lights are still dim and the boards are nearly empty. Most vendors and the aquarium accept cards and mobile pay, though a little cash helps for street performers and the occasional cash-only food cart.
+
+There's no formal queue system for walking onto the pier itself, but ride tickets at Pacific Park are usually bought at a kiosk or online in advance, which saves time in high season. The single biggest mistake visitors make is driving in expecting easy free parking — assume you'll pay, and consider parking a few blocks inland in downtown Santa Monica and walking down, which is often cheaper and faster than circling the pier lots.
+
+And if fishing off the end rail appeals to you, know that it's genuinely free and legal without a license — a detail many visitors never realize.
 
 ## Nearby
 

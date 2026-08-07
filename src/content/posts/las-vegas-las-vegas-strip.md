@@ -47,7 +47,9 @@ The Strip is less a single street than a concentrated skyline of themed mega-res
 
 ## Getting there
 
-Las Vegas Boulevard South is the Strip's official name and spine. If flying in, McCarran/Harry Reid International Airport (LAS) is about 10-15 minutes by car or rideshare from the southern end near Mandalay Bay. Within the Strip, the Las Vegas Monorail runs behind the east side of the boulevard connecting resorts like MGM Grand, Bally's/Horseshoe, Flamingo, Harrah's, and the Las Vegas Convention Center — useful for skipping long walks in summer heat. The free Bellagio/City Center tram links Bellagio, Crystals, and Aria. Distances look shorter on a casino map than they are in person: it can take 20-30 minutes to walk between resorts that appear "next door," so budget time accordingly, and consider rideshare or the Deuce double-decker bus for longer hops, especially toward the Stratosphere/SAHARA end.
+Las Vegas Boulevard South is the Strip's official name and spine. If flying in, McCarran/Harry Reid International Airport (LAS) is about 10-15 minutes by car or rideshare from the southern end near Mandalay Bay. Within the Strip, the Las Vegas Monorail runs behind the east side of the boulevard connecting resorts like MGM Grand, Bally's/Horseshoe, Flamingo, Harrah's, and the Las Vegas Convention Center — useful for skipping long walks in summer heat.
+
+The free Bellagio/City Center tram links Bellagio, Crystals, and Aria. Distances look shorter on a casino map than they are in person: it can take 20-30 minutes to walk between resorts that appear "next door," so budget time accordingly, and consider rideshare or the Deuce double-decker bus for longer hops, especially toward the Stratosphere/SAHARA end.
 
 ## What to see and do
 
@@ -65,4 +67,6 @@ Evenings are when the Strip performs best — lights, fountains, and pedestrian 
 
 ## Nearby & tips
 
-Downtown Las Vegas and the Fremont Street Experience — an older, neon-canopy district with its own light shows — sit about 4-5 miles north of the Strip's northern end and are worth a separate trip, not a walk. Parking garages at most resorts are self-park and often free if you're a hotel guest or make a small purchase; valet usually carries a fee plus tip. Sidewalks are elevated pedestrian bridges at several major intersections (like Flamingo/Strip and Tropicana/Strip) to keep foot traffic clear of the road — use them rather than jaywalking, which is both illegal and ticketed. Wear broken-in shoes: distances add up fast, and casino floors are engineered to keep you walking further than expected.
+Downtown Las Vegas and the Fremont Street Experience — an older, neon-canopy district with its own light shows — sit about 4-5 miles north of the Strip's northern end and are worth a separate trip, not a walk. Parking garages at most resorts are self-park and often free if you're a hotel guest or make a small purchase; valet usually carries a fee plus tip.
+
+Sidewalks are elevated pedestrian bridges at several major intersections (like Flamingo/Strip and Tropicana/Strip) to keep foot traffic clear of the road — use them rather than jaywalking, which is both illegal and ticketed. Wear broken-in shoes: distances add up fast, and casino floors are engineered to keep you walking further than expected.

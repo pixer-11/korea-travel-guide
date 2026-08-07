@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-wat-mahathat
-srcHash: '7ac7f4909972'
+srcHash: '5274739c0ffe'
 title: 'Wat Mahathat: Guía de viaje de Ayutthaya'
 description: Wat Mahathat, en el corazón de la isla histórica de Ayutthaya, es famoso por la cabeza de Buda de piedra arenisca envuelta entre las raíces de un árbol cerca del lado este del templo, posiblemente la imagen más fotografiada de la ciudad.
 quickAnswer: Wat Mahathat, en el corazón de la isla histórica de Ayutthaya, es famoso por la cabeza de Buda de piedra arenisca envuelta entre las raíces de un árbol cerca del lado este del templo, posiblemente la imagen más fotografiada de la ciudad. Conviene ir temprano (antes de las 8 a. m.) o a última hora de la tarde para evitar tanto el calor como las multitudes, y hay que reservar entre 45 y 60 minutos para recorrer los prangs en ruinas y las plataformas del monasterio. Se llega caminando o en tuk-tuk en poco tiempo desde la mayoría de los alojamientos de Soi Chao Phrom.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Wat Mahathat no es solo otro templo en ruinas en una ciudad llena de ellos: fue uno de los sitios religiosos más importantes del Reino de Ayutthaya, y se cree que fue fundado a finales del siglo XIV bajo el reinado del rey Borommarachathirat I o el rey Ramesuan, y que en su momento albergó una reliquia de Buda en su prang central. Sin embargo, lo que atrae hoy a más de 25,000 reseñadores y un flujo constante de excursionistas es una sola imagen, casi accidental: una cabeza de Buda de piedra arenisca, entrelazada y elevada por las raíces de un árbol bodhi, que se cree cayó de su cuerpo cuando el templo fue arrasado por las fuerzas birmanas en 1767, y quedó allí mientras el árbol crecía a su alrededor durante el siglo siguiente. Se ha convertido en un símbolo no oficial de la propia Ayutthaya.
+Wat Mahathat no es solo otro templo en ruinas en una ciudad llena de ellos: fue uno de los sitios religiosos más importantes del Reino de Ayutthaya, y se cree que fue fundado a finales del siglo XIV bajo el reinado del rey Borommarachathirat I o el rey Ramesuan, y que en su momento albergó una reliquia de Buda en su prang central.
+
+Sin embargo, lo que atrae hoy a más de 25,000 reseñadores y un flujo constante de excursionistas es una sola imagen, casi accidental: una cabeza de Buda de piedra arenisca, entrelazada y elevada por las raíces de un árbol bodhi, que se cree cayó de su cuerpo cuando el templo fue arrasado por las fuerzas birmanas en 1767, y quedó allí mientras el árbol crecía a su alrededor durante el siglo siguiente. Se ha convertido en un símbolo no oficial de la propia Ayutthaya.
 
 ## Cómo llegar
 
-Wat Mahathat se encuentra en Soi Chikun, en el distrito de Tambon Pratuchai, dentro de la isla histórica de Ayutthaya, justo enfrente de Wat Ratchaburana; ambos suelen visitarse juntos, ya que están uno frente al otro. Si vienes desde la estación de tren de Ayutthaya (Ayutthaya Railway Station), el templo está a unos 15–20 minutos en tuk-tuk (cruzando el río por el puente Pridi Damrong) o a unos 25 minutos caminando. La mayoría de los viajeros se alojan cerca del mercado Chao Phrom (Chao Phrom Market) o de Soi Farang, ambos a 5–10 minutos en tuk-tuk del sitio. La bicicleta es una forma popular de recorrer Wat Mahathat junto con las demás ruinas del centro (Wat Phra Si Sanphet y Wat Ratchaburana están a solo 5 minutos en bicicleta), ya que el parque histórico es en general llano y está cerrado al tráfico pesado en la zona núcleo.
+Wat Mahathat se encuentra en Soi Chikun, en el distrito de Tambon Pratuchai, dentro de la isla histórica de Ayutthaya, justo enfrente de Wat Ratchaburana; ambos suelen visitarse juntos, ya que están uno frente al otro. Si vienes desde la estación de tren de Ayutthaya (Ayutthaya Railway Station), el templo está a unos 15–20 minutos en tuk-tuk (cruzando el río por el puente Pridi Damrong) o a unos 25 minutos caminando.
+
+La mayoría de los viajeros se alojan cerca del mercado Chao Phrom (Chao Phrom Market) o de Soi Farang, ambos a 5–10 minutos en tuk-tuk del sitio. La bicicleta es una forma popular de recorrer Wat Mahathat junto con las demás ruinas del centro (Wat Phra Si Sanphet y Wat Ratchaburana están a solo 5 minutos en bicicleta), ya que el parque histórico es en general llano y está cerrado al tráfico pesado en la zona núcleo.
 
 ## Qué ver
 
@@ -36,7 +40,9 @@ Wat Mahathat se encuentra en Soi Chikun, en el distrito de Tambon Pratuchai, den
 
 ## Cuándo ir
 
-La temporada fresca de Ayutthaya (noviembre–febrero) ofrece las temperaturas más agradables para caminar por el recinto, pero también trae las mayores multitudes de autobuses turísticos alrededor del mediodía. Llegar a la hora de apertura o más tarde por la tarde (después de las 3:30 p. m. aproximadamente) suele reducir considerablemente las multitudes y suaviza la luz para las fotos junto a la cabeza de Buda entre las raíces. La temporada de lluvias (junio–octubre) es más tranquila y verde, pero conviene llevar sombrilla; el sol del mediodía entre marzo y mayo es intenso y hay poca sombra en el amplio campo de ruinas, así que conviene planear una visita temprana o al final del día.
+La temporada fresca de Ayutthaya (noviembre–febrero) ofrece las temperaturas más agradables para caminar por el recinto, pero también trae las mayores multitudes de autobuses turísticos alrededor del mediodía. Llegar a la hora de apertura o más tarde por la tarde (después de las 3:30 p. m. aproximadamente) suele reducir considerablemente las multitudes y suaviza la luz para las fotos junto a la cabeza de Buda entre las raíces.
+
+La temporada de lluvias (junio–octubre) es más tranquila y verde, pero conviene llevar sombrilla; el sol del mediodía entre marzo y mayo es intenso y hay poca sombra en el amplio campo de ruinas, así que conviene planear una visita temprana o al final del día.
 
 ## Cerca de allí y consejos
 

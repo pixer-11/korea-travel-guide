@@ -31,15 +31,21 @@ draft: false
 
 ## Why go
 
-Fuglen is one of those rare cafés that manages to feel both foreign and completely at home wherever it lands. Born in Oslo in the 1960s as a furniture-and-coffee shop, the brand became a cult name among specialty coffee drinkers for its Nordic-leaning roasts and mid-century interiors, then took its day-café/night-bar concept to Tokyo, where it became a fixture of the city's coffee scene. Fukuoka now has a second Fuglen location, tucked into a residential pocket near Keyakidori Avenue — and if the Tokyo branches are any indication, this is a spot built for lingering, not just a quick caffeine stop.
+Fuglen is one of those rare cafés that manages to feel both foreign and completely at home wherever it lands. Born in Oslo in the 1960s as a furniture-and-coffee shop, the brand became a cult name among specialty coffee drinkers for its Nordic-leaning roasts and mid-century interiors, then took its day-café/night-bar concept to Tokyo, where it became a fixture of the city's coffee scene.
+
+Fukuoka now has a second Fuglen location, tucked into a residential pocket near Keyakidori Avenue — and if the Tokyo branches are any indication, this is a spot built for lingering, not just a quick caffeine stop.
 
 ## Getting there
 
-Keyakidori Avenue, in Chuo Ward, is one of Fukuoka's most recognizable streetscapes — a wide, zelkova-tree-lined boulevard dotted with fashion boutiques, design shops, and low-key restaurants, running roughly between Tenjin and Yakuin. The new Fuglen sits just off this main strip, in the quieter residential streets that branch away from the avenue's retail bustle. That location alone tells you what to expect: this isn't a high-traffic tourist café built for crowds, but a corner shop meant to blend into daily neighborhood life. Tenjin and Yakuin are both well connected by Fukuoka's subway network, and either makes a sensible walking approach into the Keyakidori area — expect a walk of several minutes off the avenue itself once you turn onto the residential backstreets.
+Keyakidori Avenue, in Chuo Ward, is one of Fukuoka's most recognizable streetscapes — a wide, zelkova-tree-lined boulevard dotted with fashion boutiques, design shops, and low-key restaurants, running roughly between Tenjin and Yakuin. The new Fuglen sits just off this main strip, in the quieter residential streets that branch away from the avenue's retail bustle. That location alone tells you what to expect: this isn't a high-traffic tourist café built for crowds, but a corner shop meant to blend into daily neighborhood life.
+
+Tenjin and Yakuin are both well connected by Fukuoka's subway network, and either makes a sensible walking approach into the Keyakidori area — expect a walk of several minutes off the avenue itself once you turn onto the residential backstreets.
 
 ## What to expect
 
-By day, picture the Fuglen formula that's worked in Oslo and Tokyo: a small, design-conscious room, pour-over and espresso-based coffee, and a pace that encourages you to sit rather than grab-and-go. Mid-century Scandinavian furniture typically anchors these spaces — a stool at the counter, a shelf of coffee bags, the quiet hiss of a espresso machine rather than blaring music. As the light changes and evening comes on, the room reportedly turns over into bar service, a signature Fuglen move that transforms the same counter and stools into a cocktail setting. Because this Fukuoka branch only opened in May 2026, treat any specific drink names, prices, or exact opening and closing times as unconfirmed — check Fuglen's official channels or a recent visitor report before you commit to a plan around it.
+By day, picture the Fuglen formula that's worked in Oslo and Tokyo: a small, design-conscious room, pour-over and espresso-based coffee, and a pace that encourages you to sit rather than grab-and-go. Mid-century Scandinavian furniture typically anchors these spaces — a stool at the counter, a shelf of coffee bags, the quiet hiss of a espresso machine rather than blaring music.
+
+As the light changes and evening comes on, the room reportedly turns over into bar service, a signature Fuglen move that transforms the same counter and stools into a cocktail setting. Because this Fukuoka branch only opened in May 2026, treat any specific drink names, prices, or exact opening and closing times as unconfirmed — check Fuglen's official channels or a recent visitor report before you commit to a plan around it.
 
 ## The neighborhood around it
 
@@ -47,5 +53,9 @@ Part of the appeal here is the setting, not just the cup. Keyakidori's tree cano
 
 ## How to visit like a local
 
-Treat this as a slow-morning or early-evening stop rather than a box to tick. Specialty cafés in this mold tend to be busiest in the late morning as neighborhood regulars filter through before lunch, and to quiet down again in the mid-afternoon lull — arriving outside that window, or right at the day-to-night changeover, is a reasonable strategy if you'd rather have the counter to yourself. Cash and card are both standard at Fukuoka cafés and bars, though a newly opened spot may lean toward card or mobile payment — bring both options to be safe. If the day-to-bar switch is in effect, be mindful that ordering etiquette usually shifts too: a quick coffee order at 2pm is a different rhythm than settling in for a cocktail at 9pm, so read the room, or ask staff, before you sit down expecting either mode. The most common mistake visitors make with new openings like this is assuming information found online is already accurate — since the café is brand new as of May 2026, call ahead or check its social accounts for that day's hours rather than relying on secondhand listings. If it's busy, Keyakidori Avenue itself has enough café and boutique density that a short walk gives you a backup plan while you wait.
+Treat this as a slow-morning or early-evening stop rather than a box to tick. Specialty cafés in this mold tend to be busiest in the late morning as neighborhood regulars filter through before lunch, and to quiet down again in the mid-afternoon lull — arriving outside that window, or right at the day-to-night changeover, is a reasonable strategy if you'd rather have the counter to yourself.
+
+Cash and card are both standard at Fukuoka cafés and bars, though a newly opened spot may lean toward card or mobile payment — bring both options to be safe. If the day-to-bar switch is in effect, be mindful that ordering etiquette usually shifts too: a quick coffee order at 2pm is a different rhythm than settling in for a cocktail at 9pm, so read the room, or ask staff, before you sit down expecting either mode.
+
+The most common mistake visitors make with new openings like this is assuming information found online is already accurate — since the café is brand new as of May 2026, call ahead or check its social accounts for that day's hours rather than relying on secondhand listings. If it's busy, Keyakidori Avenue itself has enough café and boutique density that a short walk gives you a backup plan while you wait.
 

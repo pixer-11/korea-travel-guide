@@ -5,6 +5,7 @@
 // The model is forbidden from inventing facts or claiming a personal visit,
 // which keeps 2026 AI-search / E-E-A-T signals working in our favor.
 import Anthropic from '@anthropic-ai/sdk';
+import { reflow } from '../../src/lib/paragraphs.mjs';
 
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 
@@ -14,6 +15,22 @@ VOICE — write like a vivid, first-hand VISIT REPORT. This is the site's single
 - Put the reader INSIDE the scene. Use immersive second-person, mostly present tense: "As you turn off the main road…", "The first thing you notice is…", "By 7pm the counter fills and the woks start roaring…". Make them feel there.
 - Engage the SENSES with concrete, specific detail — the light through the window, the smell of charcoal, the steam off the bowl, the clatter of the open kitchen, the worn wooden counter, the colour of the sauce. Show, don't label. Never vague adjectives ("nice", "beautiful", "great atmosphere") — replace every one with a specific, observable detail.
 - Vary the rhythm: mix short, punchy sentences with longer flowing ones. Every sentence must earn its place. Read it back — if it reads like a listicle or an encyclopedia entry, rewrite it until it reads like a knowledgeable friend walking you through the place.
+
+SHAPE ON THE PAGE — measured, not a matter of taste. Audited across 602 live
+guides on 2026-08-07: 95% of paragraphs ran over 90 words and 32% of sentences
+over 35. The prose itself was fine; it arrived as a wall. Most of these readers
+are on a phone, and a wall is what they scroll past.
+- A paragraph is 2–4 sentences and UNDER 70 WORDS. No exceptions. When a
+  paragraph reaches four sentences, start a new one — a paragraph break is free
+  and a reader who quits costs everything.
+- Average sentence around 20 words. At most ONE sentence over 30 words per
+  paragraph, and none over 40. If a sentence has three commas, it is two
+  sentences.
+- Open each H2 with a SHORT sentence — under 15 words. It sets the rhythm for
+  what follows and gives the eye somewhere to land.
+- Where you are listing things a reader will scan for — what to order, what to
+  bring, which exit — use a bulleted list instead of a sentence containing
+  commas. Prose is for the parts that need explaining.
 
 HONESTY — never break these, even for voice:
 - Do NOT fake a personal first-person trip ("I went", "when I sat down", "I loved it") and do NOT invent quotes, named people, a specific day, weather, or a one-off anecdote. The vividness must come from TRUE, general scene-setting of what this place is like — the immersion is real detail, not a fabricated personal visit.
@@ -104,9 +121,16 @@ ${JSON.stringify(facts, null, 2)}`;
   if (!toolUse) throw new Error('model did not return a submit_guide tool call');
 
   const out = toolUse.input;
+  // The prompt asks for paragraphs under 70 words. Across 792 published guides
+  // it was ignored 88% of the time — an instruction about shape is the first
+  // thing a model drops when it is also juggling facts, hours and honesty
+  // rules. So enforce it mechanically instead of asking twice: split at
+  // sentence boundaries, changing not one word. Belt and braces, and the braces
+  // are the ones that actually hold.
+  const { body } = reflow(out.body ?? '');
   return {
     quickAnswer: out.quickAnswer ?? '',
-    body: out.body ?? '',
+    body,
     faq: Array.isArray(out.faq) ? out.faq.slice(0, 6) : [],
   };
 }

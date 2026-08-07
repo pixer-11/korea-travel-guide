@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: shanghai-people-s-park
-srcHash: '21c0c9b691ab'
+srcHash: 'da5f2cf81b25'
 title: 'People''s Park (Parque del Pueblo): Guía de viaje de Shanghái (4,4★)'
 description: 'People''s Park es un rincón verde genuinamente apacible en pleno People''s Square, encajado entre el Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái y una muralla de rascacielos en Nanjing Xi Lu. 4,4★ (903 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: People's Park es un rincón verde genuinamente apacible en pleno People's Square, encajado entre el Museo de Shanghái, el Centro de Exposiciones de Planificación Urbana de Shanghái y una muralla de rascacielos en Nanjing Xi Lu. Ve a pie desde la estación People's Square (líneas 1, 2, 8) y procura llegar entre las 7:00 y las 9:00, cuando los datos de afluencia muestran el menor tránsito de gente y el parque todavía pertenece a los grupos de tai chi y a quienes pasean a sus perros. Calcula entre 45 minutos y una hora para dar una vuelta alrededor del estanque, recorrer los senderos arbolados y tomar un café en el café junto al lago Barbarossa.
@@ -28,7 +28,9 @@ El propio terreno tiene una historia estratificada: ocupa parte de lo que fue el
 
 ## Qué encontrarás dentro
 
-El parque es compacto pero tiene varias capas: los céspedes recortados dan paso a bosquecillos más densos de plátanos de sombra, los senderos de grava rodean un estanque ornamental cubierto de nenúfares en verano, y puentes de piedra se arquean sobre carpas koi que se congregan cuando alguien se apoya en la baranda. Los residentes de mayor edad practican tai chi y rutinas con abanicos y espadas en las zonas pavimentadas abiertas durante las primeras horas de la mañana; a media mañana, son padres con cochecitos y oficinistas que cruzan el parque con café para llevar. Barbarossa, el café-bar junto al lago construido en parte sobre el agua, es el único hito real del parque: una estructura peculiar, algo kitsch, con una terraza que da al estanque, popular para tomar un café con calma o una copa por la noche, cuando se encienden los farolillos.
+El parque es compacto pero tiene varias capas: los céspedes recortados dan paso a bosquecillos más densos de plátanos de sombra, los senderos de grava rodean un estanque ornamental cubierto de nenúfares en verano, y puentes de piedra se arquean sobre carpas koi que se congregan cuando alguien se apoya en la baranda. Los residentes de mayor edad practican tai chi y rutinas con abanicos y espadas en las zonas pavimentadas abiertas durante las primeras horas de la mañana; a media mañana, son padres con cochecitos y oficinistas que cruzan el parque con café para llevar.
+
+Barbarossa, el café-bar junto al lago construido en parte sobre el agua, es el único hito real del parque: una estructura peculiar, algo kitsch, con una terraza que da al estanque, popular para tomar un café con calma o una copa por la noche, cuando se encienden los farolillos.
 
 En la esquina noreste del parque se encuentra el Museo de Arte Contemporáneo de Shanghái (MOCA Shanghai), un pabellón de vidrio y acero que empezó su vida como invernadero, y que merece la pena ver aunque solo sea desde fuera, solo por la arquitectura. Y, las tardes de fin de semana, no te sorprendas si te topas con el famoso "mercado matrimonial" del parque, donde los padres cuelgan perfiles escritos a mano de sus hijos adultos solteros en sombrillas atadas, con la esperanza de emparejarlos con el hijo o la hija, igualmente soltero, de algún desconocido. Es una de las escenas más singulares y completamente auténticas del centro de Shanghái.
 
@@ -42,4 +44,8 @@ Los datos de afluencia aquí son útiles: el parque está más tranquilo entre s
 
 ## Cómo visitarlo como un local
 
-Sáltate la avalancha de media mañana y ven a la hora de apertura: quienes usan este parque a diario son los practicantes de tai chi y los paseadores de perros que ya están allí a las 7:00, no los grupos turísticos que llegan más tarde. No hay tarifa de entrada ni cola de boletos que planificar, así que no hace falta reservar nada; simplemente entra por cualquiera de las puertas que rodean People's Square. Tanto el efectivo como el pago móvil (WeChat Pay/Alipay) funcionan bien en el café si te detienes a tomar algo, aunque la tarjeta es menos fiable. Si pasas por el mercado matrimonial un fin de semana, obsérvalo con respeto en lugar de fotografiar de cerca los carteles escritos a mano de desconocidos: es un ritual social real y en funcionamiento, no un espectáculo para turistas. El error que comete la mayoría de los visitantes es tratar el parque como un atajo de cinco minutos entre el museo y el metro; en su lugar, date la vuelta completa, más allá del estanque y hacia la arboleda, donde el ruido del tráfico desaparece casi por completo.
+Sáltate la avalancha de media mañana y ven a la hora de apertura: quienes usan este parque a diario son los practicantes de tai chi y los paseadores de perros que ya están allí a las 7:00, no los grupos turísticos que llegan más tarde. No hay tarifa de entrada ni cola de boletos que planificar, así que no hace falta reservar nada; simplemente entra por cualquiera de las puertas que rodean People's Square.
+
+Tanto el efectivo como el pago móvil (WeChat Pay/Alipay) funcionan bien en el café si te detienes a tomar algo, aunque la tarjeta es menos fiable. Si pasas por el mercado matrimonial un fin de semana, obsérvalo con respeto en lugar de fotografiar de cerca los carteles escritos a mano de desconocidos: es un ritual social real y en funcionamiento, no un espectáculo para turistas.
+
+El error que comete la mayoría de los visitantes es tratar el parque como un atajo de cinco minutos entre el museo y el metro; en su lugar, date la vuelta completa, más allá del estanque y hacia la arboleda, donde el ruido del tráfico desaparece casi por completo.

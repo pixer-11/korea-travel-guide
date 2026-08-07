@@ -50,19 +50,27 @@ draft: false
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You hear the Grand Bazaar before you fully see it — a low hum of vendors calling out in half a dozen languages, the clink of tea glasses on brass trays, the scrape of shutters rolling up. Then you step through one of its stone gates and the ceiling opens above you: barrel vaults painted in faded reds and blues, daylight filtering through arched windows set high in the brick, more than sixty covered streets fanning out in every direction. This is not a single market hall but a whole neighborhood roofed over, built by order of Mehmed the Conqueror in the 1450s and expanded by successive sultans until it swallowed entire blocks of the old city.
+You hear the Grand Bazaar before you fully see it — a low hum of vendors calling out in half a dozen languages, the clink of tea glasses on brass trays, the scrape of shutters rolling up. Then you step through one of its stone gates and the ceiling opens above you: barrel vaults painted in faded reds and blues, daylight filtering through arched windows set high in the brick, more than sixty covered streets fanning out in every direction.
+
+This is not a single market hall but a whole neighborhood roofed over, built by order of Mehmed the Conqueror in the 1450s and expanded by successive sultans until it swallowed entire blocks of the old city.
 
 ## Why go
 
-Few markets on earth have stayed this continuously alive for nearly 600 years. The Grand Bazaar isn't preserved behind glass — it's still a working commercial district, with dynasties of jewelers, leatherworkers, and carpet dealers running stalls their grandfathers opened. Streets are still named for what they once sold exclusively: Kalpakçılar Street for furriers and now gold, Sandal Bedesteni for the oldest and most secure inner hall, where valuables were once locked away overnight. Even if you buy nothing, walking these covered lanes is a piece of Ottoman urban history you can't get anywhere else in the city.
+Few markets on earth have stayed this continuously alive for nearly 600 years. The Grand Bazaar isn't preserved behind glass — it's still a working commercial district, with dynasties of jewelers, leatherworkers, and carpet dealers running stalls their grandfathers opened. Streets are still named for what they once sold exclusively: Kalpakçılar Street for furriers and now gold, Sandal Bedesteni for the oldest and most secure inner hall, where valuables were once locked away overnight.
+
+Even if you buy nothing, walking these covered lanes is a piece of Ottoman urban history you can't get anywhere else in the city.
 
 ## Getting there
 
-The bazaar sits in Beyazıt, in the Fatih district, wedged between Istanbul University and Nuruosmaniye Mosque. The easiest approach is the T1 tram to Beyazıt-Kapalıçarşı station, which puts you almost at the Beyazıt Gate. Alternatively, ride the T1 one stop further to Çemberlitaş and walk up through the Nuruosmaniye Gate, arguably the most atmospheric entrance, passing under the mosque's courtyard first. Either route takes under 20 minutes from Sultanahmet on foot, so many visitors simply combine the bazaar with the Blue Mosque and Hagia Sophia in one loop through the old city.
+The bazaar sits in Beyazıt, in the Fatih district, wedged between Istanbul University and Nuruosmaniye Mosque. The easiest approach is the T1 tram to Beyazıt-Kapalıçarşı station, which puts you almost at the Beyazıt Gate. Alternatively, ride the T1 one stop further to Çemberlitaş and walk up through the Nuruosmaniye Gate, arguably the most atmospheric entrance, passing under the mosque's courtyard first.
+
+Either route takes under 20 minutes from Sultanahmet on foot, so many visitors simply combine the bazaar with the Blue Mosque and Hagia Sophia in one loop through the old city.
 
 ## What to see and buy
 
-Head first to the Sandal Bedesteni and the adjoining Old Bazaar (İç Bedesten) at the market's core — the oldest, calmest section, good for orienting yourself before the crowds thicken. Zincirli Han, a quieter side courtyard, is known for carpet dealers who'll pour tea and unroll rugs without much pressure to buy. Leather jackets and bags cluster around Kürkçüler Kapısı; hand-painted ceramics and copper from Kütahya and Iznik traditions show up in stalls near the Nuruosmaniye end. Gold and silver jewelry dominates Kalpakçılar Caddesi, the bazaar's widest and busiest artery. Set aside at least two hours — half a day if you intend to compare prices across shops before buying anything of value, which is standard practice here.
+Head first to the Sandal Bedesteni and the adjoining Old Bazaar (İç Bedesten) at the market's core — the oldest, calmest section, good for orienting yourself before the crowds thicken. Zincirli Han, a quieter side courtyard, is known for carpet dealers who'll pour tea and unroll rugs without much pressure to buy. Leather jackets and bags cluster around Kürkçüler Kapısı; hand-painted ceramics and copper from Kütahya and Iznik traditions show up in stalls near the Nuruosmaniye end.
+
+Gold and silver jewelry dominates Kalpakçılar Caddesi, the bazaar's widest and busiest artery. Set aside at least two hours — half a day if you intend to compare prices across shops before buying anything of value, which is standard practice here.
 
 ## When to go
 
@@ -70,4 +78,8 @@ The bazaar operates during standard daytime business hours through the week, and
 
 ## How to visit like a local
 
-Nobody who shops here regularly treats the first price as the price — haggling is expected, not rude, and a good rule of thumb is to counter at roughly half the initial quote and negotiate from there, especially on leather, jewelry, and textiles. Cash (Turkish lira) still gets you better deals in many stalls than card, though card machines are common now. Don't accept the first invitation to "just look, no pressure" tea from a carpet seller unless you're genuinely willing to browse — it's a sales technique, not simple hospitality, though a fairly enjoyable one. The single biggest mistake visitors make is trying to see the whole bazaar in one pass; locals treat it more like a neighborhood than an attraction, popping in for one specific errand — a repair, a gift, a specific stone — rather than touring it wall to wall. Exit toward Çadırcılar Caddesi outside the Beyazıt Gate for cheaper, non-touristic household goods stalls that spill into the open street, a good gauge of what locals actually buy here.
+Nobody who shops here regularly treats the first price as the price — haggling is expected, not rude, and a good rule of thumb is to counter at roughly half the initial quote and negotiate from there, especially on leather, jewelry, and textiles. Cash (Turkish lira) still gets you better deals in many stalls than card, though card machines are common now.
+
+Don't accept the first invitation to "just look, no pressure" tea from a carpet seller unless you're genuinely willing to browse — it's a sales technique, not simple hospitality, though a fairly enjoyable one. The single biggest mistake visitors make is trying to see the whole bazaar in one pass; locals treat it more like a neighborhood than an attraction, popping in for one specific errand — a repair, a gift, a specific stone — rather than touring it wall to wall.
+
+Exit toward Çadırcılar Caddesi outside the Beyazıt Gate for cheaper, non-touristic household goods stalls that spill into the open street, a good gauge of what locals actually buy here.

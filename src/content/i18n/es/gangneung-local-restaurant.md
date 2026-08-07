@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: gangneung-local-restaurant
-srcHash: b608fe6047de
+srcHash: 'aa74d4aa674b'
 title: Restaurantes locales en Gangneung
 description: 'Para conocer de verdad la cultura gastronómica de Gangneung, dirígete a los callejones alrededor del Mercado Jungang (Jungang-dong) y al estero de Gangmun cerca de la Playa Gyeongpo, donde pequeños locales familiares se especializan en los platos emblemáticos de la ciudad: chodang sundubu (tofu sin cuajar cocido a fuego lento en salmuera de agua de mar), pescado fresco a la parrilla o crudo del Mar del Este, y makguksu (fideos fríos de trigo sarraceno).'
 quickAnswer: 'Para conocer de verdad la cultura gastronómica de Gangneung, dirígete a los callejones alrededor del Mercado Jungang (Jungang-dong) y al estero de Gangmun cerca de la Playa Gyeongpo, donde pequeños locales familiares se especializan en los platos emblemáticos de la ciudad: chodang sundubu (tofu sin cuajar cocido a fuego lento en salmuera de agua de mar), pescado fresco a la parrilla o crudo del Mar del Este, y makguksu (fideos fríos de trigo sarraceno). Calcula entre 40.000 y 60.000 KRW para dos personas en una casa de tofu o marisquería de gama media, y ve a la hora del almuerzo, cuando los locales están más animados y la comida es más fresca.'
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué vale la pena buscar los restaurantes locales de Gangneung
 
-Gangneung, en la costa de la provincia de Gangwon-do en Corea, construyó su identidad gastronómica alrededor de dos elementos: el Mar del Este y la centenaria tradición del tofu de Chodang Village. A diferencia de la escena culinaria de Seúl, marcada por las tendencias, los restaurantes locales de Gangneung suelen ser negocios pequeños y familiares, transmitidos de generación en generación: la casa de sundubu de una abuela, un puesto de mercado que vende caballa a la parrilla, una fideería que lleva décadas preparando el mismo caldo. Comer aquí tiene menos que ver con el espectáculo y más con probar un lugar concreto: un tofu salobre que casi no se encuentra en ningún otro sitio de Corea, y fideos y mariscos moldeados por una economía pesquera de aguas frías.
+Gangneung, en la costa de la provincia de Gangwon-do en Corea, construyó su identidad gastronómica alrededor de dos elementos: el Mar del Este y la centenaria tradición del tofu de Chodang Village. A diferencia de la escena culinaria de Seúl, marcada por las tendencias, los restaurantes locales de Gangneung suelen ser negocios pequeños y familiares, transmitidos de generación en generación: la casa de sundubu de una abuela, un puesto de mercado que vende caballa a la parrilla, una fideería que lleva décadas preparando el mismo caldo.
+
+Comer aquí tiene menos que ver con el espectáculo y más con probar un lugar concreto: un tofu salobre que casi no se encuentra en ningún otro sitio de Corea, y fideos y mariscos moldeados por una economía pesquera de aguas frías.
 
 ## Cómo llegar
 
@@ -43,4 +45,6 @@ De media mañana a primera hora de la tarde (11:00–13:00) es cuando los puesto
 
 ## Alrededores y consejos prácticos
 
-Combina una comida en Chodang Village con un paseo alrededor del Lago Gyeongpo (Gyeongpo Lake) o la Playa Gyeongpo, ambos a pocos minutos a pie. Las comidas en el Mercado Jungang combinan bien con una parada en la cercana Calle del Café de Gangneung (Anmok), ya que Gangneung también es conocida a nivel nacional como un centro de tueste de café. Los menús de los restaurantes locales más pequeños pueden estar solo en coreano, así que ayuda conocer algunas palabras clave: 순두부 (sundubu/tofu), 막국수 (fideos fríos), 물회 (sopa fría de pescado crudo) y 회 (pescado crudo). El efectivo todavía es útil en los puestos del mercado, aunque la mayoría de los restaurantes con mesas aceptan tarjeta. Confirma con antelación los horarios de apertura actuales, ya que muchos negocios familiares cierran un día a la semana de forma rotativa o estacional.
+Combina una comida en Chodang Village con un paseo alrededor del Lago Gyeongpo (Gyeongpo Lake) o la Playa Gyeongpo, ambos a pocos minutos a pie. Las comidas en el Mercado Jungang combinan bien con una parada en la cercana Calle del Café de Gangneung (Anmok), ya que Gangneung también es conocida a nivel nacional como un centro de tueste de café.
+
+Los menús de los restaurantes locales más pequeños pueden estar solo en coreano, así que ayuda conocer algunas palabras clave: 순두부 (sundubu/tofu), 막국수 (fideos fríos), 물회 (sopa fría de pescado crudo) y 회 (pescado crudo). El efectivo todavía es útil en los puestos del mercado, aunque la mayoría de los restaurantes con mesas aceptan tarjeta. Confirma con antelación los horarios de apertura actuales, ya que muchos negocios familiares cierran un día a la semana de forma rotativa o estacional.

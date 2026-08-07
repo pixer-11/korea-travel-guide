@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seoul-euljiro
-srcHash: 29275e00f693
+srcHash: '3361e1fef4e9'
 title: Euljiro en Seúl
 description: Euljiro (을지로) es el antiguo barrio de imprentas y ferreterías del centro de Seúl, ahora famoso por sus bares y cafés retro "newtro" escondidos sobre talleres metalúrgicos.
 quickAnswer: Euljiro (을지로) es el antiguo barrio de imprentas y ferreterías del centro de Seúl, ahora famoso por sus bares y cafés retro "newtro" escondidos sobre talleres metalúrgicos. Instálate cerca de la estación Euljiro 3-ga (líneas 2 y 3) o de la estación Euljiro 4-ga (líneas 2 y 5), recorre los estrechos callejones detrás de la calle principal, y ve a primera hora de la tarde-noche, cuando los talleres están cerrando y los letreros de los bares empiezan a encenderse.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué vale la pena conocer Euljiro
 
-Euljiro se encuentra en el corazón de Jung-gu, entre Myeongdong y Jongno, pero parece otra ciudad. Durante décadas fue la columna vertebral industrial de Seúl: cuadra tras cuadra de pequeños talleres que fabricaban de todo, desde luminarias a medida hasta planchas de imprenta, herramientas y ferretería industrial. En lugar de ser demolido para dar paso a nuevas construcciones, gran parte de esa esencia sobrevivió, y en los últimos años una ola de bares, cafeterías y galerías se ha instalado en los pisos superiores y callejones traseros de esos mismos edificios. Los locales llaman a este fenómeno "newtro" (new + retro): una escalera de cemento visto pasa junto a un taller de soldadura y lleva a un bar escondido con muebles vintage y vino natural. Ese contraste —industrial de día, bohemio de noche— es lo que hace que Euljiro sea genuinamente distintivo y no una "joya escondida" fabricada artificialmente.
+Euljiro se encuentra en el corazón de Jung-gu, entre Myeongdong y Jongno, pero parece otra ciudad. Durante décadas fue la columna vertebral industrial de Seúl: cuadra tras cuadra de pequeños talleres que fabricaban de todo, desde luminarias a medida hasta planchas de imprenta, herramientas y ferretería industrial. En lugar de ser demolido para dar paso a nuevas construcciones, gran parte de esa esencia sobrevivió, y en los últimos años una ola de bares, cafeterías y galerías se ha instalado en los pisos superiores y callejones traseros de esos mismos edificios.
+
+Los locales llaman a este fenómeno "newtro" (new + retro): una escalera de cemento visto pasa junto a un taller de soldadura y lleva a un bar escondido con muebles vintage y vino natural. Ese contraste —industrial de día, bohemio de noche— es lo que hace que Euljiro sea genuinamente distintivo y no una "joya escondida" fabricada artificialmente.
 
 ## Cómo llegar
 
@@ -44,7 +46,9 @@ Puntos de referencia cercanos: el **Mercado Gwangjang** (Gwangjang Market), uno 
 
 ## Cuándo ir y cuánto tiempo quedarse
 
-Las tardes-noches (aproximadamente entre las 6 y las 10 pm) muestran a Euljiro en su mejor momento, cuando el ambiente de bares cobra vida mientras los talleres todavía están visiblemente cerrando por el día, mostrando así las dos caras del barrio. Los días de semana por la noche son notablemente más tranquilos y más fáciles para explorar los callejones estrechos; los fines de semana implican esperas más largas en los bares más pequeños. De dos a tres horas bastan para una primera visita: una hora de paseo estilo diurno más cena y una copa. Evita la media tarde de los domingos, cuando muchos talleres y algunos bares están cerrados.
+Las tardes-noches (aproximadamente entre las 6 y las 10 pm) muestran a Euljiro en su mejor momento, cuando el ambiente de bares cobra vida mientras los talleres todavía están visiblemente cerrando por el día, mostrando así las dos caras del barrio. Los días de semana por la noche son notablemente más tranquilos y más fáciles para explorar los callejones estrechos; los fines de semana implican esperas más largas en los bares más pequeños.
+
+De dos a tres horas bastan para una primera visita: una hora de paseo estilo diurno más cena y una copa. Evita la media tarde de los domingos, cuando muchos talleres y algunos bares están cerrados.
 
 ## Consejos prácticos
 

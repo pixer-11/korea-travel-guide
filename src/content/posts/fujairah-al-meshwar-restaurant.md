@@ -84,11 +84,15 @@ Al Meshwar has built its reputation the straightforward way: charcoal-grilled Le
 
 ## Getting there
 
-The restaurant sits on Hamad Bin Abdulla Road, right by Fujairah City Centre mall — one of the city's main commercial arteries, so it's easy to combine with a mall stop or errands in the same trip. Fujairah doesn't have a metro or tram system, so plan on a taxi, rental car, or ride-hailing app; taxis are metered and easy to flag near the mall entrance. If you're driving, expect metered street parking or the mall's parking area nearby, and treat evening rush hour (roughly 6–8pm) as the most congested window on this stretch of road.
+The restaurant sits on Hamad Bin Abdulla Road, right by Fujairah City Centre mall — one of the city's main commercial arteries, so it's easy to combine with a mall stop or errands in the same trip. Fujairah doesn't have a metro or tram system, so plan on a taxi, rental car, or ride-hailing app; taxis are metered and easy to flag near the mall entrance.
+
+If you're driving, expect metered street parking or the mall's parking area nearby, and treat evening rush hour (roughly 6–8pm) as the most congested window on this stretch of road.
 
 ## What to eat
 
-This is Lebanese comfort food territory: think mixed grill platters with kebab, shish tawouk, and lamb chops, alongside shawarma wraps (chicken and beef) that regulars order to go as often as to eat in. Mezze is where the kitchen shows its range — hummus, moutabal, tabbouleh, fattoush, and warm bread arrive fast and are meant to be shared before the mains land. Freshly squeezed juices and Lebanese-style tea or coffee round out the meal. Portions run generous rather than delicate, so a mixed grill for two plus a couple of mezze plates is usually enough for three people. Price level sits solidly in the moderate range — expect a casual, wallet-friendly bill rather than fine-dining pricing, though exact menu prices should be checked on-site or via delivery apps since they shift over time.
+This is Lebanese comfort food territory: think mixed grill platters with kebab, shish tawouk, and lamb chops, alongside shawarma wraps (chicken and beef) that regulars order to go as often as to eat in. Mezze is where the kitchen shows its range — hummus, moutabal, tabbouleh, fattoush, and warm bread arrive fast and are meant to be shared before the mains land.
+
+Freshly squeezed juices and Lebanese-style tea or coffee round out the meal. Portions run generous rather than delicate, so a mixed grill for two plus a couple of mezze plates is usually enough for three people. Price level sits solidly in the moderate range — expect a casual, wallet-friendly bill rather than fine-dining pricing, though exact menu prices should be checked on-site or via delivery apps since they shift over time.
 
 ## When to go
 
@@ -96,7 +100,11 @@ Lunch (roughly 1–3pm) and early evening (before 7pm) tend to be calmer than th
 
 ## How to visit like a local
 
-Al Meshwar is well-known in Fujairah, not a hidden find, so the smart move is timing rather than seeking secrecy — arrive before 1pm or between 3 and 6pm to skip the worst of the queue, since peak dinner hours regularly mean a short wait for a table. Ordering is simple and direct: ask for a mixed grill to share and let the server suggest 2–3 mezze rather than over-ordering individual mains, which is how most tables here actually eat. Card payment is standard and widely accepted across Fujairah's restaurants, though carrying some cash is still useful for tipping — rounding up or leaving 10% is customary and appreciated but not obligatory. The most common visitor mistake is treating it like a sit-down, leisurely dinner spot; the energy here is brisk and functional, closer to a grill-house pace than a lounge, so come hungry and ready to eat rather than lingering over a long multi-course evening. If you want food to go, shawarma wraps travel well and are a popular takeaway option for people heading to the nearby beaches or Corniche.
+Al Meshwar is well-known in Fujairah, not a hidden find, so the smart move is timing rather than seeking secrecy — arrive before 1pm or between 3 and 6pm to skip the worst of the queue, since peak dinner hours regularly mean a short wait for a table. Ordering is simple and direct: ask for a mixed grill to share and let the server suggest 2–3 mezze rather than over-ordering individual mains, which is how most tables here actually eat.
+
+Card payment is standard and widely accepted across Fujairah's restaurants, though carrying some cash is still useful for tipping — rounding up or leaving 10% is customary and appreciated but not obligatory. The most common visitor mistake is treating it like a sit-down, leisurely dinner spot; the energy here is brisk and functional, closer to a grill-house pace than a lounge, so come hungry and ready to eat rather than lingering over a long multi-course evening.
+
+If you want food to go, shawarma wraps travel well and are a popular takeaway option for people heading to the nearby beaches or Corniche.
 
 ## Nearby to pair with your visit
 

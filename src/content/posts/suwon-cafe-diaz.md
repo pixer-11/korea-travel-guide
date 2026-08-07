@@ -70,11 +70,15 @@ Suwon has no shortage of café-hopping options, but Cafe Diaz has separated itse
 
 ## Getting there
 
-Cafe Diaz is located at 48-7 Ingye-ro 166beon-gil, in Paldal-gu — Suwon's historic core, home to the UNESCO-listed Suwon Hwaseong Fortress. Paldal-gu is walkable from several points along the fortress wall, and if you're coming by public transit, Suwon Station (on the Bundang Line and the Gyeongbu Line, with KTX service) is the main hub for the area; from there, a taxi is the simplest way to reach Ingye-dong, generally a 10–15 minute ride depending on traffic. If you prefer buses, look for local routes running through Ingye-dong toward the fortress's southern gates (Paldalmun), then walk in from there. Because the café sits on a smaller side street (a "beon-gil" lane), punch the exact address into a Korean map app like Naver Map or Kakao Map rather than Google Maps, which can be unreliable for pinpointing exact entrances in Korea.
+Cafe Diaz is located at 48-7 Ingye-ro 166beon-gil, in Paldal-gu — Suwon's historic core, home to the UNESCO-listed Suwon Hwaseong Fortress. Paldal-gu is walkable from several points along the fortress wall, and if you're coming by public transit, Suwon Station (on the Bundang Line and the Gyeongbu Line, with KTX service) is the main hub for the area; from there, a taxi is the simplest way to reach Ingye-dong, generally a 10–15 minute ride depending on traffic.
+
+If you prefer buses, look for local routes running through Ingye-dong toward the fortress's southern gates (Paldalmun), then walk in from there. Because the café sits on a smaller side street (a "beon-gil" lane), punch the exact address into a Korean map app like Naver Map or Kakao Map rather than Google Maps, which can be unreliable for pinpointing exact entrances in Korea.
 
 ## What to expect inside
 
-Expect a full sit-down café experience rather than a grab-and-go counter. Given the price level and the scale typical of these large Korean cafés, budget for a mid-range tab — coffee, a specialty drink, and a shared dessert will likely run you a moderate amount by local standards, with exact menu prices best confirmed on-site or via their signage, since these can shift seasonally. Signature drinks at cafés of this caliber tend to rotate with the seasons — think fruit-forward ades in summer, spiced or chocolate-based lattes in winter — so ask staff what's currently featured rather than defaulting to a plain Americano. Given the review volume, arriving right at opening or during off-peak weekday afternoons is the best strategy to snag a seat in the more photogenic sections without a long wait, especially on weekends when large cafés like this draw crowds from across Gyeonggi Province.
+Expect a full sit-down café experience rather than a grab-and-go counter. Given the price level and the scale typical of these large Korean cafés, budget for a mid-range tab — coffee, a specialty drink, and a shared dessert will likely run you a moderate amount by local standards, with exact menu prices best confirmed on-site or via their signage, since these can shift seasonally.
+
+Signature drinks at cafés of this caliber tend to rotate with the seasons — think fruit-forward ades in summer, spiced or chocolate-based lattes in winter — so ask staff what's currently featured rather than defaulting to a plain Americano. Given the review volume, arriving right at opening or during off-peak weekday afternoons is the best strategy to snag a seat in the more photogenic sections without a long wait, especially on weekends when large cafés like this draw crowds from across Gyeonggi Province.
 
 ## When to go
 
@@ -82,5 +86,7 @@ Late morning on a weekday (10:30–11:30 am) tends to be the sweet spot — afte
 
 ## Nearby & tips
 
-Because Cafe Diaz sits within Paldal-gu, it pairs naturally with a day centered on Suwon Hwaseong Fortress — the 5.7-kilometer stone wall circuit, Hwaseong Haenggung Palace, and the traditional market streets near Paldalmun Gate are all within reasonable walking or short-taxi distance. Many visitors treat the café as a midday reset point: fortress walk in the morning, lunch and Diaz in the early afternoon, then either more wall-walking or a visit to Nammun Market for street food in the evening. Bring a phone with a Korean map app installed and, if you're not fluent in Korean, a translation app for the menu — while major café chains in Korea often have English menus, independently run destination cafés like this one may not always.
+Because Cafe Diaz sits within Paldal-gu, it pairs naturally with a day centered on Suwon Hwaseong Fortress — the 5.7-kilometer stone wall circuit, Hwaseong Haenggung Palace, and the traditional market streets near Paldalmun Gate are all within reasonable walking or short-taxi distance. Many visitors treat the café as a midday reset point: fortress walk in the morning, lunch and Diaz in the early afternoon, then either more wall-walking or a visit to Nammun Market for street food in the evening.
+
+Bring a phone with a Korean map app installed and, if you're not fluent in Korean, a translation app for the menu — while major café chains in Korea often have English menus, independently run destination cafés like this one may not always.
 

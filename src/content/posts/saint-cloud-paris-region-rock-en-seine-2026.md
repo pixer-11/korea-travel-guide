@@ -54,19 +54,27 @@ photoless: true
 
 ## Why go
 
-Rock en Seine has built its reputation over two decades as one of Europe's more eclectic late-summer festivals, mixing arena-sized headliners with buzzy indie, punk, hip-hop and electronic acts across several stages set in a genuinely grand outdoor setting. The 2026 edition, scheduled for August 26–30, leans heavily into rock heritage with The Cure and Nick Cave & The Bad Seeds anchoring the bill, while Tyler, the Creator brings a very different energy, and Deftones and Turnstile add heavier, mosh-friendly sets. For visitors, the appeal isn't just the music — it's seeing a top-tier lineup inside the Domaine national de Saint-Cloud, a former royal estate with landscaped terraces and forest that feels far removed from a typical festival car park or fairground.
+Rock en Seine has built its reputation over two decades as one of Europe's more eclectic late-summer festivals, mixing arena-sized headliners with buzzy indie, punk, hip-hop and electronic acts across several stages set in a genuinely grand outdoor setting. The 2026 edition, scheduled for August 26–30, leans heavily into rock heritage with The Cure and Nick Cave & The Bad Seeds anchoring the bill, while Tyler, the Creator brings a very different energy, and Deftones and Turnstile add heavier, mosh-friendly sets.
+
+For visitors, the appeal isn't just the music — it's seeing a top-tier lineup inside the Domaine national de Saint-Cloud, a former royal estate with landscaped terraces and forest that feels far removed from a typical festival car park or fairground.
 
 ## Getting there
 
-The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, making it an easy day-trip or evening-out base from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is the RER C to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine — the grounds are elevated above the town, so expect a walk uphill or a short shuttle ride rather than a flat stroll. Paris Métro Line 9 also reaches Pont de Sèvres, a station used by some attendees as an alternative approach on the south side of the park. Because Rock en Seine draws large evening crowds, plan for slower-than-usual transit around headliner sets and build in extra time for the walk from the station, especially if you're heading in for an early-afternoon start.
+The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, making it an easy day-trip or evening-out base from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is the RER C to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine — the grounds are elevated above the town, so expect a walk uphill or a short shuttle ride rather than a flat stroll.
+
+Paris Métro Line 9 also reaches Pont de Sèvres, a station used by some attendees as an alternative approach on the south side of the park. Because Rock en Seine draws large evening crowds, plan for slower-than-usual transit around headliner sets and build in extra time for the walk from the station, especially if you're heading in for an early-afternoon start.
 
 ## What to see and hear
 
-Beyond the three headliners, the draw of a festival like this is discovery: smaller stages tend to run continuously through the afternoon before the big evening slots, so arriving early gets you first pick of viewing spots and a chance to catch support acts you might not know yet. Turnstile and Deftones both have reputations for high-energy, physical live sets, so expect packed pits if you want to be near the front for either. Given the setting inside a historic royal park, it's worth carving out even twenty minutes between sets to walk the grounds — the Domaine national de Saint-Cloud is known for its formal gardens, fountains and views back toward Paris, a rare backdrop for a rock festival stage.
+Beyond the three headliners, the draw of a festival like this is discovery: smaller stages tend to run continuously through the afternoon before the big evening slots, so arriving early gets you first pick of viewing spots and a chance to catch support acts you might not know yet. Turnstile and Deftones both have reputations for high-energy, physical live sets, so expect packed pits if you want to be near the front for either.
+
+Given the setting inside a historic royal park, it's worth carving out even twenty minutes between sets to walk the grounds — the Domaine national de Saint-Cloud is known for its formal gardens, fountains and views back toward Paris, a rare backdrop for a rock festival stage.
 
 ## When to go
 
-The festival spans five days, August 26 through 30, 2026, and multi-day or single-day tickets are typically the difference between catching everything or focusing on one or two headline nights. If your main goal is seeing The Cure, Nick Cave & The Bad Seeds, or Tyler, the Creator, check the official day-by-day schedule as soon as it's released, since headliners at multi-day festivals are usually spread across different evenings rather than stacked on one night. Late August in Paris is generally warm and dry but not guaranteed — pack for both sun and a possible evening chill or rain, since the venue is outdoors and largely uncovered.
+The festival spans five days, August 26 through 30, 2026, and multi-day or single-day tickets are typically the difference between catching everything or focusing on one or two headline nights. If your main goal is seeing The Cure, Nick Cave & The Bad Seeds, or Tyler, the Creator, check the official day-by-day schedule as soon as it's released, since headliners at multi-day festivals are usually spread across different evenings rather than stacked on one night.
+
+Late August in Paris is generally warm and dry but not guaranteed — pack for both sun and a possible evening chill or rain, since the venue is outdoors and largely uncovered.
 
 ## Nearby & practical tips
 

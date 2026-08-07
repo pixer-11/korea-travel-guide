@@ -68,11 +68,15 @@ draft: false
 
 ## Why go
 
-You come down the ramp from the Capitoline Hill and the modern city just stops. Traffic noise fades behind a screen of umbrella pines, and what's left is a jumble of broken columns, brick foundations, and marble fragments spread across a valley that was, for close to a thousand years, the beating administrative and religious heart of Rome. This is where senators debated, where triumphal processions marched up the Via Sacra, where Julius Caesar was cremated after his assassination. Walking through it isn't like visiting a single monument — it's closer to wandering through the skeleton of an entire civilization, one layer stacked on the next.
+You come down the ramp from the Capitoline Hill and the modern city just stops. Traffic noise fades behind a screen of umbrella pines, and what's left is a jumble of broken columns, brick foundations, and marble fragments spread across a valley that was, for close to a thousand years, the beating administrative and religious heart of Rome. This is where senators debated, where triumphal processions marched up the Via Sacra, where Julius Caesar was cremated after his assassination.
+
+Walking through it isn't like visiting a single monument — it's closer to wandering through the skeleton of an entire civilization, one layer stacked on the next.
 
 ## What you'll actually see
 
-The path takes you along the Via Sacra, the Forum's main artery, past the surviving columns of the Temple of Saturn — eight granite shafts still holding up a fragment of pediment — and the more complete Temple of Antoninus and Faustina, whose green bronze doors and steep steps are a favorite spot for a photo. The Curia Julia, the meeting house of the Roman Senate, is one of the best-preserved buildings here largely because it was converted into a church centuries later. Further along, the massive coffered vaults of the Basilica of Maxentius give you the clearest sense of scale in the whole site — stand underneath and imagine the roof that once covered the entire structure. The Arch of Titus, at the Colosseum end, commemorates the sack of Jerusalem and marks a natural finishing point before you climb toward the Palatine Hill for the view back down over the whole valley.
+The path takes you along the Via Sacra, the Forum's main artery, past the surviving columns of the Temple of Saturn — eight granite shafts still holding up a fragment of pediment — and the more complete Temple of Antoninus and Faustina, whose green bronze doors and steep steps are a favorite spot for a photo. The Curia Julia, the meeting house of the Roman Senate, is one of the best-preserved buildings here largely because it was converted into a church centuries later.
+
+Further along, the massive coffered vaults of the Basilica of Maxentius give you the clearest sense of scale in the whole site — stand underneath and imagine the roof that once covered the entire structure. The Arch of Titus, at the Colosseum end, commemorates the sack of Jerusalem and marks a natural finishing point before you climb toward the Palatine Hill for the view back down over the whole valley.
 
 ## Getting there
 
@@ -80,11 +84,17 @@ The closest metro stop is Colosseo on Line B, a two-minute walk from the main en
 
 ## When to go
 
-The Forum keeps the same hours every day of the week, 9:00am to 4:30pm, so there's no early-morning or late-evening loophole here — plan your visit to fit that window, and know that last entry is typically well before closing. Measured foot traffic shows 9am–10am as the calmest hour on both weekdays and weekends, before tour groups start arriving in force. If you're visiting on a Saturday or Sunday, try to avoid the 11am–2pm stretch, when the paths around the Arch of Titus and the Curia get genuinely congested. Spring and autumn afternoons are pleasant temperature-wise, but midsummer sun with almost no shade across the open valley is worth planning around — an early slot matters even more from June to September.
+The Forum keeps the same hours every day of the week, 9:00am to 4:30pm, so there's no early-morning or late-evening loophole here — plan your visit to fit that window, and know that last entry is typically well before closing. Measured foot traffic shows 9am–10am as the calmest hour on both weekdays and weekends, before tour groups start arriving in force.
+
+If you're visiting on a Saturday or Sunday, try to avoid the 11am–2pm stretch, when the paths around the Arch of Titus and the Curia get genuinely congested. Spring and autumn afternoons are pleasant temperature-wise, but midsummer sun with almost no shade across the open valley is worth planning around — an early slot matters even more from June to September.
 
 ## How to visit like a local
 
-Given how heavily visited the Forum is — it's one of the most-reviewed archaeological sites in Italy — the smart move isn't trying to dodge the crowds entirely but timing around them. Arrive right at 9am opening rather than mid-morning, and go straight to the Palatine Hill first if you can; most groups cluster in the lower Forum early on, leaving the hilltop paths and gardens noticeably emptier. Buy your combined Colosseum-Forum-Palatine ticket online beforehand — walking up with a printed or phone ticket lets you skip the worst of the queuing, since the Forum entrances rarely have the bottleneck the Colosseum does. There's minimal shade across the site, so a hat and water matter more than any etiquette tip. Wear proper shoes: the ancient paving stones and gravel paths are uneven, and flip-flops are a genuine liability here. The biggest mistake visitors make is treating the Forum as a quick add-on after the Colosseum and rushing through in thirty minutes — give it at least two hours, ideally closer to three if you're also doing the Palatine, since the site is larger and more spread out than photos suggest. Signage is decent but sparse on historical context, so a guided tour, an audio guide, or even reading up beforehand pays off enormously in making sense of what's otherwise a very beautiful pile of rubble.
+Given how heavily visited the Forum is — it's one of the most-reviewed archaeological sites in Italy — the smart move isn't trying to dodge the crowds entirely but timing around them. Arrive right at 9am opening rather than mid-morning, and go straight to the Palatine Hill first if you can; most groups cluster in the lower Forum early on, leaving the hilltop paths and gardens noticeably emptier.
+
+Buy your combined Colosseum-Forum-Palatine ticket online beforehand — walking up with a printed or phone ticket lets you skip the worst of the queuing, since the Forum entrances rarely have the bottleneck the Colosseum does. There's minimal shade across the site, so a hat and water matter more than any etiquette tip. Wear proper shoes: the ancient paving stones and gravel paths are uneven, and flip-flops are a genuine liability here.
+
+The biggest mistake visitors make is treating the Forum as a quick add-on after the Colosseum and rushing through in thirty minutes — give it at least two hours, ideally closer to three if you're also doing the Palatine, since the site is larger and more spread out than photos suggest. Signage is decent but sparse on historical context, so a guided tour, an audio guide, or even reading up beforehand pays off enormously in making sense of what's otherwise a very beautiful pile of rubble.
 
 ## Nearby to combine with your visit
 

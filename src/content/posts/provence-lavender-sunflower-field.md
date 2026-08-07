@@ -45,15 +45,21 @@ aiGenerated: true
 
 ## Why go
 
-The Plateau de Valensole, in the Alpes-de-Haute-Provence department, is the largest lavender-growing area in Provence and one of the few places where lavender and sunflower fields bloom in overlapping windows, giving photographers a rare double palette of violet and gold in the same landscape. The specific field referenced here sits on an unnamed rural road outside Valensole (postal code 04210) and has earned a strong 4.6 rating from 161 reviewers, reflecting its reputation among visitors as one of the more reliable and photogenic spots on the plateau. Unlike the fenced, ticketed lavender museums near Sault or Gordes, this is open farmland — genuinely working agricultural land, not a tourist attraction built for visitors, which is part of its appeal and also why etiquette matters here.
+The Plateau de Valensole, in the Alpes-de-Haute-Provence department, is the largest lavender-growing area in Provence and one of the few places where lavender and sunflower fields bloom in overlapping windows, giving photographers a rare double palette of violet and gold in the same landscape. The specific field referenced here sits on an unnamed rural road outside Valensole (postal code 04210) and has earned a strong 4.6 rating from 161 reviewers, reflecting its reputation among visitors as one of the more reliable and photogenic spots on the plateau.
+
+Unlike the fenced, ticketed lavender museums near Sault or Gordes, this is open farmland — genuinely working agricultural land, not a tourist attraction built for visitors, which is part of its appeal and also why etiquette matters here.
 
 ## Getting there
 
-Valensole sits roughly 45 minutes north of Aix-en-Provence and about an hour from Manosque, connected by the D6 and D8 departmental roads. There is no train station in Valensole and no direct bus service to the outlying fields, so a rental car is effectively mandatory; Aix-en-Provence TGV station or Marseille Provence Airport are the most practical starting points, both roughly 1 to 1.5 hours away by car. GPS navigation will get you to the general area, but the exact field is unmarked — plan to drive the minor roads radiating from Valensole village (particularly toward Puimoisson and Riez) and look for pull-offs where other cars are already parked, a reliable sign of an accessible, photogenic row.
+Valensole sits roughly 45 minutes north of Aix-en-Provence and about an hour from Manosque, connected by the D6 and D8 departmental roads. There is no train station in Valensole and no direct bus service to the outlying fields, so a rental car is effectively mandatory; Aix-en-Provence TGV station or Marseille Provence Airport are the most practical starting points, both roughly 1 to 1.5 hours away by car.
+
+GPS navigation will get you to the general area, but the exact field is unmarked — plan to drive the minor roads radiating from Valensole village (particularly toward Puimoisson and Riez) and look for pull-offs where other cars are already parked, a reliable sign of an accessible, photogenic row.
 
 ## What to see and do
 
-Lavender typically flowers from mid-June, peaks through July, and is usually harvested by late July or early August, after which the rows are cut low and the color disappears until the next year. Sunflowers bloom slightly later, often peaking in July as well, which creates the short overlap window locals and repeat visitors chase. Arrive at golden hour — early morning around sunrise or the last two hours before sunset — for softer light and to avoid the midday heat that makes long rows genuinely uncomfortable to walk. Bring a wide-angle lens for the classic diminishing-row shot and a longer lens for compressed shots of bees working the lavender, which is intensely fragrant and audibly buzzing with pollinators in season. Valensole village itself, an easy 5-minute drive away, has a handful of lavender-product shops, bakeries, and cafés worth a stop before or after the fields.
+Lavender typically flowers from mid-June, peaks through July, and is usually harvested by late July or early August, after which the rows are cut low and the color disappears until the next year. Sunflowers bloom slightly later, often peaking in July as well, which creates the short overlap window locals and repeat visitors chase. Arrive at golden hour — early morning around sunrise or the last two hours before sunset — for softer light and to avoid the midday heat that makes long rows genuinely uncomfortable to walk.
+
+Bring a wide-angle lens for the classic diminishing-row shot and a longer lens for compressed shots of bees working the lavender, which is intensely fragrant and audibly buzzing with pollinators in season. Valensole village itself, an easy 5-minute drive away, has a handful of lavender-product shops, bakeries, and cafés worth a stop before or after the fields.
 
 ## When to go
 
@@ -61,4 +67,6 @@ Late June through mid-July is the sweet spot for overlapping color; by early Aug
 
 ## Nearby & tips
 
-This is private farmland, so stay on field margins and existing tracks rather than walking directly into the rows; farmers rely on this land for income and trampled plants damage the harvest. There's no shade, so bring water and sun protection even for a short visit. Combine the trip with nearby Riez, known for its Roman columns and Saturday market, or Gorges du Verdon, about 30–40 minutes further east, for a fuller day out. A visit to the fields themselves rarely takes more than 45 minutes to an hour, so most travelers pair it with a longer loop through the plateau's villages rather than treating it as a standalone destination.
+This is private farmland, so stay on field margins and existing tracks rather than walking directly into the rows; farmers rely on this land for income and trampled plants damage the harvest. There's no shade, so bring water and sun protection even for a short visit. Combine the trip with nearby Riez, known for its Roman columns and Saturday market, or Gorges du Verdon, about 30–40 minutes further east, for a fuller day out.
+
+A visit to the fields themselves rarely takes more than 45 minutes to an hour, so most travelers pair it with a longer loop through the plateau's villages rather than treating it as a standalone destination.

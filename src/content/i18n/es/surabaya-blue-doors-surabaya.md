@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: surabaya-blue-doors-surabaya
-srcHash: 27d12afe415a
+srcHash: '116c62fd6b02'
 title: 'Blue Doors: Guía de Viaje de Surabaya'
 description: Blue Doors Surabaya es una cafetería muy fotogénica en Jl. Imam Bonjol, en Tegalsari, a un corto trayecto en taxi o app de transporte desde el centro de Surabaya.
 quickAnswer: Blue Doors Surabaya es una cafetería muy fotogénica en Jl. Imam Bonjol, en Tegalsari, a un corto trayecto en taxi o app de transporte desde el centro de Surabaya. Lo mejor es visitarla un día laborable por la mañana o a media tarde, para disfrutar de su fachada azul y blanca y su patio con sombra sin aglomeraciones. Calcula una o dos horas para tomar un café, desayunar/almorzar (brunch) y hacer fotos. Combina fácilmente con un paseo por las calles de época colonial de la zona de DR. Soetomo/Darmo.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-La escena de cafeterías de Surabaya ha explotado en la última década, pero Blue Doors destaca por su aspecto antes que por su menú: paredes encaladas, persianas y puertas de un azul cobalto, y vegetación que se derrama sobre un patio que se siente más mediterráneo que del este de Java. Con una calificación de 4.7 en casi 1,200 reseñas, se ha ganado un público fiel entre quienes buscan un buen flat white y un telón de fondo fotográfico aún mejor, sin llegar a convertirse en una parada turística abarrotada. Se trata de un lugar de encuentro moderno y con diseño cuidado, más que de un hito patrimonial, y precisamente ahí radica su atractivo: un rincón tranquilo y estético en una zona comercial bulliciosa de la ciudad.
+La escena de cafeterías de Surabaya ha explotado en la última década, pero Blue Doors destaca por su aspecto antes que por su menú: paredes encaladas, persianas y puertas de un azul cobalto, y vegetación que se derrama sobre un patio que se siente más mediterráneo que del este de Java. Con una calificación de 4.7 en casi 1,200 reseñas, se ha ganado un público fiel entre quienes buscan un buen flat white y un telón de fondo fotográfico aún mejor, sin llegar a convertirse en una parada turística abarrotada.
+
+Se trata de un lugar de encuentro moderno y con diseño cuidado, más que de un hito patrimonial, y precisamente ahí radica su atractivo: un rincón tranquilo y estético en una zona comercial bulliciosa de la ciudad.
 
 ## Cómo llegar
 
@@ -36,17 +38,25 @@ La propia calle está bordeada de clínicas, escuelas y antiguas casas de la ép
 
 El principal atractivo es el edificio en sí: una casa reconvertida con altas paredes blancas, ventanas y puertas enmarcadas en azul, y suficientes plantas trepadoras y macetas como para que casi cualquier rincón resulte fotogénico. El patio y el interior están organizados en rincones diferenciados, por lo que no se siente como un único comedor grande; se puede esperar una combinación de asientos interiores con aire acondicionado y mesas al aire libre en el jardín.
 
-En el menú se puede esperar una oferta estándar de café de especialidad: bebidas a base de espresso, métodos de preparación manual y, a menudo, una opción de matcha o sin café, junto con un menú de brunch disponible todo el día con platos de estilo occidental (piensa en huevos, tostadas, pasta y bowls de arroz) que son los favoritos del público cafetero de Surabaya. Las porciones y los precios exactos varían con el tiempo, así que trata cualquier cifra que veas en línea como aproximada y consulta el menú actual al llegar.
+En el menú se puede esperar una oferta estándar de café de especialidad: bebidas a base de espresso, métodos de preparación manual y, a menudo, una opción de matcha o sin café, junto con un menú de brunch disponible todo el día con platos de estilo occidental (piensa en huevos, tostadas, pasta y bowls de arroz) que son los favoritos del público cafetero de Surabaya.
+
+Las porciones y los precios exactos varían con el tiempo, así que trata cualquier cifra que veas en línea como aproximada y consulta el menú actual al llegar.
 
 Calcula **60–90 minutos** si vas por café y fotos, o hasta dos horas si te instalas para un brunch o a trabajar.
 
 ## Cuándo ir
 
-Surabaya es calurosa y húmeda todo el año, así que los asientos interiores cubiertos y con aire acondicionado son la opción más cómoda al mediodía, mientras que las mesas del patio son mejores en las horas más frescas de la mañana o después de las 4 p.m. Las mañanas de días laborables (aproximadamente desde la apertura hasta las 11 a.m.) suelen ser el momento más tranquilo, antes de que lleguen los grupos del almuerzo y de después del trabajo. Los fines de semana, especialmente el sábado por la tarde y hasta la noche, atraen la mayor afluencia de grupos en busca de fotos.
+Surabaya es calurosa y húmeda todo el año, así que los asientos interiores cubiertos y con aire acondicionado son la opción más cómoda al mediodía, mientras que las mesas del patio son mejores en las horas más frescas de la mañana o después de las 4 p.m. Las mañanas de días laborables (aproximadamente desde la apertura hasta las 11 a.m.) suelen ser el momento más tranquilo, antes de que lleguen los grupos del almuerzo y de después del trabajo.
+
+Los fines de semana, especialmente el sábado por la tarde y hasta la noche, atraen la mayor afluencia de grupos en busca de fotos.
 
 ## Cómo visitarlo como un local
 
-Como Blue Doors no ha sido engullido por el turismo masivo, la estrategia más inteligente es elegir bien el horario en lugar de evitar el lugar: ve un día laborable entre la apertura y media mañana, o después de la calma de media tarde, para conseguir la mejor luz del patio y la menor cantidad de gente en tus fotos. Pide en el mostrador o mediante servicio de mesa según indique el personal (las cafeterías indonesias de este rango de precios suelen aceptar tanto efectivo como tarjeta, además del pago móvil QRIS, que ya es estándar en toda Surabaya), y lo habitual es un redondeo modesto en lugar de una propina de gran porcentaje; dejar propina en la mesa no es una expectativa local muy marcada. Si quieres una mesa en concreto o el patio en fin de semana, llega cerca de la hora de apertura en lugar de asumir que podrás entrar y sentarte sin más en las horas punta. El error más común de los visitantes es tratarlo solo como un telón de fondo para fotos y marcharse enseguida; los locales y clientes habituales suelen quedarse realmente a tomar un café o un brunch, que es también la forma más fácil de justificar quedarse un rato para hacer fotos sin sentirte apurado por otros clientes esperando tu mesa.
+Como Blue Doors no ha sido engullido por el turismo masivo, la estrategia más inteligente es elegir bien el horario en lugar de evitar el lugar: ve un día laborable entre la apertura y media mañana, o después de la calma de media tarde, para conseguir la mejor luz del patio y la menor cantidad de gente en tus fotos.
+
+Pide en el mostrador o mediante servicio de mesa según indique el personal (las cafeterías indonesias de este rango de precios suelen aceptar tanto efectivo como tarjeta, además del pago móvil QRIS, que ya es estándar en toda Surabaya), y lo habitual es un redondeo modesto en lugar de una propina de gran porcentaje; dejar propina en la mesa no es una expectativa local muy marcada.
+
+Si quieres una mesa en concreto o el patio en fin de semana, llega cerca de la hora de apertura en lugar de asumir que podrás entrar y sentarte sin más en las horas punta. El error más común de los visitantes es tratarlo solo como un telón de fondo para fotos y marcharse enseguida; los locales y clientes habituales suelen quedarse realmente a tomar un café o un brunch, que es también la forma más fácil de justificar quedarse un rato para hacer fotos sin sentirte apurado por otros clientes esperando tu mesa.
 
 ## Cerca de aquí
 

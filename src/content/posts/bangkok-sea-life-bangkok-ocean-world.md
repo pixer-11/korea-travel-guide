@@ -74,7 +74,9 @@ SEA LIFE Bangkok Ocean World is one of Southeast Asia's largest urban aquariums,
 
 ## Getting there
 
-The single biggest advantage of this attraction is location. Siam Paragon connects directly to **Siam BTS Station** (interchange for both the Sukhumvit and Silom Skytrain lines), so visitors can walk straight from the platform into the mall without going outside — genuinely useful during Bangkok's hot or rainy months. From the BTS, follow signs down into the mall's basement level toward the aquarium entrance near the Siam Paragon food hall (Food Hall / Gourmet Market area). If arriving by taxi or ride-hail, ask to be dropped at the Rama I Road entrance of Siam Paragon, then head down to B1. There's no separate street entrance for the aquarium — you enter via the mall itself.
+The single biggest advantage of this attraction is location. Siam Paragon connects directly to **Siam BTS Station** (interchange for both the Sukhumvit and Silom Skytrain lines), so visitors can walk straight from the platform into the mall without going outside — genuinely useful during Bangkok's hot or rainy months. From the BTS, follow signs down into the mall's basement level toward the aquarium entrance near the Siam Paragon food hall (Food Hall / Gourmet Market area).
+
+If arriving by taxi or ride-hail, ask to be dropped at the Rama I Road entrance of Siam Paragon, then head down to B1. There's no separate street entrance for the aquarium — you enter via the mall itself.
 
 ## What to see and do
 

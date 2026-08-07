@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: valencia-ciudad-de-las-artes-y-las-ciencias
-srcHash: 4b3bea63f482
+srcHash: '6cec3c9c5707'
 title: 'Ciudad de las Artes y las Ciencias: guía de viaje de Valencia'
 description: La Ciudad de las Artes y las Ciencias es el futurista complejo de museos y parques de Valencia, situado en el extremo oriental del antiguo cauce del río Turia, obra de los arquitectos Santiago Calatrava y Félix Candela.
 quickAnswer: La Ciudad de las Artes y las Ciencias es el futurista complejo de museos y parques de Valencia, situado en el extremo oriental del antiguo cauce del río Turia, obra de los arquitectos Santiago Calatrava y Félix Candela. Calcula medio día solo para recorrer el recinto y hacer fotos, o un día completo si añades el Hemisfèric (IMAX/planetario), el museo de las ciencias Príncipe Felipe y el acuario Oceanogràfic. Compra las entradas online con antelación para los edificios de pago y ve a primera hora de la mañana o última de la tarde en verano para evitar tanto las aglomeraciones como el fuerte sol sobre el hormigón blanco.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Pocos paisajes urbanos se parecen a este. La Ciudad de las Artes y las Ciencias (City of Arts and Sciences) es un conjunto de relucientes estructuras blancas con forma de concha, diseñadas en gran parte por el arquitecto valenciano Santiago Calatrava, y construidas a lo largo de un tramo de 2 kilómetros del antiguo cauce del río Turia, que fue desviado tras una catastrófica riada en 1957 y convertido en un parque público. El complejo se inauguró por fases entre 1998 y 2005 y se ha convertido en el emblema por excelencia de Valencia, con una valoración de 4,7 estrellas en casi 154.000 reseñas. Incluso quienes se saltan todas las atracciones de pago se marchan impresionados solo con pasear entre los edificios, los estanques reflectantes y los puentes escultóricos.
+Pocos paisajes urbanos se parecen a este. La Ciudad de las Artes y las Ciencias (City of Arts and Sciences) es un conjunto de relucientes estructuras blancas con forma de concha, diseñadas en gran parte por el arquitecto valenciano Santiago Calatrava, y construidas a lo largo de un tramo de 2 kilómetros del antiguo cauce del río Turia, que fue desviado tras una catastrófica riada en 1957 y convertido en un parque público.
+
+El complejo se inauguró por fases entre 1998 y 2005 y se ha convertido en el emblema por excelencia de Valencia, con una valoración de 4,7 estrellas en casi 154.000 reseñas. Incluso quienes se saltan todas las atracciones de pago se marchan impresionados solo con pasear entre los edificios, los estanques reflectantes y los puentes escultóricos.
 
 ## Qué hay dentro
 
@@ -35,12 +37,18 @@ El complejo está formado por edificios diferenciados, y conviene saber qué es 
 
 ## Cómo llegar
 
-El complejo se ubica en el distrito de Quatre Carreres, en el extremo oriental de los Jardines del Turia (Jardí del Túria), a unos 4 km del casco antiguo de Valencia. La opción de transporte público más cómoda es la **Línea 9 de metro**, bajándose en la estación de **Alameda** o **Jesús** y caminando unos 10-15 minutos por el parque del antiguo cauce. Las líneas de autobús 35 y 95 también paran cerca, y el sistema de bicicletas compartidas de la EMT tiene estaciones de anclaje justo en el camino del parque. Ir en coche es posible, pero el aparcamiento cerca de los edificios se llena rápido los fines de semana; hay parkings subterráneos de pago cerca de la entrada del Oceanogràfic.
+El complejo se ubica en el distrito de Quatre Carreres, en el extremo oriental de los Jardines del Turia (Jardí del Túria), a unos 4 km del casco antiguo de Valencia. La opción de transporte público más cómoda es la **Línea 9 de metro**, bajándose en la estación de **Alameda** o **Jesús** y caminando unos 10-15 minutos por el parque del antiguo cauce.
+
+Las líneas de autobús 35 y 95 también paran cerca, y el sistema de bicicletas compartidas de la EMT tiene estaciones de anclaje justo en el camino del parque. Ir en coche es posible, pero el aparcamiento cerca de los edificios se llena rápido los fines de semana; hay parkings subterráneos de pago cerca de la entrada del Oceanogràfic.
 
 ## Cuándo ir y cuánto tiempo dedicar
 
-Reserva al menos 2-3 horas solo para ver los exteriores, hacer fotos y pasear por los jardines del Umbracle: esta parte es gratuita y está abierta todo el año. Si vas a visitar también L'Oceanogràfic, calcula medio día, ya que el acuario es grande e incluye un espectáculo de delfines al aire libre. Las mañanas (desde la apertura hasta cerca de las 11h) y las dos últimas horas antes del cierre suelen ser más tranquilas que el mediodía. La primavera (abril-junio) y principios de otoño (septiembre-octubre) traen temperaturas más suaves que el intenso calor del verano, cuando las superficies de hormigón blanco irradian calor y escasea la sombra. Merece la pena volver por la noche incluso después de que cierren las atracciones de pago: los edificios se iluminan y se reflejan de forma espectacular en los estanques que los rodean.
+Reserva al menos 2-3 horas solo para ver los exteriores, hacer fotos y pasear por los jardines del Umbracle: esta parte es gratuita y está abierta todo el año. Si vas a visitar también L'Oceanogràfic, calcula medio día, ya que el acuario es grande e incluye un espectáculo de delfines al aire libre. Las mañanas (desde la apertura hasta cerca de las 11h) y las dos últimas horas antes del cierre suelen ser más tranquilas que el mediodía.
+
+La primavera (abril-junio) y principios de otoño (septiembre-octubre) traen temperaturas más suaves que el intenso calor del verano, cuando las superficies de hormigón blanco irradian calor y escasea la sombra. Merece la pena volver por la noche incluso después de que cierren las atracciones de pago: los edificios se iluminan y se reflejan de forma espectacular en los estanques que los rodean.
 
 ## Consejos para la visita
 
-Compra las entradas de L'Oceanogràfic y del Hemisfèric/Museu de les Ciències online con antelación: suele haber entradas combinadas que cubren varias atracciones y pueden salir más económicas que pagarlas por separado, aunque conviene confirmar el precio exacto en la web oficial, ya que cambia según la temporada. Lleva gafas de sol y gorra; la luz que rebota en las superficies blancas de trencadís es muy intensa. Trae bañador si visitas el complejo en los meses cálidos, ya que hay una pequeña zona de playa artificial cerca de la entrada del Oceanogràfic. Después de la visita, tanto el barrio de playa de la Malvarrosa como el centro histórico son accesibles en 15-20 minutos en tranvía o taxi, lo que convierte a la Ciudad de las Artes y las Ciencias en un complemento fácil tanto para un día de playa como para un itinerario por el centro de la ciudad.
+Compra las entradas de L'Oceanogràfic y del Hemisfèric/Museu de les Ciències online con antelación: suele haber entradas combinadas que cubren varias atracciones y pueden salir más económicas que pagarlas por separado, aunque conviene confirmar el precio exacto en la web oficial, ya que cambia según la temporada. Lleva gafas de sol y gorra; la luz que rebota en las superficies blancas de trencadís es muy intensa.
+
+Trae bañador si visitas el complejo en los meses cálidos, ya que hay una pequeña zona de playa artificial cerca de la entrada del Oceanogràfic. Después de la visita, tanto el barrio de playa de la Malvarrosa como el centro histórico son accesibles en 15-20 minutos en tranvía o taxi, lo que convierte a la Ciudad de las Artes y las Ciencias en un complemento fácil tanto para un día de playa como para un itinerario por el centro de la ciudad.

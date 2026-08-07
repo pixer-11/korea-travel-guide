@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: 938f97aa0e09
+srcHash: '529cffff8539'
 title: Babylon Soundgarden 2026:杰克·怀特(Jack White)、Wet Leg 与 The Kills 领衔,伊斯坦布尔观演攻略
 description: Babylon Soundgarden 2026 将于2026年8月22日至23日在伊斯坦布尔 Maslak/Sarıyer 地区的 Parkorman Nature Park 举行,阵容包括 Jack White、Wet Leg 和 The Kills。
 quickAnswer: Babylon Soundgarden 2026 定于2026年8月22日至23日,在伊斯坦布尔 Maslak/Sarıyer 地区的 Parkorman Nature Park(帕克曼自然公园)举行,已公布的headliner(压轴阵容)包括 Jack White、Wet Leg 和 The Kills。可以将其视为一场为期两天的户外音乐节:场地是欧洲区一处林地公园,从 Levent 和 Maslak 打车/叫车前往都很方便,临近日期请以 Babylon 官方渠道公布的最终演出时间、舞台安排和票价档位为准。
@@ -20,7 +20,9 @@ faq:
 
 ## 为什么值得去
 
-二十多年来,Babylon 一直是伊斯坦布尔精品现场音乐领域最受认可的品牌,其每年举办的 Soundgarden 音乐节,是这座城市最接近国际精品摇滚/另类音乐节水准的活动。2026年这一届阵容对全球巡演级艺人来说确实颇具吸引力:Jack White(以 The White Stripes 乐队闻名)、备受关注的英国二人组合 Wet Leg,以及车库摇滚老将 The Kills 领衔演出,整体曲风偏向独立、车库和另类摇滚,而非主流流行或电子舞曲(EDM)。对于本就计划在8月下旬前往土耳其旅行的游客来说,这是难得一次能在露天公园(而非体育馆)中近距离欣赏此等级艺人演出的机会。
+二十多年来,Babylon 一直是伊斯坦布尔精品现场音乐领域最受认可的品牌,其每年举办的 Soundgarden 音乐节,是这座城市最接近国际精品摇滚/另类音乐节水准的活动。2026年这一届阵容对全球巡演级艺人来说确实颇具吸引力:Jack White(以 The White Stripes 乐队闻名)、备受关注的英国二人组合 Wet Leg,以及车库摇滚老将 The Kills 领衔演出,整体曲风偏向独立、车库和另类摇滚,而非主流流行或电子舞曲(EDM)。
+
+对于本就计划在8月下旬前往土耳其旅行的游客来说,这是难得一次能在露天公园(而非体育馆)中近距离欣赏此等级艺人演出的机会。
 
 ## 如何前往
 

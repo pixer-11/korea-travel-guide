@@ -76,16 +76,19 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You smell Leopold Cafe before you fully clock its sign — toasted bread, frying batter, the sweetish tang of Kingfisher on tap — drifting out onto Colaba Causeway where taxi horns and tailors touting "good price, sir" compete for your attention. Push through the door and the street noise drops half a register. Inside it's high-ceilinged and cavernous, all wood-paneled booths, ceiling fans turning lazily overhead, and mirrors that have watched three generations of Mumbai regulars, backpackers, and off-duty sailors argue over the check.
 
 ## Why it's worth the stop
 
-Leopold has been pouring drinks since 1871, which makes it older than most nations currently sending it tourists. The menu is a time capsule of colonial-era Bombay cosmopolitanism: Continental grills sit next to Chinese-style chili chicken and Parsi-inflected Indian classics, and the bar pours everything from fresh lime soda to whisky and cocktails. It's not subtle and it's not trying to be — it's a working cafe that happens to be historic, not a museum piece. Bullet-hole scars in the wall and a small plaque are quiet reminders of the 2008 terror attacks, which Leopold survived and reopened from within days, and that resilience is part of why Mumbaikars still hold it in real affection alongside the tourist crowds.
+Leopold has been pouring drinks since 1871, which makes it older than most nations currently sending it tourists. The menu is a time capsule of colonial-era Bombay cosmopolitanism: Continental grills sit next to Chinese-style chili chicken and Parsi-inflected Indian classics, and the bar pours everything from fresh lime soda to whisky and cocktails. It's not subtle and it's not trying to be — it's a working cafe that happens to be historic, not a museum piece.
+
+Bullet-hole scars in the wall and a small plaque are quiet reminders of the 2008 terror attacks, which Leopold survived and reopened from within days, and that resilience is part of why Mumbaikars still hold it in real affection alongside the tourist crowds.
 
 ## Getting there
 
-Leopold sits on Shahid Bhagat Singh Road right on Colaba Causeway, a five-minute walk from the Gateway of India and the Taj Mahal Palace hotel, and an easy stroll from the Prince of Wales Museum (CSMVS). If you're coming by train, Churchgate and CST (Chhatrapati Shivaji Maharaj Terminus) stations are both roughly a 15–20 minute taxi or auto ride away — Colaba itself has no train station of its own. Most visitors fold it into a Colaba walking loop: Gateway of India, Colaba Causeway's market stalls, then Leopold for a break.
+Leopold sits on Shahid Bhagat Singh Road right on Colaba Causeway, a five-minute walk from the Gateway of India and the Taj Mahal Palace hotel, and an easy stroll from the Prince of Wales Museum (CSMVS). If you're coming by train, Churchgate and CST (Chhatrapati Shivaji Maharaj Terminus) stations are both roughly a 15–20 minute taxi or auto ride away — Colaba itself has no train station of its own.
+
+Most visitors fold it into a Colaba walking loop: Gateway of India, Colaba Causeway's market stalls, then Leopold for a break.
 
 ## What to order
 
@@ -93,8 +96,12 @@ Come hungry for the classics: the mutton or chicken cutlets, the club sandwich, 
 
 ## When to go
 
-Leopold opens at 7:30am and stays open until 12:30am, every day of the week — that long window is part of its charm, working equally as a breakfast counter, a lunch stop, and a late-night bar. If you want to actually get a seat without hovering near the door, aim for the 7:30am–12pm stretch, on a weekday or weekend — that's the quiet patch before the crowds build. Weekends turn heavy from 3pm through 11pm, when tour groups, date-night couples, and the after-dinner bar crowd all stack up at once; if you're set on an evening visit, arrive right at the start of that window or expect a wait.
+Leopold opens at 7:30am and stays open until 12:30am, every day of the week — that long window is part of its charm, working equally as a breakfast counter, a lunch stop, and a late-night bar. If you want to actually get a seat without hovering near the door, aim for the 7:30am–12pm stretch, on a weekday or weekend — that's the quiet patch before the crowds build.
+
+Weekends turn heavy from 3pm through 11pm, when tour groups, date-night couples, and the after-dinner bar crowd all stack up at once; if you're set on an evening visit, arrive right at the start of that window or expect a wait.
 
 ## How to visit like a local
 
-Leopold is firmly on the tourist trail now — it's one of the most-visited cafes in the city, not a hidden find — so the real local move is timing, not secrecy. Regulars who want a relaxed sit go early, order breakfast or a mid-morning coffee, and leave before the lunch rush builds. Payment is overwhelmingly by card or UPI mobile payment these days, though cash still works fine; a modest rounding-up or small tip left on the table is standard, not a fixed percentage. There's no real reservation system for casual visits — you queue at the door during peak hours and are seated as tables free up, so a party of two moves faster than a party of six. The etiquette mistake most first-timers make is treating it purely as a photo-op tied to the 2008 attacks; locals see it first as a functioning, century-and-a-half-old cafe, so read the small memorial plaque respectfully, then settle in and order like everyone else. Say "Leopold" and any cab or auto driver in South Mumbai knows exactly where to drop you.
+Leopold is firmly on the tourist trail now — it's one of the most-visited cafes in the city, not a hidden find — so the real local move is timing, not secrecy. Regulars who want a relaxed sit go early, order breakfast or a mid-morning coffee, and leave before the lunch rush builds. Payment is overwhelmingly by card or UPI mobile payment these days, though cash still works fine; a modest rounding-up or small tip left on the table is standard, not a fixed percentage.
+
+There's no real reservation system for casual visits — you queue at the door during peak hours and are seated as tables free up, so a party of two moves faster than a party of six. The etiquette mistake most first-timers make is treating it purely as a photo-op tied to the 2008 attacks; locals see it first as a functioning, century-and-a-half-old cafe, so read the small memorial plaque respectfully, then settle in and order like everyone else. Say "Leopold" and any cab or auto driver in South Mumbai knows exactly where to drop you.

@@ -64,7 +64,9 @@ Portions at stalls are intentionally small and inexpensive so you can sample fiv
 
 ## When to go
 
-Arrive early — ideally by 8am — for the freshest selection and shorter lines; by 11am, lanes narrow with crowds and some stalls sell out of popular items. The market is busiest on weekends, so weekday mornings offer a calmer pace. Most stalls and shops close by early-to-mid afternoon and many are shut on Sundays and irregular holidays, so it's not a dinner destination. If you specifically want to see the tuna auction that made Tsukiji famous, note that this now happens at Toyosu Market, a short taxi or train ride away via the Yurikamome line to Shijo-mae Station — the outer market itself no longer hosts it.
+Arrive early — ideally by 8am — for the freshest selection and shorter lines; by 11am, lanes narrow with crowds and some stalls sell out of popular items. The market is busiest on weekends, so weekday mornings offer a calmer pace. Most stalls and shops close by early-to-mid afternoon and many are shut on Sundays and irregular holidays, so it's not a dinner destination.
+
+If you specifically want to see the tuna auction that made Tsukiji famous, note that this now happens at Toyosu Market, a short taxi or train ride away via the Yurikamome line to Shijo-mae Station — the outer market itself no longer hosts it.
 
 ## Nearby & tips
 

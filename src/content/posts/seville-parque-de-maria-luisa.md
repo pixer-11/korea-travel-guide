@@ -72,11 +72,15 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You feel the temperature drop before you even reach the gates. Seville's streets radiate heat off pale stone, but step under the plane trees and palms of Parque de María Luisa and the air thickens with the smell of damp earth, orange blossom, and the mineral tang of fountain spray. Cicadas buzz in the branches. Somewhere a horse-drawn carriage clops past on gravel. This is not a tidy municipal garden — it's a sprawling, semi-wild green lung on the southern edge of the old city, and it rewards slow wandering more than any checklist.
+You feel the temperature drop before you even reach the gates. Seville's streets radiate heat off pale stone, but step under the plane trees and palms of Parque de María Luisa and the air thickens with the smell of damp earth, orange blossom, and the mineral tang of fountain spray. Cicadas buzz in the branches. Somewhere a horse-drawn carriage clops past on gravel.
+
+This is not a tidy municipal garden — it's a sprawling, semi-wild green lung on the southern edge of the old city, and it rewards slow wandering more than any checklist.
 
 ## Why go
 
-The park was carved out of the former gardens of the Palacio de San Telmo and redesigned for the 1929 Ibero-American Exposition, which is why it feels less like a park and more like an open-air museum of that era's ambition. Ceramic-tiled benches by Hivas de Triana, brick pavilions, and Moorish-revival follies sit half-hidden among banyan trees with roots that ripple across the paths like something out of a fairy tale. At the northern edge, the park spills into the famous Plaza de España, with its curved brick colonnade and tiled alcoves representing each Spanish province — a genuine architectural set piece, not just a photo backdrop. At the opposite end, Plaza de América has three exposition-era buildings that now house Seville's archaeology and popular arts museums, framed by lawns where peacocks and white doves wander freely.
+The park was carved out of the former gardens of the Palacio de San Telmo and redesigned for the 1929 Ibero-American Exposition, which is why it feels less like a park and more like an open-air museum of that era's ambition. Ceramic-tiled benches by Hivas de Triana, brick pavilions, and Moorish-revival follies sit half-hidden among banyan trees with roots that ripple across the paths like something out of a fairy tale.
+
+At the northern edge, the park spills into the famous Plaza de España, with its curved brick colonnade and tiled alcoves representing each Spanish province — a genuine architectural set piece, not just a photo backdrop. At the opposite end, Plaza de América has three exposition-era buildings that now house Seville's archaeology and popular arts museums, framed by lawns where peacocks and white doves wander freely.
 
 ## Getting there
 
@@ -84,7 +88,9 @@ The park sits about a 15–20 minute walk from the Cathedral and Real Alcázar, 
 
 ## What to see and do
 
-Start at Plaza de España if it's your first visit — it's the visual anchor everyone remembers, especially reflected in its curved moat canal, where you can rent a rowboat. From there, drift south into the park itself along paths shaded by palms, magnolias, and centuries-old plane trees. Look for the Fountain of the Frogs, the Isleta de los Patos with its small lake and rustic bridge, and the Glorieta de Bécquer, a monument to the Sevillian poet ringed by weeping willows. Horse-and-carriage rides depart from near the Puerta de Jerez entrance if you want to cover ground without walking. Give yourself two to three hours minimum — enough to loop the main plazas and still find a bench under a jacaranda tree to just sit.
+Start at Plaza de España if it's your first visit — it's the visual anchor everyone remembers, especially reflected in its curved moat canal, where you can rent a rowboat. From there, drift south into the park itself along paths shaded by palms, magnolias, and centuries-old plane trees. Look for the Fountain of the Frogs, the Isleta de los Patos with its small lake and rustic bridge, and the Glorieta de Bécquer, a monument to the Sevillian poet ringed by weeping willows.
+
+Horse-and-carriage rides depart from near the Puerta de Jerez entrance if you want to cover ground without walking. Give yourself two to three hours minimum — enough to loop the main plazas and still find a bench under a jacaranda tree to just sit.
 
 ## When to go
 
@@ -92,5 +98,9 @@ Spring, roughly March through May, is when the park is at its most photogenic, w
 
 ## How to visit like a local
 
-Because this is one of Seville's most-visited sites, don't expect a quiet hidden corner — the smart move is timing, not secrecy. On weekdays, the calm stretches from opening at 8am all the way through to 11pm, so there's no need to rush. Weekends are different: arrive between 8am and 10am to have the plazas nearly to yourself, and avoid the 11am–6pm stretch, when tour groups and carriage traffic peak. Entry is free and there's no ticket or booking system — you simply walk in through any of the gates along Avenida de María Luisa or Glorieta de San Diego. Bikes and carriages are the only things you pay for inside; everything else is cash-free enjoyment of public space. The etiquette is casual: locals jog, walk dogs, and picnic on the grass, so treat it as a park rather than a monument requiring hushed reverence. The mistake visitors make is treating Plaza de España as the whole destination and skipping the park proper — the shaded interior paths, away from the tour buses, are where the atmosphere actually lives.
+Because this is one of Seville's most-visited sites, don't expect a quiet hidden corner — the smart move is timing, not secrecy. On weekdays, the calm stretches from opening at 8am all the way through to 11pm, so there's no need to rush. Weekends are different: arrive between 8am and 10am to have the plazas nearly to yourself, and avoid the 11am–6pm stretch, when tour groups and carriage traffic peak.
+
+Entry is free and there's no ticket or booking system — you simply walk in through any of the gates along Avenida de María Luisa or Glorieta de San Diego. Bikes and carriages are the only things you pay for inside; everything else is cash-free enjoyment of public space. The etiquette is casual: locals jog, walk dogs, and picnic on the grass, so treat it as a park rather than a monument requiring hushed reverence.
+
+The mistake visitors make is treating Plaza de España as the whole destination and skipping the park proper — the shaded interior paths, away from the tour buses, are where the atmosphere actually lives.
 

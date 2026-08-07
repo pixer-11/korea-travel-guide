@@ -57,15 +57,21 @@ draft: false
 
 ## Why go
 
-You come around a bend on Jalan Damai and the road just opens up — a flat sheet of green-grey water backed by a wall of limestone hills, the kind of jagged, cave-riddled karst that makes Ipoh's skyline so different from anywhere else in Malaysia. Gunung Lang Recreational Park is built around a former quarry lake, and that industrial past is still legible if you look for it: the cliffs behind the water are too sheer, too sculpted, to be entirely natural. Locals fish along the banks, joggers loop the perimeter path, and the whole place has the unhurried, slightly worn-in feel of a park that belongs to the neighborhood as much as to visitors.
+You come around a bend on Jalan Damai and the road just opens up — a flat sheet of green-grey water backed by a wall of limestone hills, the kind of jagged, cave-riddled karst that makes Ipoh's skyline so different from anywhere else in Malaysia. Gunung Lang Recreational Park is built around a former quarry lake, and that industrial past is still legible if you look for it: the cliffs behind the water are too sheer, too sculpted, to be entirely natural.
+
+Locals fish along the banks, joggers loop the perimeter path, and the whole place has the unhurried, slightly worn-in feel of a park that belongs to the neighborhood as much as to visitors.
 
 ## Getting there
 
-The park sits at Jalan Damai, 30100 Ipoh, on the northern edge of the city, a few kilometres from Ipoh's old town and railway station. There's no MRT or LRT here — Ipoh doesn't have one — so the practical options are a Grab (Malaysia's ride-hailing app, cheap and reliable) or your own car; a taxi from the old town center runs maybe 10–15 minutes depending on traffic. If you're driving, there's parking on site, and the approach road itself is worth slowing down for, since the hills close in around you before the lake appears.
+The park sits at Jalan Damai, 30100 Ipoh, on the northern edge of the city, a few kilometres from Ipoh's old town and railway station. There's no MRT or LRT here — Ipoh doesn't have one — so the practical options are a Grab (Malaysia's ride-hailing app, cheap and reliable) or your own car; a taxi from the old town center runs maybe 10–15 minutes depending on traffic.
+
+If you're driving, there's parking on site, and the approach road itself is worth slowing down for, since the hills close in around you before the lake appears.
 
 ## What to see and do
 
-The centerpiece is the lake itself, ringed by a paved walking path and crossed by a suspension bridge that gives you the best vantage point over the water and the surrounding karst. Rent a pedal boat or a small paddle boat — this is the thing everyone photographs, brightly coloured hulls drifting across water that mirrors the cliffs on a calm morning. On the far side, a man-made waterfall spills down a constructed rock face; it's not a natural cascade, but it's landscaped well enough that it doesn't feel like a gimmick, and it's a popular photo stop. Scattered around the grounds are pavilions, a children's playground, and open lawns where families set up mats and picnic food. Give yourself roughly 1.5 to 2 hours: enough time for a boat ride, the bridge walk, and a loop past the waterfall without rushing.
+The centerpiece is the lake itself, ringed by a paved walking path and crossed by a suspension bridge that gives you the best vantage point over the water and the surrounding karst. Rent a pedal boat or a small paddle boat — this is the thing everyone photographs, brightly coloured hulls drifting across water that mirrors the cliffs on a calm morning.
+
+On the far side, a man-made waterfall spills down a constructed rock face; it's not a natural cascade, but it's landscaped well enough that it doesn't feel like a gimmick, and it's a popular photo stop. Scattered around the grounds are pavilions, a children's playground, and open lawns where families set up mats and picnic food. Give yourself roughly 1.5 to 2 hours: enough time for a boat ride, the bridge walk, and a loop past the waterfall without rushing.
 
 ## When to go
 
@@ -73,7 +79,11 @@ Ipoh runs hot and humid year-round, so early morning — before the sun climbs �
 
 ## How to visit like a local
 
-Go on a weekday, and go before mid-morning — that's when the boat queue is shortest and the heat hasn't set in yet. Bring small cash for boat rentals and any food-stall snacks; card payment isn't something to count on at a park like this. There's no formal booking system for the boats — it's a first-come, pay-on-the-spot queue at the rental counter, so if you arrive on a weekend afternoon, expect to wait. Wear shoes you don't mind getting a little wet or muddy near the boat dock, and carry water and sun protection, since shade is limited once you're out on the open lawns or the bridge. The mistake most first-time visitors make is treating this as a quick five-minute photo stop and rushing off — the park rewards a slower loop around the full lake path, where you get repeated, changing views of the limestone hills that you miss if you just walk straight to the waterfall and back. If you want the calmest possible photos of the water mirroring the cliffs, aim for that early-morning window before wind picks up and boats start crisscrossing the surface.
+Go on a weekday, and go before mid-morning — that's when the boat queue is shortest and the heat hasn't set in yet. Bring small cash for boat rentals and any food-stall snacks; card payment isn't something to count on at a park like this. There's no formal booking system for the boats — it's a first-come, pay-on-the-spot queue at the rental counter, so if you arrive on a weekend afternoon, expect to wait.
+
+Wear shoes you don't mind getting a little wet or muddy near the boat dock, and carry water and sun protection, since shade is limited once you're out on the open lawns or the bridge. The mistake most first-time visitors make is treating this as a quick five-minute photo stop and rushing off — the park rewards a slower loop around the full lake path, where you get repeated, changing views of the limestone hills that you miss if you just walk straight to the waterfall and back.
+
+If you want the calmest possible photos of the water mirroring the cliffs, aim for that early-morning window before wind picks up and boats start crisscrossing the surface.
 
 ## Nearby to combine
 

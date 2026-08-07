@@ -45,11 +45,15 @@ draft: false
 ---
 ## Why go
 
-The Duomo di Milano is one of the largest cathedrals on earth and took roughly six centuries to complete, from its start in 1386 under Gian Galeazzo Visconti to the final touches on the facade in the early 20th century. The result is an almost overwhelming forest of white marble spires — 135 of them — topped with more than 3,400 statues, including the gilded Madonnina that has watched over the city from the highest spire since 1774. Rated among Milan's top attractions by hundreds of thousands of visitors, it's the unmissable centerpiece of the city and a genuinely singular piece of architecture: French Gothic bones dressed in distinctly Lombard, Italian ornamentation.
+The Duomo di Milano is one of the largest cathedrals on earth and took roughly six centuries to complete, from its start in 1386 under Gian Galeazzo Visconti to the final touches on the facade in the early 20th century. The result is an almost overwhelming forest of white marble spires — 135 of them — topped with more than 3,400 statues, including the gilded Madonnina that has watched over the city from the highest spire since 1774.
+
+Rated among Milan's top attractions by hundreds of thousands of visitors, it's the unmissable centerpiece of the city and a genuinely singular piece of architecture: French Gothic bones dressed in distinctly Lombard, Italian ornamentation.
 
 ## Getting there
 
-The cathedral sits on Piazza del Duomo in the historic center, and it's hard to miss — every road in central Milan seems to funnel toward it. The easiest approach is the Duomo stop on Metro Line 1 (red) or Line 3 (yellow), which lets out directly onto the square. From Milano Centrale train station, it's a straightforward 15-minute ride on the M3 yellow line, no transfers needed. Trams 1 and 2 also stop nearby if you'd rather see the city at street level. Because the piazza is fully pedestrianized, once you're off public transport you simply walk into the square — the cathedral's facade is the obvious focal point.
+The cathedral sits on Piazza del Duomo in the historic center, and it's hard to miss — every road in central Milan seems to funnel toward it. The easiest approach is the Duomo stop on Metro Line 1 (red) or Line 3 (yellow), which lets out directly onto the square. From Milano Centrale train station, it's a straightforward 15-minute ride on the M3 yellow line, no transfers needed.
+
+Trams 1 and 2 also stop nearby if you'd rather see the city at street level. Because the piazza is fully pedestrianized, once you're off public transport you simply walk into the square — the cathedral's facade is the obvious focal point.
 
 ## What to see and do
 

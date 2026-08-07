@@ -57,15 +57,21 @@ draft: false
 
 ## Why go
 
-Johor Zoo isn't trying to be Singapore Zoo across the strait, and that's precisely its charm. Tucked into Taman Istana on Jalan Gertak Merah, this is a small, old-school municipal animal park — shaded, a little worn at the edges, and refreshingly unpretentious. You walk in expecting a quick loop and end up lingering by the camel pen, watching a kid feed a handful of vegetables to a Bactrian camel that's clearly done this ten thousand times before but still leans in for more. With a 4.1 rating from over 9,500 reviewers, it's a well-established stop for families in Johor Bahru rather than an obscure find — expect other visitors, especially on weekends.
+Johor Zoo isn't trying to be Singapore Zoo across the strait, and that's precisely its charm. Tucked into Taman Istana on Jalan Gertak Merah, this is a small, old-school municipal animal park — shaded, a little worn at the edges, and refreshingly unpretentious. You walk in expecting a quick loop and end up lingering by the camel pen, watching a kid feed a handful of vegetables to a Bactrian camel that's clearly done this ten thousand times before but still leans in for more.
+
+With a 4.1 rating from over 9,500 reviewers, it's a well-established stop for families in Johor Bahru rather than an obscure find — expect other visitors, especially on weekends.
 
 ## Getting there
 
-The zoo sits close to the Sultan Abu Bakar State Mosque and the Royal Abu Bakar Museum, both worth folding into the same outing since they're within easy walking or short-drive distance in the Istana Gardens area of central Johor Bahru. If you're coming from the Woodlands/Causeway side from Singapore, a Grab ride from JB Sentral or the CIQ checkpoint takes roughly 10-15 minutes depending on traffic. Public buses run through central JB too, but with a mosque, museum, and zoo clustered together, most visitors just taxi or Grab in and treat the area as a half-day walking loop. There's no MRT/LRT in JB, so ride-hailing apps are the practical default for international visitors.
+The zoo sits close to the Sultan Abu Bakar State Mosque and the Royal Abu Bakar Museum, both worth folding into the same outing since they're within easy walking or short-drive distance in the Istana Gardens area of central Johor Bahru. If you're coming from the Woodlands/Causeway side from Singapore, a Grab ride from JB Sentral or the CIQ checkpoint takes roughly 10-15 minutes depending on traffic.
+
+Public buses run through central JB too, but with a mosque, museum, and zoo clustered together, most visitors just taxi or Grab in and treat the area as a half-day walking loop. There's no MRT/LRT in JB, so ride-hailing apps are the practical default for international visitors.
 
 ## What to see and do
 
-Don't expect glass-walled enclosures or Instagram-engineered habitats — this is an older-style layout with fenced and caged exhibits, shaded walking paths, and a slower, more municipal pace. The headline draws are the hands-on extras: camel feeding, pony rides, and paddle-boat rides on the small lake, which is what makes this a hit with families with young kids rather than serious wildlife enthusiasts. There's a playground for when the animals lose their novelty for the under-8 crowd. Expect the usual Southeast Asian zoo cast — big cats, primates, deer, reptiles, and various birds — housed in a compact footprint you can walk in two to three hours without rushing. Bring small notes of cash for feed for the camels and ponies, and for snack stalls near the entrance; card acceptance at these smaller kiosks is inconsistent.
+Don't expect glass-walled enclosures or Instagram-engineered habitats — this is an older-style layout with fenced and caged exhibits, shaded walking paths, and a slower, more municipal pace. The headline draws are the hands-on extras: camel feeding, pony rides, and paddle-boat rides on the small lake, which is what makes this a hit with families with young kids rather than serious wildlife enthusiasts.
+
+There's a playground for when the animals lose their novelty for the under-8 crowd. Expect the usual Southeast Asian zoo cast — big cats, primates, deer, reptiles, and various birds — housed in a compact footprint you can walk in two to three hours without rushing. Bring small notes of cash for feed for the camels and ponies, and for snack stalls near the entrance; card acceptance at these smaller kiosks is inconsistent.
 
 ## When to go
 
@@ -73,7 +79,11 @@ Malaysia's equatorial heat is the real scheduling factor here, not opening-hour 
 
 ## How to visit like a local
 
-Because this is a well-visited, popular attraction rather than a hidden spot, the smart move is timing, not secrecy. Arrive close to opening time on a weekday morning — this is when the animals are most active and the paths are least crowded, well before tour groups and weekend family crowds build up. Carry small ringgit notes for feed cups and boat/pony ride fees, since these extras are usually paid on the spot in cash at kiosks rather than centrally. Wear light, breathable clothing and a hat — there's shade along most paths but plenty of open sun near the lake and animal yards. The most common mistake visitors make is treating this like a modern mega-zoo and rushing through in 40 minutes; slow down, budget two to three hours, and build in the mosque and museum next door so the heat and the zoo's modest scale don't leave you feeling short-changed. Since it's not a place locals frame as an off-the-radar secret, don't expect an empty park — go early, treat the animal-feeding extras as the highlight, and pair the visit with the nearby Istana Gardens sights for a fuller half-day out.
+Because this is a well-visited, popular attraction rather than a hidden spot, the smart move is timing, not secrecy. Arrive close to opening time on a weekday morning — this is when the animals are most active and the paths are least crowded, well before tour groups and weekend family crowds build up. Carry small ringgit notes for feed cups and boat/pony ride fees, since these extras are usually paid on the spot in cash at kiosks rather than centrally.
+
+Wear light, breathable clothing and a hat — there's shade along most paths but plenty of open sun near the lake and animal yards. The most common mistake visitors make is treating this like a modern mega-zoo and rushing through in 40 minutes; slow down, budget two to three hours, and build in the mosque and museum next door so the heat and the zoo's modest scale don't leave you feeling short-changed.
+
+Since it's not a place locals frame as an off-the-radar secret, don't expect an empty park — go early, treat the animal-feeding extras as the highlight, and pair the visit with the nearby Istana Gardens sights for a fuller half-day out.
 
 ## Nearby to combine with your visit
 

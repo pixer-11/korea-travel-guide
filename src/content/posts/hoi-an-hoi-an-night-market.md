@@ -50,17 +50,23 @@ updatedDate: "2026-07-24"
 
 ## Why go
 
-Hoi An's Old Town is atmospheric by day, but it's after dark — when hundreds of silk lanterns strung along Nguyễn Hoàng Street flicker on — that the town earns its reputation as one of Vietnam's most photographed places. Hoi An Night Market (3 Nguyễn Hoàng, An Hội) sits at the center of that scene, on the small An Hội islet directly across the river from the Old Town's ancient merchant houses. With over 50,000 reviews and a 4.4 rating, it's not an undiscovered secret, but it earns its "hidden gem" reputation for a different reason: most visitors treat it as a quick photo stop, missing the food stalls and side lanes that locals actually use after the lantern-buying tourists move on.
+Hoi An's Old Town is atmospheric by day, but it's after dark — when hundreds of silk lanterns strung along Nguyễn Hoàng Street flicker on — that the town earns its reputation as one of Vietnam's most photographed places. Hoi An Night Market (3 Nguyễn Hoàng, An Hội) sits at the center of that scene, on the small An Hội islet directly across the river from the Old Town's ancient merchant houses.
+
+With over 50,000 reviews and a 4.4 rating, it's not an undiscovered secret, but it earns its "hidden gem" reputation for a different reason: most visitors treat it as a quick photo stop, missing the food stalls and side lanes that locals actually use after the lantern-buying tourists move on.
 
 ## Getting there
 
-The market is a 5-10 minute walk from almost anywhere in the Old Town. From the Japanese Covered Bridge (Chùa Cầu), head east and cross the An Hội Bridge (the pedestrian bridge over the Thu Bon River); the market runs along Nguyễn Hoàng Street just on the other side. Hoi An has no train or metro system — everyone arrives on foot, by bicycle, or by taxi/Grab from hotels in the Cẩm Châu or An Bang areas. If you're staying near An Bang Beach, a taxi or rented bicycle takes about 15-20 minutes. Motorbikes aren't allowed to park directly in the market lane, so most visitors leave bikes at a nearby paid lot (a few thousand dong) and walk in.
+The market is a 5-10 minute walk from almost anywhere in the Old Town. From the Japanese Covered Bridge (Chùa Cầu), head east and cross the An Hội Bridge (the pedestrian bridge over the Thu Bon River); the market runs along Nguyễn Hoàng Street just on the other side. Hoi An has no train or metro system — everyone arrives on foot, by bicycle, or by taxi/Grab from hotels in the Cẩm Châu or An Bang areas.
+
+If you're staying near An Bang Beach, a taxi or rented bicycle takes about 15-20 minutes. Motorbikes aren't allowed to park directly in the market lane, so most visitors leave bikes at a nearby paid lot (a few thousand dong) and walk in.
 
 ## What to see and eat
 
 The market is really two things layered together: a lantern and souvenir bazaar, and a street-food alley. Stalls sell silk and paper lanterns (the classic Hoi An souvenir), hand-embroidered bags, conical hats, and clothing that vendors will bargain over — expect to negotiate down from the first quoted price, politely and without pressure.
 
-For food, look for bánh mì stalls, grilled skewers (thịt nướng), and the region's specialty chè — a sweet, colorful dessert soup served in small cups, cheap enough to try two or three varieties. Cao lầu, Hoi An's signature turmeric-noodle dish with pork and crispy croutons, is more often found in sit-down shops just off the market rather than at stalls, so wander a block into the side alleys off Nguyễn Hoàng if you want it. The market also has games stalls with rings and darts, popular with local families rather than tourists — a good sign it's not purely a tourist trap.
+For food, look for bánh mì stalls, grilled skewers (thịt nướng), and the region's specialty chè — a sweet, colorful dessert soup served in small cups, cheap enough to try two or three varieties. Cao lầu, Hoi An's signature turmeric-noodle dish with pork and crispy croutons, is more often found in sit-down shops just off the market rather than at stalls, so wander a block into the side alleys off Nguyễn Hoàng if you want it.
+
+The market also has games stalls with rings and darts, popular with local families rather than tourists — a good sign it's not purely a tourist trap.
 
 The single most photographed activity here is releasing a small floating candle in a paper lantern onto the Thu Bon River, sold by boat vendors along the riverbank right beside the market. It costs very little and is worth doing at dusk when the light is dim enough for the candles to glow but not yet fully dark.
 

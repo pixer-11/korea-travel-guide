@@ -78,17 +78,25 @@ draft: false
 
 ## Why the Campo still stops you
 
-You come up one of the narrow, shadowed lanes that thread through Siena's brickwork — Via di Città, Via Banchi di Sotto, one of the little vicoli off the Terzo di San Martino — and then the street just opens. The Campo doesn't announce itself with a gate or a grand approach; it arrives all at once, a fan-shaped basin of rust-red brick tilting gently downhill toward the Palazzo Pubblico. Nine white travertine lines run down through the paving, radiating from the Fonte Gaia at the top, said to mark the nine-member medieval council that governed Siena and commissioned the square in the late 1200s. Sit on the sloped brick — everyone does, it's practically the design intent — and you notice how the whole space bends around you, buildings pressing shoulder to shoulder in a curve with no straight edges, no right angles fighting the eye.
+You come up one of the narrow, shadowed lanes that thread through Siena's brickwork — Via di Città, Via Banchi di Sotto, one of the little vicoli off the Terzo di San Martino — and then the street just opens. The Campo doesn't announce itself with a gate or a grand approach; it arrives all at once, a fan-shaped basin of rust-red brick tilting gently downhill toward the Palazzo Pubblico.
+
+Nine white travertine lines run down through the paving, radiating from the Fonte Gaia at the top, said to mark the nine-member medieval council that governed Siena and commissioned the square in the late 1200s. Sit on the sloped brick — everyone does, it's practically the design intent — and you notice how the whole space bends around you, buildings pressing shoulder to shoulder in a curve with no straight edges, no right angles fighting the eye.
 
 ## What you're actually looking at
 
-The dominant note is the Palazzo Pubblico, Siena's Gothic town hall, its facade a rhythm of pointed arches and mullioned windows in that same warm brick. Rising from it, the Torre del Mangia climbs over 300 feet, one of the tallest medieval towers in Italy, built lower than Florence's towers by deliberate civic agreement — Sienese pride runs deep, but so did the old rivalry-management. Inside the palazzo, the Museo Civico holds Simone Martini's Maestà and Ambrogio Lorenzetti's Allegory of Good and Bad Government, frescoes worth the ticket on their own. At the top of the square, the Fonte Gaia is a 15th-century marble fountain (the current panels are copies; the Renaissance originals live in the loggia of Santa Maria della Scala across the way) that still marks the end of Siena's old aqueduct system.
+The dominant note is the Palazzo Pubblico, Siena's Gothic town hall, its facade a rhythm of pointed arches and mullioned windows in that same warm brick. Rising from it, the Torre del Mangia climbs over 300 feet, one of the tallest medieval towers in Italy, built lower than Florence's towers by deliberate civic agreement — Sienese pride runs deep, but so did the old rivalry-management.
 
-Twice a year this entire brick bowl becomes something else. On July 2 and August 16, ten horses and bareback riders representing Siena's contrade (city wards) tear three laps around the perimeter in the Palio di Siena — dirt is trucked in and packed over the brick, mattresses padded against the tight corners, and the whole city crowds in for roughly ninety seconds of racing after days of ceremony. If you're not there for the Palio itself, look for the stone markers set into the buildings' corners — the same tight turns the horses take.
+Inside the palazzo, the Museo Civico holds Simone Martini's Maestà and Ambrogio Lorenzetti's Allegory of Good and Bad Government, frescoes worth the ticket on their own. At the top of the square, the Fonte Gaia is a 15th-century marble fountain (the current panels are copies; the Renaissance originals live in the loggia of Santa Maria della Scala across the way) that still marks the end of Siena's old aqueduct system.
+
+Twice a year this entire brick bowl becomes something else. On July 2 and August 16, ten horses and bareback riders representing Siena's contrade (city wards) tear three laps around the perimeter in the Palio di Siena — dirt is trucked in and packed over the brick, mattresses padded against the tight corners, and the whole city crowds in for roughly ninety seconds of racing after days of ceremony.
+
+If you're not there for the Palio itself, look for the stone markers set into the buildings' corners — the same tight turns the horses take.
 
 ## When to go
 
-The square never really closes — it's outdoor, public, always accessible — but its mood swings hard with the hour. Foot traffic is lightest between 7am and 9am, on both weekdays and weekends, when the cafés are just opening shutters and the light comes in low and gold across the brick. From 11am onward on weekends, crowds build steadily and stay heavy until around 11pm, so if you're picturing an empty piazza for photos, that's the window to avoid. Midday in high summer also means direct sun with almost no shade — the surrounding buildings offer some shadow along the edges by early afternoon, but the bowl itself bakes.
+The square never really closes — it's outdoor, public, always accessible — but its mood swings hard with the hour. Foot traffic is lightest between 7am and 9am, on both weekdays and weekends, when the cafés are just opening shutters and the light comes in low and gold across the brick. From 11am onward on weekends, crowds build steadily and stay heavy until around 11pm, so if you're picturing an empty piazza for photos, that's the window to avoid.
+
+Midday in high summer also means direct sun with almost no shade — the surrounding buildings offer some shadow along the edges by early afternoon, but the bowl itself bakes.
 
 ## Eating and drinking around the edges
 
@@ -96,4 +104,8 @@ Cafés and restaurants ring the upper curve of the Campo, and yes, you pay for t
 
 ## How to visit like a local
 
-Skip the cushioned café chairs and do what Sienese students and pigeons alike do: buy a gelato or a bottle of water nearby and sit directly on the sloped brick, facing the Palazzo Pubblico — it's free, it's normal, and it's the best sightline in the square. Go around 7am for the closest thing to solitude you'll get here; by mid-morning on weekends it's shoulder to shoulder and stays that way into the evening. Cash and card are both fine at the surrounding bars, but a coin tip isn't expected the way it might be elsewhere. The mistake most visitors make is treating the Campo as a five-minute photo stop between sights — it rewards slowing down, especially at dusk when the tower and palazzo floodlights come up and the day-trip crowds thin out. If you want the Torre del Mangia view, book or arrive early; the climb is steep, narrow, and ticket lines lengthen through the day.
+Skip the cushioned café chairs and do what Sienese students and pigeons alike do: buy a gelato or a bottle of water nearby and sit directly on the sloped brick, facing the Palazzo Pubblico — it's free, it's normal, and it's the best sightline in the square. Go around 7am for the closest thing to solitude you'll get here; by mid-morning on weekends it's shoulder to shoulder and stays that way into the evening.
+
+Cash and card are both fine at the surrounding bars, but a coin tip isn't expected the way it might be elsewhere. The mistake most visitors make is treating the Campo as a five-minute photo stop between sights — it rewards slowing down, especially at dusk when the tower and palazzo floodlights come up and the day-trip crowds thin out.
+
+If you want the Torre del Mangia view, book or arrive early; the climb is steep, narrow, and ticket lines lengthen through the day.

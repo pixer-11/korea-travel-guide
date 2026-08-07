@@ -62,19 +62,27 @@ eventRecurring: false
 
 ## Why this stop matters
 
-Foxborough's leg of the tour is a big deal for a simple reason: it's BTS's first world tour since the members completed their mandatory South Korean military service, and Gillette Stadium is one of only a handful of North American venues hosting the run. The Foxborough dates (August 5–6, 2026) sit early in a 79-date global tour, with the group also playing AT&T Stadium in Arlington, Texas on August 15–16. For ARMY on the East Coast, this is the closest full-stadium show to New England, drawing fans from across Massachusetts, Connecticut, Rhode Island, and southern New Hampshire.
+Foxborough's leg of the tour is a big deal for a simple reason: it's BTS's first world tour since the members completed their mandatory South Korean military service, and Gillette Stadium is one of only a handful of North American venues hosting the run. The Foxborough dates (August 5–6, 2026) sit early in a 79-date global tour, with the group also playing AT&T Stadium in Arlington, Texas on August 15–16.
+
+For ARMY on the East Coast, this is the closest full-stadium show to New England, drawing fans from across Massachusetts, Connecticut, Rhode Island, and southern New Hampshire.
 
 ## Getting to Gillette Stadium
 
-Gillette Stadium sits in Foxborough, about 22 miles southwest of downtown Boston, at the Patriot Place complex. There's no direct subway line to the stadium, so most out-of-town visitors either drive in and use event parking lots on-site, or take the MBTA commuter rail's special event service from Boston's South Station to the Foxboro station, which runs on select event days with a walk of roughly a mile to the stadium gates. Rideshare drop-off zones are typically set up at a distance from the gates on high-attendance nights, so budget extra walking time. If driving, expect lot traffic to back up for hours after the show — leaving the parking area promptly or waiting out the initial crush are the two realistic options.
+Gillette Stadium sits in Foxborough, about 22 miles southwest of downtown Boston, at the Patriot Place complex. There's no direct subway line to the stadium, so most out-of-town visitors either drive in and use event parking lots on-site, or take the MBTA commuter rail's special event service from Boston's South Station to the Foxboro station, which runs on select event days with a walk of roughly a mile to the stadium gates.
+
+Rideshare drop-off zones are typically set up at a distance from the gates on high-attendance nights, so budget extra walking time. If driving, expect lot traffic to back up for hours after the show — leaving the parking area promptly or waiting out the initial crush are the two realistic options.
 
 ## What to expect on show day
 
-Concerts of this scale at Gillette usually mean gates opening a few hours before the announced set time, with stadium-wide security screening (bag policies at NFL/concert stadiums tend to restrict bag size significantly, so check Gillette's current policy before packing). Merchandise lines for major tours historically form early and move slowly, so fans chasing tour merch often arrive well before doors. Because exact set times, opening acts, and any local guest appearances haven't been officially detailed in the facts available here, treat any schedule you see online as provisional until it's confirmed by BTS's official channels or Gillette Stadium's event page.
+Concerts of this scale at Gillette usually mean gates opening a few hours before the announced set time, with stadium-wide security screening (bag policies at NFL/concert stadiums tend to restrict bag size significantly, so check Gillette's current policy before packing). Merchandise lines for major tours historically form early and move slowly, so fans chasing tour merch often arrive well before doors.
+
+Because exact set times, opening acts, and any local guest appearances haven't been officially detailed in the facts available here, treat any schedule you see online as provisional until it's confirmed by BTS's official channels or Gillette Stadium's event page.
 
 ## Where to stay and eat nearby
 
-Foxborough itself is a small town built around the stadium and the adjoining Patriot Place shopping and dining complex, which has casual and mid-range restaurant options within walking distance of the venue — useful for a pre-show meal without needing a car. Because hotel inventory directly in Foxborough is limited, many visitors base themselves in Providence, RI, or the Boston/Norwood/Dedham area and drive or train in for the show, especially across a two-night stand where demand for nearby rooms will be highest. Booking accommodations as early as possible is worth it once dates are confirmed, since a 79-date tour with only two U.S. stadium stops before Arlington will likely sell out lodging near the venue quickly.
+Foxborough itself is a small town built around the stadium and the adjoining Patriot Place shopping and dining complex, which has casual and mid-range restaurant options within walking distance of the venue — useful for a pre-show meal without needing a car. Because hotel inventory directly in Foxborough is limited, many visitors base themselves in Providence, RI, or the Boston/Norwood/Dedham area and drive or train in for the show, especially across a two-night stand where demand for nearby rooms will be highest.
+
+Booking accommodations as early as possible is worth it once dates are confirmed, since a 79-date tour with only two U.S. stadium stops before Arlington will likely sell out lodging near the venue quickly.
 
 ## When to arrive and how long to stay
 
@@ -82,4 +90,8 @@ For a stadium show of this size, plan for a full evening: gates hours before the
 
 ## How to visit like a local
 
-New England concertgoers who regularly do Gillette shows treat the commuter rail option as the least stressful way in and out, since it sidesteps the worst of the post-show parking-lot gridlock — arriving at Foxboro station rather than driving is the move if you're comfortable with the walk. Expect the crowd to be intensely global and multigenerational rather than purely local, so lean into the shared-fan etiquette: many ARMY sections coordinate light-stick (ARMY Bomb) colors and chants in advance via fan social media, and knowing a few of BTS's Korean song titles or chants ahead of time helps you follow along rather than feel lost. Payment at concession stands and merch booths at U.S. stadiums is overwhelmingly card/tap-based now, so don't rely on cash. The most common visitor mistake is underestimating exit logistics — leaving immediately at the final encore versus waiting 30–45 minutes for lots to clear are really your only two options, so decide in advance rather than getting stuck deciding in the scrum. Above all, treat every date, gate time, and ticket detail here as preliminary and verify directly through BTS's official tour announcements and Gillette Stadium's box office before finalizing travel.
+New England concertgoers who regularly do Gillette shows treat the commuter rail option as the least stressful way in and out, since it sidesteps the worst of the post-show parking-lot gridlock — arriving at Foxboro station rather than driving is the move if you're comfortable with the walk. Expect the crowd to be intensely global and multigenerational rather than purely local, so lean into the shared-fan etiquette: many ARMY sections coordinate light-stick (ARMY Bomb) colors and chants in advance via fan social media, and knowing a few of BTS's Korean song titles or chants ahead of time helps you follow along rather than feel lost.
+
+Payment at concession stands and merch booths at U.S. stadiums is overwhelmingly card/tap-based now, so don't rely on cash. The most common visitor mistake is underestimating exit logistics — leaving immediately at the final encore versus waiting 30–45 minutes for lots to clear are really your only two options, so decide in advance rather than getting stuck deciding in the scrum.
+
+Above all, treat every date, gate time, and ticket detail here as preliminary and verify directly through BTS's official tour announcements and Gillette Stadium's box office before finalizing travel.

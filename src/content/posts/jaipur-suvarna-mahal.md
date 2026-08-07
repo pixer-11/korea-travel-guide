@@ -51,19 +51,27 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come up the long, floodlit driveway of Rambagh Palace past clipped hedges and a fountain that used to greet Jaipur's royal family, and by the time a turbaned doorman swings open the heavy wooden door, you already understand this isn't going to be a quick curry-and-rice stop. Suvarna Mahal sits inside the palace itself — Rambagh was the maharaja's home before it became a Taj hotel — and the dining room was once used for state banquets. The ceilings are high and gilded, the chairs are upholstered like a durbar hall, and a small ensemble of musicians often plays live Indian classical music in the corner while you eat, so the room hums rather than clatters.
+You come up the long, floodlit driveway of Rambagh Palace past clipped hedges and a fountain that used to greet Jaipur's royal family, and by the time a turbaned doorman swings open the heavy wooden door, you already understand this isn't going to be a quick curry-and-rice stop. Suvarna Mahal sits inside the palace itself — Rambagh was the maharaja's home before it became a Taj hotel — and the dining room was once used for state banquets.
+
+The ceilings are high and gilded, the chairs are upholstered like a durbar hall, and a small ensemble of musicians often plays live Indian classical music in the corner while you eat, so the room hums rather than clatters.
 
 ## Why go
 
-This isn't just another North Indian restaurant with good reviews (and it has plenty — a 4.7 rating across more than 3,600 reviews). The point of Suvarna Mahal is the setting as much as the food: crystal chandeliers, gold leaf detailing, portraits of Jaipur's rulers, and table settings that make you sit up straighter. The menu leans into "royal cuisine" — dishes with roots in the kitchens of Rajasthani and Mughal courts, richer and more layered than typical roadside thalis. If you want one dinner in Jaipur that feels like stepping into the city's princely past rather than just reading about it, this is it.
+This isn't just another North Indian restaurant with good reviews (and it has plenty — a 4.7 rating across more than 3,600 reviews). The point of Suvarna Mahal is the setting as much as the food: crystal chandeliers, gold leaf detailing, portraits of Jaipur's rulers, and table settings that make you sit up straighter. The menu leans into "royal cuisine" — dishes with roots in the kitchens of Rajasthani and Mughal courts, richer and more layered than typical roadside thalis.
+
+If you want one dinner in Jaipur that feels like stepping into the city's princely past rather than just reading about it, this is it.
 
 ## Getting there
 
-Suvarna Mahal is inside Rambagh Palace on Bhawani Singh Road, in the Rambagh area south of the old walled city, a roughly 15-20 minute taxi or auto-rickshaw ride from Hawa Mahal and the City Palace. Most visitors arrive by hotel car, app-based taxi, or a pre-booked auto — there's no direct metro or bus stop worth using for a formal dinner like this. Security at the gate is standard for Jaipur's five-star hotels: your bag goes through a scanner and the car is checked before you're waved up the driveway. Give yourself a buffer of 10-15 minutes for this on arrival, especially if you've booked a specific reservation time.
+Suvarna Mahal is inside Rambagh Palace on Bhawani Singh Road, in the Rambagh area south of the old walled city, a roughly 15-20 minute taxi or auto-rickshaw ride from Hawa Mahal and the City Palace. Most visitors arrive by hotel car, app-based taxi, or a pre-booked auto — there's no direct metro or bus stop worth using for a formal dinner like this.
+
+Security at the gate is standard for Jaipur's five-star hotels: your bag goes through a scanner and the car is checked before you're waved up the driveway. Give yourself a buffer of 10-15 minutes for this on arrival, especially if you've booked a specific reservation time.
 
 ## What to eat
 
-Expect a tasting menu-style structure built around Rajasthani and wider North Indian royal cooking — think slow-cooked lamb and game-inspired preparations, rich lentil dals finished with ghee, breads baked in a tandoor visible near the pass, and desserts that draw on Rajasthani sweet-making traditions. Portions are designed for pacing rather than speed; dishes arrive course by course rather than all at once, so don't come starving and rushed. It sits at a moderate price point for Jaipur's fine-dining scene — noticeably more than a street stall or local dhaba, but in line with what you'd expect from a heritage palace dining room, so budget for a proper splurge rather than a casual bite.
+Expect a tasting menu-style structure built around Rajasthani and wider North Indian royal cooking — think slow-cooked lamb and game-inspired preparations, rich lentil dals finished with ghee, breads baked in a tandoor visible near the pass, and desserts that draw on Rajasthani sweet-making traditions. Portions are designed for pacing rather than speed; dishes arrive course by course rather than all at once, so don't come starving and rushed.
+
+It sits at a moderate price point for Jaipur's fine-dining scene — noticeably more than a street stall or local dhaba, but in line with what you'd expect from a heritage palace dining room, so budget for a proper splurge rather than a casual bite.
 
 ## The room itself
 
@@ -71,7 +79,11 @@ Take a few minutes before your food arrives to actually look around. The ceiling
 
 ## How to visit like a local
 
-Suvarna Mahal is well-known well beyond Jaipur — it draws hotel guests, visiting dignitaries, and travelers who've read about it long before landing in Rajasthan, so don't expect an undiscovered find; expect a polished, popular room that rewards planning. Book your table in advance, ideally a few days ahead and earlier for weekends or wedding season (October to March), rather than walking in. Dress smart: collared shirts or equivalent for men and smart evening wear are the norm, and shorts or flip-flops will feel out of place. Payment is by card as standard at this level — carrying cash isn't necessary. A service charge is often built into the bill, so tipping beyond that is a personal gesture rather than an expectation; ask your server if you're unsure. The most common mistake visitors make is treating this like a quick tourist stop between sightseeing — arrive relaxed, plan on two to three hours, and let the courses come at their own pace rather than rushing the kitchen.
+Suvarna Mahal is well-known well beyond Jaipur — it draws hotel guests, visiting dignitaries, and travelers who've read about it long before landing in Rajasthan, so don't expect an undiscovered find; expect a polished, popular room that rewards planning. Book your table in advance, ideally a few days ahead and earlier for weekends or wedding season (October to March), rather than walking in.
+
+Dress smart: collared shirts or equivalent for men and smart evening wear are the norm, and shorts or flip-flops will feel out of place. Payment is by card as standard at this level — carrying cash isn't necessary. A service charge is often built into the bill, so tipping beyond that is a personal gesture rather than an expectation; ask your server if you're unsure.
+
+The most common mistake visitors make is treating this like a quick tourist stop between sightseeing — arrive relaxed, plan on two to three hours, and let the courses come at their own pace rather than rushing the kitchen.
 
 ## When to go
 

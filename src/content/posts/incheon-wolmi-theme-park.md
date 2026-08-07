@@ -72,24 +72,34 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Wolmi Theme Park sits on Wolmido, a small former island (now connected by causeway) just off the Incheon mainland, and it has a different flavor from Korea's mega parks like Everland or Lotte World. It's smaller, older, and unabashedly retro — think classic Viking ships, a Ferris wheel, bumper cars, and a disco pirate ship that spins riders while blasting K-pop, all with sea views. With a 4.0 rating across more than 8,000 reviews, it's a well-loved local spot rather than a polished tourist showcase, and that's part of its charm. It's also genuinely cheap and fast to do — most visitors clear the whole park, boardwalk, and a seafood meal in half a day.
+Wolmi Theme Park sits on Wolmido, a small former island (now connected by causeway) just off the Incheon mainland, and it has a different flavor from Korea's mega parks like Everland or Lotte World. It's smaller, older, and unabashedly retro — think classic Viking ships, a Ferris wheel, bumper cars, and a disco pirate ship that spins riders while blasting K-pop, all with sea views.
+
+With a 4.0 rating across more than 8,000 reviews, it's a well-loved local spot rather than a polished tourist showcase, and that's part of its charm. It's also genuinely cheap and fast to do — most visitors clear the whole park, boardwalk, and a seafood meal in half a day.
 
 ## Getting there
 
-The park is at 81 Wolmimunhwa-ro, Jung-gu, Incheon. The easiest approach is via **Incheon Station** on **Incheon Line 1** (the line's western terminus) — from Seoul, this is roughly 60–70 minutes from City Hall or Dongdaemun on the subway. Exit the station and either walk (about 15–20 minutes along the waterfront) or grab a short taxi (5 minutes, a few thousand won) to Wolmido/Wolmi Park. Local buses also run from Incheon Station toward Wolmido if you'd rather skip the walk. Because the island sits at the mouth of Incheon's old harbor, the walk itself passes fishing boats, dockside seafood stalls, and views toward Incheon Bridge, so budget extra time even if you plan to taxi.
+The park is at 81 Wolmimunhwa-ro, Jung-gu, Incheon. The easiest approach is via **Incheon Station** on **Incheon Line 1** (the line's western terminus) — from Seoul, this is roughly 60–70 minutes from City Hall or Dongdaemun on the subway. Exit the station and either walk (about 15–20 minutes along the waterfront) or grab a short taxi (5 minutes, a few thousand won) to Wolmido/Wolmi Park.
+
+Local buses also run from Incheon Station toward Wolmido if you'd rather skip the walk. Because the island sits at the mouth of Incheon's old harbor, the walk itself passes fishing boats, dockside seafood stalls, and views toward Incheon Bridge, so budget extra time even if you plan to taxi.
 
 ## What to see and do
 
 The park is really three connected zones: the **amusement rides area** (Wolmi Theme Park proper), the **Wolmi Culture Street** (Wolmi Munhwa-ro) lined with cafes, photo spots, and street food stalls, and the **waterfront promenade** with views over Incheon's inner harbor toward Yeongjongdo and the airport bridge.
 
-Signature rides include the Viking, a small wooden-frame roller coaster, bumper cars, and the disco-ship style spinning ride that's become a minor local icon for its combination of nighttime lights and loud music. There's also an indoor playground geared toward younger kids, plus water-play elements in warmer months — useful if you're traveling with a mixed-age family and need a break from the outdoor rides. Rides typically run on a pay-per-ride or ticket-booklet system rather than one flat all-day wristband, so it's worth deciding in advance which two or three rides matter most rather than trying to ride everything.
+Signature rides include the Viking, a small wooden-frame roller coaster, bumper cars, and the disco-ship style spinning ride that's become a minor local icon for its combination of nighttime lights and loud music. There's also an indoor playground geared toward younger kids, plus water-play elements in warmer months — useful if you're traveling with a mixed-age family and need a break from the outdoor rides.
+
+Rides typically run on a pay-per-ride or ticket-booklet system rather than one flat all-day wristband, so it's worth deciding in advance which two or three rides matter most rather than trying to ride everything.
 
 Just beyond the park gates, Wolmi Culture Street is worth 30–45 minutes on its own: retro arcade games, character cafes, and vendors selling Incheon-style dakgangjeong (sweet crispy fried chicken) and grilled squid. The nearby Wolmido pier area is one of Incheon's classic date-night and family destinations for exactly this reason — food, a ride or two, and a sunset walk.
 
 ## When to go
 
-Weekday afternoons are noticeably quieter than weekends, when the boardwalk and food stalls draw large local crowds, especially families and school groups. Evening is arguably the best time to visit: many rides are lit up after dusk, the sea breeze is more comfortable than midday heat in summer, and the disco pirate ship experience is more dramatic at night. Spring and autumn offer the most comfortable outdoor conditions; midsummer (July–August) brings humidity and occasional monsoon rain, though the water-play areas make more sense then. Winter is workable for photos and the promenade but expect some rides to have shorter hours or be seasonally closed — confirm current operating days and hours before visiting, since amusement-ride schedules shift more than typical museum hours.
+Weekday afternoons are noticeably quieter than weekends, when the boardwalk and food stalls draw large local crowds, especially families and school groups. Evening is arguably the best time to visit: many rides are lit up after dusk, the sea breeze is more comfortable than midday heat in summer, and the disco pirate ship experience is more dramatic at night. Spring and autumn offer the most comfortable outdoor conditions; midsummer (July–August) brings humidity and occasional monsoon rain, though the water-play areas make more sense then.
+
+Winter is workable for photos and the promenade but expect some rides to have shorter hours or be seasonally closed — confirm current operating days and hours before visiting, since amusement-ride schedules shift more than typical museum hours.
 
 ## Nearby & tips
 
-Combine the visit with **Wolmido's seafood restaurant row**, a short walk from the park, known for raw fish (hoe) and grilled shellfish with harbor views. Incheon's historic **Chinatown** and the **Jayu Park** area (with views over the harbor and Incheon's modern history exhibits) are a short taxi or bus ride away and pair naturally with a Wolmido afternoon, since both are near Incheon Station. Bring small cash or a T-money card for individual ride tickets and street food stalls, and check the tide/weather if you plan to walk the outer breakwater, as sea winds can be strong.
+Combine the visit with **Wolmido's seafood restaurant row**, a short walk from the park, known for raw fish (hoe) and grilled shellfish with harbor views. Incheon's historic **Chinatown** and the **Jayu Park** area (with views over the harbor and Incheon's modern history exhibits) are a short taxi or bus ride away and pair naturally with a Wolmido afternoon, since both are near Incheon Station.
+
+Bring small cash or a T-money card for individual ride tickets and street food stalls, and check the tide/weather if you plan to walk the outer breakwater, as sea winds can be strong.

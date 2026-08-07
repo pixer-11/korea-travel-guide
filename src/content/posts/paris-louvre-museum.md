@@ -75,7 +75,9 @@ You feel the scale of the place before you see a single painting. The glass Pyra
 
 ## Why it's worth the trip
 
-This was a royal palace centuries before it was a museum, and you can still feel that history in the moated medieval foundations visible in the Sully wing basement, the gilded ceilings of the Galerie d'Apollon, and the sheer weight of stone in the Cour Carrée. The collection itself runs from Mesopotamian steles and Egyptian sarcophagi to Roman marble, French Neoclassical epics, and, of course, the Mona Lisa, tucked behind glass and a permanent scrum of phones in the Salle des États. With one of the most-reviewed attractions on earth behind it, the Louvre's reputation isn't hype — it's just a genuinely enormous, genuinely world-class collection.
+This was a royal palace centuries before it was a museum, and you can still feel that history in the moated medieval foundations visible in the Sully wing basement, the gilded ceilings of the Galerie d'Apollon, and the sheer weight of stone in the Cour Carrée. The collection itself runs from Mesopotamian steles and Egyptian sarcophagi to Roman marble, French Neoclassical epics, and, of course, the Mona Lisa, tucked behind glass and a permanent scrum of phones in the Salle des États.
+
+With one of the most-reviewed attractions on earth behind it, the Louvre's reputation isn't hype — it's just a genuinely enormous, genuinely world-class collection.
 
 ## Getting there
 
@@ -83,12 +85,18 @@ The closest stop is Palais-Royal–Musée du Louvre on Métro Line 1 (also serve
 
 ## What to see (without trying to see everything)
 
-Nobody sees the Louvre in one visit — accept that going in. Pick two or three anchors and let the rest be a bonus. The Mona Lisa and the Winged Victory of Samothrace, dramatically lit at the top of the Daru staircase, are the two pieces that pull the crowds, so see them early. From there, the Denon wing's French paintings (Géricault's *The Raft of the Medusa*, David's *The Coronation of Napoleon*) are close together and easy to string into one route. If you want quieter rooms, the Near Eastern antiquities and the Islamic art galleries in the Cour Visconti see a fraction of the foot traffic and are just as rewarding.
+Nobody sees the Louvre in one visit — accept that going in. Pick two or three anchors and let the rest be a bonus. The Mona Lisa and the Winged Victory of Samothrace, dramatically lit at the top of the Daru staircase, are the two pieces that pull the crowds, so see them early. From there, the Denon wing's French paintings (Géricault's *The Raft of the Medusa*, David's *The Coronation of Napoleon*) are close together and easy to string into one route.
+
+If you want quieter rooms, the Near Eastern antiquities and the Islamic art galleries in the Cour Visconti see a fraction of the foot traffic and are just as rewarding.
 
 ## When to go
 
-The museum is closed on Tuesdays, so don't show up expecting a quiet weekday visit then — you'll find the doors shut. On the days it is open, hours generally run from morning into the early evening, with two evenings each week when the museum stays open later. Those two late nights are genuinely the best window: the tour-bus crowds thin out after about 5pm, and the lower evening light through the Pyramid's glass panels is worth seeing on its own. Measured crowd patterns back this up — the calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it.
+The museum is closed on Tuesdays, so don't show up expecting a quiet weekday visit then — you'll find the doors shut. On the days it is open, hours generally run from morning into the early evening, with two evenings each week when the museum stays open later. Those two late nights are genuinely the best window: the tour-bus crowds thin out after about 5pm, and the lower evening light through the Pyramid's glass panels is worth seeing on its own.
+
+Measured crowd patterns back this up — the calmest stretch on weekdays is 9am–10am, right at opening, while weekends stay comparatively manageable pretty much all day (9am–7pm), aside from the 11am–6pm stretch, which is consistently the busiest window and worth avoiding if you can help it.
 
 ## How to visit like a local
 
-Book your timed-entry ticket online in advance — walk-up lines at the Pyramid entrance can run long, especially in summer, and this is very much a "buy ahead" museum, not a "figure it out on arrival" one. Head for the Porte des Lions or the Carrousel underground entrance rather than the main Pyramid queue; regulars know these secondary entrances move faster. Once inside, resist the pull toward the Mona Lisa as your very first stop if you're arriving right at 9am — spend twenty minutes in the Egyptian or Greek antiquities first while the entrance hall crowd clears, then loop back. Cloakrooms are free and worth using; bags and coats slow you down in the packed rooms. Payment is overwhelmingly card and mobile pay these days, and given how many people pass through daily, don't expect quiet corners in the headline galleries — the real trick is choosing the *time* (Wednesday or Friday evening, right at opening) rather than hoping for a secret uncrowded route.
+Book your timed-entry ticket online in advance — walk-up lines at the Pyramid entrance can run long, especially in summer, and this is very much a "buy ahead" museum, not a "figure it out on arrival" one. Head for the Porte des Lions or the Carrousel underground entrance rather than the main Pyramid queue; regulars know these secondary entrances move faster.
+
+Once inside, resist the pull toward the Mona Lisa as your very first stop if you're arriving right at 9am — spend twenty minutes in the Egyptian or Greek antiquities first while the entrance hall crowd clears, then loop back. Cloakrooms are free and worth using; bags and coats slow you down in the packed rooms. Payment is overwhelmingly card and mobile pay these days, and given how many people pass through daily, don't expect quiet corners in the headline galleries — the real trick is choosing the *time* (Wednesday or Friday evening, right at opening) rather than hoping for a secret uncrowded route.

@@ -55,13 +55,17 @@ draft: false
 
 ## Why Babayan Evi matters
 
-Cappadocia is famous for hot-air balloons and fairy-chimney rock formations, but until 2026 it had never appeared on the Michelin Guide's radar. Babayan Evi changed that. It was named among the region's first-ever Michelin selections, and it walked away with two distinctions at once: a Bib Gourmand, Michelin's marker for excellent food at moderate prices, and a Green Star, the newer accolade reserved for restaurants demonstrating genuine commitment to sustainable and environmentally responsible cooking. Very few restaurants anywhere earn both simultaneously, which makes Babayan Evi something of a flagship case study for what Cappadocian dining can be when it leans into its own terroir instead of imitating international menus.
+Cappadocia is famous for hot-air balloons and fairy-chimney rock formations, but until 2026 it had never appeared on the Michelin Guide's radar. Babayan Evi changed that. It was named among the region's first-ever Michelin selections, and it walked away with two distinctions at once: a Bib Gourmand, Michelin's marker for excellent food at moderate prices, and a Green Star, the newer accolade reserved for restaurants demonstrating genuine commitment to sustainable and environmentally responsible cooking.
+
+Very few restaurants anywhere earn both simultaneously, which makes Babayan Evi something of a flagship case study for what Cappadocian dining can be when it leans into its own terroir instead of imitating international menus.
 
 The name itself — "Babayan Evi," roughly "the Babayan family house" — hints at what the inspectors responded to: this reads as a home kitchen scaled up, not a hotel restaurant chasing trends.
 
 ## What makes it stand out
 
-The Michelin write-up singles out two things: generosity of portion and depth of respect for local ingredients. In practice, that means the kitchen is built around what the volcanic soils and high plateau of Cappadocia actually produce — the region's dried fruits, legumes, wheat, and pastırma-cured meats, along with vegetables and herbs sourced close to home. Rather than a curated tasting menu of small plates, expect the kind of full, shareable spread associated with a Cappadocian family table. The Green Star specifically rewards traceability and low-impact sourcing, so seasonal and regional ingredients aren't a marketing line here — they're the entire premise of the menu.
+The Michelin write-up singles out two things: generosity of portion and depth of respect for local ingredients. In practice, that means the kitchen is built around what the volcanic soils and high plateau of Cappadocia actually produce — the region's dried fruits, legumes, wheat, and pastırma-cured meats, along with vegetables and herbs sourced close to home. Rather than a curated tasting menu of small plates, expect the kind of full, shareable spread associated with a Cappadocian family table.
+
+The Green Star specifically rewards traceability and low-impact sourcing, so seasonal and regional ingredients aren't a marketing line here — they're the entire premise of the menu.
 
 Because the exact dishes and prices aren't fixed publicly in detail and can shift seasonally, it's best to go in expecting traditional Anatolian and Cappadocian home cooking rather than a fixed list of "must-order" items — ask staff what's freshest that day, which is often the better strategy at Bib Gourmand-level spots built around seasonal produce anyway.
 
@@ -71,7 +75,9 @@ Babayan Evi sits within the wider Cappadocia region, most commonly accessed from
 
 ## When to go and how to plan
 
-Cappadocia's peak season runs April through June and September through November, when mild weather also makes balloon flights and valley hikes possible before or after a meal — pairing a sunrise balloon ride with a relaxed late lunch is a common rhythm for visitors. Given the fresh Michelin attention, reservations are strongly advised, especially during these shoulder-season months when the region is busiest with international travelers. Because opening hours, exact pricing, and booking channels for newly listed Michelin restaurants often change in the months right after recognition, confirm current hours and reserve directly with the restaurant or through your hotel concierge rather than relying on older listings.
+Cappadocia's peak season runs April through June and September through November, when mild weather also makes balloon flights and valley hikes possible before or after a meal — pairing a sunrise balloon ride with a relaxed late lunch is a common rhythm for visitors. Given the fresh Michelin attention, reservations are strongly advised, especially during these shoulder-season months when the region is busiest with international travelers.
+
+Because opening hours, exact pricing, and booking channels for newly listed Michelin restaurants often change in the months right after recognition, confirm current hours and reserve directly with the restaurant or through your hotel concierge rather than relying on older listings.
 
 ## Nearby & tips
 

@@ -62,17 +62,23 @@ aiGenerated: true
 
 ## Why go
 
-Sheeva Cafe has built a reputation — reflected in its 4.9 rating across nearly 4,900 reviews — as one of Pattaya's most Instagrammed dining spots, and the reason is immediately visible rather than hyped. The entire property is engineered as an indoor-outdoor jungle: thick curtains of vines, tropical palms, small waterfalls, koi ponds, and timber walkways wind between dining tables, so every seat feels tucked into its own private green nook. It's the kind of place that photographs as well as it eats, which is why it draws both Instagram-hunters and travelers who just want a genuinely relaxing meal away from the beach road crowds. Unlike many "jungle café" concepts that lean on a few potted plants and good lighting, Sheeva's scale — multiple levels, tunnels of foliage, and water features throughout — is what sets it apart in a city with no shortage of themed cafés.
+Sheeva Cafe has built a reputation — reflected in its 4.9 rating across nearly 4,900 reviews — as one of Pattaya's most Instagrammed dining spots, and the reason is immediately visible rather than hyped. The entire property is engineered as an indoor-outdoor jungle: thick curtains of vines, tropical palms, small waterfalls, koi ponds, and timber walkways wind between dining tables, so every seat feels tucked into its own private green nook.
+
+It's the kind of place that photographs as well as it eats, which is why it draws both Instagram-hunters and travelers who just want a genuinely relaxing meal away from the beach road crowds. Unlike many "jungle café" concepts that lean on a few potted plants and good lighting, Sheeva's scale — multiple levels, tunnels of foliage, and water features throughout — is what sets it apart in a city with no shortage of themed cafés.
 
 ## Getting there
 
-Sheeva Cafe sits on Sukhumvit-Pattaya 75 (also signed as Soi 75), on the eastern, inland side of Pattaya, off Sukhumvit Road rather than down by Beach Road or Walking Street. It's set back from the main tourist strip, so this isn't a place you'll stumble on while strolling — it's a deliberate trip. The most straightforward way in is by Grab (Thailand's ride-hailing app) or a metered taxi/songthaew from central Pattaya; the ride from Central Pattaya Road or Jomtien typically runs 15–25 minutes depending on traffic and starting point. If you're driving or riding a rented scooter, Soi 75 runs off Sukhumvit Road and the café has on-site parking, which is worth using given the soi's narrow lanes. There's no BTS/MRT equivalent in Pattaya, so private or app-based transport is the practical default for reaching this address.
+Sheeva Cafe sits on Sukhumvit-Pattaya 75 (also signed as Soi 75), on the eastern, inland side of Pattaya, off Sukhumvit Road rather than down by Beach Road or Walking Street. It's set back from the main tourist strip, so this isn't a place you'll stumble on while strolling — it's a deliberate trip. The most straightforward way in is by Grab (Thailand's ride-hailing app) or a metered taxi/songthaew from central Pattaya; the ride from Central Pattaya Road or Jomtien typically runs 15–25 minutes depending on traffic and starting point.
+
+If you're driving or riding a rented scooter, Soi 75 runs off Sukhumvit Road and the café has on-site parking, which is worth using given the soi's narrow lanes. There's no BTS/MRT equivalent in Pattaya, so private or app-based transport is the practical default for reaching this address.
 
 ## What to see and eat
 
 The main draw is the setting itself: expect multi-level seating areas connected by wooden bridges, hanging plants forming natural canopies, ponds stocked with koi, and small waterfalls that add ambient white noise to the outdoor sections. Arrive with a bit of time to walk the grounds before or after eating — the layout rewards exploring corners you wouldn't see from your table.
 
-On the food side, Sheeva serves a broad Thai and international menu — think curries, stir-fries, pastas, and Western breakfast plates — alongside coffee and fruit-based drinks that suit the tropical setting. Portions and pricing sit firmly in the mid-range, so this isn't a splurge destination, more an accessible one, which helps explain the review volume: it draws repeat local diners as well as tourists. Given the jungle theme, dishes with visual flair (fruit platters, elaborate iced drinks, dessert plates) tend to be the most photographed items — worth ordering at least one even if you're mainly there for a savory meal.
+On the food side, Sheeva serves a broad Thai and international menu — think curries, stir-fries, pastas, and Western breakfast plates — alongside coffee and fruit-based drinks that suit the tropical setting. Portions and pricing sit firmly in the mid-range, so this isn't a splurge destination, more an accessible one, which helps explain the review volume: it draws repeat local diners as well as tourists.
+
+Given the jungle theme, dishes with visual flair (fruit platters, elaborate iced drinks, dessert plates) tend to be the most photographed items — worth ordering at least one even if you're mainly there for a savory meal.
 
 ## When to go
 

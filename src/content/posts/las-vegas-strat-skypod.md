@@ -53,23 +53,35 @@ draft: false
 
 ## Why go
 
-Most visitors funnel their Strip time between Bellagio's fountains and the Fashion Show Mall, which means the STRAT — planted at the quiet northern tip of Las Vegas Boulevard — gets skipped by people who never look up. That's a mistake. The tower rises higher than almost anything else in the city, and the SkyPod deck wraps around the top with unobstructed views in every direction: the neon spine of the Strip to the south, the dark bulk of the Spring Mountains to the west, and on clear nights, the sprawl of the valley lights stretching out toward the airport. You feel the elevation the second the doors open — the wind picks up, the sound of the Strip traffic disappears, and the horizon just keeps going.
+Most visitors funnel their Strip time between Bellagio's fountains and the Fashion Show Mall, which means the STRAT — planted at the quiet northern tip of Las Vegas Boulevard — gets skipped by people who never look up. That's a mistake. The tower rises higher than almost anything else in the city, and the SkyPod deck wraps around the top with unobstructed views in every direction: the neon spine of the Strip to the south, the dark bulk of the Spring Mountains to the west, and on clear nights, the sprawl of the valley lights stretching out toward the airport.
+
+You feel the elevation the second the doors open — the wind picks up, the sound of the Strip traffic disappears, and the horizon just keeps going.
 
 ## Getting there
 
-The address is 2000 S Las Vegas Blvd, at the far north end of the Strip, past the Sahara and just before Fremont Street territory. If you're staying mid-Strip, the RTC Deuce bus or a rideshare are your easiest options — a taxi from Bellagio or Caesars runs maybe 10–15 minutes depending on traffic. The Las Vegas Monorail's Sahara station is the closest rail stop, a short walk south of the tower. Because the STRAT is somewhat detached from the main casino cluster, parking here is generally easier to find than at the mega-resorts in the middle of the Strip.
+The address is 2000 S Las Vegas Blvd, at the far north end of the Strip, past the Sahara and just before Fremont Street territory. If you're staying mid-Strip, the RTC Deuce bus or a rideshare are your easiest options — a taxi from Bellagio or Caesars runs maybe 10–15 minutes depending on traffic. The Las Vegas Monorail's Sahara station is the closest rail stop, a short walk south of the tower.
+
+Because the STRAT is somewhat detached from the main casino cluster, parking here is generally easier to find than at the mega-resorts in the middle of the Strip.
 
 ## What to see and do up top
 
-The main draw is simply the 360-degree observation deck, but the tower is also known for four thrill rides perched at the edge of the structure: Big Shot (a launch straight up the spire), Insanity (a spinning arm that dangles you over the side), X-Scream (a teeter-totter that tips you over the tower's edge), and SkyJump, a controlled free-fall descent for those who want the adrenaline hit without a rollercoaster. Even if you skip the rides, the observation deck alone is worth the trip — bring a jacket, because it's genuinely windy up there even on warm Vegas nights. Interior viewing areas have floor-to-ceiling glass if the wind or heat gets to be too much.
+The main draw is simply the 360-degree observation deck, but the tower is also known for four thrill rides perched at the edge of the structure: Big Shot (a launch straight up the spire), Insanity (a spinning arm that dangles you over the side), X-Scream (a teeter-totter that tips you over the tower's edge), and SkyJump, a controlled free-fall descent for those who want the adrenaline hit without a rollercoaster.
+
+Even if you skip the rides, the observation deck alone is worth the trip — bring a jacket, because it's genuinely windy up there even on warm Vegas nights. Interior viewing areas have floor-to-ceiling glass if the wind or heat gets to be too much.
 
 ## When to go
 
-Sunset is the sweet spot: you get the daytime mountain views, then watch the Strip's lights switch on beneath you as the sky fades. Arriving 30–45 minutes before actual sunset gives you time to walk the full deck before dark. Weekday afternoons tend to be the calmest window overall, since most tourists cluster their Strip sightseeing around evenings and weekends. Because this attraction sits off the main tourist gauntlet, you generally won't face the kind of crowd crush you'd get at, say, the High Roller — it's a genuinely quieter option even during peak Vegas travel seasons like New Year's or major conventions.
+Sunset is the sweet spot: you get the daytime mountain views, then watch the Strip's lights switch on beneath you as the sky fades. Arriving 30–45 minutes before actual sunset gives you time to walk the full deck before dark. Weekday afternoons tend to be the calmest window overall, since most tourists cluster their Strip sightseeing around evenings and weekends.
+
+Because this attraction sits off the main tourist gauntlet, you generally won't face the kind of crowd crush you'd get at, say, the High Roller — it's a genuinely quieter option even during peak Vegas travel seasons like New Year's or major conventions.
 
 ## How to visit like a local
 
-Buy tickets online in advance rather than at the counter — it's faster and occasionally cheaper, though confirm current pricing on the official site since it shifts with season and promotions. Elevators and entry lines move quickest in the early-to-mid afternoon before the dinner crowd arrives, so if your schedule allows, ride up first, grab a drink at the top, and let the light change around you rather than rushing through. Payment for tickets, food, and ride add-ons is almost universally by card or mobile pay — cash is rarely necessary anywhere in the tower. There's no tipping expectation for staff running the observation deck itself, though the standard nightlife/bar tipping norms apply if you visit the lounge up top. The most common visitor mistake here is treating the SkyPod as a five-minute photo stop and rushing back down — the deck rewards a slow, full loop, and the thrill rides (if you're doing any) have their own separate queues, so budget extra time if you want to ride rather than just view. Because it's not yet swamped by tour groups the way some Strip landmarks are, you can usually find a clear spot at the railing without much jostling, even at prime sunset time.
+Buy tickets online in advance rather than at the counter — it's faster and occasionally cheaper, though confirm current pricing on the official site since it shifts with season and promotions. Elevators and entry lines move quickest in the early-to-mid afternoon before the dinner crowd arrives, so if your schedule allows, ride up first, grab a drink at the top, and let the light change around you rather than rushing through.
+
+Payment for tickets, food, and ride add-ons is almost universally by card or mobile pay — cash is rarely necessary anywhere in the tower. There's no tipping expectation for staff running the observation deck itself, though the standard nightlife/bar tipping norms apply if you visit the lounge up top. The most common visitor mistake here is treating the SkyPod as a five-minute photo stop and rushing back down — the deck rewards a slow, full loop, and the thrill rides (if you're doing any) have their own separate queues, so budget extra time if you want to ride rather than just view.
+
+Because it's not yet swamped by tour groups the way some Strip landmarks are, you can usually find a clear spot at the railing without much jostling, even at prime sunset time.
 
 ## Nearby to pair with your visit
 

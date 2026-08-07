@@ -66,11 +66,15 @@ You arrive expecting a garden and instead get a small jungle. La Concepción sit
 
 ## Why it's worth the detour
 
-Most visitors to Málaga stick to the old town, the Alcazaba, and the beach promenade, so La Concepción rewards anyone willing to go a little further out. It isn't a secret — with well over 14,000 reviews and a rating that consistently sits above 4.5, it's firmly on the radar for both tourists and garden enthusiasts — but the crowds thin out considerably once you're inside, because the grounds are big enough to absorb people. You'll walk beneath a canopy of Australian araucarias, pass ponds thick with papyrus and lotus, and climb toward a mirador with a genuinely wide view back over the city and the port.
+Most visitors to Málaga stick to the old town, the Alcazaba, and the beach promenade, so La Concepción rewards anyone willing to go a little further out. It isn't a secret — with well over 14,000 reviews and a rating that consistently sits above 4.5, it's firmly on the radar for both tourists and garden enthusiasts — but the crowds thin out considerably once you're inside, because the grounds are big enough to absorb people.
+
+You'll walk beneath a canopy of Australian araucarias, pass ponds thick with papyrus and lotus, and climb toward a mirador with a genuinely wide view back over the city and the port.
 
 ## Getting there
 
-The garden sits at Camino del Jardín Botánico, 3, in the Ciudad Jardín district, about 4km north of Málaga's historic centre — too far to walk comfortably in the heat, so most people arrive by car, taxi, or the local bus routes that run from the city centre toward Ciudad Jardín (ask your hotel or check the current EMT Málaga routes, since numbers shift). There's an on-site car park, which fills up on weekend mornings in high season. If you're combining it with other sights, it doesn't sit near the cathedral or Alcazaba cluster, so treat it as its own half-day trip rather than an add-on.
+The garden sits at Camino del Jardín Botánico, 3, in the Ciudad Jardín district, about 4km north of Málaga's historic centre — too far to walk comfortably in the heat, so most people arrive by car, taxi, or the local bus routes that run from the city centre toward Ciudad Jardín (ask your hotel or check the current EMT Málaga routes, since numbers shift).
+
+There's an on-site car park, which fills up on weekend mornings in high season. If you're combining it with other sights, it doesn't sit near the cathedral or Alcazaba cluster, so treat it as its own half-day trip rather than an add-on.
 
 ## What to see once inside
 
@@ -78,8 +82,14 @@ Give yourself at least two hours, ideally closer to three. The paths are laid ou
 
 ## When to go
 
-Málaga's midsummer heat (June through September) turns the lower paths humid and the open miradors brutal by early afternoon, so spring and autumn mornings are the more comfortable window. In terms of crowd patterns, weekdays are consistently calmer than weekends, and if you're flexible on timing, aiming for the early morning or later in the afternoon tends to be quieter — though you'll need to confirm current opening and closing hours before planning around it, since hours can shift seasonally. Weekends tend to draw larger crowds throughout the day, so if you're set on visiting Saturday or Sunday, arrive right at opening instead.
+Málaga's midsummer heat (June through September) turns the lower paths humid and the open miradors brutal by early afternoon, so spring and autumn mornings are the more comfortable window. In terms of crowd patterns, weekdays are consistently calmer than weekends, and if you're flexible on timing, aiming for the early morning or later in the afternoon tends to be quieter — though you'll need to confirm current opening and closing hours before planning around it, since hours can shift seasonally.
+
+Weekends tend to draw larger crowds throughout the day, so if you're set on visiting Saturday or Sunday, arrive right at opening instead.
 
 ## How to visit like a local
 
-Locals and repeat visitors tend to treat La Concepción as a slow morning outing rather than a quick photo stop — arrive close to opening, walk the full loop before the heat builds, and save the mirador for last so you're rewarded with the view rather than rushing past it. Tickets are sold at the entrance and online; buying ahead online is worth it on weekends when the ticket line can back up, though tapping a card or phone at the gate is standard if you haven't. There's no tipping culture here — it's a municipal garden, not a restaurant — but do bring water, since shaded as it is, the humidity adds up over a two-hour walk. The mistake most first-timers make is treating it as a one-hour stop between other sights; the garden is large enough that rushing it means missing the bamboo tunnel or the Historic Garden entirely. Because it draws a very steady stream of visitors year-round, don't expect solitude — the way to "beat" the crowd here isn't finding a quiet corner but choosing a quiet hour, and a weekday morning or early evening is your best bet.
+Locals and repeat visitors tend to treat La Concepción as a slow morning outing rather than a quick photo stop — arrive close to opening, walk the full loop before the heat builds, and save the mirador for last so you're rewarded with the view rather than rushing past it. Tickets are sold at the entrance and online; buying ahead online is worth it on weekends when the ticket line can back up, though tapping a card or phone at the gate is standard if you haven't.
+
+There's no tipping culture here — it's a municipal garden, not a restaurant — but do bring water, since shaded as it is, the humidity adds up over a two-hour walk. The mistake most first-timers make is treating it as a one-hour stop between other sights; the garden is large enough that rushing it means missing the bamboo tunnel or the Historic Garden entirely.
+
+Because it draws a very steady stream of visitors year-round, don't expect solitude — the way to "beat" the crowd here isn't finding a quiet corner but choosing a quiet hour, and a weekday morning or early evening is your best bet.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: gyeongju-history
-srcHash: 4cbc68142db0
+srcHash: 'e1a35c051659'
 title: 경주 역사 여행
 description: '경주에서 온전히 이틀을 보내보세요: 하루는 시내 중심가의 대릉원/첨성대/월지 코스, 하루는 동쪽 산자락의 불국사와 석굴암을 위한 시간으로.'
 quickAnswer: '경주에서 온전히 이틀을 보내보세요: 하루는 시내 중심가의 대릉원(Tumuli Park)/첨성대(Cheomseongdae)/월지(Wolji Pond) 코스, 하루는 동쪽 산자락의 불국사(Bulguksa Temple)와 석굴암(Seokguram Grotto)을 위한 시간으로 말이죠. 도보 이동이 편한 황리단길(Hwangnidan-gil) 인근에 숙소를 잡고, 평지로 이루어진 시내 고분 지역은 자전거를 대여해 둘러보며, 불국사 쪽으로 갈 때는 택시나 10/11/12번 버스 노선을 이용할 것을 예산에 넣어두세요.'

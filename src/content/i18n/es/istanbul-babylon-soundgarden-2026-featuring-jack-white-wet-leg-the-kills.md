@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: 938f97aa0e09
+srcHash: '529cffff8539'
 title: 'Babylon Soundgarden 2026 con Jack White, Wet Leg y The Kills: lo que hay que saber (Estambul)'
 description: Babylon Soundgarden 2026 se celebrará los días 22 y 23 de agosto de 2026 en el Parkorman Nature Park, en la zona de Maslak/Sarıyer de Estambul, con Jack White, Wet Leg y The Kills entre los cabezas de cartel anunciados.
 quickAnswer: 'Babylon Soundgarden 2026 se celebrará los días 22 y 23 de agosto de 2026 en el Parkorman Nature Park, en la zona de Maslak/Sarıyer de Estambul, con Jack White, Wet Leg y The Kills entre los cabezas de cartel anunciados. Piénsalo como un festival al aire libre de dos días: prepárate para un recinto en un parque boscoso en el lado europeo, con fácil acceso en taxi o rideshare desde Levent y Maslak, y confirma los horarios finales, los escenarios y las categorías de entradas en los canales oficiales de Babylon a medida que se acerque la fecha.'
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Babylon lleva más de dos décadas siendo el nombre más respetado de Estambul en música en vivo con curaduría propia, y su festival anual Soundgarden es lo más parecido que tiene la ciudad a un festival internacional de rock/alternativo de tipo boutique. La edición de 2026 es un verdadero atractivo por sus artistas internacionales en gira: Jack White (conocido por The White Stripes), el aclamado dúo británico Wet Leg y los veteranos del garage rock The Kills encabezan un cartel con una fuerte inclinación hacia el indie, el garage y el rock alternativo, en lugar del pop mainstream o el EDM. Para quienes ya planean un viaje a Turquía a finales de agosto, es una oportunidad poco común de ver artistas de este calibre en un entorno de parque al aire libre en lugar de en un estadio.
+Babylon lleva más de dos décadas siendo el nombre más respetado de Estambul en música en vivo con curaduría propia, y su festival anual Soundgarden es lo más parecido que tiene la ciudad a un festival internacional de rock/alternativo de tipo boutique. La edición de 2026 es un verdadero atractivo por sus artistas internacionales en gira: Jack White (conocido por The White Stripes), el aclamado dúo británico Wet Leg y los veteranos del garage rock The Kills encabezan un cartel con una fuerte inclinación hacia el indie, el garage y el rock alternativo, en lugar del pop mainstream o el EDM.
+
+Para quienes ya planean un viaje a Turquía a finales de agosto, es una oportunidad poco común de ver artistas de este calibre en un entorno de parque al aire libre en lugar de en un estadio.
 
 ## Cómo llegar
 
@@ -41,7 +43,9 @@ Soundgarden tradicionalmente se desarrolla en varios escenarios a lo largo de un
 
 ## Entradas, fechas y qué confirmar
 
-Las fechas anunciadas son el **22 y 23 de agosto de 2026**, pero, como ocurre con cualquier festival anunciado con tanta antelación, **el orden del cartel, los horarios de las actuaciones, los pases de un día frente a los de dos días, y el precio final de las entradas deben verificarse directamente en el sitio web oficial de Babylon o en su socio de venta de entradas (habitualmente Biletix en Turquía)** antes de reservar vuelos u hoteles. Los carteles iniciales a veces cambian, y los complementos VIP o de camping (si se ofrecen) suelen anunciarse por fases.
+Las fechas anunciadas son el **22 y 23 de agosto de 2026**, pero, como ocurre con cualquier festival anunciado con tanta antelación, **el orden del cartel, los horarios de las actuaciones, los pases de un día frente a los de dos días, y el precio final de las entradas deben verificarse directamente en el sitio web oficial de Babylon o en su socio de venta de entradas (habitualmente Biletix en Turquía)** antes de reservar vuelos u hoteles.
+
+Los carteles iniciales a veces cambian, y los complementos VIP o de camping (si se ofrecen) suelen anunciarse por fases.
 
 ## Alrededores y consejos
 

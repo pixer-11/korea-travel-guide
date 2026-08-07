@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-tokyo-and-osaka-summer-sonic-2026
-srcHash: e4f2c11e6e86
+srcHash: 'e4f2c11e6e86'
 title: 'Summer Sonic 2026: lo que hay que saber (Tokio y Osaka)'
 description: Summer Sonic 2026 se celebra del 14 al 16 de agosto de 2026, simultáneamente en Chiba (área de Tokio) y Osaka, y marca el 25.º aniversario del festival y su primer formato de tres días.
 quickAnswer: Summer Sonic 2026 se celebra del 14 al 16 de agosto de 2026, simultáneamente en Chiba (área de Tokio) y Osaka, y marca el 25.º aniversario del festival y su primer formato de tres días. Entre los cabezas de cartel anunciados hasta ahora están The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa y LE SSERAFIM. Confirma los horarios exactos de los escenarios, la distribución del recinto y las categorías de entradas en el sitio oficial de Summer Sonic antes de reservar vuelos u hoteles.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Summer Sonic es el festival de rock de doble ciudad más grande de Japón, que se celebra el mismo fin de semana en Chiba (a orillas de la bahía de Tokio) y en Osaka, con muchos artistas que se trasladan de una ciudad a otra para tocar en ambas. La edición de 2026 es un hito: su 25.º aniversario y, por primera vez en su historia, un formato completo de tres días (del 14 al 16 de agosto de 2026) en lugar del tradicional formato de dos días. El cartel anunciado hasta ahora abarca géneros de una forma que pocos festivales logran: The Strokes y Jamiroquai para el público del indie/funk, FKA Twigs para el sector alt-electrónico, L'Arc-en-Ciel representando a las leyendas del visual-kei/J-rock que ayudaron a definir el rock japonés en el extranjero, y los pesos pesados del K-pop aespa y LE SSERAFIM. Esa amplitud es el sello del festival: metal, hip-hop, city pop y pop de estadio compartiendo el mismo fin de semana.
+Summer Sonic es el festival de rock de doble ciudad más grande de Japón, que se celebra el mismo fin de semana en Chiba (a orillas de la bahía de Tokio) y en Osaka, con muchos artistas que se trasladan de una ciudad a otra para tocar en ambas. La edición de 2026 es un hito: su 25.º aniversario y, por primera vez en su historia, un formato completo de tres días (del 14 al 16 de agosto de 2026) en lugar del tradicional formato de dos días.
+
+El cartel anunciado hasta ahora abarca géneros de una forma que pocos festivales logran: The Strokes y Jamiroquai para el público del indie/funk, FKA Twigs para el sector alt-electrónico, L'Arc-en-Ciel representando a las leyendas del visual-kei/J-rock que ayudaron a definir el rock japonés en el extranjero, y los pesos pesados del K-pop aespa y LE SSERAFIM. Esa amplitud es el sello del festival: metal, hip-hop, city pop y pop de estadio compartiendo el mismo fin de semana.
 
 ## Cómo llegar
 
-La sede de Chiba se centra en el **estadio Zozo Marine (Zozo Marine Stadium)** y los salones adyacentes del centro de convenciones **Makuhari Messe**, en el distrito de Makuhari. Se llega a Makuhari por la línea JR Keiyo hasta la **estación Kaihin-Makuhari (Kaihin-Makuhari Station)**, a unos 30–40 minutos del centro de Tokio (estación de Tokio, Tokyo Station), con autobuses lanzadera o una ruta caminable hasta el recinto según el escenario al que te dirijas. Si llegas en avión, el aeropuerto de Narita está más cerca de Chiba que el de Haneda, algo a tener en cuenta al planificar la llegada si vas a asistir a las fechas de Chiba.
+La sede de Chiba se centra en el **estadio Zozo Marine (Zozo Marine Stadium)** y los salones adyacentes del centro de convenciones **Makuhari Messe**, en el distrito de Makuhari. Se llega a Makuhari por la línea JR Keiyo hasta la **estación Kaihin-Makuhari (Kaihin-Makuhari Station)**, a unos 30–40 minutos del centro de Tokio (estación de Tokio, Tokyo Station), con autobuses lanzadera o una ruta caminable hasta el recinto según el escenario al que te dirijas.
+
+Si llegas en avión, el aeropuerto de Narita está más cerca de Chiba que el de Haneda, algo a tener en cuenta al planificar la llegada si vas a asistir a las fechas de Chiba.
 
 La sede de Osaka ha utilizado históricamente recintos en la zona de la bahía de Maishima o terrenos afiliados a ZOZO fuera del centro de la ciudad; consulta el sitio oficial para conocer el recinto confirmado de Osaka en 2026, ya que Summer Sonic ha cambiado de ubicación en Osaka en el pasado. Si viajas en avión hasta Osaka, el aeropuerto internacional de Kansai (Kansai International Airport) conecta con la ciudad mediante el expreso JR Haruka o las líneas Nankai.
 
@@ -32,13 +36,17 @@ Al tratarse de un festival de dos ciudades, decide con antelación si asistirás
 
 ## Qué esperar en el recinto
 
-Espera múltiples escenarios, tanto al aire libre como cubiertos, funcionando al mismo tiempo: el estadio Zozo Marine acoge las grandes actuaciones principales, mientras que los salones de Makuhari Messe albergan escenarios adicionales, a menudo con más sombra y aire acondicionado, algo importante dada la humedad de mediados de agosto. Las zonas de comida suelen combinar clásicos del festival (yakisoba, karaage, puestos de cerveza) con vendedores internacionales. Dado el tamaño del recinto, ten en cuenta distancias reales a pie entre escenarios y reserva tiempo de traslado en lugar de intentar ver actuaciones consecutivas en extremos opuestos del recinto.
+Espera múltiples escenarios, tanto al aire libre como cubiertos, funcionando al mismo tiempo: el estadio Zozo Marine acoge las grandes actuaciones principales, mientras que los salones de Makuhari Messe albergan escenarios adicionales, a menudo con más sombra y aire acondicionado, algo importante dada la humedad de mediados de agosto. Las zonas de comida suelen combinar clásicos del festival (yakisoba, karaage, puestos de cerveza) con vendedores internacionales.
+
+Dado el tamaño del recinto, ten en cuenta distancias reales a pie entre escenarios y reserva tiempo de traslado en lugar de intentar ver actuaciones consecutivas en extremos opuestos del recinto.
 
 Lleva tapones para los oídos si vas a estar cerca del escenario en las actuaciones de rock más fuertes, y ten en cuenta que habrá revisión de bolsos y las medidas de seguridad habituales en las puertas de entrada.
 
 ## Cuándo ir
 
-Del 14 al 16 de agosto de 2026 se cubren los tres días, pero la división del cartel de Summer Sonic día por día hace que valga la pena comprobar qué artistas tocan en qué fecha antes de elegir entradas de un solo día: los cabezas de cartel suelen repartirse a lo largo del fin de semana en lugar de aparecer todos la misma noche. A mediados de agosto, tanto Chiba como Osaka tienen un clima cálido y húmedo, a menudo entre 30 y 35 °C, por lo que las mañanas y primeras horas de la tarde son más llevaderas para moverse entre escenarios; guarda energía para las actuaciones principales de la noche, cuando las temperaturas bajan ligeramente.
+Del 14 al 16 de agosto de 2026 se cubren los tres días, pero la división del cartel de Summer Sonic día por día hace que valga la pena comprobar qué artistas tocan en qué fecha antes de elegir entradas de un solo día: los cabezas de cartel suelen repartirse a lo largo del fin de semana en lugar de aparecer todos la misma noche.
+
+A mediados de agosto, tanto Chiba como Osaka tienen un clima cálido y húmedo, a menudo entre 30 y 35 °C, por lo que las mañanas y primeras horas de la tarde son más llevaderas para moverse entre escenarios; guarda energía para las actuaciones principales de la noche, cuando las temperaturas bajan ligeramente.
 
 ## Alrededores y consejos
 

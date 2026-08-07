@@ -58,15 +58,21 @@ draft: false
 
 ## Why this bar, and not another one
 
-Rome has no shortage of corner bars pulling espresso, but Sant' Eustachio has been doing it since 1938, and the difference shows the moment you step through the door. The espresso here is famously dense — almost syrupy — with a thick, persistent crema that sits on top like caramel. The house claims the beans are roasted on an old wood-fired roaster still visible through a window at the back, and that the water used is drawn from a source linked to the ancient Vergine aqueduct, the same underground channel that has fed fountains in this part of Rome since Roman times. Whether or not you can taste the aqueduct, you can absolutely taste the roast: darker, rounder, less acidic than the average bar shot.
+Rome has no shortage of corner bars pulling espresso, but Sant' Eustachio has been doing it since 1938, and the difference shows the moment you step through the door. The espresso here is famously dense — almost syrupy — with a thick, persistent crema that sits on top like caramel. The house claims the beans are roasted on an old wood-fired roaster still visible through a window at the back, and that the water used is drawn from a source linked to the ancient Vergine aqueduct, the same underground channel that has fed fountains in this part of Rome since Roman times.
+
+Whether or not you can taste the aqueduct, you can absolutely taste the roast: darker, rounder, less acidic than the average bar shot.
 
 ## Getting there
 
-The address is Piazza di Sant'Eustachio, 82, tucked into the tight grid of streets between the Pantheon and Piazza Navona — arguably the densest concentration of must-sees in the historic center. There's no metro station nearby (this part of Rome predates the subway by a couple thousand years), so you'll arrive on foot. From the Pantheon, walk two minutes southwest along Via della Palombella and Via degli Staderari; from Piazza Navona, cut east through Corsia Agonale and past Sant'Ivo alla Sapienza. Buses along Corso del Rinascimento or Corso Vittorio Emanuele II are the closest public transport if you're coming from further out.
+The address is Piazza di Sant'Eustachio, 82, tucked into the tight grid of streets between the Pantheon and Piazza Navona — arguably the densest concentration of must-sees in the historic center. There's no metro station nearby (this part of Rome predates the subway by a couple thousand years), so you'll arrive on foot. From the Pantheon, walk two minutes southwest along Via della Palombella and Via degli Staderari; from Piazza Navona, cut east through Corsia Agonale and past Sant'Ivo alla Sapienza.
+
+Buses along Corso del Rinascimento or Corso Vittorio Emanuele II are the closest public transport if you're coming from further out.
 
 ## What to order
 
-The signature is the "gran caffè speciale" — a sweetened espresso the barista whips with sugar and a little of the coffee itself before pulling the shot, so the sugar isn't just stirred in but emulsified into a light foam. It's rich and takes the edge off any bitterness, which is presumably why so many regulars order it without knowing to ask for it any other way. If you want it unsweetened, say so clearly, because default here is sweet. Beyond espresso, there's cappuccino, granita di caffè in warmer months, and coffee beans and chocolates sold at a separate counter if you want to take the roast home. Don't expect a long food menu — this is a coffee bar, not a café for lingering over lunch.
+The signature is the "gran caffè speciale" — a sweetened espresso the barista whips with sugar and a little of the coffee itself before pulling the shot, so the sugar isn't just stirred in but emulsified into a light foam. It's rich and takes the edge off any bitterness, which is presumably why so many regulars order it without knowing to ask for it any other way.
+
+If you want it unsweetened, say so clearly, because default here is sweet. Beyond espresso, there's cappuccino, granita di caffè in warmer months, and coffee beans and chocolates sold at a separate counter if you want to take the roast home. Don't expect a long food menu — this is a coffee bar, not a café for lingering over lunch.
 
 ## The room itself
 
@@ -78,4 +84,8 @@ With a 4.1 rating across nearly 13,000 reviews, this is a well-known stop on the
 
 ## How to visit like a local
 
-Walk in, go straight to the register (often just inside the door or to one side), and pay first — cash and card are both accepted, but exact change speeds things up. Take your receipt ("scontrino") to the bar and either place it on the counter or hand it to the barista while stating your order clearly: "un caffè" for a standard espresso, "un caffè speciale" if you want the sweetened version, "senza zucchero" if you don't. There's no tipping expectation for a quick espresso at the bar; a few coins in the tip dish is a nice gesture, not an obligation. Drink standing up, drink it fast, and don't linger at the counter chatting once you've finished — that's not how the space works, and with the volume of visitors this bar sees, moving along promptly is simply good etiquette. The mistake most first-timers make is sitting down expecting table service without realizing it costs more, or lingering at the bar as if it's a café for working on a laptop — it isn't built for that, and locals passing through for a two-minute jolt of caffeine will be waiting behind you.
+Walk in, go straight to the register (often just inside the door or to one side), and pay first — cash and card are both accepted, but exact change speeds things up. Take your receipt ("scontrino") to the bar and either place it on the counter or hand it to the barista while stating your order clearly: "un caffè" for a standard espresso, "un caffè speciale" if you want the sweetened version, "senza zucchero" if you don't.
+
+There's no tipping expectation for a quick espresso at the bar; a few coins in the tip dish is a nice gesture, not an obligation. Drink standing up, drink it fast, and don't linger at the counter chatting once you've finished — that's not how the space works, and with the volume of visitors this bar sees, moving along promptly is simply good etiquette.
+
+The mistake most first-timers make is sitting down expecting table service without realizing it costs more, or lingering at the bar as if it's a café for working on a laptop — it isn't built for that, and locals passing through for a two-minute jolt of caffeine will be waiting behind you.

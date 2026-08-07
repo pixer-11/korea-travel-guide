@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: madrid-osa
-srcHash: '53e4ace86a54'
+srcHash: 'aecc9e4c74eb'
 title: 'OSA: Dónde comer en Madrid'
 description: 'OSA en Madrid, España — un local nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: OSA es el restaurante madrileño que los chefs Jorge Muñoz y Sara Peral abrieron tras años en Mugaritz, y hoy es una de las mesas más difíciles y comentadas de conseguir en la ciudad. Reserva con toda la antelación que permita el sistema del restaurante y confirma de nuevo tu reserva y el horario vigente directamente con OSA antes de ir, ya que la demanda y los horarios cambian rápido en un restaurante tan solicitado.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué OSA importa ahora mismo
 
-Pregúntale a cualquiera que haya seguido la escena gastronómica de Madrid en los últimos años cuál fue la apertura que realmente cambió la conversación, y OSA sale a relucir enseguida. Jorge Muñoz y Sara Peral se formaron ambos en Mugaritz, el templo vasco de la experimentación culinaria a las afueras de San Sebastián, y cuando montaron su propia cocina en la capital, las expectativas ya eran altas. Lo que vino después no fue un crecimiento tranquilo y gradual: OSA llegó como uno de los auténticos restaurantes de moda de la ciudad, de esos de los que se habla en la barra de otros restaurantes.
+Pregúntale a cualquiera que haya seguido la escena gastronómica de Madrid en los últimos años cuál fue la apertura que realmente cambió la conversación, y OSA sale a relucir enseguida. Jorge Muñoz y Sara Peral se formaron ambos en Mugaritz, el templo vasco de la experimentación culinaria a las afueras de San Sebastián, y cuando montaron su propia cocina en la capital, las expectativas ya eran altas.
+
+Lo que vino después no fue un crecimiento tranquilo y gradual: OSA llegó como uno de los auténticos restaurantes de moda de la ciudad, de esos de los que se habla en la barra de otros restaurantes.
 
 Esa trayectoria importa porque anticipa el espíritu de lo que te vas a encontrar, incluso antes de sentarte a la mesa: una cocina moldeada por una filosofía que empuja los ingredientes y las técnicas españolas hacia territorios inesperados, en lugar de repetir la comodidad de un bar de tapas. Se va a OSA no por un plato rápido y una caña, sino por una comida meditada y de autor.
 
@@ -30,14 +32,22 @@ OSA se encuentra en pleno Madrid y, como la mayoría de los restaurantes de refe
 
 ## Qué esperar en la mesa
 
-No vayas con la idea de un guion fijo y conocido. Los restaurantes con personal formado en Mugaritz suelen construir experiencias tipo menú degustación en las que la propia secuencia de platos forma parte de la narrativa, un despliegue pausado en lugar de una carta impresa de la que se pide directamente. Espera que la cocina se apoye en producto español de temporada tratado con técnicas propias de esa escuela más experimental, que interroga el ingrediente. Más allá de eso, resiste la tentación de buscar una carta filtrada en internet y fijar expectativas: los locales de autor como este cambian los platos según la temporada y el mercado, y anclarse a detalles concretos antes incluso de confirmar la fecha de tu mesa es una buena forma de llevarse un chasco cuando los platos que tienes delante ya no coinciden con un menú que ha evolucionado desde entonces.
+No vayas con la idea de un guion fijo y conocido. Los restaurantes con personal formado en Mugaritz suelen construir experiencias tipo menú degustación en las que la propia secuencia de platos forma parte de la narrativa, un despliegue pausado en lugar de una carta impresa de la que se pide directamente. Espera que la cocina se apoye en producto español de temporada tratado con técnicas propias de esa escuela más experimental, que interroga el ingrediente.
+
+Más allá de eso, resiste la tentación de buscar una carta filtrada en internet y fijar expectativas: los locales de autor como este cambian los platos según la temporada y el mercado, y anclarse a detalles concretos antes incluso de confirmar la fecha de tu mesa es una buena forma de llevarse un chasco cuando los platos que tienes delante ya no coinciden con un menú que ha evolucionado desde entonces.
 
 ## Reservas y horarios
 
-Este es el dato práctico más importante sobre OSA: es realmente difícil conseguir mesa. Un restaurante fundado por dos veteranos de Mugaritz que se convirtió de inmediato en una de las aperturas más comentadas de la ciudad no tiene mesas vacías esperando. En el momento en que tengas las fechas de tu viaje a Madrid, ese es el momento de empezar a intentar reservar, no la semana antes. Los sistemas de reserva de restaurantes de moda como este suelen abrir ventanas con semanas o meses de antelación y se llenan en cuestión de días, así que consulta la propia web de OSA o su plataforma de reservas tan pronto como puedas dentro de la planificación de tu viaje, y sé flexible con la noche que consigas si el calendario está muy ajustado.
+Este es el dato práctico más importante sobre OSA: es realmente difícil conseguir mesa. Un restaurante fundado por dos veteranos de Mugaritz que se convirtió de inmediato en una de las aperturas más comentadas de la ciudad no tiene mesas vacías esperando. En el momento en que tengas las fechas de tu viaje a Madrid, ese es el momento de empezar a intentar reservar, no la semana antes.
+
+Los sistemas de reserva de restaurantes de moda como este suelen abrir ventanas con semanas o meses de antelación y se llenan en cuestión de días, así que consulta la propia web de OSA o su plataforma de reservas tan pronto como puedas dentro de la planificación de tu viaje, y sé flexible con la noche que consigas si el calendario está muy ajustado.
 
 Antes de cerrar cualquier plan en torno a OSA, confirma directamente con ellos los días y horarios de apertura vigentes: los horarios de un restaurante joven y en plena evolución pueden cambiar a medida que la cocina asienta su ritmo, y nada arruina una noche más rápido que presentarse a un servicio que ha cambiado.
 
 ## Cómo visitarlo como un local
 
-Los madrileños que persiguen las mejores aperturas de la ciudad no esperan a que aparezca una mesa por arte de magia: reservan en el instante en que se abren las reservas y tratan esa fecha en el calendario como una cita ineludible. Haz lo mismo: pon una alarma para el momento en que se libere la ventana de reservas de OSA, en lugar de llamar uno o dos días antes. Cuando llegues, ten en cuenta que los restaurantes de menú degustación en Madrid suelen tener un ritmo pausado y sin prisas; esto no es un sitio para pasar rápido antes de un espectáculo a las 11 de la noche, así que reserva toda la velada en lugar de encajarla entre otros planes. El pago en este tipo de restaurantes es prácticamente siempre con tarjeta, y las convenciones de propina en España hacen que una gran propina adicional no sea obligatoria: redondear la cuenta o dejar una cantidad modesta extra por un servicio realmente excelente es la norma, no el 20% al estilo estadounidense. El error que más comete el visitante con restaurantes tan demandados como OSA es asumir que una gran reseña implica que se puede entrar sin reserva; aquí, esa suposición probablemente te deje fuera, con el local lleno. Confirma y luego comprométete.
+Los madrileños que persiguen las mejores aperturas de la ciudad no esperan a que aparezca una mesa por arte de magia: reservan en el instante en que se abren las reservas y tratan esa fecha en el calendario como una cita ineludible. Haz lo mismo: pon una alarma para el momento en que se libere la ventana de reservas de OSA, en lugar de llamar uno o dos días antes.
+
+Cuando llegues, ten en cuenta que los restaurantes de menú degustación en Madrid suelen tener un ritmo pausado y sin prisas; esto no es un sitio para pasar rápido antes de un espectáculo a las 11 de la noche, así que reserva toda la velada en lugar de encajarla entre otros planes. El pago en este tipo de restaurantes es prácticamente siempre con tarjeta, y las convenciones de propina en España hacen que una gran propina adicional no sea obligatoria: redondear la cuenta o dejar una cantidad modesta extra por un servicio realmente excelente es la norma, no el 20% al estilo estadounidense.
+
+El error que más comete el visitante con restaurantes tan demandados como OSA es asumir que una gran reseña implica que se puede entrar sin reserva; aquí, esa suposición probablemente te deje fuera, con el local lleno. Confirma y luego comprométete.

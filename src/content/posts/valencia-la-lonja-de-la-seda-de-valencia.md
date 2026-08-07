@@ -57,7 +57,9 @@ draft: false
 
 ## Why go
 
-Long before Valencia had a skyline of Santiago Calatrava's white ribs and glass, it had this: a hulking, honey-colored Gothic building where merchants once traded raw silk fresh off boats from Genoa and Byzantium. La Lonja de la Seda ("Silk Exchange") isn't a museum full of roped-off objects — it's an empty, echoing shell of a building, and that emptiness is the point. Walk in and the space itself does the talking: soaring stone, sharp shadows, and a silence that makes you lower your voice without being told to. UNESCO put it on the World Heritage list in 1996, and it remains one of the finest examples of civil Gothic architecture in Europe.
+Long before Valencia had a skyline of Santiago Calatrava's white ribs and glass, it had this: a hulking, honey-colored Gothic building where merchants once traded raw silk fresh off boats from Genoa and Byzantium. La Lonja de la Seda ("Silk Exchange") isn't a museum full of roped-off objects — it's an empty, echoing shell of a building, and that emptiness is the point.
+
+Walk in and the space itself does the talking: soaring stone, sharp shadows, and a silence that makes you lower your voice without being told to. UNESCO put it on the World Heritage list in 1996, and it remains one of the finest examples of civil Gothic architecture in Europe.
 
 ## What to see
 
@@ -71,10 +73,16 @@ The Lonja sits in the heart of Ciutat Vella, directly across the Plaza del Merca
 
 ## When to go
 
-Mornings on weekdays are your best window before tour buses and cruise-excursion groups descend by midday. Because this is one of Valencia's most visited monuments — with a crowd that swells noticeably in peak tourist season (spring and early autumn especially) — arriving right at opening gives you a real shot at having the Sala de Contratación to yourself for a few minutes, which changes the whole experience. Afternoons, especially weekends, mean shuffling past other visitors' phones and tour-guide umbrellas. Rain doesn't matter here since it's mostly indoors, making it a solid wet-weather option.
+Mornings on weekdays are your best window before tour buses and cruise-excursion groups descend by midday. Because this is one of Valencia's most visited monuments — with a crowd that swells noticeably in peak tourist season (spring and early autumn especially) — arriving right at opening gives you a real shot at having the Sala de Contratación to yourself for a few minutes, which changes the whole experience.
+
+Afternoons, especially weekends, mean shuffling past other visitors' phones and tour-guide umbrellas. Rain doesn't matter here since it's mostly indoors, making it a solid wet-weather option.
 
 ## How to visit like a local
 
-Buy your ticket online in advance if it's offered, or check whether the Valencia Tourist Card / combined monument passes cover entry — this saves you standing in the small queue that forms at the door once groups arrive. Entry is typically low-cost and card machines are standard at the ticket desk, though it's always sensible to carry a little cash as backup for smaller sights nearby. There's no tipping culture at Spanish monuments like this — don't feel obligated. The building's official name in Valencian is "Llotja de la Seda," and you'll see it written that way on street signs and some tickets, so don't be thrown off if the map calls it something slightly different than the entrance sign.
+Buy your ticket online in advance if it's offered, or check whether the Valencia Tourist Card / combined monument passes cover entry — this saves you standing in the small queue that forms at the door once groups arrive. Entry is typically low-cost and card machines are standard at the ticket desk, though it's always sensible to carry a little cash as backup for smaller sights nearby.
 
-The mistake most first-time visitors make is treating this as a five-minute photo-op on the way to the Mercado Central next door — they snap the courtyard and the twisted columns and leave. Slow down instead: sit on the stone bench in the orange courtyard for a minute, read the small info panels in the Consulado del Mar, and look up at the ceiling bosses, which are carved with individual coats of arms. Because this is a genuinely popular, well-trodden monument rather than a quiet local secret, the real win is timing your visit for the calm hour after opening rather than expecting to have it to yourself all day. Pair the visit naturally with the Mercado Central right across the square — go to the Lonja first, then reward yourself with fresh horchata or a market breakfast once the crowds outside have thinned too.
+There's no tipping culture at Spanish monuments like this — don't feel obligated. The building's official name in Valencian is "Llotja de la Seda," and you'll see it written that way on street signs and some tickets, so don't be thrown off if the map calls it something slightly different than the entrance sign.
+
+The mistake most first-time visitors make is treating this as a five-minute photo-op on the way to the Mercado Central next door — they snap the courtyard and the twisted columns and leave. Slow down instead: sit on the stone bench in the orange courtyard for a minute, read the small info panels in the Consulado del Mar, and look up at the ceiling bosses, which are carved with individual coats of arms.
+
+Because this is a genuinely popular, well-trodden monument rather than a quiet local secret, the real win is timing your visit for the calm hour after opening rather than expecting to have it to yourself all day. Pair the visit naturally with the Mercado Central right across the square — go to the Lonja first, then reward yourself with fresh horchata or a market breakfast once the crowds outside have thinned too.

@@ -75,7 +75,9 @@ The facade is deceptively plain: brick, Romanesque in bone structure, reworked o
 
 ## Why this basilica matters
 
-Saint Dominic, founder of the Dominican order, died in Bologna in 1221, and his remains rest here in the Arca di San Domenico, the tomb-shrine that is the reason art historians make the detour. It's a genuinely collaborative Renaissance project: Nicola Pisano designed the base in the 1260s, Nicolò dell'Arca added the upper sculptural crown in the 1470s (his name literally comes from this commission), and a young Michelangelo — barely 20 years old, freshly arrived in Bologna — carved three of the figures around 1494, including a kneeling angel holding a candlestick. You can find his angel on the right side of the arca; it's smaller and quieter than his later Roman work, but unmistakably his hand.
+Saint Dominic, founder of the Dominican order, died in Bologna in 1221, and his remains rest here in the Arca di San Domenico, the tomb-shrine that is the reason art historians make the detour. It's a genuinely collaborative Renaissance project: Nicola Pisano designed the base in the 1260s, Nicolò dell'Arca added the upper sculptural crown in the 1470s (his name literally comes from this commission), and a young Michelangelo — barely 20 years old, freshly arrived in Bologna — carved three of the figures around 1494, including a kneeling angel holding a candlestick.
+
+You can find his angel on the right side of the arca; it's smaller and quieter than his later Roman work, but unmistakably his hand.
 
 Beyond the tomb, the church holds a run of side chapels dense with paintings, carved choir stalls with intricate wood inlay in the sacristy area, and a bell tower that has leaned slightly for centuries, one of several tilted towers scattered across Bologna alongside the famous Asinelli and Garisenda.
 
@@ -93,4 +95,6 @@ Foot-traffic patterns here are unusually forgiving: the church stays generally q
 
 ## How to visit like a local
 
-Dress and behave as you would for any working Catholic church — shoulders and knees covered, phones silenced, voices low, especially if a mass is underway. There's no ticket or booking system; you simply walk in through the main entrance on the piazza. Entry is free, so there's no queue to plan around, but do carry a small coin or two for the offering boxes near the chapels, a customary courtesy rather than an obligation. This is a well-known stop on Bologna's art trail, not a secret, so the smart move isn't seeking solitude by luck but by timing — come outside that 4–6pm weekend window and you'll dodge the worst of the crowds entirely. Afterward, take five extra minutes to loop around the piazza itself; the porticoes here are original medieval work, less restored and more atmospheric than the showier ones near the two towers.
+Dress and behave as you would for any working Catholic church — shoulders and knees covered, phones silenced, voices low, especially if a mass is underway. There's no ticket or booking system; you simply walk in through the main entrance on the piazza. Entry is free, so there's no queue to plan around, but do carry a small coin or two for the offering boxes near the chapels, a customary courtesy rather than an obligation.
+
+This is a well-known stop on Bologna's art trail, not a secret, so the smart move isn't seeking solitude by luck but by timing — come outside that 4–6pm weekend window and you'll dodge the worst of the crowds entirely. Afterward, take five extra minutes to loop around the piazza itself; the porticoes here are original medieval work, less restored and more atmospheric than the showier ones near the two towers.

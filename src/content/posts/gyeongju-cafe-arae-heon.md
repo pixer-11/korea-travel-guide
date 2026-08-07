@@ -51,23 +51,35 @@ draft: true
 
 ## Why go
 
-Gyeongju is dotted with hanok cafés riding the recent wave of traditional-meets-modern design, but Cafe Arae Heon has become one of the standouts, holding a striking 4.9-star average across more than 1,400 reviews. The draw isn't just the drinks — it's the setting: a hanok (traditional Korean wooden house) built around big picture windows and courtyard views, designed so every seat feels like it's framing a postcard. In a city built around ancient tombs, temples, and stone pagodas, Arae Heon gives visitors a contemporary, café-culture reason to linger a little longer in the Bulguksa area.
+Gyeongju is dotted with hanok cafés riding the recent wave of traditional-meets-modern design, but Cafe Arae Heon has become one of the standouts, holding a striking 4.9-star average across more than 1,400 reviews. The draw isn't just the drinks — it's the setting: a hanok (traditional Korean wooden house) built around big picture windows and courtyard views, designed so every seat feels like it's framing a postcard.
+
+In a city built around ancient tombs, temples, and stone pagodas, Arae Heon gives visitors a contemporary, café-culture reason to linger a little longer in the Bulguksa area.
 
 ## Getting there
 
-The café sits at 181 Bobul-ro, in the Bulguksa district on Gyeongju's eastern side — the same neighborhood that holds Bulguksa Temple and the trail up to Seokguram Grotto, both UNESCO World Heritage Sites. Most visitors arrive by car or taxi from downtown Gyeongju (roughly a 15–20 minute drive), since this part of the city is spread out and not well served by subway (Gyeongju has no metro system). City buses running toward Bulguksa Temple pass through the general area; if you're relying on public transit, check current bus numbers at your accommodation or the Gyeongju bus terminal information desk, since routes and stop names can shift. Renting a bike or booking a half-day taxi is common for stringing together Bulguksa, Seokguram, and Arae Heon in one loop.
+The café sits at 181 Bobul-ro, in the Bulguksa district on Gyeongju's eastern side — the same neighborhood that holds Bulguksa Temple and the trail up to Seokguram Grotto, both UNESCO World Heritage Sites. Most visitors arrive by car or taxi from downtown Gyeongju (roughly a 15–20 minute drive), since this part of the city is spread out and not well served by subway (Gyeongju has no metro system).
+
+City buses running toward Bulguksa Temple pass through the general area; if you're relying on public transit, check current bus numbers at your accommodation or the Gyeongju bus terminal information desk, since routes and stop names can shift. Renting a bike or booking a half-day taxi is common for stringing together Bulguksa, Seokguram, and Arae Heon in one loop.
 
 ## What to see / eat
 
-The building itself is the main attraction: exposed wooden beams, low-slung eaves, and oversized windows that turn the surrounding hills and garden into a living backdrop. Photographers gravitate toward the window-side seats and any outdoor terrace or courtyard space, especially in the late afternoon when light angles through the hanok structure. On the menu, expect café standards with a Korean twist — look for options built around Gyeongju's local specialty ingredients, alongside espresso drinks, teas, and traditional-style rice cakes or pastries that lean into the hanok aesthetic rather than a generic coffee-shop menu. Portions and exact pricing shift with the season, so treat any menu board as the reference point on the day rather than something to plan around in advance.
+The building itself is the main attraction: exposed wooden beams, low-slung eaves, and oversized windows that turn the surrounding hills and garden into a living backdrop. Photographers gravitate toward the window-side seats and any outdoor terrace or courtyard space, especially in the late afternoon when light angles through the hanok structure. On the menu, expect café standards with a Korean twist — look for options built around Gyeongju's local specialty ingredients, alongside espresso drinks, teas, and traditional-style rice cakes or pastries that lean into the hanok aesthetic rather than a generic coffee-shop menu.
+
+Portions and exact pricing shift with the season, so treat any menu board as the reference point on the day rather than something to plan around in advance.
 
 ## When to go
 
-Late morning on a weekday, after the initial breakfast rush but before lunch, tends to offer the calmest combination of good light and manageable crowds. Spring (April–May) and autumn (October–November) are Gyeongju's peak travel seasons thanks to cherry blossoms and fall foliage respectively, which means the café — like the temples nearby — gets noticeably busier on weekends during those windows. Winter mornings are quieter and the bare-tree, low-light aesthetic still suits the hanok's window views, while summer afternoons can be hot and crowded given the site's popularity as a photo stop.
+Late morning on a weekday, after the initial breakfast rush but before lunch, tends to offer the calmest combination of good light and manageable crowds. Spring (April–May) and autumn (October–November) are Gyeongju's peak travel seasons thanks to cherry blossoms and fall foliage respectively, which means the café — like the temples nearby — gets noticeably busier on weekends during those windows.
+
+Winter mornings are quieter and the bare-tree, low-light aesthetic still suits the hanok's window views, while summer afternoons can be hot and crowded given the site's popularity as a photo stop.
 
 ## How to visit like a local
 
-Given the volume of reviews and the café's reputation, expect a wait at peak hours — Koreans visiting popular hanok cafés typically add their name to a waitlist (often via a tablet or QR-code system at the entrance) and use the time to walk the nearby temple grounds rather than stand in line. Arriving right at opening or in the mid-afternoon lull (roughly 2–4pm, after lunch crowds fade and before the evening rush) is the most reliable way to get a window seat without a long wait. Payment in Korea is overwhelmingly by card or mobile pay (Naver Pay, Kakao Pay) even at small cafés, so don't feel you need to carry cash specifically for this stop — tipping isn't expected anywhere in South Korea, including cafés. If you want to sound like you've done your homework, refer to the place by its full name, "Arae Heon" (아래헌), when asking staff or a taxi driver for directions, since "café" alone won't distinguish it from the dozens of others in the Bulguksa area. The most common visitor mistake is treating this as a quick five-minute photo stop and then rushing off — the layout rewards slowing down with a drink and actually sitting by the window rather than snapping a photo from the doorway and leaving.
+Given the volume of reviews and the café's reputation, expect a wait at peak hours — Koreans visiting popular hanok cafés typically add their name to a waitlist (often via a tablet or QR-code system at the entrance) and use the time to walk the nearby temple grounds rather than stand in line. Arriving right at opening or in the mid-afternoon lull (roughly 2–4pm, after lunch crowds fade and before the evening rush) is the most reliable way to get a window seat without a long wait.
+
+Payment in Korea is overwhelmingly by card or mobile pay (Naver Pay, Kakao Pay) even at small cafés, so don't feel you need to carry cash specifically for this stop — tipping isn't expected anywhere in South Korea, including cafés. If you want to sound like you've done your homework, refer to the place by its full name, "Arae Heon" (아래헌), when asking staff or a taxi driver for directions, since "café" alone won't distinguish it from the dozens of others in the Bulguksa area.
+
+The most common visitor mistake is treating this as a quick five-minute photo stop and then rushing off — the layout rewards slowing down with a drink and actually sitting by the window rather than snapping a photo from the doorway and leaving.
 
 ## Combine it with
 

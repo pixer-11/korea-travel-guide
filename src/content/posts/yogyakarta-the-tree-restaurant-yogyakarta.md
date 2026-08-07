@@ -58,7 +58,9 @@ draft: true
 
 ## Why go
 
-The Tree Restaurant Yogyakarta sits in Dowang Sari hamlet, part of Sambirejo village in Kecamatan Prambanan, Kabupaten Sleman — a rural stretch of Yogyakarta's special region best known for one thing: Prambanan Temple, the towering 9th-century Hindu complex a short drive away. The restaurant's draw is the setting rather than a single signature dish — open-air, tree-shaded seating, rice-field or garden views depending on the layout, and a slower pace than anything you'll find near Malioboro Street. With a 4.8 rating across 133 reviews, it has built a strong reputation without becoming a mass-tourism stop, which keeps the atmosphere unhurried.
+The Tree Restaurant Yogyakarta sits in Dowang Sari hamlet, part of Sambirejo village in Kecamatan Prambanan, Kabupaten Sleman — a rural stretch of Yogyakarta's special region best known for one thing: Prambanan Temple, the towering 9th-century Hindu complex a short drive away. The restaurant's draw is the setting rather than a single signature dish — open-air, tree-shaded seating, rice-field or garden views depending on the layout, and a slower pace than anything you'll find near Malioboro Street.
+
+With a 4.8 rating across 133 reviews, it has built a strong reputation without becoming a mass-tourism stop, which keeps the atmosphere unhurried.
 
 ## Getting there
 
@@ -72,7 +74,9 @@ Because it's tucked into village roads rather than a main highway, punch the exa
 
 ## What to see and eat
 
-Expect Indonesian and Javanese home-style cooking served in a garden or open-pavilion setting — this style of countryside restaurant around Prambanan typically leans on grilled chicken or fish, gudeg-adjacent stews, fresh vegetable dishes, and rice served family-style, though menus and exact dishes can shift seasonally. The value here is as much environmental as culinary: shaded seating under trees, cooler air than the city center, and a view that trades traffic noise for rice paddies or garden greenery. Treat it as a 60-90 minute stop — enough time to eat unhurried and enjoy the setting without cutting into temple-visiting hours.
+Expect Indonesian and Javanese home-style cooking served in a garden or open-pavilion setting — this style of countryside restaurant around Prambanan typically leans on grilled chicken or fish, gudeg-adjacent stews, fresh vegetable dishes, and rice served family-style, though menus and exact dishes can shift seasonally. The value here is as much environmental as culinary: shaded seating under trees, cooler air than the city center, and a view that trades traffic noise for rice paddies or garden greenery.
+
+Treat it as a 60-90 minute stop — enough time to eat unhurried and enjoy the setting without cutting into temple-visiting hours.
 
 Pair it naturally with a Prambanan Temple visit: many travelers see the temple complex in the morning before the heat peaks, then head to a spot like this for a shaded, later lunch. Ratu Boko, a hilltop palace ruin known for sunset views, is also in the same general Prambanan area and can round out a half-day loop if time allows.
 
@@ -82,4 +86,8 @@ Late morning to early afternoon (around 11:30am-2pm) is the natural window if yo
 
 ## How to visit like a local
 
-Because this is a village-set restaurant rather than a city-center chain, most diners pay by cash or a mobile QR payment (common across Indonesia via GoPay/OVO-linked systems) — carrying some rupiah cash as backup is sensible in case card machines aren't available this far from the city. Tipping isn't a strict local custom in Indonesian dining; rounding up or leaving small change is appreciated but not expected. Booking ahead isn't typically necessary given its under-the-radar status, but calling to confirm hours before making the drive out is worth doing, since rural restaurants around Prambanan sometimes adjust hours seasonally or around temple event days. The most common visitor mistake is treating it as a stand-alone destination worth a special trip from the city center — it works best as part of a Prambanan-area itinerary rather than a solo outing. Dress is casual; as with most Javanese village settings, a relaxed but respectful manner (lower voices, no rushing staff) fits the tone of the place better than a city-restaurant pace.
+Because this is a village-set restaurant rather than a city-center chain, most diners pay by cash or a mobile QR payment (common across Indonesia via GoPay/OVO-linked systems) — carrying some rupiah cash as backup is sensible in case card machines aren't available this far from the city. Tipping isn't a strict local custom in Indonesian dining; rounding up or leaving small change is appreciated but not expected.
+
+Booking ahead isn't typically necessary given its under-the-radar status, but calling to confirm hours before making the drive out is worth doing, since rural restaurants around Prambanan sometimes adjust hours seasonally or around temple event days. The most common visitor mistake is treating it as a stand-alone destination worth a special trip from the city center — it works best as part of a Prambanan-area itinerary rather than a solo outing.
+
+Dress is casual; as with most Javanese village settings, a relaxed but respectful manner (lower voices, no rushing staff) fits the tone of the place better than a city-restaurant pace.

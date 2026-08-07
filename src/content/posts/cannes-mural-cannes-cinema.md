@@ -52,19 +52,27 @@ draft: false
 
 ## Why go
 
-Cannes trades almost entirely on one image of itself — red carpet, tuxedos, flashbulbs on the Palais steps — and this mural is the town's attempt to put that whole mythology on a single wall you can actually walk right up to. It's a large-scale painted tribute to Cannes' century-long love affair with cinema, done in the loose, slightly theatrical style you find on gable walls across the Côte d'Azur, where a blank apartment facade becomes a stage set. You won't find crowds stacked three-deep here the way you do at the Palais itself, which is part of the appeal: it rewards the kind of traveler who likes their landmarks without the scrum.
+Cannes trades almost entirely on one image of itself — red carpet, tuxedos, flashbulbs on the Palais steps — and this mural is the town's attempt to put that whole mythology on a single wall you can actually walk right up to. It's a large-scale painted tribute to Cannes' century-long love affair with cinema, done in the loose, slightly theatrical style you find on gable walls across the Côte d'Azur, where a blank apartment facade becomes a stage set.
+
+You won't find crowds stacked three-deep here the way you do at the Palais itself, which is part of the appeal: it rewards the kind of traveler who likes their landmarks without the scrum.
 
 ## Getting there
 
-The mural is at 1 Quai Saint-Pierre, right on the water at the eastern edge of the Vieux Port, only a couple of minutes' walk from the Palais des Festivals et des Congrès and the start of La Croisette. If you're coming from Cannes' main train station (Cannes-Ville), it's an easy 12–15 minute walk downhill through the old town — head toward the port and you'll see the Palais's distinctive low white bulk before you see the wall. Coming by car, the Vieux Port has paid parking (Parking Vieux Port /Parking Suquet are the nearest structures); if you're staying central, walking is simpler than dealing with Cannes' tight one-way streets. Buses from the Gare Routière also stop within a few minutes of the quay.
+The mural is at 1 Quai Saint-Pierre, right on the water at the eastern edge of the Vieux Port, only a couple of minutes' walk from the Palais des Festivals et des Congrès and the start of La Croisette. If you're coming from Cannes' main train station (Cannes-Ville), it's an easy 12–15 minute walk downhill through the old town — head toward the port and you'll see the Palais's distinctive low white bulk before you see the wall.
+
+Coming by car, the Vieux Port has paid parking (Parking Vieux Port /Parking Suquet are the nearest structures); if you're staying central, walking is simpler than dealing with Cannes' tight one-way streets. Buses from the Gare Routière also stop within a few minutes of the quay.
 
 ## What to see
 
-The mural itself rewards a slow look rather than a snapshot-and-go. Painted directly onto the building facade facing the harbor, it layers imagery tied to Cannes' cinematic identity — figures, film reels, the kind of visual shorthand that nods to decades of the festival without needing a caption. Give it five to ten minutes: enough to walk the width of it, step back across the quay for the full composition, then get close enough to see the brushwork and how the artist has handled the scale of a building-sized canvas. The setting does a lot of the work too — boats bobbing in the Vieux Port on one side, the pastel facades of Le Suquet climbing the hill behind you, and the modern glass-and-concrete Palais just around the corner. It's as much a photograph of the quay's atmosphere as of the mural itself.
+The mural itself rewards a slow look rather than a snapshot-and-go. Painted directly onto the building facade facing the harbor, it layers imagery tied to Cannes' cinematic identity — figures, film reels, the kind of visual shorthand that nods to decades of the festival without needing a caption. Give it five to ten minutes: enough to walk the width of it, step back across the quay for the full composition, then get close enough to see the brushwork and how the artist has handled the scale of a building-sized canvas.
+
+The setting does a lot of the work too — boats bobbing in the Vieux Port on one side, the pastel facades of Le Suquet climbing the hill behind you, and the modern glass-and-concrete Palais just around the corner. It's as much a photograph of the quay's atmosphere as of the mural itself.
 
 ## Pairing it with the neighborhood
 
-Because it's a quick stop, build it into a longer loop rather than a standalone trip. From the mural, it's a flat two-minute walk to the red-carpet steps of the Palais des Festivals (worth seeing even out of festival season, when it's eerily quiet), and from there La Croisette unspools along the beachfront with its grand hotels — the Martinez, the Carlton. In the other direction, Le Suquet's steep lanes lead up to the old town and Notre-Dame d'Espérance, with views back down over the port that put the mural's harbor setting into context. The Marché Forville, Cannes' produce and flower market, is a ten-minute walk inland if you want a break from postcards for actual local life.
+Because it's a quick stop, build it into a longer loop rather than a standalone trip. From the mural, it's a flat two-minute walk to the red-carpet steps of the Palais des Festivals (worth seeing even out of festival season, when it's eerily quiet), and from there La Croisette unspools along the beachfront with its grand hotels — the Martinez, the Carlton.
+
+In the other direction, Le Suquet's steep lanes lead up to the old town and Notre-Dame d'Espérance, with views back down over the port that put the mural's harbor setting into context. The Marché Forville, Cannes' produce and flower market, is a ten-minute walk inland if you want a break from postcards for actual local life.
 
 ## When to go
 
@@ -72,4 +80,6 @@ Early morning or the last couple of hours before sunset give the wall the best l
 
 ## How to visit like a local
 
-There's no ticket, no gate, and no set opening hours — it's a public-facing wall on a working stretch of the port, so you simply walk up. Because it's still under-the-radar relative to the Palais or La Croisette, you can usually stand back and compose a photo without waiting your turn. The etiquette here is the same as anywhere in the old port: it's a working quay with restaurant terraces and moored boats, so keep to the walkway rather than treating it purely as a backdrop. The mistake visitors make is rushing past it en route to the Palais without a second glance — slow down for the five minutes it deserves, ideally combined with a coffee at one of the quayside terraces where you can look at the mural from a distance and let the harbor traffic pass in front of it.
+There's no ticket, no gate, and no set opening hours — it's a public-facing wall on a working stretch of the port, so you simply walk up. Because it's still under-the-radar relative to the Palais or La Croisette, you can usually stand back and compose a photo without waiting your turn. The etiquette here is the same as anywhere in the old port: it's a working quay with restaurant terraces and moored boats, so keep to the walkway rather than treating it purely as a backdrop.
+
+The mistake visitors make is rushing past it en route to the Palais without a second glance — slow down for the five minutes it deserves, ideally combined with a coffee at one of the quayside terraces where you can look at the mural from a distance and let the harbor traffic pass in front of it.

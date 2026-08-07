@@ -79,21 +79,29 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Itsukushima Jinja is one of Japan's most photographed sights: a Shinto shrine built on stilts over the tidal flats of Miyajima, with its great orange torii gate standing in the sea just offshore. The current shrine buildings date to the 16th century, though the site's religious significance stretches back to the 6th century, and the complex is a UNESCO World Heritage Site. Unlike most shrines built on solid ground, Itsukushima was deliberately constructed over water so that the island itself — regarded as sacred — wouldn't be disturbed by human habitation. At high tide the entire pier-like structure and the gate appear to float on the bay; at low tide, visitors can walk out across the sand flats to touch the base of the torii. Both experiences are worth seeing, and they look like two completely different places.
+Itsukushima Jinja is one of Japan's most photographed sights: a Shinto shrine built on stilts over the tidal flats of Miyajima, with its great orange torii gate standing in the sea just offshore. The current shrine buildings date to the 16th century, though the site's religious significance stretches back to the 6th century, and the complex is a UNESCO World Heritage Site.
+
+Unlike most shrines built on solid ground, Itsukushima was deliberately constructed over water so that the island itself — regarded as sacred — wouldn't be disturbed by human habitation. At high tide the entire pier-like structure and the gate appear to float on the bay; at low tide, visitors can walk out across the sand flats to touch the base of the torii. Both experiences are worth seeing, and they look like two completely different places.
 
 ## Getting there
 
-From Hiroshima, take the JR Sanyo Line (or the Miyajima ferry direct from Hiroshima Peace Park piers) to Miyajimaguchi Station, about a 25-minute ride from Hiroshima Station. From Miyajimaguchi, it's a two-minute walk to the ferry pier, where either the JR West ferry or the Miyajima Matsudai Kisen ferry crosses to the island in about 10 minutes — both companies run frequently, and the JR ferry is covered by the Japan Rail Pass. The boat conveniently passes close by the floating torii gate, giving you a preview shot from the water. From Miyajima's ferry terminal, it's roughly a 10–12 minute walk along the waterfront, past souvenir shops and free-roaming sika deer, to the shrine entrance.
+From Hiroshima, take the JR Sanyo Line (or the Miyajima ferry direct from Hiroshima Peace Park piers) to Miyajimaguchi Station, about a 25-minute ride from Hiroshima Station. From Miyajimaguchi, it's a two-minute walk to the ferry pier, where either the JR West ferry or the Miyajima Matsudai Kisen ferry crosses to the island in about 10 minutes — both companies run frequently, and the JR ferry is covered by the Japan Rail Pass.
+
+The boat conveniently passes close by the floating torii gate, giving you a preview shot from the water. From Miyajima's ferry terminal, it's roughly a 10–12 minute walk along the waterfront, past souvenir shops and free-roaming sika deer, to the shrine entrance.
 
 ## What to see and do
 
-The shrine itself is a complex of vermilion-lacquered halls, corridors, and a noh theater stage connected by covered wooden walkways raised on pilings — budget 45 minutes to an hour to walk its full length and reach the offshore torii viewpoint. Key structures include the Honsha (main shrine), the Takabutai stage used for bugaku dance performances, and the Noh stage, one of the oldest of its kind in Japan. The five-story pagoda and the Senjokaku ("Hall of a Thousand Mats") sit on a hillside just above the shrine and are worth the short detour. After the shrine, most visitors continue to Momijidani Park and take the Miyajima Ropeway up toward Mt. Misen, the island's sacred peak, for bay views — allow 2–3 hours round trip if you hike the final stretch to the summit.
+The shrine itself is a complex of vermilion-lacquered halls, corridors, and a noh theater stage connected by covered wooden walkways raised on pilings — budget 45 minutes to an hour to walk its full length and reach the offshore torii viewpoint. Key structures include the Honsha (main shrine), the Takabutai stage used for bugaku dance performances, and the Noh stage, one of the oldest of its kind in Japan.
+
+The five-story pagoda and the Senjokaku ("Hall of a Thousand Mats") sit on a hillside just above the shrine and are worth the short detour. After the shrine, most visitors continue to Momijidani Park and take the Miyajima Ropeway up toward Mt. Misen, the island's sacred peak, for bay views — allow 2–3 hours round trip if you hike the final stretch to the summit.
 
 For food, the approach street (Omotesando) is lined with stalls selling grilled conger eel (anagomeshi), oysters on the half-shell, and momiji manju (maple-leaf-shaped cakes filled with sweet red bean or custard) — this is the place to try Miyajima's signature dishes rather than saving them for later.
 
 ## When to go
 
-Tide timing matters more than season here. Check a tide chart (available online or at the ferry terminal) before you go: high tide submerges the torii's base for the classic "floating" photo, while low tide lets you walk out onto the sand to stand beneath the gate itself — both are worth planning around. Early morning (shrine opens around 6:30am in most seasons) offers the calmest light and thinnest crowds, since day-trippers from Hiroshima and Osaka tend to arrive mid-morning. Autumn (November) brings vivid maple foliage around Momijidani Park, while spring brings cherry blossoms; both seasons draw heavier crowds, so weekday mornings are best.
+Tide timing matters more than season here. Check a tide chart (available online or at the ferry terminal) before you go: high tide submerges the torii's base for the classic "floating" photo, while low tide lets you walk out onto the sand to stand beneath the gate itself — both are worth planning around. Early morning (shrine opens around 6:30am in most seasons) offers the calmest light and thinnest crowds, since day-trippers from Hiroshima and Osaka tend to arrive mid-morning.
+
+Autumn (November) brings vivid maple foliage around Momijidani Park, while spring brings cherry blossoms; both seasons draw heavier crowds, so weekday mornings are best.
 
 ## Nearby & tips
 

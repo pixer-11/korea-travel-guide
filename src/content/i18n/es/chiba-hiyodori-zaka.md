@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiba-hiyodori-zaka
-srcHash: 4dafa5ca09d0
+srcHash: 'ebd500869b77'
 title: 'Hiyodori-Zaka: Guía de viaje de Chiba'
 description: Hiyodori-Zaka es una estrecha cuesta bordeada de setos de la era samurái, en la antigua ciudad-castillo de Sakura, Chiba, a unos 15 minutos a pie de la estación de Keisei-Sakura.
 quickAnswer: Hiyodori-Zaka es una estrecha cuesta bordeada de setos de la era samurái, en la antigua ciudad-castillo de Sakura, Chiba, a unos 15 minutos a pie de la estación de Keisei-Sakura (Keisei-Sakura Station). Recorrerla y fotografiarla lleva solo 20-30 minutos, así que combínala con las cercanas antiguas casas samurái y el parque de las Ruinas del Castillo de Sakura (Sakura Castle Ruins Park) para una excursión de medio día. Ve un día laborable por la mañana si quieres tener el callejón completamente para ti.
@@ -22,15 +22,21 @@ faq:
 
 ## Por qué vale la pena desviarse hasta Hiyodori-Zaka
 
-Sakura se encuentra aproximadamente a una hora al este del centro de Tokio, y la mayoría de los visitantes de Chiba pasan de largo camino al aeropuerto de Narita. Esa es la razón por la que Hiyodori-Zaka sigue sintiéndose tan intacta. Se trata de un camino hundido, tallado entre dos terraplenes de tierra y coronado por setos recortados (*ikegaki*), que antiguamente conectaba las viviendas de samuráis de rango medio al servicio del Dominio de Sakura. Al recorrerlo hoy, la ciudad moderna prácticamente desaparece: no hay máquinas expendedoras ni cables eléctricos a la vista, solo tierra compactada, piedra teñida de musgo y un dosel de hojas que filtra la luz en un suave tono verde. Es el tipo de lugar que recompensa la paciencia más que la mentalidad de lista de tareas: no hay un único "punto de interés" que fotografiar, solo la textura acumulada de una calle del siglo XIX que nunca llegó a pavimentarse.
+Sakura se encuentra aproximadamente a una hora al este del centro de Tokio, y la mayoría de los visitantes de Chiba pasan de largo camino al aeropuerto de Narita. Esa es la razón por la que Hiyodori-Zaka sigue sintiéndose tan intacta. Se trata de un camino hundido, tallado entre dos terraplenes de tierra y coronado por setos recortados (*ikegaki*), que antiguamente conectaba las viviendas de samuráis de rango medio al servicio del Dominio de Sakura.
+
+Al recorrerlo hoy, la ciudad moderna prácticamente desaparece: no hay máquinas expendedoras ni cables eléctricos a la vista, solo tierra compactada, piedra teñida de musgo y un dosel de hojas que filtra la luz en un suave tono verde. Es el tipo de lugar que recompensa la paciencia más que la mentalidad de lista de tareas: no hay un único "punto de interés" que fotografiar, solo la textura acumulada de una calle del siglo XIX que nunca llegó a pavimentarse.
 
 ## Cómo llegar
 
-Toma la línea principal Keisei (Keisei Main Line) hasta la estación de Keisei-Sakura (Keisei-Sakura Station) (unos 70-75 minutos desde Keisei-Ueno, o haz transbordo desde el aeropuerto de Narita en aproximadamente 20-30 minutos, lo que convierte esto en una parada genuinamente fácil antes o después de un vuelo). Desde la estación, camina unos 15 minutos, en su mayoría cuesta arriba por tranquilas calles residenciales, hacia el distrito de Jōnaichō, donde sobrevive el antiguo barrio samurái. Si prefieres no caminar, hay autobuses locales que salen de la estación hacia la zona del parque del castillo, pero el recorrido a pie te permite pasar junto a los restos del foso del Castillo de Sakura antes de llegar al propio callejón.
+Toma la línea principal Keisei (Keisei Main Line) hasta la estación de Keisei-Sakura (Keisei-Sakura Station) (unos 70-75 minutos desde Keisei-Ueno, o haz transbordo desde el aeropuerto de Narita en aproximadamente 20-30 minutos, lo que convierte esto en una parada genuinamente fácil antes o después de un vuelo). Desde la estación, camina unos 15 minutos, en su mayoría cuesta arriba por tranquilas calles residenciales, hacia el distrito de Jōnaichō, donde sobrevive el antiguo barrio samurái.
+
+Si prefieres no caminar, hay autobuses locales que salen de la estación hacia la zona del parque del castillo, pero el recorrido a pie te permite pasar junto a los restos del foso del Castillo de Sakura antes de llegar al propio callejón.
 
 ## Qué verás en realidad
 
-Hiyodori-Zaka es corta —puedes recorrerla en unos pocos minutos—, pero la idea es ir despacio. El camino está flanqueado por altos setos recortados y terraplenes de tierra (*dorui*) que originalmente se construyeron tanto para dar privacidad como para una defensa básica, un detalle de diseño que distingue a los callejones de los barrios samurái como este de un callejón cualquiera. Lleva un objetivo gran angular o simplemente tu teléfono a baja altura; la perspectiva comprimida de la cuesta es lo que la convierte en una favorita entre los fotógrafos que la conocen. Como el callejón se encuentra dentro de un barrio residencial, todavía hay casas habitadas en parte de su trayecto, así que habla en voz baja y no te salgas del camino.
+Hiyodori-Zaka es corta —puedes recorrerla en unos pocos minutos—, pero la idea es ir despacio. El camino está flanqueado por altos setos recortados y terraplenes de tierra (*dorui*) que originalmente se construyeron tanto para dar privacidad como para una defensa básica, un detalle de diseño que distingue a los callejones de los barrios samurái como este de un callejón cualquiera.
+
+Lleva un objetivo gran angular o simplemente tu teléfono a baja altura; la perspectiva comprimida de la cuesta es lo que la convierte en una favorita entre los fotógrafos que la conocen. Como el callejón se encuentra dentro de un barrio residencial, todavía hay casas habitadas en parte de su trayecto, así que habla en voz baja y no te salgas del camino.
 
 Reserva de 20 a 30 minutos para el callejón en sí y luego extiende tu visita: Sakura también alberga tres residencias samurái conservadas (las casas Kyu-Kawara, Kyu-Takahashi y Kyu-Tashiro), un poco más adentro en Jōnaichō, donde puedes entrar en una auténtica vivienda del período Edo pagando una entrada modesta. El Museo Nacional de Historia Japonesa (National Museum of Japanese History), construido sobre los antiguos terrenos del castillo dentro del parque de las Ruinas del Castillo de Sakura (Sakura Castle Ruins Park), está a otros 10-15 minutos a pie y llena fácilmente el resto de una media jornada.
 
@@ -40,7 +46,11 @@ La primavera y principios de otoño son las estaciones más agradables: los seto
 
 ## Cómo visitarlo como un local
 
-No hay entrada, ni puerta, ni horario fijo: es un callejón público que atraviesa una zona residencial, así que la etiqueta es sencilla: habla en voz baja, no te demores frente a las casas privadas y no bloquees el estrecho camino si alguien que vive allí intenta pasar. Las mañanas de días laborables son el tramo más tranquilo, ya que la mayoría de los visitantes que sí vienen suelen llegar las tardes de fin de semana, junto con las visitas a las casas samurái. Aquí no hay nada que pagar ni propina que dejar; el único gasto será la pequeña entrada en las residencias samurái cercanas, que normalmente solo aceptan efectivo, así que lleva monedas y billetes pequeños. El mayor error que cometen los visitantes es tratar esto como una parada fotográfica de cinco minutos y saltarse todo lo demás en Jōnaichō; el callejón es en realidad el preludio atmosférico del barrio samurái conservado más amplio, y verlo de forma aislada le resta valor al conjunto. Si quieres la foto clásica a lo largo del seto sin nadie en el encuadre, llega antes de media mañana.
+No hay entrada, ni puerta, ni horario fijo: es un callejón público que atraviesa una zona residencial, así que la etiqueta es sencilla: habla en voz baja, no te demores frente a las casas privadas y no bloquees el estrecho camino si alguien que vive allí intenta pasar. Las mañanas de días laborables son el tramo más tranquilo, ya que la mayoría de los visitantes que sí vienen suelen llegar las tardes de fin de semana, junto con las visitas a las casas samurái.
+
+Aquí no hay nada que pagar ni propina que dejar; el único gasto será la pequeña entrada en las residencias samurái cercanas, que normalmente solo aceptan efectivo, así que lleva monedas y billetes pequeños. El mayor error que cometen los visitantes es tratar esto como una parada fotográfica de cinco minutos y saltarse todo lo demás en Jōnaichō; el callejón es en realidad el preludio atmosférico del barrio samurái conservado más amplio, y verlo de forma aislada le resta valor al conjunto.
+
+Si quieres la foto clásica a lo largo del seto sin nadie en el encuadre, llega antes de media mañana.
 
 ## Qué combinar en los alrededores
 

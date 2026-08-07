@@ -73,7 +73,9 @@ draft: false
 
 ## Why go
 
-Al Ain Oasis is the largest and most accessible of the city's six historic oases, a 1,200-hectare expanse of more than 147,000 date palms still irrigated by the centuries-old falaj system — a UNESCO-recognized network of gravity-fed channels that has watered this part of the UAE since antiquity. Unlike a manicured park, this is a working agricultural landscape: farmers still tend plots of palm, mango, and citrus trees within its walls, and the paths thread between them rather than around them. It's one of the few places in the Gulf where you can walk for an hour under a continuous canopy of palm fronds, with dappled light and noticeably cooler air than the streets outside.
+Al Ain Oasis is the largest and most accessible of the city's six historic oases, a 1,200-hectare expanse of more than 147,000 date palms still irrigated by the centuries-old falaj system — a UNESCO-recognized network of gravity-fed channels that has watered this part of the UAE since antiquity. Unlike a manicured park, this is a working agricultural landscape: farmers still tend plots of palm, mango, and citrus trees within its walls, and the paths thread between them rather than around them.
+
+It's one of the few places in the Gulf where you can walk for an hour under a continuous canopy of palm fronds, with dappled light and noticeably cooler air than the streets outside.
 
 ## Getting there
 
@@ -81,7 +83,9 @@ The oasis sits in Al Ain's Central District, on Al Tuhaf Street, essentially in 
 
 ## What to see and do
 
-Inside, marked walking trails loop through the plantation, with signage explaining the falaj irrigation system and traditional date farming methods. The Eco-Centre near the main entrance has small exhibits on oasis ecology and the region's agricultural history — worth ten minutes before or after your walk. Look for the aflaj channels themselves, narrow stone-lined waterways that split off at each farm plot according to a traditional water-sharing schedule; informational panels along the paths explain how this allocation historically worked. Bicycles can be rented for covering more ground than walking allows, useful given the oasis's size. Beyond the oasis walls, Al Jahili Fort (a 19th-century fort with a Mubarak bin London exhibition) and Qasr Al Muwaiji (a restored royal residence) are both within a few minutes' walk, making it easy to string together a half-day of sights without needing to move your car.
+Inside, marked walking trails loop through the plantation, with signage explaining the falaj irrigation system and traditional date farming methods. The Eco-Centre near the main entrance has small exhibits on oasis ecology and the region's agricultural history — worth ten minutes before or after your walk. Look for the aflaj channels themselves, narrow stone-lined waterways that split off at each farm plot according to a traditional water-sharing schedule; informational panels along the paths explain how this allocation historically worked.
+
+Bicycles can be rented for covering more ground than walking allows, useful given the oasis's size. Beyond the oasis walls, Al Jahili Fort (a 19th-century fort with a Mubarak bin London exhibition) and Qasr Al Muwaiji (a restored royal residence) are both within a few minutes' walk, making it easy to string together a half-day of sights without needing to move your car.
 
 ## When to go
 
@@ -89,7 +93,9 @@ Al Ain's summers are punishing, with daytime temperatures regularly exceeding 40
 
 ## How to visit like a local
 
-This is one of Al Ain's most-visited sites, so the way to have a good visit is less about finding a secret spot and more about timing and pace. Come early morning on a weekday if possible — weekends and late afternoons draw the heaviest foot traffic, especially near the main Eco-Centre entrance. Entry to the oasis itself has generally been free (worth confirming locally, as policies can change), and it's a look-don't-touch working farm, so stay on the marked paths rather than wandering into private palm plots — the land is still actively farmed and leased to individual growers. Dress modestly, as this is a public cultural site rather than a resort attraction: shoulders and knees covered is a safe default. Bring water even in cooler months, since long stretches of the trail network are shaded but not air-conditioned, and there are limited refreshment points inside. The most common visitor mistake is treating the oasis as a quick photo stop at the entrance and leaving after ten minutes — the plantation is large enough that the quieter, more atmospheric sections are a 15–20 minute walk in, past where casual visitors turn back.
+This is one of Al Ain's most-visited sites, so the way to have a good visit is less about finding a secret spot and more about timing and pace. Come early morning on a weekday if possible — weekends and late afternoons draw the heaviest foot traffic, especially near the main Eco-Centre entrance. Entry to the oasis itself has generally been free (worth confirming locally, as policies can change), and it's a look-don't-touch working farm, so stay on the marked paths rather than wandering into private palm plots — the land is still actively farmed and leased to individual growers.
+
+Dress modestly, as this is a public cultural site rather than a resort attraction: shoulders and knees covered is a safe default. Bring water even in cooler months, since long stretches of the trail network are shaded but not air-conditioned, and there are limited refreshment points inside. The most common visitor mistake is treating the oasis as a quick photo stop at the entrance and leaving after ten minutes — the plantation is large enough that the quieter, more atmospheric sections are a 15–20 minute walk in, past where casual visitors turn back.
 
 ## Nearby to combine
 

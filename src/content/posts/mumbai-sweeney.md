@@ -27,7 +27,9 @@ draft: true
 
 ## Why Sweeney is worth the detour
 
-Ballard Estate isn't where you'd expect Mumbai's newest see-and-be-seen opening to land. This is the city's old shipping and insurance quarter — Edwardian stone facades, wide colonial-era streets built for horse carriages, offices that empty out by 7pm. Into one of these heritage buildings has arrived Sweeney, a restaurant-bar co-owned by actor-entrepreneur Malaika Arora and restaurateur Dhaval Udeshi, and it's become one of the names people are trying to get a table at right now. The contrast is part of the appeal: a slick, contemporary room dropped into a neighborhood that still shuts its shutters at dusk.
+Ballard Estate isn't where you'd expect Mumbai's newest see-and-be-seen opening to land. This is the city's old shipping and insurance quarter — Edwardian stone facades, wide colonial-era streets built for horse carriages, offices that empty out by 7pm. Into one of these heritage buildings has arrived Sweeney, a restaurant-bar co-owned by actor-entrepreneur Malaika Arora and restaurateur Dhaval Udeshi, and it's become one of the names people are trying to get a table at right now.
+
+The contrast is part of the appeal: a slick, contemporary room dropped into a neighborhood that still shuts its shutters at dusk.
 
 ## The mango tree is the whole point
 
@@ -37,15 +39,21 @@ Then there's the quirk that's got people talking: if a mango drops from the tree
 
 ## Getting there
 
-Ballard Estate sits just north of the Fort area, within easy reach of Chhatrapati Shivaji Maharaj Terminus and the Fort commercial district — a part of town best explored on foot once you arrive, since the grid of streets is compact and the architecture (customs houses, old trading firms, Art Deco facades mixed with Victorian Gothic) rewards a slow walk in from wherever your cab or auto drops you. Traffic into this pocket of South Mumbai can be dense during weekday office hours, so factor in extra time if you're heading down in the early evening.
+Ballard Estate sits just north of the Fort area, within easy reach of Chhatrapati Shivaji Maharaj Terminus and the Fort commercial district — a part of town best explored on foot once you arrive, since the grid of streets is compact and the architecture (customs houses, old trading firms, Art Deco facades mixed with Victorian Gothic) rewards a slow walk in from wherever your cab or auto drops you.
+
+Traffic into this pocket of South Mumbai can be dense during weekday office hours, so factor in extra time if you're heading down in the early evening.
 
 ## What to expect when you sit down
 
-Details on the specific menu weren't something we could confirm, so treat this as a heads-up rather than a rundown of dishes: expect the kind of contemporary, design-led restaurant-bar format that's become the template for Mumbai's newer openings — a considered drinks list, a kitchen leaning into shareable plates, and a room built as much for lingering as for eating. Given the ownership pedigree and the buzz around the opening, presentation and atmosphere are clearly front of mind here. Confirm current hours, reservation policy, and menu directly with the restaurant before you go, since all of these are the kind of details that shift fast at a newly opened spot.
+Details on the specific menu weren't something we could confirm, so treat this as a heads-up rather than a rundown of dishes: expect the kind of contemporary, design-led restaurant-bar format that's become the template for Mumbai's newer openings — a considered drinks list, a kitchen leaning into shareable plates, and a room built as much for lingering as for eating.
+
+Given the ownership pedigree and the buzz around the opening, presentation and atmosphere are clearly front of mind here. Confirm current hours, reservation policy, and menu directly with the restaurant before you go, since all of these are the kind of details that shift fast at a newly opened spot.
 
 ## How to visit like a local
 
-Book ahead — a new opening tied to a well-known name in Mumbai's entertainment and hospitality scene fills up fast, especially on weekend nights, and Ballard Estate doesn't have the walk-in density of a Bandra high street to fall back on if you're turned away. Weekday evenings, once the area's office crowd has cleared out, are your best bet for a calmer visit and an easier conversation with the tree overhead rather than a packed room. Dress the way you would for any upscale Mumbai bar-restaurant — smart-casual, nothing beachy. Payment across Mumbai's restaurant scene is overwhelmingly card and UPI-based now, so don't worry about carrying large amounts of cash, though it's worth having some on hand for tipping, which is customary at 5-10% if service isn't already included. The most common mistake visitors make in Ballard Estate generally is treating it purely as a daytime heritage-walk stop and missing that its restaurant scene comes alive specifically in the evening — plan your visit to Sweeney as the anchor for an evening out, then wander the surrounding streets beforehand while the light is still good for seeing the old facades.
+Book ahead — a new opening tied to a well-known name in Mumbai's entertainment and hospitality scene fills up fast, especially on weekend nights, and Ballard Estate doesn't have the walk-in density of a Bandra high street to fall back on if you're turned away. Weekday evenings, once the area's office crowd has cleared out, are your best bet for a calmer visit and an easier conversation with the tree overhead rather than a packed room.
+
+Dress the way you would for any upscale Mumbai bar-restaurant — smart-casual, nothing beachy. Payment across Mumbai's restaurant scene is overwhelmingly card and UPI-based now, so don't worry about carrying large amounts of cash, though it's worth having some on hand for tipping, which is customary at 5-10% if service isn't already included. The most common mistake visitors make in Ballard Estate generally is treating it purely as a daytime heritage-walk stop and missing that its restaurant scene comes alive specifically in the evening — plan your visit to Sweeney as the anchor for an evening out, then wander the surrounding streets beforehand while the light is still good for seeing the old facades.
 
 ## Beyond the restaurant
 

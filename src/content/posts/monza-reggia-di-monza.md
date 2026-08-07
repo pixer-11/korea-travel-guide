@@ -68,7 +68,9 @@ draft: false
 
 ## Why go
 
-You come around the bend on Viale Brianza and the palace simply keeps unfolding — wing after wing of pale ochre stucco, hundreds of shuttered windows, a facade so long it seems designed to be seen from a passing carriage rather than on foot. This was the summer residence built in the 1770s for the Austrian Habsburgs' governor of Lombardy, later a favourite of Napoleon's viceroy, and later still the place where King Umberto I was assassinated in 1900. Inside, the royal apartments still carry that layered history: gilt ballrooms, silk-lined salons, a private theatre, and a chapel that goes from marble hush to painted ceiling in one glance upward. It's one of the largest royal residences in Europe, and unlike the palaces of Rome or Vienna, it doesn't ask you to fight through tour groups shoulder to shoulder — though it is, these days, firmly on the map.
+You come around the bend on Viale Brianza and the palace simply keeps unfolding — wing after wing of pale ochre stucco, hundreds of shuttered windows, a facade so long it seems designed to be seen from a passing carriage rather than on foot. This was the summer residence built in the 1770s for the Austrian Habsburgs' governor of Lombardy, later a favourite of Napoleon's viceroy, and later still the place where King Umberto I was assassinated in 1900.
+
+Inside, the royal apartments still carry that layered history: gilt ballrooms, silk-lined salons, a private theatre, and a chapel that goes from marble hush to painted ceiling in one glance upward. It's one of the largest royal residences in Europe, and unlike the palaces of Rome or Vienna, it doesn't ask you to fight through tour groups shoulder to shoulder — though it is, these days, firmly on the map.
 
 ## Getting there
 
@@ -76,7 +78,11 @@ Monza sits about 15km northeast of Milan, and the palace is a straightforward da
 
 ## What to see
 
-Inside, the self-guided or guided route through the royal apartments moves through room after room of Empire and neoclassical decor — stuccoed ceilings, parquet floors polished to a shine, portraits of Habsburg and Savoy royals staring down the length of each hall. The ballroom is the showstopper: mirrors doubling the chandelier light, a floor that seems to stretch the length of a football pitch. Don't rush past the smaller rooms, though — the private apartments have a more intimate scale, with painted wallpaper and delicate furniture that make the state rooms feel almost theatrical by comparison. Outside, the gardens immediately behind the palace are formal and symmetrical, box hedges and gravel paths giving way, further out, to the sprawling informal parkland that locals use for jogging and cycling. Give the interior two hours minimum, and don't skip the chapel, tucked into one wing, where the light through high windows falls differently depending on the season.
+Inside, the self-guided or guided route through the royal apartments moves through room after room of Empire and neoclassical decor — stuccoed ceilings, parquet floors polished to a shine, portraits of Habsburg and Savoy royals staring down the length of each hall. The ballroom is the showstopper: mirrors doubling the chandelier light, a floor that seems to stretch the length of a football pitch.
+
+Don't rush past the smaller rooms, though — the private apartments have a more intimate scale, with painted wallpaper and delicate furniture that make the state rooms feel almost theatrical by comparison. Outside, the gardens immediately behind the palace are formal and symmetrical, box hedges and gravel paths giving way, further out, to the sprawling informal parkland that locals use for jogging and cycling.
+
+Give the interior two hours minimum, and don't skip the chapel, tucked into one wing, where the light through high windows falls differently depending on the season.
 
 ## When to go
 
@@ -84,7 +90,11 @@ The palace opening hours are unusual and worth double-checking before you plan a
 
 ## How to visit like a local
 
-This is a well-known landmark, not a hidden corner, so the smart move is timing rather than secrecy. Wednesday to Friday afternoons are consistently quieter than weekends, and if you can only come on a Saturday or Sunday, be through the doors at 10:30am or 10am respectively, before the midday crowds build. Tickets are typically sold both online and at the door, but buying ahead online avoids any queue at the entrance on busy weekends — check the official Reggia di Monza site for current prices and whether a guided tour slot is required, since access to some apartments has at times been guided-tour-only. Payment at the ticket office and park cafés is by card as readily as cash. Italians visiting treat the grounds as public park space as much as a monument — you'll see joggers and dog walkers cutting through even outside museum hours — so don't feel you need to whisper through the gardens the way you might inside the apartments. The most common visitor mistake is treating the Reggia as a quick add-on to a Milan itinerary: the palace and park together easily fill half a day, and rushing the apartments to catch a train back undersells what's actually one of the biggest neoclassical interiors in Italy.
+This is a well-known landmark, not a hidden corner, so the smart move is timing rather than secrecy. Wednesday to Friday afternoons are consistently quieter than weekends, and if you can only come on a Saturday or Sunday, be through the doors at 10:30am or 10am respectively, before the midday crowds build. Tickets are typically sold both online and at the door, but buying ahead online avoids any queue at the entrance on busy weekends — check the official Reggia di Monza site for current prices and whether a guided tour slot is required, since access to some apartments has at times been guided-tour-only.
+
+Payment at the ticket office and park cafés is by card as readily as cash. Italians visiting treat the grounds as public park space as much as a monument — you'll see joggers and dog walkers cutting through even outside museum hours — so don't feel you need to whisper through the gardens the way you might inside the apartments.
+
+The most common visitor mistake is treating the Reggia as a quick add-on to a Milan itinerary: the palace and park together easily fill half a day, and rushing the apartments to catch a train back undersells what's actually one of the biggest neoclassical interiors in Italy.
 
 ## Nearby
 

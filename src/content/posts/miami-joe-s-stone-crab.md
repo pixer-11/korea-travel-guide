@@ -73,21 +73,33 @@ You smell it before you see it — that briny, buttery haze drifting off Washing
 
 ## Why go
 
-This isn't a place you visit for quiet elegance — it's a place you visit because the stone crab here basically defines the dish for South Florida. The claws arrive chilled, cracked open for you, with a side of that famous mustard sauce (a horseradish-mustard blend nobody's fully replicated) and a fat wedge of Key lime pie waiting at the end. The portions are generous, the price level is genuinely high-end, and the room hums with the specific energy of a restaurant that's been the same institution for generations rather than a trend that showed up last year.
+This isn't a place you visit for quiet elegance — it's a place you visit because the stone crab here basically defines the dish for South Florida. The claws arrive chilled, cracked open for you, with a side of that famous mustard sauce (a horseradish-mustard blend nobody's fully replicated) and a fat wedge of Key lime pie waiting at the end.
+
+The portions are generous, the price level is genuinely high-end, and the room hums with the specific energy of a restaurant that's been the same institution for generations rather than a trend that showed up last year.
 
 ## Getting there
 
-Joe's sits in South of Fifth, the southern tip of Miami Beach, a few blocks from South Pointe Park and the cruise-ship channel. There's no subway to Miami Beach, so most visitors arrive by rideshare, taxi, or on foot if they're staying nearby — it's an easy walk from the Art Deco stretch of Ocean Drive, maybe 15–20 minutes south along Collins or Washington. If you're driving, the restaurant runs its own valet and there's metered street parking nearby, though on a weekend evening you'll circle for a while before giving in to the valet line.
+Joe's sits in South of Fifth, the southern tip of Miami Beach, a few blocks from South Pointe Park and the cruise-ship channel. There's no subway to Miami Beach, so most visitors arrive by rideshare, taxi, or on foot if they're staying nearby — it's an easy walk from the Art Deco stretch of Ocean Drive, maybe 15–20 minutes south along Collins or Washington.
+
+If you're driving, the restaurant runs its own valet and there's metered street parking nearby, though on a weekend evening you'll circle for a while before giving in to the valet line.
 
 ## What to eat
 
-Stone crab claws, sold by size (medium through jumbo), are the reason you're here — order them chilled with the mustard sauce and a side of hash browns or creamed spinach, both Joe's signatures since long before "small plates" was a phrase anyone used. If crab isn't your thing, the fried chicken has its own cult following, a holdover from the days when Joe's fed locals something heartier between seafood courses. Save room for the Key lime pie: tart, dense, with a graham crust, and consistently the dish people mention days after they've left.
+Stone crab claws, sold by size (medium through jumbo), are the reason you're here — order them chilled with the mustard sauce and a side of hash browns or creamed spinach, both Joe's signatures since long before "small plates" was a phrase anyone used. If crab isn't your thing, the fried chicken has its own cult following, a holdover from the days when Joe's fed locals something heartier between seafood courses.
+
+Save room for the Key lime pie: tart, dense, with a graham crust, and consistently the dish people mention days after they've left.
 
 ## When to go
 
-Stone crab is seasonal — the traditional season runs mid-October through mid-May, and that's the only real window when the claws on your plate are truly fresh rather than frozen from storage. Inside that window, note the hours carefully: Joe's is closed Monday and Tuesday entirely. Wednesday and Thursday it only opens for dinner, 5–10pm. Friday through Sunday it adds a lunch seating, 11:30am–2:30pm, before reopening for dinner at 5pm. Weekends are busy the entire stretch from noon to close, so there isn't really a quiet pocket to aim for on a Saturday or Sunday — go in expecting a wait no matter the hour.
+Stone crab is seasonal — the traditional season runs mid-October through mid-May, and that's the only real window when the claws on your plate are truly fresh rather than frozen from storage. Inside that window, note the hours carefully: Joe's is closed Monday and Tuesday entirely. Wednesday and Thursday it only opens for dinner, 5–10pm. Friday through Sunday it adds a lunch seating, 11:30am–2:30pm, before reopening for dinner at 5pm.
+
+Weekends are busy the entire stretch from noon to close, so there isn't really a quiet pocket to aim for on a Saturday or Sunday — go in expecting a wait no matter the hour.
 
 ## How to visit like a local
 
-Joe's doesn't take reservations for its main dining room, so the practice regulars swear by is showing up right as a service starts — either 11:30am sharp on a weekend, or 5pm on any open night — to get ahead of the rush rather than trying to dodge it later. The takeaway counter next door moves faster if you just want claws and pie without the wait, and it's a legitimate way locals shortcut the line when they're not in the mood for full table service. Dress is casual despite the price tag; nobody's turned away for shorts and sandals. Tipping follows standard US sit-down etiquette, around 18–20%, and cards are accepted everywhere — cash isn't needed. The mistake most first-timers make is skipping the size chart on stone crab claws and over-ordering jumbo when medium or large claws are just as sweet and considerably easier on the bill. And don't expect a hidden, off-peak secret hour: this is a genuinely famous, always-busy institution, so the real local move is patience, not stealth.
+Joe's doesn't take reservations for its main dining room, so the practice regulars swear by is showing up right as a service starts — either 11:30am sharp on a weekend, or 5pm on any open night — to get ahead of the rush rather than trying to dodge it later. The takeaway counter next door moves faster if you just want claws and pie without the wait, and it's a legitimate way locals shortcut the line when they're not in the mood for full table service.
+
+Dress is casual despite the price tag; nobody's turned away for shorts and sandals. Tipping follows standard US sit-down etiquette, around 18–20%, and cards are accepted everywhere — cash isn't needed. The mistake most first-timers make is skipping the size chart on stone crab claws and over-ordering jumbo when medium or large claws are just as sweet and considerably easier on the bill.
+
+And don't expect a hidden, off-peak secret hour: this is a genuinely famous, always-busy institution, so the real local move is patience, not stealth.
 

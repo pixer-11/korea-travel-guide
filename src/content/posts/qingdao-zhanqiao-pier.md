@@ -52,19 +52,29 @@ Long before Qingdao became a byword for German colonial villas and cold beer, Zh
 
 ## Getting there
 
-Zhanqiao sits at 14 Tai Ping Lu in Shinan District, right where Zhongshan Road meets the waterfront. The nearest metro stop is Qingdao Railway Station on Line 3, about a 10-minute walk south along Tai Ping Lu with the bay on your left. If you're coming from the Badaguan area or the German Concession, it's an easy 20-minute walk or a short taxi ride — most drivers know it simply as "Zhanqiao." Qingdao Railway Station itself, a squat building with a German-built clock tower, is worth a glance on your way in.
+Zhanqiao sits at 14 Tai Ping Lu in Shinan District, right where Zhongshan Road meets the waterfront. The nearest metro stop is Qingdao Railway Station on Line 3, about a 10-minute walk south along Tai Ping Lu with the bay on your left. If you're coming from the Badaguan area or the German Concession, it's an easy 20-minute walk or a short taxi ride — most drivers know it simply as "Zhanqiao."
+
+Qingdao Railway Station itself, a squat building with a German-built clock tower, is worth a glance on your way in.
 
 ## What you'll actually see
 
-The pier itself is unglamorous at the start — a wide stone causeway lined with iron railings, vendors selling shell necklaces and fried squid on sticks, and older residents fishing off the sides with long bamboo rods. That's part of the charm. As you walk the 440 meters out, the crowd thins, the sound of the city fades behind you, and the water on both sides opens into Qingdao Bay. Gulls wheel low over the waves, and on clear days you can see the red-roofed hills of the old town curving around the shoreline behind you. At the end, Huilan Ge is small — you can circle it in five minutes — but its curved eaves and the way it frames the open sea make it the obvious photo spot, especially with the sun low and the water catching orange light.
+The pier itself is unglamorous at the start — a wide stone causeway lined with iron railings, vendors selling shell necklaces and fried squid on sticks, and older residents fishing off the sides with long bamboo rods. That's part of the charm. As you walk the 440 meters out, the crowd thins, the sound of the city fades behind you, and the water on both sides opens into Qingdao Bay.
+
+Gulls wheel low over the waves, and on clear days you can see the red-roofed hills of the old town curving around the shoreline behind you. At the end, Huilan Ge is small — you can circle it in five minutes — but its curved eaves and the way it frames the open sea make it the obvious photo spot, especially with the sun low and the water catching orange light.
 
 ## When to go
 
-Early morning, around 7-8am, is when you'll find the pier at its most local: elderly Qingdao residents doing tai chi or swimming laps in the roped-off swimming area just north of the pier, regardless of season — cold-water swimming is a genuine local pastime here. Sunset is the other sweet spot, when the pavilion silhouettes against the bay and the promenade lights along Tai Ping Lu start to come on. Midday in summer brings the heaviest tour-group traffic, with buses unloading near the entrance and the causeway getting genuinely crowded shoulder-to-shoulder. Winter is quieter and the sea air has a bracing, salt-and-cold-stone smell that summer's crowds and heat mostly cover up.
+Early morning, around 7-8am, is when you'll find the pier at its most local: elderly Qingdao residents doing tai chi or swimming laps in the roped-off swimming area just north of the pier, regardless of season — cold-water swimming is a genuine local pastime here. Sunset is the other sweet spot, when the pavilion silhouettes against the bay and the promenade lights along Tai Ping Lu start to come on.
+
+Midday in summer brings the heaviest tour-group traffic, with buses unloading near the entrance and the causeway getting genuinely crowded shoulder-to-shoulder. Winter is quieter and the sea air has a bracing, salt-and-cold-stone smell that summer's crowds and heat mostly cover up.
 
 ## How to visit like a local
 
-Zhanqiao is a well-known, well-visited landmark rather than a secret spot, so treat it as a photo-and-stroll stop of 30-45 minutes rather than the centerpiece of a whole day. To dodge the worst of the crowds, come before 8am or after 6pm — tour buses cluster mid-morning to mid-afternoon, and the causeway can bottleneck near Huilan Ge. Entry to the pier and pavilion area is free, so there's no ticket queue to plan around; vendors along the way take mobile payment (WeChat Pay/Alipay) almost universally, cash less so. There's no real etiquette minefield here, but do give fishermen space along the railings and avoid climbing on the rock breakwaters beside the pier — they're slick with sea spray and genuinely slippery. The common mistake is treating Zhanqiao as a destination in itself and leaving; locals use it as a starting point, walking north along the coastal path toward Xiaoyushan Park or looping back up Zhongshan Road into the old town's German-era streets. Order a bag of the roasted chestnuts or fried squid from the pier-side carts if you want the actual local snack, not the packaged souvenirs.
+Zhanqiao is a well-known, well-visited landmark rather than a secret spot, so treat it as a photo-and-stroll stop of 30-45 minutes rather than the centerpiece of a whole day. To dodge the worst of the crowds, come before 8am or after 6pm — tour buses cluster mid-morning to mid-afternoon, and the causeway can bottleneck near Huilan Ge. Entry to the pier and pavilion area is free, so there's no ticket queue to plan around; vendors along the way take mobile payment (WeChat Pay/Alipay) almost universally, cash less so.
+
+There's no real etiquette minefield here, but do give fishermen space along the railings and avoid climbing on the rock breakwaters beside the pier — they're slick with sea spray and genuinely slippery. The common mistake is treating Zhanqiao as a destination in itself and leaving; locals use it as a starting point, walking north along the coastal path toward Xiaoyushan Park or looping back up Zhongshan Road into the old town's German-era streets.
+
+Order a bag of the roasted chestnuts or fried squid from the pier-side carts if you want the actual local snack, not the packaged souvenirs.
 
 ## Nearby to combine with your visit
 

@@ -36,7 +36,9 @@ The chef behind it, James Yeun Leong Parry, arrives with a resume that explains 
 
 ## What makes it worth the effort
 
-The Happy Crane has already landed on Eater's list of the best new restaurants in the country and secured a spot on Condé Nast Traveler's 2026 Hot List — the kind of double recognition that turns a neighborhood spot into a nationally-watched reservation within a single news cycle. For a visitor, that translates into a simple reality: this is a restaurant people are flying in for, not just walking over to. If modern Chinese cooking interests you, or you're the type of traveler who tracks Eater and Condé Nast lists the way others track sports scores, this is currently near the top of San Francisco's must-try roster.
+The Happy Crane has already landed on Eater's list of the best new restaurants in the country and secured a spot on Condé Nast Traveler's 2026 Hot List — the kind of double recognition that turns a neighborhood spot into a nationally-watched reservation within a single news cycle. For a visitor, that translates into a simple reality: this is a restaurant people are flying in for, not just walking over to.
+
+If modern Chinese cooking interests you, or you're the type of traveler who tracks Eater and Condé Nast lists the way others track sports scores, this is currently near the top of San Francisco's must-try roster.
 
 ## Getting there
 
@@ -44,7 +46,9 @@ Hayes Valley sits between the Civic Center and the Western Addition, a few block
 
 ## What to expect once you're seated
 
-Because the space was built out for Monsieur Benjamin, expect a room with an established, adult, dinner-party feel rather than a stripped-down noodle-shop energy — think of it as a bistro shell now filled with a modern Chinese kitchen's plating and pacing. Given Parry's background, expect courses that lean on technique — precise knife work, layered stocks, dishes that reference Cantonese and broader Chinese traditions but plate with the discipline of a fine-dining kitchen. Exact dishes and prices shift with the season and the chef's pass, so rather than chase a specific plate by name, go in ready to order a few shared courses and let the kitchen's current menu guide you.
+Because the space was built out for Monsieur Benjamin, expect a room with an established, adult, dinner-party feel rather than a stripped-down noodle-shop energy — think of it as a bistro shell now filled with a modern Chinese kitchen's plating and pacing. Given Parry's background, expect courses that lean on technique — precise knife work, layered stocks, dishes that reference Cantonese and broader Chinese traditions but plate with the discipline of a fine-dining kitchen.
+
+Exact dishes and prices shift with the season and the chef's pass, so rather than chase a specific plate by name, go in ready to order a few shared courses and let the kitchen's current menu guide you.
 
 ## When to go
 
@@ -52,4 +56,6 @@ Given the press attention, weekend evenings are the hardest tables to get; if yo
 
 ## How to visit like a local
 
-San Franciscans chasing a table like this book the moment a new release window opens — reservation platforms usually drop new dates at a set time (often a set number of days out, at midnight or first thing in the morning), so set a reminder rather than checking sporadically. If you strike out online, it's worth calling right when the restaurant opens for the day to ask about cancellations, or showing up early to see if there's bar or counter seating held for walk-ins — a common workaround at hard-to-book San Francisco spots. Dress for Hayes Valley's smart-casual register: put-together but not stiff. Tipping follows standard American practice, generally 18–20%, usually built into the card terminal prompt. The mistake newcomers make is treating this like a casual pre-theater dinner before an Opera House show a few blocks away — with demand this high, treat the reservation itself as the evening's main event, and build the neighborhood stroll around it rather than the other way around.
+San Franciscans chasing a table like this book the moment a new release window opens — reservation platforms usually drop new dates at a set time (often a set number of days out, at midnight or first thing in the morning), so set a reminder rather than checking sporadically. If you strike out online, it's worth calling right when the restaurant opens for the day to ask about cancellations, or showing up early to see if there's bar or counter seating held for walk-ins — a common workaround at hard-to-book San Francisco spots.
+
+Dress for Hayes Valley's smart-casual register: put-together but not stiff. Tipping follows standard American practice, generally 18–20%, usually built into the card terminal prompt. The mistake newcomers make is treating this like a casual pre-theater dinner before an Opera House show a few blocks away — with demand this high, treat the reservation itself as the evening's main event, and build the neighborhood stroll around it rather than the other way around.

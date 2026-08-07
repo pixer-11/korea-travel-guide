@@ -44,7 +44,9 @@ draft: false
 
 ## Why the Palau Nacional stops people in their tracks
 
-You see it long before you reach it: a domed, honey-stone palace stacked at the top of a long flight of terraces and fountains, built for the 1929 International Exposition and still looking like it was designed to be photographed from below. Climb the steps (or ride the escalators that run alongside them) and the city opens up behind you — Plaça Espanya, the bullring-turned-mall Las Arenas, and on a clear day the towers of the Sagrada Família in the distance. Most visitors are so busy turning around for the view that they nearly walk backward into the museum's front doors.
+You see it long before you reach it: a domed, honey-stone palace stacked at the top of a long flight of terraces and fountains, built for the 1929 International Exposition and still looking like it was designed to be photographed from below. Climb the steps (or ride the escalators that run alongside them) and the city opens up behind you — Plaça Espanya, the bullring-turned-mall Las Arenas, and on a clear day the towers of the Sagrada Família in the distance.
+
+Most visitors are so busy turning around for the view that they nearly walk backward into the museum's front doors.
 
 Inside, the building itself keeps performing. The domed central hall, the Oval Room, was built to host events and still gets used for concerts — its scale alone is worth a slow lap before you head into the galleries proper.
 
@@ -52,7 +54,9 @@ Inside, the building itself keeps performing. The domed central hall, the Oval R
 
 The MNAC's reputation rests on one collection above all: its Romanesque art, a series of 11th- and 12th-century murals lifted wholesale, plaster and all, from small Pyrenean churches and reassembled here inside replica apses. Walking between them, you go from one hushed, half-lit chapel space to the next, each dominated by the same wide-eyed, elongated Christ Pantocrator figures painted in ochre, black, and deep red. It's considered one of the most important collections of its kind anywhere, and it alone justifies the trip up the hill.
 
-The rest of the museum moves chronologically forward: Gothic altarpieces and polychrome wood carvings, then Renaissance and Baroque painting (including a small but genuine cluster of Old Masters — look for the Cranach and the Zurbarán), and finally the museum's other strong suit, Catalan Modernisme. This is where you find furniture and paintings connected to Gaudí's circle, plus a room of luminous, loose-brushed canvases by Ramon Casas and Santiago Rusiñol that capture turn-of-the-century Barcelona café life. A separate numismatics collection and rotating photography galleries round things out on the lower floor, easy to skip if time is tight.
+The rest of the museum moves chronologically forward: Gothic altarpieces and polychrome wood carvings, then Renaissance and Baroque painting (including a small but genuine cluster of Old Masters — look for the Cranach and the Zurbarán), and finally the museum's other strong suit, Catalan Modernisme. This is where you find furniture and paintings connected to Gaudí's circle, plus a room of luminous, loose-brushed canvases by Ramon Casas and Santiago Rusiñol that capture turn-of-the-century Barcelona café life.
+
+A separate numismatics collection and rotating photography galleries round things out on the lower floor, easy to skip if time is tight.
 
 ## Getting there and timing your visit
 
@@ -62,7 +66,9 @@ Plan on two to three hours for a proper visit — longer if you want to sit with
 
 ## How to visit like a local
 
-Barcelona regulars treat the MNAC as a late-afternoon outing rather than a morning box to tick: arriving two hours before closing means smaller crowds in the Romanesque rooms and softer light on the front terrace afterward. Buy tickets online in advance to skip the entrance queue, which can build on weekends and holidays — the museum is consistently one of the most-visited sights on the hill, so having a ticket already in hand saves real time. There's no tipping expected inside; card payment is standard at the ticket desk and café. Locals also know the trick of asking at the desk about combined access to the Oval Room events calendar and any temporary exhibition, since these sometimes require a separate or upgraded ticket. The biggest mistake visitors make is racing through the Romanesque galleries to get to the "famous" Modernisme rooms — go slowly there instead; it's the part of the collection you won't find replicated anywhere else.
+Barcelona regulars treat the MNAC as a late-afternoon outing rather than a morning box to tick: arriving two hours before closing means smaller crowds in the Romanesque rooms and softer light on the front terrace afterward. Buy tickets online in advance to skip the entrance queue, which can build on weekends and holidays — the museum is consistently one of the most-visited sights on the hill, so having a ticket already in hand saves real time.
+
+There's no tipping expected inside; card payment is standard at the ticket desk and café. Locals also know the trick of asking at the desk about combined access to the Oval Room events calendar and any temporary exhibition, since these sometimes require a separate or upgraded ticket. The biggest mistake visitors make is racing through the Romanesque galleries to get to the "famous" Modernisme rooms — go slowly there instead; it's the part of the collection you won't find replicated anywhere else.
 
 ## Nearby, while you're up here
 

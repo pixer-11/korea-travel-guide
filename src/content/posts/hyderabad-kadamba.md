@@ -32,17 +32,25 @@ draft: true
 
 ## Why go
 
-Hyderabad has no shortage of rooftop bars, but Kadamba stands apart because the design doesn't fight the site — it grows out of it. The rooftop is built around three actual Kadamba trees, left in place rather than potted as decoration, with low benches set directly into the layout so the whole space reads like a modern take on a village chaupal (the communal shaded gathering spot found across rural India) rather than a generic glass-and-steel lounge. The payoff is a setting that feels rooted and unusually calm for a bar this buzzy, with views opening out over Durgam Cheruvu, the rock-fringed lake that has become Madhapur's defining landmark.
+Hyderabad has no shortage of rooftop bars, but Kadamba stands apart because the design doesn't fight the site — it grows out of it. The rooftop is built around three actual Kadamba trees, left in place rather than potted as decoration, with low benches set directly into the layout so the whole space reads like a modern take on a village chaupal (the communal shaded gathering spot found across rural India) rather than a generic glass-and-steel lounge.
 
-The drinks programme is the other reason Kadamba has become a name to know quickly after opening. It's helmed by Sujan Shetty, a mixologist known for his work in Goa's bar scene, alongside Palash Kadam. Their menu leans inventive rather than safe — the Aam-Chur riffs on Indian pantry flavors (mango and dry-mango-powder notes), while the Agasi Negroni takes the classic Italian template and bends it with local ingredients. On the food side, podi edamame — edamame tossed in South Indian gunpowder spice — has been singled out as a standout, a small dish that signals the kitchen's approach of putting desi flavors through a bar-snack lens.
+The payoff is a setting that feels rooted and unusually calm for a bar this buzzy, with views opening out over Durgam Cheruvu, the rock-fringed lake that has become Madhapur's defining landmark.
+
+The drinks programme is the other reason Kadamba has become a name to know quickly after opening. It's helmed by Sujan Shetty, a mixologist known for his work in Goa's bar scene, alongside Palash Kadam. Their menu leans inventive rather than safe — the Aam-Chur riffs on Indian pantry flavors (mango and dry-mango-powder notes), while the Agasi Negroni takes the classic Italian template and bends it with local ingredients.
+
+On the food side, podi edamame — edamame tossed in South Indian gunpowder spice — has been singled out as a standout, a small dish that signals the kitchen's approach of putting desi flavors through a bar-snack lens.
 
 ## Getting there
 
-Kadamba sits in Madhapur, on the edge of Durgam Cheruvu, in the heart of Hyderabad's HITEC City / Gachibowli tech corridor. This is the same stretch of the city that includes Jubilee Hills and Kondapur, so if you're staying near those neighborhoods or around Banjara Hills, it's a short drive of roughly 15–25 minutes depending on traffic. The Hyderabad Metro's Blue Line has a Durgam Cheruvu station, built specifically to serve the lake precinct with a rooftop view deck of its own — it's the most direct public transport option, leaving a walkable distance to the lakeside bars and cafés that have sprung up in the area. Autos and ride-hailing apps are the easier fallback if you're coming from further out, since parking near the lake can be tight on weekend evenings.
+Kadamba sits in Madhapur, on the edge of Durgam Cheruvu, in the heart of Hyderabad's HITEC City / Gachibowli tech corridor. This is the same stretch of the city that includes Jubilee Hills and Kondapur, so if you're staying near those neighborhoods or around Banjara Hills, it's a short drive of roughly 15–25 minutes depending on traffic. The Hyderabad Metro's Blue Line has a Durgam Cheruvu station, built specifically to serve the lake precinct with a rooftop view deck of its own — it's the most direct public transport option, leaving a walkable distance to the lakeside bars and cafés that have sprung up in the area.
+
+Autos and ride-hailing apps are the easier fallback if you're coming from further out, since parking near the lake can be tight on weekend evenings.
 
 ## What to see and eat
 
-Beyond the cocktails and snacks already mentioned, treat a visit to Kadamba as an evening built around slow grazing rather than a sit-down dinner — rooftop bars of this style typically favor shareable small plates paired against a rotating drinks list. Arrive while there's still light left in the sky so you can see the Durgam Cheruvu rock formations and water before the lake view turns into a skyline of lights. The three Kadamba trees on the roof aren't just a backdrop — they shape where the low benches and shaded corners sit, so expect a layout that feels intimate in patches rather than one big open floor.
+Beyond the cocktails and snacks already mentioned, treat a visit to Kadamba as an evening built around slow grazing rather than a sit-down dinner — rooftop bars of this style typically favor shareable small plates paired against a rotating drinks list. Arrive while there's still light left in the sky so you can see the Durgam Cheruvu rock formations and water before the lake view turns into a skyline of lights.
+
+The three Kadamba trees on the roof aren't just a backdrop — they shape where the low benches and shaded corners sit, so expect a layout that feels intimate in patches rather than one big open floor.
 
 ## When to go
 

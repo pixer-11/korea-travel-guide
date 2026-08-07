@@ -21,6 +21,8 @@ import { OFFTOPIC } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { keyToken } from './lib/commons.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
+// Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
+import { words as paraWords } from '../src/lib/paragraphs.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -335,6 +337,28 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   // repair-phone-international.mjs converted the backlog; this keeps it that way.
   if (p.phone && !String(p.phone).trim().startsWith('+')) {
     issues.push(`LOCAL-PHONE: ${p.f} — "${p.phone}" has no +country-code, tel: link fails from a foreign SIM`);
+  }
+
+  // A wall of text on a phone gets scrolled past no matter how good the prose
+  // is. Audited 2026-08-07 across 792 guides: 88% of paragraphs ran over 70
+  // words and the worst was 236 — the writer prompt asked for under 70 and was
+  // ignored, because shape is the first instruction a model drops. writer.mjs
+  // and translate-posts.mjs now split at sentence boundaries mechanically, so
+  // this is the tripwire for a path that forgets to. The threshold is well
+  // above the 70-word target: it should only ever fire when the splitter did
+  // not run at all.
+  if (p.body) {
+    const wall = p.body
+      .replace(/\r\n/g, '\n')
+      .split(/\n{2,}/)
+      .map((b) => b.trim())
+      .filter((b) => b && !/^(?:#{1,6}\s|[-*+]\s|\d+[.)]\s|>|\||!\[|```|:::|<)/.test(b))
+      .find((b) => paraWords(b) > 150);
+    if (wall) {
+      issues.push(
+        `WALL-OF-TEXT: ${p.f} — a ${paraWords(wall)}-word paragraph ("${wall.slice(0, 45)}…"); run scripts/reflow-paragraphs.mjs`,
+      );
+    }
   }
 
   // Stored quiet/busy hours outside the venue's own opening hours: BestTime

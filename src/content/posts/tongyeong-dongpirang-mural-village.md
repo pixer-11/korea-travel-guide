@@ -46,7 +46,9 @@ country: South Korea
 
 ## Why go
 
-Dongpirang ("East Cliff Village") is one of Korea's original mural villages — the model that inspired similar projects across the country. In the mid-2000s, the hillside neighborhood was slated for demolition as part of an urban redevelopment plan. A civic art group and volunteers painted murals across the walls, stairways, and rooftops of the low-rise houses to draw public attention and save the village. It worked: the murals turned a quiet fishing-town hillside into one of Tongyeong's most photographed spots, and the neighborhood is still lived-in, not a staged film set. Expect narrow lanes, sea-facing views, laundry hanging next to painted walls, and a slightly steep but manageable climb.
+Dongpirang ("East Cliff Village") is one of Korea's original mural villages — the model that inspired similar projects across the country. In the mid-2000s, the hillside neighborhood was slated for demolition as part of an urban redevelopment plan. A civic art group and volunteers painted murals across the walls, stairways, and rooftops of the low-rise houses to draw public attention and save the village.
+
+It worked: the murals turned a quiet fishing-town hillside into one of Tongyeong's most photographed spots, and the neighborhood is still lived-in, not a staged film set. Expect narrow lanes, sea-facing views, laundry hanging next to painted walls, and a slightly steep but manageable climb.
 
 ## Getting there
 
@@ -68,4 +70,6 @@ Weekday mornings (before 10 a.m.) or late afternoons after 4 p.m. are quietest �
 
 ## Nearby & tips
 
-Dongpirang pairs naturally with **Jungang (Chungmu) Market** at its base — go for fresh seafood, hotteok, and Tongyeong's signature *chungmu gimbap* (small rice rolls served with spicy squid and radish kimchi, no filling inside the rice). A short walk or taxi ride away is the **Tongyeong Cable Car**, which climbs Mireuksan for an even higher island-studded view, and the **Tongyeong Ferry Terminal**, from which boats depart to nearby islands like Sado and Yokjido. Seomindang, the old downtown's colonnaded market street, and the historic Sebyeonggwan naval pavilion are also within easy walking or short-taxi distance, making the Dongpirang hill a good anchor for a half-day loop through old Tongyeong.
+Dongpirang pairs naturally with **Jungang (Chungmu) Market** at its base — go for fresh seafood, hotteok, and Tongyeong's signature *chungmu gimbap* (small rice rolls served with spicy squid and radish kimchi, no filling inside the rice). A short walk or taxi ride away is the **Tongyeong Cable Car**, which climbs Mireuksan for an even higher island-studded view, and the **Tongyeong Ferry Terminal**, from which boats depart to nearby islands like Sado and Yokjido.
+
+Seomindang, the old downtown's colonnaded market street, and the historic Sebyeonggwan naval pavilion are also within easy walking or short-taxi distance, making the Dongpirang hill a good anchor for a half-day loop through old Tongyeong.

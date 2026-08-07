@@ -43,15 +43,21 @@ aiGenerated: true
 
 ## Why the wall still matters
 
-Most Chinese cities tore their walls down last century to make way for ring roads. Xi'an didn't, and that's the whole point of coming here. What you're walking on is a Ming-dynasty fortification built in the 1370s atop earlier Tang-dynasty foundations, roughly 12 meters high, wide enough at the top that eight cars could drive abreast. It encloses the old city center — the Bell Tower, the Muslim Quarter, the drum tower — like a giant rammed-earth-and-brick picture frame. Climb the ramp at any gate and you go from honking traffic and scooter horns to an open, wind-scoured platform where the noise drops away and the skyline flattens out beneath you.
+Most Chinese cities tore their walls down last century to make way for ring roads. Xi'an didn't, and that's the whole point of coming here. What you're walking on is a Ming-dynasty fortification built in the 1370s atop earlier Tang-dynasty foundations, roughly 12 meters high, wide enough at the top that eight cars could drive abreast. It encloses the old city center — the Bell Tower, the Muslim Quarter, the drum tower — like a giant rammed-earth-and-brick picture frame.
+
+Climb the ramp at any gate and you go from honking traffic and scooter horns to an open, wind-scoured platform where the noise drops away and the skyline flattens out beneath you.
 
 ## Getting there
 
-The wall has four main historic gates — South Gate (Yongning Men), North Gate (Anyuan Men), East Gate (Changle Men), and West Gate (Anding Men) — plus several newer access points. South Gate is the most atmospheric entry: it sits directly across from the Bell Tower area and often has evening lantern displays and gate-opening ceremonies staged on its plaza. It's an easy walk or short taxi ride from central hotels, and most city-loop or hop-on-hop-off bus routes stop nearby. If you're coming from the Xi'an Bell Tower or Muslim Quarter, you can simply walk south along Nan Dajie until the wall looms up ahead — you'll see the moat and the gate towers before you reach the entrance.
+The wall has four main historic gates — South Gate (Yongning Men), North Gate (Anyuan Men), East Gate (Changle Men), and West Gate (Anding Men) — plus several newer access points. South Gate is the most atmospheric entry: it sits directly across from the Bell Tower area and often has evening lantern displays and gate-opening ceremonies staged on its plaza.
+
+It's an easy walk or short taxi ride from central hotels, and most city-loop or hop-on-hop-off bus routes stop nearby. If you're coming from the Xi'an Bell Tower or Muslim Quarter, you can simply walk south along Nan Dajie until the wall looms up ahead — you'll see the moat and the gate towers before you reach the entrance.
 
 ## What to see and do on top
 
-Once up on the ramparts, the options are bicycle or foot. Renting a bike at the gate kiosks is the classic move: the flat brick surface makes for an easy, scenery-heavy ride, past watchtowers spaced every few hundred meters, sluice-gate openings, and views down into the moat park where locals do tai chi and ballroom dance in the mornings. A full 13.7 km loop takes about 1.5–2 hours by bike if you don't stop much; walking any single side (say, South Gate to East Gate) takes closer to 45 minutes to an hour and gives you time to actually look — at the corner towers, the crenellated parapets, and the contrast between the old tiled roofs inside the wall and the glass towers rising just beyond it. Night visits are worth planning for too: sections are lit with strings of red lanterns, and the gate towers glow gold against the dark, giving the whole thing a very different, quieter mood than the daytime bike traffic.
+Once up on the ramparts, the options are bicycle or foot. Renting a bike at the gate kiosks is the classic move: the flat brick surface makes for an easy, scenery-heavy ride, past watchtowers spaced every few hundred meters, sluice-gate openings, and views down into the moat park where locals do tai chi and ballroom dance in the mornings. A full 13.7 km loop takes about 1.5–2 hours by bike if you don't stop much; walking any single side (say, South Gate to East Gate) takes closer to 45 minutes to an hour and gives you time to actually look — at the corner towers, the crenellated parapets, and the contrast between the old tiled roofs inside the wall and the glass towers rising just beyond it.
+
+Night visits are worth planning for too: sections are lit with strings of red lanterns, and the gate towers glow gold against the dark, giving the whole thing a very different, quieter mood than the daytime bike traffic.
 
 ## When to go
 
@@ -59,4 +65,8 @@ Spring (March–May) and autumn (September–November) bring mild temperatures a
 
 ## How to visit like a local
 
-Skip the idea that you need to conquer the entire 13.7 km loop — plenty of Xi'an residents just walk one gate-to-gate stretch, usually South Gate to East Gate or South Gate to West Gate, then descend and carry on with their day. Pay for bike rental and any ticketed entry by cash or, more commonly now, mobile payment (Alipay/WeChat Pay) rather than expecting card machines everywhere. Go up early morning, around 8–9am, when the light is flat and gold and the ramp isn't yet full of tour groups arriving by bus; late afternoon into evening, when the lanterns come on, is the other sweet spot. The mistake most first-time visitors make is treating this as a quick 20-minute photo stop — budget at least an hour, because the payoff is the unbroken rhythm of walking or riding along the top with the old city on one side and the new city skyline on the other. Wear a hat or bring sun protection in summer, since the brick surface reflects heat with almost no shade, and expect uneven, worn sections of brick near the older watchtowers, so flat shoes serve you better than sandals.
+Skip the idea that you need to conquer the entire 13.7 km loop — plenty of Xi'an residents just walk one gate-to-gate stretch, usually South Gate to East Gate or South Gate to West Gate, then descend and carry on with their day. Pay for bike rental and any ticketed entry by cash or, more commonly now, mobile payment (Alipay/WeChat Pay) rather than expecting card machines everywhere.
+
+Go up early morning, around 8–9am, when the light is flat and gold and the ramp isn't yet full of tour groups arriving by bus; late afternoon into evening, when the lanterns come on, is the other sweet spot. The mistake most first-time visitors make is treating this as a quick 20-minute photo stop — budget at least an hour, because the payoff is the unbroken rhythm of walking or riding along the top with the old city on one side and the new city skyline on the other.
+
+Wear a hat or bring sun protection in summer, since the brick surface reflects heat with almost no shade, and expect uneven, worn sections of brick near the older watchtowers, so flat shoes serve you better than sandals.

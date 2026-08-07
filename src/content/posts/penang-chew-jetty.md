@@ -54,15 +54,21 @@ You smell it before you see it — salt, low tide, and creosote off old timber p
 
 ## Why go
 
-Chew Jetty is one of six surviving clan jetties built by Chinese immigrant communities in the 1800s, each settlement named for a single family clan — the Chews, in this case — who built their homes on stilts over the water because land in Georgetown was scarce and taxed, while the sea was free. Roughly 4.1 stars across over 10,000 reviews tells you this is now firmly on the tourist circuit, not a quiet corner anyone stumbles onto by accident. What makes it worth the visit anyway is that people still actually live here — laundry strung between houses, cats asleep on window ledges, a grandmother fanning herself on a plastic stool outside her front door while, ten feet away, a tour group photographs her house.
+Chew Jetty is one of six surviving clan jetties built by Chinese immigrant communities in the 1800s, each settlement named for a single family clan — the Chews, in this case — who built their homes on stilts over the water because land in Georgetown was scarce and taxed, while the sea was free. Roughly 4.1 stars across over 10,000 reviews tells you this is now firmly on the tourist circuit, not a quiet corner anyone stumbles onto by accident.
+
+What makes it worth the visit anyway is that people still actually live here — laundry strung between houses, cats asleep on window ledges, a grandmother fanning herself on a plastic stool outside her front door while, ten feet away, a tour group photographs her house.
 
 ## Getting there
 
-Chew Jetty sits at the southern edge of Georgetown's UNESCO World Heritage core, at the foot of Pengkalan Weld along the waterfront, an easy 10-minute walk from Fort Cornwallis or the Clan Jetties' more famous cousin, the clock tower roundabout. If you're coming from further out, Rapid Penang buses running along the waterfront (routes serving Weld Quay) stop within a few minutes' walk, and the Weld Quay ferry terminal for the Penang–Butterworth ferry is right next door, so it pairs naturally with a ferry ride. Grab or taxi drivers all know it by name. There's no admission gate and no ticket booth — you simply walk in from the street.
+Chew Jetty sits at the southern edge of Georgetown's UNESCO World Heritage core, at the foot of Pengkalan Weld along the waterfront, an easy 10-minute walk from Fort Cornwallis or the Clan Jetties' more famous cousin, the clock tower roundabout. If you're coming from further out, Rapid Penang buses running along the waterfront (routes serving Weld Quay) stop within a few minutes' walk, and the Weld Quay ferry terminal for the Penang–Butterworth ferry is right next door, so it pairs naturally with a ferry ride.
+
+Grab or taxi drivers all know it by name. There's no admission gate and no ticket booth — you simply walk in from the street.
 
 ## What to see and do
 
-The jetty itself is short — maybe 200 meters of main boardwalk with narrower side-planks branching toward individual homes — so you're not looking at hours of exploring. What you're here for is texture: corrugated zinc roofs patched with mismatched sheets, small family-run shrines with red lanterns and incense coils, hand-painted shopfronts selling batik sarongs, keychains, and cendol or ais kacang to cool down in the heat. Peer between the houses and you get a straight shot down to the water lapping against the pilings, with the container cranes of Swettenham Pier and passing ferries in the background — one of the more photographed views in George Town, and deservedly so. Some residents run small stalls or open their front rooms as informal shops; buying a drink or a souvenir here is a decent way to put a little money directly into the community whose homes you're walking through.
+The jetty itself is short — maybe 200 meters of main boardwalk with narrower side-planks branching toward individual homes — so you're not looking at hours of exploring. What you're here for is texture: corrugated zinc roofs patched with mismatched sheets, small family-run shrines with red lanterns and incense coils, hand-painted shopfronts selling batik sarongs, keychains, and cendol or ais kacang to cool down in the heat.
+
+Peer between the houses and you get a straight shot down to the water lapping against the pilings, with the container cranes of Swettenham Pier and passing ferries in the background — one of the more photographed views in George Town, and deservedly so. Some residents run small stalls or open their front rooms as informal shops; buying a drink or a souvenir here is a decent way to put a little money directly into the community whose homes you're walking through.
 
 ## When to go
 
@@ -70,4 +76,8 @@ Georgetown's heat builds fast, and the jetty has almost no shade once you're out
 
 ## How to visit like a local
 
-Skip the urge to treat this as a photo backdrop only. Walk slowly, keep your voice down near people's front doors, and ask before photographing anyone directly — several homes have signs politely requesting no photos of residents, and it's worth honoring them even where there isn't one. Cash in small ringgit notes is what stallholders expect; card readers are rare here. There's no formal queue system, but the boardwalk is narrow, so the local rhythm is simple: keep moving, let people with baskets or bicycles pass, and don't block the planks for a photo when others are behind you. The mistake most visitors make is rushing through in five minutes because it's "just a photo stop" between the street art and the temples — slow down instead, and you'll notice the small details, like offerings at doorway shrines or a resident mending fishing nets, that make it more than a backdrop. Pair it with a walk to nearby Armenian Street for Georgetown's murals, or the Weld Quay ferry terminal for a cheap harbor crossing to Butterworth.
+Skip the urge to treat this as a photo backdrop only. Walk slowly, keep your voice down near people's front doors, and ask before photographing anyone directly — several homes have signs politely requesting no photos of residents, and it's worth honoring them even where there isn't one. Cash in small ringgit notes is what stallholders expect; card readers are rare here.
+
+There's no formal queue system, but the boardwalk is narrow, so the local rhythm is simple: keep moving, let people with baskets or bicycles pass, and don't block the planks for a photo when others are behind you. The mistake most visitors make is rushing through in five minutes because it's "just a photo stop" between the street art and the temples — slow down instead, and you'll notice the small details, like offerings at doorway shrines or a resident mending fishing nets, that make it more than a backdrop.
+
+Pair it with a walk to nearby Armenian Street for Georgetown's murals, or the Weld Quay ferry terminal for a cheap harbor crossing to Butterworth.

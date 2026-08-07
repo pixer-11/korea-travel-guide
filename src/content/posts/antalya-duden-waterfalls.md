@@ -55,15 +55,21 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Duden Waterfalls are one of Antalya's most photographed natural landmarks: a partly underground river that resurfaces and drops in cascades in front of a large limestone cave. The Upper Duden Falls, set inside a landscaped municipal park in Kepez district, let you walk directly behind and beside the falling water — a rare vantage point that makes the short visit worthwhile even for travelers who've seen plenty of waterfalls elsewhere. With a 4.6 rating across nearly 38,000 reviews, it's firmly established as a must-see rather than a niche stop, so expect company.
+Duden Waterfalls are one of Antalya's most photographed natural landmarks: a partly underground river that resurfaces and drops in cascades in front of a large limestone cave. The Upper Duden Falls, set inside a landscaped municipal park in Kepez district, let you walk directly behind and beside the falling water — a rare vantage point that makes the short visit worthwhile even for travelers who've seen plenty of waterfalls elsewhere.
+
+With a 4.6 rating across nearly 38,000 reviews, it's firmly established as a must-see rather than a niche stop, so expect company.
 
 ## Getting there
 
-The falls sit inside Düden Şelalesi Parkı in Varsak Mahallesi, Kepez, a district north of central Antalya. Most visitors arrive by taxi, rental car, or an organized half-day tour that also covers Antalya's Old Town (Kaleiçi) or the harbor. Public buses run from central Antalya toward Kepez/Varsak, but connections require a change and are slower than a direct taxi, which typically takes 20–30 minutes from the city center depending on traffic. If you're driving, the park has an on-site car park; note that this "Upper" Duden waterfall is a separate location from the "Lower" Duden Falls, which drop dramatically off a coastal cliff into the Mediterranean near Lara Beach — many visitors mistakenly assume it's the same site.
+The falls sit inside Düden Şelalesi Parkı in Varsak Mahallesi, Kepez, a district north of central Antalya. Most visitors arrive by taxi, rental car, or an organized half-day tour that also covers Antalya's Old Town (Kaleiçi) or the harbor. Public buses run from central Antalya toward Kepez/Varsak, but connections require a change and are slower than a direct taxi, which typically takes 20–30 minutes from the city center depending on traffic.
+
+If you're driving, the park has an on-site car park; note that this "Upper" Duden waterfall is a separate location from the "Lower" Duden Falls, which drop dramatically off a coastal cliff into the Mediterranean near Lara Beach — many visitors mistakenly assume it's the same site.
 
 ## What to see and do
 
-The main draw is the cave-and-cascade combination: a paved, railed path leads into a grotto behind the falling water, where the roar and spray make for a dramatic photo spot (bring a dry bag or cover for phones and cameras). The surrounding park is shaded with pine and eucalyptus trees, laid out with walking paths, benches, small tea gardens, and viewing terraces overlooking the river gorge. Look for the network of footbridges crossing the stream and the lookout points giving a full view of the falls from a distance before you approach the cave. Simple cafés inside the park typically serve tea, gözleme, and cold drinks (offerings vary by season) — useful for a break rather than a destination meal in themselves.
+The main draw is the cave-and-cascade combination: a paved, railed path leads into a grotto behind the falling water, where the roar and spray make for a dramatic photo spot (bring a dry bag or cover for phones and cameras). The surrounding park is shaded with pine and eucalyptus trees, laid out with walking paths, benches, small tea gardens, and viewing terraces overlooking the river gorge.
+
+Look for the network of footbridges crossing the stream and the lookout points giving a full view of the falls from a distance before you approach the cave. Simple cafés inside the park typically serve tea, gözleme, and cold drinks (offerings vary by season) — useful for a break rather than a destination meal in themselves.
 
 ## When to go
 
@@ -71,7 +77,11 @@ Spring (April–May) brings the fullest water flow after winter rains and comfor
 
 ## How to visit like a local
 
-Because this is a very popular, well-established stop on the Antalya tour circuit rather than an undiscovered spot, the useful local knowledge is about timing and etiquette rather than secrecy. Go early on a weekday morning if your schedule allows — weekends and midday in high season bring large tour groups that bottleneck the cave walkway. Wear shoes with grip, since the paths near the falls stay damp and slightly slippery from spray. Cash (Turkish lira) is handy for small park vendors and tea stalls, though cards are increasingly accepted at larger cafés; tipping a small amount (rounding up or 5–10%) at food stalls is appreciated but not obligatory. The most common visitor mistake is confusing this Upper Duden site with the coastal Lower Duden waterfall — check which one your taxi or tour is taking you to, and if time allows, see both, since they're genuinely different experiences (cave-and-park versus a cliffside plunge into the sea). Plan on roughly an hour to 90 minutes here: enough to walk the loop path, enter the cave viewpoint, and have a tea, without needing much more.
+Because this is a very popular, well-established stop on the Antalya tour circuit rather than an undiscovered spot, the useful local knowledge is about timing and etiquette rather than secrecy. Go early on a weekday morning if your schedule allows — weekends and midday in high season bring large tour groups that bottleneck the cave walkway. Wear shoes with grip, since the paths near the falls stay damp and slightly slippery from spray.
+
+Cash (Turkish lira) is handy for small park vendors and tea stalls, though cards are increasingly accepted at larger cafés; tipping a small amount (rounding up or 5–10%) at food stalls is appreciated but not obligatory. The most common visitor mistake is confusing this Upper Duden site with the coastal Lower Duden waterfall — check which one your taxi or tour is taking you to, and if time allows, see both, since they're genuinely different experiences (cave-and-park versus a cliffside plunge into the sea).
+
+Plan on roughly an hour to 90 minutes here: enough to walk the loop path, enter the cave viewpoint, and have a tea, without needing much more.
 
 ## Nearby combinations
 

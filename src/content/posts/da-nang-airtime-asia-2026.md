@@ -51,17 +51,23 @@ eventRecurring: false
 
 ## Why this one's different
 
-Most festivals you fly for are a single field, a single stage, a wristband and a queue for the bar. Airtime Asia isn't built that way. It's a hybrid music-and-conference event that treats an entire coastal stretch of central Vietnam as its venue — Da Nang's riverside bars and warehouse-style spaces, plus the lantern-lit old town of Hoi An half an hour down the coast, both pulled into a single four-day program. The premise is regional: underground radio stations, independent labels, broadcasters and artists from across Asia converge here, which means the lineup leans toward names you won't have seen on a major festival poster before, alongside talks and panels aimed at people who work in music as much as people who just want to dance.
+Most festivals you fly for are a single field, a single stage, a wristband and a queue for the bar. Airtime Asia isn't built that way. It's a hybrid music-and-conference event that treats an entire coastal stretch of central Vietnam as its venue — Da Nang's riverside bars and warehouse-style spaces, plus the lantern-lit old town of Hoi An half an hour down the coast, both pulled into a single four-day program.
+
+The premise is regional: underground radio stations, independent labels, broadcasters and artists from across Asia converge here, which means the lineup leans toward names you won't have seen on a major festival poster before, alongside talks and panels aimed at people who work in music as much as people who just want to dance.
 
 ## Getting there and getting around
 
-Da Nang International Airport (DAD) is the obvious entry point — it's one of Vietnam's busier international airports and has direct connections from regional hubs like Bangkok, Singapore, Seoul and several Chinese cities, so you're unlikely to need a connection through Hanoi or Ho Chi Minh City. From the airport, the city center is a short taxi or ride-hail trip, typically well under 20 minutes. If your itinerary leans toward the Hoi An side of the festival, expect another 30–45 minutes by car or scheduled shuttle down the coastal road, a route that's scenic enough in daylight that it's worth doing at least once by taxi rather than shuttle bus.
+Da Nang International Airport (DAD) is the obvious entry point — it's one of Vietnam's busier international airports and has direct connections from regional hubs like Bangkok, Singapore, Seoul and several Chinese cities, so you're unlikely to need a connection through Hanoi or Ho Chi Minh City. From the airport, the city center is a short taxi or ride-hail trip, typically well under 20 minutes.
+
+If your itinerary leans toward the Hoi An side of the festival, expect another 30–45 minutes by car or scheduled shuttle down the coastal road, a route that's scenic enough in daylight that it's worth doing at least once by taxi rather than shuttle bus.
 
 Because the event spans two cities and 15+ venues, don't assume everything is walkable. Da Nang's venues are spread along the river and beachfront; Hoi An's are concentrated in and around the old town, which is largely pedestrianized in its core. Grab (Southeast Asia's ride-hailing app) is the easiest way to move between venues at odd hours, and it's worth having it installed before you land.
 
 ## What to expect from the program
 
-With over 40 artists across four days, the shape of Airtime Asia is less "headliner and support" and more a running current of showcases, club sets, open-air sessions and live radio broadcasts, interspersed with talks and panels that bring in the label and broadcaster side of the festival's identity. That conference layer is what separates it from a standard music festival lineup — expect daytime sessions on running independent stations, distribution and the regional music scene, not just nightly sets. Exact venues, stage names, and the artist lineup are still being finalized as of this writing, so treat any list you see online as provisional until the festival's own channels confirm it.
+With over 40 artists across four days, the shape of Airtime Asia is less "headliner and support" and more a running current of showcases, club sets, open-air sessions and live radio broadcasts, interspersed with talks and panels that bring in the label and broadcaster side of the festival's identity. That conference layer is what separates it from a standard music festival lineup — expect daytime sessions on running independent stations, distribution and the regional music scene, not just nightly sets.
+
+Exact venues, stage names, and the artist lineup are still being finalized as of this writing, so treat any list you see online as provisional until the festival's own channels confirm it.
 
 ## When to go and what to plan around
 
@@ -69,7 +75,11 @@ August in central Vietnam is hot, humid, and squarely in the region's rainy seas
 
 ## How to visit like a local
 
-Vietnamese festival crowds skew toward late starts — don't expect the night's real energy before 9 or 10pm, even if a schedule lists earlier set times. Cash still moves faster than cards at smaller bars and street vendors in both cities, so carry Vietnamese dong for anything outside main ticketed venues, and keep a card or e-wallet ready for official festival transactions. Tipping isn't a strong local custom at bars, though rounding up for table service is appreciated. If you're moving between Da Nang and Hoi An for different showcases, book your ride in advance during peak festival hours rather than trying to hail one curbside near a packed venue — that half-hour coastal road becomes the bottleneck everyone hits at once. The most common mistake visitors make with multi-venue festivals like this is over-scheduling: pick two or three must-see acts a night and let the rest be discovery, rather than sprinting between every venue on the map.
+Vietnamese festival crowds skew toward late starts — don't expect the night's real energy before 9 or 10pm, even if a schedule lists earlier set times. Cash still moves faster than cards at smaller bars and street vendors in both cities, so carry Vietnamese dong for anything outside main ticketed venues, and keep a card or e-wallet ready for official festival transactions.
+
+Tipping isn't a strong local custom at bars, though rounding up for table service is appreciated. If you're moving between Da Nang and Hoi An for different showcases, book your ride in advance during peak festival hours rather than trying to hail one curbside near a packed venue — that half-hour coastal road becomes the bottleneck everyone hits at once.
+
+The most common mistake visitors make with multi-venue festivals like this is over-scheduling: pick two or three must-see acts a night and let the rest be discovery, rather than sprinting between every venue on the map.
 
 ## Before you book
 

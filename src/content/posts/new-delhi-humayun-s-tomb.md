@@ -48,7 +48,9 @@ draft: false
 
 ## Why go
 
-You come around the sandstone gatehouse and the tomb just sits there, framed by a long reflecting pool, symmetrical and enormous, its white marble dome catching the light differently depending on the hour. Built in 1572 for the Mughal emperor Humayun, this is the structure that architectural historians point to as the direct template for the Taj Mahal — the double dome, the charbagh garden split into quadrants by water channels, the raised platform you climb before the building reveals its full scale. It doesn't have the marble inlay or the crowds-within-crowds of Agra, but it has the same bones, and you can walk right up and put your hand on the red sandstone, still warm from the sun.
+You come around the sandstone gatehouse and the tomb just sits there, framed by a long reflecting pool, symmetrical and enormous, its white marble dome catching the light differently depending on the hour. Built in 1572 for the Mughal emperor Humayun, this is the structure that architectural historians point to as the direct template for the Taj Mahal — the double dome, the charbagh garden split into quadrants by water channels, the raised platform you climb before the building reveals its full scale.
+
+It doesn't have the marble inlay or the crowds-within-crowds of Agra, but it has the same bones, and you can walk right up and put your hand on the red sandstone, still warm from the sun.
 
 ## Getting there
 
@@ -56,15 +58,23 @@ The tomb sits on Mathura Road in the Nizamuddin East area, next to the medieval 
 
 ## What you'll see inside
 
-Beyond the ticket gate, the path leads through a garden laid out in the classic Persian *charbagh* pattern — four quadrants, water channels meeting at right angles, the tomb dead-center. Climb the sandstone plinth and you reach the main chamber, where Humayun's cenotaph sits under the dome, oriented so the real grave lies below in a functioning crypt. Look up as you pass through the archways: the jaali screens cut geometric shadows onto the floor that shift through the day. The complex isn't just one tomb — wander the grounds and you'll find the Isa Khan Tomb (older than Humayun's, an octagonal Lodi-era structure with its own sunken garden), the Barber's Tomb, and the Arab Serai, once housing for the Persian craftsmen who worked on the site. Give yourself at least 90 minutes if you want to see more than the headline building.
+Beyond the ticket gate, the path leads through a garden laid out in the classic Persian *charbagh* pattern — four quadrants, water channels meeting at right angles, the tomb dead-center. Climb the sandstone plinth and you reach the main chamber, where Humayun's cenotaph sits under the dome, oriented so the real grave lies below in a functioning crypt. Look up as you pass through the archways: the jaali screens cut geometric shadows onto the floor that shift through the day.
+
+The complex isn't just one tomb — wander the grounds and you'll find the Isa Khan Tomb (older than Humayun's, an octagonal Lodi-era structure with its own sunken garden), the Barber's Tomb, and the Arab Serai, once housing for the Persian craftsmen who worked on the site. Give yourself at least 90 minutes if you want to see more than the headline building.
 
 ## When to go
 
-Early morning is the difference between a good visit and a great one — soft light on the sandstone, cooler air, and thinner crowds before the day-trip buses arrive. Delhi's cooler months, October through March, are far more comfortable for the amount of walking involved across open, largely unshaded garden paths; from April to June the midday sun on that plinth is genuinely punishing. Late afternoon, an hour or two before closing, is the other good window, when the light turns golden on the dome. Confirm the current opening hours before you go, since they can shift seasonally.
+Early morning is the difference between a good visit and a great one — soft light on the sandstone, cooler air, and thinner crowds before the day-trip buses arrive. Delhi's cooler months, October through March, are far more comfortable for the amount of walking involved across open, largely unshaded garden paths; from April to June the midday sun on that plinth is genuinely punishing.
+
+Late afternoon, an hour or two before closing, is the other good window, when the light turns golden on the dome. Confirm the current opening hours before you go, since they can shift seasonally.
 
 ## How to visit like a local
 
-This is one of Delhi's most-visited monuments, not a quiet secret, so plan around that rather than expecting solitude. Buy your ticket online in advance where possible — it saves time at the counter and lets you walk straight to security. Arrive right at opening if you can; by mid-morning on weekends and holidays the plinth and main chamber fill with tour groups and school trips, and the reflecting-pool view gets crowded with people angling for photos. Carry a bottle of water and a hat — there's little shade once you're past the garden treeline. Modest dress is appreciated, as it's a mausoleum complex adjoining an active dargah, though there's no formal dress code enforced at the tomb itself. Payment at the ticket counter is generally by card or UPI as well as cash. Once inside, resist the urge to just photograph the main dome and leave — the quieter corners, like the Isa Khan enclosure just past the entrance, are where you get the building almost to yourself even at busy times. Guides cluster near the entrance and can be hired on the spot; agreeing on a price before you start is standard practice.
+This is one of Delhi's most-visited monuments, not a quiet secret, so plan around that rather than expecting solitude. Buy your ticket online in advance where possible — it saves time at the counter and lets you walk straight to security. Arrive right at opening if you can; by mid-morning on weekends and holidays the plinth and main chamber fill with tour groups and school trips, and the reflecting-pool view gets crowded with people angling for photos.
+
+Carry a bottle of water and a hat — there's little shade once you're past the garden treeline. Modest dress is appreciated, as it's a mausoleum complex adjoining an active dargah, though there's no formal dress code enforced at the tomb itself. Payment at the ticket counter is generally by card or UPI as well as cash. Once inside, resist the urge to just photograph the main dome and leave — the quieter corners, like the Isa Khan enclosure just past the entrance, are where you get the building almost to yourself even at busy times.
+
+Guides cluster near the entrance and can be hired on the spot; agreeing on a price before you start is standard practice.
 
 ## Nearby to combine with your visit
 

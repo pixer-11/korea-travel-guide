@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: okinawa-southeast-botanical-gardens
-srcHash: 60e767bc53d2
+srcHash: 'a5d76fcea7f3'
 title: 'Jardines Botánicos del Sudeste: Guía de viaje de Okinawa'
 description: Los Jardines Botánicos del Sudeste (東南植物楽園) en Okinawa City son un extenso jardín tropical con lagos, invernaderos de orquídeas y encuentros con animales, ideales para visitar en una escapada de medio día combinada con un coche de alquiler, ya que se encuentran en el interior, alejados de las rutas de autobús costeras.
 quickAnswer: Los Jardines Botánicos del Sudeste (東南植物楽園) en Okinawa City son un extenso jardín tropical con lagos, invernaderos de orquídeas y encuentros con animales, ideales para visitar en una escapada de medio día combinada con un coche de alquiler, ya que se encuentran en el interior, alejados de las rutas de autobús costeras. Ve por la mañana para evitar el calor del mediodía y comprueba si la temporada de iluminación nocturna está en marcha si quieres disfrutar de una versión muy distinta de los mismos jardines, iluminados con farolillos.
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Los Jardines Botánicos del Sudeste (東南植物楽園, Tonan Shokubutsu Rakuen) son uno de los complejos de jardines cultivados más grandes de Okinawa, extendidos por un terreno ondulado en Chibana, Okinawa City, en el centro de la isla principal. A diferencia de los jardines más cuidados y de temática única que se encuentran en otras partes de la isla, este combina especies subtropicales autóctonas con palmeras importadas, orquídeas, cactus y árboles en flor de todo el mundo, distribuidos alrededor de una serie de estanques y lagos. Es un destino genuino de medio día (o más), no una parada rápida para fotos, y la escala misma forma parte del atractivo: los senderos serpentean entre bosquecillos de bambú, avenidas de palmeras y un gran lago de nenúfares que es el eje central del recinto.
+Los Jardines Botánicos del Sudeste (東南植物楽園, Tonan Shokubutsu Rakuen) son uno de los complejos de jardines cultivados más grandes de Okinawa, extendidos por un terreno ondulado en Chibana, Okinawa City, en el centro de la isla principal. A diferencia de los jardines más cuidados y de temática única que se encuentran en otras partes de la isla, este combina especies subtropicales autóctonas con palmeras importadas, orquídeas, cactus y árboles en flor de todo el mundo, distribuidos alrededor de una serie de estanques y lagos.
+
+Es un destino genuino de medio día (o más), no una parada rápida para fotos, y la escala misma forma parte del atractivo: los senderos serpentean entre bosquecillos de bambú, avenidas de palmeras y un gran lago de nenúfares que es el eje central del recinto.
 
 El jardín también apuesta por los "encuentros con animales", una categoría que en la práctica se traduce en pequeños recintos y zonas interactivas (a lo largo de los años han pasado por aquí capibaras, flamencos y otras especies no autóctonas), además de talleres estacionales. Es un lugar pensado tanto para familias y paseos tranquilos como para entusiastas serios de la botánica, algo que se refleja en la calificación de 4.1 sobre casi 1.800 reseñas: los visitantes suelen valorar muy bien el paisaje y el ambiente, aunque señalan que es más una "tarde agradable" que una "maravilla natural imprescindible".
 
@@ -32,7 +34,9 @@ Un coche de alquiler es la opción práctica para casi todo el mundo. Desde el c
 
 ## Qué ver y hacer
 
-Reserva al menos dos o tres horas, más si piensas comer en el recinto o entretenerte en las zonas de animales. Entre los puntos destacados están el invernadero de orquídeas, los paseos bordeados de palmeras, una gran zona de lago ideal para caminatas tranquilas y fotos, y exhibiciones florales estacionales que cambian a lo largo del año: plumeria e hibisco en verano, floraciones propias de la temporada fría en invierno, ya que el clima subtropical de Okinawa mantiene algo floreciendo casi todo el año. Las zonas de encuentro con animales están pensadas claramente para niños y visitantes ocasionales, más que para puristas de la vida silvestre, así que ajusta tus expectativas en consecuencia.
+Reserva al menos dos o tres horas, más si piensas comer en el recinto o entretenerte en las zonas de animales. Entre los puntos destacados están el invernadero de orquídeas, los paseos bordeados de palmeras, una gran zona de lago ideal para caminatas tranquilas y fotos, y exhibiciones florales estacionales que cambian a lo largo del año: plumeria e hibisco en verano, floraciones propias de la temporada fría en invierno, ya que el clima subtropical de Okinawa mantiene algo floreciendo casi todo el año.
+
+Las zonas de encuentro con animales están pensadas claramente para niños y visitantes ocasionales, más que para puristas de la vida silvestre, así que ajusta tus expectativas en consecuencia.
 
 El jardín también organiza un evento de iluminación nocturna en ciertas temporadas (tradicionalmente de otoño a invierno), que transforma los mismos senderos en un paseo nocturno iluminado, una experiencia notablemente distinta de la visita diurna y que vale la pena comprobar antes de ir si viajas fuera del calor máximo del verano.
 
@@ -44,4 +48,6 @@ Los veranos de Okinawa (junio–septiembre) son calurosos y húmedos, con una ex
 
 ## Cerca de allí y consejos
 
-Como el jardín se encuentra en el interior de Okinawa City y no cerca de la costa, combina bien con otras paradas del centro de la isla en un día de ruta en coche; esta zona de la isla recibe menos turismo que las playas del sur o la ruta hacia el Acuario Churaumi (Churaumi Aquarium) en el norte, así que en general puedes esperar una visita más tranquila. Lleva agua y protección solar incluso en los meses más frescos, ya que gran parte del jardín está al aire libre y sin sombra, y confirma el horario vigente, los precios de las entradas y si los horarios de iluminación o talleres están activos antes de salir, ya que estos detalles varían según la temporada.
+Como el jardín se encuentra en el interior de Okinawa City y no cerca de la costa, combina bien con otras paradas del centro de la isla en un día de ruta en coche; esta zona de la isla recibe menos turismo que las playas del sur o la ruta hacia el Acuario Churaumi (Churaumi Aquarium) en el norte, así que en general puedes esperar una visita más tranquila.
+
+Lleva agua y protección solar incluso en los meses más frescos, ya que gran parte del jardín está al aire libre y sin sombra, y confirma el horario vigente, los precios de las entradas y si los horarios de iluminación o talleres están activos antes de salir, ya que estos detalles varían según la temporada.

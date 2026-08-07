@@ -53,11 +53,15 @@ draft: false
 
 ## Why go
 
-Long before Shanghai had a skyline, it had this garden. Yu Garden was laid out in 1577 by a Ming dynasty official named Pan Yunduan as a private retreat for his father, and what survives today — restored after damage over the centuries, including during the Opium War and Cultural Revolution — is still recognizably a scholar's garden: compressed, layered, designed so that no view repeats. You walk through a moon gate and the sightlines close down to a wall of grey rockery; you turn a corner and suddenly there's a pond with koi hanging motionless under a zigzag bridge. Five acres sounds small, and it is, but the whole point of this style of garden is that it doesn't reveal itself all at once.
+Long before Shanghai had a skyline, it had this garden. Yu Garden was laid out in 1577 by a Ming dynasty official named Pan Yunduan as a private retreat for his father, and what survives today — restored after damage over the centuries, including during the Opium War and Cultural Revolution — is still recognizably a scholar's garden: compressed, layered, designed so that no view repeats.
+
+You walk through a moon gate and the sightlines close down to a wall of grey rockery; you turn a corner and suddenly there's a pond with koi hanging motionless under a zigzag bridge. Five acres sounds small, and it is, but the whole point of this style of garden is that it doesn't reveal itself all at once.
 
 ## What you'll actually see
 
-Inside are around thirty structures — halls, pavilions, corridors, towers — connected by covered walkways with dragon-topped walls snaking along the boundaries (the undulating rooflines are meant to evoke a dragon's spine, complete with ceramic dragon heads). Look for the Exquisite Jade Rock, a limestone boulder said to have been destined for an imperial garden centuries ago before it ended up here; the Hall of Heralding Spring, tied to the Small Sword Society uprising in the 1850s; and the Grand Rockery, a man-made hill of yellow stone you can actually climb for a rooftop-level view back over the garden. Ponds throughout are stocked with fat koi, and stone bridges — some straight, some zigzagging on the theory that evil spirits can't turn corners — cross them at odd, deliberate angles.
+Inside are around thirty structures — halls, pavilions, corridors, towers — connected by covered walkways with dragon-topped walls snaking along the boundaries (the undulating rooflines are meant to evoke a dragon's spine, complete with ceramic dragon heads). Look for the Exquisite Jade Rock, a limestone boulder said to have been destined for an imperial garden centuries ago before it ended up here; the Hall of Heralding Spring, tied to the Small Sword Society uprising in the 1850s; and the Grand Rockery, a man-made hill of yellow stone you can actually climb for a rooftop-level view back over the garden.
+
+Ponds throughout are stocked with fat koi, and stone bridges — some straight, some zigzagging on the theory that evil spirits can't turn corners — cross them at odd, deliberate angles.
 
 ## Getting there
 
@@ -73,5 +77,9 @@ The garden is open Tuesday through Sunday, 9:00 AM to 4:30 PM, and closed all da
 
 ## How to visit like a local
 
-This is one of the most-visited attractions in Shanghai, so the goal isn't finding a quiet secret — it's timing your visit around everyone else's. Arrive as close to the 9:00 AM opening as you can manage; by mid-morning tour groups with raised flags and portable speakers fill the narrow rockery paths, and by afternoon on weekends it can feel closer to a subway platform than a garden. Buy your ticket at the official counter near the garden entrance rather than from touts working the bazaar lanes, who sometimes sell overpriced or invalid tickets. Tickets are ordinarily inexpensive by international standards, but confirm current pricing at the gate or on the official Yuyuan site, since it does change. Most locals pay by mobile (Alipay/WeChat Pay) rather than cash. The single biggest mistake tourists make is treating the garden and the surrounding bazaar as the same stop and rushing both — slow down inside the walls specifically, since the whole design rewards lingering at each pavilion rather than walking straight through. Wear shoes with grip: some of the rockery paths and bridge steps are uneven stone, polished smooth by decades of foot traffic.
+This is one of the most-visited attractions in Shanghai, so the goal isn't finding a quiet secret — it's timing your visit around everyone else's. Arrive as close to the 9:00 AM opening as you can manage; by mid-morning tour groups with raised flags and portable speakers fill the narrow rockery paths, and by afternoon on weekends it can feel closer to a subway platform than a garden.
+
+Buy your ticket at the official counter near the garden entrance rather than from touts working the bazaar lanes, who sometimes sell overpriced or invalid tickets. Tickets are ordinarily inexpensive by international standards, but confirm current pricing at the gate or on the official Yuyuan site, since it does change. Most locals pay by mobile (Alipay/WeChat Pay) rather than cash.
+
+The single biggest mistake tourists make is treating the garden and the surrounding bazaar as the same stop and rushing both — slow down inside the walls specifically, since the whole design rewards lingering at each pavilion rather than walking straight through. Wear shoes with grip: some of the rockery paths and bridge steps are uneven stone, polished smooth by decades of foot traffic.
 

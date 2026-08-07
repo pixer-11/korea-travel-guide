@@ -27,17 +27,23 @@ draft: true
 
 ## Why 886 Taiwan Yè Shì stands out
 
-Most airport dining is a means to an end — you eat because your gate is far and your flight is delayed, not because the restaurant itself is a reason to arrive early. 886 Taiwan Yè Shì flips that logic. Tucked into Changi Airport's Terminal 3, it recreates a Taiwanese night market (yè shì, 夜市) as a full sensory set piece: a replica vintage train carriage modeled on Shifen station, one of Taiwan's most photographed rail stops, complete with tracks running along the floor and sky lanterns glowing overhead. In Shifen itself, visitors write wishes on paper lanterns and release them skyward over the train tracks; here, that ritual becomes part of the meal, letting travelers with zero time for a trip to Taiwan's northeast coast still take part in something close to the real thing.
+Most airport dining is a means to an end — you eat because your gate is far and your flight is delayed, not because the restaurant itself is a reason to arrive early. 886 Taiwan Yè Shì flips that logic. Tucked into Changi Airport's Terminal 3, it recreates a Taiwanese night market (yè shì, 夜市) as a full sensory set piece: a replica vintage train carriage modeled on Shifen station, one of Taiwan's most photographed rail stops, complete with tracks running along the floor and sky lanterns glowing overhead.
+
+In Shifen itself, visitors write wishes on paper lanterns and release them skyward over the train tracks; here, that ritual becomes part of the meal, letting travelers with zero time for a trip to Taiwan's northeast coast still take part in something close to the real thing.
 
 It's a concept restaurant in the truest sense — not just Taiwanese food in a generic food-court unit, but an attempt to compress an entire night-market atmosphere into a single airport space. That makes it as much a photo-worthy detour as a meal stop, which matters if you're the kind of traveler who treats layovers as bonus sightseeing time rather than dead hours.
 
 ## Getting there
 
-886 Taiwan Yè Shì is located within Changi Airport Terminal 3, reachable via the free Skytrain connecting Terminals 1, 2, and 3 if you're arriving from elsewhere in the airport. Because it's inside the terminal, it's realistically only accessible to passengers who are flying out of or transiting through T3 — this isn't a spot you can pop into from outside security. If your flight departs from another terminal, budget extra time to clear back through security after visiting, or check whether landside access is possible before you commit to the detour.
+886 Taiwan Yè Shì is located within Changi Airport Terminal 3, reachable via the free Skytrain connecting Terminals 1, 2, and 3 if you're arriving from elsewhere in the airport. Because it's inside the terminal, it's realistically only accessible to passengers who are flying out of or transiting through T3 — this isn't a spot you can pop into from outside security.
+
+If your flight departs from another terminal, budget extra time to clear back through security after visiting, or check whether landside access is possible before you commit to the detour.
 
 ## What to expect on the plate
 
-The restaurant serves Taiwanese night-market staples, the kind of food that built Shilin and Raohe market's reputations back in Taipei: hand-pulled la mian noodles made to order, and Taiwanese-style fried chicken, the type served in generous, craggy-crusted pieces dusted with five-spice and basil. Expect the broader night-market repertoire — noodle soups, fried snacks, and small-plate street food — built around those signature items rather than a formal sit-down menu. Since exact dishes and prices weren't published in detail, treat the menu as a evolving one and confirm current offerings on-site or via Changi Airport's own listings before you go.
+The restaurant serves Taiwanese night-market staples, the kind of food that built Shilin and Raohe market's reputations back in Taipei: hand-pulled la mian noodles made to order, and Taiwanese-style fried chicken, the type served in generous, craggy-crusted pieces dusted with five-spice and basil. Expect the broader night-market repertoire — noodle soups, fried snacks, and small-plate street food — built around those signature items rather than a formal sit-down menu.
+
+Since exact dishes and prices weren't published in detail, treat the menu as a evolving one and confirm current offerings on-site or via Changi Airport's own listings before you go.
 
 ## When to go
 
@@ -45,5 +51,9 @@ The restaurant serves Taiwanese night-market staples, the kind of food that buil
 
 ## How to visit like a local
 
-Treat this less like a quick meal and more like a fifteen-minute detour worth building into your layover schedule, the way regular Changi transiters build in time for the butterfly garden or the rooftop pool. Arrive with your boarding pass and passport already in hand, since you're inside the transit zone — there's no ducking out and back in. Order at the counter as you would at an actual night-market stall rather than expecting full table service, and keep small change or a payment card ready, as most Changi F&B counters now favor card and mobile payment over cash. If the sky-lantern wish ritual is offered as a physical write-and-hang activity, take part before you eat rather than after — it's the kind of thing that gets rushed once food arrives and your gate time starts ticking. Because opening hours, exact seating capacity, and whether reservations are accepted haven't been firmly established this early in its run, check Changi Airport's official website or app for current hours before building it into a tight connection. The single biggest mistake likely to trip up visitors: assuming it's landside and accessible without a boarding pass, so confirm terminal and security-zone details for your specific flight before setting your heart on a visit.
+Treat this less like a quick meal and more like a fifteen-minute detour worth building into your layover schedule, the way regular Changi transiters build in time for the butterfly garden or the rooftop pool. Arrive with your boarding pass and passport already in hand, since you're inside the transit zone — there's no ducking out and back in. Order at the counter as you would at an actual night-market stall rather than expecting full table service, and keep small change or a payment card ready, as most Changi F&B counters now favor card and mobile payment over cash.
+
+If the sky-lantern wish ritual is offered as a physical write-and-hang activity, take part before you eat rather than after — it's the kind of thing that gets rushed once food arrives and your gate time starts ticking. Because opening hours, exact seating capacity, and whether reservations are accepted haven't been firmly established this early in its run, check Changi Airport's official website or app for current hours before building it into a tight connection.
+
+The single biggest mistake likely to trip up visitors: assuming it's landside and accessible without a boarding pass, so confirm terminal and security-zone details for your specific flight before setting your heart on a visit.
 

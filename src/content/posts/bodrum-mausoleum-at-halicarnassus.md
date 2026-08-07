@@ -53,11 +53,15 @@ draft: false
 
 ## Why go
 
-You come to the Mausoleum at Halicarnassus not for spectacle but for the strange thrill of standing in a hole in the ground that used to be one of the Seven Wonders of the Ancient World. This was the tomb Mausolus, satrap of Caria, had built for himself around 350 BC — so enormous and so lavishly carved with friezes and freestanding statuary that his name became the root of the word "mausoleum" in every language that borrowed it afterward. What you find today is a low, stone-walled pit sunk below street level, ringed by a modest path, with column drums, foundation blocks, and a scatter of masonry laid out where archaeologists left them. It's humbling precisely because of the gap between what you've read about the place and what remains.
+You come to the Mausoleum at Halicarnassus not for spectacle but for the strange thrill of standing in a hole in the ground that used to be one of the Seven Wonders of the Ancient World. This was the tomb Mausolus, satrap of Caria, had built for himself around 350 BC — so enormous and so lavishly carved with friezes and freestanding statuary that his name became the root of the word "mausoleum" in every language that borrowed it afterward.
+
+What you find today is a low, stone-walled pit sunk below street level, ringed by a modest path, with column drums, foundation blocks, and a scatter of masonry laid out where archaeologists left them. It's humbling precisely because of the gap between what you've read about the place and what remains.
 
 ## What actually survives
 
-Don't expect marble lions or a stepped pyramid roof — those pieces, and the famous frieze fragments, were hauled off centuries ago by the Knights Hospitaller and built straight into the walls of Bodrum Castle (Castle of St. Peter), a fifteen-minute walk toward the harbor. What you can still study on-site is the massive rectangular foundation platform, some vaulted underground chambers believed to be the actual burial vault, a few re-erected column sections, and interpretive panels that reconstruct, in drawings, what the 45-metre stepped tomb with its four-horse marble chariot on top would have looked like. A handful of the surviving sculptural fragments — including a colossal statue thought to be Mausolus himself — are in the British Museum, so if you've seen those before coming here, the ruin clicks into place much faster.
+Don't expect marble lions or a stepped pyramid roof — those pieces, and the famous frieze fragments, were hauled off centuries ago by the Knights Hospitaller and built straight into the walls of Bodrum Castle (Castle of St. Peter), a fifteen-minute walk toward the harbor. What you can still study on-site is the massive rectangular foundation platform, some vaulted underground chambers believed to be the actual burial vault, a few re-erected column sections, and interpretive panels that reconstruct, in drawings, what the 45-metre stepped tomb with its four-horse marble chariot on top would have looked like.
+
+A handful of the surviving sculptural fragments — including a colossal statue thought to be Mausolus himself — are in the British Museum, so if you've seen those before coming here, the ruin clicks into place much faster.
 
 ## Getting there
 
@@ -69,7 +73,11 @@ Bodrum's coastal sun is unforgiving, and this site is essentially an open pit wi
 
 ## How to visit like a local
 
-Treat this as a quick, focused stop rather than a half-day excursion — thirty to forty-five minutes is enough to read the panels, walk the perimeter, and look down into the vaulted chamber. Buy or check tickets at the entrance rather than through a tour desk; it's a straightforward walk-up site with no need to pre-book. Wear a hat and bring water — there's minimal shelter and few facilities right at the ruin itself. Pair the visit with Bodrum Castle first, since seeing the recycled Mausoleum blocks and sculptural fragments built into the castle's walls will make far more sense of what you're looking at once you get to the excavation site itself. The single biggest mistake visitors make is arriving expecting a reconstructed monument on the scale of the Parthenon — come instead with the British Museum fragments or a reconstruction drawing in mind, and the empty foundation stones start to feel less like a letdown and more like a genuine archaeological puzzle. Dress is casual, cash and card are both generally accepted for tickets, and there's no particular etiquette beyond staying on the marked paths around the excavated pits.
+Treat this as a quick, focused stop rather than a half-day excursion — thirty to forty-five minutes is enough to read the panels, walk the perimeter, and look down into the vaulted chamber. Buy or check tickets at the entrance rather than through a tour desk; it's a straightforward walk-up site with no need to pre-book. Wear a hat and bring water — there's minimal shelter and few facilities right at the ruin itself.
+
+Pair the visit with Bodrum Castle first, since seeing the recycled Mausoleum blocks and sculptural fragments built into the castle's walls will make far more sense of what you're looking at once you get to the excavation site itself. The single biggest mistake visitors make is arriving expecting a reconstructed monument on the scale of the Parthenon — come instead with the British Museum fragments or a reconstruction drawing in mind, and the empty foundation stones start to feel less like a letdown and more like a genuine archaeological puzzle.
+
+Dress is casual, cash and card are both generally accepted for tickets, and there's no particular etiquette beyond staying on the marked paths around the excavated pits.
 
 ## Nearby to combine
 

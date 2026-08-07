@@ -73,7 +73,9 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Khao soi is the dish most associated with northern Thailand, and Chiang Rai — quieter and less touristed than Chiang Mai — has its own well-loved versions of it. Khao Soi Restaurant, tucked onto Prasopsook Road in the Wiang subdistrict (Chiang Rai's old town core), has built a strong local and traveler following: a 4.7 rating across more than 800 reviews is a rare consensus for a single-dish specialist. It's the kind of place locals recommend without hesitation, and it sits firmly in the budget price bracket, meaning a full, satisfying bowl typically costs less than a coffee back home.
+Khao soi is the dish most associated with northern Thailand, and Chiang Rai — quieter and less touristed than Chiang Mai — has its own well-loved versions of it. Khao Soi Restaurant, tucked onto Prasopsook Road in the Wiang subdistrict (Chiang Rai's old town core), has built a strong local and traveler following: a 4.7 rating across more than 800 reviews is a rare consensus for a single-dish specialist.
+
+It's the kind of place locals recommend without hesitation, and it sits firmly in the budget price bracket, meaning a full, satisfying bowl typically costs less than a coffee back home.
 
 ## What to eat
 
@@ -83,12 +85,18 @@ Beyond the namesake dish, expect other northern Thai staples on the menu — thi
 
 ## Getting there
 
-The restaurant sits on Prasopsook Road in Amphoe Mueang Chiang Rai, within walking distance of the Old City's main landmarks. If you're based near Clock Tower or the Chiang Rai night bazaar, it's a short walk or a few minutes by songthaew (shared red truck) or tuk-tuk — flag one down and show the address, as drivers know the street well. There's no rail system in Chiang Rai, so taxis, ride-hailing apps like Grab, or rented scooters are the standard way to get around; parking near the old town's narrow sois can be tight around lunch hour, so arriving on foot or by two wheels is often easier than by car.
+The restaurant sits on Prasopsook Road in Amphoe Mueang Chiang Rai, within walking distance of the Old City's main landmarks. If you're based near Clock Tower or the Chiang Rai night bazaar, it's a short walk or a few minutes by songthaew (shared red truck) or tuk-tuk — flag one down and show the address, as drivers know the street well.
+
+There's no rail system in Chiang Rai, so taxis, ride-hailing apps like Grab, or rented scooters are the standard way to get around; parking near the old town's narrow sois can be tight around lunch hour, so arriving on foot or by two wheels is often easier than by car.
 
 ## When to go
 
-Aim for an earlyish lunch — around 11:00–12:00 has usually been the calm window — before the midday rush empties the kitchen of its best-selling items; check current opening hours before making the trip. Because it's a small, focused operation rather than a large tourist-oriented restaurant, popular dishes can run out on busy days, and seating is limited. Weekday visits tend to be calmer than weekends. Chiang Rai's cool season (November to February) is the most comfortable time to be walking the Old City between meals, though the restaurant itself is a good option year-round, including during the hot April-May stretch when a steaming bowl of khao soi still somehow works.
+Aim for an earlyish lunch — around 11:00–12:00 has usually been the calm window — before the midday rush empties the kitchen of its best-selling items; check current opening hours before making the trip. Because it's a small, focused operation rather than a large tourist-oriented restaurant, popular dishes can run out on busy days, and seating is limited. Weekday visits tend to be calmer than weekends.
+
+Chiang Rai's cool season (November to February) is the most comfortable time to be walking the Old City between meals, though the restaurant itself is a good option year-round, including during the hot April-May stretch when a steaming bowl of khao soi still somehow works.
 
 ## Nearby & tips
 
-Prasopsook Road puts you close to other Old City sights worth combining with a meal here: Wat Phra Kaew (the temple that once housed the Emerald Buddha) and the Chiang Rai Clock Tower are both within easy reach on foot or by short tuk-tuk ride, making it simple to build a half-day loop of temple-hopping and eating. Because this is a cash-friendly, informal eatery rather than a high-end restaurant, don't expect elaborate English menus everywhere in town — pointing at photos or asking for "khao soi gai" (chicken) or "khao soi moo" (pork) will get you what you want. Given the price level and rating, it's worth treating this as a benchmark bowl to compare against other khao soi spots in Chiang Rai and Chiang Mai. As with any small, popular kitchen, hours can shift seasonally or around Thai holidays, so it's sensible to check current opening times locally (via your hotel or a quick map search) before making a special trip, especially outside of typical lunch hours.
+Prasopsook Road puts you close to other Old City sights worth combining with a meal here: Wat Phra Kaew (the temple that once housed the Emerald Buddha) and the Chiang Rai Clock Tower are both within easy reach on foot or by short tuk-tuk ride, making it simple to build a half-day loop of temple-hopping and eating. Because this is a cash-friendly, informal eatery rather than a high-end restaurant, don't expect elaborate English menus everywhere in town — pointing at photos or asking for "khao soi gai" (chicken) or "khao soi moo" (pork) will get you what you want.
+
+Given the price level and rating, it's worth treating this as a benchmark bowl to compare against other khao soi spots in Chiang Rai and Chiang Mai. As with any small, popular kitchen, hours can shift seasonally or around Thai holidays, so it's sensible to check current opening times locally (via your hotel or a quick map search) before making a special trip, especially outside of typical lunch hours.

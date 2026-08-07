@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: suwon-local-restaurant
-srcHash: 43dcde88ad75
+srcHash: '0908a2b3f016'
 title: Restaurantes locales en Suwon
 description: El plato insignia de Suwon es el wang-galbi, costillas de res de tamaño gigante, que se disfrutan mejor cerca de la Puerta Paldalmun (Paldalmun Gate) y el Mercado Yeongdong, en el casco histórico.
 quickAnswer: El plato insignia de Suwon es el wang-galbi, costillas de res de tamaño gigante, que se disfrutan mejor cerca de la Puerta Paldalmun (Paldalmun Gate) y el Mercado Yeongdong, en el casco histórico. Ve con hambre por la noche, combínalo con un paseo por la Fortaleza Hwaseong (Hwaseong Fortress), y llega a la zona a través de la Estación de Suwon (Suwon Station, Línea 1) y luego un breve trayecto en taxi o autobús.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué Suwon, y por qué su escena gastronómica
 
-Suwon es conocida principalmente como la sede de la Fortaleza Hwaseong (Hwaseong Fortress), la ciudad amurallada del siglo XVIII declarada Patrimonio de la Humanidad por la UNESCO y construida por el rey Jeongjo. Pero la fortaleza no es solo un telón de fondo histórico: los barrios dentro y alrededor de sus murallas se han convertido en uno de los lugares más gratificantes para comer de la provincia de Gyeonggi. El plato insignia de Suwon, el **galbi de Suwon** (costillas de res a la parrilla, tradicionalmente cortadas más gruesas que el galbi al estilo de Seúl), se originó aquí a mediados del siglo XX y sigue siendo la razón por la que muchos visitantes de un día vienen específicamente a comer antes o después de recorrer la fortaleza. Más allá del galbi, la zona alrededor de la Puerta Paldalmun (Paldalmun Gate) y los mercados tradicionales cercanos ofrecen una concentración densa y caminable de restaurantes locales que rara vez aparecen en menús en inglés en otros lugares.
+Suwon es conocida principalmente como la sede de la Fortaleza Hwaseong (Hwaseong Fortress), la ciudad amurallada del siglo XVIII declarada Patrimonio de la Humanidad por la UNESCO y construida por el rey Jeongjo. Pero la fortaleza no es solo un telón de fondo histórico: los barrios dentro y alrededor de sus murallas se han convertido en uno de los lugares más gratificantes para comer de la provincia de Gyeonggi.
+
+El plato insignia de Suwon, el **galbi de Suwon** (costillas de res a la parrilla, tradicionalmente cortadas más gruesas que el galbi al estilo de Seúl), se originó aquí a mediados del siglo XX y sigue siendo la razón por la que muchos visitantes de un día vienen específicamente a comer antes o después de recorrer la fortaleza. Más allá del galbi, la zona alrededor de la Puerta Paldalmun (Paldalmun Gate) y los mercados tradicionales cercanos ofrecen una concentración densa y caminable de restaurantes locales que rara vez aparecen en menús en inglés en otros lugares.
 
 ## Cómo llegar
 
-La Estación de Suwon (Suwon Station) es el principal punto de acceso, a la que se llega mediante la **Línea 1** del metro de Seúl (entre 1 y 1,5 horas desde el centro de Seúl) o en trenes KTX/ITX desde la Estación de Seúl (aproximadamente 30-45 minutos). Desde la Estación de Suwon, el casco histórico alrededor de la Fortaleza Hwaseong y la Puerta Paldalmun está a unos 10-15 minutos en taxi, o se puede llegar en autobuses locales (las líneas 13, 36, 46 y varias otras circulan hacia Paldalmun). Muchos visitantes optan por bajarse en la **Estación de Suwon, Línea 1**, y hacer trasbordo a un autobús, o tomar un taxi directamente hasta la **Puerta Paldalmun (Paldalmun Gate)**, que se encuentra literalmente en el centro de la antigua ciudad amurallada y es el mejor punto de referencia para encontrar restaurantes cercanos.
+La Estación de Suwon (Suwon Station) es el principal punto de acceso, a la que se llega mediante la **Línea 1** del metro de Seúl (entre 1 y 1,5 horas desde el centro de Seúl) o en trenes KTX/ITX desde la Estación de Seúl (aproximadamente 30-45 minutos). Desde la Estación de Suwon, el casco histórico alrededor de la Fortaleza Hwaseong y la Puerta Paldalmun está a unos 10-15 minutos en taxi, o se puede llegar en autobuses locales (las líneas 13, 36, 46 y varias otras circulan hacia Paldalmun).
+
+Muchos visitantes optan por bajarse en la **Estación de Suwon, Línea 1**, y hacer trasbordo a un autobús, o tomar un taxi directamente hasta la **Puerta Paldalmun (Paldalmun Gate)**, que se encuentra literalmente en el centro de la antigua ciudad amurallada y es el mejor punto de referencia para encontrar restaurantes cercanos.
 
 ## Qué comer y dónde buscar
 
@@ -35,7 +39,9 @@ La Estación de Suwon (Suwon Station) es el principal punto de acceso, a la que 
 
 ## Cuándo ir
 
-La primavera (abril-mayo) y el otoño (octubre-principios de noviembre) son las temporadas más agradables para combinar un paseo por la fortaleza con una comida, ya que buena parte del atractivo consiste en caminar entre las puertas y comer al aire libre o en los mercados abiertos. El almuerzo (especialmente entre semana) suele estar menos concurrido que la cena, cuando muchos restaurantes de galbi se llenan de grupos turísticos. Si visitas el fin de semana, llegar antes del mediodía o después de las 2 p.m. permite evitar los peores tiempos de espera en los restaurantes de galbi más consolidados cerca de Paldalmun.
+La primavera (abril-mayo) y el otoño (octubre-principios de noviembre) son las temporadas más agradables para combinar un paseo por la fortaleza con una comida, ya que buena parte del atractivo consiste en caminar entre las puertas y comer al aire libre o en los mercados abiertos. El almuerzo (especialmente entre semana) suele estar menos concurrido que la cena, cuando muchos restaurantes de galbi se llenan de grupos turísticos.
+
+Si visitas el fin de semana, llegar antes del mediodía o después de las 2 p.m. permite evitar los peores tiempos de espera en los restaurantes de galbi más consolidados cerca de Paldalmun.
 
 ## Cerca de allí y consejos prácticos
 

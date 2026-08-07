@@ -57,11 +57,15 @@ draft: false
 
 ## Why go
 
-You come around the corner from Chartres Street and the square just opens up in front of you — wrought-iron fences, a carpet of green, and behind it the three spires of St. Louis Cathedral pointing up over the rooftops. This is the spot New Orleans postcards are made from, and for once the postcard undersells it. The cathedral has stood here in some form since the 1720s, flanked by the matching Cabildo and Presbytère, and the whole ensemble is wrapped by the red-brick Pontalba Buildings — reputedly the oldest continuously rented apartment buildings in the country, their cast-iron balconies dripping ferns and ivy. Jackson Square isn't a museum piece behind glass; it's a working public square where the city's street life still happens in real time.
+You come around the corner from Chartres Street and the square just opens up in front of you — wrought-iron fences, a carpet of green, and behind it the three spires of St. Louis Cathedral pointing up over the rooftops. This is the spot New Orleans postcards are made from, and for once the postcard undersells it. The cathedral has stood here in some form since the 1720s, flanked by the matching Cabildo and Presbytère, and the whole ensemble is wrapped by the red-brick Pontalba Buildings — reputedly the oldest continuously rented apartment buildings in the country, their cast-iron balconies dripping ferns and ivy.
+
+Jackson Square isn't a museum piece behind glass; it's a working public square where the city's street life still happens in real time.
 
 ## What you'll see and hear
 
-Inside the fence, gravel paths cross at a statue of Andrew Jackson on horseback, hat raised, a monument to the general's defense of the city in the Battle of New Orleans. But the real texture is on the outside, along the sidewalk that rings the park. Portrait artists set up easels three and four deep, working in charcoal and pastel on tourists who've stopped to watch. Brass bands cluster near the Cabildo steps, trumpets bright and a little raw in the humid air. Tarot readers sit at card tables with hand-lettered signs, and a mime or two holds absolutely still until someone drops a dollar in the hat. Pigeons work the crowd as hard as anyone. It's loud, it's a little chaotic, and it's meant to be looked at as much as walked through.
+Inside the fence, gravel paths cross at a statue of Andrew Jackson on horseback, hat raised, a monument to the general's defense of the city in the Battle of New Orleans. But the real texture is on the outside, along the sidewalk that rings the park. Portrait artists set up easels three and four deep, working in charcoal and pastel on tourists who've stopped to watch.
+
+Brass bands cluster near the Cabildo steps, trumpets bright and a little raw in the humid air. Tarot readers sit at card tables with hand-lettered signs, and a mime or two holds absolutely still until someone drops a dollar in the hat. Pigeons work the crowd as hard as anyone. It's loud, it's a little chaotic, and it's meant to be looked at as much as walked through.
 
 ## The buildings worth a closer look
 
@@ -69,7 +73,9 @@ St. Louis Cathedral is open to visitors outside of services and costs nothing to
 
 ## Getting there
 
-Jackson Square sits in the French Quarter at Decatur and St. Peter Streets, one block from the Mississippi River and the Moonwalk promenade. There's no subway in New Orleans, but the RTA streetcar (Canal or Rampart-St. Claude lines) and most Quarter-bound buses drop you within a few blocks. If you're coming from the Riverfront streetcar line, get off at the Toulouse or French Market stop and walk one block inland. Most visitors simply walk in from wherever they're already staying in the Quarter or the CBD — it's flat, short, and impossible to miss once you're within a few blocks.
+Jackson Square sits in the French Quarter at Decatur and St. Peter Streets, one block from the Mississippi River and the Moonwalk promenade. There's no subway in New Orleans, but the RTA streetcar (Canal or Rampart-St. Claude lines) and most Quarter-bound buses drop you within a few blocks. If you're coming from the Riverfront streetcar line, get off at the Toulouse or French Market stop and walk one block inland.
+
+Most visitors simply walk in from wherever they're already staying in the Quarter or the CBD — it's flat, short, and impossible to miss once you're within a few blocks.
 
 ## When to go
 
@@ -77,4 +83,6 @@ This is a very popular, very well-photographed landmark, and it earns that popul
 
 ## How to visit like a local
 
-Skip the urge to linger right at the main gate on Decatur Street — that's where every tour group funnels through, and it's the slowest, most photographed stretch of sidewalk in the Quarter. Walk the perimeter instead; the St. Ann and St. Peter sides are usually calmer. If you want a caricature or portrait done, look at a few artists' existing work clipped to their easels before you pick one — prices aren't posted, so agree on a fee before they start drawing, not after. Tips for musicians and performers are cash, dropped in an open case or hat — small bills, no need to overthink it. Locals treat the square as a through-route more than a destination, cutting across it between Decatur Street shopping and the Cabildo or Café du Monde rather than posing for long. The most common tourist mistake is trying to see the square at midday in summer — the heat and glare are brutal and the shade is minimal, so if you can only come once, make it morning or after 6pm.
+Skip the urge to linger right at the main gate on Decatur Street — that's where every tour group funnels through, and it's the slowest, most photographed stretch of sidewalk in the Quarter. Walk the perimeter instead; the St. Ann and St. Peter sides are usually calmer. If you want a caricature or portrait done, look at a few artists' existing work clipped to their easels before you pick one — prices aren't posted, so agree on a fee before they start drawing, not after.
+
+Tips for musicians and performers are cash, dropped in an open case or hat — small bills, no need to overthink it. Locals treat the square as a through-route more than a destination, cutting across it between Decatur Street shopping and the Cabildo or Café du Monde rather than posing for long. The most common tourist mistake is trying to see the square at midday in summer — the heat and glare are brutal and the shade is minimal, so if you can only come once, make it morning or after 6pm.

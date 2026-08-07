@@ -72,23 +72,33 @@ draft: false
 
 ## Why go
 
-Clarke Quay Jetty is easy to overlook because it's not a monument — it's a working boat pier tucked along the riverside promenade in front of Clarke Quay's row of converted 19th-century warehouses (godowns). But that's exactly what makes it worth a stop: it's a quiet, functional slice of the Singapore River's working past, still doing the job piers have done here since the colonial trading era, just with tour boats instead of cargo lighters. With a 4.6 rating from over 400 reviews, it punches above its size for a spot that most visitors walk straight past on their way to the bars.
+Clarke Quay Jetty is easy to overlook because it's not a monument — it's a working boat pier tucked along the riverside promenade in front of Clarke Quay's row of converted 19th-century warehouses (godowns). But that's exactly what makes it worth a stop: it's a quiet, functional slice of the Singapore River's working past, still doing the job piers have done here since the colonial trading era, just with tour boats instead of cargo lighters.
+
+With a 4.6 rating from over 400 reviews, it punches above its size for a spot that most visitors walk straight past on their way to the bars.
 
 ## Getting there
 
-The jetty sits directly on the river frontage at Clarke Quay, on the same stretch as the shophouse-style restaurants and the Read Bridge. The nearest MRT station is **Clarke Quay** (North East Line, purple), and you want **Exit E**, which feeds directly onto the riverside promenade — from there it's a flat two-to-three-minute walk along the water to the pier. If you're coming from Boat Quay or Robertson Quay, you can simply follow the river walkway; it's a pleasant 10-15 minute stroll in either direction, passing under Read Bridge or Coleman Bridge along the way. Taxis and ride-hail cars can drop off at Clarke Quay's central drop-off point on Unity Street, a short walk from the jetty.
+The jetty sits directly on the river frontage at Clarke Quay, on the same stretch as the shophouse-style restaurants and the Read Bridge. The nearest MRT station is **Clarke Quay** (North East Line, purple), and you want **Exit E**, which feeds directly onto the riverside promenade — from there it's a flat two-to-three-minute walk along the water to the pier.
+
+If you're coming from Boat Quay or Robertson Quay, you can simply follow the river walkway; it's a pleasant 10-15 minute stroll in either direction, passing under Read Bridge or Coleman Bridge along the way. Taxis and ride-hail cars can drop off at Clarke Quay's central drop-off point on Unity Street, a short walk from the jetty.
 
 ## What to see and do
 
-The jetty itself is the boarding point for the **Singapore River Cruise** bumboats — the same green-and-cream boats that once hauled goods along the river — which run a loop between Marina Bay (Merlion Park, Marina Bay Sands) and the historic quays (Clarke, Boat, and Robertson). Even if you don't board, it's a good vantage point for photos of the godowns' pastel facades, the black-and-white trusses of Read Bridge, and the skyline glass towers behind them, a contrast that sums up how the district has been repurposed. Walk a few steps further to see the historical markers along the promenade that explain the godowns' original use for storing rice, spices, and rubber before the river was cleaned up in the 1970s-80s Singapore River clean-up campaign. Nearby, the Central shopping mall and Clarke Quay's covered lifestyle blocks are worth a wander for riverside dining.
+The jetty itself is the boarding point for the **Singapore River Cruise** bumboats — the same green-and-cream boats that once hauled goods along the river — which run a loop between Marina Bay (Merlion Park, Marina Bay Sands) and the historic quays (Clarke, Boat, and Robertson). Even if you don't board, it's a good vantage point for photos of the godowns' pastel facades, the black-and-white trusses of Read Bridge, and the skyline glass towers behind them, a contrast that sums up how the district has been repurposed.
+
+Walk a few steps further to see the historical markers along the promenade that explain the godowns' original use for storing rice, spices, and rubber before the river was cleaned up in the 1970s-80s Singapore River clean-up campaign. Nearby, the Central shopping mall and Clarke Quay's covered lifestyle blocks are worth a wander for riverside dining.
 
 ## When to go
 
-Late afternoon (around 5-6:30pm) is the sweet spot: heat has eased, the light is good for photos, and you can watch the transition as the quay's decorative canopy and bridge lighting come on at dusk. Early morning (before 9am) is the quietest time if you just want the pier and river to yourself, since the bars and cruise crowds haven't arrived yet. Avoid weekend evenings after 8pm if you want a calm look at the jetty — that's when the quay's nightlife crowd peaks and the promenade gets dense with foot traffic.
+Late afternoon (around 5-6:30pm) is the sweet spot: heat has eased, the light is good for photos, and you can watch the transition as the quay's decorative canopy and bridge lighting come on at dusk. Early morning (before 9am) is the quietest time if you just want the pier and river to yourself, since the bars and cruise crowds haven't arrived yet.
+
+Avoid weekend evenings after 8pm if you want a calm look at the jetty — that's when the quay's nightlife crowd peaks and the promenade gets dense with foot traffic.
 
 ## How to visit like a local
 
-Since Clarke Quay Jetty is still relatively under-the-radar as a sight in its own right — most people treat it purely as a cruise pick-up point rather than a stop — treat it as a five-minute pause rather than a destination, and pair it with a longer riverside walk toward Boat Quay or Robertson Quay so you're not backtracking. If you plan to board the Singapore River Cruise, buy tickets in advance online or at the kiosk near the pier rather than queuing on the spot, and expect payment to be cashless (card or mobile pay) at the ticket counter. There's no tipping expectation at the jetty itself. The most common visitor mistake is arriving mid-afternoon in full sun expecting shade — the pier and promenade are largely open, so bring a hat or aim for the golden-hour window instead. Locals passing through generally treat the jetty as a thoroughfare, not a lingering spot, so if you want unhurried photos, get there right after sunrise or just before the dinner rush hits the quay's restaurants.
+Since Clarke Quay Jetty is still relatively under-the-radar as a sight in its own right — most people treat it purely as a cruise pick-up point rather than a stop — treat it as a five-minute pause rather than a destination, and pair it with a longer riverside walk toward Boat Quay or Robertson Quay so you're not backtracking. If you plan to board the Singapore River Cruise, buy tickets in advance online or at the kiosk near the pier rather than queuing on the spot, and expect payment to be cashless (card or mobile pay) at the ticket counter.
+
+There's no tipping expectation at the jetty itself. The most common visitor mistake is arriving mid-afternoon in full sun expecting shade — the pier and promenade are largely open, so bring a hat or aim for the golden-hour window instead. Locals passing through generally treat the jetty as a thoroughfare, not a lingering spot, so if you want unhurried photos, get there right after sunrise or just before the dinner rush hits the quay's restaurants.
 
 ## Nearby to pair with your visit
 

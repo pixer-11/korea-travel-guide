@@ -61,7 +61,9 @@ You feel the scale of the place before you understand its geometry. Walking nort
 
 ## Why go
 
-Built in 1420 during the Yongle Emperor's reign, the Temple of Heaven isn't a single building but a complex of altars where Ming and Qing emperors came each winter to perform rites for good harvests. Its defining structure, the Hall of Prayer for Good Harvests, is instantly recognizable: a triple-eaved circular hall in indigo blue, gold, and deep red, built entirely without a single nail — timber joinery holds the whole thing together. The circular-versus-square design running through the complex is deliberate: round represents heaven, square represents earth, and the whole site is a physical expression of that cosmology, distinct from the rectilinear symmetry of the Forbidden City.
+Built in 1420 during the Yongle Emperor's reign, the Temple of Heaven isn't a single building but a complex of altars where Ming and Qing emperors came each winter to perform rites for good harvests. Its defining structure, the Hall of Prayer for Good Harvests, is instantly recognizable: a triple-eaved circular hall in indigo blue, gold, and deep red, built entirely without a single nail — timber joinery holds the whole thing together.
+
+The circular-versus-square design running through the complex is deliberate: round represents heaven, square represents earth, and the whole site is a physical expression of that cosmology, distinct from the rectilinear symmetry of the Forbidden City.
 
 ## Getting there
 
@@ -69,7 +71,9 @@ The temple sits in Dongcheng District, south of the city center. Take Beijing Su
 
 ## What to see and hear
 
-Inside the Imperial Vault of Heaven courtyard, find the Echo Wall — a smooth circular enclosure where a whisper against the stone is said to carry clearly to someone standing on the opposite side, a quirk of the wall's curvature rather than any mystical acoustics. Nearby, the Triple Sound Stones produce a distinct echo when you clap or speak from specific spots on the steps; locals test it constantly, so don't be surprised by a small crowd doing the same. The Round Altar itself, a three-tiered marble platform, is where the emperor once stood at the winter solstice to pray for good harvests. Beyond the monuments, the surrounding park — technically Tiantan Park — is where the complex earns its "popular park" reputation: retirees practicing tai chi, groups playing cards or Chinese chess under the cypresses, and choirs singing revolutionary-era songs in the open air, especially on weekend mornings.
+Inside the Imperial Vault of Heaven courtyard, find the Echo Wall — a smooth circular enclosure where a whisper against the stone is said to carry clearly to someone standing on the opposite side, a quirk of the wall's curvature rather than any mystical acoustics. Nearby, the Triple Sound Stones produce a distinct echo when you clap or speak from specific spots on the steps; locals test it constantly, so don't be surprised by a small crowd doing the same.
+
+The Round Altar itself, a three-tiered marble platform, is where the emperor once stood at the winter solstice to pray for good harvests. Beyond the monuments, the surrounding park — technically Tiantan Park — is where the complex earns its "popular park" reputation: retirees practicing tai chi, groups playing cards or Chinese chess under the cypresses, and choirs singing revolutionary-era songs in the open air, especially on weekend mornings.
 
 ## When to go
 
@@ -77,4 +81,6 @@ Early morning, shortly after opening, is calmest — this is also when the park'
 
 ## How to visit like a local
 
-Buy your ticket in advance if possible — a combined ticket covers entry to the park and the inner sites (Hall of Prayer, Echo Wall, Round Altar), while a cheaper park-only ticket exists but won't get you into the main halls, which trips up a lot of first-timers. Payment on-site and at nearby vendors is almost entirely by mobile apps (Alipay or WeChat Pay) these days, so have one set up before you arrive rather than relying on cash. This is a well-visited, well-known landmark rather than an under-the-radar spot, so the real local skill is timing: arrive right at opening or after 4pm to avoid the tour-group crush that peaks midmorning through early afternoon. Keep your voice low inside the halls — this remains an active place of cultural and quasi-religious significance, not just a photo backdrop. Wear comfortable shoes for the walk between gates; the complex is larger than it looks on a map, and the distance from South Gate to North Gate alone is close to a kilometer.
+Buy your ticket in advance if possible — a combined ticket covers entry to the park and the inner sites (Hall of Prayer, Echo Wall, Round Altar), while a cheaper park-only ticket exists but won't get you into the main halls, which trips up a lot of first-timers. Payment on-site and at nearby vendors is almost entirely by mobile apps (Alipay or WeChat Pay) these days, so have one set up before you arrive rather than relying on cash.
+
+This is a well-visited, well-known landmark rather than an under-the-radar spot, so the real local skill is timing: arrive right at opening or after 4pm to avoid the tour-group crush that peaks midmorning through early afternoon. Keep your voice low inside the halls — this remains an active place of cultural and quasi-religious significance, not just a photo backdrop. Wear comfortable shoes for the walk between gates; the complex is larger than it looks on a map, and the distance from South Gate to North Gate alone is close to a kilometer.

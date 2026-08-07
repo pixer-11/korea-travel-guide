@@ -70,15 +70,23 @@ draft: false
 
 ## Why go
 
-Little India is best known for its Hindu temples, spice shops, and gold merchants, so a bright pastel Chinese villa in the middle of it feels like an anomaly — and that contrast is exactly why the Former House of Tan Teng Niah draws so many visitors. Built around 1900, it was the residence of Tan Teng Niah, a Teochew businessman who ran nearby rubber processing factories and confectionery works. It's the last remaining Chinese villa in the district, a reminder that Little India once had a sizable Chinese trading community living alongside its Indian and Malay residents. Today the building has been restored and repainted in a rotating palette of turquoise, pink, yellow, and lilac, with ornate carved shutters, decorative plaster mouldings, and a distinctly Peranakan-influenced style of ornamentation layered onto a Chinese courtyard-house structure. It now houses commercial offices, so the appeal is entirely the exterior — but that exterior is one of the most photographed facades in Singapore.
+Little India is best known for its Hindu temples, spice shops, and gold merchants, so a bright pastel Chinese villa in the middle of it feels like an anomaly — and that contrast is exactly why the Former House of Tan Teng Niah draws so many visitors. Built around 1900, it was the residence of Tan Teng Niah, a Teochew businessman who ran nearby rubber processing factories and confectionery works.
+
+It's the last remaining Chinese villa in the district, a reminder that Little India once had a sizable Chinese trading community living alongside its Indian and Malay residents. Today the building has been restored and repainted in a rotating palette of turquoise, pink, yellow, and lilac, with ornate carved shutters, decorative plaster mouldings, and a distinctly Peranakan-influenced style of ornamentation layered onto a Chinese courtyard-house structure.
+
+It now houses commercial offices, so the appeal is entirely the exterior — but that exterior is one of the most photographed facades in Singapore.
 
 ## Getting there
 
-The house sits on Kerbau Road, a short side street connecting Serangoon Road to Race Course Road. The nearest MRT station is Little India (North East Line and Downtown Line); take Exit E, walk past Tekka Centre and up Serangoon Road, then turn onto Kerbau Road — it's roughly a 5-8 minute walk. Alternatively, Farrer Park MRT (North East Line) is about the same distance from the other direction, useful if you're combining this with a visit to Mustafa Centre. There's no admission gate or ticket booth; the building fronts directly onto a public street, so you simply walk up.
+The house sits on Kerbau Road, a short side street connecting Serangoon Road to Race Course Road. The nearest MRT station is Little India (North East Line and Downtown Line); take Exit E, walk past Tekka Centre and up Serangoon Road, then turn onto Kerbau Road — it's roughly a 5-8 minute walk. Alternatively, Farrer Park MRT (North East Line) is about the same distance from the other direction, useful if you're combining this with a visit to Mustafa Centre.
+
+There's no admission gate or ticket booth; the building fronts directly onto a public street, so you simply walk up.
 
 ## What to see
 
-Spend most of your time looking at the details rather than the overall shape: the timber louvred windows, the Chinese-style eaves, and the ornamental air vents set into the upper storey are all original or faithfully restored features. The color scheme changes periodically during repainting cycles, so the exact shades you see may differ from photos online — that's part of the charm rather than a flaw. Because the building is privately occupied, there's no interior access, so 15-20 minutes is enough to walk around, take photos from a few angles, and read any on-site heritage plaque. Combine the stop with the other restored shophouses along Kerbau Road, several of which share similar architecture, and continue on to the Sri Veeramakaliamman Temple or the Tekka Centre wet market a few minutes away for a fuller sense of the neighborhood's mixed heritage.
+Spend most of your time looking at the details rather than the overall shape: the timber louvred windows, the Chinese-style eaves, and the ornamental air vents set into the upper storey are all original or faithfully restored features. The color scheme changes periodically during repainting cycles, so the exact shades you see may differ from photos online — that's part of the charm rather than a flaw.
+
+Because the building is privately occupied, there's no interior access, so 15-20 minutes is enough to walk around, take photos from a few angles, and read any on-site heritage plaque. Combine the stop with the other restored shophouses along Kerbau Road, several of which share similar architecture, and continue on to the Sri Veeramakaliamman Temple or the Tekka Centre wet market a few minutes away for a fuller sense of the neighborhood's mixed heritage.
 
 ## When to go
 
@@ -86,7 +94,9 @@ Early morning (before 9am) or late afternoon light works best for photography, s
 
 ## How to visit like a local
 
-This is a well-known stop on the Little India photography circuit, so don't expect to have it to yourself — the way to "beat the crowd" is timing, not secrecy. Aim for a weekday before 10am, when the street is used mainly by residents and delivery traffic rather than tour groups. There's no fee, no queue system, and nothing to book — just walk up, take your photos from the opposite pavement to get the full facade in frame, and move on within the road's narrow footpath without blocking it, since Kerbau Road is a functioning street with local shops and offices. A common tourist mistake is trying to enter the building or photograph through the windows; it's private commercial space, so keep to street-level exterior shots. If you want the shot without other visitors in frame, be patient rather than rushing — most people only stop for a few minutes before moving toward Tekka Centre or Mustafa Centre, so gaps open up quickly.
+This is a well-known stop on the Little India photography circuit, so don't expect to have it to yourself — the way to "beat the crowd" is timing, not secrecy. Aim for a weekday before 10am, when the street is used mainly by residents and delivery traffic rather than tour groups. There's no fee, no queue system, and nothing to book — just walk up, take your photos from the opposite pavement to get the full facade in frame, and move on within the road's narrow footpath without blocking it, since Kerbau Road is a functioning street with local shops and offices.
+
+A common tourist mistake is trying to enter the building or photograph through the windows; it's private commercial space, so keep to street-level exterior shots. If you want the shot without other visitors in frame, be patient rather than rushing — most people only stop for a few minutes before moving toward Tekka Centre or Mustafa Centre, so gaps open up quickly.
 
 ## Nearby stops worth combining
 

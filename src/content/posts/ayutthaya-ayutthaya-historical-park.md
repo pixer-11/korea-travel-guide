@@ -58,7 +58,9 @@ Ayutthaya was the Siamese capital for over 400 years (1350–1767) and, at its h
 
 ## Getting there
 
-Ayutthaya sits roughly 80km north of Bangkok, easily reached as a day trip or overnight stop. From Bangkok, minivans leave frequently from Victory Monument (about 1–1.5 hours), or take a train from Bang Sue Grand Station / Hua Lamphong to Ayutthaya Railway Station (roughly 1.5–2 hours, cheap third-class fares). From the train station, cross the Chao Phraya River by a short ferry ride to reach the historical park side of town, then continue by tuk-tuk, songthaew, or rented bicycle. The park itself is not one fenced compound but a scattered network of temple ruins across the old city island (address centers on Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya), so getting around between sites is part of the experience.
+Ayutthaya sits roughly 80km north of Bangkok, easily reached as a day trip or overnight stop. From Bangkok, minivans leave frequently from Victory Monument (about 1–1.5 hours), or take a train from Bang Sue Grand Station / Hua Lamphong to Ayutthaya Railway Station (roughly 1.5–2 hours, cheap third-class fares). From the train station, cross the Chao Phraya River by a short ferry ride to reach the historical park side of town, then continue by tuk-tuk, songthaew, or rented bicycle.
+
+The park itself is not one fenced compound but a scattered network of temple ruins across the old city island (address centers on Tambon Pratuchai, Amphoe Phra Nakhon Si Ayutthaya), so getting around between sites is part of the experience.
 
 ## What to see
 
@@ -76,4 +78,6 @@ The cooler season, November to February, is by far the most comfortable for walk
 
 ## Nearby & tips
 
-Rent a bicycle near the train station or your guesthouse — it's the classic way to explore, since distances between temples are short but too far to comfortably walk in the heat. Tuk-tuks can be hired by the hour for a fixed loop if cycling in the sun isn't appealing. Bring a hat, water, and shoulders-and-knees-covered clothing, since several sites remain active religious spaces. For food, the town is well known for *boat noodles* (kuay teow reua) and grilled river prawns (*kung phao*) sold along the riverside near Hua Ro Market. Many travelers combine the ruins with a stop at the nearby Bang Pa-In Royal Palace, about 20km south, on the same day trip from Bangkok. Entrance fees for individual temple compounds are modest and typically paid per site rather than as one park-wide ticket — confirm current prices and hours locally, as these are adjusted periodically.
+Rent a bicycle near the train station or your guesthouse — it's the classic way to explore, since distances between temples are short but too far to comfortably walk in the heat. Tuk-tuks can be hired by the hour for a fixed loop if cycling in the sun isn't appealing. Bring a hat, water, and shoulders-and-knees-covered clothing, since several sites remain active religious spaces.
+
+For food, the town is well known for *boat noodles* (kuay teow reua) and grilled river prawns (*kung phao*) sold along the riverside near Hua Ro Market. Many travelers combine the ruins with a stop at the nearby Bang Pa-In Royal Palace, about 20km south, on the same day trip from Bangkok. Entrance fees for individual temple compounds are modest and typically paid per site rather than as one park-wide ticket — confirm current prices and hours locally, as these are adjusted periodically.

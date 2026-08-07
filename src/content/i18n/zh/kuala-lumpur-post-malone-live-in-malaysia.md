@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-post-malone-live-in-malaysia
-srcHash: dc1c2f71ba69
+srcHash: 'ab4042d4b7f8'
 title: Post Malone 马来西亚演唱会:你需要知道的一切(吉隆坡)
 description: 2026年9月27日,Post Malone将在吉隆坡TM国家体育场(Stadium Nasional Bukit Jalil,武吉加里尔国家体育场)举行他在马来西亚的首场演出,作为其世界巡演的一站。
 quickAnswer: 2026年9月27日,Post Malone将在吉隆坡TM国家体育场(Stadium Nasional Bukit Jalil,武吉加里尔国家体育场)举行他在马来西亚的首场演出,作为其世界巡演的一站。目前官方尚未公布门票、入场时间和暖场嘉宾的详细信息,因此在预订机票或酒店之前,请务必通过主办方的官方渠道确认所有信息。建议尽早预订武吉加里尔(Bukit Jalil)附近或轻轨(LRT)沿线的住宿,因为吉隆坡的体育场演唱会往往会让交通和周边酒店一房难求。

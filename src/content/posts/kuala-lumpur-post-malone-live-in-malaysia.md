@@ -80,7 +80,9 @@ Exact gate times, ticket tiers, and any opening acts have not been officially de
 
 ## When to go and how long to stay
 
-September 27, 2026 is the confirmed date as announced, but tour schedules can shift — always verify on the official ticketing platform or Post Malone's official tour page before locking in travel plans. If flying in specifically for the concert, plan to arrive in KL at least a day early to account for immigration queues, hotel check-in, and rail logistics to Bukit Jalil. Most fans treat concert day itself as a half-day-to-evening commitment: arriving at the complex by late afternoon for merchandise, food, and queueing, then staying through the encore before the post-show transit crunch.
+September 27, 2026 is the confirmed date as announced, but tour schedules can shift — always verify on the official ticketing platform or Post Malone's official tour page before locking in travel plans. If flying in specifically for the concert, plan to arrive in KL at least a day early to account for immigration queues, hotel check-in, and rail logistics to Bukit Jalil.
+
+Most fans treat concert day itself as a half-day-to-evening commitment: arriving at the complex by late afternoon for merchandise, food, and queueing, then staying through the encore before the post-show transit crunch.
 
 ## Nearby & practical tips
 

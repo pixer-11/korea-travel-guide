@@ -82,7 +82,9 @@ draft: true
 
 ## Why go
 
-The Island Bangkok has built one of the strongest reputations of any restaurant in the old-city area, holding a 4.9 rating across more than 14,600 reviews — a volume and score that put it well ahead of most competitors in Phra Nakhon district. It's the kind of place travel forums and Bangkok expats mention repeatedly for a reliable, atmospheric Thai dining experience without needing to venture into the more touristy strip of Khao San Road itself. The setting typically draws comparisons to an open-air garden lounge: leafy, low-lit, and built for lingering over food and drinks rather than a quick bite.
+The Island Bangkok has built one of the strongest reputations of any restaurant in the old-city area, holding a 4.9 rating across more than 14,600 reviews — a volume and score that put it well ahead of most competitors in Phra Nakhon district. It's the kind of place travel forums and Bangkok expats mention repeatedly for a reliable, atmospheric Thai dining experience without needing to venture into the more touristy strip of Khao San Road itself.
+
+The setting typically draws comparisons to an open-air garden lounge: leafy, low-lit, and built for lingering over food and drinks rather than a quick bite.
 
 ## Getting there
 

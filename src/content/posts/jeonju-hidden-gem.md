@@ -36,7 +36,9 @@ Jeonju Hanok Village draws the crowds to its central thoroughfares, but the dist
 
 ## Getting there
 
-Jeonju is most easily reached by train (KTX or ITX from Yongsan Station in Seoul, roughly 2–2.5 hours) or by intercity bus from Seoul's Central City Terminal (around 3 hours). From Jeonju Station or the bus terminal, city buses (79, 79-1, and several others) run to the Hanok Village area in about 15–20 minutes; a taxi costs roughly ₩6,000–8,000 depending on traffic. There's no subway system in Jeonju itself, so buses and taxis are the default. Once you're near the village, everything described below is walkable — the hidden pockets are literally a few streets over from the main gate area near Pungnammun Gate.
+Jeonju is most easily reached by train (KTX or ITX from Yongsan Station in Seoul, roughly 2–2.5 hours) or by intercity bus from Seoul's Central City Terminal (around 3 hours). From Jeonju Station or the bus terminal, city buses (79, 79-1, and several others) run to the Hanok Village area in about 15–20 minutes; a taxi costs roughly ₩6,000–8,000 depending on traffic.
+
+There's no subway system in Jeonju itself, so buses and taxis are the default. Once you're near the village, everything described below is walkable — the hidden pockets are literally a few streets over from the main gate area near Pungnammun Gate.
 
 ## What to see and do off the main strip
 
@@ -50,7 +52,9 @@ Don't skip **Nambu Market**, a traditional market a short walk south of the vill
 
 ## Food and drink worth seeking out
 
-Jeonju is the acknowledged birthplace of **bibimbap**, and the dish here typically includes more elaborate garnishes — raw beef, pine nuts, and a rich sesame-oil-forward seasoning — than versions found elsewhere in Korea. Rather than the tourist-facing restaurants directly on the main strip, side streets one or two blocks back tend to serve the same quality at more reasonable prices. Also look for **kongnamul gukbap** (bean sprout soup with rice), a Jeonju specialty often eaten as a hangover cure, and **moju**, a mildly alcoholic, cinnamon-spiced rice drink unique to the region.
+Jeonju is the acknowledged birthplace of **bibimbap**, and the dish here typically includes more elaborate garnishes — raw beef, pine nuts, and a rich sesame-oil-forward seasoning — than versions found elsewhere in Korea. Rather than the tourist-facing restaurants directly on the main strip, side streets one or two blocks back tend to serve the same quality at more reasonable prices.
+
+Also look for **kongnamul gukbap** (bean sprout soup with rice), a Jeonju specialty often eaten as a hangover cure, and **moju**, a mildly alcoholic, cinnamon-spiced rice drink unique to the region.
 
 ## When to go and practical tips
 

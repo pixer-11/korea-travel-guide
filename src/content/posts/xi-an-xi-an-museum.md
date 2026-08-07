@@ -48,19 +48,27 @@ draft: false
 
 ## Why go
 
-Xi'an has no shortage of history stops, but this is one of the few places where the story is told in the right order, in one visit. The museum building itself is deliberately modern — grey stone, a low domed roofline meant to echo a bronze mirror — and it sits inside a genuinely old religious complex, the Jianfu Temple grounds, which have stood here since the 7th century. You walk in expecting one museum and leave having covered a full arc: prehistoric Guanzhong pottery, Han and Tang capital-city artifacts, and then out the back door into a still-functioning Buddhist temple garden with a 45-meter brick pagoda that predates the museum by well over a millennium. Few sites in Xi'an let you feel that jump — from climate-controlled display case to actual weathered stone — in the space of ten minutes.
+Xi'an has no shortage of history stops, but this is one of the few places where the story is told in the right order, in one visit. The museum building itself is deliberately modern — grey stone, a low domed roofline meant to echo a bronze mirror — and it sits inside a genuinely old religious complex, the Jianfu Temple grounds, which have stood here since the 7th century.
+
+You walk in expecting one museum and leave having covered a full arc: prehistoric Guanzhong pottery, Han and Tang capital-city artifacts, and then out the back door into a still-functioning Buddhist temple garden with a 45-meter brick pagoda that predates the museum by well over a millennium. Few sites in Xi'an let you feel that jump — from climate-controlled display case to actual weathered stone — in the space of ten minutes.
 
 ## Getting there
 
-The museum sits at 72 Youyi Xi Lu (友谊西路), in Beilin District, just south and slightly west of the old city wall — an easy taxi or rideshare from the Bell Tower or Muslim Quarter, roughly 15-20 minutes depending on traffic. If you're using the metro, Xiaozhai station (Lines 2 and 3) is the nearest useful stop, followed by a short taxi ride or a 20-minute walk north. Many visitors pair this trip with the Small Wild Goose Pagoda park itself, since the pagoda is inside the same grounds as the museum — you don't need to plan them as two separate outings.
+The museum sits at 72 Youyi Xi Lu (友谊西路), in Beilin District, just south and slightly west of the old city wall — an easy taxi or rideshare from the Bell Tower or Muslim Quarter, roughly 15-20 minutes depending on traffic. If you're using the metro, Xiaozhai station (Lines 2 and 3) is the nearest useful stop, followed by a short taxi ride or a 20-minute walk north.
+
+Many visitors pair this trip with the Small Wild Goose Pagoda park itself, since the pagoda is inside the same grounds as the museum — you don't need to plan them as two separate outings.
 
 ## What to see inside
 
-The permanent collection is organized roughly chronologically, tracing Xi'an's run as capital of over a dozen dynasties, with the Han and Tang sections doing the heavy lifting — gilt bronze figures, glazed Tang tomb ceramics, and everyday objects (coins, mirrors, ceramic pillows) that do more to humanize the era than another rack of imperial artifacts would. Labels are bilingual (Chinese/English), which isn't a given at every civic museum in the city, and the layout doesn't force you into a single one-way loop, so you can double back to a case that caught your eye. Give the galleries a genuine hour if history is your reason for coming; 30-40 minutes is enough for a lighter pass.
+The permanent collection is organized roughly chronologically, tracing Xi'an's run as capital of over a dozen dynasties, with the Han and Tang sections doing the heavy lifting — gilt bronze figures, glazed Tang tomb ceramics, and everyday objects (coins, mirrors, ceramic pillows) that do more to humanize the era than another rack of imperial artifacts would. Labels are bilingual (Chinese/English), which isn't a given at every civic museum in the city, and the layout doesn't force you into a single one-way loop, so you can double back to a case that caught your eye.
+
+Give the galleries a genuine hour if history is your reason for coming; 30-40 minutes is enough for a lighter pass.
 
 ## The pagoda and gardens
 
-Step outside the exhibition halls and the mood changes completely. The grounds around the Little Wild Goose Pagoda are landscaped with reflecting pools, clipped hedges, and old cypress trees, and the pagoda — dating to 707 CE, built to house Buddhist scriptures — still has its slightly asymmetric silhouette from earthquake damage centuries ago, a detail that's easy to miss unless you look up and really study the tiers. Locals use these gardens the way you'd use any city park: morning tai chi, a slow lap after lunch, grandparents with kids feeding the koi. It's worth resisting the urge to rush from museum door to museum door and instead just sit by one of the pools for ten minutes.
+Step outside the exhibition halls and the mood changes completely. The grounds around the Little Wild Goose Pagoda are landscaped with reflecting pools, clipped hedges, and old cypress trees, and the pagoda — dating to 707 CE, built to house Buddhist scriptures — still has its slightly asymmetric silhouette from earthquake damage centuries ago, a detail that's easy to miss unless you look up and really study the tiers.
+
+Locals use these gardens the way you'd use any city park: morning tai chi, a slow lap after lunch, grandparents with kids feeding the koi. It's worth resisting the urge to rush from museum door to museum door and instead just sit by one of the pools for ten minutes.
 
 ## When to go
 
@@ -68,4 +76,6 @@ Xi'an's spring (April-May) and autumn (late September-October) offer the mildest
 
 ## How to visit like a local
 
-Chinese state and municipal museums, including this one, are typically free to enter, but almost all now require you to reserve a timed ticket in advance online (via the museum's official WeChat account or a booking platform) rather than simply walking up — bring your passport, since foreign visitors usually register with it at the gate. Cash is barely used anywhere in Xi'an now; have a mobile payment app or your passport ready, and don't expect the ticket counter to be your main entry point. Move at a local's pace once inside: Chinese visitors here tend to linger longest in the Tang gallery and then treat the outdoor pagoda garden as a genuine rest stop, not just a photo backdrop, so don't feel rushed to do both halves in one continuous march. The most common visitor mistake is treating this purely as "the pagoda place" and rushing the museum, or vice versa — the two halves were built to be seen together, and skipping either shortchanges the visit.
+Chinese state and municipal museums, including this one, are typically free to enter, but almost all now require you to reserve a timed ticket in advance online (via the museum's official WeChat account or a booking platform) rather than simply walking up — bring your passport, since foreign visitors usually register with it at the gate. Cash is barely used anywhere in Xi'an now; have a mobile payment app or your passport ready, and don't expect the ticket counter to be your main entry point.
+
+Move at a local's pace once inside: Chinese visitors here tend to linger longest in the Tang gallery and then treat the outdoor pagoda garden as a genuine rest stop, not just a photo backdrop, so don't feel rushed to do both halves in one continuous march. The most common visitor mistake is treating this purely as "the pagoda place" and rushing the museum, or vice versa — the two halves were built to be seen together, and skipping either shortchanges the visit.

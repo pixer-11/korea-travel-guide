@@ -43,15 +43,21 @@ draft: false
 
 ## Why Cheongsapo Is Worth the Detour
 
-Most visitors to Busan see Haeundae Beach and stop there, missing the small fishing village just around the headland. Cheongsapo (청사포) sits between Haeundae and Songjeong, at the base of the hill known as Dalmaji-gogae ("Moon-Watching Pass"). It's still a working harbor — you'll see small boats, drying nets, and plastic crates of just-caught fish — which gives it a rougher, more authentic edge than the polished cafés up on the ridge above it. The name comes from an old story about blue snakes ("cheongsa") once seen near the shore, and the village retains a quiet, low-key character even as it's become a popular photo stop for its lighthouse and skywalk.
+Most visitors to Busan see Haeundae Beach and stop there, missing the small fishing village just around the headland. Cheongsapo (청사포) sits between Haeundae and Songjeong, at the base of the hill known as Dalmaji-gogae ("Moon-Watching Pass"). It's still a working harbor — you'll see small boats, drying nets, and plastic crates of just-caught fish — which gives it a rougher, more authentic edge than the polished cafés up on the ridge above it.
+
+The name comes from an old story about blue snakes ("cheongsa") once seen near the shore, and the village retains a quiet, low-key character even as it's become a popular photo stop for its lighthouse and skywalk.
 
 ## Getting There
 
-Cheongsapo has no subway station of its own; the closest is Haeundae Station on Busan Metro Line 2. From Exit 5, you can either take a short taxi ride (about 10–15 minutes) or walk the scenic route: head up Dalmaji-gil (Dalmaji Road), the winding, pine-lined coastal road above Haeundae Beach that locals call "Korea's Napa Valley" for its curves, then descend the stairs and slopes toward the harbor. The walk from Haeundae Beach along the coastal path takes roughly 30–40 minutes one way and passes several viewpoints over the sea. Alternatively, the Blue Line Park's beach train (Haeundae Beach Train) and sky capsule run along this same coastline and stop near Cheongsapo, offering an easy ride with ocean views if you'd rather not walk uphill.
+Cheongsapo has no subway station of its own; the closest is Haeundae Station on Busan Metro Line 2. From Exit 5, you can either take a short taxi ride (about 10–15 minutes) or walk the scenic route: head up Dalmaji-gil (Dalmaji Road), the winding, pine-lined coastal road above Haeundae Beach that locals call "Korea's Napa Valley" for its curves, then descend the stairs and slopes toward the harbor.
+
+The walk from Haeundae Beach along the coastal path takes roughly 30–40 minutes one way and passes several viewpoints over the sea. Alternatively, the Blue Line Park's beach train (Haeundae Beach Train) and sky capsule run along this same coastline and stop near Cheongsapo, offering an easy ride with ocean views if you'd rather not walk uphill.
 
 ## What to See and Eat
 
-The village's signature landmark is the **Cheongsapo Daritdol Observatory (Skywalk)**, a glass-floored platform that extends out over the rocks near a red-and-white striped lighthouse, letting you look straight down at the waves. It's free to walk out onto and takes only a few minutes, but the surrounding photo ops — old railway tracks, moored fishing boats, the twin lighthouses (one red, one white, marking the harbor entrance) — are worth lingering for. Just above the harbor runs a stretch of the old Donghae Nambu rail line, now converted into a section of the Haeundae Blue Line pedestrian trail, connecting Cheongsapo to Mipo and onward to Songjeong.
+The village's signature landmark is the **Cheongsapo Daritdol Observatory (Skywalk)**, a glass-floored platform that extends out over the rocks near a red-and-white striped lighthouse, letting you look straight down at the waves. It's free to walk out onto and takes only a few minutes, but the surrounding photo ops — old railway tracks, moored fishing boats, the twin lighthouses (one red, one white, marking the harbor entrance) — are worth lingering for.
+
+Just above the harbor runs a stretch of the old Donghae Nambu rail line, now converted into a section of the Haeundae Blue Line pedestrian trail, connecting Cheongsapo to Mipo and onward to Songjeong.
 
 Along the harbor's edge, small seafood stalls and tanks sell live catch — look for **mulhoe** (spicy raw fish soup served cold with vegetables and ice), **sea squirt (meongge)**, sea cucumber, and raw sea urchin, all typical of this coast. Several simple raw-fish restaurants (hoetjip) line the waterfront where you can pick a fish from the tank and have it prepared to order. Portions and prices vary by season and catch, so ask before ordering if you want a rough total in advance.
 
@@ -61,4 +67,6 @@ Early evening is the best time to visit, since Cheongsapo faces the open sea and
 
 ## Nearby and Practical Tips
 
-Cheongsapo works well as one stop on a longer coastal walk: continue past it along the Blue Line trail to reach Mipo, then Songjeong Beach, a calmer, less crowded alternative to Haeundae with its own seafood market. Uphill, Dalmaji-gil has a cluster of cafés and small galleries with sea views, popular for a coffee break before or after the harbor visit. There's no ATM or large convenience store directly at the harbor, so carry some cash for the seafood stalls. Wear shoes with grip if you plan to walk the rocky breakwater near the lighthouses, and check tide and weather conditions before heading out on the skywalk, as it can close temporarily in high winds or rough seas.
+Cheongsapo works well as one stop on a longer coastal walk: continue past it along the Blue Line trail to reach Mipo, then Songjeong Beach, a calmer, less crowded alternative to Haeundae with its own seafood market. Uphill, Dalmaji-gil has a cluster of cafés and small galleries with sea views, popular for a coffee break before or after the harbor visit.
+
+There's no ATM or large convenience store directly at the harbor, so carry some cash for the seafood stalls. Wear shoes with grip if you plan to walk the rocky breakwater near the lighthouses, and check tide and weather conditions before heading out on the skywalk, as it can close temporarily in high winds or rough seas.

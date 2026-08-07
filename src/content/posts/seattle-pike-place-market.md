@@ -41,7 +41,9 @@ Pike Place Market opened in 1907 as a farmers' market to cut out middlemen betwe
 
 ## Getting there and getting oriented
 
-The Market sits at 1st Avenue and Pike Street in downtown Seattle, a short walk from the waterfront. If you're using transit, the Westlake Station (Link light rail and multiple bus lines) is about a 10-minute walk east up Pike Street. The famous **Rachel the Piggy Bank** bronze statue and the **flying fish stalls** mark the main entrance under the iconic red "PUBLIC MARKET" neon sign. From there, the market spreads across the main arcade, the lower "Down Under" levels (worth exploring for shops, not just food), and the newer MarketFront extension to the north, which has outdoor seating with water views.
+The Market sits at 1st Avenue and Pike Street in downtown Seattle, a short walk from the waterfront. If you're using transit, the Westlake Station (Link light rail and multiple bus lines) is about a 10-minute walk east up Pike Street. The famous **Rachel the Piggy Bank** bronze statue and the **flying fish stalls** mark the main entrance under the iconic red "PUBLIC MARKET" neon sign.
+
+From there, the market spreads across the main arcade, the lower "Down Under" levels (worth exploring for shops, not just food), and the newer MarketFront extension to the north, which has outdoor seating with water views.
 
 ## What to eat
 
@@ -60,4 +62,6 @@ Weekday mornings, roughly 8:30–10am, are the calmest window before cruise-ship
 
 ## Nearby and practical tips
 
-The original 1971 **Starbucks** location sits just across from the main entrance on Pike Place — expect a line for photos, not necessarily coffee. The **Gum Wall** is one block downhill in Post Alley, a quick five-minute detour. Post Alley itself has quieter bars and eateries if the main arcade feels overwhelming. Most stalls are cash- and card-friendly, but smaller vendors sometimes prefer cash, so carry some small bills. Restrooms are limited and often queued; the ones near the MarketFront tend to be less crowded than those in the main arcade.
+The original 1971 **Starbucks** location sits just across from the main entrance on Pike Place — expect a line for photos, not necessarily coffee. The **Gum Wall** is one block downhill in Post Alley, a quick five-minute detour. Post Alley itself has quieter bars and eateries if the main arcade feels overwhelming. Most stalls are cash- and card-friendly, but smaller vendors sometimes prefer cash, so carry some small bills.
+
+Restrooms are limited and often queued; the ones near the MarketFront tend to be less crowded than those in the main arcade.

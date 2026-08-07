@@ -27,7 +27,6 @@ faq:
     a: Duxton Hill and Ann Siang Hill are a few minutes' walk away and packed with other bars and restaurants, making it easy to combine BOP with a broader Tanjong Pagar bar crawl.
 aiGenerated: true
 ---
-
 You smell the shophouse before you fully register it — charcoal and something faintly sweet, maybe a glaze or a fermented sauce, drifting out from behind a door that gives almost nothing away from the street. This stretch of Tanjong Pagar has been Singapore's most serious cocktail neighbourhood for over a decade, and BOP slots into it not as a novelty but as a statement: this is what happens when one of the region's most respected bar groups, Jigger & Pony, teams up with Korean bartender Uno Jang to build a room around the specific rhythm of how people drink and eat together in Seoul.
 
 ## Why go
@@ -36,19 +35,29 @@ Most cocktail bars in this city are built for a couple, a first date, a quiet co
 
 ## The space
 
-A converted shophouse gives BOP its bones, and the design leans into the building's natural split personality. Up front, expect a high-energy bar zone — the kind of counter where you can watch bottles get poured and hear the shaker going, ideal if you're arriving as a pair or trio and want to be part of the room's noise. Further back, the energy drops: smaller, quieter lounge rooms designed for groups who want to talk, linger, and order round after round without shouting over a speaker. That contrast — loud shopfront, hushed back rooms — mirrors how a lot of Korean bars and dining rooms are laid out, and it's clearly deliberate here rather than incidental.
+A converted shophouse gives BOP its bones, and the design leans into the building's natural split personality. Up front, expect a high-energy bar zone — the kind of counter where you can watch bottles get poured and hear the shaker going, ideal if you're arriving as a pair or trio and want to be part of the room's noise. Further back, the energy drops: smaller, quieter lounge rooms designed for groups who want to talk, linger, and order round after round without shouting over a speaker.
+
+That contrast — loud shopfront, hushed back rooms — mirrors how a lot of Korean bars and dining rooms are laid out, and it's clearly deliberate here rather than incidental.
 
 ## Getting there
 
-BOP sits in Tanjong Pagar, a five-to-ten-minute walk from Tanjong Pagar MRT station (East-West Line, Exit A), in the same general pocket as the neighbourhood's dense cluster of bars along Duxton Hill, Tras Street, and the surrounding shophouse rows. If you're coming from the bar-hopping crowd already working through Jigger & Pony's other outposts or the nearby Duxton Hill strip, it's an easy add to the same night out on foot. Grab or a taxi will drop you within a short walk of the door if you're coming from further out, since exact street-level entrance details are the kind of thing worth confirming on the day.
+BOP sits in Tanjong Pagar, a five-to-ten-minute walk from Tanjong Pagar MRT station (East-West Line, Exit A), in the same general pocket as the neighbourhood's dense cluster of bars along Duxton Hill, Tras Street, and the surrounding shophouse rows. If you're coming from the bar-hopping crowd already working through Jigger & Pony's other outposts or the nearby Duxton Hill strip, it's an easy add to the same night out on foot.
+
+Grab or a taxi will drop you within a short walk of the door if you're coming from further out, since exact street-level entrance details are the kind of thing worth confirming on the day.
 
 ## What to expect
 
-Because BOP only opened on January 31, 2026, treat any specific menu detail you read elsewhere as provisional until you're at the bar with a list in hand — but the concept itself is clear: Korean-inflected cocktails and dining designed to be shared, in a format built by people who've spent years refining bar programs at one of Singapore's most decorated groups. Expect the kind of technical precision Jigger & Pony is known for applied to Korean flavour references and drinking customs, rather than a generic "Asian fusion" cocktail list. Go in curious rather than with a fixed order in mind.
+Because BOP only opened on January 31, 2026, treat any specific menu detail you read elsewhere as provisional until you're at the bar with a list in hand — but the concept itself is clear: Korean-inflected cocktails and dining designed to be shared, in a format built by people who've spent years refining bar programs at one of Singapore's most decorated groups.
+
+Expect the kind of technical precision Jigger & Pony is known for applied to Korean flavour references and drinking customs, rather than a generic "Asian fusion" cocktail list. Go in curious rather than with a fixed order in mind.
 
 ## How to visit like a local
 
-Book ahead. A new opening from this pedigree, in a neighbourhood already used to queues at its best bars, fills up fast — don't assume you can walk in on a Friday and get a table in the lounge rooms. If you're after conversation, ask for the back when you reserve; if you want to watch the bar work, ask for a seat up front. Korean drinking culture runs on shared rounds and shared plates rather than one person ordering solo, so come with at least one other person and be ready to order for the table, not just yourself — that's the whole point of how the room is built. Payment in Singapore's bar scene is overwhelmingly cashless now, so a card or mobile wallet will cover you without issue. And because this is a genuinely new, buzzed-about opening rather than an established fixture, double-check current opening hours and the reservation policy directly with BOP before you set out — details are still settling in the weeks after launch.
+Book ahead. A new opening from this pedigree, in a neighbourhood already used to queues at its best bars, fills up fast — don't assume you can walk in on a Friday and get a table in the lounge rooms. If you're after conversation, ask for the back when you reserve; if you want to watch the bar work, ask for a seat up front.
+
+Korean drinking culture runs on shared rounds and shared plates rather than one person ordering solo, so come with at least one other person and be ready to order for the table, not just yourself — that's the whole point of how the room is built. Payment in Singapore's bar scene is overwhelmingly cashless now, so a card or mobile wallet will cover you without issue.
+
+And because this is a genuinely new, buzzed-about opening rather than an established fixture, double-check current opening hours and the reservation policy directly with BOP before you set out — details are still settling in the weeks after launch.
 
 ## Nearby
 

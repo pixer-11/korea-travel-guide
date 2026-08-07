@@ -40,11 +40,15 @@ aiGenerated: true
 
 ## Why go
 
-Sentosa's dining scene is dominated by beach bars, resort buffets, and theme-park snack counters, so a restaurant like Fiamma stands out simply by being a serious, quiet, chef-driven room. Set within the grounds of Capella Singapore, a colonial-era-inspired luxury hotel on the island's northeastern edge, Fiamma serves modern Italian food with the kind of polish you'd expect from a hotel of this caliber — but without the same crowds that swarm Siloso Beach or the Universal Studios area. With a 4.8 rating across 842 reviews, it has built a loyal following without becoming a tourist checkpoint, making it a genuinely under-the-radar choice for a destination that rarely gets described that way.
+Sentosa's dining scene is dominated by beach bars, resort buffets, and theme-park snack counters, so a restaurant like Fiamma stands out simply by being a serious, quiet, chef-driven room. Set within the grounds of Capella Singapore, a colonial-era-inspired luxury hotel on the island's northeastern edge, Fiamma serves modern Italian food with the kind of polish you'd expect from a hotel of this caliber — but without the same crowds that swarm Siloso Beach or the Universal Studios area.
+
+With a 4.8 rating across 842 reviews, it has built a loyal following without becoming a tourist checkpoint, making it a genuinely under-the-radar choice for a destination that rarely gets described that way.
 
 ## Getting there
 
-The address is 1 The Knolls, Singapore 098297, inside the Capella Singapore compound. If you're coming from mainland Singapore, take the Sentosa Express monorail from VivoCity (Level 3, HarbourFront) to Waterfront Station, then transfer to a Sentosa shuttle bus or taxi/ride-hail for the final stretch — Capella sits away from the main monorail loop, closer to Sentosa's quieter eastern coastline near Tanjong Beach. A taxi or private-hire car directly from HarbourFront or the airport is the simplest option and typically takes 20–30 minutes depending on traffic and the causeway queue onto the island. If you're already staying on Sentosa, ask your hotel concierge about the shuttle schedule to Capella, since public buses on the island run a fixed loop that doesn't stop right at the hotel gate.
+The address is 1 The Knolls, Singapore 098297, inside the Capella Singapore compound. If you're coming from mainland Singapore, take the Sentosa Express monorail from VivoCity (Level 3, HarbourFront) to Waterfront Station, then transfer to a Sentosa shuttle bus or taxi/ride-hail for the final stretch — Capella sits away from the main monorail loop, closer to Sentosa's quieter eastern coastline near Tanjong Beach.
+
+A taxi or private-hire car directly from HarbourFront or the airport is the simplest option and typically takes 20–30 minutes depending on traffic and the causeway queue onto the island. If you're already staying on Sentosa, ask your hotel concierge about the shuttle schedule to Capella, since public buses on the island run a fixed loop that doesn't stop right at the hotel gate.
 
 ## What to eat
 
@@ -56,7 +60,11 @@ Dinner is the natural time to visit, both because the kitchen's cooking style su
 
 ## How to visit like a local
 
-Book a table in advance — a room of this caliber inside a five-star hotel doesn't rely on walk-ins, and last-minute arrivals risk being turned away or seated at an off-peak time. Reservations are typically made online or by phone through the hotel directly rather than through general Sentosa dining apps. Dress smart-casual at minimum; this isn't a beachwear-friendly venue despite the island setting. Payment is by card as standard practice at hotel restaurants in Singapore — cash isn't necessary, and a service charge is usually already built into the bill, so additional tipping isn't expected or required. The most common visitor mistake is treating Fiamma as a quick stop between Sentosa activities: this is a destination meal, not a snack, so pace your day around it rather than squeezing it into a gap in the itinerary. For the calmest experience, request an early dinner seating on a weeknight, and consider arriving 20–30 minutes before your reservation to walk Capella's colonial-era grounds, designed by Norman Foster, before you sit down to eat.
+Book a table in advance — a room of this caliber inside a five-star hotel doesn't rely on walk-ins, and last-minute arrivals risk being turned away or seated at an off-peak time. Reservations are typically made online or by phone through the hotel directly rather than through general Sentosa dining apps. Dress smart-casual at minimum; this isn't a beachwear-friendly venue despite the island setting.
+
+Payment is by card as standard practice at hotel restaurants in Singapore — cash isn't necessary, and a service charge is usually already built into the bill, so additional tipping isn't expected or required. The most common visitor mistake is treating Fiamma as a quick stop between Sentosa activities: this is a destination meal, not a snack, so pace your day around it rather than squeezing it into a gap in the itinerary.
+
+For the calmest experience, request an early dinner seating on a weeknight, and consider arriving 20–30 minutes before your reservation to walk Capella's colonial-era grounds, designed by Norman Foster, before you sit down to eat.
 
 ## Nearby to pair with your visit
 

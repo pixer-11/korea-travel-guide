@@ -56,17 +56,23 @@ draft: false
 
 ## Why Anping Old Street matters
 
-Long before Tainan became Taiwan's food-obsessed cultural capital, Anping was its front door. This is where Dutch traders set up shop in the 1620s, building the fort that would become the seed of Dutch colonial rule on the island. Yanping Street, the spine of today's Old Street, is generally recognized as Taiwan's oldest commercial street — and walking it, you're tracing a trade route that predates the Qing dynasty's arrival, let alone modern Taipei. That layered history is what separates this from a generic souvenir strip: the bones of the place are genuinely old, even if most of what you buy today is fresh off a griddle.
+Long before Tainan became Taiwan's food-obsessed cultural capital, Anping was its front door. This is where Dutch traders set up shop in the 1620s, building the fort that would become the seed of Dutch colonial rule on the island. Yanping Street, the spine of today's Old Street, is generally recognized as Taiwan's oldest commercial street — and walking it, you're tracing a trade route that predates the Qing dynasty's arrival, let alone modern Taipei.
+
+That layered history is what separates this from a generic souvenir strip: the bones of the place are genuinely old, even if most of what you buy today is fresh off a griddle.
 
 ## What you'll actually see
 
-The street itself is narrow — in places barely wide enough for two people to pass shoulder to shoulder — and it branches into a warren of side alleys lined with red-brick shopfronts, some with lintels and door frames dating back generations. Shrines and small temples pop up between the stalls, incense smoke curling out into lanes crowded with vendors. You'll notice the crowd thickening and thinning as the street narrows and widens; duck into a side alley and the noise drops immediately, replaced by laundry hanging overhead and cats sleeping on stone steps. It's a maze by design, and getting slightly lost for ten minutes is part of the experience.
+The street itself is narrow — in places barely wide enough for two people to pass shoulder to shoulder — and it branches into a warren of side alleys lined with red-brick shopfronts, some with lintels and door frames dating back generations. Shrines and small temples pop up between the stalls, incense smoke curling out into lanes crowded with vendors.
+
+You'll notice the crowd thickening and thinning as the street narrows and widens; duck into a side alley and the noise drops immediately, replaced by laundry hanging overhead and cats sleeping on stone steps. It's a maze by design, and getting slightly lost for ten minutes is part of the experience.
 
 Food is the main event for most visitors. Look for suncake (太陽餅-style pastries specific to Tainan bakeries here), fresh oyster omelettes, shrimp rolls, and stalls selling jerky and dried fruit that make good take-home snacks. Small shops sell hand-carved seals, tin crafts (Anping has a tinsmithing tradition), and old-style toys alongside modern souvenir T-shirts, so the commercial mix genuinely spans centuries of local trade even if the products have changed.
 
 ## Getting there
 
-Anping District sits west of central Tainan, near the harbor, and isn't served by Tainan's rail lines directly — you'll need a taxi, scooter, or city bus. From Tainan Railway Station, bus routes 2 or 88 (the Anping Taijiang Culture Bus line) run out to the Anping area and stop within a short walk of the Old Street; a taxi from the station takes roughly 15–20 minutes depending on traffic. Many visitors combine a Tainan day with renting a scooter, which makes the whole Anping waterfront easy to cover in one loop.
+Anping District sits west of central Tainan, near the harbor, and isn't served by Tainan's rail lines directly — you'll need a taxi, scooter, or city bus. From Tainan Railway Station, bus routes 2 or 88 (the Anping Taijiang Culture Bus line) run out to the Anping area and stop within a short walk of the Old Street; a taxi from the station takes roughly 15–20 minutes depending on traffic.
+
+Many visitors combine a Tainan day with renting a scooter, which makes the whole Anping waterfront easy to cover in one loop.
 
 ## Pairing it with the neighborhood
 
@@ -74,4 +80,8 @@ Anping rewards a half-day rather than a quick in-and-out. Fort Zeelandia — kno
 
 ## How to visit like a local
 
-This is one of Tainan's most visited attractions, so the crowd is the main thing to manage, not the history. Go early — before 10am on a weekday — or come back after dinner when the day-trip tour groups have thinned out and the stalls are lit up but less jammed. Weekends and midday hours are when the lane fills shoulder-to-shoulder, so if you only have one window, avoid early-to-mid afternoon. Cash is still king at most food stalls, though larger shops increasingly take mobile payment or cards — carry small NT dollar bills for snacking, since vendors often can't break large notes quickly during rushes. There's no formal queue system for the street itself, but individual popular food stalls do form lines; join the one with the most local-looking customers rather than the flashiest signage. Eat standing up or walking, as locals do — sit-down seating is scarce and mostly reserved for actual restaurants off the main lane. The most common visitor mistake is trying to "do" Anping Old Street as an isolated attraction and rushing back to central Tainan afterward; give yourself time to walk the extra ten minutes to the Fort and Tree House, since that's where the street's Dutch-era backstory actually becomes visible in brick and stone rather than just a name on a sign.
+This is one of Tainan's most visited attractions, so the crowd is the main thing to manage, not the history. Go early — before 10am on a weekday — or come back after dinner when the day-trip tour groups have thinned out and the stalls are lit up but less jammed. Weekends and midday hours are when the lane fills shoulder-to-shoulder, so if you only have one window, avoid early-to-mid afternoon.
+
+Cash is still king at most food stalls, though larger shops increasingly take mobile payment or cards — carry small NT dollar bills for snacking, since vendors often can't break large notes quickly during rushes. There's no formal queue system for the street itself, but individual popular food stalls do form lines; join the one with the most local-looking customers rather than the flashiest signage.
+
+Eat standing up or walking, as locals do — sit-down seating is scarce and mostly reserved for actual restaurants off the main lane. The most common visitor mistake is trying to "do" Anping Old Street as an isolated attraction and rushing back to central Tainan afterward; give yourself time to walk the extra ten minutes to the Fort and Tree House, since that's where the street's Dutch-era backstory actually becomes visible in brick and stone rather than just a name on a sign.

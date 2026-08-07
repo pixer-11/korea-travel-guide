@@ -50,7 +50,6 @@ draft: false
 eventRecurring: false
 photoless: true
 ---
-
 You feel Mall of Asia Arena before you see it. The complex sprawls along Manila Bay's reclaimed waterfront in Pasay City, a wall of LED screens and shuttle buses and vendors already setting up folding tables of light sticks and photocards days before showtime. This is where BABYMONSTER — YG Entertainment's newest girl group, built around members like Ruka, Ahyeon, Asa, and Pharita — lands on September 5, 2026, for a stop on their CHOOM World Tour, their first global run since debuting.
 
 ## Why this stop matters
@@ -59,7 +58,9 @@ Manila has become a regular fixture on K-pop world tours precisely because of th
 
 ## Getting to SM Mall of Asia Arena
 
-The arena sits inside the wider SM Mall of Asia complex, right on the bay, in Pasay City — next door to Metro Manila's airport district. If you're coming from the north (Makati, Ortigas, Quezon City), taxis and ride-hailing apps are the simplest option, though traffic along Roxas Boulevard and EDSA can be heavy in the hours before a big show. Many concertgoers instead take the LRT-1 to EDSA or Taft Avenue stations and transfer to a P2P bus or taxi for the last stretch, since there's no direct rail line into the Mall of Asia complex itself. Because the venue is inside a mall precinct, you can also arrive hours early, eat, buy merch inside the mall, and walk over rather than fighting arena-adjacent traffic at the last minute.
+The arena sits inside the wider SM Mall of Asia complex, right on the bay, in Pasay City — next door to Metro Manila's airport district. If you're coming from the north (Makati, Ortigas, Quezon City), taxis and ride-hailing apps are the simplest option, though traffic along Roxas Boulevard and EDSA can be heavy in the hours before a big show.
+
+Many concertgoers instead take the LRT-1 to EDSA or Taft Avenue stations and transfer to a P2P bus or taxi for the last stretch, since there's no direct rail line into the Mall of Asia complex itself. Because the venue is inside a mall precinct, you can also arrive hours early, eat, buy merch inside the mall, and walk over rather than fighting arena-adjacent traffic at the last minute.
 
 ## What to expect on the night
 
@@ -67,11 +68,15 @@ Expect the CHOOM World Tour setlist to lean on BABYMONSTER's sharper, dance-forw
 
 ## Tickets and practical planning
 
-Ticket tiers for Manila K-pop concerts at this venue typically range from general-admission floor and lower-box seats to upper-tier seating further from the stage, with prices and on-sale dates announced separately by the official ticketing partner. Because BABYMONSTER's Manila shows draw large crowds and international fans flying in specifically for the date, tickets for prior K-pop concerts here have sold out within hours of release — so set a calendar reminder for the on-sale announcement rather than waiting. Always buy through the official ticketing outlet named in BABYMONSTER's own tour announcements; resale listings around Mall of Asia during big concert weeks are common and not guaranteed genuine.
+Ticket tiers for Manila K-pop concerts at this venue typically range from general-admission floor and lower-box seats to upper-tier seating further from the stage, with prices and on-sale dates announced separately by the official ticketing partner. Because BABYMONSTER's Manila shows draw large crowds and international fans flying in specifically for the date, tickets for prior K-pop concerts here have sold out within hours of release — so set a calendar reminder for the on-sale announcement rather than waiting.
+
+Always buy through the official ticketing outlet named in BABYMONSTER's own tour announcements; resale listings around Mall of Asia during big concert weeks are common and not guaranteed genuine.
 
 ## How to visit like a local
 
-Manila concertgoers rarely show up right at doors — they treat the whole Mall of Asia complex as part of the night out, arriving three or four hours early to eat at the mall's restaurants, browse the seaside promenade, and queue for official merchandise, which historically sells out its early runs fast. Cash still works everywhere, but tap-to-pay cards and e-wallets like GCash are widely accepted for food, transport, and merch inside the complex, so you don't need to carry large amounts of cash. If you're queueing for general admission floor tickets, expect fans to start lining up along the arena's designated queue lanes well before doors — ask arena staff (in yellow or branded vests) where your ticket category's line starts, since floor and box queues are usually separated. The most common mistake first-timers make is underestimating exit traffic: when a full-capacity show lets out, Roxas Boulevard and the mall's internal roads jam almost immediately, so budget extra time afterward, or plan to linger in the mall until the crowd thins.
+Manila concertgoers rarely show up right at doors — they treat the whole Mall of Asia complex as part of the night out, arriving three or four hours early to eat at the mall's restaurants, browse the seaside promenade, and queue for official merchandise, which historically sells out its early runs fast. Cash still works everywhere, but tap-to-pay cards and e-wallets like GCash are widely accepted for food, transport, and merch inside the complex, so you don't need to carry large amounts of cash.
+
+If you're queueing for general admission floor tickets, expect fans to start lining up along the arena's designated queue lanes well before doors — ask arena staff (in yellow or branded vests) where your ticket category's line starts, since floor and box queues are usually separated. The most common mistake first-timers make is underestimating exit traffic: when a full-capacity show lets out, Roxas Boulevard and the mall's internal roads jam almost immediately, so budget extra time afterward, or plan to linger in the mall until the crowd thins.
 
 ## Before you lock in plans
 

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: naples-archaeological-park-of-pompeii
-srcHash: 60e6dfb3b2f3
+srcHash: '14ed77791a64'
 title: 庞贝考古公园：那不勒斯旅行指南
 description: 庞贝考古公园是一座公元79年被维苏威火山掩埋的完整古罗马城市遗址，位于庞贝镇（Pompei），从那不勒斯乘火车约30分钟可达。
 quickAnswer: 庞贝考古公园是一座公元79年被维苏威火山掩埋的完整古罗马城市遗址，位于庞贝镇（Pompei），从那不勒斯乘火车约30分钟可达。至少要安排3-4小时（如果你是历史爱好者，可以安排一整天），从马里纳门（Porta Marina）进入，并尽量早上前往，以避开人群和夏季的酷热。请穿真正适合步行的鞋子——原始的罗马石板路凹凸不平，且几乎没有遮阴处。

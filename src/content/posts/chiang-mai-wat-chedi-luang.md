@@ -71,11 +71,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Wat Chedi Luang is one of the most historically important temples in northern Thailand, built around a colossal chedi (stupa) that once stood over 80 meters tall before a 16th-century earthquake — and possibly cannon fire during a later Burmese siege — brought down its upper section. What remains is still an imposing, weathered brick-and-stucco mass ringed by naga serpent staircases and elephant sculptures at its base, giving it a gravitas that Chiang Mai's more polished, gilded temples don't quite match. The complex also houses the city's *lak mueang*, the guardian pillar believed to protect Chiang Mai, sheltered in a small structure beside a sacred gum tree (*sadeu mueang*) said to be as old as the city itself. Rated 4.7 from over 18,500 reviews, it's consistently one of the highest-regarded sights in the Old City.
+Wat Chedi Luang is one of the most historically important temples in northern Thailand, built around a colossal chedi (stupa) that once stood over 80 meters tall before a 16th-century earthquake — and possibly cannon fire during a later Burmese siege — brought down its upper section. What remains is still an imposing, weathered brick-and-stucco mass ringed by naga serpent staircases and elephant sculptures at its base, giving it a gravitas that Chiang Mai's more polished, gilded temples don't quite match.
+
+The complex also houses the city's *lak mueang*, the guardian pillar believed to protect Chiang Mai, sheltered in a small structure beside a sacred gum tree (*sadeu mueang*) said to be as old as the city itself. Rated 4.7 from over 18,500 reviews, it's consistently one of the highest-regarded sights in the Old City.
 
 ## Getting there
 
-The temple sits at 103 Prapokklao Road, right in the walled Old City, roughly midway between Wat Phra Singh and the Three Kings Monument. It's eminently walkable from most Old City guesthouses — expect a 10–20 minute stroll depending on where you're based. If you're coming from outside the walls, a songthaew (red truck) or Grab ride from Chiang Mai's Nimman or Riverside areas typically takes 10–15 minutes and costs a small, negotiable fare. There's no train or BTS-style system in Chiang Mai, so taxis, songthaews, or a rented bicycle/scooter are the practical options. Many visitors fold it into a walking loop of Old City temples, since Wat Phra Singh, Wat Chiang Man, and Wat Inthakhin are all within 10–15 minutes on foot.
+The temple sits at 103 Prapokklao Road, right in the walled Old City, roughly midway between Wat Phra Singh and the Three Kings Monument. It's eminently walkable from most Old City guesthouses — expect a 10–20 minute stroll depending on where you're based. If you're coming from outside the walls, a songthaew (red truck) or Grab ride from Chiang Mai's Nimman or Riverside areas typically takes 10–15 minutes and costs a small, negotiable fare.
+
+There's no train or BTS-style system in Chiang Mai, so taxis, songthaews, or a rented bicycle/scooter are the practical options. Many visitors fold it into a walking loop of Old City temples, since Wat Phra Singh, Wat Chiang Man, and Wat Inthakhin are all within 10–15 minutes on foot.
 
 ## What to see and do
 

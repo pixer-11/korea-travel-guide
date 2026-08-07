@@ -57,7 +57,9 @@ draft: false
 
 ## Why Hiyodori-Zaka is worth the detour
 
-Sakura sits about an hour east of central Tokyo, and most visitors to Chiba blow straight past it on the way to Narita Airport. That's the reason Hiyodori-Zaka still feels so undisturbed. This is a sunken lane, cut between two earthen embankments and topped with clipped hedges (*ikegaki*), that once connected the homes of mid-ranking samurai serving the Sakura Domain. Walk it today and the modern town disappears almost entirely — no vending machines, no power lines in view, just packed earth, moss-stained stone, and a canopy of leaves that filters the light into a soft green wash. It's the kind of place that rewards patience rather than a checklist mentality: there's no single "sight" to photograph, just the accumulated texture of a 19th-century street that never got paved over.
+Sakura sits about an hour east of central Tokyo, and most visitors to Chiba blow straight past it on the way to Narita Airport. That's the reason Hiyodori-Zaka still feels so undisturbed. This is a sunken lane, cut between two earthen embankments and topped with clipped hedges (*ikegaki*), that once connected the homes of mid-ranking samurai serving the Sakura Domain.
+
+Walk it today and the modern town disappears almost entirely — no vending machines, no power lines in view, just packed earth, moss-stained stone, and a canopy of leaves that filters the light into a soft green wash. It's the kind of place that rewards patience rather than a checklist mentality: there's no single "sight" to photograph, just the accumulated texture of a 19th-century street that never got paved over.
 
 ## Getting there
 
@@ -65,7 +67,9 @@ Take the Keisei Main Line to Keisei-Sakura Station (about 70-75 minutes from Kei
 
 ## What you'll actually see
 
-Hiyodori-Zaka is short — you can walk its length in a few minutes — but the point is to slow down. The path is flanked by tall clipped hedges and earthen banks (*dorui*) that were originally built for both privacy and low-level defense, a design detail that distinguishes samurai-district lanes like this one from an ordinary alley. Bring a wide-angle lens or just your phone held low; the slope's compressed perspective is what makes it a favorite for photographers who know it's here. Because the lane sits inside a residential neighborhood, houses still stand along parts of it, so keep voices down and stay on the path.
+Hiyodori-Zaka is short — you can walk its length in a few minutes — but the point is to slow down. The path is flanked by tall clipped hedges and earthen banks (*dorui*) that were originally built for both privacy and low-level defense, a design detail that distinguishes samurai-district lanes like this one from an ordinary alley. Bring a wide-angle lens or just your phone held low; the slope's compressed perspective is what makes it a favorite for photographers who know it's here.
+
+Because the lane sits inside a residential neighborhood, houses still stand along parts of it, so keep voices down and stay on the path.
 
 Budget 20-30 minutes for the lane itself, then extend your visit: Sakura is also home to three preserved samurai residences (the Kyu-Kawara, Kyu-Takahashi, and Kyu-Tashiro houses), a short walk further into Jōnaichō, where you can step inside a real Edo-period home for a modest admission fee. The National Museum of Japanese History, built on the former castle grounds within Sakura Castle Ruins Park, is another 10-15 minutes on foot and easily fills the rest of a half-day.
 
@@ -75,7 +79,9 @@ Spring and early autumn are the most comfortable seasons — the hedges are gree
 
 ## How to visit like a local
 
-There's no ticket, no gate, and no set hours — it's a public lane through a residential area, so the etiquette is simple: keep noise down, don't linger outside private homes, and don't block the narrow path if someone lives there and is trying to get through. Weekday mornings are the quietest stretch, since most visitors who do come tend to arrive on weekend afternoons alongside trips to the samurai houses. There's nothing to pay or tip here — the only spending you'll do is the small entry fee at the samurai residences nearby, and those typically accept cash only, so carry some coins and small bills. The biggest mistake visitors make is treating this as a five-minute photo stop and skipping everything else in Jōnaichō; the lane is really the atmospheric prelude to the wider preserved samurai quarter, and seeing it in isolation undersells the whole district. If you want the classic shot down the length of the hedge with nobody in frame, arrive before mid-morning.
+There's no ticket, no gate, and no set hours — it's a public lane through a residential area, so the etiquette is simple: keep noise down, don't linger outside private homes, and don't block the narrow path if someone lives there and is trying to get through. Weekday mornings are the quietest stretch, since most visitors who do come tend to arrive on weekend afternoons alongside trips to the samurai houses.
+
+There's nothing to pay or tip here — the only spending you'll do is the small entry fee at the samurai residences nearby, and those typically accept cash only, so carry some coins and small bills. The biggest mistake visitors make is treating this as a five-minute photo stop and skipping everything else in Jōnaichō; the lane is really the atmospheric prelude to the wider preserved samurai quarter, and seeing it in isolation undersells the whole district. If you want the classic shot down the length of the hedge with nobody in frame, arrive before mid-morning.
 
 ## Nearby to combine
 

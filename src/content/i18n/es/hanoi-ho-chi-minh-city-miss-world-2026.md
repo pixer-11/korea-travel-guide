@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hanoi-ho-chi-minh-city-miss-world-2026
-srcHash: 8619758a9e39
+srcHash: '3e73403f5dca'
 title: 'Miss World 2026: Lo que hay que saber (Hanói)'
 description: Miss World 2026 —la edición del 75.º aniversario del certamen— se celebra del 9 de agosto al 5 de septiembre de 2026, con unas 130 delegadas nacionales recorriendo Vietnam antes de que la gran final se retransmita en directo desde Ciudad Ho Chi Minh el 5 de septiembre.
 quickAnswer: Miss World 2026 —la edición del 75.º aniversario del certamen— se celebra del 9 de agosto al 5 de septiembre de 2026, con unas 130 delegadas nacionales recorriendo Vietnam antes de que la gran final se retransmita en directo desde Ciudad Ho Chi Minh el 5 de septiembre. Se espera que Hanói (Hanoi) sea sede de las actividades iniciales de las concursantes y de eventos culturales, mientras que Ciudad Ho Chi Minh (HCMC) concentra la final; conviene confirmar el recinto concreto, el reparto entre ciudades sede y la venta de entradas en los canales oficiales de Miss World a medida que se acerque la fecha, ya que estos detalles logísticos no estaban cerrados en el momento de escribir esta guía.
@@ -34,7 +34,9 @@ Los recintos exactos, los horarios diarios y qué segmento corresponde a cada ci
 
 ## Cómo llegar y moverse
 
-Ambas ciudades sede cuentan con grandes aeropuertos internacionales: **Noi Bai International (HAN)** en Hanói y **Tan Son Nhat International (SGN)** en Ciudad Ho Chi Minh, ambos con vuelos de larga distancia desde Europa, Norteamérica, Australia y distintos puntos de Asia. Los vuelos domésticos entre ambas ciudades duran unas 2 horas y son frecuentes con Vietnam Airlines, Vietjet y Bamboo Airways, lo que hace muy viable un viaje por las dos ciudades (eventos de llegada en Hanói, final en HCMC, o al revés) dentro de una sola visita. El tren **Reunification Express** es una alternativa pintoresca pero mucho más lenta (más de 30 horas), mejor como tramo extra que como plan principal de transporte.
+Ambas ciudades sede cuentan con grandes aeropuertos internacionales: **Noi Bai International (HAN)** en Hanói y **Tan Son Nhat International (SGN)** en Ciudad Ho Chi Minh, ambos con vuelos de larga distancia desde Europa, Norteamérica, Australia y distintos puntos de Asia. Los vuelos domésticos entre ambas ciudades duran unas 2 horas y son frecuentes con Vietnam Airlines, Vietjet y Bamboo Airways, lo que hace muy viable un viaje por las dos ciudades (eventos de llegada en Hanói, final en HCMC, o al revés) dentro de una sola visita.
+
+El tren **Reunification Express** es una alternativa pintoresca pero mucho más lenta (más de 30 horas), mejor como tramo extra que como plan principal de transporte.
 
 ## Qué ver durante la estancia
 
@@ -47,4 +49,6 @@ La semana del certamen es también una buena excusa para probar las diferencias 
 
 ## Notas prácticas y cuándo ir
 
-Agosto y principios de septiembre coinciden con la temporada de lluvias en Vietnam, tanto en el norte como en el sur: hay que contar con calor húmedo, chubascos repentinos y actividad ocasional de tifones, especialmente en las regiones central y norte. Conviene llevar ropa ligera de secado rápido y un paraguas compacto en lugar de un poncho. Es probable que las tarifas de hoteles y vuelos en ambas ciudades suban a medida que se acerque el 5 de septiembre, así que reservar el alojamiento con antelación —especialmente en HCMC en torno a las fechas de la final— es lo más útil que se puede hacer ahora mismo. Si las entradas llegan a ponerse a la venta públicamente, se anunciarán a través del sitio web oficial de Miss World y de los socios de la televisión estatal vietnamita; conviene evitar a los revendedores de terceros hasta que se confirme un canal de venta oficial.
+Agosto y principios de septiembre coinciden con la temporada de lluvias en Vietnam, tanto en el norte como en el sur: hay que contar con calor húmedo, chubascos repentinos y actividad ocasional de tifones, especialmente en las regiones central y norte. Conviene llevar ropa ligera de secado rápido y un paraguas compacto en lugar de un poncho. Es probable que las tarifas de hoteles y vuelos en ambas ciudades suban a medida que se acerque el 5 de septiembre, así que reservar el alojamiento con antelación —especialmente en HCMC en torno a las fechas de la final— es lo más útil que se puede hacer ahora mismo.
+
+Si las entradas llegan a ponerse a la venta públicamente, se anunciarán a través del sitio web oficial de Miss World y de los socios de la televisión estatal vietnamita; conviene evitar a los revendedores de terceros hasta que se confirme un canal de venta oficial.

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ibiza-streetxo-ibiza
-srcHash: 3baed76085ac
+srcHash: 'd95c8ee6f104'
 title: StreetXO Ibiza
 description: StreetXO Ibiza es el restaurante de street food de alto concepto del chef Dabiz Muñoz, ubicado dentro de The Unexpected Ibiza Hotel y construido en torno a una barra central y una cocina abierta.
 quickAnswer: StreetXO Ibiza es el restaurante de street food de alto concepto del chef Dabiz Muñoz, ubicado dentro de The Unexpected Ibiza Hotel y construido en torno a una barra central y una cocina abierta. Es la sede en Ibiza de la misma marca StreetXO que respalda al DiverXO de Muñoz, reconocido a nivel mundial, así que hay que esperar un street food teatral y fusionado, no un bocado informal. Reserva con antelación, viste acorde a la ocasión y confirma directamente con el hotel los horarios y la política de reservas vigentes antes de ir, ya que los detalles de una apertura de temporada nueva pueden cambiar.
@@ -20,19 +20,27 @@ faq:
 
 ## Por qué StreetXO Ibiza es relevante
 
-Dabiz Muñoz es uno de los chefs más condecorados del momento — su buque insignia en Madrid, DiverXO, se ha situado repetidamente entre los World's 50 Best Restaurants y ostenta varias estrellas Michelin. StreetXO es su concepto más teatral y de acceso más sencillo: una propuesta ruidosa y dinámica de street food global filtrada a través de la técnica de la alta cocina, articulada en torno a una cocina abierta y una barra central donde los comensales ven cómo se preparan los platos en tiempo real, en lugar de sentarse en mesas tranquilas y espaciadas. Traer ese formato a Ibiza para la temporada de verano, alojado dentro de The Unexpected Ibiza Hotel, supone una llegada destacada para una isla cuya escena gastronómica suele estar dominada por beach clubs y restaurantes con vistas al atardecer, más que por espacios de concepto liderados por chefs. Para los visitantes que siguen el ecosistema de World's 50 Best o que han comido en las sedes de StreetXO en Madrid o Londres, esta es una oportunidad de ver el formato trasplantado a un contexto insular.
+Dabiz Muñoz es uno de los chefs más condecorados del momento — su buque insignia en Madrid, DiverXO, se ha situado repetidamente entre los World's 50 Best Restaurants y ostenta varias estrellas Michelin. StreetXO es su concepto más teatral y de acceso más sencillo: una propuesta ruidosa y dinámica de street food global filtrada a través de la técnica de la alta cocina, articulada en torno a una cocina abierta y una barra central donde los comensales ven cómo se preparan los platos en tiempo real, en lugar de sentarse en mesas tranquilas y espaciadas.
+
+Traer ese formato a Ibiza para la temporada de verano, alojado dentro de The Unexpected Ibiza Hotel, supone una llegada destacada para una isla cuya escena gastronómica suele estar dominada por beach clubs y restaurantes con vistas al atardecer, más que por espacios de concepto liderados por chefs. Para los visitantes que siguen el ecosistema de World's 50 Best o que han comido en las sedes de StreetXO en Madrid o Londres, esta es una oportunidad de ver el formato trasplantado a un contexto insular.
 
 ## Qué lo hace destacar
 
-El rasgo definitorio de StreetXO como formato es la barra central envuelta alrededor de una cocina abierta — la idea es tanto el espectáculo como la comida, con los chefs emplatando y terminando los platos a la vista de los comensales sentados alrededor de la barra. La filosofía de la carta (basada en las otras sedes de la marca) se inclina hacia la fusión de tradiciones de street food — piensa en influencias asiáticas, latinoamericanas y mediterráneas — con la precisión y las combinaciones de sabores inesperadas por las que Muñoz es conocido en DiverXO. Al tratarse de una edición recién inaugurada y de temporada, conviene considerar como provisional cualquier nombre de plato o precio que se vea en internet; confirma la carta actual directamente con el restaurante o el hotel antes de planear la noche en torno a un plato concreto.
+El rasgo definitorio de StreetXO como formato es la barra central envuelta alrededor de una cocina abierta — la idea es tanto el espectáculo como la comida, con los chefs emplatando y terminando los platos a la vista de los comensales sentados alrededor de la barra. La filosofía de la carta (basada en las otras sedes de la marca) se inclina hacia la fusión de tradiciones de street food — piensa en influencias asiáticas, latinoamericanas y mediterráneas — con la precisión y las combinaciones de sabores inesperadas por las que Muñoz es conocido en DiverXO.
+
+Al tratarse de una edición recién inaugurada y de temporada, conviene considerar como provisional cualquier nombre de plato o precio que se vea en internet; confirma la carta actual directamente con el restaurante o el hotel antes de planear la noche en torno a un plato concreto.
 
 ## Dónde está y cómo llegar
 
-StreetXO Ibiza está ubicado dentro de The Unexpected Ibiza Hotel. Como ocurre con la mayoría de la oferta gastronómica de gama alta en Ibiza, conviene planificar el transporte con antelación — los taxis en la isla pueden escasear en las horas punta del verano, especialmente a última hora de la noche, así que vale la pena reservar un coche con antelación o confirmar el transporte de vuelta con tu alojamiento antes de sentarte a comer. Si te alojas en otra zona de la isla, ten en cuenta que el tráfico de restaurantes y discotecas en Ibiza alcanza su punto álgido entre las 21:00 y las 23:00 en julio y agosto, y conseguir un taxi al momento cerca de las zonas hoteleras a esa hora puede suponer una espera considerable.
+StreetXO Ibiza está ubicado dentro de The Unexpected Ibiza Hotel. Como ocurre con la mayoría de la oferta gastronómica de gama alta en Ibiza, conviene planificar el transporte con antelación — los taxis en la isla pueden escasear en las horas punta del verano, especialmente a última hora de la noche, así que vale la pena reservar un coche con antelación o confirmar el transporte de vuelta con tu alojamiento antes de sentarte a comer.
+
+Si te alojas en otra zona de la isla, ten en cuenta que el tráfico de restaurantes y discotecas en Ibiza alcanza su punto álgido entre las 21:00 y las 23:00 en julio y agosto, y conseguir un taxi al momento cerca de las zonas hoteleras a esa hora puede suponer una espera considerable.
 
 ## Cuándo ir y cómo reservar
 
-Se describe como un concepto de verano, lo que significa que está ligado a la temporada alta de Ibiza (aproximadamente de mayo/junio a septiembre/octubre, cuando operan la mayoría de los restaurantes de temporada, beach clubs y locales dentro de hoteles de la isla). Dado el perfil de Muñoz y el revuelo en torno a DiverXO, es de esperar que la demanda sea alta y que las mesas se agoten rápido en cuanto corra la voz — reserva con la mayor antelación posible según las fechas de tu viaje, en lugar de asumir que habrá disponibilidad sin reserva. Como los horarios de apertura, los días de servicio y los sistemas de reserva de un lanzamiento de temporada recién estrenado pueden cambiar rápidamente en los primeros meses, llama o consulta los canales oficiales del hotel cerca de la fecha de tu visita en lugar de fiarte de la cobertura de prensa inicial.
+Se describe como un concepto de verano, lo que significa que está ligado a la temporada alta de Ibiza (aproximadamente de mayo/junio a septiembre/octubre, cuando operan la mayoría de los restaurantes de temporada, beach clubs y locales dentro de hoteles de la isla). Dado el perfil de Muñoz y el revuelo en torno a DiverXO, es de esperar que la demanda sea alta y que las mesas se agoten rápido en cuanto corra la voz — reserva con la mayor antelación posible según las fechas de tu viaje, en lugar de asumir que habrá disponibilidad sin reserva.
+
+Como los horarios de apertura, los días de servicio y los sistemas de reserva de un lanzamiento de temporada recién estrenado pueden cambiar rápidamente en los primeros meses, llama o consulta los canales oficiales del hotel cerca de la fecha de tu visita en lugar de fiarte de la cobertura de prensa inicial.
 
 ## Consejos para la visita
 

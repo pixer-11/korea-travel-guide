@@ -45,19 +45,25 @@ draft: false
 
 ## Why go
 
-Most visitors to Hangzhou pour their time into West Lake's causeways and pavilions, which means the forested valley just to the west gets skipped by people who never realize what they're missing. Lingyin Temple — the name translates roughly as "Temple of the Soul's Retreat" — was founded in 328 CE by an Indian monk named Huili, who is said to have looked up at the limestone peak nearby and declared it a spirit that had flown there from India. That peak, Feilai Feng ("Peak That Flew From Afar"), is now covered in Buddhist and Taoist rock carvings dating from the 10th to 14th centuries, and it's the first thing you walk through before you even reach the temple gates.
+Most visitors to Hangzhou pour their time into West Lake's causeways and pavilions, which means the forested valley just to the west gets skipped by people who never realize what they're missing. Lingyin Temple — the name translates roughly as "Temple of the Soul's Retreat" — was founded in 328 CE by an Indian monk named Huili, who is said to have looked up at the limestone peak nearby and declared it a spirit that had flown there from India.
+
+That peak, Feilai Feng ("Peak That Flew From Afar"), is now covered in Buddhist and Taoist rock carvings dating from the 10th to 14th centuries, and it's the first thing you walk through before you even reach the temple gates.
 
 The complex has burned down and been rebuilt more than a dozen times over the centuries — wars, fires, the Cultural Revolution — so almost nothing standing today is original. What you're looking at instead is a living site: working monastery, active pilgrimage destination, and open-air museum of stone carving all at once.
 
 ## Getting there
 
-Lingyin Temple sits at the western edge of Hangzhou's Xihu (West Lake) district, about a 20-minute taxi or rideshare ride from the lake's main shoreline, or a longer but manageable bus ride — routes Y1, Y2, and 807 all stop near the temple entrance. There's no metro station directly at the site, which is part of why it stays quieter than the lake itself; most people don't bother making the trip out. If you're coming from central Hangzhou, build in 30-40 minutes each way and treat it as a half-day excursion rather than a quick stop.
+Lingyin Temple sits at the western edge of Hangzhou's Xihu (West Lake) district, about a 20-minute taxi or rideshare ride from the lake's main shoreline, or a longer but manageable bus ride — routes Y1, Y2, and 807 all stop near the temple entrance. There's no metro station directly at the site, which is part of why it stays quieter than the lake itself; most people don't bother making the trip out.
+
+If you're coming from central Hangzhou, build in 30-40 minutes each way and treat it as a half-day excursion rather than a quick stop.
 
 ## What to see and do
 
 Start at Feilai Feng before the temple proper — it's included in the same grounds and easy to miss if you rush past it. The gorge floor is shaded, damp, and cool even in summer, with a stream running alongside the path, and the rock face is pocked with hundreds of carved figures, the most photographed being a fat, laughing Maitreya Buddha near the entrance, its stone worn smooth by centuries of hands.
 
-Inside the temple itself, the Hall of the Heavenly Kings and the Grand Hall (Mahavira Hall) house towering gilded Buddha statues — the seated Sakyamuni in the main hall is one of the largest sitting Buddha statues carved from a single camphor-wood core in China, reconstructed in the 1950s after earlier versions were lost. Climb the stone steps behind the main halls to the Hall of the Medicine Buddha, where the crowds thin out noticeably and you get a view back down over the temple roofs into the tree canopy. Set aside two to three hours total if you want to see both the carvings and the halls without rushing.
+Inside the temple itself, the Hall of the Heavenly Kings and the Grand Hall (Mahavira Hall) house towering gilded Buddha statues — the seated Sakyamuni in the main hall is one of the largest sitting Buddha statues carved from a single camphor-wood core in China, reconstructed in the 1950s after earlier versions were lost. Climb the stone steps behind the main halls to the Hall of the Medicine Buddha, where the crowds thin out noticeably and you get a view back down over the temple roofs into the tree canopy.
+
+Set aside two to three hours total if you want to see both the carvings and the halls without rushing.
 
 ## When to go
 
@@ -65,5 +71,7 @@ Early morning, right after opening, is the calmest window — the incense hasn't
 
 ## How to visit like a local
 
-Buy your ticket at the booth or via the official WeChat mini-program rather than from touts near the parking area — pricing structures here have changed over the years (entry to the Feilai Feng grounds and the temple itself are sometimes ticketed separately), so confirm current admission at the gate rather than relying on what a blog told you. Bring your own incense sticks or buy the plain, unbundled ones sold near the entrance — the oversized decorative bundles pushed on tourists are overpriced and unnecessary, since three thin sticks are traditionally enough for a respectful offering. Photography is fine outdoors but is typically restricted inside the main halls, so watch for posted signs rather than assuming. Because this is still a working monastery, keep voices low near the halls and step aside for worshippers who are actually here to pray, not sightsee. The temple stays refreshingly under-visited relative to how significant it is, so there's no need to rush — the calm is part of what makes it worth the trip out from the lake.
+Buy your ticket at the booth or via the official WeChat mini-program rather than from touts near the parking area — pricing structures here have changed over the years (entry to the Feilai Feng grounds and the temple itself are sometimes ticketed separately), so confirm current admission at the gate rather than relying on what a blog told you. Bring your own incense sticks or buy the plain, unbundled ones sold near the entrance — the oversized decorative bundles pushed on tourists are overpriced and unnecessary, since three thin sticks are traditionally enough for a respectful offering.
+
+Photography is fine outdoors but is typically restricted inside the main halls, so watch for posted signs rather than assuming. Because this is still a working monastery, keep voices low near the halls and step aside for worshippers who are actually here to pray, not sightsee. The temple stays refreshingly under-visited relative to how significant it is, so there's no need to rush — the calm is part of what makes it worth the trip out from the lake.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: lyon-vieux-lyon
-srcHash: a2121b3bd5c1
+srcHash: '1abf4180a805'
 title: 'Vieux Lyon: Guía de viaje'
 description: 'Vieux Lyon es el barrio renacentista en la orilla oeste del Saona, ideal para recorrer a pie en medio día: pasea por las traboules (pasajes ocultos), sube a la basílica de Fourvière en funicular y termina con una cena en un bouchon.'
 quickAnswer: 'Vieux Lyon es el barrio renacentista en la orilla oeste del Saona, ideal para recorrer a pie en medio día: pasea por las traboules (pasajes ocultos), sube a la basílica de Fourvière en funicular y termina con una cena en un bouchon. Ve un día laborable por la mañana para evitar las multitudes, y usa calzado plano: los adoquines y las escaleras son implacables.'
@@ -20,7 +20,9 @@ faq:
 
 ## Por qué ir
 
-Vieux Lyon es uno de los distritos renacentistas intactos más grandes de Europa, núcleo declarado Patrimonio de la Humanidad por la UNESCO desde 1998, ubicado entre el río Saona y la colina de Fourvière, en el 5.º distrito de Lyon. Se libró de la piqueta que arrasó barrios comparables en otras partes de Francia, así que lo que sobrevive hoy es una auténtica ciudad de mercaderes de la seda de los siglos XV y XVI: callejones estrechos, escaleras de caracol de piedra y patios con torres almenadas, construidos cuando la banca y el comercio de la seda de Lyon rivalizaban con los de Florencia. Es una joya escondida no tanto por ser desconocida —por aquí pasan bastantes grupos turísticos— sino porque la mayoría de los visitantes solo recorre las calles superficiales y nunca descubre los pasajes que hacen que valga la pena desviarse.
+Vieux Lyon es uno de los distritos renacentistas intactos más grandes de Europa, núcleo declarado Patrimonio de la Humanidad por la UNESCO desde 1998, ubicado entre el río Saona y la colina de Fourvière, en el 5.º distrito de Lyon. Se libró de la piqueta que arrasó barrios comparables en otras partes de Francia, así que lo que sobrevive hoy es una auténtica ciudad de mercaderes de la seda de los siglos XV y XVI: callejones estrechos, escaleras de caracol de piedra y patios con torres almenadas, construidos cuando la banca y el comercio de la seda de Lyon rivalizaban con los de Florencia.
+
+Es una joya escondida no tanto por ser desconocida —por aquí pasan bastantes grupos turísticos— sino porque la mayoría de los visitantes solo recorre las calles superficiales y nunca descubre los pasajes que hacen que valga la pena desviarse.
 
 ## Cómo llegar
 
@@ -36,8 +38,12 @@ De vuelta en Vieux Lyon, los tres subbarrios —**Saint-Jean**, **Saint-Paul** y
 
 ## Dónde comer
 
-Este es el corazón del **bouchon** lionés, el bistró tradicional que sirve platos regionales contundentes: quenelles, andouillette, saladier lyonnais y tarte à la praline. Los bouchons se concentran a lo largo de la Rue Saint-Jean y la Rue du Boeuf, aunque la zona más turística cerca de la catedral suele ofrecer menús mediocres y con precios inflados; camina una o dos calles fuera de la vía principal hacia Saint-Paul para encontrar opciones más auténticas y menos caras. Una institución lionesa que conviene conocer: busca restaurantes con el sello "Les Toques Blanches Lyonnaises" o "Bouchon Lyonnais" si quieres evitarte los mediocres.
+Este es el corazón del **bouchon** lionés, el bistró tradicional que sirve platos regionales contundentes: quenelles, andouillette, saladier lyonnais y tarte à la praline. Los bouchons se concentran a lo largo de la Rue Saint-Jean y la Rue du Boeuf, aunque la zona más turística cerca de la catedral suele ofrecer menús mediocres y con precios inflados; camina una o dos calles fuera de la vía principal hacia Saint-Paul para encontrar opciones más auténticas y menos caras.
+
+Una institución lionesa que conviene conocer: busca restaurantes con el sello "Les Toques Blanches Lyonnaises" o "Bouchon Lyonnais" si quieres evitarte los mediocres.
 
 ## Cuándo ir y consejos prácticos
 
-Las mañanas entre semana (antes de las 11:00) son notablemente más tranquilas que las tardes de fin de semana, cuando los excursionistas de un día y los grupos turísticos inundan la Rue Saint-Jean. La primavera y principios de otoño ofrecen un clima templado para la subida a Fourvière, sin el calor del verano. Las noches tienen encanto: muchas traboules y patios se iluminan tras el anochecer durante la **Fête des Lumières**, a principios de diciembre, el famoso festival de las luces de Lyon, cuando todo el barrio se convierte en una instalación al aire libre. Usa calzado plano y resistente; los adoquines, las escaleras de caracol y las cuestas no son aptos para cochecitos ni tacones. Confirma localmente los horarios actuales de apertura de las traboules y cualquier cambio en el horario del funicular, ya que el acceso puede variar según la temporada.
+Las mañanas entre semana (antes de las 11:00) son notablemente más tranquilas que las tardes de fin de semana, cuando los excursionistas de un día y los grupos turísticos inundan la Rue Saint-Jean. La primavera y principios de otoño ofrecen un clima templado para la subida a Fourvière, sin el calor del verano. Las noches tienen encanto: muchas traboules y patios se iluminan tras el anochecer durante la **Fête des Lumières**, a principios de diciembre, el famoso festival de las luces de Lyon, cuando todo el barrio se convierte en una instalación al aire libre.
+
+Usa calzado plano y resistente; los adoquines, las escaleras de caracol y las cuestas no son aptos para cochecitos ni tacones. Confirma localmente los horarios actuales de apertura de las traboules y cualquier cambio en el horario del funicular, ya que el acceso puede variar según la temporada.

@@ -56,15 +56,21 @@ draft: false
 
 ## Why go
 
-Nobody plans a trip around a wall of used chewing gum, and yet here you are, phone out, half-laughing, half-grossed out, looking for a bare patch of brick to press your own wad onto. That's the whole appeal. The Gum Wall is one of those attractions that shouldn't work — it's sticky, it's a little unhygienic, city health officials have scraped it clean more than once — and it keeps coming back because visitors keep feeding it. Layer after layer of pink, blue, green, and faded-to-grey gum coats roughly 50 feet of brick and cobblestone, some of it pressed into shapes, initials, hearts, and the occasional cartoon face. It's strange, it's tactile, and it photographs like nothing else in Seattle.
+Nobody plans a trip around a wall of used chewing gum, and yet here you are, phone out, half-laughing, half-grossed out, looking for a bare patch of brick to press your own wad onto. That's the whole appeal. The Gum Wall is one of those attractions that shouldn't work — it's sticky, it's a little unhygienic, city health officials have scraped it clean more than once — and it keeps coming back because visitors keep feeding it.
+
+Layer after layer of pink, blue, green, and faded-to-grey gum coats roughly 50 feet of brick and cobblestone, some of it pressed into shapes, initials, hearts, and the occasional cartoon face. It's strange, it's tactile, and it photographs like nothing else in Seattle.
 
 ## Getting there
 
-The wall runs along Post Alley beneath Pike Place Market, at 1428 Post Alley, right next to the Market Theater. The easiest approach is to enter Pike Place Market from Pike Street or First Avenue, then head down toward the Market Theater entrance — the alley is downhill and slightly hidden, so watch for the crowd rather than a sign. If you're coming by public transit, Westlake Station (Link light rail and multiple bus lines) is about a 10-minute walk downhill. Seattle's waterfront trolley stops and the Colman Dock ferry terminal are both within easy walking distance too, so it pairs naturally with a stroll along the piers.
+The wall runs along Post Alley beneath Pike Place Market, at 1428 Post Alley, right next to the Market Theater. The easiest approach is to enter Pike Place Market from Pike Street or First Avenue, then head down toward the Market Theater entrance — the alley is downhill and slightly hidden, so watch for the crowd rather than a sign.
+
+If you're coming by public transit, Westlake Station (Link light rail and multiple bus lines) is about a 10-minute walk downhill. Seattle's waterfront trolley stops and the Colman Dock ferry terminal are both within easy walking distance too, so it pairs naturally with a stroll along the piers.
 
 ## What you'll actually see
 
-Up close, the wall is less a single mural and more decades of accumulated texture: some gum is fresh and glossy, some is cracked and sun-bleached, and the smell — sweet, faintly sour, warmed by the alley's brick — is part of the experience whether you like it or not. Look for the informal "traditions": people spell out names, press coins or ticket stubs into soft gum, or build small three-dimensional blobs that stick out from the wall. It's not curated art, so don't expect a tidy Instagram backdrop — it's genuinely a little grubby, which is exactly the point.
+Up close, the wall is less a single mural and more decades of accumulated texture: some gum is fresh and glossy, some is cracked and sun-bleached, and the smell — sweet, faintly sour, warmed by the alley's brick — is part of the experience whether you like it or not. Look for the informal "traditions": people spell out names, press coins or ticket stubs into soft gum, or build small three-dimensional blobs that stick out from the wall.
+
+It's not curated art, so don't expect a tidy Instagram backdrop — it's genuinely a little grubby, which is exactly the point.
 
 ## Nearby stops worth combining
 
@@ -76,4 +82,8 @@ This is a very popular stop on almost every Seattle itinerary, so timing matters
 
 ## How to visit like a local
 
-Treat this as a five-to-fifteen-minute novelty stop, not a destination to linger at — that's genuinely how most Seattleites who still walk past it treat it. Go right at market opening, before the tour buses arrive, to actually get close enough to touch the wall without waiting in a knot of phones and selfie sticks. There's no entry fee and nothing to book; it's an open alley, so there's no formal queue, but you may need to wait a turn for a clear photo angle during peak hours. If you want to add your own gum, buy a pack beforehand — nothing is sold on-site — and be considerate about not covering existing designs other visitors have made. The most common tourist mistake is arriving mid-afternoon on a weekend, expecting a quick look, and instead finding the alley shoulder-to-shoulder with people; if that happens, circle back into the market to browse and return in 20 minutes. Cash or card both work fine at nearby market stalls if you want a snack while you wait for the crowd to thin, and there's no real etiquette beyond common sense: don't touch other people's gum art, and don't linger blocking the alley for others trying to pass through.
+Treat this as a five-to-fifteen-minute novelty stop, not a destination to linger at — that's genuinely how most Seattleites who still walk past it treat it. Go right at market opening, before the tour buses arrive, to actually get close enough to touch the wall without waiting in a knot of phones and selfie sticks. There's no entry fee and nothing to book; it's an open alley, so there's no formal queue, but you may need to wait a turn for a clear photo angle during peak hours.
+
+If you want to add your own gum, buy a pack beforehand — nothing is sold on-site — and be considerate about not covering existing designs other visitors have made. The most common tourist mistake is arriving mid-afternoon on a weekend, expecting a quick look, and instead finding the alley shoulder-to-shoulder with people; if that happens, circle back into the market to browse and return in 20 minutes.
+
+Cash or card both work fine at nearby market stalls if you want a snack while you wait for the crowd to thin, and there's no real etiquette beyond common sense: don't touch other people's gum art, and don't linger blocking the alley for others trying to pass through.

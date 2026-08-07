@@ -55,11 +55,15 @@ draft: false
 
 ## Why TURK Fatih Tutak stands out
 
-Fatih Tutak has built his namesake restaurant around a single idea: reframe Turkish and Anatolian food through a contemporary, technique-driven lens rather than serving it as familiar comfort food. The result has made TURK Fatih Tutak one of Istanbul's most discussed fine-dining addresses, and it appears in the Michelin Guide Türkiye 2026 selection, which also awarded it a Green Star for its approach to sustainable gastronomy — a distinction Michelin reserves for kitchens that show real commitment to sourcing and environmental responsibility, not just flavor. For visitors who want to understand where Turkish cuisine is heading rather than where it's been, this is currently the reference point.
+Fatih Tutak has built his namesake restaurant around a single idea: reframe Turkish and Anatolian food through a contemporary, technique-driven lens rather than serving it as familiar comfort food. The result has made TURK Fatih Tutak one of Istanbul's most discussed fine-dining addresses, and it appears in the Michelin Guide Türkiye 2026 selection, which also awarded it a Green Star for its approach to sustainable gastronomy — a distinction Michelin reserves for kitchens that show real commitment to sourcing and environmental responsibility, not just flavor.
+
+For visitors who want to understand where Turkish cuisine is heading rather than where it's been, this is currently the reference point.
 
 ## What makes the food distinctive
 
-Rather than reproducing classic kebab-house or meze staples, the kitchen leans on Anatolian raw materials — regional grains, foraged herbs, lesser-known vegetables, and traditional preservation methods like fermenting, smoking, and pickling — reworked with modern plating and technique. Tutak has spent time researching food culture across Turkey's regions, and that research shows up as tasting-menu courses built around single ingredients or ideas rather than composite "dishes" in the conventional sense. Expect the meal to read more like a narrative than a menu, with courses designed to surprise diners who think they already know Turkish food. Because exact dishes rotate with seasons and the chef's current research, it's not worth memorizing a specific menu in advance — treat the tasting format itself as the main draw.
+Rather than reproducing classic kebab-house or meze staples, the kitchen leans on Anatolian raw materials — regional grains, foraged herbs, lesser-known vegetables, and traditional preservation methods like fermenting, smoking, and pickling — reworked with modern plating and technique. Tutak has spent time researching food culture across Turkey's regions, and that research shows up as tasting-menu courses built around single ingredients or ideas rather than composite "dishes" in the conventional sense.
+
+Expect the meal to read more like a narrative than a menu, with courses designed to surprise diners who think they already know Turkish food. Because exact dishes rotate with seasons and the chef's current research, it's not worth memorizing a specific menu in advance — treat the tasting format itself as the main draw.
 
 ## Where it fits in Istanbul's dining scene
 
@@ -75,4 +79,8 @@ TURK Fatih Tutak is located in Istanbul; as with most destination restaurants in
 
 ## How to visit like a local
 
-Given its Michelin recognition, TURK Fatih Tutak is firmly in well-visited territory rather than an under-the-radar find, so the smartest move is timing: weeknight seatings, particularly earlier in the week, tend to be calmer and easier to book than Friday or Saturday evenings. Reserve through the restaurant's official site or phone line as soon as your travel dates are fixed — tasting-menu rooms this talked-about fill quickly, and last-minute walk-ins are unreliable. Payment at this level of restaurant in Istanbul is almost always by card, with service typically included or clearly indicated on the bill; ask your server if you're unsure whether an additional tip is customary before adding one. If you have dietary restrictions, mention them when booking rather than on arrival, since tasting menus are built as a fixed sequence and the kitchen needs lead time to adjust courses. The most common visitor mistake is treating this as a quick dinner between sightseeing stops — block out the evening, since rushing a research-driven tasting menu undercuts the entire point of eating here.
+Given its Michelin recognition, TURK Fatih Tutak is firmly in well-visited territory rather than an under-the-radar find, so the smartest move is timing: weeknight seatings, particularly earlier in the week, tend to be calmer and easier to book than Friday or Saturday evenings. Reserve through the restaurant's official site or phone line as soon as your travel dates are fixed — tasting-menu rooms this talked-about fill quickly, and last-minute walk-ins are unreliable.
+
+Payment at this level of restaurant in Istanbul is almost always by card, with service typically included or clearly indicated on the bill; ask your server if you're unsure whether an additional tip is customary before adding one. If you have dietary restrictions, mention them when booking rather than on arrival, since tasting menus are built as a fixed sequence and the kitchen needs lead time to adjust courses.
+
+The most common visitor mistake is treating this as a quick dinner between sightseeing stops — block out the evening, since rushing a research-driven tasting menu undercuts the entire point of eating here.

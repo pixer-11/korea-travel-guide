@@ -64,15 +64,21 @@ aiGenerated: true
 ---
 ## Why go
 
-Nha Trang's coffee scene is dominated by glossy, air-conditioned chains along the beach road, which is exactly what makes Nha He Coffee Shop stand out. Set down a residential alley off Nguyễn Thiện Thuật, it's the kind of hideaway locals text each other about rather than something you'd stumble into by accident. The 4.8-star rating from over 1,250 reviewers is unusually high for any café, let alone one this size, and it points to a consistent, well-run spot rather than a one-off Instagram fad. Expect a garden-courtyard layout with greenery, low stools, and a homey, unhurried atmosphere that feels more like sitting in someone's backyard than a commercial café — a welcome contrast if you've spent the morning dodging tour buses at the beach.
+Nha Trang's coffee scene is dominated by glossy, air-conditioned chains along the beach road, which is exactly what makes Nha He Coffee Shop stand out. Set down a residential alley off Nguyễn Thiện Thuật, it's the kind of hideaway locals text each other about rather than something you'd stumble into by accident. The 4.8-star rating from over 1,250 reviewers is unusually high for any café, let alone one this size, and it points to a consistent, well-run spot rather than a one-off Instagram fad.
+
+Expect a garden-courtyard layout with greenery, low stools, and a homey, unhurried atmosphere that feels more like sitting in someone's backyard than a commercial café — a welcome contrast if you've spent the morning dodging tour buses at the beach.
 
 ## Getting there
 
-The address is 120/8 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa — the "120/8" numbering means it's inside an alley (hẻm) off the main road, so plug the exact address into Google Maps or Grab rather than just heading to Nguyễn Thiện Thuật street itself. This road runs roughly parallel to the coast, a few blocks inland from Tran Phu beachfront, putting the café within easy reach of the hotel cluster around Louisiane Brewhouse and the Nha Trang Center area. A Grab car or bike from most beachfront hotels should take well under 15 minutes and cost only a small fare; walking from the central beach strip takes about 15–20 minutes if you don't mind the midday heat. Because it's tucked into a residential lane, taxi drivers unfamiliar with the alley may need the pinned location — save it offline before you set out.
+The address is 120/8 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa — the "120/8" numbering means it's inside an alley (hẻm) off the main road, so plug the exact address into Google Maps or Grab rather than just heading to Nguyễn Thiện Thuật street itself. This road runs roughly parallel to the coast, a few blocks inland from Tran Phu beachfront, putting the café within easy reach of the hotel cluster around Louisiane Brewhouse and the Nha Trang Center area.
+
+A Grab car or bike from most beachfront hotels should take well under 15 minutes and cost only a small fare; walking from the central beach strip takes about 15–20 minutes if you don't mind the midday heat. Because it's tucked into a residential lane, taxi drivers unfamiliar with the alley may need the pinned location — save it offline before you set out.
 
 ## What to try
 
-Vietnamese coffee culture leans heavily on condensed milk, robusta beans, and inventive twists, and this is the place to sample the trendier versions without tourist markup. Look for cà phê trứng (egg coffee), a custardy, meringue-topped specialty that originated in Hanoi but has spread nationwide, and cà phê dừa (coconut coffee), a blended iced drink popular in the central coast region. Traditional cà phê sữa đá (iced milk coffee) is the reliable baseline if you want to taste the beans without embellishment. Prices are affordable enough to order two rounds and linger — which is really the point of a visit here rather than a quick grab-and-go stop.
+Vietnamese coffee culture leans heavily on condensed milk, robusta beans, and inventive twists, and this is the place to sample the trendier versions without tourist markup. Look for cà phê trứng (egg coffee), a custardy, meringue-topped specialty that originated in Hanoi but has spread nationwide, and cà phê dừa (coconut coffee), a blended iced drink popular in the central coast region.
+
+Traditional cà phê sữa đá (iced milk coffee) is the reliable baseline if you want to taste the beans without embellishment. Prices are affordable enough to order two rounds and linger — which is really the point of a visit here rather than a quick grab-and-go stop.
 
 ## When to go
 
@@ -80,4 +86,6 @@ Weekday mornings, roughly 8–11am, are the sweet spot: the courtyard is at its 
 
 ## Nearby & tips
 
-Pair the visit with a wider wander through the Nguyễn Thiện Thuật area, which has a mix of local eateries and smaller boutiques away from the tourist-priced beach road — it's a good pocket of the city to explore on foot after coffee. Because seating is limited and informal, groups larger than four should be prepared to split up or wait a few minutes during peak hours. Vietnam still runs largely on cash for small purchases, so carry some Vietnamese đồng even though card payment is increasingly common at busier cafés. Finally, confirm current opening hours before you go, as small independent cafés in Vietnam sometimes adjust hours seasonally or for holidays like Tết.
+Pair the visit with a wider wander through the Nguyễn Thiện Thuật area, which has a mix of local eateries and smaller boutiques away from the tourist-priced beach road — it's a good pocket of the city to explore on foot after coffee. Because seating is limited and informal, groups larger than four should be prepared to split up or wait a few minutes during peak hours.
+
+Vietnam still runs largely on cash for small purchases, so carry some Vietnamese đồng even though card payment is increasingly common at busier cafés. Finally, confirm current opening hours before you go, as small independent cafés in Vietnam sometimes adjust hours seasonally or for holidays like Tết.

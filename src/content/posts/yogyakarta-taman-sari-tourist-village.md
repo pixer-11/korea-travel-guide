@@ -53,17 +53,23 @@ aiGenerated: true
 ---
 ## Why go
 
-Taman Sari, often called the Water Castle, was built in the 1750s as a pleasure garden and retreat for the Sultan of Yogyakarta, commissioned by Sultan Hamengkubuwono I not long after the founding of the Yogyakarta Sultanate itself. What remains today is a compact complex of bathing pools, sunken gardens, tunnels, and a multi-tiered viewing tower, all rendered in a distinctive mix of Javanese, Portuguese, and Chinese architectural details — a reminder that European and Chinese craftsmen were involved in its original construction. With a 4.6 rating across more than 45,000 reviews, it's one of the most consistently praised sites in the city, and it earns that reputation less for grandeur than for atmosphere: peeling plaster, mossy stone, and a labyrinth-like layout that rewards slow wandering rather than a quick photo stop.
+Taman Sari, often called the Water Castle, was built in the 1750s as a pleasure garden and retreat for the Sultan of Yogyakarta, commissioned by Sultan Hamengkubuwono I not long after the founding of the Yogyakarta Sultanate itself. What remains today is a compact complex of bathing pools, sunken gardens, tunnels, and a multi-tiered viewing tower, all rendered in a distinctive mix of Javanese, Portuguese, and Chinese architectural details — a reminder that European and Chinese craftsmen were involved in its original construction.
+
+With a 4.6 rating across more than 45,000 reviews, it's one of the most consistently praised sites in the city, and it earns that reputation less for grandeur than for atmosphere: peeling plaster, mossy stone, and a labyrinth-like layout that rewards slow wandering rather than a quick photo stop.
 
 ## Getting there
 
-Taman Sari sits in the Patehan area of Kraton district, immediately southwest of the Yogyakarta Sultan's Palace (Kraton Ngayogyakarta Hadiningrat) — close enough to walk between the two in about 10-15 minutes. Most visitors base themselves in the Malioboro area, roughly a 20-25 minute walk or a short becak (pedicab), andong (horse cart), or ride-hailing trip south. If arriving from Yogyakarta's main train station, Stasiun Tugu, expect a 15-20 minute ride by car or motorbike taxi (Gojek/Grab are widely used and reliable in the city). There's no direct rail or Trans Jogja bus stop right at the gate, so a short walk through the kampung (village) alleys is part of getting there — follow signage from the Kraton's south square, Alun-Alun Kidul.
+Taman Sari sits in the Patehan area of Kraton district, immediately southwest of the Yogyakarta Sultan's Palace (Kraton Ngayogyakarta Hadiningrat) — close enough to walk between the two in about 10-15 minutes. Most visitors base themselves in the Malioboro area, roughly a 20-25 minute walk or a short becak (pedicab), andong (horse cart), or ride-hailing trip south. If arriving from Yogyakarta's main train station, Stasiun Tugu, expect a 15-20 minute ride by car or motorbike taxi (Gojek/Grab are widely used and reliable in the city).
+
+There's no direct rail or Trans Jogja bus stop right at the gate, so a short walk through the kampung (village) alleys is part of getting there — follow signage from the Kraton's south square, Alun-Alun Kidul.
 
 ## What to see and do
 
 The complex has two main zones. The first is the restored bathing area — three pools historically used by the Sultan, his family, and royal concubines, separated by a raised platform said to have let the Sultan watch over the women bathing. This section is where most tour groups congregate, so arriving right at opening keeps it uncrowded for photos.
 
-The second, more atmospheric zone lies through a maze of narrow passages behind the pools: this includes remnants of an underground tunnel network rumored to connect to the Kraton and even to the coast (for escape routes), plus the standout feature, Sumur Gumuling — a circular, subterranean mosque reached via a narrow tunnel, with a five-way staircase at its center said to represent the five pillars of Islam. Natural light filters down through a circular opening above, and the shifting light through this opening is part of what makes the space memorable.
+The second, more atmospheric zone lies through a maze of narrow passages behind the pools: this includes remnants of an underground tunnel network rumored to connect to the Kraton and even to the coast (for escape routes), plus the standout feature, Sumur Gumuling — a circular, subterranean mosque reached via a narrow tunnel, with a five-way staircase at its center said to represent the five pillars of Islam.
+
+Natural light filters down through a circular opening above, and the shifting light through this opening is part of what makes the space memorable.
 
 Budget roughly 60-90 minutes for a full visit, more if you hire one of the informal local guides who wait near the entrance — they're not official but are typically knowledgeable and negotiate a fair price on the spot. Wear shoes you can slip on and off easily, since the tunnel sections involve ducking and uneven steps.
 

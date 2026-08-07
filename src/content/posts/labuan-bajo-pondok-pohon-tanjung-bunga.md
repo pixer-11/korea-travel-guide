@@ -41,7 +41,9 @@ aiGenerated: true
 
 ## Why go
 
-Pondok Pohon Tanjung Bunga is essentially a viewpoint-and-shelter setup built into the sloped, scrubby headland of Tanjung Bunga, the coastal cape just west of Labuan Bajo's harbor. The draw is simple: an elevated, tree-shaded perch looking down over the bay, the fishing boats and liveaboards anchored offshore, and the layered silhouettes of islands like Bidadari and Kanawa on the horizon. With a 4.8 rating across 185 reviews, it has quietly built a loyal following among travelers who want a Labuan Bajo sunset spot without the crowds and touts that gather at some of the more heavily marketed lookout points closer to the town center.
+Pondok Pohon Tanjung Bunga is essentially a viewpoint-and-shelter setup built into the sloped, scrubby headland of Tanjung Bunga, the coastal cape just west of Labuan Bajo's harbor. The draw is simple: an elevated, tree-shaded perch looking down over the bay, the fishing boats and liveaboards anchored offshore, and the layered silhouettes of islands like Bidadari and Kanawa on the horizon.
+
+With a 4.8 rating across 185 reviews, it has quietly built a loyal following among travelers who want a Labuan Bajo sunset spot without the crowds and touts that gather at some of the more heavily marketed lookout points closer to the town center.
 
 Unlike Labuan Bajo's marquee attractions — Padar Island, Pink Beach, the Komodo dragon treks — this is a low-key, low-cost stop that rewards travelers who have their own transport and a spare hour in the late afternoon.
 
@@ -69,5 +71,9 @@ Avoid midday visits — the hillside offers little shade outside the pondok itse
 
 ## How to visit like a local
 
-Go on a weekday, later in the afternoon, and treat it as a low-key wind-down stop rather than a headline attraction — this keeps it calm even during Labuan Bajo's busier tourist months. There's no formal entrance fee structure reported, so bring small-denomination rupiah in cash in case a caretaker collects a small donation or if a nearby warung sells drinks and snacks; card payments aren't a realistic option this far from town. Wear shoes with grip for the sloped path up to the shelter, and pack a flashlight or use your phone's light for the ride back down after dark, since the coastal road has minimal lighting. The most common mistake visitors make is arriving right at sunset with no buffer time — leave town earlier than feels necessary, since traffic, road conditions, and the light fading quickly near the equator can eat into your margin. Keep noise low and pack out any trash; as an under-the-radar spot, part of its appeal is that it hasn't been overrun, and quiet, respectful visits help keep it that way.
+Go on a weekday, later in the afternoon, and treat it as a low-key wind-down stop rather than a headline attraction — this keeps it calm even during Labuan Bajo's busier tourist months. There's no formal entrance fee structure reported, so bring small-denomination rupiah in cash in case a caretaker collects a small donation or if a nearby warung sells drinks and snacks; card payments aren't a realistic option this far from town.
+
+Wear shoes with grip for the sloped path up to the shelter, and pack a flashlight or use your phone's light for the ride back down after dark, since the coastal road has minimal lighting. The most common mistake visitors make is arriving right at sunset with no buffer time — leave town earlier than feels necessary, since traffic, road conditions, and the light fading quickly near the equator can eat into your margin.
+
+Keep noise low and pack out any trash; as an under-the-radar spot, part of its appeal is that it hasn't been overrun, and quiet, respectful visits help keep it that way.
 

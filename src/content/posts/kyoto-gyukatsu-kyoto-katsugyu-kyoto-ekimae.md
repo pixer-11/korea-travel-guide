@@ -64,15 +64,21 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Gyukatsu — a thick-cut beef loin coated in panko and flash-fried so the inside stays rare — is one of the more recent additions to Japan's fried-food canon, distinct from the pork-based tonkatsu most travelers already know. Katsugyu (also styled GYUKATSU Kyoto Katsugyu) has built its reputation on this dish specifically, and the Kyoto Ekimae branch has racked up an unusually high volume of reviews (over 17,000) with a 4.7 rating, a strong signal in a city saturated with tourist-trap dining near the station. The address puts it in Shimogyo Ward's Maoyachō, the dense block of restaurants and izakaya just north/west of Kyoto Station's central exits — convenient for a meal bookended by sightseeing or before catching a Shinkansen.
+Gyukatsu — a thick-cut beef loin coated in panko and flash-fried so the inside stays rare — is one of the more recent additions to Japan's fried-food canon, distinct from the pork-based tonkatsu most travelers already know. Katsugyu (also styled GYUKATSU Kyoto Katsugyu) has built its reputation on this dish specifically, and the Kyoto Ekimae branch has racked up an unusually high volume of reviews (over 17,000) with a 4.7 rating, a strong signal in a city saturated with tourist-trap dining near the station.
+
+The address puts it in Shimogyo Ward's Maoyachō, the dense block of restaurants and izakaya just north/west of Kyoto Station's central exits — convenient for a meal bookended by sightseeing or before catching a Shinkansen.
 
 ## What to eat
 
-The format is simple and worth understanding before you sit down: you get a set (teishoku) built around a slab of breaded, fried beef loin sliced into thick strips, plain rice, miso soup, cabbage, and usually a raw egg or dipping sauces on the side. Crucially, each table has its own small stone or iron plate — the beef arrives seared on the outside but rare within, and you sear individual pieces yourself to taste, from very rare to well-done. This interactivity is part of the appeal and worth doing slowly rather than cooking everything at once. Standard cuts have typically run in the 100–150g range with upsize options; portions can typically be increased for an extra charge, and rice/cabbage refills are often free — ask staff, as this varies by branch and season. Sauces typically include a savory soy-based tare, wasabi, and salt, so try a few pieces each way before committing to one for the rest of the plate.
+The format is simple and worth understanding before you sit down: you get a set (teishoku) built around a slab of breaded, fried beef loin sliced into thick strips, plain rice, miso soup, cabbage, and usually a raw egg or dipping sauces on the side. Crucially, each table has its own small stone or iron plate — the beef arrives seared on the outside but rare within, and you sear individual pieces yourself to taste, from very rare to well-done.
+
+This interactivity is part of the appeal and worth doing slowly rather than cooking everything at once. Standard cuts have typically run in the 100–150g range with upsize options; portions can typically be increased for an extra charge, and rice/cabbage refills are often free — ask staff, as this varies by branch and season. Sauces typically include a savory soy-based tare, wasabi, and salt, so try a few pieces each way before committing to one for the rest of the plate.
 
 ## Getting there
 
-The restaurant sits in Maoyachō, Shimogyo Ward, within easy walking distance of Kyoto Station's central and north exits — the area is packed with small eateries and signage can be dense, so it's worth pulling up a map rather than wandering by sight. This is the same neighborhood served by JR lines, the Karasuma Line, and the Kyoto City Bus terminal, making it one of the easiest restaurant destinations in the city to combine with an arrival, departure, or transfer. Because it's this close to the station, it's a natural stop for a first or last meal in Kyoto rather than a special detour.
+The restaurant sits in Maoyachō, Shimogyo Ward, within easy walking distance of Kyoto Station's central and north exits — the area is packed with small eateries and signage can be dense, so it's worth pulling up a map rather than wandering by sight. This is the same neighborhood served by JR lines, the Karasuma Line, and the Kyoto City Bus terminal, making it one of the easiest restaurant destinations in the city to combine with an arrival, departure, or transfer.
+
+Because it's this close to the station, it's a natural stop for a first or last meal in Kyoto rather than a special detour.
 
 ## When to go
 
@@ -80,4 +86,6 @@ Given the review volume, expect a line at conventional mealtimes — typically s
 
 ## Nearby & tips
 
-Because gyukatsu is meant to be seared to order, don't rush the tabletop cooking — the beef continues to cook slightly after you plate it, so err toward less time on the stone than you think you need. Bring a light appetite for rice, since sets are usually rice-forward, and skip a heavy breakfast if you're going for lunch. The Kyoto Station area also offers Kyoto Tower, Higashi Hongan-ji, and the Isetan department store's basement food hall within a 10–15 minute walk, so it's easy to pair a meal here with an hour of sightseeing on either side. Given the price level and portion sizes, this is a solidly mid-range meal rather than a splurge, making it a practical choice for a filling lunch before a full day of temple-hopping.
+Because gyukatsu is meant to be seared to order, don't rush the tabletop cooking — the beef continues to cook slightly after you plate it, so err toward less time on the stone than you think you need. Bring a light appetite for rice, since sets are usually rice-forward, and skip a heavy breakfast if you're going for lunch. The Kyoto Station area also offers Kyoto Tower, Higashi Hongan-ji, and the Isetan department store's basement food hall within a 10–15 minute walk, so it's easy to pair a meal here with an hour of sightseeing on either side.
+
+Given the price level and portion sizes, this is a solidly mid-range meal rather than a splurge, making it a practical choice for a filling lunch before a full day of temple-hopping.

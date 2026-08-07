@@ -63,16 +63,26 @@ This building was once a private clubhouse for Hakka tin-mining tycoons, founded
 
 ## Getting there
 
-Han Chin Pet Soo sits at 3, Jalan Bijeh Timah, in the core of Ipoh's old town, a compact grid of heritage shophouses that's entirely walkable. If you're coming from the Ipoh Padang or the famous mural streets (Concubine Lane, Mural Arts Lane), it's a five- to ten-minute stroll north through the old town grid. Ipoh railway station — itself a striking white colonial building nicknamed the "Taj Mahal of Ipoh" — is about a 15–20 minute walk away, or a short taxi/Grab ride if you'd rather not do it in the midday heat. There's no dedicated parking lot, so if you're driving, plan to park on a nearby street or in a public car park in the old town and walk in.
+Han Chin Pet Soo sits at 3, Jalan Bijeh Timah, in the core of Ipoh's old town, a compact grid of heritage shophouses that's entirely walkable. If you're coming from the Ipoh Padang or the famous mural streets (Concubine Lane, Mural Arts Lane), it's a five- to ten-minute stroll north through the old town grid. Ipoh railway station — itself a striking white colonial building nicknamed the "Taj Mahal of Ipoh" — is about a 15–20 minute walk away, or a short taxi/Grab ride if you'd rather not do it in the midday heat.
+
+There's no dedicated parking lot, so if you're driving, plan to park on a nearby street or in a public car park in the old town and walk in.
 
 ## What to see inside
 
-The tour (it's guided, not self-directed) moves through a handful of rooms: the main clubhouse hall where miners gathered to gamble and socialize, a room devoted to the secret societies and clan associations that structured Hakka mining communities, and displays on the brutal realities of mining labor alongside the genuine opulence some tin barons achieved. Look for the old photographs identifying real mine owners and clan leaders — the museum leans on primary documents and family donations rather than generic wall text, which is what gives it its texture. Because it's compact, you're not rushed room to room the way you might be in a bigger institution; the guide's narration carries the pacing.
+The tour (it's guided, not self-directed) moves through a handful of rooms: the main clubhouse hall where miners gathered to gamble and socialize, a room devoted to the secret societies and clan associations that structured Hakka mining communities, and displays on the brutal realities of mining labor alongside the genuine opulence some tin barons achieved. Look for the old photographs identifying real mine owners and clan leaders — the museum leans on primary documents and family donations rather than generic wall text, which is what gives it its texture.
+
+Because it's compact, you're not rushed room to room the way you might be in a bigger institution; the guide's narration carries the pacing.
 
 ## When to go
 
-Give yourself 45 minutes to an hour, most of it inside on the guided walkthrough. Because the museum runs on set tour times rather than continuous walk-in access, the "best time" here isn't really about crowd-avoidance — it's about matching your schedule to the day's session times. Late morning tends to be comfortable weather-wise for the walk over from the station or padang, before the tropical midday heat sets in. Combine it with the surrounding old town: Sam Poh Tong cave temple, the mural lanes, and old town kopitiams for white coffee are all within easy reach on the same outing.
+Give yourself 45 minutes to an hour, most of it inside on the guided walkthrough. Because the museum runs on set tour times rather than continuous walk-in access, the "best time" here isn't really about crowd-avoidance — it's about matching your schedule to the day's session times. Late morning tends to be comfortable weather-wise for the walk over from the station or padang, before the tropical midday heat sets in.
+
+Combine it with the surrounding old town: Sam Poh Tong cave temple, the mural lanes, and old town kopitiams for white coffee are all within easy reach on the same outing.
 
 ## How to visit like a local
 
-Book or at least call ahead to confirm the day's tour times before you walk over — this isn't a museum you can count on wandering into on a whim, and turning up between sessions is the single most common mistake visitors make. Entry is generally handled with a small admission fee paid in cash on arrival, so carry ringgit rather than assuming card payment. Dress and behave as you would in someone's old family home, because that's essentially what it is — voices stay low in the reconstructed rooms, and photography is usually fine but flash and touching the artifacts aren't. Because it's still relatively under-the-radar compared to Ipoh's murals and cafés, you won't find crowds to dodge here; the real local knowledge is simply knowing it exists and building your old-town walk around its tour schedule rather than the other way round. Ask your guide questions — many are well versed in Hakka clan history and will go deeper than the wall placards if you show interest.
+Book or at least call ahead to confirm the day's tour times before you walk over — this isn't a museum you can count on wandering into on a whim, and turning up between sessions is the single most common mistake visitors make. Entry is generally handled with a small admission fee paid in cash on arrival, so carry ringgit rather than assuming card payment.
+
+Dress and behave as you would in someone's old family home, because that's essentially what it is — voices stay low in the reconstructed rooms, and photography is usually fine but flash and touching the artifacts aren't. Because it's still relatively under-the-radar compared to Ipoh's murals and cafés, you won't find crowds to dodge here; the real local knowledge is simply knowing it exists and building your old-town walk around its tour schedule rather than the other way round.
+
+Ask your guide questions — many are well versed in Hakka clan history and will go deeper than the wall placards if you show interest.

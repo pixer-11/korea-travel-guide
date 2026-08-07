@@ -72,15 +72,21 @@ draft: false
 
 ## Why go
 
-You come to Napoleon House less for a single dish and more for the room itself. The building dates to 1797, with the current Creole-cottage-turned-restaurant identity taking hold around 1914, and the walls show it — plaster peeling in slow, deliberate patches, oil portraits gone dark with age, a patina no designer could fake. Classical music plays low over the speakers instead of jazz or pop, which throws you off at first and then makes total sense: this place has always run on its own clock. It's one of the most photographed interiors in the French Quarter, and deservedly so, but it earns its reputation on food and atmosphere both, not just Instagram angles.
+You come to Napoleon House less for a single dish and more for the room itself. The building dates to 1797, with the current Creole-cottage-turned-restaurant identity taking hold around 1914, and the walls show it — plaster peeling in slow, deliberate patches, oil portraits gone dark with age, a patina no designer could fake. Classical music plays low over the speakers instead of jazz or pop, which throws you off at first and then makes total sense: this place has always run on its own clock.
+
+It's one of the most photographed interiors in the French Quarter, and deservedly so, but it earns its reputation on food and atmosphere both, not just Instagram angles.
 
 ## Getting there
 
-It sits at 500 Chartres Street, right at the corner of Chartres and St. Louis, deep in the French Quarter and an easy 10-minute walk from Jackson Square or the French Market. If you're coming from the Central Business District, it's roughly a 15-minute walk down Chartres or Royal, both lined with galleries and antique shops worth slowing down for. There's no dedicated parking lot — most visitors either walk from a Quarter hotel or park in one of the garages along Iberville or Decatur and cover the last few blocks on foot. Rideshare drop-off at the Chartres/St. Louis corner is straightforward outside of Mardi Gras or French Quarter Fest crowds.
+It sits at 500 Chartres Street, right at the corner of Chartres and St. Louis, deep in the French Quarter and an easy 10-minute walk from Jackson Square or the French Market. If you're coming from the Central Business District, it's roughly a 15-minute walk down Chartres or Royal, both lined with galleries and antique shops worth slowing down for.
+
+There's no dedicated parking lot — most visitors either walk from a Quarter hotel or park in one of the garages along Iberville or Decatur and cover the last few blocks on foot. Rideshare drop-off at the Chartres/St. Louis corner is straightforward outside of Mardi Gras or French Quarter Fest crowds.
 
 ## What to eat
 
-The muffaletta is the reason most people walk in the door — a round, seeded loaf packed with ham, salami, mortadella, and provolone, soaked through with olive salad so the bread goes slightly damp and briny at the center. Order it warm if you can; the cheese loosens and the whole thing holds together better. The po'boys are the other anchor, dressed the traditional way with shredded lettuce, tomato, and mayo on French bread that shatters when you bite into it. Beyond the sandwiches, the gumbo and jambalaya are solid, unfussy versions of the Creole standards, not reinvented, just done properly. And you should order a Pimm's Cup regardless of what else you get — Napoleon House is often credited as the place that made the drink a New Orleans fixture, garnished with a cucumber spear and finished with 7-Up or lemon-lime soda.
+The muffaletta is the reason most people walk in the door — a round, seeded loaf packed with ham, salami, mortadella, and provolone, soaked through with olive salad so the bread goes slightly damp and briny at the center. Order it warm if you can; the cheese loosens and the whole thing holds together better. The po'boys are the other anchor, dressed the traditional way with shredded lettuce, tomato, and mayo on French bread that shatters when you bite into it.
+
+Beyond the sandwiches, the gumbo and jambalaya are solid, unfussy versions of the Creole standards, not reinvented, just done properly. And you should order a Pimm's Cup regardless of what else you get — Napoleon House is often credited as the place that made the drink a New Orleans fixture, garnished with a cucumber spear and finished with 7-Up or lemon-lime soda.
 
 ## Where to sit
 
@@ -88,8 +94,12 @@ The real draw is the courtyard out back — narrow, brick-paved, shaded by potte
 
 ## When to go
 
-Napoleon House is open seven days, 11am to 9pm Sunday through Thursday and until 10pm on Friday and Saturday. The measured foot-traffic pattern here is fairly flat across the week — it's steady from opening straight through closing on both weekdays and weekends — but the crunch point to avoid is 3pm to 8pm on weekends, when Quarter foot traffic peaks and the courtyard tables turn over slowly. A lunch visit right at 11am, or a late-afternoon coffee-and-cocktail stop around 2pm on a weekday, gets you the room at its calmest.
+Napoleon House is open seven days, 11am to 9pm Sunday through Thursday and until 10pm on Friday and Saturday. The measured foot-traffic pattern here is fairly flat across the week — it's steady from opening straight through closing on both weekdays and weekends — but the crunch point to avoid is 3pm to 8pm on weekends, when Quarter foot traffic peaks and the courtyard tables turn over slowly.
+
+A lunch visit right at 11am, or a late-afternoon coffee-and-cocktail stop around 2pm on a weekday, gets you the room at its calmest.
 
 ## How to visit like a local
 
-This is a well-known stop on nearly every French Quarter itinerary, so don't expect to have it to yourself — the smarter move is timing, not secrecy. Go right at 11am opening, or slide in after 8pm on a weeknight when the dinner rush has thinned. Walk-ins are the norm; there's no meaningful reservation culture here for casual meals, so if a wait forms, put your name in and go admire the building's exterior ironwork while you wait rather than hovering at the host stand. Service runs on standard American tipping (18–20% is typical), and cash isn't required — cards are fine. The mistake first-timers make is treating it purely as a photo op and rushing the meal; the better use of an hour is ordering the muffaletta to share, getting a Pimm's Cup each, and just sitting with the quiet clatter of the courtyard around you.
+This is a well-known stop on nearly every French Quarter itinerary, so don't expect to have it to yourself — the smarter move is timing, not secrecy. Go right at 11am opening, or slide in after 8pm on a weeknight when the dinner rush has thinned. Walk-ins are the norm; there's no meaningful reservation culture here for casual meals, so if a wait forms, put your name in and go admire the building's exterior ironwork while you wait rather than hovering at the host stand.
+
+Service runs on standard American tipping (18–20% is typical), and cash isn't required — cards are fine. The mistake first-timers make is treating it purely as a photo op and rushing the meal; the better use of an hour is ordering the muffaletta to share, getting a Pimm's Cup each, and just sitting with the quiet clatter of the courtyard around you.

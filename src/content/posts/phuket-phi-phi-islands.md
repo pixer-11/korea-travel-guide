@@ -45,13 +45,17 @@ draft: false
 
 ## Why go
 
-Despite the "Phuket" tag, the Phi Phi Islands actually belong administratively to Krabi province — but Phuket is the most common launch point for visitors, and most tours and ferries are marketed from there. The appeal is simple: sheer limestone cliffs rising straight out of turquoise water, powder-fine beaches, and coves so clear you can see the seabed several meters down. With a 4.6 rating across more than 7,600 reviews, it's consistently one of the most photographed marine landscapes in Southeast Asia — the cliffs of Phi Phi Leh appeared in the 2000 film *The Beach*, filmed at Maya Bay.
+Despite the "Phuket" tag, the Phi Phi Islands actually belong administratively to Krabi province — but Phuket is the most common launch point for visitors, and most tours and ferries are marketed from there. The appeal is simple: sheer limestone cliffs rising straight out of turquoise water, powder-fine beaches, and coves so clear you can see the seabed several meters down.
+
+With a 4.6 rating across more than 7,600 reviews, it's consistently one of the most photographed marine landscapes in Southeast Asia — the cliffs of Phi Phi Leh appeared in the 2000 film *The Beach*, filmed at Maya Bay.
 
 The archipelago is made up of six islands, but two matter for visitors: Ko Phi Phi Don, the only inhabited one, with guesthouses, piers, and a walkable town built on a sandbar between two hills; and Ko Phi Phi Leh, uninhabited, ringed by cliffs, and home to Maya Bay and the Pileh Lagoon.
 
 ## Getting there
 
-From Phuket, the main departure points are Rassada Pier (Ao Makham, southeast of Phuket Town) and Chalong Pier. Speedboats take about 1 to 1.5 hours; slower ferries run closer to 2 hours. Boats typically depart mid-morning (around 8:30–9:00 AM) so operators can time arrival at Maya Bay before the biggest crowds. Most travelers book a day-tour package that bundles round-trip transfer, a few snorkeling stops, and lunch on Phi Phi Don — a practical option if you're not staying overnight. If you want to stay longer, ferries also connect Phi Phi with Krabi (Ao Nang) and Ko Lanta, making it easy to work into a wider southern Thailand itinerary rather than a Phuket-only trip.
+From Phuket, the main departure points are Rassada Pier (Ao Makham, southeast of Phuket Town) and Chalong Pier. Speedboats take about 1 to 1.5 hours; slower ferries run closer to 2 hours. Boats typically depart mid-morning (around 8:30–9:00 AM) so operators can time arrival at Maya Bay before the biggest crowds. Most travelers book a day-tour package that bundles round-trip transfer, a few snorkeling stops, and lunch on Phi Phi Don — a practical option if you're not staying overnight.
+
+If you want to stay longer, ferries also connect Phi Phi with Krabi (Ao Nang) and Ko Lanta, making it easy to work into a wider southern Thailand itinerary rather than a Phuket-only trip.
 
 ## What to see and do
 

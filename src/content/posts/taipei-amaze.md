@@ -32,7 +32,9 @@ draft: true
 
 ## Why aMaze stands out
 
-Taipei's fine-dining scene has spent the last decade proving that Chinese cuisine can be plated with the same rigor as French or Japanese haute cuisine, and aMaze is the newest, sharpest argument for that case. Chef Jim Yang built his reputation moving between regional Chinese kitchens — the kind of chef who can explain why a Sichuan mapo sauce and a Cantonese double-boiled soup are, structurally, cousins rather than opposites — and aMaze is where he's finally allowed to blur those regional lines on one menu. The restaurant earned a MICHELIN Star just months after opening, which is the kind of fast validation that usually signals a kitchen with a genuinely distinct point of view, not just competent execution.
+Taipei's fine-dining scene has spent the last decade proving that Chinese cuisine can be plated with the same rigor as French or Japanese haute cuisine, and aMaze is the newest, sharpest argument for that case. Chef Jim Yang built his reputation moving between regional Chinese kitchens — the kind of chef who can explain why a Sichuan mapo sauce and a Cantonese double-boiled soup are, structurally, cousins rather than opposites — and aMaze is where he's finally allowed to blur those regional lines on one menu.
+
+The restaurant earned a MICHELIN Star just months after opening, which is the kind of fast validation that usually signals a kitchen with a genuinely distinct point of view, not just competent execution.
 
 What that means at the table is a menu that reads like a remix rather than a museum piece: dishes that nod to Sichuan, Cantonese, Jiangzhe, and Taiwanese cooking traditions, reassembled so the reference is legible but never a straight copy. You go in expecting a "modern Chinese" tasting menu and come out realizing the categories you'd normally use to sort the food — which province, which dynasty of technique — stop being useful about halfway through the meal.
 
@@ -42,15 +44,23 @@ aMaze sits within Taipei's dense restaurant landscape, and like most serious tas
 
 ## What to expect at the table
 
-Don't come to aMaze looking for a fixed, printed-forever menu — kitchens at this stage, freshly starred, tend to keep refining. What you can expect, based on the concept itself, is a tasting-menu format built around technique-driven reinterpretation: a dish might borrow the fire and numbing chili of Sichuan cooking but plate it with the restraint of Cantonese seafood cookery, or take a humble Taiwanese home-style braise and refine its texture until it reads as fine dining. The pleasure here is in not knowing exactly what's coming next, course to course, and in tasting how confidently the kitchen moves between regional vocabularies without the meal ever feeling scattered.
+Don't come to aMaze looking for a fixed, printed-forever menu — kitchens at this stage, freshly starred, tend to keep refining. What you can expect, based on the concept itself, is a tasting-menu format built around technique-driven reinterpretation: a dish might borrow the fire and numbing chili of Sichuan cooking but plate it with the restraint of Cantonese seafood cookery, or take a humble Taiwanese home-style braise and refine its texture until it reads as fine dining.
+
+The pleasure here is in not knowing exactly what's coming next, course to course, and in tasting how confidently the kitchen moves between regional vocabularies without the meal ever feeling scattered.
 
 Because menu specifics, pricing, and seating structure are the sort of details that change as a young restaurant matures, treat any third-party menu listing you find online as a rough guide only — confirm directly with aMaze what the current tasting format and price point look like before you book.
 
 ## When to go
 
-Freshly starred restaurants in Taipei tend to see a surge in demand the first year after recognition, with reservation calendars filling weeks or even months out — especially for weekend dinner seats. If your travel dates are flexible, weeknight dinners are generally your best shot at snagging a table with less lead time, though this isn't guaranteed and you should still book as early as your itinerary allows. Confirm current opening days and service times directly with the restaurant, since hours at newly opened, high-demand spots are more likely to shift than at long-established institutions.
+Freshly starred restaurants in Taipei tend to see a surge in demand the first year after recognition, with reservation calendars filling weeks or even months out — especially for weekend dinner seats. If your travel dates are flexible, weeknight dinners are generally your best shot at snagging a table with less lead time, though this isn't guaranteed and you should still book as early as your itinerary allows.
+
+Confirm current opening days and service times directly with the restaurant, since hours at newly opened, high-demand spots are more likely to shift than at long-established institutions.
 
 ## How to visit like a local
 
-Reserve through the restaurant's official channel or a recognized reservation platform as soon as your travel dates are firm — in Taipei's fine-dining circuit, a Michelin star turns a restaurant's booking window from "call a week ahead" to "book as soon as you have flights," almost overnight. Arrive on time rather than early; multi-course tasting kitchens run tightly paced services, and early arrivals often just wait at the bar or entrance anyway. Payment at this tier is almost always by card, and a service charge is commonly built into the bill at upscale Taipei restaurants, so ask whether gratuity is already included rather than tipping on top by habit. Dress smart-casual — Taipei fine dining skews more relaxed than its European or American equivalents, but flip-flops and beachwear will still get you side-eyed. The mistake first-time visitors make most often is treating a tasting menu like an à la carte meal and rushing it; block out a full two to three hours and let the courses set the pace rather than checking your watch against your next itinerary stop.
+Reserve through the restaurant's official channel or a recognized reservation platform as soon as your travel dates are firm — in Taipei's fine-dining circuit, a Michelin star turns a restaurant's booking window from "call a week ahead" to "book as soon as you have flights," almost overnight. Arrive on time rather than early; multi-course tasting kitchens run tightly paced services, and early arrivals often just wait at the bar or entrance anyway.
+
+Payment at this tier is almost always by card, and a service charge is commonly built into the bill at upscale Taipei restaurants, so ask whether gratuity is already included rather than tipping on top by habit. Dress smart-casual — Taipei fine dining skews more relaxed than its European or American equivalents, but flip-flops and beachwear will still get you side-eyed.
+
+The mistake first-time visitors make most often is treating a tasting menu like an à la carte meal and rushing it; block out a full two to three hours and let the courses set the pace rather than checking your watch against your next itinerary stop.
 

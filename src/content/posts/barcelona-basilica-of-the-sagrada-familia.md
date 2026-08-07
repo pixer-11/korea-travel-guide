@@ -74,11 +74,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Antoni Gaudí's Basilica of the Sagrada Família, on Carrer de Mallorca in the Eixample district, is Barcelona's defining landmark and one of the most visited churches in the world, rated 4.8 from over 326,000 reviews. Construction began in 1882 and the building remains unfinished, which is part of its fascination: you're watching an active construction site that also happens to be a UNESCO World Heritage-listed masterpiece. Gaudí took over the project in 1883 and worked on it until his death in 1926, folding in his signature naturalistic forms — columns modeled on trees, ceilings that mimic forest canopies, facades dense with organic, almost melting stone. The current target for substantial completion has shifted many times over the decades, so treat any finish date you hear as provisional.
+Antoni Gaudí's Basilica of the Sagrada Família, on Carrer de Mallorca in the Eixample district, is Barcelona's defining landmark and one of the most visited churches in the world, rated 4.8 from over 326,000 reviews. Construction began in 1882 and the building remains unfinished, which is part of its fascination: you're watching an active construction site that also happens to be a UNESCO World Heritage-listed masterpiece.
+
+Gaudí took over the project in 1883 and worked on it until his death in 1926, folding in his signature naturalistic forms — columns modeled on trees, ceilings that mimic forest canopies, facades dense with organic, almost melting stone. The current target for substantial completion has shifted many times over the decades, so treat any finish date you hear as provisional.
 
 ## Getting there
 
-The purpose-built Sagrada Família metro station (Lines 2, purple, and 5, blue) sits directly beneath the basilica, with exits opening onto Plaça de la Sagrada Família facing the Passion Façade. This is by far the easiest approach — no walking directions needed once you surface. Buses (routes including 19, 33, 34, 43, 44, and 50-series lines) also stop nearby along Carrer de Mallorca and Avinguda Gaudí, and the hop-on hop-off tourist buses include it as a standard stop. If arriving by taxi or rideshare, ask to be dropped on Carrer de Mallorca near the Nativity Façade side, which tends to have less pedestrian congestion than the Passion Façade plaza.
+The purpose-built Sagrada Família metro station (Lines 2, purple, and 5, blue) sits directly beneath the basilica, with exits opening onto Plaça de la Sagrada Família facing the Passion Façade. This is by far the easiest approach — no walking directions needed once you surface. Buses (routes including 19, 33, 34, 43, 44, and 50-series lines) also stop nearby along Carrer de Mallorca and Avinguda Gaudí, and the hop-on hop-off tourist buses include it as a standard stop.
+
+If arriving by taxi or rideshare, ask to be dropped on Carrer de Mallorca near the Nativity Façade side, which tends to have less pedestrian congestion than the Passion Façade plaza.
 
 ## What to see
 

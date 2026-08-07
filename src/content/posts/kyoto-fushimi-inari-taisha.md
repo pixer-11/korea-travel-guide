@@ -77,23 +77,31 @@ draft: false
 
 ## Why go
 
-Fushimi Inari Taisha is the head shrine of Inari, the Shinto god of rice, sake, and prosperity, and it has stood at the foot of Mount Inari since 711 A.D. — making it one of the oldest continuously active shrine sites in Japan. What draws roughly 89,000+ reviewers and millions of visitors a year isn't just the age; it's the Senbon Torii, a corridor of thousands of vermilion gates that climbs the mountainside in tight, photogenic succession. Each gate was donated by an individual or business hoping for good fortune, and the practice continues today — you'll see donor names and dates painted in black ink on the back of nearly every post. With a 4.6 rating across nearly 90,000 reviews, it's consistently ranked among the most-visited single attractions in Kyoto.
+Fushimi Inari Taisha is the head shrine of Inari, the Shinto god of rice, sake, and prosperity, and it has stood at the foot of Mount Inari since 711 A.D. — making it one of the oldest continuously active shrine sites in Japan. What draws roughly 89,000+ reviewers and millions of visitors a year isn't just the age; it's the Senbon Torii, a corridor of thousands of vermilion gates that climbs the mountainside in tight, photogenic succession.
+
+Each gate was donated by an individual or business hoping for good fortune, and the practice continues today — you'll see donor names and dates painted in black ink on the back of nearly every post. With a 4.6 rating across nearly 90,000 reviews, it's consistently ranked among the most-visited single attractions in Kyoto.
 
 ## Getting there
 
-The shrine sits in Fushimi Ward at 68 Fukakusa Yabunouchichō, and it's one of the easiest major sights in Kyoto to reach without a taxi. From Kyoto Station, hop on the JR Nara Line (local/rapid) and get off at Inari Station — it's only one stop and about 5 minutes, and the main torii gate is right across the street from the station exit. Alternatively, the Keihan Main Line's Fushimi-Inari Station is a 5-minute walk away. Both options beat driving, since parking near the shrine is limited and the surrounding streets get congested on weekends.
+The shrine sits in Fushimi Ward at 68 Fukakusa Yabunouchichō, and it's one of the easiest major sights in Kyoto to reach without a taxi. From Kyoto Station, hop on the JR Nara Line (local/rapid) and get off at Inari Station — it's only one stop and about 5 minutes, and the main torii gate is right across the street from the station exit.
+
+Alternatively, the Keihan Main Line's Fushimi-Inari Station is a 5-minute walk away. Both options beat driving, since parking near the shrine is limited and the surrounding streets get congested on weekends.
 
 ## What to see and do
 
 Start at the giant outer torii and the Romon Gate (1589), then pass the main hall before reaching the real draw: the Senbon Torii, two parallel tunnels of gates that split and merge near Okusha Okumiya. Most day-trippers stop here, snap photos, and head back down — that's roughly 45 minutes to an hour round trip.
 
-But the shrine's most rewarding secret is that Mount Inari itself is a 4-kilometer hiking loop dotted with smaller sub-shrines, fox statues (kitsune are Inari's messengers, and you'll see stone foxes with keys, jewels, and scrolls in their mouths throughout the complex), and increasingly quiet, atmospheric gate tunnels as you climb. The Yotsutsuji intersection, about a third of the way up, offers a genuine viewpoint over Kyoto and is a natural turnaround point for those short on time — around 45 minutes uphill from the entrance. Continuing to the summit and back takes 2–3 hours total, and crowds thin dramatically past Yotsutsuji, which is where the site starts to feel meditative rather than touristy.
+But the shrine's most rewarding secret is that Mount Inari itself is a 4-kilometer hiking loop dotted with smaller sub-shrines, fox statues (kitsune are Inari's messengers, and you'll see stone foxes with keys, jewels, and scrolls in their mouths throughout the complex), and increasingly quiet, atmospheric gate tunnels as you climb. The Yotsutsuji intersection, about a third of the way up, offers a genuine viewpoint over Kyoto and is a natural turnaround point for those short on time — around 45 minutes uphill from the entrance.
+
+Continuing to the summit and back takes 2–3 hours total, and crowds thin dramatically past Yotsutsuji, which is where the site starts to feel meditative rather than touristy.
 
 Along the trail and near the entrance, small stalls sell inari-zushi (sweet fried tofu pouches stuffed with rice, named for the same deity) and kitsune-shaped senbei crackers — a fitting snack given the shrine's fox iconography.
 
 ## When to go
 
-The shrine is outdoors, unguarded, and has traditionally been open around the clock (worth confirming if you're planning a very late visit), which is unusual for a major Kyoto sight and worth exploiting. Early morning (before 8 a.m.) or after sunset offers dramatically thinner crowds through the Senbon Torii, plus better light for photos — the gates glow under lantern light at night, though the upper mountain paths are dimly lit, so bring a phone flashlight if climbing after dark. Midday, especially on weekends and during spring and autumn foliage seasons, the lower gate tunnels can be genuinely packed shoulder-to-shoulder. Rainy weekday mornings are, counterintuitively, some of the best times for an uncrowded visit.
+The shrine is outdoors, unguarded, and has traditionally been open around the clock (worth confirming if you're planning a very late visit), which is unusual for a major Kyoto sight and worth exploiting. Early morning (before 8 a.m.) or after sunset offers dramatically thinner crowds through the Senbon Torii, plus better light for photos — the gates glow under lantern light at night, though the upper mountain paths are dimly lit, so bring a phone flashlight if climbing after dark.
+
+Midday, especially on weekends and during spring and autumn foliage seasons, the lower gate tunnels can be genuinely packed shoulder-to-shoulder. Rainy weekday mornings are, counterintuitively, some of the best times for an uncrowded visit.
 
 ## Nearby & tips
 

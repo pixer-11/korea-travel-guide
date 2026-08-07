@@ -63,7 +63,9 @@ draft: false
 
 ## Why go
 
-Osaka Castle (Ōsakajō) is one of Japan's most recognizable landmarks, originally built in 1583 by Toyotomi Hideyoshi as he consolidated power after the death of Oda Nobunaga. The current structure dates from a 1931 reconstruction (with further restoration in 1997), since the original tower was destroyed in the 17th century and a later rebuild burned down in 1665. What stands today is a concrete reproduction faithful to the Edo-period silhouette, topped with gold-leaf tiger and dragon motifs, sitting atop genuinely massive Edo-era stone walls and moats that survived the centuries. With a 4.4 rating from nearly 98,000 reviews, it's one of the most-visited sites in Osaka, and the park around it — Osaka Castle Park (Ōsakajō Kōen) — is a destination in its own right, especially for cherry blossoms in late March/early April and autumn foliage in November.
+Osaka Castle (Ōsakajō) is one of Japan's most recognizable landmarks, originally built in 1583 by Toyotomi Hideyoshi as he consolidated power after the death of Oda Nobunaga. The current structure dates from a 1931 reconstruction (with further restoration in 1997), since the original tower was destroyed in the 17th century and a later rebuild burned down in 1665. What stands today is a concrete reproduction faithful to the Edo-period silhouette, topped with gold-leaf tiger and dragon motifs, sitting atop genuinely massive Edo-era stone walls and moats that survived the centuries.
+
+With a 4.4 rating from nearly 98,000 reviews, it's one of the most-visited sites in Osaka, and the park around it — Osaka Castle Park (Ōsakajō Kōen) — is a destination in its own right, especially for cherry blossoms in late March/early April and autumn foliage in November.
 
 ## Getting there
 
@@ -92,4 +94,6 @@ Early morning (soon after opening, around 9am) avoids the worst of both crowds a
 
 ## Nearby & practical tips
 
-The castle grounds are free to enter; only the museum inside the main keep charges admission, historically in the ¥600 range for adults with discounts for children — check official sources for current pricing before visiting, as fees and hours are periodically adjusted. Combination tickets covering Nishinomaru Garden are sometimes available. For food, the park has scattered cafés and vending areas, but the wider Osaka Business Park and Morinomiya district (both a short walk away) have full restaurant options. Rental bicycles and a small tourist tram (the "Road Train") operate within the park for those who'd rather not walk the full grounds. Combine a visit with the nearby Osaka Museum of History, just west of the castle near Tanimachi 4-chome Station, for a fuller picture of the city's Edo-period past.
+The castle grounds are free to enter; only the museum inside the main keep charges admission, historically in the ¥600 range for adults with discounts for children — check official sources for current pricing before visiting, as fees and hours are periodically adjusted. Combination tickets covering Nishinomaru Garden are sometimes available. For food, the park has scattered cafés and vending areas, but the wider Osaka Business Park and Morinomiya district (both a short walk away) have full restaurant options.
+
+Rental bicycles and a small tourist tram (the "Road Train") operate within the park for those who'd rather not walk the full grounds. Combine a visit with the nearby Osaka Museum of History, just west of the castle near Tanimachi 4-chome Station, for a fuller picture of the city's Edo-period past.

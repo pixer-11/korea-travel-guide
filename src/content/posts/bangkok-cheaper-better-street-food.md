@@ -78,21 +78,29 @@ updatedDate: '2026-07-24'
 ---
 ## Why Soi Silom 20 Matters
 
-Bangkok's best street food isn't always on the postcard strip near Chinatown — some of it is tucked into narrow office-district sois that only fill up for a couple of hours a day. Soi Silom 20, a short alley connecting Silom Road to Soi Convent in the Bang Rak district, is one of these. It's home to a stall cluster that includes the well-reviewed "Cheaper & Better Street Food" (4.7 stars from over 1,600 reviews), a telling sign for a genre where reputations are built almost entirely by repeat local customers rather than tourist marketing. The name is basically the pitch: portions and prices aimed at office workers on a lunch break, not padded for foot traffic from a nearby hotel.
+Bangkok's best street food isn't always on the postcard strip near Chinatown — some of it is tucked into narrow office-district sois that only fill up for a couple of hours a day. Soi Silom 20, a short alley connecting Silom Road to Soi Convent in the Bang Rak district, is one of these. It's home to a stall cluster that includes the well-reviewed "Cheaper & Better Street Food" (4.7 stars from over 1,600 reviews), a telling sign for a genre where reputations are built almost entirely by repeat local customers rather than tourist marketing.
+
+The name is basically the pitch: portions and prices aimed at office workers on a lunch break, not padded for foot traffic from a nearby hotel.
 
 ## Getting There
 
-The soi sits in Khwaeng Suriya Wong, Khet Bang Rak — the same neighborhood as Patpong and the Silom financial corridor. The easiest approach is the BTS Skytrain to **Sala Daeng station**, then walk south on Silom Road for about 5-8 minutes until you reach Soi 20 on your right. Alternatively, take the MRT to **Silom station**, which sits right beside Sala Daeng via a connecting walkway, and follow the same route. Taxis can drop you at the mouth of the soi, but Silom Road traffic is often slow at lunch, so the walk from either station is usually faster.
+The soi sits in Khwaeng Suriya Wong, Khet Bang Rak — the same neighborhood as Patpong and the Silom financial corridor. The easiest approach is the BTS Skytrain to **Sala Daeng station**, then walk south on Silom Road for about 5-8 minutes until you reach Soi 20 on your right. Alternatively, take the MRT to **Silom station**, which sits right beside Sala Daeng via a connecting walkway, and follow the same route.
+
+Taxis can drop you at the mouth of the soi, but Silom Road traffic is often slow at lunch, so the walk from either station is usually faster.
 
 ## What to Eat
 
-This is lunch territory as much as it is an all-day stop, though the office lunch rush is still when things are busiest. Expect the classic Bangkok street-stall repertoire: stir-fried dishes over rice (pad kaprao with minced pork or chicken, topped with a fried egg), noodle soups, som tam (green papaya salad), and grilled skewers. Portions are single-serving, and the format is fast — order, sit on a plastic stool or narrow counter, eat, go. Given the name and price level, expect single dishes to fall in the 40-80 baht range, though street prices shift with ingredient costs, so treat any figure as a rough guide rather than a promise.
+This is lunch territory as much as it is an all-day stop, though the office lunch rush is still when things are busiest. Expect the classic Bangkok street-stall repertoire: stir-fried dishes over rice (pad kaprao with minced pork or chicken, topped with a fried egg), noodle soups, som tam (green papaya salad), and grilled skewers. Portions are single-serving, and the format is fast — order, sit on a plastic stool or narrow counter, eat, go.
+
+Given the name and price level, expect single dishes to fall in the 40-80 baht range, though street prices shift with ingredient costs, so treat any figure as a rough guide rather than a promise.
 
 If you have room after, Silom and the parallel Convent Road area have more stalls and small cafés, so this soi works well as one stop in a short crawl rather than a single destination.
 
 ## When to Go
 
-Timing matters more here than at a sit-down restaurant. Arrive between **12:00pm and 1:30pm on a weekday** for the fullest selection and freshest turnover — this is when the surrounding offices empty out and vendors are cooking at full capacity. Arrive at 2:30pm and the lunch crowd will have thinned, but stalls stay open well into the evening, until around 11pm. Weekends are noticeably quieter since the office crowd that sustains this soi isn't around, so weekday lunch is the strategic move. Bangkok's hottest, most humid months (March through May) make an outdoor alley meal more of an endurance exercise, so if you're flexible, the cooler window from November to February is more comfortable for standing or perching outside.
+Timing matters more here than at a sit-down restaurant. Arrive between **12:00pm and 1:30pm on a weekday** for the fullest selection and freshest turnover — this is when the surrounding offices empty out and vendors are cooking at full capacity. Arrive at 2:30pm and the lunch crowd will have thinned, but stalls stay open well into the evening, until around 11pm.
+
+Weekends are noticeably quieter since the office crowd that sustains this soi isn't around, so weekday lunch is the strategic move. Bangkok's hottest, most humid months (March through May) make an outdoor alley meal more of an endurance exercise, so if you're flexible, the cooler window from November to February is more comfortable for standing or perching outside.
 
 ## Nearby & Tips
 

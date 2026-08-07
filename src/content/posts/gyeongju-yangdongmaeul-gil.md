@@ -39,15 +39,21 @@ draft: false
 
 ## Why go
 
-Yangdong Village (Yangdongmaeul), reached via Yangdongmaeul-gil in Gangdong-myeon, is one of Korea's two UNESCO-listed clan villages (inscribed in 2010 alongside Andong's Hahoe Village). Unlike Hahoe, which draws heavier crowds, Yangdong sees a fraction of the visitors, making it a genuine hidden-gem alternative for anyone who wants the same Joseon-era village atmosphere without the tour-bus congestion. The village has been continuously inhabited for over 500 years by the Yeogang Lee and Wolseong (Gyeongju) Son clans, and roughly 150 traditional houses remain, mixing tile-roofed *giwa* homes of the yangban aristocracy with thatched-roof *choga* homes that once housed servants and tenant farmers. The layout itself is the attraction: houses are arranged along the natural contours of Seolchangsan mountain in a pattern locals describe as a "vine on a tree," with wealthier homes higher up and commoner homes below.
+Yangdong Village (Yangdongmaeul), reached via Yangdongmaeul-gil in Gangdong-myeon, is one of Korea's two UNESCO-listed clan villages (inscribed in 2010 alongside Andong's Hahoe Village). Unlike Hahoe, which draws heavier crowds, Yangdong sees a fraction of the visitors, making it a genuine hidden-gem alternative for anyone who wants the same Joseon-era village atmosphere without the tour-bus congestion. The village has been continuously inhabited for over 500 years by the Yeogang Lee and Wolseong (Gyeongju) Son clans, and roughly 150 traditional houses remain, mixing tile-roofed *giwa* homes of the yangban aristocracy with thatched-roof *choga* homes that once housed servants and tenant farmers.
+
+The layout itself is the attraction: houses are arranged along the natural contours of Seolchangsan mountain in a pattern locals describe as a "vine on a tree," with wealthier homes higher up and commoner homes below.
 
 ## Getting there
 
-Yangdongmaeul-gil sits in Gangdong-myeon, about 16 km (roughly 40 minutes by car) northeast of downtown Gyeongju. Driving is the most practical option — there's a paid parking lot at the village entrance where the road terminates. Public buses run from Gyeongju Intercity Bus Terminal but are infrequent (often hourly or less), so check the current schedule before relying on one, or budget extra time. A taxi from central Gyeongju is a reasonable alternative if you're not renting a car, and many visitors combine the trip with a rental car day that also covers Bulguksa or Yangnam's coastline. There is no direct KTX or subway connection; the nearest major rail hub is Singyeongju Station, from which you'd still need a taxi or bus transfer.
+Yangdongmaeul-gil sits in Gangdong-myeon, about 16 km (roughly 40 minutes by car) northeast of downtown Gyeongju. Driving is the most practical option — there's a paid parking lot at the village entrance where the road terminates. Public buses run from Gyeongju Intercity Bus Terminal but are infrequent (often hourly or less), so check the current schedule before relying on one, or budget extra time.
+
+A taxi from central Gyeongju is a reasonable alternative if you're not renting a car, and many visitors combine the trip with a rental car day that also covers Bulguksa or Yangnam's coastline. There is no direct KTX or subway connection; the nearest major rail hub is Singyeongju Station, from which you'd still need a taxi or bus transfer.
 
 ## What to see
 
-Start at the village entrance and information center, where a simple map lays out the main clusters of houses. Key stops include **Seobaekdang**, a Joseon-period house built by Son So (grandfather of famed Confucian scholar Yi Eon-jeok) that's considered one of the village's oldest and most architecturally significant residences, and **Hyangdan**, a well-preserved 16th-century tile house. Several homes remain private residences, so visitors should stick to marked paths and view exteriors respectfully rather than entering courtyards uninvited. Plan on 1.5–2 hours to walk the upper and lower village loops; add another 30–45 minutes if you continue to **Oksan Seowon**, a Confucian academy about 15 minutes further by car, which makes a natural pairing with Yangdong for a half-day cultural circuit.
+Start at the village entrance and information center, where a simple map lays out the main clusters of houses. Key stops include **Seobaekdang**, a Joseon-period house built by Son So (grandfather of famed Confucian scholar Yi Eon-jeok) that's considered one of the village's oldest and most architecturally significant residences, and **Hyangdan**, a well-preserved 16th-century tile house. Several homes remain private residences, so visitors should stick to marked paths and view exteriors respectfully rather than entering courtyards uninvited.
+
+Plan on 1.5–2 hours to walk the upper and lower village loops; add another 30–45 minutes if you continue to **Oksan Seowon**, a Confucian academy about 15 minutes further by car, which makes a natural pairing with Yangdong for a half-day cultural circuit.
 
 ## When to go
 
@@ -55,4 +61,6 @@ Early morning on a weekday is ideal — the light angles nicely across the thatc
 
 ## Nearby & tips
 
-Wear shoes suited to uneven, sometimes muddy lanes, since much of the village is unpaved. Admission is typically a modest ticketed fee (a few thousand won) collected at the entrance booth, but confirm current pricing and operating hours before you go, as these can change seasonally. There are a handful of small restaurants and tea houses near the entrance serving simple Korean home-style meals — a good option since dining options thin out deeper into the village. Photography is welcome in public lanes, but be mindful that this is a living community, not a museum set piece; residents still commute, farm, and go about daily life around visitors.
+Wear shoes suited to uneven, sometimes muddy lanes, since much of the village is unpaved. Admission is typically a modest ticketed fee (a few thousand won) collected at the entrance booth, but confirm current pricing and operating hours before you go, as these can change seasonally. There are a handful of small restaurants and tea houses near the entrance serving simple Korean home-style meals — a good option since dining options thin out deeper into the village.
+
+Photography is welcome in public lanes, but be mindful that this is a living community, not a museum set piece; residents still commute, farm, and go about daily life around visitors.

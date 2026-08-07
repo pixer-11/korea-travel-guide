@@ -58,15 +58,21 @@ eventRecurring: true
 
 ## Why this festival is worth the trip
 
-Sun Moon Lake is already one of Taiwan's most visited natural landmarks, pulling in roughly 3.5 million visitors a year for its jade-green water, mountain ridgelines, and the Thao Indigenous culture woven into the area around Ita Thau. Layer a season of international music and fireworks over that setting and you get something genuinely different from a typical night market or temple festival: concerts staged on floating platforms or lakeside stages, with fireworks reflected on still water instead of exploding over city rooftops. The 2026 edition runs a long stretch — September 12 through November 14 — which means this isn't a single blowout night but a rolling festival season, giving visitors flexibility to time a visit around a broader Nantou itinerary.
+Sun Moon Lake is already one of Taiwan's most visited natural landmarks, pulling in roughly 3.5 million visitors a year for its jade-green water, mountain ridgelines, and the Thao Indigenous culture woven into the area around Ita Thau. Layer a season of international music and fireworks over that setting and you get something genuinely different from a typical night market or temple festival: concerts staged on floating platforms or lakeside stages, with fireworks reflected on still water instead of exploding over city rooftops.
+
+The 2026 edition runs a long stretch — September 12 through November 14 — which means this isn't a single blowout night but a rolling festival season, giving visitors flexibility to time a visit around a broader Nantou itinerary.
 
 ## Getting there
 
-Sun Moon Lake sits in Yuchi Township, Nantou County, in Taiwan's mountainous center — there's no train station at the lake itself. Most travelers reach it by intercity bus from Taichung High Speed Rail Station or Taichung's main train station; the ride typically takes 90 minutes to two hours depending on traffic and route. From Taipei, the usual pattern is high-speed rail to Taichung, then a transfer bus. Once at the lake, the local shuttle bus and the Sun Moon Lake Ropeway connect the main nodes — Shuishe (the main tourist village), Xuanguang Temple, and Ita Thau, where the opening concert takes place. On festival dates, expect heavier traffic on the lakeside road and fuller shuttle buses, so build in extra time rather than cutting it close.
+Sun Moon Lake sits in Yuchi Township, Nantou County, in Taiwan's mountainous center — there's no train station at the lake itself. Most travelers reach it by intercity bus from Taichung High Speed Rail Station or Taichung's main train station; the ride typically takes 90 minutes to two hours depending on traffic and route. From Taipei, the usual pattern is high-speed rail to Taichung, then a transfer bus.
+
+Once at the lake, the local shuttle bus and the Sun Moon Lake Ropeway connect the main nodes — Shuishe (the main tourist village), Xuanguang Temple, and Ita Thau, where the opening concert takes place. On festival dates, expect heavier traffic on the lakeside road and fuller shuttle buses, so build in extra time rather than cutting it close.
 
 ## What to expect at the festival
 
-The season kicks off with the Ita Thau Concert on September 12, anchoring the festival in the village most associated with the Thao people's cultural heritage. From there, expect the format Sun Moon Lake has built its reputation on: outdoor concerts paired with fireworks displays choreographed to reflect off the lake surface, plus a swimming carnival that draws on the lake's famous long-distance swim tradition. Programming for specific weekends, artist lineups, and exact fireworks nights hadn't been locked into public listings at the time of writing, so treat any online set times as provisional until the official Sun Moon Lake tourism site or Nantou County tourism bureau confirms them closer to the date.
+The season kicks off with the Ita Thau Concert on September 12, anchoring the festival in the village most associated with the Thao people's cultural heritage. From there, expect the format Sun Moon Lake has built its reputation on: outdoor concerts paired with fireworks displays choreographed to reflect off the lake surface, plus a swimming carnival that draws on the lake's famous long-distance swim tradition.
+
+Programming for specific weekends, artist lineups, and exact fireworks nights hadn't been locked into public listings at the time of writing, so treat any online set times as provisional until the official Sun Moon Lake tourism site or Nantou County tourism bureau confirms them closer to the date.
 
 ## Where to watch
 
@@ -74,7 +80,11 @@ The lakefront promenade at Shuishe and the waterside area near Ita Thau are the 
 
 ## How to visit like a local
 
-Locals and repeat visitors treat fireworks nights the way you'd treat a big outdoor concert anywhere: they stake out a spot 60–90 minutes early, bring a light jacket for the evening lake breeze, and pack out their own trash since bins near packed viewing areas empty fast. Payment around the lake area is a mix of cash and Taiwan's EasyCard/iPass transit cards, which also work on the shuttle buses and ropeway — carry both, since not every stall or ticket booth takes cards. If you're staying overnight, book lodging in Shuishe or Ita Thau well ahead of a confirmed fireworks date, as rooms around the lake are limited relative to the crowds an event like this pulls in. The single most common mistake visitors make is assuming the "festival" means one big night: it's actually a multi-week season, so check the specific date's schedule rather than showing up expecting fireworks every evening. Also confirm whether the shuttle bus schedule is extended for evening events — during regular months, last buses back to Shuishe can run earlier than festival-goers expect.
+Locals and repeat visitors treat fireworks nights the way you'd treat a big outdoor concert anywhere: they stake out a spot 60–90 minutes early, bring a light jacket for the evening lake breeze, and pack out their own trash since bins near packed viewing areas empty fast. Payment around the lake area is a mix of cash and Taiwan's EasyCard/iPass transit cards, which also work on the shuttle buses and ropeway — carry both, since not every stall or ticket booth takes cards.
+
+If you're staying overnight, book lodging in Shuishe or Ita Thau well ahead of a confirmed fireworks date, as rooms around the lake are limited relative to the crowds an event like this pulls in. The single most common mistake visitors make is assuming the "festival" means one big night: it's actually a multi-week season, so check the specific date's schedule rather than showing up expecting fireworks every evening.
+
+Also confirm whether the shuttle bus schedule is extended for evening events — during regular months, last buses back to Shuishe can run earlier than festival-goers expect.
 
 ## Practical notes before you go
 

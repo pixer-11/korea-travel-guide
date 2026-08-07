@@ -49,23 +49,35 @@ draft: false
 
 ## Why go
 
-Huacheng Square doesn't announce itself the way a temple or a museum does — there's no ticket booth, no single "must-see" object. What you get instead is scale: a stretch of granite paving and clipped lawns big enough to swallow the crowds of Tianhe's office towers at lunchtime and still feel uncrowded. Walk to its edges and you find yourself flanked by some of Guangzhou's most photographed modern architecture — Zaha Hadid's curved, dune-like Guangzhou Opera House on one side, the boxy glass Guangdong Museum and Guangzhou Library on another, with the Canton Tower's latticed silhouette rising across the Pearl River. The square is the connective tissue between all of them, and that's exactly why it's worth pausing in rather than just cutting through.
+Huacheng Square doesn't announce itself the way a temple or a museum does — there's no ticket booth, no single "must-see" object. What you get instead is scale: a stretch of granite paving and clipped lawns big enough to swallow the crowds of Tianhe's office towers at lunchtime and still feel uncrowded. Walk to its edges and you find yourself flanked by some of Guangzhou's most photographed modern architecture — Zaha Hadid's curved, dune-like Guangzhou Opera House on one side, the boxy glass Guangdong Museum and Guangzhou Library on another, with the Canton Tower's latticed silhouette rising across the Pearl River.
+
+The square is the connective tissue between all of them, and that's exactly why it's worth pausing in rather than just cutting through.
 
 ## Getting there
 
-The square sits in Tianhe District, in the heart of the Zhujiang New Town CBD. The most direct approach is Line 3 of the Guangzhou Metro — get off at Zhujiang New Town station or Gymnasium station, both of which put you within a short walk of the plaza's edges. If you're coming from the Canton Tower side of the river, it's a straightforward walk or a quick ride across one of the nearby bridges. Because it's an open-air public space, there's no admission fee and no set opening hours — you can drift through at any point in your day.
+The square sits in Tianhe District, in the heart of the Zhujiang New Town CBD. The most direct approach is Line 3 of the Guangzhou Metro — get off at Zhujiang New Town station or Gymnasium station, both of which put you within a short walk of the plaza's edges. If you're coming from the Canton Tower side of the river, it's a straightforward walk or a quick ride across one of the nearby bridges.
+
+Because it's an open-air public space, there's no admission fee and no set opening hours — you can drift through at any point in your day.
 
 ## What to see and do
 
-Give yourself 30–45 minutes if you're just cutting across, or up to an hour if you want to sit, people-watch, and photograph the surrounding skyline. The Opera House's shell-like curves are worth circling on foot — the building looks different from every angle, and the reflective panels catch the afternoon light differently depending on where you stand. The Guangdong Museum, with its intricate latticed "ivory carving" facade, and the adjacent Guangzhou Library are both right at the square's border if you want to duck into air-conditioned exhibits partway through your visit. At night, the square becomes a natural viewing platform for the Canton Tower's light shows across the river, and the surrounding CBD towers add their own layer of illuminated glass and steel to the scene.
+Give yourself 30–45 minutes if you're just cutting across, or up to an hour if you want to sit, people-watch, and photograph the surrounding skyline. The Opera House's shell-like curves are worth circling on foot — the building looks different from every angle, and the reflective panels catch the afternoon light differently depending on where you stand. The Guangdong Museum, with its intricate latticed "ivory carving" facade, and the adjacent Guangzhou Library are both right at the square's border if you want to duck into air-conditioned exhibits partway through your visit.
+
+At night, the square becomes a natural viewing platform for the Canton Tower's light shows across the river, and the surrounding CBD towers add their own layer of illuminated glass and steel to the scene.
 
 ## When to go
 
-Late afternoon into early evening is the sweet spot: the heat of the day has broken, the light softens against the Opera House's curves, and by dusk the tower lights across the river start to switch on one by one. Locals use the square for early-morning tai chi and evening strolls, so if you want a mix of local life and skyline views, dawn or dusk both work. Midday in summer can be brutally hot with little shade over the open paving, so if you're visiting between June and September, aim for morning or after 5pm.
+Late afternoon into early evening is the sweet spot: the heat of the day has broken, the light softens against the Opera House's curves, and by dusk the tower lights across the river start to switch on one by one. Locals use the square for early-morning tai chi and evening strolls, so if you want a mix of local life and skyline views, dawn or dusk both work.
+
+Midday in summer can be brutally hot with little shade over the open paving, so if you're visiting between June and September, aim for morning or after 5pm.
 
 ## How to visit like a local
 
-Because Huacheng Square is genuinely under-the-radar compared to the attractions surrounding it, most people treat it as a thoroughfare rather than a destination — which is exactly the local approach worth copying. Don't rush from the metro exit straight to the Opera House or Canton Tower; instead, slow down and cut diagonally across the plaza the way office workers and residents do on their way home. There's no queue system or ticketing to navigate since it's an open public square, and no tipping culture applies here — it's simply a place to walk through, sit on the steps, or let kids run across the open paving. If you want a quieter experience, come outside the evening rush when nearby office towers empty out, or time your visit for just after sunset when the crowds thin but the lights are already on. The most common visitor mistake is treating the square as a five-minute photo stop between the Opera House and the tower — locals linger longer, using it as a genuine rest point between errands, a picnic spot, or a place to watch the river-facing skyline change color at dusk.
+Because Huacheng Square is genuinely under-the-radar compared to the attractions surrounding it, most people treat it as a thoroughfare rather than a destination — which is exactly the local approach worth copying. Don't rush from the metro exit straight to the Opera House or Canton Tower; instead, slow down and cut diagonally across the plaza the way office workers and residents do on their way home.
+
+There's no queue system or ticketing to navigate since it's an open public square, and no tipping culture applies here — it's simply a place to walk through, sit on the steps, or let kids run across the open paving. If you want a quieter experience, come outside the evening rush when nearby office towers empty out, or time your visit for just after sunset when the crowds thin but the lights are already on.
+
+The most common visitor mistake is treating the square as a five-minute photo stop between the Opera House and the tower — locals linger longer, using it as a genuine rest point between errands, a picnic spot, or a place to watch the river-facing skyline change color at dusk.
 
 ## Nearby attractions worth combining
 

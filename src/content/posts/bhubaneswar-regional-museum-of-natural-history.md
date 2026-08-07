@@ -83,17 +83,25 @@ The museum sits on Sachivalaya Marg in Acharya Vihar, in the Doordarshan Colony 
 
 ## What to see
 
-The exhibits are organized so you move roughly chronologically and thematically: fossils and geological time near the entrance, then dioramas of taxidermied Indian wildlife, then a hall dedicated to human biology with cutaway models you can actually pull apart and inspect. Kids gravitate to the hands-on activity stations — gears, levers, sensory illusions — where the museum has clearly designed for small hands rather than glass cases you just stare through. Outside, the vivarium houses live reptiles and amphibians, a genuinely rare sight in an Indian museum setting, and it's usually the room where you hear the most gasps from school groups.
+The exhibits are organized so you move roughly chronologically and thematically: fossils and geological time near the entrance, then dioramas of taxidermied Indian wildlife, then a hall dedicated to human biology with cutaway models you can actually pull apart and inspect. Kids gravitate to the hands-on activity stations — gears, levers, sensory illusions — where the museum has clearly designed for small hands rather than glass cases you just stare through.
+
+Outside, the vivarium houses live reptiles and amphibians, a genuinely rare sight in an Indian museum setting, and it's usually the room where you hear the most gasps from school groups.
 
 The standout, though, is the botanical garden for the visually impaired — a fragrant, tactile garden planted with species chosen for scent and texture, with signage in Braille. It's a rare piece of inclusive design you don't often find in Indian public institutions, and even sighted visitors tend to slow down here, running fingers over leaf textures instead of just reading labels.
 
 ## When to go
 
-The museum keeps set opening hours and a weekly closing day, like most institutions of its kind, so it's worth checking current timings before you go rather than assuming it will be open — plan around that if you're building a single-day Bhubaneswar itinerary. Weekends get busy, with the heaviest footfall between 11am and 6pm as local families and school groups arrive in waves. If you want the galleries to yourself, aim for a weekday morning close to opening time, before the tour buses and family groups build up. A weekday visit also means the vivarium and hands-on stations won't have a queue of kids waiting for a turn.
+The museum keeps set opening hours and a weekly closing day, like most institutions of its kind, so it's worth checking current timings before you go rather than assuming it will be open — plan around that if you're building a single-day Bhubaneswar itinerary. Weekends get busy, with the heaviest footfall between 11am and 6pm as local families and school groups arrive in waves.
+
+If you want the galleries to yourself, aim for a weekday morning close to opening time, before the tour buses and family groups build up. A weekday visit also means the vivarium and hands-on stations won't have a queue of kids waiting for a turn.
 
 ## How to visit like a local
 
-This isn't a hidden gem — it's a well-known, well-reviewed institution that plenty of Bhubaneswar families already treat as a standard school-holiday outing, so don't expect to have it to yourself, especially on weekends. The practical local move is timing: go on a weekday, ideally right at opening time, and you'll beat both the heat outside and the crowds inside. Tickets are sold at a counter on-site and are inexpensive, but prices do get revised, so treat any figure you've read online as approximate and just budget a small amount in cash. Photography is generally allowed in the galleries but check signage near the vivarium and any temporary exhibits, since live-animal areas sometimes restrict flash photography. Pair the visit with the adjacent planetarium if you have half a day free — many visitors do both back to back, and combining them saves a second trip across town. Wear comfortable shoes for the tactile garden path, and don't rush the Braille garden; it rewards slowing down more than any other corner of the museum.
+This isn't a hidden gem — it's a well-known, well-reviewed institution that plenty of Bhubaneswar families already treat as a standard school-holiday outing, so don't expect to have it to yourself, especially on weekends. The practical local move is timing: go on a weekday, ideally right at opening time, and you'll beat both the heat outside and the crowds inside.
+
+Tickets are sold at a counter on-site and are inexpensive, but prices do get revised, so treat any figure you've read online as approximate and just budget a small amount in cash. Photography is generally allowed in the galleries but check signage near the vivarium and any temporary exhibits, since live-animal areas sometimes restrict flash photography. Pair the visit with the adjacent planetarium if you have half a day free — many visitors do both back to back, and combining them saves a second trip across town.
+
+Wear comfortable shoes for the tactile garden path, and don't rush the Braille garden; it rewards slowing down more than any other corner of the museum.
 
 ## Nearby
 

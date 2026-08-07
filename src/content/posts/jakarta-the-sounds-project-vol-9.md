@@ -58,7 +58,9 @@ eventRecurring: true
 
 ## Why go
 
-The Sounds Project has built a reputation as one of Jakarta's bigger multi-genre festivals, pulling in a mix of pop, rock, hip-hop, and indie acts rather than sticking to a single scene. Vol. 9 continues that format across three days, August 7–9, 2026, with a lineup that spans homegrown stars — Pamungkas and Rizky Febian among them — alongside international names like Australian rock veterans Jet. For visitors, it's a chance to see how Jakarta's live-music crowd behaves: loud, enthusiastic, and heavy on phone-light sing-alongs, but generally well organized for an outdoor event of this scale.
+The Sounds Project has built a reputation as one of Jakarta's bigger multi-genre festivals, pulling in a mix of pop, rock, hip-hop, and indie acts rather than sticking to a single scene. Vol. 9 continues that format across three days, August 7–9, 2026, with a lineup that spans homegrown stars — Pamungkas and Rizky Febian among them — alongside international names like Australian rock veterans Jet.
+
+For visitors, it's a chance to see how Jakarta's live-music crowd behaves: loud, enthusiastic, and heavy on phone-light sing-alongs, but generally well organized for an outdoor event of this scale.
 
 ## Where and when
 
@@ -66,11 +68,15 @@ The festival is set at Ecovention Ecopark in Ancol, North Jakarta — the same c
 
 ## Getting there
 
-Ancol sits on Jakarta Bay, roughly 20–30 minutes by car from central areas like Menteng or Sudirman without traffic — figure much longer during rush hour or festival load-in/load-out times. The area is served by the Ancol exit off the elevated toll road, and ride-hailing apps (Gojek, Grab) are the most reliable way in and out, since parking around Ancol's entertainment zones fills up fast on event weekends. There's no direct MRT or LRT line to Ancol yet, so budget extra time if you're relying on public transit connections plus a final ride-share leg. If organizers announce a shuttle service closer to the date, it will likely run from a nearby mall or transit hub — watch official channels for that detail.
+Ancol sits on Jakarta Bay, roughly 20–30 minutes by car from central areas like Menteng or Sudirman without traffic — figure much longer during rush hour or festival load-in/load-out times. The area is served by the Ancol exit off the elevated toll road, and ride-hailing apps (Gojek, Grab) are the most reliable way in and out, since parking around Ancol's entertainment zones fills up fast on event weekends.
+
+There's no direct MRT or LRT line to Ancol yet, so budget extra time if you're relying on public transit connections plus a final ride-share leg. If organizers announce a shuttle service closer to the date, it will likely run from a nearby mall or transit hub — watch official channels for that detail.
 
 ## What to expect on site
 
-With dozens of Indonesian artists across three days plus international acts like Jet, expect multiple stages running in parallel, so a printed or app-based schedule (usually released a week or two out) is essential for planning who you actually want to catch. Ecovention's grounds typically include food and beverage vendors, merchandise booths, and designated smoking/rest areas common to Jakarta's large festivals. Bring a light rain layer and sun protection for daytime sets, since the space is largely open-air. As with most Indonesian outdoor festivals, expect security bag checks at entry — pack light and leave large bags at your accommodation.
+With dozens of Indonesian artists across three days plus international acts like Jet, expect multiple stages running in parallel, so a printed or app-based schedule (usually released a week or two out) is essential for planning who you actually want to catch. Ecovention's grounds typically include food and beverage vendors, merchandise booths, and designated smoking/rest areas common to Jakarta's large festivals.
+
+Bring a light rain layer and sun protection for daytime sets, since the space is largely open-air. As with most Indonesian outdoor festivals, expect security bag checks at entry — pack light and leave large bags at your accommodation.
 
 ## When to go each day
 
@@ -78,7 +84,9 @@ If you want to catch specific headliners like Jet or Rizky Febian, don't assume 
 
 ## How to visit like a local
 
-Jakarta festival-goers tend to arrive fashionably late for opening acts and time their entry for whichever set they actually want, so lines are usually calmest in the first hour after gates open. Payment at most stalls and merch booths leans cashless — QRIS (Indonesia's universal QR payment system) is widely accepted alongside cards, so having a QRIS-linked e-wallet app (GoPay, OVO, or Dana) saves time versus fumbling for cash. Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and distance from the ticket gate to the actual stage area — wear real shoes, not sandals, and expect a decent walk from parking or drop-off points. Locals also dress light and practical: breathable fabrics, a cap, and a small backpack rather than anything bulky, since Jakarta's August heat and humidity peak in the late afternoon.
+Jakarta festival-goers tend to arrive fashionably late for opening acts and time their entry for whichever set they actually want, so lines are usually calmest in the first hour after gates open. Payment at most stalls and merch booths leans cashless — QRIS (Indonesia's universal QR payment system) is widely accepted alongside cards, so having a QRIS-linked e-wallet app (GoPay, OVO, or Dana) saves time versus fumbling for cash.
+
+Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and distance from the ticket gate to the actual stage area — wear real shoes, not sandals, and expect a decent walk from parking or drop-off points. Locals also dress light and practical: breathable fabrics, a cap, and a small backpack rather than anything bulky, since Jakarta's August heat and humidity peak in the late afternoon.
 
 Because this is a time-sensitive event, always verify the current dates, venue details, and ticket prices on The Sounds Project's official website or social media before booking flights or accommodation — festival specifics can shift even after an initial announcement.
 

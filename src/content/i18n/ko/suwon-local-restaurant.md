@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: suwon-local-restaurant
-srcHash: 43dcde88ad75
+srcHash: '0908a2b3f016'
 title: 수원 맛집 여행 가이드
 description: 수원을 대표하는 음식은 왕갈비로, 역사 지구인 팔달문(Paldalmun Gate)과 영동시장(Yeongdong Market) 일대에서 맛보기 좋습니다.
 quickAnswer: 수원을 대표하는 음식은 왕갈비, 즉 큼직하게 썬 소갈비구이로, 역사 지구인 팔달문(Paldalmun Gate)과 영동시장(Yeongdong Market) 일대에서 맛보기 가장 좋습니다. 저녁 무렵 배고픈 상태로 찾아가 화성(Hwaseong Fortress) 성곽 산책과 함께 즐기시고, 수원역(1호선)에서 짧은 택시나 버스로 이동하면 됩니다.

@@ -67,23 +67,35 @@ draft: false
 
 ## Why go
 
-You come to Yokohama Museum of Art expecting a regional art museum and instead find yourself standing in a cathedral-scaled entrance hall, symmetrical and pale, with grey stone floors that seem to swallow the sound of footsteps. This is Kenzo Tange's design from the late 1980s, part of the larger Minatomirai 21 waterfront redevelopment, and the building itself is worth the visit before you've seen a single canvas. Inside, the permanent collection swings from Matisse and Picasso to Dalí and Kandinsky, then turns a corner into postwar and contemporary Japanese photography and painting — a deliberately wide net that rewards slow wandering rather than a checklist approach.
+You come to Yokohama Museum of Art expecting a regional art museum and instead find yourself standing in a cathedral-scaled entrance hall, symmetrical and pale, with grey stone floors that seem to swallow the sound of footsteps. This is Kenzo Tange's design from the late 1980s, part of the larger Minatomirai 21 waterfront redevelopment, and the building itself is worth the visit before you've seen a single canvas.
+
+Inside, the permanent collection swings from Matisse and Picasso to Dalí and Kandinsky, then turns a corner into postwar and contemporary Japanese photography and painting — a deliberately wide net that rewards slow wandering rather than a checklist approach.
 
 ## Getting there
 
-The museum sits in Nishi Ward's Minatomirai district, Yokohama's reclaimed waterfront zone of convention halls, malls, and the Cosmo Clock 21 ferris wheel. The closest stop is Minatomirai Station on the Minatomirai Line, about a 3–5 minute walk via the exit signposted for Queen's Square. If you're coming from central Yokohama or transferring from JR lines, Sakuragicho Station (JR Negishi Line) works too, roughly a 10-minute walk across the Landmark Plaza pedestrian decks. Either route is flat, covered for long stretches by the mall walkways, and easy to follow even on a first visit — useful on a humid Yokohama summer afternoon or a rainy day.
+The museum sits in Nishi Ward's Minatomirai district, Yokohama's reclaimed waterfront zone of convention halls, malls, and the Cosmo Clock 21 ferris wheel. The closest stop is Minatomirai Station on the Minatomirai Line, about a 3–5 minute walk via the exit signposted for Queen's Square. If you're coming from central Yokohama or transferring from JR lines, Sakuragicho Station (JR Negishi Line) works too, roughly a 10-minute walk across the Landmark Plaza pedestrian decks.
+
+Either route is flat, covered for long stretches by the mall walkways, and easy to follow even on a first visit — useful on a humid Yokohama summer afternoon or a rainy day.
 
 ## What to see inside
 
-Give yourself time to look up as much as you look at the art — the grand hall alone, with its barrel-vaulted skylight and stone colonnades, sets a tone of quiet formality you don't get in most contemporary museums. Galleries are organized so you move from Western modern masters into Japanese Nihonga and Yoga painting, then into photography, a strength of the collection thanks to Yokohama's history as one of Japan's first ports opened to foreign trade. Look for how the museum uses that history: pieces referencing the port's 19th-century opening, alongside far more recent contemporary installations. Special exhibitions rotate the ground-floor galleries regularly, often bringing in major loan shows, so what's on view beyond the core collection changes throughout the year.
+Give yourself time to look up as much as you look at the art — the grand hall alone, with its barrel-vaulted skylight and stone colonnades, sets a tone of quiet formality you don't get in most contemporary museums. Galleries are organized so you move from Western modern masters into Japanese Nihonga and Yoga painting, then into photography, a strength of the collection thanks to Yokohama's history as one of Japan's first ports opened to foreign trade.
+
+Look for how the museum uses that history: pieces referencing the port's 19th-century opening, alongside far more recent contemporary installations. Special exhibitions rotate the ground-floor galleries regularly, often bringing in major loan shows, so what's on view beyond the core collection changes throughout the year.
 
 ## When to go
 
-The crowd pattern here is genuinely useful to know before you plan your day. Weekends get busy between 11am and 5pm, which is exactly when most visitors — families, tourists combining it with a Minatomirai stroll, school groups — pack the galleries. Both weekdays and weekends quiet down noticeably between 6pm and 7pm, so if the museum's hours that day extend into early evening, that's your window for near-empty galleries and easier viewing distance from the paintings. Because operating hours can shift with exhibitions and season, confirm the current closing time before you go — arriving too close to closing without checking could cut your visit short.
+The crowd pattern here is genuinely useful to know before you plan your day. Weekends get busy between 11am and 5pm, which is exactly when most visitors — families, tourists combining it with a Minatomirai stroll, school groups — pack the galleries. Both weekdays and weekends quiet down noticeably between 6pm and 7pm, so if the museum's hours that day extend into early evening, that's your window for near-empty galleries and easier viewing distance from the paintings.
+
+Because operating hours can shift with exhibitions and season, confirm the current closing time before you go — arriving too close to closing without checking could cut your visit short.
 
 ## How to visit like a local
 
-Treat this as a late-afternoon stop rather than a morning anchor: locals working nearby often swing through after 4 or 5pm rather than fighting the late-morning weekend crush. Buy your ticket at the counter or via the museum's own online ticketing if available for the current show — special exhibitions typically require a separate or combined ticket from the permanent collection, so decide before you queue whether you want both. Cash and card are both accepted at the counter and museum shop, though tapping a card or IC transit card (Suica/PASMO) is the norm for speed. Coat lockers near the entrance are worth using — the halls are large and you won't want to carry a bag through them. The most common tourist misstep is treating this as a quick 30-minute add-on between Minatomirai's other sights; the collection and the special exhibitions together comfortably fill 90 minutes to two hours, so budget accordingly rather than rushing the final galleries. If Japanese isn't your first language, English wall text and audio guides are typically available for the permanent collection, though special exhibitions vary in their translation coverage.
+Treat this as a late-afternoon stop rather than a morning anchor: locals working nearby often swing through after 4 or 5pm rather than fighting the late-morning weekend crush. Buy your ticket at the counter or via the museum's own online ticketing if available for the current show — special exhibitions typically require a separate or combined ticket from the permanent collection, so decide before you queue whether you want both.
+
+Cash and card are both accepted at the counter and museum shop, though tapping a card or IC transit card (Suica/PASMO) is the norm for speed. Coat lockers near the entrance are worth using — the halls are large and you won't want to carry a bag through them. The most common tourist misstep is treating this as a quick 30-minute add-on between Minatomirai's other sights; the collection and the special exhibitions together comfortably fill 90 minutes to two hours, so budget accordingly rather than rushing the final galleries.
+
+If Japanese isn't your first language, English wall text and audio guides are typically available for the permanent collection, though special exhibitions vary in their translation coverage.
 
 ## Nearby
 

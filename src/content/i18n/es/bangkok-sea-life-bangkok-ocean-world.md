@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-sea-life-bangkok-ocean-world
-srcHash: e5f269aa1b1c
+srcHash: '012378e9c35b'
 title: 'SEA LIFE Bangkok Ocean World: Guía de viaje'
 description: SEA LIFE Bangkok Ocean World se encuentra en el sótano (B1-B2) del centro comercial Siam Paragon, justo encima de la estación BTS Siam, lo que la convierte en una de las atracciones principales más fáciles de llegar en Bangkok.
 quickAnswer: SEA LIFE Bangkok Ocean World se encuentra en el sótano (B1-B2) del centro comercial Siam Paragon, justo encima de la estación BTS Siam, lo que la convierte en una de las atracciones principales más fáciles de llegar en Bangkok. Calcula entre 1.5 y 2.5 horas para recorrer el túnel de cristal, ver los tanques de tiburones y rayas, y presenciar un espectáculo de alimentación o buceo; ve un día entre semana por la mañana para evitar coincidir con las multitudes del centro comercial los fines de semana. Reserva las entradas en línea con antelación para obtener un descuento considerable respecto al precio en taquilla.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-SEA LIFE Bangkok Ocean World es uno de los acuarios urbanos más grandes del sudeste asiático, construido en dos niveles de sótano (B1-B2) debajo de Siam Paragon, uno de los centros comerciales insignia de Bangkok. Con aproximadamente 4.5 estrellas de más de 30,000 reseñas, se le considera de forma consistente una atracción confiable y apta para familias, en lugar de una trampa para turistas, algo poco común en un acuario dentro de un centro comercial. Su atractivo principal es la escala: cientos de especies marinas, un túnel oceánico de cristal de 270 grados, y una combinación de tanques de exhibición estática con actividades más dinámicas, como proyecciones en el cine 4-D y paseos en bote de fondo transparente sobre el tanque de tiburones.
+SEA LIFE Bangkok Ocean World es uno de los acuarios urbanos más grandes del sudeste asiático, construido en dos niveles de sótano (B1-B2) debajo de Siam Paragon, uno de los centros comerciales insignia de Bangkok. Con aproximadamente 4.5 estrellas de más de 30,000 reseñas, se le considera de forma consistente una atracción confiable y apta para familias, en lugar de una trampa para turistas, algo poco común en un acuario dentro de un centro comercial.
+
+Su atractivo principal es la escala: cientos de especies marinas, un túnel oceánico de cristal de 270 grados, y una combinación de tanques de exhibición estática con actividades más dinámicas, como proyecciones en el cine 4-D y paseos en bote de fondo transparente sobre el tanque de tiburones.
 
 ## Cómo llegar
 
-La mayor ventaja de esta atracción es su ubicación. Siam Paragon se conecta directamente con la **estación BTS Siam** (intercambiador de las líneas Sukhumvit y Silom del Skytrain), por lo que los visitantes pueden caminar directamente desde el andén hasta el centro comercial sin salir al exterior, algo realmente útil durante los meses calurosos o lluviosos de Bangkok. Desde el BTS, sigue las señales hacia el nivel de sótano del centro comercial en dirección a la entrada del acuario, cerca del food hall de Siam Paragon (zona de Food Hall / Gourmet Market). Si llegas en taxi o con una app de transporte, pide que te dejen en la entrada de Siam Paragon sobre Rama I Road, y luego baja al nivel B1. No existe una entrada independiente desde la calle para el acuario: se accede a través del propio centro comercial.
+La mayor ventaja de esta atracción es su ubicación. Siam Paragon se conecta directamente con la **estación BTS Siam** (intercambiador de las líneas Sukhumvit y Silom del Skytrain), por lo que los visitantes pueden caminar directamente desde el andén hasta el centro comercial sin salir al exterior, algo realmente útil durante los meses calurosos o lluviosos de Bangkok. Desde el BTS, sigue las señales hacia el nivel de sótano del centro comercial en dirección a la entrada del acuario, cerca del food hall de Siam Paragon (zona de Food Hall / Gourmet Market).
+
+Si llegas en taxi o con una app de transporte, pide que te dejen en la entrada de Siam Paragon sobre Rama I Road, y luego baja al nivel B1. No existe una entrada independiente desde la calle para el acuario: se accede a través del propio centro comercial.
 
 ## Qué ver y hacer
 
@@ -39,7 +43,9 @@ Calcula entre 1.5 y 2.5 horas dependiendo de cuánto te detengas en los horarios
 
 ## Cuándo ir
 
-Las mañanas entre semana, poco después de la apertura, son el momento más tranquilo, antes de que aumenten los grupos escolares y los visitantes del centro comercial por la tarde. Los fines de semana y los días festivos tailandeses traen un tráfico peatonal notablemente mayor, en parte porque el acuario también funciona como un escape con aire acondicionado del calor y la lluvia de Bangkok. Si visitas durante la temporada calurosa de abril a mayo o la temporada de lluvias de junio a octubre, el entorno interior y climatizado hace de esta una actividad sensata para el mediodía, combinada con un almuerzo en los pisos superiores del centro comercial.
+Las mañanas entre semana, poco después de la apertura, son el momento más tranquilo, antes de que aumenten los grupos escolares y los visitantes del centro comercial por la tarde. Los fines de semana y los días festivos tailandeses traen un tráfico peatonal notablemente mayor, en parte porque el acuario también funciona como un escape con aire acondicionado del calor y la lluvia de Bangkok.
+
+Si visitas durante la temporada calurosa de abril a mayo o la temporada de lluvias de junio a octubre, el entorno interior y climatizado hace de esta una actividad sensata para el mediodía, combinada con un almuerzo en los pisos superiores del centro comercial.
 
 ## Alrededores y consejos prácticos
 

@@ -85,7 +85,9 @@ The first thing you notice isn't a star — it's the noise. Costumed Spider-Men 
 
 ## Why go
 
-This isn't a museum exhibit behind glass — it's a working sidewalk that happens to be one of the most photographed stretches of pavement in the country. Since 1960, the Hollywood Chamber of Commerce has embedded these stars along Hollywood Boulevard and Vine Street to honor people in film, TV, radio, music, and theater. Walk it slowly and you'll spot names ranking from Marilyn Monroe to Mickey Mouse to whichever pop star got inducted last year, each star inlaid with a small emblem showing their category. It's touristy, a little grimy in patches, and genuinely part of the fabric of how the world pictures Los Angeles.
+This isn't a museum exhibit behind glass — it's a working sidewalk that happens to be one of the most photographed stretches of pavement in the country. Since 1960, the Hollywood Chamber of Commerce has embedded these stars along Hollywood Boulevard and Vine Street to honor people in film, TV, radio, music, and theater. Walk it slowly and you'll spot names ranking from Marilyn Monroe to Mickey Mouse to whichever pop star got inducted last year, each star inlaid with a small emblem showing their category.
+
+It's touristy, a little grimy in patches, and genuinely part of the fabric of how the world pictures Los Angeles.
 
 ## Getting there
 
@@ -101,5 +103,9 @@ The sidewalk itself never closes — it's open all day, every day, since it's si
 
 ## How to visit like a local
 
-Treat it as a walk-through, not a destination to linger at — that's how people who live nearby actually use it, cutting across it on their way to the Metro or a coffee run rather than treating it as an event. Skip the costumed characters unless you want to negotiate a cash tip for a photo; it's a well-known irritation, and there's no obligation to pay for an unsolicited pose. If someone offers you a "free" mixtape or ushers you toward a bus tour booth, a polite "no thanks" and keep walking is standard local etiquette. Bring cash in small bills only if you plan to tip a street performer or buy from a sidewalk vendor — most shops and theaters take cards. The most common tourist mistake is arriving midday in July expecting a leisurely stroll; the pavement radiates heat, the crowds peak, and the stars become hard to actually see between the crush of people. Instead, walk it early, then retreat to an air-conditioned diner or the shaded arcades of Ovation Hollywood once the boulevard fills in. Because this is one of the most heavily visited landmarks in the city, don't expect a quiet, undiscovered corner of Hollywood — the trick isn't finding an empty moment here, it's timing your visit to the two windows each day when the crowds haven't caught up yet.
+Treat it as a walk-through, not a destination to linger at — that's how people who live nearby actually use it, cutting across it on their way to the Metro or a coffee run rather than treating it as an event. Skip the costumed characters unless you want to negotiate a cash tip for a photo; it's a well-known irritation, and there's no obligation to pay for an unsolicited pose.
+
+If someone offers you a "free" mixtape or ushers you toward a bus tour booth, a polite "no thanks" and keep walking is standard local etiquette. Bring cash in small bills only if you plan to tip a street performer or buy from a sidewalk vendor — most shops and theaters take cards. The most common tourist mistake is arriving midday in July expecting a leisurely stroll; the pavement radiates heat, the crowds peak, and the stars become hard to actually see between the crush of people.
+
+Instead, walk it early, then retreat to an air-conditioned diner or the shaded arcades of Ovation Hollywood once the boulevard fills in. Because this is one of the most heavily visited landmarks in the city, don't expect a quiet, undiscovered corner of Hollywood — the trick isn't finding an empty moment here, it's timing your visit to the two windows each day when the crowds haven't caught up yet.
 

@@ -48,15 +48,21 @@ draft: false
 
 ## Why go
 
-You round a bend on the coast road and the whole thing opens up below you: lemon terraces stacked on impossibly steep rock, a cluster of pastel houses wedged into a ravine, and the Tyrrhenian Sea somewhere past turquoise. This is why the Amalfi Coast has UNESCO World Heritage status — it's not one sight but a whole landscape, 50-odd kilometres of it, where towns like Positano, Amalfi, Praiano, and Ravello cling to cliffs that seem to leave no room for a road, let alone a town. With a 4.7 rating across more than 92,000 reviews, it's one of the most consistently loved stretches of coastline in Europe, and also one of the most photographed — so go in with a plan, not just a bucket-list check mark.
+You round a bend on the coast road and the whole thing opens up below you: lemon terraces stacked on impossibly steep rock, a cluster of pastel houses wedged into a ravine, and the Tyrrhenian Sea somewhere past turquoise. This is why the Amalfi Coast has UNESCO World Heritage status — it's not one sight but a whole landscape, 50-odd kilometres of it, where towns like Positano, Amalfi, Praiano, and Ravello cling to cliffs that seem to leave no room for a road, let alone a town.
+
+With a 4.7 rating across more than 92,000 reviews, it's one of the most consistently loved stretches of coastline in Europe, and also one of the most photographed — so go in with a plan, not just a bucket-list check mark.
 
 ## Getting there
 
-Naples is the practical gateway. From Naples Centrale or the airport, most visitors take the train to Sorrento (via Circumvesuviana or a direct regional service) and then switch to a ferry or the SITA Sud bus that threads along the coast road. Ferries run seasonally (roughly April to October) between Naples, Sorrento, Positano, and Amalfi town, and they're worth prioritizing — sitting on open water beats sitting in coastal traffic every time. If you're coming from Salerno instead, it sits at the coast's eastern end and has its own ferry dock and direct rail connections to Naples and Rome, making it a quieter alternative base.
+Naples is the practical gateway. From Naples Centrale or the airport, most visitors take the train to Sorrento (via Circumvesuviana or a direct regional service) and then switch to a ferry or the SITA Sud bus that threads along the coast road. Ferries run seasonally (roughly April to October) between Naples, Sorrento, Positano, and Amalfi town, and they're worth prioritizing — sitting on open water beats sitting in coastal traffic every time.
+
+If you're coming from Salerno instead, it sits at the coast's eastern end and has its own ferry dock and direct rail connections to Naples and Rome, making it a quieter alternative base.
 
 ## What to see and do
 
-**Positano** is the postcard: houses tumbling down a hillside to a small beach (Spiaggia Grande), with the domed, majolica-tiled roof of Santa Maria Assunta church anchoring the view. **Amalfi town** itself has the 9th-century Duomo di Sant'Andrea, its striped Arab-Norman facade reached by a steep flight of stairs from the main piazza, plus the Museo della Carta if you want the history of the region's handmade paper tradition. **Ravello**, up in the hills above Amalfi, trades beach access for the gardens of Villa Rufolo and Villa Cimbrone, both with terraces looking straight out over the gulf — this is where composers and writers historically came to get away from the crowds below. For walking, the **Path of the Gods** (Sentiero degli Dei), a ridge trail between Bomerano and Nocelle, gives you the coastline from above without a car in sight; plan two and a half to three hours one way.
+**Positano** is the postcard: houses tumbling down a hillside to a small beach (Spiaggia Grande), with the domed, majolica-tiled roof of Santa Maria Assunta church anchoring the view. **Amalfi town** itself has the 9th-century Duomo di Sant'Andrea, its striped Arab-Norman facade reached by a steep flight of stairs from the main piazza, plus the Museo della Carta if you want the history of the region's handmade paper tradition. **Ravello**, up in the hills above Amalfi, trades beach access for the gardens of Villa Rufolo and Villa Cimbrone, both with terraces looking straight out over the gulf — this is where composers and writers historically came to get away from the crowds below.
+
+For walking, the **Path of the Gods** (Sentiero degli Dei), a ridge trail between Bomerano and Nocelle, gives you the coastline from above without a car in sight; plan two and a half to three hours one way.
 
 ## When to go
 
@@ -64,5 +70,9 @@ Late spring (May–June) and early autumn (mid-September to October) give you wa
 
 ## How to visit like a local
 
-Because this is a very popular, heavily visited stretch of coast, the real skill is avoiding its worst bottlenecks rather than finding secret corners. Take the ferry between towns whenever it's running — it sidesteps both the traffic and the parking problem, since most towns have almost nowhere to park a car. If you must use the SITA bus, buy your ticket beforehand from a tabacchi (tobacco shop) or bar, not on board, and validate it once you're on. Locals eat lunch late, around 1–2pm, and dinner rarely before 8pm, so a restaurant that looks empty at 7pm isn't necessarily bad — it's just early by local clock. Cash still helps in smaller family-run trattorias and for granita or sfogliatelle from a walk-up counter, though cards are widely accepted now. The single biggest mistake visitors make is trying to see three towns in one day by car; pick a base, and let the ferry or a single bus route do the connecting instead. If you're set on driving, go early morning or after 6pm, when the road empties out and the hairpin bends are actually enjoyable rather than nerve-fraying.
+Because this is a very popular, heavily visited stretch of coast, the real skill is avoiding its worst bottlenecks rather than finding secret corners. Take the ferry between towns whenever it's running — it sidesteps both the traffic and the parking problem, since most towns have almost nowhere to park a car. If you must use the SITA bus, buy your ticket beforehand from a tabacchi (tobacco shop) or bar, not on board, and validate it once you're on.
+
+Locals eat lunch late, around 1–2pm, and dinner rarely before 8pm, so a restaurant that looks empty at 7pm isn't necessarily bad — it's just early by local clock. Cash still helps in smaller family-run trattorias and for granita or sfogliatelle from a walk-up counter, though cards are widely accepted now. The single biggest mistake visitors make is trying to see three towns in one day by car; pick a base, and let the ferry or a single bus route do the connecting instead.
+
+If you're set on driving, go early morning or after 6pm, when the road empties out and the hairpin bends are actually enjoyable rather than nerve-fraying.
 

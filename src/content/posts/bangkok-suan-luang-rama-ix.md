@@ -69,20 +69,32 @@ You know you've arrived somewhere different the moment the traffic noise from Ch
 
 ## Why go
 
-This is one of Bangkok's largest parks, built originally to mark the 60th birthday of the late King Bhumibol (Rama IX), and it still functions partly as a memorial garden and partly as a working botanical park. That dual identity is what makes it interesting: formal rose gardens and themed plant collections sit alongside a big open lake where families paddle around in rented boats, and looping paths where the whole neighborhood seems to come out to walk, jog, and cycle in the cooler hours. It's consistently one of the highest-rated green spaces in the city, and it's easy to see why — the scale of it lets you actually get lost in green for a while, something rare in central Bangkok.
+This is one of Bangkok's largest parks, built originally to mark the 60th birthday of the late King Bhumibol (Rama IX), and it still functions partly as a memorial garden and partly as a working botanical park. That dual identity is what makes it interesting: formal rose gardens and themed plant collections sit alongside a big open lake where families paddle around in rented boats, and looping paths where the whole neighborhood seems to come out to walk, jog, and cycle in the cooler hours.
+
+It's consistently one of the highest-rated green spaces in the city, and it's easy to see why — the scale of it lets you actually get lost in green for a while, something rare in central Bangkok.
 
 ## Getting there
 
-Suan Luang Rama IX sits in Khet Prawet, well east of the main tourist zones, so you won't stumble onto it — you have to go there deliberately. The most reliable way in is by taxi or ride-hailing app; give the driver the park's Thai name (สวนหลวง ร.9) rather than an English address, since that's what registers with most drivers. If you're coming via the BTS, the closest stations are on the Sukhumvit line out towards On Nut and Bang Na, followed by a short taxi or motorbike-taxi ride the rest of the way — there's no station right at the gate, so budget extra time for the last mile. Because the park is enormous, it also helps to know which entrance you're heading for before you set off; the main gate on Chaloem Phrakiat Ratchakan Thi 9 Road is the most straightforward drop-off point.
+Suan Luang Rama IX sits in Khet Prawet, well east of the main tourist zones, so you won't stumble onto it — you have to go there deliberately. The most reliable way in is by taxi or ride-hailing app; give the driver the park's Thai name (สวนหลวง ร.9) rather than an English address, since that's what registers with most drivers.
+
+If you're coming via the BTS, the closest stations are on the Sukhumvit line out towards On Nut and Bang Na, followed by a short taxi or motorbike-taxi ride the rest of the way — there's no station right at the gate, so budget extra time for the last mile. Because the park is enormous, it also helps to know which entrance you're heading for before you set off; the main gate on Chaloem Phrakiat Ratchakan Thi 9 Road is the most straightforward drop-off point.
 
 ## What to see and do
 
-Start at the lake: paddle boats are available for rent, and gliding across the water with the skyline of eastern Bangkok as a backdrop is the park's signature experience. From there, wander into the botanical sections — themed gardens grouped by plant type, a rose garden, and shaded groves that make a real difference on a hot afternoon. Joggers and cyclists have a dedicated path circling much of the grounds, and if you've got kids in tow, there's a playground that gets steady use from local families. Bring a mat or just find a patch of grass under one of the older trees; sitting still here, watching monitor lizards slide into the lake or egrets stalk the shallows, is as much the point as covering ground.
+Start at the lake: paddle boats are available for rent, and gliding across the water with the skyline of eastern Bangkok as a backdrop is the park's signature experience. From there, wander into the botanical sections — themed gardens grouped by plant type, a rose garden, and shaded groves that make a real difference on a hot afternoon. Joggers and cyclists have a dedicated path circling much of the grounds, and if you've got kids in tow, there's a playground that gets steady use from local families.
+
+Bring a mat or just find a patch of grass under one of the older trees; sitting still here, watching monitor lizards slide into the lake or egrets stalk the shallows, is as much the point as covering ground.
 
 ## When to go
 
-Weekdays between 10am and 8pm are the quietest stretch, and honestly the best time to experience the park's scale without dodging crowds. Weekends draw heavy foot traffic from 7am to 7pm as local families turn out in force, so if a weekend is all you've got, wait until after noon — the park settles down from around 12pm to 8pm. Early morning on weekends is beautiful light-wise but also the single busiest window, so go in expecting company. Late afternoon into early evening, any day, brings the best temperature and softest light for photos, especially around the lake.
+Weekdays between 10am and 8pm are the quietest stretch, and honestly the best time to experience the park's scale without dodging crowds. Weekends draw heavy foot traffic from 7am to 7pm as local families turn out in force, so if a weekend is all you've got, wait until after noon — the park settles down from around 12pm to 8pm.
+
+Early morning on weekends is beautiful light-wise but also the single busiest window, so go in expecting company. Late afternoon into early evening, any day, brings the best temperature and softest light for photos, especially around the lake.
 
 ## How to visit like a local
 
-Locals treat this as a daily-use park, not a sightseeing stop — that should shape how you visit. Come for exercise, not just a walkthrough: rent a bike if you see them available, or just join the loop of joggers and power-walkers on the perimeter path. Cash is still the norm for boat rentals and any small snack stalls near the entrances, so carry small baht notes. There's no formal ticket queue or booking system; you simply walk in, though on packed weekend mornings the boat-rental line can build up, so head there first if that's a priority. The mistake visitors make is treating it as a quick photo stop — the park rewards slowing down, so give it a real two to three hours rather than a fifteen-minute drive-by. Wear something you can sweat in and don't skip water; the shade helps, but Bangkok humidity doesn't care what park you're in.
+Locals treat this as a daily-use park, not a sightseeing stop — that should shape how you visit. Come for exercise, not just a walkthrough: rent a bike if you see them available, or just join the loop of joggers and power-walkers on the perimeter path. Cash is still the norm for boat rentals and any small snack stalls near the entrances, so carry small baht notes.
+
+There's no formal ticket queue or booking system; you simply walk in, though on packed weekend mornings the boat-rental line can build up, so head there first if that's a priority. The mistake visitors make is treating it as a quick photo stop — the park rewards slowing down, so give it a real two to three hours rather than a fifteen-minute drive-by.
+
+Wear something you can sweat in and don't skip water; the shade helps, but Bangkok humidity doesn't care what park you're in.

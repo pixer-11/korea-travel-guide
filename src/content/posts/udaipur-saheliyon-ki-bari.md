@@ -53,23 +53,33 @@ draft: false
 
 ## Why go
 
-You come to Saheliyon ki Bari not for scale but for the fine-grained craftsmanship of it: black marble kiosks (chhatris) ringed by fountains, lotus-shaped pools flecked with green algae in the heat, and stone elephants with trunks raised as if mid-trumpet, water once meant to spray from them in looping arcs during monsoon celebrations. The name translates to "Garden of the Maidens," built in the early 1700s under Maharana Sangram Singh II as a retreat for the queen and the forty-eight attendants who accompanied her as dowry. Walking in from the gate, the noise of Panchwati's traffic falls away almost immediately, replaced by the trickle of fountains and the rustle of gulmohar and mango trees overhead.
+You come to Saheliyon ki Bari not for scale but for the fine-grained craftsmanship of it: black marble kiosks (chhatris) ringed by fountains, lotus-shaped pools flecked with green algae in the heat, and stone elephants with trunks raised as if mid-trumpet, water once meant to spray from them in looping arcs during monsoon celebrations. The name translates to "Garden of the Maidens," built in the early 1700s under Maharana Sangram Singh II as a retreat for the queen and the forty-eight attendants who accompanied her as dowry.
+
+Walking in from the gate, the noise of Panchwati's traffic falls away almost immediately, replaced by the trickle of fountains and the rustle of gulmohar and mango trees overhead.
 
 ## Getting there
 
-The garden sits in Panchwati, on the northern edge of central Udaipur, about a 15-20 minute walk or a short auto-rickshaw ride from the City Palace and Lake Pichola waterfront. Most autos and cab apps know it by name. If you're staying near Fateh Sagar Lake, it's genuinely walkable — the lake's eastern promenade leads almost directly to the garden entrance. There's no train or metro link relevant here; Udaipur's airport (Maharana Pratap Airport, roughly 25km away) and railway station both require a taxi or auto into town regardless of where you're headed.
+The garden sits in Panchwati, on the northern edge of central Udaipur, about a 15-20 minute walk or a short auto-rickshaw ride from the City Palace and Lake Pichola waterfront. Most autos and cab apps know it by name. If you're staying near Fateh Sagar Lake, it's genuinely walkable — the lake's eastern promenade leads almost directly to the garden entrance.
+
+There's no train or metro link relevant here; Udaipur's airport (Maharana Pratap Airport, roughly 25km away) and railway station both require a taxi or auto into town regardless of where you're headed.
 
 ## What to see and do
 
-Inside, four marble pools dominate the layout, each fed by fountains originally powered by a Persian-wheel water system pulling from a nearby lake. Look for the small museum near the entrance holding old photographs and royal memorabilia — easy to miss but worth five minutes. The central pond has a fountain island reachable by a narrow causeway, a good spot to pause. Peacocks wander the grounds and are surprisingly unbothered by visitors, so keep a slow pace if you want a clean photo. There's also a small zoo and an aviary section that families with kids tend to gravitate toward, though the birds and marble work are the real draw. Give yourself 45 minutes for a brisk pass, closer to an hour if you want to sit by the lotus pool and let the fountains run.
+Inside, four marble pools dominate the layout, each fed by fountains originally powered by a Persian-wheel water system pulling from a nearby lake. Look for the small museum near the entrance holding old photographs and royal memorabilia — easy to miss but worth five minutes. The central pond has a fountain island reachable by a narrow causeway, a good spot to pause.
+
+Peacocks wander the grounds and are surprisingly unbothered by visitors, so keep a slow pace if you want a clean photo. There's also a small zoo and an aviary section that families with kids tend to gravitate toward, though the birds and marble work are the real draw. Give yourself 45 minutes for a brisk pass, closer to an hour if you want to sit by the lotus pool and let the fountains run.
 
 ## When to go
 
-With 4.4 stars across more than 23,000 reviews, this is one of Udaipur's most visited sights, and it shows — tour groups arrive in waves through the late morning and afternoon. The garden is at its most photogenic just after sunrise opening or in the hour before sunset, when the light rakes low across the marble and the crowds thin out. Winter mornings (November to February) are pleasant for lingering; in the peak summer months (April-June) the marble kiosks offer welcome shade but midday heat is intense, so aim for early morning instead.
+With 4.4 stars across more than 23,000 reviews, this is one of Udaipur's most visited sights, and it shows — tour groups arrive in waves through the late morning and afternoon. The garden is at its most photogenic just after sunrise opening or in the hour before sunset, when the light rakes low across the marble and the crowds thin out.
+
+Winter mornings (November to February) are pleasant for lingering; in the peak summer months (April-June) the marble kiosks offer welcome shade but midday heat is intense, so aim for early morning instead.
 
 ## How to visit like a local
 
-This is a very popular stop on every Udaipur itinerary, so plan around the crowds rather than expecting solitude. Arrive right at opening — the gates typically open early morning — to get a half hour of relatively quiet paths before the tour buses pull in. Entry is via a ticket counter at the gate; there's usually a separate, lower fee for Indian nationals and a higher one for foreign visitors, plus a small additional charge if you're carrying a camera, so keep small cash on hand since card machines aren't always reliable here. Wear shoes you can walk in on stone paths that get slick near the fountains, and don't try to feed or crowd the peacocks — they roam freely and locals mostly just let them be. The mistake most first-time visitors make is treating this as a half-day outing; it's a tight, self-contained garden, not a palace complex, so pair it in the same trip with Fateh Sagar Lake or the Bagore ki Haveli rather than budgeting an entire morning for it alone.
+This is a very popular stop on every Udaipur itinerary, so plan around the crowds rather than expecting solitude. Arrive right at opening — the gates typically open early morning — to get a half hour of relatively quiet paths before the tour buses pull in. Entry is via a ticket counter at the gate; there's usually a separate, lower fee for Indian nationals and a higher one for foreign visitors, plus a small additional charge if you're carrying a camera, so keep small cash on hand since card machines aren't always reliable here.
+
+Wear shoes you can walk in on stone paths that get slick near the fountains, and don't try to feed or crowd the peacocks — they roam freely and locals mostly just let them be. The mistake most first-time visitors make is treating this as a half-day outing; it's a tight, self-contained garden, not a palace complex, so pair it in the same trip with Fateh Sagar Lake or the Bagore ki Haveli rather than budgeting an entire morning for it alone.
 
 ## Nearby to combine
 

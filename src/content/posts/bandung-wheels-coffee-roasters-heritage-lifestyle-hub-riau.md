@@ -74,11 +74,15 @@ The appeal is the combination: specialty coffee from an in-house roastery, a pho
 
 ## Getting there
 
-The address is Jl. L.L.R.E. Martadinata No. 65, Citarum, Kecamatan Bandung Wetan — squarely in the Riau/Martadinata retail corridor, a few minutes' drive from Bandung's city center and an easy stop if you're already outlet-shopping along the same street (it's known locally simply as "Jalan Riau"). There's no MRT or subway in Bandung, so most visitors arrive by car, taxi, or ride-hailing app (Gojek/Grab), which is the standard way locals get around this part of the city. If you're coming from Gedung Sate or the Dago area, expect roughly a 10–15 minute drive depending on traffic. Street parking and small lots along Jl. Riau fill up quickly on weekends, so allow extra time to park or simply get dropped off at the entrance.
+The address is Jl. L.L.R.E. Martadinata No. 65, Citarum, Kecamatan Bandung Wetan — squarely in the Riau/Martadinata retail corridor, a few minutes' drive from Bandung's city center and an easy stop if you're already outlet-shopping along the same street (it's known locally simply as "Jalan Riau"). There's no MRT or subway in Bandung, so most visitors arrive by car, taxi, or ride-hailing app (Gojek/Grab), which is the standard way locals get around this part of the city.
+
+If you're coming from Gedung Sate or the Dago area, expect roughly a 10–15 minute drive depending on traffic. Street parking and small lots along Jl. Riau fill up quickly on weekends, so allow extra time to park or simply get dropped off at the entrance.
 
 ## What to see and drink
 
-The building itself is the first attraction — expect restored colonial architecture with tiled floors, wooden shutters, and a garden or courtyard area that anchors the "lifestyle hub" branding. Inside, look for the visible roasting setup, since Wheels roasts its own beans and typically showcases single-origin Indonesian coffees (Java, Sumatra, and other archipelago origins are common in Bandung roasteries) alongside signature milk-based drinks. Beyond coffee, the menu generally spans brunch and all-day dining items — think Western-leaning café fare (eggs, pastas, sandwiches) alongside Indonesian favorites — making it workable for a full meal, not just a coffee break.
+The building itself is the first attraction — expect restored colonial architecture with tiled floors, wooden shutters, and a garden or courtyard area that anchors the "lifestyle hub" branding. Inside, look for the visible roasting setup, since Wheels roasts its own beans and typically showcases single-origin Indonesian coffees (Java, Sumatra, and other archipelago origins are common in Bandung roasteries) alongside signature milk-based drinks.
+
+Beyond coffee, the menu generally spans brunch and all-day dining items — think Western-leaning café fare (eggs, pastas, sandwiches) alongside Indonesian favorites — making it workable for a full meal, not just a coffee break.
 
 Because it's branded a "lifestyle hub," there may also be retail or merchandise corners selling roasted beans, brew equipment, or branded goods, so it's worth a slow walk-through rather than heading straight to a table.
 
@@ -88,7 +92,9 @@ Weekday late mornings (roughly 9:30–11:30 AM), before the lunch rush, tend to 
 
 ## How to visit like a local
 
-This is a genuinely busy, high-turnover café rather than a hidden find, so the smartest move is timing, not secrecy. Arrive right at opening or in the mid-morning weekday lull to skip the queue that builds by lunchtime and stays through the afternoon on weekends. Ordering is typically counter-service — queue up, order and pay at the register (cash and cards/QRIS mobile payment are both widely accepted in Bandung cafés), then find a seat or wait for your number to be called. Tipping isn't customary or expected. The most common visitor mistake is treating it as a quick five-minute coffee stop: with the size of the space and the crowds, budget closer to an hour or more, especially if you want a table during peak hours. If you're mainly there for photos of the heritage building, go early before the courtyard fills with seated guests.
+This is a genuinely busy, high-turnover café rather than a hidden find, so the smartest move is timing, not secrecy. Arrive right at opening or in the mid-morning weekday lull to skip the queue that builds by lunchtime and stays through the afternoon on weekends. Ordering is typically counter-service — queue up, order and pay at the register (cash and cards/QRIS mobile payment are both widely accepted in Bandung cafés), then find a seat or wait for your number to be called.
+
+Tipping isn't customary or expected. The most common visitor mistake is treating it as a quick five-minute coffee stop: with the size of the space and the crowds, budget closer to an hour or more, especially if you want a table during peak hours. If you're mainly there for photos of the heritage building, go early before the courtyard fills with seated guests.
 
 ## Nearby
 

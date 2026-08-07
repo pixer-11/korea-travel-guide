@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You smell Chuncheon's signature dish before you see it — a sweet-hot cloud of gochujang, garlic, and sesame oil drifting out from doorways along the streets near the city's dakgalbi alley. This is the town where dakgalbi was invented, sometime in the 1960s, when cheap cuts of chicken were marinated in chili paste and grilled tableside as an affordable alternative to pork galbi. Every restaurant here claims its own version is the original, and 1.5 Dakgalbi has built a loyal following with its take on the classic.
 
 ## Why go
@@ -79,7 +78,9 @@ Chuncheon without dakgalbi is like Jeonju without bibimbap — you're missing th
 
 ## What to eat
 
-Dakgalbi here follows the traditional format: boneless chicken thigh tossed in a bright red marinade, cooked at the table on a huge flat pan alongside cabbage, sweet potato, tteok (rice cakes), and perilla leaves. You watch the staff toss and fold everything with long spatulas until the chicken chars slightly at the edges and the vegetables go glossy with sauce. Order it for two or more — this isn't a solo dish, and portions are built around groups splitting a shared pan. Once the chicken and vegetables are mostly gone, ask for bokkeumbap: the staff will stir fried rice, seaweed flakes, and sometimes cheese directly into the leftover sauce coating the pan, scraping up every bit of caramelized flavor left behind. It's the unofficial second act of any dakgalbi meal and arguably the best part.
+Dakgalbi here follows the traditional format: boneless chicken thigh tossed in a bright red marinade, cooked at the table on a huge flat pan alongside cabbage, sweet potato, tteok (rice cakes), and perilla leaves. You watch the staff toss and fold everything with long spatulas until the chicken chars slightly at the edges and the vegetables go glossy with sauce.
+
+Order it for two or more — this isn't a solo dish, and portions are built around groups splitting a shared pan. Once the chicken and vegetables are mostly gone, ask for bokkeumbap: the staff will stir fried rice, seaweed flakes, and sometimes cheese directly into the leftover sauce coating the pan, scraping up every bit of caramelized flavor left behind. It's the unofficial second act of any dakgalbi meal and arguably the best part.
 
 ## Getting there
 
@@ -91,7 +92,9 @@ According to measured foot-traffic patterns, this restaurant stays comparatively
 
 ## How to visit like a local
 
-Order at the counter or table by naming the dish simply as "dakgalbi" (닭갈비) and specifying how many people are eating — portions are typically priced per person and cooked together in one shared pan, so the group decides together rather than ordering individual plates. Expect to pay by card or cash, both widely accepted. There's usually no reservation system for casual dakgalbi spots like this one; it's a walk-in, take-a-number-and-wait kind of place, especially on weekend evenings, so if you're visiting at peak time, put your name down and browse the surrounding shops rather than standing at the door. Don't rush the pan — waiting for the chicken to properly char at the edges before eating makes a real difference, and resist scooping bokkeumbap in too early since it needs the sauce to reduce first. The most common mistake tourists make is ordering too little; dakgalbi is meant to be a slow, communal meal with rice cake, extra rice, and drinks stretching it out over an hour or more, not a quick single-plate stop.
+Order at the counter or table by naming the dish simply as "dakgalbi" (닭갈비) and specifying how many people are eating — portions are typically priced per person and cooked together in one shared pan, so the group decides together rather than ordering individual plates. Expect to pay by card or cash, both widely accepted. There's usually no reservation system for casual dakgalbi spots like this one; it's a walk-in, take-a-number-and-wait kind of place, especially on weekend evenings, so if you're visiting at peak time, put your name down and browse the surrounding shops rather than standing at the door.
+
+Don't rush the pan — waiting for the chicken to properly char at the edges before eating makes a real difference, and resist scooping bokkeumbap in too early since it needs the sauce to reduce first. The most common mistake tourists make is ordering too little; dakgalbi is meant to be a slow, communal meal with rice cake, extra rice, and drinks stretching it out over an hour or more, not a quick single-plate stop.
 
 ## Good to know nearby
 

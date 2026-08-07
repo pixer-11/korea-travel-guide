@@ -79,7 +79,9 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Ajman Museum is one of the few places in the emirate where you can see the region's pre-oil history laid out in one compact site. The building itself is the main artifact: a restored 18th-century fort that once served as the ruling Al Nuaimi family's residence and, later, as the local police headquarters before it was converted into a museum in the 1980s. Inside, the collection covers archaeological finds from Ajman's Bronze and Iron Age sites, the pearl-diving trade that sustained the coast before oil, traditional weaponry (khanjars, swords, and old rifles), and reconstructed scenes of everyday Emirati life — a souq, a majlis, a traditional school (kuttab), and a bride's preparation room with period jewelry and dress.
+Ajman Museum is one of the few places in the emirate where you can see the region's pre-oil history laid out in one compact site. The building itself is the main artifact: a restored 18th-century fort that once served as the ruling Al Nuaimi family's residence and, later, as the local police headquarters before it was converted into a museum in the 1980s.
+
+Inside, the collection covers archaeological finds from Ajman's Bronze and Iron Age sites, the pearl-diving trade that sustained the coast before oil, traditional weaponry (khanjars, swords, and old rifles), and reconstructed scenes of everyday Emirati life — a souq, a majlis, a traditional school (kuttab), and a bride's preparation room with period jewelry and dress.
 
 It's not a huge museum, and that's part of its appeal for visitors short on time — you get a genuine sense of pre-modern Gulf life without needing half a day.
 
@@ -89,7 +91,9 @@ The museum sits in Al Bustan, close to Ajman's Corniche and the old town center,
 
 ## What to see inside
 
-Budget 45 minutes to an hour. Highlights include the courtyard and watchtowers of the original fort structure, still showing the coral-stone and gypsum construction typical of pre-20th-century Gulf buildings; a room dedicated to the pearling industry, with diving tools and displays explaining how pearl merchants and divers worked the Gulf waters before Japanese cultured pearls collapsed the trade in the 1930s; and an armory room with a dense wall of curved daggers and swords. Don't rush past the reconstructed traditional rooms — the majlis and kitchen setups, with mannequins in period dress, do more to convey daily life than the object cases alone.
+Budget 45 minutes to an hour. Highlights include the courtyard and watchtowers of the original fort structure, still showing the coral-stone and gypsum construction typical of pre-20th-century Gulf buildings; a room dedicated to the pearling industry, with diving tools and displays explaining how pearl merchants and divers worked the Gulf waters before Japanese cultured pearls collapsed the trade in the 1930s; and an armory room with a dense wall of curved daggers and swords.
+
+Don't rush past the reconstructed traditional rooms — the majlis and kitchen setups, with mannequins in period dress, do more to convey daily life than the object cases alone.
 
 ## When to go
 
@@ -97,7 +101,11 @@ Late morning on a weekday is the quietest window, since tour buses and school gr
 
 ## How to visit like a local
 
-Ajman Museum is well-known rather than obscure, so don't expect an empty building — but crowd patterns are predictable and easy to work around. Arrive at opening or in the last hour before closing to dodge the coach-tour window, and note that ticket booths in Ajman's municipal attractions typically accept both cash (UAE dirhams) and card, so either works. There's rarely a long queue, but if a school group arrives, it's worth touring the galleries in reverse order to stay ahead of the crowd rather than waiting behind it. Modest dress is appreciated, as it's a heritage and government-run site rather than a purely tourist attraction. The most common visitor mistake is treating it as a quick photo stop and skipping the placards — the English-language signage is genuinely informative on pearl-trade economics and Ajman's role in regional trade, and reading it turns a 15-minute walkthrough into a proper hour. Photography is generally allowed in the courtyard and most galleries, but flash near textiles and old manuscripts is best avoided.
+Ajman Museum is well-known rather than obscure, so don't expect an empty building — but crowd patterns are predictable and easy to work around. Arrive at opening or in the last hour before closing to dodge the coach-tour window, and note that ticket booths in Ajman's municipal attractions typically accept both cash (UAE dirhams) and card, so either works. There's rarely a long queue, but if a school group arrives, it's worth touring the galleries in reverse order to stay ahead of the crowd rather than waiting behind it.
+
+Modest dress is appreciated, as it's a heritage and government-run site rather than a purely tourist attraction. The most common visitor mistake is treating it as a quick photo stop and skipping the placards — the English-language signage is genuinely informative on pearl-trade economics and Ajman's role in regional trade, and reading it turns a 15-minute walkthrough into a proper hour.
+
+Photography is generally allowed in the courtyard and most galleries, but flash near textiles and old manuscripts is best avoided.
 
 ## Nearby to combine with the visit
 

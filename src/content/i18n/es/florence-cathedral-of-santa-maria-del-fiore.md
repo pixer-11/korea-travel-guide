@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-cathedral-of-santa-maria-del-fiore
-srcHash: 'c4192d8f9692'
+srcHash: '7dee848a824b'
 title: 'Catedral de Santa Maria del Fiore: Guía de viaje de Florencia'
 description: El Duomo (Catedral de Santa Maria del Fiore) es la catedral de entrada gratuita de Florencia, coronada por la cúpula de tejas rojas de Brunelleschi; subir a la cúpula o al Campanile de Giotto requiere una entrada con horario reservada con antelación.
 quickAnswer: El Duomo (Catedral de Santa Maria del Fiore) es la catedral de entrada gratuita de Florencia, coronada por la cúpula de tejas rojas de Brunelleschi; subir a la cúpula o al Campanile de Giotto requiere una entrada con horario reservada con antelación. Calcula entre 30 y 45 minutos solo para el interior de la iglesia, o medio día si combinas la subida a la cúpula, el baptisterio y el museo. Ve justo a la apertura (10:15) o en la última hora antes del cierre para evitar la peor afluencia en la Piazza del Duomo.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Santa Maria del Fiore, conocida universalmente como el Duomo, es la cuarta iglesia más grande de Europa y el símbolo de la ambición renacentista de Florencia. Se comenzó en 1296 según un diseño de Arnolfo di Cambio, y no se terminó hasta casi 150 años después: el verdadero hito llegó en 1436, cuando Filippo Brunelleschi completó la cúpula octogonal de ladrillo sin andamiaje de apoyo, usando un diseño autoportante de doble cascarón que era inédito en su época y que sigue siendo la mayor cúpula de mampostería jamás construida. La fachada de mármol rosa, blanco y verde que se ve hoy es en realidad una incorporación del siglo XIX (1876-1887) obra de Emilio De Fabris; la original medieval fue derribada sin terminar en la década de 1580. Con una valoración de 4.8 por más de 110,000 visitantes, es uno de los lugares más reseñados de Italia, y con razón: este es el corazón cívico de Florencia, no solo un decorado para fotos.
+Santa Maria del Fiore, conocida universalmente como el Duomo, es la cuarta iglesia más grande de Europa y el símbolo de la ambición renacentista de Florencia. Se comenzó en 1296 según un diseño de Arnolfo di Cambio, y no se terminó hasta casi 150 años después: el verdadero hito llegó en 1436, cuando Filippo Brunelleschi completó la cúpula octogonal de ladrillo sin andamiaje de apoyo, usando un diseño autoportante de doble cascarón que era inédito en su época y que sigue siendo la mayor cúpula de mampostería jamás construida.
+
+La fachada de mármol rosa, blanco y verde que se ve hoy es en realidad una incorporación del siglo XIX (1876-1887) obra de Emilio De Fabris; la original medieval fue derribada sin terminar en la década de 1580. Con una valoración de 4.8 por más de 110,000 visitantes, es uno de los lugares más reseñados de Italia, y con razón: este es el corazón cívico de Florencia, no solo un decorado para fotos.
 
 ## Cómo llegar
 
-La catedral se encuentra en la Piazza del Duomo, en el centro histórico peatonal, así que ningún vehículo puede acercarse. Desde la estación de tren de Santa Maria Novella es una caminata llana de 10 minutos por Via de' Panzani y Via de' Cerretani. En autobús, las líneas C1 y C2 paran cerca de la plaza. Si llegas en tren regional, baja en Firenze S.M.N., no en las estaciones más alejadas de Firenze Rifredi o Campo di Marte. El centro de Florencia no cuenta con una red de metro propia, así que caminar es realmente la opción más rápida desde la mayoría de los hoteles del centro storico.
+La catedral se encuentra en la Piazza del Duomo, en el centro histórico peatonal, así que ningún vehículo puede acercarse. Desde la estación de tren de Santa Maria Novella es una caminata llana de 10 minutos por Via de' Panzani y Via de' Cerretani. En autobús, las líneas C1 y C2 paran cerca de la plaza. Si llegas en tren regional, baja en Firenze S.M.N., no en las estaciones más alejadas de Firenze Rifredi o Campo di Marte.
+
+El centro de Florencia no cuenta con una red de metro propia, así que caminar es realmente la opción más rápida desde la mayoría de los hoteles del centro storico.
 
 ## Qué ver
 
@@ -32,7 +36,9 @@ La iglesia en sí —nave, coro y cripta— es de entrada gratuita, aunque hay q
 
 Sin embargo, lo más destacado requiere planificación: subir los 463 escalones dentro de la cúpula de Brunelleschi te lleva a una galería estrecha en la base de la linterna, con una vista de cerca de los frescos del Juicio Final durante el ascenso y un panorama de 360 grados de los tejados de terracota de Florencia en la cima. Esta subida es estrecha, de un solo sentido, y no se recomienda para quienes sufren de claustrofobia o tienen movilidad reducida; además, requiere una entrada con horario reservada en línea con antelación, a menudo con semanas de adelanto en temporada alta.
 
-Justo al lado, el Campanile de Giotto (torre campanario, iniciada en 1334) ofrece una vista comparable subiendo 414 escalones y suele tener esperas más cortas que la cúpula. El Baptisterio de San Giovanni, de planta octogonal, justo enfrente en la plaza, alberga las puertas doradas de bronce de Ghiberti, la "Puerta del Paraíso" (los originales se encuentran en el cercano Museo dell'Opera del Duomo), y es donde fue bautizado el propio Dante. Una entrada combinada que cubre la cúpula, la torre, el baptisterio, la cripta y el museo es la forma habitual en que la mayoría de los visitantes recorre el complejo, ya que la subida a la cúpula viene incluida junto con el resto.
+Justo al lado, el Campanile de Giotto (torre campanario, iniciada en 1334) ofrece una vista comparable subiendo 414 escalones y suele tener esperas más cortas que la cúpula. El Baptisterio de San Giovanni, de planta octogonal, justo enfrente en la plaza, alberga las puertas doradas de bronce de Ghiberti, la "Puerta del Paraíso" (los originales se encuentran en el cercano Museo dell'Opera del Duomo), y es donde fue bautizado el propio Dante.
+
+Una entrada combinada que cubre la cúpula, la torre, el baptisterio, la cripta y el museo es la forma habitual en que la mayoría de los visitantes recorre el complejo, ya que la subida a la cúpula viene incluida junto con el resto.
 
 ## Cuándo ir
 
@@ -40,4 +46,6 @@ Ir a primera hora, justo a la apertura de la catedral (10:15 en las últimas tem
 
 ## Cerca de allí y consejos
 
-El complejo se encuentra a dos minutos a pie de la Loggia del Bigallo y de las calles comerciales peatonales Via de' Calzaiuoli y Via Roma, que llevan directamente a la Piazzale degli Uffizi y al Ponte Vecchio. La Gelateria dei Neri y varios bares de café para tomar de pie alrededor de la plaza son buenas opciones para descansos cortos entre visitas. Como las entradas para la cúpula tienen horario fijo y no son transferibles, reserva tu franja horaria antes de terminar de planear el resto del itinerario del día: es la única parte de una visita al Duomo que no se puede improvisar.
+El complejo se encuentra a dos minutos a pie de la Loggia del Bigallo y de las calles comerciales peatonales Via de' Calzaiuoli y Via Roma, que llevan directamente a la Piazzale degli Uffizi y al Ponte Vecchio. La Gelateria dei Neri y varios bares de café para tomar de pie alrededor de la plaza son buenas opciones para descansos cortos entre visitas.
+
+Como las entradas para la cúpula tienen horario fijo y no son transferibles, reserva tu franja horaria antes de terminar de planear el resto del itinerario del día: es la única parte de una visita al Duomo que no se puede improvisar.

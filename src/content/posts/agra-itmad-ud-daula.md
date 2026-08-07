@@ -55,7 +55,9 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You come to Itmad-ud-Daula expecting a warm-up act for the Taj Mahal and leave realizing it's the more intimate, more finely worked building of the two. Built between 1622 and 1628 by Nur Jahan, wife of Emperor Jahangir, as a tomb for her father Mirza Ghiyas Beg — the courtier titled Itmad-ud-Daula, or "Pillar of the State" — this was the first Mughal structure built entirely of white marble rather than red sandstone, and the first to use pietra dura, the inlay technique of semi-precious stone set into marble that would later reach its peak at the Taj. Historians consider it the architectural bridge between the two eras, and once you're standing in front of its lattice-screened walls, that lineage is obvious.
+You come to Itmad-ud-Daula expecting a warm-up act for the Taj Mahal and leave realizing it's the more intimate, more finely worked building of the two. Built between 1622 and 1628 by Nur Jahan, wife of Emperor Jahangir, as a tomb for her father Mirza Ghiyas Beg — the courtier titled Itmad-ud-Daula, or "Pillar of the State" — this was the first Mughal structure built entirely of white marble rather than red sandstone, and the first to use pietra dura, the inlay technique of semi-precious stone set into marble that would later reach its peak at the Taj.
+
+Historians consider it the architectural bridge between the two eras, and once you're standing in front of its lattice-screened walls, that lineage is obvious.
 
 ## Why go
 
@@ -63,11 +65,15 @@ The building is small enough to actually absorb rather than just photograph. Whe
 
 ## Getting there
 
-The mausoleum sits in Moti Bagh on Agra's eastern riverbank, across the Yamuna from the main Taj Mahal complex — a different bank, so budget real travel time between the two rather than assuming a quick hop. Most visitors reach it by auto-rickshaw, taxi, or app-based cab from Sadar Bazaar, Agra Cantonment railway station, or Taj East Gate; the ride typically runs 20-25 minutes depending on traffic and your starting point. There's no direct metro line to the monument itself, so a rickshaw or pre-booked car is the practical option for international visitors.
+The mausoleum sits in Moti Bagh on Agra's eastern riverbank, across the Yamuna from the main Taj Mahal complex — a different bank, so budget real travel time between the two rather than assuming a quick hop. Most visitors reach it by auto-rickshaw, taxi, or app-based cab from Sadar Bazaar, Agra Cantonment railway station, or Taj East Gate; the ride typically runs 20-25 minutes depending on traffic and your starting point.
+
+There's no direct metro line to the monument itself, so a rickshaw or pre-booked car is the practical option for international visitors.
 
 ## What to see once inside
 
-Pass through the sandstone entrance gate and the garden opens up around the central marble platform. Circle the exterior first — the inlay work varies panel by panel, and the corner towers (chhatris) are worth the few extra minutes to notice their surviving colored-stone detail, some of it repeated up close on the tomb's exterior dado panels. Inside, the burial chamber holds the cenotaphs of Mirza Ghiyas Beg and his wife, dimly lit through the carved marble screens, with painted ceiling panels that have faded but still show gold and ochre floral motifs. Because the whole site is compact, most visitors comfortably see everything in 45 minutes to an hour and a half, including a slow lap of the garden paths along the river-facing side, where you get an unobstructed view toward the Taj Mahal's dome downstream.
+Pass through the sandstone entrance gate and the garden opens up around the central marble platform. Circle the exterior first — the inlay work varies panel by panel, and the corner towers (chhatris) are worth the few extra minutes to notice their surviving colored-stone detail, some of it repeated up close on the tomb's exterior dado panels. Inside, the burial chamber holds the cenotaphs of Mirza Ghiyas Beg and his wife, dimly lit through the carved marble screens, with painted ceiling panels that have faded but still show gold and ochre floral motifs.
+
+Because the whole site is compact, most visitors comfortably see everything in 45 minutes to an hour and a half, including a slow lap of the garden paths along the river-facing side, where you get an unobstructed view toward the Taj Mahal's dome downstream.
 
 ## When to go
 
@@ -75,4 +81,8 @@ This is a heavily visited monument, so the crowd, not the building, is what dete
 
 ## How to visit like a local
 
-Buy your ticket at the counter or via the official online booking system rather than through touts stationed near the gate — this is a well-known monument and unofficial "guides" and ticket sellers cluster around popular Agra sites. Carry small cash for the entry fee and for shoe-cover or locker fees at the gate, though card and UPI payment options are increasingly available; confirm current ticket prices and opening hours before you go, since both are revised periodically. Since this site draws heavy tourist traffic, the single biggest local-savvy move is arriving right at opening rather than mid-morning, when tour buses coming from the Taj Mahal start funneling visitors across the river. Dress modestly and remove shoes or wear the provided covers where marked, keep voices low near the cenotaph chamber, and resist touching the inlay panels — oils from hands degrade the stone over centuries of repeated contact. Pair the visit with Chini ka Rauza or Mehtab Bagh, both a short ride further along the same riverbank, to make a fuller half-day loop on the quieter east side of the Yamuna.
+Buy your ticket at the counter or via the official online booking system rather than through touts stationed near the gate — this is a well-known monument and unofficial "guides" and ticket sellers cluster around popular Agra sites. Carry small cash for the entry fee and for shoe-cover or locker fees at the gate, though card and UPI payment options are increasingly available; confirm current ticket prices and opening hours before you go, since both are revised periodically.
+
+Since this site draws heavy tourist traffic, the single biggest local-savvy move is arriving right at opening rather than mid-morning, when tour buses coming from the Taj Mahal start funneling visitors across the river. Dress modestly and remove shoes or wear the provided covers where marked, keep voices low near the cenotaph chamber, and resist touching the inlay panels — oils from hands degrade the stone over centuries of repeated contact.
+
+Pair the visit with Chini ka Rauza or Mehtab Bagh, both a short ride further along the same riverbank, to make a fuller half-day loop on the quieter east side of the Yamuna.

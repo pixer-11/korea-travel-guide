@@ -57,7 +57,9 @@ This is a coffee-first venue — the kind of place built around a specialty menu
 
 ## Getting there
 
-The Seat Cafe's address resolves to the Plus Code CJ2C+CF2 in Al Heliow, Ajman — a helpful reference to punch directly into Google Maps or Apple Maps if you're driving, since street addressing in this part of Ajman can be inconsistent. Ajman doesn't have a metro system, so the practical options are a taxi (easily hailed via the Careem app, which is the dominant ride-hailing platform across the UAE) or a private car if you're coming from Dubai or Sharjah, both roughly 30–45 minutes away via Sheikh Mohammed Bin Zayed Road. Parking in Al Heliow is generally easier than in Ajman's more congested downtown core near the Corniche, so driving yourself is a reasonable option if you're already road-tripping along the Emirates.
+The Seat Cafe's address resolves to the Plus Code CJ2C+CF2 in Al Heliow, Ajman — a helpful reference to punch directly into Google Maps or Apple Maps if you're driving, since street addressing in this part of Ajman can be inconsistent. Ajman doesn't have a metro system, so the practical options are a taxi (easily hailed via the Careem app, which is the dominant ride-hailing platform across the UAE) or a private car if you're coming from Dubai or Sharjah, both roughly 30–45 minutes away via Sheikh Mohammed Bin Zayed Road.
+
+Parking in Al Heliow is generally easier than in Ajman's more congested downtown core near the Corniche, so driving yourself is a reasonable option if you're already road-tripping along the Emirates.
 
 ## What to see and try
 
@@ -71,4 +73,8 @@ Weekday mornings (roughly 9–11am) tend to be the calmest window, before lunch 
 
 ## How to visit like a local
 
-Arrive either mid-morning on a weekday or later in the evening, after 8pm — both windows tend to be quieter than the Thursday-to-Saturday evening rush, which is when Ajman's café scene fills up fastest (the UAE's weekend runs Friday–Saturday, with Thursday evening functioning as the unofficial start). Payment across UAE cafés is overwhelmingly cashless — tap-to-pay with a card or phone is standard, and you won't be expected to tip in cash, though rounding up or leaving a small tip via the card terminal is appreciated rather than obligatory. There's typically no formal booking system for a casual coffee shop like this one; it operates on a walk-in basis, so if you see a queue, it moves quickly since turnover at counter-service cafés is fast. The most common visitor mistake is treating it as a full sit-down restaurant destination and arriving hungry for a big meal — go in with coffee as the main event and food as a side note, and you'll match the venue's actual strength. Since it's still under the radar rather than overrun, there's no need to rush a reservation or arrive right at opening — a relaxed, unhurried approach fits the café's own pace.
+Arrive either mid-morning on a weekday or later in the evening, after 8pm — both windows tend to be quieter than the Thursday-to-Saturday evening rush, which is when Ajman's café scene fills up fastest (the UAE's weekend runs Friday–Saturday, with Thursday evening functioning as the unofficial start). Payment across UAE cafés is overwhelmingly cashless — tap-to-pay with a card or phone is standard, and you won't be expected to tip in cash, though rounding up or leaving a small tip via the card terminal is appreciated rather than obligatory.
+
+There's typically no formal booking system for a casual coffee shop like this one; it operates on a walk-in basis, so if you see a queue, it moves quickly since turnover at counter-service cafés is fast. The most common visitor mistake is treating it as a full sit-down restaurant destination and arriving hungry for a big meal — go in with coffee as the main event and food as a side note, and you'll match the venue's actual strength.
+
+Since it's still under the radar rather than overrun, there's no need to rush a reservation or arrive right at opening — a relaxed, unhurried approach fits the café's own pace.

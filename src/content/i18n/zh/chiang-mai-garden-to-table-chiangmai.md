@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: chiang-mai-garden-to-table-chiangmai
-srcHash: '03d358c5ce48'
+srcHash: '03b05da03ddc'
 title: Garden to Table Chiangmai：清迈美食指南（4.9★）
 description: Garden to Table Chiangmai 是一家位于古城内 Ratchapakhinai Road 上的休闲绿植餐厅，以新鲜的泰式及北部（兰纳）料理和亲民的街头美食价格著称。4.9★（1,961条评价）——看看游客怎么说、营业时间及实用建议。
 quickAnswer: Garden to Table Chiangmai 是一家位于古城墙内 Ratchapakhinai Road 上的休闲绿植餐厅，以新鲜的泰式及北部（兰纳）料理、亲民的街头美食价格而深受喜爱。从这里步行到 Wat Phra Singh 和塔佩门（Thapae Gate）都很近，可以把用餐和逛寺庙串联起来。建议在开门时段（下午2点）或早一点吃晚餐时前往，否则很可能要排队，因为它凭借近2,000条评价、4.9的高分，成为周边最热门的餐厅之一。要注意的是，这家店周日不营业。
@@ -45,4 +45,6 @@ Ratchapakhinai Road 大致呈南北走向，位于古城西半部，与 Phra Pok
 
 ## 周边景点与实用建议
 
-如果你的行程恰好赶上周日晚上，仍然可以前往 Ratchadamnoen Road 上的周日夜市（Sunday Walking Street market）游览——只是要注意 Garden to Table 本身周日不营业，所以用餐计划请安排在旅程中的其他日子。Wat Chedi Luang 和 Wat Phra Singh 都在步行可达范围内，可以安排在同一个下午一并游览。由于这家餐厅口碑好、价格又实惠，游客和本地人都很爱光顾，位置很容易被占满；如果有预订选项，提前预订，或者避开常规用餐时段前往，都能省去排队的麻烦。和清迈大多数独立经营的餐厅一样，这里虽然支持刷卡，但现金仍是更受欢迎的支付方式，所以随身带一些泰铢现金比较稳妥。
+如果你的行程恰好赶上周日晚上，仍然可以前往 Ratchadamnoen Road 上的周日夜市（Sunday Walking Street market）游览——只是要注意 Garden to Table 本身周日不营业，所以用餐计划请安排在旅程中的其他日子。Wat Chedi Luang 和 Wat Phra Singh 都在步行可达范围内，可以安排在同一个下午一并游览。由于这家餐厅口碑好、价格又实惠，游客和本地人都很爱光顾，位置很容易被占满；如果有预订选项，提前预订，或者避开常规用餐时段前往，都能省去排队的麻烦。
+
+和清迈大多数独立经营的餐厅一样，这里虽然支持刷卡，但现金仍是更受欢迎的支付方式，所以随身带一些泰铢现金比较稳妥。

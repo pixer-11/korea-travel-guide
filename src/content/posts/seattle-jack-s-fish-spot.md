@@ -73,7 +73,9 @@ draft: false
 
 ## Why go
 
-Pike Place Market is thick with seafood stalls selling flying salmon and souvenir T-shirts, but Jack's Fish Spot is the one where the market's own fishmongers and downtown office workers actually queue for lunch. There's no dining room to speak of — just a glass counter stacked with ice, live tanks bubbling with Dungeness crab and geoduck, and a chalkboard menu that changes with what came off the boats that morning. You order at the counter, someone in an apron and rubber boots hands you a paper boat of food, and you find a spot on the market's back railing overlooking Elliott Bay to eat it.
+Pike Place Market is thick with seafood stalls selling flying salmon and souvenir T-shirts, but Jack's Fish Spot is the one where the market's own fishmongers and downtown office workers actually queue for lunch. There's no dining room to speak of — just a glass counter stacked with ice, live tanks bubbling with Dungeness crab and geoduck, and a chalkboard menu that changes with what came off the boats that morning.
+
+You order at the counter, someone in an apron and rubber boots hands you a paper boat of food, and you find a spot on the market's back railing overlooking Elliott Bay to eat it.
 
 ## Getting there
 
@@ -81,15 +83,23 @@ The stall sits at 1514 Pike Pl, right in the thick of the market's main arcade, 
 
 ## What to eat
 
-The clam chowder is the anchor order: a thick, cream-based bowl studded with real clams, served in a bread bowl if you want the extra carbs. From there, the fun is in the shellfish — a crab cocktail with lump Dungeness meat, a dozen oysters shucked to order, or a smoked salmon sandwich that leans more savory than sweet. If you're feeling adventurous, the tanks up front hold live geoduck and spot prawns, and the staff will steam a whole crab for you to pick apart at one of the few stand-up counters nearby. Portions are sized for a market lunch, not a sit-down dinner — this is a stop between browsing produce stalls, not a leisurely meal.
+The clam chowder is the anchor order: a thick, cream-based bowl studded with real clams, served in a bread bowl if you want the extra carbs. From there, the fun is in the shellfish — a crab cocktail with lump Dungeness meat, a dozen oysters shucked to order, or a smoked salmon sandwich that leans more savory than sweet. If you're feeling adventurous, the tanks up front hold live geoduck and spot prawns, and the staff will steam a whole crab for you to pick apart at one of the few stand-up counters nearby.
+
+Portions are sized for a market lunch, not a sit-down dinner — this is a stop between browsing produce stalls, not a leisurely meal.
 
 ## When to go
 
-Jack's keeps consistent hours, opening early in the morning and closing in the early evening most days. The measured foot traffic backs this up — both weekdays and weekends are calmest across the full 7:30am–6pm window (8am–5pm on Sundays), but crowds build fast once the cruise-ship and tour-bus crowd arrives. On weekends specifically, 11am to 4pm is the peak crush, with lines spilling into the market's main aisle and the counter staff working at full tilt just to keep pace. If you want to actually see the fish being cut rather than just the backs of other tourists' heads, get there within the first hour or two of opening.
+Jack's keeps consistent hours, opening early in the morning and closing in the early evening most days. The measured foot traffic backs this up — both weekdays and weekends are calmest across the full 7:30am–6pm window (8am–5pm on Sundays), but crowds build fast once the cruise-ship and tour-bus crowd arrives. On weekends specifically, 11am to 4pm is the peak crush, with lines spilling into the market's main aisle and the counter staff working at full tilt just to keep pace.
+
+If you want to actually see the fish being cut rather than just the backs of other tourists' heads, get there within the first hour or two of opening.
 
 ## How to visit like a local
 
-This is a well-known market stop, not a hidden find — plenty of regulars and market workers eat here, but so does most of Pike Place's daily foot traffic, so don't expect to have the counter to yourself. The trick locals use is timing: come at opening, before the tour groups arrive, order quickly, and eat standing at the market's outdoor rail rather than waiting for a seat that doesn't really exist. Payment is straightforward — cash or card both work, and there's no real tipping ritual beyond dropping change in the jar if the counter has one, since this is takeout-style service, not a table with a server. Ordering is simple: look at the chalkboard, know roughly what you want before you reach the counter (the line moves fast and staff appreciate a quick decision), and don't be shy about asking what's freshest that day — the answer changes with the tide and the boats. The most common tourist mistake is treating it like a sit-down restaurant and lingering at the counter after ordering; grab your paper boat and free up space for the next person, then find a rail or bench nearby to actually enjoy the food.
+This is a well-known market stop, not a hidden find — plenty of regulars and market workers eat here, but so does most of Pike Place's daily foot traffic, so don't expect to have the counter to yourself. The trick locals use is timing: come at opening, before the tour groups arrive, order quickly, and eat standing at the market's outdoor rail rather than waiting for a seat that doesn't really exist.
+
+Payment is straightforward — cash or card both work, and there's no real tipping ritual beyond dropping change in the jar if the counter has one, since this is takeout-style service, not a table with a server. Ordering is simple: look at the chalkboard, know roughly what you want before you reach the counter (the line moves fast and staff appreciate a quick decision), and don't be shy about asking what's freshest that day — the answer changes with the tide and the boats.
+
+The most common tourist mistake is treating it like a sit-down restaurant and lingering at the counter after ordering; grab your paper boat and free up space for the next person, then find a rail or bench nearby to actually enjoy the food.
 
 ## Nearby to pair it with
 

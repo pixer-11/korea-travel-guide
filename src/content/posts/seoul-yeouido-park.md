@@ -52,23 +52,37 @@ aiGenerated: true
 
 ## Why Yeouido Park
 
-You come out of the subway stairwell and the first thing that hits you is the sky opening up — after the density of central Seoul, this stretch of Yeouido feels almost improbably wide. Yeouido Park runs roughly a kilometer along the island's northern edge, a former plaza-turned-greenway that the city planted over in 1999 after decades as a paved square used for military parades and National Assembly rallies. What's left of that history is just the bones: broad straight paths where you'd expect winding ones, a scale that feels civic rather than intimate. Locals jog it, cycle it, walk dogs on it, and — for about ten days each spring — pack onto it shoulder to shoulder for the cherry blossoms.
+You come out of the subway stairwell and the first thing that hits you is the sky opening up — after the density of central Seoul, this stretch of Yeouido feels almost improbably wide. Yeouido Park runs roughly a kilometer along the island's northern edge, a former plaza-turned-greenway that the city planted over in 1999 after decades as a paved square used for military parades and National Assembly rallies.
+
+What's left of that history is just the bones: broad straight paths where you'd expect winding ones, a scale that feels civic rather than intimate. Locals jog it, cycle it, walk dogs on it, and — for about ten days each spring — pack onto it shoulder to shoulder for the cherry blossoms.
 
 ## What you'll actually see
 
-The park splits into a few distinct zones. Closest to the river is the Korean Traditional Garden, with a small pond, a pavilion, and pine trees arranged the way a Joseon-era scholar's garden might have looked, offering a pocket of quiet even when the rest of the park is busy. Further along, a Culture Square hosts open-air performances and pop-up markets on weekends, while a designated Health Forest and cycling loop cater to the more athletic regulars. But the reason most people show up between late March and early April is the row of cherry trees lining Yunjungno, the road bordering the park's north side — this is the site of the Yeongdeungpo Yeouido Spring Flower Festival, and when the blossoms open, the branches form a pale pink tunnel that draws office workers on lunch break and families with picnic blankets in equal measure. Outside blossom season, the same paths are simply pleasant for a slow walk or a bike ride, with the 63 Building and the National Assembly's green dome visible above the treeline depending on where you're standing.
+The park splits into a few distinct zones. Closest to the river is the Korean Traditional Garden, with a small pond, a pavilion, and pine trees arranged the way a Joseon-era scholar's garden might have looked, offering a pocket of quiet even when the rest of the park is busy. Further along, a Culture Square hosts open-air performances and pop-up markets on weekends, while a designated Health Forest and cycling loop cater to the more athletic regulars.
+
+But the reason most people show up between late March and early April is the row of cherry trees lining Yunjungno, the road bordering the park's north side — this is the site of the Yeongdeungpo Yeouido Spring Flower Festival, and when the blossoms open, the branches form a pale pink tunnel that draws office workers on lunch break and families with picnic blankets in equal measure.
+
+Outside blossom season, the same paths are simply pleasant for a slow walk or a bike ride, with the 63 Building and the National Assembly's green dome visible above the treeline depending on where you're standing.
 
 ## Getting there
 
-Yeouinaru Station on Line 5 sits almost directly beside the park — take Exit 2 or 3 and you're on the grounds within a couple of minutes, cherry trees or riverside promenade depending on which way you turn. Yeouido Station (Lines 5 and 9) is a slightly longer walk but useful if you're combining the park with the IFC Mall or the National Assembly Building. Renting a bike from one of the Ddareungi (Seoul's public bike-share) docks near the station is a popular way to cover the park's length plus the Han River bike path that runs alongside it.
+Yeouinaru Station on Line 5 sits almost directly beside the park — take Exit 2 or 3 and you're on the grounds within a couple of minutes, cherry trees or riverside promenade depending on which way you turn. Yeouido Station (Lines 5 and 9) is a slightly longer walk but useful if you're combining the park with the IFC Mall or the National Assembly Building.
+
+Renting a bike from one of the Ddareungi (Seoul's public bike-share) docks near the station is a popular way to cover the park's length plus the Han River bike path that runs alongside it.
 
 ## When to go
 
-The park is open 24 hours every day, so there's no gate schedule to plan around — but timing still matters enormously here. Cherry blossom season, typically the very end of March into the first week of April, is by far the busiest stretch of the year, with the festival period drawing dense crowds especially in the evening when trees are lit up. Outside that window, weekday mornings are noticeably calmer, and the park is also a genuinely good spot for autumn color in late October and November, with far fewer people competing for the same view.
+The park is open 24 hours every day, so there's no gate schedule to plan around — but timing still matters enormously here. Cherry blossom season, typically the very end of March into the first week of April, is by far the busiest stretch of the year, with the festival period drawing dense crowds especially in the evening when trees are lit up.
+
+Outside that window, weekday mornings are noticeably calmer, and the park is also a genuinely good spot for autumn color in late October and November, with far fewer people competing for the same view.
 
 ## How to visit like a local
 
-Because this is one of Seoul's most heavily visited parks, especially during blossom season, the smartest move is to shift your timing rather than hope for a quiet day. Early morning — before 9am — or after dark once the lights come on but before evening crowds peak gives you space to actually see the trees instead of the backs of other people's phones. There's no admission fee and nothing to book; you simply walk in from any of several entrances along the perimeter. Bikes and pedestrians share separated paths, so stay off the cycling lane if you're on foot — this is the mistake that visibly annoys regular cyclists here. Convenience stores near Yeouinaru Station sell the makings of a simple picnic (kimbap, canned coffee, snacks), which is exactly what most locals do rather than seeking out a sit-down restaurant nearby. If you want the Traditional Garden's quiet pond without the crush, head there first and save the main blossom avenue for last, since that's where the crowd concentrates most.
+Because this is one of Seoul's most heavily visited parks, especially during blossom season, the smartest move is to shift your timing rather than hope for a quiet day. Early morning — before 9am — or after dark once the lights come on but before evening crowds peak gives you space to actually see the trees instead of the backs of other people's phones.
+
+There's no admission fee and nothing to book; you simply walk in from any of several entrances along the perimeter. Bikes and pedestrians share separated paths, so stay off the cycling lane if you're on foot — this is the mistake that visibly annoys regular cyclists here. Convenience stores near Yeouinaru Station sell the makings of a simple picnic (kimbap, canned coffee, snacks), which is exactly what most locals do rather than seeking out a sit-down restaurant nearby.
+
+If you want the Traditional Garden's quiet pond without the crush, head there first and save the main blossom avenue for last, since that's where the crowd concentrates most.
 
 ## Nearby to pair with your visit
 

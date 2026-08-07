@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phuket-phi-phi-islands
-srcHash: f887ce76ae29
+srcHash: 'be01a700ad88'
 title: 'Islas Phi Phi: Guía de viaje de Phuket'
 description: Las Islas Phi Phi son una excursión en barco de un día o de una noche desde Phuket, a las que se llega mejor en lancha rápida (aproximadamente 1–1,5 horas cada trayecto) desde el muelle de Rassada (Rassada Pier) o el muelle de Chalong (Chalong Pier).
 quickAnswer: Las Islas Phi Phi son una excursión en barco de un día o de una noche desde Phuket, a las que se llega mejor en lancha rápida (aproximadamente 1–1,5 horas cada trayecto) desde el muelle de Rassada (Rassada Pier) o el muelle de Chalong (Chalong Pier). Ve por Maya Bay, los acantilados de piedra caliza de Phi Phi Leh y el snorkel en la laguna Pileh (Pileh Lagoon); reserva un día completo si no te vas a quedar a pasar la noche. Reserva un tour o el ferry con uno o dos días de antelación, especialmente en temporada alta (noviembre–abril).
@@ -20,13 +20,17 @@ faq:
 
 ## Por qué ir
 
-A pesar de la etiqueta "Phuket", las Islas Phi Phi pertenecen administrativamente a la provincia de Krabi; sin embargo, Phuket es el punto de partida más común para los visitantes, y la mayoría de los tours y ferris se comercializan desde allí. El atractivo es sencillo: acantilados de piedra caliza que se elevan directamente desde el agua turquesa, playas de arena fina como polvo y calas tan cristalinas que se puede ver el fondo marino a varios metros de profundidad. Con una calificación de 4,6 en más de 7.600 reseñas, es constantemente uno de los paisajes marinos más fotografiados del sudeste asiático: los acantilados de Phi Phi Leh aparecieron en la película de 2000 *The Beach* (La playa), filmada en Maya Bay.
+A pesar de la etiqueta "Phuket", las Islas Phi Phi pertenecen administrativamente a la provincia de Krabi; sin embargo, Phuket es el punto de partida más común para los visitantes, y la mayoría de los tours y ferris se comercializan desde allí. El atractivo es sencillo: acantilados de piedra caliza que se elevan directamente desde el agua turquesa, playas de arena fina como polvo y calas tan cristalinas que se puede ver el fondo marino a varios metros de profundidad.
+
+Con una calificación de 4,6 en más de 7.600 reseñas, es constantemente uno de los paisajes marinos más fotografiados del sudeste asiático: los acantilados de Phi Phi Leh aparecieron en la película de 2000 *The Beach* (La playa), filmada en Maya Bay.
 
 El archipiélago está formado por seis islas, pero dos son las que interesan a los visitantes: Ko Phi Phi Don, la única habitada, con hospedajes, muelles y un pueblo transitable a pie construido sobre un banco de arena entre dos colinas; y Ko Phi Phi Leh, deshabitada, rodeada de acantilados y hogar de Maya Bay y la laguna Pileh (Pileh Lagoon).
 
 ## Cómo llegar
 
-Desde Phuket, los principales puntos de salida son el muelle de Rassada (Rassada Pier, en Ao Makham, al sureste de la ciudad de Phuket) y el muelle de Chalong (Chalong Pier). Las lanchas rápidas tardan entre 1 y 1,5 horas; los ferris, más lentos, tardan cerca de 2 horas. Los barcos suelen zarpar a media mañana (alrededor de las 8:30–9:00 a. m.) para que los operadores puedan calcular la llegada a Maya Bay antes de las mayores aglomeraciones. La mayoría de los viajeros reserva un paquete de tour de un día que incluye traslado de ida y vuelta, algunas paradas para hacer snorkel y almuerzo en Phi Phi Don, una opción práctica si no te vas a quedar a pasar la noche. Si quieres quedarte más tiempo, los ferris también conectan Phi Phi con Krabi (Ao Nang) y Ko Lanta, lo que facilita incluirla en un itinerario más amplio por el sur de Tailandia en lugar de limitarse solo a Phuket.
+Desde Phuket, los principales puntos de salida son el muelle de Rassada (Rassada Pier, en Ao Makham, al sureste de la ciudad de Phuket) y el muelle de Chalong (Chalong Pier). Las lanchas rápidas tardan entre 1 y 1,5 horas; los ferris, más lentos, tardan cerca de 2 horas. Los barcos suelen zarpar a media mañana (alrededor de las 8:30–9:00 a. m.) para que los operadores puedan calcular la llegada a Maya Bay antes de las mayores aglomeraciones.
+
+La mayoría de los viajeros reserva un paquete de tour de un día que incluye traslado de ida y vuelta, algunas paradas para hacer snorkel y almuerzo en Phi Phi Don, una opción práctica si no te vas a quedar a pasar la noche. Si quieres quedarte más tiempo, los ferris también conectan Phi Phi con Krabi (Ao Nang) y Ko Lanta, lo que facilita incluirla en un itinerario más amplio por el sur de Tailandia en lugar de limitarse solo a Phuket.
 
 ## Qué ver y hacer
 
@@ -45,4 +49,6 @@ La temporada seca, aproximadamente de noviembre a abril, trae mares más tranqui
 
 ## Cerca de allí y consejos
 
-Lleva protector solar respetuoso con los arrecifes: las normas de protección del coral se toman muy en serio aquí, y las restricciones de baño en Maya Bay existen debido a los daños del sobreturismo del pasado. Usa calzado acuático para los puntos de entrada rocosos, y lleva una bolsa impermeable para cámaras y teléfonos durante los traslados en lancha rápida, que suelen mojarse. Si prefieres no hacer una excursión de un día, reserva una o dos noches en Tonsai o en una playa más tranquila como Loh Dalum para disfrutar de las islas sin las multitudes de los excursionistas de un día, y combina la visita con paradas en Krabi o Ao Nang a través de la misma red de ferris.
+Lleva protector solar respetuoso con los arrecifes: las normas de protección del coral se toman muy en serio aquí, y las restricciones de baño en Maya Bay existen debido a los daños del sobreturismo del pasado. Usa calzado acuático para los puntos de entrada rocosos, y lleva una bolsa impermeable para cámaras y teléfonos durante los traslados en lancha rápida, que suelen mojarse.
+
+Si prefieres no hacer una excursión de un día, reserva una o dos noches en Tonsai o en una playa más tranquila como Loh Dalum para disfrutar de las islas sin las multitudes de los excursionistas de un día, y combina la visita con paradas en Krabi o Ao Nang a través de la misma red de ferris.

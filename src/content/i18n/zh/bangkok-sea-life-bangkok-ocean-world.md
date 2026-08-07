@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-sea-life-bangkok-ocean-world
-srcHash: e5f269aa1b1c
+srcHash: '012378e9c35b'
 title: 曼谷海洋世界水族馆（SEA LIFE Bangkok Ocean World）旅行指南
 description: 曼谷海洋世界水族馆位于暹罗百丽宫（Siam Paragon）商场地下（B1-B2层），就在BTS暹罗站（Siam Station）上方，是曼谷最容易抵达的大型景点之一。
 quickAnswer: 曼谷海洋世界水族馆位于暹罗百丽宫（Siam Paragon）商场地下（B1-B2层），就在BTS暹罗站（Siam Station）正上方，是曼谷最容易抵达的大型景点之一。建议预留1.5-2.5小时游览玻璃隧道、观赏鲨鱼和魟鱼水槽，并观看喂食或潜水表演；建议工作日上午前往，以避开周末商场人流高峰。建议提前在线订票，价格比现场购票优惠不少。

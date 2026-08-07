@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: seattle-pike-place-market
-srcHash: 72227e9558cf
+srcHash: 'ede4af1d0878'
 title: 'Pike Place Market: Dónde comer en Seattle'
 description: 'Olvídate de las multitudes que lanzan pescado y disfruta comiendo por todo Pike Place Market: empieza con un piroshky en Piroshky Piroshky, prueba un cóctel de cangrejo o salmón en las pescaderías de la galería principal, cómprate una rosquilla recién hecha en Daily Dozen y termina con clam chowder servido en un panecillo hueco de masa madre (bread bowl).'
 quickAnswer: 'Olvídate de las multitudes que lanzan pescado y disfruta comiendo por todo Pike Place Market: empieza con un piroshky en Piroshky Piroshky, prueba un cóctel de cangrejo o salmón en las pescaderías de la galería principal, cómprate una rosquilla recién hecha en Daily Dozen y termina con clam chowder servido en un panecillo hueco de masa madre (bread bowl). Ve un día de semana por la mañana (entre 8:30 y 10:00) para evitar los autobuses turísticos, y calcula entre dos y tres horas para comer, pasear por los puestos y ver de cerca el Starbucks original y el Gum Wall cercano.'
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué Pike Place Market es un destino gastronómico, y no solo un mercado
 
-Pike Place Market abrió en 1907 como mercado de agricultores para eliminar a los intermediarios entre productores y compradores, y hoy en día sigue siendo un mercado en funcionamiento, no un centro comercial temático de comida. Esa historia importa a la hora de comer: el marisco está aquí porque los barcos pesqueros y los camiones de productos frescos todavía lo abastecen, y muchos de los puestos de comida y locales pequeños llevan décadas en manos de las mismas familias. El resultado es una de las zonas gastronómicas más densas y transitables a pie de Seattle, distribuida en varios niveles con vistas a Elliott Bay.
+Pike Place Market abrió en 1907 como mercado de agricultores para eliminar a los intermediarios entre productores y compradores, y hoy en día sigue siendo un mercado en funcionamiento, no un centro comercial temático de comida. Esa historia importa a la hora de comer: el marisco está aquí porque los barcos pesqueros y los camiones de productos frescos todavía lo abastecen, y muchos de los puestos de comida y locales pequeños llevan décadas en manos de las mismas familias.
+
+El resultado es una de las zonas gastronómicas más densas y transitables a pie de Seattle, distribuida en varios niveles con vistas a Elliott Bay.
 
 ## Cómo llegar y orientarse
 
-El mercado está ubicado en la esquina de 1st Avenue y Pike Street, en el centro de Seattle, a poca distancia a pie del paseo marítimo. Si usas transporte público, la estación Westlake Station (con el tren ligero Link y varias líneas de autobús) queda a unos 10 minutos caminando hacia el este por Pike Street. La famosa estatua de bronce **Rachel the Piggy Bank** y los **puestos de pescado voladores** marcan la entrada principal, bajo el icónico letrero de neón rojo "PUBLIC MARKET". Desde ahí, el mercado se extiende por la galería principal, los niveles inferiores conocidos como "Down Under" (que vale la pena explorar por sus tiendas, no solo por la comida) y la ampliación más reciente, MarketFront, al norte, que cuenta con asientos al aire libre y vistas al agua.
+El mercado está ubicado en la esquina de 1st Avenue y Pike Street, en el centro de Seattle, a poca distancia a pie del paseo marítimo. Si usas transporte público, la estación Westlake Station (con el tren ligero Link y varias líneas de autobús) queda a unos 10 minutos caminando hacia el este por Pike Street. La famosa estatua de bronce **Rachel the Piggy Bank** y los **puestos de pescado voladores** marcan la entrada principal, bajo el icónico letrero de neón rojo "PUBLIC MARKET".
+
+Desde ahí, el mercado se extiende por la galería principal, los niveles inferiores conocidos como "Down Under" (que vale la pena explorar por sus tiendas, no solo por la comida) y la ampliación más reciente, MarketFront, al norte, que cuenta con asientos al aire libre y vistas al agua.
 
 ## Qué comer
 
@@ -39,8 +43,12 @@ En cuanto a productos frescos, los puestos de agricultores en la galería princi
 
 ## Cuándo ir y cuánto tiempo quedarse
 
-Las mañanas de días de semana, aproximadamente entre las 8:30 y las 10:00, son el momento más tranquilo, antes de que lleguen los grupos de cruceros y turistas a media mañana. Los fines de semana son los más concurridos, especialmente el sábado. Calcula entre dos y tres horas para comer algunas cosas pequeñas, recorrer los puestos de artesanía y las librerías, y salir a ver a los artistas callejeros en los puntos autorizados (marcados oficialmente con círculos pintados en el suelo). El verano (de junio a septiembre) ofrece la mayor variedad de productos frescos y más horas de luz para disfrutar de las vistas frente al mercado, pero también trae las mayores multitudes; a finales de otoño y en invierno hay menos gente, ideal para disfrutar de un buen chowder con el clima frío.
+Las mañanas de días de semana, aproximadamente entre las 8:30 y las 10:00, son el momento más tranquilo, antes de que lleguen los grupos de cruceros y turistas a media mañana. Los fines de semana son los más concurridos, especialmente el sábado. Calcula entre dos y tres horas para comer algunas cosas pequeñas, recorrer los puestos de artesanía y las librerías, y salir a ver a los artistas callejeros en los puntos autorizados (marcados oficialmente con círculos pintados en el suelo).
+
+El verano (de junio a septiembre) ofrece la mayor variedad de productos frescos y más horas de luz para disfrutar de las vistas frente al mercado, pero también trae las mayores multitudes; a finales de otoño y en invierno hay menos gente, ideal para disfrutar de un buen chowder con el clima frío.
 
 ## Alrededores y consejos prácticos
 
-El local original de **Starbucks**, de 1971, está justo frente a la entrada principal, en Pike Place; espera encontrar fila para hacerte una foto, no necesariamente para tomar café. El **Gum Wall** está a una cuadra cuesta abajo, en Post Alley, a solo cinco minutos de desvío. Post Alley en sí tiene bares y restaurantes más tranquilos si la galería principal se siente demasiado abrumadora. La mayoría de los puestos aceptan efectivo y tarjeta, pero algunos vendedores pequeños prefieren efectivo, así que conviene llevar billetes pequeños. Los baños son limitados y suelen tener fila; los que están cerca de MarketFront tienden a estar menos concurridos que los de la galería principal.
+El local original de **Starbucks**, de 1971, está justo frente a la entrada principal, en Pike Place; espera encontrar fila para hacerte una foto, no necesariamente para tomar café. El **Gum Wall** está a una cuadra cuesta abajo, en Post Alley, a solo cinco minutos de desvío. Post Alley en sí tiene bares y restaurantes más tranquilos si la galería principal se siente demasiado abrumadora.
+
+La mayoría de los puestos aceptan efectivo y tarjeta, pero algunos vendedores pequeños prefieren efectivo, así que conviene llevar billetes pequeños. Los baños son limitados y suelen tener fila; los que están cerca de MarketFront tienden a estar menos concurridos que los de la galería principal.

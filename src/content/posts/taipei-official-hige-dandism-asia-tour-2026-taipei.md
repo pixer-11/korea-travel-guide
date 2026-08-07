@@ -55,11 +55,15 @@ eventRecurring: false
 
 ## Why this show matters
 
-Official HIGE DANDism — often shortened to "Higedan" by fans — is one of the few Japanese rock acts that regularly fills domes, and their Asia tours have become genuine events rather than side stops. The band built its following on tight vocal harmonies, jazz-inflected piano runs, and anthemic choruses that translated far beyond Japan through anime tie-ins and streaming hits. A two-night stand at Taipei Dome signals how big their regional pull has become, and the promise of new material — "Stardust" and "Elderflower" — means longtime fans are expecting a preview of the band's next studio chapter rather than a straight greatest-hits set.
+Official HIGE DANDism — often shortened to "Higedan" by fans — is one of the few Japanese rock acts that regularly fills domes, and their Asia tours have become genuine events rather than side stops. The band built its following on tight vocal harmonies, jazz-inflected piano runs, and anthemic choruses that translated far beyond Japan through anime tie-ins and streaming hits.
+
+A two-night stand at Taipei Dome signals how big their regional pull has become, and the promise of new material — "Stardust" and "Elderflower" — means longtime fans are expecting a preview of the band's next studio chapter rather than a straight greatest-hits set.
 
 ## Getting to Taipei Dome
 
-Taipei Dome sits in the Songshan District, built on the site of the old Songshan Tobacco Factory complex, right next to Taipei Songshan Cultural and Creative Park. The area is served by Taipei Metro's Blue Line (Bannan Line) at Taipei City Hall Station, and by the Brown Line at Nanjing Sanmin or Songshan Airport stations, all within a walkable distance of the venue. If you're flying in, Taipei Songshan Airport is only a couple of MRT stops away on the Brown Line, which makes this one of the more convenient dome venues in Asia for touring fans arriving from Japan, Korea, or Southeast Asia. Taoyuan International Airport, the main international gateway, connects to the city via the Airport MRT line into Taipei Main Station, with a transfer to reach Songshan.
+Taipei Dome sits in the Songshan District, built on the site of the old Songshan Tobacco Factory complex, right next to Taipei Songshan Cultural and Creative Park. The area is served by Taipei Metro's Blue Line (Bannan Line) at Taipei City Hall Station, and by the Brown Line at Nanjing Sanmin or Songshan Airport stations, all within a walkable distance of the venue.
+
+If you're flying in, Taipei Songshan Airport is only a couple of MRT stops away on the Brown Line, which makes this one of the more convenient dome venues in Asia for touring fans arriving from Japan, Korea, or Southeast Asia. Taoyuan International Airport, the main international gateway, connects to the city via the Airport MRT line into Taipei Main Station, with a transfer to reach Songshan.
 
 ## What to expect inside
 
@@ -67,8 +71,14 @@ Domes of this scale in Taiwan are still a relatively new phenomenon, and interna
 
 ## When to go and how to plan around it
 
-With two dates back-to-back (August 29 and 30, 2026), touring fans often try to catch both nights to compare setlists and atmosphere, since bands frequently rotate a handful of songs across multi-night dome runs. Late August in Taipei is hot and humid, typically in typhoon season, so factor in flexible flight and hotel bookings in case of weather disruption to flights in or out of Taoyuan or Songshan airports. Book accommodation in the Xinyi or Songshan districts if you want a short walk or single MRT hop to the venue rather than relying on taxis, which can be slow near the Dome when a show lets out.
+With two dates back-to-back (August 29 and 30, 2026), touring fans often try to catch both nights to compare setlists and atmosphere, since bands frequently rotate a handful of songs across multi-night dome runs. Late August in Taipei is hot and humid, typically in typhoon season, so factor in flexible flight and hotel bookings in case of weather disruption to flights in or out of Taoyuan or Songshan airports.
+
+Book accommodation in the Xinyi or Songshan districts if you want a short walk or single MRT hop to the venue rather than relying on taxis, which can be slow near the Dome when a show lets out.
 
 ## How to visit like a local
 
-Taiwanese concertgoers overwhelmingly buy tickets through official local platforms tied to the promoter, and resale outside those channels is common but risky — verified tickets on official apps are the safer route, and you should confirm exactly which platform is being used for this tour once sales open. Doors typically open well before Japanese-artist dome shows in Taipei, and queues for merchandise ("goods") stalls often form hours ahead of doors, so if you want tour merchandise, plan to arrive early rather than right before showtime. Cash and mobile payment (LINE Pay, EasyCard-linked apps) are both widely used at merch booths and nearby convenience stores, though card acceptance varies stall to stall. Fans typically queue in orderly lines by ticket section number, a habit worth following even if you're used to more casual entry elsewhere. After the show, nearby Songshan Cultural and Creative Park and the Xinyi shopping district stay lively late, making them a natural spot to unwind post-concert. Above all, treat every date, time, and price in this guide as provisional — reconfirm the show days, doors time, and ticket tiers on Official HIGE DANDism's official website and social channels, and through Taiwan's official ticketing partner, before you commit to travel.
+Taiwanese concertgoers overwhelmingly buy tickets through official local platforms tied to the promoter, and resale outside those channels is common but risky — verified tickets on official apps are the safer route, and you should confirm exactly which platform is being used for this tour once sales open. Doors typically open well before Japanese-artist dome shows in Taipei, and queues for merchandise ("goods") stalls often form hours ahead of doors, so if you want tour merchandise, plan to arrive early rather than right before showtime.
+
+Cash and mobile payment (LINE Pay, EasyCard-linked apps) are both widely used at merch booths and nearby convenience stores, though card acceptance varies stall to stall. Fans typically queue in orderly lines by ticket section number, a habit worth following even if you're used to more casual entry elsewhere. After the show, nearby Songshan Cultural and Creative Park and the Xinyi shopping district stay lively late, making them a natural spot to unwind post-concert.
+
+Above all, treat every date, time, and price in this guide as provisional — reconfirm the show days, doors time, and ticket tiers on Official HIGE DANDism's official website and social channels, and through Taiwan's official ticketing partner, before you commit to travel.

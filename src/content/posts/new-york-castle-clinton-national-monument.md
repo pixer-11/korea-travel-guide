@@ -53,7 +53,11 @@ draft: false
 
 ## Why go
 
-Long before it became the place where you queue for a ferry ticket, this squat, reddish-brown sandstone ring was a fort built to keep the British out of New York Harbor. You walk up and the shape alone tells the story: thick circular walls, no sharp corners, originally ringed by water on three sides until landfill pushed the shoreline out and left it stranded on solid ground. Stand inside the open-air courtyard and you're standing in a building that has been an army fort, an entertainment hall, an aquarium, and — for nearly 35 years in the 19th century — the busiest immigrant processing station in the United States, years before Ellis Island existed. More than 8 million people passed through these walls between 1855 and 1890. That layered history, compressed into a structure barely 200 feet across, is what makes the ten minutes you spend reading the wall panels worth it.
+Long before it became the place where you queue for a ferry ticket, this squat, reddish-brown sandstone ring was a fort built to keep the British out of New York Harbor. You walk up and the shape alone tells the story: thick circular walls, no sharp corners, originally ringed by water on three sides until landfill pushed the shoreline out and left it stranded on solid ground.
+
+Stand inside the open-air courtyard and you're standing in a building that has been an army fort, an entertainment hall, an aquarium, and — for nearly 35 years in the 19th century — the busiest immigrant processing station in the United States, years before Ellis Island existed. More than 8 million people passed through these walls between 1855 and 1890.
+
+That layered history, compressed into a structure barely 200 feet across, is what makes the ten minutes you spend reading the wall panels worth it.
 
 ## Getting there
 
@@ -61,7 +65,9 @@ Castle Clinton sits inside Battery Park, at the very southern tip of Manhattan, 
 
 ## What to see and do
 
-The structure itself is compact — you can walk the full circumference of the courtyard in a few minutes — but the small museum area inside has models and displays showing how the fort's role shifted over two centuries: as West Battery (its original 1808–1811 name), then as Castle Garden, a roofed concert hall where Jenny Lind gave her famous 1850 American debut, then as the immigration depot before Ellis Island took over in 1892, and later the New York Aquarium until the 1940s. Look for the original cannon embrasures still visible in the walls. Because this is also the National Park Service ticketing point for Statue of Liberty and Ellis Island ferries, most visitors treat it as a checkpoint rather than a destination — but building in ten extra minutes to read the displays costs you nothing and gives real context to the two islands you're about to sail toward.
+The structure itself is compact — you can walk the full circumference of the courtyard in a few minutes — but the small museum area inside has models and displays showing how the fort's role shifted over two centuries: as West Battery (its original 1808–1811 name), then as Castle Garden, a roofed concert hall where Jenny Lind gave her famous 1850 American debut, then as the immigration depot before Ellis Island took over in 1892, and later the New York Aquarium until the 1940s.
+
+Look for the original cannon embrasures still visible in the walls. Because this is also the National Park Service ticketing point for Statue of Liberty and Ellis Island ferries, most visitors treat it as a checkpoint rather than a destination — but building in ten extra minutes to read the displays costs you nothing and gives real context to the two islands you're about to sail toward.
 
 ## When to go
 
@@ -73,4 +79,6 @@ Battery Park itself is worth a slow walk — the SeaGlass Carousel, the Merchant
 
 ## How to visit like a local
 
-Skip the on-site ticket line entirely by buying Statue Cruises ferry tickets online in advance — this is the single biggest time-saver, since walk-up lines at the Castle Clinton windows can stretch long on busy mornings. If you only want to see the fort and aren't taking a ferry, you don't need a ticket at all — entry to walk around Castle Clinton and Battery Park is free, and locals often cut through it as a quiet shortcut toward the waterfront rather than treating it as a tourist stop. Don't make the common mistake of assuming this is Ellis Island itself — it's the departure point, not the destination, and confusing the two leads to a lot of last-minute scrambling. Security screening (similar to airport-style checks) happens here before ferry boarding, so keep bags light. There's no dress code or ticket booth etiquette to worry about; it's simply first-come, first-served for the ferry queue, cash or card both work at the kiosks, and nobody expects tipping.
+Skip the on-site ticket line entirely by buying Statue Cruises ferry tickets online in advance — this is the single biggest time-saver, since walk-up lines at the Castle Clinton windows can stretch long on busy mornings. If you only want to see the fort and aren't taking a ferry, you don't need a ticket at all — entry to walk around Castle Clinton and Battery Park is free, and locals often cut through it as a quiet shortcut toward the waterfront rather than treating it as a tourist stop.
+
+Don't make the common mistake of assuming this is Ellis Island itself — it's the departure point, not the destination, and confusing the two leads to a lot of last-minute scrambling. Security screening (similar to airport-style checks) happens here before ferry boarding, so keep bags light. There's no dress code or ticket booth etiquette to worry about; it's simply first-come, first-served for the ferry queue, cash or card both work at the kiosks, and nobody expects tipping.

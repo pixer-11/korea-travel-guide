@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chinatown-chinatown-complex
-srcHash: 7e4d8d0f7a94
+srcHash: '22823de8445d'
 title: 'Chinatown Complex: dónde comer'
 description: Chinatown Complex, en Smith Street, es el hawker centre más grande de Singapur, con cientos de puestos en el segundo piso, encima de un mercado húmedo.
 quickAnswer: Chinatown Complex, en Smith Street, es el hawker centre más grande de Singapur, con cientos de puestos en el segundo piso, encima de un mercado húmedo. Ve un día entre semana por la mañana (antes de las 11am) o a media tarde (2-4pm) para evitar el gentío del almuerzo, lleva efectivo en billetes pequeños y apunta a nombres famosos como Liao Fan Hawker Chai Tow Kway y el puesto de Hong Kong Soya Sauce Chicken Rice, siempre con cola. Calcula entre 45 y 90 minutos y prepárate para compartir mesa.
@@ -24,19 +24,29 @@ Chinatown Complex no es un food hall pulido: es un mercado húmedo en pleno func
 
 ## Cómo llegar
 
-El complejo se encuentra en 335 Smith Street, en pleno corazón de Chinatown. La parada de MRT más cercana es Chinatown Station (líneas NE/Downtown), Exit A, desde donde hay una caminata de unos 5-8 minutos bajando por Pagoda Street hasta Smith Street. La estación Outram Park (líneas East-West/North-East/Thomson-East Coast) implica una caminata algo más larga, pero es una alternativa fácil si vienes desde esa dirección. Ya en Smith Street, busca el exterior sencillo y cuadrado del mercado; no grita "atracción turística", y por eso a veces los primerizos pasan de largo sin verlo.
+El complejo se encuentra en 335 Smith Street, en pleno corazón de Chinatown. La parada de MRT más cercana es Chinatown Station (líneas NE/Downtown), Exit A, desde donde hay una caminata de unos 5-8 minutos bajando por Pagoda Street hasta Smith Street. La estación Outram Park (líneas East-West/North-East/Thomson-East Coast) implica una caminata algo más larga, pero es una alternativa fácil si vienes desde esa dirección.
+
+Ya en Smith Street, busca el exterior sencillo y cuadrado del mercado; no grita "atracción turística", y por eso a veces los primerizos pasan de largo sin verlo.
 
 ## Qué comer
 
-Ve directo al segundo piso para la comida cocinada; la planta baja es el mercado húmedo (productos frescos, carne, abarrotes secos), que vale la pena recorrer pero no es donde te sentarás a comer. Entre los puestos que merece la pena buscar por nombre están Liao Fan Hawker Chai Tow Kway, un local con reconocimiento Michelin conocido por su char siu y su linaje de arroz con pollo en salsa de soya, y el eternamente concurrido puesto Hong Kong Soya Sauce Chicken Rice & Noodle; ambos han recibido atención del Michelin Bib Gourmand en años anteriores. Más allá de los nombres destacados, busca puestos especializados en un solo plato hecho con maestría: sopa de pescado, tortilla de ostras, carrot cake (chai tow kway, tanto en su versión glaseada con azúcar negra como en la blanca), popiah y claypot rice. Como en la mayoría de los hawker centres, la regla general es seguir al puesto con la fila visible de locales, no de turistas; suele ser señal de que la cocina está sacando rápido y fresco una sola especialidad, en lugar de un menú amplio y mediocre.
+Ve directo al segundo piso para la comida cocinada; la planta baja es el mercado húmedo (productos frescos, carne, abarrotes secos), que vale la pena recorrer pero no es donde te sentarás a comer. Entre los puestos que merece la pena buscar por nombre están Liao Fan Hawker Chai Tow Kway, un local con reconocimiento Michelin conocido por su char siu y su linaje de arroz con pollo en salsa de soya, y el eternamente concurrido puesto Hong Kong Soya Sauce Chicken Rice & Noodle; ambos han recibido atención del Michelin Bib Gourmand en años anteriores.
+
+Más allá de los nombres destacados, busca puestos especializados en un solo plato hecho con maestría: sopa de pescado, tortilla de ostras, carrot cake (chai tow kway, tanto en su versión glaseada con azúcar negra como en la blanca), popiah y claypot rice. Como en la mayoría de los hawker centres, la regla general es seguir al puesto con la fila visible de locales, no de turistas; suele ser señal de que la cocina está sacando rápido y fresco una sola especialidad, en lugar de un menú amplio y mediocre.
 
 ## Cuándo ir
 
-Las mañanas entre semana antes de las 11am son las más tranquilas, ya que el mercado y los puestos de comida abren temprano y la multitud de oficinistas del almuerzo aún no ha llegado. El momento de mayor aglomeración es el almuerzo entre semana (12-1:30pm) y las últimas horas de la mañana los fines de semana, cuando convergen turistas y residentes por igual. Una visita a media tarde, entre las 2 y las 4pm, es la ventana más fácil si quieres probar los puestos famosos sin una espera larga, aunque ten en cuenta que algunos vendedores se agotan o cierran una vez que se acaba su tanda del día, sobre todo los que tienen reconocimiento Michelin.
+Las mañanas entre semana antes de las 11am son las más tranquilas, ya que el mercado y los puestos de comida abren temprano y la multitud de oficinistas del almuerzo aún no ha llegado. El momento de mayor aglomeración es el almuerzo entre semana (12-1:30pm) y las últimas horas de la mañana los fines de semana, cuando convergen turistas y residentes por igual.
+
+Una visita a media tarde, entre las 2 y las 4pm, es la ventana más fácil si quieres probar los puestos famosos sin una espera larga, aunque ten en cuenta que algunos vendedores se agotan o cierran una vez que se acaba su tanda del día, sobre todo los que tienen reconocimiento Michelin.
 
 ## Cómo visitarlo como un local
 
-Dado lo popular y lo mencionado que está este hawker centre hoy en día, no esperes encontrar un lugar tranquilo y poco conocido: atrae mucho tráfico turístico además de sus habituales del día de mercado, así que la estrategia local práctica es el momento del día, no el secretismo. Los locales comen por turnos: una salida temprana al mercado, luego un almuerzo rápido, casi sin demorarse. El pago es principalmente en efectivo en los puestos más antiguos, aunque cada vez más aceptan PayNow o tarjeta mediante código QR; lleva billetes pequeños para evitar demoras en la caja. No se da propina. Si el salón está lleno, primero reserva una mesa (dejar un paquete de pañuelos en el asiento es la forma habitual en que los locales apartan un lugar), luego pide en los puestos individuales y lleva tu propia bandeja: no hay servicio de mesa. Reparte los platos entre dos o tres puestos dentro de tu grupo en lugar de pedir una comida completa en un solo mostrador; así es como los habituales prueban más por menos. El error más común de los turistas es unirse a la fila más larga por principio: parte de la mejor comida aquí viene de puestos con colas modestas simplemente porque son menos fotografiados en Instagram, y los precios suben más rápido en los nombres famosos, así que sopesa una espera de 20 minutos frente a probar algo menos conocido cerca de allí.
+Dado lo popular y lo mencionado que está este hawker centre hoy en día, no esperes encontrar un lugar tranquilo y poco conocido: atrae mucho tráfico turístico además de sus habituales del día de mercado, así que la estrategia local práctica es el momento del día, no el secretismo. Los locales comen por turnos: una salida temprana al mercado, luego un almuerzo rápido, casi sin demorarse.
+
+El pago es principalmente en efectivo en los puestos más antiguos, aunque cada vez más aceptan PayNow o tarjeta mediante código QR; lleva billetes pequeños para evitar demoras en la caja. No se da propina. Si el salón está lleno, primero reserva una mesa (dejar un paquete de pañuelos en el asiento es la forma habitual en que los locales apartan un lugar), luego pide en los puestos individuales y lleva tu propia bandeja: no hay servicio de mesa.
+
+Reparte los platos entre dos o tres puestos dentro de tu grupo en lugar de pedir una comida completa en un solo mostrador; así es como los habituales prueban más por menos. El error más común de los turistas es unirse a la fila más larga por principio: parte de la mejor comida aquí viene de puestos con colas modestas simplemente porque son menos fotografiados en Instagram, y los precios suben más rápido en los nombres famosos, así que sopesa una espera de 20 minutos frente a probar algo menos conocido cerca de allí.
 
 ## Qué combinar cerca de tu visita
 

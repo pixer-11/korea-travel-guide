@@ -78,11 +78,15 @@ draft: false
 
 ## Why go
 
-Nan Lian Garden is the closest Hong Kong gets to stepping into a Tang Dynasty scroll painting. Built in the architectural style of that era — timber joinery without a single nail, gold-leafed pavilions, dark tiled roofs curling up at the eaves — it sits in Diamond Hill, wedged between a busy MTR interchange and one of the densest housing estates in the city. The contrast is the whole point. You walk through a gate off Fung Tak Road and the traffic noise just falls away, replaced by trickling water and the rustle of bamboo.
+Nan Lian Garden is the closest Hong Kong gets to stepping into a Tang Dynasty scroll painting. Built in the architectural style of that era — timber joinery without a single nail, gold-leafed pavilions, dark tiled roofs curling up at the eaves — it sits in Diamond Hill, wedged between a busy MTR interchange and one of the densest housing estates in the city.
+
+The contrast is the whole point. You walk through a gate off Fung Tak Road and the traffic noise just falls away, replaced by trickling water and the rustle of bamboo.
 
 ## What you'll see
 
-The path loops around a koi pond and a small waterfall, past a perfectly placed golden pavilion that seems to float on the water — it's the postcard shot everyone lines up for, and for good reason. Bonsai pines, clipped over years into wind-swept shapes, sit on plinths along the walkways. Cross the wooden bridge and you reach the Chi Lin Nunnery next door, a Tang-style Buddhist complex of its own with lotus ponds and courtyards; the two sites are usually visited together and are connected by a short walk, so plan for both if you have the time. Inside Nan Lian Garden, a quiet vegetarian teahouse and cafe overlooks the water — a good spot to sit with tea and char siu-style vegetarian dishes rather than eat on the move.
+The path loops around a koi pond and a small waterfall, past a perfectly placed golden pavilion that seems to float on the water — it's the postcard shot everyone lines up for, and for good reason. Bonsai pines, clipped over years into wind-swept shapes, sit on plinths along the walkways. Cross the wooden bridge and you reach the Chi Lin Nunnery next door, a Tang-style Buddhist complex of its own with lotus ponds and courtyards; the two sites are usually visited together and are connected by a short walk, so plan for both if you have the time.
+
+Inside Nan Lian Garden, a quiet vegetarian teahouse and cafe overlooks the water — a good spot to sit with tea and char siu-style vegetarian dishes rather than eat on the move.
 
 ## Getting there
 
@@ -90,11 +94,17 @@ Take the MTR to Diamond Hill Station (Kwun Tong Line) and use Exit C2, which fee
 
 ## When to go
 
-The garden opens at 7am and closes at 9pm every day of the week, with no seasonal variation to worry about. The measured foot traffic is clear: weekends get busy between 10am and 6pm, so if you want the paths and the golden pavilion view without a crowd of camera tripods, aim for the 7am opening or after 6pm. Weekdays run calmer throughout, essentially 7am to 9pm without a sharp peak, making a weekday morning the single best window if your schedule allows it. Evenings bring their own reward — some of the pavilions are lit after dark, and the black-tiled roofline against the sky is worth the later visit even if you've already been in daylight.
+The garden opens at 7am and closes at 9pm every day of the week, with no seasonal variation to worry about. The measured foot traffic is clear: weekends get busy between 10am and 6pm, so if you want the paths and the golden pavilion view without a crowd of camera tripods, aim for the 7am opening or after 6pm. Weekdays run calmer throughout, essentially 7am to 9pm without a sharp peak, making a weekday morning the single best window if your schedule allows it.
+
+Evenings bring their own reward — some of the pavilions are lit after dark, and the black-tiled roofline against the sky is worth the later visit even if you've already been in daylight.
 
 ## How to visit like a local
 
-This is a well-known, well-visited park rather than an undiscovered spot, so the smart move is timing, not secrecy. Arrive right at 7am on a weekday if you can — you'll have the koi pond and golden pavilion largely to yourself before tour groups and weekend families arrive. If a weekend is your only option, get there before 10am or wait until after 6pm; the 10am–6pm window is when it fills up fastest. There's no admission fee and no ticket booth, so there's nothing to queue for except good photo angles at the pavilion bridge — be patient and let people take their turn rather than crowding the rail. Bring small change or a mobile payment method only if you plan to eat at the teahouse; the garden itself costs nothing. Keep your voice down and stay on the marked paths — this is treated as a place for quiet contemplation, not a playground, and locals visiting for a slow morning walk notice when that's ignored. The single biggest mistake visitors make is treating it as a five-minute photo stop between the nunnery and the MTR; slow down, follow the water past the main pond toward the quieter rear sections, and you'll find corners with almost nobody in them even at midday.
+This is a well-known, well-visited park rather than an undiscovered spot, so the smart move is timing, not secrecy. Arrive right at 7am on a weekday if you can — you'll have the koi pond and golden pavilion largely to yourself before tour groups and weekend families arrive. If a weekend is your only option, get there before 10am or wait until after 6pm; the 10am–6pm window is when it fills up fastest.
+
+There's no admission fee and no ticket booth, so there's nothing to queue for except good photo angles at the pavilion bridge — be patient and let people take their turn rather than crowding the rail. Bring small change or a mobile payment method only if you plan to eat at the teahouse; the garden itself costs nothing. Keep your voice down and stay on the marked paths — this is treated as a place for quiet contemplation, not a playground, and locals visiting for a slow morning walk notice when that's ignored.
+
+The single biggest mistake visitors make is treating it as a five-minute photo stop between the nunnery and the MTR; slow down, follow the water past the main pond toward the quieter rear sections, and you'll find corners with almost nobody in them even at midday.
 
 ## Nearby
 

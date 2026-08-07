@@ -46,15 +46,21 @@ You reach it down a narrow hutong west of Shichahai Lake, where the traffic nois
 
 ## Why go
 
-Built in 1777, this is the largest and most intact princely residence surviving from the Qing dynasty, later home to Prince Gong, brother of the Xianfeng Emperor and one of the most powerful political figures of the late 1800s. The complex is really two experiences in one: a formal residential compound of courtyard after courtyard, grey-tiled and symmetrical, and — through a moon gate — a private garden of twisting corridors, a rockery hill, a theatre pavilion, and a pond edged with willow. Local legend (unverifiable but endlessly repeated by guides) ties the mansion to the novel "Dream of the Red Chamber," and some believe its garden inspired the book's fictional Grand View Garden. Whether or not that's true, walking the covered walkways with their painted beams, you get a rare sense of how Qing nobility actually lived, at a scale the Forbidden City's public halls never show you.
+Built in 1777, this is the largest and most intact princely residence surviving from the Qing dynasty, later home to Prince Gong, brother of the Xianfeng Emperor and one of the most powerful political figures of the late 1800s. The complex is really two experiences in one: a formal residential compound of courtyard after courtyard, grey-tiled and symmetrical, and — through a moon gate — a private garden of twisting corridors, a rockery hill, a theatre pavilion, and a pond edged with willow.
+
+Local legend (unverifiable but endlessly repeated by guides) ties the mansion to the novel "Dream of the Red Chamber," and some believe its garden inspired the book's fictional Grand View Garden. Whether or not that's true, walking the covered walkways with their painted beams, you get a rare sense of how Qing nobility actually lived, at a scale the Forbidden City's public halls never show you.
 
 ## Getting there
 
-The mansion sits at 17 Qian Hai Xi Jie in Xicheng District, on the western shore of Qianhai (the southern part of Shichahai Lake). The easiest approach is by subway to Ping'anli Station (Line 4 or Line 6) or Beihai North (Line 6), then a 15–20 minute walk east through the hutongs — part of the appeal is getting slightly lost among the courtyard homes on the way in. Cycling or a short taxi ride from Houhai's bar street is also common, since the surrounding lanes are narrow and better suited to bikes than cars.
+The mansion sits at 17 Qian Hai Xi Jie in Xicheng District, on the western shore of Qianhai (the southern part of Shichahai Lake). The easiest approach is by subway to Ping'anli Station (Line 4 or Line 6) or Beihai North (Line 6), then a 15–20 minute walk east through the hutongs — part of the appeal is getting slightly lost among the courtyard homes on the way in.
+
+Cycling or a short taxi ride from Houhai's bar street is also common, since the surrounding lanes are narrow and better suited to bikes than cars.
 
 ## What to see and do
 
-Give yourself two to three hours. Start in the residential section — the reception halls and courtyards laid out on a strict north-south axis — before crossing into the garden, which is the real highlight. Look for the Grotto of Secret Clouds, an artificial rock cave at the garden's western edge, and the small stage where opera performances were once staged for the family. Many visitors rent an audio guide or join one of the docent-led walks near the entrance, useful given how little English signage there is. Budget-friendly by international museum standards, the mansion is priced modestly for entry, though it's worth checking current ticket costs and hours before you go, since these do shift seasonally.
+Give yourself two to three hours. Start in the residential section — the reception halls and courtyards laid out on a strict north-south axis — before crossing into the garden, which is the real highlight. Look for the Grotto of Secret Clouds, an artificial rock cave at the garden's western edge, and the small stage where opera performances were once staged for the family.
+
+Many visitors rent an audio guide or join one of the docent-led walks near the entrance, useful given how little English signage there is. Budget-friendly by international museum standards, the mansion is priced modestly for entry, though it's worth checking current ticket costs and hours before you go, since these do shift seasonally.
 
 ## When to go
 
@@ -62,4 +68,8 @@ Spring (April–May) and autumn (September–October) are the most comfortable m
 
 ## How to visit like a local
 
-This is a place where the calm is the point, so timing matters more than at Beijing's marquee sites. Arrive at or just after opening on a weekday if you can — tour buses tend to land here mid-morning, and the garden's narrow rockery paths bottleneck fast once a group arrives. Tickets are typically bought at the gate or via the mansion's official channels; cash and mobile payment (WeChat Pay/Alipay) are both standard across Beijing attractions, though international cards are less reliably accepted, so carry a backup. There's no need to book a formal tour — independent visitors can simply follow the marked route through residence, then garden. The mistake most first-time visitors make is treating it as a quick photo stop on the way to Houhai's restaurants: rushing the garden section, where the real character of the place lives, in favor of the more Instagrammed front gate. Slow down instead, follow the covered corridor around the pond, and sit for a few minutes at the theatre pavilion — it's one of the few spots in central Beijing where you can hear birdsong over traffic. Afterward, the lakeside lanes of Shichahai make a natural next stop for tea or an early dinner.
+This is a place where the calm is the point, so timing matters more than at Beijing's marquee sites. Arrive at or just after opening on a weekday if you can — tour buses tend to land here mid-morning, and the garden's narrow rockery paths bottleneck fast once a group arrives. Tickets are typically bought at the gate or via the mansion's official channels; cash and mobile payment (WeChat Pay/Alipay) are both standard across Beijing attractions, though international cards are less reliably accepted, so carry a backup.
+
+There's no need to book a formal tour — independent visitors can simply follow the marked route through residence, then garden. The mistake most first-time visitors make is treating it as a quick photo stop on the way to Houhai's restaurants: rushing the garden section, where the real character of the place lives, in favor of the more Instagrammed front gate.
+
+Slow down instead, follow the covered corridor around the pond, and sit for a few minutes at the theatre pavilion — it's one of the few spots in central Beijing where you can hear birdsong over traffic. Afterward, the lakeside lanes of Shichahai make a natural next stop for tea or an early dinner.

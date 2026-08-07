@@ -81,22 +81,32 @@ draft: false
 
 ## Why this café stands out
 
-Walk down Rue Ferrandière on a weekday morning and Café Joyeux announces itself before you even reach the door — the yellow-and-white signage, the chalkboard menu, the low hum of the espresso machine spilling onto the pavement. This is one of a small chain of French cafés (there are others in Paris, Bordeaux, Rennes) built around a genuinely useful idea: nearly all the baristas and servers have intellectual or cognitive disabilities, working real jobs at a real café, not a charity storefront pretending to be one. You don't come here out of pity or obligation. You come because the croissants are good, the coffee is properly pulled, and the room has a warmth that's hard to fake.
+Walk down Rue Ferrandière on a weekday morning and Café Joyeux announces itself before you even reach the door — the yellow-and-white signage, the chalkboard menu, the low hum of the espresso machine spilling onto the pavement. This is one of a small chain of French cafés (there are others in Paris, Bordeaux, Rennes) built around a genuinely useful idea: nearly all the baristas and servers have intellectual or cognitive disabilities, working real jobs at a real café, not a charity storefront pretending to be one.
+
+You don't come here out of pity or obligation. You come because the croissants are good, the coffee is properly pulled, and the room has a warmth that's hard to fake.
 
 Inside, it's compact — a counter, a handful of tables, big windows that catch the morning light off the pedestrian street. Pastries sit under glass: almond croissants, pains au chocolat, seasonal tarts, alongside sandwiches and salads for a light lunch. Staff wear yellow aprons and take your order with a handwritten pad system designed to make communication easy on both sides. It's unhurried without being slow — the kind of place where the person behind the counter remembers your order style by the second visit.
 
 ## Getting there
 
-The address is 13 Rue Ferrandière, right in the 2nd arrondissement, on the Presqu'île peninsula between the Rhône and Saône. The nearest metro stop is Cordeliers on Line A, about a two-minute walk — come up the exit toward Rue de la République and you're practically on top of it. It's also an easy 8-10 minute walk from Bellecour, so it slots naturally into a morning that starts at Place Bellecour and continues into the shopping streets around Rue de la République and Rue du Président Édouard Herriot. If you're staying in Vieux Lyon or on the Croix-Rousse hill, it's a flat, walkable 15-20 minutes, or a quick hop on the metro.
+The address is 13 Rue Ferrandière, right in the 2nd arrondissement, on the Presqu'île peninsula between the Rhône and Saône. The nearest metro stop is Cordeliers on Line A, about a two-minute walk — come up the exit toward Rue de la République and you're practically on top of it. It's also an easy 8-10 minute walk from Bellecour, so it slots naturally into a morning that starts at Place Bellecour and continues into the shopping streets around Rue de la République and Rue du Président Édouard Herriot.
+
+If you're staying in Vieux Lyon or on the Croix-Rousse hill, it's a flat, walkable 15-20 minutes, or a quick hop on the metro.
 
 ## What to order
 
-Stick to the classics: a café allongé or a cortado alongside a croissant or pain au chocolat if you're passing through, or a quiche and salad plate if you want to sit down properly. Portions are honest rather than showy — this isn't a place chasing Instagram plating, it's a café that wants you to enjoy your coffee and move on with your day, or linger if the tables are free. Prices sit in the mid-range for central Lyon — not a bargain bakery, not a splurge, just fair for what you get.
+Stick to the classics: a café allongé or a cortado alongside a croissant or pain au chocolat if you're passing through, or a quiche and salad plate if you want to sit down properly. Portions are honest rather than showy — this isn't a place chasing Instagram plating, it's a café that wants you to enjoy your coffee and move on with your day, or linger if the tables are free.
+
+Prices sit in the mid-range for central Lyon — not a bargain bakery, not a splurge, just fair for what you get.
 
 ## When to go
 
-Café Joyeux opens at 8:30am Monday through Saturday and 9:30am on Sunday, closing at 7pm every day of the week — useful to know if you're planning an early start or a late-afternoon coffee break rather than dinner. The quietest stretch is weekday mornings between 8:30am and 10am, when you can usually get a table without waiting and chat with staff without a queue building behind you. Weekends are calmer too, but only up to a point: things stay manageable from opening until around 11am, after which the café fills up and stays busy through to closing at 7pm. If your priority is a relaxed visit rather than a quick grab-and-go, aim for that early window.
+Café Joyeux opens at 8:30am Monday through Saturday and 9:30am on Sunday, closing at 7pm every day of the week — useful to know if you're planning an early start or a late-afternoon coffee break rather than dinner. The quietest stretch is weekday mornings between 8:30am and 10am, when you can usually get a table without waiting and chat with staff without a queue building behind you.
+
+Weekends are calmer too, but only up to a point: things stay manageable from opening until around 11am, after which the café fills up and stays busy through to closing at 7pm. If your priority is a relaxed visit rather than a quick grab-and-go, aim for that early window.
 
 ## How to visit like a local
 
-Order at the counter, pay by card or cash as you would anywhere in central Lyon, and don't feel the need to over-tip or make a production of the café's mission — the staff are professionals doing their jobs, and the best way to show it is to treat the visit like you would any good café: order what you actually want, be patient and clear if communication takes an extra beat, and let the coffee speak for itself. The most common mistake visitors make is treating it purely as a photo-op stop between Bellecour and the traboules of Vieux Lyon, rushing in and out without actually sitting down — the café rewards a slower ten minutes far more than a hurried five. If you're shopping Rue de la République, use it as a mid-morning breather rather than a lunchtime rescue, since the midday-to-evening stretch on weekends is when it's least comfortable to linger.
+Order at the counter, pay by card or cash as you would anywhere in central Lyon, and don't feel the need to over-tip or make a production of the café's mission — the staff are professionals doing their jobs, and the best way to show it is to treat the visit like you would any good café: order what you actually want, be patient and clear if communication takes an extra beat, and let the coffee speak for itself.
+
+The most common mistake visitors make is treating it purely as a photo-op stop between Bellecour and the traboules of Vieux Lyon, rushing in and out without actually sitting down — the café rewards a slower ten minutes far more than a hurried five. If you're shopping Rue de la République, use it as a mid-morning breather rather than a lunchtime rescue, since the midday-to-evening stretch on weekends is when it's least comfortable to linger.

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: new-york-city-ci-siamo
-srcHash: 773edf3b71dd
+srcHash: '83ab4475c9e5'
 title: Ci Siamo 纽约市餐厅指南
 description: Ci Siamo 是 Danny Meyer 旗下 Union Square Hospitality Group 在曼哈顿 Hudson Yards/Manhattan West 区域开设的现代意大利餐厅，以其招牌菜闻名。
 quickAnswer: Ci Siamo 是 Danny Meyer 旗下 Union Square Hospitality Group 在曼哈顿 Hudson Yards/Manhattan West 区域开设的现代意大利餐厅，以其 Rigatoni Alla Gricia（罗马式培根黑椒通心粉）闻名。它荣登 Yelp 2026 年全美百大餐厅榜首，因此订位是整趟用餐体验中最难的一环——请尽早在平台允许的最早时间预订，并在出发前再次确认营业时间。

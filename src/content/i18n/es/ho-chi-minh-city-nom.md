@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-nom
-srcHash: 01c1ff515347
+srcHash: '500edf5410db'
 title: 'NÔM: Dónde comer en Ho Chi Minh City'
 description: 'NÔM en Ho Chi Minh City (Ciudad Ho Chi Minh), Vietnam — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: NÔM es un restaurante Michelin Selected en Ho Chi Minh City dirigido por el chef Chris Fong, nombrado Apertura del Año en la Guía MICHELIN Vietnam 2026. Es un destino serio que exige reserva previa, dedicado a la cocina vietnamita moderna, más que una parada informal de comida callejera, así que reserva con antelación y confirma el horario actual antes de ir.
@@ -20,13 +20,17 @@ faq:
 
 ## Por qué NÔM importa justo ahora
 
-Toda escena gastronómica tiene un momento en el que una sola apertura reordena la conversación, y en Ho Chi Minh City esa apertura es NÔM. El restaurante del chef Chris Fong no solo recibió el reconocimiento de la recién llegada Guía MICHELIN Vietnam, sino que se llevó el premio a Apertura del Año 2026, el tipo de reconocimiento que convierte a un restaurante en tema de conversación en los círculos gastronómicos de la ciudad casi de la noche a la mañana. Saigón no carece de locales nuevos que generan expectación, pero pocos llegan con este nivel de validación antes incluso de apagar las velas de su primer aniversario.
+Toda escena gastronómica tiene un momento en el que una sola apertura reordena la conversación, y en Ho Chi Minh City esa apertura es NÔM. El restaurante del chef Chris Fong no solo recibió el reconocimiento de la recién llegada Guía MICHELIN Vietnam, sino que se llevó el premio a Apertura del Año 2026, el tipo de reconocimiento que convierte a un restaurante en tema de conversación en los círculos gastronómicos de la ciudad casi de la noche a la mañana.
+
+Saigón no carece de locales nuevos que generan expectación, pero pocos llegan con este nivel de validación antes incluso de apagar las velas de su primer aniversario.
 
 Ese impulso se siente incluso antes de probar bocado. Noticias así corren rápido entre los comensales más serios de la ciudad —los que siguen las listas Michelin Selected como otros siguen las tablas de posiciones del fútbol— y un título fresco de Apertura del Año significa mesas que se llenan rápido y se vuelven difíciles de conseguir. Si estás organizando un viaje a Vietnam centrado en la gastronomía y quieres ver hacia dónde se dirige la escena local en lugar de dónde ya ha estado, este es un nombre que vale la pena priorizar en la lista.
 
 ## Qué lo hace diferente
 
-La carta de presentación de NÔM es la cocina vietnamita moderna bajo la dirección del chef Chris Fong, el tipo de cocina donde el punto de vista propio del chef convive con los platos y técnicas por los que el país es conocido. Ese es precisamente el perfil que los inspectores de Michelin tienden a destacar en una edición de guía joven y en rápida evolución: no una pieza de museo de la tradición, ni tampoco un trasplante extranjero, sino algo que se lee como distintivamente propio de esta ciudad y que aun así sorprende a quienes creen conocer bien la comida vietnamita. Los platos exactos y los precios cambian a medida que un menú nuevo se va asentando, así que, en lugar de prometerte un plato específico, conviene ver la visita como una oportunidad de conocer el pensamiento actual de un chef más que un guion fijo.
+La carta de presentación de NÔM es la cocina vietnamita moderna bajo la dirección del chef Chris Fong, el tipo de cocina donde el punto de vista propio del chef convive con los platos y técnicas por los que el país es conocido. Ese es precisamente el perfil que los inspectores de Michelin tienden a destacar en una edición de guía joven y en rápida evolución: no una pieza de museo de la tradición, ni tampoco un trasplante extranjero, sino algo que se lee como distintivamente propio de esta ciudad y que aun así sorprende a quienes creen conocer bien la comida vietnamita.
+
+Los platos exactos y los precios cambian a medida que un menú nuevo se va asentando, así que, en lugar de prometerte un plato específico, conviene ver la visita como una oportunidad de conocer el pensamiento actual de un chef más que un guion fijo.
 
 El marco de "Apertura del Año" también te dice algo práctico: se trata de una dirección más reciente, que todavía está encontrando su ritmo, lo que significa que detalles como la rotación de mesas, la distribución del comedor e incluso el horario exacto pueden cambiar más rápido que en una institución ya establecida. Trata cualquier cosa que leas en internet —incluida esta guía— como un punto de partida, y verifica los detalles directamente con el restaurante antes de planear una velada en torno a él.
 
@@ -38,7 +42,11 @@ Reserva una noche completa en lugar de una parada rápida. Los restaurantes que 
 
 ## Cómo visitarlo como un local
 
-En una ciudad donde un galardón Michelin reciente puede significar que un restaurante esté reservado con semanas de antelación, el mayor error que cometen los visitantes es asumir que pueden presentarse sin reserva. Reserva lo antes posible una vez que tengas tus fechas de viaje definidas, y reconfirma la reserva uno o dos días antes —una cortesía cada vez más esperada en los restaurantes de moda de Saigón, donde una ausencia sin aviso puede costarle la mesa a otra persona en lista de espera—. Viste un punto más elegante que el atuendo callejero típico de Saigón; un local con este tipo de reconocimiento suele atraer un público nocturno que hace lo mismo. El pago en los locales de alta cocina contemporánea y con reconocimiento Michelin en toda la ciudad es casi siempre con tarjeta, y a veces el cargo por servicio ya está incluido, así que conviene preguntar al reservar si se espera una propina adicional o si no es necesaria. Y si quieres tener la imagen más completa de lo que hace especial a NÔM, ve con curiosidad en lugar de una idea fija de lo que es la comida vietnamita "auténtica" — esta es una cocina que se celebra precisamente por ir más allá de esa expectativa.
+En una ciudad donde un galardón Michelin reciente puede significar que un restaurante esté reservado con semanas de antelación, el mayor error que cometen los visitantes es asumir que pueden presentarse sin reserva. Reserva lo antes posible una vez que tengas tus fechas de viaje definidas, y reconfirma la reserva uno o dos días antes —una cortesía cada vez más esperada en los restaurantes de moda de Saigón, donde una ausencia sin aviso puede costarle la mesa a otra persona en lista de espera—.
+
+Viste un punto más elegante que el atuendo callejero típico de Saigón; un local con este tipo de reconocimiento suele atraer un público nocturno que hace lo mismo. El pago en los locales de alta cocina contemporánea y con reconocimiento Michelin en toda la ciudad es casi siempre con tarjeta, y a veces el cargo por servicio ya está incluido, así que conviene preguntar al reservar si se espera una propina adicional o si no es necesaria.
+
+Y si quieres tener la imagen más completa de lo que hace especial a NÔM, ve con curiosidad en lugar de una idea fija de lo que es la comida vietnamita "auténtica" — esta es una cocina que se celebra precisamente por ir más allá de esa expectativa.
 
 ## Cerca, antes o después
 

@@ -53,13 +53,17 @@ eventRecurring: true
 
 ## Why go
 
-Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and 2026 marks the first time in 17 years that India gets to host it. That alone makes the week a landmark for South Asian badminton fans — a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young. For visitors, it's also a reason to combine world-class sport with a first (or repeat) trip to Delhi, one of the subcontinent's great historic capitals.
+Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and 2026 marks the first time in 17 years that India gets to host it. That alone makes the week a landmark for South Asian badminton fans — a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young.
+
+For visitors, it's also a reason to combine world-class sport with a first (or repeat) trip to Delhi, one of the subcontinent's great historic capitals.
 
 ## Getting there and venue basics
 
 The tournament runs **August 17–23, 2026** at the **Indira Gandhi Arena** (also known as Indira Gandhi Indoor Stadium), a longstanding multi-purpose indoor venue in central Delhi near India Gate and the Delhi Cantonment area. It's a well-established sporting venue that has hosted Commonwealth Games events and previous international badminton, so it's built for large crowds, media, and international broadcast.
 
-Delhi's international gateway is Indira Gandhi International Airport (DEL), connected to the city center by the Airport Express Metro Line, which runs into New Delhi Railway Station in around 20 minutes. From there, the Delhi Metro network (Yellow, Blue, and Violet lines connect through central interchange stations like Rajiv Chowk and Central Secretariat) is the most reliable way to reach the arena area, especially during tournament week when road traffic around major venues tends to spike. Because exact nearest-station details and gate arrangements for the 2026 event haven't been finalized publicly, check BWF's official championship page and the Delhi Metro's site closer to August for confirmed access routes.
+Delhi's international gateway is Indira Gandhi International Airport (DEL), connected to the city center by the Airport Express Metro Line, which runs into New Delhi Railway Station in around 20 minutes. From there, the Delhi Metro network (Yellow, Blue, and Violet lines connect through central interchange stations like Rajiv Chowk and Central Secretariat) is the most reliable way to reach the arena area, especially during tournament week when road traffic around major venues tends to spike.
+
+Because exact nearest-station details and gate arrangements for the 2026 event haven't been finalized publicly, check BWF's official championship page and the Delhi Metro's site closer to August for confirmed access routes.
 
 ## What to expect during the week
 

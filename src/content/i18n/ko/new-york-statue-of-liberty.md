@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-york-statue-of-liberty
-srcHash: 838fdde63ca7
+srcHash: '43b5dc2a53b8'
 title: '자유의 여신상: 뉴욕 여행 가이드'
 description: 맨해튼(Manhattan) 배터리 파크(Battery Park)에서 공식 스태추 시티 크루즈(Statue City Cruises) 페리를 타고 자유의 여신상을 방문하세요(또는 뉴저지의 리버티 스테이트 파크(Liberty State Park)에서 출발).
 quickAnswer: 자유의 여신상은 맨해튼(Manhattan) 배터리 파크(Battery Park)(또는 뉴저지 리버티 스테이트 파크(Liberty State Park))에서 출발하는 공식 스태추 시티 크루즈(Statue City Cruises) 페리를 타고 방문할 수 있으며, 이는 리버티 아일랜드(Liberty Island)에 합법적으로 도착할 수 있는 유일한 방법입니다. 특히 받침대(pedestal)나 왕관(crown) 접근권을 원한다면 몇 주 전에 미리 티켓을 예매하고, 리버티 아일랜드와 엘리스 아일랜드(Ellis Island)를 함께 둘러볼 반나절 일정을 계획하세요. 대기 줄이 가장 짧고 사진 찍기 좋은 빛을 얻으려면 평일 이른 아침에 방문하는 것이 좋습니다.
@@ -24,7 +24,9 @@ faq:
 
 ## 가는 방법
 
-리버티 아일랜드(Liberty Island)에 들어갈 수 있는 유일한 공식 방법은 공식 페리 운영업체인 스태추 시티 크루즈(Statue City Cruises)를 이용하는 것입니다. 배는 맨해튼 남단의 배터리 파크(Battery Park)(가장 가까운 지하철역: 1호선 사우스 페리(South Ferry), 또는 R/W 노선 화이트홀 스트리트(Whitehall Street))와 뉴저지 저지시티(Jersey City)의 리버티 스테이트 파크(Liberty State Park)에서 출발합니다. 페리는 순환 노선으로 운행되어 먼저 리버티 아일랜드에 정차한 뒤 엘리스 아일랜드(Ellis Island)로 향하고 다시 돌아옵니다 — 티켓 한 장으로 두 곳 모두 이용할 수 있습니다. 섬에 실제로 상륙해 걸어보고 싶다면, 항구를 한 바퀴 도는 데 그치는 타사 "투어" 보트는 예약하지 마세요. 티켓 설명을 꼼꼼히 확인하세요. 탑승 전 필수로 진행되는 공항 수준의 보안 검색을 위해 페리 시간보다 최소 30\~45분 일찍 도착하세요.
+리버티 아일랜드(Liberty Island)에 들어갈 수 있는 유일한 공식 방법은 공식 페리 운영업체인 스태추 시티 크루즈(Statue City Cruises)를 이용하는 것입니다. 배는 맨해튼 남단의 배터리 파크(Battery Park)(가장 가까운 지하철역: 1호선 사우스 페리(South Ferry), 또는 R/W 노선 화이트홀 스트리트(Whitehall Street))와 뉴저지 저지시티(Jersey City)의 리버티 스테이트 파크(Liberty State Park)에서 출발합니다. 페리는 순환 노선으로 운행되어 먼저 리버티 아일랜드에 정차한 뒤 엘리스 아일랜드(Ellis Island)로 향하고 다시 돌아옵니다 — 티켓 한 장으로 두 곳 모두 이용할 수 있습니다.
+
+섬에 실제로 상륙해 걸어보고 싶다면, 항구를 한 바퀴 도는 데 그치는 타사 "투어" 보트는 예약하지 마세요. 티켓 설명을 꼼꼼히 확인하세요. 탑승 전 필수로 진행되는 공항 수준의 보안 검색을 위해 페리 시간보다 최소 30\~45분 일찍 도착하세요.
 
 ## 볼거리와 즐길 거리
 
@@ -38,4 +40,6 @@ faq:
 
 ## 주변 명소 & 팁
 
-배터리 파크(Battery Park) 자체도 페리를 타기 전이나 후에 20\~30분 정도 둘러볼 만한 가치가 있으며, 시글래스 회전목마(SeaGlass Carousel)와 거버너스 아일랜드(Governors Island) 방향 전망을 즐길 수 있습니다. 로어 맨해튼(Lower Manhattan) 인근에는 9/11 메모리얼 & 뮤지엄(9/11 Memorial & Museum)과 월스트리트(Wall Street)의 황소상(Charging Bull)이 배터리 파크에서 걸어서 15\~20분 거리에 있어, 다운타운 하루 일정으로 쉽게 묶을 수 있습니다. 여름에도 가벼운 재킷을 챙기세요 — 페리 갑판 위 항구 바람은 도심 거리보다 서늘합니다. 왕관(crown) 티켓은 가장 빨리, 종종 몇 주에서 몇 달 전에 매진되므로 여행 날짜가 정해지는 대로 공식 스태추 시티 크루즈(Statue City Cruises)나 국립공원관리청(National Park Service) 웹사이트를 통해 직접 예약하고, 일정이 계절에 따라 변동될 수 있으니 여행 전 항상 최신 운영 시간과 티켓 등급을 확인하세요.
+배터리 파크(Battery Park) 자체도 페리를 타기 전이나 후에 20\~30분 정도 둘러볼 만한 가치가 있으며, 시글래스 회전목마(SeaGlass Carousel)와 거버너스 아일랜드(Governors Island) 방향 전망을 즐길 수 있습니다. 로어 맨해튼(Lower Manhattan) 인근에는 9/11 메모리얼 & 뮤지엄(9/11 Memorial & Museum)과 월스트리트(Wall Street)의 황소상(Charging Bull)이 배터리 파크에서 걸어서 15\~20분 거리에 있어, 다운타운 하루 일정으로 쉽게 묶을 수 있습니다. 여름에도 가벼운 재킷을 챙기세요 — 페리 갑판 위 항구 바람은 도심 거리보다 서늘합니다.
+
+왕관(crown) 티켓은 가장 빨리, 종종 몇 주에서 몇 달 전에 매진되므로 여행 날짜가 정해지는 대로 공식 스태추 시티 크루즈(Statue City Cruises)나 국립공원관리청(National Park Service) 웹사이트를 통해 직접 예약하고, 일정이 계절에 따라 변동될 수 있으니 여행 전 항상 최신 운영 시간과 티켓 등급을 확인하세요.

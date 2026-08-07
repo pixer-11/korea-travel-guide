@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-sea-life-bangkok-ocean-world
-srcHash: e5f269aa1b1c
+srcHash: '012378e9c35b'
 title: 방콕 씨라이프 오션 월드(SEA LIFE Bangkok Ocean World) 여행 가이드
 description: 방콕 씨라이프 오션 월드(SEA LIFE Bangkok Ocean World)는 시암 파라곤(Siam Paragon) 몰 지하 1~2층(B1-B2)에 위치해 있으며, BTS 시암(Siam)역 바로 위에 있어 방콕에서 가장 접근하기 쉬운 주요 명소 중 하나입니다.
 quickAnswer: 방콕 씨라이프 오션 월드(SEA LIFE Bangkok Ocean World)는 시암 파라곤(Siam Paragon) 몰 지하 1~2층(B1-B2)에 위치해 있으며, BTS 시암(Siam)역 바로 위에 있어 방콕에서 가장 접근하기 쉬운 주요 명소 중 하나입니다. 유리 터널을 걸으며 상어와 가오리 수조를 구경하고 먹이 주기나 다이빙 쇼를 보려면 1.5~2.5시간 정도 여유를 두는 것이 좋습니다. 주말에는 몰 쇼핑객까지 겹쳐 붐빌 수 있으니 평일 오전에 방문하는 것을 추천합니다. 현장 매표소보다 저렴하게 이용하려면 온라인으로 미리 티켓을 예매하세요.

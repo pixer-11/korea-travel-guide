@@ -58,7 +58,9 @@ By public transit, take Muni bus routes 28 or 29 toward Fort Mason/Presidio, whi
 
 The pedestrian walkway on the bridge's east sidewalk is open during daylight hours and is the classic way to cross; it's about 1.7 miles one-way to the Vista Point on the Marin side, taking roughly 45 minutes to an hour walking at a relaxed pace with stops for photos. Cyclists use a separate path and can continue on to explore Sausalito, a popular one-way ride finished off with a ferry back to San Francisco's Ferry Building.
 
-For the postcard shot, head to Battery Spencer on the Marin Headlands side — a short drive north across the bridge — which frames the towers against the bay and skyline. Fort Point, a Civil War–era brick fortress sitting directly beneath the bridge's south end, is worth 30–45 minutes and gives you a dramatic upward view of the trusses; it's also where scenes from Hitchcock's "Vertigo" were filmed. The Golden Gate Bridge Welcome Center itself has exhibits on the bridge's construction, including original cables and Art Deco design details by architect Irving Morrow.
+For the postcard shot, head to Battery Spencer on the Marin Headlands side — a short drive north across the bridge — which frames the towers against the bay and skyline. Fort Point, a Civil War–era brick fortress sitting directly beneath the bridge's south end, is worth 30–45 minutes and gives you a dramatic upward view of the trusses; it's also where scenes from Hitchcock's "Vertigo" were filmed.
+
+The Golden Gate Bridge Welcome Center itself has exhibits on the bridge's construction, including original cables and Art Deco design details by architect Irving Morrow.
 
 ## When to go
 
@@ -66,5 +68,7 @@ Fog is the defining variable here — the bridge is famous for disappearing into
 
 ## Nearby & tips
 
-Plan on two to three hours total if you want to walk partway across, visit the Welcome Center, and stop at an overlook. Combine your visit with nearby Crissy Field, a flat waterfront promenade good for a stroll or picnic with bridge views, or the Presidio's Batteries to Bluffs Trail for a longer coastal hike. The Marin Headlands, reachable by car in about ten minutes from the bridge, offer even higher vantage points at Hawk Hill for those willing to drive a bit further. Restrooms and a small café are available at the Welcome Center, but options thin out once you're on the trails, so carry water if you're planning a longer walk or ride.
+Plan on two to three hours total if you want to walk partway across, visit the Welcome Center, and stop at an overlook. Combine your visit with nearby Crissy Field, a flat waterfront promenade good for a stroll or picnic with bridge views, or the Presidio's Batteries to Bluffs Trail for a longer coastal hike. The Marin Headlands, reachable by car in about ten minutes from the bridge, offer even higher vantage points at Hawk Hill for those willing to drive a bit further.
+
+Restrooms and a small café are available at the Welcome Center, but options thin out once you're on the trails, so carry water if you're planning a longer walk or ride.
 

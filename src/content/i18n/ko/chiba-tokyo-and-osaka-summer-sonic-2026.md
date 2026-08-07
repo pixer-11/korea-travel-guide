@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: chiba-tokyo-and-osaka-summer-sonic-2026
-srcHash: e4f2c11e6e86
+srcHash: 'e4f2c11e6e86'
 title: '서머소닉 2026: 알아둘 것들 (도쿄 & 오사카)'
 description: 서머소닉 2026은 2026년 8월 14일부터 16일까지 지바(도쿄 인근)와 오사카에서 동시에 개최되며, 페스티벌 25주년이자 사상 최초의 3일간 개최를 기념합니다.
 quickAnswer: 서머소닉 2026은 2026년 8월 14일부터 16일까지 지바(Chiba, 도쿄 인근)와 오사카(Osaka)에서 동시에 개최되며, 페스티벌 25주년이자 사상 최초의 3일간 개최를 기념합니다. 지금까지 발표된 헤드라이너로는 더 스트록스(The Strokes), 자미로콰이(Jamiroquai), FKA 트윅스(FKA Twigs), 라르크앙시엘(L'Arc-en-Ciel), 에스파(aespa), 르세라핌(LE SSERAFIM)이 있습니다. 항공편이나 숙소를 예약하기 전에 정확한 무대 시간, 행사장 배치, 티켓 등급은 서머소닉 공식 사이트에서 반드시 확인하세요.

@@ -26,6 +26,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
+import { reflow } from '../src/lib/paragraphs.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -243,7 +244,11 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
   // ("**왓 랏차부라나(Wat Ratchaburana)**와"). 145 files were repaired by hand on
   // 2026-08-01 and eleven more arrived with the translations written since,
   // because nothing stopped the translator producing them.
-  const body = fixCjkBold(out.body.trim().replace(/(?<!\\)~/g, '\\~'));
+  // A translation inherits its shape from the English source, but the model
+  // reflows as it goes — and Japanese and Chinese have no spaces to break a
+  // long run of text, so paragraphs re-merge into walls that the English side
+  // no longer has. Same sentence-boundary split, translated words untouched.
+  const body = reflow(fixCjkBold(out.body.trim().replace(/(?<!\\)~/g, '\\~'))).body;
   // js-yaml leaves a hash like 818631094e44 unquoted (not a float under its
   // YAML 1.1 rules), but Astro's YAML 1.2 parser reads it as scientific
   // notation and the number then fails the schema's z.string() — twelve

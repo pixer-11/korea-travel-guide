@@ -35,11 +35,15 @@ Makati doesn't lack for Cantonese restaurants, but Kowloon Station arrived with 
 
 ## What to expect at the table
 
-The specialty is twofold: dimsum service and whole roasted meats, the two pillars that define a good Cantonese roast house. Think steamer carts or made-to-order baskets alongside a roast counter turning out glossy soy-lacquered items meant to be sliced tableside. This is the kind of menu built for groups — you order across both categories and let the dishes stack up in the middle of the table, which makes it a natural pick for a family lunch or a weekend gathering rather than a quiet solo meal. Because the restaurant is still new, specific dish names and prices are best confirmed on the day; a menu this fresh can still be tightened or adjusted in its first months.
+The specialty is twofold: dimsum service and whole roasted meats, the two pillars that define a good Cantonese roast house. Think steamer carts or made-to-order baskets alongside a roast counter turning out glossy soy-lacquered items meant to be sliced tableside. This is the kind of menu built for groups — you order across both categories and let the dishes stack up in the middle of the table, which makes it a natural pick for a family lunch or a weekend gathering rather than a quiet solo meal.
+
+Because the restaurant is still new, specific dish names and prices are best confirmed on the day; a menu this fresh can still be tightened or adjusted in its first months.
 
 ## Where to find it
 
-Kowloon Station sits in Makati, the Philippines' primary business and dining district, an area dense with office towers, malls, and a concentration of the city's better restaurants. Given its family link to Hai Shin Lou — a fixture of Makati's Chinese dining scene for years — it's a safe bet the new spot is aimed at the same crowd: professionals grabbing a proper lunch, extended families marking a birthday or reunion dinner, and diners who already know the Hai Shin Lou style and are curious to compare. If you already know Hai Shin Lou's location, Kowloon Station is easy to treat as a nearby companion visit rather than a detour.
+Kowloon Station sits in Makati, the Philippines' primary business and dining district, an area dense with office towers, malls, and a concentration of the city's better restaurants. Given its family link to Hai Shin Lou — a fixture of Makati's Chinese dining scene for years — it's a safe bet the new spot is aimed at the same crowd: professionals grabbing a proper lunch, extended families marking a birthday or reunion dinner, and diners who already know the Hai Shin Lou style and are curious to compare.
+
+If you already know Hai Shin Lou's location, Kowloon Station is easy to treat as a nearby companion visit rather than a detour.
 
 ## When to go
 
@@ -47,7 +51,11 @@ New, buzzed-about restaurants in Makati tend to see their heaviest traffic at tw
 
 ## How to visit like a local
 
-Book ahead if the restaurant offers reservations — Cantonese roast houses in Makati fill up fast once word spreads, and a new opening riding this much buzz is no exception. If walk-ins are the only option, arrive right at opening for lunch or dinner service rather than mid-service, when tables turn slower. Order dimsum and roast items together rather than one or the other; that's how the format is meant to be eaten, and it lets the kitchen show its range in one sitting. Cash and cards are standard at Makati restaurants of this caliber, so don't assume a cash-only setup. Come with an appetite for sharing — portions at roast houses are built for the table, not the individual — and don't be shy about asking the server which roast is freshest that day, since roasted meats are typically made in batches and timing matters. The biggest mistake newcomers make at a place like this is treating it like a quick solo bite; it rewards a group, an appetite, and a bit of patience if there's a queue.
+Book ahead if the restaurant offers reservations — Cantonese roast houses in Makati fill up fast once word spreads, and a new opening riding this much buzz is no exception. If walk-ins are the only option, arrive right at opening for lunch or dinner service rather than mid-service, when tables turn slower. Order dimsum and roast items together rather than one or the other; that's how the format is meant to be eaten, and it lets the kitchen show its range in one sitting.
+
+Cash and cards are standard at Makati restaurants of this caliber, so don't assume a cash-only setup. Come with an appetite for sharing — portions at roast houses are built for the table, not the individual — and don't be shy about asking the server which roast is freshest that day, since roasted meats are typically made in batches and timing matters.
+
+The biggest mistake newcomers make at a place like this is treating it like a quick solo bite; it rewards a group, an appetite, and a bit of patience if there's a queue.
 
 ## Before you go
 

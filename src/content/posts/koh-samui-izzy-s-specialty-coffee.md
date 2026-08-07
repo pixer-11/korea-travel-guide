@@ -43,7 +43,9 @@ updatedDate: '2026-07-24'
 
 ## Why Izzy's Stands Out
 
-Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip — a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's Specialty Coffee has become one of its anchor addresses, holding a rare 5-star average across more than 1,000 reviews, a signal that this isn't just another beach-town coffee stop riding on location alone. The draw is specialty-grade sourcing and a visible roasting/brewing operation, in a destination where decent espresso used to mean a resort lobby markup. For travelers who care about their coffee as much as their view, it's become something of a pilgrimage stop on the island's north shore.
+Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip — a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's Specialty Coffee has become one of its anchor addresses, holding a rare 5-star average across more than 1,000 reviews, a signal that this isn't just another beach-town coffee stop riding on location alone.
+
+The draw is specialty-grade sourcing and a visible roasting/brewing operation, in a destination where decent espresso used to mean a resort lobby markup. For travelers who care about their coffee as much as their view, it's become something of a pilgrimage stop on the island's north shore.
 
 ## Getting There
 
@@ -63,7 +65,9 @@ Seating is limited and highly sought after, consistent with its shophouse-scale 
 
 ## When to Go
 
-Mornings (from opening until around 10-11am) tend to be the sweet spot: quieter, cooler, and you'll usually get a table without a wait — double-check current opening hours before you head over. Fisherman's Village comes alive again in the evening when the walking street's night market runs (typically Friday nights, though this varies seasonally), so an early coffee followed by a return visit for the market atmosphere makes a natural day-into-evening pairing. Avoid the midday heat lull between roughly noon and 3pm if you want a relaxed sit-down, since both crowds and temperatures peak then.
+Mornings (from opening until around 10-11am) tend to be the sweet spot: quieter, cooler, and you'll usually get a table without a wait — double-check current opening hours before you head over. Fisherman's Village comes alive again in the evening when the walking street's night market runs (typically Friday nights, though this varies seasonally), so an early coffee followed by a return visit for the market atmosphere makes a natural day-into-evening pairing.
+
+Avoid the midday heat lull between roughly noon and 3pm if you want a relaxed sit-down, since both crowds and temperatures peak then.
 
 ## Nearby & Tips
 

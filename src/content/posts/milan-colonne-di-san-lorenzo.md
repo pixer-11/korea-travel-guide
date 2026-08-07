@@ -56,11 +56,15 @@ draft: false
 
 ## Why go
 
-You come around the bend on Corso di Porta Ticinese and there they are, mid-pavement, looking like they've been forgotten by every urban planner since the fall of Rome: sixteen fluted marble columns, weathered grey-brown, holding up nothing but air and a chunk of entablature. Behind them, the red-brick facade of the Basilica di Sant'Eustorgio. In front, tram tracks and scooters weaving past as if this were the most normal thing in the world — which, in Milan, it kind of is. The columns are almost certainly salvaged from a 2nd- or 3rd-century Roman building, probably a bath complex, and were re-erected here in the 4th century as an atrium for the basilica. Nobody stops you, nobody sells you a ticket. You just walk up and stand where Romans and early Christians once stood, on a street that's been in continuous use for close to two thousand years.
+You come around the bend on Corso di Porta Ticinese and there they are, mid-pavement, looking like they've been forgotten by every urban planner since the fall of Rome: sixteen fluted marble columns, weathered grey-brown, holding up nothing but air and a chunk of entablature. Behind them, the red-brick facade of the Basilica di Sant'Eustorgio. In front, tram tracks and scooters weaving past as if this were the most normal thing in the world — which, in Milan, it kind of is.
+
+The columns are almost certainly salvaged from a 2nd- or 3rd-century Roman building, probably a bath complex, and were re-erected here in the 4th century as an atrium for the basilica. Nobody stops you, nobody sells you a ticket. You just walk up and stand where Romans and early Christians once stood, on a street that's been in continuous use for close to two thousand years.
 
 ## What you'll actually see
 
-The columns form a straight colonnade a few steps back from the road, iron railings looped loosely between some of them, moss and pigeon-grey lichen filling the fluting on the shaded side. At the base sits a fourth-century marble fountain basin, cracked and softened by centuries of rain. A bronze statue of San Bassiano, patron of Lodi, stands off to one side, added much later and looking almost too clean next to the Roman stone. If you look closely at the capitals you can still make out the carving style typical of late-Imperial Roman work — plain, functional, built for load-bearing rather than decoration, which is part of why they've survived: they were never meant to be pretty, just strong. A small plaque nearby gives the historical context in Italian and English, though it's easy to miss if you're focused on getting a clean photo between passing trams.
+The columns form a straight colonnade a few steps back from the road, iron railings looped loosely between some of them, moss and pigeon-grey lichen filling the fluting on the shaded side. At the base sits a fourth-century marble fountain basin, cracked and softened by centuries of rain. A bronze statue of San Bassiano, patron of Lodi, stands off to one side, added much later and looking almost too clean next to the Roman stone.
+
+If you look closely at the capitals you can still make out the carving style typical of late-Imperial Roman work — plain, functional, built for load-bearing rather than decoration, which is part of why they've survived: they were never meant to be pretty, just strong. A small plaque nearby gives the historical context in Italian and English, though it's easy to miss if you're focused on getting a clean photo between passing trams.
 
 ## Getting there
 
@@ -68,7 +72,9 @@ The columns sit on Corso di Porta Ticinese, a short walk south of the Duomo thro
 
 ## When to go
 
-Because this is an open-air monument on a public street, it's accessible 24 hours a day, every day — there's no gate, ticket booth, or closing time to work around. That said, the character of the spot changes a lot with the hour. Early morning, before the shops open, the street is quiet enough that you can hear your own footsteps on the cobbles and the columns catch soft, low light. By late afternoon and into the evening, the steps around the fountain fill with students and locals having a drink from the nearby bars, and the area turns into an informal gathering spot until late. If you want the columns to yourself for photos, aim for a weekday morning; if you want to see them as a living piece of the neighborhood, come at dusk.
+Because this is an open-air monument on a public street, it's accessible 24 hours a day, every day — there's no gate, ticket booth, or closing time to work around. That said, the character of the spot changes a lot with the hour. Early morning, before the shops open, the street is quiet enough that you can hear your own footsteps on the cobbles and the columns catch soft, low light.
+
+By late afternoon and into the evening, the steps around the fountain fill with students and locals having a drink from the nearby bars, and the area turns into an informal gathering spot until late. If you want the columns to yourself for photos, aim for a weekday morning; if you want to see them as a living piece of the neighborhood, come at dusk.
 
 ## Nearby to combine with your visit
 
@@ -76,4 +82,6 @@ Sant'Eustorgio itself is worth going inside for — its Portinari Chapel holds a
 
 ## How to visit like a local
 
-Treat the columns as a passing landmark rather than a destination requiring planning — that's how most Milanese treat it, walking past on the way somewhere else rather than making a special trip. There's nothing to book and nothing to pay; it's genuinely under the radar compared to Milan's bigger sights, so you won't find tour groups clustering here. The etiquette is simple: it's fine to sit on the steps near the fountain, as locals do, but be mindful that people actually live and work on this street, so keep noise down late at night. Order a coffee or spritz at one of the small bars along Corso di Porta Ticinese and take it slow rather than treating this as a five-minute photo stop — the real pleasure is in noticing how a Roman ruin, a medieval basilica, and modern tram lines all occupy the same twenty square meters without anyone making a fuss about it.
+Treat the columns as a passing landmark rather than a destination requiring planning — that's how most Milanese treat it, walking past on the way somewhere else rather than making a special trip. There's nothing to book and nothing to pay; it's genuinely under the radar compared to Milan's bigger sights, so you won't find tour groups clustering here. The etiquette is simple: it's fine to sit on the steps near the fountain, as locals do, but be mindful that people actually live and work on this street, so keep noise down late at night.
+
+Order a coffee or spritz at one of the small bars along Corso di Porta Ticinese and take it slow rather than treating this as a five-minute photo stop — the real pleasure is in noticing how a Roman ruin, a medieval basilica, and modern tram lines all occupy the same twenty square meters without anyone making a fuss about it.

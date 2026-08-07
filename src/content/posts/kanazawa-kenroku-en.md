@@ -77,7 +77,9 @@ Kenroku-en (兼六園) means "Garden of the Six Attributes," a reference to a cl
 
 ## Getting There
 
-Kenroku-en sits in central Kanazawa, directly adjacent to Kanazawa Castle Park. From JR Kanazawa Station, the easiest route is the Kanazawa Loop Bus or the Kenrokuen Shuttle, both of which take about 10-15 minutes to the Kenrokuen-shita/Kenrokuen Kanko Center stop, right at one of the garden's main entrances (Katsurazaka or Kodatsuno gate area). A taxi from the station takes roughly the same time in light traffic. If you'd rather walk, it's about 25-30 minutes on foot through the Korinbo shopping district. Combine the visit with Kanazawa Castle Park, which connects directly via the Ishikawa-mon Gate side, so you can see both without backtracking.
+Kenroku-en sits in central Kanazawa, directly adjacent to Kanazawa Castle Park. From JR Kanazawa Station, the easiest route is the Kanazawa Loop Bus or the Kenrokuen Shuttle, both of which take about 10-15 minutes to the Kenrokuen-shita/Kenrokuen Kanko Center stop, right at one of the garden's main entrances (Katsurazaka or Kodatsuno gate area). A taxi from the station takes roughly the same time in light traffic.
+
+If you'd rather walk, it's about 25-30 minutes on foot through the Korinbo shopping district. Combine the visit with Kanazawa Castle Park, which connects directly via the Ishikawa-mon Gate side, so you can see both without backtracking.
 
 ## What to See Inside
 
@@ -93,7 +95,9 @@ Exit toward Kanazawa Castle Park to extend the visit, or head the other directio
 
 ## When to Go
 
-Kenroku-en earns its "beautiful in every season" reputation. Spring (late March–April) brings roughly 400 cherry trees into bloom. Early summer brings irises around the ponds. Autumn (mid-to-late November) turns the maples around Kasumigaike deep red, and the garden sometimes opens for special evening illuminations during peak color — worth checking local tourism listings if visiting then. Winter is arguably the most iconic season: from around November through mid-March, gardeners install **yukizuri**, the rope webs strung from tall wooden poles to protect pine branches from heavy snow, a technique unique to this region and a defining image of Kanazawa. Arrive right at opening (the garden typically opens early morning) for the best light and thinnest crowds, since it's consistently one of the most-visited sights in the city.
+Kenroku-en earns its "beautiful in every season" reputation. Spring (late March–April) brings roughly 400 cherry trees into bloom. Early summer brings irises around the ponds. Autumn (mid-to-late November) turns the maples around Kasumigaike deep red, and the garden sometimes opens for special evening illuminations during peak color — worth checking local tourism listings if visiting then. Winter is arguably the most iconic season: from around November through mid-March, gardeners install **yukizuri**, the rope webs strung from tall wooden poles to protect pine branches from heavy snow, a technique unique to this region and a defining image of Kanazawa.
+
+Arrive right at opening (the garden typically opens early morning) for the best light and thinnest crowds, since it's consistently one of the most-visited sights in the city.
 
 ## Practical Tips
 

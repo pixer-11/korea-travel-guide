@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-delhi-bwf-world-championships-2026
-srcHash: 0b87265812eb
+srcHash: '67ad651eef9b'
 title: '2026 BWF 세계배드민턴선수권대회: 알아둘 것들 (뉴델리)'
 description: 2026 BWF 세계배드민턴선수권대회는 2026년 8월 17일부터 23일까지 뉴델리(New Delhi) 인디라 간디 아레나(Indira Gandhi Arena)에서 열리며, 인도가 이 대회를 개최하는 것은 17년 만이다.
 quickAnswer: 2026 BWF 세계배드민턴선수권대회는 2026년 8월 17일부터 23일까지 뉴델리(New Delhi) 인디라 간디 아레나(Indira Gandhi Arena)에서 열리며, 인도가 이 대회를 개최하는 것은 17년 만이다. 스이유치(Shi Yu Qi), 안세영(An Se-young), 락샤 센(Lakshya Sen), PV 신두(PV Sindhu) 등 스타 선수들이 대회를 이끌 것으로 예상되며, 보통 마지막 주말 결승전에 가장 많은 관중이 몰린다. 항공권과 숙소는 일찍 예약하고, 정확한 경기 일정과 티켓 등급은 대회일이 다가오면 BWF 공식 사이트에서 확인하는 것이 좋다.

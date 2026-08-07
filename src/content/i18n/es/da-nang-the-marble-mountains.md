@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: da-nang-the-marble-mountains
-srcHash: d1017b89455b
+srcHash: '9a47fb36faef'
 title: 'Las Montañas de Mármol: Guía de viaje de Da Nang'
 description: Las Montañas de Mármol (Ngũ Hành Sơn) son un conjunto de cinco colinas de piedra y mármol a unos 8 km al sur del centro de Da Nang, repletas de cuevas budistas, templos y pagodas.
 quickAnswer: Las Montañas de Mármol (Ngũ Hành Sơn) son un conjunto de cinco colinas de piedra y mármol a unos 8 km al sur del centro de Da Nang, repletas de cuevas budistas, templos y pagodas. Reserva entre 2 y 3 horas, usa calzado con buen agarre para los escalones irregulares de las cuevas, y ve temprano en la mañana para evitar tanto el calor como las multitudes de los autobuses turísticos. Thuy Son (Montaña del Agua) es el pico principal para subir, al que se llega en ascensor o por 156 escalones de piedra.
@@ -20,11 +20,17 @@ faq:
 
 ## Por qué ir
 
-Ngũ Hành Sơn, o las Montañas de los Cinco Elementos, deben su nombre a los cinco elementos chinos —metal, madera, agua, fuego y tierra—, cada uno representado por su propio macizo de mármol y piedra caliza que se alza abruptamente en la llanura costera entre Da Nang y Hoi An. Solo Thuy Son (Montaña del Agua), la más grande, está acondicionada para los visitantes, y está horadada por cuevas naturales que las comunidades budistas vietnamitas y cham han usado como santuarios durante siglos. En su interior encontrarás grutas cubiertas de estalactitas, cicatrices de bala de la era de la guerra por su uso como hospital y escondite del Viet Cong, y pagodas como Tam Thai y Linh Ung que aún funcionan como lugares de culto activos. Con una calificación de 4.4 estrellas en casi 42,000 reseñas, es una de las paradas mejor valoradas de forma constante entre Da Nang y Hoi An.
+Ngũ Hành Sơn, o las Montañas de los Cinco Elementos, deben su nombre a los cinco elementos chinos —metal, madera, agua, fuego y tierra—, cada uno representado por su propio macizo de mármol y piedra caliza que se alza abruptamente en la llanura costera entre Da Nang y Hoi An. Solo Thuy Son (Montaña del Agua), la más grande, está acondicionada para los visitantes, y está horadada por cuevas naturales que las comunidades budistas vietnamitas y cham han usado como santuarios durante siglos.
+
+En su interior encontrarás grutas cubiertas de estalactitas, cicatrices de bala de la era de la guerra por su uso como hospital y escondite del Viet Cong, y pagodas como Tam Thai y Linh Ung que aún funcionan como lugares de culto activos. Con una calificación de 4.4 estrellas en casi 42,000 reseñas, es una de las paradas mejor valoradas de forma constante entre Da Nang y Hoi An.
 
 ## Cómo llegar
 
-El sitio se encuentra en 81 Huyền Trân Công Chúa, en el barrio de Hoà Hải, distrito de Ngũ Hành Sơn, a unos 20 minutos en taxi o Grab desde el centro de Da Nang (zona de la playa My Khe) y a unos 15-20 minutos del casco antiguo de Hoi An, lo que lo convierte en una parada fácil entre ambos destinos. No hay línea de tren ni de autobús directa pensada para turistas, así que la mayoría de los visitantes llega en taxi, en motocicleta alquilada o como parte de un paquete de traslado entre Hoi An y Da Nang. Si conduces por tu cuenta, busca los estacionamientos de motocicletas a lo largo de la calle Huyền Trân Công Chúa, frente a la entrada principal de la montaña; los encargados cobran una pequeña tarifa. El desvío es fácil de identificar por los talleres de tallado en mármol y las tiendas de estatuas que bordean la calle a ambos lados.
+El sitio se encuentra en 81 Huyền Trân Công Chúa, en el barrio de Hoà Hải, distrito de Ngũ Hành Sơn, a unos 20 minutos en taxi o Grab desde el centro de Da Nang (zona de la playa My Khe) y a unos 15-20 minutos del casco antiguo de Hoi An, lo que lo convierte en una parada fácil entre ambos destinos.
+
+No hay línea de tren ni de autobús directa pensada para turistas, así que la mayoría de los visitantes llega en taxi, en motocicleta alquilada o como parte de un paquete de traslado entre Hoi An y Da Nang. Si conduces por tu cuenta, busca los estacionamientos de motocicletas a lo largo de la calle Huyền Trân Công Chúa, frente a la entrada principal de la montaña; los encargados cobran una pequeña tarifa.
+
+El desvío es fácil de identificar por los talleres de tallado en mármol y las tiendas de estatuas que bordean la calle a ambos lados.
 
 ## Qué ver y hacer
 
@@ -41,7 +47,9 @@ Al pie de la montaña, el pueblo circundante de Non Nuoc ha sido durante generac
 
 ## Cuándo ir
 
-Procura ir temprano en la mañana (antes de las 9 a.m.) o al final de la tarde para evitar tanto el calor del mediodía como los autobuses turísticos que se concentran a media mañana. La temporada seca, aproximadamente de febrero a agosto, ofrece las condiciones más cómodas; la temporada de lluvias de Da Nang (de septiembre a diciembre) trae lluvias más fuertes que dejan resbaladizos los escalones de las cuevas. Las visitas entre semana son notablemente más tranquilas que los fines de semana, cuando acuden tanto familias locales como grupos turísticos.
+Procura ir temprano en la mañana (antes de las 9 a.m.) o al final de la tarde para evitar tanto el calor del mediodía como los autobuses turísticos que se concentran a media mañana. La temporada seca, aproximadamente de febrero a agosto, ofrece las condiciones más cómodas; la temporada de lluvias de Da Nang (de septiembre a diciembre) trae lluvias más fuertes que dejan resbaladizos los escalones de las cuevas.
+
+Las visitas entre semana son notablemente más tranquilas que los fines de semana, cuando acuden tanto familias locales como grupos turísticos.
 
 ## Cerca de allí y consejos
 

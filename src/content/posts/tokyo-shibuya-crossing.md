@@ -46,11 +46,15 @@ draft: false
 
 ## Why go
 
-Shibuya Crossing (21 Udagawacho, Shibuya, Tokyo 150-0042) is the intersection you've already seen in dozens of films and TV segments about Tokyo — the one where five crosswalks converge and, when the lights change, hundreds of pedestrians flood the street from every direction at once. It's rated 4.5 stars across more than 22,000 reviews, making it one of the most consistently praised free attractions in the city. There's no admission fee, no ticket, and no set hours — it's a functioning street intersection that happens to be one of the world's busiest and most photographed. At peak times, estimates put the number of people crossing per light cycle well into the hundreds, sometimes over a thousand during evening rush.
+Shibuya Crossing (21 Udagawacho, Shibuya, Tokyo 150-0042) is the intersection you've already seen in dozens of films and TV segments about Tokyo — the one where five crosswalks converge and, when the lights change, hundreds of pedestrians flood the street from every direction at once. It's rated 4.5 stars across more than 22,000 reviews, making it one of the most consistently praised free attractions in the city.
+
+There's no admission fee, no ticket, and no set hours — it's a functioning street intersection that happens to be one of the world's busiest and most photographed. At peak times, estimates put the number of people crossing per light cycle well into the hundreds, sometimes over a thousand during evening rush.
 
 ## Getting there
 
-The crossing sits directly outside the Hachiko Exit of Shibuya Station, one of Tokyo's largest transit hubs, served by JR lines (Yamanote, Saikyo, Shonan-Shinjuku), the Ginza, Hanzomon, and Fukutoshin subway lines, plus the Keio and Tokyu lines. Take the Hachiko Exit specifically — it deposits you almost on top of the crossing and next to the famous Hachiko dog statue, a popular meeting point named after the loyal Akita who waited for his owner at the station for years. From Shinjuku or Tokyo Station, it's roughly a 15-20 minute train ride. If arriving by taxi, ask for "Shibuya Hachiko-mae" rather than a street address, since drivers know the intersection by that name.
+The crossing sits directly outside the Hachiko Exit of Shibuya Station, one of Tokyo's largest transit hubs, served by JR lines (Yamanote, Saikyo, Shonan-Shinjuku), the Ginza, Hanzomon, and Fukutoshin subway lines, plus the Keio and Tokyu lines. Take the Hachiko Exit specifically — it deposits you almost on top of the crossing and next to the famous Hachiko dog statue, a popular meeting point named after the loyal Akita who waited for his owner at the station for years.
+
+From Shinjuku or Tokyo Station, it's roughly a 15-20 minute train ride. If arriving by taxi, ask for "Shibuya Hachiko-mae" rather than a street address, since drivers know the intersection by that name.
 
 ## What to see and do
 
@@ -65,8 +69,12 @@ At night, the crossing is framed by giant video screens and neon signage, simila
 
 ## When to go
 
-Weekday early afternoons are noticeably calmer if you just want to walk through without a crowd. For photos and atmosphere, go around dusk — roughly 30-60 minutes before sunset through early evening — when there's still enough light for clear shots but the neon signs and screens have started to glow. Weekend evenings are the most crowded, especially Friday and Saturday nights, and during festivals like Halloween or New Year's the area can become extremely dense, occasionally with crowd-control measures in place. If you specifically want the "empty crossing" photo, early morning on a weekday (before 8am) is your best shot, though foot traffic never fully disappears.
+Weekday early afternoons are noticeably calmer if you just want to walk through without a crowd. For photos and atmosphere, go around dusk — roughly 30-60 minutes before sunset through early evening — when there's still enough light for clear shots but the neon signs and screens have started to glow. Weekend evenings are the most crowded, especially Friday and Saturday nights, and during festivals like Halloween or New Year's the area can become extremely dense, occasionally with crowd-control measures in place.
+
+If you specifically want the "empty crossing" photo, early morning on a weekday (before 8am) is your best shot, though foot traffic never fully disappears.
 
 ## Nearby & tips
 
-Plan for 20-30 minutes at street level, longer if you're queuing for Shibuya Sky or a window seat at Starbucks. Combine the visit with a walk through Center Gai for cheap eats and arcades, or head toward Miyashita Park, a multi-level shopping and green space a short walk northeast, for a break from the crowds. The Hachiko statue is a reliable spot to regroup with a group before or after crossing, since phone signal and noise make coordinating mid-crossing tricky. Hold your phone steady and low if filming — the crowd density means sudden jostling is common, and locals move briskly, so linger at the edges rather than stopping mid-crossing for photos.
+Plan for 20-30 minutes at street level, longer if you're queuing for Shibuya Sky or a window seat at Starbucks. Combine the visit with a walk through Center Gai for cheap eats and arcades, or head toward Miyashita Park, a multi-level shopping and green space a short walk northeast, for a break from the crowds. The Hachiko statue is a reliable spot to regroup with a group before or after crossing, since phone signal and noise make coordinating mid-crossing tricky.
+
+Hold your phone steady and low if filming — the crowd density means sudden jostling is common, and locals move briskly, so linger at the edges rather than stopping mid-crossing for photos.

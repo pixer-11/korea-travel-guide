@@ -76,11 +76,15 @@ draft: false
 
 ## Why go
 
-Gardens by the Bay is the horticultural centerpiece of Singapore's Marina Bay reclaimed land, built around the idea of a "City in a Garden." Its signature Supertrees — vertical gardens ranging from 25 to 50 meters tall, several fitted with solar cells and rainwater harvesting systems — have become as recognizable a skyline feature as the Marina Bay Sands hotel they face. With a 4.7 rating across more than 158,000 reviews, it's one of the most visited attractions in Singapore, so this is not an under-the-radar find — it's a headline sight that rewards a bit of planning to avoid the busiest crowds.
+Gardens by the Bay is the horticultural centerpiece of Singapore's Marina Bay reclaimed land, built around the idea of a "City in a Garden." Its signature Supertrees — vertical gardens ranging from 25 to 50 meters tall, several fitted with solar cells and rainwater harvesting systems — have become as recognizable a skyline feature as the Marina Bay Sands hotel they face.
+
+With a 4.7 rating across more than 158,000 reviews, it's one of the most visited attractions in Singapore, so this is not an under-the-radar find — it's a headline sight that rewards a bit of planning to avoid the busiest crowds.
 
 ## Getting there
 
-The gardens sit at 18 Marina Gardens Dr, on reclaimed land between the Marina Reservoir and Marina Barrage. The easiest access is Bayfront MRT Station (Circle and Downtown Lines), which connects directly via a covered underground link to the gardens and to Marina Bay Sands. From Bayfront, follow signs for Gardens by the Bay exit — it's a short, air-conditioned walk, useful given Singapore's heat and humidity. Alternatively, Marina Bay MRT Station (Circle, North-South, and Thomson-East Coast Lines) is a 10–15 minute walk along the waterfront promenade, a pleasant option in the early morning or evening. Buses and taxis/ride-hail drop off near the Meadow entrance closest to Bay South Garden, where most first-time visitors start.
+The gardens sit at 18 Marina Gardens Dr, on reclaimed land between the Marina Reservoir and Marina Barrage. The easiest access is Bayfront MRT Station (Circle and Downtown Lines), which connects directly via a covered underground link to the gardens and to Marina Bay Sands. From Bayfront, follow signs for Gardens by the Bay exit — it's a short, air-conditioned walk, useful given Singapore's heat and humidity.
+
+Alternatively, Marina Bay MRT Station (Circle, North-South, and Thomson-East Coast Lines) is a 10–15 minute walk along the waterfront promenade, a pleasant option in the early morning or evening. Buses and taxis/ride-hail drop off near the Meadow entrance closest to Bay South Garden, where most first-time visitors start.
 
 ## What to see and do
 
@@ -96,7 +100,9 @@ Singapore's equatorial climate means heat and humidity are constant, so early mo
 
 ## How to visit like a local
 
-Because this is a heavily visited, headline attraction rather than a quiet local secret, the practical local-style move is timing rather than discovery. Book Flower Dome, Cloud Forest, and OCBC Skyway tickets online in advance for a specific time slot — this is how regular visitors avoid the ticket-counter queues that build up by mid-morning. Most locals treat the free outdoor areas (Supertree Grove, the lakes, Bay East) as an evening stroll or jogging route rather than a daytime tourist stop, arriving after the worst heat has passed. Payment inside is cashless-friendly — cards and mobile payment (including PayNow) are standard at ticket counters and cafés. The most common visitor mistake is trying to see both conservatories and the Skyway on the same tight timeline as Marina Bay Sands or the Merlion — the gardens alone comfortably fill three to four hours, so pair them with just one other nearby stop, such as the Marina Barrage, rather than cramming in a full waterfront circuit in one day.
+Because this is a heavily visited, headline attraction rather than a quiet local secret, the practical local-style move is timing rather than discovery. Book Flower Dome, Cloud Forest, and OCBC Skyway tickets online in advance for a specific time slot — this is how regular visitors avoid the ticket-counter queues that build up by mid-morning. Most locals treat the free outdoor areas (Supertree Grove, the lakes, Bay East) as an evening stroll or jogging route rather than a daytime tourist stop, arriving after the worst heat has passed.
+
+Payment inside is cashless-friendly — cards and mobile payment (including PayNow) are standard at ticket counters and cafés. The most common visitor mistake is trying to see both conservatories and the Skyway on the same tight timeline as Marina Bay Sands or the Merlion — the gardens alone comfortably fill three to four hours, so pair them with just one other nearby stop, such as the Marina Barrage, rather than cramming in a full waterfront circuit in one day.
 
 ## Nearby
 

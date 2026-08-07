@@ -42,7 +42,9 @@ country: South Korea
 
 ## Why Go
 
-Tongyeong is often called the "Naples of the East" for its island-studded coastline, and the best way to grasp why is from above. The Tongyeong Cablecar Skywalk pairs a scenic cable car ascent up Mireuksan with a glass-floor observation deck, giving visitors a rare 360-degree vantage over the harbor city, its shipyards, and the dozens of islands scattered across Hallyeohaesang National Park. With a 4.4 rating across more than 5,500 reviews, it's one of the most consistently praised attractions in the region — not a gimmick stop but a genuine geographic highlight.
+Tongyeong is often called the "Naples of the East" for its island-studded coastline, and the best way to grasp why is from above. The Tongyeong Cablecar Skywalk pairs a scenic cable car ascent up Mireuksan with a glass-floor observation deck, giving visitors a rare 360-degree vantage over the harbor city, its shipyards, and the dozens of islands scattered across Hallyeohaesang National Park.
+
+With a 4.4 rating across more than 5,500 reviews, it's one of the most consistently praised attractions in the region — not a gimmick stop but a genuine geographic highlight.
 
 ## Getting There
 
@@ -58,7 +60,9 @@ Beyond the Skywalk, the summit area has additional lookout points and a small sn
 
 ## When to Go
 
-Spring (April–May) and autumn (October–November) offer the clearest skies and most comfortable hiking weather. Early morning departures (right after opening) or the last couple of hours before closing tend to have the thinnest crowds and the best light for photos — sunset from the summit, with the harbor lighting up below, is a particular highlight in the warmer months. Summer brings haze and higher humidity that can dull the long-distance views, while winter offers crisp, clear air but colder, windier conditions at the exposed summit and Skywalk platform. Check the operating hours and any weather-related closures (the cable car sometimes suspends operation in high winds) before heading out, since schedules can shift seasonally.
+Spring (April–May) and autumn (October–November) offer the clearest skies and most comfortable hiking weather. Early morning departures (right after opening) or the last couple of hours before closing tend to have the thinnest crowds and the best light for photos — sunset from the summit, with the harbor lighting up below, is a particular highlight in the warmer months. Summer brings haze and higher humidity that can dull the long-distance views, while winter offers crisp, clear air but colder, windier conditions at the exposed summit and Skywalk platform.
+
+Check the operating hours and any weather-related closures (the cable car sometimes suspends operation in high winds) before heading out, since schedules can shift seasonally.
 
 ## Nearby & Tips
 

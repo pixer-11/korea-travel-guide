@@ -63,7 +63,9 @@ draft: false
 
 ## Why go
 
-Most people who wander into Central Park from the Upper East Side never make it this far north, which is exactly why the Conservatory Garden feels like a different park altogether. There's no traffic noise bleeding through the trees, no tour groups clustered around a statue. Instead you get clipped yew hedges, a long allée of crabapple trees, and the kind of quiet that makes you drop your voice without meaning to. It's the only formal garden inside Central Park, built in 1937 on the site of an actual conservatory (a glass greenhouse structure), and it's laid out in three distinct national styles — Italian, French, and English — each with its own mood and its own fountain.
+Most people who wander into Central Park from the Upper East Side never make it this far north, which is exactly why the Conservatory Garden feels like a different park altogether. There's no traffic noise bleeding through the trees, no tour groups clustered around a statue. Instead you get clipped yew hedges, a long allée of crabapple trees, and the kind of quiet that makes you drop your voice without meaning to.
+
+It's the only formal garden inside Central Park, built in 1937 on the site of an actual conservatory (a glass greenhouse structure), and it's laid out in three distinct national styles — Italian, French, and English — each with its own mood and its own fountain.
 
 ## Getting there
 
@@ -71,13 +73,21 @@ The garden sits at 1233 5th Ave, on the park's eastern edge at 105th Street, in 
 
 ## What to see
 
-Start in the **Italian Garden** at the center, the formal core you enter through the Vanderbilt Gate: a wide lawn framed by wisteria-covered pergolas and a tiered fountain, with the crabapple allée running north. To the south, the **French Garden** unfolds as a sunken parterre — geometric beds of seasonal annuals arranged around the Untermyer Fountain, its bronze figures of three dancing maidens by Walter Schott the garden's best-known piece. To the north, the **English Garden** is looser and more romantic: curving paths, a lily pond, and the Burnett Fountain, dedicated to Frances Hodgson Burnett, author of *The Secret Garden* — fitting, since this whole space has that hidden-door feeling. Spring brings tulips and the crabapple bloom in late April/early May; the pergola's wisteria follows shortly after. Chrysanthemums take over the French Garden by fall, and even in winter the boxwood structure holds its shape. Budget 45 minutes for a walk-through, an hour or more if you brought a book or a sandwich.
+Start in the **Italian Garden** at the center, the formal core you enter through the Vanderbilt Gate: a wide lawn framed by wisteria-covered pergolas and a tiered fountain, with the crabapple allée running north. To the south, the **French Garden** unfolds as a sunken parterre — geometric beds of seasonal annuals arranged around the Untermyer Fountain, its bronze figures of three dancing maidens by Walter Schott the garden's best-known piece.
+
+To the north, the **English Garden** is looser and more romantic: curving paths, a lily pond, and the Burnett Fountain, dedicated to Frances Hodgson Burnett, author of *The Secret Garden* — fitting, since this whole space has that hidden-door feeling. Spring brings tulips and the crabapple bloom in late April/early May; the pergola's wisteria follows shortly after. Chrysanthemums take over the French Garden by fall, and even in winter the boxwood structure holds its shape. Budget 45 minutes for a walk-through, an hour or more if you brought a book or a sandwich.
 
 ## When to go
 
-The garden is open 8am until dusk daily, and the crowd patterns are worth planning around. Weekends get busiest from 8am to 7pm, when the fountains and blooming beds draw photographers, dog walkers, and picnicking families, so if you want the place closer to how it feels on an ordinary weekday afternoon, aim for after 1pm — quietest hours on weekends run 1pm–9pm. On weekdays it's calmest from 2pm–9pm, making a late-afternoon visit, after the morning joggers and before dusk, the sweet spot. Weekday mornings and midday hours tend to be busier by comparison.
+The garden is open 8am until dusk daily, and the crowd patterns are worth planning around. Weekends get busiest from 8am to 7pm, when the fountains and blooming beds draw photographers, dog walkers, and picnicking families, so if you want the place closer to how it feels on an ordinary weekday afternoon, aim for after 1pm — quietest hours on weekends run 1pm–9pm.
+
+On weekdays it's calmest from 2pm–9pm, making a late-afternoon visit, after the morning joggers and before dusk, the sweet spot. Weekday mornings and midday hours tend to be busier by comparison.
 
 ## How to visit like a local
 
-There's no entry fee and no ticket booth — you just walk in, so there's nothing to book and no queue to navigate. Regulars treat it less as a sightseeing stop and more as a place to sit still: bring a folding book or a coffee and claim one of the benches near the lily pond in the English Garden rather than the more photographed Italian lawn. The etiquette here is simple but real — this is one of the few spots in Central Park where picnicking on the grass isn't really the norm; stick to the paths and benches, and keep voices down, since hush is the whole point of the place. The mistake most first-time visitors make is treating it as a five-minute photo stop on the way to the Conservatory Water or the Guggenheim; slow down instead, walk all three gardens in sequence (Italian, then French, then English, or reverse), and you'll notice the transition in mood from formal to wild. There's no food or drink sold inside, so grab something beforehand from one of the delis along Madison or 5th Avenue. Payment isn't a factor anywhere inside the garden itself, so there's nothing to carry but yourself.
+There's no entry fee and no ticket booth — you just walk in, so there's nothing to book and no queue to navigate. Regulars treat it less as a sightseeing stop and more as a place to sit still: bring a folding book or a coffee and claim one of the benches near the lily pond in the English Garden rather than the more photographed Italian lawn.
+
+The etiquette here is simple but real — this is one of the few spots in Central Park where picnicking on the grass isn't really the norm; stick to the paths and benches, and keep voices down, since hush is the whole point of the place. The mistake most first-time visitors make is treating it as a five-minute photo stop on the way to the Conservatory Water or the Guggenheim; slow down instead, walk all three gardens in sequence (Italian, then French, then English, or reverse), and you'll notice the transition in mood from formal to wild.
+
+There's no food or drink sold inside, so grab something beforehand from one of the delis along Madison or 5th Avenue. Payment isn't a factor anywhere inside the garden itself, so there's nothing to carry but yourself.
 

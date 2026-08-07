@@ -32,19 +32,25 @@ draft: true
 
 ## Why Casa Lavanda is worth the drive
 
-You don't stumble onto Casa Lavanda on your way to somewhere else — you go because you've decided to go. That's the first thing to understand about it. It sits in Ulupelit, a small village inland from Şile, on Istanbul's Black Sea flank, far enough from the ferry piers and tram lines that the city's usual rhythm — the call to prayer bouncing off apartment blocks, the seagulls over Galata Bridge — has already faded out by the time you arrive. What replaces it is quieter: wind moving through hazelnut groves, the particular green smell of a kitchen garden after watering, gravel underfoot instead of cobblestone.
+You don't stumble onto Casa Lavanda on your way to somewhere else — you go because you've decided to go. That's the first thing to understand about it. It sits in Ulupelit, a small village inland from Şile, on Istanbul's Black Sea flank, far enough from the ferry piers and tram lines that the city's usual rhythm — the call to prayer bouncing off apartment blocks, the seagulls over Galata Bridge — has already faded out by the time you arrive.
+
+What replaces it is quieter: wind moving through hazelnut groves, the particular green smell of a kitchen garden after watering, gravel underfoot instead of cobblestone.
 
 Chef Emre Şen built his reputation here on restraint rather than spectacle. Around 80% of the vegetables that reach the table are grown in the restaurant's own organic garden, which means the menu bends to what the soil is doing that month rather than the other way around. That approach earned Casa Lavanda a Michelin Green Star for sustainability, alongside a Red Star for the cooking itself — a combination that's still rare enough in Turkey to make this one of the country's most talked-about tables among people who take farm-to-table seriously rather than as a marketing phrase.
 
 ## Getting there
 
-Şile is roughly 70–90 km from central Istanbul, and Ulupelit village sits further inland from the Şile town center itself, so this is not a taxi-and-back trip. Most visitors drive or arrange a car service for the day — expect something over an hour each way from the European side, longer from parts of the Asian side depending on traffic on the routes out toward the Black Sea coast. There's no metro or suburban rail that reaches this far; if you don't have a car, hiring a driver for the return journey is the practical option, since public buses to Şile exist but won't get you the final stretch into the village itself.
+Şile is roughly 70–90 km from central Istanbul, and Ulupelit village sits further inland from the Şile town center itself, so this is not a taxi-and-back trip. Most visitors drive or arrange a car service for the day — expect something over an hour each way from the European side, longer from parts of the Asian side depending on traffic on the routes out toward the Black Sea coast.
+
+There's no metro or suburban rail that reaches this far; if you don't have a car, hiring a driver for the return journey is the practical option, since public buses to Şile exist but won't get you the final stretch into the village itself.
 
 Because of the distance, this isn't a stop you tack onto a day already packed with sightseeing. Treat it as the plan for the day — head out mid-morning, linger over lunch, and drive back before dark.
 
 ## What to expect at the table
 
-Don't go in picturing a fixed, printed menu you can look up in advance — kitchens like this one build dishes around what's actually ready to pick, so specifics shift with the season. What you can count on is vegetable-forward cooking that treats the garden as the main event rather than a garnish, plated with the kind of quiet confidence that comes from a chef who knows exactly where every ingredient came from that morning. Given the Red Star recognition, portions and pacing tend toward a considered, multi-course rhythm rather than a quick bite — budget a couple of hours at the table, not a fast lunch.
+Don't go in picturing a fixed, printed menu you can look up in advance — kitchens like this one build dishes around what's actually ready to pick, so specifics shift with the season. What you can count on is vegetable-forward cooking that treats the garden as the main event rather than a garnish, plated with the kind of quiet confidence that comes from a chef who knows exactly where every ingredient came from that morning.
+
+Given the Red Star recognition, portions and pacing tend toward a considered, multi-course rhythm rather than a quick bite — budget a couple of hours at the table, not a fast lunch.
 
 Because prices, exact hours, and reservation policy can all shift — and because a place with this level of recognition often runs a tight seating schedule — confirm directly with the restaurant before you commit to the drive. Don't build a whole day trip around assumptions about opening times.
 
@@ -54,4 +60,6 @@ Late spring through early autumn is when a garden-driven kitchen like this shows
 
 ## How to visit like a local
 
-Reserve ahead — a restaurant carrying both a Green and Red Michelin Star operates with limited covers, and turning up without a booking after a 90-minute drive is the single biggest mistake visitors make. Call or book online well before your date, and reconfirm the day prior, since rural addresses like this can be easy to mistype into a GPS. Dress is relaxed but put-together — this is countryside fine dining, not a casual roadside stop. Bring cash as a backup even if cards are accepted, since connectivity out toward Şile's villages can be patchy. Pair the meal with a slow walk around Şile town itself afterward — its lighthouse and small harbor make a natural second stop on the same drive, turning the trip into a full Black Sea coast day rather than a there-and-back errand.
+Reserve ahead — a restaurant carrying both a Green and Red Michelin Star operates with limited covers, and turning up without a booking after a 90-minute drive is the single biggest mistake visitors make. Call or book online well before your date, and reconfirm the day prior, since rural addresses like this can be easy to mistype into a GPS.
+
+Dress is relaxed but put-together — this is countryside fine dining, not a casual roadside stop. Bring cash as a backup even if cards are accepted, since connectivity out toward Şile's villages can be patchy. Pair the meal with a slow walk around Şile town itself afterward — its lighthouse and small harbor make a natural second stop on the same drive, turning the trip into a full Black Sea coast day rather than a there-and-back errand.

@@ -30,11 +30,15 @@ heroImage:
 
 ## Why everyone's talking about it
 
-You'll probably hear about Mil Toast before you ever see it — a wobbling, golden-brown slab of soufflé French toast filmed from above, jiggling like a custard, filling a phone screen somewhere between a Seoul vlog and a food-trend compilation. That clip has done more to build this café's queue than any sign out front. It's become one of the most talked-about breakfast tables in the city precisely because it photographs and films so well: the toast catches the light, the fork sinks in slow-motion, the syrup pools. In a city with no shortage of café trends, Mil Toast is currently one of the ones actually pulling a line out the door.
+You'll probably hear about Mil Toast before you ever see it — a wobbling, golden-brown slab of soufflé French toast filmed from above, jiggling like a custard, filling a phone screen somewhere between a Seoul vlog and a food-trend compilation. That clip has done more to build this café's queue than any sign out front. It's become one of the most talked-about breakfast tables in the city precisely because it photographs and films so well: the toast catches the light, the fork sinks in slow-motion, the syrup pools.
+
+In a city with no shortage of café trends, Mil Toast is currently one of the ones actually pulling a line out the door.
 
 ## What you're actually queueing for
 
-The signature is the soufflé French toast itself — a version of the dish built to be airy rather than dense, more like a baked custard balanced on bread than a typical diner slice. Beyond that, treat the rest of the menu as unconfirmed until you're standing in front of it; cafés riding this kind of viral wave often tweak offerings, and prices and exact preparation can shift. Go in expecting the one dish everyone's there for, and treat anything else on the menu as a pleasant surprise rather than something to plan around.
+The signature is the soufflé French toast itself — a version of the dish built to be airy rather than dense, more like a baked custard balanced on bread than a typical diner slice. Beyond that, treat the rest of the menu as unconfirmed until you're standing in front of it; cafés riding this kind of viral wave often tweak offerings, and prices and exact preparation can shift.
+
+Go in expecting the one dish everyone's there for, and treat anything else on the menu as a pleasant surprise rather than something to plan around.
 
 ## Getting there
 
@@ -46,8 +50,14 @@ An hour-long wait on a weekend morning is the reality being reported here, and t
 
 ## Before you go
 
-Confirm three things the same day you plan to visit: opening hours, whether they take reservations or walk-ins only, and whether there's a cap on party size or a time limit per table. Viral cafés in Seoul frequently adjust all three as demand spikes, and a policy that was true last month may not hold today. If reservations are possible, book through whatever platform the café currently uses — check its Instagram bio or Naver listing, since that's usually the fastest-updated source. If it's walk-in only, ask the staff for an estimated wait when you arrive rather than guessing from the length of the visible line, since Korean café queues often extend around a corner or into a waiting area you can't see from outside.
+Confirm three things the same day you plan to visit: opening hours, whether they take reservations or walk-ins only, and whether there's a cap on party size or a time limit per table. Viral cafés in Seoul frequently adjust all three as demand spikes, and a policy that was true last month may not hold today. If reservations are possible, book through whatever platform the café currently uses — check its Instagram bio or Naver listing, since that's usually the fastest-updated source.
+
+If it's walk-in only, ask the staff for an estimated wait when you arrive rather than guessing from the length of the visible line, since Korean café queues often extend around a corner or into a waiting area you can't see from outside.
 
 ## How to visit like a local
 
-Seoul café culture runs on a few unwritten rules that make the wait easier. Most places like this operate on a name-and-number system — staff take your name (or phone number) and text or call when your table's ready, so you're free to wander nearby rather than stand in a physical line; ask "웨이팅 있어요?" (way-i-ting isseoyo — "is there a wait?") if you're unsure how the queue works here. Payment is almost always by card or mobile pay (Naver Pay, Kakao Pay) rather than cash, and tipping isn't expected anywhere in Korean cafés. The mistake most visitors make is treating the wait like a formality and showing up at the busiest possible hour, then being surprised when it stretches past an hour — build slack into your morning rather than scheduling something tight right after. If the café has a stated seating-time limit once you're inside, respect it; turning tables quickly is often part of how these viral spots manage the crowd at all. And once you're seated, resist ordering on autopilot — ask staff what's freshest or best that morning, since a café built around one showpiece dish often rotates smaller sides you won't have researched in advance.
+Seoul café culture runs on a few unwritten rules that make the wait easier. Most places like this operate on a name-and-number system — staff take your name (or phone number) and text or call when your table's ready, so you're free to wander nearby rather than stand in a physical line; ask "웨이팅 있어요?" (way-i-ting isseoyo — "is there a wait?") if you're unsure how the queue works here.
+
+Payment is almost always by card or mobile pay (Naver Pay, Kakao Pay) rather than cash, and tipping isn't expected anywhere in Korean cafés. The mistake most visitors make is treating the wait like a formality and showing up at the busiest possible hour, then being surprised when it stretches past an hour — build slack into your morning rather than scheduling something tight right after.
+
+If the café has a stated seating-time limit once you're inside, respect it; turning tables quickly is often part of how these viral spots manage the crowd at all. And once you're seated, resist ordering on autopilot — ask staff what's freshest or best that morning, since a café built around one showpiece dish often rotates smaller sides you won't have researched in advance.

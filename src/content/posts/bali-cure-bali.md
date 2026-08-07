@@ -63,7 +63,9 @@ Cure Bali sits inside the Regent Bali Canggu, one of the area's newest five-star
 
 ## What makes the food distinct
 
-The defining idea behind Cure is the deliberate friction between European culinary technique — think classical sauce work, precise plating, and ingredient-forward composition — and the bold, layered flavors typical of Asian cooking. Walsh earned his Michelin star in Singapore doing exactly this kind of cross-cultural cooking, and the Bali outpost is positioned as a continuation of that identity rather than a simplified resort version. Because this is a newly opened restaurant, avoid relying on secondhand menu descriptions or price lists you find online; confirm current offerings, tasting menu structure, and pricing directly with the restaurant or resort before you go, since new openings often adjust their format in the first months.
+The defining idea behind Cure is the deliberate friction between European culinary technique — think classical sauce work, precise plating, and ingredient-forward composition — and the bold, layered flavors typical of Asian cooking. Walsh earned his Michelin star in Singapore doing exactly this kind of cross-cultural cooking, and the Bali outpost is positioned as a continuation of that identity rather than a simplified resort version.
+
+Because this is a newly opened restaurant, avoid relying on secondhand menu descriptions or price lists you find online; confirm current offerings, tasting menu structure, and pricing directly with the restaurant or resort before you go, since new openings often adjust their format in the first months.
 
 ## Best time to visit
 
@@ -75,4 +77,8 @@ Canggu rewards a full afternoon or evening around a meal like this. Berawa Beach
 
 ## How to visit like a local
 
-Treat a reservation here the way Bali's residents and long-term expats treat any high-profile new opening: book online or by phone as early as possible, since new destination restaurants in Canggu tend to fill quickly through word of mouth and social media before official reviews even land. Dress smart-casual — Bali's resort dining skews relaxed but elevated, so beachwear is out and linen or light collared shirts are the safer bet. Payment at resort restaurants is almost always by card, with service charge and tax often already built into the bill, so there's rarely a need to carry large amounts of cash, though a small additional cash tip is appreciated if service stands out. The most common visitor mistake is assuming a new opening will have a settled menu and fixed pricing early on — call ahead to confirm both, along with current hours, rather than trusting outdated listings. Arriving slightly before your reservation, rather than right at peak dinner rush, also tends to get you a calmer welcome and a moment to take in the setting before the room fills.
+Treat a reservation here the way Bali's residents and long-term expats treat any high-profile new opening: book online or by phone as early as possible, since new destination restaurants in Canggu tend to fill quickly through word of mouth and social media before official reviews even land. Dress smart-casual — Bali's resort dining skews relaxed but elevated, so beachwear is out and linen or light collared shirts are the safer bet.
+
+Payment at resort restaurants is almost always by card, with service charge and tax often already built into the bill, so there's rarely a need to carry large amounts of cash, though a small additional cash tip is appreciated if service stands out. The most common visitor mistake is assuming a new opening will have a settled menu and fixed pricing early on — call ahead to confirm both, along with current hours, rather than trusting outdated listings.
+
+Arriving slightly before your reservation, rather than right at peak dinner rush, also tends to get you a calmer welcome and a moment to take in the setting before the room fills.

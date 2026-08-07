@@ -49,7 +49,9 @@ draft: false
 
 ## Why go
 
-You see it long before you reach it — a honey-colored tower rising above the rooftops of the Casco Antiguo, its silhouette instantly readable as Seville. La Giralda began life in the 12th century as the minaret of the city's Almohad mosque, built from the same brick and stone that gives it that warm, weathered glow at sunset. When Seville's Gothic cathedral swallowed the mosque in the 15th century, the tower survived, and in the 1560s the Spanish topped it with a Renaissance belfry and a bronze weathervane statue of Faith — the "Giraldillo" that gives the tower its name, from *girar*, to turn. Few structures in Spain compress that much layered history into one silhouette: Islamic geometry at the base, Christian triumph at the top.
+You see it long before you reach it — a honey-colored tower rising above the rooftops of the Casco Antiguo, its silhouette instantly readable as Seville. La Giralda began life in the 12th century as the minaret of the city's Almohad mosque, built from the same brick and stone that gives it that warm, weathered glow at sunset. When Seville's Gothic cathedral swallowed the mosque in the 15th century, the tower survived, and in the 1560s the Spanish topped it with a Renaissance belfry and a bronze weathervane statue of Faith — the "Giraldillo" that gives the tower its name, from *girar*, to turn.
+
+Few structures in Spain compress that much layered history into one silhouette: Islamic geometry at the base, Christian triumph at the top.
 
 ## Getting there
 
@@ -57,13 +59,21 @@ The tower sits on Av. de la Constitución in the Casco Antiguo, wedged against t
 
 ## What to see inside
 
-You don't buy a separate ticket for La Giralda — access is included with cathedral admission, and the entrance funnels you in near the Orange Tree Courtyard, itself a leftover from the mosque's ablution garden. Instead of stairs, the tower has 35 ramps, wide enough that the muezzin could once ride a horse to the top for the call to prayer. It's an easier climb than a typical bell tower, but at over 100 vertiginous feet, still enough to leave you breathing hard by the last stretch. At the top, arched windows frame Seville in every direction: the cathedral's flying buttresses immediately below, the Guadalquivir River and Triana beyond, and on clear days the hills ringing the city. The bells themselves, cast over centuries, hang just overhead — worth pausing to notice their individual names and dates, a detail most visitors rush past.
+You don't buy a separate ticket for La Giralda — access is included with cathedral admission, and the entrance funnels you in near the Orange Tree Courtyard, itself a leftover from the mosque's ablution garden. Instead of stairs, the tower has 35 ramps, wide enough that the muezzin could once ride a horse to the top for the call to prayer.
+
+It's an easier climb than a typical bell tower, but at over 100 vertiginous feet, still enough to leave you breathing hard by the last stretch. At the top, arched windows frame Seville in every direction: the cathedral's flying buttresses immediately below, the Guadalquivir River and Triana beyond, and on clear days the hills ringing the city. The bells themselves, cast over centuries, hang just overhead — worth pausing to notice their individual names and dates, a detail most visitors rush past.
 
 ## When to go
 
-Reviewers consistently rate this among Seville's must-do stops — it holds a 4.7 rating across more than 58,000 reviews — and that popularity means real crowds, especially through the cathedral's midday hours when tour groups cluster on the ramps. Go as close to opening time as you can manage, or aim for the final entry slot before closing, when the light turns gold and the ramps empty out. Spring and autumn afternoons bring the clearest visibility from the top; summer mornings are brutally hot by 11am, and the tower itself has little shade or airflow once you're climbing.
+Reviewers consistently rate this among Seville's must-do stops — it holds a 4.7 rating across more than 58,000 reviews — and that popularity means real crowds, especially through the cathedral's midday hours when tour groups cluster on the ramps. Go as close to opening time as you can manage, or aim for the final entry slot before closing, when the light turns gold and the ramps empty out.
+
+Spring and autumn afternoons bring the clearest visibility from the top; summer mornings are brutally hot by 11am, and the tower itself has little shade or airflow once you're climbing.
 
 ## How to visit like a local
 
-This is not a place to expect a quiet, undiscovered corner — it's one of the most visited sights in Andalusia, so plan around the crowds rather than hoping to avoid them. Book your cathedral ticket online in advance; walk-up lines at the ticket office can eat an hour you'd rather spend inside. Once through security, head straight for the tower entrance before wandering the cathedral's naves — most visitors do it in the opposite order and end up hitting the ramps at peak congestion. Wear real shoes with grip; the ramps are smooth stone and can get slick with foot traffic. Photography is fine throughout, but keep voices down — this is still a working church, and mass times restrict access on Sunday mornings. Payment for tickets is by card as much as cash, and tipping isn't expected for a self-guided visit like this. The mistake most first-timers make: rushing the climb to "get the photo" and skipping the small details, like the transition point roughly two-thirds up where the Almohad brickwork gives way to Renaissance masonry — run your eyes along the walls here rather than just charging upward, and the tower's whole layered history becomes visible in the stone itself.
+This is not a place to expect a quiet, undiscovered corner — it's one of the most visited sights in Andalusia, so plan around the crowds rather than hoping to avoid them. Book your cathedral ticket online in advance; walk-up lines at the ticket office can eat an hour you'd rather spend inside. Once through security, head straight for the tower entrance before wandering the cathedral's naves — most visitors do it in the opposite order and end up hitting the ramps at peak congestion.
+
+Wear real shoes with grip; the ramps are smooth stone and can get slick with foot traffic. Photography is fine throughout, but keep voices down — this is still a working church, and mass times restrict access on Sunday mornings. Payment for tickets is by card as much as cash, and tipping isn't expected for a self-guided visit like this.
+
+The mistake most first-timers make: rushing the climb to "get the photo" and skipping the small details, like the transition point roughly two-thirds up where the Almohad brickwork gives way to Renaissance masonry — run your eyes along the walls here rather than just charging upward, and the tower's whole layered history becomes visible in the stone itself.
 

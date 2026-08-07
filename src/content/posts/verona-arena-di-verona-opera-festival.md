@@ -56,20 +56,25 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 ---
-
 You feel it before you see it: the low murmur of a crowd gathering on pink-hued cobblestones, cushions tucked under arms, as the sun drops behind the rooftops of Piazza Bra. Then the amphitheatre itself comes into view — tiers of pale limestone stacked in a vast oval, worn smooth by nearly two thousand years of use. This is the Arena di Verona, and for one of Italy's great summer traditions, it becomes an opera house without a roof.
 
 ## Why go
 
-Few opera experiences anywhere compare to hearing a full orchestra and chorus fill a Roman amphitheatre built in the 1st century AD. The scale is the point: sets for Aida can include full-size columns and processions of performers, voices rising unamplified (for the most part) into open air, with the night sky as a backdrop instead of a gilded ceiling. This is the 103rd edition of the festival, running since June 12 and continuing through September 12, 2026, so there's a wide window to plan around — and multiple titles in rotation, including Turandot, Nabucco, and La Traviata alongside Aida.
+Few opera experiences anywhere compare to hearing a full orchestra and chorus fill a Roman amphitheatre built in the 1st century AD. The scale is the point: sets for Aida can include full-size columns and processions of performers, voices rising unamplified (for the most part) into open air, with the night sky as a backdrop instead of a gilded ceiling.
+
+This is the 103rd edition of the festival, running since June 12 and continuing through September 12, 2026, so there's a wide window to plan around — and multiple titles in rotation, including Turandot, Nabucco, and La Traviata alongside Aida.
 
 ## Getting there
 
-The Arena sits directly on Piazza Bra, in the heart of Verona's historic center — an easy walk from Verona Porta Nuova train station, roughly 15-20 minutes on foot, or a short bus ride into the pedestrianized old town. If you're coming from Venice, Milan, or Bologna, Verona is a straightforward stop on the main rail lines, which makes a day-trip-plus-evening-performance itinerary very doable. Since the whole area around the amphitheatre is pedestrian-only in the evenings, plan to arrive on foot for the final stretch regardless of how you get into town.
+The Arena sits directly on Piazza Bra, in the heart of Verona's historic center — an easy walk from Verona Porta Nuova train station, roughly 15-20 minutes on foot, or a short bus ride into the pedestrianized old town. If you're coming from Venice, Milan, or Bologna, Verona is a straightforward stop on the main rail lines, which makes a day-trip-plus-evening-performance itinerary very doable.
+
+Since the whole area around the amphitheatre is pedestrian-only in the evenings, plan to arrive on foot for the final stretch regardless of how you get into town.
 
 ## What to expect inside
 
-Seating ranges from the numbered stone steps (the gradinata, where cushion rental is customary and the view is still remarkably good) up to reserved chairs closer to the stage. Performances are long by design — a full opera with intervals can easily run three-plus hours — and start once dusk has properly settled, since the productions rely on stage lighting against a dark sky. Bring a layer even in summer; stone holds the day's heat but the night air over an open-air bowl cools quickly once the sun is fully down. Binoculars are worth packing if you're seated higher up the tiers, since the stage sits a long way below the upper rows.
+Seating ranges from the numbered stone steps (the gradinata, where cushion rental is customary and the view is still remarkably good) up to reserved chairs closer to the stage. Performances are long by design — a full opera with intervals can easily run three-plus hours — and start once dusk has properly settled, since the productions rely on stage lighting against a dark sky.
+
+Bring a layer even in summer; stone holds the day's heat but the night air over an open-air bowl cools quickly once the sun is fully down. Binoculars are worth packing if you're seated higher up the tiers, since the stage sits a long way below the upper rows.
 
 ## When to go
 
@@ -77,7 +82,9 @@ With the festival spanning June through mid-September, both early and late summe
 
 ## How to visit like a local
 
-Regular festival-goers buy the unnumbered stone-step seating and bring or rent a cushion at the entrance — it's a far more comfortable few hours than the bare stone suggests, and it's how generations of Veronese have watched opera here. Doors typically open a couple of hours before showtime, and locals use that window to grab a pre-opera bite at one of the trattorias ringing Piazza Bra rather than rushing in early, since the stone seats fill gradually rather than all at once. Payment for tickets and most nearby restaurants is standard card/cash Italian practice — nothing opera-specific there. The etiquette to know: settle into your seat before the lights dim and avoid using flash photography once the performance begins. The mistake most first-timers make is underestimating the evening chill and the length of the program — pack a light jacket and pace your intermission food and drink accordingly.
+Regular festival-goers buy the unnumbered stone-step seating and bring or rent a cushion at the entrance — it's a far more comfortable few hours than the bare stone suggests, and it's how generations of Veronese have watched opera here. Doors typically open a couple of hours before showtime, and locals use that window to grab a pre-opera bite at one of the trattorias ringing Piazza Bra rather than rushing in early, since the stone seats fill gradually rather than all at once.
+
+Payment for tickets and most nearby restaurants is standard card/cash Italian practice — nothing opera-specific there. The etiquette to know: settle into your seat before the lights dim and avoid using flash photography once the performance begins. The mistake most first-timers make is underestimating the evening chill and the length of the program — pack a light jacket and pace your intermission food and drink accordingly.
 
 ## Before you book
 

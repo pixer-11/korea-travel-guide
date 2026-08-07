@@ -67,11 +67,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-The Alhambra is the best-preserved medieval Islamic palace complex in Europe, built primarily under the Nasrid dynasty in the 13th-14th centuries on a hilltop overlooking Granada. Its reputation (a 4.8 rating from nearly 158,000 reviewers isn't an accident) rests on the intricacy of its stucco and tile work, the engineering of its water channels, and the way the whole site — palaces, fortress, and gardens — tells the story of the last Muslim kingdom in Iberia before the 1492 Christian conquest. The carved cedar ceilings of the Hall of the Ambassadors and the honeycomb muqarnas domes of the Hall of the Two Sisters are among the finest surviving examples of Moorish decorative art anywhere.
+The Alhambra is the best-preserved medieval Islamic palace complex in Europe, built primarily under the Nasrid dynasty in the 13th-14th centuries on a hilltop overlooking Granada. Its reputation (a 4.8 rating from nearly 158,000 reviewers isn't an accident) rests on the intricacy of its stucco and tile work, the engineering of its water channels, and the way the whole site — palaces, fortress, and gardens — tells the story of the last Muslim kingdom in Iberia before the 1492 Christian conquest.
+
+The carved cedar ceilings of the Hall of the Ambassadors and the honeycomb muqarnas domes of the Hall of the Two Sisters are among the finest surviving examples of Moorish decorative art anywhere.
 
 ## Getting there
 
-The complex sits on the Sabika hill above Granada's Centro district, at C. Real de la Alhambra, s/n. From Plaza Nueva in the city center, it's a steep 20-25 minute uphill walk via the Cuesta de Gomérez and Calle Real de la Alhambra — doable, but wear real shoes. Alternatively, the C3 or C4 minibus (Granada's small red municipal buses designed for these narrow streets) runs from Plaza Nueva directly to the Alhambra's Puerta de la Justicia entrance area for a couple of euros. Taxis from the center take about 10 minutes. If driving, there's a pay parking garage near the ticket office and main entrance, though most visitors skip the car given Granada's tight old-town streets.
+The complex sits on the Sabika hill above Granada's Centro district, at C. Real de la Alhambra, s/n. From Plaza Nueva in the city center, it's a steep 20-25 minute uphill walk via the Cuesta de Gomérez and Calle Real de la Alhambra — doable, but wear real shoes. Alternatively, the C3 or C4 minibus (Granada's small red municipal buses designed for these narrow streets) runs from Plaza Nueva directly to the Alhambra's Puerta de la Justicia entrance area for a couple of euros.
+
+Taxis from the center take about 10 minutes. If driving, there's a pay parking garage near the ticket office and main entrance, though most visitors skip the car given Granada's tight old-town streets.
 
 ## What to see
 
@@ -85,8 +89,12 @@ Don't rush the connecting gardens and courtyards between these zones — the Par
 
 ## When to go
 
-Early morning (opening, typically around 8:30am) or the last slots before closing offer the softest light for photos and noticeably thinner crowds, especially in the palace interiors where space is tight. Spring (April-May) and autumn (October) bring mild weather and blooming or golden gardens without the brutal summer heat — Granada regularly hits the mid-30s Celsius in July and August, and there's little shade on the fortress ramparts. Night visits to the Nasrid Palaces are offered seasonally and give a completely different, quieter atmosphere under interior lighting; check current dates when booking.
+Early morning (opening, typically around 8:30am) or the last slots before closing offer the softest light for photos and noticeably thinner crowds, especially in the palace interiors where space is tight. Spring (April-May) and autumn (October) bring mild weather and blooming or golden gardens without the brutal summer heat — Granada regularly hits the mid-30s Celsius in July and August, and there's little shade on the fortress ramparts.
+
+Night visits to the Nasrid Palaces are offered seasonally and give a completely different, quieter atmosphere under interior lighting; check current dates when booking.
 
 ## Nearby & tips
 
-Confirm current hours and ticket prices on the official Patronato de la Alhambra site before traveling, since both shift seasonally and tickets frequently sell out days or weeks in advance in peak season (April-October). There's no re-entry once you leave, so eat beforehand or bring water. After the visit, wander down into the Albaicín, the old Moorish quarter facing the Alhambra across the Darro valley — the Mirador de San Nicolás viewpoint there gives the classic postcard shot of the palace complex against the Sierra Nevada. Sacromonte, just beyond, is Granada's traditional flamenco cave-house neighborhood if you want to pair the day with a show in the evening.
+Confirm current hours and ticket prices on the official Patronato de la Alhambra site before traveling, since both shift seasonally and tickets frequently sell out days or weeks in advance in peak season (April-October). There's no re-entry once you leave, so eat beforehand or bring water. After the visit, wander down into the Albaicín, the old Moorish quarter facing the Alhambra across the Darro valley — the Mirador de San Nicolás viewpoint there gives the classic postcard shot of the palace complex against the Sierra Nevada.
+
+Sacromonte, just beyond, is Granada's traditional flamenco cave-house neighborhood if you want to pair the day with a show in the evening.

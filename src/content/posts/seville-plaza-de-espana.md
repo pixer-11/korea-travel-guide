@@ -56,19 +56,27 @@ draft: false
 
 ## Why go
 
-You feel the scale before you understand it. The plaza opens up in a vast brick-and-tile semicircle, a moat-like canal curving in front of it, four bridges representing Spain's medieval kingdoms crossing the water at intervals. Built for the 1929 Ibero-American Exposition, it was never a palace or a fort — it was a stage set, designed by architect Aníbal González to show off what Andalusian craft could do, and it still works exactly that way. Sunlight moves across the central tower's orange-and-yellow tiles through the day, and the whole building seems to change color with it. This isn't a quiet corner of Seville; it's one of the most photographed squares in Spain, and it earns that reputation on sight.
+You feel the scale before you understand it. The plaza opens up in a vast brick-and-tile semicircle, a moat-like canal curving in front of it, four bridges representing Spain's medieval kingdoms crossing the water at intervals. Built for the 1929 Ibero-American Exposition, it was never a palace or a fort — it was a stage set, designed by architect Aníbal González to show off what Andalusian craft could do, and it still works exactly that way.
+
+Sunlight moves across the central tower's orange-and-yellow tiles through the day, and the whole building seems to change color with it. This isn't a quiet corner of Seville; it's one of the most photographed squares in Spain, and it earns that reputation on sight.
 
 ## What to see
 
-Walk the curve slowly and you'll find 48 ceramic-tiled alcoves set into the base of the building, one for each Spanish province, arranged alphabetically and each showing a map and a historic scene from that region. Locals and visitors alike hunt for their home province's bench — it's the plaza's quiet running game. Above, painted azulejo tiles wrap the balustrades and staircases in blue, green, and ochre geometric patterns, a technique Seville has practiced since the Moorish period. The canal itself is rentable by rowboat, a slightly kitsch but genuinely fun way to see the building's reflection from water level. Overhead, watch for the alcove ceilings and the bridge ironwork — the detail rewards looking up as much as looking straight ahead.
+Walk the curve slowly and you'll find 48 ceramic-tiled alcoves set into the base of the building, one for each Spanish province, arranged alphabetically and each showing a map and a historic scene from that region. Locals and visitors alike hunt for their home province's bench — it's the plaza's quiet running game. Above, painted azulejo tiles wrap the balustrades and staircases in blue, green, and ochre geometric patterns, a technique Seville has practiced since the Moorish period.
+
+The canal itself is rentable by rowboat, a slightly kitsch but genuinely fun way to see the building's reflection from water level. Overhead, watch for the alcove ceilings and the bridge ironwork — the detail rewards looking up as much as looking straight ahead.
 
 ## Getting there
 
-The plaza sits at Av. Isabel la Católica, on the southern edge of the historic center, folded into the northern end of the sprawling María Luisa Park. From the Seville Cathedral or Real Alcázar, it's a flat 15-20 minute walk south along Paseo de las Delicias or through the park itself — genuinely one of the nicer walks in the city, past orange trees and fountains. If you'd rather ride, city buses C1, C2, C3, and C4 all stop nearby, and the Prado de San Sebastián tram/bus interchange is a five-minute walk away. There's no metro station directly on the square. Taxis and rideshares can drop you right at Puerta de Jerez or the plaza's edge.
+The plaza sits at Av. Isabel la Católica, on the southern edge of the historic center, folded into the northern end of the sprawling María Luisa Park. From the Seville Cathedral or Real Alcázar, it's a flat 15-20 minute walk south along Paseo de las Delicias or through the park itself — genuinely one of the nicer walks in the city, past orange trees and fountains.
+
+If you'd rather ride, city buses C1, C2, C3, and C4 all stop nearby, and the Prado de San Sebastián tram/bus interchange is a five-minute walk away. There's no metro station directly on the square. Taxis and rideshares can drop you right at Puerta de Jerez or the plaza's edge.
 
 ## When to go
 
-This is a very popular stop — with well over 180,000 visitor reviews, it draws large group tours, wedding photographers, and cruise-excursion buses throughout the day, especially from mid-morning through mid-afternoon. Arrive right at opening in the early morning, or come back in the last hour of daylight, when the low sun turns the tilework amber and the crowds thin out. Midday in summer also means real heat with almost no shade over the water, so an early or evening visit is more comfortable, not just quieter. The plaza is unticketed and technically always accessible, though it's really an outdoor daytime and early-evening experience — after dark it's dimly lit and quieter still, mostly locals passing through.
+This is a very popular stop — with well over 180,000 visitor reviews, it draws large group tours, wedding photographers, and cruise-excursion buses throughout the day, especially from mid-morning through mid-afternoon. Arrive right at opening in the early morning, or come back in the last hour of daylight, when the low sun turns the tilework amber and the crowds thin out.
+
+Midday in summer also means real heat with almost no shade over the water, so an early or evening visit is more comfortable, not just quieter. The plaza is unticketed and technically always accessible, though it's really an outdoor daytime and early-evening experience — after dark it's dimly lit and quieter still, mostly locals passing through.
 
 ## Nearby
 
@@ -76,4 +84,6 @@ María Luisa Park spreads out behind the plaza, worth a wander for its tiled fou
 
 ## How to visit like a local
 
-Since this is a landmark rather than a hidden spot, the real skill is timing and positioning, not discovery. Skip the group-tour hours by coming before 9am or after 6pm — you'll get the same tilework with a fraction of the people. There's no entry fee and no ticket booth, so don't let anyone try to sell you an "entrance ticket" near the gates; the boat rental and horse-drawn carriage rides are the only things you actually pay for, and those vendors work on cash or card. Don't just shoot the wide postmark photo from the center — walk the full curve to find your own province's alcove, which is what most Sevillanos do when they bring visiting family here. And resist the urge to rush: the building rewards a slow lap more than a five-minute photo stop.
+Since this is a landmark rather than a hidden spot, the real skill is timing and positioning, not discovery. Skip the group-tour hours by coming before 9am or after 6pm — you'll get the same tilework with a fraction of the people. There's no entry fee and no ticket booth, so don't let anyone try to sell you an "entrance ticket" near the gates; the boat rental and horse-drawn carriage rides are the only things you actually pay for, and those vendors work on cash or card.
+
+Don't just shoot the wide postmark photo from the center — walk the full curve to find your own province's alcove, which is what most Sevillanos do when they bring visiting family here. And resist the urge to rush: the building rewards a slow lap more than a five-minute photo stop.

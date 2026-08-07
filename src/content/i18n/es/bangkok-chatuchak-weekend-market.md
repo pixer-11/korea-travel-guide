@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-chatuchak-weekend-market
-srcHash: 9876558def1a
+srcHash: '40bd70b78f1a'
 title: 'Mercado de Chatuchak: guía de viaje de Bangkok'
 description: El mercado de fin de semana de Chatuchak (conocido localmente como "JJ Market") se extiende por 27 secciones y más de 15.000 puestos en el norte de Bangkok, y abre principalmente los sábados y domingos.
 quickAnswer: El mercado de fin de semana de Chatuchak (conocido localmente como "JJ Market") se extiende por 27 secciones y más de 15.000 puestos en el norte de Bangkok, y abre principalmente los sábados y domingos, aproximadamente de 9am a 6pm. Toma el MRT hasta la estación Kamphaeng Phet (la salida 1 lleva directo al mercado) o las estaciones Chatuchak Park/Mo Chit del BTS, consigue un mapa impreso de las secciones en algún quiosco de información, y reserva al menos 3–4 horas para explorarlo con algo de profundidad.
@@ -20,11 +20,15 @@ faq:
 
 ## Por qué ir
 
-Chatuchak no es un ordenado bazar turístico: es un mercado genuinamente activo que muchos habitantes de Bangkok todavía usan para comprar muebles, plantas y mascotas, y precisamente por eso vale la pena visitarlo. Con más de 15.000 puestos repartidos en 27 secciones numeradas, se le suele considerar uno de los mercados de fin de semana más grandes del mundo, y su calificación de 4,4 sobre más de 56.000 reseñas de Google refleja lo bien que funciona tanto para quienes lo visitan por primera vez como para los residentes de siempre en Bangkok. Espera una mezcla verdaderamente ecléctica: Levi's vintage y excedentes militares, cerámica hecha a mano, comida callejera de Isaan, vinilos de segunda mano, taxidermia y, sí, animales vivos a la venta (más sobre esto abajo).
+Chatuchak no es un ordenado bazar turístico: es un mercado genuinamente activo que muchos habitantes de Bangkok todavía usan para comprar muebles, plantas y mascotas, y precisamente por eso vale la pena visitarlo. Con más de 15.000 puestos repartidos en 27 secciones numeradas, se le suele considerar uno de los mercados de fin de semana más grandes del mundo, y su calificación de 4,4 sobre más de 56.000 reseñas de Google refleja lo bien que funciona tanto para quienes lo visitan por primera vez como para los residentes de siempre en Bangkok.
+
+Espera una mezcla verdaderamente ecléctica: Levi's vintage y excedentes militares, cerámica hecha a mano, comida callejera de Isaan, vinilos de segunda mano, taxidermia y, sí, animales vivos a la venta (más sobre esto abajo).
 
 ## Cómo llegar
 
-El mercado se ubica en 587, 10 Kamphaeng Phet 2 Rd, distrito de Chatuchak, y está pensado para llegar en transporte público. La ruta más sencilla es el MRT (metro) hasta la **estación Kamphaeng Phet**, cuya Salida 1 da directamente al borde norte del mercado, cerca de las secciones de plantas y mascotas. También puedes tomar el BTS Skytrain hasta la **estación Mo Chit** y caminar a través de Chatuchak Park, o bajarte en **BTS Mo Chit / MRT Chatuchak Park** para llegar a las puertas principales del lado sur. Evita ir en auto: el estacionamiento escasea y las calles alrededor se congestionan mucho los días de mercado. Los taxis y las apps de transporte (Grab) pueden dejarte en el borde del parque, pero confirma con el conductor qué entrada, ya que el mercado se extiende por varias cuadras.
+El mercado se ubica en 587, 10 Kamphaeng Phet 2 Rd, distrito de Chatuchak, y está pensado para llegar en transporte público. La ruta más sencilla es el MRT (metro) hasta la **estación Kamphaeng Phet**, cuya Salida 1 da directamente al borde norte del mercado, cerca de las secciones de plantas y mascotas. También puedes tomar el BTS Skytrain hasta la **estación Mo Chit** y caminar a través de Chatuchak Park, o bajarte en **BTS Mo Chit / MRT Chatuchak Park** para llegar a las puertas principales del lado sur.
+
+Evita ir en auto: el estacionamiento escasea y las calles alrededor se congestionan mucho los días de mercado. Los taxis y las apps de transporte (Grab) pueden dejarte en el borde del parque, pero confirma con el conductor qué entrada, ya que el mercado se extiende por varias cuadras.
 
 ## Qué ver, comprar y comer
 
@@ -41,8 +45,12 @@ Se espera que regatees en casi todos lados excepto en los puestos de comida; com
 
 ## Cuándo ir
 
-El mercado funciona principalmente **sábado y domingo**, aproximadamente de 9am a 6pm, aunque muchos vendedores no abren del todo hasta cerca de las 10am y algunos puestos empiezan a recoger antes del cierre oficial. Llega **temprano por la mañana (antes de las 9–10am)** para evitar tanto las multitudes como lo peor del calor del mediodía, que puede ser intenso dado que el mercado es en su mayoría al aire libre, con techos de lámina y poca circulación de aire. Hay una sesión más pequeña los miércoles y jueves centrada en la venta mayorista de plantas, mucho más tranquila si quieres un adelanto discreto. Fuera de eso, visitar entre semana significa que la mayoría de los puestos estarán cerrados.
+El mercado funciona principalmente **sábado y domingo**, aproximadamente de 9am a 6pm, aunque muchos vendedores no abren del todo hasta cerca de las 10am y algunos puestos empiezan a recoger antes del cierre oficial. Llega **temprano por la mañana (antes de las 9–10am)** para evitar tanto las multitudes como lo peor del calor del mediodía, que puede ser intenso dado que el mercado es en su mayoría al aire libre, con techos de lámina y poca circulación de aire.
+
+Hay una sesión más pequeña los miércoles y jueves centrada en la venta mayorista de plantas, mucho más tranquila si quieres un adelanto discreto. Fuera de eso, visitar entre semana significa que la mayoría de los puestos estarán cerrados.
 
 ## Cerca de ahí y consejos
 
-**Chatuchak Park** y el contiguo **mercado Or Tor Kor** (conocido por sus productos tailandeses de primera calidad y comida preparada) están a poca distancia caminando y son una buena parada para relajarse después de la intensidad laberíntica del mercado. Hay mapas gratuitos del mercado disponibles en las casetas de información cerca de las entradas; consigue uno, ya que el GPS del teléfono suele fallar bajo los densos techos de lámina y los callejones estrechos del mercado. Usa ropa ligera y transpirable, y considera llevar un abanico de papel o portátil, ya que la ventilación entre los puestos es mínima. Planea al menos medio día si quieres ver más de una o dos secciones con calma; la mayoría de los visitantes cuenta que se perdió al menos una vez de verdad, lo cual forma parte de la experiencia más que un problema a evitar.
+**Chatuchak Park** y el contiguo **mercado Or Tor Kor** (conocido por sus productos tailandeses de primera calidad y comida preparada) están a poca distancia caminando y son una buena parada para relajarse después de la intensidad laberíntica del mercado. Hay mapas gratuitos del mercado disponibles en las casetas de información cerca de las entradas; consigue uno, ya que el GPS del teléfono suele fallar bajo los densos techos de lámina y los callejones estrechos del mercado.
+
+Usa ropa ligera y transpirable, y considera llevar un abanico de papel o portátil, ya que la ventilación entre los puestos es mínima. Planea al menos medio día si quieres ver más de una o dos secciones con calma; la mayoría de los visitantes cuenta que se perdió al menos una vez de verdad, lo cual forma parte de la experiencia más que un problema a evitar.

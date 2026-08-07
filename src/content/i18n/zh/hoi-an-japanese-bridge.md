@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: hoi-an-japanese-bridge
-srcHash: 'd767be071ee8'
+srcHash: '9103428e58f0'
 title: 日本桥:会安旅行指南
 description: 日本桥(Chùa Cầu)是会安标志性的18世纪有顶木桥,横跨古镇中心阮氏明开街(Nguyễn Thị Minh Khai Street)旁的一条小运河。
 quickAnswer: 日本桥(Chùa Cầu)是会安标志性的18世纪有顶木桥,横跨古镇中心阮氏明开街(Nguyễn Thị Minh Khai Street)旁的一条小运河。建议在开门时(上午9点)或日落后灯笼点亮桥身时前往(开放至晚上10点),游览这座桥及桥内小神龛大约需要15-20分钟——入内需持有会安古镇的通票。由于它正好位于古镇西侧边缘,可以顺路沿江边和附近的商人故宅走一走。

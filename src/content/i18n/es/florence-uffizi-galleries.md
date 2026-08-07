@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-uffizi-galleries
-srcHash: 04a27462f149
+srcHash: '0684e1b46048'
 title: 'Galería Uffizi: Guía de viaje de Florencia'
 description: Reserva online una entrada con horario asignado con bastante antelación, llega a tu franja horaria en lugar de con adelanto, y dirígete directamente a las salas de Botticelli antes de la avalancha de media mañana.
 quickAnswer: Reserva online una entrada con horario asignado con bastante antelación, llega a tu franja horaria en lugar de con adelanto, y dirígete directamente a las salas de Botticelli antes de que llegue la avalancha de media mañana. La Uffizi es uno de los museos más visitados del mundo (valorado con 4.7 sobre más de 93,000 reseñas), así que la fila sin reserva en Piazzale degli Uffizi 6 puede superar la hora de espera sin reserva previa — evítala reservando con antelación.
@@ -26,19 +26,29 @@ La Uffizi no es solo un museo, es el archivo de cómo ocurrió realmente el Rena
 
 ## Cómo llegar
 
-La Uffizi se encuentra en Piazzale degli Uffizi 6, en el centro histórico, a cinco minutos a pie del Ponte Vecchio y justo detrás de Piazza della Signoria. Si viajas en tren, está a unos 12-15 minutos a pie de la estación de Firenze Santa Maria Novella: baja por Via de' Panzani hacia el Duomo y continúa hacia el sur pasando por Piazza della Signoria. Florencia no tiene metro, así que la mayoría de los visitantes van caminando o toman un taxi desde la estación; además, el centro histórico alrededor del museo es en gran parte peatonal, por lo que llegar en coche no es práctico.
+La Uffizi se encuentra en Piazzale degli Uffizi 6, en el centro histórico, a cinco minutos a pie del Ponte Vecchio y justo detrás de Piazza della Signoria. Si viajas en tren, está a unos 12-15 minutos a pie de la estación de Firenze Santa Maria Novella: baja por Via de' Panzani hacia el Duomo y continúa hacia el sur pasando por Piazza della Signoria.
+
+Florencia no tiene metro, así que la mayoría de los visitantes van caminando o toman un taxi desde la estación; además, el centro histórico alrededor del museo es en gran parte peatonal, por lo que llegar en coche no es práctico.
 
 ## Qué ver dentro
 
-Reserva al menos dos o tres horas, más si quieres detenerte con calma en la sala de Botticelli en lugar de pasar rápido. El recorrido imprescindible incluye: los retratos de la familia Medici y los retablos góticos de fondo dorado cerca de la entrada, luego las salas de Botticelli (Sala 10-14), la inacabada "Adoración de los Magos" de Leonardo da Vinci y su "Anunciación", la Tribuna octogonal con antigüedades de los Medici, el "Tondo Doni" de Miguel Ángel, los retratos de Rafael y las salas venecianas con la "Venus de Urbino" de Tiziano. No te pierdas las propias ventanas del corredor: la forma de U enmarca el Arno y las colinas del Oltrarno de una manera que es fácil pasar por alto sin darse cuenta.
+Reserva al menos dos o tres horas, más si quieres detenerte con calma en la sala de Botticelli en lugar de pasar rápido. El recorrido imprescindible incluye: los retratos de la familia Medici y los retablos góticos de fondo dorado cerca de la entrada, luego las salas de Botticelli (Sala 10-14), la inacabada "Adoración de los Magos" de Leonardo da Vinci y su "Anunciación", la Tribuna octogonal con antigüedades de los Medici, el "Tondo Doni" de Miguel Ángel, los retratos de Rafael y las salas venecianas con la "Venus de Urbino" de Tiziano.
+
+No te pierdas las propias ventanas del corredor: la forma de U enmarca el Arno y las colinas del Oltrarno de una manera que es fácil pasar por alto sin darse cuenta.
 
 ## Cuándo ir
 
-Este es uno de los museos más visitados del mundo, así que hay que tratar la gestión de las multitudes como parte del plan, no como una ocurrencia tardía. Temprano por la mañana, justo a la apertura, y la última franja de entrada del día son constantemente más tranquilos que el mediodía. Las mañanas entre semana de noviembre a febrero son lo más parecido a un respiro que ofrece la Uffizi; de abril a junio y en septiembre es cuando hay más aglomeración, especialmente al mediodía de los fines de semana. El museo suele cerrar los lunes; confirma siempre los horarios actuales antes de ir, ya que los horarios de temporada y los cierres por festivos cambian de un año a otro.
+Este es uno de los museos más visitados del mundo, así que hay que tratar la gestión de las multitudes como parte del plan, no como una ocurrencia tardía. Temprano por la mañana, justo a la apertura, y la última franja de entrada del día son constantemente más tranquilos que el mediodía. Las mañanas entre semana de noviembre a febrero son lo más parecido a un respiro que ofrece la Uffizi; de abril a junio y en septiembre es cuando hay más aglomeración, especialmente al mediodía de los fines de semana.
+
+El museo suele cerrar los lunes; confirma siempre los horarios actuales antes de ir, ya que los horarios de temporada y los cierres por festivos cambian de un año a otro.
 
 ## Cómo visitarla como un local
 
-Reserva tu entrada con horario asignado online y con antelación a través del sistema oficial de reservas de la Uffizi; esto es lo habitual aquí, no un truco, y sin ella te arriesgas a una fila sin reserva que regularmente supera la hora de espera fuera de Piazzale degli Uffizi. Llega a tu horario real de entrada en lugar de con adelanto; hacer cola mucho antes de tu franja solo significa quedarte al sol sin ningún beneficio. Dentro, el pago es con tarjeta o efectivo en los pocos servicios del museo, pero la entrada en sí debe pagarse online de antemano. No se espera propina. El error más grande que cometen los visitantes es intentar verlo todo a ritmo de maratón: la distribución del museo premia elegir un puñado de salas (Botticelli, Leonardo, la Tribuna) y detenerse con calma en ellas, en lugar de recorrer a paso ligero todo el conjunto cronológico. Si quieres tranquilidad junto a tu Venus, ve durante la primera hora tras la apertura o los últimos noventa minutos antes del cierre, y espera que haya ajetreo en el resto del horario sin importar la temporada; esto no es un lugar poco conocido, y las multitudes son simplemente el precio de la entrada.
+Reserva tu entrada con horario asignado online y con antelación a través del sistema oficial de reservas de la Uffizi; esto es lo habitual aquí, no un truco, y sin ella te arriesgas a una fila sin reserva que regularmente supera la hora de espera fuera de Piazzale degli Uffizi. Llega a tu horario real de entrada en lugar de con adelanto; hacer cola mucho antes de tu franja solo significa quedarte al sol sin ningún beneficio.
+
+Dentro, el pago es con tarjeta o efectivo en los pocos servicios del museo, pero la entrada en sí debe pagarse online de antemano. No se espera propina. El error más grande que cometen los visitantes es intentar verlo todo a ritmo de maratón: la distribución del museo premia elegir un puñado de salas (Botticelli, Leonardo, la Tribuna) y detenerse con calma en ellas, en lugar de recorrer a paso ligero todo el conjunto cronológico.
+
+Si quieres tranquilidad junto a tu Venus, ve durante la primera hora tras la apertura o los últimos noventa minutos antes del cierre, y espera que haya ajetreo en el resto del horario sin importar la temporada; esto no es un lugar poco conocido, y las multitudes son simplemente el precio de la entrada.
 
 ## Cerca de la Uffizi para combinar con tu visita
 

@@ -27,25 +27,37 @@ draft: true
 
 ## Why K 圭 is worth your evening
 
-Kuala Lumpur's fine-dining scene has no shortage of steakhouses and sky-bar spectacle, so a quiet, kaiseki-rooted Japanese counter winning Tatler's Best New Restaurant for 2026 is the kind of signal worth paying attention to. K 圭 — the name reads simply as "Kei" — is chef Hidemichi Seki's KL project, and it leans into the kaiseki tradition of small, deliberate courses built around what's seasonal, rather than a fixed script of sushi-bar hits. What sets it apart locally is the way Seki folds Malaysian foraged and market ingredients into that Japanese grammar: a dish built on kaiseki technique but grounded in what's actually available and good in this part of the world that week.
+Kuala Lumpur's fine-dining scene has no shortage of steakhouses and sky-bar spectacle, so a quiet, kaiseki-rooted Japanese counter winning Tatler's Best New Restaurant for 2026 is the kind of signal worth paying attention to. K 圭 — the name reads simply as "Kei" — is chef Hidemichi Seki's KL project, and it leans into the kaiseki tradition of small, deliberate courses built around what's seasonal, rather than a fixed script of sushi-bar hits.
+
+What sets it apart locally is the way Seki folds Malaysian foraged and market ingredients into that Japanese grammar: a dish built on kaiseki technique but grounded in what's actually available and good in this part of the world that week.
 
 ## Where to find it
 
-K 圭 sits inside ILHAM Tower, the striking Foster + Partners–designed office tower on Jalan Binjai, right in the seam between KLCC and the Ampang Park area. This is prime central KL — a short taxi or e-hailing ride from the Petronas Twin Towers, and walkable from the KLCC and Ampang Park LRT stations if you don't mind a few minutes on foot through the elevated walkway network that threads this business district. ILHAM Tower also houses ILHAM Gallery, one of KL's better contemporary art spaces, so it's worth building an early gallery visit into the same trip before you head down for dinner.
+K 圭 sits inside ILHAM Tower, the striking Foster + Partners–designed office tower on Jalan Binjai, right in the seam between KLCC and the Ampang Park area. This is prime central KL — a short taxi or e-hailing ride from the Petronas Twin Towers, and walkable from the KLCC and Ampang Park LRT stations if you don't mind a few minutes on foot through the elevated walkway network that threads this business district.
+
+ILHAM Tower also houses ILHAM Gallery, one of KL's better contemporary art spaces, so it's worth building an early gallery visit into the same trip before you head down for dinner.
 
 ## What the experience is like
 
-Expect the rhythm of kaiseki: courses arrive in sequence, each small, each considered, moving from something light and palate-opening through simmered, grilled, and rice-based dishes toward a final sweet note. The dining room sits inside an office tower rather than a heritage shophouse, so the feel is contemporary and controlled — clean lines, low chatter, a counter or open kitchen where you can watch the plating happen rather than just the food arriving. Because the restaurant's whole premise rests on local foraging alongside imported Japanese technique, no two visits in different weeks are likely to look identical, which is part of the appeal if you're the kind of diner who likes not knowing exactly what's coming next.
+Expect the rhythm of kaiseki: courses arrive in sequence, each small, each considered, moving from something light and palate-opening through simmered, grilled, and rice-based dishes toward a final sweet note. The dining room sits inside an office tower rather than a heritage shophouse, so the feel is contemporary and controlled — clean lines, low chatter, a counter or open kitchen where you can watch the plating happen rather than just the food arriving.
+
+Because the restaurant's whole premise rests on local foraging alongside imported Japanese technique, no two visits in different weeks are likely to look identical, which is part of the appeal if you're the kind of diner who likes not knowing exactly what's coming next.
 
 We won't invent a menu or price list here — a restaurant at this level typically runs on a set tasting-menu format that shifts with the season, and both course composition and pricing should be confirmed directly with the restaurant when you book.
 
 ## When to go and how to plan around it
 
-Given the Tatler recognition landed for 2026, treat this as a genuinely in-demand table right now — the kind of award that turns a soft opening into a six-week waitlist almost overnight. If you're set on a specific date, especially a Friday or Saturday evening, start trying to book as far ahead as the restaurant allows. Weeknight seatings, where kaiseki-style restaurants often run a single early service, tend to be the easier ask. Confirm current opening days and seating times before you travel — a restaurant this new can still be adjusting its schedule.
+Given the Tatler recognition landed for 2026, treat this as a genuinely in-demand table right now — the kind of award that turns a soft opening into a six-week waitlist almost overnight. If you're set on a specific date, especially a Friday or Saturday evening, start trying to book as far ahead as the restaurant allows. Weeknight seatings, where kaiseki-style restaurants often run a single early service, tend to be the easier ask.
+
+Confirm current opening days and seating times before you travel — a restaurant this new can still be adjusting its schedule.
 
 ## How to visit like a local
 
-KL diners treat a restaurant like this the way they'd treat any serious omakase or kaiseki counter: book by phone or through the restaurant's official channels well in advance rather than walking in, and expect a call or message to reconfirm your seat a day or two before. Dress smart-casual — this is an office-tower fine-dining room, not a hawker stall, but KL's fine dining rarely demands a jacket. Payment is by card as a rule at this tier of restaurant; carrying cash isn't necessary. If you're driving, ILHAM Tower has basement parking used by office tenants and diners alike, though validating or confirming visitor parking terms with the restaurant when you book saves a scramble later. The mistake first-time visitors make is treating it like a drop-in dinner after a KLCC shopping trip — with a single award-winning kaiseki table like this, a same-day walk-in is close to hopeless. Book the seat first, then build your evening — gallery, Twin Towers viewing deck, or a pre-dinner walk through KLCC Park — around it.
+KL diners treat a restaurant like this the way they'd treat any serious omakase or kaiseki counter: book by phone or through the restaurant's official channels well in advance rather than walking in, and expect a call or message to reconfirm your seat a day or two before. Dress smart-casual — this is an office-tower fine-dining room, not a hawker stall, but KL's fine dining rarely demands a jacket.
+
+Payment is by card as a rule at this tier of restaurant; carrying cash isn't necessary. If you're driving, ILHAM Tower has basement parking used by office tenants and diners alike, though validating or confirming visitor parking terms with the restaurant when you book saves a scramble later. The mistake first-time visitors make is treating it like a drop-in dinner after a KLCC shopping trip — with a single award-winning kaiseki table like this, a same-day walk-in is close to hopeless.
+
+Book the seat first, then build your evening — gallery, Twin Towers viewing deck, or a pre-dinner walk through KLCC Park — around it.
 
 ## Nearby to pair with your visit
 

@@ -54,7 +54,9 @@ You come down off the busy Anafartalar Caddesi traffic, cut through a gap betwee
 
 ## Why it's worth the detour
 
-What survives isn't a reconstruction guess — it's the actual commercial and civic heart of the city, rebuilt by Emperor Marcus Aurelius after an earthquake flattened the earlier agora in 178 AD. You walk the north portico, where rows of stone arches once fronted shops, and duck into the vaulted basement galleries that supported the upper courtyard — cool, dim brick-vaulted corridors that feel more like a cistern than a marketplace, with water channels still visible in the floor. Above ground, a triple-arched basilica facade is the single most photographed feature: three tall stone arches framing nothing but sky, with Roman inscriptions still legible on scattered fragments and column drums lying where they fell.
+What survives isn't a reconstruction guess — it's the actual commercial and civic heart of the city, rebuilt by Emperor Marcus Aurelius after an earthquake flattened the earlier agora in 178 AD. You walk the north portico, where rows of stone arches once fronted shops, and duck into the vaulted basement galleries that supported the upper courtyard — cool, dim brick-vaulted corridors that feel more like a cistern than a marketplace, with water channels still visible in the floor.
+
+Above ground, a triple-arched basilica facade is the single most photographed feature: three tall stone arches framing nothing but sky, with Roman inscriptions still legible on scattered fragments and column drums lying where they fell.
 
 ## Getting there
 
@@ -62,7 +64,9 @@ The site sits in Namazgah, Konak, at Tarik Sarı Sokağı No:29 — an easy walk
 
 ## What to see once inside
 
-Budget 45 minutes to an hour, more if you like reading site placards closely. Start at the basilica arches on the west side, then work along the northern stoa where column bases mark the old shop line. Descend into the underground vaults — bring a phone flashlight, as lighting is minimal and the brickwork textures are worth a slow look. Look for the carved marble fragments and inscribed blocks gathered along the walls; many were found in situ and simply left in place rather than moved to a museum case. The site connects historically (though not by a direct walking path) to Kadifekale, the hilltop fortress above the city, and to the Izmir History and Art Museum, which holds statuary excavated from this very agora — worth visiting before or after to see what once stood among these columns.
+Budget 45 minutes to an hour, more if you like reading site placards closely. Start at the basilica arches on the west side, then work along the northern stoa where column bases mark the old shop line. Descend into the underground vaults — bring a phone flashlight, as lighting is minimal and the brickwork textures are worth a slow look.
+
+Look for the carved marble fragments and inscribed blocks gathered along the walls; many were found in situ and simply left in place rather than moved to a museum case. The site connects historically (though not by a direct walking path) to Kadifekale, the hilltop fortress above the city, and to the Izmir History and Art Museum, which holds statuary excavated from this very agora — worth visiting before or after to see what once stood among these columns.
 
 ## When to go
 
@@ -70,4 +74,8 @@ This is an open-air site with almost no shade, so mornings, roughly 9–11am, ar
 
 ## How to visit like a local
 
-Buy your ticket at the entrance gate rather than expecting extensive online booking options — this is a municipal/state-run archaeological site, not a business with a reservation system, so there's rarely a meaningful queue outside peak midday hours. Carry small cash for the entrance fee alongside a card, since payment setups at heritage sites in Turkey can vary day to day. Wear shoes with grip: the ancient paving is uneven, polished by foot traffic in places, and the underground vault floors can be damp. The single biggest visitor mistake is treating this as a quick photo-stop at the basilica arches and skipping the underground vaulted galleries entirely — they're the most atmospheric part of the site and far less crowded than the open courtyard above. Given its rating of 4.5 from nearly 3,700 reviews, this is a well-known stop on Izmir itineraries rather than a hidden gem, so don't expect to have it to yourself around midday; the quieter early-morning window is your best move for unobstructed photos of the arches. Afterward, walk the ten minutes back down into Kemeraltı Bazaar for a glass of tea at one of the historic hans, or continue to the waterfront Kordon promenade to end the day looking out over the Gulf of Izmir.
+Buy your ticket at the entrance gate rather than expecting extensive online booking options — this is a municipal/state-run archaeological site, not a business with a reservation system, so there's rarely a meaningful queue outside peak midday hours. Carry small cash for the entrance fee alongside a card, since payment setups at heritage sites in Turkey can vary day to day.
+
+Wear shoes with grip: the ancient paving is uneven, polished by foot traffic in places, and the underground vault floors can be damp. The single biggest visitor mistake is treating this as a quick photo-stop at the basilica arches and skipping the underground vaulted galleries entirely — they're the most atmospheric part of the site and far less crowded than the open courtyard above.
+
+Given its rating of 4.5 from nearly 3,700 reviews, this is a well-known stop on Izmir itineraries rather than a hidden gem, so don't expect to have it to yourself around midday; the quieter early-morning window is your best move for unobstructed photos of the arches. Afterward, walk the ten minutes back down into Kemeraltı Bazaar for a glass of tea at one of the historic hans, or continue to the waterfront Kordon promenade to end the day looking out over the Gulf of Izmir.

@@ -69,11 +69,17 @@ At the top, the boulders double as a natural grandstand: people queue politely t
 
 ## When to go
 
-This is one of Taipei's most visited outdoor spots, and the summit boulders fill up fast in the hour before sunset — expect to share rock space with dozens of other people angling for the same shot. If you want breathing room, come at sunrise instead: the light on the skyline is just as dramatic, the stairs are cooler to climb, and you'll likely have long stretches of trail to yourself. Midday during Taipei's hot, humid summer is the least comfortable time to climb — the stairs are fully exposed to sun in sections, so early morning or early evening is far more bearable. Because it's open 24 hours, there's no risk of arriving to locked gates, but the trail is unlit in parts, so bring a phone flashlight if you're descending after dark.
+This is one of Taipei's most visited outdoor spots, and the summit boulders fill up fast in the hour before sunset — expect to share rock space with dozens of other people angling for the same shot. If you want breathing room, come at sunrise instead: the light on the skyline is just as dramatic, the stairs are cooler to climb, and you'll likely have long stretches of trail to yourself.
+
+Midday during Taipei's hot, humid summer is the least comfortable time to climb — the stairs are fully exposed to sun in sections, so early morning or early evening is far more bearable. Because it's open 24 hours, there's no risk of arriving to locked gates, but the trail is unlit in parts, so bring a phone flashlight if you're descending after dark.
 
 ## How to visit like a local
 
-Go on a weekday if you can — weekends compress the already-narrow viewing platform into a genuine bottleneck. If sunset is the goal, arrive at least 30-45 minutes before the sun actually sets so you have time to climb, catch your breath, and claim a spot on the boulders before they fill in. Everyone photographs from the same rocks, so the etiquette is simple: take your shot, then move aside for the next person rather than lingering. There's no entry fee, no ticket booth, and nothing to pay for on the trail itself, so this isn't a place where tipping or cash matters — just bring water and decent shoes, since the stone steps get slippery when humid or after rain. The biggest mistake first-timers make is underestimating the stairs because the total distance looks short on a map; treat it like a real, sweaty climb, not a stroll. If the main viewpoint feels too packed, walk another ten minutes along the ridge trail toward Thumb Mountain — the crowd thins dramatically and the skyline view barely changes.
+Go on a weekday if you can — weekends compress the already-narrow viewing platform into a genuine bottleneck. If sunset is the goal, arrive at least 30-45 minutes before the sun actually sets so you have time to climb, catch your breath, and claim a spot on the boulders before they fill in. Everyone photographs from the same rocks, so the etiquette is simple: take your shot, then move aside for the next person rather than lingering.
+
+There's no entry fee, no ticket booth, and nothing to pay for on the trail itself, so this isn't a place where tipping or cash matters — just bring water and decent shoes, since the stone steps get slippery when humid or after rain. The biggest mistake first-timers make is underestimating the stairs because the total distance looks short on a map; treat it like a real, sweaty climb, not a stroll.
+
+If the main viewpoint feels too packed, walk another ten minutes along the ridge trail toward Thumb Mountain — the crowd thins dramatically and the skyline view barely changes.
 
 ## Nearby
 

@@ -71,13 +71,17 @@ draft: false
 
 ## Why this branch, of all the Tim Ho Wan branches
 
-Tim Ho Wan built its reputation as the cheapest Michelin-starred meal on the planet, and while the original Mong Kok stall is long gone, the chain has spread across Hong Kong with the same short, tight menu. The Central branch is arguably the most convenient of them all: it's built directly into Level 1 of Hong Kong Station, the terminus of the Airport Express and a hub for the Tung Chung line. You can roll off a flight, drop your bags, and be eating a basket of siu mai before you've even worked out which exit leads to the harbour.
+Tim Ho Wan built its reputation as the cheapest Michelin-starred meal on the planet, and while the original Mong Kok stall is long gone, the chain has spread across Hong Kong with the same short, tight menu. The Central branch is arguably the most convenient of them all: it's built directly into Level 1 of Hong Kong Station, the terminus of the Airport Express and a hub for the Tung Chung line.
+
+You can roll off a flight, drop your bags, and be eating a basket of siu mai before you've even worked out which exit leads to the harbour.
 
 That location also means it draws a very specific crowd — tourists on their way in or out of the city, business travelers with thirty minutes to spare, locals grabbing a fast lunch between meetings in the IFC towers next door. This is not a quiet, undiscovered corner of Hong Kong dining. It's one of the most consistently busy dim sum counters in the district, and the fact box's rating and review count reflect that.
 
 ## What to order
 
-Start with the dish the restaurant is built on: baked BBQ pork buns (char siu bao), a glazed, slightly sweet bun with a crackled sugar top that's baked rather than steamed, so it arrives warm with a faint crunch before giving way to the pork filling underneath. Alongside it, order the rice noodle rolls — cheong fun — either wrapped around shrimp or the barbecue pork, slicked with soy and sesame oil, the sheets so thin you can see the filling shadow through them. From there, work through the classics: pan-fried turnip cake with its lacy crisp edges, siu mai topped with a single roe, and the vermicelli rolls if you want something lighter. Portions are small dim sum-style plates meant for sharing, and the format rewards ordering four or five dishes across a table rather than one large plate each.
+Start with the dish the restaurant is built on: baked BBQ pork buns (char siu bao), a glazed, slightly sweet bun with a crackled sugar top that's baked rather than steamed, so it arrives warm with a faint crunch before giving way to the pork filling underneath. Alongside it, order the rice noodle rolls — cheong fun — either wrapped around shrimp or the barbecue pork, slicked with soy and sesame oil, the sheets so thin you can see the filling shadow through them.
+
+From there, work through the classics: pan-fried turnip cake with its lacy crisp edges, siu mai topped with a single roe, and the vermicelli rolls if you want something lighter. Portions are small dim sum-style plates meant for sharing, and the format rewards ordering four or five dishes across a table rather than one large plate each.
 
 ## The menu, the counter, the ordering slip
 
@@ -93,4 +97,6 @@ Look for signage toward Shop 12A & 12B on Level 1 of Hong Kong Station — it's 
 
 ## How to visit like a local
 
-Skip the idea of walking up and waiting by the door — like most busy Hong Kong dim sum spots, this branch uses a numbered queue ticket once a line forms, so grab your number first, then browse IFC Mall or check the departures board while you wait for it to be called. Weekday mornings and early afternoons are genuinely calm across the entire 9am–9pm span, so if your schedule is flexible, that's when to come rather than gambling on a weekend slot. Payment is straightforward — cash or card, no tipping culture to navigate beyond a modest service charge that may already be added to the bill. The mistake most first-timers make is over-ordering steamed items and skipping the baked BBQ pork bun, the one dish that actually defines the place; make sure it's on your slip before anything else. Budget 20 to 40 minutes at the table — turnover is fast, and lingering isn't really the local style here.
+Skip the idea of walking up and waiting by the door — like most busy Hong Kong dim sum spots, this branch uses a numbered queue ticket once a line forms, so grab your number first, then browse IFC Mall or check the departures board while you wait for it to be called. Weekday mornings and early afternoons are genuinely calm across the entire 9am–9pm span, so if your schedule is flexible, that's when to come rather than gambling on a weekend slot.
+
+Payment is straightforward — cash or card, no tipping culture to navigate beyond a modest service charge that may already be added to the bill. The mistake most first-timers make is over-ordering steamed items and skipping the baked BBQ pork bun, the one dish that actually defines the place; make sure it's on your slip before anything else. Budget 20 to 40 minutes at the table — turnover is fast, and lingering isn't really the local style here.

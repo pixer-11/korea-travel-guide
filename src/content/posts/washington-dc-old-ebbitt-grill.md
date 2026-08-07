@@ -54,7 +54,9 @@ draft: false
 
 ## Why go
 
-You feel the history before you read a word of it. Old Ebbitt Grill occupies a cavernous, gaslamp-lit room a block and a half from the White House, all dark mahogany, brass rails, taxidermy heads mounted above the booths, and mirrors gone slightly smoky with age. The place traces its roots to an 1856 boarding-house saloon and has been at this 15th Street address since the 1980s, but the Victorian tavern atmosphere — carved wood bar, marble-top counters, globe lamps — is thick enough that you half expect a senator from a black-and-white photo to slide onto the next stool. It's the kind of restaurant where the oyster shells click on ice at the raw bar, the espresso machine hisses through breakfast, and the noise level climbs steadily from a low murmur at 8am to a genuine roar by 8pm.
+You feel the history before you read a word of it. Old Ebbitt Grill occupies a cavernous, gaslamp-lit room a block and a half from the White House, all dark mahogany, brass rails, taxidermy heads mounted above the booths, and mirrors gone slightly smoky with age. The place traces its roots to an 1856 boarding-house saloon and has been at this 15th Street address since the 1980s, but the Victorian tavern atmosphere — carved wood bar, marble-top counters, globe lamps — is thick enough that you half expect a senator from a black-and-white photo to slide onto the next stool.
+
+It's the kind of restaurant where the oyster shells click on ice at the raw bar, the espresso machine hisses through breakfast, and the noise level climbs steadily from a low murmur at 8am to a genuine roar by 8pm.
 
 ## Getting there
 
@@ -62,11 +64,15 @@ The address is 675 15th St NW, wedged between the White House and Metro Center, 
 
 ## What to eat
 
-The raw bar is the reason regulars come back: East and West Coast oysters, usually a half-dozen varieties chalked up on a board, served with mignonette and a horseradish-forward cocktail sauce. The crab cakes, made with minimal filler, are the other signature, alongside a classic burger that consistently shows up on "best in DC" lists. Breakfast — served into the late morning — runs from eggs Benedict to a corned beef hash that pairs well with a Bloody Mary, since the bar opens with the kitchen at 8am (9am on weekends). Portions run generous rather than delicate, and the wine and cocktail list leans classic: martinis, juleps, a solid beer selection heavy on Mid-Atlantic breweries.
+The raw bar is the reason regulars come back: East and West Coast oysters, usually a half-dozen varieties chalked up on a board, served with mignonette and a horseradish-forward cocktail sauce. The crab cakes, made with minimal filler, are the other signature, alongside a classic burger that consistently shows up on "best in DC" lists. Breakfast — served into the late morning — runs from eggs Benedict to a corned beef hash that pairs well with a Bloody Mary, since the bar opens with the kitchen at 8am (9am on weekends).
+
+Portions run generous rather than delicate, and the wine and cocktail list leans classic: martinis, juleps, a solid beer selection heavy on Mid-Atlantic breweries.
 
 ## When to go
 
-Old Ebbitt Grill runs long hours — 8am to 2am on weekdays, 9am to 2am on weekends — which makes it unusually flexible for downtown DC, where most kitchens shut mid-afternoon. That said, it's a genuinely busy restaurant near major government offices and tourist landmarks, so lunch (roughly noon to 2pm) and dinner from 6pm to 9pm are when the wait is longest, especially on weekdays when the surrounding office towers empty out. A late breakfast around 9:30-10:30am or a post-9:30pm dinner tends to be far calmer, with tables opening up and the raw bar staff having more time to talk you through the oyster selection.
+Old Ebbitt Grill runs long hours — 8am to 2am on weekdays, 9am to 2am on weekends — which makes it unusually flexible for downtown DC, where most kitchens shut mid-afternoon. That said, it's a genuinely busy restaurant near major government offices and tourist landmarks, so lunch (roughly noon to 2pm) and dinner from 6pm to 9pm are when the wait is longest, especially on weekdays when the surrounding office towers empty out.
+
+A late breakfast around 9:30-10:30am or a post-9:30pm dinner tends to be far calmer, with tables opening up and the raw bar staff having more time to talk you through the oyster selection.
 
 ## The setting itself
 
@@ -74,5 +80,7 @@ Beyond the food, the room rewards a slow look: the ceiling fans, the taxidermied
 
 ## How to visit like a local
 
-Skip the front bar crush at peak hours and head straight for a table in the back room, which fills up slightly later. Reservations are accepted and worth making for dinner, especially before big events at the nearby Warner Theatre or during peak tourist season (spring cherry blossom weeks, summer). Walk-ins are common at the bar, though, and that's genuinely the best seat for solo diners — you can order a half-dozen oysters and a beer without waiting for a table. Payment is standard US restaurant practice: card is expected, tipping 18-20% on the pretax total is the norm, and nobody blinks at splitting a check. The mistake most first-timers make is treating this as a quick tourist stop between monuments and rushing the oyster hour — locals and regulars linger, work through a few different oyster varieties, and treat it as a destination meal rather than a pit stop.
+Skip the front bar crush at peak hours and head straight for a table in the back room, which fills up slightly later. Reservations are accepted and worth making for dinner, especially before big events at the nearby Warner Theatre or during peak tourist season (spring cherry blossom weeks, summer). Walk-ins are common at the bar, though, and that's genuinely the best seat for solo diners — you can order a half-dozen oysters and a beer without waiting for a table.
+
+Payment is standard US restaurant practice: card is expected, tipping 18-20% on the pretax total is the norm, and nobody blinks at splitting a check. The mistake most first-timers make is treating this as a quick tourist stop between monuments and rushing the oyster hour — locals and regulars linger, work through a few different oyster varieties, and treat it as a destination meal rather than a pit stop.
 

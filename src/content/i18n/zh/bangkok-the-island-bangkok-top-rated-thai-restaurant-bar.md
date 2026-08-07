@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-the-island-bangkok-top-rated-thai-restaurant-bar
-srcHash: ea320bf29b37
+srcHash: 'ed97b252ddd2'
 title: The Island Bangkok高分泰式餐厅酒吧：美食指南
 description: The Island Bangkok是一家评分很高的泰式餐厅酒吧，坐落在曼隆蓬/佛统（Banglamphu/Phra Nakhon）地区的Soi Samsen 4巷内，距离考山路（Khao San Road）和河边不远。
 quickAnswer: The Island Bangkok是一家评分很高的泰式餐厅酒吧，坐落在曼隆蓬/佛统（Banglamphu/Phra Nakhon）地区的Soi Samsen 4巷内，距离考山路（Khao San Road）和河边不远，步行即可到达。这里是轻松惬意的花园式用餐环境，供应经典泰式菜肴和鸡尾酒，建议预留1.5-2小时用于一顿完整的用餐。由于评价数量庞大（14,600+条评价，4.9星），深受本地人和游客喜爱，周末晚上最好提前预订或早些到店。

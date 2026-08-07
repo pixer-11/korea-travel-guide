@@ -75,15 +75,21 @@ aiGenerated: true
 
 ## Why Tartine still pulls a line
 
-You smell it before you see the sign: butter, scorched sugar, the faint tang of fermenting dough drifting out the propped-open door onto Guerrero Street. Tartine Bakery has been a fixture of the Mission District since 2002, and it's the kind of place that shaped how a generation of American bakeries think about bread — that dark, blistered country loaf under the glass, the pastry case stacked with croissants glazed like stained glass. This isn't a quiet corner café anymore. With a rating that's held steady at 4.5 stars across nearly 6,000 reviews, it's very much on the tourist circuit as well as the neighborhood's own errand list, and the crowd inside on a Saturday morning reflects that.
+You smell it before you see the sign: butter, scorched sugar, the faint tang of fermenting dough drifting out the propped-open door onto Guerrero Street. Tartine Bakery has been a fixture of the Mission District since 2002, and it's the kind of place that shaped how a generation of American bakeries think about bread — that dark, blistered country loaf under the glass, the pastry case stacked with croissants glazed like stained glass.
+
+This isn't a quiet corner café anymore. With a rating that's held steady at 4.5 stars across nearly 6,000 reviews, it's very much on the tourist circuit as well as the neighborhood's own errand list, and the crowd inside on a Saturday morning reflects that.
 
 ## Getting there
 
-Tartine sits at 600 Guerrero St, on the corner of 18th Street, right in the heart of the Mission. The closest BART stop is 16th Street Mission (on the Red, Green, Orange, and Yellow lines), about a 10-minute walk east through a stretch of Valencia Street lined with record shops, plant stores, and other cafés. If you're coming by Muni, the 22 Fillmore and 33 Ashbury/18th St buses both stop within a block or two. Parking in the Mission is tight and largely metered, so most visitors either walk from Valencia or hop off public transit. Dolores Park is a five-minute stroll away, which makes this a natural pastry-then-picnic combination on a clear afternoon.
+Tartine sits at 600 Guerrero St, on the corner of 18th Street, right in the heart of the Mission. The closest BART stop is 16th Street Mission (on the Red, Green, Orange, and Yellow lines), about a 10-minute walk east through a stretch of Valencia Street lined with record shops, plant stores, and other cafés. If you're coming by Muni, the 22 Fillmore and 33 Ashbury/18th St buses both stop within a block or two.
+
+Parking in the Mission is tight and largely metered, so most visitors either walk from Valencia or hop off public transit. Dolores Park is a five-minute stroll away, which makes this a natural pastry-then-picnic combination on a clear afternoon.
 
 ## What to eat
 
-The morning bun is the thing people queue for — a croissant-dough spiral rolled in sugar and orange zest, caramelized at the edges into something closer to candy than pastry. The country loaf, dense and sour with a cracked, almost black crust, is what put Tartine on the map, and slices of it turn up under the hot pressed sandwiches at lunch, including a well-known ham-and-cheese and a rotating vegetable option. Coffee here is straightforward and well-pulled rather than showy — an espresso or drip to go with whatever's still warm from the oven. Expect a mid-range tab: nothing at Tartine is expensive by SF standards, but a pastry, a sandwich, and a coffee add up faster than you'd guess at a bakery counter.
+The morning bun is the thing people queue for — a croissant-dough spiral rolled in sugar and orange zest, caramelized at the edges into something closer to candy than pastry. The country loaf, dense and sour with a cracked, almost black crust, is what put Tartine on the map, and slices of it turn up under the hot pressed sandwiches at lunch, including a well-known ham-and-cheese and a rotating vegetable option.
+
+Coffee here is straightforward and well-pulled rather than showy — an espresso or drip to go with whatever's still warm from the oven. Expect a mid-range tab: nothing at Tartine is expensive by SF standards, but a pastry, a sandwich, and a coffee add up faster than you'd guess at a bakery counter.
 
 ## The space itself
 
@@ -95,4 +101,6 @@ Tartine is open daily from 7:30am to 6pm, with no midweek surprises in the sched
 
 ## How to visit like a local
 
-Arrive at or just after opening, not because it's charming to watch the ovens start the day, but because by mid-morning on weekends the line can stretch out onto the sidewalk and the best morning buns sell out. Order at the counter, pay by card or tap (cash isn't necessary here), and don't expect table service — find your own seat if one's free, or take your order and walk toward Dolores Park. The etiquette locals follow: know your order before you reach the register, since the person behind you has a bus to catch. The mistake first-timers make is treating this like a sit-down café for a leisurely breakfast — it's really a bakery counter with a few tables attached, best treated as a fast, purposeful stop rather than a long lingering one.
+Arrive at or just after opening, not because it's charming to watch the ovens start the day, but because by mid-morning on weekends the line can stretch out onto the sidewalk and the best morning buns sell out. Order at the counter, pay by card or tap (cash isn't necessary here), and don't expect table service — find your own seat if one's free, or take your order and walk toward Dolores Park.
+
+The etiquette locals follow: know your order before you reach the register, since the person behind you has a bus to catch. The mistake first-timers make is treating this like a sit-down café for a leisurely breakfast — it's really a bakery counter with a few tables attached, best treated as a fast, purposeful stop rather than a long lingering one.

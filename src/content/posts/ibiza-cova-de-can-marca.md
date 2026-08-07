@@ -59,11 +59,15 @@ You reach Cova de Can Marçà by driving down through the pine-covered hills abo
 
 ## Why it's worth the detour
 
-Local fishermen and traders used these chambers through the 1960s to land tobacco and other contraband straight from boats below the cliffs, hauling goods up through the rock rather than through customs at port. Guides point out the old loading points and passageways as you go, so the visit reads less like a geology lecture and more like a walk through a working smuggling route that just happens to be full of stalactites. The limestone formations themselves took hundreds of thousands of years to form, and in places the ceiling drops low enough that you'll duck instinctively even where you don't have to.
+Local fishermen and traders used these chambers through the 1960s to land tobacco and other contraband straight from boats below the cliffs, hauling goods up through the rock rather than through customs at port. Guides point out the old loading points and passageways as you go, so the visit reads less like a geology lecture and more like a walk through a working smuggling route that just happens to be full of stalactites.
+
+The limestone formations themselves took hundreds of thousands of years to form, and in places the ceiling drops low enough that you'll duck instinctively even where you don't have to.
 
 ## What the tour actually involves
 
-Entry is by guided visit only — you can't wander in alone. Groups move along a paved, railed walkway with steps, descending through a series of chambers with names tied to their shapes (bat-wing formations, curtain-like drapery of calcite) before reaching the final hall. Here the cave does its party trick: a small waterfall is lit in shifting colours in time with music, a genuinely theatrical moment after the quieter, dripping passages before it. The whole loop, including the walk in and out, takes roughly 45 minutes to an hour. Paths are damp, uneven in spots, and involve stairs, so this isn't ideal for strollers or anyone unsteady on their feet — flat, closed-toe shoes make a real difference here.
+Entry is by guided visit only — you can't wander in alone. Groups move along a paved, railed walkway with steps, descending through a series of chambers with names tied to their shapes (bat-wing formations, curtain-like drapery of calcite) before reaching the final hall. Here the cave does its party trick: a small waterfall is lit in shifting colours in time with music, a genuinely theatrical moment after the quieter, dripping passages before it.
+
+The whole loop, including the walk in and out, takes roughly 45 minutes to an hour. Paths are damp, uneven in spots, and involve stairs, so this isn't ideal for strollers or anyone unsteady on their feet — flat, closed-toe shoes make a real difference here.
 
 ## Beyond the cave
 
@@ -75,5 +79,9 @@ This is a well-known stop on the island's north-coast circuit, pulling coach par
 
 ## How to visit like a local
 
-Arrive at opening time or in the last couple of hours before closing — that's when you'll share the walkway with far fewer people rather than shuffling behind a full coach group. Confirm the day's opening hours and ticket prices before you set out, since both can shift seasonally and are best checked on the day. Cash and card are both generally accepted at the ticket counter and cafeteria, but carrying some small cash is sensible for the souvenir shop. Wear shoes with real grip, not sandals — the stone steps get slick with condensation year-round. Bring a light layer even in summer, since the cave interior stays noticeably cooler than the coast outside. The mistake most visitors make is treating this as a five-minute photo stop and rushing the walkway; slow down at the smugglers' storage points and read the guide's commentary, since that history is what separates this cave from a purely scenic one. Pair the visit with parking early at Port de Sant Miquel, since the small lot near the cave entrance fills up fast once the first coaches arrive.
+Arrive at opening time or in the last couple of hours before closing — that's when you'll share the walkway with far fewer people rather than shuffling behind a full coach group. Confirm the day's opening hours and ticket prices before you set out, since both can shift seasonally and are best checked on the day. Cash and card are both generally accepted at the ticket counter and cafeteria, but carrying some small cash is sensible for the souvenir shop.
+
+Wear shoes with real grip, not sandals — the stone steps get slick with condensation year-round. Bring a light layer even in summer, since the cave interior stays noticeably cooler than the coast outside. The mistake most visitors make is treating this as a five-minute photo stop and rushing the walkway; slow down at the smugglers' storage points and read the guide's commentary, since that history is what separates this cave from a purely scenic one.
+
+Pair the visit with parking early at Port de Sant Miquel, since the small lot near the cave entrance fills up fast once the first coaches arrive.
 

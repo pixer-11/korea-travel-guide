@@ -72,11 +72,15 @@ updatedDate: '2026-07-24'
 
 ## Why go
 
-Ngũ Hành Sơn, or the Five Elements Mountains, are named for the five Chinese elements—metal, wood, water, fire, and earth—each represented by its own marble-and-limestone outcrop rising abruptly from the coastal plain between Da Nang and Hoi An. Only Thuy Son (Water Mountain), the largest, is developed for visitors, honeycombed with natural caves that Vietnamese Buddhists and Cham communities have used as shrines for centuries. Inside you'll find stalactite-draped grottoes, war-era bullet scars from use as a Viet Cong hospital and hideout, and pagodas like Tam Thai and Linh Ung that still function as active places of worship. With a 4.4-star rating across nearly 42,000 reviews, it's one of the most consistently praised stops between Da Nang and Hoi An.
+Ngũ Hành Sơn, or the Five Elements Mountains, are named for the five Chinese elements—metal, wood, water, fire, and earth—each represented by its own marble-and-limestone outcrop rising abruptly from the coastal plain between Da Nang and Hoi An. Only Thuy Son (Water Mountain), the largest, is developed for visitors, honeycombed with natural caves that Vietnamese Buddhists and Cham communities have used as shrines for centuries.
+
+Inside you'll find stalactite-draped grottoes, war-era bullet scars from use as a Viet Cong hospital and hideout, and pagodas like Tam Thai and Linh Ung that still function as active places of worship. With a 4.4-star rating across nearly 42,000 reviews, it's one of the most consistently praised stops between Da Nang and Hoi An.
 
 ## Getting there
 
-The site sits at 81 Huyền Trân Công Chúa, in Hoà Hải Ward, Ngũ Hành Sơn District — roughly a 20-minute taxi or Grab ride from central Da Nang (My Khe Beach area) and about 15-20 minutes from Hoi An's Ancient Town, making it an easy stop between the two. There's no direct rail or bus line built for tourists, so most visitors arrive by taxi, rented motorbike, or as part of a Hoi An–Da Nang transfer package. If self-driving, look for the motorbike parking lots along Huyền Trân Công Chúa street facing the mountain's main entrance; attendants charge a small fee. The turnoff is easy to spot because of the marble-carving workshops and statue shops lining the road on either side.
+The site sits at 81 Huyền Trân Công Chúa, in Hoà Hải Ward, Ngũ Hành Sơn District — roughly a 20-minute taxi or Grab ride from central Da Nang (My Khe Beach area) and about 15-20 minutes from Hoi An's Ancient Town, making it an easy stop between the two. There's no direct rail or bus line built for tourists, so most visitors arrive by taxi, rented motorbike, or as part of a Hoi An–Da Nang transfer package.
+
+If self-driving, look for the motorbike parking lots along Huyền Trân Công Chúa street facing the mountain's main entrance; attendants charge a small fee. The turnoff is easy to spot because of the marble-carving workshops and statue shops lining the road on either side.
 
 ## What to see and do
 

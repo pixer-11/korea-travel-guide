@@ -57,7 +57,9 @@ eventRecurring: true
 ---
 ## Why go
 
-Sumo is Japan's national sport, and the Grand Tournaments (honbasho) are the only place to see it at its highest level, with rituals largely unchanged for centuries — the salt-throwing, the stomping to drive away evil spirits, the ceremonial aprons of the top-ranked rikishi. The Aki Basho is one of six honbasho held annually across Japan and one of three staged in Tokyo (alongside the January and May tournaments), making September a rare window to catch elite sumo without leaving the capital. The 15-day format means every wrestler faces a different opponent each day, with rankings and bragging rights shifting daily until the final-day deciding bouts.
+Sumo is Japan's national sport, and the Grand Tournaments (honbasho) are the only place to see it at its highest level, with rituals largely unchanged for centuries — the salt-throwing, the stomping to drive away evil spirits, the ceremonial aprons of the top-ranked rikishi. The Aki Basho is one of six honbasho held annually across Japan and one of three staged in Tokyo (alongside the January and May tournaments), making September a rare window to catch elite sumo without leaving the capital.
+
+The 15-day format means every wrestler faces a different opponent each day, with rankings and bragging rights shifting daily until the final-day deciding bouts.
 
 ## Getting there
 
@@ -65,7 +67,9 @@ The tournament takes place at Ryogoku Kokugikan, sumo's spiritual home, in Tokyo
 
 ## What to see and do
 
-Doors typically open in the morning, with junior-division wrestlers (jonokuchi through juryo) competing first in a mostly empty arena — a good chance to watch technique up close with few crowds. The atmosphere builds through the afternoon as the top makuuchi division takes over, culminating in the ring-entering ceremonies (dohyo-iri) for the sekitori-ranked wrestlers and the final bouts of the day, usually finishing around 6pm. Inside, the Kokugikan houses a small sumo museum near the entrance, worth a quick look before or after the action. Ringside "sunken" box seats (masu-seki) put you closest to the clay ring, while upper-level chair seating offers a fuller view of the dohyo and its suspended roof.
+Doors typically open in the morning, with junior-division wrestlers (jonokuchi through juryo) competing first in a mostly empty arena — a good chance to watch technique up close with few crowds. The atmosphere builds through the afternoon as the top makuuchi division takes over, culminating in the ring-entering ceremonies (dohyo-iri) for the sekitori-ranked wrestlers and the final bouts of the day, usually finishing around 6pm.
+
+Inside, the Kokugikan houses a small sumo museum near the entrance, worth a quick look before or after the action. Ringside "sunken" box seats (masu-seki) put you closest to the clay ring, while upper-level chair seating offers a fuller view of the dohyo and its suspended roof.
 
 ## When to go
 
@@ -77,4 +81,8 @@ Tickets go on sale in advance through the official Japan Sumo Association websit
 
 ## How to visit like a local
 
-Regular sumo-goers treat the early divisions as part of the show rather than something to skip — arriving only for the top-ranked bouts means missing the quieter, more technical junior matches and a much easier time finding your seat. Bring cash for food stalls and souvenir stands inside the venue, as sumo culture still runs heavily on cash transactions even as card and mobile payment options slowly expand. Etiquette inside the hall is relaxed compared to some Japanese venues — eating bento boxes and drinking beer at your seat is completely normal — but loud disruption during a bout itself draws sharp looks. If you want to spot wrestlers off-duty, morning practice sessions (asa-geiko) at nearby sumo stables are a well-known local tip, though access varies and should be arranged through official or hotel-coordinated channels rather than showing up unannounced. The most common visitor mistake is treating this as a quick photo-op: regulars settle in for hours, following multiple bouts and the rhythm of ritual before each clash, since individual matches themselves often last only seconds.
+Regular sumo-goers treat the early divisions as part of the show rather than something to skip — arriving only for the top-ranked bouts means missing the quieter, more technical junior matches and a much easier time finding your seat. Bring cash for food stalls and souvenir stands inside the venue, as sumo culture still runs heavily on cash transactions even as card and mobile payment options slowly expand.
+
+Etiquette inside the hall is relaxed compared to some Japanese venues — eating bento boxes and drinking beer at your seat is completely normal — but loud disruption during a bout itself draws sharp looks. If you want to spot wrestlers off-duty, morning practice sessions (asa-geiko) at nearby sumo stables are a well-known local tip, though access varies and should be arranged through official or hotel-coordinated channels rather than showing up unannounced.
+
+The most common visitor mistake is treating this as a quick photo-op: regulars settle in for hours, following multiple bouts and the rhythm of ritual before each clash, since individual matches themselves often last only seconds.
