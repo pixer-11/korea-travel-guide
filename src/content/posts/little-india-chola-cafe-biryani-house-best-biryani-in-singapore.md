@@ -1,27 +1,24 @@
 ---
-title: 'Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide'
-description: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (around 12:00 or after 1:30pm) to get a table without a wait.
+title: >-
+  Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel
+  Guide
+description: >-
+  Chola Cafe - Biryani House sits on a quiet side street in Little India, a
+  short walk from Little India MRT (Exit E), and is best visited slightly off
+  peak lunch (around 12:00 or after 1:30pm) to get a table without a wait.
 country: Singapore
 region: Little India
 category: trendy
 pubDate: '2026-07-23T07:41:39.375Z'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/73130758__zmBdPFFfTUAlyKSM0yQLxYzGGqDU8Sr1-sVbrfjiZQ.jpg
-  credit: 'Photo: Foursquare user content (Bismillah Biryani)'
-  license: foursquare
-  source: https://foursquare.com/v/4bb18bf3f964a52014993ce3
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/462867962_B9zcWgMZNzN7jHld7GdflUv13MRhvnbze9CLSVGHfwo.jpg
-    credit: 'Photo: Foursquare user content (Bismillah Biryani)'
-    license: foursquare
-    source: https://foursquare.com/v/4bb18bf3f964a52014993ce3
+gallery: []
 place:
   id: ChIJxf_ZdSYZ2jERWHDSce6Gwow
   name: Chola Cafe - Biryani House - “Best Biryani in Singapore”
-  address: 20 Clive St, Singapore 209778
+  address: '20 Clive St, Singapore 209778'
   rating: 4.9
   userRatingsTotal: 439
-  googleMapsUrl: https://maps.google.com/?cid=10142817669461733464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10142817669461733464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3053029
   lng: 103.85223950000001
@@ -52,19 +49,40 @@ place:
 tags:
   - little india
   - trendy cafe
-quickAnswer: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (around 12:00 or after 1:30pm) to get a table without a wait. Come for slow-cooked mutton or chicken biryani served with the usual accompaniments of raita and brinjal curry, and expect a no-frills, canteen-style setup rather than a polished dining room. It's a strong pick if you want an under-the-radar biryani stop rather than the queue-heavy names on Serangoon Road.
+quickAnswer: >-
+  Chola Cafe - Biryani House sits on a quiet side street in Little India, a
+  short walk from Little India MRT (Exit E), and is best visited slightly off
+  peak lunch (around 12:00 or after 1:30pm) to get a table without a wait. Come
+  for slow-cooked mutton or chicken biryani served with the usual accompaniments
+  of raita and brinjal curry, and expect a no-frills, canteen-style setup rather
+  than a polished dining room. It's a strong pick if you want an under-the-radar
+  biryani stop rather than the queue-heavy names on Serangoon Road.
 faq:
   - q: How do I get to Chola Cafe - Biryani House by public transport?
-    a: Take the North East Line or Downtown Line to Little India MRT, leave via Exit E, and walk about 5–8 minutes to Clive Street.
+    a: >-
+      Take the North East Line or Downtown Line to Little India MRT, leave via
+      Exit E, and walk about 5–8 minutes to Clive Street.
   - q: What should I order first?
-    a: Start with the mutton or chicken biryani — the house specialty — served with raita and brinjal curry; add a separate curry with plain rice if you want to compare the kitchen's masala style.
+    a: >-
+      Start with the mutton or chicken biryani — the house specialty — served
+      with raita and brinjal curry; add a separate curry with plain rice if you
+      want to compare the kitchen's masala style.
   - q: Is it busy or a hidden find?
-    a: It's under-the-radar compared to Little India's famous biryani stalls on the main strip, so waits are generally shorter despite its very high review rating.
+    a: >-
+      It's under-the-radar compared to Little India's famous biryani stalls on
+      the main strip, so waits are generally shorter despite its very high
+      review rating.
   - q: Do I need a reservation?
-    a: No formal reservation system is typical for a restaurant this size — it runs on walk-ins, so timing your visit outside peak lunch and dinner hours is the best strategy.
+    a: >-
+      No formal reservation system is typical for a restaurant this size — it
+      runs on walk-ins, so timing your visit outside peak lunch and dinner hours
+      is the best strategy.
   - q: What else can I see nearby?
-    a: Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all within easy walking distance and make for a good pre- or post-meal wander.
+    a: >-
+      Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all
+      within easy walking distance and make for a good pre- or post-meal wander.
 aiGenerated: true
+photoless: true
 ---
 
 ## Why go

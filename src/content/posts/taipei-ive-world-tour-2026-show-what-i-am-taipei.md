@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-09-11'
 eventEndDate: '2026-09-13'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1612729829113-59e5c3a3d107?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8VGFpcGVpJTIwVGFpd2FuJTIwY29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODUzNjIwMzJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Kathy Chen on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@kathycc?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - taipei
@@ -57,6 +50,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 You come up out of the escalators at Taipei Arena on a September evening and the crowd tells you everything before you even see the building. Lightsticks bob in clusters near the entrance, fan-made banners get unfurled and photographed, and the low hum of pre-show excitement rolls across the plaza in waves. This is what an IVE arena night looks like, and for three nights running in 2026 — September 11, 12, and 13 — that energy belongs to Taipei.
 

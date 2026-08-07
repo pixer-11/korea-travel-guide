@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-05'
 eventEndDate: '2026-09-05'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8N3x8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODU5NjY5NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by ActionVance on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@actionvance?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pasay city
@@ -55,6 +48,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 
 You feel Mall of Asia Arena before you see it. The complex sprawls along Manila Bay's reclaimed waterfront in Pasay City, a wall of LED screens and shuttle buses and vendors already setting up folding tables of light sticks and photocards days before showtime. This is where BABYMONSTER — YG Entertainment's newest girl group, built around members like Ruka, Ahyeon, Asa, and Pharita — lands on September 5, 2026, for a stop on their CHOOM World Tour, their first global run since debuting.

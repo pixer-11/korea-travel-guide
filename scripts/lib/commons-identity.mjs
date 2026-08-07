@@ -21,6 +21,8 @@
  * it must never be allowed to upgrade "cannot tell" into MATCH.
  */
 
+import { tokens } from './commons.mjs';
+
 const API = 'https://commons.wikimedia.org/w/api.php';
 // Wikimedia asks for a real UA and throttles hard on parallel/browser-UA
 // requests — a prior sweep got 528 spurious 429s that read as dead images.
@@ -135,4 +137,77 @@ export function judgeIdentity(meta, claim, world) {
 
   if (namesCountry) return { verdict: 'supports', why: `Commons names ${claim.country}` };
   return { verdict: 'unknown', why: 'Commons names no place this site knows' };
+}
+
+// ── Foursquare: the credit line already names the venue ──────
+//
+// 232 live heroes come from Foursquare, where the stored credit reads
+// "Photo: Foursquare user content (VENUE NAME)" — the venue the photographer
+// was standing in. Eight of them name a different business than the post:
+// little-india-chola-cafe credits "Bismillah Biryani", a rival restaurant;
+// dubai-barrafina credits "Mercato - DIFC"; barcelona-barra-oso credits
+// "El Nacional Barra de Vins". Same deterministic shape as the Commons check,
+// different source.
+const CREDIT_VENUE = new RegExp(String.raw`\(([^)]+)\)\s*$`);
+
+// Words that carry no identity: two venues sharing only these are not the same
+// venue. "Cafe" alone must never vouch for "Bismillah Biryani" == "Chola Cafe".
+const GENERIC_VENUE_WORD = new Set([
+  'cafe', 'café', 'coffee', 'restaurant', 'restaurante', 'bar', 'bistro', 'grill',
+  'kitchen', 'house', 'shop', 'store', 'market', 'food', 'eatery', 'diner', 'pub',
+  'the', 'and', 'club', 'lounge', 'hotel', 'resort', 'centre', 'center', 'city',
+  'tours', 'tour', 'park', 'museum', 'garden', 'gardens', 'street', 'road',
+]);
+
+// Strip accents before tokenising. tokens() drops anything outside [a-z0-9],
+// so "Régalade" became "r" + "galade" and stopped matching "Regalade" — the
+// same venue, credited without the accent. Vietnamese tone marks did the same
+// to "Mê Hội An".
+const deaccent = (s) => String(s ?? '').normalize('NFKD').replace(/[̀-ͯ]/g, '');
+const idTokens = (s) => new Set(tokens(deaccent(s)).filter((w) => !GENERIC_VENUE_WORD.has(w)));
+
+/**
+ * Does a Foursquare credit name the same business as the post?
+ *
+ * Deliberately lenient on spelling and length — real credits are abbreviated
+ * ("Flavors Grill" for "Flavors Grill Abu Dhabi") and misspelled ("Souryana
+ * Restarant and Café"). One shared distinctive word is enough to vouch; zero is
+ * the signal.
+ *
+ * @returns {{verdict: 'contradicts'|'supports'|'unknown', why: string}}
+ */
+export function judgeFoursquareCredit(credit, venueName) {
+  const named = CREDIT_VENUE.exec(String(credit ?? ''))?.[1]?.trim();
+  if (!named) return { verdict: 'unknown', why: 'credit names no venue' };
+  if (!venueName) return { verdict: 'unknown', why: 'post has no venue name' };
+
+  const a = idTokens(named);
+  const b = idTokens(venueName);
+  // Nothing distinctive on either side (e.g. a venue really called "The Coffee
+  // House") — cannot judge, and must not pretend to.
+  if (!a.size || !b.size) return { verdict: 'unknown', why: 'no distinctive words to compare' };
+
+  // Abbreviations and misspellings are normal in these credits — "Flavors
+  // Grill" for "Flavors Grill Abu Dhabi", "Souryana Restarant" for "Souryana
+  // Restaurant" — so a shared five-character prefix counts as the same word.
+  const near = (x, y) => x === y || (x.length >= 5 && y.length >= 5 && (x.startsWith(y.slice(0, 5)) || y.startsWith(x.slice(0, 5))));
+  const covers = (small, big) => [...small].every((w) => [...big].some((v) => near(w, v)));
+
+  // One name CONTAINING the other is the same venue written two ways: a credit
+  // of "Manly" against "Australian Cafe & Bar Manly", or "Kyoto Yoichiba"
+  // against "yoichiba". Checked both directions because either side can be the
+  // abbreviation.
+  if (covers(a, b) || covers(b, a)) {
+    return { verdict: 'supports', why: `credit "${named}" is the same name as "${venueName}"` };
+  }
+
+  // Otherwise the LEAD word decides, not any shared word. "Bismillah Biryani"
+  // and "Chola Cafe & Biryani House" share "biryani" — a dish, not an identity
+  // — and matching on it vouched for a photo of a rival restaurant. A venue's
+  // first distinctive word is its name; the rest is usually what it sells.
+  const lead = [...a][0];
+  for (const v of b) if (near(lead, v)) {
+    return { verdict: 'supports', why: `credit "${named}" matches venue on "${lead}"` };
+  }
+  return { verdict: 'contradicts', why: `credit names "${named}", post is "${venueName}"` };
 }

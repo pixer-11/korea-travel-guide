@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-23'
 eventEndDate: '2026-10-07'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1622136352884-9fa452b2acb1?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8VGFpcGVpJTIwVGFpd2FuJTIwbXVzaWMlMjBmZXN0aXZhbCUyMGNyb3dkfGVufDB8MHx8fDE3ODQ5MjM0NDB8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Lisanto 李奕良 on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@lisanto_?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - taipei
@@ -59,6 +52,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why Go

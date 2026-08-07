@@ -12,13 +12,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1684679493212-6adfaf58c388?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBUdXJrZXklMjBjb25jZXJ0JTIwbGl2ZSUyMGV2ZW50JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTI4OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Efe Yağız Soysal on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@efeyagizs?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - istanbul
@@ -56,6 +49,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why go

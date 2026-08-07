@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-09-03'
 eventEndDate: '2026-09-04'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1600779547877-be592ef5aad3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8Y29uY2VydCUyMGxpdmUlMjBldmVudCUyMHN0YWdlfGVufDB8MHx8fDE3ODUzNjI3MjN8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Magnus Lunay on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@djswingkid?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - makati city
@@ -55,6 +48,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 
 ## Why this show is different

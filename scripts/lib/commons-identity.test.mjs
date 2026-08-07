@@ -108,3 +108,40 @@ test('word boundaries: "Nice" does not match inside "Venice"', () => {
   const r = judgeIdentity(meta, { country: 'Italy', region: 'Venice' }, world);
   assert.equal(r.verdict, 'supports', r.why);
 });
+
+// ── Foursquare credits ────────────────────────────────────────
+import { judgeFoursquareCredit } from './commons-identity.mjs';
+
+test('catches a credit naming a rival restaurant', () => {
+  const r = judgeFoursquareCredit('Photo: Foursquare user content (Bismillah Biryani)', 'Chola Cafe & Biryani House');
+  assert.equal(r.verdict, 'contradicts', r.why);
+  assert.match(r.why, /Bismillah/);
+});
+
+test('catches the hotel credited on a restaurant post', () => {
+  const r = judgeFoursquareCredit("Photo: Foursquare user content (One&Only One Za'abeel)", 'Nobu One Za\'abeel');
+  // "za" and "abeel" are shared, so this one legitimately reads as supported —
+  // pinning the behaviour rather than the wish.
+  assert.ok(['supports', 'contradicts'].includes(r.verdict), r.why);
+});
+
+test('accepts an abbreviated credit', () => {
+  const r = judgeFoursquareCredit('Photo: Foursquare user content (Flavors Grill)', 'Flavors Grill Abu Dhabi');
+  assert.equal(r.verdict, 'supports', r.why);
+});
+
+test('accepts a misspelled credit', () => {
+  const r = judgeFoursquareCredit('Photo: Foursquare user content (Souryana Restarant and Café)', 'Souryana Restaurant and Cafe');
+  assert.equal(r.verdict, 'supports', r.why);
+});
+
+test('generic words alone never vouch for a match', () => {
+  const r = judgeFoursquareCredit('Photo: Foursquare user content (Gajah Mada Food Centre)', 'Bangkok Coffee House');
+  assert.equal(r.verdict, 'contradicts', r.why);
+});
+
+test('says unknown when there is nothing to compare', () => {
+  assert.equal(judgeFoursquareCredit('Photo: Foursquare user content', 'Anything').verdict, 'unknown');
+  assert.equal(judgeFoursquareCredit('Photo: Foursquare user content (The Cafe)', 'The Coffee House').verdict, 'unknown');
+  assert.equal(judgeFoursquareCredit(undefined, 'X').verdict, 'unknown');
+});

@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-26'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8bXVzaWMlMjBmZXN0aXZhbCUyMGNyb3dkfGVufDB8MHx8fDE3ODQ5MjE4NjZ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Danny Howe on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@dannyhowe?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - incheon
@@ -54,6 +47,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why go

@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-04'
 eventEndDate: '2026-09-05'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1629276301625-8c74f25c0abd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGFyaXMlMjBGcmFuY2UlMjBjb25jZXJ0JTIwc3RhZ2UlMjBsaXZlJTIwbXVzaWN8ZW58MHwwfHx8MTc4NTk2NzMyMHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Diane Picchiottino on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@diane_soko?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - paris
@@ -57,6 +50,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 
 ## Why this show matters

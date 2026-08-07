@@ -10,13 +10,6 @@ category: event
 pubDate: '2026-07-21'
 eventStartDate: '2026-08-26'
 eventEndDate: '2026-08-30'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8M3x8cm9jayUyMGNvbmNlcnQlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1ODMwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Anthony DELANOIX on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@anthonydelanoix?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - saint-cloud
@@ -56,6 +49,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why go

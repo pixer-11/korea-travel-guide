@@ -25,7 +25,7 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
-import { commonsTitle, fetchCommonsMeta, judgeIdentity } from './lib/commons-identity.mjs';
+import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit } from './lib/commons-identity.mjs';
 
 const POSTS = 'src/content/posts';
 const STRIP = process.argv.includes('--strip');
@@ -40,7 +40,9 @@ const world = {
 
 // Every live post's hero and gallery images, keyed by the Commons file they use.
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
-const targets = []; // {slug, kind, url, title, claim}
+const targets = [];    // Commons images, judged against the post's place
+const foursquare = []; // Foursquare images, judged against the credit line
+const stock = [];      // Unsplash — a rule violation whatever it shows
 for (const f of files) {
   const slug = f.replace(/\.md$/, '');
   if (ONLY.length && !ONLY.includes(slug)) continue;
@@ -57,12 +59,20 @@ for (const f of files) {
   // audit rather than a wrong answer from this one.
   const isEvent = d.category === 'event';
   const claim = { country: d.country ?? 'South Korea', region: d.region ?? '' };
-  const add = (kind, url) => {
+  const venueName = d.place?.name || String(d.title ?? '').split(/[:—]/)[0].trim();
+  const add = (kind, url, credit) => {
+    if (!url) return;
+    // Stock is a rule violation regardless of what it depicts, and these do not
+    // stay on the post: they are self-hosted into /wall/ and promoted to city
+    // tiles and og:images, which is how the Wuhan tile became a photograph of a
+    // billiards table.
+    if (/images\.unsplash\.com/.test(url)) { stock.push({ slug, kind, url }); return; }
+    if (/4sqi\.net/.test(url)) { foursquare.push({ slug, kind, url, credit, venueName }); return; }
     const title = commonsTitle(url);
     if (title) targets.push({ slug, kind, url, title, claim, isEvent });
   };
-  add('hero', d.heroImage?.url);
-  for (const g of d.gallery ?? []) add('gallery', g?.url);
+  add('hero', d.heroImage?.url, d.heroImage?.credit);
+  for (const g of d.gallery ?? []) add('gallery', g?.url, g?.credit);
 }
 
 if (!JSON_OUT) console.log(`${targets.length} Commons image(s) on live posts — asking Commons what they are…`);
@@ -81,28 +91,51 @@ for (const t of targets) {
   bucket.push(row);
 }
 
+// Foursquare stores the venue the photographer was standing in, right there in
+// the credit. Judged for events too — unlike a place photo, a credit naming a
+// different business is wrong no matter what the post is about.
+const fsqBad = [];
+for (const p of foursquare) {
+  const v = judgeFoursquareCredit(p.credit, p.venueName);
+  if (v.verdict === 'contradicts') fsqBad.push({ ...p, ...v });
+}
+
+// Only what can be removed WITHOUT a judgement call. Commons contradictions are
+// decided by a named country, and stock is a rule violation whatever it depicts
+// — neither needs a person. Foursquare credit mismatches are reported and never
+// stripped: venues are credited by nickname, translation and misspelling
+// ("flower city square" for Huacheng Square, "Australian Cafe & Bar Manly" for
+// Manly), and the cost of getting one wrong is deleting a correct photo.
+const removable = [
+  ...contradicts,
+  ...stock.map((s) => ({ ...s, why: 'stock photography — the project forbids it on venue and event posts' })),
+];
+
 if (JSON_OUT) {
-  console.log(JSON.stringify({ contradicts, nearby, unknownCount: unknown.length, supportsCount: supports.length, eventsSkipped: events.length }, null, 2));
+  console.log(JSON.stringify({ contradicts, fsqBad, stock, nearby, unknownCount: unknown.length, supportsCount: supports.length, eventsSkipped: events.length }, null, 2));
 } else {
-  console.log(`\n🔴 wrong place: ${contradicts.length}   🟡 needs a human: ${nearby.length}   ✅ confirmed: ${supports.length}   ❔ unknown: ${unknown.length}   ⏭️  events skipped: ${events.length}\n`);
+  console.log(`\n🔴 wrong place: ${contradicts.length}   🏷️  wrong venue credited: ${fsqBad.length}   📷 stock: ${stock.length}`);
+  console.log(`🟡 needs a human: ${nearby.length}   ✅ confirmed: ${supports.length}   ❔ unknown: ${unknown.length}   ⏭️  events skipped: ${events.length}\n`);
   for (const c of contradicts) {
     console.log(`  🔴 ${c.slug}  [${c.kind}]`);
     console.log(`     ${c.why}`);
     console.log(`     ${c.title}`);
   }
+  for (const c of fsqBad) console.log(`  🏷️  ${c.slug}  [${c.kind}]  ${c.why}`);
+  for (const s of stock) console.log(`  📷 ${s.slug}  [${s.kind}]  stock`);
   if (nearby.length) {
     console.log('\n  — same country, cannot decide from a flat region list (review by hand) —');
     for (const n of nearby) console.log(`  🟡 ${n.slug}: ${n.why}`);
   }
 }
 
-if (STRIP && contradicts.length) {
+if (STRIP && removable.length) {
   // Strips the WRONG photo and leaves the post published. Deleting the post was
   // the old answer and it cost 40% of the site's traffic on 2026-07-26; a guide
   // with no photo still answers its question. The patrol keeps looking and
   // attaches a real one when it finds it.
   const byslug = new Map();
-  for (const c of contradicts) (byslug.get(c.slug) ?? byslug.set(c.slug, []).get(c.slug)).push(c);
+  for (const c of removable) (byslug.get(c.slug) ?? byslug.set(c.slug, []).get(c.slug)).push(c);
   for (const [slug, rows] of byslug) {
     const p = join(POSTS, `${slug}.md`);
     const parsed = matter(await readFile(p, 'utf8'));
@@ -115,4 +148,4 @@ if (STRIP && contradicts.length) {
   }
 }
 
-console.log(`\nIDENTITY_SUMMARY checked=${targets.length} contradicts=${contradicts.length} supports=${supports.length} unknown=${unknown.length}`);
+console.log(`\nIDENTITY_SUMMARY commons=${targets.length} foursquare=${foursquare.length} wrongplace=${contradicts.length} wrongvenue=${fsqBad.length} stock=${stock.length} confirmed=${supports.length} unknown=${unknown.length} review=${nearby.length}`);

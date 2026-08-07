@@ -12,13 +12,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-23'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1512671584073-0ed5878c5679?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R295YW5nJTIwU291dGglMjBLb3JlYSUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg1MzYwNTY2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Jisu Han on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@makeitcount?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - goyang
@@ -59,6 +52,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 
 ## Why this run of shows matters

@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-23'
 eventEndDate: '2026-08-29'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1761591847985-2184afaab747?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8c25vb2tlciUyMHRvdXJuYW1lbnQlMjB0YWJsZXxlbnwwfDB8fHwxNzg1OTY3NjkxfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Geoffrey Moffett on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@geoffreymoffett?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - wuhan
@@ -56,6 +49,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why go

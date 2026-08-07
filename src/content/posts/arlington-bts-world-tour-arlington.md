@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-15'
 eventEndDate: '2026-08-16'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1522158637959-30385a09e0da?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Nnx8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODU5NjY5NTh8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Rachel Coyne on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@rachelcoyne?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - arlington
@@ -57,6 +50,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 
 ## Why this show matters

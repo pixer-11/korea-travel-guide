@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-10'
 eventEndDate: '2026-08-12'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8Y29uY2VydCUyMHN0YWdlJTIwbGl2ZSUyMG11c2ljfGVufDB8MHx8fDE3ODQ5MjIyMjR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Vishnu R Nair on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@vishnurnair?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - pasay city
@@ -59,6 +52,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+photoless: true
 ---
 
 ## Why this show matters

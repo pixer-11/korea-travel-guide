@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-10-09'
 eventEndDate: '2026-10-11'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1742744652734-d5ec6598b5da?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2luZ2Fwb3JlJTIwU2luZ2Fwb3JlJTIwZm9ybXVsYSUyMDElMjByYWNpbmclMjBjYXJ8ZW58MHwwfHx8MTc4NTM2MzAxN3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Roy Tsong on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@shotinmoment_?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - singapore
@@ -57,6 +50,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 The first thing you notice, days before a single engine fires, is the scaffolding. Grandstands climb over the Padang and along Raffles Boulevard, temporary bridges arc across roads you walked the week before, and the glass towers of the CBD suddenly have a racetrack running underneath them. Singapore's Grand Prix weekend turns the financial district into a 5-kilometre street circuit, and for three nights in October the skyline itself becomes part of the spectacle — floodlights bouncing off the Marina Bay Sands facade, the Singapore Flyer lit up behind the final corners.
 

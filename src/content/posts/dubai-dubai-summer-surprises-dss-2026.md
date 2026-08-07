@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-07-03'
 eventEndDate: '2026-08-30'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1670235809832-bbd4cc449e6f?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RHViYWklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjBjb25jZXJ0JTIwbGl2ZSUyMGV2ZW50JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDkyMzI0NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by yasara hansani on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@yashiru?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - dubai
@@ -59,6 +52,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 ## What DSS Actually Is
 

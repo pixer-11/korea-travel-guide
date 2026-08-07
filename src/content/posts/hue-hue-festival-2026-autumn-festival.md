@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-09-30'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1582711012124-a56cf82307a0?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SHVlJTIwVmlldG5hbSUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg1OTY4MDY0fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Tony Pham on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@tonyphamvn?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - hue
@@ -59,6 +52,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why this season matters

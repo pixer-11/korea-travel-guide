@@ -9,13 +9,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-09'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1716942739323-06a906e4a8ee?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R2VvcmdlJTIwVG93biUyME1hbGF5c2lhJTIwbXVzaWMlMjBmZXN0aXZhbCUyMGNyb3dkfGVufDB8MHx8fDE3ODU5Njg2MDJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by You Le on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@le_y0u?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - george town
@@ -57,6 +50,7 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+photoless: true
 ---
 
 ## Why go
