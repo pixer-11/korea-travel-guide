@@ -288,6 +288,13 @@ function regionRedirects() {
     // Kept the earlier post here: identical dates, so the "fuller date range"
     // tie-breaker does not apply and the longer-indexed URL wins.
     ['jakarta-the-weeknd-after-hours-til-dawn-world-tour', 'jakarta-the-weeknd-after-hours-til-dawn-tour'],
+    // Pairs 13–14, flagged by the 2026-08-07 evening publish report: the same
+    // Aaron Kwok KL night and the same Awa Odori festival, re-discovered on
+    // 08-05 under longer phrasings. Identical dates in both pairs, so as with
+    // the Weeknd pair the fuller-date-range tie-breaker does not apply and the
+    // longer-indexed URL (the earlier pubDate) wins.
+    ['kuala-lumpur-aaron-kwok-iconic-world-tour-2026-live-in-malaysia', 'kuala-lumpur-aaron-kwok-iconic-world-tour-2026'],
+    ['tokushima-tokushima-awa-odori-festival', 'tokushima-tokushima-awa-odori'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule
