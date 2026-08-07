@@ -6,10 +6,10 @@ region: Sokcho
 category: restaurant
 pubDate: '2026-07-24T22:25:59.641Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4288186_WWe48OIW5APBf627RCZqnLYrbKnDW9bhnS2I1zAtfDs.jpg
-  credit: 'Photo: Foursquare user content (쌈밥&청국장)'
+  url: https://fastly.4sqi.net/img/general/original/14315018_rRDVxQVCYFa6dyVXacowI08sklrDaDXdG9a8kgv_NVY.jpg
+  credit: 'Photo: Foursquare user content (만석닭강정)'
   license: foursquare
-  source: https://foursquare.com/v/5c7606fe27cbd10025d46f7e
+  source: https://foursquare.com/v/4f7fd4cde4b0e160b8b26c8f
 gallery: []
 place:
   id: ChIJ_anZJ3q72F8RwNtXP7C84rQ
@@ -38,7 +38,6 @@ faq:
   - q: Is it better for lunch or dinner, or as a drinking spot?
     a: It works for both — order it with rice as a full meal, or treat it as anju (bar food) with beer or soju in the evening, which is a common way locals enjoy dakgangjeong.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

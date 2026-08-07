@@ -8183,5 +8183,12 @@
   "reason": "photo pulled from the venue's own FSQ record (The Island Restaurant, 1m from post coordinates); signage THE ISLAND visible; human eye review — quarantine release 2026-08-07",
   "reasonKo": "글 좌표 1m의 FSQ 본 업소 기록에서 수급, 간판 THE ISLAND 확인, 사람 육안 검토 — 2026-08-07 격리 해제",
   "at": "2026-08-07T08:30:10.143Z"
+ },
+ "sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken\u0001https://fastly.4sqi.net/img/general/original/14315018_rRDVxQVCYFa6dyVXacowI08sklrDaDXdG9a8kgv_NVY.jpg": {
+  "slug": "sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken",
+  "verdict": "MATCH",
+  "reason": "photo from the venue's own FSQ record (만석닭강정, 3m from post coordinates); the 만석닭강정 본점 sign is legible; human eye review — quarantine release 2026-08-07",
+  "reasonKo": "글 좌표 3m의 FSQ 본 업소 기록에서 수급, 만석닭강정 본점 간판 판독됨, 사람 육안 검토 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T08:37:51.415Z"
  }
 }
