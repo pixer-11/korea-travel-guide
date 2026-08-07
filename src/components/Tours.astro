@@ -31,7 +31,9 @@ const CITY_ID: Record<string, number> = {
   Bangkok: 4,
   Phuket: 7,
   Shanghai: 59,
-  Xian: 60,
+  // The posts spell it Xi'an — "Xian" matched none of them, so the city fell
+  // through to a plain search link for as long as this map has existed.
+  "Xi'an": 60,
 };
 const cityId = CITY_ID[city];
 const src = cityId

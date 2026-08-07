@@ -644,6 +644,19 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       </div>
     )}
 
+    {/* Tours was imported at the top of this file and never rendered. The
+        Klook price widget — the only placement on the site that shows real
+        products at real prices instead of a search link — therefore existed on
+        15 English region hubs and on none of the 685 posts. Verified live
+        2026-08-07: `tpemd` appears 0 times on /posts/seoul-gyeongbokgung-palace/
+        and once on /regions/seoul/.
+
+        Ahead of Hotels on purpose: someone reading about a specific place is
+        closer to buying an admission ticket for it than a hotel room. Cities
+        outside the widget's ID map fall through to Tours' own city CTA, so this
+        never renders empty. */}
+    <Tours city={d.region} />
+
     <Hotels city={d.region} country={d.country ?? 'South Korea'} />
 
     <PlanTrip city={d.region} country={d.country ?? 'South Korea'} />

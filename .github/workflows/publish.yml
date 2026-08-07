@@ -163,6 +163,20 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/translate-country-blurbs.mjs || echo "국가 소개 번역" >> /tmp/soft-fail.txt
 
+      # Public-holiday name glosses. src/i18n/holidays.ts says in its own comment
+      # "Never English on a localized page", and that was false for 216 of 329
+      # holidays — /ko/tools/when-to-go/singapore/august/ printed "National Day",
+      # Taiwan's February printed three English names in a row. The table was
+      # hand-typed, had no generator, and ran in no workflow, so every country
+      # added after it was written arrived uncovered and stayed that way.
+      # Idempotent: only rows missing a language cost anything, so this is a
+      # no-op until refresh-country-facts pulls in a holiday nobody has glossed.
+      - name: Translate new holiday names (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/translate-holidays.mjs || echo "공휴일명 번역" >> /tmp/soft-fail.txt
+
       # Region intro fact-boxes ("getting there / how long") for any city that
       # just got its FIRST post — web-search-grounded EN + 4 translations.
       # Idempotent: covered cities are skipped, so this is a no-op most days.
@@ -373,7 +387,7 @@ jobs:
           # country-facts.json and the essentials guides are here because the
           # step above can create them for a newly added country; without them
           # staged, that work is generated and then thrown away on every run.
-          git add data/visual-audit.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
+          git add data/visual-audit.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"

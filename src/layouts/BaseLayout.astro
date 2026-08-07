@@ -8,6 +8,7 @@ import Footer from '../components/Footer.astro';
 import NewsletterPopup from '../components/NewsletterPopup.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, localeCodes, localizePath, stripLocale, useTranslations, type Lang } from '../i18n/utils';
+import { fitsWidth } from '../lib/textWidth.mjs';
 
 interface Props {
   title: string;
@@ -147,7 +148,13 @@ const orgLd = {
         href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
       />
     )}
-    <title>{title.includes(siteName) ? title : (`${title} · ${siteName}`.length <= 60 ? `${title} · ${siteName}` : title)}</title>
+    {/* Width, not .length. A CJK glyph takes about twice the horizontal space of
+        a Latin letter, so counting characters applied a Latin ruler to every
+        language: 89% of Japanese titles, 95% of Korean and 68% of Chinese were
+        over the real ceiling and near-certainly rewritten by Google — and a
+        rewritten title is one we no longer control. Same number, 60, now means
+        the same thing in every language. */}
+    <title>{title.includes(siteName) ? title : (fitsWidth(`${title} · ${siteName}`, 60) ? `${title} · ${siteName}` : title)}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
