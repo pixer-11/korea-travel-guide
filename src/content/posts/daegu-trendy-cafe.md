@@ -1,31 +1,54 @@
 ---
 title: Trendy Cafe in Daegu
-description: For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street, and for the true "cafe district" experience go to Suseong-ro Cafe Street along Suseongmot (Suseong Lake).
+description: >-
+  For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street
+  area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street,
+  and for the true "cafe district" experience go to Suseong-ro Cafe Street along
+  Suseongmot (Suseong Lake).
 region: Daegu
 country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg/1920px-Mumbai%2C_India%2C_Trendy_cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Trendy_cafe.jpg
 tags:
   - daegu
   - trendy cafe
-quickAnswer: For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street, and for the true "cafe district" experience go to Suseong-ro Cafe Street along Suseongmot (Suseong Lake). Expect renovated hanok cafes, industrial-warehouse roasteries, and lakeside terraces—plan a 2-3 hour loop combining a coffee stop with a walk. Go on a weekday morning or late afternoon to avoid weekend queues, especially around Suseong Lake.
+quickAnswer: >-
+  For Daegu's best trendy cafes, head to Dongseong-ro / Kim Kwang-seok Street
+  area near Jungangno Station (Line 1) or the quieter Bongsan Culture Street,
+  and for the true "cafe district" experience go to Suseong-ro Cafe Street along
+  Suseongmot (Suseong Lake). Expect renovated hanok cafes, industrial-warehouse
+  roasteries, and lakeside terraces—plan a 2-3 hour loop combining a coffee stop
+  with a walk. Go on a weekday morning or late afternoon to avoid weekend
+  queues, especially around Suseong Lake.
 faq:
   - q: What's the best subway station for Daegu's trendy cafes?
-    a: Jungangno Station (Line 1, exits 2 or 4) for the Dongseong-ro/Bongsan Culture Street area; Suseong Market Station (Line 3) or Suseong Station (Line 2) for the Suseong Lake cafe strip.
+    a: >-
+      Jungangno Station (Line 1, exits 2 or 4) for the Dongseong-ro/Bongsan
+      Culture Street area; Suseong Market Station (Line 3) or Suseong Station
+      (Line 2) for the Suseong Lake cafe strip.
   - q: How much time should I budget?
-    a: Plan 2-3 hours for a single area — enough time to walk the Suseong Lake loop (about 40-50 minutes) or browse Bongsan Culture Street's galleries and cafes, plus a leisurely coffee stop.
+    a: >-
+      Plan 2-3 hours for a single area — enough time to walk the Suseong Lake
+      loop (about 40-50 minutes) or browse Bongsan Culture Street's galleries
+      and cafes, plus a leisurely coffee stop.
   - q: Is one cafe district better than the other?
-    a: Suseong Lake offers scenic, modern cafes with water views and is better for a relaxed afternoon; Dongseong-ro/Bongsan area is more urban, walkable to shopping and street food, and better if you're combining cafes with sightseeing downtown.
+    a: >-
+      Suseong Lake offers scenic, modern cafes with water views and is better
+      for a relaxed afternoon; Dongseong-ro/Bongsan area is more urban, walkable
+      to shopping and street food, and better if you're combining cafes with
+      sightseeing downtown.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings or mid-afternoons. Weekends, especially spring cherry blossom season and autumn foliage season, bring heavy crowds to the Suseong Lake cafes.
+    a: >-
+      Weekday mornings or mid-afternoons. Weekends, especially spring cherry
+      blossom season and autumn foliage season, bring heavy crowds to the
+      Suseong Lake cafes.
   - q: What should I order that's distinctly Daegu or Korean?
-    a: Look for cafes touting their own house-roasted beans, given Daegu's regional coffee-roasting reputation, plus Korean cafe staples like injeolmi (rice cake) lattes and bingsu shaved ice in summer.
+    a: >-
+      Look for cafes touting their own house-roasted beans, given Daegu's
+      regional coffee-roasting reputation, plus Korean cafe staples like
+      injeolmi (rice cake) lattes and bingsu shaved ice in summer.
 aiGenerated: true
+photoless: true
 ---
 
 ## Why Daegu's Cafe Scene Stands Out

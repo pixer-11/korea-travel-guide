@@ -408,6 +408,24 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # Asks Commons what each photo IS, rather than asking a model what it
+      # looks like. The vision gate does not merely miss identity — it asserts
+      # it: its own stored verdict for los-angeles-eggslut was MATCH, "Eggslut
+      # storefront, branding visible", on a photo of the SINGAPORE branch, and
+      # daegu-trendy-cafe was MATCH, "Modern café interior", on a café in
+      # Mumbai. No model looking at a picture of a café can say which café. The
+      # uploader already did, in the Commons record.
+      #
+      # --strip removes a hero the metadata places in another COUNTRY and leaves
+      # the post published; a guide with no photo still answers its question,
+      # and deleting posts is what cost 40% of the site's traffic on 07-26. A
+      # different region inside the same country is only reported, never acted
+      # on: the region list is flat, so it cannot tell that Puerto Princesa is
+      # inside Palawan.
+      - name: Verify photo identity against Commons
+        continue-on-error: true
+        run: node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30
+
       - name: Validate content integrity
         id: validate
         continue-on-error: true

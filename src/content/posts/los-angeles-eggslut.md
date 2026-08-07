@@ -1,28 +1,32 @@
 ---
 title: 'Eggslut: Where to Eat in Los Angeles (4.4★)'
-description: Eggslut is the egg-sandwich stall inside Grand Central Market at 317 S Broadway in Downtown LA, open daily 8am–2pm only — this is breakfast/brunch, not an all-day option. 4.4★ (4,728 reviews) — what visitors say, hours, and tips.
+description: >-
+  Eggslut is the egg-sandwich stall inside Grand Central Market at 317 S
+  Broadway in Downtown LA, open daily 8am–2pm only — this is breakfast/brunch,
+  not an all-day option. 4.4★ (4,728 reviews) — what visitors say, hours, and
+  tips.
 country: United States
 region: Los Angeles
 category: restaurant
 pubDate: '2026-08-04T10:09:54.984Z'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg/1920px-Eggslut%2C_Suntec_City_Mall%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Eggslut,_Suntec_City_Mall,_Singapore.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/f/ff/The_sausage%2C_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._%2830333478632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-    credit: 'Photo: Arturo Pardavila III from Hoboken, NJ, USA / Wikimedia Commons (CC BY 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/ff/The_sausage%2C_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._%2830333478632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    credit: >-
+      Photo: Arturo Pardavila III from Hoboken, NJ, USA / Wikimedia Commons (CC
+      BY 2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:The_sausage,_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._(30333478632).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:The_sausage,_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._(30333478632).jpg
 place:
   id: ChIJuQ5bj0vGwoAR8xOTMYQAboQ
   name: Eggslut
-  address: 317 S Broadway, Los Angeles, CA 90013, USA
+  address: '317 S Broadway, Los Angeles, CA 90013, USA'
   rating: 4.4
   userRatingsTotal: 4728
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=9542565228212065267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9542565228212065267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.050588499999996
   lng: -118.2486089
@@ -51,20 +55,42 @@ place:
 tags:
   - los angeles
   - street food
-quickAnswer: Eggslut is the egg-sandwich stall inside Grand Central Market at 317 S Broadway in Downtown LA, open daily 8am–2pm only — this is breakfast/brunch, not an all-day option. Go right at 8am (quietest window on weekdays 8–10am, weekends 8–9am) and avoid the 10am–2pm weekend crush when the line snakes past the neighboring stalls. Order the signature Slut or Fairfax sandwich, grab a market stool, and budget 20-40 minutes total including the queue.
+quickAnswer: >-
+  Eggslut is the egg-sandwich stall inside Grand Central Market at 317 S
+  Broadway in Downtown LA, open daily 8am–2pm only — this is breakfast/brunch,
+  not an all-day option. Go right at 8am (quietest window on weekdays 8–10am,
+  weekends 8–9am) and avoid the 10am–2pm weekend crush when the line snakes past
+  the neighboring stalls. Order the signature Slut or Fairfax sandwich, grab a
+  market stool, and budget 20-40 minutes total including the queue.
 faq:
   - q: What are Eggslut's hours?
-    a: Eggslut is open daily from 8:00 AM to 2:00 PM — every day of the week, with no dinner or late-afternoon service, so plan a breakfast or early-lunch visit.
+    a: >-
+      Eggslut is open daily from 8:00 AM to 2:00 PM — every day of the week,
+      with no dinner or late-afternoon service, so plan a breakfast or
+      early-lunch visit.
   - q: When is the quietest time to visit?
-    a: Weekdays, 8am–10am is calmest. On weekends the quiet window is even shorter, just 8am–9am, before the brunch crowd fills the market.
+    a: >-
+      Weekdays, 8am–10am is calmest. On weekends the quiet window is even
+      shorter, just 8am–9am, before the brunch crowd fills the market.
   - q: How do I get to Eggslut / Grand Central Market?
-    a: It's at 317 S Broadway in Downtown LA's Historic Core, inside Grand Central Market. The nearest transit stop is Pershing Square Station (Metro B/D Lines), about a 2-minute walk away.
+    a: >-
+      It's at 317 S Broadway in Downtown LA's Historic Core, inside Grand
+      Central Market. The nearest transit stop is Pershing Square Station (Metro
+      B/D Lines), about a 2-minute walk away.
   - q: How long should I budget for a visit?
-    a: Plan for 20–40 minutes including the line — faster right at opening, longer if you arrive on a weekend after 10am when the queue is at its longest.
+    a: >-
+      Plan for 20–40 minutes including the line — faster right at opening,
+      longer if you arrive on a weekend after 10am when the queue is at its
+      longest.
   - q: What should I order?
-    a: The Fairfax sandwich (scrambled egg, cheddar, caramelized onion, sriracha aioli on brioche) is the fastest, most popular order. The signature Slut, a coddled egg over potato purée served in a jar, is the classic sit-and-eat option.
+    a: >-
+      The Fairfax sandwich (scrambled egg, cheddar, caramelized onion, sriracha
+      aioli on brioche) is the fastest, most popular order. The signature Slut,
+      a coddled egg over potato purée served in a jar, is the classic
+      sit-and-eat option.
 aiGenerated: true
 draft: false
+photoless: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

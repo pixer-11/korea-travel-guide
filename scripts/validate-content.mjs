@@ -115,6 +115,12 @@ export function parsePost(f, t) {
     category: fm.category || '',
     title: fm.title || '',
     url: (fm.heroImage && fm.heroImage.url) || '',
+    // Deliberately published without a hero — set only after every free source
+    // came back empty for a week, or after the identity audit removed a photo
+    // that turned out to be of somewhere else. Without reading it here the
+    // photo rule below fires on posts whose missing photo was the correct
+    // outcome, which is what happened the first time it was stripped.
+    photoless: fm.photoless === true,
     credit: (fm.heroImage && fm.heroImage.credit) || '',
     license: (fm.heroImage && fm.heroImage.license) || '',
     placeId: (fm.place && fm.place.id) || '',
