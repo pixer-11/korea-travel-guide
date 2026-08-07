@@ -46,7 +46,7 @@ const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 // IndexNow accepts 10,000 URLs per request. The smaller batch is about failure
 // granularity, not limits: one rejected batch of 1,000 is recoverable, one
 // rejected batch of 6,000 loses the whole run.
-const BATCH = 1000;
+const BATCH = 500;
 
 // A full-site rebuild can move every lastmod at once. Submitting 6,000 URLs as
 // "changed" on a normal day is the shape of a spam signal, so the run spends at
@@ -118,18 +118,36 @@ function writeState(submitted, extra) {
   writeFileSync(STATE_PATH, `${JSON.stringify({ ...extra, submitted: ordered }, null, 2)}\n`);
 }
 
-async function submit(urls) {
-  const res = await fetch(ENDPOINT, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json; charset=utf-8' },
-    body: JSON.stringify({ host: HOST, key: KEY, keyLocation: KEY_LOCATION, urlList: urls }),
-  });
-  // 200 accepted, 202 accepted-pending-key-validation. Everything else is a
-  // refusal worth reporting rather than swallowing.
-  if (res.status !== 200 && res.status !== 202) {
-    throw new Error(`IndexNow returned ${res.status} ${res.statusText}: ${(await res.text()).slice(0, 300)}`);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+async function submit(urls, attempt = 1) {
+  let res;
+  try {
+    res = await fetch(ENDPOINT, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json; charset=utf-8' },
+      body: JSON.stringify({ host: HOST, key: KEY, keyLocation: KEY_LOCATION, urlList: urls }),
+    });
+  } catch (err) {
+    // A dropped connection is not a refusal. Submitting 2,000 URLs in one run
+    // is several minutes of requests to one host, and the first live run died
+    // on something the log could not even name.
+    if (attempt < 3) { await sleep(attempt * 5000); return submit(urls, attempt + 1); }
+    throw new Error(`IndexNow unreachable after ${attempt} attempts: ${err.message}`);
   }
-  return res.status;
+  // 200 accepted, 202 accepted-pending-key-validation.
+  if (res.status === 200 || res.status === 202) return res.status;
+
+  const body = (await res.text()).slice(0, 300);
+  // 429 (too many) and 5xx are timing, not rejection — the same payload
+  // succeeds a moment later. Only a 4xx that is not 429 means "this request is
+  // wrong", and that is worth failing loudly for.
+  if ((res.status === 429 || res.status >= 500) && attempt < 3) {
+    console.log(`  retry ${attempt}: HTTP ${res.status}, waiting ${attempt * 5}s`);
+    await sleep(attempt * 5000);
+    return submit(urls, attempt + 1);
+  }
+  throw new Error(`IndexNow returned ${res.status} ${res.statusText} after ${attempt} attempt(s): ${body || '(empty body)'}`);
 }
 
 async function main() {

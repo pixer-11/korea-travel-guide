@@ -37,7 +37,14 @@ jobs:
 
       - name: Submit new and changed URLs
         id: submit
-        run: node scripts/indexnow-submit.mjs | tee /tmp/indexnow.log
+        # 2>&1, and pipefail so the step still fails when node does. Without the
+        # redirect the failure REASON went to stderr while the Telegram alert
+        # tailed the stdout log — so the first real failure (2026-08-07) reported
+        # only the two progress lines and named no cause at all, which is the
+        # same as having no alert.
+        run: |
+          set -o pipefail
+          node scripts/indexnow-submit.mjs 2>&1 | tee /tmp/indexnow.log
 
       - name: Commit the submission state
         if: success()
