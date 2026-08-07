@@ -3400,13 +3400,6 @@
   "reasonKo": "교토 일식당의 에다마메 요리",
   "at": "2026-08-03T14:29:45.813Z"
  },
- "labuan-bajo-la-moringa-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg": {
-  "slug": "labuan-bajo-la-moringa-labuan-bajo",
-  "verdict": "MISMATCH",
-  "reason": "Image shows 'Labuan Bajo' storefront, not 'La Moringa' resta",
-  "reasonKo": "라 모링가가 아닌 라부안바조 상점",
-  "at": "2026-08-03T14:29:48.478Z"
- },
  "labuan-bajo-pondok-pohon-tanjung-bunga\u0001https://fastly.4sqi.net/img/general/original/5382107_6aOn4apwhZfOgnNYsRPMr6HdtMbOhNucbsgnK3XGTEI.jpg": {
   "slug": "labuan-bajo-pondok-pohon-tanjung-bunga",
   "verdict": "MATCH",
@@ -8148,5 +8141,40 @@
   "reason": "Traditional Chinese temple in Yokohama with distinctive arch",
   "reasonKo": "요코하마의 전형적인 중국 사찰 건축",
   "at": "2026-08-06T14:59:03.482Z"
+ },
+ "bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau\u0001https://fastly.4sqi.net/img/general/original/44083177_upwliGeDUn_uFftewKyLQDAGi-OhXlru3Goq9Zcvlxo.jpg": {
+  "slug": "bandung-wheels-coffee-roasters-heritage-lifestyle-hub-riau",
+  "verdict": "MATCH",
+  "reason": "identity confirmed by source metadata (FSQ credit / Commons description) + human eye review; vision existing-bar KEEP — quarantine release 2026-08-07",
+  "reasonKo": "출처 메타데이터와 사람 육안 검토로 신원 확인, 비전 existing 기준 유지 판정 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T07:26:35.495Z"
+ },
+ "labuan-bajo-la-moringa-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/30282744_hnNvFqgRMMELd6kU7ZQUtAqvaFlzAUOJcIE5b-8LaVA.jpg": {
+  "slug": "labuan-bajo-la-moringa-labuan-bajo",
+  "verdict": "MATCH",
+  "reason": "identity confirmed by source metadata (FSQ credit / Commons description) + human eye review; vision existing-bar KEEP — quarantine release 2026-08-07",
+  "reasonKo": "출처 메타데이터와 사람 육안 검토로 신원 확인, 비전 existing 기준 유지 판정 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T07:26:35.495Z"
+ },
+ "tongyeong-tongyeong-cablecar-skywalk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg/1920px-Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "tongyeong-tongyeong-cablecar-skywalk",
+  "verdict": "MATCH",
+  "reason": "identity confirmed by source metadata (FSQ credit / Commons description) + human eye review; vision existing-bar KEEP — quarantine release 2026-08-07",
+  "reasonKo": "출처 메타데이터와 사람 육안 검토로 신원 확인, 비전 existing 기준 유지 판정 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T07:26:35.495Z"
+ },
+ "pattaya-the-sanctuary-of-truth-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sanctuary_of_Truth_20240916-1.jpg/1920px-Sanctuary_of_Truth_20240916-1.jpg": {
+  "slug": "pattaya-the-sanctuary-of-truth-museum",
+  "verdict": "MATCH",
+  "reason": "identity confirmed by source metadata (FSQ credit / Commons description) + human eye review; vision existing-bar KEEP — quarantine release 2026-08-07",
+  "reasonKo": "출처 메타데이터와 사람 육안 검토로 신원 확인, 비전 existing 기준 유지 판정 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T07:26:35.495Z"
+ },
+ "marina-bay-satay-by-the-bay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Satay_by_the_Bay.jpg/1920px-Satay_by_the_Bay.jpg": {
+  "slug": "marina-bay-satay-by-the-bay",
+  "verdict": "MATCH",
+  "reason": "identity confirmed by source metadata (FSQ credit / Commons description) + human eye review; vision existing-bar KEEP — quarantine release 2026-08-07",
+  "reasonKo": "출처 메타데이터와 사람 육안 검토로 신원 확인, 비전 existing 기준 유지 판정 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T07:26:35.495Z"
  }
 }

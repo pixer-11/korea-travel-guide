@@ -63,7 +63,6 @@ faq:
     a: Jl. Riau is a well-known factory outlet and colonial-heritage shopping street, so it's easy to pair this visit with browsing nearby clothing outlets and other heritage buildings along the same road.
 aiGenerated: true
 updatedDate: '2026-07-26'
-draft: true
 ---
 
 ## Why go

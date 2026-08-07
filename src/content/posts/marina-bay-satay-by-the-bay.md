@@ -6,10 +6,10 @@ region: Marina Bay
 category: restaurant
 pubDate: '2026-07-23T07:43:20.889Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/33316225_QOG777IoBjPwytdaPLumkACVIj8qZqpu2zk2srK3hcg.jpg
-  credit: 'Photo: Foursquare user content (Satay By The Bay)'
-  license: foursquare
-  source: https://foursquare.com/v/50a9bc28e4b089c951cfd1ca
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Satay_by_the_Bay.jpg/1920px-Satay_by_the_Bay.jpg
+  credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Satay_by_the_Bay.jpg
 gallery: []
 place:
   id: ChIJp6HV3hwZ2jERvuwjdrUPNRg
@@ -38,7 +38,6 @@ faq:
   - q: Do I need to pay to enter Gardens by the Bay to eat here?
     a: No — Satay by the Bay sits in the free outdoor area of Gardens by the Bay, so you don't need a ticket to the paid Cloud Forest or Flower Dome conservatories to eat there.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

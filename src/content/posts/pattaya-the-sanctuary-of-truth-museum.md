@@ -6,10 +6,10 @@ region: Pattaya
 category: hidden-gem
 pubDate: '2026-07-22T09:15:39.203Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/61395859_ybhSTDRLMgorY64Eo_vRtryS7CVMH_sRwP8vikaHHsw.jpg
-  credit: 'Photo: Foursquare user content (The Sanctuary of Truth (ปราสาทสัจธรรม))'
-  license: foursquare
-  source: https://foursquare.com/v/4bb6b3ae941ad13ae2e61fe3
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sanctuary_of_Truth_20240916-1.jpg/1920px-Sanctuary_of_Truth_20240916-1.jpg
+  credit: 'Photo: Suicasmo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sanctuary_of_Truth_20240916-1.jpg
 gallery: []
 place:
   id: ChIJHaK3Sd-9AjERaQw5hd_K3VU
@@ -37,7 +37,6 @@ faq:
   - q: What else is nearby worth combining with this visit?
     a: The Naklua Market and seafood restaurants along the coast road make a natural pairing, letting you turn the trip into a half-day outing rather than a single stop.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go
