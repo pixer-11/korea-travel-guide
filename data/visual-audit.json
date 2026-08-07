@@ -8176,5 +8176,12 @@
   "reason": "identity confirmed by source metadata (FSQ credit / Commons description) + human eye review; vision existing-bar KEEP — quarantine release 2026-08-07",
   "reasonKo": "출처 메타데이터와 사람 육안 검토로 신원 확인, 비전 existing 기준 유지 판정 — 2026-08-07 격리 해제",
   "at": "2026-08-07T07:26:35.495Z"
+ },
+ "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar\u0001https://fastly.4sqi.net/img/general/original/79410993_-rpdYHTJwzLLv68mxzxsk-z_zJSqQNoe1nKx3ipKjlc.jpg": {
+  "slug": "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar",
+  "verdict": "MATCH",
+  "reason": "photo pulled from the venue's own FSQ record (The Island Restaurant, 1m from post coordinates); signage THE ISLAND visible; human eye review — quarantine release 2026-08-07",
+  "reasonKo": "글 좌표 1m의 FSQ 본 업소 기록에서 수급, 간판 THE ISLAND 확인, 사람 육안 검토 — 2026-08-07 격리 해제",
+  "at": "2026-08-07T08:30:10.143Z"
  }
 }
