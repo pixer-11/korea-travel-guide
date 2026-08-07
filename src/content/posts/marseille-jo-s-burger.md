@@ -5,7 +5,6 @@ country: France
 region: Marseille
 category: restaurant
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - marseille
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: Should I check prices and hours before visiting?
     a: Yes — as a very recent opening, its hours and menu are still settling in, so confirm both directly (by phone or their official channels) on the day you plan to visit.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/11006650_2LSq4Ugw3QrdyKJVoUz6TPTawu1-uF67N61bgCFVDgw.jpg
+  credit: 'Photo: Foursquare user content (Le Bon Burger)'
+  license: foursquare
+  source: https://foursquare.com/v/53ebc587498e977c625a75dd
 ---
 
 ## Why go

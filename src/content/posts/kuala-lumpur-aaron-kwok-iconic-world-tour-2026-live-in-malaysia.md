@@ -1,59 +1,34 @@
 ---
-title: >-
-  Aaron Kwok ICONIC World Tour 2026 Live in Malaysia: What to Know (Kuala
-  Lumpur)
-description: >-
-  Aaron Kwok ICONIC World Tour 2026 Live in Malaysia in Kuala Lumpur, Malaysia —
-  September 12, 2026. What it is, when and where, and how to plan around it.
+title: 'Aaron Kwok ICONIC World Tour 2026 Live in Malaysia: What to Know (Kuala Lumpur)'
+description: Aaron Kwok ICONIC World Tour 2026 Live in Malaysia in Kuala Lumpur, Malaysia — September 12, 2026. What it is, when and where, and how to plan around it.
 country: Malaysia
 region: Kuala Lumpur
 category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-12'
 eventEndDate: '2026-09-12'
-gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: >-
-  Aaron Kwok brings his ICONIC World Tour to Unifi Arena, Bukit Jalil, Kuala
-  Lumpur on September 12, 2026, with a 200-member production crew following
-  sold-out stops in the US, Taiwan, Indonesia, and China. Buy tickets only
-  through the official promoter/ticketing partner once announced, and
-  double-check the exact date, doors time, and venue entrance before you head
-  out, since arena logistics and on-sale details can shift. Book Bukit Jalil
-  transport and hotel early — this is one of the biggest arena venues in KL and
-  Aaron Kwok's regional dates have historically sold out fast.
+quickAnswer: Aaron Kwok brings his ICONIC World Tour to Unifi Arena, Bukit Jalil, Kuala Lumpur on September 12, 2026, with a 200-member production crew following sold-out stops in the US, Taiwan, Indonesia, and China. Buy tickets only through the official promoter/ticketing partner once announced, and double-check the exact date, doors time, and venue entrance before you head out, since arena logistics and on-sale details can shift. Book Bukit Jalil transport and hotel early — this is one of the biggest arena venues in KL and Aaron Kwok's regional dates have historically sold out fast.
 faq:
   - q: Where exactly is the concert taking place?
-    a: >-
-      Unifi Arena, inside the Bukit Jalil National Sports Complex in southern
-      Kuala Lumpur — the same precinct as Bukit Jalil National Stadium and
-      Axiata Arena.
+    a: Unifi Arena, inside the Bukit Jalil National Sports Complex in southern Kuala Lumpur — the same precinct as Bukit Jalil National Stadium and Axiata Arena.
   - q: How do I get to Unifi Arena without a car?
-    a: >-
-      Take the LRT Kelana Jaya Line to Bukit Jalil station, then walk into the
-      sports complex. It's the route most locals use since parking and road
-      access get congested on big event nights.
+    a: Take the LRT Kelana Jaya Line to Bukit Jalil station, then walk into the sports complex. It's the route most locals use since parking and road access get congested on big event nights.
   - q: Where do I buy tickets?
-    a: >-
-      Buy only through the official tour promoter or Unifi Arena's official
-      ticketing partner once on-sale details are announced. Prices, doors time,
-      and seating tiers weren't public at the time of writing, so confirm these
-      directly before purchasing.
+    a: Buy only through the official tour promoter or Unifi Arena's official ticketing partner once on-sale details are announced. Prices, doors time, and seating tiers weren't public at the time of writing, so confirm these directly before purchasing.
   - q: Is this concert likely to sell out?
-    a: >-
-      The tour has sold out in the US, Taiwan, Indonesia, and China, so strong
-      demand in Kuala Lumpur is reasonable to expect. Don't wait long after
-      tickets go on sale if you want a specific seating category.
+    a: The tour has sold out in the US, Taiwan, Indonesia, and China, so strong demand in Kuala Lumpur is reasonable to expect. Don't wait long after tickets go on sale if you want a specific seating category.
   - q: What should I know before traveling to KL just for this show?
-    a: >-
-      Double-check the exact date, start time, and venue entrance closer to
-      September 2026, and book flights/hotels near Bukit Jalil or central KL
-      early given the venue's size and the tour's track record elsewhere.
+    a: Double-check the exact date, start time, and venue entrance closer to September 2026, and book flights/hotels near Bukit Jalil or central KL early given the venue's size and the tour's track record elsewhere.
 aiGenerated: true
-draft: true
 eventRecurring: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Aaron_Kwok%27s_concert_20111222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Mkckim / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Aaron_Kwok%27s_concert_20111222.jpg
 ---
 
 ## Why this show matters

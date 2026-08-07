@@ -5,7 +5,6 @@ country: Italy
 region: Milan
 category: trendy
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - milan
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: Is this a good spot for just drinks, or should I plan for a full dinner?
     a: The room is designed for lingering over both the grill menu and cocktails, so it works best as a full evening out rather than a quick drink stop — confirm hours and booking policy directly before you go.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/502352968_njTs29CK5JidGh00-YLX_V6IkLtv8qANKvwXSXnbaA8.jpg
+  credit: 'Photo: Foursquare user content (Yapa)'
+  license: foursquare
+  source: https://foursquare.com/v/61d5ee4ad174785dc3c5dd3d
 ---
 
 ## Why YAPA stands out

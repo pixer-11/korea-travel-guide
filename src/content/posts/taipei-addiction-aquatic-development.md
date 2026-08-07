@@ -6,10 +6,10 @@ region: Taipei
 category: restaurant
 pubDate: '2026-08-06T10:13:20.485Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Addiction_Aquatic_Development_Restaurant_Entry_Hall_%2872928531%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  credit: 'Photo: Oliver Propst / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Addiction_Aquatic_Development_Restaurant_Entry_Hall_(72928531).jpeg
+  url: https://fastly.4sqi.net/img/general/original/6400047_moki8Fk7EHLQzOjc53-GdMwq2ZZdk9WC1KaEkR7qW80.jpg
+  credit: 'Photo: Foursquare user content (Addiction Aquatic Development (上引水產))'
+  license: foursquare
+  source: https://foursquare.com/v/4f361cf6e4b0cc4ce20bac8a
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
     credit: 'Photo: Oliver Propst / Wikimedia Commons (CC BY-SA 3.0)'
@@ -67,7 +67,6 @@ faq:
   - q: How long should I plan to spend there?
     a: Most visits run 45 minutes to 1.5 hours, depending on how many stations you visit and whether you sit down for a full meal versus grazing standing up.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -5,7 +5,6 @@ country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - seoul
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: How should I pay, and is tipping expected?
     a: Card or mobile pay (Naver Pay, Kakao Pay) is standard at Seoul cafés, and tipping isn't customary anywhere in Korea, including here.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/51074758_Ve3oUi_L__tTbtFik2S3xSomnsLs9VC7d-gx_TUlvMk.jpg
+  credit: 'Photo: Foursquare user content (Mil Toast House (밀토스트))'
+  license: foursquare
+  source: https://foursquare.com/v/5b699aa8628c83002c8f495f
 ---
 
 ## Why everyone's talking about it

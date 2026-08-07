@@ -5,7 +5,6 @@ country: Spain
 region: Madrid
 category: restaurant
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - madrid
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: Is OSA walk-in friendly?
     a: Treat it as reservation-only in practice. Given its popularity, walking in without a booking is a real risk of being turned away, especially on weekend evenings.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/458846555_aXovBlIt50zbmzYo4Ip9N1_kjK3W7dbCeDSAynbrgL8.jpg
+  credit: 'Photo: Foursquare user content (Osa)'
+  license: foursquare
+  source: https://foursquare.com/v/63ff620734987a6a67d6b89a
 ---
 
 ## Why OSA matters right now

@@ -2378,13 +2378,6 @@
   "reasonKo": "발리 열대정원의 목재 산책로",
   "at": "2026-08-03T12:44:50.902Z"
  },
- "bali-this-is-bali-balinese-food-desserts\u0001https://fastly.4sqi.net/img/general/original/67748071_nlDpUKr2kAgvaFGWOiDtSiTzM663xVA9-maCRytwC3g.jpg": {
-  "slug": "bali-this-is-bali-balinese-food-desserts",
-  "verdict": "WEAK",
-  "reason": "Modern fusion restaurant, not traditional Balinese setting",
-  "reasonKo": "현대식 레스토랑, 전통 발리 분위기 부족",
-  "at": "2026-08-03T12:44:52.390Z"
- },
  "bandung-dago-dreampark\u0001https://fastly.4sqi.net/img/general/original/481329249_zgtOuRlRxUiPdbtm-poB4gioN2VWmSvbOU6LphiyzUQ.jpg": {
   "slug": "bandung-dago-dreampark",
   "verdict": "MATCH",
@@ -4156,13 +4149,6 @@
   "reasonKo": "특정 레스토랑 식별 불가",
   "at": "2026-08-03T14:36:04.773Z"
  },
- "rome-luna\u0001https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg": {
-  "slug": "rome-luna",
-  "verdict": "WEAK",
-  "reason": "Generic breakfast spread, could be anywhere",
-  "reasonKo": "어디서나 볼 수 있는 일반적인 아침식사",
-  "at": "2026-08-03T14:36:07.465Z"
- },
  "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": {
   "slug": "rome-roman-forum",
   "verdict": "MATCH",
@@ -4520,13 +4506,6 @@
   "reasonKo": "라우파삿의 상징적인 빅토리아 양식 건축물",
   "at": "2026-08-03T14:38:51.549Z"
  },
- "singapore-milli\u0001https://fastly.4sqi.net/img/general/original/2846870_KUhZlbZqM1Qllm8uz_Mxvrnfhh_aayFPdaICKQ_gYJQ.jpg": {
-  "slug": "singapore-milli",
-  "verdict": "WEAK",
-  "reason": "Nightlife setting, but generic venue interior",
-  "reasonKo": "야간 유흥 공간이나 특정 장소 미확인",
-  "at": "2026-08-03T14:38:54.292Z"
- },
  "singapore-singapore-flyer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg/1920px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg": {
   "slug": "singapore-singapore-flyer",
   "verdict": "MATCH",
@@ -4701,13 +4680,6 @@
   "reason": "Sensō-ji temple main hall with characteristic architecture",
   "reasonKo": "센소지 본전당의 특징적인 건축",
   "at": "2026-08-03T14:40:38.844Z"
- },
- "tokyo-smith-wollensky\u0001https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg": {
-  "slug": "tokyo-smith-wollensky",
-  "verdict": "WEAK",
-  "reason": "Storefront signage only, no venue interior/food shown",
-  "reasonKo": "간판만 보임, 내부/음식 미표시",
-  "at": "2026-08-03T14:40:41.049Z"
  },
  "tokyo-tokyo-ramen-street\u0001https://fastly.4sqi.net/img/general/original/27653413_qDuJkjhUEm7GXxcwFn9E-J7L-k2p6R2WbX64esqSvlY.jpg": {
   "slug": "tokyo-tokyo-ramen-street",
@@ -4960,13 +4932,6 @@
   "reason": "Interior shows art/posters, not restaurant dining space",
   "reasonKo": "식당이 아닌 갤러리/사무실 공간",
   "at": "2026-08-04T11:57:26.817Z"
- },
- "chiang-rai-khao-soi-restaurant\u0001https://fastly.4sqi.net/img/general/original/41366177_IEUfvo8n0H-gRSCr-bNlkQjLXNrEGobw7ck8QWIf9io.jpg": {
-  "slug": "chiang-rai-khao-soi-restaurant",
-  "verdict": "WEAK",
-  "reason": "Modern mall food court, not traditional Khao Soi restaurant",
-  "reasonKo": "전통 카오소이 식당이 아닌 현대식 푸드코트",
-  "at": "2026-08-04T11:57:29.362Z"
  },
  "gangneung-arte-museum-valley-gangneung\u0001https://fastly.4sqi.net/img/general/original/47266786_TBmnkjZi3wCbwm3VjeEMZGybmMExJAcGoT19xX8K6bg.jpg": {
   "slug": "gangneung-arte-museum-valley-gangneung",
@@ -6308,13 +6273,6 @@
   "reason": "Philippine Eagle at center, native habitat setting",
   "reasonKo": "필리핀독수리, 센터의 자연 서식지",
   "at": "2026-08-03T12:47:23.826Z",
-  "migratedFrom": "width-normalised URL"
- },
- "dubai-al-fahidi-historical-neighbourhood\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg/1920px-Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "dubai-al-fahidi-historical-neighbourhood",
-  "verdict": "WEAK",
-  "reason": "Dubai architecture shown, but plane dominates composition",
-  "at": "2026-07-25T02:42:31.701Z",
   "migratedFrom": "width-normalised URL"
  },
  "florence-cathedral-of-santa-maria-del-fiore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/1920px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -8009,13 +7967,6 @@
   "reasonKo": "방콕 살라댕 지역의 야간 거리 풍경",
   "at": "2026-08-06T03:07:32.841Z"
  },
- "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "bangkok-the-grand-palace",
-  "verdict": "MATCH",
-  "reason": "Thai temple architecture at sunset, Bangkok setting",
-  "reasonKo": "방콕 사찰 건축, 석양 배경",
-  "at": "2026-08-06T03:07:34.996Z"
- },
  "chicago-field-museum\u0001https://fastly.4sqi.net/img/general/original/126977955_fYP6TSgpbmLTau09Wcn3n2KnbPmF4pV_LMm9zioZLP8.jpg": {
   "slug": "chicago-field-museum",
   "verdict": "MATCH",
@@ -8023,33 +7974,12 @@
   "reasonKo": "필드박물관 디오라마: 자연 서식지의 표범",
   "at": "2026-08-06T03:07:37.397Z"
  },
- "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
-  "slug": "chinatown-my-awesome-cafe",
-  "verdict": "WEAK",
-  "reason": "Generic beverage photo, no venue context visible",
-  "reasonKo": "카페 음료만 있고 공간감 없음",
-  "at": "2026-08-06T03:07:40.353Z"
- },
  "gardena-nam-kitchen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
   "slug": "gardena-nam-kitchen",
   "verdict": "MATCH",
   "reason": "Asian kitchen interior, authentic food preparation setup",
   "reasonKo": "아시안 주방, 진정한 음식 준비 환경",
   "at": "2026-08-06T03:07:43.757Z"
- },
- "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
-  "slug": "guangzhou-huacheng-square",
-  "verdict": "MATCH",
-  "reason": "Modern tall building in Guangzhou nighttime setting",
-  "reasonKo": "광저우의 현대식 고층건물 야경",
-  "at": "2026-08-06T03:07:45.767Z"
- },
- "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
-  "slug": "jakarta-social-house-grand-indonesia",
-  "verdict": "MATCH",
-  "reason": "Social House branding visible, food and beverages shown",
-  "reasonKo": "소셜하우스 브랜딩 확인, 음식과 음료 표시",
-  "at": "2026-08-06T03:07:47.769Z"
  },
  "los-angeles-the-getty\u0001https://fastly.4sqi.net/img/general/original/103792_3PGEB095N7hM3VkwA6efLupYN4hi81YuvxwUvyPMEzA.jpg": {
   "slug": "los-angeles-the-getty",
@@ -8065,33 +7995,12 @@
   "reasonKo": "붉은 벽돌 건물, 정원, 분수",
   "at": "2026-08-06T03:07:51.826Z"
  },
- "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
-  "slug": "new-orleans-french-quarter",
-  "verdict": "MATCH",
-  "reason": "Ornate archway with festive lights, French Quarter aesthetic",
-  "reasonKo": "화려한 아치, 축제 조명, 뉴올리언스 프렌치쿼터 분위기",
-  "at": "2026-08-06T03:07:54.797Z"
- },
  "new-york-american-museum-of-natural-history\u0001https://fastly.4sqi.net/img/general/original/546370299_Ec783oQyoLWWHiKpGtIPjZOnxl30CULykMoY9V4t2xw.jpg": {
   "slug": "new-york-american-museum-of-natural-history",
   "verdict": "MATCH",
   "reason": "Dinosaur skeleton in museum interior, NYC AMNH",
   "reasonKo": "박물관 내부 공룡 골격 전시",
   "at": "2026-08-06T03:07:56.842Z"
- },
- "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
-  "slug": "surabaya-black-owl-surabaya",
-  "verdict": "MATCH",
-  "reason": "Upscale cocktail bar setup, atmospheric lighting, elegant gl",
-  "reasonKo": "고급 칼럼바 음료, 세련된 분위기",
-  "at": "2026-08-06T03:07:58.983Z"
- },
- "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-  "slug": "tainan-anping-old-street",
-  "verdict": "MATCH",
-  "reason": "Historic building with ivy, Anping Old Street architecture",
-  "reasonKo": "안평 올드스트리트의 역사적 건축물",
-  "at": "2026-08-06T03:08:01.250Z"
  },
  "taipei-urban-paradise\u0001https://images.unsplash.com/photo-1508248467877-aec1b08de376?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8VGFpcGVpJTIwVGFpd2FufGVufDB8MHx8fDE3ODU5NjgzMzJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "taipei-urban-paradise",

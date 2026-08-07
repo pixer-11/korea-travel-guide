@@ -5,7 +5,6 @@ country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - taipei
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: Is this the only location?
     a: The original is in Taipei, and it's popular enough to have recently opened its first overseas branch in Hong Kong — a sign of how far its reputation has traveled since 2022.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/851452_8YNGsmlOfE5kJODZGnQNW-cavIWeXDC0Tr-ikfulKws.jpg
+  credit: 'Photo: Foursquare user content (Mr. Papa Waffle & Café)'
+  license: foursquare
+  source: https://foursquare.com/v/5298908211d21080a57f957e
 ---
 
 ## Why this waffle stall has Taipei talking

@@ -5,7 +5,6 @@ country: India
 region: Delhi
 category: restaurant
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - delhi
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: Can I combine a visit with sightseeing?
     a: Yes — Humayun's Tomb and the Nizamuddin Dargah are both within walking distance, making it easy to pair a meal with a few hours of monument visits.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/4545393_jUSEayQ0EXR3H9FbdIQsPoZyfvNzR628MUkr5k-ge1g.jpg
+  credit: 'Photo: Foursquare user content (Nisaba)'
+  license: foursquare
+  source: https://foursquare.com/v/6994818d60511261fc7490e8
 ---
 
 You feel the shift before you even reach the door. The traffic noise of Mathura Road falls away behind you, the air cools under the canopy of Sunder Nursery's old trees, and somewhere past the manicured lawns and Mughal-era tombs, a modern restaurant has quietly slipped into one of Delhi's most unlikely settings. This is NISABA — the first restaurant chef Manish Mehrotra has opened under his own name after two decades of shaping the menu at Indian Accent, one of the most decorated restaurants in the country. That pedigree alone would draw crowds, but the setting is what makes the visit feel different from anything else on Delhi's dining map right now.

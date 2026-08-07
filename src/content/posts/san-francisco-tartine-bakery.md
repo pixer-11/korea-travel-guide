@@ -6,10 +6,10 @@ region: San Francisco
 category: trendy
 pubDate: '2026-08-06T10:10:08.584Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Tartine_bakery_exterior_in_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  credit: 'Photo: Carl Collins from Brooklyn, NY, USA / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tartine_bakery_exterior_in_2006.jpg
+  url: https://fastly.4sqi.net/img/general/original/553514599_3sQgxFOcs6UL4_YKQvvg5zdF5Y32Ax4UgpXJAL3liQA.jpg
+  credit: 'Photo: Foursquare user content (Tartine Bakery)'
+  license: foursquare
+  source: https://foursquare.com/v/42814b00f964a52002221fe3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/6/62/Tartine_bakery_interior_in_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
     credit: 'Photo: kennejima / Wikimedia Commons (CC BY 2.0)'
@@ -69,7 +69,6 @@ faq:
   - q: Is there seating, and should I plan to stay?
     a: There are a handful of tables, but they fill quickly, especially on weekends. Most visitors grab their order to go and eat nearby, such as at Dolores Park a few minutes' walk away.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

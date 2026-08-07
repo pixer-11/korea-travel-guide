@@ -5,7 +5,6 @@ country: Italy
 region: Rome
 category: trendy
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - rome
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: What else is nearby to combine with a visit?
     a: The Capitoline Museums, Piazza del Campidoglio, the Roman Forum, and the Colosseum are all a short walk away, as are the historic trattorias and sights of the Jewish Ghetto along Via del Portico d'Ottavia.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/512204999_L0djcXpkb8dA_C3YYjqlGJsMrs-gf6VB8q-8YaKSupU.jpg
+  credit: 'Photo: Foursquare user content (Tribuna Campitelli)'
+  license: foursquare
+  source: https://foursquare.com/v/6a17c08ebdccd1722135dfc6
 ---
 
 ## Why it's worth the walk

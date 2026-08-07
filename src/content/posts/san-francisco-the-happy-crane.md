@@ -5,7 +5,6 @@ country: United States
 region: San Francisco
 category: trendy
 pubDate: '2026-08-05'
-gallery: []
 tags:
   - san francisco
   - new & trending
@@ -22,7 +21,11 @@ faq:
   - q: Should I confirm hours before going?
     a: Yes — as a newly buzzed-about opening, hours and booking policy can shift quickly, so check the restaurant's official site or reservation platform the same week you plan to visit.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/240315_N497EqrAslwkJwcQ4IpuOL2G_2k7u48KLWayFI-sDks.jpg
+  credit: 'Photo: Foursquare user content (The Happy Crane)'
+  license: foursquare
+  source: https://foursquare.com/v/68858aba6c4d91326d51d5b7
 ---
 
 ## Why Hayes Valley, why now

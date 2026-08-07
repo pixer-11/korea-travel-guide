@@ -6,11 +6,10 @@ region: Taipei
 category: trendy
 pubDate: '2026-08-05'
 heroImage:
-  url: https://images.unsplash.com/photo-1508248467877-aec1b08de376?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NHx8VGFpcGVpJTIwVGFpd2FufGVufDB8MHx8fDE3ODU5NjgzMzJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Rovin Ferrer on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@ferrer_rovin?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/222946688_iLLZka6kkcQoy6-XEfcRDsVI0k9g7RbKYZvI9U9xkB0.jpg
+  credit: 'Photo: Foursquare user content (Urban Paradise 信義店)'
+  license: foursquare
+  source: https://foursquare.com/v/6885d795e8e6f0471fcefb8c
 tags:
   - taipei
   - new & trending
