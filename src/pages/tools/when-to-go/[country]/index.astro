@@ -1,0 +1,18 @@
+---
+import WhenToGoCountry from '../../../../components/WhenToGoCountry.astro';
+import { whenToGoCountryPages } from '../../../../lib/when-to-go-paths.mjs';
+
+// /tools/when-to-go/japan — the parent the twelve month pages never had. It
+// returned 404 until 2026-08-07, so a reader (or a crawler) truncating a month
+// URL landed on nothing, and 1,020 pages hung off the single global index.
+export async function getStaticPaths() {
+  return (await whenToGoCountryPages()).map(({ countrySlug, months }) => ({
+    params: { country: countrySlug },
+    props: { countrySlug, months },
+  }));
+}
+
+const { countrySlug, months } = Astro.props;
+---
+
+<WhenToGoCountry countrySlug={countrySlug} months={months} lang="en" />

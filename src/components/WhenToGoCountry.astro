@@ -1,0 +1,193 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import PlanTrip from './PlanTrip.astro';
+import Newsletter from './Newsletter.astro';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { formatHourRanges } from '../lib/hours.mjs';
+import { loadCardTranslations, cardHelpers } from '../i18n/cards';
+import { monthSlug } from '../lib/when-to-go.mjs';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+
+// The country page for the when-to-go tool, and the parent the twelve month
+// pages never had — /tools/when-to-go/<country>/ returned 404 until now, so
+// 1,020 URLs hung off one global index.
+//
+// It exists to hold what belongs to the COUNTRY rather than to a month. The
+// twelve-month climate table, the quiet-times list and the venue grid were
+// rendered on every single month page, which made them 72–86% identical to
+// each other: measured across all 17 countries, 81–86% of a month page's text
+// was present on its eleven siblings. That is 18% of the site behaving like a
+// doorway set, and it is the largest single duplication on the domain.
+interface Props { countrySlug: string; months: any[]; lang: Lang }
+const { countrySlug, months, lang } = Astro.props;
+const t = useTranslations(lang);
+const tr = await loadCardTranslations(lang);
+const card = cardHelpers(tr, lang);
+
+const first = months[0].data;
+const countryLabel = localizePlace(first.country, lang);
+const monthName = (m: number) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'long' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const monthShort = (m: number) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'short' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+
+const fill = (key: string, vars: Record<string, string | number> = { country: countryLabel }) =>
+  Object.entries(vars).reduce((s, [k, v]) => s.replaceAll(`{${k}}`, String(v)), t(key as any));
+
+const toolPath = (m: number) => localizePath(`/tools/when-to-go/${countrySlug}/${monthSlug(m)}`, lang);
+
+// "Easiest months" is the question the tool is actually for, and it is answered
+// from the same climate normals the table shows — no new data, no invention.
+// Comfort = how far the month's high sits from a mild 24°C, plus its share of
+// the year's rain. Ranked, then cut at three so it stays a recommendation.
+const comfort = (c: any) => Math.abs(c.hi - 24) + (c.rain / Math.max(1, first.climate.reduce((s: number, x: any) => s + x.rain, 0))) * 100;
+const easiest = [...first.climate].sort((a, b) => comfort(a) - comfort(b)).slice(0, 3);
+
+const quietFor = (p: any) => {
+  const bz = p?.data?.place?.busyness;
+  if (!bz) return null;
+  const labels = { am: t('post.am'), pm: t('post.pm') };
+  return formatHourRanges(bz.weekdayQuiet, labels) || formatHourRanges(bz.weekendQuiet, labels);
+};
+
+const quietVenues = first.quietVenues ?? [];
+const topVenues = (first.topVenues ?? []).filter((p: any) => !quietVenues.some((q: any) => q.id === p.id));
+
+const metaTitle = fill('wtg.countryTitle');
+const metaDesc = fill('wtg.countryDek');
+const ogPhoto = pickOgPhoto([...topVenues, ...quietVenues]);
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebPage', name: metaTitle, description: metaDesc, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('wtg.indexTitle'), item: new URL(localizePath('/tools/when-to-go', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 3, name: countryLabel, item: pageUrl },
+    ] },
+  ],
+};
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} image={ogPhoto} jsonLd={jsonLd} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow gold">{t('wtg.indexTitle')}</p>
+      <h1>{fill('wtg.countryTitle')}</h1>
+      <p>{fill('wtg.countryDek')}</p>
+    </div>
+  </div>
+
+  <article class="wtg wrap">
+    <section class="wtg-best">
+      <h2>{t('wtg.bestMonths')}</h2>
+      <p class="section-dek">{t('wtg.bestMonthsDek')}</p>
+      <ul class="wtg-list">
+        {easiest.map((c: any) => (
+          <li>
+            <span class="wtg-date"><a href={toolPath(c.m)}>{monthName(c.m)}</a></span>
+            <span>{c.hi}° / {c.lo}° · {c.rain}mm</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="wtg-year">
+      <h2>{t('wtg.yearTable')}</h2>
+      <div class="wtg-table-wrap">
+        <table>
+          <thead>
+            <tr><th>{t('wtg.month')}</th><th>{t('wtg.high')}</th><th>{t('wtg.low')}</th><th>{t('wtg.rain')}</th></tr>
+          </thead>
+          <tbody>
+            {first.climate.map((c: any) => (
+              <tr>
+                <td><a href={toolPath(c.m)}>{monthShort(c.m)}</a></td>
+                <td>{c.hi}°</td><td>{c.lo}°</td><td>{c.rain}mm</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    {quietVenues.length > 0 && (
+      <section class="wtg-quiet">
+        <h2>{t('wtg.quiet')}</h2>
+        <p class="section-dek">{t('wtg.quietDek')}</p>
+        <ul class="wtg-quietlist">
+          {quietVenues.map((p: any) => (
+            <li>
+              <a href={card.href(p.id, true)}>{card.title(p.id, p.data.place?.name ?? p.data.title).split(/[:—]/)[0].trim()}</a>
+              <span class="wtg-q-region">{localizePlace(p.data.region, lang)}</span>
+              {quietFor(p) && <span class="wtg-q-hours">{quietFor(p)}</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {topVenues.length > 0 && (
+      <section class="wtg-places">
+        <h2>{fill('wtg.places')}</h2>
+        <div class="grid">
+          {topVenues.map((p: any) => (
+            <PostCard
+              href={card.href(p.id, true)}
+              title={card.title(p.id, p.data.place?.name ?? p.data.title)}
+              description={card.desc(p.id, p.data.description)}
+              region={p.data.region}
+              category={p.data.category}
+              image={p.data.heroImage?.url}
+            />
+          ))}
+        </div>
+        <p class="wtg-all">
+          <a href={localizePath(`/destinations/${countrySlug}`, lang)}>{fill('ess.allGuides')} →</a>
+        </p>
+      </section>
+    )}
+
+    <nav class="wtg-months" aria-label={t('wtg.pickMonth')}>
+      <h2>{t('wtg.pickMonth')}</h2>
+      <ul>
+        {months.map((m: any) => <li><a href={toolPath(m.data.month)}>{monthName(m.data.month)}</a></li>)}
+      </ul>
+      <p class="wtg-all"><a href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a></p>
+    </nav>
+
+    <PlanTrip city="" country={first.country} />
+
+    <p class="disclosure">{fill('wtg.source', {
+      city: localizePlace(first.climateCity ?? first.country, lang),
+      years: first.climateYears ?? 10,
+    })}</p>
+  </article>
+
+  <Newsletter lang={lang} />
+</BaseLayout>
+
+<style>
+  .wtg { padding-block: clamp(1.5rem, 4vh, 3rem); }
+  .wtg section { margin-bottom: clamp(2rem, 5vh, 3.5rem); }
+  .wtg h2 { font-size: clamp(1.2rem, 2.4vw, 1.5rem); margin: 0 0 0.4rem; }
+  .wtg .section-dek { color: var(--ink-soft); margin: 0 0 1rem; max-width: 62ch; }
+  .wtg-table-wrap { overflow-x: auto; }
+  .wtg table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  .wtg th, .wtg td { padding: 0.5rem 0.7rem; text-align: left; border-bottom: 1px solid var(--line-soft); }
+  .wtg thead th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+  .wtg-list { list-style: none; padding: 0; margin: 0; }
+  .wtg-list li { display: flex; gap: 0.75rem; padding: 0.45rem 0; border-bottom: 1px solid var(--line-soft); }
+  .wtg-date { min-width: 8rem; font-weight: 600; }
+  .wtg-quietlist { list-style: none; padding: 0; margin: 0; }
+  .wtg-quietlist li { display: flex; flex-wrap: wrap; gap: 0.5rem 0.9rem; padding: 0.5rem 0; border-bottom: 1px solid var(--line-soft); }
+  .wtg-q-region, .wtg-q-hours { color: var(--muted); font-size: 0.88rem; }
+  .wtg-months ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
+  .wtg-all { margin-top: 1rem; }
+  .disclosure { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; line-height: 1.6; }
+</style>

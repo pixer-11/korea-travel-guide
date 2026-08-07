@@ -1,0 +1,22 @@
+---
+import WhenToGoCountry from '../../../../../components/WhenToGoCountry.astro';
+import { whenToGoCountryPages } from '../../../../../lib/when-to-go-paths.mjs';
+import type { Lang } from '../../../../../i18n/utils';
+
+// Localized twins of /tools/when-to-go/<country>. Same builder as the English
+// route, so the two sets can never disagree about which countries exist.
+export async function getStaticPaths() {
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  const countries = await whenToGoCountryPages();
+  return LANGS.flatMap((lang) =>
+    countries.map(({ countrySlug, months }) => ({
+      params: { lang, country: countrySlug },
+      props: { countrySlug, months, lang },
+    }))
+  );
+}
+
+const { countrySlug, months, lang } = Astro.props;
+---
+
+<WhenToGoCountry countrySlug={countrySlug} months={months} lang={lang} />

@@ -1,14 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostCard from './PostCard.astro';
 import PlanTrip from './PlanTrip.astro';
 import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeEvent } from '../i18n/events';
 import { holidayLabel } from '../i18n/holidays';
-import { formatHourRanges } from '../lib/hours.mjs';
-import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { MONTHS, monthSlug } from '../lib/when-to-go.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 
@@ -18,8 +15,6 @@ import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 interface Props { data: any; lang: Lang; countrySlug: string }
 const { data, lang, countrySlug } = Astro.props;
 const t = useTranslations(lang);
-const tr = await loadCardTranslations(lang);
-const card = cardHelpers(tr, lang);
 
 const countryLabel = localizePlace(data.country, lang);
 const monthName = (m: number) =>
@@ -54,16 +49,6 @@ const rainLine = data.wettest
   : data.driest
   ? t('wtg.driest')
   : fill('wtg.rainRank', { rank: ordinal(data.rainRank), share: data.rainShare });
-
-// The section is headlined "verified quiet times" and was rendering plain venue
-// cards — the one dataset no competing travel site holds, promised and then not
-// shown. Same formatter the venue pages use.
-const quietFor = (p: any) => {
-  const bz = p?.data?.place?.busyness;
-  if (!bz) return null;
-  const labels = { am: t('post.am'), pm: t('post.pm') };
-  return formatHourRanges(bz.weekdayQuiet, labels) || formatHourRanges(bz.weekendQuiet, labels);
-};
 
 const holidayDate = (iso: string) =>
   new Intl.DateTimeFormat(localeCodes[lang], { month: 'long', day: 'numeric', timeZone: 'UTC' })
@@ -138,32 +123,21 @@ const ogPhoto = pickOgPhoto(data.topVenues);
       <p class="wtg-read">{heatLine} {rainLine}</p>
     </section>
 
-    {/* The whole year in one table: the comparison the reader is actually making
-        when they ask whether this month is the right one. */}
-    <section class="wtg-year">
-      <h2>{t('wtg.yearTable')}</h2>
-      <div class="wtg-table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>{t('wtg.month')}</th><th>{t('wtg.high')}</th><th>{t('wtg.low')}</th><th>{t('wtg.rain')}</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data.climate.map((c: any) => (
-              <tr class={c.m === data.month ? 'is-current' : undefined}>
-                <td>
-                  {c.m === data.month ? monthShort(c.m) : (
-                    <a href={toolPath(countrySlug, c.m)}>{monthShort(c.m)}</a>
-                  )}
-                </td>
-                <td>{c.hi}°</td><td>{c.lo}°</td><td>{c.rain}mm</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    </section>
+    {/* The twelve-month table, the quiet-times list and the venue grid used to
+        be rendered HERE, on every one of the twelve month pages. Measured over
+        all 17 countries, that made a month page 72–86% identical to each of its
+        eleven siblings — 1,020 URLs, 18% of the site, behaving like a doorway
+        set, and the largest single duplication on the domain.
+
+        They describe the COUNTRY, not the month, so they now live on
+        /tools/when-to-go/<country>/ and this page links to it. What is left
+        here is what is actually about this month: its weather, its public
+        holidays, and what is on. */}
+    <p class="wtg-parent">
+      <a href={localizePath(`/tools/when-to-go/${countrySlug}`, lang)}>
+        {fill('wtg.countryTitle', { country: countryLabel })} →
+      </a>
+    </p>
 
     <section class="wtg-hol">
       <h2>{fill('wtg.holidays', { month: thisMonth })}</h2>
@@ -192,45 +166,6 @@ const ogPhoto = pickOgPhoto(data.topVenues);
             <li><span>{localizeEvent(e.name, lang)}</span>{e.region && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
           ))}
         </ul>
-      </section>
-    )}
-
-    {data.quietVenues.length > 0 && (
-      <section class="wtg-quiet">
-        <h2>{t('wtg.quiet')}</h2>
-        <p class="section-dek">{t('wtg.quietDek')}</p>
-        <ul class="wtg-quietlist">
-          {data.quietVenues.map((p: any) => (
-            <li>
-              <a href={card.href(p.id, true)}>{card.title(p.id, p.data.place?.name ?? p.data.title).split(/[:—]/)[0].trim()}</a>
-              <span class="wtg-q-region">{localizePlace(p.data.region, lang)}</span>
-              {quietFor(p) && <span class="wtg-q-hours">{quietFor(p)}</span>}
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
-
-    {data.topVenues.length > 0 && (
-      <section class="wtg-places">
-        <h2>{fill('wtg.places', { country: countryLabel })}</h2>
-        <div class="grid">
-          {data.topVenues.filter((p: any) => !data.quietVenues.some((q: any) => q.id === p.id)).map((p: any) => (
-            <PostCard
-              href={card.href(p.id, true)}
-              title={card.title(p.id, p.data.place?.name ?? p.data.title)}
-              description={card.desc(p.id, p.data.description)}
-              region={p.data.region}
-              category={p.data.category}
-              image={p.data.heroImage?.url}
-            />
-          ))}
-        </div>
-        <p class="wtg-all">
-          <a href={localizePath(`/destinations/${countrySlug}`, lang)}>
-            {fill('ess.allGuides', { country: countryLabel })} →
-          </a>
-        </p>
       </section>
     )}
 

@@ -39,3 +39,30 @@ export async function whenToGoCountries() {
     }))
     .sort((a, b) => b.venues - a.venues || a.country.localeCompare(b.country));
 }
+
+/**
+ * One entry per country, carrying all twelve of its month records.
+ *
+ * The country page exists because the month pages were 72–86% identical to each
+ * other: the twelve-month climate table, the quiet-times list and the venue grid
+ * were rendered on every one of them, so 1,020 URLs — 18% of the site — behaved
+ * like a doorway set. Those three blocks describe the COUNTRY. They belong on
+ * one page that the twelve link to, and the month pages keep what is actually
+ * about their month.
+ *
+ * /tools/when-to-go/<country>/ also 404'd until now, which left 1,020 pages
+ * hanging off the single global index with no parent between them.
+ */
+export async function whenToGoCountryPages() {
+  const byCountry = new Map();
+  for (const page of await whenToGoPages()) {
+    const list = byCountry.get(page.countrySlug) ?? [];
+    list.push(page);
+    byCountry.set(page.countrySlug, list);
+  }
+  return [...byCountry].map(([countrySlug, pages]) => ({
+    countrySlug,
+    // Month order, not whatever the map happened to collect.
+    months: pages.sort((a, b) => a.data.month - b.data.month),
+  }));
+}
