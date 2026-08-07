@@ -1,69 +1,76 @@
 ---
 title: "Villa Rufolo: Amalfi Coast Travel Guide (4.6★)"
-description: "Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. 4.6★ (20,659 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Amalfi Coast"
-category: "attraction"
+description: Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. 4.6★ (20,659 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Amalfi Coast
+category: attraction
 pubDate: "2026-08-05T11:08:54.620Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: "Photo: Istvánka / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/97/Villa_Rufolo_Ravello_31.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  - url: https://upload.wikimedia.org/wikipedia/commons/9/97/Villa_Rufolo_Ravello_31.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
     credit: "Photo: Mentnafunangann / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Villa_Rufolo_Ravello_31.JPG"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Villa_Rufolo_Ravello_31.JPG
 place:
-  id: "ChIJb8673Z-VOxMR3IhhgAAESjk"
-  name: "Villa Rufolo"
-  address: "Piazza Duomo, 84010 Ravello SA, Italy"
+  id: ChIJb8673Z-VOxMR3IhhgAAESjk
+  name: Villa Rufolo
+  address: Piazza Duomo, 84010 Ravello SA, Italy
   rating: 4.6
   userRatingsTotal: 20659
-  googleMapsUrl: "https://maps.google.com/?cid=4128116408638867676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4128116408638867676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.6490143
   lng: 14.612004200000001
   busyness:
-    updated: 2026-08-05
-    weekdayQuiet: [9, 10, 18, 19]
+    updated: 2026-08-05T00:00:00.000Z
+    weekdayQuiet:
+      - 9
+      - 10
+      - 18
+      - 19
     weekdayBusy:
       - 13
       - 14
       - 15
-    weekendQuiet: [9, 10, 19]
+    weekendQuiet:
+      - 9
+      - 10
+      - 19
     weekendBusy:
       - 12
       - 13
       - 14
       - 15
       - 16
-    venueId: "ven_6b6a534541416768684933524d784f562d5a33373638624a496843"
-  phone: '+39 089 857621'
+    venueId: ven_6b6a534541416768684933524d784f562d5a33373638624a496843
+  phone: +39 089 857621
   openingHours:
-    - 'Monday: 9:00 AM – 8:00 PM'
-    - 'Tuesday: 9:00 AM – 8:00 PM'
-    - 'Wednesday: 9:00 AM – 8:00 PM'
-    - 'Thursday: 9:00 AM – 8:00 PM'
-    - 'Friday: 9:00 AM – 8:00 PM'
-    - 'Saturday: 9:00 AM – 8:00 PM'
-    - 'Sunday: 9:00 AM – 8:00 PM'
+    - "Monday: 9:00 AM – 8:00 PM"
+    - "Tuesday: 9:00 AM – 8:00 PM"
+    - "Wednesday: 9:00 AM – 8:00 PM"
+    - "Thursday: 9:00 AM – 8:00 PM"
+    - "Friday: 9:00 AM – 8:00 PM"
+    - "Saturday: 9:00 AM – 8:00 PM"
+    - "Sunday: 9:00 AM – 8:00 PM"
 tags:
-  - "amalfi coast"
-  - "museum"
-quickAnswer: "Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. Set aside 45–60 minutes to wander the towers, cloister and belvedere. Crowds thin out before 9am and stay lighter into early morning and evening; weekends between noon and 5pm are the busiest stretch, so aim either side of that window."
+  - amalfi coast
+  - museum
+quickAnswer: Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. Set aside 45–60 minutes to wander the towers, cloister and belvedere. Crowds thin out before 9am and stay lighter into early morning and evening; weekends between noon and 5pm are the busiest stretch, so aim either side of that window.
 faq:
-  - q: "How long should I spend at Villa Rufolo?"
-    a: "Most visitors need 45 minutes to an hour to walk the cloister, tower and terraced gardens down to the belvedere overlook."
-  - q: "When is the quietest time to visit?"
-    a: "Both on weekdays and weekends, the calmer hours run from 9am to 9pm generally; the sharpest crowding hits on weekends between 12pm and 5pm, so book either side of that if you can."
-  - q: "How do I get to Villa Rufolo without a car?"
-    a: "Take a SITA bus or taxi up to Ravello from Amalfi or Minori (about 25–30 minutes); the villa entrance is right on Piazza Duomo beside Ravello's cathedral."
-  - q: "Is Villa Rufolo worth combining with anything else in Ravello?"
-    a: "Yes — Villa Cimbrone and its famous Terrace of Infinity is roughly a 15-minute walk away, making for a natural half-day pairing."
-  - q: "What's the best season to visit?"
-    a: "Spring through early summer for the gardens in bloom, and June to September if you want to catch a Ravello Festival concert staged on the belvedere."
+  - q: How long should I spend at Villa Rufolo?
+    a: Most visitors need 45 minutes to an hour to walk the cloister, tower and terraced gardens down to the belvedere overlook.
+  - q: When is the quietest time to visit?
+    a: Both on weekdays and weekends, the calmer hours run from 9am to 8pm generally; the sharpest crowding hits on weekends between 12pm and 5pm, so book either side of that if you can.
+  - q: How do I get to Villa Rufolo without a car?
+    a: Take a SITA bus or taxi up to Ravello from Amalfi or Minori (about 25–30 minutes); the villa entrance is right on Piazza Duomo beside Ravello's cathedral.
+  - q: Is Villa Rufolo worth combining with anything else in Ravello?
+    a: Yes — Villa Cimbrone and its famous Terrace of Infinity is roughly a 15-minute walk away, making for a natural half-day pairing.
+  - q: What's the best season to visit?
+    a: Spring through early summer for the gardens in bloom, and June to September if you want to catch a Ravello Festival concert staged on the belvedere.
 aiGenerated: true
 draft: false
 ---
@@ -94,7 +101,7 @@ However you arrive, Villa Rufolo's entrance faces directly onto the piazza, next
 
 ## When to go
 
-Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view — worth timing a visit around if you can get tickets. Based on measured visitor patterns, the calmest hours to walk the gardens are between 9am and 9pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse.
+Spring and early summer bring the gardens into full bloom, and the Ravello Festival (roughly June through September) turns the belvedere into a concert stage with orchestras performing against the sea view — worth timing a visit around if you can get tickets. Based on measured visitor patterns, the calmest hours to walk the gardens are between 9am and 8pm, both on weekdays and weekends, while the crush really builds on weekends between noon and 5pm, when day-trippers from Amalfi and Positano arrive en masse.
 
 If you're coming on a Saturday or Sunday, get there before noon or wait until after 5pm for a far more relaxed pace through the cloister and terraces.
 
