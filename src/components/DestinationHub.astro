@@ -11,6 +11,7 @@ import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { klookCityDest } from '../lib/klookCities';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import esimFacts from '../../data/esim-facts.json';
@@ -79,7 +80,7 @@ const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
 const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);
 const leadCity = (country.regions ?? [])[0] ?? country.name;
-const klookCountry = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${leadCity}`)}`;
+const klookCountry = `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang)))}`;
 const hotelCountry = `https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(country.name)}`;
 
 const jsonLd = {

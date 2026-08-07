@@ -18,6 +18,7 @@ import { slugifyRegion } from '../lib/slug';
 import { thumbOr } from '../lib/wall';
 import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { klookCityDest } from '../lib/klookCities';
 import { closedDaysOf } from '../lib/itinerary.mjs';
 
 interface Props {
@@ -186,8 +187,9 @@ function dayRouteUrl(posts: any[]): string | null {
   return `https://www.google.com/maps/dir/?api=1&origin=${first.lat},${first.lng}&destination=${last.lat},${last.lng}${mids ? `&waypoints=${encodeURIComponent(mids)}` : ''}`;
 }
 
-// Same Klook affiliate builder as PlanTrip.astro (aid/pid + locale + city query).
-const klookDayHref = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.city}`)}`;
+// Same Klook affiliate builder as PlanTrip.astro — mapped city → curated
+// destination page, unmapped → search fallback.
+const klookDayHref = `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, klookLocale(lang)))}`;
 
 // ---- Resolve every day's stops once, up front (throws loudly on any gap). ----
 const days = d.itinerary.map((day: any, di: number) => {

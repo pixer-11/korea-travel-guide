@@ -5,12 +5,17 @@
 // mobile). City/place-specific Klook + Hotellook links, rel="sponsored".
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
+import { klookCityDest } from '../lib/klookCities';
 interface Props { city: string; place?: string }
 const { city, place } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const q = place || city;
-const klook = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${q}`)}`;
+// A specific PLACE has no destination page, so it stays a search; a mapped
+// CITY goes to its curated destination page (search is robots-disallowed).
+const klookTo = place
+  ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(place)}`
+  : klookCityDest(city, klookLocale(lang));
+const klook = `/go/klook?to=${encodeURIComponent(klookTo)}`;
 const hotel = `https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(city)}`;
 ---
 <div class="sticky-book" data-affiliate-placement="sticky-bar" data-sticky-book hidden aria-hidden="true">

@@ -7,41 +7,21 @@
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { KLOOK_CITY } from '../lib/klookCities';
 interface Props { city: string }
 const { city } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
 
-// Travelpayouts Klook city_id map (from the widget's city dropdown) — expand as
-// more ids are confirmed. Keys must match a post's `region` value exactly.
-// id feeds the price widget; slug builds the destination link. Both verified
-// against Klook's own sitemap-city-plain_en-us.xml on 2026-08-07 — which is
-// also where Fukuoka's id turned out to be wrong (23442 appears nowhere; the
-// real page is c5209-fukuoka-prefecture) and where several cities turned out
-// to be filed under a PREFECTURE slug rather than the city name.
-const CITY: Record<string, { id: number; slug: string }> = {
-  Seoul: { id: 13, slug: 'seoul' },
-  Busan: { id: 46, slug: 'busan' },
-  Incheon: { id: 158, slug: 'incheon' },
-  Tokyo: { id: 28, slug: 'tokyo' },
-  Osaka: { id: 29, slug: 'osaka' },
-  Kyoto: { id: 30, slug: 'kyoto' },
-  Fukuoka: { id: 5209, slug: 'fukuoka-prefecture' },
-  Sapporo: { id: 133938, slug: 'sapporo' },
-  Okinawa: { id: 6484, slug: 'okinawa-prefecture' },
-  Nagoya: { id: 71, slug: 'nagoya' },
-  Nara: { id: 7062, slug: 'nara-prefecture' },
-  Hiroshima: { id: 5122, slug: 'hiroshima-prefecture' },
-  Bangkok: { id: 4, slug: 'bangkok' },
-  Phuket: { id: 7, slug: 'phuket' },
-  Shanghai: { id: 59, slug: 'shanghai' },
-  // The posts spell it Xi'an — "Xian" matched none of them, so the city fell
-  // through to a plain search link for as long as this map has existed.
-  "Xi'an": { id: 60, slug: 'xi-an' },
-};
-const mapped = CITY[city];
-const src = mapped
+// The city map moved to src/lib/klookCities.ts on 2026-08-07 and grew 16→127:
+// every post region whose name appears in Klook's own city sitemap, with the
+// same-name-city risk (Valencia PH vs ES, Granada NI vs ES…) checked against
+// the live Klook page. The PRICE WIDGET stays limited to the 16 dropdown-
+// confirmed ids (`widget: true`) — an unverified city_id renders an empty box;
+// a destination link cannot fail that way.
+const mapped = KLOOK_CITY[city];
+const src = mapped?.widget
   ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=${lang}&city_id=${mapped.id}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
   : null;
 

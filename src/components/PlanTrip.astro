@@ -9,6 +9,7 @@ import { getLangFromUrl, useTranslations, klookLocale, localizePath } from '../i
 import { localizePlace } from '../i18n/places';
 import countriesData from '../../data/countries.json';
 import esimFacts from '../../data/esim-facts.json';
+import { klookCityDest } from '../lib/klookCities';
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
 // Labels follow the page's language; the `city` in affiliate links stays English
@@ -20,10 +21,10 @@ const cityLabel = localizePlace(city, lang);
 
 // City-specific Klook affiliate link, built automatically from the city name —
 // works for every city (and every future auto-published post) with no per-city
-// setup. Uses the account's own Klook redirect (campaign 13694, pid 754088);
-// the query lands the reader on that city's tours & tickets.
+// setup. A mapped city lands on its curated destination page (search is
+// robots-disallowed and converts worse); unmapped falls back to search.
 const klookHref = city
-  ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${city}`)}`
+  ? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang)))}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const services: { icon: string; label: string; desc: string; href: string; internal?: boolean }[] = [

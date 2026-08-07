@@ -18,6 +18,7 @@ import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
+import { klookCityDest } from '../lib/klookCities';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
 // pages (/ko/posts/… etc). One template, so a fix can never land on only one of
@@ -80,7 +81,9 @@ const countryISO = COUNTRY_ISO[country];
 
 // Peak-intent affiliate links for the top "Book this trip" band (city-specific,
 // correct attribution, work regardless of flight/hotel program approval).
-const klookTop = `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${d.region}`)}`;
+// Mapped city → curated destination page; a specific PLACE (below) keeps the
+// search link — places have no destination page.
+const klookTop = `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang)))}`;
 // language= keeps the reader in their own language after the click — 7,959
 // of these links landed every reader, five languages alike, on English
 // booking.com, which is where the measured 94 clicks / 0 bookings die.
