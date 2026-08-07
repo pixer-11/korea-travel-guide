@@ -4570,6 +4570,11 @@
       "blurb": "Nueva York es una metrópolis densa de cinco distritos donde los rascacielos de Manhattan, los teatros de Broadway y museos de talla mundial conviven con barrios muy singulares moldeados por generaciones de inmigrantes. Es una ciudad que nunca duerme, articulada en torno a una extensa red de metro, espacios verdes emblemáticos como Central Park, y una energía imparable que la ha convertido en una capital global de las finanzas, la cultura y los medios de comunicación.",
       "getting": "La mayoría de los viajeros internacionales llegan a través del Aeropuerto Internacional John F. Kennedy (JFK) o el Aeropuerto Internacional Newark Liberty (EWR); desde el JFK, el AirTrain conecta con el metro en Howard Beach o con el tren Long Island Rail Road y el metro en la estación Jamaica para llegar a Manhattan, mientras que desde Newark, el AirTrain enlaza con los trenes de NJ Transit y Amtrak en la estación Newark Liberty International Airport para un trayecto de unos 30 minutos hasta Penn Station. El aeropuerto LaGuardia (LGA), utilizado principalmente para vuelos nacionales, se conecta con la ciudad sobre todo mediante autobús o taxi.",
       "days": "Conviene reservar al menos 4-5 días para recorrer los principales atractivos de Manhattan y darse una idea de los demás distritos, aunque muchos visitantes se quedan encantados una semana o más sin quedarse sin cosas por hacer."
+    },
+    "zh": {
+      "blurb": "纽约市是一座由五个行政区组成的密集型大都市,曼哈顿的摩天大楼、百老汇剧院和世界一流的博物馆,与经过几代移民塑造而成、各具特色的社区交织并存。这里是一座全天候运转的城市,依托庞大的地铁网络、中央公园等标志性绿地,以及永不停歇的活力,使其成为全球金融、文化与媒体之都。",
+      "getting": "大多数国际旅客通过肯尼迪国际机场(JFK)或纽瓦克自由国际机场(EWR)抵达纽约:从JFK出发,可乘坐机场轻轨(AirTrain)在Howard Beach站换乘地铁,或在牙买加站(Jamaica Station)换乘长岛铁路(LIRR)和地铁前往曼哈顿;从纽瓦克机场出发,则可乘坐AirTrain在纽瓦克自由国际机场站换乘新泽西公交(NJ Transit)或美铁(Amtrak)列车,约30分钟即可到达宾夕法尼亚车站(Penn Station)。拉瓜迪亚机场(LGA)主要服务于国内航班,进出市区主要依靠巴士或出租车接驳。",
+      "days": "建议至少安排4-5天时间游览曼哈顿的主要景点,并顺便体验其他行政区的风情;不过许多游客即便停留一周甚至更久,也不会觉得无事可做。"
     }
   },
   "Nonthaburi": {
@@ -4799,6 +4804,82 @@
       "blurb": "武汉是中国中部长江边的一座大都会,以黄鹤楼、浩渺的湖泊,以及清晨人们边走边吃的一碗火辣热干面而闻名。作为汉口、武昌、汉阳三镇历史性合并而成的城市,它长期以来一直是全国举足轻重的商贸与交通枢纽。",
       "getting": "大多数游客选择飞抵武汉天河国际机场(WUH),该机场位于武汉市中心以北约26公里的黄陂区郊外;也有不少人乘高铁抵达武汉、汉口或武昌三大火车站中的一个——这三座车站都通过专用高速公路、武汉地铁以及城际铁路与市区相连。无论从哪个门户入城,武汉地铁都是前往市中心最可靠的交通方式。",
       "days": "建议安排3至4天时间,游览分布在三镇的武汉核心景点,包括黄鹤楼、东湖,以及沿汉口历史悠久的江滩漫步。"
+    }
+  },
+  "Delhi": {
+    "en": {
+      "blurb": "Delhi is a sprawling capital where Mughal-era monuments, colonial-era boulevards, and dense modern markets sit within a few kilometers of each other. As the seat of both a national government and millennia of layered history, it functions as India's political core and one of its busiest cultural crossroads.",
+      "getting": "Most travellers arrive via Indira Gandhi International Airport (DEL), the country's main international gateway; from there, the Airport Express Metro Line runs directly into central Delhi, reaching New Delhi Railway Station in ~20 minutes.",
+      "days": "Plan on ~3-4 days to cover the city's major historic sites and markets at a comfortable pace, with extra time if using Delhi as a base for day trips into the wider region."
+    },
+    "ko": {
+      "blurb": "델리는 무굴 시대의 유적과 식민지 시대의 대로, 그리고 활기 넘치는 현대 시장이 불과 몇 킬로미터 반경 안에 공존하는 광활한 수도다. 국가 정부의 소재지이자 수천 년에 걸쳐 켜켜이 쌓인 역사의 무대인 이곳은 인도 정치의 중심이자 가장 분주한 문화적 교차로 중 하나로 기능한다.",
+      "getting": "대부분의 여행자는 인도의 주요 국제 관문인 인디라 간디 국제공항(DEL)을 통해 델리에 도착한다. 공항에서는 공항 익스프레스 메트로 노선을 타면 델리 중심부까지 곧장 이동할 수 있으며, 뉴델리 기차역까지 약 20분이 걸린다.",
+      "days": "델리의 주요 유적지와 시장을 여유롭게 둘러보려면 3~4일 정도를 계획하는 것이 좋으며, 델리를 거점 삼아 주변 지역으로 당일치기 여행을 다녀올 계획이라면 시간을 더 넉넉히 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "デリーは広大な首都であり、ムガル時代の建造物、植民地時代の並木道、そして密集した近代的な市場が、わずか数キロの範囲内に混在している。国政の中枢であると同時に、幾千年にも及ぶ重層的な歴史を抱えるこの都市は、インドの政治的中心地であり、最も活気ある文化的十字路のひとつとして機能している。",
+      "getting": "多くの旅行者はインディラ・ガンディー国際空港(DEL)、インド最大の国際玄関口を利用して到着する。空港からはエアポート・エクスプレス・メトロ線が市中心部まで直通で運行しており、ニューデリー駅までは約20分で到着する。",
+      "days": "主要な史跡や市場を無理なく巡るには、3~4日ほど見ておくとよい。デリーを拠点に周辺地域への日帰り旅行も組み込む場合は、さらに日数を追加しておきたい。"
+    },
+    "es": {
+      "blurb": "Delhi es una capital extensa donde monumentos de la era mogol, avenidas de estilo colonial y mercados modernos y bulliciosos conviven a pocos kilómetros de distancia. Como sede tanto del gobierno nacional como de milenios de historia superpuesta, funciona como el núcleo político de la India y uno de sus cruces culturales más concurridos.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Indira Gandhi (DEL), la principal puerta de entrada internacional del país; desde allí, la línea de metro Airport Express conecta directamente con el centro de Delhi, llegando a la estación de tren New Delhi Railway Station en unos 20 minutos.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer con calma los principales sitios históricos y mercados de la ciudad, sumando tiempo extra si se usa Delhi como base para excursiones de un día por la región."
+    },
+    "zh": {
+      "blurb": "德里是一座幅员辽阔的首都,莫卧儿时期的古迹、殖民时代的林荫大道与熙攘的现代市场往往近在咫尺、彼此交错。作为国家政府所在地,也是数千年层叠历史的承载者,德里既是印度的政治核心,也是全国最繁忙的文化交汇点之一。",
+      "getting": "大多数旅客通过英迪拉·甘地国际机场(DEL)抵达,这是印度主要的国际门户机场。从机场出发,可乘坐机场快线地铁(Airport Express Metro Line)直达市中心,约20分钟即可到达新德里火车站(New Delhi Railway Station)。",
+      "days": "建议安排约3至4天时间,以从容的节奏游览德里的主要历史古迹与市场;若计划以德里为据点,前往周边地区进行一日游,则需预留更多时间。"
+    }
+  },
+  "Le Castellet": {
+    "en": {
+      "blurb": "Le Castellet is a fortified medieval hilltop village in the Var — one of France's officially recognized \"Most Beautiful Villages\" — with cobbled lanes, a 15th-century castle-turned-town-hall, and sweeping views over the Bandol vineyards. Just a few kilometres away, this quiet stone village sits in striking contrast to the roar of the Circuit Paul Ricard, the F1-grade motor-racing track that shares its name.",
+      "getting": "The nearest airport is Toulon–Hyères (TLN), roughly 30km away, with Marseille Provence (MRS) as a larger alternative further out; the closest train station is Bandol, about 15km distant, from where a taxi or rental car is generally needed to reach the hilltop village. Most visitors arrive by road via the A50 motorway, as there's no direct rail or shuttle link into Le Castellet itself.",
+      "days": "A half-day to a full day is enough to wander the village's ramparts and craft shops, with an extra day worth adding if you plan to visit the Paul Ricard circuit or tour the surrounding Bandol wine estates."
+    },
+    "ko": {
+      "blurb": "르 카스텔레는 바르(Var) 지역에 자리한 요새화된 중세 언덕마을로, 프랑스가 공식 인증한 '가장 아름다운 마을' 중 하나입니다. 자갈이 깔린 골목길과 15세기에 지어져 지금은 마을 청사로 쓰이는 성, 그리고 방돌(Bandol) 포도밭을 굽어보는 탁 트인 전망이 인상적이죠. 이 고요한 돌마을에서 불과 몇 킬로미터 떨어진 곳에는 같은 이름을 가진 F1급 서킷, 폴 리카르 서킷(Circuit Paul Ricard)의 굉음이 울려 퍼지고 있어 묘한 대조를 이룹니다.\",\"getting\":\"가장 가까운 공항은 약 30km 거리에 있는 툴롱-이에르 공항(TLN)이며, 좀 더 멀리 있는 마르세유 프로방스 공항(MRS)도 대안이 될 수 있습니다. 가장 가까운 기차역은 약 15km 떨어진 방돌(Bandol) 역으로, 여기서부터는 택시나 렌터카를 이용해 언덕 위 마을까지 이동해야 합니다. 르 카스텔레까지 직행 열차나 셔틀이 없기 때문에 대부분의 방문객은 A50 고속도로를 이용해 자동차로 이동합니다.",
+      "getting": "가장 가까운 공항은 약 30km 거리에 있는 툴롱-이에르 공항(TLN)이며, 좀 더 멀리 있는 마르세유 프로방스 공항(MRS)도 대안이 될 수 있습니다. 가장 가까운 기차역은 약 15km 떨어진 방돌(Bandol) 역으로, 여기서부터는 택시나 렌터카를 이용해 언덕 위 마을까지 이동해야 합니다. 르 카스텔레까지 직행 열차나 셔틀이 없기 때문에 대부분의 방문객은 A50 고속도로를 이용해 자동차로 이동합니다.",
+      "days": "마을의 성벽과 공예품점들을 둘러보는 데는 반나절에서 하루면 충분하지만, 폴 리카르 서킷을 방문하거나 주변 방돌 와인 농장을 둘러볼 계획이라면 하루를 더 추가하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ル・カステレは、フランス南東部ヴァール県にある城塞に守られた中世の丘上の村で、「フランスの最も美しい村」として公式に認定されている村の一つです。石畳の小道、15世紀の城を改装した町役場、そしてバンドールのぶどう畑を見渡す雄大な眺めが魅力です。この静かな石造りの村からわずか数キロの場所には、同じ名を持つF1級のサーキット「ポール・リカール・サーキット」が轟音を響かせており、村の静けさとは対照的な光景が広がります。",
+      "getting": "最寄りの空港はトゥーロン・イエール空港（TLN）で、村から約30kmの距離にあります。より規模の大きいマルセイユ・プロヴァンス空港（MRS）も、少し離れた場所にある選択肢として利用できます。最寄りの鉄道駅はバンドール駅で、村までは約15km。そこからはタクシーかレンタカーを利用して丘の上の村へ向かうのが一般的です。ル・カステレへ直接つながる鉄道やシャトルバスはないため、ほとんどの旅行者はA50高速道路を使って車で訪れます。",
+      "days": "村の城壁や工芸品店を巡るだけなら、半日から1日あれば十分です。ただし、ポール・リカール・サーキットを訪れたり、周辺のバンドールのワイナリーを巡る予定があるなら、もう1日多く確保しておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Le Castellet es un pueblo medieval fortificado, encaramado en lo alto de una colina en el Var, y reconocido oficialmente como uno de los \"Pueblos Más Bonitos de Francia\". Cuenta con callejuelas empedradas, un castillo del siglo XV convertido en ayuntamiento y vistas panorámicas sobre los viñedos de Bandol. A tan solo unos kilómetros, este tranquilo pueblo de piedra contrasta enormemente con el rugido del Circuit Paul Ricard, el circuito de carreras de nivel F1 que comparte su nombre.",
+      "getting": "El aeropuerto más cercano es el de Toulon-Hyères (TLN), a unos 30 km, aunque Marsella Provenza (MRS) ofrece una alternativa de mayor tamaño algo más lejos. La estación de tren más próxima es Bandol, a unos 15 km, desde donde normalmente hay que tomar un taxi o alquilar un coche para llegar al pueblo en lo alto de la colina. La mayoría de los visitantes llegan por carretera a través de la autopista A50, ya que no existe conexión directa de tren o autobús lanzadera hasta el propio Le Castellet.",
+      "days": "Con medio día o una jornada completa es suficiente para pasear por las murallas del pueblo y sus tiendas de artesanía; conviene añadir un día más si se planea visitar el circuito Paul Ricard o recorrer las bodegas de la región de Bandol."
+    },
+    "zh": {
+      "blurb": "勒卡斯泰莱是瓦尔省一座建于山顶的中世纪城堡村落，被官方评选为法国\"最美村庄\"之一。这里鹅卵石小巷纵横交错，一座15世纪的城堡如今已改建为市政厅，从村中望去，班多勒葡萄园的壮丽景色一览无余。虽然距离仅几公里之遥，这座静谧的石头村庄却与保罗·里卡赛道的轰鸣声形成鲜明对比——这条与村子同名的F1级赛车赛道，为这片宁静增添了几分反差魅力。",
+      "getting": "最近的机场是图伦-耶尔机场（TLN），距离约30公里；马赛普罗旺斯机场（MRS）则是较远但规模更大的备选机场。最近的火车站是班多勒站，距村子约15公里，抵达后通常需要打车或租车才能上山进村。由于没有直达列车或班车前往勒卡斯泰莱，大多数游客选择自驾，经A50高速公路前往。",
+      "days": "半天到一天的时间足以漫步村中的城墙和手工艺品店；如果计划前往保罗·里卡赛道，或探访周边的班多勒酒庄，建议再多留一天。"
+    }
+  },
+  "Taitung": {
+    "en": {
+      "blurb": "Taitung is Taiwan's wild, laid-back eastern frontier, where the Pacific coastline, Coastal and Central mountain ranges, and a strong Indigenous Amis and Puyuma presence combine to feel a world away from the western cities. It's best known for wide open rice-field valleys, hot-air balloons over Luye Highland, hot springs at Zhiben, and as the jumping-off point for Green Island and Orchid Island.",
+      "getting": "Most travellers reach Taitung by rail, with Taitung Station sitting on the Hualien–Taitung line (linking north via Hualien) and the South-Link line (linking west via Kaohsiung/Pingtung); there are also domestic flights into Taitung Airport (TTT), mainly from Taipei Songshan.",
+      "days": "Plan on ~3-4 days to cover Taitung City, the Rift Valley highlands, and a coastal or hot-spring excursion, with extra days needed if adding an island trip to Green Island or Orchid Island."
+    },
+    "ja": {
+      "blurb": "台東は台湾東部に広がる、素朴でのんびりとした「フロンティア」だ。太平洋沿岸、海岸山脈と中央山脈、そしてアミ族やプユマ族といった先住民の色濃い文化が融合し、西部の都市群とはまるで異次元の空気をまとっている。広々とした稲田が広がる谷間の風景、鹿野高台から見上げる熱気球、知本温泉、そして緑島・蘭嶼へ渡る際の玄関口としても知られている。",
+      "getting": "台東へは鉄道でのアクセスが一般的で、台東駅は花蓮を経由して北部へ結ぶ「花東線」と、高雄・屏東方面から西部へつながる「南廻線」の接続点となっている。また、台東空港(TTT)への国内線も利用可能で、主に台北松山からのフライトがある。",
+      "days": "台東市街地、リフトバレー(花東縦谷)の高原地帯、そして海岸や温泉への小旅行を組み合わせるなら、目安として3〜4日程度を確保しておきたい。さらに緑島や蘭嶼への離島旅行を加える場合は、プラスで日数を見ておく必要がある。"
+    },
+    "es": {
+      "blurb": "Taitung es la frontera oriental de Taiwán, salvaje y despreocupada, donde la costa del Pacífico, las cordilleras Costera y Central, y una fuerte presencia indígena Amis y Puyuma se combinan para hacer que uno se sienta a un mundo de distancia de las ciudades del oeste. Es más conocida por sus amplios valles de arrozales, los globos aerostáticos sobre Luye Highland, las aguas termales de Zhiben, y por ser el punto de partida hacia la Isla Verde y la Isla de las Orquídeas.",
+      "getting": "La mayoría de los viajeros llega a Taitung en tren, ya que la estación de Taitung se encuentra en la línea Hualien-Taitung (que conecta hacia el norte a través de Hualien) y en la línea South-Link (que conecta hacia el oeste a través de Kaohsiung/Pingtung); también hay vuelos domésticos al Aeropuerto de Taitung (TTT), principalmente desde Taipéi Songshan.",
+      "days": "Se recomienda planear entre 3 y 4 días para recorrer la ciudad de Taitung, las tierras altas del Valle del Rift y hacer una excursión costera o a las aguas termales, sumando días adicionales si se incluye una escapada a la Isla Verde o a la Isla de las Orquídeas."
+    },
+    "zh": {
+      "blurb": "台东是台湾东部一片野性而悠然的边地，太平洋海岸线与海岸山脉、中央山脉在此交汇，浓厚的阿美族与卑南族原住民文化气息，让这里与西部城市的氛围截然不同。台东最广为人知的，是鹿野高台上空的热气球、开阔的稻田纵谷景致、知本的温泉，以及作为前往绿岛与兰屿的门户。",
+      "getting": "大多数旅客搭乘铁路前往台东：台东车站同时是花东线（向北经花莲连接）与南回线（向西经高雄、屏东连接）的终点站；此外，台东机场（TTT）也有国内航班往来，主要与台北松山对飞。",
+      "days": "建议安排约3-4天，可涵盖台东市区、纵谷高地风光，以及一段海岸或温泉之旅；若想再前往绿岛或兰屿，则需额外预留天数。"
     }
   }
 }
