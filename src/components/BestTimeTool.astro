@@ -107,6 +107,75 @@ const strings = {
   },
 };
 
+// ---- Aggregate findings (build-time, quotable) ----
+// The linkable asset is not the filter UI — it is a set of concrete figures a
+// journalist or blogger can quote ("X% of venues are quietest before 11 AM").
+// Computed here so they render as plain text in the delivered HTML, and stay
+// current automatically as the daily pipeline adds venues.
+let wdQuietTotal = 0, morningCount = 0, attrTotal = 0, attrMorning = 0;
+const weekendBusyFreq = new Map<number, number>();
+const restQuietFreq = new Map<number, number>();
+const cityAgg = new Map<string, { n: number; freq: Map<number, number> }>();
+for (const p of posts) {
+  const b = p.data.place?.busyness;
+  if (!b) continue;
+  const wq = b.weekdayQuiet ?? [];
+  if (wq.length) {
+    wdQuietTotal++;
+    const earliest = Math.min(...wq);
+    if (earliest < 11) morningCount++;
+    if (p.data.category === 'attraction') { attrTotal++; if (earliest < 11) attrMorning++; }
+    if (p.data.category === 'restaurant') for (const h of wq) restQuietFreq.set(h, (restQuietFreq.get(h) ?? 0) + 1);
+  }
+  for (const h of b.weekendBusy ?? []) weekendBusyFreq.set(h, (weekendBusyFreq.get(h) ?? 0) + 1);
+  const city = localizePlace(p.data.region, lang);
+  const agg = cityAgg.get(city) ?? { n: 0, freq: new Map<number, number>() };
+  agg.n++;
+  for (const h of [...wq, ...(b.weekendQuiet ?? [])]) agg.freq.set(h, (agg.freq.get(h) ?? 0) + 1);
+  cityAgg.set(city, agg);
+}
+const modeHour = (m: Map<number, number>) =>
+  [...m.entries()].sort((a, b) => b[1] - a[1] || a[0] - b[0])[0]?.[0];
+// Localized clock label ("2 PM" / "오후 2시" / "午後2時" / "下午2点") for the
+// figure slots — hr() above is English-only bar labeling.
+const hourLabel = (h: number | undefined) => {
+  if (h == null) return '';
+  const x = ((h % 24) + 24) % 24;
+  const h12 = x % 12 || 12;
+  if (lang === 'ko') return `${x < 12 ? '오전' : '오후'} ${h12}시`;
+  if (lang === 'ja') return `${x < 12 ? '午前' : '午後'}${h12}時`;
+  if (lang === 'zh') return `${x < 12 ? '上午' : '下午'}${h12}点`;
+  return `${h12} ${x < 12 ? 'AM' : 'PM'}`;
+};
+const morningPct = wdQuietTotal ? Math.round((morningCount / wdQuietTotal) * 100) : 0;
+const attrPct = attrTotal ? Math.round((attrMorning / attrTotal) * 100) : 0;
+const peakHour = modeHour(weekendBusyFreq);
+const restHour = modeHour(restQuietFreq);
+// Cities with enough venues for the mode to mean something.
+const cityRows = [...cityAgg.entries()]
+  .filter(([, v]) => v.n >= 3 && v.freq.size)
+  .sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0]))
+  .slice(0, 10)
+  .map(([city, v]) => ({ city, n: v.n, hour: hourLabel(modeHour(v.freq)) }));
+const fill = (key: string, vars: Record<string, string | number>) =>
+  Object.entries(vars).reduce((s, [k, v]) => s.replace(`{${k}}`, String(v)), t(key));
+
+// Dataset markup alongside the WebApplication: this is what makes the page
+// discoverable in Google Dataset Search — a real inbound-link channel for a
+// dataset no other travel site publishes. English on purpose: one dataset,
+// one canonical identity across the five language routes.
+const datasetLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: `Quiet & busy visiting hours for ${index.length} travel venues`,
+  description:
+    'Quietest and busiest visiting hours per venue (cafés, restaurants, attractions) derived from BestTime.app live foot-traffic forecasts, clamped to each venue’s opening hours. Updated as new guides are published.',
+  url: 'https://wanderatlasguides.com/tools/best-time/',
+  creator: { '@type': 'Organization', name: 'Wander Atlas', url: 'https://wanderatlasguides.com' },
+  isAccessibleForFree: true,
+  temporalCoverage: '2026/..',
+};
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebApplication',
@@ -186,8 +255,47 @@ const jsonLd = {
       </div>
       <p class="empty" id="empty" hidden>{t('tool.empty')}</p>
       <p class="foot">{t('tool.foot')}</p>
+
+      <section class="findings" aria-labelledby="findings-h">
+        <h2 id="findings-h">{t('tool.findings.h2')}</h2>
+        <p class="dek">{fill('tool.findings.intro', { n: index.length })}</p>
+        <ul class="facts">
+          {wdQuietTotal >= 30 && <li>{fill('tool.findings.morning', { pct: morningPct })}</li>}
+          {peakHour != null && <li>{fill('tool.findings.peak', { hour: hourLabel(peakHour) })}</li>}
+          {attrTotal >= 10 && restHour != null && (
+            <li>{fill('tool.findings.cats', { aPct: attrPct, rHour: hourLabel(restHour) })}</li>
+          )}
+        </ul>
+        {cityRows.length > 0 && (
+          <>
+            <h3>{t('tool.findings.city.h3')}</h3>
+            <div class="tblwrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>{t('tool.findings.city.city')}</th>
+                    <th>{t('tool.findings.city.hour')}</th>
+                    <th>{t('tool.findings.city.n')}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {cityRows.map((r) => (
+                    <tr><td>{r.city}</td><td>{r.hour}</td><td>{r.n}</td></tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </>
+        )}
+        <h3>{t('tool.findings.method.h3')}</h3>
+        <p>{fill('tool.findings.method.body', { n: index.length })}</p>
+        <h3>{t('tool.cite.h3')}</h3>
+        <p>{t('tool.cite.body')}</p>
+      </section>
     </div>
   </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify(datasetLd)} />
 
   <Newsletter lang={lang} />
 
@@ -323,6 +431,17 @@ const jsonLd = {
     }
 
     .tool .foot { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; max-width: 62ch; line-height: 1.6; }
+
+    .tool .findings { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 2rem; }
+    .tool .findings h2 { font-size: clamp(1.35rem, 3vw, 1.75rem); margin: 0 0 0.4rem; }
+    .tool .findings h3 { font-size: 1.05rem; margin: 1.6rem 0 0.5rem; }
+    .tool .facts { margin: 1rem 0; padding-left: 1.2rem; max-width: 68ch; }
+    .tool .facts li { margin: 0.5rem 0; line-height: 1.65; }
+    .tool .findings p { max-width: 68ch; line-height: 1.7; color: var(--ink-soft); font-size: 0.95rem; }
+    .tool .tblwrap { overflow-x: auto; }
+    .tool .findings table { border-collapse: collapse; font-size: 0.9rem; min-width: 22rem; }
+    .tool .findings th, .tool .findings td { text-align: left; padding: 0.45rem 1.25rem 0.45rem 0; border-bottom: 1px solid var(--line-soft); }
+    .tool .findings th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
     .tool .empty { color: var(--muted); padding: 2.5rem 0; text-align: center; }
     @media (max-width: 560px) {
       .tool .filters { flex-direction: column; }
