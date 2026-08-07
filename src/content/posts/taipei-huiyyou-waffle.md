@@ -26,6 +26,7 @@ heroImage:
   credit: 'Photo: Foursquare user content (Mr. Papa Waffle & Café)'
   license: foursquare
   source: https://foursquare.com/v/5298908211d21080a57f957e
+draft: true
 ---
 
 ## Why this waffle stall has Taipei talking

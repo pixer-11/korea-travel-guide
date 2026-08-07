@@ -1,37 +1,37 @@
 ---
-title: "Seokguram: Gyeongju Travel Guide (4.4★)"
-description: "Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm. 4.4★ (7,901 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Gyeongju"
-category: "attraction"
-pubDate: "2026-08-07T08:50:24.174Z"
+title: 'Seokguram: Gyeongju Travel Guide (4.4★)'
+description: Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm. 4.4★ (7,901 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Gyeongju
+category: attraction
+pubDate: '2026-08-07T08:50:24.174Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/1920px-Front_view_of_Seokguram_from_front_chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Seok-Hong, Han / Wikimedia Commons (KOGL Type 1)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Front_view_of_Seokguram_from_front_chamber.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Front_view_of_Seokguram_from_front_chamber.jpg/1920px-Front_view_of_Seokguram_from_front_chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Seok-Hong, Han / Wikimedia Commons (KOGL Type 1)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Front_view_of_Seokguram_from_front_chamber.jpg
 gallery: []
 place:
-  id: "ChIJCQ6QQNqyZzUR0ujHdOUux88"
-  name: "Seokguram"
-  address: "238 Seokgul-ro, Gyeongju, Gyeongsangbuk-do, South Korea"
+  id: ChIJCQ6QQNqyZzUR0ujHdOUux88
+  name: Seokguram
+  address: 238 Seokgul-ro, Gyeongju, Gyeongsangbuk-do, South Korea
   rating: 4.4
   userRatingsTotal: 7901
-  googleMapsUrl: "https://maps.google.com/?cid=14971987049258150098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14971987049258150098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.7951981
   lng: 129.3503599
-  phone: "+82 54-746-9933"
+  phone: +82 54-746-9933
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-07
+    updated: 2026-08-07T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -46,24 +46,24 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_38387875554f64486a753052557a5a79714e51513651434a496843"
+    venueId: ven_38387875554f64486a753052557a5a79714e51513651434a496843
 tags:
-  - "gyeongju"
-  - "historic site"
-quickAnswer: "Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm. Go right at 9am or after 5pm to dodge the tour buses — weekends fill up hard between 10am and 5pm. Pair it with nearby Bulguksa Temple and budget a half-day for both."
+  - gyeongju
+  - historic site
+quickAnswer: Seokguram is the Silla-dynasty grotto shrine on Mt. Tohamsan, famous for its serene granite Buddha overlooking the East Sea, and it's open daily 9am–6pm. Go right at 9am or after 5pm to dodge the tour buses — weekends fill up hard between 10am and 5pm. Pair it with nearby Bulguksa Temple and budget a half-day for both.
 faq:
-  - q: "What are Seokguram's opening hours?"
-    a: "It's open every day from 9:00 AM to 6:00 PM, with no weekday/weekend variation in hours."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the day. On weekends, the quietest window is 5–6pm, right before closing; try to avoid 10am–5pm on Saturday and Sunday when crowds peak."
-  - q: "How do I get to Seokguram from central Gyeongju?"
-    a: "It's about a 20-minute drive; most visitors go by taxi, rental car, or local bus. Check current bus timetables locally, as routes can shift seasonally."
-  - q: "How much time should I budget?"
-    a: "Plan on 30–45 minutes at the grotto itself. Most travelers pair it with Bulguksa Temple, making a half-day out of both sites."
-  - q: "Can I go inside and touch the Buddha statue?"
-    a: "No — a protective glass barrier separates visitors from the sculpture, installed to prevent humidity and touch damage, so you view it from just outside the chamber."
+  - q: What are Seokguram's opening hours?
+    a: It's open every day from 9:00 AM to 6:00 PM, with no weekday/weekend variation in hours.
+  - q: When is the quietest time to visit?
+    a: Weekdays are calm throughout the day. On weekends, the quietest window is 5–6pm, right before closing; try to avoid 10am–5pm on Saturday and Sunday when crowds peak.
+  - q: How do I get to Seokguram from central Gyeongju?
+    a: It's about a 20-minute drive; most visitors go by taxi, rental car, or local bus. Check current bus timetables locally, as routes can shift seasonally.
+  - q: How much time should I budget?
+    a: Plan on 30–45 minutes at the grotto itself. Most travelers pair it with Bulguksa Temple, making a half-day out of both sites.
+  - q: Can I go inside and touch the Buddha statue?
+    a: No — a protective glass barrier separates visitors from the sculpture, installed to prevent humidity and touch damage, so you view it from just outside the chamber.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
