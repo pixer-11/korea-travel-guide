@@ -7,7 +7,9 @@ import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
 import { SITE } from '../siteConfig';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { eventSchemaName } from '../lib/eventName';
+import { editorHasTraveled } from '../lib/editorVisited';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickRepHeroUrl, tileSize } from '../lib/repImage';
@@ -125,6 +127,44 @@ const koreaLinks = [
   { label: 'Jeju', href: '/regions/jeju' },
   { label: 'Gyeongju', href: '/regions/gyeongju' },
 ];
+
+// ── This month's editor picks ───────────────────────────────────────────────
+// The design mock's "where our editors would go this month" section, filled
+// with what the data can actually stand behind: events genuinely happening
+// this month, one per region, dates straight from each guide's frontmatter and
+// re-checked on every (daily) build. No invented seasonal claims — the month's
+// real calendar IS the recommendation. The editor is real, not a persona: the
+// owner has personally traveled Vietnam, Korea, Thailand, Singapore, the US,
+// Australia and more (src/lib/editorVisited.ts), so the "traveled here" badge
+// is a country-level fact, never a city-level boast.
+const nowD = new Date();
+const monthlyPool = posts.filter((p) => {
+  if (p.data.category !== 'event' || !p.data.eventStartDate) return false;
+  if (!p.data.heroImage?.url || p.data.heroImage.url.includes('placeholder')) return false;
+  const s = new Date(p.data.eventStartDate as any);
+  const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
+  if (e.getTime() < nowD.getTime() - 86400000) return false; // already over
+  const sameMonth = s.getUTCFullYear() === nowD.getUTCFullYear() && s.getUTCMonth() === nowD.getUTCMonth();
+  return sameMonth || s <= nowD; // starts this month, or already running
+});
+const monthlyPicks = (() => {
+  const byRegion = new Map<string, any>();
+  for (const p of [...monthlyPool].sort(
+    (a, b) => new Date(a.data.eventStartDate as any).getTime() - new Date(b.data.eventStartDate as any).getTime(),
+  )) {
+    if (!byRegion.has(p.data.region)) byRegion.set(p.data.region, p);
+    if (byRegion.size >= 3) break;
+  }
+  return [...byRegion.values()];
+})();
+const guidesIn = (region: string) => posts.filter((p) => p.data.region === region).length;
+const monthLabel = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { year: 'numeric', month: 'long' }).format(nowD);
+const fmtEventDates = (p: any) => {
+  const f = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { month: 'short', day: 'numeric' });
+  const s = new Date(p.data.eventStartDate as any);
+  const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
+  return s.getTime() === e.getTime() ? f.format(s) : `${f.format(s)} – ${f.format(e)}`;
+};
 ---
 
 <BaseLayout
@@ -169,6 +209,33 @@ const koreaLinks = [
               <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
               <h3>{card.title(post.id, post.data.title)}</h3>
               <p class="story-meta">{localizePlace(post.data.region, lang)} · {localizePlace(post.data.country ?? 'South Korea', lang)}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {monthlyPicks.length >= 2 && (
+    <section class="section">
+      <div class="wrap">
+        <p class="kicker gold">{t('home.monthly.kicker').replace('{month}', monthLabel)}</p>
+        <h2>{t('home.monthly.title')}</h2>
+        <p class="ess-dek">{t('home.monthly.dek')}</p>
+        <div class="stories">
+          {monthlyPicks.map((p) => (
+            <a class="story" href={localizePath(`/posts/${p.id}`, lang)}>
+              <div class="story-thumb">
+                <img src={tileSize(p.data.heroImage?.url ?? '')} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
+              </div>
+              <span class="kicker gold">{fmtEventDates(p)}</span>
+              <h3>{lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)}</h3>
+              <p class="story-meta">
+                {localizePlace(p.data.region, lang)} · {localizePlace(p.data.country ?? 'South Korea', lang)} · {t('home.monthly.guides').replace('{n}', String(guidesIn(p.data.region)))}
+              </p>
+              {editorHasTraveled(p.data.country, p.data.region) && (
+                <p class="story-meta editor-traveled">{t('home.monthly.visited')}</p>
+              )}
             </a>
           ))}
         </div>

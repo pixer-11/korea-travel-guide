@@ -903,6 +903,10 @@ html[lang^='zh'] .cover-inner h1 {
 .story h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.3rem; line-height: 1.25; margin: 0.35rem 0 0.4rem; }
 .story:hover h3 { color: var(--accent); }
 .story-meta { font-size: 0.82rem; color: var(--muted); }
+/* Monthly-picks provenance line: a country-level fact about a real editor
+   (src/lib/editorVisited.ts), styled as a quiet accent so it reads as a
+   credential, not a shout. */
+.story-meta.editor-traveled { color: var(--accent); font-weight: 600; margin-top: 0.15rem; }
 
 /* Spotlight */
 .spotlight { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
