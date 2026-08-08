@@ -31,7 +31,7 @@ import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
-import { verifyHeroImage } from './lib/vision-check.mjs';
+import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { probeWidth } from './lib/image-width.mjs';
 
 const POSTS = 'src/content/posts';
@@ -183,6 +183,9 @@ for (const slug of SLUGS) {
       else delete data.gallery;
     }
     await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+    // A width-upgraded hero is a NEW slug+URL key — record its verdict or
+    // validate-content reports the fresh, vision-approved photo as unchecked.
+    await recordHeroVerdict(slug, cand.url, 'MATCH', `width upgrade: ${vis.reason || 'approved'}`);
     used.add(cand.url);
     replaced.push({ slug, from: curW, to: cand.probedW });
     console.log(`  ✅ ${slug}: hero upgraded ${curW ?? '?'}px → ${cand.probedW}px (${vis.reason})`);

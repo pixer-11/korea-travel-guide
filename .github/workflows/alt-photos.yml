@@ -133,6 +133,15 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         run: node scripts/build-wall.mjs
 
+      # Last word before the commit: no post may ship live wearing a hero the
+      # verdict store has judged MISMATCH. On 2026-08-08 three quarantined
+      # posts came back with their draft line removed and the SAME judged-wrong
+      # photo — a re-verification of the same image had passed by chance.
+      # Whatever path produces that state, it dies here, not in production.
+      - name: Re-quarantine stored-MISMATCH heroes
+        if: steps.gate.outputs.on == 'true'
+        run: node scripts/requarantine-mismatches.mjs
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |

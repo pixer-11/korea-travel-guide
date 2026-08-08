@@ -26,7 +26,7 @@ import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
 import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
-import { verifyHeroImage } from './lib/vision-check.mjs';
+import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -180,6 +180,12 @@ async function writeDiscovered(item, ctx) {
     if (!vis.ok) {
       console.log(`    ✗ hero rejected by vision (${vis.reason}) — publishing without hero`);
       heroImage = undefined;
+    } else {
+      // Write the gate's verdict into the store validate-content trusts.
+      // Without this, every gate-approved event hero read as never-checked —
+      // 51 of them by 2026-08-07, closed by a one-off back-audit that this
+      // line makes unnecessary for everything published after it.
+      await recordHeroVerdict(slug, heroImage.url, 'MATCH', `event publish gate: ${vis.reason || 'approved'}`);
     }
   }
 

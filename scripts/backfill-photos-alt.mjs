@@ -180,7 +180,15 @@ for (const f of files) {
       // pavilion" and the Wat Pho reclining Buddha "an upright statue" — both
       // verified correct by eye). Without writing the appeal back, the stale
       // MISMATCH kept re-queueing the post every night and re-alarming the owner.
-      if (flaggedNow) { acquitted.push(slug); auditDirty = true; delete auditStore[`${slug}\x01${data.heroImage.url}`]; }
+      // Overwrite with MATCH rather than delete (2026-08-08): a deleted entry
+      // reads as never-checked, so validate-content flagged freshly-acquitted
+      // heroes as UNVERIFIED-PHOTO the same evening.
+      if (flaggedNow) { acquitted.push(slug); }
+      if (auditStore && (flaggedNow || !auditStore[`${slug}\x01${data.heroImage.url}`])) {
+        auditStore[`${slug}\x01${data.heroImage.url}`] =
+          { slug, verdict: 'MATCH', reason: `patrol re-check: ${String(cur.reason || 'approved').slice(0, 150)}`, at: new Date().toISOString() };
+        auditDirty = true;
+      }
       continue;
     }
     console.log(`  ✗  ${slug}: current hero rejected (${cur.reason}) — replacing`);
@@ -311,6 +319,14 @@ for (const f of files) {
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
     data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source };
+    // The verdict store is what validate-content trusts: without this line the
+    // patrol's own vision-approved replacements were reported as UNVERIFIED-
+    // PHOTO the same evening (2026-08-08, nine of them).
+    if (auditStore) {
+      auditStore[`${slug}\x01${cand.url}`] =
+        { slug, verdict: second.verdict, reason: `patrol replace: ${String(second.reason || 'approved').slice(0, 150)}`, at: new Date().toISOString() };
+      auditDirty = true;
+    }
     // The in-body photo was chosen earlier, from the same pool of candidates, so
     // a replacement hero can land on the picture already sitting in the gallery —
     // and then the post shows one photo twice while claiming two. It happened on

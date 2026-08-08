@@ -250,3 +250,23 @@ reasonKo must be written in Korean — it is sent to the site owner, who reads K
     return { verdict: 'UNKNOWN', reason: `vision unavailable (${e.message.slice(0, 40)})`, reasonKo: '' };
   }
 }
+
+// ─────────────────────────────────────────────────────────────
+//  VERDICT RECORDING — data/visual-audit.json is the single truth
+//  validate-content reads to decide UNVERIFIED-PHOTO. Every pipeline that
+//  ADOPTS a hero after verifyHeroImage approval must record that verdict
+//  here, or the next validate run reports a freshly-verified photo as
+//  never-checked (2026-08-08: the dawn patrol replaced 9 heroes, all
+//  vision-approved, and the evening report flagged them as unverified —
+//  same hole the event gate had). Call AFTER the hero is actually written
+//  to the post, with the exact URL that was written.
+// ─────────────────────────────────────────────────────────────
+import { readFile as _rf, writeFile as _wf } from 'node:fs/promises';
+const VERDICT_STORE = new URL('../../data/visual-audit.json', import.meta.url);
+
+export async function recordHeroVerdict(slug, url, verdict, reason) {
+  let store = {};
+  try { store = JSON.parse(await _rf(VERDICT_STORE, 'utf8')); } catch { /* first write */ }
+  store[`${slug}\x01${url}`] = { slug, verdict, reason: String(reason || '').slice(0, 200), at: new Date().toISOString() };
+  await _wf(VERDICT_STORE, JSON.stringify(store, null, 2), 'utf8');
+}
