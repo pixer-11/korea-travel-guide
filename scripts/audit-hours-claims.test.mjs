@@ -42,6 +42,13 @@ const cases = [
   // 08-04 자금성: 'closed every Monday' 뒤에 Sunday가 이어지는 정상 문장.
   ['FP-forbidden-city (should be CLEAN)', post(PALACE,
     "Open Tuesday through Sunday, 8:30am to 4:30pm. Yes, it's closed every Monday; it's open Tuesday through Sunday from 8:30am to 4:30pm."), 0],
+  // 08-08 MNAC: 'closed on Mondays, and Sunday hours tend to be shorter' — 두
+  // 절이지 "월·일 휴관" 목록이 아니다. 'Sunday hours'처럼 요일이 다른 명사를
+  // 꾸미면 그 요일은 휴관 주장의 대상이 아니다.
+  ['FP-mnac-sunday-hours (should be CLEAN)', post(PALACE,
+    'The museum is closed on Mondays, and Sunday hours tend to be shorter than other days, so confirm the schedule.'), 0],
+  ['FP-partial-sunday (should be CLEAN)', post(PALACE,
+    'It is closed Monday and Sunday mornings, opening at noon on the weekend.'), 0],
   ['TP-museo (must FLAG)', post(WEEK_OPEN_MON,
     'The museum is closed on Mondays, so plan a Tuesday visit.'), 1],
   ['TP-adverb-list (must FLAG)', post(WEEK_OPEN_MON,

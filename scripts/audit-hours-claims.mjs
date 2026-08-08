@@ -134,6 +134,14 @@ export function hoursProblems(raw) {
   // that this list must cover every adverb the writer can slip in, so it is
   // deliberately generous.
   const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|every\\s+|all\\s+day\\s+|on\\s+|to\\s+the\\s+public\\s+)*`;
+  // A day name directly followed by one of these nouns is not the subject of a
+  // closure — it modifies a new noun phrase, which starts a new claim.
+  // "closed on Mondays, and Sunday hours tend to be shorter" (MNAC, 2026-08-08)
+  // read as the list "closed Monday and Sunday" and flagged a post whose prose
+  // matched its fact box exactly, so the fixer had nothing to repair. Partial
+  // closures ("closed Sunday mornings") land here too, deliberately: the fact
+  // box only knows whole days, so a half-day claim cannot contradict it.
+  const SCOPE_SHIFT = `(?!\\s+(?:hours?|times?|schedules?|openings?|closings?|mornings?|afternoons?|evenings?|nights?|crowds?|visitors?|queues?|lines?|tickets?|entry|admission|prices?|rates?|brunch|lunch|dinner|traffic|services?)\\b)`;
   const claimsClosedOn = (d, text) => {
     const gap = `(?:(?!\\b(?:${DAY_ALT})\\b)[^.]){0,40}`;
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
@@ -145,14 +153,14 @@ export function hoursProblems(raw) {
     // another day name — correctly for most sentences, wrongly for a list. So
     // a run of day names joined by commas/and, directly after "closed", claims
     // every day in it.
-    if (new RegExp(`closed\\s+${ADV}(?:(?:${DAY_ALT})s?(?:,\\s*(?:and\\s+)?|\\s+and\\s+))*${d}s?\\b`, 'i').test(text)) return true;
+    if (new RegExp(`closed\\s+${ADV}(?:(?:${DAY_ALT})s?\\b${SCOPE_SHIFT}(?:,\\s*(?:and\\s+)?|\\s+and\\s+))*${d}s?\\b${SCOPE_SHIFT}`, 'i').test(text)) return true;
     // Strip every fully-stated "closed <days…>" claim about OTHER days, list
     // and all, so the leftover text cannot pair its "closed" with a day that
     // merely sits nearby in the same sentence.
     const closedThenOtherDay = new RegExp(
-      `closed\\s+${ADV}\\b(?:${DAY_ALT})s?\\b(?:(?:,\\s*(?:and\\s+)?|\\s+and\\s+)(?:${DAY_ALT})s?\\b)*`, 'gi');
+      `closed\\s+${ADV}\\b(?:${DAY_ALT})s?\\b(?:(?:,\\s*(?:and\\s+)?|\\s+and\\s+)(?:${DAY_ALT})s?\\b${SCOPE_SHIFT})*`, 'gi');
     const stripped = text.replace(closedThenOtherDay, ' ');
-    return new RegExp(`closed${gap}\\b${d}s?\\b|\\b${d}s?\\b${gap}closed`, 'i').test(stripped);
+    return new RegExp(`closed${gap}\\b${d}s?\\b${SCOPE_SHIFT}|\\b${d}s?\\b${SCOPE_SHIFT}${gap}closed`, 'i').test(stripped);
   };
 
   for (const d of DAYS) {
