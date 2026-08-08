@@ -34,7 +34,7 @@
   --gold: #b8862f;
 
   /* ---- Type ---- */
-  --font-display: 'Fraunces Variable', 'Fraunces', Georgia, serif;
+  --font-display: 'Fraunces Variable', 'Fraunces', 'Hahmlet Variable', 'Hahmlet', Georgia, serif;
   --font-body: 'Inter Variable', 'Inter', system-ui, -apple-system, sans-serif;
 
   /* ---- Shape ---- */
@@ -137,9 +137,9 @@ a { color: inherit; text-decoration: none; transition: color 0.15s ease; }
 
 h1, h2, h3, h4 {
   font-family: var(--font-display);
-  font-weight: 560;
-  line-height: 1.15;
-  letter-spacing: -0.01em;
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.018em;
   font-optical-sizing: auto;
 }
 
@@ -184,6 +184,31 @@ h1, h2, h3, h4 {
   background: color-mix(in srgb, var(--pine) 10%, transparent);
   padding: 0.28rem 0.6rem;
   border-radius: var(--r-pill);
+}
+
+/* ============================================================
+   Top strip — 신뢰 신호 + 5개 언어 (08-08)
+   언어 전환이 드롭다운에 숨어 있어 일본어 독자가 자기 언어를 찾기 어려웠다.
+   ============================================================ */
+.topbar { background: #262420; color: #ddd6c8; font-size: 0.76rem; line-height: 1.4; }
+.topbar .wrap { display: flex; align-items: center; justify-content: space-between;
+                gap: 1rem; min-height: 34px; padding-block: 0.3rem; }
+.topbar-fact { margin: 0; display: inline-flex; align-items: center; gap: 0.45rem; letter-spacing: 0.01em; }
+.topbar-dot { width: 6px; height: 6px; border-radius: 50%; background: #7fb069; flex: none; }
+.topbar-langs { display: flex; align-items: center; gap: 0.15rem; flex-wrap: wrap; }
+.topbar-readin { color: #9b9384; margin-right: 0.35rem; }
+.topbar-lang { display: inline-flex; align-items: center; min-height: 32px;
+               padding: 0.35rem 0.5rem; border-radius: 5px; font-size: 0.82rem;
+               color: #ddd6c8; white-space: nowrap; }
+.topbar-lang:hover { color: #fff; background: rgba(255,255,255,0.08); }
+.topbar-lang.is-active { color: #fff; font-weight: 700; background: rgba(255,255,255,0.12); }
+@media (max-width: 720px) {
+  /* 폰에서는 신뢰 문구를 접고 언어만 남긴다 — 줄바꿈으로 헤더가 밀리는 것을 막는다 */
+  .topbar-fact { display: none; }
+  .topbar .wrap { justify-content: center; }
+  /* 폰에서는 손가락으로 누른다 — WCAG 권장 44px 를 확보한다 */
+  .topbar-langs { gap: 0.05rem; }
+  .topbar-lang { min-height: 44px; padding: 0.5rem 0.55rem; font-size: 0.84rem; }
 }
 
 /* ============================================================
@@ -795,18 +820,38 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .cover-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .cover-scrim {
   position: absolute; inset: 0;
-  /* Darken ONLY the left column where the text sits and fade to fully clear by
-     the middle — so the right-hand photos keep their original brightness.
-     Combined with the text-shadows below, the headline stays crisp. */
+  /* 텍스트가 놓이는 왼쪽만 어둡게 하고 오른쪽 사진은 밝기를 지킨다.
+     제목 굵기를 780으로 올린 뒤(08-08) 두 번째 줄이 밝은 사진까지 뻗어 묻혀서
+     페이드 끝점을 66% → 84% 로 늘렸다. 사진 벽은 여전히 보인다. */
   background: linear-gradient(to right,
-    rgba(12,9,6,0.82) 0%, rgba(12,9,6,0.62) 22%, rgba(12,9,6,0.28) 42%, rgba(12,9,6,0.06) 56%, transparent 66%);
+    rgba(12,9,6,0.86) 0%, rgba(12,9,6,0.66) 26%, rgba(12,9,6,0.34) 46%,
+    rgba(12,9,6,0.1) 62%, transparent 74%);
+}
+/* 좁은 화면에서는 제목이 화면 폭을 거의 다 쓰므로 가로 페이드로는 오른쪽 끝 글자가
+   밝은 사진에 걸린다(08-08 모바일 확인). 폰에서는 전면을 고르게 덮는다. */
+@media (max-width: 768px) {
+  .cover-scrim {
+    background: linear-gradient(to right,
+      rgba(12,9,6,0.84) 0%, rgba(12,9,6,0.72) 55%, rgba(12,9,6,0.56) 100%);
+  }
 }
 .cover-sparkle { position: absolute; inset: 0; opacity: 0.45; mix-blend-mode: screen; pointer-events: none; }
 .cover-inner { position: relative; padding-bottom: clamp(2.5rem, 6vh, 5rem); padding-top: 4rem; color: #faf5ec; }
-.cover-inner h1 { font-family: var(--font-display); font-weight: 400; font-size: clamp(2.4rem, 5.5vw, 4.5rem); line-height: 1.04; letter-spacing: -0.01em; margin: 0.6rem 0 0.9rem; max-width: 17ch; color: #fff; text-shadow: 0 2px 24px rgba(0,0,0,0.6), 0 1px 2px rgba(0,0,0,0.45); }
+.cover-inner h1 { font-family: var(--font-display); font-weight: 800; font-size: clamp(2.7rem, 6.2vw, 5.1rem); line-height: 1.0; letter-spacing: -0.01em; margin: 0.6rem 0 0.9rem; max-width: 16ch; color: #fff; text-shadow: 0 2px 30px rgba(0,0,0,0.75), 0 1px 3px rgba(0,0,0,0.6); }
+/* CJK 한 글자는 라틴의 약 2배 폭이다. 같은 17ch 를 주면 한국어·일본어·중국어
+   제목만 훨씬 넓게 퍼져 사진의 밝은 쪽까지 뻗는다(08-08 ko/ja 실측: 오른끝 68%).
+   글자 폭에 맞춰 제한을 좁히고 크기도 한 단계 낮춘다 — 굵기는 그대로 유지. */
+html[lang^='ko'] .cover-inner h1,
+html[lang^='ja'] .cover-inner h1,
+html[lang^='zh'] .cover-inner h1 {
+  max-width: 12ch;
+  font-size: clamp(2.3rem, 5vw, 4.3rem);
+  line-height: 1.14;
+}
+
 /* Brighter, legible gold kicker + soft shadow so it reads over bright photos. */
 .cover-inner .kicker.gold { color: #f1c877; text-shadow: 0 1px 10px rgba(0,0,0,0.65), 0 1px 2px rgba(0,0,0,0.5); }
-.cover-dek { font-size: clamp(1rem, 1.4vw, 1.18rem); line-height: 1.6; max-width: 50ch; color: rgba(250,245,236,0.94); text-shadow: 0 1px 10px rgba(0,0,0,0.5); }
+.cover-dek { font-size: clamp(1rem, 1.4vw, 1.18rem); line-height: 1.6; max-width: 50ch; color: rgba(250,245,236,0.94); text-shadow: 0 1px 16px rgba(0,0,0,0.7); }
 .cover-cta { display: inline-flex; align-items: center; gap: 0.5rem; margin-top: 1.4rem; font-weight: 600; color: #fff; text-decoration: none; border-bottom: 2px solid var(--gold); padding-bottom: 3px; }
 .cover-cta .arw { transition: transform 0.15s ease; }
 .cover-cta:hover .arw { transform: translateX(4px); }
@@ -844,7 +889,7 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .story-thumb { aspect-ratio: 3/2; border-radius: var(--r-md); overflow: hidden; margin-bottom: 0.9rem; }
 .story-thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
 .story:hover .story-thumb img { transform: scale(1.05); }
-.story h3 { font-family: var(--font-display); font-weight: 450; font-size: 1.3rem; line-height: 1.25; margin: 0.35rem 0 0.4rem; }
+.story h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.3rem; line-height: 1.25; margin: 0.35rem 0 0.4rem; }
 .story:hover h3 { color: var(--accent); }
 .story-meta { font-size: 0.82rem; color: var(--muted); }
 
@@ -852,7 +897,7 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .spotlight { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
 .spotlight-media { aspect-ratio: 4/5; border-radius: var(--r-lg); overflow: hidden; }
 .spotlight-media img { width: 100%; height: 100%; object-fit: cover; }
-.spotlight-body h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(2rem, 3.5vw, 3rem); margin: 0.4rem 0 0.8rem; }
+.spotlight-body h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(2rem, 3.5vw, 3rem); margin: 0.4rem 0 0.8rem; }
 .spotlight-body p { color: var(--ink-soft); line-height: 1.7; max-width: 52ch; }
 .spotlight-links { display: flex; flex-wrap: wrap; gap: 0.5rem 1.1rem; margin: 1.2rem 0 1.6rem; }
 .spotlight-links a { font-size: 0.92rem; font-weight: 500; color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--line); }
@@ -880,7 +925,7 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 /* Band + trust */
 .section.band { background: var(--bg-tint); }
 .trust { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; text-align: center; }
-.trust h3 { font-family: var(--font-display); font-weight: 450; font-size: 1.2rem; margin-bottom: 0.4rem; }
+.trust h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.2rem; margin-bottom: 0.4rem; }
 .trust p { color: var(--muted); font-size: 0.92rem; line-height: 1.55; max-width: 34ch; margin: 0 auto; }
 
 /* Newsletter */
@@ -889,7 +934,7 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 /* On the vermilion band the gold kicker measured 2.43:1 and the dek 2.99:1 —
    the band is the one place the reader has just been asked for an email. */
 .nl-inner .kicker.gold { color: #ffffff; }
-.nl-inner h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(1.7rem, 3.2vw, 2.6rem); margin: 0.5rem 0 0.7rem; color: #fff; }
+.nl-inner h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.7rem, 3.2vw, 2.6rem); margin: 0.5rem 0 0.7rem; color: #fff; }
 .nl-dek { color: #ffffff; line-height: 1.6; }
 .nl-form { display: flex; gap: 0.6rem; margin: 1.6rem auto 0; max-width: 460px; }
 .nl-form input { flex: 1; min-width: 0; padding: 0.85rem 1rem; border-radius: var(--r-pill); border: none; font-size: 1rem; font-family: inherit; }
@@ -1061,7 +1106,7 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .tp-trust { display: flex; align-items: baseline; gap: 0.45rem; margin: 0 0 0.8rem; font-size: 0.92rem; color: var(--muted); }
 .tp-trust span { color: var(--accent, #c8443a); font-weight: 700; }
 .tp-flights-tips { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.4rem 2rem; margin-top: 2.2rem; }
-.tp-flights-tips h3 { font-family: var(--font-display); font-weight: 450; font-size: 1.12rem; margin-bottom: 0.35rem; }
+.tp-flights-tips h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.12rem; margin-bottom: 0.35rem; }
 .tp-flights-tips p { color: var(--muted); font-size: 0.92rem; line-height: 1.55; margin: 0; }
 .tp-disclosure { margin-top: 2rem; font-size: 0.82rem; color: var(--muted); line-height: 1.5; }
 .tp-hotels, .tp-tours { margin: 2.4rem 0; }
@@ -1146,14 +1191,17 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
    `lang` is the html attribute, and zh renders as "zh-Hans" → match on prefix. */
 html[lang^='ko'] {
   --font-body: 'Pretendard Variable', Pretendard, system-ui, sans-serif;
-  --font-display: 'Pretendard Variable', Pretendard, system-ui, sans-serif;
+  /* 제목만 명조(함렡) — 라틴의 Fraunces 와 같은 세리프 성격이라 언어가 바뀌어도
+     같은 브랜드로 읽힌다. 본문은 Pretendard 유지: 명조는 작은 글씨에서 획이 뭉갠다. */
+  --font-display: 'Hahmlet', 'Pretendard Variable', Pretendard, Georgia, serif;
 }
 html[lang^='ja'] {
   --font-body: 'Noto Sans JP', system-ui, sans-serif;
-  --font-display: 'Noto Sans JP', system-ui, sans-serif;
+  --font-display: 'Noto Serif JP', 'Noto Sans JP', Georgia, serif;
 }
 html[lang^='zh'] {
   --font-body: 'Noto Sans SC', system-ui, sans-serif;
+  --font-display: 'Noto Serif SC', 'Noto Sans SC', Georgia, serif;
   --font-display: 'Noto Sans SC', system-ui, sans-serif;
 }
 /* CJK display text needs a touch more weight/line-height than the Latin serif

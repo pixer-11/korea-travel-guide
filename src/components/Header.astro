@@ -5,7 +5,7 @@ import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
-import { getLangFromUrl, useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { getLangFromUrl, useTranslations, localizePath, languages, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import countriesData from '../../data/countries.json';
 import { orderedContinents, continentSlug, continentLabel } from '../lib/continents';
@@ -21,10 +21,38 @@ const live = countriesData.countries.filter((c) =>
 );
 const CONT_ORDER = orderedContinents();
 const contSlug = continentSlug;
+// 상단 스트립 — 일본어가 우리 최강 언어인데 언어 전환이 드롭다운 안에 숨어 있었다.
+// 5개 언어를 펼쳐 놓아 첫 화면에서 바로 자기 언어로 갈 수 있게 한다.
+const topLangs = (Object.keys(languages) as Lang[]).map((l) => ({
+  code: l,
+  name: languages[l],
+  href: availableLangs?.includes(l) ? localizePath(Astro.url.pathname, l) : (l === 'en' ? '/' : `/${l}/`),
+  active: l === lang,
+}));
+// 빌드 시각 = 사이트가 실제로 갱신된 날. 매일 자동 발행되므로 지어낸 값이 아니다.
+const builtOn = new Date().toLocaleDateString(
+  ({ en: 'en-GB', ko: 'ko-KR', ja: 'ja-JP', es: 'es-ES', zh: 'zh-CN' })[lang] ?? 'en-GB',
+  { year: 'numeric', month: 'short', day: 'numeric' }
+);
+
 const navGroups = CONT_ORDER
   .map((k) => ({ name: k, slug: contSlug(k), countries: live.filter((c) => (c.continent || 'Other') === k) }))
   .filter((g) => g.countries.length);
 ---
+
+<div class="topbar">
+  <div class="wrap">
+    <p class="topbar-fact"><span class="topbar-dot" aria-hidden="true"></span>{t('top.lastCheck')} · {builtOn}</p>
+    <nav class="topbar-langs" aria-label={t('lang.label')}>
+      <span class="topbar-readin">{t('top.readIn')}</span>
+      {topLangs.map((l) => (
+        <a href={l.href} lang={l.code} hreflang={l.code}
+           class:list={['topbar-lang', { 'is-active': l.active }]}
+           aria-current={l.active ? 'true' : undefined}>{l.name}</a>
+      ))}
+    </nav>
+  </div>
+</div>
 
 <header class="site-header">
   <div class="wrap">
