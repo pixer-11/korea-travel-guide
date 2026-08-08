@@ -24,10 +24,18 @@ const ML_ACTION = '/api/subscribe';
 ---
 <section id="newsletter" class:list={['newsletter', { 'newsletter-compact': compact }]}>
   <div class="wrap">
-    <div class="nl-inner">
-      <p class="kicker gold">{SITE.name} {t('home.newsletterKicker')}</p>
-      <h2>{heading ?? t('home.newsletterTitle')}</h2>
-      <p class="nl-dek">{dek ?? t('home.newsletterDek')}</p>
+    {/* 좌우 두 칸: 왼쪽은 '왜 구독하나', 오른쪽은 '무엇을 하면 되나'.
+        한 덩어리로 쌓여 있을 때는 카피와 입력칸이 서로를 밀어냈다. 폼을 밝은
+        판 위에 따로 올리면 어두운 배경에서 할 일이 바로 보인다. 좁은 화면에서는
+        한 칸으로 접힌다(아래 미디어쿼리). .nl-form 자체는 건드리지 않는다 —
+        팝업·일정 메일함이 같은 클래스를 쓴다. */}
+    <div class="nl-inner nl-split">
+      <div class="nl-copy">
+        <p class="kicker gold">{SITE.name} {t('home.newsletterKicker')}</p>
+        <h2>{heading ?? t('home.newsletterTitle')}</h2>
+        <p class="nl-dek">{dek ?? t('home.newsletterDek')}</p>
+      </div>
+      <div class="nl-card">
       <p class="nl-bonus"><Emoji name="wrapped-gift" /> {t('home.newsletterBonus')}</p>
       <form class="nl-form" data-ml-action={ML_ACTION} novalidate
         data-msg-ok={t('nl.msgOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
@@ -41,6 +49,7 @@ const ML_ACTION = '/api/subscribe';
         <button type="submit" class="btn btn-primary">{cta ?? t('home.subscribe')}</button>
       </form>
       <p class="nl-note" hidden aria-live="polite"></p>
+      </div>
     </div>
   </div>
 </section>

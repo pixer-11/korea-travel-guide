@@ -643,21 +643,32 @@ main { flex: 1; width: 100%; }
 /* ---- Essentials strip ---- */
 .essentials-strip {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
+@media (max-width: 1000px) { .essentials-strip { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 760px) { .essentials-strip { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 520px) { .essentials-strip { grid-template-columns: 1fr; } }
 .essential-card {
   display: flex;
-  gap: 0.9rem;
+  flex-direction: column;
+  gap: 0.7rem;
   align-items: flex-start;
-  padding: 1.3rem;
+  padding: clamp(0.95rem, 1.6vw, 1.2rem);
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--r-md);
   transition: transform 0.15s ease, border-color 0.15s ease;
 }
 .essential-card:hover { transform: translateY(-2px); border-color: var(--accent); }
-.essential-card .ico { font-size: 1.85rem; line-height: 1; flex: none; }
+/* 아이콘은 라인(Lucide)이라 그냥 두면 글자 사이에서 묻힌다. 은은한 판을 깔아
+   자리를 만들어 준다 — 색은 브랜드 하나로만, 카드마다 색을 바꾸면 산만해진다. */
+.essential-card .ico {
+  display: grid; place-items: center; flex: none;
+  width: 42px; height: 42px; border-radius: 12px;
+  background: var(--accent-soft); color: var(--accent-text);
+}
+.essential-card .ico .emoji { width: 21px; height: 21px; }
 .essential-card h3 { font-size: 1.1rem; margin-bottom: 0.2rem; }
 .essential-card p { color: var(--muted); font-size: 0.9rem; }
 
@@ -925,16 +936,62 @@ html[lang^='zh'] .cover-inner h1 {
 /* Band + trust */
 .section.band { background: var(--bg-tint); }
 .trust { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; text-align: center; }
+.trust { text-align: left; }
+.trust .ico {
+  display: grid; place-items: center; width: 38px; height: 38px; border-radius: 10px;
+  background: var(--accent-soft); color: var(--accent-text); margin-bottom: 0.75rem;
+}
+.trust .ico .emoji { width: 19px; height: 19px; }
 .trust h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.2rem; margin-bottom: 0.4rem; }
 .trust p { color: var(--muted); font-size: 0.92rem; line-height: 1.55; max-width: 34ch; margin: 0 auto; }
 
 /* Newsletter */
-.newsletter { background: var(--accent); color: #fff; padding: clamp(3rem, 7vh, 5.5rem) 0; }
-.nl-inner { max-width: 620px; margin: 0 auto; text-align: center; }
+.newsletter { background: transparent; color: var(--ink); padding: clamp(2rem, 5vh, 3.5rem) 0; }
+.nl-inner {
+  background: #5a3426;                 /* 딥 브라운 — 크림 바탕과 붙어도 튀지 않는다 */
+  color: #f7efe6;
+  border-radius: clamp(14px, 1.8vw, 26px);
+  padding: clamp(1.4rem, 3.2vw, 2.6rem);
+  text-align: left;
+}
 /* On the vermilion band the gold kicker measured 2.43:1 and the dek 2.99:1 —
    the band is the one place the reader has just been asked for an email. */
-.nl-inner .kicker.gold { color: #ffffff; }
-.nl-inner h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.7rem, 3.2vw, 2.6rem); margin: 0.5rem 0 0.7rem; color: #fff; }
+.nl-inner .kicker.gold { color: #e9c9a8; letter-spacing: 0.12em; }
+.nl-inner .nl-dek { color: rgba(247,239,230,0.86); }
+/* ── 위젯 ────────────────────────────────────────────────────────────────
+   페이지 폭을 가로지르는 색 띠 대신, 본문 폭 안에 얹히는 카드형 블록.
+   모서리·안쪽 여백을 여기 한 곳에서만 정하므로 위젯이 늘어나도 모양이 갈리지 않는다.
+   가로폭은 clamp 로 화면 크기를 따라가고, 좁아지면 아래 미디어쿼리가 한 칸으로 접는다. */
+.widget {
+  border-radius: clamp(14px, 1.8vw, 26px);
+  padding: clamp(1.4rem, 3.2vw, 2.6rem);
+}
+
+/* 필수 정보 — 왼쪽에 '왜 봐야 하나', 오른쪽에 여섯 칸 */
+.essentials-widget {
+  background: var(--surface-2);
+  display: grid;
+  grid-template-columns: minmax(0, 0.82fr) minmax(0, 1.18fr);
+  gap: clamp(1.3rem, 3vw, 2.4rem);
+  align-items: center;
+}
+.ess-copy { min-width: 0; }
+.ess-copy h2 { font-size: clamp(1.5rem, 2.5vw, 2.05rem); margin: 0.45rem 0 0.6rem; }
+.ess-dek { color: var(--muted); font-size: 0.95rem; line-height: 1.6; margin: 0; }
+@media (max-width: 1000px) {
+  .essentials-widget { grid-template-columns: 1fr; }
+}
+
+/* 뉴스레터 두 칸 배치 (08-08). 왼쪽 카피 / 오른쪽 입력 카드. */
+.nl-split { display: grid; grid-template-columns: 1.25fr 0.75fr; gap: 2.4rem; align-items: center; text-align: left; }
+.nl-copy { min-width: 0; }
+.nl-card { background: #fbf6ee; border-radius: 16px; padding: 1.5rem 1.6rem; align-self: stretch;
+           display: flex; flex-direction: column; justify-content: center; }
+.nl-card .nl-bonus { margin: 0 0 0.9rem; color: var(--ink); font-weight: 600; display: flex; align-items: center; gap: 0.5rem; }
+@media (max-width: 860px) {
+  .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
+}
+.nl-inner h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.6rem, 2.6vw, 2.15rem); margin: 0.5rem 0 0.7rem; color: #fff; }
 .nl-dek { color: #ffffff; line-height: 1.6; }
 .nl-form { display: flex; gap: 0.6rem; margin: 1.6rem auto 0; max-width: 460px; }
 .nl-form input { flex: 1; min-width: 0; padding: 0.85rem 1rem; border-radius: var(--r-pill); border: none; font-size: 1rem; font-family: inherit; }
@@ -1296,3 +1353,41 @@ main:focus { outline: none; }
 }
 :root[data-theme='dark'] .nl-form .btn-primary { background: #fff; color: #a5352c; }
 :root[data-theme='dark'] .nl-form .btn-primary:hover { background: #f4d9a8; color: #a5352c; }
+
+/* ── 위젯 안 뉴스레터 폼 (08-08) ─────────────────────────────────────────────
+   .nl-form 은 버밀리언 띠 위를 전제로 만들어졌다 — 입력칸은 테두리가 없고
+   버튼은 흰 배경에 붉은 글자로 '반전'되어 있다. 띠를 밝은 카드로 바꾸자
+   흰 입력칸이 흰 판에 묻히고 흰 버튼도 사라졌다(픽서 지적).
+   .nl-form 원본은 그대로 둔다 — 팝업과 일정 메일함이 같은 클래스를 쓴다.
+   여기서는 .nl-card 안쪽만 되돌린다. 다크 테마 규칙이 뒤에서 버튼을 다시
+   희게 칠하므로, 같은 명시도로 더 뒤에 적어 이긴다. */
+.nl-card .nl-form { margin: 0; max-width: none; }
+.nl-card .nl-form input {
+  background: #fff;
+  border: 1.5px solid var(--line-strong);
+  color: var(--ink);
+}
+.nl-card .nl-form input::placeholder { color: var(--muted); }
+.nl-card .nl-form input:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent);
+}
+.nl-card .nl-form .btn-primary { background: var(--accent); color: #fff; }
+.nl-card .nl-form .btn-primary:hover { background: var(--accent-deep); color: #fff; }
+.nl-card .nl-note { color: var(--ink-soft); }
+.nl-card .nl-note-ok { color: #2f7a52; }
+.nl-card .nl-note-ok a { color: var(--accent-text); }
+.nl-card .nl-note-err { color: var(--accent-text); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .nl-card .nl-form .btn-primary { background: var(--accent); color: #fff; }
+  :root:not([data-theme='light']) .nl-card .nl-form input { background: #fff; color: #201c17; }
+}
+:root[data-theme='dark'] .nl-card .nl-form .btn-primary { background: var(--accent); color: #fff; }
+:root[data-theme='dark'] .nl-card .nl-form input { background: #fff; color: #201c17; }
+
+/* ── 아이콘 파스텔 (08-08) ──────────────────────────────────────────────────
+   판 색을 아이콘 색의 13% 로 섞어 만든다. 색을 두 번 적지 않으니 어긋날 일이
+   없고, 다크 테마에서도 같은 식으로 어두워져 따로 손댈 필요가 없다. */
+.essential-card .ico, .trust .ico { background: color-mix(in srgb, currentColor 13%, transparent); }
+.essential-card:nth-child(3n+1) .ico, .trust div:nth-child(3n+1) .ico { color: var(--accent-text); }
+.essential-card:nth-child(3n+2) .ico, .trust div:nth-child(3n+2) .ico { color: #4d7a4a; }
+.essential-card:nth-child(3n+3) .ico, .trust div:nth-child(3n+3) .ico { color: #8a6a35; }

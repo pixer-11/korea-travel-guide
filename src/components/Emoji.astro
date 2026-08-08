@@ -1,39 +1,35 @@
 ---
-// Inline a FULL-COLOR emoji (Microsoft Fluent Emoji Flat) directly from
-// @iconify-json/fluent-emoji-flat. Keeps the colourful emoji look the site had
-// before, but renders identically on every OS (native emoji fonts differ per
-// platform — e.g. flags broke to "KR" text on Windows). No astro-icon <use>
-// sprite (Chrome paint bug). The bodies carry their own colours + gradients, so
-// we DON'T force currentColor; we namespace internal ids per instance so repeated
-// emoji on one page don't collide on gradient/clip ids.
-// Every emoji sits next to a visible text label → decorative → aria-hidden.
-// Imports a TINY pre-extracted subset (scripts/build-emoji-data.mjs), not the
-// full 8.6 MB @iconify-json/fluent-emoji-flat set — loading the whole set OOM'd
-// the Cloudflare build. Re-run that script when adding a new <Emoji name="…"/>.
-import emojiData from '../data/emoji-flat.json';
+// 라인 아이콘(Lucide)을 인라인으로 그린다.
+//
+// 2026-08-08 까지는 Microsoft Fluent Emoji Flat(full-colour)을 썼다. OS 마다
+// 모양이 달라지는 문제는 해결했지만 색이 제각각이라 편집 톤과 겉돌았고,
+// 카드마다 다른 색 이모지가 시선을 흩뜨렸다. 라인 아이콘은 currentColor 를
+// 따라가므로 어디에 놓든 그 자리의 글자색과 같은 무게로 읽힌다.
+//
+// 호출부는 그대로다 — <Emoji name="airplane" /> 처럼 예전 이름을 쓰면
+// scripts/build-icon-data.mjs 의 MAP 이 Lucide 이름으로 옮겨준다. 새 아이콘을
+// 추가할 때는 그 MAP 에 한 줄 넣고 스크립트를 다시 돌린다(전체 1,834개를
+// 번들에 넣으면 Cloudflare 빌드가 메모리를 넘긴다).
+//
+// 아이콘 옆에는 항상 보이는 글자 라벨이 있다 → 장식 → aria-hidden.
+import iconData from '../data/icons-line.json';
 
-interface Props { name: string; size?: string | number; class?: string }
-const { name, size = '1em', class: cls } = Astro.props;
+interface Props { name: string; size?: string | number; class?: string; stroke?: number }
+const { name, size = '1em', class: cls, stroke = 2.1 } = Astro.props;
 
 const key = name?.includes(':') ? name.split(':').pop()! : name;
-const icons = emojiData.icons as Record<string, { body: string; width?: number; height?: number }>;
+const icons = iconData.icons as Record<string, { body: string; width?: number; height?: number }>;
 const icon = icons[key];
-const w = icon?.width ?? emojiData.width ?? 32;
-const h = icon?.height ?? emojiData.height ?? 32;
-
-let body = icon?.body ?? '';
-if (body) {
-  const uid = Math.random().toString(36).slice(2, 8);
-  const ids = [...body.matchAll(/id="([^"]+)"/g)].map((m) => m[1]);
-  for (const id of ids) {
-    const nid = `${id}_${uid}`;
-    body = body
-      .split(`id="${id}"`).join(`id="${nid}"`)
-      .split(`"#${id}"`).join(`"#${nid}"`)  // href="#id"
-      .split(`#${id})`).join(`#${nid})`);   // url(#id)
-  }
-}
+const w = icon?.width ?? iconData.width ?? 24;
+const h = icon?.height ?? iconData.height ?? 24;
 ---
+
 {icon && (
-  <svg width={size} height={size} viewBox={`0 0 ${w} ${h}`} class:list={['emoji', cls]} aria-hidden="true" set:html={body} />
+  <svg
+    width={size} height={size} viewBox={`0 0 ${w} ${h}`}
+    class:list={['emoji', 'ico-line', cls]}
+    fill="none" stroke="currentColor" stroke-width={stroke}
+    stroke-linecap="round" stroke-linejoin="round"
+    aria-hidden="true" set:html={icon.body}
+  />
 )}
