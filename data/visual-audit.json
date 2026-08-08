@@ -8734,5 +8734,110 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Shows Verona Arena exterior with event crowd, red carpet",
   "at": "2026-08-07T13:05:33.383Z"
+ },
+ "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bangkok-the-grand-palace",
+  "verdict": "MATCH",
+  "reason": "Thai temple architecture, Bangkok sunset setting",
+  "reasonKo": "방콕의 태국 사원 건축, 석양",
+  "at": "2026-08-08T01:47:08.336Z"
+ },
+ "chiang-rai-khao-soi-restaurant\u0001https://fastly.4sqi.net/img/general/original/41366177_IEUfvo8n0H-gRSCr-bNlkQjLXNrEGobw7ck8QWIf9io.jpg": {
+  "slug": "chiang-rai-khao-soi-restaurant",
+  "verdict": "WEAK",
+  "reason": "Generic outdoor dining, no distinctive Khao Soi elements vis",
+  "reasonKo": "카오소이 특징 없는 일반적 야외 식당",
+  "at": "2026-08-08T01:47:10.644Z"
+ },
+ "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
+  "slug": "chinatown-my-awesome-cafe",
+  "verdict": "WEAK",
+  "reason": "Generic beverage, could be anywhere, no venue identification",
+  "reasonKo": "일반적인 음료, 장소 특정 불가",
+  "at": "2026-08-08T01:47:12.353Z"
+ },
+ "clarke-quay-malayan-settlement\u0001https://fastly.4sqi.net/img/general/original/3275092_GpW_TTLMW5LzAWU5CLqVR_lnuRzFRna6JUS_D46S3hc.jpg": {
+  "slug": "clarke-quay-malayan-settlement",
+  "verdict": "MATCH",
+  "reason": "Fine dining meat dish with Asian plating style",
+  "reasonKo": "아시아식 고급 요리 플레이팅",
+  "at": "2026-08-08T01:47:14.142Z"
+ },
+ "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
+  "slug": "guangzhou-huacheng-square",
+  "verdict": "MATCH",
+  "reason": "Modern tower in Guangzhou urban skyline at night",
+  "reasonKo": "광저우 야경의 현대 고층 빌딩",
+  "at": "2026-08-08T01:47:16.160Z"
+ },
+ "gyeongju-seokguram\u0001https://fastly.4sqi.net/img/general/original/24232909_LZBIl9deJSX_fVEiqUJDjONTLVOcrRAufG67zE_15tU.jpg": {
+  "slug": "gyeongju-seokguram",
+  "verdict": "MISMATCH",
+  "reason": "Shows temple building, not Seokguram grotto",
+  "reasonKo": "석굴암이 아닌 사찰 건물",
+  "at": "2026-08-08T01:47:18.402Z"
+ },
+ "hiroshima-hiroshima-breakfast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/3840px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "hiroshima-hiroshima-breakfast",
+  "verdict": "WEAK",
+  "reason": "Generic Western breakfast, not distinctly Hiroshima",
+  "reasonKo": "히로시마 특색 없는 일반적 서양식 아침",
+  "at": "2026-08-08T01:47:20.625Z"
+ },
+ "jakarta-social-house-grand-indonesia\u0001https://fastly.4sqi.net/img/general/original/48406723_Hje7WFQ-kSjgm2-FdRaDzVLXawED8VT6YrfH76WsuXI.jpg": {
+  "slug": "jakarta-social-house-grand-indonesia",
+  "verdict": "MATCH",
+  "reason": "Multiple dishes with Social House branding visible",
+  "reasonKo": "소셜하우스 브랜딩과 음식 사진",
+  "at": "2026-08-08T01:47:22.610Z"
+ },
+ "los-angeles-eggslut\u0001https://fastly.4sqi.net/img/general/original/11243558_G4Ur9T4ffsfYS2DmuoZrAb-OYiTvfJ5CDUklsE8ny04.jpg": {
+  "slug": "los-angeles-eggslut",
+  "verdict": "MATCH",
+  "reason": "Eggslut branded bags with egg dishes, outdoor seating",
+  "reasonKo": "에그슬럿 브랜드 가방, 계란 요리, 실외 좌석",
+  "at": "2026-08-08T01:47:25.283Z"
+ },
+ "new-orleans-french-quarter\u0001https://fastly.4sqi.net/img/general/original/66774434_LE0jVXaG65Z22TIZ8C0-ZQP5lC54nXjqGWXx55KNwtM.jpg": {
+  "slug": "new-orleans-french-quarter",
+  "verdict": "MATCH",
+  "reason": "Festive New Orleans passage with period architecture",
+  "reasonKo": "뉘앙스 있는 뉴올리언스 통로, 클래식 아키텍처",
+  "at": "2026-08-08T01:47:28.873Z"
+ },
+ "rome-luna\u0001https://fastly.4sqi.net/img/general/original/14124065_Xdx1YDZ9MomSxP7GOHmARcC4TXfn0p4LlUgZS8DSPrw.jpg": {
+  "slug": "rome-luna",
+  "verdict": "WEAK",
+  "reason": "Breakfast food generic; no distinctive Rome markers",
+  "reasonKo": "로마의 특징 없는 일반적인 아침식사",
+  "at": "2026-08-08T01:47:30.789Z"
+ },
+ "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/240315_N497EqrAslwkJwcQ4IpuOL2G_2k7u48KLWayFI-sDks.jpg": {
+  "slug": "san-francisco-the-happy-crane",
+  "verdict": "WEAK",
+  "reason": "Modern interior, but no food/dining visible",
+  "reasonKo": "현대적 인테리어, 음식 없음",
+  "at": "2026-08-08T01:47:32.452Z"
+ },
+ "singapore-milli\u0001https://fastly.4sqi.net/img/general/original/2846870_KUhZlbZqM1Qllm8uz_Mxvrnfhh_aayFPdaICKQ_gYJQ.jpg": {
+  "slug": "singapore-milli",
+  "verdict": "WEAK",
+  "reason": "Cocktail setup, plausibly trendy venue but generic",
+  "reasonKo": "칵테일 설정, 일반적인 바",
+  "at": "2026-08-08T01:47:34.109Z"
+ },
+ "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
+  "slug": "surabaya-black-owl-surabaya",
+  "verdict": "MATCH",
+  "reason": "Upscale restaurant interior with signature cocktail presenta",
+  "reasonKo": "고급 레스토랑 칵테일 서빙",
+  "at": "2026-08-08T01:47:36.947Z"
+ },
+ "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "tainan-anping-old-street",
+  "verdict": "MATCH",
+  "reason": "Historic Taiwanese building, Anping architectural style evid",
+  "reasonKo": "안평 역사 건축물, 대만식 양식",
+  "at": "2026-08-08T01:47:38.782Z"
  }
 }

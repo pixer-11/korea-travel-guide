@@ -62,6 +62,7 @@ faq:
   - q: Can I go inside and touch the Buddha statue?
     a: No — a protective glass barrier separates visitors from the sculpture, installed to prevent humidity and touch damage, so you view it from just outside the chamber.
 aiGenerated: true
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
