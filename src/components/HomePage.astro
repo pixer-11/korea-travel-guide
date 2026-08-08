@@ -315,45 +315,43 @@ const fmtEventDates = (p: any) => {
     </div>
   </section>
 
-  {/* Crowd-tool promotion — the design mock wanted a MONTHLY crowd calendar
-      here, but the only crowd data this site owns is HOURLY (BestTime, clamped
-      to opening hours); month-level claims would be invented, and the
-      month-level pages we do have (when-to-go) measured zero clicks. So the
-      band sells what is real: the same place, two hours apart — and sends
-      readers to the tool that holds the measurements (also the site's
-      citation asset for backlinks). */}
-  {itins.length >= 3 && (
+  {/* The two tool promotions share ONE section as a two-column duo — they
+      started as separate stacked sections and the owner flagged the home
+      page's density (10 sections). Itineraries left, crowd data right. The
+      crowd card replaces the mock's MONTHLY calendar: the only crowd data
+      this site owns is HOURLY (BestTime, clamped to opening hours) —
+      month-level claims would be invented, and the month-level pages we do
+      have (when-to-go) measured zero clicks. The tool it links doubles as
+      the site's citation asset for backlinks. */}
+  {(itins.length >= 3 || busynessCount >= 100) && (
     <section class="section">
       <div class="wrap">
-        <div class="widget itin-band">
-          <div>
-            <p class="kicker gold">{t('home.itin.kicker')}</p>
-            <h2>{t('home.itin.title')}</h2>
-            <p class="ess-dek">{t('home.itin.dek')}</p>
-          </div>
-          <div class="itin-chips">
-            {itins.map((it) => (
-              <a class="btn" href={localizePath(`/itinerary/${it.id}`, lang)}>
-                {t('home.itin.chip').replace('{city}', localizePlace(it.data.city, lang)).replace('{d}', String(it.data.days))}
-              </a>
-            ))}
-            <a class="btn btn-primary" href={localizePath('/itinerary', lang)}>{t('home.itin.all')}</a>
-          </div>
-        </div>
-      </div>
-    </section>
-  )}
-
-  {busynessCount >= 100 && (
-    <section class="section">
-      <div class="wrap">
-        <div class="widget crowd-band">
-          <div>
-            <p class="kicker gold">{t('home.crowd.kicker')}</p>
-            <h2>{t('home.crowd.title')}</h2>
-            <p class="ess-dek">{t('home.crowd.dek').replace('{n}', String(busynessCount))}</p>
-          </div>
-          <a class="btn btn-primary" href={localizePath('/tools/best-time', lang)}>{t('home.crowd.cta')}</a>
+        <div class="tools-duo">
+          {itins.length >= 3 && (
+            <div class="widget tool-card">
+              <p class="kicker gold">{t('home.itin.kicker')}</p>
+              <h2>{t('home.itin.title')}</h2>
+              <p class="ess-dek">{t('home.itin.dek')}</p>
+              <div class="itin-chips">
+                {itins.map((it) => (
+                  <a class="btn" href={localizePath(`/itinerary/${it.id}`, lang)}>
+                    {t('home.itin.chip').replace('{city}', localizePlace(it.data.city, lang)).replace('{d}', String(it.data.days))}
+                  </a>
+                ))}
+                <a class="btn btn-primary" href={localizePath('/itinerary', lang)}>{t('home.itin.all')}</a>
+              </div>
+            </div>
+          )}
+          {busynessCount >= 100 && (
+            <div class="widget tool-card">
+              <p class="kicker gold">{t('home.crowd.kicker')}</p>
+              <h2>{t('home.crowd.title')}</h2>
+              <p class="ess-dek">{t('home.crowd.dek').replace('{n}', String(busynessCount))}</p>
+              <div class="tool-card-cta">
+                <a class="btn btn-primary" href={localizePath('/tools/best-time', lang)}>{t('home.crowd.cta')}</a>
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </section>

@@ -203,11 +203,13 @@ h1, h2, h3, h4 {
 .topbar-lang:hover { color: #fff; background: rgba(255,255,255,0.08); }
 .topbar-lang.is-active { color: #fff; font-weight: 700; background: rgba(255,255,255,0.12); }
 @media (max-width: 720px) {
-  /* 폰에서는 신뢰 문구를 접고 언어만 남긴다 — 줄바꿈으로 헤더가 밀리는 것을 막는다 */
-  .topbar-fact { display: none; }
-  .topbar .wrap { justify-content: center; }
+  /* 폰에서는 두 줄로 쌓는다 — 신뢰 문구("실시간 데이터로 사실 확인")는 이
+     사이트의 정체성 카피라서 접지 않는다(2026-08-08, 픽서 지적: 모바일에만
+     문구가 없었다). 위에 문구, 아래에 언어 5종. */
+  .topbar .wrap { flex-direction: column; align-items: center; gap: 0; padding-top: 0.35rem; }
+  .topbar-fact { font-size: 0.7rem; }
   /* 폰에서는 손가락으로 누른다 — WCAG 권장 44px 를 확보한다 */
-  .topbar-langs { gap: 0.05rem; }
+  .topbar-langs { gap: 0.05rem; justify-content: center; }
   .topbar-lang { min-height: 44px; padding: 0.5rem 0.55rem; font-size: 0.84rem; }
 }
 
@@ -908,19 +910,17 @@ html[lang^='zh'] .cover-inner h1 {
    credential, not a shout. */
 .story-meta.editor-traveled { color: var(--accent); font-weight: 600; margin-top: 0.15rem; }
 
-/* Crowd-tool promotion band (home): copy left, one CTA right; stacks on
-   narrow screens like every other widget. */
-.crowd-band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; }
-.crowd-band h2 { margin: 0.2rem 0 0.45rem; }
-.crowd-band .ess-dek { margin: 0; max-width: 56ch; }
-.crowd-band .btn { flex: none; }
-
-/* Itinerary band (home): copy left, the REAL course chips right — the chip
-   list grows by itself as build-itineraries adds cities. */
-.itin-band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; }
-.itin-band h2 { margin: 0.2rem 0 0.45rem; }
-.itin-band .ess-dek { margin: 0; max-width: 52ch; }
-.itin-chips { display: flex; flex-wrap: wrap; gap: 0.55rem; align-items: center; max-width: 30rem; }
+/* Home tool duo: itineraries + crowd data in one section, two equal cards
+   (a single card would have doubled the section count the owner flagged).
+   Cards get the widget surface like essentials-widget so they read as cards,
+   not floating text. */
+.tools-duo { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: stretch; }
+.tool-card { display: flex; flex-direction: column; align-items: flex-start; background: var(--surface-2); }
+.tool-card h2 { margin: 0.2rem 0 0.45rem; font-size: clamp(1.25rem, 2.4vw, 1.6rem); }
+.tool-card .ess-dek { margin: 0 0 0.9rem; }
+.itin-chips { display: flex; flex-wrap: wrap; gap: 0.55rem; align-items: center; margin-top: auto; }
+.tool-card-cta { margin-top: auto; }
+@media (max-width: 760px) { .tools-duo { grid-template-columns: 1fr; } }
 
 /* Spotlight */
 .spotlight { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
@@ -1276,8 +1276,10 @@ html[lang^='ja'] {
 }
 html[lang^='zh'] {
   --font-body: 'Noto Sans SC', system-ui, sans-serif;
+  /* One declaration only. A duplicate sans line below this used to win the
+     cascade, so zh headings rendered gothic while the page downloaded the
+     serif font it never used (design audit, 2026-08-08). */
   --font-display: 'Noto Serif SC', 'Noto Sans SC', Georgia, serif;
-  --font-display: 'Noto Sans SC', system-ui, sans-serif;
 }
 /* CJK display text needs a touch more weight/line-height than the Latin serif
    it replaces, or big headings look thin and cramped. */

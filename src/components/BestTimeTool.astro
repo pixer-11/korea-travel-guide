@@ -214,9 +214,9 @@ const jsonLd = {
       <div class="meta">
         <p id="count" class="count">{t('tool.places').replace('{n}', String(index.length))}</p>
         <div class="legend">
-          <span><i style="background:linear-gradient(180deg,#4bb37c,#2f7d55)"></i> {t('tool.quiet')}</span>
-          <span><i style="background:var(--line)"></i> {t('tool.normal')}</span>
-          <span><i style="background:linear-gradient(180deg,#e39a9a,#c8443a)"></i> {t('tool.busy')}</span>
+          <span><i class="sw-quiet"></i> {t('tool.quiet')}</span>
+          <span><i class="sw-mid"></i> {t('tool.normal')}</span>
+          <span><i class="sw-busy"></i> {t('tool.busy')}</span>
         </div>
       </div>
       {/* The page ran h1 straight into 157 h3 cards with no h2 anywhere — the
@@ -234,7 +234,7 @@ const jsonLd = {
           <a class="card" href={d.u} data-c={d.c} data-r={d.r} data-cat={d.cat}>
             <div class="photo" data-bg={d.b || undefined}>
               <span class="badge">{strings.cat[d.cat as keyof typeof strings.cat] || d.cat} · {d.r}</span>
-              {d.quietLabel && <span class="chip">🟢 {d.quietLabel} {t('tool.quiet')}</span>}
+              {d.quietLabel && <span class="chip">{d.quietLabel} {t('tool.quiet')}</span>}
             </div>
             <div class="body">
               <h3>{d.t}</h3>
@@ -384,6 +384,14 @@ const jsonLd = {
     .tool .legend { display: flex; gap: 0.9rem; font-size: 0.72rem; color: var(--muted); }
     .tool .legend span { display: inline-flex; align-items: center; gap: 0.3rem; }
     .tool .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+    /* Swatches reuse the exact bar-cell colours (was inline hex — the one
+       un-tokenized spot the 2026-08-08 design audit found on this page). */
+    .tool .legend i.sw-quiet { background: linear-gradient(180deg, #45ad76, #26714b); }
+    .tool .legend i.sw-mid { background: var(--line); }
+    .tool .legend i.sw-busy { background: linear-gradient(180deg, #dd8b8b, #bd382e); }
+    /* The green dot the chip used to carry as a 🟢 emoji, now a CSS dot that
+       matches the quiet colour in both themes. */
+    .tool .chip::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: linear-gradient(180deg, #45ad76, #26714b); display: inline-block; margin-right: 0.4rem; vertical-align: baseline; }
 
     .tool .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
     .tool .card { position: relative; overflow: hidden; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
@@ -428,6 +436,9 @@ const jsonLd = {
       .tool .bar i, .tool .bar i.mid { background: #3a3328; border-color: #6f6659; }
       .tool .bar i.quiet { background: linear-gradient(180deg, #4bb37c, #2f7d55); }
       .tool .bar i.busy { background: linear-gradient(180deg, #e39a9a, #c8443a); }
+      .tool .legend i.sw-quiet, .tool .chip::before { background: linear-gradient(180deg, #4bb37c, #2f7d55); }
+      .tool .legend i.sw-busy { background: linear-gradient(180deg, #e39a9a, #c8443a); }
+      .tool .legend i.sw-mid { background: #3a3328; }
     }
 
     .tool .foot { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; max-width: 62ch; line-height: 1.6; }

@@ -39,6 +39,10 @@ export const MAP = {
   'passport-control': 'file-check',
   'credit-card': 'wallet',
   'chart-increasing': 'trending-up',
+  // 2026-08-08 design audit: the last two dingbat/emoji characters in UI
+  // chrome — the post lightbox's ✕ and the itinerary rain callout's ☂.
+  close: 'x',
+  umbrella: 'umbrella',
 };
 
 const set = require('@iconify-json/lucide/icons.json');

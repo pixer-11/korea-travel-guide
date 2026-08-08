@@ -471,7 +471,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
         <div class="itin-day-footer">
           {day.rainPost && (
             <p class="itin-rain">
-              ☂ {t('itin.ifItRains').replace('{title}', '')}
+              <Emoji name="umbrella" class="nav-ico" /> {t('itin.ifItRains').replace('{title}', '')}
               <a href={postHref(day.rainPost.id)}>{postTitleFor(day.rainPost)}</a>
               {day.rainWhy && <span class="itin-rain-why"> — {day.rainWhy}</span>}
             </p>

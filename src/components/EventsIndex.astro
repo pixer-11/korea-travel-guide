@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
+import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
@@ -100,7 +101,7 @@ const jsonLd = {
         </p>
       )}
       <p class="cal-sub">
-        <a class="btn btn-ghost" href="/events.ics">📅 {t('ev.addToCalendar')}</a>
+        <a class="btn btn-ghost" href="/events.ics"><Emoji name="spiral-calendar" class="nav-ico" /> {t('ev.addToCalendar')}</a>
         <span class="cal-hint">{t('ev.addToCalendarHint')}</span>
       </p>
     </div>

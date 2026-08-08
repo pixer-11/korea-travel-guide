@@ -3,7 +3,6 @@ import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
 import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
-import LanguageSwitcher from './LanguageSwitcher.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, localizePath, languages, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -121,7 +120,12 @@ const navGroups = CONT_ORDER
       <a href={localizePath('/events', lang)}><Emoji name="admission-tickets" class="nav-ico" /> {t('nav.events')}</a>
       <a href={localizePath('/flights', lang)}><Emoji name="airplane" class="nav-ico" /> {t('nav.flights')}</a>
       <a href={localizePath('/about', lang)}><Emoji name="compass" class="nav-ico" /> {t('nav.about')}</a>
-      <LanguageSwitcher availableLangs={availableLangs} />
+      {/* The language dropdown lived here until 2026-08-08. The topbar strip
+          above the header now shows all five languages on every viewport
+          (44px touch targets on phones), so a second selector in the nav was
+          pure duplication — the owner called it. hreflang links in <head>
+          still carry the SEO signal; LanguageSwitcher.astro stays in the tree
+          for any future surface that has no topbar. */}
     </nav>
   </div>
 </header>

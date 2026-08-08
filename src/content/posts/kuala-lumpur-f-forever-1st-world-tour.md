@@ -12,7 +12,7 @@ gallery: []
 tags:
   - kuala lumpur
   - event
-quickAnswer: F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou (of F4 fame) with Mayday's Ashin — brings its 1st World Tour to Axiata Arena, Bukit Jalil, Kuala Lumpur on August 7, 2026. Buy tickets only through the official promoter/ticketing partner once announced, and confirm gate times and any support acts closer to the date, since those details typically firm up a few weeks out.
+quickAnswer: F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou (of F4 fame) with Mayday's Ashin — brought its 1st World Tour to Axiata Arena, Bukit Jalil, Kuala Lumpur on August 7, 2026. If further dates are added, buy tickets only through the official promoter or ticketing partner.
 faq:
   - q: When exactly is the F✦FOREVER concert in Kuala Lumpur?
     a: The date is announced as August 7, 2026, at Axiata Arena, Bukit Jalil. Always double-check the official tour page in case of rescheduling.

@@ -53,7 +53,7 @@ Byrne's live sets typically run without a traditional band setup — his past to
 
 ## Practical details to confirm before you go
 
-Ticket prices, exact doors/showtime, and seating chart specifics have not been fixed here and vary by resale platform and ticket tier — always check the official tour page or The Star Performing Arts Centre's box office site for the confirmed schedule and pricing before purchasing. Given demand for Byrne's shows historically, tickets for a single Singapore date are likely to move quickly once released, so following official channels for on-sale alerts is worthwhile.
+Ticket prices, doors and seating specifics varied by ticket tier and platform — the official tour page and The Star Performing Arts Centre's box office site carried the confirmed schedule and pricing. Given demand for Byrne's shows historically, the single Singapore date was expected to sell through quickly; for any future dates, those same official channels are the place to watch.
 
 ## How to visit like a local
 
