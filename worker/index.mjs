@@ -425,6 +425,17 @@ export default {
       // href, so what actually ships is /go/klook/?to=… — matching only the
       // slashless form would have sent all 8,706 affiliate links to the 404
       // handler (caught in the build, 2026-08-06).
+      // Self-hosted OG share images, mirrored to R2 by mirror-og-images.mjs.
+      // The binding is optional: until R2 is enabled and the bucket bound in
+      // wrangler.jsonc, env.OG_IMAGES is undefined and nothing links here
+      // (BaseLayout only emits /og/ URLs for mirrored heroes).
+      if (pathname.startsWith('/og/') && env.OG_IMAGES) {
+        const obj = await env.OG_IMAGES.get(pathname.slice(4));
+        if (!obj) return new Response('not found', { status: 404 });
+        return new Response(obj.body, {
+          headers: { 'content-type': 'image/webp', 'cache-control': 'public, max-age=31536000, immutable' },
+        });
+      }
       if (pathname === '/go/klook' || pathname === '/go/klook/') return await handleKlookGo(request);
       if (pathname === '/preferences' || pathname === '/preferences/') return await handlePreferences(request, env);
       if (pathname === '/tg' && request.method === 'POST') return await handleTelegram(request, env);

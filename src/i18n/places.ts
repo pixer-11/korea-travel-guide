@@ -13,3 +13,17 @@ export function localizePlace(name: string | undefined | null, lang: Lang): stri
   if (!n || lang === defaultLang) return n;
   return TABLE[n]?.[lang] || n;
 }
+
+// Venue (attraction) names for UI surfaces that print one outside a translated
+// article — the home's crowd demo showed "Nara Park" in Latin on the ko page
+// because localizePlace only knows regions/countries. Built from the demo
+// pool by scripts/translate-venue-names.mjs; conventional exonyms only, so a
+// missing language falls back to the original name on purpose.
+import venueNames from './venue-names.json';
+const VENUES = venueNames as Record<string, Partial<Record<Lang, string>>>;
+
+export function localizeVenue(name: string | undefined | null, lang: Lang): string {
+  const n = (name ?? '').trim();
+  if (!n || lang === defaultLang) return n;
+  return VENUES[n]?.[lang] || localizePlace(n, lang);
+}

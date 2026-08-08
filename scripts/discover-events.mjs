@@ -69,7 +69,7 @@ const discoverEvents = (country) =>
     // nowhere in the title. Ask for the searched-for name up front.
     `"name" must be the name people actually SEARCH for: include the widely-used short form or act name when one exists (e.g. "F4 (Meteor Garden) Reunion World Tour", not only the official branding "F✦FOREVER 1st World Tour"). ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
-    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"summary":"1-2 factual sentences: what, where, when"}]. ` +
+    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","summary":"1-2 factual sentences: what, where, when"}]. ` +
     `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
     // Recurrence decides whether the page stays indexed once the date passes
     // and whether it advertises a yearly cadence in schema. It used to be
@@ -78,6 +78,11 @@ const discoverEvents = (country) =>
     // ChinaJoy all read as one-offs. The search is already happening; ask.
     `"recurring" is true ONLY for an event held on a regular yearly (or near-yearly) cycle — an annual festival, a championship round, a race that returns each year. ` +
     `A concert, a tour stop, a one-time exhibition or a one-off match is false. When unsure, use false. ` +
+    // Google Event schema wants an organizer, but only the REAL one is worth
+    // stating (we once stamped ourselves as organizer of every festival — a
+    // machine-readable false claim, removed 2026-08-07). The search results
+    // usually name the host; capture it when they do, never guess.
+    `"organizer" is the official organizing body EXACTLY as the search results name it (city government, festival committee, promoter). null when the results do not clearly name one — never guess or infer. "organizerUrl" only if the results show its official site; else null. ` +
     `If nothing notable, return [].`
   );
 
@@ -205,6 +210,14 @@ async function writeDiscovered(item, ctx) {
     // the title heuristic, which is what the 110 posts written before today
     // still rely on.
     ...(cat === 'event' && typeof item.recurring === 'boolean' && { eventRecurring: item.recurring }),
+    // Only when the discovery search clearly named the real host — the field
+    // feeds Event schema's organizer, where a guess is a false claim.
+    ...(cat === 'event' && typeof item.organizer === 'string' && item.organizer.trim() && {
+      eventOrganizer: {
+        name: item.organizer.trim(),
+        ...(typeof item.organizerUrl === 'string' && /^https?:\/\//.test(item.organizerUrl) && { url: item.organizerUrl.trim() }),
+      },
+    }),
     heroImage, gallery: [],
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
     quickAnswer, faq, aiGenerated: true,

@@ -6,6 +6,10 @@
   "name": "korea-travel-guide",
   "compatibility_date": "2025-01-01",
   "main": "worker/index.mjs",
+  // OG image mirror (scripts/mirror-og-images.mjs). Uncomment ONLY after R2 is
+  // enabled on the account and the bucket exists — a binding to a missing
+  // bucket fails the whole deploy:
+  // "r2_buckets": [{ "binding": "OG_IMAGES", "bucket_name": "wa-og-images" }],
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",

@@ -63,6 +63,14 @@ html.dark {
   color-scheme: dark;
 }
 
+/* System-dark users (no manual toggle) got dark TOKENS from the media query
+   below but never a dark color-scheme — scrollbars and form controls stayed
+   light on a dark page. Declare it along the same path the tokens take. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) { color-scheme: dark; }
+}
+:root[data-theme='light'] { color-scheme: light; }
+
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
     --bg: #14120f;

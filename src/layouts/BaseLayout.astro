@@ -66,7 +66,13 @@ const alternates = localized
 // one where they have it; this guarantees the tag is never absent, which is the
 // part that was costing distribution on exactly the page types the Pinterest and
 // Instagram pipelines feed.
-const ogImage = new URL(image || '/og-default.jpg', Astro.site);
+// Self-hosted share images: heroes mirrored to R2 serve from /og/<hash>.webp
+// (scripts/mirror-og-images.mjs fills the table). An unmirrored hero keeps its
+// original URL — the table starts empty and the fallback is the status quo,
+// so the mirror can grow incrementally without ever breaking a page.
+import ogMirror from '../../data/og-mirror.json';
+const mirrored = (u: string) => (ogMirror as Record<string, string>)[u] ?? u;
+const ogImage = new URL(mirrored(image || '/og-default.jpg'), Astro.site);
 const siteName = SITE.name;
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 

@@ -10,7 +10,7 @@ import { SITE } from '../siteConfig';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { eventSchemaName } from '../lib/eventName';
 import { editorHasTraveled } from '../lib/editorVisited';
-import { localizePlace } from '../i18n/places';
+import { localizePlace, localizeVenue } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
@@ -343,7 +343,7 @@ const fmtEventDates = (p: any) => {
               {crowdDemo && (
                 <div class="crowd-panel">
                   <div class="crowd-panel-head">
-                    <b>{localizePlace(crowdDemo.data.place?.name ?? '', lang) || crowdDemo.data.place?.name}</b>
+                    <b>{localizeVenue(crowdDemo.data.place?.name ?? '', lang) || crowdDemo.data.place?.name}</b>
                     <span>{t('home.crowd.panelMeta')}</span>
                   </div>
                   <div class="crowd-demo-bar">{demoCells.map((c) => <i class={c}></i>)}</div>

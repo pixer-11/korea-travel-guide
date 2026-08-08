@@ -1,0 +1,478 @@
+{
+  "Al Ain Oasis": {
+    "ko": "알아인 오아시스",
+    "ja": "アル・アイン・オアシス",
+    "es": "Oasis de Al Ain",
+    "zh": "阿尔艾因绿洲"
+  },
+  "Alhambra": {
+    "ko": "알람브라 궁전",
+    "ja": "アルハンブラ宮殿",
+    "es": "Alhambra",
+    "zh": "阿尔罕布拉宫"
+  },
+  "American Museum of Natural History": {
+    "ko": "미국 자연사 박물관",
+    "ja": "アメリカ自然史博物館",
+    "es": "Museo Americano de Historia Natural",
+    "zh": "美国自然历史博物馆"
+  },
+  "Andong Hahoe Folk Village": {
+    "ko": "안동 하회마을",
+    "ja": "安東河回村",
+    "es": "Aldea folclórica de Hahoe",
+    "zh": "安东河回村"
+  },
+  "Arashiyama Bamboo Forest": {
+    "ko": "아라시야마 대나무숲",
+    "ja": "嵐山竹林の道",
+    "es": "Bosque de bambú de Arashiyama",
+    "zh": "岚山竹林"
+  },
+  "Arc de Triomphe": {
+    "ko": "개선문",
+    "ja": "凱旋門",
+    "es": "Arco de Triunfo",
+    "zh": "凯旋门"
+  },
+  "Archaeological Park of Pompeii": {
+    "ko": "폼페이 고고학 공원",
+    "ja": "ポンペイ遺跡",
+    "es": "Parque Arqueológico de Pompeya",
+    "zh": "庞贝考古公园"
+  },
+  "Basilica of the Sagrada Familia": {
+    "ko": "사그라다 파밀리아",
+    "ja": "サグラダ・ファミリア",
+    "es": "Basílica de la Sagrada Familia",
+    "zh": "圣家族大教堂"
+  },
+  "Basilique du Sacré-Cœur de Montmartre": {
+    "ko": "사크레쾨르 대성당",
+    "ja": "サクレ・クール寺院",
+    "es": "Basílica del Sagrado Corazón de Montmartre",
+    "zh": "圣心圣殿"
+  },
+  "Casa Batlló": {
+    "ko": "카사 바트요",
+    "ja": "カサ・バトリョ",
+    "es": "Casa Batlló",
+    "zh": "巴特罗之家"
+  },
+  "Central Park": {
+    "ko": "센트럴 파크",
+    "ja": "セントラルパーク",
+    "es": "Central Park",
+    "zh": "中央公园"
+  },
+  "Ciudad de las Artes y las Ciencias": {
+    "ko": "예술과학 도시",
+    "ja": "芸術科学都市",
+    "es": "Ciudad de las Artes y las Ciencias",
+    "zh": "瓦伦西亚科学艺术城"
+  },
+  "Colosseum": {
+    "ko": "콜로세움",
+    "ja": "コロッセオ",
+    "es": "Coliseo",
+    "zh": "罗马斗兽场"
+  },
+  "Dago Dreampark": {
+    "ko": "다고 드림파크",
+    "ja": "ダゴ・ドリームパーク",
+    "zh": "达戈梦幻公园"
+  },
+  "Eiffel Tower": {
+    "ko": "에펠탑",
+    "ja": "エッフェル塔",
+    "es": "Torre Eiffel",
+    "zh": "埃菲尔铁塔"
+  },
+  "Field Museum": {
+    "ko": "필드 자연사 박물관",
+    "ja": "フィールド自然史博物館",
+    "es": "Museo Field",
+    "zh": "菲尔德自然史博物馆"
+  },
+  "Fort Santiago": {
+    "ko": "산티아고 요새",
+    "ja": "サンティアゴ要塞",
+    "es": "Fuerte Santiago",
+    "zh": "圣地亚哥堡"
+  },
+  "Fushimi Inari Taisha": {
+    "ko": "후시미 이나리 타이샤",
+    "ja": "伏見稲荷大社",
+    "es": "Fushimi Inari-taisha",
+    "zh": "伏见稻荷大社"
+  },
+  "Galleria dell’Accademia di Firenze": {
+    "ko": "피렌체 아카데미아 미술관",
+    "ja": "アカデミア美術館",
+    "es": "Galería de la Academia de Florencia",
+    "zh": "佛罗伦萨学院美术馆"
+  },
+  "Generalife": {
+    "ko": "헤네랄리페",
+    "ja": "헤네랄리페",
+    "es": "Generalife",
+    "zh": "赫内拉利费花园"
+  },
+  "Griffith Observatory": {
+    "ko": "그리피스 천문대",
+    "ja": "グリフィス天文台",
+    "es": "Observatorio Griffith",
+    "zh": "格里菲斯天文台"
+  },
+  "Gyeongju National Museum": {
+    "ko": "국립경주박물관",
+    "ja": "慶州国立博物館",
+    "es": "Museo Nacional de Gyeongju",
+    "zh": "庆州国立博物馆"
+  },
+  "Hanoi Old Quarter": {
+    "ko": "하노이 구시가지",
+    "ja": "ハノイ旧市街",
+    "es": "Casco antiguo de Hanói",
+    "zh": "河内老街"
+  },
+  "Hollywood Walk of Fame": {
+    "ko": "할리우드 명예의 거리",
+    "ja": "ハリウッド・ウォーク・オブ・フェーム",
+    "es": "Paseo de la Fama de Hollywood",
+    "zh": "好莱坞星光大道"
+  },
+  "Hyeopjae Beach": {
+    "ko": "협재해수욕장",
+    "ja": "挾才海水浴場",
+    "zh": "挟才海水浴场"
+  },
+  "Itsukushima Jinja": {
+    "ko": "이쓰쿠시마 신사",
+    "ja": "厳島神社",
+    "es": "Santuario Itsukushima",
+    "zh": "严岛神社"
+  },
+  "Kenroku-en": {
+    "ko": "겐로쿠엔",
+    "ja": "兼六園",
+    "es": "Kenroku-en",
+    "zh": "兼六园"
+  },
+  "Khao Rang Viewpoint": {
+    "ko": "카오랑 전망대",
+    "ja": "カオラン展望台",
+    "es": "Mirador de Khao Rang",
+    "zh": "考兰山观景台"
+  },
+  "King Power Mahanakhon": {
+    "ko": "킹파워 마하나콘",
+    "ja": "キングパワー・マハナコン",
+    "es": "King Power Mahanakhon",
+    "zh": "King Power玛哈那空大厦"
+  },
+  "Kinkaku-ji": {
+    "ko": "금각사",
+    "ja": "金閣寺",
+    "es": "Kinkaku-ji",
+    "zh": "金阁寺"
+  },
+  "Louvre Museum": {
+    "ko": "루브르 박물관",
+    "ja": "ルーヴル美術館",
+    "es": "Museo del Louvre",
+    "zh": "卢浮宫"
+  },
+  "Merdeka Square": {
+    "ko": "메르데카 광장",
+    "ja": "ムルデカ広場",
+    "es": "Plaza Merdeka",
+    "zh": "独立广场"
+  },
+  "Museo Archeologico Nazionale di Napoli": {
+    "ko": "나폴리 국립고고학박물관",
+    "ja": "ナポリ国立考古学博物館",
+    "es": "Museo Arqueológico Nacional de Nápoles",
+    "zh": "那不勒斯国立考古博物馆"
+  },
+  "Museo de las Ciencias Príncipe Felipe": {
+    "ko": "펠리페 왕자 과학박물관",
+    "ja": "príncipe Felipe科学博物館",
+    "es": "Museo de las Ciencias Príncipe Felipe",
+    "zh": "费利佩王子科学博物馆"
+  },
+  "Museo Nacional del Prado": {
+    "ko": "프라도 미술관",
+    "ja": "プラド美術館",
+    "es": "Museo del Prado",
+    "zh": "普拉多博物馆"
+  },
+  "Nara Park": {
+    "ko": "나라 공원",
+    "ja": "奈良公園",
+    "es": "Parque de Nara",
+    "zh": "奈良公园"
+  },
+  "Nasrid Palaces": {
+    "ko": "나스르 궁전",
+    "ja": "ナスル朝宮殿",
+    "es": "Palacios Nazaríes",
+    "zh": "纳斯里德宫"
+  },
+  "National Museum of Archaeology": {
+    "ko": "국립고고학박물관",
+    "ja": "国立考古学博物館",
+    "es": "Museo Arqueológico Nacional",
+    "zh": "国立考古学博物馆"
+  },
+  "Notre-Dame Cathedral of Paris": {
+    "ko": "노트르담 대성당",
+    "ja": "ノートルダム大聖堂",
+    "es": "Catedral de Notre-Dame de París",
+    "zh": "巴黎圣母院"
+  },
+  "Notre-Dame de la Garde": {
+    "ko": "노트르담 드 라 가르드",
+    "ja": "ノートルダム・ド・ラ・ガルド寺院",
+    "es": "Basílica de Notre-Dame de la Garde",
+    "zh": "守护圣母圣殿"
+  },
+  "Oasis 21": {
+    "ko": "오아시스21",
+    "ja": "オアシス21",
+    "es": "Oasis 21",
+    "zh": "绿洲21"
+  },
+  "Osaka Castle": {
+    "ko": "오사카 성",
+    "ja": "大阪城",
+    "es": "Castillo de Osaka",
+    "zh": "大阪城"
+  },
+  "Palace of Versailles": {
+    "ko": "베르사유 궁전",
+    "ja": "ヴェルサイユ宮殿",
+    "es": "Palacio de Versalles",
+    "zh": "凡尔赛宫"
+  },
+  "Parc Phœnix": {
+    "ko": "페닉스 공원",
+    "ja": "フェニックス公園",
+    "es": "Parc Phœnix",
+    "zh": "凤凰公园"
+  },
+  "Park Güell": {
+    "ko": "구엘 공원",
+    "ja": "グエル公園",
+    "es": "Park Güell",
+    "zh": "奎尔公园"
+  },
+  "Po Nagar Temple": {
+    "ko": "포나가르 사원",
+    "ja": "ポーナガル塔",
+    "es": "Torre Po Nagar",
+    "zh": "波那加占婆塔"
+  },
+  "Roman Forum": {
+    "ko": "로마 포로",
+    "ja": "フォロ・ロマーノ",
+    "es": "Foro Romano",
+    "zh": "罗马广场"
+  },
+  "Rong Suea Ten Temple": {
+    "ko": "롱쓰아뗀 사원(블루 템플)",
+    "ja": "ロンスアテン寺院(ブルーテンプル)",
+    "es": "Templo Azul (Wat Rong Suea Ten)",
+    "zh": "蓝庙（龙虎寺）"
+  },
+  "Royal Palace of Madrid": {
+    "ko": "마드리드 왕궁",
+    "ja": "マドリード王宮",
+    "es": "Palacio Real de Madrid",
+    "zh": "马德里王宫"
+  },
+  "Saint Peter’s Basilica": {
+    "ko": "성 베드로 대성당",
+    "ja": "サン・ピエトロ大聖堂",
+    "es": "Basílica de San Pedro",
+    "zh": "圣伯多禄大殿"
+  },
+  "Santa Monica Pier": {
+    "ko": "산타모니카 부두",
+    "ja": "サンタモニカ・ピア",
+    "es": "Muelle de Santa Mónica",
+    "zh": "圣莫尼卡码头"
+  },
+  "SEA LIFE Bangkok Ocean World": {
+    "ko": "씨라이프 방콕 오션월드",
+    "ja": "シーライフ・バンコク・オーシャンワールド",
+    "es": "SEA LIFE Bangkok Ocean World",
+    "zh": "曼谷海洋世界"
+  },
+  "Seokguram": {
+    "ko": "석굴암",
+    "ja": "石窟庵",
+    "es": "Seokguram",
+    "zh": "石窟庵"
+  },
+  "Skyline Luge Singapore": {
+    "ko": "스카이라인 루지 싱가포르",
+    "ja": "スカイライン・ルージュ・シンガポール",
+    "es": "Skyline Luge Singapore",
+    "zh": "新加坡云顶斜坡滑车"
+  },
+  "SkyPark Observation Deck": {
+    "ko": "스카이파크 전망대",
+    "ja": "スカイパーク展望台",
+    "es": "Mirador SkyPark",
+    "zh": "金沙空中花园观景台"
+  },
+  "Songdo Central Park": {
+    "ko": "송도 센트럴파크",
+    "ja": "松島セントラルパーク",
+    "es": "Parque Central de Songdo",
+    "zh": "松岛中央公园"
+  },
+  "Suan Luang Rama IX": {
+    "ko": "수안루앙 라마 9세 공원",
+    "ja": "スアンルアン・ラーマ9世公園",
+    "es": "Parque Suan Luang Rama IX",
+    "zh": "拉玛九世公园"
+  },
+  "Taman Mini Indonesia Indah": {
+    "ko": "타만 미니 인도네시아 인다",
+    "ja": "タマン・ミニ・インドネシア・インダー",
+    "es": "Taman Mini Indonesia Indah",
+    "zh": "美丽印尼缩影公园"
+  },
+  "Taman Sari Tourist Village": {
+    "ko": "타만 사리",
+    "ja": "タマンサリ",
+    "es": "Taman Sari",
+    "zh": "水宫（塔曼萨里）"
+  },
+  "Tarnim Magic Garden": {
+    "ko": "타님 매직가든",
+    "ja": "タニム・マジックガーデン",
+    "zh": "塔宁魔法花园"
+  },
+  "The Getty": {
+    "ko": "게티 센터",
+    "ja": "ゲッティ・センター",
+    "es": "Museo Getty",
+    "zh": "盖蒂中心"
+  },
+  "The Grand Palace": {
+    "ko": "방콕 왕궁",
+    "ja": "バンコク王宮",
+    "es": "Gran Palacio de Bangkok",
+    "zh": "曼谷大皇宫"
+  },
+  "The Marble Mountains": {
+    "ko": "마블 마운틴",
+    "ja": "マーブルマウンテン",
+    "es": "Montañas de Mármol",
+    "zh": "五行山"
+  },
+  "The Metropolitan Museum of Art": {
+    "ko": "메트로폴리탄 미술관",
+    "ja": "メトロポリタン美術館",
+    "es": "Museo Metropolitano de Arte",
+    "zh": "大都会艺术博物馆"
+  },
+  "The Mob Museum": {
+    "ko": "몹 박물관",
+    "ja": "モブ・ミュージアム",
+    "es": "Mob Museum",
+    "zh": "黑帮博物馆"
+  },
+  "The Reclining Buddha": {
+    "ko": "왓포 사원(누워있는 불상)",
+    "ja": "涅槃仏（ワット・ポー）",
+    "es": "Buda Reclinado (Wat Pho)",
+    "zh": "卧佛寺"
+  },
+  "The Temple of the Emerald Buddha": {
+    "ko": "에메랄드 사원(왓프라깨우)",
+    "ja": "エメラルド寺院（ワット・プラケオ）",
+    "es": "Templo del Buda Esmeralda",
+    "zh": "玉佛寺"
+  },
+  "Times Square": {
+    "ko": "타임스 스퀘어",
+    "ja": "タイムズスクエア",
+    "es": "Times Square",
+    "zh": "时代广场"
+  },
+  "Tōdai-ji": {
+    "ko": "도다이지",
+    "ja": "東大寺",
+    "es": "Tōdai-ji",
+    "zh": "东大寺"
+  },
+  "Topkapi Palace Museum": {
+    "ko": "톱카프 궁전 박물관",
+    "ja": "トプカプ宮殿博物館",
+    "es": "Palacio de Topkapı",
+    "zh": "托普卡帕宫博物馆"
+  },
+  "Trevi Fountain": {
+    "ko": "트레비 분수",
+    "ja": "トレヴィの泉",
+    "es": "Fontana di Trevi",
+    "zh": "特雷维喷泉"
+  },
+  "Villa Rufolo": {
+    "ko": "빌라 루폴로",
+    "ja": "ヴィラ・ルフォロ",
+    "es": "Villa Rufolo",
+    "zh": "鲁弗洛别墅"
+  },
+  "Vizcaya Museum & Gardens": {
+    "ko": "비즈카야 박물관 및 정원",
+    "ja": "ヴィスカヤ博物館と庭園",
+    "es": "Museo y Jardines Vizcaya",
+    "zh": "维斯卡亚博物馆及花园"
+  },
+  "War Remnants Museum": {
+    "ko": "전쟁 잔적 박물관",
+    "ja": "戦争証跡博物館",
+    "es": "Museo de los Vestigios de Guerra",
+    "zh": "战争遗迹博物馆"
+  },
+  "Wat Arun Ratchawararam Ratchawaramahawihan": {
+    "ko": "왓 아룬",
+    "ja": "ワット・アルン",
+    "es": "Wat Arun",
+    "zh": "郑王庙"
+  },
+  "Wat Chedi Luang": {
+    "ko": "왓 체디 루앙",
+    "ja": "ワット・チェディ・ルアン",
+    "es": "Wat Chedi Luang",
+    "zh": "契迪龙寺"
+  },
+  "Wat Mahathat": {
+    "ko": "왓 마하탓",
+    "ja": "ワット・マハタート",
+    "es": "Wat Mahathat",
+    "zh": "玛哈泰寺"
+  },
+  "Wat Phra That Doi Suthep": {
+    "ko": "왓 프라탓 도이수텝",
+    "ja": "ワット・プラタート・ドイステープ",
+    "es": "Wat Phra That Doi Suthep",
+    "zh": "双龙寺"
+  },
+  "Wat Rong Khun": {
+    "ko": "왓 롱쿤(백색사원)",
+    "ja": "ワット・ロン・クン（ホワイトテンプル）",
+    "es": "Templo Blanco (Wat Rong Khun)",
+    "zh": "白庙（龙昆寺）"
+  },
+  "Wolmi Theme Park": {
+    "ko": "월미테마파크",
+    "ja": "月尾テーマパーク",
+    "zh": "月尾主题公园"
+  }
+}
