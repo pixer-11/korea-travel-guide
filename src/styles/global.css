@@ -908,6 +908,20 @@ html[lang^='zh'] .cover-inner h1 {
    credential, not a shout. */
 .story-meta.editor-traveled { color: var(--accent); font-weight: 600; margin-top: 0.15rem; }
 
+/* Crowd-tool promotion band (home): copy left, one CTA right; stacks on
+   narrow screens like every other widget. */
+.crowd-band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; }
+.crowd-band h2 { margin: 0.2rem 0 0.45rem; }
+.crowd-band .ess-dek { margin: 0; max-width: 56ch; }
+.crowd-band .btn { flex: none; }
+
+/* Itinerary band (home): copy left, the REAL course chips right — the chip
+   list grows by itself as build-itineraries adds cities. */
+.itin-band { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; }
+.itin-band h2 { margin: 0.2rem 0 0.45rem; }
+.itin-band .ess-dek { margin: 0; max-width: 52ch; }
+.itin-chips { display: flex; flex-wrap: wrap; gap: 0.55rem; align-items: center; max-width: 30rem; }
+
 /* Spotlight */
 .spotlight { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
 .spotlight-media { aspect-ratio: 4/5; border-radius: var(--r-lg); overflow: hidden; }
