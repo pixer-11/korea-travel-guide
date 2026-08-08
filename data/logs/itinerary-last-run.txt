@@ -1,3 +1,4 @@
+SKIP new city "New Orleans" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 14 qualifying post(s), variants: 3
   = Seoul 3d — unchanged, skipping
@@ -5,18 +6,23 @@ Seoul, South Korea — 14 qualifying post(s), variants: 3
 Tokyo, Japan — 12 qualifying post(s), variants: 3
   = Tokyo 3d — unchanged, skipping
 
-Bangkok, Thailand — 18 qualifying post(s), variants: 3
-  ~ Bangkok 3d — structure changed by 8 slug(s), regenerating prose
-  ⚠ Bangkok 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-  ✅ Bangkok 3d — updated
+Bangkok, Thailand — 19 qualifying post(s), variants: 3
+  = Bangkok 3d — unchanged, skipping
 
 Barcelona, Spain — 15 qualifying post(s), variants: 3
-  ⚠ Barcelona 3d — guard found 1 hours/price + 1 rain-leak issue(s) on first pass; retrying once
-PROSE-GUARD FAILED: Barcelona 3d — hours-language in days[2].intro: "The final day begins among the market stalls just off La Rambla in Ciutat Vella, moves into contemporary art nearby, and closes on Montjuïc with Romanesque murals and a golden-hour skyline view."
-ERROR processing Barcelona: prose guard failed for Barcelona 3d after retry (1 issue(s))
+  ⚠ Barcelona 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
+NEW_ITINERARY: Barcelona 3d
 
-New York, United States — 15 qualifying post(s), variants: 3
-  = New York 3d — unchanged, skipping
+New York, United States — 16 qualifying post(s), variants: 3
+  ~ New York 3d — structure changed by 4 slug(s), regenerating prose
+  ⚠ New York 3d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
+  ⚠ New York 3d — dropping rain-swap for day 1 (venue name leaked into written prose after retry)
+  ⚠ New York 3d — dropping rain-swap for day 2 (venue name leaked into written prose after retry)
+  ⚠ New York 3d — dropping rain-swap for day 3 (venue name leaked into written prose after retry)
+VALIDATE-FAILED new-york-3-days.md — 3 issue(s):
+  • AREA-CLAIM-UNSUPPORTED: new-york-3-days.md — day 2 names "Downtown Pages" but no stop of that day attests it
+  • DURATION-CONTRADICTION: new-york-3-days.md — day 3 stop "new-york-statue-of-liberty" why says "half-day" (~240 min) but dwellMin is 45
+  • DAY-TOTAL-TOO-SHORT: new-york-3-days.md — day 3 totals 229 min (floor 240)
 
 Done.
 
