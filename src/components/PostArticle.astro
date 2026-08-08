@@ -362,13 +362,21 @@ if (d.category === 'event' && d.eventStartDate) {
     },
     ...(d.heroImage?.url && { image: new URL(d.heroImage.url, Astro.site).toString() }),
     description: description,
-    // NO organizer. This used to declare Wander Atlas as the organizer of every
-    // event on the site — that we run La Tomatina, the Spanish Grand Prix and
-    // Comiket. It is a false statement made to Google in machine-readable form,
-    // on 98 live pages, in the one field a search engine reads as a claim of
-    // fact rather than as prose. Removed 2026-08-07; the correct value is the
-    // real organiser, which this pipeline does not know, and an absent optional
+    // Organizer only when it is the REAL one, verified and stored in the
+    // post's own frontmatter (eventOrganizer). This used to declare Wander
+    // Atlas as the organizer of every event on the site — that we run La
+    // Tomatina, the Spanish Grand Prix and Comiket — a false statement in
+    // machine-readable form on 98 live pages. Removed 2026-08-07; GSC then
+    // flagged the absence (non-critical) on 2026-08-08, and the answer to
+    // that warning is verified data, never a placeholder: an absent optional
     // property is worth strictly more than a wrong one.
+    ...(d.eventOrganizer && {
+      organizer: {
+        '@type': 'Organization',
+        name: d.eventOrganizer.name,
+        ...(d.eventOrganizer.url && { url: d.eventOrganizer.url }),
+      },
+    }),
   });
 }
 

@@ -54,6 +54,8 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: "Awa Odori Executive Committee (阿波おどり実行委員会)"
 ---
 
 ## Why go

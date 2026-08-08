@@ -57,6 +57,9 @@ aiGenerated: true
 draft: false
 country: South Korea
 eventRecurring: true
+eventOrganizer:
+  name: "Boryeong Festival Tourism Foundation (보령축제관광재단)"
+  url: "https://www.mudfestival.or.kr/"
 ---
 
 ## Why go

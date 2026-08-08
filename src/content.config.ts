@@ -34,6 +34,11 @@ const posts = defineCollection({
     // from the index the day they ended. Absent on posts written before
     // 2026-08-06, which still fall back to that heuristic.
     eventRecurring: z.boolean().optional(),
+    // The event's REAL organiser, only when verified from an official source
+    // (GSC flagged the field's absence 2026-08-08). We used to stamp Wander
+    // Atlas here across 98 events — a machine-readable false claim, removed
+    // 2026-08-07. Absent beats invented: never fill this from guesswork.
+    eventOrganizer: z.object({ name: z.string(), url: z.string().optional() }).optional(),
     heroImage: z
       .object({
         url: z.string(),
