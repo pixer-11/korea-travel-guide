@@ -6,10 +6,10 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-22T09:05:26.920Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg
-  credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
-  license: foursquare
-  source: https://foursquare.com/v/4c13052982a3c9b66fe6faf8
+  url: https://live.staticflickr.com/65535/53189343981_d56216464e_b.jpg
+  credit: 'Photo: MIKI Yoshihito. (#mikiyoshihito) / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/7940758@N07/53189343981
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1954701_PMaJSx3tkmj9akzrfcjdub4s16MxoAW7aEKblcnHMhE.jpg
     credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
@@ -70,7 +70,6 @@ faq:
   - q: What's nearby to combine with a visit?
     a: Yoyogi Park is a short walk away, and the surrounding Tomigaya neighborhood has quiet boutiques and design shops worth exploring before or after.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Fuglen Tokyo Stands Out

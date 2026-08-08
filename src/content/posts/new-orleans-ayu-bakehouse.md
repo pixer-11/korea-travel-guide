@@ -6,10 +6,10 @@ region: New Orleans
 category: trendy
 pubDate: '2026-08-08T08:06:14.083Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_2.jpg/1920px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ayu_Bakehouse,_Frenchmen_Street,_New_Orleans_12_March_2026_-_2.jpg
+  url: https://fastly.4sqi.net/img/general/original/4254309_KUhG1IiHcwCB9gLJZWR90jaM-JDHgWNUZ9tRL1A24HU.jpg
+  credit: 'Photo: Foursquare user content (Ayu Bakehouse)'
+  license: foursquare
+  source: https://foursquare.com/v/62fd10d8d0af8f20f3c48430
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg/3840px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
     credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
@@ -64,7 +64,6 @@ faq:
   - q: Is it good for a sit-down breakfast or more grab-and-go?
     a: Both work, but there's limited seating, mostly a few outdoor tables. If you want to sit, arrive early on a weekday for the best shot at a spot.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

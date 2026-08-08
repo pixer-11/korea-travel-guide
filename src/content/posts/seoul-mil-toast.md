@@ -22,11 +22,10 @@ faq:
     a: Card or mobile pay (Naver Pay, Kakao Pay) is standard at Seoul cafés, and tipping isn't customary anywhere in Korea, including here.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/51074758_Ve3oUi_L__tTbtFik2S3xSomnsLs9VC7d-gx_TUlvMk.jpg
+  url: https://fastly.4sqi.net/img/general/original/574345888_2e30UlBiS1xXQeIiwn8JPo1Ov_Q_cyPF4w0LuYPXf_w.jpg
   credit: 'Photo: Foursquare user content (Mil Toast House (밀토스트))'
   license: foursquare
   source: https://foursquare.com/v/5b699aa8628c83002c8f495f
-draft: true
 ---
 
 ## Why everyone's talking about it
