@@ -912,12 +912,56 @@ html[lang^='zh'] .cover-inner h1 {
 
 /* Home tool duo: itineraries + crowd data in one section, two equal cards
    (a single card would have doubled the section count the owner flagged).
-   Cards get the widget surface like essentials-widget so they read as cards,
-   not floating text. */
-.tools-duo { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: stretch; }
-.tool-card { display: flex; flex-direction: column; align-items: flex-start; background: var(--surface-2); }
-.tool-card h2 { margin: 0.2rem 0 0.45rem; font-size: clamp(1.25rem, 2.4vw, 1.6rem); }
-.tool-card .ess-dek { margin: 0 0 0.9rem; }
+   The two cards deliberately DON'T share one flat surface — the owner asked
+   for variety without breaking cohesion, so each draws on the site's own
+   dancheong palette: the itinerary card is a gold tint (the book-cta tint
+   grammar), the crowd card is the deep-pine inverse band the owner liked in
+   the design mock. Same palette, two temperatures. */
+.tools-duo { display: flex; flex-direction: column; gap: 1.1rem; }
+.tool-card h2 { margin: 0.45rem 0 0.5rem; font-size: clamp(1.35rem, 2.8vw, 1.9rem); }
+.tool-card .ess-dek { margin: 0 0 1rem; max-width: 46ch; }
+/* Itinerary band: gold tint, copy left, real course chips right. */
+.tool-card--itin {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2.5rem;
+  background: color-mix(in srgb, var(--gold) 9%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--gold) 24%, var(--line));
+}
+.tool-card--itin .ess-dek { margin-bottom: 0; }
+/* Deep-pine inverse band, laid out exactly like the mock the owner liked:
+   chip kicker + copy + CTA on the left, a lighter chart PANEL on the right
+   with one real venue's measured hours. Fixed dark colours on purpose (like
+   the topbar): a dark band in both themes. Contrast vs the darkest/lightest
+   gradient stops: heading 10.3/7.8, dek 7.0/5.3, kicker #eec472 6.4/4.9. */
+.tool-card--crowd {
+  display: grid; grid-template-columns: 1fr 1.15fr; gap: 1.5rem 2.5rem; align-items: center;
+  background: linear-gradient(150deg, #33584a 0%, #27453a 58%, #2f5142 100%);
+  border: 1px solid #1f3a30;
+}
+.tool-card--crowd h2 { color: #fffdf9; }
+.tool-card--crowd .ess-dek { color: #d9d2c4; }
+.tool-card--crowd .kicker {
+  color: #eec472; display: inline-block; padding: 0.28rem 0.6rem; border-radius: var(--r-pill);
+  background: rgba(238, 196, 114, 0.13);
+}
+.crowd-panel {
+  background: rgba(255, 253, 249, 0.08); border: 1px solid rgba(255, 253, 249, 0.12);
+  border-radius: 14px; padding: clamp(0.9rem, 2vw, 1.3rem);
+}
+.crowd-panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-bottom: 0.75rem; }
+.crowd-panel-head b { color: #fffdf9; font-size: 0.95rem; }
+.crowd-panel-head span { font-size: 0.68rem; color: #b9b2a2; letter-spacing: 0.04em; white-space: nowrap; }
+.crowd-demo-bar { display: flex; gap: 4px; height: 64px; align-items: flex-end; }
+.crowd-demo-bar i { flex: 1; border-radius: 4px; background: rgba(255, 253, 249, 0.16); height: 48%; }
+.crowd-demo-bar i.quiet { background: linear-gradient(180deg, #7ac9a2, #4c8f6f); height: 78%; }
+.crowd-demo-bar i.busy { background: linear-gradient(180deg, #e89a8d, #c8443a); height: 100%; }
+.crowd-demo-lab { display: flex; justify-content: space-between; font-size: 0.62rem; color: #b9b2a2; margin-top: 5px; font-weight: 600; }
+.crowd-legend { display: flex; gap: 1rem; margin-top: 0.7rem; font-size: 0.7rem; color: #cfc8b8; flex-wrap: wrap; }
+.crowd-legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
+.crowd-legend i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.crowd-legend .lg-quiet { background: #7ac9a2; }
+.crowd-legend .lg-mid { background: rgba(255, 253, 249, 0.3); }
+.crowd-legend .lg-busy { background: #e89a8d; }
+@media (max-width: 860px) { .tool-card--crowd { grid-template-columns: 1fr; } }
 .itin-chips { display: flex; flex-wrap: wrap; gap: 0.55rem; align-items: center; margin-top: auto; }
 .tool-card-cta { margin-top: auto; }
 @media (max-width: 760px) { .tools-duo { grid-template-columns: 1fr; } }

@@ -158,6 +158,30 @@ const monthlyPicks = (() => {
   return [...byRegion.values()];
 })();
 const guidesIn = (region: string) => posts.filter((p) => p.data.region === region).length;
+// The crowd card's mini chart: ONE real venue's measured hours (the mock's
+// chart shape, but with data that exists). Well-known attractions only, and
+// the pick rotates weekly with the cover's isoWeek — same freshness, zero
+// invention.
+const crowdDemoPool = posts
+  .filter((p) => {
+    const b = p.data.place?.busyness;
+    return (
+      p.data.category === 'attraction' && !!b &&
+      (b.weekdayQuiet?.length || 0) > 0 && (b.weekendBusy?.length || 0) > 0 &&
+      (p.data.place?.userRatingsTotal ?? 0) >= 5000
+    );
+  })
+  .sort((a, b) => a.id.localeCompare(b.id));
+const crowdDemo = crowdDemoPool.length ? crowdDemoPool[isoWeek(new Date()) % crowdDemoPool.length] : null;
+const demoHours = Array.from({ length: 16 }, (_, i) => i + 7);
+const demoCells = crowdDemo
+  ? (() => {
+      const b = crowdDemo.data.place!.busyness!;
+      const q = new Set([...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
+      const busy = new Set(b.weekendBusy ?? []);
+      return demoHours.map((h) => (busy.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
+    })()
+  : [];
 // Same eligibility the crowd tool itself uses — the number must match what the
 // reader finds after the click.
 const busynessCount = posts.filter((p) => {
@@ -328,7 +352,7 @@ const fmtEventDates = (p: any) => {
       <div class="wrap">
         <div class="tools-duo">
           {itins.length >= 3 && (
-            <div class="widget tool-card">
+            <div class="widget tool-card tool-card--itin">
               <p class="kicker gold">{t('home.itin.kicker')}</p>
               <h2>{t('home.itin.title')}</h2>
               <p class="ess-dek">{t('home.itin.dek')}</p>
@@ -343,13 +367,28 @@ const fmtEventDates = (p: any) => {
             </div>
           )}
           {busynessCount >= 100 && (
-            <div class="widget tool-card">
-              <p class="kicker gold">{t('home.crowd.kicker')}</p>
-              <h2>{t('home.crowd.title')}</h2>
-              <p class="ess-dek">{t('home.crowd.dek').replace('{n}', String(busynessCount))}</p>
-              <div class="tool-card-cta">
+            <div class="widget tool-card tool-card--crowd">
+              <div class="crowd-copy">
+                <p class="kicker">{t('home.crowd.kicker')}</p>
+                <h2>{t('home.crowd.title')}</h2>
+                <p class="ess-dek">{t('home.crowd.dek').replace('{n}', String(busynessCount))}</p>
                 <a class="btn btn-primary" href={localizePath('/tools/best-time', lang)}>{t('home.crowd.cta')}</a>
               </div>
+              {crowdDemo && (
+                <div class="crowd-panel">
+                  <div class="crowd-panel-head">
+                    <b>{localizePlace(crowdDemo.data.place?.name ?? '', lang) || crowdDemo.data.place?.name}</b>
+                    <span>{t('home.crowd.panelMeta')}</span>
+                  </div>
+                  <div class="crowd-demo-bar">{demoCells.map((c) => <i class={c}></i>)}</div>
+                  <div class="crowd-demo-lab"><span>7am</span><span>2pm</span><span>10pm</span></div>
+                  <div class="crowd-legend">
+                    <span><i class="lg-quiet"></i>{t('tool.quiet')}</span>
+                    <span><i class="lg-mid"></i>{t('tool.normal')}</span>
+                    <span><i class="lg-busy"></i>{t('tool.busy')}</span>
+                  </div>
+                </div>
+              )}
             </div>
           )}
         </div>
