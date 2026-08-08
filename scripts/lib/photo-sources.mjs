@@ -269,11 +269,56 @@ export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
   }
 }
 
+// ── Openverse (api.openverse.org) — free CC-image index that covers Flickr,
+// Wikimedia, SMK and others. Added 2026-08-08 when Flickr moved API keys
+// behind a PRO subscription: this reaches Flickr's CC photos without one.
+// No geo filter exists here, so identity leans entirely on the distinctive-
+// token match (title/tags) plus the near-name in the query; every candidate
+// still faces the vision gate + audit like the rest. Licenses are DELIBERATELY
+// narrower than FLICKR_LICENSES: by/by-sa/cc0/pdm only — this is a commercial
+// site, and an NC photo is a licensing claim waiting to happen.
+export async function openversePhotos({ name, near, limit = 4 }) {
+  if (!name) return [];
+  const ourWords = distinctiveTokens(name, near);
+  if (!ourWords.length) return [];
+  try {
+    const q = new URLSearchParams({
+      q: near ? `${name} ${near}` : name,
+      license: 'by,by-sa,cc0,pdm',
+      page_size: String(Math.max(limit * 3, 10)), // room to filter by identity
+    });
+    const res = await fetch(`https://api.openverse.org/v1/images/?${q}`, {
+      headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' },
+    });
+    if (!res.ok) return []; // 429 (anonymous rate cap) or outage: just no candidates tonight
+    const j = await res.json();
+    return (j.results || [])
+      .filter((r) => {
+        const t = new Set(splitTokens(`${r.title || ''} ${(r.tags || []).map((x) => x?.name || '').join(' ')}`));
+        return ourWords.some((w) => t.has(w));
+      })
+      // Below Discover's 1200px large-card bar a photo costs a queue slot later.
+      .filter((r) => (r.width || 0) >= 1024)
+      .slice(0, limit)
+      .map((r) => ({
+        url: r.url,
+        credit: `Photo: ${r.creator || 'unknown'} / ${r.source || 'Openverse'} (${String(r.license || 'cc').toUpperCase()})`,
+        license: 'openverse-cc',
+        source: r.foreign_landing_url || r.url,
+      }))
+      .filter((p) => p.url);
+  } catch {
+    return [];
+  }
+}
+
 // Ordered candidate stream for one venue — Foursquare (actual venue) first,
-// Flickr geo (taken at the spot) second.
+// Flickr geo (taken at the spot) second, Openverse (CC index, incl. Flickr's
+// CC photos, no key needed) last.
 export async function venuePhotoCandidates({ name, lat, lng, near }) {
   const out = [];
   out.push(...(await fsqVenuePhotos({ name, lat, lng, near })));
   out.push(...(await flickrPhotos({ name, lat, lng, near })));
+  out.push(...(await openversePhotos({ name, near })));
   return out;
 }

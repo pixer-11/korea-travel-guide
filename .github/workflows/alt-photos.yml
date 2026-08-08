@@ -185,8 +185,11 @@ jobs:
             # A missing source is the difference between "no photo exists" and
             # "we never looked there", and the owner cannot tell those apart
             # from a count of failures. Say it every run.
-            if [ "${K_FSQ:-no}" != "yes" ] || [ "${K_FLICKR:-no}" != "yes" ]; then
-              echo "🔑 사진 출처 상태: 포스퀘어 $([ "${K_FSQ:-no}" = yes ] && echo 켜짐 || echo ❌꺼짐) · 플리커 $([ "${K_FLICKR:-no}" = yes ] && echo 켜짐 || echo ❌꺼짐)"
+            # Flickr moved API keys behind a PRO subscription (checked
+            # 2026-08-08) — the key line stays only if one ever appears.
+            # Openverse (keyless, free) now covers Flickr's CC photos instead.
+            if [ "${K_FSQ:-no}" != "yes" ]; then
+              echo "🔑 사진 출처 상태: 포스퀘어 ❌꺼짐 · 오픈버스 켜짐(키 불필요)"
               echo "   (꺼진 출처는 아예 찾아보지 않습니다 — 사진을 못 구한 게 아니라 안 본 것입니다)"
             fi
             if [ "$JOB_STATUS" != "success" ]; then
