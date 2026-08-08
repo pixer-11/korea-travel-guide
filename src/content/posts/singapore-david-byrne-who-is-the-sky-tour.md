@@ -1,8 +1,6 @@
 ---
 title: 'David Byrne: Who Is The Sky? Tour: What to Know (Singapore)'
-description: >-
-  David Byrne: Who Is The Sky? Tour in Singapore, Singapore — August 7, 2026.
-  What it is, when and where, and how to plan around it.
+description: 'David Byrne: Who Is The Sky? Tour in Singapore, Singapore — August 7, 2026. What it is, when and where, and how to plan around it.'
 country: Singapore
 region: Singapore
 category: event
@@ -10,50 +8,25 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg/1920px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg/1920px-David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Mainlymazza / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg
+  source: https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg
 tags:
   - singapore
   - event
-quickAnswer: >-
-  David Byrne brings his "Who Is The Sky?" tour to The Star Theatre at The Star
-  Performing Arts Centre on Singapore's Sentosa Gateway on August 7, 2026,
-  backed by a 13-piece band of musicians, singers and dancers. Book tickets as
-  soon as they go on sale, arrive early to soak up the venue and nearby Vivo
-  City, and confirm exact showtime and ticketing details on the official tour or
-  venue site closer to the date.
+quickAnswer: David Byrne brought his "Who Is The Sky?" tour to The Star Theatre at The Star Performing Arts Centre on Singapore's Sentosa Gateway on August 7, 2026, backed by a 13-piece band of musicians, singers and dancers. Tickets were released for booking ahead of the show, with the venue and nearby Vivo City offering plenty to explore for those who arrived early. Exact showtime and ticketing details were published on the official tour or venue site.
 faq:
   - q: How do I get to The Star Theatre?
-    a: >-
-      Take the MRT to HarbourFront Station (North East Line NE1 or Circle Line
-      CC29) — the theatre is a short walk through HarbourFront Centre and
-      VivoCity mall. Parking is available nearby but can fill up on show nights.
+    a: Take the MRT to HarbourFront Station (North East Line NE1 or Circle Line CC29) — the theatre is a short walk through HarbourFront Centre and VivoCity mall. Parking is available nearby but can fill up on show nights.
   - q: How much are tickets and where do I buy them?
-    a: >-
-      Exact pricing hasn't been confirmed here; check the official David Byrne
-      tour site or The Star Performing Arts Centre's box office page for current
-      tiers and on-sale dates, and buy only through official or authorized
-      resale channels.
+    a: Exact pricing wasn't confirmed here; ticket tiers and on-sale dates were published on the official David Byrne tour site or The Star Performing Arts Centre's box office page, with tickets available through official or authorized resale channels.
   - q: What time should I arrive on the night?
-    a: >-
-      Exact doors/showtime for the August 7, 2026 date should be confirmed on
-      the official ticket page closer to the event. As a general rule for this
-      venue, arriving 45-60 minutes early leaves buffer for security screening
-      and finding your seat.
+    a: Exact doors/showtime for the August 7, 2026 date were confirmed on the official ticket page. As a general rule for this venue, arriving 45-60 minutes early leaves buffer for security screening and finding your seat.
   - q: How long is the show?
-    a: >-
-      Exact runtime hasn't been published, but Byrne's comparable theatrical
-      tours (like American Utopia) have typically run around 100-110 minutes
-      without an opener; treat this as a rough guide, not a guarantee.
+    a: Exact runtime hasn't been published, but Byrne's comparable theatrical tours (like American Utopia) have typically run around 100-110 minutes without an opener; treat this as a rough guide, not a guarantee.
   - q: What's nearby if I want to make a night of it?
-    a: >-
-      VivoCity mall sits right next to the venue with dining and shopping, and
-      Sentosa Island's attractions (beaches, Universal Studios Singapore, cable
-      car) are a short ride away if you want to extend the visit.
+    a: VivoCity mall sits right next to the venue with dining and shopping, and Sentosa Island's attractions (beaches, Universal Studios Singapore, cable car) are a short ride away if you want to extend the visit.
 aiGenerated: true
 eventRecurring: false
 ---

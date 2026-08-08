@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Vietnam International Flute Festival (VIFF) 2026: What to Know (Phu Quoc)'
 description: >-
   The Vietnam International Flute Festival (VIFF) 2026 runs July 23–28, 2026 in
@@ -12,13 +11,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-07-23'
 eventEndDate: '2026-07-28'
-heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1779513695013-21da6a1c2a8e?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UGh1JTIwUXVvYyUyMFZpZXRuYW0lMjBvcmNoZXN0cmElMjBjb25jZXJ0JTIwc3RhZ2V8ZW58MHwwfHx8MTc4NDc3NTMzNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Vivu Vietnam on Unsplash
-  license: unsplash
-  source: >-
-    https://unsplash.com/@bttsg?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - phu quoc
