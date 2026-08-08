@@ -353,12 +353,14 @@ const fmtEventDates = (p: any) => {
         <div class="tools-duo">
           {itins.length >= 3 && (
             <div class="widget tool-card tool-card--itin">
-              <p class="kicker gold">{t('home.itin.kicker')}</p>
-              <h2>{t('home.itin.title')}</h2>
-              <p class="ess-dek">{t('home.itin.dek')}</p>
+              <div class="itin-copy">
+                <p class="kicker gold">{t('home.itin.kicker')}</p>
+                <h2>{t('home.itin.title')}</h2>
+                <p class="ess-dek">{t('home.itin.dek')}</p>
+              </div>
               <div class="itin-chips">
                 {itins.map((it) => (
-                  <a class="btn" href={localizePath(`/itinerary/${it.id}`, lang)}>
+                  <a class="btn btn-ghost" href={localizePath(`/itinerary/${it.id}`, lang)}>
                     {t('home.itin.chip').replace('{city}', localizePlace(it.data.city, lang)).replace('{d}', String(it.data.days))}
                   </a>
                 ))}

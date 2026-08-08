@@ -920,11 +920,13 @@ html[lang^='zh'] .cover-inner h1 {
 .tools-duo { display: flex; flex-direction: column; gap: 1.1rem; }
 .tool-card h2 { margin: 0.45rem 0 0.5rem; font-size: clamp(1.35rem, 2.8vw, 1.9rem); }
 .tool-card .ess-dek { margin: 0 0 1rem; max-width: 46ch; }
-/* Itinerary band: gold tint, copy left, real course chips right. */
+/* Itinerary band: a LIGHT pine tint so the pair reads as one family — the
+   owner found gold-vs-deep-green too much contrast; light sage over deep
+   pine is the same hue at two depths. */
 .tool-card--itin {
   display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2.5rem;
-  background: color-mix(in srgb, var(--gold) 9%, var(--surface));
-  border: 1px solid color-mix(in srgb, var(--gold) 24%, var(--line));
+  background: color-mix(in srgb, var(--pine) 8%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--pine) 22%, var(--line));
 }
 .tool-card--itin .ess-dek { margin-bottom: 0; }
 /* Deep-pine inverse band, laid out exactly like the mock the owner liked:
@@ -934,14 +936,14 @@ html[lang^='zh'] .cover-inner h1 {
    gradient stops: heading 10.3/7.8, dek 7.0/5.3, kicker #eec472 6.4/4.9. */
 .tool-card--crowd {
   display: grid; grid-template-columns: 1fr 1.15fr; gap: 1.5rem 2.5rem; align-items: center;
-  background: linear-gradient(150deg, #33584a 0%, #27453a 58%, #2f5142 100%);
-  border: 1px solid #1f3a30;
+  background: linear-gradient(150deg, #3a6154 0%, #2f5347 58%, #375c4f 100%);
+  border: 1px solid #28463c;
 }
 .tool-card--crowd h2 { color: #fffdf9; }
-.tool-card--crowd .ess-dek { color: #d9d2c4; }
+.tool-card--crowd .ess-dek { color: #e2dccf; }
 .tool-card--crowd .kicker {
-  color: #eec472; display: inline-block; padding: 0.28rem 0.6rem; border-radius: var(--r-pill);
-  background: rgba(238, 196, 114, 0.13);
+  color: #f4d492; display: inline-block; padding: 0.28rem 0.6rem; border-radius: var(--r-pill);
+  background: rgba(244, 212, 146, 0.14);
 }
 .crowd-panel {
   background: rgba(255, 253, 249, 0.08); border: 1px solid rgba(255, 253, 249, 0.12);
@@ -949,22 +951,35 @@ html[lang^='zh'] .cover-inner h1 {
 }
 .crowd-panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-bottom: 0.75rem; }
 .crowd-panel-head b { color: #fffdf9; font-size: 0.95rem; }
-.crowd-panel-head span { font-size: 0.68rem; color: #b9b2a2; letter-spacing: 0.04em; white-space: nowrap; }
-.crowd-demo-bar { display: flex; gap: 4px; height: 64px; align-items: flex-end; }
-.crowd-demo-bar i { flex: 1; border-radius: 4px; background: rgba(255, 253, 249, 0.16); height: 48%; }
-.crowd-demo-bar i.quiet { background: linear-gradient(180deg, #7ac9a2, #4c8f6f); height: 78%; }
-.crowd-demo-bar i.busy { background: linear-gradient(180deg, #e89a8d, #c8443a); height: 100%; }
-.crowd-demo-lab { display: flex; justify-content: space-between; font-size: 0.62rem; color: #b9b2a2; margin-top: 5px; font-weight: 600; }
-.crowd-legend { display: flex; gap: 1rem; margin-top: 0.7rem; font-size: 0.7rem; color: #cfc8b8; flex-wrap: wrap; }
+.crowd-panel-head span { font-size: 0.68rem; color: #d5cebf; letter-spacing: 0.04em; white-space: nowrap; }
+/* Bar height = crowd level (the mock's grammar): quiet sits low in muted
+   sage, busy rises tall in muted terracotta — no saturated alarm-red, the
+   legend carries the meaning. */
+.crowd-demo-bar { display: flex; gap: 5px; height: 64px; align-items: flex-end; }
+.crowd-demo-bar i { flex: 1; border-radius: 6px; background: rgba(255, 253, 249, 0.13); height: 58%; }
+.crowd-demo-bar i.quiet { background: #9dbe9c; height: 34%; }
+.crowd-demo-bar i.busy { background: linear-gradient(180deg, #cd8a75, #b25f4a); height: 100%; }
+.crowd-demo-lab { display: flex; justify-content: space-between; font-size: 0.62rem; color: #cfc8b8; margin-top: 5px; font-weight: 600; }
+.crowd-legend { display: flex; gap: 1rem; margin-top: 0.7rem; font-size: 0.7rem; color: #d5cebf; flex-wrap: wrap; }
 .crowd-legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
 .crowd-legend i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
-.crowd-legend .lg-quiet { background: #7ac9a2; }
-.crowd-legend .lg-mid { background: rgba(255, 253, 249, 0.3); }
-.crowd-legend .lg-busy { background: #e89a8d; }
+.crowd-legend .lg-quiet { background: #9dbe9c; }
+.crowd-legend .lg-mid { background: rgba(255, 253, 249, 0.35); }
+.crowd-legend .lg-busy { background: #cd8a75; }
 @media (max-width: 860px) { .tool-card--crowd { grid-template-columns: 1fr; } }
-.itin-chips { display: flex; flex-wrap: wrap; gap: 0.55rem; align-items: center; margin-top: auto; }
+/* Copy needs its own wrapper or the band's flex scatters kicker/h2/dek into
+   three columns (the owner caught exactly that on desktop). */
+.itin-copy { max-width: 44ch; }
+.itin-copy .ess-dek { margin-bottom: 0; }
+/* The chips are LINKS — ghost-button chrome (border + surface) makes them
+   read as pressable; bare text did not (owner, on the phone). */
+.itin-chips { display: grid; grid-template-columns: repeat(2, minmax(9rem, 1fr)); gap: 0.6rem; align-items: stretch; }
+.itin-chips .btn { justify-content: center; min-height: 44px; white-space: nowrap; }
 .tool-card-cta { margin-top: auto; }
-@media (max-width: 760px) { .tools-duo { grid-template-columns: 1fr; } }
+@media (max-width: 760px) {
+  .itin-chips { width: 100%; grid-template-columns: 1fr 1fr; }
+  .itin-chips .btn-primary { grid-column: 1 / -1; }
+}
 
 /* Spotlight */
 .spotlight { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
