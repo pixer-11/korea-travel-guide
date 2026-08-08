@@ -1,75 +1,9 @@
 {
-  "validate-content": {
-    "ENDED-EVENT-FUTURE-TENSE hong-kong-hong-kong-football-festival-2026.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "DUPLICATE kuala-lumpur-aaron-kwok-iconic-world-tour-2026-live-in-malaysia.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "DUPLICATE tokushima-tokushima-awa-odori-festival.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNQUARANTINED-MISMATCH chiang-mai-the-baristro-asian-style.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNVERIFIED-PHOTO bali-livingstone.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNVERIFIED-PHOTO bali-this-is-bali-balinese-food-desserts.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNVERIFIED-PHOTO bangkok-the-grand-palace.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNVERIFIED-PHOTO chiang-rai-chivit-thamma-da-coffee-house-bistro-bar.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNVERIFIED-PHOTO chiang-rai-khao-soi-restaurant.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "UNVERIFIED-PHOTO \"16건\"": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {
-    "broken-bold posts/ja/gyeongju-history.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "broken-bold posts/ja/hoi-an-nhan-s-kitchen.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "broken-bold posts/ja/pamukkale-hierapolis.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
-      "seen": 1
-    },
-    "broken-bold posts/zh/krabi-railay-beach.md": {
-      "since": "2026-08-07",
-      "last": "2026-08-07",
+    "broken-syllable posts/ko/hong-kong-hong-kong-football-festival-2026.md": {
+      "since": "2026-08-08",
+      "last": "2026-08-08",
       "seen": 1
     }
   },
