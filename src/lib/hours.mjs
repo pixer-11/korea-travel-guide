@@ -108,7 +108,13 @@ function addOpenHoursFromLine(line, set) {
   if (/open 24 hours/i.test(s)) { for (let h = 0; h < 24; h++) set.add(h); return; }
   if (/closed/i.test(s)) return;
   for (const m of s.matchAll(re)) {
-    const a = to24(m[1], m[3] || m[6]);
+    let a = to24(m[1], m[3] || m[6]);
+    // A partially-open first hour is not a recommendable hour. Closing already
+    // works this way (h < b drops the 7:00–7:30 sliver of "closes 7:30 PM"),
+    // but opening kept it: "9:30 AM" counted hour 9 as open, the quiet-hour 9
+    // survived the clamp, and the writer told readers "come at 9–10am" to a
+    // door that opens 9:30 (nice-parc-ph-nix, held at the gate 2026-08-08).
+    if (m[2] && Number(m[2]) > 0) a += 1;
     let b = to24(m[4], m[6]);
     if (b <= a) b += 24;                       // closes after midnight
     for (let h = a; h < b; h++) set.add(h % 24);

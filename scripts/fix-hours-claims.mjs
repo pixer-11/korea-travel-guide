@@ -14,6 +14,7 @@ import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 import yaml from 'js-yaml';
+import { hoursProblems } from './audit-hours-claims.mjs';
 
 const DIR = 'src/content/posts';
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
@@ -50,12 +51,21 @@ for (const f of flagged) {
   try { fm = yaml.load(raw.slice(4, cut)); } catch { console.log(`  ✗ ${f}: unparseable`); failed++; continue; }
   const body = raw.slice(cut + 4);
   const hours = (fm.place?.openingHours ?? []).join('\n');
+  // Tell the model exactly what the auditor flagged. Without this list the
+  // model judged "arrive 9–10am, right at opening" as close enough to a 9:30
+  // door and returned the text unchanged — while this script still printed
+  // "✓ fixed" (nice-parc-ph-nix looped through hold→repair→hold twice).
+  const violations = hoursProblems(raw);
 
   const prompt = `This published travel guide gives visiting advice that contradicts the venue's real opening hours. Readers following it arrive at a closed door.
 
 VENUE: ${fm.place?.name || fm.title}
 REAL OPENING HOURS (from Google — these are correct and must not be contradicted):
 ${hours}
+
+AUTOMATED AUDIT FINDINGS — every one of these MUST be resolved, they are exact (minute-precise), not stylistic:
+${violations.map((v) => `- ${v}`).join('\n')}
+Note: a time like "9am" means 9:00 sharp. If the venue opens 9:30, "9am" and "9–10am" are WRONG and must become "9:30am" / "9:30–10am". Sub-hour precision matters.
 
 ARTICLE BODY:
 ${body}
@@ -107,7 +117,12 @@ Include description, quickAnswer and faq exactly as given if they needed no corr
         `${JSON.stringify(next.faq) !== JSON.stringify(fm.faq) ? ' +faq' : ''}`);
     } else {
       const head = yaml.dump(next, { lineWidth: -1, quotingType: '"', forceQuotes: false });
-      writeFileSync(path, `---\n${head}---\n\n${out}\n`);
+      const candidate = `---\n${head}---\n\n${out}\n`;
+      // Success is "the auditor is satisfied", not "the model replied". An
+      // unchanged reply used to be written and reported as ✓ here.
+      const still = hoursProblems(candidate);
+      if (still.length) throw new Error(`rewrite still contradicts hours: ${still.join(' | ')}`);
+      writeFileSync(path, candidate);
       console.log(`  ✓ ${f}`);
     }
     fixed++;

@@ -32,21 +32,8 @@ place:
     - 'Sunday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet:
-      - 7
-    weekdayBusy:
-      - 9
-      - 10
-      - 11
-      - 12
-      - 15
-      - 16
-      - 17
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 19
+    weekdayBusy: [9, 10, 11, 12, 16, 17]
+    weekendQuiet: [8, 9, 19]
     weekendBusy:
       - 16
       - 17

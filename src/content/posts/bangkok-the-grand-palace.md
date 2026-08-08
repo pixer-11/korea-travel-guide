@@ -27,10 +27,6 @@ place:
   lng: 100.4915765
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-    weekendQuiet:
-      - 8
     weekendBusy:
       - 11
     venueId: ven_6f43623331396b767a555152416a345a36554d735a7a504a496843

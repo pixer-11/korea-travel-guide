@@ -162,9 +162,15 @@ for (const [f, why] of reasons) {
     // Written as a plain line rather than through a YAML round-trip: re-dumping
     // the frontmatter would reformat place/heroImage/gallery on every post it
     // touches, and this runs on live content.
-    const next = /^draft:\s*false\s*$/m.test(raw)
+    // `heldReason: hours` records WHY inside the file. The repair patrol keys
+    // on it: a held post whose contradiction later vanishes by another route
+    // (data refresh, direct fix) passes the audit and used to become invisible
+    // to the patrol — held forever with nothing wrong (nice-parc-ph-nix,
+    // 2026-08-08). Photo quarantines carry no marker and stay untouched.
+    let next = /^draft:\s*false\s*$/m.test(raw)
       ? raw.replace(/^draft:\s*false\s*$/m, 'draft: true')
       : raw.replace(/^---\r?\n/, `---\ndraft: true\n`);
+    if (!/^heldReason:/m.test(next)) next = next.replace(/^draft:\s*true\s*$/m, 'draft: true\nheldReason: hours');
     writeFileSync(path, next);
   }
   held.push({ f, why: [...why] });

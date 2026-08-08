@@ -33,22 +33,11 @@ place:
     - 'Sunday: 11:45 AM – 3:15 PM, 6:15 – 10:15 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayQuiet:
-      - 11
     weekdayBusy:
       - 19
       - 20
       - 21
-    weekendQuiet:
-      - 11
-    weekendBusy:
-      - 12
-      - 13
-      - 14
-      - 18
-      - 19
-      - 20
-      - 21
+    weekendBusy: [12, 13, 14, 19, 20, 21]
     venueId: ven_6b6759667561755475755a5263453972665936665959624a496843
 tags:
   - lyon

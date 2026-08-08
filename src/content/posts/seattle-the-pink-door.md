@@ -40,17 +40,7 @@ place:
     weekdayQuiet: []
     weekdayBusy: []
     weekendQuiet: []
-    weekendBusy:
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
+    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
     venueId: ven_6f62727131423057536d4b5251466b714a727a4f5931394a496843
 tags:
   - seattle

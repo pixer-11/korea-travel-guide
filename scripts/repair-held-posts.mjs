@@ -12,7 +12,7 @@
 // re-audit → republish only what now passes → refresh its four translations.
 //
 //   node scripts/repair-held-posts.mjs           (used by publish.yml, after the gate)
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 
@@ -24,16 +24,32 @@ const run = (cmd) => {
 
 // Quarantined posts the hours audit flags. Photo quarantines are NOT touched —
 // they belong to the photo patrol, which has the API keys this script does not.
-const before = run('node scripts/audit-hours-claims.mjs --drafts')
+const flagged = run('node scripts/audit-hours-claims.mjs --drafts')
   .split('\n')
   .map((l) => l.match(/^HOURS-CONTRADICTION:\s*(\S+)\.md/)?.[1])
   .filter(Boolean)
   .filter((slug) => /^draft:\s*true/m.test(readFileSync(join(DIR, `${slug}.md`), 'utf8')));
 
-if (!before.length) { console.log('수리할 격리 글 없음'); process.exit(0); }
-console.log(`격리 글 ${before.length}편 수리 시도: ${before.join(', ')}`);
+// Held for hours (gate marker) but passing the audit today — the contradiction
+// vanished by another route (data refresh, direct fix). These need no rewrite,
+// only release; without this branch they stayed held forever with nothing
+// wrong (nice-parc-ph-nix, 2026-08-08). Photo quarantines never carry the
+// marker, so they never enter this list.
+const healed = readdirSync(DIR)
+  .filter((f) => f.endsWith('.md'))
+  .map((f) => f.replace(/\.md$/, ''))
+  .filter((slug) => !flagged.includes(slug))
+  .filter((slug) => {
+    const raw = readFileSync(join(DIR, `${slug}.md`), 'utf8');
+    return /^draft:\s*true/m.test(raw) && /^heldReason:\s*hours/m.test(raw);
+  });
 
-run(`node scripts/fix-hours-claims.mjs --drafts --only=${before.join(',')}`);
+const before = [...flagged, ...healed];
+if (!before.length) { console.log('수리할 격리 글 없음'); process.exit(0); }
+console.log(`격리 글 ${before.length}편 수리 시도: ${before.join(', ')}` +
+  (healed.length ? ` (이미 치유되어 해제만 필요: ${healed.join(', ')})` : ''));
+
+if (flagged.length) run(`node scripts/fix-hours-claims.mjs --drafts --only=${flagged.join(',')}`);
 
 // Republish only what the audit now clears — a failed rewrite stays held.
 const still = new Set(
@@ -48,7 +64,9 @@ for (const slug of before) {
   if (still.has(slug)) { console.log(`  ✗ ${slug} — 수리 후에도 모순 남음, 격리 유지`); continue; }
   const p = join(DIR, `${slug}.md`);
   const raw = readFileSync(p, 'utf8');
-  writeFileSync(p, raw.replace(/^draft:\s*true\s*$/m, 'draft: false'));
+  writeFileSync(p, raw
+    .replace(/^draft:\s*true\s*$/m, 'draft: false')
+    .replace(/^heldReason:.*\r?\n/m, ''));
   repaired.push(slug);
   console.log(`  ✓ ${slug} — 수리 완료, 재발행`);
 }

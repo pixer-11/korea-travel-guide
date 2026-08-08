@@ -22,7 +22,7 @@ place:
   lng: 127.14888669999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [10, 19, 20]
+    weekdayQuiet: [19, 20]
     weekendQuiet: [20]
     weekendBusy:
       - 12

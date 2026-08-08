@@ -32,19 +32,10 @@ place:
     - 'Sunday: 2:00 – 5:15 PM'
   busyness:
     updated: 2026-07-30T00:00:00.000Z
-    weekdayQuiet:
-      - 8
-      - 9
+    weekdayQuiet: [9]
     weekdayBusy: []
-    weekendQuiet:
-      - 8
-      - 9
-    weekendBusy:
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
+    weekendQuiet: [9]
+    weekendBusy: [13, 14, 15, 16]
     venueId: ven_6365466e6358396564434f52636b6c494c3155356734514a496843
 tags:
   - strasbourg

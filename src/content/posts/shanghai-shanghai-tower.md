@@ -32,14 +32,10 @@ place:
     - 'Sunday: 8:30 AM – 9:30 PM'
   busyness:
     updated: 2026-08-04T00:00:00.000Z
-    weekdayQuiet:
-      - 8
     weekdayBusy:
       - 18
       - 19
       - 20
-    weekendQuiet:
-      - 8
     weekendBusy:
       - 19
       - 20

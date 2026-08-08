@@ -37,11 +37,8 @@ place:
   busyness:
     updated: 2026-08-08T00:00:00.000Z
     weekdayQuiet:
-      - 9
       - 10
       - 18
-    weekendQuiet:
-      - 9
     weekendBusy:
       - 12
       - 13
@@ -53,12 +50,12 @@ place:
 tags:
   - nice
   - park
-quickAnswer: Parc Phœnix is a large botanical garden and free-entry zoo on the western Promenade des Anglais, best known for its huge tropical glasshouse, aviaries, otters and wallabies. It's open daily 9:30am–7:30pm; weekends get busy from noon to 6pm, so aim for early weekend mornings (9–10am) or any weekday, which stays calm all day. Give yourself two to three hours to see it properly.
+quickAnswer: Parc Phœnix is a large botanical garden and free-entry zoo on the western Promenade des Anglais, best known for its huge tropical glasshouse, aviaries, otters and wallabies. It's open daily 9:30am–7:30pm; weekends get busy from noon to 6pm, so aim for early weekend mornings (9:30–10am) or any weekday, which stays calm all day. Give yourself two to three hours to see it properly.
 faq:
   - q: How do I get to Parc Phœnix without a car?
     a: Take Tram Line 2 to the Parc Phœnix stop — it drops you right at the entrance, about 20 minutes from central Nice.
   - q: When is the quietest time to visit?
-    a: Weekdays stay calm all day. On weekends, arrive between 9am and 10am, right at opening, before crowds build from noon to 6pm.
+    a: Weekdays stay calm all day. On weekends, arrive between 9:30am and 10am, right at opening, before crowds build from noon to 6pm.
   - q: How long should I plan to spend there?
     a: Most visitors need two to three hours to see the glasshouse, gardens and animal enclosures without rushing.
   - q: Is entry free?
@@ -66,7 +63,7 @@ faq:
   - q: What's nearby if I want to extend the visit?
     a: The Promenade des Anglais runs right outside, and the same tram line connects onward to Nice's Old Town and main museums.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
@@ -108,7 +105,7 @@ Spring and early summer bring the gardens into fuller bloom, while midday in Jul
 
 ## How to visit like a local
 
-Parc Phœnix is genuinely popular with both residents and visitors, so the smart move is timing, not secrecy. Weekday mornings or the 9–10am weekend slot are your best shot at quiet paths and unobstructed views of the animal habitats.
+Parc Phœnix is genuinely popular with both residents and visitors, so the smart move is timing, not secrecy. Weekday mornings or the 9:30–10am weekend slot are your best shot at quiet paths and unobstructed views of the animal habitats.
 
 Entry to the gardens and zoo areas is typically free, though the glasshouse and some special exhibits can carry a small separate charge — confirm current pricing at the gate before you go, since it does shift.
 

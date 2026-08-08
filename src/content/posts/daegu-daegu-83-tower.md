@@ -27,10 +27,7 @@ place:
   lng: 128.5665668
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 11
-      - 12
-      - 19
+    weekdayQuiet: [12, 19]
     weekendBusy:
       - 12
       - 13
