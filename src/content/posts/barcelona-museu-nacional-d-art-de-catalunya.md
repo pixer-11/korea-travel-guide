@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 41.3684399
   lng: 2.1535699999999998
+  phone: '+34 936 22 03 60'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 3:00 PM'
 tags:
   - barcelona
   - museum

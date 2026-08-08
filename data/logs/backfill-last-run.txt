@@ -1,12 +1,12 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 49 itinerary stop(s) queued first
-  ✓ bangkok-national-museum-bangkok.md +phone +7h hours (new post top-up)
+Priority: 63 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
-  ✓ bangkok-suan-luang-rama-ix.md +phone +7h hours (new post top-up)
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
   – bangkok-the-grand-palace.md: nothing new
   – bangkok-the-temple-of-the-emerald-buddha.md: nothing new
-  ✓ bangkok-view-rooftop-bangkok.md +phone +7h hours (new post top-up)
+  – barcelona-ciutadella-park.md: nothing new
+  – barcelona-la-rambla.md: nothing new
+  ✓ barcelona-museu-nacional-d-art-de-catalunya.md +phone +7h hours
+  – barcelona-placa-nova.md: nothing new
   – new-york-the-channel-gardens.md: nothing new
   – new-york-times-square.md: nothing new
   – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
@@ -24,8 +24,6 @@ Priority: 49 itinerary stop(s) queued first
   – amalfi-coast-amalfi-coast.md: nothing new
   – amalfi-coast-positano.md: nothing new
   – amalfi-coast-valle-delle-ferriere.md: nothing new
-  ✓ amalfi-coast-villa-rufolo.md +phone +7h hours (new post top-up)
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
   – ankara-ankara-castle.md: nothing new
 
-BACKFILL RESULT: updated 4, backlog-updated 0, already-complete 45, no-new-data 21, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 811 (APPLIED).
+BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 59, no-new-data 24, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 826 (APPLIED).
