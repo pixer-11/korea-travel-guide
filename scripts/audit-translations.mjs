@@ -13,10 +13,32 @@
 //  Usage: node scripts/audit-translations.mjs [--verbose]
 // ─────────────────────────────────────────────────────────────
 import { readFile, readdir } from 'node:fs/promises';
+import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { micromark } from 'micromark';
 import { gfm, gfmHtml } from 'micromark-extension-gfm';
 import yaml from 'js-yaml';
+
+// ── Broken-syllable detection (ko) ──────────────────────────────────────────
+// The translator occasionally emits a Hangul syllable one jamo off: 쯤 shipped
+// as 쯽/쯴/쯈/쯍/쯑/쯘/쯐/쯃/쯌 across 16 live pages, 쪽 as 쪤, 딪 as 딖 (the
+// owner caught 장소쯽 on a live page, 2026-08-08). Modern Korean prose lives
+// inside the KS X 1001 wansung set (2,350 syllables, generated into
+// src/data/ko-wansung.txt); a syllable outside it is a typo UNLESS it is a
+// known loanword transliteration — Thai/Vietnamese names legitimately use
+// extended syllables (똠얌, 프라웻, 왓 쩻 욧…). Add new legit syllables to the
+// allowlist; never loosen the set.
+const KO_WANSUNG = new Set(readFileSync(new URL('../src/data/ko-wansung.txt', import.meta.url), 'utf8'));
+const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱']);
+const koBrokenSyllables = (text) => {
+  const bad = [];
+  for (const m of text.matchAll(/[가-힣]/g)) {
+    const ch = m[0];
+    if (KO_WANSUNG.has(ch) || KO_EXTENDED_OK.has(ch)) continue;
+    bad.push(`${ch} — ${text.slice(Math.max(0, m.index - 12), m.index + 13).replace(/\n/g, ' ')}`);
+  }
+  return bad;
+};
 
 const ROOTS = [
   ['src/content/i18n', 'posts'],
@@ -160,6 +182,9 @@ function auditBody(lang, body) {
   if (CHATTER.test(firstPara)) flags.push(['translator-chatter', firstPara]);
   const brokenBold = brokenBoldLine(body);
   if (brokenBold !== null) flags.push(['broken-bold', brokenBold]);
+  if (lang === 'ko') {
+    for (const b of koBrokenSyllables(body).slice(0, 3)) flags.push(['broken-syllable', b]);
+  }
   const paras = body.split(/\n{2,}/).map((p) => p.trim()).filter((p) => p.length >= 60 && !p.startsWith('|'));
   for (const raw of paras) {
     if (isLinkList(raw)) continue;
