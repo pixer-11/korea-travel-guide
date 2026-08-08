@@ -1,25 +1,14 @@
 {
-  "audited": 538,
-  "at": "2026-08-01T19:54:34.449Z",
-  "imgBad": 12,
-  "proseBad": 99,
+  "audited": 736,
+  "at": "2026-08-08T19:24:12.471Z",
+  "imgBad": 22,
+  "proseBad": 163,
   "results": [
-    {
-      "slug": "abu-dhabi-art-house-cafe",
-      "category": "trendy",
-      "region": "Abu Dhabi",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "priced in the mid-range (a $$ price level)"
-        }
-      ]
-    },
     {
       "slug": "abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr",
       "category": "event",
       "region": "Abu Dhabi",
-      "image": "UFC promotional tent, not the actual fight event"
+      "image": "UFC promo tent, not the actual fight event/venue"
     },
     {
       "slug": "alcaniz-parador-de-alcaniz",
@@ -28,130 +17,119 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Teruel ham, migas, slow-braised lamb, and regional wines from Cariñena and Somontano"
+          "quote": "open year-round, round the clock"
         }
       ]
     },
     {
-      "slug": "antalya-hadrian-s-gate",
+      "slug": "ankara-an-tkabir",
       "category": "hidden-gem",
-      "region": "Antalya",
+      "region": "Ankara",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "use the gate as a everyday shortcut"
+          "quote": "Measured foot traffic shows the site is calmest between 9am and 5pm on both weekdays and weekends, which sounds broad but essentially means: come right as it opens rather than mid-morning."
         }
       ]
     },
     {
-      "slug": "ayutthaya-the-summer-house",
-      "category": "trendy",
+      "slug": "ankara-trilye-restaurant",
+      "category": "restaurant",
+      "region": "Ankara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "cold vegetable and seafood mezes like ezme, sea bass marinated in olive oil, or octopus salad"
+        }
+      ]
+    },
+    {
+      "slug": "arlington-bts-world-tour-arlington",
+      "category": "event",
+      "region": "Arlington",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "ayutthaya-the-artisans-ayutthaya",
+      "category": "restaurant",
       "region": "Ayutthaya",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "expect roughly 300–600 THB per person depending on how much you order"
+          "quote": "an early dinner around 5–6pm lets you catch the transition into evening light"
         }
       ]
     },
     {
-      "slug": "ayutthaya-wat-mahathat",
+      "slug": "ayutthaya-bueng-phra-ram-park",
       "category": "attraction",
       "region": "Ayutthaya",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Street vendors near the entrance sell cold coconut water and iced Thai tea"
+          "quote": "the park gets genuinely busy from 4pm to 11pm"
         }
       ]
     },
     {
-      "slug": "bali-livingstone",
-      "category": "trendy",
-      "region": "Bali",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "At a price level of 2 (moderate for Bali's café scene)"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "large group without a booking is the most common reason visitors end up waiting"
-        }
-      ]
-    },
-    {
-      "slug": "bali-bukit-peninsula-uluwatu-avli",
-      "category": "restaurant",
+      "slug": "bali-secret-garden-village",
+      "category": "hidden-gem",
       "region": "Bali",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "purpose-built 700 square-meter space designed by DA Bureau"
+          "quote": "Arrive right at opening or after 3pm to slip in between tour-bus waves"
         }
       ]
     },
     {
-      "slug": "bali-this-is-bali-balinese-food-desserts",
-      "category": "restaurant",
-      "region": "Bali",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "price level 2"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "go for an early lunch (11:30am)"
-        }
-      ]
-    },
-    {
-      "slug": "bangkok-cheaper-better-street-food",
-      "category": "restaurant",
-      "region": "Bangkok",
-      "prose": [
-        {
-          "type": "broken-markdown",
-          "quote": "**Sala Daeng station**"
-        },
-        {
-          "type": "broken-markdown",
-          "quote": "**Silom station**"
-        },
-        {
-          "type": "broken-markdown",
-          "quote": "**12:00pm and 1:30pm on a weekday**"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "stalls run from midday until 11pm"
-        }
-      ]
-    },
-    {
-      "slug": "bangkok-david-byrne-live-in-bangkok",
+      "slug": "bangkok-bangkok-international-festival-of-dance-music",
       "category": "event",
       "region": "Bangkok",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "bangkok-earth-house-restaurant-wine-bar",
+      "category": "restaurant",
+      "region": "Bangkok",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "Given Monday's typically lighter weekend crowds"
+          "type": "invented-specifics",
+          "quote": "Tuesday through Thursday, doors open at 1:30pm and run to 11pm"
         },
         {
           "type": "invented-specifics",
-          "quote": "famous for street food stalls selling boat noodles, oyster omelets, and mango sticky rice"
+          "quote": "Friday through Sunday, it opens at 9am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the 9am–11pm Friday-to-Sunday stretch"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Tuesday to Thursday, nothing opens before 1:30pm"
         }
       ]
     },
     {
-      "slug": "bangkok-kodaline-farewell-tour",
-      "category": "event",
+      "slug": "bangkok-king-power-mahanakhon",
+      "category": "attraction",
       "region": "Bangkok",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "EmSporium, EmQuartier, EmSphere"
+          "type": "invented-specifics",
+          "quote": "open hours (10am–11pm daily)"
+        }
+      ]
+    },
+    {
+      "slug": "bangkok-the-temple-of-the-emerald-buddha",
+      "category": "attraction",
+      "region": "Bangkok",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The complex is open every day, 8:30am to 3:30pm"
         }
       ]
     },
@@ -159,29 +137,196 @@
       "slug": "bangkok-the-grand-palace",
       "category": "attraction",
       "region": "Bangkok",
-      "image": "Incidental rooftop silhouette fragment, not representative Grand Palace view"
+      "image": "Incidental roofline silhouette, not representative Grand Palace view"
     },
     {
-      "slug": "bengaluru-aquarium-paradise",
-      "category": "hidden-gem",
-      "region": "Bengaluru",
+      "slug": "bangkok-the-island-bangkok-top-rated-thai-restaurant-bar",
+      "category": "restaurant",
+      "region": "Bangkok",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open every day of the week, 10:30am to 8pm, with no midday closure"
+          "quote": "think tom yum goong, pad kra pao, green curry, whole grilled fish, and morning-glory stir-fries"
         }
       ]
+    },
+    {
+      "slug": "barcelona-casa-batllo",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The building opens at 8:30am and stays open every day of the week until 10:30pm"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-christopher-columbus-monument",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "8:30am–2:30pm window every day of the week"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-ciutadella-park",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The quietest window on weekdays runs from 7am to 8am, and on weekends from 7am to 9am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "stays heavy from 11am straight through to 8pm"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-la-rambla",
+      "category": "hidden-gem",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "a arcaded 19th-century square"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-la-pedrera-casa-mila",
+      "category": "hidden-gem",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "opens daily from 9am to 11pm, with no weekly closing day"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-mercat-de-la-boqueria",
+      "category": "hidden-gem",
+      "region": "Barcelona",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "barcelona-mirador-torre-glories",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The deck is open every day, 10am to 10pm, with no seasonal variation listed."
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-museu-d-art-contemporani-de-barcelona",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open 10am–8pm Monday, Wednesday through Saturday, and only until 3pm on Sundays"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-museu-nacional-d-art-de-catalunya",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The museum is closed on Mondays"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-park-guell",
+      "category": "attraction",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The park opens at 9am and runs to 7:30pm every day of the week"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-placa-nova",
+      "category": "hidden-gem",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "added in 1960"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-the-grill-barcelona",
+      "category": "restaurant",
+      "region": "Barcelona",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "beijing-prince-gong-mansion",
+      "category": "attraction",
+      "region": "Beijing",
+      "image": "Flowers dominate; pavilion is incidental background fragment, not representative"
+    },
+    {
+      "slug": "beijing-forbidden-city",
+      "category": "attraction",
+      "region": "Beijing",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the door opens once daily"
+        }
+      ]
+    },
+    {
+      "slug": "beijing-the-palace-museum",
+      "category": "hidden-gem",
+      "region": "Beijing",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "It's open Tuesday through Sunday, 8:30am to 4:30pm"
+        }
+      ]
+    },
+    {
+      "slug": "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open",
+      "category": "event",
+      "region": "Bhubaneswar",
+      "image": "NO HERO"
     },
     {
       "slug": "bhubaneswar-regional-museum-of-natural-history",
       "category": "hidden-gem",
       "region": "Bhubaneswar",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The museum runs 10am to 6pm every day of the week except Monday, when it's closed entirely"
-        }
-      ]
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "bocaue-post-malone-live-in-manila",
+      "category": "event",
+      "region": "Bocaue",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "bilbao-cafe-bar-bilbao",
+      "category": "trendy",
+      "region": "Bilbao",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
       "slug": "bhubaneswar-udayagiri-and-khandagiri-caves",
@@ -190,7 +335,11 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "The site opens at 6:30am and stays open until 7:30pm every day"
+          "quote": "the calm stretch runs from opening at 7am through the day on weekdays"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "ideally at or soon after the 6:30am opening on a weekday"
         }
       ]
     },
@@ -201,7 +350,11 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open Tuesday through Sunday, 11am to 7pm"
+          "quote": "from 11am right through to 7pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "closed all day Monday"
         }
       ]
     },
@@ -212,63 +365,72 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "21 Rue du Chai des Farines"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "wines running 13–14.5% alcohol"
+          "quote": "three châteaux times four pours adds up faster than it seems"
         }
       ]
     },
     {
-      "slug": "bologna-basilica-of-san-domenico",
-      "category": "hidden-gem",
-      "region": "Bologna",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the church stays quiet from 7:30am to 1pm and again from 3:30pm to 8pm, its full opening hours"
-        }
-      ]
-    },
-    {
-      "slug": "boston-boston-common",
-      "category": "hidden-gem",
-      "region": "Boston",
+      "slug": "boryeong-mud-festival",
+      "category": "event",
+      "region": "Boryeong",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "Park Street MRA station"
+          "quote": "ITX-Mugunghwa"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "ganghwa-style seafood pancakes"
         }
       ]
     },
     {
-      "slug": "busan-gamcheon-culture-village",
-      "category": "hidden-gem",
+      "slug": "bunol-la-tomatina",
+      "category": "event",
+      "region": "Buñol",
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "**August 26, 2026**"
+        }
+      ]
+    },
+    {
+      "slug": "busan-cheongsapo",
+      "category": "trendy",
       "region": "Busan",
       "prose": [
         {
           "type": "broken-markdown",
-          "quote": "**Gamcheon Culture Village Art Space**"
+          "quote": "**Cheongsapo Daritdol Observatory (Skywalk)**"
         },
         {
-          "type": "invented-specifics",
-          "quote": "opening through around 10:30am"
+          "type": "broken-markdown",
+          "quote": "**mulhoe**"
         }
       ]
+    },
+    {
+      "slug": "busan-haedong-yonggungsa-temple",
+      "category": "attraction",
+      "region": "Busan",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "chandigarh-quick-style-india-tour-2026",
+      "category": "event",
+      "region": "Chandigarh",
+      "image": "NO HERO"
     },
     {
       "slug": "cappadocia-pigeon-valley",
       "category": "attraction",
       "region": "Cappadocia",
+      "image": "Shows Uçhisar Castle/town with balloons, not Pigeon Valley",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "around 7:30–8:30am"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Göreme No:24, Aşağı, Uçhisar/Nevşehir"
+          "quote": "There's no entry fee or ticket booth"
         }
       ]
     },
@@ -279,25 +441,44 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open 4–10pm Monday through Friday, 3–10pm on Saturday, and closed all day Sunday"
+          "quote": "4pm on weekdays, 3pm on Saturdays"
         }
       ]
     },
     {
-      "slug": "chiang-mai-garden-to-table-chiangmai",
-      "category": "restaurant",
-      "region": "Chiang Mai",
-      "image": "Incidental interior fragment showing wall poster, not representative venue",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "chiang-mai-the-baristro-asian-style",
-      "category": "trendy",
+      "slug": "chiang-mai-wat-chedi-luang",
+      "category": "attraction",
       "region": "Chiang Mai",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "peak lunch hours (12–1:30pm)"
+          "quote": "added in 1928"
+        }
+      ]
+    },
+    {
+      "slug": "chiang-mai-wat-phra-singh-woramahawihan",
+      "category": "attraction",
+      "region": "Chiang Mai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Hours run 5:30am to 7:30pm most days; Sundays it stays open later, until 11pm"
+        }
+      ]
+    },
+    {
+      "slug": "chiang-rai-baan-dam-museum",
+      "category": "attraction",
+      "region": "Chiang Rai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Measured foot-traffic shows the calmest hours run from 9am to 6pm on both weekdays and weekends"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "weekend crowds build steadily and peak between 1pm and 4pm"
         }
       ]
     },
@@ -307,30 +488,72 @@
       "region": "Chiba",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "gymnasion-style athletic area"
+          "type": "invented-specifics",
+          "quote": "arriving before 9am gives you the best chance of seeing them fully open"
         }
       ]
+    },
+    {
+      "slug": "chiba-tokyo-and-osaka-summer-sonic-2026",
+      "category": "event",
+      "region": "Chiba",
+      "image": "NO HERO"
     },
     {
       "slug": "chicago-360-chicago",
       "category": "hidden-gem",
       "region": "Chicago",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Opening hours run 9am to 11pm every day of the week"
-        }
-      ]
+      "image": "Person posing indoors dominates frame, not the venue itself"
     },
     {
-      "slug": "chicago-navy-pier",
+      "slug": "chicago-field-museum",
       "category": "attraction",
       "region": "Chicago",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Navy Pier is open daily, 11am to 8pm Monday through Thursday, 11am to 10pm Friday and Saturday, and 11am to 9pm on Sunday"
+          "quote": "9am to 6pm sees steadier, lighter traffic on weekdays"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-medinah-temple",
+      "category": "attraction",
+      "region": "Chicago",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "9am to 5pm, Monday through Friday"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-cloud-gate",
+      "category": "attraction",
+      "region": "Chicago",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The closest CTA rail stop is the Randolph/Washington Millennium Station on the Metra Electric line"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-sawada-coffee",
+      "category": "trendy",
+      "region": "Chicago",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open every day from 8am to 4pm, with no evening hours"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get considerably busier from 11am through closing at 4pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "closing promptly at 4pm every day"
         }
       ]
     },
@@ -338,7 +561,46 @@
       "slug": "chinatown-my-awesome-cafe",
       "category": "trendy",
       "region": "Chinatown",
-      "image": "Isolated drink close-up, not representative venue interior/exterior shot"
+      "image": "Isolated drink close-up, not representative of the café venue"
+    },
+    {
+      "slug": "chuncheon-gangchon-rail-park",
+      "category": "hidden-gem",
+      "region": "Chuncheon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "arrive right at the 9:00 AM opening"
+        }
+      ]
+    },
+    {
+      "slug": "chuncheon-1-5-dakgalbi",
+      "category": "restaurant",
+      "region": "Chuncheon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "stays comparatively calm from 11am to 10pm on both weekdays and weekends — essentially the entire time it's open"
+        }
+      ]
+    },
+    {
+      "slug": "clarke-quay-clarke-quay-jetty",
+      "category": "hidden-gem",
+      "region": "Clarke Quay",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "expect payment to be cashless (card or mobile pay) at the ticket counter"
+        }
+      ]
+    },
+    {
+      "slug": "da-nang-airtime-asia-2026",
+      "category": "event",
+      "region": "Da Nang",
+      "image": "NO HERO"
     },
     {
       "slug": "clarke-quay-cq-clarke-quay",
@@ -347,18 +609,24 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "many restaurants start service around 5:30–6pm"
+          "quote": "best enjoyed after 5pm"
         }
       ]
     },
     {
-      "slug": "daegu-nazar-kebab",
+      "slug": "clarke-quay-malayan-settlement",
       "category": "restaurant",
-      "region": "Daegu",
+      "region": "Clarke Quay",
+      "image": "Close-up plated dish, not representative venue view"
+    },
+    {
+      "slug": "damyang-bamboo-forest",
+      "category": "attraction",
+      "region": "Damyang",
       "prose": [
         {
-          "type": "symbol-in-prose",
-          "quote": "Price level sits at a moderate \"2,\""
+          "type": "broken-markdown",
+          "quote": "**daetongbap**"
         }
       ]
     },
@@ -369,33 +637,34 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open daily from 8:00 AM to 4:30 PM, with no closing day"
+          "quote": "The center is open daily"
         }
       ]
     },
     {
-      "slug": "davao-people-s-park",
-      "category": "attraction",
-      "region": "Davao",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Right after opening at 1pm on weekdays is noticeably quieter"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "go right when it opens at 1pm on a weekday"
-        }
-      ]
+      "slug": "east-rutherford-bruno-mars-the-romantic-tour",
+      "category": "event",
+      "region": "East Rutherford",
+      "image": "NO HERO"
     },
     {
       "slug": "dubai-dubai-summer-surprises-dss-2026",
       "category": "event",
       "region": "Dubai",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "florence-basilica-of-santa-croce-in-florence",
+      "category": "hidden-gem",
+      "region": "Florence",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Organized by the Dubai Festivals and Retail Establishment (DFRE)"
+          "quote": "opens at 9:30am Monday through Saturday and closes at 5:30pm; Sundays it runs shorter hours, 12:30–5:45pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Franciscan friars have taught leatherworking since the 1950s"
         }
       ]
     },
@@ -406,24 +675,19 @@
       "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
-      "slug": "florence-cathedral-of-santa-maria-del-fiore",
+      "slug": "florence-galleria-dell-accademia-di-firenze",
       "category": "attraction",
       "region": "Florence",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "closing at 3:45pm"
-        }
-      ]
+      "image": "Shows plaster cast bust collection, not the famous David gallery"
     },
     {
-      "slug": "fujairah-steki",
-      "category": "restaurant",
-      "region": "Fujairah",
+      "slug": "foxborough-bts-world-tour",
+      "category": "event",
+      "region": "Foxborough",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "Gulf dining culture skews toward late evening meals starting after 8pm"
+          "type": "template-chatter",
+          "quote": "haven't been officially detailed in the facts available here"
         }
       ]
     },
@@ -431,44 +695,69 @@
       "slug": "fukuoka-fuglen-coffee-keyakidori",
       "category": "hidden-gem",
       "region": "Fukuoka",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the quiet hiss of a espresso machine"
+        }
+      ]
     },
     {
-      "slug": "fukuoka-manly",
-      "category": "trendy",
+      "slug": "fukuoka-tanga-market",
+      "category": "hidden-gem",
       "region": "Fukuoka",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "right at opening (11am) through noon"
+          "quote": "10am to 5pm Monday through Saturday"
         }
       ]
+    },
+    {
+      "slug": "gangneung-gyeongpo-beach",
+      "category": "attraction",
+      "region": "Gangneung",
+      "image": "Photo of a sign/bench, not the beach itself"
     },
     {
       "slug": "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows",
       "category": "event",
       "region": "Goyang",
-      "image": "Different performer (Coldplay-style visuals), not BIGBANG"
+      "image": "NO HERO"
     },
     {
-      "slug": "goa-fort-aguada",
+      "slug": "gangneung-ojukheon",
       "category": "attraction",
-      "region": "Goa",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "a a stop of an hour or so"
-        }
-      ]
-    },
-    {
-      "slug": "gangneung-local-restaurant",
-      "category": "restaurant",
       "region": "Gangneung",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "11am–1pm"
+          "quote": "open daily from 9am to 5pm"
+        }
+      ]
+    },
+    {
+      "slug": "george-town-george-town-festival-2026-beyond-boundaries",
+      "category": "event",
+      "region": "George Town",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "granada-generalife",
+      "category": "attraction",
+      "region": "Granada",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "8:30am to 8pm every day of the week"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "the calmest conditions actually stretch across the full 8:30am–8pm day, both on weekdays and weekends"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Nazrid Palaces"
         }
       ]
     },
@@ -479,24 +768,7 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Come right at opening, 10am, on a weekday"
-        }
-      ]
-    },
-    {
-      "slug": "guangzhou-huacheng-square",
-      "category": "attraction",
-      "region": "Guangzhou",
-      "image": "Photo of a stone sign, not the square itself"
-    },
-    {
-      "slug": "guilin-reed-flute-cave",
-      "category": "attraction",
-      "region": "Guilin",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "rush you through in twenty minutes flat"
+          "quote": "Entry to the park itself is free"
         }
       ]
     },
@@ -504,16 +776,63 @@
       "slug": "granada-mirador-de-san-nicolas",
       "category": "hidden-gem",
       "region": "Granada",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "mornings between 7am and 10am, on both weekdays and weekends, are consistently the quietest window"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "stays busy all the way until 11pm"
+        }
+      ]
     },
     {
-      "slug": "gyeongju-woljeonggyo-bridge",
+      "slug": "granada-nasrid-palaces",
+      "category": "attraction",
+      "region": "Granada",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The complex opens at 8am"
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-guangzhou-restaurant",
+      "category": "restaurant",
+      "region": "Guangzhou",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The restaurant runs the same hours every day, 11am to 11pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "barbecue pork buns (char siu bao), shrimp dumplings, and the restaurant's rendition of rice-flour rolls are the dishes people specifically come back for"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "according to measured foot-traffic patterns"
+        }
+      ]
+    },
+    {
+      "slug": "gyeongju-gyeongju-national-museum",
       "category": "attraction",
       "region": "Gyeongju",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "There's no admission fee to walk across the bridge"
+          "quote": "between 11am and 6pm on Saturdays and Sundays"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the whole 10am–7pm stretch runs noticeably quieter"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "slide into the 6–9pm weekend window"
         }
       ]
     },
@@ -524,41 +843,136 @@
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "renting a hanbok for a few hours (typically a half-day block)"
+          "quote": "small independent shops sometimes prefer card for accuracy"
         }
       ]
     },
     {
-      "slug": "hoi-an-me-hoi-an-rooftop-coffee-kitchen",
-      "category": "trendy",
-      "region": "Hoi An",
+      "slug": "gyeongju-seongdong-market",
+      "category": "hidden-gem",
+      "region": "Gyeongju",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "gyeongju-yangdong-folk-village",
+      "category": "hidden-gem",
+      "region": "Gyeongju",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Right at opening, 8am, is a quieter, cooler alternative"
+          "quote": "open daily from 9am to 5pm, year-round"
         }
       ]
     },
     {
-      "slug": "hoi-an-japanese-bridge",
+      "slug": "hangzhou-xixi-national-wetland-park",
       "category": "attraction",
-      "region": "Hoi An",
+      "region": "Hangzhou",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "right after the bridge opens at 9am"
+          "quote": "Arrive close to opening at 7:30am"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "nearly a thousandand years"
+        }
+      ]
+    },
+    {
+      "slug": "hanoi-ho-chi-minh-city-miss-world-2026",
+      "category": "event",
+      "region": "Hanoi",
+      "image": "Generic graduation photo, unrelated to Miss World pageant event"
+    },
+    {
+      "slug": "hanoi-vietnamese-super-cup-2026",
+      "category": "event",
+      "region": "Hanoi",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "hiroshima-hiroshima-peace-memorial-museum",
+      "category": "attraction",
+      "region": "Hiroshima",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a stopped wristwatch frozen at 8:15"
         },
         {
           "type": "invented-specifics",
-          "quote": "it stays open until 10pm"
+          "quote": "just behind the museum, is free to enter"
         }
       ]
     },
     {
-      "slug": "hue-maison-trang",
+      "slug": "ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour",
+      "category": "event",
+      "region": "Ho Chi Minh City",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "hong-kong-hong-kong-football-festival-2026",
+      "category": "event",
+      "region": "Hong Kong",
+      "image": "Skyline view, not football event or athletes"
+    },
+    {
+      "slug": "hue-hue-festival-2026-autumn-festival",
+      "category": "event",
+      "region": "Hue",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "hong-kong-nan-lian-garden",
+      "category": "hidden-gem",
+      "region": "Hong Kong",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "hualien-hualien-railway-culture-park",
+      "category": "attraction",
+      "region": "Hualien",
+      "image": "Photo dominated by a decorative sign, not the venue itself"
+    },
+    {
+      "slug": "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue",
       "category": "restaurant",
       "region": "Hue",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open 9am–7pm every day"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Lunch (11:30 am–1:30 pm) and early dinner (6–7 pm)"
+        }
+      ]
+    },
+    {
+      "slug": "incheon-incheon-pentaport-rock-festival-2026",
+      "category": "event",
+      "region": "Incheon",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "incheon-one-universe-festival-2026",
+      "category": "event",
+      "region": "Incheon",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "incheon-chinatown",
+      "category": "hidden-gem",
+      "region": "Incheon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "worth 20-30 minutes"
+        }
+      ]
     },
     {
       "slug": "hyderabad-golconda-fort",
@@ -567,9 +981,67 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "The fort opens at 9am and closes at 5pm every day of the week"
+          "quote": "arrive right at 9am"
         }
       ]
+    },
+    {
+      "slug": "incheon-wolmi-theme-park",
+      "category": "attraction",
+      "region": "Incheon",
+      "image": "Statue/monument fragment, not representative of theme park"
+    },
+    {
+      "slug": "ipoh-han-chin-pet-soo",
+      "category": "hidden-gem",
+      "region": "Ipoh",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "founded in 1893"
+        }
+      ]
+    },
+    {
+      "slug": "istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills",
+      "category": "event",
+      "region": "Istanbul",
+      "image": "NO HERO",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "gözleme, kokoreç-style stalls, simit"
+        }
+      ]
+    },
+    {
+      "slug": "istanbul-eurovolley-women-2026-final-stage",
+      "category": "event",
+      "region": "Istanbul",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "istanbul-tiesto-live-istanbul-festival",
+      "category": "event",
+      "region": "Istanbul",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "istanbul-egyptian-bazaar",
+      "category": "hidden-gem",
+      "region": "Istanbul",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "8am to 7:30pm, seven days a week"
+        }
+      ]
+    },
+    {
+      "slug": "istanbul-turk-fatih-tutak",
+      "category": "restaurant",
+      "region": "Istanbul",
+      "image": "Dry-aging fridge fragment, not representative venue hero shot"
     },
     {
       "slug": "istanbul-grand-bazaar",
@@ -578,31 +1050,30 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "runs 8:30am to 7pm Monday through Saturday"
+          "quote": "is completely closed on Sundays"
         }
       ]
     },
     {
-      "slug": "istanbul-topkapi-palace-museum",
+      "slug": "izmir-clock-tower-of-izmir",
       "category": "attraction",
-      "region": "Istanbul",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The palace is closed on Tuesdays."
-        }
-      ]
-    },
-    {
-      "slug": "izmir-agora-of-smyrna",
-      "category": "hidden-gem",
       "region": "Izmir",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "this is a well-known stop on Izmir itineraries rather than a hidden find"
+          "type": "invented-specifics",
+          "quote": "before 9am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Plan for 15–20 minutes at the tower itself"
         }
       ]
+    },
+    {
+      "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
+      "category": "event",
+      "region": "Jakarta",
+      "image": "NO HERO"
     },
     {
       "slug": "jaipur-jal-mahal",
@@ -611,116 +1082,112 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "accessible for viewing daily from 6am to 6pm"
+          "quote": "arriving right at opening around 6am or in the last hour before 6pm closing"
         }
       ]
     },
     {
-      "slug": "jakarta-social-house-grand-indonesia",
-      "category": "restaurant",
+      "slug": "jakarta-pestapora-2026",
+      "category": "event",
       "region": "Jakarta",
-      "image": "Collage of menu and isolated food shots, not venue"
+      "image": "NO HERO"
     },
     {
-      "slug": "kaohsiung-kaohsiung-central-park",
+      "slug": "jeju-jeju-national-museum",
       "category": "attraction",
-      "region": "Kaohsiung",
+      "region": "Jeju",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "especially after 6pm when the fountain lights come on and the heat breaks"
+          "quote": "9am to 6pm, and is closed all day Monday"
         }
       ]
     },
     {
-      "slug": "kaohsiung-dome-of-light",
-      "category": "hidden-gem",
-      "region": "Kaohsiung",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "runs 6am to midnight every day"
-        }
-      ]
-    },
-    {
-      "slug": "krabi-into-the-forest",
+      "slug": "jeonju-jeonju-hanok-village-cafe-masirange",
       "category": "trendy",
-      "region": "Krabi",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "price level 2"
-        }
-      ]
-    },
-    {
-      "slug": "krabi-wat-tham-suea",
-      "category": "attraction",
-      "region": "Krabi",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "35 Tambon Krabi Noi, Amphoe Mueang Krabi"
-        }
-      ]
-    },
-    {
-      "slug": "kyoto-arashiyama-bamboo-forest",
-      "category": "attraction",
-      "region": "Kyoto",
+      "region": "Jeonju",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "Sagaogurayama Tabuchiyamacho"
+          "quote": "arriving right at opening or after 4 PM tends to be calmer"
         }
       ]
     },
     {
-      "slug": "kyoto-yoichiba",
+      "slug": "jeonju-jeonju-hanok-village-restaurant-jeonju-is-jeonju",
       "category": "restaurant",
-      "region": "Kyoto",
+      "region": "Jeonju",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "runs direct to Karasuma Oike in around 5–6 minutes"
+          "quote": "weekday lunch (11:30am-1pm)"
         }
       ]
     },
     {
-      "slug": "langkawi-kilim-geoforest-park",
+      "slug": "jinju-jinjuseong-fortress",
       "category": "hidden-gem",
-      "region": "Langkawi",
+      "region": "Jinju",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "order the grilled fish or sambal prawns"
+          "quote": "9am to 6pm"
         }
       ]
     },
     {
-      "slug": "labuan-bajo-la-moringa-labuan-bajo",
+      "slug": "kanazawa-kourin-sushi",
       "category": "restaurant",
-      "region": "Labuan Bajo",
+      "region": "Kanazawa",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "think nasi goreng, grilled seafood, and Flores-influenced dishes"
+          "type": "symbol-in-prose",
+          "quote": "roughly ¥¥ on the standard scale"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Given the priceLevel (moderate, roughly ¥¥ on the standard scale)"
         }
       ]
     },
     {
-      "slug": "las-vegas-springs-preserve",
+      "slug": "kota-kinabalu-tanjung-aru-beach",
       "category": "hidden-gem",
+      "region": "Kota Kinabalu",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "roughly 4,000 reviews shy of being one of the most talked-about spots in Sabah"
+        }
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur",
+      "category": "event",
+      "region": "Kuala Lumpur",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "kuala-lumpur-f-forever-1st-world-tour",
+      "category": "event",
+      "region": "Kuala Lumpur",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "kuala-lumpur-post-malone-live-in-malaysia",
+      "category": "event",
+      "region": "Kuala Lumpur",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "las-vegas-old-las-vegas-mormon-fort-state-historic-park",
+      "category": "attraction",
       "region": "Las Vegas",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open 9am to 4pm Monday, Thursday, Friday, Saturday, and Sunday, and closed entirely on Tuesday and Wednesday"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "a city of eight million annual visitors and counting"
+          "quote": "a $10–15 rideshare from the Strip"
         }
       ]
     },
@@ -731,10 +1198,87 @@
       "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
+      "slug": "le-castellet-bol-d-or-fim-endurance-world-championship-finale",
+      "category": "event",
+      "region": "Le Castellet",
+      "image": "NO HERO",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The event is set for September 17-20, 2026"
+        }
+      ]
+    },
+    {
+      "slug": "las-vegas-the-mob-museum",
+      "category": "attraction",
+      "region": "Las Vegas",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the calmest stretch running from 9am to 10pm"
+        }
+      ]
+    },
+    {
+      "slug": "las-vegas-springs-preserve",
+      "category": "hidden-gem",
+      "region": "Las Vegas",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "foot traffic builds steadily across the whole 9am–4pm window"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Arrive at or close to the 9am opening"
+        }
+      ]
+    },
+    {
+      "slug": "lombok-sendang-gile-waterfall",
+      "category": "attraction",
+      "region": "Lombok",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "warungs serving simple Sasak meals (like ayam taliwang)"
+        }
+      ]
+    },
+    {
       "slug": "los-angeles-hollywood-walk-of-fame",
       "category": "attraction",
       "region": "Los Angeles",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekends between 11am and 11pm are when the boulevard is at its most shoulder-to-shoulder"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "come on a weekday between 7am and 10am, or on a weekend morning between 7am and 9am"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "names ranking from Marilyn Monroe to Mickey Mouse"
+        }
+      ]
+    },
+    {
+      "slug": "los-angeles-old-los-angeles-zoo",
+      "category": "hidden-gem",
+      "region": "Los Angeles",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily from 5:30am to 10:30pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "calm window is 7am to 9am"
+        }
+      ]
     },
     {
       "slug": "los-angeles-urth-caffe",
@@ -743,18 +1287,107 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "hours running 7am to 10pm most nights and until 11pm on Fridays and Saturdays"
+          "quote": "shortly after the 7am opening"
         }
       ]
     },
     {
-      "slug": "lyon-parc-de-la-tete-d-or",
+      "slug": "lyon-cafe-joyeux",
+      "category": "trendy",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Café Joyeux opens at 8:30am Monday through Saturday and 9:30am on Sunday, closing at 7pm every day of the week"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-carmelo",
+      "category": "restaurant",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "lunch from 11:45am to 2pm, and dinner from 6:15pm, closing at 10:15pm most nights (10:45pm on Fridays and Saturdays)"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "on weekends lunch stretches to 3:15pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "eat either right at opening, 11:45am, when lunch service starts"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-les-ventres-jaunes",
+      "category": "restaurant",
+      "region": "Lyon",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "lyon-marche-saint-antoine",
       "category": "hidden-gem",
       "region": "Lyon",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "opens at 6:30am and closes at 10:30pm every day of the week"
+          "quote": "Tuesday and Thursday it runs 6:00 AM to 1:00 PM, Saturday until 1:30 PM, and Sunday it stretches latest, to 2:00 PM"
+        }
+      ]
+    },
+    {
+      "slug": "madrid-formula-1-spanish-grand-prix-madring",
+      "category": "event",
+      "region": "Madrid",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "madrid-national-museum-of-archaeology",
+      "category": "attraction",
+      "region": "Madrid",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "busiest on weekends between 10am and 8pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "between 8 and 9pm on weekdays the galleries thin out noticeably"
+        }
+      ]
+    },
+    {
+      "slug": "makati-city-john-legend-an-evening-of-songs-stories",
+      "category": "event",
+      "region": "Makati",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "madrid-royal-palace-of-madrid",
+      "category": "attraction",
+      "region": "Madrid",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The palace opens at 10am daily and closes at 6pm Monday through Saturday, but only until 3pm on Sundays"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Almudena Cathedral (free, right next door)"
+        }
+      ]
+    },
+    {
+      "slug": "madrid-temple-of-debod",
+      "category": "hidden-gem",
+      "region": "Madrid",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open Tuesday through Sunday, 10am to 8pm, and closed all day Monday"
         }
       ]
     },
@@ -762,27 +1395,7 @@
       "slug": "makati-kariton-x-sabi-sounds",
       "category": "trendy",
       "region": "Makati",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a coffee counter at 7am, a gelato stop at noon"
-        }
-      ]
-    },
-    {
-      "slug": "malaga-jardin-botanico-historico-la-concepcion",
-      "category": "hidden-gem",
-      "region": "Malaga",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the garden is quietest between 7pm and 8:30pm on weekdays"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends, by contrast, stay busy from midday through 8pm"
-        }
-      ]
+      "image": "Generic ice cream shop scoop shot, not identifiable venue view"
     },
     {
       "slug": "manila-fort-santiago",
@@ -791,80 +1404,48 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Fort Santiago is open every day from 8am to 11pm"
+          "quote": "the fort stays open until 11pm"
         }
       ]
     },
     {
-      "slug": "manila-rizal-park",
-      "category": "hidden-gem",
-      "region": "Manila",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "open daily from 5am to 10pm"
-        }
-      ]
-    },
-    {
-      "slug": "marseille-parc-national-des-calanques",
+      "slug": "marseille-museum-of-european-and-mediterranean-civilisations",
       "category": "attraction",
       "region": "Marseille",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "between 10am and 6pm on high-fire-risk days"
-        }
-      ]
-    },
-    {
-      "slug": "marina-bay-satay-by-the-bay",
-      "category": "restaurant",
-      "region": "Marina Bay",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "marseille-port-antique",
-      "category": "hidden-gem",
-      "region": "Marseille",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Tuesday through Sunday, 9:30am to 6pm"
+          "quote": "weekends between 11am and 6pm are consistently the busiest stretch"
         },
         {
           "type": "invented-specifics",
-          "quote": "There's no admission fee and no booking system"
+          "quote": "the calm window is 6pm to 9pm, true on both weekdays and weekends"
         }
       ]
     },
     {
-      "slug": "miami-talkin-tacos-brickell",
+      "slug": "miami-joe-s-stone-crab",
       "category": "restaurant",
       "region": "Miami",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "serving tacos, tequila, and mezcal until 2am, seven nights a week"
+          "quote": "Wednesday and Thursday it only opens for dinner, 5–10pm"
         },
         {
           "type": "invented-specifics",
-          "quote": "the kitchen runs from 10am straight through to 2am every day of the week"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "right after the 10am opening"
+          "quote": "Friday through Sunday it adds a lunch seating, 11:30am–2:30pm"
         }
       ]
     },
     {
-      "slug": "milan-duomo-di-milano",
+      "slug": "milan-pinacoteca-di-brera",
       "category": "attraction",
       "region": "Milan",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "it's almost impossible to arrive by accident-free navigation"
+          "type": "invented-specifics",
+          "quote": "the full 8am–8pm window"
         }
       ]
     },
@@ -875,7 +1456,7 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open Wednesday through Friday only in the afternoon (2:30–7:30pm), and open longer on weekends (Saturday from 10:30am, Sunday from 10am, both until 6:30pm)"
+          "quote": "be through the doors at 10:30am or 10am respectively"
         }
       ]
     },
@@ -885,16 +1466,388 @@
       "region": "Mumbai",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "open Tuesday through Sunday, 8am to 5:30pm"
+          "type": "other-glaring",
+          "quote": "measured foot-traffic shows the quietest stretch is the first hour after opening on weekdays"
         }
       ]
     },
     {
-      "slug": "new-orleans-french-quarter",
+      "slug": "mumbai-leopold-cafe",
+      "category": "trendy",
+      "region": "Mumbai",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "nantou-2026-sun-moon-lake-music-fireworks-festival",
+      "category": "event",
+      "region": "Nantou",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "naples-museo-archeologico-nazionale-di-napoli",
+      "category": "attraction",
+      "region": "Naples",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open every day except Tuesday, from 9am to 6:30pm"
+        }
+      ]
+    },
+    {
+      "slug": "new-delhi-bwf-world-championships-2026",
+      "category": "event",
+      "region": "New Delhi",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "nara-sahha-halal-restaurant",
+      "category": "restaurant",
+      "region": "Nara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "early afternoon lull between 2 and 5pm"
+        }
+      ]
+    },
+    {
+      "slug": "nara-yoshikien-garden",
+      "category": "attraction",
+      "region": "Nara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "opens daily from 9am to 5pm"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-french-market",
       "category": "hidden-gem",
       "region": "New Orleans",
-      "image": "Incidental decorated passageway, not representative of French Quarter"
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "10am to 6pm, seven days a week"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-cafe-du-monde",
+      "category": "trendy",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open every day from 7:15am, closing at 11pm Sunday through Thursday and stretching to midnight on Friday and Saturday nights"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "they come three to a plate, always in multiples of three"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-cochon-butcher",
+      "category": "restaurant",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily from 11am to 10pm, with no midday closure"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-jackson-square",
+      "category": "attraction",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "costs nothing to step inside"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-longue-vue-house-and-gardens",
+      "category": "attraction",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The estate is open daily, 8am to 5pm, every day of the week."
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-mardi-gras-world",
+      "category": "hidden-gem",
+      "region": "New Orleans",
+      "image": "Parade float scene, not the Mardi Gras World venue itself",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily, 9am to 5:30pm, with no weekly closures"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Every visit includes a slice of king cake"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-mother-s-restaurant",
+      "category": "restaurant",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the doors open at 7am daily and breakfast service runs the full length of the morning"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Mother's opens at 7am and stays open until 10pm every day of the week"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "from 11am to 9pm on Saturday and Sunday"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the \"Ferdi Special\" is the signature move"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "biscuits and grits or a plate of eggs with that same debris gravy are the move"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-oak-alley-plantation",
+      "category": "hidden-gem",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily from 8:30am to 4:45pm"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-new-orleans-botanical-garden",
+      "category": "attraction",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "closed Mondays, open Tuesday through Sunday from 10am to 4:30pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends between 10am and 4pm are the busiest stretch"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-new-orleans-museum-of-art",
+      "category": "attraction",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "On Tuesday, Thursday, Friday, Saturday, and Sunday it's open 10am–5pm; Wednesday it stays open later, until 7pm"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-napoleon-house",
+      "category": "restaurant",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open seven days, 11am to 9pm Sunday through Thursday and until 10pm on Friday and Saturday"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "packed with ham, salami, mortadella, and provolone"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-octavia-books",
+      "category": "hidden-gem",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Octavia Books opens at 10am daily, closing at 6pm Monday through Saturday and 5pm on Sunday."
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-the-national-wwii-museum",
+      "category": "attraction",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The museum runs 9am to 5pm every day of the week"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-peche-seafood-grill",
+      "category": "restaurant",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open daily from 11am to 10pm"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-american-museum-of-natural-history",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekdays stay relatively manageable across the whole 10am–5:30pm window"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-riverwalk-outlets",
+      "category": "attraction",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The mall runs 10am–7pm Monday through Saturday, and 10am–6pm on Sunday."
+        }
+      ]
+    },
+    {
+      "slug": "new-york-central-park",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The park is open 6am to 1am every day"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-city-harry-styles-residency-madison-square-garden",
+      "category": "event",
+      "region": "New York",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "new-york-chelsea-market",
+      "category": "hidden-gem",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the market runs 7am to 10pm every day"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-castle-clinton-national-monument",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "cash or card both work at the kiosks, and nobody expects tipping"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-ocean-prime",
+      "category": "restaurant",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "opens at 11:30am for lunch Monday through Friday and runs to 10pm those nights"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "doors at 4pm Saturday (open till 10pm) and 4pm Sunday (open till 9pm)"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "tipping 18-20% on the pre-tax total is the norm"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-ralph-s-coffee",
+      "category": "trendy",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Ralph's Coffee opens at 8am every day and closes at 6pm Sunday through Thursday, staying open an extra hour, until 7pm, on Friday and Saturday."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the thing people actually come for is the Ralph's Coffee Ice Cream"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-strand-bookstore",
+      "category": "hidden-gem",
+      "region": "New York",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "new-york-the-metropolitan-museum-of-art",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open 10am to 5pm most days, but Fridays and Saturdays it stays open until 9pm"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-the-channel-gardens",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "aim for the stretch between 7am and 11pm on weekends"
+        }
+      ]
+    },
+    {
+      "slug": "nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift",
+      "category": "event",
+      "region": "Nice",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "new-york-top-of-the-rock",
+      "category": "hidden-gem",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The deck runs 8am to midnight every day of the week"
+        }
+      ]
     },
     {
       "slug": "nice-cascade-du-chateau",
@@ -902,65 +1855,228 @@
       "region": "Nice",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "open every day, 8:30am to 8pm, all week"
+          "type": "other-glaring",
+          "quote": "open daily — no early or late closing days to plan around"
         }
       ]
     },
     {
-      "slug": "nha-trang-nha-he-coffee-shop",
-      "category": "trendy",
-      "region": "Nha Trang",
-      "prose": [
-        {
-          "type": "symbol-in-prose",
-          "quote": "the price level sits in the modest \"2\" range on standard scales"
-        }
-      ]
-    },
-    {
-      "slug": "nice-promenade-du-paillon",
+      "slug": "nice-parc-ph-nix",
       "category": "attraction",
       "region": "Nice",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "free, always-open public park"
+          "quote": "open daily from 9:30am to 7:30pm"
         }
       ]
     },
     {
-      "slug": "osaka-lilo-coffee-roasters",
-      "category": "trendy",
+      "slug": "osaka-dotonbori",
+      "category": "restaurant",
       "region": "Osaka",
       "prose": [
         {
-          "type": "foreign-fragment",
-          "quote": "1階"
+          "type": "invented-specifics",
+          "quote": "Weeknight lunches (11:30am–1pm) are noticeably calmer"
         }
       ]
     },
     {
-      "slug": "paris-louvre-museum",
+      "slug": "pamukkale-hierapolis",
+      "category": "hidden-gem",
+      "region": "Pamukkale",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "over 1,200 tombs strung along the road in."
+        }
+      ]
+    },
+    {
+      "slug": "paris-arc-de-triomphe",
+      "category": "attraction",
+      "region": "Paris",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "paris-plk-stade-de-france-concerts",
+      "category": "event",
+      "region": "Paris",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "paris-notre-dame-cathedral-of-paris",
       "category": "attraction",
       "region": "Paris",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "hours run 9am–6pm Monday, Thursday, Saturday and Sunday, and stretch to 9pm on Wednesday and Friday"
+          "quote": "Opening hours run 7:50am–7pm most weekdays, with Thursdays stretching to 10pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends the doors open a little later, 8:15am, and close at 7:30pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "really just 8:15am to 10am"
         }
       ]
     },
     {
-      "slug": "rome-luna",
+      "slug": "paris-les-deux-magots",
       "category": "trendy",
+      "region": "Paris",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The café opens at 7:30am every day and stays open until 1am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "onion soup gratinée, steak tartare prepared tableside, croque monsieur"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "arrive right at 7:30am for breakfast or hold off until after 9pm"
+        }
+      ]
+    },
+    {
+      "slug": "paris-palace-of-versailles",
+      "category": "attraction",
+      "region": "Paris",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "open 9am–5:30pm Tuesday through Sunday"
+        }
+      ]
+    },
+    {
+      "slug": "pasay-city-babymonster-choom-world-tour",
+      "category": "event",
+      "region": "Pasay City",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "pasay-city-honne-10th-anniversary-tour",
+      "category": "event",
+      "region": "Manila",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "pasay-city-lalala-fest-manila-2026",
+      "category": "event",
+      "region": "Manila",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "pattaya-pattaya-international-fireworks-festival-2026",
+      "category": "event",
+      "region": "Pattaya",
+      "image": "NO HERO",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The beach sand stayed packed and warm underfo"
+        }
+      ]
+    },
+    {
+      "slug": "phu-quoc-vietnam-international-flute-festival-viff-2026",
+      "category": "event",
+      "region": "Phu Quoc",
+      "image": "NO HERO",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The formats were typical of flute festivals elsewhere"
+        }
+      ]
+    },
+    {
+      "slug": "penang-chew-jetty",
+      "category": "attraction",
+      "region": "Penang",
+      "image": "Shows boats and jetty water view, not the stilt houses/walkway landmark"
+    },
+    {
+      "slug": "phuket-cafe-phuket-viewpoint",
+      "category": "trendy",
+      "region": "Phuket",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Karon Viewpoint (Kata Kata Viewpoint)"
+        }
+      ]
+    },
+    {
+      "slug": "phuket-phuket-thai-hua-museum",
+      "category": "attraction",
+      "region": "Phuket",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "an easy walk (10–15 minutes) from the town's main landmarks like the Phuket Thai Hua Museum's near-neighbors on Thalang, Dibuk, and Soi Romanee"
+        }
+      ]
+    },
+    {
+      "slug": "provence-abbaye-notre-dame-de-senanque",
+      "category": "hidden-gem",
+      "region": "Provence",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The abbey opens at 9:30am Monday to Saturday and 10am on Sundays, closing at 7pm every day."
+        }
+      ]
+    },
+    {
+      "slug": "provence-lavender-fields",
+      "category": "attraction",
+      "region": "Provence",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "86 stone steps"
+        }
+      ]
+    },
+    {
+      "slug": "provence-musee-granet",
+      "category": "attraction",
+      "region": "Provence",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "10am–7pm window right after opening"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "traffic through the galleries peaks between 12pm and 6pm"
+        }
+      ]
+    },
+    {
+      "slug": "rome-roman-forum",
+      "category": "attraction",
       "region": "Rome",
       "prose": [
         {
-          "type": "broken-markdown",
-          "quote": "**Barberini (Line A)**"
+          "type": "invented-specifics",
+          "quote": "9:00am to 4:30pm"
         }
       ]
+    },
+    {
+      "slug": "saint-cloud-paris-region-rock-en-seine-2026",
+      "category": "event",
+      "region": "Saint-Cloud",
+      "image": "NO HERO"
     },
     {
       "slug": "san-francisco-fort-point-national-historic-site",
@@ -969,28 +2085,50 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "open Thursday through Monday, 10am to 5pm"
+          "quote": "closed both Tuesday and Wednesday"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "arriving right at 10am on a weekday, when the fort is open"
         }
       ]
     },
     {
-      "slug": "san-francisco-rich-table",
-      "category": "restaurant",
+      "slug": "san-francisco-tartine-bakery",
+      "category": "trendy",
       "region": "San Francisco",
+      "image": "Generic bakery display case, not identifiable as this specific venue",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "nightly from 5pm to 10pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "a porcini doughnut dusted with powdered sugar-and-mushroom, sardine chips with lemon-caper crème fraîche"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "the tightest crunch is 7 to 9pm on Friday and Saturday nights"
+          "quote": "Tartine is open daily from 7:30am to 6pm, with no midweek surprises in the schedule."
         }
       ]
+    },
+    {
+      "slug": "san-sebastian-bar-txepetxa",
+      "category": "restaurant",
+      "region": "San Sebastian",
+      "prose": [
+        {
+          "type": "symbol-in-prose",
+          "quote": "price level 2"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "The classic order is the \"Gaupasa\""
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "around 1pm) or dinner (around 8pm)"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-biang-biang-noodles",
+      "category": "restaurant",
+      "region": "Seattle",
+      "image": "Close-up plate shot, not the venue itself"
     },
     {
       "slug": "seattle-jack-s-fish-spot",
@@ -999,146 +2137,212 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "7:30am to 6pm Monday through Saturday, and 8am to 5pm on Sunday"
+          "quote": "7:30am–6pm window (8am–5pm on Sundays)"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-the-pink-door",
+      "category": "restaurant",
+      "region": "Seattle",
+      "image": "Incidental storefront fragment, not representative venue hero shot",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Tuesday through Saturday, 11:30am to 11:30pm"
         },
         {
           "type": "invented-specifics",
-          "quote": "7:30am weekdays, 8am Sunday"
+          "quote": "Weekends run busy from around 11:30am to 9pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a well-loved lasagna, whole roasted branzino, a burrata starter"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "tipping follows normal U.S. restaurant convention, around 18–22%"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "1919 Post Alley"
         }
       ]
     },
     {
-      "slug": "seoul-bukchon-yukgyeong-photo-spot",
-      "category": "attraction",
+      "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
+      "category": "event",
+      "region": "Seoul",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "seoul-bukchon-hanok-village",
+      "category": "hidden-gem",
       "region": "Seoul",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Right at opening, 10am, is the best window"
+          "quote": "Bukchon is open daily, 10am to 5pm"
         }
       ]
     },
     {
-      "slug": "seoul-eid-halal-korean-food",
-      "category": "restaurant",
+      "slug": "seoul-cafe-3-stripes-seoul",
+      "category": "trendy",
       "region": "Seoul",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "has featured around 50 items"
+        }
+      ]
     },
     {
-      "slug": "seoul-restaurant-san",
-      "category": "restaurant",
+      "slug": "seoul-myeongdong-shopping-street",
+      "category": "hidden-gem",
+      "region": "Seoul",
+      "image": "Close-up food shot, not representative of shopping street"
+    },
+    {
+      "slug": "seoul-seongsu-cafes",
+      "category": "trendy",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekday mornings (10am–noon) are the quietest window"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "20–30 minute waits at the most Instagrammed spots"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-stray-kids-concert",
+      "category": "event",
       "region": "Seoul",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "Asia's 50 Best Restaurants 2026"
+          "quote": "haven't been published in detail, so don't build your evening around a guessed schedule — the official listing carried the final schedule"
         }
       ]
     },
     {
-      "slug": "shanghai-love-sushi",
-      "category": "restaurant",
-      "region": "Shanghai",
-      "image": "Interior chalkboard menu/sign focus, not sushi restaurant view"
-    },
-    {
-      "slug": "seville-plaza-de-espana",
+      "slug": "seville-catedral-de-sevilla",
       "category": "attraction",
       "region": "Seville",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
-    },
-    {
-      "slug": "sharjah-tpt-by-late",
-      "category": "trendy",
-      "region": "Sharjah",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "Given the price level (a moderate, mid-range tier)"
+          "type": "invented-specifics",
+          "quote": "35 sloped switchbacks"
         }
       ]
     },
     {
-      "slug": "siargao-cloud-9-surfing-area",
+      "slug": "seville-parque-de-maria-luisa",
+      "category": "hidden-gem",
+      "region": "Seville",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The park's gates run 8am to midnight every day"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "the calm stretches from opening at 8am all the way through to 11pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "arrive between 8am and 10am to have the plazas nearly to yourself"
+        }
+      ]
+    },
+    {
+      "slug": "shanghai-shanghai-tower",
       "category": "attraction",
-      "region": "Siargao",
-      "proseError": "Expected ',' or ']' after array element in JSON at position "
+      "region": "Shanghai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The tower opens at 8:30am and closes at 9:30pm every day of the week"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "8:30am–9:30am is the measurably quietest stretch on both weekdays and weekends"
+        }
+      ]
+    },
+    {
+      "slug": "shenzhen-billie-jean-king-cup-finals",
+      "category": "event",
+      "region": "Shenzhen",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "shanghai-yu-garden",
+      "category": "attraction",
+      "region": "Shanghai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "9:00 AM to 4:30 PM"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Nanxiang Steamed Bun Restaurant for xiaolongbao"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-bop-bartenders-of-pony",
+      "category": "trendy",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "BOP only opened on January 31, 2026"
+        }
+      ]
     },
     {
       "slug": "singapore-formula-1-singapore-grand-prix-2026",
       "category": "event",
       "region": "Singapore",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "organisers have confirmed The Killers and Lana Del Rey as headline acts"
-        }
-      ]
+      "image": "NO HERO"
     },
     {
-      "slug": "sokcho-seoraksan-cable-car",
-      "category": "attraction",
-      "region": "Sokcho",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "serves Gangwon-do specialties like acorn jelly (dotorimuk) and grilled trout"
-        }
-      ]
-    },
-    {
-      "slug": "strasbourg-cathedrale-notre-dame-de-strasbourg",
-      "category": "hidden-gem",
-      "region": "Strasbourg",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "mornings from 8:30 to 11:15am, then again from 12:45 to 5:45pm, with Sunday hours starting later at 2pm and running to 5:15pm"
-        }
-      ]
-    },
-    {
-      "slug": "strasbourg-christmas-in-alsace",
+      "slug": "singapore-post-malone-big-ass-world-tour",
       "category": "event",
-      "region": "Strasbourg",
+      "region": "Singapore",
+      "image": "NO HERO",
       "prose": [
         {
-          "type": "broken-markdown",
-          "quote": "**Christmas in Alsace**"
+          "type": "invented-specifics",
+          "quote": "good for a cheap, fast dinner of char kway teow or oyster omelette"
         }
       ]
     },
     {
-      "slug": "surabaya-black-owl-surabaya",
-      "category": "restaurant",
-      "region": "Surabaya",
-      "image": "Close-up of drinkware, not representative venue interior/exterior shot"
-    },
-    {
-      "slug": "taichung-dakeng-scenic-area",
+      "slug": "suncheon-suncheon-bay-national-garden",
       "category": "hidden-gem",
-      "region": "Taichung",
+      "region": "Suncheon",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Weekends get busy consistently from 7am through 6pm"
+          "quote": "The garden is open every day, 9am to 8pm, with no weekly closure."
         }
       ]
     },
     {
-      "slug": "tainan-anping-old-street",
+      "slug": "suzhou-lion-grove-garden",
       "category": "attraction",
-      "region": "Tainan",
-      "image": "Shows a single old house facade, not the street"
-    },
-    {
-      "slug": "taipei-elephant-mountain",
-      "category": "attraction",
-      "region": "Taipei",
+      "region": "Suzhou",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "the trail is open 24 hours, every day"
+          "quote": "come in after 4pm for the most peaceful pass through"
         }
       ]
     },
@@ -1148,19 +2352,8 @@
       "region": "Taichung",
       "prose": [
         {
-          "type": "foreign-fragment",
-          "quote": "春安路56巷25號"
-        }
-      ]
-    },
-    {
-      "slug": "tainan-shennong-street",
-      "category": "hidden-gem",
-      "region": "Tainan",
-      "prose": [
-        {
           "type": "invented-specifics",
-          "quote": "the street holds steady foot traffic from 9am to 11pm on Saturdays and Sundays"
+          "quote": "There's no admission fee"
         }
       ]
     },
@@ -1168,95 +2361,83 @@
       "slug": "taipei-ive-world-tour-2026-show-what-i-am-taipei",
       "category": "event",
       "region": "Taipei",
+      "image": "NO HERO",
       "prose": [
         {
-          "type": "other-glaring",
-          "quote": "This is what a IVE arena night looks like"
+          "type": "invented-specifics",
+          "quote": "The building holds around 15,000 people"
         }
       ]
     },
     {
-      "slug": "taipei-the-who-cafe",
-      "category": "trendy",
+      "slug": "taipei-din-tai-fung-101",
+      "category": "restaurant",
       "region": "Taipei",
       "prose": [
         {
-          "type": "foreign-fragment",
-          "quote": "2-1號2樓, Lishui St"
+          "type": "invented-specifics",
+          "quote": "The restaurant opens at 10:45am and closes at 8:30pm every day of the week, with no variation by day."
         }
       ]
     },
     {
-      "slug": "taipei-itzy-tunnel-vision-world-tour-taipei",
+      "slug": "taipei-official-hige-dandism-asia-tour-2026-taipei",
       "category": "event",
       "region": "Taipei",
-      "prose": [
-        {
-          "type": "broken-markdown",
-          "quote": "**Taipei Arena Station**"
-        }
-      ]
+      "image": "NO HERO"
+    },
+    {
+      "slug": "taiyuan-2026-china-open-snooker",
+      "category": "event",
+      "region": "Taiyuan",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "taipei-taipei-fringe-festival-2026",
+      "category": "event",
+      "region": "Taipei",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "taitung-taiwan-international-balloon-festival-2026",
+      "category": "event",
+      "region": "Taitung",
+      "image": "NO HERO"
     },
     {
       "slug": "tokyo-comic-market-108-summer-comiket",
       "category": "event",
       "region": "Tokyo",
-      "image": "Outdoor concert stage, not Comiket convention hall setting"
+      "image": "NO HERO"
     },
     {
-      "slug": "tokyo-lenox-house",
-      "category": "trendy",
-      "region": "Tokyo",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "since it's the kitchen's stated specialty"
-        }
-      ]
-    },
-    {
-      "slug": "tokyo-september-grand-sumo-tournament-aki-basho",
+      "slug": "tokyo-comiket-comic-market-108",
       "category": "event",
       "region": "Tokyo",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "every day from September 13 through 27, 2026 features makuuchi bouts"
-        }
-      ]
+      "image": "NO HERO"
     },
     {
-      "slug": "tokyo-teamlab-planets-tokyo-dmm",
-      "category": "trendy",
-      "region": "Tokyo",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "stocks limited-edition prints and light-based merchandise unique to the DMM location"
-        }
-      ]
-    },
-    {
-      "slug": "turin-baratti-milano",
-      "category": "trendy",
-      "region": "Turin",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "closed Mondays, open Tuesday through Sunday from 9am to 8pm"
-        }
-      ]
-    },
-    {
-      "slug": "turin-museo-egizio",
+      "slug": "taiyuan-jinci",
       "category": "attraction",
-      "region": "Turin",
+      "region": "Taiyuan",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Monday hours are shorter, 9am to 2pm, rather than the extended hours running to 6:30pm or later on other days"
+          "quote": "43 Song-dynasty painted clay statues"
         }
       ]
+    },
+    {
+      "slug": "taiyuan-shanxi-museum",
+      "category": "hidden-gem",
+      "region": "Taiyuan",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "tongyeong-tongyeong-cablecar-skywalk",
+      "category": "attraction",
+      "region": "Tongyeong",
+      "image": "Cable cars show 'Columbia' branding, not Tongyeong's cablecar"
     },
     {
       "slug": "turin-mole-antonelliana",
@@ -1265,50 +2446,106 @@
       "proseError": "Expected ',' or ']' after array element in JSON at position "
     },
     {
-      "slug": "varanasi-shri-kashi-vishwanath-temple",
-      "category": "attraction",
-      "region": "Varanasi",
+      "slug": "turin-mercato-centrale-torino",
+      "category": "restaurant",
+      "region": "Turin",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "keep ₹10-50 notes handy rather than large bills"
+          "quote": "open daily from 8am straight through to midnight"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "pair a plate of agnolotti or fritto misto with a glass of local vermouth before finishing with gianduia gelato"
         }
       ]
     },
     {
-      "slug": "yogyakarta-taman-sari-tourist-village",
-      "category": "attraction",
-      "region": "Yogyakarta",
+      "slug": "udaipur-ambrai-ghat",
+      "category": "hidden-gem",
+      "region": "Udaipur",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "midday (around 11am-1pm) usually the best time to see it illuminated"
+          "quote": "open every day from 5am to 7pm"
         }
       ]
     },
     {
-      "slug": "yogyakarta-blanco-coffee-and-books",
-      "category": "trendy",
-      "region": "Yogyakarta",
+      "slug": "valencia-museo-de-las-ciencias-principe-felipe",
+      "category": "attraction",
+      "region": "Valencia",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "venice-doge-s-palace",
+      "category": "attraction",
+      "region": "Venice",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "Jl. Jl. Diponegoro/Jl. AM Sangaji corridor"
+          "quote": "Museums of St Mark's Square Square"
         }
       ]
     },
     {
-      "slug": "yokohama-yokohama-chinatown",
+      "slug": "venice-grand-canal",
+      "category": "attraction",
+      "region": "Venice",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "verona-arena-di-verona-opera-festival",
+      "category": "event",
+      "region": "Verona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "running since June 12 and continuing through September 12, 2026"
+        }
+      ]
+    },
+    {
+      "slug": "wuhan-2026-wuhan-open-snooker",
+      "category": "event",
+      "region": "Wuhan",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "xi-an-2026-xi-an-grand-prix-snooker",
+      "category": "event",
+      "region": "Xi'an",
+      "image": "NO HERO"
+    },
+    {
+      "slug": "xi-an-fortifications-of-xi-an",
+      "category": "hidden-gem",
+      "region": "Xi'an",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Anding men (West)"
+        }
+      ]
+    },
+    {
+      "slug": "xi-an-xi-an-museum",
+      "category": "attraction",
+      "region": "Xi'an",
+      "proseError": "Expected ',' or ']' after array element in JSON at position "
+    },
+    {
+      "slug": "yokohama-yokohama-mazu-miao",
       "category": "attraction",
       "region": "Yokohama",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "many restaurants open for lunch around 11am"
+          "quote": "stays calm from opening at 9am through roughly 8pm"
         },
         {
           "type": "invented-specifics",
-          "quote": "peak 12:30–1:30pm"
+          "quote": "Entry to look around the courtyard and hall doorway is free"
         }
       ]
     }
