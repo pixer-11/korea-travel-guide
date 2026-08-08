@@ -8839,5 +8839,124 @@
   "reason": "Historic Taiwanese building, Anping architectural style evid",
   "reasonKo": "안평 역사 건축물, 대만식 양식",
   "at": "2026-08-08T01:47:38.782Z"
+ },
+ "busan-haeundae-traditional-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1920px-Haeundae_Market_Busan_%2831877277538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "busan-haeundae-traditional-market",
+  "verdict": "MATCH",
+  "reason": "Korean market alley with food vendors, signage matches",
+  "reasonKo": "한국 전통시장 골목, 음식점 간판 일치",
+  "at": "2026-08-08T13:29:36.917Z"
+ },
+ "gyeongju-yangdong-folk-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Yangdong_Village_02.jpg/1920px-Yangdong_Village_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "gyeongju-yangdong-folk-village",
+  "verdict": "MATCH",
+  "reason": "Traditional Korean architecture in rural hillside setting",
+  "reasonKo": "시골 전통 한옥 마을 경경주 스타일",
+  "at": "2026-08-08T13:29:38.502Z"
+ },
+ "little-india-tekka-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tekka_Centre%2C_dining_area.jpg/3840px-Tekka_Centre%2C_dining_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "little-india-tekka-centre",
+  "verdict": "MATCH",
+  "reason": "Food court interior, orange tables, typical Tekka Centre",
+  "reasonKo": "푸드코트 인테리어, 주황색 테이블, 전형적인 텍카 센터",
+  "at": "2026-08-08T13:29:40.106Z"
+ },
+ "los-angeles-crossroads-kitchen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg/1920px-Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "los-angeles-crossroads-kitchen",
+  "verdict": "MATCH",
+  "reason": "Crossroads Kitchen storefront in Los Angeles",
+  "reasonKo": "LA의 크로스로즈 키친 외관",
+  "at": "2026-08-08T13:29:41.409Z"
+ },
+ "los-angeles-grand-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_central_market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "los-angeles-grand-central-market",
+  "verdict": "MATCH",
+  "reason": "Indoor market with vendors, produce, crowds, neon signs",
+  "reasonKo": "실내 시장, 상인, 신선 농산물, 붐비는 인파",
+  "at": "2026-08-08T13:29:43.809Z"
+ },
+ "nara-yoshikien-garden\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "nara-yoshikien-garden",
+  "verdict": "MATCH",
+  "reason": "Japanese garden with pond, rocks, bridge, pavilion",
+  "reasonKo": "연못, 돌, 다리, 정자가 있는 일본식 정원",
+  "at": "2026-08-08T13:29:45.603Z"
+ },
+ "new-orleans-ayu-bakehouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_2.jpg/1920px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-orleans-ayu-bakehouse",
+  "verdict": "MISMATCH",
+  "reason": "Historic building, not a modern bakehouse",
+  "reasonKo": "베이커리가 아닌 역사적 건물",
+  "at": "2026-08-08T13:29:47.645Z"
+ },
+ "new-orleans-cochon-butcher\u0001https://upload.wikimedia.org/wikipedia/commons/4/4a/Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "new-orleans-cochon-butcher",
+  "verdict": "MATCH",
+  "reason": "Authentic butcher shop sandwiches with quality meats",
+  "reasonKo": "정육점 스타일 고급 샌드위치",
+  "at": "2026-08-08T13:29:49.127Z"
+ },
+ "new-orleans-longue-vue-house-and-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Longue_Vue_House_and_Gardens.jpg/1920px-Longue_Vue_House_and_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-orleans-longue-vue-house-and-gardens",
+  "verdict": "MATCH",
+  "reason": "Historic mansion with gardens and water features depicted",
+  "reasonKo": "역사적 저택과 정원, 수로 명확히 표현",
+  "at": "2026-08-08T13:29:51.064Z"
+ },
+ "new-orleans-new-orleans-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/New_Orleans_Botanical_Garden_2011.jpg/1920px-New_Orleans_Botanical_Garden_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-orleans-new-orleans-botanical-garden",
+  "verdict": "MATCH",
+  "reason": "Formal garden with fountain, roses, hedges, brick pathways",
+  "reasonKo": "분수, 장미, 정원 조경이 있는 보태니컬 가든",
+  "at": "2026-08-08T13:29:52.796Z"
+ },
+ "new-orleans-new-orleans-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Orleans_Museum_of_Art_%2855143750313%29.jpg/1920px-New_Orleans_Museum_of_Art_%2855143750313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-orleans-new-orleans-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "Exterior of New Orleans Museum of Art building",
+  "reasonKo": "뉴올리언스 미술관 건물 외부",
+  "at": "2026-08-08T13:29:54.247Z"
+ },
+ "new-orleans-octavia-books\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/Moira_Crone_at_Octavia_Books_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "new-orleans-octavia-books",
+  "verdict": "MATCH",
+  "reason": "Bookstore interior with customers, matches venue type",
+  "reasonKo": "서점 내부, 방문객 있음, 장소 일치",
+  "at": "2026-08-08T13:29:56.656Z"
+ },
+ "new-orleans-riverwalk-outlets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg/1920px-Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "new-orleans-riverwalk-outlets",
+  "verdict": "MATCH",
+  "reason": "Outlet Collection Riverwalk signage clearly visible",
+  "reasonKo": "리버워크 아울렛 간판 명확히 보임",
+  "at": "2026-08-08T13:30:00.315Z"
+ },
+ "new-orleans-the-national-wwii-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/National_WWII_Museum_corner%2C_New_Orleans_May_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "new-orleans-the-national-wwii-museum",
+  "verdict": "MATCH",
+  "reason": "Modern WWII museum building, New Orleans architecture",
+  "reasonKo": "뉴올리언스 WWII 박물관 건물",
+  "at": "2026-08-08T13:30:01.618Z"
+ },
+ "nice-parc-ph-nix\u0001https://upload.wikimedia.org/wikipedia/commons/c/c6/Parc_Phoenix_serre_Nice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "nice-parc-ph-nix",
+  "verdict": "MATCH",
+  "reason": "Parc Phœnix greenhouse with water feature, palms",
+  "reasonKo": "파크 피닉스의 온실과 분수, 야자수",
+  "at": "2026-08-08T13:30:03.809Z"
+ },
+ "osaka-cafe-82-osaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg/3840px-Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "osaka-cafe-82-osaka",
+  "verdict": "MISMATCH",
+  "reason": "Image shows internet café, not a restaurant/café",
+  "reasonKo": "인터넷 카페, 식당 아님",
+  "at": "2026-08-08T13:30:05.398Z"
+ },
+ "washington-dc-unconventional-diner\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/French_Toast_Unconventional_Diner_DC.jpg/3840px-French_Toast_Unconventional_Diner_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "washington-dc-unconventional-diner",
+  "verdict": "MATCH",
+  "reason": "Upscale plated dish fits unconventional diner concept",
+  "reasonKo": "고급스러운 플레이팅, 비정통 다이너 개념 부합",
+  "at": "2026-08-08T13:30:07.269Z"
  }
 }
