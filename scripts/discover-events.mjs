@@ -83,6 +83,9 @@ const discoverEvents = (country) =>
     // machine-readable false claim, removed 2026-08-07). The search results
     // usually name the host; capture it when they do, never guess.
     `"organizer" is the official organizing body EXACTLY as the search results name it (city government, festival committee, promoter). null when the results do not clearly name one — never guess or infer. "organizerUrl" only if the results show its official site; else null. ` +
+    // "Multiple cities" once became a REGION PAGE titled "여러 도시" (La Vuelta,
+    // caught by the owner 2026-08-09). A traveling race still anchors somewhere.
+    `"city" must be ONE real city. For a multi-city race or tour, use the finish city (or the start city if the finish is unknown) — NEVER "Multiple cities", "Various", "Nationwide" or similar. ` +
     `If nothing notable, return [].`
   );
 

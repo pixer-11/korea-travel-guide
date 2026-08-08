@@ -1,10 +1,10 @@
 ---
-title: 'La Vuelta a España 2026: What to Know (Multiple cities)'
+title: 'La Vuelta a España 2026: What to Know (Monaco Start, Granada Finale)'
 description: >-
   La Vuelta a España 2026 in Multiple cities, Spain — August 22 - September 13,
   2026. What it is, when and where, and how to plan around it.
 country: Spain
-region: Multiple cities
+region: Granada
 category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-22'

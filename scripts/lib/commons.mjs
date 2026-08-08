@@ -351,7 +351,14 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       // even at crossN=1, so ITZY/BIGBANG-style real photos aren't false-rejected.
       const foreignN = cross ? [...ttok].filter((t) => !cross.has(t) && !/^\d+$/.test(t)).length : 0;
       const titleLc = c.title.toLowerCase();
-      const passesMust = must.length === 0 || must.some((m) => titleLc.includes(m));
+      // Space-insensitive on BOTH sides: a K-pop act stored as "LeeHi" must
+      // match Commons files named "Lee Hi …" (and vice versa). Without this
+      // the anchor guard rejected every real photo of an artist whose romanized
+      // name is spaced differently than our title (found 2026-08-09 — Lee Hi
+      // had 5+ CC concert photos on Commons and the event stayed photoless).
+      const titleFlat = titleLc.replace(/[\s_-]+/g, '');
+      const passesMust = must.length === 0 ||
+        must.some((m) => titleLc.includes(m) || titleFlat.includes(m.replace(/[\s_-]+/g, '')));
       // Scenery heroes want a wide banner. For events, the RIGHT image is the
       // performer/athlete — usually a PORTRAIT — so allowPortrait relaxes the
       // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a smaller

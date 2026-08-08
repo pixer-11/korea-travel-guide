@@ -32,6 +32,26 @@ export function pickRepHeroUrl(posts: HeroPost[]): string {
     );
     return eventHero ? eventHero.data.heroImage!.url! : '';
   }
+  return pickRank(withHero);
+}
+
+// Regions whose only guides are PHOTOLESS events (Arlington's one post is a
+// BTS date with no hero) still rendered dark empty tiles. This table carries a
+// verified CITY photo per such region — backfill-region-covers.mjs fills it
+// from Wikimedia with the identity rules of the photo pipeline. A real post
+// hero always wins; the cover is a last-resort fallback only.
+// readFileSync, not a JSON import: this file is checked as plain TS (no Vite),
+// where a .json import needs resolveJsonModule and failed astro check.
+import { readFileSync } from 'node:fs';
+const regionCovers: Record<string, { url?: string }> = (() => {
+  try { return JSON.parse(readFileSync(new URL('../../data/region-covers.json', import.meta.url), 'utf8')); }
+  catch { return {}; }
+})();
+export function regionCoverUrl(region: string): string {
+  return regionCovers[region]?.url ?? '';
+}
+
+function pickRank(withHero: HeroPost[]): string {
   // Stable sort by category rank — ties keep the caller's order (usually newest first).
   withHero.sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5));
   // Returns the RAW stored URL. For one day this returned tileSize(url), and

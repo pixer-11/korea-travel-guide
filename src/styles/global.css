@@ -977,16 +977,20 @@ html[lang^='zh'] .cover-inner h1 {
    apricot tall — capsule bars; the height IS the crowd level, and the pale
    apricot makes the hours-to-avoid the brightest thing on the band. */
 .crowd-demo-bar { display: flex; gap: 5px; height: 64px; align-items: flex-end; }
-.crowd-demo-bar i { flex: 1; border-radius: 999px; background: #c67139; height: 58%; }
+/* Owner, 2026-08-09: mid reads as BEIGE, busy as RED — the mock palette had
+   them inverted (busy was the pale cream, mid the loud terracotta), which
+   fought both intuition and the crowd tool's own red-means-busy scale.
+   #e08574 holds 3.2:1 against the darkest gradient stop (WCAG graphics 3:1). */
+.crowd-demo-bar i { flex: 1; border-radius: 999px; background: #f2cfae; height: 58%; }
 .crowd-demo-bar i.quiet { background: #9dbe9c; height: 34%; }
-.crowd-demo-bar i.busy { background: #f2cfae; height: 100%; }
+.crowd-demo-bar i.busy { background: #e08574; height: 100%; }
 .crowd-demo-lab { display: flex; justify-content: space-between; font-size: 0.62rem; color: #cfc8b8; margin-top: 5px; font-weight: 600; }
 .crowd-legend { display: flex; gap: 1rem; margin-top: 0.7rem; font-size: 0.7rem; color: #d5cebf; flex-wrap: wrap; }
 .crowd-legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
 .crowd-legend i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
 .crowd-legend .lg-quiet { background: #9dbe9c; }
-.crowd-legend .lg-mid { background: #c67139; }
-.crowd-legend .lg-busy { background: #f2cfae; }
+.crowd-legend .lg-mid { background: #f2cfae; }
+.crowd-legend .lg-busy { background: #e08574; }
 @media (max-width: 860px) { .tool-card--crowd { grid-template-columns: 1fr; } }
 /* Copy needs its own wrapper or the band's flex scatters kicker/h2/dek into
    three columns (the owner caught exactly that on desktop). */
@@ -1104,11 +1108,22 @@ html[lang^='zh'] .cover-inner h1 {
 }
 
 /* 뉴스레터 두 칸 배치 (08-08). 왼쪽 카피 / 오른쪽 입력 카드. */
+/* The signup renders in wide sections AND narrow article columns. The form
+   card's intrinsic min width (input + button) overpowered the fr ratio in
+   narrow containers — the copy column collapsed to one glyph per line
+   (owner, 2026-08-09, New Orleans post). Column collapse must follow the
+   CONTAINER, not the viewport: a 1400px window with a 720px article column
+   never fires a media query. */
+.newsletter { container-type: inline-size; }
 .nl-split { display: grid; grid-template-columns: 1.25fr 0.75fr; gap: 2.4rem; align-items: center; text-align: left; }
 .nl-copy { min-width: 0; }
-.nl-card { background: #fbf6ee; border-radius: 16px; padding: 1.5rem 1.6rem; align-self: stretch;
+.nl-card { background: #fbf6ee; border-radius: 16px; padding: 1.5rem 1.6rem; align-self: stretch; min-width: 0;
            display: flex; flex-direction: column; justify-content: center; }
 .nl-card .nl-bonus { margin: 0 0 0.9rem; color: var(--ink); font-weight: 600; display: flex; align-items: center; gap: 0.5rem; }
+@container (max-width: 719px) {
+  .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
+  .nl-form { flex-direction: column; }
+}
 @media (max-width: 860px) {
   .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
 }
@@ -1171,7 +1186,7 @@ html[lang^='zh'] .cover-inner h1 {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 .itin-backlink-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-sm); }
-.itin-backlink-ico { font-size: 1.6rem; line-height: 1; flex: none; }
+.itin-backlink-ico { line-height: 1; flex: none; }
 .itin-backlink-card p { margin: 0; font-weight: 600; font-size: 0.94rem; }
 
 /* Itinerary hub promo card (region/country hubs, task 8) — same visual family
@@ -1186,7 +1201,7 @@ html[lang^='zh'] .cover-inner h1 {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 .itin-hub-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
-.itin-hub-card-ico { font-size: 2rem; line-height: 1; flex: none; }
+.itin-hub-card-ico { line-height: 1; flex: none; }
 .itin-hub-card-body { flex: 1; min-width: 200px; }
 .itin-hub-card-badge { display: inline-block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.25rem; }
 .itin-hub-card-body h2, .itin-hub-card-body h3 { font-size: 1.2rem; margin: 0 0 0.25rem; }
@@ -1296,7 +1311,7 @@ html[lang^='zh'] .cover-inner h1 {
 .plan-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: 0.75rem; }
 .plan-card { display: flex; align-items: center; gap: 0.85rem; padding: 0.9rem 1.05rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-sm); transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
 .plan-card:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
-.plan-ico { font-size: 1.7rem; line-height: 1; flex: none; }
+.plan-ico { line-height: 1; flex: none; }
 .plan-txt { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
 .plan-txt strong { font-size: 0.98rem; font-weight: 650; }
 .plan-txt span { font-size: 0.82rem; color: var(--muted); line-height: 1.35; }
@@ -1514,3 +1529,17 @@ main:focus { outline: none; }
 .essential-card:nth-child(3n+1) .ico, .trust div:nth-child(3n+1) .ico { color: var(--accent-text); }
 .essential-card:nth-child(3n+2) .ico, .trust div:nth-child(3n+2) .ico { color: #4d7a4a; }
 .essential-card:nth-child(3n+3) .ico, .trust div:nth-child(3n+3) .ico { color: #8a6a35; }
+
+/* Same pastel plate for every CARD-shaped icon site-wide (owner, 2026-08-09:
+   the home had plates while hub/post cards showed bare line glyphs — the same
+   icon language looked like two different sites). Buttons keep bare icons on
+   purpose: the button itself is the plate. */
+.plan-ico, .itin-hub-card-ico, .itin-backlink-ico, .hotels-ico {
+  display: grid; place-items: center;
+  width: 42px; height: 42px; border-radius: 12px;
+  background: color-mix(in srgb, currentColor 13%, transparent);
+  color: var(--accent-text);
+}
+.plan-ico .emoji, .itin-hub-card-ico .emoji, .itin-backlink-ico .emoji, .hotels-ico .emoji { width: 21px; height: 21px; }
+.plan-card:nth-child(3n+2) .plan-ico { color: #4d7a4a; }
+.plan-card:nth-child(3n+3) .plan-ico { color: #8a6a35; }

@@ -9,7 +9,7 @@ import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
-import { eventProperName } from '../../src/lib/eventName.mjs';
+import { eventProperName, eventProperNameVariants } from '../../src/lib/eventName.mjs';
 import { commonsBest, keyToken, tokens, wikipediaLeadImage } from './commons.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -168,12 +168,20 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // this step the resolver fell through to a generic Unsplash stock photo,
     // the vision gate (correctly) refused it, and the post stayed unpublished.
     const properName = eventMode ? eventProperName(namedVenue) : '';
+    // Camel-split variant ("LeeHi" → "Lee Hi") tried AFTER the stored spelling:
+    // Commons search does not bridge the two spacings on its own (2026-08-09).
+    const tryProperVariants = async () => {
+      for (const v of eventMode ? eventProperNameVariants(namedVenue) : []) {
+        if (v.toLowerCase() === String(namedVenue).toLowerCase()) continue;
+        const hit = await commonsBest(v, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(`${namedVenue} ${v}`), minCross: 1 });
+        if (hit) return hit;
+      }
+      return null;
+    };
     const byName =
       (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
       (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
-      (properName && properName.toLowerCase() !== String(namedVenue).toLowerCase()
-        ? await commonsBest(properName, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 1 })
-        : null) ||
+      (await tryProperVariants()) ||
       // Then just the act: "Harry Styles Residency" is not a thing anyone
       // filed a photo under, "Harry Styles" is. Two words is the shape of an
       // artist's name and of most tournaments' short form.

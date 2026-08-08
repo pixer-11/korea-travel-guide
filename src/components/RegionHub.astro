@@ -184,7 +184,10 @@ const roundupsHere = new Map(
 <BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
   <section class="page-hero">
     <div class="wrap">
-      <p class="eyebrow">{t('region.eyebrow')}</p>
+      {/* Country before the label: an H1 that just says "Chinatown" (or 차이나타운)
+          names half the world's cities — the eyebrow anchors WHICH country's
+          district this is before the reader parses anything else (owner, 2026-08-09). */}
+      <p class="eyebrow">{countryLabel} · {t('region.eyebrow')}</p>
       <h1>{regionLabel}</h1>
       {usableAnswer(info?.blurb)
         ? <p class="region-blurb">{info!.blurb}</p>

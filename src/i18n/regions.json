@@ -4126,33 +4126,6 @@
       "days": "建议安排2-3天时间,游览历史城区、主要博物馆,并体验当地的咖啡与巧克力文化。"
     }
   },
-  "Xian": {
-    "en": {
-      "blurb": "Xi'an was the eastern anchor of the Silk Road and served as capital for over a dozen Chinese dynasties, leaving behind the intact Ming-era City Wall and the world-famous Terracotta Army buried nearby. Today it blends that imperial past — bell towers, ancient mosques, and a atmospheric Muslim Quarter — with the energy of a major modern Chinese metropolis.",
-      "getting": "Most travellers fly into Xi'an Xianyang International Airport (XIY), the region's main air hub, then reach the city center via the airport intercity train Metro Line 14, which connects to Xi'an North Railway Station where you transfer onto Line 2 toward downtown, a journey of roughly ~50 minutes. Xi'an North Railway Station is also the city's high-speed rail hub, so travellers arriving overland from cities like Beijing or Chengdu will typically pass through there first.",
-      "days": "Plan on ~3 days: one to explore the City Wall, Bell Tower, and Muslim Quarter, and at least one full day for a side trip to see the Terracotta Army and surrounding Lintong-area sites."
-    },
-    "ko": {
-      "blurb": "시안은 실크로드의 동쪽 종착지였으며 10여 개 중국 왕조의 수도로 기능했던 도시로, 그 시절의 흔적으로 완벽하게 보존된 명대 성벽과 인근에 묻혀 있던 세계적으로 유명한 병마용이 남아 있습니다. 오늘날 시안은 종루, 유서 깊은 모스크, 그리고 이국적인 분위기의 회족거리(무슬림 쿼터) 등 제국의 과거를 간직하면서도 현대 중국 대도시 특유의 활기를 함께 느낄 수 있는 곳입니다.",
-      "getting": "대부분의 여행자는 이 지역의 주요 관문인 시안 셴양 국제공항(XIY)으로 입국한 뒤, 공항 도시철도인 지하철 14호선을 타고 시내로 이동합니다. 14호선은 시안베이역(시안 북역)에서 2호선으로 환승할 수 있으며, 시내까지는 약 50분 정도 소요됩니다. 시안베이역은 도시의 고속철도 허브이기도 해서, 베이징이나 청두 등지에서 육로로 이동해 오는 여행자들도 보통 이곳을 먼저 거치게 됩니다.",
-      "days": "약 3일 일정을 추천합니다. 하루는 성벽, 종루, 회족거리를 둘러보는 데 쓰고, 최소 하루는 병마용과 그 주변 린퉁 지역 유적지를 방문하는 당일 여행에 할애하세요."
-    },
-    "ja": {
-      "blurb": "西安はシルクロードの東の起点であり、10以上の中国王朝の都として栄えた街です。当時の面影を今に伝える明代の城壁がほぼ完全な形で残り、近郊には世界的に有名な兵馬俑が眠っています。鐘楼や古いモスク、独特の雰囲気を持つ回民街(ムスリム地区)といった王朝時代の遺産と、現代中国有数の大都市としての活気が共存しているのが今の西安です。",
-      "getting": "多くの旅行者はこの地域の主要な玄関口である西安咸陽国際空港(XIY)を利用します。そこから市内へは、空港と都心を結ぶ都市鉄道である地下鉄14号線を利用し、西安北駅で2号線に乗り換えて中心部へ向かうのが一般的で、所要時間はおよそ50分ほどです。西安北駅は同市の高速鉄道のハブでもあるため、北京や成都など内陸の都市から陸路で訪れる旅行者も、まずこの駅を経由することが多くなります。",
-      "days": "目安として3日ほど見ておくとよいでしょう。1日は城壁、鐘楼、回民街の散策に、そして少なくとも丸1日は兵馬俑とその周辺の臨潼エリアの見どころを訪れる日帰り旅行に充てるのがおすすめです。"
-    },
-    "es": {
-      "blurb": "Xi'an fue el punto de anclaje oriental de la Ruta de la Seda y capital de más de una decena de dinastías chinas, un legado que hoy se conserva en su intacta Muralla de la ciudad de la era Ming y en el mundialmente famoso Ejército de Terracota, enterrado en las cercanías. Hoy en día, la ciudad combina ese pasado imperial —torres del tambor y la campana, antiguas mezquitas y un evocador Barrio Musulmán— con la energía propia de una gran metrópolis china contemporánea.",
-      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Xi'an Xianyang (XIY), el principal centro aéreo de la región, y desde allí se dirige al centro de la ciudad en el tren interurbano del aeropuerto, la Línea 14 del metro, que conecta con la Estación de Ferrocarril Norte de Xi'an. Allí se hace trasbordo a la Línea 2 hacia el centro, en un trayecto de aproximadamente 50 minutos. La Estación Norte de Xi'an es también el principal nodo de trenes de alta velocidad de la ciudad, por lo que quienes llegan por tierra desde ciudades como Pekín o Chengdú suelen pasar primero por allí.",
-      "days": "Conviene reservar unos 3 días: uno para recorrer la Muralla de la ciudad, la Torre de la Campana y el Barrio Musulmán, y al menos un día completo para una excursión a ver el Ejército de Terracota y los alrededores de la zona de Lintong."
-    },
-    "zh": {
-      "blurb": "西安是丝绸之路的东方起点,也曾是十余个中国朝代的都城。至今保存完好的明代城墙,以及埋藏于市郊、举世闻名的兵马俑,都是这段历史留下的印记。如今的西安,将钟楼、古老清真寺、气氛独特的回民街等帝都遗风,与现代中国大都市的蓬勃活力融为一体。",
-      "getting": "大多数游客会经由该地区的主要航空枢纽——西安咸阳国际机场(XIY)入境,然后乘坐机场城际列车地铁14号线前往市区。14号线可在西安北站换乘2号线通往市中心,全程约50分钟。西安北站同时也是西安的高铁枢纽,因此从北京、成都等地陆路抵达的游客通常也会先经过这里。",
-      "days": "建议安排约3天行程:一天用来游览城墙、钟楼和回民街,再至少安排一整天前往临潼一带,参观兵马俑及周边景点。"
-    }
-  },
   "Guangzhou": {
     "en": {
       "blurb": "Guangzhou, the sprawling Pearl River Delta capital once known to the West as Canton, blends a 2,000-year trading history with the frenetic energy of one of China's largest cargo and commerce hubs. Steamy, subtropical, and endlessly practical rather than picture-postcard pretty, it rewards travellers chasing dim sum culture, wholesale markets, and riverside skylines over conventional sightseeing.",
@@ -4442,33 +4415,6 @@
       "days": "建议预留约2天时间,游览这座城市的标志性景点,包括其规划分区、园林景观,以及勒·柯布西耶设计的公共建筑。"
     }
   },
-  "Makati City": {
-    "en": {
-      "blurb": "Makati is the financial and business heart of Metro Manila, a dense skyline of glass towers, embassies, and five-star hotels wrapped around the manicured Ayala Center shopping and green space. It's as much a lifestyle destination as a business one, known for upscale malls, rooftop bars, and leafy pockets like Ayala Triangle Gardens amid the high-rise bustle.",
-      "getting": "Most travellers arrive via Ninoy Aquino International Airport (MNL), roughly 6 km/~15 minutes by car or taxi/rideshare from the city center (longer in heavy traffic); within the city, the elevated MRT-3 line's Ayala and Buendia stations connect Makati's central business district to greater Metro Manila.",
-      "days": "Allow ~2-3 days to cover Makati's malls, museums, dining, and nightlife at a comfortable pace, or use it as a 1-2 night base before exploring the wider Metro Manila area."
-    },
-    "ko": {
-      "blurb": "마카티는 메트로 마닐라의 금융·비즈니스 중심지로, 유리 마천루와 각국 대사관, 5성급 호텔들이 잘 정돈된 아얄라 센터 쇼핑가와 녹지 공간을 둘러싸고 빼곡히 늘어서 있습니다. 이곳은 비즈니스 지구인 동시에 라이프스타일의 중심지이기도 해서, 고급 쇼핑몰과 루프탑 바, 그리고 고층 빌딩 사이사이 자리한 아얄라 트라이앵글 가든 같은 녹음이 우거진 쉼터로도 유명합니다.",
-      "getting": "대부분의 여행객은 니노이 아키노 국제공항(MNL)을 통해 입국하며, 시내 중심가까지는 차나 택시·차량 공유 서비스로 약 6km, 15분 정도 소요됩니다(교통 체증 시 더 오래 걸릴 수 있음). 시내에서는 고가로 운행되는 MRT-3 노선의 아얄라역과 부엔디아역이 마카티 중심업무지구와 메트로 마닐라 전역을 연결해 줍니다.",
-      "days": "마카티의 쇼핑몰, 박물관, 다양한 맛집과 나이트라이프를 여유롭게 둘러보려면 약 2~3일 정도가 적당하며, 메트로 마닐라 전역을 더 폭넓게 탐방하기 전 1~2박 머무는 거점 도시로 활용하기에도 좋습니다."
-    },
-    "ja": {
-      "blurb": "マカティはメトロマニラの金融・ビジネスの中心地で、ガラス張りの高層ビル群や各国大使館、五つ星ホテルが、緑豊かで整然としたアヤラ・センターのショッピングエリアを取り囲むように密集しています。ビジネス街であると同時にライフスタイルの発信地でもあり、高級ショッピングモールやルーフトップバー、そして高層ビルの合間に広がるアヤラ・トライアングル・ガーデンのような緑地でも知られています。",
-      "getting": "多くの旅行者はニノイ・アキノ国際空港(MNL)を利用して到着します。市街中心部までは車やタクシー・配車サービスで約6km、15分ほど(渋滞時はそれ以上)です。市内では高架鉄道MRT-3のアヤラ駅とブエンディア駅が、マカティの中心business地区とメトロマニラ各地を結んでいます。",
-      "days": "マカティのショッピングモールや博物館、グルメ、ナイトライフをゆったり楽しむには2〜3日ほど見ておくとよいでしょう。あるいは、メトロマニラ全域を巡る旅の拠点として1〜2泊するのもおすすめです。"
-    },
-    "es": {
-      "blurb": "Makati es el corazón financiero y empresarial del Gran Manila, un denso perfil urbano de torres de cristal, embajadas y hoteles de cinco estrellas que rodean el cuidado Ayala Center, con sus tiendas y zonas verdes. Es tanto un destino de estilo de vida como de negocios, conocido por sus centros comerciales de lujo, bares en azoteas y rincones frondosos como los Jardines del Triángulo Ayala en medio del bullicio de los rascacielos.",
-      "getting": "La mayoría de los viajeros llegan por el Aeropuerto Internacional Ninoy Aquino (MNL), a unos 6 km/~15 minutos en coche, taxi o servicio de transporte privado del centro de la ciudad (más tiempo si hay mucho tráfico); dentro de la ciudad, las estaciones Ayala y Buendia de la línea elevada MRT-3 conectan el distrito financiero de Makati con el resto del Gran Manila.",
-      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma los centros comerciales, museos, restaurantes y la vida nocturna de Makati, o bien usarlo como base de 1 a 2 noches antes de explorar el resto del Gran Manila."
-    },
-    "zh": {
-      "blurb": "马卡蒂是大马尼拉地区的金融与商业中心,鳞次栉比的玻璃摩天大楼、各国使馆和五星级酒店环绕着精心打理的阿亚拉中心购物区与绿地。这里不仅是商业枢纽,也是极具生活气息的目的地,以高档购物中心、屋顶酒吧,以及在高楼林立中难得一见的阿亚拉三角公园等绿意盎然的角落而闻名。",
-      "getting": "大多数游客经尼诺伊·阿基诺国际机场(MNL)抵达,乘车、出租车或网约车到市中心约6公里,车程约15分钟(交通拥堵时会更久);市内可搭乘高架的MRT-3线,通过阿亚拉站和布恩迪亚站,将马卡蒂中央商务区与大马尼拉其他地区连接起来。",
-      "days": "建议预留约2到3天时间,从容游览马卡蒂的商场、博物馆、美食与夜生活,或者以此为据点住上1到2晚,再前往大马尼拉其他地区探索。"
-    }
-  },
   "Makati": {
     "en": {
       "blurb": "Makati is the Philippines' financial and business capital, a dense skyline of glass towers, embassies, and malls layered over leafy residential enclaves like Forbes Park. It's also one of Metro Manila's most walkable and orderly districts, with the upscale Ayala Center and Poblacion's nightlife giving it a split personality of boardroom by day and bar-hop by night.",
@@ -4523,60 +4469,6 @@
       "days": "若想悠闲地游览海滩和镇中心，安排1-2天即可；如果计划配合米萨诺世界赛道的比赛周末前往，建议安排更长的停留时间。"
     }
   },
-  "Multiple cities": {
-    "en": {
-      "blurb": "Spain's multi-city trail links a strikingly varied set of destinations — from Madrid's museum-lined boulevards and Barcelona's Gaudí-shaped skyline to Andalusia's Moorish palaces in Seville and Granada — each with its own architecture, cuisine, and pace of life. Together they let travellers experience everything from cosmopolitan capital energy to sun-baked southern courtyards within the space of a single trip.",
-      "getting": "Most journeys begin by flying into Madrid–Barajas (MAD) or Barcelona–El Prat (BCN), Spain's two main international gateways, both directly connected to their city centres by metro and rail. From there, Renfe's AVE high-speed rail network links Madrid, Barcelona, Seville, and other major cities in as little as ~2.5 hours, making city-to-city travel by train faster and more convenient than flying.\n\n<cite index=\"16-1\">Madrid is the central node of the AVE high-speed rail network, which has brought major cities such as Seville and Barcelona within 2.5 hours travel time.</cite> <cite index=\"12-1,12-4\">Barcelona-El Prat Airport (BCN) is an important international airport, and Madrid airport transportation options include the metro, train, and other links into the city.</cite>",
-      "days": "Allow ~7-10 days to comfortably cover a handful of these cities by high-speed train, with 2-3 nights in each to explore its historic centre without feeling rushed."
-    },
-    "es": {
-      "blurb": "La ruta multidestino de España conecta lugares sorprendentemente diversos: desde los bulevares llenos de museos de Madrid y el perfil urbano modelado por Gaudí en Barcelona, hasta los palacios moriscos de Andalucía en Sevilla y Granada, cada uno con su propia arquitectura, gastronomía y ritmo de vida. Juntos permiten a los viajeros experimentar todo, desde la energía cosmopolita de una capital hasta los patios soleados del sur, en un solo viaje.",
-      "getting": "La mayoría de los viajes comienzan volando a Madrid-Barajas (MAD) o Barcelona-El Prat (BCN), las dos principales puertas de entrada internacionales de España, ambas conectadas directamente con sus centros urbanos por metro y tren. Desde allí, la red de alta velocidad AVE de Renfe une Madrid, Barcelona, Sevilla y otras grandes ciudades en tan solo ~2.5 horas, lo que hace que viajar de ciudad en ciudad en tren sea más rápido y cómodo que volar.\n\nMadrid es el nodo central de la red ferroviaria de alta velocidad AVE, que ha acercado ciudades importantes como Sevilla y Barcelona a solo 2.5 horas de viaje. El aeropuerto de Barcelona-El Prat (BCN) es un importante aeropuerto internacional, y el aeropuerto de Madrid ofrece opciones de transporte como metro, tren y otras conexiones hacia la ciudad.",
-      "days": "Reserva entre 7 y 10 días para recorrer con comodidad varias de estas ciudades en tren de alta velocidad, con 2-3 noches en cada una para explorar su centro histórico sin sentirte apurado."
-    },
-    "ja": {
-      "blurb": "スペインのマルチシティ路線は、驚くほど多彩な目的地を結んでいます。美術館が立ち並ぶマドリードの大通り、ガウディが形作ったバルセロナのスカイラインから、セビリアやグラナダに残るアンダルシアのムーア様式の宮殿まで——それぞれに独自の建築、食文化、暮らしのリズムがあります。これらを組み合わせることで、洗練された首都のエネルギーから、太陽が降り注ぐ南部の中庭までを、一度の旅で味わうことができます。",
-      "getting": "多くの旅は、スペインの二大国際玄関口であるマドリード・バラハス空港(MAD)またはバルセロナ・エル・プラット空港(BCN)への到着から始まります。どちらの空港も地下鉄や鉄道で市街地と直結しています。そこから、レンフェのAVE高速鉄道網を利用すれば、マドリード、バルセロナ、セビリアをはじめとする主要都市間を最短約2.5時間で移動でき、飛行機よりも速く便利に都市間を移動できます。\n\nマドリードはAVE高速鉄道網の中心拠点であり、セビリアやバルセロナといった主要都市への所要時間を2.5時間以内に短縮しています。バルセロナ・エル・プラット空港(BCN)は重要な国際空港であり、マドリードの空港には地下鉄や鉄道など、市内へのさまざまなアクセス手段があります。",
-      "days": "高速鉄道でこれらの都市をいくつか無理なく巡るには、約7〜10日を見込みましょう。各都市に2〜3泊すれば、慌ただしさを感じることなく歴史地区をじっくり探索できます。"
-    },
-    "ko": {
-      "blurb": "스페인의 멀티시티 여행 경로는 놀랍도록 다채로운 목적지들을 연결합니다. 미술관이 늘어선 마드리드의 대로와 가우디가 빚어낸 바르셀로나의 스카이라인부터, 세비야와 그라나다에 남아있는 안달루시아의 무어 양식 궁전까지 — 각 도시는 저마다의 건축, 음식, 삶의 리듬을 지니고 있습니다. 이 도시들을 함께 여행하면 세련된 수도의 활기부터 햇살 가득한 남부의 안뜰까지, 단 한 번의 여행에서 모두 경험할 수 있습니다.",
-      "getting": "대부분의 여정은 스페인의 양대 국제 관문인 마드리드-바라하스 공항(MAD) 또는 바르셀로나-엘프라트 공항(BCN)으로 입국하며 시작됩니다. 두 공항 모두 지하철과 열차로 시내와 바로 연결됩니다. 이곳에서 렌페의 AVE 고속철도망을 이용하면 마드리드, 바르셀로나, 세비야를 비롯한 주요 도시들을 최단 약 2.5시간 만에 이동할 수 있어, 도시 간 이동에는 비행기보다 기차가 더 빠르고 편리합니다.\n\n마드리드는 AVE 고속철도망의 중심 거점으로, 세비야와 바르셀로나 같은 주요 도시들을 2.5시간 이내로 연결합니다. 바르셀로나-엘프라트 공항(BCN)은 주요 국제공항이며, 마드리드 공항에서는 지하철, 열차 등 다양한 시내 교통수단을 이용할 수 있습니다.",
-      "days": "고속철도로 이 도시들 중 몇 곳을 여유롭게 둘러보려면 약 7~10일을 잡는 것이 좋으며, 각 도시에서 2~3박씩 머물면 서두르지 않고 역사 지구를 둘러볼 수 있습니다."
-    },
-    "zh": {
-      "blurb": "西班牙的多城市之旅串联起一系列风格迥异的目的地——从马德里博物馆林立的大道、巴塞罗那高迪风格的天际线，到安达卢西亚地区塞维利亚和格拉纳达的摩尔式宫殿——每座城市都有自己独特的建筑风貌、美食文化和生活节奏。它们共同构成了一场旅程，让旅行者既能感受国际大都会的活力，也能体验南部小城沐浴阳光下的悠闲庭院生活。",
-      "getting": "大多数行程会先飞抵马德里巴拉哈斯机场（MAD）或巴塞罗那埃尔普拉特机场（BCN）——西班牙两大国际门户机场，两者都可通过地铁和铁路直达市中心。从这里出发，Renfe的AVE高铁网络可在最短约2.5小时内连接马德里、巴塞罗那、塞维利亚等主要城市，使城市间的火车往来比乘飞机更快捷、更方便。\n\n马德里是AVE高铁网络的核心枢纽，塞维利亚、巴塞罗那等主要城市都已被纳入这张网络，车程最短仅需2.5小时。巴塞罗那埃尔普拉特机场（BCN）是重要的国际机场，而马德里机场则提供地铁、火车等多种便捷的市区交通方式。",
-      "days": "建议安排约7-10天，以便通过高铁从容游览其中几座城市，每座城市停留2-3晚，既能深入探索其历史城区，又不会感到行程紧张。"
-    }
-  },
-  "New York City": {
-    "en": {
-      "blurb": "New York City is a dense, five-borough metropolis where Manhattan skyscrapers, Broadway theaters, and world-class museums sit alongside distinct neighborhoods shaped by generations of immigration. It's a 24-hour city built around an extensive subway network, iconic green spaces like Central Park, and a relentless energy that has made it a global capital of finance, culture, and media.",
-      "getting": "Most international travelers arrive via John F. Kennedy International Airport (JFK) or Newark Liberty International Airport (EWR); from JFK, the AirTrain connects to the subway at Howard Beach or to the Long Island Rail Road and subway at Jamaica Station for the trip into Manhattan, while from Newark, the AirTrain links to NJ Transit and Amtrak trains at Newark Liberty International Airport Station for the ~30-minute ride to Penn Station. LaGuardia Airport (LGA), used mainly for domestic flights, is reached primarily by bus/taxi connections into the city.",
-      "days": "Plan on at least 4-5 days to cover Manhattan's major sights along with a taste of the outer boroughs, though many visitors happily spend a week or more without running out of things to do."
-    },
-    "ko": {
-      "blurb": "뉴욕시는 5개 자치구로 이루어진 밀도 높은 대도시로, 맨해튼의 마천루와 브로드웨이 극장, 세계적 수준의 박물관들이 여러 세대에 걸친 이민의 역사가 빚어낸 개성 넘치는 동네들과 어우러져 있다. 방대한 지하철망과 센트럴 파크 같은 상징적인 녹지 공간을 중심으로 돌아가는 24시간 도시이며, 금융·문화·미디어의 세계적 중심지로 자리매김한 그 특유의 끊임없는 에너지가 도시 전체에 넘쳐흐른다.",
-      "getting": "대부분의 해외 여행객은 존 F. 케네디 국제공항(JFK)이나 뉴어크 리버티 국제공항(EWR)을 통해 도착한다. JFK에서는 에어트레인을 타고 하워드 비치역에서 지하철로 갈아타거나, 자메이카역에서 롱아일랜드 철도(LIRR)와 지하철로 환승해 맨해튼까지 이동할 수 있다. 뉴어크에서는 에어트레인이 뉴어크 리버티 국제공항역에서 NJ 트랜짓 및 암트랙 열차와 연결되며, 약 30분이면 펜 스테이션에 도착한다. 주로 국내선이 오가는 라과디아 공항(LGA)은 버스나 택시를 이용해 시내로 들어가는 것이 일반적이다.",
-      "days": "맨해튼의 주요 명소와 다른 자치구들의 매력을 함께 둘러보려면 최소 4~5일은 계획하는 것이 좋다. 다만 많은 여행객들이 일주일 이상 머물러도 볼거리가 끊이지 않는다고 말한다."
-    },
-    "ja": {
-      "blurb": "ニューヨーク市は5つの行政区からなる密度の高い大都市で、マンハッタンの摩天楼、ブロードウェイの劇場、世界屈指の博物館群が、幾世代にもわたる移民の歴史によって形作られた個性豊かな街々と隣り合って存在している。広大な地下鉄網とセントラルパークのような象徴的な緑地を中心に回る24時間都市であり、金融・文化・メディアの世界的な中心地たらしめてきた、その尽きることのないエネルギーに満ちている。",
-      "getting": "海外からの旅行者の多くは、ジョン・F・ケネディ国際空港(JFK)またはニューアーク・リバティ国際空港(EWR)を利用して入国する。JFKからは、エアトレインでハワード・ビーチ駅に出て地下鉄に乗り換えるか、ジャマイカ駅でロングアイランド鉄道(LIRR)と地下鉄に乗り換えてマンハッタンへ向かうことができる。ニューアークからは、エアトレインがニューアーク・リバティ国際空港駅でNJトランジットおよびアムトラックの列車と接続しており、約30分でペンシルベニア駅に到着する。主に国内線が発着するラガーディア空港(LGA)へは、バスやタクシーを利用して市内へ向かうのが一般的だ。",
-      "days": "マンハッタンの主要な見どころに加え、他の行政区の雰囲気も味わうなら、少なくとも4〜5日は予定しておきたい。とはいえ、1週間以上滞在しても飽きることがないと語る旅行者も多い。"
-    },
-    "es": {
-      "blurb": "Nueva York es una metrópolis densa de cinco distritos donde los rascacielos de Manhattan, los teatros de Broadway y museos de talla mundial conviven con barrios muy singulares moldeados por generaciones de inmigrantes. Es una ciudad que nunca duerme, articulada en torno a una extensa red de metro, espacios verdes emblemáticos como Central Park, y una energía imparable que la ha convertido en una capital global de las finanzas, la cultura y los medios de comunicación.",
-      "getting": "La mayoría de los viajeros internacionales llegan a través del Aeropuerto Internacional John F. Kennedy (JFK) o el Aeropuerto Internacional Newark Liberty (EWR); desde el JFK, el AirTrain conecta con el metro en Howard Beach o con el tren Long Island Rail Road y el metro en la estación Jamaica para llegar a Manhattan, mientras que desde Newark, el AirTrain enlaza con los trenes de NJ Transit y Amtrak en la estación Newark Liberty International Airport para un trayecto de unos 30 minutos hasta Penn Station. El aeropuerto LaGuardia (LGA), utilizado principalmente para vuelos nacionales, se conecta con la ciudad sobre todo mediante autobús o taxi.",
-      "days": "Conviene reservar al menos 4-5 días para recorrer los principales atractivos de Manhattan y darse una idea de los demás distritos, aunque muchos visitantes se quedan encantados una semana o más sin quedarse sin cosas por hacer."
-    },
-    "zh": {
-      "blurb": "纽约市是一座由五个行政区组成的密集型大都市,曼哈顿的摩天大楼、百老汇剧院和世界一流的博物馆,与经过几代移民塑造而成、各具特色的社区交织并存。这里是一座全天候运转的城市,依托庞大的地铁网络、中央公园等标志性绿地,以及永不停歇的活力,使其成为全球金融、文化与媒体之都。",
-      "getting": "大多数国际旅客通过肯尼迪国际机场(JFK)或纽瓦克自由国际机场(EWR)抵达纽约:从JFK出发,可乘坐机场轻轨(AirTrain)在Howard Beach站换乘地铁,或在牙买加站(Jamaica Station)换乘长岛铁路(LIRR)和地铁前往曼哈顿;从纽瓦克机场出发,则可乘坐AirTrain在纽瓦克自由国际机场站换乘新泽西公交(NJ Transit)或美铁(Amtrak)列车,约30分钟即可到达宾夕法尼亚车站(Penn Station)。拉瓜迪亚机场(LGA)主要服务于国内航班,进出市区主要依靠巴士或出租车接驳。",
-      "days": "建议至少安排4-5天时间游览曼哈顿的主要景点,并顺便体验其他行政区的风情;不过许多游客即便停留一周甚至更久,也不会觉得无事可做。"
-    }
-  },
   "Nonthaburi": {
     "en": {
       "blurb": "Nonthaburi is a riverside province on the Chao Phraya just north of Bangkok, prized for its historic temples, riverside markets, and the Mon pottery village of Koh Kret. It offers a slower, more local alternative to the capital's bustle, with durian orchards and government-era architecture alongside its waterfront charm.",
@@ -4629,23 +4521,6 @@
       "blurb": "深圳是现代中国高速发展的缩影——一个渔村在短短四十年间蜕变为科技巨型都市，如今华为、腾讯等巨头与林立的玻璃幕墙高楼交相辉映。深圳与香港一线之隔，让人可以在地铁一站之间，鲜明感受内地的蓬勃活力与这座昔日英属殖民地之间的巨大反差，别具魅力。",
       "getting": "大多数国际旅客乘飞机抵达深圳宝安国际机场（SZX），可通过地铁11号线直达市区。许多游客也会经陆路从香港入境，经罗湖或福田等口岸过关，或乘坐高铁直达香港西九龙。",
       "days": "要游览深圳的科技园区、主题乐园和城市天际线，建议安排2-3天；如果计划顺道跨境前往香港，最好再多留一天。"
-    }
-  },
-  "Quezon City": {
-    "en": {
-      "blurb": "Quezon City is the Philippines' most populous city and a former national capital, sprawling across Metro Manila's north side with leafy university districts, government landmarks like the Quezon Memorial Circle, and one of the country's biggest concentrations of malls, media studios, and street-food scenes. It's less a single \"sight\" than a vast urban patchwork—home to Diliman's academic core, Cubao's transit-and-shopping hub, and fast-growing residential sprawl toward Novaliches in the north.",
-      "getting": "Most travellers arrive via Ninoy Aquino International Airport (NAIA, code MNL) in Pasay/Parañaque, then reach Quezon City by taxi/ride-hailing, P2P bus, or a combination of MRT-3 and LRT-2/LRT-1 lines that run through the city along EDSA and other corridors; the trip typically takes ~45 minutes to over 2 hours depending on traffic. Within the city, the EDSA-hugging MRT-3 and LRT-2 stations (e.g., Cubao, Quezon Avenue) are the most reliable rail access points, supplemented by extensive jeepney and bus networks.",
-      "days": "Plan on ~2-3 days to cover the main areas—Diliman's UP campus and cafes, Cubao's malls and transport terminals, and the Quezon Memorial Circle—though the city's size means many visitors treat it as a base for exploring wider Metro Manila rather than a single-destination stop."
-    },
-    "ko": {
-      "blurb": "케손시티(Quezon City)는 필리핀에서 인구가 가장 많은 도시이자 과거 국가 수도로, 메트로 마닐라 북쪽에 넓게 자리하고 있습니다. 녹음이 우거진 대학가, 케손 메모리얼 서클(Quezon Memorial Circle) 같은 정부 관련 랜드마크, 그리고 국내 최대 규모로 밀집한 쇼핑몰과 방송사, 길거리 음식 문화가 어우러진 곳입니다. 단일 관광지라기보다는 거대한 도시의 모자이크에 가까운데, 학문의 중심지인 딜리만(Diliman), 교통과 쇼핑의 허브인 쿠바오(Cubao), 그리고 북쪽으로 빠르게 확장되는 노발리체스(Novaliches) 주거 지역까지 다양한 얼굴을 지니고 있습니다.",
-      "getting": "대부분의 여행자는 파사이/파라냐케(Pasay/Parañaque)에 위치한 니노이 아키노 국제공항(NAIA, 공항 코드 MNL)을 통해 입국한 뒤, 택시나 차량 호출 서비스, P2P 버스, 혹은 MRT-3와 LRT-2/LRT-1 노선을 조합해 케손시티로 이동합니다. 이 열차 노선들은 EDSA를 비롯한 주요 도로를 따라 도시를 관통합니다. 소요 시간은 교통 상황에 따라 약 45분에서 2시간 이상까지 다양합니다. 시내에서는 EDSA를 따라 이어지는 MRT-3와 LRT-2 역들(예: 쿠바오, 케손 애비뉴)이 가장 신뢰할 수 있는 철도 교통수단이며, 여기에 촘촘한 지프니와 버스 노선망이 더해집니다.",
-      "days": "딜리만의 UP 캠퍼스와 카페들, 쿠바오의 쇼핑몰과 교통 터미널, 그리고 케손 메모리얼 서클 등 주요 지역을 둘러보려면 약 2~3일 정도를 계획하는 것이 좋습니다. 다만 도시의 방대한 규모 때문에 많은 여행자들은 이곳을 단일 목적지라기보다는 메트로 마닐라 전역을 탐방하기 위한 거점으로 활용하는 경우가 많습니다."
-    },
-    "ja": {
-      "blurb": "ケソンシティ(Quezon City)はフィリピン最大の人口を擁する都市であり、かつての首都でもあります。メトロマニラの北側に広がり、緑豊かな大学地区や、ケソン記念サークル(Quezon Memorial Circle)といった政府関連のランドマーク、そして国内屈指の規模を誇るショッピングモール群、メディアスタジオ、屋台グルメが集まるエリアなど、多彩な顔を持っています。単一の「観光名所」というよりは広大な都市のパッチワークのような場所で、学術の中心地ディリマン(Diliman)、交通と買い物のハブであるクバオ(Cubao)、そして北部で急速に発展する住宅地ノバリチェス(Novaliches)などから成り立っています。",
-      "getting": "多くの旅行者は、パサイ/パラニャーケ(Pasay/Parañaque)にあるニノイ・アキノ国際空港(NAIA、空港コードMNL)から入国し、その後タクシーや配車サービス、P2Pバス、あるいはMRT-3とLRT-2/LRT-1を組み合わせてケソンシティへ向かいます。これらの鉄道路線はEDSAをはじめとする主要道路沿いに市内を走っています。所要時間は交通状況により約45分から2時間以上とさまざまです。市内では、EDSA沿いのMRT-3およびLRT-2の駅(クバオ駅、ケソンアベニュー駅など)が最も信頼できる鉄道アクセス手段で、これに広範なジプニーやバスのネットワークが加わります。",
-      "days": "ディリマンのUPキャンパスやカフェ、クバオのショッピングモールや交通ターミナル、そしてケソン記念サークルといった主要エリアを巡るには、2〜3日ほど見ておくとよいでしょう。ただし、この都市の規模の大きさから、多くの旅行者は単一の目的地としてではなく、メトロマニラ全体を巡る際の拠点として利用しています。"
     }
   },
   "Tokushima": {

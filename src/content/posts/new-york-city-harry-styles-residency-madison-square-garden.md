@@ -1,11 +1,11 @@
 ---
-title: 'Harry Styles Residency – Madison Square Garden: What to Know (New York City)'
+title: 'Harry Styles Residency – Madison Square Garden: What to Know (New York)'
 description: >-
   Harry Styles Residency – Madison Square Garden in New York City, United States
   — August 26 - October 31, 2026 (performances every Wed, Fri, Sat). What it is,
   when and where, and how to plan around it.
 country: United States
-region: New York City
+region: New York
 category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-26'

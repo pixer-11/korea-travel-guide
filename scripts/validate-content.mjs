@@ -160,6 +160,12 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   const issues = [];
 
   if (p.region.includes('/')) issues.push(`SLASH in region "${p.region}" — breaks /regions route: ${p.f}`);
+  // A placeholder region becomes a real REGION PAGE ("Multiple cities" shipped
+  // as a hub titled "여러 도시" — La Vuelta, owner-caught 2026-08-09). The
+  // discovery prompt now demands one real city; this is the machine-side guard.
+  if (/^(multiple|various|several|nationwide|citywide|tba|tbd|unknown)\b/i.test(p.region.trim())) {
+    issues.push(`PLACEHOLDER region "${p.region}" — anchor the event to its finish/start city: ${p.f}`);
+  }
   const d = p.description.trim();
   if (d && (!DESC_TERMINAL.test(d) || !parensBalanced(d))) {
     issues.push(`TRUNCATED-DESCRIPTION: ${p.f} — ends "…${d.slice(-50)}"`);
@@ -519,6 +525,38 @@ async function main() {
   }
   dupBy((p) => (p.url && !p.url.includes('placeholder') ? unsplashNum(p.url) || p.url : ''), 'DUPLICATE image');
   dupBy((p) => p.placeId, 'DUPLICATE place.id');
+
+  // One region name = one country. "Chinatown" exists in every big city on
+  // earth; today ours is Singapore's, and the day a Bangkok-Chinatown post
+  // lands, both countries' guides merge into one hub page (owner spotted the
+  // ambiguity 2026-08-09 — no live collision yet, this keeps it that way).
+  // The fix for a new colliding post is a qualified region ("Chinatown
+  // (Bangkok)" or the local name "Yaowarat"), never sharing the bare key.
+  {
+    const regionCountry = new Map();
+    // Spelling twins split one city into two hubs: "New York" (18 guides) and
+    // "New York City" (1) rendered as separate tiles with near-identical pages
+    // (owner-caught 2026-08-09). Normalise away case and a trailing "City"
+    // before comparing; a twin must adopt the existing spelling to publish.
+    const twin = new Map();
+    const normRegion = (r) => r.toLowerCase().replace(/\s+city$/i, '').replace(/\s+/g, ' ').trim();
+    for (const p of posts) {
+      if (!p.region) continue;
+      const prev = regionCountry.get(p.region);
+      if (prev && prev.country !== p.country) {
+        issues.push(`REGION NAME COLLISION "${p.region}" spans countries (${prev.country}: ${prev.f} vs ${p.country}: ${p.f}) — qualify the new region name`);
+      } else if (!prev) {
+        regionCountry.set(p.region, { country: p.country, f: p.f });
+      }
+      const n = normRegion(p.region);
+      const t = twin.get(n);
+      if (t && t.region !== p.region && t.country === p.country) {
+        issues.push(`REGION SPELLING TWIN "${p.region}" vs "${t.region}" (${p.country}) — one city split into two hubs; adopt "${t.region}": ${p.f}`);
+      } else if (!t) {
+        twin.set(n, { region: p.region, country: p.country, f: p.f });
+      }
+    }
+  }
 
   // The gap between "the vision audit knows this photo is wrong" and "the post
   // came down". See photoVerificationProblems.

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { tileSize, pickRepHeroUrl } from '../lib/repImage';
+import { tileSize, pickRepHeroUrl, regionCoverUrl } from '../lib/repImage';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import { slugifyRegion } from '../lib/slug';
@@ -35,7 +35,7 @@ for (const p of posts) {
 }
 const regionImg = new Map<string, string>();
 for (const [region, list] of byRegion) {
-  const url = pickRepHeroUrl(list);
+  const url = pickRepHeroUrl(list) || regionCoverUrl(region);
   // tileSize on the RAW stored url — repImage returns it untransformed on
   // purpose, because hashing a transformed string once produced /wall/ names
   // that exist nowhere and blacked out every tile.

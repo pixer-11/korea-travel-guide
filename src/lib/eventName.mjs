@@ -75,3 +75,15 @@ export function eventProperName(title) {
   const name = words.slice(0, 5).join(' ').replace(TRAILING_JUNK, '').trim();
   return name || base;
 }
+
+// Search variants of the proper name. Our titles store some acts camel-cased
+// ("LeeHi") while Commons files spell them spaced ("Lee Hi …") and its search
+// does not bridge the two — the proper-name query returned nothing while five
+// CC concert photos sat one spacing away (2026-08-09). The camel-split form is
+// an ADDITIONAL query, never a replacement: "EuroVolley" is genuinely written
+// solid and splitting it in place broke its (working) query.
+export function eventProperNameVariants(title) {
+  const name = eventProperName(title);
+  const spaced = name.replace(/\b([A-Z][a-z]{2,})([A-Z][a-z]+)\b/g, '$1 $2');
+  return spaced !== name ? [name, spaced] : [name];
+}

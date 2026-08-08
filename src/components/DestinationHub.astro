@@ -6,7 +6,7 @@ import PostCard from './PostCard.astro';
 import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
-import { pickRepHeroUrl, tileSize } from '../lib/repImage';
+import { pickRepHeroUrl, tileSize, regionCoverUrl } from '../lib/repImage';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
@@ -72,7 +72,7 @@ const essentialsSlugs = new Set(
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
 const hasEsim = !!(esimFacts as Record<string, unknown>)[country.slug];
-const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)));
+const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)) || regionCoverUrl(r));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();

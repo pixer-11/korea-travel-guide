@@ -61,8 +61,13 @@ const todo = [...new Set(heroes)].filter((u) => !table[u]).slice(0, limit);
 console.log(`${heroes.length} hero URL(s), ${Object.keys(table).length} mirrored, ${todo.length} to do`);
 
 let done = 0, skipped = 0, failed = 0;
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 for (const url of todo) {
   try {
+    // Wikimedia rate-limits rapid sequential pulls (429s began ~250 requests
+    // into the first run). One request per ~1.2s stays under it; the script
+    // is resumable so a long catch-up just takes a few runs.
+    await sleep(2500);
     const res = await fetch(url, { headers: { 'user-agent': 'WanderAtlasBot/1.0 (og-mirror; wanderatlasguides.com)' } });
     if (!res.ok) throw new Error(`fetch ${res.status}`);
     const buf = Buffer.from(await res.arrayBuffer());

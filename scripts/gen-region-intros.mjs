@@ -145,6 +145,12 @@ async function main() {
     try {
       const { data } = matter(await readFile(`src/content/posts/${f}`, 'utf8'));
       if (data.draft || !data.region) continue;
+      // A placeholder region is not a place; writing an intro for it invents a
+      // travel guide for somewhere that does not exist ("Multiple cities"
+      // rendered as a Korean hub titled "여러 도시" with a fabricated Spain
+      // itinerary blurb — owner-caught 2026-08-09). validate-content now
+      // blocks these at the gate; this guard covers pre-existing posts.
+      if (/^(multiple|various|several|nationwide|citywide|tba|tbd|unknown)\b/i.test(String(data.region).trim())) continue;
       regions.set(data.region, data.country ?? 'South Korea');
     } catch {}
   }
