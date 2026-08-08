@@ -195,6 +195,17 @@ const busynessCount = posts.filter((p) => {
 // claims are all true of the product: distances, hours and quiet windows are
 // verified at build time, print CSS exists, and no page requires an account.
 const itins = (await getCollection('itineraries')).sort((a, b) => a.data.city.localeCompare(b.data.city));
+// Row metadata for the itinerary panel, computed from the course's own stops:
+// stop count and the average Google rating of the stops that carry one —
+// the mock's "11 courses · avg 4.4★" line, from data that exists.
+const itinMeta = (it: any) => {
+  const slugs: string[] = (it.data.itinerary ?? []).flatMap((d: any) => (d.stops ?? []).map((s: any) => s.slug));
+  const ratings = slugs
+    .map((s) => Number(posts.find((p) => p.id === s)?.data.place?.rating))
+    .filter((r) => Number.isFinite(r) && r > 0);
+  const avg = ratings.length >= 3 ? (ratings.reduce((a, b) => a + b, 0) / ratings.length).toFixed(1) : null;
+  return { stops: slugs.length, avg };
+};
 const monthLabel = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { year: 'numeric', month: 'long' }).format(nowD);
 const fmtEventDates = (p: any) => {
   const f = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { month: 'short', day: 'numeric' });
@@ -357,14 +368,29 @@ const fmtEventDates = (p: any) => {
                 <p class="kicker gold">{t('home.itin.kicker')}</p>
                 <h2>{t('home.itin.title')}</h2>
                 <p class="ess-dek">{t('home.itin.dek')}</p>
+                <a class="btn btn-primary itin-all" href={localizePath('/itinerary', lang)}>{t('home.itin.all')}</a>
               </div>
-              <div class="itin-chips">
-                {itins.map((it) => (
-                  <a class="btn btn-ghost" href={localizePath(`/itinerary/${it.id}`, lang)}>
-                    {t('home.itin.chip').replace('{city}', localizePlace(it.data.city, lang)).replace('{d}', String(it.data.days))}
-                  </a>
-                ))}
-                <a class="btn btn-primary" href={localizePath('/itinerary', lang)}>{t('home.itin.all')}</a>
+              <div class="itin-panel">
+                <div class="itin-panel-head">
+                  <b>{t('home.itin.panelTitle')}</b>
+                  <span>{t('home.itin.panelMeta').replace('{n}', String(itins.length))}</span>
+                </div>
+                {itins.map((it) => {
+                  const m = itinMeta(it);
+                  return (
+                    <a class="itin-row" href={localizePath(`/itinerary/${it.id}`, lang)}>
+                      <span class="itin-days">{t('home.itin.chipDays').replace('{d}', String(it.data.days))}</span>
+                      <span class="itin-row-main">
+                        <b>{localizePlace(it.data.city, lang)}</b>
+                        <small>
+                          {t('home.itin.stops').replace('{n}', String(m.stops))}
+                          {m.avg && ` · ${t('home.itin.avg').replace('{r}', m.avg)}`}
+                        </small>
+                      </span>
+                      <span class="itin-chev" aria-hidden="true">›</span>
+                    </a>
+                  );
+                })}
               </div>
             </div>
           )}

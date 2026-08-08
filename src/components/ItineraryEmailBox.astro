@@ -77,7 +77,7 @@ const itineraryUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderat
   /* Specificity here has to beat BOTH `.nl-form .btn-primary` (white — meant
      for the dark newsletter band, a ghost button on this cream card) and the
      global dark-mode fill correction, hence the doubled class. */
-  .itin-email .itin-email-form :global(.btn-primary) { background: var(--accent); color: #fff; border-radius: var(--r-pill, 999px); }
+  .itin-email .itin-email-form :global(.btn-primary) { background: var(--cta); color: #fff; border-radius: var(--r-pill, 999px); }
   .itin-email .itin-email-form :global(.btn-primary:hover) { background: var(--accent-deep); color: #fff; }
   /* In dark mode --accent lightens (#e0685c) for TEXT legibility; as a FILL
      behind white it measures 3.33:1 and fails AA. Same deep vermilion the

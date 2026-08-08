@@ -32,6 +32,12 @@
   --accent-soft: #f6e3df;
   --pine: #2f5d4f;        /* traditional green */
   --gold: #b8862f;
+  /* CTA buttons: warm terracotta, unified site-wide (owner's mock, 2026-08-08).
+     #b45f2d holds 4.55:1 with white text (the mock's #c67139 was 3.61 - short
+     of AA for button-size text). Links and emphasis keep vermilion --accent;
+     only FILLED buttons ride this token. */
+  --cta: #b45f2d;
+  --cta-deep: #9d5226;
 
   /* ---- Type ---- */
   --font-display: 'Fraunces Variable', 'Fraunces', 'Hahmlet Variable', 'Hahmlet', Georgia, serif;
@@ -158,8 +164,8 @@ h1, h2, h3, h4 {
   cursor: pointer;
   transition: transform 0.12s ease, box-shadow 0.15s ease, background 0.15s ease;
 }
-.btn-primary { background: var(--accent); color: #fff; box-shadow: var(--shadow-sm); }
-.btn-primary:hover { background: var(--accent-deep); color: #fff; transform: translateY(-1px); box-shadow: var(--shadow-md); }
+.btn-primary { background: var(--cta); color: #fff; box-shadow: var(--shadow-sm); }
+.btn-primary:hover { background: var(--cta-deep); color: #fff; transform: translateY(-1px); box-shadow: var(--shadow-md); }
 .btn-ghost { background: var(--surface); color: var(--ink); border-color: var(--line); }
 .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
 
@@ -439,7 +445,7 @@ h1, h2, h3, h4 {
 .share-label { font-size: 0.82rem; font-weight: 700; color: var(--ink-soft); }
 .share-btns { display: flex; flex-wrap: wrap; gap: 0.45rem; }
 .share-btn { font: inherit; font-size: 0.82rem; font-weight: 600; padding: 0.45rem 0.85rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink-soft); text-decoration: none; cursor: pointer; transition: background .15s, color .15s, border-color .15s; }
-.share-btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+.share-btn:hover { background: var(--cta); border-color: var(--cta); color: #fff; }
 .share-native { border-color: var(--accent); color: var(--accent); }
 
 /* ============================================================
@@ -920,13 +926,15 @@ html[lang^='zh'] .cover-inner h1 {
 .tools-duo { display: flex; flex-direction: column; gap: 1.1rem; }
 .tool-card h2 { margin: 0.45rem 0 0.5rem; font-size: clamp(1.35rem, 2.8vw, 1.9rem); }
 .tool-card .ess-dek { margin: 0 0 1rem; max-width: 46ch; }
-/* Itinerary band: a LIGHT pine tint so the pair reads as one family — the
-   owner found gold-vs-deep-green too much contrast; light sage over deep
-   pine is the same hue at two depths. */
+/* Itinerary band: warm gold tint over the deep-pine band below — the owner's
+   final call: DIFFERENT hues that harmonise beats one hue at two depths.
+   (The earlier gold-vs-green clash was really the old saturated green plus
+   the alarm-red chart; with the band lightened and the chart muted, warm
+   gold sits comfortably against it.) */
 .tool-card--itin {
   display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2.5rem;
-  background: color-mix(in srgb, var(--pine) 8%, var(--surface));
-  border: 1px solid color-mix(in srgb, var(--pine) 22%, var(--line));
+  background: color-mix(in srgb, var(--gold) 10%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--gold) 28%, var(--line));
 }
 .tool-card--itin .ess-dek { margin-bottom: 0; }
 /* Deep-pine inverse band, laid out exactly like the mock the owner liked:
@@ -945,6 +953,11 @@ html[lang^='zh'] .cover-inner h1 {
   color: #f4d492; display: inline-block; padding: 0.28rem 0.6rem; border-radius: var(--r-pill);
   background: rgba(244, 212, 146, 0.14);
 }
+/* On the dark band a filled terracotta button floats ('red on dark' — the
+   owner's mock note); a pale sage button belongs to the band's own hue.
+   #dfe8d5 vs the band 6.8:1, its dark text 10.6:1. */
+.tool-card--crowd .btn-primary { background: #dfe8d5; color: #23331f; box-shadow: none; }
+.tool-card--crowd .btn-primary:hover { background: #fffdf9; color: #23331f; }
 .crowd-panel {
   background: rgba(255, 253, 249, 0.08); border: 1px solid rgba(255, 253, 249, 0.12);
   border-radius: 14px; padding: clamp(0.9rem, 2vw, 1.3rem);
@@ -952,34 +965,57 @@ html[lang^='zh'] .cover-inner h1 {
 .crowd-panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-bottom: 0.75rem; }
 .crowd-panel-head b { color: #fffdf9; font-size: 0.95rem; }
 .crowd-panel-head span { font-size: 0.68rem; color: #d5cebf; letter-spacing: 0.04em; white-space: nowrap; }
-/* Bar height = crowd level (the mock's grammar): quiet sits low in muted
-   sage, busy rises tall in muted terracotta — no saturated alarm-red, the
-   legend carries the meaning. */
+/* The mock's palette: quiet sage low, normal terracotta mid, busy pale
+   apricot tall — capsule bars; the height IS the crowd level, and the pale
+   apricot makes the hours-to-avoid the brightest thing on the band. */
 .crowd-demo-bar { display: flex; gap: 5px; height: 64px; align-items: flex-end; }
-.crowd-demo-bar i { flex: 1; border-radius: 6px; background: rgba(255, 253, 249, 0.13); height: 58%; }
+.crowd-demo-bar i { flex: 1; border-radius: 999px; background: #c67139; height: 58%; }
 .crowd-demo-bar i.quiet { background: #9dbe9c; height: 34%; }
-.crowd-demo-bar i.busy { background: linear-gradient(180deg, #cd8a75, #b25f4a); height: 100%; }
+.crowd-demo-bar i.busy { background: #f2cfae; height: 100%; }
 .crowd-demo-lab { display: flex; justify-content: space-between; font-size: 0.62rem; color: #cfc8b8; margin-top: 5px; font-weight: 600; }
 .crowd-legend { display: flex; gap: 1rem; margin-top: 0.7rem; font-size: 0.7rem; color: #d5cebf; flex-wrap: wrap; }
 .crowd-legend span { display: inline-flex; align-items: center; gap: 0.35rem; }
 .crowd-legend i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
 .crowd-legend .lg-quiet { background: #9dbe9c; }
-.crowd-legend .lg-mid { background: rgba(255, 253, 249, 0.35); }
-.crowd-legend .lg-busy { background: #cd8a75; }
+.crowd-legend .lg-mid { background: #c67139; }
+.crowd-legend .lg-busy { background: #f2cfae; }
 @media (max-width: 860px) { .tool-card--crowd { grid-template-columns: 1fr; } }
 /* Copy needs its own wrapper or the band's flex scatters kicker/h2/dek into
    three columns (the owner caught exactly that on desktop). */
 .itin-copy { max-width: 44ch; }
 .itin-copy .ess-dek { margin-bottom: 0; }
-/* The chips are LINKS — ghost-button chrome (border + surface) makes them
-   read as pressable; bare text did not (owner, on the phone). */
-.itin-chips { display: grid; grid-template-columns: repeat(2, minmax(9rem, 1fr)); gap: 0.6rem; align-items: stretch; }
-.itin-chips .btn { justify-content: center; min-height: 44px; white-space: nowrap; }
-.tool-card-cta { margin-top: auto; }
-@media (max-width: 760px) {
-  .itin-chips { width: 100%; grid-template-columns: 1fr 1fr; }
-  .itin-chips .btn-primary { grid-column: 1 / -1; }
+/* The itinerary PANEL (the owner's mock): a deep-green list card — one row
+   per real course, day-count badge, bold city, stop-count + avg-rating line
+   computed from the course's own stops, chevron affordance. The dark panel
+   over the cream card answers the dark crowd band below — the two widgets
+   rhyme through the panel, not through matching backgrounds. */
+.itin-panel {
+  flex: 1 1 24rem; max-width: 30rem;
+  background: linear-gradient(150deg, #3a6154 0%, #2f5347 70%, #375c4f 100%);
+  border: 1px solid #28463c; border-radius: 16px; padding: clamp(0.9rem, 2vw, 1.3rem);
 }
+.itin-panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-bottom: 0.6rem; }
+.itin-panel-head b { color: #fffdf9; font-size: 0.92rem; }
+.itin-panel-head span { font-size: 0.68rem; color: #d5cebf; letter-spacing: 0.04em; white-space: nowrap; }
+.itin-row {
+  display: flex; align-items: center; gap: 0.8rem; text-decoration: none;
+  padding: 0.55rem 0.7rem; margin: 0 -0.2rem; border-radius: 12px;
+  background: rgba(255, 253, 249, 0.07);
+}
+.itin-row + .itin-row { margin-top: 0.45rem; }
+.itin-row:hover { background: rgba(255, 253, 249, 0.14); }
+.itin-days {
+  flex: none; width: 42px; height: 42px; border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: rgba(244, 212, 146, 0.16); color: #f4d492; font-weight: 700; font-size: 0.8rem;
+}
+.itin-row-main { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+.itin-row-main b { color: #fffdf9; font-size: 0.95rem; }
+.itin-row-main small { color: #cfc8b8; font-size: 0.74rem; }
+.itin-chev { margin-left: auto; color: #cfc8b8; font-size: 1.2rem; line-height: 1; }
+.itin-copy .itin-all { margin-top: 1.1rem; }
+.tool-card-cta { margin-top: auto; }
+@media (max-width: 760px) { .itin-panel { flex-basis: 100%; max-width: none; } }
 
 /* Spotlight */
 .spotlight { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; }
@@ -1277,8 +1313,8 @@ html[lang^='zh'] .cover-inner h1 {
 .book-cta-btns { display: flex; gap: 0.55rem; flex-wrap: wrap; }
 .book-btn { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.5rem 0.95rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.9rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
 .book-btn:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
-.book-btn-primary { background: var(--accent); border-color: var(--accent); color: #fff; }
-.book-btn-primary:hover { background: var(--accent-deep); color: #fff; }
+.book-btn-primary { background: var(--cta); border-color: var(--cta); color: #fff; }
+.book-btn-primary:hover { background: var(--cta-deep); color: #fff; }
 
 /* Demoted "open in Maps" link — was a primary button sending intent off-site for $0 */
 .map-link { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.88rem; font-weight: 600; color: var(--muted); text-decoration: none; }
@@ -1450,17 +1486,17 @@ main:focus { outline: none; }
 .nl-card .nl-form input:focus-visible {
   outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent);
 }
-.nl-card .nl-form .btn-primary { background: var(--accent); color: #fff; }
-.nl-card .nl-form .btn-primary:hover { background: var(--accent-deep); color: #fff; }
+.nl-card .nl-form .btn-primary { background: var(--cta); color: #fff; }
+.nl-card .nl-form .btn-primary:hover { background: var(--cta-deep); color: #fff; }
 .nl-card .nl-note { color: var(--ink-soft); }
 .nl-card .nl-note-ok { color: #2f7a52; }
 .nl-card .nl-note-ok a { color: var(--accent-text); }
 .nl-card .nl-note-err { color: var(--accent-text); }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme='light']) .nl-card .nl-form .btn-primary { background: var(--accent); color: #fff; }
+  :root:not([data-theme='light']) .nl-card .nl-form .btn-primary { background: var(--cta); color: #fff; }
   :root:not([data-theme='light']) .nl-card .nl-form input { background: #fff; color: #201c17; }
 }
-:root[data-theme='dark'] .nl-card .nl-form .btn-primary { background: var(--accent); color: #fff; }
+:root[data-theme='dark'] .nl-card .nl-form .btn-primary { background: var(--cta); color: #fff; }
 :root[data-theme='dark'] .nl-card .nl-form input { background: #fff; color: #201c17; }
 
 /* ── 아이콘 파스텔 (08-08) ──────────────────────────────────────────────────
