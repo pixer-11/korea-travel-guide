@@ -172,7 +172,18 @@ const crowdDemoPool = posts
     );
   })
   .sort((a, b) => a.id.localeCompare(b.id));
-const crowdDemo = crowdDemoPool.length ? crowdDemoPool[isoWeek(new Date()) % crowdDemoPool.length] : null;
+// Each language's home leans the demo toward countries its readers actually
+// search for (external review, 2026-08-08: the ko home was demoing Hanoi).
+// Falls back to the full pool when no affinity country has eligible venues.
+const demoAffinity: Record<string, string[]> = {
+  ko: ['South Korea', 'Japan', 'Thailand', 'Vietnam'],
+  ja: ['Japan', 'South Korea', 'Taiwan', 'Thailand'],
+  zh: ['Japan', 'Thailand', 'Singapore', 'South Korea'],
+  es: ['Spain', 'Japan', 'Thailand'],
+};
+const affinityPool = crowdDemoPool.filter((p) => (demoAffinity[lang] ?? []).includes(p.data.country ?? ''));
+const demoPickPool = affinityPool.length ? affinityPool : crowdDemoPool;
+const crowdDemo = demoPickPool.length ? demoPickPool[isoWeek(new Date()) % demoPickPool.length] : null;
 const demoHours = Array.from({ length: 16 }, (_, i) => i + 7);
 const demoCells = crowdDemo
   ? (() => {
@@ -216,7 +227,7 @@ const fmtEventDates = (p: any) => {
 ---
 
 <BaseLayout
-  title={`${SITE.name} — ${t('home.tagline')}`}
+  title={t('home.metaTitle')}
   description={t('home.heroDek')}
   image={cover?.data.heroImage?.url}
   localized={true}
@@ -238,31 +249,17 @@ const fmtEventDates = (p: any) => {
       <Search placeholder={t('home.searchPlaceholder')} />
       <div class="cover-cta-row">
         <a class="cover-cta" href={localizePath('/destinations', lang)}>{t('home.exploreDestinations')} <span class="arw">→</span></a>
-        {cover && <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${cover.id}`, lang)}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>}
+        {/* Seasonal, not random: the soft CTA follows this month's soonest
+            event (external review flagged "추천: 고양" — a weekly-random city
+            with no answer to "why now"). Falls back to the weekly cover only
+            when the month has no picks. */}
+        {(monthlyPicks[0] ?? cover) && (() => { const sp = monthlyPicks[0] ?? cover; return (
+          <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${sp.id}`, lang)}>{t('home.featured')}: {localizePlace(sp.data.region, lang)} <span class="arw">→</span></a>
+        ); })()}
       </div>
       <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
     </div>
   </section>
-
-  {latest.length > 0 && (
-    <section class="section">
-      <div class="wrap">
-        <div class="rule-head"><h2 class="kicker">{t('home.latestStories')}</h2></div>
-        <div class="stories">
-          {latest.map((post) => (
-            <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
-              <div class="story-thumb">
-                <img src={tileSize(post.data.heroImage?.url ?? '/images/placeholder-market.svg')} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
-              </div>
-              <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
-              <h3>{card.title(post.id, post.data.title)}</h3>
-              <p class="story-meta">{localizePlace(post.data.region, lang)} · {localizePlace(post.data.country ?? 'South Korea', lang)}</p>
-            </a>
-          ))}
-        </div>
-      </div>
-    </section>
-  )}
 
   {monthlyPicks.length >= 2 && (
     <section class="section">
@@ -290,65 +287,6 @@ const fmtEventDates = (p: any) => {
       </div>
     </section>
   )}
-
-  <section class="section">
-    <div class="wrap">
-      <div class="spotlight">
-        <div class="spotlight-media">
-          {/* This block is the SOUTH KOREA spotlight: flag, heading, Seoul/Busan/
-              Jeju links, and a button to /destinations/south-korea. The photo
-              used to come from `cover` — the weekly rotation, which draws from
-              every country on the site — so the picture had nothing to do with
-              the label beside it. Back when the site was Korea-only the cover
-              was always Korean and it looked right; the day the rotation
-              picked Granada, the home page showed the Alhambra under the words
-              "South Korea" (owner caught it, 2026-08-06). The image now comes
-              from Korean posts, like everything else in this block. */}
-          <img src={tileSize(koreaCover?.data.heroImage?.url ?? '') || repImage('South Korea') || '/images/placeholder-market.svg'} alt={localizePlace('South Korea', lang)} loading="lazy" width="800" height="1000" />
-        </div>
-        <div class="spotlight-body">
-          <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
-          <h2>{localizePlace('South Korea', lang)}</h2>
-          <p>{t('home.spotlightDesc').replace('{n}', String(countFor('South Korea')))}</p>
-          <div class="spotlight-links">
-            {koreaLinks.map((l) => <a href={localizePath(l.href, lang)}>{localizePlace(l.label, lang)}</a>)}
-          </div>
-          <a class="btn btn-primary" href={localizePath('/destinations/south-korea', lang)}>{localizePlace('South Korea', lang)} →</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="wrap">
-      <div class="rule-head">
-        <h2 class="kicker">{t('home.destinations')}</h2>
-        <a href={localizePath('/destinations', lang)} class="rule-link">{t('nav.allDestinations')} →</a>
-      </div>
-      <p class="bento-note">{t('home.bentoNote').replace('{n}', String(live.length))}</p>
-      <div class="dest-bento">
-        {live.map((c, i) => (
-          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={localizePath(`/destinations/${c.slug}`, lang)} style={`background-image:url(${repImage(c.name)})`}>
-            {i === 0 && <span class="dest-ribbon">{t('home.featured')}</span>}
-            <div class="dest-tile-inner">
-              <span class="dest-flag"><Flag code={c.iso2} /></span>
-              <h3>{localizePlace(c.name, lang)}</h3>
-              <p>{t('home.guides').replace('{n}', String(c.count))} →</p>
-            </div>
-          </a>
-        ))}
-        {soon.map((c) => (
-          <div class="dest-tile dest-soon">
-            <div class="dest-tile-inner">
-              <span class="dest-flag"><Flag code={c.iso2} /></span>
-              <h3>{localizePlace(c.name, lang)}</h3>
-              <p class="dest-pill">{t('home.comingSoon')}</p>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
 
   {/* The two tool promotions share ONE section as a two-column duo — they
       started as separate stacked sections and the owner flagged the home
@@ -424,6 +362,85 @@ const fmtEventDates = (p: any) => {
     </section>
   )}
 
+  {latest.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="rule-head"><h2 class="kicker">{t('home.latestStories')}</h2></div>
+        <div class="stories">
+          {latest.map((post) => (
+            <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
+              <div class="story-thumb">
+                <img src={tileSize(post.data.heroImage?.url ?? '/images/placeholder-market.svg')} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
+              </div>
+              <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
+              <h3>{card.title(post.id, post.data.title)}</h3>
+              <p class="story-meta">{localizePlace(post.data.region, lang)} · {localizePlace(post.data.country ?? 'South Korea', lang)}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="section">
+    <div class="wrap">
+      <div class="spotlight">
+        <div class="spotlight-media">
+          {/* This block is the SOUTH KOREA spotlight: flag, heading, Seoul/Busan/
+              Jeju links, and a button to /destinations/south-korea. The photo
+              used to come from `cover` — the weekly rotation, which draws from
+              every country on the site — so the picture had nothing to do with
+              the label beside it. Back when the site was Korea-only the cover
+              was always Korean and it looked right; the day the rotation
+              picked Granada, the home page showed the Alhambra under the words
+              "South Korea" (owner caught it, 2026-08-06). The image now comes
+              from Korean posts, like everything else in this block. */}
+          <img src={tileSize(koreaCover?.data.heroImage?.url ?? '') || repImage('South Korea') || '/images/placeholder-market.svg'} alt={localizePlace('South Korea', lang)} loading="lazy" width="800" height="1000" />
+        </div>
+        <div class="spotlight-body">
+          <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
+          <h2>{localizePlace('South Korea', lang)}</h2>
+          <p>{t('home.spotlightDesc').replace('{n}', String(countFor('South Korea')))}</p>
+          <div class="spotlight-links">
+            {koreaLinks.map((l) => <a href={localizePath(l.href, lang)}>{localizePlace(l.label, lang)}</a>)}
+          </div>
+          <a class="btn btn-primary" href={localizePath('/destinations/south-korea', lang)}>{localizePlace('South Korea', lang)} →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="rule-head">
+        <h2 class="kicker">{t('home.destinations')}</h2>
+        <a href={localizePath('/destinations', lang)} class="rule-link">{t('nav.allDestinations')} →</a>
+      </div>
+      <p class="bento-note">{t('home.bentoNote').replace('{n}', String(live.length))}</p>
+      <div class="dest-bento">
+        {live.map((c, i) => (
+          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={localizePath(`/destinations/${c.slug}`, lang)} style={`background-image:url(${repImage(c.name)})`}>
+            {i === 0 && <span class="dest-ribbon">{t('home.featured')}</span>}
+            <div class="dest-tile-inner">
+              <span class="dest-flag"><Flag code={c.iso2} /></span>
+              <h3>{localizePlace(c.name, lang)}</h3>
+              <p>{t('home.guides').replace('{n}', String(c.count))} →</p>
+            </div>
+          </a>
+        ))}
+        {soon.map((c) => (
+          <div class="dest-tile dest-soon">
+            <div class="dest-tile-inner">
+              <span class="dest-flag"><Flag code={c.iso2} /></span>
+              <h3>{localizePlace(c.name, lang)}</h3>
+              <p class="dest-pill">{t('home.comingSoon')}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
   <section class="section">
     <div class="wrap">
       <div class="widget essentials-widget">
@@ -469,7 +486,7 @@ const fmtEventDates = (p: any) => {
             <PostCard
               href={localizePath(`/posts/${post.id}`, lang)}
               title={card.title(post.id, post.data.title)}
-              description={card.desc(post.id, post.data.description)}
+              rating={post.data.place?.rating}
               region={post.data.region}
               category={post.data.category}
               image={post.data.heroImage?.url}

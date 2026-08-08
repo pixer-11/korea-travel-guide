@@ -941,7 +941,7 @@ html[lang^='zh'] .cover-inner h1 {
    chip kicker + copy + CTA on the left, a lighter chart PANEL on the right
    with one real venue's measured hours. Fixed dark colours on purpose (like
    the topbar): a dark band in both themes. Contrast vs the darkest/lightest
-   gradient stops: heading 10.3/7.8, dek 7.0/5.3, kicker #eec472 6.4/4.9. */
+   gradient stops: heading 10.3/7.8, dek 7.0/5.3, kicker #f4d492 6.0/4.9. */
 .tool-card--crowd {
   display: grid; grid-template-columns: 1fr 1.15fr; gap: 1.5rem 2.5rem; align-items: center;
   background: linear-gradient(150deg, #3a6154 0%, #2f5347 58%, #375c4f 100%);

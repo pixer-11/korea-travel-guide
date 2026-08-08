@@ -141,6 +141,7 @@ const jsonLd = {
               href={card.href(p.id, true)}
               title={card.title(p.id, p.data.place?.name ?? p.data.title)}
               description={card.desc(p.id, p.data.description)}
+              rating={p.data.place?.rating}
               region={p.data.region}
               category={p.data.category}
               image={p.data.heroImage?.url}

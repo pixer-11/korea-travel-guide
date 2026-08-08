@@ -85,13 +85,25 @@ const orgLd = {
       slogan: SITE.tagline,
       foundingDate: '2026',
       // Named topical expertise + a transparent editorial policy are the E-E-A-T
-      // signals AI search rewards. We deliberately attribute authorship to the
-      // organization (a real editorial team), NOT a fabricated human byline.
+      // signals AI search rewards. Authorship: articles are credited to the
+      // editor's PEN NAME (#editor below) — a real person writing under
+      // "Pixer", disclosed as a pen name on /about. This replaced org-only
+      // attribution on 2026-08-08; the old comment here forbade a *fabricated*
+      // human byline, which a disclosed pen name is not.
       knowsAbout: [
         'Travel', 'Tourism', 'Travel destinations', 'Local food and restaurants',
         'Public transport', 'Visa requirements', 'Travel events and festivals',
       ],
       publishingPrinciples: `${siteUrl}/about`,
+    },
+    {
+      '@type': 'Person',
+      '@id': `${siteUrl}/#editor`,
+      name: 'Pixer',
+      url: `${siteUrl}/about`,
+      description: 'Travel editor based in Vietnam who has traveled twelve countries across Asia, the US and Australia. Pixer is a pen name, disclosed on the editorial policy page.',
+      worksFor: { '@id': `${siteUrl}/#org` },
+      knowsAbout: ['Travel', 'Southeast Asia', 'East Asia', 'Travel planning'],
     },
     {
       '@type': 'WebSite',

@@ -276,7 +276,10 @@ const graph: Record<string, unknown>[] = [
     datePublished: d.pubDate.toISOString(),
     dateModified: updated.toISOString(),
     image: d.heroImage?.url ? { '@type': 'ImageObject', url: new URL(d.heroImage.url, Astro.site).toString() } : undefined,
-    author: { '@id': `${site}/#org` },
+    // Author is the editor's disclosed pen name (Person #editor in BaseLayout,
+    // 2026-08-08); the org stays publisher. A consistent named author across
+    // every article is the E-E-A-T signal an org-only byline can't send.
+    author: { '@id': `${site}/#editor` },
     publisher: { '@id': `${site}/#org` },
     isPartOf: { '@id': `${site}/#site` },
     // Was 'en' on all 2,332 localized article pages — see BaseLayout.

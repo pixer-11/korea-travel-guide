@@ -95,6 +95,7 @@ const ogPhoto = pickOgPhoto(items);
               href={card.href(post.id, true)}
               title={card.title(post.id, post.data.place?.name ?? post.data.title)}
               description={card.desc(post.id, post.data.description)}
+              rating={post.data.place?.rating}
               region={post.data.region}
               category={post.data.category}
               image={post.data.heroImage?.url}

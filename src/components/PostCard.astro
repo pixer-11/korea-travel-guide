@@ -6,7 +6,13 @@ import { thumbOr } from '../lib/wall';
 interface Props {
   href: string;
   title: string;
-  description: string;
+  /* Optional since 2026-08-08: the home's "more to read" grid dropped card
+     descriptions (external review: nine cards of meta-description text read
+     as a wall; title + region + rating carries the click decision). Hub
+     pages still pass it. */
+  description?: string;
+  /** Google rating shown beside the region label when the post carries one. */
+  rating?: number;
   region: string;
   category: string;
   image?: string;
@@ -14,7 +20,7 @@ interface Props {
   /** Set on the first card of a grid: it is usually the LCP element. */
   priority?: boolean;
 }
-const { href, title, description, region, category, image, eventEndDate, priority = false } = Astro.props;
+const { href, title, description, rating, region, category, image, eventEndDate, priority = false } = Astro.props;
 // Cards were rendering the remote hero at full size — 1920px Wikimedia originals
 // and w=1600 Unsplash, drawn at 325 CSS px. One city roundup shipped 3.49 MB of
 // images for seven thumbnails. Every published hero already has a 640px WebP
@@ -47,8 +53,8 @@ const ended = isEventPast({ category, eventEndDate });
     {ended ? <span class="badge badge-ended">{t('card.ended')}</span> : <span class="badge">{label}</span>}
   </div>
   <div class="card-body">
-    <span class="region-label">{regionLabel}</span>
+    <span class="region-label">{regionLabel}{rating ? ` · ★ ${rating.toFixed(1)}` : ''}</span>
     <h3>{title}</h3>
-    <p>{description}</p>
+    {description && <p>{description}</p>}
   </div>
 </a>

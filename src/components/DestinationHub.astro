@@ -175,6 +175,7 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
                     href={card.href(post.id)}
                     title={card.title(post.id, post.data.title)}
                     description={card.desc(post.id, post.data.description)}
+                    rating={post.data.place?.rating}
                     region={post.data.region}
                     category={post.data.category}
                     image={post.data.heroImage?.url}
