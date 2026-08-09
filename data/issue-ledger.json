@@ -1,9 +1,80 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "IMAGE tokyo-comic-market-108-summer-comiket.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    }
+  },
   "audit-translations": {
-    "broken-syllable posts/ko/hong-kong-hong-kong-football-festival-2026.md": {
-      "since": "2026-08-08",
-      "last": "2026-08-08",
+    "broken-syllable, posts/ko/bunol-la-tomatina.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/busan-busan-tower.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/cappadocia-pigeon-valley.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/fukuoka-tanga-market.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/goyang-ilsan-lake-park.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/granada-generalife.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/los-angeles-old-los-angeles-zoo.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/new-orleans-cochon-butcher.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/new-orleans-longue-vue-house-and-gardens.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/new-york-ralph-s-coffee.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/san-francisco-tartine-bakery.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/seville-parque-de-maria-luisa.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/taichung-rainbow-village.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
+      "seen": 1
+    },
+    "broken-syllable posts/ko/venice-doge-s-palace.md": {
+      "since": "2026-08-09",
+      "last": "2026-08-09",
       "seen": 1
     }
   },
