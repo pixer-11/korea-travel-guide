@@ -2,10 +2,8 @@ Places 예산: backfill 몫 25회 (오늘 사용 0/100)
 Priority: 63 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
   – bangkok-the-grand-palace.md: nothing new
-  – bangkok-the-temple-of-the-emerald-buddha.md: nothing new
   – barcelona-ciutadella-park.md: nothing new
   – barcelona-la-rambla.md: nothing new
-  ✓ barcelona-museu-nacional-d-art-de-catalunya.md +phone +7h hours
   – barcelona-placa-nova.md: nothing new
   – new-york-the-channel-gardens.md: nothing new
   – new-york-times-square.md: nothing new
@@ -14,9 +12,9 @@ Priority: 63 itinerary stop(s) queued first
   – seoul-london-bagel-museum.md: nothing new
   – seoul-myeongdong-shopping-street.md: nothing new
   – tokyo-fish-market-tsukiji-outer-market.md: nothing new
+  – tokyo-fuglen-tokyo.md: nothing new
   – tokyo-meiji-jingu.md: nothing new
   – tokyo-senso-ji.md: nothing new
-  – tokyo-shibuya-crossing.md: nothing new
   – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
   – tokyo-tokyo-ramen-street.md: nothing new
   – agra-agra-fort.md: nothing new
@@ -25,5 +23,7 @@ Priority: 63 itinerary stop(s) queued first
   – amalfi-coast-positano.md: nothing new
   – amalfi-coast-valle-delle-ferriere.md: nothing new
   – ankara-ankara-castle.md: nothing new
+  🚫 antalya-duden-waterfalls.md: CLOSED_PERMANENTLY — quarantined (draft), not backfilled
+  – antalya-hadrian-s-gate.md: nothing new
 
-BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 59, no-new-data 24, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 826 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 62, no-new-data 24, no-place 6, closed-quarantined 1, quota-429 0, api-error 0, processed 25 of 843 (APPLIED).

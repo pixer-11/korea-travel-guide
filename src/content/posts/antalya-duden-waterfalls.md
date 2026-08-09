@@ -49,7 +49,7 @@ faq:
   - q: Is the site accessible and family-friendly?
     a: Yes, the park has paved paths and benches suitable for most fitness levels, though the walkway near the cave gets damp and slightly slippery, so sturdy shoes are recommended, especially with children.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-07-24'
 ---
 

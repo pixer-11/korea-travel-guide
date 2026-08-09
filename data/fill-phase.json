@@ -1,11 +1,7 @@
 {
   "phase": "details",
-  "idleStreak": 0,
+  "idleStreak": 1,
   "history": [
-    {
-      "at": "2026-07-30T10:26:24.235Z",
-      "updated": 2
-    },
     {
       "at": "2026-07-31T10:46:49.207Z",
       "updated": 0
@@ -47,6 +43,11 @@
       "at": "2026-08-08T08:47:56.253Z",
       "updated": 1,
       "backlog": 1
+    },
+    {
+      "at": "2026-08-09T09:57:43.998Z",
+      "updated": 0,
+      "backlog": 0
     }
   ]
 }
