@@ -1,56 +1,82 @@
 ---
-title: "Itmad-ud-Daula: Agra Travel Guide"
-description: "Itmad-ud-Daula, the marble \"Baby Taj,\" sits on the Yamuna's east bank in Moti Bagh, about 20-25 minutes by car or auto-rickshaw from central Agra."
-country: "India"
-region: "Agra"
-category: "attraction"
-pubDate: "2026-07-26T07:43:39.328Z"
+title: 'Itmad-ud-Daula: Agra Travel Guide'
+description: >-
+  Itmad-ud-Daula, the marble "Baby Taj," sits on the Yamuna's east bank in Moti
+  Bagh, about 20-25 minutes by car or auto-rickshaw from central Agra.
+country: India
+region: Agra
+category: attraction
+pubDate: '2026-07-26T07:43:39.328Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/26/Itmad-ud-Daula_24.JPG"
-  credit: "Photo: Sanyam Bahga / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Itmad-ud-Daula_24.JPG"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/26/Itmad-ud-Daula_24.JPG'
+  credit: 'Photo: Sanyam Bahga / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Itmad-ud-Daula_24.JPG'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/32513873_TPsNMgtd3CfNyfVNpynZjZ3ZoaMiBGqGoHgD148D6RM.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/32513873_TPsNMgtd3CfNyfVNpynZjZ3ZoaMiBGqGoHgD148D6RM.jpg
     credit: 'Photo: Foursquare user content (Itimad Ud Daula)'
     license: foursquare
-    source: https://foursquare.com/v/53152058e4b0e72a36f63370
+    source: 'https://foursquare.com/v/53152058e4b0e72a36f63370'
 place:
-  id: "ChIJk6aZ_cVwdDkRWMRKn2s89hM"
-  name: "Itmad-ud-Daula"
-  address: "Moti Bagh, Agra, Uttar Pradesh 282006, India"
+  id: ChIJk6aZ_cVwdDkRWMRKn2s89hM
+  name: Itmad-ud-Daula
+  address: 'Moti Bagh, Agra, Uttar Pradesh 282006, India'
   rating: 4.4
-  userRatingsTotal: 12500
-  googleMapsUrl: "https://maps.google.com/?cid=1438403563923096664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12519
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1438403563923096664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.192887300000002
   lng: 78.0309808
-  phone: '+91 522 400 4402'
+  phone: +91 522 400 4402
   openingHours:
-    - "Monday: 8:00 AM – 12:00 AM"
-    - "Tuesday: 8:00 AM – 12:00 AM"
-    - "Wednesday: 8:00 AM – 12:00 AM"
-    - "Thursday: 8:00 AM – 12:00 AM"
-    - "Friday: 8:00 AM – 12:00 AM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:00 AM – 12:00 AM"
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
 tags:
-  - "agra"
-  - "top attraction"
-quickAnswer: "Itmad-ud-Daula, the marble \"Baby Taj,\" sits on the Yamuna's east bank in Moti Bagh, about 20-25 minutes by car or auto-rickshaw from central Agra. Give it 45-90 minutes, go right at sunrise opening for the softest light and thinnest crowds, and confirm current hours and ticket prices at the gate since these change periodically. It's a well-visited monument, not a secret, so timing your visit matters more than finding it."
+  - agra
+  - top attraction
+quickAnswer: >-
+  Itmad-ud-Daula, the marble "Baby Taj," sits on the Yamuna's east bank in Moti
+  Bagh, about 20-25 minutes by car or auto-rickshaw from central Agra. Give it
+  45-90 minutes, go right at sunrise opening for the softest light and thinnest
+  crowds, and confirm current hours and ticket prices at the gate since these
+  change periodically. It's a well-visited monument, not a secret, so timing
+  your visit matters more than finding it.
 faq:
-  - q: "How do I get to Itmad-ud-Daula from central Agra?"
-    a: "It's on the east bank of the Yamuna in Moti Bagh. An auto-rickshaw, taxi, or app-based cab from Sadar Bazaar, Agra Cantonment station, or Taj East Gate takes roughly 20-25 minutes depending on traffic."
-  - q: "How much time should I plan for the visit?"
-    a: "Most visitors need 45 minutes to 1.5 hours to see the garden, exterior inlay work, and the marble-screened burial chamber at a comfortable pace."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Arrive right at opening in the early morning. Tour groups tend to funnel over from the Taj Mahal side later in the morning, so the first hour is consistently calmer."
-  - q: "Is Itmad-ud-Daula worth visiting if I'm already seeing the Taj Mahal?"
-    a: "Yes — it's the architectural precursor to the Taj, known for pioneering white marble construction and pietra dura inlay, and its smaller scale lets you study the stonework up close in a way the Taj's crowds rarely allow."
-  - q: "What else is nearby?"
-    a: "Chini ka Rauza and Mehtab Bagh are both a short ride further along the same eastern riverbank and pair well with Itmad-ud-Daula for a half-day itinerary away from the busier west-bank sites."
+  - q: How do I get to Itmad-ud-Daula from central Agra?
+    a: >-
+      It's on the east bank of the Yamuna in Moti Bagh. An auto-rickshaw, taxi,
+      or app-based cab from Sadar Bazaar, Agra Cantonment station, or Taj East
+      Gate takes roughly 20-25 minutes depending on traffic.
+  - q: How much time should I plan for the visit?
+    a: >-
+      Most visitors need 45 minutes to 1.5 hours to see the garden, exterior
+      inlay work, and the marble-screened burial chamber at a comfortable pace.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Arrive right at opening in the early morning. Tour groups tend to funnel
+      over from the Taj Mahal side later in the morning, so the first hour is
+      consistently calmer.
+  - q: Is Itmad-ud-Daula worth visiting if I'm already seeing the Taj Mahal?
+    a: >-
+      Yes — it's the architectural precursor to the Taj, known for pioneering
+      white marble construction and pietra dura inlay, and its smaller scale
+      lets you study the stonework up close in a way the Taj's crowds rarely
+      allow.
+  - q: What else is nearby?
+    a: >-
+      Chini ka Rauza and Mehtab Bagh are both a short ride further along the
+      same eastern riverbank and pair well with Itmad-ud-Daula for a half-day
+      itinerary away from the busier west-bank sites.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-09'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

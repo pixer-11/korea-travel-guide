@@ -1,23 +1,29 @@
 ---
-title: "Flavors Grill: Where to Eat in Abu Dhabi (4.9★)"
-description: Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews) grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port, known for charcoal-grilled meats and mixed grill platters at mid-range prices (price level ~3).
+title: 'Flavors Grill: Where to Eat in Abu Dhabi (4.9★)'
+description: >-
+  Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews)
+  grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port,
+  known for charcoal-grilled meats and mixed grill platters at mid-range prices
+  (price level ~3).
 country: United Arab Emirates
 region: Abu Dhabi
 category: restaurant
 pubDate: '2026-07-23T07:50:12.075Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/544519003_cE15MyDdJ4GpQrq46OF5DXfam4CYyNNb9ek_W8vDMRI.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/544519003_cE15MyDdJ4GpQrq46OF5DXfam4CYyNNb9ek_W8vDMRI.jpg
   credit: 'Photo: Foursquare user content (Flavors Grill)'
   license: foursquare
-  source: https://foursquare.com/v/5c49f07a1953f3002c42337a
+  source: 'https://foursquare.com/v/5c49f07a1953f3002c42337a'
 place:
   id: ChIJeUrze2pnXj4RzcDODWlOjcQ
   name: Flavors Grill Abu Dhabi
   address: Mina St - ميناء زايد - المنطقة الحرة 2 - أبو ظبي - United Arab Emirates
   rating: 4.9
-  userRatingsTotal: 39410
+  userRatingsTotal: 39583
   priceLevel: 3
-  googleMapsUrl: https://maps.google.com/?cid=14163062616260264141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14163062616260264141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.527863500000002
   lng: 54.363940400000004
@@ -48,7 +54,7 @@ place:
       - 21
       - 22
     venueId: ven_51636a4f6c57444f44637a52346a586e7032657a7255654a496843
-  phone: '+971 56 338 9222'
+  phone: +971 56 338 9222
   openingHours:
     - 'Monday: 7:00 AM – 12:00 AM'
     - 'Tuesday: 7:00 AM – 12:00 AM'
@@ -60,20 +66,40 @@ place:
 tags:
   - abu dhabi
   - local restaurant
-quickAnswer: Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews) grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port, known for charcoal-grilled meats and mixed grill platters at mid-range prices (price level ~3). Go on a weekday around opening time or mid-afternoon to skip the dinner rush, and expect to share tables or wait if you arrive after 8pm.
+quickAnswer: >-
+  Flavors Grill Abu Dhabi is a busy, well-rated (4.9-star, 39,000+ reviews)
+  grill house on Mina Street in the Mina Zayed / Free Zone 2 area near the port,
+  known for charcoal-grilled meats and mixed grill platters at mid-range prices
+  (price level ~3). Go on a weekday around opening time or mid-afternoon to skip
+  the dinner rush, and expect to share tables or wait if you arrive after 8pm.
 faq:
   - q: Do I need a reservation at Flavors Grill Abu Dhabi?
-    a: It's typically a walk-in restaurant rather than one requiring formal bookings, but given its high review volume, arriving right at opening for lunch or dinner improves your chance of quick seating.
+    a: >-
+      It's typically a walk-in restaurant rather than one requiring formal
+      bookings, but given its high review volume, arriving right at opening for
+      lunch or dinner improves your chance of quick seating.
   - q: How much does a meal cost?
-    a: The listed price level is mid-range (roughly level 3 out of 4), suggesting a full platter meal is moderately priced rather than budget or luxury — confirm current menu prices on the day since these change.
+    a: >-
+      The listed price level is mid-range (roughly level 3 out of 4), suggesting
+      a full platter meal is moderately priced rather than budget or luxury —
+      confirm current menu prices on the day since these change.
   - q: How do I get to Mina Street / Mina Zayed without a car?
-    a: Abu Dhabi has no metro, so taxis or ride-hailing apps like Careem and Uber are the most practical way to reach the port district from downtown or the Corniche, typically 15–25 minutes.
+    a: >-
+      Abu Dhabi has no metro, so taxis or ride-hailing apps like Careem and Uber
+      are the most practical way to reach the port district from downtown or the
+      Corniche, typically 15–25 minutes.
   - q: What's the best time to avoid crowds?
-    a: Weekday afternoons (Tuesday–Wednesday, 1–3pm) are calmer than Thursday–Saturday evenings, which are the busiest slots for a restaurant this popular.
+    a: >-
+      Weekday afternoons (Tuesday–Wednesday, 1–3pm) are calmer than
+      Thursday–Saturday evenings, which are the busiest slots for a restaurant
+      this popular.
   - q: What should I order?
-    a: Charcoal-grilled staples like mixed grill platters, shish tawook, lamb chops, and kofta served with garlic sauce, hummus, and flatbread are the core of this style of grill house.
+    a: >-
+      Charcoal-grilled staples like mixed grill platters, shish tawook, lamb
+      chops, and kofta served with garlic sauce, hummus, and flatbread are the
+      core of this style of grill house.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-09'
 ---
 
 ## Why go

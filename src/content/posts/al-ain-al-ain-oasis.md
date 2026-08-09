@@ -1,27 +1,35 @@
 ---
 title: 'Al Ain Oasis: Travel Guide'
-description: Al Ain Oasis is a free, 1,200-hectare working palm plantation in the middle of Al Ain city, crisscrossed by shaded walking paths and traditional falaj irrigation channels.
+description: >-
+  Al Ain Oasis is a free, 1,200-hectare working palm plantation in the middle of
+  Al Ain city, crisscrossed by shaded walking paths and traditional falaj
+  irrigation channels.
 country: United Arab Emirates
 region: Al Ain
 category: attraction
 pubDate: '2026-07-23T07:48:05.481Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/39456452_KiRe7yZh5T3PV8FwGPzDx2ERR144IBp9GI2lJpnewUA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/39456452_KiRe7yZh5T3PV8FwGPzDx2ERR144IBp9GI2lJpnewUA.jpg
   credit: 'Photo: Foursquare user content (Al Ain Oasis)'
   license: foursquare
-  source: https://foursquare.com/v/5a302df9c0cacb17234a2e15
+  source: 'https://foursquare.com/v/5a302df9c0cacb17234a2e15'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Ain_Oasis_%283%29.jpg/1920px-Al-Ain_Oasis_%283%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Ain_Oasis_%283%29.jpg/1920px-Al-Ain_Oasis_%283%29.jpg
     credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Al-Ain_Oasis_(3).jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Al-Ain_Oasis_(3).jpg'
 place:
   id: ChIJqXDGXMy2ij4RHho4hr7zxGY
   name: Al Ain Oasis
-  address: Al Tuhaf St - Central District - Al Ain Oasis - Abu Dhabi - United Arab Emirates
+  address: >-
+    Al Tuhaf St - Central District - Al Ain Oasis - Abu Dhabi - United Arab
+    Emirates
   rating: 4.4
-  userRatingsTotal: 5112
-  googleMapsUrl: https://maps.google.com/?cid=7405311686925097502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5130
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7405311686925097502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.2183697
   lng: 55.762345499999995
@@ -43,7 +51,7 @@ place:
       - 21
       - 22
     venueId: ven_5947787a377268346f684852346a6932794d58474458714a496843
-  phone: '+971 3 711 8251'
+  phone: +971 3 711 8251
   openingHours:
     - 'Monday: 9:00 AM – 12:00 AM'
     - 'Tuesday: 9:00 AM – 12:00 AM'
@@ -55,20 +63,42 @@ place:
 tags:
   - al ain
   - top attraction
-quickAnswer: Al Ain Oasis is a free, 1,200-hectare working palm plantation in the middle of Al Ain city, crisscrossed by shaded walking paths and traditional falaj irrigation channels. Enter via the Eco-Centre near Al Ain National Museum and Al Jahili Fort, budget 1–2 hours, and go in the early morning or just before sunset when the heat and crowds both ease. It pairs naturally with a half-day loop that also takes in Al Jahili Fort and Qasr Al Muwaiji.
+quickAnswer: >-
+  Al Ain Oasis is a free, 1,200-hectare working palm plantation in the middle of
+  Al Ain city, crisscrossed by shaded walking paths and traditional falaj
+  irrigation channels. Enter via the Eco-Centre near Al Ain National Museum and
+  Al Jahili Fort, budget 1–2 hours, and go in the early morning or just before
+  sunset when the heat and crowds both ease. It pairs naturally with a half-day
+  loop that also takes in Al Jahili Fort and Qasr Al Muwaiji.
 faq:
   - q: How much does it cost to visit Al Ain Oasis?
-    a: Entry to the oasis walking paths is free. Some individual attractions nearby, like Al Ain National Museum, may charge separate admission, so confirm current prices locally.
+    a: >-
+      Entry to the oasis walking paths is free. Some individual attractions
+      nearby, like Al Ain National Museum, may charge separate admission, so
+      confirm current prices locally.
   - q: How long should I spend there?
-    a: Plan for 1–2 hours to walk a meaningful loop of the trails; add extra time if you rent a bike or plan to visit the Eco-Centre exhibits.
+    a: >-
+      Plan for 1–2 hours to walk a meaningful loop of the trails; add extra time
+      if you rent a bike or plan to visit the Eco-Centre exhibits.
   - q: What's the best time of day and year to visit?
-    a: Early morning or late afternoon, especially between October and April, when temperatures are cooler and the palm canopy light is at its best. Midday visits in summer (May–September) are extremely hot.
+    a: >-
+      Early morning or late afternoon, especially between October and April,
+      when temperatures are cooler and the palm canopy light is at its best.
+      Midday visits in summer (May–September) are extremely hot.
   - q: How do I get to Al Ain Oasis without a car?
-    a: Taxi is the most practical option, as Al Ain lacks a dedicated tourist bus or metro system. The oasis is centrally located near Al Ain National Museum and Al Jahili Fort, so a taxi can drop you within walking distance of several sights at once.
+    a: >-
+      Taxi is the most practical option, as Al Ain lacks a dedicated tourist bus
+      or metro system. The oasis is centrally located near Al Ain National
+      Museum and Al Jahili Fort, so a taxi can drop you within walking distance
+      of several sights at once.
   - q: What else is nearby worth combining with the oasis?
-    a: Al Jahili Fort and Qasr Al Muwaiji are both a short walk away, and other historic oases like Al Qattara and Al Jimi, plus the Al Ain Palace Museum, are a short drive away.
+    a: >-
+      Al Jahili Fort and Qasr Al Muwaiji are both a short walk away, and other
+      historic oases like Al Qattara and Al Jimi, plus the Al Ain Palace Museum,
+      are a short drive away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-09'
 ---
 
 ## Why go

@@ -1,27 +1,34 @@
 ---
 title: 'Parador de Alcañiz: Travel Guide'
-description: Parador de Alcañiz is a 12th-century Calatravan castle-monastery turned hotel, perched on La Almunia hill directly above the town of Alcañiz in Teruel province, about a 90-minute drive from Zaragoza.
+description: >-
+  Parador de Alcañiz is a 12th-century Calatravan castle-monastery turned hotel,
+  perched on La Almunia hill directly above the town of Alcañiz in Teruel
+  province, about a 90-minute drive from Zaragoza.
 country: Spain
 region: Alcañiz
 category: hidden-gem
 pubDate: '2026-08-01T09:31:22.439Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg/1920px-Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg/1920px-Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Angela Llop / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Castillo_de_los_Calatravos_,_Parador_Nacional,_Alca%C3%B1iz,_Teruel.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Castillo_de_los_Calatravos_,_Parador_Nacional,_Alca%C3%B1iz,_Teruel.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Parador_de_Alca%C3%B1iz_1b.jpg/3840px-Parador_de_Alca%C3%B1iz_1b.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Parador_de_Alca%C3%B1iz_1b.jpg/3840px-Parador_de_Alca%C3%B1iz_1b.jpg
     credit: 'Photo: Paradores / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Parador_de_Alca%C3%B1iz_1b.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Parador_de_Alca%C3%B1iz_1b.jpg'
 place:
   id: ChIJ4xw07UJbXw0Ru0i1g3YCDao
   name: Parador de Alcañiz
-  address: Castillo Calatravos, S/N, 44600 Alcañiz, Teruel, Spain
+  address: 'Castillo Calatravos, S/N, 44600 Alcañiz, Teruel, Spain'
   rating: 4.4
-  userRatingsTotal: 3646
-  googleMapsUrl: https://maps.google.com/?cid=12253452869184080059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3650
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12253452869184080059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.048280399999996
   lng: -0.1325945
@@ -37,20 +44,40 @@ place:
 tags:
   - alcañiz
   - hidden gem
-quickAnswer: Parador de Alcañiz is a 12th-century Calatravan castle-monastery turned hotel, perched on La Almunia hill directly above the town of Alcañiz in Teruel province, about a 90-minute drive from Zaragoza. It's well-known rather than a secret find, so book your room and dinner table ahead, and aim to arrive in late afternoon to catch the stone turning gold before the sunset crowds gather at the lookout terrace. Rooms run mid-range to on the pricier side for the region, and the hilltop location means you'll want a car.
+quickAnswer: >-
+  Parador de Alcañiz is a 12th-century Calatravan castle-monastery turned hotel,
+  perched on La Almunia hill directly above the town of Alcañiz in Teruel
+  province, about a 90-minute drive from Zaragoza. It's well-known rather than a
+  secret find, so book your room and dinner table ahead, and aim to arrive in
+  late afternoon to catch the stone turning gold before the sunset crowds gather
+  at the lookout terrace. Rooms run mid-range to on the pricier side for the
+  region, and the hilltop location means you'll want a car.
 faq:
   - q: How do I get to Parador de Alcañiz without a car?
-    a: It's difficult — the hotel sits on a hill outside town, so if you arrive by bus in central Alcañiz, take a short taxi ride up rather than walking with luggage.
+    a: >-
+      It's difficult — the hotel sits on a hill outside town, so if you arrive
+      by bus in central Alcañiz, take a short taxi ride up rather than walking
+      with luggage.
   - q: Is it worth visiting if I'm not staying overnight?
-    a: Yes — non-guests can walk the exterior grounds and ramparts, and the bar and restaurant are open to visitors, though a table is best booked ahead.
+    a: >-
+      Yes — non-guests can walk the exterior grounds and ramparts, and the bar
+      and restaurant are open to visitors, though a table is best booked ahead.
   - q: What's the best time of day to visit?
-    a: Late afternoon into sunset, when the stone tower catches the light and the valley view from the terrace is at its best.
+    a: >-
+      Late afternoon into sunset, when the stone tower catches the light and the
+      valley view from the terrace is at its best.
   - q: How far is it from Zaragoza or the coast?
-    a: About 90 minutes' drive from Zaragoza and a similar distance from the Tarragona coastline, making it a natural stopover between the two.
+    a: >-
+      About 90 minutes' drive from Zaragoza and a similar distance from the
+      Tarragona coastline, making it a natural stopover between the two.
   - q: What else is nearby worth combining with a stay?
-    a: The old town of Alcañiz, a 15–20 minute walk or short drive downhill, has the Plaza de España, the Lonja exchange building, and the Ayuntamiento worth an hour or two of exploring.
+    a: >-
+      The old town of Alcañiz, a 15–20 minute walk or short drive downhill, has
+      the Plaza de España, the Lonja exchange building, and the Ayuntamiento
+      worth an hour or two of exploring.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-09'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

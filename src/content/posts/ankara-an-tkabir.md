@@ -1,27 +1,34 @@
 ---
 title: 'Anıtkabir: Ankara Travel Guide'
-description: Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on Anıttepe hill in Çankaya and is worth two to three hours.
+description: >-
+  Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on
+  Anıttepe hill in Çankaya and is worth two to three hours.
 country: Turkey
 region: Ankara
 category: hidden-gem
 pubDate: '2026-07-29T10:13:04.599Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1920px-Ataturk%27s_Mausoleum_%286225341313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1920px-Ataturk%27s_Mausoleum_%286225341313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: William Neuheisel from DC, US / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ataturk%27s_Mausoleum_(6225341313).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/An%C4%B1tkabir%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_27.jpg/1920px-An%C4%B1tkabir%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_27.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/An%C4%B1tkabir%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_27.jpg/1920px-An%C4%B1tkabir%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-03%2C_DD_27.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:An%C4%B1tkabir,_Ankara,_Turqu%C3%ADa,_2024-10-03,_DD_27.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:An%C4%B1tkabir,_Ankara,_Turqu%C3%ADa,_2024-10-03,_DD_27.jpg
 place:
   id: ChIJj-qcChlP0xQRoAiNJKguhtM
   name: Anıtkabir
-  address: Mebusevleri, Anıttepe, Anıtkabir, 06570 Çankaya/Ankara, Türkiye
+  address: 'Mebusevleri, Anıttepe, Anıtkabir, 06570 Çankaya/Ankara, Türkiye'
   rating: 4.9
-  userRatingsTotal: 143173
-  googleMapsUrl: https://maps.google.com/?cid=15241921288584628384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 143637
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15241921288584628384&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.924882499999995
   lng: 32.8370786
@@ -54,20 +61,41 @@ place:
 tags:
   - ankara
   - hidden gem
-quickAnswer: Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on Anıttepe hill in Çankaya and is worth two to three hours. It's extremely well-visited (well over 140,000 reviews and rated close to the maximum), so aim for a weekday between 9am and 5pm — the calmest window measured — and avoid weekend crowds between 11am and 4pm.
+quickAnswer: >-
+  Anıtkabir, Ankara's monumental mausoleum for Mustafa Kemal Atatürk, sits on
+  Anıttepe hill in Çankaya and is worth two to three hours. It's extremely
+  well-visited (well over 140,000 reviews and rated close to the maximum), so
+  aim for a weekday between 9am and 5pm — the calmest window measured — and
+  avoid weekend crowds between 11am and 4pm.
 faq:
   - q: How do I get to Anıtkabir without a car?
-    a: Take the Ankara Metro M1 line to Tandoğan station, then walk about 10–15 minutes uphill through the park to the main entrance. Taxis from central districts like Kızılay or Ulus take roughly 10–15 minutes.
+    a: >-
+      Take the Ankara Metro M1 line to Tandoğan station, then walk about 10–15
+      minutes uphill through the park to the main entrance. Taxis from central
+      districts like Kızılay or Ulus take roughly 10–15 minutes.
   - q: Is there an entrance fee?
-    a: No, entry to Anıtkabir, including the on-site museum, is free, which is one reason it draws such large crowds year-round.
+    a: >-
+      No, entry to Anıtkabir, including the on-site museum, is free, which is
+      one reason it draws such large crowds year-round.
   - q: When is the quietest time to visit?
-    a: Foot traffic data shows the calmest window is 9am–5pm on both weekdays and weekends — practically speaking, arriving right at opening is your best bet. Avoid weekends between 11am and 4pm, when crowds peak.
+    a: >-
+      Foot traffic data shows the calmest window is 9am–5pm on both weekdays and
+      weekends — practically speaking, arriving right at opening is your best
+      bet. Avoid weekends between 11am and 4pm, when crowds peak.
   - q: How long should I plan to spend there?
-    a: Set aside two to three hours to walk the Lion Road, visit the Hall of Honor, and properly go through the War of Independence Museum, which is easy to underestimate.
+    a: >-
+      Set aside two to three hours to walk the Lion Road, visit the Hall of
+      Honor, and properly go through the War of Independence Museum, which is
+      easy to underestimate.
   - q: What's nearby if I want to combine the visit with something else?
-    a: The site sits close to Ankara's government quarter in Çankaya; many visitors pair it with a trip into Kızılay for lunch or continue on to the Museum of Anatolian Civilizations in Ulus, which is a short taxi ride away.
+    a: >-
+      The site sits close to Ankara's government quarter in Çankaya; many
+      visitors pair it with a trip into Kızılay for lunch or continue on to the
+      Museum of Anatolian Civilizations in Ulus, which is a short taxi ride
+      away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-09'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

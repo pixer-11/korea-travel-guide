@@ -1,47 +1,74 @@
 ---
 title: 'Amalfi Coast: Travel Guide'
-description: The Amalfi Coast is a 50-kilometre ribbon of cliffside road (the SS163) linking towns like Positano, Amalfi, and Ravello along the Sorrentine Peninsula south of Naples.
+description: >-
+  The Amalfi Coast is a 50-kilometre ribbon of cliffside road (the SS163)
+  linking towns like Positano, Amalfi, and Ravello along the Sorrentine
+  Peninsula south of Naples.
 country: Italy
 region: Amalfi Coast
 category: attraction
 pubDate: '2026-07-26T08:35:08.369Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
   credit: 'Photo: Bruno Rijsman / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Watchtower_on_Amalfi_Coast_02.jpg/1920px-Watchtower_on_Amalfi_Coast_02.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Watchtower_on_Amalfi_Coast_02.jpg/1920px-Watchtower_on_Amalfi_Coast_02.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Watchtower_on_Amalfi_Coast_02.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Watchtower_on_Amalfi_Coast_02.jpg'
 place:
   id: ChIJoXFMw62VOxMR3ExPyRTP6Ew
   name: Amalfi Coast
-  address: 84011 Amalfi, SA, Italy
+  address: '84011 Amalfi, SA, Italy'
   rating: 4.7
-  userRatingsTotal: 92435
-  googleMapsUrl: https://maps.google.com/?cid=5541907029663108316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 92720
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5541907029663108316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.6333389
   lng: 14.6028963
 tags:
   - amalfi coast
   - top attraction
-quickAnswer: The Amalfi Coast is a 50-kilometre ribbon of cliffside road (the SS163) linking towns like Positano, Amalfi, and Ravello along the Sorrentine Peninsula south of Naples. Base yourself in one town and use ferries and the SITA bus for day trips rather than driving yourself — traffic on the coast road seizes up completely by mid-morning in summer. Go in May, June, or late September to get the scenery without the July-August gridlock.
+quickAnswer: >-
+  The Amalfi Coast is a 50-kilometre ribbon of cliffside road (the SS163)
+  linking towns like Positano, Amalfi, and Ravello along the Sorrentine
+  Peninsula south of Naples. Base yourself in one town and use ferries and the
+  SITA bus for day trips rather than driving yourself — traffic on the coast
+  road seizes up completely by mid-morning in summer. Go in May, June, or late
+  September to get the scenery without the July-August gridlock.
 faq:
   - q: How do I get around the Amalfi Coast without a car?
-    a: Use the seasonal ferries between Naples, Sorrento, Positano, and Amalfi (roughly April–October), and the SITA Sud bus for towns without ferry docks. Buy bus tickets in advance from a tabacchi or bar.
+    a: >-
+      Use the seasonal ferries between Naples, Sorrento, Positano, and Amalfi
+      (roughly April–October), and the SITA Sud bus for towns without ferry
+      docks. Buy bus tickets in advance from a tabacchi or bar.
   - q: How many days do I need?
-    a: Three to four days lets you cover Positano, Amalfi town, and Ravello at an unrushed pace, with a day spared for a hike like the Path of the Gods.
+    a: >-
+      Three to four days lets you cover Positano, Amalfi town, and Ravello at an
+      unrushed pace, with a day spared for a hike like the Path of the Gods.
   - q: What's the best time of year to visit?
-    a: May–June and mid-September–October offer warm weather and lighter crowds. July–August is hottest, busiest, and worst for road traffic.
+    a: >-
+      May–June and mid-September–October offer warm weather and lighter crowds.
+      July–August is hottest, busiest, and worst for road traffic.
   - q: Which town should I base myself in?
-    a: Positano is the most scenic and most crowded; Amalfi town is central and well-connected by ferry; Ravello offers quiet and views but no beach access.
+    a: >-
+      Positano is the most scenic and most crowded; Amalfi town is central and
+      well-connected by ferry; Ravello offers quiet and views but no beach
+      access.
   - q: Is it easy to day-trip from Naples or Rome?
-    a: From Naples, yes — train to Sorrento then ferry or bus, doable in a long day. From Rome, it's a stretch; an overnight stay is more realistic given travel time to Naples/Salerno plus onward transfers.
+    a: >-
+      From Naples, yes — train to Sorrento then ferry or bus, doable in a long
+      day. From Rome, it's a stretch; an overnight stay is more realistic given
+      travel time to Naples/Salerno plus onward transfers.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-09'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
