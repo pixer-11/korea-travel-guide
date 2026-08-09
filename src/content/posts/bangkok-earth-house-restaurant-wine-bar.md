@@ -5,11 +5,6 @@ country: "Thailand"
 region: "Bangkok"
 category: "restaurant"
 pubDate: "2026-08-07T08:37:57.172Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Barbieri_-_ViaSophia25668.jpg/1920px-Barbieri_-_ViaSophia25668.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Mcg2132 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Barbieri_-_ViaSophia25668.jpg"
 gallery: []
 place:
   id: "ChIJv5-PuJuf4jAR_l918T7WfeY"
@@ -66,7 +61,7 @@ faq:
   - q: "How much should I expect to spend?"
     a: "It's mid-range for Bangkok — pricier than a street-food meal but reasonable for a wine bar with a full kitchen. Plan on ordering two or three shared dishes plus wine."
 aiGenerated: true
-draft: false
+draft: true
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

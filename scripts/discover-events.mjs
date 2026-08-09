@@ -170,6 +170,11 @@ async function writeDiscovered(item, ctx) {
     used: ctx.usedImages,
     preferTopic: cat === 'event',
     eventMode: cat === 'event',
+    // Stock photography can't tell one act from another — a generic Unsplash
+    // concert crowd would pass event-mode vision under any performer's name.
+    // Events may publish photoless by policy, so refusing stock costs nothing
+    // (backfill-photos-alt already bans this class; the two paths now agree).
+    allowUnsplash: false,
   });
   let heroImage = isImageAllowed(hero)
     ? { url: hero.url, credit: hero.credit, license: hero.license, source: hero.source } : undefined;

@@ -5,11 +5,6 @@ country: "Singapore"
 region: "Orchard Road"
 category: "restaurant"
 pubDate: "2026-08-07T08:42:57.985Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/1920px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Fred Hsu on en.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg"
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Din_Tai_Fung_at_Plaza_Singapura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
     credit: "Photo: Choo Yut Shing / Wikimedia Commons (CC BY 2.0)"
@@ -64,7 +59,7 @@ faq:
   - q: "How long should I plan for a meal?"
     a: "Budget 45–75 minutes including a possible queue, especially at lunch or on weekends when tables turn over quickly but wait times add up."
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

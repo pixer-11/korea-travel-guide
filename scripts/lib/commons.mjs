@@ -256,6 +256,14 @@ const BORING =
 // candidate or null; callers fall back to commonsBest search.
 export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = null } = {}) {
   if (!name) return null;
+  // '|' is MediaWiki's MULTI-TITLE separator: "Earth House | Restaurant |
+  // Wine Bar" queried the generic 'Restaurant' and 'Wine bar' articles and a
+  // Bangkok post shipped a Washington D.C. hotel restaurant as its hero
+  // (found live 2026-08-10, reproduced byte-for-byte). The any-token redirect
+  // check passed because 'restaurant' IS a query token, and generic articles
+  // carry no coordinates so the geo guard silently skipped. A pipe never
+  // belongs in a single venue lookup — refuse and let commonsBest handle it.
+  if (String(name).includes('|')) return null;
   const wikiUrl =
     'https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1' +
     '&titles=' + encodeURIComponent(name) +
@@ -275,6 +283,10 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   const qtok = new Set(tokens(name));
   if (!tokens(page.title || '').some((t) => qtok.has(t))) return null;
   if (BORING.test(page.pageimage)) return null;
+  // Same archival guard as commonsBest — underscores defeat BORING's \b
+  // anchors ('Comiket_Special_1978.jpg' passed), and a lead image can be a
+  // century-old engraving as easily as a search hit can.
+  if (/(18|19)\d{2}/.test(String(page.pageimage).replace(/[_-]+/g, ' '))) return null;
   // The article is about a place somewhere else entirely.
   const co = page.coordinates?.[0];
   if (near?.lat && near?.lng && co && haversine(near.lat, near.lng, co.lat, co.lon) > SAME_PLACE_KM) return null;
