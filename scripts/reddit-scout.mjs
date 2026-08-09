@@ -136,7 +136,7 @@ Use the submit_card tool.`;
     cards.push({ ...p, ...j });
   } catch (e) { console.log(`  draft failed for ${p.id}: ${e.message}`); }
 }
-writeFileSync(SEEN, JSON.stringify({ ids: seen.ids.slice(-500) }, null, 2) + '\n');
+if (!DRY) writeFileSync(SEEN, JSON.stringify({ ids: seen.ids.slice(-500) }, null, 2) + '\n');
 console.log(`${cards.length} card(s) drafted`);
 
 // ── 3) deliver ───────────────────────────────────────────────
