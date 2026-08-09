@@ -170,7 +170,11 @@ for (const [f, why] of reasons) {
     let next = /^draft:\s*false\s*$/m.test(raw)
       ? raw.replace(/^draft:\s*false\s*$/m, 'draft: true')
       : raw.replace(/^---\r?\n/, `---\ndraft: true\n`);
-    if (!/^heldReason:/m.test(next)) next = next.replace(/^draft:\s*true\s*$/m, 'draft: true\nheldReason: hours');
+    // Reason follows the actual finding: the repair patrol only handles the
+    // hours class, and a photo/content hold mislabelled as "hours" sent it
+    // re-auditing the wrong thing (full-audit 2026-08-10).
+    const reason = [...why].some((w) => /영업시간|hours/i.test(String(w))) ? 'hours' : 'content';
+    if (!/^heldReason:/m.test(next)) next = next.replace(/^draft:\s*true\s*$/m, `draft: true\nheldReason: ${reason}`);
     writeFileSync(path, next);
   }
   held.push({ f, why: [...why] });

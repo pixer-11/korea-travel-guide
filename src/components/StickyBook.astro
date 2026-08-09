@@ -16,7 +16,7 @@ const klookTo = place
   ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(place)}`
   : klookCityDest(city, klookLocale(lang));
 const klook = `/go/klook?to=${encodeURIComponent(klookTo)}`;
-const hotel = `https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(city)}`;
+const hotel = `https://search.hotellook.com/?marker=754088.sticky_bar&language=${lang}&destination=${encodeURIComponent(city)}`;
 ---
 <div class="sticky-book" data-affiliate-placement="sticky-bar" data-sticky-book hidden aria-hidden="true">
   <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>

@@ -95,6 +95,16 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Palawan": { id: 121, slug: 'palawan', country: "Philippines" },
   "Taguig": { id: 26802, slug: 'taguig', country: "Philippines" },
   "Singapore": { id: 6, slug: 'singapore', country: "Singapore" },
+  // Singapore NEIGHBOURHOODS used as regions in this corpus (the city-state's
+  // posts are tagged by district). Without these, 27 posts fell back to the
+  // robots-disallowed search page (full-audit 2026-08-10). All alias c6.
+  "Marina Bay": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Little India": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Clarke Quay": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Sentosa": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Orchard Road": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Kampong Glam": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Chinatown": { id: 6, slug: 'singapore', country: "Singapore" },
   "Andong": { id: 8898, slug: 'andong', country: "South Korea" },
   "Daegu": { id: 545, slug: 'daegu', country: "South Korea" },
   "Gyeongju": { id: 8928, slug: 'gyeongju', country: "South Korea" },

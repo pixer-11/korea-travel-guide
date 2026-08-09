@@ -15,8 +15,8 @@ const { city, country } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
-const klookSearch = `https://www.klook.com/${klookLocale(lang)}/search/?query=${city} hotels`;
-const href = `/go/klook?to=${encodeURIComponent(klookSearch)}`;
+// Hotellook destination search (same surface as the other four hotel CTAs);
+const href = `https://search.hotellook.com/?marker=754088.hotels_widget&language=${lang}&destination=${encodeURIComponent(city)}`;
 ---
 <section class="tp-hotels" data-affiliate-placement="hotels-widget">
   <div class="rule-head"><h2 class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</h2></div>

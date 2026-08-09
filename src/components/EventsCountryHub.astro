@@ -136,7 +136,7 @@ const ogPhoto = pickOgPhoto([...placePhotos, ...events]);
       <div class="book-cta">
         <span class="book-cta-label">{t('ev.planningAround').replace('{country}', countryLabel)}</span>
         <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href={`https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(country.name)}`} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
+          <a class="book-btn book-btn-primary" href={`https://search.hotellook.com/?marker=754088.events_hub&language=${lang}&destination=${encodeURIComponent(country.name)}`} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
           <a class="book-btn" href={localizePath('/flights', lang)} rel="sponsored noopener"><Emoji name="airplane" /> {t('nav.flights')}</a>
         </div>
       </div>

@@ -87,7 +87,7 @@ const klookTop = `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, kloo
 // language= keeps the reader in their own language after the click — 7,959
 // of these links landed every reader, five languages alike, on English
 // booking.com, which is where the measured 94 clicks / 0 bookings die.
-const hotelTop = `https://search.hotellook.com/?marker=754088&language=${lang}&destination=${encodeURIComponent(d.region)}`;
+const hotelTop = `https://search.hotellook.com/?marker=754088.post_top&language=${lang}&destination=${encodeURIComponent(d.region)}`;
 // Place-specific "get tickets" link for the fact box — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
