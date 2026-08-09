@@ -6,11 +6,10 @@ region: Los Angeles
 category: attraction
 pubDate: '2026-08-09T08:12:12.008Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg/1920px-LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Gunnar Klack / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/7384126_kR-qYBRR2PDtHiZFhDEeN4KrDsMczBrQ8H5yMh_ko7U.jpg
+  credit: 'Photo: Foursquare user content (Los Angeles County Museum of Art)'
+  license: foursquare
+  source: https://foursquare.com/v/40a6af00f964a52027f31ee3
 place:
   id: ChIJsXqcyjy5woARNz6sOh0ZmwA
   name: Los Angeles County Museum of Art
@@ -59,7 +58,6 @@ faq:
   - q: Do I need a ticket to see Urban Light?
     a: No — the lamppost installation sits outside the paid galleries, right along Wilshire Boulevard, and is visible and free to walk through anytime.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

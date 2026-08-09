@@ -1,33 +1,32 @@
 ---
-title: "Earth House | Restaurant | Wine Bar: Where to Eat in Bangkok"
-description: "Earth House is a plant-forward restaurant and wine bar tucked down Soi Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. 4.8★ (428 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Bangkok"
-category: "restaurant"
-pubDate: "2026-08-07T08:37:57.172Z"
-gallery: []
+title: 'Earth House | Restaurant | Wine Bar: Where to Eat in Bangkok'
+description: Earth House is a plant-forward restaurant and wine bar tucked down Soi Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. 4.8★ (428 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Bangkok
+category: restaurant
+pubDate: '2026-08-07T08:37:57.172Z'
 place:
-  id: "ChIJv5-PuJuf4jAR_l918T7WfeY"
-  name: "Earth House | Restaurant | Wine Bar"
-  address: "112/2 Soi Sukhumvit 53, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand"
+  id: ChIJv5-PuJuf4jAR_l918T7WfeY
+  name: Earth House | Restaurant | Wine Bar
+  address: 112/2 Soi Sukhumvit 53, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand
   rating: 4.8
   userRatingsTotal: 428
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16608666566639575038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16608666566639575038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.730488099999999
   lng: 100.5784073
-  phone: "+66 64 473 7188"
+  phone: +66 64 473 7188
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 1:30 – 11:00 PM"
-    - "Wednesday: 1:30 – 11:00 PM"
-    - "Thursday: 1:30 – 11:00 PM"
-    - "Friday: 9:00 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 1:30 – 11:00 PM'
+    - 'Wednesday: 1:30 – 11:00 PM'
+    - 'Thursday: 1:30 – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-07
+    updated: 2026-08-07T00:00:00.000Z
     weekdayBusy:
       - 20
     weekendQuiet:
@@ -44,24 +43,28 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5965665737543831396c5f52416a3466754a75502d35764a496843"
+    venueId: ven_5965665737543831396c5f52416a3466754a75502d35764a496843
 tags:
-  - "bangkok"
-  - "vegetarian"
-quickAnswer: "Earth House is a plant-forward restaurant and wine bar tucked down Soi Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. Go on a weekend morning for the brunch menu, or slide in near closing (10–11pm) when the crowd thins out. It's closed Mondays, and weekday service doesn't start until 1:30pm."
+  - bangkok
+  - vegetarian
+quickAnswer: Earth House is a plant-forward restaurant and wine bar tucked down Soi Sukhumvit 53 in Watthana, a short walk from Thong Lo BTS. Go on a weekend morning for the brunch menu, or slide in near closing (10–11pm) when the crowd thins out. It's closed Mondays, and weekday service doesn't start until 1:30pm.
 faq:
-  - q: "How do I get to Earth House from the BTS?"
-    a: "Take the Sukhumvit Line to Thong Lo BTS, then walk about 10–15 minutes down Soi Sukhumvit 53, or take a short taxi or motorbike taxi from the station."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Thursday it's open 1:30–11pm (no lunch service), Friday and Saturday 9am–11pm, and Sunday 9am–10pm. It's closed all day Monday."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the 10–11pm hour before closing is the calmest. The busiest stretch is midday through closing on Saturday and Sunday, so avoid arriving unannounced around lunch."
-  - q: "Is Earth House good for vegetarians and vegans?"
-    a: "Yes — it's built around plant-based cooking, with grain bowls, wood-fired flatbreads, and a wine-forward menu designed for vegetarians and vegans, not just as an afterthought."
-  - q: "How much should I expect to spend?"
-    a: "It's mid-range for Bangkok — pricier than a street-food meal but reasonable for a wine bar with a full kitchen. Plan on ordering two or three shared dishes plus wine."
+  - q: How do I get to Earth House from the BTS?
+    a: Take the Sukhumvit Line to Thong Lo BTS, then walk about 10–15 minutes down Soi Sukhumvit 53, or take a short taxi or motorbike taxi from the station.
+  - q: What are the opening hours?
+    a: Tuesday to Thursday it's open 1:30–11pm (no lunch service), Friday and Saturday 9am–11pm, and Sunday 9am–10pm. It's closed all day Monday.
+  - q: When is the quietest time to visit?
+    a: On weekends, the 10–11pm hour before closing is the calmest. The busiest stretch is midday through closing on Saturday and Sunday, so avoid arriving unannounced around lunch.
+  - q: Is Earth House good for vegetarians and vegans?
+    a: Yes — it's built around plant-based cooking, with grain bowls, wood-fired flatbreads, and a wine-forward menu designed for vegetarians and vegans, not just as an afterthought.
+  - q: How much should I expect to spend?
+    a: It's mid-range for Bangkok — pricier than a street-food meal but reasonable for a wine bar with a full kitchen. Plan on ordering two or three shared dishes plus wine.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/29689046_-svSO0Or-7yM1k_abpWbD9tg6lEIoTXVF5LEdWqhOWs.jpg
+  credit: 'Photo: Foursquare user content (Earth House)'
+  license: foursquare
+  source: https://foursquare.com/v/6606b91857de177eaeeb058d
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

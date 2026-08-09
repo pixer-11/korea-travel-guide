@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-26'
-gallery: []
 tags:
   - incheon
   - event
@@ -24,9 +23,13 @@ faq:
   - q: Where do I buy tickets safely?
     a: Use only the official One Universe Festival ticketing partner once sales open; avoid resale or third-party sites, as prices and authenticity aren't guaranteed.
 aiGenerated: true
-draft: true
 eventRecurring: true
 photoless: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg/3840px-Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Frank Schwichtenberg / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
 ---
 
 ## Why go

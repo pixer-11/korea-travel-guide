@@ -70,6 +70,7 @@ faq:
   - q: What's nearby to combine with a visit?
     a: Yoyogi Park is a short walk away, and the surrounding Tomigaya neighborhood has quiet boutiques and design shops worth exploring before or after.
 aiGenerated: true
+draft: true
 ---
 
 ## Why Fuglen Tokyo Stands Out

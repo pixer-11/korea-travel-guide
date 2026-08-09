@@ -6,10 +6,10 @@ region: Antalya
 category: attraction
 pubDate: '2026-07-23T10:51:58.664Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duden_waterfall.jpg/1920px-Duden_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: Nebras abdullah alahmad / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Duden_waterfall.jpg
+  url: https://fastly.4sqi.net/img/general/original/1401693259_8jEHFrVFPFANGfSLvWNwvNcLD-Yzsp4u0b7GLX1Oj90.jpg
+  credit: 'Photo: Foursquare user content (Düden Şelalesi)'
+  license: foursquare
+  source: https://foursquare.com/v/4c862ac2d8086dcbe1a39752
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg/1920px-Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
     credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
@@ -49,7 +49,6 @@ faq:
   - q: Is the site accessible and family-friendly?
     a: Yes, the park has paved paths and benches suitable for most fitness levels, though the walkway near the cave gets damp and slightly slippery, so sturdy shoes are recommended, especially with children.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

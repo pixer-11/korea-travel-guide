@@ -6,11 +6,10 @@ region: Busan
 category: attraction
 pubDate: '2026-08-09T08:13:27.941Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Busan_Tower_Busan_%2845023982594%29.jpg/3840px-Busan_Tower_Busan_%2845023982594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-  credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Busan_Tower_Busan_(45023982594).jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/39040510_se5B3S13TF4gKyywEvUWIrn_AkhZerl7WLBwW-KGg84.jpg
+  credit: 'Photo: Foursquare user content (Busan Tower (부산타워))'
+  license: foursquare
+  source: https://foursquare.com/v/4c099874340720a1571d8593
 place:
   id: ChIJq0OD23TpaDURTv9SBp0VWtI
   name: Busan Tower
@@ -65,7 +64,6 @@ faq:
   - q: What's nearby if I want to make a half-day of it?
     a: BIFF Square and Gukje Market are both a short walk downhill from the park, making it easy to pair the tower with street food and shopping.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
