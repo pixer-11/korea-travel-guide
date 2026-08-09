@@ -365,8 +365,14 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       // (≥600px) real photo through instead of a wrong-topic city fallback.
       const landscape = !c.w || !c.h || (allowPortrait ? c.h <= c.w * 1.8 : c.w >= c.h * 0.95);
       const bigEnough = !c.w || c.w >= minWidth;
+      // A 19xx/18xx year in the FILE TITLE marks an archival photo. The event
+      // path picked "Comiket_Special_1978.jpg" — genuinely Comiket, correctly
+      // identity-matched, half a century stale — as a 2026 event hero
+      // (2026-08-09; the region-cover backfill hit the same class twice the
+      // same day). Historical photos are wrong for venue tiles too.
+      const archival = /(18|19)\d{2}/.test(c.title);
       const scenic = !BORING.test(c.title);
-      return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && (!cross || crossN >= minCross || foreignN === 0) };
+      return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && !archival && (!cross || crossN >= minCross || foreignN === 0) };
     })
     .filter((s) => s.ok)
     .filter((s) => !used || !used.has(s.c.url));

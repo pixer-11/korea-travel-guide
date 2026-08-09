@@ -321,6 +321,14 @@ function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/gyeongju-donggung-and-wolji/ ${p}/posts/gyeongju-donggung-palace-wolji-pond/ 301`);
   }
+  // Comiket 108 twins (2026-08-09): two generator runs wrote the same event
+  // under different word orders; the anchor-based duplicate check compared
+  // 'comiket' vs 'comic' and stayed quiet. Kept the older post with the
+  // CORRECT dates (Aug 15–16 per the Comic Market Committee); the retired one
+  // said Aug 14 and wore a 1978 archival hero by the end.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/tokyo-comiket-comic-market-108/ ${p}/posts/tokyo-comic-market-108-summer-comiket/ 301`);
+  }
   // Business-card QR target: /card stays printed on physical cards forever, so
   // it must never 404. 302 (not 301) so the destination can be repointed later
   // (e.g. to a newsletter page) without reprinting cards.
