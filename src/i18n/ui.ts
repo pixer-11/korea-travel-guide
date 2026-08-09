@@ -87,7 +87,7 @@ export const ui = {
 
     'home.tagline': 'Your guide to the world.',
     'home.metaTitle': 'Wander Atlas — Editor-Reviewed Travel Guides with Real Crowd Data',
-    'home.heroTitle': 'Detailed travel guides for the whole world.',
+    'home.heroTitle': 'Travel guides that go deep — down to the quiet hours.',
     'home.heroDek': 'Honest, editor-reviewed guides — where to go, what to eat, and how to get around. We go deep on one country at a time.',
     'home.searchPlaceholder': 'Search a country, city, or place…',
     'home.exploreDestinations': 'Explore destinations',
@@ -617,7 +617,7 @@ export const ui = {
 
     'home.tagline': '세계를 여행하는 당신을 위한 안내서.',
     'home.metaTitle': 'Wander Atlas — 혼잡 시간까지 검증한 나라별 여행 가이드',
-    'home.heroTitle': '전 세계를 깊이 있게 담은 여행 가이드.',
+    'home.heroTitle': '한산한 시간까지 담은, 깊이 있는 여행 가이드.',
     'home.heroDek': '어디를 가고, 무엇을 먹고, 어떻게 이동할지 — 직접 검수한 정직한 가이드로 한 나라씩 깊이 있게 안내합니다.',
     'home.searchPlaceholder': '나라, 도시, 장소를 검색해 보세요…',
     'home.exploreDestinations': '여행지 둘러보기',
@@ -1135,7 +1135,7 @@ export const ui = {
 
     'home.tagline': '世界へ旅するあなたのガイド。',
     'home.metaTitle': 'Wander Atlas — 混雑データまで検証した国別旅行ガイド',
-    'home.heroTitle': '世界中の旅を、深く詳しく。',
+    'home.heroTitle': '空いている時間帯まで、深く詳しい旅行ガイド。',
     'home.heroDek': 'どこへ行き、何を食べ、どう移動するか — 編集者が確認した正直なガイドで、一国ずつ深く掘り下げます。',
     'home.searchPlaceholder': '国・都市・スポットを検索…',
     'home.exploreDestinations': '旅行先を見る',
@@ -1653,7 +1653,7 @@ export const ui = {
 
     'home.tagline': 'Tu guía para descubrir el mundo.',
     'home.metaTitle': 'Wander Atlas — Guías de viaje verificadas con datos reales de afluencia',
-    'home.heroTitle': 'Guías de viaje detalladas de todo el mundo.',
+    'home.heroTitle': 'Guías de viaje a fondo — hasta las horas tranquilas.',
     'home.heroDek': 'Guías honestas y revisadas por editores: qué ver, dónde comer y cómo moverte. Profundizamos en un país cada vez.',
     'home.searchPlaceholder': 'Busca un país, una ciudad o un lugar…',
     'home.exploreDestinations': 'Explorar destinos',
@@ -2171,7 +2171,7 @@ export const ui = {
 
     'home.tagline': '带你看世界的旅行指南。',
     'home.metaTitle': 'Wander Atlas — 附真实人流数据的编辑审核旅行指南',
-    'home.heroTitle': '深入详尽的全球旅行指南。',
+    'home.heroTitle': '连清净时段都写进去的深度旅行指南。',
     'home.heroDek': '去哪儿、吃什么、怎么走 — 由编辑审核的诚实指南，一个国家一个国家地深入讲透。',
     'home.searchPlaceholder': '搜索国家、城市或地点…',
     'home.exploreDestinations': '浏览目的地',
