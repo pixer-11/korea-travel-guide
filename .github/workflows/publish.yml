@@ -146,6 +146,14 @@ jobs:
             echo "글 번역 (${F}/${J}건 실패)" >> /tmp/soft-fail.txt
           }
 
+      # The translator's recurring tic (쯤→쯍 etc, non-wansung syllables) is
+      # substituted right here, BEFORE the gate and the commit — detection was
+      # automatic since 08-08 but the repair was a human every time (16 files
+      # on 08-08, 20 on 08-09). Unknown shatters delete the file so the next
+      # run retranslates it via the srcHash queue.
+      - name: Repair broken Korean syllables
+        run: node scripts/fix-broken-syllables.mjs
+
       # Country/city NAMES for ko/ja/es/zh. Idempotent (skips what it already has),
       # so this only costs anything when a new country or city appears — without it
       # a newly added destination shows its English name on every localized page.

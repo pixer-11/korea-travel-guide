@@ -1,0 +1,38 @@
+name: Live smoke test
+
+# The weekly retro (08-09) called it: no standing check ever touched the LIVE
+# site — every deploy was verified by hand-written one-off loops. This pokes
+# the load-bearing pages daily, an hour after the 16:19 KST publish deploy
+# settles, and after any manual dispatch. Failure pings Telegram in Korean.
+on:
+  schedule:
+    - cron: '30 8 * * *' # 08:30 UTC = 17:30 KST
+  workflow_dispatch:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Poke the live site
+        id: smoke
+        run: node scripts/smoke-live.mjs | tee /tmp/smoke.log
+      - name: Notify Telegram on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🚨 라이브 스모크 테스트 실패 — 실서버 핵심 페이지가 깨져 있습니다"
+            grep '✗' /tmp/smoke.log || true
+            echo ""
+            echo "배포 파이프라인 또는 워커 라우팅을 확인해야 합니다."
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true
