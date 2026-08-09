@@ -320,5 +320,200 @@
         "delta": -14
       }
     ]
+  },
+  {
+    "week": "2026-08-09",
+    "pageviews": 329,
+    "visits": 190,
+    "top": [
+      {
+        "path": "/",
+        "views": 80
+      },
+      {
+        "path": "/ko/",
+        "views": 35
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 19
+      },
+      {
+        "path": "/ko/itinerary/seoul-3-days/",
+        "views": 10
+      },
+      {
+        "path": "/pinterest-callback/",
+        "views": 9
+      },
+      {
+        "path": "/ko/regions/",
+        "views": 8
+      },
+      {
+        "path": "/posts/bordeaux-miroir-d-eau/",
+        "views": 6
+      },
+      {
+        "path": "/posts/ho-chi-minh-city-nom/",
+        "views": 6
+      },
+      {
+        "path": "/posts/seville-parque-de-maria-luisa/",
+        "views": 4
+      },
+      {
+        "path": "/posts/taiyuan-shanxi-museum/",
+        "views": 4
+      },
+      {
+        "path": "/ko/destinations/south-korea/",
+        "views": 4
+      },
+      {
+        "path": "/tools/best-time/",
+        "views": 4
+      },
+      {
+        "path": "/posts/sturgis-south-dakota-sturgis-motorcycle-rally-86th-anniversary/",
+        "views": 4
+      },
+      {
+        "path": "/destinations/japan/",
+        "views": 4
+      },
+      {
+        "path": "/privacy/",
+        "views": 4
+      },
+      {
+        "path": "/ko/about/",
+        "views": 3
+      },
+      {
+        "path": "/ko/tools/when-to-go/",
+        "views": 3
+      },
+      {
+        "path": "/ko/regions/new-york/",
+        "views": 3
+      },
+      {
+        "path": "/ignore-me/",
+        "views": 3
+      },
+      {
+        "path": "/posts/agra-agra-fort/",
+        "views": 3
+      },
+      {
+        "path": "/ko/destinations/indonesia/",
+        "views": 3
+      },
+      {
+        "path": "/tools/esim/japan/",
+        "views": 3
+      },
+      {
+        "path": "/ko/regions/busan/",
+        "views": 3
+      },
+      {
+        "path": "/ko/regions/madrid/",
+        "views": 3
+      },
+      {
+        "path": "/itinerary/tokyo-3-days/",
+        "views": 3
+      },
+      {
+        "path": "/posts/pasay-city-lalala-fest-manila-2026/",
+        "views": 3
+      },
+      {
+        "path": "/destinations/",
+        "views": 2
+      },
+      {
+        "path": "/ko/contact/",
+        "views": 2
+      },
+      {
+        "path": "/tools/esim/",
+        "views": 2
+      },
+      {
+        "path": "/ko/regions/seoul/",
+        "views": 2
+      }
+    ],
+    "risers": [
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "delta": 19
+      },
+      {
+        "path": "/ko/itinerary/seoul-3-days/",
+        "delta": 10
+      },
+      {
+        "path": "/pinterest-callback/",
+        "delta": 9
+      },
+      {
+        "path": "/ko/regions/",
+        "delta": 8
+      },
+      {
+        "path": "/posts/bordeaux-miroir-d-eau/",
+        "delta": 6
+      },
+      {
+        "path": "/posts/ho-chi-minh-city-nom/",
+        "delta": 6
+      },
+      {
+        "path": "/posts/seville-parque-de-maria-luisa/",
+        "delta": 4
+      },
+      {
+        "path": "/posts/taiyuan-shanxi-museum/",
+        "delta": 4
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/ko/",
+        "delta": -55
+      },
+      {
+        "path": "/flights/",
+        "delta": -30
+      },
+      {
+        "path": "/ko/destinations/philippines/",
+        "delta": -20
+      },
+      {
+        "path": "/posts/goa-fort-aguada/",
+        "delta": -20
+      },
+      {
+        "path": "/ko/posts/little-india-super-deluxe-kitchen/",
+        "delta": -20
+      },
+      {
+        "path": "/my-trip/",
+        "delta": -20
+      },
+      {
+        "path": "/posts/multiple-cities-across-spain-andorra-entry-through-andalusia-finishing-in-granad/",
+        "delta": -20
+      },
+      {
+        "path": "/ko/regions/fukuoka/",
+        "delta": -20
+      }
+    ]
   }
 ]
