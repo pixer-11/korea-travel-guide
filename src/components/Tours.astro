@@ -48,10 +48,13 @@ const klookHref = klookDest
 {city && (
   <section class="tp-tours" data-affiliate-placement="tours-widget">
     <div class="rule-head"><h2 class="kicker">{t('widget.topThingsToDo').replace('{city}', cityLabel)}</h2></div>
+    {/* Lazy-mount: the widget drags GTM/GA/klook.com along (Lighthouse Best
+        Practices 0.77, 2026-08-10) and sits below the fold — most visitors
+        never see it. The script is injected only when the card approaches
+        the viewport (observer in the script below), so the trackers never
+        load for anyone who doesn't scroll here. */}
     {src ? (
-      <div class="tp-widget-card">
-        <script is:inline async src={src} charset="utf-8"></script>
-      </div>
+      <div class="tp-widget-card" data-widget-src={src}></div>
     ) : (
       <a class="plan-card tours-cta" href={klookHref} target="_blank" rel="sponsored noopener">
         <span class="plan-ico"><Emoji name="admission-tickets" /></span>
@@ -64,16 +67,35 @@ const klookHref = klookDest
 )}
 
 <script>
-  // Safety net: hide the block ONLY when the price widget rendered empty. The
-  // link-fallback (no .tp-widget-card) always stays.
-  window.addEventListener('load', () => {
+  // Inject the Travelpayouts script only when the card nears the viewport.
+  (() => {
+    const cards = document.querySelectorAll<HTMLElement>('.tp-widget-card[data-widget-src]');
+    if (!cards.length) return;
+    const mount = (el: HTMLElement) => {
+      if (el.dataset.mounted) return;
+      el.dataset.mounted = '1';
+      const s = document.createElement('script');
+      s.async = true; s.charset = 'utf-8';
+      s.src = el.dataset.widgetSrc!;
+      el.appendChild(s);
+      armEmptyCheck(el);
+    };
+    if (!('IntersectionObserver' in window)) { cards.forEach(mount); return; }
+    const io = new IntersectionObserver((entries, obs) => {
+      entries.forEach((e) => { if (e.isIntersecting) { mount(e.target as HTMLElement); obs.unobserve(e.target); } });
+    }, { rootMargin: '600px 0px' });
+    cards.forEach((el) => io.observe(el));
+  })();
+
+  // Safety net: hide the block ONLY when the price widget rendered empty.
+  // With lazy-mount this must run per-card AFTER its script is injected —
+  // the old on-load sweep would have judged every not-yet-mounted card as
+  // "empty" and hidden the section before the visitor ever scrolled to it.
+  function armEmptyCheck(card: HTMLElement) {
     setTimeout(() => {
-      document.querySelectorAll('.tp-tours').forEach((sec) => {
-        const card = sec.querySelector('.tp-widget-card') as HTMLElement | null;
-        if (card && !(card.querySelector('iframe') || card.offsetHeight > 120)) {
-          (sec as HTMLElement).style.display = 'none';
-        }
-      });
+      if (!(card.querySelector('iframe') || card.offsetHeight > 120)) {
+        (card.closest('.tp-tours') as HTMLElement | null)?.style.setProperty('display', 'none');
+      }
     }, 3500);
-  });
+  }
 </script>

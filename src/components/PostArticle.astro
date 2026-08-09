@@ -403,6 +403,14 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 const saveThumb = String(d.heroImage?.url ?? '')
   .replace(/\/(\d{3,4})px-/, '/480px-')
   .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width320/');
+// The hero <img> renders at 1200 CSS px but shipped the stored 1920px
+// original — 2.3x the bytes on the page's LCP element (Lighthouse audit,
+// 2026-08-10; post LCP 1.59s vs home 0.68s). Same rung trick as saveThumb.
+// og:image (line ~419) keeps the ORIGINAL — the Discover ≥1200px invariant
+// and its width scanner are untouched.
+const heroDisplay = String(d.heroImage?.url ?? '')
+  .replace(/\/(\d{3,4})px-/, '/1200px-')
+  .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/');
 
 const saveHours = (p?.openingHours ?? []).map((l: string) =>
   localizeOpeningLine(l, lang, { am: t('post.am'), pm: t('post.pm') })
@@ -455,7 +463,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={d.heroImage.url} alt={photoAlt(photoSubject)} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
+        <img src={heroDisplay || d.heroImage.url} alt={photoAlt(photoSubject)} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
