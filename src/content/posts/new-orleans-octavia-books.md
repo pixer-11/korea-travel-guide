@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Octavia Books is worth the detour
@@ -91,7 +90,7 @@ The patio is the quiet surprise: a shaded, plant-lined nook where you can flip t
 
 ## When to go
 
-Octavia Books opens at 10am daily, closing at 6pm Monday through Saturday and 5pm on Sunday. Confirm current hours before visiting, since small shops occasionally adjust for holidays or events.
+Confirm current hours before visiting, since small shops occasionally adjust for holidays or events.
 
 Foot traffic data shows the calmest weekday window is 10am–11am, right at opening. On weekends, things quiet down again from 4pm to 6pm.
 

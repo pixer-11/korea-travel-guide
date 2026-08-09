@@ -70,7 +70,6 @@ faq:
     a: Tiananmen Square sits just south of the entrance, and Jingshan Park, with its hilltop view over the palace roofs, is directly north of the exit gate.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come up out of the underpass at Tiananmen Square, cross the moat, and there it is: the Meridian Gate, a red-walled, gold-roofed wall of a building so wide it swallows the crowd milling in front of it. This is the only way in for visitors, and once you're through, the noise of the avenue drops away and you're standing at the edge of a stone courtyard big enough to lose a few thousand people in — which, on a busy day, it will.
@@ -83,7 +82,7 @@ The complex sits at 4 Jing Shan Qian Jie in Dongcheng District, immediately nort
 
 ## Tickets and timing
 
-Entry is by timed slot, booked online in advance (the museum sells out on peak days and does not typically allow same-day walk-up purchase). It's open Tuesday through Sunday, 8:30am to 4:30pm, and closed every Monday — plan around that if you're building a multi-day Beijing itinerary. Ticket prices vary by season and are best confirmed on the official site shortly before you go, but expect the visit to sit in the pricier bracket for a Chinese museum, especially once you add the Treasure Gallery or Clock Exhibition, which require separate add-on tickets.
+Entry is by timed slot, booked online in advance (the museum sells out on peak days and does not typically allow same-day walk-up purchase). It's closed every Monday, with opening hours posted on the official site — plan around that if you're building a multi-day Beijing itinerary. Ticket prices vary by season and are best confirmed on the official site shortly before you go, but expect the visit to sit in the pricier bracket for a Chinese museum, especially once you add the Treasure Gallery or Clock Exhibition, which require separate add-on tickets.
 
 ## What to see and eat
 

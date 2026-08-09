@@ -38,7 +38,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -57,7 +56,7 @@ If you're coming from the Gothic Quarter, any of the small side streets off the 
 
 Start at Plaça de Catalunya and head south. Early on you'll pass Font de Canaletes, a modest cast-iron drinking fountain that's become a ritual stop for FC Barcelona fans celebrating titles — legend says drinking from it guarantees a return to the city. Further down, the Boqueria Market's wrought-iron entrance sign marks a worthwhile detour (it's one block off the main walkway, not directly on it).
 
-Continue past the Liceu opera house, one of Europe's great 19th-century theaters, rebuilt after a fire in the 1990s, and the Royal Academy of Fine Arts before reaching Plaça Reial, a arcaded 19th-century square tucked just off the boulevard with palm trees and Gaudí's early lamppost designs. The walk ends at the Columbus Monument, a cast-iron column pointing — somewhat inaccurately — out to sea, with the marina and the Maremagnum shopping complex just beyond.
+Continue past the Liceu opera house, one of Europe's great 19th-century theaters, rebuilt after a fire in the 1990s, and the Royal Academy of Fine Arts before reaching Plaça Reial, an arcaded 19th-century square tucked just off the boulevard with palm trees and Gaudí's early lamppost designs. The walk ends at the Columbus Monument, a cast-iron column pointing — somewhat inaccurately — out to sea, with the marina and the Maremagnum shopping complex just beyond.
 
 ## When to go
 

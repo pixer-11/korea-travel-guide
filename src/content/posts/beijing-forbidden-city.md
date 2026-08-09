@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel the scale before you understand it. Standing at the Meridian Gate — Wu Men — the crenellated wings curve around you like a stone embrace, and the crowd funnels through a single opening in a wall that once separated the emperor from everyone else on earth. Completed in 1420 under the Yongle Emperor, this was the seat of Ming and Qing power for nearly five centuries, and it still holds together as one continuous, walled world: 980-odd buildings, nested courtyards, and not a single modern structure to break the spell once you're inside.
@@ -70,7 +69,7 @@ The nearest subway stop is Tian'anmen East or Tian'anmen West, both on Line 1 �
 
 ## When to go
 
-Spring (April-May) and autumn (September-October) give you mild temperatures and the clearest light for photos across those long courtyards. Summer is hot with little shade over the open plazas, and winter is cold but genuinely atmospheric, with far fewer people and snow occasionally dusting the roof tiles. Whatever the season, the door opens once daily and the palace does not sell tickets at the gate — you need a timed-entry booking in advance, and days can and do sell out, especially weekends and Chinese public holidays.
+Spring (April-May) and autumn (September-October) give you mild temperatures and the clearest light for photos across those long courtyards. Summer is hot with little shade over the open plazas, and winter is cold but genuinely atmospheric, with far fewer people and snow occasionally dusting the roof tiles. Whatever the season, the palace does not sell tickets at the gate — you need a timed-entry booking in advance, and days can and do sell out, especially weekends and Chinese public holidays.
 
 ## How to visit like a local
 

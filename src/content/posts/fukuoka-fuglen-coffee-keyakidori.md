@@ -28,7 +28,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Fuglen is one of those rare cafés that manages to feel both foreign and completely at home wherever it lands. Born in Oslo in the 1960s as a furniture-and-coffee shop, the brand became a cult name among specialty coffee drinkers for its Nordic-leaning roasts and mid-century interiors, then took its day-café/night-bar concept to Tokyo, where it became a fixture of the city's coffee scene.
@@ -43,7 +42,7 @@ Tenjin and Yakuin are both well connected by Fukuoka's subway network, and eithe
 
 ## What to expect
 
-By day, picture the Fuglen formula that's worked in Oslo and Tokyo: a small, design-conscious room, pour-over and espresso-based coffee, and a pace that encourages you to sit rather than grab-and-go. Mid-century Scandinavian furniture typically anchors these spaces — a stool at the counter, a shelf of coffee bags, the quiet hiss of a espresso machine rather than blaring music.
+By day, picture the Fuglen formula that's worked in Oslo and Tokyo: a small, design-conscious room, pour-over and espresso-based coffee, and a pace that encourages you to sit rather than grab-and-go. Mid-century Scandinavian furniture typically anchors these spaces — a stool at the counter, a shelf of coffee bags, the quiet hiss of an espresso machine rather than blaring music.
 
 As the light changes and evening comes on, the room reportedly turns over into bar service, a signature Fuglen move that transforms the same counter and stools into a cocktail setting. Because this Fukuoka branch only opened in May 2026, treat any specific drink names, prices, or exact opening and closing times as unconfirmed — check Fuglen's official channels or a recent visitor report before you commit to a plan around it.
 
@@ -58,4 +57,3 @@ Treat this as a slow-morning or early-evening stop rather than a box to tick. Sp
 Cash and card are both standard at Fukuoka cafés and bars, though a newly opened spot may lean toward card or mobile payment — bring both options to be safe. If the day-to-bar switch is in effect, be mindful that ordering etiquette usually shifts too: a quick coffee order at 2pm is a different rhythm than settling in for a cocktail at 9pm, so read the room, or ask staff, before you sit down expecting either mode.
 
 The most common mistake visitors make with new openings like this is assuming information found online is already accurate — since the café is brand new as of May 2026, call ahead or check its social accounts for that day's hours rather than relying on secondhand listings. If it's busy, Keyakidori Avenue itself has enough café and boutique density that a short walk gives you a backup plan while you wait.
-

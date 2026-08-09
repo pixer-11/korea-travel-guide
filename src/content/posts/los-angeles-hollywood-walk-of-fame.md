@@ -78,14 +78,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 The first thing you notice isn't a star — it's the noise. Costumed Spider-Men heckling for tips, a guy with a boombox doing sidewalk spins, tour buses idling exhaust into the marine layer. Somewhere under all that commotion, pink terrazzo squares with brass-rimmed stars stretch for blocks, and it takes a second before your eyes adjust and you start reading names instead of dodging elbows.
 
 ## Why go
 
-This isn't a museum exhibit behind glass — it's a working sidewalk that happens to be one of the most photographed stretches of pavement in the country. Since 1960, the Hollywood Chamber of Commerce has embedded these stars along Hollywood Boulevard and Vine Street to honor people in film, TV, radio, music, and theater. Walk it slowly and you'll spot names ranking from Marilyn Monroe to Mickey Mouse to whichever pop star got inducted last year, each star inlaid with a small emblem showing their category.
+This isn't a museum exhibit behind glass — it's a working sidewalk that happens to be one of the most photographed stretches of pavement in the country. Since 1960, the Hollywood Chamber of Commerce has embedded these stars along Hollywood Boulevard and Vine Street to honor people in film, TV, radio, music, and theater. Walk it slowly and you'll spot names ranging from Marilyn Monroe to Mickey Mouse to whichever pop star got inducted last year, each star inlaid with a small emblem showing their category.
 
 It's touristy, a little grimy in patches, and genuinely part of the fabric of how the world pictures Los Angeles.
 
@@ -99,7 +98,7 @@ Anchor your walk around the TCL Chinese Theatre, with its forecourt of cement ha
 
 ## When to go
 
-The sidewalk itself never closes — it's open all day, every day, since it's simply a public street. That's the good news and the trap: foot traffic builds fast once the day gets going, and weekends between 11am and 11pm are when the boulevard is at its most shoulder-to-shoulder. If you want the stars to yourself, or at least mostly to yourself, come on a weekday between 7am and 10am, or on a weekend morning between 7am and 9am — the street vendors and costumed characters aren't fully set up yet, the light is softer for photos, and you can actually read the inscriptions without stepping around a tour group.
+The sidewalk itself never closes — it's open all day, every day, since it's simply a public street. That's the good news and the trap: foot traffic builds fast once the day gets going, and weekends tend to be the most crowded time to visit. If you want the stars to yourself, or at least mostly to yourself, come early in the morning — the street vendors and costumed characters aren't fully set up yet, the light is softer for photos, and you can actually read the inscriptions without stepping around a tour group.
 
 ## How to visit like a local
 
@@ -108,4 +107,3 @@ Treat it as a walk-through, not a destination to linger at — that's how people
 If someone offers you a "free" mixtape or ushers you toward a bus tour booth, a polite "no thanks" and keep walking is standard local etiquette. Bring cash in small bills only if you plan to tip a street performer or buy from a sidewalk vendor — most shops and theaters take cards. The most common tourist mistake is arriving midday in July expecting a leisurely stroll; the pavement radiates heat, the crowds peak, and the stars become hard to actually see between the crush of people.
 
 Instead, walk it early, then retreat to an air-conditioned diner or the shaded arcades of Ovation Hollywood once the boulevard fills in. Because this is one of the most heavily visited landmarks in the city, don't expect a quiet, undiscovered corner of Hollywood — the trick isn't finding an empty moment here, it's timing your visit to the two windows each day when the crowds haven't caught up yet.
-

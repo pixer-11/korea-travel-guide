@@ -63,7 +63,7 @@ One holdout, a veteran in his nineties named Huang Yung-fu, started painting the
 
 Rainbow Village sits on a small lane in Nantun District, tucked behind Ling Tung University. There's no MRT here — Taichung's metro network doesn't reach this pocket of the city — so the practical route is a city bus toward Ling Tung University/Dadu, with several routes (including the 25, 75, and 51) stopping within a short walk of the entrance; check current routing on the Taichung bus app or with your hotel since numbers occasionally shift.
 
-A taxi or ride-share from central Taichung (near the train station) runs about 15–20 minutes depending on traffic. If you're already at Feng Chia University or the night market area, factor in another 20-25 minutes by road. There's no admission fee, and the site is open-air, so you can walk the lanes at any hour, though the small gift kiosk and murals are obviously best appreciated in daylight.
+A taxi or ride-share from central Taichung (near the train station) runs about 15–20 minutes depending on traffic. If you're already at Feng Chia University or the night market area, factor in another 20-25 minutes by road. The site is open-air, so you can walk the lanes at any hour, though the small gift kiosk and murals are obviously best appreciated in daylight.
 
 ## What to see
 

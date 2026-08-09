@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Yangdong is worth the detour
@@ -86,7 +85,7 @@ Paths are unpaved dirt and gravel, sloped in places, so wear shoes you don't min
 
 ## When to go
 
-The village is open daily from 9am to 5pm, year-round. Spring (April–May) and autumn (October–November) are the most comfortable seasons, with mild temperatures and good light for the thatched roofs and rice paddies below.
+The village keeps regular daytime visiting hours; it's worth checking current opening times before you set out. Spring (April–May) and autumn (October–November) are the most comfortable seasons, with mild temperatures and good light for the thatched roofs and rice paddies below.
 
 Summer brings heat and humidity with little shade on the open ridge paths. Winter is quiet and stark — thatch and bare persimmon trees against grey hills — but some interiors and paths are less appealing in the cold.
 

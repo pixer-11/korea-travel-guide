@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Plaça Nova is worth a detour
@@ -54,7 +53,7 @@ The square itself is compact, more a widened junction than a plaza, but it's den
 
 - The Roman aqueduct arches and defensive towers, some of the best-preserved Roman remains in the city
 - The Cathedral's main façade and bell towers, especially striking in late-afternoon light
-- The Picasso frieze on the Col·legi d'Arquitectes building, added in 1960
+- The Picasso frieze on the Col·legi d'Arquitectes building
 - The start of Carrer del Bisbe, the narrow Gothic lane leading toward Plaça Sant Jaume
 
 Give it 15–20 minutes if you're just passing through, longer if you want to photograph the towers without a crowd of shoulders in frame.

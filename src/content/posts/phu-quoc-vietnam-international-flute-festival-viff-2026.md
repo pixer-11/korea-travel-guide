@@ -67,4 +67,4 @@ There's no rail link to the island; ferries run from Ha Tien and Rach Gia on the
 
 ## What to expect at the festival
 
-Because VIFF was a new event, the granular schedule — which halls hosted competition rounds versus gala performances, whether sessions were ticketed or open to the public, and exact daily timings — was not fixed at the time of this writing. What was confirmed: the festival spanned July 23–28, 2026, and centered on flute performance and competition, drawing an international field of players. The formats were typical of flute festivals elsewhere
+Because VIFF was a new event, the granular schedule — which halls hosted competition rounds versus gala performances, whether sessions were ticketed or open to the public, and exact daily timings — was not fixed at the time of this writing. What was confirmed: the festival spanned July 23–28, 2026, and centered on flute performance and competition, drawing an international field of players. The format combined masterclasses, competition rounds, and gala concerts, similar to other international flute festivals.

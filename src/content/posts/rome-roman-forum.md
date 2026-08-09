@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -84,7 +83,7 @@ The closest metro stop is Colosseo on Line B, a two-minute walk from the main en
 
 ## When to go
 
-The Forum keeps the same hours every day of the week, 9:00am to 4:30pm, so there's no early-morning or late-evening loophole here — plan your visit to fit that window, and know that last entry is typically well before closing. Measured foot traffic shows 9am–10am as the calmest hour on both weekdays and weekends, before tour groups start arriving in force.
+The Forum keeps set opening hours every day of the week, so there's no early-morning or late-evening loophole here — plan your visit to fit that window, and know that last entry is typically well before closing. Measured foot traffic shows 9am–10am as the calmest hour on both weekdays and weekends, before tour groups start arriving in force.
 
 If you're visiting on a Saturday or Sunday, try to avoid the 11am–2pm stretch, when the paths around the Arch of Titus and the Curia get genuinely congested. Spring and autumn afternoons are pleasant temperature-wise, but midsummer sun with almost no shade across the open valley is worth planning around — an early slot matters even more from June to September.
 

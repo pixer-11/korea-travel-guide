@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,7 +91,7 @@ Several bus routes stop along Passeig de Picasso and Avinguda Marquès de l'Arge
 
 ## When to go
 
-Given how many people pass through — this is one of the most-visited parks in the city — timing matters. The quietest window on weekdays runs from 7am to 8am, and on weekends from 7am to 9am, when it's mostly joggers, dog walkers, and street cleaners hosing down the paths. After that, especially on weekends, foot traffic builds steadily and stays heavy from 11am straight through to 8pm, with tour groups, families, and picnickers filling the lawns near the Cascada and the lake.
+Given how many people pass through — this is one of the most-visited parks in the city — timing matters. The quietest window is early morning, when it's mostly joggers, dog walkers, and street cleaners hosing down the paths. After that, especially on weekends, foot traffic builds steadily through the day, with tour groups, families, and picnickers filling the lawns near the Cascada and the lake.
 
 If you want photos of the fountain without a crowd in frame, or a boat on the lake without a queue, the early slot is your best bet. Spring and early autumn afternoons are pleasant for a longer stroll; summer midday sun on the open lawns can be brutal, so stick to the tree-lined avenues.
 

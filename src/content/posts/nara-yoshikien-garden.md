@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You almost walk past the entrance without noticing it. Yoshikien sits tucked beside its more famous neighbor, Isuien Garden, on a quiet lane near Nara Park's northern edge, and there's rarely a crowd at the gate to tip you off.
@@ -101,7 +100,7 @@ Spring brings fresh green and occasional plum or cherry blossom along the edges,
 
 ## When to go
 
-The garden opens daily from 9am to 5pm, with last entry typically around 4:30pm — worth checking on arrival. Weekends get busiest between noon and 3pm, exactly when day-trippers from Osaka and Kyoto pass through Nara Park.
+The garden opens daily during standard daytime hours, with last entry typically around 4:30pm — worth checking on arrival. Weekends get busiest between noon and 3pm, exactly when day-trippers from Osaka and Kyoto pass through Nara Park.
 
 If you're visiting on a weekend, the calm window is 4pm to 5pm, right before closing, when the light goes gold and the crowds have thinned to almost nobody. Weekday mornings shortly after opening are also a safe bet, before the tour groups finish breakfast and head this way.
 

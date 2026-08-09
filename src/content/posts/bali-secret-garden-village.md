@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-07-26'
 ---
-
 ## Why go
 
 Secret Garden Village sits in the cool highlands of Baturiti, Tabanan regency, on the main Denpasar–Bedugul road (Jl. Raya Denpasar Bedugul, Km 36). It's built as an educational attraction covering Indonesian and Balinese history and culture, laid out across landscaped gardens with craft stations, cultural displays, food outlets, and shops. The name suggests a hidden find, but this is a firmly mainstream stop on the Bedugul circuit, with a 4.6 rating from more than 5,500 reviews — it draws steady tour traffic, especially from groups heading to or from Bedugul and Ulun Danu Beratan Temple.
@@ -92,6 +91,6 @@ Since this is a fixture on organized tour itineraries, mid-morning to early afte
 
 ## How to visit like a local
 
-This is a very popular, well-trodden attraction rather than an under-the-radar find, so the smartest local-style move is timing, not secrecy. Arrive right at opening or after 3pm to slip in between tour-bus waves, which cluster mid-morning through early afternoon. Weekdays are calmer than weekends and Indonesian public holidays, when domestic family groups add to the international tour traffic. Most transactions on site — entry, food stalls, and shop purchases — are straightforward with cash (Indonesian rupiah) still widely preferred for smaller vendors, though card and QR-code mobile payments (like QRIS) are increasingly accepted; carry some small rupiah notes regardless.
+This is a very popular, well-trodden attraction rather than an under-the-radar find, so the smartest local-style move is timing, not secrecy. Aim for the edges of the day, since tour groups tend to cluster mid-morning through early afternoon. Weekdays are calmer than weekends and Indonesian public holidays, when domestic family groups add to the international tour traffic. Most transactions on site — entry, food stalls, and shop purchases — are straightforward with cash (Indonesian rupiah) still widely preferred for smaller vendors, though card and QR-code mobile payments (like QRIS) are increasingly accepted; carry some small rupiah notes regardless.
 
 Dress is casual but modest is appreciated given the cultural-heritage framing — light layers work well given the cooler climate. The most common visitor mistake is treating this as a quick drive-by stop and rushing through in 15 minutes; the displays reward a slower pace, and skipping ahead to Ulun Danu Beratan or the Botanic Garden right after works better if you actually give this stop its full 2–3 hours first. Confirm current opening hours and admission pricing before setting out, since these details can shift seasonally.

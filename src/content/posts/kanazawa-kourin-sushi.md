@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Kourin Sushi
 
 Kanazawa's reputation as a sushi destination rests on the Sea of Japan's cold-water fish and the produce that flows through Omicho Market daily. Kourin Sushi sits just north of that market, in the old merchant district of Bakuromachi, and has built a loyal following (4.7 stars across roughly 1,460 reviews) by serving that same market-grade seafood in a conveyor-belt format that keeps prices moderate and turnover quick. It's the kind of place locals bring visiting family when they want good sushi without a reservation or a formal, multi-course price tag.
@@ -54,7 +53,7 @@ Alternatively, the Kanazawa Loop Bus (both the right-loop and left-loop routes r
 
 ## What to Eat
 
-This is kaiten-zushi (conveyor-belt sushi), so the format itself is part of the experience: plates rotate past the counter, color-coded or priced by plate, and you can also order specific items directly from the chefs if you don't see what you want. Expect classics like maguro (tuna), hamachi (yellowtail), tako (octopus), and tamago (egg) alongside the Kaga specialties. Given the priceLevel (moderate, roughly ¥¥ on the standard scale), a satisfying meal of 8-10 plates plus miso soup or a small side generally lands well below what a formal sushi-ya near the market charges for an omakase set.
+This is kaiten-zushi (conveyor-belt sushi), so the format itself is part of the experience: plates rotate past the counter, color-coded or priced by plate, and you can also order specific items directly from the chefs if you don't see what you want. Expect classics like maguro (tuna), hamachi (yellowtail), tako (octopus), and tamago (egg) alongside the Kaga specialties. Prices here are moderate for the format, and a satisfying meal of 8-10 plates plus miso soup or a small side generally lands well below what a formal sushi-ya near the market charges for an omakase set.
 
 Because it's conveyor-belt style, don't skip the fresh wasabi and pickled ginger at the counter, and ask staff if you're unsure what a seasonal item is — many Kaga fish names don't have direct English equivalents and are worth asking about rather than guessing.
 

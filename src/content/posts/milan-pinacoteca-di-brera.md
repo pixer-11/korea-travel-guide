@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,7 +91,7 @@ Raphael's "Marriage of the Virgin," an early masterpiece with a perfectly constr
 
 ## When to go
 
-According to measured visitor patterns, both weekdays and weekends stay comparatively calm across the full 8am–8pm window, but weekends still see a real surge between 10am and 6pm, when tour groups and day-trippers cluster in the main halls. Aim to arrive close to opening or after 6pm on a weekend, or pick a weekday morning, to have the Mantegna and Raphael rooms with breathing room.
+According to measured visitor patterns, both weekdays and weekends stay comparatively calm across most of the day, but weekends still see a real surge between 10am and 6pm, when tour groups and day-trippers cluster in the main halls. Aim to arrive close to opening or after 6pm on a weekend, or pick a weekday morning, to have the Mantegna and Raphael rooms with breathing room.
 
 Spring and early autumn mornings are pleasant for lingering afterward in the Brera courtyard or the surrounding streets, but the museum itself is a good rainy-day plan any season since everything is indoors and unhurried.
 

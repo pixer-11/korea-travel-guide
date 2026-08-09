@@ -59,7 +59,6 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 ---
-
 ## Why this stop matters
 
 Foxborough's leg of the tour is a big deal for a simple reason: it's BTS's first world tour since the members completed their mandatory South Korean military service, and Gillette Stadium is one of only a handful of North American venues hosting the run. The Foxborough dates (August 5–6, 2026) sit early in a 79-date global tour, with the group also playing AT&T Stadium in Arlington, Texas on August 15–16.
@@ -76,7 +75,7 @@ Rideshare drop-off zones are typically set up at a distance from the gates on hi
 
 Concerts of this scale at Gillette usually mean gates opening a few hours before the announced set time, with stadium-wide security screening (bag policies at NFL/concert stadiums tend to restrict bag size significantly, so check Gillette's current policy before packing). Merchandise lines for major tours historically form early and move slowly, so fans chasing tour merch often arrive well before doors.
 
-Because exact set times, opening acts, and any local guest appearances haven't been officially detailed in the facts available here, treat any schedule you see online as provisional until it's confirmed by BTS's official channels or Gillette Stadium's event page.
+Because exact set times, opening acts, and any local guest appearances haven't been officially announced yet, treat any schedule you see online as provisional until it's confirmed by BTS's official channels or Gillette Stadium's event page.
 
 ## Where to stay and eat nearby
 

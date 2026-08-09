@@ -48,12 +48,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-Tanjung Aru is the beach Kota Kinabalu shows up for at the end of the day. It isn't a secluded cove — it's a working, well-loved city beach, roughly 4,000 reviews shy of being one of the most talked-about spots in Sabah, and on any clear evening you'll see why. The sand runs in a long, gently curving strip split into "First Beach" and "Second Beach," backed by a line of casuarina and coconut trees that filter the late light into long shadows across the shore.
+Tanjung Aru is the beach Kota Kinabalu shows up for at the end of the day. It isn't a secluded cove — it's a working, well-loved city beach, one of the most talked-about spots in Sabah, and on any clear evening you'll see why. The sand runs in a long, gently curving strip split into "First Beach" and "Second Beach," backed by a line of casuarina and coconut trees that filter the late light into long shadows across the shore.
 
 As the sun drops toward the horizon, the water turns the color of weak tea, then copper, then a flat pewter grey just before dark, and the silhouettes of the offshore islands — Gaya, Sapi, Manukan — sit out on the water like cutouts.
 

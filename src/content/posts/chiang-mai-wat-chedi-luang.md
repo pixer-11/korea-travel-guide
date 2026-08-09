@@ -68,7 +68,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Wat Chedi Luang is one of the most historically important temples in northern Thailand, built around a colossal chedi (stupa) that once stood over 80 meters tall before a 16th-century earthquake — and possibly cannon fire during a later Burmese siege — brought down its upper section. What remains is still an imposing, weathered brick-and-stucco mass ringed by naga serpent staircases and elephant sculptures at its base, giving it a gravitas that Chiang Mai's more polished, gilded temples don't quite match.
@@ -83,7 +82,7 @@ There's no train or BTS-style system in Chiang Mai, so taxis, songthaews, or a r
 
 ## What to see and do
 
-- **The Lanna-style viharn (assembly hall)** at the front, added in 1928, houses the principal Buddha image and is where locals come to make merit — worth pausing here before heading to the ruined chedi behind it.
+- **The Lanna-style viharn (assembly hall)** at the front houses the principal Buddha image and is where locals come to make merit — worth pausing here before heading to the ruined chedi behind it.
 - **The Great Chedi itself**: walk the full perimeter to see the different restoration states — one side rebuilt with UNESCO-consulted work in the 1990s, others left deliberately weathered to preserve historical authenticity. Look for the elephant caryatids and naga balustrades flanking the staircases.
 - **The city pillar shrine**: tucked to one side, marked by a large gum tree. Local belief holds that if this tree falls, misfortune will befall the city — it's fenced and protected accordingly. Non-Buddhists can view but sometimes access to the inner shrine building is restricted to men only or closed to visitors on certain days; check signage on arrival.
 - **Monk Chat**: on many afternoons, young monks studying English sit in a designated area to converse with visitors — a low-key, genuinely interesting way to ask questions about temple life.

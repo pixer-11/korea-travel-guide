@@ -60,7 +60,6 @@ faq:
     a: Take the CTA Red, Orange, or Green Line to Roosevelt station, or the Roosevelt Road Metra stop, then walk about 15–20 minutes east across Museum Campus, or catch the free campus shuttle bus.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -83,11 +82,10 @@ Families gravitate to the Crown Family PlayLab and the walk-through "Underground
 
 ## When to go
 
-Crowd patterns here are fairly predictable. On both weekdays and weekends, the calmest window is right at opening through roughly midday — specifically 9am to 6pm sees steadier, lighter traffic on weekdays, and the same holds true early on weekends. The crunch comes on weekends between 11am and 4pm, when school groups, families, and tour buses converge at once and the main hall and Sue's gallery both bottleneck. If your schedule allows, a weekday morning is the single best time to see the big-ticket exhibits without shuffling behind a crowd.
+Crowd patterns here are fairly predictable. On both weekdays and weekends, the calmest window is right at opening through roughly midday, and the same holds true early on weekends. The crunch comes on weekends between 11am and 4pm, when school groups, families, and tour buses converge at once and the main hall and Sue's gallery both bottleneck. If your schedule allows, a weekday morning is the single best time to see the big-ticket exhibits without shuffling behind a crowd.
 
 ## How to visit like a local
 
 Buy tickets online before you arrive — the general admission line at the door can be slow, and a phone ticket lets you walk straight to the entrance turnstile. Most exhibits accept tap-to-pay and mobile wallets throughout the building, including at the café counters, so you rarely need cash. Skip the coat check line by traveling light in warmer months; in winter, checking a heavy coat is worth the few minutes since the galleries run warm.
 
 The mistake most first-time visitors make is trying to see everything in one sweep — the building is genuinely enormous, spanning four public levels, so pick two or three halls (Sue, Egypt, and one hall of your choice) rather than racing corridor to corridor. If you're visiting more than one Museum Campus attraction in a day, the combined City Pass-style tickets can save money, but confirm current pricing and what's bundled before you buy, since offers change.
-

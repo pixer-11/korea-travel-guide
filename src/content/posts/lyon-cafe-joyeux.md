@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why this café stands out
@@ -90,9 +89,9 @@ Prices sit in the mid-range for central Lyon — not a bargain bakery, not a spl
 
 ## When to go
 
-Café Joyeux opens at 8:30am Monday through Saturday and 9:30am on Sunday, closing at 7pm every day of the week — useful to know if you're planning an early start or a late-afternoon coffee break rather than dinner. The quietest stretch is weekday mornings between 8:30am and 10am, when you can usually get a table without waiting and chat with staff without a queue building behind you.
+Café Joyeux keeps standard café hours, opening in the morning and closing in the early evening — worth checking ahead if you're planning an early start or a late-afternoon coffee break rather than dinner. The quietest stretch is weekday mornings between 8:30am and 10am, when you can usually get a table without waiting and chat with staff without a queue building behind you.
 
-Weekends are calmer too, but only up to a point: things stay manageable from opening until around 11am, after which the café fills up and stays busy through to closing at 7pm. If your priority is a relaxed visit rather than a quick grab-and-go, aim for that early window.
+Weekends are calmer too, but only up to a point: things stay manageable from opening until around 11am, after which the café fills up and stays busy through to closing. If your priority is a relaxed visit rather than a quick grab-and-go, aim for that early window.
 
 ## How to visit like a local
 

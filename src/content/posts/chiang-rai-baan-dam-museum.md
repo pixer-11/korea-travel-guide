@@ -57,7 +57,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 The road out of Chiang Rai city toward Nang Lae is flat and green, lined with longan orchards, and gives no hint of what's coming. Then you turn into a compound and the first black roofline appears through the trees — steep, temple-like, but wrong somehow, too severe to be a real wat. That's the point. Thawan Duchanee, one of Thailand's most celebrated modern artists, spent decades building this place as his home and studio, and it reads less like a museum than the inside of someone's dream.
@@ -82,7 +81,7 @@ Give yourself at least 90 minutes, longer if you like photography — the contra
 
 ## When to go
 
-Go on the earlier side of the day. Measured foot-traffic shows the calmest hours run from 9am to 6pm on both weekdays and weekends, but weekend crowds build steadily and peak between 1pm and 4pm — that's the window to avoid if you want breathing room between buildings for photos. Chiang Rai's cooler, dry season (roughly November to February) is the most comfortable time to walk the grounds without the sun overhead turning the black wood into a sauna.
+Go on the earlier side of the day. Mornings tend to be calmer, while weekend afternoons draw larger crowds — that's the window to avoid if you want breathing room between buildings for photos. Chiang Rai's cooler, dry season (roughly November to February) is the most comfortable time to walk the grounds without the sun overhead turning the black wood into a sauna.
 
 ## How to visit like a local
 

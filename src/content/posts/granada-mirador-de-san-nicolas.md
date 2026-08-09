@@ -80,7 +80,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -103,7 +102,7 @@ Many visitors combine the mirador with an evening at one of the tetería (Morocc
 
 ## When to go
 
-The measured foot-traffic pattern here is stark: mornings between 7am and 10am, on both weekdays and weekends, are consistently the quietest window, when you can actually get a spot at the railing without jostling. From noon onward, especially on weekends, the square fills steadily and stays busy all the way until 11pm — sunset hour being the peak of the peak, when tour groups, day-trippers, and photographers converge at once.
+The measured foot-traffic pattern here is stark: mornings tend to be the quietest time, before the crowds build later in the day, when you can actually get a spot at the railing without jostling. From noon onward, especially on weekends, the square fills steadily and remains crowded into the evening — sunset hour being the peak of the peak, when tour groups, day-trippers, and photographers converge at once.
 
 If your priority is the famous golden-hour view over a calm, uncrowded square, you genuinely can't have both; pick one. A sunrise visit gives you space and a cooler, softer light on the Alhambra's walls; a sunset visit gives you the dramatic color but a wall-to-wall crowd.
 

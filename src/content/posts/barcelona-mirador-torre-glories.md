@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -90,7 +89,7 @@ Plan on 45 minutes to an hour, more if you linger for sunset.
 
 ## When to go
 
-The deck is open every day, 10am to 10pm, with no seasonal variation listed. That late closing time matters — this is one of the few Barcelona viewpoints where you can watch the sky turn orange and then watch the city switch on its lights, all from the same spot.
+Check current opening hours before you go, since they can vary by season. A late closing time matters — this is one of the few Barcelona viewpoints where you can watch the sky turn orange and then watch the city switch on its lights, all from the same spot.
 
 Weekday evenings between 8pm and 10pm are the quietest stretch, according to foot-traffic patterns for the site. Weekends stay busier across the whole day, from opening at 10am right through to close, so there isn't a reliably quiet weekend window.
 

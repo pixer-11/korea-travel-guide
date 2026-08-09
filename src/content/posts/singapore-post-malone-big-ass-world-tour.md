@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 eventRecurring: false
 ---
-
 ## Why this show matters
 
 Post Malone has played Singapore before, but only as a surprise guest during the 2023 Formula 1 Singapore Grand Prix weekend concert series. The BIG ASS World Tour date on September 25, 2026 is different: it's his first proper solo headline concert in the city, staged at the 55,000-capacity National Stadium rather than a festival stage. Don Toliver, a regular collaborator and label-mate from the Houston hip-hop/R&B scene, opens — expect a night that swings between Post's genre-blending catalogue (pop, hip-hop, country-rock detours) and Toliver's melodic trap sound.
@@ -67,7 +66,7 @@ National Stadium shows in Singapore typically run with the retractable roof clos
 
 ## Food, drink and pre-show plans
 
-The Sports Hub has its own cluster of eateries at OCBC Square and the Kallang Wave Mall next door, useful if you want a proper sit-down meal before the show rather than concourse concession food. Kallang itself borders the Old Airport Road Food Centre, a well-known hawker centre a short ride or 20-minute walk away, good for a cheap, fast dinner of char kway teow or oyster omelette before heading in.
+The Sports Hub has its own cluster of eateries at OCBC Square and the Kallang Wave Mall next door, useful if you want a proper sit-down meal before the show rather than concourse concession food. Kallang itself borders the Old Airport Road Food Centre, a well-known hawker centre a short ride or 20-minute walk away, good for a cheap, fast dinner before heading in.
 
 Aim to eat before you arrive — queues for stadium concessions during a full sellout can be long and options limited.
 

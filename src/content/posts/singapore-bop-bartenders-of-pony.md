@@ -47,7 +47,7 @@ Grab or a taxi will drop you within a short walk of the door if you're coming fr
 
 ## What to expect
 
-Because BOP only opened on January 31, 2026, treat any specific menu detail you read elsewhere as provisional until you're at the bar with a list in hand — but the concept itself is clear: Korean-inflected cocktails and dining designed to be shared, in a format built by people who've spent years refining bar programs at one of Singapore's most decorated groups.
+Because BOP is a recent opening, treat any specific menu detail you read elsewhere as provisional until you're at the bar with a list in hand — but the concept itself is clear: Korean-inflected cocktails and dining designed to be shared, in a format built by people who've spent years refining bar programs at one of Singapore's most decorated groups.
 
 Expect the kind of technical precision Jigger & Pony is known for applied to Korean flavour references and drinking customs, rather than a generic "Asian fusion" cocktail list. Go in curious rather than with a fixed order in mind.
 

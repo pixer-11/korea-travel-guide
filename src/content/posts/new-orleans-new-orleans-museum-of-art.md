@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -88,7 +87,7 @@ Bring good shoes — the paths are gravel and occasionally uneven near the water
 
 ## When to go
 
-NOMA is closed Mondays. On Tuesday, Thursday, Friday, Saturday, and Sunday it's open 10am–5pm; Wednesday it stays open later, until 7pm, which is the best window if you want a slower, later visit.
+NOMA is closed Mondays. Hours vary through the rest of the week, with one evening typically staying open later than the others, which is the best window if you want a slower, later visit — check current hours before you go.
 
 Given its popularity, weekends bring the heaviest crowds, especially early afternoon when tour groups and families overlap. A Tuesday or Thursday morning right at opening is your quietest bet.
 

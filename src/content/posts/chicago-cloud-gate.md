@@ -39,7 +39,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Cloud Gate is one of the most photographed public artworks in the world, and it earns the attention. British artist Anish Kapoor designed the 110-ton, seamless stainless-steel sculpture to evoke a liquid mercury droplet, and its 168 polished plates were welded and buffed until the seams vanished — a feat of fabrication that took over two years to complete before its 2006 dedication.
@@ -48,7 +47,7 @@ The mirrored skin reflects and distorts Chicago's skyline, including the Aon Cen
 
 ## Getting there
 
-Cloud Gate sits in AT&T Plaza, in the northwest section of Millennium Park, right at 201 E Randolph St, Chicago, IL 60602. The closest CTA rail stop is the Randolph/Washington Millennium Station on the Metra Electric line, essentially underneath the park, but for regular "L" service, take the Red, Blue, Brown, Green, Orange, Purple, or Pink lines to the Lake stop (Red Line) or Washington/Wabash, both a five-to-ten-minute walk east.
+Cloud Gate sits in AT&T Plaza, in the northwest section of Millennium Park, right at 201 E Randolph St, Chicago, IL 60602. The closest commuter rail stop is Millennium Station on the Metra Electric line, essentially underneath the park, but for regular "L" service, take the Red, Blue, Brown, Green, Orange, Purple, or Pink lines to the Lake stop (Red Line) or Washington/Wabash, both a five-to-ten-minute walk east.
 
 Several downtown bus routes run along Michigan Avenue and Randolph Street within a block or two. If driving, the Millennium Park Garage beneath the park on Michigan Avenue is the most convenient parking, with entrances off Columbus Drive and Monroe Street. The sculpture is a flat, fully accessible walk from any of these points — no stairs required to reach the plaza itself.
 

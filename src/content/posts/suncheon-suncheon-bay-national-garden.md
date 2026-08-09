@@ -68,7 +68,6 @@ faq:
     a: The National Garden and Suncheon Bay Wetland Reserve are adjacent but distinct areas connected by a path, shuttle cart, and cable car — check current combined-ticket options at the entrance before deciding how much time to allot.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel the scale of this place before you understand it. From the main gate, the path fans out into a patchwork of national pavilions — a Dutch garden with wooden clogs and tulip beds, a French formal parterre, a US-style prairie planting, a Japanese garden with raked gravel — each one a small, self-contained world planted right next to its neighbor.
@@ -93,7 +92,7 @@ Start at the Lake Garden and Skywalk, then work outward through the internationa
 
 ## When to go
 
-The garden is open every day, 9am to 8pm, with no weekly closure. Weekends fill up hard between 11am and 6pm — that's the window to actively avoid if you dislike crowds. Weekdays run steady but manageable throughout the full 9am–8pm span, and on weekends specifically, the calmest stretch is the last hour, 7 to 8pm, when the light softens and the day-trip crowds have mostly cleared out.
+The garden is open daily; check current hours before you go, since they can shift by season. Weekends fill up hard between 11am and 6pm — that's the window to actively avoid if you dislike crowds. Weekdays run steady but manageable throughout the full 9am–8pm span, and on weekends specifically, the calmest stretch is the last hour, 7 to 8pm, when the light softens and the day-trip crowds have mostly cleared out.
 
 Early morning on a weekday, right at opening, is your best bet for quiet paths and good photo light without editing people out of every frame.
 

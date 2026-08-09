@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -78,7 +77,7 @@ Parking in River North is metered street parking or pricier garage lots — walk
 
 ## When to go
 
-The building keeps retail hours: 9am to 5pm, Monday through Friday. It's closed Saturday and Sunday, so don't build a weekend River North itinerary around it.
+The building keeps retail hours during the week. It's closed Saturday and Sunday, so don't build a weekend River North itinerary around it.
 
 Weekday mornings right after opening tend to be calmest, before lunchtime shoppers and nearby office workers filter through. Since it functions as a working store, there's no rush — you're not competing with tour groups or timed-entry lines.
 
@@ -104,4 +103,3 @@ Because this is a functioning store inside a landmark, the etiquette is simple: 
 - **Skip the rush hours around lunch** near the Loop's office towers if you want the sidewalk to yourself for photos
 
 Because it's under most visitors' radar compared to Chicago's marquee sights, you'll likely have the exterior view mostly to yourself, even on a busy River North afternoon. That's the real appeal here — a five-minute architectural surprise tucked into an ordinary shopping block, not a ticketed attraction demanding hours of your day.
-

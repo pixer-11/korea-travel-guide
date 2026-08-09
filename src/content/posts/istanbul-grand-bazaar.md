@@ -74,7 +74,7 @@ Gold and silver jewelry dominates Kalpakçılar Caddesi, the bazaar's widest and
 
 ## When to go
 
-The bazaar operates during standard daytime business hours through the week, and is completely closed on Sundays — plan around that if it's the only day you have free in Istanbul. Given how heavily visited it is, the real question isn't which day but which hour: arriving close to opening, before the cruise-ship and tour-bus crowds filter in from around mid-morning onward, gives you a genuinely different experience — shopkeepers still setting out displays, wide lanes you can actually see the ceiling from. By early afternoon on a Saturday, some of the main thoroughfares can be shoulder to shoulder.
+The bazaar operates during standard daytime business hours through the week, and closes one day a week — plan around that if it's the only day you have free in Istanbul. Given how heavily visited it is, the real question isn't which day but which hour: arriving close to opening, before the cruise-ship and tour-bus crowds filter in from around mid-morning onward, gives you a genuinely different experience — shopkeepers still setting out displays, wide lanes you can actually see the ceiling from. By early afternoon on a Saturday, some of the main thoroughfares can be shoulder to shoulder.
 
 ## How to visit like a local
 

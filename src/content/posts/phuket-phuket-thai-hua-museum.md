@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why the Thai Hua Museum matters
@@ -64,7 +63,7 @@ At the center of the mansion is a small coffee shop that spills into the courtya
 
 ## Getting there and timing your visit
 
-The museum sits at 28 Krabi Road in Talat Nuea, right in the historic core of Old Phuket Town — an easy walk (10–15 minutes) from the town's main landmarks like the Phuket Thai Hua Museum's near-neighbors on Thalang, Dibuk, and Soi Romanee, all lined with similar Sino-Portuguese facades, street art, and old shopfronts. There's no train or metro on Phuket, so most visitors arrive by rental car, motorbike, taxi, or a short tuk-tuk/Grab ride from wherever they're staying.
+The museum sits at 28 Krabi Road in Talat Nuea, right in the historic core of Old Phuket Town — an easy walk (10–15 minutes) from nearby landmark streets like Thalang, Dibuk, and Soi Romanee, all lined with similar Sino-Portuguese facades, street art, and old shopfronts. There's no train or metro on Phuket, so most visitors arrive by rental car, motorbike, taxi, or a short tuk-tuk/Grab ride from wherever they're staying.
 
 If you're coming from Phuket Town's other sights — the Phuket Philatelic Museum, Shrine of Serene Light, or the weekend Old Town walking street — you can walk between most of them.
 

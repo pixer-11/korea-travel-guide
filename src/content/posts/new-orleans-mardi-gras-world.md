@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -71,11 +70,11 @@ If you'd rather not walk, a short rideshare from the Quarter or the Garden Distr
 
 Tours leave roughly every hour throughout the day and start with a short video on Carnival history before turning you loose in the working den itself. You'll walk past sculptors' benches thick with paint splatter, foam-carving stations, and rows of finished float sections waiting for their season. Look for the recurring cast of characters — Bacchus's giant head, the Baby New Year, camels and kings from the Twelfth Night traditions — many of which appear again and again in different parades because the studio reuses and repaints float bodies year after year.
 
-Photo ops are everywhere: you're encouraged to climb onto float steps, pose with oversized props, even try on sequined Carnival costumes in a dress-up area. Every visit includes a slice of king cake, the purple-green-gold iced pastry that's a Carnival season staple, so you get a taste of the culture along with the visuals.
+Photo ops are everywhere: you're encouraged to climb onto float steps, pose with oversized props, even try on sequined Carnival costumes in a dress-up area. King cake, the purple-green-gold iced pastry that's a Carnival season staple, embodies that same spirit, giving you a taste of the culture along with the visuals.
 
 ## When to go
 
-The building is open daily, 9am to 5:30pm, with no weekly closures, so there's flexibility in planning around it. Because it draws heavy tour-bus and cruise-ship traffic (many cruise passengers stop here before boarding ships docked nearby), late morning through early afternoon tends to be the busiest stretch. Arriving at or shortly after the 9am opening, or catching one of the last couple of tours before 5:30pm closing, generally means smaller groups and more elbow room among the floats.
+The building is open daily, so there's flexibility in planning around it. Because it draws heavy tour-bus and cruise-ship traffic (many cruise passengers stop here before boarding ships docked nearby), late morning through early afternoon tends to be the busiest stretch. Arriving at or shortly after the 9am opening, or catching one of the last couple of tours before 5:30pm closing, generally means smaller groups and more elbow room among the floats.
 
 ## How to visit like a local
 
@@ -84,4 +83,3 @@ This is a well-known, well-visited attraction rather than a quiet find, so the r
 Most visitors pay by card at the counter, and there's no tipping expectation for the tour guides beyond the usual U.S. norm of a few dollars if a guide goes out of their way. The mistake first-timers make is treating this as a quick photo stop — the tour itself, workshop floor included, easily fills an hour, and if you linger in the gift shop and costume area afterward you can stretch a visit past ninety minutes.
 
 Combine it with a riverfront walk toward the Convention Center or Spanish Plaza afterward, since you're already down by the water and the walk back into the Warehouse District's galleries and restaurants is flat and scenic.
-

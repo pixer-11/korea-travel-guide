@@ -70,7 +70,7 @@ The park also has sports facilities, including tennis courts and an athletic fie
 
 ## When to go
 
-Cherry blossom season, typically the very end of March into early April, is when Chiba Park gets its busiest and its most photogenic — expect picnicking crowds and a festive, unhurried mood. The lotus pond is the other seasonal highlight, blooming through July and into August; because lotus flowers open in the early morning and close by midday, arriving before 9am gives you the best chance of seeing them fully open.
+Cherry blossom season, typically the very end of March into early April, is when Chiba Park gets its busiest and its most photogenic — expect picnicking crowds and a festive, unhurried mood. The lotus pond is the other seasonal highlight, blooming through July and into August; because lotus flowers open in the early morning and close by midday, visiting earlier in the day gives you the best chance of seeing them fully open.
 
 Outside these two windows, the park is simply a pleasant, low-key green space — good for a stroll, a rest between errands, or a break from Chiba's downtown streets.
 

@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -81,4 +80,4 @@ Battery Park itself is worth a slow walk — the SeaGlass Carousel, the Merchant
 
 Skip the on-site ticket line entirely by buying Statue Cruises ferry tickets online in advance — this is the single biggest time-saver, since walk-up lines at the Castle Clinton windows can stretch long on busy mornings. If you only want to see the fort and aren't taking a ferry, you don't need a ticket at all — entry to walk around Castle Clinton and Battery Park is free, and locals often cut through it as a quiet shortcut toward the waterfront rather than treating it as a tourist stop.
 
-Don't make the common mistake of assuming this is Ellis Island itself — it's the departure point, not the destination, and confusing the two leads to a lot of last-minute scrambling. Security screening (similar to airport-style checks) happens here before ferry boarding, so keep bags light. There's no dress code or ticket booth etiquette to worry about; it's simply first-come, first-served for the ferry queue, cash or card both work at the kiosks, and nobody expects tipping.
+Don't make the common mistake of assuming this is Ellis Island itself — it's the departure point, not the destination, and confusing the two leads to a lot of last-minute scrambling. Security screening (similar to airport-style checks) happens here before ferry boarding, so keep bags light. There's no dress code or ticket booth etiquette to worry about; it's simply first-come, first-served for the ferry queue, and cash or card both work at the kiosks.

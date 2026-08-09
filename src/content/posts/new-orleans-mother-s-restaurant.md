@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -96,13 +95,13 @@ Because it sits so close to the convention center and hotel row, it also fills u
 
 ## What to eat
 
-Order at the counter the way regulars do: the "Ferdi Special" is the signature move, a po' boy stacked with debris — the shredded roast beef and drippings left over from slow-roasting — plus baked ham, gravy, and dressed with lettuce, tomato, and mayo. The baked ham itself, cured and slow-cooked in-house, is what put Mother's on the map decades ago and still shows up in half the dishes on the board.
+Order at the counter the way regulars do: one popular order is a po' boy stacked with debris — the shredded roast beef and drippings left over from slow-roasting — plus baked ham, gravy, and dressed with lettuce, tomato, and mayo. The baked ham itself, cured and slow-cooked in-house, is what put Mother's on the map decades ago and still shows up in half the dishes on the board.
 
-For breakfast, the biscuits and grits or a plate of eggs with that same debris gravy are the move, especially since the doors open at 7am daily and breakfast service runs the full length of the morning. Sides worth grabbing include red beans and rice and the mac and cheese, both steam-table classics that taste like they've been made the same way for generations.
+For breakfast, there are biscuits and grits and egg dishes with that same debris gravy on offer. Sides worth grabbing include red beans and rice and the mac and cheese, both steam-table classics that taste like they've been made the same way for generations.
 
 ## When to go
 
-Mother's opens at 7am and stays open until 10pm every day of the week, so there's real flexibility here — this isn't a lunch-only spot. The measured foot-traffic pattern shows the calmest stretches are early mornings and the off-peak weekday hours; weekends are a different story; from 11am to 9pm on Saturday and Sunday the line can snake toward the door as brunch crowds, tourists, and conventioneers all converge at once.
+Mother's keeps long hours every day of the week, so there's real flexibility here — this isn't a lunch-only spot. The measured foot-traffic pattern shows the calmest stretches are early mornings and the off-peak weekday hours; weekends are a different story; on Saturday and Sunday the line can snake toward the door as brunch crowds, tourists, and conventioneers all converge at once.
 
 If you can manage an early breakfast or a late-morning visit before 11, or swing by mid-afternoon on a weekday, you'll skip the worst of it.
 

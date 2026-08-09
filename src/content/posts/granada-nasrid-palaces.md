@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come through a plain stone doorway off a gravel path, past a guard checking tickets against passports, and the noise of the Alhambra's gardens falls away. Inside, the Mexuar hall is dim and cool, its wooden ceiling blackened with age, and it takes a second for your eyes to adjust before you notice the inscriptions running around the walls — repeating bands of Arabic script that read, over and over, "There is no victor but God."
@@ -96,7 +95,7 @@ Give the palaces a focused hour, though most visitors linger 90 minutes to two h
 
 ## When to go
 
-The complex opens at 8am, and that first morning stretch is measurably the quietest time to be inside, on both weekdays and weekends. The crush builds through the late morning and holds steady from about 11am to 6pm on weekends, when tour groups move through in waves and the narrow rooms of the Comares Palace can back up. If your ticket options allow it, choose an 8am or early slot, or alternatively a late afternoon entry as the day-trip groups clear out before evening.
+Early morning is measurably the quietest time to be inside, on both weekdays and weekends. The crush builds through the late morning and holds steady from about 11am to 6pm on weekends, when tour groups move through in waves and the narrow rooms of the Comares Palace can back up. If your ticket options allow it, choose an 8am or early slot, or alternatively a late afternoon entry as the day-trip groups clear out before evening.
 
 ## How to visit like a local
 

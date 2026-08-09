@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -87,9 +86,9 @@ The finale is the rooftop, where the chimneys wear mosaic helmets and the dragon
 
 ## When to go
 
-The building opens at 8:30am and stays open every day of the week until 10:30pm, so there's no early-closing day to plan around here. Crowd patterns are consistent and predictable: both weekdays and weekends are calmest right at opening and in the evening, while the stretch from noon to 8pm on weekends is when the entrance hall and the Noble Floor get genuinely congested.
+The building is open daily, so there's no early-closing day to plan around here. Crowd patterns are consistent and predictable: both weekdays and weekends are calmest right at opening and in the evening, while the stretch from noon to 8pm on weekends is when the entrance hall and the Noble Floor get genuinely congested.
 
-If you can manage a weekday morning near 8:30am, or come back after dinner when the façade is lit and the crowds thin, you'll get a noticeably different, quieter experience of the same rooms.
+If you can manage a weekday morning near opening time, or come back after dinner when the façade is lit and the crowds thin, you'll get a noticeably different, quieter experience of the same rooms.
 
 ## How to visit like a local
 

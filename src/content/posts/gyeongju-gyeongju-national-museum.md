@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come up the long approach road off Iljeong-ro and the first thing that registers is how much space the museum gives itself — lawns, pine trees, a reflecting pond, and low stone-and-glass pavilions arranged so no single building dominates. That restraint is deliberate. Everything here exists to point back to Silla, the kingdom that ruled from Gyeongju for close to a thousand years, and the museum treats its objects like the relics of a still-living capital rather than dusty curiosities in glass boxes.
@@ -87,7 +86,7 @@ Save time for the bell pavilion: the Bell of King Seongdeok, sometimes called th
 
 ## When to go
 
-Late morning through mid-afternoon on weekends is when the museum feels busiest — school groups, tour buses, and day-trippers from Busan and Daegu tend to converge between 11am and 6pm on Saturdays and Sundays. If a weekday is possible, the whole 10am–7pm stretch runs noticeably quieter and you can linger over the gold crowns without shuffling past someone's shoulder. If a weekend is your only option, aim for after 6pm, when the galleries thin out considerably before closing.
+Late morning through mid-afternoon on weekends is when the museum feels busiest — school groups, tour buses, and day-trippers from Busan and Daegu tend to converge on Saturdays and Sundays. If a weekday is possible, it tends to run noticeably quieter and you can linger over the gold crowns without shuffling past someone's shoulder. If a weekend is your only option, aim for after 6pm, when the galleries thin out considerably before closing.
 
 Spring cherry blossoms and autumn foliage along the approach road make either season worth timing your trip around, but confirm current opening hours before you go, since museum schedules shift seasonally.
 
@@ -95,4 +94,4 @@ Spring cherry blossoms and autumn foliage along the approach road make either se
 
 Treat the museum as a companion piece to the tomb parks rather than a standalone stop — locals and repeat visitors typically walk it as part of a loop with Daereungwon and Cheomseongdae, seeing the artifacts either right before or right after the sites they came from. Entry to the main exhibition halls has historically been free, though special exhibitions sometimes carry a separate fee, so check the day's signage at the entrance rather than assuming.
 
-There's rarely a ticket queue to worry about, so the real trick is timing: come on a weekday if you can, or slide into the 6–9pm weekend window. Signage is bilingual throughout in Korean and English, and borrowing the audio guide or joining a scheduled docent tour (ask at the information desk) gets you far more out of the crown and bell galleries than reading labels alone.
+There's rarely a ticket queue to worry about, so the real trick is timing: come on a weekday if you can, or visit later in the day on weekends. Signage is bilingual throughout in Korean and English, and borrowing the audio guide or joining a scheduled docent tour (ask at the information desk) gets you far more out of the crown and bell galleries than reading labels alone.

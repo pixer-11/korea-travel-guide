@@ -37,7 +37,6 @@ faq:
     a: There's no direct public transit to Senaru; most visitors hire a private car or motorbike from Senggigi, the airport, or take a boat to Bangsal then arrange onward transport, or join an organized Rinjani-area day tour.
 aiGenerated: true
 ---
-
 ## Why go
 
 Sendang Gile is one of Lombok's most photographed natural sites, and the rating (4.6 from over 2,000 reviews) reflects how consistently it delivers: a wide curtain of water dropping into a cool pool, framed by rainforest on the lower flank of Mount Rinjani. It's actually two waterfalls in one outing — Sendang Gile itself, a short walk from the entrance, and Tiu Kelep, a taller, more dramatic falls another 30–45 minutes further up the valley. Most visitors combine both into a single half-day trip.
@@ -70,4 +69,4 @@ Pack a dry bag or plastic sleeve for your phone if you plan to swim, and carry o
 
 ## Nearby to combine
 
-Senaru's Rinjani trekking post and a handful of warungs serving simple Sasak meals (like ayam taliwang) sit right by the trailhead, making it easy to refuel after the walk. Many itineraries pair Sendang Gile with a stop at the nearby Rinjani viewpoint or continue north to Lombok's coastal villages the same day.
+Senaru's Rinjani trekking post and a handful of warungs sit right by the trailhead, making it easy to refuel after the walk. Many itineraries pair Sendang Gile with a stop at the nearby Rinjani viewpoint or continue north to Lombok's coastal villages the same day.

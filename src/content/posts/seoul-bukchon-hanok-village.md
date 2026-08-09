@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Bukchon feels different from the rest of Seoul
@@ -86,7 +85,7 @@ The village sits between two subway stops, and either works: Anguk Station on Li
 
 ## When to go
 
-Bukchon is open daily, 10am to 5pm, and this isn't a place to stretch past dusk — there's no lighting plan for tourists, and by evening the residential streets are simply dark and quiet. The measured foot traffic backs up what you'd guess: the calmest hour, on both weekdays and weekends, is 10am–11am, right at opening. Avoid rolling in between noon and 5pm on a weekend, when the narrow lanes — especially Bukchon-ro 11-gil — fill with tour groups and the photo queue at the main viewpoint can stall completely.
+Bukchon itself has no gates or set opening hours since it's a lived-in residential district, and this isn't a place to stretch past dusk — there's no lighting plan for tourists, and by evening the residential streets are simply dark and quiet. The measured foot traffic backs up what you'd guess: the calmest hour, on both weekdays and weekends, is 10am–11am, right at opening. Avoid rolling in between noon and 5pm on a weekend, when the narrow lanes — especially Bukchon-ro 11-gil — fill with tour groups and the photo queue at the main viewpoint can stall completely.
 
 Spring (cherry blossoms) and autumn (foliage against the tiled roofs) are the visual high points, which also means bigger crowds in those seasons — an early arrival matters even more then.
 
@@ -97,4 +96,3 @@ Come at opening. The 10–11am window isn't just quieter for you — it's quiete
 If you want the hanbok photos, rent from a shop near Anguk Station rather than hauling a bulky outfit uphill. There's no admission fee and nothing to book, so budget-wise this is essentially free beyond whatever tea, hanbok rental, or workshop you choose to pay for, all cash- or card-friendly like the rest of Seoul. Because this is a very-visited landmark rather than an undiscovered corner, the real "local" move isn't finding a secret street — it's timing: go early, avoid the noon-to-5pm weekend crush, and treat the private homes with the same restraint you'd want shown at your own front gate.
 
 Pair the visit with nearby Gyeongbokgung or Changdeokgung on the same trip, since both are close enough to fold into a single morning.
-

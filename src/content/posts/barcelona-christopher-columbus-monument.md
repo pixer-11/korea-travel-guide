@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why it's here
@@ -67,7 +66,7 @@ The Golondrinas harbor-tour boats depart from docks right beside the monument, a
 
 Up close, the base rewards a slow circle on foot: bronze reliefs depict scenes from Columbus's voyages, and the four corners are guarded by seated lion figures that generations of visitors have posed astride for photos. Inside the column's base is a small lift that carries visitors up to a viewing platform just beneath the statue's feet — the payoff is a wide-angle look back up La Rambla on one side and out over the fishing boats and cruise-ship berths of Port Vell on the other.
 
-It's a short ride and a tight platform, not a long visit, but the vantage point is unlike anything else in this part of the city since almost nothing else nearby lets you look down on the harbor. Note that access to the lift and platform runs only within the same 8:30am–2:30pm window every day of the week, so afternoon or evening plans to go up won't work — the plaza and statue itself remain visible and photographable at any hour, but the interior closes at 2:30pm sharp.
+It's a short ride and a tight platform, not a long visit, but the vantage point is unlike anything else in this part of the city since almost nothing else nearby lets you look down on the harbor. Note that access to the lift and platform runs only within a limited daily opening window in the morning, so afternoon or evening plans to go up won't work — the plaza and statue itself remain visible and photographable at any hour, but the interior closes at 2:30pm sharp.
 
 ## When to go
 

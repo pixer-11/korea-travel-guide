@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -94,9 +93,9 @@ Outside, follow the garden's original WPA-era paths past reflecting pools and sc
 
 ## When to go
 
-The garden is closed Mondays, open Tuesday through Sunday from 10am to 4:30pm. Confirm hours on the official site before you go, since seasonal adjustments do happen around holidays.
+The garden operates on a set schedule with a weekly closing day. Confirm hours on the official site before you go, since seasonal adjustments do happen around holidays.
 
-Weekends between 10am and 4pm are the busiest stretch, so if your schedule allows it, go on a weekday morning instead. Spring is the showcase season for camellias and azaleas, but the greenhouses make this a worthwhile stop even in the muggier summer months when you'll appreciate the shade and air conditioning inside them.
+Weekends tend to be the busiest time to visit, so if your schedule allows it, go on a weekday morning instead. Spring is the showcase season for camellias and azaleas, but the greenhouses make this a worthwhile stop even in the muggier summer months when you'll appreciate the shade and air conditioning inside them.
 
 ## How to visit like a local
 
@@ -110,4 +109,3 @@ Cash and card are both accepted at the gate. This isn't a hidden spot; it's a we
 - Wear shoes you don't mind getting a little damp near the fountains and pools
 
 The most common mistake is treating this as a quick 20-minute stroll. The greenhouses alone reward a slow pace, and the outdoor gardens spread out further than the entrance suggests. Budget close to two hours if you want to actually read the plant labels instead of just walking past them.
-

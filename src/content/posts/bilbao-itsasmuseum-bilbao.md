@@ -91,7 +91,7 @@ If you'd rather not walk, Bilbao's tram line (Euskotran) stops near the Euskaldu
 
 ## When to go
 
-The museum is open most days of the week, and closed all day Monday — plan around that if Monday is otherwise a free day on your itinerary. Crowd patterns show weekends staying busy across the entire opening window, from 11am right through to 7pm, so if you're visiting on a Saturday or Sunday, don't expect a lull later in the day. Weekday mornings, shortly after the 11am opening, are the more comfortable option if your schedule allows it.
+The museum is open most days of the week, though it's worth confirming the exact hours before you go — plan around that if your itinerary is tight on time. Crowd patterns show weekends staying busy across the entire opening window, so if you're visiting on a Saturday or Sunday, don't expect a lull later in the day. Weekday mornings, shortly after the 11am opening, are the more comfortable option if your schedule allows it.
 
 ## How to visit like a local
 

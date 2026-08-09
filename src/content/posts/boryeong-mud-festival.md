@@ -61,7 +61,6 @@ eventOrganizer:
   name: "Boryeong Festival Tourism Foundation (보령축제관광재단)"
   url: "https://www.mudfestival.or.kr/"
 ---
-
 ## Why go
 
 Boryeong Mud Festival is Korea's most famous summer event, built around the simple idea that the mineral-rich mud from the tidal flats near Daecheon Beach is good for your skin — and even better for a party. What began in the 1990s as a marketing push for a local cosmetics line has grown into a two-week beach festival drawing hundreds of thousands of visitors, including a large share of foreign tourists and expats.
@@ -70,7 +69,7 @@ Expect mud wrestling rings, mud slides, giant inflatable mud pools, body-paintin
 
 ## Getting there
 
-Daecheon Beach sits in Boryeong, South Chungcheong Province, on Korea's west coast. The easiest way from Seoul is by train: take a Janghang Line service from Yongsan Station to Daecheon Station, a trip of roughly two to two and a half hours depending on the train type (ITX-Mugunghwa or Mugunghwa). From Daecheon Station, the beach is about 3 km away — taxis take 10–15 minutes, and during the festival period extra shuttle buses and local buses run directly between the station and the festival grounds.
+Daecheon Beach sits in Boryeong, South Chungcheong Province, on Korea's west coast. The easiest way from Seoul is by train: take a Janghang Line service from Yongsan Station to Daecheon Station, a trip of roughly two to two and a half hours depending on the train type (ITX-Saemaeul or Mugunghwa). From Daecheon Station, the beach is about 3 km away — taxis take 10–15 minutes, and during the festival period extra shuttle buses and local buses run directly between the station and the festival grounds.
 
 Intercity buses also connect Boryeong to Seoul's Central City Terminal and other major cities, with journeys similar in length to the train. If driving, expect heavy congestion and limited parking near the beach during peak festival weekends, so arriving early or using public transit is strongly advised.
 
@@ -78,7 +77,7 @@ Intercity buses also connect Boryeong to Seoul's Central City Terminal and other
 
 The festival grounds stretch along Daecheon Beach's main strip, where organizers set up the signature attractions: mud pools deep enough to wallow in, mud slides that dump you straight into the Yellow Sea shallows, and a "mud prison" where you get gleefully smeared and photographed. Body painting booths, mud skiing, and a mega mud tub area for kids and families run during daylight hours, while evenings shift toward concert stages featuring K-pop and rock acts, plus fireworks over the water.
 
-Beyond the mud zone, Daecheon Beach itself is one of the west coast's most popular white-sand beaches, backed by a boardwalk lined with seafood restaurants, convenience stores, and pojangmacha (street food tents) serving grilled shellfish, spicy tteokbokki, and cold beer. Try local specialties like ganghwa-style seafood pancakes or fresh sea mustard soup at nearby eateries, and rinse off at the beach's outdoor shower facilities before heading back to your accommodation.
+Beyond the mud zone, Daecheon Beach itself is one of the west coast's most popular white-sand beaches, backed by a boardwalk lined with seafood restaurants, convenience stores, and pojangmacha (street food tents) serving grilled shellfish, spicy tteokbokki, and cold beer. Try local specialties like seafood pancakes or fresh sea mustard soup at nearby eateries, and rinse off at the beach's outdoor shower facilities before heading back to your accommodation.
 
 ## When to go
 

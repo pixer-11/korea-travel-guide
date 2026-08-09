@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -84,7 +83,7 @@ Don't skip the basement level, where archaeological finds from the Aix region �
 
 ## When to go
 
-Crowd patterns here are genuinely predictable. Both weekdays and weekends run calmest in the 10am–7pm window right after opening — arriving close to 10am gives you the emptiest rooms before tour groups and day-trippers build up. On weekends specifically, avoid the midday stretch: traffic through the galleries peaks between 12pm and 6pm, when the museum fills with families and coach groups working Aix into a day trip from Marseille or Marseille-Provence Airport. If your schedule is flexible, a weekday morning is the single best move you can make here.
+Crowd patterns here are genuinely predictable. Both weekdays and weekends run calmest right after opening — arriving close to 10am gives you the emptiest rooms before tour groups and day-trippers build up. On weekends specifically, avoid the midday stretch, when the museum fills with families and coach groups working Aix into a day trip from Marseille or Marseille-Provence Airport. If your schedule is flexible, a weekday morning is the single best move you can make here.
 
 ## How to visit like a local
 

@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -77,7 +76,7 @@ Buy your ticket at the gate or through a local ticketing app rather than a third
 
 There's no tipping expected anywhere in the garden. The single biggest tourist mistake here is treating the rockery like a photo backdrop and never actually walking its interior — the tunnels loop and double back, and half the fun is the walk itself, not the view from outside. Wear shoes with grip, since some of the stone steps inside the rockery are uneven and can be slick after rain.
 
-Because it's a smaller, quieter stop compared to Suzhou's bigger-name gardens, you can often have long stretches of the stone maze to yourself if you avoid the late-morning and early-afternoon rush — arrive with the gates or come in after 4pm for the most peaceful pass through.
+Because it's a smaller, quieter stop compared to Suzhou's bigger-name gardens, you can often have long stretches of the stone maze to yourself if you avoid the late-morning and early-afternoon rush — arrive with the gates or in the late afternoon for the most peaceful pass through.
 
 ## Nearby to combine
 

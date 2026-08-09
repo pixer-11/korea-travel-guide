@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,7 +68,7 @@ Brass bands cluster near the Cabildo steps, trumpets bright and a little raw in 
 
 ## The buildings worth a closer look
 
-St. Louis Cathedral is open to visitors outside of services and costs nothing to step inside — the ceiling murals and the hush after the square's noise are worth the two minutes it takes. The Cabildo, where the Louisiana Purchase transfer documents were signed in 1803, and the Presbytère next door now house Louisiana State Museum exhibits (Mardi Gras history in the Presbytère, in particular, is a good one if you have another half hour). Both charge admission, so check current hours and ticket prices before you go, since museum schedules shift seasonally.
+St. Louis Cathedral is open to visitors outside of services — the ceiling murals and the hush after the square's noise are worth the two minutes it takes. The Cabildo, where the Louisiana Purchase transfer documents were signed in 1803, and the Presbytère next door now house Louisiana State Museum exhibits (Mardi Gras history in the Presbytère, in particular, is a good one if you have another half hour). Both charge admission, so check current hours and ticket prices before you go, since museum schedules shift seasonally.
 
 ## Getting there
 

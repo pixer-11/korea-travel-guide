@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 The Island Bangkok has built one of the strongest reputations of any restaurant in the old-city area, holding a 4.9 rating across more than 14,600 reviews — a volume and score that put it well ahead of most competitors in Phra Nakhon district. It's the kind of place travel forums and Bangkok expats mention repeatedly for a reliable, atmospheric Thai dining experience without needing to venture into the more touristy strip of Khao San Road itself.
@@ -97,7 +96,7 @@ Because the restaurant sits down a soi (side street) rather than on a main road,
 
 ## What to see and eat
 
-Expect a menu built around Thai staples done well rather than experimental fusion — think tom yum goong, pad kra pao, green curry, whole grilled fish, and morning-glory stir-fries, alongside a cocktail and beer list suited to the bar side of the name. Reviewers consistently highlight the ambience as much as the food: string lights, greenery, and open-air seating that make it feel more like a garden restaurant than a strip-mall diner, which is part of why it functions well as both a dinner destination and a longer drinks-and-dinner hangout.
+Expect a menu built around Thai staples done well rather than experimental fusion, alongside a cocktail and beer list suited to the bar side of the name. Reviewers consistently highlight the ambience as much as the food: string lights, greenery, and open-air seating that make it feel more like a garden restaurant than a strip-mall diner, which is part of why it functions well as both a dinner destination and a longer drinks-and-dinner hangout.
 
 Pair a visit with the surrounding Banglamphu sights: Wat Chana Songkhram and the Democracy Monument are both within a short taxi or long walk, and Khao San Road itself is close enough for a pre- or post-dinner wander if you want nightlife or street shopping. The National Museum Bangkok and Wat Suthat are also reachable within 15–20 minutes, making this a workable dinner stop after a day of old-city temple-hopping.
 

@@ -59,7 +59,6 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 ---
-
 ## Why this show matters
 
 Stray Kids don't play small rooms anymore. What started as a JYP survival-show lineup has turned into one of the biggest self-producing acts in K-pop, the kind of group that can fill an arena two nights running and still leave people outside hoping for a resale ticket. A Seoul date is different from a stop on their world tour — this is a homecoming show, played in front of the fandom base that watched them from trainee days, and that changes the energy in the room.
@@ -74,7 +73,7 @@ On concert nights, that walkway turns into a slow-moving river of fans in merch 
 
 ## What the night typically looks like
 
-Doors, soundcheck, and start times for this specific run haven't been published in detail, so don't build your evening around a guessed schedule — the official listing carried the final schedule. What's safe to say from how K-pop arena shows at this venue generally run: expect a long pre-show wait outside as security screens bags and light sticks, a merch line that can eat an hour or more if you arrive right at doors, and a show that mixes full-group numbers with unit stages and solo moments, since Stray Kids' sets are built around showcasing all eight members individually as well as together.
+Doors, soundcheck, and start times for this specific run haven't been published in detail, so don't build your evening around a guessed schedule. What's safe to say from how K-pop arena shows at this venue generally run: expect a long pre-show wait outside as security screens bags and light sticks, a merch line that can eat an hour or more if you arrive right at doors, and a show that mixes full-group numbers with unit stages and solo moments, since Stray Kids' sets are built around showcasing all eight members individually as well as together.
 
 Bring your official light stick (the "Kandy Bong") if you already own one — it syncs with the show's lighting cues and instantly marks you as part of the choir of thousands doing the same fan chants back at the stage.
 

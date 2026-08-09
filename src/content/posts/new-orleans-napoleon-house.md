@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -84,7 +83,7 @@ There's no dedicated parking lot — most visitors either walk from a Quarter ho
 
 ## What to eat
 
-The muffaletta is the reason most people walk in the door — a round, seeded loaf packed with ham, salami, mortadella, and provolone, soaked through with olive salad so the bread goes slightly damp and briny at the center. Order it warm if you can; the cheese loosens and the whole thing holds together better. The po'boys are the other anchor, dressed the traditional way with shredded lettuce, tomato, and mayo on French bread that shatters when you bite into it.
+The muffaletta is the reason most people walk in the door — a round, seeded loaf soaked through with olive salad so the bread goes slightly damp and briny at the center. Order it warm if you can; the cheese loosens and the whole thing holds together better. The po'boys are the other anchor, dressed the traditional way with shredded lettuce, tomato, and mayo on French bread that shatters when you bite into it.
 
 Beyond the sandwiches, the gumbo and jambalaya are solid, unfussy versions of the Creole standards, not reinvented, just done properly. And you should order a Pimm's Cup regardless of what else you get — Napoleon House is often credited as the place that made the drink a New Orleans fixture, garnished with a cucumber spear and finished with 7-Up or lemon-lime soda.
 
@@ -94,7 +93,7 @@ The real draw is the courtyard out back — narrow, brick-paved, shaded by potte
 
 ## When to go
 
-Napoleon House is open seven days, 11am to 9pm Sunday through Thursday and until 10pm on Friday and Saturday. The measured foot-traffic pattern here is fairly flat across the week — it's steady from opening straight through closing on both weekdays and weekends — but the crunch point to avoid is 3pm to 8pm on weekends, when Quarter foot traffic peaks and the courtyard tables turn over slowly.
+Napoleon House is open daily. The measured foot-traffic pattern here is fairly flat across the week — it's steady from opening straight through closing on both weekdays and weekends — but the crunch point to avoid is 3pm to 8pm on weekends, when Quarter foot traffic peaks and the courtyard tables turn over slowly.
 
 A lunch visit right at 11am, or a late-afternoon coffee-and-cocktail stop around 2pm on a weekday, gets you the room at its calmest.
 

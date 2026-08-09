@@ -67,7 +67,7 @@ You climb out of the Alhambra's ticket gardens, past cypress hedges clipped into
 
 ## Why go
 
-The Generalife was the Nasrid sultans' summer palace, set apart from the fortress-like Alcazaba and the intricately carved Nazrid Palaces down the hill. Its purpose was rest and pleasure rather than power, and that shows in every corner: courtyards built around still or running water, shaded arcades, and terraced gardens designed so you're never far from the sound of a fountain.
+The Generalife was the Nasrid sultans' summer palace, set apart from the fortress-like Alcazaba and the intricately carved Nasrid Palaces down the hill. Its purpose was rest and pleasure rather than power, and that shows in every corner: courtyards built around still or running water, shaded arcades, and terraced gardens designed so you're never far from the sound of a fountain.
 
 The Patio de la Acequia, the long rectangular pool lined with arching water jets and flower beds, is the single image most people carry away from Granada. Later Renaissance-era modifications added cypress-lined promenades and viewing platforms looking back over the Alhambra's red walls to the white sprawl of the Albaicín beyond — one of the best framed views in the city, and free once you're inside.
 
@@ -85,7 +85,7 @@ Give yourself at least 45 minutes to walk the gardens properly, closer to an hou
 
 ## When to go
 
-The Generalife keeps the same hours as the rest of the Alhambra, 8:30am to 8pm every day of the week, which gives you a long window to plan around. Measured foot-traffic shows the calmest conditions actually stretch across the full 8:30am–8pm day, both on weekdays and weekends — but the exception to watch is late morning: crowds thicken noticeably between 11am and 2pm on weekends, when tour groups cluster through the gardens en route to the Nazrid Palaces.
+The Generalife keeps the same hours as the rest of the Alhambra, which gives you a long window to plan around. Measured foot-traffic shows the calmest conditions are earliest in the morning and latest in the evening, on both weekdays and weekends — but the exception to watch is late morning: crowds thicken noticeably between 11am and 2pm on weekends, when tour groups cluster through the gardens en route to the Nasrid Palaces.
 
 Aim for an entry slot right after opening or later in the afternoon, and you'll get noticeably more breathing room by the pools.
 
@@ -93,4 +93,4 @@ Aim for an entry slot right after opening or later in the afternoon, and you'll 
 
 Book your ticket online days or weeks ahead — the Alhambra caps daily visitor numbers, and Generalife entry times are tied to a specific slot printed on your ticket, so don't dawdle getting there once your window opens. This is a heavily visited landmark, not a hidden corner, so the real local trick is timing rather than secrecy: aim for the first entry of the day or after 4pm, when the coach groups have moved on and the light turns gold on the cypress hedges.
 
-Wear comfortable shoes — the site involves gravel paths, stairs, and slopes with no shade for stretches. Photography is unrestricted in the gardens (unlike parts of the Nazrid Palaces), so this is the place to slow down rather than snap and move on. Water bottles are allowed and worth carrying, since the on-site cafés are limited and prices reflect the location.
+Wear comfortable shoes — the site involves gravel paths, stairs, and slopes with no shade for stretches. Photography is unrestricted in the gardens (unlike parts of the Nasrid Palaces), so this is the place to slow down rather than snap and move on. Water bottles are allowed and worth carrying, since the on-site cafés are limited and prices reflect the location.

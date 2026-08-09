@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You see MuCEM before you reach it. The black concrete lace screen wraps the cube-shaped building like a shipping crate dipped in ironwork, and the whole thing seems to float at the edge of the J4 esplanade, sea on three sides. Walk out from the Vieux-Port and the Mediterranean just opens up in front of you — container cranes down the coast, ferries sliding toward Corsica and North Africa, the fort walls of Saint-Jean opposite.
@@ -91,7 +90,7 @@ Fort Saint-Jean itself, a 12th–17th century fortress the museum now incorporat
 
 ## When to go
 
-The museum draws a genuinely large crowd — it's one of the most-visited cultural sites in southern France, and weekends between 11am and 6pm are consistently the busiest stretch, with queues building at the ticket desks and lines-of-sight through the galleries getting crowded. If your schedule allows it, the calm window is 6pm to 9pm, true on both weekdays and weekends, when the light through the lace facade turns gold and the terraces empty out.
+The museum draws a genuinely large crowd — it's one of the most-visited cultural sites in southern France, and weekends tend to be the busiest, with queues building at the ticket desks and lines-of-sight through the galleries getting crowded. If your schedule allows it, evenings tend to be calmer, when the light through the lace facade turns gold and the terraces empty out.
 
 If you can only come at midday on a Saturday or Sunday, get there right as it opens rather than mid-afternoon.
 
@@ -104,4 +103,3 @@ Payment is standard card-and-contactless across ticket desks, café and bookshop
 ## Nearby
 
 The Panier district, Marseille's oldest neighborhood, is a five-minute walk north through narrow lanes and street art. Cathédrale de la Major, the vast 19th-century cathedral, sits right between MuCEM and the Panier. The Vieux-Port itself, with its fish market and ferry rides out to the Frioul islands, is directly adjacent.
-

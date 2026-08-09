@@ -74,7 +74,7 @@ The restaurant serves regional Aragonese cooking, served in a dining room with t
 
 ## When to go
 
-Spring (April–June) and early autumn (September–October) are the most comfortable stretches — summer in this part of Aragón gets properly hot, with the stone hill offering little shade, while winter can be sharply cold and foggy in the valley below. Because the hotel is open year-round, round the clock, there's no risk of arriving to closed doors, but restaurant service hours are narrower than the front desk's, so confirm dinner timing when you book rather than assuming you can walk in late.
+Spring (April–June) and early autumn (September–October) are the most comfortable stretches — summer in this part of Aragón gets properly hot, with the stone hill offering little shade, while winter can be sharply cold and foggy in the valley below. Because the hotel operates year-round, there's no risk of arriving to closed doors, but restaurant service hours are narrower than the front desk's, so confirm dinner timing when you book rather than assuming you can walk in late.
 
 ## How to visit like a local
 

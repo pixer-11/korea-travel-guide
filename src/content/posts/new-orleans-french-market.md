@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why the French Market still matters
@@ -75,7 +74,7 @@ Ride-share drop-off is easiest on Decatur Street, one block inland, since N Pete
 
 ## When to go
 
-The market keeps the same hours every day, 10am to 6pm, seven days a week, so there's no early-morning or late-night window to exploit — plan your visit inside that block. Mornings right at opening are noticeably calmer than afternoons, especially once cruise-ship and hotel tour groups filter in after lunch. Weekends bring the biggest crowds and the fullest lineup of flea-market vendors, so if browsing without shoulder-to-shoulder foot traffic matters more to you than seeing every stall, aim for a weekday.
+The market keeps consistent daily hours, so there's no early-morning or late-night window to exploit — plan your visit inside that block. Mornings right at opening are noticeably calmer than afternoons, especially once cruise-ship and hotel tour groups filter in after lunch. Weekends bring the biggest crowds and the fullest lineup of flea-market vendors, so if browsing without shoulder-to-shoulder foot traffic matters more to you than seeing every stall, aim for a weekday.
 
 Louisiana humidity is real: spring (March–May) and fall (October–November) are far more comfortable than a July afternoon under those metal roofs.
 

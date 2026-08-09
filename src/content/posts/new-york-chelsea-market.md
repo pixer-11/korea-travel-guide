@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -99,7 +98,7 @@ The market sits at 75 9th Ave, between 15th and 16th Streets, in the Meatpacking
 
 ## When to go
 
-With crowd patterns holding steady across the whole week — the market runs 7am to 10pm every day — the real variable isn't the day, it's the hour. Weekends between 1pm and 7pm are when the corridor bottlenecks, strollers and all, so if you want to actually see the stalls rather than shuffle past them, get there before 1pm or swing through in the evening after the dinner crush thins out.
+With crowd patterns holding steady across the whole week, the real variable isn't the day, it's the hour. Weekends between 1pm and 7pm are when the corridor bottlenecks, strollers and all, so if you want to actually see the stalls rather than shuffle past them, get there before 1pm or swing through in the evening after the dinner crush thins out.
 
 Weekday mornings have the same calm window and tend to be the easiest of all, with vendors still setting up and plenty of counter space free.
 

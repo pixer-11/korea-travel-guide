@@ -90,7 +90,7 @@ There's a playground, a small cemetery (Cimetière du Château, worth a quiet wa
 
 ## When to go
 
-The park and waterfall are open daily — no early or late closing days to plan around. The crowd pattern here is consistent and worth using: midday through mid-afternoon on weekends (roughly 12pm–5pm) is when the plateau and the paths around the falls fill up fastest, mostly with cruise-ship groups and day-trippers timing their visit around lunch. Outside that stretch — first thing in the morning, or after 5pm when the light turns gold over the bay — the same paths are noticeably calmer.
+The park and waterfall are open daily. The crowd pattern here is consistent and worth using: midday through mid-afternoon on weekends (roughly 12pm–5pm) is when the plateau and the paths around the falls fill up fastest, mostly with cruise-ship groups and day-trippers timing their visit around lunch. Outside that stretch — first thing in the morning, or after 5pm when the light turns gold over the bay — the same paths are noticeably calmer.
 
 An early visit also means cooler air for the climb and softer light for photos of both the falls and the coastline.
 

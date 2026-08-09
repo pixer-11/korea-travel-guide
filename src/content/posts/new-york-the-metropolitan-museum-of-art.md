@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -89,7 +88,7 @@ The arms and armor collection on the first floor, all polished steel and horse a
 
 ## When to go
 
-The Met is closed Wednesdays — plan your week around that. Otherwise it's open 10am to 5pm most days, but Fridays and Saturdays it stays open until 9pm, which changes the whole visit: the crowds thin, the light through the Great Hall's windows goes gold, and you can walk the American Wing courtyard without shuffling around tour groups. Measured foot traffic confirms what regulars already know — the museum is calmest in the last hour before closing, 5pm to 6pm, on both weekdays and weekends.
+The Met is closed Wednesdays — plan your week around that. Otherwise its hours vary by day, with extended evening hours on select nights, which changes the whole visit: the crowds thin, the light through the Great Hall's windows goes gold, and you can walk the American Wing courtyard without shuffling around tour groups. Measured foot traffic confirms what regulars already know — the museum is calmest in the last hour before closing, 5pm to 6pm, on both weekdays and weekends.
 
 Weekends from noon to 7pm are the opposite: this is when the galleries fill hardest, especially around the special exhibitions, so if you're set on visiting Saturday or Sunday, arrive right at 10am or hold off until late afternoon.
 

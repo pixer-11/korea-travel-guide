@@ -81,7 +81,7 @@ Portions are sized for a market lunch, not a sit-down dinner — this is a stop 
 
 ## When to go
 
-Jack's keeps consistent hours, opening early in the morning and closing in the early evening most days. The measured foot traffic backs this up — both weekdays and weekends are calmest across the full 7:30am–6pm window (8am–5pm on Sundays), but crowds build fast once the cruise-ship and tour-bus crowd arrives. On weekends specifically, 11am to 4pm is the peak crush, with lines spilling into the market's main aisle and the counter staff working at full tilt just to keep pace.
+Jack's keeps consistent hours, opening early in the morning and closing in the early evening most days. The measured foot traffic backs this up — both weekdays and weekends are calmest earlier in the day, but crowds build fast once the cruise-ship and tour-bus crowd arrives. On weekends specifically, 11am to 4pm is the peak crush, with lines spilling into the market's main aisle and the counter staff working at full tilt just to keep pace.
 
 If you want to actually see the fish being cut rather than just the backs of other tourists' heads, get there within the first hour or two of opening.
 

@@ -29,7 +29,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Seongsu Became Seoul's Cafe District
 
 Seongsu-dong sits on the east side of the Han River in Seongdong District, and until the 2010s it was known mainly for small shoe and leather workshops — you'll still see "handmade shoe street" signage near Seongsu Station. As rents rose in Hongdae and Itaewon, designers and F&B brands started converting the neighborhood's old brick factories, printing shops, and auto-repair garages into cafes, flagship stores, and galleries, keeping the raw concrete floors, steel beams, and warehouse ceilings intact.
@@ -50,7 +49,7 @@ Roasteries are a strong theme — this is one of the few Seoul neighborhoods whe
 
 ## When to Go
 
-Weekday mornings (10am–noon) are the quietest window before lunch crowds and after-work groups arrive; weekend afternoons, especially Saturday, can mean 20–30 minute waits at the most Instagrammed spots. Spring (April–May) and autumn (October–November) are the most pleasant seasons for combining cafe-hopping with a walk through Seoul Forest, since summer humidity and winter cold make the outdoor portions less appealing. Many cafes rotate seasonal menu items, so a matcha or fruit-based drink you see promoted in spring may not be available by autumn.
+Weekday mornings tend to be quieter, before lunch crowds and after-work groups arrive; weekend afternoons, especially Saturday, can mean longer waits at the most popular spots. Spring (April–May) and autumn (October–November) are the most pleasant seasons for combining cafe-hopping with a walk through Seoul Forest, since summer humidity and winter cold make the outdoor portions less appealing. Many cafes rotate seasonal menu items, so a matcha or fruit-based drink you see promoted in spring may not be available by autumn.
 
 ## Nearby and Practical Tips
 

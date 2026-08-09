@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,7 +91,7 @@ Signage is bilingual in Korean and English throughout, which makes it genuinely 
 
 ## When to go
 
-The museum keeps steady hours Tuesday through Sunday, 9am to 6pm, and is closed all day Monday — plan around that if you're building a north-Jeju itinerary. On weekends, the busiest window runs from 11am to 5pm, so if you want the galleries to yourself, aim for right at opening or come on a weekday afternoon instead. Budget roughly an hour to an hour and a half for a full walk-through; longer if there's a special exhibition running, which the museum rotates periodically alongside the permanent collection.
+The museum keeps steady hours Tuesday through Sunday — plan around that if you're building a north-Jeju itinerary. On weekends, the busiest window runs from 11am to 5pm, so if you want the galleries to yourself, aim for right at opening or come on a weekday afternoon instead. Budget roughly an hour to an hour and a half for a full walk-through; longer if there's a special exhibition running, which the museum rotates periodically alongside the permanent collection.
 
 ## How to visit like a local
 

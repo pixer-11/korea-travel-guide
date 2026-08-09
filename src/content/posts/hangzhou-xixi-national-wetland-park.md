@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Xixi feels different from anywhere else in Hangzhou
@@ -67,7 +66,7 @@ There's no metro station right at the entrance, so budget 25–40 minutes from c
 
 The park is loosely divided into zones, and the boat routes are really the spine of a visit. Hand-poled wooden boats, steered by local boatmen with a single long pole, drift you past stilted fishing huts, arched stone bridges, and the Wetland Museum, which lays out the ecology and history of the area in a way that's worth ten minutes even if you don't read much Chinese.
 
-Look for Hongyuan Pavilion and the Firefly Village area, plus Qiushui'an ("Autumn Water Hut"), a cluster of restored Ming- and Qing-era buildings tied to the wetland's literary history — Xixi has been written about by poets and scholars for nearly a thousandand years. Persimmon season (October–November) turns entire lanes of trees orange-red and is one of the most photographed stretches of the year; spring brings egrets nesting and a wash of green over the reed beds.
+Look for Hongyuan Pavilion and the Firefly Village area, plus Qiushui'an ("Autumn Water Hut"), a cluster of restored Ming- and Qing-era buildings tied to the wetland's literary history — Xixi has been written about by poets and scholars for nearly a thousand years. Persimmon season (October–November) turns entire lanes of trees orange-red and is one of the most photographed stretches of the year; spring brings egrets nesting and a wash of green over the reed beds.
 
 There's also a botanical garden zone and seasonal festivals — a lotus festival in summer, chrysanthemum displays in autumn — that are worth timing a visit around if you can.
 
@@ -77,7 +76,7 @@ Scattered through the park are simple restaurants and teahouses, several housed 
 
 ## How to visit like a local
 
-Arrive close to opening at 7:30am. Because Xixi is still under-the-radar compared with West Lake, mornings here are genuinely calm — mist over the ponds, boatmen setting out, almost no one on the boardwalks — and that quiet is really the whole appeal of the place. Buy your boat ticket at the gate rather than trying to arrange one deeper inside the park, and pay by mobile (WeChat Pay or Alipay) as most vendors and ticket counters have gone cashless.
+Arrive close to opening time. Because Xixi is still under-the-radar compared with West Lake, mornings here are genuinely calm — mist over the ponds, boatmen setting out, almost no one on the boardwalks — and that quiet is really the whole appeal of the place. Buy your boat ticket at the gate rather than trying to arrange one deeper inside the park, and pay by mobile (WeChat Pay or Alipay) as most vendors and ticket counters have gone cashless.
 
 Don't rush the boat ride — the boatmen pole at an unhurried pace on purpose, and trying to "see everything" in two hours is the most common visitor mistake; pick one or two zones (the museum and Qiushui'an, say) rather than sprinting the whole map. Wear shoes you don't mind getting a little damp, since some boardwalks sit right at water level, and keep voices down near the reed banks — this is a working ecological reserve as much as a park, and the birdlife is part of the draw.
 

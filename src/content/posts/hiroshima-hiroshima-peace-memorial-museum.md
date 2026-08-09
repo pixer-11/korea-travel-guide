@@ -39,12 +39,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-You come out of the streetcar or off the bridge and the park opens up green and quiet, and it's hard to reconcile that calm with what you're about to see inside. The Hiroshima Peace Memorial Museum isn't a museum you "enjoy" in the ordinary sense — it's one you sit with. Melted lunchboxes, a child's tricycle, a stopped wristwatch frozen at 8:15, shadows burned into stone steps: the objects do the talking, and they do it without needing much text around them.
+You come out of the streetcar or off the bridge and the park opens up green and quiet, and it's hard to reconcile that calm with what you're about to see inside. The Hiroshima Peace Memorial Museum isn't a museum you "enjoy" in the ordinary sense — it's one you sit with. Melted lunchboxes, a child's tricycle, shadows burned into stone steps: the objects do the talking, and they do it without needing much text around them.
 
 Few museums anywhere earn the kind of near-universal praise this one gets from visitors of every nationality, and that reputation is well deserved.
 
@@ -64,7 +63,7 @@ Everything is labeled in Japanese and English. Give yourself real time in front 
 
 Once you step back outside, the rest of Peace Memorial Park rewards an unhurried hour or two. The A-Bomb Dome (Genbaku Dome), the skeletal ruin of the former Industrial Promotion Hall, is a five-minute walk north across the Motoyasu River and remains the visual anchor of the whole site. Closer to the museum you'll pass the Cenotaph, framing the Flame of Peace and the Dome in a single sightline, and the Children's Peace Monument, hung with thousands of folded paper cranes sent from schools worldwide.
 
-If you have time, the National Peace Memorial Hall for the Atomic Bomb Victims, just behind the museum, is free to enter and offers a quieter, more contemplative space with a survivor testimony archive.
+If you have time, the National Peace Memorial Hall for the Atomic Bomb Victims offers a quieter, more contemplative space with a survivor testimony archive.
 
 ## When to go
 

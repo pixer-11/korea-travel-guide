@@ -66,7 +66,6 @@ faq:
     a: There are a handful of tables, but they fill quickly, especially on weekends. Most visitors grab their order to go and eat nearby, such as at Dolores Park a few minutes' walk away.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Tartine still pulls a line
@@ -93,7 +92,7 @@ Inside, it's compact — a glass pastry case running along one wall, a small hud
 
 ## When to go
 
-Tartine is open daily from 7:30am to 6pm, with no midweek surprises in the schedule. The measured foot-traffic data is blunt about the pattern: weekdays stay relatively even from open to close, but on weekends the crowd builds fast after 9am and stays heavy until around 5pm. If you want the bakery closer to how it feels on a quiet Tuesday, aim for that narrow window right at Saturday or Sunday opening — 7:30am to 9am — before the case has been picked over and before the line snakes toward the door.
+Check current hours before you go, since bakery schedules can shift. The measured foot-traffic data is blunt about the pattern: weekdays stay relatively even from open to close, but on weekends the crowd builds fast after 9am and stays heavy until around 5pm. If you want the bakery closer to how it feels on a quiet Tuesday, aim for that narrow window right at Saturday or Sunday opening — 7:30am to 9am — before the case has been picked over and before the line snakes toward the door.
 
 ## How to visit like a local
 

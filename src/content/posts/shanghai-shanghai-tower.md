@@ -58,7 +58,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -79,7 +78,7 @@ On a clear day you can pick out the Bund's colonial-era waterfront directly acro
 
 ## When to go
 
-The tower opens at 8:30am and closes at 9:30pm every day of the week, so there's no early-morning or late-night workaround — you're working within that 13-hour window. If you want the deck close to yourself, arrive right at opening: 8:30am–9:30am is the measurably quietest stretch on both weekdays and weekends. Avoid showing up between 7pm and 9pm on weekends, when the deck fills up fastest as visitors chase the lit-up night skyline — a genuinely good view, but one you'll be sharing with a crowd.
+The tower is open daily, so there's no early-morning or late-night workaround to squeeze in extra time — check current hours before you go. If you want the deck close to yourself, arrive right at opening, when the crowds are typically thinner. Avoid showing up between 7pm and 9pm on weekends, when the deck fills up fastest as visitors chase the lit-up night skyline — a genuinely good view, but one you'll be sharing with a crowd.
 
 A late-afternoon visit timed to watch the transition from daylight to the city's evening lights is a reasonable middle ground if you can't make the early slot.
 

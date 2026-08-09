@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -96,7 +95,7 @@ It's also an easy five-minute walk from Fifth Avenue/53rd St on the E and M line
 
 There's no gate and no closing time — the Channel Gardens are a public passage open 24 hours, every day, so there's technically no wrong hour. But "open" and "pleasant" aren't the same thing in this part of Midtown. Weekend afternoons around 5–6pm are the peak crush, when tourist foot traffic from the plaza and the tree (in season) backs up into the narrow garden path.
 
-If you want the flowerbeds and pools without shuffling past a wall of people, aim for the stretch between 7am and 11pm on weekends, when the flow is markedly lighter — early morning especially, before the shops and the rink crowd arrive. Weekday mornings before the office lunch rush tend to be quiet for the same reason.
+If you want the flowerbeds and pools without shuffling past a wall of people, aim for before 9am, when the flow is markedly lighter — early morning especially, before the shops and the rink crowd arrive. Weekday mornings before the office lunch rush tend to be quiet for the same reason.
 
 ## How to visit like a local
 

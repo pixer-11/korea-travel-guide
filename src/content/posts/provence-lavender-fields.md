@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Provence's lavender fields are one of the few natural sights in Europe that look genuinely otherworldly in photographs and still deliver in person: rows of violet-blue lavender running to the horizon, often framed by a farmhouse, a line of cypress trees, or the Luberon hills in the distance. The area around Bonnieux, a hilltop village in the Luberon Regional Nature Park, holds some of the most photogenic and accessible fields in the region — a spot near R7RQ+C9, 84480 Bonnieux, has built a strong local reputation (4.7 rating from 81 reviews) as one of the better-tended, visitor-friendly plots, distinct from the vast commercial rows further east near Valensole.
@@ -64,7 +63,7 @@ Visit early morning, ideally before 9am, to avoid both tour buses and the midday
 
 ## What to see & do nearby
 
-Beyond the fields themselves, Bonnieux is worth an hour or two: a steep old village with a 12th-century upper church reached by 86 stone steps, a bakery museum (Musée de la Boulangerie), and views across the Luberon valley toward the Lacoste and Gordes hillsides. The Sénanque Abbey near Gordes, about 30 minutes away, is the single most photographed lavender-and-architecture combination in Provence — a 12th-century Cistercian monastery surrounded by cultivated rows, though it draws heavy crowds in July.
+Beyond the fields themselves, Bonnieux is worth an hour or two: a steep old village with a 12th-century upper church reached by a long climb of stone steps, a bakery museum (Musée de la Boulangerie), and views across the Luberon valley toward the Lacoste and Gordes hillsides. The Sénanque Abbey near Gordes, about 30 minutes away, is the single most photographed lavender-and-architecture combination in Provence — a 12th-century Cistercian monastery surrounded by cultivated rows, though it draws heavy crowds in July.
 
 For a lavender-specific stop, small producers around the Luberon sometimes sell fresh bundles, honey, and essential oil directly from the farm — cash is often preferred at these roadside stands. Pair a lavender day with lunch in nearby Lourmarin or Ménerbes, both classic Luberon villages with market squares and regional Provençal restaurants.
 

@@ -58,7 +58,6 @@ faq: []
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -85,7 +84,7 @@ Downstairs, the American Sector restaurant and the Soda Shop handle lunch if you
 
 ## When to go
 
-The museum runs 9am to 5pm every day of the week, so there's no early or late window to chase. What you can control is the day's rhythm: weekends get busiest between 12pm and 3pm, when tour groups and families cluster in the main pavilions.
+The museum keeps consistent daily hours, so there's no early or late window to chase. What you can control is the day's rhythm: weekends get busiest between 12pm and 3pm, when tour groups and families cluster in the main pavilions.
 
 Arrive right at opening or after 3pm and you'll move through galleries at your own pace instead of shuffling behind a crowd. Weekday mornings run just as calm as weekend mornings, so a Tuesday at 9am is about as quiet as this place gets.
 

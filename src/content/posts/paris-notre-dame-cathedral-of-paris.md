@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,7 +91,7 @@ Outside, walk the full perimeter along the Seine to see the flying buttresses fr
 
 ## When to go
 
-Opening hours run 7:50am–7pm most weekdays, with Thursdays stretching to 10pm — a good option if you want to see the interior lit for evening and avoid the daytime crush. Weekends the doors open a little later, 8:15am, and close at 7:30pm. Crowd patterns are predictable here: weekday mornings through early evening stay manageable, but on Saturdays and Sundays the calm window is narrow — really just 8:15am to 10am — before things fill in hard from 11am to 6pm. If a weekend visit is your only option, get there right at 8:15am.
+Opening hours vary by day, with some evenings staying open later — a good option if you want to see the interior lit for evening and avoid the daytime crush. Weekend hours run a bit differently, so it's worth checking before you go. Crowd patterns are predictable here: weekday mornings through early evening stay manageable, but on Saturdays and Sundays the calm window is narrow — really just the first couple of hours after opening — before things fill in hard from 11am to 6pm. If a weekend visit is your only option, get there right at opening.
 
 ## How to visit like a local
 

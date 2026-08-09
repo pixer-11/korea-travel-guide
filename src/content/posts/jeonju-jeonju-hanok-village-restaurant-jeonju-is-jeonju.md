@@ -67,7 +67,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-07-24'
 ---
-
 ## Why Jeonju is a food destination first
 
 Jeonju has long been considered the unofficial food capital of South Korea, and the claim isn't marketing fluff — it's the acknowledged birthplace of bibimbap as most Koreans know it today, and the city holds a UNESCO "City of Gastronomy" designation. The reason to come here isn't a single landmark dish but a whole layered food culture: fermented soy and chili pastes made with famously good local water, a centuries-old market culture, and a hanok village that has turned traditional eating into its main tourist draw.
@@ -88,7 +87,7 @@ The restaurant at 31 Taejo-ro, with its 4.1 rating across 315 reviews, is a reas
 
 ## When to go and how long to stay
 
-Aim for a weekday lunch (11:30am-1pm) to beat both tour groups and the lines that build at popular hanok-village spots by early afternoon. Spring (April) and autumn (October-November) bring the most comfortable walking weather and coincide with the Jeonju Bibimbap Festival and Jeonju International Film Festival, both of which pull crowds, so book ahead or arrive early during those windows.
+Aim for a weekday lunch to beat both tour groups and the lines that build at popular hanok-village spots by early afternoon. Spring (April) and autumn (October-November) bring the most comfortable walking weather and coincide with the Jeonju Bibimbap Festival and Jeonju International Film Festival, both of which pull crowds, so book ahead or arrive early during those windows.
 
 Two to three hours is enough to eat a proper meal, snack through a couple of alley stalls, and see the shrine and cathedral nearby; a half-day lets you add a hanok stay or a tea house.
 

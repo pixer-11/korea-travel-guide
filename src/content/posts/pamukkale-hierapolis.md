@@ -52,14 +52,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Hierapolis, not just Pamukkale
 
 Most people come for the postcard shot — bare feet on blinding-white calcium terraces, turquoise pools stepping down the hillside. But the terraces are only the ground floor. Climb the travertine and you walk straight into Hierapolis, a Greco-Roman spa city the Attalid kings of Pergamon founded in the 2nd century BC precisely because of the mineral hot springs beneath it.
 
-Rome later expanded it into a full resort town with a 12,000-seat theatre, a colonnaded main street, baths, temples, and one of the largest necropolises in Asia Minor — over 1,200 tombs strung along the road in. It's a UNESCO World Heritage Site (inscribed jointly with Pamukkale in 1988), and with a 4.8-star reputation from roughly 17,000 visitor reviews, it's very much on the map — not a quiet find, so plan around the crowds rather than expecting to avoid them entirely.
+Rome later expanded it into a full resort town with a 12,000-seat theatre, a colonnaded main street, baths, temples, and one of the largest necropolises in Asia Minor — over 1,200 tombs strung along the road. It's a UNESCO World Heritage Site (inscribed jointly with Pamukkale in 1988), and with a 4.8-star reputation from roughly 17,000 visitor reviews, it's very much on the map — not a quiet find, so plan around the crowds rather than expecting to avoid them entirely.
 
 ## Getting there and what the ticket covers
 

@@ -76,7 +76,7 @@ Spring (April–May) and autumn (September–October) offer the most comfortable
 
 ## How to visit like a local
 
-Because this is a very popular, well-trodden trail rather than a hidden find, the best strategy is timing rather than secrecy. Early morning, right after the sunrise hot-air balloons have landed, or the last two hours before sunset, are consistently calmer than mid-morning to mid-afternoon, when tour groups pass through en route between Uçhisar and Göreme. There's no entry fee or ticket booth, so there's nothing to queue for — the only real decision is which end to start from, and starting at Uçhisar means you finish downhill into Göreme, which is easier on the legs.
+Because this is a very popular, well-trodden trail rather than a hidden find, the best strategy is timing rather than secrecy. Early morning, right after the sunrise hot-air balloons have landed, or the last two hours before sunset, are consistently calmer than mid-morning to mid-afternoon, when tour groups pass through en route between Uçhisar and Göreme. The only real decision is which end to start from, and starting at Uçhisar means you finish downhill into Göreme, which is easier on the legs.
 
 Wear real walking shoes rather than sandals; sections of packed dirt turn slick after rain. Carry water, as there are no shops inside the valley itself — only at either end. Respect the carved dwellings by not climbing into fragile cave openings, and if you bring a drone, check current local rules first, as flights are restricted in parts of Cappadocia.
 

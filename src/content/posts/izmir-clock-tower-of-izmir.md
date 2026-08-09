@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -74,9 +73,9 @@ A short stroll takes you into Kemeraltı Bazaar, Izmir's historic market distric
 
 ## When to go
 
-With 26,000-plus reviews and a 4.7 rating, this is one of the most visited single spots in the city, and it shows — tour buses stop here, cruise groups pass through, and the square rarely feels empty during the day. The most comfortable times are early morning, before 9am, when the square is mostly locals commuting through, and evening after sunset, when the tower is illuminated and the heat of the day has broken.
+With 26,000-plus reviews and a 4.7 rating, this is one of the most visited single spots in the city, and it shows — tour buses stop here, cruise groups pass through, and the square rarely feels empty during the day. The most comfortable times are early morning, when the square is mostly locals commuting through, and evening after sunset, when the tower is illuminated and the heat of the day has broken.
 
-Midday sun in summer makes the open square uncomfortable to linger in for long anyway. Plan for 15–20 minutes at the tower itself, and fold it into an hour or two exploring Kemeraltı and the Kordon rather than treating it as a standalone stop.
+Midday sun in summer makes the open square uncomfortable to linger in for long anyway. The tower itself doesn't need much time, so fold it into an hour or two exploring Kemeraltı and the Kordon rather than treating it as a standalone stop.
 
 ## How to visit like a local
 

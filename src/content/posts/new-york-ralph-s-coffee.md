@@ -63,7 +63,6 @@ faq:
     a: The Frick Collection, the Met, and Central Park's Engineers' Gate are all within about a 15-minute walk, making Ralph's a natural coffee break before or after a museum or park visit.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -80,13 +79,13 @@ If you're coming from the west side, the M1, M2, M3, or M4 buses run down Madiso
 
 ## What to see (and drink)
 
-The espresso and drip coffee here are organic and roasted specifically for the brand, but the thing people actually come for is the Ralph's Coffee Ice Cream — a coffee-flavored soft serve that's become something of a signature, especially in warmer months. Beyond that, expect a tight menu of lattes, cortados, and cold brew alongside pastries and a short list of light breakfast items like avocado toast or a croissant.
+The espresso and drip coffee here are organic and roasted specifically for the brand, and there's also the Ralph's Coffee Ice Cream — a coffee-flavored soft serve that's become something of a signature, especially in warmer months. Beyond that, expect a tight menu of lattes, cortados, and cold brew alongside pastries and a short list of light breakfast items like avocado toast or a croissant.
 
 Portions and prices sit at the upper end for a coffee shop, in keeping with the surroundings — this is not a bodega coffee run. The interior seating is limited and clubby, all leather chairs and low lamps, while a small outdoor terrace under green-striped umbrellas opens up the space in good weather and is arguably the better seat, since you get a clear view of the townhouse's ivy-covered facade.
 
 ## When to go
 
-Ralph's Coffee opens at 8am every day and closes at 6pm Sunday through Thursday, staying open an extra hour, until 7pm, on Friday and Saturday. Crowd patterns here are pretty flat through most of the day, with the calm holding steady from opening until closing on both weekdays and weekends — the exception is the weekend afternoon stretch from 1pm to 6pm, when browsing shoppers from the flagship store spill into the café and the small seating area fills up fast.
+Ralph's Coffee keeps hours in line with the store's regular schedule, generally opening in the morning and closing in the early evening. Crowd patterns here are pretty flat through most of the day, with the calm holding steady from opening until closing on both weekdays and weekends — the exception is the weekend afternoon stretch from 1pm to 6pm, when browsing shoppers from the flagship store spill into the café and the small seating area fills up fast.
 
 If you want the room closer to how it looks in the brand's own photographs — quiet, unhurried, good light coming through the windows — aim for a weekend morning before 1pm, or any weekday.
 
@@ -97,4 +96,3 @@ This is a well-known stop, not a hidden one, so plan around the crowds rather th
 The mistake most first-time visitors make is treating it like a quick coffee errand: because seating is limited and the space is small, arriving during the weekend afternoon rush means you may end up with your drink to go rather than the sit-down, mansion-library experience that's the whole appeal. Come on a weekday morning instead, take the outdoor terrace if the weather allows, and give yourself the twenty minutes to actually look around — at the paintings, the bookshelves, the framed photographs — because that atmosphere, not the coffee itself, is what you're really paying for.
 
 If you want the ice cream, note it's the single most-ordered item, so it can sell out or have a short wait during the busy stretch.
-

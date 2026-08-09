@@ -62,7 +62,6 @@ faq:
     a: Central Park is directly across the street, and the New-York Historical Society is about a block south for a second museum stop.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -85,7 +84,7 @@ The Rose Center for Earth and Space, with its glowing glass cube visible from Ce
 
 ## When to go
 
-The museum's own visitor data shows the calm and crush clearly: weekdays stay relatively manageable across the whole 10am–5:30pm window, while weekends compress all the pressure into midday — noon to 5pm is when the halls fill up fastest and lines form for popular exhibits and the planetarium. If a weekend is your only option, aim for right at opening instead: 10am to 11am is noticeably quieter, with more breathing room around the big skeletons and less jostling for sightlines on the ocean life hall's ceiling.
+The calm and crush follow a fairly predictable pattern: weekdays tend to be noticeably quieter overall, while weekends compress all the pressure into midday — noon to 5pm is when the halls fill up fastest and lines form for popular exhibits and the planetarium. If a weekend is your only option, aim for right at opening instead: 10am to 11am is noticeably quieter, with more breathing room around the big skeletons and less jostling for sightlines on the ocean life hall's ceiling.
 
 ## How to visit like a local
 

@@ -84,7 +84,7 @@ Santa Croce sits at Piazza di Santa Croce, 16, in the eastern edge of the histor
 
 ## When to go
 
-The basilica opens at 9:30am Monday through Saturday and closes at 5:30pm; Sundays it runs shorter hours, 12:30–5:45pm, geared around morning services. Measured foot-traffic patterns show the calmest window is 9:30am–11am on weekdays and Saturdays — arrive right at the opening bell and you'll have long stretches of the nave and the Pazzi Chapel nearly to yourself; Sundays open later, at 12:30pm, so the same logic applies to that first half hour instead.
+The basilica opens in the morning and closes in the late afternoon most days; Sundays it runs shorter hours, geared around morning services. Measured foot-traffic patterns show the calmest window is 9:30am–11am on weekdays and Saturdays — arrive right at the opening bell and you'll have long stretches of the nave and the Pazzi Chapel nearly to yourself; Sundays open later, at 12:30pm, so the same logic applies to that first half hour instead.
 
 Weekend afternoons, especially 1pm–5pm, are the peak crush; if a Sunday visit is your only option, go as close to 12:30pm as you can rather than mid-afternoon.
 
@@ -94,4 +94,4 @@ Florentines call it simply "Santa Croce," and locals treat the piazza outside as
 
 Tickets are sold at the door or online in advance, and buying ahead online saves real queuing time in high season (April–October). Inside, the dress code is the standard Italian church rule — shoulders and knees covered — and photography without flash is generally tolerated but keep voices low; this remains an active place of worship, not only a museum.
 
-The tourist mistake to avoid is rushing straight to Michelangelo's tomb and out again — the leather school at the back of the complex, where Franciscan friars have taught leatherworking since the 1950s, and the flood-marked cloisters are easy to miss but take only an extra fifteen minutes.
+The tourist mistake to avoid is rushing straight to Michelangelo's tomb and out again — the leather school at the back of the complex, run by Franciscan friars, and the flood-marked cloisters are easy to miss but take only an extra fifteen minutes.

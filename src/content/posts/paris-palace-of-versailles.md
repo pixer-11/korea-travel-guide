@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -91,7 +90,7 @@ Outside, the gardens designed by André Le Nôtre stretch out in geometric parte
 
 ## When to go
 
-Versailles is closed on Mondays, and open 9am–5:30pm Tuesday through Sunday — plan around that, because there's no early or late slot to fall back on. Weekends are the worst crunch, with the courtyard and state apartments busiest between 11am and 5pm; if you can only come on a Saturday or Sunday, get there right at opening or hold out until the last hour or two before closing.
+Versailles is closed on Mondays, and open Tuesday through Sunday — plan around that, because there's no early or late slot to fall back on. Weekends are the worst crunch, with the courtyard and state apartments busiest between 11am and 5pm; if you can only come on a Saturday or Sunday, get there right at opening or hold out until the last hour or two before closing.
 
 Weekdays, especially Tuesday, Wednesday, and Friday, tend to breathe easier. On days when the Musical Fountains Show runs (spring through autumn, on a published seasonal schedule), the gardens get busier but it's genuinely worth timing a visit around — check the official calendar before you go since it doesn't run daily.
 

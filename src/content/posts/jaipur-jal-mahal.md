@@ -75,7 +75,7 @@ Migratory birds — herons, cormorants, and in winter months flamingos have been
 
 ## How to visit like a local
 
-Treat Jal Mahal as a five-to-ten-minute photo stop within a bigger Amer-road itinerary, not a standalone half-day destination — that's how most Jaipur residents and drivers treat it themselves. Because it's one of the most visited landmarks in the city, arriving right at opening around 6am or in the last hour before 6pm closing gets you the clearest reflections and the thinnest crowds along the embankment railing.
+Treat Jal Mahal as a five-to-ten-minute photo stop within a bigger Amer-road itinerary, not a standalone half-day destination — that's how most Jaipur residents and drivers treat it themselves. Because it's one of the most visited landmarks in the city, arriving early in the morning or in the last hour before sunset gets you the clearest reflections and the thinnest crowds along the embankment railing.
 
 There's no entry fee to view it from the shore, so ignore anyone offering a "ticket" or "boat trip" to the palace itself — unauthorized boat rides exist but the interior is not open to the public, and the safest, standard way to experience it is from the designated viewing area. Vendors sell chai and snacks along the road; a few rupees in cash covers it.
 

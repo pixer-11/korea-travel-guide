@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You turn off the roar of Sukhumvit Road onto Soi 53, and the traffic noise drops away almost immediately. Low-rise houses, overhanging trees, the occasional motorbike taxi idling in the shade — this is one of Bangkok's quieter residential sois, and Earth House sits inside it like a house that decided to become a restaurant.
@@ -101,7 +100,7 @@ Portions favor quality over quantity, so plan on two or three dishes per person 
 
 ## When to go
 
-Hours shift through the week, so check the day before you plan around it. Tuesday through Thursday, doors open at 1:30pm and run to 11pm — no morning or lunch service those days. Friday through Sunday, it opens at 9am, making weekend mornings the window for brunch. It's closed all day Monday.
+Hours shift through the week, so check the day before you plan around it. Weekdays see a later opening, with no morning or lunch service those days. Weekends open earlier, making weekend mornings the window for brunch. It's closed all day Monday.
 
 Weekends are the busiest stretch overall, with steady traffic from noon straight through to closing. If you want the dining room closer to yourself, the last hour before close — 10 to 11pm on weekends — is consistently the quietest window.
 
@@ -109,10 +108,10 @@ Weekends are the busiest stretch overall, with steady traffic from noon straight
 
 Earth House isn't a hidden name exactly, but it still flies well under the radar compared to Bangkok's bigger-name wine bars, so you won't be fighting crowds most nights.
 
-- **Book for weekend brunch** — the 9am–11pm Friday-to-Sunday stretch draws the most people, especially midday onward.
+- **Book for weekend brunch** — the weekend stretch draws the most people, especially midday onward.
 - **Go late for calm** — the 10–11pm window on weekends is your best shot at a relaxed, near-empty room.
 - **Pay by card or mobile** — most Bangkok restaurants in this bracket accept both; cash isn't necessary but small bills help for taxis.
-- **Skip lunch on weekdays** — Tuesday to Thursday, nothing opens before 1:30pm, so don't plan a midday stop those days.
+- **Skip lunch on weekdays** — weekdays open later, so don't plan a midday stop those days.
 - **Come hungry for wine, not just food** — the by-the-glass list rotates, so ask staff what's open that week rather than sticking to a fixed menu.
 
 The mistake most first-timers make is treating it like a quick coffee stop. Earth House rewards a slower pace — a full meal, a glass or two, and enough time to notice the garden light shifting through the afternoon.

@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -73,7 +72,7 @@ Nothing here is a sit-down, ordered-from-one-menu meal — you graze, order at e
 
 ## When to go
 
-The hall runs long hours, open daily from 8am straight through to midnight, so it comfortably covers breakfast pastries, a market-day lunch, aperitivo, and a late dinner without ever closing between services. Mornings tend to be calmer, especially on weekdays, and pair naturally with a wander through the outdoor Porta Palazzo stalls just outside, which are busiest before noon. Weekend evenings, particularly Friday and Saturday after 7pm, draw the thickest crowds as the aperitivo hour rolls into dinner — worth avoiding if you want to actually sit rather than hover with a plate.
+The hall runs long hours, so it comfortably covers breakfast pastries, a market-day lunch, aperitivo, and a late dinner without ever closing between services. Mornings tend to be calmer, especially on weekdays, and pair naturally with a wander through the outdoor Porta Palazzo stalls just outside, which are busiest before noon. Weekend evenings, particularly Friday and Saturday after 7pm, draw the thickest crowds as the aperitivo hour rolls into dinner — worth avoiding if you want to actually sit rather than hover with a plate.
 
 ## How to visit like a local
 
@@ -81,5 +80,4 @@ This is a genuinely well-visited, well-reviewed spot rather than an undiscovered
 
 Payment is almost always by card or contactless at each stall, though it doesn't hurt to carry some cash for smaller vendors. Tipping isn't expected the way it is elsewhere — rounding up is plenty. The mistake most first-timers make is treating it like a single restaurant and staking out a table before ordering; instead, send one person to hold seats while others queue, since tables fill fast and aren't tied to any one stall.
 
-If you want the classic combination, pair a plate of agnolotti or fritto misto with a glass of local vermouth before finishing with gianduia gelato — it's the closest thing the market has to a house tradition.
-
+If you want the classic combination, sample a few of the Piedmontese specialty stalls and finish with something from the gelato counter — it's the closest thing the market has to a house tradition.

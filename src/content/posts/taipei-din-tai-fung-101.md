@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why this branch, specifically
@@ -87,7 +86,7 @@ The restaurant is inside a building at 45 City Hall Rd, Xinyi District — the b
 
 ## When to go
 
-The restaurant opens at 10:45am and closes at 8:30pm every day of the week, with no variation by day. Within that window, the quietest stretch on weekdays is 10:45am to noon — meaning realistically the first hour or so after opening — and on weekends it's tighter still, roughly 10:45 to 11:45am. Avoid Saturday or Sunday afternoons: from 1pm until closing, this branch is consistently busiest, and that's when the wait stretches longest.
+The restaurant keeps consistent daily hours, opening in the late morning and closing in the evening. Within that window, the quietest stretch on weekdays is 10:45am to noon — meaning realistically the first hour or so after opening — and on weekends it's tighter still, roughly 10:45 to 11:45am. Avoid Saturday or Sunday afternoons: from 1pm until closing, this branch is consistently busiest, and that's when the wait stretches longest.
 
 If you can only come on a weekend, treat the opening hour as your best shot at a short wait.
 

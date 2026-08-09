@@ -74,7 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -97,13 +96,12 @@ Textile and ceramic stalls cluster toward the quieter side arms of the L, with h
 
 ## When to go
 
-The market keeps the same hours daily, 8am to 7:30pm, seven days a week, so there's no early or late-closing day to plan around. The measured foot traffic backs up what you'd guess: weekdays between 8am and 11am are the quietest stretch, and on weekends you get a similar lull from opening until around noon. Once weekend afternoons hit 1pm, the lanes fill wall-to-wall until closing at 7:30pm, so if you want room to actually look at what's on the shelves rather than shuffle past it, front-load your visit.
+The market keeps to a consistent daily schedule, so there's no early or late-closing day to plan around. The measured foot traffic backs up what you'd guess: weekdays between 8am and 11am are the quietest stretch, and on weekends you get a similar lull from opening until around noon. Once weekend afternoons hit 1pm, the lanes fill wall-to-wall until closing time, so if you want room to actually look at what's on the shelves rather than shuffle past it, front-load your visit.
 
 ## How to visit like a local
 
-Go right at opening, 8am, on a weekday if you can — the vendors are setting up, the smell of fresh coffee grinding drifts from the roasters, and you'll have the arched hall nearly to yourself for the first hour. Cash (Turkish lira) is still preferred at most stalls and gives you real room to negotiate; card machines exist but vendors quote friendlier prices for cash, and haggling here is expected, not rude — a polite counter-offer at 60–70% of the asking price is normal practice, not an insult.
+Go right at opening on a weekday if you can — the vendors are setting up, the smell of fresh coffee grinding drifts from the roasters, and you'll have the arched hall nearly to yourself for the first hour. Cash (Turkish lira) is still preferred at most stalls and gives you real room to negotiate; card machines exist but vendors quote friendlier prices for cash, and haggling here is expected, not rude — a polite counter-offer at 60–70% of the asking price is normal practice, not an insult.
 
 Nobody tips in a market stall; a firm handshake and a "teşekkürler" (thank you) closes the deal. The tourist mistake is buying the first vibrant display of saffron or "Turkish Viagra" spice mix you see near the entrance — those front-row stalls charge a premium for foot traffic. Walk deeper in, compare a few counters, and taste before you buy; most vendors will offer a sample of lokum or tea without any pressure to purchase.
 
 Budget 45 minutes for a walk-through, 75 minutes if you plan to buy and chat with sellers, and combine it with the New Mosque next door or a tea break at one of the small stools set up just outside the market's harbor-side entrance, where you can watch the ferries come in.
-

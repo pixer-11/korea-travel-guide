@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Cochon Butcher
@@ -86,7 +85,7 @@ At peak lunch — noon to 1:30pm on weekdays — every seat fills and the line s
 
 ## When to go
 
-Cochon Butcher is open daily from 11am to 10pm, with no midday closure, which gives you flexibility. Lunch rush hits hard between noon and 1:30pm, especially on weekdays when convention center crowds spill over.
+Cochon Butcher is open daily with no midday closure, which gives you flexibility. Lunch rush hits hard between noon and 1:30pm, especially on weekdays when convention center crowds spill over.
 
 Dinner tends to be calmer, and a mid-afternoon visit — say 2pm to 4pm — is usually your quietest window for grabbing a table without waiting. Weekends bring a steady crowd all day, but rarely the same crunch as a Tuesday lunch hour.
 
@@ -100,4 +99,3 @@ Order at the counter and pay there — tipping a dollar or two in the jar by the
 - Cash or card both work fine, but expect a short line even for one register at peak hours
 
 The biggest mistake newcomers make is showing up right at noon expecting a quick in-and-out. Shift even 90 minutes later and the whole experience gets easier — shorter line, calmer room, same sandwich.
-

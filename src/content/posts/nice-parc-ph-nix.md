@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -97,7 +96,7 @@ Budget two to three hours to see it without rushing. Families with kids often st
 
 ## When to go
 
-The park is open daily from 9:30am to 7:30pm, so there's a wide window to work with. Weekends are the tightest squeeze, with crowds building steadily from midday through 6pm.
+The park is open daily, so there's a wide window to work with. Weekends are the tightest squeeze, with crowds building steadily from midday through 6pm.
 
 If you're visiting on a Saturday or Sunday, arriving right at 9:30am and staying until around 10am gets you the calmest version of the park. On weekdays, the crowd stays light across the entire day, making any weekday visit a safer bet if your schedule allows it.
 

@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -77,7 +76,7 @@ Step outside after browsing and the humid river air, the low horn of a passing b
 
 ## When to go
 
-The mall runs 10am–7pm Monday through Saturday, and 10am–6pm on Sunday. Confirm hours directly if you're visiting around a major holiday or convention, since large events at the neighboring Convention Center can shift foot traffic.
+Confirm hours directly before you go, since large events at the neighboring Convention Center can shift both opening times and foot traffic.
 
 Because this is a heavily trafficked, very popular spot, weekend afternoons draw the thickest crowds — tour groups off nearby cruise ships and convention attendees on breaks. Come right at opening on a weekday morning if you want the corridors to yourself.
 
@@ -85,7 +84,7 @@ Because this is a heavily trafficked, very popular spot, weekend afternoons draw
 
 Treat it as a functional stop, not a boutique crawl. Here's how to move through it efficiently:
 
-- **Time it right:** weekday mornings, shortly after the 10am opening, are calmest; weekend midday is when lines and crowding peak.
+- **Time it right:** weekday mornings, shortly after opening, are calmest; weekend midday is when lines and crowding peak.
 - **Pay smart:** all major cards and mobile wallets work everywhere; cash is rarely necessary.
 - **Skip the line:** many outlet stores here run their own app-based coupons — check before you check out, since staff won't always volunteer discounts.
 - **Combine your trip:** pair it with a walk along the river boardwalk or a ride on the historic Riverfront streetcar rather than making the mall itself the whole outing.

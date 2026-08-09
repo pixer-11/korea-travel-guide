@@ -37,7 +37,6 @@ faq:
     a: Arrive around 4:30–5pm as the billboards light up but before the peak dinner crowd, or visit on a weekday for a comparatively calmer walk.
 aiGenerated: true
 ---
-
 ## Why Dotonbori is Osaka's food capital
 
 Dotonbori runs along the south bank of the Dotonbori canal in Chuo Ward, and it's less a single restaurant strip than the physical embodiment of Osaka's food culture, "kuidaore" — eat until you go broke. The district is famous for its wall of illuminated signage, above all the Glico Running Man billboard, plus giant mechanical crabs, dragons, and puffer fish marking restaurant entrances.
@@ -58,7 +57,7 @@ Don't skip Kuromon Ichiba Market, a five-minute walk east near Nippombashi Stati
 
 ## When to go
 
-Early evening — roughly 5pm to 8pm — is when the billboards are lit and the atmosphere peaks, but it's also when the canal-side walkway gets genuinely packed shoulder-to-shoulder. If you want photos of the signage without the crowd crush, go right at dusk before the dinner rush fully arrives, around 4:30–5pm. Weeknight lunches (11:30am–1pm) are noticeably calmer and many restaurants offer cheaper set menus at that hour.
+Early evening — roughly 5pm to 8pm — is when the billboards are lit and the atmosphere peaks, but it's also when the canal-side walkway gets genuinely packed shoulder-to-shoulder. If you want photos of the signage without the crowd crush, go right at dusk before the dinner rush fully arrives, around 4:30–5pm. Lunchtime tends to be calmer, and some restaurants offer cheaper set menus at that hour.
 
 Dotonbori is busy in all seasons, but summer evenings add humidity to the crowds, so spring and autumn evenings tend to be the most comfortable.
 

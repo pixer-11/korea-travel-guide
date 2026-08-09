@@ -60,7 +60,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Jeonju Hanok Village is packed with cafés chasing the "trendy hanok" aesthetic, but Masirange (masiranghe roughly translates from a regional dialect meaning "let's have a taste"/"delicious") stands out for consistency — it holds a 4.5 rating across more than 500 reviews, which in a neighborhood this saturated with tourist-trap options is a meaningful signal. The appeal isn't a gimmick drink; it's the combination of a genuine hanok building, traditional tea and dessert options, and a location close to the village's most photographed landmarks. It's a good stop for travelers who want the hanok-café experience without wandering into a themed chain.
@@ -75,7 +74,7 @@ Once in the Hanok Village itself, everything is walkable — this is a pedestria
 
 Inside, expect the hallmarks of Jeonju's hanok café scene: exposed wooden beams, low tables, and either a courtyard or terrace seating area that plays well with hanbok rental photos (hanbok rental shops are everywhere in the village, and many visitors wear one specifically to sit in courtyards like this). Menu-wise, look for traditional Korean tea (ssanghwa-cha, omija-cha, or similar herbal teas are common in this genre of café) alongside modern espresso drinks, plus hanok-style desserts — think injeolmi (rice cake) toast, misugaru (roasted grain) lattes, or bingsu in warmer months. Because exact pricing and seasonal menu items shift, treat any specific price as approximate and confirm at the counter.
 
-Budget about 45 minutes to an hour if you're just having a drink and taking photos; longer if you're sitting down to journal or wait out a rain shower. Weekend afternoons draw heavy foot traffic through the whole village, so a seat isn't guaranteed — arriving right at opening or after 4 PM tends to be calmer.
+Budget about 45 minutes to an hour if you're just having a drink and taking photos; longer if you're sitting down to journal or wait out a rain shower. Weekend afternoons draw heavy foot traffic through the whole village, so a seat isn't guaranteed — arriving right at opening or later in the evening tends to be calmer.
 
 ## When to go
 

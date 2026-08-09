@@ -57,7 +57,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Carmelo pulls a crowd
@@ -80,9 +79,9 @@ The room hums at full volume once it fills, plates coming out of the kitchen in 
 
 ## When to go
 
-Carmelo runs on two distinct service windows rather than one long stretch — lunch from 11:45am to 2pm, and dinner from 6:15pm, closing at 10:15pm most nights (10:45pm on Fridays and Saturdays). The one exception: on weekends lunch stretches to 3:15pm and the room stays genuinely busy from midday through closing, so that's the window to avoid if you want a table without a wait.
+Carmelo runs on two distinct service windows rather than one long stretch — separate lunch and dinner seatings, with the room staying genuinely busy through both, especially at weekends, so that's the window to avoid if you want a table without a wait.
 
-There isn't a hidden quiet hour to slip into here — the honest advice is to eat either right at opening, 11:45am, when lunch service starts, or plan to queue, especially Friday and Saturday nights.
+There isn't a hidden quiet hour to slip into here — the honest advice is to eat right at opening, when lunch service starts, or plan to queue, especially Friday and Saturday nights.
 
 ## How to visit like a local
 

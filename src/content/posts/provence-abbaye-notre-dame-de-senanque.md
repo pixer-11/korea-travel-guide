@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -86,7 +85,7 @@ Outside, the real draw for most visitors is the view: from the small rise above 
 
 ## When to go
 
-Lavender flowers mid-June through early August, peaking in the first three weeks of July — that's the narrow window everyone is chasing, and it's also when crowds are heaviest. If you can't avoid summer, come at opening. The abbey opens at 9:30am Monday to Saturday and 10am on Sundays, closing at 7pm every day. Measured foot-traffic shows the calmest stretch is 9:30am–10:30am on weekdays and 10am–11am on weekends — essentially right at the doors.
+Lavender flowers mid-June through early August, peaking in the first three weeks of July — that's the narrow window everyone is chasing, and it's also when crowds are heaviest. If you can't avoid summer, come at opening. Opening hours shift with the season, so check ahead before you go. Measured foot-traffic shows the calmest stretch is 9:30am–10:30am on weekdays and 10am–11am on weekends — essentially right at the doors.
 
 Steer clear of noon to 6pm on weekends, when buses and rental cars pack the lot and the viewpoint gets genuinely crowded. Outside the lavender season, the abbey is far quieter and the light on the stone in late afternoon (autumn especially) is worth the trip on its own.
 

@@ -63,7 +63,6 @@ faq:
     a: Yes — it has a laid-back, rustic-chic interior with a Ping-Pong table and seating suited to lingering, though it can get tight during the busy midday weekend window.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -86,9 +85,9 @@ The Ping-Pong table isn't a gimmick tucked in a corner for show — people actua
 
 ## When to go
 
-Sawada Coffee is open every day from 8am to 4pm, with no evening hours, so this is strictly a morning-into-early-afternoon stop — plan brunch or dinner elsewhere in Fulton Market. The quietest window, both on weekdays and weekends, is 8am to 10am, right at opening, when you can actually snag a table and watch the espresso machine work without a line at your back.
+Sawada Coffee closes in the afternoon rather than staying open into the evening, so this is strictly a morning-into-early-afternoon stop — plan brunch or dinner elsewhere in Fulton Market. The quietest window, both on weekdays and weekends, is 8am to 10am, right at opening, when you can actually snag a table and watch the espresso machine work without a line at your back.
 
-Weekends get considerably busier from 11am through closing at 4pm, as the West Loop brunch crowd spills over from nearby restaurants — if you're weekend visiting, aim to arrive before 11am or accept a short wait.
+Weekends get busier later in the morning, as the West Loop brunch crowd spills over from nearby restaurants — if you're weekend visiting, aim to arrive before 11am or accept a short wait.
 
 ## How to visit like a local
 
@@ -96,4 +95,4 @@ Skip the late-morning weekend rush entirely if you can — 8am to 10am is the tr
 
 Don't expect food beyond pastries or a full breakfast menu; if you want a proper meal, plenty of Fulton Market restaurants are a short walk away and open later in the day. If the Ping-Pong table is free and you're not in a rush, it's genuinely fair game to ask for a game — that's part of the room's culture, not just furniture.
 
-The most common visitor mistake is showing up at 4:01pm expecting it's still open, or assuming it's a dinner-hour hangout — remember, this is strictly a daytime coffee stop, closing promptly at 4pm every day.
+The most common visitor mistake is showing up at 4:01pm expecting it's still open, or assuming it's a dinner-hour hangout — remember, this is strictly a daytime coffee stop that closes well before dinner.

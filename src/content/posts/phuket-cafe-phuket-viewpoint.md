@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Phuket has no shortage of hilltop viewpoints, but Cafe Phuket Viewpoint has become one of the island's most talked-about spots for a reason: it combines an actual working café-restaurant with an unobstructed, elevated panorama of Patong Bay and the Andaman coastline. At over 20,800 reviews and a 4.6 rating, it has crossed from local secret to bucket-list stop for visitors staying anywhere on the west coast.
@@ -83,4 +82,4 @@ Arriving closer to opening in the morning or in the early afternoon is a good wo
 
 ## Nearby & tips
 
-Since the café sits directly on the Patong–Kata hill road, it pairs naturally with a wider scenic loop: continue on to Karon Viewpoint (Kata Kata Viewpoint) further along the same route for a second, higher panorama taking in three bays at once, or head down into Patong for Bangla Road's nightlife and Patong Beach afterward. Bring a light layer for the breeze at elevation, and if you're driving yourself, plan to head back down before dark given the road's tight turns. Confirm current opening hours before setting out, since small hillside cafés in Phuket periodically adjust hours seasonally.
+Since the café sits directly on the Patong–Kata hill road, it pairs naturally with a wider scenic loop: continue on to Karon Viewpoint (Kata Viewpoint) further along the same route for a second, higher panorama taking in three bays at once, or head down into Patong for Bangla Road's nightlife and Patong Beach afterward. Bring a light layer for the breeze at elevation, and if you're driving yourself, plan to head back down before dark given the road's tight turns. Confirm current opening hours before setting out, since small hillside cafés in Phuket periodically adjust hours seasonally.

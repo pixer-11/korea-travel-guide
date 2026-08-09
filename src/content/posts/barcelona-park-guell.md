@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -86,13 +85,12 @@ Plan on 1.5 to 2 hours total if you're doing the Monumental Zone plus a walk thr
 
 ## When to go
 
-The park opens at 9am and runs to 7:30pm every day of the week, so there's no early-closing day to work around. Foot-traffic data for the site shows weekends get busiest between 11am and 3pm — that's the stretch to avoid if you can. On weekends, the calm window is right at opening, 9–10am, before tour buses arrive. On weekdays the whole day tends to stay comparatively even, so a weekday visit at almost any hour is your easiest option if your schedule allows it.
+Opening hours vary somewhat by season, so it's worth checking the current schedule before you go. Foot-traffic data for the site shows weekends get busiest between 11am and 3pm — that's the stretch to avoid if you can. On weekends, the calm window is right at opening, before tour buses arrive. On weekdays the whole day tends to stay comparatively even, so a weekday visit at almost any hour is your easiest option if your schedule allows it.
 
 ## How to visit like a local
 
 Book your Monumental Zone ticket online in advance and select the earliest slot you can get — entry is timed to a specific half-hour window, and walk-up tickets often sell out well before midday, especially in summer. Because this is a heavily visited, globally famous site, don't expect a quiet hidden corner on the main terrace; instead, beat the crowds by timing your visit rather than seeking out a secret spot.
 
-If you're set on weekends, arrive right at 9am. Locals and repeat visitors treat the free outer park — the woodland paths, the viewpoint at Turó de les Tres Creus — as worth lingering in after you've done the ticketed section, since most tour groups clear out once they've seen the mosaic bench and don't wander further. Wear real shoes: the paths are uneven cobbles and sloped stone, and the hill climb up from the metro is real elevation gain.
+If you're set on weekends, arrive right at opening. Locals and repeat visitors treat the free outer park — the woodland paths, the viewpoint at Turó de les Tres Creus — as worth lingering in after you've done the ticketed section, since most tour groups clear out once they've seen the mosaic bench and don't wander further. Wear real shoes: the paths are uneven cobbles and sloped stone, and the hill climb up from the metro is real elevation gain.
 
 Tickets and museum admissions are handled online or via card at the gate; cash isn't the default here. And don't skip the free viewpoints just because you can't get a same-day Monumental Zone slot — the panoramic views from the upper paths cost nothing and are genuinely part of the experience.
-

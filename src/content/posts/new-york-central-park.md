@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,7 +91,7 @@ That design logic — curving drives, sunken transverse roads so cross-town traf
 
 The park runs from 59th Street up to 110th Street, and it's genuinely huge, so where you enter matters more than "going to Central Park" as a single destination. For the classic postcard stretch — Bethesda Terrace, the Mall's elm-lined promenade, the Lake and Bow Bridge — enter at 72nd Street from either Fifth Avenue (east) or Central Park West (west); the B/C train's 72nd St station drops you two blocks from the west entrance.
 
-For the Central Park Zoo and the carousel, use the entrance at 5th Avenue and 64th Street, a short walk from the N/R/W at 5th Ave–59th St. Heading for the Reservoir's running loop, enter around 90th Street on either side. The park is open 6am to 1am every day, so early starts and evening strolls are both fair game — just note that after dark it's better stuck to the lit, populated paths near the transverse roads rather than the interior.
+For the Central Park Zoo and the carousel, use the entrance at 5th Avenue and 64th Street, a short walk from the N/R/W at 5th Ave–59th St. Heading for the Reservoir's running loop, enter around 90th Street on either side. The park is open long hours every day, so early starts and evening strolls are both fair game — just note that after dark it's better stuck to the lit, populated paths near the transverse roads rather than the interior.
 
 ## What to see and do
 

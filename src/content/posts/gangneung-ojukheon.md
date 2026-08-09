@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ There's an on-site parking lot if you're driving or have arranged a taxi for the
 
 ## When to go
 
-The site is open daily from 9am to 5pm, with no listed closing day — a rarity for a Korean historic site, so you're not locked out on a Monday like at many palaces.
+The site is open daily, with no listed closing day — a rarity for a Korean historic site, so you're not locked out on a Monday like at many palaces.
 
 Because it's a well-known, heavily visited landmark, midday on weekends and holidays brings tour buses and school groups. Arrive right at 9am or after 3pm for a calmer walk through the grounds.
 

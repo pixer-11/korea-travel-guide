@@ -59,7 +59,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ Look for Phra Si Rattana Chedi, the golden bell-shaped stupa said to enshrine a 
 
 ## When to go
 
-The complex is open every day, 8:30am to 3:30pm, with last entry generally enforced well before closing, so this is a morning-to-early-afternoon visit, not a late-day one. Cover the site in two to three hours. Weekday mornings between 8:30am and 9:30am are consistently the quietest slot, and that same 8:30–9:30am window holds true on weekends too — worth prioritizing if a weekend is your only option, since traffic builds fast and 10am to noon on Saturdays and Sundays is the peak crush you want to avoid.
+The complex is open daily, with last entry generally enforced well before closing, so this is a morning-to-early-afternoon visit, not a late-day one. Cover the site in two to three hours. Weekday mornings between 8:30am and 9:30am are consistently the quietest slot, and that same 8:30–9:30am window holds true on weekends too — worth prioritizing if a weekend is your only option, since traffic builds fast and 10am to noon on Saturdays and Sundays is the peak crush you want to avoid.
 
 Bangkok's cooler, drier months from November through February make the shadeless courtyards more bearable; by midday in April or May the reflective tile work turns the plazas into a furnace.
 

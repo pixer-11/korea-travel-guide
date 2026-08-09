@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ The Islamic and medieval rooms upstairs are quieter but shouldn't be rushed: the
 
 ## When to go
 
-The museum is busiest on weekends between 10am and 8pm, so if you're visiting Saturday or Sunday, try to arrive right at opening or push your visit later in the afternoon to avoid the thickest crowds. Weekday evenings are the calm window — between 8 and 9pm on weekdays the galleries thin out noticeably, giving you long empty stretches in front of the mosaics and sculpture halls.
+The museum tends to be busiest on weekends, so if you're visiting Saturday or Sunday, try to arrive right at opening or push your visit later in the afternoon to avoid the thickest crowds. Weekday evenings are generally the calm window, giving you long empty stretches in front of the mosaics and sculpture halls.
 
 If your schedule is flexible, a weekday visit generally beats a weekend one across the board. Two to three hours covers the highlights properly; history-minded visitors could easily spend half a day.
 

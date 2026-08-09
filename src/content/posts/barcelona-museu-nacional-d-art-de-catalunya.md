@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why the Palau Nacional stops people in their tracks
@@ -71,7 +70,7 @@ A separate numismatics collection and rotating photography galleries round thing
 
 The MNAC sits in Parc de Montjuïc, and the easiest approach is Metro Line 1 or Line 3 to Plaça Espanya, followed by a walk up through the Fira gardens and fountains — about 15 minutes on foot, mostly uphill. Bus routes 150 and 55 both stop closer to the museum entrance if you'd rather skip the climb. On weekend evenings in summer, the Font Màgica fountain show runs on the terraces directly below the museum, so arriving late afternoon lets you combine both without doubling back.
 
-Plan on two to three hours for a proper visit — longer if you want to sit with the Romanesque murals, which reward slow looking more than quick scanning. The museum is closed on Mondays; check the current website for the exact opening and closing times on the day you're going, since Sunday hours in particular tend to run shorter than the rest of the week.
+Plan on two to three hours for a proper visit — longer if you want to sit with the Romanesque murals, which reward slow looking more than quick scanning. Check the current website for the exact opening and closing times on the day you're going, since Sunday hours in particular tend to run shorter than the rest of the week, and the museum does close for at least one day a week.
 
 ## How to visit like a local
 
@@ -82,4 +81,3 @@ There's no tipping expected inside; card payment is standard at the ticket desk 
 ## Nearby, while you're up here
 
 Montjuïc rewards lingering. The Fundació Joan Miró and the Olympic Stadium are both a short walk from the museum, and the cable car up to Montjuïc Castle gives a second, higher vantage point over the port. If your legs are still willing after the museum's marble staircases, the walk back down through the gardens at dusk, with the fountains lit up below the palace, is its own reward.
-

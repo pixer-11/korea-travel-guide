@@ -29,7 +29,6 @@ aiGenerated: true
 draft: false
 country: South Korea
 ---
-
 ## Why go
 
 Damyang, a small county in South Jeolla Province about 20-30 minutes north of Gwangju, has been synonymous with bamboo craftsmanship for centuries — bamboo baskets, mats, and fans from this region were once sent as tribute to the royal court. Juknokwon, opened in 2003, turned that legacy into a public park by threading boardwalks and dirt paths through a dense grove of towering moso bamboo (some stalks reach over 10 meters).
@@ -48,7 +47,7 @@ Inside Juknokwon, eight numbered trails (each with a name like "Path of Wisdom" 
 
 A lookout deck near the entrance gives a wide view over Damyang town and the surrounding hills. Budget 1.5 to 2 hours to walk most of the trails at an unhurried pace; the full network can be covered in under an hour if you're efficient, but the appeal here is slowing down.
 
-Just outside or near the park, look for Damyang's signature dish, **daetongbap** — rice steamed inside a section of bamboo, often served with a small side of makgeolli (rice wine) at restaurants that specialize in it. It's a distinctly regional specialty and worth seeking out over a generic bibimbap lunch.
+Just outside or near the park, look for Damyang's signature dish, *daetongbap* — rice steamed inside a section of bamboo, often served with a small side of makgeolli (rice wine) at restaurants that specialize in it. It's a distinctly regional specialty and worth seeking out over a generic bibimbap lunch.
 
 ## When to go
 

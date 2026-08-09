@@ -57,7 +57,6 @@ faq:
 aiGenerated: true
 updatedDate: "2026-07-24"
 ---
-
 ## Why go
 
 Hue's food scene is defined by dishes you won't easily find outside central Vietnam — bún bò Huế (spicy lemongrass beef noodle soup), bánh khoái (crispy turmeric pancake), nem lụi (grilled pork skewers wrapped in rice paper), and com hen (baby clam rice, a Hue specialty tied to the Perfume River). Vietnamese Food - Hue Local Food & FastFood 22 Restaurant, at 22 Trần Huy Liệu, has built an unusually strong reputation among travelers for delivering these dishes at low prices with consistent quality — a 4.9 rating across more than 2,000 reviews is a rare combination in a city full of tourist-facing eateries near the Citadel.
@@ -84,7 +83,7 @@ Given the budget price level, a generous multi-dish meal for two typically stays
 
 ## When to go
 
-Lunch (11:30 am–1:30 pm) and early dinner (6–7 pm) are the safest windows for freshness and shorter waits, since a high-volume, high-turnover spot like this cooks continuously through service rather than holding food. The restaurant runs on a single continuous schedule, open 9am–7pm every day, so there's no need to time a visit around a midday closure. Hue's climate is a genuine planning factor: the dry season from roughly March to August is hot but reliable, while October to December brings the region's heaviest rain and occasional flooding — plan streetside or open-air seating accordingly and keep an eye on weather if visiting in autumn.
+Lunch and early dinner tend to be the safest windows for freshness and shorter waits, since a high-volume, high-turnover spot like this cooks continuously through service rather than holding food. The restaurant runs on a single continuous schedule rather than closing for a midday break, so there's no need to time a visit around a midday closure. Hue's climate is a genuine planning factor: the dry season from roughly March to August is hot but reliable, while October to December brings the region's heaviest rain and occasional flooding — plan streetside or open-air seating accordingly and keep an eye on weather if visiting in autumn.
 
 ## Nearby & tips
 

@@ -57,7 +57,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-07-24'
 ---
-
 ## Why go
 
 Ayutthaya's dining scene is mostly built around quick noodle stalls and riverside seafood shacks near the ruins, so a place like The Artisans Ayutthaya stands out. It has earned an unusually strong reputation — a 4.9 rating across more than 2,000 reviews — for combining a carefully designed space with a menu that blends Thai flavors and Western café-style dishes.
@@ -80,7 +79,7 @@ Given the riverside setting, ask for outdoor or window seating if you want views
 
 ## When to go
 
-Ayutthaya's cooler, drier season runs roughly November through February, and this is the most comfortable stretch for any outdoor seating by the river — midday heat from March through May can make indoor, air-conditioned seating more appealing if you're visiting then. Weekday lunches tend to be calmer than weekend dinner service, when the restaurant's popularity with domestic tourists can mean a wait. If your schedule is flexible, an early dinner around 5–6pm lets you catch the transition into evening light over the river before the dinner crowd peaks.
+Ayutthaya's cooler, drier season runs roughly November through February, and this is the most comfortable stretch for any outdoor seating by the river — midday heat from March through May can make indoor, air-conditioned seating more appealing if you're visiting then. Weekday lunches tend to be calmer than weekend dinner service, when the restaurant's popularity with domestic tourists can mean a wait. If your schedule is flexible, an early dinner before the crowds arrive can mean quieter riverside seating and a more relaxed pace.
 
 ## Nearby & tips
 

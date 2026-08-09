@@ -101,6 +101,6 @@ Fort Santiago is open daily, which makes it one of the few Intramuros sites you 
 
 Go early. Because this is a heavily visited landmark rather than an under-the-radar spot, the single best move is timing, not secrecy — arrive right at 8am on a weekday if you can, or by 10am at the latest on weekends, before the tour buses from nearby hotels unload. Bring small bills for the entrance fee (prices are modest but change occasionally, so don't assume last year's rate), and note that lines at the ticket booth move fastest in the morning.
 
-Evenings after 6pm have their own appeal — cooler air, floodlit walls, far fewer people — and since the fort stays open until 11pm, it's a legitimate alternative to the crowded daytime hours if you don't mind seeing the museum sections closed earlier than the grounds. Wear shoes you can walk cobblestones and uneven stone steps in; the ramparts have no handrails in places.
+Evenings after 6pm have their own appeal — cooler air, floodlit walls, far fewer people — making evening visits a legitimate alternative to the crowded daytime hours if you don't mind seeing the museum sections closed earlier than the grounds. Wear shoes you can walk cobblestones and uneven stone steps in; the ramparts have no handrails in places.
 
 Combine your visit with San Agustin Church or Casa Manila within Intramuros to make a half-day of it, and treat the fort itself as a place to linger rather than rush — the atmosphere, especially near the execution site at dusk, rewards slowing down.

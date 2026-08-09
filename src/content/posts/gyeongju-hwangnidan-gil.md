@@ -77,6 +77,6 @@ Evening visits are worthwhile too — many cafes stay open into the night, and t
 
 ## Nearby and practical tips
 
-Because the neighborhood is built around older low-rise houses, most cafes are small with limited seating, so waits are common at popular spots during peak hours — having a backup cafe in mind helps. Cash and card are both generally accepted, but small independent shops sometimes prefer card for accuracy, so don't count on cash-only transactions being the norm. Comfortable shoes matter more than usual here since the appeal is unstructured wandering rather than following a fixed route, and the surrounding streets are flat and easy to cover on foot.
+Because the neighborhood is built around older low-rise houses, most cafes are small with limited seating, so waits are common at popular spots during peak hours — having a backup cafe in mind helps. Cash and card are both generally accepted, but small independent shops sometimes prefer cash, so don't count on cash-only transactions being the norm. Comfortable shoes matter more than usual here since the appeal is unstructured wandering rather than following a fixed route, and the surrounding streets are flat and easy to cover on foot.
 
 Confirm current opening hours for specific cafes and hanbok shops before visiting, as small businesses in the area rotate and change seasonally.

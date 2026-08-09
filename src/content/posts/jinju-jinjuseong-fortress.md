@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come up from the riverside path and the first thing you see is stone — grey, weathered, stacked in long curving courses that follow the natural bend of the Namgang River rather than fighting it. That's the tell that this wall is old and rebuilt many times: 1,760 meters of it, tracing the original medieval perimeter, with the modern city humming on one side and the slow green water on the other.
@@ -97,7 +96,7 @@ The Gyeongnam National University Museum inside the grounds houses artifacts fro
 
 ## When to go
 
-The fortress keeps the same hours every day of the week, 9am to 6pm, so there's no day to avoid on account of closures. Weekdays are quiet across the entire opening window — you can turn up anytime between 9 and 6 and expect breathing room. Weekends are a different story: the calm window is early, 9am to 10am, before the crowd data shows things picking up sharply from 11am through closing. If a weekend visit is your only option, get there at opening.
+The fortress keeps the same hours every day of the week, so there's no day to avoid on account of closures. Weekdays are quiet across the entire opening window — you can turn up anytime between 9 and 6 and expect breathing room. Weekends are a different story: the calm window is early, 9am to 10am, before the crowd data shows things picking up sharply from 11am through closing. If a weekend visit is your only option, get there at opening.
 
 ## How to visit like a local
 

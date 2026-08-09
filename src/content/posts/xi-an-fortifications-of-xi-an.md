@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come up the ramp expecting a ruin and instead find a fully intact rampart wide enough to drive a bus down. That's the first surprise of Xi'an's city wall: it isn't a fragment behind glass, it's a continuous, walkable fortress loop encircling the entire old city, thick grey brick underfoot, crenellations marching off in both directions until they disappear around a curve you can't see the end of.
@@ -52,7 +51,7 @@ It's a working monument, not a museum piece, and that's what makes an hour or tw
 
 ## Getting there and getting up
 
-The wall rings the entire city center, so you don't so much "arrive" as pick an entrance. The four main gates align with the compass — Yongningmen (South Gate), Anyuanmen (North), Changlemen (East), and Anding men (West) — and South Gate is the most atmospheric, with a restored barbican, drawbridge, and moat crossing that gives you a sense of what an approaching army would have faced.
+The wall rings the entire city center, so you don't so much "arrive" as pick an entrance. The four main gates align with the compass — Yongningmen (South Gate), Anyuanmen (North), Changlemen (East), and Andingmen (West) — and South Gate is the most atmospheric, with a restored barbican, drawbridge, and moat crossing that gives you a sense of what an approaching army would have faced.
 
 Xi'an's metro Line 2 stops at Yongningmen (South Gate) station, putting you a short walk from the ramp. Line 2 and Line 1 also brush the Bell Tower area a few minutes' walk from the wall's inner ring. Access points with ticket booths and stairs or ramps up onto the wall are spaced around the loop, so you can choose an entrance close to wherever else you're staying in the old town.
 

@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Pêche is worth the wait
@@ -96,7 +95,7 @@ Pêche sits at 800 Magazine St, right at the edge of the Warehouse District, an 
 
 ## When to go
 
-Pêche is open daily from 11am to 10pm, with no breaks between lunch and dinner service. That matters here — you can walk in mid-afternoon and still get a full menu.
+Pêche stays open through the afternoon, with no breaks between lunch and dinner service. That matters here — you can walk in mid-afternoon and still get a full menu.
 
 Weekday mornings into early afternoon, from 11am to noon, run quietest. On weekends, the calm window stretches from 11am to 1pm. The room fills fast after that, and Friday and Saturday from 5pm to 9pm is when it's busiest — tables turn slowly and the bar backs up.
 
@@ -114,4 +113,3 @@ Pêche is a well-known name on the New Orleans food scene now, not a hidden find
 - **Payment is standard card or cash, tipping the usual 18–20%** as at most full-service New Orleans restaurants.
 
 Plan for 75–90 minutes at the table if you're doing a full spread — this isn't a rushed lunch counter, even at midday.
-

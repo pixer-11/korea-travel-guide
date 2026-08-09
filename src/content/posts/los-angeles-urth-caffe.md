@@ -71,7 +71,7 @@ Portions run generous, and pricing sits in the mid-range for a Los Angeles café
 
 ## When to go
 
-With extended daily hours, Urth Caffè has enough runway to work as a breakfast stop, a midday break, or a late-evening coffee-and-cake session after dinner in the neighborhood. Weekend late mornings are the loudest stretch, with brunch crowds spilling onto the sidewalk waiting for patio seats. If your schedule is flexible, a weekday visit shortly after the 7am opening gives you the best shot at grabbing a patio table without a wait, while the espresso machine is still fresh off its morning start and the pastry case is at its fullest.
+With extended daily hours, Urth Caffè has enough runway to work as a breakfast stop, a midday break, or a late-evening coffee-and-cake session after dinner in the neighborhood. Weekend late mornings are the loudest stretch, with brunch crowds spilling onto the sidewalk waiting for patio seats. If your schedule is flexible, a weekday morning visit gives you the best shot at grabbing a patio table without a wait, while the espresso machine is still fresh off its morning start and the pastry case is at its fullest.
 
 ## How to visit like a local
 

@@ -52,14 +52,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You almost walk past it. On Jalan Bijeh Timah — literally "Tin Ore Street" — in Ipoh's old town, Han Chin Pet Soo hides behind a plain, colonial-era shophouse facade with a modest signboard, giving no hint that behind the door is one of the most atmospheric small museums in Malaysia. There's no queue snaking out front, no ticket booth blaring signage. You knock, or arrive for your booked slot, and someone lets you in.
 
 ## Why go
 
-This building was once a private clubhouse for Hakka tin-mining tycoons, founded in 1893, and it stayed a members-only social club for over a century before opening as a museum. That history is the whole point: the rooms still feel inhabited rather than staged. You'll find a mahjong table with worn tiles, an opium den reconstruction with a low wooden platform and pipe, black-and-white photographs of moustached mine owners in linen suits, and display cases of ledgers and mining tools that trace how Ipoh's wealth — and its distinctive colonial architecture — was built on tin ore dug out of the Kinta Valley. It's not a large space, but almost nothing in it is filler.
+This building was once a private clubhouse for Hakka tin-mining tycoons, and it stayed a members-only social club for over a century before opening as a museum. That history is the whole point: the rooms still feel inhabited rather than staged. You'll find a mahjong table with worn tiles, an opium den reconstruction with a low wooden platform and pipe, black-and-white photographs of moustached mine owners in linen suits, and display cases of ledgers and mining tools that trace how Ipoh's wealth — and its distinctive colonial architecture — was built on tin ore dug out of the Kinta Valley. It's not a large space, but almost nothing in it is filler.
 
 ## Getting there
 

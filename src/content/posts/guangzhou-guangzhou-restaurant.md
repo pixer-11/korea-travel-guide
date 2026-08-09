@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -85,13 +84,13 @@ Because the street itself is pedestrian-only, expect to walk the last few minute
 
 ## What to eat
 
-Start with the dim sum if you're there earlier in the day — barbecue pork buns (char siu bao), shrimp dumplings, and the restaurant's rendition of rice-flour rolls are the dishes people specifically come back for. If you're eating later, this is a solid spot to order a whole steamed fish, a claypot rice with preserved meats, or a slow-simmered soup — the kind of dishes that reward a table of three or four sharing rather than a solo diner ordering one plate.
+Start with the dim sum if you're there earlier in the day — classic Cantonese dim sum staples are the draw at that hour. If you're eating later, this is a solid spot to order a whole steamed fish, a claypot rice with preserved meats, or a slow-simmered soup — the kind of dishes that reward a table of three or four sharing rather than a solo diner ordering one plate.
 
 Portions and presentation lean traditional rather than photogenic, which is part of the charm: this is food built for flavor and technique, not for a social feed.
 
 ## When to go
 
-The restaurant runs the same hours every day, 11am to 11pm, so there's no risk of showing up to a locked door — but timing still matters for comfort. Weekends between 11am and 3pm are the peak crush, when tables turn over slowly and dim sum carts (or order slips) move at a crawl. If you'd rather eat without jostling for a table, aim for 8pm to 11pm on a weekday, or after 7pm on a weekend — both are markedly quieter according to measured foot-traffic patterns, and you'll get more attentive service as a result.
+The restaurant keeps consistent daily hours, so there's no risk of showing up to a locked door — but timing still matters for comfort. Weekends between 11am and 3pm are the peak crush, when tables turn over slowly and dim sum carts (or order slips) move at a crawl. If you'd rather eat without jostling for a table, aim for 8pm to 11pm on a weekday, or after 7pm on a weekend — both are markedly quieter, and you'll get more attentive service as a result.
 
 ## How to visit like a local
 
@@ -100,4 +99,3 @@ Skip the idea of booking ahead for a casual meal — this is a walk-in, take-a-n
 Payment is almost universally by mobile (WeChat Pay or Alipay) or card these days, though carrying a little cash as backup is still sensible in an older establishment like this. The mistake most visitors make is treating it like a quick tourist stop between shops — ordering one or two token dishes and leaving. Cantonese dining here is built around sharing multiple smaller plates across a table, so if you can, come with at least two other people and order accordingly; a solo diner will miss most of what makes the menu interesting.
 
 Since this isn't an undiscovered spot — it's a well-known name with steady local and visitor traffic alike — the real trick to beating the crowds isn't secrecy, it's simply timing your visit to the quieter evening windows rather than the weekend lunch rush.
-

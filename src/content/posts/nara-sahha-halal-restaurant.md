@@ -42,7 +42,6 @@ faq:
     a: Yes — treat it as a deliberate detour. Visit Tōdai-ji and Kasuga Taisha in the morning, then route to Sahha for a late lunch since it's not on the main sightseeing path.
 aiGenerated: true
 ---
-
 ## Why Sahha matters in Nara
 
 Nara's food scene skews toward soba, kakinoha-zushi (persimmon-leaf sushi), and tourist-friendly udon shops clustered near Nara Park and Kintetsu-Nara Station — but halal options historically have been thin on the ground. Sahha fills that gap decisively. With a 4.9 rating across more than 639 reviews, it's one of the most consistently praised restaurants in the region, halal or otherwise. For Muslim visitors touring Tōdai-ji, Kasuga Taisha, or the deer of Nara Park, it removes the usual headache of hunting for a certified kitchen, and for everyone else it's simply a well-reviewed spot for generous, flavorful cooking that leans on halal meats, rice dishes, and Japanese-style curry.
@@ -61,7 +60,7 @@ Given the review volume and near-perfect rating, come hungry and expect a proper
 
 ## When to go
 
-Lunch is generally the safer bet at neighborhood restaurants like this one in Japan, both for kitchen freshness and for avoiding a dinner rush if Sahha is popular with local Muslim families and students on weekends. Nara's high season — cherry blossoms in late March/early April and autumn foliage in November — brings a spike in visitors citywide, so if you're combining a temple day with a meal here, consider going right at lunch opening or in the early afternoon lull between 2 and 5pm to avoid a wait.
+Lunch is generally the safer bet at neighborhood restaurants like this one in Japan, both for kitchen freshness and for avoiding a dinner rush if Sahha is popular with local Muslim families and students on weekends. Nara's high season — cherry blossoms in late March/early April and autumn foliage in November — brings a spike in visitors citywide, so if you're combining a temple day with a meal here, consider going right at lunch opening or in the early afternoon lull to avoid a wait.
 
 Because this is a residential-area restaurant rather than a tourist-strip one, it's less likely to be swamped than places directly beside Nara Park, but calling ahead or checking a live map listing for today's hours is still worth the two minutes it takes.
 

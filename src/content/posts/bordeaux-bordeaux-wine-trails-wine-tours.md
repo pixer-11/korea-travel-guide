@@ -69,7 +69,7 @@ Many itineraries build in lunch, either at a bistro in a wine village or a picni
 
 ## Tips for making the most of it
 
-Spit or sip sparingly early in the day — three châteaux times four pours adds up faster than it seems. Wear shoes that can handle gravel paths and cellar floors, not city sandals. Bring a light jacket even in summer, since cellars are kept cool year-round for the barrels. If you want to bring bottles home, ask at each château about shipping to your home country versus carrying bags yourself — French customs allow generous personal wine allowances within the EU but international flights have their own restrictions.
+Spit or sip sparingly early in the day — the tastings add up faster than it seems. Wear shoes that can handle gravel paths and cellar floors, not city sandals. Bring a light jacket even in summer, since cellars are kept cool year-round for the barrels. If you want to bring bottles home, ask at each château about shipping to your home country versus carrying bags yourself — French customs allow generous personal wine allowances within the EU but international flights have their own restrictions.
 
 Cash or card for direct château purchases is worth carrying separately from what you've paid the tour operator, since on-site sales are usually a separate transaction.
 

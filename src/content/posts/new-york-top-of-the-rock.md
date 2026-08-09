@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -101,15 +100,14 @@ At night the deck transforms — the city becomes a grid of lit windows and movi
 
 ## When to go
 
-The deck runs 8am to midnight every day of the week, with the last elevator typically around an hour before closing — worth confirming on the day since last-entry cutoffs shift slightly with the season. Measured foot-traffic data points to the same quiet window both on weekdays and weekends: right at opening through late evening tends to stay manageable, while the crunch on weekends lands squarely between 4pm and 8pm as the after-lunch crowd overlaps with sunset-seekers.
+Opening and closing times vary by season, with the last elevator typically running about an hour before closing — worth confirming on the day before you go. Measured foot-traffic data points to the same quiet window both on weekdays and weekends: right at opening through late evening tends to stay manageable, while the crunch on weekends lands squarely between 4pm and 8pm as the after-lunch crowd overlaps with sunset-seekers.
 
 If you want the golden-hour-into-night transition without elbow-to-elbow rails, book a slot just before sunset on a weekday, or go for the last entry window and watch the city light up with a fraction of the daytime crowd around you.
 
 ## How to visit like a local
 
-Buy your timed ticket online days ahead — this isn't a spot where you casually show up, since it's genuinely one of the busiest observation decks in the city and walk-up availability on weekends is unreliable. Choose your slot deliberately: sunrise-adjacent morning entries and the last hour or two before midnight are your best bet for breathing room, since the 4pm–8pm weekend rush is when the platforms feel tightest.
+Buy your timed ticket online days ahead — this isn't a spot where you casually show up, since it's genuinely one of the busiest observation decks in the city and walk-up availability on weekends is unreliable. Choose your slot deliberately: sunrise-adjacent morning entries and the last hour or two before closing are your best bet for breathing room, since the 4pm–8pm weekend rush is when the platforms feel tightest.
 
 Dress for wind — the open-air floors are noticeably breezier and colder than street level, even in shoulder seasons. Payment for tickets, food, and gift-shop items is card and mobile-pay first; don't expect to need much cash. Locals who do come up tend to skip the ground-floor gift shop scrum and head straight for the express elevator line, then linger longest on floor 70 rather than crowding floor 67's glassed-in level.
 
 The one mistake almost every first-timer makes: treating this as a five-minute photo stop and rushing back down. Budget 60–90 minutes to actually walk all three levels, let the light change, and find the angle where the Empire State Building lines up perfectly between the two Rockefeller towers below you.
-

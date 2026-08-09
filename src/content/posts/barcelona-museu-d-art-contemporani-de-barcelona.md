@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -98,7 +97,7 @@ Temporary shows change the rhythm of a visit considerably, so check what's curre
 
 ## When to go
 
-MACBA is closed Tuesdays, open 10am–8pm Monday, Wednesday through Saturday, and only until 3pm on Sundays. Plan a Sunday visit as a morning activity, not an afternoon one.
+MACBA is closed Tuesdays, open regular daytime hours the rest of the week, with an earlier closing time on Sundays. Plan a Sunday visit as a morning activity, not an afternoon one.
 
 Crowd patterns are predictable here. Weekdays, the calm window is 10am–11am, right at opening, before tour groups and school visits build up.
 

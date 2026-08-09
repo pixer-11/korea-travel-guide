@@ -59,7 +59,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ It's a genuine test of nerve; people either drop flat to photograph their shoes 
 
 ## When to go
 
-Sunset is the obvious draw — the deck lets you watch Bangkok flip from hazy daytime gold to a grid of neon and headlights, the river turning from brown to black and catching the reflected light of the bridges. That said, the crowd data backs up what regulars already suspect: this is a busy attraction throughout its open hours (10am–11pm daily), with the heaviest crush on weekends between 5pm and 7pm, exactly when everyone else has the same sunset idea.
+Sunset is the obvious draw — the deck lets you watch Bangkok flip from hazy daytime gold to a grid of neon and headlights, the river turning from brown to black and catching the reflected light of the bridges. That said, the crowd data backs up what regulars already suspect: this is a busy attraction throughout the day, with the heaviest crush on weekends between 5pm and 7pm, exactly when everyone else has the same sunset idea.
 
 If you want the glass floor to yourself for a few extra seconds and shorter waits at the elevators, aim for a weekday, or come right near opening or later in the evening — after 8pm the deck settles into a calmer, more atmospheric rhythm of city lights rather than a crowd fighting for the same railing spot.
 

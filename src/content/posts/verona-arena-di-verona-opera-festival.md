@@ -62,7 +62,7 @@ You feel it before you see it: the low murmur of a crowd gathering on pink-hued 
 
 Few opera experiences anywhere compare to hearing a full orchestra and chorus fill a Roman amphitheatre built in the 1st century AD. The scale is the point: sets for Aida can include full-size columns and processions of performers, voices rising unamplified (for the most part) into open air, with the night sky as a backdrop instead of a gilded ceiling.
 
-This is the 103rd edition of the festival, running since June 12 and continuing through September 12, 2026, so there's a wide window to plan around — and multiple titles in rotation, including Turandot, Nabucco, and La Traviata alongside Aida.
+This is the 103rd edition of the festival, running across the summer months, so there's a wide window to plan around — and multiple titles in rotation, including Turandot, Nabucco, and La Traviata alongside Aida.
 
 ## Getting there
 

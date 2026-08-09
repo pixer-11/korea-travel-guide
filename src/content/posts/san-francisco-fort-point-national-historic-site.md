@@ -74,7 +74,7 @@ Muni bus 28 runs along the Presidio to spots within a 10–15 minute walk. Drivi
 
 ## When to go
 
-The fort is open select days each week, and closed both Tuesday and Wednesday — plan around that if you're building a Presidio day. Mornings are your best bet for calmer wind and clearer light for photos of the bridge's underside arch; by early afternoon, gusts funneling through the Golden Gate can make the parade ground genuinely uncomfortable, especially in spring and summer.
+The fort is open select days each week, so check the current schedule before you go — plan around that if you're building a Presidio day. Mornings are your best bet for calmer wind and clearer light for photos of the bridge's underside arch; by early afternoon, gusts funneling through the Golden Gate can make the parade ground genuinely uncomfortable, especially in spring and summer.
 
 Fog is common year-round but tends to burn off by midday in late summer and fall, which are generally the clearest months to see the bridge towers rather than a wall of grey.
 
@@ -82,6 +82,6 @@ Fog is common year-round but tends to burn off by midday in late summer and fall
 
 Treat Fort Point as a stop on a longer shoreline walk rather than a standalone errand — pair it with Crissy Field's beach and marsh trails or continue on to the bridge itself. Entry is free and there's no advance booking system, so you simply walk in during open hours; ranger talks and cannon drills run on a posted schedule at the visitor desk, so check times as soon as you arrive rather than assuming one will start soon.
 
-Because it's well-known and sits on one of the city's busiest walking/biking corridors, weekend afternoons draw real crowds of both tourists and cyclists passing through — arriving right at 10am on a weekday, when the fort is open, gets you the emptiest casemates and the best light for photos. Dress in layers no matter the forecast: the wind off the Golden Gate strait is sharper here than almost anywhere else in the city, and the fort's brick interior stays cool even when it's warm outside.
+Because it's well-known and sits on one of the city's busiest walking/biking corridors, weekend afternoons draw real crowds of both tourists and cyclists passing through — arriving on a weekday morning gets you the emptiest casemates and the best light for photos. Dress in layers no matter the forecast: the wind off the Golden Gate strait is sharper here than almost anywhere else in the city, and the fort's brick interior stays cool even when it's warm outside.
 
 The mistake most visitors make is glancing at the fort from the bridge's pedestrian path above and never actually walking down into it — the view from inside, looking straight up through a gun port at the bridge's underside, is the whole reason to come.

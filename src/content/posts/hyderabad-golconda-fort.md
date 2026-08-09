@@ -80,6 +80,6 @@ The fort keeps standard daytime visiting hours, so plan your visit to wrap up we
 
 ## How to visit like a local
 
-Given how heavily visited Golconda is, the single best move is timing: arrive right at 9am, before tour buses and midday heat converge, since this is consistently one of Hyderabad's most-visited monuments and the narrow gateways and staircases bottleneck fast. Buy your entry ticket at the counter near Fateh Darwaza — cash and card are generally both accepted, but carrying small cash notes smooths things along if a counter's card machine is down.
+Given how heavily visited Golconda is, the single best move is timing: arrive early in the morning, before tour buses and midday heat converge, since this is consistently one of Hyderabad's most-visited monuments and the narrow gateways and staircases bottleneck fast. Buy your entry ticket at the counter near Fateh Darwaza — cash and card are generally both accepted, but carrying small cash notes smooths things along if a counter's card machine is down.
 
 Hiring one of the licensed guides stationed near the entrance is genuinely useful here, since the fort's engineering (drainage, acoustics, ventilation shafts) isn't self-explanatory from ruins alone, and a short negotiation over the fee upfront avoids confusion later. Wear closed, grippy shoes — sandals on worn granite ramps are the most common regret visitors mention. And don't stop at the first bastion or two: the real reward is the top, so pace yourself with water and shade breaks rather than turning back early.

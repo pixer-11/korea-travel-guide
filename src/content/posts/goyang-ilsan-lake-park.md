@@ -76,6 +76,6 @@ Winter is starkly quiet, with the lake sometimes partially frozen, which has its
 
 ## How to visit like a local
 
-This park is a genuine local institution, not a niche find, so plan around the crowds rather than expecting solitude. Come right at opening on a weekday if you want the paths mostly to joggers and older residents doing their morning laps — by afternoon and especially on weekends, the loop fills with cyclists, family groups, and picnic blankets. Entry to the park itself is free, and paths are wide enough that you don't need to book anything in advance; just walk in through any of the main gates.
+This park is a genuine local institution, not a niche find, so plan around the crowds rather than expecting solitude. Come right at opening on a weekday if you want the paths mostly to joggers and older residents doing their morning laps — by afternoon and especially on weekends, the loop fills with cyclists, family groups, and picnic blankets. Paths are wide enough that you don't need to book anything in advance; just walk in through any of the main gates.
 
 If you rent a bike or paddle boat, small vendors near the entrances typically take cash and card. The etiquette that trips up visitors most: the perimeter path has an unspoken lane logic, with faster cyclists and runners on the outer edge, so keep to the inner side if you're strolling or taking photos. Pair the visit with a walk into the Lafesta or Western Dom shopping streets just east of the park, both an easy extension if you want food or coffee after your loop.

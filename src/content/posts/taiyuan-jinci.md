@@ -40,7 +40,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come to Jinci for a tree and a spring, and you leave having walked through three thousand years of Chinese architectural history without really noticing the transition. That's the strange trick of this place: it doesn't announce its age with velvet ropes and placards every ten steps. Instead you find it in the lean of a cypress trunk, the worn stone of a bridge, the way light falls through carved lattice windows onto painted beams that have not been touched up in decades.
@@ -49,7 +48,7 @@ The complex sits at the foot of Xuanweng Mountain in Jinyuan District, a fair di
 
 ## Why go
 
-The headline attraction is the Shengmu Hall (Hall of the Holy Mother), a Northern Song structure from 1023 CE, one of the oldest wooden buildings still standing in China. Its roof curves upward with a lightness that later, heavier Ming and Qing halls lost, and inside are 43 Song-dynasty painted clay statues of court attendants — startlingly expressive faces and postures that art historians still study for their realism.
+The headline attraction is the Shengmu Hall (Hall of the Holy Mother), a Northern Song structure from 1023 CE, one of the oldest wooden buildings still standing in China. Its roof curves upward with a lightness that later, heavier Ming and Qing halls lost, and inside are Song-dynasty painted clay statues of court attendants — startlingly expressive faces and postures that art historians still study for their realism.
 
 In front of the hall stands the reason many people first heard of Jinci at all: a cypress tree estimated at roughly 3,000 years old, growing at a dramatic slant, propped in places, and still very much alive. Nearby, the Never-Aging Spring has fed the site for centuries and gives the complex its watery, garden-like character — ponds, a crisscrossing "Fish Pond Flying Bridge" (a cruciform bridge design unique in Chinese architecture), and channels that once irrigated the surrounding farmland.
 

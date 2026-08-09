@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Tanga Market is worth the detour
@@ -89,7 +88,7 @@ Tanga Market sits in Kokurakita Ward, Kitakyushu, about a 10–15 minute walk fr
 
 ## When to go
 
-The market keeps daytime hours only: 10am to 5pm Monday through Saturday, and it's closed entirely on Sundays — plan your visit for a weekday or Saturday, not a Sunday layover. Weekends, especially Saturday, get busy across the full 10am–5pm window, so if you want to actually see the stalls rather than shuffle past them, aim for a weekday morning shortly after opening.
+The market keeps daytime hours only: open during the day on weekdays and Saturdays, and it's closed entirely on Sundays — plan your visit for a weekday or Saturday, not a Sunday layover. Weekends, especially Saturday, get busy across the full 10am–5pm window, so if you want to actually see the stalls rather than shuffle past them, aim for a weekday morning shortly after opening.
 
 Give yourself a solid hour to walk the whole arcade slowly, longer if you're stopping to eat at two or three counters along the way. Since everything closes by 5pm, this is a late-morning or early-afternoon lunch outing rather than a dinner destination — plan your visit to Kokura around it, not after it.
 
@@ -98,4 +97,3 @@ Give yourself a solid hour to walk the whole arcade slowly, longer if you're sto
 Come hungry and skip breakfast — the move here is to graze, not to sit down for one big meal. Most stalls deal in cash, and small bills help since you're often buying single portions or small bags of produce; card acceptance is inconsistent at the smaller vendors, so don't count on it. There's no ticketing or queueing system for the market itself, though popular food counters can form short lines around midday — that's your cue to circle back to a quieter stall and return later.
 
 Because this is a genuinely well-known, well-reviewed market rather than an undiscovered spot, the real local trick is timing: a weekday morning gets you a working market with room to move, while Saturday afternoon gets you shoulder-to-shoulder browsing. Don't expect English menus at every stall — pointing and small numbers work fine, and vendors are used to it. The biggest mistake visitors make is treating it like a museum and not buying anything; vendors are running a business, so a small purchase, even just a skewer or a piece of fruit, is the polite way to look around.
-

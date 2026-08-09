@@ -48,7 +48,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,11 +68,11 @@ Yu Garden sits in the Huangpu district's Old City, a few minutes' walk from the 
 
 ## The bazaar around it
 
-Most visitors don't realize the garden and the bazaar surrounding it are two separate things — the maze of Qing-style shopping streets, teahouses, and snack counters outside the walls (Nanxiang Steamed Bun Restaurant for xiaolongbao, countless stalls selling candied hawthorn skewers) is free to wander and can easily eat up another hour or two. Budget your time so the bazaar doesn't swallow the garden visit, or vice versa.
+Most visitors don't realize the garden and the bazaar surrounding it are two separate things — the maze of Qing-style shopping streets, teahouses, and snack counters outside the walls (restaurants serving Shanghainese snacks, countless stalls selling candied hawthorn skewers) is free to wander and can easily eat up another hour or two. Budget your time so the bazaar doesn't swallow the garden visit, or vice versa.
 
 ## When to go
 
-The garden is open Tuesday through Sunday, 9:00 AM to 4:30 PM, and closed all day Monday — plan around that if Monday is your only free day in Shanghai. Within opening hours, the light is best in the first hour or so after opening, when the low sun cuts across the rockeries and the crowds haven't built up. Spring (for magnolia and wisteria) and autumn are the most comfortable seasons weather-wise; summer in Shanghai is hot and humid enough that the shaded corridors become genuinely useful shelter rather than just decoration.
+The garden is open Tuesday through Sunday, during regular daytime hours, and closed all day Monday — plan around that if Monday is your only free day in Shanghai. Within opening hours, the light is best in the first hour or so after opening, when the low sun cuts across the rockeries and the crowds haven't built up. Spring (for magnolia and wisteria) and autumn are the most comfortable seasons weather-wise; summer in Shanghai is hot and humid enough that the shaded corridors become genuinely useful shelter rather than just decoration.
 
 ## How to visit like a local
 
@@ -82,4 +81,3 @@ This is one of the most-visited attractions in Shanghai, so the goal isn't findi
 Buy your ticket at the official counter near the garden entrance rather than from touts working the bazaar lanes, who sometimes sell overpriced or invalid tickets. Tickets are ordinarily inexpensive by international standards, but confirm current pricing at the gate or on the official Yuyuan site, since it does change. Most locals pay by mobile (Alipay/WeChat Pay) rather than cash.
 
 The single biggest mistake tourists make is treating the garden and the surrounding bazaar as the same stop and rushing both — slow down inside the walls specifically, since the whole design rewards lingering at each pavilion rather than walking straight through. Wear shoes with grip: some of the rockery paths and bridge steps are uneven stone, polished smooth by decades of foot traffic.
-

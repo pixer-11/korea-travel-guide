@@ -85,7 +85,7 @@ Look for the reliefs flanking cave entrances depicting the Buddha in different p
 
 ## When to go
 
-The site keeps standard daytime visiting hours, with a weekly closing day, so it's worth checking current timings before you set out. Go early: measured foot-traffic shows the quietest stretch is the first hour after opening on weekdays, when the stone is still cool and you can hear the forest instead of a crowd. Weekends run busy essentially all day, from opening until closing, so if you have flexibility, aim for a weekday morning.
+The site keeps standard daytime visiting hours, with a weekly closing day, so it's worth checking current timings before you set out. Go early on a weekday morning: the crowds build steadily through the day, and arriving soon after opening is your best chance to have the stone still cool and the forest quiet around you. Weekends run busy essentially all day, from opening until closing, so if you have flexibility, aim for a weekday morning.
 
 The cooler months, roughly November through February, are the most comfortable for the climbing involved — the monsoon (June–September) turns the park lush and green but the stairs get slippery, and the pre-monsoon months (April–May) can be punishingly hot for a shadeless uphill walk.
 

@@ -64,7 +64,7 @@ Taipei Arena sits directly above Taipei Arena Station on the Wenhu Line (Brown L
 
 ## What the venue experience feels like
 
-Inside, Taipei Arena's bowl seating wraps close enough to the stage that even mid-tier sections get a real view of the screens and lighting rigs, not just a speck on a distant platform. The building holds around 15,000 people, so a sold-out multi-night run means the plaza outside becomes its own kind of pre-show event — vendors, fan-run pop-ups, and photo backdrops tend to cluster near the main entrance in the hours before doors.
+Inside, Taipei Arena's bowl seating wraps close enough to the stage that even mid-tier sections get a real view of the screens and lighting rigs, not just a speck on a distant platform. It's a large enough venue that a sold-out multi-night run means the plaza outside becomes its own kind of pre-show event — vendors, fan-run pop-ups, and photo backdrops tend to cluster near the main entrance in the hours before doors.
 
 Expect security screening similar to any major arena show: bag checks, no large flags or professional cameras, and a scan of your ticket QR code at entry.
 

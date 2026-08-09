@@ -54,7 +54,6 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 ---
-
 ## Why go
 
 There's a specific kind of thrill that only a 24-hour race delivers: the sense that the event never actually stops. You can watch bikes scream down the Mistral straight at 2pm on Saturday, wander off for dinner, come back at 3am, and the same fight for position is still grinding on under floodlights, riders swapping out in pit lane like a relay team that never sleeps.
@@ -75,7 +74,7 @@ Wander the paddock area to see the endurance-specific machinery up close — the
 
 ## When to go
 
-The event is set for September 17-20, 2026, which puts it in early autumn in Provence — expect warm days and noticeably cooler nights, so pack layers if you're planning to be trackside into the small hours. Because this is a night race, one of the most memorable windows is the stretch from dusk through the first couple of hours of darkness, when the floodlights come on and the character of the whole event shifts.
+The event is held in September, which puts it in early autumn in Provence — expect warm days and noticeably cooler nights, so pack layers if you're planning to be trackside into the small hours. Because this is a night race, one of the most memorable windows is the stretch from dusk through the first couple of hours of darkness, when the floodlights come on and the character of the whole event shifts.
 
 If you only have time for a single day, the Saturday-into-Sunday overnight period is the heart of the race, but the final laps on Sunday afternoon, when the championship is often mathematically decided, draw their own dedicated crowd.
 
@@ -86,4 +85,3 @@ Regulars treat the Bol d'Or as a weekend, not a day trip — many bring camping 
 Bring cash alongside cards, since not every vendor at a circuit this size accepts card payment reliably. The mistake first-timers make is treating it like a sprint race and leaving after a few hours — the real spectacle of endurance racing is watching how strategy, fatigue, and mechanical wear reshape the leaderboard overnight, so budget to stay through at least one full darkness-to-dawn cycle.
 
 Always confirm exact dates, gate times, and ticket categories on the official Bol d'Or or FIM EWC website before finalizing travel, as endurance racing schedules can be adjusted closer to the event.
-

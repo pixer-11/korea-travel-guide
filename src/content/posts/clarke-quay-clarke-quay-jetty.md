@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Clarke Quay Jetty is easy to overlook because it's not a monument — it's a working boat pier tucked along the riverside promenade in front of Clarke Quay's row of converted 19th-century warehouses (godowns). But that's exactly what makes it worth a stop: it's a quiet, functional slice of the Singapore River's working past, still doing the job piers have done here since the colonial trading era, just with tour boats instead of cargo lighters.
@@ -96,7 +95,7 @@ Avoid weekend evenings after 8pm if you want a calm look at the jetty — that's
 
 ## How to visit like a local
 
-Since Clarke Quay Jetty is still relatively under-the-radar as a sight in its own right — most people treat it purely as a cruise pick-up point rather than a stop — treat it as a five-minute pause rather than a destination, and pair it with a longer riverside walk toward Boat Quay or Robertson Quay so you're not backtracking. If you plan to board the Singapore River Cruise, buy tickets in advance online or at the kiosk near the pier rather than queuing on the spot, and expect payment to be cashless (card or mobile pay) at the ticket counter.
+Since Clarke Quay Jetty is still relatively under-the-radar as a sight in its own right — most people treat it purely as a cruise pick-up point rather than a stop — treat it as a five-minute pause rather than a destination, and pair it with a longer riverside walk toward Boat Quay or Robertson Quay so you're not backtracking. If you plan to board the Singapore River Cruise, buy tickets in advance online or at the kiosk near the pier rather than queuing on the spot.
 
 There's no tipping expectation at the jetty itself. The most common visitor mistake is arriving mid-afternoon in full sun expecting shade — the pier and promenade are largely open, so bring a hat or aim for the golden-hour window instead. Locals passing through generally treat the jetty as a thoroughfare, not a lingering spot, so if you want unhurried photos, get there right after sunrise or just before the dinner rush hits the quay's restaurants.
 

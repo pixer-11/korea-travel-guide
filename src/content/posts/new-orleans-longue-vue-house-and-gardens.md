@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You turn off a residential street near City Park and the city noise just stops. Live oaks lean over the drive, clipped hedges line up in tidy rows, and there's no line, no ticket-scanning crowd — just a gravel path and the sound of a fountain somewhere ahead.
@@ -94,7 +93,7 @@ Public transit doesn't run directly to the door, so a car, rideshare, or taxi is
 
 ## When to go
 
-The estate is open daily, 8am to 5pm, every day of the week. Spring is peak garden season — azaleas and sweet olive perfume the paths — but the structure of the gardens holds up in every season.
+Longue Vue is open daily; check the current posted hours before you go. Spring is peak garden season — azaleas and sweet olive perfume the paths — but the structure of the gardens holds up in every season.
 
 Crowd patterns here are gentler than almost anywhere else in New Orleans tourism. Weekdays between 8am and 9am are the quietest stretch of the whole week. On weekends, mornings from 8am to 10am are your best bet before things pick up; weekend crowds build steadily from 9am and stay busier straight through to 4pm.
 

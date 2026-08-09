@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,7 +91,7 @@ Mornings right at opening tend to be calmest — arrive as close to 9am as you c
 
 ## How to visit like a local
 
-Buy your ticket online in advance and choose a timed entry slot — this alone cuts your wait at the door from potentially an hour to almost nothing, and it's how anyone who visits Venice regularly handles the major sights. Note that the Doge's Palace ticket is usually bundled with the Museo Correr and other Piazza San Marco museums under the "Museums of St Mark's Square Square" pass, so check what's included before buying a standalone ticket.
+Buy your ticket online in advance and choose a timed entry slot — this alone cuts your wait at the door from potentially an hour to almost nothing, and it's how anyone who visits Venice regularly handles the major sights. Note that the Doge's Palace ticket is usually bundled with the Museo Correr and other Piazza San Marco museums under the "Museums of St Mark's Square" pass, so check what's included before buying a standalone ticket.
 
 Payment inside is card-friendly, but keep some cash for the small kiosks and cafés on the square itself. The single biggest mistake visitors make is treating this as a quick photo-stop between the Basilica and lunch — the palace rewards a slow pace, especially in the Sala del Maggior Consiglio, where craning your neck at the ceiling for a few extra minutes reveals details in the Tintoretto that a rushed glance misses entirely.
 

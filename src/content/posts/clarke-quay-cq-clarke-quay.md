@@ -61,7 +61,7 @@ Beyond CQ itself, the Singapore River promenade connects to Boat Quay's more res
 
 ## When to go
 
-Late afternoon into early evening is the sweet spot — you get daylight for photos over the river, then watch the lanterns and building lights switch on as the sun sets. Weeknights are calmer for a sit-down meal; Thursday through Saturday nights the area shifts into full nightlife mode, with crowds, music, and queues at popular bars. Singapore's heat and humidity make midday visits less comfortable outdoors, so the riverside tables are best enjoyed after 5pm. The district is roofed in sections, so it remains a workable option even during the frequent afternoon showers.
+Late afternoon into early evening is the sweet spot — you get daylight for photos over the river, then watch the lanterns and building lights switch on as the sun sets. Weeknights are calmer for a sit-down meal; Thursday through Saturday nights the area shifts into full nightlife mode, with crowds, music, and queues at popular bars. Singapore's heat and humidity make midday visits less comfortable outdoors, so the riverside tables are more comfortable once the evening cools down. The district is roofed in sections, so it remains a workable option even during the frequent afternoon showers.
 
 ## How to visit like a local
 

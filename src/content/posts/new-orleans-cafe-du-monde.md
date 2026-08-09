@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -66,13 +65,13 @@ Rideshares and taxis can drop you at the edge of the pedestrian zone near the Fr
 
 ## What to eat and drink
 
-There's really one order here: an order of beignets (they come three to a plate, always in multiples of three) and a café au lait, the house coffee blended with chicory and cut with hot milk. The beignets arrive still steaming, and the powdered sugar is piled on so generously that a light breeze off the Mississippi will dust your shirt if you're sitting at an outdoor table.
+There's really one order here: an order of beignets and a café au lait, the house coffee blended with chicory and cut with hot milk. The beignets arrive still steaming, and the powdered sugar is piled on so generously that a light breeze off the Mississippi will dust your shirt if you're sitting at an outdoor table.
 
 Locals and servers alike will warn you not to inhale while taking your first bite — it's a running joke that's rooted in real experience. The menu is otherwise short: cold milk, orange juice, sodas, and that's close to it. This is a one-dish, one-drink kind of stop, and that focus is the point.
 
 ## When to go
 
-Cafe Du Monde is open every day from 7:15am, closing at 11pm Sunday through Thursday and stretching to midnight on Friday and Saturday nights, so it works equally well as a first stop before a Quarter walk or a late-night finish after dinner elsewhere. Mornings before 9am tend to be calmer on weekdays, and the lull between lunch and the dinner crowd — roughly mid-afternoon — is another decent window.
+Cafe Du Monde keeps long hours, open from early morning well into the night, so it works equally well as a first stop before a Quarter walk or a late-night finish after dinner elsewhere. Mornings before 9am tend to be calmer on weekdays, and the lull between lunch and the dinner crowd — roughly mid-afternoon — is another decent window.
 
 Weekend mornings, especially around brunch time, are when the line stretches down the block; if you're set on a leisurely sit-down visit, avoid arriving late Saturday or Sunday morning.
 

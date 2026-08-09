@@ -70,17 +70,17 @@ Then there's the terrace out back: tables strung with lights, looking straight d
 
 ## What to eat
 
-The menu leans classic Italian-American — house-made pastas, a well-loved lasagna, whole roasted branzino, a burrata starter that regulars order on repeat. Portions are generous, the wine list is deep and mostly Italian, and prices sit in the mid-to-upper range for Seattle dining, which tracks with the theater and the view you're paying for as much as the food itself. This isn't a place for a quiet, efficient dinner — it's a place for a long one, with a second glass of wine while the show winds through its set.
+The menu leans classic Italian-American — house-made pastas and other classic dishes that regulars order on repeat. Portions are generous, the wine list is deep and mostly Italian, and prices sit in the mid-to-upper range for Seattle dining, which tracks with the theater and the view you're paying for as much as the food itself. This isn't a place for a quiet, efficient dinner — it's a place for a long one, with a second glass of wine while the show winds through its set.
 
 ## Getting there
 
-The Pink Door sits at 1919 Post Alley, tucked into the historic guts of Pike Place Market in downtown Seattle. The closest transit is Westlake Station (Link light rail and multiple bus lines), about a 10-minute walk downhill through the market. If you're coming from the waterfront, look for the Post Alley entrance near the Gum Wall and Pike Place Fish Market — the alley itself is part of the experience, string-lit and lined with buskers most evenings.
+The Pink Door sits within Post Alley, tucked into the historic guts of Pike Place Market in downtown Seattle. The closest transit is Westlake Station (Link light rail and multiple bus lines), about a 10-minute walk downhill through the market. If you're coming from the waterfront, look for the Post Alley entrance near the Gum Wall and Pike Place Fish Market — the alley itself is part of the experience, string-lit and lined with buskers most evenings.
 
 Street parking in this part of downtown is scarce and metered; the Pike Place Market parking garage on Western Avenue is the easiest fallback.
 
 ## When to go
 
-The restaurant is only open Tuesday through Saturday, 11:30am to 11:30pm — it's closed Sunday and Monday, so don't build a trip around either of those days. Weekends run busy from around 11:30am to 9pm, especially Saturday, when both the market crowds and the dinner rush overlap. If you want the terrace to yourself for a few minutes before it fills in, or you want a shot at a walk-in table, arrive right at the 11:30am opening or aim for the stretch between late lunch and early dinner, around 2 to 4:30pm.
+The restaurant is only open on select days each week — it's closed Sunday and Monday, so don't build a trip around either of those days. Weekends run busy, especially Saturday, when both the market crowds and the dinner rush overlap. If you want the terrace to yourself for a few minutes before it fills in, or you want a shot at a walk-in table, arrive right at the 11:30am opening or aim for the stretch between late lunch and early dinner, around 2 to 4:30pm.
 
 Evenings are when the cabaret shows happen, so if that's the draw, you'll need to trade quiet for the performance.
 
@@ -88,6 +88,6 @@ Evenings are when the cabaret shows happen, so if that's the draw, you'll need t
 
 This is a very popular, well-reviewed spot — not a hidden discovery — so the smart move is managing the crowd rather than hoping to avoid it. Reserve ahead online for dinner, especially Friday and Saturday nights when the cabaret is running and tables turn slowly. If you just want the atmosphere and the view without full dinner commitment, the bar and terrace sometimes take walk-ins even when the dining room is booked — worth asking at the host stand.
 
-Dress code is relaxed but the room skews dressy-casual for evening service. Payment is standard card/tap, and tipping follows normal U.S. restaurant convention, around 18–22%. The mistake first-timers make is treating it as a quick market-adjacent bite; budget at least 90 minutes to two hours if you want food, a drink, and any of the show, and don't expect a fast table turnaround on weekends.
+Dress code is relaxed but the room skews dressy-casual for evening service. Payment is standard card/tap, and tipping follows normal U.S. restaurant convention. The mistake first-timers make is treating it as a quick market-adjacent bite; budget at least 90 minutes to two hours if you want food, a drink, and any of the show, and don't expect a fast table turnaround on weekends.
 
 If you're mainly there for the Elliott Bay view, request the terrace when you book rather than hoping for it at check-in.

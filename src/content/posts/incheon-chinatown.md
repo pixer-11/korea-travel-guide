@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Incheon's Chinatown is the oldest and largest Chinese enclave in Korea, established in the 1880s after the port opened to foreign trade and Qing-dynasty merchants settled here. It's also widely credited as the birthplace of jajangmyeon, the sweet-savory black bean noodle dish now considered Korean comfort food rather than Chinese import. Unlike the polished Chinatowns of other world cities, Incheon's version is small, slightly worn, and genuinely historic rather than built purely for tourists — the streets still follow the original 19th-century foreign concession layout, with Qing, Japanese, and Western-style buildings sitting within a few blocks of each other.
@@ -64,7 +63,7 @@ There's no need for a taxi once you arrive — the whole district is walkable, t
 
 ## What to see and eat
 
-Just inside the gate, Chinatown-ro is lined with red lanterns, souvenir shops selling Chinese pastries and sesame candy, and dozens of Chinese restaurants with painted facades. This is the place to eat jajangmyeon — many restaurants here claim decades-old recipes, and it's worth comparing it to the tangsuyuk (sweet and sour pork) served alongside. The Jajangmyeon Museum, housed in a former Chinese restaurant building, traces the dish's history from Chinese laborers' food to a national obsession; it's a small museum, worth 20-30 minutes.
+Just inside the gate, Chinatown-ro is lined with red lanterns, souvenir shops selling Chinese pastries and sesame candy, and dozens of Chinese restaurants with painted facades. This is the place to eat jajangmyeon — many restaurants here claim decades-old recipes, and it's worth comparing it to the tangsuyuk (sweet and sour pork) served alongside. The Jajangmyeon Museum, housed in a former Chinese restaurant building, traces the dish's history from Chinese laborers' food to a national obsession; it's a small museum that doesn't take long to see.
 
 Continue uphill and you'll reach Samgukji Mural Street, where alley walls are painted with scenes from the Chinese classic "Romance of the Three Kingdoms." Nearby, Songwol-dong Fairy Tale Village offers a different, whimsical set of murals if you have extra time.
 

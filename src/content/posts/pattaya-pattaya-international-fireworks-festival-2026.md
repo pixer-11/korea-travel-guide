@@ -58,4 +58,4 @@ Between segments, emcees, sponsor activity, and a festive, slightly chaotic ener
 
 Regulars tended to arrive at least 90 minutes before the show was expected to start, since the good sightlines along the central beach and the Bali Hai Pier end filled up fast, leaving latecomers squinting from side streets. Small cash (Thai baht) was useful for street food and songthaew fares, since many beachfront vendors didn't take cards.
 
-Rooftop bars with beach views tended to fill their reservation lists in the days before the event. The beach sand stayed packed and warm underfo
+Rooftop bars with beach views tended to fill their reservation lists in the days before the event. The beach sand stayed packed underfoot late into the night.

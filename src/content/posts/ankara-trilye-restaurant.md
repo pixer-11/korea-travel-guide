@@ -53,7 +53,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Trilye matters in Ankara's dining scene
@@ -70,7 +69,7 @@ Given Çankaya's hilly streets and limited street parking, a taxi or ride-hailin
 
 ## What to eat
 
-This is a seafood house first, so let the fish counter or the server's rundown of the day's catch guide you rather than defaulting to the printed menu — like most serious Turkish seafood restaurants, what's best here changes with what came in that morning. Expect a meze spread to open the meal: cold vegetable and seafood mezes like ezme, sea bass marinated in olive oil, or octopus salad, followed by grilled or oven-baked whole fish sold by weight.
+This is a seafood house first, so let the fish counter or the server's rundown of the day's catch guide you rather than defaulting to the printed menu — like most serious Turkish seafood restaurants, what's best here changes with what came in that morning. Expect a meze spread to open the meal: a selection of cold vegetable and seafood mezes, followed by grilled or oven-baked whole fish sold by weight.
 
 The menu also stretches into pasta and salads for anyone not in a fish mood, which is part of why it's described as a casual, contemporary spot rather than a strictly formal seafood temple. Portions and pacing follow the classic Turkish meyhane rhythm — slow, mezes first, raki or wine alongside, mains later — so don't rush the kitchen or expect an in-and-out meal.
 

@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -73,7 +72,7 @@ Bring your own snacks or buy grilled skewers and iced drinks from the small vend
 
 ## When to go
 
-Mornings before the heat sets in are the most comfortable time to circle the lake — the light is soft and the ruins across the water are least hazy. Late afternoon, roughly two hours before sunset, is the second-best window, giving you time to catch the temples glowing gold without walking into the evening rush. On weekends, the park gets genuinely busy from 4pm to 11pm as Ayutthaya families arrive for evening exercise, food carts, and the cooler air — worth avoiding if you want an uncrowded walk, but worth joining if you want to see how the park actually functions as the city's living room rather than just a photo backdrop.
+Mornings before the heat sets in are the most comfortable time to circle the lake — the light is soft and the ruins across the water are least hazy. Late afternoon, roughly two hours before sunset, is the second-best window, giving you time to catch the temples glowing gold without walking into the evening rush. On weekends, the park gets noticeably busier in the evenings as Ayutthaya families arrive for evening exercise, food carts, and the cooler air — worth avoiding if you want an uncrowded walk, but worth joining if you want to see how the park actually functions as the city's living room rather than just a photo backdrop.
 
 ## How to visit like a local
 

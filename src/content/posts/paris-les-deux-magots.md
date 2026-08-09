@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -84,15 +83,15 @@ The café sits directly on Place Saint-Germain-des-Prés at 6 Place Saint-Germai
 
 ## What to see / eat
 
-The menu leans classic French brasserie: onion soup gratinée, steak tartare prepared tableside, croque monsieur, and their own hot chocolate, which arrives thick and dark in a small silver pot. Breakfast here is a ritual in itself — a basket of croissants and the house jam alongside a café crème as the square wakes up around you. Prices sit on the higher end for Paris café culture; you're paying for the location, the history, and the linen as much as the food, so treat it as an experience rather than a bargain meal.
+The menu leans classic French brasserie, and their own hot chocolate, which arrives thick and dark in a small silver pot. Breakfast here is a ritual in itself — a basket of croissants and the house jam alongside a café crème as the square wakes up around you. Prices sit on the higher end for Paris café culture; you're paying for the location, the history, and the linen as much as the food, so treat it as an experience rather than a bargain meal.
 
 Sit on the heated, glass-enclosed terrace if you want the street theatre — passersby, the church bells marking the hour, tourists photographing the awning — or move inside near the magots statues for a quieter, wood-paneled hush.
 
 ## When to go
 
-The café opens at 7:30am every day and stays open until 1am, so there's real flexibility here that most Paris cafés don't offer. Mornings are genuinely calm: the quiet window runs from opening until about 11am on both weekdays and weekends, when you can actually hear the coffee machine over conversation. Avoid rolling in on a weekend between noon and 9pm — that stretch is consistently the busiest, with tour groups and lunch crowds filling the terrace and a wait for tables.
+The café keeps long hours every day, so there's real flexibility here that most Paris cafés don't offer. Mornings are genuinely calm: the quiet window runs from opening until about 11am on both weekdays and weekends, when you can actually hear the coffee machine over conversation. Avoid rolling in on a weekend between noon and 9pm — that stretch is consistently the busiest, with tour groups and lunch crowds filling the terrace and a wait for tables.
 
-If you're set on a weekend visit, either arrive right at 7:30am for breakfast or hold off until after 9pm, when things thin out again.
+If you're set on a weekend visit, either arrive early for breakfast or hold off until later in the evening, when things thin out again.
 
 ## How to visit like a local
 

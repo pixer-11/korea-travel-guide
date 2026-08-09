@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -100,7 +99,7 @@ Give yourself roughly an hour. Longer if you linger over the murals, which rewar
 
 This is a well-visited temple, and it shows in the numbers — it's among the most-reviewed religious sites in northern Thailand. Foot traffic is lightest between 7am and 8am, on both weekdays and weekends, before tour groups arrive.
 
-Avoid weekend afternoons and evenings, especially the 4pm-11pm stretch, when crowds peak. Hours run 5:30am to 7:30pm most days; Sundays it stays open later, until 11pm, which suits an evening visit once the heat and crowds have eased.
+Avoid weekend afternoons and evenings, especially the 4pm-11pm stretch, when crowds peak. Opening hours vary by day, so check ahead if you're planning an evening visit once the heat and crowds have eased.
 
 April's Songkran festival brings ceremonial bathing of the Phra Singh Buddha and much larger crowds — atmospheric, but not a quiet visit.
 
@@ -116,4 +115,3 @@ Entry to the grounds and main viharn is typically free, though the Lai Kham chap
 - Photography is generally fine outdoors and in most halls, but watch for signs restricting flash near the murals
 
 The mistake most visitors make is treating this purely as a photo stop and rushing through in fifteen minutes. Slow down at the Lai Kham murals — that's the payoff. Since it's genuinely popular rather than a quiet find, arriving right at opening is your best tool for having the courtyards to yourself.
-

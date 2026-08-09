@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You smell it before you see it — that briny, buttery haze drifting off Washington Avenue as valets wave cars into a lot that's never quite big enough. Joe's Stone Crab has been doing this since 1913, and the building itself feels like it's absorbed a century of clattering trays and cracked shells: high ceilings, dark wood booths, black-and-white photos of old Miami on the walls, a dining room so large it swallows a Friday-night crowd and still fills back up an hour later.
@@ -91,7 +90,7 @@ Save room for the Key lime pie: tart, dense, with a graham crust, and consistent
 
 ## When to go
 
-Stone crab is seasonal — the traditional season runs mid-October through mid-May, and that's the only real window when the claws on your plate are truly fresh rather than frozen from storage. Inside that window, note the hours carefully: Joe's is closed Monday and Tuesday entirely. Wednesday and Thursday it only opens for dinner, 5–10pm. Friday through Sunday it adds a lunch seating, 11:30am–2:30pm, before reopening for dinner at 5pm.
+Stone crab is seasonal — the traditional season runs mid-October through mid-May, and that's the only real window when the claws on your plate are truly fresh rather than frozen from storage. Inside that window, note the hours carefully: Joe's is closed Monday and Tuesday entirely. Wednesday and Thursday it only opens for dinner, while Friday through Sunday it adds a lunch seating before reopening for dinner — it's worth confirming the exact times before you go, since they can shift by season.
 
 Weekends are busy the entire stretch from noon to close, so there isn't really a quiet pocket to aim for on a Saturday or Sunday — go in expecting a wait no matter the hour.
 
@@ -102,4 +101,3 @@ Joe's doesn't take reservations for its main dining room, so the practice regula
 Dress is casual despite the price tag; nobody's turned away for shorts and sandals. Tipping follows standard US sit-down etiquette, around 18–20%, and cards are accepted everywhere — cash isn't needed. The mistake most first-timers make is skipping the size chart on stone crab claws and over-ordering jumbo when medium or large claws are just as sweet and considerably easier on the bill.
 
 And don't expect a hidden, off-peak secret hour: this is a genuinely famous, always-busy institution, so the real local move is patience, not stealth.
-

@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -93,7 +92,7 @@ Interpretive signage is minimal to nonexistent, so this isn't a place with a cur
 
 ## When to go
 
-The site is open daily from 5:30am to 10:30pm, though you'll want daylight to actually see into the grottoes — plan your visit between mid-morning and early evening. Weekend crowd data for the area shows the calm window is 7am to 9am; after that, through roughly 8pm, picnic groups, birthday parties, and school-age climbers fill the old cages and lawns.
+The site is open daily, though you'll want daylight to actually see into the grottoes — plan your visit between mid-morning and early evening. Weekend crowds tend to build as the morning goes on; after that, through roughly 8pm, picnic groups, birthday parties, and school-age climbers fill the old cages and lawns.
 
 If you want photos without people in the frame, or you just want the eerie quiet the ruins are built for, get there right at that early window. Weekdays tend to be quieter across the board, though no specific quiet hours are tracked for them — a weekday morning is a safe bet if your schedule allows it.
 

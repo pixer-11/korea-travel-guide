@@ -58,7 +58,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Ambrai Ghat matters in Udaipur
@@ -79,7 +78,7 @@ This strip is where you'll find some of Udaipur's most photographed restaurant t
 
 ## When to go
 
-Ambrai Ghat is open every day from 5am to 7pm, and the hour you pick changes the experience completely. Early morning — right at opening, around 5 to 7am — is when you'll see the ghat's working side: women washing clothes on the steps, the odd heron picking through the shallows, mist still sitting on the water before the heat builds.
+Ambrai Ghat is a public space you can visit any time of day, and the hour you pick changes the experience completely. Early morning — right at opening, around 5 to 7am — is when you'll see the ghat's working side: women washing clothes on the steps, the odd heron picking through the shallows, mist still sitting on the water before the heat builds.
 
 Midday is quiet but flat, light-wise, and the sun overhead does the view no favors. Sunset is the reason most people come, and it's genuinely spectacular here, with the palace domes catching orange light and reflecting in the lake — but that's precisely why weekend evenings between 4pm and 7pm turn into the densest crowd window of the week, with restaurant terraces filling and the steps packed shoulder to shoulder for photos.
 

@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -74,7 +73,7 @@ If you're already exploring the Presqu'île's covered passages or the antique sh
 
 ## When to go
 
-This is not a daily market, so timing matters. It runs Tuesday, Thursday, Saturday, and Sunday mornings only — closed Monday, Wednesday, and Friday. Tuesday and Thursday it runs 6:00 AM to 1:00 PM, Saturday until 1:30 PM, and Sunday it stretches latest, to 2:00 PM, which also tends to be the liveliest session with the fullest range of stalls.
+This is not a daily market, so timing matters. It runs Tuesday, Thursday, Saturday, and Sunday mornings only — closed Monday, Wednesday, and Friday. Hours run through the morning and vary somewhat by day, with Sunday's session tending to run latest, which also tends to be the liveliest session with the fullest range of stalls.
 
 Arrive early, ideally before 9am, if you want first pick of the produce and room to move between stalls without shuffling behind shopping trolleys. By late morning on Saturday and Sunday the aisles fill with locals doing their weekly shop, and the best-looking fruit and the freshest fish have often already gone.
 
@@ -85,4 +84,3 @@ Bring your own bag — a folded tote or basket marks you as someone who shops he
 There's no ticket, no entrance, no booking — you simply walk the length of the quai and stop where something catches your eye. Basic market French goes a long way: "un peu de ça, s'il vous plaît" while pointing works fine, and vendors appreciate not being rushed even if you're only buying a single peach. The mistake visitors make is treating it as a sightseeing stop and drifting through empty-handed; buy something, even just a bag of cherries or a pastry, and you'll get a warmer, faster interaction than if you're just browsing.
 
 Since this stretch of Lyon sees far fewer tourists than the Vieux Lyon lanes across the river, you can take your time here without feeling like you're in anyone's way — just be mindful that regulars are on a schedule and the narrow aisles aren't built for lingering groups.
-

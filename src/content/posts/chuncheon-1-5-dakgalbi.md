@@ -88,7 +88,7 @@ The restaurant sits at 77 Human-ro in Chuncheon, Gangwon-do, within the cluster 
 
 ## When to go
 
-According to measured foot-traffic patterns, this restaurant stays comparatively calm from 11am to 10pm on both weekdays and weekends — essentially the entire time it's open. The exception is the weekend dinner rush: try to avoid arriving between 5pm and 10pm on Saturdays and Sundays, when tables turn over slowly and groups wait for pans to free up. If you can eat a late lunch or an early weekday dinner, you'll get seated faster and have more room to enjoy the tabletop cooking without feeling rushed by a line forming behind you.
+This restaurant tends to be calmer outside of peak dinner hours. The exception is the weekend dinner rush: try to avoid arriving between 5pm and 10pm on Saturdays and Sundays, when tables turn over slowly and groups wait for pans to free up. If you can eat a late lunch or an early weekday dinner, you'll get seated faster and have more room to enjoy the tabletop cooking without feeling rushed by a line forming behind you.
 
 ## How to visit like a local
 

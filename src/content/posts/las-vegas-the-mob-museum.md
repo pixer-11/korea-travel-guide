@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come around the corner from Fremont Street, past the neon and the noise, and suddenly you're standing in front of a squared-off, sand-colored Neoclassical building that looks like it belongs in front of a judge, not a slot machine. That's the point. This was Las Vegas's federal courthouse and post office, built in 1933, and it's the same building where, in 1950, Senator Estes Kefauver's traveling committee held hearings on organized crime — one of fourteen cities visited, but the only one where that history now anchors a museum on the very site it happened.
@@ -91,7 +90,7 @@ The rooftop Mob Bar (open to the public even without a museum ticket) pours Proh
 
 ## When to go
 
-Both weekdays and weekends stay comparatively calm through the day, with the calmest stretch running from 9am to 10pm — but weekends get noticeably busier between 11am and 7pm, when tour groups and families cluster. If you want the rooms to yourself, arrive right at opening or come after 7pm on a weekend evening. Confirm current opening hours on the museum's website before you go, since they can shift seasonally.
+Both weekdays and weekends stay comparatively calm earlier in the day — but weekends get noticeably busier between 11am and 7pm, when tour groups and families cluster. If you want the rooms to yourself, arrive right at opening or come after 7pm on a weekend evening. Confirm current opening hours on the museum's website before you go, since they can shift seasonally.
 
 ## How to visit like a local
 

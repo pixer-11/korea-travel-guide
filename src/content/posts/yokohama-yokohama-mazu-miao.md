@@ -59,7 +59,6 @@ faq:
     a: Yes, if you don't mind crowds — Yokohama Chinatown's Lunar New Year celebrations (typically late January or February) bring lion dances and drumming right around the temple, though it's the busiest possible time to see it.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You smell the incense before you see the gate. Somewhere between the steamed-bun stalls and the souvenir shops selling plastic pandas, the street narrows and the colors shift — reds get deeper, golds get brighter, and suddenly you're standing under a towering ceremonial archway carved with dragons, phoenixes, and gilded lions that look like they've been lifted straight out of a Fujian temple courtyard and dropped into the middle of Yokohama.
@@ -82,13 +81,13 @@ The roofline and the gate itself are worth walking around from the street to see
 
 ## Best time to go
 
-Crowds here track pretty predictably with the rest of Chinatown. On both weekdays and weekends, the temple stays calm from opening at 9am through roughly 8pm — but weekends see a real crush between noon and 5pm, when day-trippers pour in for lunch and the surrounding streets fill up. If you can, go in the morning or later in the evening, especially on a Saturday or Sunday.
+Crowds here track pretty predictably with the rest of Chinatown. On both weekdays and weekends, the temple tends to be quieter outside the midday rush — but weekends see a real crush between noon and 5pm, when day-trippers pour in for lunch and the surrounding streets fill up. If you can, go in the morning or later in the evening, especially on a Saturday or Sunday.
 
 The single busiest stretch of the year is Lunar New Year, usually late January or February, when the temple and the streets around it host lion dances, drumming, and crowds that spill well beyond the temple gate — a spectacular time to visit if you don't mind the density, and worth avoiding if you want a quiet look at the architecture.
 
 ## How to visit like a local
 
-Treat it as a working place of worship, not a photo backdrop — keep your voice down near the altar, and if you see people bowing or lighting incense, give them space and wait rather than stepping in front. Entry to look around the courtyard and hall doorway is free; if you want to make an offering or light incense, small donation boxes are typically on hand, and cash is the only currency that makes sense here.
+Treat it as a working place of worship, not a photo backdrop — keep your voice down near the altar, and if you see people bowing or lighting incense, give them space and wait rather than stepping in front. You're welcome to look around the courtyard and hall doorway; if you want to make an offering or light incense, small donation boxes are typically on hand, and cash is the only currency that makes sense here.
 
 There's no reservation system and no queue to speak of outside Lunar New Year — you simply walk in. The mistake most visitors make is treating it as a two-minute photo stop on the way to lunch; slow down instead and look at the roof ridge and the gate carvings, which are the real reason this small temple has such a devoted following among Chinatown regulars.
 

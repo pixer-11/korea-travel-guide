@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## First impressions
@@ -86,13 +85,13 @@ Portions run generous, plating is classic rather than experimental, and the kitc
 
 ## When to go
 
-Ocean Prime opens at 11:30am for lunch Monday through Friday and runs to 10pm those nights; weekends shift to dinner-only, with doors at 4pm Saturday (open till 10pm) and 4pm Sunday (open till 9pm). If you want the dining room at its calmest, aim for that Monday–Friday 11:30am–12pm window right at lunch opening — tables are easy to get and the kitchen isn't yet slammed.
+Ocean Prime offers lunch on weekdays; weekends shift to dinner-only, with dinner service starting later in the day. If you want the dining room at its calmest, aim for that Monday–Friday 11:30am–12pm window right at lunch opening — tables are easy to get and the kitchen isn't yet slammed.
 
 On weekends, the quiet stretch runs from 4pm opening onward, but that calm doesn't last: crowds build steadily and 5–9pm on Saturday and Sunday is the busiest window of the week, so if you're weekend-only, either eat right at 4pm or expect a wait later.
 
 ## How to visit like a local
 
-Book ahead — a room this well-reviewed and this central fills its prime-time slots (7–8:30pm especially) days in advance on weekends, and walk-ins then usually mean bar seating only. Regulars treat the bar and lounge as a legitimate meal option, not just a waiting area: full menu, a bit less formal, and often faster. Payment is standard US restaurant style — card is the default, tipping 18-20% on the pre-tax total is the norm here as at any upscale New York restaurant, and a jacket isn't required but the room skews business-casual to dressed-up, so shorts and sneakers will feel out of place.
+Book ahead — a room this well-reviewed and this central fills its prime-time slots (7–8:30pm especially) days in advance on weekends, and walk-ins then usually mean bar seating only. Regulars treat the bar and lounge as a legitimate meal option, not just a waiting area: full menu, a bit less formal, and often faster. Payment is standard US restaurant style — card is the default, and gratuity is customary here as at any upscale New York restaurant, and a jacket isn't required but the room skews business-casual to dressed-up, so shorts and sneakers will feel out of place.
 
 The mistake first-timers make is walking in around 6 or 7pm on a Friday or Saturday without a reservation and assuming a table will materialize — it won't. Come at lunch, or come right at a weekend opening, and you get the same kitchen and the same room with none of the hold.
 

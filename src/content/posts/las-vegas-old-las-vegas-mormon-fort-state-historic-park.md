@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why this patch of adobe matters
@@ -56,7 +55,7 @@ It's compact — you can walk the whole site in well under an hour — but the e
 
 ## Getting there
 
-The park sits at 500 E Washington Ave, right where Las Vegas Boulevard meets Washington, about a 10-minute drive or a $10–15 rideshare from the Strip, and closer still from downtown/Fremont Street — an easy 15-20 minute walk or short bus ride up Las Vegas Boulevard. There's a small on-site parking lot. If you're using RTC transit, buses running along Las Vegas Boulevard/Main Street stop within a couple of blocks.
+The park sits at 500 E Washington Ave, right where Las Vegas Boulevard meets Washington, about a 10-minute drive from the Strip, and closer still from downtown/Fremont Street — an easy 15-20 minute walk or short bus ride up Las Vegas Boulevard. There's a small on-site parking lot. If you're using RTC transit, buses running along Las Vegas Boulevard/Main Street stop within a couple of blocks.
 
 Because it's tucked just north of the Fremont East district, it pairs naturally with a downtown itinerary: see the fort in the morning, then walk south into the Fremont Street Experience or the Neon Museum later in the day.
 

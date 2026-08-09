@@ -71,7 +71,7 @@ Pair it with a side of sai oua (northern Thai herbed sausage) or naem (fermented
 
 ## When to Go and What to Expect
 
-This shop runs as an evening spot — with hours limited to evenings only, and not open every day — so plan your khao soi craving accordingly rather than at the classic Chiang Mai lunch hour. Given the strong review volume, expect the possibility of a short wait soon after opening; arriving right at opening (4pm on weekdays, 3pm on Saturdays) can mean a shorter line.
+This shop runs as an evening spot — with hours limited to evenings only, and not open every day — so plan your khao soi craving accordingly rather than at the classic Chiang Mai lunch hour. Given the strong review volume, expect the possibility of a short wait soon after opening; arriving right at opening can mean a shorter line.
 
 As with most single-dish specialists in Thailand, the shop may sell out of the day's broth or noodles once supply runs low, so getting there earlier in the evening is safer if you're set on trying it.
 
