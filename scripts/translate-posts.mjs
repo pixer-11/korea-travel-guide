@@ -27,6 +27,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
 import { reflow } from '../src/lib/paragraphs.mjs';
+import { koMangledSyllables } from './lib/ko-syllables.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -222,6 +223,26 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
       }
     } else {
       throw new Error(`translation malformed after ${attempt} attempts (${bad}) — not written`);
+    }
+  }
+
+  // The Korean mangled-syllable tic: 쯤 comes back as 쯽·쯍·쯈·쯀, 퍼 as 퍁, 딪 as
+  // 딖. The nightly audit has caught this class every morning since 2026-08-08 —
+  // 16 pages, then 14 more the next day — and every one was repaired by hand,
+  // because nothing checked before writing. It is stochastic, so a fresh attempt
+  // almost always comes back clean; it is NOT repairable in code (쯤 and 쪽 both
+  // corrupt into the ㅉ block, so only the sentence says which was meant).
+  // Deliberately does not throw: a mangled syllable is a typo, while refusing to
+  // write leaves the whole page in English — the audit still reports whatever
+  // survives three attempts.
+  if (langCode === 'ko') {
+    const mangled = koMangledSyllables(out);
+    if (mangled.length) {
+      if (attempt < 3) {
+        console.log(`     ↻ ko/${srcId} — mangled syllable(s) ${mangled.join(' ')}, retranslating (attempt ${attempt + 1})`);
+        return translateOne(langCode, srcId, data, hash, attempt + 1);
+      }
+      console.log(`     ⚠ ko/${srcId} — still mangled after ${attempt} attempts: ${mangled.join(' ')} (written; audit will flag it)`);
     }
   }
 
