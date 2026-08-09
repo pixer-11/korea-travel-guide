@@ -43,6 +43,12 @@ export const MAP = {
   // chrome — the post lightbox's ✕ and the itinerary rain callout's ☂.
   close: 'x',
   umbrella: 'umbrella',
+  // 2026-08-09 owner review: the rental-car and airport-pickup plan cards
+  // rendered an EMPTY glyph — these two emoji names were never mapped when
+  // the set moved to Lucide. Plus a globe for the header continents.
+  automobile: 'car',
+  taxi: 'car-taxi-front',
+  'globe-showing-asia-australia': 'earth',
 };
 
 const set = require('@iconify-json/lucide/icons.json');

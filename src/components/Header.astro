@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
 import Flag from './Flag.astro';
-import Emoji from './Emoji.astro';
+import EmojiColor from './EmojiColor.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, localizePath, languages, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -77,12 +77,12 @@ const navGroups = CONT_ORDER
       <div class="nav-dd dest-dd">
         <a href={localizePath('/destinations', lang)} class="nav-dd-toggle">{t('nav.destinations')} ▾</a>
         <button type="button" class="nav-drill" data-to="2">
-          <span><Emoji name="round-pushpin" class="nav-ico" /> {t('nav.destinations')}</span> <span aria-hidden="true">›</span>
+          <span><EmojiColor name="round-pushpin" class="nav-ico" /> {t('nav.destinations')}</span> <span aria-hidden="true">›</span>
         </button>
         <div class="nav-dd-menu">
           {navGroups.map((g) => (
             <div class="nav-cont" data-cont={g.slug}>
-              <a class="nav-dd-head nav-dd-head-link" href={localizePath(`/continents/${g.slug}`, lang)}>{continentLabel(t, g.name)} →</a>
+              <a class="nav-dd-head nav-dd-head-link" href={localizePath(`/continents/${g.slug}`, lang)}><EmojiColor name="globe-showing-asia-australia" class="nav-ico" /> {continentLabel(t, g.name)} →</a>
               <button type="button" class="nav-drill" data-to="3" data-cont={g.slug} data-label={continentLabel(t, g.name)}>
                 {continentLabel(t, g.name)} <span aria-hidden="true">›</span>
               </button>
@@ -93,16 +93,16 @@ const navGroups = CONT_ORDER
               </div>
             </div>
           ))}
-          <a href={localizePath('/destinations', lang)} class="nav-dd-all"><Emoji name="world-map" /> {t('nav.allDestinations')} →</a>
+          <a href={localizePath('/destinations', lang)} class="nav-dd-all"><EmojiColor name="world-map" /> {t('nav.allDestinations')} →</a>
           {/* "When to go" is a where/when-to-travel tool, so it belongs beside the
               destination list rather than competing for a top-level slot — that
               slot now goes to itineraries, the thing this site has that plain
               guide blogs don't. Keeps the bar at 5 items (mobile-safe). */}
-          <a href={localizePath('/tools/when-to-go', lang)} class="nav-dd-all"><Emoji name="cherry-blossom" /> {t('nav.tools')} →</a>
+          <a href={localizePath('/tools/when-to-go', lang)} class="nav-dd-all"><EmojiColor name="cherry-blossom" /> {t('nav.tools')} →</a>
           {/* Two tools, two questions: which month to come, and which hour to
               turn up. They shared the "when to go" label until the month one
               existed, and the crowd finder was the one wearing it. */}
-          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all"><Emoji name="three-oclock" /> {t('nav.quietTimes')} →</a>
+          <a href={localizePath('/tools/best-time', lang)} class="nav-dd-all"><EmojiColor name="three-oclock" /> {t('nav.quietTimes')} →</a>
         </div>
       </div>
       {/* Icons ride along on every top item but only paint on mobile (see the
@@ -110,16 +110,16 @@ const navGroups = CONT_ORDER
           same-looking text rows, so an icon is the fastest thing to aim at; the
           desktop bar is a short horizontal row where the same icons only add
           noise and width. */}
-      <a href={localizePath('/itinerary', lang)}><Emoji name="spiral-calendar" class="nav-ico" /> {t('nav.itineraries')}</a>
+      <a href={localizePath('/itinerary', lang)}><EmojiColor name="spiral-calendar" class="nav-ico" /> {t('nav.itineraries')}</a>
       {/* Appears only once something is saved. Without it a visitor taps Save, the
           button says "Saved", and nothing else on the site ever acknowledges that a
           list exists — the footer link alone was not discovery. */}
       <a href={localizePath('/my-trip', lang)} class="nav-trip" hidden>
-        <Emoji name="round-pushpin" class="nav-ico" /> {t('trip.title')} <span class="nav-trip-n"></span>
+        <EmojiColor name="round-pushpin" class="nav-ico" /> {t('trip.title')} <span class="nav-trip-n"></span>
       </a>
-      <a href={localizePath('/events', lang)}><Emoji name="admission-tickets" class="nav-ico" /> {t('nav.events')}</a>
-      <a href={localizePath('/flights', lang)}><Emoji name="airplane" class="nav-ico" /> {t('nav.flights')}</a>
-      <a href={localizePath('/about', lang)}><Emoji name="compass" class="nav-ico" /> {t('nav.about')}</a>
+      <a href={localizePath('/events', lang)}><EmojiColor name="admission-tickets" class="nav-ico" /> {t('nav.events')}</a>
+      <a href={localizePath('/flights', lang)}><EmojiColor name="airplane" class="nav-ico" /> {t('nav.flights')}</a>
+      <a href={localizePath('/about', lang)}><EmojiColor name="compass" class="nav-ico" /> {t('nav.about')}</a>
       {/* The language dropdown lived here until 2026-08-08. The topbar strip
           above the header now shows all five languages on every viewport
           (44px touch targets on phones), so a second selector in the nav was

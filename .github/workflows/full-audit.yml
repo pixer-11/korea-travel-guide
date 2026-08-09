@@ -63,6 +63,36 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # The Telegram line has promised "문장 수정 배치 대상" since day one, but
+      # no schedule ever ran the batch — repair-prose.mjs existed and nothing
+      # called it (owner received a 163-post count with no fixer behind it,
+      # 2026-08-09). The audit's findings are the work queue; run it here,
+      # gated by the same validators the publish pipeline trusts.
+      - name: Repair flagged prose
+        id: repair
+        if: steps.audit.outputs.prose != '0'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -o pipefail
+          node scripts/repair-prose.mjs | tee /tmp/repair.log
+          set +o pipefail
+          fixed=$(awk -F'repaired=' '/PROSE_REPAIR_SUMMARY/ {print $2+0}' /tmp/repair.log | tail -1)
+          echo "fixed=${fixed:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: Validate and commit repairs
+        if: steps.audit.outputs.prose != '0'
+        run: |
+          node scripts/validate-content.mjs
+          node scripts/audit-translations.mjs
+          git add src/content data/full-audit.json
+          if git diff --staged --quiet; then
+            echo "No repairs to commit."
+          else
+            git commit -m "fix: weekly prose repair batch ($(date -u +%Y-%m-%d))"
+            bash scripts/git-push-retry.sh
+          fi
+
       - name: Notify Telegram
         if: always()
         env:

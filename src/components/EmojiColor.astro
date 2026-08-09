@@ -1,0 +1,36 @@
+---
+// Inline a FULL-COLOR emoji (Microsoft Fluent Emoji Flat) directly from
+// @iconify-json/fluent-emoji-flat. Keeps the colourful emoji look the site had
+// before, but renders identically on every OS (native emoji fonts differ per
+// platform — e.g. flags broke to "KR" text on Windows). No astro-icon <use>
+// sprite (Chrome paint bug). The bodies carry their own colours + gradients, so
+// we DON'T force currentColor; we namespace internal ids per instance so repeated
+// emoji on one page don't collide on gradient/clip ids.
+// Every emoji sits next to a visible text label → decorative → aria-hidden.
+import emojiData from '@iconify-json/fluent-emoji-flat/icons.json';
+
+interface Props { name: string; size?: string | number; class?: string }
+const { name, size = '1em', class: cls } = Astro.props;
+
+const key = name?.includes(':') ? name.split(':').pop()! : name;
+const icons = emojiData.icons as Record<string, { body: string; width?: number; height?: number }>;
+const icon = icons[key];
+const w = icon?.width ?? emojiData.width ?? 32;
+const h = icon?.height ?? emojiData.height ?? 32;
+
+let body = icon?.body ?? '';
+if (body) {
+  const uid = Math.random().toString(36).slice(2, 8);
+  const ids = [...body.matchAll(/id="([^"]+)"/g)].map((m) => m[1]);
+  for (const id of ids) {
+    const nid = `${id}_${uid}`;
+    body = body
+      .split(`id="${id}"`).join(`id="${nid}"`)
+      .split(`"#${id}"`).join(`"#${nid}"`)  // href="#id"
+      .split(`#${id})`).join(`#${nid})`);   // url(#id)
+  }
+}
+---
+{icon && (
+  <svg width={size} height={size} viewBox={`0 0 ${w} ${h}`} class:list={['emoji', cls]} aria-hidden="true" set:html={body} />
+)}
