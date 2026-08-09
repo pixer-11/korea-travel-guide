@@ -22,7 +22,7 @@ faq:
 
 ## 코숀 부처(Cochon Butcher)를 찾는 이유
 
-문을 보기도 전에 훈제 고기 냄새가 먼저 코를 찌른다. 코숀 부처(Cochon Butcher)는 창고 지구(Warehouse District)의 츄피툴라스 스트리트(Tchoupitoulas Street)에서 이어지는 좁은 골목에 반쯽 숨어 있으며, 정육점과 샌드위치 카운터, 바를 모두 겸하고 있다.
+문을 보기도 전에 훈제 고기 냄새가 먼저 코를 찌른다. 코숀 부처(Cochon Butcher)는 창고 지구(Warehouse District)의 츄피툴라스 스트리트(Tchoupitoulas Street)에서 이어지는 좁은 골목에 반쯤 숨어 있으며, 정육점과 샌드위치 카운터, 바를 모두 겸하고 있다.
 
 바로 옆의 코숀(Cochon)에서 파생된 캐주얼한 매장으로, 셰프 도널드 링크(Donald Link)와 스티븐 스트라이예프스키(Stephen Stryjewski)가 운영한다. 두 사람 모두 루이지애나의 케이준(Cajun) 및 코숀 드 레(cochon-de-lait) 전통과 깊은 인연이 있다. 이름은 프랑스어로 "돼지"를 뜻하는데, 입구 앞 유리 케이스만 봐도 그 이름값을 알 수 있다 — 직접 만든 부댕(boudin) 코일, 타소(tasso) 덩어리, 온갖 피클 병들이 진열되어 있다.
 
