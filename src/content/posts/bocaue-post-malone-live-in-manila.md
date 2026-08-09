@@ -1,54 +1,35 @@
 ---
 title: 'Post Malone Live in Manila: What to Know (Bocaue)'
-description: >-
-  Post Malone Live in Manila in Bocaue, Philippines — September 29, 2026. What
-  it is, when and where, and how to plan around it.
+description: Post Malone Live in Manila in Bocaue, Philippines — September 29, 2026. What it is, when and where, and how to plan around it.
 country: Philippines
 region: Bocaue
 category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-29'
 eventEndDate: '2026-09-29'
-gallery: []
 tags:
   - bocaue
   - event
-quickAnswer: >-
-  Post Malone plays the Philippine Arena in Bocaue, Bulacan on September 29,
-  2026, as part of his latest world tour. Doors and set times haven't been
-  officially confirmed yet, so treat this date as the anchor and check the
-  Philippine Arena's official channels and Post Malone's own tour page before
-  booking flights, hotels, or tickets.
+quickAnswer: Post Malone plays the Philippine Arena in Bocaue, Bulacan on September 29, 2026, as part of his latest world tour. Doors and set times haven't been officially confirmed yet, so treat this date as the anchor and check the Philippine Arena's official channels and Post Malone's own tour page before booking flights, hotels, or tickets.
 faq:
   - q: What is the confirmed date for Post Malone's Manila-area show?
-    a: >-
-      September 29, 2026, at the Philippine Arena in Bocaue, Bulacan. Always
-      double-check this against the official Philippine Arena and Post Malone
-      tour channels closer to the date, as concert schedules can shift.
+    a: September 29, 2026, at the Philippine Arena in Bocaue, Bulacan. Always double-check this against the official Philippine Arena and Post Malone tour channels closer to the date, as concert schedules can shift.
   - q: Is the Philippine Arena actually in Manila?
-    a: >-
-      No — it's in Bocaue, Bulacan, roughly 30-60 minutes north of Metro Manila
-      depending on traffic and your starting point. It's marketed as a 'Manila'
-      show but is technically outside the city.
+    a: No — it's in Bocaue, Bulacan, roughly 30-60 minutes north of Metro Manila depending on traffic and your starting point. It's marketed as a 'Manila' show but is technically outside the city.
   - q: How do I get to the venue without a car?
-    a: >-
-      Ride-hailing apps and taxis are common, and promoters often run shuttle
-      buses from Metro Manila pickup points on show nights — check official
-      announcements closer to the date. Public transit direct to the Arena is
-      limited, so most attendees arrange private transport.
+    a: Ride-hailing apps and taxis are common, and promoters often run shuttle buses from Metro Manila pickup points on show nights — check official announcements closer to the date. Public transit direct to the Arena is limited, so most attendees arrange private transport.
   - q: Where should I stay if I'm traveling for this concert?
-    a: >-
-      Bocaue has little tourist-hotel infrastructure, so most visitors base in
-      Metro Manila (Quezon City is closest) and travel out for the show as a day
-      trip.
+    a: Bocaue has little tourist-hotel infrastructure, so most visitors base in Metro Manila (Quezon City is closest) and travel out for the show as a day trip.
   - q: Where can I buy tickets and confirm details?
-    a: >-
-      Go directly to the Philippine Arena's official website and Post Malone's
-      official tour page for ticket sales, gate times, and any updates —
-      third-party resale sites can carry inflated or fake tickets.
+    a: Go directly to the Philippine Arena's official website and Post Malone's official tour page for ticket sales, gate times, and any updates — third-party resale sites can carry inflated or fake tickets.
 aiGenerated: true
 draft: false
 eventRecurring: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: The Come Up Show from Canada / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_(28688652561).jpg
 ---
 
 ## Why this show matters

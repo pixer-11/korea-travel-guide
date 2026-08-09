@@ -1,7 +1,7 @@
 ---
-draft: false
+draft: true
 title: 'Man City vs Atlético Madrid in Seoul: 2026 Coupang Play Series'
-description: "Manchester City and Atlético Madrid play the 2026 Coupang Play Series at Seoul World Cup Stadium, Aug 5 & 9. Tickets, kickoff times, and how to get there."
+description: Manchester City and Atlético Madrid play the 2026 Coupang Play Series at Seoul World Cup Stadium, Aug 5 & 9. Tickets, kickoff times, and how to get there.
 country: South Korea
 region: Seoul
 category: event
@@ -12,40 +12,18 @@ gallery: []
 tags:
   - seoul
   - event
-quickAnswer: >-
-  Manchester City play Team K League on August 5, 2026 and Atlético Madrid on
-  August 9, 2026, both at Seoul World Cup Stadium (Sangam, Mapo-gu) as part of
-  the Coupang Play Series, Korea's biggest pre-season football festival. Buy
-  tickets the moment they go on sale, arrive via Line 6's World Cup Stadium
-  Station, and confirm exact kickoff times and ticket tiers on the official
-  Coupang Play/organizer channels before you travel.
+quickAnswer: Manchester City play Team K League on August 5, 2026 and Atlético Madrid on August 9, 2026, both at Seoul World Cup Stadium (Sangam, Mapo-gu) as part of the Coupang Play Series, Korea's biggest pre-season football festival. Buy tickets the moment they go on sale, arrive via Line 6's World Cup Stadium Station, and confirm exact kickoff times and ticket tiers on the official Coupang Play/organizer channels before you travel.
 faq:
   - q: What are the exact dates and matches?
-    a: >-
-      Manchester City vs Team K League is set for August 5, 2026, and Atlético
-      Madrid's match follows on August 9, 2026, both at Seoul World Cup Stadium.
-      Confirm final scheduling on Coupang Play's official channels closer to the
-      date.
+    a: Manchester City vs Team K League is set for August 5, 2026, and Atlético Madrid's match follows on August 9, 2026, both at Seoul World Cup Stadium. Confirm final scheduling on Coupang Play's official channels closer to the date.
   - q: How do I get to Seoul World Cup Stadium?
-    a: >-
-      Take subway Line 6 to World Cup Stadium Station and exit via Exit 1 or 2,
-      which lead directly to the stadium plaza. From Incheon Airport, connect
-      via AREX to Digital Media City, then transfer to Line 6.
+    a: Take subway Line 6 to World Cup Stadium Station and exit via Exit 1 or 2, which lead directly to the stadium plaza. From Incheon Airport, connect via AREX to Digital Media City, then transfer to Line 6.
   - q: How much are tickets and where do I buy them?
-    a: >-
-      Prices and seating tiers weren't published at the time of writing. Check
-      the official Coupang Play event page or authorized ticket partners once
-      sales open, and buy early given the high profile of both clubs.
+    a: Prices and seating tiers weren't published at the time of writing. Check the official Coupang Play event page or authorized ticket partners once sales open, and buy early given the high profile of both clubs.
   - q: How early should I arrive?
-    a: >-
-      Arrive at least 90 minutes before kickoff to clear security and find your
-      section comfortably, especially given expected high demand for these
-      international friendlies.
+    a: Arrive at least 90 minutes before kickoff to clear security and find your section comfortably, especially given expected high demand for these international friendlies.
   - q: Is there anything to do near the stadium before or after the match?
-    a: >-
-      Yes — the adjacent Sangam World Cup Park offers walking trails and green
-      space, and a nearby mall complex has restaurants and a cinema for pre- or
-      post-match time.
+    a: Yes — the adjacent Sangam World Cup Park offers walking trails and green space, and a nearby mall complex has restaurants and a cinema for pre- or post-match time.
 aiGenerated: true
 eventRecurring: true
 ---

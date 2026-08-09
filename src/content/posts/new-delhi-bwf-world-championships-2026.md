@@ -1,54 +1,35 @@
 ---
 draft: false
 title: 'BWF World Championships 2026: What to Know (New Delhi)'
-description: >-
-  The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi
-  Arena in New Delhi — India's first time hosting the event in 17 years.
+description: The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years.
 country: India
 region: New Delhi
 category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-17'
 eventEndDate: '2026-08-23'
-gallery: []
 tags:
   - new delhi
   - event
-quickAnswer: >-
-  The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi
-  Arena in New Delhi — India's first time hosting the event in 17 years. Expect
-  stars like Shi Yu Qi, An Se-young, Lakshya Sen, and PV Sindhu to headline,
-  with finals typically drawing the biggest crowds on the final weekend. Book
-  flights/hotels early and confirm the exact match schedule and ticket tiers on
-  BWF's official site closer to the date.
+quickAnswer: The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years. Expect stars like Shi Yu Qi, An Se-young, Lakshya Sen, and PV Sindhu to headline, with finals typically drawing the biggest crowds on the final weekend. Book flights/hotels early and confirm the exact match schedule and ticket tiers on BWF's official site closer to the date.
 faq:
   - q: What are the exact dates and venue for the 2026 BWF World Championships?
-    a: >-
-      August 17–23, 2026, at the Indira Gandhi Arena in New Delhi, India. Always
-      confirm on BWF's official site, as venue details and schedules can shift
-      before the event.
+    a: August 17–23, 2026, at the Indira Gandhi Arena in New Delhi, India. Always confirm on BWF's official site, as venue details and schedules can shift before the event.
   - q: How do I get to the Indira Gandhi Arena from Delhi airport?
-    a: >-
-      Take the Airport Express Metro Line from IGI Airport to New Delhi Railway
-      Station (about 20 minutes), then connect via the Delhi Metro network
-      toward central Delhi, where the arena is located.
+    a: Take the Airport Express Metro Line from IGI Airport to New Delhi Railway Station (about 20 minutes), then connect via the Delhi Metro network toward central Delhi, where the arena is located.
   - q: Who are the star players to watch?
-    a: >-
-      The confirmed field includes China's Shi Yu Qi, Korea's An Se-young, and
-      India's own Lakshya Sen and PV Sindhu, among other top-ranked
-      international players.
+    a: The confirmed field includes China's Shi Yu Qi, Korea's An Se-young, and India's own Lakshya Sen and PV Sindhu, among other top-ranked international players.
   - q: When should I book tickets and how much will they cost?
-    a: >-
-      Official ticket pricing and sale dates have not yet been announced.
-      Monitor BWF's official championship page for the release, and avoid
-      third-party resellers until official sales open.
+    a: Official ticket pricing and sale dates have not yet been announced. Monitor BWF's official championship page for the release, and avoid third-party resellers until official sales open.
   - q: Is August a good time to visit Delhi otherwise?
-    a: >-
-      August is monsoon season in Delhi — hot, humid, and prone to heavy rain
-      showers — so it's shoulder season for general tourism, but it can mean
-      better hotel rates outside tournament-driven demand.
+    a: August is monsoon season in Delhi — hot, humid, and prone to heavy rain showers — so it's shoulder season for general tourism, but it can mean better hotel rates outside tournament-driven demand.
 aiGenerated: true
 eventRecurring: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Alistaircasey / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Alistair_Casey_-_2007_BWF_World_Championships.jpg
 ---
 
 ## Why go

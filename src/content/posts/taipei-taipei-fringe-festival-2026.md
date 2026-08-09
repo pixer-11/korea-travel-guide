@@ -1,58 +1,36 @@
 ---
 title: 'Taipei Fringe Festival 2026: What to Know (Taipei)'
-description: >-
-  Taipei Fringe Festival 2026 in Taipei, Taiwan — August 23 - October 7, 2026.
-  What it is, when and where, and how to plan around it.
+description: Taipei Fringe Festival 2026 in Taipei, Taiwan — August 23 - October 7, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
 region: Taipei
 category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-23'
 eventEndDate: '2026-10-07'
-gallery: []
 tags:
   - taipei
   - event
-quickAnswer: >-
-  Taipei Fringe Festival 2026 runs August 23–October 7, 2026, across multiple
-  independent venues citywide, featuring local and international theater, dance,
-  and performance works. Programming, venues, and ticket prices are released
-  closer to the festival and should be confirmed on the official Taipei Fringe
-  Festival website before you plan your trip.
+quickAnswer: Taipei Fringe Festival 2026 runs August 23–October 7, 2026, across multiple independent venues citywide, featuring local and international theater, dance, and performance works. Programming, venues, and ticket prices are released closer to the festival and should be confirmed on the official Taipei Fringe Festival website before you plan your trip.
 faq:
   - q: What are the exact dates for Taipei Fringe Festival 2026?
-    a: >-
-      The festival is scheduled for August 23 through October 7, 2026, but
-      always confirm final dates and any changes on the official festival
-      website closer to your trip.
+    a: The festival is scheduled for August 23 through October 7, 2026, but always confirm final dates and any changes on the official festival website closer to your trip.
   - q: How much do tickets cost?
-    a: >-
-      Prices vary by individual production since this is an artist-run fringe
-      model — there's no single festival price. Check each show's listing on the
-      official ticketing platform for current pricing.
+    a: Prices vary by individual production since this is an artist-run fringe model — there's no single festival price. Check each show's listing on the official ticketing platform for current pricing.
   - q: Is the festival in one location or spread across the city?
-    a: >-
-      It's multi-venue, with independent shows staged in theaters and
-      performance spaces across Taipei, historically clustering in areas like
-      Zhongshan and near Huashan 1914 Creative Park. Venues can shift week to
-      week, so check each show individually.
-  - q: >-
-      Will shows have English subtitles or be accessible to non-Mandarin
-      speakers?
-    a: >-
-      This varies by production — some offer English supertitles, others are
-      movement- or visually-based and need no translation, and some are
-      dialogue-heavy Mandarin theater. Check individual show descriptions or
-      contact companies directly before booking.
+    a: It's multi-venue, with independent shows staged in theaters and performance spaces across Taipei, historically clustering in areas like Zhongshan and near Huashan 1914 Creative Park. Venues can shift week to week, so check each show individually.
+  - q: Will shows have English subtitles or be accessible to non-Mandarin speakers?
+    a: This varies by production — some offer English supertitles, others are movement- or visually-based and need no translation, and some are dialogue-heavy Mandarin theater. Check individual show descriptions or contact companies directly before booking.
   - q: What's the best time to visit during the six-week run?
-    a: >-
-      Early September tends to be slightly less hot and humid than late August,
-      though the whole period falls within Taipei's typhoon season, so build
-      flexibility into travel plans around any specific performance dates.
+    a: Early September tends to be slightly less hot and humid than late August, though the whole period falls within Taipei's typhoon season, so build flexibility into travel plans around any specific performance dates.
 aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg/3840px-Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Solomon203 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg
 ---
 
 ## Why Go

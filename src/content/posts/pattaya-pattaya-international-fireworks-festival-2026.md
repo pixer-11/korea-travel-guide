@@ -25,6 +25,7 @@ faq:
     a: Yes, it draws a broad mix of Thai families, expats, and tourists, with food vendors and entertainment along Beach Road, though the crowds and noise from fireworks should be considered for very young children.
 aiGenerated: true
 eventRecurring: true
+draft: true
 ---
 ## Why this festival is worth planning around
 

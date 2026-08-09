@@ -1,58 +1,35 @@
 ---
 title: 'Comic Market 108 (Summer Comiket): What to Know in Tokyo'
-description: >-
-  Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo
-  Big Sight in Odaiba/Ariake.
+description: Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo Big Sight in Odaiba/Ariake.
 country: Japan
 region: Tokyo
 category: event
 pubDate: '2026-07-21'
 eventStartDate: '2026-08-15'
 eventEndDate: '2026-08-16'
-gallery: []
 tags:
   - tokyo
   - event
-quickAnswer: >-
-  Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo
-  Big Sight in Odaiba/Ariake. This is the world's largest doujinshi (fan-made
-  manga/comic) fair, drawing several hundred thousand attendees over the
-  weekend, plus dense cosplay gatherings outside the halls. Confirm exact hours,
-  entry procedures, and ticketing on the official Comiket website closer to the
-  date, since these details are finalized only a few weeks out.
+quickAnswer: Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo Big Sight in Odaiba/Ariake. This is the world's largest doujinshi (fan-made manga/comic) fair, drawing several hundred thousand attendees over the weekend, plus dense cosplay gatherings outside the halls. Confirm exact hours, entry procedures, and ticketing on the official Comiket website closer to the date, since these details are finalized only a few weeks out.
 faq:
   - q: How do I get to Comiket 108 at Tokyo Big Sight?
-    a: >-
-      Take the Yurikamome line to Kokusai-Tenjijo-Seimon Station, which arrives
-      right at the venue's main entrance, or the Rinkai Line to Kokusai-Tenjijo
-      Station for a short walk. Both stations are extremely crowded during
-      morning arrival hours, so allow extra time.
+    a: Take the Yurikamome line to Kokusai-Tenjijo-Seimon Station, which arrives right at the venue's main entrance, or the Rinkai Line to Kokusai-Tenjijo Station for a short walk. Both stations are extremely crowded during morning arrival hours, so allow extra time.
   - q: Do I need a ticket in advance?
-    a: >-
-      Comiket has used different entry systems (wristbands, timed tickets, or
-      catalog-linked passes) in past events, and the exact method for Comiket
-      108 wasn't confirmed at the time of writing. Check the official Comiket
-      website close to August 2026 for the finalized entry procedure.
+    a: Comiket has used different entry systems (wristbands, timed tickets, or catalog-linked passes) in past events, and the exact method for Comiket 108 wasn't confirmed at the time of writing. Check the official Comiket website close to August 2026 for the finalized entry procedure.
   - q: What's the best time to arrive?
-    a: >-
-      Popular circles sell out fast, so dedicated buyers arrive well before
-      doors open, often over an hour early. If you just want to browse and see
-      the cosplay scene, mid-morning to early afternoon is more comfortable and
-      less crowded.
+    a: Popular circles sell out fast, so dedicated buyers arrive well before doors open, often over an hour early. If you just want to browse and see the cosplay scene, mid-morning to early afternoon is more comfortable and less crowded.
   - q: How many days should I attend?
-    a: >-
-      Comiket 108 runs two days, August 15–16, 2026, with different genre blocks
-      typically featured each day. Casual visitors can get a full experience in
-      one day (3–4 hours); collectors targeting specific circles often attend
-      both days.
+    a: Comiket 108 runs two days, August 15–16, 2026, with different genre blocks typically featured each day. Casual visitors can get a full experience in one day (3–4 hours); collectors targeting specific circles often attend both days.
   - q: Is Comiket cash-only?
-    a: >-
-      Most individual doujinshi circles are cash-only, so bring plenty of
-      small-denomination yen. Larger corporate/publisher booths, where present,
-      are more likely to accept cards or e-payment.
+    a: Most individual doujinshi circles are cash-only, so bring plenty of small-denomination yen. Larger corporate/publisher booths, where present, are more likely to accept cards or e-payment.
 aiGenerated: true
 draft: false
 eventRecurring: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg/3840px-Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dick Thomas Johnson from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Comic_Market_92_Day_3-_Cosplayers_(38738505232).jpg
 ---
 
 ## What Comiket Actually Is

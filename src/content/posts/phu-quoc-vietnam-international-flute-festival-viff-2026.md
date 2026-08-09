@@ -1,10 +1,6 @@
 ---
 title: 'Vietnam International Flute Festival (VIFF) 2026: What to Know (Phu Quoc)'
-description: >-
-  The Vietnam International Flute Festival (VIFF) 2026 runs July 23–28, 2026 in
-  Phu Quoc, bringing together more than 40 flute artists from 12 countries —
-  including Grammy-winning flutist Erin Bouriakov — for the island's first
-  international flute festival and competition.
+description: The Vietnam International Flute Festival (VIFF) 2026 runs July 23–28, 2026 in Phu Quoc, bringing together more than 40 flute artists from 12 countries — including Grammy-winning flutist Erin Bouriakov — for the island's first international flute festival and competition.
 country: Vietnam
 region: Phu Quoc
 category: event
@@ -15,45 +11,21 @@ gallery: []
 tags:
   - phu quoc
   - event
-quickAnswer: >-
-  The Vietnam International Flute Festival (VIFF) 2026 runs July 23–28, 2026 in
-  Phu Quoc, bringing together more than 40 flute artists from 12 countries —
-  including Grammy-winning flutist Erin Bouriakov — for the island's first
-  international flute festival and competition. Because this is a newly
-  announced event, confirm the exact venue, daily schedule, and ticketing
-  through the official VIFF channels before booking flights or hotels. Plan to
-  pair the festival with a few days of Phu Quoc's beaches, since the island
-  itself is the main logistical hub for lodging and transport.
+quickAnswer: The Vietnam International Flute Festival (VIFF) 2026 runs July 23–28, 2026 in Phu Quoc, bringing together more than 40 flute artists from 12 countries — including Grammy-winning flutist Erin Bouriakov — for the island's first international flute festival and competition. Because this is a newly announced event, confirm the exact venue, daily schedule, and ticketing through the official VIFF channels before booking flights or hotels. Plan to pair the festival with a few days of Phu Quoc's beaches, since the island itself is the main logistical hub for lodging and transport.
 faq:
   - q: What are the exact dates of VIFF 2026?
-    a: >-
-      The festival is scheduled for July 23–28, 2026 in Phu Quoc. As with any
-      newly announced event, confirm the final dates on the official VIFF
-      website before booking.
+    a: The festival is scheduled for July 23–28, 2026 in Phu Quoc. As with any newly announced event, confirm the final dates on the official VIFF website before booking.
   - q: How do I get to Phu Quoc for the festival?
-    a: >-
-      Fly directly into Phu Quoc International Airport (PQC), which has
-      connections from Ho Chi Minh City, Hanoi, and several regional hubs.
-      There's no road or rail bridge to the mainland, so flying (or a slower
-      ferry from Ha Tien/Rach Gia) are the only options.
+    a: Fly directly into Phu Quoc International Airport (PQC), which has connections from Ho Chi Minh City, Hanoi, and several regional hubs. There's no road or rail bridge to the mainland, so flying (or a slower ferry from Ha Tien/Rach Gia) are the only options.
   - q: Who is performing at VIFF 2026?
-    a: >-
-      Organizers cite over 40 flute artists from 12 countries, including
-      Grammy-winning flutist Erin Bouriakov. A detailed artist-by-artist
-      schedule wasn't available at publication — check the official festival
-      site closer to July 2026.
+    a: Organizers cite over 40 flute artists from 12 countries, including Grammy-winning flutist Erin Bouriakov. A detailed artist-by-artist schedule wasn't available at publication — check the official festival site closer to July 2026.
   - q: How much do tickets cost?
-    a: >-
-      Pricing has not been published yet for this debut event. Watch VIFF's
-      official channels for ticket announcements rather than relying on
-      third-party estimates.
+    a: Pricing has not been published yet for this debut event. Watch VIFF's official channels for ticket announcements rather than relying on third-party estimates.
   - q: Is July a good time to visit Phu Quoc otherwise?
-    a: >-
-      July is rainy season — expect brief, heavy afternoon showers with clearer
-      mornings. It's fine for beach and boat trips if you schedule outdoor time
-      early in the day, but pack rain gear alongside sunscreen.
+    a: July is rainy season — expect brief, heavy afternoon showers with clearer mornings. It's fine for beach and boat trips if you schedule outdoor time early in the day, but pack rain gear alongside sunscreen.
 aiGenerated: true
 eventRecurring: true
+draft: true
 ---
 ## Why go
 

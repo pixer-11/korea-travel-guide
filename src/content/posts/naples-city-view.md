@@ -6,10 +6,10 @@ region: Naples
 category: attraction
 pubDate: '2026-08-06T10:19:55.332Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/f0/Sorrento_-_City_view_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
-  credit: 'Photo: Michael Paraskevas / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sorrento_-_City_view_-_panoramio.jpg
+  url: https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg
+  credit: 'Photo: Nicola since 1972 / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/15216811@N06/11590590754
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg/3840px-Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
     credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY 2.0)'
@@ -41,7 +41,6 @@ faq:
   - q: Is it worth it if I've already seen the view from Castel Sant'Elmo?
     a: Yes if you want the same panorama without the ticket line or crowds — it's a genuinely under-visited alternative just a few minutes' walk from the fortress.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

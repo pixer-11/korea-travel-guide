@@ -1,9 +1,7 @@
 ---
-draft: false
+draft: true
 title: 'Vietnamese Super Cup 2026: What to Know (Hanoi)'
-description: >-
-  Vietnamese Super Cup 2026 in Hanoi, Vietnam — August 30, 2026. What it is,
-  when and where, and how to plan around it.
+description: Vietnamese Super Cup 2026 in Hanoi, Vietnam — August 30, 2026. What it is, when and where, and how to plan around it.
 country: Vietnam
 region: Hanoi
 category: event
@@ -14,41 +12,18 @@ gallery: []
 tags:
   - hanoi
   - event
-quickAnswer: >-
-  The 2026 Vietnamese Super Cup — pitting the V.League 1 champions against the
-  Vietnamese Cup winners — is scheduled for August 30, 2026 at Hàng Đẫy Stadium
-  in central Hanoi. Treat that date as the current official announcement, not a
-  locked-in guarantee, and check the Vietnam Football Federation (VFF) or
-  V.League channels closer to the date for kickoff time, ticket sales, and any
-  late venue changes.
+quickAnswer: The 2026 Vietnamese Super Cup — pitting the V.League 1 champions against the Vietnamese Cup winners — is scheduled for August 30, 2026 at Hàng Đẫy Stadium in central Hanoi. Treat that date as the current official announcement, not a locked-in guarantee, and check the Vietnam Football Federation (VFF) or V.League channels closer to the date for kickoff time, ticket sales, and any late venue changes.
 faq:
   - q: Where and when is the 2026 Vietnamese Super Cup?
-    a: >-
-      It's set for August 30, 2026 at Hàng Đẫy Stadium in Đống Đa District,
-      Hanoi. Confirm the date and venue closer to the event via the Vietnam
-      Football Federation or V.League, as fixtures can shift.
+    a: It's set for August 30, 2026 at Hàng Đẫy Stadium in Đống Đa District, Hanoi. Confirm the date and venue closer to the event via the Vietnam Football Federation or V.League, as fixtures can shift.
   - q: Who plays in the Super Cup?
-    a: >-
-      It's contested by that season's V.League 1 champions against the
-      Vietnamese Cup winners. The specific two clubs for 2026 won't be known
-      until both domestic competitions conclude, so check official sources once
-      the season wraps.
+    a: It's contested by that season's V.League 1 champions against the Vietnamese Cup winners. The specific two clubs for 2026 won't be known until both domestic competitions conclude, so check official sources once the season wraps.
   - q: How do I get tickets?
-    a: >-
-      Tickets are typically sold through the host club or VFF official channels,
-      with in-person sales at the stadium box office common in Vietnam. Avoid
-      unofficial resellers where possible and watch official announcements for
-      on-sale dates.
+    a: Tickets are typically sold through the host club or VFF official channels, with in-person sales at the stadium box office common in Vietnam. Avoid unofficial resellers where possible and watch official announcements for on-sale dates.
   - q: How do I get to Hàng Đẫy Stadium?
-    a: >-
-      It's centrally located in Đống Đa District, an easy Grab or taxi ride from
-      the Old Quarter or West Lake, and walkable (30-40 minutes) from central
-      Hanoi. Expect congested side streets on match day.
+    a: It's centrally located in Đống Đa District, an easy Grab or taxi ride from the Old Quarter or West Lake, and walkable (30-40 minutes) from central Hanoi. Expect congested side streets on match day.
   - q: What else can I do in Hanoi around the match?
-    a: >-
-      Combine the game with a visit to the Temple of Literature and an afternoon
-      exploring the Old Quarter's food stalls for bún chả and egg coffee before
-      heading to the stadium.
+    a: Combine the game with a visit to the Temple of Literature and an afternoon exploring the Old Quarter's food stalls for bún chả and egg coffee before heading to the stadium.
 aiGenerated: true
 eventRecurring: true
 ---

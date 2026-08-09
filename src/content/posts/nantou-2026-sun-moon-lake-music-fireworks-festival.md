@@ -1,8 +1,6 @@
 ---
 title: '2026 Sun Moon Lake Music & Fireworks Festival: What to Know (Nantou)'
-description: >-
-  2026 Sun Moon Lake Music & Fireworks Festival in Nantou, Taiwan — September 12
-  - November 14, 2026. What it is, when and where, and how to plan around it.
+description: 2026 Sun Moon Lake Music & Fireworks Festival in Nantou, Taiwan — September 12 - November 14, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
 region: Nantou
 category: event
@@ -13,46 +11,20 @@ gallery: []
 tags:
   - nantou
   - event
-quickAnswer: >-
-  The 2026 Sun Moon Lake Music & Fireworks Festival runs September 12 – November
-  14, 2026, opening with the Ita Thau Concert on the lake's Ita Thau (Yizu)
-  shore. Expect a season-long series of outdoor concerts and
-  fireworks-over-water shows plus a swimming carnival, spread across several
-  weekends rather than one single night — so pick a date and confirm the exact
-  program on Sun Moon Lake's official tourism channels before you book transport
-  and lodging. Arrive by mid-afternoon for a fireworks night; lakeside viewing
-  spots near Ita Thau and Shuishe fill up fast after dinner.
+quickAnswer: The 2026 Sun Moon Lake Music & Fireworks Festival runs September 12 – November 14, 2026, opening with the Ita Thau Concert on the lake's Ita Thau (Yizu) shore. Expect a season-long series of outdoor concerts and fireworks-over-water shows plus a swimming carnival, spread across several weekends rather than one single night — so pick a date and confirm the exact program on Sun Moon Lake's official tourism channels before you book transport and lodging. Arrive by mid-afternoon for a fireworks night; lakeside viewing spots near Ita Thau and Shuishe fill up fast after dinner.
 faq:
   - q: What are the exact festival dates for 2026?
-    a: >-
-      The festival is scheduled September 12 through November 14, 2026, opening
-      with the Ita Thau Concert on September 12. Specific fireworks nights and
-      concert dates within that window should be confirmed on the official Sun
-      Moon Lake tourism site closer to your visit.
+    a: The festival is scheduled September 12 through November 14, 2026, opening with the Ita Thau Concert on September 12. Specific fireworks nights and concert dates within that window should be confirmed on the official Sun Moon Lake tourism site closer to your visit.
   - q: How do I get to Sun Moon Lake from Taipei or Taichung?
-    a: >-
-      There's no direct train to the lake. From Taipei, take the high-speed rail
-      to Taichung, then transfer to an intercity bus to Sun Moon Lake (roughly
-      90 minutes to 2 hours). Buses also run directly from Taichung's main train
-      station.
+    a: There's no direct train to the lake. From Taipei, take the high-speed rail to Taichung, then transfer to an intercity bus to Sun Moon Lake (roughly 90 minutes to 2 hours). Buses also run directly from Taichung's main train station.
   - q: Where's the best spot to watch the fireworks?
-    a: >-
-      The lakefront promenade at Shuishe village and the waterside area near Ita
-      Thau are the classic viewing points, both facing open water for the
-      reflection effect. Arrive well before dusk on a confirmed fireworks night,
-      as these spots fill quickly.
+    a: The lakefront promenade at Shuishe village and the waterside area near Ita Thau are the classic viewing points, both facing open water for the reflection effect. Arrive well before dusk on a confirmed fireworks night, as these spots fill quickly.
   - q: Is there an entry fee for the festival?
-    a: >-
-      Pricing and ticketing details, if any apply to premium viewing areas or
-      specific concerts, weren't confirmed at the time of writing — check the
-      official Sun Moon Lake or Nantou County tourism channels before you go.
+    a: Pricing and ticketing details, if any apply to premium viewing areas or specific concerts, weren't confirmed at the time of writing — check the official Sun Moon Lake or Nantou County tourism channels before you go.
   - q: How long should I plan to stay at Sun Moon Lake?
-    a: >-
-      Most visitors spend at least one full day and overnight to combine the
-      lake's regular attractions (ropeway, Wenwu Temple, cycling paths) with an
-      evening festival event, since fireworks and concerts run after dark.
+    a: Most visitors spend at least one full day and overnight to combine the lake's regular attractions (ropeway, Wenwu Temple, cycling paths) with an evening festival event, since fireworks and concerts run after dark.
 aiGenerated: true
-draft: false
+draft: true
 eventRecurring: true
 ---
 

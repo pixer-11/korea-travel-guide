@@ -1,55 +1,36 @@
 ---
 title: 'Bruno Mars: The Romantic Tour: What to Know (East Rutherford)'
-description: >-
-  Bruno Mars: The Romantic Tour in East Rutherford, United States — August
-  21-26, 2026. What it is, when and where, and how to plan around it.
+description: 'Bruno Mars: The Romantic Tour in East Rutherford, United States — August 21-26, 2026. What it is, when and where, and how to plan around it.'
 country: United States
 region: East Rutherford
 category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-26'
-gallery: []
 tags:
   - east rutherford
   - event
-quickAnswer: >-
-  Bruno Mars brings The Romantic Tour to MetLife Stadium in East Rutherford, New
-  Jersey for a multi-night run announced for August 21–26, 2026. Expect a
-  stadium-scale production built around recent hits like "Die with a Smile" and
-  "APT.," so plan transit, tickets, and hotels early — and always verify exact
-  dates, set times, and pricing on Ticketmaster or Bruno Mars's official site
-  before booking.
+quickAnswer: Bruno Mars brings The Romantic Tour to MetLife Stadium in East Rutherford, New Jersey for a multi-night run announced for August 21–26, 2026. Expect a stadium-scale production built around recent hits like "Die with a Smile" and "APT.," so plan transit, tickets, and hotels early — and always verify exact dates, set times, and pricing on Ticketmaster or Bruno Mars's official site before booking.
 faq:
   - q: What are the exact dates for Bruno Mars at MetLife Stadium?
-    a: >-
-      The run is announced for August 21–26, 2026, but always confirm the
-      specific night on your ticket and the official Ticketmaster or Bruno Mars
-      tour page, as multi-night residencies can have date-specific details.
+    a: The run is announced for August 21–26, 2026, but always confirm the specific night on your ticket and the official Ticketmaster or Bruno Mars tour page, as multi-night residencies can have date-specific details.
   - q: How do I get to MetLife Stadium without a car?
-    a: >-
-      NJ Transit runs a dedicated Meadowlands Rail Line with special event
-      trains from New York Penn Station and Secaucus Junction directly to the
-      stadium; buses also run from Port Authority Bus Terminal on event days.
+    a: NJ Transit runs a dedicated Meadowlands Rail Line with special event trains from New York Penn Station and Secaucus Junction directly to the stadium; buses also run from Port Authority Bus Terminal on event days.
   - q: How early should I arrive?
-    a: >-
-      Aim to arrive 2–3 hours before doors to account for train crowds, security
-      screening, and parking lot congestion, especially given this is a
-      multi-night run drawing large crowds.
+    a: Aim to arrive 2–3 hours before doors to account for train crowds, security screening, and parking lot congestion, especially given this is a multi-night run drawing large crowds.
   - q: Is there parking at MetLife Stadium?
-    a: >-
-      Yes, but lots surround the stadium and typically require a pre-purchased
-      parking pass; buying one in advance is strongly recommended over arriving
-      without a reservation.
+    a: Yes, but lots surround the stadium and typically require a pre-purchased parking pass; buying one in advance is strongly recommended over arriving without a reservation.
   - q: What's nearby if I arrive early or want food before the show?
-    a: >-
-      The American Dream mega-mall sits adjacent to the stadium with food courts
-      and shopping, and nearby Secaucus and Hackensack offer additional dining
-      options a short drive or train ride away.
+    a: The American Dream mega-mall sits adjacent to the stadium with food courts and shopping, and nearby Secaucus and Hackensack offer additional dining options a short drive or train ride away.
 aiGenerated: true
 draft: false
 eventRecurring: false
 photoless: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  credit: 'Photo: Brothers Le / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
 ---
 
 ## Why this show matters
