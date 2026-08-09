@@ -9091,10 +9091,123 @@
     "reason": "human: cosplay IS Comiket culture — on-topic for the event (owner-reviewed 2026-08-09)",
     "at": "2026-08-09T09:58:11.962Z"
   },
-  "tokyo-comiket-comic-market-108\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comiket_Special_1978.jpg/3840px-Comiket_Special_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
-    "slug": "tokyo-comiket-comic-market-108",
+  "busan-busan-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Busan_Tower_Busan_%2845023982594%29.jpg/3840px-Busan_Tower_Busan_%2845023982594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "busan-busan-tower",
+    "verdict": "MISMATCH",
+    "reason": "Shows traditional Asian pagoda, not Busan Tower",
+    "reasonKo": "부산타워가 아닌 전통 아시아 탑",
+    "at": "2026-08-09T13:33:56.216Z"
+  },
+  "busan-oryukdo-skywalk\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Oryukdo_Skywalk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "slug": "busan-oryukdo-skywalk",
     "verdict": "MATCH",
-    "reason": "patrol replace: Person drawing manga/comics at event",
-    "at": "2026-08-09T04:42:45.770Z"
+    "reason": "Skywalk view with island rocks, Busan coastal setting",
+    "reasonKo": "스카이워크 전망, 부산 해안 섬 풍경",
+    "at": "2026-08-09T13:33:58.265Z"
+  },
+  "busan-songdo-cloud-trails\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749115681%29.jpg/3840px-Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749115681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "busan-songdo-cloud-trails",
+    "verdict": "MATCH",
+    "reason": "Busan waterfront pier, modern architecture, coastal setting",
+    "reasonKo": "부산 해변 부두, 현대식 건축, 해안 경관",
+    "at": "2026-08-09T13:33:59.750Z"
+  },
+  "busan-yongdusan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Busan_Tower_and_Yongdusan_Park_20200522_003.jpg/1920px-Busan_Tower_and_Yongdusan_Park_20200522_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "busan-yongdusan-park",
+    "verdict": "MATCH",
+    "reason": "Yongdusan Park public square with tower visible",
+    "reasonKo": "용두산공원 광장과 타워 명확히 보임",
+    "at": "2026-08-09T13:34:01.177Z"
+  },
+  "jeju-hallim-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hallim_Park_41.jpg/1920px-Hallim_Park_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "jeju-hallim-park",
+    "verdict": "MATCH",
+    "reason": "Garden path with ponds, flora, statues",
+    "reasonKo": "연못, 식물, 동상이 있는 정원 경로",
+    "at": "2026-08-09T13:34:05.632Z"
+  },
+  "jeju-sanbanggulsa-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sanbanggulsa_Temple_02.jpg/3840px-Sanbanggulsa_Temple_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "jeju-sanbanggulsa-temple",
+    "verdict": "MATCH",
+    "reason": "Buddha statue in cave shrine with flowers, visitors",
+    "reasonKo": "동굴 사찰의 불상, 꽃, 방문객",
+    "at": "2026-08-09T13:34:10.667Z"
+  },
+  "jeonju-gyeonggijeon-shrine\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Gyeonggijeon_Shrine_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "slug": "jeonju-gyeonggijeon-shrine",
+    "verdict": "MATCH",
+    "reason": "Traditional Korean shrine interior architecture",
+    "reasonKo": "전통 한옥 신사 내부 구조",
+    "at": "2026-08-09T13:34:12.677Z"
+  },
+  "jeonju-nambu-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg/3840px-Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "jeonju-nambu-market",
+    "verdict": "MATCH",
+    "reason": "Indoor market corridor with Korean signage, wet floor",
+    "reasonKo": "한국 실내 시장 통로, 한글 간판",
+    "at": "2026-08-09T13:34:17.098Z"
+  },
+  "los-angeles-el-pueblo-de-los-angeles-historical-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/La_Placita_Parish_2007.jpg/1920px-La_Placita_Parish_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "los-angeles-el-pueblo-de-los-angeles-historical-monument",
+    "verdict": "MATCH",
+    "reason": "Historic white church, El Pueblo architecture and setting",
+    "reasonKo": "엘 푸에블로의 역사적 교회 건축",
+    "at": "2026-08-09T13:34:18.695Z"
+  },
+  "los-angeles-hollyhock-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aline_Barnsdall_Complex_%289736565582%29.jpg/1920px-Aline_Barnsdall_Complex_%289736565582%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "los-angeles-hollyhock-house",
+    "verdict": "MATCH",
+    "reason": "Hollyhock House exterior, LA architecture",
+    "reasonKo": "할리혹 하우스 외관, 로스앤젤레스",
+    "at": "2026-08-09T13:34:19.889Z"
+  },
+  "los-angeles-los-angeles-county-arboretum-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "slug": "los-angeles-los-angeles-county-arboretum-botanic-garden",
+    "verdict": "MATCH",
+    "reason": "Palm trees and waterway typical of arboretum",
+    "reasonKo": "수목원 특징의 야자수와 수로",
+    "at": "2026-08-09T13:34:21.657Z"
+  },
+  "los-angeles-los-angeles-county-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg/1920px-LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "los-angeles-los-angeles-county-museum-of-art",
+    "verdict": "MISMATCH",
+    "reason": "Modern building, not LACMA's distinctive Brutalist architect",
+    "reasonKo": "LACMA의 독특한 건축양식이 아님",
+    "at": "2026-08-09T13:34:23.256Z"
+  },
+  "los-angeles-the-last-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Last_Bookstore_%2819270292680%29.jpg/1920px-The_Last_Bookstore_%2819270292680%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "los-angeles-the-last-bookstore",
+    "verdict": "MATCH",
+    "reason": "Iconic book wing sculpture, The Last Bookstore LA",
+    "reasonKo": "라스트북스토어의 상징적 책 날개 조각",
+    "at": "2026-08-09T13:34:25.294Z"
+  },
+  "los-angeles-wilmington-waterfront-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "los-angeles-wilmington-waterfront-park",
+    "verdict": "MISMATCH",
+    "reason": "Splash pad in inland park, not waterfront",
+    "reasonKo": "내륙 공원의 물놀이터, 워터프론트 아님",
+    "at": "2026-08-09T13:34:28.680Z"
+  },
+  "lyon-les-grands-buffets-lyonnais\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg/3840px-Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "lyon-les-grands-buffets-lyonnais",
+    "verdict": "MATCH",
+    "reason": "Historic Lyon restaurant facade, correct signage visible",
+    "reasonKo": "리옹의 역사적 레스토랑 외관",
+    "at": "2026-08-09T13:34:33.111Z"
+  },
+  "lyon-librairie-passages\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg/3840px-Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "slug": "lyon-librairie-passages",
+    "verdict": "MATCH",
+    "reason": "Bookstore storefront in Lyon passage, correct architecture",
+    "reasonKo": "리옹 패사주의 서점 외관, 정확한 건축양식",
+    "at": "2026-08-09T13:34:37.274Z"
+  },
+  "lyon-museum-of-fine-arts-of-lyon\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/MBA_Lyon_facade_jour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "slug": "lyon-museum-of-fine-arts-of-lyon",
+    "verdict": "MATCH",
+    "reason": "Neoclassical museum building in Lyon's central plaza",
+    "reasonKo": "리옹 중앙광장의 신고전주의 박물관 건물",
+    "at": "2026-08-09T13:34:38.975Z"
   }
 }

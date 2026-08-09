@@ -1,52 +1,52 @@
 ---
-title: "Wilmington Waterfront Park: Los Angeles Travel Guide (4.4★)"
-description: "Wilmington Waterfront Park is a 30-acre green space along the Wilmington waterfront, open daily 5am–11pm, best visited in the early morning or late afternoon when the light softens the industrial skyline and the playgrounds are quieter. 4.4★ (1,573 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Los Angeles"
-category: "attraction"
-pubDate: "2026-08-09T08:16:15.361Z"
+title: 'Wilmington Waterfront Park: Los Angeles Travel Guide (4.4★)'
+description: Wilmington Waterfront Park is a 30-acre green space along the Wilmington waterfront, open daily 5am–11pm, best visited in the early morning or late afternoon when the light softens the industrial skyline and the playgrounds are quieter. 4.4★ (1,573 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Los Angeles
+category: attraction
+pubDate: '2026-08-09T08:16:15.361Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Dylan Avery / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Wilmington_Waterfront_Park_Fountains.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Dylan Avery / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Wilmington_Waterfront_Park_Fountains.jpg
 gallery: []
 place:
-  id: "ChIJjXbFqHU23YARxrdlmWznVZA"
-  name: "Wilmington Waterfront Park"
-  address: "W C St, Wilmington, CA 90744, USA"
+  id: ChIJjXbFqHU23YARxrdlmWznVZA
+  name: Wilmington Waterfront Park
+  address: W C St, Wilmington, CA 90744, USA
   rating: 4.4
   userRatingsTotal: 1573
-  googleMapsUrl: "https://maps.google.com/?cid=10400473368098092998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10400473368098092998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.7711843
   lng: -118.27276150000002
-  phone: "+1 310-732-7678"
+  phone: +1 310-732-7678
   openingHours:
-    - "Monday: 5:00 AM – 11:00 PM"
-    - "Tuesday: 5:00 AM – 11:00 PM"
-    - "Wednesday: 5:00 AM – 11:00 PM"
-    - "Thursday: 5:00 AM – 11:00 PM"
-    - "Friday: 5:00 AM – 11:00 PM"
-    - "Saturday: 5:00 AM – 11:00 PM"
-    - "Sunday: 5:00 AM – 11:00 PM"
+    - 'Monday: 5:00 AM – 11:00 PM'
+    - 'Tuesday: 5:00 AM – 11:00 PM'
+    - 'Wednesday: 5:00 AM – 11:00 PM'
+    - 'Thursday: 5:00 AM – 11:00 PM'
+    - 'Friday: 5:00 AM – 11:00 PM'
+    - 'Saturday: 5:00 AM – 11:00 PM'
+    - 'Sunday: 5:00 AM – 11:00 PM'
 tags:
-  - "los angeles"
-  - "waterfront"
-quickAnswer: "Wilmington Waterfront Park is a 30-acre green space along the Wilmington waterfront, open daily 5am–11pm, best visited in the early morning or late afternoon when the light softens the industrial skyline and the playgrounds are quieter. It's a straightforward stop if you're near the Port of Los Angeles — allow 45 minutes to an hour to walk the length of it and cross its landmark bridge."
+  - los angeles
+  - waterfront
+quickAnswer: Wilmington Waterfront Park is a 30-acre green space along the Wilmington waterfront, open daily 5am–11pm, best visited in the early morning or late afternoon when the light softens the industrial skyline and the playgrounds are quieter. It's a straightforward stop if you're near the Port of Los Angeles — allow 45 minutes to an hour to walk the length of it and cross its landmark bridge.
 faq:
-  - q: "How long should I spend at Wilmington Waterfront Park?"
-    a: "45 minutes to an hour covers the main paved loop, the bridge crossing, and the waterfront lawns. Add extra time if kids want to use the splash pad or play structures."
-  - q: "What are the opening hours?"
-    a: "The park is open every day from 5am to 11pm, so both early-morning walkers and evening visitors have plenty of time."
-  - q: "Is there an entry fee?"
-    a: "No, it's a free public park with no ticket or booking required."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are quietest. Weekends and summer afternoons bring more families to the splash pad and lawns."
-  - q: "How do I get there without a car?"
-    a: "Local Metro bus lines serve Wilmington, but given the spread-out, industrial setting, driving or rideshare is more practical for most visitors."
+  - q: How long should I spend at Wilmington Waterfront Park?
+    a: 45 minutes to an hour covers the main paved loop, the bridge crossing, and the waterfront lawns. Add extra time if kids want to use the splash pad or play structures.
+  - q: What are the opening hours?
+    a: The park is open every day from 5am to 11pm, so both early-morning walkers and evening visitors have plenty of time.
+  - q: Is there an entry fee?
+    a: No, it's a free public park with no ticket or booking required.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings are quietest. Weekends and summer afternoons bring more families to the splash pad and lawns.
+  - q: How do I get there without a car?
+    a: Local Metro bus lines serve Wilmington, but given the spread-out, industrial setting, driving or rideshare is more practical for most visitors.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

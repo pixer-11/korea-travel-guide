@@ -1,37 +1,37 @@
 ---
-title: "Los Angeles County Museum of Art: Travel Guide (4.6★)"
-description: "LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad Contemporary Art Museum and the iconic Urban Light lamppost installation out. 4.6★ (21,013 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Los Angeles"
-category: "attraction"
-pubDate: "2026-08-09T08:12:12.008Z"
+title: 'Los Angeles County Museum of Art: Travel Guide (4.6★)'
+description: LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad Contemporary Art Museum and the iconic Urban Light lamppost installation out. 4.6★ (21,013 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Los Angeles
+category: attraction
+pubDate: '2026-08-09T08:12:12.008Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg/1920px-LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: Gunnar Klack / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg/1920px-LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: Gunnar Klack / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:LACMA-Los-Angeles-County-Museum-of-Art-04-2014.jpg
 gallery: []
 place:
-  id: "ChIJsXqcyjy5woARNz6sOh0ZmwA"
-  name: "Los Angeles County Museum of Art"
-  address: "5905 Wilshire Blvd, Los Angeles, CA 90036, USA"
+  id: ChIJsXqcyjy5woARNz6sOh0ZmwA
+  name: Los Angeles County Museum of Art
+  address: 5905 Wilshire Blvd, Los Angeles, CA 90036, USA
   rating: 4.6
   userRatingsTotal: 21013
-  googleMapsUrl: "https://maps.google.com/?cid=43656234719264311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=43656234719264311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.0639323
   lng: -118.3592293
-  phone: "+1 323-857-6000"
+  phone: +1 323-857-6000
   openingHours:
-    - "Monday: 11:00 AM – 6:00 PM"
-    - "Tuesday: 11:00 AM – 6:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 11:00 AM – 6:00 PM"
-    - "Friday: 11:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 11:00 AM – 6:00 PM'
+    - 'Tuesday: 11:00 AM – 6:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:00 AM – 6:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekendBusy:
@@ -42,24 +42,24 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_41776d5a30684f73367a4e52416f7735796a79637158734a496843"
+    venueId: ven_41776d5a30684f73367a4e52416f7735796a79637158734a496843
 tags:
-  - "los angeles"
-  - "art gallery"
-quickAnswer: "LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad Contemporary Art Museum and the iconic Urban Light lamppost installation out front. It's open daily except Wednesday, with the calmest weekday hours between 6pm and 7pm — weekends stay busy from noon straight through closing, so aim for a morning visit instead. Give yourself at least three hours to cover even a fraction of the permanent collection."
+  - los angeles
+  - art gallery
+quickAnswer: LACMA sprawls across 20 acres on Wilshire Boulevard, anchored by the Broad Contemporary Art Museum and the iconic Urban Light lamppost installation out front. It's open daily except Wednesday, with the calmest weekday hours between 6pm and 7pm — weekends stay busy from noon straight through closing, so aim for a morning visit instead. Give yourself at least three hours to cover even a fraction of the permanent collection.
 faq:
-  - q: "How much time should I budget for a visit?"
-    a: "Plan for at least three hours if you want to see more than one or two wings — the campus spans several separate buildings across 20 acres."
-  - q: "What's the quietest time to visit?"
-    a: "Weekday evenings between 6pm and 7pm are the calmest window, right before closing on Monday, Tuesday, and Thursday."
-  - q: "Is LACMA closed on any day?"
-    a: "Yes, it's closed all day Wednesday. Friday hours run latest, until 8pm, while weekends open earlier at 10am."
-  - q: "How do I get there without driving?"
-    a: "Take the D Line (Purple Metro) to Wilshire/Fairfax station, or the Metro 20 or 720 bus, both of which stop right on Wilshire Blvd outside the museum."
-  - q: "Do I need a ticket to see Urban Light?"
-    a: "No — the lamppost installation sits outside the paid galleries, right along Wilshire Boulevard, and is visible and free to walk through anytime."
+  - q: How much time should I budget for a visit?
+    a: Plan for at least three hours if you want to see more than one or two wings — the campus spans several separate buildings across 20 acres.
+  - q: What's the quietest time to visit?
+    a: Weekday evenings between 6pm and 7pm are the calmest window, right before closing on Monday, Tuesday, and Thursday.
+  - q: Is LACMA closed on any day?
+    a: Yes, it's closed all day Wednesday. Friday hours run latest, until 8pm, while weekends open earlier at 10am.
+  - q: How do I get there without driving?
+    a: Take the D Line (Purple Metro) to Wilshire/Fairfax station, or the Metro 20 or 720 bus, both of which stop right on Wilshire Blvd outside the museum.
+  - q: Do I need a ticket to see Urban Light?
+    a: No — the lamppost installation sits outside the paid galleries, right along Wilshire Boulevard, and is visible and free to walk through anytime.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
