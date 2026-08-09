@@ -4,6 +4,9 @@ description: 'BIGBANG 2026-2027 World Tour “XX: COSMOS” - Goyang Opening Sho
 country: South Korea
 region: Goyang
 category: event
+eventOrganizer:
+  name: "YG Entertainment"
+  url: "https://ygfamily.com/"
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-23'
