@@ -50,8 +50,7 @@ faq:
   - q: "Is there anything else to do nearby?"
     a: "Barnsdall Art Park itself is free daily and includes olive groves, skyline views, and the small Barnsdall Art Center gallery, making it easy to combine with a Hollywood or Los Feliz day out."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

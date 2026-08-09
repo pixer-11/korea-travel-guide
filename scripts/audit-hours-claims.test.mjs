@@ -55,6 +55,14 @@ const cases = [
     'It is closed both Monday and Tuesday, so aim for the weekend.'), 1],
   ['TP-clock (must FLAG)', post(VEGAS,
     'Stay for the lights at 8pm before heading back to the Strip.'), 1],
+  // 08-09 Hollyhock House: 'closed Sunday through Wednesday, so plan your
+  // itinerary around that narrow window' is correct prose — the negation sits
+  // BEFORE the day, which the after-text-only check missed.
+  ['FP-closed-through (should be CLEAN)', post(FORT,
+    "It's closed Tuesday and Wednesday, so plan your visit for Thursday through Monday instead."), 0],
+  ['FP-closed-range-before-day (should be CLEAN)', post(
+    ['Monday: Closed', 'Tuesday: Closed', 'Wednesday: Closed', 'Thursday: 11:00 AM - 4:00 PM', 'Friday: 11:00 AM - 4:00 PM', 'Saturday: 11:00 AM - 4:00 PM', 'Sunday: Closed'],
+    "It's closed Sunday through Wednesday, so plan your LA itinerary around that narrow window."), 0],
   ['TP-suggest-closed-day (must FLAG)', post(VEGAS,
     'A Tuesday morning visit is the quietest way to see the gardens.'), 1],
 ];

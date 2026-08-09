@@ -175,7 +175,14 @@ export function hoursProblems(raw) {
       const windowRe = new RegExp(`\\b${d}\\b([^.]{0,60})(visit|go|arrive|morning|afternoon|evening)`, 'i');
       const m2 = prose.match(windowRe);
       const negated = m2 && /(don'?t|do not|avoid|rather than|instead of|skip|except|closed)/i.test(m2[1]);
-      if (m2 && !negated) found.push(`prose suggests visiting on ${d}, fact box says closed`);
+      // The negation can sit BEFORE the day too: "closed Sunday through
+      // Wednesday, so plan your itinerary around that window" is the CORRECT
+      // sentence, and checking only the after-text quarantined Hollyhock House
+      // on publish day with nothing for the fixer to fix (2026-08-09) — the
+      // exact loop shape this comment's first lesson already describes.
+      const before = m2 ? prose.slice(Math.max(0, m2.index - 80), m2.index) : '';
+      const negatedBefore = /(closed|shut|not open)[^.]{0,70}$|\bthrough\s*$/i.test(before);
+      if (m2 && !negated && !negatedBefore) found.push(`prose suggests visiting on ${d}, fact box says closed`);
     }
   }
 
