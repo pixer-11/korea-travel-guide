@@ -17,7 +17,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { unsplashNum } from './lib/images.mjs';
-import { OFFTOPIC } from './lib/offtopic.mjs';
+import { offTopicToken } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { keyToken } from './lib/commons.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
@@ -227,9 +227,12 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   // US-Navy admirals / a British-Museum statue / an antique print / a foreign
   // geograph shot). Flag every Wikimedia hero that hits the off-topic blocklist so
   // a new post with one gets caught at publish time instead of living on the site.
+  // The article's own subject can excuse a token (cosplay on a Comiket page) — pass
+  // title/place/region only, never the body, which name-drops far too much.
   if (p.url && p.license === 'wikimedia') {
     const hay = decodeURIComponent(p.url) + ' ' + p.credit;
-    if (OFFTOPIC.test(hay)) {
+    const subject = [p.title, p.placeName, p.region].filter(Boolean).join(' ');
+    if (offTopicToken(hay, subject)) {
       const fileName = (decodeURIComponent(p.url).split('/').pop() || '').replace(/\.(jpg|jpeg|png|svg).*$/i, '').slice(0, 48);
       issues.push(`IMAGE MISMATCH suspect [${p.category}] "${p.region}" — off-topic hero (${fileName}): ${p.f}`);
     }

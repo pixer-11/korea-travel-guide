@@ -44,6 +44,10 @@ function heroSourceRank(hero) {
 const bySourceThenDate = (a, b) =>
   heroSourceRank(a.data.heroImage) - heroSourceRank(b.data.heroImage) || byPubDesc(a, b);
 
+// What the article is about, for the off-topic guard: a blocked keyword that is
+// the post's own subject is not a mismatch.
+const subjectOf = (p) => [p.data.title, p.data.place?.name, p.data.region].filter(Boolean).join(' ');
+
 function card(p) {
   return { slug: p.slug, title: p.data.title, category: p.data.category, image: p.data.heroImage, region: p.data.region, dek: p.data.description || '' };
 }
@@ -54,7 +58,7 @@ export function pickSingleRegionEdition({ posts, region, country, sent, now, min
   const usable = (p) =>
     p.data.category !== 'event' &&
     !sent.has(p.slug) &&
-    !isOffTopicHero(p.data.heroImage);
+    !isOffTopicHero(p.data.heroImage, subjectOf(p));
 
   const inRegion = posts.filter((p) => usable(p) && eq(p.data.region, region)).sort(bySourceThenDate);
   let chosen = inRegion.slice(0, MAX_STORIES);
@@ -94,7 +98,7 @@ export function pickSingleRegionEdition({ posts, region, country, sent, now, min
 
 export function pickGlobalEdition({ posts, sent, now, max = 5 }) {
   const clean = posts
-    .filter((p) => p.data.category !== 'event' && !sent.has(p.slug) && !isOffTopicHero(p.data.heroImage))
+    .filter((p) => p.data.category !== 'event' && !sent.has(p.slug) && !isOffTopicHero(p.data.heroImage, subjectOf(p)))
     .sort(bySourceThenDate)
     .slice(0, max)
     .map(card);
@@ -114,7 +118,7 @@ export function pickMultiRegionEdition({ posts, regions, countryByRegion, sent, 
   for (const region of regions) {
     const picks = posts
       .filter((p) => p.data.category !== 'event' && !sent.has(p.slug) && !used.has(p.slug)
-        && !isOffTopicHero(p.data.heroImage) && eq(p.data.region, region))
+        && !isOffTopicHero(p.data.heroImage, subjectOf(p)) && eq(p.data.region, region))
       .sort(bySourceThenDate).slice(0, perRegion).map(card);
     for (const c of picks) used.add(c.slug);
     if (picks.length) sections.push({ region, stories: picks });

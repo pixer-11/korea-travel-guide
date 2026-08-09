@@ -11,7 +11,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { searchPlaces } from './lib/places.mjs';
 import { selfHostPlacePhoto } from './lib/images.mjs';
-import { OFFTOPIC } from './lib/offtopic.mjs';
+import { offTopicToken } from './lib/offtopic.mjs';
 
 const POSTS_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content', 'posts');
 const LIMIT = Number(process.env.PHOTO_LIMIT || 0) || Infinity; // cap posts per run
@@ -22,6 +22,7 @@ const ONLY = new Set((process.env.SLUGS || '').split(',').map((s) => s.trim()).f
 const placeId = (src) => (src.match(/\n {2}id:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || null;
 const heroUrl = (src) => (src.match(/heroImage:\r?\n {2}url:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
 const placeName = (src) => (src.match(/\n {2}name:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
+const title = (src) => (src.match(/^title:\s*['"]?(.+?)['"]?\s*$/m) || [])[1]?.trim() || '';
 const region = (src) => (src.match(/^region:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
 const country = (src) => (src.match(/^country:\s*"?([^"\n]+?)"?\s*$/m) || [])[1]?.trim() || '';
 
@@ -75,7 +76,11 @@ for (const f of files) {
   if (hero.includes('/venue-photos/')) { already++; continue; } // done already
   let flagged = 1;
   try {
-    if (VMISMATCH.has(f.replace(/\.md$/, '')) || OFFTOPIC.test(decodeURIComponent(hero))) flagged = 0;
+    // Context matters: a token the article is actually ABOUT (cosplay on a
+    // Comiket page) is not a mismatch, and promoting it here would replace a
+    // correct hero with the day's quota.
+    const subject = `${title(src)} ${placeName(src)} ${region(src)}`;
+    if (VMISMATCH.has(f.replace(/\.md$/, '')) || offTopicToken(decodeURIComponent(hero), subject)) flagged = 0;
   } catch { /* keep 1 */ }
   candidates.push({ f, src, id, flagged });
 }
