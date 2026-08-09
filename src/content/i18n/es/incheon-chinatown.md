@@ -1,51 +1,55 @@
 ---
 lang: es
 slug: incheon-chinatown
-srcHash: 'f2298a98104c'
+srcHash: '2d57dbbe0bba'
 title: El Barrio Chino de Incheon
-description: El Barrio Chino de Incheon se encuentra justo a la salida de la Estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día.
-quickAnswer: 'El Barrio Chino de Incheon se encuentra justo a la salida de la Estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día: pasea por la cuesta de Chinatown-ro, flanqueada de faroles rojos, prueba el jajangmyeon (fideos con salsa de frijol negro) en alguno de los restaurantes chinos tradicionales, y luego sube hasta el Parque Jayu (de la Libertad) para bajar después hacia las calles históricas del Puerto Abierto y el callejón de murales de Wangbimarosugil. Ve un día de semana por la tarde para evitar las multitudes de grupos turísticos, y reserva entre 3 y 4 horas, incluyendo una comida.'
+description: 'El Barrio Chino de Incheon está justo a la salida de la estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día: recorre la cuesta de Chinatown-ro bordeada de faroles rojos, come jajangmyeon (fideos con salsa de judía negra) en alguno de los restaurantes chinos de toda la vida, y luego sube al Parque Jayu (de la Libertad) y baja hacia las calles históricas del Puerto Abierto y el callejón de murales de Wangbimarosugil.'
+quickAnswer: 'El Barrio Chino de Incheon está justo a la salida de la estación de Incheon (Línea 1, Salida 1) y es ideal para una excursión de medio día: recorre la cuesta de Chinatown-ro bordeada de faroles rojos, come jajangmyeon (fideos con salsa de judía negra) en alguno de los restaurantes chinos de toda la vida, y luego sube al Parque Jayu (de la Libertad) y baja hacia las calles históricas del Puerto Abierto y el callejón de murales de Wangbimarosugil. Ve un día de semana por la tarde para evitar las aglomeraciones de grupos turísticos, y calcula entre 3 y 4 horas incluyendo la comida.'
 faq:
   - q: ¿Cómo llego al Barrio Chino de Incheon desde Seúl?
-    a: Toma la Línea 1 del metro hasta la Estación de Incheon (la última parada) y sal por la Salida 1, que lleva directamente al portal del Barrio Chino. Desde el centro de Seúl se tarda unos 60-75 minutos.
+    a: Toma la Línea 1 de metro hasta la estación de Incheon (la última parada) y sal por la Salida 1, que lleva directamente a la puerta del Barrio Chino. Desde el centro de Seúl el trayecto dura entre 60 y 75 minutos.
   - q: ¿Qué debería comer allí?
-    a: El jajangmyeon (fideos con salsa de frijol negro) es el plato estrella —el Barrio Chino de Incheon se considera su lugar de origen— y normalmente se acompaña de tangsuyuk (cerdo agridulce). Muchos restaurantes de Chinatown-ro sirven ambos.
+    a: El jajangmyeon (fideos con salsa de judía negra) es el plato estrella —se considera que el Barrio Chino de Incheon es su lugar de nacimiento— y suele acompañarse de tangsuyuk (cerdo agridulce). Muchos restaurantes de Chinatown-ro sirven ambos platos.
   - q: ¿Cuánto tiempo debería reservar?
-    a: Entre 3 y 4 horas alcanzan para recorrer la calle principal, comer, visitar los callejones de murales y subir hasta el Parque Jayu. Añade más tiempo si quieres visitar el Museo del Jajangmyeon o los edificios históricos del Puerto Abierto.
-  - q: ¿Vale la pena visitar el Barrio Chino de Incheon si solo tengo un día en Incheon?
-    a: 'Sí: puede ser el eje de un itinerario de medio día junto con el Parque Jayu y las calles de Historia Moderna del Puerto Abierto, todo a poca distancia a pie cerca de la Estación de Incheon.'
+    a: Unas 3-4 horas bastan para recorrer la calle principal, comer, ver los callejones de murales y subir hasta el Parque Jayu. Añade más tiempo si quieres visitar el Museo del Jajangmyeon o los edificios históricos del Puerto Abierto.
+  - q: ¿Merece la pena visitar el Barrio Chino de Incheon si solo tengo un día en Incheon?
+    a: 'Sí: puede ser el eje de un itinerario de medio día junto con el Parque Jayu y las calles históricas modernas del Puerto Abierto, todo a poca distancia a pie cerca de la estación de Incheon.'
   - q: ¿Cuál es el mejor momento para visitarlo?
-    a: Las tardes entre semana son más tranquilas que los fines de semana, y la primavera o el otoño hacen que la caminata cuesta arriba hacia el Parque Jayu sea más cómoda que con el calor del verano.
+    a: Las tardes de los días de semana son más tranquilas que los fines de semana, y la primavera o el otoño hacen que la subida hasta el Parque Jayu sea más agradable que con el calor del verano.
 ---
 
 ## Por qué ir
 
-El Barrio Chino de Incheon es el enclave chino más antiguo y grande de Corea, establecido en la década de 1880 tras la apertura del puerto al comercio extranjero, cuando comerciantes de la dinastía Qing se asentaron aquí. También se le atribuye ampliamente ser el lugar de origen del jajangmyeon, el plato de fideos con salsa de frijol negro de sabor agridulce que hoy se considera comida reconfortante coreana más que una importación china.
+El Barrio Chino de Incheon es el enclave chino más antiguo y más grande de Corea, establecido en la década de 1880 tras la apertura del puerto al comercio extranjero y el asentamiento de comerciantes de la dinastía Qing. También se le reconoce ampliamente como el lugar de nacimiento del jajangmyeon, ese plato de fideos con salsa de judía negra, dulce y salado a la vez, que hoy se considera comida reconfortante coreana más que una importación china.
 
-A diferencia de los barrios chinos pulidos de otras ciudades del mundo, el de Incheon es pequeño, algo desgastado y genuinamente histórico en lugar de estar construido únicamente para turistas: las calles todavía siguen el trazado original de la concesión extranjera del siglo XIX, con edificios de estilo Qing, japonés y occidental ubicados a pocas cuadras entre sí.
+A diferencia de los barrios chinos pulidos de otras ciudades del mundo, el de Incheon es pequeño, algo desgastado y genuinamente histórico en lugar de estar construido solo para el turismo: sus calles todavía siguen el trazado original de la concesión extranjera del siglo XIX, con edificios de estilo Qing, japonés y occidental conviviendo a pocas manzanas entre sí.
 
 ## Cómo llegar
 
-Toma la Línea 1 del metro de Seúl (la línea que va desde Seúl hasta Incheon) hasta la Estación de Incheon, la terminal. La Salida 1 te deja justo frente al ornamentado portal del Barrio Chino (Jung-guk-ji Ilbeon paepangmun), el arco de entrada principal del barrio. Desde la Estación de Seúl o City Hall, calcula unos 60-75 minutos en tren, así que esta visita combina mejor con una salida temprana o un día dedicado a Incheon, en lugar de añadirla a un itinerario muy cargado en Seúl.
+Toma la Línea 1 del metro de Seúl (esta línea llega desde Seúl hasta Incheon) hasta la estación de Incheon, la terminal. La Salida 1 te deja justo frente a la ornamentada puerta del Barrio Chino (Jung-guk-ji Ilbeon paepangmun), el arco principal de entrada al barrio. Desde la estación de Seúl o City Hall, calcula entre 60 y 75 minutos en tren, así que conviene combinarlo con una salida temprana o dedicarle un día centrado en Incheon, en lugar de añadirlo a un itinerario ya muy cargado por Seúl.
 
-No hace falta tomar un taxi una vez que llegas: todo el barrio se recorre a pie, aunque la calle principal sube por una cuesta bastante marcada.
+Una vez allí no hace falta taxi: todo el barrio se recorre a pie, aunque la calle principal sube una cuesta considerable.
 
-## Qué ver y comer
+## Qué ver y qué comer
 
-Justo pasando el portal, Chinatown-ro está bordeada de faroles rojos, tiendas de souvenirs que venden pastelitos chinos y dulces de sésamo, y decenas de restaurantes chinos con fachadas pintadas. Este es el lugar para comer jajangmyeon: muchos restaurantes aquí afirman tener recetas de décadas de antigüedad, y vale la pena compararlo con el tangsuyuk (cerdo agridulce) que suele acompañarlo. El Museo del Jajangmyeon, ubicado en un antiguo edificio de restaurante chino, recorre la historia del plato desde la comida de los trabajadores chinos hasta convertirse en una obsesión nacional; es un museo pequeño, que vale la pena visitar durante 20-30 minutos.
+Justo pasando la puerta, Chinatown-ro está bordeada de faroles rojos, tiendas de souvenirs que venden pasteles chinos y dulces de sésamo, y decenas de restaurantes chinos con fachadas pintadas. Este es el lugar para comer jajangmyeon: muchos restaurantes de aquí reivindican recetas de varias décadas, y merece la pena compararlo con el tangsuyuk (cerdo agridulce) que suele servirse junto a él.
 
-Sigue subiendo la cuesta y llegarás a la Calle de Murales de Samgukji, donde las paredes del callejón están pintadas con escenas del clásico chino "El Romance de los Tres Reinos". Cerca de allí, el Pueblo de Cuentos de Hadas de Songwol-dong ofrece un conjunto de murales diferente y más caprichoso, si dispones de tiempo extra.
+El Museo del Jajangmyeon, instalado en el edificio de un antiguo restaurante chino, recorre la historia del plato desde la comida de los trabajadores chinos hasta convertirse en una obsesión nacional; es un museo pequeño que no lleva mucho tiempo visitar.
 
-En lo alto de la cuesta se encuentra el Parque Jayu (de la Libertad), el primer parque público de estilo occidental de Corea, inaugurado en 1888. Cuenta con una estatua del General Douglas MacArthur que conmemora el Desembarco de Incheon de 1950, y el mirador del parque ofrece una vista despejada hacia el puerto y el Mar Amarillo, un buen lugar para entender por qué esta ubicación fue tan importante estratégica y comercialmente.
+Sigue cuesta arriba y llegarás a la Calle de Murales de Samgukji (Samgukji Mural Street), donde las paredes de los callejones están pintadas con escenas del clásico chino "El Romance de los Tres Reinos". Cerca de allí, el Pueblo de Cuentos de Hadas de Songwol-dong (Songwol-dong Fairy Tale Village) ofrece otro conjunto de murales, más fantasioso, si te queda tiempo.
 
-Al otro lado del Barrio Chino, baja hacia el área de Historia Moderna del Puerto Abierto de Incheon (Jung-gu), donde se conservan antiguos bancos y casas comerciales japonesas de principios del siglo XX, algunas convertidas hoy en pequeños museos que abordan la historia portuaria de Incheon y las concesiones extranjeras de la era Joseon.
+En la cima de la colina se encuentra el Parque Jayu (de la Libertad), el primer parque público de estilo occidental de Corea, inaugurado en 1888. Alberga una estatua del general Douglas MacArthur que conmemora el Desembarco de Incheon de 1950, y desde el mirador del parque se ve con claridad el puerto y el Mar Amarillo: un buen lugar para entender por qué este enclave fue tan importante estratégica y comercialmente.
 
-## Cuándo ir y cuánto tiempo dedicar
+Al otro lado del Barrio Chino, baja hacia la zona histórica del Puerto Abierto de Incheon (Incheon Open Port Modern History, en Jung-gu), donde se conservan antiguos bancos y casas comerciales japonesas de principios del siglo XX, algunos convertidos hoy en pequeños museos sobre la historia portuaria de Incheon y las concesiones extranjeras de la era Joseon.
 
-Las tardes entre semana son notablemente más tranquilas que los fines de semana, cuando llegan numerosos autobuses turísticos nacionales y la calle principal puede sentirse congestionada. La primavera y el otoño son las estaciones más cómodas para la caminata cuesta arriba hacia el Parque Jayu; las visitas en verano son factibles, pero los tramos sin sombra pueden calentarse bastante. Prevé entre 3 y 4 horas para recorrer Chinatown-ro, las calles de murales y el parque con calma, más tiempo si añades el distrito histórico del Puerto Abierto o una parada en algún museo.
+## Cuándo ir y cuánto tiempo dedicarle
 
-## Alrededores y consejos prácticos
+Las tardes de los días de semana son notablemente más tranquilas que los fines de semana, cuando llegan numerosos autobuses de turismo nacional y la calle principal puede sentirse abarrotada. La primavera y el otoño son las estaciones más agradables para la subida hasta el Parque Jayu; en verano la visita también es posible, pero los tramos sin sombra pueden resultar calurosos.
 
-Combina la visita con el cercano Parque Central de Songdo o la Plataforma de Arte de Incheon si te quedas más tiempo en la zona, aunque estos requieren transporte adicional. El efectivo sigue siendo útil en los puestos de souvenirs más pequeños, y ten en cuenta que no todos los restaurantes de la calle principal aceptan tarjeta para compras pequeñas.
+Calcula entre 3 y 4 horas para recorrer Chinatown-ro, las calles de murales y el parque sin prisas, y más tiempo si añades la zona histórica del Puerto Abierto o la visita a algún museo.
 
-Confirma el horario actual del Museo del Jajangmyeon antes de visitarlo, ya que los horarios de los museos en Corea suelen cambiar según la temporada. Por último, no esperes que el inglés esté muy presente dentro de todos los restaurantes: los menús con fotos son comunes, lo que facilita pedir jajangmyeon o tangsuyuk incluso sin saber coreano o chino.
+## Cerca de allí y consejos prácticos
+
+Si te quedas más tiempo en la zona, puedes combinar la visita con el cercano Parque Central de Songdo (Songdo Central Park) o el Incheon Art Platform, aunque requieren transporte adicional. El efectivo sigue siendo útil en los puestos de souvenirs más pequeños, y ten en cuenta que no todos los restaurantes de la calle principal aceptan tarjeta para compras pequeñas. Confirma el horario actual del Museo del Jajangmyeon antes de ir, ya que en Corea los horarios de los museos suelen cambiar según la temporada.
+
+Por último, no esperes una experiencia con mucho inglés dentro de todos los restaurantes: los menús con fotos son habituales, lo que facilita pedir jajangmyeon o tangsuyuk incluso sin saber coreano ni chino.

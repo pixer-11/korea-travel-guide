@@ -21,7 +21,7 @@ faq:
   - q: Where can I buy tickets safely?
     a: Buy only through official ticketing links posted on HONNE's or REXKL's own channels. High-demand anniversary tour dates like these attract resellers and counterfeit listings, so avoid third-party or social media sellers.
   - q: What time should I arrive?
-    a: Official door times haven't been detailed yet, so check closer to the event. General practice for popular shows at this venue is to arrive well ahead of doors if you want to be near the front, since it's a general-admission floor.
+    a: Official door times were not detailed in advance. General practice for popular shows at this venue is to arrive well ahead of doors if you want to be near the front, since it's a general-admission floor.
   - q: Is there anything to do near REXKL before or after the show?
     a: Yes — the venue sits in KL's historic Chinatown core, within walking distance of Central Market, Merdeka Square, and the hawker stalls of Petaling Street, all worth building into your trip around the concert dates.
 aiGenerated: true

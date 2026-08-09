@@ -1,59 +1,61 @@
 ---
 lang: es
 slug: taipei-din-tai-fung-101
-srcHash: '87a7f56b0988'
+srcHash: '9daeb4b52677'
 title: 'Din Tai Fung 101: Dónde comer en Taipéi'
-description: Esta sucursal de Din Tai Fung se encuentra en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipei 101, lo que la convierte en la parada natural para comer o cenar después de visitar la torre o los centros comerciales cercanos.
-quickAnswer: 'Esta sucursal de Din Tai Fung se encuentra en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipei 101, lo que la convierte en la parada natural para comer o cenar después de visitar la torre o los centros comerciales cercanos. Abre todos los días de 10:45am a 8:30pm, pero conviene ir justo a la apertura en día de semana (10:45am–12pm) o justo a la apertura de sábado/domingo (10:45–11:45am) si quieres evitar la cola, ya que las tardes de 1pm hasta el cierre en fin de semana se convierten en una larga espera. Espera colas sin importar el horario: esta es una de las sucursales de Din Tai Fung con más afluencia constante de toda la ciudad.'
+description: Esta sucursal de Din Tai Fung está en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipéi 101 (Taipei 101), lo que la convierte en la parada natural para almorzar o cenar después de la torre o de los centros comerciales de los alrededores.
+quickAnswer: 'Esta sucursal de Din Tai Fung está en el sótano del edificio de City Hall Rd, en el distrito de Xinyi, a pocos minutos a pie de Taipéi 101 (Taipei 101), lo que la convierte en la parada natural para almorzar o cenar después de la torre o de los centros comerciales de los alrededores. Abre todos los días de 10:45 a 20:30, pero conviene ir justo a la apertura en un día de semana (10:45–12:00) o justo a la apertura del sábado/domingo (10:45–11:45) si quieres evitar la cola, ya que las tardes de 13:00 hasta el cierre los fines de semana se convierten en una espera larga. De todos modos hay que contar con esperar, sea cual sea el horario: es una de las sucursales de Din Tai Fung más concurridas de la ciudad de forma constante.'
 faq:
-  - q: ¿Cuál es el horario de apertura de Din Tai Fung 101?
-    a: Abre todos los días de la semana, de 10:45am a 8:30pm, sin días con horario reducido.
-  - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana, de 10:45am a mediodía, o en fin de semana, de 10:45am a 11:45am; en ambos casos se trata prácticamente de la primera hora tras la apertura.
-  - q: ¿Cómo llego hasta allí?
-    a: Está en el sótano (B1) de un edificio en 45 City Hall Rd, distrito de Xinyi, a poca distancia a pie de la estación Taipei 101/World Trade Center Station de la Línea Azul, y también cerca de la estación Taipei City Hall Station.
+  - q: ¿Cuál es el horario de Din Tai Fung 101?
+    a: Abre todos los días de la semana, de 10:45 a 20:30, sin días con horario reducido.
+  - q: ¿Cuál es el momento con menos gente para visitarlo?
+    a: Entre semana de 10:45 a 12:00, o los fines de semana de 10:45 a 11:45; en ambos casos se trata, en la práctica, de la primera hora tras la apertura.
+  - q: ¿Cómo se llega hasta allí?
+    a: Está en el sótano (B1) de un edificio en 45 City Hall Rd, distrito de Xinyi, a poca distancia a pie de la estación Taipei 101/World Trade Center (Taipei 101/World Trade Center Station) de la Línea Azul, y también cerca de la estación Taipei City Hall (Taipei City Hall Station).
   - q: ¿Es caro?
-    a: 'Tiene precios de gama media para Taipéi: más caro que un puesto de fideos, pero no es un restaurante de lujo; pedir varias cestas de vapor más una sopa y una guarnición de verduras para dos personas es un pedido típico.'
-  - q: ¿Necesito reservar?
-    a: Lo habitual es llegar sin reserva y recibir un ticket numerado; suele haber espera, sobre todo los fines de semana por la tarde a partir de la 1pm, así que llegar cerca de la hora de apertura reduce la espera al mínimo.
+    a: 'Tiene precios de gama media para Taipéi: más caro que un puesto de fideos, pero no un restaurante de lujo; pedir varias cestas de vapor más una sopa y un acompañamiento de verduras para dos personas es un pedido habitual.'
+  - q: ¿Hace falta reserva?
+    a: Lo normal es presentarse sin reserva; te dan un número de turno y suele haber espera, sobre todo los fines de semana por la tarde a partir de las 13:00, así que llegar cerca de la apertura reduce al mínimo la demora.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué esta sucursal en concreto
 
-Taipéi tiene una docena de locales de Din Tai Fung, pero la sucursal de Xinyi —ubicada en el sótano de un edificio en City Hall Rd, justo a la sombra de Taipei 101— es a la que terminan yendo la mayoría de los visitantes, lo hayan planeado o no. Está integrada en la misma manzana que el distrito comercial de Xinyi, así que después de subir en el ascensor de la 101 o de recorrer los grandes almacenes de alrededor, este es el lugar obvio donde aterrizar cuando las piernas ya no dan más y apetecen unos dumplings de sopa.
+Taipéi tiene una docena de locales de Din Tai Fung, pero la sucursal de Xinyi —metida en el nivel del sótano de un edificio en City Hall Rd, justo a la sombra de Taipéi 101 (Taipei 101)— es donde termina la mayoría de los visitantes, lo hayan planeado o no. Está integrada en la misma manzana que la zona comercial de Xinyi, así que después de subir en el ascensor de la torre 101 o de recorrer los grandes almacenes de alrededor, este es el lugar obvio donde aterrizar cuando las piernas ya no dan más y apetecen unos dumplings de sopa.
 
-Bajas las escaleras desde la calle y la transformación es inmediata: mostradores de preparación iluminados con fluorescentes visibles a través del cristal, cocineros con gorros blancos plegando dumplings al unísono, vapor que se eleva de las cestas de bambú apiladas. El comedor en sí es ágil y luminoso más que evocador: manteles blancos, personal eficiente que se mueve con rapidez, números de ticket que se anuncian por encima del bullicio.
-
-No vienes aquí por el ambiente. Vienes a ver cómo cuentan los pliegues de un xiaolongbao en la mesa de al lado.
+Bajas las escaleras desde la calle y la transformación es inmediata: mostradores de preparación iluminados con fluorescentes visibles a través del cristal, cocineros con gorros blancos plegando dumplings al unísono, vapor que se eleva de las cestas de bambú apiladas. El comedor en sí es ágil y luminoso más que evocador: manteles blancos, personal eficiente que se mueve rápido, números de turno anunciados por encima del bullicio. No vienes aquí por el ambiente. Vienes a ver cómo cuentan los pliegues de un xiaolongbao en la mesa de al lado.
 
 ## Qué pedir
 
-Los xiaolongbao (dumplings de sopa) son la razón de ser del nombre: de masa fina, rellenos de cerdo, con una bolsa de caldo hirviendo que se supone hay que dejar reposar en una cuchara, pinchar con un palillo y sorber antes de comerlo entero. Además de la versión clásica de cerdo, busca los xiaolongbao de hueva de cangrejo y cerdo si están en la carta, además de los wontons de gamba y cerdo en aceite de chile, los bollos de cerdo a la plancha y un plato de judías verdes salteadas con ajo para contrarrestar lo graso.
+Los xiaolongbao (dumplings de sopa) son la razón de ser del local: de masa fina, rellenos de cerdo, con un bolsillo de caldo hirviendo que se supone hay que apoyar en una cuchara, pinchar con un palillo y sorber antes de comerlos enteros. Además de la versión clásica de cerdo, busca el xiaolongbao de hueva de cangrejo y cerdo si está en la carta, además de los wontons de gamba y cerdo en aceite picante, los pan-fried pork buns (bollos de cerdo dorados a la sartén) y un plato de judías verdes salteadas con ajo para contrarrestar la untuosidad.
 
-Las raciones vienen en pequeñas cestas de vapor, así que pedir dos o tres variedades de dumplings más una guarnición de verduras y un cuenco de sopa para dos personas es un pedido razonable.
+Las raciones vienen en pequeñas cestas de vapor, así que pedir dos o tres variedades de dumplings más un acompañamiento de verduras y un bol de sopa para dos personas es una cantidad razonable.
 
 ## Cómo llegar
 
-El restaurante está dentro de un edificio en 45 City Hall Rd, distrito de Xinyi, en el nivel del sótano (B1). Se llega fácilmente a pie desde la estación Taipei 101/World Trade Center Station de la línea Bannan (Azul), y también es accesible desde la estación Taipei City Hall Station, a pocas manzanas. Dado lo céntrico que es Xinyi, la mayoría de la gente llega a pie desde otro punto del distrito —tras el mirador, una película en los multicines de Xinyi o una vuelta por los centros comerciales vecinos— en lugar de hacer un viaje exclusivo hasta allí.
+El restaurante está dentro de un edificio en 45 City Hall Rd, distrito de Xinyi, en el nivel del sótano (B1). Se llega fácilmente a pie desde la estación Taipei 101/World Trade Center (Taipei 101/World Trade Center Station) de la línea Bannan (Línea Azul), y también es accesible desde la estación Taipei City Hall (Taipei City Hall Station), a pocas manzanas.
+
+Dado lo céntrico que es Xinyi, la mayoría de la gente llega a pie desde otro punto del distrito —tras el mirador, una película en los multicines de Xinyi o una vuelta por los centros comerciales vecinos— en lugar de hacer un viaje específico.
 
 ## Cuándo ir
 
-El restaurante abre a las 10:45am y cierra a las 8:30pm todos los días de la semana, sin variaciones según el día. Dentro de ese horario, el tramo más tranquilo entre semana es de 10:45am a mediodía —es decir, en la práctica, la primera hora tras la apertura— y en fin de semana la ventana es aún más estrecha, aproximadamente de 10:45 a 11:45am.
+El restaurante mantiene un horario diario constante, abriendo a última hora de la mañana y cerrando por la noche. Dentro de esa franja, el tramo más tranquilo entre semana es de 10:45 a 12:00, es decir, en la práctica la primera hora aproximadamente tras la apertura, y los fines de semana la ventana es aún más estrecha, más o menos de 10:45 a 11:45.
 
-Evita las tardes de sábado o domingo: de 1pm hasta el cierre, esta sucursal está siempre en su punto más concurrido, y ahí es cuando la espera se alarga más. Si solo puedes ir en fin de semana, considera la hora de apertura tu mejor oportunidad de una espera corta.
+Evita los sábados o domingos por la tarde: desde las 13:00 hasta el cierre, esta sucursal está siempre en su punto más concurrido, y ahí es cuando la espera se alarga más.
+
+Si solo puedes ir en fin de semana, considera la hora de apertura como tu mejor oportunidad para una espera corta.
 
 ## Qué esperar mientras esperas
 
-Este es un restaurante realmente de alto tráfico —una de las sucursales de Din Tai Fung más visitadas en una ciudad llena de ellas—, así que cuenta con hacer cola sin importar cuándo llegues fuera de esa franja temprana. El personal suele entregar un ticket numerado y dar una estimación aproximada de la espera; algunos visitantes aprovechan para recorrer el nivel del centro comercial de arriba o entrar en tiendas cercanas hasta que su número esté cerca.
+Se trata de un restaurante realmente de mucho tráfico —una de las sucursales de Din Tai Fung más visitadas de una ciudad llena de ellas—, así que cuenta con cola sea cuando sea que te presentes fuera de esa franja temprana. El personal suele entregar un número de turno y dar una estimación aproximada de espera; algunos visitantes se pasean por el nivel del centro comercial de arriba o entran en las tiendas cercanas hasta que se acerca su número.
 
-No hay una manera real de reservar con antelación para el servicio sin cita en horas punta, así que conviene contar la espera como parte de la visita en lugar de intentar evitarla.
+No hay una forma real de reservar con antelación para el servicio sin reserva en horas punta, así que conviene contar la espera como parte de la visita en lugar de intentar evitarla.
 
 ## Cómo visitarlo como un local
 
-Pide con eficiencia: elige primero tus dumplings de vapor, luego una sopa, una verdura, quizá un plato de arroz, y deja que la mesa rote con rapidez; este no es un restaurante para demorarse con el té, y comer con cierta prisa es lo normal aquí, no una falta de educación. El pago es con tarjeta o efectivo, y no se espera propina en los restaurantes taiwaneses, incluido este.
+Pide de forma eficiente: elige primero tus dumplings al vapor, luego una sopa, una verdura y quizá un plato de arroz, y deja que la mesa rote con rapidez; este no es un restaurante para entretenerse tomando té, y comer con cierta rapidez es lo normal aquí, no una falta de educación. El pago se hace con tarjeta o en efectivo, y no se espera propina en los restaurantes taiwaneses, tampoco en este.
 
-Ver cómo pliegan los dumplings vale la pena de verdad si hay una ventana de visualización cerca de la cocina; no es un truco publicitario, es realmente así como funciona la cocina. El error que cometen la mayoría de los que van por primera vez es presentarse a la 1 o 2pm de un sábado esperando una espera de cinco minutos; en su lugar, apunta a la apertura de las 10:45am o a la última hora antes del cierre a las 8:30pm, cuando la multitud suele haber disminuido.
+Vale la pena observar el plegado de los dumplings si hay una ventana de visualización cerca de la cocina; no es un truco, es simplemente cómo funciona la cocina.
 
-Y ten en cuenta que el caldo dentro de cada dumpling está realmente caliente: déjalo enfriar un instante en la cuchara antes de morderlo.
+El error que comete la mayoría de los primerizos es presentarse a la 1 o las 2 de la tarde un sábado esperando una espera de cinco minutos; en cambio, apunta a la apertura de las 10:45 o a la última hora antes del cierre a las 20:30, cuando la multitud suele haber menguado. Y ten en cuenta que el caldo dentro de cada dumpling está realmente caliente: deja que se enfríe un momento en la cuchara antes de morderlo.

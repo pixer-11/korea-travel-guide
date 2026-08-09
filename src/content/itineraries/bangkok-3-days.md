@@ -6,7 +6,7 @@ title: '3-Day Bangkok Itinerary: Old City Temples, Rooftops & Markets'
 description: A 3-day Bangkok itinerary moving from the Grand Palace and Reclining Buddha through Silom's rooftop scene, a jungle cafe and Chatuchak market, and finally eastern parkland and an Ekkamai dinner.
 quickAnswer: 'This is a 3-day Bangkok itinerary: day one covers the Old City''s Grand Palace and Reclining Buddha before an evening rooftop in Si Lom, day two moves from a jungle cafe to a rooftop view and the sprawling Chatuchak Weekend Market, and day three runs from the greenery of Suan Luang Rama IX to a Watthana lunch and an Ekkamai dinner.'
 pubDate: '2026-07-28T01:23:21.087Z'
-stopsHash: 53fcbe774adf7401d10ba28d1ca31122107aec8a
+stopsHash: 8f0f90ea501e3a92b196ec03170d1033603147bf
 packedAvailable: true
 faq:
   - q: How should I get around for this itinerary?
@@ -23,20 +23,12 @@ itinerary:
   - label: Old City temples to Silom skyline
     intro: Day one focuses on Bangkok's historic Old City in Phra Nakhon, moving between the Grand Palace grounds and the Reclining Buddha before crossing to Si Lom for a rooftop finish. Go early to make the most of the temple complex before the afternoon heat builds, then let the evening unwind above the city.
     stops:
-      - slug: bangkok-the-grand-palace
+      - slug: bangkok-wat-arun-ratchawararam-ratchawaramahawihan
         slot: morning
-        why: This is the essential starting point in the Old City, and going right as the complex becomes accessible avoids the worst of the crowds and heat noted for this stop.
-        dwellMin: 150
+        why: A attraction rated 4.7 by visitors, included as a stop on this route.
+        dwellMin: 75
         walkToNext:
-          km: 0.3
-          minutes: null
-          transit: true
-      - slug: bangkok-the-temple-of-the-emerald-buddha
-        slot: afternoon
-        why: Set within the Grand Palace complex, this is the star temple of the site, and pairing it right after the palace keeps the visit efficient given its own recommended early timing.
-        dwellMin: 150
-        walkToNext:
-          km: 0.8
+          km: 0.6
           minutes: null
           transit: true
       - slug: bangkok-the-reclining-buddha
@@ -44,7 +36,15 @@ itinerary:
         why: Just south of the Grand Palace, this is a compact, high-impact stop that fits naturally into the same Old City stretch of the day.
         dwellMin: 75
         walkToNext:
-          km: 7
+          km: 0.5
+          minutes: null
+          transit: true
+      - slug: bangkok-the-grand-palace
+        slot: afternoon
+        why: This is the essential starting point in the Old City, and going right as the complex becomes accessible avoids the worst of the crowds and heat noted for this stop.
+        dwellMin: 150
+        walkToNext:
+          km: 7.2
           minutes: null
           transit: true
       - slug: bangkok-saladaeng
@@ -105,6 +105,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-07T09:00:37.208Z'
+updatedDate: '2026-08-09T09:37:35.149Z'
 ---
 

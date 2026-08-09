@@ -1,27 +1,27 @@
+SKIP new city "Busan" — weekly new-city cap (2/7d) reached
+SKIP new city "Los Angeles" — weekly new-city cap (2/7d) reached
 SKIP new city "New Orleans" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 14 qualifying post(s), variants: 3
   = Seoul 3d — unchanged, skipping
 
-Tokyo, Japan — 12 qualifying post(s), variants: 3
-  = Tokyo 3d — unchanged, skipping
+Tokyo, Japan — 13 qualifying post(s), variants: 3
+  ~ Tokyo 3d — minor structure change (2 slug diff), keeping existing prose
+  ✅ Tokyo 3d — updated
 
 Bangkok, Thailand — 19 qualifying post(s), variants: 3
-  = Bangkok 3d — unchanged, skipping
+  ~ Bangkok 3d — minor structure change (2 slug diff), keeping existing prose
+  ✅ Bangkok 3d — updated
 
 Barcelona, Spain — 15 qualifying post(s), variants: 3
-  ⚠ Barcelona 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Barcelona 3d
+  = Barcelona 3d — unchanged, skipping
 
 New York, United States — 16 qualifying post(s), variants: 3
   ~ New York 3d — structure changed by 4 slug(s), regenerating prose
-  ⚠ New York 3d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
-  ⚠ New York 3d — dropping rain-swap for day 1 (venue name leaked into written prose after retry)
-  ⚠ New York 3d — dropping rain-swap for day 2 (venue name leaked into written prose after retry)
-  ⚠ New York 3d — dropping rain-swap for day 3 (venue name leaked into written prose after retry)
+  ⚠ New York 3d — guard found 1 hours/price + 2 rain-leak issue(s) on first pass; retrying once
 VALIDATE-FAILED new-york-3-days.md — 3 issue(s):
-  • AREA-CLAIM-UNSUPPORTED: new-york-3-days.md — day 2 names "Downtown Pages" but no stop of that day attests it
-  • DURATION-CONTRADICTION: new-york-3-days.md — day 3 stop "new-york-statue-of-liberty" why says "half-day" (~240 min) but dwellMin is 45
+  • AREA-CLAIM-UNSUPPORTED: new-york-3-days.md — day 2 names "Endless Shelves" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: new-york-3-days.md — day 3 names "Downtown Heights" but no stop of that day attests it
   • DAY-TOTAL-TOO-SHORT: new-york-3-days.md — day 3 totals 229 min (floor 240)
 
 Done.

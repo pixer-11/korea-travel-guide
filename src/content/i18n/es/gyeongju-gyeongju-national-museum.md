@@ -1,53 +1,55 @@
 ---
 lang: es
 slug: gyeongju-gyeongju-national-museum
-srcHash: '9696f7c0b539'
+srcHash: 'f0dac3c635dc'
 title: 'Museo Nacional de Gyeongju: Guía de viaje (4.6★)'
-description: El Museo Nacional de Gyeongju (Gyeongju National Museum), en Iljeong-ro, justo al sureste del yacimiento del Palacio Wolseong, es el mejor lugar para entender los mil años del Reino de Silla como capital real — calcula entre dos y tres horas para las salas principales y los jardines exteriores. 4.6★ (13.270 reseñas) — qué dicen los visitantes, horarios y consejos.
-quickAnswer: El Museo Nacional de Gyeongju (Gyeongju National Museum), en Iljeong-ro, justo al sureste del yacimiento del Palacio Wolseong, es el mejor lugar para entender los mil años del Reino de Silla como capital real — calcula entre dos y tres horas para las salas principales y los jardines exteriores. Los días de semana entre las 10:00 y las 19:00 son la franja más tranquila; si solo puedes ir un fin de semana, ve después de las 18:00 en lugar de enfrentarte a la aglomeración de 11:00 a 18:00.
+description: El Museo Nacional de Gyeongju, en Iljeong-ro, justo al sureste del yacimiento del Palacio de Wolseong, es el mejor lugar para entender los mil años del Reino de Silla como capital real — calcula entre dos y tres horas para las salas principales y los jardines exteriores. 4.6★ (13,270 reseñas) — lo que dicen los visitantes, horarios y consejos.
+quickAnswer: El Museo Nacional de Gyeongju, en Iljeong-ro, justo al sureste del yacimiento del Palacio de Wolseong, es el mejor lugar para entender los mil años del Reino de Silla como capital real — calcula entre dos y tres horas para las salas principales y los jardines exteriores. Los días de semana entre las 10am y las 7pm son el momento más tranquilo; si solo puedes ir un fin de semana, ve después de las 6pm en vez de enfrentarte a la avalancha de 11am a 6pm.
 faq:
-  - q: ¿Cuánto tiempo debo reservar para el museo?
-    a: Dos o tres horas son suficientes para recorrer con calma las galerías principales y el patio lapidario al aire libre; añade más tiempo si quieres seguir las visitas guiadas o detenerte a contemplar las vitrinas de las coronas de oro.
-  - q: ¿Cuándo está más tranquilo?
-    a: Los días de semana de 10:00 a 19:00 son constantemente más tranquilos. Los fines de semana, evita el tramo de 11:00 a 18:00, cuando se concentran los excursionistas de un día y los grupos turísticos, y ve mejor después de las 18:00.
-  - q: ¿Es gratuita la entrada?
-    a: La colección permanente tradicionalmente ha sido gratuita, aunque las exposiciones especiales o itinerantes a veces tienen un coste aparte — conviene comprobar la señalización de la entrada o los avisos oficiales el día de la visita.
+  - q: ¿Cuánto tiempo debería reservar para el museo?
+    a: Dos a tres horas cubren las galerías interiores principales y el patio lapidario exterior a un ritmo cómodo; añade más tiempo si quieres seguir las visitas guiadas o detenerte a contemplar las coronas de oro.
+  - q: ¿Cuándo hay menos gente?
+    a: Los días de semana de 10am a 7pm son constantemente más tranquilos. Los fines de semana, evita el horario de 11am a 6pm, cuando se concentran los excursionistas de un día y los grupos turísticos, y procura ir después de las 6pm.
+  - q: ¿La entrada es gratuita?
+    a: La colección permanente ha sido tradicionalmente gratuita, aunque las exposiciones especiales o itinerantes a veces tienen un coste aparte — conviene revisar la señalización de la entrada o los avisos oficiales el mismo día.
   - q: ¿Cómo llego sin coche?
-    a: Instálate en la zona de Hwangnam-dong, cerca del parque de tumbas de Daereungwon; desde allí el museo queda a poca distancia a pie, o puedes tomar un autobús local corto desde las estaciones de tren de Gyeongju o Singyeongju.
-  - q: ¿Qué otros lugares hay cerca para combinar con la visita?
-    a: El complejo de tumbas de Daereungwon, el observatorio Cheomseongdae y el Palacio Donggung con el estanque Wolji están todos a poca distancia a pie, lo que permite un recorrido natural de medio día junto con el museo.
+    a: Alójate en la zona de Hwangnam-dong, cerca del parque de tumbas de Daereungwon; el museo queda a poca distancia a pie desde ahí, o a un corto trayecto en autobús local desde las estaciones de tren de Gyeongju o Singyeongju.
+  - q: ¿Qué más hay cerca para combinar con la visita?
+    a: El complejo de tumbas de Daereungwon, el observatorio de Cheomseongdae y el Palacio Donggung con el estanque Wolji están todos a poca distancia a pie, lo que permite un recorrido natural de medio día junto con el museo.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por editores, con asistencia de IA. Los datos se extraen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
-Subes por el largo camino de acceso desde Iljeong-ro y lo primero que notas es el espacio que se da a sí mismo el museo — césped, pinos, un estanque reflectante y pabellones bajos de piedra y cristal dispuestos de modo que ningún edificio domina sobre los demás. Esa contención es deliberada. Todo aquí existe para remitir a Silla, el reino que gobernó desde Gyeongju durante casi mil años, y el museo trata sus piezas como reliquias de una capital todavía viva, no como curiosidades polvorientas en vitrinas de cristal.
+Al subir por el largo camino de acceso desde Iljeong-ro, lo primero que se percibe es el espacio que se da el museo a sí mismo — céspedes, pinos, un estanque reflectante y pabellones bajos de piedra y cristal dispuestos de forma que ningún edificio domine sobre los demás. Esa contención es deliberada. Todo aquí existe para remitir a Silla, el reino que gobernó desde Gyeongju durante casi mil años, y el museo trata sus objetos como reliquias de una capital todavía viva, no como curiosidades polvorientas en vitrinas.
 
 ## Por qué ir
 
-A menudo se dice que Gyeongju es un museo sin paredes, salpicado de tumbas reales y ruinas de templos, pero el Museo Nacional es donde todos esos cabos sueltos se atan. Alberga las coronas de oro, cinturones y pendientes extraídos de los túmulos cercanos, la enorme Campana del Rey Seongdeok — una de las campanas de bronce más grandes de Asia oriental — y sala tras sala de escultura budista, tejas y cerámica de Silla.
+A menudo se dice que Gyeongju es un museo sin paredes, sembrado de tumbas reales y ruinas de templos, pero es en el Museo Nacional donde todos los cabos sueltos se atan. Aquí se conservan las coronas de oro, cinturones y pendientes extraídos de los túmulos cercanos, la enorme Campana del Rey Seongdeok — una de las campanas de bronce más grandes de Asia Oriental — y sala tras sala de escultura budista, tejas y cerámica de Silla.
 
-Recorrer las galerías en orden te da una cronología que los parques de tumbas y los templos por sí solos no pueden ofrecer: ves de dónde viene realmente la joyería de oro que verás en Daereungwon, y por qué la cantería de Bulguksa tiene el aspecto que tiene.
+Recorrer las salas en orden te da una cronología que los parques de tumbas y los templos por sí solos no pueden ofrecer: ves de dónde viene realmente la joyería de oro que verás en Daereungwon, y por qué la piedra labrada de Bulguksa tiene el aspecto que tiene.
 
 ## Cómo llegar
 
-El museo está a poca distancia a pie o a un breve trayecto en autobús del complejo de tumbas de Daereungwon y del observatorio Cheomseongdae, en el casco histórico de Gyeongju y no cerca de las terminales de autobuses modernas. La mayoría de los visitantes se alojan en la zona de guesthouses de Hwangnam-dong y llegan caminando unos veinte minutos junto al parque de tumbas, o toman uno de los autobuses urbanos locales que recorren el distrito patrimonial — pregunta en tu alojamiento qué número para más cerca actualmente, ya que las rutas de autobús de Gyeongju cambian de numeración más a menudo de lo esperado.
+El museo se encuentra a poca distancia a pie o a un corto trayecto en autobús del complejo de tumbas de Daereungwon y del observatorio de Cheomseongdae, en el núcleo histórico de Gyeongju y no cerca de las terminales de autobuses modernas. La mayoría de los visitantes se alojan en la zona de guesthouses de Hwangnam-dong y caminan unos veinte minutos pasando por el parque de tumbas, o toman uno de los autobuses urbanos locales que recorren el distrito patrimonial — pregunta en tu alojamiento qué número para actualmente más cerca, ya que las rutas de autobús de Gyeongju cambian de numeración con más frecuencia de lo que uno esperaría.
 
-No hay estación de KTX ni de metro en el casco antiguo de Gyeongju; los viajeros llegan a través de las estaciones de tren de Gyeongju o Singyeongju y luego toman un autobús o un taxi.
+En el casco antiguo de Gyeongju no hay estación de KTX ni de metro; los viajeros llegan a través de las estaciones de tren de Gyeongju o Singyeongju y luego toman un autobús o un taxi.
 
 ## Qué ver y cuánto tiempo dedicarle
 
-Calcula un mínimo de dos a tres horas. La Galería de Historia de Silla es el eje de la colección — empieza por ahí para tener contexto antes de que las coronas y las joyas cobren sentido — y luego pasa a la Galería de Wolji (Anapji), que reúne piezas extraídas directamente de las ruinas del estanque situado detrás del Palacio Donggung, y al patio lapidario al aire libre, donde pagodas de piedra, linternas y figuras de Buda reposan al aire libre bajo los pinos.
+Calcula un mínimo de dos a tres horas. La Galería de Historia de Silla es la columna vertebral de la colección — empieza por ahí para tener contexto antes de que las coronas y las joyas cobren sentido — y después continúa hacia la Galería de Wolji (Anapji), que reúne piezas directamente de las ruinas del estanque situado detrás del Palacio Donggung, y al patio lapidario exterior, donde pagodas de piedra, faroles y figuras de Buda descansan al aire libre bajo los pinos.
 
-Reserva tiempo para el pabellón de la campana: la Campana del Rey Seongdeok, a veces llamada la Campana Emille, lleva fundida en su propio metal una leyenda sobre su fundición, y su tallado en la superficie merece un recorrido lento a su alrededor en vez de un simple vistazo. La distribución del edificio se extiende en varias alas conectadas por patios, así que no te apresures en las transiciones — algunas de las mejores vistas, especialmente hacia el estanque reflectante, están entre las galerías y no dentro de ellas.
+Reserva tiempo para el pabellón de la campana: la Campana del Rey Seongdeok, también llamada a veces la Campana Emille, está fundida con una leyenda sobre su propia fundición, y su talla en relieve merece un recorrido lento a su alrededor en lugar de una mirada rápida. La distribución del edificio se extiende en varias alas conectadas por patios, así que no apresures las transiciones — algunas de las mejores perspectivas visuales, especialmente hacia el estanque reflectante, se encuentran entre las galerías y no dentro de ellas.
 
 ## Cuándo ir
 
-De media mañana a media tarde los fines de semana es cuando el museo se siente más concurrido — grupos escolares, autobuses turísticos y excursionistas de un día procedentes de Busan y Daegu tienden a coincidir entre las 11:00 y las 18:00 los sábados y domingos. Si puedes elegir un día de semana, todo el tramo de 10:00 a 19:00 es notablemente más tranquilo y podrás detenerte ante las coronas de oro sin tener que esquivar a otros visitantes.
+De media mañana a media tarde los fines de semana es cuando el museo se siente más concurrido — grupos escolares, autobuses turísticos y excursionistas de un día procedentes de Busan y Daegu tienden a coincidir los sábados y domingos. Si puedes elegir un día de semana, notarás que suele estar notablemente más tranquilo y podrás contemplar las coronas de oro sin tener que abrirte paso entre la gente.
 
-Si el fin de semana es tu única opción, ve después de las 18:00, cuando las salas se vacían considerablemente antes del cierre. Los cerezos en flor en primavera y el follaje otoñal a lo largo del camino de acceso hacen que ambas estaciones merezcan tenerse en cuenta al planear el viaje, pero confirma el horario de apertura vigente antes de ir, ya que los horarios del museo cambian según la temporada.
+Si el fin de semana es tu única opción, procura ir después de las 6pm, cuando las galerías se vacían considerablemente antes del cierre.
+
+Los cerezos en flor de la primavera y el follaje otoñal a lo largo del camino de acceso hacen que cualquiera de las dos estaciones merezca la pena para planear el viaje, pero conviene confirmar el horario de apertura vigente antes de ir, ya que los horarios del museo cambian según la temporada.
 
 ## Cómo visitarlo como un local
 
-Trata el museo como un complemento de los parques de tumbas y no como una parada aislada — los locales y los visitantes habituales suelen recorrerlo como parte de un circuito junto con Daereungwon y Cheomseongdae, viendo las piezas justo antes o justo después de visitar los lugares de donde proceden. La entrada a las salas de exposición principales ha sido tradicionalmente gratuita, aunque las exposiciones especiales a veces tienen un coste aparte, así que conviene comprobar la señalización del día en la entrada en lugar de darlo por supuesto.
+Trata el museo como un complemento de los parques de tumbas y no como una parada aislada — los locales y los visitantes recurrentes suelen recorrerlo como parte de un circuito junto con Daereungwon y Cheomseongdae, viendo las piezas justo antes o justo después de los lugares de donde proceden. La entrada a las salas principales de exposición ha sido tradicionalmente gratuita, aunque las exposiciones especiales a veces tienen un coste aparte, así que conviene revisar la señalización del día en la entrada en lugar de asumirlo.
 
-Rara vez hay cola para las entradas, así que el verdadero truco está en el momento: ven un día de semana si puedes, o aprovecha la franja de 18:00 a 21:00 los fines de semana. La señalización es bilingüe en todo el recinto, en coreano e inglés, y usar la audioguía o unirte a una visita guiada programada (pregunta en el mostrador de información) te permite sacar mucho más partido a las galerías de las coronas y la campana que si solo lees los rótulos.
+Rara vez hay que hacer cola para las entradas, así que el verdadero truco está en el horario: ve un día de semana si puedes, o visita el museo más tarde en el día durante el fin de semana. La señalización es bilingüe en todo el recinto, en coreano e inglés, y pedir la audioguía o unirte a una visita guiada programada (pregunta en el mostrador de información) te permitirá sacar mucho más partido a las galerías de las coronas y la campana que si solo lees los rótulos.
