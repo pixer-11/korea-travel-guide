@@ -117,7 +117,12 @@ for (const f of files) {
   // the retroactive sweep already re-audited them at the existing:true bar,
   // and nightly re-judging 50+ performer photos is vision bill, not safety.
   const isEvent = data.category === 'event';
-  if (isEvent && data.draft !== true && !ONLY.includes(slug)) continue;
+  // …except a live event with NO hero at all: the released-photoless posts
+  // (51 on 2026-08-10) matched neither "draft" nor "placeholder" and were
+  // invisible to every patrol — the owner kept meeting their blank cards.
+  // Filling one removes it from this set, so the vision bill self-limits.
+  const photolessLiveEvent = isEvent && data.draft !== true && !data.heroImage?.url;
+  if (isEvent && data.draft !== true && !ONLY.includes(slug) && !photolessLiveEvent) continue;
   if (!isEvent && !HAVE_VENUE_SOURCES) continue;
   // Venue-LIKE posts without a Google place object (web-discovered trendy spots
   // e.g. Cure Bali / Pak Gula) were a blind spot — derive the venue name from
@@ -140,6 +145,7 @@ for (const f of files) {
     ONLY.length > 0 ||
     data.draft === true ||
     flaggedNow ||
+    photolessLiveEvent ||
     (data.heroImage?.url || '').includes('placeholder');
   if (!isTarget) continue;
   scanned++;
