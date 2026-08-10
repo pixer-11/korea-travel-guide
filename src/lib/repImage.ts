@@ -73,17 +73,20 @@ function pickRank(withHero: HeroPost[]): string {
 // from our domain — no Wikimedia hotlink, no missing Cache-Control, no 12MB.
 // The hash must be computed on the STORED url, exactly as build-wall saw it.
 // Posts newer than the last wall build fall back to a downsized remote render;
-// 960 is the smallest width Wikimedia reliably serves (below that, HTTP 400).
+// 960 is on Wikimedia's fixed ladder of served widths (see src/lib/wikimediaThumb.mjs).
 import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { wikimediaThumb } from './wikimediaThumb.mjs';
 
 const WALL_DIR = join(process.cwd(), 'public', 'wall');
 
 export function tileSize(url: string): string {
   const name = `${createHash('sha1').update(url).digest('hex').slice(0, 16)}.webp`;
   if (existsSync(join(WALL_DIR, name))) return `/wall/${name}`;
-  return url
-    .replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) > 960 ? '/960px-' : m))
+  // 960 is on Wikimedia's served ladder, so this one was legal by luck. Routed
+  // through the helper anyway: an off-ladder width here would blank every tile
+  // the same way an off-ladder hero blanked every article on 2026-08-10.
+  return wikimediaThumb(url, 960)
     .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width960/');
 }

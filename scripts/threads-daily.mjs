@@ -144,12 +144,14 @@ try {
     if (heroUrl.startsWith('/')) heroUrl = SITE + heroUrl;
     // Heroes are stored as 1920px-wide Wikimedia thumbnails, sized for an article
     // where they run wide and short. This card is 1080x1350 PORTRAIT, so a
-    // landscape hero gets scaled up on the height axis and lands soft. Wikimedia
-    // renders any width on request, so ask for one that survives the crop.
-    // Commons refuses to upscale: ask for 2600px on a 2000px original and it
-    // answers 400, which cost this run its card entirely. So try big, keep the
-    // stored URL as the fallback.
-    const bigUrl = heroUrl.replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) < 2600 ? '/2600px-' : m));
+    // landscape hero gets scaled up on the height axis and lands soft — ask for
+    // a bigger render to survive the crop.
+    // Wikimedia serves a FIXED ladder of widths and rejects everything else, so
+    // 2600 was never going to work: it 400'd on every file, not just the small
+    // ones, and this only ever produced a card because of the fallback below.
+    // 3840 is the next real rung above 1920; originals smaller than that still
+    // 400 (no upscaling), which the fallback below covers.
+    const bigUrl = heroUrl.replace(/\/(\d{2,4})px-/, (m, w) => (Number(w) < 3840 ? '/3840px-' : m));
     const UAH = { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' };
     let res = await fetch(bigUrl, { headers: UAH });
     if (!res.ok && bigUrl !== heroUrl) res = await fetch(heroUrl, { headers: UAH });

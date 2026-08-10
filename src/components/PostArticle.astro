@@ -6,6 +6,7 @@ import ShareRow from './ShareRow.astro';
 import SaveButton from './SaveButton.astro';
 import countriesData from '../../data/countries.json';
 import { SITE } from '../siteConfig';
+import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import Hotels from './Hotels.astro';
 import Tours from './Tours.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -398,18 +399,20 @@ const noindexPost = isEventPast(d) && !isRecurringEvent;
 // reader "Monday: 8:00 오전". Same helper as the fact box, so they cannot drift.
 // The list thumbnail is 92x68; the stored hero URL is a 1920px original, and
 // saving it as-is meant six saved places downloaded 3.2MB of image into a page
-// of thumbnails. Both hosts render smaller sizes on request — ask for one.
-// (Wikimedia refuses widths below ~400 on some files, so 480 is the safe rung.)
-const saveThumb = String(d.heroImage?.url ?? '')
-  .replace(/\/(\d{3,4})px-/, '/480px-')
+// of thumbnails. Both hosts render smaller sizes on request — ask for one that
+// Wikimedia actually serves (see wikimediaThumb: the ladder is fixed).
+const saveThumb = wikimediaThumb(String(d.heroImage?.url ?? ''), 500)
   .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width320/');
 // The hero <img> renders at 1200 CSS px but shipped the stored 1920px
 // original — 2.3x the bytes on the page's LCP element (Lighthouse audit,
-// 2026-08-10; post LCP 1.59s vs home 0.68s). Same rung trick as saveThumb.
-// og:image (line ~419) keeps the ORIGINAL — the Discover ≥1200px invariant
-// and its width scanner are untouched.
-const heroDisplay = String(d.heroImage?.url ?? '')
-  .replace(/\/(\d{3,4})px-/, '/1200px-')
+// 2026-08-10; post LCP 1.59s vs home 0.68s).
+// That fix asked for /1200px-, which is NOT on Wikimedia's served ladder, and
+// every hero on the site went blank the same day. 1280 is the next rung up and
+// is served; the <img> below also falls back to the stored URL on error, so a
+// future ladder change cannot blank the page again.
+// og:image keeps the ORIGINAL — the Discover ≥1200px invariant and its width
+// scanner are untouched.
+const heroDisplay = wikimediaThumb(String(d.heroImage?.url ?? ''), 1280)
   .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/');
 
 const saveHours = (p?.openingHours ?? []).map((l: string) =>
@@ -463,7 +466,21 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     {d.heroImage && (
       <figure class="article-hero">
-        <img src={heroDisplay || d.heroImage.url} alt={photoAlt(photoSubject)} width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" />
+        {/* data-full is the STORED url — the one Wikimedia handed us, so the one
+            that is certain to resolve. If the display rung ever 400s (the whole
+            site's heroes went blank on 2026-08-10 when an off-ladder width
+            shipped), the reader still gets the photo instead of an empty frame. */}
+        <img
+          src={heroDisplay || d.heroImage.url}
+          data-full={d.heroImage.url}
+          alt={photoAlt(photoSubject)}
+          width="1200"
+          height="675"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
+          onerror="if(this.dataset.full&&this.src!==this.dataset.full){this.src=this.dataset.full}"
+        />
         {d.heroImage.credit && (
           <figcaption>
             {d.heroImage.source?.startsWith('http') ? (
@@ -758,12 +775,14 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
     if (box) {
       const pic = box.querySelector('img')!;
       const credit = box.querySelector('.lb-credit')!;
-      // Wikimedia renders any thumb width on request but refuses to upscale
-      // (a 2600px ask on a 2000px original answers 400 — same trap the social
-      // card composer hit), so try the big render and fall back to the size
-      // the article already loaded.
+      // Wikimedia serves a FIXED ladder of widths and rejects anything else
+      // (400/429, "Use thumbnail sizes listed on w.wiki/GHai"). 2400 was not on
+      // it, so this only ever worked because of the onerror fallback below —
+      // every enlarge quietly cost a failed request first. 1920 is the rung the
+      // stored URLs already use, so ask for the one above it and let the
+      // fallback handle originals that are smaller.
       const bigger = (src: string) =>
-        src.replace(/\/(\d{3,4})px-/, (m, w) => (Number(w) < 2400 ? '/2400px-' : m));
+        src.replace(/\/(\d{2,4})px-/, (m, w) => (Number(w) < 1920 ? '/1920px-' : m));
       document.querySelectorAll<HTMLImageElement>('.article-hero img, .gallery img').forEach((img) => {
         img.addEventListener('click', () => {
           const big = bigger(img.src);
