@@ -2,11 +2,26 @@ name: Cloudflare token check
 
 # Why this exists: on 2026-08-10 the deploy step started failing and the only
 # place the reason existed was the Actions log, which needs a GitHub login to
-# read — so the failure was undiagnosable from a phone or from a session with
-# no gh CLI. This asks Cloudflare who the token is and what it may do, then
-# TELEGRAMS the answer. Thirty seconds, no build.
+# read — so the failure was undiagnosable from a phone. This asks Cloudflare
+# what the token may actually DO, then Telegrams the answer and commits the
+# verdict. Thirty seconds, no build.
 #
-# It runs on its own file changing (so a fix can verify itself) and on demand.
+# The first version of this file got the answer WRONG, and the way it was wrong
+# is the reason the checks below look the way they do:
+#
+#   1. It judged the token with /user/tokens/verify. That endpoint only answers
+#      for USER tokens. Ours is an ACCOUNT-OWNED token (wrangler: "You are
+#      logged in with an Account API Token"), and account-owned tokens get
+#      "1000 Invalid API Token" there while being perfectly alive. The verdict
+#      read "token revoked" for a token that was answering fine.
+#   2. The redaction that built the committed verdict dropped whole LINES
+#      containing an email or a 32-hex id. The one line that disproved the
+#      diagnosis — "logged in with an Account API Token, associated with the
+#      account <email>'s Account" — contained an email, so it was deleted. The
+#      file kept the false signal and threw away the true one.
+#
+# So: the verdict now comes from the two API calls the deploy itself makes, and
+# redaction masks the SECRET inside a line instead of discarding the line.
 on:
   workflow_dispatch:
   push:
@@ -22,64 +37,96 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 24
-
-      - name: Ask Cloudflare what this token can do
-        id: whoami
+      - name: Ask Cloudflare what this token can actually do
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
           set +e
+          api() {
+            curl -s -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+                 -H "Content-Type: application/json" \
+                 "https://api.cloudflare.com/client/v4$1"
+          }
+          # OK / DENIED plus the API's own error codes — no guessing.
+          verdict() {
+            if [ "$(echo "$2" | jq -r '.success')" = "true" ]; then
+              echo "$1: OK"
+            else
+              echo "$1: DENIED — $(echo "$2" | jq -r '[.errors[]?|"\(.code) \(.message)"] | if length == 0 then "no error body" else join("; ") end')"
+            fi
+          }
+
+          ACC="$CLOUDFLARE_ACCOUNT_ID"
+          WS=$(api "/accounts/$ACC/workers/scripts")
+          R2=$(api "/accounts/$ACC/r2/buckets")
+
           {
             echo "== secrets present? =="
             echo "CF_API_TOKEN: $([ -n "$CLOUDFLARE_API_TOKEN" ] && echo yes || echo MISSING)"
-            echo "CF_ACCOUNT_ID: $([ -n "$CLOUDFLARE_ACCOUNT_ID" ] && echo yes || echo MISSING)"
+            echo "CF_ACCOUNT_ID: $([ -n "$ACC" ] && echo yes || echo MISSING)"
             echo
-            echo "== token verify =="
-            # Reports whether the token is live at all, separately from what it
-            # is allowed to touch. A revoked or mistyped token dies here.
-            curl -s -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
-              -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
-              -H "Content-Type: application/json" \
-              | node -e 'let d="";process.stdin.on("data",c=>d+=c).on("end",()=>{try{const j=JSON.parse(d);console.log("success:",j.success);console.log("status:",j.result&&j.result.status);(j.errors||[]).forEach(e=>console.log("error:",e.code,e.message))}catch(e){console.log("unparseable response")}})'
+            echo "== what the deploy needs =="
+            # wrangler.jsonc binds an R2 bucket (OG_IMAGES -> wa-og-images), so a
+            # Workers-only token is not enough to ship this site.
+            verdict "WORKERS_SCRIPTS (Workers Scripts:Edit)" "$WS"
+            verdict "R2_BUCKETS (Workers R2 Storage:Edit)" "$R2"
             echo
-            echo "== wrangler whoami =="
-            npx --yes wrangler@4 whoami 2>&1 | tail -25
+            echo "== who the token is =="
+            npx --yes wrangler@4 whoami 2>&1 | grep -viE '^\s*[│┌├└─]' | head -12
+            echo
+            echo "== /user/tokens/verify (NOT a verdict) =="
+            echo "# account-owned tokens legitimately answer 1000 here — see the header of this workflow"
+            api "/user/tokens/verify" | jq -c '{success, status: .result.status, errors: [.errors[]?.code]}'
           } > /tmp/cf.txt 2>&1
-          # Never leak the token itself if a tool ever echoes it back.
-          sed -i "s/${CLOUDFLARE_API_TOKEN:-__nope__}/***REDACTED***/g" /tmp/cf.txt || true
+
+          # Mask the secrets INSIDE lines. Never drop a line — that is what hid
+          # the answer last time.
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
+            sed -i "s/$CLOUDFLARE_API_TOKEN/***TOKEN***/g" /tmp/cf.txt
+          fi
+          sed -i -E 's/[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+/***EMAIL***/g; s/[0-9a-f]{32}/***ID***/g' /tmp/cf.txt
           cat /tmp/cf.txt
 
-      # Telegram reaches the owner; this reaches whoever is working on the repo.
-      # A session has no way to read an Actions log (GitHub requires a sign-in,
-      # and there is no gh CLI here), which is exactly why the deploy failure of
-      # 2026-08-10 could not be diagnosed without the owner relaying a message.
-      # Only the VERDICT is committed — no email, no account id, no token.
+          # One line a human can act on, in Korean, derived from the two checks.
+          W_OK=$(grep -q '^WORKERS_SCRIPTS.*: OK' /tmp/cf.txt && echo 1 || echo 0)
+          R_OK=$(grep -q '^R2_BUCKETS.*: OK' /tmp/cf.txt && echo 1 || echo 0)
+          if [ "$W_OK$R_OK" = "11" ]; then
+            echo "배포 가능: 토큰에 Workers·R2 권한이 모두 있습니다." > /tmp/say.txt
+          else
+            MISSING=""
+            [ "$W_OK" = "0" ] && MISSING="Workers Scripts · Edit"
+            [ "$R_OK" = "0" ] && MISSING="${MISSING:+$MISSING, }Workers R2 Storage · Edit"
+            {
+              echo "배포 불가: 토큰에 다음 권한이 없습니다 — $MISSING"
+              echo "토큰이 죽은 게 아니라 권한만 모자랍니다. 값을 바꾸지 않고 권한만 추가하면 됩니다."
+              echo "Cloudflare → 계정 선택 → Manage Account → API Tokens → 해당 토큰 Edit → 위 권한 추가 → Continue → Save."
+              echo "(My Profile 쪽 API Tokens 아님 — 이 토큰은 계정 소유 토큰입니다.)"
+            } > /tmp/say.txt
+          fi
+          cat /tmp/say.txt
+
+      # A session cannot read an Actions log (GitHub wants a sign-in, and there
+      # is no gh CLI here), so the verdict lands in the repo where any session
+      # can read it without the owner relaying anything.
       - name: Leave the verdict in the repo
         if: always()
         run: |
           mkdir -p data/logs
           {
             echo "# Cloudflare token check — written by .github/workflows/cf-token-check.yml"
-            echo "# Verdict only: identifying details are stripped on purpose."
+            echo "# Secrets are masked in place; lines are never dropped (see workflow header)."
             echo "checked_at: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            echo "token_present: $([ -n "${{ secrets.CF_API_TOKEN }}" ] && echo yes || echo no)"
-            echo "account_id_present: $([ -n "${{ secrets.CF_ACCOUNT_ID }}" ] && echo yes || echo no)"
-            grep -E '^(success|status|error):' /tmp/cf.txt || true
-            echo "--- permission lines (names only) ---"
-            grep -iE 'permission|scope|workers|r2|edit|read' /tmp/cf.txt \
-              | grep -viE '@|[0-9a-f]{32}' \
-              | head -30 || true
+            echo
+            cat /tmp/say.txt 2>/dev/null
+            echo
+            cat /tmp/cf.txt 2>/dev/null
           } > data/logs/cf-token-check.txt
-          # Belt and braces: never let an address or a 32-hex id through.
-          sed -i -E 's/[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+/***EMAIL***/g; s/[0-9a-f]{32}/***ID***/g' data/logs/cf-token-check.txt
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/logs/cf-token-check.txt
           git diff --cached --quiet || git commit -m "chore: cloudflare token check verdict"
+          git pull --rebase --quiet || true
           git push || true
 
       - name: Send the answer to Telegram
@@ -91,9 +138,10 @@ jobs:
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
             echo "🔑 Cloudflare 토큰 점검 결과"
-            echo "(배포 권한이 있는지 보는 검사입니다)"
+            cat /tmp/say.txt 2>/dev/null
             echo
-            head -c 3000 /tmp/cf.txt
+            echo "── 상세 ──"
+            head -c 2500 /tmp/cf.txt
           } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
