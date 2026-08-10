@@ -1,0 +1,90 @@
+name: Reddit scout
+
+# Finds fresh question posts the editor can genuinely answer, drafts a reply
+# (English to paste + Korean explanation), and Telegrams 2-3 cards. The owner
+# opens the link, pastes, posts — the posting stays human on purpose
+# (reddit-outreach-rules: a machine on a comment rhythm gets shadowbanned and
+# takes the only outreach channel with it).
+#
+# It used to run as a Windows scheduled task on the owner's PC. That task fired
+# correctly every night at 20:30 KST and exited 0 — and not one card ever
+# arrived, because TELEGRAM_BOT_TOKEN lives in GitHub Secrets and NOT in the
+# local .env. scripts/reddit-scout.mjs treats a missing token as "print to
+# stdout instead", so every draft was written to a hidden console window and
+# thrown away. Silent by design, invisible in practice.
+#
+# Here the token exists, so the cards can actually be delivered. It also means
+# the scout no longer needs the PC to be awake.
+on:
+  schedule:
+    - cron: '30 11 * * *'   # 20:30 KST — same slot the PC task used
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reddit-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Draft and send today's cards
+        id: scout
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        # Reddit's RSS feeds are paced at 20s each inside the script, so this
+        # takes a few minutes by design — reading faster draws rate limits.
+        run: |
+          set -o pipefail
+          node scripts/reddit-scout.mjs 2>&1 | tee /tmp/scout.log
+
+      # The seen ledger is what stops the same thread being offered twice. It
+      # has to survive the run, and a runner is thrown away — so it is committed.
+      - name: Commit the seen ledger
+        if: success()
+        run: |
+          git config user.name  'content-bot'
+          git config user.email 'bot@users.noreply.github.com'
+          git add data/reddit-scout-seen.json
+          git diff --cached --quiet && { echo "no new threads seen"; exit 0; }
+          git commit -m "chore: reddit scout seen ledger ($(date -u +%Y-%m-%d))"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash origin main || true
+          done
+          echo "could not push the ledger after 3 attempts" >&2
+          exit 1
+
+      # A quiet night is normal (no matching questions). A BROKEN night is not,
+      # and the failure mode this workflow exists to fix was silence — so the
+      # owner hears when the scout itself fails, in Korean.
+      - name: Alert on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "⚠️ 레딧 정찰 실패 — 오늘 밤 답변 카드가 만들어지지 않았습니다."
+            echo "사이트에는 영향이 없습니다."
+            echo ""
+            tail -8 /tmp/scout.log 2>/dev/null || echo "(로그 없음)"
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true

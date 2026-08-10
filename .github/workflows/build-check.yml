@@ -59,6 +59,7 @@ on:
       - '!data/refresh-cursor.json'
       - '!data/performance-log.json'
       - '!data/indexnow-state.json'
+      - '!data/reddit-scout-seen.json'
 
 # NOT cancel-in-progress. Cancelling looks free but it is not: GitHub reports a
 # superseded run as a FAILED run and emails the owner about it, so a busy push
