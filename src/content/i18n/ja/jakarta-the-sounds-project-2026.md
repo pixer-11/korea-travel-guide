@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: jakarta-the-sounds-project-2026
-srcHash: 'f5e8b1d676df'
+srcHash: 'fe4a7fc0ff89'
 title: The Sounds Project 2026 完全ガイド(ジャカルタ)
 description: インドネシア・ジャカルタで2026年8月7日〜9日に開催される The Sounds Project 2026。フェスの概要、開催時期・場所、そして計画の立て方を紹介します。
 quickAnswer: The Sounds Project 2026 は2026年8月7日〜9日、ジャカルタで開催されます。ヘッドライナーはオーストラリアのロックバンド Jet で、地元勢もPamungkas、Rizky Febian、JUICY LUICY、For Revenge、Barasuara という強力な顔ぶれが揃います。この記事執筆時点では、正確な開催会場、出演時間、チケット料金は公式に確定していないため、まずは「日程だけ押さえておく」つもりで捉え、航空券やチケットを予約する前に必ずThe Sounds Projectの公式チャンネルで最新情報を確認してください。

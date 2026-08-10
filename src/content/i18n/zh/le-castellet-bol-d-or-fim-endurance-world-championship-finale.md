@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: le-castellet-bol-d-or-fim-endurance-world-championship-finale
-srcHash: '372478931545'
+srcHash: 'd1c48b2d9943'
 title: 勒卡斯特莱 Bol d'Or 耐力赛（FIM耐力世界锦标赛总决赛）攻略
 description: 2026年9月17日至20日，法国勒卡斯特莱（Le Castellet）将举办 Bol d'Or 耐力赛（FIM耐力世界锦标赛总决赛）。本文介绍赛事内容、时间地点，以及行程规划要点。
 quickAnswer: Bol d'Or 是为FIM耐力世界锦标赛（FIM Endurance World Championship）收官的24小时耐力赛，定于2026年9月17日至20日在普罗旺斯勒卡斯特莱（Le Castellet）附近的保罗·里卡尔赛道（Circuit Paul Ricard）举行。建议按一个长周末来安排行程：周四和周五进行练习赛与排位赛，周六下午开始的正赛将通宵持续到周日。由于赛程可能调整，请务必在预订前于 Bol d'Or / FIM EWC 官方渠道确认具体时间、入场时段和门票等级。

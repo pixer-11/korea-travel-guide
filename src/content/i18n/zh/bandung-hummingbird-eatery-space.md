@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bandung-hummingbird-eatery-space
-srcHash: '5c3dcf32f3f3'
+srcHash: '796434d17127'
 title: Hummingbird Eatery & Space：万隆美食指南
 description: Hummingbird Eatery & Space 是万隆 Jl. Progo 上一家绿意盎然、庭院环绕的全天候咖啡馆。
 quickAnswer: Hummingbird Eatery & Space 是万隆 Citarum 区 Jl. Progo 上一家绿意盎然、带庭院的全天候咖啡馆，菜单涵盖印尼经典菜、西式主餐、可丽饼和鲜榨果汁。凭借近 13,000 条评价获得 4.7 分的高评分，这里人气十足、常常宾客盈门——建议选在工作日上午或午后时段前往，以避开周末的人潮，每道菜预算约在 IDR 40,000–90,000 之间（中等价位，价位等级 2）。

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: '529cffff8539'
+srcHash: '74dda88112d0'
 title: '2026 바빌론 사운드가든: 잭 화이트, 웻 레그, 더 킬스 출연 (이스탄불) 총정리'
 description: 2026 바빌론 사운드가든(Babylon Soundgarden)은 2026년 8월 22일부터 23일까지 이스탄불 마슬락/사르예르(Maslak/Sarıyer) 지역의 파르코르만 자연공원(Parkorman Nature Park)에서 열리며, 잭 화이트, 웻 레그, 더 킬스가 출연합니다.
 quickAnswer: 2026 바빌론 사운드가든은 2026년 8월 22일부터 23일까지 이스탄불 마슬락/사르예르(Maslak/Sarıyer) 지역의 파르코르만 자연공원(Parkorman Nature Park)에서 열리며, 잭 화이트, 웻 레그, 더 킬스가 발표된 헤드라이너 명단에 포함되어 있습니다. 유럽 쪽에 위치한 숲속 공원에서 열리는 이틀간의 야외 페스티벌로 생각하면 되며, 레벤트(Levent)와 마슬락(Maslak)에서 택시나 라이드셰어로 쉽게 접근할 수 있습니다. 최종 공연 시간, 무대 구성, 티켓 등급은 행사일이 가까워지면 바빌론 공식 채널에서 확인하는 것이 좋습니다.

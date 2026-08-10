@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
-srcHash: 'f4ea55b71f56'
+srcHash: 'a0690c46c407'
 title: Zwift环法女子自行车赛：尼斯观赛须知
 description: 2026年Zwift环法女子自行车赛将于8月1日至9日举行，大奖赛（Grand Départ）在瑞士洛桑（Lausanne）拉开帷幕，途经旺图山（Mont Ventoux）的登顶赛段，最终在尼斯（Nice）落幕。
 quickAnswer: 2026年Zwift环法女子自行车赛将于8月1日至9日举行，大奖赛（Grand Départ）在瑞士洛桑（Lausanne）拉开帷幕，途经旺图山（Mont Ventoux）的登顶赛段，最终在尼斯（Nice）英国人漫步大道（Promenade des Anglais）落下帷幕。路边观赛完全免费——如果你想感受戏剧性的紧张氛围并愿意长时间等待，可以选择旺图山这样的山地赛段；如果想要更短、更热闹的观赛体验，并且交通便利，尼斯的终点赛段是更好的选择。由于逐日赛程和车手名单等具体信息通常只会在比赛前几周才公布，请在临近比赛日期时到环法女子自行车赛官方网站确认详细路线和参赛名单。

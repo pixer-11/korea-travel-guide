@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo
-srcHash: 'e2499741d8bc'
+srcHash: '99a2a5e4f3c5'
 title: 'Restaurante de mariscos Taman Laut Handayani: dónde comer en Labuan Bajo'
 description: Taman Laut Handayani es un gran restaurante de mariscos frente al puerto en Jl. Ande Bole, en el centro de Labuan Bajo.
 quickAnswer: 'Taman Laut Handayani es un gran restaurante de mariscos frente al puerto en Jl. Ande Bole, en el centro de Labuan Bajo, conocido por elegir tú mismo el pescado fresco para que lo asen a la parrilla y por sus vistas del atardecer sobre la bahía. Es un local muy popular y de precio medio (4.6 estrellas, más de 5,700 reseñas): ve justo a la apertura o bastante antes de la hora punta de la cena para evitar esperas, y calcula entre una hora y 90 minutos para una comida completa de mariscos.'

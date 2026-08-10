@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: jakarta-the-sounds-project-vol-9
-srcHash: '5756e34213e9'
+srcHash: '46fbad6dbc80'
 title: The Sounds Project Vol. 9 徹底ガイド(ジャカルタ)
 description: インドネシア・ジャカルタで開催される The Sounds Project Vol. 9(2026年8月7〜9日)。イベント概要、開催日時・場所、事前に押さえておきたいポイントを解説します。
 quickAnswer: The Sounds Project Vol. 9 は2026年8月7〜9日、北ジャカルタ・アンチョール(Ancol)の Ecovention Ecopark で開催されます。3日間にわたる複数ジャンル出演のフェスで、Pamungkas や Rizky Febian といったインドネシアのアーティストに加え、オーストラリアのロックバンド Jet など海外ゲストも出演予定です。チケットは必ず The Sounds Project の公式チャンネルのみで購入し、出演時間やゲートオープン時間は開催が近づいたら改めて確認しましょう(フェスのスケジュールは変更されることがあります)。

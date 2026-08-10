@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: george-town-george-town-festival-2026-beyond-boundaries
-srcHash: '9ddf4ed012bf'
+srcHash: 'c3bc6c0b098d'
 title: '2026 조지타운 페스티벌(Beyond Boundaries): 알아야 할 것들 (조지타운)'
 description: 말레이시아 조지타운(George Town)에서 열리는 2026 조지타운 페스티벌(Beyond Boundaries) — 2026년 8월 1일~9일. 축제의 개요, 일정과 장소, 그리고 방문 계획을 세우는 방법을 소개합니다.
 quickAnswer: 2026 조지타운 페스티벌(George Town Festival, "Beyond Boundaries")은 8월 1일부터 9일까지 페낭(Penang)의 유네스코 세계문화유산 핵심 지구에서 열리며, 40개가 넘는 국제 연극, 무용, 음악, 예술 프로그램이 역사적인 거리와 건물 곳곳에서 펼쳐집니다. 아르메니안 스트리트(Armenian Street)나 러브 레인(Love Lane) 인근 유산 지구 안에 숙소를 잡는 것이 좋고, 무료 공연과 유료 공연이 섞여 있으니 날짜가 가까워지면 공식 축제 웹사이트에서 전체 라인업과 장소, 가격을 확인하세요.

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: dubai-def-leppard-live-in-concert
-srcHash: '6638d9ce8c9a'
+srcHash: '93604c0d9fa0'
 title: Def Leppard ライブ・イン・コンサート:知っておきたいこと(ドバイ)
 description: Def Leppard ライブ・イン・コンサート、アラブ首長国連邦ドバイにて2026年8月2日開催——公演内容、日時・会場、そして旅程の立て方について。
 quickAnswer: Def Leppard は2026年8月2日、ドバイのCoca-Cola Arena(コカ・コーラ・アリーナ)への出演が予定されています——1夜限りの公演のため、チケットや正確な開演時間は、渡航計画を立てる前に会場の公式サイトまたはTicketmaster UAEで必ず確認してください。City Walk / Coca-Cola Arenaへは、手荷物検査やゲート探しに時間がかかることを見込んで余裕を持って到着しましょう。開場前の1時間は周辺の広場が混雑しやすいためです。

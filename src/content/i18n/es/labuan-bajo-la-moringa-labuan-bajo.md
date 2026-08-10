@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: labuan-bajo-la-moringa-labuan-bajo
-srcHash: 'eed8018a1a8e'
+srcHash: '6588b304a780'
 title: 'La Moringa: dónde comer en Labuan Bajo (4.9★)'
 description: La Moringa es un restaurante bien valorado, informal pero cuidado, en Jl. Trans Flores.
 quickAnswer: La Moringa es un restaurante bien valorado, informal pero cuidado, en Jl. Trans Flores en Labuan Bajo, ideal para una cena relajada de platos indonesios e internacionales después de una excursión de un día al Parque Nacional Komodo. Con una calificación de 4.9 en más de 2,300 reseñas y precios de rango medio, es una opción segura y satisfactoria; conviene ir temprano en la noche (antes de las 7pm) o reservar con anticipación para evitar esperas, ya que es popular tanto entre viajeros como entre grupos turísticos que pasan por el pueblo.

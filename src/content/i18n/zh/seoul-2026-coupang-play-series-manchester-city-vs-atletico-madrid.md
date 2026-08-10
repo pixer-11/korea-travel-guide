@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid
-srcHash: '5c714c1e9071'
+srcHash: '97f45e064f31'
 title: 曼城对阵马德里竞技首尔站：2026年Coupang Play系列赛
 description: 2026年8月5日和9日，曼彻斯特城与马德里竞技将在首尔世界杯体育场展开Coupang Play系列赛。附门票、开球时间及交通指南。
 quickAnswer: 曼彻斯特城将于2026年8月5日对阵韩国K联赛联队,马德里竞技将于2026年8月9日出战，两场比赛均在首尔世界杯体育场（Seoul World Cup Stadium，位于麻浦区上岩洞Sangam）举行，是韩国规模最大的季前赛足球盛事——Coupang Play系列赛的一部分。请务必在门票开售第一时间购票，乘坐地铁6号线到世界杯体育场站（World Cup Stadium Station）前往，并在出发前于Coupang Play及主办方官方渠道确认具体开球时间和票档信息。

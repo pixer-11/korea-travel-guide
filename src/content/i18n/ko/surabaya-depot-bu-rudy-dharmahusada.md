@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: surabaya-depot-bu-rudy-dharmahusada
-srcHash: 'ce3d96a3408a'
+srcHash: '30fd5e7b0f22'
 title: '데포 부 루디 다르마후사다: 수라바야 맛집 탐방'
 description: 데포 부 루디 다르마후사다(Depot Bu Rudy Dharmahusada)는 Jl. Dharmahusada에 위치한 수라바야의 오랜 전통 맛집입니다.
 quickAnswer: 데포 부 루디 다르마후사다(Depot Bu Rudy Dharmahusada)는 Jl. Dharmahusada에 자리한 수라바야의 오랜 전통 맛집으로, 삼발(sambal)이 강렬하게 살아있는 동자바식 요리, 특히 뻄뻭(rempeyek, 바삭한 땅콩·멸치 크래커), 엠빨(empal), 그리고 단골 손님들이 킬로 단위로 사서 집에 가져가는 삼발 프라이드치킨으로 유명합니다. 거의 17,000개에 달하는 리뷰에서 4.5점의 평점을 기록할 만큼 늘 붐비는 곳이므로, 이른 점심시간(오전 11시 30분)이나 오후 한산한 시간대(오후 2시 30분~4시)를 노리면 가장 붐비는 시간을 피할 수 있습니다.

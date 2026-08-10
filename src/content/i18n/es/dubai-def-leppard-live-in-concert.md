@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-def-leppard-live-in-concert
-srcHash: '6638d9ce8c9a'
+srcHash: '93604c0d9fa0'
 title: 'Def Leppard en concierto: lo que hay que saber (Dubái)'
 description: Def Leppard en concierto en Dubái, Emiratos Árabes Unidos — 2 de agosto de 2026. Qué es, cuándo y dónde, y cómo organizar tu viaje en torno al evento.
 quickAnswer: Def Leppard tiene previsto tocar en el Coca-Cola Arena de Dubái el 2 de agosto de 2026 — una única fecha, así que conviene confirmar las entradas y los horarios exactos en el sitio oficial del recinto o en Ticketmaster UAE con bastante antelación antes de organizar el viaje. Llega a City Walk / Coca-Cola Arena con tiempo suficiente para pasar los controles de bolsos y encontrar tu puerta de acceso, ya que en estos conciertos la plaza que rodea el recinto se llena rápido durante la hora previa a la apertura de puertas.

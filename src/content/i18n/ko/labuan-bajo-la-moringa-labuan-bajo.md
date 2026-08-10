@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: labuan-bajo-la-moringa-labuan-bajo
-srcHash: 'eed8018a1a8e'
+srcHash: '6588b304a780'
 title: '라 모링가(La Moringa): 라부안 바조(Labuan Bajo) 맛집 추천 (4.9★)'
 description: 라 모링가는 라부안 바조의 Jl. Trans Flores에 위치한, 평이 좋으면서도 캐주얼하고 세련된 레스토랑입니다.
 quickAnswer: 라 모링가는 라부안 바조(Labuan Bajo)의 Jl. Trans Flores에 위치한, 평이 좋으면서도 캐주얼하고 세련된 레스토랑으로, 코모도 국립공원(Komodo National Park) 당일 투어를 마친 후 인도네시아 음식과 인터내셔널 요리를 즐기며 여유롭게 저녁을 즐기기에 좋은 곳입니다. 2,300개 이상의 리뷰에서 4.9점의 평점을 받았고 가격대도 중간 수준이라 실패 없는 선택지이며, 마을을 지나는 여행자들과 투어 그룹들에게 인기가 많은 만큼 대기를 피하려면 이른 저녁(오후 7시 이전)에 가거나 미리 예약하는 것이 좋습니다.

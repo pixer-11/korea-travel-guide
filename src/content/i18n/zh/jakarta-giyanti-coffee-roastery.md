@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-giyanti-coffee-roastery
-srcHash: '1778c102e5b3'
+srcHash: '1ec2310f0a63'
 title: Giyanti Coffee Roastery：雅加达旅行指南
 description: Giyanti Coffee Roastery 是位于 Jl. Surabaya 的一家精品咖啡馆兼烘焙工坊。
 quickAnswer: Giyanti Coffee Roastery 是位于中雅加达（Central Jakarta）美娜地（Menteng）Jl. Surabaya 上的一家精品咖啡馆兼烘焙工坊，以印尼单一产地咖啡豆（Gayo、Toraja、Flores、Kintamani）和现场烘焙闻名。建议工作日上午前往以避开人潮，预留一到两个小时，喝完咖啡后不妨顺道逛逛门外的古董市集。

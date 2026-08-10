@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: istanbul-tiesto-live-istanbul-festival
-srcHash: '84167639d70c'
+srcHash: 'deb8549b1440'
 title: 蒂斯托现场演出 —— 伊斯坦布尔音乐节须知（伊斯坦布尔）
 description: 2026年8月8日，蒂斯托（Tiësto）将在土耳其伊斯坦布尔的伊斯坦布尔音乐节（Istanbul Festival）压轴登场——这是什么活动、时间地点，以及如何提前规划行程。
 quickAnswer: 蒂斯托将在马尔马拉海畔、历史半岛上的耶尼卡帕音乐节公园（Festival Alanı Yenikapı）压轴出演伊斯坦布尔音乐节，目前公布的日期是2026年8月8日。请将此日期视为暂定安排，预订机票或酒店前，务必在音乐节官方渠道确认具体时间、舞台安排和票价档次。建议提前很久就抵达耶尼卡帕，乘坐有轨电车（tram）或马尔马雷（Marmaray）前往，以避开入场时的拥挤人潮。

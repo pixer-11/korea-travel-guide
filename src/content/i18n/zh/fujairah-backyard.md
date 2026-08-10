@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: fujairah-backyard
-srcHash: '108bf0e09f36'
+srcHash: 'db34ddc4d901'
 title: Backyard：富查伊拉旅行指南
 description: Backyard 是一家低调随性的精品咖啡馆，藏身于富查伊拉市（Fujairah City）的 Al Faseel 区，最适合在工作日的早晨前往，那时遮荫座位区安静，浓缩咖啡机也不用排队等候。
 quickAnswer: Backyard 是一家低调随性的精品咖啡馆，藏身于富查伊拉市（Fujairah City）的 Al Faseel 区，最适合在工作日的早晨前往，那时遮荫座位区安静，浓缩咖啡机也不用排队等候。它是一个喝咖啡、聊天的休憩点，而非观光地标，所以最好把它和富查伊拉堡（Fujairah Fort）或 Al Faseel 海滨长廊（corniche）安排在一起，预留 30–60 分钟即可。它的评分为 4.6 分（160 条评价），值得那些真正为咖啡本身而来、而非为人气而来的游客一试。

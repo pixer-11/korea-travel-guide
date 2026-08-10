@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
-srcHash: '35b69fb830a3'
+srcHash: '082a76904b29'
 title: Lee Hi ——《808 HI Recordings》世界巡演 2026：雅加达站须知
 description: Lee Hi《808 HI Recordings》世界巡演 2026 雅加达站——2026年8月9日举行。演出详情、时间地点，以及如何提前规划行程。
 quickAnswer: Lee Hi 将于2026年8月9日首次把她的“808 HI Recordings”世界巡演带到雅加达，演出地点在南雅加达 SCBD 的 Bengkel Hall，特邀嘉宾为说唱歌手 DOK2。具体票务信息、演出时间安排及入场细节将通过官方主办方以及 Lee Hi 本人/场馆的认证社交媒体渠道公布——在预订机票或安排其他行程前请务必先确认这些信息，因为韩流/韩式说唱巡演的场次与阵容都可能发生变动。

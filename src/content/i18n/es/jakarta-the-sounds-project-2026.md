@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-the-sounds-project-2026
-srcHash: 'f5e8b1d676df'
+srcHash: 'fe4a7fc0ff89'
 title: 'The Sounds Project 2026: lo que hay que saber (Yakarta)'
 description: The Sounds Project 2026 en Yakarta, Indonesia — del 7 al 9 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu viaje.
 quickAnswer: 'The Sounds Project 2026 se celebra del 7 al 9 de agosto de 2026 en Yakarta, encabezado por la banda de rock australiana Jet junto a un sólido cartel local: Pamungkas, Rizky Febian, JUICY LUICY, For Revenge y Barasuara. Al momento de escribir esto, el recinto exacto, los horarios de las presentaciones y las categorías de entradas aún no se han confirmado públicamente, así que tómalo como una fecha para reservar en tu agenda y confirma todo en los canales oficiales de Sounds Project antes de reservar vuelos o entradas.'

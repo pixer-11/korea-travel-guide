@@ -45,7 +45,9 @@ Taxis and ride-hailing are plentiful in this district since it's a business and 
 
 ## What to expect from the set
 
-Lee Hi's catalog spans emotionally heavy ballads, sultry mid-tempo R&B, and the occasional upbeat hip-hop collaboration — a legacy of her early days on Show Me the Money and her tenure at YG Entertainment before moving to AOMG. With DOK2 on the bill, the show was expected to include at least one or two collaborative or hip-hop-forward segments alongside her solo hits. World tour stops for Korean R&B/hip-hop artists in Southeast Asia typically run 90 minutes to two hours. Set times, encore structure, and any VIP soundcheck or meet-and-greet add-ons were detailed through the official ticket tiers.
+Lee Hi's catalog spans emotionally heavy ballads, sultry mid-tempo R&B, and the occasional upbeat hip-hop collaboration — a legacy of her early days on Show Me the Money and her tenure at YG Entertainment before moving to AOMG. With DOK2 on the bill, the show was expected to include at least one or two collaborative or hip-hop-forward segments alongside her solo hits.
+
+World tour stops for Korean R&B/hip-hop artists in Southeast Asia typically run 90 minutes to two hours. Set times, encore structure, and any VIP soundcheck or meet-and-greet add-ons were detailed through the official ticket tiers.
 
 ## Tickets and practical notes
 

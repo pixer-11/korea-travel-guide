@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: davao-people-s-park
-srcHash: 'a68bce86ee27'
+srcHash: 'e71ae0bb71ff'
 title: 人民公园：达沃旅行指南
 description: 人民公园（People's Park）是位于达沃市市中心Poblacion区、占地4.39公顷的绿地，坐落于J. Palma Gil街。
 quickAnswer: 人民公园（People's Park）是位于达沃市市中心Poblacion区、占地4.39公顷的绿地，坐落于J. Palma Gil街，最佳游览时间是刚开门的下午1点，或是晚上6点以后，这样既能避开午后的酷热，也能避开人流高峰。公园免费入场，从市中心大多数酒店步行即可到达，游览雕塑、本地植物区和喷泉区大约需要45分钟到1小时。如果时间允许，建议选在工作日前往——周末会有大量家庭游客涌入。

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-tiesto-live-istanbul-festival
-srcHash: '84167639d70c'
+srcHash: 'deb8549b1440'
 title: 'Tiësto en directo – Istanbul Festival: lo que hay que saber (Istanbul)'
 description: Tiësto en directo – Istanbul Festival en Istanbul, Turquía — 8 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizarte para asistir.
 quickAnswer: Tiësto encabeza el cartel del Istanbul Festival en Festival Park Yenikapı (Festival Alanı Yenikapı), en la costa del Mármara de la Península Histórica, con fecha anunciada por ahora para el 8 de agosto de 2026. Tómala como fecha de trabajo y confirma el horario exacto, los detalles del escenario y las categorías de entradas en los canales oficiales del festival antes de reservar vuelos u hoteles. Prevé llegar a Yenikapı bastante antes de la apertura de puertas en tranvía o Marmaray para evitar las aglomeraciones en los accesos.

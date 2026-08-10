@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift
-srcHash: 'f4ea55b71f56'
+srcHash: 'a0690c46c407'
 title: 'Tour de France Femmes avec Zwift: qué debes saber en Niza'
 description: La edición 2026 del Tour de France Femmes avec Zwift se disputa del 1 al 9 de agosto, con un Grand Départ en Lausana (Suiza), una etapa cima en el Mont Ventoux y la final en la Promenade des Anglais de Niza.
 quickAnswer: 'La edición 2026 del Tour de France Femmes avec Zwift se disputa del 1 al 9 de agosto, con un Grand Départ en Lausana (Suiza), una etapa cima en el Mont Ventoux y la final en la Promenade des Anglais de Niza. Verlo desde la carretera es gratis: puedes elegir una etapa de montaña (Ventoux) para más emoción y una espera más larga, o la llegada en Niza para una ventana de visionado más corta y festiva, con fácil acceso en transporte público. Confirma el recorrido etapa por etapa y la lista de participantes en la web oficial del Tour de France Femmes cerca de la fecha de la carrera, ya que los horarios exactos y los puntos de acceso al recorrido solo se publican unas semanas antes.'

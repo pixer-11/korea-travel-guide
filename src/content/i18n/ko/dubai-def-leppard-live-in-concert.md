@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: dubai-def-leppard-live-in-concert
-srcHash: '6638d9ce8c9a'
+srcHash: '93604c0d9fa0'
 title: '데프 레파드 두바이 내한 공연: 알아둬야 할 것들'
 description: 데프 레파드(Def Leppard)가 2026년 8월 2일 아랍에미리트 두바이에서 공연을 엽니다. 공연 개요, 일정과 장소, 그리고 관람 전 준비할 사항을 안내합니다.
 quickAnswer: 데프 레파드는 2026년 8월 2일 두바이 코카콜라 아레나(Coca-Cola Arena)에서 단 하루 공연을 엽니다. 단독 공연인 만큼 티켓과 정확한 공연 시작 시간은 여행 계획을 세우기 전에 공식 홈페이지나 티켓마스터 UAE(Ticketmaster UAE)에서 반드시 확인하세요. 시티워크(City Walk) / 코카콜라 아레나에는 가방 검사와 입장 게이트 확인 시간을 넉넉히 두고 도착하는 것이 좋습니다. 공연 시작 한 시간 전부터 주변 광장이 금세 붐비기 때문입니다.

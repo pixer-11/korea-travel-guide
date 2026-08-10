@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills
-srcHash: '529cffff8539'
+srcHash: '74dda88112d0'
 title: Babylon Soundgarden 2026(ジャック・ホワイト、ウェット・レッグ、ザ・キルズ出演):知っておくべきこと(イスタンブール)
 description: Babylon Soundgarden 2026は2026年8月22日〜23日、イスタンブールのマスラック/サルヤル地区にあるParkorman Nature Parkで開催予定で、ジャック・ホワイト、ウェット・レッグ、ザ・キルズが出演します。
 quickAnswer: Babylon Soundgarden 2026は2026年8月22日〜23日、イスタンブールのマスラック/サルヤル(Maslak/Sarıyer)地区にあるParkorman Nature Parkで開催予定で、発表されているヘッドライナーにはジャック・ホワイト、ウェット・レッグ、ザ・キルズなどが名を連ねています。屋外開催の2日間フェスとして計画するのがよいでしょう:会場はヨーロッパ側の森林公園、レヴェント(Levent)やマスラック(Maslak)からはタクシー/配車サービスでのアクセスが便利です。最終的な出演時間、ステージ構成、チケット料金区分については、開催が近づいたらBabylonの公式チャンネルで必ず確認してください。

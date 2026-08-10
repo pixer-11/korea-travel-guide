@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: le-castellet-bol-d-or-fim-endurance-world-championship-finale
-srcHash: '372478931545'
+srcHash: 'd1c48b2d9943'
 title: ボル・ドール(FIM世界耐久選手権 最終戦):知っておきたい基礎知識(ル・カステレ)
 description: フランス・ル・カステレ(Le Castellet)で開催されるボル・ドール(FIM世界耐久選手権 最終戦)。開催日は2026年9月17日~20日。イベントの概要、開催日程・場所、旅行計画のポイントを解説します。
 quickAnswer: ボル・ドールは、FIM世界耐久選手権(FIM Endurance World Championship)のシーズンを締めくくる24時間耐久レースで、2026年9月17日~20日にプロヴァンス地方のル・カステレ(Le Castellet)近郊にあるポール・リカール・サーキット(Circuit Paul Ricard)で開催予定です。長めの週末を確保しておきましょう:木曜日から金曜日にかけてフリー走行・予選が行われ、レース本番は土曜日午後から夜通し日曜日まで続きます。正確な時間帯やゲート開場時間、チケットの種類については、予約前に必ずボル・ドール/FIM EWCの公式チャンネルで確認してください。スケジュールが変更になる場合があります。

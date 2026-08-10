@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: fujairah-backyard
-srcHash: '108bf0e09f36'
+srcHash: 'db34ddc4d901'
 title: '백야드(Backyard): 푸자이라 여행 가이드'
 description: 백야드(Backyard)는 푸자이라 시티(Fujairah City) 알 파세일(Al Faseel) 지역에 자리한 여유로운 스페셜티 커피숍으로, 그늘진 좌석이 한산하고 에스프레소 머신이 밀리지 않는 평일 오전에 방문하기 좋습니다.
 quickAnswer: 백야드(Backyard)는 푸자이라 시티(Fujairah City) 알 파세일(Al Faseel) 지역에 자리한 여유로운 스페셜티 커피숍으로, 그늘진 좌석이 한산하고 에스프레소 머신이 밀리지 않는 평일 오전에 방문하기 좋습니다. 관광 명소라기보다는 커피와 담소를 나누는 곳이므로, 푸자이라 포트(Fujairah Fort)나 알 파세일 코니시(Al Faseel corniche)와 묶어서 30~60분 정도 시간을 잡는 것이 좋습니다. 평점 4.6에 리뷰 160개로, 사람보다 커피 그 자체를 보고 찾아가는 방문객에게 만족을 주는 곳입니다.

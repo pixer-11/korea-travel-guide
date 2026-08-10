@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: istanbul-amr-diab-live-in-istanbul
-srcHash: '8511574dd2d9'
+srcHash: '846e12a64a63'
 title: 'Amr Diab en vivo en Istanbul: lo que hay que saber (Istanbul)'
 description: Amr Diab en vivo en Istanbul, Turquía — 2 de agosto de 2026. Qué es, cuándo y dónde, y cómo planificar en torno al evento.
 quickAnswer: Amr Diab, la superestrella egipcia detrás de décadas de éxitos del pop árabe, se presentará en vivo en Istanbul el 2 de agosto de 2026. Por el momento, el recinto exacto, las categorías de entradas y la hora de inicio no están confirmados en una única fuente oficial, así que toma esta fecha como referencia y verifica el recinto y las entradas en las plataformas de venta oficiales y en los canales del propio Amr Diab antes de reservar vuelos u hoteles.

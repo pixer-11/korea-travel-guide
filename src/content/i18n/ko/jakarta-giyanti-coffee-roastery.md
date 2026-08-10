@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: jakarta-giyanti-coffee-roastery
-srcHash: '1778c102e5b3'
+srcHash: '1ec2310f0a63'
 title: '기얀티 커피 로스터리: 자카르타 여행 가이드'
 description: 기얀티 커피 로스터리(Giyanti Coffee Roastery)는 자카르타 Jl. Surabaya에 위치한 스페셜티 커피 하우스 겸 로스터리입니다.
 quickAnswer: 기얀티 커피 로스터리(Giyanti Coffee Roastery)는 중부 자카르타 멘텡(Menteng)의 Jl. Surabaya에 위치한 스페셜티 커피 하우스 겸 로스터리로, 인도네시아산 싱글 오리진 원두(가요, 토라자, 플로레스, 킨타마니)와 매장 내 자체 로스팅 작업으로 잘 알려져 있습니다. 인파를 피하려면 평일 오전에 방문하고, 1~2시간 정도 여유를 두며, 바로 문 앞에 있는 골동품 거리 시장과 함께 즐겨보세요.

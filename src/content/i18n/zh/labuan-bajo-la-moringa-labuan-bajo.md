@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: labuan-bajo-la-moringa-labuan-bajo
-srcHash: 'eed8018a1a8e'
+srcHash: '6588b304a780'
 title: La Moringa：在拉布安巴焦（Labuan Bajo）吃什么、去哪吃（4.9★）
 description: La Moringa 是位于 Jl. Trans Flores 的一家口碑很好、休闲又不失精致的餐厅。
 quickAnswer: La Moringa 是拉布安巴焦（Labuan Bajo）Jl. Trans Flores 路上一家口碑极佳、休闲中带点精致感的餐厅，非常适合在结束科莫多国家公园（Komodo National Park）一日游后，来一顿轻松的晚餐，菜单涵盖印尼菜和西式料理。凭借 2,300 多条评价、4.9 的评分以及中等价位，这里是个稳妥又令人满意的选择——建议傍晚早些时候（7点前）前往，或提前预订，以免久等，因为无论是普通游客还是跟团游客都很爱来这里。

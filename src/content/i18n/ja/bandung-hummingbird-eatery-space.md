@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bandung-hummingbird-eatery-space
-srcHash: '5c3dcf32f3f3'
+srcHash: '796434d17127'
 title: Hummingbird Eatery & Space:バンドンで食事するならここ
 description: Hummingbird Eatery & Spaceは、バンドンのCitarum(チタルム)エリアにあるJl. Progo(プロゴ通り)沿いの、緑豊かなパティオが自慢の終日営業カフェです。
 quickAnswer: Hummingbird Eatery & Spaceは、バンドンのCitarum(チタルム)エリア、Jl. Progo(プロゴ通り)沿いにある、緑豊かなパティオが特徴の終日営業カフェです。インドネシアの定番料理から洋食、クレープ、フレッシュジュースまで幅広いメニューで知られています。約13,000件のレビューで評価4.7を獲得しており、実際に多くの人が訪れる人気店です。週末の混雑を避けるには平日の午前中か午後の中頃に訪れるのがおすすめで、1皿あたりIDR 40,000〜90,000ほど(中価格帯、価格帯レベル2)を見込んでおきましょう。

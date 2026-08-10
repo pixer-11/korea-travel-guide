@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-this-is-bali-balinese-food-desserts
-srcHash: 'f480016b75c4'
+srcHash: 'c7248398aa11'
 title: This Is Bali——巴厘岛美食与甜点：去哪吃
 description: This Is Bali 是位于 Jl. Goutama 的一家休闲印尼餐厅，人气颇高。
 quickAnswer: This Is Bali 是一家休闲、口碑极佳的印尼餐厅，位于乌布（Ubud）中心的 Jl. Goutama，以经济实惠的巴厘岛经典菜肴闻名，比如烤乳猪（babi guling）、什锦饭（nasi campur），以及传统甜点如班兰煎饼卷（dadar gulung）和黑糯米粥（bubur injin）。凭借超过 18,000 条评价、4.9 分的高分和中等价位（price level 2），这里人气极旺，午餐和晚餐高峰期需要做好排队等候的准备。建议开门时段或下午中段前往，点一些咸甜搭配的菜肴分享，饭后再沿着 Jl. Goutama 这条咖啡馆与书店云集的街道散散步。

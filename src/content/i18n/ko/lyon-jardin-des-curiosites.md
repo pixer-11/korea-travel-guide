@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: lyon-jardin-des-curiosites
-srcHash: 'ebe3a7c5a7d9'
+srcHash: '406d6902ea9c'
 title: '쥬르뎅 데 퀴리오지테(Jardin des Curiosités): 리옹 여행 가이드 (4.7★)'
 description: 쥬르뎅 데 퀴리오지테(Jardin des Curiosités)는 리옹 푸르비에르(Fourvière) 지구의 언덕 위에 자리한 작은 정원입니다(8 Pl.). 4.7★ (리뷰 2,109개) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 쥬르뎅 데 퀴리오지테(Jardin des Curiosités)는 리옹 푸르비에르(Fourvière) 지구의 언덕 위에 있는 작은 정원으로(8 Pl. de l'Abbé Larue, 69005), 손강(Saône)과 도시의 지붕들을 한눈에 내려다볼 수 있습니다. 매일 오전 8시~오후 10시까지 운영하며, 가장 한적한 시간대는 요일 상관없이 오전 8시~정오이고, 주말 오후 1시 이후로는 붐비기 시작합니다. 도시락을 챙겨가서 계단식 잔디밭에 앉아 시간을 보내고, 비외 리옹(Vieux Lyon)까지 산책을 곁들이면 좋습니다.

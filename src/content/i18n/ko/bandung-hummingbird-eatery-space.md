@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bandung-hummingbird-eatery-space
-srcHash: '5c3dcf32f3f3'
+srcHash: '796434d17127'
 title: '허밍버드 이터리 앤 스페이스: 반둥 맛집 탐방'
 description: 허밍버드 이터리 앤 스페이스(Hummingbird Eatery & Space)는 나무가 우거지고 파티오가 넓은, 하루 종일 이용할 수 있는 반둥의 카페로 Jl. Progo에 위치해 있습니다.
 quickAnswer: 허밍버드 이터리 앤 스페이스(Hummingbird Eatery & Space)는 반둥 치타룸(Citarum) 지역 Jl. Progo에 위치한, 나무가 우거지고 파티오가 넓은 종일 운영 카페로, 인도네시아 전통 요리부터 서양식 메인 요리, 크레페, 신선한 주스까지 아우르는 메뉴로 유명합니다. 거의 13,000개의 리뷰에서 4.7점의 평점을 받은, 실제로 인기 있고 방문객이 많은 곳이므로 주말의 혼잡함을 피하려면 평일 오전이나 오후 중반 시간대에 방문하는 것이 좋습니다. 예산은 요리당 약 IDR 40,000~90,000 (중간 가격대, 가격 수준 2) 정도로 잡으면 됩니다.

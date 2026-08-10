@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: naples-museo-archeologico-nazionale-di-napoli
-srcHash: 'b3c08aa8b0e9'
+srcHash: '477d8990b835'
 title: '나폴리 국립고고학박물관(Museo Archeologico Nazionale di Napoli): 나폴리 여행 가이드'
 description: 나폴리 국립고고학박물관(MANN)은 나폴리 구시가지 바로 북쪽 Piazza Museo 19에 위치하며, 폼페이와 헤르쿨라네움에서 발굴된 예술품 중 세계 최고의 컬렉션을 소장하고 있습니다. 4.6★(37,292개 리뷰) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 나폴리 국립고고학박물관(MANN)은 나폴리 구시가지 바로 북쪽 Piazza Museo 19에 위치하며, 폼페이와 헤르쿨라네움에서 발굴된 예술품 중 세계 최고의 컬렉션을 소장하고 있습니다. 화요일을 제외하고 매일 오전 9시부터 오후 6시 30분까지 운영하며, 관람에는 2~3시간을 잡는 것이 좋습니다. 주말에 방문한다면 오전 9시 개장 시각에 바로 맞춰 가는 것이 좋은데, 오전 10시부터 오후 6시 사이가 가장 혼잡한 시간대이기 때문입니다. 지하철 1호선(Metro Line 1)의 Cavour역이나 Museo역을 이용하면 두 역 모두 도보로 짧은 거리에 있습니다.

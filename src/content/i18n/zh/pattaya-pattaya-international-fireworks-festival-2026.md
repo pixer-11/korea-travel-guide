@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: pattaya-pattaya-international-fireworks-festival-2026
-srcHash: 'b3978c92f65b'
+srcHash: '8b826cd2b0ef'
 title: 2026年芭提雅国际烟花节全攻略（芭提雅）
 description: 2026年芭提雅国际烟花节在泰国芭提雅举行，时间为2026年7月30日至8月2日。本文介绍活动内容、时间地点，以及行前规划要点。
 quickAnswer: 2026年芭提雅国际烟花节定于2026年7月30日至8月2日在芭提雅海滩（Pattaya Beach）举行，多国烟火团队将同台竞技，在节日的重头戏之夜呈现与音乐同步编排的烟花表演。沿海滩及海滩路（Beach Road）观赏免费，但需提前数小时到场占位；由于活动细节可能逐年调整，建议出发前通过芭提雅官方旅游渠道确认具体日期、舞台位置及是否设有收费观赏区。

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: jakarta-the-sounds-project-2026
-srcHash: 'f5e8b1d676df'
+srcHash: 'fe4a7fc0ff89'
 title: The Sounds Project 2026 全攻略(雅加达)
 description: 2026年8月7日至9日,The Sounds Project将在印度尼西亚雅加达举行——这里介绍活动详情、时间地点,以及如何提前规划行程。
 quickAnswer: The Sounds Project 2026将于2026年8月7日至9日在雅加达举行,由澳大利亚摇滚乐队Jet领衔,并搭配强大的本地阵容——Pamungkas、Rizky Febian、JUICY LUICY、For Revenge以及Barasuara。截至本文撰写时,具体场地、演出时间及票价档位尚未正式公布,因此目前只能先把日期记下来,预订机票或门票前务必在The Sounds Project官方渠道确认所有信息。

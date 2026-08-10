@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo
-srcHash: 'e2499741d8bc'
+srcHash: '99a2a5e4f3c5'
 title: Taman Laut Handayani 海鲜餐厅：在拉布安巴焦吃什么
 description: Taman Laut Handayani 是位于 Jl. Ande Bole 的一家滨港大型海鲜餐厅。
 quickAnswer: Taman Laut Handayani 是位于拉布安巴焦（Labuan Bajo）市中心 Jl. Ande Bole 上的一家滨港大型海鲜餐厅，以现挑现烤的新鲜海产和眺望海湾的日落景观而闻名。这里是一家人气很旺、价位适中的餐厅（4.6 星，超过 5,700 条评价）——建议开门时段就去，或在晚餐高峰前提早前往以避免排队，用餐（包括挑选与等待烹饪）预计需要一小时到 90 分钟。

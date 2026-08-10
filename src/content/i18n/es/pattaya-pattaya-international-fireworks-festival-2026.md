@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-pattaya-international-fireworks-festival-2026
-srcHash: 'b3978c92f65b'
+srcHash: '8b826cd2b0ef'
 title: 'Festival Internacional de Fuegos Artificiales de Pattaya 2026: lo que hay que saber (Pattaya)'
 description: El Festival Internacional de Fuegos Artificiales de Pattaya 2026 en Pattaya, Tailandia, del 30 de julio al 2 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: El Festival Internacional de Fuegos Artificiales de Pattaya 2026 está programado para el 30 de julio al 2 de agosto de 2026 a lo largo de Pattaya Beach, con equipos internacionales de pirotecnia compitiendo en espectáculos coreografiados y sincronizados con música durante las noches principales del festival. Ver el espectáculo desde la playa y Beach Road es gratis, pero conviene llegar con horas de antelación para conseguir un buen sitio, y confirmar las fechas exactas, los escenarios y las posibles zonas con entrada de pago en los canales oficiales de turismo de Pattaya antes de ir, ya que la logística del festival puede variar de un año a otro.

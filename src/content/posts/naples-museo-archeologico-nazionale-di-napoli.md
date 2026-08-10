@@ -90,7 +90,9 @@ The museum is also a natural pairing with a Pompeii or Herculaneum day trip: man
 
 ## When to go
 
-Check the museum's current opening hours and any weekly closing day before you go, since these can change with the season. Weekends are consistently busiest between 10am and 6pm, so if you're visiting on a Saturday or Sunday, arriving right when the doors open is the single best way to get the Farnese Hall and the mosaic corridor to yourself before tour groups arrive. Weekday mornings tend to be calmer across the board. Plan for two hours if you're moving quickly through highlights, three or more if you want to linger over the mosaics and frescoes.
+Check the museum's current opening hours and any weekly closing day before you go, since these can change with the season. Weekends are consistently busiest between 10am and 6pm, so if you're visiting on a Saturday or Sunday, arriving right when the doors open is the single best way to get the Farnese Hall and the mosaic corridor to yourself before tour groups arrive.
+
+Weekday mornings tend to be calmer across the board. Plan for two hours if you're moving quickly through highlights, three or more if you want to linger over the mosaics and frescoes.
 
 ## How to visit like a local
 

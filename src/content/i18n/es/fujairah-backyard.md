@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-backyard
-srcHash: '108bf0e09f36'
+srcHash: 'db34ddc4d901'
 title: 'Backyard: Guía de viaje de Fujairah'
 description: Backyard es una cafetería de especialidad tranquila y sin pretensiones, escondida en la zona de Al Faseel, en la ciudad de Fujairah, ideal para visitar un día de semana por la mañana, cuando la zona de asientos con sombra está tranquila.
 quickAnswer: Backyard es una cafetería de especialidad tranquila y sin pretensiones, escondida en la zona de Al Faseel, en la ciudad de Fujairah, ideal para visitar un día de semana por la mañana, cuando la zona de asientos con sombra está tranquila y la máquina de espresso no tiene cola. Es una parada para tomar café y charlar, no un hito turístico en sí, así que conviene combinarla con el Fuerte de Fujairah (Fujairah Fort) o el paseo marítimo (corniche) de Al Faseel y dedicarle entre 30 y 60 minutos. Con una calificación de 4.6 sobre 160 reseñas, recompensa a quienes van por el café en sí, no por el ambiente de multitudes.

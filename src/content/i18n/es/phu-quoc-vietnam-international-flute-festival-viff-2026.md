@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: phu-quoc-vietnam-international-flute-festival-viff-2026
-srcHash: '687015faf07b'
+srcHash: '554638ce6b2e'
 title: 'Festival Internacional de Flauta de Vietnam (VIFF) 2026: lo que debes saber (Phu Quoc)'
 description: El Festival Internacional de Flauta de Vietnam (VIFF) 2026 se celebra del 23 al 28 de julio de 2026 en Phu Quoc, y reúne a más de 40 flautistas de 12 países.
 quickAnswer: El Festival Internacional de Flauta de Vietnam (VIFF) 2026 se celebra del 23 al 28 de julio de 2026 en Phu Quoc, y reúne a más de 40 flautistas de 12 países —incluida la ganadora de un Grammy Erin Bouriakov— para el primer festival y concurso internacional de flauta de la isla. Al tratarse de un evento recién anunciado, conviene confirmar el lugar exacto, el programa diario y la venta de entradas a través de los canales oficiales de VIFF antes de reservar vuelos u hoteles. Aprovecha para combinar el festival con unos días de playa en Phu Quoc, ya que la isla en sí es el principal centro logístico para el alojamiento y el transporte.

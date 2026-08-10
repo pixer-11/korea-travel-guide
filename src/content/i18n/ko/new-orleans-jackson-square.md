@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: new-orleans-jackson-square
-srcHash: 'a66c422b6114'
+srcHash: '801c9beb3ec5'
 title: '잭슨 스퀘어: 뉴올리언스 여행 가이드'
 description: 잭슨 스퀘어(Jackson Square)는 프렌치 쿼터(French Quarter)의 역사적 중심지로, 1721년에 조성된 울타리 친 공원이며 세인트루이스 대성당(St. Louis Cathedral)이 감싸고 있습니다.
 quickAnswer: 잭슨 스퀘어(Jackson Square)는 프렌치 쿼터(French Quarter)의 역사적 중심지로, 1721년에 조성된 울타리 친 공원이며 세인트루이스 대성당(St. Louis Cathedral), 카빌도(Cabildo), 폰탈바 빌딩(Pontalba Buildings)이 주변을 둘러싸고 있습니다. 문이 열려 있는 시간(대략 이른 아침부터 해질녘까지)에는 언제든 무료로 걸어서 둘러볼 수 있으며, 하루 중 거의 대부분 실제로 붐비는 편이니 인파 없이 보고 싶다면 해 뜬 직후 첫 한 시간을 노리는 것이 좋습니다. 광장 자체를 둘러보는 데는 45분에서 1시간 정도를 잡으면 되고, 초상화 화가나 타로 점술가와 시간을 보낸다면 더 여유 있게 잡으세요.

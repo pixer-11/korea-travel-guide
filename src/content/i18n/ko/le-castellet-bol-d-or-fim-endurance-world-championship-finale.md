@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: le-castellet-bol-d-or-fim-endurance-world-championship-finale
-srcHash: '372478931545'
+srcHash: 'd1c48b2d9943'
 title: '보 도르(FIM 엔듀런스 세계 선수권 결승전): 알아야 할 모든 것 (르 카스텔레)'
 description: 프랑스 르 카스텔레(Le Castellet)에서 열리는 보 도르(FIM 엔듀런스 세계 선수권 결승전) — 2026년 9월 17일~20일. 대회의 성격, 일정과 장소, 그리고 방문 계획을 세우는 방법을 소개합니다.
 quickAnswer: '보 도르(Bol d''Or)는 FIM 엔듀런스 세계 선수권 시즌의 대미를 장식하는 24시간 내구 레이스로, 2026년 9월 17일부터 20일까지 프로방스(Provence) 르 카스텔레(Le Castellet) 인근의 폴 리카르 서킷(Circuit Paul Ricard)에서 열릴 예정입니다. 긴 주말 일정을 잡는 것이 좋습니다: 목요일과 금요일에 연습주행과 예선이 진행되고, 이후 레이스는 토요일 오후부터 밤새 이어져 일요일까지 계속됩니다. 일정이 바뀔 수 있으니 예약 전 정확한 시간, 게이트 운영 시간, 티켓 등급은 공식 보 도르/FIM EWC 채널에서 확인하세요.'

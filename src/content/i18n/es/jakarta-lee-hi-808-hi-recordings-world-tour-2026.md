@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-lee-hi-808-hi-recordings-world-tour-2026
-srcHash: '35b69fb830a3'
+srcHash: '082a76904b29'
 title: 'Lee Hi – Gira mundial 808 HI Recordings 2026: lo que debes saber (Yakarta)'
 description: Lee Hi – Gira mundial "808 HI Recordings" 2026 en Yakarta, Indonesia — 9 de agosto de 2026. Qué es, cuándo y dónde es, y cómo organizarte alrededor del evento.
 quickAnswer: Lee Hi trae su gira mundial "808 HI Recordings" a Yakarta por primera vez el 9 de agosto de 2026, actuando en Bengkel Hall, en SCBD, Yakarta Sur, con el rapero invitado especial DOK2. Las entradas, los horarios exactos del show y los detalles de acceso se anunciarán a través del promotor oficial y los canales sociales verificados de Lee Hi o del recinto — confirma esa información antes de reservar vuelos o hacer otros planes, ya que las fechas y los line-ups de las giras de K-pop/K-hip-hop pueden cambiar.

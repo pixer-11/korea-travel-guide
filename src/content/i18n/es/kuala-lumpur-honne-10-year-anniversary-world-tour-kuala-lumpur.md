@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur
-srcHash: 'ca27bb6682ca'
+srcHash: '08fa387c83c1'
 title: 'Gira Mundial del 10º Aniversario de HONNE – Kuala Lumpur: lo que debes saber (Kuala Lumpur)'
 description: Gira Mundial del 10º Aniversario de HONNE – Kuala Lumpur, en Kuala Lumpur, Malasia, del 7 al 8 de agosto de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
 quickAnswer: HONNE trae su Gira Mundial del 10º Aniversario a REXKL, en el centro de Kuala Lumpur, durante dos noches, del 7 al 8 de agosto de 2026, interpretando temas de su nuevo álbum "HONNE – 10" junto a una década de favoritos de sus fans. Toma las fechas, el recinto y los detalles de las entradas aquí como punto de partida, y confirma todo —horarios exactos de apertura de puertas, entradas restantes y cualquier cambio de última hora en el recinto— en los canales oficiales de HONNE y en la propia página del evento de REXKL antes de planear tu viaje en torno a este concierto.

@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: davao-people-s-park
-srcHash: 'a68bce86ee27'
+srcHash: 'e71ae0bb71ff'
 title: '피플스 파크(People''s Park): 다바오 여행 가이드'
 description: 피플스 파크는 다바오 시(Davao City) 도심 포블라시온 지구(Poblacion District), J. Palma Gil St에 자리한 4.39헥타르 규모의 녹지 공간입니다.
 quickAnswer: 피플스 파크는 다바오 시(Davao City) 도심 포블라시온 지구(Poblacion District), J. Palma Gil St에 위치한 4.39헥타르 규모의 녹지 공간으로, 오후의 더위와 최대 인파를 모두 피하려면 개장 직후인 오후 1시나 저녁 6시 이후 방문이 가장 좋습니다. 입장은 무료이며 대부분의 도심 호텔에서 걸어갈 수 있는 거리이고, 조각상들과 토종 식물 컬렉션, 분수 구역을 둘러보는 데는 45분에서 1시간 정도가 적당합니다. 가능하다면 평일에 가는 것을 추천합니다 — 주말에는 가족 단위 방문객들로 붐빕니다.
