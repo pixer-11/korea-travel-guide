@@ -12,9 +12,9 @@ Priority: 63 itinerary stop(s) queued first
   – seoul-london-bagel-museum.md: nothing new
   – seoul-myeongdong-shopping-street.md: nothing new
   – tokyo-fish-market-tsukiji-outer-market.md: nothing new
-  – tokyo-fuglen-tokyo.md: nothing new
   – tokyo-meiji-jingu.md: nothing new
   – tokyo-senso-ji.md: nothing new
+  – tokyo-shibuya-crossing.md: nothing new
   – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
   – tokyo-tokyo-ramen-street.md: nothing new
   – agra-agra-fort.md: nothing new
@@ -23,7 +23,7 @@ Priority: 63 itinerary stop(s) queued first
   – amalfi-coast-positano.md: nothing new
   – amalfi-coast-valle-delle-ferriere.md: nothing new
   – ankara-ankara-castle.md: nothing new
-  🚫 antalya-duden-waterfalls.md: CLOSED_PERMANENTLY — quarantined (draft), not backfilled
+  – antalya-duden-waterfalls.md: nothing new
   – antalya-hadrian-s-gate.md: nothing new
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 62, no-new-data 24, no-place 6, closed-quarantined 1, quota-429 0, api-error 0, processed 25 of 843 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 62, no-new-data 25, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 860 (APPLIED).
