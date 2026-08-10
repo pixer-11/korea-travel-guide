@@ -1,37 +1,37 @@
 ---
-title: "Incheon Grand Park: Travel Guide (4.5★)"
-description: "Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free zoo, a botanical garden, ponds and wide lawns — worth two to four hours. 4.5★ (6,750 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Incheon"
-category: "attraction"
-pubDate: "2026-08-10T09:03:32.618Z"
+title: 'Incheon Grand Park: Travel Guide (4.5★)'
+description: Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free zoo, a botanical garden, ponds and wide lawns — worth two to four hours. 4.5★ (6,750 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Incheon
+category: attraction
+pubDate: '2026-08-10T09:03:32.618Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG"
-  credit: "Photo: 메이 / Wikimedia Commons (CC BY-SA 1.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG
+  credit: 'Photo: 메이 / Wikimedia Commons (CC BY-SA 1.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG
 gallery: []
 place:
-  id: "ChIJD3vd1Jh8ezURbh0AuKzX0Ig"
-  name: "Incheon Grand Park"
-  address: "236 Munemi-ro, Namdong-gu, Incheon, South Korea"
+  id: ChIJD3vd1Jh8ezURbh0AuKzX0Ig
+  name: Incheon Grand Park
+  address: 236 Munemi-ro, Namdong-gu, Incheon, South Korea
   rating: 4.5
   userRatingsTotal: 6750
-  googleMapsUrl: "https://maps.google.com/?cid=9858616721135377774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9858616721135377774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.459244
   lng: 126.75221970000001
-  phone: "+82 32-465-1525"
+  phone: +82 32-465-1525
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -51,24 +51,24 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_674930587a4b754130686252557a6538684a31647633444a496843"
+    venueId: ven_674930587a4b754130686252557a6538684a31647633444a496843
 tags:
-  - "incheon"
-  - "park"
-quickAnswer: "Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free zoo, a botanical garden, ponds and wide lawns — worth two to four hours. It's open daily 6am–10pm and gets busy on weekends between 9am and 7pm, so aim for a weekday morning or a weekend evening after 9pm for the calmest walk."
+  - incheon
+  - park
+quickAnswer: Incheon Grand Park is a big, hilly city park in Namdong-gu combining a free zoo, a botanical garden, ponds and wide lawns — worth two to four hours. It's open daily 6am–10pm and gets busy on weekends between 9am and 7pm, so aim for a weekday morning or a weekend evening after 9pm for the calmest walk.
 faq:
-  - q: "How much does it cost to enter Incheon Grand Park and its zoo?"
-    a: "The park itself is free, and the on-site zoo is also free to enter, which is unusual for a zoo of this size. Confirm current details before visiting since policies can change."
-  - q: "What's the best time of day to avoid crowds?"
-    a: "Weekdays from 7am onward are consistently quiet. On weekends, the calmest window is after 9pm; busiest is 9am–7pm on Saturdays and Sundays."
-  - q: "How do I get to Incheon Grand Park without a car?"
-    a: "Take Incheon Subway Line 1 to Incheon Grand Park Station, which exits close to the main entrance. Taxis are also affordable from nearby Incheon neighborhoods."
-  - q: "How long should I plan to spend there?"
-    a: "Two hours covers a solid loop of the zoo and botanical garden. Half a day lets you add the hillside hiking trails and a full walk around the lake."
-  - q: "Is it worth visiting outside spring and autumn?"
-    a: "Yes, though spring blossoms and autumn foliage are the visual highlights. Summer is hot with limited shade, so mornings are best in July and August."
+  - q: How much does it cost to enter Incheon Grand Park and its zoo?
+    a: The park itself is free, and the on-site zoo is also free to enter, which is unusual for a zoo of this size. Confirm current details before visiting since policies can change.
+  - q: What's the best time of day to avoid crowds?
+    a: Weekdays from 7am onward are consistently quiet. On weekends, the calmest window is after 9pm; busiest is 9am–7pm on Saturdays and Sundays.
+  - q: How do I get to Incheon Grand Park without a car?
+    a: Take Incheon Subway Line 1 to Incheon Grand Park Station, which exits close to the main entrance. Taxis are also affordable from nearby Incheon neighborhoods.
+  - q: How long should I plan to spend there?
+    a: Two hours covers a solid loop of the zoo and botanical garden. Half a day lets you add the hillside hiking trails and a full walk around the lake.
+  - q: Is it worth visiting outside spring and autumn?
+    a: Yes, though spring blossoms and autumn foliage are the visual highlights. Summer is hot with limited shade, so mornings are best in July and August.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -693,83 +693,126 @@
   "taipei-taipei-fringe-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg/3840px-Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg": 3840,
   "taitung-taiwan-international-balloon-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2014-08-10_Taiwan_International_Balloon_Festival_01.jpg/3840px-2014-08-10_Taiwan_International_Balloon_Festival_01.jpg": 3840,
   "tokyo-comic-market-108-summer-comiket\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg/3840px-Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg": 3840,
-  "taipei-huiyyou-waffle\u0001https://fastly.4sqi.net/img/general/original/851452_8YNGsmlOfE5kJODZGnQNW-cavIWeXDC0Tr-ikfulKws.jpg": 1440
+  "taipei-huiyyou-waffle\u0001https://fastly.4sqi.net/img/general/original/851452_8YNGsmlOfE5kJODZGnQNW-cavIWeXDC0Tr-ikfulKws.jpg": 1440,
+  "barcelona-christopher-columbus-monument\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/Barcelona_Christopher_Columbus_Monument_22.jpg": 3338,
+  "barcelona-ciutadella-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Ciutadella_Park_fountain.jpg": 3365,
+  "barcelona-museu-d-art-contemporani-de-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg": 3797,
+  "barcelona-placa-nova\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/Pla%C3%A7a_Nova.jpg": 3391,
+  "bursa-tophane-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg": 1920,
+  "barcelona-the-grill-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/f/fd/Bar_restaurant_Grill_Room_%28Barcelona%29.JPG": 3648,
+  "baguio-tam-awan-village\u0001https://upload.wikimedia.org/wikipedia/commons/c/ca/Tam-awan_Village_%28Baguio_City%29.jpg": 522,
+  "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Valarie_Allman_at_2025_World_Athletics_Championships.jpg": 160,
+  "busan-oryukdo-skywalk\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Oryukdo_Skywalk.jpg": 3264,
+  "damyang-dodamsambong-peaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg": 3840,
+  "cameron-highlands-cactus-valley\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg": 3648,
+  "daegu-trendy-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg": 3072,
+  "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg": 3840,
+  "gangneung-gangmun-sotdae-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gangmun_Sotdae_Bridge_2.jpg/3840px-Gangmun_Sotdae_Bridge_2.jpg": 3840,
+  "chiba-tokyo-and-osaka-summer-sonic-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Marine_Stage_at_Summer_Sonic_Festival.jpg": 2752,
+  "el-nido-taraw-cliff\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Taraw_Cliff%2C_El_Nido.jpg": 1024,
+  "george-town-george-town-festival-2026-beyond-boundaries\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Georgetown%2C_George_Town%2C_Penang%2C_Malaysia_-_panoramio_%286%29.jpg": 3200,
+  "east-rutherford-bruno-mars-the-romantic-tour\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg": 2390,
+  "gyeongju-seongdong-market\u0001https://upload.wikimedia.org/wikipedia/commons/0/0b/Korea-Gyeongju-Seongdong_Market-Fruit_shop-01.jpg": 1024,
+  "incheon-eurwangni-beach\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg": 3072,
+  "incheon-incheon-grand-park\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG": 420,
+  "jeonju-gyeonggijeon-shrine\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Gyeonggijeon_Shrine_05.jpg": 3248,
+  "kuching-kubah-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kubah_waterafall_at_morning.jpg/1920px-Kubah_waterafall_at_morning.jpg": 1920,
+  "kolkata-howrah-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg": 1400,
+  "istanbul-ateez-in-your-fantasy-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg": 1871,
+  "lyon-boulangerie-du-palais\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg/3840px-Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg": 3840,
+  "lyon-lyon-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG": 1920,
+  "kuala-lumpur-post-malone-live-in-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/Post_Malone_July_2021.jpg": 2541,
+  "lyon-marche-saint-antoine\u0001https://upload.wikimedia.org/wikipedia/commons/e/ef/Lyon_March%C3%A9_Saint-Antoine_%2832785663016%29.jpg": 1950,
+  "lyon-quais-de-saone-a-lyon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg/3840px-Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg": 3840,
+  "lyon-temple-du-change\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Temple_Change_Lyon_7.jpg/1920px-Temple_Change_Lyon_7.jpg": 1920,
+  "los-angeles-los-angeles-county-arboretum-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg": 2576,
+  "los-angeles-grand-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_central_market.jpg": 500,
+  "nagoya-noritake-garden\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg": 1500,
+  "milan-tyler-the-creator-concert\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Tyler_The_Creator_Toronto_2025.jpg": 3648,
+  "makati-city-john-legend-an-evening-of-songs-stories\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/John_Legend_by_Sachyn_Mital.jpg": 534,
+  "nara-yoshikien-garden\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg": 3840,
+  "lyon-museum-of-fine-arts-of-lyon\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/MBA_Lyon_facade_jour.jpg": 1500,
+  "new-orleans-cochon-butcher\u0001https://upload.wikimedia.org/wikipedia/commons/4/4a/Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg": 3264,
+  "new-delhi-bwf-world-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg": 334,
+  "new-orleans-oak-alley-plantation\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg": 1280,
+  "new-orleans-octavia-books\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/Moira_Crone_at_Octavia_Books_June_2012.jpg": 2796,
+  "new-orleans-the-national-wwii-museum\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/National_WWII_Museum_corner%2C_New_Orleans_May_2017.jpg": 2560,
+  "new-york-strand-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Strand_Bookstore.jpg": 2304,
+  "nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/8e_%C3%A9tape_Tour_de_France_Femmes_2025_-_D%C3%A9but_Madeleine_-_%C3%89chapp%C3%A9e_1.JPG": 1860,
+  "nice-parc-ph-nix\u0001https://upload.wikimedia.org/wikipedia/commons/c/c6/Parc_Phoenix_serre_Nice.jpg": 1587,
+  "sun-moon-lake-year-of-steps-at-wenwu-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg": 3840,
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png": 727,
+  "saint-cloud-paris-region-rock-en-seine-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Rock_en_Seine_Sc%C3%A8ne_de_la_cascade.jpg": 3456,
+  "new-york-city-harry-styles-residency-madison-square-garden\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg": 1200
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "agra-itmad-ud-daula": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "chinatown-chinatown-complex": {
    "width": 958,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "dubai-barrafina": {
    "width": 956,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
-   "flaggedAt": "2026-08-03",
-   "lastResult": "no-wider"
-  },
-  "nara-sahha-halal-restaurant": {
-   "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-10",
+   "attempts": 2,
+   "nextTry": "2026-08-17",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -842,7 +885,14 @@
    "nextTry": "2026-08-16",
    "flaggedAt": "2026-08-09",
    "lastResult": "no-wider"
+  },
+  "el-nido-taraw-cliff": {
+   "width": 1024,
+   "attempts": 1,
+   "nextTry": "2026-08-17",
+   "flaggedAt": "2026-08-10",
+   "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-09T20:50:06.897Z"
+ "updated": "2026-08-10T21:17:25.882Z"
 }

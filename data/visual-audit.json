@@ -296,8 +296,8 @@
   "cappadocia-pigeon-valley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg": {
     "slug": "cappadocia-pigeon-valley",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Cappadocia landscape with balloons, plausible Pigeon Valley area view",
-    "at": "2026-08-09T20:07:38.493Z"
+    "reason": "patrol re-check: Cappadocia landscape with hot air balloons, correct locale",
+    "at": "2026-08-10T20:20:04.907Z"
   },
   "chengdu-chengdu-research-base-of-giant-panda-breeding\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chengdu_Sichuan_China_Panda-breeding-and-research-center-02.jpg/1920px-Chengdu_Sichuan_China_Panda-breeding-and-research-center-02.jpg": {
     "slug": "chengdu-chengdu-research-base-of-giant-panda-breeding",
@@ -1897,8 +1897,8 @@
   "beijing-prince-gong-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gongwangfu1.jpg/1920px-Gongwangfu1.jpg": {
     "slug": "beijing-prince-gong-mansion",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Chinese pavilion with lake, plausible for Prince Gong Mansion",
-    "at": "2026-08-09T20:05:03.673Z"
+    "reason": "patrol re-check: Chinese pavilion by water, plausible garden view of mansion",
+    "at": "2026-08-10T20:16:39.211Z"
   },
   "beijing-summer-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1920px-Longevity_Hill_of_the_Summer_Palace.jpg": {
     "slug": "beijing-summer-palace",
@@ -2067,8 +2067,8 @@
   "hualien-hualien-railway-culture-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg/1920px-Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg": {
     "slug": "hualien-hualien-railway-culture-park",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Shows steam train and railway track, consistent with park",
-    "at": "2026-08-09T20:16:42.570Z"
+    "reason": "patrol re-check: Steam locomotive and railway track match Hualien Railway Culture Park",
+    "at": "2026-08-10T20:32:07.053Z"
   },
   "hyderabad-chowmahalla-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg": {
     "slug": "hyderabad-chowmahalla-palace",
@@ -2912,8 +2912,8 @@
   "gangneung-gyeongpo-beach\u0001https://fastly.4sqi.net/img/general/original/6248688_fdLF7_zMEZiKg2o2MADQwhgv8ofuT3WW9syBJIosKoI.jpg": {
     "slug": "gangneung-gyeongpo-beach",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Beach scene with sign, waves, and visitors visible",
-    "at": "2026-08-09T20:12:10.333Z"
+    "reason": "patrol re-check: Beach view with sign, sand, ocean visible - representative shot",
+    "at": "2026-08-10T20:26:43.317Z"
   },
   "gangneung-gyeongpo-lake\u0001https://fastly.4sqi.net/img/general/original/536782698_Bo59l4JT-qlka_goGuZaxCFcy7oqqZhkEvfWyDyApDY.jpg": {
     "slug": "gangneung-gyeongpo-lake",
@@ -3190,8 +3190,8 @@
   "istanbul-turk-fatih-tutak\u0001https://fastly.4sqi.net/img/general/original/6805087_2loaBh92qzThBVnOM3Lwp49Qw3IWy_dHstFdjO5Y9Vs.jpg": {
     "slug": "istanbul-turk-fatih-tutak",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Interior dry-aging meat cabinet, plausible restaurant kitchen scene",
-    "at": "2026-08-09T20:19:25.458Z"
+    "reason": "patrol re-check: Interior meat-aging fridge, plausible authentic restaurant kitchen scene",
+    "at": "2026-08-10T20:34:38.067Z"
   },
   "izmir-agora-of-smyrna\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Izmir_Agora.JPG/1920px-Izmir_Agora.JPG": {
     "slug": "izmir-agora-of-smyrna",
@@ -3574,8 +3574,8 @@
   "makati-kariton-x-sabi-sounds\u0001https://fastly.4sqi.net/img/general/original/54083569_FFg2tJdCVHEDLynQGEi16OuqkMndkmi-fOBfg0HEPis.jpg": {
     "slug": "makati-kariton-x-sabi-sounds",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Interior shot of ice cream shop, plausible venue scene",
-    "at": "2026-08-09T20:27:04.302Z"
+    "reason": "patrol re-check: Ice cream shop interior with scooping, plausible venue scene",
+    "at": "2026-08-10T20:45:23.544Z"
   },
   "makati-kowloon-station\u0001https://fastly.4sqi.net/img/general/original/8807240_LfGUgcw6G2N5fxO7VdVYOYq_Uh6qjf_ldQRS4uNLZ1U.jpg": {
     "slug": "makati-kowloon-station",
@@ -3791,8 +3791,8 @@
   "new-orleans-mardi-gras-world\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg": {
     "slug": "new-orleans-mardi-gras-world",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Mardi Gras parade float, representative of Mardi Gras World",
-    "at": "2026-08-09T20:30:43.864Z"
+    "reason": "patrol re-check: Mardi Gras parade float with leprechaun, matches venue theme",
+    "at": "2026-08-10T20:50:46.103Z"
   },
   "new-orleans-mother-s-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg": {
     "slug": "new-orleans-mother-s-restaurant",
@@ -4042,8 +4042,8 @@
   "penang-chew-jetty\u0001https://fastly.4sqi.net/img/general/original/10800689_auOea5n6XvDklLDlvHH6WkKqEN9rUZZVf5CzA-KVebM.jpg": {
     "slug": "penang-chew-jetty",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Waterfront stilt houses and boats consistent with Chew Jetty",
-    "at": "2026-08-09T20:35:08.565Z"
+    "reason": "patrol re-check: Stilt house over water with boats, matches Chew Jetty",
+    "at": "2026-08-10T20:56:01.874Z"
   },
   "penang-root-house-by-gen\u0001https://fastly.4sqi.net/img/general/original/5813125__zh1cKoiIYithsD4gZs6z9VO130H6boY02giDa8_VFc.jpg": {
     "slug": "penang-root-house-by-gen",
@@ -4265,8 +4265,8 @@
   "seattle-the-pink-door\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg": {
     "slug": "seattle-the-pink-door",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Shows pink door exterior with lanterns, plausible restaurant entrance",
-    "at": "2026-08-09T20:38:42.969Z"
+    "reason": "patrol re-check: Exterior with pink door and windows matches venue name",
+    "at": "2026-08-10T21:00:43.339Z"
   },
   "sentosa-fiamma\u0001https://fastly.4sqi.net/img/general/original/40583305_Xp_0QY4QADnzs16ukh3bOT6KFDt2Mo0y-I3t-Yv4ZeU.jpg": {
     "slug": "sentosa-fiamma",
@@ -4355,8 +4355,8 @@
   "seoul-myeongdong-shopping-street\u0001https://fastly.4sqi.net/img/general/original/25113286_pBJtYQJR9dYqgpaA1rKspQgRRTuwZdN3GeD3n3ZYEt0.jpg": {
     "slug": "seoul-myeongdong-shopping-street",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Street food stall, consistent with Myeongdong shopping street scene",
-    "at": "2026-08-09T20:40:21.291Z"
+    "reason": "patrol re-check: Street food stall, plausible Myeongdong shopping street scene",
+    "at": "2026-08-10T21:02:26.314Z"
   },
   "seoul-plant-cafe-seoul-yeonnam\u0001https://fastly.4sqi.net/img/general/original/1780186_eIf8PL6IGedrmVIrOq7seUtL5pmjTCyy5SXPIT9VOIc.jpg": {
     "slug": "seoul-plant-cafe-seoul-yeonnam",
@@ -4942,8 +4942,8 @@
   "incheon-wolmi-theme-park\u0001https://fastly.4sqi.net/img/general/original/29025250_E1gmsva8dhudPTTcj_v6icgQ5w1UqWQafIytgP7oMe0.jpg": {
     "slug": "incheon-wolmi-theme-park",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Statue/monument with cityscape plausibly at Wolmi Theme Park, Incheon",
-    "at": "2026-08-09T20:17:49.425Z"
+    "reason": "patrol re-check: Monument sculpture with coastal skyline, plausible Wolmi Park scene",
+    "at": "2026-08-10T20:32:58.864Z"
   },
   "istanbul-sankai-by-nagaya\u0001https://fastly.4sqi.net/img/general/original/1401319416_awCbXQf3AdUQiVImFmGOnQN_qV7X1gCPwB8ISk5APS0.jpg": {
     "slug": "istanbul-sankai-by-nagaya",
@@ -5179,8 +5179,8 @@
   "chicago-360-chicago\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg/1920px-Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg": {
     "slug": "chicago-360-chicago",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Observation deck viewpoint over Chicago cityscape, valid hero shot",
-    "at": "2026-08-09T20:09:11.895Z"
+    "reason": "patrol re-check: Person at observation deck with city skyline view, consistent",
+    "at": "2026-08-10T20:21:54.577Z"
   },
   "chicago-billy-goat-tavern-the-original\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg/1920px-Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg": {
     "slug": "chicago-billy-goat-tavern-the-original",
@@ -5255,8 +5255,8 @@
   "bangkok-the-grand-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg/1920px-A_roof_of_a_building_at_the_Grand_Palace%2C_Bangkok%2C_sunrise%2C_2017.jpg": {
     "slug": "bangkok-the-grand-palace",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Thai temple roofline at sunset, consistent with Grand Palace",
-    "at": "2026-08-09T20:03:38.533Z"
+    "reason": "patrol re-check: Thai temple roofline silhouette at sunset, consistent with venue",
+    "at": "2026-08-10T20:14:55.937Z"
   },
   "new-york-ralph-s-coffee\u0001https://fastly.4sqi.net/img/general/original/501162434_Jw06tpaWqkzMKAGNQdsWWdsjrAMxcQHRS48z9ZnnJxA.jpg": {
     "slug": "new-york-ralph-s-coffee",
@@ -5775,8 +5775,8 @@
   "florence-galleria-dell-accademia-di-firenze\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg": {
     "slug": "florence-galleria-dell-accademia-di-firenze",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Shows plaster bust collection typical of Accademia gallery displays",
-    "at": "2026-08-09T20:11:25.631Z"
+    "reason": "patrol re-check: Shows plaster busts collection, plausible museum display at Accademia",
+    "at": "2026-08-10T20:25:44.258Z"
   },
   "granada-mirador-de-san-nicolas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/1920px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg": {
     "slug": "granada-mirador-de-san-nicolas",
@@ -6297,7 +6297,7 @@
     "slug": "tongyeong-tongyeong-cablecar-skywalk",
     "verdict": "MATCH",
     "reason": "patrol re-check: Cable car gondolas over forested mountain, matches attraction",
-    "at": "2026-08-09T20:47:21.236Z"
+    "at": "2026-08-10T21:11:36.171Z"
   },
   "pattaya-the-sanctuary-of-truth-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sanctuary_of_Truth_20240916-1.jpg/1920px-Sanctuary_of_Truth_20240916-1.jpg": {
     "slug": "pattaya-the-sanctuary-of-truth-museum",
@@ -6505,14 +6505,14 @@
   "san-francisco-tartine-bakery\u0001https://fastly.4sqi.net/img/general/original/553514599_3sQgxFOcs6UL4_YKQvvg5zdF5Y32Ax4UgpXJAL3liQA.jpg": {
     "slug": "san-francisco-tartine-bakery",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Interior bakery display case showing actual cakes and pastries in venue",
-    "at": "2026-08-09T20:37:50.814Z"
+    "reason": "patrol re-check: Real bakery display case with cakes, representative interior shot",
+    "at": "2026-08-10T20:59:35.490Z"
   },
   "seattle-biang-biang-noodles\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Biang_Biang_Mian.jpg/1920px-Biang_Biang_Mian.jpg": {
     "slug": "seattle-biang-biang-noodles",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Genuine dish photo of Biang Biang noodles, plausible venue shot",
-    "at": "2026-08-09T20:38:30.108Z"
+    "reason": "patrol re-check: Close-up dish of biang biang noodles, plausible restaurant serving",
+    "at": "2026-08-10T21:00:23.826Z"
   },
   "seoul-mil-toast\u0001https://fastly.4sqi.net/img/general/original/51074758_Ve3oUi_L__tTbtFik2S3xSomnsLs9VC7d-gx_TUlvMk.jpg": {
     "slug": "seoul-mil-toast",
@@ -6870,14 +6870,14 @@
   "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": {
     "slug": "chinatown-my-awesome-cafe",
     "verdict": "MATCH",
-    "reason": "patrol re-check: In-venue drink photo, plausible cafe interior setting",
-    "at": "2026-08-09T20:09:36.898Z"
+    "reason": "patrol re-check: In-venue drink shot on table, plausible cafe hero photo",
+    "at": "2026-08-10T20:22:24.483Z"
   },
   "clarke-quay-malayan-settlement\u0001https://fastly.4sqi.net/img/general/original/3275092_GpW_TTLMW5LzAWU5CLqVR_lnuRzFRna6JUS_D46S3hc.jpg": {
     "slug": "clarke-quay-malayan-settlement",
     "verdict": "MATCH",
-    "reason": "patrol re-check: Genuine plated dish photo, plausible restaurant hero image",
-    "at": "2026-08-09T20:09:58.113Z"
+    "reason": "patrol re-check: Genuine plated dish photo, plausible restaurant food shot",
+    "at": "2026-08-10T20:22:50.832Z"
   },
   "guangzhou-huacheng-square\u0001https://fastly.4sqi.net/img/general/original/8615217_xUa20zEDx2ezxr1fpHXpdTjyYuGBOkCYaHdompneGZ8.jpg": {
     "slug": "guangzhou-huacheng-square",
@@ -6974,10 +6974,10 @@
   },
   "los-angeles-grand-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_central_market.jpg": {
     "slug": "los-angeles-grand-central-market",
-    "verdict": "MATCH",
-    "reason": "Indoor market with vendors, produce, crowds, neon signs",
-    "reasonKo": "실내 시장, 상인, 신선 농산물, 붐비는 인파",
-    "at": "2026-08-08T13:29:43.809Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 500px wide — unusable as a banner",
+    "reasonKo": "사진이 500px로 너무 작음",
+    "at": "2026-08-10T21:14:13.335Z"
   },
   "nara-yoshikien-garden\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg": {
     "slug": "nara-yoshikien-garden",
@@ -7107,9 +7107,10 @@
   },
   "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Valarie_Allman_at_2025_World_Athletics_Championships.jpg": {
     "slug": "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Athlete with medal at athletics event venue",
-    "at": "2026-08-09T04:08:26.140Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 160px wide — unusable as a banner",
+    "reasonKo": "사진이 160px로 너무 작음",
+    "at": "2026-08-10T21:14:13.333Z"
   },
   "bocaue-post-malone-live-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg": {
     "slug": "bocaue-post-malone-live-in-manila",
@@ -7143,9 +7144,10 @@
   },
   "makati-city-john-legend-an-evening-of-songs-stories\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/John_Legend_by_Sachyn_Mital.jpg": {
     "slug": "makati-city-john-legend-an-evening-of-songs-stories",
-    "verdict": "MATCH",
-    "reason": "patrol replace: John Legend performing at concert event",
-    "at": "2026-08-09T04:24:27.835Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 534px wide — unusable as a banner",
+    "reasonKo": "사진이 534px로 너무 작음",
+    "at": "2026-08-10T21:14:13.336Z"
   },
   "naples-city-view\u0001https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg": {
     "slug": "naples-city-view",
@@ -7155,9 +7157,10 @@
   },
   "new-delhi-bwf-world-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg": {
     "slug": "new-delhi-bwf-world-championships-2026",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Badminton player at championship event",
-    "at": "2026-08-09T04:27:01.807Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 334px wide — unusable as a banner",
+    "reasonKo": "사진이 334px로 너무 작음",
+    "at": "2026-08-10T21:14:13.338Z"
   },
   "new-york-city-harry-styles-residency-madison-square-garden\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg": {
     "slug": "new-york-city-harry-styles-residency-madison-square-garden",
@@ -7388,10 +7391,10 @@
   },
   "baguio-tam-awan-village\u0001https://upload.wikimedia.org/wikipedia/commons/c/ca/Tam-awan_Village_%28Baguio_City%29.jpg": {
     "slug": "baguio-tam-awan-village",
-    "verdict": "MATCH",
-    "reason": "Historic village structure with traditional architecture, Ba",
-    "reasonKo": "바기오의 전통 마을 구조, 역사적 건축",
-    "at": "2026-08-10T14:01:31.396Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 522px wide — unusable as a banner",
+    "reasonKo": "사진이 522px로 너무 작음",
+    "at": "2026-08-10T21:14:13.329Z"
   },
   "bursa-tophane-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg": {
     "slug": "bursa-tophane-clock-tower",
@@ -7451,10 +7454,10 @@
   },
   "incheon-incheon-grand-park\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG": {
     "slug": "incheon-incheon-grand-park",
-    "verdict": "MATCH",
-    "reason": "Incheon Grand Park entrance building, distinctive architectu",
-    "reasonKo": "인천대공원 입구, 특징적 건축물",
-    "at": "2026-08-10T14:01:54.789Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 420px wide — unusable as a banner",
+    "reasonKo": "사진이 420px로 너무 작음",
+    "at": "2026-08-10T21:14:13.334Z"
   },
   "kolkata-howrah-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg": {
     "slug": "kolkata-howrah-bridge",
@@ -7511,5 +7514,23 @@
     "reason": "Long staircase with ornate railings, forest setting, Taiwan ",
     "reasonKo": "긴 계단, 장식 난간, 숲, 대만 사찰",
     "at": "2026-08-10T14:02:14.673Z"
+  },
+  "nara-sahha-halal-restaurant\u0001https://fastly.4sqi.net/img/general/original/565726512_gwYOOntiW1U_P-maZsb3sKzvE8mb6ifu0WOpmX189bw.jpg": {
+    "slug": "nara-sahha-halal-restaurant",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Traditional Japanese interior consistent with a Nara restaurant setting",
+    "at": "2026-08-10T21:16:20.371Z"
+  },
+  "gyeongju-seongdong-market\u0001https://upload.wikimedia.org/wikipedia/commons/4/4a/Seongdong_Market_%28Gyeongju%2C_South_Korea%29_003.jpg": {
+    "slug": "gyeongju-seongdong-market",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Covered indoor market street with vendors, food, Korean signage.",
+    "at": "2026-08-10T21:17:12.025Z"
+  },
+  "singapore-post-malone-big-ass-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/Post_Malone_July_2021_%28cropped%29.jpg": {
+    "slug": "singapore-post-malone-big-ass-world-tour",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Photo of Post Malone performing with guitar, matches event",
+    "at": "2026-08-10T21:17:25.878Z"
   }
 }

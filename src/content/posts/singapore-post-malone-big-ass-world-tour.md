@@ -26,10 +26,10 @@ faq:
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png
-  credit: 'Photo: Cosmopolitan UK / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Post_Malone_July_2021_%28cropped%29.jpg
+  credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Post_Malone_at_the_2019_American_Music_Awards.png
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg
 ---
 ## Why this show matters
 

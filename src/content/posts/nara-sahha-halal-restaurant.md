@@ -6,7 +6,7 @@ region: Nara
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/565726512_QAL9kEe9Zd-z_NEShq06150osDKzn5rjJd_DC32x10Q.jpg
+  url: https://fastly.4sqi.net/img/general/original/565726512_gwYOOntiW1U_P-maZsb3sKzvE8mb6ifu0WOpmX189bw.jpg
   credit: 'Photo: Foursquare user content (SAHHA)'
   license: foursquare
   source: https://foursquare.com/v/6492734a1d6e495154668c04
