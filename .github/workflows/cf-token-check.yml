@@ -1,0 +1,69 @@
+name: Cloudflare token check
+
+# Why this exists: on 2026-08-10 the deploy step started failing and the only
+# place the reason existed was the Actions log, which needs a GitHub login to
+# read — so the failure was undiagnosable from a phone or from a session with
+# no gh CLI. This asks Cloudflare who the token is and what it may do, then
+# TELEGRAMS the answer. Thirty seconds, no build.
+#
+# It runs on its own file changing (so a fix can verify itself) and on demand.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/cf-token-check.yml'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Ask Cloudflare what this token can do
+        id: whoami
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: |
+          set +e
+          {
+            echo "== secrets present? =="
+            echo "CF_API_TOKEN: $([ -n "$CLOUDFLARE_API_TOKEN" ] && echo yes || echo MISSING)"
+            echo "CF_ACCOUNT_ID: $([ -n "$CLOUDFLARE_ACCOUNT_ID" ] && echo yes || echo MISSING)"
+            echo
+            echo "== token verify =="
+            # Reports whether the token is live at all, separately from what it
+            # is allowed to touch. A revoked or mistyped token dies here.
+            curl -s -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+              -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+              -H "Content-Type: application/json" \
+              | node -e 'let d="";process.stdin.on("data",c=>d+=c).on("end",()=>{try{const j=JSON.parse(d);console.log("success:",j.success);console.log("status:",j.result&&j.result.status);(j.errors||[]).forEach(e=>console.log("error:",e.code,e.message))}catch(e){console.log("unparseable response")}})'
+            echo
+            echo "== wrangler whoami =="
+            npx --yes wrangler@4 whoami 2>&1 | tail -25
+          } > /tmp/cf.txt 2>&1
+          # Never leak the token itself if a tool ever echoes it back.
+          sed -i "s/${CLOUDFLARE_API_TOKEN:-__nope__}/***REDACTED***/g" /tmp/cf.txt || true
+          cat /tmp/cf.txt
+
+      - name: Send the answer to Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🔑 Cloudflare 토큰 점검 결과"
+            echo "(배포 권한이 있는지 보는 검사입니다)"
+            echo
+            head -c 3000 /tmp/cf.txt
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true

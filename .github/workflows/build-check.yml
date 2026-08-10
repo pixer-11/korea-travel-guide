@@ -94,7 +94,12 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-        run: npx --yes wrangler@4 deploy
+        # Keep the output: the Actions log needs a GitHub login to read, so the
+        # alert below is the only place the reason ever reaches anyone.
+        # pipefail so tee cannot mask wrangler's exit code.
+        run: |
+          set -o pipefail
+          npx --yes wrangler@4 deploy 2>&1 | tee /tmp/deploy.log
 
       # Covers the build AND the deploy: the whole point is that the site not
       # being current must never again be a silent state.
@@ -108,6 +113,12 @@ jobs:
           {
             echo "🚨 사이트 빌드/배포 실패 — 배포가 이전 버전에 멈춰 있습니다!"
             echo "커밋: ${GITHUB_SHA:0:7}"
+            if [ -s /tmp/deploy.log ]; then
+              echo
+              echo "— 배포 단계 마지막 출력 —"
+              tail -c 1200 /tmp/deploy.log
+              echo
+            fi
             echo "클로드에게 '빌드 실패 고쳐줘'라고 말하면 원인을 찾아 수정합니다."
           } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
