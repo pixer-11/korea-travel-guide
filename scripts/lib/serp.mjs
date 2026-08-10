@@ -1,3 +1,5 @@
+import { lastSentenceEnd, nextSentenceEnd, closeDanglingBracket } from '../../src/lib/sentence-boundary.mjs';
+
 // Single source of truth for SERP-snippet copy rules: the meta-description
 // sentence clip and the honest review-intent signal. Imported by BOTH
 // generate.mjs (new posts) and the backfill scripts so the rules can never
@@ -12,21 +14,24 @@
 export const clip = (s, n = 158) => {
   if (s.length <= n) return s;
   const cut = s.slice(0, n);
-  const lastPunct = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  // Abbreviation dots ("8 Pl. de l'Abbé Larue") are not sentence ends, and a
+  // boundary that strands an open bracket is not one either — see
+  // src/lib/sentence-boundary.mjs for the post that taught us that.
+  const lastPunct = lastSentenceEnd(cut, 60);
   if (lastPunct >= 60) return cut.slice(0, lastPunct + 1).trim();
   // No sentence boundary inside the limit — the writer's answer-first style
   // routinely opens with a 200-char sentence, so a slightly-long COMPLETE
   // sentence beats a 158-char stump: Google truncates display on its own, and
   // the validator's TRUNCATED-DESCRIPTION gate stays quiet.
-  const sentEnd = s.slice(n).search(/[.!?](\s|$)/);
-  if (sentEnd >= 0 && n + sentEnd < 300) return s.slice(0, n + sentEnd + 1).trim();
+  const sentEnd = nextSentenceEnd(s, n);
+  if (sentEnd >= 0 && sentEnd < 300) return s.slice(0, sentEnd + 1).trim();
   // First sentence longer than ~300 chars (rare): keep the word-trimmed
   // fragment but close it as a sentence so nothing dangles.
   const frag = cut.replace(/\s+\S*$/, '')
     .replace(/\s*\([^)]*$/, '')
     .replace(/(?:\s+(?:and|or|but|so|to|the|an?|with|for|at|on|in|from|by|of))+$/i, '')
     .replace(/[\s,;:.\-–—]+$/, '').trim();
-  return frag + '.';
+  return closeDanglingBracket(frag + '.');
 };
 
 // A rating strong enough to advertise in the snippet. Numbers come ONLY from
@@ -58,5 +63,9 @@ export function withRatingSignal(desc, place) {
   const badge = ratingBadge(place);
   if (!badge) return desc;
   if (/\breviews?\b|\bratings?\b|\brated\b|★/i.test(desc)) return desc;
-  return `${desc} ${badge} — what visitors say, hours, and tips.`;
+  // Never weld the badge onto a fragment with an open bracket — that is how
+  // "…district (8 Pl. 4.7★ (2,109 reviews) — …" reached production. The clip
+  // above no longer produces one, but a description can also arrive from an
+  // older post, and the badge must not make an existing fault unreadable.
+  return `${closeDanglingBracket(desc)} ${badge} — what visitors say, hours, and tips.`;
 }

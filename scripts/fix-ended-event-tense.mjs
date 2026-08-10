@@ -24,6 +24,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
+import { isSentenceEnd } from '../src/lib/sentence-boundary.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const DRY = process.env.DRY === '1';
@@ -36,13 +37,14 @@ const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:fu
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
 
-async function rewrite(kind, text, title, endedOn) {
+async function rewrite(kind, text, title, endedOn, residue = null) {
   const msg = await client.messages.create({
     model: MODEL,
     max_tokens: 1200,
     messages: [{
       role: 'user',
       content: `This is the ${kind} of a travel guide for "${title}", an event that ENDED on ${endedOn}. It was written before the event, so it still points readers at things that will happen.
+${residue ? `\nA previous attempt left this phrasing in place: "${residue}". That exact phrasing must not survive — rewrite or delete the sentence containing it.\n` : ''}
 
 Rewrite it so it reads correctly AFTER the event, following these rules exactly:
 - Keep every concrete fact (dates, venue, city, names, prices, numbers) exactly as written.
@@ -58,6 +60,101 @@ ${text}`,
     }],
   });
   return (msg.content.find((c) => c.type === 'text')?.text || '').trim();
+}
+
+// One bad sentence used to discard a whole good rewrite. jakarta-the-sounds-
+// project-vol-9 sat in the warning list every evening because its body kept
+// coming back with "If organizers announce a shuttle service closer to the
+// date…" — a conditional, so the model read it as a fact worth keeping — and
+// the all-or-nothing check then threw away the rest of the corrected text.
+// Same lesson fix-hours-claims learned on 2026-08-08: tell the model WHICH
+// phrase failed, and try again.
+async function rewriteUntilClean(kind, text, title, endedOn, tries = 3) {
+  let best = null, residue = null;
+  for (let i = 0; i < tries; i++) {
+    const out = await rewrite(kind, text, title, endedOn, residue);
+    if (!out) continue;
+    if (!preservesSubstance(text, out, kind)) {
+      console.log(`   ⚠️  attempt ${i + 1} came back shorter than the original — discarded`);
+      continue;
+    }
+    if (!FUTURE_PROMISE.test(out)) return out;
+    best = out;
+    residue = out.match(FUTURE_PROMISE)?.[0] ?? null;
+  }
+  // Fall back from the ORIGINAL text, not from a rejected attempt: the
+  // sentence pass edits in place, so it inherits whatever it is handed.
+  return await sentenceLevelPass(kind, text, title, endedOn);
+}
+
+// The brief is "shift the tense", not "shorten the article". On 2026-08-10 a
+// body rewrite came back with four `##` sections gone — 34 lines of getting-
+// there, what-to-expect and like-a-local detail deleted, none of it
+// forward-looking — and the old all-or-nothing check happily wrote it, because
+// all it asked was whether the FUTURE_PROMISE pattern was gone. A shrunken
+// page is a worse outcome than a stale sentence: the guides that survive on
+// this site are the ones with the practical detail still in them.
+function preservesSubstance(before, after, kind) {
+  if (after.length < before.length * 0.7) return false;
+  if (kind.startsWith('article body')) {
+    const heads = (s) => (s.match(/^#{2,6}\s+.*/gm) || []).length;
+    if (heads(after) < heads(before)) return false;
+  }
+  return true;
+}
+
+// Last resort: stop rewriting the whole field and go after the offending
+// sentences one at a time — a single sentence is a much easier ask. Anything
+// still forward-looking after that is dropped, which is what the prompt asks
+// for anyway ("if a sentence is ONLY forward-looking advice, delete it"). The
+// paragraph splitter keeps markdown structure (headings, lists) intact.
+async function sentenceLevelPass(kind, text, title, endedOn) {
+  // Posts on this checkout are CRLF, so a bare /\n{2,}/ splits nothing —
+  // "\r\n\r\n" has no two adjacent newlines in it. That is why this pass
+  // reported "nothing to edit" on a post whose body plainly had a paragraph
+  // to fix (2026-08-10).
+  const NL = /\r\n/.test(text) ? '\r\n' : '\n';
+  const paras = text.split(/(?:\r?\n){2,}/);
+  let touched = false;
+  for (let pi = 0; pi < paras.length; pi++) {
+    const para = paras[pi];
+    if (!FUTURE_PROMISE.test(para) || /^\s*(#{1,6}\s|[-*]\s|\d+\.\s|\|)/.test(para)) continue;
+    const kept = [];
+    for (const sentence of splitSentences(para)) {
+      if (!FUTURE_PROMISE.test(sentence)) { kept.push(sentence); continue; }
+      const fixed = await rewrite('single sentence', sentence.trim(), title, endedOn, sentence.match(FUTURE_PROMISE)?.[0]);
+      touched = true;
+      if (fixed && !FUTURE_PROMISE.test(fixed) && fixed.length < sentence.length * 3) kept.push(` ${fixed}`);
+      // else: dropped
+    }
+    paras[pi] = kept.join('').replace(/\s+/g, ' ').trim();
+  }
+  const out = paras.filter((p) => p.length).join(NL + NL);
+  if (!touched) { console.log('   ↳ sentence pass found nothing to edit'); return null; }
+  if (FUTURE_PROMISE.test(out)) {
+    console.log(`   ↳ sentence pass left "${out.match(FUTURE_PROMISE)?.[0]}"`);
+    return null;
+  }
+  // A sentence or two removed from a 4,000-character guide is a small loss; a
+  // rewrite that drops whole sections is not (see preservesSubstance). So this
+  // pass is held to structure, not length.
+  const heads = (s) => (s.match(/^#{2,6}\s+.*/gm) || []).length;
+  if (heads(out) < heads(text) || out.length < text.length * 0.9) {
+    console.log('   ↳ sentence pass lost too much — discarded');
+    return null;
+  }
+  console.log('   ↳ sentence-level pass cleared it');
+  return out;
+}
+
+function splitSentences(text) {
+  const out = [];
+  let start = 0;
+  for (let i = 0; i < text.length; i++) {
+    if (isSentenceEnd(text, i)) { out.push(text.slice(start, i + 1)); start = i + 1; }
+  }
+  if (start < text.length) out.push(text.slice(start));
+  return out;
 }
 
 let scanned = 0, fixed = 0;
@@ -82,22 +179,22 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   let nextBody = body;
 
   if (hits.includes('quickAnswer')) {
-    const out = await rewrite('Quick Answer', fm.quickAnswer, fm.title, end);
-    if (out && !FUTURE_PROMISE.test(out)) { nextFm.quickAnswer = out; console.log(`   quickAnswer → ${out.slice(0, 100)}…`); }
+    const out = await rewriteUntilClean('Quick Answer', fm.quickAnswer, fm.title, end);
+    if (out) { nextFm.quickAnswer = out; console.log(`   quickAnswer → ${out.slice(0, 100)}…`); }
     else console.log('   ⚠️  quickAnswer rewrite still forward-looking — left alone');
   }
   if (hits.includes('faq')) {
     nextFm.faq = [];
     for (const item of fm.faq) {
       if (!FUTURE_PROMISE.test(String(item?.a || ''))) { nextFm.faq.push(item); continue; }
-      const out = await rewrite('FAQ answer', item.a, fm.title, end);
-      nextFm.faq.push(out && !FUTURE_PROMISE.test(out) ? { ...item, a: out } : item);
+      const out = await rewriteUntilClean('FAQ answer', item.a, fm.title, end);
+      nextFm.faq.push(out ? { ...item, a: out } : item);
     }
     console.log('   faq → rewritten');
   }
   if (hits.includes('body')) {
-    const out = await rewrite('article body (markdown)', body.trim(), fm.title, end);
-    if (out && !FUTURE_PROMISE.test(out)) { nextBody = `\n${out}\n`; console.log('   body → rewritten'); }
+    const out = await rewriteUntilClean('article body (markdown)', body.trim(), fm.title, end);
+    if (out) { nextBody = `\n${out}\n`; console.log('   body → rewritten'); }
     else console.log('   ⚠️  body rewrite still forward-looking — left alone');
   }
 

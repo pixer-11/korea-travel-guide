@@ -1,6 +1,6 @@
 ---
 title: 'Hummingbird Eatery & Space: Where to Eat in Bandung'
-description: Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl.
+description: "Hummingbird Eatery & Space is a leafy, patio-filled all-day café on Jl. Progo in Bandung's Citarum area, known for a menu that spans Indonesian classics, Western mains, crepes, and fresh juices."
 country: Indonesia
 region: Bandung
 category: restaurant

@@ -27,7 +27,6 @@ faq:
 aiGenerated: true
 eventRecurring: true
 ---
-
 ## Why this fixture matters
 
 The Coupang Play Series has become Korea's marquee pre-season football event, and the 2026 edition is its biggest yet: Manchester City face a Team K League selection on August 5, then Atlético Madrid arrive for a second showcase match on August 9. Both fixtures are set for Seoul World Cup Stadium, the 66,000-capacity venue built for the 2002 FIFA World Cup.
@@ -48,7 +47,7 @@ Given the scale of a Manchester City–Atlético Madrid style double-header, exp
 
 ## Tickets, dates, and what's still unconfirmed
 
-The organizers have confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — but exact kickoff times, ticket price tiers, and seating maps are typically released closer to the event. Because this is a high-profile pre-season series featuring two of Europe's most-followed clubs, tickets for marquee sections are likely to move fast once sales open.
+The organizers confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — with exact kickoff times, ticket price tiers, and seating maps published on the official site. Because this is a high-profile pre-season series featuring two of Europe's most-followed clubs, tickets for marquee sections are likely to move fast once sales open.
 
 Always verify current dates, kickoff time, venue details, and pricing directly through Coupang Play's official event page or authorized ticket partners before booking flights or hotels — pre-season football calendars can shift due to club schedules.
 

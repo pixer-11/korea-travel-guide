@@ -1,6 +1,6 @@
 ---
 title: 'People s Park: Davao Travel Guide'
-description: People's Park is a 4.39-hectare green space in Poblacion District, right in downtown Davao City on J.
+description: "People's Park is a 4.39-hectare green space in Poblacion District, right in downtown Davao City on J. Palma Gil St, best visited right after opening at 1pm or in the evening after 6pm to dodge both the afternoon heat and the biggest crowds."
 country: Philippines
 region: Davao
 category: attraction

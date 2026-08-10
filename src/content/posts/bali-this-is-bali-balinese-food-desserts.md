@@ -1,6 +1,6 @@
 ---
 title: 'This Is Bali - Balinese Food & Desserts: Where to Eat'
-description: This Is Bali is a casual, highly-rated Indonesian restaurant on Jl.
+description: "This Is Bali is a casual, highly-rated Indonesian restaurant on Jl. Goutama in central Ubud, known for affordable Balinese classics like babi guling, nasi campur, and traditional desserts such as dadar gulung and bubur injin."
 country: Indonesia
 region: Bali
 category: restaurant

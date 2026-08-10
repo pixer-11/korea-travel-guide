@@ -394,13 +394,18 @@ jobs:
       # ended events still speaking in future tense, and CJK translations
       # showing literal asterisks. Both tools are idempotent and quiet when
       # there is nothing to fix; either dying must not block the publish.
-      - name: Auto-repair known defect classes (ended-event tense, CJK bold)
+      - name: Auto-repair known defect classes (ended-event tense, CJK bold, clipped descriptions)
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           node scripts/fix-ended-event-tense.mjs 2>&1 | tail -3 || true
           node scripts/repair-cjk-bold.mjs 2>&1 | tail -3 || true
+          # --fix-truncated-only: repair descriptions that were clipped mid-
+          # sentence and touch nothing else. Without the flag the same script
+          # also adds the review badge to every eligible post, which would
+          # dissolve the control group of the SERP badge pilot.
+          node scripts/backfill-descriptions.mjs --fix-truncated-only --apply 2>&1 | tail -2 || true
 
       - name: Commit new posts
         id: commit

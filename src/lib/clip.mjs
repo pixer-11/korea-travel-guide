@@ -15,6 +15,8 @@
  * page prints. Fix a bug in one, port it to the other.
  */
 
+import { lastSentenceEnd, nextSentenceEnd, closeDanglingBracket } from './sentence-boundary.mjs';
+
 // Han, kana, hangul. Their glyphs are full-width, so a CJK snippet reaches the
 // same pixel width in roughly half the characters, and Google truncates on
 // pixels. Counting to 158 there produces a snippet that is cut off on screen
@@ -68,19 +70,23 @@ export function clip(s, n = 158) {
   }
 
   const cut = s.slice(0, limit);
-  const lastPunct = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
-  if (lastPunct >= Math.floor(limit * MIN_SHARE)) return cut.slice(0, lastPunct + 1).trim();
+  // Ported from scripts/lib/serp.mjs (2026-08-10): an abbreviation dot in an
+  // address ("8 Pl. de l'Abbé Larue") is not a sentence end, and neither is a
+  // boundary that would leave a bracket open.
+  const floor = Math.floor(limit * MIN_SHARE);
+  const lastPunct = lastSentenceEnd(cut, floor);
+  if (lastPunct >= floor) return cut.slice(0, lastPunct + 1).trim();
   // No sentence boundary inside the limit — the writer's answer-first style
   // routinely opens with a 200-char sentence, so a slightly-long COMPLETE
   // sentence beats a 158-char stump: Google truncates display on its own, and
   // the validator's TRUNCATED-DESCRIPTION gate stays quiet.
-  const sentEnd = s.slice(limit).search(/[.!?](\s|$)/);
-  if (sentEnd >= 0 && limit + sentEnd < 300) return s.slice(0, limit + sentEnd + 1).trim();
+  const sentEnd = nextSentenceEnd(s, limit);
+  if (sentEnd >= 0 && sentEnd < 300) return s.slice(0, sentEnd + 1).trim();
   // First sentence longer than ~300 chars (rare): keep the word-trimmed
   // fragment but close it as a sentence so nothing dangles.
   const frag = cut.replace(/\s+\S*$/, '')
     .replace(/\s*\([^)]*$/, '')
     .replace(/(?:\s+(?:and|or|but|so|to|the|an?|with|for|at|on|in|from|by|of))+$/i, '')
     .replace(/[\s,;:.\-–—]+$/, '').trim();
-  return frag + '.';
+  return closeDanglingBracket(frag + '.');
 }

@@ -1,6 +1,6 @@
 ---
 title: "Jardin des Curiosités: Lyon Travel Guide (4.7★)"
-description: "Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. 4.7★ (2,109 reviews) — what visitors say, hours, and tips."
+description: "Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. de l'Abbé Larue, 69005) with sweeping views over the Saône and the city's rooftops. 4.7★ (2,109 reviews) — what visitors say, hours, and tips."
 country: "France"
 region: "Lyon"
 category: "attraction"

@@ -1,6 +1,6 @@
 ---
 title: 'Gajah Mada Food Street: Where to Eat in Jakarta'
-description: Gajah Mada Food Street is an open-air, upmarket food court on Jl. Gajah Mada No.
+description: "Gajah Mada Food Street is an open-air, upmarket food court on Jl. Gajah Mada No. 83 in Jakarta's old Chinatown-adjacent Krukut area (West Jakarta), mixing Indonesian, Chinese-Indonesian, and Western stalls with cold beer under a spacious canopy of seating."
 country: Indonesia
 region: Jakarta
 category: restaurant

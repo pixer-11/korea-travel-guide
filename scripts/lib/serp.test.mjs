@@ -38,6 +38,22 @@ test('clip ends on a sentence or closes the fragment as one', () => {
   assert.equal(clip('short.'), 'short.');
 });
 
+test('clip never ends inside an address abbreviation', () => {
+  // lyon-jardin-des-curiosites, 2026-08-10: clipped at "8 Pl." and the rating
+  // badge was then welded on, leaving "(8 Pl. 4.7★ (2,109 reviews) — …".
+  const qa = "Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. de l'Abbé Larue, 69005) with sweeping views over the Saône and the city's rooftops. It's open daily 8am–10pm.";
+  const out = clip(qa);
+  assert.equal(out.endsWith('Pl.'), false);
+  assert.equal(out.endsWith("city's rooftops."), true);
+  const withBadge = withRatingSignal(out, { rating: 4.7, userRatingsTotal: 2109 });
+  assert.equal((withBadge.match(/\(/g) || []).length, (withBadge.match(/\)/g) || []).length);
+});
+
+test('withRatingSignal closes a fragment inherited from an older post', () => {
+  const out = withRatingSignal('A hilltop garden in the Fourvière district (8 Pl', { rating: 4.7, userRatingsTotal: 2109 });
+  assert.equal(out, 'A hilltop garden in the Fourvière district. 4.7★ (2,109 reviews) — what visitors say, hours, and tips.');
+});
+
 test('makeTitle appends the star badge only within the 60-char budget', () => {
   const strong = { rating: 4.9, userRatingsTotal: 1961 };
   assert.equal(

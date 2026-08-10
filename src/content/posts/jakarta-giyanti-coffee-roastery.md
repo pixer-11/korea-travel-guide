@@ -1,6 +1,6 @@
 ---
 title: 'Giyanti Coffee Roastery: Jakarta Travel Guide'
-description: Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl.
+description: "Giyanti Coffee Roastery is a specialty coffee house and roastery on Jl. Surabaya in Menteng, Central Jakarta, known for single-origin Indonesian beans (Gayo, Toraja, Flores, Kintamani) and its own roasting operation on site."
 country: Indonesia
 region: Jakarta
 category: trendy

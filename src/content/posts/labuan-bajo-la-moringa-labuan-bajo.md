@@ -1,6 +1,6 @@
 ---
 title: "La Moringa: Where to Eat in Labuan Bajo (4.9★)"
-description: La Moringa is a well-rated, casual-but-polished restaurant on Jl.
+description: "La Moringa is a well-rated, casual-but-polished restaurant on Jl. Trans Flores in Labuan Bajo, best for a relaxed dinner of Indonesian and international dishes after a day trip to Komodo National Park."
 country: Indonesia
 region: Labuan Bajo
 category: restaurant

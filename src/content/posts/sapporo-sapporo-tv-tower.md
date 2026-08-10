@@ -1,6 +1,6 @@
 ---
 title: 'Sapporo TV Tower: Travel Guide'
-description: Sapporo TV Tower sits at the eastern end of Odori Park in Chuo Ward and is best visited around sunset for views over the park, Mt.
+description: "Sapporo TV Tower sits at the eastern end of Odori Park in Chuo Ward and is best visited around sunset for views over the park, Mt. Moiwa, and the Ishiyama-dori grid stretching toward the mountains."
 country: Japan
 region: Sapporo
 category: attraction

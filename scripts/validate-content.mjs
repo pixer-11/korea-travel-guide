@@ -23,6 +23,7 @@ import { keyToken } from './lib/commons.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
+import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -167,7 +168,10 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
     issues.push(`PLACEHOLDER region "${p.region}" — anchor the event to its finish/start city: ${p.f}`);
   }
   const d = p.description.trim();
-  if (d && (!DESC_TERMINAL.test(d) || !parensBalanced(d))) {
+  // A clip that lands on an abbreviation dot ("…Jl. R.E. Martadinata No.") ends
+  // in terminal punctuation with every bracket closed, so the two tests above
+  // wave it through. It is the same fault — see src/lib/sentence-boundary.mjs.
+  if (d && (!DESC_TERMINAL.test(d) || !parensBalanced(d) || endsInAbbreviation(d))) {
     issues.push(`TRUNCATED-DESCRIPTION: ${p.f} — ends "…${d.slice(-50)}"`);
   }
   for (const [field, v] of [['description', p.description], ['quickAnswer', p.quickAnswer], ['title', p.title]]) {

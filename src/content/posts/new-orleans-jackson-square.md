@@ -1,6 +1,6 @@
 ---
 title: 'Jackson Square: New Orleans Travel Guide'
-description: Jackson Square is the historic heart of the French Quarter — a fenced, gated park built in 1721 and framed by St.
+description: "Jackson Square is the historic heart of the French Quarter — a fenced, gated park built in 1721 and framed by St. Louis Cathedral, the Cabildo, and the Pontalba Buildings."
 country: United States
 region: New Orleans
 category: attraction
