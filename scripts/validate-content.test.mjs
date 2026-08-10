@@ -6,7 +6,7 @@
 // "절대 걸리면 안 되는 것(FP)"을 쌍으로 고정한다.
 //
 //   node scripts/validate-content.test.mjs
-import { postProblems, parsePost, photoVerificationProblems } from './validate-content.mjs';
+import { postProblems, parsePost, photoVerificationProblems, stubBodyProblems, STUB_BODY_FLOOR } from './validate-content.mjs';
 
 // 아무 규칙에도 걸리지 않는 건강한 글. 모든 케이스는 여기서 한 필드만 바꾼다 —
 // 그래야 실패했을 때 원인이 그 필드 하나로 좁혀진다.
@@ -220,6 +220,25 @@ cases.push(['진짜 하루짜리 행사는 조용하다', () => {
 cases.push(['시작·종료가 다르면 검사하지 않는다', () => {
   const out = run({ ...ev({ eventStart: '2026-08-23', eventEnd: '2026-09-13', quickAnswer: 'runs August 23–September 13' }) });
   return out.some((i) => i.startsWith('EVENT-SINGLE-DAY-RANGE')) ? `오탐: ${out.join(' | ')}` : null;
+}]);
+
+// ── 껍데기 글 ──────────────────────────────────────────────
+// 2026-08-05 에 수리 도구가 4,300자 글 2편을 50자·298자로 깎아놨고 12일간
+// 라이브였다. 길이 하한은 postProblems 밖에 있다 — 여기 픽스처들은 일부러
+// 한 문장짜리다. 사이트에서 가장 짧은 건강한 글이 3,358자.
+const stub = (body) => stubBodyProblems([{ f: 'test-post.md', body }]);
+cases.push(['한 문장짜리 본문을 잡는다', () => {
+  const out = stub("\n## Why this show matters\n\nDef Leppard don't need\n");
+  return has(out, 'STUB-BODY') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+}]);
+cases.push(['정상 길이 글은 조용하다', () => {
+  const out = stub('가'.repeat(10) + 'x'.repeat(STUB_BODY_FLOOR));
+  return out.length ? `오탐: ${out.join(' | ')}` : null;
+}]);
+cases.push(['본문이 아예 없는 항목은 이 검사가 건드리지 않는다', () => {
+  // 사진·frontmatter 검사가 볼 일이지 길이 검사가 볼 일이 아니다.
+  const out = stubBodyProblems([{ f: 'test-post.md', body: '' }]);
+  return out.length ? `오탐: ${out.join(' | ')}` : null;
 }]);
 
 let fail = 0;

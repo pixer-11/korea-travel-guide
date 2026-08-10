@@ -157,6 +157,30 @@ export function parsePost(f, t) {
  * `today` is injectable so the ended-event rule is testable and can't quietly
  * change behaviour as the calendar moves.
  */
+// A stub is worse than a wall of text: the reader bounces immediately and the
+// page still carries the site's name into the results. Two live event guides
+// were 50 and 298 characters for twelve days — dubai-def-leppard's whole body
+// was "Def Leppard don't need". Both had been 4,300-character articles until a
+// repair tool rewrote them down to nothing on 2026-08-05 and nothing noticed
+// (the tool-side guard is preservesSubstance in fix-ended-event-tense.mjs; this
+// is the catch-all for whichever tool does it next). The floor sits far below
+// the shortest healthy guide on the site — 3,358 characters — so it only fires
+// on a body that was truncated or never finished generating.
+//
+// Separate from postProblems() because the unit tests build one-sentence
+// fixtures on purpose; a length floor is about real files, not fixtures.
+export const STUB_BODY_FLOOR = 1500;
+export function stubBodyProblems(posts) {
+  const issues = [];
+  for (const p of posts) {
+    if (!p.body) continue;
+    const t = p.body.trim();
+    if (t.length >= STUB_BODY_FLOOR) continue;
+    issues.push(`STUB-BODY: ${p.f} — ${t.length}-char article ("…${t.slice(-40).replace(/\s+/g, ' ')}")`);
+  }
+  return issues;
+}
+
 export function postProblems(p, { today = new Date().toISOString().slice(0, 10) } = {}) {
   const issues = [];
 
@@ -352,19 +376,6 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
     issues.push(`LOCAL-PHONE: ${p.f} — "${p.phone}" has no +country-code, tel: link fails from a foreign SIM`);
   }
 
-  // A stub is worse than a wall of text: the reader bounces immediately, and
-  // the page still carries the site's name into the results. Two live event
-  // guides were 50 and 298 characters for twelve days — dubai-def-leppard's
-  // body was the single line "Def Leppard don't need". Both were 4,300-char
-  // articles until a repair tool rewrote them down to nothing on 2026-08-05
-  // and no check noticed (see src/lib/sentence-boundary.mjs's sibling guard,
-  // preservesSubstance in fix-ended-event-tense.mjs). The bar sits far below
-  // the shortest healthy guide on the site (3,358 chars), so this only fires
-  // on a body that was truncated or never finished generating.
-  if (p.body && p.body.trim().length < 1500) {
-    issues.push(`STUB-BODY: ${p.f} — ${p.body.trim().length}-char article ("${p.body.trim().slice(-40).replace(/\s+/g, ' ')}")`);
-  }
-
   // A wall of text on a phone gets scrolled past no matter how good the prose
   // is. Audited 2026-08-07 across 792 guides: 88% of paragraphs ran over 70
   // words and the worst was 236 — the writer prompt asked for under 70 and was
@@ -517,6 +528,7 @@ async function main() {
   };
 
   for (const p of posts) issues.push(...postProblems(p));
+  issues.push(...stubBodyProblems(posts));
 
   // Two posts about the same event on the same date in the same city = duplicate
   // coverage, and if their dates DISAGREE one of them is telling readers a lie.
