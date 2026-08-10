@@ -203,12 +203,21 @@ const klookDayHref = `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, kl
 const days = d.itinerary.map((day: any, di: number) => {
   const label = tr?.days?.[di]?.label ?? day.label;
   const intro = tr?.days?.[di]?.intro ?? day.intro;
+  let dropped = false;
   const stops = day.stops.flatMap((s: any) => {
     const post = resolveStop(s.slug);
-    if (!post) return []; // quarantined stop — dropped, course continues
+    if (!post) { dropped = true; return []; } // quarantined stop — dropped, course continues
     const why = tr?.whys?.[s.slug] ?? s.why;
     return [{ ...s, post, why }];
   });
+  if (dropped) {
+    // A dropped stop invalidates its neighbours' walking legs: the previous
+    // stop's "12 min walk to next" now points at a different place (or at
+    // nothing — the first failed rebuild crashed on stops[si+1].post). Wipe
+    // every leg on an altered day; the nightly itinerary rebuild restores
+    // accurate ones when it re-slots a replacement stop.
+    for (const s of stops) delete s.walkToNext;
+  }
   const rainPost = day.rainSwapSlug ? resolveStop(day.rainSwapSlug) : null;
   const rainWhy = day.rainSwapSlug ? (tr?.rainWhys?.[day.rainSwapSlug] ?? rainPost?.data.description ?? null) : null;
   return { label, intro, stops, rainPost, rainWhy };
@@ -455,7 +464,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
                 </li>
 
                 {/* 6. Leg row between cards */}
-                {leg && (
+                {leg && day.stops[si + 1] && (
                   <li class="itin-leg" aria-hidden="false" data-km={leg.km} data-minutes={leg.minutes ?? ''} data-transit={String(leg.transit)}>
                     <span class="itin-leg-icon">
                       {/* Both icons render server-side; the script only toggles
