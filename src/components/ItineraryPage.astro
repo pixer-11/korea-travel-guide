@@ -54,7 +54,15 @@ function resolveStop(slug: string) {
     throw new Error(`Itinerary "${itinerary.id}": stop slug "${slug}" has no matching post in the posts collection.`);
   }
   if (post.data.draft) {
-    throw new Error(`Itinerary "${itinerary.id}": stop slug "${slug}" resolves to a DRAFT post — refusing to render.`);
+    // A quarantined stop must not be RECOMMENDED — but throwing here held the
+    // ENTIRE site's deploy hostage to one post's photo quarantine (Fuglen
+    // Tokyo went draft overnight and every build from 21:04 UTC failed,
+    // 2026-08-10). The stop is silently dropped instead; the course stays
+    // valid minus one stop, and the nightly itinerary rebuild re-slots a
+    // replacement when it runs. A missing post (typo) still throws above —
+    // that one IS a data bug a human must see.
+    console.warn(`Itinerary "${itinerary.id}": stop "${slug}" is quarantined — dropped from render.`);
+    return null;
   }
   return post;
 }
@@ -195,10 +203,11 @@ const klookDayHref = `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, kl
 const days = d.itinerary.map((day: any, di: number) => {
   const label = tr?.days?.[di]?.label ?? day.label;
   const intro = tr?.days?.[di]?.intro ?? day.intro;
-  const stops = day.stops.map((s: any) => {
+  const stops = day.stops.flatMap((s: any) => {
     const post = resolveStop(s.slug);
+    if (!post) return []; // quarantined stop — dropped, course continues
     const why = tr?.whys?.[s.slug] ?? s.why;
-    return { ...s, post, why };
+    return [{ ...s, post, why }];
   });
   const rainPost = day.rainSwapSlug ? resolveStop(day.rainSwapSlug) : null;
   const rainWhy = day.rainSwapSlug ? (tr?.rainWhys?.[day.rainSwapSlug] ?? rainPost?.data.description ?? null) : null;

@@ -18,6 +18,12 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["serve", "C:\\Users\\user\\AppData\\Local\\Temp\\claude\\C--Users-user-Desktop----\\f6b283de-83bb-4301-9c32-ae276a1b7e6b\\scratchpad", "-l", "4173"],
       "port": 4173
+    },
+    {
+      "name": "itin-task7-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "dist", "-l", "4791"],
+      "port": 4791
     }
   ]
 }
