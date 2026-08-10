@@ -15,7 +15,7 @@ tags:
 quickAnswer: Manchester City play Team K League on August 5, 2026 and Atlético Madrid on August 9, 2026, both at Seoul World Cup Stadium (Sangam, Mapo-gu) as part of the Coupang Play Series, Korea's biggest pre-season football festival. Buy tickets the moment they go on sale, arrive via Line 6's World Cup Stadium Station, and confirm exact kickoff times and ticket tiers on the official Coupang Play/organizer channels before you travel.
 faq:
   - q: What are the exact dates and matches?
-    a: Manchester City vs Team K League is set for August 5, 2026, and Atlético Madrid's match follows on August 9, 2026, both at Seoul World Cup Stadium. Confirm final scheduling on Coupang Play's official channels closer to the date.
+    a: Manchester City vs Team K League was set for August 5, 2026, and Atlético Madrid's match followed on August 9, 2026, both at Seoul World Cup Stadium.
   - q: How do I get to Seoul World Cup Stadium?
     a: Take subway Line 6 to World Cup Stadium Station and exit via Exit 1 or 2, which lead directly to the stadium plaza. From Incheon Airport, connect via AREX to Digital Media City, then transfer to Line 6.
   - q: How much are tickets and where do I buy them?

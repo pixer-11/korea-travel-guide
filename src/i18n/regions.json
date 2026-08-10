@@ -4761,5 +4761,140 @@
       "getting": "대부분의 여행자는 기차를 이용해 타이둥에 도착하며, 타이둥역은 화롄과 북쪽으로 연결되는 화롄-타이둥선과 가오슝·핑둥 방면 서쪽으로 이어지는 남회선이 지나는 지점에 위치해 있다. 이 외에도 주로 타이베이 쑹산에서 출발하는 국내선 항공편이 타이둥 공항(TTT)으로 취항한다.",
       "days": "타이둥 시내, 화둥종곡(리프트 밸리) 고원 지대, 그리고 해안이나 온천 나들이까지 둘러보려면 3~4일 정도가 적당하며, 뤼다오(그린 아일랜드)나 란위(오키드 아일랜드) 섬 여행까지 계획한다면 며칠 더 여유를 두는 것이 좋다."
     }
+  },
+  "Bursa": {
+    "en": {
+      "blurb": "Bursa, the first capital of the Ottoman Empire, is famed for its turquoise-tiled Green Mosque and Tomb, the sprawling silk bazaars of Koza Han, and the UNESCO-listed Ottoman village of Cumalıkızık on its outskirts. Nicknamed \"Green Bursa\" for the forests cloaking Mount Uludağ above it, the city blends deep imperial history with thermal baths and the birthplace dish of İskender kebap.",
+      "getting": "Bursa has no major airport or rail link of its own, so most travelers arrive via Istanbul's airports (IST or SAW), taking a direct bus (~2.5 hours) to Bursa's intercity bus terminal, or by combining a Sea of Marmara ferry to Yalova or Mudanya with a connecting bus into the city center. From central Istanbul, fast ferries also run to the Bursa coast as an alternative to the road route around the bay.",
+      "days": "Plan on ~1-2 days to cover the historic core — Green Mosque, Ulu Cami, and the Koza Han bazaar district — with an extra half-day if adding Cumalıkızık village or a trip up Mount Uludağ."
+    },
+    "ko": {
+      "blurb": "부르사는 오스만 제국의 첫 수도로, 터키석빛 타일로 장식된 그린 모스크(예실 자미)와 그린 튀르베(영묘), 실크 상인들로 북적이는 코자 한 바자, 그리고 근교에 자리한 유네스코 등재 오스만 마을 주말르크즉으로 유명합니다. 도시를 감싸는 울루다으산의 울창한 숲 덕분에 \"초록빛 부르사\"라는 애칭으로도 불리며, 깊은 제국의 역사와 온천욕, 그리고 이스켄더 케밥이 탄생한 도시라는 미식 매력까지 두루 갖추고 있습니다.",
+      "getting": "부르사에는 자체 대형 공항이나 철도 노선이 없어, 대부분의 여행자는 이스탄불의 공항(IST 또는 SAW)을 통해 들어온 뒤 직행버스(약 2.5시간)를 타고 부르사 시외버스터미널로 이동합니다. 또는 마르마라해를 건너는 페리로 얄로바나 무단야까지 간 뒤, 시내로 들어가는 연결 버스를 타는 방법도 있습니다. 이스탄불 시내에서는 만을 빙 둘러가는 육로 대신, 부르사 해안까지 바로 가는 고속 페리를 이용할 수도 있습니다.",
+      "days": "그린 모스크, 울루 자미, 코자 한 바자 지구 등 역사 중심지를 둘러보는 데는 약 1~2일이면 충분하며, 주말르크즉 마을이나 울루다으산 여행을 추가한다면 반나절 정도 더 계획하시면 좋습니다."
+    },
+    "ja": {
+      "blurb": "オスマン帝国最初の首都であるブルサは、トルコ石色のタイルが美しいグリーンモスク(緑のモスク)と霊廟、絹織物商が軒を連ねるコザハンのバザール、そして郊外にあるユネスコ世界遺産のオスマン様式の村チュマルクズックで知られています。街を見下ろすウルダー山の森に覆われていることから「緑のブルサ」の愛称で呼ばれ、この地には帝国時代の深い歴史と温泉文化、さらにはイスケンデルケバブ発祥の地としての顔が共存しています。",
+      "getting": "ブルサ自体には大きな空港も鉄道の直通路線もないため、多くの旅行者はイスタンブールの空港(ISTまたはSAW)を経由して訪れます。そこからブルサ市内バスターミナルまで直行バス(約2.5時間)を利用するのが一般的ですが、マルマラ海をフェリーでヤロヴァやムダンヤまで渡り、そこから市内へ乗り継ぎバスで向かうという方法もあります。また、イスタンブール中心部からはブルサ沿岸部まで高速フェリーも運航しており、湾を陸路で迂回するルートの代わりとして利用できます。",
+      "days": "グリーンモスク、ウルジャーミィ、コザハン周辺のバザール地区といった歴史的中心部を巡るには1〜2日ほどを予定しておくとよいでしょう。さらにチュマルクズック村やウルダー山への小旅行を加える場合は、半日ほど余裕を持たせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Bursa, la primera capital del Imperio Otomano, es célebre por su Mezquita y Mausoleo Verde, revestidos de azulejos turquesa, por los extensos bazares de seda de Koza Han y por Cumalıkızık, el pueblo otomano declarado Patrimonio de la UNESCO en las afueras de la ciudad. Apodada \"la Bursa Verde\" por los bosques que cubren el monte Uludağ que se alza sobre ella, la ciudad combina una profunda historia imperial con baños termales y el plato que la vio nacer: el İskender kebap.",
+      "getting": "Bursa no cuenta con aeropuerto propio ni conexión ferroviaria directa, así que la mayoría de los viajeros llegan a través de los aeropuertos de Istanbul (IST o SAW), tomando un autobús directo (unas 2,5 horas) hasta la terminal interurbana de Bursa, o combinando un ferry por el mar de Mármara hasta Yalova o Mudanya con un autobús de conexión al centro de la ciudad. Desde el centro de Istanbul también circulan ferris rápidos hacia la costa de Bursa, una alternativa a la ruta por carretera alrededor de la bahía.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer el núcleo histórico —la Mezquita Verde, la Ulu Cami y el barrio del bazar de Koza Han—, y medio día más si se añade una visita al pueblo de Cumalıkızık o una excursión al monte Uludağ."
+    },
+    "zh": {
+      "blurb": "布尔萨是奥斯曼帝国的首个都城,以镶嵌绿松石瓷砖的绿色清真寺(Green Mosque)与陵墓、科扎汉(Koza Han)一带绵延的丝绸集市,以及城郊被列入联合国教科文组织名录的奥斯曼村落哲马勒克孜克(Cumalıkızık)而闻名。这座城市因乌卢山(Mount Uludağ)覆盖的层层森林而被称为\"绿色布尔萨\",在悠久的帝国历史之外,还拥有温泉浴场,以及发源于此的名菜伊斯坎德尔烤肉(İskender kebap)。",
+      "getting": "布尔萨本身没有大型机场或铁路连接,因此大多数旅行者会先抵达伊斯坦布尔的机场(IST 或 SAW),再乘坐直达大巴(约2.5小时)前往布尔萨的长途汽车站;也可以选择乘船横渡马尔马拉海到亚洛瓦(Yalova)或穆达尼亚(Mudanya),再转乘巴士进入市区。从伊斯坦布尔市中心出发,还有快船直达布尔萨沿海地区,作为绕海湾陆路的另一种选择。",
+      "days": "建议安排1-2天游览历史核心区——绿色清真寺、大清真寺(Ulu Cami)以及科扎汉集市一带;若想再去哲马勒克孜克村或乌卢山一游,建议额外预留半天时间。"
+    }
+  },
+  "Cameron Highlands": {
+    "en": {
+      "blurb": "Cameron Highlands is Malaysia's most famous hill retreat, prized for its cool climate, rolling tea plantations, and strawberry farms set among misty highland ridges. Centred on the towns of Tanah Rata, Brinchang, and Ringlet, it offers a refreshing break from the tropical heat of the lowlands, with jungle trails, tea estates, and cottage-garden charm.",
+      "getting": "There is no airport or railway station in Cameron Highlands itself — the nearest airport is Ipoh's Sultan Azlan Shah Airport, roughly a 2-hour drive away. Most travellers arrive by express bus from Kuala Lumpur's TBS terminal (~3.5–4 hours) or by winding mountain road via the Tapah or Simpang Pulai routes.",
+      "days": "Plan for ~2-3 days, enough time to visit a tea plantation, explore Tanah Rata and Brinchang, and take at least one highland nature walk."
+    },
+    "ko": {
+      "blurb": "카메론 하이랜드는 말레이시아에서 가장 유명한 고원 휴양지로, 서늘한 기후와 굽이굽이 펼쳐진 차 밭, 안개 낀 고원 능선 사이에 자리한 딸기 농장으로 사랑받는 곳입니다. 타나라타(Tanah Rata), 브린창(Brinchang), 링렛(Ringlet) 세 마을을 중심으로 형성되어 있으며, 정글 트레일과 차 농원, 아기자기한 정원의 매력이 어우러져 저지대의 열대 더위를 식혀주는 상쾌한 휴식처가 되어줍니다.",
+      "getting": "카메론 하이랜드에는 공항이나 기차역이 없습니다. 가장 가까운 공항은 이포(Ipoh)의 술탄 아즐란 샤 공항(Sultan Azlan Shah Airport)으로, 차로 약 2시간 거리에 있습니다. 대부분의 여행객은 쿠알라룸푸르의 TBS 터미널에서 출발하는 고속버스(약 3.5~4시간 소요)를 이용하거나, 타파(Tapah) 또는 심팡 풀라이(Simpang Pulai) 경로를 따라 구불구불한 산길을 통해 이동합니다.",
+      "days": "2~3일 정도 일정을 잡으면 차 농장을 방문하고 타나라타와 브린창을 둘러보며 고원 자연 산책을 최소 한 번은 즐길 수 있는 충분한 시간이 됩니다."
+    },
+    "ja": {
+      "blurb": "キャメロンハイランドは、マレーシアで最も有名な高原リゾート地です。涼しい気候、緑なす茶畑、そして霧に包まれた高原の稜線に広がるストロベリー農園が魅力です。タナラタ、ブリンチャン、リングレットの3つの町を中心に、ジャングルトレイルや茶園、コテージガーデンの趣きあふれる景観が楽しめ、低地の熱帯の暑さから逃れて過ごす爽やかな休息の地となっています。",
+      "getting": "キャメロンハイランドには空港や鉄道駅がありません。最寄りの空港はイポーのスルタン・アズラン・シャー空港で、車で約2時間の距離にあります。多くの旅行者は、クアラルンプールのTBSターミナルから出発する長距離バス(所要約3.5~4時間)を利用するか、タパーまたはシンパン・プライ経由の曲がりくねった山道を車で走って訪れます。",
+      "days": "滞在日数の目安は2~3日です。茶畑を訪れたり、タナラタやブリンチャンの町を散策したり、少なくとも1回は高原のネイチャーウォークを楽しんだりするのにちょうど良い期間です。"
+    },
+    "es": {
+      "blurb": "Cameron Highlands es el retiro de montaña más famoso de Malasia, apreciado por su clima fresco, sus ondulantes plantaciones de té y sus granjas de fresas, todo enmarcado entre crestas neblinosas de altura. Con Tanah Rata, Brinchang y Ringlet como núcleos principales, ofrece un respiro refrescante frente al calor tropical de las tierras bajas, con senderos en la selva, fincas teteras y un encanto de jardines de estilo campestre.",
+      "getting": "Cameron Highlands no cuenta con aeropuerto ni estación de tren propios: el aeropuerto más cercano es el Sultan Azlan Shah de Ipoh, a unas 2 horas en coche. La mayoría de los viajeros llega en autobús exprés desde la terminal TBS de Kuala Lumpur (unas 3,5-4 horas) o por la sinuosa carretera de montaña a través de las rutas de Tapah o Simpang Pulai.",
+      "days": "Conviene reservar entre 2 y 3 días, tiempo suficiente para visitar una plantación de té, recorrer Tanah Rata y Brinchang, y hacer al menos una caminata por la naturaleza de las tierras altas."
+    },
+    "zh": {
+      "blurb": "金马仑高原（Cameron Highlands）是马来西亚最著名的避暑胜地，以凉爽的气候、连绵起伏的茶园以及云雾缭绕的高地山脊间的草莓农场而闻名。这里以丹拉打（Tanah Rata）、云顶花园（Brinchang）和林明（Ringlet）三镇为核心，是逃离低地热带酷暑的清凉去处，丛林步道、茶园风光与田园小屋交织出独特的魅力。",
+      "getting": "金马仑高原本身没有机场或火车站——最近的机场是怡保的苏丹阿兹兰沙机场（Sultan Azlan Shah Airport），车程约2小时。大多数游客选择从吉隆坡TBS车站乘坐长途快车前往（约3.5至4小时），或沿蜿蜒山路经打巴（Tapah）或双溪毛糯（Simpang Pulai）路线自驾前往。",
+      "days": "建议安排2-3天行程，足以参观茶园、游览丹拉打和云顶花园，并至少进行一次高原自然徒步。"
+    }
+  },
+  "El Nido": {
+    "en": {
+      "blurb": "El Nido sits at the tip of Palawan, where jagged limestone cliffs plunge into turquoise lagoons and a scatter of jungle-clad islands make up the Bacuit Archipelago. It's best known as a base for island-hopping boat tours to hidden beaches, secret lagoons, and snorkeling spots that feel plucked from another world.",
+      "getting": "Most travellers fly directly into El Nido Airport (ENI), a small airstrip served by AirSWIFT and Cebgo with connections to Manila, Cebu, and other regional hubs. A cheaper but slower alternative is flying into Puerto Princesa Airport (PPS), Palawan's main gateway, then continuing overland by bus or van for roughly ~5-6 hours.",
+      "days": "Plan on ~3-4 days to cover the essentials, enough time for one or two island-hopping tours plus a bit of downtime in town."
+    },
+    "ko": {
+      "blurb": "엘니도는 팔라완 최북단에 자리한 곳으로, 삐죽삐죽한 석회암 절벽이 청록빛 라군으로 곧장 떨어지고, 밀림으로 뒤덮인 섬들이 흩어져 바쿠잇 군도를 이루고 있습니다. 숨겨진 해변과 비밀스러운 라군, 마치 다른 세상에서 온 듯한 스노클링 명소들을 찾아가는 아일랜드 호핑 보트 투어의 거점으로 특히 유명합니다.",
+      "getting": "대부분의 여행자는 AirSWIFT와 Cebgo가 운항하며 마닐라, 세부 등 주요 도시와 연결되는 소규모 공항인 엘니도 공항(ENI)으로 직행하는 항공편을 이용합니다. 좀 더 저렴하지만 시간이 오래 걸리는 방법으로는 팔라완의 주요 관문인 푸에르토프린세사 공항(PPS)으로 입국한 뒤, 버스나 밴을 타고 약 5~6시간 정도 육로로 이동하는 방법이 있습니다.",
+      "days": "핵심적인 볼거리를 둘러보려면 약 3~4일 정도를 계획하세요. 아일랜드 호핑 투어 한두 번을 즐기고, 마을에서 여유롭게 쉬는 시간까지 챙기기에 충분한 일정입니다."
+    },
+    "ja": {
+      "blurb": "エル・ニドはパラワン島の最北端に位置し、切り立った石灰岩の断崖がターコイズブルーのラグーンへと落ち込み、ジャングルに覆われた島々が点在するバクイット群島を形成しています。隠れたビーチや秘密のラグーン、まるで別世界から切り取ってきたようなシュノーケリングスポットを巡るアイランドホッピング・ボートツアーの拠点として特に知られています。",
+      "getting": "多くの旅行者は、エル・ニド空港(ENI)へ直接飛行機で向かいます。ここはAirSWIFTとCebgoが運航する小さな飛行場で、マニラやセブなど各地のハブと結ばれています。より安く済ませたい場合は、パラワン島の主要な玄関口であるプエルトプリンセサ空港(PPS)まで飛び、そこからバスやバンで陸路約5〜6時間かけて向かう方法もありますが、時間はかかります。",
+      "days": "主要スポットを押さえるなら3〜4日ほどが目安です。アイランドホッピングツアーを1〜2回楽しみつつ、町でのんびり過ごす時間も十分に取れます。"
+    },
+    "es": {
+      "blurb": "El Nido se encuentra en la punta de Palawan, donde escarpados acantilados de piedra caliza se precipitan hacia lagunas turquesas y un puñado de islas cubiertas de selva conforman el Archipiélago de Bacuit. Es conocido sobre todo como punto de partida para excursiones en barco de isla en isla hacia playas escondidas, lagunas secretas y sitios para hacer esnórquel que parecen sacados de otro mundo.",
+      "getting": "La mayoría de los viajeros vuela directamente al Aeropuerto de El Nido (ENI), una pequeña pista aérea con vuelos de AirSWIFT y Cebgo que conectan con Manila, Cebú y otros puntos regionales. Una alternativa más económica, aunque más lenta, es volar al Aeropuerto de Puerto Princesa (PPS), la principal puerta de entrada a Palawan, y continuar por tierra en autobús o van durante unas 5-6 horas aproximadamente.",
+      "days": "Conviene planear entre 3 y 4 días para cubrir lo esencial, tiempo suficiente para hacer uno o dos tours de isla en isla y disfrutar de algo de descanso en el pueblo."
+    },
+    "zh": {
+      "blurb": "艾尔尼多位于巴拉望岛的最北端,嶙峋的石灰岩绝壁一头扎进碧绿如玉的潟湖,零散分布的丛林小岛共同组成了巴库伊特群岛。这里最为人熟知的,是作为跳岛游船之旅的大本营,带你探访隐匿的海滩、私密的潟湖,以及仿佛来自另一个世界的浮潜胜地。",
+      "getting": "大多数游客会直接飞抵艾尔尼多机场(ENI),这是一座由AirSWIFT和Cebgo航空运营的小型机场,有航班连接马尼拉、宿务及其他地区枢纽。另一种更便宜但耗时更长的方式,是先飞往普林塞萨港机场(PPS)——巴拉望的主要门户机场,再转乘巴士或面包车经陆路前往,大约需要5-6小时。",
+      "days": "建议安排约3-4天时间,足以体验当地精华景点,包括一到两次跳岛游,外加一些在镇上悠闲放松的时光。"
+    }
+  },
+  "Kolkata": {
+    "en": {
+      "blurb": "Kolkata is India's colonial-era intellectual and cultural capital, where grand Raj-era architecture, tram lines, and a fervent literary and artistic tradition sit alongside the chaotic energy of a modern Bengali metropolis. Set on the banks of the Hooghly River, the city rewards travellers with its street food, colonial landmarks, and unmistakably unhurried, coffee-house culture.",
+      "getting": "Most travellers arrive via Netaji Subhas Chandra Bose International Airport (CCU), located roughly 17km from the city centre, with prepaid taxis and app-based cabs the most reliable way into town. By rail, Howrah Junction—one of India's oldest and largest stations—is the primary gateway for long-distance trains, with Sealdah serving as the other major terminus.",
+      "days": "Plan on ~2-3 days to cover the city's core colonial landmarks, museums, and markets, with an extra day if venturing further to the Sundarbans or other regional day trips."
+    },
+    "ko": {
+      "blurb": "콜카타는 인도의 식민지 시대 지성과 문화의 중심지로, 웅장한 영국 식민지풍 건축물과 트램 노선, 뜨거운 문학·예술적 전통이 현대 벵골 대도시 특유의 활기 넘치는 혼돈과 공존하는 곳이다. 후글리강 기슭에 자리한 이 도시는 길거리 음식과 식민지 시대의 랜드마크, 그리고 느긋함이 몸에 밴 커피하우스 문화로 여행자들에게 특별한 보상을 선사한다.",
+      "getting": "대부분의 여행객은 시내 중심에서 약 17km 떨어진 네타지 수바스 찬드라 보스 국제공항(CCU)을 통해 콜카타에 도착하며, 시내로 이동할 때는 선불 택시나 애플리케이션 기반 콜택시를 이용하는 것이 가장 믿을 만하다. 기차로 이동할 경우, 인도에서 가장 오래되고 규모가 큰 역 중 하나인 하우라 정션이 장거리 열차의 주요 관문 역할을 하며, 시알다역이 또 다른 주요 종착역으로 이용된다.",
+      "days": "도시의 핵심 식민지 시대 랜드마크와 박물관, 시장을 둘러보려면 약 2~3일이 적당하며, 순다르반스나 인근 지역으로 당일치기 여행을 계획한다면 하루를 더 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "コルカタは、インドの植民地時代における知性と文化の中心地。荘厳な英国統治時代の建築物やトラムが走る街並み、そして脈々と続く文学・芸術の伝統が、現代ベンガルの大都市らしい混沌としたエネルギーと隣り合わせに息づいている。フーグリー川のほとりに広がるこの街は、路上グルメや植民地時代の名所、そしてどこまでもゆったりとしたコーヒーハウス文化で旅行者を魅了してくれる。",
+      "getting": "多くの旅行者は、市中心部から約17kmに位置するネタジ・スバス・チャンドラ・ボース国際空港(CCU)を利用して訪れる。市内へは、プリペイドタクシーや配車アプリの利用が最も確実な移動手段だ。鉄道の場合、インド最古かつ最大級の駅の一つであるハウラー・ジャンクションが長距離列車の主要な玄関口となっており、シアルダー駅ももう一つの主要ターミナルとして利用されている。",
+      "days": "市内の主要な植民地時代の名所、博物館、市場を巡るには2〜3日ほどを見ておきたい。さらにサンダルバンスなど郊外への日帰り旅行を予定している場合は、もう1日多く確保しておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Kolkata es la capital intelectual y cultural de la India de la era colonial, donde la majestuosa arquitectura del período del Raj, las líneas de tranvía y una fervorosa tradición literaria y artística conviven con la energía caótica de una metrópolis bengalí moderna. Situada a orillas del río Hooghly, la ciudad recompensa a los viajeros con su comida de calle, sus hitos coloniales y su inconfundible cultura de café, tan relajada como característica.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Netaji Subhas Chandra Bose (CCU), ubicado a unos 17 km del centro de la ciudad, siendo los taxis prepagados y las apps de transporte la forma más confiable de llegar. Por ferrocarril, la estación de Howrah Junction —una de las más antiguas y grandes de la India— es la principal puerta de entrada para los trenes de larga distancia, mientras que Sealdah funciona como la otra gran terminal.",
+      "days": "Se recomienda destinar entre 2 y 3 días para recorrer los principales hitos coloniales, museos y mercados de la ciudad, sumando un día extra si se planea visitar los Sundarbans u otras excursiones de un día por la región."
+    },
+    "zh": {
+      "blurb": "加尔各答是印度殖民时代的知识与文化之都,气派恢弘的英式建筑、叮当作响的有轨电车,与浓厚炽热的文学艺术气息,和这座现代孟加拉大都会那种繁忙杂乱的活力交织并存。城市坐落于胡格利河畔,街头美食、殖民地地标建筑,以及那份不紧不慢、独具韵味的咖啡馆文化,都让旅人流连忘返。",
+      "getting": "大多数旅客经由内塔吉·苏巴斯·钱德拉·鲍斯国际机场(CCU)抵达,该机场距市中心约17公里,乘坐预付费出租车或网约车进城最为稳妥可靠。若乘火车前来,豪拉站——印度历史最悠久、规模最大的火车站之一——是长途列车的主要门户,西尔达站则是另一大主要枢纽。",
+      "days": "建议安排2-3天游览这座城市的核心殖民地标、博物馆与市集,若还想前往桑德班斯或周边地区来一趟一日游,则可多留一天。"
+    }
+  },
+  "Sun Moon Lake": {
+    "en": {
+      "blurb": "Sun Moon Lake is Taiwan's largest body of water, a serene highland lake ringed by forested peaks near the island's geographic center in Nantou County. Its shifting moods — misty mornings, a sun-shaped eastern half and moon-shaped western half, and glimpses of Indigenous Thao culture around Ita Thao — make it feel worlds away from Taiwan's cities, despite being just a few hours from them.",
+      "getting": "There's no direct train or airport at the lake itself, so most travellers take Taiwan's High Speed Rail to Taichung Station, then transfer to a regional bus (such as the Taiwan Tourist Shuttle or Nantou Bus services) for the onward ride to the lakeshore. That final leg from Taichung takes roughly ~1.5 to 2 hours by bus, depending on traffic and route.",
+      "days": "Plan on ~2 days and 1 night to comfortably circle the lake by bike or boat, ride the cable car, and take in a couple of the surrounding temples and trails without rushing."
+    },
+    "ko": {
+      "blurb": "일월담(日月潭)은 대만 최대의 호수로, 대만 지리적 중심에 가까운 난터우현(南投縣)에서 숲으로 둘러싸인 산자락 사이에 고요히 자리한 고산 호수입니다. 안개 자욱한 아침 풍경, 해를 닮은 동쪽 호수와 달을 닮은 서쪽 호수의 대비, 이타사오(伊達邵) 일대에서 만나는 원주민 사오족(邵族) 문화까지, 시시각각 달라지는 분위기 덕분에 도시에서 불과 몇 시간 거리임에도 마치 대만의 번잡한 도시들과는 전혀 다른 세상에 온 듯한 느낌을 줍니다.\",\"getting\":\"일월담에는 기차역이나 공항이 따로 없기 때문에, 대부분의 여행객은 대만고속철도(HSR)를 타고 타이중역(台中站)까지 이동한 뒤, 그곳에서 대만관광버스(台灣好行) 또는 난터우버스(南投客運) 같은 지역 버스로 환승해 호숫가까지 이동합니다. 타이중에서 호수까지 이어지는 이 마지막 구간은 교통 상황과 노선에 따라 대략 1시간 30분에서 2시간 정도 소요됩니다.",
+      "getting": "일월담에는 기차역이나 공항이 따로 없기 때문에, 대부분의 여행객은 대만고속철도(HSR)를 타고 타이중역(台中站)까지 이동한 뒤, 그곳에서 대만관광버스(台灣好行) 또는 난터우버스(南投客運) 같은 지역 버스로 환승해 호숫가까지 이동합니다. 타이중에서 호수까지 이어지는 이 마지막 구간은 교통 상황과 노선에 따라 대략 1시간 30분에서 2시간 정도 소요됩니다.",
+      "days": "여유롭게 호수를 자전거나 유람선으로 한 바퀴 돌고, 케이블카도 타고, 주변 사원과 트레일 몇 곳까지 서두르지 않고 둘러보려면 1박 2일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "日月潭は台湾最大の湖で、南投県、台湾のちょうど中央あたりに位置し、緑の山々に囲まれた静かな高原の湖です。霧に包まれる朝、太陽の形をした東側と月の形をした西側、そして伊達邵(イタサオ)周辺で垣間見える先住民タオ族の文化など、その表情は移り変わり、台湾の主要都市からわずか数時間の距離にありながら、まるで別世界にいるかのような感覚を味わえます。",
+      "getting": "日月潭には直通の鉄道や空港がないため、多くの旅行者はまず台湾高速鉄道(高鉄)で台中駅まで行き、そこから台湾好行(Taiwan Tourist Shuttle)や南投客運バスなどの路線バスに乗り換えて湖畔へ向かいます。台中からの最終区間は、交通状況やルートにより、バスでおよそ1.5~2時間ほどかかります。",
+      "days": "湖を自転車や遊覧船でゆったり一周し、ロープウェイに乗って、周辺の寺院や散策路もいくつか無理なく楽しみたいなら、1泊2日ほどの日程を目安にすると良いでしょう。"
+    },
+    "es": {
+      "blurb": "El Lago Sun Moon es la mayor extensión de agua de Taiwán, un sereno lago de montaña rodeado de picos boscosos, ubicado cerca del centro geográfico de la isla, en el condado de Nantou. Sus paisajes cambiantes —mañanas envueltas en niebla, una mitad oriental con forma de sol y una mitad occidental con forma de luna, además de pequeños destellos de la cultura indígena Thao alrededor de Ita Thao— hacen que se sienta a mundos de distancia de las ciudades taiwanesas, aunque en realidad esté a solo unas horas de ellas.",
+      "getting": "El lago no cuenta con tren directo ni aeropuerto propio, así que la mayoría de los viajeros toma el Tren de Alta Velocidad de Taiwán (THSR) hasta la estación de Taichung y desde allí se traslada en autobús regional —como el Taiwan Tourist Shuttle o los servicios de Nantou Bus— para llegar hasta la orilla del lago. Ese último tramo desde Taichung toma aproximadamente entre 1.5 y 2 horas en autobús, según el tráfico y la ruta elegida.",
+      "days": "Se recomienda planear alrededor de 2 días y 1 noche para recorrer el lago con calma en bicicleta o en barco, subir al teleférico y visitar algunos de los templos y senderos de los alrededores sin sentirse apurado."
+    },
+    "zh": {
+      "blurb": "日月潭是台湾最大的湖泊,坐落在南投县、台湾地理中心附近,四周群山环抱、林木葱郁,湖面宁静如镜。晨雾缭绕之时,东侧如日、西侧似月的独特轮廓渐渐浮现,而伊达邵一带还能感受到原住民邵族的文化气息。尽管距离台湾各大城市仅数小时车程,这里却仿佛是另一个世外之地。",
+      "getting": "日月潭本身并没有直达的火车或机场,大多数旅客会先搭乘台湾高铁到台中站,再转乘区域巴士(如台湾好行或南投客运)前往湖畔。从台中出发的这段路程,依路况和路线不同,车程大约需要1.5至2小时。",
+      "days": "建议安排约2天1夜的行程,悠闲地骑车或乘船环湖、体验缆车,再顺道走访周边几座寺庙和步道,时间上会更加从容。"
+    }
   }
 }

@@ -1,8 +1,6 @@
 ---
 title: 'The Sounds Project 2026: What to Know (Jakarta)'
-description: >-
-  The Sounds Project 2026 in Jakarta, Indonesia — August 7-9, 2026. What it is,
-  when and where, and how to plan around it.
+description: The Sounds Project 2026 in Jakarta, Indonesia — August 7-9, 2026. What it is, when and where, and how to plan around it.
 country: Indonesia
 region: Jakarta
 category: event
@@ -13,41 +11,18 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: >-
-  The Sounds Project 2026 runs August 7–9, 2026 in Jakarta, headlined by
-  Australian rock band Jet alongside a strong local lineup — Pamungkas, Rizky
-  Febian, JUICY LUICY, For Revenge, and Barasuara. Exact venue, set times, and
-  ticket tiers haven't been locked in publicly at the time of writing, so treat
-  this as a save-the-date and confirm everything on the official Sounds Project
-  channels before booking flights or tickets.
+quickAnswer: The Sounds Project 2026 runs August 7–9, 2026 in Jakarta, headlined by Australian rock band Jet alongside a strong local lineup — Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara. Exact venue, set times, and ticket tiers haven't been locked in publicly at the time of writing, so treat this as a save-the-date and confirm everything on the official Sounds Project channels before booking flights or tickets.
 faq:
   - q: What are the exact dates for The Sounds Project 2026?
-    a: >-
-      August 7–9, 2026, in Jakarta, Indonesia. Confirm this on the official
-      Sounds Project channels closer to the event, as festival dates in
-      Indonesia occasionally shift.
+    a: The Sounds Project 2026 took place August 7–9, 2026, in Jakarta, Indonesia.
   - q: Who is playing?
-    a: >-
-      Confirmed acts include Australian rock band Jet plus Indonesian artists
-      Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara.
-      Additional names may be added; check the official lineup poster before
-      finalizing plans.
+    a: Confirmed acts include Australian rock band Jet plus Indonesian artists Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara. Additional names may be added; check the official lineup poster before finalizing plans.
   - q: Where is the festival held and how do I get there?
-    a: >-
-      The venue hasn't been publicly finalized yet. Jakarta festivals of this
-      scale often use large outdoor grounds accessible via the MRT and
-      Gojek/Grab ride-hailing — but wait for the official venue announcement
-      before booking accommodation nearby.
+    a: The venue hasn't been publicly finalized yet. Jakarta festivals of this scale often use large outdoor grounds accessible via the MRT and Gojek/Grab ride-hailing — but wait for the official venue announcement before booking accommodation nearby.
   - q: How much do tickets cost?
-    a: >-
-      Prices haven't been announced. Watch the official Sounds Project site and
-      social media for presale and ticket-tier details, and buy early since
-      local lineups like this one tend to sell out early-bird tiers quickly.
+    a: Prices had not been announced ahead of time. Presale and ticket-tier details were published on the official Sounds Project site and social media.
   - q: Is it a good idea to fly in specifically for this?
-    a: >-
-      If you're a fan of Jet or the featured Indonesian acts, yes — but hold off
-      on booking flights until the venue and full schedule are confirmed, since
-      a three-day event spread across stages can shift its daily lineup order.
+    a: If you're a fan of Jet or the featured Indonesian acts, yes — but hold off on booking flights until the venue and full schedule are confirmed, since a three-day event spread across stages can shift its daily lineup order.
 aiGenerated: true
 draft: true
 eventRecurring: true
