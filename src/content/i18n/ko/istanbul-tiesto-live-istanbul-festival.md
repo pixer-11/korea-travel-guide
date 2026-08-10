@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: istanbul-tiesto-live-istanbul-festival
-srcHash: 'deb8549b1440'
+srcHash: '2899fe0a148b'
 title: '티에스토(Tiësto) 라이브 – 이스탄불 페스티벌: 알아둘 사항 (이스탄불)'
 description: 터키 이스탄불에서 열리는 티에스토(Tiësto) 라이브 – 이스탄불 페스티벌 — 2026년 8월 8일. 행사 개요, 일시와 장소, 그리고 여행 계획 팁을 소개합니다.
 quickAnswer: 티에스토(Tiësto)가 역사 반도(Historic Peninsula)의 마르마라 해안에 위치한 예니카프 페스티벌 파크(Festival Alanı Yenikapı)에서 열리는 이스탄불 페스티벌의 헤드라이너로 나섭니다. 현재 발표된 날짜는 2026년 8월 8일입니다. 이는 잠정적인 날짜로 간주하고, 항공권이나 숙소를 예약하기 전에 정확한 시간, 무대 정보, 티켓 등급은 페스티벌 공식 채널에서 반드시 확인하세요. 트램이나 마르마라이(Marmaray)를 이용해 입장 시작 전 여유 있게 예니카프에 도착하면 입구 혼잡을 피할 수 있습니다.
