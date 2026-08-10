@@ -1,8 +1,8 @@
 # Cloudflare token check — written by .github/workflows/cf-token-check.yml
 # Secrets are masked in place; lines are never dropped (see workflow header).
-checked_at: 2026-08-10T14:43:49Z
+checked_at: 2026-08-10T14:46:56Z
 
-배포 불가: 토큰에 다음 권한이 없습니다 — Workers Scripts · Edit, Workers R2 Storage · Edit
+배포 불가: 토큰에 다음 권한이 없습니다 — Workers R2 Storage · Edit
 토큰이 죽은 게 아니라 권한만 모자랍니다. 값을 바꾸지 않고 권한만 추가하면 됩니다.
 Cloudflare → 계정 선택 → Manage Account → API Tokens → 해당 토큰 Edit → 위 권한 추가 → Continue → Save.
 (My Profile 쪽 API Tokens 아님 — 이 토큰은 계정 소유 토큰입니다.)
@@ -12,7 +12,7 @@ CF_API_TOKEN: yes
 CF_ACCOUNT_ID: yes
 
 == what the deploy needs ==
-WORKERS_SCRIPTS (Workers Scripts:Edit): DENIED — 10000 Authentication error
+WORKERS_SCRIPTS (Workers Scripts:Edit): OK
 R2_BUCKETS (Workers R2 Storage:Edit): DENIED — 10000 Authentication error
 
 == who the token is ==
