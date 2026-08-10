@@ -25,6 +25,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { isSentenceEnd } from '../src/lib/sentence-boundary.mjs';
+import { preservesSubstance } from '../src/lib/rewrite-guard.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const DRY = process.env.DRY === '1';
@@ -40,7 +41,11 @@ if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing')
 async function rewrite(kind, text, title, endedOn, residue = null) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 1200,
+    // A 4,000-character body is ~1,200 tokens BEFORE the rewrite adds a word,
+    // so the old flat 1,200 cap cut the answer off mid-word and the code wrote
+    // the stump: jakarta-the-sounds-project-vol-9 shipped ending "…the decent
+    // walk from par" on 2026-08-10. Budget from the input, with headroom.
+    max_tokens: Math.min(8192, Math.max(1200, Math.ceil(text.length / 2) + 600)),
     messages: [{
       role: 'user',
       content: `This is the ${kind} of a travel guide for "${title}", an event that ENDED on ${endedOn}. It was written before the event, so it still points readers at things that will happen.
@@ -59,6 +64,11 @@ Reply with ONLY the rewritten ${kind}, no preamble, no quotes around it.
 ${text}`,
     }],
   });
+  // The authoritative truncation signal. Everything else here is a backstop.
+  if (msg.stop_reason === 'max_tokens') {
+    console.log(`   ⚠️  ${kind} response hit the token ceiling — discarded unread`);
+    return '';
+  }
   return (msg.content.find((c) => c.type === 'text')?.text || '').trim();
 }
 
@@ -74,8 +84,8 @@ async function rewriteUntilClean(kind, text, title, endedOn, tries = 3) {
   for (let i = 0; i < tries; i++) {
     const out = await rewrite(kind, text, title, endedOn, residue);
     if (!out) continue;
-    if (!preservesSubstance(text, out, kind)) {
-      console.log(`   ⚠️  attempt ${i + 1} came back shorter than the original — discarded`);
+    if (!keptSubstance(text, out, kind)) {
+      console.log(`   ⚠️  attempt ${i + 1} came back short or cut off — discarded`);
       continue;
     }
     if (!FUTURE_PROMISE.test(out)) return out;
@@ -87,21 +97,11 @@ async function rewriteUntilClean(kind, text, title, endedOn, tries = 3) {
   return await sentenceLevelPass(kind, text, title, endedOn);
 }
 
-// The brief is "shift the tense", not "shorten the article". On 2026-08-10 a
-// body rewrite came back with four `##` sections gone — 34 lines of getting-
-// there, what-to-expect and like-a-local detail deleted, none of it
-// forward-looking — and the old all-or-nothing check happily wrote it, because
-// all it asked was whether the FUTURE_PROMISE pattern was gone. A shrunken
-// page is a worse outcome than a stale sentence: the guides that survive on
-// this site are the ones with the practical detail still in them.
-function preservesSubstance(before, after, kind) {
-  if (after.length < before.length * 0.7) return false;
-  if (kind.startsWith('article body')) {
-    const heads = (s) => (s.match(/^#{2,6}\s+.*/gm) || []).length;
-    if (heads(after) < heads(before)) return false;
-  }
-  return true;
-}
+// The brief is "shift the tense", not "shorten the article" — and not "stop
+// halfway". Both happened on 2026-08-10; the rules now live in
+// src/lib/rewrite-guard.mjs so any other repair tool can hold itself to them.
+const keptSubstance = (before, after, kind) =>
+  preservesSubstance(before, after, { headings: kind.startsWith('article body') });
 
 // Last resort: stop rewriting the whole field and go after the offending
 // sentences one at a time — a single sentence is a much easier ask. Anything
