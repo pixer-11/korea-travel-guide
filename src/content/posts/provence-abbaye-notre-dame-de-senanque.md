@@ -6,7 +6,7 @@ region: Provence
 category: hidden-gem
 pubDate: '2026-07-31T10:32:13.939Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg/1920px-Abbaye_Notre-Dame_de_S%C3%A9nanque%2C_2022.jpg
   credit: 'Photo: Chris Down / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Abbaye_Notre-Dame_de_S%C3%A9nanque,_2022.jpg

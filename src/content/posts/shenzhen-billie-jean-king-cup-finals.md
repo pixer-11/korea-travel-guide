@@ -26,7 +26,7 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2022_NWSL_Championship_09_-_Billie_Jean_King.jpg/3840px-2022_NWSL_Championship_09_-_Billie_Jean_King.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2022_NWSL_Championship_09_-_Billie_Jean_King.jpg/3840px-2022_NWSL_Championship_09_-_Billie_Jean_King.jpg
   credit: 'Photo: Legoktm / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2022_NWSL_Championship_09_-_Billie_Jean_King.jpg

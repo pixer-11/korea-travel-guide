@@ -6,7 +6,7 @@ region: Suzhou
 category: attraction
 pubDate: '2026-07-27T11:04:29.421Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20090905_Suzhou_Lion_Grove_Garden_4502.jpg/1920px-20090905_Suzhou_Lion_Grove_Garden_4502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20090905_Suzhou_Lion_Grove_Garden_4502.jpg/1920px-20090905_Suzhou_Lion_Grove_Garden_4502.jpg
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:20090905_Suzhou_Lion_Grove_Garden_4502.jpg

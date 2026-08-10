@@ -9,7 +9,7 @@ category: hidden-gem
 pubDate: '2026-07-29T10:13:04.599Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1920px-Ataturk%27s_Mausoleum_%286225341313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1920px-Ataturk%27s_Mausoleum_%286225341313%29.jpg
   credit: 'Photo: William Neuheisel from DC, US / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: >-

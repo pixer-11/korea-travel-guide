@@ -6,7 +6,7 @@ region: Izmir
 category: attraction
 pubDate: '2026-07-26T07:09:09.098Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C4%B0zmir_Clock_Tower%2C_March_2013.jpg/1920px-%C4%B0zmir_Clock_Tower%2C_March_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C4%B0zmir_Clock_Tower%2C_March_2013.jpg/1920px-%C4%B0zmir_Clock_Tower%2C_March_2013.jpg
   credit: 'Photo: AnonymousUnknown author (see also [1]) / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:%C4%B0zmir_Clock_Tower,_March_2013.jpg

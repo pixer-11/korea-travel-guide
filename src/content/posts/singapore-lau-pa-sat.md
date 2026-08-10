@@ -6,7 +6,7 @@ region: Singapore
 category: restaurant
 pubDate: '2026-07-26T07:01:26.271Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lau_Pa_Sat_Singapore_2.jpg/1920px-Lau_Pa_Sat_Singapore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lau_Pa_Sat_Singapore_2.jpg/1920px-Lau_Pa_Sat_Singapore_2.jpg
   credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_2.jpg

@@ -11,7 +11,7 @@ category: hidden-gem
 pubDate: '2026-07-31T10:20:16.496Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/1920px-Agra_03-2016_10_Agra_Fort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/1920px-Agra_03-2016_10_Agra_Fort.jpg
   credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Agra_03-2016_10_Agra_Fort.jpg'

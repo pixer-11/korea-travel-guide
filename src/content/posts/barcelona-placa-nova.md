@@ -6,7 +6,7 @@ region: "Barcelona"
 category: "hidden-gem"
 pubDate: "2026-08-07T08:33:12.045Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/40/Pla%C3%A7a_Nova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/40/Pla%C3%A7a_Nova.jpg"
   credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Nova.jpg"

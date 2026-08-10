@@ -11,7 +11,7 @@ eventStartDate: '2026-08-25'
 eventEndDate: '2026-08-25'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/1/18/Tyler_The_Creator_Toronto_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+    https://upload.wikimedia.org/wikipedia/commons/1/18/Tyler_The_Creator_Toronto_2025.jpg
   credit: 'Photo: Lygonstreet / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tyler_The_Creator_Toronto_2025.jpg'

@@ -6,7 +6,7 @@ region: Chicago
 category: hidden-gem
 pubDate: '2026-08-01T09:43:00.182Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg/1920px-Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg/1920px-Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg
   credit: 'Photo: Karen / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Justine_Ezarik_at_the_360_Chicago_Observation_Deck.jpg

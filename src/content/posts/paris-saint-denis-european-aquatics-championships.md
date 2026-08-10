@@ -13,7 +13,7 @@ eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-16'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/European_Aquatics_Championships_%2843146004564%29.jpg/1920px-European_Aquatics_Championships_%2843146004564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/European_Aquatics_Championships_%2843146004564%29.jpg/1920px-European_Aquatics_Championships_%2843146004564%29.jpg
   credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: >-

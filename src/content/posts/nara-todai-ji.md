@@ -6,7 +6,7 @@ region: Nara
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg/1920px-The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg/1920px-The_Great_Buddha_Hall_of_T%C5%8Ddai-ji%2C_Nara%2C_November_2016.jpg
   credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Great_Buddha_Hall_of_T%C5%8Ddai-ji,_Nara,_November_2016.jpg

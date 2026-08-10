@@ -6,7 +6,7 @@ region: Hyderabad
 category: hidden-gem
 pubDate: '2026-07-31T10:31:35.179Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/1920px-Golconda_Fort_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/1920px-Golconda_Fort_005.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Golconda_Fort_005.jpg

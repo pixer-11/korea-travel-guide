@@ -6,7 +6,7 @@ region: Kanazawa
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg/1920px-View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg/1920px-View_towards_Hanami-bashi_with_sakura%2C_Kenroku-en%2C_Kanazawa%2C_2016.jpg
   credit: 'Photo: DimiTalen / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:View_towards_Hanami-bashi_with_sakura,_Kenroku-en,_Kanazawa,_2016.jpg

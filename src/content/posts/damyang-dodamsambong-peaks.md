@@ -6,7 +6,7 @@ region: "Damyang"
 category: "attraction"
 pubDate: "2026-08-10T09:06:33.588Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg"
   credit: "Photo: Seongbin Im from Seoul, Korea, Republic of / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Geology_of_South_Korea_-_Dodamsambong,_Peaks(%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89)_(35912678771).jpg"

@@ -6,7 +6,7 @@ region: Miami
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg/1920px-Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg/1920px-Vizcaya_Museum_and_Gardens_%2C_Miami_060524_DSC6655.jpg
   credit: 'Photo: Leslie Platt / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Vizcaya_Museum_and_Gardens_,_Miami_060524_DSC6655.jpg

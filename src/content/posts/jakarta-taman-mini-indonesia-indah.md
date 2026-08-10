@@ -6,7 +6,7 @@ region: Jakarta
 category: attraction
 pubDate: '2026-07-22T09:43:50.336Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg/1920px-Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg/1920px-Teater_Tanah_Airku%2C_Taman_Mini_Indonesia_Indah_%282023%29.jpg
   credit: 'Photo: RasyaAbhirama13 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Teater_Tanah_Airku,_Taman_Mini_Indonesia_Indah_(2023).jpg

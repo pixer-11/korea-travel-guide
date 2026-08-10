@@ -6,7 +6,7 @@ region: Lyon
 category: trendy
 pubDate: '2026-08-02T09:31:07.941Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/1920px-Caf%C3%A9_Joyeux%2C_Lyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Caf%C3%A9_Joyeux%2C_Lyon.jpg/1920px-Caf%C3%A9_Joyeux%2C_Lyon.jpg
   credit: 'Photo: TCY / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Joyeux,_Lyon.jpg

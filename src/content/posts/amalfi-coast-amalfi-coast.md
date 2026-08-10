@@ -10,7 +10,7 @@ category: attraction
 pubDate: '2026-07-26T08:35:08.369Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg
   credit: 'Photo: Bruno Rijsman / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: >-

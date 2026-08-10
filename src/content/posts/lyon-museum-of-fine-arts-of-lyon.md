@@ -6,7 +6,7 @@ region: "Lyon"
 category: "attraction"
 pubDate: "2026-08-09T09:40:39.682Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/30/MBA_Lyon_facade_jour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/3/30/MBA_Lyon_facade_jour.jpg"
   credit: "Photo: Musée des Beaux-Arts de Lyon - Photo Corentin Mossière / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:MBA_Lyon_facade_jour.jpg"

@@ -6,7 +6,7 @@ region: Clarke Quay
 category: attraction
 pubDate: '2026-07-23T07:33:17.264Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CQ_%40_Clarke_Quay_April_2024.jpg/1920px-CQ_%40_Clarke_Quay_April_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CQ_%40_Clarke_Quay_April_2024.jpg/1920px-CQ_%40_Clarke_Quay_April_2024.jpg
   credit: 'Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:CQ_@_Clarke_Quay_April_2024.jpg

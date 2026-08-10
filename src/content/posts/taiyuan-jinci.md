@@ -6,7 +6,7 @@ region: Taiyuan
 category: attraction
 pubDate: '2026-07-29T10:07:03.893Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1920px-Goddess_Temple_Jinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Goddess_Temple_Jinsi.JPG/1920px-Goddess_Temple_Jinsi.JPG
   credit: 'Photo: Gisling / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Goddess_Temple_Jinsi.JPG

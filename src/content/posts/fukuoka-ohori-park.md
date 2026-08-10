@@ -6,7 +6,7 @@ region: Fukuoka
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ohori_Park_%2830681292984%29.jpg/1920px-Ohori_Park_%2830681292984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ohori_Park_%2830681292984%29.jpg/1920px-Ohori_Park_%2830681292984%29.jpg
   credit: 'Photo: Thomas Woodtli from Zürich, Switzerland / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ohori_Park_(30681292984).jpg

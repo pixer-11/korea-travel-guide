@@ -10,7 +10,7 @@ category: hidden-gem
 pubDate: '2026-08-01T09:31:22.439Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg/1920px-Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg/1920px-Castillo_de_los_Calatravos_%2C_Parador_Nacional%2C_Alca%C3%B1iz%2C_Teruel.jpg
   credit: 'Photo: Angela Llop / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: >-

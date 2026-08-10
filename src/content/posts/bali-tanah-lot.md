@@ -6,7 +6,7 @@ region: Bali
 category: attraction
 pubDate: '2026-07-22T09:43:20.321Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg/1920px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg/1920px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Tanah_Lot,_Bali,_Indonesia,_20220827_1008_1159.jpg

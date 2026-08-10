@@ -6,7 +6,7 @@ region: Seville
 category: attraction
 pubDate: '2026-07-26T07:54:11.059Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Trascoro,_Catedral_de_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_109-111_HDR.JPG

@@ -6,7 +6,7 @@ region: Hangzhou
 category: hidden-gem
 pubDate: '2026-08-01T09:41:53.941Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lingyin_Temple%2C_Hangzhou_20161003.jpg/1920px-Lingyin_Temple%2C_Hangzhou_20161003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lingyin_Temple%2C_Hangzhou_20161003.jpg/1920px-Lingyin_Temple%2C_Hangzhou_20161003.jpg
   credit: 'Photo: Tyg728 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lingyin_Temple,_Hangzhou_20161003.jpg

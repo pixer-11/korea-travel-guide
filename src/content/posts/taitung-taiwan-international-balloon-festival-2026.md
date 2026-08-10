@@ -26,7 +26,7 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2014-08-10_Taiwan_International_Balloon_Festival_01.jpg/3840px-2014-08-10_Taiwan_International_Balloon_Festival_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2014-08-10_Taiwan_International_Balloon_Festival_01.jpg/3840px-2014-08-10_Taiwan_International_Balloon_Festival_01.jpg
   credit: 'Photo: 台湾でSamuel in Taiwan / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2014-08-10_Taiwan_International_Balloon_Festival_01.jpg

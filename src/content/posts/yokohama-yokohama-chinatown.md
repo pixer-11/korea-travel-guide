@@ -6,7 +6,7 @@ region: Yokohama
 category: attraction
 pubDate: '2026-07-26T08:32:16.140Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yokohama_Chinatown_4.jpg/1920px-Yokohama_Chinatown_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yokohama_Chinatown_4.jpg/1920px-Yokohama_Chinatown_4.jpg
   credit: 'Photo: Syced / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Yokohama_Chinatown_4.jpg

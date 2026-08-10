@@ -6,7 +6,7 @@ region: Seattle
 category: restaurant
 pubDate: '2026-07-30T10:06:17.792Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seattle_-_The_Pink_Door_01.jpg/1920px-Seattle_-_The_Pink_Door_01.jpg
   credit: 'Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_01.jpg

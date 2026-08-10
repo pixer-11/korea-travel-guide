@@ -6,7 +6,7 @@ region: New Delhi
 category: attraction
 pubDate: '2026-07-26T08:33:34.565Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/India_Gate%2C_New_Delhi_from_West.jpg/1920px-India_Gate%2C_New_Delhi_from_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/India_Gate%2C_New_Delhi_from_West.jpg/1920px-India_Gate%2C_New_Delhi_from_West.jpg
   credit: 'Photo: Nikhilb239 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg

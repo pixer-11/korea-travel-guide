@@ -6,7 +6,7 @@ region: Bodrum
 category: hidden-gem
 pubDate: '2026-07-28T10:06:24.831Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bodrum_Castle_%282017%29.jpg/1920px-Bodrum_Castle_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bodrum_Castle_%282017%29.jpg/1920px-Bodrum_Castle_%282017%29.jpg
   credit: 'Photo: Serhio Magpie / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg

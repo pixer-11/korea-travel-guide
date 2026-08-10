@@ -6,12 +6,12 @@ region: Chuncheon
 category: attraction
 pubDate: '2026-07-26T07:13:50.900Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gapyeong-Nami_Island_Ferry.jpg/1920px-Gapyeong-Nami_Island_Ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gapyeong-Nami_Island_Ferry.jpg/1920px-Gapyeong-Nami_Island_Ferry.jpg
   credit: 'Photo: Minseong Kim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Winter_Sonata_Nami_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Winter_Sonata_Nami_Island.jpg
     credit: 'Photo: Penmerahpenbiru / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Winter_Sonata_Nami_Island.jpg

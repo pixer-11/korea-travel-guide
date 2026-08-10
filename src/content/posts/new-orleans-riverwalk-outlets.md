@@ -6,7 +6,7 @@ region: "New Orleans"
 category: "attraction"
 pubDate: "2026-08-08T08:10:59.035Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg/1920px-Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg/1920px-Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg"
   credit: "Photo: Jeremy Thompson / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg"

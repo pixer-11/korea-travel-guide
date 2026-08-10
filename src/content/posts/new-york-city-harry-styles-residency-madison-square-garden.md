@@ -26,7 +26,7 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg
   credit: 'Photo: Wilnel José Verdú Guerrero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Harry-Styles-en-Barcelona,-Love-On-Tour.jpg

@@ -6,12 +6,12 @@ region: New York
 category: attraction
 pubDate: '2026-08-05T11:04:33.004Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg/1920px-Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg/1920px-Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows%2C_New_York_City.jpg
   credit: 'Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Interior_of_the_One_World_Observatory_with_visitors_backlit_against_the_windows,_New_York_City.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg/3840px-Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg/3840px-Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory%2C_New_York_City.jpg
     credit: 'Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Panorama_of_Midtown_Manhattan_from_the_One_World_Observatory,_New_York_City.jpg

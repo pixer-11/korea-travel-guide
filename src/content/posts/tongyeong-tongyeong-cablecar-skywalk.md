@@ -5,7 +5,7 @@ region: Tongyeong
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg/1920px-Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg/1920px-Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg
   credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Hallyeo_Waterway_Observation_Cable_Car-01.jpg

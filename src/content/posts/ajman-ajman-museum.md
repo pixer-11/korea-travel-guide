@@ -10,7 +10,7 @@ category: attraction
 pubDate: '2026-07-23T07:49:05.069Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ajman_Museum%2C_2007_%2803%29.jpg/1920px-Ajman_Museum%2C_2007_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ajman_Museum%2C_2007_%2803%29.jpg/1920px-Ajman_Museum%2C_2007_%2803%29.jpg
   credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Ajman_Museum,_2007_(03).jpg'

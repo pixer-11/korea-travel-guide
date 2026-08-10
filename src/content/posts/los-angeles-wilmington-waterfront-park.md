@@ -6,7 +6,7 @@ region: Los Angeles
 category: attraction
 pubDate: '2026-08-09T08:16:15.361Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg
   credit: 'Photo: Dylan Avery / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Wilmington_Waterfront_Park_Fountains.jpg

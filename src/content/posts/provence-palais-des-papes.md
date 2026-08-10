@@ -6,7 +6,7 @@ region: Provence
 category: attraction
 pubDate: '2026-07-26T07:02:37.481Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg/1920px-Palais_des_Papes%2C_Avignon%2C_Provence%2C_France_%286053013706%29.jpg
   credit: 'Photo: Michal Osmenda from Brussels, Belgium / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Palais_des_Papes,_Avignon,_Provence,_France_(6053013706).jpg

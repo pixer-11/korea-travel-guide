@@ -6,7 +6,7 @@ region: Hoi An
 category: attraction
 pubDate: '2026-07-22T09:27:52.164Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024-12-20_Japanese_Bridge_in_Hoi_An.jpg/1920px-2024-12-20_Japanese_Bridge_in_Hoi_An.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024-12-20_Japanese_Bridge_in_Hoi_An.jpg/1920px-2024-12-20_Japanese_Bridge_in_Hoi_An.jpg
   credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2024-12-20_Japanese_Bridge_in_Hoi_An.jpg

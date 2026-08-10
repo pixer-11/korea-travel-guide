@@ -6,7 +6,7 @@ region: Xi'an
 category: attraction
 pubDate: '2026-07-26T08:34:32.273Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tang_Paradise_2024_04.jpg/1920px-Tang_Paradise_2024_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tang_Paradise_2024_04.jpg/1920px-Tang_Paradise_2024_04.jpg
   credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_04.jpg

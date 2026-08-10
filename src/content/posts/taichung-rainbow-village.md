@@ -6,7 +6,7 @@ region: Taichung
 category: attraction
 pubDate: '2026-07-26T07:15:33.080Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Taichung_Rainbow_Village_45.jpg/1920px-Taichung_Rainbow_Village_45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Taichung_Rainbow_Village_45.jpg/1920px-Taichung_Rainbow_Village_45.jpg
   credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Taichung_Rainbow_Village_45.jpg

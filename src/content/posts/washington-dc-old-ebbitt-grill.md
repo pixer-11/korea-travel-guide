@@ -6,7 +6,7 @@ region: "Washington DC"
 category: "restaurant"
 pubDate: "2026-08-06T10:18:25.997Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Old_Ebbitt_Grill.jpg/1920px-Old_Ebbitt_Grill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Old_Ebbitt_Grill.jpg/1920px-Old_Ebbitt_Grill.jpg"
   credit: "Photo: dbking / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Old_Ebbitt_Grill.jpg"

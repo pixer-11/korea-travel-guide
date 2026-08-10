@@ -6,7 +6,7 @@ region: Shanghai
 category: attraction
 pubDate: '2026-08-03T11:09:36.136Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shanghai_-_Yu_Garden_-_0035.jpg/1920px-Shanghai_-_Yu_Garden_-_0035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shanghai_-_Yu_Garden_-_0035.jpg/1920px-Shanghai_-_Yu_Garden_-_0035.jpg
   credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg

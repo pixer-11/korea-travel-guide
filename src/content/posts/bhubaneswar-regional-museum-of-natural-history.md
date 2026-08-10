@@ -6,7 +6,7 @@ region: Bhubaneswar
 category: hidden-gem
 pubDate: '2026-08-01T09:30:19.146Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Regional_Museum_of_Natural_History_Bhubaneswar.jpg/1920px-Regional_Museum_of_Natural_History_Bhubaneswar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Regional_Museum_of_Natural_History_Bhubaneswar.jpg/1920px-Regional_Museum_of_Natural_History_Bhubaneswar.jpg
   credit: 'Photo: Hellohappy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Regional_Museum_of_Natural_History_Bhubaneswar.jpg

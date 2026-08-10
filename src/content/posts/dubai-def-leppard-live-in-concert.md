@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Def_Leppard_2018.jpg/1920px-Def_Leppard_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Def_Leppard_2018.jpg/1920px-Def_Leppard_2018.jpg
   credit: 'Photo: Kevin Nixon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Def_Leppard_2018.jpg

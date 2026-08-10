@@ -6,7 +6,7 @@ region: Granada
 category: attraction
 pubDate: '2026-07-30T09:53:54.812Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/1920px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/1920px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg
   credit: 'Photo: Daderot / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Patio_de_la_Acequia_(Generalife)_-_DSC07863_(slightly_cropped_and_sharpened).jpg

@@ -6,7 +6,7 @@ region: Hyderabad
 category: attraction
 pubDate: '2026-07-27T10:54:49.595Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chowmahalla_Palace_01.jpg

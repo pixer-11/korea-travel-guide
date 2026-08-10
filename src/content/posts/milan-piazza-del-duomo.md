@@ -6,7 +6,7 @@ region: Milan
 category: attraction
 pubDate: '2026-07-26T08:24:19.470Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Milan_2_Piazza_Duomo_21-11-2021.jpg/1920px-Milan_2_Piazza_Duomo_21-11-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Milan_2_Piazza_Duomo_21-11-2021.jpg/1920px-Milan_2_Piazza_Duomo_21-11-2021.jpg
   credit: 'Photo: Jeanne Griffin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Milan_2_Piazza_Duomo_21-11-2021.jpg

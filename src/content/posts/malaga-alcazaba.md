@@ -6,7 +6,7 @@ region: Malaga
 category: attraction
 pubDate: '2026-07-26T07:11:31.034Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alcazaba%2C_Malaga_%28DSC02867-Pano%29.jpg/1920px-Alcazaba%2C_Malaga_%28DSC02867-Pano%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alcazaba%2C_Malaga_%28DSC02867-Pano%29.jpg/1920px-Alcazaba%2C_Malaga_%28DSC02867-Pano%29.jpg
   credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Alcazaba,_Malaga_(DSC02867-Pano).jpg

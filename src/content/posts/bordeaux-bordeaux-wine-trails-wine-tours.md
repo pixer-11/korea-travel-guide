@@ -6,7 +6,7 @@ region: Bordeaux
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg/1920px-Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg/1920px-Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg
   credit: 'Photo: Grand Parc - Bordeaux, France from France / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_(8036043381).jpg

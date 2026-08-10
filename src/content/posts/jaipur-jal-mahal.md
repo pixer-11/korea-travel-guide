@@ -6,7 +6,7 @@ region: Jaipur
 category: hidden-gem
 pubDate: '2026-07-31T10:16:15.663Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg/1920px-Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg/1920px-Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg
   credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg

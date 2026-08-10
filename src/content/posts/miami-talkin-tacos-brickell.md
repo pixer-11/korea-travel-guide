@@ -6,7 +6,7 @@ region: Miami
 category: restaurant
 pubDate: '2026-08-01T09:32:51.282Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg/1920px-Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg/1920px-Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg
   credit: 'Photo: Phillip Pessar / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida,_December_2023.jpg

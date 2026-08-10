@@ -6,7 +6,7 @@ region: Gyeongju
 category: hidden-gem
 pubDate: '2026-07-24T22:20:30.109Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Donggung_Palace_01.jpg/1920px-Donggung_Palace_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Donggung_Palace_01.jpg/1920px-Donggung_Palace_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Donggung_Palace_01.jpg

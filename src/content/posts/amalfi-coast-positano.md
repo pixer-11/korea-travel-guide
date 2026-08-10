@@ -6,7 +6,7 @@ region: Amalfi Coast
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Positano_%28Italy%29_04.jpg/1920px-Positano_%28Italy%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Positano_%28Italy%29_04.jpg/1920px-Positano_%28Italy%29_04.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_04.jpg

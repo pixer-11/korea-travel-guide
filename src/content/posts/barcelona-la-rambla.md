@@ -6,7 +6,7 @@ region: Barcelona
 category: hidden-gem
 pubDate: '2026-08-04T10:17:35.131Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg/1920px-Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg/1920px-Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg
   credit: 'Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Barcelona_-_Rambla_dels_Caputxins_-_View_SSE.jpg

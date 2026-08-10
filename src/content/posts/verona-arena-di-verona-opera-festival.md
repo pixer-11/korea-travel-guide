@@ -12,7 +12,7 @@ eventStartDate: '2026-08-05'
 eventEndDate: '2026-09-12'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Verona_-_Arena_di_Verona.jpeg/3840px-Verona_-_Arena_di_Verona.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Verona_-_Arena_di_Verona.jpeg/3840px-Verona_-_Arena_di_Verona.jpeg
   credit: 'Photo: Elenadebiasi / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Verona_-_Arena_di_Verona.jpeg'

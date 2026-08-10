@@ -6,7 +6,7 @@ region: Turin
 category: attraction
 pubDate: '2026-07-26T07:46:41.524Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg/1920px-Museo_Egizio_e_Galleria_sabauda%2C_Torino.jpg
   credit: 'Photo: Georgius LXXXIX at Italian Wikipedia / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Museo_Egizio_e_Galleria_sabauda,_Torino.jpg

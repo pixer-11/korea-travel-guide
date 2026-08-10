@@ -6,7 +6,7 @@ region: Cannes
 category: hidden-gem
 pubDate: '2026-07-28T10:02:03.059Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vue_de_Cannes_depuis_le_Suquet.JPG/1920px-Vue_de_Cannes_depuis_le_Suquet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vue_de_Cannes_depuis_le_Suquet.JPG/1920px-Vue_de_Cannes_depuis_le_Suquet.JPG
   credit: 'Photo: Alberto Fernandez Fernandez / Wikimedia Commons (CC BY 2.5)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Vue_de_Cannes_depuis_le_Suquet.JPG

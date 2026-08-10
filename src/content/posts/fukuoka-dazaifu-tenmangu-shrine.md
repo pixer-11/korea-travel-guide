@@ -6,7 +6,7 @@ region: Fukuoka
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg/1920px-Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg/1920px-Honden_Dazaifu_Tenmangu_Shrine_%2815558158424%29.jpg
   credit: 'Photo: redlegsfan21 / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Honden_Dazaifu_Tenmangu_Shrine_(15558158424).jpg

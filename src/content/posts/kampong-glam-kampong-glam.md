@@ -6,7 +6,7 @@ region: Kampong Glam
 category: hidden-gem
 pubDate: '2026-07-23T07:38:55.463Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/1920px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg/1920px-Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg
   credit: 'Photo: Robert Sim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Kampong_Glam_aerial_shot_-_20250628_-_RSKY.jpg

@@ -8,7 +8,7 @@ pubDate: '2026-07-21'
 eventStartDate: '2026-07-31'
 eventEndDate: '2026-08-05'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg/3840px-Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg/3840px-Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg
   credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg

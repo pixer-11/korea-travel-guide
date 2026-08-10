@@ -6,7 +6,7 @@ region: Bangkok
 category: attraction
 pubDate: '2026-08-05T11:03:26.256Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg/1920px-Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg/1920px-Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg
   credit: 'Photo: Ronit Bhattacharjee / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg

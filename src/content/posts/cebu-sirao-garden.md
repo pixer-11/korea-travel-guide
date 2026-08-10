@@ -6,7 +6,7 @@ region: Cebu
 category: hidden-gem
 pubDate: '2026-07-28T10:04:48.403Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cebu_Sirao_Garden.jpg/1920px-Cebu_Sirao_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cebu_Sirao_Garden.jpg/1920px-Cebu_Sirao_Garden.jpg
   credit: 'Photo: Kabu Sawsaw / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cebu_Sirao_Garden.jpg

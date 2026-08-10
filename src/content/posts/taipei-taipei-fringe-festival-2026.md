@@ -27,7 +27,7 @@ draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg/3840px-Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg/3840px-Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg
   credit: 'Photo: Solomon203 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg

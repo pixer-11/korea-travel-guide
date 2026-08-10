@@ -6,7 +6,7 @@ region: "Ayutthaya"
 category: "attraction"
 pubDate: "2026-08-06T10:21:17.084Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bueng_Phra_Ram.jpg/3840px-Bueng_Phra_Ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bueng_Phra_Ram.jpg/3840px-Bueng_Phra_Ram.jpg"
   credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Bueng_Phra_Ram.jpg"

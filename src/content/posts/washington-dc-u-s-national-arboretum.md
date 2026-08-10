@@ -6,7 +6,7 @@ region: Washington DC
 category: hidden-gem
 pubDate: '2026-07-28T10:09:11.999Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg/1920px-National_Capitol_Columns_-_Washington%2C_D.C..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg/1920px-National_Capitol_Columns_-_Washington%2C_D.C..jpg
   credit: 'Photo: APK / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:National_Capitol_Columns_-_Washington,_D.C..jpg

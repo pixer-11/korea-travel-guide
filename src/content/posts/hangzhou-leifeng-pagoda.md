@@ -6,7 +6,7 @@ region: Hangzhou
 category: attraction
 pubDate: '2026-07-27T11:00:03.738Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg
   credit: 'Photo: David290 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_DJI_0593_(2).jpg

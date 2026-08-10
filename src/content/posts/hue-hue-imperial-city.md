@@ -6,7 +6,7 @@ region: Hue
 category: attraction
 pubDate: '2026-07-22T09:29:23.776Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg/1920px-Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg/1920px-Gate_in_Imperial_City%2C_Hu%E1%BA%BF_%28III%29.jpg
   credit: 'Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gate_in_Imperial_City,_Hu%E1%BA%BF_(III).jpg

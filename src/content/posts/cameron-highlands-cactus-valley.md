@@ -6,12 +6,12 @@ region: Cameron Highlands
 category: attraction
 pubDate: "2026-08-10T09:10:16.021Z"
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg
   credit: "Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA 2.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_(35398159902).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_%2835527487526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_%2835527487526%29.jpg
     credit: "Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA 2.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_(35527487526).jpg

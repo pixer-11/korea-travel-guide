@@ -6,7 +6,7 @@ region: "Lyon"
 category: "attraction"
 pubDate: "2026-08-10T08:56:07.317Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG"
   credit: "Photo: Simlaurent / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Jardin_alpin_lyon.JPG"

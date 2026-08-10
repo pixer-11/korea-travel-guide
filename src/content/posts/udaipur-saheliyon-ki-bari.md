@@ -6,7 +6,7 @@ region: Udaipur
 category: attraction
 pubDate: '2026-07-26T08:27:19.913Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saheliyon-ki-Bari_%28Udaipur%29.jpg/1920px-Saheliyon-ki-Bari_%28Udaipur%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saheliyon-ki-Bari_%28Udaipur%29.jpg/1920px-Saheliyon-ki-Bari_%28Udaipur%29.jpg
   credit: 'Photo: Kshitiz Sikka / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Saheliyon-ki-Bari_(Udaipur).jpg

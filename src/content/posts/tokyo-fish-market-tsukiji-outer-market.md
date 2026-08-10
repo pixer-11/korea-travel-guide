@@ -6,7 +6,7 @@ region: Tokyo
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg/1920px-Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg/1920px-Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg
   credit: 'Photo: sodai gomi / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Tsukiji_Outer_Market_-_where_retail_shops_are_Historical_photo_of_Tsukiji_fish_market_2005.jpg

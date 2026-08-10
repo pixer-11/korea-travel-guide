@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_2012.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG/3840px-Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG/3840px-Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG
     credit: 'Photo: Kremerbi / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_Wall_of_Mobsters.JPG

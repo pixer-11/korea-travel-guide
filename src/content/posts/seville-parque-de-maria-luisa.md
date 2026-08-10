@@ -6,12 +6,12 @@ region: Seville
 category: hidden-gem
 pubDate: '2026-08-04T10:13:13.132Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg/1920px-Parque_de_Mar%C3%ADa_Luisa_%282%29.jpg
   credit: 'Photo: Gzzz / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa_(2).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg/3840px-Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg/3840px-Parque_de_Mar%C3%ADa_Luisa%2C_Sevilla%2C_Oct_1999_-_03.jpg
     credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Parque_de_Mar%C3%ADa_Luisa,_Sevilla,_Oct_1999_-_03.jpg

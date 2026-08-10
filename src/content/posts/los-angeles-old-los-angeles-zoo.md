@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Griffith_Park_Zoo_(B9957).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dick%2C_singe_du_zoo_de_Los_Angeles_%28devant_un_standard_t%C3%A9l%C3%A9phonique%29_%28Pacific%29_-_btv1b53207414w.jpg/3840px-Dick%2C_singe_du_zoo_de_Los_Angeles_%28devant_un_standard_t%C3%A9l%C3%A9phonique%29_%28Pacific%29_-_btv1b53207414w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dick%2C_singe_du_zoo_de_Los_Angeles_%28devant_un_standard_t%C3%A9l%C3%A9phonique%29_%28Pacific%29_-_btv1b53207414w.jpg/3840px-Dick%2C_singe_du_zoo_de_Los_Angeles_%28devant_un_standard_t%C3%A9l%C3%A9phonique%29_%28Pacific%29_-_btv1b53207414w.jpg
     credit: 'Photo: Pacific and Atlantic (Agence photographique). Agence photographique pour le document reproduit (commanditaire) Agence Rol. Agence photographique (commanditaire) / Wikimedia Commons (Public domain)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Dick,_singe_du_zoo_de_Los_Angeles_(devant_un_standard_t%C3%A9l%C3%A9phonique)_(Pacific)_-_btv1b53207414w.jpg

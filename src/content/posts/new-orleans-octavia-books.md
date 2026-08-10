@@ -6,7 +6,7 @@ region: "New Orleans"
 category: "hidden-gem"
 pubDate: "2026-08-08T08:07:02.632Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Moira_Crone_at_Octavia_Books_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Moira_Crone_at_Octavia_Books_June_2012.jpg"
   credit: "Photo: Bart Everson / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Moira_Crone_at_Octavia_Books_June_2012.jpg"

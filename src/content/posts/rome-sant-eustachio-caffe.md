@@ -6,7 +6,7 @@ region: Rome
 category: trendy
 pubDate: '2026-07-26T07:05:24.301Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Caff%C3%A8_Sant_Eustacchio.jpg/1920px-Caff%C3%A8_Sant_Eustacchio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Caff%C3%A8_Sant_Eustacchio.jpg/1920px-Caff%C3%A8_Sant_Eustacchio.jpg
   credit: 'Photo: Jerry Michalski / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Sant_Eustacchio.jpg

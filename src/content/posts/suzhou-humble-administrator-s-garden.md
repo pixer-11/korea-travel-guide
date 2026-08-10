@@ -6,7 +6,7 @@ region: Suzhou
 category: hidden-gem
 pubDate: '2026-08-01T09:45:37.935Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg/1920px-Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg/1920px-Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg
   credit: 'Photo: Zhangzhugang / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg

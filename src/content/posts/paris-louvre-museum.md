@@ -6,7 +6,7 @@ region: Paris
 category: attraction
 pubDate: '2026-08-01T09:40:41.244Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg
   credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg

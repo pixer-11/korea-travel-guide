@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg
     credit: 'Photo: Gary Todd / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum,_Wulin_Branch,_West_Lake_Cultural_Square,_Hangzhou,_China.jpg

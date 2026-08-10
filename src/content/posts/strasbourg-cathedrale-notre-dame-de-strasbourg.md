@@ -6,7 +6,7 @@ region: Strasbourg
 category: hidden-gem
 pubDate: '2026-07-30T10:21:44.415Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg/1920px-Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg
   credit: 'Photo: Andrea Griffini / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_de_Strasbourg_Steeples.jpg

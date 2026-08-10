@@ -6,7 +6,7 @@ region: New Orleans
 category: trendy
 pubDate: '2026-08-02T09:51:39.319Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caf%C3%A9_du_Monde_%2855151878663%29.jpg/1920px-Caf%C3%A9_du_Monde_%2855151878663%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Caf%C3%A9_du_Monde_%2855151878663%29.jpg/1920px-Caf%C3%A9_du_Monde_%2855151878663%29.jpg
   credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_du_Monde_(55151878663).jpg

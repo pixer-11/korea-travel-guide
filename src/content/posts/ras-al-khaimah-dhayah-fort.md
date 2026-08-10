@@ -6,7 +6,7 @@ region: Ras Al Khaimah
 category: attraction
 pubDate: '2026-07-23T07:47:35.566Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhayah_Fort_Ras_al_Khaimah.jpg/1920px-Dhayah_Fort_Ras_al_Khaimah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhayah_Fort_Ras_al_Khaimah.jpg/1920px-Dhayah_Fort_Ras_al_Khaimah.jpg
   credit: 'Photo: Mathewkurianp / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dhayah_Fort_Ras_al_Khaimah.jpg

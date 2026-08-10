@@ -6,7 +6,7 @@ region: Bengaluru
 category: hidden-gem
 pubDate: '2026-07-30T09:55:45.465Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aquarium_Paradise%2C_Bangalore_%282025%29_86.jpg/1920px-Aquarium_Paradise%2C_Bangalore_%282025%29_86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aquarium_Paradise%2C_Bangalore_%282025%29_86.jpg/1920px-Aquarium_Paradise%2C_Bangalore_%282025%29_86.jpg
   credit: 'Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Aquarium_Paradise,_Bangalore_(2025)_86.jpg

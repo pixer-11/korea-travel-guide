@@ -6,7 +6,7 @@ region: "Suzhou"
 category: "attraction"
 pubDate: "2026-08-07T08:43:38.157Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Master_of_the_Nets_Garden_Suzhou.jpg/1920px-Master_of_the_Nets_Garden_Suzhou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Master_of_the_Nets_Garden_Suzhou.jpg/1920px-Master_of_the_Nets_Garden_Suzhou.jpg"
   credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Master_of_the_Nets_Garden_Suzhou.jpg"

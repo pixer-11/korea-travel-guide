@@ -6,7 +6,7 @@ region: Singapore
 category: restaurant
 pubDate: '2026-07-26T07:02:01.168Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg/1920px-Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg/1920px-Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre%2C_Singapore_-_20070211.jpg
   credit: 'Photo: alex.ch / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Soon_Heng_Cooked_Food_at_Changi_Village_Food_Centre,_Singapore_-_20070211.jpg

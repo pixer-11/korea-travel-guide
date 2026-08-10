@@ -6,7 +6,7 @@ region: Kuala Lumpur
 category: hidden-gem
 pubDate: '2026-08-01T09:39:42.983Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/1920px-Batu_Caves_stairs_2022-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/1920px-Batu_Caves_stairs_2022-05.jpg
   credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg

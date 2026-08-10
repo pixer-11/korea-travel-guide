@@ -6,7 +6,7 @@ region: "Busan"
 category: "hidden-gem"
 pubDate: "2026-08-08T08:21:25.733Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1920px-Haeundae_Market_Busan_%2831877277538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1920px-Haeundae_Market_Busan_%2831877277538%29.jpg"
   credit: "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Haeundae_Market_Busan_(31877277538).jpg"

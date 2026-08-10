@@ -6,12 +6,12 @@ region: Bangkok
 category: trendy
 pubDate: '2026-08-05T11:06:55.494Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg/1920px-View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg/1920px-View_over_Sukhumvit_from_a_rooftop%2C_Bangkok.jpg
   credit: 'Photo: Niranjan Ramamurthy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:View_over_Sukhumvit_from_a_rooftop,_Bangkok.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bangkok_rooftop_tennis_court_2017-11_MB.jpg/3840px-Bangkok_rooftop_tennis_court_2017-11_MB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bangkok_rooftop_tennis_court_2017-11_MB.jpg/3840px-Bangkok_rooftop_tennis_court_2017-11_MB.jpg
     credit: 'Photo: Marc Baronnet / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Bangkok_rooftop_tennis_court_2017-11_MB.jpg

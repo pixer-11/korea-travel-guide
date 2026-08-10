@@ -27,7 +27,7 @@ draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
   credit: 'Photo: Brothers Le / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg

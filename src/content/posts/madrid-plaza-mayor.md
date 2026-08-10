@@ -6,7 +6,7 @@ region: Madrid
 category: attraction
 pubDate: '2026-08-02T09:50:04.608Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plaza_Mayor_de_Madrid_-_01.jpg/1920px-Plaza_Mayor_de_Madrid_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plaza_Mayor_de_Madrid_-_01.jpg/1920px-Plaza_Mayor_de_Madrid_-_01.jpg
   credit: 'Photo: Carlos Delgado / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_-_01.jpg

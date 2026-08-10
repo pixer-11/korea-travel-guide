@@ -6,7 +6,7 @@ region: "Hiroshima"
 category: "attraction"
 pubDate: "2026-08-05T11:11:18.576Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hiroshima_Peace_Memorial_Museum_2009.jpg/1920px-Hiroshima_Peace_Memorial_Museum_2009.jpg"
   credit: "Photo: Wiiii / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Museum_2009.jpg"

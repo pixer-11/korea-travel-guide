@@ -6,7 +6,7 @@ region: Lyon
 category: attraction
 pubDate: '2026-08-10T08:57:41.561Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jardin_des_Curiosit%C3%A9s_1.jpg/1920px-Jardin_des_Curiosit%C3%A9s_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jardin_des_Curiosit%C3%A9s_1.jpg/1920px-Jardin_des_Curiosit%C3%A9s_1.jpg
   credit: 'Photo: PHILDIC / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jardin_des_Curiosit%C3%A9s_1.jpg

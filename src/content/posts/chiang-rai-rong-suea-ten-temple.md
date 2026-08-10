@@ -6,7 +6,7 @@ region: Chiang Rai
 category: attraction
 pubDate: '2026-07-22T09:09:54.870Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg/1920px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg/1920px-Wat_Rong_Suea_Ten_%28Blue_Temple%2C_Chiang_Rai%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_%28October_2021%29_-_img_01.jpg
   credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Wat_Rong_Suea_Ten_(Blue_Temple,_Chiang_Rai)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99_(October_2021)_-_img_01.jpg

@@ -6,7 +6,7 @@ region: Naples
 category: attraction
 pubDate: '2026-07-26T08:29:39.979Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg/1920px-Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg/1920px-Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg
   credit: 'Photo: Derbrauni / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Catacombs_of_San_Gennaro_(Naples)_(1).jpg

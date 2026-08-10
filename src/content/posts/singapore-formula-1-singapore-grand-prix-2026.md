@@ -27,7 +27,7 @@ draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg/3840px-Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg/3840px-Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg
   credit: 'Photo: TJSRX / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg

@@ -6,12 +6,12 @@ region: New Orleans
 category: hidden-gem
 pubDate: "2026-08-07T08:46:33.100Z"
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg
   credit: "Photo: Scott Oldham / Wikimedia Commons (CC BY-SA 2.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation,_Louisiana_(Scott_Oldham).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/a/aa/Oak_Alley_Plantation_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/aa/Oak_Alley_Plantation_01.jpg
     credit: "Photo: Jeffreyareed / Wikimedia Commons (Public domain)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation_01.jpg

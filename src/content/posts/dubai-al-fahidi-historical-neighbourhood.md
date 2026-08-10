@@ -6,7 +6,7 @@ region: Dubai
 category: attraction
 pubDate: '2026-07-23T07:46:06.253Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg/1920px-Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg/1920px-Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg
   credit: 'Photo: Delta.jpg / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Al_Fahidi_Historical_Neighbourhood,_Dubai.jpg

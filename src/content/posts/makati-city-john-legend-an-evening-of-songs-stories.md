@@ -27,7 +27,7 @@ draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/81/John_Legend_by_Sachyn_Mital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/8/81/John_Legend_by_Sachyn_Mital.jpg
   credit: 'Photo: Sachyn Mital / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:John_Legend_by_Sachyn_Mital.jpg

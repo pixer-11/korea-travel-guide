@@ -6,7 +6,7 @@ region: Busan
 category: attraction
 pubDate: '2026-08-05T11:39:35.238Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/1920px-%EB%B4%84_Busan_Museum_of_Movies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/1920px-%EB%B4%84_Busan_Museum_of_Movies.jpg
   credit: 'Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:%EB%B4%84_Busan_Museum_of_Movies.jpg

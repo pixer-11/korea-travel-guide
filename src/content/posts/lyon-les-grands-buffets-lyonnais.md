@@ -6,7 +6,7 @@ region: "Lyon"
 category: "restaurant"
 pubDate: "2026-08-09T08:34:23.976Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg/3840px-Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg/3840px-Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg"
   credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg"

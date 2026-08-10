@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Gyeongju.National.Museum-02.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Gyeongju_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Gyeongju_National_Museum.jpg
     credit: 'Photo: Seaton1456 / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum.jpg

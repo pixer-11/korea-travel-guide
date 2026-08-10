@@ -6,7 +6,7 @@ region: Jinju
 category: attraction
 pubDate: '2026-07-27T11:02:16.041Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Jinju_National_Museum.jpg/1920px-The_Jinju_National_Museum.jpg
   credit: 'Photo: kangbyeongkee / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Jinju_National_Museum.jpg

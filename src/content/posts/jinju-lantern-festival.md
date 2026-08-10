@@ -11,7 +11,7 @@ eventEndDate: 2026-10-18T00:00:00.000Z
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jinju_namgang_lantern_festival.jpg/1920px-Jinju_namgang_lantern_festival.jpg
   credit: >-
     Photo: Asfreeas at Korean Wikipedia This photo was taken with Nikon D80 /
     Wikimedia Commons (CC BY 3.0)

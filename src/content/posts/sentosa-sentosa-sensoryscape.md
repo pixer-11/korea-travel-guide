@@ -6,7 +6,7 @@ region: Sentosa
 category: hidden-gem
 pubDate: '2026-07-23T07:38:23.092Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sentosa_Sensoryscape_2026.jpg/1920px-Sentosa_Sensoryscape_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sentosa_Sensoryscape_2026.jpg/1920px-Sentosa_Sensoryscape_2026.jpg
   credit: 'Photo: ScribblingGeek / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Sentosa_Sensoryscape_2026.jpg

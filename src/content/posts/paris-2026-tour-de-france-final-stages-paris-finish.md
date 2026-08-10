@@ -11,7 +11,7 @@ eventStartDate: '2026-07-24'
 eventEndDate: '2026-07-26'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paris2024_-_Women%27s_Road_Race_-_07_-_Peloton.jpg/1920px-Paris2024_-_Women%27s_Road_Race_-_07_-_Peloton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paris2024_-_Women%27s_Road_Race_-_07_-_Peloton.jpg/1920px-Paris2024_-_Women%27s_Road_Race_-_07_-_Peloton.jpg
   credit: 'Photo: Rz98 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: >-

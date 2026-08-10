@@ -6,7 +6,7 @@ region: Las Vegas
 category: attraction
 pubDate: '2026-07-26T08:26:17.746Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Stratosphere_Las_Vegas_3.jpg/1920px-Stratosphere_Las_Vegas_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Stratosphere_Las_Vegas_3.jpg/1920px-Stratosphere_Las_Vegas_3.jpg
   credit: 'Photo: Antoine Taveneaux / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Stratosphere_Las_Vegas_3.jpg

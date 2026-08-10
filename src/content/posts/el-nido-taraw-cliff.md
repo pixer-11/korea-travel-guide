@@ -6,7 +6,7 @@ region: "El Nido"
 category: "attraction"
 pubDate: "2026-08-10T09:09:30.975Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/03/Taraw_Cliff%2C_El_Nido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/0/03/Taraw_Cliff%2C_El_Nido.jpg"
   credit: "Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Taraw_Cliff,_El_Nido.jpg"

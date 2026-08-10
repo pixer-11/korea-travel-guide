@@ -6,7 +6,7 @@ country: South Korea
 category: trendy
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cheongsapo.jpg/1920px-Cheongsapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cheongsapo.jpg/1920px-Cheongsapo.jpg
   credit: 'Photo: Andrewssi2 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cheongsapo.jpg

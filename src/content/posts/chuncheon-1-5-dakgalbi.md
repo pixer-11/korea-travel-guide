@@ -6,7 +6,7 @@ region: Chuncheon
 category: restaurant
 pubDate: '2026-07-29T10:16:56.020Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg
   credit: 'Photo: Nagyman, a flickr user / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dakgalbi.jpg

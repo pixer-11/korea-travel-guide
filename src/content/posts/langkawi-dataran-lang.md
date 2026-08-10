@@ -6,7 +6,7 @@ region: Langkawi
 category: attraction
 pubDate: '2026-07-26T07:08:36.117Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg
   credit: 'Photo: Bernard Spragg. NZ from Christchurch, New Zealand / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Langkawi_Eagle_Square_-_Dataran_Lang_(11129976185).jpg

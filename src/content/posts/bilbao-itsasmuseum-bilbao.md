@@ -6,7 +6,7 @@ region: Bilbao
 category: hidden-gem
 pubDate: '2026-07-31T10:17:50.245Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg/1920px-Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg/1920px-Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg
   credit: 'Photo: Vanbasten 23 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Interior_del_Itsasmuseum_Bilbao_-_Vista_general.jpg

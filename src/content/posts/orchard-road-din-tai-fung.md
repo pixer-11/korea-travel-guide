@@ -6,7 +6,7 @@ region: Orchard Road
 category: restaurant
 pubDate: '2026-08-07T08:42:57.985Z'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Din_Tai_Fung_at_Plaza_Singapura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Din_Tai_Fung_at_Plaza_Singapura.jpg
     credit: 'Photo: Choo Yut Shing / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Din_Tai_Fung_at_Plaza_Singapura.jpg

@@ -6,7 +6,7 @@ region: "New Orleans"
 category: "restaurant"
 pubDate: "2026-08-08T08:04:49.845Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg"
   credit: "Photo: T.Tseng / Wikimedia Commons (CC BY 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Couchon_Butcher_Restaurant,_New_Orleans_-_Cochon_Muffaletta.jpg"

@@ -6,7 +6,7 @@ region: Chiang Mai
 category: attraction
 pubDate: '2026-07-22T09:06:52.507Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg/1920px-20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg/1920px-20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg

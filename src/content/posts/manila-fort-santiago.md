@@ -6,7 +6,7 @@ region: Manila
 category: attraction
 pubDate: '2026-08-01T09:27:46.061Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fort_Santiago_%28Manila%29%2C_2018_%2801%29.jpg/1920px-Fort_Santiago_%28Manila%29%2C_2018_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fort_Santiago_%28Manila%29%2C_2018_%2801%29.jpg/1920px-Fort_Santiago_%28Manila%29%2C_2018_%2801%29.jpg
   credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Fort_Santiago_(Manila),_2018_(01).jpg

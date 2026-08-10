@@ -12,7 +12,7 @@ eventStartDate: '2026-09-22'
 eventEndDate: '2026-09-22'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/1920px-Post_Malone_July_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/1920px-Post_Malone_July_2021.jpg
   credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg'

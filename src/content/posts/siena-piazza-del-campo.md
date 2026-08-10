@@ -6,7 +6,7 @@ region: Siena
 category: hidden-gem
 pubDate: '2026-07-31T10:09:05.405Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_del_Campo_2014_01.jpg/1920px-Piazza_del_Campo_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_del_Campo_2014_01.jpg/1920px-Piazza_del_Campo_2014_01.jpg
   credit: 'Photo: Perituss / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Piazza_del_Campo_2014_01.jpg

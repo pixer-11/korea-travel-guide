@@ -6,7 +6,7 @@ region: "Sun Moon Lake"
 category: "attraction"
 pubDate: "2026-08-10T09:11:42.221Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg"
   credit: "Photo: S099001 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Year_of_Steps_at_Wenwu_Temple.jpg"

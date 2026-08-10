@@ -11,7 +11,7 @@ heroImage:
   license: openverse-cc
   source: https://www.flickr.com/photos/15216811@N06/11590590754
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg/3840px-Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg/3840px-Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg
     credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Piazza_Sannazzaro,_Naples_-_City_Sightseeing_Napoli_(7592947440).jpg

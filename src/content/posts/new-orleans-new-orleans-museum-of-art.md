@@ -6,7 +6,7 @@ region: "New Orleans"
 category: "attraction"
 pubDate: "2026-08-08T08:10:12.910Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Orleans_Museum_of_Art_%2855143750313%29.jpg/1920px-New_Orleans_Museum_of_Art_%2855143750313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Orleans_Museum_of_Art_%2855143750313%29.jpg/1920px-New_Orleans_Museum_of_Art_%2855143750313%29.jpg"
   credit: "Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:New_Orleans_Museum_of_Art_(55143750313).jpg"

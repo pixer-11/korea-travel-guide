@@ -6,7 +6,7 @@ region: "Barcelona"
 category: "attraction"
 pubDate: "2026-08-07T08:34:23.404Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg"
   credit: "Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg"

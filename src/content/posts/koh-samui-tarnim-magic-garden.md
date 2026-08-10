@@ -6,7 +6,7 @@ region: Koh Samui
 category: attraction
 pubDate: '2026-07-22T09:09:26.082Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Statues_at_Tarnim_Magic_Garden_in_Ko_Samui.jpg/1920px-Statues_at_Tarnim_Magic_Garden_in_Ko_Samui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Statues_at_Tarnim_Magic_Garden_in_Ko_Samui.jpg/1920px-Statues_at_Tarnim_Magic_Garden_in_Ko_Samui.jpg
   credit: 'Photo: Superraptor123 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Statues_at_Tarnim_Magic_Garden_in_Ko_Samui.jpg

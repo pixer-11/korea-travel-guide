@@ -11,7 +11,7 @@ eventStartDate: '2026-08-28'
 eventEndDate: '2026-08-29'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kodaline_2015.jpg/1920px-Kodaline_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kodaline_2015.jpg/1920px-Kodaline_2015.jpg
   credit: 'Photo: Kathi Rudminat / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Kodaline_2015.jpg'

@@ -6,7 +6,7 @@ region: Pamukkale
 category: attraction
 pubDate: '2026-07-26T07:52:30.809Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg/1920px-Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg/1920px-Hierapolis_Archaeology_Museum%2C_Turkey_%2831595600163%29.jpg
   credit: 'Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg

@@ -27,7 +27,7 @@ draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/de/Valarie_Allman_at_2025_World_Athletics_Championships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/d/de/Valarie_Allman_at_2025_World_Athletics_Championships.jpg
   credit: 'Photo: LeeMNichols / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Valarie_Allman_at_2025_World_Athletics_Championships.jpg

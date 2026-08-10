@@ -6,7 +6,7 @@ region: "Miami"
 category: "restaurant"
 pubDate: "2026-08-06T10:16:32.608Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Joe%27s_Stone_Crab_entrance.jpg/3840px-Joe%27s_Stone_Crab_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Joe%27s_Stone_Crab_entrance.jpg/3840px-Joe%27s_Stone_Crab_entrance.jpg"
   credit: "Photo: Cullen328 / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Joe%27s_Stone_Crab_entrance.jpg"

@@ -706,7 +706,13 @@ main { flex: 1; width: 100%; }
 
 /* Image lightbox: article photos open enlarged in a native <dialog>. */
 .article-hero img, .gallery img { cursor: zoom-in; }
-#img-lightbox { border: none; border-radius: var(--r-lg); padding: 0; background: var(--surface, #fff); max-width: min(96vw, 1400px); max-height: 92vh; overflow: hidden; }
+/* margin:auto is what centres an open <dialog> — the browser's own UA stylesheet
+   sets it, and our `* { margin: 0 }` reset (line ~103) was silently winning, so
+   every enlarged photo opened pinned to the top-left corner instead of the
+   middle of the screen (owner report, 2026-08-10). Restated here rather than
+   exempting dialog from the reset, so the reset stays one rule with no
+   exceptions to remember. */
+#img-lightbox { margin: auto; border: none; border-radius: var(--r-lg); padding: 0; background: var(--surface, #fff); max-width: min(96vw, 1400px); max-height: 92vh; overflow: hidden; }
 #img-lightbox::backdrop { background: rgba(15, 12, 8, 0.82); }
 #img-lightbox img { display: block; max-width: min(96vw, 1400px); max-height: calc(92vh - 3rem); width: auto; height: auto; object-fit: contain; }
 #img-lightbox .lb-credit { margin: 0; padding: 0.55rem 1rem; font-size: 0.8rem; color: var(--muted); background: var(--surface-2); }

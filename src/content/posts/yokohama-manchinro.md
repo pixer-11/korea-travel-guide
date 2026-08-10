@@ -6,7 +6,7 @@ region: Yokohama
 category: restaurant
 pubDate: '2026-07-26T07:56:04.606Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manchinro.JPG/1920px-Manchinro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manchinro.JPG/1920px-Manchinro.JPG
   credit: 'Photo: Abasaa / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Manchinro.JPG

@@ -6,7 +6,7 @@ region: "New York"
 category: "attraction"
 pubDate: "2026-08-05T11:00:45.933Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/1920px-Habs_castle_clinton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/1920px-Habs_castle_clinton.jpg"
   credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Habs_castle_clinton.jpg"

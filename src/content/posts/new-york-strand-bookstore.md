@@ -6,7 +6,7 @@ region: "New York"
 category: "hidden-gem"
 pubDate: "2026-08-07T09:03:34.889Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Strand_Bookstore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Strand_Bookstore.jpg"
   credit: "Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Strand_Bookstore.jpg"

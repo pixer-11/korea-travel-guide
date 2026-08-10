@@ -6,7 +6,7 @@ region: Chicago
 category: restaurant
 pubDate: '2026-08-03T11:01:35.921Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg/1920px-Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg/1920px-Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg
   credit: 'Photo: Leonard J. DeFrancisci / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Billy_Goat_Tavern_(430_North_Michigan_Avenue,_Chicago,_Illinois)_001.jpg

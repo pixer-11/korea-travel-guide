@@ -10,6 +10,24 @@ const UA =
 const stripHtml = (s = '') =>
   String(s).replace(/<[^>]+>/g, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
 
+/**
+ * The Commons API appends its own campaign query to every image URL it returns:
+ *   …/1920px-Foo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo…
+ * Stored verbatim, that tail reaches the reader's browser — where content
+ * blockers see utm_source/utm_campaign/utm_content and cancel the request. The
+ * server answers 200 to curl and the reader still gets an empty frame, which is
+ * why this hid for so long: 477 of 860 guides had a blocked hero on 2026-08-10,
+ * and only body photos (which never carried the tail) still loaded.
+ *
+ * It was found once before, on 2026-08-04, and repaired in 24 posts by
+ * scripts/normalize-wikimedia-heroes.mjs — but the SOURCE kept re-adding it, so
+ * 24 became 477 in six days. That is the reason this lives here, at the one
+ * place every Commons URL enters the codebase, rather than in another sweeper.
+ * Wikimedia serves the identical file without the query.
+ */
+export const cleanCommonsUrl = (u) =>
+  String(u ?? '').replace(/\?utm_source=commons\.wikimedia\.org(?:&utm_[a-z]+=[A-Za-z0-9_.-]*)*/g, '');
+
 export const tokens = (s = '') =>
   String(s)
     .toLowerCase()
@@ -177,7 +195,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
       return {
         title,
         index: p.index ?? 999,
-        url: ii.thumburl || ii.url,
+        url: cleanCommonsUrl(ii.thumburl || ii.url),
         w: ii.thumbwidth || ii.width || 0,
         h: ii.thumbheight || ii.height || 0,
         featured: /featured|quality|valued/.test(assessment),
@@ -318,7 +336,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   const h = ii.thumbheight || ii.height || 0;
   if (w && w < minWidth) return null;
   if (w && h && w < h * 0.95) return null; // heroes need a landscape banner
-  const url = ii.thumburl || ii.url;
+  const url = cleanCommonsUrl(ii.thumburl || ii.url);
   if (!url || (used && used.has(url))) return null;
   const artist = stripHtml(em.Artist?.value) || 'Wikimedia Commons contributor';
   return {

@@ -12,7 +12,7 @@ eventEndDate: 2026-12-27T00:00:00.000Z
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Strasbourg_Christmas_market_%2851228458506%29.jpg/1920px-Strasbourg_Christmas_market_%2851228458506%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Strasbourg_Christmas_market_%2851228458506%29.jpg/1920px-Strasbourg_Christmas_market_%2851228458506%29.jpg
   credit: 'Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: >-

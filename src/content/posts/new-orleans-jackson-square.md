@@ -6,7 +6,7 @@ region: New Orleans
 category: attraction
 pubDate: '2026-07-26T08:31:39.029Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jackson_Square.jpg/1920px-Jackson_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jackson_Square.jpg/1920px-Jackson_Square.jpg
   credit: 'Photo: Clark Mills / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jackson_Square.jpg

@@ -6,7 +6,7 @@ region: Hong Kong
 category: restaurant
 pubDate: '2026-08-02T09:37:13.741Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/1920px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/1920px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg
   credit: 'Photo: AASJAJDHagb HUYING / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg

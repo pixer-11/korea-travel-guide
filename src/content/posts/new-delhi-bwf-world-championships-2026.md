@@ -26,7 +26,7 @@ faq:
 aiGenerated: true
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg
   credit: 'Photo: Alistaircasey / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Alistair_Casey_-_2007_BWF_World_Championships.jpg

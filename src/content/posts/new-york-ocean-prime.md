@@ -6,7 +6,7 @@ region: New York
 category: restaurant
 pubDate: "2026-08-06T10:05:23.193Z"
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg
   credit: "Photo: Lauren Topor from Phoenix / Wikimedia Commons (CC BY 2.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ocean_Prime_Phoenix_(33119074285).jpg

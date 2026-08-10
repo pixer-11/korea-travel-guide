@@ -27,7 +27,7 @@ draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg/1920px-IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg/1920px-IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
   credit: 'Photo: Qhairy / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg

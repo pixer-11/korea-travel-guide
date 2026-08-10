@@ -11,7 +11,7 @@ eventStartDate: '2026-09-20'
 eventEndDate: '2026-09-24'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg/3840px-Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg/3840px-Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_%281%29_20240921_11.jpg
   credit: 'Photo: Aniol / Wikimedia Commons (CC0)'
   license: wikimedia
   source: >-

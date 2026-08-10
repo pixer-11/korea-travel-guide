@@ -26,7 +26,7 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg/3840px-Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg/3840px-Comic_Market_92_Day_3-_Cosplayers_%2838738505232%29.jpg
   credit: 'Photo: Dick Thomas Johnson from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Comic_Market_92_Day_3-_Cosplayers_(38738505232).jpg

@@ -6,7 +6,7 @@ region: Bordeaux
 category: hidden-gem
 pubDate: '2026-07-30T10:19:47.900Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bordeaux_Miroir_001.jpg/1920px-Bordeaux_Miroir_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bordeaux_Miroir_001.jpg/1920px-Bordeaux_Miroir_001.jpg
   credit: 'Photo: Olivier Aumage / Wikimedia Commons (CC BY-SA 2.5)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bordeaux_Miroir_001.jpg

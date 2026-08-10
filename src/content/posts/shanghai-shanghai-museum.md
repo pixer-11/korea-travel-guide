@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shanghai_Museum_exterior_1.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Shanghai_East_Museum_-_54133196051.jpg/3840px-Shanghai_East_Museum_-_54133196051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Shanghai_East_Museum_-_54133196051.jpg/3840px-Shanghai_East_Museum_-_54133196051.jpg
     credit: 'Photo: viatorimperi / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Shanghai_East_Museum_-_54133196051.jpg

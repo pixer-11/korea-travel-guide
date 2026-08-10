@@ -6,7 +6,7 @@ region: "Valencia"
 category: "attraction"
 pubDate: "2026-08-05T11:40:46.244Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Puerta_de_los_Serranos%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_86.JPG/1920px-Puerta_de_los_Serranos%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_86.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Puerta_de_los_Serranos%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_86.JPG/1920px-Puerta_de_los_Serranos%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_86.JPG"
   credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Puerta_de_los_Serranos,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_86.JPG"

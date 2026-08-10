@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_(49081929146).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg
     credit: 'Photo: Diliff / Wikimedia Commons (CC BY 2.5)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_Barcelona,_Spain_-_Jan_2007.jpg

@@ -6,7 +6,7 @@ region: "Washington DC"
 category: "restaurant"
 pubDate: "2026-08-08T08:15:20.958Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/French_Toast_Unconventional_Diner_DC.jpg/3840px-French_Toast_Unconventional_Diner_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/French_Toast_Unconventional_Diner_DC.jpg/3840px-French_Toast_Unconventional_Diner_DC.jpg"
   credit: "Photo: Kurt Kaiser / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:French_Toast_Unconventional_Diner_DC.jpg"

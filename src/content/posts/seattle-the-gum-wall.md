@@ -6,7 +6,7 @@ region: Seattle
 category: attraction
 pubDate: '2026-07-27T10:57:15.682Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/1920px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg/1920px-Gum_wall%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_19-21_HDR.jpg
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gum_wall,_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_19-21_HDR.jpg

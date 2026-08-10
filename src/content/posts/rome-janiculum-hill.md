@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Janiculum.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Janiculum_Hill%2C_Snow_in_Rome_%286823545623%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Janiculum_Hill%2C_Snow_in_Rome_%286823545623%29.jpg
     credit: 'Photo: Stefano Costantini / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Janiculum_Hill,_Snow_in_Rome_(6823545623).jpg

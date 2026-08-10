@@ -6,7 +6,7 @@ region: Taipei
 category: attraction
 pubDate: '2026-08-01T09:33:53.603Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg/1920px-Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg/1920px-Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg
   credit: 'Photo: 4300streetcar / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Taipei_night_skyline_and_Elephant_Mountain_May_2025.jpg

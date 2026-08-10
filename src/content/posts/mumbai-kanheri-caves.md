@@ -6,7 +6,7 @@ region: Mumbai
 category: hidden-gem
 pubDate: '2026-08-01T09:44:19.665Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/1920px-Kanheri_Caves_prayer_hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/1920px-Kanheri_Caves_prayer_hall.JPG
   credit: 'Photo: AKS.9955 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Kanheri_Caves_prayer_hall.JPG

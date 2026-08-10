@@ -6,12 +6,12 @@ region: Barcelona
 category: attraction
 pubDate: '2026-08-04T10:04:19.037Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Casa_Batll%C3%B3_01.jpg/1920px-Casa_Batll%C3%B3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Casa_Batll%C3%B3_01.jpg/1920px-Casa_Batll%C3%B3_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_01.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg
     credit: 'Photo: José Luiz / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg

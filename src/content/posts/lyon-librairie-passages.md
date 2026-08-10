@@ -6,7 +6,7 @@ region: "Lyon"
 category: "hidden-gem"
 pubDate: "2026-08-09T08:24:07.150Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg/3840px-Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg/3840px-Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg"
   credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lyon_2e_-_Rue_de_Brest_-_Librairie_Passages.jpeg"

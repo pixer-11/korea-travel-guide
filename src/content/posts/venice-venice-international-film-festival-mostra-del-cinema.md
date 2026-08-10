@@ -11,7 +11,7 @@ eventStartDate: '2026-09-02'
 eventEndDate: '2026-09-12'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg/1920px-Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg/1920px-Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg
   credit: 'Photo: Colleen Sturtevant / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: >-

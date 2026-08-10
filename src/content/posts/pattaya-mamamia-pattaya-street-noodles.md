@@ -6,7 +6,7 @@ region: Pattaya
 category: restaurant
 pubDate: '2026-07-22T09:22:16.749Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg/1920px-DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg/1920px-DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg
   credit: 'Photo: PattayaPatrol / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg

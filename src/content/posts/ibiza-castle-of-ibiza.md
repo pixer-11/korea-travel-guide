@@ -6,7 +6,7 @@ region: Ibiza
 category: hidden-gem
 pubDate: '2026-07-31T10:22:32.951Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ibiza_castle_%287101908669%29.jpg/1920px-Ibiza_castle_%287101908669%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ibiza_castle_%287101908669%29.jpg/1920px-Ibiza_castle_%287101908669%29.jpg
   credit: 'Photo: Michela Simoncini from Firenze, Italy / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ibiza_castle_(7101908669).jpg

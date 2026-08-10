@@ -6,7 +6,7 @@ region: Ipoh
 category: attraction
 pubDate: '2026-07-26T07:51:52.103Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg
   credit: 'Photo: MohdNiza85 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gunung_Lang_recreational_park.jpg

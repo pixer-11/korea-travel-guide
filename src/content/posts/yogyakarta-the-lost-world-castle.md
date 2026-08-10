@@ -6,7 +6,7 @@ region: Yogyakarta
 category: hidden-gem
 pubDate: '2026-07-23T07:19:40.453Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Lost_World_Castle.jpg/1920px-The_Lost_World_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Lost_World_Castle.jpg/1920px-The_Lost_World_Castle.jpg
   credit: 'Photo: Susanti Estiningrum / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Lost_World_Castle.jpg

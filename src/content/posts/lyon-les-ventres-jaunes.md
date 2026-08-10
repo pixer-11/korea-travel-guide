@@ -6,7 +6,7 @@ region: Lyon
 category: restaurant
 pubDate: '2026-08-03T10:53:54.075Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg/1920px-Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg/1920px-Lyon_5e_-_Les_Ventres_Jaunes%2C_salade_des_Ventres_Jaunes.jpg
   credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Les_Ventres_Jaunes,_salade_des_Ventres_Jaunes.jpg

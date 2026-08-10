@@ -6,7 +6,7 @@ region: Monza
 category: attraction
 pubDate: '2026-07-27T11:00:34.524Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Monza_Park_8964.jpg/1920px-Monza_Park_8964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Monza_Park_8964.jpg/1920px-Monza_Park_8964.jpg
   credit: 'Photo: Ashley Pomeroy / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Monza_Park_8964.jpg

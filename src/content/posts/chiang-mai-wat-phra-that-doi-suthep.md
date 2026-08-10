@@ -6,7 +6,7 @@ region: Chiang Mai
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Phra_That_Doi_Suthep_01.jpg/1920px-Phra_That_Doi_Suthep_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Phra_That_Doi_Suthep_01.jpg/1920px-Phra_That_Doi_Suthep_01.jpg
   credit: 'Photo: ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Phra_That_Doi_Suthep_01.jpg

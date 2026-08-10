@@ -6,7 +6,7 @@ region: Buñol
 category: restaurant
 pubDate: '2026-07-29T10:05:49.362Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Posada_Venta_Pilar_Paella.jpg/1920px-Posada_Venta_Pilar_Paella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Posada_Venta_Pilar_Paella.jpg/1920px-Posada_Venta_Pilar_Paella.jpg
   credit: 'Photo: https://www.flickr.com/photos/sunxez/ / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Posada_Venta_Pilar_Paella.jpg

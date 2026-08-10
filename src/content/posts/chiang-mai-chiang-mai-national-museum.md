@@ -6,7 +6,7 @@ region: "Chiang Mai"
 category: "attraction"
 pubDate: "2026-08-05T11:26:19.482Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chiang_Mai_National_Museum.jpg/1920px-Chiang_Mai_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chiang_Mai_National_Museum.jpg/1920px-Chiang_Mai_National_Museum.jpg"
   credit: "Photo: Zhou Guanhuai / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Chiang_Mai_National_Museum.jpg"

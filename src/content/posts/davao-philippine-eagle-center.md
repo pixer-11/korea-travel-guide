@@ -6,7 +6,7 @@ region: Davao
 category: hidden-gem
 pubDate: '2026-07-30T09:54:40.837Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg/1920px-Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg/1920px-Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg
   credit: 'Photo: RoyKabanlit / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg

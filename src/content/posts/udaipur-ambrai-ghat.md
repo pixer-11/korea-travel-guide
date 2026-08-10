@@ -6,7 +6,7 @@ region: Udaipur
 category: hidden-gem
 pubDate: '2026-07-30T10:02:00.876Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ambrai_Ghat_Night_Life.jpg/1920px-Ambrai_Ghat_Night_Life.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ambrai_Ghat_Night_Life.jpg/1920px-Ambrai_Ghat_Night_Life.jpg
   credit: 'Photo: Imsourabh1996 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ambrai_Ghat_Night_Life.jpg

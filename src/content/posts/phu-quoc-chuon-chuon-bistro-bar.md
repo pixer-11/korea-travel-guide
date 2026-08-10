@@ -6,7 +6,7 @@ region: Phu Quoc
 category: trendy
 pubDate: '2026-07-22T09:39:14.545Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg/1920px-Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg/1920px-Chuon_Chuon_Bistro_%26_Bar%2C_Phu_Quoc.jpg
   credit: 'Photo: Tuong Lam Photos / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chuon_Chuon_Bistro_%26_Bar,_Phu_Quoc.jpg

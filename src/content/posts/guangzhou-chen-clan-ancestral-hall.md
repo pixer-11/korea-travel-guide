@@ -6,7 +6,7 @@ region: Guangzhou
 category: hidden-gem
 pubDate: '2026-07-31T10:05:35.811Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chen_Clan_Ancestral_Hall_2025.06_02.jpg/1920px-Chen_Clan_Ancestral_Hall_2025.06_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chen_Clan_Ancestral_Hall_2025.06_02.jpg/1920px-Chen_Clan_Ancestral_Hall_2025.06_02.jpg
   credit: 'Photo: Shujianyang / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chen_Clan_Ancestral_Hall_2025.06_02.jpg

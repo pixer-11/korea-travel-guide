@@ -6,7 +6,7 @@ region: Boracay
 category: attraction
 pubDate: '2026-07-26T07:14:24.929Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg/1920px-Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg/1920px-Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg
   credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Boracay_Willy%27s_Rock_front_(Malay,_Aklan;_04-06-2024).jpg

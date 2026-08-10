@@ -6,7 +6,7 @@ region: "Provence"
 category: "attraction"
 pubDate: "2026-08-05T11:28:09.277Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Musee_Granet_by_Malost.jpg/1920px-Musee_Granet_by_Malost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Musee_Granet_by_Malost.jpg/1920px-Musee_Granet_by_Malost.jpg"
   credit: "Photo: Malost / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Musee_Granet_by_Malost.jpg"

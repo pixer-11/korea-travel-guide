@@ -6,7 +6,7 @@ region: Lyon
 category: attraction
 pubDate: '2026-07-26T07:47:44.244Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg/1920px-France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg/1920px-France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_%2815939822990%29.jpg
   credit: 'Photo: Dennis G. Jarvis / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:France-003038_-_Basilica_of_Notre-Dame_de_Fourvi%C3%A8re_(15939822990).jpg

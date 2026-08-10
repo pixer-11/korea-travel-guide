@@ -6,7 +6,7 @@ region: Bologna
 category: attraction
 pubDate: '2026-07-26T07:09:47.951Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg/1920px-Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg/1920px-Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg
   credit: 'Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg

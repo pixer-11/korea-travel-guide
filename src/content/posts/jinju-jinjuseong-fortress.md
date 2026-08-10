@@ -6,7 +6,7 @@ region: Jinju
 category: hidden-gem
 pubDate: '2026-08-03T10:56:57.007Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg/1920px-Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg/1920px-Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg

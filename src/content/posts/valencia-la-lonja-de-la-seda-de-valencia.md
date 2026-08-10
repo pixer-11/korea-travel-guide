@@ -6,7 +6,7 @@ region: Valencia
 category: attraction
 pubDate: '2026-07-26T08:24:53.684Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG/1920px-Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG/1920px-Lonja_de_la_Seda%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_23-25_HDR.JPG
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lonja_de_la_Seda,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_23-25_HDR.JPG

@@ -6,7 +6,7 @@ region: "Jeju"
 category: "attraction"
 pubDate: "2026-08-09T08:28:53.520Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sanbanggulsa_Temple_02.jpg/3840px-Sanbanggulsa_Temple_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sanbanggulsa_Temple_02.jpg/3840px-Sanbanggulsa_Temple_02.jpg"
   credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Sanbanggulsa_Temple_02.jpg"

@@ -6,7 +6,7 @@ region: San Francisco
 category: restaurant
 pubDate: '2026-07-30T09:57:19.283Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rich_Table_San_Francisco_-_Dec._2025.jpg/1920px-Rich_Table_San_Francisco_-_Dec._2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rich_Table_San_Francisco_-_Dec._2025.jpg/1920px-Rich_Table_San_Francisco_-_Dec._2025.jpg
   credit: 'Photo: 9yz / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Rich_Table_San_Francisco_-_Dec._2025.jpg

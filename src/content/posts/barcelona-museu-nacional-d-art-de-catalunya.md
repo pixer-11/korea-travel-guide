@@ -6,7 +6,7 @@ region: Barcelona
 category: attraction
 pubDate: '2026-08-05T11:36:29.676Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg/1920px-%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg/1920px-%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg
   credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:(Barcelona)_Sal%C3%B3_Oval_(Museu_Nacional_d%27Art_de_Catalunya)_-_Southwest_part_of_the_room.jpg

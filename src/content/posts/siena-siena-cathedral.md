@@ -6,7 +6,7 @@ region: Siena
 category: attraction
 pubDate: '2026-07-27T10:55:59.902Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Duomo_di_Siena-9635.jpg/1920px-Duomo_di_Siena-9635.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Duomo_di_Siena-9635.jpg/1920px-Duomo_di_Siena-9635.jpg
   credit: 'Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Duomo_di_Siena-9635.jpg

@@ -11,7 +11,7 @@ eventStartDate: '2026-08-16'
 eventEndDate: '2026-08-16'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg/1920px-Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg/1920px-Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg
   credit: 'Photo: Enrico from Rome, Italy / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: >-

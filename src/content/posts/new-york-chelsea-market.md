@@ -6,7 +6,7 @@ region: New York
 category: hidden-gem
 pubDate: "2026-08-05T11:05:33.083Z"
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chelsea_Market_%2849052085186%29.jpg/1920px-Chelsea_Market_%2849052085186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chelsea_Market_%2849052085186%29.jpg/1920px-Chelsea_Market_%2849052085186%29.jpg
   credit: "Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chelsea_Market_(49052085186).jpg

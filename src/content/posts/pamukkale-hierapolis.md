@@ -6,7 +6,7 @@ region: Pamukkale
 category: hidden-gem
 pubDate: '2026-07-28T10:12:19.796Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hierapolis_01.jpg/1920px-Hierapolis_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hierapolis_01.jpg/1920px-Hierapolis_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hierapolis_01.jpg

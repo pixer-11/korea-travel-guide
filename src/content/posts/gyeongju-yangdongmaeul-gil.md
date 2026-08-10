@@ -6,7 +6,7 @@ country: South Korea
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2008-Korea-Gyeongju-Yangdong_Village-02.jpg/1920px-2008-Korea-Gyeongju-Yangdong_Village-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2008-Korea-Gyeongju-Yangdong_Village-02.jpg/1920px-2008-Korea-Gyeongju-Yangdong_Village-02.jpg
   credit: 'Photo: Kok Leng Yeo from Singapore, Singapore / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2008-Korea-Gyeongju-Yangdong_Village-02.jpg

@@ -6,7 +6,7 @@ region: Kota Kinabalu
 category: hidden-gem
 pubDate: '2026-07-29T10:03:22.594Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tanjung_Aru_Beach_Park.jpg/1920px-Tanjung_Aru_Beach_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tanjung_Aru_Beach_Park.jpg/1920px-Tanjung_Aru_Beach_Park.jpg
   credit: 'Photo: Dcubillas / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Tanjung_Aru_Beach_Park.jpg

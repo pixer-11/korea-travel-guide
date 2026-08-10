@@ -6,7 +6,7 @@ region: Hiroshima
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/3840px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg/3840px-Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg
   credit: 'Photo: J o / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Grand_Prince_Hotel_Hiroshima_Club_Lounge_breakfast_20190615-001.jpg

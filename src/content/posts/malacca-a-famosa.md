@@ -6,7 +6,7 @@ region: Malacca
 category: hidden-gem
 pubDate: '2026-07-28T10:11:31.235Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Famosa_Fortress.JPG/1920px-A_Famosa_Fortress.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Famosa_Fortress.JPG/1920px-A_Famosa_Fortress.JPG
   credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:A_Famosa_Fortress.JPG

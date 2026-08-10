@@ -6,7 +6,7 @@ region: Lyon
 category: hidden-gem
 pubDate: '2026-07-31T10:12:49.080Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg/1920px-Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg/1920px-Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg
   credit: 'Photo: Phinou / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Parc_de_la_T%C3%AAte_d%27Or_Vue_sur_le_lac7.jpg

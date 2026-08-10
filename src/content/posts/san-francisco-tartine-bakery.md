@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/42814b00f964a52002221fe3
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/6/62/Tartine_bakery_interior_in_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/62/Tartine_bakery_interior_in_2010.jpg
     credit: 'Photo: kennejima / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Tartine_bakery_interior_in_2010.jpg

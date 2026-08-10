@@ -6,7 +6,7 @@ region: Varanasi
 category: attraction
 pubDate: '2026-07-26T08:21:52.567Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg
   credit: 'Photo: Gannu03 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_3.jpg

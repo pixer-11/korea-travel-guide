@@ -6,7 +6,7 @@ region: Goyang
 category: attraction
 pubDate: '2026-07-28T10:10:03.383Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1920px-Goyang_Lake_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Goyang_Lake_Park.jpg/1920px-Goyang_Lake_Park.jpg
   credit: 'Photo: travel oriented / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Goyang_Lake_Park.jpg

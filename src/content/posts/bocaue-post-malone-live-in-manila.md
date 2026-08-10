@@ -26,7 +26,7 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg
   credit: 'Photo: The Come Up Show from Canada / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Post_Malone_(28688652561).jpg

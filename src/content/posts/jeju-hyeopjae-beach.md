@@ -6,7 +6,7 @@ region: Jeju
 category: attraction
 pubDate: '2026-07-22T22:16:53.600Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/1920px-Hyeopjae_Beach_Scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/1920px-Hyeopjae_Beach_Scenery.jpg
   credit: 'Photo: Lcarrion88 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg

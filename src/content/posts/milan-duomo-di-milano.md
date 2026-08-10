@@ -6,7 +6,7 @@ region: Milan
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/1920px-View_west_along_Duomo_roof%2C_Milan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/1920px-View_west_along_Duomo_roof%2C_Milan.jpg
   credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg

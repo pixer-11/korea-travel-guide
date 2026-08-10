@@ -27,7 +27,7 @@ draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/87/Rock_en_Seine_Sc%C3%A8ne_de_la_cascade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/8/87/Rock_en_Seine_Sc%C3%A8ne_de_la_cascade.jpg
   credit: 'Photo: Lara Janssen / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Rock_en_Seine_Sc%C3%A8ne_de_la_cascade.jpg

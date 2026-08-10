@@ -6,7 +6,7 @@ region: Los Angeles
 category: attraction
 pubDate: '2026-07-30T09:47:33.790Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1982-07_CA_USA_-_Los_Angeles%2C_Hollywood%2C_Walk_of_Fame.jpg/1920px-1982-07_CA_USA_-_Los_Angeles%2C_Hollywood%2C_Walk_of_Fame.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1982-07_CA_USA_-_Los_Angeles%2C_Hollywood%2C_Walk_of_Fame.jpg/1920px-1982-07_CA_USA_-_Los_Angeles%2C_Hollywood%2C_Walk_of_Fame.jpg
   credit: 'Photo: Yolanl / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:1982-07_CA_USA_-_Los_Angeles,_Hollywood,_Walk_of_Fame.jpg

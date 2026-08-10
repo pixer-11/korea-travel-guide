@@ -6,7 +6,7 @@ region: Seoul
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korea-Seoul-Insadong-Sanchon-04.jpg/1920px-Korea-Seoul-Insadong-Sanchon-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Korea-Seoul-Insadong-Sanchon-04.jpg/1920px-Korea-Seoul-Insadong-Sanchon-04.jpg
   credit: 'Photo: Julie / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Sanchon-04.jpg

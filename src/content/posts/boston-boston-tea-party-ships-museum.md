@@ -6,7 +6,7 @@ region: Boston
 category: attraction
 pubDate: '2026-07-26T07:12:03.839Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg
   credit: 'Photo: Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Boston_Tea_Party_Ships_%26_Museum,_Boston,_Massachusetts,_US_(PPL2-Enhanced)_julesvernex2.jpg

@@ -6,7 +6,7 @@ region: Langkawi
 category: hidden-gem
 pubDate: '2026-07-28T10:05:33.927Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kilim_Geoforest_Park%2C_Langkawi.jpg/1920px-Kilim_Geoforest_Park%2C_Langkawi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kilim_Geoforest_Park%2C_Langkawi.jpg/1920px-Kilim_Geoforest_Park%2C_Langkawi.jpg
   credit: 'Photo: Dcpeets / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Kilim_Geoforest_Park,_Langkawi.jpg

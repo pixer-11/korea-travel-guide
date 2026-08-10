@@ -6,7 +6,7 @@ region: Seville
 category: attraction
 pubDate: '2026-07-26T08:18:47.615Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg/1920px-Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg/1920px-Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg
   credit: 'Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seville,_Plaza_de_Espa%C3%B1a_(38625005691)_(edited).jpg

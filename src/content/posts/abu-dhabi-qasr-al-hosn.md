@@ -10,7 +10,7 @@ category: attraction
 pubDate: '2026-07-23T07:46:36.451Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qasr_al-Hosn_%281%29.jpg/1920px-Qasr_al-Hosn_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Qasr_al-Hosn_%281%29.jpg/1920px-Qasr_al-Hosn_%281%29.jpg
   credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(1).jpg'

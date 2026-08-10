@@ -6,7 +6,7 @@ region: Izmir
 category: hidden-gem
 pubDate: '2026-07-28T10:01:27.793Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Izmir_Agora.JPG/1920px-Izmir_Agora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Izmir_Agora.JPG/1920px-Izmir_Agora.JPG
   credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Izmir_Agora.JPG

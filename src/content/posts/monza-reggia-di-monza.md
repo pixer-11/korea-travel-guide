@@ -6,7 +6,7 @@ region: Monza
 category: hidden-gem
 pubDate: '2026-07-31T10:13:52.884Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Reggia_di_Monza.jpg/1920px-Reggia_di_Monza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Reggia_di_Monza.jpg/1920px-Reggia_di_Monza.jpg
   credit: 'Photo: Diego Bonacina / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Reggia_di_Monza.jpg

@@ -6,7 +6,7 @@ region: Hangzhou
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg/1920px-West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg/1920px-West_Lake_%28Xi_Hu%29_at_Hangzhou_%282790838851%29.jpg
   credit: 'Photo: Peter Dowley from Dubai, United Arab Emirates / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:West_Lake_(Xi_Hu)_at_Hangzhou_(2790838851).jpg

@@ -6,7 +6,7 @@ region: Yokohama
 category: attraction
 pubDate: '2026-07-26T07:13:16.588Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yokohama_Marine_Tower_02a.jpg/1920px-Yokohama_Marine_Tower_02a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yokohama_Marine_Tower_02a.jpg/1920px-Yokohama_Marine_Tower_02a.jpg
   credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Yokohama_Marine_Tower_02a.jpg

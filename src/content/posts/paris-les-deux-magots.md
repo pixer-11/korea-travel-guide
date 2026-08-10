@@ -6,7 +6,7 @@ region: Paris
 category: trendy
 pubDate: '2026-08-03T10:58:51.699Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/1920px-Les_Deux_Magots%2C_25_September_2019.jpg
   credit: 'Photo: Cheng-en Cheng from Taichung City, Taiwan / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Les_Deux_Magots,_25_September_2019.jpg

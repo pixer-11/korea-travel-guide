@@ -6,7 +6,7 @@ region: Provence
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/France_Provence_lavender_fields.jpg/1920px-France_Provence_lavender_fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/France_Provence_lavender_fields.jpg/1920px-France_Provence_lavender_fields.jpg
   credit: 'Photo: Dmytro Ivashchenko / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:France_Provence_lavender_fields.jpg

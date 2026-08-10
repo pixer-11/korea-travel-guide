@@ -11,13 +11,13 @@ category: attraction
 pubDate: '2026-08-05T11:08:54.620Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG
   credit: 'Photo: Istvánka / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG'
 gallery:
   - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/9/97/Villa_Rufolo_Ravello_31.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+      https://upload.wikimedia.org/wikipedia/commons/9/97/Villa_Rufolo_Ravello_31.JPG
     credit: 'Photo: Mentnafunangann / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: 'https://commons.wikimedia.org/wiki/File:Villa_Rufolo_Ravello_31.JPG'

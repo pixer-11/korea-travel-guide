@@ -6,7 +6,7 @@ region: Florence
 category: attraction
 pubDate: '2026-08-05T11:23:44.293Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg
   credit: 'Photo: S.e.witcher / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg

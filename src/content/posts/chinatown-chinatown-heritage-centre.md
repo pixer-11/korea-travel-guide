@@ -6,7 +6,7 @@ region: Chinatown
 category: attraction
 pubDate: '2026-07-23T07:30:57.548Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chinatown_Heritage_Centre%2C_Singapore.jpg/1920px-Chinatown_Heritage_Centre%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chinatown_Heritage_Centre%2C_Singapore.jpg/1920px-Chinatown_Heritage_Centre%2C_Singapore.jpg
   credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chinatown_Heritage_Centre,_Singapore.jpg

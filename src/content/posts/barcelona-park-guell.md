@@ -6,7 +6,7 @@ region: Barcelona
 category: attraction
 pubDate: '2026-08-03T11:07:28.418Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/1920px-Parc_guell_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/1920px-Parc_guell_-_panoramio.jpg
   credit: 'Photo: essetefano / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Parc_guell_-_panoramio.jpg

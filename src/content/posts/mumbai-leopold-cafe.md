@@ -6,7 +6,7 @@ region: Mumbai
 category: trendy
 pubDate: '2026-08-03T11:02:29.373Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg
   credit: 'Photo: Photograph by Greg O''Beirne / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:LeopoldCafe_gobeirne.jpg

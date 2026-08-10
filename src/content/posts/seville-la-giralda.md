@@ -6,7 +6,7 @@ region: Seville
 category: attraction
 pubDate: '2026-07-26T08:20:39.866Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg/1920px-Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg/1920px-Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg
   credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Giralda_cath%C3%A9drale_tour_Seville_Espagne.jpg

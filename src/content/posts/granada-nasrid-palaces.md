@@ -6,12 +6,12 @@ region: Granada
 category: attraction
 pubDate: '2026-08-05T11:44:29.647Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg/1920px-Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg/1920px-Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg
   credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra,_Granada._Spain.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg/3840px-Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg/3840px-Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg
     credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_(14623269125).jpg

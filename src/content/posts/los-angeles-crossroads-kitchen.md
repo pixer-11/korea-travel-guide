@@ -6,7 +6,7 @@ region: "Los Angeles"
 category: "restaurant"
 pubDate: "2026-08-08T08:11:39.791Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg/1920px-Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg/1920px-Crossroads_Kitchen%2C_Los_Angeles_%28July_2023%29.jpg"
   credit: "Photo: Benoît Prieur / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Crossroads_Kitchen,_Los_Angeles_(July_2023).jpg"

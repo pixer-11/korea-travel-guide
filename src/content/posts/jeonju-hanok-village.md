@@ -6,7 +6,7 @@ country: South Korea
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/1920px-Jeonju_Hanok_Maeul_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/1920px-Jeonju_Hanok_Maeul_02.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg

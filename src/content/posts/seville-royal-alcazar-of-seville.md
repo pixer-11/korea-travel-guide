@@ -6,7 +6,7 @@ region: Seville
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg/1920px-Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg/1920px-Royal_Alc%C3%A1zar_of_Seville_%2826848889299%29.jpg
   credit: 'Photo: Dmitry Dzhus from London / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Royal_Alc%C3%A1zar_of_Seville_(26848889299).jpg

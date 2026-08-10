@@ -6,7 +6,7 @@ region: Marina Bay
 category: hidden-gem
 pubDate: '2026-07-23T07:37:52.418Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/1920px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/1920px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg
   credit: 'Photo: Mustang Joe / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg

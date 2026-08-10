@@ -6,7 +6,7 @@ region: "New Orleans"
 category: "attraction"
 pubDate: "2026-08-08T08:08:02.203Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Longue_Vue_House_and_Gardens.jpg/1920px-Longue_Vue_House_and_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Longue_Vue_House_and_Gardens.jpg/1920px-Longue_Vue_House_and_Gardens.jpg"
   credit: "Photo: Navin75 / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Longue_Vue_House_and_Gardens.jpg"

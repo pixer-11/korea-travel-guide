@@ -6,7 +6,7 @@ region: Rome
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg
   credit: 'Photo: wiccahwang / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Restaurant_in_Trastevere,_Rome_(4789517850).jpg

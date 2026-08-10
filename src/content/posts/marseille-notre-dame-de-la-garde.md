@@ -6,7 +6,7 @@ region: Marseille
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/1920px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Notre-Dame_de_la_Garde_aerial_view_2020.jpeg/1920px-Notre-Dame_de_la_Garde_aerial_view_2020.jpeg
   credit: 'Photo: Earth777 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Notre-Dame_de_la_Garde_aerial_view_2020.jpeg

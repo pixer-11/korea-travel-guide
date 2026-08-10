@@ -6,7 +6,7 @@ region: Rome
 category: attraction
 pubDate: '2026-08-03T11:05:56.768Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Trevi_Fountain_-_Roma.jpg/1920px-Trevi_Fountain_-_Roma.jpg
   credit: 'Photo: NikonZ7II / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg

@@ -6,7 +6,7 @@ region: "Incheon"
 category: "attraction"
 pubDate: "2026-08-10T09:03:32.618Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG"
   credit: "Photo: 메이 / Wikimedia Commons (CC BY-SA 1.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG"

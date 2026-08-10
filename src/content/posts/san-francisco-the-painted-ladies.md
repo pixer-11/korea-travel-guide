@@ -6,12 +6,12 @@ region: San Francisco
 category: attraction
 pubDate: '2026-08-05T11:49:13.716Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/1920px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/1920px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg
   credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Painted_Ladies_--_2022_--_3055.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Painted_Ladies_--_2022_--_3055.jpg

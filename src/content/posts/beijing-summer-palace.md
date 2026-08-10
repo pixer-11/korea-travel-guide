@@ -6,7 +6,7 @@ region: Beijing
 category: attraction
 pubDate: '2026-07-27T10:53:03.141Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1920px-Longevity_Hill_of_the_Summer_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Longevity_Hill_of_the_Summer_Palace.jpg/1920px-Longevity_Hill_of_the_Summer_Palace.jpg
   credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Longevity_Hill_of_the_Summer_Palace.jpg

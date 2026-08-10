@@ -6,7 +6,7 @@ region: Florence
 category: hidden-gem
 pubDate: '2026-08-02T09:33:43.395Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg
   credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence,_Italy.jpg

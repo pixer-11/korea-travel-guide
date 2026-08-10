@@ -6,7 +6,7 @@ region: New York
 category: restaurant
 pubDate: '2026-07-31T10:01:59.255Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Balthazar_1_%284691446507%29.jpg/1920px-Balthazar_1_%284691446507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Balthazar_1_%284691446507%29.jpg/1920px-Balthazar_1_%284691446507%29.jpg
   credit: 'Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Balthazar_1_(4691446507).jpg

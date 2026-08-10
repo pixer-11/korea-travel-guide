@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4b65543bf964a5206ced2ae3
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg/3840px-Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg/3840px-Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg
     credit: 'Photo: Ximonic (Simo Räsänen) / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown,_Naka-ku,_Yokohama,_Japan,_2024_May.jpg

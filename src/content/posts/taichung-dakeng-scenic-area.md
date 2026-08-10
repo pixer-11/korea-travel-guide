@@ -6,7 +6,7 @@ region: Taichung
 category: hidden-gem
 pubDate: '2026-07-29T10:02:39.927Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg/1920px-Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg/1920px-Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg
   credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dakeng_Scenic_Area_%E5%A4%A7%E5%9D%91%E9%A2%A8%E6%99%AF%E5%8D%80_-_panoramio.jpg

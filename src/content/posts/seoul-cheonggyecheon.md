@@ -6,7 +6,7 @@ region: Seoul
 category: attraction
 pubDate: '2026-07-26T07:06:03.062Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg/1920px-Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg/1920px-Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cheonggyecheon_stream_at_sunrise_with_trees_in_Seoul.jpg

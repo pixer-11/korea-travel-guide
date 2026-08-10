@@ -11,7 +11,7 @@ eventStartDate: '2026-08-28'
 eventEndDate: '2026-08-30'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-STYLE_MotoGP_Aragon.jpg/1920px-A-STYLE_MotoGP_Aragon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-STYLE_MotoGP_Aragon.jpg/1920px-A-STYLE_MotoGP_Aragon.jpg
   credit: 'Photo: Mbastyle / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:A-STYLE_MotoGP_Aragon.jpg'

@@ -26,7 +26,7 @@ faq:
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png
   credit: 'Photo: Cosmopolitan UK / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Post_Malone_at_the_2019_American_Music_Awards.png

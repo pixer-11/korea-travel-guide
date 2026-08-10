@@ -6,7 +6,7 @@ region: Lyon
 category: restaurant
 pubDate: '2026-07-29T10:05:08.822Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg/1920px-Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg
   credit: 'Photo: Romainbehar / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Rue_Neuve_-_Restaurant_Carmelo_-_La_fameuse_p%C3%A2te_%C3%A0_la_truffe_servie_dans_sa_meule_01.jpg

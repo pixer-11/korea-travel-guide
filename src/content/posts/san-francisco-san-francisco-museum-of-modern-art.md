@@ -6,7 +6,7 @@ region: "San Francisco"
 category: "attraction"
 pubDate: "2026-08-05T11:18:10.286Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/1920px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/1920px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg"
   credit: "Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg"

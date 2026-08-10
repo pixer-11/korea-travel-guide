@@ -6,7 +6,7 @@ region: Chiba
 category: hidden-gem
 pubDate: '2026-07-27T10:57:53.296Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg
   credit: 'Photo: Higa4 / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_01.jpg

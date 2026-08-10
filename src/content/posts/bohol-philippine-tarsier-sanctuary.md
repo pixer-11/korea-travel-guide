@@ -6,7 +6,7 @@ region: Bohol
 category: hidden-gem
 pubDate: '2026-07-29T10:09:48.653Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Philippine_Tarsier_Sanctuary_entrance.jpg/1920px-Philippine_Tarsier_Sanctuary_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Philippine_Tarsier_Sanctuary_entrance.jpg/1920px-Philippine_Tarsier_Sanctuary_entrance.jpg
   credit: 'Photo: ACTA314 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Philippine_Tarsier_Sanctuary_entrance.jpg

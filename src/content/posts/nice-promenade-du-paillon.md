@@ -6,7 +6,7 @@ region: Nice
 category: attraction
 pubDate: '2026-07-28T10:07:05.515Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_du_Paillon_Nice_water_jets_2019.jpg/1920px-Promenade_du_Paillon_Nice_water_jets_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Promenade_du_Paillon_Nice_water_jets_2019.jpg/1920px-Promenade_du_Paillon_Nice_water_jets_2019.jpg
   credit: 'Photo: Miguel Mendez / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Promenade_du_Paillon_Nice_water_jets_2019.jpg

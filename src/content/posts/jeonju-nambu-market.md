@@ -6,7 +6,7 @@ region: "Jeonju"
 category: "hidden-gem"
 pubDate: "2026-08-09T08:26:11.471Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg/3840px-Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg/3840px-Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_%282%29.jpg"
   credit: "Photo: 고려 / Wikimedia Commons (CC BY 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Jeonju_Nambu_market_chungnyun_mall_made_up_of_things_related_South_Korean_7th_local_elections_(2).jpg"

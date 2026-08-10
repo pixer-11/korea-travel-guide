@@ -27,7 +27,7 @@ draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/10/Georgetown%2C_George_Town%2C_Penang%2C_Malaysia_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/1/10/Georgetown%2C_George_Town%2C_Penang%2C_Malaysia_-_panoramio_%286%29.jpg
   credit: 'Photo: Andrew Harvey / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Georgetown,_George_Town,_Penang,_Malaysia_-_panoramio_(6).jpg

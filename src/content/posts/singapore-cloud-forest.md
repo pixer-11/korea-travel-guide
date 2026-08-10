@@ -6,7 +6,7 @@ region: Singapore
 category: hidden-gem
 pubDate: '2026-07-26T07:48:56.910Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1920px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1920px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cloud_Forest,_Gardens_by_the_Bay,_Singapore.jpg

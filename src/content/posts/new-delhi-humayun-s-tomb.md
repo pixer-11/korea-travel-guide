@@ -6,7 +6,7 @@ region: New Delhi
 category: hidden-gem
 pubDate: '2026-07-31T10:11:49.345Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi%2C_Delhi_110013_35.jpg/1920px-PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi%2C_Delhi_110013_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi%2C_Delhi_110013_35.jpg/1920px-PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi%2C_Delhi_110013_35.jpg
   credit: 'Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:PXL_20231129_052234620_Humayun%E2%80%99s_Tomb_New_Delhi,_Delhi_110013_35.jpg

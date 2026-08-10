@@ -12,7 +12,7 @@ eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/FOREVER_21.JPG/1920px-FOREVER_21.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/FOREVER_21.JPG/1920px-FOREVER_21.JPG
   credit: 'Photo: Tyuta0055 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:FOREVER_21.JPG'

@@ -6,7 +6,7 @@ region: Ras Al Khaimah
 category: hidden-gem
 pubDate: '2026-07-23T07:53:55.737Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg
   credit: 'Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais_Ras_al_Khaimah,_UAE.jpg

@@ -6,7 +6,7 @@ region: "Hangzhou"
 category: "attraction"
 pubDate: "2026-08-06T10:23:30.773Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Xixi_Wetland_Park%2C_Hangzhou%2C_China.jpg/1920px-Xixi_Wetland_Park%2C_Hangzhou%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Xixi_Wetland_Park%2C_Hangzhou%2C_China.jpg/1920px-Xixi_Wetland_Park%2C_Hangzhou%2C_China.jpg"
   credit: "Photo: Yoshi Canopus / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Xixi_Wetland_Park,_Hangzhou,_China.jpg"

@@ -6,7 +6,7 @@ region: "New Orleans"
 category: "restaurant"
 pubDate: "2026-08-07T09:04:35.583Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/New_Orleans_CBD_1_Oct_2016_24.jpg/1920px-New_Orleans_CBD_1_Oct_2016_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/New_Orleans_CBD_1_Oct_2016_24.jpg/1920px-New_Orleans_CBD_1_Oct_2016_24.jpg"
   credit: "Photo: Infrogmation of New Orleans / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:New_Orleans_CBD_1_Oct_2016_24.jpg"

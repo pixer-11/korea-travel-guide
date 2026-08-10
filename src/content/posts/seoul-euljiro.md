@@ -6,7 +6,7 @@ country: South Korea
 category: hidden-gem
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LED_shop_in_Euljiro_Seoul.jpg/1920px-LED_shop_in_Euljiro_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LED_shop_in_Euljiro_Seoul.jpg/1920px-LED_shop_in_Euljiro_Seoul.jpg
   credit: 'Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:LED_shop_in_Euljiro_Seoul.jpg

@@ -6,7 +6,7 @@ region: Kuala Lumpur
 category: attraction
 pubDate: '2026-08-01T09:34:40.794Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Merdeka_Square_Malaysia.jpg/1920px-Merdeka_Square_Malaysia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Merdeka_Square_Malaysia.jpg/1920px-Merdeka_Square_Malaysia.jpg
   credit: 'Photo: This photo was taken by Anton Zelenov. Please credit this with : Photo : Anton Zelenov in the immediate vicinity of the image. If you use one of my photos, please email me (account needed) or leave me a short message on my discussion page. It would be greatly appreciated. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms. / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Merdeka_Square_Malaysia.jpg

@@ -6,7 +6,7 @@ region: Ayutthaya
 category: attraction
 pubDate: '2026-07-22T09:08:24.519Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg/1920px-Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg/1920px-Templo_Mahathat%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_06.jpg
   credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Templo_Mahathat,_Ayutthaya,_Tailandia,_2013-08-23,_DD_06.jpg

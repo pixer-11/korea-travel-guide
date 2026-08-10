@@ -6,7 +6,7 @@ region: Seattle
 category: restaurant
 pubDate: '2026-07-30T10:17:37.248Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Seattle%2C_Washington%2C_October_2022_-_210.jpg/1920px-Seattle%2C_Washington%2C_October_2022_-_210.jpg
   credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seattle,_Washington,_October_2022_-_210.jpg

@@ -6,7 +6,7 @@ region: New Orleans
 category: restaurant
 pubDate: '2026-08-03T11:03:32.781Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg/1920px-Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg/1920px-Mother%27s_Restaurant%2C_New_Orleans%2C_Louisiana_for_Some_Po%27Boys.jpg
   credit: 'Photo: Ken Lund / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans,_Louisiana_for_Some_Po%27Boys.jpg

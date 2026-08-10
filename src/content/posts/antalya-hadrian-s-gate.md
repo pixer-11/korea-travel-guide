@@ -6,7 +6,7 @@ region: Antalya
 category: hidden-gem
 pubDate: '2026-07-27T11:03:54.793Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P9271452_Hadrians_Gate.jpg/1920px-P9271452_Hadrians_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P9271452_Hadrians_Gate.jpg/1920px-P9271452_Hadrians_Gate.jpg
   credit: 'Photo: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:P9271452_Hadrians_Gate.jpg

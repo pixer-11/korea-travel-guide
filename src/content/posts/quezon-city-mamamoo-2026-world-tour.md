@@ -11,7 +11,7 @@ eventStartDate: '2026-08-08'
 eventEndDate: '2026-08-10'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png
   credit: 'Photo: Galaxy Studio / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Mamamoo_in_2023.png'

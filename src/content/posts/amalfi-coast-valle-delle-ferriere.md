@@ -12,7 +12,7 @@ category: attraction
 pubDate: '2026-08-05T12:14:32.525Z'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Valle_delle_Ferriere_1.jpg/1920px-Valle_delle_Ferriere_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Valle_delle_Ferriere_1.jpg/1920px-Valle_delle_Ferriere_1.jpg
   credit: 'Photo: Mario Apuzzo / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Valle_delle_Ferriere_1.jpg'

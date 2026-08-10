@@ -6,7 +6,7 @@ region: Marseille
 category: attraction
 pubDate: '2026-07-26T07:54:45.057Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_parc_des_calanques_de_Marseille.jpg/1920px-Le_parc_des_calanques_de_Marseille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Le_parc_des_calanques_de_Marseille.jpg/1920px-Le_parc_des_calanques_de_Marseille.jpg
   credit: 'Photo: Eris.spiller / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Le_parc_des_calanques_de_Marseille.jpg

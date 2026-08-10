@@ -6,7 +6,7 @@ region: Chiba
 category: attraction
 pubDate: '2026-07-26T07:49:31.193Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiba_Port_Park_20111028-004.jpg/1920px-Chiba_Port_Park_20111028-004.jpg
   credit: 'Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Chiba_Port_Park_20111028-004.jpg

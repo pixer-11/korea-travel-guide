@@ -6,7 +6,7 @@ region: Palawan
 category: hidden-gem
 pubDate: '2026-07-29T10:01:43.395Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg/1920px-Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg/1920px-Secret_Lagoon_at_Malakdang%2C_Sabtang_Island%2C_Batanes.jpg
   credit: 'Photo: Sahara Shandra Datuimam / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Secret_Lagoon_at_Malakdang,_Sabtang_Island,_Batanes.jpg

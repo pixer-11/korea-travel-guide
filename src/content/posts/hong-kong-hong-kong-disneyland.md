@@ -6,7 +6,7 @@ region: Hong Kong
 category: attraction
 pubDate: '2026-07-28T10:02:56.065Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hong_Kong_Disneyland_Castle.jpg/1920px-Hong_Kong_Disneyland_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hong_Kong_Disneyland_Castle.jpg/1920px-Hong_Kong_Disneyland_Castle.jpg
   credit: 'Photo: Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Disneyland_Castle.jpg

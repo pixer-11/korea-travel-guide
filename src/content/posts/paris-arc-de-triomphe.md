@@ -6,7 +6,7 @@ region: Paris
 category: attraction
 pubDate: '2026-08-02T09:28:15.300Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/1920px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arc_de_Triomphe%2C_Paris_21_October_2010.jpg/1920px-Arc_de_Triomphe%2C_Paris_21_October_2010.jpg
   credit: 'Photo: Jiuguang Wang / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe,_Paris_21_October_2010.jpg

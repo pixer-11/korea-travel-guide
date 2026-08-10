@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/45840e55f964a520933f1fe3
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chicago_from_Field_Museum_June_2015_001.jpg/3840px-Chicago_from_Field_Museum_June_2015_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chicago_from_Field_Museum_June_2015_001.jpg/3840px-Chicago_from_Field_Museum_June_2015_001.jpg
     credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Chicago_from_Field_Museum_June_2015_001.jpg

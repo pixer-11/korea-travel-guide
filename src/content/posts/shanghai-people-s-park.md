@@ -6,12 +6,12 @@ region: Shanghai
 category: hidden-gem
 pubDate: '2026-08-04T10:21:03.975Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_-_People%27s_Park_-_0005.jpg/1920px-Shanghai_-_People%27s_Park_-_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_-_People%27s_Park_-_0005.jpg/1920px-Shanghai_-_People%27s_Park_-_0005.jpg
   credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Shanghai_-_People%27s_Park_-_0005.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shanghai_-_People%27s_Park_-_0017.jpg/3840px-Shanghai_-_People%27s_Park_-_0017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shanghai_-_People%27s_Park_-_0017.jpg/3840px-Shanghai_-_People%27s_Park_-_0017.jpg
     credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Shanghai_-_People%27s_Park_-_0017.jpg

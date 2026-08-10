@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4297b480f964a52062241fe3
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/At_American_Museum_of_Natural_History_2024_029.jpg/3840px-At_American_Museum_of_Natural_History_2024_029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/At_American_Museum_of_Natural_History_2024_029.jpg/3840px-At_American_Museum_of_Natural_History_2024_029.jpg
     credit: "Photo: Photograph by Mike Peel (www.mikepeel.net). / Wikimedia Commons (CC BY-SA 4.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:At_American_Museum_of_Natural_History_2024_029.jpg

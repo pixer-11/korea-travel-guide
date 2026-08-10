@@ -6,7 +6,7 @@ region: Sapporo
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sapporo_TV_Tower_at_night_20250725.jpg/1920px-Sapporo_TV_Tower_at_night_20250725.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sapporo_TV_Tower_at_night_20250725.jpg/1920px-Sapporo_TV_Tower_at_night_20250725.jpg
   credit: 'Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Sapporo_TV_Tower_at_night_20250725.jpg

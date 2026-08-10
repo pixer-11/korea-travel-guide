@@ -23,7 +23,7 @@ faq:
 aiGenerated: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg
   credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Trendy_cafe.jpg

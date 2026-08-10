@@ -6,7 +6,7 @@ region: Ibiza
 category: attraction
 pubDate: '2026-07-27T10:56:43.876Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg/1920px-Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg/1920px-Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg
   credit: 'Photo: Saaremees / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg

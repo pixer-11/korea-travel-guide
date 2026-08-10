@@ -6,7 +6,7 @@ region: Washington DC
 category: restaurant
 pubDate: '2026-08-01T09:36:41.868Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/1920px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg/1920px-Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg
   credit: 'Photo: Tony Webster / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Surfside_Taco_Stand_-_N_Street_-_Washington_DC.jpg

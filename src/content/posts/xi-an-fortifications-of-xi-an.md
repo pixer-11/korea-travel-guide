@@ -6,7 +6,7 @@ region: Xi'an
 category: hidden-gem
 pubDate: '2026-08-02T09:39:50.713Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/1920px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/1920px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg
   credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:City_wall_of_Xi%27an_51550-Xian_(27959363326).jpg

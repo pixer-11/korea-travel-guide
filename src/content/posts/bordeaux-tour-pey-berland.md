@@ -6,7 +6,7 @@ region: Bordeaux
 category: attraction
 pubDate: '2026-07-26T08:25:39.158Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
   credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg

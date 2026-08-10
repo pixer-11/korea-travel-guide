@@ -6,12 +6,12 @@ region: Madrid
 category: hidden-gem
 pubDate: '2026-08-04T10:18:47.825Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Templo_de_Debod_in_Madrid.jpg/1920px-Templo_de_Debod_in_Madrid.jpg
   credit: 'Photo: https://www.flickr.com/photos/jiuguangw / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Templo_de_Debod_in_Madrid.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg/3840px-Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg/3840px-Templo_de_Debod%2C_Madrid%2C_Espa%C3%B1a%2C_2023-01-03%2C_DD_89-91_HDR.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Templo_de_Debod,_Madrid,_Espa%C3%B1a,_2023-01-03,_DD_89-91_HDR.jpg

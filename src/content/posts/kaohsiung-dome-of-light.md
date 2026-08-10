@@ -6,7 +6,7 @@ region: Kaohsiung
 category: hidden-gem
 pubDate: '2026-07-30T09:51:14.227Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/1920px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/1920px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg
   credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Dome_of_Light,_Kaohsiung,_May_2026.jpg

@@ -11,7 +11,7 @@ eventStartDate: '2026-08-22'
 eventEndDate: '2026-09-13'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vuelta_a_Espa%C3%B1a.jpg/1920px-Vuelta_a_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vuelta_a_Espa%C3%B1a.jpg/1920px-Vuelta_a_Espa%C3%B1a.jpg
   credit: 'Photo: Arturo Francisco Barbero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Vuelta_a_Espa%C3%B1a.jpg'

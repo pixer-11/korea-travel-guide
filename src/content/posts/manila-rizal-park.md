@@ -6,7 +6,7 @@ region: Manila
 category: hidden-gem
 pubDate: '2026-08-01T09:37:44.154Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/1920px-Rizal_Monument_%28Manila%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/1920px-Rizal_Monument_%28Manila%2C_2024%29.jpg
   credit: 'Photo: Ernest Malsin / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg

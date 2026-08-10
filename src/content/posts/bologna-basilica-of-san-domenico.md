@@ -6,7 +6,7 @@ region: Bologna
 category: hidden-gem
 pubDate: '2026-07-29T10:04:18.450Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg/1920px-Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg/1920px-Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
   credit: 'Photo: Katedra histórie UMB / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg

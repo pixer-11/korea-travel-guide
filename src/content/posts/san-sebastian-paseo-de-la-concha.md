@@ -6,7 +6,7 @@ region: San Sebastian
 category: attraction
 pubDate: '2026-07-26T08:30:18.787Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg/1920px-San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg/1920px-San_Sebastian%2C_Espanha%2C_inicio_do_S%C3%A9c._XX%2C_Paseo_de_la_Concha%2C_Arquivo_de_Villa_Maria%2C_Angra_do_Hero%C3%ADsmo%2C_A%C3%A7ores..jpg
   credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:San_Sebastian,_Espanha,_inicio_do_S%C3%A9c._XX,_Paseo_de_la_Concha,_Arquivo_de_Villa_Maria,_Angra_do_Hero%C3%ADsmo,_A%C3%A7ores..jpg

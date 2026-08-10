@@ -6,7 +6,7 @@ region: Xi'an
 category: attraction
 pubDate: '2026-07-26T07:46:05.165Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg/1920px-Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg/1920px-Towers_of_ancient_city_wall%2C_Xi%27an%2C_China_-_panoramio.jpg
   credit: 'Photo: Aaron Zhu / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Towers_of_ancient_city_wall,_Xi%27an,_China_-_panoramio.jpg

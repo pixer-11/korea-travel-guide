@@ -6,7 +6,7 @@ region: "Lyon"
 category: "attraction"
 pubDate: "2026-08-10T08:55:12.881Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Temple_Change_Lyon_7.jpg/1920px-Temple_Change_Lyon_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Temple_Change_Lyon_7.jpg/1920px-Temple_Change_Lyon_7.jpg"
   credit: "Photo: Chabe01 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Temple_Change_Lyon_7.jpg"

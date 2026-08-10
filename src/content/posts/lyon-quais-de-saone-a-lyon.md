@@ -6,7 +6,7 @@ region: "Lyon"
 category: "attraction"
 pubDate: "2026-08-10T08:58:55.691Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg/3840px-Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg/3840px-Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg"
   credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg"

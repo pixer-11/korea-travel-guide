@@ -6,7 +6,7 @@ region: Istanbul
 category: hidden-gem
 pubDate: '2026-08-01T09:28:42.278Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sample_of_Tee_-_Grand_Bazaar.JPG/1920px-Sample_of_Tee_-_Grand_Bazaar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sample_of_Tee_-_Grand_Bazaar.JPG/1920px-Sample_of_Tee_-_Grand_Bazaar.JPG
   credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Sample_of_Tee_-_Grand_Bazaar.JPG

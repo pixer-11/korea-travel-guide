@@ -27,7 +27,7 @@ draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Marine_Stage_at_Summer_Sonic_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Marine_Stage_at_Summer_Sonic_Festival.jpg
   credit: 'Photo: LuxTonnerre / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Marine_Stage_at_Summer_Sonic_Festival.jpg

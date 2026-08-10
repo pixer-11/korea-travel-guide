@@ -6,7 +6,7 @@ region: Florence
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/1920px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg/1920px-Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg
   credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Florence_Cathedral_seen_from_Piazzale_Michelangelo_night_dllu.jpg

@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/62fd10d8d0af8f20f3c48430
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg/3840px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg/3840px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg
     credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Ayu_Bakehouse,_Frenchmen_Street,_New_Orleans_12_March_2026_-_1.jpg

@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Xi%27an_Museum.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/d/da/Xi%27an_Museum_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/d/da/Xi%27an_Museum_2024.jpg
     credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Xi%27an_Museum_2024.jpg

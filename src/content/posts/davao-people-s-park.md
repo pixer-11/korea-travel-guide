@@ -6,7 +6,7 @@ region: Davao
 category: attraction
 pubDate: '2026-07-26T08:21:15.582Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg
   credit: 'Photo: Constantine Agustin from Manila, Philippines / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_(4621404876).jpg

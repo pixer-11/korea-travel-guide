@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4f361cf6e4b0cc4ce20bac8a
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg
     credit: 'Photo: Oliver Propst / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Sushi_Section_At_Addiction_Aquatic_Development_(72928571).jpeg

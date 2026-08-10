@@ -6,7 +6,7 @@ region: New York
 category: attraction
 pubDate: '2026-08-04T10:08:39.985Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Channel_Gardens_Rockefeller_Center_New_York_2022.jpg/1920px-Channel_Gardens_Rockefeller_Center_New_York_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Channel_Gardens_Rockefeller_Center_New_York_2022.jpg/1920px-Channel_Gardens_Rockefeller_Center_New_York_2022.jpg
   credit: 'Photo: Larry D. Moore / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Channel_Gardens_Rockefeller_Center_New_York_2022.jpg

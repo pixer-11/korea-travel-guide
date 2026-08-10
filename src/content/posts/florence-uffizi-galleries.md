@@ -6,7 +6,7 @@ region: Florence
 category: attraction
 pubDate: '2026-07-26T07:53:38.760Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/1920px-Uffizi_Gallery%2C_Florence-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/1920px-Uffizi_Gallery%2C_Florence-2.jpg
   credit: 'Photo: Armin Kleiner / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Uffizi_Gallery,_Florence-2.jpg

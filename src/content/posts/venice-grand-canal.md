@@ -6,7 +6,7 @@ region: Venice
 category: attraction
 pubDate: '2026-07-31T10:03:53.333Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg/1920px-Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg/1920px-Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg
   credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Rainy._The_Grand_Canal_near_the_Rialto_Bridge._Venice.jpg

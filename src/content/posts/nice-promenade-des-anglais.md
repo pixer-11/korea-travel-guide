@@ -6,7 +6,7 @@ region: Nice
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Promenade_des_Anglais_%28Nice%29%2C_plage.jpg/1920px-Promenade_des_Anglais_%28Nice%29%2C_plage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Promenade_des_Anglais_%28Nice%29%2C_plage.jpg/1920px-Promenade_des_Anglais_%28Nice%29%2C_plage.jpg
   credit: 'Photo: Uhooep / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Promenade_des_Anglais_(Nice),_plage.jpg

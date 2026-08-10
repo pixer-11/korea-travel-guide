@@ -6,7 +6,7 @@ region: Milan
 category: hidden-gem
 pubDate: '2026-08-03T11:08:58.415Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Galleria_Milano_%28179532365%29.jpeg/1920px-Galleria_Milano_%28179532365%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Galleria_Milano_%28179532365%29.jpeg/1920px-Galleria_Milano_%28179532365%29.jpeg
   credit: 'Photo: Marco Pagani / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Galleria_Milano_(179532365).jpeg

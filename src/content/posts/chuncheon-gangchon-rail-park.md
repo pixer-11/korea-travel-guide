@@ -6,7 +6,7 @@ region: Chuncheon
 category: hidden-gem
 pubDate: '2026-08-02T09:52:28.403Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gangchon_Rail_Park_train_-_54971861637.jpg/1920px-Gangchon_Rail_Park_train_-_54971861637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gangchon_Rail_Park_train_-_54971861637.jpg/1920px-Gangchon_Rail_Park_train_-_54971861637.jpg
   credit: 'Photo: Gage Skidmore / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Gangchon_Rail_Park_train_-_54971861637.jpg

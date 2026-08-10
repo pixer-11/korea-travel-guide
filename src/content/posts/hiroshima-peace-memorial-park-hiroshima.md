@@ -6,7 +6,7 @@ region: Hiroshima
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg/1920px-Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg/1920px-Hiroshima_Peace_Memorial_Park%2C_20240817_1032_4210.jpg
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Park,_20240817_1032_4210.jpg

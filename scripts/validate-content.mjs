@@ -266,6 +266,17 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
     }
   }
 
+  // A tracking query on an image URL is an INVISIBLE outage: content blockers
+  // cancel any request carrying utm_source/utm_campaign/utm_content, so the
+  // reader gets an empty frame while the server answers 200 and every automated
+  // check passes. On 2026-08-10 that was the hero of 477 of 860 guides — and it
+  // had been found and repaired once already, in 24 posts on 08-04, before the
+  // source re-added it for six days. commons.mjs now strips it on arrival; this
+  // is the tripwire that says so if it ever creeps back in by another route.
+  if (p.url && /[?&]utm_(source|campaign|content|medium)=/i.test(p.url)) {
+    issues.push(`IMAGE TRACKING-QUERY — hero URL carries utm params (content blockers will hide this photo): ${p.f}`);
+  }
+
   // A title left dangling on a connector — the de-echo rule stripped the city out of
   // "Classical Gardens of Suzhou" and shipped "Classical Gardens of: Suzhou …".
   if (/\b(of|the|de|du|des|at|in|on|and|for|el|la|le|les)\s*:\s/i.test(p.title) || /[&@+\-–—/]\s*:\s/.test(p.title)) {

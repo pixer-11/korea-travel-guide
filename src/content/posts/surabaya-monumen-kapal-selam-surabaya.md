@@ -6,7 +6,7 @@ region: Surabaya
 category: hidden-gem
 pubDate: '2026-07-23T07:21:17.452Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg/1920px-Bagian_Dalam_Monumen_Kapal_Selam_%28Monkasel%29_Surabaya_4.jpg
   credit: 'Photo: Diahasy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bagian_Dalam_Monumen_Kapal_Selam_(Monkasel)_Surabaya_4.jpg

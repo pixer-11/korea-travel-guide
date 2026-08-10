@@ -6,7 +6,7 @@ region: Hanoi
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Waste_Picker_-_IMG_6529.jpg/1920px-The_Waste_Picker_-_IMG_6529.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Waste_Picker_-_IMG_6529.jpg/1920px-The_Waste_Picker_-_IMG_6529.jpg
   credit: 'Photo: Bijay chaurasia / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Waste_Picker_-_IMG_6529.jpg

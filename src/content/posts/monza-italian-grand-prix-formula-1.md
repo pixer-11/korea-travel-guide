@@ -11,7 +11,7 @@ eventEndDate: 2026-09-06T00:00:00.000Z
 pubDate: '2026-07-21'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fale_F1_Monza_2004_77.jpg/1920px-Fale_F1_Monza_2004_77.jpg
   credit: 'Photo: Fabio Alessandro Locati / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg'

@@ -6,12 +6,12 @@ region: Nice
 category: attraction
 pubDate: "2026-08-08T08:18:23.435Z"
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Parc_Phoenix_serre_Nice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Parc_Phoenix_serre_Nice.jpg
   credit: "Photo: GLOBI ۞ FUZZI / Wikimedia Commons (CC BY-SA 2.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Parc_Phoenix_serre_Nice.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Parc_Ph%C5%93nix_%C3%A0_Nice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+  - url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
     credit: "Photo: Cette photo a été prise par André ALLIOT . / Wikimedia Commons (CC0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Parc_Ph%C5%93nix_%C3%A0_Nice.JPG

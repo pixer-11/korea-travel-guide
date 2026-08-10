@@ -6,7 +6,7 @@ region: "Barcelona"
 category: "attraction"
 pubDate: "2026-08-07T08:35:41.187Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/02/MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  url: "https://upload.wikimedia.org/wikipedia/commons/0/02/MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg"
   credit: "Photo: Victoriano Javier Tornel García from Barcelona, España / Wikimedia Commons (CC BY-SA 2.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:MACBA,_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_(2).jpg"

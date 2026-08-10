@@ -6,7 +6,7 @@ region: Singapore
 category: attraction
 pubDate: '2026-07-26T07:12:40.205Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg/1920px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg/1920px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg
   credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Singapore_Flyer_--_2019_--_4753.jpg

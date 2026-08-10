@@ -6,7 +6,7 @@ region: New Orleans
 category: restaurant
 pubDate: '2026-07-30T10:03:14.522Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Napoleon_House_-_New_Orleans_February_2026.jpg/1920px-The_Napoleon_House_-_New_Orleans_February_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Napoleon_House_-_New_Orleans_February_2026.jpg/1920px-The_Napoleon_House_-_New_Orleans_February_2026.jpg
   credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Napoleon_House_-_New_Orleans_February_2026.jpg

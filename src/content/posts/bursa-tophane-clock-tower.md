@@ -6,7 +6,7 @@ region: "Bursa"
 category: "attraction"
 pubDate: "2026-08-10T09:12:43.615Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg"
   credit: "Photo: Sirayeti / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:View_of_Bursa_Tophane_clock_tower.jpg"

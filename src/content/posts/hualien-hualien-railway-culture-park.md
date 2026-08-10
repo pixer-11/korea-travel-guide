@@ -6,7 +6,7 @@ region: Hualien
 category: attraction
 pubDate: '2026-07-26T08:22:31.318Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg/1920px-Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg/1920px-Hualien_Railway_Culture_Park%2C_Hualien_City%2C_Hualien_County_%28Taiwan%29.jpg
   credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hualien_Railway_Culture_Park,_Hualien_City,_Hualien_County_(Taiwan).jpg

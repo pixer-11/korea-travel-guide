@@ -6,7 +6,7 @@ country: South Korea
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hwaseong_Fortress_01.jpg/1920px-Hwaseong_Fortress_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hwaseong_Fortress_01.jpg/1920px-Hwaseong_Fortress_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_01.jpg

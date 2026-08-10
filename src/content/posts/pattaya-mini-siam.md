@@ -6,7 +6,7 @@ region: Pattaya
 category: attraction
 pubDate: '2026-07-22T09:08:53.948Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/202307_Mini_Siam%2C_Pattaya_16.jpg/1920px-202307_Mini_Siam%2C_Pattaya_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/202307_Mini_Siam%2C_Pattaya_16.jpg/1920px-202307_Mini_Siam%2C_Pattaya_16.jpg
   credit: 'Photo: Jonashtand / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:202307_Mini_Siam,_Pattaya_16.jpg

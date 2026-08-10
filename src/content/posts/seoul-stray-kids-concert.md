@@ -11,7 +11,7 @@ eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
   url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png/1920px-Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png/1920px-Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png
   credit: 'Photo: 티비텐 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: >-

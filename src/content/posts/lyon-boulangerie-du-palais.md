@@ -6,7 +6,7 @@ region: "Lyon"
 category: "trendy"
 pubDate: "2026-08-10T08:59:52.746Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg/3840px-Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg/3840px-Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg"
   credit: "Photo: Romainbehar / Wikimedia Commons (CC0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais,_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg"
