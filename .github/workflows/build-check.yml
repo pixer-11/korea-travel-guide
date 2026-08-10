@@ -4,15 +4,40 @@ name: Build check (deploy guard)
 # version — the ONLY signal was a dashboard badge nobody watches (today a
 # schema-enum miss froze deploys for ~40 min). This runs the same build on
 # every push to main and telegrams in Korean the moment a commit can't build.
+#
+# It also DEPLOYS the site now (2026-08-10). Cloudflare's own Workers Builds ran
+# this very same build a second time, and that second run was what shipped the
+# site — until it ran out: "You have used all 3,000 included build minutes for
+# the month". Eight commits in a row came back `skipped`, the site sat three
+# hours on a version from before that evening's repairs, and nothing alerted,
+# because a SKIPPED build is not a FAILED one. At ~20 commits a day over 6,600
+# pages the free allowance is spent by the 10th of every month, so this was
+# never going to be a one-off.
+#
+# The repo is public, so Actions minutes are free. Building once here and
+# shipping that same dist costs nothing and removes the monthly cliff.
+# ⚠️ Cloudflare's automatic builds must be switched OFF in the dashboard before
+# its allowance resets on Sep 1, or both will deploy.
 on:
+  # Ship the current main on demand — the button that used to be Cloudflare's
+  # "Retry build". Also the only way to redeploy after a change that touches
+  # nothing in `paths` below (this file, for one).
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
+      - '.github/workflows/build-check.yml'
       - 'src/**'
       - 'data/**'
       - 'astro.config.mjs'
       - 'package.json'
       - 'package-lock.json'
+      # Now that this workflow is what ships the site, whatever the DEPLOY needs
+      # has to wake it too — not just what the BUILD reads. These three never
+      # mattered while Cloudflare rebuilt on every push regardless.
+      - 'public/**'
+      - 'worker/**'
+      - 'wrangler.jsonc'
       # data/ holds two different kinds of file. Some of it the build reads
       # (countries, country-facts, esim-facts, hero-width-queue, wall); the
       # rest is bookkeeping the bots rewrite all day — tokens, cursors, run
@@ -62,7 +87,18 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Alert on build failure
+      # Ships the dist that was just verified above. Same wrangler command
+      # Cloudflare's own builder ran ("npx wrangler deploy"), same wrangler.jsonc,
+      # so the result is byte-identical to what it used to publish.
+      - name: Deploy to Cloudflare Workers
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 deploy
+
+      # Covers the build AND the deploy: the whole point is that the site not
+      # being current must never again be a silent state.
+      - name: Alert on build or deploy failure
         if: failure()
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -70,7 +106,7 @@ jobs:
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
-            echo "🚨 사이트 빌드 실패 — 배포가 이전 버전에 멈춰 있습니다!"
+            echo "🚨 사이트 빌드/배포 실패 — 배포가 이전 버전에 멈춰 있습니다!"
             echo "커밋: ${GITHUB_SHA:0:7}"
             echo "클로드에게 '빌드 실패 고쳐줘'라고 말하면 원인을 찾아 수정합니다."
           } > /tmp/msg.txt
