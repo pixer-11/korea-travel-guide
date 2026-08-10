@@ -1,0 +1,10 @@
+# Cloudflare token check — written by .github/workflows/cf-token-check.yml
+# Verdict only: identifying details are stripped on purpose.
+checked_at: 2026-08-10T13:35:07Z
+token_present: yes
+account_id_present: yes
+success: false
+status: null
+error: 1000 Invalid API Token
+--- permission lines (names only) ---
+ℹ️  The API Token is read from the CLOUDFLARE_API_TOKEN environment variable.
