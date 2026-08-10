@@ -1,37 +1,37 @@
 ---
-title: "Jardin des Curiosités: Lyon Travel Guide (4.7★)"
-description: "Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. de l'Abbé Larue, 69005) with sweeping views over the Saône and the city's rooftops. 4.7★ (2,109 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "attraction"
-pubDate: "2026-08-10T08:57:41.561Z"
+title: 'Jardin des Curiosités: Lyon Travel Guide (4.7★)'
+description: Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. de l'Abbé Larue, 69005) with sweeping views over the Saône and the city's rooftops. 4.7★ (2,109 reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: attraction
+pubDate: '2026-08-10T08:57:41.561Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jardin_des_Curiosit%C3%A9s_1.jpg/1920px-Jardin_des_Curiosit%C3%A9s_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  credit: "Photo: PHILDIC / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jardin_des_Curiosit%C3%A9s_1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jardin_des_Curiosit%C3%A9s_1.jpg/1920px-Jardin_des_Curiosit%C3%A9s_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+  credit: 'Photo: PHILDIC / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jardin_des_Curiosit%C3%A9s_1.jpg
 gallery: []
 place:
-  id: "ChIJeyxpHa7r9EcRU1fPzvhSe9U"
-  name: "Jardin des Curiosités"
-  address: "8 Pl. de l'Abbé Larue, 69005 Lyon, France"
+  id: ChIJeyxpHa7r9EcRU1fPzvhSe9U
+  name: Jardin des Curiosités
+  address: 8 Pl. de l'Abbé Larue, 69005 Lyon, France
   rating: 4.7
   userRatingsTotal: 2109
-  googleMapsUrl: "https://maps.google.com/?cid=15382980180789122899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15382980180789122899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.754976299999996
   lng: 4.821871499999999
-  phone: "+33 4 72 69 47 60"
+  phone: +33 4 72 69 47 60
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 10:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -53,24 +53,24 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_5539655368767a506631555263453972376148707879654a496843"
+    venueId: ven_5539655368767a506631555263453972376148707879654a496843
 tags:
-  - "lyon"
-  - "night view"
-quickAnswer: "Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. de l'Abbé Larue, 69005) with sweeping views over the Saône and the city's rooftops. It's open daily 8am–10pm, and the calmest window is 8am–12pm any day — weekend afternoons from 1pm on get busy. Bring a picnic, sit on the terraced lawns, and pair it with a wander down to Vieux Lyon."
+  - lyon
+  - night view
+quickAnswer: Jardin des Curiosités is a small hilltop garden in Lyon's Fourvière district (8 Pl. de l'Abbé Larue, 69005) with sweeping views over the Saône and the city's rooftops. It's open daily 8am–10pm, and the calmest window is 8am–12pm any day — weekend afternoons from 1pm on get busy. Bring a picnic, sit on the terraced lawns, and pair it with a wander down to Vieux Lyon.
 faq:
-  - q: "How do I get to Jardin des Curiosités?"
-    a: "Walk up from Vieux Lyon metro station (Line D) through the old town, about 15–20 minutes uphill, or take the Fourvière funicular from Vieux Lyon station and walk down through the traboules."
-  - q: "What's the quietest time to visit?"
-    a: "Foot-traffic data shows 8am–12pm is calmest, on both weekdays and weekends. Weekend afternoons from 1pm to 8pm are the busiest, so avoid that window if you want space."
-  - q: "Is there an entry fee?"
-    a: "No, it's a free public garden, open daily from 8am to 10pm."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 20–40 minutes, longer if you bring a picnic. There are no cafés or facilities on-site, so pack food and water beforehand."
-  - q: "What's nearby?"
-    a: "It sits right on the slope between Vieux Lyon and the Fourvière basilica, making it an easy add-on to a traboules walk or a basilica visit."
+  - q: How do I get to Jardin des Curiosités?
+    a: Walk up from Vieux Lyon metro station (Line D) through the old town, about 15–20 minutes uphill, or take the Fourvière funicular from Vieux Lyon station and walk down through the traboules.
+  - q: What's the quietest time to visit?
+    a: Foot-traffic data shows 8am–12pm is calmest, on both weekdays and weekends. Weekend afternoons from 1pm to 8pm are the busiest, so avoid that window if you want space.
+  - q: Is there an entry fee?
+    a: No, it's a free public garden, open daily from 8am to 10pm.
+  - q: How long should I spend there?
+    a: Most visitors spend 20–40 minutes, longer if you bring a picnic. There are no cafés or facilities on-site, so pack food and water beforehand.
+  - q: What's nearby?
+    a: It sits right on the slope between Vieux Lyon and the Fourvière basilica, making it an easy add-on to a traboules walk or a basilica visit.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

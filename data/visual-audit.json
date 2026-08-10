@@ -9257,5 +9257,131 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Din Tai Fung signature dumplings, fried rice cake, dipping s",
   "at": "2026-08-09T20:32:50.919Z"
+ },
+ "baguio-tam-awan-village\u0001https://upload.wikimedia.org/wikipedia/commons/c/ca/Tam-awan_Village_%28Baguio_City%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "baguio-tam-awan-village",
+  "verdict": "MATCH",
+  "reason": "Historic village structure with traditional architecture, Ba",
+  "reasonKo": "바기오의 전통 마을 구조, 역사적 건축",
+  "at": "2026-08-10T14:01:31.396Z"
+ },
+ "bursa-tophane-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "bursa-tophane-clock-tower",
+  "verdict": "MATCH",
+  "reason": "Clock tower in Bursa with characteristic architecture",
+  "reasonKo": "부르사의 특징적인 시계탑 건축",
+  "at": "2026-08-10T14:01:33.873Z"
+ },
+ "cameron-highlands-cactus-valley\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "cameron-highlands-cactus-valley",
+  "verdict": "MATCH",
+  "reason": "Cactus blooms typical of Cameron Highlands flora",
+  "reasonKo": "카메론 고지대의 전형적인 선인장 꽃",
+  "at": "2026-08-10T14:01:35.961Z"
+ },
+ "damyang-dodamsambong-peaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg/3840px-Geology_of_South_Korea_-_Dodamsambong%2C_Peaks%28%EB%8F%84%EB%8B%B4%EC%82%BC%EB%B4%89%29_%2835912678771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "damyang-dodamsambong-peaks",
+  "verdict": "MATCH",
+  "reason": "Dodamsambong peaks in Damyang lake, correct location",
+  "reasonKo": "담양호의 도담삼봉 정확한 장소",
+  "at": "2026-08-10T14:01:37.668Z"
+ },
+ "el-nido-taraw-cliff\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Taraw_Cliff%2C_El_Nido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "el-nido-taraw-cliff",
+  "verdict": "MATCH",
+  "reason": "Taraw Cliff with village below, El Nido Philippines",
+  "reasonKo": "엘니도 타라우 절벽과 해변 마을",
+  "at": "2026-08-10T14:01:39.284Z"
+ },
+ "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "gangneung-anmok-beach",
+  "verdict": "MATCH",
+  "reason": "Beach scene matches Anmok Beach description well",
+  "reasonKo": "안목해변과 잘 맞는 해변 풍경",
+  "at": "2026-08-10T14:01:46.299Z"
+ },
+ "gangneung-gangmun-sotdae-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gangmun_Sotdae_Bridge_2.jpg/3840px-Gangmun_Sotdae_Bridge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "gangneung-gangmun-sotdae-bridge",
+  "verdict": "MATCH",
+  "reason": "Modern arch bridge over water in Gangneung",
+  "reasonKo": "강릉의 현대식 아치교 구조",
+  "at": "2026-08-10T14:01:49.312Z"
+ },
+ "gangneung-topten\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/KakaoTalk_20240513_201656530_02.jpg/1920px-KakaoTalk_20240513_201656530_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "gangneung-topten",
+  "verdict": "MISMATCH",
+  "reason": "Clothing store, not a trendy venue/restaurant",
+  "reasonKo": "의류점, 트렌디 장소 아님",
+  "at": "2026-08-10T14:01:50.908Z"
+ },
+ "incheon-eurwangni-beach\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "incheon-eurwangni-beach",
+  "verdict": "MATCH",
+  "reason": "Beach scene with swimmers, sandy shore, boats",
+  "reasonKo": "해변, 모래사장, 수영객, 배 보임",
+  "at": "2026-08-10T14:01:53.559Z"
+ },
+ "incheon-incheon-grand-park\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "incheon-incheon-grand-park",
+  "verdict": "MATCH",
+  "reason": "Incheon Grand Park entrance building, distinctive architectu",
+  "reasonKo": "인천대공원 입구, 특징적 건축물",
+  "at": "2026-08-10T14:01:54.789Z"
+ },
+ "kolkata-howrah-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+  "slug": "kolkata-howrah-bridge",
+  "verdict": "MATCH",
+  "reason": "Iconic nighttime view of Howrah Bridge",
+  "reasonKo": "하우rah 다리의 야간 야경",
+  "at": "2026-08-10T14:01:56.062Z"
+ },
+ "kuching-kubah-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kubah_waterafall_at_morning.jpg/1920px-Kubah_waterafall_at_morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "kuching-kubah-national-park",
+  "verdict": "MATCH",
+  "reason": "Waterfall in lush jungle, typical of Kubah NP",
+  "reasonKo": "쿠바 국립공원의 전형적인 폭포",
+  "at": "2026-08-10T14:01:57.904Z"
+ },
+ "lyon-boulangerie-du-palais\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg/3840px-Lyon_5e_-_Rue_du_Palais_de_justice_-_Boulangerie_du_Palais%2C_%C3%A0_l%27angle_de_la_rue_Saint_Jean.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "lyon-boulangerie-du-palais",
+  "verdict": "MATCH",
+  "reason": "French boulangerie storefront in Lyon's old town",
+  "reasonKo": "리옹 구도시의 프랑스 베이커리 외관",
+  "at": "2026-08-10T14:02:01.834Z"
+ },
+ "lyon-jardin-des-curiosites\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jardin_des_Curiosit%C3%A9s_1.jpg/1920px-Jardin_des_Curiosit%C3%A9s_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "lyon-jardin-des-curiosites",
+  "verdict": "MISMATCH",
+  "reason": "Park/garden, not Jardin des Curiosités venue",
+  "reasonKo": "호텔 정원이 아닌 일반 공원",
+  "at": "2026-08-10T14:02:04.768Z"
+ },
+ "lyon-lyon-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "lyon-lyon-botanical-garden",
+  "verdict": "MATCH",
+  "reason": "Botanical garden with diverse plants, paths, trees",
+  "reasonKo": "다양한 식물과 산책로가 있는 식물원",
+  "at": "2026-08-10T14:02:06.534Z"
+ },
+ "lyon-quais-de-saone-a-lyon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg/3840px-Lyon_quais_Fulchiron_et_Mar%C3%A9chal_Joffre_-_Sa%C3%B4ne_-_P%C3%A9niches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "lyon-quais-de-saone-a-lyon",
+  "verdict": "MATCH",
+  "reason": "Saône riverbank with moored boats and Lyon architecture",
+  "reasonKo": "론의 손강 강변, 배, 건축물",
+  "at": "2026-08-10T14:02:08.448Z"
+ },
+ "lyon-temple-du-change\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Temple_Change_Lyon_7.jpg/1920px-Temple_Change_Lyon_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "lyon-temple-du-change",
+  "verdict": "MATCH",
+  "reason": "Neoclassical building, Lyon courtyard, correct architecture",
+  "reasonKo": "리옹의 신고전주의 건물, 정확한 건축양식",
+  "at": "2026-08-10T14:02:11.005Z"
+ },
+ "sun-moon-lake-year-of-steps-at-wenwu-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+  "slug": "sun-moon-lake-year-of-steps-at-wenwu-temple",
+  "verdict": "MATCH",
+  "reason": "Long staircase with ornate railings, forest setting, Taiwan ",
+  "reasonKo": "긴 계단, 장식 난간, 숲, 대만 사찰",
+  "at": "2026-08-10T14:02:14.673Z"
  }
 }
