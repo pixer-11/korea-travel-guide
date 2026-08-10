@@ -17,6 +17,8 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -50,6 +52,35 @@ jobs:
           # Never leak the token itself if a tool ever echoes it back.
           sed -i "s/${CLOUDFLARE_API_TOKEN:-__nope__}/***REDACTED***/g" /tmp/cf.txt || true
           cat /tmp/cf.txt
+
+      # Telegram reaches the owner; this reaches whoever is working on the repo.
+      # A session has no way to read an Actions log (GitHub requires a sign-in,
+      # and there is no gh CLI here), which is exactly why the deploy failure of
+      # 2026-08-10 could not be diagnosed without the owner relaying a message.
+      # Only the VERDICT is committed — no email, no account id, no token.
+      - name: Leave the verdict in the repo
+        if: always()
+        run: |
+          mkdir -p data/logs
+          {
+            echo "# Cloudflare token check — written by .github/workflows/cf-token-check.yml"
+            echo "# Verdict only: identifying details are stripped on purpose."
+            echo "checked_at: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "token_present: $([ -n "${{ secrets.CF_API_TOKEN }}" ] && echo yes || echo no)"
+            echo "account_id_present: $([ -n "${{ secrets.CF_ACCOUNT_ID }}" ] && echo yes || echo no)"
+            grep -E '^(success|status|error):' /tmp/cf.txt || true
+            echo "--- permission lines (names only) ---"
+            grep -iE 'permission|scope|workers|r2|edit|read' /tmp/cf.txt \
+              | grep -viE '@|[0-9a-f]{32}' \
+              | head -30 || true
+          } > data/logs/cf-token-check.txt
+          # Belt and braces: never let an address or a 32-hex id through.
+          sed -i -E 's/[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+/***EMAIL***/g; s/[0-9a-f]{32}/***ID***/g' data/logs/cf-token-check.txt
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/logs/cf-token-check.txt
+          git diff --cached --quiet || git commit -m "chore: cloudflare token check verdict"
+          git push || true
 
       - name: Send the answer to Telegram
         if: always()
