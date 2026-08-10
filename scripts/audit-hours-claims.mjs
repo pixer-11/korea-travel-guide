@@ -143,7 +143,6 @@ export function hoursProblems(raw) {
   // box only knows whole days, so a half-day claim cannot contradict it.
   const SCOPE_SHIFT = `(?!\\s+(?:hours?|times?|schedules?|openings?|closings?|mornings?|afternoons?|evenings?|nights?|crowds?|visitors?|queues?|lines?|tickets?|entry|admission|prices?|rates?|brunch|lunch|dinner|traffic|services?)\\b)`;
   const claimsClosedOn = (d, text) => {
-    const gap = `(?:(?!\\b(?:${DAY_ALT})\\b)[^.]){0,40}`;
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just
@@ -159,8 +158,20 @@ export function hoursProblems(raw) {
     // merely sits nearby in the same sentence.
     const closedThenOtherDay = new RegExp(
       `closed\\s+${ADV}\\b(?:${DAY_ALT})s?\\b(?:(?:,\\s*(?:and\\s+)?|\\s+and\\s+)(?:${DAY_ALT})s?\\b${SCOPE_SHIFT})*`, 'gi');
-    const stripped = text.replace(closedThenOtherDay, ' ');
-    return new RegExp(`closed${gap}\\b${d}s?\\b${SCOPE_SHIFT}|\\b${d}s?\\b${SCOPE_SHIFT}${gap}closed`, 'i').test(stripped);
+    let stripped = text.replace(closedThenOtherDay, ' ');
+    // "open only Saturday and Sunday … Closed the rest of the week" — the
+    // closure names its OWN subject (the remaining days), so it must never
+    // pair with a day that merely precedes it. lyon-temple-du-change was
+    // quarantined on publish day for exactly this correct sentence
+    // (2026-08-10), and the fixer then found nothing to repair — the same
+    // nothing-to-fix loop every lesson in this function describes.
+    stripped = stripped.replace(
+      /closed\s+(?:for\s+|on\s+|to\s+the\s+public\s+)*(?:the\s+rest\s+of\s+the\s+week|(?:all\s+|every\s+)?other\s+days?|weekdays)/gi, ' ');
+    // The pairing gap must not cross a line break: in this corpus a newline is
+    // a list-item or paragraph boundary, never the middle of a sentence — the
+    // Lyon case paired a bullet's "Sunday" with the next paragraph's "Closed".
+    const nearGap = `(?:(?!\\b(?:${DAY_ALT})\\b)[^.\\n]){0,40}`;
+    return new RegExp(`closed${nearGap}\\b${d}s?\\b${SCOPE_SHIFT}|\\b${d}s?\\b${SCOPE_SHIFT}${nearGap}closed`, 'i').test(stripped);
   };
 
   for (const d of DAYS) {

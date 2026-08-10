@@ -65,6 +65,25 @@ const cases = [
     "It's closed Sunday through Wednesday, so plan your LA itinerary around that narrow window."), 0],
   ['TP-suggest-closed-day (must FLAG)', post(VEGAS,
     'A Tuesday morning visit is the quietest way to see the gardens.'), 1],
+  // 08-10 lyon-temple-du-change: 주말만 여는 곳의 정상 본문 —
+  //   "- **Saturday**, 3:00–6:00 PM\n- **Sunday**, 10:00–12:30 PM\n\nClosed
+  //   the rest of the week." 목록의 Sunday와 다음 문단의 Closed가 마침표 없이
+  //   이어져 "일요일 휴관 주장"으로 오탐 → 발행 당일 격리, 수리기는 고칠 게
+  //   없었다. 줄바꿈=주장 경계 + "닫는 대상을 스스로 명시한 closed"는 앞
+  //   요일과 짝짓지 않는다.
+  ['FP-lyon-rest-of-week (should be CLEAN)', post(
+    ['Monday: Closed', 'Tuesday: Closed', 'Wednesday: Closed', 'Thursday: Closed', 'Friday: Closed',
+     'Saturday: 3:00 – 6:00 PM', 'Sunday: 10:00 AM – 12:30 PM'],
+    "It's open only:\n- **Saturday**, 3:00–6:00 PM\n- **Sunday**, 10:00–12:30 PM\n\nClosed the rest of the week. Because the opening window is so narrow, check the schedule first."), 0],
+  // 같은 문장 안에 이어져도(줄바꿈 없이) closed가 대상을 스스로 말하면 무죄.
+  ['FP-same-sentence-rest-of-week (should be CLEAN)', post(
+    ['Monday: Closed', 'Tuesday: Closed', 'Wednesday: Closed', 'Thursday: Closed', 'Friday: Closed',
+     'Saturday: 3:00 – 6:00 PM', 'Sunday: 10:00 AM – 12:30 PM'],
+    'It is open Saturday afternoons and Sunday mornings and closed the rest of the week, so plan around the weekend.'), 0],
+  // 진짜 모순은 여전히 잡혀야 한다: 사실상자엔 일요일이 열려 있는데 본문이
+  // "closed Sunday"라고 주장하는 경우.
+  ['TP-closed-sunday-still-flags (must FLAG)', post(VEGAS,
+    'Note that the gardens are closed Sunday, so weekend visitors should aim for Saturday.'), 1],
 ];
 
 let fail = 0;

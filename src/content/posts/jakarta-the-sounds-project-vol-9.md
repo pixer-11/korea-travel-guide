@@ -62,4 +62,6 @@ Set times for headliners like Jet or Rizky Febian were released close to the eve
 
 Jakarta festival-goers tend to arrive fashionably late for opening acts and time their entry for whichever set they actually want, so lines are usually calmest in the first hour after gates open. Payment at most stalls and merch booths leans cashless — QRIS (Indonesia's universal QR payment system) is widely accepted alongside cards, so having a QRIS-linked e-wallet app (GoPay, OVO, or Dana) saves time versus fumbling for cash.
 
-Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and distance from the ticket gate to the actual stage area — wearing real shoes, not sandals, was worthwhile given the decent walk from par
+Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and distance from the ticket gate to the actual stage area — wearing real shoes, not sandals, was worthwhile given the decent walk from parking or drop-off points. Locals also dressed light and practical: breathable fabrics, a cap, and a small backpack rather than anything bulky, since Jakarta's August heat and humidity peak in the late afternoon.
+
+The Sounds Project is an annual festival, so a Vol. 10 edition is likely — check the official Sounds Project website or social media for future dates, venue details, and ticket news before planning a trip around it.

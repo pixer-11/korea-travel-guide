@@ -46,8 +46,7 @@ faq:
   - q: "Is it crowded?"
     a: "No — it stays under the radar even with its narrow opening hours, so you'll usually have a peaceful visit compared to nearby Vieux Lyon landmarks."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
