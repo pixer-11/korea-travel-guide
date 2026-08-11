@@ -1,11 +1,7 @@
 {
-  "phase": "details",
-  "idleStreak": 2,
+  "phase": "country",
+  "idleStreak": 0,
   "history": [
-    {
-      "at": "2026-08-01T10:00:12.208Z",
-      "updated": 0
-    },
     {
       "at": "2026-08-02T10:10:42.451Z",
       "updated": 9
@@ -49,6 +45,12 @@
       "at": "2026-08-10T09:46:30.543Z",
       "updated": 0,
       "backlog": 0
+    },
+    {
+      "at": "2026-08-11T08:59:14.226Z",
+      "updated": 0,
+      "backlog": 0
     }
-  ]
+  ],
+  "switchedAt": "2026-08-11T08:59:14.226Z"
 }
