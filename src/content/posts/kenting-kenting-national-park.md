@@ -65,7 +65,7 @@ Most visitors reach Kenting via Kaohsiung, about two hours south by car or bus. 
 
 Once there, a rental scooter is the practical way to move between sites — the park's attractions are scattered along a coastal loop that public transit only partly covers.
 
-- Kaohsiung HSR/airport → Kenting: ~2 hours by direct bus
+- Kaohsiung HSR/airport → Kenting: about 2 hours by direct bus
 - Local buses (Kenting Street Car) link major beaches but run infrequently
 - Scooter rental shops cluster along Kenting's main strip, near Eluanbi Road
 

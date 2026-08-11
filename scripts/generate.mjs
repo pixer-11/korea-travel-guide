@@ -1088,7 +1088,16 @@ function assemble(target, place, title, heroImage, gallery, content) {
     ? 'Facts are pulled from live Google Places data; images are licensed or public domain.'
     : 'Images are licensed or public domain. This is a general area/topic overview — verify specific venue details before visiting.';
   const disclosure = `> **How this guide was made:** Editor-reviewed, AI-assisted. ${src} See our [editorial policy](/about).\n\n`;
-  const markdown = `---\n${toYaml(fm)}---\n\n${disclosure}${body}\n`;
+  // A bare ~ is markdown syntax, and the writer reaches for it as "about":
+  // "~2 hours by direct bus" renders with a strikethrough through the number,
+  // so the one fact in the line is the one thing the reader cannot read
+  // (kenting-kenting-national-park, caught by validate-content on the first
+  // bulk-fill batch, 2026-08-11). The translator already escapes it — the ko
+  // and es files for that same post shipped a correct \~ — so only the English
+  // source was ever wrong. Escape it here, where every post is written, rather
+  // than asking the model to remember.
+  const escapeTildes = (s) => String(s).replace(/(^|[^\\])~/g, '$1\\~');
+  const markdown = `---\n${toYaml(fm)}---\n\n${disclosure}${escapeTildes(body)}\n`;
   return { slug, markdown };
 }
 

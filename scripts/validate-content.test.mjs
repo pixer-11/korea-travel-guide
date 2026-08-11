@@ -241,6 +241,34 @@ cases.push(['본문이 아예 없는 항목은 이 검사가 건드리지 않는
   return out.length ? `오탐: ${out.join(' | ')}` : null;
 }]);
 
+// ── off-topic 히어로: 비전이 이미 MATCH 준 사진은 조용해야 한다 ──
+// 2026-08-11: 툴루즈 자연사박물관 글의 히어로가 "Grand_carré_MHNT.jpg"였다.
+// MHNT는 그 박물관 자신의 약어(Muséum d'Histoire Naturelle de Toulouse)라
+// 토큰 대조로는 알 수 없고, 순찰은 이미 MATCH("코끼리·익룡 골격이 있는
+// 자연사박물관 내부")를 기록해둔 상태였다. 그래도 매번 경고가 나오면 목록을
+// 대충 넘기게 되고, 그때 진짜 경고가 묻힌다.
+const SEP = String.fromCharCode(1);
+const OFFTOPIC = {
+  f: 'toulouse-museum-de-toulouse.md', category: 'attraction',
+  title: 'Muséum de Toulouse: Travel Guide', placeName: 'Muséum de Toulouse', region: 'Toulouse',
+  license: 'wikimedia', url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/x/y/Grand_carr%C3%A9_MHNT.jpg/1920px-Grand_carr%C3%A9_MHNT.jpg',
+  credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)',
+};
+cases.push(['판정 없는 off-topic 히어로는 여전히 경고한다', () => {
+  const out = run(OFFTOPIC, { verdicts: {} });
+  return has(out, 'IMAGE MISMATCH') ? null : `놓침: ${out.join(' | ') || '(clean)'}`;
+}]);
+cases.push(['MATCH 판정이 있으면 조용하다', () => {
+  const key = `toulouse-museum-de-toulouse${SEP}${OFFTOPIC.url}`;
+  const out = run(OFFTOPIC, { verdicts: { [key]: { verdict: 'MATCH', reason: 'natural history museum interior' } } });
+  return has(out, 'IMAGE MISMATCH') ? `오탐: ${out.join(' | ')}` : null;
+}]);
+cases.push(['MISMATCH 판정은 침묵시키지 않는다', () => {
+  const key = `toulouse-museum-de-toulouse${SEP}${OFFTOPIC.url}`;
+  const out = run(OFFTOPIC, { verdicts: { [key]: { verdict: 'MISMATCH', reason: 'wrong building' } } });
+  return has(out, 'IMAGE MISMATCH') ? null : `놓침: MISMATCH인데 경고가 사라졌다`;
+}]);
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;

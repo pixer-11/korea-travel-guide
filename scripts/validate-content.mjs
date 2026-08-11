@@ -181,7 +181,7 @@ export function stubBodyProblems(posts) {
   return issues;
 }
 
-export function postProblems(p, { today = new Date().toISOString().slice(0, 10) } = {}) {
+export function postProblems(p, { today = new Date().toISOString().slice(0, 10), verdicts = {} } = {}) {
   const issues = [];
 
   if (p.region.includes('/')) issues.push(`SLASH in region "${p.region}" — breaks /regions route: ${p.f}`);
@@ -260,7 +260,17 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10) 
   if (p.url && p.license === 'wikimedia') {
     const hay = decodeURIComponent(p.url) + ' ' + p.credit;
     const subject = [p.title, p.placeName, p.region].filter(Boolean).join(' ');
-    if (offTopicToken(hay, subject)) {
+    // A filename token this rule cannot place is a SUSPICION, and vision has
+    // already answered the question for photos it judged. The Muséum de
+    // Toulouse hero is "Grand_carré_MHNT.jpg" — MHNT is that museum's own
+    // acronym (Muséum d'Histoire Naturelle de Toulouse), unknowable from
+    // tokens, and the patrol had recorded MATCH: "interior with elephant and
+    // pterosaur skeleton matches natural history museum". Reporting it anyway
+    // trains the reader to skim a list whose whole value is that it is short.
+    // Only a MATCH silences this; an unjudged photo still gets flagged.
+    const seen = verdicts[`${p.f.replace(/\.md$/, '')}${String.fromCharCode(1)}${p.url}`];
+    const cleared = seen && String(seen.verdict).toUpperCase() === 'MATCH';
+    if (!cleared && offTopicToken(hay, subject)) {
       const fileName = (decodeURIComponent(p.url).split('/').pop() || '').replace(/\.(jpg|jpeg|png|svg).*$/i, '').slice(0, 48);
       issues.push(`IMAGE MISMATCH suspect [${p.category}] "${p.region}" — off-topic hero (${fileName}): ${p.f}`);
     }
@@ -538,7 +548,16 @@ async function main() {
     for (const [k, ps] of m) if (ps.length > 1) issues.push(`${label} ×${ps.length}: ${ps.map((p) => p.f).join(', ')}`);
   };
 
-  for (const p of posts) issues.push(...postProblems(p));
+  // Read once and handed to every post: the off-topic hero rule uses it to stay
+  // quiet about photos vision has already cleared (see postProblems).
+  let verdicts = {};
+  try {
+    verdicts = JSON.parse(
+      await readFile(fileURLToPath(new URL('../data/visual-audit.json', import.meta.url)), 'utf8')
+    );
+  } catch { /* no audit file yet — every suspicion is reported, which is the safe default */ }
+
+  for (const p of posts) issues.push(...postProblems(p, { verdicts }));
   issues.push(...stubBodyProblems(posts));
 
   // Two posts about the same event on the same date in the same city = duplicate
