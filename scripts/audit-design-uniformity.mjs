@@ -13,6 +13,33 @@ const ok = (msg) => console.log('  ✓ ' + msg);
 
 // ---- CSS bundle checks -----------------------------------------------------
 const cssDir = join(ROOT, '_astro');
+
+// A STALE dist makes every check here a lie. On 2026-08-11 this reported three
+// regressions — the crowd-chart palette, the newsletter container query, the
+// icon plate — all of them fixes the owner had asked for by name, and all three
+// were present in the source AND live on the site. The audit was reading a dist
+// from three days earlier. An audit that reports yesterday's build as today's
+// regressions costs more than it saves, so say so instead of guessing.
+try {
+  const newestCss = Math.max(...readdirSync(cssDir).filter((f) => f.endsWith('.css'))
+    .map((f) => statSync(join(cssDir, f)).mtimeMs));
+  const newestSrc = Math.max(
+    ...['src/styles/global.css', 'src/components', 'src/layouts']
+      .flatMap((p) => {
+        try {
+          const s = statSync(p);
+          if (!s.isDirectory()) return [s.mtimeMs];
+          return readdirSync(p).map((f) => statSync(join(p, f)).mtimeMs);
+        } catch { return []; }
+      }),
+  );
+  if (newestSrc > newestCss) {
+    const hours = Math.round((newestSrc - newestCss) / 36e5);
+    console.log(`\n⚠️  ${ROOT}/ is ${hours}h older than the source — every finding below may be a fixed-and-forgotten one.`);
+    console.log('    Re-run `npx astro build` first, or pass a fresh dist: node scripts/audit-design-uniformity.mjs dist2\n');
+  }
+} catch {}
+
 const css = readdirSync(cssDir).filter((f) => f.endsWith('.css'))
   .map((f) => readFileSync(join(cssDir, f), 'utf8')).join('\n');
 
