@@ -27,7 +27,6 @@ faq:
   - q: What else is worth doing nearby?
     a: Monti's boutique-lined streets are ideal for a pre- or post-dinner walk, and Santa Maria Maggiore basilica is about 10–15 minutes away on foot.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Futura is worth seeking out

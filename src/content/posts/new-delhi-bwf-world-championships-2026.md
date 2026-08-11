@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'BWF World Championships 2026: What to Know (New Delhi)'
 description: The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years.
 country: India

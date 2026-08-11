@@ -23,7 +23,6 @@ faq:
   - q: Is there somewhere to eat nearby before the show?
     a: Yes — Power Plant Mall sits right next to the Proscenium within Rockwell Center and has a wide range of restaurants and cafés for a pre- or post-show meal.
 aiGenerated: true
-draft: true
 eventRecurring: false
 photoless: true
 heroImage:

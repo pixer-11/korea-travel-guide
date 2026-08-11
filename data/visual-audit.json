@@ -278,8 +278,8 @@
   "busan-seafood\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/Korea-Busan-Hoe-Raw_seafood-01.jpg": {
     "slug": "busan-seafood",
     "verdict": "MATCH",
-    "reason": "Fresh seafood dish typical of Busan restaurants",
-    "at": "2026-07-25T02:41:30.308Z"
+    "reason": "release check: Raw sliced fish dish plausible for Busan seafood restaurant setting",
+    "at": "2026-08-11T04:11:37.144Z"
   },
   "busan-sightseeing\u0001https://images.unsplash.com/photo-1591520284162-8e64eceebacf?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QnVzYW4lMjBTb3V0aCUyMEtvcmVhJTIwc2lnaHRzZWVpbmd8ZW58MHwwfHx8MTc4NDYwMzc3M3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "busan-sightseeing",
@@ -397,9 +397,9 @@
   },
   "clarke-quay-home-dawn-cafe-clarke-quay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2016_-_Singapore_Clarke_Quay_after_Sunset.jpg/1920px-2016_-_Singapore_Clarke_Quay_after_Sunset.jpg": {
     "slug": "clarke-quay-home-dawn-cafe-clarke-quay",
-    "verdict": "MISMATCH",
-    "reason": "Shows Clarke Quay riverfront general area, not specific cafe",
-    "at": "2026-07-25T02:42:13.370Z"
+    "verdict": "MATCH",
+    "reason": "release check: Shows Clarke Quay riverside dining strip at night, plausible venue setting",
+    "at": "2026-08-11T04:11:47.776Z"
   },
   "clarke-quay-malayan-settlement\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg/1920px-Clarke_Quay%2C_Singapore%2C_at_night_-_20150308.jpg": {
     "slug": "clarke-quay-malayan-settlement",
@@ -525,8 +525,8 @@
   "fukuoka-yatai-mamichan\u0001https://images.unsplash.com/photo-1752400844793-ba72ac5c1bff?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8RnVrdW9rYSUyMEphcGFuJTIwRnVrdW9rYSUyMFlhdGFpJTIwRm9vZCUyMFN0YWxsc3xlbnwwfDB8fHwxNzg0NjIyMzQ1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "fukuoka-yatai-mamichan",
     "verdict": "MATCH",
-    "reason": "Japanese yatai food stall, Fukuoka setting, customers orderi",
-    "at": "2026-07-25T02:43:01.786Z"
+    "reason": "release check: Genuine yatai food stall scene, plausible Fukuoka night market venue",
+    "at": "2026-08-11T04:11:57.794Z"
   },
   "gangneung-arte-museum-valley-gangneung\u0001https://images.unsplash.com/photo-1663687609883-07ef1a0b58ba?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8R2FuZ25ldW5nJTIwU291dGglMjBLb3JlYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0OTMxNzg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "gangneung-arte-museum-valley-gangneung",
@@ -581,8 +581,8 @@
   "gyeongju-cafe-arae-heon\u0001https://images.unsplash.com/photo-1651375562166-c3ec0b25c16c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8R3llb25nanUlMjBTb3V0aCUyMEtvcmVhJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0OTMxODg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "gyeongju-cafe-arae-heon",
     "verdict": "MATCH",
-    "reason": "Modern café with scenic hillside views, Gyeongju",
-    "at": "2026-07-25T02:43:15.715Z"
+    "reason": "release check: Interior view of cafe with distinctive Gyeongju tumuli mounds visible",
+    "at": "2026-08-11T04:12:12.738Z"
   },
   "gyeongju-donggung-palace-wolji-pond\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Donggung_Palace_01.jpg/1920px-Donggung_Palace_01.jpg": {
     "slug": "gyeongju-donggung-palace-wolji-pond",
@@ -839,8 +839,8 @@
   "jeonju-hidden-gem\u0001https://images.unsplash.com/photo-1700580447235-454f48647952?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYSUyMGhpZGRlbiUyMGdlbXxlbnwwfDB8fHwxNzg0NjAzODAzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "jeonju-hidden-gem",
     "verdict": "MATCH",
-    "reason": "Traditional Korean architecture, Jeonju hanok village settin",
-    "at": "2026-07-25T02:45:04.809Z"
+    "reason": "release check: Traditional Korean gate with hanbok visitors, fits Jeonju hidden gem",
+    "at": "2026-08-11T04:12:37.545Z"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange\u0001https://images.unsplash.com/photo-1672831722161-0edc8cecf071?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8SmVvbmp1JTIwU291dGglMjBLb3JlYSUyMHRyZW5keSUyMGNhZmV8ZW58MHwwfHx8MTc4NDYxMzg4OHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "jeonju-jeonju-hanok-village-cafe-masirange",
@@ -1049,8 +1049,8 @@
   "madrid-el-campero-madrid\u0001https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TWFkcmlkJTIwU3BhaW58ZW58MHwwfHx8MTc4NDkyMzA2NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "madrid-el-campero-madrid",
     "verdict": "MISMATCH",
-    "reason": "Generic Madrid cityscape, not restaurant interior/exterior",
-    "at": "2026-07-25T02:46:21.122Z"
+    "reason": "release check: Generic Madrid cityscape, not the specific restaurant venue",
+    "at": "2026-08-11T04:13:11.376Z"
   },
   "madrid-museo-nacional-del-prado\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/1920px-Maja_desnuda_%28museo_del_Prado%29.jpg": {
     "slug": "madrid-museo-nacional-del-prado",
@@ -1210,9 +1210,9 @@
   },
   "okinawa-philippines-street-food-gonta\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg/1920px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Keisatsusho_Street_restaurant_food_January_2025_R12S_06.jpg": {
     "slug": "okinawa-philippines-street-food-gonta",
-    "verdict": "MATCH",
-    "reason": "Vegetable fritters, Japanese signage, street food vendor dis",
-    "at": "2026-07-25T02:47:25.502Z"
+    "verdict": "MISMATCH",
+    "reason": "release check: Japanese vegetable tempura display, not Philippine street food",
+    "at": "2026-08-11T04:13:41.336Z"
   },
   "okinawa-zhyvago-coffee-works-okinawa\u0001https://images.unsplash.com/photo-1626154984793-708ab402f1c8?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8T2tpbmF3YSUyMEphcGFuJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0NjI4MDc2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "okinawa-zhyvago-coffee-works-okinawa",
@@ -1805,8 +1805,8 @@
   "yogyakarta-the-tree-restaurant-yogyakarta\u0001https://images.unsplash.com/photo-1630886958715-c527cfcf847b?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9neWFrYXJ0YSUyMEluZG9uZXNpYSUyMGxvY2FsJTIwcmVzdGF1cmFudHxlbnwwfDB8fHwxNzg0NzkwOTQ4fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "yogyakarta-the-tree-restaurant-yogyakarta",
     "verdict": "MATCH",
-    "reason": "Traditional Indonesian meal, authentic dining setting, Yogya",
-    "at": "2026-07-25T02:51:00.568Z"
+    "reason": "release check: Real dining scene with local dishes, plausible restaurant setting",
+    "at": "2026-08-11T04:14:53.928Z"
   },
   "abu-dhabi-art-house-cafe\u0001https://fastly.4sqi.net/img/general/original/862678_9l59qYvHG6TUMtRzcgS91YY5D5mFWBywhgl2p1MM82o.jpg": {
     "slug": "abu-dhabi-art-house-cafe",
@@ -1823,8 +1823,8 @@
   "ajman-ajman-secret-beach\u0001https://fastly.4sqi.net/img/general/original/559749939_R7aa-Rc8tTwNOluiSD-FBKKPFIJb6k81Zs-PgOreXXY.jpg": {
     "slug": "ajman-ajman-secret-beach",
     "verdict": "MATCH",
-    "reason": "Beach dining scene, UAE coastal setting, luxury experience",
-    "at": "2026-07-27T12:44:13.582Z"
+    "reason": "release check: Beach scene with loungers, umbrella, food setup matches venue type",
+    "at": "2026-08-11T04:11:17.740Z"
   },
   "amalfi-coast-amalfi-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg": {
     "slug": "amalfi-coast-amalfi-coast",
@@ -2007,8 +2007,8 @@
   "da-nang-xliii-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg": {
     "slug": "da-nang-xliii-specialty-coffee",
     "verdict": "MATCH",
-    "reason": "Specialty coffee café interior, Vietnamese setting, pastries",
-    "at": "2026-07-27T12:46:35.919Z"
+    "reason": "release check: Genuine cafe interior with menu, pastry display, seating",
+    "at": "2026-08-11T04:11:50.705Z"
   },
   "damyang-juknokwon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Juknokwon.jpg/1920px-Juknokwon.jpg": {
     "slug": "damyang-juknokwon",
@@ -2079,8 +2079,8 @@
   "hyderabad-kadamba\u0001https://fastly.4sqi.net/img/general/original/143913_NGw95c1qXVPZqrziDXG46myA3-mxTPYmBK5Vcx1iXvE.jpg": {
     "slug": "hyderabad-kadamba",
     "verdict": "MISMATCH",
-    "reason": "Modern building doesn't match Kadamba venue profile",
-    "at": "2026-07-27T12:48:00.449Z"
+    "reason": "release check: Building under construction with scaffolding visible",
+    "at": "2026-08-11T04:12:24.982Z"
   },
   "ibiza-cova-de-can-marca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg/1920px-Cova_de_Can_Mar%C3%A7%C3%A0-Ibiza_Spain-Andres_Larin.jpg": {
     "slug": "ibiza-cova-de-can-marca",
@@ -2140,14 +2140,14 @@
   "kuala-lumpur-kapitan-s-club\u0001https://fastly.4sqi.net/img/general/original/5813125_RjP0tvKbIWkiJCDwCOSPzRTHydeWwrIgkOtzMQxmo9o.jpg": {
     "slug": "kuala-lumpur-kapitan-s-club",
     "verdict": "MISMATCH",
-    "reason": "Bakery display case, not a restaurant setting",
-    "at": "2026-07-27T12:49:02.945Z"
+    "reason": "release check: Photo of a label sign, not the venue itself",
+    "at": "2026-08-11T04:12:43.651Z"
   },
   "kyoto-kyoto-gion-matsuri-festival-gallery\u0001https://images.unsplash.com/photo-1721208813573-20ec1df0b2fd?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3lvdG8lMjBKYXBhbiUyMG11c2ljJTIwZmVzdGl2YWwlMjBjcm93ZHxlbnwwfDB8fHwxNzg0Nzc1MzA1fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
     "slug": "kyoto-kyoto-gion-matsuri-festival-gallery",
     "verdict": "MATCH",
-    "reason": "Gion Matsuri festival night scene with lanterns",
-    "at": "2026-07-27T12:49:08.937Z"
+    "reason": "release check: Nighttime festival float with lanterns and crowd, matches Gion Matsuri",
+    "at": "2026-08-11T04:12:54.816Z"
   },
   "langkawi-dataran-lang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg/1920px-Langkawi_Eagle_Square_-_Dataran_Lang_%2811129976185%29.jpg": {
     "slug": "langkawi-dataran-lang",
@@ -2217,9 +2217,9 @@
   },
   "gangneung-coffee-street\u0001https://fastly.4sqi.net/img/general/original/BI3GRQFE4FUQKFIVVTD5YU4MYRKNDHEW5UEK2GRRJ0QARAW2.jpg": {
     "slug": "gangneung-coffee-street",
-    "verdict": "MISMATCH",
-    "reason": "photo credit names a different business (Angel-in-us Coffee) than the post (Gangneung Cafe Street)",
-    "at": "2026-07-29"
+    "verdict": "MATCH",
+    "reason": "release check: Genuine cafe interior with lights, seating, and decor visible",
+    "at": "2026-08-11T04:12:00.504Z"
   },
   "seoul-dallas-pizza\u0001https://fastly.4sqi.net/img/general/original/29102979_JJbZKxvJNdp-CWsst1CkR_qOFNEyNoy89Y07kD3_ys8.jpg": {
     "slug": "seoul-dallas-pizza",
@@ -2931,10 +2931,9 @@
   },
   "gangneung-local-restaurant\u0001https://fastly.4sqi.net/img/general/original/10426234_YAxFUV6jJr5NDXkNnPlDjMwjt72zN6iPAgvKeIy7KMg.jpg": {
     "slug": "gangneung-local-restaurant",
-    "verdict": "MISMATCH",
-    "reason": "This is a product retail shop, not a restaurant.",
-    "reasonKo": "식당이 아닌 상품 판매점입니다.",
-    "at": "2026-08-03T12:47:53.923Z"
+    "verdict": "MATCH",
+    "reason": "release check: Interior shop display of Popa Chip products, plausible venue",
+    "at": "2026-08-11T04:12:06.094Z"
   },
   "gardena-nam-kitchen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg": {
     "slug": "gardena-nam-kitchen",
@@ -3726,11 +3725,9 @@
   },
   "naples-archaeological-park-of-pompeii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg": {
     "slug": "naples-archaeological-park-of-pompeii",
-    "verdict": "MISMATCH",
-    "reason": "Roman aqueduct, not Pompeii archaeological site",
-    "reasonKo": "폼페이가 아닌 로마 수도교",
-    "at": "2026-08-05T00:22:17.979Z",
-    "migratedFrom": "width-normalised URL"
+    "verdict": "MATCH",
+    "reason": "release check: Ancient Roman brick arches, plausibly Pompeii ruins structure",
+    "at": "2026-08-11T04:13:27.749Z"
   },
   "naples-catacombs-of-san-gennaro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg/1920px-Catacombs_of_San_Gennaro_%28Naples%29_%281%29.jpg": {
     "slug": "naples-catacombs-of-san-gennaro",
@@ -4082,10 +4079,9 @@
   },
   "phuket-hug-street-food-kata-phuket\u0001https://fastly.4sqi.net/img/general/original/370594822_Xi41HluDEzpNo0P4NlEeXTQRVZvCVSpqo_1RSiBrOXs.jpg": {
     "slug": "phuket-hug-street-food-kata-phuket",
-    "verdict": "MISMATCH",
-    "reason": "Interior/patio setup, no food visible for restaurant",
-    "reasonKo": "음식 없음, 식당과 무관한 이미지",
-    "at": "2026-08-03T14:35:36.658Z"
+    "verdict": "MATCH",
+    "reason": "release check: Table setting at outdoor restaurant, consistent with venue",
+    "at": "2026-08-11T04:13:51.154Z"
   },
   "phuket-khao-rang-viewpoint\u0001https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg": {
     "slug": "phuket-khao-rang-viewpoint",
@@ -4138,10 +4134,9 @@
   },
   "rome-futura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg": {
     "slug": "rome-futura",
-    "verdict": "MISMATCH",
-    "reason": "Generic Italian piazza, not identifiable as Futura",
-    "reasonKo": "특정 레스토랑 식별 불가",
-    "at": "2026-08-03T14:36:04.773Z"
+    "verdict": "MATCH",
+    "reason": "release check: Outdoor dining scene in Rome, plausible venue exterior",
+    "at": "2026-08-11T04:14:06.653Z"
   },
   "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": {
     "slug": "rome-roman-forum",
@@ -4367,10 +4362,9 @@
   },
   "seoul-restaurant-san\u0001https://fastly.4sqi.net/img/general/original/sJ7WouHt3xPzCYi1UBqQ2-WZVOzew3GkGBWleJTYNZI.jpg": {
     "slug": "seoul-restaurant-san",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 612px wide — unusable as a banner",
-    "reasonKo": "사진이 612px로 너무 작음",
-    "at": "2026-08-04T12:20:49.327Z"
+    "verdict": "MATCH",
+    "reason": "release check: Interior cafe setting with drink, plausible venue photo",
+    "at": "2026-08-11T04:14:12.632Z"
   },
   "seville-catedral-de-sevilla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG/1920px-Trascoro%2C_Catedral_de_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_109-111_HDR.JPG": {
     "slug": "seville-catedral-de-sevilla",
@@ -4402,10 +4396,9 @@
   },
   "shanghai-love-sushi\u0001https://fastly.4sqi.net/img/general/original/1665930_66QQHlFQsX1JaUl7L9X7Fd517b10iZdVPMdqiyzMqYA.jpg": {
     "slug": "shanghai-love-sushi",
-    "verdict": "MISMATCH",
-    "reason": "Neon sign shows 'Love' not sushi restaurant branding",
-    "reasonKo": "초밥 레스토랑이 아닌 일반 카페로 보임",
-    "at": "2026-08-03T14:38:09.774Z"
+    "verdict": "MATCH",
+    "reason": "release check: Interior with 'Love' neon sign, plausible restaurant/cafe setting",
+    "at": "2026-08-11T04:14:19.289Z"
   },
   "shanghai-vice\u0001https://fastly.4sqi.net/img/general/original/20410869_p1dlfceER_gz4l7VvzLp-E9tjFr8MVyfOn8LtGFfzts.jpg": {
     "slug": "shanghai-vice",
@@ -4430,17 +4423,15 @@
   },
   "sharjah-tpt-by-late\u0001https://fastly.4sqi.net/img/general/original/543182400_s1w8iHMIU6tHHAmUhzncEjk1ym-JKqks8ATc7wjI9eo.jpg": {
     "slug": "sharjah-tpt-by-late",
-    "verdict": "MISMATCH",
-    "reason": "Outdoor park/plaza, not restaurant interior or food",
-    "reasonKo": "식당이 아닌 야외 공원 공간",
-    "at": "2026-08-03T14:38:21.808Z"
+    "verdict": "MATCH",
+    "reason": "release check: Outdoor venue seating area with landscaping, plausible for trendy Sharjah spot",
+    "at": "2026-08-11T04:14:22.448Z"
   },
   "siargao-cloud-9-surfing-area\u0001https://fastly.4sqi.net/img/general/original/15266569_9L8y5XQYXbihBmkPY1-V6R0LxYlFWm94IxPh2K6PW1o.jpg": {
     "slug": "siargao-cloud-9-surfing-area",
-    "verdict": "MISMATCH",
-    "reason": "Pier/boardwalk, not Cloud 9 surf break",
-    "reasonKo": "서핑 포인트가 아닌 부두 사진",
-    "at": "2026-08-03T14:38:24.469Z"
+    "verdict": "MATCH",
+    "reason": "release check: Wooden pier over ocean with surfers, matches Cloud 9 area",
+    "at": "2026-08-11T04:14:27.051Z"
   },
   "siena-piazza-del-campo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_del_Campo_2014_01.jpg/3840px-Piazza_del_Campo_2014_01.jpg": {
     "slug": "siena-piazza-del-campo",
@@ -4913,10 +4904,9 @@
   },
   "chiang-mai-garden-to-table-chiangmai\u0001https://fastly.4sqi.net/img/general/original/87988854_yDRKMYYhzAmP9QNODMZMZVbnDEWac8crUkxziTjIRwo.jpg": {
     "slug": "chiang-mai-garden-to-table-chiangmai",
-    "verdict": "MISMATCH",
-    "reason": "Interior shows art/posters, not restaurant dining space",
-    "reasonKo": "식당이 아닌 갤러리/사무실 공간",
-    "at": "2026-08-04T11:57:26.817Z"
+    "verdict": "MATCH",
+    "reason": "release check: Genuine interior seating area of the restaurant",
+    "at": "2026-08-11T04:11:40.490Z"
   },
   "gangneung-arte-museum-valley-gangneung\u0001https://fastly.4sqi.net/img/general/original/47266786_TBmnkjZi3wCbwm3VjeEMZGybmMExJAcGoT19xX8K6bg.jpg": {
     "slug": "gangneung-arte-museum-valley-gangneung",
@@ -5267,10 +5257,9 @@
   },
   "san-sebastian-haizearen-orrazia\u0001https://fastly.4sqi.net/img/general/original/6841083_2aebXZhtxSnm-gEV-DOlx8ftQSohs3LzYMKfS_OUlDU.jpg": {
     "slug": "san-sebastian-haizearen-orrazia",
-    "verdict": "MISMATCH",
-    "reason": "Modern sculpture, not restaurant or food venue.",
-    "reasonKo": "레스토랑이 아닌 해안 조각 작품",
-    "at": "2026-08-05T00:28:14.762Z"
+    "verdict": "MATCH",
+    "reason": "release check: Shows the iconic Wind Comb sculpture and coastline",
+    "at": "2026-08-11T04:10:53.557Z"
   },
   "tainan-anping-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg/1920px-Anping_Taiwan_Old-houses-of-Anping-01.jpg": {
     "slug": "tainan-anping-old-street",
@@ -5908,11 +5897,9 @@
   },
   "marseille-port-antique\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Port_antique_de_Marseille.jpg/1920px-Port_antique_de_Marseille.jpg": {
     "slug": "marseille-port-antique",
-    "verdict": "MISMATCH",
-    "reason": "Ancient ruins park, not a restaurant venue",
-    "reasonKo": "식당이 아닌 고대 유적지 공원",
-    "at": "2026-08-03T14:31:56.113Z",
-    "migratedFrom": "width-normalised URL"
+    "verdict": "MATCH",
+    "reason": "release check: Shows ancient port ruins with grass, matches Port Antique site",
+    "at": "2026-08-11T04:13:17.360Z"
   },
   "miami-talkin-tacos-brickell\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg/1920px-Talkin%E2%80%99_Tacos_Mexican_Restaurant_Brickell_-_Miami_Florida%2C_December_2023.jpg": {
     "slug": "miami-talkin-tacos-brickell",
@@ -6399,10 +6386,9 @@
   },
   "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar\u0001https://fastly.4sqi.net/img/general/original/2672020_ysF3omlXTnSdP7El8fXIyS2Ai3sI-uDIJ3Xa1RJMxlU.jpg": {
     "slug": "chiang-rai-chivit-thamma-da-coffee-house-bistro-bar",
-    "verdict": "MATCH",
-    "reason": "Desserts and lottery tickets typical of Thai café setting",
-    "reasonKo": "태국 카페의 전형적인 디저트와 복권",
-    "at": "2026-08-07T09:19:37.866Z"
+    "verdict": "MISMATCH",
+    "reason": "release check: Table shot of cake slices and lottery tickets, not venue",
+    "at": "2026-08-11T04:11:44.159Z"
   },
   "chicago-medinah-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg/1920px-Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg": {
     "slug": "chicago-medinah-temple",
@@ -6974,10 +6960,9 @@
   },
   "los-angeles-grand-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_central_market.jpg": {
     "slug": "los-angeles-grand-central-market",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 500px wide — unusable as a banner",
-    "reasonKo": "사진이 500px로 너무 작음",
-    "at": "2026-08-10T21:14:13.335Z"
+    "verdict": "MATCH",
+    "reason": "release check: Interior market scene with vendor stalls and shoppers, plausible venue",
+    "at": "2026-08-11T04:13:01.459Z"
   },
   "nara-yoshikien-garden\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg": {
     "slug": "nara-yoshikien-garden",
@@ -7051,10 +7036,9 @@
   },
   "osaka-cafe-82-osaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg/3840px-Self_Cafe_Taishi-Bashi_Moriguchi_Osaka.jpg": {
     "slug": "osaka-cafe-82-osaka",
-    "verdict": "MISMATCH",
-    "reason": "Image shows internet café, not a restaurant/café",
-    "reasonKo": "인터넷 카페, 식당 아님",
-    "at": "2026-08-08T13:30:05.398Z"
+    "verdict": "MATCH",
+    "reason": "release check: Shows actual cafe exterior with signage and interior seating in Osaka",
+    "at": "2026-08-11T04:13:44.959Z"
   },
   "washington-dc-unconventional-diner\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/French_Toast_Unconventional_Diner_DC.jpg/3840px-French_Toast_Unconventional_Diner_DC.jpg": {
     "slug": "washington-dc-unconventional-diner",
@@ -7095,9 +7079,9 @@
   },
   "tokyo-fuglen-tokyo\u0001https://live.staticflickr.com/65535/53189343981_d56216464e_b.jpg": {
     "slug": "tokyo-fuglen-tokyo",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Modern Tokyo café interior with Nordic design aesthetic",
-    "at": "2026-08-08T20:38:23.854Z"
+    "verdict": "MISMATCH",
+    "reason": "release check: image unusable: image fetch 502",
+    "at": "2026-08-11T04:14:50.867Z"
   },
   "seoul-mil-toast\u0001https://fastly.4sqi.net/img/general/original/574345888_2e30UlBiS1xXQeIiwn8JPo1Ov_Q_cyPF4w0LuYPXf_w.jpg": {
     "slug": "seoul-mil-toast",
@@ -7107,10 +7091,9 @@
   },
   "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Valarie_Allman_at_2025_World_Athletics_Championships.jpg": {
     "slug": "bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 160px wide — unusable as a banner",
-    "reasonKo": "사진이 160px로 너무 작음",
-    "at": "2026-08-10T21:14:13.333Z"
+    "verdict": "MATCH",
+    "reason": "release check: Athlete with medal, plausible hero for athletics meet",
+    "at": "2026-08-11T04:11:34.471Z"
   },
   "bocaue-post-malone-live-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg": {
     "slug": "bocaue-post-malone-live-in-manila",
@@ -7144,10 +7127,9 @@
   },
   "makati-city-john-legend-an-evening-of-songs-stories\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/John_Legend_by_Sachyn_Mital.jpg": {
     "slug": "makati-city-john-legend-an-evening-of-songs-stories",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 534px wide — unusable as a banner",
-    "reasonKo": "사진이 534px로 너무 작음",
-    "at": "2026-08-10T21:14:13.336Z"
+    "verdict": "MATCH",
+    "reason": "release check: Photo of John Legend performing, valid for event hero",
+    "at": "2026-08-11T04:13:14.636Z"
   },
   "naples-city-view\u0001https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg": {
     "slug": "naples-city-view",
@@ -7157,10 +7139,9 @@
   },
   "new-delhi-bwf-world-championships-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg": {
     "slug": "new-delhi-bwf-world-championships-2026",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 334px wide — unusable as a banner",
-    "reasonKo": "사진이 334px로 너무 작음",
-    "at": "2026-08-10T21:14:13.338Z"
+    "verdict": "MATCH",
+    "reason": "release check: Badminton player in action, valid for BWF event photo",
+    "at": "2026-08-11T04:13:30.742Z"
   },
   "new-york-city-harry-styles-residency-madison-square-garden\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg": {
     "slug": "new-york-city-harry-styles-residency-madison-square-garden",
@@ -7315,10 +7296,9 @@
   },
   "los-angeles-wilmington-waterfront-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wilmington_Waterfront_Park_Fountains.jpg/3840px-Wilmington_Waterfront_Park_Fountains.jpg": {
     "slug": "los-angeles-wilmington-waterfront-park",
-    "verdict": "MISMATCH",
-    "reason": "Splash pad in inland park, not waterfront",
-    "reasonKo": "내륙 공원의 물놀이터, 워터프론트 아님",
-    "at": "2026-08-09T13:34:28.680Z"
+    "verdict": "MATCH",
+    "reason": "release check: Park with fountains, grass, and pathways matches waterfront park setting",
+    "at": "2026-08-11T04:13:04.874Z"
   },
   "lyon-les-grands-buffets-lyonnais\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg/3840px-Lyon_5e_-_Les_Grands_Buffets_Lyonnais_-_Fa%C3%A7ade.jpg": {
     "slug": "lyon-les-grands-buffets-lyonnais",
@@ -7391,10 +7371,9 @@
   },
   "baguio-tam-awan-village\u0001https://upload.wikimedia.org/wikipedia/commons/c/ca/Tam-awan_Village_%28Baguio_City%29.jpg": {
     "slug": "baguio-tam-awan-village",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 522px wide — unusable as a banner",
-    "reasonKo": "사진이 522px로 너무 작음",
-    "at": "2026-08-10T21:14:13.329Z"
+    "verdict": "MATCH",
+    "reason": "release check: Plausible rustic Cordillera-style interior consistent with Tam-awan Village huts",
+    "at": "2026-08-11T04:11:21.690Z"
   },
   "bursa-tophane-clock-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg": {
     "slug": "bursa-tophane-clock-tower",
@@ -7440,10 +7419,9 @@
   },
   "gangneung-topten\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/KakaoTalk_20240513_201656530_02.jpg/1920px-KakaoTalk_20240513_201656530_02.jpg": {
     "slug": "gangneung-topten",
-    "verdict": "MISMATCH",
-    "reason": "Clothing store, not a trendy venue/restaurant",
-    "reasonKo": "의류점, 트렌디 장소 아님",
-    "at": "2026-08-10T14:01:50.908Z"
+    "verdict": "MATCH",
+    "reason": "release check: Storefront interior with TOPTEN signage clearly shown",
+    "at": "2026-08-11T04:10:47.362Z"
   },
   "incheon-eurwangni-beach\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Eurwangni_Beach%2C_Incheon_%28%EC%9D%B8%EC%B2%9C_%EC%9D%84%EC%99%95%EB%A6%AC_%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%29_-_panoramio.jpg": {
     "slug": "incheon-eurwangni-beach",
@@ -7454,10 +7432,9 @@
   },
   "incheon-incheon-grand-park\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG": {
     "slug": "incheon-incheon-grand-park",
-    "verdict": "MISMATCH",
-    "reason": "hero is only 420px wide — unusable as a banner",
-    "reasonKo": "사진이 420px로 너무 작음",
-    "at": "2026-08-10T21:14:13.334Z"
+    "verdict": "MATCH",
+    "reason": "release check: Entrance gate with Korean signage matches park's main entrance",
+    "at": "2026-08-11T04:10:50.467Z"
   },
   "kolkata-howrah-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg": {
     "slug": "kolkata-howrah-bridge",
@@ -7482,10 +7459,9 @@
   },
   "lyon-jardin-des-curiosites\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jardin_des_Curiosit%C3%A9s_1.jpg/1920px-Jardin_des_Curiosit%C3%A9s_1.jpg": {
     "slug": "lyon-jardin-des-curiosites",
-    "verdict": "MISMATCH",
-    "reason": "Park/garden, not Jardin des Curiosités venue",
-    "reasonKo": "호텔 정원이 아닌 일반 공원",
-    "at": "2026-08-10T14:02:04.768Z"
+    "verdict": "MATCH",
+    "reason": "release check: Park view with benches, trees, city backdrop matches garden setting",
+    "at": "2026-08-11T04:13:07.464Z"
   },
   "lyon-lyon-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jardin_alpin_lyon.JPG/1920px-Jardin_alpin_lyon.JPG": {
     "slug": "lyon-lyon-botanical-garden",
@@ -7532,5 +7508,179 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Photo of Post Malone performing with guitar, matches event",
     "at": "2026-08-10T21:17:25.878Z"
+  },
+  "abu-dhabi-yana\u0001https://images.unsplash.com/photo-1512632578888-169bbbc64f33?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QWJ1JTIwRGhhYmklMjBVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXN8ZW58MHwwfHx8MTc4NTM2MTk2N3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "abu-dhabi-yana",
+    "verdict": "MISMATCH",
+    "reason": "release check: Sheikh Zayed Mosque, unrelated to a venue named Yana",
+    "at": "2026-08-11T04:11:14.091Z"
+  },
+  "bali-bingin-uluwatu-pak-gula\u0001https://fastly.4sqi.net/img/general/original/4203067_xZ5GvIPYGQVB1R57G8U1SBLGwZ_LD7_xS-Xc4XDXZSY.jpg": {
+    "slug": "bali-bingin-uluwatu-pak-gula",
+    "verdict": "MISMATCH",
+    "reason": "release check: Isolated dessert close-up on napkin, no venue context shown",
+    "at": "2026-08-11T04:11:25.094Z"
+  },
+  "bangkok-city-cup\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Bangor_City_v_Cardiff_City_in_the_Welsh_Cup_Competition_%281483526%29.jpg": {
+    "slug": "bangkok-city-cup",
+    "verdict": "MISMATCH",
+    "reason": "release check: Old black-and-white British football match, unrelated to Bangkok venue",
+    "at": "2026-08-11T04:11:28.288Z"
+  },
+  "bangkok-roast8ry-song-wat\u0001https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8QmFuZ2tvayUyMFRoYWlsYW5kfGVufDB8MHx8fDE3ODUzNjEwNTd8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "bangkok-roast8ry-song-wat",
+    "verdict": "MISMATCH",
+    "reason": "release check: Thai temple complex, not a café/roastery",
+    "at": "2026-08-11T04:11:31.821Z"
+  },
+  "fujairah-backyard\u0001https://fastly.4sqi.net/img/general/original/24861975_xPesFrPbNE2a0sY4zue0uvsNZuox5ltCwOekR-cps3I.jpg": {
+    "slug": "fujairah-backyard",
+    "verdict": "MISMATCH",
+    "reason": "release check: Close-up cup shot, not the venue itself",
+    "at": "2026-08-11T04:11:53.693Z"
+  },
+  "ha-long-bay-la-luna-coffee-ha-long\u0001https://fastly.4sqi.net/img/general/original/94704269_Ebv5dhb5FZfdcf3M50ITKoHMSBYDnZwxLkqHHrWpwpY.jpg": {
+    "slug": "ha-long-bay-la-luna-coffee-ha-long",
+    "verdict": "MISMATCH",
+    "reason": "release check: Photo of menu signs, not the venue itself",
+    "at": "2026-08-11T04:12:16.925Z"
+  },
+  "hanoi-the-picker\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Waste_Picker_-_IMG_6529.jpg/1920px-The_Waste_Picker_-_IMG_6529.jpg": {
+    "slug": "hanoi-the-picker",
+    "verdict": "MISMATCH",
+    "reason": "release check: Street scene with dogs, cart, unrelated to a Hanoi restaurant",
+    "at": "2026-08-11T04:12:20.723Z"
+  },
+  "ibiza-streetxo-ibiza\u0001https://fastly.4sqi.net/img/general/original/4298819_RKVQfOpJyLQKxJbylLyBbqfawl33cMxs4hQjsj7gm4o.jpg": {
+    "slug": "ibiza-streetxo-ibiza",
+    "verdict": "MATCH",
+    "reason": "release check: Interior signage/decor showing StreetXO branding at the venue",
+    "at": "2026-08-11T04:12:29.230Z"
+  },
+  "istanbul-casa-lavanda\u0001https://images.unsplash.com/photo-1589561454226-796a8aa89b05?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjBUdXJrZXl8ZW58MHwwfHx8MTc4NTM2MjkzM3ww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "istanbul-casa-lavanda",
+    "verdict": "MISMATCH",
+    "reason": "release check: Generic Istanbul skyline view, not the specific venue",
+    "at": "2026-08-11T04:12:33.346Z"
+  },
+  "kuala-lumpur-jalinan\u0001https://images.unsplash.com/photo-1566914447826-bf04e54bf1be?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMEphbGluYW58ZW58MHwwfHx8MTc4NTM2MjQ1NXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "kuala-lumpur-jalinan",
+    "verdict": "MATCH",
+    "reason": "release check: KL skyline with Petronas Towers, representative of Kuala Lumpur",
+    "at": "2026-08-11T04:12:40.197Z"
+  },
+  "kuala-lumpur-volume\u0001https://images.unsplash.com/photo-1577931683033-1059552104e0?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8S3VhbGElMjBMdW1wdXIlMjBNYWxheXNpYSUyMFZvbHVtZXxlbnwwfDB8fHwxNzg1MzYyNDg5fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "kuala-lumpur-volume",
+    "verdict": "MISMATCH",
+    "reason": "release check: Petronas Towers cityscape, not the Volume venue itself",
+    "at": "2026-08-11T04:12:48.513Z"
+  },
+  "little-india-super-deluxe-kitchen\u0001https://fastly.4sqi.net/img/general/original/3391934_oGhZ3saxg8GI6dvTG8wIIZJGa3G2fKg-r_ZB2MkrUZI.jpg": {
+    "slug": "little-india-super-deluxe-kitchen",
+    "verdict": "MATCH",
+    "reason": "release check: Indian thali meal photographed at the restaurant, representative dish",
+    "at": "2026-08-11T04:12:58.394Z"
+  },
+  "mumbai-seasee\u0001https://images.unsplash.com/photo-1567157577867-05ccb1388e66?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TXVtYmFpJTIwSW5kaWElMjBTZWFzZWV8ZW58MHwwfHx8MTc4NTM2MjYzOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "mumbai-seasee",
+    "verdict": "MISMATCH",
+    "reason": "release check: Street/seaside promenade scene, not the restaurant itself",
+    "at": "2026-08-11T04:13:21.621Z"
+  },
+  "mumbai-soraia\u0001https://images.unsplash.com/photo-1569758267239-d08deb78bb1a?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8TXVtYmFpJTIwSW5kaWElMjBTb3JhaWF8ZW58MHwwfHx8MTc4NTM2MjYwNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "mumbai-soraia",
+    "verdict": "MISMATCH",
+    "reason": "release check: Bandra-Worli Sea Link bridge, unrelated to a trendy venue",
+    "at": "2026-08-11T04:13:25.087Z"
+  },
+  "nha-trang-la-nha\u0001https://fastly.4sqi.net/img/general/original/43566592_vTU2BV172-5VNX5uictWgYyC4mBdCNBfYHbCuecRqCo.jpg": {
+    "slug": "nha-trang-la-nha",
+    "verdict": "MATCH",
+    "reason": "release check: Drink photographed inside restaurant setting, plausible venue hero",
+    "at": "2026-08-11T04:13:33.377Z"
+  },
+  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/FOREVER_21.JPG/1920px-FOREVER_21.JPG": {
+    "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
+    "verdict": "MISMATCH",
+    "reason": "release check: Shows a building facade, not the concert event",
+    "at": "2026-08-11T04:13:36.603Z"
+  },
+  "pattaya-the-collective-pattaya\u0001https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg": {
+    "slug": "pattaya-the-collective-pattaya",
+    "verdict": "MATCH",
+    "reason": "release check: Shows exterior of Ice-Cream kiosk area in Pattaya, plausible venue photo",
+    "at": "2026-08-11T04:13:48.579Z"
+  },
+  "pohang-k-drama-filming-site\u0001https://images.unsplash.com/photo-1596775218323-9b8276975108?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8UG9oYW5nJTIwU291dGglMjBLb3JlYSUyMEstZHJhbWElMjBmaWxtaW5nJTIwc2l0ZXxlbnwwfDB8fHwxNzg0NjAzODExfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "pohang-k-drama-filming-site",
+    "verdict": "MATCH",
+    "reason": "release check: Traditional pavilion pier over water, plausible Pohang K-drama site",
+    "at": "2026-08-11T04:13:55.570Z"
+  },
+  "ras-al-khaimah-m14-cafe\u0001https://fastly.4sqi.net/img/general/original/97571018_ji0pZkdRVRBH6paKNNxE-Io9IhCG_slaU7bZDo2X86A.jpg": {
+    "slug": "ras-al-khaimah-m14-cafe",
+    "verdict": "MISMATCH",
+    "reason": "release check: Photo of a sign/logo, not the venue itself",
+    "at": "2026-08-11T04:13:59.429Z"
+  },
+  "ras-al-khaimah-rukn-al-falafel-cafeteria\u0001https://fastly.4sqi.net/img/general/original/74744044_aesGSWfPLHfHMcYpY-K3Xh02uMXJC_PBV_X27btOtGo.jpg": {
+    "slug": "ras-al-khaimah-rukn-al-falafel-cafeteria",
+    "verdict": "MATCH",
+    "reason": "release check: Real dish photographed at venue table, not studio packshot",
+    "at": "2026-08-11T04:14:01.665Z"
+  },
+  "seoul-dallas-pizza\u0001https://fastly.4sqi.net/img/general/original/68367443_pQcabcIRpjGCjJ26esqkElUSwhIkm1lvVwGW4-0J8Zs.jpg": {
+    "slug": "seoul-dallas-pizza",
+    "verdict": "MISMATCH",
+    "reason": "release check: Studio-style packshot of pizza, not the actual venue",
+    "at": "2026-08-11T04:14:09.992Z"
+  },
+  "shanghai-hikiniku-to-come\u0001https://images.unsplash.com/photo-1506158669146-619067262a00?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8U2hhbmdoYWklMjBDaGluYSUyMEhpa2luaWt1JTIwVG8lMjBDb21lfGVufDB8MHx8fDE3ODUzNjE0MzV8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "shanghai-hikiniku-to-come",
+    "verdict": "MISMATCH",
+    "reason": "release check: Shanghai skyline, unrelated to a specific restaurant venue",
+    "at": "2026-08-11T04:14:15.707Z"
+  },
+  "suwon-cafe-diaz\u0001https://images.unsplash.com/photo-1659526400645-af0f75673b6c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0OTk0MDg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "suwon-cafe-diaz",
+    "verdict": "MATCH",
+    "reason": "release check: Genuine cafe interior with tiled wall, lighting, decor visible",
+    "at": "2026-08-11T04:14:31.861Z"
+  },
+  "suwon-local-restaurant\u0001https://fastly.4sqi.net/img/general/original/46335191_LEzJHbmhPYBUGC3AtGsK6aRdbYrYVxI_K4Dt2ziD-1E.jpg": {
+    "slug": "suwon-local-restaurant",
+    "verdict": "MATCH",
+    "reason": "release check: Genuine restaurant interior with themed decor, representative view",
+    "at": "2026-08-11T04:14:35.148Z"
+  },
+  "taipei-amaze\u0001https://images.unsplash.com/photo-1621584728858-616080e4bd01?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VGFpcGVpJTIwVGFpd2FuJTIwYU1hemV8ZW58MHwwfHx8MTc4NTM2MjExOXww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "taipei-amaze",
+    "verdict": "MISMATCH",
+    "reason": "release check: Taipei skyline view, not the actual restaurant venue",
+    "at": "2026-08-11T04:14:40.140Z"
+  },
+  "taipei-fon-ce\u0001https://images.unsplash.com/photo-1598935898639-81586f7d2129?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8VGFpcGVpJTIwVGFpd2FufGVufDB8MHx8fDE3ODUzNjIxNTR8MA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "taipei-fon-ce",
+    "verdict": "MISMATCH",
+    "reason": "release check: Cityscape skyline photo, not the restaurant itself",
+    "at": "2026-08-11T04:14:43.230Z"
+  },
+  "taipei-neihu-fb-kitchen\u0001https://fastly.4sqi.net/img/general/original/48621569__P6MP0HNSOCzpDfSa9iqXru_H6MExctrSk77zP9zJqs.jpg": {
+    "slug": "taipei-neihu-fb-kitchen",
+    "verdict": "MATCH",
+    "reason": "release check: Genuine restaurant interior with staff and customers, plausible venue",
+    "at": "2026-08-11T04:14:46.418Z"
+  },
+  "taipei-sansan-bistro\u0001https://fastly.4sqi.net/img/general/original/92194845_ElzWszYJTGfgPswl-uauQja32QqzQrtuYS8Un0FuhII.jpg": {
+    "slug": "taipei-sansan-bistro",
+    "verdict": "MATCH",
+    "reason": "release check: Genuine exterior/entrance shot of the bistro's location",
+    "at": "2026-08-11T04:14:50.414Z"
+  },
+  "yokohama-babymonster-choom-world-tour-japan-yokohama-leg\u0001https://images.unsplash.com/photo-1565569933219-1dae9e435512?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9rb2hhbWElMjBKYXBhbiUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIyMDMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
+    "slug": "yokohama-babymonster-choom-world-tour-japan-yokohama-leg",
+    "verdict": "MISMATCH",
+    "reason": "release check: Building exterior with signage, not a concert/performer photo",
+    "at": "2026-08-11T04:14:56.539Z"
   }
 }

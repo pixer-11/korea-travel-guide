@@ -16,6 +16,7 @@ import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import sharp from 'sharp';
+import yaml from 'js-yaml';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -41,7 +42,17 @@ async function heroUrls() {
     // The homepage shuffle then drew 12 tiles a day from a pool that was 10%
     // material we had decided was wrong.
     if (/^draft:\s*true\s*$/m.test(fm)) continue;
-    const url = fm.match(/heroImage:\n(?:  .*\n)*?  url:\s*"?([^"\n]+?)"?\s*$/m)?.[1];
+    // Parsed, not pattern-matched. The old regex required the URL to sit on the
+    // SAME line as `url:`, and YAML folds a long value onto the next line
+    // instead ("url: >-\n    https://…"). Every post whose hero URL was long
+    // enough to fold was therefore invisible to this script — 40 live posts on
+    // 2026-08-11, each one reported by the validator as a blank card while this
+    // script insisted there was nothing to build. A frontmatter reader that
+    // only understands one of YAML's spellings will always drift from the one
+    // Astro actually parses.
+    let url;
+    try { url = yaml.load(fm)?.heroImage?.url; } catch { url = undefined; }
+    url = url == null ? undefined : String(url).trim();
     // Accept remote (http) heroes AND self-hosted local ones (/venue-photos/…).
     if (url && (/^https?:/.test(url) || url.startsWith('/')) && !url.includes('placeholder')) urls.add(url);
   }

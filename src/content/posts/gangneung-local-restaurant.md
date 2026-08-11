@@ -27,7 +27,6 @@ faq:
   - q: Is English spoken or menus translated?
     a: Not reliably at smaller family-run places. Learning a few Korean food terms (sundubu, makguksu, hoe) or using a translation app is recommended.
 aiGenerated: true
-draft: true
 ---
 ## Why Gangneung's Local Restaurants Are Worth Seeking Out
 

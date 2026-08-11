@@ -23,7 +23,6 @@ faq:
   - q: What else can I do in Bhubaneswar around the event?
     a: Combine the meet with visits to Lingaraj Temple, Mukteshwar Temple, and the Khandagiri-Udayagiri Caves, all within a short drive of the city center.
 aiGenerated: true
-draft: true
 eventRecurring: true
 photoless: true
 heroImage:

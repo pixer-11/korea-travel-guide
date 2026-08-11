@@ -72,7 +72,6 @@ faq:
   - q: Is it good value?
     a: Yes — it's a budget-friendly food hall overall, with most dishes priced like casual street food rather than a sit-down restaurant.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -60,7 +60,6 @@ faq:
   - q: What's nearby if I want to combine it with other sights?
     a: It's a short walk from the Vieux-Port, the Centre Bourse mall (which also houses the Musée d'Histoire de Marseille), and the Le Panier neighborhood, making it easy to fold into a half-day loop of the old city center.
 aiGenerated: true
-draft: true
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

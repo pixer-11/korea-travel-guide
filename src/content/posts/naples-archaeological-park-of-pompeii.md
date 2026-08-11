@@ -59,7 +59,6 @@ faq:
   - q: Can I visit Pompeii and Herculaneum in one day?
     a: Yes, both are on the Circumvesuviana line, but they're each large sites — pairing them in one day means moving briskly and possibly skipping some minor buildings at each.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

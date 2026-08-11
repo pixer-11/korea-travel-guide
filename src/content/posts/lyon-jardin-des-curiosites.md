@@ -70,7 +70,6 @@ faq:
   - q: What's nearby?
     a: It sits right on the slope between Vieux Lyon and the Fourvière basilica, making it an easy add-on to a traboules walk or a basilica visit.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

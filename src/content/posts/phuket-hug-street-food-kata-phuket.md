@@ -51,7 +51,6 @@ faq:
   - q: What should I order?
     a: 'Classic Thai street-food dishes are the safest bet: pad thai, som tam (green papaya salad), moo ping (grilled pork skewers), and pad kra pao (basil chicken).'
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

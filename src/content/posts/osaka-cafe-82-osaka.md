@@ -62,7 +62,6 @@ faq:
   - q: Is Cafe+82 touristy?
     a: Not yet — it's still relatively under-the-radar despite its strong rating, so you're more likely to share the room with locals and design-district workers than tour groups.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

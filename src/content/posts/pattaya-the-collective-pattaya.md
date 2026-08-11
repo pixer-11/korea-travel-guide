@@ -59,7 +59,6 @@ faq:
   - q: What's nearby if I want to combine it with sightseeing?
     a: It's a short walk to Pattaya's main beachfront promenade, Central Pattaya's shopping area, and the northern end of Walking Street, making it easy to pair a meal with an evening stroll.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

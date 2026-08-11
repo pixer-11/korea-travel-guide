@@ -47,7 +47,6 @@ faq:
   - q: What's nearby to pair with a visit?
     a: Wat Phra Singh, Wat Chedi Luang, and Thapae Gate are all within walking distance, and the Sunday Walking Street market passes close by if your visit falls on a Sunday evening — though note Garden to Table itself is closed on Sundays, so plan your meal here on another day.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-24'
 ---
 

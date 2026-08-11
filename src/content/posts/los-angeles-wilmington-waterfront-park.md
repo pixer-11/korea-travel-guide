@@ -46,7 +46,6 @@ faq:
   - q: How do I get there without a car?
     a: Local Metro bus lines serve Wilmington, but given the spread-out, industrial setting, driving or rideshare is more practical for most visitors.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

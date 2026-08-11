@@ -27,7 +27,6 @@ faq:
   - q: What else is there to do near FB Kitchen?
     a: Neihu is primarily a business and tech district, so pair your meal with a walk around Dahu Park or a look at the Neihu Science Park area rather than expecting a dense tourist strip nearby.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

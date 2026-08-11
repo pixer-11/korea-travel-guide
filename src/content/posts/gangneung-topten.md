@@ -46,7 +46,6 @@ faq:
   - q: What's nearby TOPTEN?
     a: Anmok Beach's cafe strip and the historic Ojukheon House are both a short taxi ride away, making TOPTEN an easy add-on stop.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

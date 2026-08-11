@@ -26,7 +26,6 @@ faq:
   - q: What else is nearby?
     a: Plaza 66 sits on Nanjing Xi Lu, close to Jing'an Temple and the Nanjing Road shopping district, making it easy to combine dinner with an afternoon exploring that part of Shanghai.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

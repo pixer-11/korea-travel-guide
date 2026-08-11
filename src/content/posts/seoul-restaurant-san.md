@@ -26,7 +26,6 @@ faq:
   - q: How do I get there by subway?
     a: Gangnam Station (Line 2) and Sinnonhyeon Station (Sinbundang Line) are the main hubs for the district; depending on the exact address, Apgujeong or Cheongdam stations may be closer — check before you set out.
 aiGenerated: true
-draft: true
 ---
 ## Why go
 

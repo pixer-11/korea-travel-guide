@@ -47,7 +47,6 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: Read Bridge, Coleman Bridge, the Central shopping block, river cruise jetties, and Fort Canning Park are all within a 10-15 minute walk.
 aiGenerated: true
-draft: true
 updatedDate: '2026-07-26'
 ---
 
