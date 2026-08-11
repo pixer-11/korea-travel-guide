@@ -1,16 +1,5 @@
 {
-  "validate-content": {
-    "ENDED-EVENT-FUTURE-TENSE jakarta-the-sounds-project-vol-9.md": {
-      "since": "2026-08-10",
-      "last": "2026-08-10",
-      "seen": 1
-    },
-    "TRUNCATED-DESCRIPTION lyon-jardin-des-curiosites.md": {
-      "since": "2026-08-10",
-      "last": "2026-08-10",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
