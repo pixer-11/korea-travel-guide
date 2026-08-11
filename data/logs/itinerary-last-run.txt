@@ -17,9 +17,11 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 
 New York, United States — 16 qualifying post(s), variants: 3
   ~ New York 3d — structure changed by 4 slug(s), regenerating prose
-  ⚠ New York 3d — guard found 0 hours/price + 4 rain-leak issue(s) on first pass; retrying once
+  ⚠ New York 3d — guard found 1 hours/price + 3 rain-leak issue(s) on first pass; retrying once
   ⚠ New York 3d — dropping rain-swap for day 3 (venue name leaked into written prose after retry)
-VALIDATE-FAILED new-york-3-days.md — 1 issue(s):
+VALIDATE-FAILED new-york-3-days.md — 3 issue(s):
+  • AREA-CLAIM-UNSUPPORTED: new-york-3-days.md — day 1 names "Uptown Quiet" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: new-york-3-days.md — day 3 names "Skyline Heights" but no stop of that day attests it
   • DAY-TOTAL-TOO-SHORT: new-york-3-days.md — day 3 totals 229 min (floor 240)
 
 Done. Nothing changed.
