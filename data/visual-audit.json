@@ -7688,5 +7688,285 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Interior with elephant and pterosaur skeleton matches natural history museum",
   "at": "2026-08-11T10:01:29.291Z"
+ },
+ "alishan-alishan-national-forest-recreation-area\u0001https://upload.wikimedia.org/wikipedia/commons/b/b5/%E9%98%BF%E9%87%8C%E5%B1%B1%E5%9C%8B%E5%AE%B6%E6%A3%AE%E6%9E%97%E9%81%8A%E6%A8%82%E5%8D%80_Alishan_National_Forest_Recreation_Area_-_panoramio.jpg": {
+  "slug": "alishan-alishan-national-forest-recreation-area",
+  "verdict": "MATCH",
+  "reason": "Forest trees with spring blossoms, typical Alishan",
+  "reasonKo": "알리산 전형적인 숲과 봄꽃",
+  "at": "2026-08-11T14:02:53.249Z"
+ },
+ "amritsar-jallianwala-bagh\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1920px-Jallianwala_Bagh%2C_Amritsar_01.jpg": {
+  "slug": "amritsar-jallianwala-bagh",
+  "verdict": "MATCH",
+  "reason": "Jallianwala Bagh memorial gate and statue",
+  "reasonKo": "잘리안왈라 바그 기념관 정문과 동상",
+  "at": "2026-08-11T14:02:56.784Z"
+ },
+ "annecy-musee-chateau-d-annecy\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Ch%C3%A2teau_d%27Annecy_11.jpg": {
+  "slug": "annecy-musee-chateau-d-annecy",
+  "verdict": "MATCH",
+  "reason": "Museum interior gallery with artwork displays",
+  "reasonKo": "미술관 갤러리 전시 공간",
+  "at": "2026-08-11T14:02:58.656Z"
+ },
+ "bugis-supertree-grove\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/3840px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg": {
+  "slug": "bugis-supertree-grove",
+  "verdict": "MATCH",
+  "reason": "Iconic Supertree Grove aerial view, Singapore",
+  "reasonKo": "싱가포르 슈퍼트리 그로브 항공 사진",
+  "at": "2026-08-11T14:03:01.209Z"
+ },
+ "can-tho-cai-rang-floating-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg/1920px-M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg": {
+  "slug": "can-tho-cai-rang-floating-market",
+  "verdict": "MATCH",
+  "reason": "Floating market with boats, vendors, conical hats",
+  "reasonKo": "떠있는 시장, 보트, 원뿔 모자",
+  "at": "2026-08-11T14:03:03.205Z"
+ },
+ "chennai-government-museum-chennai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Madras_museum_theatre_in_October_2007.jpg/1920px-Madras_museum_theatre_in_October_2007.jpg": {
+  "slug": "chennai-government-museum-chennai",
+  "verdict": "MATCH",
+  "reason": "Government Museum Theatre building exterior, Chennai",
+  "reasonKo": "첸나이 정부박물관 건물 외관",
+  "at": "2026-08-11T14:03:04.895Z"
+ },
+ "cinque-terre-parco-nazionale-delle-cinque-terre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Parco_Nazionale_delle_Cinque_Terre%2C_Riomaggiore%2C_Italy_%28Unsplash%29.jpg/3840px-Parco_Nazionale_delle_Cinque_Terre%2C_Riomaggiore%2C_Italy_%28Unsplash%29.jpg": {
+  "slug": "cinque-terre-parco-nazionale-delle-cinque-terre",
+  "verdict": "MATCH",
+  "reason": "Iconic Cinque Terre village with colorful cliffside building",
+  "reasonKo": "친퀘테레의 특징적인 다채로운 절벽 건축물",
+  "at": "2026-08-11T14:03:06.899Z"
+ },
+ "colmar-la-petite-venise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_%28Colmar%29_%288%29.jpg/3840px-Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_%28Colmar%29_%288%29.jpg": {
+  "slug": "colmar-la-petite-venise",
+  "verdict": "MATCH",
+  "reason": "Iconic half-timbered buildings reflected in Colmar's canal",
+  "reasonKo": "콜마르의 운하에 비친 전형적인 목조 건축물",
+  "at": "2026-08-11T14:03:08.990Z"
+ },
+ "coron-kayangan-lake\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cayangan_Lake%2C_Coron_Islands%2C_Philippines_-_panoramio.jpg/1920px-Cayangan_Lake%2C_Coron_Islands%2C_Philippines_-_panoramio.jpg": {
+  "slug": "coron-kayangan-lake",
+  "verdict": "MATCH",
+  "reason": "Limestone cliffs, clear water, swimmers, Coron Philippines",
+  "reasonKo": "코론의 석회암 절벽과 맑은 물",
+  "at": "2026-08-11T14:03:10.588Z"
+ },
+ "downtown-dubai-at-the-top-burj-khalifa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg/3840px-Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg": {
+  "slug": "downtown-dubai-at-the-top-burj-khalifa",
+  "verdict": "MATCH",
+  "reason": "Aerial view from Burj Khalifa of Downtown Dubai",
+  "reasonKo": "버즈 칼리파에서 본 다운타운 두바이",
+  "at": "2026-08-11T14:03:13.062Z"
+ },
+ "dubai-marina-dubai-marina-walk\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Dubai_Marina_Walk_%28222830095%29.jpeg": {
+  "slug": "dubai-marina-dubai-marina-walk",
+  "verdict": "MATCH",
+  "reason": "Dubai Marina skyline and waterfront accurately depicted",
+  "reasonKo": "두바이 마리나 스카이라인과 워터프론트 정확히 표현됨",
+  "at": "2026-08-11T14:03:14.779Z"
+ },
+ "fethiye-ancient-city-of-telmessos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg/3840px-Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg": {
+  "slug": "fethiye-ancient-city-of-telmessos",
+  "verdict": "MATCH",
+  "reason": "Ancient ruins with stone structures, trees, Fethiye setting",
+  "reasonKo": "고대 유적, 석조 건축물, 페티예 배경",
+  "at": "2026-08-11T14:03:16.980Z"
+ },
+ "genting-highlands-resorts-world-genting\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Genting_SkyWorlds_Theme_Park.jpg/1920px-Genting_SkyWorlds_Theme_Park.jpg": {
+  "slug": "genting-highlands-resorts-world-genting",
+  "verdict": "MATCH",
+  "reason": "Theme park overview shows Resorts World Genting attractions",
+  "reasonKo": "리조츠월드젠팅의 테마파크 전경",
+  "at": "2026-08-11T14:03:18.419Z"
+ },
+ "gili-islands-gili-meno-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Beach_on_the_island%2C_Tropical_cyclone%2C_Gili_Meno_Island%2C_Indonesia.jpg": {
+  "slug": "gili-islands-gili-meno-beach",
+  "verdict": "MATCH",
+  "reason": "Tropical beach scene matches Gili Islands venue",
+  "reasonKo": "길리 제도 해변과 일치함",
+  "at": "2026-08-11T14:03:20.468Z"
+ },
+ "hua-hin-khao-hin-lek-fai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Khao_Hin_Lek_Fai_1.jpg/3840px-Khao_Hin_Lek_Fai_1.jpg": {
+  "slug": "hua-hin-khao-hin-lek-fai",
+  "verdict": "MATCH",
+  "reason": "Panoramic city view from hilltop viewpoint",
+  "reasonKo": "언덕 전망대에서의 도시 전경",
+  "at": "2026-08-11T14:03:22.693Z"
+ },
+ "iloilo-molo-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Iloilo_Molo_Mansion.jpg/1920px-Iloilo_Molo_Mansion.jpg": {
+  "slug": "iloilo-molo-mansion",
+  "verdict": "MATCH",
+  "reason": "Colonial mansion exterior matches Molo Iloilo venue",
+  "reasonKo": "몰로 저택의 외관과 일치",
+  "at": "2026-08-11T14:03:25.139Z"
+ },
+ "kas-kas-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2023-11-16_Ka%C5%9F_Old_Town_3.jpg/3840px-2023-11-16_Ka%C5%9F_Old_Town_3.jpg": {
+  "slug": "kas-kas-old-town",
+  "verdict": "MATCH",
+  "reason": "Authentic old town street with Mediterranean architecture",
+  "reasonKo": "지중해식 건축의 정통 구도심 거리",
+  "at": "2026-08-11T14:03:27.490Z"
+ },
+ "katong-east-coast-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%28SGP-Singapore%29_East_Coast_Park_Zone_B_2026-01-25.jpg/1920px-%28SGP-Singapore%29_East_Coast_Park_Zone_B_2026-01-25.jpg": {
+  "slug": "katong-east-coast-park",
+  "verdict": "MATCH",
+  "reason": "Tree-lined park path, cyclists, joggers, Singapore setting",
+  "reasonKo": "나무가 우거진 공원 경로, 자전거",
+  "at": "2026-08-11T14:03:29.240Z"
+ },
+ "kenting-kenting-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maobitou_Cape_01.jpg/1920px-Maobitou_Cape_01.jpg": {
+  "slug": "kenting-kenting-national-park",
+  "verdict": "MATCH",
+  "reason": "Rocky coastal landscape typical of Kenting National Park",
+  "reasonKo": "켄팅국립공원의 전형적인 해안 경관",
+  "at": "2026-08-11T14:03:33.049Z"
+ },
+ "kobe-kobe-port-tower\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/Kobe_Port_Tower_and_Maritime_Museum%2C_November_2016.jpg": {
+  "slug": "kobe-kobe-port-tower",
+  "verdict": "MATCH",
+  "reason": "Kobe Port Tower illuminated at dusk, recognizable landmark",
+  "reasonKo": "고베 항만타워 야경, 인식 가능한 랜드마크",
+  "at": "2026-08-11T14:03:37.626Z"
+ },
+ "kochi-mattancherry-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mattancherry_Palace_DSC_0899.JPG/1920px-Mattancherry_Palace_DSC_0899.JPG": {
+  "slug": "kochi-mattancherry-palace",
+  "verdict": "MATCH",
+  "reason": "Yellow colonial building matches Mattancherry Palace archite",
+  "reasonKo": "매탄체리 궁전의 식민지 건축양식과 일치",
+  "at": "2026-08-11T14:03:39.149Z"
+ },
+ "komodo-komodo-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/Komodo_dragon_at_Komodo_National_Park.jpg": {
+  "slug": "komodo-komodo-national-park",
+  "verdict": "MATCH",
+  "reason": "Komodo dragon on beach, iconic park image",
+  "reasonKo": "코모도 드래곤, 공원의 상징적 이미지",
+  "at": "2026-08-11T14:03:41.000Z"
+ },
+ "konya-mevlana-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg/1920px-Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg": {
+  "slug": "konya-mevlana-museum",
+  "verdict": "MATCH",
+  "reason": "Mevlana Museum exterior, Konya, Turkey",
+  "reasonKo": "메블라나 박물관 외관, 코냐, 터키",
+  "at": "2026-08-11T14:03:42.553Z"
+ },
+ "lijiang-old-town-of-lijiang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lijiang_-_panoramio_%286%29.jpg/1920px-Lijiang_-_panoramio_%286%29.jpg": {
+  "slug": "lijiang-old-town-of-lijiang",
+  "verdict": "MATCH",
+  "reason": "Traditional Lijiang architecture with snow-capped mountains",
+  "reasonKo": "전통 리장 건축과 설산 배경",
+  "at": "2026-08-11T14:03:45.497Z"
+ },
+ "ninh-binh-tam-coc-bich-dong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tam_Coc_from_Summit_-_August_2023.jpg/1920px-Tam_Coc_from_Summit_-_August_2023.jpg": {
+  "slug": "ninh-binh-tam-coc-bich-dong",
+  "verdict": "MATCH",
+  "reason": "Iconic karst landscape with river, Tam Coc characteristic",
+  "reasonKo": "탐꼭의 특징적인 카르스트 경관과 강",
+  "at": "2026-08-11T14:03:47.589Z"
+ },
+ "palermo-palermo-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palermo_Cathedral_Facade.jpg/1920px-Palermo_Cathedral_Facade.jpg": {
+  "slug": "palermo-palermo-cathedral",
+  "verdict": "MATCH",
+  "reason": "Palermo Cathedral exterior, architecture, plaza setting.",
+  "reasonKo": "팔레르모 대성당 외관, 건축양식, 광장",
+  "at": "2026-08-11T14:03:49.548Z"
+ },
+ "palm-jumeirah-the-view-palm-jumeirah\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg/3840px-Palm_Jumeirah_-_View_of_Crescent_Island_Detail_-_Dubai_-_10_March_2012.jpg": {
+  "slug": "palm-jumeirah-the-view-palm-jumeirah",
+  "verdict": "MATCH",
+  "reason": "Aerial view of Palm Jumeirah's distinctive crescent shape",
+  "reasonKo": "팜 주메이라의 독특한 초승달 모양",
+  "at": "2026-08-11T14:03:51.363Z"
+ },
+ "pisa-tower-of-pisa\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg": {
+  "slug": "pisa-tower-of-pisa",
+  "verdict": "MATCH",
+  "reason": "Iconic Leaning Tower of Pisa with characteristic architectur",
+  "reasonKo": "피사의 사탑 특징적 건축물",
+  "at": "2026-08-11T14:03:52.892Z"
+ },
+ "puerto-princesa-luli-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg/3840px-Luli_Island%2C_Honda_Bay%2C_Palawan%2C_Philippines.jpg": {
+  "slug": "puerto-princesa-luli-island",
+  "verdict": "MATCH",
+  "reason": "Pier, boat, island landscape matches Puerto Princesa setting",
+  "reasonKo": "푸에르토프린세사 섬 풍경과 부두 일치",
+  "at": "2026-08-11T14:03:54.833Z"
+ },
+ "putrajaya-seri-wawasan-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg/1920px-Jambatan_Seri_Wawasan_4493633704_3cbff54de1.jpg": {
+  "slug": "putrajaya-seri-wawasan-bridge",
+  "verdict": "MATCH",
+  "reason": "Iconic bridge in Putrajaya, correct location",
+  "reasonKo": "푸트라자야의 상징적인 다리, 정확한 장소",
+  "at": "2026-08-11T14:03:57.086Z"
+ },
+ "rishikesh-ram-jhula\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Ramjhula_-_bridge_over_the_Ganga.jpg": {
+  "slug": "rishikesh-ram-jhula",
+  "verdict": "MATCH",
+  "reason": "Cable bridge over turquoise river, Rishikesh",
+  "reasonKo": "리시케시의 케이블 다리, 맞음",
+  "at": "2026-08-11T14:03:58.569Z"
+ },
+ "san-diego-balboa-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Balboa_Park_Botanical_Building_01.jpg": {
+  "slug": "san-diego-balboa-park",
+  "verdict": "MATCH",
+  "reason": "Iconic Balboa Park building with distinctive dome architectu",
+  "reasonKo": "발보아 공원의 상징적 돔 건축물",
+  "at": "2026-08-11T14:04:00.707Z"
+ },
+ "tagaytay-sky-ranch-tagaytay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Ranch_Tagaytay_at_Sunset.jpg/3840px-Sky_Ranch_Tagaytay_at_Sunset.jpg": {
+  "slug": "tagaytay-sky-ranch-tagaytay",
+  "verdict": "MATCH",
+  "reason": "Amusement park with rides, Tagaytay setting visible",
+  "reasonKo": "놀이공원, 타가이타이 풍경 보임",
+  "at": "2026-08-11T14:04:02.512Z"
+ },
+ "taroko-gorge-taroko-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Taroko_National_Park%2C_Hualien_County%2C_Taiwan_-_panoramio_%283%29.jpg": {
+  "slug": "taroko-gorge-taroko-national-park",
+  "verdict": "MATCH",
+  "reason": "Dramatic gorge canyon with river, Taiwan geology",
+  "reasonKo": "타이완의 극적인 협곡 지형",
+  "at": "2026-08-11T14:04:04.116Z"
+ },
+ "tioman-tioman-island\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg": {
+  "slug": "tioman-tioman-island",
+  "verdict": "MATCH",
+  "reason": "Beautiful beach scene plausibly depicts Tioman Island",
+  "reasonKo": "티오만 섬의 해변 풍경과 일치",
+  "at": "2026-08-11T14:04:05.641Z"
+ },
+ "toledo-monasterio-de-san-juan-de-los-reyes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Iglesia_del_monasterio_de_San_Juan_de_los_Reyes%2C_Toledo%2C_Espa%C3%B1a.jpg/1920px-Iglesia_del_monasterio_de_San_Juan_de_los_Reyes%2C_Toledo%2C_Espa%C3%B1a.jpg": {
+  "slug": "toledo-monasterio-de-san-juan-de-los-reyes",
+  "verdict": "MATCH",
+  "reason": "Gothic monastery exterior in Toledo, Spain",
+  "reasonKo": "스페인 톨레도의 고딕양식 수도원",
+  "at": "2026-08-11T14:04:07.487Z"
+ },
+ "ubud-sacred-monkey-forest-sanctuary\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/Sacred_Monkey_Forest_Sanctuary_%286336846727%29.jpg": {
+  "slug": "ubud-sacred-monkey-forest-sanctuary",
+  "verdict": "MATCH",
+  "reason": "Monkey in forest sanctuary, Ubud setting authentic",
+  "reasonKo": "우붓 원숭이 숲, 진정성 있는 장소",
+  "at": "2026-08-11T14:04:09.515Z"
+ },
+ "vigan-plaza-padre-jose-burgos\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Plaza_Padre_Jose_Burgos%2C_Vigan%2C_Ilocos_Sur%2C_Apr_2026.jpg": {
+  "slug": "vigan-plaza-padre-jose-burgos",
+  "verdict": "MATCH",
+  "reason": "Plaza with statue, colonial architecture, Vigan setting",
+  "reasonKo": "비간의 광장, 동상, 식민지 건축",
+  "at": "2026-08-11T14:04:12.832Z"
+ },
+ "yilan-diu-diu-dang-forest-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg/3840px-Diu_Diu_Dang_Forest_%E4%B8%9F%E4%B8%9F%E5%99%B9%E6%A3%AE%E6%9E%97_-_panoramio.jpg": {
+  "slug": "yilan-diu-diu-dang-forest-park",
+  "verdict": "MATCH",
+  "reason": "Suspended train ride at forest park attraction",
+  "reasonKo": "숲 공원의 현수식 기차 놀이기구",
+  "at": "2026-08-11T14:04:15.268Z"
+ },
+ "zhangjiajie-zhangjiajie-national-forest-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1920px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg": {
+  "slug": "zhangjiajie-zhangjiajie-national-forest-park",
+  "verdict": "MATCH",
+  "reason": "Iconic sandstone pillars of Zhangjiajie Forest Park",
+  "reasonKo": "장가계 국립공원의 특징적인 사암 기둥",
+  "at": "2026-08-11T14:04:19.258Z"
  }
 }
