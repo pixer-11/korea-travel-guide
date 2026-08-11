@@ -38,8 +38,17 @@ const workflows = [];
 for (const f of readdirSync(WF_DIR).filter((x) => /\.ya?ml$/.test(x))) {
   const src = readFileSync(join(WF_DIR, f), 'utf8');
   const name = (src.match(/^name:\s*(.+)$/m) || [])[1]?.trim().replace(/^['"]|['"]$/g, '') || f;
-  const crons = [...src.matchAll(/- cron:\s*'([^']+)'/g)].map((m) => m[1]);
-  if (!crons.length) continue;               // event-driven jobs are not "late"
+  // Anchored to the line start so a COMMENTED-OUT cron is not counted. A
+  // schedule that was deliberately switched off still leaves its line in the
+  // file, prefixed with '#', because the reason is written next to it — and the
+  // old pattern matched the "- cron: '…'" inside that comment. attach-placeless
+  // had its crons disabled on 2026-07-26 (Google photo billing is blocked for
+  // this account, so the runs only burned the quota the morning publish needs),
+  // and this audit reported it every day since as "expected every ~1d, no run
+  // in the last 100" — 17 days of an alarm for a job doing exactly what it was
+  // told. A false overdue is worse than none: it teaches you to skim the list.
+  const crons = [...src.matchAll(/^\s*- cron:\s*'([^']+)'/gm)].map((m) => m[1]);
+  if (!crons.length) continue;               // event-driven or disabled — not "late"
   workflows.push({ f, name, gap: Math.min(...crons.map(expectedGapDays)) });
 }
 
@@ -48,16 +57,30 @@ if (!REPO || !TOKEN) {
   process.exit(0);
 }
 
-const res = await fetch(`https://api.github.com/repos/${REPO}/actions/runs?per_page=100`, {
-  headers: { Authorization: `Bearer ${TOKEN}`, Accept: 'application/vnd.github+json' },
-});
-if (!res.ok) {
-  console.log(`⚠️  could not read run history (${res.status}) — not treating that as a defect`);
+// Ask each workflow for ITS own last run, rather than slicing one shared
+// "recent 100" list. On a repo this busy the shared list covers only a few
+// hours — on 2026-08-11 it held nothing but that morning's runs, so six weekly
+// jobs that had all run normally 2-7 days earlier were reported as overdue.
+// One request per workflow file is a handful of calls and the answer is exact.
+const head = { Authorization: `Bearer ${TOKEN}`, Accept: 'application/vnd.github+json' };
+const lastRun = new Map();
+let apiFailed = false;
+for (const w of workflows) {
+  // The file name is the workflow's stable id in this endpoint — its `name:`
+  // can change without warning, and matching on that is how a renamed job
+  // silently becomes "never ran".
+  const r = await fetch(
+    `https://api.github.com/repos/${REPO}/actions/workflows/${encodeURIComponent(w.f)}/runs?per_page=1`,
+    { headers: head },
+  ).catch(() => null);
+  if (!r || !r.ok) { apiFailed = true; continue; }
+  const run = ((await r.json()).workflow_runs || [])[0];
+  if (run) lastRun.set(w.name, run);
+}
+if (apiFailed && !lastRun.size) {
+  console.log('⚠️  could not read run history — not treating that as a defect');
   process.exit(0);
 }
-const runs = (await res.json()).workflow_runs || [];
-const lastRun = new Map();
-for (const r of runs) if (!lastRun.has(r.name)) lastRun.set(r.name, r);
 
 const now = Date.now();
 const late = [];
