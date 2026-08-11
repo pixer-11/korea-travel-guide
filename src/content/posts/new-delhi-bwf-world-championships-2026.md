@@ -29,6 +29,7 @@ heroImage:
   credit: 'Photo: Alistaircasey / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Alistair_Casey_-_2007_BWF_World_Championships.jpg
+draft: true
 ---
 
 ## Why go

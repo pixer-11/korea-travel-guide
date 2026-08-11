@@ -27,6 +27,7 @@ faq:
   - q: Is Jagalchi the only good seafood spot in Busan?
     a: No — Millak Waterside Park near Gwangalli Beach (Metro Line 2, Millak Station) offers raw fish with harbor views, and Gijang, along the Donghae Line, is known for sea urchin and winter crab.
 aiGenerated: true
+draft: true
 ---
 
 ## Why Busan Is Korea's Seafood City

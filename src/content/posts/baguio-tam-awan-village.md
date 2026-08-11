@@ -68,6 +68,7 @@ faq:
   - q: Is it open every day?
     a: Yes, Tam-awan Village is open daily from 7:00 AM to 8:00 PM.
 aiGenerated: true
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

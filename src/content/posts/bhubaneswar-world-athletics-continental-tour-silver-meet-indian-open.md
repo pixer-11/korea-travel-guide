@@ -30,6 +30,7 @@ heroImage:
   credit: 'Photo: LeeMNichols / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Valarie_Allman_at_2025_World_Athletics_Championships.jpg
+draft: true
 ---
 
 ## Why this meet matters

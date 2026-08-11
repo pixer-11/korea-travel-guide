@@ -1,41 +1,41 @@
 ---
-title: "Tower of Pisa: Travel Guide (4.7★)"
-description: "The Leaning Tower is open daily from 9am to 8pm, and it's genuinely worth climbing, not just photographing. 4.7★ (198,489 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Pisa"
-category: "attraction"
-pubDate: "2026-08-11T08:25:42.398Z"
+title: 'Tower of Pisa: Travel Guide (4.7★)'
+description: The Leaning Tower is open daily from 9am to 8pm, and it's genuinely worth climbing, not just photographing. 4.7★ (198,489 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Pisa
+category: attraction
+pubDate: '2026-08-11T08:25:42.398Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg"
-  credit: "Photo: InnovativeEngineering / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg
+  credit: 'Photo: InnovativeEngineering / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg/3840px-The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg"
-    credit: "Photo: MHoser / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg/3840px-The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg
+    credit: 'Photo: MHoser / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg
 place:
-  id: "ChIJzYhOxKaR1RIRA_xU1bGp7DI"
-  name: "Tower of Pisa"
-  address: "Piazza del Duomo, 56126 Pisa PI, Italy"
+  id: ChIJzYhOxKaR1RIRA_xU1bGp7DI
+  name: Tower of Pisa
+  address: Piazza del Duomo, 56126 Pisa PI, Italy
   rating: 4.7
   userRatingsTotal: 198489
-  googleMapsUrl: "https://maps.google.com/?cid=3669494377653533699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3669494377653533699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.722952
   lng: 10.396597
-  phone: "+39 050 835011"
+  phone: +39 050 835011
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 18
@@ -50,24 +50,24 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4944377047623155785f415249523152614b784f68597a4a496843"
+    venueId: ven_4944377047623155785f415249523152614b784f68597a4a496843
 tags:
-  - "pisa"
-  - "top attraction"
-quickAnswer: "The Leaning Tower is open daily from 9am to 8pm, and it's genuinely worth climbing, not just photographing. Book your timed-entry ticket online in advance for a specific climb slot, and aim for the first hour after opening or the last before closing — weekends between 11am and 5pm are when the Piazza dei Miracoli gets packed."
+  - pisa
+  - top attraction
+quickAnswer: The Leaning Tower is open daily from 9am to 8pm, and it's genuinely worth climbing, not just photographing. Book your timed-entry ticket online in advance for a specific climb slot, and aim for the first hour after opening or the last before closing — weekends between 11am and 5pm are when the Piazza dei Miracoli gets packed.
 faq:
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes. Entry to the tower is by timed slot, and climb tickets frequently sell out days ahead in spring and summer. Book online through the official Opera della Primaziale Pisana site rather than relying on walk-up availability."
-  - q: "When is the quietest time to visit?"
-    a: "The piazza sees its heaviest crowds on weekends between 11am and 5pm. For a calmer visit, arrive right at the 9am opening or head over in the couple of hours before the 8pm close, any day of the week."
-  - q: "How long does the tower visit take?"
-    a: "The climb itself is about 30 minutes round trip up and down 251 steps, but budget closer to 45 minutes to an hour with queuing. Add another hour or so if you also want to see the Duomo and Baptistery."
-  - q: "Can young children climb the tower?"
-    a: "Children under 8 are not permitted on the climb for safety reasons, and anyone climbing should be comfortable with narrow, uneven spiral stairs."
-  - q: "What else is nearby worth seeing?"
-    a: "The Duomo, Baptistery, and Camposanto monumental cemetery all sit within the same Piazza del Duomo complex — combined tickets covering multiple sites are usually better value than the tower alone."
+  - q: Do I need to book tickets in advance?
+    a: Yes. Entry to the tower is by timed slot, and climb tickets frequently sell out days ahead in spring and summer. Book online through the official Opera della Primaziale Pisana site rather than relying on walk-up availability.
+  - q: When is the quietest time to visit?
+    a: The piazza sees its heaviest crowds on weekends between 11am and 5pm. For a calmer visit, arrive right at the 9am opening or head over in the couple of hours before the 8pm close, any day of the week.
+  - q: How long does the tower visit take?
+    a: The climb itself is about 30 minutes round trip up and down 251 steps, but budget closer to 45 minutes to an hour with queuing. Add another hour or so if you also want to see the Duomo and Baptistery.
+  - q: Can young children climb the tower?
+    a: Children under 8 are not permitted on the climb for safety reasons, and anyone climbing should be comfortable with narrow, uneven spiral stairs.
+  - q: What else is nearby worth seeing?
+    a: The Duomo, Baptistery, and Camposanto monumental cemetery all sit within the same Piazza del Duomo complex — combined tickets covering multiple sites are usually better value than the tower alone.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

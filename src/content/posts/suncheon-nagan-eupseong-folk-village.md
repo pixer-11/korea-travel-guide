@@ -5,7 +5,7 @@ region: Suncheon
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/102260451_EoQ1my0t48PIgiuSY3VGqR_Ub3DFjjytBzwcDb7AMRM.jpg
+  url: https://fastly.4sqi.net/img/general/original/102260451_sa1z-PjATzC45eBVJpIN8nUD11l-DFmPoy95IaD3yFg.jpg
   credit: 'Photo: Foursquare user content (Naga Eupseong Folk Village)'
   license: foursquare
   source: https://foursquare.com/v/650a71e172bc550d2a4a63da

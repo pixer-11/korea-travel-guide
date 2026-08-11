@@ -30,6 +30,7 @@ heroImage:
   credit: 'Photo: Sachyn Mital / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:John_Legend_by_Sachyn_Mital.jpg
+draft: true
 ---
 
 ## Why this show is different

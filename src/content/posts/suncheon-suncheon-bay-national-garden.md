@@ -6,10 +6,10 @@ region: Suncheon
 category: hidden-gem
 pubDate: '2026-08-02T09:36:14.856Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg
-  credit: 'Photo: Donghwan Seong / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg/3840px-Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg
+  credit: 'Photo: Choi2451 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Panorama_of_International_Garden_Exposition_Suncheon_Bay_Korea_2013.jpg
+  source: https://commons.wikimedia.org/wiki/File:Netherlands_garden_in_Suncheon_Bay_National_Garden.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg/3840px-Suncheon_Bay_National_Garden-_Part_III_-_SuncheonBNG2952.jpg
     credit: 'Photo: lumoplank / Wikimedia Commons (CC0)'

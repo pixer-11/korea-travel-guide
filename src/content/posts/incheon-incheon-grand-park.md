@@ -68,6 +68,7 @@ faq:
   - q: Is it worth visiting outside spring and autumn?
     a: Yes, though spring blossoms and autumn foliage are the visual highlights. Summer is hot with limited shade, so mornings are best in July and August.
 aiGenerated: true
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
