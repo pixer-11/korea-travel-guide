@@ -4097,6 +4097,11 @@
       "blurb": "시아르가오는 필리핀 남부에 위치한 눈물방울 모양의 섬으로, 유명한 리프 브레이크 클라우드 9을 중심으로 한 필리핀 최고의 서핑 성지로 잘 알려져 있습니다. 맹그로브 숲과 라군, 그리고 여유로운 분위기의 해변 마을들이 곳곳에 자리하고 있죠. 야자수가 늘어선 느긋한 섬 특유의 리듬과 활기찬 서핑·카페 문화가 어우러지며, 동남아시아에서 가장 화제가 되는 섬 여행지 중 하나로 떠올랐습니다.",
       "getting": "대부분의 여행자는 델 카르멘에 위치한 사야크 공항(IAO)으로 가는 항공편을 이용해 시아르가오에 도착합니다. 보통 막탄-세부 국제공항을 경유한 뒤, 약 1시간 정도의 짧은 국내선으로 갈아타는 방식입니다. 시간은 더 걸리지만 저렴한 대안으로는 세부에서 수리가오 시티까지 야간 페리를 타고, 이어서 배로 섬까지 건너가는 방법이 있습니다. 시아르가오에는 철도가 없기 때문에, 대부분의 방문객에게는 세부를 거치는 항공편이나 해상 교통이 가장 확실한 이동 수단입니다.",
       "days": "클라우드 9에서 서핑을 즐기거나 배우고, 네이키드 아일랜드/다쿠/기얌 섬 무리로 섬 투어를 다니며, 수그바 라군과 막푸풍코 암반 풀 같은 내륙 명소까지 둘러보려면 최소 4~5일 정도는 일정을 잡는 것이 좋습니다."
+    },
+    "zh": {
+      "blurb": "锡亚高岛（Siargao）是菲律宾南部一座泪滴形的小岛，被誉为该国的冲浪之都，闻名遐迩的Cloud 9礁岸浪点便坐落于此。岛上还有茂密的红树林、静谧的潟湖，以及一众悠闲惬意的海滨小镇。这里慢节奏的椰林风情，加上活力四射的冲浪与咖啡馆文化，使其成为东南亚最受热议的海岛目的地之一。",
+      "getting": "大多数游客前往锡亚高岛都是先飞抵德尔卡门（Del Carmen）的沙雅克机场（IAO），通常需在宿务麦克坦国际机场（Mactan-Cebu International Airport）转机，再搭乘约1小时的短途航班抵达。另一种较慢但更省钱的方式，是从宿务乘坐过夜渡轮前往锡里高市（Surigao City），再换乘船只渡海上岛。锡亚高岛没有铁路连接，因此经由宿务枢纽转乘飞机或船只，是大多数游客最可靠的出行方式。",
+      "days": "建议至少安排4-5天的行程：在Cloud 9冲浪或学习冲浪，前往裸岛（Naked Island）、达库岛（Daku）和古延岛（Guyam）一带跳岛游玩，再到内陆的苏格巴潟湖（Sugba Lagoon）和马普蓬戈石潭（Magpupungko）等景点走走看看。"
     }
   },
   "Turin": {
@@ -4895,6 +4900,384 @@
       "blurb": "日月潭是台湾最大的湖泊,坐落在南投县、台湾地理中心附近,四周群山环抱、林木葱郁,湖面宁静如镜。晨雾缭绕之时,东侧如日、西侧似月的独特轮廓渐渐浮现,而伊达邵一带还能感受到原住民邵族的文化气息。尽管距离台湾各大城市仅数小时车程,这里却仿佛是另一个世外之地。",
       "getting": "日月潭本身并没有直达的火车或机场,大多数旅客会先搭乘台湾高铁到台中站,再转乘区域巴士(如台湾好行或南投客运)前往湖畔。从台中出发的这段路程,依路况和路线不同,车程大约需要1.5至2小时。",
       "days": "建议安排约2天1夜的行程,悠闲地骑车或乘船环湖、体验缆车,再顺道走访周边几座寺庙和步道,时间上会更加从容。"
+    }
+  },
+  "Baguio": {
+    "en": {
+      "blurb": "Perched at roughly 1,500 meters in the Cordillera mountains, Baguio is the Philippines' \"Summer Capital\" — a pine-covered highland city with a cool, misty climate that stands in sharp contrast to the tropical lowlands. Long an artistic and cultural hub for the Cordillera's indigenous communities, it was designated a UNESCO Creative City and remains famous for its markets, gardens, and mountain views.",
+      "getting": "Baguio has no scheduled commercial airport service, so almost all travelers arrive overland by bus (operators like Victory Liner and Genesis run frequent daily services) from Manila's Cubao, Pasay, or PITX terminals, a trip of roughly ~4-7 hours depending on traffic and route.",
+      "days": "Plan on ~2-3 days to cover Baguio's compact core of sights — Burnham Park, Session Road, and the city's museums and viewpoints — with extra time if adding day trips into the surrounding Benguet highlands."
+    },
+    "ko": {
+      "blurb": "코르디예라 산맥, 해발 약 1,500미터 지점에 자리 잡은 바기오는 필리핀의 \"여름 수도\"로 불립니다. 소나무로 뒤덮인 이 고산 도시는 서늘하고 안개 낀 기후를 지니고 있어, 무더운 저지대 열대 지방과는 확연히 다른 분위기를 자아냅니다. 오랫동안 코르디예라 원주민 공동체의 예술·문화 중심지 역할을 해온 바기오는 유네스코 창의도시로 지정되었으며, 시장과 정원, 그리고 산악 경관으로 여전히 유명합니다.",
+      "getting": "바기오에는 정기 상업 항공편이 운항하는 공항이 없기 때문에, 대부분의 여행객은 육로, 즉 버스를 이용해 도착합니다. Victory Liner, Genesis 같은 버스 회사들이 마닐라의 쿠바오(Cubao), 파사이(Pasay), PITX 터미널에서 매일 여러 차례 운행하며, 교통 상황과 경로에 따라 소요 시간은 약 4~7시간 정도입니다.",
+      "days": "번햄 공원(Burnham Park), 세션 로드(Session Road)를 비롯해 시내의 박물관과 전망 명소 등 바기오의 핵심 볼거리를 둘러보려면 약 2~3일이 적당하며, 주변 벵겟(Benguet) 고원 지대로 당일치기 여행을 계획한다면 시간을 좀 더 여유 있게 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "コルディリェラ山脈の標高およそ1,500メートルに位置するバギオは、フィリピンの「サマーキャピタル(避暑地)」と呼ばれる高原都市です。松林に覆われた涼しく霧がちな気候は、常夏の低地とは対照的な魅力を放っています。古くからコルディリェラ地方の先住民コミュニティによる芸術・文化の中心地として栄えてきたこの街は、ユネスコ創造都市にも認定されており、市場や庭園、そして山々の眺望で今なお高い人気を誇ります。",
+      "getting": "バギオには定期便が就航する空港がないため、旅行者のほとんどは陸路のバスで訪れます。Victory LinerやGenesisといったバス会社がマニラのクバオ、パサイ、PITXの各ターミナルから毎日頻繁に便を運行しており、所要時間は交通状況やルートにもよりますがおよそ4〜7時間です。",
+      "days": "バーナムパークやセッションロード、市内の博物館や展望スポットなど、バギオのコンパクトな見どころを巡るには2〜3日程度が目安です。周辺のベンゲット高原へ日帰り旅行を加える場合は、さらに日数を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Encaramada a unos 1.500 metros en las montañas de la Cordillera, Baguio es la \"Capital de Verano\" de Filipinas: una ciudad de altura cubierta de pinos, con un clima fresco y brumoso que contrasta radicalmente con las tierras bajas tropicales del país. Durante mucho tiempo ha sido un importante centro artístico y cultural para las comunidades indígenas de la Cordillera, y fue reconocida como Ciudad Creativa por la UNESCO. Sigue siendo célebre por sus mercados, jardines y vistas panorámicas de montaña.",
+      "getting": "Baguio no cuenta con servicio aéreo comercial regular, por lo que casi todos los viajeros llegan por tierra en autobús (empresas como Victory Liner y Genesis ofrecen salidas frecuentes a diario) desde las terminales de Cubao, Pasay o PITX en Manila, en un trayecto de entre 4 y 7 horas aproximadamente, según el tráfico y la ruta elegida.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el núcleo compacto de atractivos de Baguio —el Burnham Park, Session Road, y los museos y miradores de la ciudad—, y sumar más tiempo si se planean excursiones de un día a las tierras altas de Benguet que rodean la ciudad."
+    },
+    "zh": {
+      "blurb": "碧瑶坐落于科迪勒拉山脉之中,海拔约1500米,是菲律宾的\"夏都\"——一座松林环绕的高原城市,气候凉爽多雾,与热带低地形成鲜明对比。这里长期以来都是科迪勒拉原住民社区的艺术文化中心,曾被联合国教科文组织评为\"创意城市\",如今依然以其市集、花园和山景闻名遐迩。",
+      "getting": "碧瑶没有定期商业航班服务,因此几乎所有游客都需经陆路乘坐巴士抵达(Victory Liner和Genesis等运营商每日都有多班车次),从马尼拉的Cubao、Pasay或PITX车站出发,车程根据路况和路线不同,大约需要4-7小时。",
+      "days": "建议安排2-3天时间游览碧瑶紧凑的市中心景点——包括伯纳姆公园、Session路,以及城内的各类博物馆和观景点;如果还想前往周边本格特高原一日游,则需预留更多时间。"
+    }
+  },
+  "Bugis": {
+    "en": {
+      "blurb": "Bugis is one of Singapore's most layered districts, where the neon-lit stalls of Bugis Street market sit blocks from the colonial-era shophouses and mosques of Kampong Glam. By day it's a shopping and heritage hub anchored by Bugis Junction mall and the National Library; by night its street markets and hawker fare give it a livelier, more youthful energy than much of central Singapore.",
+      "getting": "Bugis is served by its own MRT interchange station (EW12/DT14) on the East-West and Downtown Lines, making it an easy, well-signposted stop from almost anywhere on the network. From Changi Airport (SIN), the typical route is the MRT with a change at Tanah Merah station, a trip of roughly ~30 minutes.",
+      "days": "A half-day to one full day is enough to cover Bugis's markets, malls, and adjoining Kampong Glam heritage streets at an unhurried pace."
+    },
+    "ko": {
+      "blurb": "부기스(Bugis)는 싱가포르에서도 여러 겹의 매력을 지닌 지역이다. 네온사인이 반짝이는 부기스 스트리트(Bugis Street) 시장에서 몇 블록만 걸어가면 캄퐁글램(Kampong Glam)의 식민지 시대 숍하우스와 모스크가 펼쳐진다. 낮에는 부기스 정션(Bugis Junction) 몰과 국립도서관(National Library)을 중심으로 쇼핑과 문화유산을 즐기는 곳이지만, 밤이 되면 거리 시장과 호커 음식들이 활기를 더해 싱가포르 중심부의 다른 지역보다 한층 젊고 생동감 있는 분위기를 자아낸다.",
+      "getting": "부기스에는 이스트-웨스트 라인(East-West Line)과 다운타운 라인(Downtown Line)이 만나는 환승역인 부기스역(EW12/DT14)이 자리하고 있어, 노선 어디에서 출발해도 쉽고 편리하게 찾아갈 수 있다. 창이 공항(SIN)에서 갈 경우, 보통 MRT를 이용해 타나메라(Tanah Merah)역에서 환승하며, 소요 시간은 약 30분 정도다.",
+      "days": "반나절에서 하루 정도면 부기스의 시장과 쇼핑몰, 그리고 인접한 캄퐁글램의 유서 깊은 거리들을 여유롭게 둘러볼 수 있다."
+    },
+    "ja": {
+      "blurb": "ブギスはシンガポールでも特に多面的な魅力を持つエリアだ。ネオンきらめくブギス・ストリート市場のすぐ先には、コロニアル様式のショップハウスやモスクが並ぶカンポン・グラムが広がっている。日中はブギス・ジャンクションやナショナル・ライブラリーを中心としたショッピング&歴史散策のスポットとして賑わい、夜になると屋台市場やホーカーグルメが立ち並び、シンガポール中心部の中でも一段と若々しく活気に満ちた雰囲気に変わる。",
+      "getting": "ブギスにはMRTの乗換駅(EW12/DT14)があり、イーストウエスト線とダウンタウン線が利用できる。ネットワーク内のほぼどこからでも案内表示がわかりやすく、アクセスしやすい駅だ。チャンギ空港(SIN)からは、タナメラ駅でMRTを乗り換えるルートが一般的で、所要時間は約30分ほど。",
+      "days": "ブギスの市場やモール、隣接するカンポン・グラムの歴史的な通りをゆったり巡るなら、半日から丸1日ほどあれば十分だ。"
+    },
+    "es": {
+      "blurb": "Bugis es uno de los distritos más multifacéticos de Singapur, donde los puestos iluminados con luces de neón del mercado de Bugis Street se encuentran a pocas cuadras de las casas-tienda de la época colonial y las mezquitas de Kampong Glam. De día es un centro de compras y patrimonio cultural, con el centro comercial Bugis Junction y la Biblioteca Nacional como puntos de referencia; de noche, sus mercados callejeros y puestos de comida hawker le dan una energía más animada y juvenil que la de gran parte del centro de Singapur.",
+      "getting": "Bugis cuenta con su propia estación de intercambio del MRT (EW12/DT14), en las líneas East-West y Downtown, lo que la convierte en una parada fácil y bien señalizada desde casi cualquier punto de la red. Desde el aeropuerto de Changi (SIN), la ruta habitual es en MRT haciendo transbordo en la estación Tanah Merah, con un trayecto de aproximadamente ~30 minutos.",
+      "days": "Con medio día o una jornada completa es suficiente para recorrer con calma los mercados y centros comerciales de Bugis, así como las calles históricas de la vecina Kampong Glam."
+    },
+    "zh": {
+      "blurb": "武吉士(Bugis)是新加坡最富层次感的街区之一,霓虹闪烁的武吉士街市场与甘榜格南(Kampong Glam)殖民时期的店屋、清真寺仅相隔几个街区。白天,这里是以武吉士坊(Bugis Junction)商场和国家图书馆为核心的购物与文化地标;夜幕降临后,街边市场与熟食摊点为它注入比新加坡市中心大多数地方更热闹、更年轻的活力。",
+      "getting": "武吉士设有自己的地铁换乘站(EW12/DT14),同时连接东西线和滨海市区线,从网络中几乎任何地方前往都十分便捷、指示清晰。从樟宜机场(SIN)出发,通常搭乘地铁并在丹那美拉(Tanah Merah)站换乘,全程约30分钟。",
+      "days": "花半天到一整天时间,便足以从容游览武吉士的市场、商场,以及相邻的甘榜格南历史街区。"
+    }
+  },
+  "Chennai": {
+    "en": {
+      "blurb": "Chennai, capital of Tamil Nadu on India's southeastern coast, blends centuries-old Dravidian temple culture with a modern hub for IT, automobiles, and healthcare tourism. Its long Bay of Bengal shoreline, colonial-era architecture, and deep-rooted Carnatic music and dance traditions give the city a distinct South Indian character quite different from the north.",
+      "getting": "Most travellers arrive via Chennai International Airport (MAA) in Tirusulam, ~21 km southwest of the city centre, with taxis, app-based cabs, and the Chennai Metro Blue Line running into town; long-distance trains typically arrive at Chennai Central (MAS), the city's main railway terminus. Onward regional travel is generally handled through buses from the city's regional bus hub.",
+      "days": "~2-3 days is enough to cover Chennai's core sights—its temples, Marina Beach, museums, and colonial quarter—while longer stays suit those using it as a base for day trips along the Tamil Nadu coast."
+    },
+    "ko": {
+      "blurb": "인도 남동부 해안에 위치한 타밀나두 주의 주도 첸나이는 수백 년 역사를 지닌 드라비다 사원 문화와 IT, 자동차, 의료관광 산업의 현대적 중심지가 공존하는 도시입니다. 벵골만을 따라 길게 이어진 해안선과 식민지 시대 건축물, 그리고 깊이 뿌리내린 카르나틱 음악과 춤의 전통이 어우러져, 북인도와는 확연히 다른 남인도만의 독특한 정체성을 자아냅니다.",
+      "getting": "대부분의 여행자는 도심에서 남서쪽으로 약 21km 떨어진 티루술람에 위치한 첸나이 국제공항(MAA)을 통해 입국하며, 택시나 앱 기반 승차공유 서비스, 첸나이 메트로 블루라인을 이용해 시내로 이동할 수 있습니다. 장거리 열차의 경우 대개 첸나이의 주요 기차역인 첸나이 센트럴(MAS)에 도착합니다. 인근 지역으로의 이동은 주로 시내 지역 버스터미널에서 출발하는 버스를 이용하면 됩니다.",
+      "days": "사원, 마리나 비치, 박물관, 식민지 시대 거리 등 첸나이의 주요 명소를 둘러보는 데는 약 2~3일이면 충분하며, 타밀나두 해안 지역으로의 근교 여행 기반지로 활용하려는 경우에는 더 긴 일정도 좋은 선택입니다."
+    },
+    "ja": {
+      "blurb": "インドの南東海岸に位置するタミル・ナードゥ州の州都チェンナイは、何世紀にもわたるドラヴィダ様式の寺院文化と、IT・自動車産業・医療ツーリズムの一大拠点としての顔を併せ持つ都市です。ベンガル湾に沿って延びる長い海岸線、植民地時代の建築、そして根強く受け継がれるカルナータカ音楽と舞踏の伝統が、北インドとは一線を画す独特の南インドらしい個性をこの街に与えています。",
+      "getting": "多くの旅行者は、市中心部から南西へ約21kmのティルスラムにあるチェンナイ国際空港(MAA)を利用して訪れます。市内へはタクシーや配車アプリのほか、チェンナイ・メトロのブルーラインも利用可能です。長距離列車の場合、通常は市の主要ターミナルであるチェンナイ・セントラル駅(MAS)に到着します。その先の近郊移動は、市内の広域バスターミナルから発着するバスが主な手段となります。",
+      "days": "寺院群、マリーナ・ビーチ、博物館、植民地時代の街並みといったチェンナイの主要な見どころを巡るには2〜3日ほどで十分ですが、タミル・ナードゥ州沿岸への日帰り旅行の拠点として利用するなら、より長い滞在が適しています。"
+    },
+    "es": {
+      "blurb": "Chennai, capital de Tamil Nadu en la costa sudeste de India, combina una cultura milenaria de templos dravídicos con un moderno polo de tecnología, industria automotriz y turismo de salud. Su extenso litoral sobre la Bahía de Bengala, su arquitectura de la época colonial y sus profundas tradiciones de música y danza carnática le dan a la ciudad un carácter surindio muy distinto al del norte del país.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Chennai (MAA), en Tirusulam, a unos 21 km al sudoeste del centro de la ciudad, desde donde se puede tomar un taxi, un auto por aplicación o la Línea Azul del Metro de Chennai para llegar al centro. Los trenes de larga distancia suelen arribar a Chennai Central (MAS), la principal terminal ferroviaria de la ciudad. Los desplazamientos regionales posteriores se realizan generalmente en autobús, desde la terminal regional de la ciudad.",
+      "days": "Con 2 o 3 días alcanza para recorrer lo esencial de Chennai —sus templos, la playa de Marina, sus museos y el barrio colonial—, mientras que una estadía más larga es ideal para quienes la usan como base para hacer excursiones de un día por la costa de Tamil Nadu."
+    },
+    "zh": {
+      "blurb": "金奈是泰米尔纳德邦的首府，坐落在印度东南海岸，既承载着悠久的达罗毗荼神庙文化，又是当今IT、汽车制造和医疗旅游产业蓬勃发展的现代化枢纽。孟加拉湾沿岸绵长的海岸线、殖民时期遗留的建筑，以及根深蒂固的卡纳提克音乐与舞蹈传统，共同塑造出这座城市独树一帜的南印度风情，与北印度截然不同。",
+      "getting": "大多数旅客经金奈国际机场（MAA）抵达，机场位于蒂鲁苏拉姆，距市中心约21公里，出租车、网约车以及金奈地铁蓝线均可直达市区；长途火车通常抵达金奈中央车站（MAS），这是该市的主要铁路枢纽。若需前往周边地区，一般可从市内的区域汽车总站搭乘长途巴士。",
+      "days": "安排2到3天时间，便足以游览金奈的主要景点——神庙、玛丽娜海滩、各类博物馆以及殖民时期遗留的老城区；若打算以金奈为据点，沿泰米尔纳德邦海岸线安排一日游，则可适当延长停留时间。"
+    }
+  },
+  "Dubai Marina": {
+    "en": {
+      "blurb": "Dubai Marina is a striking man-made waterfront district of soaring high-rises encircling a two-mile marina canal, its promenade and skyline forming one of the city's most photographed modern landscapes. Anchored by The Walk, JBR Beach, and a dense cluster of hotels, restaurants, and towers, it functions as a self-contained resort-city within Dubai.",
+      "getting": "Most travellers arrive via Dubai International Airport (DXB), taking the Dubai Metro's Red Line directly to the Sobha Realty or DMCC stations that serve the Marina, a journey of roughly 45-55 minutes depending on the transfer point. A taxi or private transfer along Sheikh Zayed Road is faster, typically around ~25-30 minutes, and is the more common choice for those with luggage or arriving late at night when the metro isn't running.",
+      "days": "Plan on ~2-3 days to cover the Marina promenade, JBR beach, and dining/nightlife scene at a relaxed pace, with day trips to nearby Downtown Dubai or Palm Jumeirah easily added on."
+    },
+    "ko": {
+      "blurb": "두바이 마리나(Dubai Marina)는 약 2마일에 달하는 마리나 운하를 따라 초고층 빌딩들이 병풍처럼 늘어선, 인상적인 인공 수변 지구다. 프롬나드와 스카이라인이 어우러진 풍경은 두바이에서 가장 많이 사진에 담기는 현대적 명소 중 하나로 꼽힌다. 더 워크(The Walk), JBR 비치를 중심으로 호텔과 레스토랑, 타워들이 촘촘히 모여 있어, 두바이 안에 자리한 하나의 독립된 리조트 도시처럼 기능한다.",
+      "getting": "대부분의 여행자는 두바이 국제공항(DXB)을 통해 입국한 뒤, 두바이 메트로 레드 라인을 타고 마리나와 연결되는 소바 리얼티(Sobha Realty)역이나 DMCC역으로 직행한다. 환승 지점에 따라 소요 시간은 대략 45~55분 정도다. 셰이크 자예드 로드(Sheikh Zayed Road)를 이용하는 택시나 프라이빗 전용 차량은 더 빠른 편으로, 보통 약 25~30분이면 도착한다. 짐이 많거나 메트로 운행이 끝난 늦은 밤에 도착하는 경우에는 이 방법이 더 일반적인 선택이다.",
+      "days": "마리나 프롬나드와 JBR 비치, 다이닝 및 나이트라이프를 여유롭게 즐기려면 2~3일 정도를 계획하는 것이 좋다. 여기에 인근 다운타운 두바이(Downtown Dubai)나 팜 주메이라(Palm Jumeirah)로의 당일 여행을 추가하기에도 부담이 없다."
+    },
+    "ja": {
+      "blurb": "ドバイ・マリーナは、全長約3kmのマリーナ運河を取り囲むように高層ビル群がそびえ立つ、壮観な人工のウォーターフロント地区です。プロムナードとスカイラインが織りなす景観は、ドバイの中でも最も写真映えする現代的な風景のひとつとして知られています。ザ・ウォークやJBRビーチを中心に、ホテルやレストラン、タワーマンションが密集して立ち並び、まるでドバイの中に独立した「リゾート都市」が存在するかのような雰囲気を作り出しています。",
+      "getting": "多くの旅行者はドバイ国際空港(DXB)から到着し、ドバイメトロのレッドラインに乗ってマリーナ地区の最寄り駅であるソバ・リアルティ駅またはDMCC駅へ直接向かいます。乗り換え地点にもよりますが、所要時間はおよそ45〜55分です。シェイク・ザイード・ロード経由でタクシーや送迎サービスを利用すれば、所要時間は約25〜30分とより短く済みます。荷物が多い場合や、メトロの運行時間外となる深夜の到着時には、こちらの方法が一般的に選ばれています。",
+      "days": "マリーナのプロムナードやJBRビーチ、レストラン・ナイトライフを余裕を持って満喫するなら、2〜3日ほどの滞在がおすすめです。近隣のダウンタウン・ドバイやパーム・ジュメイラへの日帰り旅行も、無理なく組み込むことができます。"
+    },
+    "es": {
+      "blurb": "Dubai Marina es un impresionante distrito costero artificial de rascacielos que se elevan alrededor de un canal de casi tres kilómetros, cuyo paseo marítimo y perfil urbano conforman uno de los paisajes modernos más fotografiados de la ciudad. Con The Walk, JBR Beach y una densa concentración de hoteles, restaurantes y torres como ejes principales, funciona como una auténtica ciudad-resort autosuficiente dentro de Dubái.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Dubái (DXB) y toma la Línea Roja del Metro de Dubái directamente hasta las estaciones Sobha Realty o DMCC, que dan servicio a la Marina, en un trayecto de entre 45 y 55 minutos aproximadamente, según el punto de transbordo. Un taxi o traslado privado por Sheikh Zayed Road resulta más rápido, con una duración habitual de unos 25-30 minutos, y suele ser la opción preferida para quienes viajan con equipaje o llegan de madrugada, cuando el metro no está en funcionamiento.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma el paseo marítimo de la Marina, la playa de JBR y su animada oferta gastronómica y de vida nocturna, pudiendo añadir fácilmente excursiones de un día al cercano Downtown Dubai o a Palm Jumeirah."
+    },
+    "zh": {
+      "blurb": "迪拜码头(Dubai Marina)是一片令人惊叹的人工滨海区,鳞次栉比的摩天大楼环绕着一条长达三公里的码头运河,沿岸步道与天际线相映成景,是迪拜最上镜的现代城市景观之一。这里以海滨长廊The Walk和JBR海滩为核心,汇聚了众多酒店、餐厅与高楼大厦,俨然是迪拜城中一座自成一体的度假之城。",
+      "getting": "大多数游客经迪拜国际机场(DXB)抵达后,可搭乘迪拜地铁红线直达服务于码头区的Sobha Realty站或DMCC站,视换乘地点不同,车程约45至55分钟。若沿谢赫扎耶德路(Sheikh Zayed Road)打车或预订专车前往,速度更快,通常只需约25至30分钟,对于携带行李或深夜抵达(此时地铁已停运)的旅客来说,是更常见的选择。",
+      "days": "建议安排约2至3天时间,悠闲地游览迪拜码头步道、JBR海滩以及当地的餐饮与夜生活,还可轻松安排一日游前往附近的迪拜市中心(Downtown Dubai)或棕榈岛(Palm Jumeirah)。"
+    }
+  },
+  "Fethiye": {
+    "en": {
+      "blurb": "Fethiye sits on Turkey's Turquoise Coast where a working Turkish harbor town meets pine-clad mountains, Lycian rock tombs cut into cliffs above the marina, and the paragliding launch of Babadağ overlooks the famous lagoon at nearby Ölüdeniz. It's less a single sight than a base for the region — market days, boat trips to hidden coves, and canyon walks all radiate out from its bustling harbor and old town.",
+      "getting": "Most travelers arrive via Dalaman Airport (DLM), roughly 45-50 minutes from Fethiye by road (taxi, transfer, or shuttle) along the D400 highway; there is no train service to Fethiye, so onward travel from other Turkish cities is by intercity bus into the town's central otogar. Some visitors also arrive in summer by ferry from Rhodes or by yacht along the coast.",
+      "days": "Plan on ~3-4 days to cover the old town, harbor, and Ölüdeniz beach at a relaxed pace, or a week if you want to add boat trips, Saklikent Gorge, and day trips to nearby ruins."
+    },
+    "ko": {
+      "blurb": "페티예는 터키의 터키석 해안(터쿼이즈 코스트)에 자리한 곳으로, 활기찬 터키 항구 마을이 소나무로 뒤덮인 산자락과 만나고, 마리나 위 절벽에는 리키아 시대의 암굴 무덤이 새겨져 있으며, 바바다으(Babadağ)의 패러글라이딩 활공장에서는 인근 욀루데니즈(Ölüdeniz)의 유명한 라군이 한눈에 내려다보입니다. 이곳은 단일 명소라기보다는 이 지역을 둘러보기 위한 거점에 가깝습니다 — 장이 서는 날, 숨겨진 만으로 떠나는 보트 투어, 협곡 트레킹까지 모두 북적이는 항구와 구시가지에서부터 시작됩니다.",
+      "getting": "대부분의 여행객은 달라만 공항(DLM)을 통해 도착하며, 이곳에서 D400 도로를 따라 택시, 전용 픽업, 또는 셔틀버스로 약 45~50분이면 페티예에 닿을 수 있습니다. 페티예까지 가는 기차편은 없기 때문에 터키의 다른 도시에서 올 경우 시내 중심의 오토가르(otogar, 버스터미널)까지 시외버스를 이용해야 합니다. 여름철에는 로도스에서 오는 페리나 요트를 타고 해안을 따라 도착하는 여행객들도 있습니다.",
+      "days": "여유롭게 구시가지, 항구, 욀루데니즈 해변을 둘러보려면 약 3~4일이면 충분하며, 보트 투어와 사클르켄트 협곡(Saklikent Gorge), 인근 유적지로의 당일치기 여행까지 더하고 싶다면 일주일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "フェティエは、トルコのトルコイズ・コースト(ターコイズコースト)に位置し、現役の港町らしい活気とマツ林に覆われた山々、マリーナを見下ろす断崖に刻まれたリキア時代の岩窟墓、そして近郊ウルデニズの有名なラグーンを見晴らすパラグライダーの発進地バババーが同時に楽しめる場所です。単一の観光名所というよりも、この地域を巡るための拠点と言った方が近く、市場が立つ日や、隠れた入り江へのボートトリップ、渓谷ハイキングなど、すべてが賑わう港と旧市街から広がっています。",
+      "getting": "多くの旅行者はダラマン空港(DLM)を利用し、そこからD400号線を通ってタクシーや送迎サービス、シャトルバスで45〜50分ほどかけてフェティエへ向かいます。フェティエへの鉄道は通っていないため、他のトルコの都市からは長距離バスで市街中心部のオトガル(バスターミナル)まで移動するのが基本です。夏季には、ロードス島からのフェリーやヨットで海路から訪れる旅行者もいます。",
+      "days": "旧市街、港、ウルデニズビーチをゆったり巡るなら3〜4日が目安です。ボートトリップやサクリケント渓谷、近郊の遺跡への日帰り旅行も加えたい場合は、1週間ほど確保するとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Fethiye se asienta en la Costa Turquesa de Turquía, donde un auténtico puerto turco se encuentra con montañas cubiertas de pinos, tumbas rupestres licias excavadas en los acantilados sobre la marina, y el punto de despegue de parapente de Babadağ domina la famosa laguna de la cercana Ölüdeniz. Más que un único punto de interés, es una base para explorar toda la región: los días de mercado, las excursiones en barco a calas escondidas y las caminatas por cañones parten todos desde su animado puerto y su casco antiguo.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto de Dalaman (DLM), a unos 45-50 minutos de Fethiye por carretera (taxi, traslado privado o transporte compartido) por la autovía D400; no hay servicio de tren hasta Fethiye, así que para llegar desde otras ciudades turcas hay que tomar un autobús interurbano hasta el otogar central de la ciudad. Algunos visitantes también llegan en verano en ferry desde Rodas o en yate a lo largo de la costa.",
+      "days": "Calcula unos 3-4 días para recorrer con calma el casco antiguo, el puerto y la playa de Ölüdeniz, o toma una semana completa si quieres añadir excursiones en barco, el cañón de Saklıkent y visitas de un día a las ruinas cercanas."
+    },
+    "zh": {
+      "blurb": "费特希耶坐落在土耳其的绿松石海岸上,这里既是一座生活气息浓厚的土耳其港口小城,又背靠松林覆盖的群山;峭壁上凿有吕基亚人的岩墓,俯瞰着游艇码头,而巴巴达山的滑翔伞起飞点则将不远处厄卢代尼兹著名的泻湖尽收眼底。与其说这里是一处单一景点,不如说它是探索整个地区的绝佳据点——集市日、前往隐秘海湾的船行,以及峡谷徒步,都以这座热闹的港口和老城为起点向四周延伸。",
+      "getting": "大多数游客经达拉曼机场(DLM)抵达,沿D400公路乘出租车、接送车或班车前往费特希耶,车程约45-50分钟;费特希耶没有火车服务,因此从土耳其其他城市前来需乘坐城际长途巴士,抵达市中心的汽车站(otogar)。夏季还有部分游客选择从罗德岛乘渡轮抵达,或沿海岸乘游艇前来。",
+      "days": "若想以轻松的节奏游览老城、港口和厄卢代尼兹海滩,建议安排约3-4天;如果还想加上乘船出游、萨克利肯特峡谷,以及前往附近古迹的一日游,则可以安排一周时间。"
+    }
+  },
+  "Genting Highlands": {
+    "en": {
+      "blurb": "Perched atop the Titiwangsa mountain range, Genting Highlands is Malaysia's cloud-level entertainment capital, home to the country's only casino license alongside theme parks, malls, and a permanently cool highland climate. What makes it distinct is the journey itself: the Awana SkyWay cable car carries visitors over rainforest canopy up to the resort peak, turning the ascent into part of the attraction.",
+      "getting": "Most travellers reach Genting Highlands from Kuala Lumpur by bus to the Awana Bus Terminal (roughly 1–1.5 hours from the city), then ride the Awana SkyWay cable car up to the resort peak; there's no direct rail line to Genting itself, so those arriving via KLIA typically take the KLIA Ekspres train into KL Sentral first and connect onward by bus. Driving is also common, with the trip from central KL taking around an hour depending on traffic.",
+      "days": "Plan on ~1–2 days: a single day covers the cable car ride, theme park, and casino/mall complex, while an overnight stay allows time to also visit Chin Swee Caves Temple en route and enjoy the highlands at a more relaxed pace."
+    },
+    "ko": {
+      "blurb": "티티왕사 산맥 정상에 자리한 겐팅 하이랜드는 말레이시아 유일의 카지노 라이선스를 보유한, 구름 위의 엔터테인먼트 수도입니다. 테마파크와 쇼핑몰은 물론 사시사철 서늘한 고원 기후까지 갖추고 있죠. 이곳을 특별하게 만드는 건 바로 이동 과정 자체입니다. 아와나 스카이웨이 케이블카를 타고 열대우림 위를 가로질러 리조트 정상까지 오르는 여정 자체가 하나의 관광 명소가 됩니다.",
+      "getting": "대부분의 여행자는 쿠알라룸푸르에서 버스를 타고 아와나 버스 터미널까지 이동한 뒤(시내에서 약 1~1.5시간 소요), 아와나 스카이웨이 케이블카로 갈아타고 리조트 정상까지 올라갑니다. 겐팅까지 직접 연결되는 철도는 없기 때문에, KLIA를 통해 입국하는 여행자는 보통 KLIA 익스프레스 열차로 KL 센트럴까지 이동한 후 버스로 환승합니다. 자가 운전도 흔한 방법으로, 쿠알라룸푸르 시내에서 교통 상황에 따라 약 1시간 정도 걸립니다.",
+      "days": "1~2일 정도를 계획하는 것이 좋습니다. 당일치기로도 케이블카 탑승, 테마파크, 카지노 및 쇼핑몰 단지를 모두 둘러볼 수 있지만, 하룻밤 묵으면 가는 길에 친스위 동굴 사원(Chin Swee Caves Temple)까지 여유롭게 들르며 고원의 정취를 좀 더 느긋하게 즐길 수 있습니다."
+    },
+    "ja": {
+      "blurb": "タイティワンサ山脈の頂に位置するゲンティンハイランズは、マレーシアで唯一のカジノライセンスを持つ、雲上のエンターテインメント都市です。テーマパークやショッピングモールが立ち並び、一年を通じて涼しい高原気候が魅力。何より特別なのは、その道中そのもの。アワナ・スカイウェイのケーブルカーが熱帯雨林の樹冠の上を渡ってリゾートの頂まで運んでくれるため、山を登るプロセス自体がひとつのアトラクションになっています。",
+      "getting": "クアラルンプールからゲンティンハイランズへ向かう場合、多くの旅行者はまずバスでアワナ・バスターミナルへ(市内から約1〜1.5時間)、そこからアワナ・スカイウェイのケーブルカーに乗り換えてリゾートの頂まで上ります。ゲンティン自体へ直通する鉄道はないため、KLIA経由で到着した場合は、まずKLIAエクスプレスでKLセントラルへ入り、そこからバスで乗り継ぐのが一般的です。車での移動も一般的で、KL中心部からは交通状況にもよりますが約1時間程度です。",
+      "days": "滞在は1〜2日を目安に。1日だけならケーブルカーでの移動、テーマパーク、カジノ・モール複合施設を巡ることができます。一泊すれば道中でチンスウィー洞窟寺院(Chin Swee Caves Temple)にも立ち寄り、高原の空気をよりゆったりと楽しむ時間が生まれます。"
+    },
+    "es": {
+      "blurb": "Encaramada en lo alto de la cordillera de Titiwangsa, Genting Highlands es la capital del entretenimiento en las nubes de Malasia, sede de la única licencia de casino del país, además de parques temáticos, centros comerciales y un clima de altura permanentemente fresco. Lo que la hace única es el propio trayecto para llegar: el teleférico Awana SkyWay traslada a los visitantes sobre el dosel de la selva tropical hasta la cima del resort, convirtiendo la subida en parte misma de la atracción.",
+      "getting": "La mayoría de los viajeros llegan a Genting Highlands desde Kuala Lumpur en autobús hasta la Terminal de Autobuses Awana (aproximadamente 1–1,5 horas desde la ciudad), y luego suben hasta la cima del resort en el teleférico Awana SkyWay; no existe una línea de tren directa hasta Genting, por lo que quienes llegan a través del KLIA suelen tomar primero el tren KLIA Ekspres hasta KL Sentral y continuar el trayecto en autobús. Conducir también es una opción habitual, con un viaje desde el centro de KL que dura alrededor de una hora, según el tráfico.",
+      "days": "Se recomienda planear entre 1 y 2 días: en un solo día se puede disfrutar del recorrido en teleférico, el parque temático y el complejo de casino y centros comerciales, mientras que quedarse a pasar la noche permite además visitar el Templo de las Cuevas de Chin Swee en el camino y disfrutar de las tierras altas con un ritmo más relajado."
+    },
+    "zh": {
+      "blurb": "云顶高原坐落在蒂蒂旺沙山脉之巅,是马来西亚云雾缭绕的娱乐之都——这里拥有全国唯一的合法赌场,还有主题乐园、购物商场,以及常年凉爽宜人的高原气候。真正让云顶与众不同的,是抵达的过程本身:云顶天空缆车(Awana SkyWay)载着游客飞越雨林树冠,直抵度假区山顶,让这段登顶之旅本身也成了一大亮点。",
+      "getting": "大多数游客从吉隆坡出发前往云顶高原,先乘巴士到云顶巴士总站(Awana Bus Terminal,车程约1至1.5小时),再换乘云顶天空缆车(Awana SkyWay)直上山顶度假区。由于云顶本身没有直达的铁路线路,从吉隆坡国际机场(KLIA)抵达的游客通常需先搭乘KLIA Ekspres列车到吉隆坡中央车站(KL Sentral),再转乘巴士前往。自驾也是常见的选择,从吉隆坡市中心出发,车程视路况约需一小时左右。",
+      "days": "建议安排1至2天的行程:如果只有一天,足以体验缆车、主题乐园以及赌场/商场综合体;如果选择过夜,则还能顺路游览清水岩庙(Chin Swee Caves Temple),并以更悠闲的节奏细细感受高原风光。"
+    }
+  },
+  "Hua Hin": {
+    "en": {
+      "blurb": "Hua Hin is Thailand's original royal seaside retreat, where a long sweep of beach meets a genuinely Thai town rather than a backpacker strip. It's known for its historic teak railway station, night markets, and easy day trips to nearby hills and vineyards, all just a few hours from the capital.",
+      "getting": "Most travellers reach Hua Hin via Bangkok, taking a Southern Line train to the town's own Hua Hin railway station or a bus/road transfer of roughly ~3-4 hours from the city's terminals or airports; Hua Hin's small local airport (HHQ) has only very limited scheduled flights, so it isn't the main way in.",
+      "days": "Plan on ~2-3 days to cover the beachfront, night market, and railway station, or extend to ~4-5 days if adding side trips into the surrounding hills and coast."
+    },
+    "ko": {
+      "blurb": "후아힌은 태국 왕실이 사랑한 원조 해변 휴양지로, 길게 뻗은 백사장이 배낭족 거리가 아닌 진짜 태국다운 마을과 만나는 곳입니다. 유서 깊은 티크목 기차역과 야시장, 그리고 근교 언덕과 포도밭으로 떠나는 당일치기 여행지로 잘 알려져 있으며, 수도에서 불과 몇 시간이면 닿을 수 있습니다.",
+      "getting": "대부분의 여행자는 방콕을 거쳐 후아힌에 도착합니다. 남부선 기차를 타고 후아힌 자체 기차역까지 가거나, 방콕 시내 터미널이나 공항에서 버스 또는 육로로 약 3~4시간 정도 이동합니다. 후아힌의 소규모 지방 공항(HHQ)은 정기 운항편이 매우 제한적이어서 주요 교통수단은 아닙니다.",
+      "days": "해변가와 야시장, 기차역을 둘러보는 데는 약 2~3일이면 충분하며, 주변 언덕과 해안 지역으로 근교 여행을 추가한다면 약 4~5일로 일정을 늘리는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ホアヒンはタイ王室ゆかりの由緒あるビーチリゾートで、長く続く美しい砂浜と、バックパッカー向けの観光地とは一線を画す、タイらしさが色濃く残る町並みが融合しています。趣のあるチーク材造りの鉄道駅や賑やかなナイトマーケットで知られ、近郊の丘陵地帯やワイナリーへの日帰り旅行も気軽に楽しめます。首都バンコクからもわずか数時間という近さも魅力です。",
+      "getting": "ホアヒンへは、多くの旅行者がバンコクを経由してアクセスします。南本線の鉄道でホアヒン駅まで直接向かうか、バンコク市内のバスターミナルや空港からバス・車で移動する方法が一般的で、所要時間はおよそ3~4時間です。ホアヒンには小さな地方空港(HHQ)もありますが、定期便が非常に限られているため、主要なアクセス手段とはなっていません。",
+      "days": "ビーチエリア、ナイトマーケット、鉄道駅を巡るだけなら2~3日が目安です。周辺の丘陵地帯や海岸線への小旅行も加えたい場合は、4~5日程度に延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Hua Hin es el retiro costero real por excelencia de Tailandia, donde una extensa franja de playa se encuentra con un pueblo genuinamente tailandés, en lugar de una zona típica de mochileros. Es conocido por su histórica estación de tren de madera de teca, sus mercados nocturnos y sus sencillas excursiones de un día a las colinas y viñedos cercanos, todo a solo unas horas de la capital.",
+      "getting": "La mayoría de los viajeros llegan a Hua Hin a través de Bangkok, tomando un tren de la Línea Sur hasta la propia estación de ferrocarril de Hua Hin, o mediante un traslado por carretera/autobús de aproximadamente 3-4 horas desde las terminales o aeropuertos de la ciudad; el pequeño aeropuerto local de Hua Hin (HHQ) solo cuenta con vuelos programados muy limitados, por lo que no es la vía principal de acceso.",
+      "days": "Se recomienda destinar entre 2 y 3 días para recorrer el frente de playa, el mercado nocturno y la estación de tren, o ampliar la estadía a 4-5 días si se suman excursiones a las colinas y la costa circundantes."
+    },
+    "zh": {
+      "blurb": "华欣是泰国最早的皇家海滨度假胜地,这里绵延的沙滩与一座地道的泰式小城相依相伴,而非充斥背包客的喧闹街区。它以历史悠久的柚木火车站、热闹的夜市,以及可轻松前往附近山区和葡萄酒庄一日游而闻名,距首都仅数小时车程。",
+      "getting": "大多数游客经曼谷前往华欣,可乘坐南线火车直达华欣火车站,或乘坐大巴/汽车从市区各客运站或机场出发,车程约3-4小时;华欣当地的小型机场(HHQ)航班班次非常有限,因此并非主要的进出方式。",
+      "days": "建议安排约2-3天游览海滩、夜市和火车站,若想加入周边山区和海岸的短途行程,可延长至约4-5天。"
+    }
+  },
+  "Kobe": {
+    "en": {
+      "blurb": "Kobe drapes down a narrow strip between forested mountains and Osaka Bay, its harbor skyline, hillside Kitano district of old foreign merchant houses, and steaming Arima hot springs all packed within easy reach of each other. It's also the namesake home of Kobe beef, the marbled Tajima-gyu that put the city on the culinary map worldwide.",
+      "getting": "Most travelers arrive via Shin-Osaka, connecting to the Sanyo Shinkansen for the ~15-minute ride to Shin-Kobe Station, or take a JR rapid/local train from Osaka to Sannomiya, Kobe's real city-center hub; the small Kobe Airport (UKB) is linked to Sannomiya by the automated Port Liner train in under 20 minutes.",
+      "days": "Plan on ~1-2 days to cover central Kobe's harbor, Kitano hillside streets, and a Kobe beef meal, or extend to ~2-3 days if adding a soak at nearby Arima Onsen."
+    },
+    "ko": {
+      "blurb": "고베는 숲으로 뒤덮인 산과 오사카만 사이의 좁은 땅을 따라 펼쳐진 도시로, 항구의 스카이라인, 옛 서양 상인들의 저택이 늘어선 언덕 위 기타노 지구, 그리고 김이 피어오르는 아리마 온천이 모두 지척에 자리하고 있습니다. 또한 고베는 전 세계 미식가들에게 이 도시를 각인시킨 마블링 소고기, 다지마규(고베규)의 본고장이기도 합니다.",
+      "getting": "대부분의 여행자는 신오사카를 거쳐 산요 신칸센으로 환승해 약 15분 만에 신고베역에 도착하거나, 오사카에서 JR 신속·완행열차를 타고 고베의 실질적인 도심 중심지인 산노미야역으로 향합니다. 규모가 작은 고베공항(UKB)은 무인 자동운전 열차인 포트라이너로 산노미야까지 20분이 채 걸리지 않습니다.",
+      "days": "고베 중심가의 항구, 기타노 언덕길, 그리고 고베규 맛집 투어를 즐기려면 1~2일 정도를 계획하시고, 인근 아리마 온천에서 온천욕까지 즐기고 싶다면 2~3일로 일정을 늘려보세요."
+    },
+    "ja": {
+      "blurb": "神戸は、樹木に覆われた山々と大阪湾に挟まれた細長い土地に広がる街で、港のスカイライン、かつての外国人商館が並ぶ丘の上の北野異人館街、湯気立つ有馬温泉が、いずれも無理なく足を延ばせる距離に収まっています。また、世界に神戸の名を知らしめた霜降りの但馬牛「神戸ビーフ」の本場でもあります。",
+      "getting": "多くの旅行者は新大阪経由で訪れ、山陽新幹線に乗り換えて約15分で新神戸駅へ向かうか、大阪からJRの快速・普通列車で神戸の本当の中心地である三宮に出ます。小規模な神戸空港(UKB)からは、自動運転のポートライナーで三宮まで20分弱で移動できます。",
+      "days": "神戸中心部の港やハーバー、北野の異人館街の散策、そして神戸ビーフを味わうだけなら1〜2日ほどで十分ですが、近郊の有馬温泉でひと風呂浴びる時間も加えるなら2〜3日ほどに延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Kobe se extiende como una franja estrecha entre montañas boscosas y la bahía de Osaka, reuniendo a poca distancia entre sí el perfil urbano de su puerto, el barrio de Kitano en la colina con sus antiguas casas de comerciantes extranjeros, y las humeantes aguas termales de Arima. Es también la cuna del célebre Kobe beef, el marmoleado Tajima-gyu que puso a la ciudad en el mapa gastronómico mundial.",
+      "getting": "La mayoría de los viajeros llega a través de Shin-Osaka, donde se conecta con el Shinkansen de la línea Sanyo para un trayecto de unos 15 minutos hasta la estación de Shin-Kobe, o toma un tren JR rápido o local desde Osaka hasta Sannomiya, el verdadero centro urbano de Kobe. El pequeño aeropuerto de Kobe (UKB) está conectado con Sannomiya mediante el tren automático Port Liner en menos de 20 minutos.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer el puerto del centro de Kobe, las calles de la colina de Kitano y disfrutar de una comida de Kobe beef, o ampliar a 2-3 días si se añade un baño relajante en el cercano Arima Onsen."
+    },
+    "zh": {
+      "blurb": "神户依偎在山林与大阪湾之间的一条狭长地带上，港湾天际线、山坡上遍布旧时外国商人宅邸的北野异人馆区，以及热气氳氤的有马温泉，彼此相距不远，一日之内即可尽览。神户牛的故乡也在于此——正是那入口即化、油花细腻的但马牛，让这座城市的美食声名传遍世界。",
+      "getting": "大多数旅客会先抵达新大阪，再转乘山阳新干线，约15分钟即可到达新神户站；也可以从大阪搭乘JR快速或普通列车前往三宫——神户真正的市中心枢纽。规模较小的神户机场（UKB）则通过全自动的港湾人号列车（Port Liner）与三宫相连，车程不到20分钟。",
+      "days": "游览神户市中心的港区、北野山坡街区，并享用一顿神户牛大餐，大约需要1-2天；若想再到附近的有马温泉泡个汤，则可以将行程延长至2-3天左右。"
+    }
+  },
+  "Lijiang": {
+    "en": {
+      "blurb": "Lijiang is famed for its UNESCO-listed Old Town, a maze of cobbled lanes, canals, and Naxi timber architecture set against the backdrop of the snow-capped Jade Dragon Snow Mountain. It's a crossroads of Naxi culture and Himalayan foothill scenery in northwestern Yunnan, blending ancient trade-route history with dramatic high-altitude landscapes.",
+      "getting": "Most travellers fly into Lijiang Sanyi International Airport (LJG), which has domestic connections to hubs like Kunming, Chengdu, and Shanghai, then take a taxi or airport bus into town (~25km away). High-speed rail is also a reliable option, with Lijiang Railway Station linked to Kunming (~3.5-5 hours) and Shangri-La (~1-2 hours) via the Dali-Lijiang and Lijiang-Shangri-La lines.",
+      "days": "Plan on ~3-4 days to explore the Old Town, day-trip to nearby sights like Jade Dragon Snow Mountain or Tiger Leaping Gorge, and allow buffer time for the high altitude."
+    },
+    "ko": {
+      "blurb": "리장은 유네스코 세계문화유산으로 등재된 구시가지로 유명합니다. 자갈길과 수로, 나시족의 목조 가옥이 뒤엉킨 이 미로 같은 옛 마을은 눈 덮인 위룽쉐산(옥룡설산)을 배경으로 펼쳐져 있죠. 윈난성 서북부에 위치한 리장은 나시족 문화와 히말라야 산자락 풍경이 만나는 교차점으로, 고대 교역로의 역사와 웅장한 고산 지대의 풍광이 절묘하게 어우러진 곳입니다.",
+      "getting": "대부분의 여행객은 리장 산이 국제공항(LJG)을 이용하며, 이곳은 쿤밍, 청두, 상하이 등 주요 도시와 국내선으로 연결됩니다. 공항에서 시내까지는 약 25km 거리로, 택시나 공항버스를 이용하면 됩니다. 고속철도도 안정적인 선택인데, 리장역은 다리-리장 노선과 리장-샹그릴라 노선을 통해 쿤밍(약 3.5~5시간)과 샹그릴라(약 1~2시간)로 이어집니다.",
+      "days": "구시가지를 둘러보고 위룽쉐산이나 호도협(타이거리핑 협곡) 같은 근교 명소로 당일치기 여행을 즐기려면 약 3~4일 정도를 계획하는 것이 좋습니다. 고산 지대인 만큼 고도 적응을 위한 여유 시간도 넉넉히 잡아두세요."
+    },
+    "ja": {
+      "blurb": "麗江(リージャン)といえば、ユネスコ世界遺産に登録された旧市街が有名です。石畳の路地と水路が張り巡らされ、ナシ族の伝統的な木造家屋が立ち並ぶこの街並みは、雪をいただく玉龍雪山(ジェイド・ドラゴン・スノー・マウンテン)を背景に、まるで一枚の絵のような風景を作り出しています。雲南省北西部に位置する麗江は、ナシ族の文化とヒマラヤ山麓の絶景が交わる場所であり、古くから続く交易路の歴史と、雄大な高地の自然が見事に融合したエリアです。",
+      "getting": "多くの旅行者は麗江三義国際空港(LJG)を利用します。昆明、成都、上海といった主要都市からの国内線が就航しており、空港からはタクシーや空港バスで市街地(約25km)へアクセスできます。高速鉄道も便利な選択肢で、麗江駅は大理-麗江線を経由して昆明(約3.5~5時間)と、麗江-香格里拉線を経由して香格里拉(約1~2時間)とそれぞれ結ばれています。",
+      "days": "旧市街を散策し、玉龍雪山や虎跳峡(タイガー・リーピング・ゴージ)といった周辺の見どころへ日帰りで足を延ばすことを考えると、3~4日程度の滞在がおすすめです。また、高地であるため、体を慣らす余裕を持ったスケジュールを組んでおくと安心です。"
+    },
+    "es": {
+      "blurb": "Lijiang es célebre por su Casco Antiguo, declarado Patrimonio de la Humanidad por la UNESCO, un laberinto de callejuelas empedradas, canales y arquitectura tradicional en madera del pueblo naxi, todo ello enmarcado por las cumbres nevadas de la Montaña del Dragón de Jade. Es un auténtico cruce de caminos entre la cultura naxi y los paisajes del piedemonte himalayo, en el noroeste de Yunnan, donde la historia de las antiguas rutas comerciales se funde con paisajes de gran altitud realmente espectaculares.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Lijiang Sanyi (LJG), que cuenta con conexiones nacionales a ciudades clave como Kunming, Chengdu y Shanghái, para luego tomar un taxi o el autobús del aeropuerto hasta el centro (a unos 25 km). El tren de alta velocidad es otra opción muy fiable: la estación de ferrocarril de Lijiang está conectada con Kunming (entre 3,5 y 5 horas) y con Shangri-La (entre 1 y 2 horas) a través de las líneas Dali-Lijiang y Lijiang-Shangri-La.",
+      "days": "Conviene reservar unos 3-4 días para recorrer con calma el Casco Antiguo y hacer alguna excursión de un día a lugares cercanos como la Montaña del Dragón de Jade o la Garganta del Salto del Tigre, sin olvidar dejar margen extra para aclimatarse a la altitud."
+    },
+    "zh": {
+      "blurb": "丽江以联合国教科文组织认定的古城闻名于世，青石小巷、潺潺水渠与纳西木构民居交错纵横，玉龙雪山的皑皑雪峰在远处静静矗立，构成一幅动人画卷。作为纳西文化与喜马拉雅山麓风光的交汇之地，丽江地处滇西北，将古老的茶马古道历史与壮阔的高原景观融为一体。",
+      "getting": "大多数游客会选择飞抵丽江三义国际机场（LJG），该机场与昆明、成都、上海等国内枢纽城市通航，抵达后可乘坐出租车或机场大巴进城（车程约25公里）。高铁也是可靠的出行方式，丽江火车站通过大丽线（大理-丽江）和丽香线（丽江-香格里拉）分别与昆明（约3.5-5小时）和香格里拉（约1-2小时）相连。",
+      "days": "建议安排约3-4天时间：既能悠闲漫步古城，又可安排一日游前往玉龙雪山、虎跳峡等周边景点，同时预留一些缓冲时间以适应高原气候。"
+    }
+  },
+  "Pisa": {
+    "en": {
+      "blurb": "Pisa is famous the world over for its tilting bell tower, but the marble ensemble of the Piazza dei Miracoli — cathedral, baptistery, and Leaning Tower together — makes it one of Italy's most striking architectural set-pieces. Beyond the tourist crowds, it's also a genuine university town with a compact, walkable historic center along the Arno river.",
+      "getting": "Most travelers fly into Pisa International Airport (PSA), also known as Galileo Galilei Airport, which sits only about a kilometer from the city center. From there, the PisaMover automated shuttle link connects the airport directly to Pisa Centrale railway station in ~5 minutes, from which regional and national trains reach the rest of Tuscany and Italy.",
+      "days": "A half-day to one full day is enough to see the Piazza dei Miracoli and stroll the old town, making Pisa an easy day trip or short stopover en route to other Tuscan destinations."
+    },
+    "ko": {
+      "blurb": "피사는 기울어진 종탑으로 세계적으로 유명하지만, 두오모(대성당)와 세례당, 그리고 피사의 사탑이 한자리에 모여 있는 미라콜리 광장의 대리석 건축군은 이탈리아에서도 가장 인상적인 건축 경관 중 하나로 꼽힌다. 관광객들로 붐비는 명소를 벗어나면, 아르노 강을 따라 이어지는 아담하고 걸어서 둘러보기 좋은 옛 시가지를 품은 정통 대학 도시의 모습도 만날 수 있다.",
+      "getting": "대부분의 여행자는 갈릴레오 갈릴레이 공항으로도 불리는 피사 국제공항(PSA)을 통해 입국하는데, 이 공항은 시내 중심에서 약 1km밖에 떨어져 있지 않다. 공항에서는 무인 자동 셔틀인 피사무버(PisaMover)를 타면 약 5분 만에 피사 첸트랄레 기차역으로 바로 연결되며, 이곳에서 지역 열차와 국내 열차를 이용해 토스카나 곳곳과 이탈리아 전역으로 이동할 수 있다.",
+      "days": "미라콜리 광장을 둘러보고 구시가지를 산책하는 데는 반나절에서 하루 정도면 충분해서, 피사는 다른 토스카나 목적지로 가는 길에 들르기 좋은 당일치기 여행지나 짧은 경유지로도 손색이 없다."
+    },
+    "ja": {
+      "blurb": "ピサは斜塔で世界的に有名だが、大聖堂・洗礼堂・斜塔が一体となった「奇跡の広場(ピアッツァ・デイ・ミラコリ)」の大理石建築群は、イタリアでも屈指の壮観な建築美を誇る。観光客でにぎわう一方で、由緒ある大学都市としての顔も持ち、アルノ川沿いにはこぢんまりとした徒歩で回れる旧市街が広がっている。",
+      "getting": "多くの旅行者は、市街地からわずか約1キロの場所にあるピサ国際空港(PSA、ガリレオ・ガリレイ空港とも呼ばれる)を利用する。空港からは、無人運転の「ピサムーバー」シャトルでピサ中央駅まで約5分で直結しており、そこから地方鉄道や長距離列車でトスカーナ各地やイタリア国内へアクセスできる。",
+      "days": "奇跡の広場を見学し、旧市街を散策するには半日から1日あれば十分で、ピサは日帰り旅行や、トスカーナの他の目的地へ向かう途中の短い立ち寄り先としても手頃な街だ。"
+    },
+    "es": {
+      "blurb": "Pisa es famosa en todo el mundo por su torre inclinada, pero el conjunto de mármol de la Piazza dei Miracoli —catedral, baptisterio y Torre Inclinada, todos juntos— la convierte en uno de los escenarios arquitectónicos más impresionantes de Italia. Más allá del bullicio turístico, es también una auténtica ciudad universitaria, con un centro histórico compacto y perfecto para recorrer a pie junto al río Arno.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Pisa (PSA), también conocido como Aeropuerto Galileo Galilei, situado a apenas un kilómetro del centro de la ciudad. Desde allí, el PisaMover, un enlace de traslado automatizado, conecta el aeropuerto directamente con la estación de tren de Pisa Centrale en unos 5 minutos, desde donde los trenes regionales y nacionales llegan al resto de la Toscana e Italia.",
+      "days": "Con medio día o una jornada completa es suficiente para ver la Piazza dei Miracoli y pasear por el casco antiguo, lo que hace de Pisa una excursión de un día muy sencilla o una breve parada en el camino hacia otros destinos de la Toscana."
+    },
+    "zh": {
+      "blurb": "比萨因斜塔而闻名于世,但奇迹广场(Piazza dei Miracoli)由主教座堂、洗礼堂与斜塔共同组成的大理石建筑群,更使其成为意大利最令人惊叹的建筑景观之一。除了熙攘的游客,这里其实也是一座名副其实的大学城,沿阿尔诺河(Arno)分布着紧凑而适宜步行的历史城区。",
+      "getting": "大多数旅客会飞抵比萨国际机场(PSA),该机场又称伽利略·伽利雷机场(Galileo Galilei Airport),距市中心仅约一公里。从机场出发,PisaMover自动化穿梭列车可在约5分钟内直达比萨中央车站(Pisa Centrale),从那里乘坐区域列车和国家铁路可通往托斯卡纳乃至意大利全境。",
+      "days": "半天到一整天的时间,足以游览奇迹广场并漫步老城区,因此比萨非常适合作为轻松的一日游目的地,或是前往托斯卡纳其他景点途中的短暂停留站。"
+    }
+  },
+  "San Diego": {
+    "en": {
+      "blurb": "San Diego pairs a laid-back, sun-soaked coastline with a naval and border-city heritage, from Balboa Park's museums and the historic Gaslamp Quarter to miles of Pacific beaches. Its mild year-round climate and proximity to Mexico give it a distinct binational, outdoorsy character rare among major US cities.",
+      "getting": "Most travellers arrive via San Diego International Airport (SAN), just a few miles from downtown; since no trolley line reaches the terminals directly, the reliable route is the MTS bus (route 992) or free airport shuttle connecting to the Old Town Transit Center, from where the San Diego Trolley and Coaster/Amtrak trains fan out across the region. A taxi or rideshare to downtown takes only ~10-20 minutes depending on traffic.",
+      "days": "Plan on ~3-4 days to cover downtown, Balboa Park, and the beaches, or a week or more if adding day trips to nearby coastal towns or across the border to Tijuana."
+    },
+    "ko": {
+      "blurb": "샌디에이고는 여유롭고 햇살 가득한 해안 도시이면서도 해군 기지이자 국경 도시로서의 색다른 역사를 간직하고 있습니다. 발보아 파크의 박물관들과 유서 깊은 개스램프 쿼터부터 끝없이 이어지는 태평양 해변까지 다채로운 매력을 뽐냅니다. 일 년 내내 온화한 기후와 멕시코와 인접한 지리적 특성 덕분에, 미국 주요 도시 중에서도 보기 드문 이국적이고 활동적인 매력을 지니고 있습니다.",
+      "getting": "대부분의 여행객은 다운타운에서 불과 몇 마일 떨어진 샌디에이고 국제공항(SAN)을 통해 도착합니다. 공항 터미널까지 바로 연결되는 트롤리 노선이 없기 때문에, MTS 버스(992번)나 무료 공항 셔틀을 이용해 올드타운 트랜짓 센터로 이동하는 것이 가장 확실한 방법입니다. 이곳에서부터 샌디에이고 트롤리와 코스터/암트랙 열차가 지역 곳곳으로 뻗어나갑니다. 택시나 차량 공유 서비스를 이용하면 교통 상황에 따라 다운타운까지 약 10~20분 정도 소요됩니다.",
+      "days": "다운타운, 발보아 파크, 해변 지역을 둘러보려면 3~4일 정도가 적당하며, 인근 해안 마을이나 국경 너머 티후아나까지 당일치기 여행을 추가한다면 일주일 이상 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "サンディエゴは、バルボア・パークの数々の博物館や歴史的なガスランプ・クォーターから、太平洋沿いに延々と続くビーチまで、のんびりとした陽光あふれる海岸の魅力と、海軍基地の街・国境の街としての歴史が同居する都市です。一年を通して温暖な気候とメキシコとの近さが相まって、他の主要な米国都市にはあまり見られない、二国文化が交わるアウトドア志向の独特な雰囲気を生み出しています。",
+      "getting": "多くの旅行者はダウンタウンから数マイルの距離にあるサンディエゴ国際空港(SAN)を利用して到着します。トロリー(路面電車)が直接ターミナルまで乗り入れていないため、確実な移動手段はMTSバス(992系統)か無料の空港シャトルでオールドタウン・トランジット・センターへ向かう方法で、そこからサンディエゴ・トロリーやコースター/アムトラックの列車が地域各地へと延びています。ダウンタウンまでタクシーやライドシェアを使えば、交通状況にもよりますがおよそ10~20分程度で到着します。",
+      "days": "ダウンタウン、バルボア・パーク、ビーチを一通り巡るなら3~4日ほど見ておくとよいでしょう。近郊の海沿いの町や、国境を越えてティファナへ足を延ばす日帰り旅行も加えるなら、1週間以上あるとさらに充実します。"
+    },
+    "es": {
+      "blurb": "San Diego combina un litoral relajado y bañado por el sol con una herencia naval y de ciudad fronteriza, que va desde los museos de Balboa Park y el histórico Gaslamp Quarter hasta kilómetros de playas del Pacífico. Su clima templado durante todo el año y su cercanía con México le confieren un carácter binacional y aventurero poco común entre las grandes ciudades estadounidenses.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de San Diego (SAN), ubicado a solo unos kilómetros del centro; dado que ninguna línea de tranvía llega directamente a las terminales, la opción más confiable es el autobús de MTS (ruta 992) o el shuttle gratuito del aeropuerto, que conectan con el Old Town Transit Center, desde donde el San Diego Trolley y los trenes Coaster/Amtrak se distribuyen por toda la región. Un taxi o servicio de transporte privado hasta el centro tarda solo entre 10 y 20 minutos, según el tráfico.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer el centro, Balboa Park y las playas, o una semana o más si se incluyen excursiones de un día a las localidades costeras cercanas o cruzando la frontera hacia Tijuana."
+    },
+    "zh": {
+      "blurb": "圣地亚哥兼具悠闲惬意、阳光充沛的海岸风情与海军及边境城市的独特底蕴：从巴尔博亚公园(Balboa Park)的众多博物馆、历史悠久的煤气灯街区(Gaslamp Quarter)，到绵延数英里的太平洋海滩，处处彰显其魅力。这里全年气候温和,又与墨西哥近在咫尺，孕育出一种在美国大城市中难得一见的双国文化交融、崇尚户外生活的独特气质。",
+      "getting": "大多数游客经由圣地亚哥国际机场(SAN)抵达，机场距市中心仅几英里。由于有轨电车（trolley）线路并不直达航站楼，比较可靠的方式是搭乘MTS公交992路，或乘坐免费机场接驳车前往老城交通中心(Old Town Transit Center)，从那里可换乘圣地亚哥有轨电车(San Diego Trolley)以及Coaster/Amtrak列车，通往整个地区。如果打车或叫车前往市中心，视路况而定，一般只需10到20分钟左右。",
+      "days": "若想游览市中心、巴尔博亚公园及各处海滩，建议安排3到4天；如果还想安排一日游前往附近的滨海小镇，或跨境前往蒂华纳(Tijuana)，则可以计划一周甚至更长时间。"
+    }
+  },
+  "Toledo": {
+    "en": {
+      "blurb": "Perched on a rocky gorge above the Tagus River, Toledo's medieval streets preserve centuries of coexistence between Christian, Muslim, and Jewish culture, visible today in its churches, mosques, and synagogues alike. Once Spain's capital before the seat of power moved to Madrid, the city remains a dense open-air museum of Gothic, Mudéjar, and Renaissance architecture packed within its ancient walls.",
+      "getting": "Toledo has no airport of its own; travelers fly into Madrid–Barajas (MAD) and connect onward, most reliably via the AVE/Avant high-speed train from Madrid's Atocha station, a ride of ~30 minutes into Toledo's own historic station. Regional buses from Madrid's transport hubs also serve the city, taking around an hour, and Toledo's train station sits across the river from the old town, with a shuttle bus or a ~20-minute walk needed to reach the center.",
+      "days": "A single day is enough to cover Toledo's compact old town and headline sights on a fast round trip from Madrid, but staying 2 days allows time to see the cathedral, synagogues, and viewpoints without rushing, plus experience the city's quieter evening atmosphere once the day-trippers leave."
+    },
+    "ko": {
+      "blurb": "타호강이 흐르는 협곡 위 절벽에 자리한 톨레도는 중세의 거리 곳곳에 그리스도교, 이슬람교, 유대교 문화가 오랜 세월 공존해온 흔적을 고스란히 간직하고 있다. 이는 오늘날에도 도시 곳곳에 남아 있는 성당과 모스크, 시나고그를 통해 생생히 확인할 수 있다. 수도가 마드리드로 옮겨가기 전 스페인의 중심이었던 이 도시는 고딕, 무데하르, 르네상스 양식의 건축물이 옛 성벽 안에 촘촘히 들어선, 마치 거대한 야외 박물관 같은 곳이다.",
+      "getting": "톨레도에는 자체 공항이 없어, 여행자들은 마드리드-바라하스 공항(MAD)으로 입국한 뒤 이동해야 한다. 가장 확실한 방법은 마드리드 아토차역에서 AVE/아반트 고속열차를 타는 것으로, 약 30분이면 톨레도의 유서 깊은 역에 도착한다. 마드리드의 교통 거점에서 출발하는 지역 버스도 톨레도까지 운행하며 약 1시간이 걸리는데, 톨레도 기차역은 구시가지와 강을 사이에 두고 떨어져 있어 셔틀버스를 이용하거나 도보로 약 20분을 걸어야 중심가에 닿을 수 있다.",
+      "days": "마드리드에서 당일치기로 다녀올 경우, 하루면 톨레도의 아담한 구시가지와 주요 명소들을 둘러보기에 충분하다. 하지만 2일 정도 머문다면 대성당과 시나고그, 전망대까지 여유롭게 돌아볼 수 있을 뿐만 아니라, 당일 여행객들이 떠나고 난 뒤 한적해지는 저녁의 톨레도만의 분위기도 만끽할 수 있다."
+    },
+    "ja": {
+      "blurb": "タホ川を見下ろす岩がちな渓谷の上に築かれたトレドの中世の街並みには、キリスト教、イスラム教、ユダヤ教という3つの文化が何世紀にもわたって共存してきた歴史が刻まれており、それは今も教会やモスク、シナゴーグの姿に見て取ることができます。首都機能がマドリードへ移る以前、かつてスペインの首都であったこの街は、古い城壁の内側にゴシック様式、ムデハル様式、ルネサンス様式の建築がぎっしりと詰まった、さながら密度の濃い野外博物館のような佇まいを今に伝えています。",
+      "getting": "トレドには空港がないため、まずマドリード・バラハス空港(MAD)へ飛び、そこから乗り継ぐことになります。最も確実なのは、マドリードのアトーチャ駅からAVE/Avantの高速列車を利用する方法で、トレド自慢の歴史ある駅まで約30分で到着します。マドリードの主要交通拠点からは地域バスも出ており、所要時間は約1時間です。なお、トレドの鉄道駅は旧市街とは川を挟んだ対岸にあるため、中心部へ行くにはシャトルバスを利用するか、徒歩約20分ほど歩く必要があります。",
+      "days": "マドリードから日帰りで駆け足で回るなら、コンパクトな旧市街と主要な見どころを押さえるのに1日あれば十分です。ただし2日間滞在すれば、大聖堂やシナゴーグ、展望スポットを慌ただしくなく見て回れるうえ、日帰り客が去った後の落ち着いた夜のトレドの雰囲気も味わうことができます。"
+    },
+    "es": {
+      "blurb": "Encaramada sobre un desfiladero rocoso que domina el río Tajo, Toledo conserva en sus calles medievales siglos de convivencia entre las culturas cristiana, musulmana y judía, un legado que hoy sigue vivo tanto en sus iglesias como en sus mezquitas y sinagogas. Antigua capital de España antes de que la sede del poder se trasladara a Madrid, la ciudad sigue siendo un auténtico museo al aire libre, con arquitectura gótica, mudéjar y renacentista concentrada dentro de sus antiguas murallas.",
+      "getting": "Toledo no tiene aeropuerto propio: los viajeros llegan a Madrid-Barajas (MAD) y continúan el trayecto, lo más recomendable en el tren de alta velocidad AVE/Avant desde la estación de Atocha en Madrid, un viaje de unos 30 minutos hasta la propia estación histórica de Toledo. También hay autobuses regionales que salen de las principales estaciones de transporte de Madrid y tardan alrededor de una hora en llegar a la ciudad. La estación de tren de Toledo se encuentra al otro lado del río respecto al casco antiguo, por lo que hay que tomar un autobús lanzadera o caminar unos 20 minutos para llegar al centro.",
+      "days": "Con un solo día es posible recorrer el compacto casco antiguo de Toledo y ver sus principales monumentos en una rápida excursión de un día desde Madrid, pero quedarse 2 días permite visitar con calma la catedral, las sinagogas y los miradores, además de disfrutar del ambiente más tranquilo de la ciudad por las noches, una vez que se marchan los visitantes de un día."
+    },
+    "zh": {
+      "blurb": "托莱多坐落在塔霍河上方的岩石峡谷之中，中世纪街巷里沉淀着基督教、伊斯兰教与犹太文化数百年共存的印记，如今依然能在城中的教堂、清真寺与犹太会堂中一一寻见。作为西班牙迁都马德里之前的旧都，托莱多至今仍是一座露天博物馆般的古城，哥特式、穆德哈尔式与文艺复兴风格的建筑在古老城墙内鳞次栉比，密度惊人。",
+      "getting": "托莱多本身没有机场，游客通常先飞抵马德里巴拉哈斯机场（MAD），再转乘其他交通方式前往。最便捷可靠的方式是从马德里阿托查火车站搭乘AVE/Avant高速列车，约30分钟即可抵达托莱多历史悠久的火车站。从马德里各交通枢纽出发的城际大巴同样可达托莱多，车程约一小时。需要注意的是，托莱多火车站位于河对岸，与老城区隔河相望，抵达后还需搭乘接驳巴士，或步行约20分钟才能到达市中心。",
+      "days": "若只是从马德里出发的快速往返一日游，一天时间足以走遍托莱多紧凑的老城和主要景点；但如果能停留2天，就可以从容参观大教堂、犹太会堂和各处观景台，而不必匆匆赶路，还能在日间游客散去后，体验这座古城更为宁静的夜晚氛围。"
+    }
+  },
+  "Ubud": {
+    "en": {
+      "blurb": "Tucked among rice terraces and river ravines in Bali's central highlands, Ubud has grown from a quiet artists' village into the island's cultural heart, prized for its temples, traditional dance, yoga retreats and jungle scenery. It's a cooler, greener counterpoint to Bali's beach resorts, built around wellness, craft and slower travel.",
+      "getting": "Ubud has no airport or rail line of its own; travellers fly into Bali's Ngurah Rai International Airport (DPS) near Denpasar and continue by private car, taxi, or arranged transfer, a trip of roughly ~1.5–2 hours depending on traffic. Public buses exist but require transfers and are far less reliable for visitors with luggage.",
+      "days": "Plan on ~2-3 days to cover Ubud's core sights, temples, rice terraces and markets at an easy pace, or longer for yoga retreats, day trips into the surrounding hills, or extended creative and wellness stays."
+    },
+    "ko": {
+      "blurb": "발리 중부 고원, 계단식 논과 강 협곡 사이에 자리한 우붓은 한적한 예술가 마을에서 발리를 대표하는 문화의 중심지로 성장했습니다. 사원과 전통 무용, 요가 리트릿, 그리고 울창한 정글 풍경으로 특히 유명합니다. 해변 리조트가 즐비한 발리 여느 지역과는 달리 한층 서늘하고 푸르른 이곳은 웰빙과 공예, 그리고 느린 여행을 지향합니다.",
+      "getting": "우붓에는 공항이나 철도가 없어, 여행객들은 덴파사르 인근의 발리 응우라라이 국제공항(DPS)으로 입국한 뒤 자가 차량, 택시, 또는 사전 예약한 픽업 서비스를 이용해 이동해야 합니다. 교통 상황에 따라 대략 1.5~2시간 정도 걸립니다. 대중 버스도 있지만 환승이 필요하고 짐이 있는 여행객에게는 그다지 신뢰할 만한 수단이 아닙니다.",
+      "days": "우붓의 주요 명소, 사원, 계단식 논, 시장 등을 여유롭게 둘러보려면 약 2~3일 정도가 적당하며, 요가 리트릿이나 주변 언덕으로의 당일치기 여행, 혹은 창작·웰빙 활동을 위한 장기 체류를 계획한다면 그보다 더 길게 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "バリ島中央高地、棚田と渓谷に囲まれた場所にあるウブドは、かつては静かな芸術家の村でしたが、今では島の文化の中心地として発展を遂げました。寺院や伝統舞踊、ヨガリトリート、ジャングルの景観などが魅力で、バリのビーチリゾートとは対照的に、涼しく緑豊かな雰囲気の中でウェルネスや工芸、ゆったりとした旅を楽しめる場所です。",
+      "getting": "ウブドには空港や鉄道がないため、旅行者はデンパサール近郊のバリ島ングラライ国際空港(DPS)まで飛行機で向かい、そこから貸切車、タクシー、または事前に手配した送迎サービスで移動します。交通状況により所要時間は約1.5~2時間です。公共バスもありますが、乗り換えが必要で、荷物を持った旅行者にはあまり実用的ではありません。",
+      "days": "ウブドの主要な見どころ、寺院、棚田、市場をゆったりと巡るには2~3日程度が目安です。ヨガリトリートに参加したり、周辺の丘陵地帯へ日帰り旅行に出かけたり、創作活動やウェルネスを目的にじっくり滞在したりする場合は、それ以上の日数を確保するとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Escondida entre terrazas de arroz y cañones fluviales en las tierras altas centrales de Bali, Ubud ha pasado de ser un tranquilo pueblo de artistas a convertirse en el corazón cultural de la isla, apreciada por sus templos, sus danzas tradicionales, sus retiros de yoga y sus paisajes de selva. Es un contrapunto más fresco y verde a los resorts de playa de Bali, construido en torno al bienestar, la artesanía y un viaje más pausado.",
+      "getting": "Ubud no cuenta con aeropuerto ni línea de tren propios; los viajeros llegan al Aeropuerto Internacional Ngurah Rai de Bali (DPS), cerca de Denpasar, y continúan en coche privado, taxi o traslado organizado, un trayecto de aproximadamente 1,5 a 2 horas según el tráfico. Existen autobuses públicos, pero requieren transbordos y son mucho menos fiables para quienes viajan con equipaje.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma los principales atractivos de Ubud, sus templos, terrazas de arroz y mercados, o más tiempo si se planean retiros de yoga, excursiones de un día por las colinas cercanas o estancias más largas centradas en el arte y el bienestar."
+    },
+    "zh": {
+      "blurb": "乌布坐落在巴厘岛中部高原的梯田与河谷之间,从一个宁静的艺术家村落,逐渐发展成为全岛的文化心脏,以寺庙、传统舞蹈、瑜伽静修和丛林风光闻名遐迩。与巴厘岛的海滩度假区相比,这里气候更凉爽、绿意更浓,是一处围绕养生、手工艺与慢节奏旅行而生的世外之地。",
+      "getting": "乌布本身没有机场或铁路,游客通常先飞抵登巴萨附近的巴厘岛伍拉·赖国际机场(DPS),再乘私家车、出租车或预订的接送服务前往乌布,车程视路况约1.5至2小时。当地也有公共巴士,但需要多次换乘,对携带行李的游客来说并不太方便,可靠性也较低。",
+      "days": "若想轻松游览乌布的主要景点、寺庙、梯田与市集,建议安排约2至3天;若计划参加瑜伽静修、前往周边山区一日游,或进行更深入的创作与养生度假,则可适当延长行程。"
+    }
+  },
+  "Vigan": {
+    "en": {
+      "blurb": "Vigan is a UNESCO World Heritage-listed colonial town on the northwest coast of Luzon, celebrated as the best-preserved example of a planned Spanish colonial settlement in Asia. Its cobblestoned Calle Crisologo, lined with 18th- and 19th-century ancestral houses, antique shops, and kalesa (horse-drawn carriage) rides, makes the historic core feel frozen in time.",
+      "getting": "The nearest airport is Laoag International Airport (LAO), roughly a 1.5–2 hour drive or bus ride north of Vigan; most travelers instead take a direct long-distance bus (operators such as Partas run from Manila's Cubao/Pasay terminals), a journey of roughly ~8-12 hours depending on route and traffic. There is no rail line serving Vigan, so bus or flight-plus-bus from the regional hub of Laoag remains the standard access route.",
+      "days": "Plan on ~2 full days to comfortably explore Calle Crisologo, the plazas, museums, and a day trip to nearby sites like Bantay Bell Tower."
+    },
+    "ko": {
+      "blurb": "비간은 루손섬 북서부 해안에 위치한 유네스코 세계문화유산 도시로, 아시아에서 가장 잘 보존된 스페인 식민지 계획도시로 손꼽힙니다. 돌이 촘촘히 박힌 칼레 크리솔로고 거리에는 18~19세기에 지어진 유서 깊은 저택들과 골동품 상점들이 늘어서 있고, 말이 끄는 마차 '칼레사'를 타고 거리를 누비다 보면 마치 시간이 멈춘 듯한 옛 도심의 정취에 빠져들게 됩니다.",
+      "getting": "가장 가까운 공항은 라오아그 국제공항(LAO)으로, 비간에서 북쪽으로 차나 버스로 약 1.5~2시간 거리에 있습니다. 하지만 대부분의 여행자는 마닐라의 쿠바오·파사이 터미널에서 출발하는 장거리 직행버스(파르타스 등의 업체가 운행)를 이용하며, 경로와 교통 상황에 따라 약 8~12시간이 소요됩니다. 비간까지 연결되는 철도는 없으므로, 버스를 이용하거나 라오아그까지 비행기로 이동한 뒤 버스로 환승하는 방법이 일반적인 이동 수단입니다.",
+      "days": "칼레 크리솔로고 거리와 광장, 박물관을 여유롭게 둘러보고 인근의 반타이 종탑 같은 명소로 당일 여행을 다녀오려면 온전히 2일 정도를 계획하시는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ビガンは、ルソン島北西部の海岸に位置する、ユネスコ世界遺産に登録された植民地時代の町で、アジアに残るスペイン統治時代の計画都市としては最も保存状態が良いことで知られています。18~19世紀に建てられた邸宅やアンティークショップが軒を連ね、カレサ(馬車)が走る石畳の目抜き通り「カリエ・クリソログ」を歩けば、まるで時が止まったかのような旧市街の雰囲気を味わえます。",
+      "getting": "最寄りの空港はラオアグ国際空港(LAO)で、ビガンまでは車やバスで北へ約1.5~2時間かかります。ただ、多くの旅行者はマニラのクバオ/パサイターミナルから出ている長距離バス(パルタスなどの会社が運行)を直接利用しており、所要時間はルートや交通状況によって約8~12時間ほどです。ビガンには鉄道が通っていないため、バス利用、またはラオアグまで飛行機で行ってからバスに乗り継ぐのが定番のアクセス方法となっています。",
+      "days": "カリエ・クリソログや広場、博物館をゆっくり巡り、さらにバンタイ鐘楼など近郊スポットへの日帰り旅行も楽しむなら、丸2日ほどを予定しておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Vigan es una ciudad colonial declarada Patrimonio de la Humanidad por la UNESCO, situada en la costa noroeste de Luzón, y reconocida como el ejemplo mejor conservado de un asentamiento colonial español planificado en toda Asia. Su empedrada Calle Crisologo, flanqueada por casonas ancestrales de los siglos XVIII y XIX, tiendas de antigüedades y paseos en kalesa (carruaje tirado por caballos), hace que su casco histórico parezca detenido en el tiempo.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional de Laoag (LAO), a aproximadamente 1.5–2 horas en auto o autobús al norte de Vigan; sin embargo, la mayoría de los viajeros prefiere tomar un autobús directo de larga distancia (empresas como Partas salen desde las terminales de Cubao/Pasay en Manila), un trayecto de entre 8 y 12 horas según la ruta y el tráfico. Vigan no cuenta con línea ferroviaria, por lo que el autobús, o la combinación de vuelo más autobús desde el centro regional de Laoag, sigue siendo la vía de acceso habitual.",
+      "days": "Se recomienda destinar unos 2 días completos para recorrer con calma la Calle Crisologo, las plazas y los museos, además de hacer una excursión de un día a lugares cercanos como la Torre de Bantay."
+    },
+    "zh": {
+      "blurb": "维甘是位于吕宋岛西北海岸的一座殖民古城,被联合国教科文组织列为世界遗产,被誉为亚洲保存最完好的西班牙殖民地规划城镇典范。城内石板铺就的克里索洛戈大街(Calle Crisologo)两旁,林立着18、19世纪的祖屋老宅和古董店铺,搭乘当地特色的卡莱萨马车(kalesa)穿行其间,仿佛让这片历史街区的时光就此凝固。",
+      "getting": "距离维甘最近的机场是老沃国际机场(LAO),驱车或乘巴士北上约需1.5至2小时。不过,大多数旅行者更倾向于直接搭乘长途巴士前往(如Partas等运营商设有从马尼拉的Cubao/Pasay车站出发的班次),全程视路线和路况而定,大约需要8至12小时。由于维甘没有铁路可达,因此乘坐巴士,或先飞抵区域枢纽老沃再转乘巴士,仍是前往维甘的主要方式。",
+      "days": "建议安排约2整天的时间,从容游览克里索洛戈大街、各处广场与博物馆,并可安排一天行程前往邦艾钟楼(Bantay Bell Tower)等周边景点。"
     }
   }
 }
