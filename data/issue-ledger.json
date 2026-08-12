@@ -1,5 +1,16 @@
 {
   "validate-content": {},
-  "audit-translations": {},
+  "audit-translations": {
+    "broken-bold essentials/ja/hong-kong.md": {
+      "since": "2026-08-12",
+      "last": "2026-08-12",
+      "seen": 1
+    },
+    "broken-bold essentials/zh/hong-kong.md": {
+      "since": "2026-08-12",
+      "last": "2026-08-12",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
