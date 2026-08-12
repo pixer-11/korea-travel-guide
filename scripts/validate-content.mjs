@@ -650,10 +650,24 @@ async function main() {
     }
   } catch { /* file absent in a partial checkout — not this check's business */ }
 
-  // Only for posts WITHOUT a place.id (events/placeless) — venue posts are already
-  // de-duped by place.id above, and non-ASCII venue names (Vietnamese/Korean) would
-  // otherwise collapse to just the city and false-positive.
-  dupBy((p) => (!p.placeId ? topicKey(p.title, p.region) : ''), 'DUPLICATE topic (near-identical post)');
+  // This used to run ONLY for posts without a place.id, on the reasoning that
+  // venue posts are already de-duped by place.id above. That holds right up
+  // until Google files one place under two ids — and then neither check fires.
+  // On 2026-08-12 the daily publish shipped "Old Town of Lijiang" and the bulk
+  // fill shipped "Lijiang Old Town" the same evening, same city, same 4.6★,
+  // different place.id, and both went live. topicKey already collapsed the two
+  // titles to the identical string; nothing was asking it to.
+  //
+  // Posts that share a place.id are skipped here so the same pair is not
+  // reported twice — that case has its own line above.
+  {
+    const byId = new Map();
+    for (const p of posts) if (p.placeId) byId.set(p.placeId, (byId.get(p.placeId) || 0) + 1);
+    dupBy(
+      (p) => (p.placeId && byId.get(p.placeId) > 1 ? '' : topicKey(p.title, p.region)),
+      'DUPLICATE topic (near-identical post)',
+    );
+  }
 
   // Essentials completeness — each non-draft country guide must carry all 6 H2
   // sections. A truncated guide (the max_tokens bug) is worse than none: the topic

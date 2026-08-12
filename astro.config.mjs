@@ -329,6 +329,16 @@ function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/tokyo-comiket-comic-market-108/ ${p}/posts/tokyo-comic-market-108-summer-comiket/ 301`);
   }
+  // Lijiang Old Town twins (2026-08-12): the daily publish shipped "Old Town of
+  // Lijiang" and the bulk fill shipped "Lijiang Old Town" the same evening —
+  // same city, same 4.6★, but Google files the place under two ids, so the
+  // place.id de-dupe could not see them and the title de-dupe was only running
+  // on posts WITHOUT an id. Kept the older post: it carries the far larger
+  // review count (1,441 vs 220), which is the entry Google itself treats as
+  // canonical.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/lijiang-lijiang-old-town/ ${p}/posts/lijiang-old-town-of-lijiang/ 301`);
+  }
   // Business-card QR target: /card stays printed on physical cards forever, so
   // it must never 404. 302 (not 301) so the destination can be repointed later
   // (e.g. to a newsletter page) without reprinting cards.

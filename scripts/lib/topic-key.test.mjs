@@ -39,3 +39,24 @@ test('old "What to Know" and new "Dates, Tickets & Venue" collapse to one key', 
     topicKey('Lollapalooza 2026: Dates, Tickets & Venue (Chicago)', 'Chicago'),
   );
 });
+
+// 2026-08-12: the daily publish shipped "Old Town of Lijiang" and the bulk fill
+// shipped "Lijiang Old Town" the same evening. Google files that place under two
+// ids, so the place.id de-dupe saw two different venues — this key is the only
+// thing that can tell they are one, and validate-content now consults it for
+// posts WITH an id too, not just placeless ones.
+test('word-order twins of the same landmark collapse to one key', () => {
+  assert.equal(
+    topicKey('Old Town of Lijiang: Travel Guide (4.6★)', 'Lijiang'),
+    topicKey('Lijiang Old Town: Travel Guide (4.6★)', 'Lijiang'),
+  );
+});
+
+// …but two genuinely different places in one city must stay apart, or the
+// widened check would start deleting real guides.
+test('different landmarks in the same city keep different keys', () => {
+  assert.notEqual(
+    topicKey('Black Dragon Pool: Travel Guide', 'Lijiang'),
+    topicKey('Lijiang Old Town: Travel Guide', 'Lijiang'),
+  );
+});
