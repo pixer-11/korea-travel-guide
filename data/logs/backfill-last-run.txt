@@ -1,5 +1,5 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 63 itinerary stop(s) queued first
+Priority: 64 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
   – bangkok-the-grand-palace.md: nothing new
   – barcelona-ciutadella-park.md: nothing new
@@ -22,8 +22,8 @@ Priority: 63 itinerary stop(s) queued first
   – amalfi-coast-amalfi-coast.md: nothing new
   – amalfi-coast-positano.md: nothing new
   – amalfi-coast-valle-delle-ferriere.md: nothing new
+  – amritsar-jallianwala-bagh.md: nothing new
   – ankara-ankara-castle.md: nothing new
   – antalya-duden-waterfalls.md: nothing new
-  – antalya-hadrian-s-gate.md: nothing new
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 63, no-new-data 25, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 876 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 66, no-new-data 25, no-place 6, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 917 (APPLIED).
