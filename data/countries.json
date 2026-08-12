@@ -187,7 +187,6 @@
         "Hangzhou",
         "Guangzhou",
         "Suzhou",
-        "Hong Kong",
         "Qingdao",
         "Taiyuan",
         "Lijiang",
@@ -464,6 +463,33 @@
         "Jurong",
         "Bukit Timah",
         "East Coast"
+      ],
+      "continent": "Asia"
+    },
+    {
+      "name": "Hong Kong",
+      "iso2": "hk",
+      "priority": 16,
+      "slug": "hong-kong",
+      "flag": "🇭🇰",
+      "active": true,
+      "blurb": "A dense vertical city where dim sum halls, neon night markets and mountain trails sit minutes apart — a Special Administrative Region of China with its own entry rules, currency and open internet.",
+      "regions": [
+        "Hong Kong",
+        "Central",
+        "Tsim Sha Tsui",
+        "Causeway Bay",
+        "Mong Kok",
+        "Wan Chai",
+        "Sheung Wan",
+        "Lantau Island",
+        "Sai Kung",
+        "Stanley",
+        "Aberdeen",
+        "Kennedy Town",
+        "Jordan",
+        "North Point",
+        "Sha Tin"
       ],
       "continent": "Asia"
     }

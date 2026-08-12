@@ -3,7 +3,7 @@ title: 'XG Concert (AsiaWorld-Expo): What to Know (Hong Kong)'
 description: >-
   XG Concert (AsiaWorld-Expo) in Hong Kong, China — August 2, 2026. What it is,
   when and where, and how to plan around it.
-country: China
+country: "Hong Kong"
 region: Hong Kong
 category: event
 pubDate: '2026-07-29'

@@ -921,6 +921,31 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
 async function main() {
   const allPosts = await loadPosts();
   const regions = [...new Set(allPosts.map((p) => p.data.region).filter(Boolean))];
+
+  // CITY-STATES are one trip, not fifteen. Singapore's 46 guides are spread over
+  // "Singapore" plus fourteen neighbourhoods (Marina Bay 4, Little India 5,
+  // Orchard Road 4 …), so on a per-region count only "Singapore" itself ever
+  // approached the 12-post gate — and the country with the third-most guides on
+  // the site had no itinerary at all (found 2026-08-12, while adding Hong Kong,
+  // which would have walked into the same wall with fifteen districts).
+  //
+  // Detected from the data rather than hardcoded: a country that lists its own
+  // name among its regions IS the city (Singapore, Hong Kong); South Korea does
+  // not list "South Korea", so nothing else is affected. A reader planning three
+  // days in Singapore wants Marina Bay AND Chinatown in one route, which is
+  // exactly what pooling gives them.
+  let cityStates = new Set();
+  try {
+    const { countries } = JSON.parse(
+      await readFile(fileURLToPath(new URL('../data/countries.json', import.meta.url)), 'utf8'),
+    );
+    cityStates = new Set(countries.filter((c) => (c.regions || []).includes(c.name)).map((c) => c.name));
+  } catch { /* no config → per-region behaviour, which is the old default */ }
+  /** Posts that belong to one itinerary unit: a whole city-state, or one region. */
+  const postsOf = (city) =>
+    cityStates.has(city)
+      ? allPosts.filter((p) => (p.data.country ?? '') === city)
+      : allPosts.filter((p) => p.data.region === city);
   // Which posts are currently unpublished — an itinerary may not route through
   // one (the page throws rather than render a dead stop), so a city that loses
   // posts to quarantine needs its stale itinerary parked. See the gate branch.
@@ -954,7 +979,7 @@ async function main() {
     const extraCandidates = regions.filter((r) => !LAUNCH_CITIES.includes(r)).sort();
     const selectedExtra = [];
     for (const r of extraCandidates) {
-      const q = qualifyingPosts(allPosts.filter((p) => p.data.region === r));
+      const q = qualifyingPosts(postsOf(r));
       if (!gateFor(q.length).threeDay) continue; // must clear the 3-day gate to even be a candidate
       if (cityHasAnyFile(r)) { selectedExtra.push(r); continue; } // already established — no cap
       if (newSlotsLeft > 0) { selectedExtra.push(r); newSlotsLeft--; }
@@ -967,7 +992,7 @@ async function main() {
 
   for (const city of cities) {
     try {
-      const cityPosts = allPosts.filter((p) => p.data.region === city);
+      const cityPosts = postsOf(city);
       if (!cityPosts.length) { console.log(`  · ${city} — no posts found for this region, skipping`); continue; }
       const q = qualifyingPosts(cityPosts);
       const gates = gateFor(q.length);

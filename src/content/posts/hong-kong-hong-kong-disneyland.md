@@ -1,7 +1,7 @@
 ---
 title: 'Hong Kong Disneyland: Travel Guide'
 description: Hong Kong Disneyland sits on Lantau Island, reachable via the dedicated Disneyland Resort Line from Sunny Bay MTR station — itself on the Tung Chung Line.
-country: China
+country: "Hong Kong"
 region: Hong Kong
 category: attraction
 pubDate: '2026-07-28T10:02:56.065Z'

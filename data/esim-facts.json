@@ -2,7 +2,12 @@
   "_comment": "Per-country connectivity facts for /tools/esim pages. English source of truth; prose fields (intro, coverage, tips) are translated by scripts/translate-esim.mjs into src/i18n/esim-i18n.json with a srcHash stamp, so editing a field here re-queues its translations. EVERGREEN FACTS ONLY: carrier names and coverage character — never prices, plan sizes or vendor claims (those go stale and we link to live pricing instead). Keyed by countries.json slug; a country gets an eSIM page when it is active in countries.json AND has an entry here.",
   "japan": {
     "name": "Japan",
-    "carriers": ["NTT Docomo", "au (KDDI)", "SoftBank", "Rakuten Mobile"],
+    "carriers": [
+      "NTT Docomo",
+      "au (KDDI)",
+      "SoftBank",
+      "Rakuten Mobile"
+    ],
     "intro": "Japan runs on four nationwide networks — NTT Docomo, au (KDDI), SoftBank and the newer Rakuten Mobile. Travel eSIMs almost always ride one of the big three, and for a visitor the practical difference between them is small: all three are fast and dependable in the places tourists actually go.",
     "coverage": "City coverage is superb, and unusually for the world, that includes the underground — you keep a signal on Tokyo and Osaka metro platforms and inside most trains. Coverage follows the shinkansen lines well. Where it thins out is deep in the mountains: remote onsen valleys, high hiking trails and some stretches of rural Hokkaido can drop to weak or no signal, so download offline maps before a countryside day trip.",
     "tips": [
@@ -14,7 +19,11 @@
   },
   "thailand": {
     "name": "Thailand",
-    "carriers": ["AIS", "True (merged with dtac)", "NT"],
+    "carriers": [
+      "AIS",
+      "True (merged with dtac)",
+      "NT"
+    ],
     "intro": "Thailand's mobile market is dominated by two big networks: AIS, the largest, and True, which absorbed dtac in their 2023 merger. Most travel eSIMs connect through one of these two, and both are strong in every place on a normal tourist route.",
     "coverage": "Bangkok, Chiang Mai and the coastal cities have fast, dense coverage, and the popular islands — Phuket, Samui, Phangan, Krabi's beaches — are well served in towns and resort areas. Signal gets patchy on remote beaches, in national parks and in the mountainous border regions, so treat a jungle trek or a far-flung island cove as offline time.",
     "tips": [
@@ -26,7 +35,11 @@
   },
   "south-korea": {
     "name": "South Korea",
-    "carriers": ["SK Telecom", "KT", "LG U+"],
+    "carriers": [
+      "SK Telecom",
+      "KT",
+      "LG U+"
+    ],
     "intro": "South Korea's three networks — SK Telecom, KT and LG U+ — run some of the fastest, densest mobile infrastructure anywhere. Travel eSIMs ride one of the three, and for a visitor there is no bad pick: all three are excellent everywhere tourists go.",
     "coverage": "Coverage is close to total: full signal in the Seoul and Busan subways, in KTX trains at 300 km/h, in mountain national parks and on Jeju's coastal roads. It is genuinely hard to find a dead zone on a normal itinerary — the practical question in Korea is not whether you will have signal, but how much data you will burn.",
     "tips": [
@@ -38,7 +51,11 @@
   },
   "vietnam": {
     "name": "Vietnam",
-    "carriers": ["Viettel", "Vinaphone", "MobiFone"],
+    "carriers": [
+      "Viettel",
+      "Vinaphone",
+      "MobiFone"
+    ],
     "intro": "Vietnam has three main networks — Viettel, Vinaphone and MobiFone. Viettel, run with military-grade ambition, is the largest and has the strongest rural footprint; the other two are solid in cities and towns. Which network a travel eSIM uses matters more here than in most countries, precisely because of that rural gap.",
     "coverage": "Hanoi, Ho Chi Minh City, Da Nang and every provincial city are well covered with fast data. The differences show up in the mountains and the countryside: the Ha Giang loop, Sapa's valleys and remote stretches of the central highlands are where Viettel keeps a bar or two while others fade. On the classic north–south route the populated corridor is fine on any network.",
     "tips": [
@@ -50,7 +67,11 @@
   },
   "united-states": {
     "name": "United States",
-    "carriers": ["AT&T", "T-Mobile", "Verizon"],
+    "carriers": [
+      "AT&T",
+      "T-Mobile",
+      "Verizon"
+    ],
     "intro": "The US has three nationwide networks — AT&T, T-Mobile and Verizon. Most travel eSIMs connect through T-Mobile or AT&T; Verizon rarely appears in travel plans. In cities and suburbs all three are fast and dependable.",
     "coverage": "Coverage maps and reality agree in metro areas and along interstates, then diverge in the rural West: national parks, desert stretches and mountain roads can go dark for long spells on any network. If your trip is a road trip, treat connectivity as a city amenity and plan the empty stretches offline.",
     "tips": [
@@ -62,7 +83,12 @@
   },
   "france": {
     "name": "France",
-    "carriers": ["Orange", "SFR", "Bouygues Telecom", "Free Mobile"],
+    "carriers": [
+      "Orange",
+      "SFR",
+      "Bouygues Telecom",
+      "Free Mobile"
+    ],
     "intro": "France has four national networks — Orange, SFR, Bouygues Telecom and Free Mobile — and travel eSIMs ride one of them. Because France is in the EU roaming zone, many eSIMs sold for France actually cover all of Europe, which changes how you should shop.",
     "coverage": "Paris and every major city are solidly covered, including most of the Paris métro. Coverage stays good along the TGV lines and in towns; it thins in deep countryside — wine-country back roads, Alpine valleys and some village interiors with thick stone walls where indoor signal drops.",
     "tips": [
@@ -74,7 +100,12 @@
   },
   "italy": {
     "name": "Italy",
-    "carriers": ["TIM", "Vodafone Italy", "WindTre", "Iliad"],
+    "carriers": [
+      "TIM",
+      "Vodafone Italy",
+      "WindTre",
+      "Iliad"
+    ],
     "intro": "Italy's four networks — TIM, Vodafone, WindTre and Iliad — all serve travel eSIMs, and Italy sits in the EU roaming zone, so Europe-wide plans cover it too. In the cities and along the coast, any of them will do fine.",
     "coverage": "Rome, Milan, Florence and Venice are well covered outdoors; the classic Italian surprise is indoors, where metre-thick historic walls can smother a signal in the very buildings you came to see. Rural Tuscany, the deep south and Alpine valleys are patchier than the tourist cities.",
     "tips": [
@@ -86,7 +117,11 @@
   },
   "china": {
     "name": "China",
-    "carriers": ["China Mobile", "China Unicom", "China Telecom"],
+    "carriers": [
+      "China Mobile",
+      "China Unicom",
+      "China Telecom"
+    ],
     "intro": "China's three networks — China Mobile, China Unicom and China Telecom — have vast, fast coverage. The real question for visitors is not signal but access: local networks operate under China's internet rules, so many familiar apps behave differently there. Travel eSIMs that connect as international roaming route data through the provider's home network, which is why many travelers find their usual apps keep working on them — always check what the specific provider says it supports before relying on it.",
     "coverage": "City coverage is excellent, including metros and high-speed rail lines. Coverage reaches remarkably far into the countryside by any international standard, though remote mountain and western regions still thin out.",
     "tips": [
@@ -98,7 +133,11 @@
   },
   "spain": {
     "name": "Spain",
-    "carriers": ["Movistar", "Vodafone Spain", "Orange Spain"],
+    "carriers": [
+      "Movistar",
+      "Vodafone Spain",
+      "Orange Spain"
+    ],
     "intro": "Spain's main networks — Movistar, Vodafone and Orange — cover the mainland and both archipelagos well, and Spain is in the EU roaming zone, so Europe-wide eSIMs work here including the Balearics and Canaries.",
     "coverage": "Madrid, Barcelona and the coastal cities have dense, fast coverage; the islands are well served in populated areas. Signal thins in the emptier interior — rural Extremadura, mountain stretches of Andalucía and the Pyrenees — and, as in Italy, thick old-town walls can weaken indoor reception.",
     "tips": [
@@ -110,7 +149,10 @@
   },
   "united-arab-emirates": {
     "name": "United Arab Emirates",
-    "carriers": ["e& (Etisalat)", "du"],
+    "carriers": [
+      "e& (Etisalat)",
+      "du"
+    ],
     "intro": "The UAE has two networks — e& (formerly Etisalat) and du — and both are superb: dense 5G in Dubai and Abu Dhabi, strong signal in malls, metros and even most of the desert highways.",
     "coverage": "Coverage is effectively total in the cities and along the intercity corridors. The practical quirk of the UAE is regulatory, not technical: internet calling (WhatsApp, FaceTime and similar voice/video calls) is restricted in the country on any network, so messaging works normally while calls often do not.",
     "tips": [
@@ -122,7 +164,11 @@
   },
   "taiwan": {
     "name": "Taiwan",
-    "carriers": ["Chunghwa Telecom", "Taiwan Mobile", "FarEasTone"],
+    "carriers": [
+      "Chunghwa Telecom",
+      "Taiwan Mobile",
+      "FarEasTone"
+    ],
     "intro": "Taiwan's three networks — Chunghwa Telecom, Taiwan Mobile and FarEasTone — are all strong, with Chunghwa holding the widest-coverage reputation. Travel eSIMs are plentiful and the island's compact geography makes any of the three a fine choice for the standard loop.",
     "coverage": "Taipei, the west-coast cities and the high-speed rail corridor are blanketed, metro included. The east coast (Hualien, Taitung) is well covered in towns; the central mountains — Taroko's gorges, alpine highway passes, Yushan trails — are where signal drops on every network.",
     "tips": [
@@ -134,7 +180,11 @@
   },
   "indonesia": {
     "name": "Indonesia",
-    "carriers": ["Telkomsel", "XL Axiata", "Indosat Ooredoo Hutchison"],
+    "carriers": [
+      "Telkomsel",
+      "XL Axiata",
+      "Indosat Ooredoo Hutchison"
+    ],
     "intro": "Indonesia's big three are Telkomsel, XL Axiata and Indosat — and which one your eSIM uses matters more here than almost anywhere, because Telkomsel's coverage lead grows the further you get from Java and Bali.",
     "coverage": "Jakarta, Bali's south and the main Javanese cities are well covered. Beyond them the archipelago spreads thin: Nusa Penida's cliff sides, Komodo boat routes, rural Lombok and anywhere in eastern Indonesia can drop to nothing — Telkomsel keeps signal longest, which is why locals in remote areas carry it.",
     "tips": [
@@ -146,7 +196,11 @@
   },
   "malaysia": {
     "name": "Malaysia",
-    "carriers": ["Maxis", "CelcomDigi", "U Mobile"],
+    "carriers": [
+      "Maxis",
+      "CelcomDigi",
+      "U Mobile"
+    ],
     "intro": "Malaysia's networks — Maxis, CelcomDigi (merged in 2022) and U Mobile — give strong, cheap connectivity across the peninsula. Travel eSIMs typically ride Maxis or CelcomDigi, and in Kuala Lumpur, Penang and Melaka you will not tell them apart.",
     "coverage": "The west-coast corridor is densely covered; the peninsula's interior (Cameron Highlands' winding roads, Taman Negara's jungle) gets patchy. East Malaysia — Sabah and Sarawak on Borneo — is fine in Kota Kinabalu and Kuching but drops fast in the interior and on dive trips.",
     "tips": [
@@ -158,7 +212,11 @@
   },
   "india": {
     "name": "India",
-    "carriers": ["Reliance Jio", "Airtel", "Vi (Vodafone Idea)"],
+    "carriers": [
+      "Reliance Jio",
+      "Airtel",
+      "Vi (Vodafone Idea)"
+    ],
     "intro": "India runs on three networks — Reliance Jio, Airtel and Vi — with Jio and Airtel far ahead on coverage and speed. Buying a local SIM as a foreigner means passport paperwork and a wait for activation, which is exactly the friction a travel eSIM bought before the trip removes.",
     "coverage": "Cities and towns are strongly covered by Jio and Airtel, and the rail corridors between them mostly hold signal. Remote Himalayan valleys (Ladakh, Spiti), desert stretches of Rajasthan and tribal-belt interiors thin out on every network — and in a few sensitive border regions, connectivity is restricted for everyone.",
     "tips": [
@@ -170,7 +228,10 @@
   },
   "philippines": {
     "name": "Philippines",
-    "carriers": ["Globe", "Smart"],
+    "carriers": [
+      "Globe",
+      "Smart"
+    ],
     "intro": "The Philippines is a two-network country — Globe and Smart — spread across 7,000 islands. Both are solid in Manila, Cebu and the major tourist hubs; across the archipelago their strongholds alternate, so neither wins everywhere.",
     "coverage": "Metro Manila, Cebu City, Boracay, El Nido town and Siargao's main strip are all workable. Between islands and away from town centers, coverage drops quickly: ferry crossings, remote beaches and inland barangays can be dead air, and storms genuinely take towers down for days.",
     "tips": [
@@ -182,7 +243,11 @@
   },
   "turkey": {
     "name": "Turkey",
-    "carriers": ["Turkcell", "Vodafone Turkey", "Türk Telekom"],
+    "carriers": [
+      "Turkcell",
+      "Vodafone Turkey",
+      "Türk Telekom"
+    ],
     "intro": "Turkey's three networks — Turkcell, Vodafone and Türk Telekom — cover the tourist map well, with Turkcell holding the strongest overall reputation. Turkey is not in the EU roaming zone, so a Europe eSIM that carried you through Greece stops paying its way at the border — check for Turkey by name.",
     "coverage": "Istanbul, the Aegean and Mediterranean coasts and Cappadocia's hotel towns are well covered. Central Anatolia's steppe, the east and mountain roads run patchier; underground cisterns, hammams and the Grand Bazaar's vaulted lanes can smother indoor signal.",
     "tips": [
@@ -194,7 +259,11 @@
   },
   "singapore": {
     "name": "Singapore",
-    "carriers": ["Singtel", "StarHub", "M1"],
+    "carriers": [
+      "Singtel",
+      "StarHub",
+      "M1"
+    ],
     "intro": "Singapore's three networks — Singtel, StarHub and M1 — blanket one of the world's most connected cities. Every travel eSIM works well here; there is no coverage strategy to think about, only how much data you want.",
     "coverage": "Coverage is total: full-speed signal in the MRT tunnels, in basements of malls, on Sentosa's beaches and across the entire island. Singapore is the rare destination where the coverage section of this guide has nothing to warn you about.",
     "tips": [
@@ -202,6 +271,23 @@
       "Grab, MRT maps and hawker-centre queues via Google Maps are the daily data uses; nothing here is data-heavy.",
       "Changi sells SIMs efficiently on arrival, but an eSIM means you exit straight to the Jewel waterfall instead of a counter.",
       "Using Singapore as a hub? Consider a regional Asia eSIM covering Singapore + Malaysia + Indonesia in one plan for multi-stop trips."
+    ]
+  },
+  "hong-kong": {
+    "name": "Hong Kong",
+    "carriers": [
+      "CSL",
+      "3 Hong Kong",
+      "SmarTone",
+      "China Mobile Hong Kong"
+    ],
+    "intro": "Hong Kong runs four dense networks — CSL, 3, SmarTone and China Mobile Hong Kong — across one of the most vertically built cities on earth. Any travel eSIM connects without fuss; the thing worth checking is whether your plan also covers mainland China and Macau, because Hong Kong is a separate telecom market and many regional plans stop at the border.",
+    "coverage": "Signal is complete where you will spend your time: full speed in the MTR tunnels and cross-harbour sections, inside mall basements, up on Victoria Peak and along the harbourfront. It thins only on the outlying hiking trails — parts of Lantau's Big Buddha ridge, the Dragon's Back and the far Sai Kung country parks — so download offline maps before a trail day.",
+    "tips": [
+      "Check the small print for mainland China and Macau: Hong Kong plans often exclude both, and a day trip to Shenzhen or the Macau ferry can leave you offline exactly when you need a QR code.",
+      "The MTR is where you will use data most — live exit maps, Octopus top-up checks and messaging while underground all work, so a modest plan goes a long way.",
+      "Google Maps works normally here, unlike across the mainland border; if your itinerary crosses into Shenzhen, save the maps you need while still in Hong Kong.",
+      "Free WiFi is everywhere (malls, MTR stations, cafes, the airport), which cuts how much data you actually buy."
     ]
   }
 }

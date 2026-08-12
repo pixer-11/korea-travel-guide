@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-12",
   "countries": {
     "South Korea": {
       "climate": [
@@ -1031,77 +1031,77 @@
         {
           "m": 1,
           "hi": 7,
-          "lo": 2,
-          "rain": 74
+          "lo": 1,
+          "rain": 64
         },
         {
           "m": 2,
           "hi": 10,
-          "lo": 3,
-          "rain": 54
+          "lo": 2,
+          "rain": 44
         },
         {
           "m": 3,
           "hi": 13,
           "lo": 4,
-          "rain": 71
+          "rain": 70
         },
         {
           "m": 4,
-          "hi": 16,
-          "lo": 6,
-          "rain": 50
+          "hi": 17,
+          "lo": 7,
+          "rain": 65
         },
         {
           "m": 5,
-          "hi": 19,
-          "lo": 10,
-          "rain": 75
+          "hi": 21,
+          "lo": 11,
+          "rain": 95
         },
         {
           "m": 6,
-          "hi": 24,
-          "lo": 14,
-          "rain": 74
+          "hi": 26,
+          "lo": 16,
+          "rain": 87
         },
         {
           "m": 7,
-          "hi": 25,
-          "lo": 15,
-          "rain": 57
+          "hi": 28,
+          "lo": 17,
+          "rain": 65
         },
         {
           "m": 8,
-          "hi": 25,
-          "lo": 15,
-          "rain": 61
+          "hi": 28,
+          "lo": 17,
+          "rain": 55
         },
         {
           "m": 9,
-          "hi": 22,
+          "hi": 24,
           "lo": 13,
-          "rain": 60
+          "rain": 69
         },
         {
           "m": 10,
-          "hi": 17,
+          "hi": 18,
           "lo": 10,
-          "rain": 72
+          "rain": 98
         },
         {
           "m": 11,
           "hi": 11,
           "lo": 5,
-          "rain": 65
+          "rain": 87
         },
         {
           "m": 12,
           "hi": 8,
-          "lo": 3,
-          "rain": 76
+          "lo": 2,
+          "rain": 81
         }
       ],
-      "climateCity": "Paris",
+      "climateCity": "Lyon",
       "climateYears": 10,
       "holidays": [
         {
@@ -1430,78 +1430,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 6,
-          "lo": -4,
-          "rain": 12
+          "hi": 2,
+          "lo": -7,
+          "rain": 2
         },
         {
           "m": 2,
-          "hi": 10,
-          "lo": -1,
-          "rain": 16
+          "hi": 6,
+          "lo": -5,
+          "rain": 6
         },
         {
           "m": 3,
-          "hi": 18,
-          "lo": 5,
-          "rain": 28
+          "hi": 15,
+          "lo": 1,
+          "rain": 10
         },
         {
           "m": 4,
-          "hi": 24,
-          "lo": 11,
-          "rain": 51
+          "hi": 22,
+          "lo": 9,
+          "rain": 19
         },
         {
           "m": 5,
           "hi": 28,
           "lo": 15,
-          "rain": 52
+          "rain": 32
         },
         {
           "m": 6,
-          "hi": 32,
+          "hi": 33,
           "lo": 20,
-          "rain": 81
+          "rain": 61
         },
         {
           "m": 7,
-          "hi": 33,
+          "hi": 32,
           "lo": 23,
-          "rain": 121
+          "rain": 241
         },
         {
           "m": 8,
-          "hi": 33,
-          "lo": 23,
-          "rain": 94
+          "hi": 30,
+          "lo": 22,
+          "rain": 167
         },
         {
           "m": 9,
-          "hi": 26,
+          "hi": 27,
           "lo": 17,
-          "rain": 122
+          "rain": 51
         },
         {
           "m": 10,
-          "hi": 19,
-          "lo": 10,
-          "rain": 81
+          "hi": 18,
+          "lo": 8,
+          "rain": 38
         },
         {
           "m": 11,
-          "hi": 13,
-          "lo": 4,
-          "rain": 25
+          "hi": 10,
+          "lo": 0,
+          "rain": 15
         },
         {
           "m": 12,
-          "hi": 7,
-          "lo": -3,
-          "rain": 8
+          "hi": 3,
+          "lo": -6,
+          "rain": 3
         }
       ],
-      "climateCity": "Xi'an",
+      "climateCity": "Beijing",
       "climateYears": 10,
       "holidays": [
         {
@@ -1570,78 +1570,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 16,
-          "lo": 7,
-          "rain": 50
+          "hi": 14,
+          "lo": 5,
+          "rain": 43
         },
         {
           "m": 2,
-          "hi": 19,
-          "lo": 8,
-          "rain": 35
+          "hi": 15,
+          "lo": 6,
+          "rain": 36
         },
         {
           "m": 3,
-          "hi": 20,
-          "lo": 10,
-          "rain": 103
+          "hi": 16,
+          "lo": 8,
+          "rain": 56
         },
         {
           "m": 4,
-          "hi": 23,
-          "lo": 12,
-          "rain": 55
+          "hi": 18,
+          "lo": 10,
+          "rain": 71
         },
         {
           "m": 5,
-          "hi": 28,
-          "lo": 15,
-          "rain": 30
+          "hi": 21,
+          "lo": 14,
+          "rain": 52
         },
         {
           "m": 6,
-          "hi": 33,
+          "hi": 26,
           "lo": 19,
-          "rain": 10
+          "rain": 33
         },
         {
           "m": 7,
-          "hi": 37,
-          "lo": 22,
-          "rain": 1
+          "hi": 28,
+          "lo": 21,
+          "rain": 37
         },
         {
           "m": 8,
-          "hi": 37,
+          "hi": 29,
           "lo": 22,
-          "rain": 2
+          "rain": 48
         },
         {
           "m": 9,
-          "hi": 32,
-          "lo": 19,
-          "rain": 24
+          "hi": 25,
+          "lo": 18,
+          "rain": 99
         },
         {
           "m": 10,
-          "hi": 27,
-          "lo": 16,
-          "rain": 84
+          "hi": 22,
+          "lo": 15,
+          "rain": 104
         },
         {
           "m": 11,
-          "hi": 20,
-          "lo": 11,
-          "rain": 68
+          "hi": 17,
+          "lo": 9,
+          "rain": 55
         },
         {
           "m": 12,
-          "hi": 17,
-          "lo": 8,
-          "rain": 68
+          "hi": 15,
+          "lo": 6,
+          "rain": 41
         }
       ],
-      "climateCity": "Seville",
+      "climateCity": "Barcelona",
       "climateYears": 10,
       "holidays": [
         {
@@ -2015,9 +2015,9 @@
           "name": "Al-Hijra (Islamic New Year)"
         },
         {
-          "date": "2026-08-26",
-          "localName": "Mouloud (tentative)",
-          "name": "Mouloud (tentative)"
+          "date": "2026-08-28",
+          "localName": "Mouloud",
+          "name": "Mouloud"
         },
         {
           "date": "2026-11-30",
@@ -2147,62 +2147,62 @@
         },
         {
           "m": 3,
-          "hi": 23,
+          "hi": 22,
           "lo": 15,
           "rain": 117
         },
         {
           "m": 4,
           "hi": 26,
-          "lo": 19,
+          "lo": 18,
           "rain": 138
         },
         {
           "m": 5,
-          "hi": 29,
+          "hi": 28,
           "lo": 22,
           "rain": 229
         },
         {
           "m": 6,
           "hi": 31,
-          "lo": 25,
+          "lo": 24,
           "rain": 254
         },
         {
           "m": 7,
           "hi": 33,
-          "lo": 26,
+          "lo": 25,
           "rain": 166
         },
         {
           "m": 8,
-          "hi": 33,
-          "lo": 26,
+          "hi": 32,
+          "lo": 25,
           "rain": 157
         },
         {
           "m": 9,
           "hi": 31,
-          "lo": 25,
+          "lo": 24,
           "rain": 220
         },
         {
           "m": 10,
-          "hi": 28,
+          "hi": 27,
           "lo": 22,
           "rain": 207
         },
         {
           "m": 11,
-          "hi": 25,
-          "lo": 20,
+          "hi": 24,
+          "lo": 19,
           "rain": 77
         },
         {
           "m": 12,
           "hi": 20,
-          "lo": 16,
+          "lo": 15,
           "rain": 73
         }
       ],
@@ -2700,78 +2700,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 30,
-          "lo": 23,
-          "rain": 203
+          "hi": 21,
+          "lo": 15,
+          "rain": 223
         },
         {
           "m": 2,
-          "hi": 31,
-          "lo": 22,
+          "hi": 22,
+          "lo": 15,
           "rain": 134
         },
         {
           "m": 3,
-          "hi": 31,
-          "lo": 23,
-          "rain": 206
+          "hi": 23,
+          "lo": 15,
+          "rain": 155
         },
         {
           "m": 4,
-          "hi": 31,
-          "lo": 24,
-          "rain": 310
+          "hi": 23,
+          "lo": 16,
+          "rain": 205
         },
         {
           "m": 5,
-          "hi": 31,
-          "lo": 24,
-          "rain": 328
+          "hi": 23,
+          "lo": 16,
+          "rain": 196
         },
         {
           "m": 6,
-          "hi": 31,
-          "lo": 24,
-          "rain": 224
+          "hi": 22,
+          "lo": 16,
+          "rain": 173
         },
         {
           "m": 7,
-          "hi": 31,
-          "lo": 24,
-          "rain": 174
+          "hi": 22,
+          "lo": 15,
+          "rain": 155
         },
         {
           "m": 8,
-          "hi": 31,
-          "lo": 23,
-          "rain": 241
+          "hi": 22,
+          "lo": 15,
+          "rain": 215
         },
         {
           "m": 9,
-          "hi": 31,
-          "lo": 23,
-          "rain": 285
+          "hi": 22,
+          "lo": 15,
+          "rain": 219
         },
         {
           "m": 10,
-          "hi": 30,
-          "lo": 23,
-          "rain": 346
+          "hi": 22,
+          "lo": 15,
+          "rain": 268
         },
         {
           "m": 11,
-          "hi": 29,
-          "lo": 23,
-          "rain": 394
+          "hi": 21,
+          "lo": 15,
+          "rain": 338
         },
         {
           "m": 12,
-          "hi": 29,
-          "lo": 23,
-          "rain": 274
+          "hi": 21,
+          "lo": 15,
+          "rain": 283
         }
       ],
-      "climateCity": "Ipoh",
+      "climateCity": "Cameron Highlands",
       "climateYears": 10,
       "holidays": [
         {
@@ -3910,7 +3910,7 @@
         },
         {
           "m": 6,
-          "hi": 26,
+          "hi": 27,
           "lo": 18,
           "rain": 48
         },
@@ -3923,12 +3923,12 @@
         {
           "m": 8,
           "hi": 29,
-          "lo": 21,
+          "lo": 22,
           "rain": 20
         },
         {
           "m": 9,
-          "hi": 25,
+          "hi": 26,
           "lo": 18,
           "rain": 43
         },
@@ -4283,6 +4283,256 @@
           "date": "2027-12-25",
           "localName": "Christmas Day",
           "name": "Christmas Day"
+        }
+      ]
+    },
+    "Hong Kong": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 20,
+          "lo": 13,
+          "rain": 44
+        },
+        {
+          "m": 2,
+          "hi": 21,
+          "lo": 14,
+          "rain": 43
+        },
+        {
+          "m": 3,
+          "hi": 23,
+          "lo": 17,
+          "rain": 96
+        },
+        {
+          "m": 4,
+          "hi": 26,
+          "lo": 21,
+          "rain": 156
+        },
+        {
+          "m": 5,
+          "hi": 28,
+          "lo": 24,
+          "rain": 235
+        },
+        {
+          "m": 6,
+          "hi": 30,
+          "lo": 26,
+          "rain": 349
+        },
+        {
+          "m": 7,
+          "hi": 31,
+          "lo": 27,
+          "rain": 261
+        },
+        {
+          "m": 8,
+          "hi": 30,
+          "lo": 26,
+          "rain": 404
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 26,
+          "rain": 286
+        },
+        {
+          "m": 10,
+          "hi": 28,
+          "lo": 22,
+          "rain": 144
+        },
+        {
+          "m": 11,
+          "hi": 25,
+          "lo": 19,
+          "rain": 71
+        },
+        {
+          "m": 12,
+          "hi": 21,
+          "lo": 14,
+          "rain": 15
+        }
+      ],
+      "climateCity": "Hong Kong",
+      "climateYears": 10,
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "元旦新年",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-02-17",
+          "localName": "農曆年初一",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2026-02-18",
+          "localName": "農曆年初二",
+          "name": "Second day of Lunar New Year"
+        },
+        {
+          "date": "2026-02-19",
+          "localName": "農曆年初三",
+          "name": "Third day of Lunar New Year"
+        },
+        {
+          "date": "2026-04-03",
+          "localName": "耶穌受難節",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2026-04-04",
+          "localName": "耶穌受難節翌日",
+          "name": "Holy Saturday"
+        },
+        {
+          "date": "2026-04-06",
+          "localName": "清明節",
+          "name": "Ching Ming Festival"
+        },
+        {
+          "date": "2026-04-07",
+          "localName": "復活節星期一",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "勞動節",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-25",
+          "localName": "佛誕",
+          "name": "Buddha's Birthday"
+        },
+        {
+          "date": "2026-06-19",
+          "localName": "端午節",
+          "name": "Dragon Boat Festival"
+        },
+        {
+          "date": "2026-07-01",
+          "localName": "香港特別行政區成立紀念日",
+          "name": "Hong Kong Special Administrative Region Establishment Day"
+        },
+        {
+          "date": "2026-09-26",
+          "localName": "中秋節翌日",
+          "name": "Day following the Mid-Autumn Festival"
+        },
+        {
+          "date": "2026-10-01",
+          "localName": "中華人民共和國國慶日",
+          "name": "National Day"
+        },
+        {
+          "date": "2026-10-19",
+          "localName": "重陽節",
+          "name": "Chung Yeung Festival"
+        },
+        {
+          "date": "2026-12-25",
+          "localName": "聖誕節",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2026-12-26",
+          "localName": "聖誕節翌日",
+          "name": "Boxing Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "元旦新年",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-02-06",
+          "localName": "農曆年初一",
+          "name": "Lunar New Year"
+        },
+        {
+          "date": "2027-02-08",
+          "localName": "農曆年初二",
+          "name": "Second day of Lunar New Year"
+        },
+        {
+          "date": "2027-02-09",
+          "localName": "農曆年初三",
+          "name": "Third day of Lunar New Year"
+        },
+        {
+          "date": "2027-03-26",
+          "localName": "耶穌受難節",
+          "name": "Good Friday"
+        },
+        {
+          "date": "2027-03-27",
+          "localName": "耶穌受難節翌日",
+          "name": "Holy Saturday"
+        },
+        {
+          "date": "2027-03-29",
+          "localName": "復活節星期一",
+          "name": "Easter Monday"
+        },
+        {
+          "date": "2027-04-05",
+          "localName": "清明節",
+          "name": "Ching Ming Festival"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "勞動節",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-13",
+          "localName": "佛誕",
+          "name": "Buddha's Birthday"
+        },
+        {
+          "date": "2027-06-09",
+          "localName": "端午節",
+          "name": "Dragon Boat Festival"
+        },
+        {
+          "date": "2027-07-01",
+          "localName": "香港特別行政區成立紀念日",
+          "name": "Hong Kong Special Administrative Region Establishment Day"
+        },
+        {
+          "date": "2027-09-16",
+          "localName": "中秋節翌日",
+          "name": "Day following the Mid-Autumn Festival"
+        },
+        {
+          "date": "2027-10-01",
+          "localName": "中華人民共和國國慶日",
+          "name": "National Day"
+        },
+        {
+          "date": "2027-10-08",
+          "localName": "重陽節",
+          "name": "Chung Yeung Festival"
+        },
+        {
+          "date": "2027-12-25",
+          "localName": "聖誕節",
+          "name": "Christmas Day"
+        },
+        {
+          "date": "2027-12-27",
+          "localName": "聖誕節翌日",
+          "name": "Boxing Day"
         }
       ]
     }

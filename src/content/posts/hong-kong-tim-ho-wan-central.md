@@ -1,7 +1,7 @@
 ---
 title: 'Tim Ho Wan (Central): Where to Eat in Hong Kong'
 description: Tim Ho Wan in Central sits inside the Hong Kong Station MTR concourse (Shop 12A & 12B, Level 1), open daily 9am–9pm, so you can eat before or after the Airport Express without ever surfacing into the street.
-country: China
+country: "Hong Kong"
 region: Hong Kong
 category: restaurant
 pubDate: '2026-08-02T09:37:13.741Z'

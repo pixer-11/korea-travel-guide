@@ -101,6 +101,108 @@
     "zh": "圣灵降临节星期一",
     "es": "Lunes de Pentecostés"
   },
+  "Hong Kong|Boxing Day": {
+    "ko": "크리스마스 다음날",
+    "ja": "クリスマスの翌日",
+    "es": "San Esteban",
+    "zh": "圣诞节翌日"
+  },
+  "Hong Kong|Buddha's Birthday": {
+    "ko": "석가탄신일",
+    "ja": "灌仏会",
+    "es": "Cumpleaños de Buda",
+    "zh": "佛诞"
+  },
+  "Hong Kong|Ching Ming Festival": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Festival de Qingming",
+    "zh": "清明节"
+  },
+  "Hong Kong|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Hong Kong|Chung Yeung Festival": {
+    "ko": "중양절",
+    "ja": "重陽節",
+    "es": "Festival de Chung Yeung",
+    "zh": "重阳节"
+  },
+  "Hong Kong|Day following the Mid-Autumn Festival": {
+    "ko": "추석 다음날",
+    "ja": "中秋節翌日",
+    "es": "Día siguiente al Festival del Medio Otoño",
+    "zh": "中秋节翌日"
+  },
+  "Hong Kong|Dragon Boat Festival": {
+    "ko": "단오절",
+    "ja": "端午節",
+    "es": "Festival del Barco del Dragón",
+    "zh": "端午节"
+  },
+  "Hong Kong|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "Hong Kong|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Hong Kong|Holy Saturday": {
+    "ko": "성토요일",
+    "ja": "聖土曜日",
+    "es": "Sábado Santo",
+    "zh": "耶稣受难日翌日"
+  },
+  "Hong Kong|Hong Kong Special Administrative Region Establishment Day": {
+    "ko": "홍콩 특별행정구 수립기념일",
+    "ja": "香港特別行政区成立記念日",
+    "es": "Día del Establecimiento de la Región Administrativa Especial de Hong Kong",
+    "zh": "香港特别行政区成立纪念日"
+  },
+  "Hong Kong|Labour Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Hong Kong|Lunar New Year": {
+    "ko": "음력 설",
+    "ja": "旧正月",
+    "es": "Año Nuevo chino",
+    "zh": "农历新年"
+  },
+  "Hong Kong|National Day": {
+    "ko": "중국 국경절",
+    "ja": "国慶節",
+    "es": "Día Nacional de China",
+    "zh": "国庆日"
+  },
+  "Hong Kong|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Hong Kong|Second day of Lunar New Year": {
+    "ko": "음력 설 둘째 날",
+    "ja": "旧正月二日目",
+    "es": "Segundo día del Año Nuevo chino",
+    "zh": "农历年初二"
+  },
+  "Hong Kong|Third day of Lunar New Year": {
+    "ko": "음력 설 셋째 날",
+    "ja": "旧正月三日目",
+    "es": "Tercer día del Año Nuevo chino",
+    "zh": "农历年初三"
+  },
   "India|Ambedkar Jayanti": {
     "ko": "암베드카르 자얀티",
     "ja": "アンベードカル・ジャヤンティ",
@@ -1840,6 +1942,12 @@
     "ja": "ライラト・アル・ミーラージュ",
     "es": "Isra y Miraj",
     "zh": "登霄夜"
+  },
+  "United Arab Emirates|Mouloud": {
+    "ko": "마울리드",
+    "ja": "マウリド",
+    "es": "Mawlid",
+    "zh": "圣纪节"
   },
   "United Arab Emirates|Mouloud (tentative)": {
     "ko": "마울리드",

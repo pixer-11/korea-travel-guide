@@ -1,7 +1,7 @@
 ---
 title: "Nan Lian Garden: Hong Kong Travel Guide (4.6★)"
 description: "Nan Lian Garden, next to Chi Lin Nunnery in Diamond Hill, is a Tang Dynasty-style park of gold-hued halls, black timber pavilions and a waterfall-fed lotus pond — free to enter and open daily 7am–9pm. 4.6★ (2,725 reviews) — what visitors say, hours, and tips."
-country: "China"
+country: "Hong Kong"
 region: "Hong Kong"
 category: "hidden-gem"
 pubDate: "2026-08-03T11:04:49.740Z"

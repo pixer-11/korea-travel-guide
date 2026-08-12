@@ -729,5 +729,48 @@
       ]
     },
     "_srcHash": "8da2b4e5947d7e19"
+  },
+  "hong-kong": {
+    "ko": {
+      "intro": "홍콩에는 CSL, 3, SmarTone, China Mobile Hong Kong이라는 4개의 촘촘한 통신망이 이 세계에서 가장 수직적으로 발달한 도시 곳곳을 뒤덮고 있습니다. 여행용 eSIM이라면 어떤 것을 선택해도 별문제 없이 연결되지만, 정말 확인해야 할 것은 요금제가 중국 본토와 마카오까지 커버하는지입니다. 홍콩은 별도의 통신 시장이라서, 많은 지역 통합 요금제가 국경에서 끊기는 경우가 많기 때문입니다.",
+      "coverage": "여행자가 주로 머무는 곳이라면 신호는 완벽합니다. MTR 터널이나 해저 구간에서도 완전한 속도가 나오고, 쇼핑몰 지하층, 빅토리아 피크, 하버프론트 일대까지 문제없습니다. 신호가 약해지는 곳은 외곽 트레킹 코스인데, 란타우섬 대불(빅 붓다) 인근 능선 일부, 드래곤스 백, 그리고 멀리 떨어진 사이쿵 컨트리 파크 일부 구간이 그렇습니다. 그러니 트레킹 하는 날에는 미리 오프라인 지도를 받아두세요.",
+      "tips": [
+        "중국 본토와 마카오 관련 약관을 꼭 확인하세요: 홍콩 요금제는 흔히 두 지역 모두를 제외하는 경우가 많아서, 선전 당일치기나 마카오행 페리를 이용할 때 정작 QR코드가 필요한 순간에 오프라인 상태가 될 수 있습니다.",
+        "데이터를 가장 많이 쓰게 되는 곳은 MTR입니다. 실시간 출구 지도 확인, 옥토퍼스 카드 충전 조회, 지하에서의 메시지 송수신 모두 잘 작동하니, 소용량 요금제만으로도 충분합니다.",
+        "구글 맵은 이곳에서는 정상적으로 작동합니다. 중국 본토 국경을 넘어가면 상황이 다르므로, 선전으로 이동하는 일정이 있다면 홍콩에 있을 때 필요한 지도를 미리 저장해두세요.",
+        "무료 와이파이는 어디에서나 이용할 수 있습니다(쇼핑몰, MTR 역, 카페, 공항 등). 이 덕분에 실제로 구매해야 하는 데이터 용량이 훨씬 줄어듭니다."
+      ]
+    },
+    "ja": {
+      "intro": "香港では、CSL、3、SmarTone、China Mobile Hong Kongという4つの密なネットワークが、地球上でも屈指の高層都市を縦横に走っています。旅行者向けeSIMならどれを選んでも問題なく接続できますが、確認しておきたいのはそのプランが中国本土やマカオもカバーしているかどうかです。香港は独立した通信市場であり、多くの広域プランが香港との境界で通信対象外になってしまうことがあるためです。",
+      "coverage": "旅行者が実際に過ごす場所では通信環境は万全です。MTR(地下鉄)のトンネル内や海底トンネル区間、モールの地下、ヴィクトリア・ピーク、そしてハーバーフロント沿いでもフルスピードで通信できます。電波が弱くなるのは郊外のハイキングコース――ランタオ島の大仏がある山稜の一部、ドラゴンズ・バック、そして西貢(サイクン)の奥にある郊野公園などです。トレッキングに出かける日は事前にオフライン地図をダウンロードしておきましょう。",
+      "tips": [
+        "中国本土やマカオのカバー範囲について、契約前に必ず細則を確認してください。香港向けプランはこれらのエリアを対象外としていることが多く、深圳への日帰り旅行やマカオ行きのフェリーに乗る際、QRコードが必要な瞬間にオフラインになってしまうことがあります。",
+        "データ通信を最も利用するのはMTR車内です。リアルタイムの出口案内図の確認、オクトパスカードの残高チェック、地下でのメッセージ送受信などはすべて問題なく機能するので、控えめなプランでも十分役立ちます。",
+        "本土側の国境を越えるとGoogleマップは通常通り使えなくなりますが、香港国内では問題なく利用できます。深圳方面へ移動する予定がある場合は、香港にいる間に必要な地図を保存しておきましょう。",
+        "モール、MTRの駅、カフェ、空港など、無料WiFiは至る所にあります。これにより、実際に購入すべきデータ通信量を抑えることができます。"
+      ]
+    },
+    "es": {
+      "intro": "Hong Kong opera cuatro redes densas —CSL, 3, SmarTone y China Mobile Hong Kong— a lo largo de una de las ciudades más verticales del planeta. Cualquier eSIM de viaje se conecta sin complicaciones; lo que vale la pena revisar es si tu plan también cubre la China continental y Macao, ya que Hong Kong es un mercado de telecomunicaciones independiente y muchos planes regionales se detienen en la frontera.",
+      "coverage": "La señal es completa en las zonas donde pasarás la mayor parte del tiempo: velocidad total en los túneles del MTR y en los tramos que cruzan el puerto, dentro de los sótanos de los centros comerciales, arriba en Victoria Peak y a lo largo del paseo marítimo. Solo se debilita en las rutas de senderismo más alejadas —partes de la cresta del Buda Gigante en Lantau, el Dragon's Back y los parques rurales más remotos de Sai Kung—, así que descarga los mapas sin conexión antes de un día de excursión.",
+      "tips": [
+        "Revisa la letra pequeña respecto a la China continental y Macao: los planes de Hong Kong suelen excluir ambos destinos, y una excursión de un día a Shenzhen o el ferry a Macao puede dejarte sin conexión justo cuando necesitas un código QR.",
+        "El MTR es donde más usarás datos —mapas de salidas en tiempo real, verificación de saldo de la Octopus y mensajería mientras viajas bajo tierra funcionan sin problema—, así que un plan modesto rinde bastante.",
+        "Google Maps funciona con normalidad aquí, a diferencia de la China continental; si tu itinerario te lleva a Shenzhen, guarda los mapas que necesites mientras aún estés en Hong Kong.",
+        "El WiFi gratuito está por todas partes (centros comerciales, estaciones del MTR, cafeterías, el aeropuerto), lo que reduce la cantidad de datos que realmente necesitas comprar."
+      ]
+    },
+    "zh": {
+      "intro": "香港有四大密集网络——CSL、3、SmarTone 和中国移动香港——覆盖着地球上垒得最密集的城市之一。市面上任何一款旅行 eSIM 都能顺畅连接;真正值得留意的是你的套餐是否也覆盖中国内地和澳门,因为香港是一个独立的电信市场,许多区域性套餐一到边境就失效。",
+      "coverage": "在你实际活动的区域,信号是全覆盖的:港铁隧道和过海路段全程满速,商场地下层、太平山顶以及维港海滨都没问题。信号只会在郊野的行山径上变弱——比如大屿山天坛大佛所在山脊的部分路段、龙脊,以及西贡偏远的郊野公园——所以出发行山前记得先下载离线地图。",
+      "tips": [
+        "仔细看清套餐细则中关于中国内地和澳门的部分:香港套餐往往两者都不包含,如果当天来一趟深圳一日游或搭船去澳门,恰好需要扫二维码时可能就断网了。",
+        "港铁是你用流量最多的地方——实时出口地图、八达通充值查询、地下通讯用消息聊天,全都用得上,所以一个不大的套餐就能撑很久。",
+        "这里 Google Maps 可以正常使用,跟过了内地边境完全不同;如果你的行程会进入深圳,记得还在香港时就把需要的地图先保存好。",
+        "免费 WiFi 到处都有(商场、港铁站、咖啡馆、机场),这能大大减少你实际需要购买的流量。"
+      ]
+    },
+    "_srcHash": "c47ab846736f29a0"
   }
 }

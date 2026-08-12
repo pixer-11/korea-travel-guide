@@ -18,7 +18,7 @@ import './lib/env.mjs'; // MUST be first — loads .env before other modules rea
 import { makeTitle, makePlacelessTitle } from './lib/titles.mjs';
 import { clip, withRatingSignal } from './lib/serp.mjs';
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -619,7 +619,20 @@ const COUNTRY_LANG = {
   Malaysia: 'ms', Turkey: 'tr',
   'United States': null, 'United Arab Emirates': null, India: null,
   Philippines: null, Singapore: null,
+  // Cantonese + English are both official and reviews arrive in both, so an
+  // English review is not evidence of a tourist — same reasoning as Singapore.
+  'Hong Kong': null,
 };
+// This map is hand-maintained while data/countries.json is the source of truth
+// for which countries exist — so a NEW country silently gets `undefined` and
+// the locals'-favourite signal just turns off, with nothing saying so (that is
+// exactly how Hong Kong shipped its first five posts). One line per run, only
+// when something is actually missing.
+try {
+  const { countries: allCountries } = JSON.parse(readFileSync(fileURLToPath(new URL('../data/countries.json', import.meta.url)), 'utf8'));
+  const unmapped = allCountries.filter((c) => c.active && !(c.name in COUNTRY_LANG)).map((c) => c.name);
+  if (unmapped.length) console.warn(`⚠️  COUNTRY_LANG has no entry for: ${unmapped.join(', ')} — locals'-favourite detection is OFF there (add ISO 639-1 code or null to the map above)`);
+} catch { /* countries.json unreadable → the publish itself will fail loudly elsewhere */ }
 
 // Turn raw Places metadata (review LANGUAGES + star counts, text discarded) into
 // honest booleans the writer must obey. Every "hidden gem / locals' favourite"
