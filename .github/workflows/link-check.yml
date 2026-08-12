@@ -36,9 +36,25 @@ jobs:
           # rewriting the production origin onto it is what makes those links
           # resolve to the build being tested; the skip then keeps only what is
           # genuinely off-site.
-          npx --yes serve dist -p 8673 --no-clipboard --single=false > /tmp/serve.log 2>&1 &
+          # `serve` takes --single as a BOOLEAN flag, so `--single=false` turned
+          # SPA mode ON, not off (2026-08-11). In SPA mode every path returns
+          # index.html with 200: no 404 can ever be observed, so "0 broken" was
+          # guaranteed regardless of the site, and the crawl stopped after the
+          # home page's 93 links because every URL it followed served that same
+          # page and added no new links. Omitting the flag entirely is the only
+          # way to get plain static serving.
+          npx --yes serve dist -p 8673 --no-clipboard > /tmp/serve.log 2>&1 &
           for i in $(seq 1 30); do curl -sf -o /dev/null http://localhost:8673/ && break; sleep 1; done
           curl -sf -o /dev/null http://localhost:8673/ || { echo "::error::static server never came up"; cat /tmp/serve.log; exit 1; }
+
+          # Canary: a server that answers 200 for a path that cannot exist makes
+          # the whole check meaningless — it can only ever report "clean". Prove
+          # the server can say 404 BEFORE trusting anything it says afterwards.
+          canary=$(curl -s -o /dev/null -w '%{http_code}' "http://localhost:8673/__linkcheck-canary-404__/")
+          if [ "$canary" != "404" ]; then
+            echo "::error::static server answered $canary (not 404) for a nonexistent path — it is serving a fallback page for everything, so this crawl cannot detect broken links"
+            exit 1
+          fi
 
           # No --silent: it drops PASSING links from the csv as well as the
           # console, which left `total` counting only failures. Between that and
@@ -77,23 +93,32 @@ jobs:
           # sampled returns 200 when fetched on its own. Rolling the two
           # together is how "110 broken links" hid the single genuine 404
           # underneath it.
-          broken=$(awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {c++} END{print c+0}' /tmp/links.csv)
-          unreached=$(awk -F, 'NR>1 && $3=="BROKEN" && $2==0 {c++} END{print c+0}' /tmp/links.csv)
-          total=$(awk -F, 'NR>1 {c++} END{print c+0}' /tmp/links.csv)
+          # Counted by UNIQUE url, not by occurrence. linkinator emits one row
+          # per place a link appears, and this site links a handful of things
+          # (sitemap, logo, nav) from all 7,500 pages — so a single missing file
+          # reads as "1,102 broken links" and buries anything else, the same way
+          # the /go/klook rows used to. One bad url is one problem.
+          broken=$(awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {print $1}' /tmp/links.csv | sort -u | wc -l)
+          unreached=$(awk -F, 'NR>1 && $3=="BROKEN" && $2==0 {print $1}' /tmp/links.csv | sort -u | wc -l)
+          total=$(awk -F, 'NR>1 {print $1}' /tmp/links.csv | sort -u | wc -l)
           echo "broken=$broken" >> "$GITHUB_OUTPUT"
           echo "unreached=$unreached" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
           # A crawl that examined nothing is a broken crawl, not a clean site.
           # Reporting "all good" on an empty result set is how this hid for
           # weeks — the number of links checked has to be part of the verdict.
-          if [ "$total" -lt 100 ]; then
-            echo "::error::crawl examined only $total link(s) — the crawler is not reading the site"
+          # The floor is 1,000 because the two ways this has actually failed
+          # both land far below it: 0 urls (crawl never ran) and 94 (home page
+          # only, when every path served the same fallback html). A healthy
+          # crawl of this site reads tens of thousands.
+          if [ "$total" -lt 1000 ]; then
+            echo "::error::crawl examined only $total url(s) — the crawler is not reading the site"
             exit 1
           fi
-          # First 12 broken URLs for the report.
+          # First 12 broken URLs for the report, one line per url.
           {
             echo "list<<EOF_LIST"
-            awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {print $2" "$1}' /tmp/links.csv | head -12
+            awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {print $2" "$1}' /tmp/links.csv | sort -u | head -12
             echo "EOF_LIST"
           } >> "$GITHUB_OUTPUT"
 
