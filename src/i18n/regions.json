@@ -5705,6 +5705,11 @@
       "blurb": "朱美拉棕榈岛（Palm Jumeirah）是迪拜海岸边一座巨型棕榈树造型的人工岛，外围环绕着一道弧形防波堤，岛上遍布豪华度假酒店、私人海滩和临海别墅。岛上最受镜头青睐的标志性设施是架空的棕榈单轨列车（Palm Monorail），列车沿着\"树干\"主干道缓缓滑行，乘客可一路饱览这座人工群岛以及远处迪拜天际线的壮丽景色。",
       "getting": "大多数游客会先飞抵迪拜国际机场（DXB），再乘出租车或预订专车前往朱美拉棕榈岛，视路况而定，车程约25-35分钟。如果想省钱，也可以先搭乘迪拜地铁红线（Dubai Metro Red Line）到Al Khail站或Dubai Internet City站，再换乘迪拜有轨电车（Dubai Tram），最后在Palm Gateway站换乘棕榈单轨列车。由于目前没有地铁或电车可以直接开上棕榈岛本岛，最后一段路程必须依靠单轨列车或出租车来完成。",
       "days": "如果只是想体验一趟单轨列车全程、逛逛Nakheel购物中心（Nakheel Mall）或Al Ittihad公园，再到亚特兰蒂斯水上乐园（Atlantis Aquaventure）玩上一天，半天到一天的时间就足够了；但如果想不慌不忙地享受海滩度假村和临海餐厅的悠闲时光，建议安排2-3天，体验会更加从容惬意。"
+    },
+    "ja": {
+      "blurb": "パーム・ジュメイラは、ドバイ沖に浮かぶ巨大なヤシの木の形をした人工島で、三日月形の防波堤に囲まれ、高級リゾートやプライベートビーチ、水辺に建つヴィラが立ち並んでいます。最も写真映えするのは高架式のパーム・モノレールで、島の幹の部分を走り抜けながら、この人工群島とその先に広がるドバイのスカイラインを一望できるパノラマビューを楽しめます。",
+      "getting": "多くの旅行者はドバイ国際空港(DXB)に到着し、そこからタクシーまたは専用送迎車でパーム・ジュメイラへ向かいます(道路状況にもよりますが、所要時間はおよそ25〜35分)。予算を抑えたい場合は、ドバイメトロのレッドラインでアル・カイル駅またはドバイ・インターネット・シティ駅まで行き、そこからドバイ・トラムに乗り換え、さらにパーム・ゲートウェイ駅でパーム・モノレールに乗り継ぐ方法もあります。島内へ直接乗り入れる地下鉄やトラムの路線はないため、最後の区間はモノレール(またはタクシー)を利用する必要があります。",
+      "days": "モノレールで島を端から端まで乗り通し、ナキール・モールやアル・イッティハド・パークを訪れ、アトランティス・アクアベンチャーでのんびり過ごすだけなら、半日から1日あれば十分です。ただし、ビーチリゾートや水辺のダイニングを慌ただしくなく満喫したいなら、2〜3日滞在するのがおすすめです。"
     }
   },
   "Puerto Princesa": {
@@ -5911,6 +5916,11 @@
       "blurb": "Alanya es una localidad turística en la costa mediterránea del sur de Turquía, coronada por una fortaleza. Su castillo de la época selyúcida y la Torre Roja dominan una península de playas de arena y un concurrido puerto deportivo. De ser un antiguo puerto comercial, ha pasado a convertirse en uno de los mayores destinos de vacaciones \"todo incluido\" de Turquía, combinando ruinas milenarias con una animada franja turística repleta de beach clubs.",
       "getting": "La mayoría de los viajeros llega al aeropuerto de Gazipaşa-Alanya (GZP), situado a unos 40 km al este de la ciudad (~45 minutos en shuttle o taxi). Sin embargo, muchos vuelos chárter internacionales y vuelos regulares utilizan en su lugar el aeropuerto de Antalya (AYT), más grande y ubicado a unos 125-135 km, desde donde los traslados o autobuses tardan entre 2 y 2,5 horas. Alanya no cuenta con conexión ferroviaria, por lo que el trayecto desde cualquiera de los dos aeropuertos se realiza por carretera, ya sea en autobús lanzadera, traslado privado o taxi.",
       "days": "Se recomienda dedicar entre 3 y 4 días para recorrer los principales atractivos de Alanya, como el Castillo de Alanya, el puerto y las playas más destacadas, o bien una semana o más si se utiliza como base para unas vacaciones de playa completas en la costa."
+    },
+    "zh": {
+      "blurb": "阿兰亚是位于土耳其地中海南岸的一座度假小镇，山顶古堡巍然矗立，与红塔一同俯瞰着一片拥有沙滩和繁忙游艇码头的半岛。这座历史悠久的港口小城如今已发展成为土耳其最热门的度假胜地之一，古迹遗址与热闹的沙滩俱乐部式旅游街区在此交相辉映。",
+      "getting": "大多数游客选择飞往加济帕夏-阿兰亚机场（GZP），该机场位于市区以东约40公里处（乘班车或出租车约需45分钟）。不过，许多国际包机和定期航班则更多选择规模更大的安塔利亚机场（AYT），距市区约125-135公里，乘接驳车或大巴前往市区约需2-2.5小时。由于阿兰亚没有铁路线路，无论从哪个机场出发，后续行程都需依靠公路交通，包括班车、私人接送或出租车。",
+      "days": "若只想游览阿兰亚的核心景点，如阿兰亚城堡、港口和主要海滩，安排3-4天即可；但若打算以此为据点，享受一整段悠闲的海滨度假时光，则建议停留一周或更久。"
     }
   },
   "Amritsar": {
@@ -5933,6 +5943,11 @@
       "blurb": "阿姆利则是锡克教的精神中心,金光璀璨的金庙(哈曼迪尔·萨希卜圣殿)便坐落于此,其免费社区厨房每天为数万人提供餐食。城外还有瓦格-阿塔里边境的夜间降旗仪式,为这座浸润着历史与旁遮普饮食文化的城市增添了一份充满戏剧张力的爱国氛围。",
       "getting": "大多数旅客会飞抵距市中心约11公里的斯里古鲁拉姆达斯国际机场(ATQ),该机场有直飞海湾地区、英国和东南亚的国际航班,国内航班也十分频繁。阿姆利则火车站(站点代码ASR)位于德里—阿姆利则铁路干线上,从德里出发,车程约需6至8小时,具体视列车而定。",
       "days": "大约两天时间便足以游览主要景点——金庙建筑群(最好在黎明和夜幕降临后前往)、贾利安瓦拉园、老城集市,以及傍晚前往瓦格边境观看降旗仪式。"
+    },
+    "ko": {
+      "blurb": "암리차르는 시크교의 영적 중심지로, 눈부시게 빛나는 황금사원(스리 하르만디르 사히브)을 중심으로 형성된 도시입니다. 이곳의 무료 공동 주방에서는 매일 수만 명의 사람들에게 식사를 제공합니다. 도시 외곽에서는 매일 밤 와가-아타리 국경에서 열리는 국기 하강식이 열려, 역사와 펀자브 음식 문화가 가득한 여행에 한 편의 드라마 같은 애국심을 더해줍니다.\",\"getting\":\"대부분의 여행객은 스리 구루 람 다스 지 국제공항(ATQ)을 이용해 입국하는데, 시내 중심가에서 약 11km 떨어져 있으며 걸프 지역, 영국, 동남아시아를 잇는 직항 노선과 국내선도 자주 운항됩니다. 암리차르 정션(역 코드 ASR)은 델리-암리차르 본선에 위치해 있으며, 델리에서 열차로 약 6~8시간이 소요됩니다(열차 종류에 따라 다름).",
+      "getting": "대부분의 여행객은 스리 구루 람 다스 지 국제공항(ATQ)을 이용해 입국하는데, 시내 중심가에서 약 11km 떨어져 있으며 걸프 지역, 영국, 동남아시아를 잇는 직항 노선과 국내선도 자주 운항됩니다. 암리차르 정션(역 코드 ASR)은 델리-암리차르 본선에 위치해 있으며, 델리에서 열차로 약 6~8시간이 소요됩니다(열차 종류에 따라 다름).",
+      "days": "핵심 명소를 둘러보는 데는 약 2일이면 충분합니다 — 황금사원 단지(가급적 새벽과 해가 진 후에 방문), 잘리안왈라 바그, 구시가지 시장, 그리고 저녁에는 와가 국경 의식을 보러 다녀오는 일정입니다."
     }
   },
   "Austin": {
@@ -6117,6 +6132,450 @@
       "blurb": "三亚是中国最南端的热带滨海度假城市,坐落于海南岛,四季温暖湿润,以椰林环绕的沙滩和绚丽的珊瑚礁闻名遐迩。如今,三亚已成为国内首屈一指的海滨度假胜地,豪华度假酒店、免税购物与近郊葱郁的山林交相辉映,魅力十足。",
       "getting": "大多数游客选择飞抵三亚凤凰国际机场(SYX),该机场距市区仅数公里,并与国内各大城市通航便捷。三亚同时也是海南环岛高铁的南端终点站,高铁班次密集,可轻松直达海口及岛内其他城市。",
       "days": "建议安排约3-5天的行程,从容游览三亚的主要海滩,顺道探访周边几处风景名胜,再留些时间逛逛市区和免税店,不必匆忙赶路。"
+    }
+  },
+  "Bocaue": {
+    "en": {
+      "blurb": "Bocaue, a bustling municipality in Bulacan just north of Metro Manila, is best known as the \"Fireworks Capital of the Philippines,\" with workshops along the Bocaue River producing pyrotechnics for festivals nationwide. The town's spiritual heart beats loudest during its centuries-old river festival honoring the Holy Cross of Wawa, when a decorated pagoda glides down the Bocaue River amid crowds and celebration.",
+      "getting": "The nearest major airport is Manila's Ninoy Aquino International Airport (MNL), roughly 21 miles (~34 km) to the south; most travellers reach Bocaue by road via the North Luzon Expressway (NLEX) or MacArthur Highway, using buses, vans, or jeepneys from Metro Manila hubs. No dedicated rail line currently serves the town, though a future station along the planned Clark-bound railway has been proposed.",
+      "days": "A half-day to full day is enough to see Bocaue's town center, church, and museum, though visitors timing their trip around the July river festival or a Philippine Arena event may want to allow extra time for crowds and traffic."
+    },
+    "ko": {
+      "blurb": "불라칸(Bulacan)의 활기찬 도시 보카우에(Bocaue)는 메트로 마닐라 바로 북쪽에 위치하며, 보카우에강(Bocaue River)을 따라 늘어선 공방들이 전국 각지의 축제에 쓰이는 폭죽을 만들어내는 \"필리핀 불꽃놀이의 수도\"로 가장 잘 알려져 있습니다. 이 도시의 신앙적 중심은 수백 년 전통을 이어온 왜와 성십자가(Holy Cross of Wawa)를 기리는 강 축제 기간에 가장 뜨겁게 뛰는데, 이때 화려하게 장식된 파고다가 인파와 축제 분위기 속에서 보카우에강을 따라 미끄러지듯 나아갑니다.",
+      "getting": "가장 가까운 주요 공항은 마닐라의 니노이 아키노 국제공항(MNL)으로, 남쪽으로 약 21마일(약 34km) 떨어져 있습니다. 대부분의 여행객은 노스 루손 고속도로(NLEX)나 맥아더 하이웨이(MacArthur Highway)를 이용해 육로로 보카우에에 도착하며, 메트로 마닐라의 주요 거점에서 버스, 밴, 지프니를 이용합니다. 현재 이 도시를 지나는 전용 철도 노선은 없지만, 클락(Clark)행으로 계획된 철도 노선을 따라 향후 역이 신설될 것이 제안된 상태입니다.",
+      "days": "보카우에의 시내 중심가와 교회, 박물관을 둘러보기에는 반나절에서 하루 정도면 충분하지만, 7월 강 축제나 필리핀 아레나(Philippine Arena) 행사 일정에 맞춰 방문하는 경우에는 인파와 교통 혼잡을 고려해 여유 시간을 더 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ボカウエは、メトロマニラのすぐ北、ブラカン州に位置する活気ある町で、「フィリピンの花火の都」として広く知られています。ボカウエ川沿いには花火工房が立ち並び、全国各地のお祭りで使われる花火を製造しています。この町の信仰心が最も高まるのは、何世紀も続く「ワワの聖十字架」を祝う川祭りの時。華やかに飾られたパゴダ舟がボカウエ川を下り、大勢の人々が祝祭に沸きます。",
+      "getting": "最寄りの主要空港はマニラのニノイ・アキノ国際空港(MNL)で、ボカウエから南へ約21マイル(約34km)の距離にあります。多くの旅行者は、北ルソン高速道路(NLEX)やマッカーサー・ハイウェイを利用し、メトロマニラ各地のターミナルからバスやバン、ジプニーで陸路で向かいます。現在、町を直接結ぶ鉄道路線はありませんが、将来的にクラーク方面への鉄道計画の中に、この町の駅設置が提案されています。",
+      "days": "ボカウエの町の中心部、教会、博物館を巡るだけなら、半日から1日あれば十分です。ただし、7月の川祭りやフィリピン・アリーナでのイベントの時期に合わせて訪れる場合は、混雑や交通渋滞を見込んで、余裕を持ったスケジュールを組むことをおすすめします。"
+    },
+    "es": {
+      "blurb": "Bocaue, un municipio bullicioso de Bulacan justo al norte de Metro Manila, es conocido sobre todo como la \"Capital de los Fuegos Artificiales de Filipinas\", con talleres a lo largo del río Bocaue que producen piezas pirotécnicas para festividades de todo el país. El corazón espiritual del pueblo late con más fuerza durante su centenario festival fluvial en honor a la Santa Cruz de Wawa, cuando una pagoda decorada se desliza por el río Bocaue en medio de multitudes y celebración.",
+      "getting": "El aeropuerto principal más cercano es el Aeropuerto Internacional Ninoy Aquino de Manila (MNL), a unos 34 km (~21 millas) al sur; la mayoría de los viajeros llegan a Bocaue por carretera a través de la Autopista del Norte de Luzón (NLEX) o la Carretera MacArthur, utilizando autobuses, vans o jeepneys desde los principales puntos de Metro Manila. Actualmente no hay una línea de tren que dé servicio al pueblo, aunque se ha propuesto una futura estación dentro del proyecto de ferrocarril con destino a Clark.",
+      "days": "Con medio día o un día completo es suficiente para ver el centro del pueblo, la iglesia y el museo de Bocaue, aunque los visitantes que planeen su viaje coincidiendo con el festival fluvial de julio o algún evento en el Philippine Arena quizás deseen reservar tiempo adicional para lidiar con las multitudes y el tráfico."
+    }
+  },
+  "Avignon": {
+    "en": {
+      "blurb": "Encircled by medieval ramparts on the banks of the Rhône, Avignon is best known as the seat of the Roman Catholic papacy in the 14th century, its skyline still dominated by the fortress-like Palais des Papes and the famous half-bridge, Pont Saint-Bénézet. Beyond its papal past, the city is a lively gateway to Provence, buzzing each summer with one of Europe's largest theatre festivals.",
+      "getting": "Avignon TGV station sits on the LGV Méditerranée high-speed line, putting it roughly 2h40 from Paris by direct train, with a shuttle service (or short TER hop) connecting the TGV station to the central Avignon Centre station a few kilometres away. There's a small local airport, but most flyers arrive via Marseille Provence Airport (MRS), the region's main international hub, then continue to Avignon by regional train.",
+      "days": "Plan on ~2-3 days to explore the walled old town, Palais des Papes and riverside bridge at a relaxed pace, with extra time useful for day trips into the surrounding Luberon countryside or to the Pont du Gard."
+    },
+    "ko": {
+      "blurb": "론강 기슭, 중세 성벽으로 둘러싸인 아비뇽은 14세기 로마 가톨릭 교황청이 있던 도시로 가장 유명합니다. 지금도 도시의 스카이라인은 요새 같은 교황궁(Palais des Papes)과 절반만 남은 유명한 다리, 생베네제교(Pont Saint-Bénézet)가 지배하고 있습니다. 교황의 도시라는 과거를 넘어, 아비뇽은 프로방스로 향하는 활기찬 관문이기도 하며, 매년 여름이면 유럽 최대 규모의 연극 축제로 도시 전체가 들썩입니다.",
+      "getting": "아비뇽 TGV역은 지중해선(LGV Méditerranée) 고속철도 노선에 위치해 있어, 파리에서 직행 열차로 약 2시간 40분이면 도착할 수 있습니다. TGV역에서 몇 킬로미터 떨어진 시내 중심의 아비뇽 상트르(Avignon Centre)역까지는 셔틀버스나 짧은 TER 열차로 이동하면 됩니다. 소규모 지방 공항이 있긴 하지만, 대부분의 여행객은 이 지역의 주요 국제 관문인 마르세유 프로방스 공항(MRS)을 통해 도착한 뒤, 지역 열차를 타고 아비뇽으로 이동합니다.",
+      "days": "성벽으로 둘러싸인 구시가지, 교황궁, 강변의 다리를 여유롭게 둘러보려면 2~3일 정도가 적당합니다. 시간이 더 있다면 주변 뤼베롱(Luberon) 지방이나 퐁뒤가르(Pont du Gard)로 당일치기 여행을 다녀오는 것도 좋습니다."
+    },
+    "ja": {
+      "blurb": "ローヌ川のほとりに中世の城壁が今も残るアヴィニョンは、14世紀にローマ・カトリック教皇庁が置かれた都市として知られています。要塞のような佇まいの教皇宮殿と、有名な半分しか残っていない橋「サン・ベネゼ橋」が、今なお街のシルエットを特徴づけています。教皇庁の歴史だけでなく、プロヴァンス地方への活気ある玄関口としての一面も持ち、夏にはヨーロッパ最大級の演劇祭で街全体が賑わいを見せます。",
+      "getting": "アヴィニョンTGV駅は高速新線LGVメディテラネ上にあり、パリから直通列車でおよそ2時間40分。TGV駅から数キロ離れた中心部のアヴィニョン・サントル駅までは、シャトルバスや短いTERでの乗り換えでアクセスできます。市内には小さな地方空港もありますが、多くの旅行者はこの地域の主要な国際空港であるマルセイユ・プロヴァンス空港(MRS)を利用し、そこから地域列車でアヴィニョンへ向かいます。",
+      "days": "城壁に囲まれた旧市街、教皇宮殿、川沿いの橋をゆったり巡るなら2〜3日ほどが目安です。時間に余裕があれば、周辺のリュベロン地方やポン・デュ・ガールへの日帰り旅行もおすすめです。"
+    },
+    "es": {
+      "blurb": "Rodeada por murallas medievales a orillas del Ródano, Aviñón es conocida sobre todo por haber sido sede del papado católico en el siglo XIV, y su perfil urbano sigue dominado por el imponente Palais des Papes y el célebre puente inconcluso, el Pont Saint-Bénézet. Más allá de su pasado papal, la ciudad es una animada puerta de entrada a la Provenza, que cada verano cobra vida con uno de los festivales de teatro más grandes de Europa.",
+      "getting": "La estación de Avignon TGV se encuentra en la línea de alta velocidad LGV Méditerranée, a unas 2h40 de París en tren directo, y un servicio de lanzadera (o un breve trayecto en TER) conecta la estación TGV con la céntrica estación de Avignon Centre, situada a pocos kilómetros. Hay un pequeño aeropuerto local, pero la mayoría de los viajeros llegan a través del aeropuerto de Marsella Provenza (MRS), el principal centro internacional de la región, para luego continuar hasta Aviñón en tren regional.",
+      "days": "Conviene reservar entre 2 y 3 días para explorar con calma el casco antiguo amurallado, el Palais des Papes y el puente junto al río, y resulta útil disponer de tiempo adicional para excursiones de un día por la campiña circundante del Luberon o hasta el Pont du Gard."
+    },
+    "zh": {
+      "blurb": "阿维尼翁被中世纪城墙环绕,坐落在罗讷河畔,最广为人知的是14世纪罗马天主教教皇曾在此设立教廷,如今城市天际线依然由堡垒般的教皇宫和著名的断桥——圣贝内泽桥所主导。除了这段教皇历史,这座城市也是通往普罗旺斯的活力门户,每年夏天都会举办欧洲规模最大的戏剧节之一,热闹非凡。",
+      "getting": "阿维尼翁TGV站位于地中海高铁线(LGV Méditerranée)上,从巴黎乘直达列车约2小时40分钟即可到达;TGV站与几公里外的阿维尼翁中央站(Avignon Centre)之间有接驳巴士(或短途TER列车)相连。当地有一个小型机场,但大多数游客会经由该地区的主要国际枢纽——马赛普罗旺斯机场(MRS)抵达,再乘区域列车前往阿维尼翁。",
+      "days": "建议安排2-3天,以轻松的节奏游览城墙环绕的老城、教皇宫以及河畔断桥;如果还想前往周边的吕贝隆乡村或加尔桥(Pont du Gard)一日游,可以适当多留些时间。"
+    }
+  },
+  "Bukit Timah": {
+    "en": {
+      "blurb": "Bukit Timah is home to Singapore's highest natural point and its most significant patch of primary rainforest, a green enclave that feels worlds away from the skyscrapers just a few kilometres east. Anchored by the Bukit Timah Nature Reserve and its network of hiking and mountain-biking trails, the area also blends leafy residential estates, old shopping centres, and pockets of colonial-era heritage.",
+      "getting": "Most travellers arrive via Singapore's Changi Airport (SIN), taking the East–West MRT Line into the city and then transferring onto the Downtown Line, which serves Bukit Timah directly at stations such as Beauty World, Hillview, and Sixth Avenue; buses along Upper Bukit Timah Road also connect the area to the wider transport network. Taxis and ride-hailing are a straightforward, if pricier, alternative from the airport or city centre.",
+      "days": "A single day is enough to hike to the summit of Bukit Timah Hill and explore the surrounding trails and nearby parks, while a second day allows time to also take in the area's shopping centres, food spots, and heritage sites at a relaxed pace."
+    },
+    "ko": {
+      "blurb": "부킷 티마는 싱가포르에서 가장 높은 자연 지점과 가장 중요한 원시 열대우림 지역을 품고 있는 곳으로, 불과 몇 킬로미터 떨어진 동쪽의 고층 빌딩 숲과는 전혀 다른 세상처럼 느껴지는 초록빛 안식처다. 부킷 티마 자연보호구역과 그 안에 펼쳐진 하이킹 및 산악자전거 트레일을 중심으로, 이 지역에는 나무가 우거진 주거 단지와 오래된 쇼핑센터, 그리고 식민지 시대의 흔적이 남아 있는 유적지들이 곳곳에 섞여 있다.",
+      "getting": "대부분의 여행자는 싱가포르 창이 공항(SIN)을 통해 도착한 뒤, 동서선(East–West Line) MRT를 타고 시내로 이동한 다음 다운타운선(Downtown Line)으로 환승한다. 이 노선은 뷰티 월드(Beauty World), 힐뷰(Hillview), 식스 애비뉴(Sixth Avenue) 등의 역을 통해 부킷 티마 지역을 직접 연결한다. 어퍼 부킷 티마 로드(Upper Bukit Timah Road)를 지나는 버스 노선들도 이 지역을 더 넓은 대중교통망과 이어준다. 공항이나 시내에서 택시나 차량 호출 서비스를 이용하는 것도 요금은 조금 더 들지만 간편한 대안이다.",
+      "days": "하루면 부킷 티마 힐 정상까지 하이킹하고 주변 트레일과 인근 공원들을 둘러보기에 충분하다. 이틀을 잡으면 여유롭게 지역의 쇼핑센터와 맛집, 그리고 유서 깊은 명소들까지 둘러볼 시간이 생긴다."
+    },
+    "ja": {
+      "blurb": "ブキ・ティマは、シンガポール最高峰の自然地点と、同国最大の原生林が残るエリアで、東にわずか数キロ先の高層ビル群とはまるで別世界のような緑豊かな一角です。ブキ・ティマ自然保護区とそこに広がるハイキング・マウンテンバイクのトレイルを中心に、緑豊かな住宅地、昔ながらのショッピングセンター、そして植民地時代の面影を残す史跡が点在しています。",
+      "getting": "多くの旅行者はシンガポールのチャンギ国際空港(SIN)から、イースト・ウエスト線(MRT)で市内へ入り、そこからダウンタウン線に乗り換えます。ダウンタウン線はビューティ・ワールド、ヒルビュー、シックス・アベニューなどブキ・ティマ地区の各駅に直接アクセスできます。また、アッパー・ブキ・ティマ・ロード沿いのバス路線も、より広範な交通網とこのエリアを結んでいます。空港や市街地からタクシーやライドシェアを利用するのも、料金は高めですが手軽な選択肢です。",
+      "days": "1日あればブキ・ティマ・ヒルの山頂まで登り、周辺のトレイルや近隣の公園を巡ることができます。2日目を設ければ、地元のショッピングセンターやグルメスポット、史跡なども無理なくゆったりと楽しめます。"
+    },
+    "es": {
+      "blurb": "Bukit Timah alberga el punto natural más alto de Singapur y su extensión más importante de selva tropical primaria, un enclave verde que parece estar a mundos de distancia de los rascacielos que se alzan a solo unos kilómetros al este. Con la Reserva Natural de Bukit Timah y su red de senderos para caminatas y ciclismo de montaña como eje central, la zona combina además frondosas urbanizaciones residenciales, antiguos centros comerciales y pequeños rincones de patrimonio de la época colonial.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Changi de Singapur (SIN), tomando la línea East–West del MRT hacia la ciudad y luego transfiriendo a la línea Downtown, que da servicio directo a Bukit Timah en estaciones como Beauty World, Hillview y Sixth Avenue; los autobuses que circulan por Upper Bukit Timah Road también conectan la zona con la red de transporte más amplia. Los taxis y los servicios de transporte con conductor son una alternativa sencilla, aunque más cara, desde el aeropuerto o el centro de la ciudad.",
+      "days": "Con un solo día es suficiente para subir hasta la cima de Bukit Timah Hill y explorar los senderos circundantes y los parques cercanos, mientras que un segundo día permite además disfrutar con calma de los centros comerciales, los lugares para comer y los sitios patrimoniales de la zona."
+    },
+    "zh": {
+      "blurb": "武吉知马坐拥新加坡地势最高的自然点，以及境内最大片的原始雨林，是一处仿佛远离繁华的世外绿洲，尽管距离东边几公里外的高楼大厦并不遥远。这片区域以武吉知马自然保护区及其纵横交错的徒步与登山车道为核心，周边还错落分布着绿意盎然的住宅区、老式购物中心，以及点点殖民时期的历史遗迹。",
+      "getting": "大多数旅客经新加坡樟宜机场（SIN）抵达，先搭乘东西地铁线进入市区，再转乘滨海市区线，即可直达武吉知马一带的美世界（Beauty World）、锡安山（Hillview）及万礼（Sixth Avenue）等站点；沿武吉知马路上段行驶的巴士也将该区域与更广的交通网络相连。若从机场或市中心出发，搭乘出租车或网约车虽费用稍高，却更为便捷省心。",
+      "days": "一天时间足以登顶武吉知马山，并顺道探索周边的步道与公园；若安排两天，则可以更从容地逛逛当地的购物中心、寻觅美食，并细细品味区内的历史遗迹。"
+    }
+  },
+  "Deira": {
+    "en": {
+      "blurb": "Deira is the historic trading heart of Dubai, where narrow lanes packed with gold shops and fragrant spice stalls sit right along Dubai Creek, the original harbour that built the city's fortune. Traditional wooden abra boats still ferry passengers across the water here, offering a slower, older rhythm of travel than the glass towers found elsewhere in the emirate.",
+      "getting": "Most travellers arrive via Dubai International Airport (DXB), taking the Red Line metro directly into Deira, with journeys to central stations like City Centre Deira taking ~10 minutes; for the old souks, the Green Line stations of Al Ras or Gold Souk are the usual drop-off points, followed by a short walk.",
+      "days": "Plan on ~1-2 days to wander the Gold, Spice, and Textile Souks, cross the creek by abra, and soak in Deira's old-trade atmosphere at an easy pace."
+    },
+    "ko": {
+      "blurb": "데이라는 두바이의 역사적인 무역 중심지로, 금은방과 향긋한 향신료 가게들이 늘어선 좁은 골목들이 두바이의 부를 일으킨 원래의 항구, 두바이 크릭을 따라 자리 잡고 있습니다. 이곳에서는 전통 목조 아브라 보트가 여전히 승객들을 실어 나르며, 에미리트 곳곳의 유리 타워들과는 다른, 느긋하고 예스러운 여행의 리듬을 느낄 수 있습니다.",
+      "getting": "대부분의 여행객은 두바이 국제공항(DXB)을 통해 도착한 뒤 레드 라인 지하철을 타고 데이라로 곧장 이동하며, 시티 센터 데이라 같은 중심 역까지는 약 10분이 걸립니다. 옛 수크(시장) 지역으로 가려면 보통 그린 라인의 알 라스(Al Ras)역이나 골드 수크(Gold Souk)역에서 내려 짧게 걸어가면 됩니다.",
+      "days": "골드 수크, 스파이스 수크, 텍스타일 수크를 둘러보고 아브라를 타고 크릭을 건너며 데이라의 오래된 무역 분위기를 여유롭게 만끽하려면 1~2일 정도 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "デイラはドバイの歴史的な商業の中心地です。金細工店やスパイスの香りが漂う露店が並ぶ狭い路地は、ドバイの繁栄を築いた元祖の港、ドバイ・クリークのすぐそばに広がっています。今も伝統的な木造のアブラ船が行き交い、他のエリアで目にするガラス張りの高層ビル群とは対照的な、ゆったりとした昔ながらの旅の時間を感じさせてくれます。",
+      "getting": "多くの旅行者はドバイ国際空港(DXB)から到着し、レッドラインの地下鉄でデイラへ直行します。シティ・センター・デイラなど中心部の駅までは約10分ほど。旧市場(スーク)エリアへ向かう場合は、グリーンラインのアル・ラス駅またはゴールド・スーク駅で下車し、そこから少し歩くのが一般的です。",
+      "days": "ゴールド・スーク、スパイス・スーク、テキスタイル・スークをのんびり巡り、アブラ船でクリークを渡って、デイラならではの古き商都の雰囲気をじっくり味わうなら、1~2日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Deira es el corazón comercial e histórico de Dubái, donde estrechos callejones repletos de joyerías de oro y puestos de especias aromáticas se extienden justo a orillas del Dubai Creek, el puerto original que forjó la fortuna de la ciudad. Los tradicionales botes de madera abra siguen cruzando pasajeros de una orilla a otra, ofreciendo un ritmo de viaje más pausado y antiguo que el de las torres de cristal que dominan el resto del emirato.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Dubái (DXB) y toma la Línea Roja del metro directamente hasta Deira; el trayecto a estaciones céntricas como City Centre Deira dura unos 10 minutos. Para llegar a los zocos antiguos, las estaciones de la Línea Verde Al Ras o Gold Souk son los puntos de bajada habituales, seguidos de un corto paseo a pie.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer los zocos del Oro, las Especias y los Textiles, cruzar el creek en abra y disfrutar sin prisas del ambiente comercial de antaño que envuelve Deira."
+    },
+    "zh": {
+      "blurb": "迪拜老城区(Deira)是迪拜历史悠久的商贸中心,狭窄的巷道两旁遍布金饰店铺和芳香四溢的香料摊档,紧邻迪拜河(Dubai Creek)——正是这条老港口造就了这座城市最初的财富。传统木质阿布拉(abra)渡船至今仍载着乘客往来两岸,带来一种比酋长国其他地方的玻璃高楼更悠然、更古朴的出行节奏。",
+      "getting": "大多数游客经迪拜国际机场(DXB)抵达,搭乘地铁红线(Red Line)可直达迪拜老城区,前往迪拜城市中心站(City Centre Deira)等中心站点约需10分钟;若要前往老集市区域,通常在绿线(Green Line)的Al Ras站或黄金市场站(Gold Souk)下车,再步行片刻即可到达。",
+      "days": "建议安排1-2天时间,悠闲地逛逛黄金市场、香料市场和纺织品市场,乘阿布拉渡船横渡迪拜河,细细感受迪拜老城区传统商贸的独特氛围。"
+    }
+  },
+  "Hsinchu": {
+    "en": {
+      "blurb": "Hsinchu is Taiwan's \"Silicon Valley,\" home to the sprawling Hsinchu Science Park that anchors the island's global semiconductor industry, yet it retains a much older identity as a walled Qing-dynasty city with a storied City God Temple and a historic glass-blowing craft. Nicknamed the \"Windy City\" for the strong gusts that funnel down from the nearby hills, it blends cutting-edge tech campuses with night markets, temples, and Hakka cultural influences.",
+      "getting": "The nearest airport is Taipei's Taoyuan International Airport (TPE), from which travellers typically connect by Taiwan High Speed Rail (THSR) to Hsinchu HSR Station in Zhubei, then transfer by shuttle bus or a local TRA train link to reach central Hsinchu City; the journey takes roughly ~1 hour in total.",
+      "days": "A single day is generally enough to cover Hsinchu's compact old-town core—its temples, night market, and museums—while an extra half-day allows time for the science park area or nearby glass workshops."
+    },
+    "ko": {
+      "blurb": "신주는 대만의 '실리콘밸리'로, 대만 반도체 산업의 세계적 중심지인 광활한 신주 과학단지(Hsinchu Science Park)가 자리한 곳입니다. 하지만 그와 동시에 청나라 시대 성곽 도시로서의 오래된 정체성도 그대로 간직하고 있는데, 유서 깊은 청황묘(City God Temple)와 전통 유리공예 기술이 그 대표적인 예입니다. 인근 산에서 불어 내려오는 강한 바람 때문에 '바람의 도시'라는 별명으로도 불리는 신주는, 최첨단 테크 캠퍼스와 야시장, 사원, 그리고 하카(客家) 문화의 정취가 어우러진 독특한 매력을 지니고 있습니다.",
+      "getting": "가장 가까운 공항은 타이베이의 타오위안 국제공항(TPE)입니다. 이곳에서 대부분의 여행객은 대만 고속철도(THSR)를 이용해 주베이(Zhubei)에 있는 신주 고속철도역(Hsinchu HSR Station)까지 이동한 뒤, 셔틀버스나 대만 철도(TRA) 노선으로 환승해 신주 시내로 들어갑니다. 전체 이동 시간은 대략 1시간 정도 소요됩니다.",
+      "days": "신주의 아담한 구시가지—사원, 야시장, 박물관 등—를 둘러보는 데는 하루 정도면 충분합니다. 반나절 정도 시간을 더 낸다면 과학단지 지역이나 인근 유리공예 공방까지 여유롭게 둘러볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "新竹は台湾の「シリコンバレー」と呼ばれ、島のグローバルな半導体産業を支える広大な新竹サイエンスパークを擁する都市です。しかしその一方で、清朝時代の城郭都市としての古い歴史も色濃く残しており、由緒ある城隍廟や、伝統のガラス細工の技も今に伝えています。近くの丘陵から吹き下ろす強風にちなんで「風城(ウィンディシティ)」の愛称でも知られ、最先端のテクノロジー拠点と、夜市や寺院、客家文化の趣とが独特に混ざり合った街です。",
+      "getting": "最寄りの空港は台北の台湾桃園国際空港(TPE)です。多くの旅行者はここから台湾高速鉄道(新幹線、THSR)を利用し、竹北にある新竹駅(高鉄)まで移動、その後シャトルバスまたは台鉄(TRA)の在来線に乗り換えて新竹市中心部へ向かいます。所要時間は合計で約1時間ほどです。",
+      "days": "新竹のコンパクトな旧市街—寺院や夜市、博物館など—を巡るだけなら、1日あれば十分でしょう。さらに半日ほど時間をとれば、サイエンスパーク周辺や近郊のガラス工房を訪れる余裕も生まれます。"
+    },
+    "es": {
+      "blurb": "Hsinchu es el \"Silicon Valley\" de Taiwán, sede del extenso Parque Científico de Hsinchu que sustenta la industria mundial de semiconductores de la isla. Sin embargo, conserva una identidad mucho más antigua como ciudad amurallada de la dinastía Qing, con un emblemático Templo del Dios de la Ciudad y una tradición histórica de sopladores de vidrio. Apodada la \"Ciudad del Viento\" por las fuertes ráfagas que bajan desde las colinas cercanas, combina campus tecnológicos de vanguardia con mercados nocturnos, templos e influencias culturales hakka.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional de Taoyuán, en Taipéi (TPE), desde donde los viajeros suelen conectar con el Tren de Alta Velocidad de Taiwán (THSR) hasta la estación de Hsinchu HSR, en Zhubei, para luego tomar un autobús lanzadera o un tren local de la TRA hasta el centro de la ciudad de Hsinchu; el trayecto completo dura aproximadamente 1 hora.",
+      "days": "Por lo general, un solo día basta para recorrer el compacto casco antiguo de Hsinchu —sus templos, el mercado nocturno y los museos—, mientras que medio día adicional permite explorar la zona del parque científico o los talleres de vidrio cercanos."
+    },
+    "zh": {
+      "blurb": "新竹是台湾的“硅谷”，坐拥占地广阔的新竹科学园区，是全岛半导体产业的全球重镇；然而它同时保留着更为悠久的身份——一座清代古城，拥有历史悠久的城隍庙和传承已久的玻璃工艺。新竹又被称为“风城”，因附近山丘间灌下的强劲山风而得名，这里将尖端科技园区与夜市、庙宇及客家文化完美融合在一起。",
+      "getting": "最近的机场是台北桃园国际机场（TPE）。旅客通常先搭乘台湾高铁（THSR）前往位于竹北的新竹高铁站，再转乘接驳巴士或台铁区间车前往新竹市区，全程大约需要1小时左右。",
+      "days": "安排一天时间通常足以游览新竹紧凑的旧城区——包括庙宇、夜市与博物馆；若能多留半天，则可前往科学园区一带或附近的玻璃工坊，体验更多在地特色。"
+    }
+  },
+  "Koh Phi Phi": {
+    "en": {
+      "blurb": "Koh Phi Phi is a dramatic limestone-karst island in the Andaman Sea, famous for the turquoise cove of Maya Bay and a car-free town squeezed onto a narrow sandy isthmus between two cliffs. With no roads for vehicles, life here moves by longtail boat and on foot, against a backdrop of towering cliffs, coral reefs, and laid-back beach bars.",
+      "getting": "Koh Phi Phi has no airport of its own, so travellers fly into Phuket (HKT) or Krabi (KBV) and then connect by ferry, with boats taking ~2 hours from Phuket and ~90 minutes from Krabi to Tonsai Pier, the island's main arrival point.",
+      "days": "Plan on ~2-3 days to cover the main viewpoints, beaches, and a boat trip to Maya Bay, though many travellers linger longer for diving and island-hopping."
+    },
+    "ko": {
+      "blurb": "코 피피는 안다만해에 우뚝 솟은 석회암 카르스트 섬으로, 에메랄드빛 마야 베이와 두 절벽 사이 좁은 모래 지협에 자리 잡은 차 없는 마을로 유명합니다. 차량이 다닐 도로가 없어 이곳에서의 이동은 롱테일 보트와 도보로 이루어지며, 웅장한 절벽과 산호초, 여유로운 비치 바가 그 풍경을 채웁니다.",
+      "getting": "코 피피에는 자체 공항이 없어, 여행객들은 푸켓(HKT)이나 끄라비(KBV)로 비행기를 타고 도착한 뒤 페리로 이동합니다. 섬의 주요 입구인 톤사이 선착장까지 푸켓에서는 약 2시간, 끄라비에서는 약 90분이 소요됩니다.",
+      "days": "주요 전망대와 해변, 마야 베이 보트 투어를 둘러보려면 2~3일 정도를 계획하는 것이 좋지만, 다이빙이나 섬 투어를 즐기려는 여행객들은 더 오래 머무르는 경우도 많습니다."
+    },
+    "ja": {
+      "blurb": "ピピ島は、アンダマン海に浮かぶ石灰岩の断崖がそびえる島で、エメラルドグリーンの入り江として知られるマヤ・ベイや、二つの断崖の間に細長く延びる砂州にひしめき合う車のない町で有名です。車両が通れる道路がないため、島の暮らしはロングテールボートと徒歩が中心。切り立った断崖、色鮮やかなサンゴ礁、のんびりとしたビーチバーが織りなす景色が広がります。",
+      "getting": "ピピ島には空港がないため、旅行者はプーケット(HKT)またはクラビ(KBV)まで飛行機で行き、そこからフェリーで乗り継ぐのが一般的です。船は島の主要な玄関口であるトンサイ桟橋まで、プーケットから約2時間、クラビから約90分で到着します。",
+      "days": "主要な展望台やビーチを巡り、マヤ・ベイへのボートツアーを楽しむには2〜3日ほど見ておくとよいでしょう。ただし、ダイビングや島巡りを目当てに、もっと長く滞在する旅行者も少なくありません。"
+    },
+    "es": {
+      "blurb": "Koh Phi Phi es una espectacular isla de karst calizo en el mar de Andamán, famosa por la turquesa cala de Maya Bay y por un pueblo libre de coches, apretujado en un estrecho istmo de arena entre dos acantilados. Al no haber carreteras para vehículos, la vida aquí transcurre en longtail boats y a pie, con un telón de fondo de imponentes acantilados, arrecifes de coral y relajados bares de playa.",
+      "getting": "Koh Phi Phi no tiene aeropuerto propio, así que los viajeros vuelan hasta Phuket (HKT) o Krabi (KBV) y luego conectan en ferry, con trayectos de aproximadamente 2 horas desde Phuket y unos 90 minutos desde Krabi hasta el muelle de Tonsai, el principal punto de llegada a la isla.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer los principales miradores, playas y hacer una excursión en barco a Maya Bay, aunque muchos viajeros se quedan más tiempo para practicar buceo y recorrer las islas cercanas."
+    },
+    "zh": {
+      "blurb": "皮皮岛坐落于安达曼海，是一座地势险峻的石灰岩喀斯特岛屿，以玛雅湾的碧绿海湾闻名于世。岛上小镇挤在两座悬崖之间狭窄的沙洲上，禁止车辆通行，出行全靠长尾船和步行。四周峭壁耸立、珊瑚礁环绕，沙滩酒吧氛围慵懒惬意，别有一番风情。",
+      "getting": "皮皮岛本身没有机场，游客通常先飞抵普吉岛（HKT）或甲米（KBV），再转乘渡轮前往。从普吉岛出发约需2小时船程，从甲米出发约90分钟，均可抵达岛上主要的登陆点——通赛码头（Tonsai Pier）。",
+      "days": "建议安排2-3天时间，游览岛上主要观景点、沙滩，并乘船前往玛雅湾一日游。不过许多游客会因潜水和跳岛游的魅力而选择多待几天。"
+    }
+  },
+  "Makassar": {
+    "en": {
+      "blurb": "Makassar, the bustling capital of South Sulawesi, is Indonesia's gateway to the eastern archipelago — a historic port city where Dutch-era Fort Rotterdam sits blocks from the sunset crowds of Losari Beach and traditional Bugis phinisi schooners still load at Paotere Harbor. As Sulawesi's largest city, it blends colonial relics, waterfront street food, and a fast-modernizing skyline with the salt air of the Makassar Strait.",
+      "getting": "Nearly all travellers arrive via Sultan Hasanuddin International Airport (UPG), located roughly 20 km northeast of the city center, with taxis and toll-road transfers taking ~20-30 minutes into town; there is no passenger rail line, so onward travel to other parts of Sulawesi typically continues by road or domestic flight.",
+      "days": "~2 days is enough to cover the city's core sights — Fort Rotterdam, Losari Beach, and the old harbor — though many travellers use Makassar mainly as a launch point for longer trips into Tana Toraja or the wider island."
+    },
+    "ko": {
+      "blurb": "남술라웨시의 활기 넘치는 주도 마카사르는 인도네시아 동부 군도로 향하는 관문 도시다. 네덜란드 식민지 시대의 유산인 로테르담 요새가 로사리 해변의 일몰 인파와 불과 몇 블록 거리에 있고, 전통 부기스족의 피니시 범선들이 여전히 파오테레 항구에서 짐을 싣는, 역사와 현재가 공존하는 항구 도시이기도 하다. 술라웨시 최대 도시답게 식민지 시대의 흔적과 해변가 길거리 음식, 빠르게 변모하는 스카이라인이 마카사르 해협의 짠 바다 공기와 어우러져 독특한 매력을 만들어낸다.\",\"getting\":\"대부분의 여행객은 술탄 하사누딘 국제공항(UPG)을 통해 마카사르에 도착한다. 공항은 시내에서 북동쪽으로 약 20km 떨어져 있으며, 택시나 유료도로를 이용하면 시내까지 약 20~30분이 걸린다. 여객 철도는 운행되지 않기 때문에, 술라웨시의 다른 지역으로 이동할 때는 보통 도로나 국내선 항공편을 이용하게 된다.\",\"days\":\"포트 로테르담, 로사리 해변, 옛 항구 등 마카사르의 핵심 명소를 둘러보는 데는 2일 정도면 충분하다. 다만 많은 여행객들은 마카사르를 타나 토라자나 술라웨시 섬의 다른 지역으로 떠나는 여정의 출발점으로 주로 활용한다.",
+      "getting": "술탄 하사누딘 국제공항(UPG)을 통해 대부분의 여행객이 마카사르에 도착하며, 공항은 시내 중심에서 북동쪽으로 약 20km 떨어져 있다. 택시나 유료도로를 이용하면 시내까지 약 20~30분이 걸린다. 여객 철도는 운행되지 않기 때문에, 술라웨시의 다른 지역으로 이동할 때는 보통 도로나 국내선 항공편을 이용하게 된다.",
+      "days": "포트 로테르담, 로사리 해변, 옛 항구 등 마카사르의 핵심 명소를 둘러보는 데는 2일 정도면 충분하다. 다만 많은 여행객들은 마카사르를 타나 토라자나 술라웨시 섬 전역으로 떠나는 더 긴 여정의 출발점으로 주로 활용한다."
+    },
+    "ja": {
+      "blurb": "南スラウェシ州の州都であり活気に満ちたマカッサルは、インドネシア東部の島々への玄関口となっている歴史ある港湾都市です。オランダ統治時代に築かれたロッテルダム要塞から数ブロック先には、夕日を眺める人々で賑わうロサリ海岸が広がり、パオテレ港では今も伝統的なブギス族の帆船「ピニシ」が荷を積み込んでいます。スラウェシ最大の都市であるマカッサルは、植民地時代の遺構や水辺の屋台グルメと、急速に発展する近代的なスカイラインが、マカッサル海峡の潮風の中で共存する街です。",
+      "getting": "旅行者のほとんどは、市街地の北東約20kmに位置するスルタン・ハサヌディン国際空港(UPG)を利用して入国します。タクシーや高速道路経由の送迎で市内までは20~30分程度。旅客鉄道は通っていないため、スラウェシ島の他地域へ向かう際は、陸路または国内線での移動が基本となります。",
+      "days": "ロッテルダム要塞、ロサリ海岸、旧港といった市内の主要な見どころを巡るには2日ほどで十分ですが、多くの旅行者はマカッサルをタナ・トラジャや島内の他エリアへの長旅の起点として利用しています。"
+    },
+    "es": {
+      "blurb": "Makassar, la bulliciosa capital de Célebes Meridional (Sulawesi del Sur), es la puerta de entrada de Indonesia al archipiélago oriental: una ciudad portuaria de gran historia donde el Fuerte Rotterdam, de la época holandesa, se encuentra a pocas cuadras de las multitudes que acuden al atardecer en la Playa de Losari, y donde las tradicionales goletas phinisi de los bugis siguen cargando mercancía en el puerto de Paotere. Como la ciudad más grande de Sulawesi, combina vestigios coloniales, puestos de comida callejera junto al mar y un horizonte urbano en rápida modernización, todo envuelto en el aire salino del Estrecho de Makassar.",
+      "getting": "Casi todos los viajeros llegan a través del Aeropuerto Internacional Sultán Hasanuddin (UPG), ubicado a unos 20 km al noreste del centro de la ciudad; los taxis y traslados por autopista tardan entre 20 y 30 minutos hasta el centro. No existe línea de tren de pasajeros, por lo que para continuar viaje hacia otras zonas de Sulawesi normalmente se recurre a la carretera o a vuelos domésticos.",
+      "days": "Con unos 2 días es suficiente para recorrer los principales atractivos de la ciudad —el Fuerte Rotterdam, la Playa de Losari y el puerto antiguo—, aunque muchos viajeros usan Makassar sobre todo como punto de partida para excursiones más largas a Tana Toraja o al resto de la isla."
+    },
+    "zh": {
+      "blurb": "望加锡是南苏拉威西省热闹繁华的首府,也是印度尼西亚通往东部群岛的门户——这座历史悠久的港口城市里,荷兰殖民时期的鹿特丹堡与洛萨里海滩的落日人潮近在咫尺,传统的布吉斯双桅帆船至今仍停靠在保特雷港装卸货物。作为苏拉威西岛最大的城市,望加锡将殖民遗迹、海边街头美食与飞速崛起的现代天际线融为一体,处处弥漫着望加锡海峡的咸咸海风。",
+      "getting": "绝大多数旅客都经由苏丹哈桑努丁国际机场(UPG)抵达,该机场位于市中心东北约20公里处,乘坐出租车或走收费公路进城约需20-30分钟;当地没有客运铁路,因此前往苏拉威西岛其他地区通常需要继续乘车或转乘国内航班。",
+      "days": "大约2天时间便足以游览市区的主要景点——鹿特丹堡、洛萨里海滩和老港口,不过许多旅行者主要把望加锡当作前往塔纳托拉查或岛上其他地区长途旅行的中转起点。"
+    }
+  },
+  "Medan": {
+    "en": {
+      "blurb": "Medan is Indonesia's fourth-largest city and North Sumatra's melting-pot capital, where Dutch colonial mansions, mosques, Chinese temples, and Hindu shrines sit side by side. It's less a postcard destination than a hard-working, food-obsessed metropolis best known as the gateway to Lake Toba and the rainforests of North Sumatra.",
+      "getting": "Almost all travellers arrive via Kualanamu International Airport (KNO), roughly 25km from the city centre, then take the Airport Rail Link train directly into Medan's main railway station—a comfortable, air-conditioned ride that takes ~30-45 minutes and avoids the area's notorious road traffic. Taxis and buses also run the route for those on a tighter budget or with heavier luggage.",
+      "days": "Most visitors budget ~1-2 days in Medan itself—enough to see the main colonial-era sights and eat your way through its famous street food—before continuing on to Lake Toba, Bukit Lawang, or beyond."
+    },
+    "ko": {
+      "blurb": "메단은 인도네시아에서 네 번째로 큰 도시이자 다양한 문화가 뒤섞인 북수마트라의 주도로, 네덜란드 식민지 시대의 저택과 모스크, 중국 사원, 힌두 사당이 나란히 자리하고 있다. 엽서에 나올 법한 관광지라기보다는 부지런히 돌아가는, 먹거리에 진심인 대도시로, 토바 호수와 북수마트라 열대우림으로 향하는 관문으로 가장 잘 알려져 있다.\",\"getting\":\"대부분의 여행자는 시내에서 약 25km 떨어진 쿠알라나무 국제공항(KNO)을 통해 도착한 뒤, 공항철도(Airport Rail Link)를 타고 메단 중앙역까지 곧장 이동한다. 쾌적한 에어컨 열차로 약 30~45분이 소요되며, 이 지역의 악명 높은 도로 정체를 피할 수 있다. 예산을 아끼고 싶거나 짐이 많은 여행자를 위해 택시와 버스도 같은 구간을 운행한다.\",\"days\":\"대부분의 여행자는 메단 자체에는 약 1~2일 정도를 할애한다. 이 정도면 식민지 시대의 주요 명소를 둘러보고 유명한 길거리 음식을 실컷 맛보기에 충분하며, 이후 토바 호수, 부킷 라왕 등 다음 목적지로 이동하게 된다.",
+      "getting": "대부분의 여행자는 시내에서 약 25km 떨어진 쿠알라나무 국제공항(KNO)을 통해 도착한 뒤, 공항철도(Airport Rail Link)를 타고 메단 중앙역까지 곧장 이동한다. 쾌적한 에어컨 열차로 약 30~45분이 소요되며, 이 지역의 악명 높은 도로 정체를 피할 수 있다. 예산을 아끼고 싶거나 짐이 많은 여행자를 위해 택시와 버스도 같은 구간을 운행한다.",
+      "days": "대부분의 여행자는 메단 자체에는 약 1~2일 정도를 할애한다. 이 정도면 식민지 시대의 주요 명소를 둘러보고 유명한 길거리 음식을 실컷 맛보기에 충분하며, 이후 토바 호수, 부킷 라왕 등 다음 목적지로 이동하게 된다."
+    },
+    "ja": {
+      "blurb": "メダンはインドネシア第4の都市であり、多民族が入り混じる北スマトラの州都だ。オランダ植民地時代の邸宅、モスク、中国寺院、ヒンドゥー教の祠が肩を並べて建ち並ぶ街並みは、まさに多文化の縮図といえる。絵葉書的な観光地というよりは、活気にあふれ、食に対する情熱を隠さない実利的な大都市であり、トバ湖や北スマトラの熱帯雨林への玄関口として知られている。",
+      "getting": "旅行者のほとんどはクアラナムー国際空港(KNO)を利用して到着する。市中心部から約25km離れたこの空港からは、エアポート・レールリンク鉄道でメダン中央駅まで直行できる。冷房完備で快適な車内で所要時間は約30~45分、この地域特有の激しい道路渋滞を避けられるのが魅力だ。予算を抑えたい場合や荷物が多い場合には、タクシーやバスも同じルートを運行している。",
+      "days": "メダン市内での滞在は1~2日程度を目安にする旅行者が多い。植民地時代の主要な見どころを巡り、名物のストリートフードを味わい尽くすには十分な時間で、その後はトバ湖やブキ・ラワン、さらに先の目的地へと旅を続けるのが定番だ。"
+    },
+    "es": {
+      "blurb": "Medan es la cuarta ciudad más grande de Indonesia y la capital crisol de culturas de Sumatra del Norte, donde mansiones coloniales holandesas, mezquitas, templos chinos y santuarios hindúes conviven codo a codo. No es tanto un destino de postal como una metrópolis trabajadora y obsesionada con la comida, conocida sobre todo como la puerta de entrada al lago Toba y a las selvas tropicales de Sumatra del Norte.",
+      "getting": "Casi todos los viajeros llegan por el Aeropuerto Internacional de Kualanamu (KNO), a unos 25 km del centro de la ciudad, y desde allí toman el tren Airport Rail Link directo hasta la estación central de Medan: un trayecto cómodo y con aire acondicionado que dura entre 30 y 45 minutos y permite evitar el tráfico, tristemente célebre en la zona. También hay taxis y autobuses que cubren la ruta, ideales para quienes viajan con presupuesto más ajustado o con mucho equipaje.",
+      "days": "La mayoría de los visitantes destina entre 1 y 2 días a Medan, tiempo suficiente para recorrer los principales sitios de la era colonial y darse un festín con su famosa comida callejera, antes de continuar hacia el lago Toba, Bukit Lawang o más allá."
+    },
+    "zh": {
+      "blurb": "棉兰是印度尼西亚第四大城市,也是北苏门答腊省这座\"大熔炉\"式的省会城市——荷兰殖民时期的洋楼、清真寺、华人庙宇与印度教神庙在这里彼此相邻、和谐共存。与其说它是明信片般的观光胜地,倒不如说它是一座务实肯干、对美食充满热情的都市,更多时候被视为通往多巴湖及北苏门答腊雨林的门户。",
+      "getting": "几乎所有旅客都会经由瓜拉纳穆国际机场(KNO)抵达,该机场距市中心约25公里。抵达后可搭乘机场铁路直达棉兰火车总站,车厢舒适、有空调,车程约30-45分钟,还能避开当地出了名的交通拥堵。若预算有限或行李较多,也可以选择出租车或大巴前往市区。",
+      "days": "大多数游客会在棉兰本身停留约1-2天,足以游览主要的殖民时期景点,并大快朵颐当地闻名的街头美食,然后再继续前往多巴湖、布吉拉旺或其他目的地。"
+    }
+  },
+  "Mount Bromo": {
+    "en": {
+      "blurb": "Mount Bromo is an active volcano in East Java whose smoking crater rises from a vast sea of volcanic sand, framed by the surrounding Tengger caldera. It's renowned for its otherworldly sunrise views, best seen from nearby viewpoints as mist and light fill the crater landscape below.",
+      "getting": "Most travellers fly into Surabaya's Juanda International Airport (SUB), then take a train from Surabaya Gubeng station to Probolinggo (~2 hours), followed by a local minibus or jeep up to the gateway village of Cemoro Lawang. A direct private car or organized tour from Surabaya is also common, bypassing the train transfer.",
+      "days": "Most visitors allow ~1-2 days, enough time to reach Cemoro Lawang, catch the sunrise from a viewpoint, and explore the crater area by jeep before heading back."
+    },
+    "ko": {
+      "blurb": "브로모산은 동부 자바에 위치한 활화산으로, 광활한 화산 모래 바다 위로 연기를 내뿜는 분화구가 솟아 있으며 그 주위를 텡거 칼데라가 둘러싸고 있습니다. 발아래 펼쳐진 분화구 지형이 안개와 빛으로 물드는 신비로운 일출 풍경으로 유명하며, 인근 전망대에서 그 장관을 감상하는 것이 가장 좋습니다.",
+      "getting": "대부분의 여행자는 수라바야의 주안다 국제공항(SUB)으로 입국한 뒤, 수라바야 구벵역에서 기차를 타고 프로볼링고까지 이동합니다(약 2시간 소요). 이후 현지 미니버스나 지프를 타고 관문 마을인 체모로 라왕까지 올라갑니다. 수라바야에서 기차 환승 없이 바로 이동할 수 있는 전용 차량이나 단체 투어를 이용하는 경우도 흔합니다.",
+      "days": "대부분의 방문객은 1~2일 정도를 할애하는데, 이 정도면 체모로 라왕에 도착해 전망대에서 일출을 감상하고 지프를 타고 분화구 지역을 둘러본 뒤 돌아오기에 충분한 시간입니다."
+    },
+    "ja": {
+      "blurb": "ブロモ山は東ジャワにある活火山で、噴煙を上げる火口が広大な火山砂の海からそびえ立ち、周囲をテンガー・カルデラが囲んでいます。この世のものとは思えない日の出の絶景で有名で、朝霧と光が眼下の火口一面を満たす様子を、近くの展望スポットから眺めるのが一番です。",
+      "getting": "多くの旅行者は、まずスラバヤのジュアンダ国際空港（SUB）に飛び、そこからスラバヤ・グブン駅からプロボリンゴまで電車で移動します（約2時間）。その後、ローカルのミニバスやジープに乗り換えて、玄関口となる村チェモロ・ラワンへ向かいます。スラバヤから直接、専用車や現地ツアーを利用して電車移動を省く方法も一般的です。",
+      "days": "多くの旅行者は1〜2日ほどの日程を組みます。これはチェモロ・ラワンに到着し、展望スポットで日の出を眺め、ジープで火口周辺を巡ってから帰路につくのに十分な時間です。"
+    },
+    "es": {
+      "blurb": "El Monte Bromo es un volcán activo en Java Oriental cuyo cráter humeante emerge de un vasto mar de arena volcánica, enmarcado por la caldera de Tengger que lo rodea. Es famoso por sus amaneceres de otro mundo, que se aprecian mejor desde los miradores cercanos, cuando la niebla y la luz inundan el paisaje del cráter allá abajo.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional Juanda de Surabaya (SUB), y luego toma un tren desde la estación de Surabaya Gubeng hasta Probolinggo (unas 2 horas), seguido de un minibús local o jeep hasta el pueblo de acceso de Cemoro Lawang. También es común contratar un auto privado directo o un tour organizado desde Surabaya, evitando así el traslado en tren.",
+      "days": "La mayoría de los visitantes reserva entre 1 y 2 días, tiempo suficiente para llegar a Cemoro Lawang, ver el amanecer desde un mirador y recorrer la zona del cráter en jeep antes de emprender el regreso."
+    },
+    "zh": {
+      "blurb": "布罗莫火山是位于东爪哇的一座活火山,袅袅青烟从火山口升起,四周被广袤的火山沙海和腾格尔破火山口环绕,景色壮阔。这里因宛如异星世界般的日出美景而闻名,当薄雾与晨光洒满脚下的火山口时,从附近的观景点望去尤为震撼。",
+      "getting": "大多数游客会先飞往泗水的朱安达国际机场(SUB),再从泗水古本站(Surabaya Gubeng)乘火车前往芝拉扎克(Probolinggo,约2小时车程),最后转乘当地小巴或吉普车抵达门户村庄仙纳罗拉望(Cemoro Lawang)。此外,从泗水直接包车或参加当地旅行团前往也很常见,可以省去转乘火车的麻烦。",
+      "days": "大多数游客会安排约1至2天的行程,足以抵达仙纳罗拉望,在观景点欣赏日出,并乘坐吉普车探索火山口区域,之后再返程。"
+    }
+  },
+  "Mui Ne": {
+    "en": {
+      "blurb": "Mui Ne is a coastal strip in Vietnam's Binh Thuan province famed for its towering red and white sand dunes and near-constant winds that have made it one of Asia's top kitesurfing and windsurfing destinations. Once a quiet fishing village, it now blends beach resorts and dune tours with a still-visible working fishing harbour.",
+      "getting": "Mui Ne has no airport or train station of its own; most travellers fly into Tan Son Nhat Airport (SGN) in Ho Chi Minh City and continue by bus (~4-5 hours) or by train to nearby Phan Thiet Railway Station followed by a short taxi transfer. Open-tour buses from Ho Chi Minh City, Da Lat, or Nha Trang are the most common and reliable way in.",
+      "days": "Plan on ~2-3 days to cover the main sights - the red and white sand dunes, Fairy Stream, and a kitesurfing or beach session - with extra time if you want to properly learn to kite or windsurf."
+    },
+    "ko": {
+      "blurb": "무이네는 베트남 빈투언성에 위치한 해안 지역으로, 우뚝 솟은 붉은 모래언덕과 하얀 모래언덕, 그리고 거의 끊이지 않는 바람 덕분에 아시아 최고의 카이트서핑 및 윈드서핑 명소로 손꼽힙니다. 한때 한적한 어촌 마을이었던 이곳은 이제 해변 리조트와 사구 투어가 어우러지면서도, 여전히 활기찬 어항의 모습을 간직하고 있습니다.",
+      "getting": "무이네에는 공항이나 기차역이 따로 없어, 대부분의 여행자는 호치민시의 탄손녓 국제공항(SGN)으로 입국한 후 버스(약 4~5시간)를 이용하거나, 기차로 인근 판티엣 기차역까지 이동한 뒤 짧은 택시 환승을 거쳐 무이네로 향합니다. 호치민시, 달랏, 냐짱에서 출발하는 오픈투어 버스가 가장 흔하고 안정적인 이동 수단입니다.",
+      "days": "붉은 모래언덕과 하얀 모래언덕, 요정계곡(Fairy Stream), 그리고 카이트서핑이나 해변에서의 여유로운 시간을 즐기려면 약 2~3일이면 충분합니다. 카이트서핑이나 윈드서핑을 제대로 배우고 싶다면 며칠 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ムイネーは、ベトナム・ビントゥアン省にある海岸沿いのリゾート地で、そびえるような赤砂丘・白砂丘と、一年を通してほぼ絶えることのない強い風で知られ、アジア屈指のカイトサーフィン&ウィンドサーフィンの聖地として人気を集めています。かつては静かな漁村でしたが、今ではビーチリゾートや砂丘ツアーが充実する一方、今も現役で稼働する漁港の風景がしっかりと残っています。",
+      "getting": "ムイネーには空港も鉄道駅もないため、多くの旅行者はホーチミン市のタンソンニャット国際空港(SGN)を利用し、そこからバス(所要約4~5時間)、または列車で近郊のファンティエット駅まで行き、そこから短いタクシー移動で向かうのが一般的です。ホーチミン市・ダラット・ニャチャンなどから出ているオープンツアーバスが、最も手軽で信頼できるアクセス方法として広く利用されています。",
+      "days": "主な見どころ―赤砂丘・白砂丘、フェアリーストリーム、そしてカイトサーフィンやビーチでの時間―を巡るには2~3日ほどが目安です。カイトサーフィンやウィンドサーフィンをしっかり習得したい場合は、さらに日数を確保しておくと良いでしょう。"
+    },
+    "es": {
+      "blurb": "Mui Ne es una franja costera en la provincia vietnamita de Binh Thuan, famosa por sus imponentes dunas de arena roja y blanca y por sus vientos casi constantes, que la han convertido en uno de los principales destinos de kitesurf y windsurf de Asia. Antaño un tranquilo pueblo de pescadores, hoy combina resorts de playa y excursiones a las dunas con un puerto pesquero en activo que todavía puede visitarse.",
+      "getting": "Mui Ne no cuenta con aeropuerto ni estación de tren propios; la mayoría de los viajeros llegan al aeropuerto de Tan Son Nhat (SGN) en Ciudad Ho Chi Minh y continúan en autobús (unas 4-5 horas) o en tren hasta la cercana estación de Phan Thiet, seguido de un breve trayecto en taxi. Los autobuses de \"open tour\" desde Ciudad Ho Chi Minh, Da Lat o Nha Trang son la forma más común y fiable de llegar.",
+      "days": "Calcula entre 2 y 3 días para recorrer los principales atractivos: las dunas de arena roja y blanca, el Arroyo de las Hadas (Fairy Stream) y una sesión de kitesurf o de playa, además de tiempo extra si quieres aprender a fondo a practicar kite o windsurf."
+    },
+    "zh": {
+      "blurb": "美奈是越南平顺省的一段海岸地带,以高耸的红、白沙丘和几乎全年不停的风闻名,是亚洲顶级的风筝冲浪和帆板运动胜地之一。这里曾是一个宁静的渔村,如今融合了海滩度假村、沙丘游览项目,同时仍保留着一个仍在运作的渔港。",
+      "getting": "美奈本身没有机场或火车站,大多数游客会先飞抵胡志明市的新山一机场(SGN),再乘坐大巴前往(约4-5小时),或搭火车到附近的潘切火车站,再转乘短途出租车前往美奈。从胡志明市、大叻或芽庄出发的开放式旅游巴士(open-tour bus)是最常见、最可靠的抵达方式。",
+      "days": "建议安排约2-3天游览主要景点——红、白沙丘、仙女溪(Fairy Stream),再体验一次风筝冲浪或悠闲的海滩时光;如果想认真学习风筝冲浪或帆板运动,则需要预留更多时间。"
+    }
+  },
+  "Pingxi": {
+    "en": {
+      "blurb": "Pingxi is a former coal-mining district in the mountains of New Taipei City, strung along a narrow-gauge railway that link old streets, waterfalls, and hillside settlements. It is best known as the birthplace of Taiwan's sky lantern tradition, where releasing a wish-inscribed lantern over the railway tracks has become an iconic, year-round ritual (and the centerpiece of the famous winter Sky Lantern Festival).",
+      "getting": "Travellers reach Pingxi by taking a Taiwan Railways (TRA) train from Taipei Main Station to Ruifang Station (~40 minutes to 1 hour), then transferring onto the Pingxi Line branch train, which trundles through Shifen, Pingxi, and other stops along the old coal route. A hop-on, hop-off day pass bought at Ruifang is the standard way to explore multiple stations along the line.",
+      "days": "Most visitors cover Pingxi's highlights — old street, waterfall, and lantern release — as a single ~1-day trip from Taipei, hopping between two or three stations along the line."
+    },
+    "ko": {
+      "blurb": "핑시(平溪)는 신베이시 산자락에 자리한 옛 탄광 마을로, 협궤열차 노선을 따라 오래된 거리와 폭포, 산비탈 마을들이 줄줄이 이어져 있습니다. 대만 천등(하늘 풍등) 문화의 발원지로 가장 잘 알려져 있는데, 소원을 적은 풍등을 철길 위로 띄워 올리는 의식은 이제 사계절 내내 즐길 수 있는 대표적인 체험이자, 겨울철 유명한 천등 축제의 백미로 자리 잡았습니다.",
+      "getting": "핑시로 가려면 먼저 대만철도(TRA) 열차를 타고 타이베이 기차역에서 루이팡역까지 이동합니다(약 40분~1시간 소요). 이후 핑시선 지선 열차로 갈아타면, 옛 탄광 노선을 따라 스펀, 핑시 등 여러 정거장을 천천히 지나가게 됩니다. 루이팡역에서 구입할 수 있는 1일 자유이용권을 이용하면 노선 곳곳의 여러 역을 자유롭게 오르내리며 둘러볼 수 있어 가장 일반적인 여행 방법으로 꼽힙니다.",
+      "days": "대부분의 여행객은 옛 거리 산책, 폭포 구경, 풍등 날리기 등 핑시의 주요 명소를 타이베이에서 당일치기로 다녀오며, 노선을 따라 두세 개 역을 오가며 하루 코스로 즐기는 것이 일반적입니다."
+    },
+    "ja": {
+      "blurb": "平渓（ピンシー）は新北市の山あいに広がる、かつて炭鉱で栄えた地域です。狭軌の平渓線に沿って古い街並みや滝、山あいの集落が点々と連なっています。台湾の天燈（スカイランタン）文化発祥の地として知られ、線路の上で願い事を書いたランタンを空に放つ光景は、今や一年を通して見られる象徴的な風物詩となっています（そして冬に開催される有名な平渓天燈節のハイライトでもあります）。",
+      "getting": "平渓へは、台湾鉄道（TRA）で台北駅から瑞芳駅まで（約40分～1時間）乗車し、そこで平渓線の支線列車に乗り換えるのが一般的です。この列車は、かつての炭鉱ルートに沿って十分（シーフェン）や平渓など、いくつもの駅をゆっくりと走ります。瑞芳駅で購入できる一日乗車券を利用して、乗り降り自由に沿線の駅を巡るのが定番の楽しみ方です。",
+      "days": "多くの旅行者は、老街（古い街並み）、滝、そしてランタン上げといった平渓の見どころを、台北からの日帰り旅行（約1日）でまとめて楽しみます。沿線の2〜3駅を渡り歩きながら巡るのが一般的なスタイルです。"
+    },
+    "es": {
+      "blurb": "Pingxi es un antiguo distrito minero de carbón enclavado en las montañas de Nueva Taipéi, recorrido por una línea ferroviaria de vía angosta que enlaza calles históricas, cascadas y pequeños poblados de montaña. Es conocido sobre todo por ser la cuna de la tradición taiwanesa de las linternas del cielo, donde soltar una linterna con un deseo escrito sobre las vías del tren se ha convertido en un ritual emblemático que se practica todo el año (y que alcanza su máximo esplendor durante el célebre Festival de las Linternas del Cielo en invierno).",
+      "getting": "Para llegar a Pingxi, los viajeros toman un tren de Taiwan Railways (TRA) desde la Estación Principal de Taipéi hasta la Estación de Ruifang (entre 40 minutos y 1 hora), y luego hacen transbordo a la línea ramal de Pingxi, que avanza lentamente por Shifen, Pingxi y otras paradas a lo largo de la antigua ruta del carbón. Lo habitual es comprar en Ruifang un pase de un día tipo \"hop-on, hop-off\", que permite subir y bajar libremente en las distintas estaciones de la línea.",
+      "days": "La mayoría de los visitantes recorre lo más destacado de Pingxi —la calle histórica, la cascada y la suelta de linternas— en una excursión de un día desde Taipéi, desplazándose entre dos o tres estaciones a lo largo de la línea."
+    },
+    "zh": {
+      "blurb": "平溪是新北市山区的一处旧煤矿聚落,沿着一条窄轨铁路串连起老街、瀑布与山间小镇。这里被视为台湾天灯文化的发源地,在铁道上空放一盏写满心愿的天灯,早已成为全年皆宜、深具代表性的仪式(也是冬季知名平溪天灯节的重头戏)。",
+      "getting": "前往平溪,一般是先从台北车站搭乘台铁(TRA)列车到瑞芳车站(约40分钟至1小时),再转乘平溪线支线小火车,沿着昔日运煤路线缓缓驶过十分、平溪等站。在瑞芳购买一日周游券,随上随下地探索沿线各站,是最常见的玩法。",
+      "days": "大多数游客会把老街、瀑布与放天灯这几个平溪亮点,安排成一次从台北出发的一日游,在沿线两三个车站之间轻松穿梭游览。"
+    }
+  },
+  "Phong Nha": {
+    "en": {
+      "blurb": "Phong Nha sits at the heart of Phong Nha-Ke Bang National Park, a UNESCO World Heritage Site riddled with karst mountains and over 300 caves, including Son Doong, widely cited as the world's largest cave passage. Beyond its record-breaking caverns, the area offers boat trips along the Son River, jungle treks, and access to some of the oldest karst landscapes in Asia, dating back roughly 400 million years.",
+      "getting": "Phong Nha has no airport or train station of its own, so travellers fly into or take the Reunification Express train to Dong Hoi (VDH airport / Dong Hoi Railway Station), then continue ~45km by taxi, private transfer, or local bus to reach Phong Nha itself. This last leg typically takes ~45–90 minutes depending on the transport chosen.",
+      "days": "Most visitors spend ~2-3 days in Phong Nha to cover the accessible show caves, a river boat trip, and at least one trek or motorbike loop through the national park, with longer multi-day expedition permits required for deeper caves like Son Doong."
+    },
+    "ko": {
+      "blurb": "퐁냐(Phong Nha)는 유네스코 세계문화유산으로 지정된 퐁냐-케방 국립공원(Phong Nha-Ke Bang National Park)의 중심부에 자리하고 있으며, 카르스트 산악 지형과 300개가 넘는 동굴이 이곳에 펼쳐져 있습니다. 그중에서도 세계 최대 규모의 동굴 통로로 널리 알려진 손동 동굴(Son Doong)이 대표적입니다. 이 기록적인 동굴들 외에도, 손강(Son River)을 따라가는 보트 투어, 정글 트레킹, 그리고 약 4억 년 전으로 거슬러 올라가는 아시아에서 가장 오래된 카르스트 지형 중 일부를 직접 만나볼 수 있습니다.",
+      "getting": "퐁냐(Phong Nha)에는 자체 공항이나 기차역이 없기 때문에, 여행자들은 보통 비행기를 타거나 통일열차(Reunification Express)를 이용해 동허이(Dong Hoi, VDH 공항/동허이 기차역)까지 이동한 뒤, 그곳에서 택시나 프라이빗 차량, 또는 로컬 버스를 이용해 약 45km 떨어진 퐁냐까지 이동합니다. 이 마지막 구간은 교통수단에 따라 대략 45분에서 90분 정도 소요됩니다.",
+      "days": "대부분의 여행자는 퐁냐에서 약 2~3일 정도를 머무르며, 접근 가능한 관광 동굴 탐방과 강 보트 투어, 그리고 국립공원 내 최소 한 번의 트레킹이나 오토바이 라이딩을 즐깁니다. 손동 동굴(Son Doong)과 같이 더 깊숙한 동굴을 탐험하려면 별도의 다일간 탐험 허가가 필요하며, 이 경우 일정은 더 길어질 수 있습니다."
+    },
+    "ja": {
+      "blurb": "フォンニャは、UNESCO世界遺産に登録されているフォンニャ・ケバン国立公園の中心に位置し、カルスト山地と300を超える洞窟群が点在しています。その中には、世界最大級の洞窟通路として広く知られるソンドン洞窟も含まれています。記録的な規模を誇る洞窟だけでなく、この地域ではソン川でのボートツアーやジャングルトレッキングも楽しめ、約4億年前にまで遡るアジア最古級のカルスト地形にも触れることができます。",
+      "getting": "フォンニャ自体には空港や鉄道駅がないため、まずはドンホイ(VDH空港/ドンホイ駅)へ飛行機か南北統一鉄道(Reunification Express)で向かいます。そこからタクシーや専用車、あるいはローカルバスで約45km移動してフォンニャへ入るのが一般的です。この最後の区間は、利用する交通手段によって45~90分ほどかかります。",
+      "days": "多くの旅行者は、アクセス可能な観光洞窟の見学、川でのボートツアー、そして国立公園内でのトレッキングやバイクでの周遊コースを組み合わせて、フォンニャで2~3日ほど過ごします。ソンドン洞窟のようなより深部の洞窟を訪れるには、複数日にわたる遠征許可が別途必要となります。"
+    },
+    "es": {
+      "blurb": "Phong Nha se encuentra en el corazón del Parque Nacional Phong Nha-Ke Bang, un Patrimonio de la Humanidad de la UNESCO repleto de montañas kársticas y más de 300 cuevas, entre ellas Son Doong, considerada por muchos como el mayor pasaje de cueva del mundo. Más allá de sus cavernas récord, la zona ofrece paseos en barco por el río Son, caminatas por la selva y acceso a algunos de los paisajes kársticos más antiguos de Asia, con una antigüedad de casi 400 millones de años.",
+      "getting": "Phong Nha no cuenta con aeropuerto ni estación de tren propios, por lo que los viajeros suelen volar o tomar el tren Reunification Express hasta Dong Hoi (aeropuerto VDH / Estación de Tren de Dong Hoi), y desde allí recorrer unos 45 km en taxi, traslado privado o autobús local para llegar a Phong Nha. Este último tramo suele durar entre 45 y 90 minutos, según el medio de transporte elegido.",
+      "days": "La mayoría de los visitantes pasa entre 2 y 3 días en Phong Nha para recorrer las cuevas turísticas accesibles, hacer un paseo en barco por el río y realizar al menos una caminata o una ruta en moto por el parque nacional. Para explorar cuevas más profundas, como Son Doong, se requieren permisos especiales para expediciones de varios días."
+    },
+    "zh": {
+      "blurb": "风格榜（Phong Nha）坐落于峰牙-己榜国家公园（Phong Nha-Ke Bang National Park）的核心地带，这是一处联合国教科文组织世界遗产地，境内喀斯特山峦连绵，藏有300多个溶洞，其中就包括被公认为世界最大洞穴通道的山水洞（Son Doong）。除了这些令人叹为观止的洞穴奇观，这里还可以体验风流河（Son River）泛舟、丛林徒步，探访亚洲最古老的喀斯特地貌之一，其形成历史可追溯至约4亿年前。",
+      "getting": "风格榜本身没有机场或火车站，因此游客通常先乘飞机或搭乘统一号列车（Reunification Express）抵达洞海（Dong Hoi，机场代码VDH／洞海火车站），再转乘出租车、私人接送车或当地巴士，行驶约45公里前往风格榜。这最后一段路程视交通方式不同，通常需要45至90分钟。",
+      "days": "大多数游客会在风格榜停留约2-3天，用来游览对外开放的洞穴、体验一次乘船游河，并至少安排一次徒步或摩托车穿越国家公园的行程；若想深入探索如山水洞（Son Doong）这样的深处洞穴，则需申请为期更长的多日探险许可。"
+    }
+  },
+  "Saadiyat Island": {
+    "en": {
+      "blurb": "Saadiyat Island is Abu Dhabi's cultural showcase, anchoring world-class institutions like the Louvre Abu Dhabi and Manarat Al Saadiyat alongside a growing lineup that includes the Zayed National Museum and the upcoming Guggenheim Abu Dhabi. It pairs that museum-district energy with soft white-sand beaches and protected shoreline where Hawksbill turtles nest, making it one of the few places in the region blending serious art with genuine coastal calm.",
+      "getting": "The nearest gateway is Zayed International Airport (AUH), roughly a ~25-30 minute taxi or car ride away via the highway link over the Sheikh Khalifa Bridge; travellers without a car can also use the free shuttle bus that connects the airport and downtown to key stops on the island such as the Louvre, or reach it via public bus from central Abu Dhabi's bus network with a transfer.",
+      "days": "Plan on ~1-2 days to take in a flagship museum, stroll or relax at one of the beach clubs, and explore the wider cultural district at an unhurried pace."
+    },
+    "ko": {
+      "blurb": "사디야트 섬은 아부다비의 문화적 자존심이 담긴 곳으로, 루브르 아부다비와 마나랏 알 사디야트 같은 세계적 수준의 명소들이 자리하고 있으며, 자예드 국립 박물관과 앞으로 개관할 구겐하임 아부다비까지 더해지며 그 라인업이 점점 풍성해지고 있습니다. 이런 박물관 지구 특유의 활기에 더해, 부드러운 백사장 해변과 매부리바다거북이 알을 낳는 보호 해안선까지 갖추고 있어, 진지한 예술과 여유로운 해변의 평온함을 동시에 누릴 수 있는 이 지역에서 몇 안 되는 특별한 장소입니다.\",\"getting\":\"가장 가까운 관문은 자예드 국제공항(AUH)으로, 셰이크 칼리파 다리를 지나는 고속도로를 이용해 택시나 자동차로 약 25~30분 거리에 있습니다. 차가 없는 여행객이라면 공항과 시내를 연결해 루브르를 비롯한 섬 내 주요 지점까지 운행하는 무료 셔틀버스를 이용할 수도 있고, 아부다비 중심가의 대중교통 버스망을 통해 환승하여 이동할 수도 있습니다.",
+      "getting": "가장 가까운 관문은 자예드 국제공항(AUH)으로, 셰이크 칼리파 다리를 지나는 고속도로를 이용해 택시나 자동차로 약 25~30분 거리에 있습니다. 차가 없는 여행객이라면 공항과 시내를 연결해 루브르를 비롯한 섬 내 주요 지점까지 운행하는 무료 셔틀버스를 이용할 수도 있고, 아부다비 중심가의 대중교통 버스망을 통해 환승하여 이동할 수도 있습니다.",
+      "days": "대표 박물관 한 곳을 둘러보고, 비치 클럽에서 산책하거나 여유를 즐기며, 문화 지구 전체를 느긋하게 탐방하려면 1~2일 정도 계획하는 것이 좋습니다."
+    },
+    "es": {
+      "blurb": "La isla de Saadiyat es el escaparate cultural de Abu Dabi, sede de instituciones de primer nivel como el Louvre Abu Dabi y Manarat Al Saadiyat, junto a una oferta que sigue creciendo con el Museo Nacional Zayed y el futuro Guggenheim Abu Dabi. A esa energía de distrito museístico se suman playas de arena blanca y suave, además de un litoral protegido donde anidan las tortugas carey, lo que convierte a la isla en uno de los pocos lugares de la región donde el arte de primer nivel convive con una auténtica calma costera.",
+      "getting": "La puerta de entrada más cercana es el Aeropuerto Internacional Zayed (AUH), a unos 25-30 minutos en taxi o coche por la autovía que cruza el puente Sheikh Khalifa. Quienes no dispongan de vehículo también pueden tomar el autobús lanzadera gratuito que conecta el aeropuerto y el centro de la ciudad con puntos clave de la isla, como el Louvre, o llegar en autobús público desde la red de transporte del centro de Abu Dabi haciendo un transbordo.",
+      "days": "Conviene reservar entre 1 y 2 días para visitar con calma un museo emblemático, pasear o relajarse en alguno de los clubes de playa, y descubrir sin prisas el resto del distrito cultural."
+    }
+  },
+  "Selcuk": {
+    "en": {
+      "blurb": "Selçuk is the modern gateway to Ephesus, one of the best-preserved ancient cities in the Mediterranean, and its own hilltop is crowned by the ruins of the Basilica of St. John and a Byzantine citadel overlooking storks nesting on a Roman aqueduct. Beyond the ruins, this small Aegean town anchors a cluster of major pilgrimage and archaeological sites, including the House of the Virgin Mary and the Ephesus Archaeological Museum.",
+      "getting": "Most travellers arrive via İzmir Adnan Menderes Airport (ADB), taking the İZBAN commuter rail line south with a change at Tepeköy onto the Selçuk branch, or a direct regional TCDD train, with the journey taking roughly ~1 hour by direct train; Selçuk's own train station also has regional services to İzmir, Aydın, and Denizli, and intercity buses connect to the wider Aegean coast.",
+      "days": "Plan on ~1-2 days to cover Ephesus itself along with the House of the Virgin Mary, the Basilica of St. John, and the town's museum and old quarter."
+    },
+    "ko": {
+      "blurb": "셀축(Selçuk)은 지중해에서 가장 잘 보존된 고대 도시 중 하나인 에페소(Ephesus)로 향하는 현대적인 관문이다. 언덕 위 마을 자체도 성 요한 대성당(Basilica of St. John)의 유적과, 로마 시대 수로에 둥지를 튼 황새들을 내려다보는 비잔틴 요새로 장식되어 있다. 유적지를 넘어서도 이 작은 에게해 마을은 성모 마리아의 집(House of the Virgin Mary)과 에페소 고고학 박물관(Ephesus Archaeological Museum)을 비롯한 주요 성지 순례지와 고고학 유적들의 거점 역할을 한다.",
+      "getting": "대부분의 여행자는 이즈미르 아드난 멘데레스 공항(ADB)을 통해 도착하며, 이즈반(İZBAN) 통근 열차를 타고 남쪽으로 이동해 테페코이(Tepeköy)에서 셀축행 노선으로 환승하거나, TCDD 지역 직행열차를 이용한다. 직행열차 기준 소요 시간은 약 1시간 정도다. 셀축 기차역에서는 이즈미르, 아이든(Aydın), 데니즐리(Denizli)행 지역 열차도 운행되며, 시외버스를 통해 에게해 연안 지역 전체와도 연결된다.",
+      "days": "에페소 유적지 자체와 성모 마리아의 집, 성 요한 대성당, 그리고 마을의 박물관과 구시가지를 둘러보는 데는 약 1~2일 정도를 계획하면 좋다."
+    },
+    "ja": {
+      "blurb": "セルチュクは、地中海地域で最も保存状態の良い古代都市のひとつ、エフェソスへの現代の玄関口です。町を見下ろす丘の上には聖ヨハネ大聖堂の遺跡とビザンツ帝国時代の城塞がそびえ、その麓のローマ水道橋にはコウノトリが巣を作っています。遺跡群だけでなく、この小さなエーゲ海沿いの町は、聖母マリアの家やエフェソス考古学博物館をはじめ、主要な巡礼地や考古学スポットが集まる拠点となっています。",
+      "getting": "多くの旅行者はイズミル・アドナン・メンデレス空港(ADB)を利用し、そこからイズバン近郊電車で南へ向かい、テペキョイでセルチュク方面の支線に乗り換えるか、あるいはTCDDの地域直通列車を利用します。直通列車なら所要時間は約1時間です。セルチュクの駅からはイズミル、アイドゥン、デニズリ方面への地域列車も出ており、長距離バスでエーゲ海沿岸の各地とも結ばれています。",
+      "days": "エフェソス本体に加え、聖母マリアの家、聖ヨハネ大聖堂、そして町の博物館や旧市街を巡るには、1〜2日程度を目安にするとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Selçuk es la puerta moderna a Éfeso, una de las ciudades antiguas mejor conservadas del Mediterráneo, y su propia colina está coronada por las ruinas de la Basílica de San Juan y una ciudadela bizantina que domina las cigüeñas que anidan sobre un acueducto romano. Más allá de las ruinas, este pequeño pueblo egeo articula un conjunto de importantes sitios de peregrinación y arqueología, entre ellos la Casa de la Virgen María y el Museo Arqueológico de Éfeso.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto de Esmirna Adnan Menderes (ADB), tomando la línea de tren de cercanías İZBAN hacia el sur con transbordo en Tepeköy hacia el ramal de Selçuk, o bien un tren regional directo de TCDD, con un trayecto de aproximadamente ~1 hora en el tren directo; la propia estación de tren de Selçuk también ofrece servicios regionales a Esmirna, Aydın y Denizli, y los autobuses interurbanos conectan con el resto de la costa egea.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer Éfeso, además de la Casa de la Virgen María, la Basílica de San Juan y el museo y el casco antiguo del pueblo."
+    },
+    "zh": {
+      "blurb": "塞尔丘克是通往以弗所的现代门户——以弗所是地中海地区保存最完好的古城之一。小镇自身所在的山丘上,矗立着圣约翰大教堂遗址和一座拜占庭城堡,俯瞰着栖息在罗马引水渠上筑巢的鹳鸟。除了这些遗迹之外,这座爱琴海小城还汇聚了多处重要的朝圣与考古胜地,包括圣母玛利亚故居和以弗所考古博物馆。",
+      "getting": "大多数游客经由伊兹密尔阿德南·曼德列斯机场(ADB)抵达,可乘坐IZBAN城郊铁路南下,在泰佩科伊(Tepeköy)换乘开往塞尔丘克的支线列车,也可搭乘土耳其国铁(TCDD)的直达区域列车,直达列车全程约1小时;塞尔丘克火车站还提供往返伊兹密尔、艾登和代尼兹利的区域列车服务,此外长途汽车也可连接爱琴海沿岸更广泛的地区。",
+      "days": "建议安排约1-2天时间,游览以弗所古城本身,以及圣母玛利亚故居、圣约翰大教堂,还有小镇的博物馆和老城区。"
+    }
+  },
+  "Taiping": {
+    "en": {
+      "blurb": "Known as Malaysia's \"Rain Town\" for its heavy year-round rainfall, Taiping is the country's oldest town, home to its first public garden (the Lake Gardens), first museum, and first zoo. Its misty hill station of Bukit Larut and century-old rain trees give this former Perak state capital a lush, unhurried, colonial-era charm rarely found in Malaysia's bigger cities.",
+      "getting": "Taiping has no commercial airport, so most travellers fly into Kuala Lumpur or Penang and continue by rail or road; the KTM ETS train connects KL Sentral directly to Taiping's own railway station in ~2.5-3 hours. Drivers typically use the North–South Expressway, exiting at Kamunting just outside town.",
+      "days": "Most visitors budget ~1-2 days to cover the Lake Gardens, Perak Museum, and heritage core, adding a third day if venturing up to Bukit Larut or visiting the zoo and night safari."
+    },
+    "ko": {
+      "blurb": "말레이시아에서 연중 비가 많이 내려 '우도(雨都)'라 불리는 타이핑은 말레이시아에서 가장 오래된 도시로, 이 나라 최초의 공공 정원(레이크 가든), 최초의 박물관, 최초의 동물원이 자리한 곳이다. 안개에 싸인 고원 휴양지 부킷 라루트와 수령이 백 년이 넘는 비의 나무들이 어우러져, 한때 페락 주의 주도였던 이 도시에는 말레이시아 대도시에서는 좀처럼 찾아보기 힘든 여유롭고 울창한 식민지 시대의 정취가 남아 있다.",
+      "getting": "타이핑에는 상업 공항이 없어 대부분의 여행객은 쿠알라룸푸르나 페낭으로 입국한 뒤 기차나 육로로 이동한다. KTM ETS 열차를 이용하면 KL 센트럴역에서 타이핑 기차역까지 약 2.5~3시간이면 도착한다. 자가 운전 시에는 보통 남북고속도로(North–South Expressway)를 이용해 시내 바로 외곽에 있는 카무닝(Kamunting) 출구로 나가면 된다.",
+      "days": "대부분의 여행객은 레이크 가든, 페락 박물관, 그리고 유서 깊은 구시가지를 둘러보는 데 1~2일 정도를 계획하며, 부킷 라루트에 오르거나 동물원과 나이트 사파리까지 즐기려면 하루를 더 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "タイピンは一年を通して雨が多いことから「雨の町」として知られるマレーシア最古の町で、同国初の公共庭園(レイク・ガーデンズ)、初の博物館、初の動物園を有しています。霞に包まれる高原避暑地ブキット・ラルットや樹齢百年を超えるレインツリーが、かつてペラ州の州都であったこの町に、マレーシアの大都市ではなかなか味わえない、緑豊かでゆったりとした植民地時代の風情を漂わせています。",
+      "getting": "タイピンには商業空港がないため、多くの旅行者はクアラルンプールかペナンに空路で入り、そこから鉄道や陸路で移動します。KTMのETS特急を利用すれば、KLセントラル駅からタイピン駅まで直通で約2.5~3時間です。車で向かう場合は南北高速道路(North–South Expressway)を利用し、町の少し手前にあるカムニン(Kamunting)出口で降りるのが一般的です。",
+      "days": "多くの旅行者は、レイク・ガーデンズ、ペラ博物館、そして歴史的な旧市街を巡るのに1~2日ほどを予定しています。ブキット・ラルットへ足を延ばしたり、動物園やナイトサファリを訪れたりする場合は、3日目を追加するとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Conocida como la \"Ciudad de la Lluvia\" de Malasia por sus abundantes precipitaciones durante todo el año, Taiping es la localidad más antigua del país y cuna de su primer jardín público (los Lake Gardens), su primer museo y su primer zoológico. Su neblinosa estación de montaña de Bukit Larut y sus centenarios árboles de lluvia le dan a esta antigua capital del estado de Perak un encanto colonial exuberante y sin prisas, poco común en las grandes ciudades de Malasia.",
+      "getting": "Taiping no cuenta con aeropuerto comercial, por lo que la mayoría de los viajeros llegan por vía aérea a Kuala Lumpur o Penang y continúan por tren o carretera; el tren KTM ETS conecta KL Sentral directamente con la propia estación de ferrocarril de Taiping en unas 2,5-3 horas. Quienes viajan en auto suelen tomar la Autopista Norte-Sur, saliendo por Kamunting, justo a las afueras de la ciudad.",
+      "days": "La mayoría de los visitantes reserva entre 1 y 2 días para recorrer los Lake Gardens, el Museo de Perak y el centro histórico, sumando un tercer día si desean subir a Bukit Larut o visitar el zoológico y su safari nocturno."
+    },
+    "zh": {
+      "blurb": "太平因终年多雨而被称为马来西亚的\"雨城\",是马来西亚历史最悠久的城镇,拥有该国第一座公共花园(太平湖滨公园)、第一座博物馆和第一座动物园。云雾缭绕的太平山避暑山庄,加上百年雨树的点缀,让这座前霹雳州首府散发着浓郁而闲适的殖民时代风情,这在马来西亚的大城市中已难得一见。",
+      "getting": "太平没有商业机场,因此大多数游客会先飞抵吉隆坡或槍城,再转乘铁路或陆路前往。KTM ETS特快列车可从吉隆坡中央车站直达太平火车站,车程约2.5至3小时。自驾游客通常走南北大道,在城外的甘文丁出口下高速即可到达。",
+      "days": "大多数游客会安排约1至2天的时间游览湖滨公园、霹雳州博物馆及历史城区,若想上太平山或参观动物园与夜间野生动物园,则可增加一天行程。"
+    }
+  },
+  "Tioman": {
+    "en": {
+      "blurb": "Tioman is a jungle-draped island in the South China Sea, ringed by coral reefs and clear water that make it one of Malaysia's best-known diving and snorkelling destinations. Much of its interior is protected rainforest and steep volcanic peaks, with a scattering of laid-back kampung-style villages along the coast rather than large-scale resort development.",
+      "getting": "Most travellers reach Tioman by ferry from the regional hub of Mersing on the Johor coast (with an alternative departure point at Tanjung Gemok), a crossing that takes roughly 1.5–2.5 hours depending on tides and weather; Mersing itself is reached by bus or coach from Kuala Lumpur or Singapore. A small airstrip (Tioman Airport, code TOD) also serves the island with limited scheduled flights, but the ferry remains the standard, reliable way in.",
+      "days": "Plan on ~3-4 days to settle into island pace, snorkel or dive a couple of sites, and hike at least one jungle trail between villages."
+    },
+    "ko": {
+      "blurb": "티오만은 남중국해에 자리한 정글 섬으로, 섬 주위를 둘러싼 산호초와 맑은 바다 덕분에 말레이시아를 대표하는 다이빙·스노클링 명소로 손꼽힌다. 섬 내부는 대부분 보호구역인 열대우림과 가파른 화산 봉우리로 이루어져 있으며, 해안을 따라서는 대형 리조트 개발보다는 한적한 캄퐁(kampung) 스타일의 마을들이 드문드문 자리하고 있다.",
+      "getting": "대부분의 여행자는 조호르 해안의 거점 도시 메르싱(Mersing)에서 출발하는 페리를 타고 티오만에 도착한다(대체 출발지로 탄중 게모크(Tanjung Gemok)도 있다). 조수와 기상 상황에 따라 약 1.5~2.5시간이 소요되며, 메르싱까지는 쿠알라룸푸르나 싱가포르에서 버스나 고속버스로 이동할 수 있다. 소규모 활주로인 티오만 공항(공항 코드 TOD)에서 제한적인 정기 항공편도 운항하지만, 페리가 여전히 가장 표준적이고 믿을 만한 이동 수단이다.",
+      "days": "섬의 느긋한 리듬에 적응하고, 두어 곳에서 스노클링이나 다이빙을 즐기고, 마을 사이를 잇는 정글 트레일을 최소 한 번은 걸어보려면 약 3~4일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ティオマン島は南シナ海に浮かぶ、鬱蒼としたジャングルに覆われた島で、サンゴ礁と透明度の高い海に囲まれ、マレーシアを代表するダイビング・シュノーケリングの名所として知られています。島の内陸部はほとんどが保護区の熱帯雨林と険しい火山性の山々で占められ、海岸沿いにはのんびりとしたカンポン(村)スタイルの集落が点在するのみで、大規模なリゾート開発は見られません。",
+      "getting": "ティオマン島へは、多くの旅行者がジョホール州沿岸の拠点都市メルシンからフェリーでアクセスします(タンジュン・ゲモクも出発地の選択肢のひとつです)。海の状況や天候により所要時間は1.5~2.5時間ほど。メルシン自体には、クアラルンプールやシンガポールからバスや長距離コーチで行くことができます。島には小さな飛行場(ティオマン空港、コードTOD)もあり、便数は限られていますが定期便が運航しています。とはいえ、フェリーが最も一般的で確実なアクセス手段です。",
+      "days": "島ならではのゆったりとしたペースに慣れ、2〜3か所でシュノーケリングやダイビングを楽しみ、村と村をつなぐジャングルのトレイルを少なくとも1本歩くには、3~4日程度を目安にするとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Tioman es una isla envuelta en selva en el Mar de China Meridional, rodeada de arrecifes de coral y aguas cristalinas que la convierten en uno de los destinos de buceo y esnórquel más famosos de Malasia. Buena parte de su interior es selva tropical protegida y picos volcánicos escarpados, con un puñado de pueblos costeros de estilo kampung, tranquilos y sin pretensiones, en lugar de grandes complejos turísticos.",
+      "getting": "La mayoría de los viajeros llega a Tioman en ferry desde Mersing, el centro regional en la costa de Johor (con un punto de salida alternativo en Tanjung Gemok); la travesía dura entre 1,5 y 2,5 horas aproximadamente, según las mareas y el clima. A Mersing, a su vez, se llega en autobús desde Kuala Lumpur o Singapur. La isla también cuenta con una pequeña pista de aterrizaje (Aeropuerto de Tioman, código TOD) con vuelos regulares limitados, aunque el ferry sigue siendo la forma habitual y más fiable de llegar.",
+      "days": "Conviene reservar entre 3 y 4 días para adaptarse al ritmo isleño, bucear o hacer esnórquel en un par de puntos y recorrer al menos una ruta de senderismo por la selva entre pueblos."
+    },
+    "zh": {
+      "blurb": "刁曼岛(Tioman)是南中国海上一座被热带雨林覆盖的岛屿,四周环绕着珊瑚礁和清澈见底的海水,是马来西亚最负盛名的潜水和浮潜胜地之一。岛屿内陆大部分是受保护的原始雨林和陡峭的火山峰,沿海则散布着几处悠闲的甘榜(kampung)式村落,而非大规模的度假村开发区。",
+      "getting": "大多数旅客经由柔佛(Johor)海岸的交通枢纽麻坡外港——直落雅林(Mersing)乘渡轮前往刁曼岛(另有一个出发点是丹绒immer——Tanjung Gemok),航程约需1.5至2.5小时,具体视潮汐和天气而定;而Mersing本身则可从吉隆坡或新加坡搭乘长途巴士抵达。岛上还有一座小型机场(刁曼机场,代码TOD),提供有限的定期航班,但渡轮仍是最常见、最可靠的进岛方式。",
+      "days": "建议安排约3至4天时间,慢慢融入海岛的悠闲节奏,浮潜或潜水探访几处潜点,并至少徒步一条连接村落的丛林步道。"
+    }
+  },
+  "Trabzon": {
+    "en": {
+      "blurb": "Perched on the Black Sea coast beneath green, mist-wrapped mountains, Trabzon blends a historic Ottoman-Byzantine old town with dramatic highland scenery just inland, including the cliffside Sümela Monastery. It's the gateway to Turkey's lush eastern Black Sea region, a landscape of tea terraces, alpine plateaus (yaylas), and a culture distinct from the rest of the country.",
+      "getting": "Most travelers arrive via Trabzon Airport (TZX), which has domestic connections to Istanbul and Ankara and some international routes; there is no mainline passenger rail to Trabzon, so overland travelers rely on long-distance buses into the city's otogar (bus terminal). A light rail line linking the airport to the seafront is under construction but not yet operational.",
+      "days": "Plan on ~2-3 days to cover the city center, Sümela Monastery, and a nearby highland plateau at a relaxed pace."
+    },
+    "ko": {
+      "blurb": "짙은 안개에 싸인 초록빛 산자락 아래, 흑해 연안에 자리한 트라브존은 오스만-비잔틴 시대의 유서 깊은 구시가지와 함께 깎아지른 절벽 위 수멜라 수도원을 비롯한 내륙의 웅장한 고산 풍경을 두루 품고 있습니다. 이곳은 차밭 계단과 고산 초원(야일라), 그리고 터키 다른 지역과는 사뭇 다른 독특한 문화가 어우러진 동부 흑해 지역으로 향하는 관문입니다.",
+      "getting": "대부분의 여행자는 트라브존 공항(TZX)을 통해 도착하며, 이스탄불과 앙카라를 오가는 국내선과 일부 국제선이 운항됩니다. 트라브존까지 이어지는 간선 여객 철도는 없어 육로로 이동하는 여행자는 시내 오토가르(버스터미널)로 향하는 장거리 버스를 이용해야 합니다. 공항과 해안가를 연결하는 경전철 노선이 건설 중이지만 아직 운행되지 않고 있습니다.",
+      "days": "여유롭게 시내 중심가, 수멜라 수도원, 그리고 인근 고산 초원까지 둘러보려면 약 2~3일 정도를 계획하시면 좋습니다."
+    },
+    "ja": {
+      "blurb": "黒海沿岸、緑濃く霧に包まれた山々のふもとに広がるトラブゾンは、オスマン・ビザンチン時代の面影を残す旧市街と、内陸に広がる雄大な高原の景観――断崖に建つスュメラ修道院を含む――が見事に調和した町です。トルコ東黒海地方への玄関口として知られ、茶畑の段々畑や高原(ヤイラ)が広がるこの一帯は、国内の他地域とは一線を画す独自の文化を育んでいます。",
+      "getting": "多くの旅行者はトラブゾン空港(TZX)を利用して訪れます。イスタンブールやアンカラとの国内便のほか、一部国際便も就航していますが、トラブゾンへ乗り入れる幹線鉄道はないため、陸路で訪れる場合は市内のオトガル(長距離バスターミナル)行きの長距離バスを利用することになります。空港と海沿いを結ぶ軽軌道(ライトレール)は建設中ですが、まだ開通していません。",
+      "days": "市街中心部、スュメラ修道院、そして近郊の高原を無理なく巡るなら、2〜3日程度を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Encaramada en la costa del mar Negro, bajo montañas verdes envueltas en niebla, Trabzon combina un casco antiguo de herencia otomano-bizantina con un espectacular paisaje de montaña tierra adentro, que incluye el Monasterio de Sümela, aferrado a un acantilado. Es la puerta de entrada a la exuberante región oriental del mar Negro turco, un territorio de terrazas de té, mesetas alpinas (yaylas) y una cultura muy distinta al resto del país.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto de Trabzon (TZX), que cuenta con conexiones nacionales a Estambul y Ankara, además de algunas rutas internacionales; no existe un servicio de tren de pasajeros que llegue a Trabzon, por lo que quienes viajan por tierra dependen de los autobuses de larga distancia hasta el otogar (terminal de autobuses) de la ciudad. Actualmente se está construyendo una línea de tren ligero que conectará el aeropuerto con el frente marítimo, aunque todavía no está en funcionamiento.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma el centro de la ciudad, el Monasterio de Sümela y una meseta cercana en las tierras altas."
+    },
+    "zh": {
+      "blurb": "特拉布宗坐落在黑海之滨,背靠云雾缭绕的青翠山峦,古老的奥斯曼-拜占庭老城与内陆壮丽的高地风光相映成趣,其中就包括悬于崖壁之上的苏美拉修道院。作为通往土耳其东黑海地区的门户,这里遍布茶园梯田和高山草甸(yayla),孕育出一种与土耳其其他地区迥然不同的独特文化。",
+      "getting": "大多数旅行者通过特拉布宗机场(TZX)抵达,该机场有往返伊斯坦布尔和安卡拉的国内航班,以及部分国际航线;由于没有通往特拉布宗的干线客运铁路,陆路旅行者主要依靠长途巴士抵达市内的汽车客运站(otogar)。一条连接机场与海滨的轻轨线路正在建设中,但尚未通车。",
+      "days": "建议预留约2-3天时间,以轻松的节奏游览市中心、苏美拉修道院以及附近的一处高山草甸。"
     }
   }
 }
