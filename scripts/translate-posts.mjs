@@ -186,7 +186,21 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
-  if (!out?.body || !out?.title) throw new Error('model returned no translation');
+  // An EMPTY answer is stochastic, exactly like the malformed and mangled-
+  // syllable cases below — and it was the only one of the three that gave up on
+  // the first try. That gap cost one Korean file a night, two nights running:
+  // ko/toledo-monasterio-de-san-juan-de-los-reyes (08-11) and
+  // ko/koh-phi-phi-monkey-bay (08-12), each while es/ja/zh of the SAME post
+  // came back fine, and each one translating correctly the moment it was run
+  // again by hand. A retry the script could have done itself was being done by
+  // a person the next morning.
+  if (!out?.body || !out?.title) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — model returned nothing, retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`model returned no translation after ${attempt} attempts`);
+  }
 
   // Reject a malformed translation instead of writing it. A dropped quickAnswer
   // is the same class of defect: the source had one, so a translation without it
