@@ -562,6 +562,33 @@ jobs:
         continue-on-error: true
         run: node scripts/check-heading-skips.mjs
 
+      # Each check in here is a design slip the owner once caught by eye. It was
+      # written on 2026-08-09 to make them machine checks and then wired to
+      # nothing, so it only ran when a session remembered it — and a session
+      # runs it against whatever dist/ is lying around locally. Twice (08-11,
+      # 08-12) that dist was days old and every finding was false; both evenings
+      # were spent disproving fixes that were already live. This is the one place
+      # a fresh dist exists daily, which is the only place the audit can tell the
+      # truth. The script itself now refuses a stale dist rather than guessing.
+      - name: Check design uniformity
+        id: designuniform
+        if: steps.distbuild.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/audit-design-uniformity.mjs
+
+      - name: Warn on a design regression
+        if: steps.designuniform.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          MSG=$(node scripts/ko-report.mjs scripts/audit-design-uniformity.mjs 2>&1 | head -20 || true)
+          TXT=$(printf '⚠️ 디자인이 예전 상태로 되돌아갔습니다\n%s' "$MSG")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
+
       - name: Warn on missing tile thumbnails
         if: steps.wallrefs.outcome == 'failure'
         env:

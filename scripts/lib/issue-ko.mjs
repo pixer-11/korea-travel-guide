@@ -40,6 +40,16 @@ function where(f) {
   return parts.length ? parts.join(' · ') : '대상 미상';
 }
 
+/**
+ * "• where — body", but a site-wide finding has no where. Whole-site checks
+ * (the design-uniformity ones) name no file, and "• 대상 미상 — 혼잡도 그래프
+ * 색이 되돌아감" reads as a second, imaginary problem next to the real one.
+ */
+function koLine(f, body) {
+  const w = where(f);
+  return w === '대상 미상' ? `• ${body}` : `• ${w} — ${body}`;
+}
+
 const T = {
   // 일정(itinerary) 정확성
   'LEG-STALE': (f) => {
@@ -77,6 +87,14 @@ const T = {
   'PHOTO-WRONG-VENUE': (f) =>
     `사진이 다른 가게의 것${f.quoted[1] ? ` (글: ${f.quoted[0]} / 사진: ${f.quoted[1]})` : ''}`,
   'SAME-PHOTO-TWICE': () => '같은 사진이 한 글에 두 번 쓰임',
+  // 디자인 통일성 (audit-design-uniformity) — 픽서님이 한 번씩 눈으로 잡아낸 이탈들
+  'DESIGN-CROWD-PALETTE': () => '혼잡도 그래프 색이 되돌아감 (붐빔=빨강, 보통=베이지여야 함)',
+  'DESIGN-NEWSLETTER-CQ': () => '뉴스레터가 좁은 지면에서 다시 글자 단위로 꺾임',
+  // 아이콘 클래스는 where()가 이미 앞에 붙인다 — 여기서 또 넣으면 두 번 나온다.
+  'DESIGN-ICON-PLATE': () => '카드 아이콘 배경판이 빠져 그 아이콘만 다르게 보임',
+  'DESIGN-COLOR-SCHEME': () => '시스템 다크 모드에서 입력창·스크롤바가 흰색으로 뜸',
+  'DESIGN-REGION-TILE': () => '사진 없는 도시 타일이 검은 상자로 보임 — backfill-region-covers 실행 필요',
+  'DESIGN-DIST-STALE': () => '검사할 빌드 결과가 낡아 디자인 점검을 하지 못함 — 빌드 후 다시 확인 필요',
   'STALE-RATING': () => '평점 정보가 오래되어 실제와 다를 수 있음',
   'LOCAL-PHONE': () => '전화번호가 국내 형식 — 해외 유심에서 전화 연결 안 됨 (+국가번호 필요)',
   'BUSYNESS-OUTSIDE-HOURS': () => '한산/붐빔 시간이 영업시간 밖을 안내함 (repair-busyness-hours 실행 필요)',
@@ -157,7 +175,10 @@ const LEAK_RULE = {
 };
 
 export function koIssueLine(raw) {
-  const line = String(raw).replace(/^\s*[•*-]\s*/, '').replace(/^❌\s*/, '').trim();
+  // ✗/✘/× is the other glyph our audits mark a finding with (✓ is its clean
+  // twin, filtered as chrome). Left unstripped, every ✗ line failed the CODE:
+  // match below and arrived as "점검 항목 — 대상 미상".
+  const line = String(raw).trim().replace(/^[•*\-❌✗✘×]\s*/, '').trim();
   if (!line) return '';
 
   // audit-i18n-leaks.mjs writes "ko/roundup — am-pm — dist/ko/…/index.html":
@@ -216,7 +237,7 @@ export function koIssueLine(raw) {
     const mm = line.match(re);
     if (mm) {
       const f = facts(line);
-      return `• ${where(f)} — ${render(mm)}`;
+      return koLine(f, render(mm));
     }
   }
 
@@ -229,7 +250,7 @@ export function koIssueLine(raw) {
   const [, code, rest] = m;
   const f = facts(rest);
   const body = T[code] ? T[code](f) : `점검 필요 (코드 ${code})`;
-  return `• ${where(f)} — ${body}`;
+  return koLine(f, body);
 }
 
 /**
