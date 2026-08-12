@@ -73,6 +73,14 @@ for (const cls of ['plan-ico', 'itin-hub-card-ico', 'itin-backlink-ico', 'hotels
   else bad('DESIGN-ICON-PLATE', `icon plate missing for ".${cls}"`);
 }
 
+// 3b) the plan-trip band constrains itself. It is rendered outside the page
+// `.wrap` in all eight components that use it, so without its own max-width it
+// spans the whole window while the article beside it sits at --max — 1265px of
+// booking cards against 672px of copy on every country essentials page, and on
+// mobile the cards touched both screen edges (owner, 2026-08-12).
+if (/\.plan-trip\{[^}]*max-width/.test(css)) ok('plan-trip: width constrained');
+else bad('DESIGN-PLAN-TRIP-WIDTH', 'plan-trip has no max-width — the booking band will span the full window again');
+
 // 4) dark color-scheme rides the system-dark path.
 if (/prefers-color-scheme:\s?dark[^}]*\{[^{]*:root:not\(\[data-theme=light\]?\)?/.test(css) || css.includes('color-scheme:dark')) ok('color-scheme: dark declared');
 else bad('DESIGN-COLOR-SCHEME', 'color-scheme: dark missing from system-dark path');
