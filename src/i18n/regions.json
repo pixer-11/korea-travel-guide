@@ -6888,6 +6888,11 @@
       "blurb": "尖沙咀坐落于九龙半岛南端,一边是弥敦道上霓虹闪烁、绵延不绝的购物美食街区,一边是维多利亚港畔的海滨长廊,可欣赏到世界上最上镜的天际线之一。钟楼、天星码头等殖民时期地标与各式博物馆、时尚商场比邻而立,浓缩了香港的历史底蕴、海港美景与都市活力,是香港最具代表性的多元街区之一。",
       "getting": "大多数旅客会从香港国际机场(HKG)搭乘机场快线抵达香港站或九龙站,再转乘港铁荃湾线到尖沙咀站,全程约30-40分钟。若行李较多,也可选择机场巴士或的士,沿弥敦道或漆咸道南直达尖沙咀。",
       "days": "建议预留约1-2天时间,从容游览海滨长廊、乘坐天星小轮、参观各大博物馆并畅游弥敦道购物区。"
+    },
+    "ja": {
+      "blurb": "九龍半島の南端に位置する尖沙咀は、ネオンが輝くネイザンロード沿いのショッピング&ダイニング街と、世界屈指の撮影スポットとして知られるビクトリア・ハーバー越しのスカイラインを望むプロムナードが共存するエリアです。時計塔やスターフェリー乗り場といった植民地時代の名所が、美術館や高級モールと隣り合い、香港でも屈指の濃密さで歴史・ハーバービュー・活気が詰め込まれた街となっています。",
+      "getting": "多くの旅行者は、香港国際空港(HKG)からエアポートエクスプレスに乗り、香港駅または九龍駅で下車後、MTR荃湾線に乗り換えて尖沙咀駅へ向かいます。所要時間はトータルで約30~40分ほどです。荷物が多い場合は、ネイザンロードやチャタムロード・サウス沿いに直接乗り入れるエアポートバスやタクシーを利用するのも便利です。",
+      "days": "ハーバーフロントのプロムナード散策、スターフェリーでの渡航、美術館めぐり、ネイザンロードでのショッピングをゆったり楽しむには、1~2日ほど確保しておくのがおすすめです。"
     }
   },
   "Wan Chai": {
@@ -6915,6 +6920,141 @@
       "blurb": "湾仔是香港岛上一处粗犷与繁华并存的独特街区:霓虹闪烁的夜生活街道、百年历史的传统湿货市场,以及濒临海港的香港会议展览中心,全都集中在几个密集的市区街区之内。白天,这里弥漫着街头小吃的香气与庙宇的香烛味;夜晚,则化身为酒吧巡游与卡拉OK的天堂,是徒步探索时最富层次感的区域之一。",
       "getting": "大多数旅客会经由香港国际机场(HKG)抵达,先乘坐机场快线到香港站(约24分钟),再换乘港铁港岛线,短短几分钟车程即可到达湾仔站;如果偏好直达但耗时稍长的方式,也可以选择前往湾仔的机场巴士。",
       "days": "建议预留约1至2天时间,以轻松的步行节奏游览湾仔的主要景点,包括传统市场、临海的会展区域,以及热闹的夜生活街道。"
+    }
+  },
+  "Colmar": {
+    "en": {
+      "blurb": "Colmar is Alsace's fairy-tale showpiece, its old town threaded with canals and lined with vividly painted half-timbered houses that earned the nicknamed district \"La Petite Venise\" (Little Venice). Sitting on the Alsace Wine Route between the Vosges mountains and the Rhine, it doubles as a gateway to the region's vineyards and half-timbered villages.",
+      "getting": "Colmar has no major commercial airport of its own; most travelers fly into EuroAirport Basel-Mulhouse-Freiburg (BSL/MLH) or Strasbourg-Entzheim (SXB), each roughly 70 km away, then continue by TER regional train. Colmar's own station sits on the Strasbourg–Basel railway line, with direct TGV service from Paris taking ~2h50 and regional trains linking it to Strasbourg, Mulhouse, and Basel.",
+      "days": "Plan on ~1-2 days to wander the old town and Little Venice at an easy pace, or add a day or two more for day trips along the Alsace Wine Route."
+    },
+    "ko": {
+      "blurb": "콜마르는 알자스가 자랑하는 동화 같은 도시로, 구시가지 곳곳에 운하가 흐르고 알록달록하게 칠해진 목골 가옥들이 줄지어 있어 이 지역은 '작은 베네치아(La Petite Venise)'라는 애칭으로 불립니다. 보주 산맥과 라인강 사이, 알자스 와인 루트 위에 자리한 콜마르는 이 지역의 포도밭과 목골 가옥이 늘어선 마을들로 향하는 관문 역할도 합니다.",
+      "getting": "콜마르에는 자체 상업 공항이 없어, 대부분의 여행자는 약 70km 떨어진 바젤-뮐루즈-프라이부르크 유로에어포트(BSL/MLH) 또는 스트라스부르-엔츠하임 공항(SXB)으로 입국한 뒤 TER 지역 열차를 이용해 이동합니다. 콜마르 기차역은 스트라스부르-바젤 철도 노선에 위치해 있어, 파리에서 오는 TGV 직행열차로 약 2시간 50분이 걸리며, 스트라스부르, 뮐루즈, 바젤을 잇는 지역 열차도 운행됩니다.",
+      "days": "구시가지와 작은 베네치아를 여유롭게 둘러보려면 1~2일 정도를 계획하시고, 알자스 와인 루트를 따라 당일 여행을 즐기고 싶다면 하루나 이틀을 더 추가하시는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "コルマールは、まるでおとぎ話から抜け出してきたようなアルザス地方の代表的な町。旧市街には運河が張り巡らされ、色鮮やかなハーフティンバー様式の家々が立ち並ぶことから、「プティット・ヴニーズ(小さなヴェネツィア)」の愛称で親しまれています。ヴォージュ山脈とライン川の間、アルザスワイン街道沿いに位置し、周辺のぶどう畑やハーフティンバーの村々を巡る旅の拠点としても絶好のロケーションです。",
+      "getting": "コルマール自体に大きな空の玄関口はなく、多くの旅行者はユーロエアポート・バーゼル=ミュルーズ=フライブルク空港(BSL/MLH)、またはストラスブール・エンツハイム空港(SXB)を利用します。いずれも町から約70kmの距離にあり、そこからTER(地域急行列車)で移動するのが一般的です。コルマール駅自体はストラスブール~バーゼル線上にあり、パリからはTGVで直通約2時間50分、ストラスブールやミュルーズ、バーゼルとも地域列車で結ばれています。",
+      "days": "旧市街とプティット・ヴニーズをのんびり散策するなら1~2日を目安に。アルザスワイン街道沿いへの日帰り旅行を組み込む場合は、さらに1~2日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Colmar es la joya de cuento de hadas de Alsacia: su casco antiguo está surcado de canales y bordeado de casas de entramado de madera pintadas con colores vivos, que dieron a este barrio el sobrenombre de \"La Petite Venise\" (la Pequeña Venecia). Situada en la Ruta del Vino de Alsacia, entre los montes Vosgos y el Rin, la ciudad funciona también como puerta de entrada a los viñedos y pueblos de entramado de madera de la región.",
+      "getting": "Colmar no cuenta con un aeropuerto comercial propio de importancia; la mayoría de los viajeros llegan al EuroAirport Basilea-Mulhouse-Friburgo (BSL/MLH) o al de Estrasburgo-Entzheim (SXB), ambos a unos 70 km de distancia, y continúan el trayecto en tren regional (TER). La propia estación de Colmar se encuentra en la línea ferroviaria Estrasburgo-Basilea, con servicio directo de TGV desde París (unas 2h50) y trenes regionales que la conectan con Estrasburgo, Mulhouse y Basilea.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer con calma el casco antiguo y la Pequeña Venecia, o añadir uno o dos días más para hacer excursiones por la Ruta del Vino de Alsacia."
+    },
+    "zh": {
+      "blurb": "科尔马是阿尔萨斯的童话之城,老城区河道纵横,两岸遍布色彩斑斓的半木结构房屋,这一片区因此得名“小威尼斯”(La Petite Venise)。科尔马坐落在阿尔萨斯葡萄酒之路上,地处孚日山脉与莱茵河之间,同时也是探访当地葡萄园和半木结构村庄的门户。",
+      "getting": "科尔马本身没有大型商业机场,大多数旅客会选择飞抵巴塞尔-米卢斯-弗莱堡欧洲机场(BSL/MLH)或斯特拉斯堡-恩茨海姆机场(SXB),两地距科尔马均约70公里,再转乘TER地方列车前往。科尔马火车站位于斯特拉斯堡至巴塞尔的铁路线上,从巴黎有直达TGV高铁,车程约2小时50分钟,此外还有地方列车连接斯特拉斯堡、米卢斯和巴塞尔。",
+      "days": "建议安排1-2天,以轻松的节奏漫步老城和小威尼斯;若想沿阿尔萨斯葡萄酒之路进行一日游,可再多留一两天。"
+    }
+  },
+  "Jurong": {
+    "en": {
+      "blurb": "Jurong is a vast western Singapore district that pairs heavy industry with everyday urban life — its offshore Jurong Island hosts one of the world's largest integrated petrochemical hubs, while inland, Jurong East has grown into the west's leading civic, shopping and lakeside-park hub. It's less a single \"sight\" than a working slice of Singapore, anchored by malls, science attractions and green spaces around Jurong Lake.",
+      "getting": "Jurong East MRT station is a major interchange served by both the North-South and East-West Lines, making it easy to reach directly from most parts of Singapore by rail. Coming from Changi Airport (SIN), the typical route is the East-West Line with a change at Tanah Merah station, a ride of roughly an hour.",
+      "days": "Most travellers set aside ~1 day to cover Jurong East's malls, Science Centre and lakeside gardens, or ~2 days if adding a fuller loop of the wider Jurong area's parks and attractions."
+    },
+    "ko": {
+      "blurb": "주롱(Jurong)은 싱가포르 서부에 위치한 광활한 지역으로, 중공업과 일상적인 도시 생활이 공존하는 곳입니다. 앞바다에 자리한 주롱 아일랜드(Jurong Island)에는 세계 최대 규모의 통합 석유화학 단지 중 하나가 들어서 있으며, 내륙 쪽의 주롱 이스트(Jurong East)는 서부 지역을 대표하는 행정·쇼핑·호수공원 중심지로 성장했습니다. 이곳은 하나의 단일 관광지라기보다는 싱가포르의 살아 숨 쉬는 생활 현장에 가까우며, 주롱 호수(Jurong Lake) 주변의 쇼핑몰과 과학 명소, 녹지 공간들이 그 중심을 이룹니다.\",\"getting\":\"주롱 이스트(Jurong East) MRT역은 노스-사우스 라인(North-South Line)과 이스트-웨스트 라인(East-West Line)이 만나는 주요 환승역으로, 싱가포르 대부분 지역에서 지하철로 손쉽게 갈 수 있습니다. 창이 공항(Changi Airport, SIN)에서 올 경우, 보통 이스트-웨스트 라인을 타고 타나 메라(Tanah Merah)역에서 환승하며, 소요 시간은 약 1시간입니다.",
+      "getting": "주롱 이스트(Jurong East) MRT역은 노스-사우스 라인(North-South Line)과 이스트-웨스트 라인(East-West Line)이 만나는 주요 환승역으로, 싱가포르 대부분 지역에서 지하철로 손쉽게 갈 수 있습니다. 창이 공항(Changi Airport, SIN)에서 올 경우, 보통 이스트-웨스트 라인을 타고 타나 메라(Tanah Merah)역에서 환승하며, 소요 시간은 약 1시간입니다.",
+      "days": "대부분의 여행자는 주롱 이스트의 쇼핑몰, 사이언스 센터(Science Centre), 호숫가 정원을 둘러보는 데 약 1일을 할애하며, 주롱 지역 전체의 공원과 명소까지 더 폭넓게 둘러보고 싶다면 약 2일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ジュロンはシンガポール西部に広がる巨大な地区で、重工業と日常の都市生活が同時に息づいているのが特徴です。沖合のジュロン島には世界最大級の統合石油化学コンビナートが立地する一方、内陸のジュロン・イーストはシンガポール西部を代表する行政・商業・湖畔公園エリアへと発展を遂げました。単一の「観光名所」というよりも、ジュロン湖周辺に広がるモールやサイエンス系スポット、緑地帯を中心とした、シンガポールの「生きた日常」を体感できるエリアと言えるでしょう。",
+      "getting": "ジュロン・イーストMRT駅は南北線(North-South Line)と東西線(East-West Line)が交わる主要な乗換駅で、シンガポール国内のほとんどの地域から電車で直接アクセスできます。チャンギ国際空港(SIN)からは、東西線でタナメラ(Tanah Merah)駅で乗り換えるのが一般的なルートで、所要時間はおよそ1時間です。",
+      "days": "多くの旅行者は、ジュロン・イーストのモールやサイエンスセンター、湖畔の庭園を巡るのに1日程度を確保しています。ジュロン地区全体の公園やアトラクションもじっくり巡りたい場合は、2日ほど見ておくと良いでしょう。"
+    },
+    "es": {
+      "blurb": "Jurong es un extenso distrito al oeste de Singapur que combina la industria pesada con la vida urbana cotidiana: en la costa, la isla de Jurong Island alberga uno de los mayores complejos petroquímicos integrados del mundo, mientras que, tierra adentro, Jurong East se ha convertido en el principal centro cívico, comercial y de parques junto al lago de todo el oeste de la isla. No se trata tanto de una \"atracción\" única, sino de un fragmento vivo y en funcionamiento de Singapur, definido por sus centros comerciales, atracciones científicas y espacios verdes en torno al lago Jurong.",
+      "getting": "La estación de metro Jurong East es un importante intercambiador servido tanto por la Línea Norte-Sur como por la Línea Este-Oeste, lo que facilita llegar en tren directamente desde casi cualquier punto de Singapur. Desde el aeropuerto de Changi (SIN), la ruta habitual es tomar la Línea Este-Oeste con un cambio en la estación Tanah Merah, un trayecto de aproximadamente una hora.",
+      "days": "La mayoría de los viajeros dedica alrededor de 1 día para recorrer los centros comerciales de Jurong East, el Science Centre y los jardines junto al lago, o unos 2 días si se quiere hacer un recorrido más completo por los parques y atracciones de la zona más amplia de Jurong."
+    },
+    "zh": {
+      "blurb": "裕廊是新加坡西部一个广阔的地区,重工业与日常都市生活在此交融——离岸的裕廊岛坐拥全球最大的综合石化基地之一,而内陆的裕廊东则发展成为西部首屈一指的市镇中心、购物天地和湖畔公园枢纽。与其说是某个单一的\"景点\",裕廊更像是新加坡日常运转的一个缩影,以裕廊湖周边的商场、科学类景点和绿地空间为核心。",
+      "getting": "裕廊东地铁站是南北线和东西线交汇的主要转乘站,从新加坡大部分地区乘坐地铁都能直达,十分方便。若从樟宜机场（SIN）出发,通常搭乘东西线,在丹那美拉站（Tanah Merah）转乘,车程约一小时。",
+      "days": "大多数游客会安排约1天时间游览裕廊东的商场、科学馆和湖畔花园;若想更全面地畅游裕廊地区更广范围的公园和景点,则可安排约2天行程。"
+    }
+  },
+  "Katong": {
+    "en": {
+      "blurb": "Katong is Singapore's most photogenic Peranakan enclave, a low-rise stretch of pastel shophouses, ornate tilework, and century-old kopitiams clustered along East Coast Road and Joo Chiat Road. Once a seaside retreat for the wealthy, it's now best known for its rich Nyonya food culture, headlined by the local Katong laksa.",
+      "getting": "Most travellers arrive via Singapore's Changi Airport (SIN) and reach Katong on the Thomson–East Coast Line, alighting at Marine Parade (TE26) or Tanjong Katong (TE25) before a short walk to East Coast Road; taxis and ride-hail from the airport or city centre are a straightforward alternative, with the trip in from downtown taking roughly ~15-20 minutes.",
+      "days": "Allow ~1 day (or a leisurely half-day) to cover the pastel shophouses of Koon Seng Road, a Peranakan meal or laksa stop, and a wander down Joo Chiat Road."
+    },
+    "ko": {
+      "blurb": "카통(Katong)은 싱가포르에서 가장 사진 찍기 좋은 페라나칸(Peranakan) 지구로, 파스텔톤 상점가와 화려한 타일 장식, 100년 역사를 지닌 코피티암(kopitiam)들이 이스트 코스트 로드(East Coast Road)와 조 치앗 로드(Joo Chiat Road)를 따라 나지막이 늘어서 있다. 한때 부유층의 해변 휴양지였던 이곳은 오늘날 카통 락사(Katong laksa)로 대표되는 풍부한 뇨냐(Nyonya) 음식 문화로 가장 잘 알려져 있다.",
+      "getting": "대부분의 여행객은 싱가포르 창이 공항(SIN)을 통해 입국한 뒤, 톰슨-이스트 코스트 선(Thomson–East Coast Line)을 타고 마린 퍼레이드역(Marine Parade, TE26) 또는 탄종 카통역(Tanjong Katong, TE25)에서 내려 이스트 코스트 로드까지 짧게 걸어가면 카통에 도착한다. 공항이나 시내에서 택시나 차량 호출 서비스를 이용하는 것도 간편한 방법으로, 시내 중심가에서는 약 15~20분 정도 소요된다.",
+      "days": "쿤 셍 로드(Koon Seng Road)의 파스텔톤 상점가를 둘러보고, 페라나칸 요리나 락사를 맛본 뒤 조 치앗 로드를 따라 산책하는 데에는 하루(또는 여유로운 반나절) 정도면 충분하다."
+    },
+    "ja": {
+      "blurb": "カトンは、シンガポールで最も絵になるプラナカン文化の残る一角。イーストコースト・ロードとジュー・チアット・ロード沿いには、パステルカラーのショップハウスや凝った装飾タイル、100年の歴史を刻む老舗コピティアムが軒を連ねる。かつては富裕層の海辺の別荘地として栄えたこの街は、今では豊かなニョニャ料理文化の街として知られ、その代表格が名物の「カトン・ラクサ」だ。",
+      "getting": "多くの旅行者はシンガポール・チャンギ国際空港(SIN)に到着し、トムソン・イーストコースト線でカトンへ向かう。マリンパレード駅(TE26)またはタンジョン・カトン駅(TE25)で下車し、そこから徒歩数分でイーストコースト・ロードに到着する。空港や市内中心部からはタクシーやライドシェアを利用するのも手軽な選択肢で、ダウンタウンからは所要約15〜20分ほど。",
+      "days": "クーン・セン・ロードのパステルカラーのショップハウス群、プラナカン料理やラクサでの食事、そしてジュー・チアット・ロードの散策まで含めると、丸1日、あるいはゆったり過ごせる半日ほどを目安に。"
+    },
+    "es": {
+      "blurb": "Katong es el enclave peranakan más fotogénico de Singapur, un tramo de casas-tienda bajas en tonos pastel, azulejos ornamentados y kopitiams centenarios agrupados a lo largo de East Coast Road y Joo Chiat Road. Antaño un retiro costero para las familias adineradas, hoy es célebre sobre todo por su rica cultura gastronómica nyonya, encabezada por el famoso laksa de Katong.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto Changi de Singapur (SIN) y accede a Katong mediante la Thomson–East Coast Line, bajándose en las estaciones Marine Parade (TE26) o Tanjong Katong (TE25), desde donde hay un corto paseo hasta East Coast Road. Los taxis y los servicios de transporte privado, tanto desde el aeropuerto como desde el centro de la ciudad, son una alternativa sencilla, con un trayecto de unos 15-20 minutos desde el centro.",
+      "days": "Calcula alrededor de un día completo (o una media jornada tranquila) para recorrer las casas-tienda pastel de Koon Seng Road, disfrutar de una comida peranakan o probar el laksa, y pasear por Joo Chiat Road."
+    },
+    "zh": {
+      "blurb": "加东是新加坡最具\"出片\"魅力的土生华人（峇峇娘惹）聚居区，沿东海岸路（East Coast Road）和如切路（Joo Chiat Road）一带，低矮的彩色店屋、精美的瓷砖装饰与百年咖啡店比比皆是，构成一道独特的街景。这里曾是富人钭邸的海滨度假胜地，如今则以浓郁的娘惹美食文化闻名，其中最具代表性的便是当地招牌的加东叻沙（Katong Laksa）。",
+      "getting": "大多数游客从新加坡樟宜机场（SIN）入境，可搭乘汤申—东海岸线（Thomson–East Coast Line）前往加东，在美芝路站（Marine Parade, TE26）或丹戎加东站（Tanjong Katong, TE25）下车，再步行片刻即可抵达东海岸路。若不想换乘地铁，从机场或市区搭乘出租车或叫车服务也十分方便，从市中心出发车程大约15-20分钟。",
+      "days": "建议预留约1天时间（或悠闲的半天），逛一逛均成路（Koon Seng Road）色彩斑斓的店屋，品尝一顿正宗的娘惹餐或来一碗叻沙，再沿如切路（Joo Chiat Road）漫步一番。"
+    }
+  },
+  "North Point": {
+    "en": {
+      "blurb": "North Point is one of Hong Kong Island's most lived-in neighbourhoods, where tenement blocks, wet markets, and dried-seafood shops sit in the shadow of new harbourfront towers. It's also a transit crossroads: the district's <cite index=\"5-1\">MTR station is on the Island line and the western terminus of the Tseung Kwan O line</cite>, while its historic ferry pier still sends boats across the harbour to Kowloon.",
+      "getting": "Most visitors reach North Point via the MTR, riding the Island Line or Tseung Kwan O Line directly into North Point Station, which sits at the district's centre with exits onto King's Road and the ferry pier. There is no direct rail link from Hong Kong International Airport (HKG); the reliable route is the Airport Express into the city centre (Hong Kong or Central Station), then a short MTR transfer onward to North Point, or a bus from the airport's regional bus hub for those wanting a single-seat ride.",
+      "days": "A half-day to full day is enough to cover North Point's tram ride, waterfront promenade, ferry pier, and market streets at an easy pace."
+    },
+    "ko": {
+      "blurb": "노스포인트(North Point)는 오래된 아파트 건물과 재래시장, 건해산물 상점들이 신축 하버프런트 타워의 그늘 아래 어깨를 나란히 하고 있는, 홍콩섬에서 가장 삶의 냄새가 짙게 배어 있는 동네 중 하나다. 이곳은 교통의 요지이기도 하다. 지구 내 MTR 역은 아일랜드 라인(Island Line)이 지나가는 동시에 챙콴오 라인(Tseung Kwan O Line)의 서쪽 종점 역할을 하며, 역사적인 페리 선착장에서는 지금도 카오룽(Kowloon)까지 바다를 가로지르는 배가 오간다.",
+      "getting": "대부분의 여행객은 MTR을 이용해 노스포인트에 도착한다. 아일랜드 라인이나 챙콴오 라인을 타고 노스포인트역(North Point Station)까지 바로 갈 수 있는데, 이 역은 동네 중심부에 자리해 있으며 출구가 킹스 로드(King's Road)와 페리 선착장 쪽으로 이어진다. 홍콩국제공항(HKG)에서 곧바로 연결되는 열차는 없으므로, 가장 확실한 방법은 에어포트 익스프레스(Airport Express)를 타고 시내(홍콩역 또는 센트럴역)까지 이동한 뒤, MTR로 짧게 환승해 노스포인트까지 가는 것이다. 환승 없이 한 번에 가고 싶다면 공항의 지역 버스 터미널에서 출발하는 버스를 이용하는 방법도 있다.",
+      "days": "반나절에서 하루 정도면 노스포인트의 트램 타기, 워터프런트 산책로, 페리 선착장, 그리고 시장 골목까지 여유롭게 둘러보기에 충분하다."
+    },
+    "ja": {
+      "blurb": "ノースポイント（北角）は香港島の中でも生活感が色濃く残るエリアで、団地や湿地市場（ウェットマーケット）、乾物・海産物店が、ハーバーフロントに立ち並ぶ新しいタワーマンションの陰にひっそりと軒を連ねています。同時に交通の要衝でもあり、この地区のMTR駅はアイランドラインが通るほか、将軍澎（チュンクワンオー）線の西の終着駅にもなっています。また、歴史あるフェリーピアからは今も九龍（カウルーン）方面へ渡し船が出ています。",
+      "getting": "ほとんどの旅行者は、アイランドラインまたは将軍澎（チュンクワンオー）線のMTRに乗ってノースポイント駅まで直接アクセスします。駅は地区の中心に位置し、キングズロードやフェリーピアへ通じる出口があります。香港国際空港（HKG）からの直通鉄道はないため、まずエアポートエクスプレスで市中心部（香港駅または中環（セントラル）駅）まで行き、そこからMTRに乗り換えてノースポイントへ向かうのが確実な方法です。乗り換えなしで移動したい場合は、空港のリージョナルバスターミナルから出ているバスを利用することもできます。",
+      "days": "ノースポイントのトラム乗車、ウォーターフロントの散策、フェリーピア、市場が並ぶ通りを無理なく巡るには、半日から１日あれば十分です。"
+    },
+    "es": {
+      "blurb": "North Point es uno de los barrios más \"vividos\" y auténticos de la isla de Hong Kong, donde los edificios residenciales antiguos, los mercados húmedos y las tiendas de mariscos secos conviven a la sombra de las nuevas torres frente al puerto. También es un cruce de caminos para el transporte: la estación de MTR del distrito se encuentra en la Island Line y es la terminal occidental de la Tseung Kwan O Line, mientras que su histórico embarcadero de ferris sigue enviando embarcaciones a través del puerto hacia Kowloon.",
+      "getting": "La mayoría de los visitantes llegan a North Point en MTR, tomando la Island Line o la Tseung Kwan O Line directamente hasta la estación de North Point, ubicada en el centro del distrito, con salidas hacia King's Road y el embarcadero de ferris. No existe conexión ferroviaria directa desde el Aeropuerto Internacional de Hong Kong (HKG); la opción más fiable es tomar el Airport Express hasta el centro de la ciudad (estación de Hong Kong o Central) y luego hacer un breve trasbordo en MTR hasta North Point, o bien tomar un autobús desde la terminal regional de autobuses del aeropuerto para quienes prefieran un trayecto sin transbordos.",
+      "days": "Medio día o un día completo es suficiente para recorrer con calma el tranvía, el paseo marítimo, el embarcadero de ferris y las calles de mercado de North Point."
+    },
+    "zh": {
+      "blurb": "北角是香港岛上最具生活气息的社区之一,唐楼、街市和海味铺鳞次栉比,与海滨新起的摩天大楼相映成趣,新旧交融。这里同时也是交通枢纽:该区的<cite index=\"5-1\">港铁站坐落在港岛线上,亦是将军澳线的西面终点站</cite>,而历史悠久的渡轮码头至今仍有渡轮往返维港,直达九龙。",
+      "getting": "大多数游客都是搭乘港铁前往北角,乘坐港岛线或将军澳线可直达北角站——车站正处于该区中心地带,出口分别通往英皇道和渡轮码头。香港国际机场(HKG)并无直达北角的铁路线路,较稳妥的方式是先搭乘机场快线前往市区(香港站或中环站),再转乘港铁短程前往北角;若不想中途换乘,也可以在机场的地区巴士总站搭乘巴士,一程直达。",
+      "days": "半天到一天的时间,便足以从容游览北角的电车之旅、海滨长廊、渡轮码头与街市小巷。"
+    }
+  },
+  "Sha Tin": {
+    "en": {
+      "blurb": "Sha Tin is a riverside new town in Hong Kong's New Territories where dense high-rise living meets some of the region's most striking heritage sites, from the steep golden-statue climb to the Ten Thousand Buddhas Monastery to the grandstands of Sha Tin Racecourse, one of Hong Kong's two horse-racing venues. The Shing Mun River runs through its centre, giving the town a green, walkable waterfront that's rare among Hong Kong's satellite towns.",
+      "getting": "Sha Tin is reached via Sha Tin station on the MTR East Rail line, which runs from Admiralty on Hong Kong Island through Kowloon into the New Territories; most visitors arrive by transferring onto the East Rail line from central Hong Kong or Kowloon. Direct buses also link Hong Kong International Airport to the Sha Tin area, with journeys typically taking under an hour depending on traffic.",
+      "days": "Plan on ~1 day to cover Sha Tin's core sights — the monastery climb, the riverside park, and either the racecourse or Heritage Museum — with a second day useful if you want to fit in both major attractions plus more leisurely time along the river."
+    },
+    "ko": {
+      "blurb": "사틴(Sha Tin)은 홍콩 신계(New Territories) 지역에 위치한 강변 신도시로, 빽빽하게 늘어선 고층 아파트 생활과 이 지역에서 가장 인상적인 유적지들이 공존하는 곳이다. 황금빛 불상들이 늘어선 가파른 계단을 오르면 만날 수 있는 만불사(Ten Thousand Buddhas Monastery)부터, 홍콩의 두 경마장 중 하나인 사틴 경마장(Sha Tin Racecourse)의 관람석까지 다채로운 명소가 이어진다. 도심을 가로지르는 성문강(Shing Mun River) 덕분에 사틴은 홍콩의 다른 위성도시에서는 보기 드문, 초록빛 산책로가 있는 강변 마을의 정취를 느낄 수 있다.\",\"getting\":\"사틴에 가려면 MTR 동철선(East Rail line)의 사틴역(Sha Tin station)을 이용하면 된다. 이 노선은 홍콩섬의 애드미럴티(Admiralty)에서 출발해 카오룽(Kowloon)을 지나 신계까지 이어지며, 대부분의 방문객은 홍콩 도심이나 카오룽에서 동철선으로 환승해 이동한다. 홍콩국제공항(HKIA)에서 사틴 지역까지는 직행버스도 운행되며, 교통 상황에 따라 보통 1시간 이내에 도착할 수 있다.",
+      "getting": "사틴에 가려면 MTR 동철선(East Rail line)의 사틴역(Sha Tin station)을 이용하면 된다. 이 노선은 홍콩섬의 애드미럴티(Admiralty)에서 출발해 카오룽(Kowloon)을 지나 신계까지 이어지며, 대부분의 방문객은 홍콩 도심이나 카오룽에서 동철선으로 환승해 이동한다. 홍콩국제공항(HKIA)에서 사틴 지역까지는 직행버스도 운행되며, 교통 상황에 따라 보통 1시간 이내에 도착할 수 있다.",
+      "days": "사틴의 핵심 명소인 만불사 등반, 강변 공원, 그리고 경마장이나 헤리티지 박물관(Heritage Museum) 중 한 곳을 둘러보는 데는 하루 정도면 충분하다. 두 주요 명소를 모두 방문하고 강변에서 좀 더 여유롭게 시간을 보내고 싶다면 이틀 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "沙田は香港の新界にある川沿いの新興都市で、高層住宅が密集する近代的な街並みと、地域屈指の見応えある史跡が同居しています。金色の仏像が並ぶ急な階段を登る「万仏寺」から、香港に2つある競馬場のひとつ「沙田競馬場」の観客席まで、見どころは実に多彩です。市の中心を流れる城門河は緑豊かで歩きやすいウォーターフロントを生み出しており、これは香港のベッドタウンの中でも珍しい魅力となっています。",
+      "getting": "沙田へは、MTR東鉄線の沙田駅を利用してアクセスします。東鉄線は香港島のアドミラルティから九龍を経て新界まで延びており、多くの旅行者は香港島中心部や九龍で東鉄線に乗り換えて訪れます。また、香港国際空港からは沙田エリアへ直通バスも運行しており、交通状況によりますが所要時間は通常1時間以内です。",
+      "days": "万仏寺の階段登り、川沿いの公園、そして競馬場か香港文化博物館のいずれかといった沙田の主要な見どころを回るには、1日程度を目安にすると良いでしょう。2つの主要スポットの両方を訪れたい場合や、川沿いでゆったり過ごす時間も取りたい場合は、2日あるとより充実します。"
+    },
+    "es": {
+      "blurb": "Sha Tin es una nueva ciudad a orillas del río en los Nuevos Territorios de Hong Kong, donde la vida en densos edificios de gran altura convive con algunos de los sitios patrimoniales más impactantes de la región, desde la empinada subida hasta las estatuas doradas del Monasterio de los Diez Mil Budas hasta las tribunas del Hipódromo de Sha Tin, uno de los dos recintos hípicos de Hong Kong. El río Shing Mun atraviesa su centro, dotando a la ciudad de un paseo fluvial verde y transitable a pie, algo poco común entre las ciudades satélite de Hong Kong.",
+      "getting": "Se llega a Sha Tin a través de la estación de Sha Tin, en la línea East Rail del MTR, que va desde Admiralty, en la isla de Hong Kong, pasando por Kowloon, hasta los Nuevos Territorios; la mayoría de los visitantes llegan haciendo transbordo a la línea East Rail desde el centro de Hong Kong o desde Kowloon. También hay autobuses directos que conectan el Aeropuerto Internacional de Hong Kong (HKG) con la zona de Sha Tin, con trayectos que normalmente duran menos de una hora, según el tráfico.",
+      "days": "Con aproximadamente 1 día se pueden cubrir los principales atractivos de Sha Tin —la subida al monasterio, el parque junto al río y, o bien el hipódromo o el Museo del Patrimonio—, aunque un segundo día resulta útil si se quieren incluir ambas atracciones principales junto con un tiempo más relajado a orillas del río."
+    },
+    "zh": {
+      "blurb": "沙田是香港新界一座依水而建的新市镇,高楼林立的密集住宅区与区内一些最引人注目的文化古迹交相辉映——从需拾级而上、途经金色佛像的万佛寺,到香港两大跑马场之一的沙田马场看台,皆坐落于此。城中村河穿城而过,为沙田带来一片绿意盎然、宜于漫步的滨水岸线,这在香港的卫星城镇中实属难得。",
+      "getting": "前往沙田可乘搭港铁东铁线于沙田站下车,该线路由港岛金钟出发,途经九龙,一路延伸至新界;大多数游客都是从香港岛或九龙市区转乘东铁线抵达。此外,也有直达巴士连接香港国际机场与沙田地区,车程视路况而定,通常不足一小时。",
+      "days": "游览沙田的主要景点——万佛寺登山之旅、滨河公园,以及沙田马场或香港文化博物馆二选一——大约安排一天即可;若想将两大主要景点一并纳入行程,并悠闲地沿河漫步,建议安排两天时间较为从容。"
     }
   }
 }
