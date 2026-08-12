@@ -5921,6 +5921,11 @@
       "blurb": "阿兰亚是位于土耳其地中海南岸的一座度假小镇，山顶古堡巍然矗立，与红塔一同俯瞰着一片拥有沙滩和繁忙游艇码头的半岛。这座历史悠久的港口小城如今已发展成为土耳其最热门的度假胜地之一，古迹遗址与热闹的沙滩俱乐部式旅游街区在此交相辉映。",
       "getting": "大多数游客选择飞往加济帕夏-阿兰亚机场（GZP），该机场位于市区以东约40公里处（乘班车或出租车约需45分钟）。不过，许多国际包机和定期航班则更多选择规模更大的安塔利亚机场（AYT），距市区约125-135公里，乘接驳车或大巴前往市区约需2-2.5小时。由于阿兰亚没有铁路线路，无论从哪个机场出发，后续行程都需依靠公路交通，包括班车、私人接送或出租车。",
       "days": "若只想游览阿兰亚的核心景点，如阿兰亚城堡、港口和主要海滩，安排3-4天即可；但若打算以此为据点，享受一整段悠闲的海滨度假时光，则建议停留一周或更久。"
+    },
+    "ko": {
+      "blurb": "알라니아는 튀르키예 남부 지중해 해안에 자리한, 성채가 우뚝 솟은 휴양 도시입니다. 셀주크 시대에 지어진 성과 붉은 탑(크즐 쿨레)이 모래 해변과 분주한 마리나가 펼쳐진 반도를 내려다보고 있습니다. 유서 깊은 항구 도시에서 출발해, 이제는 튀르키예 최대 규모의 패키지 휴양지로 성장했으며, 고대 유적과 활기 넘치는 비치클럽 중심의 관광 거리가 절묘하게 어우러져 있습니다.\",\"getting\":\"대부분의 여행객은 시내에서 동쪽으로 약 40km 떨어진 가지파샤-알라니아 공항(GZP)을 이용하며, 셔틀이나 택시로 약 45분이 걸립니다. 다만 국제 전세기나 정기 항공편의 경우, 125~135km 떨어진 더 큰 규모의 안탈리아 공항(AYT)을 이용하는 경우가 많으며, 이 경우 셔틀이나 버스로 약 2~2.5시간이 소요됩니다. 알라니아까지 연결되는 철도는 없으므로, 두 공항 어디에서 출발하든 셔틀버스, 프라이빗 transfer(전용 차량), 또는 택시를 이용한 육로 이동이 필요합니다.",
+      "getting": "대부분의 여행객은 시내에서 동쪽으로 약 40km 떨어진 가지파샤-알라니아 공항(GZP)을 이용하며, 셔틀이나 택시로 약 45분이 걸립니다. 다만 국제 전세기나 정기 항공편의 경우, 125~135km 떨어진 더 큰 규모의 안탈리아 공항(AYT)을 이용하는 경우가 많으며, 이 경우 셔틀이나 버스로 약 2~2.5시간이 소요됩니다. 알라니아까지 연결되는 철도는 없으므로, 두 공항 어디에서 출발하든 셔틀버스, 프라이빗 전용 차량, 또는 택시를 이용한 육로 이동이 필요합니다.",
+      "days": "알라니아 성, 항구, 주요 해변 등 핵심 명소를 둘러보려면 약 3~4일 정도를 계획하시면 되고, 해안 휴양을 위한 베이스캠프로 삼으신다면 일주일 이상 머무르시는 것도 좋습니다."
     }
   },
   "Amritsar": {
@@ -6078,6 +6083,11 @@
       "blurb": "朱美拉（Jumeirah）是迪拜标志性的海滨地区，阳光洒满的阿拉伯湾海岸线上，豪华度假酒店鳞次栉比，帆船造型的阿拉伯塔（Burj Al Arab）与朱美拉清真寺（Jumeirah Mosque）醒目的白色圆顶相映成趣。这里既有明信片般的海滩和修剪整齐的滨海步道，又保留着比市中心摩天大楼云集之处更为悠闲的居住区氛围，堪称迪拜海滨度假奢华风情的代名词。",
       "getting": "大多数游客会先飞抵迪拜国际机场（DXB），这是该酋长国的主要空中门户，再乘坐出租车或专车前往朱美拉，车程约20–30分钟，具体视交通状况和目的地而定。公共交通方面，可选择迪拜地铁红线（Dubai Metro Red Line）或迪拜有轨电车（Dubai Tram，沿朱美拉海滩住宅区Jumeirah Beach Residence及Al Sufouh一线运行），但最后一段前往朱美拉的路程仍需换乘巴士或出租车。",
       "days": "建议安排约2至3天时间，从容游览朱美拉的海滩风光、地标建筑，并悠闲享用海滨美食，无需匆忙赶行程。"
+    },
+    "ko": {
+      "blurb": "주메이라(Jumeirah)는 두바이를 대표하는 해변 지구로, 태양에 눈부시게 빛나는 아라비안 걸프 해안선을 따라 고급 리조트들이 늘어서 있고, 돛 모양의 부르즈 알 아랍(Burj Al Arab)과 인상적인 흰 돔이 돋보이는 주메이라 모스크(Jumeirah Mosque)가 자리하고 있습니다. 그림 같은 해변과 잘 정돈된 산책로가 어우러지면서도 다운타운의 고층 빌딩 지구보다 한적하고 여유로운 주거 분위기를 지니고 있어, 두바이의 해변 리조트다운 화려함을 대표하는 지역으로 손꼽힙니다.",
+      "getting": "대부분의 여행객은 두바이의 주요 관문인 두바이 국제공항(DXB)으로 입국한 뒤, 택시나 개인 전용 차량을 이용해 주메이라까지 이동합니다(교통 상황과 정확한 목적지에 따라 약 20~30분 소요). 두바이 메트로 레드 라인과 주메이라 비치 레지던스 및 알 수푸(Al Sufouh)를 따라 운행하는 두바이 트램 같은 대중교통도 이용할 수 있지만, 주메이라 내부까지 들어가려면 마지막 구간에서 버스나 택시로 환승해야 합니다.",
+      "days": "여유롭게 주메이라의 해변과 랜드마크 건축물, 워터프론트 레스토랑을 즐기려면 약 2~3일 정도 일정을 잡는 것이 좋습니다."
     }
   },
   "Malang": {
@@ -6154,6 +6164,11 @@
       "blurb": "Bocaue, un municipio bullicioso de Bulacan justo al norte de Metro Manila, es conocido sobre todo como la \"Capital de los Fuegos Artificiales de Filipinas\", con talleres a lo largo del río Bocaue que producen piezas pirotécnicas para festividades de todo el país. El corazón espiritual del pueblo late con más fuerza durante su centenario festival fluvial en honor a la Santa Cruz de Wawa, cuando una pagoda decorada se desliza por el río Bocaue en medio de multitudes y celebración.",
       "getting": "El aeropuerto principal más cercano es el Aeropuerto Internacional Ninoy Aquino de Manila (MNL), a unos 34 km (~21 millas) al sur; la mayoría de los viajeros llegan a Bocaue por carretera a través de la Autopista del Norte de Luzón (NLEX) o la Carretera MacArthur, utilizando autobuses, vans o jeepneys desde los principales puntos de Metro Manila. Actualmente no hay una línea de tren que dé servicio al pueblo, aunque se ha propuesto una futura estación dentro del proyecto de ferrocarril con destino a Clark.",
       "days": "Con medio día o un día completo es suficiente para ver el centro del pueblo, la iglesia y el museo de Bocaue, aunque los visitantes que planeen su viaje coincidiendo con el festival fluvial de julio o algún evento en el Philippine Arena quizás deseen reservar tiempo adicional para lidiar con las multitudes y el tráfico."
+    },
+    "zh": {
+      "blurb": "布拉坎省的务加务市（Bocaue）是马尼拉大都会以北的一座繁华城镇，素有\"菲律宾烟花之都\"的美誉，沿务加务河（Bocaue River）分布的各家作坊为全国各地的节庆活动生产烟花。这座小镇的精神core体现在每年一度、历史悠久的河上庆典中——为纪念瓦瓦圣十字架（Holy Cross of Wawa），装饰华丽的花船会沿务加务河缓缓而下，两岸人潮涌动，热闹非凡。",
+      "getting": "距离最近的主要机场是马尼拉的尼诺伊·阿基诺国际机场（MNL），位于务加务以南约21英里（约34公里）处。大多数游客都是经陆路前往务加务，可沿北吕宋高速公路（NLEX）或麦克阿瑟公路（MacArthur Highway），从马尼拉大都会各交通枢纽乘坐巴士、客运小巴或吉普尼（jeepney）抵达。目前尚无铁路直达该镇，不过未来计划修建的通往克拉克（Clark）的铁路线上，有望设立一座车站。",
+      "days": "游览务加务的市中心、教堂和博物馆，半天到一天时间便已足够；不过，如果打算在7月河上庆典期间前往，或恰逢菲律宾体育馆（Philippine Arena）有活动举行，建议预留更多时间，以应对人流和交通拥堵。"
     }
   },
   "Avignon": {
@@ -6468,6 +6483,16 @@
       "blurb": "La isla de Saadiyat es el escaparate cultural de Abu Dabi, sede de instituciones de primer nivel como el Louvre Abu Dabi y Manarat Al Saadiyat, junto a una oferta que sigue creciendo con el Museo Nacional Zayed y el futuro Guggenheim Abu Dabi. A esa energía de distrito museístico se suman playas de arena blanca y suave, además de un litoral protegido donde anidan las tortugas carey, lo que convierte a la isla en uno de los pocos lugares de la región donde el arte de primer nivel convive con una auténtica calma costera.",
       "getting": "La puerta de entrada más cercana es el Aeropuerto Internacional Zayed (AUH), a unos 25-30 minutos en taxi o coche por la autovía que cruza el puente Sheikh Khalifa. Quienes no dispongan de vehículo también pueden tomar el autobús lanzadera gratuito que conecta el aeropuerto y el centro de la ciudad con puntos clave de la isla, como el Louvre, o llegar en autobús público desde la red de transporte del centro de Abu Dabi haciendo un transbordo.",
       "days": "Conviene reservar entre 1 y 2 días para visitar con calma un museo emblemático, pasear o relajarse en alguno de los clubes de playa, y descubrir sin prisas el resto del distrito cultural."
+    },
+    "ja": {
+      "blurb": "サアディヤット島はアブダビの文化的な顔とも言える場所で、ルーブル・アブダビやマナラット・アル・サアディヤットといった世界的な文化施設が集まり、さらにザイード国立博物館や今後オープン予定のグッゲンハイム・アブダビなど、そのラインナップは今も広がり続けています。こうしたミュージアム街ならではの知的な雰囲気に加え、白く柔らかな砂浜と、アオウミガメ(タイマイ)が産卵に訪れる保護区の海岸線も魅力のひとつ。本格的なアートと、心安らぐ本物のビーチリゾート気分の両方を味わえる、この地域でも数少ないスポットです。",
+      "getting": "最寄りの空の玄関口はザイード国際空港(AUH)で、シェイク・ハリファ橋を渡るハイウェイ経由でタクシーや車で約25〜30分ほど。車を使わない場合は、空港とダウンタウンから島内の主要スポット(ルーブルなど)を結ぶ無料シャトルバスの利用が便利です。また、アブダビ中心部からは、乗り換えを1回挟む市内バスでもアクセスできます。",
+      "days": "目安となる滞在期間は1〜2日ほど。目玉となる美術館・博物館を一つじっくり見て回り、ビーチクラブで散策やリラックスタイムを楽しみ、さらに文化エリア全体をゆったりと巡るのにちょうど良い長さです。"
+    },
+    "zh": {
+      "blurb": "萨迪亚特岛是阿布扎比的文化名片,坐落着卢浮宫阿布扎比分馆、萨迪亚特文化中心等世界级机构,阵容还在不断扩大,扎耶德国家博物馆已经落成,古根海姆阿布扎比分馆也即将亮相。除了浓厚的博物馆区氛围,这里还拥有柔软洁白的沙滩和受保护的海岸线,玳瑁海龟会在此筑巢产卵,使其成为该地区少有的将高品位艺术与惬意海滨生活完美融合的目的地。",
+      "getting": "最近的空中门户是扎耶德国际机场(AUH),经谢赫哈利法大桥的高速公路连接,乘出租车或自驾大约需要25-30分钟。没有自驾的游客也可以搭乘往返机场与市区的免费班车,直达岛上卢浮宫等主要地点,或从阿布扎比市中心的公交网络换乘公共巴士前往。",
+      "days": "建议安排1-2天的行程,参观一座标志性博物馆,到海滩俱乐部漫步或放松身心,并不慌不忙地探索这片更广阔的文化区。"
     }
   },
   "Selcuk": {
@@ -6576,6 +6601,320 @@
       "blurb": "特拉布宗坐落在黑海之滨,背靠云雾缭绕的青翠山峦,古老的奥斯曼-拜占庭老城与内陆壮丽的高地风光相映成趣,其中就包括悬于崖壁之上的苏美拉修道院。作为通往土耳其东黑海地区的门户,这里遍布茶园梯田和高山草甸(yayla),孕育出一种与土耳其其他地区迥然不同的独特文化。",
       "getting": "大多数旅行者通过特拉布宗机场(TZX)抵达,该机场有往返伊斯坦布尔和安卡拉的国内航班,以及部分国际航线;由于没有通往特拉布宗的干线客运铁路,陆路旅行者主要依靠长途巴士抵达市内的汽车客运站(otogar)。一条连接机场与海滨的轻轨线路正在建设中,但尚未通车。",
       "days": "建议预留约2-3天时间,以轻松的节奏游览市中心、苏美拉修道院以及附近的一处高山草甸。"
+    }
+  },
+  "Causeway Bay": {
+    "en": {
+      "blurb": "Causeway Bay is Hong Kong Island's dense retail-and-neon core, a district of vertical malls, flagship stores, and packed streets radiating out from Victoria Park. By day and night alike it ranks among the busiest shopping and dining pockets in the city, prized for its sheer concentration of brands, street-level energy, and harbour-side proximity.",
+      "getting": "Most travellers arrive via Hong Kong International Airport (HKG), taking the Airport Express rail line to Hong Kong Station and then transferring to the Island Line to reach Causeway Bay Station directly; the full journey typically takes ~35-45 minutes. Buses and taxis from the airport's regional transport hub offer a slower but direct alternative straight into the district.",
+      "days": "Plan on ~1-2 days to cover Causeway Bay's shopping malls, street markets, and Victoria Park at a comfortable pace, with day trips easily added to nearby Wan Chai or Central."
+    },
+    "ko": {
+      "blurb": "코즈웨이베이는 홍콩섬에서 쇼핑과 네온사인이 밀집한 중심지로, 빅토리아 파크를 기점으로 고층 쇼핑몰과 플래그십 스토어, 인파로 붐비는 거리가 사방으로 뻗어 나가는 지역이다. 낮이든 밤이든 홍콩에서 손꼽히게 활기찬 쇼핑·다이닝 스팟으로 꼽히며, 브랜드가 밀집해 있다는 점과 거리 곳곳에서 느껴지는 생동감, 그리고 바다와 가깝다는 입지 덕분에 높은 인기를 누리고 있다.",
+      "getting": "대부분의 여행객은 홍콩국제공항(HKG)을 통해 도착한 뒤, 공항철도(Airport Express)를 타고 홍콩역(Hong Kong Station)까지 이동한 다음 아일랜드 라인(Island Line)으로 환승해 코즈웨이베이역까지 바로 갈 수 있다. 전체 소요 시간은 보통 35~45분 정도다. 공항 내 지상교통 허브에서 출발하는 버스나 택시를 이용하면 환승 없이 코즈웨이베이까지 곧장 갈 수 있지만, 소요 시간은 좀 더 길다.",
+      "days": "코즈웨이베이의 쇼핑몰과 노점 시장, 빅토리아 파크를 여유롭게 둘러보려면 1~2일 정도가 적당하며, 인근의 완차이(Wan Chai)나 센트럴(Central)로 당일치기 여행을 다녀오기에도 좋은 위치다."
+    },
+    "ja": {
+      "blurb": "コーズウェイベイは香港島を代表する、ショッピングとネオンが密集するエリアだ。高層モールやフラッグシップ店が立ち並び、ビクトリア・パークを中心に人でごった返す通りが四方に広がる。昼夜を問わず市内屈指の賑わいを見せるショッピング&グルメスポットとして知られ、ブランドの密集度、路上の熱気、そして海に近い立地が魅力となっている。",
+      "getting": "多くの旅行者は香港国際空港(HKG)から到着し、エアポートエクスプレスで香港駅まで行き、そこで港島線に乗り換えてコーズウェイベイ駅まで直接向かう。所要時間は通常35~45分程度だ。空港の総合交通ターミナルからバスやタクシーを利用すれば、時間はかかるものの乗り換えなしでエリアまで直行できる。",
+      "days": "コーズウェイベイのショッピングモールや路上マーケット、ビクトリア・パークを無理なく巡るなら1~2日を見ておきたい。近隣のワンチャイやセントラルへの日帰り旅行も気軽に組み合わせられる。"
+    },
+    "es": {
+      "blurb": "Causeway Bay es el núcleo denso de comercio y neón de la isla de Hong Kong, un distrito de centros comerciales verticales, tiendas insignia y calles abarrotadas que se extienden desde Victoria Park. Tanto de día como de noche, se posiciona entre las zonas de compras y gastronomía más animadas de la ciudad, apreciada por su enorme concentración de marcas, su energía a pie de calle y su cercanía al puerto.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Hong Kong (HKG), tomando el Airport Express hasta la estación de Hong Kong y luego haciendo transbordo a la Island Line para llegar directamente a la estación de Causeway Bay; el trayecto completo suele tardar entre 35 y 45 minutos. Los autobuses y taxis desde la terminal de transporte regional del aeropuerto ofrecen una alternativa más lenta pero directa hasta el distrito.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer con calma los centros comerciales, mercados callejeros y Victoria Park de Causeway Bay, pudiendo añadir fácilmente excursiones de un día a Wan Chai o Central."
+    },
+    "zh": {
+      "blurb": "铜锣湾是香港岛购物与霓虹交织的繁华核心地带,大型垂直商场、旗舰店与熙攘街道以维多利亚公园为中心向四周辐射开来。无论白天还是夜晚,这里都是全港最热闹的购物和美食聚集地之一,以品牌云集、街头活力四射以及紧邻海港的优越位置而备受青睐。",
+      "getting": "大多数游客会从香港国际机场(HKG)出发,乘坐机场快线抵达香港站,再换乘港岛线直达铜锣湾站,全程约需35-45分钟。此外,也可选择从机场的地面交通枢纽乘坐巴士或的士,虽然耗时较长,但可直达铜锣湾,无需换乘。",
+      "days": "建议安排1-2天时间,从容游览铜锣湾的购物商场、街头市集以及维多利亚公园,还可轻松安排前往邻近的湾仔或中环进行一日游。"
+    }
+  },
+  "Central": {
+    "en": {
+      "blurb": "Central is Hong Kong Island's financial nucleus, a dense cluster of skyscrapers, luxury malls, and colonial-era landmarks squeezed between the harbourfront and the Peak. By day it hums with bankers and cross-harbour ferries; by dusk its towers light up over Victoria Harbour, making it as much a sightseeing draw as a business district.",
+      "getting": "Most travellers arrive via Hong Kong International Airport (HKG), taking the Airport Express rail line direct to Hong Kong Station, right in the heart of Central, in ~24 minutes. From other parts of the city, Central is also reachable by MTR (Island, Tsuen Wan, or Airport Express lines) or by ferry across Victoria Harbour from Kowloon.",
+      "days": "Plan on ~1-2 days to cover Central's core sights, financial district streets, and harbourfront, with extra time if you want to combine it with nearby Sheung Wan or a Peak Tram excursion."
+    },
+    "ko": {
+      "blurb": "센트럴은 홍콩섬의 금융 중심지로, 하버프런트와 피크 사이 좁은 지역에 고층 빌딩, 고급 쇼핑몰, 그리고 식민지 시대의 랜드마크가 빽빽하게 모여 있다. 낮에는 은행가들과 홍콩섬-주룽 간 페리로 활기가 넘치고, 해가 지면 빅토리아 하버 위로 빌딩들이 불을 밝히면서 비즈니스 지구이자 손꼽히는 관광 명소로 변신한다.",
+      "getting": "대부분의 여행자는 홍콩국제공항(HKG)을 통해 도착한 뒤, 에어포트 익스프레스를 타고 약 24분 만에 센트럴 한복판에 위치한 홍콩역(Hong Kong Station)에 도착한다. 홍콩 시내 다른 지역에서는 MTR(아일랜드선, 첸완선, 또는 에어포트 익스프레스선)을 이용하거나, 주룽에서 빅토리아 하버를 가로지르는 페리를 타고 센트럴에 갈 수도 있다.",
+      "days": "센트럴의 주요 명소, 금융가 거리, 그리고 하버프런트를 둘러보려면 1~2일 정도를 계획하는 것이 좋으며, 인근 셩완(Sheung Wan)이나 피크 트램 나들이를 함께 즐기고 싶다면 시간을 좀 더 여유롭게 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "セントラルは香港島の金融の中心地。摩天楼、高級モール、そして植民地時代の面影を残す建物が、ハーバーフロントとピークの間にぎゅっと密集している。日中は銀行員たちの往来とスターフェリーの汽笛で賑わい、夕暮れになるとビル群がヴィクトリア・ハーバーに映えて輝き出す。ビジネス街でありながら、観光地としての魅力も併せ持つエリアだ。",
+      "getting": "多くの旅行者は香港国際空港(HKG)から到着し、エアポートエクスプレスに乗れば約24分でセントラルの中心にある香港駅に直接アクセスできる。市内の他エリアからは、MTR(アイランド線、チュンワン線、またはエアポートエクスプレス線)や、九龍からヴィクトリア・ハーバーを渡るフェリーでもセントラルへ行くことができる。",
+      "days": "セントラルの主要スポット、金融街の街並み、ハーバーフロントを巡るには1〜2日ほどを目安に。近くのシャンワン(上環)やピークトラムでの散策も組み合わせたい場合は、もう少し時間を取っておくといい。"
+    },
+    "es": {
+      "blurb": "Central es el núcleo financiero de la isla de Hong Kong, un denso conjunto de rascacielos, centros comerciales de lujo e hitos de la época colonial, comprimido entre el paseo marítimo y el Peak. De día bulle con banqueros y ferris que cruzan el puerto; al atardecer, sus torres se iluminan sobre el Victoria Harbour, convirtiéndolo tanto en un atractivo turístico como en un distrito de negocios.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Hong Kong (HKG), tomando la línea de tren Airport Express directo hasta Hong Kong Station, justo en el corazón de Central, en unos 24 minutos. Desde otras zonas de la ciudad, también se puede llegar a Central en MTR (líneas Island, Tsuen Wan o Airport Express) o en ferry cruzando el Victoria Harbour desde Kowloon.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer los principales atractivos de Central, las calles del distrito financiero y el paseo marítimo, con tiempo adicional si se desea combinarlo con la cercana Sheung Wan o una excursión en el Peak Tram."
+    },
+    "zh": {
+      "blurb": "中环是香港岛的金融核心地带,摩天大楼、高端商场与殖民时期地标在此密集交织,紧凑地分布于维港岸边与太平山之间。白天,这里是银行家与穿梭港湾的渡轮交织出的繁忙景象;入夜后,楼宇灯火映照维多利亚港,让中环不仅是商业重地,更成为游客争相打卡的观光胜地。",
+      "getting": "大多数游客经香港国际机场(HKG)抵达,乘坐机场快线直达香港站,约24分钟即可到达中环核心地带。从市区其他地方前往中环,也可搭乘港铁(港岛线、荃湾线或机场快线),或从九龙搭渡轮跨越维多利亚港前往。",
+      "days": "建议安排1-2天游览中环的主要景点、金融区街道与维港沿岸风光;如果想顺道游览附近的上环,或安排一趟山顶缆车之旅,则可预留更多时间。"
+    }
+  },
+  "Chiayi": {
+    "en": {
+      "blurb": "Chiayi is the low-key gateway city to Alishan's misty tea plantations and cypress forests, a former Japanese colonial railway hub whose downtown still radiates out from the old Chiayi Station that has sent trains up into the mountains since 1912. It's less a headline destination itself than the practical, unglamorous base from which most travellers launch into Taiwan's most famous highland scenery.",
+      "getting": "Chiayi has no significant commercial airport, so travellers arrive by rail: either the Taiwan High Speed Rail's Chiayi Station (in Taibao, outside the city centre) or the older Taiwan Railway (TRA) Chiayi Station right in downtown, both connected to each other by shuttle bus/BRT. From either station, onward travel into the mountains (notably Alishan) continues by dedicated tourist shuttle buses that depart from just outside the stations.",
+      "days": "Budget ~1 day for Chiayi city's own sights (old railway architecture, temples, night market), or ~2-3 days total if using it as your base for a return trip up to Alishan."
+    },
+    "ko": {
+      "blurb": "자이(嘉義)는 알리산의 안개 자욱한 차밭과 편백나무 숲으로 향하는 소박한 관문 도시다. 일제강점기 철도 요충지로 발전한 이곳의 시가지는 1912년부터 산악 지대로 열차를 실어 나른 옛 자이역을 중심으로 여전히 뻗어 있다. 자이 자체는 화려한 관광지라기보다는, 대만에서 가장 유명한 고산 절경으로 떠나는 여행객들이 거쳐 가는 실용적이고 수수한 거점에 가깝다.",
+      "getting": "자이에는 이렇다 할 상업 공항이 없어서, 여행객들은 대개 철도로 도착한다. 시내에서 떨어진 타이바오(太保)에 위치한 대만고속철도(THSR) 자이역, 또는 시내 중심부에 자리한 옛 대만철로관리국(TRA) 자이역 중 한 곳을 이용하게 되며, 두 역은 셔틀버스나 BRT로 서로 연결되어 있다. 어느 역에서 출발하든, 알리산을 비롯한 산악 지역으로의 이동은 역 바로 앞에서 출발하는 전용 관광 셔틀버스를 이용하면 된다.",
+      "days": "자이 시내 자체의 볼거리(옛 철도 건축물, 사원, 야시장 등)만 둘러본다면 하루 정도면 충분하다. 하지만 알리산을 다녀오는 거점으로 삼는다면 왕복 일정까지 포함해 총 2~3일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "嘉義は、阿里山の霧に包まれた茶畑やヒノキ林への玄関口となる、どちらかというと地味な街だ。かつて日本統治時代に鉄道の拠点として栄え、1912年から山へと列車を送り出してきた旧嘉義駅を中心に今も市街が広がっている。嘉義自体が観光のハイライトになることは少なく、台湾を代表する高地の絶景へ向かうための、実用本位で飾り気のない拠点というのが実情だ。",
+      "getting": "嘉義には目立った商業空港がないため、旅行者は鉄道でアクセスすることになる。台湾高速鉄道(高鉄)の嘉義駅(市街地から離れた太保に位置する)か、あるいは市街中心部にある台湾鉄路(台鉄)の嘉義駅のいずれかを利用し、両駅間はシャトルバスやBRTで結ばれている。どちらの駅からも、阿里山をはじめとする山間部へは、駅のすぐ外から発着する観光専用シャトルバスで向かうことになる。",
+      "days": "嘉義市内の観光(古い駅舎建築、寺院、夜市など)だけなら1日ほどを見ておけば十分だが、阿里山への日帰り往復の拠点として利用する場合は、合計2〜3日ほど見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Chiayi es la discreta ciudad puerta de entrada a los brumosos plantíos de té y los bosques de cipreses de Alishan, un antiguo centro ferroviario de la época colonial japonesa cuyo centro urbano todavía se despliega alrededor de la vieja Estación de Chiayi, que ha enviado trenes hacia las montañas desde 1912. No es tanto un destino en sí mismo como la base práctica y sin pretensiones desde la cual la mayoría de los viajeros emprenden su recorrido por el paisaje de montaña más famoso de Taiwán.",
+      "getting": "Chiayi no cuenta con un aeropuerto comercial de importancia, así que los viajeros llegan por tren: ya sea a la Estación de Chiayi del Tren de Alta Velocidad de Taiwán (en Taibao, fuera del centro de la ciudad) o a la más antigua Estación de Chiayi de la Administración Ferroviaria de Taiwán (TRA), situada justo en el centro. Ambas estaciones están conectadas entre sí por autobús lanzadera/BRT. Desde cualquiera de las dos, el trayecto hacia las montañas (sobre todo a Alishan) continúa en autobuses turísticos dedicados que parten justo a las afueras de las estaciones.",
+      "days": "Reserva alrededor de 1 día para visitar los atractivos propios de la ciudad de Chiayi (la arquitectura ferroviaria antigua, los templos, el mercado nocturno), o de 2 a 3 días en total si la usas como base para una excursión de ida y vuelta a Alishan."
+    },
+    "zh": {
+      "blurb": "嘉义是通往阿里山云雾茶园与桧木林的低调门户城市，也是日据时期遗留下来的铁路枢纽。市区至今仍以老嘉义车站为中心向外延伸——这座车站自1912年起便持续将列车送往山区。嘉义本身算不上热门的观光焦点，更像是大多数旅人前往台湾最负盛名的高山美景之前，一个务实而不张扬的中转基地。",
+      "getting": "嘉义没有像样的商用机场，旅客大多搭乘铁路前来：一是台湾高铁嘉义站（位于市中心外的太保），二是位于市区内的台铁嘉义站，两站之间有接驳巴士／BRT相连。无论从哪个车站出发，前往山区（尤其是阿里山）都可以在站外搭乘专门的旅游接驳巴士继续上路。",
+      "days": "若只想游览嘉义市区本身的景点（老火车站建筑、庙宇、夜市），预留约1天即可；若把嘉义当作往返阿里山的基地，建议安排约2至3天。"
+    }
+  },
+  "Coron": {
+    "en": {
+      "blurb": "Coron is famed for its WWII Japanese shipwrecks resting just below the surface and the otherworldly limestone lagoons of Coron Island, like the turquoise Kayangan Lake, making it one of the Philippines' top diving and island-hopping destinations. Set among the jagged karst peaks of the Calamian Islands in northern Palawan, it feels wilder and more dramatic than the Philippines' typical beach resorts.",
+      "getting": "Most travelers fly into Francisco B. Reyes Airport (USU), also known as Busuanga Airport, which sits on Busuanga Island roughly 40 minutes by van or tricycle from Coron Town; direct flights run from Manila (~1–1.5 hours) and Cebu. Budget travelers can instead take an overnight ferry from Manila, though sailings are infrequent (around once or twice a week) and take roughly half a day or more at sea.",
+      "days": "Plan on ~3-4 days to cover Coron's essential island-hopping circuit, wreck-diving sites, and a soak in Kayangan Lake without rushing."
+    },
+    "ko": {
+      "blurb": "코론은 수면 바로 아래 잠들어 있는 제2차 세계대전 당시 일본 침몰선들과, 에메랄드빛 카양안 호수(Kayangan Lake)로 대표되는 코론 섬(Coron Island)의 신비로운 석회암 라군으로 유명하며, 필리핀 최고의 다이빙 및 섬 투어 명소로 꼽힙니다. 팔라완 북부 칼라미안 제도(Calamian Islands)의 날카로운 카르스트 봉우리들 사이에 자리한 이곳은, 필리핀의 전형적인 해변 리조트보다 훨씬 야생적이고 드라마틱한 매력을 지니고 있습니다.\",\"getting\":\"대부분의 여행자는 부수앙가 공항(Busuanga Airport)으로도 불리는 프란시스코 B. 레예스 공항(USU)을 이용합니다. 이 공항은 부수앙가 섬(Busuanga Island)에 위치해 있으며, 코론 타운까지는 승합차나 트라이시클로 약 40분이 소요됩니다. 마닐라(약 1~1.5시간)와 세부에서 직항편이 운항됩니다. 예산을 아끼고 싶은 여행자는 마닐라에서 출발하는 야간 페리를 이용할 수도 있지만, 운항 편수가 적어 주 1~2회 정도밖에 없고, 항해 시간도 반나절 이상 걸립니다.",
+      "getting": "대부분의 여행자는 부수앙가 공항(Busuanga Airport)으로도 불리는 프란시스코 B. 레예스 공항(USU)을 이용합니다. 이 공항은 부수앙가 섬(Busuanga Island)에 위치해 있으며, 코론 타운까지는 승합차나 트라이시클로 약 40분이 소요됩니다. 마닐라(약 1~1.5시간)와 세부에서 직항편이 운항됩니다. 예산을 아끼고 싶은 여행자는 마닐라에서 출발하는 야간 페리를 이용할 수도 있지만, 운항 편수가 적어 주 1~2회 정도밖에 없고, 항해 시간도 반나절 이상 걸립니다.",
+      "days": "코론의 핵심 섬 투어 코스, 침몰선 다이빙 명소, 그리고 카양안 호수에서의 여유로운 시간을 서두르지 않고 즐기려면 약 3~4일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "コロンは、海面のすぐ下に眠る第二次世界大戦時の日本軍沈没船群と、コロン島に広がるこの世のものとは思えない石灰岩のラグーン——たとえばターコイズブルーに輝くカヤンガン湖——で知られ、フィリピン屈指のダイビング&アイランドホッピングの聖地となっています。パラワン島北部、カラミアン諸島のギザギザとしたカルスト地形の峰々に囲まれたこの島は、フィリピンによくある典型的なビーチリゾートとは一線を画す、より野性的でドラマチックな雰囲気を漂わせています。",
+      "getting": "多くの旅行者は、ブスアンガ空港とも呼ばれるフランシスコ・B・レイエス空港(USU)を利用します。空港はブスアンガ島にあり、コロン・タウンまではバンやトライシクルで約40分。マニラ(約1〜1.5時間)やセブから直行便が出ています。予算を抑えたい旅行者は、マニラからの夜行フェリーという選択肢もありますが、運航は週に1〜2便程度と少なく、船旅には半日以上かかります。",
+      "days": "コロンならではのアイランドホッピング、沈没船ダイビング、そしてカヤンガン湖でのひとときをゆっくり楽しむには、3〜4日ほど見ておくのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Coron es célebre por sus naufragios japoneses de la Segunda Guerra Mundial, que reposan justo bajo la superficie, y por las lagunas de piedra caliza de aspecto casi irreal de la Isla Coron, como la turquesa Kayangan Lake, lo que la convierte en uno de los destinos favoritos de Filipinas para el buceo y el recorrido entre islas. Rodeada de los escarpados picos de karst de las Islas Calamian, en el norte de Palawan, transmite una sensación más salvaje y espectacular que la de los típicos resorts de playa filipinos.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Francisco B. Reyes (USU), también conocido como Aeropuerto de Busuanga, ubicado en la Isla Busuanga, a unos 40 minutos en furgoneta o tricycle del pueblo de Coron; hay vuelos directos desde Manila (aprox. 1 a 1,5 horas) y desde Cebú. Los viajeros con presupuesto ajustado también pueden tomar un ferry nocturno desde Manila, aunque las salidas son poco frecuentes (una o dos veces por semana) y el trayecto dura aproximadamente medio día o más en el mar.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer sin prisas el circuito esencial de islas de Coron, sus sitios de buceo entre naufragios y disfrutar de un chapuzón en Kayangan Lake."
+    },
+    "zh": {
+      "blurb": "科隆以其静卧海面之下的二战日本沉船,以及科隆岛上如梦似幻的石灰岩泻湖(比如碧绿如玉的卡杨根湖)而闻名,是菲律宾数一数二的潜水与跳岛胜地。这里坐落于巴拉望北部卡拉棉群岛嶙峋起伏的喀斯特山峰之间,比菲律宾常见的海滨度假地更显野性,也更具戏剧张力。",
+      "getting": "大多数游客会飞抵弗朗西斯科·B·雷耶斯机场(USU,又称布桑加机场),该机场位于布桑加岛上,乘小巴或嘟嘟车到科隆镇约需40分钟;从马尼拉(约1至1.5小时)和宿务均有直飞航班。预算有限的游客也可以选择从马尼拉搭乘夜间渡轮前往,不过班次较少(大约每周一到两班),航程通常需要半天以上。",
+      "days": "建议安排3至4天时间,从容游览科隆的经典跳岛路线、沉船潜点,并在卡杨根湖畔悠闲畅游一番。"
+    }
+  },
+  "Jordan": {
+    "en": {
+      "blurb": "Jordan is a compact, unpolished slice of Kowloon wedged between Tsim Sha Tsui and Yau Ma Tei, best known for the nightly stalls, fortune-tellers and street food of Temple Street Market. Its narrow lanes off Nathan Road mix old tenement blocks, wet markets and cheap eats with a grittier, more local energy than the glossier waterfront a short walk south.",
+      "getting": "Most travellers arrive via Hong Kong International Airport (HKG), taking the Airport Express train to Kowloon Station and then continuing a short distance on the MTR Tsuen Wan Line to Jordan station, which sits right on Nathan Road; airport buses running into Kowloon are also a common alternative for those with luggage.",
+      "days": "A few hours to ~1 day is enough to cover Jordan's night market, temples and street food, often combined with neighbouring Tsim Sha Tsui or Yau Ma Tei on the same trip."
+    },
+    "ko": {
+      "blurb": "조던(Jordan)은 침사추이(Tsim Sha Tsui)와 야우마테이(Yau Ma Tei) 사이에 자리한 작고 소박한 카우룽 지역으로, 밤마다 열리는 노점과 점술가, 길거리 음식이 가득한 템플 스트리트 마켓(Temple Street Market)으로 가장 잘 알려져 있습니다. 네이든 로드(Nathan Road)에서 뻗어 나온 좁은 골목길에는 오래된 아파트 단지와 재래시장, 값싼 먹거리가 뒤섞여 있어, 도보로 조금만 남쪽으로 내려가면 만나는 화려한 워터프론트와는 사뭇 다른, 좀 더 투박하고 현지인다운 활기가 느껴집니다.\",\"getting\":\"대부분의 여행객은 홍콩국제공항(HKG)을 통해 도착한 뒤, 에어포트 익스프레스(Airport Express) 열차를 타고 카우룽역(Kowloon Station)까지 이동합니다. 그 다음 MTR 첸완선(Tsuen Wan Line)으로 짧게 환승해 네이든 로드 바로 위에 위치한 조던역(Jordan Station)에 도착하게 됩니다. 짐이 많은 여행객들에게는 카우룽으로 바로 들어가는 공항버스도 흔히 이용되는 대안입니다.",
+      "getting": "대부분의 여행객은 홍콩국제공항(HKG)을 통해 도착한 뒤, 에어포트 익스프레스(Airport Express) 열차를 타고 카우룽역(Kowloon Station)까지 이동합니다. 그 다음 MTR 첸완선(Tsuen Wan Line)으로 짧게 환승해 네이든 로드 바로 위에 위치한 조던역(Jordan Station)에 도착하게 됩니다. 짐이 많은 여행객들에게는 카우룽으로 바로 들어가는 공항버스도 흔히 이용되는 대안입니다.",
+      "days": "조던의 야시장, 사원, 길거리 음식을 둘러보는 데는 몇 시간에서 최대 하루 정도면 충분하며, 흔히 인접한 침사추이나 야우마테이와 함께 하루 일정으로 묶어 여행하는 경우가 많습니다."
+    },
+    "ja": {
+      "blurb": "ジョージョーダンは、尖沙咀(Tsim Sha Tsui)と油麻地(Yau Ma Tei)の間に挟まれた、九龍のこぢんまりとした飾らないエリアです。テンプルストリート・マーケット(Temple Street Market)の夜市や占い師、屋台グルメで特に知られています。彌敦道(Nathan Road)から一歩入った狭い路地には、古い雑居ビルや生鮮市場、安くて美味しい食事処が並び、少し南に歩けば広がる洗練されたウォーターフロントとは対照的な、よりローカルで生活感あふれる雰囲気が漂っています。",
+      "getting": "多くの旅行者は香港国際空港(HKG)から到着し、エアポートエクスプレス(Airport Express)で九龍駅(Kowloon Station)まで行き、そこからMTR荃湾線(Tsuen Wan Line)に乗り換えて数駅先の佐敦駅(Jordan)まで移動します。佐敦駅は彌敦道(Nathan Road)沿いに位置しています。荷物が多い場合は、九龍方面へ向かう空港バスを利用するのも一般的な選択肢です。",
+      "days": "ジョーダンの夜市、寺院、屋台グルメを巡るには数時間から1日あれば十分で、隣接する尖沙咀(Tsim Sha Tsui)や油麻地(Yau Ma Tei)と組み合わせて一日で回る旅行者も多いです。"
+    },
+    "es": {
+      "blurb": "Jordan es un rincón compacto y sin pulir de Kowloon, encajado entre Tsim Sha Tsui y Yau Ma Tei, conocido sobre todo por los puestos nocturnos, los adivinos y la comida callejera del mercado de Temple Street. Sus callejones estrechos que salen de Nathan Road combinan viejos edificios de vecinos, mercados húmedos y locales de comida barata con una energía más auténtica y local que la del paseo marítimo, más pulido, a pocos minutos a pie hacia el sur.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Hong Kong (HKG), tomando el tren Airport Express hasta Kowloon Station y continuando un breve trayecto en la línea Tsuen Wan del MTR hasta la estación de Jordan, situada justo sobre Nathan Road; los autobuses del aeropuerto hacia Kowloon también son una alternativa habitual para quienes viajan con equipaje.",
+      "days": "Con unas pocas horas hasta un día es suficiente para recorrer el mercado nocturno, los templos y la comida callejera de Jordan, algo que suele combinarse con una visita a los vecinos Tsim Sha Tsui o Yau Ma Tei en el mismo viaje."
+    },
+    "zh": {
+      "blurb": "佐敦是九龙一块紧凑而未经修饰的街区,夹在尖沙咀与油麻地之间,最为人熟知的是庙街市场每晚的摊档、占卜摆档和街头小吃。弥敦道两旁的窄巷里,老式住宅楼、湿货市场和廉价美食交织在一起,散发出比南面几步之遥、更光鲜的海滨区更市井、更接地气的氛围。",
+      "getting": "大多数旅客经香港国际机场(HKG)抵达,先乘搭机场快线到九龙站,再转乘港铁荃湾线,坐一小段就到佐敦站,车站正好就在弥敦道上;对于携带较多行李的旅客,搭乘直达九龙的机场巴士也是常见的选择。",
+      "days": "花几个小时到约一天时间,就足够逛遍佐敦的夜市、庙宇和街头小吃,不少人也会把它和邻近的尖沙咀或油麻地安排在同一天行程中一起游览。"
+    }
+  },
+  "Kennedy Town": {
+    "en": {
+      "blurb": "Kennedy Town is the low-key western tip of Hong Kong Island, where a harbourfront promenade, old tong laau tenements, and a growing crop of cafes and bars sit alongside working piers and Victorian-era relics like the old Dairy Farm depot. It has the laid-back, salty-air feel of a neighbourhood that only fully joined the rest of the city a decade ago, making it a favourite escape from the high-rise crush of Central.",
+      "getting": "Kennedy Town is served by its own MTR stop, Kennedy Town station, which is the western terminus of the Island line. From Hong Kong International Airport (HKG), the standard route is the Airport Express train to Hong Kong or Central station, then a transfer onto the Island line to ride it out to Kennedy Town, a journey of roughly ~30-45 minutes depending on connections; taxis and airport buses to the district are also an option via the regional bus network.",
+      "days": "Plan on around half a day to a full day here — enough time to stroll the praya waterfront, browse the neighbourhood's cafes and shops, and catch the sunset over the harbour before heading back into central Hong Kong."
+    },
+    "ko": {
+      "blurb": "케네디 타운은 홍콩섬 서쪽 끝에 자리한 조용한 동네로, 하버프론트 산책로와 옛 정취가 남은 탕라우(구식 상가주택), 그리고 나날이 늘어나는 카페와 바들이 여전히 가동 중인 부두, 그리고 옛 데어리 팜 창고 같은 빅토리아 시대의 흔적들과 나란히 자리하고 있습니다. 불과 10여 년 전에야 도심 교통망에 온전히 편입된 동네답게 여유롭고 바다내음 가득한 분위기를 간직하고 있어, 센트럴의 고층빌딩 숲을 벗어나 잠시 쉬어가기 좋은 곳으로 사랑받고 있습니다.",
+      "getting": "케네디 타운에는 자체 MTR 역인 케네디 타운역이 있으며, 이는 아일랜드 라인의 서쪽 종점입니다. 홍콩국제공항(HKG)에서는 보통 에어포트 익스프레스를 타고 홍콩역이나 센트럴역까지 이동한 뒤, 아일랜드 라인으로 환승해 종점인 케네디 타운까지 가는 경로를 이용하며, 환승 여건에 따라 전체 소요 시간은 약 30~45분 정도입니다. 지역 버스 노선을 이용한 택시나 공항버스로도 이 지역까지 이동할 수 있습니다.",
+      "days": "이곳을 제대로 둘러보려면 반나절에서 하루 정도를 잡는 것이 좋습니다. 프라야 해안 산책로를 거닐고, 동네 곳곳의 카페와 상점들을 구경한 뒤, 항구 너머로 지는 해질녘 풍경을 감상하고 나서 다시 홍콩 도심으로 돌아가기에 충분한 시간입니다."
+    },
+    "ja": {
+      "blurb": "堅尼地城は香港島西端に位置する、どこか肩の力が抜けたエリア。海沿いの遊歩道や昔ながらの「唐樓」が並ぶ一方で、おしゃれなカフェやバーが次々と誕生し、現役の船着き場やデイリーファーム・クリーマリーの旧倉庫といったヴィクトリア時代の面影も残っています。この街が地下鉄でようやく市街と結ばれたのはわずか十年前のこと。今も潮風漂う下町らしいのんびりとした雰囲気があり、セントラルの高層ビル群の喧騒から逃れたい人にとって絶好の避難先となっています。",
+      "getting": "堅尼地城には専用のMTR駅「堅尼地城駅」があり、アイランドラインの西の終着駅となっています。香港国際空港（HKG）からは、エアポートエクスプレスで香港駅またはセントラル駅まで行き、そこでアイランドラインに乗り換えて終点の堅尼地城まで向かうのが一般的なルートです。乗り換え状況によりますが、所要時間はおおよそ30～45分程度。タクシーや、地域の路線バスを利用した空港バスでこのエリアに向かうことも可能です。",
+      "days": "半日から1日程度あれば十分楽しめます。海沿いのプロムナード（プラヤ）を散策したり、近所のカフェやショップをのぞいたり、そして香港中心部へ戻る前に、港に沈む夕日を眺める時間も確保できるでしょう。"
+    },
+    "es": {
+      "blurb": "Kennedy Town es el extremo occidental, tranquilo y sin pretensiones, de la Isla de Hong Kong, donde un paseo marítimo, viejos edificios tong laau y una creciente oferta de cafés y bares conviven con muelles en activo y reliquias de la era victoriana, como el antiguo depósito de Dairy Farm. Tiene ese aire relajado y de brisa salada propio de un barrio que solo se integró plenamente al resto de la ciudad hace apenas una década, lo que lo convierte en un escape favorito frente al bullicio de rascacielos de Central.",
+      "getting": "Kennedy Town cuenta con su propia estación de MTR, Kennedy Town, que es la terminal occidental de la línea Island. Desde el Aeropuerto Internacional de Hong Kong (HKG), la ruta habitual es tomar el tren Airport Express hasta la estación de Hong Kong o Central, y luego hacer transbordo a la línea Island para llegar hasta Kennedy Town, un trayecto de aproximadamente 30 a 45 minutos según las conexiones; también existe la opción de taxis y autobuses del aeropuerto que llegan al barrio a través de la red regional de autobuses.",
+      "days": "Calcula entre medio día y un día completo aquí, tiempo suficiente para pasear por el malecón (praya), curiosear en los cafés y tiendas del barrio, y disfrutar de la puesta de sol sobre el puerto antes de regresar al centro de Hong Kong."
+    },
+    "zh": {
+      "blurb": "坚尼地城是香港岛西端一处低调的角落,海滨长廊、老式唐楼与日渐增多的咖啡馆、酒吧,和仍在作业的码头、以及牛奶公司旧仓库等维多利亚时代遗迹并存。这里带着一种悠闲、带着海风气息的社区氛围,十年前才真正融入香港其他地区的生活圈,因此成为许多人逃离中环高楼林立、节奏紧张的首选去处。",
+      "getting": "坚尼地城设有自己的港铁站——坚尼地城站,是港岛线的西面终点站。从香港国际机场(HKG)出发,常规路线是先乘搭机场快线到香港站或中环站,再换乘港铁港岛线一路坐到坚尼地城,视换乘情况整段行程大约需要30至45分钟;此外,也可以选择乘坐的士或经由地区巴士网络接驳的机场巴士前往该区。",
+      "days": "建议预留半天到一整天的时间——足够沿海边长廊漫步,逛逛社区里的咖啡馆和小店,再在返回香港市中心之前,悠闲地看一场海港日落。"
+    }
+  },
+  "Lantau Island": {
+    "en": {
+      "blurb": "Lantau Island is Hong Kong's largest island, a mountainous, forest-covered escape where the giant bronze Tian Tan Buddha and Po Lin Monastery sit high above the city's skyline. Despite hosting the international airport and Hong Kong Disneyland, much of Lantau remains wild — laced with hiking trails, fishing villages, and beaches far removed from the density of Kowloon and Hong Kong Island.",
+      "getting": "Lantau is reached via the MTR's Tung Chung Line, which terminates at Tung Chung station on the island; travellers arriving by air can also reach the island directly, since Hong Kong International Airport (HKG) itself sits on reclaimed land adjacent to Lantau, connected by short bridges. From Tung Chung, the Ngong Ping 360 cable car or local buses provide onward access to the island's hilltop and southern attractions.",
+      "days": "Plan on ~1-2 days to cover the highlights — the cable car ride, Big Buddha, Po Lin Monastery, and a village like Tai O — or longer if adding hiking or beach time."
+    },
+    "ko": {
+      "blurb": "란타우 섬은 홍콩에서 가장 큰 섬으로, 산과 숲으로 뒤덮인 이곳에는 거대한 청동 좌불상인 톈탄 대불과 보린 사원이 도심 스카이라인을 저 멀리 아래로 내려다보며 자리하고 있다. 국제공항과 홍콩 디즈니랜드가 있는 곳이기도 하지만, 란타우의 상당 부분은 여전히 자연 그대로의 모습을 간직하고 있다. 하이킹 트레일과 어촌 마을, 그리고 카오룽이나 홍콩섬의 밀집된 도심과는 사뭇 다른 해변들이 곳곳에 펼쳐져 있다.",
+      "getting": "란타우 섬은 MTR 퉁충선을 타면 갈 수 있으며, 이 노선의 종점인 퉁충역이 섬 안에 위치해 있다. 홍콩국제공항(HKG) 자체도 란타우 섬에 인접한 매립지에 세워져 짧은 다리로 섬과 연결되어 있어, 비행기로 도착하는 여행자라면 바로 섬으로 이동할 수 있다. 퉁충에서는 옹핑 360 케이블카나 시내버스를 이용해 섬 고지대와 남부 지역의 명소로 더 들어갈 수 있다.",
+      "days": "케이블카 탑승, 대불, 보린 사원, 그리고 타이오 같은 마을 한 곳을 둘러보는 핵심 코스라면 1~2일 정도면 충분하다. 하이킹이나 해변에서 시간을 보내고 싶다면 일정을 좀 더 늘려도 좋다."
+    },
+    "ja": {
+      "blurb": "ランタオ島は香港最大の島で、山々と森に覆われたこの島には、香港の摩天楼をはるか下に見下ろすように、巨大な青銅製の天壇大仏と宝蓮寺がそびえています。国際空港や香港ディズニーランドを抱えているとはいえ、島の大部分は今も自然のままで、九龍や香港島の喧騒とは無縁のハイキングコース、漁村、ビーチが点在しています。",
+      "getting": "ランタオ島へはMTR東涌線でアクセスでき、終点の東涌駅が島の玄関口となります。また、香港国際空港（HKG）自体がランタオ島に隣接する埋立地に建設され、短い橋で結ばれているため、飛行機で到着した旅行者はそのまま島に入ることも可能です。東涌からは、ニョンピン360ケーブルカーや路線バスを利用して、山頂エリアや島南部の観光スポットへ向かうことができます。",
+      "days": "見どころを回るなら1〜2日が目安です。ケーブルカー、大仏、宝蓮寺、大澎（タイオー）のような村を訪れるだけならこれで十分ですが、ハイキングやビーチでゆっくり過ごすならもう少し時間をとると良いでしょう。"
+    },
+    "es": {
+      "blurb": "Lantau es la isla más grande de Hong Kong, un refugio montañoso cubierto de bosques donde el gigantesco Buda de bronce Tian Tan y el Monasterio Po Lin se alzan muy por encima del perfil urbano de la ciudad. Pese a albergar el aeropuerto internacional y Hong Kong Disneyland, gran parte de Lantau conserva su carácter salvaje, surcada de senderos, pueblos de pescadores y playas muy alejadas de la densidad de Kowloon y la Isla de Hong Kong.",
+      "getting": "Se llega a Lantau mediante la Línea Tung Chung del MTR, que termina en la estación de Tung Chung, en la propia isla; quienes llegan en avión también pueden acceder directamente, ya que el Aeropuerto Internacional de Hong Kong (HKG) se asienta sobre terreno ganado al mar junto a Lantau, unido a la isla por pequeños puentes. Desde Tung Chung, el teleférico Ngong Ping 360 o los autobuses locales permiten continuar hacia las atracciones de las colinas y el sur de la isla.",
+      "days": "Conviene reservar entre 1 y 2 días para ver lo más destacado —el paseo en teleférico, el Buda Gigante, el Monasterio Po Lin y algún pueblo como Tai O—, o más tiempo si se añaden caminatas o una visita a la playa."
+    },
+    "zh": {
+      "blurb": "大屿山是香港最大的岛屿，山峦叠翠、林木葱郁,巨大的天坛大佛与宝莲寺就静静矗立在城市天际线之上。尽管岛上坐落着国际机场和香港迪士尼乐园,大屿山的大部分区域依然保持着原始风貌——蜿蜒的远足径、宁静的渔村和远离九龙、香港岛喧嚣密集的海滩，共同勾勒出一幅悠然画卷。",
+      "getting": "前往大屿山，可乘坐港铁东涌线，终点站东涌站即在岛上；由于香港国际机场（HKG）本身建于毗邻大屿山的填海地上，并由短桥相连，因此乘飞机抵达的旅客也可直接进入岛内。从东涌出发，可换乘昂坪360缆车或当地巴士，继续前往岛上山顶及南部的各大景点。",
+      "days": "游览缆车之旅、大佛、宝莲寺以及大澳等村落这些精华景点，安排1-2天即可；若想加入远足或海滩休闲活动，则可适当延长行程。"
+    }
+  },
+  "Mong Kok": {
+    "en": {
+      "blurb": "Mong Kok is Hong Kong's densest slice of neon-lit street life, where Nathan Road's shopfronts give way to specialist strips like the Ladies' Market, Sneaker Street, and the Flower and Goldfish Markets. It's a place best experienced on foot after dark, when the crowds, cooked-food stalls, and shop signs are at their most intense.",
+      "getting": "Mong Kok is reached directly via its own MTR station (Tsuen Wan and Kwun Tong lines) or nearby Prince Edward station, both in the Yau Tsim Mong district of Kowloon. Travellers arriving from Hong Kong International Airport (HKG) typically take the Airport Express to Kowloon or Hong Kong Station, then change onto the Tsuen Wan Line for the short ride north to Mong Kok — a journey of roughly ~30-40 minutes in total.",
+      "days": "Half a day is enough to cover the main markets and Nathan Road shopping, while a full day or evening allows time to also explore the street food, Temple Street area, and side alleys at a slower pace."
+    },
+    "ko": {
+      "blurb": "몽콕은 홍콩에서 네온사인이 가장 화려하게 밀집된 거리 문화의 중심지로, 네이든로드를 따라 늘어선 상점가는 여인가(Ladies' Market), 스니커 스트리트, 화조어시장(Flower and Goldfish Markets) 같은 전문 상가 골목으로 이어진다. 해가 진 뒤 인파와 노점 음식, 화려한 간판이 절정에 달할 때 걸어서 둘러보기 가장 좋은 곳이다.",
+      "getting": "몽콕은 자체 MTR 역(취안완선, 관탕선)이나 인근 프린스 에드워드역을 통해 바로 갈 수 있으며, 두 역 모두 카오룽의 야우침몽 지역에 위치해 있다. 홍콩국제공항(HKG)에서 오는 여행객은 보통 공항철도(Airport Express)를 타고 카오룽역이나 홍콩역까지 이동한 뒤, 취안완선으로 갈아타고 북쪽으로 짧게 이동해 몽콕에 도착하며, 전체 소요 시간은 약 30~40분 정도다.",
+      "days": "주요 시장과 네이든로드 쇼핑을 둘러보는 데는 반나절이면 충분하며, 하루 종일이나 저녁 시간을 활용하면 길거리 음식과 템플 스트리트 일대, 골목골목을 여유롭게 탐방할 수 있다."
+    },
+    "ja": {
+      "blurb": "モンコックは香港でもっともネオンが密集し、活気あふれる街角が広がるエリアだ。ネイザン・ロード沿いの店先を抜けると、女人街(レディース・マーケット)、スニーカー・ストリート、花園街の花市場や金魚街といった専門店の並びが次々と現れる。人混みや屋台の湯気、看板の光がもっとも濃密になる日没後、歩いて巡ってこそこの街の魅力を実感できる。",
+      "getting": "モンコックへは、MTR荃湾線・観塘線が乗り入れる旺角駅、または近くの太子駅から直接アクセスできる。どちらも九龍の油尖旺区に位置する。香港国際空港(HKG)から向かう場合は、まずエアポート・エクスプレスで九龍駅または香港駅まで行き、そこから荃湾線に乗り換えて北へ数駅の旺角駅まで移動するのが一般的で、所要時間はトータルでおよそ30〜40分ほど。",
+      "days": "主要なマーケットとネイザン・ロードでのショッピングを楽しむだけなら半日あれば十分だが、屋台グルメや廟街(テンプル・ストリート)周辺、路地裏をゆっくり探索したいなら丸一日、または夜の時間帯まで含めて楽しむのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Mong Kok es el rincón más denso de Hong Kong en cuanto a vida callejera bajo el neón, donde los escaparates de Nathan Road dan paso a zonas especializadas como el Ladies' Market, la Sneaker Street y los mercados de Flores y Peces Dorados. Es un lugar que se disfruta mejor a pie y después del anochecer, cuando las multitudes, los puestos de comida callejera y los letreros de las tiendas alcanzan su máxima intensidad.",
+      "getting": "Se llega a Mong Kok directamente a través de su propia estación de MTR (líneas Tsuen Wan y Kwun Tong) o de la cercana estación de Prince Edward, ambas en el distrito de Yau Tsim Mong, en Kowloon. Los viajeros que llegan desde el Aeropuerto Internacional de Hong Kong (HKG) suelen tomar el Airport Express hasta la estación de Kowloon o Hong Kong, y luego hacer transbordo a la línea Tsuen Wan para el corto trayecto hacia el norte hasta Mong Kok, un viaje de entre 30 y 40 minutos en total aproximadamente.",
+      "days": "Medio día es suficiente para recorrer los mercados principales y las tiendas de Nathan Road, mientras que un día completo o una tarde-noche permite además explorar con más calma la comida callejera, la zona de Temple Street y los callejones laterales."
+    },
+    "zh": {
+      "blurb": "旺角是香港最密集、霓虹灯火最喧闹的街头生活缩影。弥敦道两侧的店铺一路延伸,渐渐过渡到女人街、波鞋街、花墟和金鱼街等各具特色的专卖街区。这里最适合在夜幕降临后徒步探索,那时人潮、熟食摊档和店铺招牌交织在一起,气氛最为浓烈。",
+      "getting": "旺角可直接乘坐港铁到达,车站本身设有荃湾线和观塘线,附近的太子站也是不错的选择,两者都位于九龙油尖旺区。从香港国际机场(HKG)出发的旅客,通常先乘机场快线到九龙站或香港站,再换乘荃湾线北行数站即可抵达旺角,全程大约需要30-40分钟。",
+      "days": "半天时间足以逛遍主要市场和弥敦道的购物区;若安排一整天或傍晚时段前往,则可以更悠闲地探索街头小吃、庙街一带以及周边的小巷弄。"
+    }
+  },
+  "Sai Kung": {
+    "en": {
+      "blurb": "Known as Hong Kong's \"back garden,\" Sai Kung is a former fishing town turned gateway to the region's wildest coastline — a working seafood harbour backed by the volcanic sea cliffs, hexagonal rock columns and outlying islands of the Hong Kong UNESCO Global Geopark. It's where locals go to eat live seafood pulled straight from pier-side tanks, then hike or boat out into some of the least developed country parks left in the territory.",
+      "getting": "Sai Kung has no MTR station of its own, so the standard route is the MTR to Choi Hung, then a green minibus (route 1A) or bus (route 92, also reachable from Diamond Hill) on to Sai Kung's waterfront bus terminus, a journey of roughly ~20-40 minutes depending on the connection; taxis from urban Kowloon take ~30-40 minutes.",
+      "days": "Plan on ~1 day for the seafood promenade, old town lanes and a short island boat trip, or ~2 days if you want to add a proper hike or geopark boat tour into the mix."
+    },
+    "ko": {
+      "blurb": "홍콩의 \"뒷마당\"으로 불리는 사이쿵은 한때 어촌이었던 곳으로, 지금은 홍콩에서 가장 야생적인 해안선으로 향하는 관문이 되었습니다. 현역 수산 항구 뒤로는 화산 활동으로 형성된 해안 절벽, 육각형 암석 기둥, 그리고 홍콩 유네스코 세계지질공원에 속한 여러 부속 섬들이 펼쳐져 있습니다. 이곳은 현지인들이 부둣가 수조에서 바로 건져 올린 활어 해산물을 즐기러 오는 곳이자, 그런 다음 홍콩에 남아 있는 가장 덜 개발된 지역공원들로 하이킹이나 보트 여행을 떠나는 출발점이기도 합니다.",
+      "getting": "사이쿵에는 자체 MTR역이 없어서, 보통 MTR을 타고 초이홍(Choi Hung)역까지 간 다음, 그린미니버스(1A번 노선)나 버스(92번 노선, 다이아몬드힐에서도 탑승 가능)로 갈아타고 사이쿵 해변가 버스터미널까지 이동합니다. 연결 상황에 따라 전체 소요 시간은 약 20~40분 정도이며, 구룡 시내에서 택시로 이동할 경우 약 30~40분이 걸립니다.",
+      "days": "해산물 거리 산책, 구시가지 골목 탐방, 짧은 섬 보트 투어까지 즐기려면 약 1일이면 충분하고, 제대로 된 하이킹이나 지질공원 보트 투어까지 추가하고 싶다면 약 2일을 잡는 것이 좋습니다."
+    },
+    "es": {
+      "blurb": "Conocido como el \"jardín trasero\" de Hong Kong, Sai Kung es un antiguo pueblo de pescadores convertido en puerta de entrada al litoral más salvaje de la región: un puerto pesquero en plena actividad, respaldado por los acantilados volcánicos, las columnas de roca hexagonales y las islas periféricas del Geoparque Mundial de la UNESCO de Hong Kong. Es el lugar al que van los lugareños a comer marisco vivo recién sacado de los tanques junto al muelle, para luego salir a caminar o navegar hacia algunos de los parques naturales menos urbanizados que quedan en el territorio.",
+      "getting": "Sai Kung no cuenta con estación propia de MTR, así que la ruta habitual es tomar el MTR hasta Choi Hung y, desde ahí, un minibús verde (ruta 1A) o un autobús (ruta 92, también accesible desde Diamond Hill) hasta la terminal frente al mar de Sai Kung, un trayecto de entre 20 y 40 minutos aproximadamente según la conexión; en taxi desde el Kowloon urbano se tarda entre 30 y 40 minutos.",
+      "days": "Calcula alrededor de 1 día para recorrer el paseo marítimo del marisco, las callejuelas del casco antiguo y hacer una breve excursión en barco a alguna isla, o unos 2 días si quieres añadir una caminata en condiciones o un tour en barco por el geoparque."
+    },
+    "zh": {
+      "blurb": "西贡素有香港「后花园」之称，昔日只是一个宁静的渔港，如今已成为通往香港最原始海岸线的门户。这里既是热闹的海鲜码头，渔民和食客往来不绝,又坐拥火山岩海崖、六角形岩柱以及香港联合国教科文组织世界地质公园辖下的离岛美景。当地人爱来这里挑选码头鱼缸里现捞的海鲜大快朵颐，再徒步或乘船深入香港仅存不多、开发程度最低的郊野公园。",
+      "getting": "西贡本身没有港铁站，最常见的方式是先乘港铁到彩虹站，再转乘绿色小巴（1A线）或巴士（92号线，钻石山亦可搭乘）前往西贡海边的巴士总站，视乎接驳情况，全程大约需要20至40分钟；如从九龙市区乘的士前往，车程约30至40分钟。",
+      "days": "若只想逛逛海鲜大道、老街小巷，再来一趟短程离岛船游，大约安排一天即可；如果还想加上一段正式的远足或地质公园游船体验，建议预留约两天时间。"
+    }
+  },
+  "Sheung Wan": {
+    "en": {
+      "blurb": "Sheung Wan is a historic harbourside district on Hong Kong Island, famed for its dried seafood shops, traditional Chinese medicine stores, and antique dealers clustered around narrow, sloping streets. It sits just west of Central's glass towers, retaining an old-trade atmosphere alongside the colonial-era Western Market and its own Hong Kong–Macau ferry pier.",
+      "getting": "Sheung Wan has its own stop on the MTR Island Line (station code SHW), making it an easy direct ride from Central and other Hong Kong Island stations. Most travellers coming from Hong Kong International Airport (HKG) take the Airport Express to Hong Kong Station and then continue by taxi, shuttle, or a short MTR/bus connection into Sheung Wan.",
+      "days": "A single day is generally enough to explore Sheung Wan's markets, dried-seafood streets, antique shops, and waterfront ferry pier area."
+    },
+    "ko": {
+      "blurb": "셩완(Sheung Wan)은 홍콩섬에 위치한 유서 깊은 항구 지구로, 좁고 경사진 골목마다 건어물 상점, 전통 한약방, 골동품 상점이 모여 있어 예로부터 유명한 곳입니다. 유리로 뒤덮인 센트럴의 고층 빌딩가 바로 서쪽에 자리하면서도, 식민지 시대의 정취가 남아 있는 웨스턴 마켓과 홍콩-마카오 여객선 터미널을 품고 옛 상업 거리의 분위기를 그대로 간직하고 있습니다.",
+      "getting": "셩완은 MTR 아일랜드 라인에 자체 역(역 코드 SHW)을 두고 있어 센트럴을 비롯한 홍콩섬 각지에서 직행으로 편리하게 오갈 수 있습니다. 홍콩국제공항(HKG)에서 오는 여행객 대부분은 에어포트 익스프레스를 타고 홍콩역까지 이동한 뒤, 택시나 셔틀버스, 또는 짧은 MTR·버스 환승을 통해 셩완으로 들어갑니다.",
+      "days": "셩완의 시장, 건어물 거리, 골동품 상점, 그리고 부둣가 여객선 터미널 일대를 둘러보는 데는 하루면 충분합니다."
+    },
+    "ja": {
+      "blurb": "上環(シェンワン)は香港島の海沿いに広がる歴史あるエリアで、乾物店や漢方薬店、骨董品店が細い坂道に軒を連ねる街並みで知られています。セントラルの高層ビル群のすぐ西側に位置しながらも、植民地時代の建物である西港城(ウェスタン・マーケット)や、香港と マカオを結ぶ独自のフェリーターミナルとともに、古き商業の街の趣を今も残しています。",
+      "getting": "上環にはMTR島線の駅(駅コードSHW)があり、セントラルなど香港島内の他の駅からも直通で気軽にアクセスできます。香港国際空港(HKG)から向かう場合は、多くの旅行者がエアポートエクスプレスで香港駅まで行き、そこからタクシーやシャトルバス、あるいはMTRやバスへの短い乗り継ぎで上環へ向かいます。",
+      "days": "上環のマーケットや乾物街、骨董品店、そしてフェリーターミナル周辺のウォーターフロントを巡るには、1日あれば十分に楽しめます。"
+    },
+    "es": {
+      "blurb": "Sheung Wan es un histórico distrito frente al mar en la Isla de Hong Kong, célebre por sus tiendas de mariscos secos, sus comercios de medicina tradicional china y sus anticuarios, todos agrupados en calles estrechas y empinadas. Se encuentra justo al oeste de las torres de cristal de Central, y conserva un ambiente de comercio tradicional, con el histórico Western Market de la época colonial y su propio muelle de ferris hacia Macao.",
+      "getting": "Sheung Wan cuenta con su propia estación en la Línea Island del MTR (código SHW), lo que permite llegar fácilmente en tren directo desde Central y otras estaciones de la Isla de Hong Kong. La mayoría de los viajeros que llegan desde el Aeropuerto Internacional de Hong Kong (HKG) toman el Airport Express hasta Hong Kong Station y luego continúan en taxi, transporte de enlace o una breve conexión de MTR/autobús hasta Sheung Wan.",
+      "days": "Por lo general, un solo día basta para explorar los mercados de Sheung Wan, sus calles de mariscos secos, las tiendas de antigüedades y la zona del muelle de ferris junto al mar."
+    },
+    "zh": {
+      "blurb": "上环是香港岛上一个历史悠久的临海旧区,以海味干货铺、传统中药行和聚集在狭窄斜坡街道两旁的古董店闻名。它就位于中环玻璃大厦的西侧,既保留着旧时商贸的市井气息,又坐拥殖民时期的西港城和自设的港澳码头。",
+      "getting": "上环设有港岛线地铁站(站码SHW),从中环及港岛其他各站均可乘车直达,十分方便。大多数从香港国际机场(HKG)出发的旅客会先搭乘机场快线到香港站,再转乘的士、酒店穿梭巴士,或换乘短途地铁/巴士前往上环。",
+      "days": "一天时间通常已足够游览上环的市场、海味街、古董店铺,以及临海的码头一带。"
+    }
+  },
+  "Tsim Sha Tsui": {
+    "en": {
+      "blurb": "Perched on the southern tip of the Kowloon Peninsula, Tsim Sha Tsui pairs a neon-lit shopping and dining sprawl along Nathan Road with a promenade that delivers one of the world's most photographed skylines across Victoria Harbour. Colonial-era landmarks like the Clock Tower and the Star Ferry pier sit alongside museums and glitzy malls, making it Hong Kong's most concentrated mix of heritage, harbour views, and hustle.",
+      "getting": "Most travellers arrive via the Airport Express train from Hong Kong International Airport (HKG) to Hong Kong or Kowloon Station, then transfer onto the MTR's Tsuen Wan Line to Tsim Sha Tsui Station — a journey of roughly ~30-40 minutes in total. Airport buses and taxis also run directly into the district along Nathan Road and Chatham Road South for those with heavier luggage.",
+      "days": "Allow ~1-2 days to cover the harbourfront promenade, Star Ferry crossing, museums, and Nathan Road shopping without rushing."
+    },
+    "ko": {
+      "blurb": "까우룽반도 남단 끝자락에 자리한 침사추이는 네이던 로드를 따라 펼쳐지는 화려한 네온사인의 쇼핑·먹거리 거리와, 빅토리아 하버 너머로 세계에서 가장 많이 사진에 담기는 스카이라인을 감상할 수 있는 프롬나드를 동시에 품고 있는 곳입니다. 시계탑과 스타페리 선착장 같은 식민지 시대의 랜드마크가 박물관과 화려한 쇼핑몰들과 어우러져 있어, 유서 깊은 역사와 항구 전망, 그리고 활기찬 도시의 에너지가 홍콩에서 가장 진하게 응축된 지역이라 할 수 있습니다.",
+      "getting": "대부분의 여행객은 홍콩국제공항(HKG)에서 공항철도(Airport Express)를 타고 홍콩역 또는 까우룽역까지 이동한 뒤, MTR 취안완선(Tsuen Wan Line)으로 환승해 침사추이역에서 내리며, 전체 소요 시간은 약 30~40분 정도입니다. 짐이 많은 여행객이라면 네이던 로드와 채텀 로드 사우스를 따라 침사추이까지 바로 운행하는 공항버스나 택시를 이용하는 것도 좋은 방법입니다.",
+      "days": "하버프런트 프롬나드 산책, 스타페리 승선, 박물관 관람, 그리고 네이던 로드 쇼핑까지 여유롭게 즐기려면 1~2일 정도를 잡는 것이 좋습니다."
+    },
+    "es": {
+      "blurb": "Situado en la punta sur de la península de Kowloon, Tsim Sha Tsui combina una vibrante zona comercial y gastronómica iluminada por neones a lo largo de Nathan Road con un paseo marítimo que ofrece uno de los skylines más fotografiados del mundo, frente al Victoria Harbour. Emblemas de la época colonial, como la Clock Tower y el muelle del Star Ferry, conviven con museos y centros comerciales de lujo, lo que convierte a esta zona en la mezcla más concentrada de Hong Kong entre patrimonio histórico, vistas al puerto y bullicio urbano.",
+      "getting": "La mayoría de los viajeros llega en el tren Airport Express desde el Aeropuerto Internacional de Hong Kong (HKG) hasta la estación de Hong Kong o Kowloon, para luego transbordar a la línea Tsuen Wan del MTR hasta la estación de Tsim Sha Tsui, un trayecto de aproximadamente 30-40 minutos en total. También hay autobuses y taxis del aeropuerto que llegan directamente al distrito por Nathan Road y Chatham Road South, ideales para quienes viajan con equipaje pesado.",
+      "days": "Se recomienda destinar entre 1 y 2 días para recorrer sin prisas el paseo marítimo, cruzar en el Star Ferry, visitar los museos y disfrutar de las compras en Nathan Road."
+    },
+    "zh": {
+      "blurb": "尖沙咀坐落于九龙半岛南端,一边是弥敦道上霓虹闪烁、绵延不绝的购物美食街区,一边是维多利亚港畔的海滨长廊,可欣赏到世界上最上镜的天际线之一。钟楼、天星码头等殖民时期地标与各式博物馆、时尚商场比邻而立,浓缩了香港的历史底蕴、海港美景与都市活力,是香港最具代表性的多元街区之一。",
+      "getting": "大多数旅客会从香港国际机场(HKG)搭乘机场快线抵达香港站或九龙站,再转乘港铁荃湾线到尖沙咀站,全程约30-40分钟。若行李较多,也可选择机场巴士或的士,沿弥敦道或漆咸道南直达尖沙咀。",
+      "days": "建议预留约1-2天时间,从容游览海滨长廊、乘坐天星小轮、参观各大博物馆并畅游弥敦道购物区。"
+    }
+  },
+  "Wan Chai": {
+    "en": {
+      "blurb": "Wan Chai is Hong Kong Island's gritty-glam mix of neon-lit nightlife strips, century-old wet markets, and the harbourfront Hong Kong Convention and Exhibition Centre, all within a few dense city blocks. By day it's street food and temple incense; by night it's bar crawls and karaoke, making it one of the most layered districts to explore on foot.",
+      "getting": "Most travellers arrive via Hong Kong International Airport (HKG), taking the Airport Express rail line to Hong Kong Station (~24 minutes) and then transferring to the MTR Island Line for a short hop (~a few minutes) to Wan Chai Station; airport buses to the district are also available for those preferring a direct, if slower, ride.",
+      "days": "Plan on ~1-2 days to cover Wan Chai's core sights, including its markets, waterfront convention area, and nightlife streets, at a comfortable walking pace."
+    },
+    "ko": {
+      "blurb": "완차이(灣仔)는 홍콩섬 특유의 거칠면서도 화려한 매력이 공존하는 지역으로, 네온사인 불빛이 가득한 유흥가와 100년 역사를 자랑하는 재래시장, 그리고 하버프론트에 자리한 홍콩 컨벤션 & 전시 센터가 몇 개의 밀집된 블록 안에 함께 어우러져 있습니다. 낮에는 길거리 음식과 사원의 향 내음이 가득하고, 밤이 되면 바 크롤링과 노래방 문화가 펼쳐지는, 도보로 둘러보기에 가장 다채로운 매력을 지닌 지역 중 하나입니다.\",\"getting\":\"대부분의 여행객은 홍콩국제공항(HKG)을 통해 도착한 뒤, 공항철도(Airport Express)를 타고 홍콩역(Hong Kong Station)까지 약 24분간 이동합니다. 이후 MTR 아일랜드 라인(Island Line)으로 환승하여 몇 분 거리에 있는 완차이역(Wan Chai Station)까지 짧게 이동하면 됩니다. 조금 더 느리더라도 환승 없이 편하게 가고 싶은 여행객을 위한 공항버스 노선도 운행되고 있습니다.",
+      "getting": "대부분의 여행객은 홍콩국제공항(HKG)을 통해 도착한 뒤, 공항철도(Airport Express)를 타고 홍콩역(Hong Kong Station)까지 약 24분간 이동합니다. 이후 MTR 아일랜드 라인(Island Line)으로 환승하여 몇 분 거리에 있는 완차이역(Wan Chai Station)까지 짧게 이동하면 됩니다. 조금 더 느리더라도 환승 없이 편하게 가고 싶은 여행객을 위한 공항버스 노선도 운행되고 있습니다.",
+      "days": "시장, 하버프론트의 컨벤션 지구, 유흥가 거리 등 완차이의 주요 볼거리를 여유로운 도보 속도로 둘러보려면 약 1~2일 정도를 계획하시면 좋습니다."
+    },
+    "ja": {
+      "blurb": "湾仔は、香港島の中でも独特の存在感を放つエリアだ。ネオンが灯るナイトライフの通り、100年の歴史を持つ湿地市場、そして海沿いに立つ香港会議展覧中心(HKCEC)が、わずか数ブロックの中にぎゅっと詰まっている。昼は屋台の香りと寺院の線香、夜はバー巡りとカラオケで賑わい、歩いて巡るだけでも何層もの魅力に出会える、香港でも指折りの奥深い街だ。",
+      "getting": "多くの旅行者は香港国際空港(HKG)から入り、エアポートエクスプレスで香港站まで約24分。そこでMTR港島線に乗り換え、数分ほどで湾仔站に到着する。時間はかかるものの乗り換えなしで行きたい場合は、湾仔行きの空港バスを利用するのも一つの手だ。",
+      "days": "市場やウォーターフロントの会議展覧エリア、ナイトライフの通りなど、湾仔の主要スポットを無理なく歩いて回るなら、1〜2日ほど見ておくとちょうどいい。"
+    },
+    "es": {
+      "blurb": "Wan Chai es esa mezcla de encanto callejero y neones de la Isla de Hong Kong, donde conviven las calles de vida nocturna, los mercados centenarios y el Centro de Convenciones y Exposiciones de Hong Kong frente al puerto, todo dentro de unas pocas manzanas repletas de vida. De día, el barrio huele a comida callejera y a incienso de templo; de noche, se llena de bares y karaokes, convirtiéndolo en uno de los distritos más ricos en matices para recorrer a pie.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Hong Kong (HKG), tomando el Airport Express hasta la estación de Hong Kong (unos 24 minutos) y luego transbordando a la línea Island del MTR para un breve trayecto (apenas unos minutos) hasta la estación de Wan Chai; también hay autobuses del aeropuerto que llegan directamente al distrito, ideales para quienes prefieren evitar transbordos aunque el viaje sea más lento.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer con calma los principales atractivos de Wan Chai, incluyendo sus mercados, la zona del centro de convenciones junto al puerto y las calles de ambiente nocturno."
+    },
+    "zh": {
+      "blurb": "湾仔是香港岛上一处粗犷与繁华并存的独特街区:霓虹闪烁的夜生活街道、百年历史的传统湿货市场,以及濒临海港的香港会议展览中心,全都集中在几个密集的市区街区之内。白天,这里弥漫着街头小吃的香气与庙宇的香烛味;夜晚,则化身为酒吧巡游与卡拉OK的天堂,是徒步探索时最富层次感的区域之一。",
+      "getting": "大多数旅客会经由香港国际机场(HKG)抵达,先乘坐机场快线到香港站(约24分钟),再换乘港铁港岛线,短短几分钟车程即可到达湾仔站;如果偏好直达但耗时稍长的方式,也可以选择前往湾仔的机场巴士。",
+      "days": "建议预留约1至2天时间,以轻松的步行节奏游览湾仔的主要景点,包括传统市场、临海的会展区域,以及热闹的夜生活街道。"
     }
   }
 }

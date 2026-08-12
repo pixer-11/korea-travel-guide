@@ -1,4 +1,10 @@
 {
+  "Aberdeen": {
+    "ko": "애버딘",
+    "ja": "アバディーン",
+    "es": "Aberdeen",
+    "zh": "香港仔"
+  },
   "Abu Dhabi": {
     "ko": "아부다비",
     "ja": "アブダビ",
@@ -269,11 +275,23 @@
     "es": "Capadocia",
     "zh": "卡帕多西亚"
   },
+  "Causeway Bay": {
+    "ko": "코즈웨이베이",
+    "ja": "コーズウェイベイ",
+    "es": "Causeway Bay",
+    "zh": "铜锣湾"
+  },
   "Cebu": {
     "ko": "세부",
     "ja": "セブ",
     "es": "Cebú",
     "zh": "宿务"
+  },
+  "Central": {
+    "ko": "센트럴",
+    "ja": "セントラル",
+    "es": "Central",
+    "zh": "中环"
   },
   "Chamonix": {
     "ko": "샤모니",
@@ -767,6 +785,12 @@
     "es": "Johor Bahru",
     "zh": "新山"
   },
+  "Jordan": {
+    "ko": "조던",
+    "ja": "ジョーダン",
+    "es": "Jordan",
+    "zh": "佐敦"
+  },
   "Jumeirah": {
     "ko": "주메이라",
     "ja": "ジュメイラ",
@@ -814,6 +838,12 @@
     "ja": "カトン",
     "es": "Katong",
     "zh": "加东"
+  },
+  "Kennedy Town": {
+    "ko": "케네디타운",
+    "ja": "ケネディタウン",
+    "es": "Kennedy Town",
+    "zh": "坚尼地城"
   },
   "Kenting": {
     "ko": "컨딩",
@@ -928,6 +958,12 @@
     "ja": "ランカウイ",
     "es": "Langkawi",
     "zh": "兰卡威"
+  },
+  "Lantau Island": {
+    "ko": "란터우섬",
+    "ja": "ランタオ島",
+    "es": "Isla de Lantau",
+    "zh": "大屿山"
   },
   "Las Vegas": {
     "ko": "라스베이거스",
@@ -1067,6 +1103,12 @@
     "es": "Misano Adriatico",
     "zh": "米萨诺阿德里亚蒂科"
   },
+  "Mong Kok": {
+    "ko": "몽콕",
+    "ja": "モンコック",
+    "es": "Mong Kok",
+    "zh": "旺角"
+  },
   "Mont Saint-Michel": {
     "ko": "몽생미셸",
     "ja": "モン・サン=ミシェル",
@@ -1186,6 +1228,12 @@
     "ja": "ノンタブリー",
     "es": "Nonthaburi",
     "zh": "暖武里"
+  },
+  "North Point": {
+    "ko": "노스포인트",
+    "ja": "ノースポイント",
+    "es": "North Point",
+    "zh": "北角"
   },
   "Nusa Penida": {
     "ko": "누사페니다",
@@ -1385,6 +1433,12 @@
     "es": "Isla Saadiyat",
     "zh": "萨迪亚特岛"
   },
+  "Sai Kung": {
+    "ko": "사이쿵",
+    "ja": "西貢",
+    "es": "Sai Kung",
+    "zh": "西贡"
+  },
   "Saint-Cloud": {
     "ko": "생클루",
     "ja": "サン=クルー",
@@ -1469,6 +1523,12 @@
     "es": "Sevilla",
     "zh": "塞维利亚"
   },
+  "Sha Tin": {
+    "ko": "사틴",
+    "ja": "沙田",
+    "es": "Sha Tin",
+    "zh": "沙田"
+  },
   "Shanghai": {
     "ko": "상하이",
     "ja": "上海",
@@ -1486,6 +1546,12 @@
     "ja": "深圳",
     "es": "Shenzhen",
     "zh": "深圳"
+  },
+  "Sheung Wan": {
+    "ko": "셩완",
+    "ja": "上環",
+    "es": "Sheung Wan",
+    "zh": "上环"
   },
   "Siargao": {
     "ko": "시아르가오",
@@ -1522,6 +1588,12 @@
     "ja": "スペイン",
     "es": "España",
     "zh": "西班牙"
+  },
+  "Stanley": {
+    "ko": "스탠리",
+    "ja": "スタンレー",
+    "es": "Stanley",
+    "zh": "赤柱"
   },
   "Strasbourg": {
     "ko": "스트라스부르",
@@ -1685,6 +1757,12 @@
     "es": "Trebisonda",
     "zh": "特拉布宗"
   },
+  "Tsim Sha Tsui": {
+    "ko": "침사추이",
+    "ja": "尖沙咀",
+    "es": "Tsim Sha Tsui",
+    "zh": "尖沙咀"
+  },
   "Turin": {
     "ko": "토리노",
     "ja": "トリノ",
@@ -1756,6 +1834,12 @@
     "ja": "ビガン",
     "es": "Vigan",
     "zh": "维甘"
+  },
+  "Wan Chai": {
+    "ko": "완차이",
+    "ja": "ワンチャイ",
+    "es": "Wan Chai",
+    "zh": "湾仔"
   },
   "Washington DC": {
     "ko": "워싱턴 D.C.",
