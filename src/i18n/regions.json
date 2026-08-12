@@ -5489,6 +5489,11 @@
       "blurb": "卡什（Kaş）是土耳其绿松石海岸上一座悠闲惬意的港口小镇，建于古吕基亚城市安提菲洛斯（Antiphellos）的遗址之上，四周环绕着岩凿墓穴、希腊化时期的圆形剧场，以及松林覆盖的悬崖峭壁。这里是土耳其最负盛名的潜水和滑翔伞胜地之一，乘船不远即可抵达沉没于水下的凯科瓦（Kekova）遗址，以及希腊的迈斯岛（Meis）。",
       "getting": "卡什本身没有机场，也不通铁路，大多数旅行者会先飞往达拉曼机场（DLM），再驱车约2小时抵达；或飞往安塔利亚机场（AYT），车程约3.5小时，之后再沿海岸公路乘坐班车、大巴或接驳车前往。",
       "days": "建议安排约3-4天，用来漫步老城、参加凯科瓦（Kekova）游船之旅，并体验一次潜水或滑翔伞飞行；如果还想顺道游览萨克利肯特峡谷（Saklikent Gorge）或帕塔拉海滩（Patara Beach），可以再多留一些时间。"
+    },
+    "ja": {
+      "blurb": "カシュは、トルコのターコイズコースト(トゥルコイズ・コースト)に位置する、のんびりとした雰囲気の港町です。古代リュキアの都市アンティフェロスの跡地に築かれ、岩窟墓群やヘレニズム時代の円形劇場、松林に覆われた断崖に囲まれています。国内屈指のダイビング&パラグライダーの拠点として知られ、海に沈んだ遺跡が眠るケコヴァや、ギリシャ領の島メイス(カステロリゾ)にも、船でひと走りで行くことができます。",
+      "getting": "カシュ自体には空港も鉄道もありません。多くの旅行者は、車で約2時間のダラマン空港(DLM)、あるいは約3.5時間のアンタルヤ空港(AYT)を利用し、そこからシャトルバスや路線バス、送迎サービスで海岸沿いのハイウェイを進んでカシュへ向かいます。",
+      "days": "旧市街の散策、ケコヴァ・ボートツアー、ダイビングやパラグライダーを組み込むなら、3~4日ほど見ておくのがおすすめです。サクリケント渓谷やパタラビーチへの日帰り旅行を加えたい場合は、もう少し余裕を持たせるとよいでしょう。"
     }
   },
   "Kenting": {
@@ -5889,6 +5894,229 @@
       "blurb": "张家界以其如梦似幻的石英砂岩峰林闻名于世——这片奇峰林立的地貌正是电影《阿凡达》中悬浮山的灵感来源之一。这些奇峰主要集中在武陵源风景区,该景区已被列入联合国教科文组织世界遗产名录。除了峰林景观,天门山的悬崖索道与玻璃观景台,以及创下多项世界纪录的张家界玻璃桥,也是吸引游客前来的一大亮点。",
       "getting": "大多数游客选择乘飞机抵达张家界荷花国际机场(DYG),该机场有国内航线及部分区域性国际航线;也可以选择乘高铁抵达张家界西站,从长沙、重庆等枢纽城市均有列车直达。无论是从机场还是火车站出发,搭乘当地公交或出租车都可以方便地前往市区,再转往各大景区。",
       "days": "建议安排3-4天,可以从容游览主要景点——花一到两天时间徒步游览武陵源/张家界国家森林公园,再分别安排一天游玩天门山和玻璃桥景区。"
+    }
+  },
+  "Alanya": {
+    "en": {
+      "blurb": "Alanya is a fortress-topped resort town on Turkey's southern Mediterranean coast, its Seljuk-era castle and Red Tower overlooking a peninsula of sandy beaches and busy marina. It has grown from a historic port into one of Turkey's largest package-holiday destinations, blending ancient ruins with a lively, beach-club-driven tourist strip.",
+      "getting": "Most travellers fly into Gazipaşa-Alanya Airport (GZP), roughly 40 km east of town (~45 minutes by shuttle or taxi), though many international charters and scheduled flights instead use the larger Antalya Airport (AYT), about 125-135 km away, from which transfers or buses take ~2-2.5 hours. There is no rail line to Alanya, so onward travel from either airport is by road, via shuttle bus, private transfer, or taxi.",
+      "days": "Plan on ~3-4 days to cover Alanya's core sights, such as Alanya Castle, the harbor, and main beaches, or a week or more if using it as a base for a full coastal beach holiday."
+    },
+    "ja": {
+      "blurb": "アラニヤは、トルコ南部の地中海沿岸に位置する、要塞がそびえるリゾートタウンです。セルジューク朝時代に築かれた城塞とレッド・タワーが、砂浜の広がる半島とにぎやかなマリーナを見下ろすように立っています。歴史ある港町から発展し、今ではトルコ屈指のパッケージ旅行の人気デスティネーションとなり、古代遺跡と活気あるビーチクラブ中心の観光エリアが共存する街になっています。",
+      "getting": "多くの旅行者は、町から東へ約40km(シャトルバスやタクシーで約45分)のガジパシャ・アラニヤ空港(GZP)を利用します。ただし、国際チャーター便や定期便の多くは、約125~135km離れたより大きなアンタルヤ空港(AYT)を利用することが多く、そこからは送迎バスやタクシーで約2~2.5時間かかります。アラニヤへは鉄道が通っていないため、どちらの空港からもシャトルバス、専用送迎、タクシーなどの陸路での移動となります。",
+      "days": "アラニヤ城や港、主要ビーチといった主な見どころを巡るだけなら3~4日ほどで十分ですが、海沿いのリゾートステイの拠点として滞在するなら1週間以上を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Alanya es una localidad turística en la costa mediterránea del sur de Turquía, coronada por una fortaleza. Su castillo de la época selyúcida y la Torre Roja dominan una península de playas de arena y un concurrido puerto deportivo. De ser un antiguo puerto comercial, ha pasado a convertirse en uno de los mayores destinos de vacaciones \"todo incluido\" de Turquía, combinando ruinas milenarias con una animada franja turística repleta de beach clubs.",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Gazipaşa-Alanya (GZP), situado a unos 40 km al este de la ciudad (~45 minutos en shuttle o taxi). Sin embargo, muchos vuelos chárter internacionales y vuelos regulares utilizan en su lugar el aeropuerto de Antalya (AYT), más grande y ubicado a unos 125-135 km, desde donde los traslados o autobuses tardan entre 2 y 2,5 horas. Alanya no cuenta con conexión ferroviaria, por lo que el trayecto desde cualquiera de los dos aeropuertos se realiza por carretera, ya sea en autobús lanzadera, traslado privado o taxi.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer los principales atractivos de Alanya, como el Castillo de Alanya, el puerto y las playas más destacadas, o bien una semana o más si se utiliza como base para unas vacaciones de playa completas en la costa."
+    }
+  },
+  "Amritsar": {
+    "en": {
+      "blurb": "Amritsar is the spiritual heart of Sikhism, built around the luminous Golden Temple (Sri Harmandir Sahib) and its free community kitchen feeding tens of thousands daily. Just outside the city, the nightly flag-lowering ceremony at the Wagah–Attari border adds a dose of theatrical patriotism to a visit steeped in history and Punjabi food culture.",
+      "getting": "Most travellers fly into Sri Guru Ram Dass Jee International Airport (ATQ), about 11km from the city centre, which has direct international links to the Gulf, UK and Southeast Asia as well as frequent domestic flights. Amritsar Junction (station code ASR) sits on the main Delhi–Amritsar rail line, with the journey from Delhi taking roughly 6-8 hours depending on the train.",
+      "days": "~2 days is enough to cover the essentials — the Golden Temple complex (ideally at dawn and after dark), Jallianwala Bagh, the old city bazaars, and an evening trip out to the Wagah Border ceremony."
+    },
+    "ja": {
+      "blurb": "アムリトサルはシク教の精神的な中心地であり、街の象徴である黄金寺院(スリ・ハルマンディル・サーヒブ)を中心に発展してきました。この寺院では毎日何万人もの人々に無料で食事を振る舞う共同食堂(ランガル)が運営されています。市街地の少し外れでは、ワガ・アッタリ国境で毎晩行われる国旗降納式が、歴史とパンジャーブの食文化に彩られた旅にひときわ劇的な愛国心の彩りを添えてくれます。",
+      "getting": "多くの旅行者は、市街地から約11kmに位置するスリ・グル・ラム・ダス・ジー国際空港(ATQ)を利用します。この空港は湾岸諸国、イギリス、東南アジアと直行便で結ばれているほか、国内線も充実しています。また、アムリトサル・ジャンクション駅(駅コードASR)はデリー~アムリトサルを結ぶ幹線上にあり、デリーからは列車の種類にもよりますがおよそ6~8時間で到着します。",
+      "days": "主要な見どころを押さえるなら2日程度で十分です。黄金寺院(できれば夜明けと夜の2回訪れるのがおすすめ)、ジャリヤーンワーラー・バーグ、旧市街のバザール散策、そして夕方にはワガ国境の国旗降納式へ足を延ばすとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Amritsar es el corazón espiritual del sijismo, construida alrededor del luminoso Templo Dorado (Sri Harmandir Sahib) y su comedor comunitario gratuito que alimenta a decenas de miles de personas cada día. Justo a las afueras de la ciudad, la ceremonia nocturna de arriado de banderas en la frontera de Wagah-Attari añade una dosis de patriotismo teatral a una visita cargada de historia y cultura gastronómica punjabí.",
+      "getting": "La mayoría de los viajeros llegan al Aeropuerto Internacional Sri Guru Ram Dass Jee (ATQ), a unos 11 km del centro de la ciudad, que cuenta con conexiones internacionales directas con el Golfo, el Reino Unido y el sudeste asiático, además de vuelos nacionales frecuentes. La estación de Amritsar Junction (código ASR) se encuentra en la línea ferroviaria principal Delhi-Amritsar, con un trayecto desde Delhi de entre 6 y 8 horas aproximadamente, según el tren.",
+      "days": "Con unos 2 días es suficiente para cubrir lo esencial: el complejo del Templo Dorado (idealmente al amanecer y después del anochecer), Jallianwala Bagh, los bazares de la ciudad antigua y una salida al atardecer para presenciar la ceremonia en la frontera de Wagah."
+    },
+    "zh": {
+      "blurb": "阿姆利则是锡克教的精神中心,金光璀璨的金庙(哈曼迪尔·萨希卜圣殿)便坐落于此,其免费社区厨房每天为数万人提供餐食。城外还有瓦格-阿塔里边境的夜间降旗仪式,为这座浸润着历史与旁遮普饮食文化的城市增添了一份充满戏剧张力的爱国氛围。",
+      "getting": "大多数旅客会飞抵距市中心约11公里的斯里古鲁拉姆达斯国际机场(ATQ),该机场有直飞海湾地区、英国和东南亚的国际航班,国内航班也十分频繁。阿姆利则火车站(站点代码ASR)位于德里—阿姆利则铁路干线上,从德里出发,车程约需6至8小时,具体视列车而定。",
+      "days": "大约两天时间便足以游览主要景点——金庙建筑群(最好在黎明和夜幕降临后前往)、贾利安瓦拉园、老城集市,以及傍晚前往瓦格边境观看降旗仪式。"
+    }
+  },
+  "Austin": {
+    "en": {
+      "blurb": "Austin blends laid-back Texas Hill Country charm with a fast-growing tech scene, earning its nickname as the \"Live Music Capital of the World\" thanks to hundreds of venues and events like SXSW and Austin City Limits. Add in legendary barbecue, food trucks, and swimming holes like Barton Springs, and the city has a distinct outdoorsy, creative energy unlike anywhere else in Texas.",
+      "getting": "Most travelers arrive via Austin-Bergstrom International Airport (AUS), located a few miles southeast of downtown, with CapMetro public buses and rideshares/taxis offering reliable routes into the city center in roughly 20-30 minutes depending on traffic. There is no direct rail link between the airport and downtown, so buses or road transport remain the standard access route.",
+      "days": "Plan on ~3-4 days to cover downtown, South Congress, and the live music and food scene, with an extra day if you want to add nearby Hill Country day trips."
+    },
+    "ko": {
+      "blurb": "오스틴은 여유로운 텍사스 힐 카운트리(Hill Country)의 매력과 빠르게 성장하는 IT 산업이 공존하는 도시입니다. 수백 개의 공연장과 SXSW, 오스틴 시티 리미츠(Austin City Limits) 같은 축제 덕분에 \"세계 라이브 음악의 수도\"라는 별명까지 얻었죠. 여기에 전설적인 바비큐, 다채로운 푸드트럭, 그리고 바턴 스프링스(Barton Springs) 같은 천연 수영터까지 더해져, 텍사스 어디에서도 찾아볼 수 없는 독특하고 창의적인 아웃도어 감성이 살아 있는 도시입니다.",
+      "getting": "대부분의 여행자는 오스틴 버그스트롬 국제공항(AUS)을 통해 도착합니다. 이 공항은 다운타운에서 남동쪽으로 몇 마일 떨어진 곳에 위치해 있으며, CapMetro 시내버스나 라이드셰어/택시를 이용하면 교통 상황에 따라 약 20~30분 만에 시내로 이동할 수 있습니다. 공항과 다운타운을 직접 연결하는 철도는 없기 때문에, 버스나 차량 이동이 일반적인 이동 수단입니다.",
+      "days": "다운타운, 사우스 콩그레스(South Congress), 그리고 라이브 음악과 먹거리를 제대로 즐기려면 약 3~4일 정도를 계획하시고, 근처 힐 카운트리로 당일치기 여행까지 다녀오고 싶다면 하루를 더 추가하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "オースティンは、のんびりとしたテキサス・ヒルカントリーの魅力と急成長を続けるテック業界の勢いが融合した街です。SXSWやオースティン・シティ・リミッツをはじめ数百もの会場やイベントが催され、「世界のライブミュージック首都」の異名を誇ります。伝説的なバーベキュー、フードトラック、バートン・スプリングスのような天然の水遊びスポットも相まって、テキサス州のどことも違う、アウトドア志向でクリエイティブなエネルギーに満ちた街となっています。",
+      "getting": "多くの旅行者は、ダウンタウンから南東に数マイルの場所にあるオースティン・バーグストロム国際空港(AUS)を利用します。CapMetroの公共バスやライドシェア・タクシーが市中心部への安定した移動手段となっており、交通状況により所要時間は約20〜30分です。空港とダウンタウンを結ぶ直通の鉄道はないため、バスや道路交通が標準的なアクセス手段となっています。",
+      "days": "ダウンタウン、サウス・コングレス、そしてライブミュージックとグルメシーンを満喫するには、3〜4日程度を予定しておくとよいでしょう。近郊のヒルカントリーへの日帰り旅行を加えたい場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Austin combina el encanto relajado del Hill Country de Texas con una escena tecnológica en pleno auge, lo que le ha ganado el apodo de \"Capital Mundial de la Música en Vivo\" gracias a cientos de locales y eventos como SXSW y Austin City Limits. Sumado a esto, su legendaria barbacoa, los food trucks y sitios para nadar como Barton Springs le dan a la ciudad una energía creativa y muy ligada a la naturaleza, distinta a cualquier otro lugar de Texas.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional Austin-Bergstrom (AUS), ubicado a pocos kilómetros al sureste del centro. Los autobuses públicos de CapMetro, junto con taxis y servicios de transporte privado, ofrecen rutas confiables hacia el centro de la ciudad en aproximadamente 20 a 30 minutos, según el tráfico. No existe una conexión ferroviaria directa entre el aeropuerto y el centro, por lo que los autobuses o el transporte por carretera siguen siendo la forma habitual de llegar.",
+      "days": "Se recomienda destinar entre 3 y 4 días para recorrer el centro, South Congress y disfrutar de la música en vivo y la gastronomía local, y sumar un día adicional si se desea hacer excursiones cercanas por el Hill Country."
+    },
+    "zh": {
+      "blurb": "奥斯汀将德州丘陵地带那种悠然自得的魅力,与蓬勃发展的科技产业完美融合。凭借数百个演出场所以及SXSW、Austin City Limits等知名音乐节,这里赢得了\"世界live音乐之都\"的美誉。再加上传承已久的烤肉、随处可见的美食货车,以及巴顿泉(Barton Springs)这样的天然泳池,奥斯汀散发出一种独特的户外气息与创意活力,在德州乃至全美都独树一帜。",
+      "getting": "大多数游客通过奥斯汀-伯格斯特罗姆国际机场(AUS)抵达,该机场位于市中心东南方向仅几英里处。乘坐CapMetro公共巴士,或叫网约车/出租车前往市中心,车程通常在20-30分钟左右,具体视路况而定。机场与市中心之间目前尚无直达轻轨或地铁线路,因此巴士与陆路交通仍是往返机场的主要方式。",
+      "days": "建议安排约3-4天时间,游览市中心、南国会街(South Congress),并体验当地的live音乐与美食文化;如果还想前往附近的丘陵地带(Hill Country)进行一日游,不妨多留一天。"
+    }
+  },
+  "Cordoba": {
+    "en": {
+      "blurb": "Córdoba is a former Roman and Moorish capital whose Mezquita — a vast mosque-cathedral of striped double arches — anchors a UNESCO-listed old town of whitewashed patios and narrow lanes. Once the largest city in Western Europe under Islamic rule, it packs an outsized concentration of history into a compact, walkable core beside the Guadalquivir River.",
+      "getting": "Córdoba has no significant commercial airport of its own, so most travelers arrive by AVE high-speed train into Córdoba's central railway station, which sits on the Madrid–Seville line opened in 1992. Typical routes include AVE trains from Madrid (~1h40), Seville (~45min–1h), or Málaga (~1h), with those cities' airports (Madrid–Barajas, Seville, or Málaga) serving as the nearest air gateways.",
+      "days": "Plan on ~1-2 days, enough to explore the Mezquita-Cathedral, the Jewish Quarter (Judería), and the Alcázar, with a bit more time if adding a day trip to Medina Azahara."
+    },
+    "ko": {
+      "blurb": "코르도바는 고대 로마와 무어인의 수도였던 도시로, 줄무늬 모양의 이중 아치가 인상적인 거대한 모스크-대성당 메스키타를 중심으로 하얗게 칠해진 파티오와 좁은 골목길이 이어지는 유네스코 지정 구시가지가 펼쳐져 있습니다. 한때 이슬람 통치 아래 서유럽 최대의 도시였던 코르도바는 과달키비르강 옆에 자리한 걸어서 다닐 수 있는 작지만 알찬 구역 안에 엄청난 역사를 담고 있습니다.",
+      "getting": "코르도바에는 자체적인 상업 공항이 없기 때문에, 대부분의 여행객은 AVE 고속열차를 타고 1992년에 개통된 마드리드-세비야 노선에 위치한 코르도바 중앙역으로 도착합니다. 대표적인 경로로는 마드리드(약 1시간 40분), 세비야(약 45분~1시간), 말라가(약 1시간)에서 출발하는 AVE 열차가 있으며, 이 도시들의 공항(마드리드-바라하스, 세비야, 말라가)이 가장 가까운 항공 관문 역할을 합니다.",
+      "days": "메스키타-대성당, 유대인 구역(후데리아), 알카사르를 둘러보는 데 1~2일 정도면 충분하며, 메디나 아사하라로의 당일치기 여행을 추가한다면 시간을 조금 더 넉넉히 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "コルダバは、かつてローマとムーア人の都であった街。市のシンボルであるメスキータは、赤白の縞模様のアーチが幾重にも連なる壮大なモスク兼大聖堂で、白壁の中庭と細い路地が入り組むユネスコ世界遺産の旧市街の中心に位置しています。イスラム支配下では西ヨーロッパ最大の都市として栄えた歴史を持ち、グアダルキビル川沿いのコンパクトで歩きやすい旧市街に、その豊かな歴史が凝縮されています。",
+      "getting": "コルダバには大きな商業空港がないため、多くの旅行者はAVE高速鉄道でコルドバ中央駅に到着します。この駅は1992年に開通したマドリード〜セビリア線上にあり、マドリードから約1時間40分、セビリアから約45分〜1時間、マラガから約1時間で結ばれています。最寄りの空の玄関口は、それぞれの都市にあるマドリード・バラハス空港、セビリア空港、マラガ空港となります。",
+      "days": "メスキータ・大聖堂、ユダヤ人街(フデリア)、アルカサルを巡るには1〜2日あれば十分です。メディナ・アサーラへの日帰り旅行を加える場合は、もう少し日程に余裕を持たせるとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Córdoba, antigua capital romana y musulmana, tiene en su Mezquita —una vasta mezquita-catedral de arcos dobles a rayas— el corazón de un casco antiguo declarado Patrimonio de la Humanidad por la UNESCO, lleno de patios encalados y callejuelas estrechas. Fue en su día la ciudad más grande de la Europa occidental bajo dominio islámico, y hoy concentra una cantidad extraordinaria de historia en un núcleo urbano compacto y fácil de recorrer a pie junto al río Guadalquivir.",
+      "getting": "Córdoba no cuenta con un aeropuerto comercial propio de importancia, por lo que la mayoría de los viajeros llegan en tren de alta velocidad AVE hasta la estación central de Córdoba, situada en la línea Madrid-Sevilla inaugurada en 1992. Las rutas más habituales incluyen trenes AVE desde Madrid (aprox. 1h 40min), Sevilla (aprox. 45 min-1h) o Málaga (aprox. 1h), utilizando los aeropuertos de esas ciudades (Madrid-Barajas, Sevilla o Málaga) como las puertas de entrada aéreas más cercanas.",
+      "days": "Se recomienda dedicar entre 1 y 2 días, tiempo suficiente para recorrer la Mezquita-Catedral, la Judería y el Alcázar, y algo más si se añade una excursión de un día a Medina Azahara."
+    },
+    "zh": {
+      "blurb": "科尔多瓦曾先后是罗马和摩尔人统治时期的首府，城内的梅斯基塔清真寺大教堂以层层相叠的双层马蹄形拱门闻名，是这座被列入联合国教科文组织世界遗产名录的老城核心地标，周围遍布白墙庭院与蜿蜒小巷。作为伊斯兰统治时期西欧最大的城市，科尔多瓦在瓜达尔基维尔河畔一片紧凑而适合步行的老城区里，浓缩了极为丰厚的历史底蕴。",
+      "getting": "科尔多瓦本地没有大型商业机场，大多数旅客选择乘坐西班牙高铁AVE抵达科尔多瓦火车站，该站位于1992年开通的马德里—塞维利亚高铁线上。常见路线包括从马德里出发（约1小时40分钟）、塞维利亚出发（约45分钟至1小时），或马拉加出发（约1小时），这几座城市的机场（马德里巴拉哈斯机场、塞维利亚机场或马拉加机场）也是前往科尔多瓦最近的空中门户。",
+      "days": "建议安排1-2天时间，足以游览梅斯基塔清真寺大教堂、犹太区（Judería）以及阿尔卡萨城堡；如果还想安排前往麦地那阿萨哈拉古城（Medina Azahara）的一日游，可适当多留些时间。"
+    }
+  },
+  "Dumaguete": {
+    "en": {
+      "blurb": "Dumaguete is a laid-back university city on the southeastern coast of Negros Island, anchored by the palm-lined Rizal Boulevard and the century-old campus of Silliman University. Known as the \"City of Gentle People,\" it doubles as a springboard to Apo Island's turtle-filled reefs and the ferry-linked island of Siquijor just offshore.",
+      "getting": "Most travellers fly into Sibulan Airport (DGT), a small domestic airport ~3km north of the city with direct routes to Manila and Cebu; Dumaguete is also reachable by sea via fastcraft ferries from Cebu City (~4-5 hours, typically via a Tagbilaran stopover) that dock right near the city center.",
+      "days": "Plan on ~3 days to cover the city itself, a day trip to Apo Island for snorkeling, and either a jaunt to the Valencia waterfalls/Twin Lakes or a short hop over to Siquijor."
+    },
+    "ko": {
+      "blurb": "두마게티는 네그로스 섬 남동쪽 해안에 자리한 여유로운 대학 도시로, 야자수가 늘어선 리잘 대로(Rizal Boulevard)와 100년 역사를 지닌 실리만 대학교(Silliman University) 캠퍼스를 중심으로 형성되어 있다. \"온화한 사람들의 도시\"로 불리는 이곳은 거북이가 서식하는 아포 섬(Apo Island)의 산호초와 페리로 이어지는 인근의 시키호르 섬(Siquijor)으로 향하는 관문 역할도 한다.",
+      "getting": "대부분의 여행객은 시내에서 북쪽으로 약 3km 떨어진 작은 국내선 공항인 시불란 공항(DGT)을 이용하며, 마닐라와 세부로 직항 노선이 운행된다. 두마게티는 세부시티(Cebu City)에서 출발하는 패스트크래프트 페리로도 갈 수 있는데, 보통 타그빌라란(Tagbilaran)을 경유해 4~5시간 정도 걸리며 시내 중심부 바로 근처에 도착한다.",
+      "days": "도시 자체를 둘러보는 데 약 3일 정도 계획하고, 스노클링을 위한 아포 섬(Apo Island) 당일치기 여행과 발렌시아 폭포·트윈 레이크(Twin Lakes) 나들이 또는 시키호르 섬(Siquijor)으로의 짧은 여행 중 하나를 추가하면 좋다."
+    },
+    "ja": {
+      "blurb": "ドゥマゲッティは、ネグロス島南東岸に位置するのんびりとした大学都市。ヤシの木が並ぶリサール・ブールバードと、100年の歴史を誇るシリマン大学のキャンパスがその中心を成しています。「優しい人々の街」として知られる一方で、ウミガメが泳ぐアポ島のサンゴ礁や、フェリーで渡れる沖合のシキホール島への玄関口としても人気です。",
+      "getting": "多くの旅行者は、市街地の北およそ3kmに位置する小さな国内線専用のシブラン空港(DGT)を利用します。マニラやセブへの直行便があります。また、セブ市からは高速フェリー(所要時間約4~5時間、通常はタグビララン経由)で海路アクセスすることも可能で、市街中心部のすぐ近くに到着します。",
+      "days": "市内観光には約3日ほど見ておくとよいでしょう。加えて、シュノーケリングを楽しめるアポ島への日帰り旅行、そしてバレンシアの滝やツイン・レイクスへの小旅行、あるいはシキホール島へのちょっとした足延ばしのいずれかを組み合わせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Dumaguete es una tranquila ciudad universitaria en la costa sureste de la isla de Negros, con el bulevar Rizal —bordeado de palmeras— y el centenario campus de la Universidad de Silliman como sus grandes referentes. Conocida como la \"Ciudad de la Gente Amable\", también funciona como punto de partida hacia los arrecifes repletos de tortugas de la isla de Apo y hacia la cercana isla de Siquijor, a la que se llega en ferry.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Sibulan (DGT), un pequeño aeropuerto doméstico ubicado a unos 3 km al norte de la ciudad, con vuelos directos a Manila y Cebú. Dumaguete también se puede alcanzar por mar en ferries rápidos desde la ciudad de Cebú (unas 4-5 horas, generalmente con escala en Tagbilaran), que atracan muy cerca del centro de la ciudad.",
+      "days": "Se recomienda destinar unos 3 días para recorrer la ciudad, sumar una excursión de un día a la isla de Apo para hacer esnórquel, y además elegir entre una escapada a las cascadas de Valencia y los Lagos Gemelos, o un corto salto hasta Siquijor."
+    },
+    "zh": {
+      "blurb": "杜马格特是内格罗斯岛东南海岸一座悠闲的大学城,以椰林夹道的黎刹大道和百年历史的西利曼大学校园为标志性亮点。这座城市素有\"温柔之城\"的美誉,同时也是前往阿波岛(满是海龟的珊瑚礁)以及乘渡轮可达的近海锡基霍尔岛的绝佳门户。",
+      "getting": "大多数游客会飞抵西布兰机场(DGT),这是一座位于市区以北约3公里的小型国内机场,有直飞马尼拉和宿务的航班;此外,也可以乘坐快船从宿务市(约4-5小时,通常需在他加拉逢中转)抵达杜马格特,渡轮码头就在市中心附近。",
+      "days": "建议安排约3天时间:一天游览市区本身,一天前往阿波岛浮潜,再花一天到瓦伦西亚瀑布/双子湖游玩,或是短途跳岛前往锡基霍尔岛。"
+    }
+  },
+  "Genoa": {
+    "en": {
+      "blurb": "Genoa is a dense, vertical port city where pastel palazzi and one of Europe's largest medieval old towns tumble down to a working harbor still shaped by its history as a maritime republic. Narrow caruggi alleys open onto grand Renaissance streets and a bustling waterfront, giving the birthplace of Christopher Columbus a gritty, lived-in character quite different from Italy's more polished tourist hubs.",
+      "getting": "Most travellers fly into Genoa Cristoforo Colombo Airport (GOA), then take the Volabus shuttle service (~25-30 minutes) into the centre, stopping at the Principe and Brignole railway stations; a rail connection via the nearby Sestri Ponente Aeroporto station is also possible for onward train travel. Genoa's two main stations, Principe and Brignole, also make it an easy rail stop for those arriving from other Italian or French cities along the coast.",
+      "days": "Plan on ~2-3 days to explore the old town, port, and a few key sights, with extra time useful for day trips along the Ligurian coast."
+    },
+    "ko": {
+      "blurb": "제노바는 밀집된 수직형 항구 도시로, 파스텔톤 궁전들과 유럽에서 가장 큰 중세 구시가지 중 하나가 비탈을 따라 내려와 여전히 해양 공화국이었던 역사의 흔적이 뚜렷한 활기찬 항구로 이어진다. 좁은 카루기(caruggi) 골목길들은 르네상스풍의 웅장한 거리와 북적이는 워터프론트로 이어지며, 크리스토포로 콜롬보의 고향인 이 도시에 이탈리아의 여느 세련된 관광 도시들과는 사뭇 다른, 투박하면서도 생활감 넘치는 매력을 더해준다.\",\"getting\":\"\",\"days\":\"\"",
+      "getting": "대부분의 여행객은 제노바 크리스토포로 콜롬보 공항(GOA)으로 입국한 뒤, 볼라부스(Volabus) 셔틀버스(약 25~30분)를 타고 시내로 이동하며, 이 버스는 프린치페(Principe)역과 브리뇰레(Brignole)역에 정차한다. 인근의 세스트리 포넨테 아에로포르토(Sestri Ponente Aeroporto)역을 이용한 기차 연결도 가능해, 이후 다른 도시로의 기차 여행을 계획할 수 있다. 제노바의 두 주요 기차역인 프린치페역과 브리뇰레역 덕분에, 이탈리아나 프랑스의 다른 해안 도시에서 오는 여행객들도 쉽게 기차로 들를 수 있는 도시다.",
+      "days": "구시가지, 항구, 그리고 몇몇 주요 명소를 둘러보는 데는 약 2~3일 정도를 계획하면 좋으며, 리구리아 해안을 따라 당일치기 여행을 즐기고 싶다면 여유 시간을 좀 더 두는 것이 유용하다."
+    },
+    "ja": {
+      "blurb": "ジェノヴァは、密集した垂直都市とも言うべき港町だ。パステルカラーの宮殿群とヨーロッパ最大級の中世旧市街が、海洋共和国としての歴史を今なお色濃く残す現役の港へと坂を這うように広がっている。細く入り組んだ路地「カルッジ」を抜けると、ルネサンス様式の壮麗な大通りや活気ある波止場に出る。コロンブス生誕の地であるこの街には、イタリアの洗練された観光都市とは一線を画す、荒削りで生活感あふれる魅力がある。",
+      "getting": "多くの旅行者はジェノヴァ・クリストフォロ・コロンボ空港(GOA)を利用し、そこからヴォラバス(Volabus)のシャトルバス(所要約25~30分)で市街地へ向かう。バスはプリンチペ駅とブリニョーレ駅に停車する。近隣のセストリ・ポネンテ空港駅(Sestri Ponente Aeroporto)経由で鉄道を利用し、そのまま別の都市へ乗り継ぐことも可能だ。ジェノヴァの二大駅であるプリンチペ駅とブリニョーレ駅は、沿岸のイタリアやフランスの都市から鉄道で訪れる旅行者にとっても便利な拠点となっている。",
+      "days": "旧市街や港、主要な見どころを巡るには2~3日ほど見ておくとよい。リグーリア海岸沿いへの日帰り旅行を楽しむなら、さらに日数を追加するのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Génova es una ciudad portuaria densa y vertical, donde palacetes de tonos pastel y uno de los cascos históricos medievales más grandes de Europa descienden en cascada hacia un puerto activo, aún marcado por su historia como república marítima. Los estrechos callejones conocidos como caruggi desembocan en amplias calles renacentistas y en un bullicioso frente marítimo, dotando a la ciudad natal de Cristóbal Colón de un carácter auténtico y curtido, muy distinto al de los destinos turísticos más pulidos de Italia.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Génova Cristoforo Colombo (GOA) y luego toma el servicio de autobús Volabus (unos 25-30 minutos) hasta el centro, con paradas en las estaciones de tren de Principe y Brignole; también es posible conectar por tren desde la cercana estación de Sestri Ponente Aeropuerto para continuar el viaje en ferrocarril. Las dos estaciones principales de Génova, Principe y Brignole, la convierten además en una parada de tren muy conveniente para quienes llegan desde otras ciudades de Italia o Francia a lo largo de la costa.",
+      "days": "Se recomienda planear entre 2 y 3 días para explorar el casco antiguo, el puerto y algunos de los principales atractivos, con tiempo adicional recomendable para hacer excursiones de un día por la costa de Liguria."
+    },
+    "zh": {
+      "blurb": "热那亚是一座密集而立体的港口城市,色彩斑斓的宫殿群与欧洲最大的中世纪老城区之一层层叠叠地向下延伸,直抵一座至今仍带着海洋共和国历史印记的繁忙港口。狭窄的caruggi巷弄不经意间就通向宏伟的文艺复兴时期街道和热闹的滨海区,这座克里斯托弗·哥伦布的出生地,由此透出一种粗犷、烟火气十足的气质,与意大利那些更为精致光鲜的旅游胜地大不相同。",
+      "getting": "大多数旅客会飞抵热那亚克里斯托弗·哥伦布机场(GOA),再搭乘Volabus机场巴士(约25-30分钟)前往市中心,途经Principe和Brignole两座火车站;也可以通过附近的Sestri Ponente Aeroporto车站转乘火车,便于继续乘火车前往其他目的地。热那亚的两座主要火车站——Principe站和Brignole站——同样让这座城市成为沿海岸线往来意大利或法国其他城市旅客的便捷中转站。",
+      "days": "建议安排约2-3天时间,探索老城区、港口以及几个重要景点,如果还想沿利古里亚海岸线安排一日游,则最好再多留些时间。"
+    }
+  },
+  "Jumeirah": {
+    "en": {
+      "blurb": "Jumeirah is Dubai's iconic beachfront district, a sun-bleached stretch of Arabian Gulf coastline lined with luxury resorts, the sail-shaped Burj Al Arab, and the striking white domes of Jumeirah Mosque. It blends postcard beaches and manicured promenades with a slower, more residential pace than the downtown skyscraper core, making it a byword for Dubai's beach-resort glamour.",
+      "getting": "Most travellers fly into Dubai International Airport (DXB), the emirate's main gateway, then continue to Jumeirah by taxi or private transfer (~20–30 minutes depending on traffic and exact location). Public transport options exist via the Dubai Metro Red Line and the Dubai Tram (which runs along Jumeirah Beach Residence and Al Sufouh), but these require a bus or taxi connection for the final stretch into Jumeirah itself.",
+      "days": "Plan on ~2-3 days to enjoy Jumeirah's beaches, landmark architecture, and waterfront dining without rushing."
+    },
+    "ja": {
+      "blurb": "ジュメイラは、ドバイを象徴するビーチフロント地区。太陽に照らされたアラビア湾沿いの海岸線には高級リゾートが立ち並び、帆の形をしたバージ・アル・アラブや、ジュメイラ・モスクの真っ白なドームが印象的な景観をつくっています。絵はがきのようなビーチと美しく整備されたプロムナードを備えながら、ダウンタウンの高層ビル群が並ぶエリアよりものんびりとした住宅地らしい雰囲気が漂い、ドバイらしいビーチリゾートの華やかさを象徴するエリアとなっています。",
+      "getting": "多くの旅行者は、ドバイの主要な玄関口であるドバイ国際空港(DXB)に到着し、そこからタクシーまたはプライベート送迎でジュメイラへ向かいます(交通状況や目的地により約20〜30分)。ドバイメトロのレッドラインや、ジュメイラ・ビーチ・レジデンスとアル・スフーを結ぶドバイトラムといった公共交通機関もありますが、ジュメイラ中心部まではバスやタクシーへの乗り継ぎが必要です。",
+      "days": "ビーチや象徴的な建築、ウォーターフロントのレストランをゆったり楽しむなら、2〜3日程度の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Jumeirah es el emblemático distrito costero de Dubái, un tramo de litoral dorado frente al golfo Arábigo bordeado de resorts de lujo, el imponente Burj Al Arab con su silueta de vela, y las llamativas cúpulas blancas de la Mezquita de Jumeirah. Combina playas de postal y paseos marítimos cuidados al detalle con un ritmo más pausado y residencial que el del centro repleto de rascacielos, lo que ha convertido a la zona en sinónimo del glamour playero de Dubái.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Dubái (DXB), la principal puerta de entrada del emirato, y desde allí continúa hasta Jumeirah en taxi o traslado privado (unos 20-30 minutos, según el tráfico y la ubicación exacta). También existen opciones de transporte público a través de la Línea Roja del Metro de Dubái y el Tranvía de Dubái (que recorre Jumeirah Beach Residence y Al Sufouh), aunque para llegar al corazón de Jumeirah es necesario combinarlos con autobús o taxi en el tramo final.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para disfrutar sin prisas de las playas de Jumeirah, su arquitectura emblemática y su oferta gastronómica frente al mar."
+    },
+    "zh": {
+      "blurb": "朱美拉（Jumeirah）是迪拜标志性的海滨地区，阳光洒满的阿拉伯湾海岸线上，豪华度假酒店鳞次栉比，帆船造型的阿拉伯塔（Burj Al Arab）与朱美拉清真寺（Jumeirah Mosque）醒目的白色圆顶相映成趣。这里既有明信片般的海滩和修剪整齐的滨海步道，又保留着比市中心摩天大楼云集之处更为悠闲的居住区氛围，堪称迪拜海滨度假奢华风情的代名词。",
+      "getting": "大多数游客会先飞抵迪拜国际机场（DXB），这是该酋长国的主要空中门户，再乘坐出租车或专车前往朱美拉，车程约20–30分钟，具体视交通状况和目的地而定。公共交通方面，可选择迪拜地铁红线（Dubai Metro Red Line）或迪拜有轨电车（Dubai Tram，沿朱美拉海滩住宅区Jumeirah Beach Residence及Al Sufouh一线运行），但最后一段前往朱美拉的路程仍需换乘巴士或出租车。",
+      "days": "建议安排约2至3天时间，从容游览朱美拉的海滩风光、地标建筑，并悠闲享用海滨美食，无需匆忙赶行程。"
+    }
+  },
+  "Malang": {
+    "en": {
+      "blurb": "Malang is East Java's cool-climate highland city, prized for its Dutch colonial-era streets, flower-lined boulevards, and status as a laid-back university town in the shadow of active volcanoes. It also serves as the classic overland gateway for trips to Mount Bromo and the Tengger highlands.",
+      "getting": "Malang's own airport, Abdul Rachman Saleh (MLG), has only very limited scheduled service, so most travellers fly into Surabaya's Juanda Airport (SUB) and continue overland; the reliable onward route is the direct train from Surabaya Gubeng to Malang Station, taking roughly ~2 hours, with regional buses as an alternative.",
+      "days": "Plan on ~3-4 days to cover Malang's colonial old town and cafes with a side trip to the Bromo-Tengger highlands."
+    },
+    "ko": {
+      "blurb": "말랑은 동부 자바의 서늘한 고지대 도시로, 네덜란드 식민지 시대의 거리와 꽃이 늘어선 대로, 그리고 활화산을 배경으로 한 여유로운 대학 도시라는 매력으로 사랑받는 곳이다. 또한 브로모산과 텡거 고원 여행의 전통적인 육로 관문 역할도 하고 있다.",
+      "getting": "말랑에도 자체 공항인 압둘 라흐만 살레 공항(MLG)이 있지만 정기 운항 노선이 매우 제한적이어서, 대부분의 여행자는 수라바야의 주안다 공항(SUB)으로 입국한 뒤 육로로 이동한다. 가장 확실한 이동 방법은 수라바야 구벵역에서 말랑역까지 직행 기차를 타는 것으로, 약 2시간 정도 걸리며, 대안으로 지역 버스도 이용할 수 있다.",
+      "days": "말랑의 식민지풍 구시가지와 카페들을 둘러보고 브로모-텡거 고원으로 다녀오는 여행까지 포함하면 약 3~4일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "マラン(Malang)は東ジャワの涼しい高原都市で、オランダ植民地時代の面影を残す街並みや花々が並ぶ大通り、活火山を望むのんびりとした大学町としての魅力で知られています。また、ブロモ山(Mount Bromo)とテンゲル(Tengger)高原へ陸路で向かう際の定番の玄関口としても機能しています。",
+      "getting": "マラン自体にもアブドゥル・ラフマン・サレ空港(MLG)がありますが、定期便は非常に限られているため、多くの旅行者はスラバヤのジュアンダ空港(SUB)を利用し、そこから陸路で移動します。定番のアクセス方法は、スラバヤ・グベン駅からマラン駅までの直通列車で、所要時間は約2時間ほど。長距離バスも選択肢の一つです。",
+      "days": "マランの植民地時代の旧市街やカフェ巡りに加え、ブロモ・テンゲル高原への小旅行も含めると、3〜4日程度を目安にするとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Malang es la ciudad de clima fresco en las tierras altas de Java Oriental, apreciada por sus calles de la época colonial holandesa, sus bulevares bordeados de flores y su ambiente relajado de ciudad universitaria a la sombra de volcanes activos. También funciona como la clásica puerta de entrada terrestre para las excursiones al monte Bromo y las tierras altas de Tengger.",
+      "getting": "El aeropuerto propio de Malang, Abdul Rachman Saleh (MLG), cuenta con muy pocos vuelos regulares, por lo que la mayoría de los viajeros llegan al aeropuerto Juanda de Surabaya (SUB) y continúan por tierra; la ruta más fiable es el tren directo desde Surabaya Gubeng hasta la estación de Malang, que tarda aproximadamente ~2 horas, aunque también existen autobuses regionales como alternativa.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para recorrer el casco antiguo colonial y los cafés de Malang, con una excursión adicional a las tierras altas de Bromo-Tengger."
+    },
+    "zh": {
+      "blurb": "玛琅是东爪哇一座气候凉爽的高原城市,以荷兰殖民时期风情街道、绿树繁花的林荫大道著称,同时也是一座悠闲惬意的大学城,坐落在活火山的阴影之下。此外,它还是前往布罗莫火山(Mount Bromo)和腾格尔高地(Tengger)陆路旅行的经典门户。",
+      "getting": "玛琅自有的机场——阿卜杜勒·拉赫曼·萨利赫机场(MLG)仅有非常有限的定期航班,因此大多数旅客会选择飞往泗水(Surabaya)的朱安达机场(SUB),再经陆路前往。较为稳妥的后续路线是搭乘从泗水古本(Surabaya Gubeng)站直达玛琅站(Malang Station)的火车,车程约2小时;也可选择乘坐区域巴士作为替代方案。",
+      "days": "建议安排约3-4天时间,游览玛琅的殖民风情老城区和各式咖啡馆,并可安排一日前往布罗莫-腾格尔高地(Bromo-Tengger)一游。"
+    }
+  },
+  "Sanya": {
+    "en": {
+      "blurb": "Sanya is China's southernmost tropical resort city, known for its palm-fringed beaches, coral reefs, and warm, humid climate year-round on Hainan Island. It has become the country's premier domestic beach getaway, blending luxury resorts with duty-free shopping and jungle-clad hills just inland.",
+      "getting": "Most travelers fly into Sanya Phoenix International Airport (SYX), which sits a few kilometers from downtown and connects to major Chinese cities. Sanya is also the southern terminus of Hainan's high-speed rail loop, with frequent bullet trains linking it to Haikou and other points on the island.",
+      "days": "Plan on ~3-5 days to cover Sanya's main beaches, a couple of the surrounding scenic areas, and some downtown/duty-free time without rushing."
+    },
+    "ko": {
+      "blurb": "싼야(三亚)는 중국 최남단에 위치한 열대 휴양 도시로, 하이난섬 특유의 일 년 내내 따뜻하고 습한 기후 속에서 야자수가 늘어선 해변과 산호초로 유명합니다. 럭셔리 리조트와 면세 쇼핑, 그리고 내륙으로 조금만 들어가면 만날 수 있는 정글 같은 언덕이 어우러지며, 오늘날 중국인들이 가장 사랑하는 국내 해변 휴양지로 자리 잡았습니다.",
+      "getting": "대부분의 여행객은 시내에서 몇 킬로미터 떨어진 싼야 펑황 국제공항(SYX)을 이용하며, 이곳은 중국 주요 도시들과 노선으로 연결되어 있습니다. 싼야는 또한 하이난 고속철도 순환선의 남쪽 종점이기도 해서, 하이커우를 비롯한 섬 곳곳으로 향하는 고속열차가 수시로 운행됩니다.",
+      "days": "싼야의 주요 해변과 주변 관광지 몇 곳, 그리고 시내 면세 쇼핑까지 여유롭게 둘러보려면 3~5일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "三亜(サンヤ)は中国最南端に位置するトロピカルリゾート都市で、海南島にあり、一年を通して温暖で湿度の高い気候と、ヤシの木が並ぶビーチ、美しいサンゴ礁で知られています。近年は中国国内で人気No.1のビーチリゾートとして急成長を遂げ、高級リゾートホテルや免税ショッピングが充実する一方、少し内陸に足を延ばせば緑豊かな山々のジャングルも楽しめる、多彩な魅力を併せ持つ街です。",
+      "getting": "多くの旅行者は三亜鳳凰国際空港(SYX)を利用します。市街地から数キロという近さで、中国国内の主要都市と直結しています。また、三亜は海南島を一周する高速鉄道網の南の終着点でもあり、海口(ハイコウ)をはじめ島内各地との間を高速列車が頻繁に往来しています。",
+      "days": "三亜の主要ビーチをはじめ、周辺の見どころをいくつか回り、市内観光や免税ショッピングも余裕を持って楽しみたいなら、3~5日程度を目安にするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Sanya es la ciudad turística tropical más meridional de China, famosa por sus playas bordeadas de palmeras, sus arrecifes de coral y su clima cálido y húmedo durante todo el año en la isla de Hainan. Se ha convertido en el destino de playa favorito del país a nivel nacional, combinando resorts de lujo con compras libres de impuestos y colinas cubiertas de selva a poca distancia tierra adentro.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional Sanya Phoenix (SYX), ubicado a pocos kilómetros del centro de la ciudad y con conexiones a las principales ciudades chinas. Sanya es también la terminal sur del circuito de trenes de alta velocidad de Hainan, con trenes bala frecuentes que la conectan con Haikou y otros puntos de la isla.",
+      "days": "Se recomienda dedicar entre 3 y 5 días para recorrer sin prisas las principales playas de Sanya, un par de las zonas escénicas cercanas y algo de tiempo en el centro y en las tiendas libres de impuestos."
+    },
+    "zh": {
+      "blurb": "三亚是中国最南端的热带滨海度假城市,坐落于海南岛,四季温暖湿润,以椰林环绕的沙滩和绚丽的珊瑚礁闻名遐迩。如今,三亚已成为国内首屈一指的海滨度假胜地,豪华度假酒店、免税购物与近郊葱郁的山林交相辉映,魅力十足。",
+      "getting": "大多数游客选择飞抵三亚凤凰国际机场(SYX),该机场距市区仅数公里,并与国内各大城市通航便捷。三亚同时也是海南环岛高铁的南端终点站,高铁班次密集,可轻松直达海口及岛内其他城市。",
+      "days": "建议安排约3-5天的行程,从容游览三亚的主要海滩,顺道探访周边几处风景名胜,再留些时间逛逛市区和免税店,不必匆忙赶路。"
     }
   }
 }
