@@ -1,11 +1,5 @@
 {
-  "validate-content": {
-    "IMAGE toulouse-museum-de-toulouse.md": {
-      "since": "2026-08-11",
-      "last": "2026-08-11",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
