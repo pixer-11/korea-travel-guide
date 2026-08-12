@@ -220,7 +220,24 @@ test('findRainSwapLeaks: flags the rain-swap venue name leaking into a why', () 
   assert.equal(leaks[0].field, 'whys[x]');
 });
 
-test('findRainSwapLeaks: flags the venue\'s main token leaking into a day intro', () => {
+test('findRainSwapLeaks: flags the venue name leaking into a day intro', () => {
+  const bySlug = new Map([['rain-venue', { data: { title: 'Hidden Museum' } }]]);
+  const daysArr = [{ rainSwapSlug: 'rain-venue', stops: [] }];
+  const aiOut = {
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    days: [{ label: 'L', intro: 'A day best spent indoors, ending at the Hidden Museum.' }],
+    whys: {},
+  };
+  const leaks = findRainSwapLeaks(aiOut, daysArr, bySlug);
+  assert.ok(leaks.some((l) => l.field === 'days[0].intro'));
+});
+
+test('findRainSwapLeaks: one ordinary word out of the venue name is not a leak', () => {
+  // Was the opposite assertion until 2026-08-12: "museum" alone counted, so an
+  // intro about the museum quarter dropped a rain option for a venue it never
+  // named. On real data ("American Museum of Natural History", "Ocean Prime",
+  // "Strand Bookstore") the words that did it were "natural", "ocean" and
+  // "strand" — New York shipped with no rain option on any of its three days.
   const bySlug = new Map([['rain-venue', { data: { title: 'Hidden Museum' } }]]);
   const daysArr = [{ rainSwapSlug: 'rain-venue', stops: [] }];
   const aiOut = {
@@ -228,9 +245,15 @@ test('findRainSwapLeaks: flags the venue\'s main token leaking into a day intro'
     days: [{ label: 'L', intro: 'A day best spent outdoors near the museum quarter.' }],
     whys: {},
   };
-  // "museum" (>=4 chars, from "Hidden Museum") is a main token of the rain venue's title
-  const leaks = findRainSwapLeaks(aiOut, daysArr, bySlug);
-  assert.ok(leaks.some((l) => l.field === 'days[0].intro'));
+  assert.deepEqual(findRainSwapLeaks(aiOut, daysArr, bySlug), []);
+});
+
+test('rainVenueTerms: pairs, not lone ordinary words — and a one-word name still stands alone', () => {
+  assert.deepEqual(
+    rainVenueTerms('American Museum of Natural History', 'New York'),
+    ['american museum of natural history', 'american museum', 'museum natural', 'natural history'],
+  );
+  assert.deepEqual(rainVenueTerms('Balthazar', 'New York'), ['balthazar']);
 });
 
 test('findRainSwapLeaks: no leak when the venue is never mentioned', () => {
@@ -250,15 +273,16 @@ test('findRainSwapLeaks: a city name embedded in the venue title is not treated 
   // matched almost every field (title/description/every intro all say
   // "Seoul"), dropping the rain-swap on nearly every itinerary. Passing the
   // city name excludes it from the per-word terms.
-  const bySlug = new Map([['rain-venue', { data: { title: 'London Bagel Museum in Seoul' } }]]);
+  const bySlug = new Map([['rain-venue', { data: { title: 'Seoul Bagel Museum' } }]]);
   const daysArr = [{ rainSwapSlug: 'rain-venue', stops: [] }];
   const aiOut = {
     title: 'A 3-Day Seoul Itinerary', description: 'Seoul highlights.', quickAnswer: 'Seoul in 3 days.', faq: [],
-    days: [{ label: 'Seoul Day 1', intro: 'Explore central Seoul at a relaxed pace.' }],
+    days: [{ label: 'Seoul Day 1', intro: 'Seoul bagel stalls open before the museums do.' }],
     whys: { x: 'A well-rated stop in Seoul worth the detour.' },
   };
   assert.deepEqual(findRainSwapLeaks(aiOut, daysArr, bySlug, 'Seoul'), []);
-  // Without the city-name exclusion, the same input would leak on every field.
+  // Without the city-name exclusion "seoul bagel" is a term, and an intro about
+  // Seoul bagel stalls reads as the venue being named.
   const leaksWithoutCityArg = findRainSwapLeaks(aiOut, daysArr, bySlug);
   assert.ok(leaksWithoutCityArg.length > 0, 'sanity check: the bug is real without the cityName argument');
 });
@@ -282,11 +306,10 @@ test('findRainSwapLeaks: days with no rainSwapSlug are never scanned', () => {
   assert.deepEqual(findRainSwapLeaks(aiOut, daysArr, bySlug), []);
 });
 
-test('rainVenueTerms: extracts the full title lowercased plus significant words', () => {
+test('rainVenueTerms: extracts the full title lowercased plus adjacent word pairs', () => {
   const terms = rainVenueTerms('Hidden Museum');
   assert.ok(terms.includes('hidden museum'));
-  assert.ok(terms.includes('hidden'));
-  assert.ok(terms.includes('museum'));
+  assert.ok(!terms.includes('museum'), 'a lone ordinary word is not a term');
 });
 
 test('rainVenueTerms: empty/missing title yields no terms', () => {
@@ -294,18 +317,18 @@ test('rainVenueTerms: empty/missing title yields no terms', () => {
   assert.deepEqual(rainVenueTerms(undefined), []);
 });
 
-test('rainVenueTerms: excludes the given city name from per-word terms but keeps the full title', () => {
+test('rainVenueTerms: excludes the given city name from pair terms but keeps the full title', () => {
   const terms = rainVenueTerms('London Bagel Museum in Seoul', 'Seoul');
-  assert.ok(!terms.includes('seoul'), 'city name must not become a standalone term');
-  assert.ok(terms.includes('london'));
-  assert.ok(terms.includes('bagel'));
-  assert.ok(terms.includes('museum'));
+  assert.ok(!terms.some((t) => t.includes('seoul') && t !== 'london bagel museum in seoul'),
+    'city name must not appear in any term but the full title');
+  assert.ok(terms.includes('london bagel'));
+  assert.ok(terms.includes('bagel museum'));
   assert.ok(terms.includes('london bagel museum in seoul'), 'the full title is still a term (exact-phrase match is a real signal)');
 });
 
-test('rainVenueTerms: without a cityName argument, the city name IS included (documents the bug this guards against)', () => {
+test('rainVenueTerms: without a cityName argument, the city name IS paired (documents the bug this guards against)', () => {
   const terms = rainVenueTerms('London Bagel Museum in Seoul');
-  assert.ok(terms.includes('seoul'));
+  assert.ok(terms.includes('museum seoul'));
 });
 
 // ── validateAiOutput (response-shape validation) ────────────────────────────

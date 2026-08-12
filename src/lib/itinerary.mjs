@@ -10,6 +10,14 @@ const TRANSIT_FLAT_MIN = 30;     // budget figure for a transit leg (not shown a
 const DAY_BUDGET_MIN = 600;      // 10h hard cap, spec §2
 const PACE = { relaxed: 3, normal: 4, packed: 5 };
 const MIN_STOPS = 3;             // plan bound: a day is never thinner than three stops
+// 4h floor. The solver used to enforce a MINIMUM STOP COUNT and a MAXIMUM day
+// budget, while validate-itineraries enforced a minimum in MINUTES — so a day
+// of three short stops satisfied the builder and was rejected by the validator
+// forever after. new-york-3-days day 3 (229 min) failed every nightly publish
+// from 2026-08-08 on, burning a model call each time and never shipping.
+// The number lives here, with the code that has to satisfy it; the validator
+// imports it so the two can no longer disagree.
+export const DAY_MIN_MINUTES = 240;
 const LUNCH_DETOUR_KM = 2.5;     // a lunch stop may not bend the day's route by more than this
 
 export function qualifyingPosts(posts) {
@@ -527,6 +535,25 @@ export function buildItinerary(posts, { days }) {
     }
   }
 
+  // Three stops can still be a thin day: Statue of Liberty (45) + Castle Clinton
+  // (30) + One World Observatory (105) plus legs is 229 minutes, under the 4h
+  // floor the validator applies. Same repair as a short day — pull in the
+  // nearest post that lengthens it — but measured in minutes, because that is
+  // what the file is judged on. A day that cannot reach the floor makes the
+  // whole variant unbuildable: skipping it leaves the last good itinerary in
+  // place, where emitting it means a build that fails validation every night.
+  for (let iter = 0; iter <= maxStops * days; iter++) {
+    const thin = layouts.findIndex((s) => dayTotalMinutes(s) < DAY_MIN_MINUTES);
+    if (thin === -1) break;
+    if (!repairDay(thin, assign, layouts, daySeeds, maxStops)) {
+      return {
+        ok: false,
+        days: [],
+        reason: `day ${thin + 1} totals only ${dayTotalMinutes(layouts[thin])} min (floor ${DAY_MIN_MINUTES}) and no further sight can be added to it`,
+      };
+    }
+  }
+
   // A day of four stops with no wet-weather option is worth less than a day of three
   // that has one. Where a day is over the minimum and one of its own later stops is a
   // genuinely indoor venue, hand that venue back to the rain-swap pool. The day stays
@@ -534,12 +561,18 @@ export function buildItinerary(posts, { days }) {
   // Give up an afternoon first and the evening stop only as a fallback. The lunch stop
   // is never given up — a day plan without a meal in it is worse than a day plan
   // without a wet-weather option.
+  // It also may not push the day back under the 4h floor the repair above just
+  // cleared — a wet-weather option is not worth turning the day into a stub.
   for (const layout of layouts) {
     if (layout.length <= MIN_STOPS) continue;
     let release = -1;
     for (const slot of ['afternoon', 'evening']) {
       for (let i = layout.length - 1; i >= 1; i--) {
-        if (layout[i].slot === slot && isGenuinelyIndoor(layout[i].post)) { release = i; break; }
+        if (layout[i].slot !== slot || !isGenuinelyIndoor(layout[i].post)) continue;
+        const without = layout.filter((_, j) => j !== i);
+        if (dayTotalMinutes(without) < DAY_MIN_MINUTES) continue;
+        release = i;
+        break;
       }
       if (release >= 0) break;
     }

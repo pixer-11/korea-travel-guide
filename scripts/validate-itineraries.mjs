@@ -16,7 +16,7 @@ import { existsSync } from 'node:fs';
 import { join, resolve, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { qualifyingPosts, gateFor, dwellMinutes, walkLeg } from '../src/lib/itinerary.mjs';
+import { qualifyingPosts, gateFor, dwellMinutes, walkLeg, DAY_MIN_MINUTES } from '../src/lib/itinerary.mjs';
 import { findProseViolations } from '../src/lib/prose-guard.mjs';
 
 // Mirrors the TRANSIT_FLAT_MIN / DAY_BUDGET_MIN constants in src/lib/itinerary.mjs
@@ -24,15 +24,19 @@ import { findProseViolations } from '../src/lib/prose-guard.mjs';
 // source of truth — if those numbers change there, change them here too.
 const TRANSIT_FLAT_MIN = 30;
 const DAY_BUDGET_MIN = 600;
-// Floor, not a mirror of anything in itinerary.mjs — a day that fills less
-// than 4 hours isn't a "day plan" regardless of whether its numbers are
-// internally consistent. Added 2026-07-28: a stale seoul-3-days.md totalled
-// 90 minutes for a full day (every dwellMin was a pre-fix under-count) and
-// nothing caught it, because the prose checks only compare prose against the
-// file's OWN dwellMin, not against what the solver computes today. See
-// DWELL-STALE/LEG-STALE below for the direct fix; this is the cheap
-// independent sanity net.
-const DAY_MIN_MINUTES = 240;
+// Floor: a day that fills less than 4 hours isn't a "day plan" regardless of
+// whether its numbers are internally consistent. Added 2026-07-28: a stale
+// seoul-3-days.md totalled 90 minutes for a full day (every dwellMin was a
+// pre-fix under-count) and nothing caught it, because the prose checks only
+// compare prose against the file's OWN dwellMin, not against what the solver
+// computes today. See DWELL-STALE/LEG-STALE below for the direct fix; this is
+// the cheap independent sanity net.
+// The check stays independent; the NUMBER is imported from itinerary.mjs
+// (2026-08-12). It used to be declared here as a deliberate non-mirror, and
+// the solver simply did not enforce it — so the solver kept emitting a
+// 229-minute day that this line rejected every night for four days running.
+// A floor nothing upstream is required to clear is a permanent failure, not a
+// sanity net.
 
 // Prose-leak patterns (clock times / prices / opening-hours language never
 // belong in AI connective prose — the page renders those facts from data,

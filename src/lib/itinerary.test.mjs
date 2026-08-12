@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { qualifyingPosts, closedDaysOf, dwellMinutes, walkLeg, buildItinerary, gateFor, preferredSlot } from './itinerary.mjs';
+import { qualifyingPosts, closedDaysOf, dwellMinutes, walkLeg, buildItinerary, gateFor, preferredSlot, DAY_MIN_MINUTES } from './itinerary.mjs';
 
 const P = (id, lat, lng, cat = 'attraction', extra = {}) => ({
   id, data: { title: id, category: cat, draft: false,
@@ -487,6 +487,46 @@ test('backfill: ok:false only when nothing can be added within the day budget', 
   const it = buildItinerary(posts, { days: 3 });
   assert.equal(it.ok, false, 'a day that cannot legally hold 3 stops must not be emitted');
   assert.match(it.reason, /budget/i, `reason should name the budget, got: ${it.reason}`);
+  assert.equal(it.days.length, 0);
+});
+
+// --- the 4h floor is the solver's problem, not just the validator's ----------
+
+test('every emitted day clears DAY_MIN_MINUTES, even when 3 short stops satisfy MIN_STOPS', () => {
+  // The new-york-3-days shape: one cluster of quick stops that reaches three
+  // stops on count and stops ~30 min under the floor, plus a neighbouring
+  // cluster with something to spare. The solver used to hand this straight to
+  // the validator, which rejected it every night.
+  const quick = (id, lat, lng) => ({ ...P(id, lat, lng), body: 'takes about 45 minutes' });
+  const posts = [
+    quick('c-short0', 37.400, 126.800),
+    quick('c-short1', 37.402, 126.800),
+    quick('c-short2', 37.404, 126.800),
+    ...[0, 1, 2, 3, 4].map((i) => P(`a-sight${i}`, 37.600 + i * 0.002, 126.950)),
+    ...[0, 1, 2, 3, 4].map((i) => P(`b-sight${i}`, 37.500 + i * 0.002, 127.100)),
+  ];
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, true, `expected a buildable itinerary, got: ${it.reason}`);
+  it.days.forEach((d, i) => {
+    const total = d.stops.reduce((sum, s, si) => {
+      const leg = s.walkToNext;
+      return sum + s.dwellMin + (si < d.stops.length - 1 && leg ? (leg.transit ? 30 : leg.minutes ?? 0) : 0);
+    }, 0);
+    assert.ok(total >= DAY_MIN_MINUTES, `day ${i + 1} totals ${total} min, under the ${DAY_MIN_MINUTES} floor`);
+  });
+});
+
+test('a day that cannot reach the 4h floor is refused, not emitted for the validator to reject', () => {
+  // Twelve 45-minute stops in three tight clusters. Every day fills to the
+  // 4-stop pace cap at 189 minutes, no day has a post to spare, and no amount
+  // of moving them around makes four hours out of quarter-hours.
+  const posts = [];
+  for (const [c, lat] of [['a', 37.60], ['b', 37.50], ['c', 37.40]]) {
+    for (let i = 0; i < 4; i++) posts.push({ ...P(`${c}-quick${i}`, lat + i * 0.002, 126.90), body: 'takes about 45 minutes' });
+  }
+  const it = buildItinerary(posts, { days: 3 });
+  assert.equal(it.ok, false);
+  assert.match(it.reason, /floor/i, `reason should name the floor, got: ${it.reason}`);
   assert.equal(it.days.length, 0);
 });
 

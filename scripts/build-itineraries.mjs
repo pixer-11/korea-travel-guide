@@ -466,19 +466,28 @@ function scanAiOutputProse(aiOut) {
 
 const STOPWORDS = new Set(['the', 'and', 'of', 'at', 'in', 'on', 'a', 'an', 'to', 'for', 'by', 'with']);
 
-// `cityName` is excluded from the per-word "main token" list — many venue
-// titles are literally "<Venue> in <City>" / "<City> <Venue>", and the city
-// name legitimately appears in nearly every field (title, description, every
-// day's intro...), so treating it as a distinctive token turned "the rain
-// venue name leaked" into "the city name appears anywhere", which dropped
-// the rain-swap on almost every real itinerary. The full title is still kept
-// as a term — an exact multi-word phrase match is still a real, specific leak.
+// A leak is prose that lets the reader NAME the rain venue. Terms are the full
+// title plus every adjacent PAIR of its significant words — never a lone word,
+// unless the whole name is one word ("Balthazar").
+//
+// It used to emit each significant word on its own, and the words of a real
+// venue name are ordinary English: "American Museum of Natural History" made
+// "natural" a term, so an intro saying "natural light" dropped that day's rain
+// option. New York lost all three of its rain swaps that way on 2026-08-12 —
+// "natural", "ocean" and "strand" each cost a day. This is the second time the
+// same over-match has been patched: `cityName` is still excluded because
+// titles are often "<Venue> in <City>", but excluding city words only fixed
+// the one word we had noticed. The pair rule fixes the class — "natural
+// history" identifies the venue, "natural" alone identifies nothing.
 export function rainVenueTerms(title, cityName) {
   const t = String(title || '').trim();
   if (!t) return [];
   const cityWords = new Set(String(cityName || '').toLowerCase().split(/\s+/).filter(Boolean));
   const words = t.toLowerCase().split(/\s+/).filter((w) => w.length >= 4 && !STOPWORDS.has(w) && !cityWords.has(w));
-  return [...new Set([t.toLowerCase(), ...words])];
+  const terms = [t.toLowerCase()];
+  if (words.length === 1) terms.push(words[0]);
+  for (let i = 0; i < words.length - 1; i++) terms.push(`${words[i]} ${words[i + 1]}`);
+  return [...new Set(terms)];
 }
 
 // Scans every written prose field for each day's rain-swap venue name/main
