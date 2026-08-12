@@ -6,10 +6,10 @@ region: Pisa
 category: attraction
 pubDate: '2026-08-11T08:25:42.398Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg
-  credit: 'Photo: InnovativeEngineering / Wikimedia Commons (CC0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Leaning_Tower_of_Pisa_and_Pisa_Cathedral.jpg
+  url: https://fastly.4sqi.net/img/general/original/26490270_-BgeN3dyKqMrhRQJOcGNmCFbj5irjGTfzW2Pf64mVlM.jpg
+  credit: 'Photo: Foursquare user content (Tower of Pisa (Torre di Pisa))'
+  license: foursquare
+  source: https://foursquare.com/v/4b4ae398f964a5208a8f26e3
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg/3840px-The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg
     credit: 'Photo: MHoser / Wikimedia Commons (CC BY-SA 4.0)'
@@ -67,7 +67,6 @@ faq:
   - q: What else is nearby worth seeing?
     a: The Duomo, Baptistery, and Camposanto monumental cemetery all sit within the same Piazza del Duomo complex — combined tickets covering multiple sites are usually better value than the tower alone.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

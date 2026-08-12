@@ -6,11 +6,10 @@ region: Incheon
 category: attraction
 pubDate: '2026-08-10T09:03:32.618Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/76/%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG
-  credit: 'Photo: 메이 / Wikimedia Commons (CC BY-SA 1.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EB%8C%80%EA%B3%B5%EC%9B%90.JPG
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/20356139_LH5s25Gxt7bQ0fs4oFDv6I7ddfgYX75B1lvtGPUQoHw.jpg
+  credit: 'Photo: Foursquare user content (Incheon Grand Park (인천대공원))'
+  license: foursquare
+  source: https://foursquare.com/v/4cb98a33c7228cfa906c10ce
 place:
   id: ChIJD3vd1Jh8ezURbh0AuKzX0Ig
   name: Incheon Grand Park
@@ -68,7 +67,6 @@ faq:
   - q: Is it worth visiting outside spring and autumn?
     a: Yes, though spring blossoms and autumn foliage are the visual highlights. Summer is hot with limited shade, so mornings are best in July and August.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

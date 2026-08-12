@@ -6,10 +6,10 @@ region: Kuantan
 category: attraction
 pubDate: '2026-08-12T08:45:03.714Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kuantan_-_view_from_Menara_188_at_blue_hour_-_May_2024.jpg/3840px-Kuantan_-_view_from_Menara_188_at_blue_hour_-_May_2024.jpg
-  credit: 'Photo: Dominic Nelson / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kuantan_-_view_from_Menara_188_at_blue_hour_-_May_2024.jpg
+  url: https://fastly.4sqi.net/img/general/original/56195558_j9B1K0UwtvuRGxEwnMAZrHeADGQm2DM5TG7qjb1GIXM.jpg
+  credit: 'Photo: Foursquare user content (Menara Kuantan 188)'
+  license: foursquare
+  source: https://foursquare.com/v/6038b0890d2ef05d57f32bb5
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kuantan_1.jpg/3840px-Kuantan_1.jpg
     credit: 'Photo: Slleong / Wikimedia Commons (CC0)'
@@ -62,7 +62,6 @@ faq:
   - q: Is Kuantan 188 good for kids or families?
     a: Yes — the open plazas, riverside seating, and casual food stalls make it an easy, low-key stop for families, especially in the cooler evening hours.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

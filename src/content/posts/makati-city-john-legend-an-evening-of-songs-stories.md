@@ -26,11 +26,10 @@ aiGenerated: true
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/81/John_Legend_by_Sachyn_Mital.jpg
-  credit: 'Photo: Sachyn Mital / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_Legend_%2834998104810%29.jpg/3840px-John_Legend_%2834998104810%29.jpg
+  credit: 'Photo: The Come Up Show from Canada / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:John_Legend_by_Sachyn_Mital.jpg
-draft: true
+  source: https://commons.wikimedia.org/wiki/File:John_Legend_(34998104810).jpg
 ---
 
 ## Why this show is different

@@ -1,33 +1,33 @@
 ---
-title: "Paradise Dynasty: Where to Eat in Mong Kok (4.8★)"
-description: "Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. 4.8★ (6,314 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Mong Kok"
-category: "restaurant"
-pubDate: "2026-08-12T17:34:12.968Z"
+title: 'Paradise Dynasty: Where to Eat in Mong Kok (4.8★)'
+description: Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. 4.8★ (6,314 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Mong Kok
+category: restaurant
+pubDate: '2026-08-12T17:34:12.968Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_03.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_03.jpg"
-  credit: "Photo: Liuoc Dimwgha Mimdra / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_03.jpg"
+  url: https://fastly.4sqi.net/img/general/original/3833904_nxoAYODC2djUj54efBSBQYZmQbq6eBL4NRT1ioEz8wE.jpg
+  credit: 'Photo: Foursquare user content (Paradise Dynasty (樂天皇朝))'
+  license: foursquare
+  source: https://foursquare.com/v/57565aec498e7fd15d42360e
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg"
-    credit: "Photo: Liuoc Dimwgha Mimdra / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg
+    credit: 'Photo: Liuoc Dimwgha Mimdra / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg
 place:
-  id: "ChIJYUGMoscABDQRPzTTzz8QqiM"
-  name: "Paradise Dynasty"
-  address: "Hong Kong, Mong Kok, Nathan Rd, 625 & 639號Shop no.203 and 205, 2/F"
+  id: ChIJYUGMoscABDQRPzTTzz8QqiM
+  name: Paradise Dynasty
+  address: Hong Kong, Mong Kok, Nathan Rd, 625 & 639號Shop no.203 and 205, 2/F
   rating: 4.8
   userRatingsTotal: 6314
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2569884403623998527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2569884403623998527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.317802099999998
   lng: 114.16945129999999
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 11
       - 15
@@ -42,22 +42,22 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_4d697151387a7a54547a50525144424163736f4d4755594a496843"
+    venueId: ven_4d697151387a7a54547a50525144424163736f4d4755594a496843
 tags:
-  - "mong kok"
-  - "local restaurant"
-quickAnswer: "Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. It's on the 2nd floor of a Nathan Road shopping block, mid-range priced, and calmest any weekday or weekend from 11am until later afternoon. Avoid weekend evenings between 5pm and 9pm, when the wait stretches long."
+  - mong kok
+  - local restaurant
+quickAnswer: Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. It's on the 2nd floor of a Nathan Road shopping block, mid-range priced, and calmest any weekday or weekend from 11am until later afternoon. Avoid weekend evenings between 5pm and 9pm, when the wait stretches long.
 faq:
-  - q: "How do I get to Paradise Dynasty in Mong Kok?"
-    a: "It's on the 2nd floor at 625 & 639 Nathan Road, a short walk from Mong Kok MTR Station (Tsuen Wan, Kwun Tong, and East Rail lines). Take an exit toward Nathan Road and look for the shop's directional signage."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest from around 11am onward into the afternoon. It's a reliably easier window for walk-in seating than evenings."
-  - q: "What's the best time to avoid crowds?"
-    a: "Skip weekend evenings between 5pm and 9pm — that's the measured busiest window, with longer waits for a table."
-  - q: "What should I order?"
-    a: "Start with the eight-flavor rainbow xiao long bao, then add hand-pulled la mian, truffle fried rice, and a spring onion pancake to round out the table."
-  - q: "Do I need a reservation?"
-    a: "Walk-ins are standard. Small weekday groups usually won't wait; larger weekend evening groups should expect a queue."
+  - q: How do I get to Paradise Dynasty in Mong Kok?
+    a: It's on the 2nd floor at 625 & 639 Nathan Road, a short walk from Mong Kok MTR Station (Tsuen Wan, Kwun Tong, and East Rail lines). Take an exit toward Nathan Road and look for the shop's directional signage.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest from around 11am onward into the afternoon. It's a reliably easier window for walk-in seating than evenings.
+  - q: What's the best time to avoid crowds?
+    a: Skip weekend evenings between 5pm and 9pm — that's the measured busiest window, with longer waits for a table.
+  - q: What should I order?
+    a: Start with the eight-flavor rainbow xiao long bao, then add hand-pulled la mian, truffle fried rice, and a spring onion pancake to round out the table.
+  - q: Do I need a reservation?
+    a: Walk-ins are standard. Small weekday groups usually won't wait; larger weekend evening groups should expect a queue.
 aiGenerated: true
 draft: false
 ---

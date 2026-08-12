@@ -6,10 +6,10 @@ region: Baguio
 category: attraction
 pubDate: '2026-08-10T09:24:23.877Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Tam-awan_Village_%28Baguio_City%29.jpg
-  credit: 'Photo: Shubert Ciencia / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tam-awan_Village_(Baguio_City).jpg
+  url: https://fastly.4sqi.net/img/general/original/1359365088_aLYytEI6yFVn8V-cyNXZx3r7m4pZIBcAHQPzxtJavwc.jpg
+  credit: 'Photo: Foursquare user content (Tam-awan Village)'
+  license: foursquare
+  source: https://foursquare.com/v/4d9641362bd6f04d874d3250
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/6/65/Traditional_Ifugao_hut_in_Tam-Awan_cultural_village.jpg
     credit: 'Photo: Ilya Batuev / Wikimedia Commons (CC BY-SA 4.0)'
@@ -68,7 +68,6 @@ faq:
   - q: Is it open every day?
     a: Yes, Tam-awan Village is open daily from 7:00 AM to 8:00 PM.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

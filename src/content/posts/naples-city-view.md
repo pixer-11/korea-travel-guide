@@ -41,6 +41,7 @@ faq:
   - q: Is it worth it if I've already seen the view from Castel Sant'Elmo?
     a: Yes if you want the same panorama without the ticket line or crowds — it's a genuinely under-visited alternative just a few minutes' walk from the fortress.
 aiGenerated: true
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
