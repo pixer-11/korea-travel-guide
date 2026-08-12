@@ -1,7 +1,10 @@
 name: Auto-generate & publish posts
 
-# Runs unattended on a schedule. Generates new posts, commits them,
-# and the deploy (Cloudflare Pages / Vercel) picks up the push.
+# Runs unattended on a schedule. Generates new posts, commits them, and the
+# push wakes build-check.yml, which builds AND deploys via wrangler. (This
+# comment used to say "Cloudflare Pages / Vercel picks up the push" — false
+# since 2026-08-10, when Cloudflare's build minutes ran out and the deploy
+# moved to GitHub Actions.)
 on:
   schedule:
     # 07:19 UTC = 16:19 KST — right AFTER Google's hidden facts-quota reset
@@ -48,6 +51,15 @@ on:
         description: 'Telegram label: "Daily publish" or "Backfill"'
         required: false
         type: string
+
+# Publish is the single largest Places-quota consumer, and it was the only
+# consumer WITHOUT a concurrency group: a manual dispatch during the 16:19 KST
+# scheduled run raced it for quota and for git pushes (automation audit,
+# 2026-08-13). Same group as the other per-call quota jobs; queue, never
+# cancel — a cancelled publish half-writes a day's batch.
+concurrency:
+  group: places-quota
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -236,6 +248,14 @@ jobs:
             echo "나라 실용정보: 빠진 나라 없음 — 건너뜁니다."
           else
             node scripts/build-essentials.mjs
+            # The guide alone is not the job. This step used to stop at the
+            # English file, and the four translations waited for the MONTHLY
+            # refresh-essentials cron — a country added on the 2nd shipped
+            # English-only /ko /ja /es /zh essentials for up to four weeks
+            # (automation audit, 2026-08-13). translate-essentials is
+            # idempotent (skips what already exists), so this costs nothing on
+            # days when nothing is new.
+            node scripts/translate-essentials.mjs
           fi
 
       # Assembles/refreshes src/content/itineraries/<city>-<n>-days.md for any

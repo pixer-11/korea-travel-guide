@@ -1,12 +1,11 @@
 ---
 // Per-post "Where to stay" block. This Travelpayouts account has no dedicated
 // hotel-search widget, and Hotels.com/Booking are locked until the site has 3
-// months of stable traffic. So hotels are monetized through KLOOK — an ACTIVE
-// program on the account (already tracking clicks) whose "Hotels & Accommodations"
-// category pays 2-5%. Klook is Asia-strong, which fits our Asia-heavy content.
-// The link is a per-city Klook hotel search via the account's Klook affiliate
-// redirect (pid 754088 → preserves attribution). UPGRADE PLAN: switch to
-// Hotels.com once traffic unlocks it (~3 months) for better hotel-specific rates.
+// months of stable traffic. Hotels are monetized through HOTELLOOK (Aviasales
+// hotel meta-search — the marker below is 754088.hotels_widget). This comment
+// used to say the block was "monetized through KLOOK", which the code below
+// never matched — the 08-13 revenue audit flagged the mismatch as editor-trap
+// doc rot. UPGRADE PLAN: switch to Hotels.com once traffic unlocks it (~3 months).
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';

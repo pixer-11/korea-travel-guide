@@ -1,54 +1,54 @@
 ---
-title: "Ci'en Pagoda: Sun Moon Lake Travel Guide (4.6★)"
-description: "Ci'en Pagoda sits on Sun Moon Lake's southern shore, a nine-story octagonal tower built in 1971 that Chiang Kai-shek commissioned in memory of his mother. 4.6★ (4,137 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Sun Moon Lake"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:41:46.081Z"
+title: 'Ci''en Pagoda: Sun Moon Lake Travel Guide (4.6★)'
+description: Ci'en Pagoda sits on Sun Moon Lake's southern shore, a nine-story octagonal tower built in 1971 that Chiang Kai-shek commissioned in memory of his mother. 4.6★ (4,137 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Sun Moon Lake
+category: hidden-gem
+pubDate: '2026-08-12T09:41:46.081Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ci%27en_Pagoda_%2839123523130%29.jpg"
-  credit: "Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ci%27en_Pagoda_(39123523130).jpg"
+  url: https://fastly.4sqi.net/img/general/original/6400047_H7mu7td4bZk1mfjtCP0WUuZrxkN64H56EbrXKlRM24Y.jpg
+  credit: 'Photo: Foursquare user content (Ci En Pagoda)'
+  license: foursquare
+  source: https://foursquare.com/v/4ee99fb64901326b60ed29cf
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg/3840px-View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg"
-    credit: "Photo: ironypoisoning / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg/3840px-View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg
+    credit: 'Photo: ironypoisoning / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg
 place:
-  id: "ChIJq6qqqmrWaDQRyKlD4BLXUpw"
-  name: "Ci'en Pagoda"
-  address: "Yuchi Township, Nantou County, Taiwan 555"
+  id: ChIJq6qqqmrWaDQRyKlD4BLXUpw
+  name: Ci'en Pagoda
+  address: Yuchi Township, Nantou County, Taiwan 555
   rating: 4.6
   userRatingsTotal: 4137
-  googleMapsUrl: "https://maps.google.com/?cid=11264302094078945736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11264302094078945736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.8420255
   lng: 120.92084059999999
-  phone: "+886 49 285 5668"
+  phone: +886 49 285 5668
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
 tags:
-  - "sun moon lake"
-  - "hidden gem"
-quickAnswer: "Ci'en Pagoda sits on Sun Moon Lake's southern shore, a nine-story octagonal tower built in 1971 that Chiang Kai-shek commissioned in memory of his mother. Open daily 9am–4:30pm, it's a steep but short climb rewarded with the best panoramic lake view around — arrive early or late in the opening window to beat tour-bus crowds. Budget 45–75 minutes including the trail up."
+  - sun moon lake
+  - hidden gem
+quickAnswer: Ci'en Pagoda sits on Sun Moon Lake's southern shore, a nine-story octagonal tower built in 1971 that Chiang Kai-shek commissioned in memory of his mother. Open daily 9am–4:30pm, it's a steep but short climb rewarded with the best panoramic lake view around — arrive early or late in the opening window to beat tour-bus crowds. Budget 45–75 minutes including the trail up.
 faq:
-  - q: "How long should I spend at Ci'en Pagoda?"
-    a: "Plan for 45–75 minutes total, including the 15–20 minute uphill walk, the climb through all nine stories, and time at the top viewing platform."
-  - q: "What are the opening hours?"
-    a: "Ci'en Pagoda is open every day, including weekends, from 9:00am to 4:30pm, with no variation by day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Aim for right at 9:00am opening or the final hour before 4:30pm closing. Mid-morning to early afternoon tends to bring the heaviest tour-bus traffic."
-  - q: "How do I get to Ci'en Pagoda without a car?"
-    a: "Take the Sun Moon Lake round-the-lake shuttle bus to the Ci'en Pagoda stop, or cycle the lakeside path from Shuishe village, which also passes Xuanguang Temple."
-  - q: "Is there anything else to see nearby?"
-    a: "Yes — Xuanguang Temple is a short walk downhill with lake views and food stalls, and Xuanzang Temple further along houses relics of the Tang dynasty monk Xuanzang."
+  - q: How long should I spend at Ci'en Pagoda?
+    a: Plan for 45–75 minutes total, including the 15–20 minute uphill walk, the climb through all nine stories, and time at the top viewing platform.
+  - q: What are the opening hours?
+    a: Ci'en Pagoda is open every day, including weekends, from 9:00am to 4:30pm, with no variation by day of the week.
+  - q: When is the quietest time to visit?
+    a: Aim for right at 9:00am opening or the final hour before 4:30pm closing. Mid-morning to early afternoon tends to bring the heaviest tour-bus traffic.
+  - q: How do I get to Ci'en Pagoda without a car?
+    a: Take the Sun Moon Lake round-the-lake shuttle bus to the Ci'en Pagoda stop, or cycle the lakeside path from Shuishe village, which also passes Xuanguang Temple.
+  - q: Is there anything else to see nearby?
+    a: Yes — Xuanguang Temple is a short walk downhill with lake views and food stalls, and Xuanzang Temple further along houses relics of the Tang dynasty monk Xuanzang.
 aiGenerated: true
 draft: false
 ---

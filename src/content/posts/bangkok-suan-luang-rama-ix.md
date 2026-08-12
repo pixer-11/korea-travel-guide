@@ -1,16 +1,15 @@
 ---
-title: "Suan Luang Rama IX: Bangkok Travel Guide (4.7★)"
+title: 'Suan Luang Rama IX: Bangkok Travel Guide (4.7★)'
 description: Suan Luang Rama IX, in Prawet district on Bangkok's eastern edge, is one of the city's biggest and most beautifully landscaped public parks — a mix of botanical gardens, a lake with paddle boats, jogging paths and playgrounds. 4.7★ (19,345 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Bangkok
 category: attraction
-pubDate: "2026-08-05T11:01:39.540Z"
+pubDate: '2026-08-05T11:01:39.540Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/63/Rama_IX_Park.JPG
-  credit: "Photo: The original uploader was Heuristics at Thai Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Suan_Luang_Rama_IX_05.jpg/3840px-Suan_Luang_Rama_IX_05.jpg
+  credit: 'Photo: Boonlert / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Rama_IX_Park.JPG
-gallery: []
+  source: https://commons.wikimedia.org/wiki/File:Suan_Luang_Rama_IX_05.jpg
 place:
   id: ChIJu1mpMZRgHTERRNTicTdIHxg
   name: Suan Luang Rama IX
@@ -44,13 +43,13 @@ place:
     venueId: ven_6778484964546369544e525245544867525a4d706d31754a496843
   phone: +66 2 106 2674
   openingHours:
-    - "Monday: 5:00 AM – 7:00 PM"
-    - "Tuesday: 5:00 AM – 7:00 PM"
-    - "Wednesday: 5:00 AM – 7:00 PM"
-    - "Thursday: 5:00 AM – 7:00 PM"
-    - "Friday: 5:00 AM – 7:00 PM"
-    - "Saturday: 5:00 AM – 7:00 PM"
-    - "Sunday: 5:00 AM – 7:00 PM"
+    - 'Monday: 5:00 AM – 7:00 PM'
+    - 'Tuesday: 5:00 AM – 7:00 PM'
+    - 'Wednesday: 5:00 AM – 7:00 PM'
+    - 'Thursday: 5:00 AM – 7:00 PM'
+    - 'Friday: 5:00 AM – 7:00 PM'
+    - 'Saturday: 5:00 AM – 7:00 PM'
+    - 'Sunday: 5:00 AM – 7:00 PM'
 tags:
   - bangkok
   - park

@@ -35,7 +35,7 @@ export const GET: APIRoute = async ({ site }) => {
   const destLines = live.map((c) => {
     const cities = citiesFor(c.name).slice(0, 6);
     const tail = citiesFor(c.name).length > cities.length ? ' and more' : '';
-    return `- [${c.name}](${base}/destinations/${c.slug}): ${cities.join(', ')}${tail}`;
+    return `- [${c.name}](${base}/destinations/${c.slug}/): ${cities.join(', ')}${tail}`;
   });
 
   // Pre-built multi-day itineraries — a high-value AI-citation surface (an LLM

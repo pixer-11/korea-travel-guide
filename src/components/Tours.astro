@@ -22,7 +22,7 @@ const cityLabel = localizePlace(city, lang);
 // a destination link cannot fail that way.
 const mapped = KLOOK_CITY[city];
 const src = mapped?.widget
-  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088&locale=${lang}&city_id=${mapped.id}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
+  ? `https://tpemd.com/content?currency=USD&trs=553157&shmarker=754088.tours_widget&locale=${lang}&city_id=${mapped.id}&category=1&amount=3&powered_by=true&campaign_id=137&promo_id=4497`
   : null;
 
 // A mapped city goes to its DESTINATION page; only an unmapped one falls back

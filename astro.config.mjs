@@ -236,7 +236,14 @@ function regionRedirects() {
   for (const r of regions) {
     const oldEnc = encodeURI(r.toLowerCase()); // what the old href resolved to
     const next = regionSlug(r);
-    if (oldEnc !== next) lines.push(`/regions/${oldEnc}/ /regions/${next}/ 301`);
+    // The normalized hub only exists while the region has a LIVE post. Le
+    // Castellet's one guide went into photo quarantine, its hub stopped being
+    // built, and /regions/le%20castellet/ kept 301ing to a page that wasn't
+    // there — a redirect chain ending in a 404 (UX audit, 2026-08-13). Same
+    // rule as the drafts loop above: no live hub → send the visitor home.
+    if (oldEnc !== next) {
+      lines.push(`/regions/${oldEnc}/ ${liveHubs.has(canon(r)) ? `/regions/${next}/` : '/'} 301`);
+    }
   }
   // The alias lines used to exist only for the English path, so
   // /ko/regions/xian/ (reachable from redirected localized post URLs) 404ed.

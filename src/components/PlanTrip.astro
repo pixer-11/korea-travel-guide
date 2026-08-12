@@ -1,6 +1,6 @@
 ---
 // "Plan your trip" affiliate block for every guide — booking services that are
-// already active on our Travelpayouts account (marker 553157). Link-based
+// already active on our Travelpayouts account (trs/source id 553157; the affiliate MARKER is 754088). Link-based
 // programs use city-agnostic homepage links (readers pick their city there);
 // flights point to our own /flights page. Affiliate links use rel="sponsored".
 import { SITE } from '../siteConfig';
@@ -29,12 +29,12 @@ const klookHref = city
 
 const services: { icon: string; label: string; desc: string; href: string; internal?: boolean }[] = [
   { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
-  { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc' },
+  { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc?sub_id=plantrip_car' },
   // Kiwitaxi shortlink code is yRbl5tIp with a CAPITAL I — it was transcribed as
   // lowercase l on 07-21 (the two glyphs are identical in the dashboard font) and
   // 404'd ever since. Corrected + verified: 302 → kiwitaxi.com, tpo …-754088.
   // (Owner's Welcome Pickups link https://tpx.lv/DR9LOcP9 also works — spare.)
-  { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tIp' },
+  { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=plantrip_pickup' },
   // eSIM: countries with their own /tools/esim guide funnel through it (an
   // internal money page converts better than a bare external link, and every
   // post becomes an interlink to it); everywhere else keeps the Yesim link.
