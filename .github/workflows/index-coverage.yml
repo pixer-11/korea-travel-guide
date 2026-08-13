@@ -1,0 +1,43 @@
+# Weekly programmatic-page indexation audit (growth research B5, 2026-08-13).
+# Samples each page type through the URL Inspection API and alarms Telegram
+# (Korean) when a programmatic bucket drops under 80% — the published
+# travel-pSEO quality line. Runs Tuesdays 06:41 KST, before the day's publish,
+# so a bad reading and its cause land in the same morning's reports.
+name: Index coverage audit
+on:
+  schedule:
+    - cron: '41 21 * * 1' # Tue 06:41 KST (Mon 21:41 UTC)
+  workflow_dispatch: {}
+
+concurrency:
+  group: index-coverage
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Inspect sampled URLs
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/audit-index-coverage.mjs
+      - name: Commit coverage log
+        run: |
+          git config user.name "Korea Travel Guide"
+          git config user.email "bot@wanderatlasguides.com"
+          git add data/logs/index-coverage.json
+          if git diff --cached --quiet; then
+            echo "변화 없음 — 커밋 생략"
+          else
+            git commit -m "data: weekly index-coverage sample ($(date -u +%Y-%m-%d))"
+            git pull --rebase --autostash -X ours origin main
+            git push origin main
+          fi

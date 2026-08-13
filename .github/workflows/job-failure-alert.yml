@@ -25,6 +25,7 @@ on:
       # added since. That audit now runs in workflow-lint.yml, so the list
       # cannot quietly fall behind again.
       - 'Backfill real venue photos'
+      - 'Index coverage audit'
       - 'attach-placeless-photos'
       - 'mailerlite-fields'
       - 'Test Telegram notification'
