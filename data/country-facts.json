@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "countries": {
     "South Korea": {
       "climate": [
@@ -3620,78 +3620,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 28,
-          "lo": 23,
-          "rain": 196
+          "hi": 21,
+          "lo": 13,
+          "rain": 87
         },
         {
           "m": 2,
-          "hi": 29,
-          "lo": 23,
-          "rain": 120
+          "hi": 21,
+          "lo": 13,
+          "rain": 84
         },
         {
           "m": 3,
-          "hi": 30,
-          "lo": 23,
-          "rain": 91
+          "hi": 22,
+          "lo": 14,
+          "rain": 110
         },
         {
           "m": 4,
-          "hi": 31,
-          "lo": 24,
-          "rain": 111
+          "hi": 23,
+          "lo": 15,
+          "rain": 156
         },
         {
           "m": 5,
-          "hi": 30,
-          "lo": 25,
-          "rain": 174
+          "hi": 23,
+          "lo": 16,
+          "rain": 300
         },
         {
           "m": 6,
-          "hi": 29,
-          "lo": 24,
-          "rain": 261
+          "hi": 23,
+          "lo": 17,
+          "rain": 387
         },
         {
           "m": 7,
-          "hi": 29,
-          "lo": 24,
-          "rain": 263
+          "hi": 22,
+          "lo": 17,
+          "rain": 703
         },
         {
           "m": 8,
-          "hi": 29,
-          "lo": 24,
-          "rain": 233
+          "hi": 21,
+          "lo": 17,
+          "rain": 605
         },
         {
           "m": 9,
-          "hi": 28,
-          "lo": 24,
-          "rain": 273
+          "hi": 22,
+          "lo": 16,
+          "rain": 492
         },
         {
           "m": 10,
-          "hi": 28,
-          "lo": 24,
-          "rain": 346
+          "hi": 22,
+          "lo": 16,
+          "rain": 444
         },
         {
           "m": 11,
-          "hi": 29,
-          "lo": 24,
-          "rain": 222
+          "hi": 22,
+          "lo": 15,
+          "rain": 166
         },
         {
           "m": 12,
-          "hi": 29,
-          "lo": 24,
-          "rain": 230
+          "hi": 22,
+          "lo": 14,
+          "rain": 106
         }
       ],
-      "climateCity": "Bohol",
+      "climateCity": "Baguio",
       "climateYears": 10,
       "holidays": [
         {
@@ -4535,6 +4535,9 @@
           "name": "Boxing Day"
         }
       ]
+    },
+    "Uzbekistan": {
+      "holidays": []
     }
   }
 }

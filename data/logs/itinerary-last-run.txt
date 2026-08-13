@@ -3,7 +3,6 @@ SKIP new city "Hong Kong" — weekly new-city cap (2/7d) reached
 SKIP new city "Los Angeles" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "New Orleans" — weekly new-city cap (2/7d) reached
-SKIP new city "Singapore" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 14 qualifying post(s), variants: 3
   = Seoul 3d — unchanged, skipping
@@ -19,6 +18,10 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
+
+Singapore, Singapore — 39 qualifying post(s), variants: 3, 5
+  = Singapore 3d — unchanged, skipping
+  = Singapore 5d — unchanged, skipping
 
 Done. Nothing changed.
 

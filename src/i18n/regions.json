@@ -6839,6 +6839,11 @@
       "blurb": "西贡素有香港「后花园」之称，昔日只是一个宁静的渔港，如今已成为通往香港最原始海岸线的门户。这里既是热闹的海鲜码头，渔民和食客往来不绝,又坐拥火山岩海崖、六角形岩柱以及香港联合国教科文组织世界地质公园辖下的离岛美景。当地人爱来这里挑选码头鱼缸里现捞的海鲜大快朵颐，再徒步或乘船深入香港仅存不多、开发程度最低的郊野公园。",
       "getting": "西贡本身没有港铁站，最常见的方式是先乘港铁到彩虹站，再转乘绿色小巴（1A线）或巴士（92号线，钻石山亦可搭乘）前往西贡海边的巴士总站，视乎接驳情况，全程大约需要20至40分钟；如从九龙市区乘的士前往，车程约30至40分钟。",
       "days": "若只想逛逛海鲜大道、老街小巷，再来一趟短程离岛船游，大约安排一天即可；如果还想加上一段正式的远足或地质公园游船体验，建议预留约两天时间。"
+    },
+    "ja": {
+      "blurb": "香港の「バックガーデン(裏庭)」として知られる西貢(サイクン)は、かつての漁村から、この地域で最も手つかずの海岸線への玄関口へと姿を変えた町です。埠頭には今も現役の魚市場が並び、その背後には火山活動によって形成された海食崖や六角形の柱状岩、香港ユネスコ世界地質公園に属する離島群がそびえています。地元の人々は埠頭の生け簀から直接すくい上げた海鮮を食べに訪れ、その後はハイキングや船で、香港に残る数少ない未開発の郊野公園へと足を延ばします。",
+      "getting": "西貢(サイクン)にはMTRの駅がないため、まずMTRで彩虹(チョイホン)駅まで行き、そこから緑色ミニバス(1A系統)またはバス(92系統、鑽石山(ダイヤモンドヒル)からも利用可)に乗り換えて、西貢のウォーターフロントにあるバスターミナルへ向かうのが一般的なルートです。乗り換え状況によって所要時間はおよそ20〜40分ほど。九龍市街地からタクシーを利用する場合は、約30〜40分かかります。",
+      "days": "海鮮プロムナードや旧市街の路地散策、短い離島クルーズだけなら1日ほどで十分楽しめます。本格的なハイキングや地質公園クルーズも組み合わせたいなら、2日ほど予定しておくのがおすすめです。"
     }
   },
   "Sheung Wan": {
@@ -7055,6 +7060,163 @@
       "blurb": "沙田是香港新界一座依水而建的新市镇,高楼林立的密集住宅区与区内一些最引人注目的文化古迹交相辉映——从需拾级而上、途经金色佛像的万佛寺,到香港两大跑马场之一的沙田马场看台,皆坐落于此。城中村河穿城而过,为沙田带来一片绿意盎然、宜于漫步的滨水岸线,这在香港的卫星城镇中实属难得。",
       "getting": "前往沙田可乘搭港铁东铁线于沙田站下车,该线路由港岛金钟出发,途经九龙,一路延伸至新界;大多数游客都是从香港岛或九龙市区转乘东铁线抵达。此外,也有直达巴士连接香港国际机场与沙田地区,车程视路况而定,通常不足一小时。",
       "days": "游览沙田的主要景点——万佛寺登山之旅、滨河公园,以及沙田马场或香港文化博物馆二选一——大约安排一天即可;若想将两大主要景点一并纳入行程,并悠闲地沿河漫步,建议安排两天时间较为从容。"
+    }
+  },
+  "Aberdeen": {
+    "en": {
+      "blurb": "Aberdeen is a former fishing settlement on the south side of Hong Kong Island, where a working typhoon shelter still crowds with sampans, junks, and houseboats beneath a wall of high-rises. Its harbour long drew fame for the giant Jumbo Floating Restaurant — a landmark that closed in 2020 and capsized in the South China Sea in 2022 while under tow, so today the appeal lies in the sampan rides, the Aberdeen Promenade, and the visible boat-dwelling community rather than that restaurant itself.",
+      "getting": "There's no MTR station actually called \"Aberdeen\" — the closest stops are Wong Chuk Hang and Ocean Park on the South Island Line, from which taxis, minibuses, or a short bus ride reach the harbourfront; alternatively, regular buses run directly from Central/Exchange Square on Hong Kong Island. Journeys from Central take roughly 15–20 minutes depending on traffic.",
+      "days": "Aberdeen is best treated as a half-day (2–3 hour) side trip — enough time for a walk along the promenade, a short sampan ride through the typhoon shelter, and a look at Ap Lei Chau across the water — rather than a full day on its own."
+    },
+    "ko": {
+      "blurb": "애버딘(Aberdeen)은 홍콩섬 남쪽에 위치한 옛 어촌 마을로, 고층 빌딩 숲 아래 지금도 태풍 피난처(typhoon shelter)에는 삼판선과 정크선, 하우스보트가 빽빽하게 모여 있는 현역 항구입니다. 이곳은 오랫동안 거대한 점보 플로팅 레스토랑(Jumbo Floating Restaurant)으로 유명세를 떨쳤지만, 이 랜드마크는 2020년에 문을 닫았고 2022년에는 예인 중 남중국해에서 침몰하고 말았습니다. 그래서 오늘날 애버딘의 매력은 그 레스토랑 자체가 아니라 삼판선 투어, 애버딘 프롬나드(Aberdeen Promenade), 그리고 눈앞에서 볼 수 있는 수상 생활 공동체의 모습에 있습니다.",
+      "getting": "사실 \"애버딘\"이라는 이름의 MTR역은 따로 없습니다. 가장 가까운 역은 사우스아일랜드선(South Island Line)의 웡추항(Wong Chuk Hang)역과 오션파크(Ocean Park)역으로, 여기서 택시나 미니버스를 타거나 버스로 조금만 이동하면 항구 지역에 도착할 수 있습니다. 또는 홍콩섬 센트럴/익스체인지 스퀘어(Central/Exchange Square)에서 애버딘까지 직행하는 일반 버스도 운행됩니다. 센트럴에서는 교통 상황에 따라 대략 15~20분 정도 걸립니다.",
+      "days": "애버딘은 하루 전체를 투자할 목적지라기보다는 반나절(2~3시간) 정도의 짧은 여행지로 즐기기 좋습니다. 프롬나드를 따라 산책하고, 태풍 피난처에서 짧은 삼판선 투어를 즐기고, 바다 건너 압레이차우(Ap Lei Chau)를 바라보는 정도면 충분한 일정입니다."
+    },
+    "ja": {
+      "blurb": "アバディーン(香港仔)は香港島南岸にあるかつての漁村で、今も現役の避風塘(台風避難港)には、高層ビル群を背景にサンパン船やジャンク船、家船がひしめき合っています。かつてこの港を有名にしたのは巨大な「ジャンボ・フローティング・レストラン」でしたが、2020年に閉業し、2022年には曳航中に南シナ海で沈没してしまいました。そのため現在の見どころは、そのレストランそのものではなく、サンパン船クルーズやアバディーン・プロムナード、そして今も残る水上生活者の暮らしぶりにあります。",
+      "getting": "実は「アバディーン」という名前のMTR駅は存在しません。最寄り駅は南島線(サウス・アイランド・ライン)の黄竹坑(ウォン・チョク・ハン)または海洋公園(オーシャンパーク)で、そこからタクシーやミニバス、あるいは短時間のバスで港周辺まで行けます。もう一つの方法として、香港島の中心部・セントラル/交易広場(エクスチェンジスクエア)から直通バスも運行しています。セントラルからは交通状況にもよりますが、だいたい15〜20分程度です。",
+      "days": "アバディーンは半日(2〜3時間程度)の小旅行先として楽しむのがおすすめです。プロムナード沿いの散策、避風塘を巡る短いサンパン船クルーズ、そして水を挟んで見える香港島側のアプリチャウ(鴨脷洲)の眺めを楽しむには十分な時間で、丸一日をかけて訪れるような場所ではありません。"
+    },
+    "es": {
+      "blurb": "Aberdeen es un antiguo asentamiento pesquero en el lado sur de la isla de Hong Kong, donde un refugio para tifones aún en funcionamiento se llena de sampanes, juncos y casas flotantes bajo una muralla de rascacielos. Su puerto fue durante mucho tiempo famoso por el gigantesco Jumbo Floating Restaurant, un hito que cerró en 2020 y que zozobró en el Mar de China Meridional en 2022 mientras era remolcado. Por eso, hoy el atractivo radica en los paseos en sampán, el Aberdeen Promenade y la comunidad que aún vive a bordo de sus embarcaciones, más que en aquel restaurante.",
+      "getting": "En realidad no existe una estación de MTR llamada \"Aberdeen\": las paradas más cercanas son Wong Chuk Hang y Ocean Park, en la South Island Line, desde donde se puede llegar al malecón en taxi, minibús o un breve trayecto en autobús. También hay autobuses regulares que van directamente desde Central/Exchange Square, en la isla de Hong Kong. El trayecto desde Central toma entre 15 y 20 minutos, según el tráfico.",
+      "days": "Lo mejor es visitar Aberdeen como una excursión de medio día (unas 2 o 3 horas), tiempo suficiente para caminar por el malecón, dar un breve paseo en sampán por el refugio para tifones y contemplar Ap Lei Chau al otro lado del agua, en lugar de dedicarle un día completo."
+    }
+  },
+  "Nashville": {
+    "en": {
+      "blurb": "Nashville, Tennessee's capital, is the beating heart of American country music, anchored by the Grand Ole Opry and a honky-tonk-lined Lower Broadway. Known as \"Music City,\" it blends live-music culture with Southern food, riverside charm, and a fast-growing skyline.",
+      "getting": "Most travelers fly into Nashville International Airport (BNA), located a few miles southeast of downtown; from there, WeGo Public Transit's Route 18 bus connects the terminal to the downtown transit center, while taxis and rideshares are also readily available at the Ground Transportation area. <cite index=\"12-1\">WeGo Public Transit's Route 18 travels between Nashville International Airport (BNA) and the Elizabeth Duff Transit Center at WeGo Central in downtown Nashville, where passengers can easily connect to other routes.</cite>",
+      "days": "Plan on ~2-3 days to cover downtown's music venues, honky-tonks, and museums, with extra time if you want to explore neighborhoods like East Nashville or take a day trip into the surrounding Tennessee countryside."
+    },
+    "ko": {
+      "blurb": "테네시주의 주도인 내슈빌은 미국 컨트리 음악의 심장부로, 그랜드 올 오프리(Grand Ole Opry)와 혼키통크 바들이 즐비한 로어 브로드웨이(Lower Broadway)를 중심으로 살아 숨쉬는 도시입니다. \"뮤직 시티(Music City)\"라는 애칭으로 불리는 이곳은 라이브 음악 문화와 남부 특유의 음식, 강변의 정취, 빠르게 성장하는 스카이라인이 어우러진 매력을 자랑합니다.",
+      "getting": "대부분의 여행자는 다운타운에서 남동쪽으로 몇 마일 떨어진 내슈빌 국제공항(BNA)을 이용해 도착합니다. 공항에서는 위고 퍼블릭 트랜짓(WeGo Public Transit)의 18번 버스를 타면 다운타운 환승 센터로 이동할 수 있으며, 지상 교통 구역(Ground Transportation)에서 택시와 라이드셰어 서비스도 쉽게 이용할 수 있습니다. 위고 퍼블릭 트랜짓의 18번 버스는 내슈빌 국제공항(BNA)과 다운타운 내슈빌에 위치한 위고 센트럴(WeGo Central)의 엘리자베스 더프 환승 센터(Elizabeth Duff Transit Center) 사이를 운행하며, 이곳에서 다른 노선으로도 편리하게 환승할 수 있습니다.",
+      "days": "다운타운의 음악 공연장, 혼키통크, 박물관 등을 둘러보려면 약 2~3일 정도를 계획하시고, 이스트 내슈빌(East Nashville) 같은 개성 있는 동네를 탐방하거나 주변 테네시 전원 지역으로 당일치기 여행을 다녀오고 싶다면 여유 시간을 더 두시는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "テネシー州の州都ナッシュビルは、アメリカン・カントリーミュージックの心臓部とも言える街。グランド・オール・オープリーを中心に、ロウワー・ブロードウェイにはホンキートンクが軒を連ねます。「ミュージック・シティ」の名で知られるこの街では、ライブミュージック文化と南部料理、リバーサイドの情緒、そして急速に発展するスカイラインが融合しています。",
+      "getting": "多くの旅行者はナッシュビル国際空港(BNA)を利用します。空港はダウンタウンから南東に数マイルの場所にあり、WeGoパブリックトランジットの18番バスでターミナルからダウンタウンのトランジットセンターまでアクセス可能。タクシーやライドシェアも「グラウンド・トランスポーテーション」エリアで簡単に利用できます。WeGoパブリックトランジットの18番バスは、ナッシュビル国際空港(BNA)とダウンタウンにあるWeGoセントラル内のエリザベス・ダフ・トランジットセンターを結んでおり、そこから他の路線への乗り換えもスムーズです。",
+      "days": "ダウンタウンのライブ音楽会場、ホンキートンク、博物館を巡るなら2〜3日ほどを目安に。イーストナッシュビルなどの individuality あるエリアを探索したり、テネシー州の田園地帯へ日帰り旅行をしたりする場合は、さらに日程を延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Nashville, la capital de Tennessee, es el corazón palpitante de la música country estadounidense, con el Grand Ole Opry como epicentro y una Lower Broadway repleta de honky-tonks. Conocida como la \"Ciudad de la Música\", combina la cultura de la música en vivo con la gastronomía sureña, el encanto junto al río y un horizonte urbano en constante crecimiento.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Nashville (BNA), ubicado a pocos kilómetros al sureste del centro de la ciudad; desde allí, el autobús de la Ruta 18 de WeGo Public Transit conecta la terminal con el centro de transporte del centro urbano, y también hay taxis y servicios de transporte privado disponibles en la zona de Transporte Terrestre. La Ruta 18 de WeGo Public Transit circula entre el Aeropuerto Internacional de Nashville (BNA) y el Elizabeth Duff Transit Center en WeGo Central, en el centro de Nashville, donde los pasajeros pueden conectar fácilmente con otras rutas.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer los locales de música, los honky-tonks y los museos del centro, y contar con tiempo adicional si se desea explorar barrios como East Nashville o hacer una excursión de un día por el campo circundante de Tennessee."
+    },
+    "zh": {
+      "blurb": "纳什维尔是田纳西州的首府,也是美国乡村音乐的心脏地带,老牌殿堂大奥普里(Grand Ole Opry)和两旁林立乡村酒吧(honky-tonk)的下宽街(Lower Broadway)是这里的标志。素有“音乐之城”之称的纳什维尔,将现场音乐文化与南方美食、河畔风情以及日新月异的城市天际线完美融合。",
+      "getting": "大多数游客会飞抵纳什维尔国际机场(BNA),该机场位于市中心东南方向几英里处。从机场出发,可搭乘WeGo公共交通的18号线巴士前往市中心的交通枢纽;出租车和网约车在“地面交通区”(Ground Transportation)也随时可用。WeGo公共交通的18号线往返于纳什维尔国际机场(BNA)与市中心WeGo Central内的伊丽莎白·达夫交通中心(Elizabeth Duff Transit Center)之间,乘客可在此便捷换乘其他线路。",
+      "days": "建议安排2-3天时间游览市中心的音乐场馆、乡村酒吧和各类博物馆;如果还想探索东纳什维尔(East Nashville)等特色街区,或前往周边田纳西乡村地区一日游,则需预留更多时间。"
+    }
+  },
+  "Mont Saint-Michel": {
+    "en": {
+      "blurb": "Rising from a vast tidal bay on France's Normandy-Brittany border, Mont Saint-Michel is a fortified island abbey whose granite spire has drawn pilgrims and travellers for over a thousand years. Its dramatic silhouette, framed by Europe's most extreme tides, makes it one of the most photographed and visited sites in the country.",
+      "getting": "There's no train station on the Mont itself — most travellers take a TGV to Rennes (~1h30 from Paris) and connect via a regional bus, or ride a regional train to Pontorson–Mont-Saint-Michel station (~9km away) and finish the journey on a shuttle bus. The nearest airport is Rennes-Saint-Jacques (RNS), roughly 75km from the site.",
+      "days": "Plan on ~1-2 days: a single day covers the abbey and village, while an overnight stay lets you see the Mount lit up at night and take in the shifting tides at sunrise or sunset."
+    },
+    "ko": {
+      "blurb": "프랑스 노르망디와 브르타뉴의 경계, 광활한 갯벌만에서 우뚝 솟아난 몽생미셸은 화강암 첨탑을 자랑하는 요새화된 섬 수도원으로, 천 년이 넘는 세월 동안 순례자와 여행자들의 발길을 이끌어 왔습니다. 유럽에서 가장 극적인 조수 간만의 차를 배경으로 펼쳐지는 그 인상적인 실루엣은, 프랑스에서 가장 많이 사진에 담기고 방문객이 몰리는 명소 중 하나로 만들어 줍니다.\",\"getting\":\"몽생미셸 섬 안에는 기차역이 없습니다. 대부분의 여행자는 TGV를 타고 렌(Rennes)까지 이동한 뒤(파리에서 약 1시간 30분) 지역 버스로 갈아타거나, 지역 열차를 이용해 퐁토르송-몽생미셸(Pontorson–Mont-Saint-Michel)역(약 9km 거리)까지 간 뒤 셔틀버스로 마무리합니다. 가장 가까운 공항은 렌-생자크(RNS) 공항으로, 몽생미셸에서 약 75km 떨어져 있습니다.\",\"days\":\"1~2일 정도를 계획하면 좋습니다. 하루면 수도원과 마을을 둘러볼 수 있고, 하룻밤 머문다면 밤에 조명이 켜진 몽생미셸의 모습과 해돋이나 해질 무렵 시시각각 변하는 조수의 풍경까지 감상할 수 있습니다.",
+      "getting": "프랑스 노르망디와 브르타뉴의 경계, 광활한 갯벌만에서 우뚝 솟아난 몽생미셸은 화강암 첨탑을 자랑하는 요새화된 섬 수도원으로, 천 년이 넘는 세월 동안 순례자와 여행자들의 발길을 이끌어 왔습니다. 유럽에서 가장 극적인 조수 간만의 차를 배경으로 펼쳐지는 그 인상적인 실루엣은, 프랑스에서 가장 많이 사진에 담기고 방문객이 몰리는 명소 중 하나로 만들어 줍니다.",
+      "days": "1~2일 정도를 계획하면 좋습니다. 하루면 수도원과 마을을 둘러볼 수 있고, 하룻밤 머문다면 밤에 조명이 켜진 몽생미셸의 모습과 해돋이나 해질 무렵 시시각각 변하는 조수의 풍경까지 감상할 수 있습니다."
+    },
+    "ja": {
+      "blurb": "フランスのノルマンディーとブルターニュの境にある広大な干潟から浮かび上がるモン・サン・ミッシェルは、花崗岩の尖塔を持つ要塞化された島の修道院で、千年以上にわたり巡礼者や旅人たちを魅了してきました。ヨーロッパ屈指の激しい潮の変化に縁取られたその印象的なシルエットは、フランス国内でも最も撮影され、最も多くの人が訪れる名所のひとつとなっています。",
+      "getting": "モン・サン・ミッシェル自体には駅がないため、多くの旅行者はTGVでレンヌ(パリから約1時間30分)まで行き、そこから路線バスに乗り換えるか、あるいは近郊列車でポントルソン=モン・サン・ミッシェル駅(モンから約9km)まで行き、最後はシャトルバスで到着するのが一般的です。最寄りの空港はレンヌ・サン・ジャック空港(RNS)で、現地から約75kmの距離にあります。",
+      "days": "滞在期間は1~2日程度がおすすめです。1日あれば修道院と村を見て回ることができますが、一泊すれば夜にライトアップされたモンの姿を眺めたり、日の出や日没時に変化する潮の様子を楽しんだりすることができます。"
+    },
+    "es": {
+      "blurb": "Emergiendo de una vasta bahía de mareas en la frontera entre Normandía y Bretaña, en Francia, el Mont Saint-Michel es una abadía-isla fortificada cuya aguja de granito ha atraído a peregrinos y viajeros durante más de mil años. Su silueta imponente, enmarcada por las mareas más extremas de Europa, la convierte en uno de los lugares más fotografiados y visitados del país.",
+      "getting": "El Mont no cuenta con estación de tren propia: la mayoría de los viajeros toma un TGV hasta Rennes (aprox. 1h30 desde París) y continúa en autobús regional, o bien viaja en tren regional hasta la estación de Pontorson–Mont-Saint-Michel (a unos 9 km de distancia) y completa el trayecto en un autobús de enlace. El aeropuerto más cercano es el de Rennes-Saint-Jacques (RNS), a unos 75 km del sitio.",
+      "days": "Conviene reservar entre 1 y 2 días: en una sola jornada se puede recorrer la abadía y el pueblo, mientras que pasar la noche permite ver el Mont iluminado y contemplar el vaivén de las mareas al amanecer o al atardecer."
+    },
+    "zh": {
+      "blurb": "圣米歇尔山坐落在法国诺曼底与布列塔尼交界处的辽阔潮汐湾中，是一座built有防御工事的岛上修道院，其花岗岩尖顶已吸引朝圣者与旅行者千余年之久。它那被欧洲最极端潮汐环绕的壮丽轮廓，令其成为法国境内被拍摄和造访次数最多的景点之一。",
+      "getting": "圣米歇尔山本身并没有火车站——大多数旅行者会先搭乘TGV高铁抵达雷恩（Rennes，距巴黎约1小时30分钟），再转乘区域巴士前往；也可以乘坐区域列车到蓬托尔松-圣米歇尔山站（Pontorson–Mont-Saint-Michel，距景点约9公里），最后换乘接驳巴士完成全程。距离最近的机场是雷恩圣雅克机场（RNS），距景点约75公里。",
+      "days": "建议安排1-2天行程：一天时间足以游览修道院和山下村落，而留宿一晚则能欣赏夜幕下灯火璀璨的圣米歇尔山，并在日出或日落时分感受潮汐涨落的奇景。"
+    }
+  },
+  "Nikko": {
+    "en": {
+      "blurb": "Nikko is home to the UNESCO-listed Shrines and Temples of Nikko, a mountain complex centered on the lavishly carved Toshogu Shrine, the mausoleum of shogun Tokugawa Ieyasu. Beyond the shrines, the surrounding Nikko National Park offers alpine scenery, hot-spring towns, and highland lakes and waterfalls just a short bus ride further into the mountains.",
+      "getting": "Most travellers reach Nikko by rail from Tokyo, either on the Tobu Railway's limited express trains from Tobu Asakusa Station direct to Tobu-Nikko Station (~2 hours), or via the JR Tohoku Shinkansen to Utsunomiya with a transfer onto the local JR Nikko Line. Once in town, local buses (including the World Heritage loop bus) connect the station area to the main shrine precinct and onward to sites like Lake Chuzenji and Kegon Falls.",
+      "days": "Plan on ~1-2 days: a single day covers the core Toshogu shrine complex as an easy Tokyo day trip, while a second day allows time to head further into the highlands for the lakes, waterfalls, and onsen towns of the wider national park area."
+    },
+    "ko": {
+      "blurb": "닛코는 유네스코 세계문화유산으로 지정된 '닛코의 신사와 사원'이 자리한 곳으로, 쇼군 도쿠가와 이에야스의 영묘인 화려한 조각으로 장식된 도쇼구(東照宮)를 중심으로 한 산악 유적 단지입니다. 신사 구역을 벗어나면 닛코 국립공원이 펼쳐지며, 버스로 조금만 더 산속으로 들어가면 고산 풍경, 온천 마을, 고원 호수와 폭포까지 만나볼 수 있습니다.",
+      "getting": "대부분의 여행객은 도쿄에서 기차로 닛코에 도착합니다. 도부철도(Tobu Railway)의 특급열차를 이용해 도부아사쿠사역(Tobu Asakusa Station)에서 도부닛코역(Tobu-Nikko Station)까지 직행으로 약 2시간이면 도착하며, 또는 JR 도호쿠 신칸센을 타고 우쓰노미야(Utsunomiya)까지 간 뒤 JR 닛코선(JR Nikko Line) 완행열차로 환승하는 방법도 있습니다. 닛코 시내에 도착하면 세계유산 순환버스를 포함한 지역 버스가 역 주변과 주요 신사 구역을 연결하며, 이어서 주젠지호(Lake Chuzenji)와 게곤 폭포(Kegon Falls) 같은 명소로도 이동할 수 있습니다.",
+      "days": "일정은 1~2일 정도가 적당합니다. 하루면 도쇼구 핵심 유적 단지를 둘러보는 도쿄발 당일치기 여행이 가능하며, 이틀째 일정을 추가하면 좀 더 고원 지역까지 들어가 호수와 폭포, 그리고 국립공원 일대의 온천 마을까지 여유롭게 둘러볼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "日光は、世界遺産に登録されている「日光の社寺」で知られる街です。その中心となるのは、豪華な彫刻で名高い日光東照宮。徳川幕府の初代将軍・徳川家康を祀る霊廟として、多くの参拝者を集めています。社寺エリアの先には日光国立公園が広がり、バスでさらに山あいへ足を延ばせば、高原の景観や温泉街、湖や滝など変化に富んだ自然を楽しむことができます。",
+      "getting": "日光へは、東京からの鉄道アクセスが一般的です。東武鉄道の特急列車を利用すれば、東武浅草駅から東武日光駅まで乗り換えなしで約2時間。もう一つの方法として、JR東北新幹線で宇都宮まで行き、そこからJR日光線の普通列車に乗り換えるルートもあります。日光駅周辺に到着した後は、世界遺産巡りバスをはじめとする路線バスが、東照宮を中心とする社寺エリアや、さらに中禅寺湖・華厳の滝といった観光地へと足を運ぶのに便利です。",
+      "days": "滞在の目安は1〜2日です。1日だけなら、東照宮を中心とした社寺エリアを巡る東京発の日帰り旅行として十分楽しめます。もう1日足を延ばせば、日光国立公園の奥にある湖や滝、温泉街まで訪れる時間を確保できます。"
+    },
+    "es": {
+      "blurb": "Nikko alberga los Santuarios y Templos de Nikko, declarados Patrimonio de la Humanidad por la UNESCO, un complejo de montaña centrado en el suntuosamente tallado Santuario Toshogu, mausoleo del shogun Tokugawa Ieyasu. Más allá de los santuarios, el Parque Nacional de Nikko que lo rodea ofrece paisajes alpinos, pueblos de aguas termales, y lagos y cascadas de montaña a poca distancia en autobús, ya más adentro de las montañas.",
+      "getting": "La mayoría de los viajeros llega a Nikko en tren desde Tokio, ya sea en los trenes exprés limitados de la compañía Tobu Railway, que salen de la estación de Tobu Asakusa directamente hasta la estación de Tobu-Nikko (unas 2 horas), o bien tomando el Shinkansen Tohoku de JR hasta Utsunomiya y haciendo transbordo a la línea local JR Nikko. Una vez en la ciudad, autobuses locales (incluido el autobús circular del Patrimonio Mundial) conectan la zona de la estación con el recinto principal de los santuarios y, más adelante, con lugares como el lago Chuzenji y las cataratas Kegon.",
+      "days": "Se recomienda dedicar entre 1 y 2 días: un solo día basta para recorrer el núcleo del complejo del santuario Toshogu como una sencilla excursión de un día desde Tokio, mientras que un segundo día permite adentrarse más en las tierras altas para disfrutar de los lagos, las cascadas y los pueblos de onsen de la zona más amplia del parque nacional."
+    },
+    "zh": {
+      "blurb": "日光坐落着被列入联合国教科文组织世界遗产名录的\"日光的神社与寺院\",这是一处以雕饰华美的东照宫为中心的山地建筑群，东照宫正是德川幕府第一代将军德川家康的陵墓所在。除了这些古老的神社寺院外，周边的日光国立公园还拥有壮丽的高山风光、温泉小镇，以及高原湖泊与瀑布，只需再乘坐一小段巴士深入山区便可抵达。",
+      "getting": "大多数游客从东京乘火车前往日光，主要有两种方式：一是搭乘东武铁道从浅草站发出的特急列车，直达东武日光站（约2小时）；二是乘坐JR东北新干线到宇都宫，再换乘JR日光线的普通列车。抵达日光后，当地巴士（包括世界遗产巡回巴士）可将车站附近区域与主要神社群相连，并进一步前往中禅寺湖、华严瀑布等景点。",
+      "days": "建议安排1-2天行程：一天时间足以轻松完成东照宫核心建筑群的东京一日游；若安排两天，则可以再深入高原地区，探访日光国立公园内的湖泊、瀑布与温泉小镇，行程更为从容。"
+    }
+  },
+  "Nusa Penida": {
+    "en": {
+      "blurb": "Nusa Penida is a rugged limestone island off Bali's southeast coast, famous for dramatic clifftop viewpoints like Kelingking and Broken Beach, turquoise bays, and manta ray dive sites. Its rough, sparsely developed interior and coastline feel far removed from mainland Bali despite being only a short boat ride away.",
+      "getting": "There is no airport on Nusa Penida — travelers fly into Bali's Ngurah Rai International Airport (DPS) near Denpasar, then take a taxi to the coast and board a fast boat, most commonly from Sanur (with Padang Bai/Kusamba as alternatives), for the ~30–45 minute crossing to the island's harbors.",
+      "days": "Most visitors spend ~2-3 days on Nusa Penida, enough time to cover the island's east and west coast viewpoints and beaches without rushing between sights on its winding, hilly roads."
+    },
+    "ko": {
+      "blurb": "누사페니다는 발리 남동쪽 해안에 자리한 거친 석회암 섬으로, 클링킹(Kelingking)과 브로큰 비치(Broken Beach) 같은 극적인 절벽 전망대, 에메랄드빛 만, 그리고 만타가오리 다이빙 명소로 유명하다. 험준하고 개발이 거의 이루어지지 않은 내륙과 해안선은 배로 잠깐이면 닿을 수 있는 거리임에도 발리 본섬과는 완전히 다른 세계처럼 느껴진다.",
+      "getting": "누사페니다에는 공항이 없다. 여행자들은 먼저 덴파사르 인근에 있는 발리의 응우라라이 국제공항(DPS)으로 입국한 뒤, 택시를 타고 해안으로 이동해 쾌속보트에 탑승한다. 보통 사누르(Sanur)에서 출발하며 파당바이(Padang Bai)나 쿠삼바(Kusamba)도 대안이 될 수 있고, 섬의 항구까지는 약 30~45분이 소요된다.",
+      "days": "대부분의 여행자는 누사페니다에서 약 2~3일을 보낸다. 구불구불한 언덕길을 서두르지 않고도 섬 동쪽과 서쪽 해안의 전망대와 해변을 둘러보기에 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "ヌサペニダは、バリ島の南東沖に浮かぶ、荒々しい石灰岩の島です。ケリンキンやブロークンビーチといった圧巻の断崖絶壁の絶景ポイント、ターコイズブルーの入り江、マンタと出会えるダイビングスポットで知られています。バリ本島からわずか短いボートの距離にあるにもかかわらず、開発があまり進んでいない荒々しい内陸部や海岸線は、本島とはまったく異なる雰囲気を醸し出しています。",
+      "getting": "ヌサペニダには空港がないため、まずバリ島のデンパサール近郊にあるングラライ国際空港(DPS)に到着し、そこからタクシーで海岸まで移動します。最も一般的なのはサヌールから出るスピードボートで(パダンバイやクサンバも代替ルートとして利用可能)、約30~45分の船旅で島の港に到着します。",
+      "days": "多くの旅行者はヌサペニダで2~3日ほど過ごします。この期間があれば、島の東海岸と西海岸それぞれの絶景ポイントやビーチを、曲がりくねった丘陵地帯の道を慌てず巡ることができます。"
+    },
+    "es": {
+      "blurb": "Nusa Penida es una isla escarpada de piedra caliza frente a la costa sureste de Bali, famosa por sus impresionantes miradores en acantilados como Kelingking y Broken Beach, sus bahías de aguas turquesas y sus sitios de buceo con mantarrayas. Su interior agreste y poco desarrollado, junto con su litoral, hacen que se sienta muy alejada de la Bali continental, aunque en realidad esté a solo un corto trayecto en barco.",
+      "getting": "Nusa Penida no tiene aeropuerto propio: los viajeros llegan al Aeropuerto Internacional Ngurah Rai (DPS) de Bali, cerca de Denpasar, y desde allí toman un taxi hasta la costa para abordar una lancha rápida, generalmente desde Sanur (con Padang Bai o Kusamba como alternativas), para el cruce de unos 30 a 45 minutos hasta los puertos de la isla.",
+      "days": "La mayoría de los visitantes pasa entre 2 y 3 días en Nusa Penida, tiempo suficiente para recorrer sin prisas los miradores y playas de las costas este y oeste de la isla, a pesar de sus carreteras sinuosas y montañosas."
+    },
+    "zh": {
+      "blurb": "努萨佩尼达岛是巴厘岛东南海岸外的一座崎岖石灰岩岛屿,以坚寧克利钉（Kelingking）、断岩海滩（Broken Beach）等令人惊叹的悬崖观景点、碧蓝海湾以及蝠鲂鱼潜点闻名遐迩。尽管乘船即可轻松抵达，但岛内地势崎岖、开发稀少，与巴厘岛本岛相比，宛如另一个天地。",
+      "getting": "努萨佩尼达岛本身没有机场，游客需先飞抵巴厘岛登巴萨附近的伍拉·赖国际机场（DPS），再打车前往海边码头，搭乘快艇前往努萨佩尼达。最常见的出发点是萨努尔（Sanur），也可选择巴东巴伊（Padang Bai）或库萨姆巴（Kusamba），航程约30至45分钟即可抵达岛上码头。",
+      "days": "大多数游客会在努萨佩尼达停留约2至3天，这样的时间足以从容游览岛上东西海岸的观景点和海滩，而不必在蜿蜒起伏的山路上匆忙赶场。"
+    }
+  },
+  "Stanley": {
+    "en": {
+      "blurb": "Stanley is a former fishing village on Hong Kong Island's south coast, best known for its bustling waterfront market stalls, the colonial-era Murray House, and a laid-back seafront lined with alfresco bars and restaurants. It offers a slower, beach-town contrast to Hong Kong's high-rise core, just a short bus ride over the island's hills.",
+      "getting": "Stanley has no MTR station, so the typical route is by bus from the Exchange Square terminus in Central (routes such as 6, 6X, 66 or 260), a scenic ride over the hills or through the Aberdeen Tunnel that takes roughly 40-50 minutes; taxis and minibuses from Causeway Bay are also common alternatives.",
+      "days": "Half a day is enough to cover the market stalls, Murray House and the waterfront promenade, while a full day allows time to add a beach stop at nearby Repulse Bay."
+    },
+    "ko": {
+      "blurb": "스탠리는 홍콩 섬 남쪽 해안에 위치한 옛 어촌 마을로, 활기 넘치는 워터프런트 시장 거리와 식민지 시대의 정취를 간직한 머레이 하우스(Murray House), 그리고 야외 바와 레스토랑이 줄지어 선 여유로운 해변가로 잘 알려져 있습니다. 홍콩 도심의 고층 빌딩 숲과는 대조적으로 느긋한 해변 마을의 분위기를 느낄 수 있는 이곳은, 섬의 언덕을 넘어 버스로 잠깐만 이동하면 닿을 수 있습니다.\",\"getting\":\"스탠리에는 MTR 역이 없기 때문에, 보통 센트럴의 익스체인지 스퀘어(Exchange Square) 버스 터미널에서 6번, 6X번, 66번, 260번 등의 버스를 타고 이동합니다. 언덕을 넘거나 애버딘 터널(Aberdeen Tunnel)을 지나는 경치 좋은 노선으로, 약 40~50분이 소요됩니다. 코즈웨이베이에서 택시나 미니버스를 이용하는 것도 흔한 대안입니다.",
+      "getting": "스탠리에는 MTR 역이 없기 때문에, 보통 센트럴의 익스체인지 스퀘어(Exchange Square) 버스 터미널에서 6번, 6X번, 66번, 260번 등의 버스를 타고 이동합니다. 언덕을 넘거나 애버딘 터널(Aberdeen Tunnel)을 지나는 경치 좋은 노선으로, 약 40~50분이 소요됩니다. 코즈웨이베이에서 택시나 미니버스를 이용하는 것도 흔한 대안입니다.",
+      "days": "반나절이면 시장 거리와 머레이 하우스, 해변 산책로를 둘러보기에 충분하며, 하루를 온전히 투자하면 인근 리펄스 베이(Repulse Bay)에서 해변까지 즐길 여유가 생깁니다."
+    },
+    "ja": {
+      "blurb": "スタンレー(赤柱)は香港島南部の海岸にあるかつての漁村で、賑やかな海沿いの市場、植民地時代の建物マレー・ハウス、そしてオープンエアのバーやレストランが並ぶのんびりした海岸通りで知られています。香港島の高層ビル群とは対照的な、ゆったりとしたビーチタウンの雰囲気を味わえる場所で、島の丘を越えてバスで少し行くだけでアクセスできます。",
+      "getting": "スタンレーにはMTRの駅がないため、一般的なアクセス方法はセントラルのエクスチェンジ・スクエア発のバス(6番、6X番、66番、260番など)です。丘を越えるルートやアバディーン・トンネルを通るルートがあり、所要時間は40〜50分ほど。景色を楽しめる道中です。コーズウェイベイからのタクシーやミニバスもよく使われる移動手段です。",
+      "days": "市場、マレー・ハウス、海沿いの遊歩道を巡るだけなら半日で十分です。1日かければ、近くのレパルス・ベイでビーチに立ち寄る時間も作れます。"
+    },
+    "es": {
+      "blurb": "Stanley es un antiguo pueblo de pescadores en la costa sur de la Isla de Hong Kong, conocido sobre todo por sus animados puestos de mercado junto al mar, la Murray House de la época colonial y un relajado paseo marítimo repleto de bares y restaurantes al aire libre. Ofrece un ambiente de pueblo costero, mucho más tranquilo, en contraste con el bullicio de rascacielos del centro de Hong Kong, a solo un corto trayecto en autobús cruzando las colinas de la isla.",
+      "getting": "Stanley no tiene estación de MTR, así que la forma habitual de llegar es en autobús desde la terminal de Exchange Square, en Central (líneas como la 6, 6X, 66 o 260), un trayecto panorámico que cruza las colinas o pasa por el Túnel de Aberdeen y dura entre 40 y 50 minutos aproximadamente; los taxis y los minibuses desde Causeway Bay también son alternativas muy utilizadas.",
+      "days": "Medio día es suficiente para recorrer los puestos del mercado, la Murray House y el paseo marítimo, mientras que un día completo permite además hacer una parada en la playa de Repulse Bay, muy cerca de allí."
+    },
+    "zh": {
+      "blurb": "赤柱是香港岛南岸一座昔日的渔村，以熙熙攘攘的海旁市集摊档、殖民地时期建筑美利楼，以及沿海一带悠闲的露天酒吧和餐厅而闻名。相比香港高楼林立的市区，这里节奏更慢，透着一股海滨小镇的悠闲气息，只需乘坐巴士翻过港岛的山岭即可到达。",
+      "getting": "赤柱没有港铁站，通常的做法是从中环交易广场巴士总站乘坐巴士前往（如6、6X、66或260号线），沿途翻山越岭或穿过香港仔隧道，车程大约40至50分钟；此外，从铜锣湾搭乘的士或小巴前往也是常见的选择。",
+      "days": "半天时间足够逛完市集摊档、美利楼和海旁长廊；若安排一整天，还可以顺道前往邻近的浅水湾享受沙滩时光。"
     }
   }
 }
