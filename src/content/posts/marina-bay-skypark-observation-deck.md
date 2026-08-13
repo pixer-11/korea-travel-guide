@@ -38,6 +38,15 @@ place:
       - 20
       - 21
     venueId: ven_67774b433630613942304d52497765763253396645654f4a496843
+  phone: '+65 6688 8826'
+  openingHours:
+    - 'Monday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 9:30 AM – 4:30 PM, 5:00 – 10:00 PM'
 tags:
   - marina bay
   - top attraction

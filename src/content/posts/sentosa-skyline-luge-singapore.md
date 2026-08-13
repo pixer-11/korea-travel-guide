@@ -27,15 +27,8 @@ place:
   lng: 103.8173674
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 18
-      - 19
-      - 20
-      - 21
-    weekendQuiet:
-      - 20
-      - 21
+    weekdayQuiet: [10, 18, 19, 20]
+    weekendQuiet: [20]
     weekendBusy:
       - 12
       - 13
@@ -45,6 +38,15 @@ place:
       - 17
       - 18
     venueId: ven_456749356f7a527533743352456a3262346636724831734a496843
+  phone: '+65 6274 0472'
+  openingHours:
+    - 'Monday: 10:00 AM – 7:30 PM'
+    - 'Tuesday: 10:00 AM – 7:30 PM'
+    - 'Wednesday: 10:00 AM – 7:30 PM'
+    - 'Thursday: 10:00 AM – 7:30 PM'
+    - 'Friday: 10:00 AM – 9:30 PM'
+    - 'Saturday: 10:00 AM – 9:30 PM'
+    - 'Sunday: 10:00 AM – 7:30 PM'
 tags:
   - sentosa
   - top attraction

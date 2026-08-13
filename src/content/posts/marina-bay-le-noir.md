@@ -20,6 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.2845342
   lng: 103.8589185
+  phone: '+65 8684 2122'
+  openingHours:
+    - 'Monday: 3:00 PM – 1:00 AM'
+    - 'Tuesday: 3:00 PM – 1:00 AM'
+    - 'Wednesday: 3:00 PM – 1:00 AM'
+    - 'Thursday: 3:00 PM – 1:00 AM'
+    - 'Friday: 3:00 PM – 2:00 AM'
+    - 'Saturday: 11:30 AM – 2:00 AM'
+    - 'Sunday: 11:30 AM – 1:00 AM'
 tags:
   - marina bay
   - local restaurant

@@ -37,6 +37,15 @@ place:
       - 21
       - 22
     venueId: ven_67494a346b743578356b4552456a325a306f77483857524a496843
+  phone: '+65 6238 8228'
+  openingHours:
+    - 'Monday: 12:00 PM – 12:00 AM'
+    - 'Tuesday: 12:00 PM – 12:00 AM'
+    - 'Wednesday: 12:00 PM – 12:00 AM'
+    - 'Thursday: 12:00 PM – 12:00 AM'
+    - 'Friday: 12:00 PM – 12:00 AM'
+    - 'Saturday: 12:00 PM – 12:00 AM'
+    - 'Sunday: 12:00 PM – 12:00 AM'
 tags:
   - orchard road
   - top attraction

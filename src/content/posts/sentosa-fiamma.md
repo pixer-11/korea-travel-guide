@@ -20,6 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.2492482
   lng: 103.82445129999999
+  phone: '+65 6591 5046'
+  openingHours:
+    - 'Monday: 12:00 – 10:30 PM'
+    - 'Tuesday: 12:00 – 10:30 PM'
+    - 'Wednesday: 12:00 – 10:30 PM'
+    - 'Thursday: 12:00 – 10:30 PM'
+    - 'Friday: 12:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 10:30 PM'
 tags:
   - sentosa
   - local restaurant
