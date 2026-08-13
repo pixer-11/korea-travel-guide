@@ -14,11 +14,23 @@ while ((Get-Date) -lt $deadline) {
 }
 "prose runner settled $(Get-Date -Format o)" | Out-File -Append -Encoding utf8 $log
 
+# The checkout is inside %TEMP%, which Windows Disk Cleanup empties. Restore
+# anything it took before staging a whole directory below.
+node scripts\heal-worktree.mjs 2>&1 | Out-File -Append -Encoding utf8 $log
 node scripts\backfill-photos-alt.mjs 2>&1 | Out-File -Append -Encoding utf8 $log
 node scripts\validate-content.mjs 2>&1 | Out-File -Append -Encoding utf8 $log
 $diff = git status --porcelain src/content/posts data/visual-audit.json
 if ($diff) {
   git add src/content/posts data/visual-audit.json
+  # This sweep adds photos to posts; it never retires one. Any staged deletion
+  # is damage (a purged checkout), and pushing it would delete live articles --
+  # the 2026-07-26 accident that cost 40% of traffic.
+  $doomed = git diff --cached --name-only --diff-filter=D
+  if ($doomed) {
+    git reset --quiet
+    "ABORT: staged deletions, refusing to commit: $doomed" | Out-File -Append -Encoding utf8 $log
+    exit 1
+  }
   git commit -m "fix: photoless live events join the photo patrol - first sweep" -m "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
   git push origin main
 }
