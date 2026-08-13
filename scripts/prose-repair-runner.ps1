@@ -1,6 +1,6 @@
 # One-shot detached runner (ASCII only): finish the prose repair queue,
 # validate, commit. Survives harness timeouts. Started 2026-08-10.
-Set-Location 'C:\Users\user\AppData\Local\Temp\wa-main'
+Set-Location 'C:\Users\user\wa-main'
 $log = "$env:TEMP\prose-repair.log"
 "start $(Get-Date -Format o)" | Out-File -Encoding utf8 $log
 # The checkout is inside %TEMP%, which Windows Disk Cleanup empties. Restore

@@ -1,7 +1,7 @@
 /**
  * Reading a wrecked working tree — the shared checkout lives in %TEMP%.
  *
- * C:\Users\user\AppData\Local\Temp\wa-main is a linked worktree whose git dir
+ * C:\Users\user\wa-main is a linked worktree whose git dir
  * sits safely on the Desktop, but the *checkout itself* is inside the Windows
  * temp folder, which Disk Cleanup's SilentCleanup task empties of anything it
  * considers stale. On 2026-08-13 at 20:11 KST it ran and took 67 tracked files

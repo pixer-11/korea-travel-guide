@@ -1,7 +1,7 @@
 # One-shot detached runner (ASCII only): wait for the prose repair to finish,
 # then fill the photoless LIVE events (patrol scope widened 2026-08-10),
 # validate, commit. Wikimedia is paced inside the script itself.
-Set-Location 'C:\Users\user\AppData\Local\Temp\wa-main'
+Set-Location 'C:\Users\user\wa-main'
 $log = "$env:TEMP\photoless-backfill.log"
 "start $(Get-Date -Format o)" | Out-File -Encoding utf8 $log
 

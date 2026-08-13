@@ -3,7 +3,7 @@
 # commits the updated table so the next site build serves /og/ URLs for them.
 # Registered as scheduled task WA_OgMirror (17:30 daily) on 2026-08-09.
 $ErrorActionPreference = 'Continue'
-Set-Location 'C:\Users\user\AppData\Local\Temp\wa-main'
+Set-Location 'C:\Users\user\wa-main'
 
 # This checkout lives in %TEMP%, which Windows Disk Cleanup empties (2026-08-13:
 # 67 tracked files and most of node_modules gone). Put it back before touching

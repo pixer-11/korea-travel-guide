@@ -2,7 +2,7 @@
 # then finishes the OG mirror and the region-cover backfill SEQUENTIALLY so
 # the two scripts never hit the API at the same time. Logs to %TEMP%.
 # Started detached on 2026-08-09; safe to re-run (both scripts are resumable).
-Set-Location 'C:\Users\user\AppData\Local\Temp\wa-main'
+Set-Location 'C:\Users\user\wa-main'
 $log = "$env:TEMP\og-catchup.log"
 "start $(Get-Date -Format o)" | Out-File -Encoding utf8 $log
 Start-Sleep -Seconds 1200
