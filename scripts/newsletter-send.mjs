@@ -35,7 +35,19 @@ for (const p of posts) {
   countryByRegion[p.data.region] = p.data.country;
   labelBySlug[slugify(p.data.region)] = p.data.region;
 }
-const links = { cta: `${SITE}`, unsubscribe: `${SITE}/unsubscribe`, prefs: `${SITE}/preferences`, story: (s) => `${SITE}/posts/${s}`, event: (s) => `${SITE}/posts/${s}` };
+// Links follow the SUBSCRIBER'S language (found 2026-08-13 while adding the
+// eSIM block): a ko/ja/es/zh batch used to link every story to the ENGLISH
+// page. Every post ships in all five languages, so the localized URL always
+// exists. unsubscribe/preferences stay English-only — those pages have no
+// localized routes.
+const linksFor = (lang) => {
+  const base = lang === 'en' ? SITE : `${SITE}/${lang}`;
+  return {
+    site: SITE, cta: base,
+    unsubscribe: `${SITE}/unsubscribe`, prefs: `${SITE}/preferences`,
+    story: (s) => `${base}/posts/${s}`, event: (s) => `${base}/posts/${s}`,
+  };
+};
 
 let subscribers = [];
 try { subscribers = await ml.listActiveSubscribers(); }
@@ -53,15 +65,15 @@ for (const b of buckets) {
 
   if (b.type === 'global') {
     const ed = pickGlobalEdition({ posts, sent, now });
-    if (ed) { rendered = renderGlobal({ edition: ed, lang: b.lang, links }); used = ed; }
+    if (ed) { rendered = renderGlobal({ edition: ed, lang: b.lang, links: linksFor(b.lang) }); used = ed; }
   } else if (b.type === 'single') {
     const region = labelBySlug[b.regions[0]] || b.regions[0];
     const ed = pickSingleRegionEdition({ posts, region, country: countryByRegion[region] || region, sent, now, minStories: 3 });
-    if (ed) { rendered = renderSingleRegion({ edition: ed, region, lang: b.lang, links }); used = ed; }
+    if (ed) { rendered = renderSingleRegion({ edition: ed, region, lang: b.lang, links: linksFor(b.lang) }); used = ed; }
   } else {
     const regionLabels = b.regions.map((s) => labelBySlug[s] || s);
     const ed = pickMultiRegionEdition({ posts, regions: regionLabels, countryByRegion, sent, now, perRegion: 2 });
-    if (ed) { rendered = renderMultiRegion({ edition: ed, regions: regionLabels, lang: b.lang, links }); used = ed; }
+    if (ed) { rendered = renderMultiRegion({ edition: ed, regions: regionLabels, lang: b.lang, links: linksFor(b.lang) }); used = ed; }
   }
 
   if (!rendered) { console.log(`  [${key}] SKIP — no new content (${b.subscriberIds.length} subs)`); continue; }

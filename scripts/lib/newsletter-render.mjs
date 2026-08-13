@@ -1,6 +1,33 @@
 import { copyFor, fill } from './newsletter-copy.mjs';
+import { readFileSync } from 'node:fs';
 
 const P = { paper: '#f7f3ec', tint: '#f1ebe0', ink: '#201c17', soft: '#4a443c', acc: '#c8443a', accd: '#a5352c', gold: '#b8862f' };
+
+// "Before you fly" block (growth research C2, 2026-08-13): a subscriber who
+// asked for a region's itinerary/guides has a departure date — the exact
+// moment eSIM intent peaks. Links to OUR localized eSIM page (full context,
+// no-prices policy), never a raw affiliate URL. Renders only for countries
+// that actually have an eSIM page, and only in single-region editions where
+// the destination is unambiguous.
+const ESIM_SLUGS = new Set(
+  Object.keys(JSON.parse(readFileSync(new URL('../../data/esim-facts.json', import.meta.url), 'utf8')))
+    .filter((k) => k !== '_comment')
+);
+const PLACE_NAMES = JSON.parse(readFileSync(new URL('../../src/i18n/places.json', import.meta.url), 'utf8'));
+const placeLabel = (name, lang) => (lang === 'en' ? name : PLACE_NAMES[name]?.[lang] ?? name);
+
+function esimBlock(country, lang, c, links) {
+  const slug = String(country || '').toLowerCase().replace(/\s+/g, '-');
+  if (!ESIM_SLUGS.has(slug) || !c.beforeFly) return '';
+  const href = `${links.site}${lang === 'en' ? '' : `/${lang}`}/tools/esim/${slug}`;
+  const v = { country: placeLabel(country, lang) };
+  return `
+  <tr><td style="background:${P.tint};padding:20px 40px;">
+    <div style="font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#7a736a;font-weight:700;">${esc(c.beforeFly)}</div>
+    <p style="font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:1.6;color:${P.soft};margin:10px 0 0;">${esc(fill(c.beforeFlyLine, v))}</p>
+    <a href="${esc(href)}" style="font-family:Helvetica,Arial,sans-serif;display:inline-block;margin-top:10px;font-size:12px;font-weight:700;color:${P.accd};text-decoration:none;border-bottom:1px solid #d8b6b2;padding-bottom:2px;">${esc(fill(c.beforeFlyCta, v))}</a>
+  </td></tr>`;
+}
 const esc = (s) => String(s == null ? '' : s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const img = (i) => (i && i.url ? esc(i.url) : '');
 
@@ -54,6 +81,7 @@ export function renderSingleRegion({ edition, region, lang, links }) {
   <tr><td style="font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:${P.gold};font-weight:700;padding:24px 40px 0;">${esc(c.sectionLabel)}</td></tr>
   ${cards}
   ${eventsBlock(edition.events, c, links)}
+  ${esimBlock(edition.country, lang, c, links)}
   <tr><td style="text-align:center;padding:34px 40px;"><a href="${esc(links.cta)}" style="font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;letter-spacing:.04em;text-decoration:none;color:${P.accd};border:1.5px solid ${P.accd};border-radius:8px;padding:14px 30px;display:inline-block;">${esc(fill(c.ctaSingle, v))}</a></td></tr>
   <tr><td style="background:${P.ink};color:#a79e8f;font-family:Helvetica,Arial,sans-serif;font-size:11px;line-height:1.8;text-align:center;padding:26px 40px;">
     <a href="${esc(links.prefs)}" style="color:#d6ab5c;text-decoration:none;">${esc(c.regionChange)}</a> ·
