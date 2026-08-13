@@ -184,7 +184,20 @@ async function main() {
       posts.push({ slug, ...data });
     } catch {}
   }
-  posts.sort((a, b) => String(b.pubDate).localeCompare(String(a.pubDate)));
+  // Season-ahead boost (growth research B4, 2026-08-13): Pinterest search
+  // momentum builds MONTHS before an event — travel bloggers' measured wins
+  // came from pinning seasonal content a season early, and events are this
+  // site's impression engine (80% of GSC impressions). An event starting 30 to
+  // 150 days out jumps the queue; too soon (<30d) misses Pinterest's indexing
+  // lag, too far (>150d) outruns searcher intent. Everything else keeps
+  // newest-first, and the finished-event guard above still applies.
+  const seasonScore = (p) => {
+    const start = String(p.eventStartDate || '').slice(0, 10);
+    if (!start) return 0;
+    const days = (new Date(start) - new Date(today)) / 864e5;
+    return days >= 30 && days <= 150 ? 1 : 0;
+  };
+  posts.sort((a, b) => seasonScore(b) - seasonScore(a) || String(b.pubDate).localeCompare(String(a.pubDate)));
   const batch = posts.slice(0, perRun);
 
   console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), pinning ${batch.length} this run${DRY ? ' (DRY)' : ''}\n`);
