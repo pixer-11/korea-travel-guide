@@ -484,6 +484,29 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       <p class="byline">
         <Fragment set:html={t('post.byline').replace('{team}', `<a href="${localizePath('/about', lang)}">${SITE.name} ${t('post.editorialTeam')}</a>`)} />
       </p>
+      {/* Save lives where the eyes land (owner, 2026-08-13: the fact-box copy
+          "buried among the other grey pills" was invisible). Same button, same
+          delegated listener — the fact-box one stays for readers deep in the
+          page; both repaint together via wa-trip-change. */}
+      {p?.name && (
+        <div class="head-save">
+          <SaveButton
+            slug={post.id}
+            title={placeLabel}
+            region={regionLabel}
+            country={localizePlace(country, lang)}
+            href={Astro.url.pathname}
+            lat={p.lat}
+            lng={p.lng}
+            phone={p.phone ?? ""}
+            hours={saveHours}
+            quiet={saveQuiet}
+            image={saveThumb}
+            lang={lang}
+            prominent={true}
+          />
+        </div>
+      )}
     </div>
 
     {d.heroImage && (

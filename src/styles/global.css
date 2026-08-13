@@ -1595,3 +1595,6 @@ main:focus { outline: none; }
 .read-next a { font-weight: 650; text-decoration: none; color: var(--ink); }
 .read-next a:hover { color: var(--accent-text); text-decoration: underline; }
 .read-next .rel-region { font-size: 0.82rem; color: var(--muted); }
+
+/* Header save placement (owner request 2026-08-13: the fact-box save was invisible) */
+.head-save { margin: 0.9rem 0 0; }

@@ -31,11 +31,14 @@ interface Props {
   image?: string;
   lang: Lang;
   compact?: boolean;
+  /** Header placement: accent border + slightly larger, so it reads as THE
+      action rather than one grey pill among many (owner, 2026-08-13). */
+  prominent?: boolean;
 }
 const {
   slug, title, region = '', country = '', href,
   lat, lng, phone = '', hours = '', quiet = '', image = '',
-  lang, compact = false,
+  lang, compact = false, prominent = false,
 } = Astro.props;
 const t = useTranslations(lang);
 
@@ -48,7 +51,7 @@ const payload = JSON.stringify({
 
 <button
   type="button"
-  class:list={['save-btn', { 'save-btn--compact': compact }]}
+  class:list={['save-btn', { 'save-btn--compact': compact, 'save-btn--hero': prominent }]}
   data-save={payload}
   data-label-save={t('save.add')}
   data-label-saved={t('save.added')}
@@ -75,6 +78,10 @@ const payload = JSON.stringify({
   }
   .save-btn[aria-pressed='true'] .save-ico { filter: brightness(0) invert(1); }
   .save-btn--compact { padding: 0.35rem 0.7rem; font-size: 0.8rem; }
+  .save-btn--hero {
+    border-color: var(--accent); color: var(--accent-text, var(--accent));
+    font-size: 0.95rem; padding: 0.6rem 1.1rem;
+  }
   /* A saved list is for taking out; the button itself is never part of that. */
   @media print { .save-btn { display: none; } }
 </style>

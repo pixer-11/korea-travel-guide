@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+import { thumbOr } from '../../lib/wall';
 import { localizePlace } from '../../i18n/places';
 
 // Thin-but-real hub listing every published itinerary. Facts (hero image) come
@@ -25,7 +26,7 @@ const cards = itineraries
       city: it.data.city,
       days: it.data.days,
       stopCount: it.data.itinerary.reduce((n, d) => n + d.stops.length, 0),
-      image: firstPost?.data.heroImage?.url,
+      image: thumbOr(firstPost?.data.heroImage?.url),
     };
   })
   .sort((a, b) => a.city.localeCompare(b.city));
@@ -85,7 +86,7 @@ const jsonLd = {
               {g.cards.map((c) => (
                 <a class="card" href={`/itinerary/${c.id}`}>
                   <div class="thumb">
-                    <img src={c.image ?? '/images/placeholder-market.svg'} alt={c.title} width="600" height="400" loading="lazy" decoding="async" />
+                    <img src={c.image || '/images/placeholder-market.svg'} alt={c.title} width="600" height="400" loading="lazy" decoding="async" />
                     <span class="badge">{t('itin.daysCount').replace('{n}', String(c.days))}</span>
                   </div>
                   <div class="card-body">
