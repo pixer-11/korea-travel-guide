@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Emoji from './Emoji.astro';
+import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 
 // The saved list. Rendered entirely on the client from localStorage, because the
@@ -56,6 +57,12 @@ const strings = JSON.stringify({
     <p class="sr-only" role="status" aria-live="polite"></p>
 
     <p class="trip-note">{t('trip.local')}</p>
+
+    {/* Saved list → owned channel (growth research B1 bridge, 2026-08-13):
+        someone with a saved list is planning a real trip — the one moment a
+        subscribe ask is a favor rather than an interruption. The list itself
+        stays in localStorage; only the email goes anywhere. */}
+    <Newsletter compact={true} lang={lang} />
   </article>
 </BaseLayout>
 
