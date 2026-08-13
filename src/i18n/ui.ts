@@ -1578,7 +1578,7 @@ export const ui = {
     'detour.eyebrow': '日帰り旅行',
     'detour.title': '{city}からの日帰り旅行先',
     'detour.dek': '{city}から日帰りで行ける近郊を、実座標の距離で選びました。掲載ガイドはすべて他ページと同じ検証を通過しています。',
-    'detour.away': '{km}km',
+    'detour.away': '{km}km先',
     'itin.viewItinerary': 'コースを見る →',
     'itin.emptyIndex': 'モデルコースを準備中です。近日公開。',
     'itin.postBacklink': 'このスポットは{city}{days}日間コースの{n}日目に登場します',
