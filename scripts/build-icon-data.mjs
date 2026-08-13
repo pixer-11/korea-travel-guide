@@ -49,6 +49,8 @@ export const MAP = {
   automobile: 'car',
   taxi: 'car-taxi-front',
   'globe-showing-asia-australia': 'earth',
+  // 2026-08-13 growth research A1: itinerary sticky "email me this itinerary".
+  'incoming-envelope': 'mail',
 };
 
 const set = require('@iconify-json/lucide/icons.json');

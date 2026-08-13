@@ -516,7 +516,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
           plan's value; "email me this itinerary" converts here, not at the
           footer. */}
       {di === 0 && (
-        <div class="itin-email-slot">
+        <div class="itin-email-slot" id="itin-email-slot">
           <ItineraryEmailBox lang={lang} region={d.city} country={d.country} slug={itinerary.id} />
         </div>
       )}
@@ -551,7 +551,44 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
       <a href={localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}>{t('itin.moreRegion').replace('{region}', regionLabel)} →</a>
     </p>
   </article>
+
+  {/* Mobile sticky CTA (growth research A1, 2026-08-13): post pages have had a
+      sticky booking bar for weeks; itinerary pages — the lead-magnet money
+      page — had nothing pinned. 58M-session meta-analysis puts sticky bottom
+      CTAs at +31% conversion on mobile, no effect on desktop, so this stays
+      mobile-only and reveals only after 500px of scroll (same contract as
+      StickyBook: never covers the top of the page, well under the 15%
+      interstitial threshold). Tapping scrolls to the existing email box after
+      Day 1 — one CTA, no new form. */}
+  <div class="sticky-book itin-sticky" data-itin-sticky hidden aria-hidden="true">
+    <button class="sb-btn sb-primary" type="button" data-itin-sticky-go>
+      <Emoji name="incoming-envelope" /> {t('itin.emailTitle')}
+    </button>
+  </div>
 </BaseLayout>
+
+<script>
+  const bar = document.querySelector('[data-itin-sticky]') as HTMLElement | null;
+  const slot = document.getElementById('itin-email-slot');
+  if (bar && slot) {
+    const update = () => {
+      // Hide while the email box itself is on screen — a CTA pointing at
+      // something already visible is clutter.
+      const r = slot.getBoundingClientRect();
+      const slotVisible = r.top < window.innerHeight && r.bottom > 0;
+      const show = window.scrollY > 500 && !slotVisible;
+      bar.hidden = !show;
+      bar.setAttribute('aria-hidden', String(!show));
+    };
+    window.addEventListener('scroll', update, { passive: true });
+    update();
+    bar.querySelector('[data-itin-sticky-go]')?.addEventListener('click', () => {
+      slot.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      (slot.querySelector('input[type=email]') as HTMLInputElement | null)?.focus({ preventScroll: true });
+      if ((window as any).plausible) (window as any).plausible('Itinerary sticky CTA');
+    });
+  }
+</script>
 
 <style>
   .itin-trust { font-size: 0.8rem; color: var(--ink-soft); margin: 0.6rem 0 0.4rem; }
