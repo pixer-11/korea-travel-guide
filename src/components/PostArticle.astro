@@ -484,11 +484,9 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       <p class="byline">
         <Fragment set:html={t('post.byline').replace('{team}', `<a href="${localizePath('/about', lang)}">${SITE.name} ${t('post.editorialTeam')}</a>`)} />
       </p>
-      {/* Save lives where the eyes land (owner, 2026-08-13: the fact-box copy
-          "buried among the other grey pills" was invisible). Same button, same
-          delegated listener — the fact-box one stays for readers deep in the
-          page; both repaint together via wa-trip-change. */}
-      {p?.name && (
+      {/* Photoless posts still need a reachable save — the hero overlay below
+          (the primary placement) only exists when there is a hero. */}
+      {!d.heroImage && p?.name && (
         <div class="head-save">
           <SaveButton
             slug={post.id}
@@ -511,6 +509,31 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     {d.heroImage && (
       <figure class="article-hero">
+        {/* Save floats on the hero, top-right — the position Airbnb/Pinterest
+            taught everyone means "keep this" (owner iteration 2, 2026-08-13:
+            a pill under the byline still read as chrome and got skipped; on
+            the photo it reads as an action on the PLACE). White chip so it
+            carries on any photo; the fact-box twin stays for readers who
+            decide at the bottom. */}
+        {p?.name && (
+          <div class="hero-save">
+            <SaveButton
+              slug={post.id}
+              title={placeLabel}
+              region={regionLabel}
+              country={localizePlace(country, lang)}
+              href={Astro.url.pathname}
+              lat={p.lat}
+              lng={p.lng}
+              phone={p.phone ?? ""}
+              hours={saveHours}
+              quiet={saveQuiet}
+              image={saveThumb}
+              lang={lang}
+              overlay={true}
+            />
+          </div>
+        )}
         {/* data-full is the STORED url — the one Wikimedia handed us, so the one
             that is certain to resolve. If the display rung ever 400s (the whole
             site's heroes went blank on 2026-08-10 when an off-ladder width

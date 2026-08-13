@@ -34,11 +34,16 @@ interface Props {
   /** Header placement: accent border + slightly larger, so it reads as THE
       action rather than one grey pill among many (owner, 2026-08-13). */
   prominent?: boolean;
+  /** Hero-photo placement (owner iteration 2): white chip that carries on any
+      photo. Skinned HERE, not in global.css — the pressed-state rule below
+      must outrank the skin, and inside one scoped block that's guaranteed by
+      source order instead of a cross-stylesheet specificity fight. */
+  overlay?: boolean;
 }
 const {
   slug, title, region = '', country = '', href,
   lat, lng, phone = '', hours = '', quiet = '', image = '',
-  lang, compact = false, prominent = false,
+  lang, compact = false, prominent = false, overlay = false,
 } = Astro.props;
 const t = useTranslations(lang);
 
@@ -51,7 +56,7 @@ const payload = JSON.stringify({
 
 <button
   type="button"
-  class:list={['save-btn', { 'save-btn--compact': compact, 'save-btn--hero': prominent }]}
+  class:list={['save-btn', { 'save-btn--compact': compact, 'save-btn--hero': prominent, 'save-btn--overlay': overlay }]}
   data-save={payload}
   data-label-save={t('save.add')}
   data-label-saved={t('save.added')}
@@ -81,6 +86,19 @@ const payload = JSON.stringify({
   .save-btn--hero {
     border-color: var(--accent); color: var(--accent-text, var(--accent));
     font-size: 0.95rem; padding: 0.6rem 1.1rem;
+  }
+  .save-btn--overlay {
+    background: rgba(255, 255, 255, 0.94);
+    border-color: transparent;
+    color: #201c17;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(4px);
+    font-size: 0.95rem; padding: 0.6rem 1.1rem;
+  }
+  /* Pressed state must beat both skins above — restated after them with the
+     attribute for specificity, so saved reads terracotta everywhere. */
+  .save-btn--overlay[aria-pressed='true'], .save-btn--hero[aria-pressed='true'] {
+    background: var(--cta); border-color: var(--cta); color: #fff;
   }
   /* A saved list is for taking out; the button itself is never part of that. */
   @media print { .save-btn { display: none; } }
@@ -130,6 +148,20 @@ const payload = JSON.stringify({
       btn.setAttribute('aria-pressed', saved ? 'true' : 'false');
       const text = btn.querySelector('.save-text');
       if (text) text.textContent = (saved ? btn.dataset.labelSaved : btn.dataset.labelSave) ?? '';
+      // Saved = terracotta, painted INLINE. The stylesheet rule kept losing the
+      // background (but not the color) to something unidentifiable in the dev
+      // cascade, which would have shipped white-on-white "saved" labels
+      // (2026-08-13). Inline wins over every sheet by definition — the state is
+      // set by this script, so its look may as well be too.
+      if (saved) {
+        btn.style.background = 'var(--cta)';
+        btn.style.borderColor = 'var(--cta)';
+        btn.style.color = '#fff';
+      } else {
+        btn.style.background = '';
+        btn.style.borderColor = '';
+        btn.style.color = '';
+      }
     };
 
     const slugOf = (btn: HTMLButtonElement) => {

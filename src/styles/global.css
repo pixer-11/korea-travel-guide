@@ -1598,3 +1598,9 @@ main:focus { outline: none; }
 
 /* Header save placement (owner request 2026-08-13: the fact-box save was invisible) */
 .head-save { margin: 0.9rem 0 0; }
+
+/* Hero-overlay save (owner iteration 2, 2026-08-13): the Airbnb-position
+   bookmark. Position only — the chip's SKIN lives in SaveButton.astro
+   (save-btn--overlay), where source order guarantees the pressed state wins. */
+.article-hero { position: relative; }
+.hero-save { position: absolute; top: 0.75rem; right: 0.75rem; z-index: 5; }
