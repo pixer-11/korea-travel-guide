@@ -144,6 +144,7 @@ export const ui = {
 
     'post.home': 'Home',
     'post.toc': 'On this page',
+    'post.readNext': 'Read next',
     // Photo alt text. Built from a template per language because the English
     // one ("X in Region, Country") was rendered on 1,431 CJK pages — image
     // search reads alt text, so those photos were described to Google in a
@@ -676,6 +677,7 @@ export const ui = {
 
     'post.home': '홈',
     'post.toc': '이 페이지에서',
+    'post.readNext': '이어서 읽기',
     'post.altPlace': '{name} – {region}, {country}',
     'post.atAGlance': '한눈에 보기',
     'post.place': '장소',
@@ -1196,6 +1198,7 @@ export const ui = {
 
     'post.home': 'ホーム',
     'post.toc': 'このページの内容',
+    'post.readNext': '次に読む',
     'post.altPlace': '{name}（{region}、{country}）',
     'post.atAGlance': '基本情報',
     'post.place': 'スポット',
@@ -1716,6 +1719,7 @@ export const ui = {
 
     'post.home': 'Inicio',
     'post.toc': 'En esta página',
+    'post.readNext': 'Sigue leyendo',
     'post.altPlace': '{name} en {region}, {country}',
     'post.atAGlance': 'De un vistazo',
     'post.place': 'Lugar',
@@ -2236,6 +2240,7 @@ export const ui = {
 
     'post.home': '首页',
     'post.toc': '本页内容',
+    'post.readNext': '接着读',
     'post.altPlace': '{name}（{region}、{country}）',
     'post.atAGlance': '一览',
     'post.place': '地点',

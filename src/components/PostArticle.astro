@@ -54,7 +54,11 @@ function splitProse(html: string): [string, string] | null {
   if (cut < html.length * 0.15 || cut > html.length * 0.85) return null;
   return [html.slice(0, cut), html.slice(cut)];
 }
-const proseParts = d.gallery.length > 0 ? splitProse(renderedHtml) : null;
+// Split even without a gallery since 2026-08-13: the same heading boundary now
+// also carries the mid-prose "read next" card (A3), so text-only posts get the
+// recirculation link too. All the old guards hold — unsplittable prose falls
+// back to <Content /> untouched.
+const proseParts = splitProse(renderedHtml);
 // In-page jump links (growth research A2, 2026-08-13): NN/g finds readers use
 // and prefer in-page links on long articles, and 68% of travel search arrives
 // on mobile where scanning is costliest. Built from the SAME rendered HTML the
@@ -218,8 +222,15 @@ const related = (await getCollection('posts', ({ data }) => !data.draft))
     return { r, km, score: proximity + (r.data.category === d.category ? 5 : 0) };
   })
   .sort((a, b) => b.score - a.score || a.km - b.km || a.r.id.localeCompare(b.r.id))
-  .slice(0, 4)
-  .map((x) => x.r);
+  .slice(0, 4);
+// Mid-prose "read next" (growth research A3, 2026-08-13): readers who click an
+// internal link average 3.7 pages/session vs 1.2 for those who don't, and the
+// end-of-page Related section only reaches people who finish. One inline card
+// at the same heading boundary the gallery uses — but only when the best
+// neighbour is genuinely close (same city or a ≤120km day trip, score ≥60);
+// a same-country-but-800km "next read" mid-article would be noise.
+const midRelated = related[0] && related[0].score >= 60 ? related[0].r : null;
+const relatedPosts = related.map((x) => x.r);
 
 // More same-city guides beyond the 4 "Related" — strengthens the city cluster with
 // contextual internal links (the site otherwise has almost no in-body post→post links).
@@ -244,7 +255,7 @@ const availableLangs = (['en', 'ko', 'ja', 'es', 'zh'] as const).filter(
   (l) => l === 'en' || translatedLangs.has(l)
 );
 
-const relatedIds = new Set(related.map((r) => r.id));
+const relatedIds = new Set(relatedPosts.map((r) => r.id));
 const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
   .slice(0, 6);
@@ -648,21 +659,30 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       {proseParts ? (
         <>
           <Fragment set:html={proseParts[0]} />
-          <section class="gallery">
-            {d.gallery.map((img: any) => (
-              <figure>
-                <img
-                  src={img.url}
-                  alt={placeLabel ? photoAlt(placeLabel) : title}
-                  width="1200"
-                  height="900"
-                  loading="lazy"
-                  decoding="async"
-                />
-                {img.credit && <figcaption>{img.credit}</figcaption>}
-              </figure>
-            ))}
-          </section>
+          {d.gallery.length > 0 && (
+            <section class="gallery">
+              {d.gallery.map((img: any) => (
+                <figure>
+                  <img
+                    src={img.url}
+                    alt={placeLabel ? photoAlt(placeLabel) : title}
+                    width="1200"
+                    height="900"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  {img.credit && <figcaption>{img.credit}</figcaption>}
+                </figure>
+              ))}
+            </section>
+          )}
+          {midRelated && (
+            <aside class="read-next">
+              <span class="read-next-label">{t('post.readNext')}</span>
+              <a href={postHref(midRelated.id)}>{postTitle(midRelated)}</a>
+              <span class="rel-region">{localizePlace(midRelated.data.region, lang)}</span>
+            </aside>
+          )}
           <Fragment set:html={proseParts[1]} />
         </>
       ) : (
@@ -743,11 +763,11 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       dek={d.category === 'event' ? t('ev.neverMissDekGlobal') : t('region.newsletterDek').replace('{region}', regionLabel)}
     />
 
-    {related.length > 0 && (
+    {relatedPosts.length > 0 && (
       <section class="related">
         <h2>{t('post.related')}</h2>
         <ul>
-          {related.map((r) => (
+          {relatedPosts.map((r) => (
             <li>
               <a href={postHref(r.id)}>{postTitle(r)}</a>
               <span class="rel-region">{localizePlace(r.data.region, lang)}</span>

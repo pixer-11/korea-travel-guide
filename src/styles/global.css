@@ -1580,3 +1580,18 @@ main:focus { outline: none; }
 /* scroll-behavior:smooth is already set at the top of this file; this guard
    turns it off for readers who asked their OS for reduced motion. */
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* ── Mid-prose "read next" card (growth research A3, 2026-08-13) */
+.read-next {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem;
+  margin: 1.8rem 0; padding: 0.9rem 1.1rem;
+  background: var(--surface); border: 1px solid var(--line);
+  border-left: 3px solid var(--accent); border-radius: var(--r-md);
+}
+.read-next-label {
+  font-size: 0.76rem; font-weight: 650; letter-spacing: 0.05em;
+  text-transform: uppercase; color: var(--muted);
+}
+.read-next a { font-weight: 650; text-decoration: none; color: var(--ink); }
+.read-next a:hover { color: var(--accent-text); text-decoration: underline; }
+.read-next .rel-region { font-size: 0.82rem; color: var(--muted); }
