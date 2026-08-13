@@ -1,50 +1,49 @@
 ---
-title: "Gemiler Island: Fethiye Travel Guide (4.8★)"
-description: "Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only, uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted arcades, and a mysterious \"Tomb of St. Nicholas. 4.8★ (736 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Fethiye"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:44:33.678Z"
+title: 'Gemiler Island: Fethiye Travel Guide (4.8★)'
+description: Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only, uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted arcades, and a mysterious "Tomb of St. Nicholas. 4.8★ (736 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Fethiye
+category: hidden-gem
+pubDate: '2026-08-13T09:44:33.678Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/35/Gemiler_Adas%C4%B1_kal%C4%B1nt%C4%B1lar%C4%B1.jpg"
-  credit: "Photo: Cobija / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gemiler_Adas%C4%B1_kal%C4%B1nt%C4%B1lar%C4%B1.jpg"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/23523627_aYukAmfk8sKDWgKa5To8s3Z45kjui4U7HAyKDk58dA0.jpg
+  credit: 'Photo: Foursquare user content (St. Nicholas Island | Gemiler Island (Gemile Adası (Aziz Nikola Adası)))'
+  license: foursquare
+  source: https://foursquare.com/v/4deba57dfa76cc1b8b03ee85
 place:
-  id: "ChIJPas4bh5FwBQR35aafKqVNV4"
-  name: "Gemiler Island"
-  address: "Gemiler Adası, Okul Sok. 4/A, 48300 Fethiye/Muğla, Türkiye"
+  id: ChIJPas4bh5FwBQR35aafKqVNV4
+  name: Gemiler Island
+  address: Gemiler Adası, Okul Sok. 4/A, 48300 Fethiye/Muğla, Türkiye
   rating: 4.8
   userRatingsTotal: 736
-  googleMapsUrl: "https://maps.google.com/?cid=6788496572798375647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6788496572798375647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.554719999999996
   lng: 29.067838
-  phone: "+90 252 614 11 50"
+  phone: +90 252 614 11 50
   openingHours:
-    - "Monday: 9:00 AM – 8:00 PM"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 9:00 PM"
+    - 'Monday: 9:00 AM – 8:00 PM'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
 tags:
-  - "fethiye"
-  - "hidden gem"
-quickAnswer: "Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only, uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted arcades, and a mysterious \"Tomb of St. Nicholas.\" Come by day boat or private charter, wear proper shoes for the scramble up to the ruins, and aim for morning arrival before the afternoon tour-boat crowds thicken."
+  - fethiye
+  - hidden gem
+quickAnswer: Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only, uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted arcades, and a mysterious "Tomb of St. Nicholas." Come by day boat or private charter, wear proper shoes for the scramble up to the ruins, and aim for morning arrival before the afternoon tour-boat crowds thicken.
 faq:
-  - q: "How do you get to Gemiler Island?"
-    a: "By boat only — day trips and private charters leave from Ölüdeniz, Fethiye harbor, and Kaya Köyü, usually combined with swim stops in nearby bays."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Mid-morning, before the larger day-tour boats arrive from Ölüdeniz in early afternoon."
-  - q: "How long do you need on the island?"
-    a: "A focused visit to the ruins and viewpoint takes about 1–1.5 hours; confirm with your boat captain since some trips only allow 45 minutes ashore."
-  - q: "Is there anywhere to buy food or water on the island?"
-    a: "No — it's uninhabited with no shops, so bring your own water and snacks."
-  - q: "What's the entry cost?"
-    a: "There's no formal ticket booth; cost is essentially the price of your boat trip or charter, which varies by operator and season."
+  - q: How do you get to Gemiler Island?
+    a: By boat only — day trips and private charters leave from Ölüdeniz, Fethiye harbor, and Kaya Köyü, usually combined with swim stops in nearby bays.
+  - q: What's the best time to visit to avoid crowds?
+    a: Mid-morning, before the larger day-tour boats arrive from Ölüdeniz in early afternoon.
+  - q: How long do you need on the island?
+    a: A focused visit to the ruins and viewpoint takes about 1–1.5 hours; confirm with your boat captain since some trips only allow 45 minutes ashore.
+  - q: Is there anywhere to buy food or water on the island?
+    a: No — it's uninhabited with no shops, so bring your own water and snacks.
+  - q: What's the entry cost?
+    a: There's no formal ticket booth; cost is essentially the price of your boat trip or charter, which varies by operator and season.
 aiGenerated: true
 draft: false
 ---

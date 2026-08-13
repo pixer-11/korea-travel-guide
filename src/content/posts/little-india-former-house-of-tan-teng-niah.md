@@ -6,7 +6,7 @@ region: Little India
 category: attraction
 pubDate: '2026-07-23T07:32:15.496Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg
+  url: https://fastly.4sqi.net/img/general/original/10214761_RdZ4ag1cnaZ30yRJu-dphjRyyNWVBWIlqbOFvCnWF_8.jpg
   credit: 'Photo: Foursquare user content (Former House of Tan Teng Niah)'
   license: foursquare
   source: https://foursquare.com/v/59759e0410345b5dd6b9b7a1
@@ -65,7 +65,6 @@ faq:
   - q: What else is nearby?
     a: Sri Veeramakaliamman Temple, Tekka Centre market, and Mustafa Centre are all within a 5-10 minute walk, making it easy to combine into a longer Little India walk.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

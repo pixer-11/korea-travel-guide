@@ -1,37 +1,36 @@
 ---
-title: "Hong Kong Museum of History: Travel Guide (4.3★)"
-description: "The Hong Kong Museum of History in Tsim Sha Tsui is the city's best introduction to how a fishing village became a global metropolis, anchored by \"The Hong Kong Story\" walk-through exhibit. 4.3★ (9,101 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-08-13T08:48:06.361Z"
+title: 'Hong Kong Museum of History: Travel Guide (4.3★)'
+description: The Hong Kong Museum of History in Tsim Sha Tsui is the city's best introduction to how a fishing village became a global metropolis, anchored by "The Hong Kong Story" walk-through exhibit. 4.3★ (9,101 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Hong Kong
+category: attraction
+pubDate: '2026-08-13T08:48:06.361Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/67/HongKongMuseumOfHistory.png"
-  credit: "Photo: No machine-readable author provided. Alanmak~commonswiki assumed (based on copyright claims). / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HongKongMuseumOfHistory.png"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/381817_y-nPMWuwSxyloiU6-3IBlyHcWhEm-2JyoiYRoMiyDGg.jpg
+  credit: 'Photo: Foursquare user content (Hong Kong Museum of History (香港歷史博物館))'
+  license: foursquare
+  source: https://foursquare.com/v/4b0588d5f964a5201adc22e3
 place:
-  id: "ChIJzZRAMu8ABDQRImlPUEb6RoI"
-  name: "Hong Kong Museum of History"
-  address: "100 Chatham Rd S, Tsim Sha Tsui, Hong Kong"
+  id: ChIJzZRAMu8ABDQRImlPUEb6RoI
+  name: Hong Kong Museum of History
+  address: 100 Chatham Rd S, Tsim Sha Tsui, Hong Kong
   rating: 4.3
   userRatingsTotal: 9101
-  googleMapsUrl: "https://maps.google.com/?cid=9387465653202413858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9387465653202413858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3018851
   lng: 114.17726119999999
-  phone: "+852 2724 9042"
+  phone: +852 2724 9042
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -45,22 +44,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_496f5236624555506c6d49525144424138754d41525a7a4a496843"
+    venueId: ven_496f5236624555506c6d49525144424138754d41525a7a4a496843
 tags:
-  - "hong kong"
-  - "museum"
-quickAnswer: "The Hong Kong Museum of History in Tsim Sha Tsui is the city's best introduction to how a fishing village became a global metropolis, anchored by \"The Hong Kong Story\" walk-through exhibit. It's open 10am–6pm most days (7pm Saturday and Sunday), closed Tuesdays. Weekend afternoons from noon to 6pm draw the biggest crowds, so aim for a morning visit instead."
+  - hong kong
+  - museum
+quickAnswer: The Hong Kong Museum of History in Tsim Sha Tsui is the city's best introduction to how a fishing village became a global metropolis, anchored by "The Hong Kong Story" walk-through exhibit. It's open 10am–6pm most days (7pm Saturday and Sunday), closed Tuesdays. Weekend afternoons from noon to 6pm draw the biggest crowds, so aim for a morning visit instead.
 faq:
-  - q: "How do I get to the Hong Kong Museum of History by MTR?"
-    a: "Take the MTR to Tsim Sha Tsui station and leave via Exit B2. It's about a 10-minute walk north along Chatham Road South."
-  - q: "How long should I spend at the museum?"
-    a: "Plan for at least two hours to cover 'The Hong Kong Story' properly, and closer to three if you read every caption or visit with children."
-  - q: "When is the museum closed?"
-    a: "It's closed every Tuesday. Other days it opens 10am–6pm, except Saturday and Sunday when it stays open until 7pm."
-  - q: "What's the best time to avoid crowds?"
-    a: "Avoid weekend afternoons between noon and 6pm, which is the busiest stretch. Weekday mornings right at opening tend to be much calmer."
-  - q: "What else is nearby?"
-    a: "The Hong Kong Science Museum is on the same block, and Kowloon Park and the Star Ferry pier are both within a 15-minute walk."
+  - q: How do I get to the Hong Kong Museum of History by MTR?
+    a: Take the MTR to Tsim Sha Tsui station and leave via Exit B2. It's about a 10-minute walk north along Chatham Road South.
+  - q: How long should I spend at the museum?
+    a: Plan for at least two hours to cover 'The Hong Kong Story' properly, and closer to three if you read every caption or visit with children.
+  - q: When is the museum closed?
+    a: It's closed every Tuesday. Other days it opens 10am–6pm, except Saturday and Sunday when it stays open until 7pm.
+  - q: What's the best time to avoid crowds?
+    a: Avoid weekend afternoons between noon and 6pm, which is the busiest stretch. Weekday mornings right at opening tend to be much calmer.
+  - q: What else is nearby?
+    a: The Hong Kong Science Museum is on the same block, and Kowloon Park and the Star Ferry pier are both within a 15-minute walk.
 aiGenerated: true
 draft: false
 ---

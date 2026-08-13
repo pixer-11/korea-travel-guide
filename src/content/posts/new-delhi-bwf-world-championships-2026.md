@@ -25,11 +25,10 @@ faq:
 aiGenerated: true
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/08/Alistair_Casey_-_2007_BWF_World_Championships.jpg
-  credit: 'Photo: Alistaircasey / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/d/de/Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player%2C_unknown_age_class_%2811078126684%29.jpg
+  credit: 'Photo: Murray Foubister / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Alistair_Casey_-_2007_BWF_World_Championships.jpg
-draft: true
+  source: https://commons.wikimedia.org/wiki/File:Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player,_unknown_age_class_(11078126684).jpg
 ---
 
 ## Why go
