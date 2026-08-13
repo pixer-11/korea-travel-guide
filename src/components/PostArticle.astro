@@ -55,6 +55,17 @@ function splitProse(html: string): [string, string] | null {
   return [html.slice(0, cut), html.slice(cut)];
 }
 const proseParts = d.gallery.length > 0 ? splitProse(renderedHtml) : null;
+// In-page jump links (growth research A2, 2026-08-13): NN/g finds readers use
+// and prefer in-page links on long articles, and 68% of travel search arrives
+// on mobile where scanning is costliest. Built from the SAME rendered HTML the
+// page displays, so translated pages get translated labels for free (markdown
+// h2s carry slug ids in every language; template chrome h2s like "At a glance"
+// have no id and are naturally excluded). Shown only at 4+ sections — a
+// shorter list costs more attention than it saves.
+const tocItems = [...renderedHtml.matchAll(/<h2 id="([^"]+)"[^>]*>([\s\S]*?)<\/h2>/gi)]
+  .map((m) => ({ id: m[1], label: m[2].replace(/<[^>]+>/g, '').trim() }))
+  .filter((x) => x.label);
+const showToc = tocItems.length >= 4;
 const tr = translation?.data;
 const title = tr?.title ?? post.data.title;
 const description = tr?.description ?? post.data.description;
@@ -623,6 +634,15 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       <summary>{t('post.disclosureTitle')}</summary>
       <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
     </details>
+
+    {showToc && (
+      <nav class="post-toc" aria-label={t('post.toc')}>
+        <span class="post-toc-label">{t('post.toc')}</span>
+        {tocItems.map((h) => (
+          <a href={`#${h.id}`}>{h.label}</a>
+        ))}
+      </nav>
+    )}
 
     <div class="prose">
       {proseParts ? (
