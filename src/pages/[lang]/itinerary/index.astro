@@ -35,6 +35,12 @@ const cards = itineraries
   })
   .sort((a, b) => a.city.localeCompare(b.city));
 
+// Group by trip length — same reasoning as the EN hub (owner, 2026-08-13:
+// Singapore's 3-day and 5-day cards share a hero and read as duplicates).
+const groups = [...new Set(cards.map((c) => c.days))]
+  .sort((a, b) => a - b)
+  .map((days) => ({ days, cards: cards.filter((c) => c.days === days) }));
+
 const metaTitle = t('itin.indexTitle');
 const metaDesc = t('itin.indexDek');
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
@@ -75,23 +81,27 @@ const jsonLd = {
       {cards.length === 0 ? (
         <div class="fact-box" style="text-align:center"><p>{t('itin.emptyIndex')}</p></div>
       ) : (
-        <h2 class="sr-only">{t('a11y.list')}</h2>
-        <div class="grid">
-          {cards.map((c) => (
-            <a class="card" href={localizePath(`/itinerary/${c.id}`, lang)}>
-              <div class="thumb">
-                <img src={c.image ?? '/images/placeholder-market.svg'} alt={c.title} width="600" height="400" loading="lazy" decoding="async" />
-                <span class="badge">{t('itin.daysCount').replace('{n}', String(c.days))}</span>
-              </div>
-              <div class="card-body">
-                <span class="region-label">{localizePlace(c.city, lang)}</span>
-                <h3>{c.title}</h3>
-                <p>{c.description}</p>
-                <p class="itin-index-stops">{t('itin.stopsCount').replace('{n}', String(c.stopCount))}</p>
-              </div>
-            </a>
-          ))}
-        </div>
+        groups.map((g) => (
+          <div class="itin-group">
+            <h2 class="itin-group-h">{t('itin.daysGroup').replace('{n}', String(g.days))}</h2>
+            <div class="grid">
+              {g.cards.map((c) => (
+                <a class="card" href={localizePath(`/itinerary/${c.id}`, lang)}>
+                  <div class="thumb">
+                    <img src={c.image ?? '/images/placeholder-market.svg'} alt={c.title} width="600" height="400" loading="lazy" decoding="async" />
+                    <span class="badge">{t('itin.daysCount').replace('{n}', String(c.days))}</span>
+                  </div>
+                  <div class="card-body">
+                    <span class="region-label">{localizePlace(c.city, lang)}</span>
+                    <h3>{c.title}</h3>
+                    <p>{c.description}</p>
+                    <p class="itin-index-stops">{t('itin.stopsCount').replace('{n}', String(c.stopCount))}</p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        ))
       )}
     </div>
   </section>
@@ -99,4 +109,6 @@ const jsonLd = {
 
 <style>
   .itin-index-stops { margin-top: 0.4rem; font-size: 0.82rem; font-weight: 600; color: var(--accent); }
+  .itin-group-h { margin: 0 0 1.2rem; font-size: 1.35rem; }
+  .itin-group + .itin-group { margin-top: 2.8rem; }
 </style>
