@@ -1,37 +1,37 @@
 ---
-title: "Po Lin Monastery: Hong Kong Travel Guide (4.5★)"
-description: "Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way to see it is to ride the first Ngong Ping 360 cable car out and be at the Big Buddha before 10am. 4.5★ (10,463 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-08-13T08:48:42.545Z"
+title: 'Po Lin Monastery: Hong Kong Travel Guide (4.5★)'
+description: Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way to see it is to ride the first Ngong Ping 360 cable car out and be at the Big Buddha before 10am. 4.5★ (10,463 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Hong Kong
+category: attraction
+pubDate: '2026-08-13T08:48:42.545Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Po_Lin_Monastery_2.jpg"
-  credit: "Photo: No machine-readable author provided. Enochlau assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Po_Lin_Monastery_2.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Po_Lin_Monastery_2.jpg
+  credit: 'Photo: No machine-readable author provided. Enochlau assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Po_Lin_Monastery_2.jpg
 gallery: []
 place:
-  id: "ChIJP9fVNl9YATQRPBvErn2e8zI"
-  name: "Po Lin Monastery"
-  address: "大嶼山昂坪寶蓮禪寺 Ngong Ping, Lantau Island, Hong Kong"
+  id: ChIJP9fVNl9YATQRPBvErn2e8zI
+  name: Po Lin Monastery
+  address: 大嶼山昂坪寶蓮禪寺 Ngong Ping, Lantau Island, Hong Kong
   rating: 4.5
   userRatingsTotal: 10463
-  googleMapsUrl: "https://maps.google.com/?cid=3671452383877274428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3671452383877274428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2554932
   lng: 113.9080796
-  phone: "+852 2985 5248"
+  phone: +852 2985 5248
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -48,24 +48,24 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_497a3865326e72457642505251544159396c4e566639504a496843"
+    venueId: ven_497a3865326e72457642505251544159396c4e566639504a496843
 tags:
-  - "hong kong"
-  - "historic site"
-quickAnswer: "Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way to see it is to ride the first Ngong Ping 360 cable car out and be at the Big Buddha before 10am. Weekends between 10am and 4pm get packed with tour groups, so aim either early or after 4pm. Budget half a day including the cable car ride and the 268 steps up to the Tian Tan Buddha."
+  - hong kong
+  - historic site
+quickAnswer: Po Lin Monastery on Lantau Island is open daily 9am–6pm, and the calmest way to see it is to ride the first Ngong Ping 360 cable car out and be at the Big Buddha before 10am. Weekends between 10am and 4pm get packed with tour groups, so aim either early or after 4pm. Budget half a day including the cable car ride and the 268 steps up to the Tian Tan Buddha.
 faq:
-  - q: "What are the opening hours for Po Lin Monastery?"
-    a: "It's open daily from 9:00 AM to 6:00 PM, with no variation across the week — plan your cable car timing around this window."
-  - q: "When is the quietest time to visit?"
-    a: "The site stays comparatively calm across its full 9am–6pm hours on both weekdays and weekends, as long as you avoid the 10am–4pm weekend peak when tour groups converge."
-  - q: "How do I get to Po Lin Monastery from central Hong Kong?"
-    a: "Take the MTR Tung Chung Line to Tung Chung station, then either the Ngong Ping 360 cable car (about 25 minutes) or bus 23, both ending near the monastery."
-  - q: "How long should I spend there?"
-    a: "Plan for three to four hours total, including the cable car ride, the climb to the Big Buddha, and time to explore the monastery grounds and Ngong Ping Village."
-  - q: "Is there anywhere to eat nearby?"
-    a: "Yes — the monastery runs an on-site vegetarian restaurant serving set meals, and Ngong Ping Village has tea shops and casual food stalls."
+  - q: What are the opening hours for Po Lin Monastery?
+    a: It's open daily from 9:00 AM to 6:00 PM, with no variation across the week — plan your cable car timing around this window.
+  - q: When is the quietest time to visit?
+    a: The site stays comparatively calm across its full 9am–6pm hours on both weekdays and weekends, as long as you avoid the 10am–4pm weekend peak when tour groups converge.
+  - q: How do I get to Po Lin Monastery from central Hong Kong?
+    a: Take the MTR Tung Chung Line to Tung Chung station, then either the Ngong Ping 360 cable car (about 25 minutes) or bus 23, both ending near the monastery.
+  - q: How long should I spend there?
+    a: Plan for three to four hours total, including the cable car ride, the climb to the Big Buddha, and time to explore the monastery grounds and Ngong Ping Village.
+  - q: Is there anywhere to eat nearby?
+    a: Yes — the monastery runs an on-site vegetarian restaurant serving set meals, and Ngong Ping Village has tea shops and casual food stalls.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
