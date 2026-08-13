@@ -94,7 +94,7 @@ const picked = candidates.slice(0, 8);
 const cards = [];
 for (const p of picked) {
   if (cards.length >= MAX_CARDS) break;
-  const prompt = `You are drafting a Reddit comment for a Korean travel editor who has PERSONALLY traveled Japan, South Korea (most regions), Thailand, Vietnam (extensively), Singapore, Spain, France, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, the US, Australia, New Zealand, Czechia and Russia. The editor also maintains hour-by-hour measured crowd data for hundreds of attractions.
+  const prompt = `You are drafting a Reddit comment for a Korean travel editor who has PERSONALLY traveled Japan, South Korea (most regions), Thailand, Vietnam (extensively), Singapore, Spain, France, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Mongolia, Georgia, the US, Australia, New Zealand, Czechia and Russia. The editor also maintains hour-by-hour measured crowd data for hundreds of attractions.
 
 POST in r/${p.sub} (${p.ageH}h old, ${p.comments} comments):
 TITLE: ${p.title}

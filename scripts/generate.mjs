@@ -638,6 +638,9 @@ const COUNTRY_LANG = {
   // Cantonese + English are both official and reviews arrive in both, so an
   // English review is not evidence of a tourist — same reasoning as Singapore.
   'Hong Kong': null,
+  // Uzbek is unambiguously local; Russian is also widely used by locals but is
+  // equally the language of the biggest tourist group, so only 'uz' counts.
+  Uzbekistan: 'uz',
 };
 // This map is hand-maintained while data/countries.json is the source of truth
 // for which countries exist — so a NEW country silently gets `undefined` and

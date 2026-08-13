@@ -492,6 +492,32 @@
         "Sha Tin"
       ],
       "continent": "Asia"
+    },
+    {
+      "name": "Uzbekistan",
+      "iso2": "uz",
+      "priority": 17,
+      "slug": "uzbekistan",
+      "flag": "🇺🇿",
+      "active": true,
+      "blurb": "Silk Road cities of turquoise domes and tiled madrasas — Samarkand, Bukhara and Khiva without the crowds.",
+      "regions": [
+        "Tashkent",
+        "Samarkand",
+        "Bukhara",
+        "Khiva",
+        "Shakhrisabz",
+        "Nukus",
+        "Fergana",
+        "Kokand",
+        "Margilan",
+        "Andijan",
+        "Namangan",
+        "Termez",
+        "Urgench",
+        "Chimgan"
+      ],
+      "continent": "Asia"
     }
   ]
 }

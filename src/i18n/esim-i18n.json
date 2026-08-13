@@ -772,5 +772,52 @@
       ]
     },
     "_srcHash": "c47ab846736f29a0"
+  },
+  "uzbekistan": {
+    "ko": {
+      "intro": "우즈베키스탄에는 Beeline, Ucell, Mobiuz, Uztelecom 등 4개의 국영 통신사가 있는데, 여행자용 eSIM은 이 네트워크들을 그대로 이용하면서도 현지 SIM 구매 시 필요한 복잡한 절차 없이 사용할 수 있습니다. 현지에서 실물 SIM을 구매하려면 카운터에서 여권 등록을 해야 하지만, 도착 전에 미리 설치해두는 eSIM은 이 과정을 완전히 건너뛸 수 있습니다. 우즈베키스탄에서는 이 점이 특히 중요한데, 택시 이용부터 가이드 연락, 심지어 레스토랑 메뉴 확인까지 일상 대부분이 텔레그램(Telegram)을 통해 이루어지기 때문입니다.",
+      "coverage": "실크로드 관광 축은 통신 상태가 양호합니다. 타슈켄트, 사마르칸트, 부하라 모두 안정적인 4G가 잡히며, 이 도시들을 잇는 아프로시욥(Afrosiyob) 고속열차 노선을 따라서도 신호가 유지됩니다. 문제가 되는 곳은 사막 구간입니다 — 부하라와 히바 사이의 장거리 도로는 키질쿰(Kyzylkum) 사막을 가로지르는데, 몇 시간 동안 신호가 거의 또는 전혀 잡히지 않습니다. 또한 서쪽 끝의 누쿠스/카라칼팍스탄 지역과 침간(Chimgan) 산악 지대는 마을을 벗어나면 통신 상태가 불규칙합니다.",
+      "tips": [
+        "부하라-히바 구간을 이동하기 전에 오프라인 지도를 미리 다운로드해두세요. 키질쿰 사막을 가로지르는 동안에는 eSIM이 어떤 네트워크를 쓰든 몇 시간 동안 신호가 전혀 없을 수 있습니다.",
+        "텔레그램은 우즈베키스탄 일상 생활의 운영체제와 같은 존재입니다 — 택시 예약, 투어 가이드 연락, 심지어 레스토랑 메뉴까지 모두 텔레그램에서 이루어지기 때문에, 데이터 연결이 되는 것이 다른 어느 나라보다도 중요합니다.",
+        "타슈켄트와 사마르칸트를 돌아다닐 때는 얀덱스 고(Yandex Go) 같은 차량 호출 서비스가 실용적인 이동 방법이며, 실시간 데이터가 필요합니다. 사막 당일치기 여행 전에는 오프라인 상황에 대비한 대안을 미리 정해두세요.",
+        "아프로시욥 고속열차에는 기내 WiFi가 없으므로, 탑승 전에 볼거리와 다음 도시의 지도를 미리 다운로드해두세요.",
+        "관광 도시의 호텔이나 카페 WiFi는 흔하지만 속도가 느린 경우가 많으니, 주 연결 수단이 아니라 보조 수단으로 생각하는 것이 좋습니다."
+      ]
+    },
+    "ja": {
+      "intro": "ウズベキスタンには4つの国内通信事業者(Beeline、Ucell、Mobiuz、Uztelecom)があり、旅行者向けのeSIMはこれらのネットワークを利用しながらも、現地でSIMを購入する際に必要な面倒な手続きを省くことができます。現地で物理SIMを買うにはカウンターでパスポート登録が必要になりますが、渡航前にインストールしておくeSIMならその手間は一切不要です。ウズベキスタンでは日常生活の多く——タクシーの利用、ガイドとの連絡、レストランのメニューまで——がTelegramを通じて成り立っているため、通信手段の確保はほかの国よりも重要な意味を持ちます。",
+      "coverage": "シルクロード沿いのルートはカバレッジが充実しています。タシケント、サマルカンド、ブハラはいずれも安定した4Gが利用でき、これらの都市を結ぶアフロシヨブ高速鉄道の沿線でも電波は途切れません。一方、電波が届きにくいのは砂漠地帯です。ブハラとヒヴァを結ぶ長距離道路はキジルクム砂漠を横断し、数時間にわたってほとんど、あるいは全く電波が入らない区間があります。また、西部のヌクス/カラカルパクスタン地方や、チムガン山地でも、町の外に出るとカバレッジが不安定になります。",
+      "tips": [
+        "ブハラ〜ヒヴァ間の移動前には、オフラインマップをダウンロードしておきましょう。キジルクム砂漠の横断中は、どの通信会社のeSIMを使っていても数時間電波が入らないことがあります。",
+        "Telegramはウズベキスタンの日常生活を支える『基盤』のような存在です。タクシーの予約からツアーガイドとのやり取り、さらにはレストランのメニューまでそこで動いているため、データ通信が使える環境はほかの国以上に重要です。",
+        "タシケントやサマルカンドでの移動には配車サービス(Yandex Go)が実用的ですが、リアルタイムのデータ通信が必要です。砂漠への日帰り旅行前には、オフライン時の代替手段を決めておきましょう。",
+        "アフロシヨブ高速列車には車内WiFiがありません。乗車前に、エンターテインメントのコンテンツや次の目的地の地図をダウンロードしておきましょう。",
+        "観光都市のホテルやカフェのWiFiは広く利用できますが、速度は遅めです。メインの通信手段としてではなく、あくまで補助的なものと考えておきましょう。"
+      ]
+    },
+    "es": {
+      "intro": "Uzbekistán tiene cuatro operadoras nacionales —Beeline, Ucell, Mobiuz y Uztelecom— y las eSIM de viaje funcionan sobre estas redes sin el papeleo que implica una SIM local: comprar una SIM física aquí requiere registrar el pasaporte en el mostrador. Una eSIM instalada antes de aterrizar evita todo eso, y en Uzbekistán esto importa más de lo habitual porque gran parte de la vida diaria —taxis, guías, menús de restaurantes— pasa por Telegram.",
+      "coverage": "El corredor de la Ruta de la Seda tiene buena cobertura: Tashkent, Samarcanda y Bujará cuentan con 4G sólido, que se mantiene a lo largo de la línea de tren de alta velocidad Afrosiyob que las conecta. Los puntos débiles son los tramos desérticos —la larga carretera entre Bujará y Jiva cruza el desierto de Kyzylkum con señal escasa o nula durante horas— y el extremo occidental de Nukus/Karakalpakistán, así como las montañas de Chimgán, donde la cobertura es irregular fuera de las ciudades.",
+      "tips": [
+        "Descarga mapas sin conexión antes del trayecto Bujará–Jiva: cruzar el desierto de Kyzylkum puede significar horas sin señal, sea cual sea la red que use tu eSIM.",
+        "Telegram es el sistema operativo de la vida cotidiana en Uzbekistán —reservas de taxis, guías turísticos e incluso menús de restaurantes funcionan a través de él—, así que tener datos activos vale más aquí que en la mayoría de los países.",
+        "Los servicios de transporte con app (Yandex Go) son la forma más práctica de moverse por Tashkent y Samarcanda, y necesitan datos en tiempo real; acuerda alternativas sin conexión antes de las excursiones al desierto.",
+        "Los trenes rápidos Afrosiyob no tienen WiFi a bordo: descarga entretenimiento y los mapas de tu próxima ciudad antes de subir.",
+        "El WiFi de hoteles y cafeterías en las ciudades turísticas es común pero lento; trátalo como respaldo y no como tu conexión principal."
+      ]
+    },
+    "zh": {
+      "intro": "乌兹别克斯坦有四大全国性网络运营商——Beeline、Ucell、Mobiuz 和 Uztelecom，旅行用的 eSIM 都能接入这些网络，而且无需实体 SIM 卡那一套繁琐手续：在当地购买实体 SIM 卡需要在柜台进行护照登记。提前在国内安装好 eSIM 则可以完全跳过这一步，这在乌兹别克斯坦尤其重要，因为当地日常生活中很多事情——打车、联系向导、查看餐厅菜单——都要靠 Telegram 完成。",
+      "coverage": "丝绸之路沿线的信号覆盖不错：塔什干、撒马尔罕和布哈拉都有稳定的 4G 信号，沿阿夫罗西约布（Afrosiyob）高速铁路线也一样保持良好覆盖。信号盲区主要出现在沙漠地带——布哈拉到希瓦之间的漫长公路穿越克孜勒库姆沙漠，途中可能有数小时几乎没有信号——以及西部偏远的努库斯／卡拉卡尔帕克斯坦地区和奇姆干山区，这些地方除了城镇以外信号时有时无。",
+      "tips": [
+        "在前往布哈拉—希瓦这段路程之前，先下载好离线地图：穿越克孜勒库姆沙漠时，无论你的 eSIM 使用哪家网络，都可能会有数小时完全没有信号。",
+        "Telegram 几乎就是乌兹别克斯坦日常生活的“操作系统”——打车、联系向导，甚至查看餐厅菜单都离不开它，所以在这里，一份能正常使用的流量套餐比在大多数国家都更重要。",
+        "在塔什干和撒马尔罕，网约车（Yandex Go）是出行的实用方式，需要实时联网数据；前往沙漠一日游之前，最好提前约定好没有网络时的备用方案。",
+        "阿夫罗西约布高速列车车厢内没有 WiFi，上车前记得先下载好娱乐内容和下一站城市的地图。",
+        "旅游城市里的酒店和咖啡馆 WiFi 虽然常见，但速度较慢，最好把它当作备用连接，而不是主要网络。"
+      ]
+    },
+    "_srcHash": "b0cebd4a2c5c6b5c"
   }
 }

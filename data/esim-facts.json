@@ -289,5 +289,23 @@
       "Google Maps works normally here, unlike across the mainland border; if your itinerary crosses into Shenzhen, save the maps you need while still in Hong Kong.",
       "Free WiFi is everywhere (malls, MTR stations, cafes, the airport), which cuts how much data you actually buy."
     ]
+  },
+  "uzbekistan": {
+    "name": "Uzbekistan",
+    "carriers": [
+      "Beeline Uzbekistan",
+      "Ucell",
+      "Mobiuz",
+      "Uztelecom Mobile"
+    ],
+    "intro": "Uzbekistan has four national networks — Beeline, Ucell, Mobiuz and Uztelecom — and travel eSIMs ride on them without the paperwork a local SIM involves: buying a physical SIM here requires passport registration at the counter. An eSIM installed before you land skips that entirely, and it matters more than usual in Uzbekistan because so much daily life — taxis, guides, restaurant menus — runs through Telegram.",
+    "coverage": "The Silk Road corridor is well covered: Tashkent, Samarkand and Bukhara all have solid 4G, and it holds along the Afrosiyob high-speed rail line between them. The gaps are the desert stretches — the long road between Bukhara and Khiva crosses the Kyzylkum with little or no signal for hours — and the Nukus/Karakalpakstan far west and the Chimgan mountains, where coverage is patchy outside towns.",
+    "tips": [
+      "Download offline maps before the Bukhara–Khiva leg: the Kyzylkum desert crossing can mean hours without any signal, whichever network your eSIM uses.",
+      "Telegram is the operating system of Uzbek daily life — taxi bookings, tour guides and even restaurant menus live on it — so a working data plan is worth more here than in most countries.",
+      "Ride-hailing (Yandex Go) is the practical way around Tashkent and Samarkand and needs live data; agree on offline fallbacks before desert day-trips.",
+      "The Afrosiyob fast trains have no onboard WiFi — download entertainment and your next city’s maps before boarding.",
+      "Hotel and cafe WiFi in tourist cities is common but slow; treat it as backup rather than your main connection."
+    ]
   }
 }

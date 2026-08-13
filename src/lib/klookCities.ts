@@ -43,7 +43,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Guangzhou": { id: 12146, slug: 'guangzhou', country: "China" },
   "Guilin": { id: 62, slug: 'guilin', country: "China" },
   "Hangzhou": { id: 19190, slug: 'hangzhou', country: "China" },
-  "Hong Kong": { id: 2, slug: 'hong-kong', country: "China" },
+  "Hong Kong": { id: 2, slug: 'hong-kong', country: "Hong Kong" }, // own country since 2026-08-13 (was region of China)
   "Qingdao": { id: 14950, slug: 'qingdao', country: "China" },
   "Shenzhen": { id: 23301, slug: 'shenzhen', country: "China" },
   "Suzhou": { id: 16549, slug: 'suzhou', country: "China" },

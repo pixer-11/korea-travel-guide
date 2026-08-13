@@ -9,15 +9,19 @@
 // person, not an invented persona. The badge speaks at COUNTRY level on
 // purpose: having traveled a country does not claim every city in it.
 // 2026-08-09 second recollection: Russia, New Zealand, Czech Republic, Spain,
-// Japan. Spellings must match the corpus's `country:` values exactly — Czechia
-// vs Czech Republic etc. only matters once such posts exist; keep both-safe
-// entries for countries without content yet.
+// Japan. 2026-08-13 third recollection: Mongolia, Georgia. Spellings must
+// match the corpus's `country:` values exactly — Czechia vs Czech Republic
+// etc. only matters once such posts exist; keep both-safe entries for
+// countries without content yet. Guam was indirect-only (owner's statement,
+// 2026-08-13) — never badge it.
 const VISITED_COUNTRIES = new Set([
   'Vietnam', 'Singapore', 'Thailand', 'South Korea', 'United States',
   'Australia', 'Laos', 'Cambodia', 'Indonesia', 'China', 'France',
   'Japan', 'Spain', 'Russia', 'New Zealand', 'Czech Republic', 'Czechia',
+  'Hong Kong', 'Mongolia', 'Georgia',
 ]);
-// Hong Kong and Macau are stored as regions (country: China) in this corpus.
+// Hong Kong became its own country entry on 2026-08-13 (split from China);
+// the region entries stay for legacy posts tagged region: Hong Kong/Macau.
 const VISITED_REGIONS = new Set(['Hong Kong', 'Macau']);
 
 export function editorHasTraveled(country?: string, region?: string): boolean {
