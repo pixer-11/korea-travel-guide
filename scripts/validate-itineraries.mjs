@@ -12,7 +12,7 @@
 //       <dir> must contain posts/, itineraries/, itineraries-i18n/ subfolders,
 //       same layout as src/content/.
 import { readdir, readFile } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { join, resolve, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
@@ -603,8 +603,24 @@ export function validateItineraryData(file, data, postsById, postsList) {
 
   // packedAvailable is only true if the city's LIVE qualifying count still
   // clears the gate — recounted from posts, never trusted from the frontmatter.
+  //
+  // The recount must use the SAME pool the builder uses. City-states pool the
+  // whole country (build-itineraries postsOf, 2026-08-12); this recount kept
+  // counting region===city only, so Singapore's first 5-day build — 39
+  // qualifying pooled — was rejected here with "only 7 live qualifying"
+  // (2026-08-13). A gate and its recount that disagree turn every legitimate
+  // build into a validation failure.
   if (d.packedAvailable && postsList) {
-    const cityPosts = postsList.filter((p) => p.data.region === d.city);
+    let isCityState = false;
+    try {
+      const { countries } = JSON.parse(
+        readFileSync(fileURLToPath(new URL('../data/countries.json', import.meta.url)), 'utf8'),
+      );
+      isCityState = countries.some((c) => c.name === d.city && (c.regions || []).includes(c.name));
+    } catch { /* no config → per-region recount, the old default */ }
+    const cityPosts = isCityState
+      ? postsList.filter((p) => (p.data.country ?? '') === d.city)
+      : postsList.filter((p) => p.data.region === d.city);
     const q = qualifyingPosts(cityPosts);
     if (!gateFor(q.length).packed) {
       issues.push(`PACKED-GATE-FAIL: ${file} — packedAvailable=true but only ${q.length} live qualifying post(s) for "${d.city}" (gate needs 15)`);

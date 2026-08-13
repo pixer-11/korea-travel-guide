@@ -339,14 +339,45 @@ test('validateAiOutput: throws when day count mismatches the solver output', () 
   assert.throws(() => validateAiOutput(out, daysArr), /day\(s\), expected 2/);
 });
 
-test('validateAiOutput: throws when whys references a slug that is not a stop', () => {
+// An unknown whys key no longer fails the city (2026-08-13): Singapore's
+// first-ever build died because the model keyed one why as
+// "jurong-lake-gardens" instead of "jurong-jurong-lake-gardens" — a dictionary
+// spelling problem, not a wrong fact. Three directions pinned:
+test('validateAiOutput: a why keyed by a unique slug SUFFIX is remapped, not fatal', () => {
+  const daysArr = [{ stops: [{ slug: 'jurong-jurong-lake-gardens' }] }];
+  const out = {
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    days: [{ label: 'L', intro: 'I' }],
+    whys: { 'jurong-lake-gardens': 'the why text' },
+  };
+  assert.doesNotThrow(() => validateAiOutput(out, daysArr));
+  assert.equal(out.whys['jurong-jurong-lake-gardens'], 'the why text');
+  assert.ok(!('jurong-lake-gardens' in out.whys));
+});
+
+test('validateAiOutput: an unrecognizable whys key is dropped and the rest survive', () => {
   const daysArr = [{ stops: [{ slug: 'a' }] }];
   const out = {
     title: 't', description: 'd', quickAnswer: 'q', faq: [],
     days: [{ label: 'L', intro: 'I' }],
-    whys: { 'not-a-real-slug': 'x' },
+    whys: { 'not-a-real-slug': 'x', a: 'kept' },
   };
-  assert.throws(() => validateAiOutput(out, daysArr), /unknown stop slug/);
+  assert.doesNotThrow(() => validateAiOutput(out, daysArr));
+  assert.ok(!('not-a-real-slug' in out.whys));
+  assert.equal(out.whys.a, 'kept');
+});
+
+test('validateAiOutput: a suffix matching TWO stops is ambiguous — dropped, never guessed', () => {
+  const daysArr = [{ stops: [{ slug: 'x-night-market' }, { slug: 'y-night-market' }] }];
+  const out = {
+    title: 't', description: 'd', quickAnswer: 'q', faq: [],
+    days: [{ label: 'L', intro: 'I' }],
+    whys: { 'night-market': 'whose?' },
+  };
+  assert.doesNotThrow(() => validateAiOutput(out, daysArr));
+  assert.ok(!('night-market' in out.whys));
+  assert.ok(!('x-night-market' in out.whys));
+  assert.ok(!('y-night-market' in out.whys));
 });
 
 test('validateAiOutput: throws when a day is missing label/intro', () => {

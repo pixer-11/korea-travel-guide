@@ -413,7 +413,26 @@ export function validateAiOutput(out, daysArr) {
   const validSlugs = new Set(daysArr.flatMap((d) => (d.stops || []).map((s) => s.slug)));
   const whys = out.whys && typeof out.whys === 'object' ? out.whys : {};
   for (const slug of Object.keys(whys)) {
-    if (!validSlugs.has(slug)) throw new Error(`model returned a why for unknown stop slug "${slug}"`);
+    if (!validSlugs.has(slug)) {
+      // The model sometimes shortens a slug whose region prefix doubles the
+      // venue name: it keyed a why as "jurong-lake-gardens" when the stop is
+      // "jurong-jurong-lake-gardens", and this throw then failed the WHOLE
+      // city (Singapore's first-ever build, 2026-08-13) over a why that was
+      // otherwise correct. A mis-keyed why is recoverable when exactly one
+      // real stop ends with it; an unrecognizable one is just dropped — the
+      // stop falls back to fallbackWhy() like any other missing why. Failing
+      // the city is reserved for prose that would put wrong FACTS on the
+      // page, which an extra dictionary key is not.
+      const matches = [...validSlugs].filter((v) => v.endsWith(`-${slug}`) || v === slug);
+      if (matches.length === 1 && !(matches[0] in whys)) {
+        console.log(`   ↳ why keyed "${slug}" remapped to its unique stop "${matches[0]}"`);
+        whys[matches[0]] = whys[slug];
+      } else {
+        console.log(`   ↳ why keyed "${slug}" matches no stop — dropped (stop keeps its fallback why)`);
+      }
+      delete whys[slug];
+      continue;
+    }
   }
 }
 
