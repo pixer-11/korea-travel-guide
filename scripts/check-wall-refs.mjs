@@ -44,6 +44,18 @@ const blank = new Map();
         // anywhere) — a styled gradient tile, not a blank box. A tile with no
         // background and no `no-photo` class is still a real defect and alarms.
         if (/(?:^|[" ])no-photo(?:[" ]|$)/.test(m[0])) continue;
+        // Coming-soon tiles (a registered country with zero posts) are also
+        // deliberate: a grayscale flag SVG + "Coming soon" pill, no background
+        // image by design. The marker sits on the element itself on the home
+        // page (dest-tile dest-soon) but on the PARENT card on continent pages
+        // (country-card is-soon → plain country-photo child), so for the child
+        // case look at the few chars just before the element — the parent tag
+        // is immediately adjacent, and 80 chars cannot reach a NEIGHBOURING
+        // card (each card carries a >1000-char flag SVG), so a genuinely blank
+        // tile next to a soon-card still alarms.
+        if (/(?:^|[" ])(?:dest-soon|is-soon)(?:[" ]|$)/.test(m[0])) continue;
+        if (m[1] === 'country-photo'
+          && s2.slice(Math.max(0, m.index - 80), m.index).includes('country-card is-soon')) continue;
         if (!/background-image:url\(/.test(m[0])) {
           const label = (s2.slice(m.index, m.index + 400).match(/<span[^>]*>([^<]{1,30})/) || [])[1] ?? '?';
           const key = `${m[1]}:${label}`;

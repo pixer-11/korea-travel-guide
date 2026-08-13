@@ -13,6 +13,7 @@
 //   node scripts/backfill-region-covers.mjs           # fill missing regions
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { cleanCommonsUrl } from './lib/commons.mjs';
 
 const OUT = fileURLToPath(new URL('../data/region-covers.json', import.meta.url));
 const API = 'https://commons.wikimedia.org/w/api.php';
@@ -24,8 +25,16 @@ const TARGETS = {
   'Arlington': ['Arlington Virginia skyline', 'Arlington County Virginia'],
   'Bocaue': ['Bocaue Bulacan', 'Bocaue church Philippines'],
   'Chandigarh': ['Chandigarh Rock Garden', 'Chandigarh Capitol Complex'],
+  'Downtown Dubai': ['Downtown Dubai skyline', 'Burj Khalifa Downtown Dubai', 'Dubai Fountain Downtown'],
   'East Rutherford': ['MetLife Stadium exterior', 'MetLife Stadium aerial view', 'East Rutherford New Jersey'],
+  // Landmark/scenery terms only: the generic "Gardena California" search
+  // returned a Cinco de Mayo parade close-up — genuinely Gardena, but many
+  // identifiable private faces (children included) and no sense of place, so
+  // it was rejected on manual review (2026-08-13). If none of these match,
+  // the honest dark-tile warning stays until Commons has a usable photo.
+  'Gardena': ['Gardena Willows Wetland Preserve', 'Gardena City Hall California', 'Gardena Boulevard California'],
   'George Town': ['George Town Penang street', 'George Town Penang'],
+  'Jumeirah': ['Jumeirah Beach Dubai', 'Burj Al Arab Jumeirah Dubai', 'Jumeirah Dubai coastline'],
   'Le Castellet': ['Circuit Paul Ricard Le Castellet', 'Le Castellet Var France'],
   'Nantou': ['Sun Moon Lake Nantou', 'Sun Moon Lake Taiwan', 'Nantou County'],
   // 'New York City' removed 2026-08-09: it was a spelling-twin of the real
@@ -86,7 +95,10 @@ for (const [region, queries] of Object.entries(TARGETS)) {
       if (!OK_LICENSE.test(lic)) continue;
       const artist = (ii.extmetadata?.Artist?.value ?? '').replace(/<[^>]+>/g, '').trim();
       picked = {
-        url: ii.thumburl ?? ii.url,
+        // cleanCommonsUrl: imageinfo thumburls arrive with utm_* attribution
+        // params that content blockers cancel — the exact defect repaired on
+        // 477 posts (2026-08-10); this writer was the last one not using it.
+        url: cleanCommonsUrl(ii.thumburl ?? ii.url),
         credit: `Photo: ${artist || 'Wikimedia Commons'} (${lic})`,
         source: title,
       };
