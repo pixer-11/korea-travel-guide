@@ -1,0 +1,7 @@
+---
+import { getEntry } from 'astro:content';
+import StaticPage from '../components/StaticPage.astro';
+const entry = await getEntry('staticPages', 'methodology');
+---
+
+<StaticPage entry={entry} translation={null} lang="en" />

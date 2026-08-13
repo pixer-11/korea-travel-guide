@@ -81,6 +81,7 @@ export const ui = {
 
     'footer.tagline': 'Editor-reviewed, AI-assisted travel guides for destinations around the world. Facts sourced from live data; images are licensed or public domain.',
     'footer.editorialPolicy': 'Editorial policy',
+    'footer.methodology': 'How our data works',
     'footer.contact': 'Contact',
     'footer.privacy': 'Privacy',
     'footer.terms': 'Terms',
@@ -614,6 +615,7 @@ export const ui = {
 
     'footer.tagline': '전 세계 여행지를 다루는, 에디터가 검수한 AI 기반 여행 가이드. 사실 정보는 실시간 데이터에서 가져오며, 이미지는 라이선스를 받았거나 퍼블릭 도메인입니다.',
     'footer.editorialPolicy': '편집 정책',
+    'footer.methodology': '데이터는 이렇게 만듭니다',
     'footer.contact': '문의하기',
     'footer.privacy': '개인정보처리방침',
     'footer.terms': '이용약관',
@@ -1135,6 +1137,7 @@ export const ui = {
 
     'footer.tagline': '世界各地の旅行先を扱う、編集者がレビューしたAI活用トラベルガイド。事実情報はライブデータに基づき、画像はライセンス取得済みまたはパブリックドメインです。',
     'footer.editorialPolicy': '編集方針',
+    'footer.methodology': 'データの仕組み',
     'footer.contact': 'お問い合わせ',
     'footer.privacy': 'プライバシー',
     'footer.terms': '利用規約',
@@ -1656,6 +1659,7 @@ export const ui = {
 
     'footer.tagline': 'Guías de viaje con revisión editorial y asistencia de IA para destinos de todo el mundo. Los datos proceden de fuentes en tiempo real; las imágenes tienen licencia o son de dominio público.',
     'footer.editorialPolicy': 'Política editorial',
+    'footer.methodology': 'Cómo funcionan nuestros datos',
     'footer.contact': 'Contacto',
     'footer.privacy': 'Privacidad',
     'footer.terms': 'Términos',
@@ -2177,6 +2181,7 @@ export const ui = {
 
     'footer.tagline': '面向全球目的地的编辑审核、AI 辅助旅行指南。事实信息来自实时数据，图片均已获授权或属于公有领域。',
     'footer.editorialPolicy': '编辑方针',
+    'footer.methodology': '数据是如何来的',
     'footer.contact': '联系我们',
     'footer.privacy': '隐私政策',
     'footer.terms': '使用条款',
