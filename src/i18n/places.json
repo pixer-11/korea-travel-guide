@@ -65,6 +65,12 @@
     "es": "Amritsar",
     "zh": "阿姆利则"
   },
+  "Andijan": {
+    "ko": "안디잔",
+    "ja": "アンディジャン",
+    "es": "Andiján",
+    "zh": "安集延"
+  },
   "Andong": {
     "ko": "안동",
     "ja": "安東",
@@ -227,6 +233,12 @@
     "es": "Bugis",
     "zh": "武吉士"
   },
+  "Bukhara": {
+    "ko": "부하라",
+    "ja": "ブハラ",
+    "es": "Bujará",
+    "zh": "布哈拉"
+  },
   "Bukit Timah": {
     "ko": "부킷 티마",
     "ja": "ブキ・ティマ",
@@ -346,6 +358,12 @@
     "ja": "シカゴ",
     "es": "Chicago",
     "zh": "芝加哥"
+  },
+  "Chimgan": {
+    "ko": "침간",
+    "ja": "チムガン",
+    "es": "Chimgan",
+    "zh": "奇姆干"
   },
   "China": {
     "ko": "중국",
@@ -484,6 +502,12 @@
     "ja": "エルニド",
     "es": "El Nido",
     "zh": "艾尔尼多"
+  },
+  "Fergana": {
+    "ko": "페르가나",
+    "ja": "フェルガナ",
+    "es": "Fergana",
+    "zh": "费尔干纳"
   },
   "Fethiye": {
     "ko": "페티예",
@@ -851,6 +875,12 @@
     "es": "Kenting",
     "zh": "垦丁"
   },
+  "Khiva": {
+    "ko": "히바",
+    "ja": "ヒヴァ",
+    "es": "Jiva",
+    "zh": "希瓦"
+  },
   "Kobe": {
     "ko": "고베",
     "ja": "神戸",
@@ -886,6 +916,12 @@
     "ja": "タオ島",
     "es": "Koh Tao",
     "zh": "涛岛"
+  },
+  "Kokand": {
+    "ko": "코칸트",
+    "ja": "コーカンド",
+    "es": "Kokand",
+    "zh": "浩罕"
   },
   "Kolkata": {
     "ko": "콜카타",
@@ -1061,6 +1097,12 @@
     "es": "Manila",
     "zh": "马尼拉"
   },
+  "Margilan": {
+    "ko": "마르길란",
+    "ja": "マルギラン",
+    "es": "Margilán",
+    "zh": "马尔吉兰"
+  },
   "Marina Bay": {
     "ko": "마리나베이",
     "ja": "マリーナベイ",
@@ -1144,6 +1186,12 @@
     "ja": "名古屋",
     "es": "Nagoya",
     "zh": "名古屋"
+  },
+  "Namangan": {
+    "ko": "나망간",
+    "ja": "ナマンガン",
+    "es": "Namangán",
+    "zh": "纳曼干"
   },
   "Nantes": {
     "ko": "낭트",
@@ -1234,6 +1282,12 @@
     "ja": "ノースポイント",
     "es": "North Point",
     "zh": "北角"
+  },
+  "Nukus": {
+    "ko": "누쿠스",
+    "ja": "ヌクス",
+    "es": "Nukus",
+    "zh": "努库斯"
   },
   "Nusa Penida": {
     "ko": "누사페니다",
@@ -1445,6 +1499,12 @@
     "es": "Saint-Cloud",
     "zh": "圣克卢"
   },
+  "Samarkand": {
+    "ko": "사마르칸트",
+    "ja": "サマルカンド",
+    "es": "Samarcanda",
+    "zh": "撒马尔罕"
+  },
   "San Diego": {
     "ko": "샌디에이고",
     "ja": "サンディエゴ",
@@ -1528,6 +1588,12 @@
     "ja": "沙田",
     "es": "Sha Tin",
     "zh": "沙田"
+  },
+  "Shakhrisabz": {
+    "ko": "샤흐리사브즈",
+    "ja": "シャフリサブス",
+    "es": "Shajrisabz",
+    "zh": "沙赫里萨布兹"
   },
   "Shanghai": {
     "ko": "상하이",
@@ -1703,6 +1769,18 @@
     "es": "Garganta de Taroko",
     "zh": "太鲁阁"
   },
+  "Tashkent": {
+    "ko": "타슈켄트",
+    "ja": "タシケント",
+    "es": "Taskent",
+    "zh": "塔什干"
+  },
+  "Termez": {
+    "ko": "테르메즈",
+    "ja": "テルメズ",
+    "es": "Termez",
+    "zh": "铁尔梅兹"
+  },
   "Thailand": {
     "ko": "태국",
     "ja": "タイ",
@@ -1798,6 +1876,18 @@
     "ja": "アメリカ",
     "es": "Estados Unidos",
     "zh": "美国"
+  },
+  "Urgench": {
+    "ko": "우르겐치",
+    "ja": "ウルゲンチ",
+    "es": "Urgench",
+    "zh": "乌尔根奇"
+  },
+  "Uzbekistan": {
+    "ko": "우즈베키스탄",
+    "ja": "ウズベキスタン",
+    "es": "Uzbekistán",
+    "zh": "乌兹别克斯坦"
   },
   "Valencia": {
     "ko": "발렌시아",
