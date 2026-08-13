@@ -196,14 +196,14 @@ async function main() {
   const capPerCountry = Number(process.env.TARGET_PER_COUNTRY || 0) || Infinity;
   const countryCounts = await countPostsByCountry();
   const regionCatCounts = await countPostsByRegionCategory();
-  const regionQualifyingCounts = await countQualifyingPostsByRegion();
+  const { counts: regionQualifyingCounts, cityStates: itineraryCityStates } = await countQualifyingPostsByRegion();
 
   // Seasonal events: publish with priority when in season (current month or the
   // next month, for lead time), only for active countries.
   const activeNames = new Set(activeCountries.map((c) => c.name));
   const seasonal = await loadSeasonalTargets(activeNames);
 
-  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts, regionQualifyingCounts });
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts, regionQualifyingCounts, itineraryCityStates });
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -347,6 +347,7 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
     countryCounts = new Map(),
     regionCatCounts = new Map(),
     regionQualifyingCounts = new Map(),
+    itineraryCityStates = new Set(),
   } = opts;
   const seen = new Set();
   const all = [];
@@ -488,7 +489,10 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
   const ITINERARY_GATE_RANGES = [[9, 11], [21, 23]]; // 3 posts below gateFor()'s 12/24 thresholds
   const nearItineraryGate = (t) => {
     if (!t.region) return false;
-    const n = regionQualifyingCounts.get(t.region) || 0;
+    // City-state targets look up the POOLED count under the country name —
+    // their per-region counts are deliberately not kept (see the counter).
+    const key = itineraryCityStates.has(t.country ?? '') ? t.country : t.region;
+    const n = regionQualifyingCounts.get(key) || 0;
     return ITINERARY_GATE_RANGES.some(([lo, hi]) => n >= lo && n <= hi);
   };
   const gateBoosted = [...boosted.filter(nearItineraryGate), ...boosted.filter((t) => !nearItineraryGate(t))];
@@ -532,6 +536,17 @@ async function countPostsByRegionCategory() {
 // itinerary-gate boost below.
 async function countQualifyingPostsByRegion() {
   const counts = new Map();
+  // CITY-STATES count under the COUNTRY name, matching build-itineraries'
+  // postsOf() pooling (2026-08-12) — the third consumer of this rule, found in
+  // the same-class sweep after the validator turned out to be the second
+  // (2026-08-13). Per-region counting here meant a city-state pooled at 22
+  // qualifying posts could never receive the 21-23 five-day boost, because no
+  // single district ever reads 21-23.
+  let cityStates = new Set();
+  try {
+    const { countries } = JSON.parse(await readFile(COUNTRIES_FILE, 'utf8'));
+    cityStates = new Set(countries.filter((c) => (c.regions || []).includes(c.name)).map((c) => c.name));
+  } catch { /* no config → per-region counting, the old default */ }
   for (const f of await readdir(POSTS_DIR)) {
     if (!f.endsWith('.md')) continue;
     const raw = await readFile(join(POSTS_DIR, f), 'utf8');
@@ -541,9 +556,10 @@ async function countQualifyingPostsByRegion() {
     try { fm = yaml.load(raw.slice(4, end)); } catch { continue; }
     if (!fm || !fm.region) continue;
     if (!qualifyingPosts([{ data: fm }]).length) continue;
-    counts.set(fm.region, (counts.get(fm.region) || 0) + 1);
+    const key = cityStates.has(fm.country ?? '') ? fm.country : fm.region;
+    counts.set(key, (counts.get(key) || 0) + 1);
   }
-  return counts;
+  return { counts, cityStates };
 }
 
 async function countPostsByCountry() {
