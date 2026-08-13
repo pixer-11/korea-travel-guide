@@ -21,6 +21,13 @@ if ($diff) {
     exit 1
   }
   git commit -m "fix: weekly prose repair batch - invented specifics removed or generalised" -m "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
-  git push origin main
+  # A racing session's push makes this one bounce; ignoring that leaves the work
+  # committed but local-only (seen on the og-mirror patrol, 2026-08-13).
+  git push origin main | Out-File -Append -Encoding utf8 $log
+  if ($LASTEXITCODE -ne 0) {
+    git pull --rebase origin main | Out-File -Append -Encoding utf8 $log
+    git push origin main | Out-File -Append -Encoding utf8 $log
+    if ($LASTEXITCODE -ne 0) { "PUSH FAILED TWICE - committed locally, not on main" | Out-File -Append -Encoding utf8 $log }
+  }
 }
 "done $(Get-Date -Format o)" | Out-File -Append -Encoding utf8 $log

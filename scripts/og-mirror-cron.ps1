@@ -5,9 +5,10 @@
 $ErrorActionPreference = 'Continue'
 Set-Location 'C:\Users\user\wa-main'
 
-# This checkout lives in %TEMP%, which Windows Disk Cleanup empties (2026-08-13:
-# 67 tracked files and most of node_modules gone). Put it back before touching
-# git, or the stash/pop below carries the damage and the commit below stages it.
+# The checkout used to live in %TEMP%, where Windows Disk Cleanup emptied it on
+# 2026-08-13 (67 tracked files and most of node_modules). It has since moved out,
+# but the healer stays: it costs nothing when the tree is intact, and the
+# stash/pop below would otherwise carry any damage into the commit.
 node scripts\heal-worktree.mjs 2>&1 | Out-File -Encoding utf8 "$env:TEMP\og-mirror-last.log"
 
 git stash --quiet
@@ -31,5 +32,18 @@ if ($diff) {
     exit 1
   }
   git commit -m "chore: og mirror + region cover catch-up (daily patrol)" -m "Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
-  git push origin main
+  # Another session pushing first makes this push bounce. The old script ignored
+  # that and exited 0, leaving the day's mirror table committed but local-only --
+  # observed 2026-08-13, and invisible because nothing reads the log. Rebase on
+  # top of whatever landed and try once more; say so loudly if it still fails.
+  git push origin main | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
+  if ($LASTEXITCODE -ne 0) {
+    "push rejected - rebasing onto origin/main and retrying" | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
+    git pull --rebase origin main | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
+    git push origin main | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
+    if ($LASTEXITCODE -ne 0) {
+      "PUSH FAILED TWICE - mirror table is committed locally but not on main" | Out-File -Append -Encoding utf8 "$env:TEMP\og-mirror-last.log"
+      exit 1
+    }
+  }
 }
