@@ -1,0 +1,103 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { useTranslations, localizePath, type Lang } from '../../../i18n/utils';
+import { localizePlace } from '../../../i18n/places';
+import { slugifyRegion } from '../../../lib/slug';
+import { thumbOr } from '../../../lib/wall';
+import { buildDayTrips } from '../../../lib/dayTrips';
+
+// Localized twin of /day-trips/[city] — post titles/descriptions come from the
+// postI18n collection when the translation exists, English otherwise, and the
+// card links follow the reader's language (the newsletter taught us that
+// lesson the hard way, 2026-08-13).
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const hubs = buildDayTrips(posts);
+  const LANGS: Lang[] = ['ko', 'ja', 'es', 'zh'];
+  return LANGS.flatMap((lang) => hubs.map((hub) => ({ params: { lang, city: hub.slug }, props: { hub, lang } })));
+}
+
+const { hub, lang } = Astro.props as { hub: any; lang: Lang };
+const t = useTranslations(lang);
+const cityLabel = localizePlace(hub.city, lang);
+
+const translations = await getCollection('postI18n', ({ data }) => data.lang === lang);
+const trBySlug = new Map(translations.map((e) => [e.data.slug, e.data]));
+const cardTitle = (p: any) => trBySlug.get(p.id)?.title ?? p.data.title;
+const cardDesc = (p: any) => trBySlug.get(p.id)?.description ?? p.data.description;
+const cardHref = (p: any) => (trBySlug.has(p.id) ? `/${lang}/posts/${p.id}/` : `/posts/${p.id}/`);
+
+const metaTitle = t('detour.title').replace('{city}', cityLabel);
+const metaDesc = t('detour.dek').replace('{city}', cityLabel);
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: metaTitle, description: metaDesc, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: t('post.home'), item: `${site}/${lang}/` },
+        { '@type': 'ListItem', position: 2, name: cityLabel, item: `${site}/${lang}/regions/${hub.slug}/` },
+        { '@type': 'ListItem', position: 3, name: t('detour.eyebrow'), item: pageUrl },
+      ],
+    },
+  ],
+};
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{t('detour.eyebrow')}</p>
+      <h1>{metaTitle}</h1>
+      <p class="region-blurb">{metaDesc}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      {hub.neighbors.map((n: any) => (
+        <div class="detour-group">
+          <h2 class="detour-h">
+            {localizePlace(n.region, lang)}
+            <span class="detour-km">{t('detour.away').replace('{km}', String(n.km))}</span>
+          </h2>
+          <div class="grid">
+            {n.posts.map((p: any) => (
+              <PostCard
+                href={cardHref(p)}
+                title={cardTitle(p)}
+                description={cardDesc(p)}
+                rating={p.data.place?.rating}
+                region={localizePlace(p.data.region, lang)}
+                category={p.data.category}
+                image={thumbOr(p.data.heroImage?.url)}
+                eventEndDate={p.data.eventEndDate}
+              />
+            ))}
+          </div>
+          <p class="detour-more">
+            <a href={localizePath(`/regions/${slugifyRegion(n.region)}`, lang)}>{t('itin.moreRegion').replace('{region}', localizePlace(n.region, lang))} →</a>
+          </p>
+        </div>
+      ))}
+      <p class="detour-back">
+        <a href={localizePath(`/regions/${hub.slug}`, lang)}>{t('itin.moreRegion').replace('{region}', cityLabel)} →</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .detour-h { display: flex; align-items: baseline; gap: 0.7rem; margin: 0 0 1.1rem; font-size: 1.35rem; }
+  .detour-km { font-size: 0.85rem; font-weight: 600; color: var(--muted); }
+  .detour-group + .detour-group { margin-top: 2.6rem; }
+  .detour-more { margin: 1rem 0 0; }
+  .detour-more a, .detour-back a { color: var(--ink-soft); font-weight: 600; text-decoration: none; }
+  .detour-more a:hover, .detour-back a:hover { color: var(--accent-text); }
+  .detour-back { margin-top: 2.6rem; }
+</style>

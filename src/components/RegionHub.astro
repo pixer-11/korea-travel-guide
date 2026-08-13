@@ -9,6 +9,7 @@ import Newsletter from './Newsletter.astro';
 import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { slugifyRegion } from '../lib/slug';
+import { buildDayTrips } from '../lib/dayTrips';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
@@ -179,6 +180,9 @@ const roundupsHere = new Map(
     .map((r) => [r.key, r.items.length])
 );
 
+// Day-trip hub for this city, when the distance gates produced one (B3).
+const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? null;
+
 ---
 
 <BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} jsonLd={jsonLd} localized={true}>
@@ -211,6 +215,15 @@ const roundupsHere = new Map(
             </a>
           ))}
         </div>
+      )}
+
+      {dayTripHub && (
+        <p class="daytrip-link">
+          <a href={localizePath(`/day-trips/${dayTripHub.slug}`, lang)}>
+            <Emoji name="compass" /> {t('detour.title').replace('{city}', localizePlace(region, lang))}
+            <span class="daytrip-n">({dayTripHub.neighbors.map((n) => localizePlace(n.region, lang)).slice(0, 3).join(' · ')})</span>
+          </a>
+        </p>
       )}
 
       {/* Same rule as the FAQ above: a labelled row whose value is blank or the

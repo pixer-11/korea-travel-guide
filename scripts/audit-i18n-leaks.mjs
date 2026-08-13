@@ -26,6 +26,7 @@ const TYPES = [
   { name: 'events', dir: 'events' },
   { name: 'essentials', dir: 'essentials' },
   { name: 'continent', dir: 'continents' },
+  { name: 'day-trips', dir: 'day-trips' },
   { name: 'tools', dir: 'tools' },
   // when-to-go lives under tools/, but the sampler fills its quota walking that
   // directory alphabetically and never reaches it — so 1,025 pages sat unchecked

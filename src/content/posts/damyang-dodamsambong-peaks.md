@@ -1,8 +1,8 @@
 ---
-title: "Dodamsambong Peaks: Damyang Travel Guide (4.2★)"
+title: "Dodamsambong Peaks: Danyang Travel Guide (4.2★)"
 description: "Dodamsambong Peaks is actually in Danyang-gun, Chungcheongbuk-do — not Damyang — a cluster of three limestone rocks rising straight out of the Namhangang River. 4.2★ (8,127 reviews) — what visitors say, hours, and tips."
 country: "South Korea"
-region: "Damyang"
+region: "Danyang"
 category: "attraction"
 pubDate: "2026-08-10T09:06:33.588Z"
 heroImage:
@@ -47,12 +47,12 @@ place:
       - 17
     venueId: "ven_416971366e50583665325752557a593048354f70595f314a496843"
 tags:
-  - "damyang"
+  - "danyang"
   - "waterfront"
 quickAnswer: "Dodamsambong Peaks is actually in Danyang-gun, Chungcheongbuk-do — not Damyang — a cluster of three limestone rocks rising straight out of the Namhangang River. It's open daily 9am–6pm, and the calmest window is a weekday within those hours; weekends from 10am on draw the biggest crowds. Plan an hour for the riverside walk, fountain show and optional speedboat ride."
 faq:
   - q: "Is Dodamsambong actually in Damyang?"
-    a: "No — despite the title, it's in Danyang-gun, Chungcheongbuk-do, on the Namhangang River, not in Damyang."
+    a: "No — it's in Danyang-gun, Chungcheongbuk-do, on the Namhangang River, not in Damyang."
   - q: "What are the opening hours?"
     a: "Daily, 9am to 6pm, with no listed variation by day of the week."
   - q: "When is the quietest time to visit?"
