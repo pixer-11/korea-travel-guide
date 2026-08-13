@@ -7218,5 +7218,167 @@
       "getting": "赤柱没有港铁站，通常的做法是从中环交易广场巴士总站乘坐巴士前往（如6、6X、66或260号线），沿途翻山越岭或穿过香港仔隧道，车程大约40至50分钟；此外，从铜锣湾搭乘的士或小巴前往也是常见的选择。",
       "days": "半天时间足够逛完市集摊档、美利楼和海旁长廊；若安排一整天，还可以顺道前往邻近的浅水湾享受沙滩时光。"
     }
+  },
+  "Harbin": {
+    "en": {
+      "blurb": "Harbin, capital of China's northernmost Heilongjiang province, is famed as the \"Ice City\" for its brutally cold winters and its status as home to the world's largest ice and snow sculpture festival. Shaped by a century of Russian and European influence along the Songhua River, it blends onion-domed churches and Central Avenue's colonial-era architecture with a distinctly Northeast Chinese character.",
+      "getting": "Most travellers fly into Harbin Taiping International Airport (HRB), located roughly 37 km southwest of the city, with airport shuttle buses and taxis providing the connection into downtown Harbin. Harbin is also linked to Beijing and other major cities via the high-speed rail network, arriving at Harbin Railway Station or Harbin West Railway Station.",
+      "days": "Plan on ~3-4 days to cover the Ice and Snow World, Central Avenue, St. Sophia Cathedral, and the historic Daoli district, with extra days if venturing further out to ski resorts or snow villages nearby."
+    },
+    "ko": {
+      "blurb": "중국 최북단 헤이룽장성의 성도인 하얼빈은 혹독하게 추운 겨울과 세계 최대 규모의 빙설제(氷雪祭)로 유명해 '얼음 도시'라는 별칭으로 불린다. 쑹화강을 따라 한 세기에 걸쳐 형성된 러시아 및 유럽의 영향이 도시 곳곳에 배어 있어, 양파 모양 돔이 인상적인 성당들과 중앙대가(中央大街)의 식민지 시대 건축물이 독특한 중국 동북 지방 특유의 정취와 어우러진다.",
+      "getting": "대부분의 여행객은 시내에서 남서쪽으로 약 37km 떨어진 하얼빈 타이핑 국제공항(HRB)을 이용하며, 공항버스나 택시를 통해 시내로 이동할 수 있다. 또한 하얼빈은 고속철도망을 통해 베이징을 비롯한 주요 도시들과 연결되어 있으며, 하얼빈역이나 하얼빈서역에서 열차를 이용할 수 있다.",
+      "days": "빙설대세계(氷雪大世界), 중앙대가, 성 소피아 성당, 그리고 역사 지구인 다오리(道里) 일대를 둘러보려면 3~4일 정도가 적당하며, 인근 스키 리조트나 설경 마을까지 다녀올 계획이라면 며칠 더 일정을 늘리는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "中国最北の黒竜江省の省都ハルビンは、厳しい寒さの冬と、世界最大級の氷雪祭りの開催地として知られ、「氷都(ひょうと)」の異名を持つ。松花江(スンガリー)沿いに築かれたこの街は、ロシアや欧州の影響を1世紀にわたって受けてきた歴史があり、洋ねぎ型の丸屋根を持つ教会や中央大街(セントラル・アベニュー)の植民地時代を思わせる街並みが、東北地方らしい気質と見事に融合している。",
+      "getting": "多くの旅行者は、市内から南西へ約37kmに位置するハルビン太平国際空港(HRB)を利用し、空港シャトルバスやタクシーで市街地へ向かう。また、高速鉄道網によって北京をはじめとする主要都市とも結ばれており、ハルビン駅またはハルビン西駅に到着する。",
+      "days": "氷雪世界(アイス・アンド・スノー・ワールド)、中央大街、聖ソフィア大聖堂、そして歴史的な道里(ダオリ)区を巡るには3〜4日ほどを見ておきたい。さらに足を延ばして近郊のスキーリゾートや雪村を訪れる場合は、日程に数日プラスするとよいだろう。"
+    },
+    "es": {
+      "blurb": "Harbin, capital de la provincia de Heilongjiang, la más septentrional de China, es célebre como la \"Ciudad de Hielo\" por sus inviernos brutalmente fríos y por albergar el festival de esculturas de hielo y nieve más grande del mundo. Moldeada por un siglo de influencia rusa y europea a orillas del río Songhua, combina iglesias de cúpulas bulbosas y la arquitectura de la época colonial de la Avenida Central con un carácter marcadamente propio del noreste chino.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Harbin Taiping (HRB), situado a unos 37 km al suroeste de la ciudad, desde donde autobuses lanzadera y taxis conectan con el centro de Harbin. La ciudad también está conectada con Pekín y otras grandes urbes mediante la red de trenes de alta velocidad, con llegada a la Estación de Ferrocarril de Harbin o a la Estación de Ferrocarril de Harbin Oeste.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer el Mundo de Hielo y Nieve, la Avenida Central, la Catedral de Santa Sofía y el histórico distrito de Daoli, sumando días adicionales si se planea visitar estaciones de esquí o pueblos nevados cercanos."
+    },
+    "zh": {
+      "blurb": "哈尔滨，中国最北省份黑龙江的省会，素有\"冰城\"之称——这里冬季严寒刺骨，同时也是全世界规模最大的冰雪节的举办地。松花江畔的这座城市，历经百年俄式与欧式风情的浸润，将洋葱顶教堂、中央大街的殖民时期建筑，与浓郁的东北本土气息交融在一起，别具一格。",
+      "getting": "大多数游客选择飞抵哈尔滨太平国际机场（HRB），该机场位于市区西南约37公里处，可乘坐机场大巴或出租车前往市中心。哈尔滨还通过高铁网络与北京及其他主要城市相连，抵达站为哈尔滨站或哈尔滨西站。",
+      "days": "建议安排约3-4天，游览冰雪大世界、中央大街、圣索菲亚大教堂以及历史悠久的道里区；若还想前往周边的滑雪场或雪乡，则需额外预留时间。"
+    }
+  },
+  "Pai": {
+    "en": {
+      "blurb": "Tucked in a mountain valley in Mae Hong Son province, Pai is the laid-back backpacker and digital-nomad hub famous for its bohemian cafés, live-music bars, and easy access to waterfalls, hot springs, and river tubing. It's also the classic first (or last) stop on the legendary Mae Hong Son Loop, a mountain circuit renowned for its relentless switchbacks and jungle scenery.",
+      "getting": "There's no rail line to Pai, so almost everyone arrives via Chiang Mai International Airport (CNX), then continues by bus or minibus over the winding mountain road — a journey of roughly ~3-4 hours on a route famous for its hundreds of curves; scheduled flights direct to Pai's small local airport exist only intermittently, so travelers shouldn't count on them.",
+      "days": "Most visitors spend ~2-3 days in Pai itself to cover the town, nearby waterfalls, and hot springs, while those tackling the full Mae Hong Son Loop should plan for at least ~4 days on the road."
+    },
+    "ko": {
+      "blurb": "매홍손 주(州)의 산골짜기에 자리한 파이(Pai)는 여유로운 분위기의 배낭여행자·디지털 노마드 성지로, 보헤미안풍 카페와 라이브 음악 바, 그리고 폭포·온천·리버 튜빙을 손쉽게 즐길 수 있는 곳으로 유명합니다. 또한 끝없이 이어지는 급커브와 정글 풍경으로 이름난 전설적인 산길, 매홍손 루프(Mae Hong Son Loop)의 대표적인 출발점(혹은 도착점)이기도 합니다.",
+      "getting": "파이까지 이어지는 철도는 없어서, 대부분의 여행자는 치앙마이 국제공항(CNX)을 통해 입국한 뒤 버스나 미니밴을 타고 구불구불한 산길을 따라 이동합니다. 수백 개의 커브길로 유명한 이 구간은 보통 3~4시간 정도 걸립니다. 파이의 작은 지방 공항으로 가는 직항편이 존재하긴 하지만 운항이 매우 불규칙하므로, 이를 믿고 일정을 짜지 않는 것이 좋습니다.",
+      "days": "대부분의 여행자는 파이 시내와 근교 폭포, 온천을 둘러보는 데 약 2~3일을 보냅니다. 매홍손 루프 전체를 도전하는 경우에는 최소 4일 이상의 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "メーホンソーン県の山あいの谷間にひっそりと佇むパイは、ボヘミアンな雰囲気のカフェやライブ音楽が楽しめるバー、そして滝や温泉、川下りチューブ体験へも気軽に足を延ばせることで知られる、バックパッカーやデジタルノマドに人気ののんびりとした拠点です。また、果てしなく続くつづら折りの山道とジャングルの絶景で名高い山岳ルート「メーホンソーン・ループ」の、定番のスタート地点（またはゴール地点）としても知られています。",
+      "getting": "パイへ通じる鉄道はないため、ほとんどの旅行者はチェンマイ国際空港（CNX）を利用し、そこからバスやミニバンで曲がりくねった山道を進んでパイを目指します。所要時間はおよそ3〜4時間で、数百ものカーブが連続することで有名なルートです。パイの小さな地方空港へ直行する定期便も存在しますが、運航は不定期なため、当てにしないほうがよいでしょう。",
+      "days": "パイの町なかや周辺の滝、温泉を巡るだけなら、多くの旅行者は2〜3日ほど滞在します。一方、メーホンソーン・ループを一周する場合は、少なくとも4日程度の日程を見ておくのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Enclavada en un valle montañoso de la provincia de Mae Hong Son, Pai es el relajado epicentro de mochileros y nómadas digitales, famoso por sus cafés de aire bohemio, sus bares con música en vivo y el fácil acceso a cascadas, aguas termales y paseos en flotador por el río. Es también la parada clásica, ya sea de entrada o de salida, del legendario Mae Hong Son Loop, un circuito de montaña conocido por sus interminables curvas cerradas y sus paisajes de selva.",
+      "getting": "No existe línea de tren hasta Pai, así que casi todos los viajeros llegan primero al Aeropuerto Internacional de Chiang Mai (CNX) y continúan en autobús o minibús por una sinuosa carretera de montaña, un trayecto de unas 3-4 horas en una ruta célebre por sus cientos de curvas. Existen vuelos directos al pequeño aeropuerto local de Pai, pero solo de manera intermitente, así que no conviene contar con ellos.",
+      "days": "La mayoría de los visitantes dedica entre 2 y 3 días a Pai para recorrer el pueblo, sus cascadas cercanas y sus aguas termales, mientras que quienes se lanzan a completar todo el Mae Hong Son Loop deberían reservar al menos 4 días en carretera."
+    },
+    "zh": {
+      "blurb": "拜县坐落于夜丰颂府的山谷之中，是一座悠闲惬意的背包客与数字游民聚集地，以文艺范儿咖啡馆、live music酒吧，以及便捷可达的瀑布、温泉和漂流河道而闻名。它也是传奇的夜丰颂环线（Mae Hong Son Loop）的经典起点（或终点）——这条山地环线以连绵不绝的发夹弯和丛林风光著称。",
+      "getting": "拜县没有铁路可达，因此几乎所有人都是先抵达清迈国际机场（CNX），再转乘大巴或小巴沿蜿蜒山路前往，全程大约需要3-4小时，这条路线以数百个弯道闻名。虽然拜县本地有一个小机场，但直飞航班时有时无，并不稳定，游客不宜指望搭乘飞机前往。",
+      "days": "大多数游客会在拜县本地停留约2-3天，用来游览小镇、周边瀑布和温泉；而打算完整走完夜丰颂环线的人，则至少应规划4天的行程。"
+    }
+  },
+  "Samarkand": {
+    "en": {
+      "blurb": "Samarkand is one of the oldest continuously inhabited cities in Central Asia and a legendary stop on the Silk Road, famed for the turquoise domes and mosaic-tiled madrasas of the Registan. Once the capital of Timur's empire, it remains a living showcase of Islamic architecture, bustling bazaars, and centuries-old craft traditions.",
+      "getting": "Most travellers arrive via Samarkand International Airport (SKD), located about 6km from the city center, or by taking the Afrosiyob high-speed train from Tashkent, which covers the journey in ~2 hours. The rail line also connects onward to Bukhara, making Samarkand an easy stop on a wider Silk Road rail itinerary.",
+      "days": "Plan for ~2-3 days to comfortably cover the Registan, Gur-e-Amir mausoleum, Shah-i-Zinda necropolis, and the Siab Bazaar, with extra time if you want to explore the ancient Afrasiyab site or take day trips into the surrounding region."
+    },
+    "ko": {
+      "blurb": "사마르칸트는 중앙아시아에서 가장 오래도록 사람이 살아온 도시 중 하나이자, 실크로드의 전설적인 기착지입니다. 튀르쿠아즈빛 돔과 정교한 모자이크 타일로 장식된 레기스탄의 마드라사들로 유명하죠. 한때 티무르 제국의 수도였던 이곳은 이슬람 건축의 정수와 활기찬 시장, 수백 년 이어져 온 공예 전통을 오늘날까지 생생하게 보여주는 살아있는 박물관 같은 도시입니다.",
+      "getting": "대부분의 여행자는 시내에서 약 6km 떨어진 사마르칸트 국제공항(SKD)을 이용하거나, 타슈켄트에서 출발하는 아프로시욥 고속열차를 타고 약 2시간 만에 도착합니다. 이 철도 노선은 부하라까지 이어지기 때문에, 사마르칸트는 실크로드 기차 여행 코스에서 들르기 좋은 도시입니다.",
+      "days": "레기스탄, 구리 아미르 영묘, 샤이 진다 영묘군, 시압 바자르를 여유롭게 둘러보려면 2~3일 정도를 계획하는 것이 좋습니다. 고대 아프라시압 유적지를 탐방하거나 주변 지역으로 당일치기 여행을 다녀오고 싶다면 며칠 더 여유를 두는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "サマルカンドは中央アジアで最も古くから人が住み続けてきた都市のひとつであり、シルクロード屈指の伝説的な中継地として知られています。ターコイズブルーのドームとモザイクタイルが美しいレギスタン広場のマドラサ群はその象徴的存在です。かつてティムール帝国の首都として栄えたこの街は、今なおイスラム建築の粋、活気あふれるバザール、そして何世紀にもわたって受け継がれてきた伝統工芸が息づく生きた博物館のような場所です。",
+      "getting": "多くの旅行者は、市中心部から約6kmに位置するサマルカンド国際空港(SKD)を利用するか、タシケントから高速列車「アフロシヨブ号」で約2時間かけて訪れます。この鉄道はブハラへも接続しているため、シルクロード周遊の鉄道旅の一部として、サマルカンドに立ち寄るのも容易です。",
+      "days": "レギスタン広場、グーリ・アミール廟、シャーヒ・ズィンダ廟群、シヨブ・バザールをゆったり巡るなら2〜3日ほど見ておくとよいでしょう。古代都市遺跡アフラシアブを訪れたり、周辺地域への日帰り旅行を楽しみたい場合は、さらに時間を確保するのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Samarcanda es una de las ciudades más antiguas de Asia Central que ha estado habitada de forma ininterrumpida, y una parada legendaria en la Ruta de la Seda, famosa por las cúpulas turquesa y las madrasas de mosaicos del Registán. Antaño capital del imperio de Timur, sigue siendo un escaparate vivo de la arquitectura islámica, los bulliciosos bazares y las tradiciones artesanales centenarias.",
+      "getting": "La mayoría de los viajeros llegan a través del Aeropuerto Internacional de Samarcanda (SKD), situado a unos 6 km del centro de la ciudad, o tomando el tren de alta velocidad Afrosiyob desde Tashkent, que cubre el trayecto en aproximadamente 2 horas. Esta línea ferroviaria también conecta con Bujará, lo que convierte a Samarcanda en una parada muy accesible dentro de un itinerario más amplio por la Ruta de la Seda en tren.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma el Registán, el mausoleo Gur-e-Amir, la necrópolis de Shah-i-Zinda y el bazar de Siab, y algo más de tiempo si se desea explorar el antiguo yacimiento de Afrasiab o realizar excursiones de un día por la región circundante."
+    },
+    "zh": {
+      "blurb": "撒马尔罕是中亚历史最悠久、至今仍有人居住的城市之一,也是丝绸之路上一处传奇驿站,以雷吉斯坦广场那些绿松石色圆顶与镶嵌马赛克瓷砖的伊斯兰经学院闻名于世。这里曾是帖木儿帝国的都城,如今依然完好保留着伊斯兰建筑的精髓、熙熙攘攘的集市,以及延续数百年的传统手工艺。",
+      "getting": "大多数游客会经由撒马尔罕国际机场(SKD)抵达,该机场距市中心约6公里;也可以选择从塔什干搭乘阿夫罗西约(Afrosiyob)高速列车前往,全程约2小时即可到达。这条铁路线还可继续通往布哈拉,使撒马尔罕成为丝绸之路铁路之旅中一处便捷的中转站。",
+      "days": "建议安排2-3天时间,便可从容游览雷吉斯坦广场、古尔-艾米尔陵墓、沙赫-静达陵墓群以及锡亚布集市;如果还想探访古代阿夫拉西亚卜遗址,或前往周边地区一日游,则可适当多留一些时间。"
+    }
+  },
+  "Segovia": {
+    "en": {
+      "blurb": "Segovia is a UNESCO-listed city on Castile's high plateau, famous for its towering Roman aqueduct, the turreted Alcázar castle perched on a rocky spur, and a Gothic cathedral rising above a warren of medieval streets. Its skyline and setting have made it one of the most photographed day-trip destinations near Madrid.",
+      "getting": "The nearest airport is Madrid–Barajas (MAD); most travelers reach Segovia by taking the AVE high-speed train from Madrid's Chamartín station to Segovia-Guiomar, a journey of roughly ~30 minutes, with the station located a few kilometres outside town and linked by local bus or taxi. A direct coach service from Madrid's main bus terminal is also a reliable alternative for reaching the historic centre.",
+      "days": "A single day is enough to cover Segovia's headline sights like the aqueduct, cathedral, and Alcázar, while ~2 days allows time to explore the old town at a slower pace and venture out to nearby royal sites."
+    },
+    "ko": {
+      "blurb": "세고비아는 카스티야의 고원 지대에 자리한 유네스코 세계문화유산 도시로, 웅장하게 솟은 로마 시대 수도교와 바위 능선 위에 우뚝 선 첨탑형 알카사르 성, 그리고 중세 골목길 위로 솟아오른 고딕 양식의 대성당으로 유명합니다. 도시의 독특한 스카이라인과 지형 덕분에 마드리드 근교에서 가장 사진 찍기 좋은 당일치기 여행지로 손꼽힙니다.",
+      "getting": "가장 가까운 공항은 마드리드-바라하스(MAD) 공항입니다. 대부분의 여행객은 마드리드 차마르틴 역에서 AVE 고속열차를 타고 세고비아-기오마르 역까지 약 30분 만에 이동합니다. 이 역은 시내에서 몇 킬로미터 떨어져 있어 현지 버스나 택시로 연결됩니다. 마드리드의 주요 버스 터미널에서 출발하는 직행 버스도 구시가지까지 편리하게 갈 수 있는 신뢰할 만한 대안입니다.",
+      "days": "수도교, 대성당, 알카사르 등 세고비아의 핵심 명소를 둘러보는 데는 하루면 충분하지만, 약 2일 정도 머무르면 구시가지를 여유롭게 둘러보고 인근의 왕실 유적지까지 다녀올 시간을 가질 수 있습니다."
+    },
+    "ja": {
+      "blurb": "セゴビアは、カスティーリャの高原地帯に位置するユネスコ世界遺産の街です。そびえ立つローマ時代の水道橋、岩の尾根の上に築かれた塔付きのアルカサル城、そして中世の街並みが入り組む旧市街の上に堂々と立つゴシック様式の大聖堂で知られています。街のシルエットとその立地の美しさから、マドリード近郊で日帰り旅行先として最も撮影される場所の一つとなっています。",
+      "getting": "最寄りの空港はマドリード・バラハス空港(MAD)です。多くの旅行者は、マドリードのチャマルティン駅からAVE高速鉄道に乗り、セゴビア・グイオマル駅まで約30分で移動する方法でセゴビアを訪れます。同駅は市街地から数キロ離れており、路線バスやタクシーで結ばれています。また、マドリードの主要バスターミナルから旧市街まで直行する長距離バスも、歴史的中心部へ行く際の頼れる選択肢です。",
+      "days": "水道橋、大聖堂、アルカサルといったセゴビアの主要な見どころを巡るには1日で十分ですが、旧市街をゆっくり散策し、近郊の王室関連の史跡まで足を延ばすなら、2日程度あるとより充実した旅になります。"
+    },
+    "es": {
+      "blurb": "Segovia es una ciudad declarada Patrimonio de la Humanidad por la UNESCO, situada en la meseta alta de Castilla, famosa por su imponente acueducto romano, el almenado Alcázar encaramado sobre un espolón rocoso y una catedral gótica que se alza sobre un entramado de calles medievales. Su perfil urbano y su singular emplazamiento la han convertido en uno de los destinos de excursión de un día más fotografiados cerca de Madrid.",
+      "getting": "El aeropuerto más cercano es el de Madrid-Barajas (MAD); la mayoría de los viajeros llega a Segovia tomando el tren de alta velocidad AVE desde la estación de Chamartín, en Madrid, hasta Segovia-Guiomar, un trayecto de aproximadamente ~30 minutos, aunque la estación se encuentra a unos kilómetros de la ciudad y está conectada por autobús local o taxi. Un servicio de autocar directo desde la estación principal de autobuses de Madrid es también una alternativa fiable para llegar al centro histórico.",
+      "days": "Un solo día basta para recorrer los principales atractivos de Segovia, como el acueducto, la catedral y el Alcázar, mientras que ~2 días permiten explorar el casco antiguo con más calma y visitar los sitios reales cercanos."
+    },
+    "zh": {
+      "blurb": "塞哥维亚是位于卡斯蒂利亚高原上的一座联合国教科文组织世界遗产城市，以巍然耸立的古罗马输水道、矗立于岩石岬角之上的城堡式阿尔卡萨尔城堡（Alcázar），以及在中世纪街巷之间拔地而起的哥特式大教堂而闻名。得天独厚的天际线与地理位置，使其成为马德里附近最受欢迎、拍照率最高的一日游目的地之一。",
+      "getting": "距离塞哥维亚最近的机场是马德里—巴拉哈斯机场（MAD）。大多数游客会从马德里查马丁（Chamartín）车站乘坐AVE高速列车前往塞哥维亚-吉奥马尔（Segovia-Guiomar）站，车程约30分钟；该车站位于市区外几公里处，可通过当地巴士或出租车前往市中心。此外，从马德里主要长途汽车站乘坐直达大巴前往历史城区，也是一个便捷可靠的选择。",
+      "days": "一天时间足以游览塞哥维亚的标志性景点，如古罗马输水道、大教堂和阿尔卡萨尔城堡；而如果安排约2天，则可以更悠闲地漫步老城，并有时间前往附近的皇家景点游览。"
+    }
+  },
+  "Shakhrisabz": {
+    "en": {
+      "blurb": "Shakhrisabz is the birthplace of Amir Timur (Tamerlane) and once served as the second capital of his vast Timurid empire, a legacy embodied in the colossal ruined gateway of the Ak-Saray Palace. Quieter and far less visited than nearby Samarkand, its UNESCO-listed historic centre also holds the Kok-Gumbaz Mosque and the Dorut-Tilovat mausoleum complex.",
+      "getting": "Most travellers arrive via Samarkand International Airport, roughly 90km away over a scenic mountain road, continuing on by taxi, shared taxi, or bus; direct passenger trains from Tashkent also stop at Kitab railway station right next to the city. There is no high-speed Afrosiyob service into Shakhrisabz itself, so rail travellers combine a fast train to Samarkand with onward road transport.",
+      "days": "~1 day is enough to cover the core Timurid sights—Ak-Saray Palace, the Amir Timur Memorial, and the Dorut-Tilovat and Kok-Gumbaz complexes—making it an easy day trip or overnight stop from Samarkand."
+    },
+    "ko": {
+      "blurb": "샤흐리사브즈는 아미르 티무르(태멀레인)의 고향이자 한때 그가 세운 광대한 티무르 제국의 두 번째 수도였던 곳으로, 이러한 역사는 지금도 웅장한 폐허로 남아 있는 아크사라이 궁전의 거대한 성문에 고스란히 담겨 있습니다. 인근 사마르칸트에 비해 한적하고 찾는 이도 훨씬 적은 이곳의 유네스코 등재 구시가지에는 콕굼바즈 모스크와 도루트 틸로바트 영묘 단지도 자리하고 있습니다.\",\"getting\":\"대부분의 여행자는 약 90km 떨어진 사마르칸트 국제공항을 통해 도착한 뒤, 경치 좋은 산길을 지나 택시나 합승 택시, 버스를 타고 이동합니다. 타슈켄트에서 출발하는 직행 여객 열차도 시내 바로 옆 키타브 기차역에 정차합니다. 다만 샤흐리사브즈까지 직접 운행하는 고속 열차 아프로시욥은 없기 때문에, 기차 여행자는 사마르칸트까지 고속열차로 이동한 뒤 육로로 갈아타는 방식을 이용합니다.",
+      "getting": "대부분의 여행자는 약 90km 떨어진 사마르칸트 국제공항을 통해 도착한 뒤, 경치 좋은 산길을 지나 택시나 합승 택시, 버스를 타고 이동합니다. 타슈켄트에서 출발하는 직행 여객 열차도 시내 바로 옆 키타브 기차역에 정차합니다. 다만 샤흐리사브즈까지 직접 운행하는 고속 열차 아프로시욥은 없기 때문에, 기차 여행자는 사마르칸트까지 고속열차로 이동한 뒤 육로로 갈아타는 방식을 이용합니다.",
+      "days": "티무르 시대의 핵심 명소인 아크사라이 궁전, 아미르 티무르 기념관, 도루트 틸로바트와 콕굼바즈 단지를 둘러보는 데는 하루 정도면 충분해서, 사마르칸트에서 당일치기나 1박 여행지로 다녀오기 좋습니다."
+    },
+    "ja": {
+      "blurb": "シャフリサブスは、アミール・ティムール(タメルラン)の生誕地であり、かつては彼が築いた広大なティムール帝国の第二の首都として栄えた町です。その栄華の象徴が、廃墟となって今も聳えるアク・サライ宮殿の巨大な城門跡です。近隣のサマルカンドに比べると訪れる観光客は少なく、落ち着いた雰囲気が漂います。ユネスコ世界遺産に登録されている旧市街には、コク・グンバズ・モスクやドルット・ティロヴァット霊廟群も残されています。",
+      "getting": "多くの旅行者は、約90km離れたサマルカンド国際空港(SKD)を利用し、風光明媚な山道をタクシーや乗合タクシー、バスで移動してシャフリサブスへ向かいます。また、タシケントからの直通旅客列車は、市街地のすぐ隣にあるキタブ駅に停車します。ただし、高速列車アフロシヨブはシャフリサブスまで直接乗り入れていないため、鉄道で向かう場合は、サマルカンドまで高速列車を利用し、そこから陸路で乗り継ぐのが一般的です。",
+      "days": "アク・サライ宮殿、アミール・ティムール記念館、ドルット・ティロヴァットおよびコク・グンバズ複合施設といった主要なティムール朝の見どころを回るには、1日あれば十分です。そのため、サマルカンドからの日帰り旅行や1泊程度の滞在先としても手軽に訪れることができます。"
+    },
+    "es": {
+      "blurb": "Shakhrisabz es la ciudad natal de Amir Timur (Tamerlán) y llegó a ser la segunda capital de su vasto imperio timúrida, un legado que se plasma en la colosal y ruinosa puerta de acceso del Palacio Ak-Saray. Más tranquila y mucho menos visitada que la cercana Samarcanda, su centro histórico, declarado Patrimonio de la Humanidad por la UNESCO, alberga también la Mezquita Kok-Gumbaz y el complejo funerario de Dorut-Tilovat.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Samarcanda, a unos 90 km de distancia por una carretera de montaña llena de paisajes, y continúa en taxi, taxi compartido o autobús; los trenes de pasajeros directos desde Taskent también paran en la estación de Kitab, justo al lado de la ciudad. Shakhrisabz no cuenta con servicio del tren de alta velocidad Afrosiyob, así que quienes viajan en tren suelen combinar un trayecto rápido hasta Samarcanda con transporte por carretera para el tramo final.",
+      "days": "Con aproximadamente 1 día basta para recorrer los principales sitios timúridas —el Palacio Ak-Saray, el Memorial de Amir Timur y los complejos de Dorut-Tilovat y Kok-Gumbaz—, lo que convierte a Shakhrisabz en una excursión de un día o una parada de una noche ideal desde Samarcanda."
+    },
+    "zh": {
+      "blurb": "沙赫里萨布兹是阿米尔·帖木儿（跛子帖木儿）的出生地，曾作为其辽阔的帖木儿帝国的第二首都，这段辉煌历史至今仍体现在阿克萨莱宫那座残存却依旧震撼的巨型城门上。相比近在咫尺、游人如织的撒马尔罕，这里显得静谧许多，游客也少得多。被列入联合国教科文组织世界遗产名录的老城区内，还坐落着库克古姆巴兹清真寺和多鲁特·提洛瓦特陵墓群。",
+      "getting": "大多数游客经撒马尔罕国际机场（Samarkand International Airport）抵达，之后沿风景秀丽的山路行驶约90公里，可选择乘出租车、拼车或长途巴士前往。此外，从塔什干出发的直达客运列车也会停靠紧邻市区的基塔布（Kitab）火车站。由于阿夫罗西约布（Afrosiyob）高速列车并不直达沙赫里萨布兹，乘火车前往的游客通常需要先坐高铁到撒马尔罕，再转乘陆路交通继续前行。",
+      "days": "大约一天时间即可游览帖木儿时代的核心景点——阿克萨莱宫、阿米尔·帖木儿纪念馆，以及多鲁特·提洛瓦特和库克古姆巴兹建筑群，非常适合作为从撒马尔罕出发的轻松一日游或短途过夜之旅。"
+    }
+  },
+  "Tiong Bahru": {
+    "en": {
+      "blurb": "Tiong Bahru is one of Singapore's oldest public housing estates, its curved 1930s Art Deco walk-up flats now sitting alongside indie bookshops, third-wave cafés, and a bustling wet market and hawker centre. It's a neighbourhood where heritage architecture and Singapore's café culture overlap in a compact, walkable pocket just south of the city centre.",
+      "getting": "Tiong Bahru is served directly by Tiong Bahru MRT station (EW17) on the East-West Line. Travellers arriving via Changi Airport (SIN) can join the East-West Line by transferring at a hub station such as Tanah Merah, with the whole trip to Tiong Bahru typically taking well under an hour depending on connections.",
+      "days": "Half a day to a full day is enough to wander the estate's back lanes, browse the market and food centre, and linger in a café or two."
+    },
+    "ko": {
+      "blurb": "티옹 바루는 싱가포르에서 가장 오래된 공공주택 단지 중 하나로, 1930년대에 지어진 곡선형 아트 데코 양식의 워크업 플랫들이 지금은 독립 서점, 서드 웨이브 카페, 그리고 활기 넘치는 재래시장 겸 호커센터와 나란히 자리하고 있습니다. 도심 바로 남쪽의 걷기 좋은 아담한 구역 안에서, 유산이 담긴 건축물과 싱가포르의 카페 문화가 서로 겹쳐지는 동네입니다.",
+      "getting": "티옹 바루는 이스트-웨스트 라인(East-West Line)의 티옹 바루역(EW17)에서 바로 이용할 수 있습니다. 창이 공항(SIN)을 통해 도착하는 여행객은 타나 메라(Tanah Merah)와 같은 환승역에서 이스트-웨스트 라인으로 갈아탈 수 있으며, 연결편에 따라 티옹 바루까지 전체 이동 시간은 보통 한 시간이 채 걸리지 않습니다.",
+      "days": "이 단지의 뒷골목을 거닐고, 시장과 푸드센터를 구경하고, 카페 한두 곳에서 여유를 즐기기에는 반나절에서 하루 정도면 충분합니다."
+    },
+    "ja": {
+      "blurb": "ティオン・バルは、シンガポールでも最も古い公営住宅地区のひとつ。1930年代に建てられたアールデコ調の曲線美あふれる階段式アパート群が、今ではインディー系書店やサードウェーブ系カフェ、賑わうウェットマーケットやホーカーセンターと隣り合って共存しています。歴史的建築とシンガポールのカフェ文化が入り混じる、街の中心部からすぐ南にあるコンパクトで歩きやすいエリアです。",
+      "getting": "ティオン・バルへは、イーストウエスト線のティオン・バル駅(EW17)から直接アクセスできます。チャンギ国際空港(SIN)から向かう場合は、タナメラなどの乗換駅でイーストウエスト線に乗り継げば、接続状況にもよりますが所要時間は1時間以内に収まることがほとんどです。",
+      "days": "半日から1日あれば、この地区の裏道をぶらぶら歩き、市場やフードセンターを覗き、カフェで一息つく時間を十分に楽しめます。"
+    },
+    "es": {
+      "blurb": "Tiong Bahru es uno de los barrios de vivienda pública más antiguos de Singapur: sus edificios Art Déco de los años treinta, con sus características curvas, conviven hoy con librerías independientes, cafeterías de tercera ola y un animado mercado húmedo con centro de comida callejera. Es un rincón compacto y perfecto para recorrer a pie, justo al sur del centro de la ciudad, donde la arquitectura patrimonial se mezcla con la vibrante cultura cafetera de Singapur.",
+      "getting": "Tiong Bahru cuenta con su propia estación de MRT, Tiong Bahru (EW17), en la Línea Este-Oeste. Quienes lleguen por el aeropuerto de Changi (SIN) pueden incorporarse a esta línea haciendo trasbordo en una estación de conexión como Tanah Merah; en general, el trayecto completo hasta Tiong Bahru dura bastante menos de una hora, según las conexiones.",
+      "days": "Con medio día o, como mucho, una jornada completa, alcanza para pasear por los callejones del barrio, curiosear en el mercado y el centro de comidas, y detenerse a disfrutar de una que otra cafetería."
+    },
+    "zh": {
+      "blurb": "牛车水……不对，是「大巴窑」……应等一下，让我重新组织。\n\n蒂欧巴鲁（Tiong Bahru）是新加坡历史最悠久的公共住宅区之一,那些建于1930年代、线条圆润的装饰艺术风格（Art Deco）步梯式老公寓,如今与独立书店、精品咖啡馆,以及热闹的湿货市场和小贩中心相映成趣。在这片紧凑宜行、位于市中心南侧的社区里,老建筑的历史底蕴与新加坡的咖啡文化完美交融。",
+      "getting": "蒂欧巴鲁地铁站（Tiong Bahru，编号EW17）位于东西线上,可直达该区。从樟宜机场（SIN）出发的旅客,可先搭乘东西线,并在如淡马锡（Tanah Merah）等换乘站转车前往,视衔接情况,全程通常远不到一小时。",
+      "days": "半天到一整天的时间,足以让你漫步社区里的小巷,逛逛市场和美食中心,再找一两家咖啡馆小坐片刻。"
+    }
   }
 }
