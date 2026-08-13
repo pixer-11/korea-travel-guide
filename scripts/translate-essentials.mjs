@@ -15,6 +15,7 @@ import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
+import { fixCjkBold } from './lib/cjk-bold.mjs';
 
 const SRC = fileURLToPath(new URL('../src/content/essentials/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/essentials-i18n/', import.meta.url));
@@ -81,7 +82,12 @@ async function translateOne(langCode, slug, data) {
   };
   // CJK range tildes ("4~5월") are markdown strikethrough markers — escape in the
   // BODY (same fix as translate-posts.mjs; frontmatter renders as plain text).
-  const safeBody = out.body.trim().replace(/(?<!\\)~/g, '\\~');
+  // fixCjkBold too: translate-posts has applied it at write time since 08-06,
+  // but THIS writer never did, so the very first guide it produced after that
+  // (Hong Kong, 08-13) shipped ja/zh essentials with literal ** in the visa
+  // section — the exact defect the shared fixer exists to stop. Same pipeline,
+  // same guards, or the gap just moves to whichever writer was forgotten.
+  const safeBody = fixCjkBold(out.body.trim().replace(/(?<!\\)~/g, '\\~'));
   const file = `---\n${yaml.dump(fm, { lineWidth: -1 })}---\n\n${safeBody}\n`;
   const dir = join(OUT, langCode);
   await mkdir(dir, { recursive: true });

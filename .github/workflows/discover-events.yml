@@ -82,7 +82,16 @@ jobs:
           pushed=0
           for attempt in 1 2 3 4 5; do
             git fetch origin main
-            if git rebase -X theirs origin/main; then
+            # --autostash is load-bearing: this job writes files it deliberately
+            # does NOT stage (only the five paths above are committed), and
+            # rebase refuses to start over any unstaged change — so all five
+            # attempts failed identically on 2026-08-13 ("cannot rebase: You
+            # have unstaged changes"). scripts/git-push-retry.sh learned this
+            # on 08-04; this inline copy (kept for its -X theirs strategy on
+            # wholesale-regenerated JSON) never got the fix. Same lesson as the
+            # essentials translator tonight: a private copy of shared plumbing
+            # is where a fixed bug goes to live on.
+            if git rebase --autostash -X theirs origin/main; then
               if git push origin HEAD:main; then pushed=1; break; fi
             else
               git rebase --abort || true
