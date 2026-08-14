@@ -1,10 +1,10 @@
 ---
-title: 'Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide'
-description: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (around 12:00 or after 1:30pm) to get a table without a wait.
+title: "Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide"
+description: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (right at opening, 12:10pm, or after 1:30pm) to get a table without a wait.
 country: Singapore
 region: Little India
 category: trendy
-pubDate: '2026-07-23T07:41:39.375Z'
+pubDate: "2026-07-23T07:41:39.375Z"
 place:
   id: ChIJxf_ZdSYZ2jERWHDSce6Gwow
   name: Chola Cafe - Biryani House - “Best Biryani in Singapore”
@@ -16,12 +16,20 @@ place:
   lat: 1.3053029
   lng: 103.85223950000001
   busyness:
-    updated: '2026-07-23'
-    weekdayQuiet: [13, 14, 15, 16]
+    updated: "2026-07-23"
+    weekdayQuiet:
+      - 13
+      - 14
+      - 15
+      - 16
     weekdayBusy:
       - 20
       - 21
-    weekendQuiet: [15, 16, 17, 18]
+    weekendQuiet:
+      - 15
+      - 16
+      - 17
+      - 18
     weekendBusy:
       - 13
       - 14
@@ -29,19 +37,19 @@ place:
       - 21
       - 22
     venueId: ven_776f77473665635344485752456a325a5953645a5f66784a496843
-  phone: '+65 8454 4404'
+  phone: +65 8454 4404
   openingHours:
-    - 'Monday: 12:10 PM – 12:00 AM'
-    - 'Tuesday: 12:10 PM – 12:00 AM'
-    - 'Wednesday: 12:10 PM – 12:00 AM'
-    - 'Thursday: 12:10 PM – 12:00 AM'
-    - 'Friday: 12:10 PM – 12:00 AM'
-    - 'Saturday: 12:10 PM – 12:00 AM'
-    - 'Sunday: 12:10 PM – 12:00 AM'
+    - "Monday: 12:10 PM – 12:00 AM"
+    - "Tuesday: 12:10 PM – 12:00 AM"
+    - "Wednesday: 12:10 PM – 12:00 AM"
+    - "Thursday: 12:10 PM – 12:00 AM"
+    - "Friday: 12:10 PM – 12:00 AM"
+    - "Saturday: 12:10 PM – 12:00 AM"
+    - "Sunday: 12:10 PM – 12:00 AM"
 tags:
   - little india
   - trendy cafe
-quickAnswer: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (around 12:00 or after 1:30pm) to get a table without a wait. Come for slow-cooked mutton or chicken biryani served with the usual accompaniments of raita and brinjal curry, and expect a no-frills, canteen-style setup rather than a polished dining room. It's a strong pick if you want an under-the-radar biryani stop rather than the queue-heavy names on Serangoon Road.
+quickAnswer: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (right at opening, 12:10pm, or after 1:30pm) to get a table without a wait. Come for slow-cooked mutton or chicken biryani served with the usual accompaniments of raita and brinjal curry, and expect a no-frills, canteen-style setup rather than a polished dining room. It's a strong pick if you want an under-the-radar biryani stop rather than the queue-heavy names on Serangoon Road.
 faq:
   - q: How do I get to Chola Cafe - Biryani House by public transport?
     a: Take the North East Line or Downtown Line to Little India MRT, leave via Exit E, and walk about 5–8 minutes to Clive Street.
@@ -75,7 +83,7 @@ If you want to try beyond biryani, look for a mutton or chicken curry ordered se
 
 ## When to go
 
-Weekday lunch (roughly 12:00–1:30pm) and dinner (around 7–8pm) are the natural peak windows for any biryani spot in this district, so arriving just before or after those windows — say 11:30am or 1:45pm — usually means walking straight to a table. Weekends bring a different rhythm, with Little India busier overall due to shoppers and visitors exploring Tekka Centre and the surrounding heritage shops, so a mid-afternoon visit (2:30–4pm) tends to be calmer if you're there on a Saturday or Sunday.
+Weekday lunch (roughly 12:10–1:30pm) and dinner (around 7–8pm) are the natural peak windows for any biryani spot in this district, so arriving right at opening, 12:10pm, or after those windows — say 1:45pm — usually means walking straight to a table. Weekends bring a different rhythm, with Little India busier overall due to shoppers and visitors exploring Tekka Centre and the surrounding heritage shops, so a mid-afternoon visit (2:30–4pm) tends to be calmer if you're there on a Saturday or Sunday.
 
 ## Nearby to pair with your visit
 
