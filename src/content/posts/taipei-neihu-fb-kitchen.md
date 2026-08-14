@@ -5,11 +5,7 @@ country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-07-23'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/48621569__P6MP0HNSOCzpDfSa9iqXru_H6MExctrSk77zP9zJqs.jpg
-  credit: 'Photo: Foursquare user content (fly''s kitchen)'
-  license: foursquare
-  source: https://foursquare.com/v/566a66a1498ed2e937934dc4
+photoless: true
 gallery: []
 tags:
   - taipei
