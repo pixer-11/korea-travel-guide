@@ -1,11 +1,16 @@
 {
-  "validate-content": {
-    "DUPLICATE lijiang-lijiang-old-town.md": {
+  "validate-content": {},
+  "audit-translations": {},
+  "audit-hours-claims": {
+    "HOURS-CONTRADICTION goa-naval-aviation-museum.md": {
+      "since": "2026-08-14",
+      "last": "2026-08-14",
+      "seen": 1
+    },
+    "HOURS-CONTRADICTION little-india-chola-cafe-biryani-house-best-biryani-in-singapore.md": {
       "since": "2026-08-14",
       "last": "2026-08-14",
       "seen": 1
     }
-  },
-  "audit-translations": {},
-  "audit-hours-claims": {}
+  }
 }
