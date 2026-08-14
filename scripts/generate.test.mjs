@@ -5,7 +5,7 @@
 // so it is a genuine testable seam (exported for exactly this purpose).
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { buildRotatedQueue } from './generate.mjs';
+import { buildRotatedQueue, postTopicKey } from './generate.mjs';
 
 test('itinerary-gate boost pulls a region near the 12-post gate ahead of a region far from it', () => {
   // Both targets use a category OUTSIDE the near-roundup boost's set
@@ -59,4 +59,29 @@ test('itinerary-gate boost does not affect a region outside the 9-11 / 21-23 win
   const smallIdx = queue.findIndex((t) => t.region === 'SmallCity');
   const bigIdx = queue.findIndex((t) => t.region === 'BigCity');
   assert.ok(smallIdx < bigIdx, 'neither region is near a gate, so insertion order (SmallCity first) should be unchanged');
+});
+
+// ── postTopicKey: the retirement-proof duplicate layer ──
+// The place.id and slug de-dupes read files on disk, so retiring a duplicate
+// (delete + 301) made its landmark look uncovered — the bulk fill rebuilt
+// "Lijiang Old Town" on 2026-08-14, two days after 8e62a0a1 retired it. These
+// pin the collapse with the REAL twin frontmatters from that incident, and the
+// reverse direction (two genuinely different places in one city must NOT
+// collapse), since an over-matching key would silently skip real guides.
+test('postTopicKey collapses the Lijiang word-order twins to one key', () => {
+  const kept = 'title: "Old Town of Lijiang: Travel Guide (4.6★)"\nregion: "Lijiang"\n';
+  const twin = 'title: "Lijiang Old Town: Travel Guide (4.6★)"\nregion: "Lijiang"\n';
+  const a = postTopicKey(kept);
+  assert.ok(a, 'key must parse from frontmatter');
+  assert.equal(a, postTopicKey(twin), 'word-order twins of one landmark must collapse');
+});
+
+test('postTopicKey keeps two different places in the same city apart', () => {
+  const oldTown = 'title: "Old Town of Lijiang: Travel Guide (4.6★)"\nregion: "Lijiang"\n';
+  const pool = 'title: "Black Dragon Pool Park: Travel Guide (4.5★)"\nregion: "Lijiang"\n';
+  assert.notEqual(postTopicKey(oldTown), postTopicKey(pool), 'different landmarks must keep distinct keys');
+});
+
+test('postTopicKey returns null when frontmatter has no title', () => {
+  assert.equal(postTopicKey('region: "Lijiang"\n'), null);
 });

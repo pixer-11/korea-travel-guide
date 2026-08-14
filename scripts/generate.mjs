@@ -25,6 +25,7 @@ import { dirname, join } from 'node:path';
 import yaml from 'js-yaml';
 
 import { slugify } from './lib/slugify.mjs';
+import { topicKey } from './lib/topic-key.mjs';
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
 import { openHourSet, clampBusynessHours } from '../src/lib/hours.mjs';
@@ -188,6 +189,7 @@ async function main() {
   );
   USED_PLACE_IDS = await loadUsedPlaceIds();
   USED_IMAGE_URLS = await loadUsedImageUrls();
+  const usedTopicKeys = await loadUsedTopicKeys();
 
   // Per-country fill cap. When TARGET_PER_COUNTRY is set (e.g. the backfill
   // workflow uses 58), a country that already has that many published guides is
@@ -274,8 +276,19 @@ async function main() {
         continue;
       }
 
+      // Same landmark under a different place.id / word order (see
+      // postTopicKey). Marked done: the landmark IS covered, just not by
+      // this slug — retrying it daily would burn the same API calls forever.
+      const tKey = postTopicKey(post.markdown);
+      if (tKey && usedTopicKeys.has(tKey)) {
+        done.add(target.query);
+        console.log(`  ↩︎  topic twin of an existing post: ${post.slug}`);
+        continue;
+      }
+
       await writeFile(join(POSTS_DIR, `${post.slug}.md`), post.markdown, 'utf8');
       existing.add(post.slug);
+      if (tKey) usedTopicKeys.add(tKey);
       done.add(target.query);
       published++;
       console.log(`  ✅  published: ${post.slug}`);
@@ -582,6 +595,31 @@ async function loadUsedPlaceIds() {
     if (m) ids.add(m[1].trim());
   }
   return ids;
+}
+
+// Topic key of one generated post's markdown, or null if it has no title.
+// The place.id and slug de-dupes both read files ON DISK, so retiring a
+// duplicate (delete + 301) makes its landmark look uncovered again — the bulk
+// fill rebuilt "Lijiang Old Town" on 2026-08-14, two days after it was retired,
+// because Google files that landmark under a second place.id and the retired
+// slug no longer existed to match. Only the topic layer survives retirement:
+// the CANONICAL post is still on disk, and every twin collapses to its key.
+export function postTopicKey(markdown) {
+  const t = markdown.match(/^title:\s*"?(.+?)"?\s*$/m);
+  const r = markdown.match(/^region:\s*"?(.+?)"?\s*$/m);
+  return t && r ? topicKey(t[1], r[1]) : null;
+}
+
+// Topic key of every post already on disk — same collapse validate-content
+// uses for its DUPLICATE-topic line, so detection and prevention cannot drift.
+async function loadUsedTopicKeys() {
+  const keys = new Set();
+  for (const f of await readdir(POSTS_DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const k = postTopicKey(await readFile(join(POSTS_DIR, f), 'utf8'));
+    if (k) keys.add(k);
+  }
+  return keys;
 }
 
 // Every hero image URL already published, so no two posts share the same photo.
