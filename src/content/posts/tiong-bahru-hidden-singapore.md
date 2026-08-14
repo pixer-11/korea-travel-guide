@@ -5,11 +5,7 @@ country: "Singapore"
 region: "Tiong Bahru"
 category: "hidden-gem"
 pubDate: "2026-08-13T09:35:23.427Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hidden_underground_staff_canteen_open_to_the_public%2C_Changi_Airport_Terminal_1%2C_Singapore_01.jpg/3840px-Hidden_underground_staff_canteen_open_to_the_public%2C_Changi_Airport_Terminal_1%2C_Singapore_01.jpg"
-  credit: "Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hidden_underground_staff_canteen_open_to_the_public,_Changi_Airport_Terminal_1,_Singapore_01.jpg"
+photoless: true
 gallery: []
 place:
   id: "ChIJ02PtjfTH2UARi1oiJbkR9v8"
