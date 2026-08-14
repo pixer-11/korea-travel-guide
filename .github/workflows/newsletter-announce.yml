@@ -1,0 +1,30 @@
+name: newsletter-announce
+# One-off product-announcement campaign (Tokyo field guide, growth research C1).
+# No schedule on purpose — an announcement is always an intentional owner action.
+on:
+  workflow_dispatch:
+    inputs:
+      live:
+        description: 'Type true to REALLY send (otherwise dry-run)'
+        required: false
+        default: 'false'
+permissions:
+  contents: read
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Send (or dry-run)
+        run: |
+          if [ "${{ github.event.inputs.live }}" = "true" ]; then
+            node scripts/newsletter-announce.mjs --live
+          else
+            node scripts/newsletter-announce.mjs
+          fi
+        env:
+          MAILERLITE_API_TOKEN: ${{ secrets.MAILERLITE_API_TOKEN }}
+          NEWSLETTER_FROM_EMAIL: ${{ secrets.NEWSLETTER_FROM_EMAIL }}
+          NEWSLETTER_FROM_NAME: Wander Atlas
