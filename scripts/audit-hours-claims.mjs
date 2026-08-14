@@ -143,6 +143,15 @@ export function hoursProblems(raw) {
   // box only knows whole days, so a half-day claim cannot contradict it.
   const SCOPE_SHIFT = `(?!\\s+(?:hours?|times?|schedules?|openings?|closings?|mornings?|afternoons?|evenings?|nights?|crowds?|visitors?|queues?|lines?|tickets?|entry|admission|prices?|rates?|brunch|lunch|dinner|traffic|services?)\\b)`;
   const claimsClosedOn = (d, text) => {
+    // "closed weekends" is a closure claim about Saturday and Sunday, but the
+    // word is invisible to every day-aware rule here — so in "…4:30pm on
+    // Fridays) and is closed weekends…" the strip left "closed" standing and
+    // the Friday BEFORE it was reported as the closed day (Bromo, 2026-08-14:
+    // a correct sentence, quarantined, and the fixer had nothing to repair —
+    // the same nothing-to-fix loop every other lesson in this function
+    // describes). Spelling the word out as its two days lets the existing
+    // list/strip/pairing rules handle it with no second code path.
+    text = text.replace(/\bweekends?\b/gi, 'Saturday and Sunday');
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just

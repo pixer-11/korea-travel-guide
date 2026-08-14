@@ -84,6 +84,18 @@ const cases = [
   // "closed Sunday"라고 주장하는 경우.
   ['TP-closed-sunday-still-flags (must FLAG)', post(VEGAS,
     'Note that the gardens are closed Sunday, so weekend visitors should aim for Saturday.'), 1],
+  // 08-14 브로모: "…(4:30pm Fridays) and is closed weekends…" — 'weekends'는
+  // 토·일 휴관 주장인데 요일 규칙들 눈에는 안 보여서, strip이 남긴 closed가
+  // 앞의 Friday와 짝지어져 "금요일 휴관 주장" 오탐 → 발행 당일 격리, 수리기는
+  // 고칠 게 없었다. weekends를 두 요일로 풀어 쓰면 기존 규칙이 그대로 처리한다.
+  ['FP-bromo-closed-weekends (should be CLEAN)', post(
+    ['Monday: 7:30 AM – 4:00 PM', 'Tuesday: 7:30 AM – 4:00 PM', 'Wednesday: 7:30 AM – 4:00 PM',
+     'Thursday: 7:30 AM – 4:00 PM', 'Friday: 7:30 AM – 4:30 PM', 'Saturday: Closed', 'Sunday: Closed'],
+    'The park itself runs 7:30am to 4pm (4:30pm Fridays) and is closed weekends for entry, so plan a weekday date.'), 0],
+  // 역방향: 사실상자엔 토요일이 열려 있는데 본문이 "closed weekends"라고
+  // 주장하면 이제는 토·일 각각의 휴관 주장으로 읽혀 잡혀야 한다.
+  ['TP-closed-weekends-but-open (must FLAG)', post(WEEK_OPEN_MON,
+    'The market is closed weekends, so come on a weekday morning instead.'), 1],
 ];
 
 let fail = 0;

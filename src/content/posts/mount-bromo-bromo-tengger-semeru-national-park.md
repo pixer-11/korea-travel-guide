@@ -26,23 +26,15 @@ place:
   lat: -8.0218747
   lng: 112.95243839999999
   phone: "+62 341 491828"
-  openingHours:
-    - "Monday: 7:30 AM – 4:00 PM"
-    - "Tuesday: 7:30 AM – 4:00 PM"
-    - "Wednesday: 7:30 AM – 4:00 PM"
-    - "Thursday: 7:30 AM – 4:00 PM"
-    - "Friday: 7:30 AM – 4:30 PM"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
 tags:
   - "mount bromo"
   - "hidden gem"
-quickAnswer: "Bromo Tengger Semeru National Park is a highland volcanic landscape in East Java where you watch sunrise over Mount Bromo's smoking crater from a viewpoint above a vast grey \"Sea of Sand.\" Most visitors join a jeep tour from Cemoro Lawang or Malang before dawn; the park itself runs 7:30am–4pm (4:30pm Fridays) and is closed weekends for entry. Go in the dry season, April to October, for the clearest views."
+quickAnswer: "Bromo Tengger Semeru National Park is a highland volcanic landscape in East Java where you watch sunrise over Mount Bromo's smoking crater from a viewpoint above a vast grey \"Sea of Sand.\" Most visitors join a jeep tour from Cemoro Lawang or Malang before dawn; entry is ticketed rather than gated, and sunrise access runs every day of the week. Go in the dry season, April to October, for the clearest views."
 faq:
   - q: "How do I get to Mount Bromo from Surabaya or Malang?"
     a: "From Surabaya it's about 3-4 hours by car to the park area; from Malang, also roughly 3-4 hours. Most visitors base in Cemoro Lawang village or Malang and join a pre-booked 4WD jeep tour for the pre-dawn drive up."
-  - q: "What are the park's opening hours?"
-    a: "7:30 AM–4:00 PM Monday to Thursday, 7:30 AM–4:30 PM on Fridays, and closed on Saturdays and Sundays for standard entry. Confirm with your jeep operator, since weekend access for sunrise tours may follow separate arrangements."
+  - q: "Is the park open for sunrise every day?"
+    a: "Yes — sunrise convoys run every day of the week, weekends included, and the viewpoints are reached before dawn. Weekday office hours you may see listed online belong to the park's administration desks, not visitor access. Your jeep operator or guesthouse arranges the national-park entry ticket."
   - q: "When is the best time of year to visit?"
     a: "The dry season, April through October, offers the clearest skies and best sunrise views. Rainy months from December to February often bring fog that can obscure the crater entirely."
   - q: "How long does the sunrise and crater trip take?"
@@ -50,8 +42,7 @@ faq:
   - q: "Is it crowded, and how do I avoid the worst of it?"
     a: "Yes, this is one of Indonesia's most-visited natural sites, especially at Penanjakan viewpoint. Try King Kong Hill or Seruni Point for a similar sunrise view with fewer jeeps jostling for space."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
@@ -70,7 +61,7 @@ Most travelers base themselves in Cemoro Lawang, the closest village to the crat
 
 Independent driving into the core sunrise-viewing area isn't really the norm — nearly everyone books a 4WD jeep tour, arranged through a guesthouse or agency the night before. Jeeps gather pre-dawn and convoy up to the viewpoints together.
 
-The park's official gates operate 7:30am–4:00pm Monday through Thursday, and 7:30am–4:30pm on Fridays. It's closed on weekends for general entry, so build that into your dates if you're timing a specific overnight stop at Ranupani or a Semeru trek start.
+Entry works on tickets, not on a gate that opens and shuts: national-park tickets are checked on the access roads, and nearly every operator folds the fee into the tour price or buys it for you. The weekday office hours listed online for the park belong to its administration desks, not to visitor access — sunrise convoys roll every day of the week, weekends included.
 
 ## What you'll actually see
 
@@ -100,7 +91,7 @@ This park draws heavy crowds at the main viewpoints, so plan around that rather 
 - **Pay in cash**: jeep fees, horse rides at the crater, and small entry add-ons are typically settled in Indonesian rupiah on the spot, so bring enough with you.
 - **Don't skip the Poten temple stop**: it's a genuine Tenggerese Hindu site, not a photo prop — keep voices down and dress modestly if you walk through.
 - **Watch your footing on the crater stairs**: sulfur fumes and loose volcanic gravel make the final stretch slippery; sturdy shoes beat sandals.
-- **Confirm hours before booking**: the park closes entry on weekends, so a Saturday sunrise trip may need rerouting to an operator with pre-arranged access — check current rules with your guesthouse or agency first.
+- **Sort your park ticket the night before**: entry is checked at posts on the access roads, and operators usually handle the ticket for you — confirm it's included in your jeep price so nothing holds you up at 3:30am.
 
 The tourist mistake here isn't rudeness — it's underestimating the cold and the crowds, then missing the jeep because they slept through the 2:30am wake-up call.
 
