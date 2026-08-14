@@ -156,6 +156,33 @@ jobs:
             printf '%s' "$OUT" | tail -n +2 > /tmp/handover.txt
           fi
 
+      # Hours arriving from Google can contradict prose that was written before
+      # the venue had any. Chola Cafe (Little India) was published on 07-23 with
+      # no openingHours and advice to arrive at 11:30am; this job filled in
+      # 12:10pm–midnight on 08-14, and the article was left recommending a time
+      # the kitchen is shut. The auditor noticed the same evening — but the
+      # FIXER only ran in the weekly refresh, so the contradiction was a warning
+      # the owner would relay for up to six more days.
+      #
+      # Scoped to what this run touched: a pre-existing contradiction elsewhere
+      # is the weekly refresh's job, and rewriting posts this run never opened
+      # would put an LLM near articles nothing here changed. Runs BEFORE the
+      # commit, so the repair ships with the hours that caused it rather than
+      # dying with the runner.
+      - name: Correct prose the new hours contradict
+        if: always()
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          CHANGED=$(git diff --name-only -- src/content/posts \
+            | sed 's|^src/content/posts/||;s|\.md$||' | paste -sd, -)
+          if [ -z "$CHANGED" ]; then
+            echo "no posts touched by this run — nothing to check"
+          else
+            node scripts/fix-hours-claims.mjs --only="$CHANGED" 2>&1 | tail -20
+          fi
+
       - name: Commit updated posts
         id: commit
         run: |
