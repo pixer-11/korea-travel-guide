@@ -17,7 +17,7 @@ const product = (products as Record<string, any>)[slug] as { url: string; price:
 ---
 {product && (
   <aside class="itin-guide" aria-labelledby="itin-guide-title">
-    <p class="itin-guide-title" id="itin-guide-title"><Emoji name="printer" /> {t('itin.guideTitle')}</p>
+    <p class="itin-guide-title" id="itin-guide-title"><Emoji name="printer" />{' '}{t('itin.guideTitle')}</p>
     <p class="itin-guide-dek">{t('itin.guideDek')}</p>
     <a class="itin-guide-btn" href={product.url} target="_blank" rel="noopener">
       {t('itin.guideCta').replace('{price}', product.price)}
