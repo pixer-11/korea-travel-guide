@@ -1,48 +1,48 @@
 ---
-title: "HIDDEN Singapore: Tiong Bahru Travel Guide (4.9★)"
-description: "HIDDEN Singapore sits at 1092 Lower Delta Rd, a short taxi or bus ride from the Tiong Bahru estate rather than inside its usual shophouse cluster — check the address before you go, since it's easy to assume it's on Yong Siak Street. 4.9★ (140 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Tiong Bahru"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:35:23.427Z"
+title: 'HIDDEN Singapore: Tiong Bahru Travel Guide (4.9★)'
+description: HIDDEN Singapore sits at 1092 Lower Delta Rd, a short taxi or bus ride from the Tiong Bahru estate rather than inside its usual shophouse cluster — check the address before you go, since it's easy to assume it's on Yong Siak Street. 4.9★ (140 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Tiong Bahru
+category: hidden-gem
+pubDate: '2026-08-13T09:35:23.427Z'
 photoless: true
 gallery: []
 place:
-  id: "ChIJ02PtjfTH2UARi1oiJbkR9v8"
-  name: "HIDDEN Singapore"
-  address: "1092 Lower Delta Rd, Singapore 169203"
+  id: ChIJ02PtjfTH2UARi1oiJbkR9v8
+  name: HIDDEN Singapore
+  address: 1092 Lower Delta Rd, Singapore 169203
   rating: 4.9
   userRatingsTotal: 140
-  googleMapsUrl: "https://maps.google.com/?cid=18443948810832075403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18443948810832075403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2809153
   lng: 103.8222576
-  phone: "+65 9722 7244"
+  phone: +65 9722 7244
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "tiong bahru"
-  - "hidden gem"
-quickAnswer: "HIDDEN Singapore sits at 1092 Lower Delta Rd, a short taxi or bus ride from the Tiong Bahru estate rather than inside its usual shophouse cluster — check the address before you go, since it's easy to assume it's on Yong Siak Street. It's open daily from 9am to 5pm, and with only 140 reviews behind its 4.9 rating, it's still genuinely under-the-radar. Plan an hour, go on a weekday morning, and pair it with a wander through Tiong Bahru's Art Deco blocks afterward."
+  - tiong bahru
+  - hidden gem
+quickAnswer: HIDDEN Singapore sits at 1092 Lower Delta Rd, a short taxi or bus ride from the Tiong Bahru estate rather than inside its usual shophouse cluster — check the address before you go, since it's easy to assume it's on Yong Siak Street. It's open daily from 9am to 5pm, and with only 140 reviews behind its 4.9 rating, it's still genuinely under-the-radar. Plan an hour, go on a weekday morning, and pair it with a wander through Tiong Bahru's Art Deco blocks afterward.
 faq:
-  - q: "How do I get to HIDDEN Singapore from Tiong Bahru MRT?"
-    a: "It's not walkable from the estate — take a taxi or ride-hail from Tiong Bahru Station (East-West Line), about 10–15 minutes depending on traffic, to 1092 Lower Delta Rd."
-  - q: "What are the opening hours?"
-    a: "It's open daily, including weekends, from 9:00 AM to 5:00 PM. There's no rest day to plan around."
-  - q: "How long should I spend there?"
-    a: "Around an hour is enough for a proper visit, plus travel time to and from the main Tiong Bahru estate."
-  - q: "Is it busy or a hidden find?"
-    a: "It's genuinely under-the-radar, with just 140 reviews despite a 4.9 rating, so expect a quiet, unhurried experience."
-  - q: "What else is nearby to combine with a visit?"
-    a: "Pair it with Tiong Bahru Market for hawker food and a stroll along Yong Siak Street through the neighborhood's Art Deco blocks, all a short ride away."
+  - q: How do I get to HIDDEN Singapore from Tiong Bahru MRT?
+    a: It's not walkable from the estate — take a taxi or ride-hail from Tiong Bahru Station (East-West Line), about 10–15 minutes depending on traffic, to 1092 Lower Delta Rd.
+  - q: What are the opening hours?
+    a: It's open daily, including weekends, from 9:00 AM to 5:00 PM. There's no rest day to plan around.
+  - q: How long should I spend there?
+    a: Around an hour is enough for a proper visit, plus travel time to and from the main Tiong Bahru estate.
+  - q: Is it busy or a hidden find?
+    a: It's genuinely under-the-radar, with just 140 reviews despite a 4.9 rating, so expect a quiet, unhurried experience.
+  - q: What else is nearby to combine with a visit?
+    a: Pair it with Tiong Bahru Market for hawker food and a stroll along Yong Siak Street through the neighborhood's Art Deco blocks, all a short ride away.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

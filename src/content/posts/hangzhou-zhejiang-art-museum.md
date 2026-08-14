@@ -6,10 +6,10 @@ region: Hangzhou
 category: attraction
 pubDate: '2026-08-05T11:09:42.485Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7d/Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG
-  credit: 'Photo: LukeLOU / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Main_Hall_of_Zhejiang_Museum_Gushan_Branch_2012.JPG
+  url: https://fastly.4sqi.net/img/general/original/57937108_5HWD21keuOFzYvvkEyjjbsZYPpW0ctK23s4jlmKuoQg.jpg
+  credit: 'Photo: Foursquare user content (Zhejiang Memorial Hall of Revoluntionary Martyrs (浙江革命烈士纪念馆))'
+  license: foursquare
+  source: https://foursquare.com/v/4cb924e79552b60c66dcd18b
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg/3840px-Liangzhu_Culture_Jade_Ornament_Zhejiang_Provincial_Museum%2C_Wulin_Branch%2C_West_Lake_Cultural_Square%2C_Hangzhou%2C_China.jpg
     credit: 'Photo: Gary Todd / Wikimedia Commons (CC0)'

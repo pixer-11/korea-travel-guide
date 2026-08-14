@@ -22,6 +22,7 @@ faq:
     a: The original is in Taipei, and it's popular enough to have recently opened its first overseas branch in Hong Kong — a sign of how far its reputation has traveled since 2022.
 aiGenerated: true
 photoless: true
+draft: true
 ---
 
 ## Why this waffle stall has Taipei talking

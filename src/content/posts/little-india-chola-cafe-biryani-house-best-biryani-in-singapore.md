@@ -1,10 +1,10 @@
 ---
-title: "Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide"
+title: 'Chola Cafe - Biryani House - Best Biryani in Singapore: Little India Travel Guide'
 description: Chola Cafe - Biryani House sits on a quiet side street in Little India, a short walk from Little India MRT (Exit E), and is best visited slightly off peak lunch (right at opening, 12:10pm, or after 1:30pm) to get a table without a wait.
 country: Singapore
 region: Little India
 category: trendy
-pubDate: "2026-07-23T07:41:39.375Z"
+pubDate: '2026-07-23T07:41:39.375Z'
 place:
   id: ChIJxf_ZdSYZ2jERWHDSce6Gwow
   name: Chola Cafe - Biryani House - “Best Biryani in Singapore”
@@ -16,7 +16,7 @@ place:
   lat: 1.3053029
   lng: 103.85223950000001
   busyness:
-    updated: "2026-07-23"
+    updated: '2026-07-23'
     weekdayQuiet:
       - 13
       - 14
@@ -39,13 +39,13 @@ place:
     venueId: ven_776f77473665635344485752456a325a5953645a5f66784a496843
   phone: +65 8454 4404
   openingHours:
-    - "Monday: 12:10 PM – 12:00 AM"
-    - "Tuesday: 12:10 PM – 12:00 AM"
-    - "Wednesday: 12:10 PM – 12:00 AM"
-    - "Thursday: 12:10 PM – 12:00 AM"
-    - "Friday: 12:10 PM – 12:00 AM"
-    - "Saturday: 12:10 PM – 12:00 AM"
-    - "Sunday: 12:10 PM – 12:00 AM"
+    - 'Monday: 12:10 PM – 12:00 AM'
+    - 'Tuesday: 12:10 PM – 12:00 AM'
+    - 'Wednesday: 12:10 PM – 12:00 AM'
+    - 'Thursday: 12:10 PM – 12:00 AM'
+    - 'Friday: 12:10 PM – 12:00 AM'
+    - 'Saturday: 12:10 PM – 12:00 AM'
+    - 'Sunday: 12:10 PM – 12:00 AM'
 tags:
   - little india
   - trendy cafe
@@ -63,6 +63,7 @@ faq:
     a: Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all within easy walking distance and make for a good pre- or post-meal wander.
 aiGenerated: true
 photoless: true
+draft: true
 ---
 
 ## Why go

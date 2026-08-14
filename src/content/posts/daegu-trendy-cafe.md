@@ -22,6 +22,7 @@ faq:
     a: Look for cafes touting their own house-roasted beans, given Daegu's regional coffee-roasting reputation, plus Korean cafe staples like injeolmi (rice cake) lattes and bingsu shaved ice in summer.
 aiGenerated: true
 photoless: true
+draft: true
 ---
 
 ## Why Daegu's Cafe Scene Stands Out

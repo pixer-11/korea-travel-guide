@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-07-30'
 eventEndDate: '2026-08-02'
-gallery: []
 tags:
   - pattaya
   - event
@@ -25,7 +24,11 @@ faq:
     a: Yes, it draws a broad mix of Thai families, expats, and tourists, with food vendors and entertainment along Beach Road, though the crowds and noise from fireworks should be considered for very young children.
 aiGenerated: true
 eventRecurring: true
-draft: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Skyline_of_Pattaya_city_from_the_Ocean_Lana%2C_Cafe_Ferry.jpg/3840px-Skyline_of_Pattaya_city_from_the_Ocean_Lana%2C_Cafe_Ferry.jpg
+  credit: 'Photo: iMahesh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Skyline_of_Pattaya_city_from_the_Ocean_Lana,_Cafe_Ferry.jpg
 ---
 ## Why this festival is worth planning around
 
