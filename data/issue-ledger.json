@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "DUPLICATE lijiang-lijiang-old-town.md": {
+      "since": "2026-08-14",
+      "last": "2026-08-14",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
