@@ -41,11 +41,6 @@ faq:
     a: Early lunch or an early dinner, before the after-work DIFC crowd arrives, tends to offer the best shot at counter seating.
 aiGenerated: true
 photoless: true
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/20545493_0RjAAOhZd5Q_scHLHgJLakRDBabDS1xoYeyaIulJiBI.jpg
-  credit: 'Photo: Foursquare user content (Mercato - DIFC)'
-  license: foursquare
-  source: https://foursquare.com/v/574d8a59498e4e4889ccbf77
 ---
 
 ## Why Barrafina matters
