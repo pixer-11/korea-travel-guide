@@ -6,15 +6,11 @@ region: "Mong Kok"
 category: "attraction"
 pubDate: "2026-08-12T17:12:09.977Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_Tong_Ming_Street_Park_n_nearby_Sheung_Tak_Estate_Tong_Chun_Street_Beverly_Garden_October_2022_Px3.jpg/3840px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_Tong_Ming_Street_Park_n_nearby_Sheung_Tak_Estate_Tong_Chun_Street_Beverly_Garden_October_2022_Px3.jpg"
-  credit: "Photo: AUMOON menkee DAVISHOr LOK / Wikimedia Commons (CC BY-SA 4.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg/3840px-Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg"
+  credit: "Photo: 姒姓賢寧 / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_Tong_Ming_Street_Park_n_nearby_Sheung_Tak_Estate_Tong_Chun_Street_Beverly_Garden_October_2022_Px3.jpg"
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg/3840px-Archway_of_Lok_Kwan_Street_Park%2C_Tai_Kok_Tsui_in_April_2022.jpg"
-    credit: "Photo: 姒姓賢寧 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Archway_of_Lok_Kwan_Street_Park,_Tai_Kok_Tsui_in_April_2022.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Archway_of_Lok_Kwan_Street_Park,_Tai_Kok_Tsui_in_April_2022.jpg"
+gallery: []
 place:
   id: "ChIJuZTTwrAABDQRjM1z-fvtLBc"
   name: "Lok Kwan Street Park"
