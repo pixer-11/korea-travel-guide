@@ -12,6 +12,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import ItineraryEmailBox from './ItineraryEmailBox.astro';
+import ItineraryGuideCard from './ItineraryGuideCard.astro';
 import PlanTrip from './PlanTrip.astro';
 import Emoji from './Emoji.astro';
 import { slugifyRegion } from '../lib/slug';
@@ -518,6 +519,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
       {di === 0 && (
         <div class="itin-email-slot" id="itin-email-slot">
           <ItineraryEmailBox lang={lang} region={d.city} country={d.country} slug={itinerary.id} />
+          <ItineraryGuideCard lang={lang} slug={itinerary.id} />
         </div>
       )}
       </>

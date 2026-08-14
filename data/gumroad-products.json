@@ -1,0 +1,7 @@
+{
+  "_comment": "Premium PDF field guides sold on Gumroad, keyed by itinerary collection id. A key present here makes ItineraryGuideCard render the paid-PDF card on that itinerary page (all 5 langs). Price is display-only — the checkout price lives on Gumroad.",
+  "tokyo-3-days": {
+    "url": "https://wanderatlas.gumroad.com/l/tokyo-3-day-guide",
+    "price": "$12"
+  }
+}

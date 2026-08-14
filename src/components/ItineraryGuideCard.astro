@@ -1,0 +1,64 @@
+---
+// Paid offline companion to the free itinerary (growth research C1,
+// 2026-08-14): the web page stays fully free — this card sells the
+// print-ready PDF version with per-stop map QR codes, verified hours, a
+// rain plan and a booking checklist. Renders nothing unless the itinerary
+// has an entry in data/gumroad-products.json, so rolling a new city out is
+// one JSON line. Sits right under the free email box on purpose: the free
+// option anchors trust, the PDF upsells the traveler who wants it offline.
+import { useTranslations, type Lang } from '../i18n/utils';
+import Emoji from './Emoji.astro';
+import products from '../../data/gumroad-products.json';
+
+interface Props { lang: Lang; slug: string }
+const { lang, slug } = Astro.props;
+const t = useTranslations(lang);
+const product = (products as Record<string, any>)[slug] as { url: string; price: string } | undefined;
+---
+{product && (
+  <aside class="itin-guide" aria-labelledby="itin-guide-title">
+    <p class="itin-guide-title" id="itin-guide-title"><Emoji name="printer" /> {t('itin.guideTitle')}</p>
+    <p class="itin-guide-dek">{t('itin.guideDek')}</p>
+    <a class="itin-guide-btn" href={product.url} target="_blank" rel="noopener">
+      {t('itin.guideCta').replace('{price}', product.price)}
+    </a>
+  </aside>
+)}
+
+<style>
+  .itin-guide {
+    margin: 0 0 2rem;
+    padding: 1.2rem 1.4rem 1.2rem;
+    background: var(--surface-2);
+    border: 1px solid var(--line-soft);
+    border-left: 3px solid var(--accent, #c8443a);
+    border-radius: var(--r-lg);
+  }
+  /* The email card above ends with margin 2rem; pull this one up so the two
+     read as a free/paid pair rather than two unrelated bands. */
+  :global(.itin-email-slot) .itin-guide { margin-top: -1rem; }
+  .itin-guide-title {
+    font-family: var(--font-display);
+    font-size: 1.12rem;
+    font-weight: 550;
+    margin: 0 0 0.35rem;
+  }
+  .itin-guide-dek { font-size: 0.9rem; color: var(--muted); line-height: 1.5; margin: 0 0 0.9rem; }
+  .itin-guide-btn {
+    display: inline-block;
+    background: var(--cta);
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.6rem 1.3rem;
+    border-radius: var(--r-pill, 999px);
+    text-decoration: none;
+  }
+  .itin-guide-btn:hover { background: var(--accent-deep); color: #fff; }
+  /* Dark mode: same AA fill correction as the email card's button — the
+     lightened text accent fails 4.5:1 as a fill behind white. */
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .itin-guide-btn { background: #b3443a; }
+  }
+  :global(:root[data-theme='dark']) .itin-guide-btn { background: #b3443a; }
+</style>
