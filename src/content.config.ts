@@ -73,6 +73,12 @@ const posts = defineCollection({
         lng: z.number().optional(),
         phone: z.string().optional(),
         openingHours: z.array(z.string()).optional(),
+        // Hours are absent ON PURPOSE — Google filed a different entity's
+        // schedule under this place (Bromo, 2026-08-14: the park office's
+        // weekday desk hours on a pre-dawn sunrise attraction). The value is
+        // the human-readable reason; while present, every hours writer
+        // (backfill-place-details, refresh) must leave openingHours alone.
+        hoursOmitted: z.string().optional(),
         // Real foot-traffic (BestTime.app) — honest quiet/busy hours, 24h clock.
         // Never model-invented; absent when BestTime has no forecast for a venue.
         busyness: z

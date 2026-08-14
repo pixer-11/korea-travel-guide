@@ -115,7 +115,12 @@ async function main() {
     // publication, and it drives the fact box, the closed-day chips on itinerary
     // pages and the busyness clamp. Serialise to compare: it is an array, so
     // `!==` above would report a change every single time.
+    // …except where hoursOmitted says the absence is deliberate: Google filed
+    // a different entity's schedule under the attraction (Bromo, 2026-08-14 —
+    // the park office's weekday desk hours on a pre-dawn sunrise site), so a
+    // refresh would faithfully restore data that is wrong about the place.
     if (Array.isArray(fresh.openingHours) && fresh.openingHours.length
+        && !place.hoursOmitted
         && JSON.stringify(fresh.openingHours) !== JSON.stringify(place.openingHours)) {
       place.openingHours = fresh.openingHours;
       changed = true;

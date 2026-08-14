@@ -152,7 +152,14 @@ async function main() {
     if (!id) { skipNoPlace++; continue; }
 
     const hasPhone = /^[ ]{2}phone:/m.test(placeBody);
-    const hasHours = /^[ ]{2}openingHours:/m.test(placeBody);
+    // hoursOmitted counts as having hours: it marks a post whose hours are
+    // absent ON PURPOSE — Google filed a different entity's schedule under the
+    // attraction (Bromo, 2026-08-14: the park office's weekday desk hours on a
+    // pre-dawn sunrise site; the gate held the post and the hours fixer could
+    // only make the prose more wrong). Both the skip rule and the inject below
+    // read this flag, so neither can resurrect the wrong schedule.
+    const hasHours = /^[ ]{2}openingHours:/m.test(placeBody)
+      || /^[ ]{2}hoursOmitted:/m.test(placeBody);
     if (hasPhone && hasHours) { already++; continue; }
 
     processed++;

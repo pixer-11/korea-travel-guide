@@ -26,6 +26,7 @@ place:
   lat: -8.0218747
   lng: 112.95243839999999
   phone: "+62 341 491828"
+  hoursOmitted: "Google lists the park office's weekday desk hours; sunrise access runs daily before dawn"
 tags:
   - "mount bromo"
   - "hidden gem"
