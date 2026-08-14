@@ -5,11 +5,7 @@ country: "Hong Kong"
 region: "Sai Kung"
 category: "restaurant"
 pubDate: "2026-08-12T17:35:54.283Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/HK_Sai_Ying_Pun_%E6%98%8E%E6%98%9F%E6%B5%B7%E9%AE%AE%E9%85%92%E5%AE%B6_Star_Seafood_Restaurant_August_2021_SS2_28.jpg/3840px-HK_Sai_Ying_Pun_%E6%98%8E%E6%98%9F%E6%B5%B7%E9%AE%AE%E9%85%92%E5%AE%B6_Star_Seafood_Restaurant_August_2021_SS2_28.jpg"
-  credit: "Photo: KIMGAHIDOGOUAN 1508 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_Sai_Ying_Pun_%E6%98%8E%E6%98%9F%E6%B5%B7%E9%AE%AE%E9%85%92%E5%AE%B6_Star_Seafood_Restaurant_August_2021_SS2_28.jpg"
+photoless: true
 gallery: []
 place:
   id: "ChIJKxG3twIFBDQRB31XRvnHMkE"
