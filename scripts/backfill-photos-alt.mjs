@@ -26,6 +26,7 @@ import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 import { isPatrolTarget, isPhotolessLive } from './lib/patrol-target.mjs';
+import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -87,6 +88,7 @@ if (existsSync('data/full-audit.json')) {
   } catch {}
 }
 
+const world = await loadWorld();
 const used = await loadUsedImageUrls(POSTS);
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
 let fixed = 0, undrafted = 0, unfixed = 0, scanned = 0;
@@ -327,6 +329,23 @@ for (const f of files) {
       // Could not check ≠ approved.
       visionOutage = true;
       console.log(`   ${slug}: audit could not judge this candidate (${second.reason}) — leaving as is`);
+      continue;
+    }
+    // THE IDENTITY GATE. Both prompts above judge whether the picture looks like
+    // the right KIND of place; neither can say WHICH place, and both approve a
+    // photograph of the restaurant next door every time. On 2026-08-14 an
+    // identity sweep removed eleven wrong-venue heroes and a patrol run an hour
+    // later put SEVEN of them straight back — Mumbai onto Daegu, a Hong Kong
+    // congee kitchen onto Gardena, El Nacional onto Barra Oso, Bismillah onto
+    // Chola. Vision approved all seven. The metadata rejected all seven.
+    //
+    // The verdict-store check above could not help: it only knows photos judged
+    // against THIS post, and the identity sweep recorded nothing. That is fixed
+    // too (audit-photo-identity now writes its removals to the store), but this
+    // gate is the one that also covers a candidate no one has ever tried.
+    const ident = await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName }, world);
+    if (ident.verdict === 'contradicts') {
+      console.log(`   ${slug}: identity rejects it (${ident.why}) — skipping`);
       continue;
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }

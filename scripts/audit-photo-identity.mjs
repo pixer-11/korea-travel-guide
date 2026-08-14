@@ -175,6 +175,29 @@ if (STRIP && removable.length) {
   // the old answer and it cost 40% of the site's traffic on 2026-07-26; a guide
   // with no photo still answers its question. The patrol keeps looking and
   // attaches a real one when it finds it.
+  // Record every removal in the verdict store the photo patrol consults. Without
+  // this the strip was a decision nothing else could see: on 2026-08-14 it
+  // removed eleven wrong-venue heroes, and the patrol — which skips a candidate
+  // it knows was judged wrong FOR THIS POST — had no such knowledge and put
+  // seven of them straight back an hour later. Same lesson as 2026-08-08, when
+  // the keep/replace paths and the publish gate were wired into this store: a
+  // verdict only protects the site if it is written down where the next tool
+  // looks. (The patrol also judges identity directly now; this is the cheap
+  // half, and it costs nothing at the moment the sweep already knows.)
+  const STORE = 'data/visual-audit.json';
+  let store = null;
+  try { store = JSON.parse(await readFile(STORE, 'utf8')); } catch { store = {}; }
+  for (const c of removable) {
+    if (!c.url) continue;
+    store[`${c.slug}\x01${c.url}`] = {
+      slug: c.slug,
+      verdict: 'MISMATCH',
+      reason: `identity audit: ${String(c.why || 'metadata contradicts the post').slice(0, 150)}`,
+      at: new Date().toISOString(),
+    };
+  }
+  await writeFile(STORE, JSON.stringify(store, null, 1) + '\n', 'utf8');
+
   const byslug = new Map();
   for (const c of removable) (byslug.get(c.slug) ?? byslug.set(c.slug, []).get(c.slug)).push(c);
   for (const [slug, rows] of byslug) {

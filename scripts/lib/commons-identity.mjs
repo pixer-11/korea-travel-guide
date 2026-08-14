@@ -283,3 +283,55 @@ export function judgeFoursquareCredit(credit, venueName) {
   }
   return { verdict: 'contradicts', why: `credit names "${named}", post is "${venueName}"` };
 }
+
+/**
+ * The country/region index judgeIdentity needs, built from data/countries.json.
+ *
+ * Lived inline in audit-photo-identity.mjs while it was the only caller. The
+ * patrol now judges candidates BEFORE attaching them, and two copies of this
+ * would be two definitions of "which country is this region in" — the exact
+ * kind of drift that let a 240-minute floor exist in one file and not the
+ * other (itinerary validator, 2026-08-11).
+ */
+export async function loadWorld(path = 'data/countries.json') {
+  const { readFile } = await import('node:fs/promises');
+  const data = JSON.parse(await readFile(path, 'utf8'));
+  // null when a region name appears in more than one country — then it is not
+  // evidence of anything.
+  const regionCountry = new Map();
+  for (const c of data.countries) {
+    for (const r of c.regions ?? []) {
+      regionCountry.set(r, regionCountry.has(r) && regionCountry.get(r) !== c.name ? null : c.name);
+    }
+  }
+  return { countries: data.countries.map((c) => c.name), regions: [...regionCountry.keys()], regionCountry };
+}
+
+/**
+ * Would the identity audit reject this candidate if it were attached?
+ *
+ * Asks the question BEFORE the photo goes on the page. The patrol already had
+ * three defences here — is it the current hero, was it judged MISMATCH for this
+ * post, do both vision prompts approve — and every one of them missed the same
+ * evening. On 2026-08-14 an identity sweep removed eleven wrong-venue heroes,
+ * and a patrol run an hour later re-attached SEVEN of them: the Mumbai café to
+ * the Daegu page, a Hong Kong congee kitchen to Gardena, El Nacional to Barra
+ * Oso, Mercato to Barrafina, Bismillah Biryani to Chola, Mr. Papa to Huiyyou,
+ * the Changi Airport canteen to a Tiong Bahru guide. Vision approved all seven,
+ * because every one of them IS a photograph of a café or a restaurant. The
+ * identity audit rejected all seven from the same metadata, a minute later.
+ *
+ * @returns {{verdict: 'contradicts'|'supports'|'unknown', why: string}}
+ */
+export async function judgeCandidate(cand, claim, world) {
+  const credit = String(cand?.credit ?? '');
+  // Foursquare credits name the venue the photo was uploaded to — free to check
+  // and the most common failure (four of the seven above).
+  if (/foursquare/i.test(credit) || /foursquare/i.test(String(cand?.license ?? ''))) {
+    return judgeFoursquareCredit(credit, claim.venueName);
+  }
+  const title = commonsTitle(cand?.url ?? '');
+  if (!title) return { verdict: 'unknown', why: 'not a Commons file' };
+  const meta = await fetchCommonsMeta([title]);
+  return judgeIdentity(meta.get(title), claim, world);
+}

@@ -1,6 +1,9 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { commonsTitle, judgeIdentity } from './commons-identity.mjs';
+import { commonsTitle, judgeIdentity, judgeCandidate, loadWorld } from './commons-identity.mjs';
+
+// judgeCandidate 의 Foursquare 경로는 world 를 쓰지 않는다 — 빈 것으로 충분하다.
+const EMPTY_WORLD = { countries: [], regions: [], regionCountry: new Map() };
 
 const WORLD = {
   countries: ['South Korea', 'United States', 'Singapore', 'India', 'Philippines', 'Japan', 'Hong Kong', 'United Arab Emirates', 'Indonesia'],
@@ -218,4 +221,57 @@ test('tolerates a missing, empty, or malformed judged file', () => {
   const idx = makeJudgedIndex([null, {}, { slug: 'a' }, { key: 'b' }, { slug: '', key: 'x' }, { slug: 'ok', key: 'ok.jpg' }]);
   assert.equal(idx.size, 1);
   assert.ok(idx.has('ok', 'ok.jpg'));
+});
+
+// ── judgeCandidate: 사진을 붙이기 전에 묻는 관문 ────────────────────────────
+//
+// 2026-08-14 저녁, 신원 감사가 남의 가게 사진 11장을 떼어냈는데 한 시간 뒤
+// 순찰이 그 중 7장을 그대로 다시 붙였다(뭄바이→대구, 홍콩 죽집→가데나,
+// El Nacional→Barra Oso, Bismillah→Chola, Mr. Papa→Huiyyou). 비전은 전부
+// 통과시켰다 — 전부 진짜 카페·식당 사진이니까. 메타데이터는 전부 거부했다.
+// 그래서 그 판정을 채택 시점으로 옮겼다. **양방향이 똑같이 중요하다**:
+// 오매칭을 막는가, 그리고 정당한 사진까지 막지는 않는가.
+
+test('Foursquare 후보: credit이 다른 가게를 지목하면 거부한다', async () => {
+  const v = await judgeCandidate(
+    { url: 'https://fastly.4sqi.net/img/general/x.jpg', credit: 'Photo: Foursquare user content (Bismillah Biryani)' },
+    { country: 'Singapore', region: 'Little India', venueName: 'Chola Cafe - Biryani House' }, EMPTY_WORLD);
+  assert.equal(v.verdict, 'contradicts');
+});
+
+test('Foursquare 후보: credit이 그 가게면 통과시킨다 — 게이트가 전부를 막으면 사진이 영영 안 붙는다', async () => {
+  const v = await judgeCandidate(
+    { url: 'https://fastly.4sqi.net/img/general/y.jpg', credit: 'Photo: Foursquare user content (Biang Biang Noodles)' },
+    { country: 'United States', region: 'Seattle', venueName: 'Biang Biang Noodles' }, EMPTY_WORLD);
+  assert.equal(v.verdict, 'supports');
+});
+
+test('Foursquare 후보: 판단 근거가 없으면 unknown — 거부가 아니다', async () => {
+  const v = await judgeCandidate(
+    { url: 'https://fastly.4sqi.net/img/general/z.jpg', credit: 'Photo: Foursquare user content' },
+    { country: 'Japan', region: 'Osaka', venueName: 'Some Bar' }, EMPTY_WORLD);
+  assert.equal(v.verdict, 'unknown');
+});
+
+test('Commons도 Foursquare도 아닌 후보는 unknown', async () => {
+  const v = await judgeCandidate(
+    { url: 'https://example.com/photo.jpg', credit: 'Photo: someone' },
+    { country: 'Italy', region: 'Rome', venueName: 'X' }, EMPTY_WORLD);
+  assert.equal(v.verdict, 'unknown');
+});
+
+test('loadWorld: 두 나라에 같은 이름의 지역이 있으면 그 지역은 증거가 못 된다', async () => {
+  const { mkdtemp, writeFile: wf } = await import('node:fs/promises');
+  const { tmpdir } = await import('node:os');
+  const { join } = await import('node:path');
+  const dir = await mkdtemp(join(tmpdir(), 'world-'));
+  const p = join(dir, 'countries.json');
+  await wf(p, JSON.stringify({ countries: [
+    { name: 'Spain', regions: ['Valencia', 'Granada'] },
+    { name: 'Venezuela', regions: ['Valencia'] },
+  ] }));
+  const w = await loadWorld(p);
+  assert.equal(w.regionCountry.get('Valencia'), null);      // 스페인·베네수엘라 양쪽
+  assert.equal(w.regionCountry.get('Granada'), 'Spain');
+  assert.deepEqual(w.countries, ['Spain', 'Venezuela']);
 });
