@@ -25,6 +25,7 @@ import { keyToken, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
+import { isPatrolTarget, isPhotolessLive } from './lib/patrol-target.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -117,12 +118,17 @@ for (const f of files) {
   // the retroactive sweep already re-audited them at the existing:true bar,
   // and nightly re-judging 50+ performer photos is vision bill, not safety.
   const isEvent = data.category === 'event';
-  // …except a live event with NO hero at all: the released-photoless posts
+  // …except a live post with NO hero at all: the released-photoless events
   // (51 on 2026-08-10) matched neither "draft" nor "placeholder" and were
   // invisible to every patrol — the owner kept meeting their blank cards.
   // Filling one removes it from this set, so the vision bill self-limits.
-  const photolessLiveEvent = isEvent && data.draft !== true && !data.heroImage?.url;
-  if (isEvent && data.draft !== true && !ONLY.includes(slug) && !photolessLiveEvent) continue;
+  //
+  // The event-only version of this let the same gap re-open for venues on
+  // 2026-08-14: the identity strip removed eleven wrong-place heroes, and six
+  // of the eleven then matched no condition here at all — published, showing
+  // nothing, with no path back. See scripts/lib/patrol-target.mjs.
+  const photolessLive = isPhotolessLive({ draft: data.draft, heroUrl: data.heroImage?.url });
+  if (isEvent && data.draft !== true && !ONLY.includes(slug) && !photolessLive) continue;
   if (!isEvent && !HAVE_VENUE_SOURCES) continue;
   // Venue-LIKE posts without a Google place object (web-discovered trendy spots
   // e.g. Cure Bali / Pak Gula) were a blind spot — derive the venue name from
@@ -140,13 +146,13 @@ for (const f of files) {
   const flaggedNow =
     vmismatch.has(slug) ||
     (vmismatchUrls.get(slug)?.has(data.heroImage?.url || '') ?? false);
-  const isTarget =
-    process.env.AUDIT_ALL === '1' ||
-    ONLY.length > 0 ||
-    data.draft === true ||
-    flaggedNow ||
-    photolessLiveEvent ||
-    (data.heroImage?.url || '').includes('placeholder');
+  const isTarget = isPatrolTarget({
+    draft: data.draft,
+    heroUrl: data.heroImage?.url || '',
+    flaggedNow,
+    auditAll: process.env.AUDIT_ALL === '1',
+    named: ONLY.length > 0,
+  });
   if (!isTarget) continue;
   scanned++;
 
