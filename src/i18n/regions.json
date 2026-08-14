@@ -7082,6 +7082,11 @@
       "blurb": "Aberdeen es un antiguo asentamiento pesquero en el lado sur de la isla de Hong Kong, donde un refugio para tifones aún en funcionamiento se llena de sampanes, juncos y casas flotantes bajo una muralla de rascacielos. Su puerto fue durante mucho tiempo famoso por el gigantesco Jumbo Floating Restaurant, un hito que cerró en 2020 y que zozobró en el Mar de China Meridional en 2022 mientras era remolcado. Por eso, hoy el atractivo radica en los paseos en sampán, el Aberdeen Promenade y la comunidad que aún vive a bordo de sus embarcaciones, más que en aquel restaurante.",
       "getting": "En realidad no existe una estación de MTR llamada \"Aberdeen\": las paradas más cercanas son Wong Chuk Hang y Ocean Park, en la South Island Line, desde donde se puede llegar al malecón en taxi, minibús o un breve trayecto en autobús. También hay autobuses regulares que van directamente desde Central/Exchange Square, en la isla de Hong Kong. El trayecto desde Central toma entre 15 y 20 minutos, según el tráfico.",
       "days": "Lo mejor es visitar Aberdeen como una excursión de medio día (unas 2 o 3 horas), tiempo suficiente para caminar por el malecón, dar un breve paseo en sampán por el refugio para tifones y contemplar Ap Lei Chau al otro lado del agua, en lugar de dedicarle un día completo."
+    },
+    "zh": {
+      "blurb": "香港仔（Aberdeen）位于香港岛南岸，曾是一处渔村聚落，如今避风塘内仍旧舢舨、渔船与住家艇密密麻麻地挤在高楼大厦的阴影之下，热闹依旧。这片海港曾因巨型的珍宝海鲜舫（Jumbo Floating Restaurant）而闻名一时——这座地标已于2020年结业，并于2022年在被拖航途中于南海翻沉。如今，香港仔的魅力已不再系于那座海上食府，而在于乘坐舢舨游览避风塘、漫步香港仔海滨长廊，以及亲眼见证依然生活在船上的水上人家。",
+      "getting": "香港其实并没有一个叫“香港仔”的港铁站——最近的车站是南港岛线的黄竹坑站和海洋公园站，从那里转乘的士、小巴，或搭一小段巴士即可抵达海旁；此外，也可以从香港岛中环／交易广场直接乘坐巴士前往。从中环出发，车程大约15至20分钟，视路况而定。",
+      "days": "香港仔比较适合安排半天（2至3小时）的行程作为顺道游览——花点时间沿海滨长廊散步、乘舢舨在避风塘里兜一圈、再远眺对岸的鸭脷洲，就已相当尽兴，不必专程用一整天来游览。"
     }
   },
   "Nashville": {
@@ -7379,6 +7384,180 @@
       "blurb": "牛车水……不对，是「大巴窑」……应等一下，让我重新组织。\n\n蒂欧巴鲁（Tiong Bahru）是新加坡历史最悠久的公共住宅区之一,那些建于1930年代、线条圆润的装饰艺术风格（Art Deco）步梯式老公寓,如今与独立书店、精品咖啡馆,以及热闹的湿货市场和小贩中心相映成趣。在这片紧凑宜行、位于市中心南侧的社区里,老建筑的历史底蕴与新加坡的咖啡文化完美交融。",
       "getting": "蒂欧巴鲁地铁站（Tiong Bahru，编号EW17）位于东西线上,可直达该区。从樟宜机场（SIN）出发的旅客,可先搭乘东西线,并在如淡马锡（Tanah Merah）等换乘站转车前往,视衔接情况,全程通常远不到一小时。",
       "days": "半天到一整天的时间,足以让你漫步社区里的小巷,逛逛市场和美食中心,再找一两家咖啡馆小坐片刻。"
+    }
+  },
+  "Bukhara": {
+    "en": {
+      "blurb": "Bukhara is one of Central Asia's best-preserved Silk Road cities, its compact old town a dense cluster of sand-colored minarets, domed bazaars, and centuries-old madrasas built around ancient trading crossroads. Unlike more monumental Samarkand, Bukhara rewards slow wandering—its human-scaled streets and courtyards still feel lived-in rather than museum-like.",
+      "getting": "Bukhara has its own airport (BHK) with a handful of domestic and regional international flights, but most travelers arrive overland: the Afrosiyob high-speed train links Bukhara with Tashkent (~3.5-4 hours) and Samarkand (~1.5-2 hours), making rail the most practical and scenic route into the city.",
+      "days": "Most visitors budget ~2-3 days, enough to cover the old town's core monuments, the Ark fortress, and the covered bazaars at an unhurried pace."
+    },
+    "ko": {
+      "blurb": "부하라는 중앙아시아에서 실크로드 시대의 모습이 가장 잘 보존된 도시 중 하나로, 아담한 구시가지 안에 모래빛 미나레트와 돔 지붕의 바자르, 수백 년 된 마드라사들이 옛 교역로의 교차점을 중심으로 촘촘히 모여 있다. 좀 더 웅장한 느낌의 사마르칸트와 달리, 부하라는 천천히 걸어야 그 매력이 드러나는 도시다. 사람 크기에 맞춘 골목과 안뜰들은 여전히 박물관처럼 정돈되어 있기보다는 실제 삶의 흔적이 살아있는 느낌을 준다.",
+      "getting": "부하라에는 자체 공항(BHK)이 있어 국내선과 일부 지역 국제선이 운항하지만, 대부분의 여행자는 육로로 도착한다. 고속열차 아프로시욥(Afrosiyob)이 부하라와 타슈켄트(약 3.5~4시간), 사마르칸트(약 1.5~2시간)를 연결해주기 때문에, 기차가 가장 실용적이면서도 경치를 즐길 수 있는 이동 수단이다.",
+      "days": "대부분의 여행자는 2~3일 정도를 계획하는데, 이 정도면 구시가지의 주요 유적과 아르크 성채, 그리고 지붕 덮인 바자르들을 여유롭게 둘러보기에 충분하다."
+    },
+    "ja": {
+      "blurb": "ブハラは、中央アジアに残るシルクロード都市の中でも保存状態が特に良い街のひとつだ。コンパクトな旧市街には、砂色に染まったミナレットやドーム型のバザール、そして古くからの交易の要衝を囲むように建てられた数百年前のマドラサ群がぎゅっと密集している。より壮大なサマルカンドとは対照的に、ブハラの魅力はゆっくり歩いて味わうことにある。人の背丈に合ったような街路や中庭は、いまも博物館めいた雰囲気ではなく、生活の息づかいを感じさせてくれる。",
+      "getting": "ブハラには自前の空港(BHK)があり、国内線やごく一部の近隣国際線が発着しているが、多くの旅行者は陸路でこの街に入る。高速列車アフロシヨブがタシケント(所要約3.5〜4時間)やサマルカンド(所要約1.5〜2時間)とブハラを結んでおり、鉄道が最も実用的で、車窓の景色も楽しめる移動手段となっている。",
+      "days": "多くの旅行者は2〜3日程度を目安にしている。これだけあれば、旧市街の主要な見どころやアルク城塞、屋根付きバザールを、あわてずゆったりと巡ることができる。"
+    },
+    "es": {
+      "blurb": "Bujará es una de las ciudades de la Ruta de la Seda mejor conservadas de Asia Central: su casco antiguo, compacto y denso, reúne minaretes color arena, bazares abovedados y madrazas centenarias construidas en torno a antiguos cruces comerciales. A diferencia de la más monumental Samarcanda, Bujará premia el paseo sin prisas, ya que sus calles y patios, de escala humana, todavía se sienten habitados y no como un simple museo.",
+      "getting": "Bujará cuenta con su propio aeropuerto (BHK), con algunos vuelos nacionales y regionales internacionales, pero la mayoría de los viajeros llega por tierra: el tren de alta velocidad Afrosiyob conecta Bujará con Tashkent (unas 3,5-4 horas) y con Samarcanda (unas 1,5-2 horas), por lo que el tren es la forma más práctica y panorámica de llegar a la ciudad.",
+      "days": "La mayoría de los visitantes reserva entre 2 y 3 días, tiempo suficiente para recorrer con calma los principales monumentos del casco antiguo, la fortaleza de Ark y los bazares cubiertos."
+    },
+    "zh": {
+      "blurb": "布哈拉是中亚保存最完好的丝绸之路古城之一,古城不大却精致紧凑,沙色的高耸尖塔、圆顶巴扎和数百年历史的伊斯兰经学院密集分布,环绕着昔日商旅云集的古老交易要冲。与更显宏伟壮观的撒马尔罕不同,布哈拉更适合慢慢闲逛——这里尺度宜人的街巷与庭院依然充满生活气息,而非徒具博物馆式的空壳。",
+      "getting": "布哈拉拥有自己的机场(BHK),有少量国内航班及区域国际航班,但大多数旅行者选择陆路前往:阿弗罗西亚布高速列车连接布哈拉与塔什干(约3.5-4小时)以及撒马尔罕(约1.5-2小时),乘火车是进入布哈拉最便捷、也最能沿途观景的方式。",
+      "days": "大多数游客会安排约2-3天的行程,足以从容游览古城核心建筑群、方舟城堡(Ark),以及各处有顶巴扎市场。"
+    }
+  },
+  "Chamonix": {
+    "en": {
+      "blurb": "Chamonix sits directly beneath the sheer granite spires and glaciers of the Mont Blanc massif, western Europe's highest peak, making it the historic birthplace of alpinism. It's a compact valley town that shifts seamlessly between world-class ski terrain in winter and legendary hiking, climbing and trail-running routes (including the UTMB) in summer.",
+      "getting": "Most travellers fly into Geneva Airport (GVA) in Switzerland, the nearest major international hub, then continue by road or rail — road transfers (shared shuttle, bus, or hire car) typically take ~1 to 1.5 hours. Chamonix also has its own SNCF station on the scenic Mont Blanc Express line (Saint-Gervais–Vallorcine), useful for onward travel within the valley or connections toward Switzerland.",
+      "days": "Plan on ~3-5 days to cover the valley's highlights, such as a cable car ascent, at least one classic trail, and time to soak up the mountain town itself, though dedicated hikers and climbers often stay a week or more."
+    },
+    "ja": {
+      "blurb": "シャモニーは、西ヨーロッパ最高峰モンブラン山塊の切り立った花崗岩の尖峰と氷河群の真下に位置し、近代アルピニズム発祥の地として知られています。こぢんまりとした谷あいの町でありながら、冬は世界屈指のスキーエリアとして、夏はUTMBをはじめとする伝説的なハイキング、クライミング、トレイルランニングのルートが揃うフィールドへと、季節ごとに表情を変えます。",
+      "getting": "多くの旅行者は、最寄りの主要国際空港であるスイスのジュネーブ空港（GVA）を利用し、そこから陸路または鉄道でシャモニーへ向かいます。シャトルバス、路線バス、レンタカーなどの陸路移動には通常1〜1.5時間ほどかかります。また、シャモニーには風光明媚なモンブラン急行線（サン＝ジェルヴェ〜ヴァロルシーヌ間）のSNCF駅もあり、谷内の移動やスイス方面への乗り継ぎにも便利です。",
+      "days": "ケーブルカーでの山頂散策や定番トレイルの踏破、そして山岳リゾートの雰囲気を存分に味わうには、3〜5日ほど見ておくとよいでしょう。本格的なハイカーやクライマーの場合は、1週間以上滞在することも珍しくありません。"
+    },
+    "es": {
+      "blurb": "Chamonix se asienta justo a los pies de las agujas de granito y los glaciares del macizo del Mont Blanc, el pico más alto de Europa occidental, lo que la convierte en la cuna histórica del alpinismo. Es un pueblo compacto de valle que pasa sin esfuerzo de un terreno de esquí de talla mundial en invierno a legendarias rutas de senderismo, escalada y trail running (incluida la UTMB) en verano.",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Ginebra (GVA), en Suiza, el principal centro internacional más cercano, y continúa por carretera o tren: los traslados por carretera (shuttle compartido, autobús o coche de alquiler) suelen tardar entre 1 y 1,5 horas. Chamonix también cuenta con su propia estación SNCF en la pintoresca línea Mont Blanc Express (Saint-Gervais–Vallorcine), útil para desplazarse dentro del valle o conectar hacia Suiza.",
+      "days": "Conviene reservar entre 3 y 5 días para disfrutar de lo más destacado del valle, como una ascensión en teleférico, al menos una ruta clásica de senderismo y tiempo para empaparse del ambiente de este pueblo de montaña, aunque los senderistas y escaladores más entusiastas suelen quedarse una semana o más."
+    },
+    "zh": {
+      "blurb": "霞慕尼坐落在西欧最高峰勃朗峰山群陡峭的花岗岩尖峰与冰川脚下,是登山运动公认的发源地。这座紧凑精致的山谷小镇,冬季化身世界一流的滑雪胜地,夏季则摇身一变,成为徒步、攀岩与越野跑爱好者的圣地(包括著名的环勃朗峰超级越野赛UTMB),四季风情各异,却都精彩十足。",
+      "getting": "大多数游客会先飞抵瑞士的日内瓦机场(GVA)——这是距离霞慕尼最近的国际航空枢纽——再转乘陆路交通前往。无论是拼车班车、大巴还是自驾,车程通常约1至1.5小时。此外,霞慕尼本身设有法国国铁(SNCF)车站,坐落在风景如画的勃朗峰快线(Saint-Gervais–Vallorcine线)上,方便游客在山谷内往返穿行,或衔接前往瑞士方向的行程。",
+      "days": "建议安排3至5天时间,充分领略山谷精华:乘坐缆车登高远眺、至少徒步一条经典路线,再留些时间悠闲漫步这座山间小镇,感受其独特氛围。若是资深徒步或攀登爱好者,通常会选择停留一周以上,尽情探索。"
+    }
+  },
+  "East Coast": {
+    "en": {
+      "blurb": "East Coast Park is Singapore's largest park, a 185-hectare stretch of reclaimed coastline with a man-made beach, cycling paths, and open-air seafood spots that locals treat as their weekend backyard. It's less a single sight than a long, breezy strip for cycling, skating, barbecuing, and watching ships queue offshore — deliberately low-key next to the city's glossier attractions.",
+      "getting": "Most travellers arrive via Changi Airport (SIN) and reach the park by MRT: take the East-West Line to Bedok or the Thomson-East Coast Line to Marine Parade, then continue by a short bus ride or ~10–20 minute walk to the seafront. There's no station right on the beach, so onward buses or a stroll through the connecting underpass/park connector are the norm.",
+      "days": "Plan on roughly half a day to a full day, enough to cover a cycle or walk along the shoreline, a beach break, and a seafood meal, without needing an overnight stay."
+    },
+    "ko": {
+      "blurb": "이스트 코스트 파크는 싱가포르에서 가장 큰 공원으로, 매립지에 조성된 185헥타르 규모의 해안 지대에 인공 해변과 자전거 도로, 그리고 야외 해산물 식당들이 늘어서 있어 현지인들에게는 주말을 보내는 '뒷마당' 같은 곳입니다. 하나의 명소라기보다는 자전거를 타거나 롤러스케이트를 즐기고, 바비큐를 하거나 저 멀리 정박해 있는 배들을 바라보며 시간을 보내는 길고 시원한 해안선이라 할 수 있습니다. 화려한 도심의 명소들과 비교하면 의도적으로 소박하고 여유로운 매력을 지니고 있죠.\",\"getting\":\"대부분의 여행자는 창이 국제공항(SIN)을 통해 입국한 뒤 MRT를 이용해 공원으로 이동합니다. 이스트-웨스트 라인을 타고 베독(Bedok)역에서 내리거나, 톰슨-이스트 코스트 라인을 타고 마린 퍼레이드(Marine Parade)역에서 내린 뒤, 짧은 버스 이동이나 도보로 10~20분 정도면 해변에 닿을 수 있습니다. 해변 바로 앞에 위치한 역은 없기 때문에, 연결 버스를 타거나 지하도 및 파크 커넥터를 통해 걸어가는 것이 일반적입니다.",
+      "getting": "대부분의 여행자는 창이 국제공항(SIN)을 통해 입국한 뒤 MRT를 이용해 공원으로 이동합니다. 이스트-웨스트 라인을 타고 베독(Bedok)역에서 내리거나, 톰슨-이스트 코스트 라인을 타고 마린 퍼레이드(Marine Parade)역에서 내린 뒤, 짧은 버스 이동이나 도보로 10~20분 정도면 해변에 닿을 수 있습니다. 해변 바로 앞에 위치한 역은 없기 때문에, 연결 버스를 타거나 지하도 및 파크 커넥터를 통해 걸어가는 것이 일반적입니다.",
+      "days": "반나절에서 하루 정도를 계획하면 충분합니다. 해안선을 따라 자전거를 타거나 산책을 하고, 해변에서 여유를 즐긴 뒤 해산물 식사까지 즐기기에 무리 없는 일정으로, 별도로 숙박까지 할 필요는 없습니다."
+    },
+    "es": {
+      "blurb": "East Coast Park es el parque más grande de Singapur, una franja de 185 hectáreas de costa ganada al mar que cuenta con una playa artificial, senderos para ciclismo y locales de mariscos al aire libre que los habitantes de la ciudad consideran su patio trasero de fin de semana. No se trata de una atracción puntual, sino de una larga y ventosa franja costera ideal para andar en bicicleta, patinar, hacer barbacoas y ver los barcos que esperan frente a la costa; un lugar deliberadamente sencillo si se lo compara con las atracciones más deslumbrantes de la ciudad.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Changi (SIN) y accede al parque en MRT: se toma la East-West Line hasta Bedok o la Thomson-East Coast Line hasta Marine Parade, y luego se continúa con un breve trayecto en autobús o una caminata de entre 10 y 20 minutos hasta el frente costero. No hay ninguna estación justo en la playa, así que lo habitual es tomar un autobús adicional o caminar por el paso subterráneo o el conector del parque que llevan hasta la orilla.",
+      "days": "Conviene reservar entre medio día y un día completo, tiempo suficiente para recorrer la costa en bicicleta o a pie, disfrutar de un rato de playa y comer mariscos, sin necesidad de pasar la noche allí."
+    }
+  },
+  "Kanchanaburi": {
+    "en": {
+      "blurb": "Kanchanaburi is forever tied to the infamous \"Death Railway\" and the steel bridge over the Khwae Noi River, where war cemeteries and museums sit alongside a laid-back riverside town. Beyond the wartime history, the surrounding province opens into limestone hills, waterfalls and national parks that make it as much a nature escape as a history lesson.",
+      "getting": "Kanchanaburi has no airport of its own — the closest air links are Bangkok's Suvarnabhumi (BKK) and Don Mueang (DMK), from which it's reached by road (~2 hours) or by a scenic local train from Bangkok's Thonburi Station, with buses also running from Bangkok's southern bus terminal.",
+      "days": "Most visitors cover the bridge, Death Railway Museum and war cemetery on a day trip (~1 day), but staying ~2-3 days allows time to also reach Erawan National Park's waterfalls or ride the rail line further to Nam Tok."
+    },
+    "ko": {
+      "blurb": "칸차나부리는 그 악명 높은 '죽음의 철도'와 콰이 노이 강을 가로지르는 철제 다리와 영원히 함께 기억되는 곳입니다. 전쟁 묘지와 박물관들이 한적한 강변 마을과 나란히 자리하고 있죠. 전쟁의 역사를 넘어서면, 주변 지역에는 석회암 언덕과 폭포, 국립공원이 펼쳐져 있어 역사 탐방만큼이나 훌륭한 자연 여행지이기도 합니다.\",\"getting\":\"칸차나부리에는 자체 공항이 없습니다 — 가장 가까운 공항은 방콕의 수완나품(BKK)과 돈므앙(DMK)이며, 이곳에서 도로로 약 2시간 정도 이동하거나, 방콕 톤부리 역에서 출발하는 경치 좋은 로컬 열차를 이용할 수 있습니다. 방콕 남부 버스터미널에서 출발하는 버스도 운행됩니다.\",\"days\":\"대부분의 여행객은 다리, 죽음의 철도 박물관, 전쟁 묘지를 하루 일정(약 1일)으로 둘러봅니다. 하지만 약 2~3일 정도 머물면 에라완 국립공원의 폭포까지 다녀오거나 기차를 타고 남톡까지 더 멀리 가볼 시간도 낼 수 있습니다.",
+      "getting": "칸차나부리에는 자체 공항이 없습니다 — 가장 가까운 공항은 방콕의 수완나품(BKK)과 돈므앙(DMK)이며, 이곳에서 도로로 약 2시간 정도 이동하거나, 방콕 톤부리 역에서 출발하는 경치 좋은 로컬 열차를 이용할 수 있습니다. 방콕 남부 버스터미널에서 출발하는 버스도 운행됩니다.",
+      "days": "대부분의 여행객은 다리, 죽음의 철도 박물관, 전쟁 묘지를 하루 일정(약 1일)으로 둘러봅니다. 하지만 약 2~3일 정도 머물면 에라완 국립공원의 폭포까지 다녀오거나 기차를 타고 남톡까지 더 멀리 가볼 시간도 낼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "カンチャナブリーといえば、悪名高い「死の鉄道」と、クウェー・ノイ川に架かる鉄橋の町として知られています。戦争墓地や博物館が、のんびりとした川沿いの町並みと共存しているのが印象的です。戦争の歴史だけでなく、周辺の県内には石灰岩の丘や滝、国立公園が広がっており、歴史を学ぶ旅であると同時に、自然を満喫できる旅先でもあります。",
+      "getting": "カンチャナブリーには空港がないため、最寄りの空の玄関口はバンコクのスワンナプーム空港(BKK)またはドンムアン空港(DMK)になります。そこから陸路で約2時間、あるいはバンコクのトンブリー駅から出ている風光明媚なローカル列車でもアクセスできます。バンコクの南バスターミナルからもバスが運行しています。",
+      "days": "多くの旅行者は、橋・死の鉄道博物館・戦争墓地を日帰り(約1日)で巡りますが、2~3日ほど滞在すれば、エラワン国立公園の滝を訪れたり、さらに列車でナムトックまで足を延ばしたりする時間も取れます。"
+    },
+    "es": {
+      "blurb": "Kanchanaburi está unida para siempre a la infame \"Vía Férrea de la Muerte\" y al puente de acero sobre el río Khwae Noi, donde cementerios de guerra y museos convivan con un tranquilo pueblo a orillas del río. Más allá de la historia bélica, la provincia se despliega en colinas de piedra caliza, cascadas y parques nacionales, convirtiéndola tanto en un escape de naturaleza como en una lección de historia.",
+      "getting": "Kanchanaburi no tiene aeropuerto propio: las conexiones aéreas más cercanas son los aeropuertos de Bangkok, Suvarnabhumi (BKK) y Don Mueang (DMK), desde donde se llega por carretera (~2 horas) o en un pintoresco tren local que parte de la estación de Thonburi en Bangkok, además de autobuses que salen desde la terminal sur de autobuses de Bangkok.",
+      "days": "La mayoría de los visitantes recorren el puente, el Museo de la Vía Férrea de la Muerte y el cementerio de guerra en una excursión de un día (~1 día), pero quedarse entre 2 y 3 días permite también llegar hasta las cascadas del Parque Nacional Erawan o recorrer la vía férrea hasta Nam Tok."
+    },
+    "zh": {
+      "blurb": "北碧府始终与那条声名远扬的“死亡铁路”以及跨越夸伊诺伊河的钢铁大桥紧紧相连,战争公墓与纪念馆就分布在这座悠闲惬意的滨河小城之中。除了这段战争历史,府内周边还遍布石灰岩山丘、瀑布与国家公园,让这里不仅是一处历史课堂,更是一场亲近自然的休憩之旅。",
+      "getting": "北碧府本身没有机场,最近的空中门户是曼谷的素万那普机场(BKK)和廊曼机场(DMK),从这两个机场可乘车前往(约2小时),也可以从曼谷吞武里站搭乘风景优美的地方列车抵达,此外曼谷南部巴士总站也有巴士往返于此。",
+      "days": "大多数游客会安排一日游(约1天),游览大桥、死亡铁路博物馆和战争公墓;若能停留约2-3天,则还有时间前往象征公园(Erawan National Park)观赏瀑布,或乘火车继续深入至南托(Nam Tok)。"
+    }
+  },
+  "Khiva": {
+    "en": {
+      "blurb": "Khiva's Itchan Kala is a walled inner city of sand-colored madrasahs, minarets, and mausoleums so complete that the whole enclosure — not just a scattering of monuments — earned it recognition as the first UNESCO World Heritage Site in Uzbekistan. Once the last oasis stop for caravans before the desert crossing toward Iran, its narrow lanes still feel like a self-contained medieval city rather than a modern town with old buildings in it.",
+      "getting": "Khiva is reached via Urgench International Airport (UGC), roughly 30–35 km away, from where travellers continue by taxi, private transfer, or the Urgench–Khiva rail link; a direct overnight train from Tashkent is also an option for those not flying. Most visitors combine flying into Urgench with a short onward taxi or train ride rather than attempting the long overland journey from the capital.",
+      "days": "Plan on ~2 days to comfortably explore Itchan Kala's mosques, minarets, and palaces, with an extra day if adding a side trip toward the wider Khorezm region or a slower pace for photography and workshops."
+    },
+    "ko": {
+      "blurb": "히바의 이찬 칼라는 모래빛 마드라사와 미나렛, 영묘들로 가득한 성곽 도시로, 몇몇 유적이 흩어져 있는 정도가 아니라 성벽으로 둘러싸인 지역 전체가 온전히 보존되어 있어 우즈베키스탄 최초의 유네스코 세계문화유산으로 등재되는 영예를 안았다. 한때 이란 방향 사막 횡단을 앞둔 대상들의 마지막 오아시스 기착지였던 이곳은, 옛 건물이 남아있는 현대 도시라기보다 마치 통째로 시간이 멈춘 중세 도시 같은 느낌을 지금도 그대로 간직하고 있다.",
+      "getting": "히바로 가려면 우르겐치 국제공항(UGC)을 이용하는 것이 일반적이며, 공항에서 히바까지는 약 30~35km 거리로 택시나 프라이빗 transfer, 혹은 우르겐치-히바 철도를 이용해 이동할 수 있다. 비행기를 타지 않는 여행자라면 타슈켄트에서 출발하는 야간 직행 열차도 대안이 될 수 있다. 대부분의 여행자는 수도에서 육로로 장시간 이동하기보다, 우르겐치까지 비행기로 이동한 뒤 택시나 기차로 짧게 이어가는 방식을 선호한다.",
+      "days": "이찬 칼라의 모스크와 미나렛, 궁전들을 여유롭게 둘러보려면 약 2일 정도를 계획하는 것이 좋으며, 호레즘 지역으로의 짧은 여행을 더하거나 사진 촬영과 각종 체험 워크숍을 위해 좀 더 느긋한 일정을 원한다면 하루 정도를 추가하는 것을 추천한다."
+    },
+    "ja": {
+      "blurb": "ヒヴァのイチャン・カラは、砂色のマドラサ、ミナレット、そして廟が立ち並ぶ、城壁に囲まれた旧市街です。点在する個々の史跡ではなく、この一帯全体がまるごと評価され、ウズベキスタン初のユネスコ世界遺産に登録されました。かつてはイランへと向かう砂漠越えの前に立ち寄る最後のオアシスであり、今なお入り組んだ路地には、古い建物が残る近代の町というより、中世都市がそのまま息づいているかのような空気が漂います。",
+      "getting": "ヒヴァへの玄関口はウルゲンチ国際空港(UGC)で、市内までは約30~35km。空港からはタクシーや専用送迎車、あるいはウルゲンチ~ヒヴァ間の鉄道を利用して移動します。飛行機を使わない場合は、タシケントからの夜行直行列車という選択肢もあります。多くの旅行者は、ウルゲンチまで空路で移動し、そこからタクシーや鉄道で短時間の移動をするルートを選び、首都から陸路で長時間かけて向かうことは避ける傾向にあります。",
+      "days": "イチャン・カラのモスクやミナレット、宮殿をゆったり巡るには2日ほどを見ておくとよいでしょう。さらに広くホレズム地方まで足を延ばしたい場合や、写真撮影・ワークショップなどでのんびり過ごしたい場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "La Itchan Kala de Jiva es una ciudad amurallada donde se agolpan madrasas, minaretes y mausoleos de tono arenoso, y su estado de conservación es tan completo —no se trata de unos pocos monumentos dispersos, sino de todo el recinto— que le valió ser el primer Sitio del Patrimonio Mundial de la UNESCO en Uzbekistán. Antaño el último oasis donde hacían parada las caravanas antes de cruzar el desierto rumbo a Irán, sus calles estrechas todavía transmiten la sensación de una ciudad medieval completa en sí misma, y no la de un pueblo moderno salpicado de edificios antiguos.",
+      "getting": "Para llegar a Jiva hay que volar al Aeropuerto Internacional de Urgench (UGC), situado a unos 30-35 km de la ciudad, desde donde se continúa en taxi, traslado privado o mediante el enlace ferroviario Urgench-Jiva; quienes prefieran no volar también pueden tomar un tren nocturno directo desde Taskent. La mayoría de los viajeros opta por volar hasta Urgench y completar el trayecto con un breve traslado en taxi o tren, en lugar de emprender el largo viaje por tierra desde la capital.",
+      "days": "Conviene reservar unos 2 días para recorrer con calma las mezquitas, minaretes y palacios de Itchan Kala, y sumar un día más si se planea una excursión hacia el resto de la región de Jorezm o si se prefiere un ritmo más pausado para dedicarse a la fotografía y a los talleres artesanales."
+    },
+    "zh": {
+      "blurb": "希瓦的伊坎卡拉（Itchan Kala）是一座被城墙环绕的内城，遍布沙黄色的伊斯兰经学院、宣礼塔和陵墓，整体保存之完好，使得联合国教科文组织将整座古城——而不仅仅是零星几处古迹——列为乌兹别克斯坦第一处世界遗产。这里曾是商队穿越沙漠前往伊朗之前的最后一站绿洲，如今狭窄的巷道依旧透着一股自成一体的中世纪古城气息，而非那种只是保留了几栋老建筑的现代小镇。\",\"getting\":\"抵达希瓦通常经由乌尔根奇国际机场（UGC），距市区约30-35公里，之后可乘出租车、包车或搭乘乌尔根奇—希瓦铁路线前往；不打算乘飞机的游客，也可以选择从塔什干直达的过夜火车。大多数游客的行程是先飞往乌尔根奇，再转乘短途出租车或火车，而不会尝试从首都长途陆路前往。\",\"days\":\"建议安排约2天时间，从容游览伊坎卡拉的清真寺、宣礼塔与王宫；如果想顺道前往更广阔的花剌子模（Khorezm）地区，或是希望放慢脚步拍照、参加手工艺工作坊，可以再多留一天。",
+      "getting": "抵达希瓦通常经由乌尔根奇国际机场（UGC），距市区约30-35公里，之后可乘出租车、包车或搭乘乌尔根奇—希瓦铁路线前往；不打算乘飞机的游客，也可以选择从塔什干直达的过夜火车。大多数游客的行程是先飞往乌尔根奇，再转乘短途出租车或火车，而不会尝试从首都长途陆路前往。",
+      "days": "建议安排约2天时间，从容游览伊坎卡拉的清真寺、宣礼塔与王宫；如果想顺道前往更广阔的花剌子模（Khorezm）地区，或是希望放慢脚步拍照、参加手工艺工作坊，可以再多留一天。"
+    }
+  },
+  "Philadelphia": {
+    "en": {
+      "blurb": "Philadelphia blends Revolutionary-era history—from Independence Hall to the Liberty Bell—with a dense, walkable urban core, world-class art museums, and a food scene anchored by cheesesteaks and the bustling Reading Terminal Market. As one of the country's oldest major cities, it offers a compact, richly layered streetscape that rewards wandering on foot.",
+      "getting": "Most travelers arrive via Philadelphia International Airport (PHL), connected to Center City by SEPTA's Airport Line regional rail, which <cite index=\"1-5\">runs seven days a week from 5:00 am to midnight with trains every 30 minutes daily</cite>, reaching stations like 30th Street and Suburban Station in ~20-25 minutes. Amtrak's 30th Street Station also makes the city a major stop for travelers arriving by train from the Northeast Corridor.",
+      "days": "Plan on ~2-3 days to cover the historic core (Old City, Independence National Historical Park) plus a taste of the museum district and neighborhood food scene, or extend to 4-5 days for a more relaxed pace with day trips."
+    },
+    "ko": {
+      "blurb": "필라델피아는 독립기념관(Independence Hall)과 자유의 종(Liberty Bell)으로 대표되는 미국 독립혁명 시대의 역사와, 걸어서 둘러보기 좋은 조밀한 도심, 세계적 수준의 미술관, 그리고 필리 치즈스테이크와 활기 넘치는 리딩 터미널 마켓(Reading Terminal Market)으로 대표되는 먹거리 문화가 어우러진 도시입니다. 미국에서 가장 오래된 대도시 중 하나답게, 걸어서 다니며 발견하는 재미가 쏠쏠한 아기자기하고 켜켜이 쌓인 거리 풍경을 자랑합니다.",
+      "getting": "대부분의 여행자는 필라델피아 국제공항(PHL)을 통해 입국하며, 센터 시티(Center City)까지는 SEPTA 에어포트 라인(Airport Line) 지역철도로 연결됩니다. 이 노선은 매일 오전 5시부터 자정까지 운행하며 30분 간격으로 열차가 있어, 30번가역(30th Street Station)이나 서버번 스테이션(Suburban Station) 같은 주요 역까지 약 20~25분이면 도착합니다. 또한 암트랙(Amtrak)의 30번가역은 북동부 회랑(Northeast Corridor) 노선을 이용해 기차로 오는 여행자들에게도 주요 정차역 역할을 합니다.",
+      "days": "역사 지구(올드 시티, 독립 국립역사공원 등)를 둘러보고 박물관 거리와 동네 맛집을 맛보기에는 2~3일 정도가 적당하며, 근교 당일치기 여행까지 여유 있게 즐기려면 4~5일로 일정을 늘리는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "フィラデルフィアは、独立記念館(Independence Hall)や自由の鐘(Liberty Bell)に代表される独立戦争時代の歴史と、歩いて回れるほどコンパクトで密度の高い都心部、世界クラスの美術館群、そしてチーズステーキや活気あふれるリーディング・ターミナル・マーケット(Reading Terminal Market)を中心とした食文化が融合する街だ。米国有数の歴史ある大都市らしく、その街並みはコンパクトながらも幾層にも重なる魅力を持ち、歩きながら発見を楽しむのに絶好の場所となっている。",
+      "getting": "多くの旅行者はフィラデルフィア国際空港(PHL)を利用して到着する。空港からセンターシティへはSEPTAのAirport Line(空港線、地域鉄道)で結ばれており、朝5時から深夜0時まで週7日運行、日中は30分間隔で電車が発着する。所要時間は約20〜25分で、30th Street駅やSuburban Station駅などへアクセスできる。また、Amtrak(アムトラック)の30th Street Stationは、北東回廊(Northeast Corridor)方面から鉄道で訪れる旅行者にとっても主要な玄関口となっている。",
+      "days": "歴史地区(Old City、独立国立歴史公園)に加え、美術館エリアや地元の食文化を軽く味わうだけなら、2〜3日ほど見ておくとよい。もう少しゆったりとしたペースで日帰り旅行なども楽しみたいなら、4〜5日に延ばすのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Filadelfia combina la historia de la era revolucionaria —desde el Independence Hall hasta la Liberty Bell— con un centro urbano compacto y perfecto para recorrer a pie, museos de arte de talla mundial y una escena gastronómica que gira en torno a los cheesesteaks y el bullicioso Reading Terminal Market. Como una de las ciudades más antiguas e importantes del país, ofrece un paisaje urbano compacto y lleno de capas que recompensa a quienes se animan a explorarlo caminando.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Filadelfia (PHL), conectado con Center City mediante la línea regional Airport Line de SEPTA, que circula los siete días de la semana de 5:00 a. m. a medianoche, con trenes cada 30 minutos, y que llega a estaciones como 30th Street y Suburban Station en unos 20-25 minutos. La estación 30th Street de Amtrak también convierte a la ciudad en una parada clave para quienes llegan en tren desde el Northeast Corridor.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer el casco histórico (Old City, Independence National Historical Park) y disfrutar de una probadita del distrito de museos y la escena gastronómica de los barrios, o bien extender la visita a 4-5 días para un ritmo más relajado que incluya excursiones de un día."
+    },
+    "zh": {
+      "blurb": "费城将革命时代的历史底蕴——从独立宫到自由钟——与紧凑好逛的都市核心、世界级的艺术博物馆,以及以芝士牛排和熙攘的雷丁车站市场（Reading Terminal Market）为代表的美食场景融为一体。作为美国历史最悠久的大城市之一，这里街景层次丰富却范围紧凑，非常适合徒步漫游探索。",
+      "getting": "大多数旅客会经由费城国际机场（PHL）抵达，机场通过SEPTA机场线区域铁路与中心城区（Center City）相连，<cite index=\"1-5\">该线路每周七天运营，从早上5点到午夜，每天每30分钟一班车</cite>，约20-25分钟即可抵达30街车站（30th Street Station）、近郊车站（Suburban Station）等站点。此外，美铁（Amtrak）的30街车站也是东北走廊（Northeast Corridor）沿线火车旅客抵达费城的重要枢纽。",
+      "days": "建议安排约2-3天游览历史核心区（老城区、独立国家历史公园），再抽空体验博物馆区和街区美食；若想节奏更从容、安排一日游，可延长至4-5天。"
+    }
+  },
+  "Santiago de Compostela": {
+    "en": {
+      "blurb": "Santiago de Compostela is the mystical endpoint of the Camino de Santiago, where centuries of pilgrims converge on a UNESCO-listed old town wrapped around its towering Romanesque-Baroque cathedral. Grey granite streets, incense-filled masses, and the ritual thud of walking sticks give the Galician capital a spiritual gravity unlike anywhere else in Spain.",
+      "getting": "Most travellers fly into Santiago–Rosalía de Castro Airport (SCQ), located a few kilometres northeast of the city, or arrive by high-speed AVE train on the Madrid–Galicia line, with journeys from Madrid taking ~3 hours. From the airport, buses and taxis run into the historic centre in well under an hour.",
+      "days": "Plan on ~2 days to see the cathedral, old town, and pilgrim sights properly, or longer if arriving on foot as the final stage of the Camino."
+    },
+    "ko": {
+      "blurb": "산티아고 데 콤포스텔라는 산티아고 순례길(카미노 데 산티아고)의 신비로운 종착지로, 수 세기에 걸쳐 순례자들이 모여드는 곳이다. 우뚝 솟은 로마네스크-바로크 양식의 대성당을 중심으로 유네스코 세계문화유산에 등재된 구시가지가 감싸고 있다. 회색 화강암 골목길, 향 냄새 가득한 미사, 그리고 순례자들의 지팡이가 바닥에 부딪히는 소리는 갈리시아 주도(州都)에 스페인 어디에서도 느낄 수 없는 영적인 무게감을 더해준다.\",\"getting\":\"대부분의 여행자는 도심에서 북동쪽으로 몇 킬로미터 떨어진 산티아고-로살리아 데 카스트로 공항(SCQ)을 이용하거나, 마드리드-갈리시아 노선의 고속열차 AVE를 타고 도착한다. 마드리드에서는 약 3시간이 소요된다. 공항에서는 버스나 택시로 한 시간이 채 걸리지 않아 구시가지에 도착할 수 있다.",
+      "getting": "대부분의 여행자는 도심에서 북동쪽으로 몇 킬로미터 떨어진 산티아고-로살리아 데 카스트로 공항(SCQ)을 이용하거나, 마드리드-갈리시아 노선의 고속열차 AVE를 타고 도착한다. 마드리드에서는 약 3시간이 소요된다. 공항에서는 버스나 택시로 한 시간이 채 걸리지 않아 구시가지에 도착할 수 있다.",
+      "days": "대성당과 구시가지, 순례자 관련 명소를 제대로 둘러보려면 약 2일 정도를 계획하는 것이 좋다. 카미노 순례길의 마지막 구간으로 도보로 도착하는 경우라면 더 여유롭게 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "サンティアゴ・デ・コンポステーラは、「サンティアゴの道(カミーノ・デ・サンティアゴ)」の神秘的な終着点。何世紀にもわたり巡礼者たちが目指してきたこの旧市街は、世界遺産にも登録され、そびえ立つロマネスク・バロック様式の大聖堂を中心に広がっています。灰色の花崗岩の石畳、香の香りに包まれたミサ、巡礼者たちが杖を突く音の響き――そうしたものが、スペインの他のどこにもないガリシアの首都特有の、深い精神性を醸し出しています。\",\"getting\":\"多くの旅行者は、市街地から北東に数キロの場所にあるサンティアゴ=ロサリア・デ・カストロ空港(SCQ)を利用するか、マドリード~ガリシア間を結ぶ高速AVE列車で訪れます(マドリードから約3時間)。空港から旧市街までは、バスやタクシーで1時間もかからずに到着できます。\",\"days\":\"大聖堂や旧市街、巡礼にまつわる見どころをしっかり巡るなら、2日ほどを見ておくとよいでしょう。カミーノの最終行程として徒歩で到着する場合は、さらに時間をかけて楽しむのがおすすめです。",
+      "getting": "多くの旅行者は、市街地から北東に数キロの場所にあるサンティアゴ=ロサリア・デ・カストロ空港(SCQ)を利用するか、マドリード~ガリシア間を結ぶ高速AVE列車で訪れます(マドリードから約3時間)。空港から旧市街までは、バスやタクシーで1時間もかからずに到着できます。",
+      "days": "大聖堂や旧市街、巡礼にまつわる見どころをしっかり巡るなら、2日ほどを見ておくとよいでしょう。カミーノの最終行程として徒歩で到着する場合は、さらに時間をかけて楽しむのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Santiago de Compostela es el destino místico del Camino de Santiago, donde siglos de peregrinos confluyen en un casco antiguo declarado Patrimonio de la Humanidad por la UNESCO, que se extiende alrededor de su imponente catedral románico-barroca. Las calles de granito gris, las misas impregnadas de incienso y el golpeteo ritual de los bastones de peregrino le confieren a la capital gallega una gravedad espiritual que no se encuentra en ningún otro lugar de España.",
+      "getting": "La mayoría de los viajeros llegan al Aeropuerto de Santiago–Rosalía de Castro (SCQ), situado a pocos kilómetros al noreste de la ciudad, o viajan en el tren de alta velocidad AVE de la línea Madrid–Galicia, con trayectos desde Madrid de aproximadamente 3 horas. Desde el aeropuerto, autobuses y taxis llegan al casco histórico en bastante menos de una hora.",
+      "days": "Se recomienda dedicar unos 2 días para conocer con calma la catedral, el casco antiguo y los lugares emblemáticos del Camino, o más tiempo si se llega a pie como etapa final de la peregrinación."
+    },
+    "zh": {
+      "blurb": "圣地亚哥·德·孔波斯特拉是\"圣雅各朝圣之路\"（Camino de Santiago）的神圣终点，数百年来无数朝圣者汇聚于此，环绕着高耸的罗马式—巴洛克风格大教堂，形成了一座被列入联合国教科文组织世界遗产名录的古城。灰色花岗岩铺就的街道、弥漫香火气息的弥撒仪式，以及朝圣者手杖敲击石板路的仪式感回响，都赋予这座加利西亚首府一种在西班牙独一无二的精神厚重感。",
+      "getting": "大多数游客选择飞抵圣地亚哥—罗萨利亚·德·卡斯特罗机场（SCQ），该机场位于市区东北几公里处；也有不少人乘坐马德里—加利西亚线的高速AVE列车前来，从马德里出发车程约3小时。从机场出发，乘坐巴士或出租车前往历史城区，用时远不到一小时。",
+      "days": "建议安排约2天时间，细细游览大教堂、古城区及各处朝圣景点；若是作为\"朝圣之路\"最后一程徒步抵达，则不妨多留几日，慢慢体会这段旅程的意义。"
     }
   }
 }
