@@ -22,11 +22,6 @@ faq:
     a: 'It''s trending fast: it ranked No. 3 on Yelp''s 2026 Top 100 U.S. Restaurants list and was the most-reviewed business on that list, so expect crowds rather than a quiet, undiscovered scene.'
 aiGenerated: true
 photoless: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg
-  credit: 'Photo: Peachyeung316 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Kitchen_in_Nam_Long_Congee_Shop.jpg
 ---
 
 ## Why NAM Kitchen stands out

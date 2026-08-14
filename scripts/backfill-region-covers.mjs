@@ -17,7 +17,11 @@ import { cleanCommonsUrl } from './lib/commons.mjs';
 
 const OUT = fileURLToPath(new URL('../data/region-covers.json', import.meta.url));
 const API = 'https://commons.wikimedia.org/w/api.php';
-const OK_LICENSE = /cc-by|cc-by-sa|cc0|pd|public domain/i;
+// Commons' LicenseShortName uses SPACES ("CC BY-SA 4.0"), and the old
+// hyphen-only /cc-by/ silently rejected every such file — Gardena had four
+// perfectly licensed candidates and this filter turned all of them away
+// (2026-08-14, third diagnosis round of one dark tile). Accept either form.
+const OK_LICENSE = /cc[\s-]by|cc0|\bpd\b|public domain/i;
 
 // region -> [search terms]. Country in the query keeps "George Town" from
 // matching the wrong continent.
@@ -48,6 +52,12 @@ const TARGETS = {
 
 const table = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// Wikimedia's UA policy wants a CONTACT in the string; the bare
+// 'WanderAtlasBot/1.0 (region-covers)' UA earned a sustained 429 ban on
+// 2026-08-14 — two full runs reported every unfilled region as "no verifiable
+// city photo found" when not one search had actually been answered.
+const UA = 'WanderAtlasBot/1.0 (https://wanderatlasguides.com; region-covers)';
+let throttled = false; // any get() that exhausted its retries on non-JSON
 const get = async (params) => {
   const u = new URL(API);
   for (const [k, v] of Object.entries({ format: 'json', ...params })) u.searchParams.set(k, v);
@@ -55,10 +65,11 @@ const get = async (params) => {
   // first run died parsing "You are making too many requests"). Pace + retry.
   for (let attempt = 0; attempt < 4; attempt++) {
     await sleep(1500);
-    const r = await fetch(u, { headers: { 'user-agent': 'WanderAtlasBot/1.0 (region-covers)' } });
+    const r = await fetch(u, { headers: { 'user-agent': UA } });
     const text = await r.text();
     try { return JSON.parse(text); } catch { await sleep(8000 * (attempt + 1)); }
   }
+  throttled = true;
   return null;
 };
 
@@ -107,6 +118,10 @@ for (const [region, queries] of Object.entries(TARGETS)) {
     if (picked) break;
   }
   if (picked) { table[region] = picked; console.log(`✓ ${region} ← ${picked.source}`); }
+  // "no photo exists" and "the API stopped answering" are different verdicts:
+  // conflating them cost two diagnosis rounds on 2026-08-14, when a 429 ban
+  // made every unfilled region read as photo-less.
+  else if (throttled) console.log(`⚠ ${region} — API throttled mid-search, result unknown (retry later)`);
   else console.log(`✗ ${region} — no verifiable city photo found`);
 }
 writeFileSync(OUT, JSON.stringify(table, null, 2) + '\n');
