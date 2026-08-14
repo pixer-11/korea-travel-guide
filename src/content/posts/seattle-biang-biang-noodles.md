@@ -5,11 +5,7 @@ country: United States
 region: Seattle
 category: restaurant
 pubDate: "2026-08-07T08:42:05.891Z"
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Biang_Biang_Mian.jpg/1920px-Biang_Biang_Mian.jpg
-  credit: "Photo: Gary Soup / Wikimedia Commons (CC BY 2.0)"
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Biang_Biang_Mian.jpg
+photoless: true
 gallery: []
 place:
   id: ChIJYYN0DHRrkFQRbz4HEE2Zxbk
