@@ -183,3 +183,39 @@ test('says unknown when there is nothing to compare', () => {
   assert.equal(judgeFoursquareCredit('Photo: Foursquare user content (The Cafe)', 'The Coffee House').verdict, 'unknown');
   assert.equal(judgeFoursquareCredit(undefined, 'X').verdict, 'unknown');
 });
+
+// ── Human-judged false positives ──────────────────────────────
+import { makeJudgedIndex } from './commons-identity.mjs';
+
+test('a judged (slug, key) pair is suppressed', () => {
+  const idx = makeJudgedIndex([
+    { slug: 'singapore-bouillon-gavroche', key: 'Photo: Foursquare user content (Boullion Gavroche)' },
+    { slug: 'pingxi-shifen-waterfall', key: 'ShiFengWaterFall_002.jpg' },
+  ]);
+  assert.equal(idx.size, 2);
+  assert.ok(idx.has('singapore-bouillon-gavroche', 'Photo: Foursquare user content (Boullion Gavroche)'));
+  assert.ok(idx.has('pingxi-shifen-waterfall', 'ShiFengWaterFall_002.jpg'));
+});
+
+test('a NEW photo on a judged slug reports again — the judgement covered one photo, not the slug', () => {
+  const idx = makeJudgedIndex([{ slug: 'pingxi-shifen-waterfall', key: 'ShiFengWaterFall_002.jpg' }]);
+  assert.equal(idx.has('pingxi-shifen-waterfall', 'Completely_Different_Photo.jpg'), false);
+});
+
+test('a changed credit string voids the entry — the key IS the identity, not the slug', () => {
+  const idx = makeJudgedIndex([{ slug: 'x', key: 'Photo: Foursquare user content (Old Venue)' }]);
+  assert.equal(idx.has('x', 'Photo: Foursquare user content (New Venue)'), false);
+});
+
+test('the same key on a different slug vouches for nothing', () => {
+  const idx = makeJudgedIndex([{ slug: 'a', key: 'Photo.jpg' }]);
+  assert.equal(idx.has('b', 'Photo.jpg'), false);
+});
+
+test('tolerates a missing, empty, or malformed judged file', () => {
+  assert.equal(makeJudgedIndex(undefined).size, 0);
+  assert.equal(makeJudgedIndex([]).size, 0);
+  const idx = makeJudgedIndex([null, {}, { slug: 'a' }, { key: 'b' }, { slug: '', key: 'x' }, { slug: 'ok', key: 'ok.jpg' }]);
+  assert.equal(idx.size, 1);
+  assert.ok(idx.has('ok', 'ok.jpg'));
+});

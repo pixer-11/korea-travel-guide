@@ -1,0 +1,191 @@
+{
+  "comment": "Human-judged FALSE POSITIVES from the photo identity audit — cases a person checked against Commons metadata / Foursquare and confirmed the photo is right. Each entry hides exactly one (slug, key) pair from the report. key = the Commons file title (🟡 nearby bucket) or the FULL Foursquare credit line (🏷️ wrong-venue bucket). A new photo on the same slug has a new title/credit and reports again; never add an entry for a photo nobody has looked at. Contradictions and stock cannot be allowlisted here by design — fix the rule, not the instance.",
+  "judged": [
+    {
+      "slug": "agra-itmad-ud-daula",
+      "key": "Photo: Foursquare user content (Itimad Ud Daula)",
+      "judgedAt": "2026-08-14",
+      "note": "spelling variant of the same tomb — Itimad/Itmad-ud-Daula"
+    },
+    {
+      "slug": "gangneung-local-restaurant",
+      "key": "Photo: Foursquare user content (감자유원지 deli / cafe & local store)",
+      "judgedAt": "2026-08-14",
+      "note": "credit names the venue itself in Korean (Gamja Yuwonji)"
+    },
+    {
+      "slug": "guangzhou-huacheng-square",
+      "key": "Photo: Foursquare user content (flower city square)",
+      "judgedAt": "2026-08-14",
+      "note": "English translation of Huacheng (\"Flower City\") Square"
+    },
+    {
+      "slug": "hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue",
+      "key": "Photo: Foursquare user content (Fast Food 22)",
+      "judgedAt": "2026-08-14",
+      "note": "abbreviation of the same venue's long compound name"
+    },
+    {
+      "slug": "nha-trang-po-nagar-temple",
+      "key": "Photo: Foursquare user content (Tháp Bà Po Nagar)",
+      "judgedAt": "2026-08-14",
+      "note": "Vietnamese name of the Po Nagar towers"
+    },
+    {
+      "slug": "singapore-bouillon-gavroche",
+      "key": "Photo: Foursquare user content (Boullion Gavroche)",
+      "judgedAt": "2026-08-14",
+      "note": "uploader's typo of Bouillon Gavroche — same restaurant (covers hero + gallery)"
+    },
+    {
+      "slug": "suncheon-nagan-eupseong-folk-village",
+      "key": "Photo: Foursquare user content (Naga Eupseong Folk Village)",
+      "judgedAt": "2026-08-14",
+      "note": "typo of Nagan Eupseong — same village (covers hero + gallery)"
+    },
+    {
+      "slug": "valencia-la-lonja-de-la-seda-de-valencia",
+      "key": "Photo: Foursquare user content (Llotja de la Seda)",
+      "judgedAt": "2026-08-14",
+      "note": "Valencian name of La Lonja de la Seda"
+    },
+    {
+      "slug": "aberdeen-ocean-park",
+      "key": "Ocean_Park,_Hong_Kong_22-06-2025(34).jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Ocean Park itself — \"Hong Kong\" in the title is the city, Aberdeen the district"
+    },
+    {
+      "slug": "bugis-supertree-grove",
+      "key": "Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the Grove itself — Singapore is the city, not a rival district"
+    },
+    {
+      "slug": "central-avenue-of-stars-hk",
+      "key": "HK_尖沙咀_TST_香港星光大道_Avenue_of_Stars_November_2019_SS2_05.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the Avenue of Stars itself — the title names its actual TST address"
+    },
+    {
+      "slug": "downtown-dubai-at-the-top-burj-khalifa",
+      "key": "Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the view from At The Top itself — Dubai is the metro naming its district"
+    },
+    {
+      "slug": "east-coast-national-museum-of-singapore",
+      "key": "National_Museum_of_Singapore_(131537).jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the museum itself"
+    },
+    {
+      "slug": "gili-islands-gili-meno-beach",
+      "key": "Beach_on_the_island,_Tropical_cyclone,_Gili_Meno_Island,_Indonesia.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Gili Meno itself — flagged only because the flat region list knows another name"
+    },
+    {
+      "slug": "gili-islands-gili-trawangan-beach",
+      "key": "People_on_the_beach,_Gili_Trawangan_(island),_Indonesia.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Gili Trawangan itself"
+    },
+    {
+      "slug": "jumeirah-dubai-water-canal",
+      "key": "Dubai_Water_Canal.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the canal itself — Dubai is the metro naming its district"
+    },
+    {
+      "slug": "jurong-jurong-lake-gardens",
+      "key": "Chinese_Garden.JPG",
+      "judgedAt": "2026-08-14",
+      "note": "the Chinese Garden stands inside Jurong Lake Gardens"
+    },
+    {
+      "slug": "katong-east-coast-park",
+      "key": "(SGP-Singapore)_East_Coast_Park_Zone_B_2026-01-25.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the park itself"
+    },
+    {
+      "slug": "kennedy-town-belcher-bay-park",
+      "key": "Belcher_Bay_Park_18-02-2024.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the park itself"
+    },
+    {
+      "slug": "kuching-kubah-national-park",
+      "key": "Kubah_waterafall_at_morning.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "waterfall inside Kubah National Park"
+    },
+    {
+      "slug": "little-india-tekka-centre",
+      "key": "Tekka_Centre_Wet_Market.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Tekka Centre's own wet market"
+    },
+    {
+      "slug": "marina-bay-satay-by-the-bay",
+      "key": "Satay_by_the_Bay.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the venue itself"
+    },
+    {
+      "slug": "mount-bromo-sea-of-sand-bromo",
+      "key": "Mount_Batok_from_Bromo_3.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Mount Batok stands in Bromo's Sea of Sand — the classic sub-region case"
+    },
+    {
+      "slug": "new-taipei-yangmingshan-national-park",
+      "key": "Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Qixing is Yangmingshan's main peak"
+    },
+    {
+      "slug": "pingxi-shifen-waterfall",
+      "key": "ShiFengWaterFall_002.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the waterfall itself — romanisation variant ShiFeng/Shifen"
+    },
+    {
+      "slug": "pingxi-shifen-waterfall",
+      "key": "Shifen_Waterfall_left_view_20110806.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the waterfall itself"
+    },
+    {
+      "slug": "saadiyat-island-hudayriyat-island",
+      "key": "Hudayriyat_Island_beach_at_night.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "Hudayriyat Island itself — the post covers Hudayriyat under the Saadiyat region"
+    },
+    {
+      "slug": "saadiyat-island-hudayriyat-island",
+      "key": "ISS062-E-45345_-_View_of_United_Arab_Emirates_-_Abu_Dhabi_-_Zayed_Port_-_Al_Saadiyat_Island_-_Al_Jubail_Island_-_Bilghaylam_Island_-_Al_Mihsinah_Lagoon_(cropped).jpg",
+      "judgedAt": "2026-08-14",
+      "note": "ISS view of the Abu Dhabi islands including Saadiyat/Hudayriyat"
+    },
+    {
+      "slug": "sha-tin-ten-thousand-buddhas-monastery",
+      "key": "Pagoda_view.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the monastery's own pagoda — Commons categories place it in Sha Tin"
+    },
+    {
+      "slug": "tiong-bahru-national-gallery-singapore",
+      "key": "Interior_of_the_National_Gallery_Singapore.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the gallery itself"
+    },
+    {
+      "slug": "wan-chai-kam-s-roast-goose",
+      "key": "Wan_Chai_Kam's_Roast_Goose_24-08-2023.jpg",
+      "judgedAt": "2026-08-14",
+      "note": "the shop itself — its own name contains \"Wan Chai\""
+    }
+  ]
+}

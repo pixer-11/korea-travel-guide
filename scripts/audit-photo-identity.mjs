@@ -17,6 +17,10 @@
 //  answer for a photo Commons says nothing useful about, and the failure being
 //  corrected here is precisely a checker that turned "cannot tell" into "fine".
 //
+//  Cases a person has already settled as false positives live in
+//  data/photo-identity-judged.json and are hidden from the report — keyed by
+//  the photo's own file/credit string, so a swapped photo reports again.
+//
 //  Usage:
 //    node scripts/audit-photo-identity.mjs            # report
 //    node scripts/audit-photo-identity.mjs --strip    # remove contradicted heroes
@@ -25,9 +29,10 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
-import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit } from './lib/commons-identity.mjs';
+import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, makeJudgedIndex } from './lib/commons-identity.mjs';
 
 const POSTS = 'src/content/posts';
+const JUDGED = 'data/photo-identity-judged.json';
 const STRIP = process.argv.includes('--strip');
 const JSON_OUT = process.argv.includes('--json');
 const ONLY = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
@@ -109,6 +114,33 @@ for (const p of foursquare) {
   if (v.verdict === 'contradicts') fsqBad.push({ ...p, ...v });
 }
 
+// The two review buckets exist because this code cannot decide them; once a
+// person HAS decided one, repeating it every day only buries the next real
+// case. Settled (slug, photo) pairs live in data/photo-identity-judged.json,
+// keyed by the photo's own identity string — the Commons file title, or the
+// full Foursquare credit — so a swapped photo changes the key, misses the
+// index, and reports again. Only these two buckets consult the file:
+// contradictions and stock are decided by evidence, and no human may overrule
+// evidence by allowlist — the fix for a wrong contradiction is a rule in
+// judgeIdentity, as it was for Malang and for Central Park.
+let judged = makeJudgedIndex([]);
+try {
+  judged = makeJudgedIndex(JSON.parse(await readFile(JUDGED, 'utf8')).judged);
+} catch (e) {
+  // No file → nothing is settled and everything reports, which is the safe
+  // direction. A file that EXISTS but cannot be parsed also reports everything
+  // — but that one deserves a loud line, or 33 warnings reappear mysteriously.
+  if (e.code !== 'ENOENT') console.error(`⚠️  ${JUDGED} unreadable (${e.message}) — hiding nothing`);
+}
+const judgedOk = [];
+const stillOpen = (rows, keyOf) => rows.filter((r) => {
+  if (!judged.has(r.slug, keyOf(r))) return true;
+  judgedOk.push(r);
+  return false;
+});
+const fsqOpen = stillOpen(fsqBad, (r) => r.credit);
+const nearbyOpen = stillOpen(nearby, (r) => r.title);
+
 // Only what can be removed WITHOUT a judgement call. Commons contradictions are
 // decided by a named country, and stock is a rule violation whatever it depicts
 // — neither needs a person. Foursquare credit mismatches are reported and never
@@ -121,20 +153,20 @@ const removable = [
 ];
 
 if (JSON_OUT) {
-  console.log(JSON.stringify({ contradicts, fsqBad, stock, nearby, unknownCount: unknown.length, supportsCount: supports.length, eventsSkipped: events.length }, null, 2));
+  console.log(JSON.stringify({ contradicts, fsqBad: fsqOpen, stock, nearby: nearbyOpen, judgedOkCount: judgedOk.length, unknownCount: unknown.length, supportsCount: supports.length, eventsSkipped: events.length }, null, 2));
 } else {
-  console.log(`\n🔴 wrong place: ${contradicts.length}   🏷️  wrong venue credited: ${fsqBad.length}   📷 stock: ${stock.length}`);
-  console.log(`🟡 needs a human: ${nearby.length}   ✅ confirmed: ${supports.length}   ❔ unknown: ${unknown.length}   ⏭️  events skipped: ${events.length}\n`);
+  console.log(`\n🔴 wrong place: ${contradicts.length}   🏷️  wrong venue credited: ${fsqOpen.length}   📷 stock: ${stock.length}`);
+  console.log(`🟡 needs a human: ${nearbyOpen.length}   ⚖️  judged ok (hidden): ${judgedOk.length}   ✅ confirmed: ${supports.length}   ❔ unknown: ${unknown.length}   ⏭️  events skipped: ${events.length}\n`);
   for (const c of contradicts) {
     console.log(`  🔴 ${c.slug}  [${c.kind}]`);
     console.log(`     ${c.why}`);
     console.log(`     ${c.title}`);
   }
-  for (const c of fsqBad) console.log(`  🏷️  ${c.slug}  [${c.kind}]  ${c.why}`);
+  for (const c of fsqOpen) console.log(`  🏷️  ${c.slug}  [${c.kind}]  ${c.why}`);
   for (const s of stock) console.log(`  📷 ${s.slug}  [${s.kind}]  stock`);
-  if (nearby.length) {
+  if (nearbyOpen.length) {
     console.log('\n  — same country, cannot decide from a flat region list (review by hand) —');
-    for (const n of nearby) console.log(`  🟡 ${n.slug}: ${n.why}`);
+    for (const n of nearbyOpen) console.log(`  🟡 ${n.slug}: ${n.why}`);
   }
 }
 
@@ -157,4 +189,4 @@ if (STRIP && removable.length) {
   }
 }
 
-console.log(`\nIDENTITY_SUMMARY commons=${targets.length} foursquare=${foursquare.length} wrongplace=${contradicts.length} wrongvenue=${fsqBad.length} stock=${stock.length} confirmed=${supports.length} unknown=${unknown.length} review=${nearby.length}`);
+console.log(`\nIDENTITY_SUMMARY commons=${targets.length} foursquare=${foursquare.length} wrongplace=${contradicts.length} wrongvenue=${fsqOpen.length} stock=${stock.length} confirmed=${supports.length} unknown=${unknown.length} review=${nearbyOpen.length} judged=${judgedOk.length}`);

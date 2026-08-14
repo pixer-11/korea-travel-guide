@@ -179,6 +179,36 @@ export function judgeIdentity(meta, claim, world) {
   return { verdict: 'unknown', why: 'Commons names no place this site knows' };
 }
 
+// ── Human-judged false positives ─────────────────────────────
+//
+// The audit's two review buckets (wrong-venue credits, same-country "nearby")
+// exist precisely because this code cannot decide them — a person can, and on
+// 2026-08-14 a person did, for every open case: transliterations ("Tháp Bà Po
+// Nagar"), translations ("flower city square"), typos ("Boullion Gavroche"),
+// and districts naming their own attraction. Re-reporting a settled case every
+// day trains the reader to ignore the report, so settled cases are recorded
+// and hidden. The warning list must only ever contain what a machine could
+// not fix and a human has not yet seen.
+//
+// An entry is (slug, key) where key is the photo's own identity string — the
+// Commons file title, or the full Foursquare credit line. A NEW photo on the
+// same slug carries a new title/credit, misses the index, and reports again;
+// nothing here ever suppresses a photo nobody has looked at.
+
+/**
+ * @param {Array<{slug: string, key: string}>} entries from data/photo-identity-judged.json
+ * @returns {{has: (slug: string, key: string) => boolean, size: number}}
+ */
+export function makeJudgedIndex(entries) {
+  const seen = new Set();
+  for (const e of entries ?? []) {
+    if (e && typeof e.slug === 'string' && typeof e.key === 'string' && e.slug && e.key) {
+      seen.add(`${e.slug} ${e.key}`);
+    }
+  }
+  return { size: seen.size, has: (slug, key) => seen.has(`${slug} ${key}`) };
+}
+
 // ── Foursquare: the credit line already names the venue ──────
 //
 // 232 live heroes come from Foursquare, where the stored credit reads
