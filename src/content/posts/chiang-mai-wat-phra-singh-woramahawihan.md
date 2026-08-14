@@ -10,11 +10,7 @@ heroImage:
   credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg"
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chiang_Rai_-_Wat_Phra_Sing_-_0001.jpg/3840px-Chiang_Rai_-_Wat_Phra_Sing_-_0001.jpg"
-    credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Wat_Phra_Sing_-_0001.jpg"
+gallery: []
 place:
   id: "ChIJbyRKbps62jAR6VTNF-fZVpY"
   name: "Wat Phra Singh Woramahawihan"
