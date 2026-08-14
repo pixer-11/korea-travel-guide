@@ -7433,6 +7433,11 @@
       "blurb": "霞慕尼坐落在西欧最高峰勃朗峰山群陡峭的花岗岩尖峰与冰川脚下,是登山运动公认的发源地。这座紧凑精致的山谷小镇,冬季化身世界一流的滑雪胜地,夏季则摇身一变,成为徒步、攀岩与越野跑爱好者的圣地(包括著名的环勃朗峰超级越野赛UTMB),四季风情各异,却都精彩十足。",
       "getting": "大多数游客会先飞抵瑞士的日内瓦机场(GVA)——这是距离霞慕尼最近的国际航空枢纽——再转乘陆路交通前往。无论是拼车班车、大巴还是自驾,车程通常约1至1.5小时。此外,霞慕尼本身设有法国国铁(SNCF)车站,坐落在风景如画的勃朗峰快线(Saint-Gervais–Vallorcine线)上,方便游客在山谷内往返穿行,或衔接前往瑞士方向的行程。",
       "days": "建议安排3至5天时间,充分领略山谷精华:乘坐缆车登高远眺、至少徒步一条经典路线,再留些时间悠闲漫步这座山间小镇,感受其独特氛围。若是资深徒步或攀登爱好者,通常会选择停留一周以上,尽情探索。"
+    },
+    "ko": {
+      "blurb": "샤모니는 서유럽 최고봉인 몽블랑 산군의 깎아지른 화강암 첨봉과 빙하 바로 아래 자리 잡고 있어, 알피니즘이 탄생한 유서 깊은 고장으로 알려져 있습니다. 아담한 규모의 이 계곡 마을은 겨울에는 세계적 수준의 스키 슬로프로, 여름에는 UTMB를 포함한 전설적인 하이킹·클라이밍·트레일러닝 코스로 자연스럽게 변신합니다.",
+      "getting": "대부분의 여행객은 인근 스위스의 주요 국제 관문인 제네바 공항(GVA)으로 입국한 뒤 육로나 철도로 이동합니다. 셔틀버스, 시외버스, 렌터카 등을 이용한 육로 이동에는 보통 1~1.5시간 정도 걸립니다. 샤모니에는 경치 좋은 몽블랑 익스프레스 노선(생제르베–발로르신)이 지나는 SNCF 기차역도 있어, 계곡 내 이동이나 스위스 방면 환승에 유용합니다.",
+      "days": "케이블카 탑승, 대표적인 트레일 하이킹, 그리고 산악 마을 특유의 분위기를 즐길 시간까지 고려하면 계곡의 주요 명소를 둘러보는 데 보통 3~5일 정도가 적당합니다. 다만 하이킹이나 클라이밍을 본격적으로 즐기려는 여행객이라면 일주일 이상 머무는 경우도 많습니다."
     }
   },
   "East Coast": {
@@ -7450,6 +7455,11 @@
       "blurb": "East Coast Park es el parque más grande de Singapur, una franja de 185 hectáreas de costa ganada al mar que cuenta con una playa artificial, senderos para ciclismo y locales de mariscos al aire libre que los habitantes de la ciudad consideran su patio trasero de fin de semana. No se trata de una atracción puntual, sino de una larga y ventosa franja costera ideal para andar en bicicleta, patinar, hacer barbacoas y ver los barcos que esperan frente a la costa; un lugar deliberadamente sencillo si se lo compara con las atracciones más deslumbrantes de la ciudad.",
       "getting": "La mayoría de los viajeros llega a través del Aeropuerto Changi (SIN) y accede al parque en MRT: se toma la East-West Line hasta Bedok o la Thomson-East Coast Line hasta Marine Parade, y luego se continúa con un breve trayecto en autobús o una caminata de entre 10 y 20 minutos hasta el frente costero. No hay ninguna estación justo en la playa, así que lo habitual es tomar un autobús adicional o caminar por el paso subterráneo o el conector del parque que llevan hasta la orilla.",
       "days": "Conviene reservar entre medio día y un día completo, tiempo suficiente para recorrer la costa en bicicleta o a pie, disfrutar de un rato de playa y comer mariscos, sin necesidad de pasar la noche allí."
+    },
+    "zh": {
+      "blurb": "东海岸公园是新加坡最大的公园,占地185公顷,建在填海而成的海岸线上,拥有人造沙滩、骑行步道,还有一众露天海鲜档口,是本地人周末最爱扎堆的\"后院\"。与其说它是一个单一景点,不如说是一条悠长惬意的休闲地带——骑车、轮滑、烧烤,或看着远处海面上排队等候的货轮,气氛比市区那些光鲜亮丽的景点要随性低调得多。\",\"getting\":\"大多数旅客从樟宜机场(SIN)入境后,可乘坐地铁前往公园:搭乘东西线在勿洛(Bedok)站下车,或搭乘汤申-东海岸线在马林百列(Marine Parade)站下车,再转乘短程巴士,或步行约10-20分钟即可抵达海滨。由于没有地铁站直达沙滩,接驳巴士或穿过连接的地下通道/公园连道步行过去是常见做法。\",\"days\":\"建议安排半天到一天的时间,足以沿海岸线骑行或漫步、在沙滩上小憩,再享用一顿海鲜大餐,无需过夜即可尽兴。",
+      "getting": "大多数旅客从樟宜机场(SIN)入境后,可乘坐地铁前往公园:搭乘东西线在勿洛(Bedok)站下车,或搭乘汤申-东海岸线在马林百列(Marine Parade)站下车,再转乘短程巴士,或步行约10-20分钟即可抵达海滨。由于没有地铁站直达沙滩,接驳巴士或穿过连接的地下通道/公园连道步行过去是常见做法。",
+      "days": "建议安排半天到一天的时间,足以沿海岸线骑行或漫步、在沙滩上小憩,再享用一顿海鲜大餐,无需过夜即可尽兴。"
     }
   },
   "Kanchanaburi": {
@@ -7558,6 +7568,141 @@
       "blurb": "圣地亚哥·德·孔波斯特拉是\"圣雅各朝圣之路\"（Camino de Santiago）的神圣终点，数百年来无数朝圣者汇聚于此，环绕着高耸的罗马式—巴洛克风格大教堂，形成了一座被列入联合国教科文组织世界遗产名录的古城。灰色花岗岩铺就的街道、弥漫香火气息的弥撒仪式，以及朝圣者手杖敲击石板路的仪式感回响，都赋予这座加利西亚首府一种在西班牙独一无二的精神厚重感。",
       "getting": "大多数游客选择飞抵圣地亚哥—罗萨利亚·德·卡斯特罗机场（SCQ），该机场位于市区东北几公里处；也有不少人乘坐马德里—加利西亚线的高速AVE列车前来，从马德里出发车程约3小时。从机场出发，乘坐巴士或出租车前往历史城区，用时远不到一小时。",
       "days": "建议安排约2天时间，细细游览大教堂、古城区及各处朝圣景点；若是作为\"朝圣之路\"最后一程徒步抵达，则不妨多留几日，慢慢体会这段旅程的意义。"
+    }
+  },
+  "Kokand": {
+    "en": {
+      "blurb": "Once the proud capital of the Kokand Khanate, this Fergana Valley city is best known for the dazzling tiled Khudayar Khan Palace, a 19th-century royal residence whose ceramic mosaics and carved facades still hint at the splendor of its vanished court. Sitting amid orchards and cotton fields, Kokand offers a quieter, more local counterpoint to Uzbekistan's better-known Silk Road stops.",
+      "getting": "Kokand has its own train station with direct services on the Tashkent line (~4h15m–4h30m one-way), making rail the most reliable way in; the nearest airport is Fergana (FEG), roughly ~50km away, reached via a short taxi or onward transport from the regional hub. There's no dedicated Kokand airport, so most travelers combine a flight into Fergana or Tashkent with a train or road transfer.",
+      "days": "Plan on ~1 day (or a half-day if combined with nearby Fergana Valley towns) to cover the palace, old madrasahs, and central bazaar at an easy pace."
+    },
+    "ko": {
+      "blurb": "한때 코칸드 칸국의 자랑스러운 수도였던 이곳 페르가나 계곡의 도시는 화려한 타일 장식으로 유명한 후다야르 칸 궁전으로 가장 잘 알려져 있습니다. 19세기에 지어진 이 왕궁은 정교한 세라믹 모자이크와 조각된 파사드를 통해 사라진 왕조의 영화를 여전히 느끼게 해줍니다. 과수원과 목화밭에 둘러싸인 코칸드는 우즈베키스탄의 유명한 실크로드 명소들과는 또 다른, 더 조용하고 현지 느낌 가득한 매력을 선사합니다.",
+      "getting": "코칸드에는 자체 기차역이 있어 타슈켄트 노선의 직행 열차(편도 약 4시간 15분~4시간 30분)를 이용할 수 있으며, 이는 가장 믿을 만한 이동 수단입니다. 가장 가까운 공항은 약 50km 떨어진 페르가나 공항(FEG)으로, 이곳에서 짧은 택시나 다른 교통수단을 이용해 지역 거점까지 이동할 수 있습니다. 코칸드에는 자체 공항이 없기 때문에 대부분의 여행자는 페르가나나 타슈켄트로 항공편을 이용한 뒤 기차나 육로로 갈아타는 방식을 택합니다.",
+      "days": "궁전과 오래된 마드라사, 중앙 바자르를 여유롭게 둘러보려면 약 하루 정도가 적당하며, 인근 페르가나 계곡의 다른 도시들과 함께 묶어서 방문한다면 반나절 일정으로도 충분합니다."
+    },
+    "ja": {
+      "blurb": "かつてコクラト・ハン国の首都として栄えたフェルガナ盆地の街コクラトは、19世紀に建てられた王宮フダヤール・ハン宮殿で広く知られています。色鮮やかなタイル装飾が施されたこの宮殿は、陶器モザイクや彫刻を施したファサードに、今は失われた王朝の華やかさをしのばせます。果樹園や綿花畑に囲まれたコクラトは、ウズベキスタンのより有名なシルクロードの町々とは一味違う、落ち着いたローカルな雰囲気を味わえる場所です。",
+      "getting": "コクラトには独自の鉄道駅があり、タシケント線の直通列車(片道約4時間15分〜4時間30分)が利用できるため、鉄道が最も確実なアクセス手段です。最寄りの空港はフェルガナ空港(FEG)で、コクラトから約50km離れており、この地方の拠点都市からタクシーや乗り継ぎ交通で向かいます。コクラト自体に空港はないため、多くの旅行者はフェルガナかタシケントへのフライトと、列車または陸路移動を組み合わせて訪れています。",
+      "days": "宮殿や古いマドラサ、中央バザールをゆったり巡るなら、1日程度(近隣のフェルガナ盆地の町々と組み合わせる場合は半日程度)を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Antaño la orgullosa capital del Kanato de Kokand, esta ciudad del Valle de Fergana es célebre sobre todo por el deslumbrante Palacio de Khudayar Khan, una residencia real del siglo XIX cuyos mosaicos de cerámica y fachadas talladas todavía dejan entrever el esplendor de su corte desaparecida. Rodeada de huertos y campos de algodón, Kokand ofrece un contrapunto más tranquilo y local frente a las paradas más conocidas de la Ruta de la Seda en Uzbekistán.",
+      "getting": "Kokand cuenta con su propia estación de tren, con servicios directos en la línea a Tashkent (unas 4h15–4h30 por trayecto), lo que convierte al tren en la forma más fiable de llegar; el aeropuerto más cercano es el de Fergana (FEG), a unos 50 km, al que se accede con un breve trayecto en taxi u otro transporte desde el centro regional. Kokand no tiene aeropuerto propio, así que la mayoría de los viajeros combina un vuelo a Fergana o Tashkent con un traslado en tren o por carretera.",
+      "days": "Calcula alrededor de 1 día (o medio día si se combina con otras localidades cercanas del Valle de Fergana) para recorrer con calma el palacio, las antiguas madrasas y el bazar central."
+    },
+    "zh": {
+      "blurb": "浩罕曾是浩罕汗国的荣耀之都,如今这座费尔干纳盆地城市最负盛名的,是那座瓷砖装饰得美轮美奂的胡达雅尔汗宫。这座建于19世纪的王室宫殿,以精美的陶瓷马赛克和雕刻精细的立面,依稀让人遥想当年宫廷的盛世繁华。浩罕坐落在果园与棉田环绕之中,相比乌兹别克斯坦那些更为知名的丝绸之路名城,这里显得更加宁静、更具本土气息。",
+      "getting": "浩罕设有自己的火车站,与塔什干线路直接相连(单程约4小时15分至4小时30分),因此乘火车是最为可靠的抵达方式;距离最近的机场是费尔干纳机场(FEG),约50公里之外,可从这个区域枢纽乘坐短程出租车或转乘其他交通工具前往。浩罕本身没有机场,因此大多数旅行者会选择先飞往费尔干纳或塔什干,再转乘火车或陆路交通前往浩罕。",
+      "days": "建议安排约1天时间(若与费尔干纳盆地周边城镇一同游览,则半天即可),便可轻松游览王宫、古老的经学院以及中央集市。"
+    }
+  },
+  "Kuantan": {
+    "en": {
+      "blurb": "Kuantan is the easygoing capital of Pahang state, where a laid-back South China Sea beachfront meets a working river port and jungle-fringed hinterland just inland. It's less a headline destination than a comfortable base and gateway — known for its seafood, mosques, and proximity to rainforest and coastal attractions rather than any single blockbuster sight.",
+      "getting": "Most travellers reach Kuantan by road coach from Kuala Lumpur's Terminal Bersepadu Selatan to Terminal Kuantan Sentral, a journey of roughly 4-5 hours, or by a short domestic flight into Sultan Haji Ahmad Shah Airport (KUA), about 15km from the city centre. There is no direct rail line into Kuantan itself, so onward travel from the bus terminal or airport is typically completed by taxi or ride-hailing app.",
+      "days": "Plan on ~1-2 days to cover Kuantan's town centre, waterfront, and nearby beaches, using it as a springboard for longer side trips into Pahang's interior and national parks."
+    },
+    "ko": {
+      "blurb": "콴탄은 파항주의 느긋한 주도로, 여유로운 남중국해 해변과 활기찬 강 항구, 그리고 내륙으로 이어지는 정글 지대가 함께 어우러진 곳이다. 이렇다 할 대표 명소 하나로 유명한 도시라기보다는, 편안하게 머물기 좋은 거점이자 관문 도시에 가깝다. 해산물과 모스크, 그리고 인근의 열대우림과 해안 명소로의 접근성이 이 도시의 매력이다.",
+      "getting": "대부분의 여행자는 쿠알라룸푸르의 테르미날 베르세파두 셀라탄(TBS)에서 출발하는 시외버스를 타고 테르미날 콴탄 센트랄까지 약 4~5시간에 걸쳐 이동한다. 국내선 항공편을 이용하면 시내에서 약 15km 떨어진 술탄 하지 아흐마드 샤 공항(KUA)으로 짧게 도착할 수 있다. 콴탄까지 직접 연결되는 철도는 없어서, 버스 터미널이나 공항에서부터는 보통 택시나 차량 호출 앱을 이용해 이동을 마무리하게 된다.",
+      "days": "콴탄 시내와 해안가, 인근 해변을 둘러보는 데는 약 1~2일이면 충분하며, 이곳을 거점으로 삼아 파항주 내륙과 국립공원으로 더 긴 여정을 떠나기에도 좋다."
+    },
+    "ja": {
+      "blurb": "クアンタンは、パハン州の州都でありながら、どこかのんびりとした空気に包まれた街だ。南シナ海に面したのどかなビーチと、活気ある河川港、そしてすぐ内陸に広がる密林地帯が同時に楽しめる場所でもある。ここは「これぞ」という一大観光名所があるわけではなく、むしろ周辺エリアを巡るための快適な拠点・玄関口としての存在感が強い。シーフードやモスク、そして熱帯雨林や海岸沿いの見どころへのアクセスの良さが、この街の持ち味と言える。",
+      "getting": "クアンタンへ向かう旅行者の多くは、クアラルンプールのTerminal Bersepadu Selatan（TBS）からバスに乗り、Terminal Kuantan Sentralまで約4〜5時間の陸路移動を利用する。あるいは、市中心部から約15kmに位置するスルタン・ハジ・アフマド・シャー空港（KUA）まで、短時間の国内線フライトで飛ぶ方法もある。クアンタン市内へ直接乗り入れる鉄道路線は存在しないため、バスターミナルや空港からの移動は、タクシーやライドシェアアプリを利用するのが一般的だ。",
+      "days": "クアンタンの市街地、ウォーターフロント、そして近郊のビーチを満喫するには、1〜2日ほどを目安にするとよい。ここを拠点にすれば、パハン州内陸部や国立公園への足を延ばす旅も計画しやすくなる。"
+    },
+    "es": {
+      "blurb": "Kuantan es la relajada capital del estado de Pahang, donde un tranquilo frente costero sobre el Mar de China Meridional se encuentra con un activo puerto fluvial y, tierra adentro, con una zona bordeada de selva. Más que un destino de gran atractivo turístico, funciona como una base cómoda y punto de partida, conocida por sus mariscos, sus mezquitas y su cercanía a atracciones de selva tropical y costa, más que por algún sitio emblemático en particular.",
+      "getting": "La mayoría de los viajeros llegan a Kuantan en autobús desde el Terminal Bersepadu Selatan de Kuala Lumpur hasta el Terminal Kuantan Sentral, un trayecto de aproximadamente 4 a 5 horas, o bien en un breve vuelo doméstico hasta el aeropuerto Sultan Haji Ahmad Shah (KUA), ubicado a unos 15 km del centro de la ciudad. Kuantan no cuenta con línea ferroviaria directa, por lo que, tanto desde la terminal de autobuses como desde el aeropuerto, el trayecto final suele completarse en taxi o mediante una aplicación de transporte privado.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer el centro de Kuantan, su malecón y las playas cercanas, usando la ciudad como punto de partida para excursiones más largas hacia el interior de Pahang y sus parques nacionales."
+    },
+    "zh": {
+      "blurb": "关丹是彭亨州悠然自得的首府,南中国海畔的闲适海岸线与繁忙的河港、以及内陆丛林交相辉映。这里算不上什么必看的头号景点,更像是一个舒适的中转站和门户城市——以海鲜、清真寺闻名,同时也因毗邻雨林与海滨景点而备受青睐,而非依靠某一个招牌景点撑场面。",
+      "getting": "大多数旅客前往关丹,是从吉隆坡南湖镇综合交通总站(TBS)乘长途巴士抵达关丹中央车站,车程大约4-5小时;也可以选择乘坐短程国内航班,降落在苏丹哈芝阿末沙机场(KUA),该机场距市中心约15公里。关丹本身没有直达铁路,因此无论是从巴士总站还是机场出发,后续的市内交通通常都要靠出租车或叫车软件解决。",
+      "days": "建议安排1-2天时间游览关丹市中心、海滨一带及周边海滩,并可以此为跳板,深入彭亨内陆及国家公园展开更长的延伸行程。"
+    }
+  },
+  "Sapa": {
+    "en": {
+      "blurb": "Sapa is a former French hill station tucked into Vietnam's northwest highlands, where terraced rice fields cascade down the slopes of Hoang Lien Son and Fansipan — the \"Roof of Indochina\" — rises above the clouds. The town's cool climate and patchwork of Hmong, Dao, and Tay villages make it one of the country's most striking bases for mountain trekking and cultural encounters.",
+      "getting": "Sapa has no airport or train station of its own, so most travelers fly into Noi Bai International Airport (HAN) in Hanoi and continue by overnight sleeper bus (~5-6 hours) directly to Sapa town, or take the train from Hanoi to Lao Cai — the end of the line — followed by a ~1-hour bus or taxi transfer up into the mountains.",
+      "days": "Plan on ~3-4 days to allow for the journey up and back plus at least one full day of trekking through the rice terraces and ethnic minority villages surrounding town."
+    },
+    "ko": {
+      "blurb": "사파(Sapa)는 베트남 북서부 고산지대에 자리한 옛 프랑스령 휴양 도시로, 호앙리엔손(Hoang Lien Son) 산자락을 따라 계단식 논이 물결치듯 펼쳐지고, '인도차이나의 지붕'이라 불리는 판시판(Fansipan)이 구름 위로 솟아 있습니다. 서늘한 기후와 흐몽(Hmong), 자오(Dao), 타이(Tay) 등 소수민족 마을들이 모자이크처럼 어우러진 사파는 트레킹과 문화 체험을 동시에 즐길 수 있는 베트남 최고의 산악 여행지 중 하나입니다.",
+      "getting": "사파에는 자체 공항이나 기차역이 없어, 대부분의 여행자는 하노이의 노이바이 국제공항(HAN)으로 입국한 뒤 야간 침대버스(약 5~6시간)를 타고 사파 시내까지 직행하거나, 하노이에서 기차를 타고 노선의 종착지인 라오까이(Lao Cai)까지 이동한 후 버스나 택시로 약 1시간 정도 산길을 올라가는 방법을 이용합니다.",
+      "days": "오가는 이동 시간을 고려해 최소 3~4일 일정을 잡는 것이 좋으며, 그중 하루는 온전히 비워 사파 주변의 계단식 논과 소수민족 마을을 트레킹하는 시간으로 남겨두시길 추천합니다."
+    },
+    "ja": {
+      "blurb": "サパは、ベトナム北西部の高原地帯にひっそりと佇む、かつてフランス人が避暑地として開発した山岳の町だ。ホアンリエンソン山脈の斜面には棚田が幾重にも連なり、その奥には「インドシナの屋根」と称されるファンシパン山が雲海の上にそびえ立つ。涼やかな気候と、モン族、ザオ族、タイ族といった少数民族の村々が織りなすモザイクのような風景は、トレッキングと異文化体験の拠点としてベトナム屈指の魅力を放っている。",
+      "getting": "サパ自体には空港も鉄道駅もないため、多くの旅行者はまずハノイのノイバイ国際空港(HAN)に到着し、そこから夜行寝台バス(所要約5〜6時間)でサパの町まで直行するのが一般的だ。あるいは、ハノイから終着駅ラオカイまで鉄道で移動し、そこからバスかタクシーで約1時間かけて山を登る方法もある。",
+      "days": "往復の移動時間に加え、町周辺の棚田や少数民族の村々を巡るトレッキングに最低1日は確保したいところ。全体として3〜4日程度の日程を見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Sapa es una antigua estación de montaña de la época francesa, escondida en las tierras altas del noroeste de Vietnam, donde los campos de arroz en terrazas descienden en cascada por las laderas de Hoang Lien Son y el Fansipan —el \"Techo de Indochina\"— se eleva por encima de las nubes. El clima fresco del pueblo y el mosaico de aldeas Hmong, Dao y Tay lo convierten en una de las bases más impactantes del país para el senderismo de montaña y los encuentros culturales.",
+      "getting": "Sapa no cuenta con aeropuerto ni estación de tren propios, así que la mayoría de los viajeros llegan al Aeropuerto Internacional Noi Bai (HAN) en Hanói y continúan en autobús nocturno con literas (unas 5-6 horas) directamente hasta el pueblo de Sapa, o toman el tren desde Hanói hasta Lao Cai —el final de la línea—, seguido de un traslado de aproximadamente 1 hora en autobús o taxi hacia las montañas.",
+      "days": "Conviene reservar entre 3 y 4 días para cubrir el trayecto de ida y vuelta, además de al menos un día completo de senderismo por los campos de arroz en terrazas y las aldeas de minorías étnicas que rodean el pueblo."
+    },
+    "zh": {
+      "blurb": "沙巴（Sapa）是隐匿于越南西北高地的一座法式山城，梯田层层叠叠地顺着黄连山（Hoang Lien Son）的山坡蜿蜒而下，而被誉为\"印度支那屋脊\"的番西邦峰（Fansipan）则高耸入云、傲视群峰。这里气候凉爽宜人，苗族、瑶族与岱依族的村寨错落分布，构成一幅斑斓的人文图景，使沙巴成为越南境内徒步登山与文化探索最引人入胜的据点之一。",
+      "getting": "沙巴本身没有机场或火车站，因此大多数旅行者会先飞抵河内内排国际机场（HAN），再搭乘夜间卧铺大巴（约5-6小时）直达沙巴镇；也可以选择从河内乘火车前往终点站老街（Lao Cai），再转乘约1小时的巴士或出租车前往山区。",
+      "days": "建议安排约3-4天行程，除去往返路途所需时间外，至少留出一整天用于徒步穿行镇周边的梯田与少数民族村寨。"
+    }
+  },
+  "Margilan": {
+    "en": {
+      "blurb": "Margilan is a more than 2,000-year-old Silk Road city renowned as the \"silk heart\" of Central Asia, where artisans at the Yodgorlik Silk Factory still hand-weave khan-atlas and ikat fabrics using techniques passed down for generations. Beyond the workshops, its lively bazaars—especially the Sunday market—offer a vivid, working contrast to the more formal, Russian-colonial feel of neighboring Fergana city.",
+      "getting": "Margilan has its own railway station on the Tashkent–Andijan line, with several daily trains from Tashkent (~4-6 hours) crossing the Kamchik mountain pass; the nearest airport is Fergana International Airport (FEG), about 12 km away, reachable by taxi. There is no airport within Margilan itself, so most travelers arrive by train or via Fergana and continue by taxi or shared taxi.",
+      "days": "~1 day is enough to cover Margilan's highlights, including the Yodgorlik Silk Factory tour and the central bazaar, and it's easily combined as a half- or full-day trip from Fergana city."
+    },
+    "ko": {
+      "blurb": "마르길란은 2,000년이 넘는 역사를 지닌 실크로드 도시로, 중앙아시아의 \"실크 심장부\"로 널리 알려져 있습니다. 요드고를릭 실크 공장(Yodgorlik Silk Factory)에서는 지금도 장인들이 대대로 전해 내려온 기법으로 칸아틀라스(khan-atlas)와 이카트(ikat) 원단을 직접 손으로 짜냅니다. 공방을 벗어나면 활기 넘치는 바자르, 특히 일요 시장이 펼쳐지는데, 이는 이웃한 페르가나 시의 좀 더 격식 있는 러시아 식민지풍 분위기와는 사뭇 다른, 생동감 넘치는 삶의 현장을 보여줍니다.",
+      "getting": "마르길란에는 타슈켄트-안디잔 노선의 자체 기차역이 있어, 타슈켄트에서 캄치크 산길을 넘는 열차가 매일 여러 차례 운행되며 약 4~6시간이 소요됩니다. 가장 가까운 공항은 약 12km 떨어진 페르가나 국제공항(FEG)으로, 택시로 이동할 수 있습니다. 마르길란 시내에는 공항이 없기 때문에, 대부분의 여행자는 기차를 이용하거나 페르가나를 경유해 택시나 합승 택시로 이동합니다.",
+      "days": "요드고를릭 실크 공장 견학과 중앙 바자르를 둘러보는 등 마르길란의 주요 명소를 돌아보는 데는 하루 정도면 충분하며, 페르가나 시에서 반나절 또는 하루 일정으로 다녀오기에도 좋습니다."
+    },
+    "ja": {
+      "blurb": "マルギランは2,000年以上の歴史を誇るシルクロードの町で、中央アジアの「シルクの心臓部」として知られています。ヨドゴルリク・シルク工場では、職人たちが何世代にもわたって受け継がれてきた技法で、今なお手作業でハンアトラスやイカット織物を織り上げています。工房を離れれば、活気あふれるバザール、特に日曜市場が広がり、隣接するフェルガナ市が持つロシア植民地時代を思わせるフォーマルな雰囲気とは対照的な、生き生きとした庶民の暮らしを垣間見ることができます。",
+      "getting": "マルギランにはタシケント〜アンディジャン線の鉄道駅があり、タシケントから毎日数本の列車(所要約4〜6時間)がカムチク峠を越えて運行しています。最寄りの空港はフェルガナ国際空港(FEG)で、町から約12km離れており、タクシーで移動できます。マルギラン自体には空港がないため、多くの旅行者は鉄道で直接訪れるか、フェルガナ経由でタクシーや乗り合いタクシーを利用してアクセスします。",
+      "days": "マルギランの見どころ—ヨドゴルリク・シルク工場の見学や中央バザール—を巡るには1日あれば十分で、フェルガナ市からの半日または日帰り旅行としても気軽に組み合わせられます。"
+    },
+    "es": {
+      "blurb": "Margilán es una ciudad de la Ruta de la Seda con más de 2.000 años de historia, reconocida como el \"corazón sedero\" de Asia Central, donde los artesanos de la Fábrica de Seda Yodgorlik todavía tejen a mano telas khan-atlas e ikat siguiendo técnicas transmitidas de generación en generación. Más allá de los talleres, sus animados bazares —en especial el mercado dominical— ofrecen un contraste vívido y genuino frente al ambiente más formal y de herencia colonial rusa de la vecina ciudad de Fergana.",
+      "getting": "Margilán cuenta con su propia estación de tren en la línea Taskent–Andiyán, con varios trenes diarios desde Taskent (entre 4 y 6 horas) que cruzan el paso de montaña de Kamchik; el aeropuerto más cercano es el Aeropuerto Internacional de Fergana (FEG), a unos 12 km de distancia y accesible en taxi. Margilán no cuenta con aeropuerto propio, por lo que la mayoría de los viajeros llegan en tren o vía Fergana, continuando el trayecto en taxi o taxi compartido.",
+      "days": "Con aproximadamente 1 día es suficiente para recorrer lo más destacado de Margilán, incluyendo la visita a la Fábrica de Seda Yodgorlik y el bazar central, y se combina fácilmente como una excursión de medio día o de un día completo desde la ciudad de Fergana."
+    },
+    "zh": {
+      "blurb": "马尔吉兰是一座拥有两千多年历史的丝绸之路古城,素有中亚“丝绸之心”的美誉。在这里,约多尔里克丝绸厂的工匠们至今仍沿用世代相传的技艺,手工织造可汗-艾特拉斯绸(khan-atlas)和扎染布(ikat)。走出作坊,当地热闹的集市——尤其是周日大巴扎——展现出一派鲜活的市井气息,与邻近费尔干纳市那种更为正式、带有俄罗斯殖民风情的氛围形成鲜明对比。",
+      "getting": "马尔吉兰在塔什干—安集延铁路线上设有自己的火车站,每天都有多趟列车从塔什干出发(车程约4-6小时),沿途翻越卡姆奇克山口。距离最近的机场是费尔干纳国际机场(FEG),约12公里,可乘出租车前往。马尔吉兰本地没有机场,因此大多数旅行者选择乘火车抵达,或先到费尔干纳,再转乘出租车或拼车前往。",
+      "days": "大约1天时间即可游览马尔吉兰的主要景点,包括约多尔里克丝绸厂参观和中央大巴扎,也可以轻松安排为从费尔干纳市出发的半日游或一日游。"
+    }
+  },
+  "Yilan": {
+    "en": {
+      "blurb": "Yilan County sits on Taiwan's northeast coast, a broad plain of rice fields and hot springs walled off from Taipei by mountains and stitched to the sea by fishing harbors. It's best known as Taiwan's hot-spring heartland — the town of Jiaoxi in particular is a long-running soak-and-getaway destination on the Lanyang Plain, alongside museums, coastal harbors, and mountain retreats further inland.",
+      "getting": "Most travellers reach Yilan from Taipei by Taiwan Railway (TRA) trains to Yilan or Luodong Station, a ride of roughly ~1 hour on faster express services, or by intercity bus (e.g. Capital Bus, Kamalan Bus) departing central Taipei hubs like Taipei City Hall or Taipei Bus Station, which take a similar ~1–1.5 hours via the Xueshan Tunnel expressway.",
+      "days": "Allow ~3 days to cover the hot springs, coast, and countryside at an easy pace, or a single day-trip from Taipei if focusing on one area like Jiaoxi or the Lanyang Museum."
+    },
+    "ko": {
+      "blurb": "이란현(宜蘭縣)은 대만 동북부 해안에 자리한 지역으로, 논밭과 온천이 펼쳐진 너른 평야가 산줄기로 타이베이와 갈라져 있고 어항들이 점점이 이어지며 바다와 맞닿아 있습니다. 대만 온천 여행의 본고장으로 손꼽히는 곳으로, 그중에서도 자오시(礁溪)는 란양 평야(蘭陽平原)에서 오랫동안 사랑받아온 온천 휴양지입니다. 이 외에도 박물관과 해안 항구, 그리고 내륙 깊숙이 자리한 산속 휴양지들이 곳곳에 자리하고 있습니다.",
+      "getting": "대부분의 여행자는 타이베이에서 타이완 철도(TRA) 열차를 타고 이란역이나 뤄둥역(羅東站)으로 이동하는데, 빠른 급행 열차 기준 약 1시간 정도 소요됩니다. 시외버스(캐피털 버스, 카말란 버스 등)를 이용할 수도 있는데, 타이베이 시청이나 타이베이 버스터미널 같은 시내 주요 정류장에서 출발해 쉐산 터널(雪山隧道) 고속도로를 지나며 비슷하게 약 1~1.5시간이 걸립니다.",
+      "days": "온천과 해안, 시골 풍경까지 여유롭게 둘러보려면 약 3일 정도를 잡는 것이 좋고, 자오시나 란양 박물관처럼 한 곳에 집중한다면 타이베이에서 당일치기 여행도 충분히 가능합니다."
+    },
+    "ja": {
+      "blurb": "宜蘭県は台湾東北部の海岸に位置し、水田と温泉が広がる平野を、山々が台北から隔て、漁港が海へと結びつけています。台湾随一の温泉地として知られ、特に礁溪の町は蘭陽平野における定番の湯治・行楽スポットとして長年愛されてきました。ほかにも博物館や港町、さらに内陸に入れば山あいの静かな保養地も点在しています。",
+      "getting": "台北からのアクセスは、台湾鉄路（TRA）で宜蘭駅または羅東駅まで行くのが一般的で、速い列車なら約1時間で到着します。長距離バス（首都客運や葛瑪蘭客運など）を利用する方法もあり、台北市政府や台北バスターミナルといった台北中心部のターミナルから発車し、雪山トンネルを経由して同じく約1〜1.5時間で到着します。",
+      "days": "温泉や海岸、田園地帯をゆったり巡るなら3日ほど確保するのがおすすめです。礁溪や蘭陽博物館など一か所に絞るなら、台北からの日帰り旅行でも十分楽しめます。"
+    },
+    "es": {
+      "blurb": "El condado de Yilan se extiende por la costa noreste de Taiwán: una amplia llanura de arrozales y aguas termales, separada de Taipéi por montañas y cosida al mar por puertos pesqueros. Es conocido sobre todo como el corazón de las aguas termales de Taiwán —el pueblo de Jiaoxi, en particular, lleva décadas siendo un destino clásico para relajarse en la llanura de Lanyang—, además de contar con museos, puertos costeros y retiros de montaña tierra adentro.",
+      "getting": "La mayoría de los viajeros llegan a Yilan desde Taipéi en los trenes de Taiwan Railway (TRA) hasta la estación de Yilan o Luodong, un trayecto de aproximadamente 1 hora en los servicios exprés más rápidos, o en autobús interurbano (por ejemplo, Capital Bus o Kamalan Bus), que salen de puntos céntricos de Taipéi como el Ayuntamiento de la ciudad (Taipei City Hall) o la Estación de Autobuses de Taipéi, con un tiempo similar de entre 1 y 1,5 horas a través del túnel de Xueshan.",
+      "days": "Se recomienda dedicar unos 3 días para recorrer con calma las aguas termales, la costa y el campo, o bien hacer una excursión de un solo día desde Taipéi si el plan se centra en un solo lugar, como Jiaoxi o el Museo de Lanyang."
+    },
+    "zh": {
+      "blurb": "宜兰县位于台湾东北海岸,群山将它与台北隔开,面朝大海,渔港星罗棋布,中间是一片种满水稻的辽阔平原,温泉资源也十分丰沛。这里素有台湾\"温泉故乡\"之称,兰阳平原上的礁溪镇更是历久不衰的泡汤度假胜地；此外,沿海一带的渔港、内陆的山间秘境,以及各具特色的博物馆,也都值得一游。",
+      "getting": "从台北前往宜兰,大多数旅客会选择搭乘台铁（TRA）列车到宜兰站或罗东站,若搭乘较快的自强号等快车,车程约1小时；也可以选择搭乘国道客运（如首都客运、葛玛兰客运）,从台北市府转运站、台北车站等市区站点出发,经雪山隧道快速抵达,车程同样约1至1.5小时。",
+      "days": "若想从容游览温泉、海岸与乡野风光,建议安排约3天行程；如果只想专攻礁溪或兰阳博物馆等单一景点,从台北出发的一日游也完全足够。"
     }
   }
 }
