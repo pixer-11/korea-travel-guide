@@ -200,13 +200,15 @@ export function judgeIdentity(meta, claim, world) {
  * @returns {{has: (slug: string, key: string) => boolean, size: number}}
  */
 export function makeJudgedIndex(entries) {
-  const seen = new Set();
+  const bySlug = new Map();
+  let size = 0;
   for (const e of entries ?? []) {
-    if (e && typeof e.slug === 'string' && typeof e.key === 'string' && e.slug && e.key) {
-      seen.add(`${e.slug} ${e.key}`);
-    }
+    if (!e || typeof e.slug !== 'string' || typeof e.key !== 'string' || !e.slug || !e.key) continue;
+    const keys = bySlug.get(e.slug) ?? new Set();
+    if (!keys.has(e.key)) { keys.add(e.key); size += 1; }
+    bySlug.set(e.slug, keys);
   }
-  return { size: seen.size, has: (slug, key) => seen.has(`${slug} ${key}`) };
+  return { size, has: (slug, key) => bySlug.get(slug)?.has(key) ?? false };
 }
 
 // ── Foursquare: the credit line already names the venue ──────
