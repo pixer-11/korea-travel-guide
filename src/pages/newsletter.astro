@@ -9,6 +9,7 @@ import Newsletter from '../components/Newsletter.astro';
 // from the static-pages collection like /methodology; the live signup form
 // renders below it.
 const entry = await getEntry('staticPages', 'newsletter');
+if (!entry) throw new Error('staticPages/newsletter is missing');
 const { Content } = await render(entry);
 const d = entry.data;
 ---

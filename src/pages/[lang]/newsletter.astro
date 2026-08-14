@@ -9,6 +9,7 @@ export function getStaticPaths() {
 }
 const { lang } = Astro.props;
 const entry = await getEntry('staticPages', 'newsletter');
+if (!entry) throw new Error('staticPages/newsletter is missing');
 const translation = await getEntry('staticPagesI18n', `${lang}/newsletter`);
 const src = translation ?? entry;
 const { Content } = await render(src);
