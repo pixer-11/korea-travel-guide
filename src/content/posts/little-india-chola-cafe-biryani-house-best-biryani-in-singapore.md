@@ -17,21 +17,11 @@ place:
   lng: 103.85223950000001
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
+    weekdayQuiet: [13, 14, 15, 16]
     weekdayBusy:
       - 20
       - 21
-    weekendQuiet:
-      - 12
-      - 15
-      - 16
-      - 17
-      - 18
+    weekendQuiet: [15, 16, 17, 18]
     weekendBusy:
       - 13
       - 14
@@ -39,6 +29,15 @@ place:
       - 21
       - 22
     venueId: ven_776f77473665635344485752456a325a5953645a5f66784a496843
+  phone: '+65 8454 4404'
+  openingHours:
+    - 'Monday: 12:10 PM – 12:00 AM'
+    - 'Tuesday: 12:10 PM – 12:00 AM'
+    - 'Wednesday: 12:10 PM – 12:00 AM'
+    - 'Thursday: 12:10 PM – 12:00 AM'
+    - 'Friday: 12:10 PM – 12:00 AM'
+    - 'Saturday: 12:10 PM – 12:00 AM'
+    - 'Sunday: 12:10 PM – 12:00 AM'
 tags:
   - little india
   - trendy cafe

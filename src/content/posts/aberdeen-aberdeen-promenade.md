@@ -21,6 +21,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 22.247002
   lng: 114.1551459
+  phone: '+852 2555 0103'
+  openingHours:
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 11:00 PM'
+    - 'Thursday: 7:00 AM – 11:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
   - "aberdeen"
   - "hidden gem"
