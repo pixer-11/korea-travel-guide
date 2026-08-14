@@ -1,55 +1,55 @@
 ---
-title: "Magic City Park: Tashkent Travel Guide (4.6★)"
-description: "Magic City Park is Tashkent's fairytale-themed amusement park on Bobur Street — a fantasy town of candy-colored buildings, a lit-up castle, rides, and cafes, open daily from 10am to 11pm. 4.6★ (7,536 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Tashkent"
-category: "hidden-gem"
-pubDate: "2026-08-14T09:40:00.863Z"
+title: 'Magic City Park: Tashkent Travel Guide (4.6★)'
+description: Magic City Park is Tashkent's fairytale-themed amusement park on Bobur Street — a fantasy town of candy-colored buildings, a lit-up castle, rides, and cafes, open daily from 10am to 11pm. 4.6★ (7,536 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Tashkent
+category: hidden-gem
+pubDate: '2026-08-14T09:40:00.863Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Magic_city_tungi_ko%27rinishi.jpg/3840px-Magic_city_tungi_ko%27rinishi.jpg"
-  credit: "Photo: Shirin Khaydaralieva / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Magic_city_tungi_ko%27rinishi.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Magic_city_tungi_ko%27rinishi.jpg/3840px-Magic_city_tungi_ko%27rinishi.jpg
+  credit: 'Photo: Shirin Khaydaralieva / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Magic_city_tungi_ko%27rinishi.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Magic_City_park.jpg"
-    credit: "Photo: Nodir Meliev / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Magic_City_park.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/f/fd/Magic_City_park.jpg
+    credit: 'Photo: Nodir Meliev / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Magic_City_park.jpg
 place:
-  id: "ChIJTXEMh_OLrjgROzMgwiDO3m0"
-  name: "Magic City Park"
-  address: "г, Bobur ko'chasi 174, Тоshkent, Toshkent, Uzbekistan"
+  id: ChIJTXEMh_OLrjgROzMgwiDO3m0
+  name: Magic City Park
+  address: г, Bobur ko'chasi 174, Тоshkent, Toshkent, Uzbekistan
   rating: 4.6
   userRatingsTotal: 7536
-  googleMapsUrl: "https://maps.google.com/?cid=7916991835055076155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7916991835055076155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.304054799999996
   lng: 69.2446519
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 11:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 11:00 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
 tags:
-  - "tashkent"
-  - "hidden gem"
-quickAnswer: "Magic City Park is Tashkent's fairytale-themed amusement park on Bobur Street — a fantasy town of candy-colored buildings, a lit-up castle, rides, and cafes, open daily from 10am to 11pm. It's genuinely popular with families, so aim for a weekday afternoon before dinner rush to skip the worst crowds. Budget two to three hours, and go after sunset at least once to see the lights come on."
+  - tashkent
+  - hidden gem
+quickAnswer: Magic City Park is Tashkent's fairytale-themed amusement park on Bobur Street — a fantasy town of candy-colored buildings, a lit-up castle, rides, and cafes, open daily from 10am to 11pm. It's genuinely popular with families, so aim for a weekday afternoon before dinner rush to skip the worst crowds. Budget two to three hours, and go after sunset at least once to see the lights come on.
 faq:
-  - q: "What are the opening hours for Magic City Park?"
-    a: "It's open every day of the week from 10:00 AM to 11:00 PM, with no shorter days currently listed."
-  - q: "How do I get to Magic City Park in Tashkent?"
-    a: "It's located on Bobur Street. A taxi or ride-hailing app is the easiest way in from central Tashkent; public buses also run along Bobur Street."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours covers a few rides plus time to wander the colored-house town; add more if you have young kids wanting repeat rides."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday afternoons are calmer. Weekend evenings, especially after dinner, draw the heaviest crowds since it's one of the city's most popular family attractions."
-  - q: "Is it worth visiting after dark?"
-    a: "Yes — the castle and houses light up at dusk, which is the park's signature look. Arrive before sunset and stay for the switch-on."
+  - q: What are the opening hours for Magic City Park?
+    a: It's open every day of the week from 10:00 AM to 11:00 PM, with no shorter days currently listed.
+  - q: How do I get to Magic City Park in Tashkent?
+    a: It's located on Bobur Street. A taxi or ride-hailing app is the easiest way in from central Tashkent; public buses also run along Bobur Street.
+  - q: How long should I plan to spend there?
+    a: Two to three hours covers a few rides plus time to wander the colored-house town; add more if you have young kids wanting repeat rides.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday afternoons are calmer. Weekend evenings, especially after dinner, draw the heaviest crowds since it's one of the city's most popular family attractions.
+  - q: Is it worth visiting after dark?
+    a: Yes — the castle and houses light up at dusk, which is the park's signature look. Arrive before sunset and stay for the switch-on.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

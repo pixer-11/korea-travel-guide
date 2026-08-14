@@ -1,44 +1,44 @@
 ---
-title: "Grotte de Glace: Chamonix Travel Guide (4.5★)"
-description: "The Grotte de Glace is an ice cave hollowed into the Mer de Glace glacier above Chamonix, reached via the Montenvers cog railway and then a cable car plus a short walk down steps. 4.5★ (1,294 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Chamonix"
-category: "attraction"
-pubDate: "2026-08-14T08:47:52.966Z"
+title: 'Grotte de Glace: Chamonix Travel Guide (4.5★)'
+description: The Grotte de Glace is an ice cave hollowed into the Mer de Glace glacier above Chamonix, reached via the Montenvers cog railway and then a cable car plus a short walk down steps. 4.5★ (1,294 reviews) — what visitors say, hours, and tips.
+country: France
+region: Chamonix
+category: attraction
+pubDate: '2026-08-14T08:47:52.966Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg"
-  credit: "Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Grotte_de_Glace_in_Mer_de_Glace,_Chamonix,_Haute-Savoie.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg
+  credit: 'Photo: Christian David / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Grotte_de_Glace_in_Mer_de_Glace,_Chamonix,_Haute-Savoie.jpg
 gallery: []
 place:
-  id: "ChIJ_bwf3gRMiUcRxJQ2iMoyhUk"
-  name: "Grotte de Glace"
-  address: "74400 Chamonix, France"
+  id: ChIJ_bwf3gRMiUcRxJQ2iMoyhUk
+  name: Grotte de Glace
+  address: 74400 Chamonix, France
   rating: 4.5
   userRatingsTotal: 1294
-  googleMapsUrl: "https://maps.google.com/?cid=5297696382121317572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5297696382121317572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.9301751
   lng: 6.9220026
-  phone: "+33 4 50 53 22 75"
+  phone: +33 4 50 53 22 75
 tags:
-  - "chamonix"
-  - "top attraction"
-quickAnswer: "The Grotte de Glace is an ice cave hollowed into the Mer de Glace glacier above Chamonix, reached via the Montenvers cog railway and then a cable car plus a short walk down steps. Budget half a day round-trip from town, and go early or on a shoulder-season weekday to avoid the midday cable car queues. Bring a warm layer even in summer — inside the glacier it's just above freezing."
+  - chamonix
+  - top attraction
+quickAnswer: The Grotte de Glace is an ice cave hollowed into the Mer de Glace glacier above Chamonix, reached via the Montenvers cog railway and then a cable car plus a short walk down steps. Budget half a day round-trip from town, and go early or on a shoulder-season weekday to avoid the midday cable car queues. Bring a warm layer even in summer — inside the glacier it's just above freezing.
 faq:
-  - q: "How do you get to the Grotte de Glace?"
-    a: "Take the Montenvers cog railway from Gare du Montenvers in Chamonix (about 20 minutes), then the Télécabine Panoramic Mer de Glace cable car, followed by a stairway walk down to the cave entrance."
-  - q: "How long should I plan for the visit?"
-    a: "Budget 2.5 to 4 hours round-trip from Chamonix, including train, cable car, walkways, and about 20-30 minutes inside the cave itself."
-  - q: "What should I wear or bring?"
-    a: "Wear sturdy shoes for the metal stairways and bring a warm layer — the cave sits just above freezing even when it's hot outside in the valley."
-  - q: "When is the cave open and least crowded?"
-    a: "It typically operates spring through autumn, re-carved annually, so confirm current dates before visiting. Early morning trains and shoulder-season weekdays (late spring, September) are quietest versus peak midsummer."
-  - q: "Can this be combined with other Chamonix activities?"
-    a: "Yes — many visitors pair it with the Aiguille du Midi cable car or a walk around Chamonix's town center, and hikers often add a trail around Les Praz or Argentière for a ground-level glacier view."
+  - q: How do you get to the Grotte de Glace?
+    a: Take the Montenvers cog railway from Gare du Montenvers in Chamonix (about 20 minutes), then the Télécabine Panoramic Mer de Glace cable car, followed by a stairway walk down to the cave entrance.
+  - q: How long should I plan for the visit?
+    a: Budget 2.5 to 4 hours round-trip from Chamonix, including train, cable car, walkways, and about 20-30 minutes inside the cave itself.
+  - q: What should I wear or bring?
+    a: Wear sturdy shoes for the metal stairways and bring a warm layer — the cave sits just above freezing even when it's hot outside in the valley.
+  - q: When is the cave open and least crowded?
+    a: It typically operates spring through autumn, re-carved annually, so confirm current dates before visiting. Early morning trains and shoulder-season weekdays (late spring, September) are quietest versus peak midsummer.
+  - q: Can this be combined with other Chamonix activities?
+    a: Yes — many visitors pair it with the Aiguille du Midi cable car or a walk around Chamonix's town center, and hikers often add a trail around Les Praz or Argentière for a ground-level glacier view.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,64 +1,64 @@
 ---
-title: "Castel San Pietro: Verona Travel Guide (4.7★)"
-description: "Castel San Pietro sits on the hill above Verona's Roman Theatre, and you visit it for the panorama, not the interior — the fortress itself is closed to the public, but the terrace outside it delivers the best skyline view of the city's terracotta rooftops and the Adige river bend. 4.7★ (9,629 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Verona"
-category: "hidden-gem"
-pubDate: "2026-08-14T09:31:15.549Z"
+title: 'Castel San Pietro: Verona Travel Guide (4.7★)'
+description: Castel San Pietro sits on the hill above Verona's Roman Theatre, and you visit it for the panorama, not the interior — the fortress itself is closed to the public, but the terrace outside it delivers the best skyline view of the city's terracotta rooftops and the Adige river bend. 4.7★ (9,629 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Verona
+category: hidden-gem
+pubDate: '2026-08-14T09:31:15.549Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castel_San_Pietro_%28Verona%29_08.jpg/3840px-Castel_San_Pietro_%28Verona%29_08.jpg"
-  credit: "Photo: Adert / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Castel_San_Pietro_(Verona)_08.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castel_San_Pietro_%28Verona%29_08.jpg/3840px-Castel_San_Pietro_%28Verona%29_08.jpg
+  credit: 'Photo: Adert / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Castel_San_Pietro_(Verona)_08.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duomo_di_Verona._View_from_Castel_San_Pietro._Italy.jpg/3840px-Duomo_di_Verona._View_from_Castel_San_Pietro._Italy.jpg"
-    credit: "Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Duomo_di_Verona._View_from_Castel_San_Pietro._Italy.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duomo_di_Verona._View_from_Castel_San_Pietro._Italy.jpg/3840px-Duomo_di_Verona._View_from_Castel_San_Pietro._Italy.jpg
+    credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Duomo_di_Verona._View_from_Castel_San_Pietro._Italy.jpg
 place:
-  id: "ChIJH1aLzEpff0cRo5hyu8x9ktk"
-  name: "Castel San Pietro"
-  address: "Castel San Pietro, Piazzale Castel S. Pietro, 2, 37129 Verona VR, Italy"
+  id: ChIJH1aLzEpff0cRo5hyu8x9ktk
+  name: Castel San Pietro
+  address: Castel San Pietro, Piazzale Castel S. Pietro, 2, 37129 Verona VR, Italy
   rating: 4.7
   userRatingsTotal: 9629
-  googleMapsUrl: "https://maps.google.com/?cid=15677731571101767843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15677731571101767843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.447974599999995
   lng: 11.0029173
   openingHours:
-    - "Monday: 10:30 AM – 4:30 PM"
-    - "Tuesday: 10:30 AM – 4:30 PM"
-    - "Wednesday: 10:30 AM – 4:30 PM"
-    - "Thursday: 10:30 AM – 4:30 PM"
-    - "Friday: 10:30 AM – 4:30 PM"
-    - "Saturday: 10:30 AM – 4:30 PM"
-    - "Sunday: 10:30 AM – 4:30 PM"
+    - 'Monday: 10:30 AM – 4:30 PM'
+    - 'Tuesday: 10:30 AM – 4:30 PM'
+    - 'Wednesday: 10:30 AM – 4:30 PM'
+    - 'Thursday: 10:30 AM – 4:30 PM'
+    - 'Friday: 10:30 AM – 4:30 PM'
+    - 'Saturday: 10:30 AM – 4:30 PM'
+    - 'Sunday: 10:30 AM – 4:30 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekendBusy:
       - 11
       - 12
       - 13
       - 14
       - 15
-    venueId: "ven_6b746b397838757968356f526330666670457a4c6131484a496843"
+    venueId: ven_6b746b397838757968356f526330666670457a4c6131484a496843
 tags:
-  - "verona"
-  - "hidden gem"
-quickAnswer: "Castel San Pietro sits on the hill above Verona's Roman Theatre, and you visit it for the panorama, not the interior — the fortress itself is closed to the public, but the terrace outside it delivers the best skyline view of the city's terracotta rooftops and the Adige river bend. It's open daily 10:30am–4:30pm. Go early on a weekday if you can; weekends get crowded between 11am and 4pm."
+  - verona
+  - hidden gem
+quickAnswer: Castel San Pietro sits on the hill above Verona's Roman Theatre, and you visit it for the panorama, not the interior — the fortress itself is closed to the public, but the terrace outside it delivers the best skyline view of the city's terracotta rooftops and the Adige river bend. It's open daily 10:30am–4:30pm. Go early on a weekday if you can; weekends get crowded between 11am and 4pm.
 faq:
-  - q: "How do I get to Castel San Pietro from central Verona?"
-    a: "Cross the Roman bridge Ponte Pietra, then either climb the stepped path (10–15 minutes) or take the small funicular from near the bridge, which reaches the top in under two minutes."
-  - q: "Is there an entrance fee?"
-    a: "The terrace and viewpoint are free to access. The funicular typically charges a small fare; the castle building itself is closed to the public, so there's no interior ticket."
-  - q: "What are the opening hours?"
-    a: "Castel San Pietro's grounds are open daily from 10:30am to 4:30pm, with no evening or after-dark access."
-  - q: "When is it least crowded?"
-    a: "Weekends between 11am and 4pm are the busiest window, so aim for a weekday morning close to opening for a quieter visit."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30–45 minutes at the terrace, plus 10–20 minutes each way for the walk or funicular ride up and down."
+  - q: How do I get to Castel San Pietro from central Verona?
+    a: Cross the Roman bridge Ponte Pietra, then either climb the stepped path (10–15 minutes) or take the small funicular from near the bridge, which reaches the top in under two minutes.
+  - q: Is there an entrance fee?
+    a: The terrace and viewpoint are free to access. The funicular typically charges a small fare; the castle building itself is closed to the public, so there's no interior ticket.
+  - q: What are the opening hours?
+    a: Castel San Pietro's grounds are open daily from 10:30am to 4:30pm, with no evening or after-dark access.
+  - q: When is it least crowded?
+    a: Weekends between 11am and 4pm are the busiest window, so aim for a weekday morning close to opening for a quieter visit.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 30–45 minutes at the terrace, plus 10–20 minutes each way for the walk or funicular ride up and down.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

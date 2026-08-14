@@ -1,44 +1,44 @@
 ---
-title: "Jile Temple: Harbin Travel Guide"
-description: "Jile Temple (极乐寺) sits on Dong Da Zhi Jie in Nangang District, a working Buddhist monastery rather than a tourist set piece — expect incense smoke, chanting, and far fewer visitors than Harbin's big-name sights."
-country: "China"
-region: "Harbin"
-category: "attraction"
-pubDate: "2026-08-14T08:53:39.101Z"
+title: 'Jile Temple: Harbin Travel Guide'
+description: Jile Temple (极乐寺) sits on Dong Da Zhi Jie in Nangang District, a working Buddhist monastery rather than a tourist set piece — expect incense smoke, chanting, and far fewer visitors than Harbin's big-name sights.
+country: China
+region: Harbin
+category: attraction
+pubDate: '2026-08-14T08:53:39.101Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/57/%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg"
-  credit: "Photo: 朕邦萬広 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/5/57/%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg
+  credit: 'Photo: 朕邦萬広 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg
 gallery: []
 place:
-  id: "ChIJVU-_Gf5_RF4Rxwvfygjn450"
-  name: "Jile Temple"
-  address: "9 Dong Da Zhi Jie, Nan Gang Qu, Ha Er Bin Shi, Hei Long Jiang Sheng, China, 150009"
+  id: ChIJVU-_Gf5_RF4Rxwvfygjn450
+  name: Jile Temple
+  address: 9 Dong Da Zhi Jie, Nan Gang Qu, Ha Er Bin Shi, Hei Long Jiang Sheng, China, 150009
   rating: 4.6
   userRatingsTotal: 57
-  googleMapsUrl: "https://maps.google.com/?cid=11377191108617374663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11377191108617374663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.776453
   lng: 126.664462
-  phone: "+86 451 8251 6277"
+  phone: +86 451 8251 6277
 tags:
-  - "harbin"
-  - "historic site"
-quickAnswer: "Jile Temple (极乐寺) sits on Dong Da Zhi Jie in Nangang District, a working Buddhist monastery rather than a tourist set piece — expect incense smoke, chanting, and far fewer visitors than Harbin's big-name sights. Plan on 45–90 minutes, go on a weekday morning for the calmest, most contemplative visit, and pair it with a walk down Dong Da Zhi Jie or a stop at nearby Songbei-side attractions. Dress modestly and bring small bills for incense donations."
+  - harbin
+  - historic site
+quickAnswer: Jile Temple (极乐寺) sits on Dong Da Zhi Jie in Nangang District, a working Buddhist monastery rather than a tourist set piece — expect incense smoke, chanting, and far fewer visitors than Harbin's big-name sights. Plan on 45–90 minutes, go on a weekday morning for the calmest, most contemplative visit, and pair it with a walk down Dong Da Zhi Jie or a stop at nearby Songbei-side attractions. Dress modestly and bring small bills for incense donations.
 faq:
-  - q: "How do I get to Jile Temple in Harbin?"
-    a: "It's at 9 Dong Da Zhi Jie in Nangang District, easily reached by taxi or ride-hailing app from Harbin Railway Station or downtown. If you're already in Nangang, it's walkable."
-  - q: "Is there an entrance fee?"
-    a: "Many active Buddhist temples in China charge a small nominal fee or none at all, but this can change — confirm current pricing and hours locally before visiting."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings offer the calmest experience, with monks performing rituals and few other visitors around. It's an under-the-radar site, so even midday rarely feels crowded."
-  - q: "How much time should I plan for the visit?"
-    a: "Most visitors spend 45 minutes to 90 minutes, enough to walk the courtyards, see the main hall and pagoda, and sit quietly for a while."
-  - q: "What should I wear or bring?"
-    a: "Dress modestly with shoulders and knees covered, and bring small bills if you'd like to light incense or leave a small donation."
+  - q: How do I get to Jile Temple in Harbin?
+    a: It's at 9 Dong Da Zhi Jie in Nangang District, easily reached by taxi or ride-hailing app from Harbin Railway Station or downtown. If you're already in Nangang, it's walkable.
+  - q: Is there an entrance fee?
+    a: Many active Buddhist temples in China charge a small nominal fee or none at all, but this can change — confirm current pricing and hours locally before visiting.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings offer the calmest experience, with monks performing rituals and few other visitors around. It's an under-the-radar site, so even midday rarely feels crowded.
+  - q: How much time should I plan for the visit?
+    a: Most visitors spend 45 minutes to 90 minutes, enough to walk the courtyards, see the main hall and pagoda, and sit quietly for a while.
+  - q: What should I wear or bring?
+    a: Dress modestly with shoulders and knees covered, and bring small bills if you'd like to light incense or leave a small donation.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

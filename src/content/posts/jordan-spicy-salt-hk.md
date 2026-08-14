@@ -1,37 +1,37 @@
 ---
-title: "Spicy Salt HK: Where to Eat in Jordan"
-description: "Spicy Salt HK is a late-night, no-frills spot in Yau Ma Tei/Jordan for salt-and-pepper style fried plates and cold beer, open 4pm to 4am (5am on weekends)."
-country: "Hong Kong"
-region: "Jordan"
-category: "restaurant"
-pubDate: "2026-08-14T09:40:48.231Z"
+title: 'Spicy Salt HK: Where to Eat in Jordan'
+description: Spicy Salt HK is a late-night, no-frills spot in Yau Ma Tei/Jordan for salt-and-pepper style fried plates and cold beer, open 4pm to 4am (5am on weekends).
+country: Hong Kong
+region: Jordan
+category: restaurant
+pubDate: '2026-08-14T09:40:48.231Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/62/HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg"
-  credit: "Photo: Bkemaoe HOMA / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/6/62/HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg
+  credit: 'Photo: Bkemaoe HOMA / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg
 gallery: []
 place:
-  id: "ChIJkTHvsK4BBDQRxpzX5VmKYPQ"
-  name: "Spicy Salt HK"
-  address: "31 Wai Ching St, Yau Ma Tei, Hong Kong"
+  id: ChIJkTHvsK4BBDQRxpzX5VmKYPQ
+  name: Spicy Salt HK
+  address: 31 Wai Ching St, Yau Ma Tei, Hong Kong
   rating: 4.8
   userRatingsTotal: 91
-  googleMapsUrl: "https://maps.google.com/?cid=17609226661731474630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17609226661731474630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3066323
   lng: 114.16784179999999
-  phone: "+852 5590 9583"
+  phone: +852 5590 9583
   openingHours:
-    - "Monday: 4:00 PM – 4:00 AM"
-    - "Tuesday: 4:00 PM – 4:00 AM"
-    - "Wednesday: 4:00 PM – 4:00 AM"
-    - "Thursday: 4:00 PM – 4:00 AM"
-    - "Friday: 4:00 PM – 5:00 AM"
-    - "Saturday: 4:00 PM – 5:00 AM"
-    - "Sunday: 4:00 PM – 4:00 AM"
+    - 'Monday: 4:00 PM – 4:00 AM'
+    - 'Tuesday: 4:00 PM – 4:00 AM'
+    - 'Wednesday: 4:00 PM – 4:00 AM'
+    - 'Thursday: 4:00 PM – 4:00 AM'
+    - 'Friday: 4:00 PM – 5:00 AM'
+    - 'Saturday: 4:00 PM – 5:00 AM'
+    - 'Sunday: 4:00 PM – 4:00 AM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekendQuiet:
       - 16
       - 17
@@ -43,24 +43,24 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5150594b6d5635587a70785251444242344b737648546b4a496843"
+    venueId: ven_5150594b6d5635587a70785251444242344b737648546b4a496843
 tags:
-  - "jordan"
-  - "local restaurant"
-quickAnswer: "Spicy Salt HK is a late-night, no-frills spot in Yau Ma Tei/Jordan for salt-and-pepper style fried plates and cold beer, open 4pm to 4am (5am on weekends). It's quiet and roomy from 4pm–9pm on weekends — go then to skip the 7pm–11pm crowd. Cash or a local mobile pay app is the norm; expect no English menu translations for every item, so point and ask."
+  - jordan
+  - local restaurant
+quickAnswer: Spicy Salt HK is a late-night, no-frills spot in Yau Ma Tei/Jordan for salt-and-pepper style fried plates and cold beer, open 4pm to 4am (5am on weekends). It's quiet and roomy from 4pm–9pm on weekends — go then to skip the 7pm–11pm crowd. Cash or a local mobile pay app is the norm; expect no English menu translations for every item, so point and ask.
 faq:
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekend afternoons between 4pm and 9pm are the quietest measured window. Weekend evenings from 7pm to 11pm are the busiest — try to avoid arriving then."
-  - q: "How do I get to Spicy Salt HK?"
-    a: "It's at 31 Wai Ching St in Yau Ma Tei, a short walk from Jordan MTR Station (Tsuen Wan line), Exit A."
-  - q: "What should I order?"
-    a: "Salt-and-pepper squid, bone-in fried pork chop, and chicken cartilage or wings are the signature style, alongside stir-fried greens and cold beer."
-  - q: "How late is it open?"
-    a: "4pm to 4am Sunday through Thursday, and 4pm to 5am on Friday and Saturday — genuinely late-night hours."
-  - q: "Is this a tourist spot or a local place?"
-    a: "It's under-the-radar even within Jordan, drawing a mostly local, late-night crowd rather than tour groups."
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekend afternoons between 4pm and 9pm are the quietest measured window. Weekend evenings from 7pm to 11pm are the busiest — try to avoid arriving then.
+  - q: How do I get to Spicy Salt HK?
+    a: It's at 31 Wai Ching St in Yau Ma Tei, a short walk from Jordan MTR Station (Tsuen Wan line), Exit A.
+  - q: What should I order?
+    a: Salt-and-pepper squid, bone-in fried pork chop, and chicken cartilage or wings are the signature style, alongside stir-fried greens and cold beer.
+  - q: How late is it open?
+    a: 4pm to 4am Sunday through Thursday, and 4pm to 5am on Friday and Saturday — genuinely late-night hours.
+  - q: Is this a tourist spot or a local place?
+    a: It's under-the-radar even within Jordan, drawing a mostly local, late-night crowd rather than tour groups.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
