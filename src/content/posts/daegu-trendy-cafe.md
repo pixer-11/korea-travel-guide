@@ -22,11 +22,6 @@ faq:
     a: Look for cafes touting their own house-roasted beans, given Daegu's regional coffee-roasting reputation, plus Korean cafe staples like injeolmi (rice cake) lattes and bingsu shaved ice in summer.
 aiGenerated: true
 photoless: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/00/Mumbai%2C_India%2C_Trendy_cafe.jpg
-  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Trendy_cafe.jpg
 ---
 
 ## Why Daegu's Cafe Scene Stands Out
