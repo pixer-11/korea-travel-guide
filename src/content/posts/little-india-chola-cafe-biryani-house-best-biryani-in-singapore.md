@@ -55,11 +55,6 @@ faq:
     a: Tekka Centre, Sri Veeramakaliamman Temple, and Little India Arcade are all within easy walking distance and make for a good pre- or post-meal wander.
 aiGenerated: true
 photoless: true
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/73130758__zmBdPFFfTUAlyKSM0yQLxYzGGqDU8Sr1-sVbrfjiZQ.jpg
-  credit: 'Photo: Foursquare user content (Bismillah Biryani)'
-  license: foursquare
-  source: https://foursquare.com/v/4bb18bf3f964a52014993ce3
 ---
 
 ## Why go
