@@ -44,6 +44,7 @@ on:
       - 'Weekly marketing review'
       - 'Weekly performance log'
       - 'gsc-report'
+      - 'newsletter-announce'
       - 'newsletter-report'
       - 'newsletter-weekly'
       - 'visual-audit'
