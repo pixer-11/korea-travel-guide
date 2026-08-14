@@ -68,7 +68,6 @@ faq:
   - q: What else is nearby?
     a: Sapa Lake, Sapa Stone Church, and the central market are all within walking distance, making it easy to combine into one town loop.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

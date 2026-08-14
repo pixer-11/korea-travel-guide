@@ -58,7 +58,6 @@ faq:
   - q: How long should I plan to spend there?
     a: Most visitors spend 30–45 minutes at the terrace, plus 10–20 minutes each way for the walk or funicular ride up and down.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

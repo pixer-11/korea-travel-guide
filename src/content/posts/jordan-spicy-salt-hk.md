@@ -60,7 +60,6 @@ faq:
   - q: Is this a tourist spot or a local place?
     a: It's under-the-radar even within Jordan, drawing a mostly local, late-night crowd rather than tour groups.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

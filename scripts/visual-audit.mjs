@@ -15,6 +15,7 @@
 //   node scripts/visual-audit.mjs --all           # re-audit everything (ignore done-log)
 import './lib/env.mjs';
 import { auditHeroImage } from './lib/vision-check.mjs';
+import { commonsTitle, fetchCommonsMeta, judgeIdentity, loadWorld } from './lib/commons-identity.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -45,8 +46,32 @@ const store = existsSync(STORE) ? JSON.parse(await readFile(STORE, 'utf8')) : {}
 // 재공개해서 매일 밤 왕복했다 (2026-08-05).
 
 const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
-let checked = 0, mismatch = 0, weak = 0, failed = 0, quarantined = 0;
+let checked = 0, mismatch = 0, weak = 0, failed = 0, quarantined = 0, vetoed = 0;
 const flagged = [];
+const world = await loadWorld();
+
+// The uploader outranks the model on identity. On 2026-08-14 this audit
+// quarantined SEVEN correct heroes in one night — a genuine Chamonix ice cave
+// as "a Pakistani glacier", Harbin's Temple of Bliss as "a Confucius temple",
+// Verona's Castel San Pietro (an 1852 Austrian barracks, so it LOOKS like an
+// administrative building) — because no model looking at a glacier can say
+// which country's glacier it is, yet it answers anyway. That is the exact
+// lesson audit-photo-identity was built on, applied here in the QUARANTINE
+// direction: before a Commons-hosted hero is pulled, ask Commons what the
+// uploader said it is. 'supports' (the file's own description/categories name
+// the post's city) vetoes the vision verdict; 'contradicts' quarantines with
+// more confidence than vision alone ever could; 'unknown' leaves vision in
+// charge, as before. Non-Commons heroes are unaffected.
+async function metadataVeto(heroUrl, data) {
+  const title = commonsTitle(heroUrl);
+  if (!title) return null;
+  try {
+    const meta = (await fetchCommonsMeta([title])).get(title);
+    const claim = { region: data.region, country: data.country || 'South Korea',
+      venueName: data.place?.name ?? data.title };
+    return judgeIdentity(meta, claim, world);
+  } catch { return null; } // Commons unreachable → vision stays in charge
+}
 
 for (const f of files) {
   if (checked >= LIMIT) break;
@@ -85,6 +110,16 @@ for (const f of files) {
     // would let an outage read as a judgement, and remembering what was actually
     // judged is this store's whole job.
     if (v.verdict === 'UNKNOWN') { failed++; console.log(`  ⚠️  ${slug}: ${v.reason}`); continue; }
+    if (v.verdict === 'MISMATCH') {
+      const j = await metadataVeto(hero.url, data);
+      if (j?.verdict === 'supports') {
+        store[key] = { slug, verdict: 'MATCH', reason: `metadata veto: ${j.why} (vision said: ${v.reason})`, reasonKo: null, at: new Date().toISOString() };
+        checked++; vetoed++;
+        console.log(`  ✓ ${slug}: vision said MISMATCH (${v.reason}) — vetoed, ${j.why}`);
+        await new Promise((r) => setTimeout(r, 200));
+        continue;
+      }
+    }
     store[key] = { slug, verdict: v.verdict, reason: v.reason, reasonKo: v.reasonKo || null, at: new Date().toISOString() };
     checked++;
     // Korean only. The model's English `reason` used to be interpolated straight
@@ -119,7 +154,7 @@ for (const f of files) {
 }
 
 await writeFile(STORE, JSON.stringify(store, null, 1) + '\n');
-console.log(`\n📸 Visual audit: ${checked} checked · ${mismatch} MISMATCH · ${weak} weak · ${failed} failed.`);
+console.log(`\n📸 Visual audit: ${checked} checked · ${mismatch} MISMATCH · ${weak} weak · ${vetoed} vision-vetoed · ${failed} failed.`);
 if (flagged.length) { console.log('\nMISMATCHES:'); console.log(flagged.join('\n')); }
 
 // Telegram summary (Korean) when configured and something is off.

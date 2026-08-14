@@ -49,7 +49,6 @@ faq:
   - q: Is it worth visiting after dark?
     a: Yes — the castle and houses light up at dusk, which is the park's signature look. Arrive before sunset and stay for the switch-on.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

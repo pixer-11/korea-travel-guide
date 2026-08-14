@@ -70,7 +70,6 @@ faq:
   - q: What should I buy or try there?
     a: Look for fresh kingfish and prawns, Goan chorizo sausage, kokum, dried bombil, and local chillies. Bring cash, as most stalls don't accept cards.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

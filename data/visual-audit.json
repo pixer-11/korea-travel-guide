@@ -8841,10 +8841,10 @@
  },
  "chamonix-grotte-de-glace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg/3840px-Grotte_de_Glace_in_Mer_de_Glace%2C_Chamonix%2C_Haute-Savoie.jpg": {
   "slug": "chamonix-grotte-de-glace",
-  "verdict": "MISMATCH",
-  "reason": "This is a glacier in Pakistan, not Chamonix, France.",
-  "reasonKo": "파키스탄 빙하, 샤모니 아님",
-  "at": "2026-08-14T13:58:45.760Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Chamonix (vision said: This is a glacier in Pakistan, not Chamonix, France)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:50:56.925Z"
  },
  "cinque-terre-sentiero-monterosso-vernazza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vernazza_dal_Sentiero_Azzurro.jpg/3840px-Vernazza_dal_Sentiero_Azzurro.jpg": {
   "slug": "cinque-terre-sentiero-monterosso-vernazza",
@@ -8869,10 +8869,10 @@
  },
  "goa-goa-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Villagers%27_market_at_Saligao_Goa%2C_India.jpg/3840px-Villagers%27_market_at_Saligao_Goa%2C_India.jpg": {
   "slug": "goa-goa-market",
-  "verdict": "MISMATCH",
-  "reason": "Image shows outdoor event/festival, not a market venue",
-  "reasonKo": "시장이 아닌 야외 행사 사진",
-  "at": "2026-08-14T13:58:54.177Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Goa (vision said: Outdoor fair/festival, not a market venue)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:51:00.202Z"
  },
  "goa-naval-aviation-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Entrance_to_Naval_Aviation_Museum_building.jpg/3840px-Entrance_to_Naval_Aviation_Museum_building.jpg": {
   "slug": "goa-naval-aviation-museum",
@@ -8883,17 +8883,17 @@
  },
  "harbin-jile-temple\u0001https://upload.wikimedia.org/wikipedia/commons/5/57/%E3%83%8F%E3%83%AB%E3%83%93%E3%83%B3%E6%A5%B5%E6%A5%BD%E5%AF%BA%E7%8E%84%E9%96%A2.jpg": {
   "slug": "harbin-jile-temple",
-  "verdict": "MISMATCH",
-  "reason": "Image shows Confucian temple, not Jile Temple",
-  "reasonKo": "극락사가 아닌 공자묘 건축물",
-  "at": "2026-08-14T13:58:58.326Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Harbin (vision said: Architecture is Chinese temple, not Jile Temple)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:51:02.278Z"
  },
  "jordan-spicy-salt-hk\u0001https://upload.wikimedia.org/wikipedia/commons/6/62/HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg": {
   "slug": "jordan-spicy-salt-hk",
-  "verdict": "MISMATCH",
-  "reason": "Street scene, not restaurant interior or food",
-  "reasonKo": "식당과 무관한 거리 풍경",
-  "at": "2026-08-14T13:58:59.882Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Jordan (vision said: Street view of buildings, not restaurant interior/exterior)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:51:06.274Z"
  },
  "kanchanaburi-erawan-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Erawan_Waterfall%2C_Kanchanaburi_Province%2C_Thailand_-_June_2004.jpg/1920px-Erawan_Waterfall%2C_Kanchanaburi_Province%2C_Thailand_-_June_2004.jpg": {
   "slug": "kanchanaburi-erawan-national-park",
@@ -8981,10 +8981,10 @@
  },
  "sapa-sapa-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg/3840px-Park_bij_Sapa_Legend_Hotel_%26_Spa.jpg": {
   "slug": "sapa-sapa-park",
-  "verdict": "MISMATCH",
-  "reason": "European city park, not Vietnam/Sapa",
-  "reasonKo": "베트남이 아닌 유럽 도시 공원",
-  "at": "2026-08-14T13:59:24.958Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Sapa (vision said: European city park, not Vietnam/Sapa)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:51:10.344Z"
  },
  "selcuk-ephesus-archaeological-site\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526286023%29.jpg/3840px-Ephesus_Prytaneion%2C_Ephesus_Archaeological_Site%2C_Selcuk%2C_Turkiye_%2853526286023%29.jpg": {
   "slug": "selcuk-ephesus-archaeological-site",
@@ -8995,10 +8995,10 @@
  },
  "tashkent-magic-city-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Magic_city_tungi_ko%27rinishi.jpg/3840px-Magic_city_tungi_ko%27rinishi.jpg": {
   "slug": "tashkent-magic-city-park",
-  "verdict": "MISMATCH",
-  "reason": "Image shows Disney castle, not Tashkent park",
-  "reasonKo": "디즈니 성이지 타슈켄트 공원 아님",
-  "at": "2026-08-14T13:59:34.400Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Tashkent (vision said: Image shows Disney castle, not Tashkent park)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:51:13.522Z"
  },
  "tiong-bahru-national-gallery-singapore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1920px-Interior_of_the_National_Gallery_Singapore.jpg": {
   "slug": "tiong-bahru-national-gallery-singapore",
@@ -9009,10 +9009,10 @@
  },
  "verona-castel-san-pietro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Castel_San_Pietro_%28Verona%29_08.jpg/3840px-Castel_San_Pietro_%28Verona%29_08.jpg": {
   "slug": "verona-castel-san-pietro",
-  "verdict": "MISMATCH",
-  "reason": "Administrative building, not a castle or tourist venue",
-  "reasonKo": "성이 아닌 행정 건물",
-  "at": "2026-08-14T13:59:38.026Z"
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Verona (vision said: Palazzo/fortress architecture, not a castle venue)",
+  "reasonKo": null,
+  "at": "2026-08-14T16:51:17.050Z"
  },
  "wan-chai-kam-s-roast-goose\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg/3840px-Wan_Chai_Kam%27s_Roast_Goose_24-08-2023.jpg": {
   "slug": "wan-chai-kam-s-roast-goose",

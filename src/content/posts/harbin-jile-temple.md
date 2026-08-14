@@ -38,7 +38,6 @@ faq:
   - q: What should I wear or bring?
     a: Dress modestly with shoulders and knees covered, and bring small bills if you'd like to light incense or leave a small donation.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
