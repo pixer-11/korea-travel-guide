@@ -151,7 +151,20 @@ export function hoursProblems(raw) {
     // the same nothing-to-fix loop every other lesson in this function
     // describes). Spelling the word out as its two days lets the existing
     // list/strip/pairing rules handle it with no second code path.
-    text = text.replace(/\bweekends?\b/gi, 'Saturday and Sunday');
+    //
+    // Anchored to "closed" — and that anchor is the whole lesson of the same
+    // evening. Spelled out everywhere, the word became two day names in places
+    // that were never closure claims at all: "closed Mondays, and weekends fill
+    // up between 11am and 5pm" (Goa Naval Aviation Museum, correct prose, its
+    // fact box open Tue–Sun) turned into "closed Mondays, and Saturday and
+    // Sunday fill up…", which the day-LIST rule below reads as three closed
+    // days. SCOPE_SHIFT cannot save it: that guard lists the NOUNS a day can
+    // modify, and here the days are the subject of a verb (fill up, get busy).
+    // A weekend that carries its own predicate is not the object of "closed",
+    // so only the adjacent form is rewritten. "closed Mondays and weekends" is
+    // knowingly left undetected — a missed flag costs a warning, a false one
+    // costs an LLM rewrite of a healthy article and a quarantined post.
+    text = text.replace(new RegExp(`(closed\\s+${ADV})weekends?\\b`, 'gi'), '$1Saturday and Sunday');
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just

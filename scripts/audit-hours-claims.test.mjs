@@ -96,6 +96,21 @@ const cases = [
   // 주장하면 이제는 토·일 각각의 휴관 주장으로 읽혀 잡혀야 한다.
   ['TP-closed-weekends-but-open (must FLAG)', post(WEEK_OPEN_MON,
     'The market is closed weekends, so come on a weekday morning instead.'), 1],
+  // 08-14 저녁, 위 브로모 수리의 역풍(고아 해군항공박물관). 'weekends'를 무조건
+  // 두 요일로 풀어 쓰면, 휴관과 아무 상관 없이 **다른 동사의 주어**로 쓰인
+  // weekends까지 요일이 되어 앞의 휴관 목록에 흡수된다:
+  //   "closed Mondays, and weekends fill up between 11am and 5pm"
+  //   → "closed Mondays, and Saturday and Sunday fill up…" → 목록 규칙이 토·일도 휴관으로.
+  // SCOPE_SHIFT는 요일 뒤 **명사**(hours·crowds…)만 보므로 동사(fill up·get busy)는 못 막는다.
+  // 그래서 치환은 closed 바로 뒤(부사만 사이에 둔) weekends에만 적용한다.
+  ['FP-goa-weekends-fill-up (should be CLEAN)', post(PALACE,
+    "It's closed Mondays, and weekends fill up between 11am and 5pm, so aim for a weekday morning right after the 9:30am opening."), 0],
+  // 같은 모양의 다른 동사. 요일이 자기 술어를 가지면 휴관 주장이 아니다.
+  ['FP-weekends-get-busy (should be CLEAN)', post(PALACE,
+    'The museum is closed Mondays, and weekends get busy between 11am and 5pm.'), 0],
+  // 'closed on weekends' — 부사 on이 끼어도 진짜 휴관 주장은 계속 잡혀야 한다.
+  ['TP-closed-on-weekends (must FLAG)', post(WEEK_OPEN_MON,
+    'The office is closed on weekends, so plan a weekday visit.'), 1],
 ];
 
 let fail = 0;
