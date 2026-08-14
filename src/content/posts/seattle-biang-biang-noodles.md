@@ -1,12 +1,11 @@
 ---
-title: "Biang Biang Noodles: Where to Eat in Seattle (4.5★)"
+title: 'Biang Biang Noodles: Where to Eat in Seattle (4.5★)'
 description: Head to Biang Biang Noodles on E Pike St in Capitol Hill for hand-slapped, wide biangbiang noodles doused in chili oil, plus dumplings and baos in a loud, industrial dining room. 4.5★ (1,570 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Seattle
 category: restaurant
-pubDate: "2026-08-07T08:42:05.891Z"
+pubDate: '2026-08-07T08:42:05.891Z'
 photoless: true
-gallery: []
 place:
   id: ChIJYYN0DHRrkFQRbz4HEE2Zxbk
   name: Biang Biang Noodles
@@ -20,16 +19,19 @@ place:
   lng: -122.3241441
   phone: +1 206-809-8999
   openingHours:
-    - "Monday: 11:30 AM – 9:00 PM"
-    - "Tuesday: 11:30 AM – 9:00 PM"
-    - "Wednesday: 11:30 AM – 9:00 PM"
-    - "Thursday: 11:30 AM – 9:00 PM"
-    - "Friday: 11:30 AM – 9:30 PM"
-    - "Saturday: 11:30 AM – 9:30 PM"
-    - "Sunday: 11:30 AM – 9:00 PM"
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
   busyness:
     updated: 2026-08-07T00:00:00.000Z
-    weekdayQuiet: [12, 13, 14]
+    weekdayQuiet:
+      - 12
+      - 13
+      - 14
     weekendBusy:
       - 16
       - 17
@@ -54,6 +56,11 @@ faq:
     a: It's mid-range for Seattle — noodle bowls, dumplings, and baos are reasonably priced, and sharing a few dishes across the table is the way to go.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/46454654_RvtSqMCY9IhAcntCy1SQ3p1AhFBZ8x_f_FwpSnAke6U.jpg
+  credit: 'Photo: Foursquare user content (Biang Biang Noodles)'
+  license: foursquare
+  source: https://foursquare.com/v/5ef69d53bdbe3f000763b427
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

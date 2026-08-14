@@ -1,25 +1,25 @@
 ---
-title: "28 Restaurant: Where to Eat in Sai Kung"
-description: "28 Restaurant is a small, well-rated local eatery tucked into Man Yee Wan San Tsuen on Yi Chun Street, a short walk from Sai Kung's waterfront promenade."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "restaurant"
-pubDate: "2026-08-12T17:35:54.283Z"
+title: '28 Restaurant: Where to Eat in Sai Kung'
+description: 28 Restaurant is a small, well-rated local eatery tucked into Man Yee Wan San Tsuen on Yi Chun Street, a short walk from Sai Kung's waterfront promenade.
+country: Hong Kong
+region: Sai Kung
+category: restaurant
+pubDate: '2026-08-12T17:35:54.283Z'
 photoless: true
 gallery: []
 place:
-  id: "ChIJKxG3twIFBDQRB31XRvnHMkE"
-  name: "28 Restaurant"
-  address: "G/F Block B, Man Yee Wan San Tsuen, 28 Yi Chun St, Sai Kung, Hong Kong"
+  id: ChIJKxG3twIFBDQRB31XRvnHMkE
+  name: 28 Restaurant
+  address: G/F Block B, Man Yee Wan San Tsuen, 28 Yi Chun St, Sai Kung, Hong Kong
   rating: 4.8
   userRatingsTotal: 95
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=4698037234741771527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4698037234741771527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3813492
   lng: 114.2710724
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekendBusy:
@@ -30,24 +30,24 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_456b4d486e76525831334252514442464977743347784b4a496843"
+    venueId: ven_456b4d486e76525831334252514442464977743347784b4a496843
 tags:
-  - "sai kung"
-  - "local restaurant"
-quickAnswer: "28 Restaurant is a small, well-rated local eatery tucked into Man Yee Wan San Tsuen on Yi Chun Street, a short walk from Sai Kung's waterfront promenade. It's mid-range, seafood-leaning Cantonese cooking with a loyal following, so go on a weekday evening if you want a table without waiting. Weekends run busy from 1pm to 9pm; late weekday evenings, around 10-11pm, are calmest."
+  - sai kung
+  - local restaurant
+quickAnswer: 28 Restaurant is a small, well-rated local eatery tucked into Man Yee Wan San Tsuen on Yi Chun Street, a short walk from Sai Kung's waterfront promenade. It's mid-range, seafood-leaning Cantonese cooking with a loyal following, so go on a weekday evening if you want a table without waiting. Weekends run busy from 1pm to 9pm; late weekday evenings, around 10-11pm, are calmest.
 faq:
-  - q: "Do I need a reservation at 28 Restaurant?"
-    a: "It's not essential on weekday evenings, but booking ahead is smart for weekend dinners, since the dining room is small and fills fast between 1pm and 9pm."
-  - q: "How do I get to 28 Restaurant without a car?"
-    a: "Take the MTR to Hang Hau, then green minibus 1A or 101M into central Sai Kung (about 15 minutes), and walk inland one block to Yi Chun Street."
-  - q: "When is 28 Restaurant quietest?"
-    a: "Late weekday evenings, roughly 10pm to 11pm, are the calmest window. Weekends stay busy from 1pm through 9pm."
-  - q: "Is 28 Restaurant expensive?"
-    a: "It sits in the mid-range price bracket for Sai Kung seafood — pricier than a noodle shop but well below the big waterfront seafood restaurants aimed at tour groups."
-  - q: "What should I order?"
-    a: "Steamed whole fish, salt-and-pepper squid, and typhoon shelter crab are the standouts — order a mix and share across at least three people."
+  - q: Do I need a reservation at 28 Restaurant?
+    a: It's not essential on weekday evenings, but booking ahead is smart for weekend dinners, since the dining room is small and fills fast between 1pm and 9pm.
+  - q: How do I get to 28 Restaurant without a car?
+    a: Take the MTR to Hang Hau, then green minibus 1A or 101M into central Sai Kung (about 15 minutes), and walk inland one block to Yi Chun Street.
+  - q: When is 28 Restaurant quietest?
+    a: Late weekday evenings, roughly 10pm to 11pm, are the calmest window. Weekends stay busy from 1pm through 9pm.
+  - q: Is 28 Restaurant expensive?
+    a: It sits in the mid-range price bracket for Sai Kung seafood — pricier than a noodle shop but well below the big waterfront seafood restaurants aimed at tour groups.
+  - q: What should I order?
+    a: Steamed whole fish, salt-and-pepper squid, and typhoon shelter crab are the standouts — order a mix and share across at least three people.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,33 +1,33 @@
 ---
-title: "Shing Kee Noodles: Where to Eat in Sha Tin (4.2★)"
-description: "Shing Kee Noodles is a bare-bones Cantonese noodle shop tucked into the old Lek Yuen Estate market in Sha Tin, known for wonton noodles, congee and roast meats served on battered tin tables. 4.2★ (1,200 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sha Tin"
-category: "restaurant"
-pubDate: "2026-08-14T09:42:31.280Z"
+title: 'Shing Kee Noodles: Where to Eat in Sha Tin (4.2★)'
+description: Shing Kee Noodles is a bare-bones Cantonese noodle shop tucked into the old Lek Yuen Estate market in Sha Tin, known for wonton noodles, congee and roast meats served on battered tin tables. 4.2★ (1,200 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sha Tin
+category: restaurant
+pubDate: '2026-08-14T09:42:31.280Z'
 photoless: true
 gallery: []
 place:
-  id: "ChIJx3-xs7IHBDQRCQvyT_hwW80"
-  name: "Shing Kee Noodles"
-  address: "Lek Yuen St, Lek Yuen Estate, Hong Kong"
+  id: ChIJx3-xs7IHBDQRCQvyT_hwW80
+  name: Shing Kee Noodles
+  address: Lek Yuen St, Lek Yuen Estate, Hong Kong
   rating: 4.2
   userRatingsTotal: 1200
-  googleMapsUrl: "https://maps.google.com/?cid=14797545212451359497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14797545212451359497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.384704799999998
   lng: 114.1909903
-  phone: "+852 2692 6611"
+  phone: +852 2692 6611
   openingHours:
-    - "Monday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
-    - "Tuesday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
-    - "Wednesday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
-    - "Thursday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
-    - "Friday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
-    - "Saturday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
-    - "Sunday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM"
+    - 'Monday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
+    - 'Thursday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
+    - 'Friday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
+    - 'Saturday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
+    - 'Sunday: 6:00 AM – 4:00 PM, 7:00 – 11:00 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -43,24 +43,24 @@ place:
       - 13
       - 14
       - 20
-    venueId: "ven_30385777685f54797651435251444248493773782d33784a496843"
+    venueId: ven_30385777685f54797651435251444248493773782d33784a496843
 tags:
-  - "sha tin"
-  - "local restaurant"
-quickAnswer: "Shing Kee Noodles is a bare-bones Cantonese noodle shop tucked into the old Lek Yuen Estate market in Sha Tin, known for wonton noodles, congee and roast meats served on battered tin tables. Go right at 6am opening or in the 7am–8am window on weekends, since it stays busy from 10am to 9pm; it closes 4–7pm daily and again by 11pm. Bring cash and expect to share a table."
+  - sha tin
+  - local restaurant
+quickAnswer: Shing Kee Noodles is a bare-bones Cantonese noodle shop tucked into the old Lek Yuen Estate market in Sha Tin, known for wonton noodles, congee and roast meats served on battered tin tables. Go right at 6am opening or in the 7am–8am window on weekends, since it stays busy from 10am to 9pm; it closes 4–7pm daily and again by 11pm. Bring cash and expect to share a table.
 faq:
-  - q: "How do I get to Shing Kee Noodles?"
-    a: "Take the MTR East Rail Line to Sha Tin Station, then walk about five to ten minutes toward Lek Yuen Bridge into the Lek Yuen Estate market podium on Lek Yuen Street."
-  - q: "What's the quietest time to visit?"
-    a: "On weekends, 7am to 8am right after opening is calmest. Try to avoid 10am to 9pm on weekends, when tables turn over slowly and queues form."
-  - q: "What are the opening hours?"
-    a: "Open daily 6am–4pm and again 7pm–11pm. It's closed in between, roughly 4pm to 7pm, so don't plan a mid-afternoon visit."
-  - q: "What should I order?"
-    a: "Wonton noodles are the signature dish. Congee, char siu or roast goose rice, and beef brisket noodles are also solid choices."
-  - q: "Does Shing Kee take credit cards?"
-    a: "It's best to bring cash. Like many older market eateries in Hong Kong, card payment isn't reliably accepted."
+  - q: How do I get to Shing Kee Noodles?
+    a: Take the MTR East Rail Line to Sha Tin Station, then walk about five to ten minutes toward Lek Yuen Bridge into the Lek Yuen Estate market podium on Lek Yuen Street.
+  - q: What's the quietest time to visit?
+    a: On weekends, 7am to 8am right after opening is calmest. Try to avoid 10am to 9pm on weekends, when tables turn over slowly and queues form.
+  - q: What are the opening hours?
+    a: Open daily 6am–4pm and again 7pm–11pm. It's closed in between, roughly 4pm to 7pm, so don't plan a mid-afternoon visit.
+  - q: What should I order?
+    a: Wonton noodles are the signature dish. Congee, char siu or roast goose rice, and beef brisket noodles are also solid choices.
+  - q: Does Shing Kee take credit cards?
+    a: It's best to bring cash. Like many older market eateries in Hong Kong, card payment isn't reliably accepted.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
