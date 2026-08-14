@@ -3,8 +3,15 @@ import assert from 'node:assert/strict';
 import { commonsTitle, judgeIdentity } from './commons-identity.mjs';
 
 const WORLD = {
-  countries: ['South Korea', 'United States', 'Singapore', 'India', 'Philippines', 'Japan', 'Hong Kong'],
-  regions: ['Daegu', 'Los Angeles', 'Seoul', 'Busan', 'Mumbai', 'Palawan', 'Batanes', 'Tokyo', 'Phoenix', 'New York'],
+  countries: ['South Korea', 'United States', 'Singapore', 'India', 'Philippines', 'Japan', 'Hong Kong', 'United Arab Emirates', 'Indonesia'],
+  regions: ['Daegu', 'Los Angeles', 'Seoul', 'Busan', 'Mumbai', 'Palawan', 'Batanes', 'Tokyo', 'Phoenix', 'New York', 'Central', 'Dubai', 'Downtown Dubai', 'Mount Bromo', 'Malang'],
+  regionCountry: new Map([
+    ['Daegu', 'South Korea'], ['Los Angeles', 'United States'], ['Seoul', 'South Korea'],
+    ['Busan', 'South Korea'], ['Mumbai', 'India'], ['Palawan', 'Philippines'],
+    ['Batanes', 'Philippines'], ['Tokyo', 'Japan'], ['Phoenix', 'United States'],
+    ['New York', 'United States'], ['Central', 'Hong Kong'], ['Dubai', 'United Arab Emirates'],
+    ['Downtown Dubai', 'United Arab Emirates'], ['Mount Bromo', 'Indonesia'], ['Malang', 'Indonesia'],
+  ]),
 };
 
 test('extracts the Commons title from a thumb URL', () => {
@@ -75,6 +82,37 @@ test('a different region in a DIFFERENT country is still a hard contradiction', 
   // Nothing to be uncertain about: the country is wrong too.
   const meta = { description: 'A market in Mumbai', categories: ['Markets in Mumbai'] };
   const r = judgeIdentity(meta, { country: 'South Korea', region: 'Daegu' }, WORLD);
+  assert.equal(r.verdict, 'contradicts', r.why);
+});
+
+test('a region of the SAME country is nearby even when the caption never names the country', () => {
+  // Mount Batok stands in Bromo's Sea of Sand; the uploader wrote only
+  // "Malang" (the regency Bromo partly sits in). The strip was one night away
+  // from deleting this photo over it.
+  const meta = { description: 'Malang', categories: ['Mount Batok', 'Tengger caldera', 'Sand Sea (Lautan Pasir)'] };
+  const r = judgeIdentity(meta, { country: 'Indonesia', region: 'Mount Bromo' }, WORLD);
+  assert.equal(r.verdict, 'nearby', r.why);
+});
+
+test('the metro naming its own district is nearby, not a contradiction', () => {
+  const meta = { description: 'Dubai Water Canal - a night view', categories: ['Dubai water canal'] };
+  const r = judgeIdentity(meta, { country: 'United Arab Emirates', region: 'Jumeirah' }, WORLD);
+  assert.equal(r.verdict, 'nearby', r.why);
+});
+
+test('a region name that is only the first word of a longer proper noun vouches for nothing', () => {
+  // "Central Park, NYC" contains no district called Central — but Hong Kong's
+  // Central is in the region list, and this exact photo (a genuine
+  // Conservatory Garden shot) was marked wrong-place over it.
+  const meta = { description: 'Central Park, NYC. Vandervilt Gate', categories: ['Conservatory Garden', 'Gates of Central Park'] };
+  const r = judgeIdentity(meta, { country: 'United States', region: 'New York' }, WORLD);
+  assert.equal(r.verdict, 'unknown', r.why);
+});
+
+test('without a regionCountry map, a foreign-looking region still condemns (old callers)', () => {
+  const meta = { description: 'A market in Mumbai', categories: ['Markets in Mumbai'] };
+  const bare = { countries: WORLD.countries, regions: WORLD.regions };
+  const r = judgeIdentity(meta, { country: 'South Korea', region: 'Daegu' }, bare);
   assert.equal(r.verdict, 'contradicts', r.why);
 });
 

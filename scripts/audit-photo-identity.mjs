@@ -33,9 +33,18 @@ const JSON_OUT = process.argv.includes('--json');
 const ONLY = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
 
 const countriesData = JSON.parse(await readFile('data/countries.json', 'utf8'));
+// regionCountry: which country each region belongs to — null when the same
+// name appears in more than one country, which makes it useless as evidence.
+const regionCountry = new Map();
+for (const c of countriesData.countries) {
+  for (const r of c.regions ?? []) {
+    regionCountry.set(r, regionCountry.has(r) && regionCountry.get(r) !== c.name ? null : c.name);
+  }
+}
 const world = {
   countries: countriesData.countries.map((c) => c.name),
-  regions: [...new Set(countriesData.countries.flatMap((c) => c.regions ?? []))],
+  regions: [...regionCountry.keys()],
+  regionCountry,
 };
 
 // Every live post's hero and gallery images, keyed by the Commons file they use.

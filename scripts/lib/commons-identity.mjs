@@ -88,6 +88,31 @@ const mentions = (haystack, needle) => {
 };
 
 /**
+ * Like mentions(), but only when the name stands alone as a PLACE — not as the
+ * first word of a longer proper noun. "Central Park, NYC" mentions no district
+ * called Central, yet the flat region list contains Hong Kong's Central, and
+ * that single word marked a genuine Conservatory Garden photograph for
+ * stripping. A capitalised word right after the match means the match is a
+ * modifier of something bigger, and vouches for nothing.
+ */
+const mentionsAsPlace = (segments, needle) => {
+  if (!needle || needle.length < 3) return false;
+  const esc = needle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // The i-flag would case-fold a \p{Lu} lookahead into matching everything, so
+  // the "followed by a capitalised word?" test runs separately, case-sensitive.
+  // Judged per field, never on a joined blob — a description that is just
+  // "Malang" must not read as "Malang Mount…" because the next category
+  // happens to start with a capital.
+  const re = new RegExp(String.raw`(^|[^\p{L}])${esc}(?=$|[^\p{L}])`, 'giu');
+  for (const seg of segments) {
+    for (const m of String(seg ?? '').matchAll(re)) {
+      if (!/^\s+\p{Lu}/u.test(seg.slice(m.index + m[0].length))) return true;
+    }
+  }
+  return false;
+};
+
+/**
  * Does this photo's own metadata place it somewhere OTHER than the post claims?
  *
  * Only ever returns a verdict it can defend. "unknown" is a real answer and is
@@ -103,6 +128,7 @@ export function judgeIdentity(meta, claim, world) {
   if (!meta) return { verdict: 'unknown', why: 'no Commons metadata' };
   const hay = `${meta.description} ${meta.categories.join(' ')}`.trim();
   if (!hay) return { verdict: 'unknown', why: 'Commons record is empty' };
+  const fields = [meta.description, ...meta.categories];
 
   const namesRegion = Boolean(claim.region) && mentions(hay, claim.region);
   const namesCountry = Boolean(claim.country) && mentions(hay, claim.country);
@@ -128,9 +154,23 @@ export function judgeIdentity(meta, claim, world) {
   // Taipei and New Taipei, or that a race called "Multiple cities" passes
   // through Segovia. Every one of those was a false positive on the first run.
   // Surfaced as `nearby` for a human, never acted on automatically.
-  const otherRegion = world.regions.find((r) => r !== claim.region && mentions(hay, r));
+  //
+  // Which country the mentioned region BELONGS to decides how loud to be. The
+  // strip deletes what this branch condemns, and on 2026-08-14 it was about to
+  // condemn Malang on a Mount Bromo post (Bromo sits partly in Malang regency)
+  // and Dubai on Jumeirah/Downtown Dubai posts — the metro naming its own
+  // district. A region from the post's own country is exactly as undecidable
+  // as the Puerto Princesa case, whether or not the caption bothered to name
+  // the country too. Only a region owned by a DIFFERENT country (Mumbai on a
+  // Daegu page), with the post's country absent, still condemns.
+  const otherRegion = world.regions.find((r) => r !== claim.region && mentionsAsPlace(fields, r));
   if (otherRegion) {
-    return namesCountry
+    // owner: the country that region belongs to. null = the name exists in
+    // several countries (undecidable); undefined = caller supplied no map, in
+    // which case only a named country can soften the verdict, as before.
+    const owner = world.regionCountry?.get(otherRegion);
+    const decidablyForeign = world.regionCountry ? owner != null && owner !== claim.country : true;
+    return namesCountry || !decidablyForeign
       ? { verdict: 'nearby', why: `Commons names ${otherRegion}, post says ${claim.region} — same country, may be a sub-region` }
       : { verdict: 'contradicts', why: `Commons places this in ${otherRegion}, post says ${claim.region}` };
   }
