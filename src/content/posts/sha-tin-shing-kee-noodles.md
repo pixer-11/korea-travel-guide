@@ -5,11 +5,7 @@ country: "Hong Kong"
 region: "Sha Tin"
 category: "restaurant"
 pubDate: "2026-08-14T09:42:31.280Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aberdeen_Tung_Shing_Road_Nam_Kee_Spring_Roll_Noodle_01-02-2026%283%29.jpg/3840px-Aberdeen_Tung_Shing_Road_Nam_Kee_Spring_Roll_Noodle_01-02-2026%283%29.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aberdeen_Tung_Shing_Road_Nam_Kee_Spring_Roll_Noodle_01-02-2026(3).jpg"
+photoless: true
 gallery: []
 place:
   id: "ChIJx3-xs7IHBDQRCQvyT_hwW80"
