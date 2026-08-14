@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PlanTrip from './PlanTrip.astro';
 import Newsletter from './Newsletter.astro';
+import WhenToGoEmailBox from './WhenToGoEmailBox.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeEvent } from '../i18n/events';
@@ -105,7 +106,7 @@ const ogPhoto = pickOgPhoto(data.topVenues);
 
 ---
 
-<BaseLayout image={ogPhoto} title={title} description={dek} lang={lang} localized={true}>
+<BaseLayout image={ogPhoto} title={title} description={dek} lang={lang} localized={true} suppressPopup={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="wtg">
@@ -121,6 +122,7 @@ const ogPhoto = pickOgPhoto(data.topVenues);
         <div><span class="wtg-k">{t('wtg.rain')}</span><span class="wtg-v">{data.rain}mm</span></div>
       </div>
       <p class="wtg-read">{heatLine} {rainLine}</p>
+      <WhenToGoEmailBox lang={lang} country={data.country} slug={countrySlug} />
     </section>
 
     {/* The twelve-month table, the quiet-times list and the venue grid used to

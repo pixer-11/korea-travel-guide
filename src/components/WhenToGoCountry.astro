@@ -9,6 +9,7 @@ import { formatHourRanges } from '../lib/hours.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { monthSlug } from '../lib/when-to-go.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import WhenToGoEmailBox from './WhenToGoEmailBox.astro';
 
 // The country page for the when-to-go tool, and the parent the twelve month
 // pages never had — /tools/when-to-go/<country>/ returned 404 until now, so
@@ -74,7 +75,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={ogPhoto} jsonLd={jsonLd} localized={true}>
+<BaseLayout title={metaTitle} description={metaDesc} image={ogPhoto} jsonLd={jsonLd} localized={true} suppressPopup={true}>
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow gold">{t('wtg.indexTitle')}</p>
@@ -114,6 +115,7 @@ const jsonLd = {
           </tbody>
         </table>
       </div>
+      <WhenToGoEmailBox lang={lang} country={first.country} slug={countrySlug} />
     </section>
 
     {quietVenues.length > 0 && (

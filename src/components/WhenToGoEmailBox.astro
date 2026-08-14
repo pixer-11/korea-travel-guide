@@ -1,0 +1,87 @@
+---
+// Per-page content upgrade for the when-to-go tool (subscriber-growth research
+// 2026-08-14): the on-page answer stays fully free — this box only offers to
+// SAVE the page to the reader's inbox. Click-to-reveal (<details>) is the
+// 2-step pattern: the disclosure click is a micro-commitment, and benchmarks
+// put click-triggered forms far above always-open ones. Same backend as every
+// signup (worker /api/subscribe → MailerLite, double opt-in); the hidden
+// `itinerary` input becomes fields[itinerary_url], so the existing welcome
+// automation links straight back to this exact page — the promise in the copy
+// is exactly what the plumbing already delivers.
+import { useTranslations, type Lang } from '../i18n/utils';
+import { interestFields } from '../lib/interest';
+import Emoji from './Emoji.astro';
+
+interface Props { lang: Lang; country: string; slug: string }
+const { lang, country, slug } = Astro.props;
+const t = useTranslations(lang);
+const interest = interestFields({ region: '', country, lang, source: `whentogo:${slug}` });
+const pageUrl = new URL(Astro.url.pathname, Astro.site ?? 'https://wanderatlasguides.com').toString();
+---
+<details class="wtg-email">
+  <summary><Emoji name="incoming-envelope" />{' '}{t('wtg.emailOpen')}</summary>
+  <div class="wtg-email-body">
+    <p class="wtg-email-title">{t('wtg.emailTitle')}</p>
+    <p class="wtg-email-dek">{t('wtg.emailDek')}</p>
+    <form class="nl-form wtg-email-form" data-ml-action="/api/subscribe" novalidate
+      data-ok-plain="1" data-via="whentogo"
+      data-msg-ok={t('itin.emailOk')} data-msg-err={t('nl.msgErr')} data-msg-net={t('nl.msgNet')}
+      data-msg-unsub={t('nl.msgUnsub')}
+      data-msg-invalid={t('nl.msgInvalid')} data-sending={t('nl.sending')}>
+      <input type="email" name="email" placeholder="you@email.com" aria-label={t('a11y.email')} autocomplete="email" required />
+      <input type="hidden" name="region" value={interest.region} />
+      <input type="hidden" name="lang" value={interest.lang} />
+      <input type="hidden" name="source" value={interest.source} />
+      <input type="hidden" name="itinerary" value={pageUrl} />
+      <button type="submit" class="btn btn-primary">{t('wtg.emailCta')}</button>
+    </form>
+    <p class="nl-note" hidden aria-live="polite"></p>
+  </div>
+</details>
+
+<style>
+  .wtg-email {
+    margin: 1.4rem 0 0;
+    border: 1px solid var(--line-soft);
+    border-left: 3px solid var(--gold);
+    border-radius: var(--r-lg);
+    background: var(--surface-2);
+  }
+  .wtg-email summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.85rem 1.2rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--accent-text, var(--accent));
+  }
+  .wtg-email summary::-webkit-details-marker { display: none; }
+  .wtg-email[open] summary { border-bottom: 1px dashed var(--line-soft); }
+  .wtg-email-body { padding: 1rem 1.2rem 1.1rem; }
+  .wtg-email-title { font-family: var(--font-display); font-size: 1.05rem; font-weight: 550; margin: 0 0 0.3rem; }
+  .wtg-email-dek { font-size: 0.88rem; color: var(--muted); line-height: 1.5; margin: 0 0 0.8rem; }
+  /* Same inheritance fixes as ItineraryEmailBox: .nl-form is centred/max-width
+     for the newsletter band and stacks to a 220px-TALL input on mobile. */
+  .wtg-email-form { display: flex; gap: 0.55rem; flex-wrap: wrap; max-width: none; margin: 0; }
+  .wtg-email-form input[type='email'] {
+    flex: 1 1 220px;
+    min-width: 0;
+    border: 1px solid var(--line);
+    border-radius: var(--r-sm, 8px);
+    padding: 0.6rem 0.8rem;
+    font-size: 0.95rem;
+    background: var(--surface);
+    color: inherit;
+  }
+  @media (max-width: 640px) {
+    .wtg-email-form input[type='email'] { flex: 0 0 auto; width: 100%; font-size: 16px; }
+  }
+  .wtg-email :global(.nl-note) { font-size: 0.88rem; margin: 0 1.2rem 1rem; }
+  .wtg-email :global(.nl-note-ok) { color: var(--accent-text); font-weight: 600; }
+  .wtg-email .wtg-email-form :global(.btn-primary) { background: var(--cta); color: #fff; border-radius: var(--r-pill, 999px); }
+  .wtg-email .wtg-email-form :global(.btn-primary:hover) { background: var(--accent-deep); color: #fff; }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .wtg-email .wtg-email-form :global(.btn-primary) { background: #b3443a; }
+  }
+  :global(:root[data-theme='dark']) .wtg-email .wtg-email-form :global(.btn-primary) { background: #b3443a; }
+</style>

@@ -1,0 +1,17 @@
+name: newsletter-stats
+# Read-only list X-ray (status × language counts + unconfirmed leak detail).
+# Manual dispatch only — a diagnostic, not a schedule.
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/newsletter-stats.mjs
+        env:
+          MAILERLITE_API_TOKEN: ${{ secrets.MAILERLITE_API_TOKEN }}

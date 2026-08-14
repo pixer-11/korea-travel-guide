@@ -28,6 +28,39 @@ export function sentSetFor(log, key) {
 const eq = (a, b) => String(a || '').toLowerCase() === String(b || '').toLowerCase();
 const byPubDesc = (a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate);
 
+// Timing windows (subscriber-growth research 2026-08-14): the reason deal
+// newsletters compound is perishable value — a reason to open THIS issue.
+// Guides can't be perishable, but timing can: from the same climate normals
+// the when-to-go tool renders, surface the countries ENTERING their easiest
+// window next month. Comfort formula matches WhenToGoCountry.astro exactly —
+// distance of the month's high from a mild 24°C plus its share of annual rain
+// — so the email never contradicts the page it links to. "Entering" means
+// next month ranks in the country's top-4 months AND improves on this month,
+// which is what makes the list rotate through the year instead of repeating
+// the same three mild countries.
+export function pickTimingCountries({ factsPath, now, count = 3 }) {
+  let facts;
+  try { facts = JSON.parse(readFileSync(factsPath, 'utf8')).countries || {}; }
+  catch { return []; }
+  const thisM = now.getUTCMonth() + 1;
+  const nextM = (thisM % 12) + 1;
+  const out = [];
+  for (const [country, f] of Object.entries(facts)) {
+    const climate = f?.climate;
+    if (!Array.isArray(climate) || climate.length !== 12) continue;
+    const totalRain = Math.max(1, climate.reduce((s, c) => s + (c.rain || 0), 0));
+    const comfort = (c) => Math.abs(c.hi - 24) + ((c.rain || 0) / totalRain) * 100;
+    const ranked = [...climate].sort((a, b) => comfort(a) - comfort(b)).map((c) => c.m);
+    const next = climate.find((c) => c.m === nextM);
+    const cur = climate.find((c) => c.m === thisM);
+    if (!next || !cur) continue;
+    if (ranked.indexOf(nextM) < 4 && comfort(next) < comfort(cur)) {
+      out.push({ country, score: comfort(next), hi: next.hi, lo: next.lo, rain: next.rain });
+    }
+  }
+  return out.sort((a, b) => a.score - b.score).slice(0, count);
+}
+
 // Best-first hero source ranking (spec §4.3): a real self-hosted venue photo,
 // then Google Places, then curated Unsplash/KTO, then a Wikimedia keyword-match
 // fallback LAST — so a restaurant never shows a wikimedia landscape when any

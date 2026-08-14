@@ -46,6 +46,7 @@ on:
       - 'gsc-report'
       - 'newsletter-announce'
       - 'newsletter-report'
+      - 'newsletter-stats'
       - 'newsletter-weekly'
       - 'visual-audit'
     types: [completed]

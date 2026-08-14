@@ -43,6 +43,28 @@ function storyCard(s, c, links) {
   <tr><td style="padding:0 40px;"><div style="height:1px;background:${P.gold};opacity:.5;"></div></td></tr>`;
 }
 
+// Timing block (subscriber-growth research 2026-08-14): perishable value is
+// what gives an issue a reason to be opened THIS week — countries entering
+// their easiest window next month, from the same climate normals as the
+// when-to-go tool. Links to OUR localized tool page, never invented claims.
+const countrySlugify = (name) => String(name || '').toLowerCase().replace(/\s+/g, '-');
+function timingBlock(timing, lang, c, links) {
+  if (!timing || !timing.length || !c.timingLabel) return '';
+  const rows = timing.map((w) => {
+    const label = placeLabel(w.country, lang);
+    const href = `${links.site}${lang === 'en' ? '' : `/${lang}`}/tools/when-to-go/${countrySlugify(w.country)}`;
+    return `<div style="margin-top:12px;border-bottom:1px solid #e0d8c8;padding-bottom:10px;">
+      <span style="font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:1.6;color:${P.soft};">${esc(fill(c.timingLine, { country: label, hi: w.hi, lo: w.lo }))}</span>
+      <a href="${esc(href)}" style="font-family:Helvetica,Arial,sans-serif;display:inline-block;font-size:12px;font-weight:700;color:${P.accd};text-decoration:none;margin-left:6px;">${esc(fill(c.timingCta, { country: label }))}</a>
+    </div>`;
+  }).join('');
+  return `
+  <tr><td style="background:${P.tint};padding:22px 40px;">
+    <div style="font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#7a736a;font-weight:700;">${esc(c.timingLabel)}</div>
+    ${rows}
+  </td></tr>`;
+}
+
 function eventsBlock(events, c, links) {
   if (!events.length) return '';
   const rows = events.map((e) => {
@@ -57,7 +79,7 @@ function eventsBlock(events, c, links) {
   </td></tr>`;
 }
 
-export function renderSingleRegion({ edition, region, lang, links }) {
+export function renderSingleRegion({ edition, region, lang, links, timing = [] }) {
   const c = copyFor(lang);
   const v = { region, country: edition.country };
   const subject = fill(c.subjectSingle, v);
@@ -81,6 +103,7 @@ export function renderSingleRegion({ edition, region, lang, links }) {
   <tr><td style="font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:${P.gold};font-weight:700;padding:24px 40px 0;">${esc(c.sectionLabel)}</td></tr>
   ${cards}
   ${eventsBlock(edition.events, c, links)}
+  ${timingBlock(timing, lang, c, links)}
   ${esimBlock(edition.country, lang, c, links)}
   <tr><td style="text-align:center;padding:34px 40px;"><a href="${esc(links.cta)}" style="font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;letter-spacing:.04em;text-decoration:none;color:${P.accd};border:1.5px solid ${P.accd};border-radius:8px;padding:14px 30px;display:inline-block;">${esc(fill(c.ctaSingle, v))}</a></td></tr>
   <tr><td style="background:${P.ink};color:#a79e8f;font-family:Helvetica,Arial,sans-serif;font-size:11px;line-height:1.8;text-align:center;padding:26px 40px;">
@@ -129,13 +152,13 @@ function page({ lang, subject, preheader, headerSub, heroImage, bodyRows, ctaHre
 </table></td></tr></table></body></html>`;
 }
 
-export function renderGlobal({ edition, lang, links }) {
+export function renderGlobal({ edition, lang, links, timing = [] }) {
   const c = copyFor(lang);
   const subject = c.subjectGlobal;
   const preheader = c.preheaderGlobal;
   const cards = [edition.hero, ...edition.stories].map((s) => globalCard(s, c, links)).join('');
   const lead = `<tr><td style="padding:26px 40px 4px;"><h1 style="margin:0;font-size:30px;font-weight:400;line-height:1.1;color:${P.ink};">${esc(c.subjectGlobal)}</h1><p style="font-family:Helvetica,Arial,sans-serif;font-size:15px;line-height:1.65;color:${P.soft};font-style:italic;margin:12px 0 0;">${esc(c.editorNoteGlobal)}</p></td></tr>`;
-  const bodyRows = lead + cards + eventsBlock(edition.events, c, links);
+  const bodyRows = lead + cards + eventsBlock(edition.events, c, links) + timingBlock(timing, lang, c, links);
   const html = page({ lang, subject, preheader, headerSub: 'The Weekly Edit · Editor’s Picks', heroImage: edition.hero.image && edition.hero.image.url, bodyRows, ctaHref: links.cta, ctaLabel: c.ctaGlobal, c, links });
   return { subject, preheader, html };
 }

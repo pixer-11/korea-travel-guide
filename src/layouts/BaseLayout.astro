@@ -34,9 +34,14 @@ interface Props {
   // the URL live but out of the index — avoids thin/outdated pages dragging the
   // young domain's overall quality. Recurring events stay indexed.
   noindex?: boolean;
+  // Set on pages that carry their OWN inline email capture (itineraries,
+  // when-to-go): two interrupts competing for the same signup measurably hurt
+  // both, and the page-matched inline offer is the stronger of the two
+  // (subscriber-growth research 2026-08-14).
+  suppressPopup?: boolean;
 }
 
-const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false } = Astro.props;
+const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false, suppressPopup = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 // Which locales the language switcher may link to WITHOUT preserving the path
@@ -259,7 +264,7 @@ const orgLd = {
       <slot />
     </main>
     <Footer />
-    <NewsletterPopup />
+    {!suppressPopup && <NewsletterPopup />}
     <script is:inline>
       // Outbound affiliate-click tracking. Fires to whatever analytics is present
       // (GA4/gtag, Plausible, or dataLayer) — a harmless no-op until one is added,

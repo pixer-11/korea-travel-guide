@@ -1,0 +1,31 @@
+---
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Newsletter from '../../components/Newsletter.astro';
+import type { Lang } from '../../i18n/utils';
+
+export function getStaticPaths() {
+  return (['ko', 'ja', 'es', 'zh'] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
+}
+const { lang } = Astro.props;
+const entry = await getEntry('staticPages', 'newsletter');
+const translation = await getEntry('staticPagesI18n', `${lang}/newsletter`);
+const src = translation ?? entry;
+const { Content } = await render(src);
+const d = src.data;
+---
+
+<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{d.eyebrow}</p>
+      <h1>{d.h1}</h1>
+    </div>
+  </div>
+  <article class="article wrap">
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+  <Newsletter lang={lang} />
+</BaseLayout>

@@ -8,7 +8,7 @@ import { mkdirSync, writeFileSync, readFileSync, existsSync } from 'node:fs';
 import { execSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { slugify } from './lib/slugify.mjs';
-import { loadPosts, audienceKey, sentSetFor, pickSingleRegionEdition, pickGlobalEdition, pickMultiRegionEdition } from './lib/newsletter-content.mjs';
+import { loadPosts, audienceKey, sentSetFor, pickSingleRegionEdition, pickGlobalEdition, pickMultiRegionEdition, pickTimingCountries } from './lib/newsletter-content.mjs';
 import { renderSingleRegion, renderGlobal, renderMultiRegion } from './lib/newsletter-render.mjs';
 import { bucketSubscribers } from './lib/audience.mjs';
 import { mailerlite } from './lib/mailerlite.mjs';
@@ -26,6 +26,9 @@ if (LIVE && !NEWSLETTER_FROM_EMAIL) { console.error('NEWSLETTER_FROM_EMAIL requi
 const posts = loadPosts(POSTS_DIR);
 const log = existsSync(LOG_PATH) ? JSON.parse(readFileSync(LOG_PATH, 'utf8')) : {};
 const now = new Date();
+// Countries entering their best window next month — same list for every
+// audience this week (it's about the world, not the subscriber's region).
+const timing = pickTimingCountries({ factsPath: fileURLToPath(new URL('../data/country-facts.json', import.meta.url)), now });
 const ml = mailerlite(MAILERLITE_API_TOKEN);
 
 // region label + country lookups from the corpus (region field is a display name).
@@ -65,11 +68,11 @@ for (const b of buckets) {
 
   if (b.type === 'global') {
     const ed = pickGlobalEdition({ posts, sent, now });
-    if (ed) { rendered = renderGlobal({ edition: ed, lang: b.lang, links: linksFor(b.lang) }); used = ed; }
+    if (ed) { rendered = renderGlobal({ edition: ed, lang: b.lang, links: linksFor(b.lang), timing }); used = ed; }
   } else if (b.type === 'single') {
     const region = labelBySlug[b.regions[0]] || b.regions[0];
     const ed = pickSingleRegionEdition({ posts, region, country: countryByRegion[region] || region, sent, now, minStories: 3 });
-    if (ed) { rendered = renderSingleRegion({ edition: ed, region, lang: b.lang, links: linksFor(b.lang) }); used = ed; }
+    if (ed) { rendered = renderSingleRegion({ edition: ed, region, lang: b.lang, links: linksFor(b.lang), timing }); used = ed; }
   } else {
     const regionLabels = b.regions.map((s) => labelBySlug[s] || s);
     const ed = pickMultiRegionEdition({ posts, regions: regionLabels, countryByRegion, sent, now, perRegion: 2 });

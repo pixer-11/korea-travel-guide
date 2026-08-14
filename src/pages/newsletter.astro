@@ -1,0 +1,29 @@
+---
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from '../components/Newsletter.astro';
+
+// Public newsletter landing page (subscriber-growth research 2026-08-14):
+// newsletter directories require a dedicated page with a sample-issue
+// description, and it doubles as the invite link for outreach. Prose comes
+// from the static-pages collection like /methodology; the live signup form
+// renders below it.
+const entry = await getEntry('staticPages', 'newsletter');
+const { Content } = await render(entry);
+const d = entry.data;
+---
+
+<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true}>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">{d.eyebrow}</p>
+      <h1>{d.h1}</h1>
+    </div>
+  </div>
+  <article class="article wrap">
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+  <Newsletter lang="en" />
+</BaseLayout>

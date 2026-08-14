@@ -134,6 +134,49 @@ async function composePin(post) {
     .toBuffer();
 }
 
+// ── lead-magnet pins (subscriber-growth research 2026-08-14) ─
+// Pinterest's best-converting formats for travel are checklists, printable
+// itineraries and planners pinned AT an opt-in destination — not just guides.
+// These pins point at pages that capture email (itinerary pages carry the
+// "email me this itinerary" box; the checklist page IS the popup magnet).
+// They ride the same ramp/caps as post pins: at most one magnet pin per run,
+// taking the first slot, until the finite target list is exhausted.
+const ITINERARIES_DIR = join(ROOT, 'src', 'content', 'itineraries');
+
+async function loadMagnetTargets(state) {
+  const targets = [];
+  try {
+    const files = (await readdir(ITINERARIES_DIR)).filter((f) => f.endsWith('.md'));
+    for (const f of files) {
+      const key = `magnet:itinerary:${f.replace(/\.md$/, '')}`;
+      if (state.magnetPinned?.[key]) continue;
+      const { data } = matter(await readFile(join(ITINERARIES_DIR, f), 'utf8'));
+      if (data.draft) continue;
+      const firstStop = data.itinerary?.[0]?.stops?.[0]?.slug;
+      if (!firstStop) continue;
+      // Hero comes from the first stop's post — a real photo of a real place,
+      // consistent with the photo-accuracy rules (no stock, no inventions).
+      let hero = null;
+      try {
+        const post = matter(await readFile(join(POSTS_DIR, `${firstStop}.md`), 'utf8')).data;
+        hero = post.heroImage?.url ?? null;
+      } catch {}
+      if (!hero) continue;
+      targets.push({
+        key,
+        title: `${data.city} ${data.days}-Day Itinerary — free, day by day`,
+        pinTitle: `${data.city} ${data.days}-Day Itinerary (Free)`,
+        description: `A verified day-by-day ${data.city} plan — real opening hours, crowd timing, rain backups. Read it free, or get it emailed to you to keep.`,
+        link: `${SITE_URL}/itinerary/${f.replace(/\.md$/, '')}/`,
+        country: data.country,
+        region: data.city,
+        heroUrl: hero,
+      });
+    }
+  } catch {}
+  return targets;
+}
+
 // ── main ─────────────────────────────────────────────────────
 async function main() {
   if (!TOKEN && !DRY && process.env.PINTEREST_APP_SECRET) {
@@ -198,9 +241,45 @@ async function main() {
     return days >= 30 && days <= 150 ? 1 : 0;
   };
   posts.sort((a, b) => seasonScore(b) - seasonScore(a) || String(b.pubDate).localeCompare(String(a.pubDate)));
-  const batch = posts.slice(0, perRun);
 
-  console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), pinning ${batch.length} this run${DRY ? ' (DRY)' : ''}\n`);
+  // One magnet pin per run takes the first slot while unpinned targets remain.
+  state.magnetPinned = state.magnetPinned || {};
+  const magnetTargets = await loadMagnetTargets(state);
+  const magnet = magnetTargets[0] ?? null;
+  const batch = posts.slice(0, magnet ? Math.max(0, perRun - 1) : perRun);
+
+  console.log(`\n📌 Pinterest — ${posts.length} unpinned post(s), ${magnetTargets.length} magnet target(s), pinning ${batch.length + (magnet ? 1 : 0)} this run${DRY ? ' (DRY)' : ''}\n`);
+
+  let magnetOk = 0;
+  if (magnet) {
+    try {
+      const img = await composePin({ title: magnet.title, heroImage: { url: magnet.heroUrl }, region: magnet.region, country: magnet.country });
+      if (DRY) { console.log(`  · would pin ${magnet.key} (${(img.length / 1024).toFixed(0)}KB)`); magnetOk++; }
+      else {
+        const boardId = await ensureBoard(magnet.country, state);
+        const pin = await api('/pins', {
+          method: 'POST',
+          body: JSON.stringify({
+            board_id: boardId,
+            title: magnet.pinTitle.slice(0, 100),
+            description: magnet.description.slice(0, 500),
+            alt_text: magnet.title.slice(0, 500),
+            link: magnet.link,
+            media_source: { source_type: 'image_base64', content_type: 'image/jpeg', data: img.toString('base64') },
+          }),
+        });
+        state.magnetPinned[magnet.key] = pin.id;
+        magnetOk++;
+        console.log(`  ✅ ${magnet.key} → pin ${pin.id}`);
+      }
+    } catch (err) {
+      console.log(`  ⚠️  ${magnet.key} — ${err.message}`);
+      if (err.status === 401 || err.status === 403 || /Trial access/i.test(err.message)) {
+        // Same stop conditions as post pins; fall through so the loop below
+        // hits them too and sets the proper flags.
+      }
+    }
+  }
 
   let done = 0, failed = 0, authFailed = false, trialBlocked = false;
   for (const post of batch) {
@@ -240,11 +319,11 @@ async function main() {
   delete state._boardList;
   if (!DRY) await writeFile(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
 
-  const total = Object.keys(state.pinned).length;
-  console.log(`\n📦 ${done} pinned · ${failed} failed · ${total} total pins\n`);
+  const total = Object.keys(state.pinned).length + Object.keys(state.magnetPinned || {}).length;
+  console.log(`\n📦 ${done + magnetOk} pinned (${magnetOk} magnet) · ${failed} failed · ${total} total pins\n`);
   if (authFailed) console.log('PIN_AUTH_FAILED'); // workflow turns this into a Korean Telegram alert
   if (trialBlocked) console.log('PIN_TRIAL_BLOCKED');
-  console.log(`PIN_SUMMARY new=${done} total=${total}`);
+  console.log(`PIN_SUMMARY new=${done + magnetOk} total=${total}`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
