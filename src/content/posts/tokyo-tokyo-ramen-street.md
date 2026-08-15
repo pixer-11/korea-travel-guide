@@ -5,6 +5,11 @@ country: Japan
 region: Tokyo
 category: restaurant
 pubDate: '2026-07-22T09:05:55.807Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Shoyu_Ramen_%40_Shichisai_%40_Tokyo_Ramen_Street_%2813165344585%29.jpg/3840px-Shoyu_Ramen_%40_Shichisai_%40_Tokyo_Ramen_Street_%2813165344585%29.jpg"
+    credit: "Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Shoyu_Ramen_@_Shichisai_@_Tokyo_Ramen_Street_(13165344585).jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/27653413_qDuJkjhUEm7GXxcwFn9E-J7L-k2p6R2WbX64esqSvlY.jpg
   credit: 'Photo: Foursquare user content (Tokyo Ramen Street (東京ラーメンストリート))'
