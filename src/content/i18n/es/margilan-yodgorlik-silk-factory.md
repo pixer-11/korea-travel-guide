@@ -2,70 +2,70 @@
 lang: es
 slug: margilan-yodgorlik-silk-factory
 srcHash: 'd1b2bfa5e66b'
-title: 'Fábrica de Seda Yodgorlik: Guía de viaje de Margilán (4.2★)'
-description: 'La Fábrica de Seda Yodgorlik en Margilán ofrece un recorrido práctico que muestra cada etapa de la elaboración de la seda uzbeka, desde hervir los capullos hasta tejer a mano la tela khan-atlas. 4.2★ (217 reseñas): qué dicen los visitantes, horarios y consejos.'
-quickAnswer: La Fábrica de Seda Yodgorlik en Margilán ofrece un recorrido práctico que muestra cada etapa de la elaboración de la seda uzbeka, desde hervir los capullos hasta tejer a mano la tela khan-atlas. Está abierta todos los días de 8am a 5pm, y como se mantiene poco conocida incluso para los estándares del Valle de Fergana, normalmente puedes entrar directamente sin esperar. Reserva alrededor de una hora, y lleva efectivo si quieres comprar pañuelos o telas en la tienda anexa.
+title: 'Fábrica de Seda Yodgorlik: Guía de Viaje de Margilán (4.2★)'
+description: 'La Fábrica de Seda Yodgorlik, en Margilán, ofrece un recorrido práctico por todas las etapas de la fabricación tradicional de seda uzbeka, desde el hervido de los capullos hasta el tejido a mano de la tela khan-atlas. 4.2★ (217 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: En la Fábrica de Seda Yodgorlik, en Margilán, se puede hacer un recorrido práctico por todas las etapas de la fabricación tradicional de seda uzbeka, desde el hervido de los capullos hasta el tejido a mano de la tela khan-atlas. Abre todos los días de 8:00 a 17:00 y, como se mantiene bastante desconocida incluso para los estándares del valle de Fergana, normalmente se puede entrar sin esperar. Conviene reservar una hora para la visita y llevar efectivo si se quiere comprar pañuelos o telas en la tienda del lugar.
 faq:
-  - q: ¿Cuánto tiempo debería pasar en la Fábrica de Seda Yodgorlik?
-    a: Planea alrededor de una hora para recorrer todas las etapas —hervido de capullos, devanado a mano, teñido y tejido— sin sentirte apresurado.
-  - q: ¿Cuáles son los horarios de apertura?
-    a: Abierto todos los días, incluidos los fines de semana, de 8:00 AM a 5:00 PM. No hay cierre al mediodía, así que cualquier momento dentro de ese horario funciona.
-  - q: ¿Cuándo es el momento más tranquilo para visitar?
-    a: Las mañanas de días de semana suelen ser las más tranquilas. La fábrica es poco conocida en comparación con otras paradas del Valle de Fergana, así que raramente hay aglomeraciones a cualquier hora, pero llegar un par de horas antes del cierre a las 5pm evita sentirte apresurado.
-  - q: ¿Cómo llego a Margilán y a la fábrica?
-    a: La mayoría de los visitantes se alojan en la ciudad de Fergana, a unos 12km de distancia, y toman un taxi compartido o un auto privado (20-30 minutos). Desde Tashkent, es un vuelo doméstico o un viaje en auto de 5-6 horas por el paso de Kamchik.
-  - q: ¿Puedo comprar productos de seda ahí?
-    a: Sí, hay una pequeña tienda en el lugar que vende pañuelos de seda khan-atlas, tela por metro y prendas terminadas. Lleva efectivo, ya que el pago con tarjeta puede ser poco confiable en esta zona.
+  - q: ¿Cuánto tiempo hay que dedicarle a la Fábrica de Seda Yodgorlik?
+    a: 'Conviene calcular una hora para recorrer con calma todas las etapas: el hervido de los capullos, el devanado a mano, el teñido y el tejido.'
+  - q: ¿Cuál es el horario de apertura?
+    a: Abre todos los días, incluidos los fines de semana, de 8:00 a 17:00. No cierra al mediodía, así que se puede visitar en cualquier momento dentro de ese horario.
+  - q: ¿Cuál es el mejor momento para ir sin aglomeraciones?
+    a: Las mañanas entre semana suelen ser las más tranquilas. Al ser una fábrica poco conocida en comparación con otras paradas del valle de Fergana, rara vez hay aglomeraciones a cualquier hora, aunque conviene llegar un par de horas antes del cierre, a las 17:00, para no sentirse apurado.
+  - q: ¿Cómo se llega a Margilán y a la fábrica?
+    a: La mayoría de los visitantes se alojan en la ciudad de Fergana, a unos 12 km de distancia, y llegan en taxi compartido o coche privado (20-30 minutos). Desde Taskent, se puede tomar un vuelo doméstico o conducir entre 5 y 6 horas cruzando el paso de Kamchik.
+  - q: ¿Se pueden comprar productos de seda allí?
+    a: Sí, hay una pequeña tienda en el mismo lugar que vende pañuelos khan-atlas, tela por metro y prendas terminadas. Conviene llevar efectivo, ya que el pago con tarjeta puede no ser fiable en esta zona.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se obtienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 
-Margilán ha hilado seda durante más de mil años, y Yodgorlik es la única fábrica que todavía lo hace casi enteramente a mano. Sin cintas transportadoras, sin telares automatizados que ahoguen la conversación: solo hileras de trabajadores haciendo lo mismo que generaciones anteriores hicieron.
+Margilán lleva más de mil años hilando seda, y Yodgorlik es la única fábrica que todavía lo hace casi por completo a mano. Aquí no hay cintas transportadoras ni telares automáticos que ahoguen las conversaciones: solo hileras de trabajadores repitiendo los mismos gestos que generaciones anteriores.
 
-Vienes aquí no por una experiencia de museo pulida, sino por el piso de trabajo real y algo caótico de una fábrica que nunca dejó de usar métodos tradicionales.
+No se viene aquí en busca de un museo pulido, sino para conocer el taller real, algo caótico, de una fábrica que nunca dejó de usar los métodos tradicionales.
 
-## Lo que realmente verás
+## Qué se ve realmente
 
-El recorrido avanza de sala en sala, siguiendo el hilo desde el capullo hasta la tela. Comienza en un espacio lleno de vapor donde los capullos hierven en tinas, suavizando la seda para que pueda desenrollarse en un hilo continuo.
+El recorrido avanza de sala en sala, siguiendo el hilo desde el capullo hasta la tela terminada. Comienza en un espacio lleno de vapor, donde los capullos hierven en tinas para ablandar la seda y poder desenrollarla en un solo hilo continuo.
 
-Luego vienen las salas de devanado, donde mujeres retuercen el filamento crudo en bobinas a mano, con los dedos moviéndose rápido sobre hilos tan finos que apenas se ven. Después llega la sala de teñido: tinas de rojo intenso, índigo y amarillo mostaza, con un olor fuerte y mineral.
+Después vienen las salas de devanado, donde las mujeres retuercen a mano el filamento crudo sobre carretes, con dedos que se mueven veloces sobre hilos tan finos que apenas se distinguen. Luego llega la sala de teñido, con sus tinas de rojo intenso, índigo y amarillo mostaza, y un olor fuerte y mineral que impacta de inmediato.
 
-Finalmente llegas a los telares. Aquí es donde toma forma la famosa tela khan-atlas de Margilán, con sus ondulantes patrones ikat construidos hilo a hilo en telares de madera que crujen con cada pasada de la lanzadera.
+Finalmente se llega a los telares. Aquí es donde toma forma la famosa tela khan-atlas de Margilán, con sus ondulantes diseños ikat construidos hilo a hilo en telares de madera que crujen con cada pasada de la lanzadera.
 
 - Estación de hervido y desenrollado de capullos
 - Sala de devanado a mano
 - Tinas de teñido natural
-- Telares tradicionales de madera que tejen seda khan-atlas
-- Pequeña tienda en el lugar para pañuelos, telas y prendas terminadas
+- Telares de madera tradicionales que tejen la seda khan-atlas
+- Pequeña tienda en el lugar con pañuelos, telas y prendas terminadas
 
 ## Cómo llegar
 
-Yodgorlik se encuentra en Ul. Zukhro en Margilán, en el Valle de Fergana de Uzbekistán. La mayoría de los visitantes llegan a Margilán desde la ciudad de Fergana, a unos 12km de distancia, en taxi compartido o auto privado; el viaje toma aproximadamente 20-30 minutos.
+Yodgorlik se encuentra en la calle Zukhro (Ul. Zukhro), en Margilán, dentro del valle de Fergana, en Uzbekistán. La mayoría de los visitantes llega desde la ciudad de Fergana, a unos 12 km de distancia, en taxi compartido o coche privado; el trayecto dura entre 20 y 30 minutos.
 
-Si vienes desde Tashkent, es un viaje de todo el día: un vuelo doméstico o un pintoresco trayecto en auto de 5-6 horas por el paso de Kamchik. Muchos viajeros combinan la fábrica con una parada en el Bazar Kumtepa de Margilán, uno de los grandes mercados de seda y textiles de la región.
+Si se viene desde Taskent, es una excursión de un día completo: hay que tomar un vuelo doméstico o conducir entre 5 y 6 horas por una ruta panorámica que cruza el paso de Kamchik. Muchos viajeros aprovechan para combinar la visita a la fábrica con una parada en el Bazar Kumtepa de Margilán, uno de los grandes mercados de seda y textiles de la región.
 
-Un taxi local o un conductor concertado por el hotel es la forma más fácil de encontrar la dirección exacta, ya que está escondida en una calle secundaria residencial en lugar de una vía principal.
+Como la fábrica está escondida en una calle residencial y no sobre una vía principal, lo más sencillo para encontrar la dirección exacta es tomar un taxi local o un conductor organizado por el hotel.
 
 ## Cuándo ir
 
-La fábrica está abierta todos los días de 8am a 5pm, así que no hay un horario matutino o vespertino especial que planificar. Las mañanas de días de semana suelen ser las más tranquilas, ya que la mayoría de los visitantes aquí son viajeros independientes en lugar de grupos en autobús turístico.
+La fábrica abre todos los días de 8:00 a 17:00, así que no hay que preocuparse por franjas horarias especiales de mañana o de noche. Las mañanas entre semana suelen ser las más tranquilas, ya que la mayoría de los visitantes son viajeros independientes y no grupos de turistas en autobús.
 
-Debido a que Yodgorlik se mantiene relativamente poco conocida en comparación con paradas más grandes del Valle de Fergana, es poco probable que encuentres aglomeraciones reales a cualquier hora. Aun así, procura llegar un par de horas antes del cierre para no sentirte apresurado en las salas de teñido y tejido.
+Como Yodgorlik se mantiene relativamente poco conocida en comparación con otras paradas más grandes del valle de Fergana, es difícil encontrarse con verdaderas multitudes a cualquier hora. Aun así, conviene llegar un par de horas antes del cierre para recorrer sin prisas las salas de teñido y tejido.
 
-La primavera y el otoño son las temporadas más agradables para el Valle de Fergana en general, ya que evitan el intenso calor del verano que puede hacer que el piso de la fábrica, sin aire acondicionado, se sienta sofocante.
+En general, la primavera y el otoño son las estaciones más agradables para visitar el valle de Fergana, ya que evitan el calor intenso del verano, que puede volver sofocante el piso de la fábrica al no contar con aire acondicionado.
 
-## Cómo visitar como un local
+## Cómo visitarla como un local
 
-Trata esto menos como una atracción turística y más como una visita a un negocio artesanal en funcionamiento, porque eso es exactamente lo que es. Viste de manera modesta y cómoda; estarás de pie y caminando sobre pisos de fábrica desnivelados durante la mayor parte de la visita.
+Conviene tratar este lugar menos como una atracción turística y más como la visita a un taller artesanal en pleno funcionamiento, porque eso es exactamente lo que es. Es recomendable vestir de forma modesta y cómoda, ya que gran parte de la visita se hace de pie y caminando sobre pisos irregulares.
 
-- Pago: lleva efectivo (som uzbeko) para la tienda; las máquinas de tarjeta no son confiables tan lejos de Tashkent
-- Reserva: no se necesita reserva; simplemente presenta durante el horario de apertura
-- Etiqueta: pregunta antes de fotografiar a los trabajadores de cerca, y se aprecia una propina modesta si alguien te da una explicación personal
-- Pide/compra: pañuelos de seda khan-atlas y tela por metro, los artículos de mejor relación calidad-precio de la tienda
-- Error a evitar: apresurarte en 15 minutos; el proceso solo tiene sentido si lo sigues sala por sala
+- Pago: llevar efectivo (som uzbeko) para la tienda, ya que los lectores de tarjeta no son confiables tan lejos de Taskent
+- Reserva: no hace falta reservar; basta con presentarse dentro del horario de apertura
+- Etiqueta: pedir permiso antes de fotografiar de cerca a los trabajadores, y tener en cuenta que una pequeña propina es bien recibida si alguien ofrece una explicación personal
+- Qué pedir o comprar: pañuelos de seda khan-atlas y tela por metro, los productos de mejor relación calidad-precio de la tienda
+- Error que evitar: recorrer todo en 15 minutos; el proceso solo cobra sentido si se sigue sala por sala
 
-Dedícale una hora completa, no una parada rápida para fotos. El valor aquí está en observar la secuencia desarrollarse —hervido, devanado, teñido, tejido— y no en ninguna estación por sí sola.
+Vale la pena dedicarle una hora completa, no una parada rápida para tomar fotos. El verdadero valor está en observar toda la secuencia —hervido, devanado, teñido, tejido— y no en una sola estación por separado.
 
-Como no está abrumada de visitantes, los trabajadores suelen estar dispuestos a explicar su parte del proceso directamente, especialmente si muestras un interés genuino en lugar de tratarlo como una curiosidad de paso.
+Al no estar desbordada de visitantes, los trabajadores suelen estar dispuestos a explicar directamente su parte del proceso, sobre todo si perciben un interés genuino y no una simple curiosidad de paso.
