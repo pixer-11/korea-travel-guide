@@ -214,6 +214,11 @@ const LICENSE_LABEL = {
   7: 'No known copyright restrictions', 9: 'CC0', 10: 'Public Domain Mark',
 };
 
+// DORMANT BY DECISION, not by accident: the Flickr API is paid, so no key is
+// configured and none should be requested — that is the whole reason Openverse
+// (which indexes Flickr's CC photos for free) was added below. Proposing "just
+// get a Flickr key" re-litigates a settled verdict; it happened once on
+// 2026-08-15 and the owner had to correct it.
 export async function flickrPhotos({ name, lat, lng, near, limit = 4 }) {
   const key = process.env.FLICKR_API_KEY;
   if (!key || !name) return [];
