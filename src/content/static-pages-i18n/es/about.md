@@ -11,7 +11,7 @@ Wander Atlas es un recurso curado y revisado por un editor para visitantes inter
 
 ## El editor
 
-Cada guía de este sitio es revisada por **Pixer** — un editor de viajes coreano que ha viajado y documentado personalmente países de Asia, Europa, América y Oceanía: todo Vietnam y Tailandia, la mayor parte de Corea del Sur, además de Japón, Singapur, Laos, Camboya, Indonesia, Hong Kong, Macao, China, Mongolia, Francia, España, Georgia, la República Checa, Rusia, Estados Unidos, Australia y Nueva Zelanda, entre otros — y que sigue viajando, ampliando los registros e información de este sitio con cada viaje. Pixer es un seudónimo; te lo decimos abiertamente en lugar de inventar una persona. Las guías de los países que el editor ha visitado están marcadas en la página de inicio, y nunca afirmamos haber realizado visitas personales que no hemos hecho.
+Cada guía de este sitio es revisada por **Pixer** — un editor de viajes coreano que ha viajado y documentado personalmente países de Asia, Europa, América y Oceanía: todo Vietnam y Tailandia, la mayor parte de Corea del Sur, además de Japón, Singapur, Laos, Camboya, Indonesia, Hong Kong, Macao, China, Taiwán, Mongolia, Francia, España, Georgia, la República Checa, Rusia, Estados Unidos, Australia y Nueva Zelanda, entre otros — y que sigue viajando, ampliando los registros e información de este sitio con cada viaje. Pixer es un seudónimo; te lo decimos abiertamente en lugar de inventar una persona. Las guías de los países que el editor ha visitado están marcadas en la página de inicio, y nunca afirmamos haber realizado visitas personales que no hemos hecho.
 
 ## Asistencia de IA
 
