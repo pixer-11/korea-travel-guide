@@ -166,6 +166,20 @@ jobs:
       - name: Repair broken Korean syllables
         run: node scripts/fix-broken-syllables.mjs
 
+      # Naturalness gate for the run's own translations: the owner read
+      # English word order inside a Korean paragraph on 2026-08-15, and the
+      # corpus audit measured 13% clearly translation-flavored. Every i18n
+      # file this run touched is judged by the shared native-editor judge
+      # (scripts/lib/translation-quality.mjs); score 2+ gets ONE rewrite
+      # through the translator's rewrite prompt and a re-judge. Runs before
+      # the commit so repairs ship the same day — a repair after the push
+      # never happened (photo-identity strip, 2026-08-14).
+      - name: Translation naturalness gate
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/translation-quality-gate.mjs
+
       # Country/city NAMES for ko/ja/es/zh. Idempotent (skips what it already has),
       # so this only costs anything when a new country or city appears — without it
       # a newly added destination shows its English name on every localized page.
@@ -435,7 +449,7 @@ jobs:
           # country-facts.json and the essentials guides are here because the
           # step above can create them for a newly added country; without them
           # staged, that work is generated and then thrown away on every run.
-          git add data/visual-audit.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
+          git add data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
