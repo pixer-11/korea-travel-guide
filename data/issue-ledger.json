@@ -1,16 +1,406 @@
 {
   "validate-content": {},
-  "audit-translations": {},
-  "audit-hours-claims": {
-    "HOURS-CONTRADICTION goa-naval-aviation-museum.md": {
-      "since": "2026-08-14",
-      "last": "2026-08-14",
+  "audit-translations": {
+    "korean-leak, posts/zh/abu-dhabi-the-corrs-live-in-concert.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
       "seen": 1
     },
-    "HOURS-CONTRADICTION little-india-chola-cafe-biryani-house-best-biryani-in-singapore.md": {
-      "since": "2026-08-14",
-      "last": "2026-08-14",
+    "korean-leak, posts/zh/ajman-the-seat-cafe.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/alcaniz-motogp-aragon-grand-prix.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/alcaniz-parador-de-alcaniz.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/bangkok-chatuchak-weekend-market.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/barcelona-la-colmena.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/barcelona-parada-torres.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/bhubaneswar-regional-museum-of-natural-history.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/bologna-basilica-of-san-domenico.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/cebu-sirao-garden.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/chandigarh-quick-style-india-tour-2026.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/chiang-mai-garden-to-table-chiangmai.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/chiba-tokyo-and-osaka-summer-sonic-2026.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/chicago-illinois-lollapalooza-2026.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/cordoba-torre-de-la-calahorra.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/dubai-def-leppard-live-in-concert.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/east-coast-national-museum-of-singapore.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/foxborough-bts-world-tour.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/gangneung-anmok-beach.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/gangneung-gyeongpo-lake.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/goa-goa-market.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/goyang-ilsan-lake-park.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/granada-parque-de-las-ciencias.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/hanoi-hong-hoai-s-restaurant.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/hiroshima-hiroshima-breakfast.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/ho-chi-minh-city-yakiuo-ishikawa.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/hoi-an-nhan-s-kitchen.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/hyderabad-chowmahalla-palace.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/incheon-one-universe-festival-2026.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/istanbul-amr-diab-live-in-istanbul.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/istanbul-ateez-in-your-fantasy-world-tour.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/istanbul-sen-den-restaurant.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/jakarta-the-weeknd-after-hours-til-dawn-tour.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/jinju-jinju-national-museum.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/jordan-yaumatei-tin-hau-temple.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/kokand-palace-of-khudayar-khan.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/kolkata-howrah-bridge.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/kyoto-imaya-kyoto-coffee.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/kyoto-yoichiba.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/le-castellet-bol-d-or-fim-endurance-world-championship-finale.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/los-angeles-lielle.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/los-angeles-the-getty.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/los-angeles-the-last-bookstore.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/lyon-boulangerie-du-palais.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/lyon-cafe-joyeux.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/madrid-formula-1-spanish-grand-prix-madring.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/madrid-royal-palace-of-madrid.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/makati-city-john-legend-an-evening-of-songs-stories.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/makati-kariton-x-sabi-sounds.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/manila-rizal-park.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/medan-tjong-a-fie-mansion.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/milan-yapa.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/mount-bromo-sea-of-sand-bromo.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/mumbai-leopold-cafe.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/nashville-country-music-hall-of-fame-and-museum.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/new-orleans-new-orleans-museum-of-art.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/new-york-city-atomix.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/new-york-conservatory-garden.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/new-york-ocean-prime.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/new-york-one-world-observatory.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/osaka-lilo-coffee-roasters.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/paju-the-third-tunnel.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/pattaya-sheeva-cafe.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/saadiyat-island-manarat-al-saadiyat.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/san-sebastian-bar-txepetxa.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/sapporo-mermaid-coffee-roasters.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/seoul-artist-bakery.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/seoul-cafe-3-stripes-seoul.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/seoul-mil-toast.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/singapore-bop-bartenders-of-pony.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/tokyo-formula-e-tokyo-e-prix.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/tokyo-smith-wollensky.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/tokyo-tokyo-tower.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/tokyo-vannelli-coffee.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/turin-mole-antonelliana.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/yeosu-keunkkeut-lighthouse.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
+      "seen": 1
+    },
+    "korean-leak, posts/zh/yokohama-yokohama-chinatown.md": {
+      "since": "2026-08-15",
+      "last": "2026-08-15",
       "seen": 1
     }
-  }
+  },
+  "audit-hours-claims": {}
 }
