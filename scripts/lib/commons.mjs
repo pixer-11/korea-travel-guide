@@ -30,6 +30,9 @@ export const cleanCommonsUrl = (u) =>
 
 export const tokens = (s = '') =>
   String(s)
+    // Fold accents BEFORE stripping non-ASCII, else "Tiësto" splits into
+    // "ti" + "sto" and neither is the act (2026-08-15).
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
     .toLowerCase()
     .replace(/[^a-z0-9\s]/g, ' ')
     .split(/\s+/)
@@ -60,11 +63,35 @@ const ANCHOR_STOP = new Set([
 
 // Most distinctive word of a name — e.g. "Gyeongbokgung Palace" -> "gyeongbokgung",
 // "Post Malone – Big Ass World Tour" -> "malone", "UFC Fight Night …" -> "ufc".
-export const keyToken = (s = '') => {
+export const keyToken = (s = '', exclude = '') => {
   const all = tokens(s); // already length > 2
   const ordinal = (w) => /^\d+(st|nd|rd|th)$/i.test(w); // "83rd" must not anchor
   const yearLike = (w) => /^(19|20)\d{2}$/.test(w); // "2026" must not anchor either
-  const bad = (w) => ANCHOR_STOP.has(w) || ordinal(w) || yearLike(w);
+  // Optional: words that name the WHERE, not the WHAT. An event's own city
+  // in its name ("Dubai Summer Surprises", "Hue Festival") is the least
+  // distinctive word in it — anchoring there searched Commons for the city
+  // and found skyline photos of nothing in particular. Callers that know the
+  // post's region/country pass them here; every other caller is unchanged.
+  const excl = new Set(tokens(exclude));
+  const bad = (w) => ANCHOR_STOP.has(w) || ordinal(w) || yearLike(w) || excl.has(w);
+  // The act's name is almost always the FIRST word, and K-pop acts are short:
+  // "BTS World Tour – Arlington" anchored on "arlington" (tokens() drops
+  // ≤2-char words and the >3 preference skipped "bts"), "F4 … Meteor Garden"
+  // on "meteor", "PLK Stade de France" on "stade", "U-Know … Yunho" on
+  // "know". Thirteen of the 33 photoless event posts on 2026-08-15 were this
+  // one defect — searching Commons for the venue or tour name instead of the
+  // act, and finding nothing, while "BTS concert" returns CC Wembley photos.
+  // So: a short (2-3 char) leading word that is not a stop-word anchors,
+  // ahead of the length>3 preference. Only the FIRST word gets this
+  // exemption — "Live at F1" must not anchor on "f1".
+  // Accents fold first ("Tiësto" → "tiesto", not "ti"), and a hyphenated
+  // lead word is one name ("U-Know" → "u-know", not "know").
+  const folded = String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const leadRaw = folded.match(/^[^a-z0-9]*([a-z0-9]+(?:-[a-z0-9]+)*)/)?.[1] || '';
+  const leadCore = leadRaw.replace(/-/g, '');
+  if (leadRaw.includes('-') && leadCore.length >= 3 && !bad(leadCore)) return leadRaw;
+  const lead = leadCore.length >= 2 && leadCore.length <= 3 ? leadCore : '';
+  if (lead && !bad(lead) && !/^(an?|of|in|at|to|on|by|de|la|el|le|il|un|le|the)$/.test(lead)) return lead;
   // If EVERY token is a stop-word/ordinal (e.g. "Italian Grand Prix" → all stops),
   // return '' — an empty anchor cleanly routes to the event-TYPE image instead of
   // falling back to all[0] ("italian") and fetching an Italian-landscape photo.
@@ -132,8 +159,22 @@ const UNUSABLE_SUBJECT =
 // Why a file name disqualifies a photo, or '' if it does not. Exported so the
 // hero audit applies the same test the carousel does — the Cloud Gate guide
 // failed both places at once, and fixing one would have left the other.
-export function heroTitleProblem(fileName, subject) {
+// A file whose NAME dates it 15+ years back is an archive shot. Fine for a
+// castle; wrong for an event guide — a 1986 paddock photo headed the 2026
+// Misano MotoGP page, a 2004 Ferrari the Monza one (owner, 2026-08-15).
+// The Commons width prefix ("1920px-") is stripped first so it can't read
+// as a year, and the check is exported so callers that know they are
+// choosing for an EVENT can apply it; venue posts are left alone.
+const ARCHIVE_YEARS = 15;
+export function archiveYearProblem(fileName, now = new Date().getFullYear()) {
+  const bare = String(fileName).replace(/^\d+px-/, '');
+  const m = bare.match(/(?<![0-9])(18[0-9]{2}|19[0-9]{2}|20[0-9]{2})(?![0-9])/);
+  return m && now - Number(m[1]) >= ARCHIVE_YEARS ? `archive-${m[1]}` : '';
+}
+
+export function heroTitleProblem(fileName, subject, { event = false } = {}) {
   if (UNUSABLE_SUBJECT.test(fileName)) return 'unusable';   // construction, signage, plans
+  if (event) { const a = archiveYearProblem(fileName); if (a) return a; }
   if (!namesSubjectNotVantage(fileName, subject)) {
     const words = String(subject || '').toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || [];
     const hay = (fileName.toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) || []).map(stem);
@@ -354,7 +395,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
 // minWidth 1200: Google Discover only serves large image cards from photos at
 // least 1200px wide, and the hero doubles as og:image — a narrower pick costs
 // the page Discover distribution. Event mode still overrides down to 600.
-export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null } = {}) {
+export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false } = {}) {
   // subject/near were added to commonsCandidates for the Instagram carousel and,
   // for a while, ONLY the carousel passed them — so the vantage test and the
   // geo limit did nothing at all on the path that picks the hero image every
@@ -400,7 +441,11 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       // identity-matched, half a century stale — as a 2026 event hero
       // (2026-08-09; the region-cover backfill hit the same class twice the
       // same day). Historical photos are wrong for venue tiles too.
-      const archival = /(18|19)\d{2}/.test(c.title);
+      // Events get the stricter 15-year rule on top: "Fale_F1_Monza_2004",
+      // "Tomatina_2006", a 1986 Misano paddock — genuinely the event,
+      // decades stale for a 2026 guide (owner, 2026-08-15). Venue tiles keep
+      // the 18xx/19xx rule alone; a castle photographed in 2004 is fine.
+      const archival = /(18|19)\d{2}/.test(c.title) || (event && !!archiveYearProblem(c.title));
       const scenic = !BORING.test(c.title);
       return { c, overlap, rank: i, ok: passesMust && overlap >= 1 && landscape && bigEnough && scenic && !archival && (!cross || crossN >= minCross || foreignN === 0) };
     })

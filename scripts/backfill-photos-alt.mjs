@@ -231,7 +231,9 @@ for (const f of files) {
     // that doesn't must be explainable ENTIRELY by the event's own words
     // (type / city / country / dates): one leftover proper noun means it is
     // some other act's photo, however on-topic it looks.
-    const anchor = keyToken(venueName);
+    // Same exclusion the generator's resolveHero applies in event mode: the
+    // event's own city/country is where, not what — never the anchor.
+    const anchor = keyToken(venueName, `${data.region || ''} ${data.country || ''}`);
     const knownTok = new Set([
       ...tokens(venueName), ...tokens(eventTopic(venueName)),
       ...tokens(data.region || ''), ...tokens(data.country || ''),
@@ -349,7 +351,7 @@ for (const f of files) {
       continue;
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
-    data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source };
+    data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source, ...(vis.focus ? { focus: vis.focus } : {}) };
     // The verdict store is what validate-content trusts: without this line the
     // patrol's own vision-approved replacements were reported as UNVERIFIED-
     // PHOTO the same evening (2026-08-08, nine of them).

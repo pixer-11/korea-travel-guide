@@ -129,13 +129,17 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     if (lead) return mark(lead, used);
   }
 
-  if (namedVenue && keyToken(namedVenue)) {
-    const anchor = keyToken(namedVenue);
+  // For events, the post's own city/country in the name is the WHERE, not
+  // the act — never the anchor ("Dubai Summer Surprises" → "surprises", not
+  // "dubai"). Venue posts keep the plain call: "Dubai Mall" IS the place.
+  const anchorExclude = eventMode ? `${region || ''} ${country || ''}` : '';
+  if (namedVenue && keyToken(namedVenue, anchorExclude)) {
+    const anchor = keyToken(namedVenue, anchorExclude);
     // (anchor guaranteed non-empty by the guard above; an all-stop-word name like
     // "Italian Grand Prix" yields '' and skips straight to the event-type image.)
     // Events: the ideal hero is the performer/athlete, usually a portrait — allow
     // it (and a smaller ≥600px file) rather than dropping to a wrong-topic city shot.
-    const copts = eventMode ? { allowPortrait: true, minWidth: 600 } : {};
+    const copts = eventMode ? { allowPortrait: true, minWidth: 600, event: true } : {};
     // VENUE posts (non-event): a single shared token is NOT evidence the photo is
     // of this venue — "Art House Cafe"→"Art Picture House (UK)", "Into the
     // Forest"→a forest painting both passed that way. Require the image title to
