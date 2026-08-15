@@ -5,6 +5,11 @@ country: Vietnam
 region: Ho Chi Minh City
 category: trendy
 pubDate: '2026-08-05'
+heroImage:
+  url: /editor-photos/yakiuo-ishikawa-saigon-entrance.jpg
+  credit: 'Photo: Pixer / Wander Atlas'
+  license: editor
+  source: 'editor-original — Yakiuo Ishikawa Saigon entrance, Thai Van Lung, District 1'
 gallery: []
 tags:
   - ho chi minh city
@@ -22,7 +27,6 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: The District 1 location is within easy reach of the Saigon riverside, Nguyen Hue walking street, and the district's rooftop bar scene, making it easy to pair dinner with drinks or a stroll afterward.
 aiGenerated: true
-draft: true
 ---
 
 ## Why this place is turning heads

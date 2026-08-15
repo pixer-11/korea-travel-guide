@@ -43,7 +43,10 @@ const posts = defineCollection({
       .object({
         url: z.string(),
         credit: z.string(),
-        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc']),
+        // 'editor': shot in person by the site's editor (first two: Yakiuo
+        // Ishikawa + La Scène, HCMC, 2026-08-15). Served from /editor-photos/,
+        // identity proven by the photograph itself, credit "Photo: Pixer".
+        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor']),
         source: z.string(),
       })
       .optional(),
@@ -53,7 +56,10 @@ const posts = defineCollection({
         z.object({
           url: z.string(),
           credit: z.string(),
-          license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc']),
+          // 'editor': shot in person by the site's editor (first two: Yakiuo
+        // Ishikawa + La Scène, HCMC, 2026-08-15). Served from /editor-photos/,
+        // identity proven by the photograph itself, credit "Photo: Pixer".
+        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor']),
           source: z.string(),
         })
       )

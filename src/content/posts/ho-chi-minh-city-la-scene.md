@@ -5,6 +5,11 @@ country: Vietnam
 region: Ho Chi Minh City
 category: trendy
 pubDate: '2026-08-05'
+heroImage:
+  url: /editor-photos/la-scene-saigon-facade.jpg
+  credit: 'Photo: Pixer / Wander Atlas'
+  license: editor
+  source: 'editor-original — La Scene Saigon facade, 27 Tran Quang Long, Binh Thanh'
 gallery: []
 tags:
   - ho chi minh city
@@ -22,7 +27,6 @@ faq:
   - q: Is it good for a first-time visitor to Ho Chi Minh City?
     a: Yes, if you want a taste of the city's current café-and-bar creativity rather than just the traditional street-side coffee experience — it pairs well with an evening that also includes District 1's bar-hopping circuit.
 aiGenerated: true
-draft: true
 ---
 
 ## Why La Scène is worth your evening
