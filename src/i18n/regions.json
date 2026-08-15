@@ -7460,6 +7460,11 @@
       "blurb": "东海岸公园是新加坡最大的公园,占地185公顷,建在填海而成的海岸线上,拥有人造沙滩、骑行步道,还有一众露天海鲜档口,是本地人周末最爱扎堆的\"后院\"。与其说它是一个单一景点,不如说是一条悠长惬意的休闲地带——骑车、轮滑、烧烤,或看着远处海面上排队等候的货轮,气氛比市区那些光鲜亮丽的景点要随性低调得多。\",\"getting\":\"大多数旅客从樟宜机场(SIN)入境后,可乘坐地铁前往公园:搭乘东西线在勿洛(Bedok)站下车,或搭乘汤申-东海岸线在马林百列(Marine Parade)站下车,再转乘短程巴士,或步行约10-20分钟即可抵达海滨。由于没有地铁站直达沙滩,接驳巴士或穿过连接的地下通道/公园连道步行过去是常见做法。\",\"days\":\"建议安排半天到一天的时间,足以沿海岸线骑行或漫步、在沙滩上小憩,再享用一顿海鲜大餐,无需过夜即可尽兴。",
       "getting": "大多数旅客从樟宜机场(SIN)入境后,可乘坐地铁前往公园:搭乘东西线在勿洛(Bedok)站下车,或搭乘汤申-东海岸线在马林百列(Marine Parade)站下车,再转乘短程巴士,或步行约10-20分钟即可抵达海滨。由于没有地铁站直达沙滩,接驳巴士或穿过连接的地下通道/公园连道步行过去是常见做法。",
       "days": "建议安排半天到一天的时间,足以沿海岸线骑行或漫步、在沙滩上小憩,再享用一顿海鲜大餐,无需过夜即可尽兴。"
+    },
+    "ja": {
+      "blurb": "イーストコースト・パークはシンガポール最大の公園で、埋め立てによってできた海岸線が185ヘクタールにわたって広がっています。人工ビーチやサイクリングロード、オープンエアのシーフードレストランが並び、地元の人たちにとってはまさに週末の\"裏庭\"のような存在です。これといって一つの見どころがあるわけではなく、サイクリングやスケート、バーベキューを楽しみながら、沖に浮かぶ船を眺めて過ごす、のんびりとした長い海辺のエリア。街のきらびやかな観光名所とは対照的に、あえて肩の力を抜いた雰囲気が魅力です。",
+      "getting": "多くの旅行者はチャンギ空港(SIN)に到着し、MRTを利用して公園へ向かいます。イースト・ウエスト・ラインでベドック(Bedok)駅、またはトムソン・イーストコースト・ラインでマリーン・パレード(Marine Parade)駅まで行き、そこからバスに少し乗るか、徒歩約10〜20分で海岸に到着します。ビーチのすぐそばに駅はないため、バスに乗り継ぐか、地下道やパークコネクターを通って歩いていくのが一般的なアクセス方法です。",
+      "days": "半日から丸一日ほどを目安に考えておくとよいでしょう。海沿いをサイクリングまたは散策し、ビーチでひと休みしてシーフードを味わう——それだけの時間があれば十分で、宿泊の必要はありません。"
     }
   },
   "Kanchanaburi": {
@@ -7703,6 +7708,202 @@
       "blurb": "宜兰县位于台湾东北海岸,群山将它与台北隔开,面朝大海,渔港星罗棋布,中间是一片种满水稻的辽阔平原,温泉资源也十分丰沛。这里素有台湾\"温泉故乡\"之称,兰阳平原上的礁溪镇更是历久不衰的泡汤度假胜地；此外,沿海一带的渔港、内陆的山间秘境,以及各具特色的博物馆,也都值得一游。",
       "getting": "从台北前往宜兰,大多数旅客会选择搭乘台铁（TRA）列车到宜兰站或罗东站,若搭乘较快的自强号等快车,车程约1小时；也可以选择搭乘国道客运（如首都客运、葛玛兰客运）,从台北市府转运站、台北车站等市区站点出发,经雪山隧道快速抵达,车程同样约1至1.5小时。",
       "days": "若想从容游览温泉、海岸与乡野风光,建议安排约3天行程；如果只想专攻礁溪或兰阳博物馆等单一景点,从台北出发的一日游也完全足够。"
+    }
+  },
+  "Al Barsha": {
+    "en": {
+      "blurb": "Al Barsha is a bustling western Dubai district best known as home to the Mall of the Emirates and its indoor ski slope, Ski Dubai — a surreal slice of snow tucked inside the desert city. Beyond the mall, the area offers a mix of parks, budget-to-luxury hotels, and a notably diverse restaurant scene reflecting Dubai's expat population.",
+      "getting": "Al Barsha is served directly by the Dubai Metro Red Line, with Mall of the Emirates Station connected to the mall via an enclosed walkway, and the line also runs to Dubai International Airport (DXB), making the journey from the airport roughly ~30 minutes. Feeder buses and taxis fill in the last-mile connections for hotels and attractions set back from the metro stations.",
+      "days": "A single day is generally enough to cover Al Barsha's main draws — the mall, Ski Dubai, and a stroll through Al Barsha Pond Park — though shoppers may want longer."
+    },
+    "es": {
+      "blurb": "Al Barsha es un bullicioso distrito del oeste de Dubái, conocido sobre todo por albergar el Mall of the Emirates y su pista de esquí cubierta, Ski Dubai, una sorprendente porción de nieve escondida en pleno desierto. Más allá del centro comercial, la zona ofrece una combinación de parques, hoteles de todas las categorías (desde económicos hasta de lujo) y una escena gastronómica muy variada que refleja la nutrida población expatriada de Dubái.",
+      "getting": "Al Barsha cuenta con conexión directa a través de la Línea Roja del Metro de Dubái: la estación Mall of the Emirates se une al centro comercial mediante una pasarela cubierta, y la misma línea llega hasta el Aeropuerto Internacional de Dubái (DXB), por lo que el trayecto desde el aeropuerto ronda los 30 minutos. Los autobuses de conexión y los taxis completan el último tramo hacia los hoteles y atracciones que quedan algo alejados de las estaciones de metro.",
+      "days": "Con un solo día suele bastar para recorrer los principales atractivos de Al Barsha —el centro comercial, Ski Dubai y un paseo por el Al Barsha Pond Park—, aunque los amantes de las compras quizá prefieran quedarse más tiempo."
+    },
+    "zh": {
+      "blurb": "阿尔巴沙(Al Barsha)是迪拜西区一个繁华热闹的社区,最广为人知的是购物中心Mall of the Emirates及其室内滑雪场Ski Dubai——在这座沙漠之城中,竟藏着这样一片超现实的冰雪天地,令人称奇。除了购物中心之外,该区域还拥有多座公园、从经济型到豪华型一应俱全的酒店,以及一个格外多元的餐饮场景,充分体现了迪拜庞大的外籍人口构成。",
+      "getting": "迪拜地铁红线直接通达阿尔巴沙,其中Mall of the Emirates站通过一条封闭式天桥与购物中心相连,十分便捷。这条线路同时连接迪拜国际机场(DXB),从机场出发大约30分钟车程即可抵达。对于那些离地铁站稍远的酒店和景点,当地的接驳巴士和出租车可以补齐“最后一公里”的路程。",
+      "days": "通常一天时间足以游览阿尔巴沙的主要景点——购物中心、Ski Dubai滑雪场,以及在阿尔巴沙池塘公园(Al Barsha Pond Park)悠闲漫步一番。不过,如果你热衷购物,不妨多留一些时间。"
+    }
+  },
+  "Danyang": {
+    "en": {
+      "blurb": "Tucked into the limestone hills of North Chungcheong Province along the Namhan River, Danyang is best known for its network of show caves like Gosu Cave and Cheondong Cave, its \"Eight Scenic Views\" (Danyang Palgyeong), and the trailheads of Sobaeksan National Park. It's a small, laid-back county town that punches above its weight for outdoor adventure, from cave exploring and river cruises to skywalks and paragliding over the valley.",
+      "getting": "Danyang Station sits on the Jungang Line, with direct trains from Seoul's Cheongnyangni Station taking roughly 2-3 hours depending on the service; note the station itself is about 3km outside town, so a short local bus or taxi finishes the trip. Express and intercity buses from Seoul's terminals are the other main option, taking roughly 2.5-3 hours to Danyang's bus terminal in town.",
+      "days": "Plan on ~2 days to cover the main caves, a river or skywalk visit, and a taste of Sobaeksan's trails without rushing."
+    },
+    "ko": {
+      "blurb": "남한강을 따라 펼쳐진 충청북도의 석회암 지대 속에 자리한 단양은 고수동굴, 천동동굴 같은 신비로운 종유굴들과 '단양팔경'으로 불리는 여덟 곳의 절경, 그리고 소백산국립공원으로 향하는 등산로 입구로 잘 알려진 고장입니다. 규모는 작고 느긋한 분위기의 군 소재지이지만, 동굴 탐험과 강 유람선, 스카이워크, 계곡 위를 나는 패러글라이딩까지 다채로운 야외 액티비티를 즐길 수 있어 그 매력만큼은 결코 작지 않습니다.",
+      "getting": "단양역은 중앙선에 위치해 있으며, 서울 청량리역에서 열차를 타면 편성에 따라 대략 2~3시간이 소요됩니다. 다만 역이 시내에서 약 3km 떨어져 있어, 이후 시내버스나 택시로 짧게 이동해야 시내까지 도착할 수 있다는 점을 참고하세요. 서울 시내 터미널에서 출발하는 고속버스나 시외버스도 또 다른 좋은 선택지로, 단양 시내에 위치한 버스터미널까지 약 2.5~3시간 정도 걸립니다.",
+      "days": "서두르지 않고 주요 동굴들과 강 또는 스카이워크 코스, 그리고 소백산 등산로 일부까지 둘러보려면 2일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "南漢江(ナムハンガン)沿い、忠清北道の石灰岩の丘陵地帯に抱かれた丹陽(タニャン)は、高遂洞窟(コス洞窟)や天洞洞窟(チョンドン洞窟)といった観光鍾乳洞群、「丹陽八景」と呼ばれる景勝地、そして小白山(ソベクサン)国立公園への登山口で知られています。のどかで小さな郡庁所在地ながら、洞窟探検から川下りクルーズ、スカイウォーク、渓谷上空を飛ぶパラグライディングまで、アウトドア好きを満足させる魅力がぎゅっと詰まった町です。",
+      "getting": "丹陽駅は中央線沿いにあり、ソウルの清凉里(チョンニャンニ)駅から直通列車で所要時間はおよそ2~3時間(列車の種類により変動)。ただし駅自体は町から約3km離れているため、路線バスかタクシーで最後の区間を移動する必要があります。もう一つの主な行き方は、ソウルの各バスターミナルから出る高速バス・市外バスで、町なかにある丹陽バスターミナルまでおよそ2.5~3時間です。",
+      "days": "主要な鍾乳洞めぐりに加え、川下りやスカイウォーク見学、そして小白山のハイキングコースも少し味わいたいなら、慌ただしくならないよう2日程度を見ておくのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Enclavada entre las colinas calizas de la provincia de Chungcheong del Norte, a orillas del río Namhan, Danyang es célebre por su red de cuevas turísticas como Gosu Cave y Cheondong Cave, por sus \"Ocho Vistas Escénicas\" (Danyang Palgyeong) y por ser la puerta de entrada al Parque Nacional Sobaeksan. Se trata de un pequeño y tranquilo pueblo de condado que da mucho más de lo que su tamaño sugiere en materia de aventura al aire libre, desde la exploración de cuevas y los cruceros por el río hasta pasarelas suspendidas y parapente sobre el valle.",
+      "getting": "La estación de Danyang se encuentra en la línea Jungang, con trenes directos desde la estación Cheongnyangni de Seúl que tardan aproximadamente entre 2 y 3 horas según el servicio; hay que tener en cuenta que la estación está a unos 3 km del centro, por lo que hace falta tomar un autobús local o un taxi para completar el trayecto. Los autobuses expresos e interurbanos desde las terminales de Seúl son la otra opción principal, con un trayecto de entre 2,5 y 3 horas hasta la terminal de autobuses de Danyang, en pleno pueblo.",
+      "days": "Conviene reservar unos 2 días para recorrer las principales cuevas, disfrutar de un paseo por el río o por la pasarela panorámica, y probar algunas de las rutas de senderismo de Sobaeksan sin apuros."
+    },
+    "zh": {
+      "blurb": "丹阳坐落于忠清北道南汉江畔的石灰岩群山之中,以古藪洞、天洞窟等溶洞群闻名,同时也因“丹阳八景”和小白山国立公园的登山口而广受青睐。这座小巧悠闲的郡邑虽然地方不大,却是名副其实的户外探险胜地——从探洞、乘船游江,到高空玻璃栈道和峡谷滑翔伞,应有尽有。",
+      "getting": "丹阳站位于中央线上,从首尔清凉里站可乘直达列车前往,车程约2-3小时(视车次而定);需要注意的是,车站本身距市区约3公里,下车后还需转乘短途公交或出租车才能抵达市区。此外,从首尔各巴士客运站乘坐高速或市外巴士也是不错的选择,车程约2.5-3小时,可直达丹阳市区的客运站。",
+      "days": "建议预留约2天时间,从容游览主要溶洞、体验游船或高空栈道,再感受一下小白山国立公园的登山步道风光。"
+    }
+  },
+  "Koh Chang": {
+    "en": {
+      "blurb": "Koh Chang is Thailand's second-largest island, a rugged, jungle-clad national park where roughly 70% of the interior remains rainforest-covered mountains rather than resort strip. Its west coast beaches and interior waterfalls draw both backpackers and increasingly upscale travellers, but the island has kept a wilder, less-manicured feel than Phuket or Samui.",
+      "getting": "There's no airport on Koh Chang itself — the nearest is Trat Airport (TDX), served by Bangkok Airways flights from Bangkok's Suvarnabhumi Airport (BKK), about ~20-30 minutes by road from the mainland ferry pier at Ao Thammachat. Most travellers instead take a bus from Bangkok to Trat (or the Ekkamai bus terminal) and then a ferry across to the island, since there is no rail line serving this part of Thailand.",
+      "days": "Plan on ~3-5 days to settle into a west-coast beach, hike to a couple of the island's waterfalls, and fit in a snorkeling or diving trip to the surrounding marine park islands."
+    },
+    "ko": {
+      "blurb": "코창은 태국에서 두 번째로 큰 섬으로, 정글로 뒤덮인 국립공원이 자리한 곳입니다. 섬 내부의 약 70%가 리조트 지대가 아닌 열대우림 산악지대로 남아있을 만큼 자연 그대로의 모습을 간직하고 있죠. 서쪽 해안의 해변들과 내륙의 폭포는 배낭여행객은 물론 점점 늘어나는 고급 여행객들까지 끌어모으고 있지만, 이 섬은 여전히 푸켓이나 사무이보다 훨씬 거칠고 다듬어지지 않은 매력을 간직하고 있습니다.",
+      "getting": "코창 섬 자체에는 공항이 없습니다. 가장 가까운 공항은 방콕수완나품 공항(BKK)에서 방콕항공 편으로 갈 수 있는 트랏 공항(TDX)으로, 본토 페리 선착장인 아오탐마찻까지는 차로 약 20~30분 거리에 있습니다. 하지만 대부분의 여행객들은 방콕에서 트랏(또는 에까마이 버스터미널)까지 버스를 타고 이동한 뒤 페리로 섬에 건너가는 방법을 택합니다. 이 지역에는 철도가 연결되어 있지 않기 때문입니다.",
+      "days": "서쪽 해안의 해변에서 여유롭게 머물고, 섬의 폭포 한두 곳을 하이킹으로 다녀오고, 주변 해양공원 섬으로 스노클링이나 다이빙을 다녀오려면 대략 3~5일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "コ・チャンはタイ第二の大きさを誇る島で、その大部分がジャングルに覆われた国立公園となっています。島の内陸部の約70%は今もリゾート開発とは無縁の、山がちな熱帯雨林のまま残されています。西海岸に広がるビーチや内陸の滝は、バックパッカーだけでなく、近年では富裕層の旅行者も惹きつけていますが、プーケットやサムイ島に比べると、コ・チャンには今なお手つかずの野性味が色濃く残っています。",
+      "getting": "コ・チャン島内には空港がありません。最寄りの空港はトラート空港(TDX)で、バンコクのスワンナプーム国際空港(BKK)からバンコクエアウェイズの便が就航しています。空港から本土側のフェリー乗り場、アオ・タムチャットまでは車で約20~30分ほどです。この地域には鉄道が通っていないため、多くの旅行者はバンコクからトラートまでバス(またはエカマイ・バスターミナル発)で移動し、そこからフェリーで島へと渡るルートを選んでいます。",
+      "days": "西海岸のビーチでのんびり過ごし、島内にいくつかある滝までハイキングし、さらに周辺の海洋公園の島々へシュノーケリングやダイビングに出かける時間も欲しいところ。そう考えると、滞在日数は3~5日ほど見ておくのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Koh Chang es la segunda isla más grande de Tailandia, un parque nacional agreste y cubierto de selva donde aproximadamente el 70% del interior sigue siendo montañas de bosque tropical en lugar de una franja de resorts. Sus playas de la costa oeste y las cascadas del interior atraen tanto a mochileros como a viajeros de perfil cada vez más exclusivo, pero la isla ha conservado un aire más salvaje y menos \"acicalado\" que Phuket o Samui.",
+      "getting": "Koh Chang no tiene aeropuerto propio: el más cercano es el Aeropuerto de Trat (TDX), al que llegan vuelos de Bangkok Airways desde el Aeropuerto Suvarnabhumi de Bangkok (BKK), a unos 20-30 minutos en coche del embarcadero de ferris en Ao Thammachat, en tierra firme. La mayoría de los viajeros prefiere tomar un autobús desde Bangkok hasta Trat (o desde la terminal de autobuses de Ekkamai) y luego cruzar en ferri hasta la isla, ya que esta zona de Tailandia no cuenta con servicio de tren.",
+      "days": "Conviene planear entre 3 y 5 días para instalarse en una playa de la costa oeste, hacer senderismo hasta un par de las cascadas de la isla y sumar una salida de esnórquel o buceo por las islas del parque marino que la rodean."
+    },
+    "zh": {
+      "blurb": "象岛是泰国第二大岛,岛上山林密布、地势崎岖,俨然一座国家公园——内陆约70%的区域仍是被雨林覆盖的山地,而非度假村林立的商业地带。西海岸的沙滩和岛内的瀑布,既吸引着背包客,也越来越受高端旅行者的青睐,但整体氛围依然比普吉岛或苏梅岛更为原始、少了几分雕琢感。",
+      "getting": "象岛本身没有机场,最近的是达叻机场(TDX),曼谷航空有航班从曼谷素万那普机场(BKK)飞抵,机场距离大陆的Ao Thammachat渡轮码头约20-30分钟车程。不过,由于泰国这一带没有铁路线,大多数旅行者选择先从曼谷乘长途汽车到达叻(或从Ekkamai汽车站出发),再转乘渡轮上岛。",
+      "days": "建议安排3-5天左右的行程:找一处西海岸的海滩住下慢慢享受,徒步前往岛上几处瀑布,再抽空参加一次前往周边海洋公园岛屿的浮潜或潜水之旅。"
+    }
+  },
+  "Kumamoto": {
+    "en": {
+      "blurb": "Kumamoto is defined by its dramatic reconstructed castle—one of Japan's most storied fortresses—and by its gateway position to the volcanic landscapes of Mount Aso. It's a compact, walkable Kyushu city where samurai-era heritage sits alongside easy access to some of the region's most striking natural scenery.",
+      "getting": "Most travellers arrive via the Kyushu Shinkansen at Kumamoto Station, connecting to Hakata (Fukuoka) or Kagoshima-Chūō in under an hour; Aso Kumamoto Airport (KMJ) also has domestic flights, with limousine buses (~50–60 minutes) linking the airport to Kumamoto Station and the central Sakuramachi bus terminal.",
+      "days": "Plan on ~2-3 days to explore Kumamoto Castle, the tram-served city center, and Suizenji Garden, with extra time needed for day trips into the Aso region."
+    },
+    "ko": {
+      "blurb": "구마모토는 일본에서 손꼽히는 유서 깊은 성을 웅장하게 복원한 구마모토 성으로 대표되며, 화산 지형으로 유명한 아소산으로 향하는 관문 도시이기도 합니다. 규슈의 아담하고 걸어서 둘러보기 좋은 이 도시에서는 사무라이 시대의 유산과 이 지역에서 손꼽히는 웅장한 자연 경관을 손쉽게 함께 만나볼 수 있습니다.",
+      "getting": "대부분의 여행객은 규슈 신칸센을 타고 구마모토역으로 도착하며, 하카타(후쿠오카)나 가고시마추오까지 1시간 이내에 연결됩니다. 아소 구마모토 공항(KMJ)에도 국내선이 취항하고 있으며, 공항 리무진 버스(약 50~60분)를 이용하면 구마모토역과 시내 중심의 사쿠라마치 버스터미널로 이동할 수 있습니다.",
+      "days": "구마모토 성과 노면전차로 이동 가능한 시내 중심가, 스이젠지 공원을 둘러보는 데는 약 2~3일이면 충분하며, 아소 지역으로 당일치기 여행을 계획한다면 추가 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "熊本を象徴するのは、日本屈指の名城として知られる、ドラマチックに再建された熊本城。そして、阿蘇の雄大な火山景観への玄関口としての顔も持っています。九州のコンパクトで歩きやすい街には、武士の時代の面影が残り、そこからひと足延ばせば地域屈指の壮観な自然に出会えます。",
+      "getting": "多くの旅行者は九州新幹線で熊本駅に到着し、博多(福岡)や鹿児島中央へは1時間足らずで移動できます。阿蘇くまもと空港(KMJ)にも国内線が就航しており、リムジンバス(所要約50~60分)が空港と熊本駅、そして中心部の桜町バスターミナルを結んでいます。",
+      "days": "熊本城、路面電車で巡れる中心市街地、水前寺成趣園を見て回るには2~3日程度が目安です。阿蘇方面への日帰り旅行を組み込む場合は、さらに日数を確保しておきましょう。"
+    },
+    "es": {
+      "blurb": "Kumamoto se define por su imponente castillo reconstruido —una de las fortalezas con más historia de Japón— y por su papel como puerta de entrada a los paisajes volcánicos del monte Aso. Se trata de una ciudad compacta y fácil de recorrer a pie en Kyushu, donde el legado de la era samurái convive con un acceso rápido a algunos de los paisajes naturales más espectaculares de la región.",
+      "getting": "La mayoría de los viajeros llega a través del Shinkansen de Kyushu hasta la estación de Kumamoto, con conexiones a Hakata (Fukuoka) o Kagoshima-Chūō en menos de una hora. El aeropuerto de Aso Kumamoto (KMJ) también ofrece vuelos nacionales, con autobuses tipo limusina (de unos 50 a 60 minutos) que enlazan el aeropuerto con la estación de Kumamoto y la terminal central de autobuses de Sakuramachi.",
+      "days": "Conviene reservar entre 2 y 3 días para explorar el castillo de Kumamoto, el centro de la ciudad —bien conectado por tranvía— y el jardín Suizenji, además de tiempo adicional si se quieren hacer excursiones de un día a la región de Aso."
+    },
+    "zh": {
+      "blurb": "熊本以其气势恢宏的重建天守城——日本最富传奇色彩的城堡之一——而闻名,同时也是通往阿苏山火山地貌的门户。作为九州一座紧凑而适合步行游览的城市,熊本将武士时代的历史底蕴与便捷可达的壮美自然风光完美融合。",
+      "getting": "大多数游客乘坐九州新干线抵达熊本站,从博多(福冈)或鹿儿岛中央出发,车程不到一小时即可到达;阿苏熊本机场(KMJ)也提供国内航班,机场巴士(约50-60分钟)可连接熊本站及市中心的樱町巴士总站。",
+      "days": "建议安排约2-3天时间游览熊本城、有轨电车可达的市中心区域以及水前寺公园,若计划前往阿苏地区一日游,则需预留额外时间。"
+    }
+  },
+  "Nantes": {
+    "en": {
+      "blurb": "Nantes blends a fairy-tale medieval château with some of France's boldest contemporary art and engineering, most famously the giant mechanical elephant and fantastical creatures of Les Machines de l'île on a former shipyard beside the Loire. Once a major slave-trading and shipbuilding port, the city has reinvented its docklands into a green, bike-friendly showcase of urban renewal without losing its half-timbered old town.",
+      "getting": "Most travellers fly into Nantes Atlantique Airport (NTE), located <cite index=\"1-2\">8 kilometres (5.0 mi) southwest of the city, in Bouguenais</cite>, then take a shuttle bus into the centre; by rail, high-speed TGV services link <cite index=\"15-14\">Nantes station, which connects to Paris Gare Montparnasse</cite>, with the fastest trains covering the route in <cite index=\"11-16,11-17\">2 hours and 0 minutes</cite>, though journeys of ~2.5–3 hours are also common.",
+      "days": "Plan on ~2-3 days to explore the Château des Ducs de Bretagne, the historic centre, and the Île de Nantes with its mechanical creatures, with an extra day if you want to add a Loire Valley or coastal side trip."
+    },
+    "ko": {
+      "blurb": "낭트는 동화 속에서 튀어나온 듯한 중세 성과 프랑스에서 가장 대담한 현대 예술 및 공학이 공존하는 도시입니다. 그중에서도 루아르강 옆 옛 조선소 부지에 자리한 '레 마신 드 릴(Les Machines de l'île)'의 거대한 기계 코끼리와 환상적인 생명체들이 가장 유명합니다. 한때 노예무역과 조선업의 중심 항구였던 이 도시는, 목조 골조 건물이 늘어선 구시가지의 정취를 그대로 간직하면서도 옛 항구 지역을 친환경적이고 자전거 친화적인 도시 재생의 모범 사례로 탈바꿈시켰습니다.\",\"getting\":\"대부분의 여행자는 낭트 아틀랑티크 공항(NTE)을 이용합니다. 이 공항은 시내에서 남서쪽으로 8km(5.0마일) 떨어진 부그네(Bouguenais)에 위치해 있으며, 도착 후에는 셔틀버스를 타고 시내로 이동하면 됩니다. 철도로는 고속 TGV 열차가 낭트역과 파리 몽파르나스역을 연결하며, 가장 빠른 열차는 2시간 만에 주파하지만 약 2시간 30분에서 3시간 정도 걸리는 경우도 흔합니다.",
+      "getting": "대부분의 여행자는 낭트 아틀랑티크 공항(NTE)을 이용합니다. 이 공항은 시내에서 남서쪽으로 8km(5.0마일) 떨어진 부그네(Bouguenais)에 위치해 있으며, 도착 후에는 셔틀버스를 타고 시내로 이동하면 됩니다. 철도로는 고속 TGV 열차가 낭트역과 파리 몽파르나스역을 연결하며, 가장 빠른 열차는 2시간 만에 주파하지만 약 2시간 30분에서 3시간 정도 걸리는 경우도 흔합니다.",
+      "days": "브르타뉴 공작 성(Château des Ducs de Bretagne), 역사 지구, 그리고 기계 생명체들로 유명한 일 드 낭트(Île de Nantes)를 둘러보는 데는 2~3일 정도가 적당합니다. 루아르 계곡이나 해안 지역으로 당일치기 여행을 추가하고 싶다면 하루 정도 더 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ナントは、おとぎ話に出てくるような中世の城と、フランスでも屈指の大胆な現代アートやエンジニアリングが融合した街だ。中でも有名なのが、ロワール川沿いのかつての造船所跡地で展開される「レ・マシーン・ド・リル」の巨大な機械仕掛けの象や幻想的な生き物たちである。かつて奴隷貿易と造船業で栄えた港町は、旧市街の木骨造りの街並みを残しつつ、港湾地区を緑豊かで自転車に優しい都市再生のモデルケースへと生まれ変わらせた。",
+      "getting": "多くの旅行者はナント・アトランティック空港(NTE)を利用する。空港は<cite index=\"1-2\">市の南西8km、ブーグネにある</cite>ため、そこからシャトルバスで市街地へ向かうのが一般的だ。鉄道の場合、高速TGVが<cite index=\"15-14\">パリ・モンパルナス駅とナント駅を結んでおり</cite>、最速列車なら所要時間は<cite index=\"11-16,11-17\">2時間0分</cite>。ただし2時間半〜3時間ほどかかる便もよく利用されている。",
+      "days": "ブルターニュ公爵城や歴史地区、そして機械仕掛けの生き物たちがいるイル・ド・ナントを巡るには2〜3日ほど見ておくとよい。ロワール渓谷や海沿いへの小旅行を加えたい場合は、もう1日プラスするのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Nantes combina un castillo medieval de cuento con algunas de las propuestas de arte e ingeniería contemporánea más audaces de Francia, sobre todo el gigantesco elefante mecánico y las criaturas fantásticas de Les Machines de l'île, instaladas en un antiguo astillero junto al Loira. Antaño un importante puerto de comercio de esclavos y construcción naval, la ciudad ha reinventado su antigua zona portuaria convirtiéndola en un escaparate verde y muy amigable para las bicicletas de renovación urbana, sin perder por ello su casco antiguo de casas con entramados de madera.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Nantes Atlantique (NTE), situado a 8 kilómetros (5,0 millas) al suroeste de la ciudad, en Bouguenais, y luego toma un autobús lanzadera hasta el centro. Por tren, los servicios de alta velocidad TGV conectan la estación de Nantes con la de París Gare Montparnasse, con los trenes más rápidos cubriendo el trayecto en 2 horas exactas, aunque también son habituales los viajes de entre 2,5 y 3 horas.",
+      "days": "Calcula entre 2 y 3 días para explorar el Château des Ducs de Bretagne, el centro histórico y la Île de Nantes con sus criaturas mecánicas, y suma un día más si quieres añadir una escapada al Valle del Loira o a la costa."
+    },
+    "zh": {
+      "blurb": "南特将童话般的中世纪城堡,与法国最大胆前卫的当代艺术和工程杰作融为一体——其中最负盛名的,莫过于卢瓦尔河畔一座旧船厂改建而成的“机器岛”(Les Machines de l'île),那里矗立着巨型机械大象和各种奇幻生物。这座城市曾是重要的奴隶贸易与造船港口,如今已将昔日的码头区蜕变为绿意盎然、自行车友好的城市更新典范,同时又完好保留了古色古香的木筋屋老城区。",
+      "getting": "大多数游客会飞抵南特大西洋机场(NTE),该机场位于市区西南8公里(5.0英里)处的布格奈(Bouguenais),抵达后可乘坐机场巴士前往市中心。若选择铁路出行,高速TGV列车连接南特站与巴黎蒙帕纳斯站,最快车程仅需2小时,不过耗时2.5至3小时左右的班次也很常见。",
+      "days": "建议安排2-3天时间,游览布列塔尼公爵城堡、历史悠久的老城区,以及拥有各种机械生物的南特岛;如果还想顺道前往卢瓦尔河谷或海滨小镇,不妨多留一天。"
+    }
+  },
+  "Portland": {
+    "en": {
+      "blurb": "Portland, Oregon blends a famously walkable, bridge-laced downtown with an outsized food-cart and craft-beer culture, all set against easy access to volcanoes, wine country, and the coast. It's a city that trades big-city landmarks for quirky, independent character — think the world's largest indie bookstore and a skyline framed by Mount Hood.",
+      "getting": "Most travelers arrive via Portland International Airport (PDX), which connects directly to downtown on the MAX Light Rail Red Line, a ride that takes ~38-40 minutes and drops passengers right in the city center. Trains run frequently throughout the day, making the light rail the standard, no-fuss way to get from the terminal into town.",
+      "days": "Plan on ~3-4 days to cover downtown's core sights, a food-cart crawl, and at least one day trip to nearby nature like the Columbia River Gorge or Mount Hood."
+    },
+    "ko": {
+      "blurb": "오리건 주 포틀랜드는 다리로 이어진, 걷기 좋기로 유명한 다운타운에 유난히 발달한 푸드트럭 문화와 크래프트 맥주 문화가 어우러진 도시다. 그러면서도 화산, 와인 산지, 해안까지 어렵지 않게 다녀올 수 있는 위치에 자리하고 있다. 거대한 랜드마크 대신 독특하고 개성 있는 매력으로 승부하는 도시라 할 수 있는데, 세계 최대 규모의 독립 서점이 있고 마운트 후드가 스카이라인을 장식하는 것만 봐도 그 분위기를 짐작할 수 있다.",
+      "getting": "대부분의 여행자는 포틀랜드 국제공항(PDX)을 통해 도착하며, 이곳은 MAX 라이트레일 레드 라인으로 다운타운과 바로 연결된다. 소요 시간은 약 38~40분이며, 도심 한복판에 내려준다. 열차가 하루 종일 자주 운행되기 때문에, 라이트레일은 공항에서 시내로 들어가는 가장 무난하고 표준적인 방법이다.",
+      "days": "다운타운의 핵심 명소들을 둘러보고 푸드트럭 투어를 즐기려면 약 3~4일 정도를 계획하는 것이 좋으며, 여기에 컬럼비아 리버 고지(Columbia River Gorge)나 마운트 후드 같은 근교 자연 명소로의 당일치기 여행도 최소 하루 추가하는 것을 추천한다."
+    },
+    "ja": {
+      "blurb": "オレゴン州ポートランドは、橋が街を彩る歩きやすいダウンタウンと、規格外に発達したフードカート文化やクラフトビール文化が融合した街。しかも火山地帯やワインカントリー、海岸へも気軽にアクセスできるという恵まれた立地です。大都市らしい観光名所よりも、個性的でインディペンデントな魅力を大切にする街で、世界最大級の独立系書店や、フッド山を望むスカイラインがその象徴と言えるでしょう。",
+      "getting": "多くの旅行者はポートランド国際空港(PDX)から入国します。空港からはMAXライトレール・レッドラインでダウンタウンへ直行でき、所要時間は約38~40分、そのまま市中心部まで乗り換えなしで到着します。列車は日中頻繁に運行しているため、ターミナルから街へ向かう際はライトレールを使うのが定番かつ手軽な移動手段です。",
+      "days": "ダウンタウンの主要スポット巡りやフードカート食べ歩きに加え、コロンビア川峡谷やフッド山など近郊の自然への日帰り旅行を1日は組み込むとすると、滞在日数の目安は3~4日程度です。"
+    },
+    "es": {
+      "blurb": "Portland, Oregon combina un centro urbano famoso por ser muy caminable y surcado de puentes con una cultura desbordante de food trucks y cerveza artesanal, todo ello con fácil acceso a volcanes, la región vinícola y la costa. Es una ciudad que cambia los grandes íconos urbanos por un carácter peculiar e independiente: piensa en la librería independiente más grande del mundo y un horizonte enmarcado por el Monte Hood.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Portland (PDX), que conecta directamente con el centro a través de la línea roja del MAX Light Rail, un trayecto de entre 38 y 40 minutos que deja a los pasajeros justo en pleno centro de la ciudad. Los trenes circulan con frecuencia durante todo el día, por lo que el light rail es la forma habitual y sin complicaciones de ir de la terminal a la ciudad.",
+      "days": "Calcula entre 3 y 4 días para recorrer los principales puntos de interés del centro, hacer una ruta por los food carts y dedicar al menos un día a una excursión a la naturaleza cercana, como el Columbia River Gorge o el Monte Hood."
+    },
+    "zh": {
+      "blurb": "俄勒冈州的波特兰,是一座以步行友好、桥梁纵横的市中心闻名的城市,同时孕育了规模惊人的餐车美食和精酿啤酒文化,又能轻松通往火山、葡萄酒产区和海岸线。这座城市不以恢弘地标取胜,而是以古怪、独立的个性著称——比如世界上最大的独立书店,以及以胡德山为背景的城市天际线。",
+      "getting": "大多数旅客通过波特兰国际机场(PDX)抵达,该机场可直接搭乘MAX轻轨红线前往市中心,车程约38-40分钟,直达市区核心地带。列车全天班次频繁,轻轨也因此成为从机场进城最标准、最省心的方式。",
+      "days": "建议安排约3-4天时间,用于游览市中心的核心景点、来一场餐车美食巡礼,并至少安排一天前往哥伦比亚河峡谷或胡德山等周边自然景观一日游。"
+    }
+  },
+  "Sukhothai": {
+    "en": {
+      "blurb": "Sukhothai was the first capital of Siam, and its Historical Park preserves the brick-and-stucco ruins of temples, Buddha images, and royal monuments spread across a UNESCO World Heritage-listed old city. Rather than a single monument, it offers a wide, largely flat landscape of ruins best explored slowly by bicycle among ponds, laterite walls, and old city gates.",
+      "getting": "Sukhothai has its own small airport (THS), served by Bangkok Airways with flights to/from Bangkok, but most travellers arrive overland: direct buses run from Bangkok and Chiang Mai, or you can take the train to the regional rail junction at Phitsanulok and continue to Sukhothai by onward bus or taxi. There is no railway station in Sukhothai itself, so the train option always involves this bus or taxi connection from Phitsanulok.",
+      "days": "Plan on ~2 days: one full day to explore the Historical Park's central and outer zones by bicycle, plus time to settle in and explore New Sukhothai or nearby sites like Si Satchanalai."
+    },
+    "ja": {
+      "blurb": "スコータイはシャム(タイ)最初の都となった古都で、世界遺産にも登録された旧市街には、レンガと漆喰造りの寺院跡や仏像、王宮跡などが広い敷地に点在しています。見どころが一箇所に集まっているわけではなく、池や赤土(ラテライト)の城壁、古い城門が点在する広大でほぼ平坦な遺跡群を、自転車でのんびり巡りながら楽しむのがこの地ならではの魅力です。",
+      "getting": "スコータイには小さな空港(THS)があり、バンコクエアウェイズがバンコクとの間に便を運航していますが、多くの旅行者は陸路で訪れます。バンコクやチェンマイからは直行バスが出ているほか、鉄道を利用する場合は近隣の鉄道拠点ピサヌロークまで行き、そこからバスかタクシーでスコータイへ向かう方法もあります。スコータイ市内には鉄道駅がないため、列車で来る場合は必ずピサヌロークでのバスまたはタクシーへの乗り継ぎが必要になります。",
+      "days": "目安として2日ほど見ておくとよいでしょう。1日はまるまる使って、自転車でヒストリカルパークの中心エリアと外周エリアをじっくり巡り、残りの時間で新市街(ニュースコータイ)でゆっくりしたり、シーサッチャナーライなど近郊の見どころに足を延ばしたりするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Sukhothai fue la primera capital de Siam, y su Parque Histórico conserva las ruinas de ladrillo y estuco de templos, imágenes de Buda y monumentos reales repartidos por una antigua ciudad declarada Patrimonio de la Humanidad por la UNESCO. Más que un monumento único, ofrece un extenso paisaje de ruinas, en su mayoría llano, que se disfruta mejor explorándolo despacio en bicicleta entre estanques, muros de laterita y antiguas puertas de la ciudad.",
+      "getting": "Sukhothai cuenta con un pequeño aeropuerto propio (THS), con vuelos de Bangkok Airways hacia y desde Bangkok, aunque la mayoría de los viajeros llega por tierra: hay autobuses directos desde Bangkok y Chiang Mai, o bien se puede tomar el tren hasta el nudo ferroviario regional de Phitsanulok y continuar hasta Sukhothai en autobús o taxi. Sukhothai no tiene estación de tren propia, así que la opción del tren siempre implica esta conexión final en autobús o taxi desde Phitsanulok.",
+      "days": "Calcula unos 2 días: uno completo para recorrer en bicicleta las zonas central y exterior del Parque Histórico, más tiempo para instalarte y explorar Sukhothai Nuevo o lugares cercanos como Si Satchanalai."
+    },
+    "zh": {
+      "blurb": "素可泰是暹罗的第一个首都,其历史公园完整保存了砖石灰泥结构的寺庙遗址、佛像和皇家纪念建筑群,散落在这座被联合国教科文组织列为世界遗产的古城之中。这里没有单一的核心景点,而是一片开阔、地势平坦的遗址群,最适合骑单车慢慢穿行于池塘、红土城墙与古城门之间细细探索。",
+      "getting": "素可泰拥有自己的小型机场(THS),曼谷航空提供往返曼谷的航班,不过大多数游客选择陆路前往:从曼谷和清迈都有直达长途汽车,也可以先乘火车到附近的皮察努洛铁路枢纽站,再转乘巴士或出租车前往素可泰。由于素可泰本地并没有火车站,乘火车前往时,都需要经皮察努洛转乘巴士或出租车才能到达。",
+      "days": "建议安排约2天时间:用一整天骑单车游览历史公园的中心区和外围区域,再留些时间安顿下来,逛逛新素可泰城区,或前往西萨查那莱等周边景点。"
+    }
+  },
+  "Tashkent": {
+    "en": {
+      "blurb": "Uzbekistan's capital and Central Asia's largest city, Tashkent blends Soviet-era grandeur — ornate metro stations, wide boulevards, and monumental squares rebuilt after the devastating 1966 earthquake — with the older rhythms of Chorsu Bazaar and its surrounding mahalla lanes. As the country's political and transport nucleus, it also serves as most travellers' first and last stop in Uzbekistan.",
+      "getting": "Almost all international arrivals land at Tashkent International Airport (TAS), ~12km from the city centre; travellers coming from Samarkand or Bukhara typically arrive instead on the high-speed Afrosiyob train into Tashkent's South (Yuzhny) railway station.",
+      "days": "Budget ~2-3 days to cover the metro system, Chorsu Bazaar, and the main museums before continuing on to the Silk Road cities."
+    },
+    "ja": {
+      "blurb": "ウズベキスタンの首都であり、中央アジア最大の都市であるタシケントは、1966年の大地震からの復興を経て築かれた、装飾豊かな地下鉄駅、広々とした大通り、荘厳な広場といったソ連時代の壮麗さと、チョルスー・バザールやその周囲に広がるマハッラ(旧市街の街区)の昔ながらの生活リズムが共存する街です。国の政治・交通の中心地でもあり、多くの旅行者にとってウズベキスタン旅行の最初と最後の玄関口となっています。",
+      "getting": "国際線のほとんどはタシケント国際空港(TAS)に到着し、市街中心部までは約12kmの距離です。一方、サマルカンドやブハラから移動する旅行者は、高速列車アフロシヨブに乗ってタシケント南駅(ユジヌィ駅)に到着するのが一般的です。",
+      "days": "地下鉄網の探索、チョルスー・バザール、主要な博物館めぐりには2~3日ほど見ておくとよいでしょう。その後はシルクロード沿いの都市へと旅を続けられます。"
+    },
+    "es": {
+      "blurb": "Capital de Uzbekistán y ciudad más grande de Asia Central, Tashkent combina la grandiosidad de la era soviética —estaciones de metro ornamentadas, amplios bulevares y plazas monumentales reconstruidas tras el devastador terremoto de 1966— con los ritmos más antiguos del bazar Chorsu y las callejuelas de sus mahallas circundantes. Como núcleo político y de transporte del país, es además el primer y último destino de la mayoría de los viajeros en Uzbekistán.",
+      "getting": "Casi todos los vuelos internacionales llegan al Aeropuerto Internacional de Tashkent (TAS), a unos 12 km del centro de la ciudad; quienes llegan desde Samarkanda o Bujará suelen hacerlo en cambio en el tren de alta velocidad Afrosiyob, que arriba a la estación ferroviaria Sur (Yuzhny) de Tashkent.",
+      "days": "Conviene reservar unos 2-3 días para recorrer el sistema de metro, el bazar Chorsu y los principales museos antes de continuar hacia las ciudades de la Ruta de la Seda."
+    },
+    "zh": {
+      "blurb": "塔什干是乌兹别克斯坦的首都,也是中亚最大的城市。这里既有苏联时代遗留下来的恢弘气派——装饰华丽的地铁站、宽阔的林荫大道,以及在1966年那场毁灭性大地震后重建起来的宏伟广场,又保留着乔尔苏巴扎(Chorsu Bazaar)及周边玛哈拉(mahalla)老城巷弄里更为古老的生活节奏。作为乌兹别克斯坦的政治与交通枢纽,塔什干也是大多数旅行者进出乌兹别克斯坦的第一站和最后一站。",
+      "getting": "几乎所有国际航班都降落在距市中心约12公里的塔什干国际机场(TAS);而从撒马尔罕或布哈拉前来的旅行者,则大多搭乘高速的“阿夫罗西约布”(Afrosiyob)列车抵达塔什干南站(Yuzhny)。",
+      "days": "建议预留2-3天时间,用来游览地铁站、乔尔苏巴扎以及主要博物馆,之后再继续前往丝绸之路沿线的其他城市。"
     }
   }
 }

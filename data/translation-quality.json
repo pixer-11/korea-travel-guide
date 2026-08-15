@@ -3766,11 +3766,11 @@
   "at": "2026-08-15T02:38:32.673Z"
  },
  "ko/surabaya-depot-bu-rudy-dharmahusada": {
-  "hash": "010f452cc6c0",
+  "hash": "5c702fbee017",
   "score": 1,
   "registerBreak": false,
-  "worst": "따라서 근처에서 딱히 둘러볼 만한 것을 기대하기보다는, 도보 여행 코스의 일부라기보다 목적지로서 따로 찾아가는 곳으로 생각하는 편이 좋습니다.",
-  "at": "2026-08-15T06:20:28.142Z"
+  "worst": "이미 잘 알려진 곳이기 때문에 발견을 통해 인파를 피하기보다는 붐비는 시간을 염두에 두고 계획을 세우는 편이 낫습니다.",
+  "at": "2026-08-15T08:55:44.651Z"
  },
  "ko/suwon-local-restaurant": {
   "hash": "a99b2a080144",
@@ -26864,5 +26864,579 @@
   "registerBreak": false,
   "worst": "最终为妈祖建一座正式庙宇,也就顺理成章了。",
   "at": "2026-08-15T07:08:22.193Z"
+ },
+ "es/bengaluru-visvesvaraya-industrial-technological-museum": {
+  "hash": "d92664dd80aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "lleva algo de efectivo de reserva, aunque en general se acepta pago con tarjeta, porque la fila avanza",
+  "at": "2026-08-15T08:48:48.626Z"
+ },
+ "es/bukit-timah-bukit-timah-nature-reserve-visitor-centre": {
+  "hash": "b5787579a854",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El aire huele a hojarasca húmeda y a algo vagamente dulce —quizás savia, o los durianes que",
+  "at": "2026-08-15T08:48:51.113Z"
+ },
+ "es/central-mak-s-noodle": {
+  "hash": "6d9df858aa8c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "lo inteligente es adelantarse a la multitud, no fingir que no existe",
+  "at": "2026-08-15T08:49:07.184Z"
+ },
+ "es/chengdu-chengdu-museum": {
+  "hash": "12bab05053d8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Reservar un horario en línea con antelación... agiliza el ingreso cuando el sistema está en uso durante tu visita.",
+  "at": "2026-08-15T08:49:13.215Z"
+ },
+ "es/cordoba-alcazar-de-los-reyes-cristianos": {
+  "hash": "b8f58ae63ee4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "En primavera, las rosas y el azahar perfuman el aire de verdad.",
+  "at": "2026-08-15T08:49:19.576Z"
+ },
+ "es/genoa-porto-antico": {
+  "hash": "c0f5b400e688",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Génova le dio la espalda a siglos de industria naviera y volvió a mirar hacia el mar.",
+  "at": "2026-08-15T08:49:21.643Z"
+ },
+ "es/goa-shri-nageshi-temple": {
+  "hash": "e3ef2b1b034f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "algo útil de saber si quieres hacer una visita nocturna a principios de semana.",
+  "at": "2026-08-15T08:49:23.254Z"
+ },
+ "es/guilin-xijie-pedestrian-street": {
+  "hash": "fdfc1a82f562",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Lo que hace especial el lugar es su entorno.",
+  "at": "2026-08-15T08:49:24.872Z"
+ },
+ "es/jurong-japanese-garden": {
+  "hash": "86bbb21123c0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El error más común de",
+  "at": "2026-08-15T08:49:27.041Z"
+ },
+ "es/koh-chang-kai-bae-beach": {
+  "hash": "38b1657560a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Evitar el tramo central, el más saturado de vendedor",
+  "at": "2026-08-15T08:49:31.437Z"
+ },
+ "es/kumamoto-kato-shrine": {
+  "hash": "9f8800fa86e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ambas temporadas atraen más visitantes, así que conviene aprovechar aún más esa franja de prim",
+  "at": "2026-08-15T08:49:32.973Z"
+ },
+ "es/mong-kok-beans-cafe": {
+  "hash": "3b4085006cd9",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "...cine, moda de tiendas conocidas y un atrio de diseño llamativo que vale la pena ver...",
+  "at": "2026-08-15T09:00:08.330Z"
+ },
+ "es/nantes-chateau-des-ducs-de-bretagne": {
+  "hash": "9f47906823bf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...sin ninguna costumbre local especial que tener en cuenta.",
+  "at": "2026-08-15T08:49:43.867Z"
+ },
+ "es/new-taipei-bopiliao-historical-block": {
+  "hash": "94a3bec07cbe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "así que no te sorprenda verlo integrado en el tránsito diario en lugar de acordonado",
+  "at": "2026-08-15T08:49:46.058Z"
+ },
+ "es/nusa-penida-broken-beach": {
+  "hash": "96cac5f7280b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "y las fotos realmente no le hacen justicia a su escala real.",
+  "at": "2026-08-15T08:49:47.813Z"
+ },
+ "es/palermo-mercato-ballaro": {
+  "hash": "d037825badc5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Vigila tu bolso. Con tanta gente, el riesgo de carteristas es real",
+  "at": "2026-08-15T08:49:49.979Z"
+ },
+ "es/phong-nha-phong-nha-ke-bang-national-park": {
+  "hash": "d91e7ed30156",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "prácticamente nada aquí se puede hacer por cuenta propia sin más.",
+  "at": "2026-08-15T08:50:17.244Z"
+ },
+ "es/portland-pittock-mansion": {
+  "hash": "993d5daa3f87",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Se viene primero por la vista y después por la casa, y las dos cumplen.",
+  "at": "2026-08-15T08:50:34.346Z"
+ },
+ "es/sheung-wan-graham-street-market": {
+  "hash": "7b1f97c32dd6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El error más habitual de los visitantes es tratarlo como un mercado turístico solo para hacer fotos",
+  "at": "2026-08-15T08:50:36.290Z"
+ },
+ "es/sukhothai-sukhothai-buddha-park": {
+  "hash": "ccb7e6202b26",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "da la sensación de un lugar que el tiempo realmente olvidó durante un tiempo.",
+  "at": "2026-08-15T08:50:38.006Z"
+ },
+ "es/toledo-mirador-del-valle": {
+  "hash": "964bf43a54e9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Este mirador recibe mucho tráfico de tour organizados, así que aquí el momento y la posición",
+  "at": "2026-08-15T08:50:41.770Z"
+ },
+ "ja/bengaluru-visvesvaraya-industrial-technological-museum": {
+  "hash": "262662020063",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "埃をかぶった展示物が並ぶだけの場所ではなく、家族で楽しめるお出かけスポットとしての評判をしっかり獲得しています。",
+  "at": "2026-08-15T08:50:44.107Z"
+ },
+ "ja/bukit-timah-bukit-timah-nature-reserve-visitor-centre": {
+  "hash": "b09ad346653c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "湿った落ち葉と、どこかほのかに甘い匂い——樹液でしょうか、それとも斜面のどこかで実っているドリアンの木の匂いかもしれません——が漂っています。",
+  "at": "2026-08-15T08:50:50.515Z"
+ },
+ "ja/central-mak-s-noodle": {
+  "hash": "0c280882e9bb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "落ち着いて一杯を楽しみたいなら、平日の午後5時から9時、または週末夜8時以降を狙うとよいでしょう。どちらも明らかに空いている時間帯です。",
+  "at": "2026-08-15T08:50:52.430Z"
+ },
+ "ja/chengdu-chengdu-museum": {
+  "hash": "bd72567bcba8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "石とガラスでできた黒く鋭角的なファサードが吹き抜けの大きなアトリウムを取り囲んでおり、これは...",
+  "at": "2026-08-15T08:50:54.618Z"
+ },
+ "ja/cordoba-alcazar-de-los-reyes-cristianos": {
+  "hash": "d581ad77627d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "塔の上からは、庭園やグアダルキビル川、そして数本先の通りにそびえるメスキータ・カテドラルの鐘楼まで見渡せる、屋上からのパノラマが広がります。",
+  "at": "2026-08-15T08:50:57.283Z"
+ },
+ "ja/genoa-porto-antico": {
+  "hash": "6b32d436983b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ガラスと鉄と水が互いにせめぎ合うのではなく調和する、その空間は今なお新鮮さを失っていません。",
+  "at": "2026-08-15T08:50:59.694Z"
+ },
+ "ja/goa-shri-nageshi-temple": {
+  "hash": "2a5df1bd0203",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "混雑を避ける方法は、週末に存在しない空白の時間を探すことではなく、単純に平日の朝早く訪れて...",
+  "at": "2026-08-15T08:51:01.381Z"
+ },
+ "ja/guilin-xijie-pedestrian-street": {
+  "hash": "030f0072fc59",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "わずか5分歩くだけでも、本来なら川下りの船に乗って眺めるはずの景色を舞台にしているかのような感覚を味わえます",
+  "at": "2026-08-15T08:51:10.154Z"
+ },
+ "ja/jurong-japanese-garden": {
+  "hash": "8e4c94434719",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "石灯籠が句読点のように小径の曲がり角を示しています。",
+  "at": "2026-08-15T08:51:11.945Z"
+ },
+ "ja/koh-chang-kai-bae-beach": {
+  "hash": "9581b49c067a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "訪問者によくある間違いは、カイベービーチを一つの均一なビーチだと考えて、最も混雑する中央エリアにとどまってしまうことです。",
+  "at": "2026-08-15T08:51:18.187Z"
+ },
+ "ja/kumamoto-kato-shrine": {
+  "hash": "4e6ae2e56c4d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ここをただの撮影スポットとして扱い、肝心の神社参拝を素通りしてしまうのはよくある観光客の失敗パターンです。",
+  "at": "2026-08-15T08:51:19.857Z"
+ },
+ "ja/mong-kok-beans-cafe": {
+  "hash": "37626375d863",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "200件を超えるレビューで4.7つ星という評価は、その規模を考えると驚くべき数字です。",
+  "at": "2026-08-15T08:51:21.820Z"
+ },
+ "ja/nantes-chateau-des-ducs-de-bretagne": {
+  "hash": "f0bdf4ec9f54",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "これは9時間という長い時間帯をまるまる使えるということなので、訪問の計画を立てやすいポイントです。",
+  "at": "2026-08-15T08:51:27.128Z"
+ },
+ "ja/new-taipei-bopiliao-historical-block": {
+  "hash": "66cbfe0b18d2",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-15T08:51:28.714Z"
+ },
+ "ja/nusa-penida-broken-beach": {
+  "hash": "2413ebe7f713",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "石灰岩の崖が輪のように取り囲む中に、信じられないほど鮮やかなトルコブルーの水面が広がり、その一面の壁を海が貫いて天然のアーチを作り出しています。",
+  "at": "2026-08-15T08:51:36.819Z"
+ },
+ "ja/palermo-mercato-ballaro": {
+  "hash": "c93cddffec88",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "人混みが密集する分、スリのリスクも現実的にあります。",
+  "at": "2026-08-15T08:51:40.670Z"
+ },
+ "ja/phong-nha-phong-nha-ke-bang-national-park": {
+  "hash": "08e5a66c9da4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "水田から切り立つように連なるカルスト山脈の奥には、地球でも屈指の規模を誇る洞窟群が隠されています。",
+  "at": "2026-08-15T08:51:42.943Z"
+ },
+ "ja/portland-pittock-mansion": {
+  "hash": "f0862f9afd1e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現地での支払いは現金と同じくらいカード対応も進んでいますが、それ以上に地元の人々が実践している...",
+  "at": "2026-08-15T08:51:47.590Z"
+ },
+ "ja/sheung-wan-graham-street-market": {
+  "hash": "dd060c97e3ce",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-15T08:51:52.139Z"
+ },
+ "ja/sukhothai-sukhothai-buddha-park": {
+  "hash": "d0cd65eba509",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "公園はスコータイの主要な歴史地区から数分の距離、タンボン・タニの30 Soi Si Sukhoにあります。",
+  "at": "2026-08-15T08:52:22.854Z"
+ },
+ "ja/toledo-mirador-del-valle": {
+  "hash": "fc2ef198c588",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "眼下では、街の三方をタホ川がぐるりと取り囲んでおり、この天然の防御地形こそがトレドの歴史全体を形作ってきました。",
+  "at": "2026-08-15T08:52:30.494Z"
+ },
+ "ko/bengaluru-visvesvaraya-industrial-technological-museum": {
+  "hash": "e1708a51f80b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "유리 진열장과 \"만지지 마시오\" 팻말로 호기심을 억누르는 대신, 오히려 호기심에 보상을 주는 박물관을 찾는다면 이곳이 정답입니다.",
+  "at": "2026-08-15T08:52:33.033Z"
+ },
+ "ko/bukit-timah-bukit-timah-nature-reserve-visitor-centre": {
+  "hash": "aeb6b86f2e84",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-15T08:52:34.695Z"
+ },
+ "ko/central-mak-s-noodle": {
+  "hash": "48fd7d8f3ef0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "맥스 누들은 매년 정기 휴무일 없이 매일 오전 11시부터 오후 9시까지 영업하기 때문에, 관광 일정 중간에 끼워 넣기 좋습니다.",
+  "at": "2026-08-15T08:52:39.748Z"
+ },
+ "ko/colmar-parc-du-champ-de-mars": {
+  "hash": "75fe6da5ead0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "조사된 바로는 평일 오전 7시~8시가 가장 조용한 시간대이며, 주말도 7시~9시로 크게 다르지 않습니다.",
+  "at": "2026-08-15T08:53:14.531Z"
+ },
+ "ko/cordoba-alcazar-de-los-reyes-cristianos": {
+  "hash": "a2c6f9aadc28",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "절반은 요새, 절반은 정원 휴양지 같은 그 겹겹이 쌓인 무게감이 그대로 느껴집니다.",
+  "at": "2026-08-15T08:53:18.991Z"
+ },
+ "ko/goa-shri-nageshi-temple": {
+  "hash": "8ba51af41c20",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳의 혼잡 패턴은 꽤 예측 가능합니다.",
+  "at": "2026-08-15T08:54:07.650Z"
+ },
+ "ko/guilin-xijie-pedestrian-street": {
+  "hash": "f0b9b925bcd2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "원래는 리강 유람선을 타야 볼 수 있는 그 풍경을 말이죠.",
+  "at": "2026-08-15T08:54:09.308Z"
+ },
+ "ko/jurong-japanese-garden": {
+  "hash": "fd2dc3b5be92",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "안내판을 읽기도 전에 말이죠.",
+  "at": "2026-08-15T08:54:10.999Z"
+ },
+ "ko/koh-chang-kai-bae-beach": {
+  "hash": "9780052fc0df",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "비치 바의 활기찬 소음에서 거의 나 혼자만 있는 듯한 고요함으로 바뀌는 식입니다.",
+  "at": "2026-08-15T08:54:12.679Z"
+ },
+ "ko/kumamoto-kato-shrine": {
+  "hash": "a6572e3d101f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "엽서 같은 사진보다 훨씬 더 극적이고 밀도 있는 각도인데도, 이곳까지 걸어 올라오는 사람은 의외로 많지 않습니다.",
+  "at": "2026-08-15T08:54:33.800Z"
+ },
+ "ko/mong-kok-beans-cafe": {
+  "hash": "8af662889c85",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 유난히 상세한 혼잡도 데이터를 참고할 만한데, 실제로 도움이 됩니다.",
+  "at": "2026-08-15T08:54:38.388Z"
+ },
+ "ko/nantes-chateau-des-ducs-de-bretagne": {
+  "hash": "a144d1f40714",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "루아르강 근처 모퉁이를 돌면 갑자기 해자가 나타나고, 옅은 색 석회암과 짙은 편암으로 쌓아 올린 성벽이 이어지다가...",
+  "at": "2026-08-15T08:54:43.763Z"
+ },
+ "ko/new-taipei-bopiliao-historical-block": {
+  "hash": "937cd8dc0f9a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "완전히 한적하게 즐길 방법은 없으니, 운보다는 시간대 선택이 중요합니다.",
+  "at": "2026-08-15T08:54:48.294Z"
+ },
+ "ko/nusa-penida-broken-beach": {
+  "hash": "9d5d6f9261cd",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-15T08:54:49.882Z"
+ },
+ "ko/palermo-mercato-ballaro": {
+  "hash": "be6c6c5fc959",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "발라로는 관광객을 위해 잘 정돈된 시장이 아닙니다. 팔레르모 사람들의 살아있는 부엌, 즉 시끄럽고 꾸밈없는 그 자체입니다.",
+  "at": "2026-08-15T08:54:56.043Z"
+ },
+ "ko/phong-nha-phong-nha-ke-bang-national-park": {
+  "hash": "a7d6bcbd47f3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "지구상에서 손꼽히는 규모의 동굴 시스템들이 숨어 있습니다.",
+  "at": "2026-08-15T08:55:00.286Z"
+ },
+ "ko/portland-pittock-mansion": {
+  "hash": "d8a8fbcd6c36",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "성수기(봄부터 가을까지)에는 현장에서 시간대별 입장권이 매진될 위험을 감수하기보다 온라인으로 미리 예매해두는 편이 낫습니다.",
+  "at": "2026-08-15T08:55:28.303Z"
+ },
+ "ko/sheung-wan-graham-street-market": {
+  "hash": "677a058ffddf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "여기는 앉아서 즐기는 곳이라기보다 오감을 자극하는 거리에 가깝습니다.",
+  "at": "2026-08-15T08:55:35.151Z"
+ },
+ "ko/sukhothai-sukhothai-buddha-park": {
+  "hash": "a9d1e5eb3872",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "빠르게 스쳐 지나가서는 결코 느낄 수 없는 방식으로 이 공간이 마음을 열어 보일 것입니다.",
+  "at": "2026-08-15T08:55:39.318Z"
+ },
+ "ko/toledo-mirador-del-valle": {
+  "hash": "f16d10085d9e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "타호강이 굽이치는 자리에 톨레도가 폭 안기듯 자리 잡고 있는데, 그 전체 풍경을 한눈에 담을 수 있는 곳이 바로 미라도르 델 바예입니다.",
+  "at": "2026-08-15T08:55:47.409Z"
+ },
+ "zh/al-barsha-hindu-temple-dubai": {
+  "hash": "6a7028dac67b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "여유롭게 둘러보고 싶다면 방문객 데이터가 알려주는 답이 있습니다.",
+  "at": "2026-08-15T08:55:49.214Z"
+ },
+ "zh/bengaluru-visvesvaraya-industrial-technological-museum": {
+  "hash": "5aa224808d38",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "博物馆...与其说是布满尘埃的老古董收藏地,不如说更像是一场老少皆宜的家庭出游",
+  "at": "2026-08-15T08:56:07.863Z"
+ },
+ "zh/bukit-timah-bukit-timah-nature-reserve-visitor-centre": {
+  "hash": "b834021ccbe7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "馆内的模型和展板介绍了保护区作为集水区的功能，以及它令人惊讶的生物多样性",
+  "at": "2026-08-15T08:56:16.102Z"
+ },
+ "zh/central-mak-s-noodle": {
+  "hash": "488effd1e93b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "聪明的做法是提前避开人潮高峰，而不是假装人潮不存在。",
+  "at": "2026-08-15T08:56:17.803Z"
+ },
+ "zh/chengdu-chengdu-museum": {
+  "hash": "abd0b3c1b44b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于这里很少拥挤，在成都炎热的午后，如果想找个既能吹空调又不用人挤人的去处，这里也是个舒服的选择。",
+  "at": "2026-08-15T08:56:46.469Z"
+ },
+ "zh/cordoba-alcazar-de-los-reyes-cristianos": {
+  "hash": "97e78d414fa6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 잘 알려지지 않은 숨은 명소가 아니기 때문에, 특히 화요일부터 금요일까지는 오전 중반이면",
+  "at": "2026-08-15T08:57:13.503Z"
+ },
+ "zh/genoa-porto-antico": {
+  "hash": "4cff5e1e88db",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "热那亚曾经历过几个世纪灰头土脸的航运业岁月，而波尔托·安蒂科港正是这座城市重新拥抱大海的地方。",
+  "at": "2026-08-15T08:57:15.863Z"
+ },
+ "zh/goa-shri-nageshi-temple": {
+  "hash": "263aa0406422",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "붐빔을 피하는 방법은 주말에 존재하지도 않는 한산한 틈을 찾는 것이 아니라, 그저 평일 이른 시간에...",
+  "at": "2026-08-15T08:57:17.539Z"
+ },
+ "zh/guilin-xijie-pedestrian-street": {
+  "hash": "211b868d9b68",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "两处车程都在30-40分钟以内可以到达",
+  "at": "2026-08-15T08:57:19.052Z"
+ },
+ "zh/jurong-japanese-garden": {
+  "hash": "19ea42cf6e71",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "整体布局遵循古典日式园林的理念：讲究不对称之美，借景于外，以水景为核心。",
+  "at": "2026-08-15T08:57:21.667Z"
+ },
+ "zh/koh-chang-kai-bae-beach": {
+  "hash": "93bbcf624d15",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 혼잡함과 맞서 싸우기보다는 미리 일정을 짜두는 편이 낫습니다.",
+  "at": "2026-08-15T08:57:23.414Z"
+ },
+ "zh/kumamoto-kato-shrine": {
+  "hash": "334b014e0b7c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 내력 때문에 신사로 오르는 길의 구조도 남다릅니다.",
+  "at": "2026-08-15T08:57:25.285Z"
+ },
+ "zh/mong-kok-beans-cafe": {
+  "hash": "4d5edb6ec536",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "200多条点评喂出4.7星的成绩，对一家这么小的店来说相当亮眼。",
+  "at": "2026-08-15T08:57:54.601Z"
+ },
+ "zh/nantes-chateau-des-ducs-de-bretagne": {
+  "hash": "04cb6e92a0c1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这可不是一处围栏后面的废墟——你可以直接免费走进庭院，对于一座如此重要的古迹来说，这样的开放程度相当难得。",
+  "at": "2026-08-15T08:57:56.948Z"
+ },
+ "zh/palermo-mercato-ballaro": {
+  "hash": "65a8fd0d819c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "摊贩们扯着嗓子在血橙和剑鱼排堆前喊价,小摩托车在摊位间穿梭而过,柑橘香、油炸面糊的香气混着柴油味扑面而来,不知为何却出奇地和谐。",
+  "at": "2026-08-15T08:58:45.535Z"
+ },
+ "zh/phong-nha-phong-nha-ke-bang-national-park": {
+  "hash": "70ac1455ba2f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "동굴 말고도, 국립공원 영역을 가로지르는 호치민 트레일 서쪽 구간에는 전쟁 유적이 곳곳에 남아 있어...",
+  "at": "2026-08-15T08:58:52.323Z"
+ },
+ "zh/portland-pittock-mansion": {
+  "hash": "3ff7c1cd5e4a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "인파 데이터가 보여주듯 숨겨진 각도를 찾아내는 것보다 방문 시간대를 잘 맞추는 것이 진짜 요령입니다.",
+  "at": "2026-08-15T08:58:58.862Z"
+ },
+ "zh/sheung-wan-graham-street-market": {
+  "hash": "6723ab146f40",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这样的日子已经过了一百多年。",
+  "at": "2026-08-15T08:59:04.200Z"
+ },
+ "zh/sukhothai-sukhothai-buddha-park": {
+  "hash": "8ae533138798",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周末早上大约7点到中午这段时间，相对平时的清静来说算是人最多的时候。",
+  "at": "2026-08-15T08:59:11.775Z"
+ },
+ "zh/toledo-mirador-del-valle": {
+  "hash": "beace13ebdca",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방문객들이 가장 흔히 저지르는 실수는 이곳을 5분짜리 사진 촬영 장소쯤으로 여기는 것입니다.",
+  "at": "2026-08-15T08:59:13.595Z"
  }
 }

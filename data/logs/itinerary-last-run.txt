@@ -1,4 +1,3 @@
-SKIP new city "Busan" — weekly new-city cap (2/7d) reached
 SKIP new city "Hong Kong" — weekly new-city cap (2/7d) reached
 SKIP new city "Los Angeles" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
@@ -16,14 +15,17 @@ Bangkok, Thailand — 19 qualifying post(s), variants: 3
 Barcelona, Spain — 15 qualifying post(s), variants: 3
   = Barcelona 3d — unchanged, skipping
 
+Busan, South Korea — 13 qualifying post(s), variants: 3
+NEW_ITINERARY: Busan 3d
+
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
-Singapore, Singapore — 43 qualifying post(s), variants: 3, 5
-  ~ Singapore 3d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Singapore 3d — updated
-  ~ Singapore 5d — structure changed by 3 slug(s), regenerating prose
-ERROR processing Singapore: 400 {"type":"error","error":{"type":"invalid_request_error","message":"You have reached your specified API usage limits. You will regain access on 2026-09-01 at 00:00 UTC."},"request_id":"req_011Ce4BqLfrChZVBAuxW5dFR"}
+Singapore, Singapore — 44 qualifying post(s), variants: 3, 5
+  ~ Singapore 3d — structure changed by 4 slug(s), regenerating prose
+  ⚠ Singapore 3d — guard found 1 hours/price + 6 rain-leak issue(s) on first pass; retrying once
+PROSE-GUARD FAILED: Singapore 3d — hours-language in days[1].intro: "Day two is centered on Bukit Timah, starting at the nature reserve's visitor centre before heading onto the trails of Bukit Timah Nature Reserve itself. The day closes at Singapore Botanic Gardens for a slower-paced wander among orchids and lakes."
+ERROR processing Singapore: prose guard failed for Singapore 3d after retry (1 issue(s))
 
 Done.
 
