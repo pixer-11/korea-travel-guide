@@ -1,7 +1,9 @@
 ---
-draft: true
+draft: false
 title: '2026 China Open (Snooker): What to Know (Taiyuan)'
-description: 2026 China Open (Snooker) in Taiyuan, China — August 8-16, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  2026 China Open (Snooker) in Taiyuan, China — August 8-16, 2026. What it is,
+  when and where, and how to plan around it.
 country: China
 region: Taiyuan
 category: event
@@ -12,18 +14,40 @@ gallery: []
 tags:
   - taiyuan
   - event
-quickAnswer: The 2026 China Open snooker tournament runs August 8–16, 2026, at the Riverside Sports Centre in Taiyuan, Shanxi province, with defending champion Neil Robertson and other top-ranked professionals expected to compete. Buy tickets and confirm session times through the official World Snooker Tour channels closer to the date, since venues and schedules for Chinese ranking events can shift.
+quickAnswer: >-
+  The 2026 China Open snooker tournament runs August 8–16, 2026, at the
+  Riverside Sports Centre in Taiyuan, Shanxi province, with defending champion
+  Neil Robertson and other top-ranked professionals expected to compete. Buy
+  tickets and confirm session times through the official World Snooker Tour
+  channels closer to the date, since venues and schedules for Chinese ranking
+  events can shift.
 faq:
   - q: What are the official dates of the 2026 China Open?
-    a: August 8–16, 2026, in Taiyuan, though visitors should confirm the exact daily schedule on the official World Snooker Tour site as it gets closer, since session-by-session timing is usually released later.
+    a: >-
+      August 8–16, 2026, in Taiyuan, though visitors should confirm the exact
+      daily schedule on the official World Snooker Tour site as it gets closer,
+      since session-by-session timing is usually released later.
   - q: Where is the tournament held?
-    a: At the Riverside Sports Centre in Taiyuan, Shanxi province. Confirm the exact address and transit access on the official event page before travelling.
+    a: >-
+      At the Riverside Sports Centre in Taiyuan, Shanxi province. Confirm the
+      exact address and transit access on the official event page before
+      travelling.
   - q: How do I get tickets?
-    a: Tickets are typically sold per session through the official WST/China Open ticketing channel rather than as a single all-access pass. Prices and on-sale dates aren't confirmed yet — avoid third-party resellers and check the official source.
+    a: >-
+      Tickets are typically sold per session through the official WST/China Open
+      ticketing channel rather than as a single all-access pass. Prices and
+      on-sale dates aren't confirmed yet — avoid third-party resellers and check
+      the official source.
   - q: Who is playing?
-    a: Defending champion Neil Robertson is confirmed among the top international players expected, alongside a strong field of Chinese professionals. The full bracket is usually only finalized close to the event.
+    a: >-
+      Defending champion Neil Robertson is confirmed among the top international
+      players expected, alongside a strong field of Chinese professionals. The
+      full bracket is usually only finalized close to the event.
   - q: How long should I plan to stay?
-    a: One to two days covers a couple of sessions comfortably, but dedicated fans often stay for the semifinal and final weekend, which are the highest-demand sessions.
+    a: >-
+      One to two days covers a couple of sessions comfortably, but dedicated
+      fans often stay for the semifinal and final weekend, which are the
+      highest-demand sessions.
 aiGenerated: true
 eventRecurring: true
 ---

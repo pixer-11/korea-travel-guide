@@ -23,7 +23,7 @@ faq:
   - q: Where's a good base for two nights of shows?
     a: Hotels in Arlington's Entertainment District, within walking distance of the stadium and Texas Live!, are the most convenient; staying in Dallas or Fort Worth means budgeting extra time for I-30 traffic before and after the show.
 aiGenerated: true
-draft: false
+draft: true
 eventRecurring: false
 photoless: true
 heroImage:

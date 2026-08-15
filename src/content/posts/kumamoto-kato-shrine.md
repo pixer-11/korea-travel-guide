@@ -1,37 +1,39 @@
 ---
-title: "Katō Shrine: Kumamoto Travel Guide (4.3★)"
-description: "Katō Shrine sits inside the old castle grounds in central Kumamoto, dedicated to the daimyō Katō Kiyomasa, and it delivers one of the best straight-on views of Kumamoto Castle's reconstructed keep. 4.3★ (3,259 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kumamoto"
-category: "attraction"
-pubDate: "2026-08-15T07:55:42.218Z"
+title: 'Katō Shrine: Kumamoto Travel Guide (4.3★)'
+description: Katō Shrine sits inside the old castle grounds in central Kumamoto, dedicated to the daimyō Katō Kiyomasa, and it delivers one of the best straight-on views of Kumamoto Castle's reconstructed keep. 4.3★ (3,259 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kumamoto
+category: attraction
+pubDate: '2026-08-15T07:55:42.218Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/68/Kato-jinjya_Shrine_%28Kumamoto%29_1.jpg"
-  credit: "Photo: MK Products / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kato-jinjya_Shrine_(Kumamoto)_1.jpg"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/358657539_4fR9xleraamVW7h1GHyB3JUPsFsQRAgqn8arqtFP2t8.jpg
+  credit: 'Photo: Foursquare user content (Kato shrine (加藤神社))'
+  license: foursquare
+  source: https://foursquare.com/v/4b4ea21af964a5200bf326e3
+  focus:
+    x: 55
+    'y': 60
 place:
-  id: "ChIJS9I45xH0QDURrcyXOS9wzP4"
-  name: "Katō Shrine"
-  address: "2-1 Honmaru, Chuo Ward, Kumamoto, 860-0002, Japan"
+  id: ChIJS9I45xH0QDURrcyXOS9wzP4
+  name: Katō Shrine
+  address: 2-1 Honmaru, Chuo Ward, Kumamoto, 860-0002, Japan
   rating: 4.3
   userRatingsTotal: 3259
-  googleMapsUrl: "https://maps.google.com/?cid=18360173129014693037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18360173129014693037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 32.8071318
   lng: 130.7053316
-  phone: "+81 96-352-7316"
+  phone: +81 96-352-7316
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 16
@@ -45,22 +47,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_34507a7739534f587963725255445130487835344939534a496843"
+    venueId: ven_34507a7739534f587963725255445130487835344939534a496843
 tags:
-  - "kumamoto"
-  - "historic site"
-quickAnswer: "Katō Shrine sits inside the old castle grounds in central Kumamoto, dedicated to the daimyō Katō Kiyomasa, and it delivers one of the best straight-on views of Kumamoto Castle's reconstructed keep. It's open daily 8am–5pm. Go right at opening or on a weekday to skip the weekend crowd that builds from 10am."
+  - kumamoto
+  - historic site
+quickAnswer: Katō Shrine sits inside the old castle grounds in central Kumamoto, dedicated to the daimyō Katō Kiyomasa, and it delivers one of the best straight-on views of Kumamoto Castle's reconstructed keep. It's open daily 8am–5pm. Go right at opening or on a weekday to skip the weekend crowd that builds from 10am.
 faq:
-  - q: "What are Katō Shrine's opening hours?"
-    a: "It's open every day from 8:00 AM to 5:00 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings through afternoon (8am–5pm) stay calm, and on weekends the 8am–9am slot right after opening is the quietest window before crowds build from 10am onward."
-  - q: "How do I get to Katō Shrine?"
-    a: "Take the Kumamoto City Tram to Kumamotojōmae/Shiyakusho-mae and walk about 10 minutes uphill into the castle grounds, or take a roughly 15-minute taxi from JR Kumamoto Station."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 20–30 minutes at the shrine itself, though many combine it with a longer walk through the surrounding Kumamoto Castle grounds."
-  - q: "Is there an admission fee?"
-    a: "The shrine visit itself is generally free, but reaching it may involve routes connected to paid castle areas — check current pricing at the entrance gate before you go."
+  - q: What are Katō Shrine's opening hours?
+    a: It's open every day from 8:00 AM to 5:00 PM, with no weekly closing day.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings through afternoon (8am–5pm) stay calm, and on weekends the 8am–9am slot right after opening is the quietest window before crowds build from 10am onward.
+  - q: How do I get to Katō Shrine?
+    a: Take the Kumamoto City Tram to Kumamotojōmae/Shiyakusho-mae and walk about 10 minutes uphill into the castle grounds, or take a roughly 15-minute taxi from JR Kumamoto Station.
+  - q: How long should I spend there?
+    a: Most visitors spend 20–30 minutes at the shrine itself, though many combine it with a longer walk through the surrounding Kumamoto Castle grounds.
+  - q: Is there an admission fee?
+    a: The shrine visit itself is generally free, but reaching it may involve routes connected to paid castle areas — check current pricing at the entrance gate before you go.
 aiGenerated: true
 draft: false
 ---

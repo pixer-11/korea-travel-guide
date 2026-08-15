@@ -26,13 +26,13 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fd/D%C3%A9part_de_Greg_Junod_lors_du_Bol_d%27or_2013.jpg
-  credit: 'Photo: Lcodbar / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ab/Bol_d%27or_2015.jpg
+  credit: 'Photo: NathEDL / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:D%C3%A9part_de_Greg_Junod_lors_du_Bol_d%27or_2013.jpg
+  source: https://commons.wikimedia.org/wiki/File:Bol_d%27or_2015.jpg
   focus:
-    x: 50
-    'y': 55
+    x: 70
+    'y': 20
 ---
 ## Why go
 

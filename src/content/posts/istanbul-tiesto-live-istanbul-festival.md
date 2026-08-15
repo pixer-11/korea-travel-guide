@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-08'
 eventEndDate: '2026-08-08'
-gallery: []
 tags:
   - istanbul
   - event
@@ -24,8 +23,15 @@ faq:
   - q: Can I combine this with sightseeing?
     a: Yes — Yenikapı sits on Istanbul's Historic Peninsula, a short tram ride from the Blue Mosque, Hagia Sophia, and Topkapı Palace, so it's easy to pair the concert with a day of sightseeing.
 aiGenerated: true
-draft: true
 eventRecurring: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiesto_%40_Spring_Awakening_6_11_2014_%2814476258533%29.jpg/3840px-Tiesto_%40_Spring_Awakening_6_11_2014_%2814476258533%29.jpg
+  credit: 'Photo: swimfinfan from Chicago / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tiesto_@_Spring_Awakening_6_11_2014_(14476258533).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 ## Why this show matters
 

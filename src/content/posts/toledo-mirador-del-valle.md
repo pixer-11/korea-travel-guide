@@ -1,41 +1,43 @@
 ---
-title: "Mirador del Valle: Toledo Travel Guide (4.8★)"
-description: "Mirador del Valle sits across the Tagus gorge on the Ctra. Circunvalación, about a 20-minute walk or a short taxi/bus ride from Toledo's old town, and it delivers the single best panorama of the walled city. 4.8★ (14,280 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Toledo"
-category: "hidden-gem"
-pubDate: "2026-08-15T07:54:21.589Z"
+title: 'Mirador del Valle: Toledo Travel Guide (4.8★)'
+description: Mirador del Valle sits across the Tagus gorge on the Ctra. Circunvalación, about a 20-minute walk or a short taxi/bus ride from Toledo's old town, and it delivers the single best panorama of the walled city. 4.8★ (14,280 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Toledo
+category: hidden-gem
+pubDate: '2026-08-15T07:54:21.589Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alcazar_Toledo_Mirador_Valle.jpg/3840px-Alcazar_Toledo_Mirador_Valle.jpg"
-  credit: "Photo: Rafa Esteve / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alcazar_Toledo_Mirador_Valle.jpg"
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/455173579_btTPnvUv9fiU5sa90gMR8krz6ECOgKUgm7OSsknLFHM.jpg
+  credit: 'Photo: Foursquare user content (Mirador del Valle)'
+  license: foursquare
+  source: https://foursquare.com/v/57b4dbce498e17650706a0d1
+  focus:
+    x: 50
+    'y': 40
 place:
-  id: "ChIJjwBCLXULag0ROgG9H5zXdUc"
-  name: "Mirador del Valle"
-  address: "Ctra. Circunvalación, s/n, 45004 Toledo, Spain"
+  id: ChIJjwBCLXULag0ROgG9H5zXdUc
+  name: Mirador del Valle
+  address: Ctra. Circunvalación, s/n, 45004 Toledo, Spain
   rating: 4.8
   userRatingsTotal: 14280
-  googleMapsUrl: "https://maps.google.com/?cid=5149258814515380538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5149258814515380538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.8503616
   lng: -4.0218798
 tags:
-  - "toledo"
-  - "hidden gem"
-quickAnswer: "Mirador del Valle sits across the Tagus gorge on the Ctra. Circunvalación, about a 20-minute walk or a short taxi/bus ride from Toledo's old town, and it delivers the single best panorama of the walled city. Go for sunset, but arrive at least an hour early to claim a spot along the railing — with nearly 14,300 reviews and a 4.8 rating, this is no secret, and buses and tour coaches converge here daily. A visit needs 30-45 minutes, longer if you eat at the terrace café."
+  - toledo
+  - hidden gem
+quickAnswer: Mirador del Valle sits across the Tagus gorge on the Ctra. Circunvalación, about a 20-minute walk or a short taxi/bus ride from Toledo's old town, and it delivers the single best panorama of the walled city. Go for sunset, but arrive at least an hour early to claim a spot along the railing — with nearly 14,300 reviews and a 4.8 rating, this is no secret, and buses and tour coaches converge here daily. A visit needs 30-45 minutes, longer if you eat at the terrace café.
 faq:
-  - q: "How do I get to Mirador del Valle without a car?"
-    a: "Take city bus route 71 from the old town, or a taxi (about 10 minutes from Plaza de Zocodover). Walking takes 20-25 minutes downhill and across a bridge, then back uphill."
-  - q: "What's the best time to visit for photos?"
-    a: "Sunset gives the most dramatic light on the cathedral and Alcázar, but arrive 45-60 minutes early to get a railing spot. Sunrise is quieter with softer light if you want to avoid crowds."
-  - q: "How long should I plan to stay?"
-    a: "30-45 minutes covers the main viewpoint and a coffee at the terrace café. Linger longer around sunset to watch the light change over the city."
-  - q: "Is there food available at the viewpoint?"
-    a: "Yes, there's a small market and an eatery along the approach path, good for a drink or snack after the walk up."
-  - q: "Is it worth combining with anything else nearby?"
-    a: "Pair it with a walk across the Puente de San Martín or Puente de Alcántara on your way back into the old town — both historic bridges offer their own views of the gorge."
+  - q: How do I get to Mirador del Valle without a car?
+    a: Take city bus route 71 from the old town, or a taxi (about 10 minutes from Plaza de Zocodover). Walking takes 20-25 minutes downhill and across a bridge, then back uphill.
+  - q: What's the best time to visit for photos?
+    a: Sunset gives the most dramatic light on the cathedral and Alcázar, but arrive 45-60 minutes early to get a railing spot. Sunrise is quieter with softer light if you want to avoid crowds.
+  - q: How long should I plan to stay?
+    a: 30-45 minutes covers the main viewpoint and a coffee at the terrace café. Linger longer around sunset to watch the light change over the city.
+  - q: Is there food available at the viewpoint?
+    a: Yes, there's a small market and an eatery along the approach path, good for a drink or snack after the walk up.
+  - q: Is it worth combining with anything else nearby?
+    a: Pair it with a walk across the Puente de San Martín or Puente de Alcántara on your way back into the old town — both historic bridges offer their own views of the gorge.
 aiGenerated: true
 draft: false
 ---

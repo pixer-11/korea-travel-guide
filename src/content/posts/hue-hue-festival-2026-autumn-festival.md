@@ -1,6 +1,8 @@
 ---
 title: 'Hue Festival 2026 - Autumn Festival: What to Know (Hue)'
-description: Hue Festival 2026 - Autumn Festival in Hue, Vietnam — August 1 - September 30, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Hue Festival 2026 - Autumn Festival in Hue, Vietnam — August 1 - September 30,
+  2026. What it is, when and where, and how to plan around it.
 country: Vietnam
 region: Hue
 category: event
@@ -11,20 +13,44 @@ gallery: []
 tags:
   - hue
   - event
-quickAnswer: Hue's Autumn Festival runs August 1 – September 30, 2026, as the third seasonal chapter of the year-long Hue Festival 2026. Expect a two-month spread of heritage performances, music, and the month-long Hue Sports Festival in August, staged around the Imperial City and other heritage venues in the city. Because exact venues, ticketing, and daily schedules haven't been locked in this far out, treat this guide as a planning primer and confirm specifics on the official Hue Festival / Thua Thien Hue tourism channels before booking flights or hotels.
+quickAnswer: >-
+  Hue's Autumn Festival runs August 1 – September 30, 2026, as the third
+  seasonal chapter of the year-long Hue Festival 2026. Expect a two-month spread
+  of heritage performances, music, and the month-long Hue Sports Festival in
+  August, staged around the Imperial City and other heritage venues in the city.
+  Because exact venues, ticketing, and daily schedules haven't been locked in
+  this far out, treat this guide as a planning primer and confirm specifics on
+  the official Hue Festival / Thua Thien Hue tourism channels before booking
+  flights or hotels.
 faq:
   - q: What are the exact dates of the Hue Autumn Festival 2026?
-    a: It's scheduled for August 1 to September 30, 2026, as one seasonal segment of the year-long Hue Festival 2026. Confirm any updates on the official festival site closer to the date.
+    a: >-
+      It's scheduled for August 1 to September 30, 2026, as one seasonal segment
+      of the year-long Hue Festival 2026. Confirm any updates on the official
+      festival site closer to the date.
   - q: Is this the same as the Hue Sports Festival?
-    a: The Hue Sports Festival is a month-long program within the Autumn Festival, running through August, alongside separate cultural, musical, and heritage events that continue into September.
+    a: >-
+      The Hue Sports Festival is a month-long program within the Autumn
+      Festival, running through August, alongside separate cultural, musical,
+      and heritage events that continue into September.
   - q: How do I get to Hue for the festival?
-    a: Fly into Phu Bai International Airport (about 30-40 minutes from the city center) or take the Reunification Express train to Hue Railway Station, which connects easily with Hanoi, Da Nang, and Ho Chi Minh City.
+    a: >-
+      Fly into Phu Bai International Airport (about 30-40 minutes from the city
+      center) or take the Reunification Express train to Hue Railway Station,
+      which connects easily with Hanoi, Da Nang, and Ho Chi Minh City.
   - q: Where in Hue do festival events usually take place?
-    a: Historic Hue Festival editions center on the Imperial City (Kinh Thanh Hue) and the Perfume River waterfront, though specific 2026 venues hadn't been published yet — check official channels closer to your visit.
+    a: >-
+      Historic Hue Festival editions center on the Imperial City (Kinh Thanh
+      Hue) and the Perfume River waterfront, though specific 2026 venues hadn't
+      been published yet — check official channels closer to your visit.
   - q: Do I need tickets in advance?
-    a: Some performances and events may require tickets, especially anything staged at major heritage sites, but pricing and ticketing details for 2026 weren't available yet. Confirm through official Hue Festival or Thua Thien Hue tourism sources before you travel.
+    a: >-
+      Some performances and events may require tickets, especially anything
+      staged at major heritage sites, but pricing and ticketing details for 2026
+      weren't available yet. Confirm through official Hue Festival or Thua Thien
+      Hue tourism sources before you travel.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 photoless: true
 ---

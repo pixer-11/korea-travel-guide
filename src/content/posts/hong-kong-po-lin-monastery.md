@@ -6,11 +6,13 @@ region: Hong Kong
 category: attraction
 pubDate: '2026-08-13T08:48:42.545Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Po_Lin_Monastery_2.jpg
-  credit: 'Photo: No machine-readable author provided. Enochlau assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Po_Lin_Monastery_2.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/12554873_18Z4VgZa4cRZ56nAgNcFrdrQFcgxPL3eifL_kAbRQ0E.jpg
+  credit: 'Photo: Foursquare user content (Po Lin Monastery (寶蓮禪寺))'
+  license: foursquare
+  source: https://foursquare.com/v/4b0588d3f964a520cadb22e3
+  focus:
+    x: 30
+    'y': 45
 place:
   id: ChIJP9fVNl9YATQRPBvErn2e8zI
   name: Po Lin Monastery
@@ -65,7 +67,6 @@ faq:
   - q: Is there anywhere to eat nearby?
     a: Yes — the monastery runs an on-site vegetarian restaurant serving set meals, and Ngong Ping Village has tea shops and casual food stalls.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
