@@ -320,12 +320,30 @@ h1, h2, h3, h4 {
     max-height: 70vh; overflow-y: auto;
     transition: opacity 0.14s ease, visibility 0s linear 0.28s;
   }
-  /* Bridge the 2px gap so the cursor never crosses a dead zone on its way out. */
-  .nav-cont-list::before { content: ""; position: absolute; top: 0; bottom: 0; left: -6px; width: 6px; }
+  /* Bridge the 2px gap so the cursor never crosses a dead zone on its way out.
+     This used to live on .nav-cont-list::before at left:-6px — but the
+     flyout has overflow-y:auto, which CLIPS anything outside its box, so
+     the bridge was invisible to the pointer and the gap was never bridged.
+     Hung on the continent ROW instead (no overflow there). */
+  .nav-cont:hover::after,
+  .nav-cont:focus-within::after,
+  .nav-cont.is-open::after {
+    content: ""; position: absolute; top: 0; bottom: 0; left: 100%; width: 14px;
+  }
+  /* .is-open is set by the hover-intent script in Header.astro: a cursor
+     drifting DIAGONALLY from the "Asia" row toward a country low in its
+     flyout crosses the "All destinations" links below the row, and pure
+     :hover closes the flyout under the pointer — a CSS grace period can't
+     save it, because pointer-events:none lands the instant hover ends, so
+     the flyout can't catch the cursor when it arrives (owner's report and
+     live probe, 2026-08-15). The script keeps the row open for a short
+     grace after mouseleave and cancels it if the cursor re-enters. */
   .nav-cont:hover > .nav-cont-list,
-  .nav-cont:focus-within > .nav-cont-list {
+  .nav-cont:focus-within > .nav-cont-list,
+  .nav-cont.is-open > .nav-cont-list {
     opacity: 1; visibility: visible; pointer-events: auto; transition: opacity 0.14s ease, visibility 0s;
   }
+  .nav-cont.is-open > .nav-dd-head-link { background: var(--surface-2); color: var(--accent); }
   /* Flip to the left when the flyout would run off the right edge. */
   .nav-dd-menu > .nav-cont:last-of-type .nav-cont-list { top: auto; bottom: -0.4rem; }
 }

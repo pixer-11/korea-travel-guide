@@ -155,6 +155,33 @@ const navGroups = CONT_ORDER
 </script>
 
 <script>
+  // Desktop hover-intent for the continent flyouts. Pure :hover closed the
+  // flyout under the pointer whenever the cursor drifted diagonally from the
+  // "Asia" row toward a country low in its list — the diagonal crosses the
+  // "All destinations" links under the row, hover ends, and CSS can't grant a
+  // grace period because pointer-events:none lands the instant hover does
+  // (owner's report + live probe, 2026-08-15). So: on mouseleave, keep the
+  // row .is-open for GRACE ms; cancel if the cursor re-enters the row or its
+  // flyout; opening another continent closes the rest at once (no two
+  // flyouts). Mouse-only — touch/keyboard paths are untouched.
+  (() => {
+    if (!window.matchMedia('(min-width: 821px) and (hover: hover)').matches) return;
+    const GRACE = 450;
+    const conts = Array.from(document.querySelectorAll<HTMLElement>('.nav-dd-menu .nav-cont'));
+    if (!conts.length) return;
+    const timers = new WeakMap<HTMLElement, number>();
+    const closeAll = (except?: HTMLElement) => conts.forEach((c) => { if (c !== except) { c.classList.remove('is-open'); const t = timers.get(c); if (t) { clearTimeout(t); timers.delete(c); } } });
+    conts.forEach((c) => {
+      c.addEventListener('mouseenter', () => { const t = timers.get(c); if (t) { clearTimeout(t); timers.delete(c); } closeAll(c); c.classList.add('is-open'); });
+      c.addEventListener('mouseleave', () => { timers.set(c, window.setTimeout(() => { c.classList.remove('is-open'); timers.delete(c); }, GRACE)); });
+    });
+    // Leaving the whole dropdown clears everything so a flyout never lingers
+    // after the menu itself has gone.
+    document.querySelector('.dest-dd')?.addEventListener('mouseleave', () => closeAll());
+  })();
+</script>
+
+<script>
   // Mobile-only drill-down. Levels: 1 = top menu, 2 = continents, 3 = countries of
   // the chosen continent. Desktop never changes level (the CSS only reacts to
   // data-level below 820px), so the hover dropdown is untouched.
