@@ -5,6 +5,11 @@ country: Vietnam
 region: Hanoi
 category: restaurant
 pubDate: '2026-07-22T09:30:22.769Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/603400076_7oZgL2dPkGs6p2xz7NeDq95z31mazWV_xnK9E1wuE_g.jpg"
+    credit: "Photo: Foursquare user content (Hong Hoai Restaurant)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/59816115e185f3625c485866"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/3709928_1zojLhXlVJbBi35IW8MOu8KT_SGYlidemX69yUvRLgE.jpg
   credit: 'Photo: Foursquare user content (Hong Hoai Restaurant)'

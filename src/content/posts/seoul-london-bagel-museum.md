@@ -5,6 +5,11 @@ country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-07-23'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/3145414_t0PH53W7mr4DOFA5DrFUlCGU5kBz8Qhxv4HTI6Lgg_E.jpg"
+    credit: "Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/613b092d6082cc326e9966c5"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/150378465_ZdEh6NqhGBRHf7QgzyblTy2tjYLPOVpQ1mGivjm01Xs.jpg
   credit: 'Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))'

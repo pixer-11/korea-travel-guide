@@ -5,6 +5,11 @@ country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-07-23T07:15:17.661Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/785019_ZrA9wzT6emCwL3oZo6Gqbe22rCwPkrjR2jZtfH5bAQE.jpg"
+    credit: "Photo: Foursquare user content (This Is Bali)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/660688001fa2995516ef5937"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/67748071_nlDpUKr2kAgvaFGWOiDtSiTzM663xVA9-maCRytwC3g.jpg
   credit: 'Photo: Foursquare user content (This Is Bali)'

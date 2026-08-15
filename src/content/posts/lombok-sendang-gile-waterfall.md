@@ -5,6 +5,11 @@ country: Indonesia
 region: Lombok
 category: attraction
 pubDate: '2026-07-23T07:13:35.767Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/16247452_YDfmQdvSbSN9j_bsiZiY2bU0qRBnEHUJDTcT4KchqP0.jpg"
+    credit: "Photo: Foursquare user content (Sendang Gile Waterfall (Air Terjun Sindang Gila))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d352599b60937040b4912e0"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/48382350_Y0Y0xl4CG4iWP7yVTTX5UaM34ssVIkreLaWvxhSpy9o.jpg
   credit: 'Photo: Foursquare user content (Sendang Gile Waterfall (Air Terjun Sindang Gila))'

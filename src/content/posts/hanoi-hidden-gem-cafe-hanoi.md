@@ -5,6 +5,11 @@ country: Vietnam
 region: Hanoi
 category: hidden-gem
 pubDate: '2026-07-22T09:34:33.925Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/53354300_2x9P5dIGPWqdw-evZyKp955Ed0b6CPJotWDQ6oN3mIg.jpg"
+    credit: "Photo: Foursquare user content (Hidden Gem Coffee)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5c5161f7f427de002cd2eed3"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/17834158_el_T6kdYYvxUYE4MJ_rv556PHfL83id65egOuZR7x7M.jpg
   credit: 'Photo: Foursquare user content (Hidden Gem Coffee)'

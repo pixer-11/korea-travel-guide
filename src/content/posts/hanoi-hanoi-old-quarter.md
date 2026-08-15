@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi,_20240204_1335_5772.jpg
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg/3840px-Old_Quarter_street_scene%2C_Hanoi_%281%29_%2838464672752%29.jpg"
+    credit: "Photo: Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Old_Quarter_street_scene,_Hanoi_(1)_(38464672752).jpg"
 place:
   id: ChIJp0o4Er6rNTERjlTif_IXU1k
   name: Hanoi Old Quarter

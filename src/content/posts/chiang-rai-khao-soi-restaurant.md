@@ -5,6 +5,11 @@ country: Thailand
 region: Chiang Rai
 category: restaurant
 pubDate: '2026-07-22T09:22:47.024Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/70222083_4AfZTOTMFdXkea0M_lA6MCsNIG8yCz3LG-LVysUgIco.jpg"
+    credit: "Photo: Foursquare user content (Khao Soi Restaurant)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/63a83c3b82c8312a70c1f958"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/41366177_IEUfvo8n0H-gRSCr-bNlkQjLXNrEGobw7ck8QWIf9io.jpg
   credit: 'Photo: Foursquare user content (Khao Soi Restaurant)'

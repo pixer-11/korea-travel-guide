@@ -5,6 +5,11 @@ country: Thailand
 region: Bangkok
 category: hidden-gem
 pubDate: '2026-07-22T09:24:53.154Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/431587360_A0YW3tZ7WwtqMcrIbdIQQZmBHckEQiOgA2IFgSqgV20.jpg"
+    credit: "Photo: Foursquare user content (Hidden Bangkok Boat Tours)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/656c514bbb726a74d1bac44c"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg
   credit: 'Photo: Foursquare user content (Hidden Bangkok Boat Tours)'

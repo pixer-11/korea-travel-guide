@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (Oxomoco オショモコ)'
   license: foursquare
   source: https://foursquare.com/v/69fd76d47d033768f6173af0
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/69277252_8DlqGgj_Mi0dtvf_KTlnKa-B-Ix6Nj3JRuXdSwVdOTU.jpg"
+    credit: "Photo: Foursquare user content (Oxomoco オショモコ)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/69fd76d47d033768f6173af0"
 place:
   id: ChIJ0y3_b4eLGGAR6q6oerLsBDo
   name: OXOMOCO

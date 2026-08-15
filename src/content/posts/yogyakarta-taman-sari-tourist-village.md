@@ -5,6 +5,11 @@ country: Indonesia
 region: Yogyakarta
 category: attraction
 pubDate: '2026-07-22T09:44:22.363Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/756151_i4GFhbqPPy9bg0mZVrQmhDsRNRCYQE0VgEgNG6xgYfk.jpg"
+    credit: "Photo: Foursquare user content (Taman Sari Water Castle)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bad8b68f964a520535a3be3"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/91829172_iKj_kqI9JKLZAGAZGvRUtYwJIhXEIA-AiyVfKhQQkJw.jpg
   credit: 'Photo: Foursquare user content (Taman Sari Water Castle)'

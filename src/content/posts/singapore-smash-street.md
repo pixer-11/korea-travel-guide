@@ -5,6 +5,11 @@ country: Singapore
 region: Singapore
 category: trendy
 pubDate: '2026-07-23'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/66482202_d1yxGpWmGlggLHVT9jxqfC5wOCmt9jPjNPxr5R72Adc.jpg"
+    credit: "Photo: Foursquare user content (Smash Street)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/69d8f55c73ca0576a90e9284"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/234324_lOnqNgB29VfRevi5yRMUw-fsMjsoLR2Nx_jkZl2fmQA.jpg
   credit: 'Photo: Foursquare user content (Smash Street)'

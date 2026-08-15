@@ -10,7 +10,11 @@ heroImage:
   credit: "Photo: Foursquare user content (Best Khao Soi Chang Mai)"
   license: foursquare
   source: https://foursquare.com/v/676e78c65d664d786b17c103
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1205313_4xeghc1iU_eyfFy9wi52bkhWoNh0qkfKNkplW56cRYE.jpg"
+    credit: "Photo: Foursquare user content (Best Khao Soi Chang Mai)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/676e78c65d664d786b17c103"
 place:
   id: ChIJKVNboGg72jARJXKeBsiz0ac
   name: Best Khao Soi Chang mai

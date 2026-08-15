@@ -5,6 +5,11 @@ country: Indonesia
 region: Lombok
 category: restaurant
 pubDate: '2026-07-23T07:17:25.991Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12724474_0p4a0LX3j4_PB6dtaLL6IqSuCJW-sIuvguu9-23lkuo.jpg"
+    credit: "Photo: Foursquare user content (Elamu Lombok)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/6584f9ce9600bd3b9dfbf090"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/51058052_Z5jaVZ3EZqM-Y6xXnvccLNd5KUPv7mplM8OKVgQyXd4.jpg
   credit: 'Photo: Foursquare user content (Elamu Lombok)'

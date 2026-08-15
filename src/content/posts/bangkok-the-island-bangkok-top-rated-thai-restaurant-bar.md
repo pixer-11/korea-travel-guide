@@ -10,7 +10,11 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Island Restaurant (ก๋วยเตี๋ยว จุ่ม))'
   license: foursquare
   source: https://foursquare.com/v/59faee799411f208e9a02859
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1408596541_1rU29RagrfLXNBBaSDv4qtlZzqblutcFquly9jGp1dU.jpg"
+    credit: "Photo: Foursquare user content (The Island Restaurant (ก๋วยเตี๋ยว จุ่ม))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/59faee799411f208e9a02859"
 place:
   id: ChIJBYCkBQCZ4jARMk27YRVj-vM
   name: The Island Bangkok – Top Rated Thai Restaurant & Bar

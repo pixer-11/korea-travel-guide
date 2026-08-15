@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/176210106_YFAkrR0uXM9htLJEm2gyPCxNPVBR60h2Bh2b9pcjaS4.jpg"
+    credit: "Photo: Foursquare user content (Salt & Oak)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/68adbcc34ed70a61c469a08a"
 place:
   id: ChIJR3PLtNjxVDARKME5gaIWlaw
   name: Salt & Oak

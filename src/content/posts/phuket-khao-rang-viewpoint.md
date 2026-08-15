@@ -5,6 +5,11 @@ country: Thailand
 region: Phuket
 category: attraction
 pubDate: '2026-07-22T09:10:53.913Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5834542_qq8ONHqe3JdFOGNOMssW77Xf35w0NqT_JKZPvDDT1e0.jpg"
+    credit: "Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/52e4d682498ecbb0e886274a"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/9375124_op9-ZKTovVhe80ST4RdJ7eFLEsOGtkvNwkdaWOaDtIU.jpg
   credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12280196_az9HZ0eBt69XQFbohsnbMGaZJw19eQHNIGKWkJHAQe0.jpg"
+    credit: "Photo: Foursquare user content (Sen_Den)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/69b5990c7b82a275fd45c135"
 place:
   id: ChIJV_TZUF65yhQR6CKNYH2RyBY
   name: sen‘den

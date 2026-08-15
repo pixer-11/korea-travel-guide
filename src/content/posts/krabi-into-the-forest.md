@@ -5,6 +5,11 @@ country: Thailand
 region: Krabi
 category: trendy
 pubDate: '2026-07-22T09:17:53.767Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Krabi_Urban_Forest_03.jpg/3840px-Krabi_Urban_Forest_03.jpg"
+    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Krabi_Urban_Forest_03.jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/473551293_UD9FW15KBf9W3kLmWsOP1YD9IRiN7X1eYf9dqNYn_Qw.jpg
   credit: 'Photo: Foursquare user content (Into The Forest)'
