@@ -19,11 +19,13 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
-Singapore, Singapore — 44 qualifying post(s), variants: 3, 5
-  = Singapore 3d — unchanged, skipping
-  = Singapore 5d — unchanged, skipping
+Singapore, Singapore — 43 qualifying post(s), variants: 3, 5
+  ~ Singapore 3d — minor structure change (2 slug diff), keeping existing prose
+  ✅ Singapore 3d — updated
+  ~ Singapore 5d — structure changed by 3 slug(s), regenerating prose
+ERROR processing Singapore: 400 {"type":"error","error":{"type":"invalid_request_error","message":"You have reached your specified API usage limits. You will regain access on 2026-09-01 at 00:00 UTC."},"request_id":"req_011Ce4BqLfrChZVBAuxW5dFR"}
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

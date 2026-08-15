@@ -6,7 +6,7 @@ title: '3-Day Singapore Itinerary: Marina Bay, Nature Reserves & Coast'
 description: A 3-day Singapore itinerary moving from Marina Bay's gardens and skyline to Botanic Gardens, Bukit Timah and Jurong Lake Gardens, then East Coast Park and Cloud Forest.
 quickAnswer: 'This is a 3-day Singapore itinerary: day one centers on Marina Bay''s gardens, skyline views, and Kampong Glam''s Bussorah Street in the evening; day two moves through Singapore Botanic Gardens, Bukit Timah Nature Reserve, and Jurong Lake Gardens; day three runs from East Coast Park and Katong Park to Cloud Forest at Gardens by the Bay.'
 pubDate: '2026-08-13T00:35:14.044Z'
-stopsHash: c919fc24c60f1c672d223d219058b88c876a66c1
+stopsHash: 02f68738cae2b96f42af9ba768170724bdf14c74
 packedAvailable: true
 faq:
   - q: How much walking is involved in this itinerary?
@@ -60,26 +60,26 @@ itinerary:
         why: A budget-friendly plate of fried chicken, noodles, or rice on pedestrianized Bussorah Street rounds out the day with easy people-watching.
         dwellMin: 45
         walkToNext: null
-    rainSwapSlug: clarke-quay-malayan-settlement
+    rainSwapSlug: east-coast-national-museum-of-singapore
   - label: Gardens, Rainforest & Lakeside Green
     intro: Day two trades the bay for greenery, starting at Singapore Botanic Gardens before heading to the primary rainforest of Bukit Timah Nature Reserve. The evening winds down at Jurong Lake Gardens, Singapore's largest park outside the city centre.
     stops:
-      - slug: dempsey-hill-singapore-botanic-gardens
-        slot: morning
-        why: A free, UNESCO-listed park with the National Orchid Garden and Swan Lake, it's the calm, green start to day two.
-        dwellMin: 150
-        walkToNext:
-          km: 7.6
-          minutes: null
-          transit: true
       - slug: bukit-timah-bukit-timah-nature-reserve
-        slot: afternoon
+        slot: morning
         why: Singapore's tallest hill and a stretch of primary rainforest, reachable quickly from the city, gives the afternoon a proper nature-trail contrast to the morning's manicured gardens.
         dwellMin: 135
         walkToNext:
-          km: 7.5
+          km: 6.8
           minutes: null
           transit: true
+      - slug: jurong-japanese-garden
+        slot: afternoon
+        why: A hidden-gem rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 68
+        walkToNext:
+          km: 0.7
+          minutes: 9
+          transit: false
       - slug: jurong-jurong-lake-gardens
         slot: evening
         why: Singapore's largest park outside the city centre, with a wetland boardwalk and lakeside space, gives the evening room to unwind at an easy pace.
@@ -113,6 +113,6 @@ itinerary:
     rainSwapSlug: little-india-super-deluxe-kitchen
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-13T10:11:00.954Z'
+updatedDate: '2026-08-15T08:04:48.501Z'
 ---
 
