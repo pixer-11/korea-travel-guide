@@ -173,7 +173,7 @@ for (const slug of SLUGS) {
     if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) { outage = true; break; }
     if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); continue; }
     if (DRY) { console.log(`  · would replace ${slug} (${curW ?? '?'}px → ${cand.probedW}px) ← ${cand.url.slice(0, 70)}`); done = true; replaced.push({ slug, from: curW, to: cand.probedW }); break; }
-    data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source };
+    data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source, ...(vis.focus ? { focus: vis.focus } : {}) };
     // Same dedup as the backfill patrol: a hero promoted from the candidate
     // pool can already be sitting in the gallery — drop the gallery copy.
     if (Array.isArray(data.gallery)) {

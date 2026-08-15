@@ -781,7 +781,9 @@ async function buildLivePost(target) {
       console.log(`  👁️   "${cand.name}" — vision check rejected hero (${vis.reason}); trying next candidate`);
       continue;
     }
-    place = cand; hero = h; break;
+    // The gate also reported where the subject sits; carry it onto the hero
+    // so the 16:9 frame crops toward it (faces, not chins).
+    place = cand; hero = vis.focus ? { ...h, focus: vis.focus } : h; break;
   }
   if (!place) {
     console.log(`  ⏭️   skip "${target.query}" — no candidate venue with a verified photo`);
@@ -1016,7 +1018,7 @@ async function buildPlacelessPost(target) {
     return null;
   }
 
-  return assemble(target, null, title, hero, [], { body, quickAnswer, faq });
+  return assemble(target, null, title, vis.focus ? { ...hero, focus: vis.focus } : hero, [], { body, quickAnswer, faq });
 }
 
 // ── DUMMY path ───────────────────────────────────────────────

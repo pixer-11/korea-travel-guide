@@ -266,6 +266,34 @@ const orgLd = {
     <Footer />
     {!suppressPopup && <NewsletterPopup />}
     <script is:inline>
+      // PORTRAIT-AWARE CROPPING, site-wide. Eight places crop photos with
+      // object-fit:cover (hero, cards, featured, cover, wall, story, spotlight,
+      // gallery), all centre-on by default — and a portrait's face is in the
+      // top third, so The Weeknd's hero showed a chin, Post Malone's a torso,
+      // and Bruno Mars' CARD a suit with no head (owner, 2026-08-15). Fixing
+      // one component would have left seven; this tags every portrait <img>
+      // on load and one CSS rule crops them toward the top. Images that
+      // already carry an inline object-position (the vision gate's stored
+      // focal point) are left alone — the stored point wins.
+      (function () {
+        function tag(img) {
+          if (img.style && img.style.objectPosition) return;
+          if (img.naturalHeight > img.naturalWidth) img.setAttribute('data-portrait', '');
+        }
+        function scan(root) {
+          (root.querySelectorAll ? root.querySelectorAll('img') : []).forEach(function (img) {
+            if (img.complete && img.naturalWidth) tag(img);
+            else img.addEventListener('load', function () { tag(img); }, { once: true });
+          });
+        }
+        scan(document);
+        // Cards injected later (search results, load-more) get the same rule.
+        if (window.MutationObserver) new MutationObserver(function (ms) {
+          ms.forEach(function (m) { m.addedNodes.forEach(function (n) { if (n.nodeType === 1) scan(n); }); });
+        }).observe(document.body, { childList: true, subtree: true });
+      })();
+    </script>
+    <script is:inline>
       // Outbound affiliate-click tracking. Fires to whatever analytics is present
       // (GA4/gtag, Plausible, or dataLayer) — a harmless no-op until one is added,
       // so we can measure which CTAs/widgets actually drive booking clicks.

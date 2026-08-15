@@ -170,14 +170,25 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               (existing
                 ? `THIS PHOTO IS ALREADY PUBLISHED on this article and passed review before. You are re-auditing, not selecting. Answer ok:false ONLY if it is CLEARLY wrong: a different place or business, construction, signage, an unrelated subject. A stylistically weak but genuine photo of the right place (a rooftop detail, an interior, a quiet corner) must be KEPT — unpublishing a real page over taste is worse than an unglamorous photo. When unsure, KEEP (ok:true).\n`
                 : '') +
-      `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>"}`,
+              // The gate approved a perfect portrait of The Weeknd and a
+              // perfect Post Malone stage shot; the 16:9 hero frame then
+              // cropped centre-on and both pages showed a chin and a torso
+              // (owner, 2026-08-15: "시각검증이 겨우 이따위냐"). Correctness
+              // was never the problem — the gate had simply never been asked
+              // where the subject IS. Now it says, and the page crops toward
+              // it (heroImage.focus → object-position). Every photo, every
+              // caller — this is the one function all hero paths pass through.
+              `ALSO report the FOCAL POINT: where in the frame is the main subject a viewer must see (a person's FACE, the landmark's most recognisable part, the dish)? Give x,y as percentages from the top-left (0-100). If the image is a landscape with no single subject, use 50,50.\n` +
+      `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>", "focusX": <0-100>, "focusY": <0-100>}`,
           },
         ],
       }],
     });
     const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
     const j = JSON.parse(text.replace(/^[\s\S]*?\{/, '{').replace(/\}[\s\S]*$/, '}'));
-    return { ok: !!j.ok, reason: String(j.reason || '') };
+    const pct = (v) => (Number.isFinite(Number(v)) ? Math.min(100, Math.max(0, Math.round(Number(v)))) : null);
+    const fx = pct(j.focusX), fy = pct(j.focusY);
+    return { ok: !!j.ok, reason: String(j.reason || ''), ...(fx != null && fy != null ? { focus: { x: fx, y: fy } } : {}) };
   } catch (e) {
     if (/image|fetch|url/i.test(e.message)) return { ok: false, reason: `image unusable: ${e.message.slice(0, 60)}` };
     // An overloaded/rate-limited API is NOT evidence the photo is right.

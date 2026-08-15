@@ -547,6 +547,8 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           loading="eager"
           fetchpriority="high"
           decoding="async"
+          style={d.heroImage.focus ? `object-position:${d.heroImage.focus.x}% ${d.heroImage.focus.y}%` : undefined}
+          data-focus={d.heroImage.focus ? 'stored' : 'auto'}
           onerror="if(this.dataset.full&&this.src!==this.dataset.full){this.src=this.dataset.full}"
         />
         {d.heroImage.credit && (

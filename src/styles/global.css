@@ -720,6 +720,12 @@ main { flex: 1; width: 100%; }
    screen and pushing the summary below the fold. .gallery img below always
    had it; this one did not. */
 .article-hero img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+/* A portrait photo in a landscape frame: the face is in the top third, and
+   centre-on cropping throws it out (The Weeknd's chin, Post Malone's torso,
+   Bruno Mars' headless card — 2026-08-15). Site-wide, not per component:
+   BaseLayout tags every portrait <img> data-portrait on load; heroes with a
+   stored focal point carry an inline object-position that wins over this. */
+img[data-portrait] { object-position: 50% 20%; }
 .article-hero figcaption { padding: 0.6rem 1rem; font-size: 0.8rem; color: var(--muted); background: var(--surface-2); }
 
 /* Image lightbox: article photos open enlarged in a native <dialog>. */

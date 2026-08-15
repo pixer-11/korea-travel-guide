@@ -30,7 +30,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function heroUrls() {
   const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
-  const urls = new Set();
+  const urls = new Map();
   for (const f of files) {
     const raw = (await readFile(join(POSTS_DIR, f), 'utf8')).replace(/\r\n/g, '\n');
     const fm = raw.match(/^---\n([\s\S]*?)\n---/)?.[1] || '';
@@ -50,13 +50,17 @@ async function heroUrls() {
     // script insisted there was nothing to build. A frontmatter reader that
     // only understands one of YAML's spellings will always drift from the one
     // Astro actually parses.
-    let url;
-    try { url = yaml.load(fm)?.heroImage?.url; } catch { url = undefined; }
+    let url, focus;
+    try { const h = yaml.load(fm)?.heroImage; url = h?.url; focus = h?.focus; } catch { url = undefined; }
     url = url == null ? undefined : String(url).trim();
     // Accept remote (http) heroes AND self-hosted local ones (/venue-photos/…).
-    if (url && (/^https?:/.test(url) || url.startsWith('/')) && !url.includes('placeholder')) urls.add(url);
+    if (url && (/^https?:/.test(url) || url.startsWith('/')) && !url.includes('placeholder')) {
+      // Same URL on two posts (never, by dedup — but defensively): first
+      // stored focal point wins.
+      if (!urls.has(url)) urls.set(url, focus && Number.isFinite(focus.x) && Number.isFinite(focus.y) ? focus : null);
+    }
   }
-  return [...urls];
+  return [...urls.entries()].map(([url, focus]) => ({ url, focus }));
 }
 
 async function main() {
@@ -66,8 +70,11 @@ async function main() {
 
   const manifest = [];
   let made = 0, cached = 0, failed = 0;
-  for (const url of urls) {
-    const name = `${hash(url)}.webp`;
+  for (const { url, focus } of urls) {
+    // The thumb's name carries the focal point, so a hero that GAINS a stored
+    // focus (the vision gate now reports one) is re-cut instead of served
+    // from the old centre/attention crop forever.
+    const name = `${hash(focus ? `${url}#${focus.x},${focus.y}` : url)}.webp`;
     const outPath = join(OUT_DIR, name);
     const publicPath = `/wall/${name}`;
     if (existsSync(outPath)) { manifest.push(publicPath); cached++; continue; }
@@ -83,8 +90,27 @@ async function main() {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         buf = Buffer.from(await res.arrayBuffer());
       }
-      await sharp(buf)
-        .resize(640, 427, { fit: 'cover', position: 'attention' })
+      // Crop toward the SUBJECT. sharp's 'attention' heuristic follows
+      // saturation and edges — on Bruno Mars' stage shot that was the neon
+      // "Doo-Wops & Hooligans" sign, and the card showed a suit with no head
+      // (owner, 2026-08-15). Order of trust: the vision gate's stored focal
+      // point (it looked at the picture and said where the face is) → for a
+      // portrait with no stored point, the top (faces live in the top third)
+      // → 'attention' only for landscapes, where it does fine.
+      const img = sharp(buf);
+      const meta = await img.metadata();
+      let position = 'attention';
+      if (focus) {
+        // sharp has no fractional gravity; map the point to the nearest of
+        // its 8 compass positions + centre. Good enough for a 640×427 card.
+        const v = focus.y < 33 ? 'top' : focus.y > 66 ? 'bottom' : '';
+        const h = focus.x < 33 ? 'left' : focus.x > 66 ? 'right' : '';
+        position = [h, v].filter(Boolean).join(' ') || 'centre'; // sharp accepts 'left top', 'top', 'right', …
+      } else if (meta.height && meta.width && meta.height > meta.width) {
+        position = 'top';
+      }
+      await img
+        .resize(640, 427, { fit: 'cover', position })
         .webp({ quality: 72 })
         .toFile(outPath);
       manifest.push(publicPath);

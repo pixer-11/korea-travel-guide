@@ -48,6 +48,13 @@ const posts = defineCollection({
         // identity proven by the photograph itself, credit "Photo: Pixer".
         license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor']),
         source: z.string(),
+        // Where the subject IS, as % from top-left — reported by the vision
+        // gate when it approves the photo, consumed as object-position by the
+        // 16:9 hero frame. Without it a portrait crops centre-on and a
+        // performer's face falls out of the frame (The Weeknd / Post Malone,
+        // 2026-08-15). Optional: older heroes fall back to a top-weighted
+        // default for portraits.
+        focus: z.object({ x: z.number().min(0).max(100), y: z.number().min(0).max(100) }).optional(),
       })
       .optional(),
     // Extra in-body images (a small gallery). Same license rules as hero.
