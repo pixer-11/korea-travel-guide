@@ -142,6 +142,18 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         run: node scripts/requarantine-mismatches.mjs
 
+      # A FUTURE event with no photo is publishable by policy (events are the
+      # site's best-performing pages; the date/venue/tickets answer the query),
+      # but the script enforcing that policy was never wired into any cron —
+      # so when the photo search gave up on an event, it stayed quarantined
+      # anyway. 22 future events (EuroVolley Istanbul, three snooker opens,
+      # F1 Madrid…) sat unpublished until a hand-run on 2026-08-15. Runs after
+      # the re-quarantine step: they never touch the same post (this releases
+      # only HERO-LESS events; that pulls heroes recorded as MISMATCH).
+      - name: Release photoless future events
+        if: steps.gate.outputs.on == 'true'
+        run: node scripts/release-photoless-events.mjs
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |

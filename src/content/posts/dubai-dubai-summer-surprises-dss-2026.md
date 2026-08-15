@@ -1,6 +1,8 @@
 ---
 title: 'Dubai Summer Surprises (DSS) 2026: What to Know (Dubai)'
-description: Dubai Summer Surprises (DSS) 2026 in Dubai, United Arab Emirates — July 3 - August 30, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Dubai Summer Surprises (DSS) 2026 in Dubai, United Arab Emirates — July 3 -
+  August 30, 2026. What it is, when and where, and how to plan around it.
 country: United Arab Emirates
 region: Dubai
 category: event
@@ -11,20 +13,44 @@ gallery: []
 tags:
   - dubai
   - event
-quickAnswer: Dubai Summer Surprises (DSS) 2026 runs citywide from July 3 to August 30, 2026, with mall-based retail promotions, raffles, and family entertainment across Dubai. It's organized by the Dubai Festivals and Retail Establishment and isn't tied to one venue — expect activity concentrated in major malls and family attractions rather than a single ticketed site, so confirm specific event dates, venues, and any ticket prices on the official Visit Dubai / DSS channels before you plan around them.
+quickAnswer: >-
+  Dubai Summer Surprises (DSS) 2026 runs citywide from July 3 to August 30,
+  2026, with mall-based retail promotions, raffles, and family entertainment
+  across Dubai. It's organized by the Dubai Festivals and Retail Establishment
+  and isn't tied to one venue — expect activity concentrated in major malls and
+  family attractions rather than a single ticketed site, so confirm specific
+  event dates, venues, and any ticket prices on the official Visit Dubai / DSS
+  channels before you plan around them.
 faq:
   - q: What are the exact dates for Dubai Summer Surprises 2026?
-    a: DSS 2026 is scheduled to run from July 3 to August 30, 2026, but always confirm on the official Visit Dubai or DSS website, as sub-events and promotional phases within that window can shift.
+    a: >-
+      DSS 2026 is scheduled to run from July 3 to August 30, 2026, but always
+      confirm on the official Visit Dubai or DSS website, as sub-events and
+      promotional phases within that window can shift.
   - q: Is there an entry ticket for DSS?
-    a: DSS itself is a citywide retail and entertainment campaign, not a single ticketed event, so there's no general admission fee. Individual attractions (theme parks, water parks, specific shows) may have their own tickets — check those separately.
+    a: >-
+      DSS itself is a citywide retail and entertainment campaign, not a single
+      ticketed event, so there's no general admission fee. Individual
+      attractions (theme parks, water parks, specific shows) may have their own
+      tickets — check those separately.
   - q: How do I get to the main DSS venues?
-    a: Most participating malls sit on the Dubai Metro Red Line — The Dubai Mall (via Burj Khalifa/Dubai Mall Station), Mall of the Emirates, and Ibn Battuta Mall all have dedicated or nearby stops, making the metro the easiest way to move between locations in summer heat.
+    a: >-
+      Most participating malls sit on the Dubai Metro Red Line — The Dubai Mall
+      (via Burj Khalifa/Dubai Mall Station), Mall of the Emirates, and Ibn
+      Battuta Mall all have dedicated or nearby stops, making the metro the
+      easiest way to move between locations in summer heat.
   - q: How long should I plan to spend at DSS activities?
-    a: Since it's spread across the city, plan by attraction rather than the festival as a whole — budget half a day per mall or theme park visit, and pick two or three targets rather than trying to cover everything.
+    a: >-
+      Since it's spread across the city, plan by attraction rather than the
+      festival as a whole — budget half a day per mall or theme park visit, and
+      pick two or three targets rather than trying to cover everything.
   - q: What's nearby if I want to combine DSS with sightseeing?
-    a: The Dubai Mall sits beside the Burj Khalifa and Dubai Fountain, making it easy to pair a DSS mall visit with Dubai's headline sights on the same trip.
+    a: >-
+      The Dubai Mall sits beside the Burj Khalifa and Dubai Fountain, making it
+      easy to pair a DSS mall visit with Dubai's headline sights on the same
+      trip.
 aiGenerated: true
-draft: true
+draft: false
 eventRecurring: true
 photoless: true
 ---
