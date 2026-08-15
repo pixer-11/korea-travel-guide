@@ -90,8 +90,22 @@ const TOOL = {
   },
 };
 
+// Per-language register guidance, injected ONLY for that language. The
+// first rewrite prompt named Korean's 합니다체 and Japanese's です・ます in
+// every language's prompt as examples — and 93 Chinese rewrites came back
+// entirely in KOREAN (2026-08-15: the model followed the concrete Hangul
+// example over the abstract "Simplified Chinese" instruction; ja/es were
+// unaffected because their own scripts appeared in the same line). A prompt
+// must never show the model a script other than the one it is writing in.
+const REGISTER = {
+  Korean: 'Use the polite 합니다체 throughout (formal-polite endings — never plain 한다체).',
+  Japanese: 'Use です・ます体 throughout (never plain form).',
+  'Simplified Chinese': 'Use natural written Simplified Chinese as a mainland travel magazine would — 简体中文, never Traditional characters, never any other language.',
+  Spanish: 'Use neutral, polished written Spanish (usted-neutral, no regional slang).',
+};
+
 function prompt(langName, data) {
-  return `Rewrite this English travel guide in ${langName}, as if a native ${langName} travel editor had written it from scratch.
+  return `Rewrite this English travel guide in ${langName}, as if a native ${langName} travel editor had written it from scratch. Every word of your output must be in ${langName}.
 
 RULES
 - This is a REWRITE, not a translation: abandon the English sentence
@@ -99,15 +113,13 @@ RULES
   word order. A reader must not be able to tell the text started as English.
 - Never carry English trailing modifiers into ${langName}. "small trucks
   idling on the sand, ready to haul fish to market" must NOT become
-  "<trucks>, <ready to haul...>" — languages like Korean and Japanese put
-  the whole modifier BEFORE the noun; a comma + dangling modifier after a
-  noun is a translation artifact, not a sentence. Restructure lists and
-  em-dash appositions the same way: reorder, split, or merge sentences
-  freely whenever the target grammar wants it.
-- Register must match the site's established voice: Korean uses the polite
-  합니다체 (formal-polite endings — never plain 한다체), Japanese uses
-  です・ます体. The rewrite freedom above changes SENTENCE STRUCTURE, not
-  the site's register.
+  "<trucks>, <ready to haul...>" — put modifiers where ${langName} grammar
+  puts them; a comma + dangling modifier after a noun is a translation
+  artifact, not a sentence. Restructure lists and em-dash appositions the
+  same way: reorder, split, or merge sentences freely whenever the target
+  grammar wants it.
+- Register: ${REGISTER[langName] ?? `natural written ${langName}`} The
+  rewrite freedom above changes SENTENCE STRUCTURE, not the register.
 - KEEP EXACTLY AS-IS: numbers, prices, ratings, dates, times, addresses, station/line/exit numbers, URLs.
 - Proper nouns (venue, station, neighbourhood, city names): use the established local rendering if one exists; otherwise keep the original. Where a reader would need it to find the place, keep the original in parentheses on first mention.
 - Preserve markdown structure exactly: the same "##" headings (translated text), lists, bold, and links with unchanged URLs.
