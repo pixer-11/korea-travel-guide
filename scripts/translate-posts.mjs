@@ -91,10 +91,23 @@ const TOOL = {
 };
 
 function prompt(langName, data) {
-  return `Translate this English travel guide into ${langName} for a travel website.
+  return `Rewrite this English travel guide in ${langName}, as if a native ${langName} travel editor had written it from scratch.
 
 RULES
-- Natural, fluent ${langName} a local reader would find idiomatic — not word-for-word.
+- This is a REWRITE, not a translation: abandon the English sentence
+  structure entirely and recompose every sentence in natural ${langName}
+  word order. A reader must not be able to tell the text started as English.
+- Never carry English trailing modifiers into ${langName}. "small trucks
+  idling on the sand, ready to haul fish to market" must NOT become
+  "<trucks>, <ready to haul...>" — languages like Korean and Japanese put
+  the whole modifier BEFORE the noun; a comma + dangling modifier after a
+  noun is a translation artifact, not a sentence. Restructure lists and
+  em-dash appositions the same way: reorder, split, or merge sentences
+  freely whenever the target grammar wants it.
+- Register must match the site's established voice: Korean uses the polite
+  합니다체 (formal-polite endings — never plain 한다체), Japanese uses
+  です・ます体. The rewrite freedom above changes SENTENCE STRUCTURE, not
+  the site's register.
 - KEEP EXACTLY AS-IS: numbers, prices, ratings, dates, times, addresses, station/line/exit numbers, URLs.
 - Proper nouns (venue, station, neighbourhood, city names): use the established local rendering if one exists; otherwise keep the original. Where a reader would need it to find the place, keep the original in parentheses on first mention.
 - Preserve markdown structure exactly: the same "##" headings (translated text), lists, bold, and links with unchanged URLs.
