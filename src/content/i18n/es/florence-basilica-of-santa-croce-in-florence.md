@@ -2,54 +2,56 @@
 lang: es
 slug: florence-basilica-of-santa-croce-in-florence
 srcHash: '0d6f7137902b'
-title: 'Basílica de Santa Croce en Florencia: Guía de viaje'
-description: Santa Croce es la gran basílica franciscana de Florencia, situada en la Piazza di Santa Croce, famosa por los frescos de Giotto y las tumbas de Miguel Ángel, Galileo y Maquiavelo.
-quickAnswer: Santa Croce es la gran basílica franciscana de Florencia, situada en la Piazza di Santa Croce, famosa por los frescos de Giotto y las tumbas de Miguel Ángel, Galileo y Maquiavelo. Es muy concurrida, así que conviene apuntar a la franja de 9:30am–11am justo después de la apertura (los domingos abre más tarde, a las 12:30pm) para ver la Capilla Pazzi y el Crucifijo de Donatello sin una muralla de gente delante. Calcula entre 60 y 90 minutos, más si te entretienes en la escuela de cuero y los claustros.
+title: 'Basílica de la Santa Croce en Florencia: guía de viaje'
+description: La Santa Croce es la gran basílica franciscana de Florencia, situada en la Piazza di Santa Croce y célebre por los frescos de Giotto y las tumbas de Miguel Ángel, Galileo y Maquiavelo.
+quickAnswer: La Santa Croce es la gran basílica franciscana de Florencia, situada en la Piazza di Santa Croce y célebre por los frescos de Giotto y las tumbas de Miguel Ángel, Galileo y Maquiavelo. Es un lugar muy concurrido, así que conviene visitarla entre las 9:30 y las 11:00, justo después de la apertura (los domingos abre más tarde, a las 12:30), para poder ver la Capilla Pazzi y el Crucifijo de Donatello sin una muralla de gente delante. Calcula entre 60 y 90 minutos, más si te detienes en la escuela de cuero y en los claustros.
 faq:
-  - q: ¿Cuánto tiempo debería dedicar a Santa Croce?
-    a: Calcula entre 60 y 90 minutos para la iglesia, las tumbas y la Capilla Pazzi; añade 20–30 minutos si quieres ver el museo, los claustros y la escuela de cuero.
+  - q: ¿Cuánto tiempo conviene dedicarle a la Santa Croce?
+    a: Calcula entre 60 y 90 minutos para la iglesia, las tumbas y la Capilla Pazzi; añade 20-30 minutos más si quieres ver también el museo, los claustros y la escuela de cuero.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Los datos de afluencia muestran que la franja de 9:30am–11am, justo después de la apertura, es la más tranquila entre semana y los sábados. Los domingos, cuando la basílica abre más tarde, a las 12:30pm, llegar justo a la apertura es la mejor opción. Evita las tardes de fin de semana entre la 1pm y las 5pm, cuando hay más gente.
+    a: Los datos de afluencia muestran que de 9:30 a 11:00, justo después de la apertura, es el momento más tranquilo entre semana y los sábados. Los domingos, cuando la basílica abre más tarde, a las 12:30, lo mejor es llegar justo a esa hora de apertura. Conviene evitar las tardes de fin de semana entre la 1:00 y las 5:00 pm, cuando hay más gente.
   - q: ¿Cuál es el horario de apertura?
-    a: De lunes a sábado está abierta de 9:30am a 5:30pm; los domingos el horario es más reducido, de 12:30 a 5:45pm, debido a las misas matutinas. Conviene comprobar siempre el horario oficial antes de la visita, ya que puede variar en días festivos.
-  - q: ¿Cómo llego a Santa Croce desde la estación de tren?
-    a: Desde Firenze Santa Maria Novella son unos 20–25 minutos caminando hacia el este a través del centro histórico, o un breve trayecto en autobús o taxi. A pie desde el Duomo, son aproximadamente 10–15 minutos.
-  - q: ¿Merece la pena Santa Croce si ya he visto el Duomo y los Uffizi?
-    a: 'Sí: ofrece un atractivo distinto: las tumbas de Miguel Ángel, Galileo y Maquiavelo, además de los frescos de Giotto y la Capilla Pazzi de Brunelleschi, nada de lo cual se superpone con esos otros lugares.'
+    a: De lunes a sábado abre de 9:30 a 17:30; los domingos el horario es más corto, de 12:30 a 17:45, debido a las misas matutinas. Conviene revisar siempre el horario oficial antes de la visita, ya que puede variar en días festivos.
+  - q: ¿Cómo se llega a la Santa Croce desde la estación de tren?
+    a: Desde Firenze Santa Maria Novella hay unos 20-25 minutos a pie hacia el este, atravesando el centro histórico, o un breve trayecto en autobús o taxi. A pie desde el Duomo son unos 10-15 minutos.
+  - q: ¿Merece la pena visitar la Santa Croce si ya se ha visto el Duomo y los Uffizi?
+    a: 'Sí: ofrece un atractivo distinto, con las tumbas de Miguel Ángel, Galileo y Maquiavelo, además de los frescos de Giotto y la Capilla Pazzi de Brunelleschi, ninguno de los cuales se solapa con esos otros lugares.'
 ---
 
-Se percibe Santa Croce antes de ver su famosa fachada. La plaza que tiene delante es uno de los espacios abiertos más grandes de Florencia, una extensión llana de piedra gris que en el siglo XVI albergó partidos de calcio storico y ejecuciones públicas, y que hoy alberga a turistas fotografiando la fachada de mármol verde y blanco de la iglesia, un añadido neogótico del siglo XIX que no es original del edificio medieval que hay detrás.
+Antes incluso de ver su famosa fachada, ya se siente la presencia de la Santa Croce. La plaza que se abre frente a ella es uno de los espacios abiertos más grandes de Florencia: una explanada de piedra gris que en el siglo XVI acogió partidos de calcio storico y ejecuciones públicas, y que hoy reúne a turistas fotografiando la fachada de mármol verde y blanco de la iglesia, un añadido neogótico del siglo XIX que no formaba parte del edificio medieval original.
 
-Al cruzar las puertas, la temperatura baja, el ruido de la plaza desaparece, y te encuentras en la iglesia franciscana más grande del mundo, con sus armaduras de madera del techo extendiéndose por encima como el casco de un barco volcado.
+Al cruzar las puertas baja la temperatura, el bullicio de la plaza queda atrás y uno se encuentra de pronto dentro de la iglesia franciscana más grande del mundo, con su armazón de madera extendiéndose en lo alto como el casco de un barco invertido.
 
-## Por qué ir
+## Por qué visitarla
 
-Esto no es solo una iglesia: es prácticamente el panteón de Italia. Aquí está enterrado Miguel Ángel, cuya tumba diseñó Vasari. También Galileo, cuyo monumento se encuentra enfrente, añadido un siglo después de su muerte, una vez que se habían enfriado las objeciones de la Iglesia. Maquiavelo, Rossini y el poeta Ugo Foscolo también están aquí, junto con un cenotafio para Dante, que nunca llegó a regresar del exilio para ser enterrado en su ciudad natal.
+Esto no es solo una iglesia: es, en la práctica, el panteón de Italia. Aquí está enterrado Miguel Ángel, en una tumba diseñada por Vasari. También lo está Galileo, cuyo monumento se encuentra enfrente, colocado un siglo después de su muerte, una vez que se habían enfriado las objeciones de la Iglesia. Maquiavelo, Rossini y el poeta Ugo Foscolo también descansan aquí, junto con un cenotafio dedicado a Dante, quien nunca llegó a regresar del exilio para ser enterrado en su ciudad natal.
 
-Más allá de las tumbas, el gran atractivo para los amantes del arte son los ciclos de frescos de Giotto en las capillas Bardi y Peruzzi, cerca del altar; desgastados en algunas partes, pero fundamentales para la pintura occidental, realizados décadas antes de su obra más célebre en Padua y Asís.
+Más allá de las tumbas, el gran atractivo para los amantes del arte son los ciclos de frescos de Giotto en las capillas Bardi y Peruzzi, cerca del altar: desgastados en algunas zonas, pero fundamentales para la pintura occidental, realizados décadas antes de sus obras más conocidas en Padua y Asís.
 
 ## Qué ver en el interior
 
-Recorre la nave despacio y pasarás junto a monumentos funerarios a ambos lados antes de llegar al santuario, donde los frescos de Giotto representan escenas de las vidas de san Francisco y san Juan. Junto al transepto derecho, la Capilla Pazzi —a la que se accede a través de un claustro tranquilo— es la pequeña obra maestra de proporción renacentista de Brunelleschi: una calma geométrica en gris y blanco tras la nave tan ornamentada.
+Recorriendo la nave con calma se pasa junto a monumentos funerarios a ambos lados antes de llegar al santuario, donde los frescos de Giotto representan escenas de las vidas de San Francisco y San Juan. Desde el transepto derecho, atravesando un claustro tranquilo, se llega a la Capilla Pazzi, la pequeña obra maestra de Brunelleschi en cuanto a proporción renacentista: una calma geométrica en gris y blanco tras la ornamentada nave.
 
-En la sección del museo, no te pierdas el Crucifijo de Cimabue, gravemente dañado en la catastrófica inundación del Arno de 1966 y dejado parcialmente restaurado como recordatorio deliberado de aquel desastre; Santa Croce, situada en una parte baja de la ciudad, sufrió lo peor de las aguas. Cerca de allí, la dorada Anunciación Cavalcanti de Donatello y su Crucifijo de madera (el que, según se dice, Brunelleschi criticó por parecer un campesino en la cruz) merecen una mirada atenta.
+En la sección del museo, no hay que perderse el Crucifijo de Cimabue, gravemente dañado durante la catastrófica inundación del Arno en 1966 y dejado parcialmente restaurado a propósito, como recordatorio de aquel desastre, ya que la Santa Croce, al situarse en una zona baja de la ciudad, fue de los lugares más afectados por las aguas. Cerca de allí merecen una mirada detenida la dorada Anunciación Cavalcanti de Donatello y su Crucifijo de madera, el mismo que, según se cuenta, Brunelleschi criticó por parecer un campesino en la cruz.
 
 ## Cómo llegar
 
-Santa Croce se encuentra en Piazza di Santa Croce, 16, en el extremo oriental del centro histórico, a unos 10–15 minutos a pie del Duomo: baja por Borgo dei Greci o Via de' Neri y llegarás directamente a la plaza. En el centro de Florencia no hay metro; la estación de tren más cercana es Firenze Santa Maria Novella, a unos 20–25 minutos a pie o un breve trayecto en autobús o taxi.
+La Santa Croce se encuentra en Piazza di Santa Croce, 16, en el extremo oriental del centro histórico, a unos 10-15 minutos a pie del Duomo: basta con bajar por Borgo dei Greci o Via de' Neri para llegar directamente a la plaza. En el centro de Florencia no hay metro; la estación de tren más cercana es Firenze Santa Maria Novella, a unos 20-25 minutos caminando o un breve trayecto en autobús o taxi.
 
-Si vienes desde los Uffizi o el Ponte Vecchio, es un paseo sencillo de 10 minutos por las calles junto al río.
+Si se viene desde los Uffizi o el Ponte Vecchio, es un paseo fácil de 10 minutos por las calles junto al río.
 
 ## Cuándo ir
 
-La basílica abre por la mañana y cierra al final de la tarde la mayoría de los días; los domingos tiene un horario más reducido, organizado en torno a las misas matutinas. Los datos de afluencia medidos muestran que la franja más tranquila es de 9:30am a 11am entre semana y los sábados: llega justo al sonar la campana de apertura y tendrás largos tramos de la nave y de la Capilla Pazzi casi para ti solo; los domingos abre más tarde, a las 12:30pm, así que la misma lógica se aplica a esa primera media hora.
+La basílica abre por la mañana y cierra a última hora de la tarde la mayoría de los días; los domingos el horario es más reducido, ajustado a las misas matutinas. Los datos de afluencia muestran que la franja más tranquila es de 9:30 a 11:00 entre semana y los sábados: llegando justo a la hora de apertura se puede disfrutar de largos tramos de la nave y de la Capilla Pazzi casi en soledad.
 
-Las tardes de fin de semana, especialmente entre la 1pm y las 5pm, son el momento de mayor aglomeración; si una visita en domingo es tu única opción, ve lo más cerca posible de las 12:30pm en lugar de a media tarde.
+Los domingos abre más tarde, a las 12:30, así que la misma lógica se aplica a esa primera media hora.
+
+Las tardes de fin de semana, especialmente entre la 1:00 y las 5:00 pm, son el momento de mayor afluencia; si la visita dominical es la única opción posible, conviene ir lo más cerca posible de las 12:30 en lugar de a media tarde.
 
 ## Cómo visitarla como un local
 
-Los florentinos la llaman simplemente "Santa Croce", y los locales tratan la plaza exterior como una auténtica plaza pública: un lugar para tomar un helado en las escaleras, no solo el atrio de un monumento. Al ser uno de los lugares más visitados de Florencia, no esperes encontrar un rincón tranquilo y escondido; en su lugar, adelántate a las multitudes con el horario, no con la suerte, aprovechando la franja de 9:30–11am antes de que lleguen los grupos turísticos en autobús.
+Los florentinos la llaman simplemente "Santa Croce", y los vecinos tratan la plaza exterior como una auténtica plaza pública: un lugar para tomar un helado sentados en las escalinatas, no solo la antesala de un monumento. Al tratarse de uno de los lugares más visitados de Florencia, no hay que esperar encontrar un rincón escondido y silencioso; en cambio, se puede ganar a las multitudes con el momento adecuado más que con la suerte, aprovechando la franja de 9:30 a 11:00 antes de que lleguen los grupos turísticos en autobús.
 
-Las entradas se venden en la puerta o por internet con antelación, y comprarlas online ahorra tiempo real de cola en temporada alta (abril–octubre). En el interior, el código de vestimenta es la norma habitual de las iglesias italianas: hombros y rodillas cubiertos, y la fotografía sin flash generalmente se tolera, pero conviene hablar en voz baja; sigue siendo un lugar de culto activo, no solo un museo.
+Las entradas se venden en la puerta o de antemano por internet, y comprarlas con anticipación ahorra tiempo real de cola en temporada alta (de abril a octubre). Dentro, el código de vestimenta sigue la norma habitual de las iglesias italianas: hombros y rodillas cubiertos. La fotografía sin flash suele tolerarse, pero conviene mantener la voz baja, ya que este sigue siendo un lugar de culto activo y no solo un museo.
 
-El error turístico que hay que evitar es ir directo a la tumba de Miguel Ángel y salir enseguida: la escuela de cuero al fondo del complejo, gestionada por frailes franciscanos, y los claustros marcados por la inundación son fáciles de pasar por alto, pero solo requieren un cuarto de hora extra.
+El error habitual que conviene evitar es ir corriendo directo a la tumba de Miguel Ángel y salir enseguida: la escuela de cuero al fondo del complejo, dirigida por frailes franciscanos, y los claustros marcados por la inundación son fáciles de pasar por alto, pero solo requieren un cuarto de hora extra.

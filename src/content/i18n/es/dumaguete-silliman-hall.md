@@ -3,66 +3,66 @@ lang: es
 slug: dumaguete-silliman-hall
 srcHash: '6c60aa8d45b2'
 title: 'Silliman Hall: Guía de viaje de Dumaguete'
-description: Silliman Hall se encuentra dentro del campus principal, lleno de árboles, de Silliman University, en Hibbard Avenue, abierto todos los días de 7am a 9pm.
-quickAnswer: Silliman Hall se encuentra dentro del campus principal, lleno de árboles, de Silliman University, en Hibbard Avenue, abierto todos los días de 7am a 9pm. Es el edificio más antiguo de la era estadounidense en Dumaguete, y hoy funciona como museo con hallazgos antropológicos que se remontan al año 200 a.C. Reserva entre 30 y 45 minutos, y ve un día de semana por la mañana, cuando el campus está tranquilo y la luz que entra por las viejas ventanas es mejor.
+description: Silliman Hall se encuentra dentro del campus principal, arbolado, de Silliman University, en Hibbard Avenue, y abre todos los días de 7am a 9pm.
+quickAnswer: Silliman Hall se encuentra dentro del campus principal, arbolado, de Silliman University, en Hibbard Avenue, y abre todos los días de 7am a 9pm. Es el edificio más antiguo de la era estadounidense en Dumaguete y hoy funciona como museo, con hallazgos antropológicos que se remontan al año 200 a.C. Calcula entre 30 y 45 minutos para la visita, e intenta ir un día laborable por la mañana, cuando el campus está tranquilo y la luz que entra por las viejas ventanas es más bonita.
 faq:
   - q: ¿Cuál es el horario de Silliman Hall?
-    a: Está abierto todos los días de 7am a 9pm, un horario inusualmente extenso para un museo, así que tienes bastante flexibilidad para encajarlo con otros planes.
-  - q: ¿Cuánto tiempo debería reservar?
-    a: Entre 30 y 45 minutos es suficiente para ver las exhibiciones y apreciar el edificio en sí sin apresurarte.
-  - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Las mañanas de días de semana, antes de que las clases de la universidad llenen el campus, suelen ser las más tranquilas, ya que el flujo de gente aquí sigue el calendario académico y no las multitudes turísticas.
-  - q: ¿Cómo llego a Silliman Hall?
-    a: Está dentro de la puerta principal de Silliman University, en Hibbard Avenue, a poca distancia a pie o un corto trayecto en tricycle/trisikad desde el centro de Dumaguete y Rizal Boulevard.
+    a: Abre todos los días de 7am a 9pm, un horario inusualmente amplio para un museo, así que tienes mucha flexibilidad para encajarlo con otros planes.
+  - q: ¿Cuánto tiempo debería reservar para la visita?
+    a: Con 30 a 45 minutos es suficiente para ver las piezas y apreciar el propio edificio sin tener que apresurarte.
+  - q: ¿Cuál es el mejor momento para evitar las multitudes?
+    a: Las mañanas de días laborables, antes de que las clases llenen el campus, suelen ser las más tranquilas, ya que el movimiento aquí sigue el calendario académico y no la afluencia turística.
+  - q: ¿Cómo se llega a Silliman Hall?
+    a: Está dentro de la puerta principal de Silliman University, en Hibbard Avenue, a poca distancia a pie o en un corto trayecto en triciclo o trisikad desde el centro de Dumaguete y desde Rizal Boulevard.
   - q: ¿Qué hay cerca para combinar con la visita?
-    a: El resto del campus de Silliman University, con su sombra de árboles de acacia, merece un paseo tranquilo, y tanto Rizal Boulevard como el centro de Dumaguete están a poca distancia a pie de la puerta principal.
+    a: Vale la pena recorrer con calma el resto del campus de Silliman University, sombreado por acacias, y tanto Rizal Boulevard como el centro de Dumaguete quedan a poca distancia a pie de la puerta principal.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 
-Silliman Hall es el edificio más antiguo del campus de Silliman University, y una de las construcciones estadounidenses más antiguas de las Visayas. De madera, estilo stick, y pintado del blanco suave que uno esperaría de una escuela misionera de principios del siglo XX, hoy funciona como un pequeño museo en lugar de un aula. Vienes aquí para una dosis compacta de historia profunda, no para una atracción extensa.
+Silliman Hall es el edificio más antiguo del campus de Silliman University y una de las construcciones estadounidenses más antiguas de la región de Visayas. De madera, estilo "stick" y pintado del blanco suave típico de una escuela misionera de principios del siglo XX, hoy funciona como pequeño museo en lugar de aula. Aquí se viene a buscar una dosis compacta de historia profunda, no una atracción monumental.
 
 ## Qué encontrarás dentro
 
-La colección es antropológica, y comienza mucho antes que el propio edificio. Las vitrinas albergan cerámica, tinajas funerarias y adornos metálicos excavados en yacimientos de Negros Oriental, algunos datados alrededor del año 200 a.C.
+La colección es de carácter antropológico y comienza mucho antes de la construcción del propio edificio. En las vitrinas se exhiben piezas de cerámica, tinajas funerarias y adornos metálicos excavados en yacimientos de Negros Oriental, algunos datados en torno al año 200 a.C.
 
-Los rótulos trazan los vínculos comerciales precoloniales de la región con China y el sudeste asiático continental. Las salas de arriba a menudo se centran en los artefactos y fotografías de la época fundacional de la universidad, de modo que el relato avanza desde la prehistoria profunda hasta el Dumaguete de principios del siglo XX en un solo recorrido.
+Los rótulos explican los vínculos comerciales precoloniales de la región con China y el sudeste asiático continental. En las salas de la planta alta, el recorrido suele virar hacia los objetos y fotografías de los años fundacionales de la universidad, de modo que en un solo recorrido se pasa de la prehistoria profunda a la Dumaguete de principios del siglo XX.
 
 - Cerámica y tinajas precoloniales
 - Adornos de bronce y concha
 - Fotografías antiguas de los años fundacionales de la universidad
-- Muebles y documentos de la era misionera
+- Muebles y documentos de la época misionera
 
 ## El edificio en sí
 
-Incluso sin las exhibiciones, el salón merece que te tomes tu tiempo. Los anchos tablones de madera del piso crujen al caminar, las altas ventanas con persianas dejan pasar corrientes de aire en lugar de aire acondicionado, y los techos altos mantienen las salas notablemente más frescas que el calor tropical de fuera.
+Aunque no hubiera exposiciones, el edificio ya merecería una visita pausada. Los anchos tablones de madera del suelo crujen al caminar, las altas ventanas con postigos dejan pasar la brisa cruzada en lugar de aire acondicionado, y los techos altos mantienen las salas notablemente más frescas que el calor tropical de fuera.
 
-Mira hacia arriba, a la estructura de cerchas y a los profundos porches: es una técnica de carpintería de Nueva Inglaterra adaptada al clima filipino, un pequeño detalle arquitectónico que por sí solo merece diez minutos de atención.
+Vale la pena alzar la vista para observar el entramado de vigas y las profundas galerías: se trata de una técnica de carpintería de Nueva Inglaterra adaptada al clima filipino, un pequeño detalle arquitectónico que por sí solo merece diez minutos de atención.
 
-## Cómo llegar y organizar tu visita
+## Cómo llegar y cuándo planificar la visita
 
-Silliman Hall está dentro de la puerta principal de la universidad, en Hibbard Avenue, a poca distancia a pie del centro de Dumaguete y del malecón. Los trisikad (pedicabs) y los tricycles desde cualquier punto del centro de la ciudad te llevan a la puerta en minutos.
+Silliman Hall está dentro de la puerta principal de la universidad, en Hibbard Avenue, a poca distancia a pie del centro de Dumaguete y del malecón. Desde cualquier punto del centro de la ciudad, un trisikad (pedicab) o un triciclo te deja en la puerta en cuestión de minutos.
 
-El salón está abierto todos los días, de 7am a 9pm, un horario generoso para un museo de este tamaño. Reserva entre 30 y 45 minutos; es lo bastante pequeño como para no necesitar más tiempo, pero lo bastante denso como para no apresurarte.
+El edificio abre todos los días de 7am a 9pm, un horario generoso para un museo de este tamaño. Calcula entre 30 y 45 minutos: es lo bastante pequeño como para no necesitar más tiempo, pero lo bastante interesante como para no querer apresurarte.
 
 ## Cómo visitarlo como un local
 
-Como se encuentra dentro de un campus universitario activo, el flujo de gente aquí sigue el calendario académico, no la temporada turística. Las mañanas de días de semana, antes de que las clases llenen los patios, son el momento más tranquilo para recorrerlo; a menudo tendrás una sala entera para ti.
+Al encontrarse dentro de un campus universitario activo, el movimiento de gente aquí sigue el calendario académico y no la temporada turística. Las mañanas de días laborables, antes de que las clases llenen los patios, son el momento más tranquilo para recorrerlo; muchas veces tendrás una sala entera para ti solo.
 
-Esta es una atracción genuinamente poco conocida para tener tanta antigüedad; la mayoría de los visitantes de Dumaguete se dirigen directamente al malecón o a los puntos de buceo y se lo saltan por completo, así que no tendrás que lidiar con multitudes aquí.
+Para tratarse de una atracción tan antigua, sigue siendo sorprendentemente poco conocida: la mayoría de los visitantes de Dumaguete va directo al malecón o a los puntos de buceo y se lo salta por completo, así que aquí no tendrás que lidiar con multitudes.
 
-- Vístete como si visitaras una escuela, no una playa: cubrirse los hombros es un gesto de respeto, ya que caminas por terrenos de un campus activo
-- La entrada suele ser informal en un museo de este tamaño; lleva billetes pequeños por si hay una modesta caja de donación o una tarifa de entrada
-- Pregunta al personal o a algún estudiante cercano sobre la arquitectura estilo stick del edificio; es un detalle que la mayoría de los visitantes pasa completamente por alto
-- Combínalo con un paseo tranquilo por el resto del campus, cuyos senderos bordeados de acacias son un referente de Dumaguete por sí solos
-- Habla en voz baja; en los edificios cercanos siguen funcionando clases y oficinas mientras estás dentro
+- Vístete como si visitaras un colegio y no una playa: llevar los hombros cubiertos es un gesto de respeto, ya que caminas por terrenos de un campus activo
+- En un museo de este tamaño, la entrada suele ser informal; lleva billetes pequeños por si hay una modesta caja de donativos o una tarifa de entrada
+- Pregunta al personal o a algún estudiante cercano sobre la arquitectura de estilo "stick" del edificio: es un detalle que a la mayoría de los visitantes se le pasa por alto
+- Combínalo con un paseo tranquilo por el resto del campus, cuyos senderos bordeados de acacias son, por derecho propio, un símbolo de Dumaguete
+- Habla en voz baja: mientras estás dentro, en los edificios cercanos siguen funcionando clases y oficinas
 
-El error que comete la mayoría de los primerizos es tratarlo como una parada de cinco minutos para fotos. El verdadero valor está en leer con atención los rótulos de las vitrinas; el material del 200 a.C. es fácil de pasar por alto si vas con prisa.
+El error más habitual entre quienes visitan por primera vez es tratarlo como una simple parada de cinco minutos para hacer fotos. El verdadero valor está en leer con calma los rótulos de las vitrinas: si vas deprisa, es fácil pasar de largo junto a las piezas del año 200 a.C.
 
-## Qué hay cerca para combinar con tu visita
+## Qué visitar cerca
 
-Una vez terminada la visita, el propio campus recompensa un paseo tranquilo. Los terrenos de Silliman University están sombreados por acacias centenarias, y el campus en general se considera uno de los rincones más agradables y transitables a pie de Dumaguete.
+Una vez terminada la visita, el propio campus merece un paseo sin prisas. Los terrenos de Silliman University están sombreados por acacias centenarias, y el conjunto del campus está considerado uno de los rincones más agradables y transitables de Dumaguete a pie.
 
-Desde la puerta principal, hay un corto paseo hasta Rizal Boulevard para una pausa frente al mar, o hacia el centro para almorzar. Ambos son paradas naturales después del museo, y te permiten convertir una visita de 45 minutos en un recorrido de medio día por el casco histórico de la ciudad.
+Desde la puerta principal, se llega caminando en poco tiempo a Rizal Boulevard, ideal para una pausa frente al mar, o al centro de la ciudad, para almorzar. Ambos son continuaciones naturales después del museo y permiten convertir una visita de 45 minutos en un recorrido de medio día por el casco histórico de la ciudad.

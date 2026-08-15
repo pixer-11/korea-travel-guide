@@ -2,54 +2,56 @@
 lang: es
 slug: bilbao-cafe-bar-bilbao
 srcHash: '75b07a0d0225'
-title: 'Café Bar: Guía de viaje de Bilbao (4,4★)'
-description: Café Bar Bilbao es un café-bar grande, animado y de azulejos retro en la Plaza Berria, en el Casco Viejo (Ibaiondo), abierto todos los días de 6:30 (9:00 los fines de semana) a 23:00, con café, cerveza y una larga barra de pintxos vascos. 4,4★ (3.793 reseñas) — qué dicen los visitantes, horarios y consejos.
-quickAnswer: Café Bar Bilbao es un café-bar grande, animado y de azulejos retro en la Plaza Berria, en el Casco Viejo (Ibaiondo), abierto todos los días de 6:30 (9:00 los fines de semana) a 23:00, con café, cerveza y una larga barra de pintxos vascos. Ve en día de semana entre las 7:00 y las 9:00 para encontrar la sala vacía y tomar un café tranquilo; los fines de semana está lleno prácticamente todo el día, así que si buscas el ambiente animado, llega justo a las 9:00, a la apertura.
+title: 'Café Bar Bilbao: guía de viaje (4,4★)'
+description: 'Con sus azulejos retro, Café Bar Bilbao es un bar-cafetería grande y animado en la Plaza Berria del Casco Viejo (Ibaiondo), abierto todos los días de 6:30 a 23h (desde las 9h los fines de semana), donde se sirve café, cerveza y una larga barra de pintxos vascos. 4,4★ (3.793 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: Con sus azulejos retro, Café Bar Bilbao es un bar-cafetería grande y animado en la Plaza Berria del Casco Viejo (Ibaiondo), abierto todos los días de 6:30 a 23h (desde las 9h los fines de semana), donde se sirve café, cerveza y una larga barra de pintxos vascos. Para disfrutar de la sala vacía y un café tranquilo, conviene ir un día entre semana de 7 a 9 de la mañana; los fines de semana el ambiente se mantiene animado prácticamente todo el día, así que si lo que se busca es ese bullicio, lo mejor es llegar justo a la apertura, a las 9h.
 faq:
   - q: ¿Cómo se llega a Café Bar Bilbao?
-    a: Está en la Plaza Berria, en el Casco Viejo (barrio de Ibaiondo). La parada de metro más cercana es Casco Viejo, servida tanto por la Línea 1 como por la Línea 2, a pocos minutos a pie.
+    a: Está en la Plaza Berria, en el Casco Viejo (barrio de Ibaiondo). La parada de metro más cercana es Casco Viejo, servida por las líneas 1 y 2, a pocos minutos a pie.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Los días de semana entre las 7:00 y las 9:00 son los más tranquilos, cuando coincides con los vecinos que van camino al trabajo. Los fines de semana está lleno desde media mañana hasta el cierre, así que entonces no hay realmente un momento de calma.
-  - q: ¿Qué debería pedir?
-    a: 'Pintxos vascos directamente del mostrador de la barra: tortilla, jamón, croquetas, junto con una caña o un café. Los pintxos se cuentan por los palillos que quedan en tu plato y se suman al final.'
+    a: Entre semana, de 7 a 9 de la mañana, es cuando hay más calma, coincidiendo con los vecinos que pasan camino al trabajo. Los fines de semana el bar se mantiene concurrido desde media mañana hasta el cierre, así que en esos días no hay realmente un momento de tranquilidad.
+  - q: ¿Qué pedir?
+    a: Pintxos vascos recién sacados de la barra —tortilla, jamón, croquetas— acompañados de una caña o un café. Los pintxos se cuentan por los palillos que quedan en el plato y se suman al final.
   - q: ¿Cuál es el horario de apertura?
-    a: De 6:30 a 23:00 de lunes a viernes, y de 9:00 a 23:00 los sábados y domingos. Siempre conviene confirmarlo localmente, ya que el horario puede variar en festivos.
-  - q: ¿Tiene buena relación calidad-precio?
-    a: 'Sí: es económico para los estándares de Bilbao, lo que en parte explica que atraiga a un público constante tanto de locales como de visitantes.'
+    a: De lunes a viernes, de 6:30 a 23h; sábados y domingos, de 9 a 23h. Conviene siempre confirmar el horario localmente, ya que puede variar en días festivos.
+  - q: ¿Tiene una buena relación calidad-precio?
+    a: 'Sí: para los estándares de Bilbao resulta económico, lo cual explica en parte que atraiga a un público tan constante, tanto de vecinos como de visitantes.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de Google Places en tiempo real; las imágenes son de uso libre o con licencia. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 
-La Plaza Berria no parece gran cosa en un mapa: una plaza modesta encajada en la trama del Casco Viejo de Bilbao, pero Café Bar Bilbao es el motivo por el que la gente se desvía para llegar hasta ella. Al empujar la puerta, la sala se abre más de lo que uno espera: techos altos, espejos desgastados, suelos de baldosas, mobiliario de madera que el uso de décadas ha vuelto de color ámbar.
+En el mapa, la Plaza Berria no parece gran cosa: una plaza modesta encajada en la trama del Casco Viejo de Bilbao. Pero Café Bar Bilbao es motivo suficiente para desviarse hasta allí. Al cruzar la puerta, la sala se abre más de lo esperado: techos altos, espejos desgastados, suelos de baldosa y maderas que el uso de décadas ha vuelto de color ámbar.
 
-Es el tipo de café-bar retro español que parece no haber cambiado su esencia desde mediados del siglo XX, aunque el público que lo rodea se vuelva más joven y ruidoso a cada hora que pasa. La propia barra es larga, cubierta de bandejas de pintxos —el primo vasco de las tapas, pequeños bocados atravesados por un palillo para que el camarero pueda contar la cuenta al final sumando los palillos.
+Es ese tipo de bar-cafetería español de aire retro que parece no haber cambiado de estructura desde mediados del siglo XX, aunque el público que lo llena se vuelva, con cada hora que pasa, más joven y más ruidoso. La barra, larga, está cubierta de bandejas de pintxos, el primo vasco de las tapas: pequeños bocados ensartados con un palillo para que el camarero pueda calcular la cuenta contando los palillos al final.
 
 ## Cómo llegar
 
-Estás en Ibaiondo, justo en el borde del Casco Viejo, el centro histórico de Bilbao. La referencia más sencilla es la estación de metro Casco Viejo (Línea 1 y Línea 2), a pocos minutos a pie por las calles estrechas que se despliegan desde las Siete Calles. Si vienes desde el Guggenheim o el paseo de Abandoibarra, es un paseo fácil de 20-25 minutos junto al Nervión, o un breve trayecto en tranvía/metro de vuelta al casco antiguo.
+Estamos en Ibaiondo, justo en el límite del Casco Viejo, el casco antiguo de Bilbao. La referencia más sencilla es la estación de metro Casco Viejo (líneas 1 y 2), a pocos minutos a pie por las calles estrechas que se despliegan desde las Siete Calles. Si se viene desde el Guggenheim o la ribera de Abandoibarra, el paseo junto al Nervión lleva entre 20 y 25 minutos, o bien se puede volver al casco antiguo en un breve trayecto de tranvía o metro.
 
-La propia Plaza Berria es pequeña y fácil de pasar por alto a la primera: busca el gentío que se desborda con vasos en la mano, sobre todo por la tarde-noche.
+La propia Plaza Berria es pequeña y fácil de pasar por alto a la primera; hay que buscar el grupo de gente que se desborda hacia la calle con vaso en mano, sobre todo al anochecer.
 
 ## Qué ver y comer
 
-Esto no es un sitio con una carta impresa que se estudia con calma: es un lugar donde recorres la barra, escaneas el mostrador y señalas. Espera pintxos clásicos: cuñas de tortilla, jamón sobre baguette, croquetas, combinaciones de anchoa y pimiento, junto con las habituales cañas y cafés. Los precios son asequibles para lo que ofrece, en parte por eso el local se llena.
+No es un lugar con carta impresa para estudiar con calma: aquí se recorre la barra, se mira el mostrador y se señala lo que apetece. Lo habitual son los pintxos clásicos: porciones de tortilla, jamón sobre baguette, croquetas, combinaciones de anchoa y pimiento, además de las consabidas cañas y cafés. Los precios son asequibles para lo que se ofrece, algo que explica en parte por qué el local se llena.
 
-La sala en sí merece que te detengas en ella: la cartelería retro, el bullicio de las conversaciones que rebota en las superficies duras, la sensación de que se trata de un bar de barrio de trabajo que además es excelente, no un local disfrazado para visitantes. Coge un taburete junto a la ventana si quieres ver cómo el ritmo pausado de la Plaza Berria durante el día se transforma en el bullicio de la tarde-noche.
+Merece la pena quedarse un rato en la sala en sí: los carteles retro, el bullicio de las conversaciones que rebota en las superficies duras, esa sensación de estar en un bar de barrio que trabaja de verdad y que, de paso, resulta excelente, no en un local arreglado para turistas. Conviene buscar un taburete junto a la ventana para ver cómo el ritmo pausado de la Plaza Berria durante el día se transforma en el bullicio de la noche.
 
 ## Cuándo ir
 
-El ritmo aquí merece que lo planifiques. En días de semana, la franja de calma es temprana —de 7:00 a 9:00—, cuando en realidad solo hay café, bollería y vecinos que pasan antes de ir a trabajar. Después de eso, y especialmente durante el fin de semana, la sala se va llenando poco a poco. Los fines de semana el ajetreo va desde media mañana hasta el cierre a las 23:00, así que no hay realmente un momento de calma que esperar: si quieres tener la sala para ti, la mañana temprano de un día de semana es tu mejor y, de hecho, tu única opción.
+Vale la pena planear en torno al ritmo del local. Entre semana, la franja tranquila es temprano, de 7 a 9 de la mañana, cuando apenas hay café, bollería y vecinos de paso antes del trabajo. A partir de ahí, y sobre todo durante el fin de semana, la sala se va llenando poco a poco. Los sábados y domingos el ambiente se mantiene animado desde el mediodía hasta el cierre, a las 23h, así que no hay realmente un momento de calma que esperar: si se quiere tener la sala para uno mismo, la mañana temprana entre semana es la mejor -y prácticamente única- oportunidad.
 
-Si vienes buscando la escena clásica de pintxos y cerveza en lugar de un café tranquilo, mejor sumérgete en el ambiente del fin de semana en vez de evitarlo: forma parte de la experiencia.
+Si lo que se busca es la clásica escena de pintxos y cerveza más que un café tranquilo, mejor sumarse al ambiente del fin de semana en lugar de evitarlo: forma parte de la experiencia.
 
 ## Cómo visitarlo como un local
 
-Pide en la barra en lugar de esperar a que te atiendan si hay ajetreo: este es un local de comer de pie y captar la atención del camarero, no de servicio de mesa por defecto. Los pintxos se cuentan por los palillos que quedan en tu plato, así que no te preocupes por llevar la cuenta de lo que has comido; paga al final.
+Si hay mucha gente, lo mejor es pedir directamente en la barra en lugar de esperar a que atiendan la mesa: este es un sitio para comer de pie, llamando la atención del camarero, no de servicio en mesa por defecto. Los pintxos se cuentan por los palillos que quedan en el plato, así que no hace falta llevar la cuenta mentalmente de lo comido; se paga todo junto al final.
 
-El efectivo sigue moviéndose más rápido aquí que andar a tientas con una tarjeta para un par de euros, aunque en general se acepta tarjeta. La etiqueta de los bares vascos es informal y rápida: pides, comes de pie en la barra o en una mesa alta, y te vas si está a tope; quedarse horas y horas en el mostrador en las horas de más ajetreo no es realmente la costumbre local, aunque el ambiente invite a ello.
+El efectivo sigue moviéndose más rápido que la tarjeta para un par de euros, aunque en general se acepta el pago con tarjeta.
 
-El error que cometen los visitantes es tratarlo como un restaurante con servicio de mesa y esperar a que llegue una carta; en su lugar, recorre la barra, mira lo que hay expuesto y pídelo señalando o con un simple "este". Dado lo conocido y lo concurrido que se ha vuelto este sitio de forma constante, no esperes encontrar una joya oculta: espera una auténtica institución de barrio muy querida, y planifica tu visita en torno a la calma de 7:00 a 9:00 si la tranquilidad te importa más que el ambiente animado.
+La etiqueta de los bares vascos es informal y ágil: se pide, se come de pie en la barra o en una mesa alta, y se cede el sitio si el local está a tope; quedarse horas en la barra en plena hora punta no es realmente la costumbre local, aunque el ambiente invite a ello. El error habitual de los visitantes es tratarlo como un restaurante con servicio de mesa y esperar a que traigan una carta; lo correcto es recorrer la barra, ver qué hay expuesto y pedirlo señalando o con un simple "este".
 
-Dedícale entre 30 y 45 minutos para una parada de café, o más de una hora si vas a picotear varias rondas de pintxos con una bebida. En cualquier caso, combina bien con un paseo por las Siete Calles o con un desayuno antes de visitar el Guggenheim.
+Dado lo conocido y lo concurrido que se ha vuelto este lugar, no hay que esperar encontrar una joya escondida, sino una institución de barrio genuinamente querida; conviene organizar la visita en torno a la calma de 7 a 9 de la mañana si la tranquilidad importa más que el ambiente de gente.
+
+Para un café, basta con 30 o 45 minutos; para picotear varias rondas de pintxos con algo de beber, mejor calcular más de una hora. En cualquier caso, combina bien con un paseo por las Siete Calles o con un desayuno previo a la visita al Guggenheim.

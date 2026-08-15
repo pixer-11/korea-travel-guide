@@ -2,52 +2,50 @@
 lang: es
 slug: chiang-mai-wat-chedi-luang
 srcHash: 'f7217442c202'
-title: 'Wat Chedi Luang: Guía de viaje de Chiang Mai'
-description: Wat Chedi Luang, en el corazón del casco antiguo de Chiang Mai (Old City), en Prapokklao Road, es una visita obligada por su enorme chedi del siglo XV, parcialmente en ruinas, y por el santuario del pilar de la ciudad (lak mueang) que se encuentra en su recinto.
-quickAnswer: Wat Chedi Luang, en el corazón del casco antiguo de Chiang Mai (Old City), en Prapokklao Road, es una visita obligada por su enorme chedi del siglo XV, parcialmente en ruinas, y por el santuario del pilar de la ciudad (lak mueang) que se encuentra en su recinto. Reserva entre 45 y 90 minutos, ve a primera hora de la mañana o a última de la tarde para evitar el calor y las multitudes, y combínalo con un paseo hasta el cercano Wat Phra Singh o el mercado de la calle peatonal del domingo (Sunday Walking Street). La entrada tiene un coste modesto que se paga en efectivo en la puerta; lleva billetes pequeños y ve con los hombros y las rodillas cubiertos.
+title: 'Wat Chedi Luang: Guía de Viaje de Chiang Mai'
+description: En pleno corazón del casco antiguo de Chiang Mai, sobre la calle Prapokklao, Wat Chedi Luang es una parada obligada gracias a su imponente chedi del siglo XV, parcialmente en ruinas, y al santuario del pilar de la ciudad (lak mueang) que alberga en su recinto.
+quickAnswer: En pleno corazón del casco antiguo de Chiang Mai, sobre la calle Prapokklao, Wat Chedi Luang es una parada obligada gracias a su imponente chedi del siglo XV, parcialmente en ruinas, y al santuario del pilar de la ciudad (lak mueang) que alberga en su recinto. Conviene reservar entre 45 y 90 minutos para la visita, ir a primera hora de la mañana o al final de la tarde para evitar el calor y las multitudes, y aprovechar para combinarla con una caminata hasta el cercano Wat Phra Singh o hasta el mercado callejero del domingo (Sunday Walking Street). La entrada tiene un costo modesto que se paga en efectivo en la puerta, así que conviene llevar billetes pequeños y presentarse con hombros y rodillas cubiertos.
 faq:
   - q: ¿Cuánto cuesta entrar a Wat Chedi Luang?
-    a: Hay una tarifa de entrada modesta que se paga en efectivo en la puerta; los precios exactos pueden cambiar, así que conviene confirmar las tarifas vigentes al llegar, y llevar billetes pequeños de baht tailandés, ya que el pago con tarjeta no es habitual.
-  - q: ¿Cuánto tiempo debería planear pasar allí?
-    a: La mayoría de los visitantes pasan entre 45 minutos y una hora recorriendo el chedi, el viharn y el santuario del pilar de la ciudad; conviene añadir más tiempo si se quiere participar en una sesión de Monk Chat por la tarde.
+    a: Hay una tarifa de entrada modesta que se paga en efectivo en la puerta. Los precios exactos pueden variar, así que conviene confirmar la tarifa vigente al llegar y llevar billetes pequeños de baht tailandés, ya que el pago con tarjeta no es habitual.
+  - q: ¿Cuánto tiempo debería planear pasar ahí?
+    a: La mayoría de los visitantes dedica entre 45 minutos y una hora a recorrer el chedi, el viharn y el santuario del pilar de la ciudad. Conviene sumar tiempo extra si se quiere participar en una sesión de Monk Chat por la tarde.
   - q: ¿Cuál es el mejor momento del día para visitarlo?
-    a: A primera hora de la mañana, justo después de la apertura, o a última de la tarde se ofrecen temperaturas más frescas, una luz más suave para las fotos y menos grupos turísticos que al mediodía.
+    a: A primera hora de la mañana, justo después de la apertura, o al final de la tarde, se disfrutan temperaturas más frescas, una luz más suave para las fotos y menos grupos turísticos que al mediodía.
   - q: ¿Cómo llego a Wat Chedi Luang desde el centro de Chiang Mai?
-    a: Está dentro del casco antiguo (Old City), en Prapokklao Road, a una distancia caminable de 10 a 20 minutos desde la mayoría de los alojamientos del casco antiguo, o a un corto trayecto en songthaew/Grab (10-15 minutos) desde Nimman o la zona de Riverside.
+    a: Está dentro del casco antiguo, sobre la calle Prapokklao, a una distancia caminable de 10 a 20 minutos desde la mayoría de los alojamientos del casco antiguo, o a un corto trayecto en songthaew o Grab (10-15 minutos) desde Nimman o la zona de Riverside.
   - q: ¿Qué más hay cerca?
-    a: Wat Phra Singh, Wat Chiang Man y el Monumento a los Tres Reyes se encuentran todos a 10-15 minutos a pie, lo que facilita combinarlo en una ruta de templos por el casco antiguo.
+    a: Wat Phra Singh, Wat Chiang Man y el Monumento a los Tres Reyes quedan todos a 10-15 minutos caminando, lo que facilita combinarlos en una ruta de templos por el casco antiguo.
 ---
 
 ## Por qué ir
 
-Wat Chedi Luang es uno de los templos histéricamente más importantes del norte de Tailandia, construido alrededor de un chedi (estupa) colosal que en su día alcanzó más de 80 metros de altura, hasta que un terremoto del siglo XVI —y posiblemente el fuego de cañón durante un asedio birmano posterior— derribó su parte superior. Lo que queda sigue siendo una imponente y desgastada mole de ladrillo y estuco, rodeada de escalinatas con serpientes naga y esculturas de elefantes en su base, lo que le da una solemnidad que los templos más pulidos y dorados de Chiang Mai no logran igualar.
+Wat Chedi Luang es uno de los templos con mayor peso histórico del norte de Tailandia. Se construyó en torno a un colosal chedi (estupa) que en su día superaba los 80 metros de altura, hasta que un terremoto del siglo XVI —y posiblemente los cañonazos de un asedio birmano posterior— derribó su sección superior. Lo que queda sigue siendo una masa imponente de ladrillo y estuco desgastado por el tiempo, rodeada de escalinatas con serpientes naga y esculturas de elefantes en la base, lo que le da una solemnidad que no alcanzan los templos más pulidos y dorados de Chiang Mai.
 
-El complejo también alberga el *lak mueang* de la ciudad, el pilar guardián que se cree protege Chiang Mai, resguardado en una pequeña estructura junto a un árbol de goma sagrado (*sadeu mueang*) que, según se dice, tiene la misma edad que la ciudad. Con una calificación de 4.7 sobre más de 18,500 reseñas, es sistemáticamente uno de los lugares mejor valorados del casco antiguo (Old City).
+El complejo alberga también el *lak mueang* de la ciudad, el pilar guardián que se cree protege Chiang Mai, resguardado en una pequeña estructura junto a un árbol de goma sagrado (*sadeu mueang*) que, según se dice, es tan antiguo como la propia ciudad. Con una calificación de 4.7 sobre más de 18.500 reseñas, se mantiene como uno de los sitios mejor valorados del casco antiguo.
 
 ## Cómo llegar
 
-El templo se encuentra en 103 Prapokklao Road, justo dentro del casco antiguo amurallado (Old City), aproximadamente a medio camino entre Wat Phra Singh y el Monumento a los Tres Reyes (Three Kings Monument). Se puede llegar caminando sin problema desde la mayoría de los alojamientos del casco antiguo: cuenta con un paseo de 10 a 20 minutos según dónde te encuentres.
+El templo se encuentra en 103 Prapokklao Road, dentro de las murallas del casco antiguo, casi a medio camino entre Wat Phra Singh y el Monumento a los Tres Reyes. Se puede llegar caminando sin problema desde la mayoría de los alojamientos del casco antiguo, con paseos de entre 10 y 20 minutos según la ubicación. Si se viene desde fuera de las murallas, un songthaew (camioneta roja) o un Grab desde las zonas de Nimman o Riverside suele tardar entre 10 y 15 minutos y cuesta una tarifa pequeña y negociable.
 
-Si vienes desde fuera de las murallas, un songthaew (camioneta roja) o un Grab desde las zonas de Nimman o Riverside en Chiang Mai suele tardar entre 10 y 15 minutos y cuesta una tarifa pequeña y negociable.
-
-Chiang Mai no cuenta con tren ni con un sistema tipo BTS, así que los taxis, los songthaews o una bicicleta/scooter de alquiler son las opciones más prácticas. Muchos visitantes lo incluyen en una ruta a pie por los templos del casco antiguo, ya que Wat Phra Singh, Wat Chiang Man y Wat Inthakhin están todos a 10-15 minutos caminando.
+Chiang Mai no cuenta con tren ni con un sistema tipo BTS, así que los taxis, los songthaews o el alquiler de bicicleta o scooter son las opciones más prácticas. Muchos visitantes lo incluyen en un recorrido a pie por los templos del casco antiguo, ya que Wat Phra Singh, Wat Chiang Man y Wat Inthakhin quedan todos a 10-15 minutos caminando.
 
 ## Qué ver y hacer
 
-- **El viharn (sala de asambleas) de estilo Lanna**, en la parte delantera, alberga la imagen principal de Buda y es donde los locales acuden a hacer méritos; merece la pena detenerse aquí antes de dirigirse al chedi en ruinas que hay detrás.
-- **El Gran Chedi en sí**: recorre todo el perímetro para ver los distintos estados de restauración; un lado fue reconstruido con trabajos consultados por la UNESCO en la década de 1990, mientras que otros se dejaron deliberadamente desgastados para preservar la autenticidad histórica. Fíjate en las cariátides con forma de elefante y en las balaustradas de naga que flanquean las escalinatas.
-- **El santuario del pilar de la ciudad**: escondido a un lado, señalado por un gran árbol de goma. Según la creencia local, si este árbol cae, la desgracia se abatirá sobre la ciudad, por lo que está vallado y protegido en consecuencia. Los no budistas pueden verlo, pero en ocasiones el acceso al edificio interior del santuario está restringido solo a hombres o cerrado a los visitantes en determinados días; conviene revisar la señalización a la llegada.
-- **Monk Chat**: muchas tardes, jóvenes monjes que estudian inglés se sientan en un área designada para conversar con los visitantes; una forma sencilla y realmente interesante de hacer preguntas sobre la vida en el templo.
-- Los fotógrafos deben tener en cuenta que el chedi resulta más evocador con la luz suave de primera o última hora del día, cuando la textura del ladrillo y el juego de sombras se aprecian mejor.
+- **El viharn (salón de asambleas) de estilo lanna**, en la parte frontal, alberga la imagen principal de Buda y es donde los locales acuden a hacer méritos; vale la pena detenerse aquí antes de dirigirse al chedi en ruinas que se encuentra detrás.
+- **El Gran Chedi**: conviene recorrer todo su perímetro para apreciar los distintos estados de restauración. Un lado fue reconstruido en la década de 1990 con asesoría de la UNESCO, mientras que otros se dejaron deliberadamente desgastados para preservar la autenticidad histórica. No hay que perderse las cariátides de elefantes ni las balaustradas de naga que flanquean las escalinatas.
+- **El santuario del pilar de la ciudad**: se encuentra a un lado, señalado por un gran árbol de goma. Según la creencia local, si este árbol llegara a caer, la ciudad sufriría una desgracia, por lo que está cercado y protegido en consecuencia. Los no budistas pueden verlo, aunque en ocasiones el acceso al edificio interior del santuario está restringido solo a hombres o cerrado al público en ciertos días; conviene revisar la señalización al llegar.
+- **Monk Chat**: muchas tardes, monjes jóvenes que estudian inglés se reúnen en un área designada para conversar con los visitantes. Es una actividad sencilla y genuinamente interesante para hacer preguntas sobre la vida en el templo.
+- Los fotógrafos deben tener en cuenta que el chedi luce más atmosférico con la luz suave de la mañana temprano o el final de la tarde, cuando la textura del ladrillo y el juego de sombras se aprecian mejor.
 
 ## Cuándo ir
 
-Procura ir a primera hora de la mañana (poco después de la apertura) o a última de la tarde para evitar tanto el calor del mediodía como las multitudes de tours, que alcanzan su punto máximo alrededor del mediodía. El templo está más concurrido durante el Songkran (mediados de abril) y el Loy Krathong/Yi Peng (noviembre), cuando luce hermosamente decorado pero considerablemente más lleno de gente.
+Lo mejor es ir a primera hora de la mañana, poco después de la apertura, o al final de la tarde, para evitar tanto el calor del mediodía como las multitudes de grupos turísticos, que alcanzan su punto máximo hacia el mediodía. El templo vive su momento de mayor afluencia durante Songkran (mediados de abril) y Loy Krathong/Yi Peng (noviembre), cuando luce bellamente decorado pero considerablemente más concurrido.
 
-Los meses más frescos, de noviembre a febrero, hacen que recorrer el recinto y las calles cercanas resulte más cómodo que durante la temporada calurosa (marzo-mayo).
+Los meses más frescos, de noviembre a febrero, hacen que recorrer el recinto y las calles cercanas resulte más agradable que durante la temporada de calor (marzo-mayo).
 
 ## Alrededores y consejos
 
-Cubre los hombros y las rodillas; a veces hay sarongs disponibles para prestar cerca de la entrada, pero es más sencillo vestirse de forma apropiada de antemano. Lleva billetes pequeños en efectivo para la entrada, ya que el pago con tarjeta no es una práctica habitual en las puertas de los templos. Calcula entre 45 minutos y una hora para una visita tranquila, más si te quedas para el Monk Chat.
+Hay que cubrirse hombros y rodillas; cerca de la entrada a veces se pueden pedir prestados sarongs, pero es más sencillo vestirse adecuadamente de antemano. Conviene llevar billetes pequeños en efectivo para la entrada, ya que el pago con tarjeta no es una práctica habitual en las puertas de los templos. Para una visita relajada, hay que calcular entre 45 minutos y una hora, más tiempo si se decide quedarse para el Monk Chat.
 
-Después, es un corto paseo hasta Wat Phra Singh, el Monumento a los Tres Reyes y las numerosas calles de cafés y puestos de fideos del casco antiguo: una forma natural de pasar medio día explorando a pie.
+Después, queda a poca distancia caminando Wat Phra Singh, el Monumento a los Tres Reyes y las numerosas calles con cafés y puestos de fideos del casco antiguo, una forma natural de pasar media jornada explorando a pie.

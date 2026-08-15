@@ -2,64 +2,64 @@
 lang: es
 slug: dempsey-hill-singapore-botanic-gardens
 srcHash: '2c6372490a1c'
-title: 'Singapore Botanic Gardens: Guía de viaje de Dempsey Hill (4.7★)'
-description: Singapore Botanic Gardens es un parque gratuito de 82 hectáreas, Patrimonio de la Humanidad por la UNESCO, ubicado en el borde de Dempsey Hill, abierto todos los días de 5am a medianoche. 4.7★ (46,688 reseñas) — qué dicen los visitantes, horarios y consejos.
-quickAnswer: Singapore Botanic Gardens es un parque gratuito de 82 hectáreas, Patrimonio de la Humanidad por la UNESCO, ubicado en el borde de Dempsey Hill, abierto todos los días de 5am a medianoche. Ve temprano —antes de las 9am los fines de semana— para evitar las multitudes, y luego empieza en el National Orchid Garden y avanza en bucle hacia Swan Lake. Reserva de dos a tres horas, más si quieres quedarte a almorzar (brunch) después en Dempsey.
+title: 'Jardines Botánicos de Singapur: Guía de viaje de Dempsey Hill (4.7★)'
+description: 'Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, ubicado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. 4.7★ (46.688 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, situado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. Conviene llegar temprano —antes de las 9:00 los fines de semana— para evitar las multitudes, y luego comenzar por el Jardín Nacional de Orquídeas antes de dirigirse hacia el Lago de los Cisnes (Swan Lake). Hay que reservar entre dos y tres horas, o más si después se quiere disfrutar de un brunch con calma en Dempsey.
 faq:
-  - q: ¿Cuánto tiempo debo reservar para los jardines?
-    a: De dos a tres horas alcanzan para recorrer los prados principales, Swan Lake y el National Orchid Garden a un ritmo tranquilo. Los aficionados a las plantas a menudo pasan medio día.
-  - q: ¿Cuál es el momento más tranquilo para visitar?
-    a: Tanto en días de semana como fines de semana, el ambiente es más tranquilo entre las 7am y las 11pm; procura evitar el horario de 9am a 8pm los fines de semana, cuando las multitudes alcanzan su punto máximo.
+  - q: ¿Cuánto tiempo debería reservar para visitar los jardines?
+    a: Entre dos y tres horas alcanzan para recorrer con calma el césped principal, el Lago de los Cisnes y el Jardín Nacional de Orquídeas. Quienes son aficionados a las plantas suelen dedicarle media jornada.
+  - q: ¿Cuál es el momento más tranquilo para visitarlos?
+    a: Tanto entre semana como los fines de semana, el ambiente es más calmado entre las 7:00 y las 23:00; conviene evitar el horario de 9:00 a 20:00 los fines de semana, cuando la afluencia llega a su punto máximo.
   - q: ¿Cómo llego en transporte público?
-    a: Toma la Circle Line del MRT hasta la estación Botanic Gardens y sal por la Exit B, que te deja justo en la entrada de Tanglin Gate.
+    a: Toma el MRT por la línea Circle hasta la estación Botanic Gardens y sal por la Salida B, que te deja justo en la entrada de Tanglin Gate.
   - q: ¿La entrada es gratuita?
-    a: Sí, los jardines principales tienen entrada gratuita todos los días de 5am a medianoche. Solo el National Orchid Garden, en su interior, cobra una tarifa de admisión — verifica los precios actuales antes de visitar.
-  - q: ¿Qué hay cerca si quiero comer después?
-    a: Dempsey Hill está a 5-10 minutos a pie de las puertas Nassim o Tanglin y cuenta con un conjunto de restaurantes de gama media a alta en antiguos edificios coloniales reconvertidos.
+    a: Sí, el acceso a los jardines principales es gratuito todos los días de 5:00 a 24:00. Solo el Jardín Nacional de Orquídeas, en su interior, cobra entrada; conviene revisar el precio vigente antes de ir.
+  - q: ¿Qué hay cerca para comer después?
+    a: Dempsey Hill queda a 5-10 minutos a pie desde las puertas de Nassim o Tanglin, y reúne un buen número de restaurantes de precio medio a alto instalados en antiguos edificios coloniales.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos se obtienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 
-No necesitas una entrada ni un itinerario para sentir el atractivo de este lugar. Singapore Botanic Gardens es el único Patrimonio de la Humanidad de la UNESCO en el país, y se ganó ese estatus sin sentirse nunca como un monumento. Es un parque en pleno uso —corredores, fotógrafos de bodas, jubilados haciendo tai chi bajo los árboles de lluvia (rain trees)— que además resulta albergar una de las grandes colecciones de plantas tropicales del mundo.
+No hace falta comprar una entrada ni planear un itinerario para sentir el encanto de este lugar. Los Jardines Botánicos de Singapur son el único sitio del país declarado Patrimonio de la Humanidad por la UNESCO, y ostentan ese título sin parecer jamás un monumento solemne. Es, ante todo, un parque vivo: corredores, fotógrafos de bodas y jubilados practicando tai chi bajo los árboles de lluvia conviven aquí con una de las colecciones de plantas tropicales más importantes del mundo.
 
-## Lo que realmente verás
+## Qué vas a encontrar realmente
 
-Empieza en el National Orchid Garden, un recinto de pago dentro del parque gratuito, donde orquídeas híbridas de colores imposibles trepan por enrejados bajo un dosel verde. Desde allí, los senderos descienden hacia Swan Lake, el lago artificial más antiguo de Singapur, cuya superficie es patrullada de verdad por cisnes.
+Conviene empezar por el Jardín Nacional de Orquídeas, un recinto de pago dentro del parque gratuito, donde orquídeas híbridas de colores casi imposibles trepan por enrejados bajo un dosel verde. Desde allí, los senderos descienden hacia el Lago de los Cisnes (Swan Lake), el lago artificial más antiguo de Singapur, cuya superficie recorren, en efecto, cisnes de verdad.
 
-Busca:
-- Los prados abiertos del Sundial Garden, ideales para un descanso
-- El árbol Tembusu cerca del Music Garden — su rama baja y retorcida es la que aparece en el antiguo billete de 5 dólares de Singapur
-- Bandstand, un quiosco de música de estilo victoriano sobre una pequeña colina
-- Ginger Garden, repleto de heliconias y jengibre antorcha (torch ginger)
+No te pierdas:
+- El césped abierto del Jardín del Reloj de Sol (Sundial Garden), ideal para hacer una pausa
+- El árbol tembusu cerca del Jardín de la Música (Music Garden): su rama baja y retorcida es la misma que aparecía en el antiguo billete de 5 dólares de Singapur
+- El Bandstand, un quiosco de música de estilo victoriano sobre una pequeña colina
+- El Jardín del Jengibre (Ginger Garden), repleto de heliconias y jengibre antorcha
 
-Las esculturas están repartidas por todo el parque en lugar de agruparse — te encontrarás con figuras de bronce a mitad de paso en un sendero, sin previo aviso.
+Las esculturas no están agrupadas, sino repartidas por todo el parque: es fácil toparse de pronto con figuras de bronce a mitad de zancada en medio de un sendero.
 
 ## Cómo llegar
 
-Los jardines están justo al lado de Dempsey Hill, así que es fácil combinar ambos en una sola salida. Toma la Circle Line hasta la estación de MRT Botanic Gardens y usa la Exit B, que te deja casi directamente en la entrada de Tanglin Gate.
+Los jardines lindan directamente con Dempsey Hill, así que es fácil combinar ambas visitas en una sola salida. Toma la línea Circle (Circle Line) hasta la estación Botanic Gardens y sal por la Salida B, que te deja casi justo en la entrada de Tanglin Gate.
 
-Si vienes desde el propio Dempsey Hill, es una caminata llana de 10 minutos por Napier Road hasta la puerta Nassim o Tanglin. Al haber múltiples entradas —Tanglin, Nassim, Bukit Timah, Cluny— vale la pena comprobar cuál queda más cerca de a dónde realmente quieres llegar.
+Si vienes desde el propio Dempsey Hill, son 10 minutos a pie por Napier Road, sin cuestas, hasta Nassim Gate o Tanglin Gate. Como hay varias entradas —Tanglin, Nassim, Bukit Timah y Cluny—, vale la pena comprobar cuál queda más cerca de tu destino dentro del parque.
 
 ## Cuándo ir
 
-Los jardines abren todos los días de 5am a medianoche, un horario inusualmente generoso para un parque de este tamaño. Los patrones de afluencia muestran que el ambiente se mantiene tranquilo la mayoría de los días entre las 7am y las 11pm, pero los fines de semana se llenan rápido entre las 9am y las 8pm.
+Los jardines abren todos los días de 5:00 a 24:00, un horario inusualmente amplio para un parque de este tamaño. Según los patrones de afluencia, el ambiente suele ser tranquilo la mayor parte del día entre las 7:00 y las 23:00, aunque los fines de semana se llenan rápido entre las 9:00 y las 20:00.
 
-Si quieres tener los prados y los senderos junto al lago para ti solo, apunta a una mañana de entre semana o llega justo a las 7am un fin de semana. El sol del mediodía es intenso y la sombra es escasa en las zonas de prado abierto, así que temprano por la mañana o después de las 4pm resulta más llevadero para caminar.
+Si quieres tener el césped y los senderos junto al lago casi para ti solo, lo mejor es ir una mañana entre semana o llegar justo a las 7:00 un fin de semana. El sol de mediodía pega fuerte y la sombra escasea en las zonas de césped abierto, así que caminar temprano por la mañana o después de las 16:00 resulta mucho más agradable.
 
-## Qué comer y dónde relajarse
+## Dónde comer y relajarse
 
-El propio Dempsey Hill, un antiguo cuartel militar británico convertido en enclave gastronómico, está a un paseo de cinco minutos desde la puerta Nassim. Está repleto de restaurantes instalados en bungalós coloniales blancos y negros a la sombra de los rain trees.
+Dempsey Hill, un antiguo cuartel militar británico reconvertido en enclave gastronómico, queda a apenas cinco minutos a pie de Nassim Gate. Está salpicado de restaurantes instalados en bungalós coloniales blancos y negros, a la sombra de árboles de lluvia.
 
-Espera opciones de precio medio a alto —cocina italiana, mediterránea, asiática contemporánea— más que precios de puesto de comida callejera (hawker). Dentro de los propios jardines, cafés informales cerca del Visitor Centre y el Botany Centre sirven café y comidas ligeras si solo quieres un banco y una bebida fría.
+Aquí predominan las opciones de precio medio a alto —cocina italiana, mediterránea, asiática contemporánea—, no los puestos de comida callejera. Dentro de los propios jardines, cerca del Centro de Visitantes y del Botany Centre hay cafés informales donde tomar un café o un bocado ligero si solo buscas un banco y algo fresco para beber.
 
 ## Cómo visitarlo como un local
 
-Esta es una de las atracciones más visitadas de Singapur, así que la verdadera habilidad aquí es evitar las multitudes, no encontrar un rincón secreto. Ven a la apertura o después de la hora de la cena —los jardines permanecen iluminados y transitables hasta la medianoche, y las noches son notablemente más frescas y tranquilas.
+Este es uno de los lugares más visitados de Singapur, así que el verdadero desafío no es descubrir un rincón secreto, sino esquivar a las multitudes. Conviene llegar justo a la apertura o después de la hora de la cena: los jardines permanecen iluminados y transitables hasta la medianoche, y las noches son notablemente más frescas y tranquilas.
 
-La entrada a los jardines principales es gratuita; solo el National Orchid Garden cobra admisión, pagadera con tarjeta o mediante el sistema de reservas vinculado a SingPass en los últimos años — confirma los precios actuales antes de ir. Trae una botella de agua reutilizable; hay puntos de recarga repartidos cerca de los centros de visitantes.
+La entrada a los jardines principales es gratuita; solo el Jardín Nacional de Orquídeas cobra admisión, que en los últimos años se paga con tarjeta o a través del sistema de reservas vinculado a SingPass —conviene confirmar el precio vigente antes de ir—. Es recomendable llevar una botella de agua reutilizable, ya que hay puntos de recarga cerca de los centros de visitantes.
 
-Usa calzado adecuado para caminar, no sandalias — los senderos están pavimentados, pero el parque es realmente grande y los tramos sin sombra se acumulan. El error más común de los turistas es tratarlo como una parada rápida de 45 minutos para fotos; los locales lo tratan como una salida completa de mañana o tarde, a menudo combinándola con un brunch o una cena en Dempsey Hill.
+Usa calzado cómodo para caminar, no sandalias: los senderos están pavimentados, pero el parque es realmente extenso y los tramos sin sombra se acumulan. El error más común entre los turistas es tratarlo como una parada rápida de 45 minutos para fotos; los locales, en cambio, le dedican una mañana o una tarde entera, a menudo combinándola con un brunch o una cena en Dempsey Hill.
 
-No se permite andar en bicicleta en la mayoría de los jardines, así que no traigas una bici esperando recorrerlo en ella — es, de principio a fin, un parque para caminar.
+No se permite andar en bicicleta en la mayor parte de los jardines, así que no traigas una pensando en recorrerlo pedaleando: es, de principio a fin, un parque para explorar a pie.

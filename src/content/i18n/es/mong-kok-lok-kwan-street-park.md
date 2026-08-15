@@ -2,77 +2,77 @@
 lang: es
 slug: mong-kok-lok-kwan-street-park
 srcHash: '4983eee8cfee'
-title: 'Lok Kwan Street Park: Guía de viaje de Mong Kok (4.0★)'
-description: Lok Kwan Street Park es un pequeño parque vecinal sin pretensiones en Tai Kok Tsui, a pocos minutos a pie del corazón de Mong Kok — ideal para un descanso de 20-30 minutos entre mercados, no una atracción principal. 4.0★ (346 reseñas) — qué dicen los visitantes, horarios y consejos.
-quickAnswer: Lok Kwan Street Park es un pequeño parque vecinal sin pretensiones en Tai Kok Tsui, a pocos minutos a pie del corazón de Mong Kok — ideal para un descanso de 20-30 minutos entre mercados, no una atracción principal. Está abierto las 24 horas, así que las mañanas antes de las 8am son tu mejor apuesta para encontrar bancos libres, ya que los fines de semana se mantiene concurrido de 7am a 11pm.
+title: 'Lok Kwan Street Park: guía de viaje de Mong Kok (4.0★)'
+description: 'Lok Kwan Street Park es un pequeño parque de barrio sin pretensiones en Tai Kok Tsui, a pocos minutos a pie de Mong Kok, ideal para un descanso de 20-30 minutos entre mercados, no una atracción destacada. 4.0★ (346 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: 'Lok Kwan Street Park es un pequeño parque de barrio sin pretensiones en Tai Kok Tsui, a pocos minutos a pie de Mong Kok propiamente dicho: ideal para un respiro de 20-30 minutos entre mercados, no una atracción de las que hay que marcar en la lista. Abre las 24 horas, así que las mañanas antes de las 8:00 son tu mejor opción para encontrar bancos libres, ya que los fines de semana el ambiente se mantiene animado de 7:00 a 23:00.'
 faq:
   - q: ¿Vale la pena visitar Lok Kwan Street Park?
-    a: Solo como una pausa breve entre otras actividades en Mong Kok o Tai Kok Tsui — es un parque vecinal modesto, no una atracción independiente, pero es un lugar genuinamente tranquilo y sin aglomeraciones para descansar de 10 a 20 minutos.
-  - q: ¿Cómo llego a Lok Kwan Street Park?
-    a: Camina unos 10 minutos hacia el este desde la estación de Olympic (Olympic Station, línea Tung Chung) o unos 15 minutos desde la estación de Mong Kok (Mong Kok Station, líneas Tsuen Wan/Kwun Tong). La dirección es 25 Lok Kwan Street, Tai Kok Tsui.
+    a: 'Solo como una pausa breve entre otras actividades en Mong Kok o Tai Kok Tsui: es un parque de barrio modesto, no una atracción independiente, pero sí un lugar genuinamente tranquilo y poco concurrido para descansar entre 10 y 20 minutos.'
+  - q: ¿Cómo se llega a Lok Kwan Street Park?
+    a: Camina unos 10 minutos hacia el este desde la estación Olympic (línea Tung Chung), o unos 15 minutos desde la estación Mong Kok (líneas Tsuen Wan/Kwun Tong). La dirección es 25 Lok Kwan Street, Tai Kok Tsui.
   - q: ¿Cuál es el horario de apertura?
-    a: Está abierto las 24 horas todos los días, así que no hay riesgo de llegar y encontrar la puerta cerrada.
+    a: Abre las 24 horas todos los días, así que no hay riesgo de llegar y encontrar la puerta cerrada.
   - q: ¿Cuál es el momento más tranquilo para ir?
-    a: Los fines de semana se mantiene concurrido de 7am a 11pm, así que apunta a las primeras horas de la mañana en días de semana si quieres encontrarlo casi vacío.
-  - q: ¿Hay costo de entrada?
-    a: No — es un parque público gratuito con acceso abierto desde las calles circundantes.
+    a: Los fines de semana el parque se mantiene concurrido de 7:00 a 23:00, así que si quieres encontrarlo casi vacío, apunta a las primeras horas de la mañana entre semana.
+  - q: ¿Hay que pagar entrada?
+    a: 'No: es un parque público gratuito, con acceso abierto desde las calles circundantes.'
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
-## Por qué molestarse con un parque llamado "Lok Kwan Street"
+## Por qué merece la pena un parque llamado "Lok Kwan Street"
 
-No vas a encontrar esto en una lista de imprescindibles de Hong Kong, y esa es justamente la gracia.
+No vas a encontrar este lugar en ninguna lista imprescindible de Hong Kong, y precisamente ahí está la gracia.
 
-Es un rectángulo verde encajado entre la retícula de edificios tong lau y fideerías de Tai Kok Tsui, construido para la gente que vive alrededor, no para turistas persiguiendo una foto.
+Es un rectángulo verde encajado entre los tong lau y los puestos de fideos que forman la cuadrícula de Tai Kok Tsui, pensado para los vecinos del barrio, no para turistas en busca de la foto perfecta.
 
-Ven aquí cuando las multitudes y el neón de Nathan Road te hayan agotado y quieras diez minutos donde nadie te esté vendiendo nada.
+Ven aquí cuando el gentío y el neón de Nathan Road te hayan agotado y solo quieras diez minutos en los que nadie intente venderte nada.
 
 ## Cómo llegar
 
-El parque se encuentra en el número 25 de Lok Kwan Street, en Tai Kok Tsui, justo al oeste del núcleo turístico de Mong Kok.
+El parque está en 25 Lok Kwan Street, en Tai Kok Tsui, justo al oeste del núcleo turístico de Mong Kok.
 
-La parada de MTR más cercana es la estación de Olympic (Olympic Station), en la línea Tung Chung, a unos 10 minutos a pie hacia el este por las calles circundantes. La estación de Mong Kok (Mong Kok Station, líneas Tsuen Wan y Kwun Tong) también funciona, unos 15 minutos a pie si no te importa atravesar primero las calles del mercado.
+La estación de MTR más cercana es Olympic, en la línea Tung Chung, a unos 10 minutos caminando hacia el este por las calles del entorno. La estación de Mong Kok (líneas Tsuen Wan y Kwun Tong) también sirve, aunque el trayecto a pie ronda los 15 minutos si no te importa atravesar primero las calles del mercado.
 
-Los taxis y los servicios de transporte con conductor pueden dejarte directamente en Lok Kwan Street — útil si vienes cargado de bolsas de compras del Ladies' Market o de Fa Yuen Street.
+Los taxis y los servicios de transporte privado pueden dejarte justo en Lok Kwan Street, algo útil si llegas cargado con bolsas de compras del Ladies' Market o de Fa Yuen Street.
 
-## Lo que realmente vas a encontrar
+## Qué te vas a encontrar
 
-No esperes praderas extensas ni vistas del horizonte. Es un parque urbano compacto y práctico: senderos pavimentados, árboles que dan sombra, algunos bancos dispersos y, por lo general, un rincón de ejercicios con el equipo metálico habitual en los parques pequeños de Hong Kong.
+No esperes praderas extensas ni vistas del perfil urbano. Se trata de un parque urbano compacto y funcional: caminos pavimentados, árboles que dan sombra, algunos bancos repartidos y, normalmente, un rincón de fitness con el equipo metálico de ejercicio típico de los parques pequeños de Hong Kong.
 
-Los residentes mayores practican tai chi o se sientan con el periódico por la mañana. Las trabajadoras domésticas se reúnen con niños las tardes de fin de semana. Nadie tiene prisa.
+Por las mañanas, los residentes mayores practican tai chi o se sientan a leer el periódico. Las tardes de fin de semana traen a trabajadoras domésticas acompañando a niños. Nadie tiene prisa.
 
-La escala es lo bastante pequeña como para verlo entero en una vuelta lenta, y precisamente por eso funciona como una pausa y no como un destino.
+Su tamaño es lo bastante reducido como para recorrerlo entero con un solo paseo tranquilo, y es justo por eso que funciona como una pausa, no como un destino en sí mismo.
 
-- Bancos a la sombra bajo árboles maduros
+- Bancos a la sombra de árboles maduros
 - Equipo básico de ejercicio al aire libre
-- Vistas despejadas por todo el parque — sin rincones ocultos ni multitudes que esquivar
-- Baños públicos en el lugar (algo estándar en los parques de distrito de Hong Kong)
+- Vistas despejadas de todo el parque: sin rincones escondidos ni multitudes que sortear
+- Baños públicos en el propio parque (algo habitual en los parques distritales de Hong Kong)
 
 ## Cuándo ir
 
-El parque nunca cierra — está abierto las 24 horas, todos los días de la semana.
+El parque nunca cierra: abre las 24 horas, los siete días de la semana.
 
-Eso no significa que siempre esté animado. Los datos de tránsito peatonal muestran que los fines de semana son los más concurridos, de 7am a 11pm, así que si quieres encontrarlo casi vacío, las primeras horas de la mañana en días de semana, antes de que el vecindario despierte, son tu mejor ventana.
+Eso no significa que siempre esté animado. Los datos de tráfico peatonal muestran que los fines de semana son los momentos de mayor actividad, de 7:00 a 23:00, así que si buscas encontrarlo casi vacío, las primeras horas de la mañana entre semana, antes de que el barrio despierte, son tu mejor ventana.
 
-Las noches, después del servicio de cena en las calles cercanas, suelen traer una segunda pequeña ola, cuando los residentes caminan tras la comida o dejan que los niños gasten energía antes de dormir.
+Por las noches, tras el servicio de cena en las calles de alrededor, suele llegar una segunda oleada más pequeña de gente, con vecinos que salen a caminar después de comer o dejan que los niños gasten energía antes de dormir.
 
 ## Cómo visitarlo como un local
 
-Trátalo como una parada, no como un destino en sí. Entrar, sentarse diez minutos, salir — así es como la mayoría de la gente lo usa.
+Trátalo como una parada breve, no como un plan aparte. Entrar, sentarse diez minutos y salir: así es como lo usa la mayoría de la gente.
 
-- No traigas nada para vender o actuar; este no es un parque para tocar música en la calle ni para grabar videos, y los locales notan rápido si estás usando el espacio de forma distinta a como ellos lo hacen
-- Evita las tardes de fin de semana si buscas tranquilidad — es cuando más lo usan los vecinos, especialmente las familias
-- Sin costo de entrada, sin boleto, sin puerta — simplemente entra por cualquiera de los senderos que bordean Lok Kwan Street
-- Los botes de basura son limitados, así que lleva contigo los envoltorios de bocadillos en lugar de buscar uno
-- Si el equipo de ejercicio está en uso, espera tu turno en vez de amontonarte — es un espacio pequeño y la etiqueta importa aún más por eso
+- No traigas nada para vender ni actuar: este no es un parque para hacer busking ni montar sesiones de grabación, y los vecinos notan enseguida si usas el espacio de otra manera
+- Evita las tardes de fin de semana si buscas tranquilidad, ya que es cuando más lo usan las familias del barrio
+- No hay entrada, ni ticket, ni puerta de control: simplemente se accede caminando desde cualquiera de los senderos que bordean Lok Kwan Street
+- Las papeleras son escasas, así que mejor llevarte contigo los envoltorios de cualquier snack en vez de buscar una
+- Si el equipo de fitness está ocupado, espera tu turno en lugar de amontonarte: es un espacio pequeño, y por eso la buena educación importa aún más
 
-El error más grande que cometen los visitantes es tratarlo como una parada turística que vale la pena cruzar la ciudad para ver. No lo es. Es un rincón genuinamente poco conocido de calma que solo compensa si ya estás en Tai Kok Tsui o Mong Kok y necesitas cinco minutos para descansar los pies.
+El error más común de los visitantes es tratarlo como una parada turística que merece cruzar la ciudad para verla. No lo es. Es un rincón de calma genuinamente desconocido que solo compensa si ya estás en Tai Kok Tsui o Mong Kok y necesitas cinco minutos para descansar los pies.
 
 ## Qué visitar cerca
 
-El mercado de Fa Yuen Street y el Ladies' Market están ambos a poca distancia a pie si continúas una jornada de compras por Mong Kok.
+El mercado de Fa Yuen Street y el Ladies' Market están ambos a poca distancia caminando, si sigues con una ruta de compras por Mong Kok.
 
-En cuanto a comida, las calles laterales de Tai Kok Tsui por esta zona tienen algunos cha chaan tengs y fideerías genuinamente locales que no aparecen en la mayoría de los mapas turísticos — vale la pena explorarlas si tienes hambre después de tu descanso en el parque.
+Para comer, las calles secundarias de Tai Kok Tsui alrededor del parque esconden varios cha chaan tengs y locales de fideos genuinamente locales que no aparecen en la mayoría de los mapas turísticos, y que vale la pena explorar si te entra hambre después de tu descanso en el parque.
 
-El centro comercial Olympic City, cerca de la estación de Olympic, es otra opción cercana si necesitas aire acondicionado, un baño o un café antes de volver al bullicio de Mong Kok.
+El centro comercial Olympic City, cerca de la estación Olympic, es otra opción cercana si necesitas aire acondicionado, un baño o un café antes de volver al bullicio de Mong Kok.
