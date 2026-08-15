@@ -23,6 +23,9 @@ import yaml from 'js-yaml';
 // was catching the same tic every morning because nothing stopped the translator
 // producing it (2026-08-09).
 import { koBrokenSyllables } from './lib/ko-syllables.mjs';
+// Paragraph-level wrong-language rules live in lib/ so they can be tested
+// without running the whole corpus audit (2026-08-15).
+import { scriptLeakFlags } from './lib/translation-leak.mjs';
 
 const ROOTS = [
   ['src/content/i18n', 'posts'],
@@ -103,43 +106,6 @@ async function auditFrontmatter(root, lang, file, fm, body = '') {
   return flags;
 }
 
-const hangul = (s) => (s.match(/[가-힣]/g) || []).length;
-const kana = (s) => (s.match(/[ぁ-んァ-ヶ]/g) || []).length;
-const han = (s) => (s.match(/[一-鿿]/g) || []).length;
-const latinWords = (s) => (s.match(/[A-Za-z]{2,}/g) || []);
-
-const EN_STOP = /\b(the|and|with|from|your|that|this|have|will|are|for|you|of|to|in|is|it)\b/gi;
-const ES_MARK = /[áéíóúñü¿¡]|\b(el|la|los|las|una|para|con|que|del|es|más)\b/gi;
-
-// Strip the bits where foreign scripts/Latin are LEGITIMATE before scoring:
-// links/URLs, inline code, bold place names get kept as text but link URLS go.
-function cleanParagraph(p) {
-  return p
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // keep link text, drop URL
-    .replace(/`[^`]*`/g, '')
-    .replace(/https?:\S+/g, '')
-    // Parenthetical native-script names — "草堂純豆腐(초당순두부)", "元祖…横丁 (Ganso…)"
-    // — are GOOD translation practice (readers can match signage), never a leak.
-    .replace(/（[^（）]*）/g, '')
-    .replace(/\([^()]*\)/g, '')
-    // Quoted native phrases — taught traveler phrases ("더 주세요") and signage
-    // names ("元祖さっぽろラーメン横丁") — are content, not leakage.
-    .replace(/"[^"\n]*"/g, '')
-    .replace(/“[^”\n]*”/g, '')
-    .replace(/「[^」\n]*」/g, '')
-    .replace(/『[^』\n]*』/g, '')
-    .replace(/〈[^〉\n]*〉/g, '');
-}
-
-// Official-source link lists keep their English site titles verbatim — a
-// paragraph that is mostly "- [Title](url)" lines is reference material, not
-// untranslated prose.
-function isLinkList(raw) {
-  const lines = raw.split('\n').map((l) => l.trim()).filter(Boolean);
-  const linkLines = lines.filter((l) => /^[-*]\s*\[/.test(l));
-  return lines.length > 0 && linkLines.length / lines.length >= 0.6;
-}
-
 // Model chatter leaking into a saved translation ("지금까지 … 확인했습니다",
 // "Here is the translation") — found once at the top of a ko essentials body.
 const CHATTER = /지금까지 가이드|필요한 모든 정보를 확인|다음은 번역|번역입니다|以下は翻訳|翻訳です|以下是翻译|翻译如下|He aquí la traducción|Here is the translation/;
@@ -169,34 +135,7 @@ function auditBody(lang, body) {
   if (lang === 'ko') {
     for (const b of koBrokenSyllables(body).slice(0, 3)) flags.push(['broken-syllable', b]);
   }
-  const paras = body.split(/\n{2,}/).map((p) => p.trim()).filter((p) => p.length >= 60 && !p.startsWith('|'));
-  for (const raw of paras) {
-    if (isLinkList(raw)) continue;
-    const p = cleanParagraph(raw);
-    const lw = latinWords(p);
-    const latinRun = lw.join(' ').length;
-    const h = hangul(p), k = kana(p), c = han(p);
-    const total = p.length;
-    if (lang === 'ko') {
-      if (h === 0 && latinRun > 80) flags.push(['english-paragraph', raw]);
-      else if (k > 10) flags.push(['japanese-leak', raw]);
-    } else if (lang === 'ja') {
-      if (h > 10) flags.push(['korean-leak', raw]);
-      else if (k + c === 0 && latinRun > 80) flags.push(['english-paragraph', raw]);
-    } else if (lang === 'zh') {
-      if (h > 10) flags.push(['korean-leak', raw]);
-      else if (k > 10) flags.push(['japanese-leak', raw]);
-      else if (c === 0 && latinRun > 80) flags.push(['english-paragraph', raw]);
-    } else if (lang === 'es') {
-      if (h + k + c > 10) flags.push(['cjk-leak', raw]);
-      else {
-        const en = (p.match(EN_STOP) || []).length;
-        const es = (p.match(ES_MARK) || []).length;
-        if (en >= 6 && es === 0) flags.push(['english-paragraph', raw]);
-      }
-    }
-    void total;
-  }
+  flags.push(...scriptLeakFlags(lang, body));
   return flags;
 }
 

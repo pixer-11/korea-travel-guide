@@ -28,6 +28,9 @@ import yaml from 'js-yaml';
 import { fixCjkBold } from './lib/cjk-bold.mjs';
 import { reflow } from '../src/lib/paragraphs.mjs';
 import { koMangledSyllables } from './lib/ko-syllables.mjs';
+// The nightly audit and this write gate judge wrong-language output by the
+// SAME rules — a detector the writer does not consult is a warning, not a gate.
+import { scriptLeakFlags } from './lib/translation-leak.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -283,6 +286,27 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
       }
       console.log(`     ⚠ ko/${srcId} — still mangled after ${attempt} attempts: ${mangled.join(' ')} (written; audit will flag it)`);
     }
+  }
+
+  // The whole page can come back in the WRONG LANGUAGE. On 2026-08-15 the
+  // rewrite prompt showed every language Korean's 합니다체 as a register
+  // example, and 93 Simplified-Chinese rewrites came back entirely in Korean
+  // and shipped live; 13 older ones had gone undetected. The audit caught it
+  // that night — after the push, which is exactly the position the ko-syllable
+  // gate above was written to end. The same rules the audit judges by now run
+  // BEFORE the file is written, so a wrong-script page never reaches the repo.
+  // Unlike the mangled syllable this one DOES throw after three attempts: an
+  // unwritten page falls back to English, which a Chinese reader can at least
+  // recognize as not-their-language, while Korean prose under a Chinese URL is
+  // simply a broken page. The post re-queues on the next run via srcHash.
+  const wrongScript = scriptLeakFlags(langCode, String(out.body || '').replace(/\r\n/g, '\n'));
+  if (wrongScript.length) {
+    const kinds = [...new Set(wrongScript.map(([t]) => t))].join(', ');
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — output is not ${langCode} (${kinds}), retranslating (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`translation came back in the wrong language after ${attempt} attempts (${kinds}) — not written`);
   }
 
   const fm = {
