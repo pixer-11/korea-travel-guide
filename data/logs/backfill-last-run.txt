@@ -1,5 +1,5 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 88 itinerary stop(s) queued first
+Priority: 89 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
   – bangkok-the-grand-palace.md: nothing new
   – barcelona-ciutadella-park.md: nothing new
@@ -7,11 +7,10 @@ Priority: 88 itinerary stop(s) queued first
   – barcelona-placa-nova.md: nothing new
   – bugis-bugis-street.md: nothing new
   – chinatown-chinatown-heritage-centre.md: nothing new
+  – jurong-japanese-garden.md: nothing new
   – jurong-jurong-lake-gardens.md: nothing new
   – kampong-glam-kampong-glam.md: nothing new
   – katong-east-coast-park.md: nothing new
-  ✓ little-india-chola-cafe-biryani-house-best-biryani-in-singapore.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 12h (venue not open then); weekendQuiet: dropped 12h (venue not open then)
   – new-york-the-channel-gardens.md: nothing new
   – new-york-times-square.md: nothing new
   – sentosa-sentosa-sensoryscape.md: nothing new
@@ -25,6 +24,6 @@ Priority: 88 itinerary stop(s) queued first
   – tokyo-shibuya-crossing.md: nothing new
   – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
   – tokyo-tokyo-ramen-street.md: nothing new
-  ✓ aberdeen-aberdeen-promenade.md +phone +7h hours (new post top-up)
+  – agra-agra-fort.md: nothing new
 
-BACKFILL RESULT: updated 2, backlog-updated 1, already-complete 64, no-new-data 23, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1024 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 70, no-new-data 25, no-place 5, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1052 (APPLIED).
