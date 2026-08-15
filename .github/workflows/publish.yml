@@ -187,7 +187,19 @@ jobs:
       - name: Wrong-language gate (delete flagged post translations before commit)
         continue-on-error: true
         run: |
-          node scripts/audit-translations.mjs > /tmp/lang-audit.txt 2>&1 || true
+          # Exit 1 = "flags found" (expected, we act on them); exit 0 = clean.
+          # Anything else, or an empty report, means the AUDIT ITSELF died —
+          # say so loudly instead of reading emptiness as "nothing to remove".
+          set +e
+          node scripts/audit-translations.mjs > /tmp/lang-audit.txt 2>&1
+          RC=$?
+          set -e
+          if [ "$RC" -gt 1 ] || ! grep -q "Translation language audit" /tmp/lang-audit.txt; then
+            echo "::warning::wrong-language audit did not run to completion (exit $RC) — no translations removed"
+            tail -20 /tmp/lang-audit.txt || true
+            echo "LANG_GATE_SUMMARY removed=0 audit=broken"
+            exit 0
+          fi
           DEL=0
           while IFS= read -r line; do
             f=$(printf '%s' "$line" | sed -nE 's#^ *• posts/(ko|ja|es|zh)/([^:]+\.md):.*#src/content/i18n/\1/\2#p')
