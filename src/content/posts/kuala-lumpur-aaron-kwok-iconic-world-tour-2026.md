@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Mkckim / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Aaron_Kwok%27s_concert_20111222.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - kuala lumpur

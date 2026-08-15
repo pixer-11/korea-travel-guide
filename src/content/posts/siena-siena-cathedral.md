@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Duomo_di_Siena-9635.jpg
+  focus:
+    x: 25
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cathedral_%28Siena%29_-_Dome_interior.jpg/1920px-Cathedral_%28Siena%29_-_Dome_interior.jpg
     credit: 'Photo: Livioandronico2013 / Wikimedia Commons (CC BY-SA 4.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hidden Bangkok Boat Tours)'
   license: foursquare
   source: https://foursquare.com/v/656c514bbb726a74d1bac44c
+  focus:
+    x: 50
+    y: 35
 place:
   id: ChIJTQgF826Z4jARKr0ePspKknY
   name: Hidden Bangkok Tours

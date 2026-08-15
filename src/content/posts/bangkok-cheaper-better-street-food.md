@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'
   license: foursquare
   source: https://foursquare.com/v/56d41b96cd101bd7e535aaeb
+  focus:
+    x: 50
+    y: 30
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/140039019_F2qKHWenLcn5FNMwA0fQX08OonVTnmH9FTgVuXcb7gY.jpg
     credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'

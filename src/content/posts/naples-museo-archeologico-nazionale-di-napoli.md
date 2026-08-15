@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Mister No / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_(1).jpg
+  focus:
+    x: 50
+    y: 25
 gallery: []
 place:
   id: ChIJI0DJ4mcIOxMRmHwFiRXPjrQ

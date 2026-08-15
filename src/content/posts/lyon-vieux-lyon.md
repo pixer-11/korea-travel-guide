@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Vieux Lyon)'
   license: foursquare
   source: https://foursquare.com/v/4b24e320f964a520546a24e3
+  focus:
+    x: 25
+    y: 35
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/36858387_FgdAzFvOCefL3WI9qvBsovpe69O3F6axwsVnPFMDvfc.jpg
     credit: 'Photo: Foursquare user content (Vieux Lyon)'

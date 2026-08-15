@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Chiangmai Walking Street (ถนนคนเดินเชียงใหม่))'
   license: foursquare
   source: https://foursquare.com/v/4ce79607867f60fc8e0b37c3
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJT2UZ_Hw72jARiJRwNfxTJVU

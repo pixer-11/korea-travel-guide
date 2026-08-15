@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Mole Antonelliana)'
   license: foursquare
   source: https://foursquare.com/v/4d56530096ed548155361370
+  focus:
+    x: 50
+    y: 25
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mole_Antonelliana_da_sotto.JPG/1920px-Mole_Antonelliana_da_sotto.JPG
     credit: 'Photo: Pmk58 / Wikimedia Commons (CC BY-SA 4.0)'

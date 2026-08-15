@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (3Fils)'
   license: foursquare
   source: https://foursquare.com/v/686bed347f38376c9795c0e3
+  focus:
+    x: 50
+    y: 35
 tags:
   - abu dhabi
   - new & trending

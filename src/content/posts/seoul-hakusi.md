@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hakusi (하쿠시))'
   license: foursquare
   source: https://foursquare.com/v/5bd19661e97dfb002c5cfdcf
+  focus:
+    x: 30
+    y: 60
 gallery: []
 tags:
   - seoul

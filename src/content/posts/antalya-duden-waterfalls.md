@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Düden Şelalesi)'
   license: foursquare
   source: https://foursquare.com/v/4c862ac2d8086dcbe1a39752
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg/1920px-Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
     credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'

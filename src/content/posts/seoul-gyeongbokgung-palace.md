@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Gyeongbokgung Palace (경복궁))'
   license: foursquare
   source: https://foursquare.com/v/4b68220ef964a52087682be3
+  focus:
+    x: 50
+    y: 35
 place:
   id: ChIJod7tSseifDUR9hXHLFNGMIs
   name: Gyeongbokgung Palace

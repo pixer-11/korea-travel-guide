@@ -26,6 +26,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Tribuna Campitelli)'
   license: foursquare
   source: https://foursquare.com/v/6a17c08ebdccd1722135dfc6
+  focus:
+    x: 50
+    y: 40
 ---
 
 ## Why it's worth the walk

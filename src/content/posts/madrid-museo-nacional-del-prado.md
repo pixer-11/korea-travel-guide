@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Museo Nacional del Prado)'
   license: foursquare
   source: https://foursquare.com/v/4adcda37f964a520fd3b21e3
+  focus:
+    x: 30
+    y: 50
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/51242516_K7PJKKNMzk3GbyGhStIBe_PsAXrWeZS8wdEocxpbWI8.jpg
     credit: 'Photo: Foursquare user content (Museo Nacional del Prado)'

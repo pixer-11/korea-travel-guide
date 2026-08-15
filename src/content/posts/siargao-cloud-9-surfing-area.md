@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Cloud 9)'
   license: foursquare
   source: https://foursquare.com/v/4bf24e88324cc9b629f8cc92
+  focus:
+    x: 15
+    y: 35
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/349475157__2L9z0T9BiTU7eF7O4iCRVCo-Y4BgCBXwuVVQ2pb0ig.jpg
     credit: 'Photo: Foursquare user content (Cloud 9)'

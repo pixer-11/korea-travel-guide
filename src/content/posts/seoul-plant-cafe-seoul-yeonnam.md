@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Plant (플랜트))'
   license: foursquare
   source: https://foursquare.com/v/611e32bb4901776b421f2ec9
+  focus:
+    x: 45
+    y: 50
 gallery: []
 place:
   id: ChIJ3Y2fGhmZfDURlZg2rP0sRls

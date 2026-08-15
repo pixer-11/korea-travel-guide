@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Txepetxa)'
   license: foursquare
   source: https://foursquare.com/v/4cd1c7381ac7a1cdcb0b2192
+  focus:
+    x: 50
+    y: 25
 gallery: []
 place:
   id: ChIJfQW8xU2lUQ0RRd5xky_9uBY

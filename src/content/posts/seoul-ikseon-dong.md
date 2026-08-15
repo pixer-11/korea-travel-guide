@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ikseon-dong)'
   license: foursquare
   source: https://foursquare.com/v/5be6bc8756c89f003977c01a
+  focus:
+    x: 65
+    y: 50
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/25871419_FA8Ma2lrvbw9KAuayMoXfgVWZZpIYxWy_YRvOGnub24.jpg
     credit: 'Photo: Foursquare user content (Ikseon-dong)'

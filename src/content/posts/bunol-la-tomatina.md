@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Graham McLellan from London, UK / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tomatina_2006.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - buñol

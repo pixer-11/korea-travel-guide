@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hidden Village)'
   license: foursquare
   source: https://foursquare.com/v/58e9bfd714fb415f6a0e71d8
+  focus:
+    x: 50
+    y: 40
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/6249439_-N297IpyuqTXXnYyhtDmCBnyYgm2nyqx9eiYDeoN8m8.jpg
     credit: 'Photo: Foursquare user content (Hidden Village)'

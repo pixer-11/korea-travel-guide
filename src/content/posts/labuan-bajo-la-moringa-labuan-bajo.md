@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (La Moringa)'
   license: foursquare
   source: https://foursquare.com/v/640ed14543d7701e790354b4
+  focus:
+    x: 50
+    y: 25
 gallery: []
 place:
   id: ChIJV5TcMYJltC0R_ptIvG0PLp0

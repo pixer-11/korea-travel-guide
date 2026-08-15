@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Yokohama Ma Zhu Miao (横濱媽祖廟))'
   license: foursquare
   source: https://foursquare.com/v/4b65543bf964a5206ced2ae3
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg/3840px-Yokohama_Ma_Zu_Miao_in_Yokohama_Chinatown%2C_Naka-ku%2C_Yokohama%2C_Japan%2C_2024_May.jpg
     credit: 'Photo: Ximonic (Simo Räsänen) / Wikimedia Commons (CC BY-SA 4.0)'

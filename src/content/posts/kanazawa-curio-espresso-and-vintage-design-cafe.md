@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Curio Espresso and Vintage Design)'
   license: foursquare
   source: https://foursquare.com/v/5349f12d498e5e5f2311717e
+  focus:
+    x: 85
+    y: 25
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/4468227_TFwjLkDvOAH_eA4t24mbiBnEMDt5NcUqMNLJ42Si9mo.jpg
     credit: 'Photo: Foursquare user content (Curio Espresso and Vintage Design)'

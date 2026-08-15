@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Trilye Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
+  focus:
+    x: 50
+    y: 20
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/60997680_ybVSR8s25XDrSwKCEc8Iw0SA0uyHpQlTC8AOw05zGfA.jpg
     credit: 'Photo: Foursquare user content (Trilye Restaurant)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Jens Cederskjold from København S, Danmark / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_(49081929146).jpg
+  focus:
+    x: 35
+    y: 30
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg
     credit: 'Photo: Diliff / Wikimedia Commons (CC BY 2.5)'

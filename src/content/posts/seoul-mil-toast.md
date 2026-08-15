@@ -26,6 +26,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Mil Toast House (밀토스트))'
   license: foursquare
   source: https://foursquare.com/v/5b699aa8628c83002c8f495f
+  focus:
+    x: 50
+    y: 35
 ---
 
 ## Why everyone's talking about it

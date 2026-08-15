@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Malayan Settlement)'
   license: foursquare
   source: https://foursquare.com/v/6791b6e123751242ab2af9a6
+  focus:
+    x: 35
+    y: 45
 place:
   id: ChIJc5IXFPUZ2jERJEHKmmHiZlA
   name: Malayan Settlement

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Root House By Gēn)'
   license: foursquare
   source: https://foursquare.com/v/6a2b90ffa6ff823cbbb1e61f
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJvW2-l__DSjAR992DAVFF_h0

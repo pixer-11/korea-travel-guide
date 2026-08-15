@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kinu Matcha Bar)'
   license: foursquare
   source: https://foursquare.com/v/69174a2bb0526a28831c6067
+  focus:
+    x: 25
+    y: 60
 place:
   id: ChIJK8B_Fia3yhQRmySyReiPzP4
   name: kinu matcha bar

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Baristro Asian Style)'
   license: foursquare
   source: https://foursquare.com/v/60a335ab2f37f100613f2ec1
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/148341270_qSc6DotSmV5dXZgx4vNvPJIrseeb-1qx7cX5xCkZ3O0.jpg
     credit: 'Photo: Foursquare user content (The Baristro Asian Style)'

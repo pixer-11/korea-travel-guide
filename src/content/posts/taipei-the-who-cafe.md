@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (框影 the who cafe)'
   license: foursquare
   source: https://foursquare.com/v/5a35191c1b0ea57a2f6b39db
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJIVMfUIKpQjQRo_eG-oCfZuE

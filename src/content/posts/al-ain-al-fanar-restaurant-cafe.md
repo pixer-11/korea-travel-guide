@@ -16,6 +16,9 @@ heroImage:
     الفنر))
   license: foursquare
   source: 'https://foursquare.com/v/569e5d75498e861e77d3b60c'
+  focus:
+    x: 15
+    y: 25
 gallery:
   - url: >-
       https://fastly.4sqi.net/img/general/original/19273269_SPVGDz7M9F807hdZ9NNuf0L6SKKebG8hglgUny_Nmn8.jpg

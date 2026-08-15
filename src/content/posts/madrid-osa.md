@@ -26,6 +26,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Osa)'
   license: foursquare
   source: https://foursquare.com/v/63ff620734987a6a67d6b89a
+  focus:
+    x: 50
+    y: 60
 ---
 
 ## Why OSA matters right now

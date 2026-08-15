@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: TJSRX / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg
+  focus:
+    x: 45
+    y: 35
 ---
 The first thing you notice, days before a single engine fires, is the scaffolding. Grandstands climb over the Padang and along Raffles Boulevard, temporary bridges arc across roads you walked the week before, and the glass towers of the CBD suddenly have a racetrack running underneath them. Singapore's Grand Prix weekend turns the financial district into a 5-kilometre street circuit, and for three nights in October the skyline itself becomes part of the spectacle — floodlights bouncing off the Marina Bay Sands facade, the Singapore Flyer lit up behind the final corners.
 

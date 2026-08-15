@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'
   license: foursquare
   source: https://foursquare.com/v/4b5e68ddf964a5207a8d29e3
+  focus:
+    x: 65
+    y: 55
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1402300050_KpYMubG7dMPedGiUkruvgb1bOiytBUyYLMGRzJKtrjQ.jpg
     credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'

@@ -18,6 +18,9 @@ heroImage:
     Wikimedia Commons (CC BY 2.0)
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Sturgis_motorcycle_banner.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - sturgis
   - event

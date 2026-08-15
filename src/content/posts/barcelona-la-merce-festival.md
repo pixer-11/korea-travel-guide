@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_(1)_20240921_11.jpg
+  focus:
+    x: 35
+    y: 25
 gallery: []
 tags:
   - barcelona

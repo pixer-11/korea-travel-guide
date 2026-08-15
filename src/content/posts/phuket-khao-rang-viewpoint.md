@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Khao Rang Viewpoint (จุดชมวิวเขารัง))'
   license: foursquare
   source: https://foursquare.com/v/52e4d682498ecbb0e886274a
+  focus:
+    x: 50
+    y: 50
 place:
   id: ChIJ36TUGOsxUDAR7hcbGCJ8tlc
   name: Khao Rang Viewpoint

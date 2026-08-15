@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kowloon Station)'
   license: foursquare
   source: https://foursquare.com/v/6a3782ef723dd632c91a3dd4
+  focus:
+    x: 50
+    y: 15
 tags:
   - makati
   - new & trending

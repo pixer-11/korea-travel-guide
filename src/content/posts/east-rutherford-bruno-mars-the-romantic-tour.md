@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: Brothers Le / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
+  focus:
+    x: 50
+    y: 45
 ---
 
 ## Why this show matters

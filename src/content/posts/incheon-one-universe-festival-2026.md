@@ -30,6 +30,9 @@ heroImage:
   credit: 'Photo: Frank Schwichtenberg / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
+  focus:
+    x: 45
+    y: 35
 ---
 
 ## Why go

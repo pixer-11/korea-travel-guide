@@ -9,6 +9,9 @@ heroImage:
   credit: 'Photo: Photo and Share CC / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Suncheon_Bay_Ecological_Park_-_Flickr_-_cc.photoshare_(4).jpg
+  focus:
+    x: 50
+    y: 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20181231_Suncheon_Bay_004.jpg/1920px-20181231_Suncheon_Bay_004.jpg
     credit: 'Photo: Jjw / Wikimedia Commons (CC BY-SA 4.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Salt & Oak)'
   license: foursquare
   source: https://foursquare.com/v/68adbcc34ed70a61c469a08a
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJR3PLtNjxVDARKME5gaIWlaw

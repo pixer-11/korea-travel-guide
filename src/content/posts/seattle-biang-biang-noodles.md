@@ -61,6 +61,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Biang Biang Noodles)'
   license: foursquare
   source: https://foursquare.com/v/5ef69d53bdbe3f000763b427
+  focus:
+    x: 50
+    y: 25
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

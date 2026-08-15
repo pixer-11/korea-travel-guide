@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Avli Modern Greek)'
   license: foursquare
   source: https://foursquare.com/v/68a31c3999ca3f5db4bfee4e
+  focus:
+    x: 30
+    y: 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/4089262_VGF_qoxkBVJvDYk2SD6aJFoKIWYtxlh50O-8mTolHfg.jpg
     credit: 'Photo: Foursquare user content (Avli Modern Greek)'

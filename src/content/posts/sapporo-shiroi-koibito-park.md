@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Shiroi Koibito Park (白い恋人パーク))'
   license: foursquare
   source: https://foursquare.com/v/4b76498cf964a520c2462ee3
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg/1920px-%E7%9F%B3%E5%B1%8B%E8%A3%BD%E8%8F%93%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC_%E7%99%BD%E3%81%84%E6%81%8B%E4%BA%BA%E3%83%91%E3%83%BC%E3%82%AF%EF%BC%88Ishiya_Chocolate_Factory_SHIROI_KOIBITO_PARK_-_panoramio.jpg
     credit: 'Photo: t-konno / Wikimedia Commons (CC BY-SA 3.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Basilica of the Sagrada Familia (Temple Expiatori de la Sagrada Família))'
   license: foursquare
   source: https://foursquare.com/v/4adcda50f964a520544121e3
+  focus:
+    x: 50
+    y: 40
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sagrada_Familia_March_2015-10a.jpg/1920px-Sagrada_Familia_March_2015-10a.jpg
     credit: 'Photo: Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)'

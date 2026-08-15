@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Boston Common)'
   license: foursquare
   source: https://foursquare.com/v/4283ee00f964a520dd221fe3
+  focus:
+    x: 45
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boston_Common_May_2018_004.jpg/1920px-Boston_Common_May_2018_004.jpg
     credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'

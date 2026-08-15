@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Dotonbori (道頓堀))'
   license: foursquare
   source: https://foursquare.com/v/4b5aa10ff964a52094ce28e3
+  focus:
+    x: 55
+    y: 45
 place:
   id: ChIJ_fmKgRPnAGARkKWLtCYTu7g
   name: Dotonbori

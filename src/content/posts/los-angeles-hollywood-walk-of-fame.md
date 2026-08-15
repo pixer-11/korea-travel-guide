@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Yolanl / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:1982-07_CA_USA_-_Los_Angeles,_Hollywood,_Walk_of_Fame.jpg
+  focus:
+    x: 50
+    y: 55
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_The_Doors_--_2012_--_5040.jpg/3840px-Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_The_Doors_--_2012_--_5040.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'

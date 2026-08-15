@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Royal Palace of Madrid)'
   license: foursquare
   source: https://foursquare.com/v/67794eae0b0d12794a791914
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Royal_Palace_of_Madrid_east_facade_1.jpg/3840px-Royal_Palace_of_Madrid_east_facade_1.jpg
     credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'

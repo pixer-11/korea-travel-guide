@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Menara Kuantan 188)'
   license: foursquare
   source: https://foursquare.com/v/6038b0890d2ef05d57f32bb5
+  focus:
+    x: 50
+    y: 25
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kuantan_1.jpg/3840px-Kuantan_1.jpg
     credit: 'Photo: Slleong / Wikimedia Commons (CC0)'

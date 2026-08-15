@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Earth777 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Notre-Dame_de_la_Garde_aerial_view_2020.jpeg
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg/1920px-Hafen_von_Marseille-Notre_Dame_de_la_Garde.jpg
     credit: 'Photo: Tobi 87 / Wikimedia Commons (CC BY-SA 3.0)'

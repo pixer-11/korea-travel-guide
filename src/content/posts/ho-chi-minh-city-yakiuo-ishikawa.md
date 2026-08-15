@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Pixer / Wander Atlas'
   license: editor
   source: 'editor-original — Yakiuo Ishikawa Saigon entrance, Thai Van Lung, District 1'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - ho chi minh city

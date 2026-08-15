@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Boatella Tapas)'
   license: foursquare
   source: https://foursquare.com/v/4e4926f462e148603b951887
+  focus:
+    x: 75
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Boatella_Tapas_Exterior.jpg/3840px-Boatella_Tapas_Exterior.jpg
     credit: 'Photo: https://www.flickr.com/photos/shisho_1975/ / Wikimedia Commons (CC BY 2.0)'

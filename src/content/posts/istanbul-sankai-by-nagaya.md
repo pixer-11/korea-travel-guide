@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sankai by Nagaya)'
   license: foursquare
   source: https://foursquare.com/v/63d38d2afa15ed3e9bbf1519
+  focus:
+    x: 50
+    y: 45
 tags:
   - istanbul
   - new & trending

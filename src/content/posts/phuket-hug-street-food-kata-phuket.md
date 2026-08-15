@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hug Street Food, Kata Phuket)'
   license: foursquare
   source: https://foursquare.com/v/6607d073d4fb78725ef014b0
+  focus:
+    x: 45
+    y: 35
 gallery: []
 place:
   id: ChIJTxNPXE0lUDARcms58624dYA

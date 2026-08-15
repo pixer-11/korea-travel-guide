@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Jiufen Old Street (九份老街))'
   license: foursquare
   source: https://foursquare.com/v/4ddf1792d164da4f2326766e
+  focus:
+    x: 50
+    y: 30
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Jiufen_Old_Street_01.jpg
     credit: 'Photo: Kabacchi / Wikimedia Commons (CC BY 2.0)'

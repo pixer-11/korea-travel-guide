@@ -1,56 +1,38 @@
 ---
 title: 'Bangkok International Festival of Dance & Music: What to Know (Bangkok)'
-description: >-
-  Bangkok International Festival of Dance & Music in Bangkok, Thailand —
-  September 5 - October 17, 2026. What it is, when and where, and how to plan
-  around it.
+description: Bangkok International Festival of Dance & Music in Bangkok, Thailand — September 5 - October 17, 2026. What it is, when and where, and how to plan around it.
 country: Thailand
 region: Bangkok
 category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-05'
 eventEndDate: '2026-10-17'
-gallery: []
 tags:
   - bangkok
   - event
-quickAnswer: >-
-  The Bangkok International Festival of Dance & Music returns for its 28th
-  edition from September 5 to October 17, 2026, staged mainly at the Thailand
-  Cultural Centre with 12 international productions — opera, ballet,
-  contemporary dance, and multimedia performance — from nine countries. Book
-  tickets and confirm show-specific dates, times, and venues on the festival's
-  official channels once the full program drops, since individual productions
-  run on their own short schedules within that six-week window.
+quickAnswer: The Bangkok International Festival of Dance & Music returns for its 28th edition from September 5 to October 17, 2026, staged mainly at the Thailand Cultural Centre with 12 international productions — opera, ballet, contemporary dance, and multimedia performance — from nine countries. Book tickets and confirm show-specific dates, times, and venues on the festival's official channels once the full program drops, since individual productions run on their own short schedules within that six-week window.
 faq:
   - q: What are the festival dates for 2026?
-    a: >-
-      The 28th edition runs September 5 through October 17, 2026, though
-      individual productions within that span typically only perform for a few
-      nights each — check the specific show's dates before booking.
+    a: The 28th edition runs September 5 through October 17, 2026, though individual productions within that span typically only perform for a few nights each — check the specific show's dates before booking.
   - q: Where is it held?
-    a: >-
-      The main venue is the Thailand Cultural Centre on Ratchadaphisek Road,
-      reachable directly via Thailand Cultural Centre MRT station (Blue Line).
+    a: The main venue is the Thailand Cultural Centre on Ratchadaphisek Road, reachable directly via Thailand Cultural Centre MRT station (Blue Line).
   - q: How do I get tickets and how much do they cost?
-    a: >-
-      Tickets are generally sold through the festival's or venue's official
-      booking channels closer to the event; prices and on-sale dates haven't
-      been confirmed here, so check the official Thailand Cultural Centre or
-      festival website before you plan around a specific show.
+    a: Tickets are generally sold through the festival's or venue's official booking channels closer to the event; prices and on-sale dates haven't been confirmed here, so check the official Thailand Cultural Centre or festival website before you plan around a specific show.
   - q: What kind of performances are featured?
-    a: >-
-      The 2026 edition includes 12 productions from nine countries spanning
-      opera, ballet, contemporary dance, and multimedia performance — a
-      deliberately varied program rather than a single genre.
+    a: The 2026 edition includes 12 productions from nine countries spanning opera, ballet, contemporary dance, and multimedia performance — a deliberately varied program rather than a single genre.
   - q: How long should I plan to stay in Bangkok for this?
-    a: >-
-      Since the festival spans over six weeks with rotating shows, most visitors
-      pick one or two specific productions and plan a shorter trip around those
-      dates rather than trying to cover the whole season.
+    a: Since the festival spans over six weeks with rotating shows, most visitors pick one or two specific productions and plan a shorter trip around those dates rather than trying to cover the whole season.
 aiGenerated: true
 draft: false
 eventRecurring: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuchipudi_Dance_Academy.jpg
+  credit: 'Photo: Nartanam.lakshmi / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kuchipudi_Dance_Academy.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 You come to this festival for the thing Bangkok doesn't otherwise offer in concentrated form: a six-week stretch where the Thailand Cultural Centre effectively becomes a small international performing-arts hub, pulling in opera companies, ballet troupes, and experimental multimedia acts from nine different countries and putting them on stages a short train ride from wherever you're staying. For one autumn, a city famous for street food and temple spires quietly turns into a place where you can catch European ballet one night and an avant-garde multimedia piece the next.
 

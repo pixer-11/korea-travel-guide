@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Haizearen Orrazia)'
   license: foursquare
   source: https://foursquare.com/v/4fd9cf08e4b053a8d3d16291
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_%28present_and_future%29_1190526.jpg/3840px-San_Sebastian_El_Peine_del_Viento-Haizearen_Orrazia_%28present_and_future%29_1190526.jpg
     credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'

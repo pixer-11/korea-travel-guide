@@ -10,6 +10,9 @@ heroImage:
   credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_and_Maritime_Museum,_November_2016.jpg"
+  focus:
+    x: 25
+    y: 35
 gallery: []
 place:
   id: "ChIJweTiKACPAGARgqyoB9hC7rc"

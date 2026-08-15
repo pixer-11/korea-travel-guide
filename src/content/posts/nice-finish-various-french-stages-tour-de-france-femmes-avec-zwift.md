@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:8e_%C3%A9tape_Tour_de_France_Femmes_2025_-_D%C3%A9but_Madeleine_-_%C3%89chapp%C3%A9e_1.JPG
+  focus:
+    x: 35
+    y: 45
 ---
 
 ## Why go

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Cafe Phuket Viewpoint)'
   license: foursquare
   source: https://foursquare.com/v/65d27c72178a93669187738a
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJb7im6X47UDARtO5wpPmldQo

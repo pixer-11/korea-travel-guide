@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (French Quarter)'
   license: foursquare
   source: https://foursquare.com/v/5ddb0aa4c023bd00085e0f8e
+  focus:
+    x: 50
+    y: 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg/1920px-Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'

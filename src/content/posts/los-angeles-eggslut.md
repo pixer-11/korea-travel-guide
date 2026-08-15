@@ -66,6 +66,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Eggslut)'
   license: foursquare
   source: https://foursquare.com/v/527bf41911d2ff4cca3e912e
+  focus:
+    x: 50
+    y: 45
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

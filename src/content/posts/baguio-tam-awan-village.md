@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Tam-awan Village)'
   license: foursquare
   source: https://foursquare.com/v/4d9641362bd6f04d874d3250
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/6/65/Traditional_Ifugao_hut_in_Tam-Awan_cultural_village.jpg
     credit: 'Photo: Ilya Batuev / Wikimedia Commons (CC BY-SA 4.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ci En Pagoda)'
   license: foursquare
   source: https://foursquare.com/v/4ee99fb64901326b60ed29cf
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg/3840px-View_of_Sun_Moon_Lake_from_hiking_trail_toward_the_Ci%27en_Pagoda_20150719.jpg
     credit: 'Photo: ironypoisoning / Wikimedia Commons (CC BY-SA 2.0)'

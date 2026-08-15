@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Giyanti Coffee Roastery)'
   license: foursquare
   source: https://foursquare.com/v/507cef82e4b076bc19770208
+  focus:
+    x: 35
+    y: 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1402546_F0GqHhAvrVf66Yzd6AtowuXt9U1u529I5WFU0Qqj7II.jpg
     credit: 'Photo: Foursquare user content (Giyanti Coffee Roastery)'

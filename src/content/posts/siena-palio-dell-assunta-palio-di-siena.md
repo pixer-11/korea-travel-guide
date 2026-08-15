@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Palio_dell%27Assunta_2008_(Tittia_Scompiglio).jpg
+  focus:
+    x: 45
+    y: 35
 gallery: []
 tags:
   - siena

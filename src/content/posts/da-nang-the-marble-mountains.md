@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Marble Mountain (Ngũ Hành Sơn))'
   license: foursquare
   source: https://foursquare.com/v/4cae95fdc5e6a1cdc163c6f6
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg/1920px-Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg
     credit: 'Photo: Andre Hospers / Wikimedia Commons (CC BY 4.0)'

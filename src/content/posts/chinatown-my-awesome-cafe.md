@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (My Awesome Café)'
   license: foursquare
   source: https://foursquare.com/v/52bd3837498e63a584baa251
+  focus:
+    x: 50
+    y: 40
 gallery: []
 place:
   id: ChIJ83SVew0Z2jERsfl0iOB4Pco

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sheeva Café (ชีวาคาเฟ่))'
   license: foursquare
   source: https://foursquare.com/v/5d52717c2f162b00088561fe
+  focus:
+    x: 25
+    y: 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/497885554_bEFKyY4AAtqFzsipBmyrpwurEIjcb9g_moQyHn3jZI8.jpg
     credit: 'Photo: Foursquare user content (Sheeva Café (ชีวาคาเฟ่))'

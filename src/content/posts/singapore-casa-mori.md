@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Casa Mori)'
   license: foursquare
   source: https://foursquare.com/v/6a3bbd45c899021bc0650c93
+  focus:
+    x: 50
+    y: 50
 gallery: []
 place:
   id: ChIJ_8KxcQ8b2jERAfy_zkIyCg8

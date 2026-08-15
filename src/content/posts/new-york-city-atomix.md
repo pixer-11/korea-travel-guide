@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Atomix)'
   license: foursquare
   source: https://foursquare.com/v/5b08ede88e886a002c2e85d8
+  focus:
+    x: 35
+    y: 65
 tags:
   - new york city
   - new & trending

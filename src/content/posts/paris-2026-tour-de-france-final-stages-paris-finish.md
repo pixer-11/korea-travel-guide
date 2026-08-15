@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Paris2024_-_Women%27s_Road_Race_-_07_-_Peloton.jpg
+  focus:
+    x: 35
+    y: 45
 gallery: []
 tags:
   - paris

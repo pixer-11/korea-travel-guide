@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Chengdu Giant Panda Museum (成都大熊猫博物馆))'
   license: foursquare
   source: https://foursquare.com/v/62a2b9016c162743a8e5c2e8
+  focus:
+    x: 35
+    y: 55
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chengdu_Sichuan_China_Panda-breeding-and-research-center-01.jpg/1920px-Chengdu_Sichuan_China_Panda-breeding-and-research-center-01.jpg
     credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (nhà hè coffee)'
   license: foursquare
   source: https://foursquare.com/v/5c5d057758002c002c991b03
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJoyY-sH5ncDERTXPJIogNkJ0

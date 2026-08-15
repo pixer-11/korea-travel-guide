@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Gloria Osteria)'
   license: foursquare
   source: https://foursquare.com/v/68deb3f0c295142e45a73fef
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1364167954_nMgc-u2-hResp5nCYqQM3QEcwYaEsnZPU7h102dZJKU.jpg
     credit: 'Photo: Foursquare user content (Gloria Osteria)'

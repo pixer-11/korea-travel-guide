@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (This Is Bali)'
   license: foursquare
   source: https://foursquare.com/v/660688001fa2995516ef5937
+  focus:
+    x: 25
+    y: 65
 place:
   id: ChIJR7MWORA90i0Rj7ugb0Lss4g
   name: This Is Bali - Balinese Food & Desserts

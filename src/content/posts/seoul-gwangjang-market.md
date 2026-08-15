@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Gwangjang Market (광장시장))'
   license: foursquare
   source: https://foursquare.com/v/4bdb974cc79cc928cfb283e9
+  focus:
+    x: 50
+    y: 60
 place:
   id: ChIJm3V0fu2ifDURRJ8IMUijVtY
   name: Gwangjang Market

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Streetxo Ibiza)'
   license: foursquare
   source: https://foursquare.com/v/6a285f132f1cf70096f7b73f
+  focus:
+    x: 65
+    y: 45
 gallery: []
 place:
   id: ChIJ5__0NVRFmRIRXwojBSrPEFw

@@ -30,6 +30,9 @@ heroImage:
   credit: 'Photo: filip bossuyt / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
+  focus:
+    x: 35
+    y: 25
 ---
 
 ## Why this meet matters

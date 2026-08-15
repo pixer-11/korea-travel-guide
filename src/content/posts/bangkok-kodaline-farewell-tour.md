@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Kathi Rudminat / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Kodaline_2015.jpg'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - bangkok

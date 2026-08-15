@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sandì)'
   license: foursquare
   source: https://foursquare.com/v/67714dea84c2ac6a317d1294
+  focus:
+    x: 50
+    y: 50
 tags:
   - milan
   - new & trending

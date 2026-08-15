@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Christina_Aguilera_-_Genie_In_A_Bottle_(Live_@_Rio_de_Janeiro)_2025_03.jpg
+  focus:
+    x: 45
+    y: 40
 gallery: []
 tags:
   - abu dhabi

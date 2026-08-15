@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Tibor Pallerman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:The_Corrs_(Vienna,_2016)_22.jpg'
+  focus:
+    x: 35
+    y: 35
 gallery: []
 tags:
   - abu dhabi

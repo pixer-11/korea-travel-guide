@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Menara Taming Sari)'
   license: foursquare
   source: https://foursquare.com/v/4ba37cd6f964a520674138e3
+  focus:
+    x: 50
+    y: 25
 place:
   id: ChIJOXdXEefx0TERIBvPIoH5sX8
   name: Menara Taming Sari

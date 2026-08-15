@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: LuxTonnerre / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Marine_Stage_at_Summer_Sonic_Festival.jpg
+  focus:
+    x: 50
+    y: 25
 ---
 
 ## Why go

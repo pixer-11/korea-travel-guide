@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Meiji Jingu Shrine (明治神宮))'
   license: foursquare
   source: https://foursquare.com/v/4b5bd0a2f964a520c31729e3
+  focus:
+    x: 50
+    y: 40
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/594980678_C78JYN4DyV4EEZeAexzoqJqDpF7goRNVdoD0h8XoEiI.jpg
     credit: 'Photo: Foursquare user content (Meiji Jingu Shrine (明治神宮))'

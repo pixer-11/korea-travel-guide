@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Goodbai Cafe)'
   license: foursquare
   source: https://foursquare.com/v/68246775c9846d77894fc900
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - shanghai

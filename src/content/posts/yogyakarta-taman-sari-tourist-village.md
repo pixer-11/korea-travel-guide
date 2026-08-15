@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Taman Sari Water Castle)'
   license: foursquare
   source: https://foursquare.com/v/4bad8b68f964a520535a3be3
+  focus:
+    x: 50
+    y: 25
 place:
   id: ChIJK8_C0JNXei4RE74coPghaic
   name: Taman Sari Tourist Village

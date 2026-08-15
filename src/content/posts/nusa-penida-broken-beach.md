@@ -10,6 +10,9 @@ heroImage:
   credit: "Photo: Agustina Sulistio / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Nusa_Penida_-_Bali_-_Broken_Beach.jpg"
+  focus:
+    x: 50
+    y: 50
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Broken_Beach.jpg/3840px-Broken_Beach.jpg"
     credit: "Photo: Aaron Rentfrew / Wikimedia Commons (CC BY-SA 4.0)"

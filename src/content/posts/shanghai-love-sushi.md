@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Love Concept Cafe)'
   license: foursquare
   source: https://foursquare.com/v/56d4415dcd10c2bb85c38cda
+  focus:
+    x: 50
+    y: 45
 tags:
   - shanghai
   - new & trending

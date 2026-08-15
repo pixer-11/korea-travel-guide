@@ -6,10 +6,13 @@ region: New Orleans
 category: hidden-gem
 pubDate: '2026-08-02T09:29:56.676Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/46/Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg
-  credit: 'Photo: Bart Everson / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ireland_Float_New_Orleans_Mardi_Gras_Parade.jpg
+  url: https://fastly.4sqi.net/img/general/original/38937_LUZvM1rp7Sm3mg0zUQU-PHpIhs5dtB7UjQyoA2920kw.jpg
+  credit: 'Photo: Foursquare user content (Blaine Kern''s Mardi Gras World)'
+  license: foursquare
+  source: https://foursquare.com/v/4b8b43d6f964a520169a32e3
+  focus:
+    x: 50
+    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/New_Orleans_March_2007_-_Mardi_Gras_World.jpg/3840px-New_Orleans_March_2007_-_Mardi_Gras_World.jpg
     credit: 'Photo: scott*eric / Wikimedia Commons (CC BY 2.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kourin Sushi (香りん寿司))'
   license: foursquare
   source: https://foursquare.com/v/4c8a3b2e1eafb1f72f397835
+  focus:
+    x: 75
+    y: 35
 place:
   id: ChIJm52atXAz-F8RvmoLUL3aA4A
   name: Kourin Sushi

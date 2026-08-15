@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Wolmi Theme Park (월미테마파크))'
   license: foursquare
   source: https://foursquare.com/v/4c4af0489c8d2d7f376f3f6a
+  focus:
+    x: 50
+    y: 25
 place:
   id: ChIJ_99FToiCezURBfrQIL7RhFE
   name: Wolmi Theme Park

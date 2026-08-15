@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Seokguram (석굴암))'
   license: foursquare
   source: https://foursquare.com/v/4b89e01bf964a5202d5332e3
+  focus:
+    x: 35
+    y: 35
 place:
   id: ChIJCQ6QQNqyZzUR0ujHdOUux88
   name: Seokguram

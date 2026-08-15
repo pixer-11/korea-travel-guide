@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Maison Trang)'
   license: foursquare
   source: https://foursquare.com/v/5e5909b4c237e8000808953c
+  focus:
+    x: 15
+    y: 25
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/308951_8FEeKbqloihBNLt4Btj10UOdLrlGGUrTjmSSonHAB38.jpg
     credit: 'Photo: Foursquare user content (Maison Trang)'

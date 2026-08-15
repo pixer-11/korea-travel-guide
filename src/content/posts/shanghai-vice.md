@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (VICE)'
   license: foursquare
   source: https://foursquare.com/v/6a24fb4f340f6b3d5b04dde2
+  focus:
+    x: 35
+    y: 40
 gallery: []
 tags:
   - shanghai

@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Simon Law / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Sounds.jpg
+  focus:
+    x: 45
+    y: 35
 gallery: []
 tags:
   - jakarta

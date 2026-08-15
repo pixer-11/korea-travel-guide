@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Arturo Francisco Barbero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Vuelta_a_Espa%C3%B1a.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - multiple cities

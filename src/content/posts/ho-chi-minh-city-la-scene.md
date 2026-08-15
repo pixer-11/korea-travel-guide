@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Pixer / Wander Atlas'
   license: editor
   source: 'editor-original — La Scene Saigon facade, 27 Tran Quang Long, Binh Thanh'
+  focus:
+    x: 50
+    y: 25
 gallery: []
 tags:
   - ho chi minh city

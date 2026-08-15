@@ -29,6 +29,9 @@ heroImage:
   credit: 'Photo: Murray Foubister / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player,_unknown_age_class_(11078126684).jpg
+  focus:
+    x: 35
+    y: 30
 ---
 
 ## Why go

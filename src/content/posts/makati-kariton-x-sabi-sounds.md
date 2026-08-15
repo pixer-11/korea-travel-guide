@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kariton x Sabi Sounds)'
   license: foursquare
   source: https://foursquare.com/v/6a0e8e4281d650359f0e76ee
+  focus:
+    x: 45
+    y: 35
 tags:
   - makati
   - new & trending

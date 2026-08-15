@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: Andrew Harvey / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Georgetown,_George_Town,_Penang,_Malaysia_-_panoramio_(6).jpg
+  focus:
+    x: 40
+    y: 35
 ---
 
 ## Why go

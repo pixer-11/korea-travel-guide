@@ -19,6 +19,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - singapore

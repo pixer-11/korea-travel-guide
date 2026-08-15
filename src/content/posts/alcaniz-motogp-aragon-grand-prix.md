@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Mbastyle / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:A-STYLE_MotoGP_Aragon.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - alcañiz

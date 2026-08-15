@@ -26,6 +26,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Le Bon Burger)'
   license: foursquare
   source: https://foursquare.com/v/53ebc587498e977c625a75dd
+  focus:
+    x: 35
+    y: 40
 ---
 
 ## Why go

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'
   license: foursquare
   source: https://foursquare.com/v/4d9850a4744f37047bc4eb57
+  focus:
+    x: 65
+    y: 35
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/197608695_1ABwlhhTcLg01pxJVcIsipNpyJWBENg4VMafqcBMZ9o.jpg
     credit: 'Photo: Foursquare user content (Musée de l''Œuvre Notre-Dame)'

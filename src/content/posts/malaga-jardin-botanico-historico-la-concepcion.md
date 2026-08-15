@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Jardín Botánico La Concepción)'
   license: foursquare
   source: https://foursquare.com/v/4c3780213849c928f3d1bdb1
+  focus:
+    x: 50
+    y: 60
 place:
   id: ChIJBeoOtEP2cg0RAui-vP66EyM
   name: Jardín Botánico - Histórico La Concepción

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (War Remnants Museum (Bảo tàng Chứng tích Chiến tranh))'
   license: foursquare
   source: https://foursquare.com/v/4bb05670f964a5208d413ce3
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG
     credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'

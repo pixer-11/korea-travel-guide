@@ -17,6 +17,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg
+  focus:
+    x: 50
+    y: 40
 tags:
   - hanoi
   - event

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Lafayette Miami)'
   license: foursquare
   source: https://foursquare.com/v/677ea6c513847a380f98ebb0
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJeVpjGKW32YgROG-7zMGpoVU

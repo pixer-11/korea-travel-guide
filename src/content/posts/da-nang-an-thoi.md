@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ăn Thôi Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/63a2d5d24598c442fc618fe5
+  focus:
+    x: 30
+    y: 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/7350009_neFNoGXgGvYOYEEzExaMcIYfVGtFbwXN7SiwXOF1Uzc.jpg
     credit: 'Photo: Foursquare user content (Ăn Thôi Restaurant)'

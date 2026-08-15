@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Elamu Lombok)'
   license: foursquare
   source: https://foursquare.com/v/6584f9ce9600bd3b9dfbf090
+  focus:
+    x: 50
+    y: 40
 place:
   id: ChIJH3Zcin2pzS0RkXFwxDtEsLM
   name: Elamu Lombok

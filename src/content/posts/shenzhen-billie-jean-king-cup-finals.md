@@ -30,6 +30,9 @@ heroImage:
   credit: 'Photo: Legoktm / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:2022_NWSL_Championship_09_-_Billie_Jean_King.jpg
+  focus:
+    x: 35
+    y: 35
 ---
 
 ## Why this event matters

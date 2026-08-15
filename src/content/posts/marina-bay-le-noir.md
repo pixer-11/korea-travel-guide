@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Le Noir (Marina Bay Sands))'
   license: foursquare
   source: https://foursquare.com/v/5ced08007b4669002b6b05f6
+  focus:
+    x: 70
+    y: 35
 place:
   id: ChIJN_ApgQsZ2jERt0GKXxIitmE
   name: Le Noir

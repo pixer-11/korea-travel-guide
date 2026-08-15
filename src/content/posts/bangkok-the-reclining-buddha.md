@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Vihara of the Reclining Buddha (พระวิหารพระพุทธไสยาสน์))'
   license: foursquare
   source: https://foursquare.com/v/4d1c00591356224ba2130cbe
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Reclining_Buddha_Statue%2C_Wat_Pho%2C_Bangkok_a064.jpg/1920px-Reclining_Buddha_Statue%2C_Wat_Pho%2C_Bangkok_a064.jpg
     credit: 'Photo: Michael Gunther / Wikimedia Commons (CC BY-SA 4.0)'

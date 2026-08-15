@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Pedro Mora / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_(253662129).jpeg'
+  focus:
+    x: 35
+    y: 30
 gallery: []
 tags:
   - barcelona

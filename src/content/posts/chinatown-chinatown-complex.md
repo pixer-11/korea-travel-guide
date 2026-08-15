@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Chinatown Complex Market & Food Centre)'
   license: foursquare
   source: https://foursquare.com/v/4b21d6abf964a520db4124e3
+  focus:
+    x: 50
+    y: 20
 place:
   id: ChIJAenlH3MZ2jERqjoWXlxEH6w
   name: Chinatown Complex

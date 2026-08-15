@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Heritage)'
   license: foursquare
   source: https://foursquare.com/v/4bd3ea809854d13a47e4fe4d
+  focus:
+    x: 60
+    y: 40
 gallery: []
 place:
   id: ChIJT3xaAvznaC4RJDnZ7npthlE

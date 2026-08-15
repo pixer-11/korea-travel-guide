@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-21'
 eventStartDate: '2026-07-31'
 eventEndDate: '2026-08-02'
-gallery: []
 tags:
   - incheon
   - event
@@ -24,9 +23,16 @@ faq:
   - q: What should I pack given the season?
     a: Late July/early August in Incheon is hot, humid, and rainy (monsoon season), so bring light breathable clothing, a poncho or umbrella, and sun protection for daytime stages.
 aiGenerated: true
-draft: true
 eventRecurring: true
 photoless: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_%282015_Pentaport_Rock_Festival%29.jpg/3840px-2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_%282015_Pentaport_Rock_Festival%29.jpg
+  credit: 'Photo: HEEYON KIM / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_(2015_Pentaport_Rock_Festival).jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Why go

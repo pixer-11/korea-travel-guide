@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ralph''s Coffee)'
   license: foursquare
   source: https://foursquare.com/v/5c376e989de23b002cc69549
+  focus:
+    x: 35
+    y: 45
 place:
   id: ChIJLx2u_exZwokRRATuJZ5qHJQ
   name: Ralph's Coffee

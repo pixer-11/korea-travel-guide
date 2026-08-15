@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: B.wilson / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Qingdao_International_Beer_City.jpg'
+  focus:
+    x: 25
+    y: 25
 gallery: []
 tags:
   - qingdao

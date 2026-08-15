@@ -1,17 +1,12 @@
 ---
 title: 'Hong Kong Football Festival 2026: What to Know (Hong Kong)'
 description: The Hong Kong Football Festival 2026 runs July 31–August 5, 2026 at the new Kai Tak Stadium, with two exhibition matches featuring Manchester City, Inter Milan, Chelsea FC and Juventus.
-country: "Hong Kong"
+country: Hong Kong
 region: Hong Kong
 category: event
 pubDate: '2026-07-21'
 eventStartDate: '2026-07-31'
 eventEndDate: '2026-08-05'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg/3840px-Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg
-  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Skyline_Panorama_-_Dec_2008.jpg
 tags:
   - hong kong
   - event
@@ -29,6 +24,7 @@ faq:
     a: Late July/early August in Hong Kong is hot, humid, and prone to thunderstorms or typhoons, though Kai Tak Stadium has a roof and cooling system. It's also peak summer tourist season, so book accommodation in Kowloon or on Hong Kong Island well in advance.
 aiGenerated: true
 eventRecurring: true
+draft: true
 ---
 ## Why this event matters
 

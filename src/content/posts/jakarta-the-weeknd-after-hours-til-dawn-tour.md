@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
+  focus:
+    x: 25
+    y: 30
 gallery: []
 tags:
   - jakarta

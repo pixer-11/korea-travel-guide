@@ -10,6 +10,9 @@ heroImage:
   credit: "Photo: Foursquare user content (Fast Food 22)"
   license: foursquare
   source: https://foursquare.com/v/643e41344bc45a2f92eb8370
+  focus:
+    x: 35
+    y: 45
 gallery: []
 place:
   id: ChIJKbK20-yhQTER9k6vw3uan_I

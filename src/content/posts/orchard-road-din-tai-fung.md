@@ -64,6 +64,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Din Tai Fung)'
   license: foursquare
   source: https://foursquare.com/v/4b7152c1f964a5201e412de3
+  focus:
+    x: 25
+    y: 35
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

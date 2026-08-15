@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kyoto Yoichiba)'
   license: foursquare
   source: https://foursquare.com/v/68d3fba601c285518723284b
+  focus:
+    x: 35
+    y: 45
 gallery: []
 place:
   id: ChIJpdNJYA0JAWARUbNXXyglsxo

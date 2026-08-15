@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (SOMSAK (สมศักดิ์))'
   license: foursquare
   source: https://foursquare.com/v/680f8d9a38419943f01e8f02
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJz5JqTwCf4jARL41kMcrveK4

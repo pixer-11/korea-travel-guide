@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Dltjrrb1122 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:KakaoTalk_20240513_201656530_02.jpg
+  focus:
+    x: 50
+    y: 25
 gallery: []
 place:
   id: ChIJhUbeqXHmYTURnvWhRDpvuhU

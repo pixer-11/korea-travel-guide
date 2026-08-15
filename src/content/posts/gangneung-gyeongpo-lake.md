@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Lake Gyeongpo (경포호))'
   license: foursquare
   source: https://foursquare.com/v/4c57648f30d82d7f16d7d962
+  focus:
+    x: 75
+    y: 35
 place:
   id: ChIJeX0RpiXkYTUResqZFyoPnhU
   name: Gyeongpo Lake

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Juknokwon (죽녹원))'
   license: foursquare
   source: https://foursquare.com/v/4b63a337f964a520de882ae3
+  focus:
+    x: 50
+    y: 45
 place:
   id: ChIJe8P5p_LqcTURrVA5YOtPKRk
   name: Juknokwon

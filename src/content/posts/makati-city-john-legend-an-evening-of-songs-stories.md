@@ -30,6 +30,9 @@ heroImage:
   credit: 'Photo: The Come Up Show from Canada / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:John_Legend_(34998104810).jpg
+  focus:
+    x: 50
+    y: 45
 ---
 
 ## Why this show is different

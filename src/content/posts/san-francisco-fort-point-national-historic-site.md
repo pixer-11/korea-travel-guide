@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Fort Point National Historic Site)'
   license: foursquare
   source: https://foursquare.com/v/46dabca2f964a5207c4a1fe3
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/3840px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg
     credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Merci Marcel)'
   license: foursquare
   source: https://foursquare.com/v/5da1bff2aa77150007883473
+  focus:
+    x: 50
+    y: 50
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/22145316_r_4BD0mOG8bqinXouYURkx5c5gdb8WmY05RY8YCxKls.jpg
     credit: 'Photo: Foursquare user content (Merci Marcel)'

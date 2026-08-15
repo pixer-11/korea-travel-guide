@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Vannelli Coffee)'
   license: foursquare
   source: https://foursquare.com/v/699005d8c60a9b5a8ff43190
+  focus:
+    x: 50
+    y: 45
 tags:
   - tokyo
   - new & trending

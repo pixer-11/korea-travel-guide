@@ -30,6 +30,9 @@ heroImage:
   credit: 'Photo: The Come Up Show from Canada / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Post_Malone_(28688652561).jpg
+  focus:
+    x: 45
+    y: 35
 ---
 
 ## Why this show matters

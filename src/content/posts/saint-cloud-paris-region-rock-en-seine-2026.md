@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: Lara Janssen / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Rock_en_Seine_Sc%C3%A8ne_de_la_cascade.jpg
+  focus:
+    x: 50
+    y: 35
 ---
 
 ## Why go

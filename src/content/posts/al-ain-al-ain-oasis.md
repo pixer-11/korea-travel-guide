@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Al Ain Oasis)'
   license: foursquare
   source: 'https://foursquare.com/v/5a302df9c0cacb17234a2e15'
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Ain_Oasis_%283%29.jpg/1920px-Al-Ain_Oasis_%283%29.jpg

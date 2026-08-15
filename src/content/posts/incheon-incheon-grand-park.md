@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Incheon Grand Park (인천대공원))'
   license: foursquare
   source: https://foursquare.com/v/4cb98a33c7228cfa906c10ce
+  focus:
+    x: 25
+    y: 35
 place:
   id: ChIJD3vd1Jh8ezURbh0AuKzX0Ig
   name: Incheon Grand Park

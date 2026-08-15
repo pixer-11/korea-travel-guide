@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Hidden Gem Coffee)'
   license: foursquare
   source: https://foursquare.com/v/5c5161f7f427de002cd2eed3
+  focus:
+    x: 50
+    y: 40
 place:
   id: ChIJjcSe2iKrNTERdmx-UM8RZIw
   name: Hidden Gem Cafe Hanoi

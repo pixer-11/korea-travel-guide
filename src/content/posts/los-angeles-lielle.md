@@ -26,6 +26,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Lielle)'
   license: foursquare
   source: https://foursquare.com/v/69cdc07aa105000396451582
+  focus:
+    x: 50
+    y: 35
 ---
 
 ## Why Lielle matters right now

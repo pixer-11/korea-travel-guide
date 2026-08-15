@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sala Daeng Road (ถนนศาลาแดง))'
   license: foursquare
   source: https://foursquare.com/v/4c67a7ff9cedd13a2c2f79a1
+  focus:
+    x: 15
+    y: 15
 place:
   id: ChIJM4N27S6f4jAR3ykXdNCDeAw
   name: Sala Daeng Road

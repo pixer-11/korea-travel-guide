@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Galaxy Studio / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mamamoo_in_2023.png
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - quezon city

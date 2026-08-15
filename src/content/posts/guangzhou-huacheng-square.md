@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (flower city square)'
   license: foursquare
   source: https://foursquare.com/v/5cd94b71a5a3150039fc9166
+  focus:
+    x: 50
+    y: 30
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Huacheng_Square%2C_Guangzhou.jpg/1920px-Huacheng_Square%2C_Guangzhou.jpg
     credit: 'Photo: 钉钉 / Wikimedia Commons (CC BY-SA 4.0)'

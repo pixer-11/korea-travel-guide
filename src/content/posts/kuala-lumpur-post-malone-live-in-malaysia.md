@@ -31,6 +31,9 @@ heroImage:
   credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg
+  focus:
+    x: 45
+    y: 35
 ---
 
 ## Why this show matters

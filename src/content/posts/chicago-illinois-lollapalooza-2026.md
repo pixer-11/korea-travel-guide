@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Ben1we / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - chicago

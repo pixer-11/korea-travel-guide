@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/508bb5e7e4b08e7b432a0b18
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/47057795_0A5hdVhXr7ReqIhwYiVoZbNx0v949vK3PSp2mhPxA0s.jpg
     credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'

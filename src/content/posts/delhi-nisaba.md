@@ -26,6 +26,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Nisaba)'
   license: foursquare
   source: https://foursquare.com/v/6994818d60511261fc7490e8
+  focus:
+    x: 45
+    y: 35
 ---
 You feel the shift before you even reach the door. The traffic noise of Mathura Road falls away behind you, the air cools under the canopy of Sunder Nursery's old trees, and somewhere past the manicured lawns and Mughal-era tombs, a modern restaurant has quietly slipped into one of Delhi's most unlikely settings. This is NISABA — the first restaurant chef Manish Mehrotra has opened under his own name after two decades of shaping the menu at Indian Accent, one of the most decorated restaurants in the country.
 

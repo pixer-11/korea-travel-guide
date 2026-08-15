@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Milli - Sky Dining, Bar & Lounge)'
   license: foursquare
   source: https://foursquare.com/v/6a1d56ee85811439a81db763
+  focus:
+    x: 25
+    y: 30
 tags:
   - singapore
   - new & trending

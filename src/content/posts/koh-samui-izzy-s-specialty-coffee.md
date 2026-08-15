@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Izzy‘s Coffee)'
   license: foursquare
   source: https://foursquare.com/v/64950fd7be119a7c0e7f7ca9
+  focus:
+    x: 50
+    y: 45
 gallery: []
 place:
   id: ChIJszhAI4DxVDAR2IAOFd7moUM

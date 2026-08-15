@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Alhambra)'
   license: foursquare
   source: https://foursquare.com/v/6a17f20bf686d75b940f2e78
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg/1920px-Stucco_ceiling%2C_Patio_de_los_Leones%2C_Alhambra%2C_Granada%2C_Spain%2C_crop.jpg
     credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'

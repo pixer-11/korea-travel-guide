@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Day & Night)'
   license: foursquare
   source: https://foursquare.com/v/5f364855ae562379c506a047
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJTUM8PVAxUDARxWCTIkMihDw

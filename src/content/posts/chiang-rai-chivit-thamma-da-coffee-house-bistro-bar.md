@@ -6,10 +6,13 @@ region: Chiang Rai
 category: restaurant
 pubDate: '2026-07-22T09:13:26.066Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/2672020_ysF3omlXTnSdP7El8fXIyS2Ai3sI-uDIJ3Xa1RJMxlU.jpg
+  url: https://fastly.4sqi.net/img/general/original/94937336_7OTG6Ce7pIabozJipTeS28-nPtDAXcVTpC1U-PghI2M.jpg
   credit: 'Photo: Foursquare user content (Chivit Thamma Da (ชีวิตธรรมดา))'
   license: foursquare
   source: https://foursquare.com/v/4e3d1089c65b4ec275dd419a
+  focus:
+    x: 50
+    'y': 45
 place:
   id: ChIJeWMpkfAG1zARs3NJVf_6_T0
   name: Chivit Thamma Da Coffee House, Bistro & Bar
@@ -70,7 +73,6 @@ faq:
     a: Wat Rong Khun (White Temple) and Baan Dam Museum (Black House) are both within a reasonable drive north of the city, making a natural half-day loop that ends with a meal here.
 aiGenerated: true
 updatedDate: '2026-07-24'
-draft: true
 ---
 
 ## Why go

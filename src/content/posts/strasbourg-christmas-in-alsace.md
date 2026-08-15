@@ -17,6 +17,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Strasbourg_Christmas_market_(51228458506).jpg
+  focus:
+    x: 50
+    y: 50
 gallery: []
 place:
   id: ChIJfU8r50zIlkcRqTH5Pw4cgQk

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (TPT By Late Lounge)'
   license: foursquare
   source: https://foursquare.com/v/643c139f4122ce6b21f6dcb1
+  focus:
+    x: 15
+    y: 75
 place:
   id: ChIJW8kiktFfXz4RmPlLAZvkoZA
   name: TPT by Late

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Super Deluxe Kitchen)'
   license: foursquare
   source: https://foursquare.com/v/6954d320f98999314511f074
+  focus:
+    x: 50
+    y: 40
 gallery: []
 place:
   id: ChIJq9I-PVUZ2jEREhaR6C5wGeU

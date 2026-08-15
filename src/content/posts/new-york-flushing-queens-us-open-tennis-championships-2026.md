@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:2017_US_Open_Tennis_-_Qualifying_Rounds_-_Viktoriya_Tomova_(BUL)_def._Polona_Hercog_(SLO)_(36916572131).jpg
+  focus:
+    x: 45
+    y: 35
 tags:
   - new york
   - event

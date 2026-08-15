@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Parada Torres)'
   license: foursquare
   source: https://foursquare.com/v/6a16c956345c747e9a3dbfa7
+  focus:
+    x: 50
+    y: 45
 tags:
   - barcelona
   - new & trending

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Into The Forest)'
   license: foursquare
   source: https://foursquare.com/v/6075519ce1da285aeb7cf417
+  focus:
+    x: 50
+    y: 35
 place:
   id: ChIJf1t8FN-9UTARbL_N-UlnN3I
   name: Into the forest

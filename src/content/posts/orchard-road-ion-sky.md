@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (ION Sky)'
   license: foursquare
   source: https://foursquare.com/v/4cb52709e262b60c95d465e0
+  focus:
+    x: 50
+    y: 25
 place:
   id: ChIJRW8Hwo0Z2jEREk5x5tk4JIg
   name: ION Sky

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Tower of Pisa (Torre di Pisa))'
   license: foursquare
   source: https://foursquare.com/v/4b4ae398f964a5208a8f26e3
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg/3840px-The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg
     credit: 'Photo: MHoser / Wikimedia Commons (CC BY-SA 4.0)'

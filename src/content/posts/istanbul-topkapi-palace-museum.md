@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Topkapi Palace Museum Shop)'
   license: foursquare
   source: https://foursquare.com/v/52da816f11d2582c105fd30f
+  focus:
+    x: 50
+    y: 45
 place:
   id: ChIJM_ilr7i5yhQRAFMBw0MZqhU
   name: Topkapi Palace Museum

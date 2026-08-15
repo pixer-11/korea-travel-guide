@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Muhammed Rafaat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Amr_Diab_With_World_Music_Awards.jpg
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - istanbul

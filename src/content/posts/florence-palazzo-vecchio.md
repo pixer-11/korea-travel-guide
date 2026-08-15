@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Palazzo Vecchio)'
   license: foursquare
   source: https://foursquare.com/v/4bd01b8077b29c74a0298a82
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palazzo_Vecchio_by_nigth.jpg/1920px-Palazzo_Vecchio_by_nigth.jpg
     credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'

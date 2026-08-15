@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Kampong Glam Cafe)'
   license: foursquare
   source: https://foursquare.com/v/4b17cff9f964a5206dc823e3
+  focus:
+    x: 50
+    y: 15
 gallery: []
 place:
   id: ChIJnwMTELEZ2jER4WqhksUDLFA

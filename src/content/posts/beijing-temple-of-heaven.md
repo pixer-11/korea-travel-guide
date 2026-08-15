@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Temple of Heaven (天坛))'
   license: foursquare
   source: https://foursquare.com/v/4bd7eeee35aad13a13dc8ff3
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg/1920px-Temple_of_Heaven%2C_Beijing_-_February_2024.jpg
     credit: 'Photo: Lloyd Tudor / Wikimedia Commons (CC BY-SA 4.0)'

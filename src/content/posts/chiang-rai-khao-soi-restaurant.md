@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Khao Soi Restaurant)'
   license: foursquare
   source: https://foursquare.com/v/63a83c3b82c8312a70c1f958
+  focus:
+    x: 25
+    y: 35
 place:
   id: ChIJV6pofV0G1zARgvT0RIC9QmM
   name: Khao Soi Restaurant

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence,_Italy.jpg
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_di_Santa_Croce_%2812437%29.jpg/3840px-Basilica_di_Santa_Croce_%2812437%29.jpg
     credit: 'Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)'

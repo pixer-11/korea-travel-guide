@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (SHWI Canal)'
   license: foursquare
   source: https://foursquare.com/v/69f25221b6017e2fe578a235
+  focus:
+    x: 50
+    y: 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1400292653_nBNi996WiOHbpwnF7OSxepPqx5cVB1Jo6fUf7VZb698.jpg
     credit: 'Photo: Foursquare user content (SHWI Canal)'

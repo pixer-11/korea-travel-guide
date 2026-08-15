@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (London Bagel Museum (런던베이글뮤지엄))'
   license: foursquare
   source: https://foursquare.com/v/613b092d6082cc326e9966c5
+  focus:
+    x: 45
+    y: 25
 place:
   id: ChIJKw66zRCjfDURuaw9qYPdI-k
   name: London Bagel Museum Anguk

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Bop - Bartenders Of Pony)'
   license: foursquare
   source: https://foursquare.com/v/69833becdc2beb24db950d36
+  focus:
+    x: 75
+    y: 45
 tags:
   - singapore
   - new & trending

@@ -13,6 +13,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Seat Cafe)'
   license: foursquare
   source: 'https://foursquare.com/v/65c1164cb812d51dc076b778'
+  focus:
+    x: 65
+    y: 45
 place:
   id: ChIJzR7viUzx9T4R16XrLHCcBFw
   name: The seat cafe

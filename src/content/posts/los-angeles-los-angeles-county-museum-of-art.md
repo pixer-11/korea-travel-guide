@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Los Angeles County Museum of Art)'
   license: foursquare
   source: https://foursquare.com/v/40a6af00f964a52027f31ee3
+  focus:
+    x: 50
+    y: 35
 place:
   id: ChIJsXqcyjy5woARNz6sOh0ZmwA
   name: Los Angeles County Museum of Art

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Fuglen Keyakidori)'
   license: foursquare
   source: https://foursquare.com/v/69fa74ddf1dd8e03f96a420a
+  focus:
+    x: 50
+    y: 35
 tags:
   - fukuoka
   - new & trending

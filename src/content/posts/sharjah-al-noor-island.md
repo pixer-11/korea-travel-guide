@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Al Noor Island جزيرة النور)'
   license: foursquare
   source: https://foursquare.com/v/566e54a6498ef09a2c921baf
+  focus:
+    x: 60
+    y: 35
 place:
   id: ChIJDxP0NcFbXz4ReEEm2egacAI
   name: Al Noor Island

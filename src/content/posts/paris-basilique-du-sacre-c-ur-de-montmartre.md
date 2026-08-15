@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJ442GNENu5kcRGYUrvgqHw88

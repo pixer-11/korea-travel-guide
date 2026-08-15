@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:(Barcelona)_Sal%C3%B3_Oval_(Museu_Nacional_d%27Art_de_Catalunya)_-_Southwest_part_of_the_room.jpg
+  focus:
+    x: 50
+    y: 40
 gallery: []
 place:
   id: ChIJMU59xHGipBIRkdwlcgUWAYY

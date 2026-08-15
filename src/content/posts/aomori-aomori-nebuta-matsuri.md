@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Marie-Sophie Mejan / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Aomori,_Nebuta-matsuri_34.jpg'
+  focus:
+    x: 35
+    y: 35
 gallery: []
 tags:
   - aomori

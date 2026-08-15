@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Lygonstreet / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tyler_The_Creator_Toronto_2025.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - milan

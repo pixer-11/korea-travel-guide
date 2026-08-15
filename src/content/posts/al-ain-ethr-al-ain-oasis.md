@@ -13,6 +13,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Ethr Cafe)'
   license: foursquare
   source: 'https://foursquare.com/v/639d9bff2a0b131573dfb81f'
+  focus:
+    x: 15
+    y: 30
 gallery:
   - url: >-
       https://fastly.4sqi.net/img/general/original/1411689224_LcEQTAcr__6nEJDB7zGzkRnY7jXghW9h8ouDcXPnEG0.jpg

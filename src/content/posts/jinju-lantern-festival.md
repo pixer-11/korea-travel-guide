@@ -17,6 +17,9 @@ heroImage:
     Wikimedia Commons (CC BY 3.0)
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - jinju

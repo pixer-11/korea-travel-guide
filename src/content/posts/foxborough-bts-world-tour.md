@@ -17,6 +17,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_01.jpg
+  focus:
+    x: 45
+    y: 35
 gallery: []
 tags:
   - foxborough

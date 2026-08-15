@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (SEA LIFE Bangkok Ocean World (ซีไลฟ์ แบงคอก โอเชี่ยน เวิลด์))'
   license: foursquare
   source: https://foursquare.com/v/4b0587faf964a5204faa22e3
+  focus:
+    x: 50
+    y: 50
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SEA_LIFE_Bangkok_Ocean_World_in_2018_%28113%29.jpg/1920px-SEA_LIFE_Bangkok_Ocean_World_in_2018_%28113%29.jpg
     credit: 'Photo: กสิณธร ราชโอรส / Wikimedia Commons (CC BY-SA 4.0)'

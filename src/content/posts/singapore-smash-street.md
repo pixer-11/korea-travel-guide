@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Smash Street)'
   license: foursquare
   source: https://foursquare.com/v/69d8f55c73ca0576a90e9284
+  focus:
+    x: 45
+    y: 35
 place:
   id: ChIJ9zBNNG8Z2jER2JAM0WTfPRs
   name: Smash Street

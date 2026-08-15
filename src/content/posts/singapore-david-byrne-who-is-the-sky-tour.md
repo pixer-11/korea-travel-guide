@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Mainlymazza / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:David_Byrne_on_tour_Amsterdam_at_AFAS_Live_Feb_2026_2.jpg
+  focus:
+    x: 50
+    y: 50
 tags:
   - singapore
   - event

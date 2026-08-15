@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Addiction Aquatic Development (上引水產))'
   license: foursquare
   source: https://foursquare.com/v/4f361cf6e4b0cc4ce20bac8a
+  focus:
+    x: 25
+    y: 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg
     credit: 'Photo: Oliver Propst / Wikimedia Commons (CC BY-SA 3.0)'

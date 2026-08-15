@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Myeongdong Shopping Street)'
   license: foursquare
   source: https://foursquare.com/v/102ea7b22fd6414fe38df33f
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJXz2vx_GifDURImd3aTJZ1VA

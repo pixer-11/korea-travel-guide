@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Livingstone)'
   license: foursquare
   source: https://foursquare.com/v/52d380d6498e5e87472f2b7f
+  focus:
+    x: 30
+    y: 60
 place:
   id: ChIJv-pCBGtH0i0RtjgHkk_uF-g
   name: Livingstone

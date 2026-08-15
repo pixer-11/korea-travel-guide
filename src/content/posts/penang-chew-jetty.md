@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (The Clan Jetty - 姓周桥 Chew Jetty)'
   license: foursquare
   source: https://foursquare.com/v/4c49dbc1a3ace21e0d982e3c
+  focus:
+    x: 30
+    y: 60
 place:
   id: ChIJ50W1D43DSjARlPqYV1MqscE
   name: Chew Jetty

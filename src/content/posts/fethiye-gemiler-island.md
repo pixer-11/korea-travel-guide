@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (St. Nicholas Island | Gemiler Island (Gemile Adası (Aziz Nikola Adası)))'
   license: foursquare
   source: https://foursquare.com/v/4deba57dfa76cc1b8b03ee85
+  focus:
+    x: 50
+    y: 45
 place:
   id: ChIJPas4bh5FwBQR35aafKqVNV4
   name: Gemiler Island

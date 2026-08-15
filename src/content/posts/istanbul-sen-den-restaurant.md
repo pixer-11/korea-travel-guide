@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Sen_Den)'
   license: foursquare
   source: https://foursquare.com/v/69b5990c7b82a275fd45c135
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJV_TZUF65yhQR6CKNYH2RyBY

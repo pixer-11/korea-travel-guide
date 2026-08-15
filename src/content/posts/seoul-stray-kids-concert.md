@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting,_November_11,_2023.png
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - seoul

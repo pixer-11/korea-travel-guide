@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Zoo Johor)'
   license: foursquare
   source: https://foursquare.com/v/4cd5210976ab721e70466b6a
+  focus:
+    x: 50
+    y: 40
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zoo_Johor_Sambar_Deer.jpg/1920px-Zoo_Johor_Sambar_Deer.jpg
     credit: 'Photo: Stress 043 / Wikimedia Commons (CC BY-SA 4.0)'

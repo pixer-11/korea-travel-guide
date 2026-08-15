@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (SOCIAL HOUSE)'
   license: foursquare
   source: https://foursquare.com/v/4b87d7aff964a520bcce31e3
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJgWKDuiH0aS4RpXOh9dwgKmU

@@ -10,6 +10,9 @@ heroImage:
   credit: 'Photo: Foursquare user content (Mari-Mari Cultural Village)'
   license: foursquare
   source: https://foursquare.com/v/4d0d58e695c1a1cd14cb01ff
+  focus:
+    x: 50
+    y: 35
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mari_Mari_Cultural_Village_-_3.jpg/1920px-Mari_Mari_Cultural_Village_-_3.jpg
     credit: 'Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)'

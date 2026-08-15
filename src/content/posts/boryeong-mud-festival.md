@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Stinkie Pinkie / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg'
+  focus:
+    x: 35
+    y: 30
 gallery: []
 tags:
   - boryeong

@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - istanbul
