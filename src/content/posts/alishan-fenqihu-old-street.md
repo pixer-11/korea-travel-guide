@@ -1,37 +1,43 @@
 ---
-title: "Fenqihu Old Street: Alishan Travel Guide (4.2★)"
-description: "Fenqihu Old Street is a former logging-railway town on the Alishan Forest Railway, best known for its lunchbox (bento) culture and a narrow, covered market lane. 4.2★ (31,898 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Alishan"
-category: "hidden-gem"
-pubDate: "2026-08-13T08:55:24.125Z"
+title: 'Fenqihu Old Street: Alishan Travel Guide (4.2★)'
+description: >-
+  Fenqihu Old Street is a former logging-railway town on the Alishan Forest
+  Railway, best known for its lunchbox (bento) culture and a narrow, covered
+  market lane. 4.2★ (31,926 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Alishan
+category: hidden-gem
+pubDate: '2026-08-13T08:55:24.125Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%A5%AE%E8%B5%B7%E6%B9%96%E8%80%81%E8%80%81%E8%A1%97_Fenqihu_old_old_street_-_panoramio.jpg/3840px-%E5%A5%AE%E8%B5%B7%E6%B9%96%E8%80%81%E8%80%81%E8%A1%97_Fenqihu_old_old_street_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E5%A5%AE%E8%B5%B7%E6%B9%96%E8%80%81%E8%80%81%E8%A1%97_Fenqihu_old_old_street_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%A5%AE%E8%B5%B7%E6%B9%96%E8%80%81%E8%80%81%E8%A1%97_Fenqihu_old_old_street_-_panoramio.jpg/3840px-%E5%A5%AE%E8%B5%B7%E6%B9%96%E8%80%81%E8%80%81%E8%A1%97_Fenqihu_old_old_street_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E5%A5%AE%E8%B5%B7%E6%B9%96%E8%80%81%E8%80%81%E8%A1%97_Fenqihu_old_old_street_-_panoramio.jpg
 gallery: []
 place:
-  id: "ChIJq6qqqqbCbjQRANB4uDgLE94"
-  name: "Fenqihu Old Street"
-  address: "Zhonghe Village, Zhuqi Township, Chiayi County, Taiwan 604"
+  id: ChIJq6qqqqbCbjQRANB4uDgLE94
+  name: Fenqihu Old Street
+  address: 'Zhonghe Village, Zhuqi Township, Chiayi County, Taiwan 604'
   rating: 4.2
-  userRatingsTotal: 31898
-  googleMapsUrl: "https://maps.google.com/?cid=16002146239218503680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 31926
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16002146239218503680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.5051199
   lng: 120.69493550000001
-  phone: "+886 5 259 3900"
+  phone: +886 5 259 3900
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -45,24 +51,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_3439454c67447534424e4152516a6243627171717136714a496843"
+    venueId: ven_3439454c67447534424e4152516a6243627171717136714a496843
 tags:
-  - "alishan"
-  - "local market"
-quickAnswer: "Fenqihu Old Street is a former logging-railway town on the Alishan Forest Railway, best known for its lunchbox (bento) culture and a narrow, covered market lane. With 31,898 reviews and a 4.2 rating, it draws crowds fast — go right at 8am opening on a weekend, or anytime on a weekday, to avoid the 11am–4pm crush. Plan on 1.5–2 hours to eat and browse."
+  - alishan
+  - local market
+quickAnswer: >-
+  Fenqihu Old Street is a former logging-railway town on the Alishan Forest
+  Railway, best known for its lunchbox (bento) culture and a narrow, covered
+  market lane. With 31,898 reviews and a 4.2 rating, it draws crowds fast — go
+  right at 8am opening on a weekend, or anytime on a weekday, to avoid the
+  11am–4pm crush. Plan on 1.5–2 hours to eat and browse.
 faq:
-  - q: "How do I get to Fenqihu Old Street?"
-    a: "Take the Alishan Forest Railway from Chiayi City (about 2.5 hours), or drive via Highway 18 and County Road 169 (around 90 minutes). The old street is right at the train station."
-  - q: "What is the best time to visit to avoid crowds?"
-    a: "On weekends, arrive right at 8am opening — crowds build fast and peak between 11am and 4pm. Weekdays stay comparatively calm throughout the full 8am–6pm hours."
-  - q: "How long should I spend at Fenqihu?"
-    a: "Plan for 1.5 to 2 hours — enough time to eat a lunchbox, browse the stalls, and walk the short forest boardwalk loop above the street."
-  - q: "What should I eat there?"
-    a: "Don't miss the bianzai (train-station lunchbox) with braised pork and egg over rice — it's the town's signature dish. Also try fried taro balls and mountain-tea snacks."
-  - q: "What's nearby if I want to see more of Alishan?"
-    a: "Fenqihu is a stop along the Alishan Forest Railway line toward Alishan National Scenic Area, home to the sunrise viewpoints and old-growth cypress groves — a popular add-on for the same rail trip."
+  - q: How do I get to Fenqihu Old Street?
+    a: >-
+      Take the Alishan Forest Railway from Chiayi City (about 2.5 hours), or
+      drive via Highway 18 and County Road 169 (around 90 minutes). The old
+      street is right at the train station.
+  - q: What is the best time to visit to avoid crowds?
+    a: >-
+      On weekends, arrive right at 8am opening — crowds build fast and peak
+      between 11am and 4pm. Weekdays stay comparatively calm throughout the full
+      8am–6pm hours.
+  - q: How long should I spend at Fenqihu?
+    a: >-
+      Plan for 1.5 to 2 hours — enough time to eat a lunchbox, browse the
+      stalls, and walk the short forest boardwalk loop above the street.
+  - q: What should I eat there?
+    a: >-
+      Don't miss the bianzai (train-station lunchbox) with braised pork and egg
+      over rice — it's the town's signature dish. Also try fried taro balls and
+      mountain-tea snacks.
+  - q: What's nearby if I want to see more of Alishan?
+    a: >-
+      Fenqihu is a stop along the Alishan Forest Railway line toward Alishan
+      National Scenic Area, home to the sunrise viewpoints and old-growth
+      cypress groves — a popular add-on for the same rail trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

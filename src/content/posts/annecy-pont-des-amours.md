@@ -1,59 +1,80 @@
 ---
-title: "Pont des Amours: Annecy Travel Guide (4.6★)"
-description: "Pont des Amours is a small white footbridge where the Vassé canal meets Lake Annecy, framed by the Alps and the Jardins de l'Europe. 4.6★ (13,338 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Annecy"
-category: "hidden-gem"
-pubDate: "2026-08-16T08:01:56.361Z"
+title: 'Pont des Amours: Annecy Travel Guide (4.6★)'
+description: >-
+  Pont des Amours is a small white footbridge where the Vassé canal meets Lake
+  Annecy, framed by the Alps and the Jardins de l'Europe. 4.6★ (13,343 reviews)
+  — what visitors say, hours, and tips.
+country: France
+region: Annecy
+category: hidden-gem
+pubDate: '2026-08-16T08:01:56.361Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pont_des_Amours%2C_Annecy_%2836454379061%29.jpg/3840px-Pont_des_Amours%2C_Annecy_%2836454379061%29.jpg"
-  credit: "Photo: Marcus Hansson from Göteborg, Sweden / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pont_des_Amours,_Annecy_(36454379061).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pont_des_Amours%2C_Annecy_%2836454379061%29.jpg/3840px-Pont_des_Amours%2C_Annecy_%2836454379061%29.jpg
+  credit: 'Photo: Marcus Hansson from Göteborg, Sweden / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pont_des_Amours,_Annecy_(36454379061).jpg
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/da/0306_Annecy_-_Pont_des_Amours.jpg"
-    credit: "Photo: fr:User:Semnoz / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:0306_Annecy_-_Pont_des_Amours.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/da/0306_Annecy_-_Pont_des_Amours.jpg
+    credit: 'Photo: fr:User:Semnoz / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:0306_Annecy_-_Pont_des_Amours.jpg'
 place:
-  id: "ChIJb9XPNOWPi0cRkXnbrT1aq8g"
-  name: "Pont des Amours"
-  address: "74000 Annecy, France"
+  id: ChIJb9XPNOWPi0cRkXnbrT1aq8g
+  name: Pont des Amours
+  address: '74000 Annecy, France'
   rating: 4.6
-  userRatingsTotal: 13338
-  googleMapsUrl: "https://maps.google.com/?cid=14459750249559456145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13343
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14459750249559456145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.9002063
   lng: 6.1313661999999995
-  phone: "+33 4 50 45 00 33"
+  phone: +33 4 50 45 00 33
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "annecy"
-  - "hidden gem"
-quickAnswer: "Pont des Amours is a small white footbridge where the Vassé canal meets Lake Annecy, framed by the Alps and the Jardins de l'Europe. It's open 24 hours and free to visit — go at sunrise or after dark to actually enjoy it, since midday and weekends bring heavy foot traffic. Budget 15-20 minutes, longer if you linger by the water."
+  - annecy
+  - hidden gem
+quickAnswer: >-
+  Pont des Amours is a small white footbridge where the Vassé canal meets Lake
+  Annecy, framed by the Alps and the Jardins de l'Europe. It's open 24 hours and
+  free to visit — go at sunrise or after dark to actually enjoy it, since midday
+  and weekends bring heavy foot traffic. Budget 15-20 minutes, longer if you
+  linger by the water.
 faq:
-  - q: "Is Pont des Amours free to visit?"
-    a: "Yes — it's a public footbridge with no entry fee, open 24 hours every day."
-  - q: "How long should I spend there?"
-    a: "Most people spend 15-20 minutes crossing and taking photos; add extra time if you continue into the Jardins de l'Europe or rent a paddleboat."
-  - q: "When is it least crowded?"
-    a: "Early morning around sunrise or after 7pm in the evening. Avoid weekend midday, when it's consistently busiest."
-  - q: "How do I get there from Annecy train station?"
-    a: "It's about a 10-15 minute walk through the old town, following the Vassé canal until it meets the lake."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Jardins de l'Europe right behind it, the old town's canals and Palais de l'Isle, and paddleboat rentals along the lakeside dock."
+  - q: Is Pont des Amours free to visit?
+    a: 'Yes — it''s a public footbridge with no entry fee, open 24 hours every day.'
+  - q: How long should I spend there?
+    a: >-
+      Most people spend 15-20 minutes crossing and taking photos; add extra time
+      if you continue into the Jardins de l'Europe or rent a paddleboat.
+  - q: When is it least crowded?
+    a: >-
+      Early morning around sunrise or after 7pm in the evening. Avoid weekend
+      midday, when it's consistently busiest.
+  - q: How do I get there from Annecy train station?
+    a: >-
+      It's about a 10-15 minute walk through the old town, following the Vassé
+      canal until it meets the lake.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      The Jardins de l'Europe right behind it, the old town's canals and Palais
+      de l'Isle, and paddleboat rentals along the lakeside dock.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

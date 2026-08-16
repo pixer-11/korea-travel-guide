@@ -1,37 +1,42 @@
 ---
-title: "Hindu Temple, Dubai: Al Barsha Travel Guide (4.8★)"
-description: "This is Dubai's newer Hindu temple complex in Jebel Ali, open daily 6am–8:30pm, and it draws steady crowds all day on weekends. 4.8★ (6,444 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Al Barsha"
-category: "attraction"
-pubDate: "2026-08-15T07:57:32.150Z"
+title: 'Hindu Temple, Dubai: Al Barsha Travel Guide (4.8★)'
+description: >-
+  This is Dubai's newer Hindu temple complex in Jebel Ali, open daily
+  6am–8:30pm, and it draws steady crowds all day on weekends. 4.8★ (6,449
+  reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Al Barsha
+category: attraction
+pubDate: '2026-08-15T07:57:32.150Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hindu_Temple_Dubai.jpg/3840px-Hindu_Temple_Dubai.jpg"
-  credit: "Photo: Sathiyaraj / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hindu_Temple_Dubai.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hindu_Temple_Dubai.jpg/3840px-Hindu_Temple_Dubai.jpg
+  credit: 'Photo: Sathiyaraj / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hindu_Temple_Dubai.jpg'
 gallery: []
 place:
-  id: "ChIJARHmr2oTXz4RVXJKEr_89Ok"
-  name: "Hindu Temple, Dubai"
-  address: "Jabal Ali First - Dubai - United Arab Emirates"
+  id: ChIJARHmr2oTXz4RVXJKEr_89Ok
+  name: 'Hindu Temple, Dubai'
+  address: Jabal Ali First - Dubai - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 6444
-  googleMapsUrl: "https://maps.google.com/?cid=16858377202730431061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6449
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16858377202730431061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0269209
   lng: 55.113197
-  phone: "+971 56 501 8951"
+  phone: +971 56 501 8951
   openingHours:
-    - "Monday: 6:00 AM – 8:30 PM"
-    - "Tuesday: 6:00 AM – 8:30 PM"
-    - "Wednesday: 6:00 AM – 8:30 PM"
-    - "Thursday: 6:00 AM – 8:30 PM"
-    - "Friday: 6:00 AM – 8:30 PM"
-    - "Saturday: 6:00 AM – 8:30 PM"
-    - "Sunday: 6:00 AM – 8:30 PM"
+    - 'Monday: 6:00 AM – 8:30 PM'
+    - 'Tuesday: 6:00 AM – 8:30 PM'
+    - 'Wednesday: 6:00 AM – 8:30 PM'
+    - 'Thursday: 6:00 AM – 8:30 PM'
+    - 'Friday: 6:00 AM – 8:30 PM'
+    - 'Saturday: 6:00 AM – 8:30 PM'
+    - 'Sunday: 6:00 AM – 8:30 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 18
       - 19
@@ -49,24 +54,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6b4f39385f72454b4a585652347a58546f32726d4852414a496843"
+    venueId: ven_6b4f39385f72454b4a585652347a58546f32726d4852414a496843
 tags:
-  - "al barsha"
-  - "historic site"
-quickAnswer: "This is Dubai's newer Hindu temple complex in Jebel Ali, open daily 6am–8:30pm, and it draws steady crowds all day on weekends. Aim for the 6pm–8pm window (quietest on both weekdays and weekends) to actually feel the space instead of shuffling through it. Bring socks-friendly footwear you can slip off fast, dress modestly, and set aside 45–60 minutes."
+  - al barsha
+  - historic site
+quickAnswer: >-
+  This is Dubai's newer Hindu temple complex in Jebel Ali, open daily
+  6am–8:30pm, and it draws steady crowds all day on weekends. Aim for the
+  6pm–8pm window (quietest on both weekdays and weekends) to actually feel the
+  space instead of shuffling through it. Bring socks-friendly footwear you can
+  slip off fast, dress modestly, and set aside 45–60 minutes.
 faq:
-  - q: "What are the opening hours?"
-    a: "The temple is open every day from 6:00 AM to 8:30 PM, with no weekly closing day. Hours can shift slightly around major festivals, so it's worth confirming before you head out."
-  - q: "When is the quietest time to visit?"
-    a: "Between 6pm and 8pm, on both weekdays and weekends, based on measured foot-traffic patterns. Weekends from 8am to 6pm are the busiest window and worth avoiding if you want a calmer visit."
-  - q: "How do I get there without a car?"
-    a: "The temple sits in Jebel Ali First, away from the Dubai Metro network, so most visitors take a taxi or ride-hailing app rather than public transit."
-  - q: "Is there an entry fee?"
-    a: "No ticket is required. Small cash donations are customary but not mandatory, and there's no booking system — you simply arrive within opening hours."
-  - q: "How long should I plan for the visit?"
-    a: "Budget 45 minutes to an hour for a relaxed walk through the shrines. Add extra time if you arrive during a festival like Diwali or Navratri, when rituals draw larger crowds."
+  - q: What are the opening hours?
+    a: >-
+      The temple is open every day from 6:00 AM to 8:30 PM, with no weekly
+      closing day. Hours can shift slightly around major festivals, so it's
+      worth confirming before you head out.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 6pm and 8pm, on both weekdays and weekends, based on measured
+      foot-traffic patterns. Weekends from 8am to 6pm are the busiest window and
+      worth avoiding if you want a calmer visit.
+  - q: How do I get there without a car?
+    a: >-
+      The temple sits in Jebel Ali First, away from the Dubai Metro network, so
+      most visitors take a taxi or ride-hailing app rather than public transit.
+  - q: Is there an entry fee?
+    a: >-
+      No ticket is required. Small cash donations are customary but not
+      mandatory, and there's no booking system — you simply arrive within
+      opening hours.
+  - q: How long should I plan for the visit?
+    a: >-
+      Budget 45 minutes to an hour for a relaxed walk through the shrines. Add
+      extra time if you arrive during a festival like Diwali or Navratri, when
+      rituals draw larger crowds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

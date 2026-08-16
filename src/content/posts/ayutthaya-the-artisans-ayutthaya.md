@@ -1,36 +1,46 @@
 ---
 title: 'The Artisans: Where to Eat in Ayutthaya'
-description: The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical park, known for its scenic setting, photogenic decor, and Thai-Western fusion menu.
+description: >-
+  The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of
+  the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical
+  park, known for its scenic setting, photogenic decor, and Thai-Western fusion
+  menu.
 country: Thailand
 region: Ayutthaya
 category: restaurant
 pubDate: '2026-07-22T09:11:54.515Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/976202_TBZ8YqxQfuMH9OLpay5BxVTpnX-8YYatMuFYcLR7rCc.jpg"
-    credit: "Photo: Foursquare user content (The Artisans Ayutthaya)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/605da7b10e5d7472c8851dd3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/976202_TBZ8YqxQfuMH9OLpay5BxVTpnX-8YYatMuFYcLR7rCc.jpg
+    credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
+    license: foursquare
+    source: 'https://foursquare.com/v/605da7b10e5d7472c8851dd3'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/3709928__aTS8pr9tY9JMmdi_wC0iFWEZHkeLfEq46ulAPc2Vac.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/3709928__aTS8pr9tY9JMmdi_wC0iFWEZHkeLfEq46ulAPc2Vac.jpg
   credit: 'Photo: Foursquare user content (The Artisans Ayutthaya)'
   license: foursquare
-  source: https://foursquare.com/v/605da7b10e5d7472c8851dd3
+  source: 'https://foursquare.com/v/605da7b10e5d7472c8851dd3'
   focus:
     x: 50
-    y: 45
+    'y': 45
 place:
   id: ChIJPSBC45t34jARawdIhdUwFWE
   name: The Artisans Ayutthaya
-  address: 42 1, Tambon Ban Run, อำเภอ เมือง, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand
+  address: >-
+    42 1, Tambon Ban Run, อำเภอ เมือง, Chang Wat Phra Nakhon Si Ayutthaya 13000,
+    Thailand
   rating: 4.9
-  userRatingsTotal: 2026
-  googleMapsUrl: https://maps.google.com/?cid=6995551289812191083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2199
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6995551289812191083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 14.300598599999999
   lng: 100.56410439999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [11]
+    weekdayQuiet:
+      - 11
     weekendBusy:
       - 12
       - 13
@@ -38,7 +48,7 @@ place:
       - 15
       - 16
     venueId: ven_455746775564684964776152416a3433743534434253504a496843
-  phone: '+66 61 195 9514'
+  phone: +66 61 195 9514
   openingHours:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
@@ -50,20 +60,40 @@ place:
 tags:
   - ayutthaya
   - local restaurant
-quickAnswer: The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical park, known for its scenic setting, photogenic decor, and Thai-Western fusion menu. With a 4.9 rating from over 2,000 reviews, it's best visited for a leisurely lunch or golden-hour dinner after touring the temple ruins. Book ahead or arrive early on weekends since it's popular with both locals and tourists.
+quickAnswer: >-
+  The Artisans Ayutthaya is a riverside café-restaurant on the Ban Run side of
+  the Pa Sak River, a short songthaew or taxi ride from Ayutthaya's historical
+  park, known for its scenic setting, photogenic decor, and Thai-Western fusion
+  menu. With a 4.9 rating from over 2,000 reviews, it's best visited for a
+  leisurely lunch or golden-hour dinner after touring the temple ruins. Book
+  ahead or arrive early on weekends since it's popular with both locals and
+  tourists.
 faq:
   - q: How do I get to The Artisans Ayutthaya without a car?
-    a: Use the Grab app or ask for a metered taxi/tuk-tuk from the historical park area; the ride across the Pa Sak River to Ban Run typically takes 15-20 minutes.
+    a: >-
+      Use the Grab app or ask for a metered taxi/tuk-tuk from the historical
+      park area; the ride across the Pa Sak River to Ban Run typically takes
+      15-20 minutes.
   - q: Is it near the main Ayutthaya temples?
-    a: It's on the Ban Run side of the river, a short ride from Wat Mahathat and close to Wat Chaiwatthanaram, making it easy to combine with a temple-touring route.
+    a: >-
+      It's on the Ban Run side of the river, a short ride from Wat Mahathat and
+      close to Wat Chaiwatthanaram, making it easy to combine with a
+      temple-touring route.
   - q: What kind of food does it serve?
-    a: A Thai-Western fusion menu with café-style dishes, brunch options, and desserts, served in a designed indoor-outdoor space overlooking the river.
+    a: >-
+      A Thai-Western fusion menu with café-style dishes, brunch options, and
+      desserts, served in a designed indoor-outdoor space overlooking the river.
   - q: When is the best time to visit?
-    a: Weekday lunches are quieter; weekend dinners get busy given its high rating. Cooler months (November-February) are best for outdoor riverside seating.
+    a: >-
+      Weekday lunches are quieter; weekend dinners get busy given its high
+      rating. Cooler months (November-February) are best for outdoor riverside
+      seating.
   - q: Should I make a reservation?
-    a: With over 2,000 reviews and a 4.9 rating, it's popular locally and with tourists, so booking ahead or arriving early on weekends is recommended.
+    a: >-
+      With over 2,000 reviews and a 4.9 rating, it's popular locally and with
+      tourists, so booking ahead or arriving early on weekends is recommended.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-16'
 ---
 ## Why go
 

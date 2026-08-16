@@ -1,41 +1,49 @@
 ---
-title: "Musée-Château d'Annecy: Travel Guide (4.1★)"
-description: "The Musée-Château d'Annecy sits on the hill above the old town, an easy 10-minute walk from Annecy's canals, and holds regional art, sculpture, and rotating contemporary exhibitions inside a genuinely restored medieval castle. 4.1★ (5,768 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Annecy"
-category: "attraction"
-pubDate: "2026-08-11T09:10:50.885Z"
+title: 'Musée-Château d''Annecy: Travel Guide (4.1★)'
+description: >-
+  The Musée-Château d'Annecy sits on the hill above the old town, an easy
+  10-minute walk from Annecy's canals, and holds regional art, sculpture, and
+  rotating contemporary exhibitions inside a genuinely restored medieval castle.
+  4.1★ (5,783 reviews) — what visitors say, hours, and tips.
+country: France
+region: Annecy
+category: attraction
+pubDate: '2026-08-11T09:10:50.885Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ch%C3%A2teau_d%27Annecy_11.jpg"
-  credit: "Photo: Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27Annecy_11.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f8/Ch%C3%A2teau_d%27Annecy_11.jpg
+  credit: 'Photo: Tiia Monto / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_d%27Annecy_11.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mus%C3%A9e-Ch%C3%A2teau_d%27Annecy.JPG"
-    credit: "Photo: Léna / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e-Ch%C3%A2teau_d%27Annecy.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/6b/Mus%C3%A9e-Ch%C3%A2teau_d%27Annecy.JPG
+    credit: 'Photo: Léna / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mus%C3%A9e-Ch%C3%A2teau_d%27Annecy.JPG
 place:
-  id: "ChIJ5bRNx_uPi0cRTpk8wBmOJH0"
-  name: "Musée-Château d'Annecy"
-  address: "Pl. du Château, 74000 Annecy, France"
+  id: ChIJ5bRNx_uPi0cRTpk8wBmOJH0
+  name: Musée-Château d'Annecy
+  address: 'Pl. du Château, 74000 Annecy, France'
   rating: 4.1
-  userRatingsTotal: 5768
-  googleMapsUrl: "https://maps.google.com/?cid=9017488595153099086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5783
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9017488595153099086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.897677099999996
   lng: 6.1260826999999995
-  phone: "+33 4 85 46 76 70"
+  phone: +33 4 85 46 76 70
   openingHours:
-    - "Monday: 10:30 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:30 AM – 6:00 PM"
-    - "Thursday: 10:30 AM – 6:00 PM"
-    - "Friday: 10:30 AM – 6:00 PM"
-    - "Saturday: 10:30 AM – 6:00 PM"
-    - "Sunday: 10:30 AM – 6:00 PM"
+    - 'Monday: 10:30 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:30 AM – 6:00 PM'
+    - 'Thursday: 10:30 AM – 6:00 PM'
+    - 'Friday: 10:30 AM – 6:00 PM'
+    - 'Saturday: 10:30 AM – 6:00 PM'
+    - 'Sunday: 10:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 13
     weekdayBusy:
@@ -51,24 +59,39 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_30484a4f6d4277386b70545263306950755f784e5262354a496843"
+    venueId: ven_30484a4f6d4277386b70545263306950755f784e5262354a496843
 tags:
-  - "annecy"
-  - "top attraction"
-quickAnswer: "The Musée-Château d'Annecy sits on the hill above the old town, an easy 10-minute walk from Annecy's canals, and holds regional art, sculpture, and rotating contemporary exhibitions inside a genuinely restored medieval castle. It's open daily except Tuesday, 10:30am–6pm. Aim for 1–2pm on any day to dodge the crowds, especially on weekends when 11am–6pm gets busy."
+  - annecy
+  - top attraction
+quickAnswer: >-
+  The Musée-Château d'Annecy sits on the hill above the old town, an easy
+  10-minute walk from Annecy's canals, and holds regional art, sculpture, and
+  rotating contemporary exhibitions inside a genuinely restored medieval castle.
+  It's open daily except Tuesday, 10:30am–6pm. Aim for 1–2pm on any day to dodge
+  the crowds, especially on weekends when 11am–6pm gets busy.
 faq:
-  - q: "What are the opening hours?"
-    a: "10:30am–6pm every day except Tuesday, when the museum is fully closed."
-  - q: "When is the quietest time to visit?"
-    a: "Between 1pm and 2pm, on both weekdays and weekends. Weekend mornings and afternoons from 11am to 6pm are the busiest."
-  - q: "How long should I spend there?"
-    a: "Budget 1.5 hours for a quick visit, or 2.5–3 hours if you want to see the temporary exhibitions and ramparts properly."
-  - q: "How do I get there from the train station?"
-    a: "It's about a 15–20 minute walk uphill through Annecy's old town; there's no dedicated on-site parking, so use a public car park in the old town if driving."
-  - q: "What's nearby afterwards?"
-    a: "The old town's canals and the Palais de l'Isle are a short, mostly downhill walk away, along with plenty of cafés for a post-visit break."
+  - q: What are the opening hours?
+    a: '10:30am–6pm every day except Tuesday, when the museum is fully closed.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 1pm and 2pm, on both weekdays and weekends. Weekend mornings and
+      afternoons from 11am to 6pm are the busiest.
+  - q: How long should I spend there?
+    a: >-
+      Budget 1.5 hours for a quick visit, or 2.5–3 hours if you want to see the
+      temporary exhibitions and ramparts properly.
+  - q: How do I get there from the train station?
+    a: >-
+      It's about a 15–20 minute walk uphill through Annecy's old town; there's
+      no dedicated on-site parking, so use a public car park in the old town if
+      driving.
+  - q: What's nearby afterwards?
+    a: >-
+      The old town's canals and the Palais de l'Isle are a short, mostly
+      downhill walk away, along with plenty of cafés for a post-visit break.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

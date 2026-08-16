@@ -1,31 +1,37 @@
 ---
 title: 'Trilye Restaurant: Where to Eat in Ankara'
-description: Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright, contemporary dining room with outdoor tables.
+description: >-
+  Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp
+  neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a
+  bright, contemporary dining room with outdoor tables.
 country: Turkey
 region: Ankara
 category: restaurant
 pubDate: '2026-07-27T10:55:23.193Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/78383375_TdadgicP6FXfgFaNW3axQw4PxAusvFHHOnjD64B0v3s.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/78383375_TdadgicP6FXfgFaNW3axQw4PxAusvFHHOnjD64B0v3s.jpg
   credit: 'Photo: Foursquare user content (Trilye Restaurant)'
   license: foursquare
-  source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
+  source: 'https://foursquare.com/v/4b9bb938f964a5201d1e36e3'
   focus:
     x: 50
-    y: 20
+    'y': 20
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/60997680_ybVSR8s25XDrSwKCEc8Iw0SA0uyHpQlTC8AOw05zGfA.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/60997680_ybVSR8s25XDrSwKCEc8Iw0SA0uyHpQlTC8AOw05zGfA.jpg
     credit: 'Photo: Foursquare user content (Trilye Restaurant)'
     license: foursquare
-    source: https://foursquare.com/v/4b9bb938f964a5201d1e36e3
+    source: 'https://foursquare.com/v/4b9bb938f964a5201d1e36e3'
 place:
   id: ChIJgWWgw5VP0xQRPb6m-k-HePk
   name: Trilye Restaurant
   address: 'Kazım Özalp, Kuleli Sokağı No: 32, 06680 Çankaya/Ankara, Türkiye'
   rating: 4.5
-  userRatingsTotal: 3097
+  userRatingsTotal: 3124
   priceLevel: 4
-  googleMapsUrl: https://maps.google.com/?cid=17976266690226732605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17976266690226732605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.8940686
   lng: 32.8719779
@@ -41,20 +47,41 @@ place:
 tags:
   - ankara
   - local restaurant
-quickAnswer: Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a bright, contemporary dining room with outdoor tables. It's on the pricier side and well-known locally, so book ahead for dinner, especially Thursday–Saturday, and expect a fuller room after 8pm.
+quickAnswer: >-
+  Trilye is a long-running seafood restaurant in Ankara's Kazım Özalp
+  neighborhood (Çankaya), known for impeccably fresh fish, meze, and pasta in a
+  bright, contemporary dining room with outdoor tables. It's on the pricier side
+  and well-known locally, so book ahead for dinner, especially
+  Thursday–Saturday, and expect a fuller room after 8pm.
 faq:
   - q: Where exactly is Trilye Restaurant located?
-    a: 'It''s at Kuleli Sokağı No: 32 in the Kazım Özalp neighborhood of Çankaya, Ankara — a short taxi ride from Kızılay and the Tunalı Hilmi shopping area.'
+    a: >-
+      It's at Kuleli Sokağı No: 32 in the Kazım Özalp neighborhood of Çankaya,
+      Ankara — a short taxi ride from Kızılay and the Tunalı Hilmi shopping
+      area.
   - q: Do I need a reservation?
-    a: Yes, especially for dinner Thursday through Saturday. It's a well-known, consistently busy restaurant, so booking ahead by phone is strongly recommended.
+    a: >-
+      Yes, especially for dinner Thursday through Saturday. It's a well-known,
+      consistently busy restaurant, so booking ahead by phone is strongly
+      recommended.
   - q: Is Trilye expensive?
-    a: It's on the pricier end for Ankara, reflecting its seafood focus — fish is typically priced by weight and varies daily, so ask your server the day's rate before ordering.
+    a: >-
+      It's on the pricier end for Ankara, reflecting its seafood focus — fish is
+      typically priced by weight and varies daily, so ask your server the day's
+      rate before ordering.
   - q: What should I order?
-    a: Start with a meze selection, then ask about the day's fresh whole fish, grilled or baked. Pasta and salads are also available if you're not set on seafood.
+    a: >-
+      Start with a meze selection, then ask about the day's fresh whole fish,
+      grilled or baked. Pasta and salads are also available if you're not set on
+      seafood.
   - q: How do I get there without a car?
-    a: Take the Ankaray or Metro to Kızılay station, then a taxi or ride-hail for the final 10-15 minutes into Çankaya, since the neighborhood's streets are hilly with limited parking.
+    a: >-
+      Take the Ankaray or Metro to Kızılay station, then a taxi or ride-hail for
+      the final 10-15 minutes into Çankaya, since the neighborhood's streets are
+      hilly with limited parking.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

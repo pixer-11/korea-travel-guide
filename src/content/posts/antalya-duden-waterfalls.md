@@ -1,30 +1,39 @@
 ---
 title: 'Duden Waterfalls: Antalya Travel Guide'
-description: Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a large cave you can walk into and view the cascade from behind.
+description: >-
+  Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the
+  Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a
+  large cave you can walk into and view the cascade from behind.
 country: Turkey
 region: Antalya
 category: attraction
 pubDate: '2026-07-23T10:51:58.664Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1401693259_8jEHFrVFPFANGfSLvWNwvNcLD-Yzsp4u0b7GLX1Oj90.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1401693259_8jEHFrVFPFANGfSLvWNwvNcLD-Yzsp4u0b7GLX1Oj90.jpg
   credit: 'Photo: Foursquare user content (Düden Şelalesi)'
   license: foursquare
-  source: https://foursquare.com/v/4c862ac2d8086dcbe1a39752
+  source: 'https://foursquare.com/v/4c862ac2d8086dcbe1a39752'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg/1920px-Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg/1920px-Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
     credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
 place:
   id: ChIJu3F7zgmGwxQRiKcatsput3I
   name: Duden Waterfalls
-  address: Varsak Mahallesi Düden Şelalesi Parkı içi, Şelale, 07210 Kepez/Antalya, Türkiye
+  address: >-
+    Varsak Mahallesi Düden Şelalesi Parkı içi, Şelale, 07210 Kepez/Antalya,
+    Türkiye
   rating: 4.6
-  userRatingsTotal: 38298
-  googleMapsUrl: https://maps.google.com/?cid=8266197457979484040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 38734
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8266197457979484040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.9647146
   lng: 30.7267783
@@ -39,20 +48,42 @@ place:
 tags:
   - antalya
   - top attraction
-quickAnswer: Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a large cave you can walk into and view the cascade from behind. Go early morning or on a weekday to avoid tour-bus crowds, plan 1–1.5 hours, and combine it with the separate Lower Duden Falls near the coast if you have a car or taxi for the day.
+quickAnswer: >-
+  Duden Waterfalls (Düden Şelalesi) in Kepez, Antalya, is best visited in the
+  Upper Duden Park (Düden Şelalesi Parkı) where the falls tumble in front of a
+  large cave you can walk into and view the cascade from behind. Go early
+  morning or on a weekday to avoid tour-bus crowds, plan 1–1.5 hours, and
+  combine it with the separate Lower Duden Falls near the coast if you have a
+  car or taxi for the day.
 faq:
   - q: How do I get to Duden Waterfalls from central Antalya?
-    a: Taxi or rental car takes about 20–30 minutes to the Upper Duden Falls in Kepez's Düden Şelalesi Parkı. Public buses run toward Kepez/Varsak but usually require a transfer, so most visitors use a taxi or a half-day organized tour.
+    a: >-
+      Taxi or rental car takes about 20–30 minutes to the Upper Duden Falls in
+      Kepez's Düden Şelalesi Parkı. Public buses run toward Kepez/Varsak but
+      usually require a transfer, so most visitors use a taxi or a half-day
+      organized tour.
   - q: How much time should I budget?
-    a: About 1 to 1.5 hours covers the park loop, the cave walkway behind the falls, and a tea break. Add extra time if you also plan to visit the separate Lower Duden Falls near the coast.
+    a: >-
+      About 1 to 1.5 hours covers the park loop, the cave walkway behind the
+      falls, and a tea break. Add extra time if you also plan to visit the
+      separate Lower Duden Falls near the coast.
   - q: Is this the same as the waterfall that drops into the sea?
-    a: No — that's the Lower Duden Falls near Lara Beach, a coastal cliff cascade. This guide covers the Upper Duden Falls, set in a park with a cave you can walk into behind the cascade.
+    a: >-
+      No — that's the Lower Duden Falls near Lara Beach, a coastal cliff
+      cascade. This guide covers the Upper Duden Falls, set in a park with a
+      cave you can walk into behind the cascade.
   - q: What's the best time of year and day to visit?
-    a: Spring (April–May) has the strongest water flow and mild weather. Visit early morning or close to closing time on a weekday to avoid the tour-bus crowds that peak at midday in summer.
+    a: >-
+      Spring (April–May) has the strongest water flow and mild weather. Visit
+      early morning or close to closing time on a weekday to avoid the tour-bus
+      crowds that peak at midday in summer.
   - q: Is the site accessible and family-friendly?
-    a: Yes, the park has paved paths and benches suitable for most fitness levels, though the walkway near the cave gets damp and slightly slippery, so sturdy shoes are recommended, especially with children.
+    a: >-
+      Yes, the park has paved paths and benches suitable for most fitness
+      levels, though the walkway near the cave gets damp and slightly slippery,
+      so sturdy shoes are recommended, especially with children.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-16'
 ---
 
 ## Why go

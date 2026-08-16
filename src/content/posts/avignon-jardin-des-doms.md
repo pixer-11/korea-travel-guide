@@ -1,41 +1,49 @@
 ---
-title: "Jardin des Doms: Avignon Travel Guide (4.5★)"
-description: "Jardin des Doms is the hilltop park directly above the Palais des Papes, open daily 7:30am–10pm, with sweeping views over the Rhône and the Pont Saint-Bénézet. 4.5★ (3,950 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Avignon"
-category: "attraction"
-pubDate: "2026-08-12T08:52:47.462Z"
+title: 'Jardin des Doms: Avignon Travel Guide (4.5★)'
+description: >-
+  Jardin des Doms is the hilltop park directly above the Palais des Papes, open
+  daily 7:30am–10pm, with sweeping views over the Rhône and the Pont
+  Saint-Bénézet. 4.5★ (3,955 reviews) — what visitors say, hours, and tips.
+country: France
+region: Avignon
+category: attraction
+pubDate: '2026-08-12T08:52:47.462Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg/3840px-Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg"
-  credit: "Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Avignon_-_Jardin_des_Doms,(Rocher_des_Doms)_-_View_ESE_on_Roofs_in_Avignon.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg/3840px-Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg
+  credit: 'Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Avignon_-_Jardin_des_Doms,(Rocher_des_Doms)_-_View_ESE_on_Roofs_in_Avignon.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Avignon_-_Jardin_des_Doms_%28Rocher_des_Doms%29_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_06.jpg/3840px-Avignon_-_Jardin_des_Doms_%28Rocher_des_Doms%29_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_06.jpg"
-    credit: "Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Avignon_-_Jardin_des_Doms_(Rocher_des_Doms)_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_06.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Avignon_-_Jardin_des_Doms_%28Rocher_des_Doms%29_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_06.jpg/3840px-Avignon_-_Jardin_des_Doms_%28Rocher_des_Doms%29_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_06.jpg
+    credit: 'Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Avignon_-_Jardin_des_Doms_(Rocher_des_Doms)_-_Panorama_View_over_the_river_Rh%C3%B4ne_valley_06.jpg
 place:
-  id: "ChIJ6RWDM4nrtRIR48np_Z4EC34"
-  name: "Jardin des Doms"
-  address: "2 Mnt des Moulins, 84000 Avignon, France"
+  id: ChIJ6RWDM4nrtRIR48np_Z4EC34
+  name: Jardin des Doms
+  address: '2 Mnt des Moulins, 84000 Avignon, France'
   rating: 4.5
-  userRatingsTotal: 3950
-  googleMapsUrl: "https://maps.google.com/?cid=9082358154434038243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3955
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9082358154434038243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.9528428
   lng: 4.8076504
-  phone: "+33 4 90 80 80 00"
+  phone: +33 4 90 80 80 00
   openingHours:
-    - "Monday: 7:30 AM – 10:00 PM"
-    - "Tuesday: 7:30 AM – 10:00 PM"
-    - "Wednesday: 7:30 AM – 10:00 PM"
-    - "Thursday: 7:30 AM – 10:00 PM"
-    - "Friday: 7:30 AM – 10:00 PM"
-    - "Saturday: 7:30 AM – 10:00 PM"
-    - "Sunday: 7:30 AM – 10:00 PM"
+    - 'Monday: 7:30 AM – 10:00 PM'
+    - 'Tuesday: 7:30 AM – 10:00 PM'
+    - 'Wednesday: 7:30 AM – 10:00 PM'
+    - 'Thursday: 7:30 AM – 10:00 PM'
+    - 'Friday: 7:30 AM – 10:00 PM'
+    - 'Saturday: 7:30 AM – 10:00 PM'
+    - 'Sunday: 7:30 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 20
       - 21
@@ -58,24 +66,41 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_34334345345a5f706e383452495274726e344d445752364a496843"
+    venueId: ven_34334345345a5f706e383452495274726e344d445752364a496843
 tags:
-  - "avignon"
-  - "top attraction"
-quickAnswer: "Jardin des Doms is the hilltop park directly above the Palais des Papes, open daily 7:30am–10pm, with sweeping views over the Rhône and the Pont Saint-Bénézet. Climb up in late afternoon for the best light, and go early morning or after 8pm if you want the paths to yourself — weekends get busy from noon to 8pm. Budget 45 minutes to an hour, more if you linger by the pond or the café."
+  - avignon
+  - top attraction
+quickAnswer: >-
+  Jardin des Doms is the hilltop park directly above the Palais des Papes, open
+  daily 7:30am–10pm, with sweeping views over the Rhône and the Pont
+  Saint-Bénézet. Climb up in late afternoon for the best light, and go early
+  morning or after 8pm if you want the paths to yourself — weekends get busy
+  from noon to 8pm. Budget 45 minutes to an hour, more if you linger by the pond
+  or the café.
 faq:
-  - q: "How do I get to Jardin des Doms?"
-    a: "Walk up Montée des Moulins from the Palais des Papes (about 10-15 minutes on foot from Place de l'Horloge), or take the small lift/funicular near the palace if you'd rather skip the climb."
-  - q: "Is there an entry fee?"
-    a: "No, the garden is free and open to the public daily from 7:30am to 10pm."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, 8pm to 10pm is calmest. On weekends the park stays relatively quiet from 8am onward, but fills up between noon and 8pm — try to avoid that window."
-  - q: "How long should I plan to spend there?"
-    a: "45 minutes covers the main terraces and pond; give it a full hour if you want to sit down at the café or linger over the view."
-  - q: "What's nearby?"
-    a: "The Palais des Papes and Pont Saint-Bénézet are both within a short walk downhill, making the garden an easy add-on to either visit."
+  - q: How do I get to Jardin des Doms?
+    a: >-
+      Walk up Montée des Moulins from the Palais des Papes (about 10-15 minutes
+      on foot from Place de l'Horloge), or take the small lift/funicular near
+      the palace if you'd rather skip the climb.
+  - q: Is there an entry fee?
+    a: 'No, the garden is free and open to the public daily from 7:30am to 10pm.'
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays, 8pm to 10pm is calmest. On weekends the park stays relatively
+      quiet from 8am onward, but fills up between noon and 8pm — try to avoid
+      that window.
+  - q: How long should I plan to spend there?
+    a: >-
+      45 minutes covers the main terraces and pond; give it a full hour if you
+      want to sit down at the café or linger over the view.
+  - q: What's nearby?
+    a: >-
+      The Palais des Papes and Pont Saint-Bénézet are both within a short walk
+      downhill, making the garden an easy add-on to either visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

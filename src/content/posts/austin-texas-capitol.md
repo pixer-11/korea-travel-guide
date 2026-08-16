@@ -1,52 +1,74 @@
 ---
-title: "Texas Capitol: Austin Travel Guide (4.7★)"
-description: "The Texas Capitol, at 1100 Congress Ave., is open daily (7am–8pm weekdays, 9am–8pm weekends) and free to enter. 4.7★ (5,066 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Austin"
-category: "attraction"
-pubDate: "2026-08-12T08:55:57.975Z"
+title: 'Texas Capitol: Austin Travel Guide (4.7★)'
+description: >-
+  The Texas Capitol, at 1100 Congress Ave., is open daily (7am–8pm weekdays,
+  9am–8pm weekends) and free to enter. 4.7★ (5,096 reviews) — what visitors say,
+  hours, and tips.
+country: United States
+region: Austin
+category: attraction
+pubDate: '2026-08-12T08:55:57.975Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TexasStateCapitol-2010-01.JPG/1920px-TexasStateCapitol-2010-01.JPG"
-  credit: "Photo: LoneStarMike / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:TexasStateCapitol-2010-01.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TexasStateCapitol-2010-01.JPG/1920px-TexasStateCapitol-2010-01.JPG
+  credit: 'Photo: LoneStarMike / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:TexasStateCapitol-2010-01.JPG'
 gallery: []
 place:
-  id: "ChIJz42sFKC1RIYROdCVpyJXb8s"
-  name: "Texas Capitol"
-  address: "1100 Congress Ave., Austin, TX 78701, USA"
+  id: ChIJz42sFKC1RIYROdCVpyJXb8s
+  name: Texas Capitol
+  address: '1100 Congress Ave., Austin, TX 78701, USA'
   rating: 4.7
-  userRatingsTotal: 5066
-  googleMapsUrl: "https://maps.google.com/?cid=14659031118466371641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5096
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14659031118466371641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.2746652
   lng: -97.74035049999999
-  phone: "+1 512-463-4630"
+  phone: +1 512-463-4630
   openingHours:
-    - "Monday: 7:00 AM – 8:00 PM"
-    - "Tuesday: 7:00 AM – 8:00 PM"
-    - "Wednesday: 7:00 AM – 8:00 PM"
-    - "Thursday: 7:00 AM – 8:00 PM"
-    - "Friday: 7:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: 7:00 AM – 8:00 PM'
+    - 'Tuesday: 7:00 AM – 8:00 PM'
+    - 'Wednesday: 7:00 AM – 8:00 PM'
+    - 'Thursday: 7:00 AM – 8:00 PM'
+    - 'Friday: 7:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
 tags:
-  - "austin"
-  - "top attraction"
-quickAnswer: "The Texas Capitol, at 1100 Congress Ave., is open daily (7am–8pm weekdays, 9am–8pm weekends) and free to enter. Walk the grounds, stand under the rotunda dome, and join a free guided or self-guided tour of the House and Senate chambers. Arrive right at opening on a weekday to see it before tour groups and school buses arrive."
+  - austin
+  - top attraction
+quickAnswer: >-
+  The Texas Capitol, at 1100 Congress Ave., is open daily (7am–8pm weekdays,
+  9am–8pm weekends) and free to enter. Walk the grounds, stand under the rotunda
+  dome, and join a free guided or self-guided tour of the House and Senate
+  chambers. Arrive right at opening on a weekday to see it before tour groups
+  and school buses arrive.
 faq:
-  - q: "Do I need a ticket to visit the Texas Capitol?"
-    a: "No. Entry, the self-guided walk-through, and the guided tours are all free. You just pass through security screening at the entrance."
-  - q: "What are the opening hours?"
-    a: "7am–8pm Monday through Friday, and 9am–8pm on Saturday and Sunday. Confirm current hours before visiting, since government building schedules can shift around holidays or legislative sessions."
-  - q: "When is it quietest?"
-    a: "Weekday mornings right at opening tend to be calmest, before school tour groups and midday visitors arrive. Weekend afternoons are the busiest."
-  - q: "How long should I plan to spend there?"
-    a: "About 45 minutes to an hour to see the rotunda and chambers, longer if you also want to walk the 22 acres of grounds and monuments outside."
-  - q: "How do I get there without a car?"
-    a: "Take MetroRail's Red Line to Capitol Station, a few blocks east, or hop on one of the downtown bus routes along Congress or 11th Street."
+  - q: Do I need a ticket to visit the Texas Capitol?
+    a: >-
+      No. Entry, the self-guided walk-through, and the guided tours are all
+      free. You just pass through security screening at the entrance.
+  - q: What are the opening hours?
+    a: >-
+      7am–8pm Monday through Friday, and 9am–8pm on Saturday and Sunday. Confirm
+      current hours before visiting, since government building schedules can
+      shift around holidays or legislative sessions.
+  - q: When is it quietest?
+    a: >-
+      Weekday mornings right at opening tend to be calmest, before school tour
+      groups and midday visitors arrive. Weekend afternoons are the busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      About 45 minutes to an hour to see the rotunda and chambers, longer if you
+      also want to walk the 22 acres of grounds and monuments outside.
+  - q: How do I get there without a car?
+    a: >-
+      Take MetroRail's Red Line to Capitol Station, a few blocks east, or hop on
+      one of the downtown bus routes along Congress or 11th Street.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

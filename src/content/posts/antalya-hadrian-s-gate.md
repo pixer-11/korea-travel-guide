@@ -1,27 +1,35 @@
 ---
 title: 'Hadrian''s Gate: Antalya Travel Guide'
-description: Hadrian's Gate (Üçkapılar) sits on Atatürk Caddesi in Antalya's old town, Kaleiçi, right where the modern boulevard meets the ancient walls — a three-arched Roman gate built around 130 AD for Emperor Hadrian's visit.
+description: >-
+  Hadrian's Gate (Üçkapılar) sits on Atatürk Caddesi in Antalya's old town,
+  Kaleiçi, right where the modern boulevard meets the ancient walls — a
+  three-arched Roman gate built around 130 AD for Emperor Hadrian's visit.
 country: Turkey
 region: Antalya
 category: hidden-gem
 pubDate: '2026-07-27T11:03:54.793Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P9271452_Hadrians_Gate.jpg/1920px-P9271452_Hadrians_Gate.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/P9271452_Hadrians_Gate.jpg/1920px-P9271452_Hadrians_Gate.jpg
   credit: 'Photo: Joe Wallace / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:P9271452_Hadrians_Gate.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:P9271452_Hadrians_Gate.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hadrian%27s_Gate%2C_Antalya_01.jpg/1920px-Hadrian%27s_Gate%2C_Antalya_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hadrian%27s_Gate%2C_Antalya_01.jpg/1920px-Hadrian%27s_Gate%2C_Antalya_01.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Hadrian%27s_Gate,_Antalya_01.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Hadrian%27s_Gate,_Antalya_01.jpg'
 place:
   id: ChIJa4EKoSeRwxQROnU-MXMbKLM
   name: Hadrian's Gate
-  address: Barbaros, Atatürk Cd, Barbaros, Hadrian Kale Kapısı, 07100 Muratpaşa/Antalya, Türkiye
+  address: >-
+    Barbaros, Atatürk Cd, Barbaros, Hadrian Kale Kapısı, 07100
+    Muratpaşa/Antalya, Türkiye
   rating: 4.7
-  userRatingsTotal: 13589
-  googleMapsUrl: https://maps.google.com/?cid=12909598513418892602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 13847
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12909598513418892602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.8852362
   lng: 30.708577799999997
@@ -36,20 +44,41 @@ place:
 tags:
   - antalya
   - hidden gem
-quickAnswer: Hadrian's Gate (Üçkapılar) sits on Atatürk Caddesi in Antalya's old town, Kaleiçi, right where the modern boulevard meets the ancient walls — a three-arched Roman gate built around 130 AD for Emperor Hadrian's visit. It's free, open-air, and takes only 15–20 minutes to see properly, though it's worth pairing with a stroll through Kaleiçi's lanes. Go early morning or after sunset to avoid the tour groups and midday heat that fill the gate by late morning.
+quickAnswer: >-
+  Hadrian's Gate (Üçkapılar) sits on Atatürk Caddesi in Antalya's old town,
+  Kaleiçi, right where the modern boulevard meets the ancient walls — a
+  three-arched Roman gate built around 130 AD for Emperor Hadrian's visit. It's
+  free, open-air, and takes only 15–20 minutes to see properly, though it's
+  worth pairing with a stroll through Kaleiçi's lanes. Go early morning or after
+  sunset to avoid the tour groups and midday heat that fill the gate by late
+  morning.
 faq:
   - q: How much does it cost to visit Hadrian's Gate?
-    a: It's free and always accessible — the gate is an open street arch, not a ticketed monument, so you simply walk through it.
+    a: >-
+      It's free and always accessible — the gate is an open street arch, not a
+      ticketed monument, so you simply walk through it.
   - q: How long should I spend there?
-    a: 15–20 minutes to see the gate and towers properly, though most visitors continue straight on into Kaleiçi's old-town lanes, turning it into a longer walk.
+    a: >-
+      15–20 minutes to see the gate and towers properly, though most visitors
+      continue straight on into Kaleiçi's old-town lanes, turning it into a
+      longer walk.
   - q: When is the quietest time to visit?
-    a: Early morning right after sunrise or after sunset is calmest; tour groups and coach parties fill the gate from mid-morning through late afternoon, so try to avoid that window.
+    a: >-
+      Early morning right after sunrise or after sunset is calmest; tour groups
+      and coach parties fill the gate from mid-morning through late afternoon,
+      so try to avoid that window.
   - q: How do I get there from central Antalya?
-    a: Take the Antray tram to the Kalekapısı stop, which lets out right at the arches, or walk along Atatürk Caddesi from the marina or Konyaaltı area.
+    a: >-
+      Take the Antray tram to the Kalekapısı stop, which lets out right at the
+      arches, or walk along Atatürk Caddesi from the marina or Konyaaltı area.
   - q: What else is nearby?
-    a: Kaleiçi's old harbor, Hıdırlık Tower, the clock tower (Saat Kulesi), and the Antalya Archaeological Museum are all within easy reach on foot or a short tram ride.
+    a: >-
+      Kaleiçi's old harbor, Hıdırlık Tower, the clock tower (Saat Kulesi), and
+      the Antalya Archaeological Museum are all within easy reach on foot or a
+      short tram ride.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

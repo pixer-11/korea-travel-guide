@@ -1,36 +1,43 @@
 ---
-title: "Jallianwala Bagh: Amritsar Travel Guide (4.6★)"
-description: "Jallianwala Bagh is a walled memorial garden in Amritsar's old city, a two-minute walk from the Golden Temple, marking the site of the 1919 massacre. 4.6★ (103,979 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Amritsar"
-category: "attraction"
-pubDate: "2026-08-11T09:05:18.260Z"
+title: 'Jallianwala Bagh: Amritsar Travel Guide (4.6★)'
+description: >-
+  Jallianwala Bagh is a walled memorial garden in Amritsar's old city, a
+  two-minute walk from the Golden Temple, marking the site of the 1919 massacre.
+  4.6★ (104,142 reviews) — what visitors say, hours, and tips.
+country: India
+region: Amritsar
+category: attraction
+pubDate: '2026-08-11T09:05:18.260Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1920px-Jallianwala_Bagh%2C_Amritsar_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1920px-Jallianwala_Bagh%2C_Amritsar_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jallianwala_Bagh,_Amritsar_01.jpg'
 gallery: []
 place:
-  id: "ChIJ7aP4Ka98GTkRW7ecFnY5Acs"
-  name: "Jallianwala Bagh"
-  address: "Golden Temple Rd, Jallan Wala Bagh, Katra Ahluwalia, Amritsar, Amritsar Cantt., Punjab 143006, India"
+  id: ChIJ7aP4Ka98GTkRW7ecFnY5Acs
+  name: Jallianwala Bagh
+  address: >-
+    Golden Temple Rd, Jallan Wala Bagh, Katra Ahluwalia, Amritsar, Amritsar
+    Cantt., Punjab 143006, India
   rating: 4.6
-  userRatingsTotal: 103979
-  googleMapsUrl: "https://maps.google.com/?cid=14628036244024375131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 104142
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14628036244024375131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 31.6205869
   lng: 74.8802901
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -41,24 +48,38 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_73634135596e4663653757526b54473839614b345061374a496843"
+    venueId: ven_73634135596e4663653757526b54473839614b345061374a496843
 tags:
-  - "amritsar"
-  - "top attraction"
-quickAnswer: "Jallianwala Bagh is a walled memorial garden in Amritsar's old city, a two-minute walk from the Golden Temple, marking the site of the 1919 massacre. It's open daily 9am–5pm, free to enter, and needs about 45–60 minutes. Go on a weekday between 9am and 11am to see it without the crowds that build up from late morning through the afternoon."
+  - amritsar
+  - top attraction
+quickAnswer: >-
+  Jallianwala Bagh is a walled memorial garden in Amritsar's old city, a
+  two-minute walk from the Golden Temple, marking the site of the 1919 massacre.
+  It's open daily 9am–5pm, free to enter, and needs about 45–60 minutes. Go on a
+  weekday between 9am and 11am to see it without the crowds that build up from
+  late morning through the afternoon.
 faq:
-  - q: "Is there an entry fee for Jallianwala Bagh?"
-    a: "No, entry to the memorial garden is free for all visitors."
-  - q: "How long should I spend there?"
-    a: "Plan on 45 minutes to an hour to see the well, bullet-marked wall, eternal flame, and museum gallery without rushing."
-  - q: "When is it least crowded?"
-    a: "Weekdays between 9am and 11am are the quietest; try to avoid 11am to 5pm, especially on weekends, when it's busiest."
-  - q: "How close is it to the Golden Temple?"
-    a: "It's about a 2-3 minute walk away, off Golden Temple Road in the old city, and most visitors combine both in one trip."
-  - q: "What are the opening hours?"
-    a: "Jallianwala Bagh is open daily from 9:00 AM to 5:00 PM, with no weekly closing day."
+  - q: Is there an entry fee for Jallianwala Bagh?
+    a: 'No, entry to the memorial garden is free for all visitors.'
+  - q: How long should I spend there?
+    a: >-
+      Plan on 45 minutes to an hour to see the well, bullet-marked wall, eternal
+      flame, and museum gallery without rushing.
+  - q: When is it least crowded?
+    a: >-
+      Weekdays between 9am and 11am are the quietest; try to avoid 11am to 5pm,
+      especially on weekends, when it's busiest.
+  - q: How close is it to the Golden Temple?
+    a: >-
+      It's about a 2-3 minute walk away, off Golden Temple Road in the old city,
+      and most visitors combine both in one trip.
+  - q: What are the opening hours?
+    a: >-
+      Jallianwala Bagh is open daily from 9:00 AM to 5:00 PM, with no weekly
+      closing day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-16'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
