@@ -218,6 +218,42 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/translation-quality-gate.mjs
 
+      # The gate above only sees what THIS run touched. Everything else that
+      # became judgeable since was nobody's job: a post released from
+      # quarantine overnight, a translation an earlier run rewrote, and — until
+      # 2026-08-16 — every text the judge had silently choked on. The corpus
+      # audit could have caught all three, but it was a script a human had to
+      # remember to run, so 230 live translations sat unjudged and the judge's
+      # own 25% failure rate went unnoticed for a day. This is the standing
+      # reader for it. Bounded: a backlog costs a few minutes a night instead
+      # of one large bill, and once caught up it finds nothing and bills ~0.
+      - name: Translation quality catch-up (judge what the gate cannot see)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -o pipefail
+          set +e
+          node scripts/audit-translation-quality.mjs --limit=120 2>&1 | tee /tmp/tq.log
+          set -e
+          S=$(grep -o 'TRANSLATION_QUALITY_SUMMARY .*' /tmp/tq.log | tail -1)
+          # An empty summary means the AUDIT died, not that the corpus is
+          # clean — the wrong-language gate learned this the same week. Read
+          # emptiness as breakage, never as "nothing to do".
+          if [ -z "$S" ]; then
+            echo "::warning::translation quality catch-up did not finish"
+            echo "번역 품질 심사 (감사 자체가 실패)" >> /tmp/soft-fail.txt
+            exit 0
+          fi
+          FAILED=$(printf '%s' "$S" | sed -nE 's/.*judgeFailed=([0-9]+).*/\1/p')
+          LEFT=$(printf '%s' "$S" | sed -nE 's/.*unjudged=([0-9]+).*/\1/p')
+          echo "심사 못 한 채 남은 번역: ${LEFT:-?}건"
+          # A judge that answers "unavailable" is the exact failure that hid for
+          # a day. It reaches Telegram now, not just the log.
+          if [ "${FAILED:-0}" -gt 0 ]; then
+            echo "번역 품질 심사 (${FAILED}건 판정 불가)" >> /tmp/soft-fail.txt
+          fi
+
       # Country/city NAMES for ko/ja/es/zh. Idempotent (skips what it already has),
       # so this only costs anything when a new country or city appears — without it
       # a newly added destination shows its English name on every localized page.

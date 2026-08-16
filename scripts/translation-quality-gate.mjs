@@ -20,10 +20,22 @@ import { execSync } from 'node:child_process';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import matter from 'gray-matter';
-import { judgeTranslation } from './lib/translation-quality.mjs';
+import { judgeTranslation, judgeStats } from './lib/translation-quality.mjs';
 
 const STORE = 'data/translation-quality.json';
 const hashOf = (s) => createHash('sha1').update(s).digest('hex').slice(0, 12);
+
+// A quarantined post is unreadable AND unrepairable here: translate-posts
+// skips drafts, so the rewrite below printed "re-translating once", translated
+// nothing ("Nothing to translate — all up to date"), and filed the post as
+// stubborn. On 2026-08-16 that accounted for 141 of 217 flagged translations —
+// money spent judging pages no reader can reach, and a repair line in the log
+// that never happened. The corpus catch-up judges them when they go live.
+const isDraft = (slug) => {
+  const p = `src/content/posts/${slug}.md`;
+  if (!existsSync(p)) return true;
+  try { return !!matter(readFileSync(p, 'utf8')).data.draft; } catch { return true; }
+};
 
 // Which translations did this run touch? Uncommitted new/modified i18n files.
 const keys = process.argv.slice(2).filter((a) => !a.startsWith('-'));
@@ -38,12 +50,13 @@ if (!files.length) { console.log('translation gate: nothing new to judge'); proc
 
 const store = existsSync(STORE) ? JSON.parse(readFileSync(STORE, 'utf8')) : {};
 const flagged = [];
-let judged = 0;
+let judged = 0, skippedDraft = 0;
 
 for (const f of files) {
   const m = f.match(/i18n\/(ko|ja|es|zh)\/(.+)\.md$/);
   if (!m) continue;
   const [, lang, slug] = m;
+  if (isDraft(slug)) { skippedDraft++; continue; }
   let raw;
   try { raw = readFileSync(f, 'utf8'); } catch { continue; }
   const v = await judgeTranslation(lang, matter(raw).content);
@@ -75,4 +88,6 @@ if (flagged.length) {
 
 writeFileSync(STORE, JSON.stringify(store, null, 1) + '\n');
 const stubborn = flagged.filter(({ lang, slug }) => (store[`${lang}/${slug}`]?.score ?? 0) >= 2).length;
-console.log(`\nTRANSLATION_GATE_SUMMARY judged=${judged} flagged=${flagged.length} fixed=${flagged.length - stubborn} stubborn=${stubborn}`);
+// judgeFailed belongs in the summary line, not only in a ⚠ that scrolls past:
+// a judge answering "unavailable" looks identical to a clean run from here.
+console.log(`\nTRANSLATION_GATE_SUMMARY judged=${judged} flagged=${flagged.length} fixed=${flagged.length - stubborn} stubborn=${stubborn} draftSkipped=${skippedDraft} judgeFailed=${judgeStats.failed}`);
