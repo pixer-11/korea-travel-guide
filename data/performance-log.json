@@ -515,5 +515,200 @@
         "delta": -20
       }
     ]
+  },
+  {
+    "week": "2026-08-16",
+    "pageviews": 452,
+    "visits": 205,
+    "top": [
+      {
+        "path": "/",
+        "views": 73
+      },
+      {
+        "path": "/ko/",
+        "views": 67
+      },
+      {
+        "path": "/ko/posts/seoul-cheonggyecheon/",
+        "views": 31
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 18
+      },
+      {
+        "path": "/ko/itinerary/",
+        "views": 13
+      },
+      {
+        "path": "/posts/hangzhou-xi-lake/",
+        "views": 7
+      },
+      {
+        "path": "/ko/destinations/south-korea/",
+        "views": 7
+      },
+      {
+        "path": "/about/",
+        "views": 6
+      },
+      {
+        "path": "/ja/",
+        "views": 5
+      },
+      {
+        "path": "/ko/posts/busan-busan-tower/",
+        "views": 5
+      },
+      {
+        "path": "/ko/regions/los-angeles/",
+        "views": 5
+      },
+      {
+        "path": "/ko/events/",
+        "views": 5
+      },
+      {
+        "path": "/ko/posts/new-york-top-of-the-rock/",
+        "views": 4
+      },
+      {
+        "path": "/es/",
+        "views": 4
+      },
+      {
+        "path": "/posts/new-orleans-new-orleans-botanical-garden/",
+        "views": 4
+      },
+      {
+        "path": "/ko/essentials/united-arab-emirates/",
+        "views": 4
+      },
+      {
+        "path": "/posts/paju-heyri-art-village/",
+        "views": 4
+      },
+      {
+        "path": "/ko/itinerary/bangkok-3-days/",
+        "views": 4
+      },
+      {
+        "path": "/posts/lyon-museum-of-fine-arts-of-lyon/",
+        "views": 3
+      },
+      {
+        "path": "/regions/hanoi/",
+        "views": 3
+      },
+      {
+        "path": "/zh/regions/yeosu/",
+        "views": 3
+      },
+      {
+        "path": "/ko/essentials/",
+        "views": 3
+      },
+      {
+        "path": "/ko/regions/busan/",
+        "views": 3
+      },
+      {
+        "path": "/destinations/vietnam/",
+        "views": 3
+      },
+      {
+        "path": "/ko/destinations/spain/",
+        "views": 3
+      },
+      {
+        "path": "/ko/posts/los-angeles-griffith-observatory/",
+        "views": 3
+      },
+      {
+        "path": "/ko/regions/seoul/",
+        "views": 3
+      },
+      {
+        "path": "/regions/da-nang/",
+        "views": 3
+      },
+      {
+        "path": "/ko/regions/new-york/",
+        "views": 3
+      },
+      {
+        "path": "/ko/destinations/united-states/",
+        "views": 3
+      }
+    ],
+    "risers": [
+      {
+        "path": "/ko/",
+        "delta": 32
+      },
+      {
+        "path": "/ko/posts/seoul-cheonggyecheon/",
+        "delta": 31
+      },
+      {
+        "path": "/ko/itinerary/",
+        "delta": 13
+      },
+      {
+        "path": "/posts/hangzhou-xi-lake/",
+        "delta": 7
+      },
+      {
+        "path": "/about/",
+        "delta": 6
+      },
+      {
+        "path": "/ja/",
+        "delta": 5
+      },
+      {
+        "path": "/ko/posts/busan-busan-tower/",
+        "delta": 5
+      },
+      {
+        "path": "/ko/regions/los-angeles/",
+        "delta": 5
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/ko/itinerary/seoul-3-days/",
+        "delta": -10
+      },
+      {
+        "path": "/pinterest-callback/",
+        "delta": -9
+      },
+      {
+        "path": "/ko/regions/",
+        "delta": -8
+      },
+      {
+        "path": "/",
+        "delta": -7
+      },
+      {
+        "path": "/posts/bordeaux-miroir-d-eau/",
+        "delta": -6
+      },
+      {
+        "path": "/posts/ho-chi-minh-city-nom/",
+        "delta": -6
+      },
+      {
+        "path": "/posts/seville-parque-de-maria-luisa/",
+        "delta": -4
+      },
+      {
+        "path": "/posts/taiyuan-shanxi-museum/",
+        "delta": -4
+      }
+    ]
   }
 ]
