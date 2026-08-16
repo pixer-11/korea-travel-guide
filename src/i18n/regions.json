@@ -7919,6 +7919,11 @@
       "blurb": "塔什干是乌兹别克斯坦的首都,也是中亚最大的城市。这里既有苏联时代遗留下来的恢弘气派——装饰华丽的地铁站、宽阔的林荫大道,以及在1966年那场毁灭性大地震后重建起来的宏伟广场,又保留着乔尔苏巴扎(Chorsu Bazaar)及周边玛哈拉(mahalla)老城巷弄里更为古老的生活节奏。作为乌兹别克斯坦的政治与交通枢纽,塔什干也是大多数旅行者进出乌兹别克斯坦的第一站和最后一站。",
       "getting": "几乎所有国际航班都降落在距市中心约12公里的塔什干国际机场(TAS);而从撒马尔罕或布哈拉前来的旅行者,则大多搭乘高速的“阿夫罗西约布”(Afrosiyob)列车抵达塔什干南站(Yuzhny)。",
       "days": "建议预留2-3天时间,用来游览地铁站、乔尔苏巴扎以及主要博物馆,之后再继续前往丝绸之路沿线的其他城市。"
+    },
+    "ko": {
+      "blurb": "우즈베키스탄의 수도이자 중앙아시아 최대 도시인 타슈켄트는 화려한 지하철역, 널찍한 대로, 그리고 1966년의 참혹한 대지진 이후 재건된 웅장한 광장 등 소비에트 시대의 위용을 간직하면서도, 초르수 바자르와 그 주변 마할라 골목길이 자아내는 옛 정취를 함께 품고 있는 도시다. 우즈베키스탄의 정치·교통 중심지답게, 대부분의 여행자에게는 이 나라를 드나드는 첫 관문이자 마지막 관문이 되어준다.",
+      "getting": "국제선 여행자는 대부분 시내에서 약 12km 떨어진 타슈켄트 국제공항(TAS)을 통해 입국하며, 사마르칸트나 부하라에서 오는 경우에는 보통 고속열차 아프로시욥을 타고 타슈켄트 남역(유즈니역)으로 도착한다.",
+      "days": "지하철 노선을 둘러보고 초르수 바자르와 주요 박물관들을 돌아본 뒤 실크로드의 다른 도시들로 이동하려면, 대략 2~3일 정도의 일정을 잡아두는 것이 좋다."
     }
   },
   "Fergana": {
@@ -7973,6 +7978,28 @@
       "blurb": "龟岛（Koh Tao，意为\"海龟岛\"）坐落于泰国湾，是一座地势起伏的小岛，如今已成为全球首屈一指的潜水学习胜地——这里水域平静清澈，各个海湾周边潜水学校云集。离开珊瑚礁区，花岗岩海岬、丛林观景台和悠闲惬意的海滩酒吧，则为小岛增添了几分粗犷气息，更像是背包客与潜水爱好者的聚集地，而非精致的度假胜地。",
       "getting": "龟岛本身没有机场，因此游客通常先飞抵泰国本岛或周边区域的枢纽机场——苏梅岛（Koh Samui）、素叻他尼（Surat Thani）或春蓬（Chumphon）——再转乘渡轮前往岛上主要门户玛哈码头（Mae Haad Pier）。最快捷的方式通常是经苏梅岛机场转乘高速双体船；而春蓬和素叻他尼则提供更实惠的航班选择，同样可衔接至该渡轮网络。",
       "days": "建议至少安排3-5天行程，这样才有足够时间完成一次潜水体验课程或开放水域潜水证书课程，并游览几处观景台和海滩；不过许多潜水爱好者更愿意在此停留一周甚至更久。"
+    }
+  },
+  "Nantou": {
+    "en": {
+      "blurb": "Nantou is Taiwan's only landlocked county, a rugged mountain heartland cradling Sun Moon Lake and more than 40 peaks above 3,000m, including Yushan, the island's tallest summit. Tea plantations, high-altitude farms, and the historic Jiji rail branch line give the county a slower, cooler character distinct from Taiwan's coastal cities.",
+      "getting": "Nantou has no airport or through main-line rail station of its own, so travellers first reach Taichung — by air or via Taichung's HSR/TRA stations — and then continue by regional bus (~1–1.5 hours) into Nantou's gateway towns like Puli or Sun Moon Lake.",
+      "days": "Plan on ~2-3 days to take in Sun Moon Lake at a relaxed pace along with one highland detour such as Cingjing Farm or Xitou."
+    },
+    "ja": {
+      "blurb": "南投は台湾で唯一海に面していない県で、日月潭を抱く険しい山岳地帯であり、台湾最高峰の玉山をはじめ標高3,000mを超える峰が40座以上そびえています。茶畑や高原の農場、そして歴史ある集集線の鉄道支線が、台湾の沿岸都市とは一味違う、ゆったりと涼やかな県の個性を生み出しています。",
+      "getting": "南投には空港も本線の鉄道駅もないため、旅行者はまず空路、あるいは台中のHSR(高鉄)やTRA(台鉄)の駅を利用して台中に入り、そこから路線バスで1〜1.5時間ほどかけて埔里や日月潭といった南投の玄関口へ向かうことになります。",
+      "days": "日月潭をゆったり楽しみつつ、清境農場や渓頭といった高原エリアへの小旅行も1か所組み込むなら、2〜3日ほどの日程を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Nantou es el único condado de Taiwán sin salida al mar, un accidentado corazón montañoso que alberga el Lago del Sol y la Luna (Sun Moon Lake) y más de 40 picos que superan los 3.000 m, entre ellos el Yushan, la cumbre más alta de la isla. Las plantaciones de té, las granjas de alta montaña y la histórica línea ferroviaria secundaria de Jiji le confieren al condado un ritmo más pausado y un clima más fresco, muy distintos al de las ciudades costeras de Taiwán.",
+      "getting": "Nantou no cuenta con aeropuerto propio ni con una estación de la línea principal de tren, por lo que los viajeros deben llegar primero a Taichung —en avión o a través de las estaciones de HSR/TRA de Taichung— y luego continuar en autobús regional (aproximadamente 1 a 1,5 horas) hasta las localidades de acceso a Nantou, como Puli o el Lago del Sol y la Luna.",
+      "days": "Se recomienda reservar unos 2 o 3 días para recorrer el Lago del Sol y la Luna con calma, sumando además una escapada a las tierras altas, como la Granja Cingjing o Xitou."
+    },
+    "zh": {
+      "blurb": "南投是台湾唯一不靠海的县份,群山环抱、地势崎岖,日月潭静卧其间,境内还有40多座海拔3000米以上的高峰,其中就包括全岛最高峰玉山。茶园遍布山坡,高山农场星罗棋布,加上历史悠久的集集支线铁路,让南投多了几分悠然清凉的气质,与台湾沿海城市的繁华截然不同。",
+      "getting": "南投境内没有机场,也没有干线铁路车站,因此旅客通常需要先抵达台中——搭乘飞机,或利用台中的高铁、台铁车站——再转乘客运(车程约1~1.5小时),前往埔里、日月潭等南投的门户城镇。",
+      "days": "建议安排2~3天行程,以悠闲的步调游览日月潭,再顺道前往清境农场或溪头等高山景点走一走。"
     }
   }
 }

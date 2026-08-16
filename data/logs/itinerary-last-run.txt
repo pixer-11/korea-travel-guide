@@ -7,8 +7,7 @@ Seoul, South Korea — 14 qualifying post(s), variants: 3
   = Seoul 3d — unchanged, skipping
 
 Tokyo, Japan — 13 qualifying post(s), variants: 3
-  ~ Tokyo 3d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Tokyo 3d — updated
+  = Tokyo 3d — unchanged, skipping
 
 Bangkok, Thailand — 19 qualifying post(s), variants: 3
   = Bangkok 3d — unchanged, skipping
@@ -26,7 +25,7 @@ Singapore, Singapore — 44 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

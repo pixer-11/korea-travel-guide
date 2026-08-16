@@ -5516,11 +5516,11 @@
   "at": "2026-08-15T02:47:51.648Z"
  },
  "ja/busan-museum-1": {
-  "hash": "2cb2da77fbf2",
+  "hash": "ace5ed35985b",
   "score": 1,
   "registerBreak": false,
-  "worst": "センタムシティは、多くの旅行者にとって本格的なアートスポットがあるとは思いもよらない場所です。",
-  "at": "2026-08-15T02:47:58.182Z"
+  "worst": "千件を優に超える来館者からの評価をもとにした4.3前後という評点を見ても、商業地区の一角にありながら本格的な美術館としての魅力をしっかり備えていることがうかがえます。",
+  "at": "2026-08-16T09:07:51.397Z"
  },
  "ja/cameron-highlands-mossy-forest": {
   "hash": "d639dffb40d2",
@@ -12173,11 +12173,11 @@
   "at": "2026-08-15T03:16:45.251Z"
  },
  "es/busan-museum-1": {
-  "hash": "8bcce0bb485f",
+  "hash": "eb7f6066125f",
   "score": 1,
   "registerBreak": false,
-  "worst": "El edificio en sí es bajo y acristalado frente a las torres que lo rodean",
-  "at": "2026-08-15T03:16:45.897Z"
+  "worst": "Consulta nuestra [política editorial](/about).",
+  "at": "2026-08-16T09:07:48.532Z"
  },
  "es/busan-haedong-yonggungsa-temple": {
   "hash": "ccd679889d01",
@@ -29461,5 +29461,243 @@
   "registerBreak": false,
   "worst": "军械库：陈列着刀剑、弩弓和一整套一整套的板甲",
   "at": "2026-08-16T08:22:42.469Z"
+ },
+ "es/baguio-oh-my-gulay": {
+  "hash": "84043c74ae0a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al llegar arriba, ya se ha olvidado que ese mismo edificio también alberga una fotocopiadora.",
+  "at": "2026-08-16T09:14:29.748Z"
+ },
+ "es/beijing-national-museum-of-china": {
+  "hash": "cf08a16ea9db",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El pago apenas entra en juego, ya que la entrada no cuesta nada, aunque las exposicione",
+  "at": "2026-08-16T09:14:31.464Z"
+ },
+ "es/central-cupping-room-central": {
+  "hash": "e709cb7084d7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "así que si se distingue un natural etíope de un lavado colombiano, aquí los baristas estarán encantados",
+  "at": "2026-08-16T09:09:22.251Z"
+ },
+ "es/guangzhou-guangdong-museum": {
+  "hash": "c26ce9f95b98",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Solo el edificio ya justifica la caminata.",
+  "at": "2026-08-16T09:09:23.945Z"
+ },
+ "es/jaipur-albert-hall-museum": {
+  "hash": "11f4cd386862",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "sin cierre semanal, así que hay flexibilidad de horarios.",
+  "at": "2026-08-16T09:09:27.518Z"
+ },
+ "es/kolkata-indian-museum": {
+  "hash": "19abc4d9447d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Se viene por la momia, pero uno se queda por todo lo demás",
+  "at": "2026-08-16T09:09:29.292Z"
+ },
+ "es/lantau-island-po-lin-monastery-restaurant": {
+  "hash": "8de06082ed10",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "no espere servicio de mesa ni una carta, ya que así funciona realmente el sistema aquí",
+  "at": "2026-08-16T09:09:30.985Z"
+ },
+ "es/new-delhi-national-museum-new-delhi": {
+  "hash": "285cd251199b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El error más común entre quienes",
+  "at": "2026-08-16T09:09:32.954Z"
+ },
+ "es/udaipur-maharana-pratap-museum": {
+  "hash": "c379228b1d0c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "cuya lealtad y muerte en combate los guías del lugar siguen narrando con verdadera emoción",
+  "at": "2026-08-16T09:09:34.613Z"
+ },
+ "ja/baguio-oh-my-gulay": {
+  "hash": "7597b4fd397a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "空いている状態に近い店内を楽しみたいなら、平日の午後7時から8時の間を狙いましょう。この時間帯が、はっきりと一番の穴場です。",
+  "at": "2026-08-16T09:14:36.216Z"
+ },
+ "ja/beijing-national-museum-of-china": {
+  "hash": "5965aa4b6e6e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "入場が無料であるがゆえに、誰にとってもわざわざ訪問を諦める経済的な理由がありません。",
+  "at": "2026-08-16T09:09:59.949Z"
+ },
+ "ja/central-cupping-room-central": {
+  "hash": "94dd1e36a7e5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "まだ知られざる穴場というわけではないので、貸切のような静けさを期待するのは禁物です。",
+  "at": "2026-08-16T09:10:01.533Z"
+ },
+ "ja/guangzhou-guangdong-museum": {
+  "hash": "4ec150451f2c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "陶磁器続きの目にちょうどよい変化となり、意外なほど見応えがあります。",
+  "at": "2026-08-16T09:10:04.651Z"
+ },
+ "ja/jaipur-albert-hall-museum": {
+  "hash": "980108a338c2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ラジャスタン細密画、ムガル時代の絨毯、真鍮や金属工芸品のギャラリーを巡っていくと、やがて来館者に一番人気の展示にたどり着きます。",
+  "at": "2026-08-16T09:10:07.410Z"
+ },
+ "ja/kolkata-indian-museum": {
+  "hash": "c5cba710412c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "目当てはミイラだとしても、実際に足を運べばそれ以外の展示にも夢中になるはずです。",
+  "at": "2026-08-16T09:10:09.558Z"
+ },
+ "ja/lantau-island-po-lin-monastery-restaurant": {
+  "hash": "7ab8381a8c2a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "主要な観光名所そのものに比べるとこのレストラン自体はさほど混雑しないため、ケーブルカーが開いた直後の午前遅めの時間帯に訪れると",
+  "at": "2026-08-16T09:10:16.055Z"
+ },
+ "ja/new-delhi-national-museum-new-delhi": {
+  "hash": "50f75f84cb30",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "というのも、このギャラリーは主要な観光動線から少し外れた場所にあるからです。",
+  "at": "2026-08-16T09:10:17.659Z"
+ },
+ "ja/udaipur-maharana-pratap-museum": {
+  "hash": "af8d9cf99e7c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "その忠誠心と戦場での最期は、現地のガイドによって今なお感情のこもった語り口で伝えられています。",
+  "at": "2026-08-16T09:10:23.998Z"
+ },
+ "ko/baguio-oh-my-gulay": {
+  "hash": "2a2825c48868",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가장 좋은 의미로 어수선한데, 천천히 둘러볼수록 보람이 있는 그런 종류의 어수선함입니다.",
+  "at": "2026-08-16T09:10:25.991Z"
+ },
+ "ko/beijing-national-museum-of-china": {
+  "hash": "3181aed38157",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 지구상에서 손꼽히는 규모의 박물관인데도, 바로 바깥의 광장에 비하면 어쩐지 방문객이 적은 편입니다.",
+  "at": "2026-08-16T09:10:28.438Z"
+ },
+ "ko/central-cupping-room-central": {
+  "hash": "f56a60140510",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 숨겨진 명소로 분류되는 곳이 아니므로 혼자 독차지할 수 있는 공간을 기대하기는 어렵지만, 평일 이른 아침",
+  "at": "2026-08-16T09:10:35.073Z"
+ },
+ "ko/guangzhou-guangdong-museum": {
+  "hash": "31456165ec60",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "건물만으로도 발걸음을 옮길 가치가 충분합니다.",
+  "at": "2026-08-16T09:10:36.926Z"
+ },
+ "ko/jaipur-albert-hall-museum": {
+  "hash": "f99b577c7656",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "정작 좋은 직물과 무기 컬렉션은 대부분의 사람들이 발길을 돌리는 지점을 지난 위층에 있습니다.",
+  "at": "2026-08-16T09:10:41.495Z"
+ },
+ "ko/kolkata-indian-museum": {
+  "hash": "fe7d8e032a0a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "미라를 보러 왔다가 그 외 모든 것에 빠져 머물게 됩니다.",
+  "at": "2026-08-16T09:10:45.928Z"
+ },
+ "ko/new-delhi-national-museum-new-delhi": {
+  "hash": "d3dafe1c4d5c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 세계 어디에 내놓아도 손꼽힐 만큼 방대한 인도 미술과 고고학 유물을 소장하고 있으며, 그 명성은 관람을 시작하자마자 실감",
+  "at": "2026-08-16T09:14:55.233Z"
+ },
+ "ko/udaipur-maharana-pratap-museum": {
+  "hash": "d4756bdcb77c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-16T09:11:37.868Z"
+ },
+ "zh/baguio-oh-my-gulay": {
+  "hash": "9d5211a2db9d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这地方你抬头往前看是找不到的。",
+  "at": "2026-08-16T09:11:39.541Z"
+ },
+ "zh/beijing-national-museum-of-china": {
+  "hash": "eb5a9ee0f71d",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "从新石器时代的陶器到清代的宫廷服饰应有尽有,展厅之大,脚步声在大理石地面上都能回响。",
+  "at": "2026-08-16T09:12:00.271Z"
+ },
+ "zh/central-cupping-room-central": {
+  "hash": "7f4f77144a10",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里并非什么鲜为人知的秘密地点...确实是实实在在能避开人潮的好办法，而不是什么秘诀。",
+  "at": "2026-08-16T09:12:29.536Z"
+ },
+ "zh/guangzhou-guangdong-museum": {
+  "hash": "6f59932c550d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "馆内的藏品水准,远超它并不算多的评价数所暗示的分量。",
+  "at": "2026-08-16T09:12:37.376Z"
+ },
+ "zh/jaipur-albert-hall-museum": {
+  "hash": "dd3236b379a0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里的藏品堪称一座名副其实的珍奇柜,历经一百多年积累而成。",
+  "at": "2026-08-16T09:12:39.418Z"
+ },
+ "zh/kolkata-indian-museum": {
+  "hash": "3b162567ed4e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "游客最常犯的错误就是选在周一到访,以为这么有名的博物馆理应天天开放。事实并非如此。",
+  "at": "2026-08-16T09:12:41.065Z"
+ },
+ "zh/new-delhi-national-museum-new-delhi": {
+  "hash": "db65355fdd1f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这座博物馆本身名气很大、游客众多，并不是什么小众秘境,所以真正的本地诀窍不在于发现它,而在于挑对时间",
+  "at": "2026-08-16T09:13:12.017Z"
+ },
+ "zh/udaipur-maharana-pratap-museum": {
+  "hash": "f9c9ecdc64dc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "哈尔迪加蒂(Haldighati)之名源于脚下那片姜黄色的土壤,站在这片赭黄色大地向阿拉瓦利山脉延伸的地方",
+  "at": "2026-08-16T09:13:14.184Z"
  }
 }
