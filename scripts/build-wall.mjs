@@ -70,14 +70,22 @@ async function main() {
 
   const manifest = [];
   let made = 0, cached = 0, failed = 0;
+  // Focus → thumb re-cut bookkeeping. The thumb NAME must stay the plain URL
+  // hash: src/lib/wall.ts (thumbOr) looks thumbs up by that name at build
+  // time, and a name that also carried the focus made every focused hero's
+  // card fall back to the full-size original for one deploy (2026-08-16,
+  // caught by the weekly audit's WALL THUMB check). So the focus a thumb was
+  // cut with is recorded in a sidecar map, and a hero whose stored focus
+  // differs from the sidecar's is re-cut under the SAME name.
+  const CUT_WITH = join(OUT_DIR, '.cut-with.json');
+  const cutWith = existsSync(CUT_WITH) ? JSON.parse(await readFile(CUT_WITH, 'utf8')) : {};
+  const focusKey = (f) => (f ? `${f.x},${f.y}` : '');
   for (const { url, focus } of urls) {
-    // The thumb's name carries the focal point, so a hero that GAINS a stored
-    // focus (the vision gate now reports one) is re-cut instead of served
-    // from the old centre/attention crop forever.
-    const name = `${hash(focus ? `${url}#${focus.x},${focus.y}` : url)}.webp`;
+    const name = `${hash(url)}.webp`;
     const outPath = join(OUT_DIR, name);
     const publicPath = `/wall/${name}`;
-    if (existsSync(outPath)) { manifest.push(publicPath); cached++; continue; }
+    const stale = existsSync(outPath) && (cutWith[name] ?? '') !== focusKey(focus);
+    if (existsSync(outPath) && !stale) { manifest.push(publicPath); cached++; continue; }
     try {
       let buf;
       if (url.startsWith('/')) {
@@ -113,6 +121,7 @@ async function main() {
         .resize(640, 427, { fit: 'cover', position })
         .webp({ quality: 72 })
         .toFile(outPath);
+      cutWith[name] = focusKey(focus);
       manifest.push(publicPath);
       made++;
       console.log(`  ✓ ${name}`);
@@ -123,6 +132,7 @@ async function main() {
     }
   }
 
+  await writeFile(CUT_WITH, JSON.stringify(cutWith, null, 0) + '\n', 'utf8');
   await writeFile(MANIFEST, JSON.stringify({ images: manifest }, null, 2) + '\n', 'utf8');
   console.log(`\n📦  ${made} made · ${cached} cached · ${failed} failed → ${manifest.length} in manifest\n`);
 

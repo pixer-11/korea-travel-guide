@@ -1,63 +1,36 @@
 ---
 title: 'BTS World Tour: What to Know (Foxborough)'
-description: >-
-  BTS World Tour in Foxborough, United States — August 5-6 (Foxborough) and
-  August 15-16, 2026 (Arlington). What it is, when and where, and how to plan
-  around it.
+description: BTS World Tour in Foxborough, United States — August 5-6 (Foxborough) and August 15-16, 2026 (Arlington). What it is, when and where, and how to plan around it.
 country: United States
 region: Foxborough
 category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-05'
-eventEndDate: '2026-08-16'
+eventEndDate: '2026-08-06'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg/1920px-BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg/1920px-BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_01.jpg
   credit: 'Photo: I DARE U JK / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_01.jpg
+  source: https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_01.jpg
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - foxborough
   - event
-quickAnswer: >-
-  BTS plays Gillette Stadium in Foxborough, Massachusetts on August 5–6, 2026,
-  part of a 79-date world tour and the group's first global run since completing
-  military service. Tickets, set times, and gate details will come from the
-  official BTS/HYBE and Gillette Stadium channels — confirm those before booking
-  travel. Plan to arrive early, expect a stadium-scale crowd, and book nearby
-  Boston-area lodging well ahead since a two-night stand will strain local hotel
-  inventory.
+quickAnswer: BTS plays Gillette Stadium in Foxborough, Massachusetts on August 5–6, 2026, part of a 79-date world tour and the group's first global run since completing military service. Tickets, set times, and gate details will come from the official BTS/HYBE and Gillette Stadium channels — confirm those before booking travel. Plan to arrive early, expect a stadium-scale crowd, and book nearby Boston-area lodging well ahead since a two-night stand will strain local hotel inventory.
 faq:
   - q: What are the confirmed dates for BTS at Gillette Stadium?
-    a: >-
-      August 5–6, 2026, as part of a 79-date world tour. Always double-check the
-      exact dates and any schedule changes on BTS's official tour site or
-      Gillette Stadium's event calendar before booking.
+    a: August 5–6, 2026, as part of a 79-date world tour. Always double-check the exact dates and any schedule changes on BTS's official tour site or Gillette Stadium's event calendar before booking.
   - q: How do I get to Gillette Stadium without a car?
-    a: >-
-      MBTA commuter rail runs special event trains from Boston's South Station
-      to the Foxboro station on major event days, with about a mile walk to the
-      stadium. Confirm the event-day train schedule closer to the date.
+    a: MBTA commuter rail ran special event trains from Boston's South Station to the Foxboro station on major event days, with about a mile walk to the stadium.
   - q: Where should I stay if Foxborough hotels are full?
-    a: >-
-      Consider Providence, RI, or the Boston/Norwood/Dedham area and drive or
-      train in, especially since this is a two-night stand that will pressure
-      nearby lodging.
+    a: Consider Providence, RI, or the Boston/Norwood/Dedham area and drive or train in, especially since this is a two-night stand that will pressure nearby lodging.
   - q: How early should I arrive on show day?
-    a: >-
-      Plan to arrive a few hours before the announced set time for security
-      screening and merchandise lines, which move slowly for major tours. Exact
-      gate times aren't set yet, so check official updates closer to August
-      2026.
+    a: Plan to arrive a few hours before the announced set time for security screening and merchandise lines, which move slowly for major tours. Exact gate times aren't set yet, so check official updates closer to August 2026.
   - q: Is this the same tour stopping elsewhere in the US?
-    a: >-
-      Yes — after Foxborough, the tour continues to AT&T Stadium in Arlington,
-      Texas on August 15–16, 2026, as part of the same 79-date global run.
+    a: Yes — after Foxborough, the tour continues to AT&T Stadium in Arlington, Texas on August 15–16, 2026, as part of the same 79-date global run.
 aiGenerated: true
 draft: false
 eventRecurring: false
