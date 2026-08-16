@@ -25,6 +25,7 @@ faq:
 aiGenerated: true
 photoless: true
 eventRecurring: true
+draft: true
 ---
 ## Why this event matters
 

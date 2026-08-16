@@ -25,6 +25,14 @@ faq:
 aiGenerated: true
 photoless: true
 eventRecurring: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/BOYS_FOREVER_%2830743338035%29.jpg
+  credit: 'Photo: Paul Hudson from United Kingdom / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:BOYS_FOREVER_(30743338035).jpg
+  focus:
+    x: 30
+    'y': 30
 ---
 ## Why this show matters
 

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Lee Hi – 808 HI Recordings World Tour 2026: What to Know (Jakarta)'
 description: Lee Hi – 808 HI Recordings World Tour 2026 in Jakarta, Indonesia — August 9, 2026. What it is, when and where, and how to plan around it.
 country: Indonesia
@@ -8,7 +7,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-09'
 eventEndDate: '2026-08-09'
-gallery: []
 tags:
   - jakarta
   - event
@@ -26,6 +24,15 @@ faq:
     a: Ticket prices and sale dates weren't specified in the initial announcement. Tickets were sold through the official promoter or verified ticketing platform, and buyers were advised to avoid early resale listings to steer clear of scalped or fake tickets.
 aiGenerated: true
 eventRecurring: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Lee_Hi_on_May_15%2C_2012.jpg
+  credit: 'Photo: rokiei (also called 토끼이, see far right bottom of the source blog page) / Wikimedia Commons (CC BY 2.0 kr)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lee_Hi_on_May_15,_2012.jpg
+  focus:
+    x: 42
+    'y': 20
+draft: true
 ---
 ## Why this show matters
 
