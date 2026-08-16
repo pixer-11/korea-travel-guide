@@ -1,7 +1,9 @@
 ---
-draft: true
+draft: false
 title: 'Quick Style India Tour 2026: What to Know (Chandigarh)'
-description: Quick Style India Tour 2026 in Chandigarh, India — August 29, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Quick Style India Tour 2026 in Chandigarh, India — August 29, 2026. What it
+  is, when and where, and how to plan around it.
 country: India
 region: Chandigarh
 category: event
@@ -12,18 +14,40 @@ gallery: []
 tags:
   - chandigarh
   - event
-quickAnswer: Quick Style, the Norwegian dance trio famous for viral street-style routines, brings its 2026 India tour to Chandigarh on August 29, 2026, following stops in Delhi, Mumbai and Bengaluru. Venue, exact showtime and ticket links have not been locked in publicly yet, so treat August 29 as the date to plan around and confirm everything else — venue, gate time, ticket tiers — on Quick Style's official channels and authorized ticketing partners closer to the date.
+quickAnswer: >-
+  Quick Style, the Norwegian dance trio famous for viral street-style routines,
+  brings its 2026 India tour to Chandigarh on August 29, 2026, following stops
+  in Delhi, Mumbai and Bengaluru. Venue, exact showtime and ticket links have
+  not been locked in publicly yet, so treat August 29 as the date to plan around
+  and confirm everything else — venue, gate time, ticket tiers — on Quick
+  Style's official channels and authorized ticketing partners closer to the
+  date.
 faq:
   - q: Is the venue for the Chandigarh show confirmed?
-    a: Not publicly as of now — only the city and date (August 29, 2026) have been announced. Check Quick Style's official channels for the venue once it's released before booking hotels or transport.
+    a: >-
+      Not publicly as of now — only the city and date (August 29, 2026) have
+      been announced. Check Quick Style's official channels for the venue once
+      it's released before booking hotels or transport.
   - q: How do I get tickets?
-    a: No official ticketing partner or price has been confirmed yet for Chandigarh. Wait for Quick Style's official announcement and buy only through their named authorized platform to avoid inflated resale listings.
+    a: >-
+      No official ticketing partner or price has been confirmed yet for
+      Chandigarh. Wait for Quick Style's official announcement and buy only
+      through their named authorized platform to avoid inflated resale listings.
   - q: How do I get to Chandigarh for the show?
-    a: Fly into Chandigarh International Airport (IXC) from major Indian cities, or take the train/bus from Delhi (roughly 4-5 hours by road via NH44) into Chandigarh Railway Station or Sector 43 ISBT.
+    a: >-
+      Fly into Chandigarh International Airport (IXC) from major Indian cities,
+      or take the train/bus from Delhi (roughly 4-5 hours by road via NH44) into
+      Chandigarh Railway Station or Sector 43 ISBT.
   - q: What else can I do in Chandigarh around the concert?
-    a: Sukhna Lake, the Rock Garden, and Le Corbusier's Capitol Complex are all classic half-day visits — best done in the morning given Chandigarh's August heat and humidity, leaving the evening free for the show.
+    a: >-
+      Sukhna Lake, the Rock Garden, and Le Corbusier's Capitol Complex are all
+      classic half-day visits — best done in the morning given Chandigarh's
+      August heat and humidity, leaving the evening free for the show.
   - q: When should I plan to arrive on show day?
-    a: Exact doors/showtime aren't public yet. Once announced, plan to arrive well before the stated start time, since major stops on this tour have drawn large, fast-moving crowds.
+    a: >-
+      Exact doors/showtime aren't public yet. Once announced, plan to arrive
+      well before the stated start time, since major stops on this tour have
+      drawn large, fast-moving crowds.
 aiGenerated: true
 eventRecurring: false
 ---
