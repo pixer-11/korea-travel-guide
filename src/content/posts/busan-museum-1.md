@@ -1,13 +1,13 @@
 ---
-title: 'MUSEUM 1: Busan Travel Guide (4.3★)'
+title: "MUSEUM 1: Busan Travel Guide (4.3★)"
 description: MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. 4.3★ (1,545 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Busan
 category: attraction
-pubDate: '2026-08-05T11:39:35.238Z'
+pubDate: "2026-08-05T11:39:35.238Z"
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%EB%B4%84_Busan_Museum_of_Movies.jpg/1920px-%EB%B4%84_Busan_Museum_of_Movies.jpg
-  credit: 'Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)'
+  credit: "Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:%EB%B4%84_Busan_Museum_of_Movies.jpg
 gallery: []
@@ -26,10 +26,8 @@ place:
     weekdayQuiet:
       - 10
       - 18
-      - 19
     weekendQuiet:
       - 10
-      - 20
     weekendBusy:
       - 12
       - 13
@@ -38,15 +36,24 @@ place:
       - 16
       - 17
     venueId: ven_38426349523239324b434352554461545369313946644d4a496843
+  phone: +82 51-731-3393
+  openingHours:
+    - "Monday: 10:00 AM – 7:00 PM"
+    - "Tuesday: 10:00 AM – 7:00 PM"
+    - "Wednesday: 10:00 AM – 7:00 PM"
+    - "Thursday: 10:00 AM – 7:00 PM"
+    - "Friday: 10:00 AM – 7:00 PM"
+    - "Saturday: 10:00 AM – 8:00 PM"
+    - "Sunday: 10:00 AM – 8:00 PM"
 tags:
   - busan
   - museum
-quickAnswer: MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. Go on a weekday between 10am and 8pm for the calmest galleries, and if you can only manage a weekend, aim for the morning or evening rather than the noon-to-6pm rush. Budget about 90 minutes to two hours to see the collection properly.
+quickAnswer: MUSEUM 1 is a contemporary art and design space in Haeundae's Centum City, best paired with a Shinsegae Centum City / BEXCO afternoon. Go on a weekday between 10am and 7pm for the calmest galleries, and if you can only manage a weekend, aim for the morning or evening rather than the noon-to-6pm rush. Budget about 90 minutes to two hours to see the collection properly.
 faq:
   - q: How do I get to MUSEUM 1 without a car?
     a: Take Busan Metro Line 2 to Centum City Station; the underground concourse connects directly to the Centum City complex, so you can walk there indoors from the station.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm across the whole 10am–8pm window. On weekends the museum stays open until 9pm and is quietest in the morning or after 6pm — avoid the noon-to-6pm stretch, when crowds peak.
+    a: Weekdays are calm across the whole 10am–7pm window. On weekends the museum stays open until 8pm and is quietest in the morning or after 6pm — avoid the noon-to-6pm stretch, when crowds peak.
   - q: How long should I plan to spend there?
     a: Around 90 minutes to two hours is enough to see the current exhibitions without rushing.
   - q: What's nearby if I want to make a half-day of it?
@@ -79,7 +86,7 @@ Because the program changes, it's worth checking what's currently on before you 
 
 ## When to go
 
-The crowd data here is genuinely useful: on weekdays, things stay calm across the entire 10am–8pm stretch, so there's no real rush hour to dodge. Weekends are a different story — the museum runs quieter from 10am to 9pm overall, but a distinct crush builds between noon and 6pm as day-trippers combine a museum visit with Centum City shopping. If a weekend is your only option, aim for right at opening or push your visit into the early evening after 6pm, when the galleries empty out again and you get more room to actually look at the work instead of shuffling past it.
+The crowd data here is genuinely useful: on weekdays, things stay calm across the entire 10am–7pm stretch, so there's no real rush hour to dodge. Weekends are a different story — the museum runs quieter from 10am to 8pm overall, but a distinct crush builds between noon and 6pm as day-trippers combine a museum visit with Centum City shopping. If a weekend is your only option, aim for right at opening or push your visit into the early evening after 6pm, when the galleries empty out again and you get more room to actually look at the work instead of shuffling past it.
 
 ## Pairing it with the neighborhood
 
