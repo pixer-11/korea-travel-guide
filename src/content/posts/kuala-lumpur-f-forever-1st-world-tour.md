@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'F✦FOREVER 1st World Tour: What to Know (Kuala Lumpur)'
 description: F✦FOREVER 1st World Tour in Kuala Lumpur, Malaysia — August 7, 2026. What it is, when and where, and how to plan around it.
 country: Malaysia
@@ -8,7 +7,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-07'
-gallery: []
 tags:
   - kuala lumpur
   - event
@@ -25,6 +23,7 @@ faq:
   - q: Where's a good base for travelers coming just for this show?
     a: Central KL areas like Bangsar, Mid Valley, or near KL Sentral offer easy LRT or car access to Bukit Jalil, plus more hotel and dining options than the immediate venue area.
 aiGenerated: true
+photoless: true
 eventRecurring: false
 ---
 ## Why this show matters

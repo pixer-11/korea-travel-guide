@@ -1,8 +1,6 @@
 ---
 title: 'Pestapora 2026: What to Know (Jakarta)'
-description: >-
-  Pestapora 2026 runs September 25–27, 2026 in Jakarta, marking the festival's
-  fifth edition.
+description: Pestapora 2026 runs September 25–27, 2026 in Jakarta, marking the festival's fifth edition.
 country: Indonesia
 region: Jakarta
 category: event
@@ -13,43 +11,20 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: >-
-  Pestapora 2026 runs September 25–27, 2026 in Jakarta, marking the festival's
-  fifth edition. It's a multi-day, multi-stage Indonesian music festival
-  organized by Boss Creator, drawing large crowds from across Indonesia and the
-  wider Southeast Asia region — expect to book flights, hotels, and tickets well
-  ahead. Always confirm the exact venue, set times, lineup, and ticket tiers on
-  Pestapora's official channels closer to the date, since these details are
-  typically released in phases.
+quickAnswer: Pestapora 2026 runs September 25–27, 2026 in Jakarta, marking the festival's fifth edition. It's a multi-day, multi-stage Indonesian music festival organized by Boss Creator, drawing large crowds from across Indonesia and the wider Southeast Asia region — expect to book flights, hotels, and tickets well ahead. Always confirm the exact venue, set times, lineup, and ticket tiers on Pestapora's official channels closer to the date, since these details are typically released in phases.
 faq:
   - q: What are the confirmed dates for Pestapora 2026?
-    a: >-
-      September 25, 26, and 27, 2026, in Jakarta — this will be the festival's
-      fifth edition. Venue and daily schedules haven't been confirmed publicly
-      yet, so check the official Pestapora channels closer to the date.
+    a: September 25, 26, and 27, 2026, in Jakarta — this will be the festival's fifth edition. Venue and daily schedules haven't been confirmed publicly yet, so check the official Pestapora channels closer to the date.
   - q: How do I get to the festival from the airport?
-    a: >-
-      From Soekarno-Hatta (CGK), take the Railink Airport Train to BNI City or
-      the Damri bus into central Jakarta, then connect via MRT or TransJakarta
-      to reach the venue area — this avoids the worst of Jakarta's road traffic.
+    a: From Soekarno-Hatta (CGK), take the Railink Airport Train to BNI City or the Damri bus into central Jakarta, then connect via MRT or TransJakarta to reach the venue area — this avoids the worst of Jakarta's road traffic.
   - q: How much do tickets cost?
-    a: >-
-      Pricing hasn't been announced for 2026. Past editions used tiered
-      single-day and full-weekend passes with early-bird pricing, so watch
-      Pestapora's official ticketing announcements rather than buying from
-      resellers.
+    a: Pricing hasn't been announced for 2026. Past editions used tiered single-day and full-weekend passes with early-bird pricing, so watch Pestapora's official ticketing announcements rather than buying from resellers.
   - q: Is September a good time to visit Jakarta?
-    a: >-
-      Late September sits in a transitional period between Jakarta's dry and wet
-      seasons, so pack light rain protection along with warm-weather clothing
-      for a comfortable three-day outdoor festival experience.
+    a: Late September sits in a transitional period between Jakarta's dry and wet seasons, so pack light rain protection along with warm-weather clothing for a comfortable three-day outdoor festival experience.
   - q: Do I need a visa to attend as an international visitor?
-    a: >-
-      Requirements depend on nationality; Indonesia offers visa-on-arrival and
-      e-visa options for many countries, but confirm current rules with an
-      official Indonesian immigration source before booking flights.
+    a: Requirements depend on nationality; Indonesia offers visa-on-arrival and e-visa options for many countries, but confirm current rules with an official Indonesian immigration source before booking flights.
 aiGenerated: true
-draft: false
+draft: true
 eventRecurring: true
 photoless: true
 ---

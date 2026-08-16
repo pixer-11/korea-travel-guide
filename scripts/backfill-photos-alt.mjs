@@ -243,11 +243,30 @@ for (const f of files) {
       let file = String(url).split('/').pop() || '';
       try { file = decodeURIComponent(file); } catch {}
       const ft = tokens(file.replace(/\.(jpe?g|png)\b.*$/i, ''));
-      if (anchor && ft.includes(anchor)) return '';
-      return ft
+      const leftovers = ft
         .filter((t) => !knownTok.has(t) && !GENERIC_FILE_WORDS.has(t))
-        .filter((t) => !/^\d+(px)?$/.test(t))
-        .join(' ');
+        .filter((t) => !/^\d+(px)?$/.test(t));
+      // The anchor in the filename used to settle identity outright. It
+      // settled it wrongly twice on 2026-08-16: "After_Forever_Circo_Voador"
+      // (a different band whose name contains the anchor "forever") headed
+      // the F✦FOREVER tour, and a football-type anchor let
+      // "Boys_playing_street_football_in_Egypt" head Hong Kong's football
+      // festival — vision then ASSERTED "Hong Kong plaza" and "F✦FOREVER
+      // stage", the known blind spot. An anchor that is a real proper noun
+      // (bts, babymonster, bigbang, plk) is identity enough; a COMMON word
+      // used as anchor (forever, football, super, moon) is not — for those,
+      // any leftover token that looks like a name (not a stop-word, not the
+      // type) is a foreign identity and the file is refused.
+      const COMMON_ANCHOR = /^(forever|football|soccer|super|moon|open|autumn|spring|summer|winter|snooker|festival|fest|cup|final|live|show|night|day|street|park|city|world|music|art|food|film|beer|wine|light|fire|water|sea|lake|river|hill|mountain|garden|market)$/;
+      const anchorIsName = anchor && !COMMON_ANCHOR.test(anchor);
+      if (anchorIsName && ft.includes(anchor)) return '';
+      // A common-word anchor that IS the sport ("snooker", "football") is
+      // still identity when the file is about that sport and names one
+      // extra thing — a player ("Snooker_table_selby": Mark Selby, fine for
+      // a snooker tournament page). Two or more leftovers is a scene
+      // described elsewhere ("boys playing street … egypt") and refused.
+      if (anchor && ft.includes(anchor) && leftovers.length <= 1) return '';
+      return leftovers.join(' ');
     };
     const seen = new Set(used);
     for (let i = 0; i < 6; i++) {

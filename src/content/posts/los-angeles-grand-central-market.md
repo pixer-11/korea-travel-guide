@@ -6,15 +6,13 @@ region: Los Angeles
 category: hidden-gem
 pubDate: '2026-08-08T08:32:28.026Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_central_market.jpg
-  credit: 'Photo: Alossix / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grand_Central_Market_Los_Angeles_P1000560.jpg/3840px-Grand_Central_Market_Los_Angeles_P1000560.jpg
+  credit: 'Photo: NewtonCourt / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Grand_central_market.jpg
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grand_Central_Market_Los_Angeles_P1000560.jpg/3840px-Grand_Central_Market_Los_Angeles_P1000560.jpg
-    credit: 'Photo: NewtonCourt / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Grand_Central_Market_Los_Angeles_P1000560.jpg
+  source: https://commons.wikimedia.org/wiki/File:Grand_Central_Market_Los_Angeles_P1000560.jpg
+  focus:
+    x: 50
+    'y': 50
 place:
   id: ChIJ53JDjkvGwoAR2NMG6_1OnUg
   name: Grand Central Market
@@ -72,7 +70,6 @@ faq:
   - q: Is it good value?
     a: Yes — it's a budget-friendly food hall overall, with most dishes priced like casual street food rather than a sit-down restaurant.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

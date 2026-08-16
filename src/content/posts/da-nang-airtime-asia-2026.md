@@ -1,9 +1,7 @@
 ---
-draft: false
+draft: true
 title: 'Airtime Asia 2026: What to Know (Da Nang)'
-description: >-
-  Airtime Asia 2026 in Da Nang, Vietnam — August 13-16, 2026. What it is, when
-  and where, and how to plan around it.
+description: Airtime Asia 2026 in Da Nang, Vietnam — August 13-16, 2026. What it is, when and where, and how to plan around it.
 country: Vietnam
 region: Da Nang
 category: event
@@ -14,37 +12,18 @@ gallery: []
 tags:
   - da nang
   - event
-quickAnswer: >-
-  Airtime Asia 2026 runs August 13–16 in Da Nang and Hoi An, Vietnam, spreading
-  over 40 artists and 15+ venues across the two cities in a mix of club nights,
-  day parties, panel talks and radio broadcasts. Book flights into Da Nang
-  International Airport (DAD) and a place to stay in either city well ahead,
-  since venues and full lineup details are still being confirmed on the official
-  festival channels — check those before locking in tickets or a schedule.
+quickAnswer: Airtime Asia 2026 runs August 13–16 in Da Nang and Hoi An, Vietnam, spreading over 40 artists and 15+ venues across the two cities in a mix of club nights, day parties, panel talks and radio broadcasts. Book flights into Da Nang International Airport (DAD) and a place to stay in either city well ahead, since venues and full lineup details are still being confirmed on the official festival channels — check those before locking in tickets or a schedule.
 faq:
   - q: What are the exact dates of Airtime Asia 2026?
-    a: >-
-      August 13–16, 2026, held across Da Nang and Hoi An, Vietnam. Confirm on
-      the official festival site closer to the date in case of adjustments.
+    a: August 13–16, 2026, held across Da Nang and Hoi An, Vietnam. Confirm on the official festival site closer to the date in case of adjustments.
   - q: Which airport should I fly into?
-    a: >-
-      Da Nang International Airport (DAD), which has direct international
-      connections from several regional hubs in Southeast and East Asia.
+    a: Da Nang International Airport (DAD), which has direct international connections from several regional hubs in Southeast and East Asia.
   - q: Do I need to choose between staying in Da Nang or Hoi An?
-    a: >-
-      Not necessarily — the festival spans both, roughly 30–45 minutes apart by
-      car. Many attendees base themselves in one city and travel to venues in
-      the other for specific showcases.
+    a: Not necessarily — the festival spans both, roughly 30–45 minutes apart by car. Many attendees base themselves in one city and travel to venues in the other for specific showcases.
   - q: Is the lineup and venue list finalized?
-    a: >-
-      Not as of this writing. The festival is confirmed for over 40 artists
-      across 15+ venues, but specific names, stages and set times should be
-      checked on Airtime Asia's official channels before you finalize plans.
+    a: Not as of this writing. The festival is confirmed for over 40 artists across 15+ venues, but specific names, stages and set times should be checked on Airtime Asia's official channels before you finalize plans.
   - q: What's the weather like in mid-August?
-    a: >-
-      Hot, humid, and within central Vietnam's rainy season — expect brief,
-      heavy showers that usually clear fast. Pack accordingly rather than trying
-      to dodge specific days.
+    a: Hot, humid, and within central Vietnam's rainy season — expect brief, heavy showers that usually clear fast. Pack accordingly rather than trying to dodge specific days.
 aiGenerated: true
 eventRecurring: false
 ---

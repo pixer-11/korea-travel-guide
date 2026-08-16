@@ -23,17 +23,16 @@ faq:
   - q: Where's a good base for two nights of shows?
     a: Hotels in Arlington's Entertainment District, within walking distance of the stadium and Texas Live!, are the most convenient; staying in Dallas or Fort Worth means budgeting extra time for I-30 traffic before and after the show.
 aiGenerated: true
-draft: true
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d1/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_04.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/0/04/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_01.jpg
   credit: 'Photo: Viviane Costa / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil,_May_2019_04.jpg
+  source: https://commons.wikimedia.org/wiki/File:BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil,_May_2019_01.jpg
   focus:
-    x: 50
-    'y': 50
+    x: 45
+    'y': 45
 ---
 
 ## Why this show matters

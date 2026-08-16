@@ -192,6 +192,19 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
       (eventMode && properName.split(' ').length > 2
         ? await commonsBest(properName.split(' ').slice(0, 2).join(' '), { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 1 })
         : null) ||
+      // Anchor + the event's TYPE word, before the bare anchor. A lone short
+      // anchor is what Commons search does worst with: "bigbang" → the cosmic
+      // microwave background, "super" (Super Cup) → a Super Famicom, "moon"
+      // (Sun Moon Lake fireworks) → a full moon, "surprises" → Surprise,
+      // Nebraska (probe of the 20 photoless live events, 2026-08-16). The
+      // same anchor with its type attached — "bigbang concert", "moon
+      // fireworks", "super football" — lands on the act or the event, and
+      // costs no vision call on the wrong-planet candidates the bare word
+      // surfaces. mustInclude still pins the anchor, so a generic
+      // "concert" photo without the act's name cannot slip through.
+      (eventMode && anchor && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
+        ? await commonsBest(`${anchor} ${eventTopic(namedVenue).split(' ')[0]}`, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 1 })
+        : null) ||
       (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
         ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);

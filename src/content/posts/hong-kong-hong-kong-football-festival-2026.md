@@ -23,8 +23,8 @@ faq:
   - q: What's the weather like, and should I book a hotel early?
     a: Late July/early August in Hong Kong is hot, humid, and prone to thunderstorms or typhoons, though Kai Tak Stadium has a roof and cooling system. It's also peak summer tourist season, so book accommodation in Kowloon or on Hong Kong Island well in advance.
 aiGenerated: true
+photoless: true
 eventRecurring: true
-draft: true
 ---
 ## Why this event matters
 

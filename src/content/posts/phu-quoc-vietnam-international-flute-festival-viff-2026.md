@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-07-23'
 eventEndDate: '2026-07-28'
-gallery: []
 tags:
   - phu quoc
   - event
@@ -25,7 +24,14 @@ faq:
     a: July is rainy season — expect brief, heavy afternoon showers with clearer mornings. It's fine for beach and boat trips if you schedule outdoor time early in the day, but pack rain gear alongside sunscreen.
 aiGenerated: true
 eventRecurring: true
-draft: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flute_with_musicial_notes.jpg/3840px-Flute_with_musicial_notes.jpg
+  credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Flute_with_musicial_notes.jpg
+  focus:
+    x: 45
+    'y': 40
 ---
 ## Why go
 
