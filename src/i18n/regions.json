@@ -7725,6 +7725,16 @@
       "blurb": "阿尔巴沙(Al Barsha)是迪拜西区一个繁华热闹的社区,最广为人知的是购物中心Mall of the Emirates及其室内滑雪场Ski Dubai——在这座沙漠之城中,竟藏着这样一片超现实的冰雪天地,令人称奇。除了购物中心之外,该区域还拥有多座公园、从经济型到豪华型一应俱全的酒店,以及一个格外多元的餐饮场景,充分体现了迪拜庞大的外籍人口构成。",
       "getting": "迪拜地铁红线直接通达阿尔巴沙,其中Mall of the Emirates站通过一条封闭式天桥与购物中心相连,十分便捷。这条线路同时连接迪拜国际机场(DXB),从机场出发大约30分钟车程即可抵达。对于那些离地铁站稍远的酒店和景点,当地的接驳巴士和出租车可以补齐“最后一公里”的路程。",
       "days": "通常一天时间足以游览阿尔巴沙的主要景点——购物中心、Ski Dubai滑雪场,以及在阿尔巴沙池塘公园(Al Barsha Pond Park)悠闲漫步一番。不过,如果你热衷购物,不妨多留一些时间。"
+    },
+    "ko": {
+      "blurb": "알 바르샤(Al Barsha)는 두바이 서부에 위치한 활기 넘치는 지역으로, 몰 오브 더 에미레이트(Mall of the Emirates)와 그 안에 자리한 실내 스키장 스키 두바이(Ski Dubai)로 가장 잘 알려져 있습니다. 사막 도시 한복판에서 만나는 이 초현실적인 눈 세상은 그 자체로 특별한 경험을 선사하죠. 쇼핑몰을 벗어나면 곳곳에 자리한 공원들, 저렴한 숙소부터 럭셔리 호텔까지 다양한 선택지, 그리고 두바이의 다채로운 외국인 커뮤니티를 반영한 개성 넘치는 레스토랑들이 여행객을 기다리고 있습니다.",
+      "getting": "알 바르샤는 두바이 메트로 레드 라인(Red Line)이 바로 연결되는 지역으로, 몰 오브 더 에미레이트 역(Mall of the Emirates Station)은 실내 통로를 통해 쇼핑몰과 곧바로 이어집니다. 같은 레드 라인이 두바이 국제공항(DXB)까지 운행되기 때문에 공항에서 이곳까지는 약 30분 정도면 도착할 수 있습니다. 메트로 역에서 다소 떨어진 호텔이나 관광지는 피더 버스나 택시를 이용하면 마지막 구간까지 편하게 이동할 수 있습니다.",
+      "days": "알 바르샤의 핵심 명소들—쇼핑몰, 스키 두바이, 그리고 알 바르샤 폰드 파크(Al Barsha Pond Park) 산책—을 둘러보는 데는 하루 정도면 충분합니다. 다만 쇼핑을 제대로 즐기고 싶은 분들은 조금 더 여유 있게 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "アル・バルシャは、ドバイ西部に位置する活気あふれるエリアで、モール・オブ・ジ・エミレーツと、その館内にある屋内スキー場「スキー・ドバイ」で特に知られています。砂漠の街の真ん中に忽然と現れる雪景色は、まさに非日常の体験です。モール以外にも、緑豊かな公園や、手頃な価格から高級まで揃うホテル、そしてドバイの多国籍な住民層を反映した実に多彩なレストランシーンが魅力です。",
+      "getting": "アル・バルシャへはドバイ・メトロのレッドラインで直接アクセスでき、「モール・オブ・ジ・エミレーツ駅」からは屋根付きの連絡通路でモールまで直結しています。このレッドラインはドバイ国際空港(DXB)まで通じているため、空港からは所要約30分で到着可能です。メトロ駅から少し離れたホテルや観光スポットへは、フィーダーバスやタクシーが最後の移動区間をカバーしてくれます。",
+      "days": "アル・バルシャの主な見どころ――モール、スキー・ドバイ、そしてアル・バルシャ・ポンド・パークの散策――を巡るなら、基本的には1日あれば十分です。ただし、ショッピングをじっくり楽しみたい方は、もう少し時間を取ると良いでしょう。"
     }
   },
   "Danyang": {
@@ -7882,6 +7892,11 @@
       "blurb": "素可泰是暹罗的第一个首都,其历史公园完整保存了砖石灰泥结构的寺庙遗址、佛像和皇家纪念建筑群,散落在这座被联合国教科文组织列为世界遗产的古城之中。这里没有单一的核心景点,而是一片开阔、地势平坦的遗址群,最适合骑单车慢慢穿行于池塘、红土城墙与古城门之间细细探索。",
       "getting": "素可泰拥有自己的小型机场(THS),曼谷航空提供往返曼谷的航班,不过大多数游客选择陆路前往:从曼谷和清迈都有直达长途汽车,也可以先乘火车到附近的皮察努洛铁路枢纽站,再转乘巴士或出租车前往素可泰。由于素可泰本地并没有火车站,乘火车前往时,都需要经皮察努洛转乘巴士或出租车才能到达。",
       "days": "建议安排约2天时间:用一整天骑单车游览历史公园的中心区和外围区域,再留些时间安顿下来,逛逛新素可泰城区,或前往西萨查那莱等周边景点。"
+    },
+    "ko": {
+      "blurb": "수코타이는 시암 왕국 최초의 수도로, 유네스코 세계문화유산으로 등재된 옛 도시 곳곳에 벽돌과 스투코로 지어진 사원 유적, 불상, 왕실 기념물이 펼쳐져 있는 역사공원을 간직하고 있습니다. 하나의 단일 유적이라기보다는 넓고 대체로 평탄한 유적 지대가 특징이며, 연못과 라테라이트 성벽, 옛 성문들 사이를 자전거로 천천히 둘러보기에 좋습니다.",
+      "getting": "수코타이에는 자체 소규모 공항(THS)이 있어 방콕항공이 방콕과의 노선을 운항하지만, 대부분의 여행자는 육로로 이동합니다. 방콕이나 치앙마이에서 직행 버스를 이용하거나, 기차로 지역 철도 거점인 피차눌록까지 간 뒤 버스나 택시로 갈아타 수코타이까지 이동할 수 있습니다. 수코타이 시내에는 기차역이 없기 때문에, 기차를 이용할 경우 피차눌록에서 버스나 택시로 갈아타는 과정이 항상 필요합니다.",
+      "days": "대략 2일 정도를 계획하세요. 하루는 자전거로 역사공원의 중심 구역과 외곽 구역을 둘러보는 데 온전히 할애하고, 나머지 시간에는 신수코타이 지역을 둘러보거나 시사차날라이 같은 인근 유적지를 방문하며 여유롭게 머무는 것이 좋습니다."
     }
   },
   "Tashkent": {
@@ -7904,6 +7919,60 @@
       "blurb": "塔什干是乌兹别克斯坦的首都,也是中亚最大的城市。这里既有苏联时代遗留下来的恢弘气派——装饰华丽的地铁站、宽阔的林荫大道,以及在1966年那场毁灭性大地震后重建起来的宏伟广场,又保留着乔尔苏巴扎(Chorsu Bazaar)及周边玛哈拉(mahalla)老城巷弄里更为古老的生活节奏。作为乌兹别克斯坦的政治与交通枢纽,塔什干也是大多数旅行者进出乌兹别克斯坦的第一站和最后一站。",
       "getting": "几乎所有国际航班都降落在距市中心约12公里的塔什干国际机场(TAS);而从撒马尔罕或布哈拉前来的旅行者,则大多搭乘高速的“阿夫罗西约布”(Afrosiyob)列车抵达塔什干南站(Yuzhny)。",
       "days": "建议预留2-3天时间,用来游览地铁站、乔尔苏巴扎以及主要博物馆,之后再继续前往丝绸之路沿线的其他城市。"
+    }
+  },
+  "Fergana": {
+    "en": {
+      "blurb": "Fergana is the leafy, tree-lined capital of Uzbekistan's fertile Fergana Valley, a Soviet-planned city built as a garden retreat rather than an ancient Silk Road stop. It serves as the natural base for exploring the valley's real historic draws — the artisan workshops of nearby Margilan and Rishtan, and the bazaars of Kokand and Andijan.",
+      "getting": "Most travellers arrive by train from Tashkent on the daily \"Uzbekistan\" service, a scenic ~4-6 hour ride through the Kamchik mountain pass that also calls at Kokand and Margilan; Fergana International Airport (FEG) offers a faster alternative with domestic flights to Tashkent.",
+      "days": "Plan on 1-2 days in Fergana itself, enough to see the city center and use it as a springboard for day trips to the valley's craft towns and historic sites."
+    },
+    "ko": {
+      "blurb": "페르가나는 우즈베키스탄의 비옥한 페르가나 계곡에 자리한, 나무가 우거진 초록빛 중심 도시입니다. 고대 실크로드의 교역 거점이라기보다는, 소련 시절 정원 휴양지 개념으로 설계된 계획도시죠. 이곳은 계곡 지역의 진짜 역사적 볼거리 — 인근 마르길란(Margilan)과 리시탄(Rishtan)의 전통 공예 공방, 코칸드(Kokand)와 안디잔(Andijan)의 바자르 — 를 둘러보기 위한 최적의 거점 역할을 합니다.",
+      "getting": "대부분의 여행자는 타슈켄트에서 매일 운행되는 \"우즈베키스탄(Uzbekistan)\" 열차를 이용해 도착합니다. 캄칙(Kamchik) 산길을 지나는 약 4~6시간의 경치 좋은 여정으로, 코칸드와 마르길란에도 정차합니다. 좀 더 빠르게 이동하고 싶다면 페르가나 국제공항(FEG)을 통해 타슈켄트를 오가는 국내선을 이용할 수도 있습니다.",
+      "days": "페르가나 자체에서는 1~2일 정도면 충분합니다. 시내 중심가를 둘러보고, 계곡 곳곳의 공예 마을과 역사 유적지로 당일치기 여행을 떠나기에 알맞은 일정입니다."
+    },
+    "ja": {
+      "blurb": "フェルガナは、ウズベキスタン屈指の肥沃な土地、フェルガナ盆地の州都であり、緑豊かな並木道が印象的な街だ。古代シルクロードの要衝として栄えた都市というより、旧ソ連時代に庭園都市として計画的に築かれた町である。実際、フェルガナ観光の醍醐味は周辺エリアにこそある――近郊マルギランやリシタンの職人工房、そしてコーカンドやアンディジャンのバザールを巡るための拠点として、フェルガナは絶好のベースキャンプとなる。",
+      "getting": "多くの旅行者は、タシケントから毎日運行する列車「ウズベキスタン号」を利用してフェルガナ入りする。カムチク峠を越える約4~6時間の車窓の旅は景色も見どころで、途中コーカンドやマルギランにも停車する。もっと早く着きたいなら、フェルガナ国際空港（FEG）発着のタシケント便を使う手もある。",
+      "days": "フェルガナ市内自体は1~2日もあれば十分。中心部を見て回りつつ、盆地内の職人の町や史跡へ日帰りで足を延ばすための拠点として過ごすのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Fergana es la frondosa capital, llena de arbolado, del fértil valle de Fergana en Uzbekistán, una ciudad de planificación soviética concebida como un retiro ajardinado y no como una antigua parada de la Ruta de la Seda. Funciona como base natural para explorar los verdaderos atractivos históricos del valle: los talleres artesanales de las cercanas Margilán y Rishtán, y los bazares de Kokand y Andiján.",
+      "getting": "La mayoría de los viajeros llega en tren desde Tashkent con el servicio diario \"Uzbekistán\", un recorrido pintoresco de entre 4 y 6 horas que atraviesa el paso montañoso de Kamchik y que también hace parada en Kokand y Margilán; el Aeropuerto Internacional de Fergana (FEG) ofrece una alternativa más rápida, con vuelos domésticos a Tashkent.",
+      "days": "Conviene reservar entre 1 y 2 días para Fergana propiamente dicha, tiempo suficiente para recorrer el centro de la ciudad y usarla como punto de partida para excursiones de un día a los pueblos artesanales y los sitios históricos del valle."
+    },
+    "zh": {
+      "blurb": "费尔干纳是乌兹别克斯坦费尔干纳谷地这片富饶土地上的首府,城中绿树成荫、满目葱郁。与那些古丝绸之路上历经沧桑的驿站不同,这座城市是苏联时期精心规划而成的\"花园之城\"。如今,它更像是探索谷地真正历史魅力的理想据点——从附近马尔吉兰(Margilan)和里什坦(Rishtan)的传统手工作坊,到浩罕(Kokand)与安集延(Andijan)热闹的集市,皆可由此出发。",
+      "getting": "大多数旅行者选择乘坐每日往返塔什干的\"乌兹别克斯坦\"号列车前来,沿途穿越卡姆奇克山口(Kamchik),风景如画,全程约4-6小时,途中还会停靠浩罕和马尔吉兰。若想更省时,也可选择飞往费尔干纳国际机场(FEG),该机场设有往返塔什干的国内航班。",
+      "days": "建议在费尔干纳本地停留1-2天,足以逛遍市中心,并以此为起点,前往谷地周边的手工艺小镇与历史古迹展开一日游。"
+    }
+  },
+  "Koh Tao": {
+    "en": {
+      "blurb": "Koh Tao — \"Turtle Island\" — is a small, hilly speck in the Gulf of Thailand that has become one of the world's leading places to learn to dive, prized for calm, clear water and dense clusters of dive schools around its bays. Away from the reefs, granite headlands, jungle viewpoints, and laid-back beach bars give the island a scrappy, backpacker-meets-diver character rather than a polished resort feel.",
+      "getting": "There is no airport on Koh Tao, so travellers fly into a mainland or regional hub — Koh Samui, Surat Thani, or Chumphon — and then complete the trip by ferry to Mae Haad Pier, the island's main gateway. Fastest access is typically via Koh Samui airport with a high-speed catamaran crossing, while Chumphon and Surat Thani offer cheaper flight options connecting to the same ferry network.",
+      "days": "Plan on ~3-5 days as a practical minimum, enough time to complete an introductory or open-water dive course and explore a couple of viewpoints and beaches, with many divers choosing to stay a week or more."
+    },
+    "ko": {
+      "blurb": "코 타오, 일명 \"거북이 섬\"은 타이만에 자리 잡은 작고 언덕진 섬으로, 잔잔하고 맑은 바다와 만마다 빼곡히 들어선 다이빙 스쿨 덕분에 전 세계에서 손꼽히는 다이빙 입문지로 자리매김했다. 산호초를 벗어나면 화강암 곶과 정글 전망대, 여유로운 해변 바들이 펼쳐지는데, 세련된 리조트 느낌보다는 배낭여행객과 다이버들이 뒤섞인 투박하고 자유분방한 분위기가 이 섬의 매력이다.",
+      "getting": "코 타오에는 공항이 없어서, 여행객들은 코 사무이, 수랏타니, 춤폰 등 본토나 인근 거점 공항으로 먼저 비행기를 타고 이동한 뒤, 페리를 통해 섬의 주요 관문인 매핫 선착장으로 들어가야 한다. 가장 빠른 경로는 대개 코 사무이 공항을 이용해 고속 카타마란 페리로 건너가는 방법이며, 춤폰과 수랏타니는 항공권이 더 저렴하면서도 같은 페리 노선으로 연결되는 대안이다.",
+      "days": "최소한으로 잡아도 3~5일 정도는 필요한데, 이 정도면 입문 또는 오픈워터 다이빙 코스를 마치고 전망대와 해변 몇 군데를 둘러볼 수 있는 시간이다. 다이빙에 푹 빠진 여행객들은 일주일 이상 머무르는 경우도 많다."
+    },
+    "ja": {
+      "blurb": "コ・タオ——「亀の島」——は、タイ湾に浮かぶ小さく起伏に富んだ島でありながら、世界有数のダイビング修行の地として知られています。波の穏やかな透明度の高い海と、湾ごとに密集するダイビングスクールがその人気の理由です。リーフを離れれば、花崗岩の岬やジャングルの展望スポット、のんびりしたビーチバーが点在し、洗練されたリゾートというよりは、バックパッカーとダイバーが入り混じった飾らない雰囲気が島全体を包んでいます。",
+      "getting": "コ・タオには空港がないため、まずコ・サムイ、スラートターニー、チュンポンといった本土・近郊のハブ空港へ飛び、そこからフェリーで島の玄関口メーハート桟橋まで向かうことになります。最速で行きたいならコ・サムイ空港から高速カタマラン船に乗り継ぐルートが一般的で、チュンポンやスラートターニー経由なら航空券は割安になり、同じフェリー網に接続できます。",
+      "days": "目安として最低3〜5日は見ておきたいところです。体験ダイビングやオープンウォーターの講習を一通り終え、展望スポットやビーチをいくつか巡るにはそれくらいの時間が必要で、実際には1週間以上滞在するダイバーも少なくありません。"
+    },
+    "es": {
+      "blurb": "Koh Tao —\"Isla de la Tortuga\"— es un pequeño enclave montañoso en el Golfo de Tailandia que se ha convertido en uno de los mejores lugares del mundo para aprender a bucear, apreciado por sus aguas tranquilas y cristalinas y por la gran concentración de escuelas de buceo repartidas en sus bahías. Lejos de los arrecifes, los acantilados de granito, los miradores entre la selva y los relajados bares de playa le dan a la isla un aire desenfadado, más propio de mochileros y buceadores que de un destino turístico pulido.",
+      "getting": "Koh Tao no cuenta con aeropuerto propio, así que los viajeros llegan primero a un aeropuerto del continente o de la región —Koh Samui, Surat Thani o Chumphon— y completan el trayecto en ferry hasta el muelle de Mae Haad, la principal puerta de entrada a la isla. La vía más rápida suele ser a través del aeropuerto de Koh Samui, combinada con un catamarán de alta velocidad, mientras que Chumphon y Surat Thani ofrecen vuelos más económicos que conectan con la misma red de ferris.",
+      "days": "Se recomienda planear al menos entre 3 y 5 días, tiempo suficiente para completar un curso introductorio o de buceo de aguas abiertas (open water) y explorar un par de miradores y playas, aunque muchos buceadores optan por quedarse una semana o más."
+    },
+    "zh": {
+      "blurb": "龟岛（Koh Tao，意为\"海龟岛\"）坐落于泰国湾，是一座地势起伏的小岛，如今已成为全球首屈一指的潜水学习胜地——这里水域平静清澈，各个海湾周边潜水学校云集。离开珊瑚礁区，花岗岩海岬、丛林观景台和悠闲惬意的海滩酒吧，则为小岛增添了几分粗犷气息，更像是背包客与潜水爱好者的聚集地，而非精致的度假胜地。",
+      "getting": "龟岛本身没有机场，因此游客通常先飞抵泰国本岛或周边区域的枢纽机场——苏梅岛（Koh Samui）、素叻他尼（Surat Thani）或春蓬（Chumphon）——再转乘渡轮前往岛上主要门户玛哈码头（Mae Haad Pier）。最快捷的方式通常是经苏梅岛机场转乘高速双体船；而春蓬和素叻他尼则提供更实惠的航班选择，同样可衔接至该渡轮网络。",
+      "days": "建议至少安排3-5天行程，这样才有足够时间完成一次潜水体验课程或开放水域潜水证书课程，并游览几处观景台和海滩；不过许多潜水爱好者更愿意在此停留一周甚至更久。"
     }
   }
 }

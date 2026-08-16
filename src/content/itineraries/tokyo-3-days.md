@@ -6,7 +6,7 @@ title: '3-Day Tokyo Itinerary: Digital Art, Shrines & Asakusa Temples'
 description: A 3-day Tokyo itinerary moving from Toyosu's digital art and Tokyo Tower views to Shibuya's shrines and gardens, then Asakusa's historic temple and Ginza's steakhouse scene.
 quickAnswer: This 3-day Tokyo itinerary covers a fuller day of digital art, market food, and skyline views around Koto City and Minato City; a day of shrine and garden calm plus café culture across Shibuya and Shinjuku City; and a final day tracing Taito City's historic temple through to a ramen lunch and a Ginza steakhouse dinner.
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: 752277dfbeb68de09c7dc524765611917bf57d1c
+stopsHash: 9d3f4a7d84efcc28a6f2c6582436f2009781ad76
 packedAvailable: false
 faq:
   - q: How should I get around for this 3-day Tokyo itinerary?
@@ -61,13 +61,13 @@ itinerary:
         why: This expansive former imperial estate blends formal, English, and Japanese garden styles, offering a slower-paced contrast to the morning's shrine visit.
         dwellMin: 150
         walkToNext:
-          km: 3.9
+          km: 3.4
           minutes: null
           transit: true
-      - slug: tokyo-shibuya-crossing
+      - slug: tokyo-fuglen-tokyo
         slot: evening
-        why: A attraction rated 4.5 by visitors, included as a stop on this route.
-        dwellMin: 30
+        why: A trendy rated 4.3 by visitors, included as a stop on this route.
+        dwellMin: 90
         walkToNext: null
     rainSwapSlug: tokyo-lenox-house
   - label: Old Asakusa temple to Ginza steak
@@ -97,6 +97,6 @@ itinerary:
     rainSwapSlug: tokyo-ise-sueyoshi
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-10T09:22:15.036Z'
+updatedDate: '2026-08-16T08:25:22.508Z'
 ---
 
