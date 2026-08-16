@@ -166,6 +166,17 @@ jobs:
       - name: Repair broken Korean syllables
         run: node scripts/fix-broken-syllables.mjs
 
+      # The Chinese translator's equivalent tic: a half-width comma between two
+      # Han characters (中文,然后 instead of 中文，然后), which a native reader
+      # reads as "translated from English" before reading a word. Found
+      # 2026-08-16 on 506 of 1,007 live zh pages — and it was the mechanical
+      # half of why the naturalness judge scored zh at 8% against 1-2% for the
+      # other three languages. Re-judging the flagged pages after this repair
+      # moved 25 of 80 down a score with zero model calls and none upward.
+      # Deterministic, so it runs before the gate and costs nothing.
+      - name: Repair half-width punctuation in Chinese prose
+        run: node scripts/fix-cjk-punctuation.mjs --apply
+
       # Naturalness gate for the run's own translations: the owner read
       # English word order inside a Korean paragraph on 2026-08-15, and the
       # corpus audit measured 13% clearly translation-flavored. Every i18n
