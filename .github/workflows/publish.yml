@@ -238,14 +238,26 @@ jobs:
       # own 25% failure rate went unnoticed for a day. This is the standing
       # reader for it. Bounded: a backlog costs a few minutes a night instead
       # of one large bill, and once caught up it finds nothing and bills ~0.
-      - name: Translation quality catch-up (judge what the gate cannot see)
+      # WEEKLY, not nightly. Nightly at 120 would have re-judged everything the
+      # gate above deliberately sampled away, cancelling that saving and adding
+      # its own — a monitor that costs more than the thing it monitors. Once a
+      # week is enough to keep the corpus picture honest (this is where the
+      # flagged count and judgeFailed come from), and it is bounded so a bad
+      # week costs 60 calls, not an open tab.
+      - name: Translation quality catch-up (weekly corpus check)
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set -o pipefail
+          # Monday only. GitHub Actions expressions have no modulo and no date,
+          # so the weekday test lives here rather than in an `if:`.
+          if [ "$(date -u +%u)" != "1" ]; then
+            echo "주간 전수 점검은 월요일에만 — 오늘은 건너뜁니다."
+            exit 0
+          fi
           set +e
-          node scripts/audit-translation-quality.mjs --limit=120 2>&1 | tee /tmp/tq.log
+          node scripts/audit-translation-quality.mjs --limit=60 2>&1 | tee /tmp/tq.log
           set -e
           S=$(grep -o 'TRANSLATION_QUALITY_SUMMARY .*' /tmp/tq.log | tail -1)
           # An empty summary means the AUDIT died, not that the corpus is

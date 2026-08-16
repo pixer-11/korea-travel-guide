@@ -37,9 +37,31 @@
 //    node scripts/fix-cjk-punctuation.mjs --apply --only=zh/slug
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import matter from 'gray-matter';
 
 const APPLY = process.argv.includes('--apply');
+
+// Editing a file changes its content hash, which is how the naturalness store
+// decides a translation needs re-judging. Left alone, this repair would have
+// handed the judge a 475-file bill for re-scoring text it had already scored —
+// paying a model to re-read 24,002 commas.
+//
+// It does not need to: this repair cannot make a translation read worse. On the
+// 80 flagged zh pages, re-judging after the pass moved 25 DOWN a score and none
+// up. So the stored score is carried forward and only the hash is restamped —
+// which leaves the old score standing as a CONSERVATIVE one (the text is now at
+// least as good as that number says). A repair that bills the next stage for
+// its own edit is how a nightly job turns into a nightly invoice.
+const QUALITY_STORE = 'data/translation-quality.json';
+const quality = existsSync(QUALITY_STORE) ? JSON.parse(readFileSync(QUALITY_STORE, 'utf8')) : null;
+let restamped = 0;
+const restampQuality = (slug, raw) => {
+  const entry = quality?.[`zh/${slug}`];
+  if (!entry?.hash) return;
+  entry.hash = createHash('sha1').update(raw).digest('hex').slice(0, 12);
+  restamped++;
+};
 const ONLY = (() => {
   const a = process.argv.find((x) => x.startsWith('--only='));
   return a ? new Set(a.split('=')[1].split(',').map((s) => s.trim()).filter(Boolean)) : null;
@@ -116,6 +138,7 @@ function fixFile(path) {
     return 0;
   }
   writeFileSync(path, next);
+  restampQuality(path.replace(/^.*\/([^/]+)\.md$/, '$1'), next);
   return total;
 }
 
@@ -136,7 +159,12 @@ for (const f of readdirSync(dir).filter((x) => x.endsWith('.md'))) {
   if (n) { files++; marks += n; worst.push([`zh/${slug}`, n]); }
 }
 
+if (APPLY && restamped) {
+  writeFileSync(QUALITY_STORE, JSON.stringify(quality, null, 1) + '\n');
+  console.log(`품질 판정 ${restamped}건은 해시만 갱신 — 재심사 비용 0(문장부호 수리는 점수를 낮출 수 없음).`);
+}
+
 worst.sort((a, b) => b[1] - a[1]);
 for (const [k, n] of worst.slice(0, 8)) console.log(`  ${String(n).padStart(4)}  ${k}`);
-console.log(`\nCJK_PUNCT_SUMMARY files=${files} marks=${marks} applied=${APPLY}`);
+console.log(`\nCJK_PUNCT_SUMMARY files=${files} marks=${marks} restamped=${restamped} applied=${APPLY}`);
 if (!APPLY && files) console.log('보고만 했습니다 — 실제로 고치려면 --apply 를 붙이세요.');

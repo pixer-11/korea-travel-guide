@@ -48,6 +48,34 @@ if (keys.length) {
 }
 if (!files.length) { console.log('translation gate: nothing new to judge'); process.exit(0); }
 
+// SAMPLE, not census. Judging every translation every night cost ~40 model
+// calls a day — as much as producing the translations themselves — and the
+// 2026-08-16 measurements said that spend was buying very little: the one
+// rewrite this gate attempts does not fix the hard tail (a live flagged post
+// re-translated came back at the same score, and the 08-15 rounds stalled on
+// the same tail). What HAS moved the corpus is fixing the PROMPT — the
+// wrong-language leak on 08-15, the half-width punctuation on 08-16 — and a
+// prompt-level defect shows up in a sample just as clearly as in a census.
+//
+// So: a few per language, enough to notice a systematic fault within a night
+// or two, at a fraction of the bill. Set TRANSLATION_GATE_SAMPLE=0 to go back
+// to judging everything.
+const SAMPLE = process.env.TRANSLATION_GATE_SAMPLE === undefined ? 3 : Number(process.env.TRANSLATION_GATE_SAMPLE);
+let skippedSample = 0;
+if (SAMPLE > 0 && !keys.length) {
+  const perLang = {};
+  const kept = [];
+  for (const f of files) {
+    const lang = f.match(/i18n\/(ko|ja|es|zh)\//)?.[1];
+    if (!lang) { kept.push(f); continue; }
+    perLang[lang] = (perLang[lang] || 0) + 1;
+    if (perLang[lang] <= SAMPLE) kept.push(f);
+    else skippedSample++;
+  }
+  if (skippedSample) console.log(`표본 심사: 언어당 ${SAMPLE}편만 — ${skippedSample}편은 이번 판정 생략(비용).`);
+  files = kept;
+}
+
 const store = existsSync(STORE) ? JSON.parse(readFileSync(STORE, 'utf8')) : {};
 const flagged = [];
 let judged = 0, skippedDraft = 0;
@@ -90,4 +118,4 @@ writeFileSync(STORE, JSON.stringify(store, null, 1) + '\n');
 const stubborn = flagged.filter(({ lang, slug }) => (store[`${lang}/${slug}`]?.score ?? 0) >= 2).length;
 // judgeFailed belongs in the summary line, not only in a ⚠ that scrolls past:
 // a judge answering "unavailable" looks identical to a clean run from here.
-console.log(`\nTRANSLATION_GATE_SUMMARY judged=${judged} flagged=${flagged.length} fixed=${flagged.length - stubborn} stubborn=${stubborn} draftSkipped=${skippedDraft} judgeFailed=${judgeStats.failed}`);
+console.log(`\nTRANSLATION_GATE_SUMMARY judged=${judged} flagged=${flagged.length} fixed=${flagged.length - stubborn} stubborn=${stubborn} draftSkipped=${skippedDraft} sampleSkipped=${skippedSample} judgeFailed=${judgeStats.failed}`);

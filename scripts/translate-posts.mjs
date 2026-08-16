@@ -103,7 +103,13 @@ const TOOL = {
 const REGISTER = {
   Korean: 'Use the polite 합니다체 throughout (formal-polite endings — never plain 한다체).',
   Japanese: 'Use です・ます体 throughout (never plain form).',
-  'Simplified Chinese': 'Use natural written Simplified Chinese as a mainland travel magazine would — 简体中文, never Traditional characters, never any other language.',
+  // The punctuation clause is not a style note — it is the tap for a leak that
+  // cost real money. On 2026-08-16, 506 of 1,007 live Chinese pages carried
+  // half-width marks between Han characters (中文,然后 instead of 中文，然后),
+  // 24,002 of them. A repair script cleaned that up, but a repair script run
+  // nightly against a generator that keeps producing the defect is a bill that
+  // never ends. This sentence is what makes the repair converge to zero.
+  'Simplified Chinese': 'Use natural written Simplified Chinese as a mainland travel magazine would — 简体中文, never Traditional characters, never any other language. Punctuation MUST be full-width: use ，。：；！？（） between Chinese characters, never the half-width , . : ; ! ? ( ). Half-width marks stay only inside Latin text and numbers (2,109 / River Valley Road, Singapore).',
   Spanish: 'Use neutral, polished written Spanish (usted-neutral, no regional slang).',
 };
 
