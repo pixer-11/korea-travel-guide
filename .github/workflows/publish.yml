@@ -910,7 +910,19 @@ jobs:
           elif [ -n "$QUEUE" ] && [ "$QUEUE" -lt 40 ] 2>/dev/null; then
             export ZERO_NOTE="⚠️ 남은 발행 후보 ${QUEUE}개 — 곧 바닥납니다. 도시 추가가 필요합니다."
           fi
-          bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
+          # The bulk-fill run has no Places share of its own — it lives on what
+          # the four budgeted jobs leave over, which on a normal day is nothing.
+          # "새 글 0개 ⚠️" every evening for that is noise the owner has to read
+          # past to find real alarms (asked 2026-08-17: "한도를 잘 분배해둔거
+          # 아니었어?" — it was; the report just made normal look like failure).
+          # A bulk run that published nothing BECAUSE its share was 0 says
+          # nothing; every other zero (queue empty, API dead) still reports.
+          SHARE=$(grep -o 'Places 예산: publish 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
+          if [ "${{ inputs.label || 'Daily publish' }}" = "Backfill" ] && [ "${NEW:-0}" = "0" ] && [ "${SHARE:-x}" = "0" ] && [ "${QUEUE:-x}" != "0" ]; then
+            echo "bulk run: Places share 0 today, nothing to attempt — no Telegram (normal)"
+          else
+            bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
+          fi
           # Steps that failed softly get their own message rather than riding on
           # the zero-note, which only appears when nothing was published. A run
           # can publish 16 posts and still have lost every translation.
