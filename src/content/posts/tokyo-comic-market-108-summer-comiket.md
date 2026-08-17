@@ -10,7 +10,7 @@ eventEndDate: '2026-08-16'
 tags:
   - tokyo
   - event
-quickAnswer: Comic Market 108 (Summer Comiket) is scheduled for August 15–16, 2026 at Tokyo Big Sight in Odaiba/Ariake. This is the world's largest doujinshi (fan-made manga/comic) fair, drawing several hundred thousand attendees over the weekend, plus dense cosplay gatherings outside the halls. Confirm exact hours, entry procedures, and ticketing on the official Comiket website closer to the date, since these details are finalized only a few weeks out.
+quickAnswer: Comic Market 108 (Summer Comiket) was held August 15–16, 2026 at Tokyo Big Sight in Odaiba/Ariake. This is the world's largest doujinshi (fan-made manga/comic) fair, drawing several hundred thousand attendees over the weekend, plus dense cosplay gatherings outside the halls. Exact hours, entry procedures, and ticketing details were published on the official Comiket website in the weeks before the event.
 faq:
   - q: How do I get to Comiket 108 at Tokyo Big Sight?
     a: Take the Yurikamome line to Kokusai-Tenjijo-Seimon Station, which arrives right at the venue's main entrance, or the Rinkai Line to Kokusai-Tenjijo Station for a short walk. Both stations are extremely crowded during morning arrival hours, so allow extra time.

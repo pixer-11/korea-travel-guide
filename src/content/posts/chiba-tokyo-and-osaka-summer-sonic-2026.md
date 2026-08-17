@@ -33,31 +33,30 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:Marine_Stage_at_Summer_Sonic_Festival.jpg
   focus:
     x: 50
-    y: 25
+    'y': 25
 ---
-
 ## Why go
 
-Summer Sonic is Japan's biggest twin-city rock festival, running the same weekend in Chiba (on Tokyo Bay) and Osaka, with many artists shuttling between the two cities to play both. The 2026 edition is a milestone: its 25th anniversary, and for the first time ever a full three-day run (August 14–16, 2026) rather than the traditional two-day format. The lineup announced so far spans genres in a way few festivals manage — The Strokes and Jamiroquai for indie/funk crowds, FKA Twigs for the alt-electronic set, L'Arc-en-Ciel representing the visual-kei/J-rock legends who helped define Japanese rock abroad, and K-pop heavyweights aespa and LE SSERAFIM. That range is the festival's signature: metal, hip-hop, city pop, and stadium pop all sharing the same weekend.
+Summer Sonic is Japan's biggest twin-city rock festival, running the same weekend in Chiba (on Tokyo Bay) and Osaka, with many artists shuttling between the two cities to play both. The 2026 edition was a milestone: its 25th anniversary, and for the first time ever a full three-day run (August 14–16, 2026) rather than the traditional two-day format. The lineup spanned genres in a way few festivals manage — The Strokes and Jamiroquai for indie/funk crowds, FKA Twigs for the alt-electronic set, L'Arc-en-Ciel representing the visual-kei/J-rock legends who helped define Japanese rock abroad, and K-pop heavyweights aespa and LE SSERAFIM. That range was the festival's signature: metal, hip-hop, city pop, and stadium pop all sharing the same weekend.
 
 ## Getting there
 
-The Chiba leg centers on **Zozo Marine Stadium** and the adjacent **Makuhari Messe** convention halls in the Makuhari district. Makuhari is reachable via JR Keiyo Line to **Kaihin-Makuhari Station**, roughly 30–40 minutes from central Tokyo (Tokyo Station), with shuttle buses or a walkable route to the venue depending on which stage you're headed to. If flying in, Narita Airport is closer to Chiba than Haneda, which is worth factoring into arrival plans if you're doing the Chiba dates.
+The Chiba leg centered on **Zozo Marine Stadium** and the adjacent **Makuhari Messe** convention halls in the Makuhari district. Makuhari is reachable via JR Keiyo Line to **Kaihin-Makuhari Station**, roughly 30–40 minutes from central Tokyo (Tokyo Station), with shuttle buses or a walkable route to the venue depending on which stage attendees were headed to. For those flying in, Narita Airport is closer to Chiba than Haneda, which was worth factoring into arrival plans for the Chiba dates.
 
-The Osaka leg has historically used venues in the Maishima/bay area or ZOZO-affiliated grounds outside the city center — check the official site for the confirmed 2026 Osaka venue, since Summer Sonic has shifted Osaka locations before. If you're flying into Osaka, Kansai International Airport connects to the city via the JR Haruka express or Nankai lines.
+The Osaka leg has historically used venues in the Maishima/bay area or ZOZO-affiliated grounds outside the city center; Summer Sonic has shifted Osaka locations before, and the confirmed 2026 Osaka venue was published on the official site. For those flying into Osaka, Kansai International Airport connects to the city via the JR Haruka express or Nankai lines.
 
-Because this is a two-city festival, decide early whether you're doing Chiba, Osaka, or both — some ticket types allow city-hopping, but transport between Tokyo and Osaka (Shinkansen bullet train, roughly 2.5 hours) needs its own separate booking and budget.
+Because this is a two-city festival, attendees needed to decide whether they were doing Chiba, Osaka, or both — some ticket types allowed city-hopping, but transport between Tokyo and Osaka (Shinkansen bullet train, roughly 2.5 hours) needed its own separate booking and budget.
 
 ## What to expect on site
 
-Expect multiple outdoor and indoor stages running concurrently — Zozo Marine Stadium hosts the big headline sets, while Makuhari Messe's halls house additional stages, often with better shade and air conditioning, a meaningful consideration in mid-August humidity. Food areas typically mix festival staples (yakisoba, karaage, beer stands) with international vendors. Given the size, plan for real walking distances between stages and build in transit time rather than trying to catch back-to-back sets on opposite ends of the grounds.
+Multiple outdoor and indoor stages ran concurrently — Zozo Marine Stadium hosted the big headline sets, while Makuhari Messe's halls housed additional stages, often with better shade and air conditioning, a meaningful consideration in mid-August humidity. Food areas typically mixed festival staples (yakisoba, karaage, beer stands) with international vendors. Given the size, real walking distances between stages meant transit time was needed rather than trying to catch back-to-back sets on opposite ends of the grounds.
 
-Bring earplugs if you're stage-front for the louder rock acts, and expect bag checks and standard festival security at entry gates.
+Earplugs were worth having for anyone stage-front for the louder rock acts, and bag checks and standard festival security were in place at entry gates.
 
 ## When to go
 
-August 14–16, 2026 covers all three days, but Summer Sonic's day-by-day lineup splits mean it's worth checking which artists play which date before choosing single-day tickets — headliners are typically spread across the weekend rather than all appearing on one night. Mid-August in both Chiba and Osaka is hot and humid, often in the low-to-mid 30s°C, so mornings and early afternoons are more bearable for wandering between stages; save stamina for evening headline sets when temperatures drop slightly.
+August 14–16, 2026 covered all three days, with Summer Sonic's day-by-day lineup split across the weekend rather than all headliners appearing on one night. Mid-August in both Chiba and Osaka is hot and humid, often in the low-to-mid 30s°C, so mornings and early afternoons were more bearable for wandering between stages, with evening headline sets falling as temperatures dropped slightly.
 
 ## Nearby & tips
 
-In Chiba, Makuhari's shopping and hotel cluster around Kaihin-Makuhari Station makes it easy to base yourself nearby without commuting from central Tokyo. In Osaka, staying near the venue's transit line (once confirmed) beats commuting from Namba or Umeda late at night after sets end. Because this is a 25th-anniversary, first-ever 3-day edition, expect higher demand than usual — ticket tiers, exact set times, and the final Osaka venue address should all be confirmed on the official Summer Sonic website closer to the date, as festival logistics like these are routinely finalized only a few months out.
+In Chiba, Makuhari's shopping and hotel cluster around Kaihin-Makuhari Station made it easy to base there without commuting from central Tokyo. In Osaka, staying near the venue's transit line beat commuting from Namba or Umeda late at night after sets ended. Because this was a 25th-anniversary, first-ever 3-day edition, demand was higher than usual, and ticket tiers, set times, and the final Osaka venue address were confirmed on the official Summer Sonic website in the lead-up to the event.
