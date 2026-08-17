@@ -95,7 +95,7 @@ for (const f of files) {
     const a = archiveYearProblem(name);
     // Recurring festivals look the same every year — Palio, Awa Odori,
     // Tomatina — and an older photo of the same festival is the right one.
-    const recurring = /festival|matsuri|palio|tomatina|carnival|parade|fireworks|basho|odori|fair/i.test(String(data.title));
+    const recurring = new RegExp(String.raw`festival|matsuri|palio|tomatina|carnival|parade|fireworks|basho|odori|fair\b`, 'i').test(String(data.title));
     if (a && !recurring) say('ARCHIVE-PHOTO', f, `이벤트 대표사진이 ${a.replace('archive-', '')}년 사진`);
   }
 
