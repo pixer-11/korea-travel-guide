@@ -76,6 +76,17 @@ const CHECKS = [
     pick: (l) => l.match(/^(?:vantage|unusable)\s+(\S+\.md)/)?.[1],
   },
   {
+    // Everything the week of 08-11…16 caught AFTER publish, moved in front of
+    // it: a photo whose Commons record or Foursquare credit names another
+    // place, a venue post with no venue behind it, an archive-dated event
+    // hero, an event hero with no focal point (never went through the gate
+    // that would have given it one). Owner: "처음 발행될 때 한번에 제대로."
+    name: 'identity',
+    why: '사진이 다른 장소이거나 글이 특정 장소를 가리키지 않음',
+    cmd: 'node scripts/audit-new-post-identity.mjs --since=HEAD',
+    pick: (l) => l.match(/^(?:NO-VENUE-IDENTITY|GENERIC-TITLE|PHOTO-OTHER-VENUE|PHOTO-WRONG-PLACE|ARCHIVE-PHOTO|NO-FOCUS)\s+(\S+\.md)/)?.[1],
+  },
+  {
     name: 'content',
     why: '콘텐츠 검증 실패',
     cmd: 'node scripts/validate-content.mjs',
