@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 'Airtime Asia 2026: What to Know (Da Nang)'
 description: Airtime Asia 2026 in Da Nang, Vietnam — August 13-16, 2026. What it is, when and where, and how to plan around it.
 country: Vietnam

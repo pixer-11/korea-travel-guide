@@ -1,49 +1,49 @@
 ---
-title: "Yuexiu Park: Guangzhou Travel Guide (4.6★)"
-description: "Yuexiu Park is Guangzhou's largest green space — a hilly sprawl of lakes, old city walls, and the landmark Five Rams statue, best explored on foot in the early morning. 4.6★ (1,067 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Guangzhou"
-category: "attraction"
-pubDate: "2026-08-17T08:09:21.293Z"
+title: 'Yuexiu Park: Guangzhou Travel Guide (4.6★)'
+description: Yuexiu Park is Guangzhou's largest green space — a hilly sprawl of lakes, old city walls, and the landmark Five Rams statue, best explored on foot in the early morning. 4.6★ (1,067 reviews) — what visitors say, hours, and tips.
+country: China
+region: Guangzhou
+category: attraction
+pubDate: '2026-08-17T08:09:21.293Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Yxp.JPG"
-  credit: "Photo: Original uploader was Df112001 at zh.wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Yxp.JPG"
+  url: https://fastly.4sqi.net/img/general/original/2895870_AZS9pH2GSHJTtx83mcB3DYV45GPMX0q8qvrb_WSHlng.jpg
+  credit: 'Photo: Foursquare user content (Yuexiu Academy of Classical Learning (粤秀书院))'
+  license: foursquare
+  source: https://foursquare.com/v/5a73efd525ecca5ea8876118
   focus:
     x: 50
-    y: 40
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Yuexiu_Park_Main_Gate_20260518.jpg/3840px-Yuexiu_Park_Main_Gate_20260518.jpg"
-    credit: "Photo: Cygz / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Yuexiu_Park_Main_Gate_20260518.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Yuexiu_Park_Main_Gate_20260518.jpg/3840px-Yuexiu_Park_Main_Gate_20260518.jpg
+    credit: 'Photo: Cygz / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Yuexiu_Park_Main_Gate_20260518.jpg
 place:
-  id: "ChIJC2nwBSD5AjQRp9XTpoGaTDE"
-  name: "Yuexiu Park"
-  address: "988 Jie Fang Bei Lu, Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, China, 510040"
+  id: ChIJC2nwBSD5AjQRp9XTpoGaTDE
+  name: Yuexiu Park
+  address: 988 Jie Fang Bei Lu, Yue Xiu Qu, Guang Zhou Shi, Guang Dong Sheng, China, 510040
   rating: 4.6
   userRatingsTotal: 1067
-  googleMapsUrl: "https://maps.google.com/?cid=3552384087728838055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3552384087728838055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.140078
   lng: 113.266241
-  phone: "+86 20 8666 1950"
+  phone: +86 20 8666 1950
 tags:
-  - "guangzhou"
-  - "park"
-quickAnswer: "Yuexiu Park is Guangzhou's largest green space — a hilly sprawl of lakes, old city walls, and the landmark Five Rams statue, best explored on foot in the early morning. Give yourself two to three hours, enter near the Zhenhai Tower side if you want the museum, and go before 9am to have the paths mostly to yourself. It's free to enter the park grounds, though the tower and museum inside charge separate admission."
+  - guangzhou
+  - park
+quickAnswer: Yuexiu Park is Guangzhou's largest green space — a hilly sprawl of lakes, old city walls, and the landmark Five Rams statue, best explored on foot in the early morning. Give yourself two to three hours, enter near the Zhenhai Tower side if you want the museum, and go before 9am to have the paths mostly to yourself. It's free to enter the park grounds, though the tower and museum inside charge separate admission.
 faq:
-  - q: "Is Yuexiu Park free to enter?"
-    a: "Yes, the park grounds are free. Zhenhai Tower and its museum, along with a couple of smaller sights inside, charge separate admission — confirm current fees before you go."
-  - q: "How do I get to Yuexiu Park by metro?"
-    a: "Take Metro Line 2 to Yuexiu Park Station and leave via Exit B1, which puts you right at one of the main gates."
-  - q: "How much time should I set aside?"
-    a: "Two to three hours covers the highlights — the Five Rams statue, Zhenhai Tower, and a loop around at least one of the three lakes."
-  - q: "When is the park quietest?"
-    a: "Before 9am, when mist still hangs over Beixiu Lake and only the local tai chi groups are out. It fills up by late morning, especially on weekends."
-  - q: "What else is nearby?"
-    a: "The Guangzhou Museum of Art and several other park entrances sit close by, and the area is a short metro ride from Canton Tower and Shamian Island."
+  - q: Is Yuexiu Park free to enter?
+    a: Yes, the park grounds are free. Zhenhai Tower and its museum, along with a couple of smaller sights inside, charge separate admission — confirm current fees before you go.
+  - q: How do I get to Yuexiu Park by metro?
+    a: Take Metro Line 2 to Yuexiu Park Station and leave via Exit B1, which puts you right at one of the main gates.
+  - q: How much time should I set aside?
+    a: Two to three hours covers the highlights — the Five Rams statue, Zhenhai Tower, and a loop around at least one of the three lakes.
+  - q: When is the park quietest?
+    a: Before 9am, when mist still hangs over Beixiu Lake and only the local tai chi groups are out. It fills up by late morning, especially on weekends.
+  - q: What else is nearby?
+    a: The Guangzhou Museum of Art and several other park entrances sit close by, and the area is a short metro ride from Canton Tower and Shamian Island.
 aiGenerated: true
 draft: false
 ---
