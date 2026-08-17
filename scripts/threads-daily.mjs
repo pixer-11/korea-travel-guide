@@ -42,25 +42,49 @@ if (!FORCE && state.lastSentDay === kstDay()) {
 }
 
 // -------- pick an unused, published post --------
+// A social card is the site's most exposed surface, so it needs a STRICTER
+// bar than "published": on 2026-08-16 the draw landed on "Local Restaurant
+// in Gangneung" — a topic post with no venue behind it — wearing a
+// Foursquare photo of a potato-soap gift shop, and the caption sang about
+// sundubu. Nothing was wrong by the site's rules (the post was live, the
+// photo passed vision for a "restaurant in Gangneung"); the card was still
+// unpostable. So a card candidate must (a) be ABOUT something — a named
+// place (place.name) or an event — never a "Local X in City" topic post,
+// (b) carry a hero the visual audit has actually judged MATCH, and
+// (c) not have a title that is a generic noun phrase.
+const auditStore = (() => { try { return JSON.parse(readFileSync('data/visual-audit.json', 'utf8')); } catch { return {}; } })();
+const GENERIC_TITLE = /^(local|best|top|hidden|popular|trendy|famous|traditional)\s+(restaurant|cafe|market|spot|gem|food|place|attraction|sight)s?\s+in\s+/i;
+const cardEligible = (slug, fm) => {
+  if (fm?.draft) return false;
+  const title = String(fm?.title || '').split(':')[0].trim();
+  if (GENERIC_TITLE.test(title)) return false;
+  if (fm?.category !== 'event' && !fm?.place?.name) return false;
+  const url = fm?.heroImage?.url;
+  if (!url) return false;
+  const v = auditStore[`${slug}\x01${url}`];
+  return !!v && v.verdict === 'MATCH';
+};
 const files = readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'));
 const candidates = [];
+let ineligible = 0;
 for (const f of files) {
   const raw = readFileSync(join(POSTS_DIR, f), 'utf8');
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (!m) continue;
   let fm;
   try { fm = yaml.load(m[1]); } catch { continue; }
-  if (fm?.draft) continue;
   const slug = f.replace(/\.md$/, '');
+  if (!cardEligible(slug, fm)) { if (!fm?.draft) ineligible++; continue; }
   if (state.used.includes(slug)) continue;
   candidates.push({ slug, fm, body: m[2] });
 }
+console.log(`card pool: ${candidates.length} eligible (${ineligible} live posts skipped — no named place, generic title, or hero not audit-MATCH)`);
 if (!candidates.length) { state.used = []; console.log('backlog cycled — resetting'); }
 const pool = candidates.length ? candidates : files.map(f => {
   const raw = readFileSync(join(POSTS_DIR, f), 'utf8');
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   return m ? { slug: f.replace(/\.md$/, ''), fm: yaml.load(m[1]), body: m[2] } : null;
-}).filter(p => p && !p.fm?.draft);
+}).filter(p => p && cardEligible(p.slug, p.fm)); // same bar when the backlog cycles
 // `--slug=x` picks one post instead of drawing at random. The carousel bugs are
 // only visible in the finished image, and re-rolling the dice hoping to land on
 // the broken post again is no way to check a fix.

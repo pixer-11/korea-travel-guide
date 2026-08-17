@@ -5,11 +5,6 @@ region: Suwon
 country: South Korea
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/46335191_LEzJHbmhPYBUGC3AtGsK6aRdbYrYVxI_K4Dt2ziD-1E.jpg
-  credit: 'Photo: Foursquare user content (Swoyambhu Restaurant (수엠부))'
-  license: foursquare
-  source: https://foursquare.com/v/500297cbe4b0c432cf19e93d
 gallery: []
 tags:
   - suwon
@@ -27,6 +22,8 @@ faq:
   - q: What else is near the restaurant area worth seeing?
     a: Hwaseong Haenggung Palace and the fortress gates (Paldalmun, Janganmun, Hwaseomun) are all within walking distance and make natural stops before or after eating.
 aiGenerated: true
+draft: true
+heldReason: generic-topic
 ---
 
 ## Why Suwon, and Why Its Food Scene
