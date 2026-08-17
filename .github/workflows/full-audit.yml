@@ -30,6 +30,13 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CONCURRENCY: '6'
+          # Ceiling on model calls per run. The audit is incremental (unchanged
+          # posts keep their prior verdict), so in steady state this is barely
+          # touched — a week's new and edited posts, ~70. It matters on the
+          # first run after this change, when the store is empty and every post
+          # looks new: the cap spreads that one-time seeding across a few weeks
+          # instead of billing it in a single Sunday. Newest posts go first.
+          LIMIT: '400'
         run: |
           set -o pipefail
           node scripts/full-content-audit.mjs | tee /tmp/audit.log

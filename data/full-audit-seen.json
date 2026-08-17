@@ -1,0 +1,92 @@
+{
+ "central-cupping-room-central": {
+  "bodyHash": "3950b78d6825",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-08-17T01:24:08.766Z",
+  "result": {
+   "slug": "central-cupping-room-central",
+   "category": "trendy",
+   "region": "Central",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Cupping Room opens at 8am on weekdays and 9am on weekends, closing at 6pm every day"
+    }
+   ]
+  }
+ },
+ "new-delhi-national-museum-new-delhi": {
+  "bodyHash": "4e3ad60920bf",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-08-17T01:24:09.548Z",
+  "result": {
+   "slug": "new-delhi-national-museum-new-delhi",
+   "category": "attraction",
+   "region": "New Delhi",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "10am to 6pm"
+    }
+   ]
+  }
+ },
+ "jaipur-albert-hall-museum": {
+  "bodyHash": "6a26621b060d",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-08-17T01:24:10.280Z",
+  "result": {
+   "slug": "jaipur-albert-hall-museum",
+   "category": "attraction",
+   "region": "Jaipur",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "The museum is open every day from 9am to 8pm, with no weekly closure"
+    }
+   ]
+  }
+ },
+ "baguio-oh-my-gulay": {
+  "bodyHash": "4778a47e6cc3",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-08-17T01:24:15.637Z",
+  "result": {
+   "slug": "baguio-oh-my-gulay",
+   "category": "restaurant",
+   "region": "Baguio",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "Monday, Wednesday, and Thursday it runs 11am to 7pm; Friday through Sunday it stays open until 8pm"
+    },
+    {
+     "type": "invented-specifics",
+     "quote": "closed Tuesdays"
+    }
+   ]
+  }
+ },
+ "kolkata-indian-museum": {
+  "bodyHash": "b864d969a36b",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-08-17T01:24:17.178Z",
+  "result": {
+   "slug": "kolkata-indian-museum",
+   "category": "attraction",
+   "region": "Kolkata",
+   "prose": [
+    {
+     "type": "invented-specifics",
+     "quote": "it runs 10am to 6pm"
+    }
+   ]
+  }
+ },
+ "lantau-island-po-lin-monastery-restaurant": {
+  "bodyHash": "3b7806ded90c",
+  "rules": "editor-v1-2026-08-17",
+  "at": "2026-08-17T01:24:17.880Z",
+  "result": null
+ }
+}
