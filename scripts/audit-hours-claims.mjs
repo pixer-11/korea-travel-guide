@@ -109,6 +109,12 @@ export function hoursProblems(raw) {
       // same negation lesson the closed-day rule already learned.
       const before = prose.slice(Math.max(0, m.index - 80), m.index);
       if (/(mistake|don'?t|do not|avoid|too late|miss(es|ed)?|closed|shut|no longer|instead of|rather than|expecting)\b[^.]*$/i.test(before)) continue;
+      // The negation can follow the time too: "arriving at 1pm means a
+      // locked gate" (Dakshineswar, held on publish day 2026-08-17 — the
+      // fixer had nothing to fix, the sentence was the correct warning).
+      // Same sentence, no full stop between: the time and its consequence.
+      const after = prose.slice(m.index + m[0].length, m.index + m[0].length + 90);
+      if (/^[^.]*\b(means|leaves you|finds?|meets?|greets?|and you'?ll (find|hit|face)|only to find|will (find|be met|face))\b[^.]*\b(locked|closed|shut|gate|nothing open|no one|nobody|empty|dark|turned away|waiting)\b/i.test(after)) continue;
       seen.add(min);
       const ok = open.some((p) => inAnyRange(min, p.ranges));
       if (!ok) found.push(`prose says ${m[0]}, outside every day's hours (${lines[0]} … )`);

@@ -66,8 +66,7 @@ faq:
   - q: "Is there anything nearby worth combining with this visit?"
     a: "Belur Math, the Ramakrishna Mission's headquarters, sits directly across the Hooghly River and is reachable by a short ferry ride, making it a natural pairing for a half-day trip."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

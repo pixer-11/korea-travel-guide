@@ -16,6 +16,9 @@ ${hours.map((h) => `    - '${h}'`).join('\n')}
 ---
 ${body}`;
 
+// 점심 휴식이 있는 사원 (닥시네스와르 실데이터 형태).
+const SPLIT_DAY = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+  .map((d) => `${d}: 5:00 AM – 12:30 PM, 3:30 – 7:30 PM`);
 const WEEK_OPEN_MON = [
   'Monday: 9:00 AM – 2:00 PM', 'Tuesday: 9:00 AM – 2:00 PM', 'Wednesday: 9:00 AM – 2:00 PM',
   'Thursday: 9:00 AM – 2:00 PM', 'Friday: 9:00 AM – 2:00 PM', 'Saturday: 9:00 AM – 2:00 PM', 'Sunday: 9:00 AM – 2:00 PM',
@@ -111,6 +114,14 @@ const cases = [
   // 'closed on weekends' — 부사 on이 끼어도 진짜 휴관 주장은 계속 잡혀야 한다.
   ['TP-closed-on-weekends (must FLAG)', post(WEEK_OPEN_MON,
     'The office is closed on weekends, so plan a weekday visit.'), 1],
+  // 08-17 닥시네스와르: 점심 휴식(12:30~15:30)이 있는 사원. "arriving at 1pm
+  // means a locked gate"는 부정어가 시각 뒤에 오는 정확한 경고 — 발행 당일
+  // 격리됐고 수리기는 고칠 게 없었다. 앞 80자만 보던 규칙에 뒤 90자를 추가.
+  ['FP-time-then-consequence (should be CLEAN)', post(SPLIT_DAY,
+    'The temple keeps a split schedule: 5:00 AM to 12:30 PM, then 3:30 to 7:30 PM. Plan around that gap — arriving at 1pm means a locked gate and a two-hour wait.'), 0],
+  // 역방향: 같은 시간표에 "1pm에 오라"는 진짜 잘못된 권유는 여전히 잡혀야.
+  ['TP-recommends-closed-hour (must FLAG)', post(SPLIT_DAY,
+    'The quietest time to wander the courtyard is around 1pm, when the tour groups have left.'), 1],
 ];
 
 let fail = 0;
