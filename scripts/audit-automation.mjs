@@ -117,6 +117,17 @@ for (const [f, src] of sources) {
   const upstream = [...src.matchAll(/workflows:\s*\[?'([^']+)'/g)].map((m) => m[1]);
   if (group && upstream.length) contenders.push({ f, name, group, upstream });
 
+  // ── PUSH-NO-WRITE ─────────────────────────────────────────
+  // The job pushes to the repo but never declares `permissions: contents:
+  // write`. GitHub's default token is read-only for new workflows, so the
+  // job does its whole run and then dies at `git push` with a 403 — the
+  // index-coverage audit's first Tuesday (2026-08-18): sampled, alarmed,
+  // committed locally, and lost the log. Every job that pushes must say so.
+  if (/git push\b/.test(src) && !/permissions:\s*[\s\S]{0,120}?contents:\s*write/.test(src)) {
+    add('PUSH-NO-WRITE', f,
+      'this workflow runs `git push` but declares no `permissions: contents: write` — the default token is read-only and the push 403s after the whole job has run');
+  }
+
   // ── SWALLOWED ─────────────────────────────────────────────
   // `|| true` on a line that writes a file, where nothing afterwards checks
   // that the file has content. This is how a dead crawler stays invisible.
@@ -150,7 +161,7 @@ for (const [f, src] of sources) {
 }
 
 // ── report ──────────────────────────────────────────────────
-const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED'];
+const order = ['EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

@@ -13,6 +13,11 @@ concurrency:
   group: index-coverage
   cancel-in-progress: false
 
+# The job commits its sample log; without this the first run (2026-08-18)
+# audited, alarmed, and then died at push with a 403 for github-actions[bot].
+permissions:
+  contents: write
+
 jobs:
   audit:
     runs-on: ubuntu-latest
