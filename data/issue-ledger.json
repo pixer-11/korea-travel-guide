@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "STALE-RATING ayutthaya-ayutthaya-historical-park.md": {
+      "since": "2026-08-17",
+      "last": "2026-08-17",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
