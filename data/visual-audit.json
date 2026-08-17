@@ -9464,5 +9464,117 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Concert performance at music venue event",
   "at": "2026-08-16T20:11:19.881Z"
+ },
+ "guangzhou-guangzhou-tv-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Canton_Tower_at_night_Guangzhou_2024_dllu.jpg/3840px-Canton_Tower_at_night_Guangzhou_2024_dllu.jpg": {
+  "slug": "guangzhou-guangzhou-tv-tower",
+  "verdict": "MATCH",
+  "reason": "Guangzhou TV Tower with distinctive rainbow lighting",
+  "reasonKo": "광저우TV타워, 무지개 조명 특징",
+  "at": "2026-08-17T13:24:50.154Z"
+ },
+ "guangzhou-temple-of-the-six-banyan-trees\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Temple_of_the_Six_Banyan_Trees_2013-08.JPG": {
+  "slug": "guangzhou-temple-of-the-six-banyan-trees",
+  "verdict": "MATCH",
+  "reason": "Traditional Chinese temple with upturned eaves, courtyard se",
+  "reasonKo": "전형적 중국 사찰, 처마와 마당",
+  "at": "2026-08-17T13:24:52.647Z"
+ },
+ "guangzhou-tianzi-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TinZiMaaTau.jpg/1920px-TinZiMaaTau.jpg": {
+  "slug": "guangzhou-tianzi-wharf",
+  "verdict": "MISMATCH",
+  "reason": "Building is a museum, not a wharf attraction",
+  "reasonKo": "박물관 건물, 부두 명소 아님",
+  "at": "2026-08-17T13:24:55.137Z"
+ },
+ "guangzhou-yuexiu-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Yxp.JPG": {
+  "slug": "guangzhou-yuexiu-park",
+  "verdict": "MATCH",
+  "reason": "Gate entrance of Yuexiu Park, Guangzhou",
+  "reasonKo": "광저우 월수공원 정문",
+  "at": "2026-08-17T13:24:56.522Z"
+ },
+ "jaipur-sheesh-mahal-amber-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg/3840px-PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg": {
+  "slug": "jaipur-sheesh-mahal-amber-fort",
+  "verdict": "MATCH",
+  "reason": "Amber Fort palace courtyard with characteristic architecture",
+  "reasonKo": "앰버 포트 궁전 중정, 특징적 건축",
+  "at": "2026-08-17T13:24:59.357Z"
+ },
+ "jaipur-the-city-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/3840px-Jaipur_03-2016_20_City_Palace_complex.jpg": {
+  "slug": "jaipur-the-city-palace",
+  "verdict": "MATCH",
+  "reason": "City Palace Jaipur's iconic pink facade",
+  "reasonKo": "자이푸르 시티팰리스의 상징적 핑크색 건축",
+  "at": "2026-08-17T13:25:01.783Z"
+ },
+ "kolkata-biswa-bangla-gate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kolkata_Gate_%28officially_known_as_Biswa_Bangla_Gate%29.jpg/1920px-Kolkata_Gate_%28officially_known_as_Biswa_Bangla_Gate%29.jpg": {
+  "slug": "kolkata-biswa-bangla-gate",
+  "verdict": "MATCH",
+  "reason": "Iconic Biswa Bangla Gate structure with distinctive spiral d",
+  "reasonKo": "비스와방글라게이트의 특징적인 나선형 구조",
+  "at": "2026-08-17T13:25:03.649Z"
+ },
+ "kolkata-calcutta-riverside\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Calcutta_Riverside%2C_Batanagar.jpg": {
+  "slug": "kolkata-calcutta-riverside",
+  "verdict": "MATCH",
+  "reason": "Calcutta Riverside storefront clearly visible, Kolkata setti",
+  "reasonKo": "캘커타 riverside 간판 명확, 콜카타 거리",
+  "at": "2026-08-17T13:25:07.306Z"
+ },
+ "kolkata-dakshineswar-kali-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/1920px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG": {
+  "slug": "kolkata-dakshineswar-kali-temple",
+  "verdict": "MATCH",
+  "reason": "Dakshineswar Kali Temple exterior, distinctive architecture",
+  "reasonKo": "닥시네스와르 칼리 사원의 특징적 외관",
+  "at": "2026-08-17T13:25:09.360Z"
+ },
+ "kolkata-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Eco_Park_Promenade_%2825_February_2024%29.jpg": {
+  "slug": "kolkata-eco-park",
+  "verdict": "MATCH",
+  "reason": "Park with palms, flowers, waterfront setting visible",
+  "reasonKo": "야자수, 꽃, 수변이 있는 공원",
+  "at": "2026-08-17T13:25:11.396Z"
+ },
+ "new-delhi-lodhi-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg/3840px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg": {
+  "slug": "new-delhi-lodhi-garden",
+  "verdict": "MATCH",
+  "reason": "Historic brick structure in Lodhi Garden, Delhi",
+  "reasonKo": "델리 로디 가든의 역사적 벽돌 건축물",
+  "at": "2026-08-17T13:25:13.536Z"
+ },
+ "new-delhi-safdarjung-tomb-delhi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Safdarjung_tomb_new_delhi_rj.jpg/3840px-Safdarjung_tomb_new_delhi_rj.jpg": {
+  "slug": "new-delhi-safdarjung-tomb-delhi",
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names India (vision said: This is Safdarjung Tomb's main mausoleum, not the venue's ex)",
+  "reasonKo": null,
+  "at": "2026-08-17T13:25:16.969Z"
+ },
+ "new-delhi-shri-laxmi-narayan-temple-birla-mandir\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg/3840px-Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg": {
+  "slug": "new-delhi-shri-laxmi-narayan-temple-birla-mandir",
+  "verdict": "MATCH",
+  "reason": "Hindu temple with distinctive red/cream architecture, domes",
+  "reasonKo": "빨간색/크림색 건축, 돔이 있는 힌두 사원",
+  "at": "2026-08-17T13:25:18.909Z"
+ },
+ "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": {
+  "slug": "new-delhi-yamuna-ghat",
+  "verdict": "MATCH",
+  "reason": "Yamuna River ghat with boats and birds",
+  "reasonKo": "야무나 강 갓, 보트, 새들",
+  "at": "2026-08-17T13:25:21.573Z"
+ },
+ "toulouse-basilique-saint-sernin-de-toulouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/1920px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg": {
+  "slug": "toulouse-basilique-saint-sernin-de-toulouse",
+  "verdict": "MATCH",
+  "reason": "Basilica exterior, Romanesque brick architecture, Toulouse",
+  "reasonKo": "툴루즈 로마네스크 양식 대성당",
+  "at": "2026-08-17T13:25:24.008Z"
+ },
+ "udaipur-pichola-lake-udaipur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg/3840px-Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg": {
+  "slug": "udaipur-pichola-lake-udaipur",
+  "verdict": "MATCH",
+  "reason": "Sunset over lake with palace, boats, mountains visible",
+  "reasonKo": "호수 위 석양, 궁전, 보트, 산이 보임",
+  "at": "2026-08-17T13:25:26.921Z"
  }
 }
