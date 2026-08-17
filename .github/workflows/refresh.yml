@@ -45,6 +45,18 @@ jobs:
       - name: Resync rating badges in descriptions
         run: node scripts/resync-rating-badges.mjs
 
+      # The badge above is only half the surface: 293 posts also write the
+      # figure into a SENTENCE ("verified visitor ratings put it at 4.8 stars"),
+      # and nothing reached those until 2026-08-17, when Ayutthaya shipped 4.8
+      # in the prose above a fact box reading 4.7. Same slot, same reasoning as
+      # the badge — the number and the data it cites cannot be a week apart.
+      # Digits only, in English and its four translations, with each srcHash
+      # re-stamped so a number-only edit queues no re-translation. Hedges
+      # ("sits above 4.5") are deliberately left alone: they stay true across a
+      # range, and rewriting one would make it false.
+      - name: Resync ratings written into prose
+        run: node scripts/resync-prose-ratings.mjs --apply
+
       # Opening hours move in that same refresh, and the PROSE quotes them:
       # "6pm to 9pm is noticeably quieter" on a museum that closes at 5:30,
       # "the market runs 7am to 11pm" on a market that shuts at 10. Both were
@@ -90,7 +102,24 @@ jobs:
           # a no-change week forgets its progress and re-checks the same posts.
           # visual-audit.json carries the dead-hotlink flags for the nightly
           # patrol; losing it would silently drop the replacement queue.
-          git add src/content/posts data/refresh-cursor.json data/visual-audit.json data/places-budget.json
+          # src/content/i18n was missing here until 2026-08-17, and both resync
+          # steps above write translations. Every translated file they fixed was
+          # discarded on the runner — no refresh commit in the repo's history
+          # contains a single i18n file — so the English figure moved while its
+          # four translations kept the old one, and the srcHash re-stamp meant to
+          # spare a re-translation never survived to be read.
+          git add src/content/posts src/content/i18n data/translation-quality.json \
+                  data/refresh-cursor.json data/visual-audit.json data/places-budget.json
+          # A staged DELETION here is never this job's intent: it only rewrites
+          # figures in files that already exist. Windows disk cleanup emptied a
+          # worktree on 2026-08-13 and a directory-wide `git add` is exactly how
+          # that becomes an unattended commit removing live posts.
+          if git diff --staged --name-only --diff-filter=D | grep -q .; then
+            echo "::error::Staged deletions in a figures-only job — refusing to commit."
+            git diff --staged --name-only --diff-filter=D
+            git reset
+            exit 1
+          fi
           if git diff --staged --quiet; then
             echo "Nothing to refresh."
           else

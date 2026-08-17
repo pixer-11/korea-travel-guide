@@ -21,7 +21,7 @@ import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
-import { srcHashOf, storedHashIn } from './lib/src-hash.mjs';
+import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
@@ -374,7 +374,10 @@ for (const f of files) {
   if (!body) continue;
 
   const data = { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer, faq: fm.faq, body };
-  const hash = srcHashOf(data);
+  // Through the shared reader, so a tool that re-stamps a translation's hash
+  // (resync-rating-badges, resync-prose-ratings) computes the identical value.
+  // They used to build it from the pieces themselves and got it subtly wrong.
+  const hash = srcHashOfPostFile(raw);
   let queuedForThisPost = false;
   for (const lang of langs) {
     if (!LANGS[lang]) continue;

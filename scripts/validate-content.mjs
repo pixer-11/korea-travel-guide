@@ -24,6 +24,7 @@ import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
+import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
@@ -381,10 +382,16 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // shipped "a 4.3 rating" above a box reading 4.2. Prose should characterise and
   // leave the live number to the box — the writer prompt now says so — but an older
   // post can still drift when Google updates its figure.
+  //
+  // The check and the repair read from ONE juror (prose-rating-sync.mjs), the way
+  // the script-leak and broken-syllable checks do. The local regex this replaced
+  // was narrower than the repair: it knew "4.8 stars" but not "a 4.7 average" or
+  // "the rating sits at 4.9", so 12 of the 293 posts that bake a figure were never
+  // checked at all — and it read the hedge "consistently sits above 4.5" as a
+  // false claim when the live 4.6 makes it true.
   if (p.rating && p.body) {
-    const m = p.body.match(/\b([1-5]\.\d)\s*(?:\/\s*5\b|rating|stars?|점)/i);
-    if (m && Math.abs(parseFloat(m[1]) - p.rating) >= 0.05) {
-      issues.push(`STALE-RATING: ${p.f} — prose says ${m[1]}, live data says ${p.rating}`);
+    for (const c of ratingClaimProblems(p.body, p.rating)) {
+      issues.push(`STALE-RATING: ${p.f} — ${c.reason}`);
     }
   }
 

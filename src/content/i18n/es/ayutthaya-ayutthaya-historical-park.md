@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ayutthaya-ayutthaya-historical-park
-srcHash: 'fd2ab2a6ef6f'
+srcHash: 'fd2145136486'
 title: 'Parque Histórico de Ayutthaya: Guía de viaje'
 description: El Parque Histórico de Ayutthaya es un sitio Patrimonio de la Humanidad de la UNESCO con templos en ruinas y plataformas de palacios repartidos por la antigua isla real, a unos 80 km al norte de Bangkok.
 quickAnswer: El Parque Histórico de Ayutthaya es un sitio Patrimonio de la Humanidad de la UNESCO con templos en ruinas y plataformas de palacios repartidos por la antigua isla real, a unos 80 km al norte de Bangkok. Planifica entre medio día y un día completo, alquila una bicicleta o contrata un tuk-tuk/bote de cola larga (longtail) para moverte entre sitios como Wat Mahathat (la famosa cabeza de Buda entre raíces de árbol), Wat Ratchaburana y Wat Phra Si Sanphet. Ve temprano por la mañana o al final de la tarde para evitar el calor y captar la mejor luz sobre los chedis de ladrillo rojo.
@@ -22,7 +22,7 @@ faq:
 
 Ayutthaya fue la capital siamesa durante más de 400 años (1350–1767) y, en su apogeo, rivalizaba en tamaño y riqueza con ciudades contemporáneas como París. Los ejércitos birmanos arrasaron la ciudad en 1767, dejando tras de sí los inquietantes chedis de ladrillo y estuco, estatuas de Buda decapitadas y columnas derribadas que hoy conforman el Parque Histórico de Ayutthaya, inscrito como Patrimonio de la Humanidad por la UNESCO en 1991.
 
-Es una de las zonas arqueológicas más fotogénicas e históricamente densas del sudeste asiático: las calificaciones verificadas de los visitantes le otorgan 4.8 estrellas, reflejo de lo mucho que impresiona incluso a quienes ya han visto Angkor o Bagan.
+Es una de las zonas arqueológicas más fotogénicas e históricamente densas del sudeste asiático: las calificaciones verificadas de los visitantes le otorgan 4.7 estrellas, reflejo de lo mucho que impresiona incluso a quienes ya han visto Angkor o Bagan.
 
 ## Cómo llegar
 

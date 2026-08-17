@@ -16,11 +16,22 @@
 // translator wrote it. No API call, no re-translation.
 
 // rating ★ ( … digits … )  — ASCII or full-width parentheses.
+//
+// The decimal separator has to be part of the pattern, not assumed. Spanish
+// writes the badge the way Spanish writes numbers — "4,2★ (27.451 reseñas)" —
+// and a rating pattern of `\d(?:\.\d)?` matches only the "2" of "4,2". The
+// rewrite then started mid-number and produced "4,4.2★ (27,451.451 reseñas)".
+// Found 2026-08-17 on 129 of the 398 Spanish descriptions; it had never shipped
+// only because refresh.yml was not staging src/content/i18n at all, so every
+// corrupted file was discarded on the runner. Fixing that staging without this
+// would have published the corruption to every Spanish page carrying a badge.
 const BADGE = new RegExp(
-  String.raw`(\d(?:\.\d)?)(\s*★\s*[（(][^）)]*?)([\d][\d,，]*)([^）)]*?[）)])`,
+  String.raw`(\d(?:[.,]\d)?)(\s*★\s*[（(][^）)]*?)([\d][\d.,，]*)([^）)]*?[）)])`,
 );
 
 const groupDigits = (n) => Number(n).toLocaleString('en-US');
+// Spanish groups with "." and decimalises with "," — the exact mirror of en.
+const groupDigitsEs = (n) => Number(n).toLocaleString('de-DE');
 
 /**
  * Rewrite the badge's figures in one description.
@@ -34,14 +45,21 @@ export function resyncBadge(text, rating, total) {
   if (!m) return null;
   if (!(Number(rating) > 0) || !(Number(total) > 0)) return null;
 
-  const newRating = Number(rating).toFixed(1);
+  // Each figure keeps ITS OWN convention, read off the text rather than assumed
+  // from the language. They genuinely disagree inside one badge: Busan Tower's
+  // Spanish description reads "4.2★ (9.727 reseñas)" — an English decimal on
+  // the rating, a Spanish group separator on the count. Deciding both from the
+  // rating rewrote that count as "9,727", which a Spanish reader parses as nine
+  // point seven two seven.
+  const newRating = Number(rating).toFixed(1).replace('.', m[1].includes(',') ? ',' : '.');
   // Match the digit grouping already in the text — but only when the old number
   // was big enough to HAVE grouping. "706" carries no evidence either way, and
   // reading it as "this text does not group" would drop the comma from every
   // venue that crossed a thousand reviews since it was written.
-  const oldTotal = Number(String(m[3]).replace(/[,，]/g, ''));
-  const grouped = oldTotal >= 1000 ? /[,，]/.test(m[3]) : true;
-  const newTotal = grouped ? groupDigits(total) : String(total);
+  const oldTotal = Number(String(m[3]).replace(/[.,，]/g, ''));
+  const grouped = oldTotal >= 1000 ? /[.,，]/.test(m[3]) : true;
+  const groupsWithPeriod = /\.\d{3}(?:\D|$)/.test(m[3]);
+  const newTotal = grouped ? (groupsWithPeriod ? groupDigitsEs(total) : groupDigits(total)) : String(total);
 
   const out = s.replace(BADGE, `${newRating}$2${newTotal}$4`);
   return out === s ? null : out;
@@ -51,7 +69,10 @@ export function resyncBadge(text, rating, total) {
 export function readBadge(text) {
   const m = BADGE.exec(String(text ?? ''));
   if (!m) return null;
-  return { rating: Number(m[1]), total: Number(String(m[3]).replace(/[,，]/g, '')) };
+  return {
+    rating: Number(String(m[1]).replace(',', '.')),
+    total: Number(String(m[3]).replace(/[.,，]/g, '')),
+  };
 }
 
 /**

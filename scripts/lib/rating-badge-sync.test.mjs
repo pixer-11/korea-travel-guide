@@ -63,3 +63,42 @@ test('badge-only difference is recognised, prose changes are not', () => {
   );
   assert.equal(differsOnlyInBadge('same', 'same'), false);
 });
+
+// ── Spanish writes numbers the other way round (found 2026-08-17) ──────────
+// "4,2★ (27.451 reseñas)": comma decimal, period thousands. The rating pattern
+// used to be `\d(?:\.\d)?`, which matched only the "2" of "4,2" — so a resync
+// started mid-number and wrote "4,4.2★ (27,451.451 reseñas)". 129 of the 398
+// Spanish descriptions were exposed; it had never shipped only because
+// refresh.yml was not staging src/content/i18n, which discarded every file.
+
+test('reads a Spanish badge instead of misparsing its digits', () => {
+  assert.deepEqual(readBadge('4,2★ (27.451 reseñas): opiniones'), { rating: 4.2, total: 27451 });
+  assert.deepEqual(readBadge('4,7★ (710 reseñas) — qué dicen'), { rating: 4.7, total: 710 });
+});
+
+test('a Spanish badge already matching the live figures is left alone', () => {
+  // The regression that mattered: this returned a corrupted string before.
+  assert.equal(resyncBadge('4,2★ (27.451 reseñas): opiniones', 4.2, 27451), null);
+  assert.equal(resyncBadge('4,7★ (710 reseñas) — qué dicen', 4.7, 710), null);
+});
+
+test('a Spanish badge is rewritten in Spanish, not in English', () => {
+  assert.equal(
+    resyncBadge('Una cueva. 4,2★ (27.451 reseñas): opiniones', 4.4, 31926),
+    'Una cueva. 4,4★ (31.926 reseñas): opiniones',
+  );
+});
+
+test('English keeps its own convention when Spanish is fixed alongside it', () => {
+  assert.equal(
+    resyncBadge('A cave. 4.2★ (27,451 reviews) — x', 4.4, 31926),
+    'A cave. 4.4★ (31,926 reviews) — x',
+  );
+});
+
+test('a Spanish badge-only difference is still recognised for the re-stamp', () => {
+  assert.equal(
+    differsOnlyInBadge('Una cueva. 4,2★ (27.451 reseñas): x', 'Una cueva. 4,4★ (31.926 reseñas): x'),
+    true,
+  );
+});
