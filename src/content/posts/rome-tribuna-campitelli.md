@@ -21,14 +21,8 @@ faq:
   - q: What else is nearby to combine with a visit?
     a: The Capitoline Museums, Piazza del Campidoglio, the Roman Forum, and the Colosseum are all a short walk away, as are the historic trattorias and sights of the Jewish Ghetto along Via del Portico d'Ottavia.
 aiGenerated: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fe/Campitelli_-_fioraio_alla_Tribuna_di_Campitelli_1230368.JPG
-  credit: 'Photo: Lalupa / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Campitelli_-_fioraio_alla_Tribuna_di_Campitelli_1230368.JPG
-  focus:
-    x: 55
-    'y': 45
+draft: true
+heldReason: wrong-venue-photo
 ---
 
 ## Why it's worth the walk

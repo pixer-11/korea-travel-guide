@@ -5,14 +5,6 @@ country: China
 region: Shanghai
 category: restaurant
 pubDate: '2026-07-29'
-heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1665930_66QQHlFQsX1JaUl7L9X7Fd517b10iZdVPMdqiyzMqYA.jpg
-  credit: 'Photo: Foursquare user content (Love Concept Cafe)'
-  license: foursquare
-  source: https://foursquare.com/v/56d4415dcd10c2bb85c38cda
-  focus:
-    x: 50
-    y: 45
 tags:
   - shanghai
   - new & trending
@@ -29,6 +21,8 @@ faq:
   - q: What else is nearby?
     a: Plaza 66 sits on Nanjing Xi Lu, close to Jing'an Temple and the Nanjing Road shopping district, making it easy to combine dinner with an afternoon exploring that part of Shanghai.
 aiGenerated: true
+draft: true
+heldReason: wrong-venue-photo
 ---
 
 ## Why go

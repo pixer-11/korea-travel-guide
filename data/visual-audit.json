@@ -4115,9 +4115,10 @@
  },
  "rome-futura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg": {
   "slug": "rome-futura",
-  "verdict": "MATCH",
-  "reason": "release check: Outdoor dining scene in Rome, plausible venue exterior",
-  "at": "2026-08-11T04:14:06.653Z"
+  "verdict": "MISMATCH",
+  "reason": "wrong venue: anonymous Trastevere restaurant, not Futura (owner-directed audit 2026-08-16)",
+  "at": "2026-08-11T04:14:06.653Z",
+  "reasonKo": "다른 가게 사진"
  },
  "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": {
   "slug": "rome-roman-forum",
@@ -4375,9 +4376,10 @@
  },
  "shanghai-love-sushi\u0001https://fastly.4sqi.net/img/general/original/1665930_66QQHlFQsX1JaUl7L9X7Fd517b10iZdVPMdqiyzMqYA.jpg": {
   "slug": "shanghai-love-sushi",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Interior of venue with Love neon sign, plausible hero",
-  "at": "2026-08-16T20:30:33.964Z"
+  "verdict": "MISMATCH",
+  "reason": "wrong venue: Love Concept Cafe, not Love Sushi (owner-directed audit 2026-08-16)",
+  "at": "2026-08-16T20:30:33.964Z",
+  "reasonKo": "다른 가게 사진"
  },
  "shanghai-vice\u0001https://fastly.4sqi.net/img/general/original/20410869_p1dlfceER_gz4l7VvzLp-E9tjFr8MVyfOn8LtGFfzts.jpg": {
   "slug": "shanghai-vice",
@@ -6381,9 +6383,9 @@
  },
  "marseille-jo-s-burger\u0001https://fastly.4sqi.net/img/general/original/11006650_2LSq4Ugw3QrdyKJVoUz6TPTawu1-uF67N61bgCFVDgw.jpg": {
   "slug": "marseille-jo-s-burger",
-  "verdict": "MATCH",
-  "reason": "Burger with cheese, fries, slaw plating typical of modern bu",
-  "reasonKo": "현대적 버거 레스토랑의 전형적 플레이팅",
+  "verdict": "MISMATCH",
+  "reason": "wrong venue: Le Bon Burger, not Jo's Burger (owner-directed audit 2026-08-16)",
+  "reasonKo": "다른 가게 사진",
   "at": "2026-08-07T09:20:10.158Z"
  },
  "milan-yapa\u0001https://fastly.4sqi.net/img/general/original/502352968_njTs29CK5JidGh00-YLX_V6IkLtv8qANKvwXSXnbaA8.jpg": {
@@ -9259,9 +9261,10 @@
  },
  "rome-tribuna-campitelli\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Campitelli_-_fioraio_alla_Tribuna_di_Campitelli_1230368.JPG": {
   "slug": "rome-tribuna-campitelli",
-  "verdict": "MATCH",
-  "reason": "patrol re-check: Flower-adorned doorway entrance, plausible Rome venue exterior",
-  "at": "2026-08-16T20:26:13.411Z"
+  "verdict": "MISMATCH",
+  "reason": "wrong venue: a florist, post is a restaurant (owner-directed audit 2026-08-16)",
+  "at": "2026-08-16T20:26:13.411Z",
+  "reasonKo": "다른 가게 사진"
  },
  "taiyuan-2026-china-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG": {
   "slug": "taiyuan-2026-china-open-snooker",

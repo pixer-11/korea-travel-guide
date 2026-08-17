@@ -5,11 +5,6 @@ country: Italy
 region: Rome
 category: trendy
 pubDate: '2026-07-23'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg/1920px-Restaurant_in_Trastevere%2C_Rome_%284789517850%29.jpg
-  credit: 'Photo: wiccahwang / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Restaurant_in_Trastevere,_Rome_(4789517850).jpg
 gallery: []
 tags:
   - rome
@@ -27,6 +22,8 @@ faq:
   - q: What else is worth doing nearby?
     a: Monti's boutique-lined streets are ideal for a pre- or post-dinner walk, and Santa Maria Maggiore basilica is about 10–15 minutes away on foot.
 aiGenerated: true
+draft: true
+heldReason: wrong-venue-photo
 ---
 
 ## Why Futura is worth seeking out
