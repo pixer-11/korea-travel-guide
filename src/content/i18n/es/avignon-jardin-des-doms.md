@@ -1,61 +1,61 @@
 ---
 lang: es
 slug: avignon-jardin-des-doms
-srcHash: '173f3c9313c1'
+srcHash: '2927fa87c40e'
 title: 'Jardin des Doms: Guía de viaje de Aviñón (4,5★)'
-description: 'El Jardin des Doms es el parque en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas amplias sobre el Ródano y el puente Saint-Bénézet. 4,5★ (3.950 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'El Jardin des Doms es el parque en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas amplias sobre el Ródano y el puente Saint-Bénézet. Sube a última hora de la tarde si buscas la mejor luz, o ve a primera hora de la mañana o después de las 20:00 si prefieres tener los caminos para ti solo: los fines de semana se llena entre el mediodía y las 20:00. Calcula entre 45 minutos y una hora, más si te entretienes junto al estanque o en la cafetería.'
+description: 'El Jardin des Doms es el parque en lo alto de la colina, justo encima del Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas sobre el Ródano y el puente Saint-Bénézet. 4,5★ (3.955 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: El Jardin des Doms es el parque situado en lo alto de la colina, justo encima del Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas sobre el Ródano y el puente Saint-Bénézet. Conviene subir a última hora de la tarde para disfrutar de la mejor luz, y acudir a primera hora de la mañana o después de las 20:00 si se busca tener los caminos para uno mismo, ya que los fines de semana el parque se llena entre el mediodía y las 20:00. Hay que calcular entre 45 minutos y una hora, más si se hace una pausa junto al estanque o en la cafetería.
 faq:
   - q: ¿Cómo se llega al Jardin des Doms?
-    a: Sube a pie por la Montée des Moulins desde el Palacio de los Papas (unos 10-15 minutos caminando desde la Place de l'Horloge), o toma el pequeño ascensor/funicular cerca del palacio si prefieres evitar la subida.
-  - q: ¿Se paga entrada?
+    a: Se puede subir a pie por la Montée des Moulins desde el Palacio de los Papas (unos 10-15 minutos caminando desde la Place de l'Horloge), o tomar el pequeño ascensor/funicular cercano al palacio para evitar la subida.
+  - q: ¿Hay que pagar entrada?
     a: No, el jardín es gratuito y está abierto al público todos los días de 7:30 a 22:00.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Entre semana, de 20:00 a 22:00 es cuando hay más calma. Los fines de semana el parque se mantiene relativamente tranquilo desde las 8:00, pero se llena entre el mediodía y las 20:00; conviene evitar ese tramo.
-  - q: ¿Cuánto tiempo conviene reservar para la visita?
-    a: Con 45 minutos cubres las terrazas principales y el estanque; si quieres sentarte en la cafetería o disfrutar la vista con calma, cuenta con una hora completa.
+    a: Entre semana, el tramo de 20:00 a 22:00 es el más calmado. Los fines de semana el parque se mantiene relativamente tranquilo desde las 8:00, pero se llena entre el mediodía y las 20:00; conviene evitar esa franja.
+  - q: ¿Cuánto tiempo conviene dedicarle?
+    a: Con 45 minutos se recorren las terrazas principales y el estanque; conviene reservar una hora completa si se quiere sentar en la cafetería o disfrutar con calma de la vista.
   - q: ¿Qué hay cerca?
-    a: El Palacio de los Papas y el puente Saint-Bénézet quedan a poca distancia cuesta abajo, por lo que el jardín se combina fácilmente con la visita a cualquiera de los dos.
+    a: Tanto el Palacio de los Papas como el puente Saint-Bénézet quedan a un corto paseo cuesta abajo, lo que hace que el jardín sea fácil de combinar con cualquiera de las dos visitas.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos provienen de Google Places en tiempo real; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 
-Aquí se viene por la vista que Aviñón no muestra desde la calle. El Jardin des Doms se asienta sobre el peñasco rocoso que corona el Palacio de los Papas, y desde sus terrazas el Ródano se despliega abajo, con el puente Saint-Bénézet estirándose a medio camino como una frase inacabada.
+Aquí se viene a buscar la vista que Aviñón no muestra a pie de calle. El Jardin des Doms se asienta sobre el peñasco rocoso que domina el Palacio de los Papas, y desde sus terrazas se abre abajo el Ródano, con el puente Saint-Bénézet avanzando hasta la mitad de su cauce como una frase inacabada.
 
-En una tarde despejada se distinguen las colinas del Luberon, difuminadas en azul en la distancia. Es el tipo de vista que te deja callado a media frase.
+En una tarde despejada pueden verse las colinas del Luberón, difuminadas de azul en la distancia. Es el tipo de vista que deja a cualquiera con la palabra en la boca.
 
 ## Cómo llegar
 
-El jardín se alcanza tras una caminata corta pero empinada desde el Palacio de los Papas: sigue la Montée des Moulins y deja que sean tus piernas las que protesten. También hay un pequeño funicular o ascensor cerca del Palacio Papal que sube a los visitantes por la roca, pensado para quienes prefieren no subir a pie.
+El jardín queda a un paseo corto pero empinado desde el Palacio de los Papas: basta con seguir la Montée des Moulins y dejar que las piernas protesten un poco. Cerca del palacio papal también hay un pequeño funicular o ascensor que sube a los visitantes por la roca, ideal para quienes prefieren evitar la cuesta.
 
-De una forma u otra, llegarás a la cima en diez o quince minutos desde la plaza principal del casco antiguo, la Place de l'Horloge. No hace falta coche: el centro de Aviñón es compacto y se recorre a pie sin problema.
+Se elija la opción que se elija, se llega a la cima en diez o quince minutos desde la plaza principal del casco antiguo, Place de l'Horloge. No hace falta coche: el centro de Aviñón es compacto y se recorre fácilmente a pie.
 
 ## Qué ver y hacer
 
-El parque en sí es umbrío, de caminos de grava, y se organiza alrededor de un pequeño estanque artificial donde nadan patos y, de vez en cuando, alguna tortuga dormita al sol sobre una piedra. Al pasear por los senderos sinuosos bajo plátanos y pinos parasol, se llega a distintas terrazas mirador orientadas hacia el río.
+El parque es sombreado, de caminos de grava, y se organiza en torno a un pequeño estanque artificial con patos y alguna tortuga que de vez en cuando toma el sol sobre una piedra. Al recorrer los senderos serpenteantes bajo plátanos y pinos piñoneros, se van encontrando distintas terrazas mirador orientadas al río.
 
-Hay una cafetería modesta en el propio parque para tomar un café o una bebida fría con vistas, algo útil porque el calor del verano puede apretar fuerte en las terrazas descubiertas. No te pierdas:
+Hay una cafetería modesta dentro del recinto para tomar un café o una bebida fría con vistas, algo útil porque el calor del verano puede ser intenso en las terrazas descubiertas. No hay que perderse:
 
 - La terraza mirador principal, orientada al Ródano y al puente Saint-Bénézet
-- El estanque y sus bancos a la sombra, una buena parada para descansar si vas con niños
+- El estanque y sus bancos a la sombra, una buena parada para descansar con niños
 - Los restos de las antiguas murallas de la fortaleza, integrados en los bordes del parque
 
-Calcula 45 minutos para una vuelta rápida, o una hora completa si quieres sentarte junto al estanque y simplemente ver cómo cambia la luz sobre el río.
+Basta con 45 minutos para un recorrido rápido, o una hora completa si se quiere sentar junto al estanque y simplemente contemplar cómo cambia la luz sobre el río.
 
 ## Cuándo ir
 
-El jardín abre a las 7:30 y cierra a las 22:00 todos los días, lo que convierte la mañana temprano y el atardecer en las dos mejores franjas. Los fines de semana suele haber calma entre las 8:00 y las 22:00 en general, aunque el tramo del mediodía a las 20:00 atrae a la mayor parte de la gente, sobre todo en verano.
+El jardín abre a las 7:30 y permanece abierto hasta las 22:00 todos los días, lo que convierte la mañana temprano y el atardecer en las dos mejores franjas horarias. Los fines de semana suele haber tranquilidad entre las 8:00 y las 22:00 en general, pero el tramo de mediodía a 20:00 concentra la mayor afluencia, especialmente en verano.
 
-Entre semana, las horas más tranquilas van de 20:00 a 22:00, cuando ya se han ido los grupos de excursión de un día y la luz sobre el río se vuelve dorada. La primavera tardía y el otoño temprano traen temperaturas agradables, sin la calima del calor de julio que puede deslucir las vistas de largo alcance.
+Entre semana, las horas más tranquilas son de 20:00 a 22:00, cuando ya se han marchado los grupos de excursionistas de un día y la luz sobre el río se vuelve dorada. Finales de primavera y principios de otoño ofrecen temperaturas agradables, sin la calima de julio que puede deslucir las vistas de largo alcance.
 
 ## Cómo visitarlo como un local
 
-El Jardin des Doms de Aviñón es conocido y se llena de gente, así que elegir bien el momento importa más que buscar una entrada secreta. Apunta a la mañana temprano, justo tras la apertura a las 7:30, o sube después de cenar, antes del cierre a las 22:00: ambas franjas son notablemente más tranquilas.
+El Jardin des Doms de Aviñón es conocido y se llena con facilidad, así que elegir bien el horario importa más que buscar una entrada secreta. Lo ideal es ir a primera hora de la mañana, justo después de la apertura a las 7:30, o acercarse después de cenar, antes del cierre a las 22:00: ambas franjas resultan notablemente más tranquilas.
 
-No se paga entrada, así que no hay nada que reservar ni cola de tickets que planear: simplemente entras caminando. La cafetería del interior funciona como cualquier cafetería de parque francés: se pide en el mostrador o se espera a que atiendan la mesa, y el pago con tarjeta es lo habitual.
+No hay entrada que pagar, así que no hace falta reservar nada ni hacer cola para sacar tickets: simplemente se entra. La cafetería del interior funciona como cualquier cafetería de parque francés: se pide en el mostrador o se espera a que atiendan la mesa, y pagar con tarjeta es lo habitual.
 
-El error que comete la mayoría de los visitantes es tratarlo como una parada rápida para la foto, añadida de paso al Palacio de los Papas. Los locales lo viven como un paseo de verdad: recorren el circuito completo, se sientan un rato junto al estanque y disfrutan la vista desde más de una terraza, ya que el ángulo sobre el Ródano cambia según por dónde se rodee la roca.
+El error que comete la mayoría de los visitantes es tratarlo como una parada rápida para hacer fotos de camino al Palacio de los Papas. Los locales lo viven como un paseo de verdad: recorren el circuito completo, se sientan un rato junto al estanque y buscan la vista desde más de una terraza, ya que el ángulo sobre el Ródano cambia según el punto de la roca desde el que se mire.
 
-Lleva calzado adecuado para caminos de grava y algo de subida, y carga agua en verano: la sombra es decente, pero el sol puede sorprender igualmente en las terrazas abiertas. Si lo combinas con el Palacio de los Papas más abajo, haz primero el jardín, mientras tienes energía para la subida, y luego baja para terminar en el palacio.
+Conviene llevar calzado adecuado para caminos de grava y algo de subida, además de agua en verano: la sombra es decente, pero el sol puede sorprender igualmente en las terrazas abiertas. Para quienes lo combinen con el Palacio de los Papas, lo mejor es visitar primero el jardín, mientras se tienen energías para la subida, y bajar después hasta terminar en el palacio.
