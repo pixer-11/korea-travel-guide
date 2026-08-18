@@ -1,0 +1,41 @@
+{
+  "at": "2026-08-18T00:15:45.239Z",
+  "results": [
+    {
+      "key": "when-to-go",
+      "programmatic": true,
+      "pool": 248,
+      "sampled": 60,
+      "indexed": 51,
+      "failed": 0,
+      "denied": false
+    },
+    {
+      "key": "itinerary",
+      "programmatic": true,
+      "pool": 8,
+      "sampled": 8,
+      "indexed": 2,
+      "failed": 0,
+      "denied": false
+    },
+    {
+      "key": "esim",
+      "programmatic": true,
+      "pool": 20,
+      "sampled": 20,
+      "indexed": 0,
+      "failed": 0,
+      "denied": false
+    },
+    {
+      "key": "posts",
+      "programmatic": false,
+      "pool": 1000,
+      "sampled": 60,
+      "indexed": 31,
+      "failed": 0,
+      "denied": false
+    }
+  ]
+}
