@@ -18,7 +18,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - istanbul
@@ -57,6 +57,8 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Focus Istanbul Event Management
 ---
 
 ## Why this show matters

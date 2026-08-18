@@ -19,7 +19,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_(32821).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 tags:
   - abu dhabi
   - event
@@ -58,6 +58,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: UFC (Ultimate Fighting Championship)
+  url: 'https://www.ufc.com'
 ---
 
 ## Why go

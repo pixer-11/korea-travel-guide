@@ -18,7 +18,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg'
   focus:
     x: 45
-    y: 35
+    'y': 35
 tags:
   - bangkok
   - event
@@ -57,6 +57,9 @@ faq:
       crowd.
 aiGenerated: true
 eventRecurring: false
+eventOrganizer:
+  name: Live Nation Tero
+  url: 'https://www.livenationtero.co.th'
 ---
 
 ## Why this show matters

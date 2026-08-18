@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:A-STYLE_MotoGP_Aragon.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 tags:
   - alcañiz
@@ -57,6 +57,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Dorna Sports
+  url: 'https://www.motogp.com'
 ---
 
 ## Why go

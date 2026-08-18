@@ -49,6 +49,9 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
+eventOrganizer:
+  name: World Snooker Tour
+  url: 'https://www.wst.tv/'
 ---
 
 ## Why go

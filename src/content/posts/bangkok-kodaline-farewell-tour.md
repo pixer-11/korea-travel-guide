@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Kodaline_2015.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - bangkok
@@ -58,6 +58,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Live Nation Tero Entertainment
+  url: 'https://www.livenationtero.co.th/'
 ---
 ## Why this show matters
 

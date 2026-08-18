@@ -51,6 +51,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Automobile Club d'Italia (ACI)
+  url: 'https://www.aci.it'
 ---
 
 ## Why go

@@ -50,6 +50,9 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
+eventOrganizer:
+  name: Pozitif Müzik
+  url: 'https://pozitif.com'
 ---
 ## Why go
 

@@ -50,6 +50,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: IFEMA MADRID
+  url: 'https://www.ifema.es'
 ---
 
 ## Why this race matters

@@ -57,6 +57,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Live Nation Taiwan (理想國)
+  url: 'https://www.livenation.com.tw'
 ---
 ## Why go
 

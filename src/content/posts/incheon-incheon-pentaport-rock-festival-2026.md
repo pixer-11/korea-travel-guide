@@ -1,6 +1,9 @@
 ---
 title: 'Incheon Pentaport Rock Festival 2026: What to Know (Incheon)'
-description: Incheon Pentaport Rock Festival 2026 runs July 31–August 2, 2026 at Songdo Moonlight Festival Park in Incheon, with the Pixies headlining alongside Korean acts hyukoh and LEE SEUNG YOON.
+description: >-
+  Incheon Pentaport Rock Festival 2026 runs July 31–August 2, 2026 at Songdo
+  Moonlight Festival Park in Incheon, with the Pixies headlining alongside
+  Korean acts hyukoh and LEE SEUNG YOON.
 country: South Korea
 region: Incheon
 category: event
@@ -10,29 +13,54 @@ eventEndDate: '2026-08-02'
 tags:
   - incheon
   - event
-quickAnswer: Incheon Pentaport Rock Festival 2026 ran July 31–August 2, 2026 at Songdo Moonlight Festival Park in Incheon, with the Pixies headlining alongside Korean acts hyukoh and LEE SEUNG YOON. Ticket information and final set times, gates, and lineup details were published on the official Pentaport site.
+quickAnswer: >-
+  Incheon Pentaport Rock Festival 2026 ran July 31–August 2, 2026 at Songdo
+  Moonlight Festival Park in Incheon, with the Pixies headlining alongside
+  Korean acts hyukoh and LEE SEUNG YOON. Ticket information and final set times,
+  gates, and lineup details were published on the official Pentaport site.
 faq:
   - q: What are the festival dates for 2026?
-    a: July 31–August 2, 2026, per the current announcement. Festival dates can shift, so verify on the official Pentaport site before booking flights or hotels.
+    a: >-
+      July 31–August 2, 2026, per the current announcement. Festival dates can
+      shift, so verify on the official Pentaport site before booking flights or
+      hotels.
   - q: Where exactly is it held?
-    a: Songdo Moonlight Festival Park in the Songdo International Business District, Incheon — accessible via Incheon Subway Line 1 (Central Park Station area) or about 20–30 minutes by taxi from Incheon International Airport.
+    a: >-
+      Songdo Moonlight Festival Park in the Songdo International Business
+      District, Incheon — accessible via Incheon Subway Line 1 (Central Park
+      Station area) or about 20–30 minutes by taxi from Incheon International
+      Airport.
   - q: Who's headlining?
-    a: The Pixies are the announced headliner, with Korean acts hyukoh and LEE SEUNG YOON also confirmed. Full daily lineup splits are typically released in the weeks before each edition.
+    a: >-
+      The Pixies are the announced headliner, with Korean acts hyukoh and LEE
+      SEUNG YOON also confirmed. Full daily lineup splits are typically released
+      in the weeks before each edition.
   - q: How do I get tickets and how much do they cost?
-    a: Tickets are sold through official Pentaport channels and authorized sellers; prices and ticket tiers (day passes, camping options) vary by year and aren't fixed yet, so check the official site for current rates.
+    a: >-
+      Tickets are sold through official Pentaport channels and authorized
+      sellers; prices and ticket tiers (day passes, camping options) vary by
+      year and aren't fixed yet, so check the official site for current rates.
   - q: What should I pack given the season?
-    a: Late July/early August in Incheon is hot, humid, and rainy (monsoon season), so bring light breathable clothing, a poncho or umbrella, and sun protection for daytime stages.
+    a: >-
+      Late July/early August in Incheon is hot, humid, and rainy (monsoon
+      season), so bring light breathable clothing, a poncho or umbrella, and sun
+      protection for daytime stages.
 aiGenerated: true
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_%282015_Pentaport_Rock_Festival%29.jpg/3840px-2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_%282015_Pentaport_Rock_Festival%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_%282015_Pentaport_Rock_Festival%29.jpg/3840px-2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_%282015_Pentaport_Rock_Festival%29.jpg
   credit: 'Photo: HEEYON KIM / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_(2015_Pentaport_Rock_Festival).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2015_%ED%8E%9C%ED%83%80%ED%8F%AC%ED%8A%B8_(2015_Pentaport_Rock_Festival).jpg
   focus:
     x: 50
     'y': 40
+eventOrganizer:
+  name: Incheon Metropolitan City
+  url: 'https://www.incheon.go.kr'
 ---
 
 ## Why go

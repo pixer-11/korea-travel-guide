@@ -18,7 +18,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Tyler,_the_Creator_performing_%22Darling,_I%22_at_the_Barclays_Center_for_the_Chromakopia_World_Tour_(2025).jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - tokyo
@@ -59,6 +59,8 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: AEGX
 ---
 
 ## Why this show matters

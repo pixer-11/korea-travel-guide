@@ -51,6 +51,9 @@ faq:
       deciding on the second.
 aiGenerated: true
 eventRecurring: false
+eventOrganizer:
+  name: AEG Presents Asia
+  url: 'https://asia.aegpresents.com/'
 ---
 
 ## Why this show matters

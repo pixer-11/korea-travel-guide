@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:NewDad_Lollapalooza_2025.png'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - chicago
@@ -59,6 +59,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: C3 Presents
+  url: 'https://www.c3presents.com'
 ---
 
 ## Why go

@@ -50,6 +50,8 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 photoless: true
+eventOrganizer:
+  name: Wilbros Live
 ---
 
 ## Why go

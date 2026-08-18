@@ -54,6 +54,11 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: >-
+    Sun Moon Lake National Scenic Area Administration (Tourism Administration,
+    MOTC)
+  url: 'https://www.sunmoonlake.gov.tw'
 ---
 
 ## Why this festival is worth the trip

@@ -1,6 +1,10 @@
 ---
 title: 'European Aquatics Championships: What to Know (Paris)'
-description: The European Aquatics Championships run August 1–16, 2026, in Paris and Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics, most notably the Paris La Défense Arena and the Olympic Aquatics Centre in Saint-Denis.
+description: >-
+  The European Aquatics Championships run August 1–16, 2026, in Paris and
+  Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics,
+  most notably the Paris La Défense Arena and the Olympic Aquatics Centre in
+  Saint-Denis.
 country: France
 region: Paris
 category: event
@@ -8,29 +12,57 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/European_Aquatics_Championships_%2843146004564%29.jpg/1920px-European_Aquatics_Championships_%2843146004564%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/European_Aquatics_Championships_%2843146004564%29.jpg/1920px-European_Aquatics_Championships_%2843146004564%29.jpg
   credit: 'Photo: Daniel from Glasgow, United Kingdom / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:European_Aquatics_Championships_(43146004564).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:European_Aquatics_Championships_(43146004564).jpg
 gallery: []
 tags:
   - paris
   - event
-quickAnswer: The European Aquatics Championships ran August 1–16, 2026, in Paris and Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics, most notably the Paris La Défense Arena and the Olympic Aquatics Centre in Saint-Denis. The programme covered swimming, diving, artistic swimming, water polo and open water events spread across the two host areas, with competition schedule and ticket details published on the official European Aquatics (LEN) and Paris 2026 event channels.
+quickAnswer: >-
+  The European Aquatics Championships ran August 1–16, 2026, in Paris and
+  Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics,
+  most notably the Paris La Défense Arena and the Olympic Aquatics Centre in
+  Saint-Denis. The programme covered swimming, diving, artistic swimming, water
+  polo and open water events spread across the two host areas, with competition
+  schedule and ticket details published on the official European Aquatics (LEN)
+  and Paris 2026 event channels.
 faq:
   - q: What are the official dates of the 2026 European Aquatics Championships?
-    a: August 1–16, 2026, in Paris and Saint-Denis, France. Always double-check the final schedule on the official European Aquatics (LEN) site, as specific event days within that window vary by discipline.
+    a: >-
+      August 1–16, 2026, in Paris and Saint-Denis, France. Always double-check
+      the final schedule on the official European Aquatics (LEN) site, as
+      specific event days within that window vary by discipline.
   - q: Where exactly will the events be held?
-    a: Venues are expected to reuse Paris 2024 Olympic infrastructure, likely including the Olympic Aquatics Centre in Saint-Denis and Paris La Défense Arena for swimming. Confirm final venue assignments once the official program is released.
+    a: >-
+      Venues are expected to reuse Paris 2024 Olympic infrastructure, likely
+      including the Olympic Aquatics Centre in Saint-Denis and Paris La Défense
+      Arena for swimming. Confirm final venue assignments once the official
+      program is released.
   - q: How do I get to the venues from central Paris?
-    a: Saint-Denis venues are reachable via RER B/D or Métro Line 13; Paris La Défense Arena is served by RER A or Métro Line 1. A multi-zone Navigo day pass covers both areas conveniently.
+    a: >-
+      Saint-Denis venues are reachable via RER B/D or Métro Line 13; Paris La
+      Défense Arena is served by RER A or Métro Line 1. A multi-zone Navigo day
+      pass covers both areas conveniently.
   - q: How many days should I plan to attend?
-    a: Most visitors choose 2–4 days around their preferred discipline (swimming, diving, water polo, or open water) rather than the full 16-day span, since sessions are spread across venues and dates.
+    a: >-
+      Most visitors choose 2–4 days around their preferred discipline (swimming,
+      diving, water polo, or open water) rather than the full 16-day span, since
+      sessions are spread across venues and dates.
   - q: When do tickets go on sale?
-    a: Ticket release dates and prices were not confirmed at publication time — check the official European Aquatics (LEN) and Paris 2026 event channels for the latest sales schedule.
+    a: >-
+      Ticket release dates and prices were not confirmed at publication time —
+      check the official European Aquatics (LEN) and Paris 2026 event channels
+      for the latest sales schedule.
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: European Aquatics
+  url: 'https://europeanaquatics.org/'
 ---
 
 ## Why go

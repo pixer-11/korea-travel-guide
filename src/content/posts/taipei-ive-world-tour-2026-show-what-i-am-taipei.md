@@ -1,6 +1,8 @@
 ---
 title: 'IVE World Tour 2026 "SHOW WHAT I AM" – Taipei: What to Know (Taipei)'
-description: IVE World Tour 2026 "SHOW WHAT I AM" – Taipei in Taipei, Taiwan — September 11-13, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  IVE World Tour 2026 "SHOW WHAT I AM" – Taipei in Taipei, Taiwan — September
+  11-13, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
 region: Taipei
 category: event
@@ -10,27 +12,54 @@ eventEndDate: '2026-09-13'
 tags:
   - taipei
   - event
-quickAnswer: IVE brings their SHOW WHAT I AM World Tour to Taipei Arena for three nights, September 11–13, 2026. Expect an arena set built around "After Like," "Love Dive" and newer EP tracks, with tens of thousands of fans converging on the Songshan District venue each night. Ticketing details, exact doors time, and setlist specifics haven't been officially locked in beyond the dates — always check the official tour and ticketing channels before you book flights or hotels.
+quickAnswer: >-
+  IVE brings their SHOW WHAT I AM World Tour to Taipei Arena for three nights,
+  September 11–13, 2026. Expect an arena set built around "After Like," "Love
+  Dive" and newer EP tracks, with tens of thousands of fans converging on the
+  Songshan District venue each night. Ticketing details, exact doors time, and
+  setlist specifics haven't been officially locked in beyond the dates — always
+  check the official tour and ticketing channels before you book flights or
+  hotels.
 faq:
   - q: What are the exact dates and venue?
-    a: IVE performs at Taipei Arena on September 11, 12, and 13, 2026, as part of the SHOW WHAT I AM World Tour. Confirm the final schedule on official tour channels, since exact doors times haven't been publicly locked in.
+    a: >-
+      IVE performs at Taipei Arena on September 11, 12, and 13, 2026, as part of
+      the SHOW WHAT I AM World Tour. Confirm the final schedule on official tour
+      channels, since exact doors times haven't been publicly locked in.
   - q: How do I get to Taipei Arena?
-    a: Take the Taipei MRT Wenhu Line (Brown Line) to Taipei Arena Station — the venue sits directly above the station, so you can walk in without going outside first.
+    a: >-
+      Take the Taipei MRT Wenhu Line (Brown Line) to Taipei Arena Station — the
+      venue sits directly above the station, so you can walk in without going
+      outside first.
   - q: How do I buy tickets?
-    a: Buy only through official Taiwan ticketing platforms and IVE's verified tour announcements. Multi-night runs like this often have staggered on-sale dates and a fan-club presale before general sale, so watch the official channels closely rather than relying on resale sites.
+    a: >-
+      Buy only through official Taiwan ticketing platforms and IVE's verified
+      tour announcements. Multi-night runs like this often have staggered
+      on-sale dates and a fan-club presale before general sale, so watch the
+      official channels closely rather than relying on resale sites.
   - q: Which night is least crowded to arrive early for?
-    a: Opening night (September 11) tends to draw the heaviest arrival crush since fans want to be present for the tour's local debut; the middle and closing nights are often marginally calmer in the hours before doors.
+    a: >-
+      Opening night (September 11) tends to draw the heaviest arrival crush
+      since fans want to be present for the tour's local debut; the middle and
+      closing nights are often marginally calmer in the hours before doors.
   - q: What's nearby if I arrive early or want food after?
-    a: Songshan District has MRT-linked malls and the Raohe Street Night Market a short trip away, both good options for a meal before or after the show.
+    a: >-
+      Songshan District has MRT-linked malls and the Raohe Street Night Market a
+      short trip away, both good options for a meal before or after the show.
 aiGenerated: true
 draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg/1920px-IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg/1920px-IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
   credit: 'Photo: Qhairy / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
+eventOrganizer:
+  name: Live Nation Taiwan
+  url: 'https://www.livenation.com.tw'
 ---
 You come up out of the escalators at Taipei Arena on a September evening and the crowd tells you everything before you even see the building. Lightsticks bob in clusters near the entrance, fan-made banners get unfurled and photographed, and the low hum of pre-show excitement rolls across the plaza in waves. This is what an IVE arena night looks like, and for three nights running in 2026 — September 11, 12, and 13 — that energy belongs to Taipei.
 

@@ -52,6 +52,9 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
+eventOrganizer:
+  name: Boss Creator
+  url: 'https://www.bosscreator.id/'
 ---
 
 ## What Pestapora Is

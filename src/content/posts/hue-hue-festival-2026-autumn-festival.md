@@ -53,6 +53,9 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
+eventOrganizer:
+  name: People's Committee of Hue City
+  url: 'https://hue.gov.vn'
 ---
 
 ## Why this season matters

@@ -19,7 +19,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
   focus:
     x: 30
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - jakarta
@@ -62,6 +62,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: PT Indo The Nusantara
+  url: 'https://lalalafest.com/'
 ---
 
 ## Why go

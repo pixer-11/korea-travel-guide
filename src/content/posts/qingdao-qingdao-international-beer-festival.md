@@ -19,7 +19,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Qingdao_International_Beer_City.jpg'
   focus:
     x: 25
-    y: 25
+    'y': 25
 gallery: []
 tags:
   - qingdao
@@ -65,6 +65,8 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Qingdao Municipal People's Government
 ---
 
 ## Why go

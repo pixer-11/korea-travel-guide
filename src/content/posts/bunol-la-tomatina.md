@@ -16,7 +16,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Tomatina_2006.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 tags:
   - buñol
@@ -57,6 +57,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Ayuntamiento de Buñol (Buñol Town Hall / City Council)
+  url: 'https://www.bunyol.es/'
 ---
 ## Why go
 

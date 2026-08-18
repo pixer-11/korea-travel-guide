@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:The_Corrs_(Vienna,_2016)_22.jpg'
   focus:
     x: 35
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - abu dhabi
@@ -55,6 +55,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Live Nation Middle East
+  url: 'https://www.livenation.me'
 ---
 
 ## Why this show matters

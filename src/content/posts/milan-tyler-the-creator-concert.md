@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Tyler_The_Creator_Toronto_2025.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - milan
@@ -57,6 +57,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Vivo Concerti
+  url: 'https://www.vivoconcerti.com'
 ---
 
 ## Why this show matters

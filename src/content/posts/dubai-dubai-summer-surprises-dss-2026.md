@@ -53,6 +53,8 @@ aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
+eventOrganizer:
+  name: Dubai Festivals and Retail Establishment (DFRE)
 ---
 ## What DSS Actually Is
 

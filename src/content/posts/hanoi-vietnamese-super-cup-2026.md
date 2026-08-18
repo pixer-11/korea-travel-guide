@@ -51,6 +51,9 @@ faq:
       heading to the stadium.
 aiGenerated: true
 eventRecurring: true
+eventOrganizer:
+  name: Vietnam Professional Football Joint Stock Company (VPF)
+  url: 'https://vpf.vn'
 ---
 
 ## Why this match matters

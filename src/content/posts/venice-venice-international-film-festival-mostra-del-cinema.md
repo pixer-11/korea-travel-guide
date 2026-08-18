@@ -57,6 +57,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: La Biennale di Venezia
+  url: 'https://www.labiennale.org'
 ---
 
 ## Why go

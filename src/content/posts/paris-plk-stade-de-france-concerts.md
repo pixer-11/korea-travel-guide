@@ -51,6 +51,8 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 photoless: true
+eventOrganizer:
+  name: Arachnée Productions
 ---
 
 ## Why this show matters

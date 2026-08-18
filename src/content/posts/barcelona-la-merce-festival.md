@@ -18,7 +18,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Correfoc_de_la_Merc%C3%A8_al_Passeig_de_Gr%C3%A0cia_2024_(1)_20240921_11.jpg
   focus:
     x: 35
-    y: 25
+    'y': 25
 gallery: []
 tags:
   - barcelona
@@ -61,6 +61,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Barcelona City Council (Ajuntament de Barcelona)
+  url: 'https://www.barcelona.cat/lamerce/en'
 ---
 
 ## Why La Mercè takes over the city

@@ -1,6 +1,8 @@
 ---
 title: 'Taiwan International Balloon Festival 2026: What to Know (Taitung)'
-description: Taiwan International Balloon Festival 2026 in Taitung, Taiwan — July 4 - August 20, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Taiwan International Balloon Festival 2026 in Taitung, Taiwan — July 4 -
+  August 20, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
 region: Taitung
 category: event
@@ -10,26 +12,53 @@ eventEndDate: '2026-08-20'
 tags:
   - taitung
   - event
-quickAnswer: The Taiwan International Balloon Festival runs July 4 – August 20, 2026 at Luye Highland (鹿野高台) in Taitung, with mass balloon launches typically at dawn and Night Glow illumination shows in the evenings on selected dates. Plan on a half-day visit, go on a weekday morning if you can, and confirm the exact daily schedule, ticketing, and Chiikawa-balloon dates on the official festival site before you travel.
+quickAnswer: >-
+  The Taiwan International Balloon Festival runs July 4 – August 20, 2026 at
+  Luye Highland (鹿野高台) in Taitung, with mass balloon launches typically at dawn
+  and Night Glow illumination shows in the evenings on selected dates. Plan on a
+  half-day visit, go on a weekday morning if you can, and confirm the exact
+  daily schedule, ticketing, and Chiikawa-balloon dates on the official festival
+  site before you travel.
 faq:
   - q: What are the festival dates for 2026?
-    a: July 4 through August 20, 2026, at Luye Highland in Taitung, with the closing ceremony on August 20. Confirm the daily schedule on the official site, since specific launch days can vary.
+    a: >-
+      July 4 through August 20, 2026, at Luye Highland in Taitung, with the
+      closing ceremony on August 20. Confirm the daily schedule on the official
+      site, since specific launch days can vary.
   - q: What time do the balloons launch?
-    a: Mass launches are generally a dawn activity, timed to calm early-morning air before winds pick up later. Night Glow illumination shows and occasional drone shows happen in the evening on select dates — check the official calendar for which days feature which program.
+    a: >-
+      Mass launches are generally a dawn activity, timed to calm early-morning
+      air before winds pick up later. Night Glow illumination shows and
+      occasional drone shows happen in the evening on select dates — check the
+      official calendar for which days feature which program.
   - q: How do I get to Luye Highland without a car?
-    a: Fly or take the train to Taitung, then use the festival's shuttle buses from Taitung Station, which typically run directly to the launch site during the event. A taxi from Taitung City takes roughly 20–30 minutes.
+    a: >-
+      Fly or take the train to Taitung, then use the festival's shuttle buses
+      from Taitung Station, which typically run directly to the launch site
+      during the event. A taxi from Taitung City takes roughly 20–30 minutes.
   - q: How much time should I plan for a visit?
-    a: A half-day covers a morning launch, food stalls, and photos; if you also want to catch a Night Glow, plan for a separate evening visit or a full day split between the two sessions.
-  - q: Is it worth going on the closing day, August 20?
-    a: It's the festival's showcase day with the fullest program, but also its most crowded — expect packed shuttles and a busier field. A weekday earlier in the run gives a calmer experience with still-full launches.
+    a: >-
+      A half-day covers a morning launch, food stalls, and photos; if you also
+      want to catch a Night Glow, plan for a separate evening visit or a full
+      day split between the two sessions.
+  - q: 'Is it worth going on the closing day, August 20?'
+    a: >-
+      It's the festival's showcase day with the fullest program, but also its
+      most crowded — expect packed shuttles and a busier field. A weekday
+      earlier in the run gives a calmer experience with still-full launches.
 aiGenerated: true
 draft: false
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2014-08-10_Taiwan_International_Balloon_Festival_01.jpg/3840px-2014-08-10_Taiwan_International_Balloon_Festival_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2014-08-10_Taiwan_International_Balloon_Festival_01.jpg/3840px-2014-08-10_Taiwan_International_Balloon_Festival_01.jpg
   credit: 'Photo: 台湾でSamuel in Taiwan / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2014-08-10_Taiwan_International_Balloon_Festival_01.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2014-08-10_Taiwan_International_Balloon_Festival_01.jpg
+eventOrganizer:
+  name: Taitung County Government
+  url: 'https://balloontaiwan.taitung.gov.tw/en'
 ---
 
 ## Why go

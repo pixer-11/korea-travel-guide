@@ -1,6 +1,9 @@
 ---
 title: 'Sturgis Motorcycle Rally (86th Anniversary): What to Know (Sturgis)'
-description: The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, drawing around half a million riders to the Black Hills for concerts, races, and scenic group rides under the theme "Sturgis Salutes America."
+description: >-
+  The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, drawing
+  around half a million riders to the Black Hills for concerts, races, and
+  scenic group rides under the theme "Sturgis Salutes America."
 country: United States
 region: Sturgis
 category: event
@@ -8,31 +11,55 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Sturgis_motorcycle_banner.jpg
-  credit: 'Photo: Sturgis_2010_(1).jpg: J.T (Jason) Thorne derivative work: Eco84 / Wikimedia Commons (CC BY 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b5/Sturgis_motorcycle_banner.jpg
+  credit: >-
+    Photo: Sturgis_2010_(1).jpg: J.T (Jason) Thorne derivative work: Eco84 /
+    Wikimedia Commons (CC BY 2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sturgis_motorcycle_banner.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Sturgis_motorcycle_banner.jpg'
   focus:
     x: 50
     'y': 50
 tags:
   - sturgis
   - event
-quickAnswer: The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, drawing around half a million riders to the Black Hills for concerts, races, and scenic group rides under the theme "Sturgis Salutes America." Base yourself in Sturgis, Rapid City, or Deadwood, book lodging and flights many months ahead, and confirm exact venue schedules and ticket details on the official Sturgis Motorcycle Rally website before you go.
+quickAnswer: >-
+  The 86th Sturgis Motorcycle Rally runs August 7–16, 2026, in Sturgis, drawing
+  around half a million riders to the Black Hills for concerts, races, and
+  scenic group rides under the theme "Sturgis Salutes America." Base yourself in
+  Sturgis, Rapid City, or Deadwood, book lodging and flights many months ahead,
+  and confirm exact venue schedules and ticket details on the official Sturgis
+  Motorcycle Rally website before you go.
 faq:
   - q: What are the exact dates for the 2026 Sturgis Rally?
-    a: August 7–16, 2026, marking the 86th anniversary. Dates are set annually in early-to-mid August, so double-check the official rally website for any updates.
+    a: >-
+      August 7–16, 2026, marking the 86th anniversary. Dates are set annually in
+      early-to-mid August, so double-check the official rally website for any
+      updates.
   - q: How do I get to Sturgis if I'm not riding my own motorcycle?
-    a: Fly into Rapid City Regional Airport (RAP), about 25–30 minutes south of Sturgis via I-90, then rent a car or arrange a motorcycle rental locally.
+    a: >-
+      Fly into Rapid City Regional Airport (RAP), about 25–30 minutes south of
+      Sturgis via I-90, then rent a car or arrange a motorcycle rental locally.
   - q: Where should I stay if Sturgis is fully booked?
-    a: Try Rapid City (about 25 minutes away) or Deadwood (about 15 minutes away), both common overflow bases with more hotel and casino-lodging capacity.
+    a: >-
+      Try Rapid City (about 25 minutes away) or Deadwood (about 15 minutes
+      away), both common overflow bases with more hotel and casino-lodging
+      capacity.
   - q: How many days should I plan for?
-    a: Three to four days lets you experience Main Street, a concert or two, and a scenic Black Hills ride; hardcore attendees stay the full ten-day run.
+    a: >-
+      Three to four days lets you experience Main Street, a concert or two, and
+      a scenic Black Hills ride; hardcore attendees stay the full ten-day run.
   - q: Is Mount Rushmore worth combining with the rally?
-    a: Yes — it's roughly an hour's ride south of Sturgis and a common day trip for rally attendees already touring the Black Hills.
+    a: >-
+      Yes — it's roughly an hour's ride south of Sturgis and a common day trip
+      for rally attendees already touring the Black Hills.
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: City of Sturgis (Rally Department)
+  url: 'https://sturgismotorcyclerally.com/'
 ---
 ## Why go
 

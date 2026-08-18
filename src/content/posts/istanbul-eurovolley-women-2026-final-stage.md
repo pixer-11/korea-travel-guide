@@ -51,6 +51,9 @@ faq:
       indoor arena for matches.
 aiGenerated: true
 eventRecurring: true
+eventOrganizer:
+  name: European Volleyball Confederation (CEV)
+  url: 'https://www.cev.eu'
 ---
 
 ## Why go

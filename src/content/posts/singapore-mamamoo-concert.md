@@ -18,7 +18,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:190518_%EB%A7%88%EB%A7%88%EB%AC%B4(Mamamoo)_%EC%A0%9C25%ED%9A%8C_2019_%EB%93%9C%EB%A6%BC%EC%BD%98%EC%84%9C%ED%8A%B8_(1).jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 tags:
   - singapore
@@ -60,6 +60,8 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: CK Star Entertainment
 ---
 
 ## Why this show matters

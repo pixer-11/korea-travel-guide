@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Aaron_Kwok%27s_concert_20111222.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - kuala lumpur
@@ -56,6 +56,8 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Jazzy Group
 ---
 
 ## Why This Show Matters

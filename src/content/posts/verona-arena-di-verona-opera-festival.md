@@ -55,6 +55,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Fondazione Arena di Verona
+  url: 'https://www.arena.it'
 ---
 You feel it before you see it: the low murmur of a crowd gathering on pink-hued cobblestones, cushions tucked under arms, as the sun drops behind the rooftops of Piazza Bra. Then the amphitheatre itself comes into view — tiers of pale limestone stacked in a vast oval, worn smooth by nearly two thousand years of use. This is the Arena di Verona, and for one of Italy's great summer traditions, it becomes an opera house without a roof.
 

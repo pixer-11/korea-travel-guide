@@ -18,7 +18,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:ChinaJoy_2025_-_General_11.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - shanghai
@@ -57,6 +57,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: ChinaJoy Organizing Committee
+  url: 'https://en.chinajoy.net'
 ---
 
 ## Why go

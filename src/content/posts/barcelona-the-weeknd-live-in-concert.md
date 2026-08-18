@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_(253662129).jpeg'
   focus:
     x: 35
-    y: 30
+    'y': 30
 gallery: []
 tags:
   - barcelona
@@ -59,6 +59,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Live Nation España
+  url: 'https://www.livenation.es'
 ---
 
 ## Why this show matters

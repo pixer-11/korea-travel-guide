@@ -20,7 +20,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura,_Milan_(July_27,_2023).jpg
   focus:
     x: 25
-    y: 30
+    'y': 30
 tags:
   - madrid
   - event
@@ -64,6 +64,9 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: false
+eventOrganizer:
+  name: Live Nation
+  url: 'https://www.livenation.es'
 ---
 
 ## Why this run matters

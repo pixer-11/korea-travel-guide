@@ -54,6 +54,9 @@ faq:
       streets worth exploring before or after the bouts.
 aiGenerated: true
 eventRecurring: true
+eventOrganizer:
+  name: Japan Sumo Association (Nihon Sumo Kyokai)
+  url: 'https://sumo.or.jp/En/'
 ---
 ## Why go
 
