@@ -28054,5 +28054,89 @@
   "registerBreak": false,
   "worst": "作为一个值得单独探访的目的地，它至今仍未被大多数游客留意，所以你常常会发现",
   "at": "2026-08-18T08:26:01.909Z"
+ },
+ "es/antalya-antalya-toy-museum": {
+  "hash": "049055e44af0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las vitrinas están densamente ocupadas, más que espaciosas, lo que premia una mirada lenta...",
+  "at": "2026-08-18T09:24:37.461Z"
+ },
+ "es/bohol-national-museum-of-the-philippines-bohol": {
+  "hash": "913eaa9fd59a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...están un poco más adentro, tierra adentro.",
+  "at": "2026-08-18T09:24:47.069Z"
+ },
+ "es/cappadocia-zelve-open-air-museum": {
+  "hash": "35043904750e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Zelve forma parte firme del circuito de autobuses turísticos, así que no se trata de un rincón desconocido",
+  "at": "2026-08-18T09:24:50.868Z"
+ },
+ "ja/antalya-antalya-toy-museum": {
+  "hash": "5dd9f55d50ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ひとつの部屋に数人増えただけで、たちまち満員のように感じられるほどです。",
+  "at": "2026-08-18T09:26:27.601Z"
+ },
+ "ja/bohol-national-museum-of-the-philippines-bohol": {
+  "hash": "867534adb4ac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "かつて州の行政を担っていたこの建物は、今では静かにその歴史そのものを収める場所になっています。",
+  "at": "2026-08-18T09:24:58.718Z"
+ },
+ "ja/cappadocia-zelve-open-air-museum": {
+  "hash": "38c4c9a11697",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "何世紀にもわたってこの断崖を共有してきたキリスト教徒とイスラム教徒の家族が最後の住民でしたが、岩盤の不安定化により移住を余儀なくされました。",
+  "at": "2026-08-18T09:25:02.278Z"
+ },
+ "ko/antalya-antalya-toy-museum": {
+  "hash": "b1a8673d7498",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방들이 작고 천장이 낮아서, 다른 박물관보다 혼잡도가 관람 경험에 훨씬 크게 영향을 미칩니다.",
+  "at": "2026-08-18T09:25:16.079Z"
+ },
+ "ko/bohol-national-museum-of-the-philippines-bohol": {
+  "hash": "5cec7cc00a33",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "실측된 방문객 흐름을 보면 이 시간대가 비교적 한산합니다.",
+  "at": "2026-08-18T09:26:32.898Z"
+ },
+ "ko/cappadocia-zelve-open-air-museum": {
+  "hash": "35924d0fa2e6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 두 곳을 함께 묶으면 젤베로 향하는 한 번의 여정을 왔던 길을 되돌아가지 않고도 반나절 코스로 완성할 수 있습니다.",
+  "at": "2026-08-18T09:25:24.817Z"
+ },
+ "zh/antalya-antalya-toy-museum": {
+  "hash": "0262d565b21f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于房间狭小、层高又低，人一多，参观体验受到的影响比大多数博物馆都要明显——哪怕只是多几个人挤在一间屋里，也会显得拥挤不堪。",
+  "at": "2026-08-18T09:25:26.986Z"
+ },
+ "zh/bohol-national-museum-of-the-philippines-bohol": {
+  "hash": "d16c432108bc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "不必安排大半天的时间，一小时，若逐字细读每块说明牌，最多九十分钟，便足以看完全部内容。",
+  "at": "2026-08-18T09:25:34.492Z"
+ },
+ "zh/cappadocia-zelve-open-air-museum": {
+  "hash": "9cc196cda0dc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "主要看点包括：一座凿于岩石中的清真寺，配有一座纤细的宣礼塔，是这座村庄曾有穆斯林居民为数不多的建筑证据",
+  "at": "2026-08-18T09:25:38.644Z"
  }
 }
