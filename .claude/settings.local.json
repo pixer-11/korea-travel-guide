@@ -157,7 +157,11 @@
       "WebFetch(domain:wanderatlasguides.com)",
       "Bash(node --check scripts/analytics-report.mjs)",
       "Bash(curl -sIL --max-time 25 \"https://search.hotellook.com/?marker=754088&destination=Seoul\")",
-      "Bash(node -e \"import\\('./scripts/generate.mjs'\\).catch\\(e=>console.log\\('import err:',e.message\\)\\)\")"
+      "Bash(node -e \"import\\('./scripts/generate.mjs'\\).catch\\(e=>console.log\\('import err:',e.message\\)\\)\")",
+      "Bash(curl -s \"https://api.github.com/repos/pixer-11/korea-travel-guide/actions/runs?per_page=15\")",
+      "Bash(curl -s \"https://api.github.com/repos/pixer-11/korea-travel-guide/actions/runs?per_page=40\")",
+      "Bash(node scripts/validate-content.mjs)",
+      "Bash(node scripts/audit-translations.mjs)"
     ]
   }
 }

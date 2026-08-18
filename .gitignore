@@ -28,3 +28,6 @@ Thumbs.db
 # newsletter dry-run previews (local only)
 .newsletter-preview/
 dist-discover/
+
+# playwright/browser debug scratch (local only)
+.playwright-mcp/
