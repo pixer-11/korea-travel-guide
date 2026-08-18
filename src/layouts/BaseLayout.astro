@@ -95,6 +95,18 @@ const orgLd = {
       description: 'Editor-reviewed, AI-assisted travel guides for destinations around the world.',
       slogan: SITE.tagline,
       foundingDate: '2026',
+      // The site's official profiles. Without sameAs Google cannot tie the
+      // Pinterest account (which already lists wanderatlasguides.com as its
+      // claimed website) or the Instagram account back to this Organization,
+      // and the entity signal each of them carries is lost — found while
+      // chasing the 2026-08-18 index-coverage alarm (crawl budget is an
+      // authority problem, and profiles are the cheapest authority signal).
+      // All three confirmed by screenshot on 2026-08-18; never guess a URL.
+      sameAs: [
+        'https://www.pinterest.com/pixervtm/',
+        'https://www.instagram.com/wander_atlas_guides/',
+        'https://www.threads.net/@wander_atlas_guides',
+      ],
       // Named topical expertise + a transparent editorial policy are the E-E-A-T
       // signals AI search rewards. Authorship: articles are credited to the
       // editor's PEN NAME (#editor below) — a real person writing under

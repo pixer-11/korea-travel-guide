@@ -39,5 +39,16 @@ const year = new Date().getFullYear();
       <a href={localizePath('/privacy', lang)}>{t('footer.privacy')}</a>
       <a href={localizePath('/terms', lang)}>{t('footer.terms')}</a>
     </nav>
+    {/* The site's own profiles, for readers who want to follow and for
+        crawlers tying the entity together (mirrors Organization.sameAs in
+        BaseLayout). Until 2026-08-18 the footer had ZERO external links —
+        three live accounts and nothing on the site pointed at them. Brand
+        names, so no i18n. rel=me is the reciprocal of the profiles' own
+        link back to wanderatlasguides.com. */}
+    <nav class="footer-social" aria-label="Wander Atlas on social media">
+      <a href="https://www.instagram.com/wander_atlas_guides/" rel="me noopener" target="_blank">Instagram</a>
+      <a href="https://www.pinterest.com/pixervtm/" rel="me noopener" target="_blank">Pinterest</a>
+      <a href="https://www.threads.net/@wander_atlas_guides" rel="me noopener" target="_blank">Threads</a>
+    </nav>
   </div>
 </footer>

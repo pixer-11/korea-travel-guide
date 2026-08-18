@@ -1413,6 +1413,7 @@ html[lang^='zh'] .cover-inner h1 {
 .site-footer nav { display: flex; gap: 1.2rem; flex-wrap: wrap; }
 .site-footer nav a { color: var(--ink-soft); font-size: 0.9rem; font-weight: 500; }
 .site-footer nav a:hover { color: var(--accent); }
+.site-footer .footer-social { margin-top: 0.6rem; opacity: 0.85; }
 
 /* ── Per-language typefaces ─────────────────────────────────────────────
    Fraunces/Inter carry no Korean, Japanese, or Chinese glyphs, so those pages
