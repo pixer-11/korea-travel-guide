@@ -28,7 +28,7 @@ jobs:
   backfill:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # Reports each source SEPARATELY, not just "at least one". The old test was
       # `A || B`, so a run with Foursquare and no Flickr looked identical to a
@@ -49,7 +49,7 @@ jobs:
           if [ -n "$A" ] || [ -n "$B" ]; then echo "on=true" >> "$GITHUB_OUTPUT"; else echo "on=false" >> "$GITHUB_OUTPUT"; fi
 
       - if: steps.gate.outputs.on == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
           cache: npm

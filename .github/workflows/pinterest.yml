@@ -24,7 +24,7 @@ jobs:
   pin:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # Secrets can't be read in `if:` directly — surface presence as an output.
       # Enabled by EITHER a direct token secret OR the OAuth store (app secret +
@@ -42,7 +42,7 @@ jobs:
           fi
 
       - if: steps.gate.outputs.on == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
           cache: npm
