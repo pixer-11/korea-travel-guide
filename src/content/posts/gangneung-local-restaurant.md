@@ -5,7 +5,6 @@ region: Gangneung
 country: South Korea
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
-gallery: []
 tags:
   - gangneung
   - local restaurant
@@ -22,8 +21,15 @@ faq:
   - q: Is English spoken or menus translated?
     a: Not reliably at smaller family-run places. Learning a few Korean food terms (sundubu, makguksu, hoe) or using a translation app is recommended.
 aiGenerated: true
-draft: true
 heldReason: generic-topic
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/10426234_YAxFUV6jJr5NDXkNnPlDjMwjt72zN6iPAgvKeIy7KMg.jpg
+  credit: 'Photo: Foursquare user content (감자유원지 deli / cafe & local store)'
+  license: foursquare
+  source: https://foursquare.com/v/622c20bfdcb1130282b6c69b
+  focus:
+    x: 78
+    'y': 45
 ---
 ## Why Gangneung's Local Restaurants Are Worth Seeking Out
 

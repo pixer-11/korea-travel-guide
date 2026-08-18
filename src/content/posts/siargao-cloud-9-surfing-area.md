@@ -6,18 +6,13 @@ region: Siargao
 category: attraction
 pubDate: '2026-07-26T07:56:39.861Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/15266569_9L8y5XQYXbihBmkPY1-V6R0LxYlFWm94IxPh2K6PW1o.jpg
+  url: https://fastly.4sqi.net/img/general/original/349475157__2L9z0T9BiTU7eF7O4iCRVCo-Y4BgCBXwuVVQ2pb0ig.jpg
   credit: 'Photo: Foursquare user content (Cloud 9)'
   license: foursquare
   source: https://foursquare.com/v/4bf24e88324cc9b629f8cc92
   focus:
-    x: 15
-    y: 35
-gallery:
-  - url: https://fastly.4sqi.net/img/general/original/349475157__2L9z0T9BiTU7eF7O4iCRVCo-Y4BgCBXwuVVQ2pb0ig.jpg
-    credit: 'Photo: Foursquare user content (Cloud 9)'
-    license: foursquare
-    source: https://foursquare.com/v/4bf24e88324cc9b629f8cc92
+    x: 65
+    'y': 55
 place:
   id: ChIJPaM9Xu0JBDMRy9VmalHFu9I
   name: Cloud 9 Surfing Area

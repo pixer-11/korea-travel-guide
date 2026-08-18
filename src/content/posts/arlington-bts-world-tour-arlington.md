@@ -25,15 +25,15 @@ faq:
 aiGenerated: true
 eventRecurring: false
 photoless: true
-draft: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e0/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_02.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/7/74/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_03.jpg
   credit: 'Photo: Viviane Costa / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil,_May_2019_02.jpg
+  source: https://commons.wikimedia.org/wiki/File:BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil,_May_2019_03.jpg
   focus:
-    x: 40
-    'y': 45
+    x: 50
+    'y': 50
+draft: true
 ---
 
 ## Why this show matters

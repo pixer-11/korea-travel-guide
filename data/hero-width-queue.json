@@ -51,7 +51,6 @@
   "chiang-rai-wat-rong-khun\u0001https://fastly.4sqi.net/img/general/original/15032541_l3EemQV6IIwEvnJ5bYSHwiGiJ5KrsfjzBlPc5Gk2d-k.jpg": 1920,
   "chicago-navy-pier\u0001https://fastly.4sqi.net/img/general/original/502414418_dd5rexc9ogc18jEvdpFx_sPisb5bN7lKN2JmcGKp6bk.jpg": 1920,
   "chicago-cloud-gate\u0001https://fastly.4sqi.net/img/general/original/27331709_IVlEJKmiGf57s05jGa4N7hS1HlDT23pQ7qDxWtC530w.jpg": 1920,
-  "chinatown-chinatown-complex\u0001https://fastly.4sqi.net/img/general/original/559549572_rh1K6qOBC_00Ym58QJZQKznYUYgv5Vs-f9f2ax7UuBw.jpg": 958,
   "chinatown-my-awesome-cafe\u0001https://fastly.4sqi.net/img/general/original/12411077_GsXkjQUNqD3dvpGxv7UK-xjn01vmSKJlfvlHISbwBbY.jpg": 1440,
   "da-nang-an-thoi\u0001https://fastly.4sqi.net/img/general/original/382189499_RzPh80OYb7NvmmZjTY3q5l49KkcxUm0c8PU_a5BgEM8.jpg": 1440,
   "da-nang-the-marble-mountains\u0001https://fastly.4sqi.net/img/general/original/10959495_wI50k7AlmsPKMQp6j054oy2ewRcXXuK_qx4McfZwZ5s.jpg": 1440,
@@ -985,18 +984,56 @@
   "kolkata-biswa-bangla-gate\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kolkata_Gate_%28officially_known_as_Biswa_Bangla_Gate%29.jpg/1920px-Kolkata_Gate_%28officially_known_as_Biswa_Bangla_Gate%29.jpg": 1920,
   "guangzhou-temple-of-the-six-banyan-trees\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/Temple_of_the_Six_Banyan_Trees_2013-08.JPG": 3264,
   "kolkata-dakshineswar-kali-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/1920px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG": 1920,
-  "guangzhou-yuexiu-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Yxp.JPG": 640,
   "kolkata-calcutta-riverside\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Calcutta_Riverside%2C_Batanagar.jpg": 3671,
   "new-delhi-lodhi-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg/3840px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg": 3840,
   "new-delhi-safdarjung-tomb-delhi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Safdarjung_tomb_new_delhi_rj.jpg/3840px-Safdarjung_tomb_new_delhi_rj.jpg": 3840,
   "new-delhi-shri-laxmi-narayan-temple-birla-mandir\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg/3840px-Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg": 3840,
-  "arlington-bts-world-tour-arlington\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_02.jpg": 598,
-  "kuala-lumpur-jalinan\u0001https://fastly.4sqi.net/img/general/original/87850848_Ms8OKvvC1bTw_dHOuL-FmF4mx5QKpGd9sjF4g5aThNA.jpg": 1080,
   "toulouse-basilique-saint-sernin-de-toulouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/1920px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg": 1920,
   "udaipur-pichola-lake-udaipur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg/3840px-Lake_Pichola_at_sunset%2C_Udaipur%2C_Rajasthan%2C_India.jpg": 3840,
   "rome-tribuna-campitelli\u0001https://fastly.4sqi.net/img/general/original/512204999_L0djcXpkb8dA_C3YYjqlGJsMrs-gf6VB8q-8YaKSupU.jpg": 1440,
   "kolkata-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Eco_Park_Promenade_%2825_February_2024%29.jpg": 3709,
-  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": 2048
+  "new-delhi-yamuna-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg": 2048,
+  "antalya-antalya-toy-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Antalya_Toy_Museum_feb_2015_5611.jpg/3840px-Antalya_Toy_Museum_feb_2015_5611.jpg": 3840,
+  "austin-museum-of-the-weird\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/Museum_weird_2012.jpg": 1817,
+  "bugis-albert-centre-market-food-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg/3840px-Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg": 3840,
+  "avignon-place-du-palais\u0001https://fastly.4sqi.net/img/general/original/50777287_5X3NCMHPnE-m4lxdOGh64csPf6EOKSqbQSgeQB0_lBY.jpg": 1920,
+  "can-tho-cai-rang-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cai_Rang_Floating_Market_6.jpg/3840px-Cai_Rang_Floating_Market_6.jpg": 3840,
+  "cappadocia-zelve-open-air-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg/3840px-Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg": 3840,
+  "central-tai-kwun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg": 3840,
+  "bohol-national-museum-of-the-philippines-bohol\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/National_Museum_Bohol.jpg": 3000,
+  "da-nang-da-nang-museum-of-cham-sculpture\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/0040323_Vedic_deities%2C_Cham_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg/3840px-0040323_Vedic_deities%2C_Cham_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg": 3840,
+  "gangneung-local-restaurant\u0001https://fastly.4sqi.net/img/general/original/1409255415_4ni088v5t1nONB5lSqXn1Sna0o-PfnSZKOxk2SMh9I4.jpg": 1080,
+  "arlington-bts-world-tour-arlington\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_03.jpg": 598,
+  "ha-long-bay-quang-ninh-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Quang_Ninh_Museum_facade_1.jpg/3840px-Quang_Ninh_Museum_facade_1.jpg": 3840,
+  "hua-hin-rajabhakti-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rajabhakti_Park_Hua_Hin_-_panoramio.jpg/1920px-Rajabhakti_Park_Hua_Hin_-_panoramio.jpg": 1920,
+  "izmir-ephesus-ancient-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ephesus_Ancient_City_2016.jpg/3840px-Ephesus_Ancient_City_2016.jpg": 3840,
+  "chinatown-chinatown-complex\u0001https://fastly.4sqi.net/img/general/original/58860953_EU8pw9i_-pQj6kOoHwFbPPpb58GZZfWaFPDAOXic0tA.jpg": 1440,
+  "jordan-the-astor\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg/3840px-HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_Hong_Kong_basement_%E6%99%AE%E6%85%B6%E9%A4%90%E5%BB%B3_Astor_buffet_restaurant_September_2022_Px3_22.jpg": 3840,
+  "bukhara-toqi-zargaron\u0001https://upload.wikimedia.org/wikipedia/commons/c/c9/27_Toqi_Zargaron_dome_093.jpg": 3830,
+  "kaohsiung-fo-guang-shan-buddha-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg/1920px-Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg": 1920,
+  "guangzhou-yuexiu-park\u0001https://fastly.4sqi.net/img/general/original/2895870_AZS9pH2GSHJTtx83mcB3DYV45GPMX0q8qvrb_WSHlng.jpg": 1440,
+  "jordan-australia-dairy-company\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Australia_Dairy_Company_outlook.JPG": 1600,
+  "kota-kinabalu-sabah-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/KotaKinabalu_Sabah_SabahArtGallery-03.jpg/1920px-KotaKinabalu_Sabah_SabahArtGallery-03.jpg": 1920,
+  "jumeirah-bu-qtair-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Bu_Qtair_Restaurant_%2825717145503%29.jpg": 3264,
+  "khiva-kalta-minor-minaret\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/Kalta_Minor_01.jpg": 3330,
+  "langkawi-langkawi-sky-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Langkawi_sky_bridge.jpg": 1280,
+  "mont-saint-michel-mont-saint-michel-abbey\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FranceNormandieLeMontSaintMichelAbbaye.jpg/1920px-FranceNormandieLeMontSaintMichelAbbaye.jpg": 1920,
+  "nashville-the-parthenon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Parthenon_in_Nashville_2025.jpg/3840px-Parthenon_in_Nashville_2025.jpg": 3840,
+  "malacca-baba-nyonya-heritage-museum\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Baba_and_Nyonya_House_Museum_Exterior.jpg": 2400,
+  "penang-pinang-peranakan-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pinang_Peranakan_Mansion_%28I%29.jpg/1920px-Pinang_Peranakan_Mansion_%28I%29.jpg": 1920,
+  "samarkand-siyob-bozori\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Siyob_bozori_20230621.jpg/3840px-Siyob_bozori_20230621.jpg": 3840,
+  "santiago-de-compostela-casco-historico-de-santiago-de-compostela\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg/3840px-Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg": 3840,
+  "sha-tin-dab-pa-modern-chinese-cuisine\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E4%BA%BA%E6%96%87%E8%97%9D%E8%A1%93%E8%B3%BC%E7%89%A9%E9%A4%A8_K11_MUSEA_mall_September_2022_Px3_127_%E7%A8%BB%E6%88%90%E4%BA%AC%E5%B7%9D%E6%BB%AC_Dab-pa_Modern_Chinese_Cuisine_Restaurant.jpg/3840px-HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E4%BA%BA%E6%96%87%E8%97%9D%E8%A1%93%E8%B3%BC%E7%89%A9%E9%A4%A8_K11_MUSEA_mall_September_2022_Px3_127_%E7%A8%BB%E6%88%90%E4%BA%AC%E5%B7%9D%E6%BB%AC_Dab-pa_Modern_Chinese_Cuisine_Restaurant.jpg": 3840,
+  "sha-tin-the-alchemist-cafe-shatin\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg/3840px-HKHM_%E6%B2%99%E7%94%B0_Shatin_%E9%A6%99%E6%B8%AF%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Heritage_Museum_%E7%89%A7%E7%BE%8A%E5%B0%91%E5%B9%B4%E5%92%96%E5%95%A1%E9%A4%A8_The_Alchemist_Cafe_restaurant_October_2024_R12S_03.jpg": 3840,
+  "sharjah-sharjah-museum-of-islamic-civilization\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_%2822025908913%29.jpg/1920px-Sharjah_Museum_of_Islamic_Civilisation_north-west_facade_%2822025908913%29.jpg": 1920,
+  "nikko-nikko-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Lake_chuzenji_and_kegon_waterfall.jpg": 1769,
+  "tainan-tainan-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Building_1_of_Tainan_Art_Museum.jpg/1920px-Building_1_of_Tainan_Art_Museum.jpg": 1920,
+  "tiong-bahru-tiong-bahru-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tiong_Bahru_Market%2C_food_centre.jpg/3840px-Tiong_Bahru_Market%2C_food_centre.jpg": 3840,
+  "udaipur-eklingji-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EklingJi_Temple.jpg/3840px-EklingJi_Temple.jpg": 3840,
+  "mong-kok-dim-dim-sum-mong-kok\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E6%B4%97%E8%A1%A3%E8%A1%97_39_Sai_Yee_Street_%E9%87%91%E9%9B%9E%E5%BB%A3%E5%A0%B4_Golden_Era_Plaza_mall_shop_Dim_Sum_Here_Restaurant_October_2025_N13P_01.jpg": 3280,
+  "koh-phi-phi-phi-phi-lee-island\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/KO_PHI_PHI_LEE_-_panoramio_%281%29.jpg": 2976,
+  "wuhan-2026-wuhan-open-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG": 2500,
+  "taichung-national-taiwan-museum-of-fine-arts\u0001https://upload.wikimedia.org/wikipedia/commons/b/bd/NTMOFA6.jpg": 960
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1057,8 +1094,8 @@
   },
   "surabaya-blue-doors-surabaya": {
    "width": 1080,
-   "attempts": 2,
-   "nextTry": "2026-08-18",
+   "attempts": 3,
+   "nextTry": "2026-08-25",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -1099,22 +1136,15 @@
   },
   "nha-trang-la-nha": {
    "width": 1102,
-   "attempts": 1,
-   "nextTry": "2026-08-18",
+   "attempts": 2,
+   "nextTry": "2026-08-25",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
   "phuket-hug-street-food-kata-phuket": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-18",
-   "flaggedAt": "2026-08-11",
-   "lastResult": "no-wider"
-  },
-  "siargao-cloud-9-surfing-area": {
-   "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-08-18",
+   "attempts": 2,
+   "nextTry": "2026-08-25",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
@@ -1146,13 +1176,13 @@
    "flaggedAt": "2026-08-16",
    "lastResult": "no-wider"
   },
-  "kuala-lumpur-jalinan": {
-   "width": 1080,
+  "taichung-national-taiwan-museum-of-fine-arts": {
+   "width": 960,
    "attempts": 1,
-   "nextTry": "2026-08-24",
-   "flaggedAt": "2026-08-17",
+   "nextTry": "2026-08-25",
+   "flaggedAt": "2026-08-18",
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-17T21:05:18.117Z"
+ "updated": "2026-08-18T20:52:16.186Z"
 }
