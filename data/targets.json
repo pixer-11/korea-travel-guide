@@ -950,6 +950,321 @@
       "topic": "San Sebastian Pintxos Bars",
       "category": "restaurant",
       "query": "San Sebastian Pintxos Bars San Sebastian Spain"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Gur-e-Amir Mausoleum",
+      "category": "attraction",
+      "query": "Gur-e-Amir Mausoleum Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Shah-i-Zinda",
+      "category": "attraction",
+      "query": "Shah-i-Zinda necropolis Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Bibi-Khanym Mosque",
+      "category": "attraction",
+      "query": "Bibi-Khanym Mosque Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Ulugh Beg Observatory",
+      "category": "attraction",
+      "query": "Ulugh Beg Observatory Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Siyob Bazaar",
+      "category": "hidden-gem",
+      "query": "Siyob Bazaar Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Afrasiyab Museum",
+      "category": "attraction",
+      "query": "Afrasiyab Museum Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Meros Paper Mill Konigil",
+      "category": "hidden-gem",
+      "query": "Meros Paper Mill Konigil Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Bibikhanum Teahouse",
+      "category": "restaurant",
+      "query": "Bibikhanum Teahouse restaurant Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Samarkand",
+      "topic": "Platan Restaurant",
+      "category": "restaurant",
+      "query": "Platan restaurant Samarkand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Po-i-Kalyan Complex",
+      "category": "attraction",
+      "query": "Po-i-Kalyan Kalyan Minaret Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Lyab-i Hauz",
+      "category": "attraction",
+      "query": "Lyab-i Hauz Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Chor Minor",
+      "category": "attraction",
+      "query": "Chor Minor madrasah Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Ismail Samani Mausoleum",
+      "category": "attraction",
+      "query": "Ismail Samani Mausoleum Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Bolo Hauz Mosque",
+      "category": "attraction",
+      "query": "Bolo Hauz Mosque Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Toqi Zargaron Trading Dome",
+      "category": "hidden-gem",
+      "query": "Toqi Zargaron trading dome Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Chor-Bakr Necropolis",
+      "category": "hidden-gem",
+      "query": "Chor-Bakr necropolis Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Old Bukhara Restaurant",
+      "category": "restaurant",
+      "query": "Old Bukhara restaurant Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Minzifa Restaurant",
+      "category": "restaurant",
+      "query": "Minzifa restaurant Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Bukhara",
+      "topic": "Silk Road Spices Tea House",
+      "category": "trendy",
+      "query": "Silk Road Spices tea house Bukhara Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Kalta Minor Minaret",
+      "category": "attraction",
+      "query": "Kalta Minor Minaret Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Kunya-Ark",
+      "category": "attraction",
+      "query": "Kunya-Ark citadel Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Juma Mosque",
+      "category": "attraction",
+      "query": "Juma Mosque Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Islam Khodja Minaret",
+      "category": "attraction",
+      "query": "Islam Khodja Minaret Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Tash Hauli Palace",
+      "category": "attraction",
+      "query": "Tash Hauli Palace Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Pahlavan Mahmud Mausoleum",
+      "category": "attraction",
+      "query": "Pahlavan Mahmud Mausoleum Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Terrassa Cafe",
+      "category": "restaurant",
+      "query": "Terrassa Cafe restaurant Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Khiva",
+      "topic": "Khorezm Art Restaurant",
+      "category": "restaurant",
+      "query": "Khorezm Art Restaurant Khiva Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Shakhrisabz",
+      "topic": "Dorut Tilovat Complex",
+      "category": "attraction",
+      "query": "Dorut Tilovat complex Shakhrisabz Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Shakhrisabz",
+      "topic": "Kok Gumbaz Mosque",
+      "category": "attraction",
+      "query": "Kok Gumbaz Mosque Shakhrisabz Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Shakhrisabz",
+      "topic": "Dorus Saodat",
+      "category": "attraction",
+      "query": "Dorus Saodat Jahongir Mausoleum Shakhrisabz Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Chorsu Bazaar",
+      "category": "hidden-gem",
+      "query": "Chorsu Bazaar Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Hazrati Imam Complex",
+      "category": "attraction",
+      "query": "Hazrati Imam Complex Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Amir Timur Museum",
+      "category": "attraction",
+      "query": "Amir Timur Museum Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Tashkent TV Tower",
+      "category": "attraction",
+      "query": "Tashkent Television Tower observation deck Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Museum of Applied Arts",
+      "category": "attraction",
+      "query": "State Museum of Applied Arts Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Kukeldash Madrasah",
+      "category": "attraction",
+      "query": "Kukeldash Madrasah Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Central Asian Plov Centre",
+      "category": "restaurant",
+      "query": "Central Asian Plov Centre Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Tashkent",
+      "topic": "Minor Mosque",
+      "category": "attraction",
+      "query": "Minor Mosque Tashkent Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Nukus",
+      "topic": "Savitsky Museum",
+      "category": "attraction",
+      "query": "Savitsky Museum Nukus Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Termez",
+      "topic": "Sultan Saodat Complex",
+      "category": "attraction",
+      "query": "Sultan Saodat complex Termez Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Termez",
+      "topic": "Fayaz Tepe",
+      "category": "attraction",
+      "query": "Fayaz Tepe Buddhist monastery Termez Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Kokand",
+      "topic": "Jami Mosque",
+      "category": "attraction",
+      "query": "Jami Mosque Kokand Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Margilan",
+      "topic": "Kumtepa Bazaar",
+      "category": "hidden-gem",
+      "query": "Kumtepa Bazaar Margilan Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Chimgan",
+      "topic": "Charvak Reservoir",
+      "category": "attraction",
+      "query": "Charvak Reservoir Chimgan Uzbekistan"
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Chimgan",
+      "topic": "Beldersay Cable Car",
+      "category": "attraction",
+      "query": "Beldersay cable car Chimgan Uzbekistan"
     }
   ]
 }

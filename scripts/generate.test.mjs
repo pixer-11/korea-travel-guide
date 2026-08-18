@@ -85,3 +85,27 @@ test('postTopicKey keeps two different places in the same city apart', () => {
 test('postTopicKey returns null when frontmatter has no title', () => {
   assert.equal(postTopicKey('region: "Lijiang"\n'), null);
 });
+
+test('barren-region penalty: a 0-post city that has already burned queries yields to a 1-post city that has not', () => {
+  // Uzbekistan 2026-08-18: Nukus (0 posts, several retired queries) was asked
+  // before Samarkand (1 post, nothing retired) on every run, and failed every
+  // run. Ordering by ATTEMPTS instead of posts fixes that.
+  const targets = [
+    { query: 'nukus museum', region: 'Nukus', category: 'museum', country: 'Testland' },
+    { query: 'samarkand museum', region: 'Samarkand', category: 'museum', country: 'Testland' },
+  ];
+  const countries = [{ name: 'Testland', regions: [], priority: 1 }];
+  const regionCatCounts = new Map([['Samarkand|attraction', 1]]);
+
+  // Control: nothing retired for Nukus → 0 posts still goes first.
+  const control = buildRotatedQueue(targets, new Set(), countries, [], { regionCatCounts });
+  assert.ok(control.findIndex((t) => t.region === 'Nukus') < control.findIndex((t) => t.region === 'Samarkand'));
+
+  // Three Nukus queries already spent (curated ones, so `targets` carries them
+  // as done): Nukus attempts = 3, Samarkand attempts = 1 → Samarkand first.
+  const spent = ['nukus a', 'nukus b', 'nukus c'].map((q) => ({ query: q, region: 'Nukus', category: 'museum', country: 'Testland' }));
+  const done = new Set(spent.map((t) => t.query));
+  const q = buildRotatedQueue([...spent, ...targets], done, countries, [], { regionCatCounts });
+  assert.ok(q.findIndex((t) => t.region === 'Samarkand') < q.findIndex((t) => t.region === 'Nukus'),
+    'a city that has eaten three queries without a post must wait behind a city asked once that delivered');
+});

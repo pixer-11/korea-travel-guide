@@ -454,14 +454,34 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
     }
     return out;
   };
+  // Barren-region penalty. "Fewest posts first" alone starved Uzbekistan's
+  // heritage cities (2026-08-18): Nukus/Andijan/Namangan/Termez sat at 0 posts
+  // and so were asked FIRST every single run — and failed every single run (no
+  // findable venue, no usable photo), each failure retiring one more query —
+  // while Samarkand/Bukhara/Khiva, at 1 post each, waited behind them. 37
+  // queries retired, 7 posts. So a region is ordered by ATTEMPTS (posts it has
+  // + queries already spent on it without a post), not by posts alone: a city
+  // that has eaten five queries and produced nothing yields to a city that has
+  // been asked once and delivered. Spent queries are read straight from `done`
+  // — the template strings are deterministic, so no extra bookkeeping.
+  const spentOn = (cname, region) => {
+    let n = 0;
+    for (const tpl of TOPIC_TEMPLATES) if (done.has(tpl.q(region, cname))) n++;
+    for (const t of targets) if ((t.country ?? 'South Korea') === cname && t.region === region && done.has(t.query)) n++;
+    return n;
+  };
   const perCountry = orderedCountries.map((cname) => {
     const rb = new Map();
     for (const t of byCountry.get(cname)) {
       if (!rb.has(t.region)) rb.set(t.region, []);
       rb.get(t.region).push(t);
     }
+    const attempts = (region) => {
+      const posts = regionTotals.get(region) || 0;
+      return posts + Math.max(0, spentOn(cname, region) - posts);
+    };
     const buckets = [...rb.entries()]
-      .sort((a, b) => (regionTotals.get(a[0]) || 0) - (regionTotals.get(b[0]) || 0))
+      .sort((a, b) => attempts(a[0]) - attempts(b[0]) || (regionTotals.get(a[0]) || 0) - (regionTotals.get(b[0]) || 0))
       .map(([region, v]) => interleaveByCategory(v, region));
     return { buckets, i: 0 };
   });
