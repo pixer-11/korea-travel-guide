@@ -163,6 +163,20 @@ async function cfReport() {
 }
 
 // ── Plausible (cookieless) — detailed, event-level report incl. affiliate clicks ──
+//
+// Two doors into the same numbers:
+//   1. Stats API v1 (Bearer key) — a BUSINESS-plan feature. The account is on
+//      Starter (paid through 2027-08-17), so since the trial ended every call
+//      returns 402 "does not have access". It is tried first only so that an
+//      upgrade would be picked up without a code change.
+//   2. The public dashboard's own query endpoint — the owner switched the
+//      dashboard to public on 2026-08-17, and the browser reads it through
+//      POST /api/stats/<site>/query/ with no auth. Verified 2026-08-18: same
+//      visitors/bounce/duration/sources/goal counts as the dashboard shows.
+//      This is what actually runs today. If the owner ever turns the public
+//      toggle off, this door closes too and the report says so.
+// Until 2026-08-18 the report tried door 1 alone and printed a "수집 실패 402"
+// line every day for a lock that no one was going to open.
 const { PLAUSIBLE_API_KEY, PLAUSIBLE_SITE_ID } = process.env;
 async function pla(path) {
   const r = await fetch(`https://plausible.io/api/v1/stats/${path}`, {
@@ -172,36 +186,80 @@ async function pla(path) {
   return r.json();
 }
 
+// The dashboard's date_range wants explicit ISO instants; use the same UTC day
+// as the Cloudflare figures so the two halves of the report describe one day.
+async function plaPublic(body) {
+  const site = PLAUSIBLE_SITE_ID;
+  const r = await fetch(`https://plausible.io/api/stats/${encodeURIComponent(site)}/query/`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json', 'User-Agent': 'Mozilla/5.0 (WanderAtlas daily report)' },
+    body: JSON.stringify({
+      site_id: site,
+      date_range: [`${dayLabel}T00:00:00+00:00`, `${dayLabel}T23:59:59+00:00`],
+      filters: [],
+      dimensions: [],
+      ...body,
+    }),
+  });
+  if (!r.ok) throw new Error(`Plausible public ${r.status}: ${(await r.text()).slice(0, 120)}`);
+  const j = await r.json();
+  return j.results ?? [];
+}
+
+async function plausibleViaPublicDashboard() {
+  const [agg] = await plaPublic({ metrics: ['visitors', 'pageviews', 'bounce_rate', 'visit_duration'] });
+  const pages = await plaPublic({ metrics: ['visitors'], dimensions: ['event:page'], pagination: { limit: 5 } });
+  const sources = await plaPublic({ metrics: ['visitors'], dimensions: ['visit:source'], pagination: { limit: 5 } });
+  let clicks = 0;
+  try {
+    const [g] = await plaPublic({ metrics: ['events'], filters: [['is', 'event:goal', ['Affiliate click']]] });
+    clicks = g?.metrics?.[0] ?? 0;
+  } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
+  const [visitors = 0, pageviews = 0, bounce = 0, dur = 0] = agg?.metrics ?? [];
+  return {
+    visitors, pageviews, bounce, dur: Math.round(dur), clicks,
+    topSrc: sources.map((x) => `${koSource(x.dimensions[0])} ${x.metrics[0]}`).join(' · ') || '—',
+    topPages: pages.map((p) => `  • ${pageLabel(p.dimensions[0])} — ${p.metrics[0]}`).join('\n') || '  —',
+  };
+}
+
+async function plausibleViaStatsApi() {
+  const s = encodeURIComponent(PLAUSIBLE_SITE_ID);
+  const q = `site_id=${s}&period=day&date=${dayLabel}`;
+  const agg = await pla(`aggregate?${q}&metrics=visitors,pageviews,bounce_rate,visit_duration`);
+  const pages = await pla(`breakdown?${q}&property=event:page&metrics=visitors&limit=5`);
+  const sources = await pla(`breakdown?${q}&property=visit:source&metrics=visitors&limit=5`);
+  let clicks = 0;
+  try {
+    const g = await pla(`aggregate?${q}&metrics=events&filters=${encodeURIComponent('event:name==Affiliate click')}`);
+    clicks = g.results?.events?.value ?? 0;
+  } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
+
+  const R = agg.results ?? {};
+  const topPages = (pages.results ?? []).map((p) => `  • ${pageLabel(p.page)} — ${p.visitors}`).join('\n') || '  —';
+  const topSrc = (sources.results ?? []).map((x) => `${koSource(x.source)} ${x.visitors}`).join(' · ') || '—';
+  return {
+    visitors: R.visitors?.value ?? 0,
+    pageviews: R.pageviews?.value ?? 0,
+    bounce: R.bounce_rate?.value ?? 0,
+    dur: Math.round(R.visit_duration?.value ?? 0),
+    clicks,
+    topSrc,
+    topPages,
+  };
+}
+
 async function plausibleReport() {
-  if (!PLAUSIBLE_API_KEY || !PLAUSIBLE_SITE_ID) {
+  if (!PLAUSIBLE_SITE_ID) {
     console.log('Plausible env missing — skipping Plausible report.');
     return null;
   }
-  const s = encodeURIComponent(PLAUSIBLE_SITE_ID);
-  const q = `site_id=${s}&period=day&date=${dayLabel}`;
-  try {
-    const agg = await pla(`aggregate?${q}&metrics=visitors,pageviews,bounce_rate,visit_duration`);
-    const pages = await pla(`breakdown?${q}&property=event:page&metrics=visitors&limit=5`);
-    const sources = await pla(`breakdown?${q}&property=visit:source&metrics=visitors&limit=5`);
-    let clicks = 0;
-    try {
-      const g = await pla(`aggregate?${q}&metrics=events&filters=${encodeURIComponent('event:name==Affiliate click')}`);
-      clicks = g.results?.events?.value ?? 0;
-    } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
-
-    const R = agg.results ?? {};
-    const topPages = (pages.results ?? []).map((p) => `  • ${pageLabel(p.page)} — ${p.visitors}`).join('\n') || '  —';
-    const topSrc = (sources.results ?? []).map((x) => `${koSource(x.source)} ${x.visitors}`).join(' · ') || '—';
-    return {
-      visitors: R.visitors?.value ?? 0,
-      pageviews: R.pageviews?.value ?? 0,
-      bounce: R.bounce_rate?.value ?? 0,
-      dur: Math.round(R.visit_duration?.value ?? 0),
-      clicks,
-      topSrc,
-      topPages,
-    };
-  } catch (e) {
+  if (PLAUSIBLE_API_KEY) {
+    try { return await plausibleViaStatsApi(); }
+    catch (e) { console.log('Plausible Stats API unavailable (expected on Starter):', e.message.slice(0, 80)); }
+  }
+  try { return await plausibleViaPublicDashboard(); }
+  catch (e) {
     console.error('Plausible report failed:', e.message);
     return { error: e.message };
   }
@@ -246,7 +304,7 @@ async function main() {
   L.push(cfOk ? cf.pages : pl.topPages);
 
   // Surface a half-failure instead of silently dropping a section.
-  if (cfOk && pl?.error) L.push('', `⚠️ 행동 통계(Plausible) 수집 실패: ${pl.error.slice(0, 80)}`);
+  if (cfOk && pl?.error) L.push('', `⚠️ 행동 통계(Plausible) 수집 실패: ${pl.error.slice(0, 80)}`, '   └ 공개 대시보드(plausible.io/wanderatlasguides.com)가 꺼졌는지 확인하세요');
 
   const text = L.join('\n');
   console.log(text);
