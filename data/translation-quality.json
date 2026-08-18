@@ -27970,5 +27970,89 @@
   "registerBreak": false,
   "worst": "由于地处火山较高处，叫车软件的可用性可能不太稳定，建议提前安排好返程",
   "at": "2026-08-16T11:23:24.157Z"
+ },
+ "zh/kuala-lumpur-jalinan": {
+  "hash": "daf2ab93933b",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "这不是一个匆匆吃口就走的地方，而是设计给你在上菜间隙慢慢品一杯鸡尾酒的。",
+  "at": "2026-08-18T08:25:34.614Z"
+ },
+ "es/austin-museum-of-the-weird": {
+  "hash": "795517c56c27",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "la clase de colección que, hace un siglo, habría recorrido ferias de condado",
+  "at": "2026-08-18T08:21:59.339Z"
+ },
+ "es/avignon-place-du-palais": {
+  "hash": "83572e01a639",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "el tramo más tranquilo va de las 7:00 a las 23:00: tanto la luz de la mañana...",
+  "at": "2026-08-18T08:22:07.987Z"
+ },
+ "es/bugis-albert-centre-market-food-centre": {
+  "hash": "96b66b09b695",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Lleva billetes pequeños y monedas.** La mayoría de los puestos solo aceptan efectivo o aplicaciones...",
+  "at": "2026-08-18T08:22:10.319Z"
+ },
+ "ja/austin-museum-of-the-weird": {
+  "hash": "92bff09e31cc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "呼び込み屋風の店構えがそうさせないのです。",
+  "at": "2026-08-18T08:22:13.568Z"
+ },
+ "ja/avignon-place-du-palais": {
+  "hash": "7fd59c2dadd2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "季節によっては大道芸人や臨時market（ポップアップマーケット）がこの開けた石畳を利用し",
+  "at": "2026-08-18T08:25:43.389Z"
+ },
+ "ja/bugis-albert-centre-market-food-centre": {
+  "hash": "cc828816e33e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "洗練された雰囲気はありません。蛍光灯がプラスチックの椅子の上でジーッと音を立て、天井のファンはゆっくりと回り",
+  "at": "2026-08-18T08:22:27.094Z"
+ },
+ "ko/austin-museum-of-the-weird": {
+  "hash": "5c3b4183d604",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 사이드쇼의 부활이자 진기한 물건들의 진열장이며, 스스로가 무엇인지 정확히 알고 있는 공간입니다.",
+  "at": "2026-08-18T08:22:37.228Z"
+ },
+ "ko/avignon-place-du-palais": {
+  "hash": "7933b5a14c38",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "이곳은 여전히 하나의 독립된 목적지로서는 대부분의 방문객들 레이더 밖에 있는 곳이라, 옆에 늘어선...",
+  "at": "2026-08-18T08:25:50.419Z"
+ },
+ "ko/bugis-albert-centre-market-food-centre": {
+  "hash": "37caf83c0185",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오각형 보도(five-foot way)까지 넘쳐나는 모습으로 쉽게 알아볼 수 있습니다.",
+  "at": "2026-08-18T08:22:45.560Z"
+ },
+ "zh/austin-museum-of-the-weird": {
+  "hash": "aa49c4df847b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "想不注意到奇趣博物馆几乎不可能——东六街上那家极具叫卖风格的门店，就是要让人一眼看见。",
+  "at": "2026-08-18T08:22:55.013Z"
+ },
+ "zh/avignon-place-du-palais": {
+  "hash": "f84d5f2e16a3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "作为一个值得单独探访的目的地，它至今仍未被大多数游客留意，所以你常常会发现",
+  "at": "2026-08-18T08:26:01.909Z"
  }
 }
