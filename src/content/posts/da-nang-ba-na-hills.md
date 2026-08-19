@@ -1,50 +1,50 @@
 ---
-title: "Ba Na Hills: Da Nang Travel Guide (4.4★)"
-description: "Ba Na Hills is a French colonial-style hill station and theme park above Da Nang, reached by one of the world's longest single-track cable cars, famous for the Golden Bridge held up by giant stone hands. 4.4★ (102,806 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Da Nang"
-category: "attraction"
-pubDate: "2026-08-19T08:12:53.422Z"
+title: 'Ba Na Hills: Da Nang Travel Guide (4.4★)'
+description: Ba Na Hills is a French colonial-style hill station and theme park above Da Nang, reached by one of the world's longest single-track cable cars, famous for the Golden Bridge held up by giant stone hands. 4.4★ (102,806 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Da Nang
+category: attraction
+pubDate: '2026-08-19T08:12:53.422Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/91/Linh_Ung_Pagoda.jpg"
-  credit: "Photo: Thevu69 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Linh_Ung_Pagoda.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Linh_Ung_Pagoda.jpg
+  credit: 'Photo: Thevu69 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Linh_Ung_Pagoda.jpg
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg/3840px-Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg"
-    credit: "Photo: Vivu Vietnam / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg/3840px-Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg
+    credit: 'Photo: Vivu Vietnam / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg
 place:
-  id: "ChIJyWFmArX3QTERon6tUT6re4Q"
-  name: "Ba Na Hills"
-  address: "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam"
+  id: ChIJyWFmArX3QTERon6tUT6re4Q
+  name: Ba Na Hills
+  address: Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam
   rating: 4.4
   userRatingsTotal: 102806
-  googleMapsUrl: "https://maps.google.com/?cid=9546412119288544930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9546412119288544930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 15.995136399999998
   lng: 107.9961392
 tags:
-  - "da nang"
-  - "park"
-quickAnswer: "Ba Na Hills is a French colonial-style hill station and theme park above Da Nang, reached by one of the world's longest single-track cable cars, famous for the Golden Bridge held up by giant stone hands. Go on a weekday, be at the cable car station right at opening, and budget a full day (8-10 hours) including transport. It's very popular, so arriving early is the single best move you can make."
+  - da nang
+  - park
+quickAnswer: Ba Na Hills is a French colonial-style hill station and theme park above Da Nang, reached by one of the world's longest single-track cable cars, famous for the Golden Bridge held up by giant stone hands. Go on a weekday, be at the cable car station right at opening, and budget a full day (8-10 hours) including transport. It's very popular, so arriving early is the single best move you can make.
 faq:
-  - q: "How long should I spend at Ba Na Hills?"
-    a: "Plan for a full day — around 8-10 hours including the drive from Da Nang, cable car rides, and time to see the Golden Bridge, French Village, and Fantasy Park without rushing."
-  - q: "What's the best time of day to visit the Golden Bridge?"
-    a: "Early morning, ideally right at opening. Mist and clouds tend to build up the ridge by afternoon, which can obscure the view and the bridge itself."
-  - q: "How do I get to Ba Na Hills from Da Nang?"
-    a: "Taxi, Grab, or a booked tour are the standard options, taking roughly 45 minutes to an hour to reach the base cable car station in Hoa Vang district."
-  - q: "Is Ba Na Hills worth it if it's crowded?"
-    a: "It's a very popular attraction, so expect company. Going on a weekday and arriving at opening are the best ways to enjoy the Golden Bridge and gardens with fewer people around."
-  - q: "Do I need to book tickets in advance?"
-    a: "Buying combo tickets online ahead of time lets you skip one of the two main queues (ticketing and cable car boarding), which saves meaningful time on busy days."
+  - q: How long should I spend at Ba Na Hills?
+    a: Plan for a full day — around 8-10 hours including the drive from Da Nang, cable car rides, and time to see the Golden Bridge, French Village, and Fantasy Park without rushing.
+  - q: What's the best time of day to visit the Golden Bridge?
+    a: Early morning, ideally right at opening. Mist and clouds tend to build up the ridge by afternoon, which can obscure the view and the bridge itself.
+  - q: How do I get to Ba Na Hills from Da Nang?
+    a: Taxi, Grab, or a booked tour are the standard options, taking roughly 45 minutes to an hour to reach the base cable car station in Hoa Vang district.
+  - q: Is Ba Na Hills worth it if it's crowded?
+    a: It's a very popular attraction, so expect company. Going on a weekday and arriving at opening are the best ways to enjoy the Golden Bridge and gardens with fewer people around.
+  - q: Do I need to book tickets in advance?
+    a: Buying combo tickets online ahead of time lets you skip one of the two main queues (ticketing and cable car boarding), which saves meaningful time on busy days.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
