@@ -1,66 +1,59 @@
 ---
 lang: es
 slug: avignon-place-du-palais
-srcHash: '5e0ee6cda3ea'
+srcHash: 'eb7e04cc3cb8'
 title: 'Place du Palais: guía de viaje de Aviñón'
-description: La Place du Palais es la vasta plaza empedrada frente al Palacio de los Papas, abierta las 24 horas y sin necesidad de entrada para simplemente pasearla.
-quickAnswer: 'La Place du Palais es la vasta plaza empedrada frente al Palacio de los Papas, abierta las 24 horas y sin necesidad de entrada para simplemente pasearla. Conviene ir a primera hora de la mañana o cuando ya se han retirado los autobuses turísticos: los fines de semana la plaza se mantiene tranquila entre las 7:00 y las 23:00, mientras que la mayor afluencia de gente se concentra entre las 9:00 y las 20:00. Basta con 20 o 30 minutos para recorrerla, algo más si uno se detiene a contemplar cómo la luz del atardecer baña la fachada.'
+description: La Place du Palais es la enorme plaza de piedra situada frente al Palacio de los Papas, abierta las 24 horas y sin necesidad de entrada para simplemente estar en ella.
+quickAnswer: La Place du Palais es la enorme plaza de piedra a los pies del Palacio de los Papas (Palais des Papes) en Aviñón. Se visita gratis a cualquier hora, aunque lo mejor es ir a primera hora de la mañana o después de cenar, cuando ya se han ido los autocares de excursionistas y la fachada iluminada tiene la plaza para ella sola. Basta con 20-30 minutos si solo se recorre la plaza, aunque conviene alargar la visita si se hace una parada en alguna terraza frente al palacio.
 faq:
-  - q: ¿Necesito entrada para visitar la Place du Palais?
-    a: 'No: la plaza en sí es gratuita y está abierta las 24 horas del día. Solo se necesita entrada para acceder al edificio del Palacio de los Papas.'
-  - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Los fines de semana, la plaza se mantiene tranquila en cualquier momento entre las 7:00 y las 23:00. La franja de más afluencia es de 9:00 a 20:00 los fines de semana, así que conviene ir a primera hora de la mañana o al anochecer para evitar aglomeraciones.
-  - q: ¿Cuánto tiempo debería dedicarle a la plaza?
-    a: Con 20-30 minutos basta para recorrer el perímetro y ver los principales miradores. Conviene añadir más tiempo si se quiere descansar sentado, contemplar el cambio de luz o disfrutar de algún espectáculo callejero.
-  - q: ¿Cómo llego a la Place du Palais desde la estación de tren?
-    a: Desde la estación de Avignon Centre son unos 15-20 minutos caminando por la Rue de la République. Desde la estación de Avignon TGV, se puede tomar un autobús lanzadera o un taxi hasta el centro, un trayecto de unos 15 minutos.
-  - q: ¿Qué más merece la pena ver en los alrededores?
-    a: La Catedral de Aviñón se encuentra justo cuesta arriba, el Hôtel des Monnaies queda frente al palacio al otro lado de la plaza, y el parque del Rocher des Doms está a un breve paseo, con vistas sobre el Ródano.
+  - q: ¿Se paga entrada para visitar la Place du Palais?
+    a: 'No: es una plaza pública abierta, sin entrada ni control de acceso. Solo se paga si se entra al Palacio de los Papas, al tesoro de la catedral o al museo del Petit Palais.'
+  - q: ¿Cuánto tiempo hay que dedicarle a la plaza?
+    a: Entre 20 y 30 minutos para recorrerla, hacer fotos y contemplar los tres edificios. Conviene añadir más tiempo si se hace una parada en alguna terraza o si se piensa hacer cola para entrar al palacio.
+  - q: ¿Cuál es el mejor momento para evitar las multitudes?
+    a: A primera hora de la mañana, antes de que abra el palacio, o después de cenar, cuando la fachada del palacio ya está iluminada. El mediodía es el momento de mayor afluencia de grupos turísticos y colas para las entradas.
+  - q: ¿Cómo se llega a la Place du Palais desde la estación de tren?
+    a: Desde la estación de Avignon Centre, es un paseo llano de 15 minutos subiendo por la Rue de la République y atravesando la Place de l'Horloge. Desde la estación de Avignon TGV, conviene tomar antes el autobús lanzadera o un taxi hasta el centro amurallado.
+  - q: ¿Qué más hay cerca?
+    a: La Place de l'Horloge, con sus cafés y su carrusel, está a cinco minutos a pie, y el Puente de Saint-Bénézet (Pont d'Avignon) junto con las murallas junto al río quedan justo debajo del palacio, en el lado del Ródano.
 ---
 
-Se llega desde el casco antiguo por una callejuela estrecha, flanqueada por casas de piedra con las contraventanas cerradas, y de pronto el espacio se abre de par en par. Al fondo se alza el Palacio de los Papas, un auténtico acantilado de piedra caliza pálida con torreones apilados unos sobre otros, tan imponente que hace parecer una maqueta a todo lo demás en la plaza.
+Se sube por la Rue de la Peyrolerie o la Rue Peyrollerie y, de repente, la calle se abre. Un momento se camina entre edificios estrechos de piedra color miel y, al siguiente, el Palacio de los Papas ocupa todo el cielo por delante. Así es la Place du Palais: no es un monumento en sí misma, sino el escenario sobre el que se levantan los monumentos.
 
-Esa plaza es la Place du Palais, y la mayoría de los visitantes la atraviesan en cinco minutos de camino a comprar la entrada al palacio. Merece más tiempo que eso.
+La plaza es enorme para tratarse de un casco antiguo: una extensión llana de piedra clara rodeada por el palacio papal, el museo del Petit Palais y la mole románica de la catedral de Aviñón, coronada por una Virgen dorada que brilla en lo alto. En verano, la luz del mediodía rebota con fuerza sobre la piedra caliza; si se va temprano, en cambio, la luz es suave y rasante, y recorre con delicadeza las torres y los contrafuertes del palacio.
 
-## Por qué esta plaza, y no solo el palacio
+## Por qué importa esta plaza
 
-El Palacio de los Papas se lleva las entradas y las colas. La plaza que tiene delante apenas recibe atención, a pesar de ser el mejor lugar para contemplar el edificio en su totalidad.
+No se trata de un simple hueco entre edificios: es la razón por la que Aviñón tiene el aspecto que tiene. Cuando el papado se trasladó aquí en el siglo XIV, esta plaza se convirtió en el patio ceremonial de la otra capital de la cristiandad.
 
-Si uno se sitúa junto al Hôtel des Monnaies, obtiene de un solo vistazo toda la fachada de nueve plantas, algo imposible una vez dentro. La piedra cambia de color a lo largo del día: dorada como la miel al mediodía, de un ámbar profundo cuando el sol se oculta tras las murallas.
+Procesiones, coronaciones y multitudes se congregaban justo donde hoy se detiene el visitante. Las dimensiones de la plaza solo cobran sentido cuando se alza la vista hacia el palacio-fortaleza al que estaba destinada a servir.
 
-## Qué hay realmente alrededor de la plaza
+## Qué se puede ver aquí
 
-Es un espacio que va más allá de un único monumento. Conviene tomarse un tiempo para reparar en lo que la rodea.
+Tres monumentos definen el espacio, y cada uno merece una mirada pausada antes de seguir adelante:
 
-- **Palacio de los Papas**: el palacio pontificio fortificado, que domina el lado norte
-- **Catedral de Aviñón (Notre-Dame des Doms)**: cuesta arriba, con su estatua dorada de la Virgen visible desde la plaza
-- **Hôtel des Monnaies**: la antigua casa de la moneda del siglo XVII, hoy convertida en conservatorio de música, justo enfrente del palacio
-- **Parque del Rocher des Doms**: a un breve paseo cuesta arriba desde el borde de la plaza, con vistas sobre el Ródano
+- **Palacio de los Papas (Palais des Papes)**: el mayor palacio gótico de Europa, con una fachada que es un muro de torres y ventanas en forma de saeteras
+- **Catedral de Aviñón (Notre-Dame des Doms)**: de origen románico del siglo XII, con una estatua dorada de la Virgen María del siglo XIX coronando su torre
+- **Petit Palais**: antigua residencia de los arzobispos, hoy convertida en museo de pintura renacentista italiana
 
-Artistas callejeros y mercadillos ocupan el empedrado según la época del año, sobre todo en julio durante el Festival de Aviñón, cuando la plaza se convierte además en telón de fondo de los espectáculos.
+La plaza en sí es gratuita y permanece abierta las 24 horas, ya que se trata de un espacio público y no de un recinto con entrada. Los edificios que la rodean tienen sus propios horarios y tarifas, así que conviene consultarlos aparte si se piensa entrar al palacio.
 
 ## Cómo llegar
 
-El casco antiguo de Aviñón es compacto y se recorre fácilmente a pie, y la Place du Palais se encuentra cerca de su límite norte. Desde la estación de Avignon Centre, son unos 15-20 minutos caminando por la Rue de la République, la principal calle peatonal de la ciudad.
+El casco antiguo de Aviñón está amurallado y es en gran parte peatonal, así que, sea cual sea el medio de transporte con el que se llegue a la ciudad, el último tramo se hace a pie. Desde la estación de Avignon Centre, el paseo dura unos 15 minutos: se sube directamente por la Rue de la République, se atraviesa la Place de l'Horloge y se sale al otro lado, justo a la plaza.
 
-Quienes lleguen en coche o en TGV a la estación de Avignon TGV pueden tomar un autobús lanzadera o un taxi hasta el centro, un trayecto de unos 15 minutos. El aparcamiento cerca de la plaza es limitado; las opciones de pago más cercanas son el Parking des Halles y el Parking de l'Horloge.
+Si se llega a la estación de Avignon TGV, situada fuera de las murallas, lo mejor es tomar primero el autobús lanzadera o un taxi corto hasta el centro. Aparcar cerca del casco antiguo es difícil y las plazas suelen estar reservadas a los residentes, por lo que la mayoría de los visitantes deja el coche fuera de las murallas y entra caminando.
 
 ## Cuándo ir
 
-La plaza permanece abierta las 24 horas, todos los días: no hay verja, ni entrada, ni horario de cierre para el espacio en sí. Esto permite verla iluminada por la noche, cuando los focos tiñen la fachada del palacio de un cálido dorado y las multitudes casi desaparecen.
+La plaza no tiene horario de apertura, así que la visita puede planearse en función de las multitudes. El mediodía es el momento de mayor afluencia, con grupos turísticos agolpados para conseguir entradas al palacio y hacerse fotos frente a la fachada.
 
-Los fines de semana concentran la mayor afluencia entre las 9:00 y las 20:00, principalmente grupos turísticos que van o vienen de la entrada del palacio. Para quienes visiten en sábado o domingo, el tramo más tranquilo va de las 7:00 a las 23:00: tanto la luz de primera hora de la mañana como un paseo al anochecer son buenas opciones.
+A primera hora de la mañana, antes de que abran las taquillas, la plaza pertenece sobre todo a los vecinos que la cruzan de camino al trabajo. Después de cenar es el otro momento ideal: el palacio se ilumina por la noche, la piedra adquiere un tono ámbar y las terrazas de los bordes de la plaza se llenan de un ambiente más tranquilo y nocturno.
 
 ## Cómo visitarla como un local
 
-Conviene evitar la hora punta exacta de apertura de la taquilla del palacio y recorrer primero la plaza, algo que no cuesta nada y no requiere reserva. No hay mostrador, ni cola, ni aplicación: simplemente se entra caminando.
+Conviene evitar el gentío del mediodía y acercarse al amanecer o después de las 21:00: la plaza se vacía y la fachada del palacio queda mucho mejor en las fotos sin un centenar de personas en el encuadre. La plaza en sí no tiene sistema de colas, al ser un espacio público abierto; solo hace falta paciencia en la fila para las entradas del Palacio de los Papas.
 
-Los habitantes de Aviñón que cruzan la plaza rara vez se detienen a fotografiar un palacio que ya han visto mil veces, así que quien busque una foto sin gente debería apuntar a la primera hora de la mañana, antes de que lleguen los grupos turísticos.
+Si se quiere tomar un café con vistas al palacio, hay que contar con precios de terraza turística, no de callejuela del casco antiguo: lo que se paga es la vista. En el centro de Aviñón se acepta tanto efectivo como tarjeta en casi todos los establecimientos.
 
-Las cafeterías que rodean la plaza aceptan tarjeta con la misma facilidad que efectivo, aunque un café aquí sale más caro que unas calles más allá; conviene caminar una manzana hacia la Rue des Marchands para encontrar mejores precios.
-
-El error que cometen la mayoría de los primerizos es tratar este espacio como un mero lugar de paso entre la estación y la cola de entradas. Vale la pena sentarse en el murete junto a la fuente, alzar la vista y dedicarle unos minutos sin prisa: ese es, en realidad, el sentido de este lugar. Sigue pasando desapercibida como destino en sí misma para la mayoría de los visitantes, así que a menudo se encontrará ese tramo de plaza mucho más tranquilo que la cola del palacio justo al lado.
-
-Las noches del Festival de Aviñón (julio) traen consigo una energía distinta, con espectáculos al aire libre e instalaciones de luz que usan el muro del palacio como pantalla. Fuera de la temporada del festival, la plaza recupera algo más parecido a su calma cotidiana, con vecinos que la cruzan de camino a otro sitio.
-
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
+Las normas de comportamiento aquí son sencillas: se trata de una plaza pública en pleno funcionamiento, con una catedral donde aún se celebran oficios religiosos, así que conviene evitar el ruido cerca de la entrada de la iglesia y mostrar respeto si coincide con una boda o una misa. El error más común de los visitantes es ir directos a la taquilla del palacio sin darse la vuelta: merece la pena detenerse también a contemplar la catedral y el Petit Palais, ya que los tres edificios comparten el mismo escenario de piedra.
