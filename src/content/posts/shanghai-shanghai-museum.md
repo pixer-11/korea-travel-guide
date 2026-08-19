@@ -6,10 +6,13 @@ region: Shanghai
 category: attraction
 pubDate: '2026-08-05T11:35:03.865Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Shanghai_Museum_exterior_1.jpg
-  credit: 'Photo: Hanjiang 2009 (寒江2009) / Wikimedia Commons (CC BY 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Shanghai_East_Museum_-_54129437258.jpg/3840px-Shanghai_East_Museum_-_54129437258.jpg
+  credit: 'Photo: viatorimperi / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Shanghai_Museum_exterior_1.jpg
+  source: https://commons.wikimedia.org/wiki/File:Shanghai_East_Museum_-_54129437258.jpg
+  focus:
+    x: 40
+    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Shanghai_East_Museum_-_54133196051.jpg/3840px-Shanghai_East_Museum_-_54133196051.jpg
     credit: 'Photo: viatorimperi / Wikimedia Commons (CC BY-SA 2.0)'

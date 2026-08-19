@@ -6,11 +6,13 @@ region: Bali
 category: restaurant
 pubDate: '2026-07-29'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/570091919_DhAaLuGSbvA6FYTR1P6Cymd8wdOpgo3S--85nbYDtQQ.jpg
+  credit: 'Photo: Foursquare user content (ORYn Bali)'
+  license: foursquare
+  source: https://foursquare.com/v/6a12bec338711d67b6f7ef2c
+  focus:
+    x: 45
+    'y': 65
 tags:
   - bali
   - new & trending
@@ -27,7 +29,6 @@ faq:
   - q: Is ORYn easy to get to without a car?
     a: Yes — it's on Monkey Forest Road, so it's walkable from most central Ubud hotels and guesthouses, and any local driver or ride-hailing app will recognize the street by name if you need transport.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

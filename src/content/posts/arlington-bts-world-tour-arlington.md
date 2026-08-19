@@ -26,14 +26,13 @@ aiGenerated: true
 eventRecurring: false
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/74/BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil%2C_May_2019_03.jpg
-  credit: 'Photo: Viviane Costa / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a5/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_03.jpg
+  credit: 'Photo: I DARE U JK / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BTS_World_Tour_Love_Yourself_Speak_Yourself_in_Brazil,_May_2019_03.jpg
+  source: https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_03.jpg
   focus:
     x: 50
-    'y': 50
-draft: true
+    'y': 40
 ---
 
 ## Why this show matters

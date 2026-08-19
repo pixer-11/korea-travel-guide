@@ -6,13 +6,13 @@ region: Da Nang
 category: attraction
 pubDate: '2026-08-19T08:12:53.422Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/91/Linh_Ung_Pagoda.jpg
-  credit: 'Photo: Thevu69 / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Linh_Ung_Pagoda.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Beer_Plaza_Bestival_food_beer_festival_Sun_World_Ba_Na_Hills_Da_Nang_Vietnam.jpg
+  credit: 'Photo: Vivu Vietnam / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=189583322
   focus:
-    x: 40
-    'y': 40
+    x: 50
+    'y': 45
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg/3840px-Sun_World_Ba_Na_Hills_aerial_overview_sunset_Da_Nang_Vietnam.jpg
     credit: 'Photo: Vivu Vietnam / Wikimedia Commons (CC BY-SA 4.0)'
@@ -44,7 +44,6 @@ faq:
   - q: Do I need to book tickets in advance?
     a: Buying combo tickets online ahead of time lets you skip one of the two main queues (ticketing and cable car boarding), which saves meaningful time on busy days.
 aiGenerated: true
-draft: true
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
