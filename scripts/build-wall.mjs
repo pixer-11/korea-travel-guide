@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import sharp from 'sharp';
 import yaml from 'js-yaml';
+import { politeFetch } from './lib/polite-fetch.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -94,7 +95,13 @@ async function main() {
         if (!existsSync(localPath)) throw new Error('local file missing');
         buf = await readFile(localPath);
       } else {
-        const res = await fetch(url, { headers: { 'User-Agent': UA } });
+        // Wikimedia throttles, and a throttled thumbnail is a blank card that
+        // nobody notices: this loop only counts failures, and the publish
+        // workflow calls it with `|| true`. On 2026-08-19 nine cards went live
+        // empty that way (the same nine rebuilt 9/9 minutes later, from the
+        // same files — the photos were fine, the moment was not). politeFetch
+        // honours Retry-After, same as mirror-og-images and backfill-hero-focus.
+        const res = await politeFetch(url, { headers: { 'User-Agent': UA }, tries: 3, baseMs: 3000 });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         buf = Buffer.from(await res.arrayBuffer());
       }
