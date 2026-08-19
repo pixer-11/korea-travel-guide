@@ -11,6 +11,7 @@ import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
 import { eventProperName, eventProperNameVariants } from '../../src/lib/eventName.mjs';
 import { commonsBest, keyToken, tokens, wikipediaLeadImage } from './commons.mjs';
+import { heroUrlOf } from './hero-url.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
 
@@ -324,9 +325,12 @@ export async function loadUsedImageUrls(postsDir) {
   const used = new Set();
   for (const f of await readdir(postsDir)) {
     if (!f.endsWith('.md')) continue;
-    const m = (await readFile(join(postsDir, f), 'utf8')).match(/\n {2}url:\s*"?([^"\n]+?)"?\s*$/m);
-    if (!m) continue;
-    const u = m[1].trim();
+    // The hero, read the same way validate-content reads it — see hero-url.mjs.
+    // A regex here missed folded scalars and posts whose officialLink sits above
+    // heroImage, leaving ~113 heroes unclaimed and letting two snooker posts
+    // share one photo (2026-08-19).
+    const u = heroUrlOf(await readFile(join(postsDir, f), 'utf8'));
+    if (!u) continue;
     used.add(u);
     const n = unsplashNum(u);
     if (n) used.add(n);

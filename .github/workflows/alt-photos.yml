@@ -154,6 +154,16 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         run: node scripts/release-photoless-events.mjs
 
+      # Two posts wearing one photo. The set that prevents this read heroes with
+      # a regex that could not see a folded scalar, so ~113 heroes were invisible
+      # to it and Taiyuan + Wuhan shared a snooker table (2026-08-19). The reader
+      # is fixed (lib/hero-url.mjs); this re-resolves whatever slipped through,
+      # vision-gated, and no-ops in seconds on a clean night. Nothing is deleted
+      # or drafted — a post with no verified replacement keeps the photo it has.
+      - name: Re-resolve duplicate heroes (vision-gated)
+        if: steps.gate.outputs.on == 'true'
+        run: node scripts/reresolve-dupe-heroes.mjs
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |
