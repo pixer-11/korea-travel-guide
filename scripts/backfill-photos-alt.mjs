@@ -25,7 +25,7 @@ import { keyToken, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
-import { isPatrolTarget, isPhotolessLive } from './lib/patrol-target.mjs';
+import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-target.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 
 const POSTS = 'src/content/posts';
@@ -148,12 +148,15 @@ for (const f of files) {
   const flaggedNow =
     vmismatch.has(slug) ||
     (vmismatchUrls.get(slug)?.has(data.heroImage?.url || '') ?? false);
+  const curVerdict = auditStore?.[`${slug}\x01${data.heroImage?.url || ''}`]?.verdict;
   const isTarget = isPatrolTarget({
     draft: data.draft,
     heroUrl: data.heroImage?.url || '',
     flaggedNow,
     auditAll: process.env.AUDIT_ALL === '1',
     named: ONLY.length > 0,
+    clearedHero: typeof curVerdict === 'string' && /MATCH/.test(curVerdict) && !/MISMATCH/.test(curVerdict),
+    heldReason: data.heldReason,
   });
   if (!isTarget) continue;
   scanned++;
@@ -404,8 +407,13 @@ for (const f of files) {
     // 2026-08-18 it republished avignon-place-du-palais, held for a tool-output
     // spill with an empty article — which the hours re-check could not see —
     // live for a day as a blank page with a broken answer box.
-    const heldByGate = wasDraft && typeof data.heldReason === 'string' && data.heldReason.length > 0;
-    if (wasDraft && !heldByGate) delete data.draft;
+    const heldByGate = wasDraft && NON_PHOTO_HOLD.test(String(data.heldReason || ''));
+    if (wasDraft && !heldByGate) {
+      delete data.draft;
+      // A photo-class hold (wrong-venue-photo etc.) IS lifted by a verified
+      // new hero — clear its marker too, or it lingers as a false alarm.
+      if (data.heldReason) delete data.heldReason;
+    }
     let out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
     // Drafts that carry no reason (older holds): re-run the hours check and
     // keep the draft when the prose still fights the fact box.

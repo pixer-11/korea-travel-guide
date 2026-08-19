@@ -22,6 +22,10 @@ export function isPhotolessLive({ draft, heroUrl }) {
   return draft !== true && !heroUrl;
 }
 
+/** Holds the publish gate / topic audit write: not photo quarantines, so a new
+ *  photo cannot lift them and the photo patrol has nothing to do there. */
+export const NON_PHOTO_HOLD = /^(hours|content|generic-topic)$/;
+
 /**
  * @param {object} p
  * @param {boolean} p.draft        frontmatter draft flag
@@ -29,14 +33,23 @@ export function isPhotolessLive({ draft, heroUrl }) {
  * @param {boolean} p.flaggedNow   a MISMATCH/WEAK verdict against the hero it still shows
  * @param {boolean} p.auditAll     AUDIT_ALL=1
  * @param {boolean} p.named        named explicitly via SLUGS
+ * @param {boolean} p.clearedHero  the store already holds a MATCH for THIS hero (any judge)
+ * @param {string}  p.heldReason   frontmatter heldReason, if any
  */
-export function isPatrolTarget({ draft, heroUrl = '', flaggedNow = false, auditAll = false, named = false }) {
+export function isPatrolTarget({ draft, heroUrl = '', flaggedNow = false, auditAll = false, named = false, clearedHero = false, heldReason = '' }) {
+  if (named) return true;
+  // A gate/topic hold is not a photo problem: no photo search, no vision call.
+  if (draft === true && NON_PHOTO_HOLD.test(String(heldReason || ''))) return false;
   return (
-    auditAll ||
-    named ||
     draft === true ||
     flaggedNow ||
     isPhotolessLive({ draft, heroUrl }) ||
-    heroUrl.includes('placeholder')
+    heroUrl.includes('placeholder') ||
+    // AUDIT_ALL re-judges heroes the store has NEVER cleared. A hero already
+    // recorded MATCH (publish gate, an earlier patrol night, the weekly audit)
+    // is not judged again for being there: on 2026-08-18 the nightly run
+    // scanned 1,060 posts — 957 of them already MATCH for the very hero they
+    // showed — and fixed 5. ~1,000 vision calls a night for duplicate verdicts.
+    (auditAll && !clearedHero)
   );
 }

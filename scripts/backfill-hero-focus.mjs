@@ -27,6 +27,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import sharp from 'sharp';
 import Anthropic from '@anthropic-ai/sdk';
+import { politeFetch } from './lib/polite-fetch.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -41,7 +42,9 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchHero(url) {
   if (url.startsWith('/')) return readFile(join(ROOT, 'public', url.replace(/^\/+/, '')));
-  const r = await fetch(url, { headers: { 'user-agent': UA } });
+  // Commons throttles bursts with 429 — retry the transient codes instead of
+  // counting a throttle as a failed hero (64 of 96 'failures' on 08-19 were 429).
+  const r = await politeFetch(url, { headers: { 'user-agent': UA }, tries: 3, baseMs: 4000 });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return Buffer.from(await r.arrayBuffer());
 }

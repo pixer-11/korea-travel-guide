@@ -28,6 +28,17 @@ const cases = [
   // ── 수동 스위치는 그대로 ──────────────────────────────────────────────
   ['AUDIT_ALL=1 은 전부 대상', { draft: false, heroUrl: HERO, auditAll: true }, true],
   ['SLUGS 로 지명하면 대상', { draft: false, heroUrl: HERO, named: true }, true],
+
+  // ── 08-19 비용 규칙: 이미 판정된 건 다시 묻지 않는다 / 사진 문제 아닌 격리는 안 건드린다 ──
+  ['AUDIT_ALL 이어도 현재 히어로가 이미 MATCH면 대상 아님(어젯밤 957편 중복 판정)',
+    { draft: false, heroUrl: HERO, auditAll: true, clearedHero: true }, false],
+  ['AUDIT_ALL + MATCH 없음 → 대상', { draft: false, heroUrl: HERO, auditAll: true, clearedHero: false }, true],
+  ['MATCH 기록이 있어도 MISMATCH로 새로 찍혔으면 대상', { draft: false, heroUrl: HERO, flaggedNow: true, clearedHero: true }, true],
+  ['게이트 hold(content)는 사진 순찰 대상 아님', { draft: true, heroUrl: HERO, heldReason: 'content' }, false],
+  ['게이트 hold(hours)도 아님', { draft: true, heroUrl: HERO, heldReason: 'hours' }, false],
+  ['generic-topic 격리도 아님', { draft: true, heroUrl: HERO, heldReason: 'generic-topic' }, false],
+  ['사진류 hold(wrong-venue-photo)는 여전히 대상', { draft: true, heroUrl: HERO, heldReason: 'wrong-venue-photo' }, true],
+  ['SLUGS 지명은 hold 종류와 무관하게 대상', { draft: true, heroUrl: HERO, heldReason: 'content', named: true }, true],
 ];
 
 let fail = 0;

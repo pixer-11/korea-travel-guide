@@ -28,6 +28,7 @@ import { createHash } from 'node:crypto';
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { AwsClient } from 'aws4fetch';
+import { politeFetch } from './lib/polite-fetch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const TABLE = fileURLToPath(new URL('../data/og-mirror.json', import.meta.url));
@@ -57,7 +58,11 @@ for (const f of readdirSync(POSTS)) {
   const url = s.match(/^heroImage:\r?\n\s+url:\s*(\S+)/m)?.[1]?.replace(/^["']|["']$/g, '');
   if (url && /^https?:\/\//.test(url)) heroes.push(url);
 }
-const todo = [...new Set(heroes)].filter((u) => !table[u]).slice(0, limit);
+// `null` in the table = measured, narrower than MIN_W, stays hotlinked BY
+// DESIGN. Recorded so the three daily patrols stop re-downloading the same
+// 19 originals every run (57 needless Commons pulls a day — part of why the
+// patrol hours hit 429). BaseLayout's `table[u] ?? u` already falls back.
+const todo = [...new Set(heroes)].filter((u) => !(u in table)).slice(0, limit);
 console.log(`${heroes.length} hero URL(s), ${Object.keys(table).length} mirrored, ${todo.length} to do`);
 
 let done = 0, skipped = 0, failed = 0;
@@ -68,13 +73,13 @@ for (const url of todo) {
     // into the first run). One request per ~1.2s stays under it; the script
     // is resumable so a long catch-up just takes a few runs.
     await sleep(2500);
-    const res = await fetch(url, { headers: { 'user-agent': 'WanderAtlasBot/1.0 (og-mirror; wanderatlasguides.com)' } });
+    const res = await politeFetch(url, { headers: { 'user-agent': 'WanderAtlasBot/1.0 (og-mirror; wanderatlasguides.com)' }, tries: 3, baseMs: 4000 });
     if (!res.ok) throw new Error(`fetch ${res.status}`);
     const buf = Buffer.from(await res.arrayBuffer());
     const meta = await sharp(buf).metadata();
     // The Discover invariant is ≥1200px. A narrower original stays hotlinked
     // rather than being upscaled into a soft fake.
-    if ((meta.width ?? 0) < MIN_W) { skipped++; continue; }
+    if ((meta.width ?? 0) < MIN_W) { table[url] = null; skipped++; continue; }
     const out = await sharp(buf).resize({ width: MIN_W, withoutEnlargement: true }).webp({ quality: 82 }).toBuffer();
     const key = createHash('sha256').update(url).digest('hex').slice(0, 16) + '.webp';
     const put = await aws.fetch(`${endpoint}/${key}`, { method: 'PUT', body: out, headers: { 'content-type': 'image/webp' } });

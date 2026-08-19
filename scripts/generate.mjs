@@ -47,11 +47,19 @@ let USED_PLACE_IDS = new Set();
 // is what made the two Boryeong "mud" posts look identical). Passed into
 // resolveHero(), which skips any URL already in this set.
 let USED_IMAGE_URLS = new Set();
+// Slugs on disk and topic keys on disk, shared with the candidate loop so a
+// venue that is ALREADY a post is skipped BEFORE its hero search, vision
+// checks, in-body photo and LLM article are paid for. Until 2026-08-19 the
+// exists / topic-twin checks ran only on the finished post — a full build
+// (≈ hero search + 2-4 vision calls + writer call) thrown away per hit.
+let EXISTING_SLUGS = new Set();
+let USED_TOPIC_KEYS = new Set();
 // Posts whose in-body photo failed for a TRANSIENT reason this run (Commons
 // 429 after retries, a fetch that threw). Retried once at the end of the run
 // by retryInBodyPhotos(); a miss there is final and the weekly patrol's job.
 const INBODY_RETRY = [];
 let INBODY_PENDING = null; // set by the in-body block, claimed at write time (needs the slug)
+let LAST_HERO_VERDICT = null; // { url, reason } of the hero the publish gate just approved
 
 // The two in-body sources, with a reason for each empty hand.
 async function inBodyCandidates(place, target, heroUrl) {
@@ -270,6 +278,8 @@ async function main() {
   USED_PLACE_IDS = await loadUsedPlaceIds();
   USED_IMAGE_URLS = await loadUsedImageUrls();
   const usedTopicKeys = await loadUsedTopicKeys();
+  EXISTING_SLUGS = existing;
+  USED_TOPIC_KEYS = usedTopicKeys;
 
   // Per-country fill cap. When TARGET_PER_COUNTRY is set (e.g. the backfill
   // workflow uses 58), a country that already has that many published guides is
@@ -373,6 +383,13 @@ async function main() {
       published++;
       console.log(`  ✅  published: ${post.slug}`);
       if (INBODY_PENDING) { INBODY_RETRY.push({ slug: post.slug, ...INBODY_PENDING }); INBODY_PENDING = null; }
+      if (LAST_HERO_VERDICT && post.markdown.includes(LAST_HERO_VERDICT.url)) {
+        try {
+          const { recordHeroVerdict } = await import('./lib/vision-check.mjs');
+          await recordHeroVerdict(post.slug, LAST_HERO_VERDICT.url, 'MATCH', `publish gate: ${LAST_HERO_VERDICT.reason}`);
+        } catch (e) { console.log(`  (verdict not recorded: ${String(e.message).slice(0, 60)})`); }
+      }
+      LAST_HERO_VERDICT = null;
     } catch (err) {
       console.log(`  ⚠️  error on "${target.query}": ${err.message.slice(0, 120)}`);
       if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
@@ -832,11 +849,27 @@ async function buildLivePost(target) {
   // rather than publish anyway. No candidate verifies → this slot is skipped.
   let place = null;
   let hero = null;
+  LAST_HERO_VERDICT = null;
   for (const cand of results) {
     if (!checkPlace(cand).ok) continue;
     // English-site guard: a name with no Latin letters would make a Hangul slug.
     if (!/[a-z0-9]/i.test(cand.name || '')) continue;
     if (cand.id && USED_PLACE_IDS.has(cand.id)) continue;
+    // Already a post under this slug, or the same landmark under another
+    // wording? Decide NOW, before the hero search, vision checks and writer
+    // call — the same two checks the finished post faces below, moved up.
+    {
+      const provisionalSlug = slugify(`${target.region}-${cand.name}`);
+      if (EXISTING_SLUGS.has(provisionalSlug)) {
+        console.log(`  ↩︎  "${cand.name}" — already published (${provisionalSlug}); trying next candidate`);
+        continue;
+      }
+      const provisionalKey = topicKey(makeTitle(cand.name, target, cand), target.region);
+      if (provisionalKey && USED_TOPIC_KEYS.has(provisionalKey)) {
+        console.log(`  ↩︎  "${cand.name}" — topic twin of an existing post; trying next candidate`);
+        continue;
+      }
+    }
     let h = await resolveHero({
       namedVenue: cand.name,
       region: target.region,
@@ -886,7 +919,13 @@ async function buildLivePost(target) {
     }
     // The gate also reported where the subject sits; carry it onto the hero
     // so the 16:9 frame crops toward it (faces, not chins).
-    place = cand; hero = vis.focus ? { ...h, focus: vis.focus } : h; break;
+    place = cand; hero = vis.focus ? { ...h, focus: vis.focus } : h;
+    // Remember the approval so it can be RECORDED once the post has a slug.
+    // Unrecorded, the same hero was judged again by visual-audit the next
+    // evening and by the dawn patrol under AUDIT_ALL — two more vision calls
+    // per new post to learn what the publish gate already knew (2026-08-19).
+    LAST_HERO_VERDICT = { url: h.url, reason: vis.reason || 'approved' };
+    break;
   }
   if (!place) {
     console.log(`  ⏭️   skip "${target.query}" — no candidate venue with a verified photo`);
@@ -1068,6 +1107,11 @@ async function buildPlacelessPost(target) {
   const { writeArticle } = await import('./lib/writer.mjs');
 
   const title = makePlacelessTitle(target);
+  // Same early exit as the venue path: no writer call for a slug already on disk.
+  if (EXISTING_SLUGS.has(slugify(`${target.region}-${target.topic}`))) {
+    console.log(`  ↩︎  "${target.query}" — already published; skipping before the writer call`);
+    return null;
+  }
   const facts = {
     topic: target.topic,
     area: target.query,
