@@ -28138,5 +28138,89 @@
   "registerBreak": false,
   "worst": "主要看点包括：一座凿于岩石中的清真寺，配有一座纤细的宣礼塔，是这座村庄曾有穆斯林居民为数不多的建筑证据",
   "at": "2026-08-18T09:25:38.644Z"
+ },
+ "es/antalya-perge-ancient-city": {
+  "hash": "815f759984e9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Conviene subir la pequeña colina sobre la zona del teatro (el teatro en sí suele estar vallado",
+  "at": "2026-08-19T08:18:26.251Z"
+ },
+ "es/bohol-baclayon-church": {
+  "hash": "e966e4519aac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "de 1:30 a 4:30h, de miércoles a sábado, además del lunes.",
+  "at": "2026-08-19T08:18:28.077Z"
+ },
+ "es/cappadocia-uchisar-castle": {
+  "hash": "0675ea1359b3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...en línea con el tramo relajado del horario de 7:00 a 21:00 fuera de esa hora punta...",
+  "at": "2026-08-19T08:20:40.824Z"
+ },
+ "ja/antalya-perge-ancient-city": {
+  "hash": "58f4d04bb47b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ほとんど日陰がないので、地図上の距離感よりもそちらを基準に予定を組んでください。",
+  "at": "2026-08-19T08:18:47.849Z"
+ },
+ "ja/bohol-baclayon-church": {
+  "hash": "c93da2a922ce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "火曜と日曜は終日休館となり、日曜のミサに訪れる人で賑わっていると思い込んでいる旅行者にとっては意外に感じられるポイントです。",
+  "at": "2026-08-19T08:18:49.650Z"
+ },
+ "ja/cappadocia-uchisar-castle": {
+  "hash": "57b7af9a4087",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "平日・週末を問わず、朝と夕方は目立って空いており、週末の昼から夕方にかけての混雑を除けば...",
+  "at": "2026-08-19T08:18:52.720Z"
+ },
+ "ko/antalya-perge-ancient-city": {
+  "hash": "fbf41343a292",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "하지만 그것은 아쉬운 선택입니다.",
+  "at": "2026-08-19T08:19:00.663Z"
+ },
+ "ko/bohol-baclayon-church": {
+  "hash": "ede4a651e03d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "두껍고 위로 갈수록 가늘어지는 이 부벽들은 주변의 더 새로운 건물들을 무너뜨린 지진에도 견뎌낼 수 있도록 지어졌습니다.",
+  "at": "2026-08-19T08:19:14.045Z"
+ },
+ "ko/cappadocia-uchisar-castle": {
+  "hash": "02a12355db85",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "이는 주말 낮부터 저녁까지 몰리는 혼잡 시간대를 제외한 오전 7시~오후 9시 개방 시간 전체에 해당합니다.",
+  "at": "2026-08-19T08:20:51.116Z"
+ },
+ "zh/antalya-perge-ancient-city": {
+  "hash": "a4666a7ee4ce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "往里走，罗马时期的城市便一层层展开在眼前。",
+  "at": "2026-08-19T08:19:28.882Z"
+ },
+ "zh/bohol-baclayon-church": {
+  "hash": "cf70c84d0e30",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这一点常让期待周日弥撞见热闹场面的游客感到意外——出发前最好先确认一下",
+  "at": "2026-08-19T08:19:42.773Z"
+ },
+ "zh/cappadocia-uchisar-castle": {
+  "hash": "d204743a0c1b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "清晨与傍晚时段都明显清静许多，正好落在这段周末人潮之外的开放时间里。",
+  "at": "2026-08-19T08:19:49.473Z"
  }
 }
