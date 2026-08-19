@@ -334,9 +334,19 @@ for (const f of files) {
       console.log(`   ${slug}: candidate was judged wrong before (${priorVerdict.reasonKo || priorVerdict.reason}) — skipping`);
       continue;
     }
+    // A rejection is a FACT about this candidate for this post — write it, or
+    // the same four Commons results are judged again every night for seven
+    // nights (2026-08-20: 110 candidate verdicts for 93 posts, most of them
+    // repeats of the night before). The priorVerdict check above then skips
+    // them for free. Outages are not verdicts and are never recorded.
+    const remember = (why) => {
+      if (!auditStore || DRY) return;
+      auditStore[`${slug}\x01${cand.url}`] = { slug, verdict: 'MISMATCH', reason: `patrol reject: ${String(why || '').slice(0, 150)}`, at: new Date().toISOString() };
+      auditDirty = true;
+    };
     const vis = await verifyHeroImage({ url: cand.url, ...ctx });
-    if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) visionOutage = true;
-    if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); continue; }
+    if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) { visionOutage = true; console.log(`   ${slug}: vision unavailable — candidate left unjudged`); continue; }
+    if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); remember(vis.reason); continue; }
     // Clear the bar that QUARANTINED the post, not merely the selection bar.
     // These are two prompts with two thresholds; while they disagree a post
     // bounces between quarantine and republish every night. The stricter audit
@@ -347,6 +357,7 @@ for (const f of files) {
     });
     if (second.verdict === 'MISMATCH') {
       console.log(`   ${slug}: selection passed but the audit rejects it (${second.reason}) — skipping`);
+      remember(`audit: ${second.reason}`);
       continue;
     }
     if (second.verdict === 'UNKNOWN') {
@@ -370,6 +381,7 @@ for (const f of files) {
     const ident = await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName }, world);
     if (ident.verdict === 'contradicts') {
       console.log(`   ${slug}: identity rejects it (${ident.why}) — skipping`);
+      remember(`identity: ${ident.why}`);
       continue;
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
