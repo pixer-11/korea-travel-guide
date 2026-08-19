@@ -1,15 +1,5 @@
 {
   "validate-content": {
-    "TOOL-SPILL avignon-place-du-palais.md": {
-      "since": "2026-08-19",
-      "last": "2026-08-19",
-      "seen": 1
-    },
-    "STUB-BODY avignon-place-du-palais.md": {
-      "since": "2026-08-19",
-      "last": "2026-08-19",
-      "seen": 1
-    },
     "DUPLICATE taiyuan-2026-china-open-snooker.md": {
       "since": "2026-08-19",
       "last": "2026-08-19",
