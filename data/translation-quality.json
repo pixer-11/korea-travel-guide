@@ -28049,11 +28049,11 @@
   "at": "2026-08-18T08:22:55.013Z"
  },
  "zh/avignon-place-du-palais": {
-  "hash": "f84d5f2e16a3",
+  "hash": "ce3bd8701783",
   "score": 1,
   "registerBreak": false,
-  "worst": "作为一个值得单独探访的目的地，它至今仍未被大多数游客留意，所以你常常会发现",
-  "at": "2026-08-18T08:26:01.909Z"
+  "worst": "毕竟你付的是这份景观。",
+  "at": "2026-08-19T09:50:46.638Z"
  },
  "es/antalya-antalya-toy-museum": {
   "hash": "049055e44af0",
@@ -28222,5 +28222,82 @@
   "registerBreak": false,
   "worst": "清晨与傍晚时段都明显清静许多，正好落在这段周末人潮之外的开放时间里。",
   "at": "2026-08-19T08:19:49.473Z"
+ },
+ "es/abu-dhabi-louvre-abu-dhabi": {
+  "hash": "76737648c01e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es un museo concebido para defender que la creatividad humana es una sola historia continua",
+  "at": "2026-08-19T09:50:49.865Z"
+ },
+ "es/al-ain-al-ain-museum": {
+  "hash": "33f6b2a6332b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Vista con recato, como en cualquier sitio cultural de los Emiratos: cubr",
+  "at": "2026-08-19T09:50:52.399Z"
+ },
+ "es/alanya-alanya-archaeological-museum": {
+  "hash": "e5d841c84f89",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Evite el error habitual de los turistas:** recorrer el muse",
+  "at": "2026-08-19T09:50:54.886Z"
+ },
+ "ja/abu-dhabi-louvre-abu-dhabi": {
+  "hash": "063d2d7470b8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "美術館自体は宗教施設に比べれば服装に関して緩やかな雰囲気です。",
+  "at": "2026-08-19T09:50:58.133Z"
+ },
+ "ja/al-ain-al-ain-museum": {
+  "hash": "394cb5eff3e4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "通りすがりではなく実際にこの街の歴史を学ぼうとする人々の間でこの博物館が評価されているのは、まさにこの部分があるからです。",
+  "at": "2026-08-19T09:51:07.377Z"
+ },
+ "ja/alanya-alanya-archaeological-museum": {
+  "hash": "50b6ed3d5b1c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-19T09:51:10.428Z"
+ },
+ "ko/abu-dhabi-louvre-abu-dhabi": {
+  "hash": "a6820b131587",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주말 기준으로 측정한 결과 오전 10시부터 정오까지가 한결같이 가장 한산한 시간대였습니다.",
+  "at": "2026-08-19T09:51:13.331Z"
+ },
+ "ko/al-ain-al-ain-museum": {
+  "hash": "09df9219e8a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "현지인이나 재방문객들은 대체로 박물관을 본 요리가 아닌 애피타이저처럼 여기는 편입니다.",
+  "at": "2026-08-19T09:51:17.660Z"
+ },
+ "ko/alanya-alanya-archaeological-museum": {
+  "hash": "35103ac669cb",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-19T09:51:19.130Z"
+ },
+ "zh/abu-dhabi-louvre-abu-dhabi": {
+  "hash": "e1696ec268d4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "根据周末人流数据，10:00-12:00始终是最安静的时段。",
+  "at": "2026-08-19T09:52:24.901Z"
+ },
+ "zh/al-ain-al-ain-museum": {
+  "hash": "9f4e30312095",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "首次到访者最常犯的错误，就是匆匆十五分钟走马观花后便直奔堡垒——不妨在照片展区放慢脚步",
+  "at": "2026-08-19T09:51:33.153Z"
  }
 }
