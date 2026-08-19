@@ -35,6 +35,8 @@ const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const STATE = join(ROOT, 'data', 'gallery-retry.json');
 const LIMIT = Number(process.env.GALLERY_LIMIT || 0) || 40;
 const DRY = process.env.DRY === '1';
+// ONLY=slug,slug — retry just these (owner-pointed), ignoring the rest cadence.
+const ONLY = process.env.ONLY ? new Set(process.env.ONLY.split(",").map((s) => s.trim()).filter(Boolean)) : null;
 const RETRY_DAYS = 21; // a failed venue rests three weeks before its next try
 const VENUE = new Set(['restaurant', 'trendy', 'hidden-gem', 'attraction']);
 
@@ -56,13 +58,26 @@ for (const f of files) {
   if (data.draft === true || !VENUE.has(data.category)) continue;
   if (!data.heroImage?.url || (data.gallery || []).length) continue;
   if (!data.place?.name) continue; // nothing to anchor a search on
-  const last = state[f.replace(/\.md$/, '')]?.lastTried;
-  if (last && (Date.now() - Date.parse(last)) < RETRY_DAYS * 864e5) continue;
+  const slug = f.replace(/\.md$/, '');
+  if (ONLY && !ONLY.has(slug)) continue;
+  const last = state[slug]?.lastTried;
+  if (!ONLY && last && (Date.now() - Date.parse(last)) < RETRY_DAYS * 864e5) continue;
   candidates.push({ f, data });
 }
 
-// Oldest-published first: those have waited longest since their one attempt.
-candidates.sort((a, b) => String(a.data.pubDate).localeCompare(String(b.data.pubDate)));
+// Two lanes. Posts published in the last 14 days go first, newest first —
+// they sit in the home page's "latest guides" row and carry the freshness
+// traffic, and a publish-day miss (Commons 429s cluster around the 16:19
+// publish) otherwise put them behind ~300 older posts for two months
+// (owner saw the whole "latest" row at one photo, 2026-08-19). Then the
+// rest oldest-first, as before: those have waited longest since their try.
+const FRESH_MS = 14 * 864e5;
+const when = (d) => Date.parse(d.pubDate || d.date || 0) || 0;
+candidates.sort((a, b) => {
+  const fa = Date.now() - when(a.data) < FRESH_MS, fb = Date.now() - when(b.data) < FRESH_MS;
+  if (fa !== fb) return fa ? -1 : 1;
+  return fa ? when(b.data) - when(a.data) : when(a.data) - when(b.data);
+});
 
 console.log(`${candidates.length} one-photo venue post(s) eligible · trying up to ${LIMIT}${DRY ? ' (dry-run)' : ''}`);
 let tried = 0, added = 0;

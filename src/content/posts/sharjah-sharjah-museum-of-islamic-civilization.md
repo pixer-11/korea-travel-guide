@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 38
     y: 30
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sharjah_Museum_of_Islamic_Civilization_15.jpg/3840px-Sharjah_Museum_of_Islamic_Civilization_15.jpg"
+    credit: "Photo: EditQ / Wikimedia Commons (CC0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Sharjah_Museum_of_Islamic_Civilization_15.jpg"
 place:
   id: "ChIJubk2BjtaXz4RtQ94D36-B5g"
   name: "Sharjah Museum of Islamic Civilization"

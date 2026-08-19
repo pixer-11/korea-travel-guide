@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/513161622_NFXTm1cKk6H4zPxGy48_gK_sDQ0EmrjOaClICjqW0Iw.jpg"
+    credit: "Photo: Foursquare user content (佛光山佛陀紀念館 Buddha Memorial FGS)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4efd14e79adffb90ca6244af"
 place:
   id: "ChIJK3DeNq8WbjQRPFlnj_pTDKc"
   name: "Fo Guang Shan Buddha Museum"
