@@ -47,6 +47,86 @@ let USED_PLACE_IDS = new Set();
 // is what made the two Boryeong "mud" posts look identical). Passed into
 // resolveHero(), which skips any URL already in this set.
 let USED_IMAGE_URLS = new Set();
+// Posts whose in-body photo failed for a TRANSIENT reason this run (Commons
+// 429 after retries, a fetch that threw). Retried once at the end of the run
+// by retryInBodyPhotos(); a miss there is final and the weekly patrol's job.
+const INBODY_RETRY = [];
+let INBODY_PENDING = null; // set by the in-body block, claimed at write time (needs the slug)
+
+// The two in-body sources, with a reason for each empty hand.
+async function inBodyCandidates(place, target, heroUrl) {
+  const { commonsBest, tokens } = await import('./lib/commons.mjs');
+  const { venuePhotoCandidates } = await import('./lib/photo-sources.mjs');
+  const near = `${target.region}, ${target.country}`;
+  const cands = [];
+  const why = [];
+  try {
+    const wiki = await commonsBest(`${place.name} ${target.region}`, {
+      used: new Set([heroUrl]),
+      minWidth: 1200,
+      crossCheck: tokens(`${place.name} ${target.region}`),
+      minCross: 2,
+    });
+    if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
+    else why.push('commons: no match ≥1200px');
+  } catch (e) { why.push(`commons error: ${String(e.message).slice(0, 40)}`); }
+  try {
+    let n = 0;
+    for (const c of await venuePhotoCandidates({ name: place.name, lat: place.lat, lng: place.lng, near })) {
+      if (c.url && c.url !== heroUrl) { cands.push(c); n++; }
+      if (cands.length >= 4) break;
+    }
+    if (!n) why.push('venue photos: none');
+  } catch (e) { why.push(`venue photos error: ${String(e.message).slice(0, 40)}`); }
+  return { cands, why };
+}
+
+// SAME-RUN SECOND PASS for posts whose in-body photo was lost to a transient
+// source failure. The burst that caused the 429 is over by the end of the run;
+// the gate is IDENTICAL to the first attempt (commonsBest ≥1200px + venue
+// photos, vision-verified, hedged = no). A miss here is final for today and
+// becomes the weekly patrol's job. Returns how many posts gained a photo.
+async function retryInBodyPhotos() {
+  if (!INBODY_RETRY.length) return 0;
+  const { verifyGalleryImage } = await import('./lib/vision-check.mjs');
+  const { isImageAllowed } = await import('./lib/guardrails.mjs');
+  console.log(`\n🖼  in-body second pass — ${INBODY_RETRY.length} post(s) lost their photo to a transient source error; waiting 45s for the burst to pass`);
+  await new Promise((r) => setTimeout(r, 45_000));
+  let recovered = 0;
+  for (const { slug, place, target, heroUrl } of INBODY_RETRY) {
+    const { cands, why } = await inBodyCandidates(place, target, heroUrl);
+    let picked = null;
+    for (const c of cands) {
+      if (USED_IMAGE_URLS.has(c.url)) continue;
+      let v;
+      try {
+        v = await verifyGalleryImage({ url: c.url, heroUrl, name: place.name, category: target.category, region: target.region, country: target.country });
+      } catch (e) { why.push(`verify threw ${String(e.message).slice(0, 30)}`); continue; }
+      const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(v?.reason || '');
+      if (!v?.ok || hedged) { why.push(String(v?.reason || 'rejected').slice(0, 60)); continue; }
+      const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
+      if (isImageAllowed(entry)) picked = { entry, reason: v.reason };
+      break;
+    }
+    if (!picked) { console.log(`  – ${slug}: still none — ${why.join(' · ')}`); continue; }
+    // Textual splice on the `gallery: []` line assemble() wrote minutes ago.
+    const p = join(POSTS_DIR, `${slug}.md`);
+    const raw = await readFile(p, 'utf8');
+    const eol = raw.includes('\r\n') ? '\r\n' : '\n';
+    const yq = (x) => `"${String(x).replace(/"/g, '\\"')}"`;
+    const { entry } = picked;
+    const block = ['gallery:', `  - url: ${yq(entry.url)}`, `    credit: ${yq(entry.credit)}`, `    license: ${yq(entry.license)}`, `    source: ${yq(entry.source)}`].join(eol);
+    const out = raw.replace(/^gallery: \[\]\s*$/m, block);
+    if (out === raw) { console.log(`  ⚠ ${slug}: no gallery anchor — left untouched`); continue; }
+    await writeFile(p, out, 'utf8');
+    USED_IMAGE_URLS.add(entry.url);
+    recovered++;
+    console.log(`  🖼  ${slug}: recovered on second pass — ${String(picked.reason).slice(0, 70)}`);
+  }
+  console.log(`🖼  second pass: ${recovered}/${INBODY_RETRY.length} recovered`);
+  return recovered;
+}
+
 // Monotonic per-run counter so posts built in the same run get strictly
 // increasing pubDate timestamps (see assemble()). Without this, everything
 // generated on one day shared a date and "Latest stories" never reordered.
@@ -292,6 +372,7 @@ async function main() {
       done.add(target.query);
       published++;
       console.log(`  ✅  published: ${post.slug}`);
+      if (INBODY_PENDING) { INBODY_RETRY.push({ slug: post.slug, ...INBODY_PENDING }); INBODY_PENDING = null; }
     } catch (err) {
       console.log(`  ⚠️  error on "${target.query}": ${err.message.slice(0, 120)}`);
       if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
@@ -302,6 +383,7 @@ async function main() {
   }
 
   await savePublished(done);
+  const inbodyRecovered = await retryInBodyPhotos();
   // A failed Details call and a venue with no phone on file look identical in
   // the output, so they are counted apart: only the first kind is worth a retry.
   const failNote = DETAILS_FAILED
@@ -321,7 +403,8 @@ async function main() {
   const budgetNote = DETAILS_SKIPPED
     ? `\n📇 ${DETAILS_SKIPPED} post(s) published without phone/hours — the day's Places share was spent. The backfill fills these in; nothing is lost.`
     : '';
-  console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}${budgetNote}\n`);
+  const inbodyNote = INBODY_RETRY.length ? `\n🖼  in-body second pass: ${inbodyRecovered}/${INBODY_RETRY.length} post(s) recovered their photo after a transient source error.` : '';
+  console.log(`\n📦  Done. ${published} new post(s). ${done.size} target(s) completed total.${failNote}${budgetNote}${inbodyNote}\n`);
   // Machine-readable tail so the workflow can explain a zero HONESTLY. On
   // 2026-08-05 the run published nothing and the Telegram report blamed the
   // Places quota — the stock wording for any zero — when the real cause was
@@ -821,48 +904,42 @@ async function buildLivePost(target) {
   // ("probably", "plausibly") counts as a rejection — one correct hero is a
   // perfectly good outcome, and a doubtful second photo is worse than none.
   const gallery = [];
+  INBODY_PENDING = null;
   try {
-    const { commonsBest, tokens } = await import('./lib/commons.mjs');
-    const { venuePhotoCandidates } = await import('./lib/photo-sources.mjs');
     const { verifyGalleryImage } = await import('./lib/vision-check.mjs');
     const heroUrl = hero?.url;
-    const near = `${target.region}, ${target.country}`;
-    const cands = [];
-    try {
-      const wiki = await commonsBest(`${place.name} ${target.region}`, {
-        used: new Set([heroUrl]),
-        minWidth: 1200,
-        crossCheck: tokens(`${place.name} ${target.region}`),
-        minCross: 2,
-      });
-      if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
-    } catch {}
-    try {
-      for (const c of await venuePhotoCandidates({
-        name: place.name, lat: place.lat, lng: place.lng, near,
-      })) {
-        if (c.url && c.url !== heroUrl) cands.push(c);
-        if (cands.length >= 4) break;
-      }
-    } catch {}
+    // Every miss says WHY. This block used to swallow all three failure
+    // modes (source error, no candidate, vision reject) in silence, so a
+    // publish-time 429 from Commons and "there is genuinely no second photo"
+    // were indistinguishable in the log — and the weekly patrol was the only
+    // thing that ever found out the photo existed (owner, 2026-08-19).
+    const { cands, why } = await inBodyCandidates(place, target, heroUrl);
     for (const c of cands) {
-      if (USED_IMAGE_URLS.has(c.url)) continue;
+      if (USED_IMAGE_URLS.has(c.url)) { why.push(`${c.license || 'cand'}: already used on another post`); continue; }
       let v;
       try {
         v = await verifyGalleryImage({
           url: c.url, heroUrl, name: place.name,
           category: target.category, region: target.region, country: target.country,
         });
-      } catch { continue; }
+      } catch (e) { why.push(`${c.license || 'cand'}: verify threw ${String(e.message).slice(0, 30)}`); continue; }
       const hedged = /probabl|plausib|likely|appears to|could be|maybe|possibly/i.test(v?.reason || '');
-      if (!v?.ok || hedged) continue;
+      if (!v?.ok || hedged) { why.push(`${c.license || 'cand'}: ${hedged ? 'hedged — ' : ''}${String(v?.reason || 'rejected').slice(0, 60)}`); continue; }
       const entry = { url: c.url, credit: c.credit, license: c.license, source: c.source };
       if (isImageAllowed(entry)) {
         gallery.push(entry);
         USED_IMAGE_URLS.add(c.url);
         console.log(`  \u{1F5BC}  in-body photo: ${v.reason}`);
-      }
+      } else why.push(`${c.license || 'cand'}: blocked by guardrails`);
       break;
+    }
+    if (!gallery.length) {
+      // Transient source trouble (429/5xx after retries, a fetch that threw)
+      // is a different fact from "no photo exists": the first earns a second
+      // pass at the END of this run, after the burst has passed.
+      const transient = why.some((w) => /\b(429|50[234])\b|error|threw|unusable/i.test(w));
+      console.log(`  \u{1F5BC}  in-body photo: none${transient ? ' (transient)' : ''} — ${why.join(' · ') || 'no candidates'}`);
+      if (transient) INBODY_PENDING = { place, target, heroUrl };
     }
   } catch (e) {
     console.log(`  in-body photo skipped: ${e.message.slice(0, 60)}`);

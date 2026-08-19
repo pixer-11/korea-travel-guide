@@ -12,6 +12,7 @@
 // ─────────────────────────────────────────────────────────────
 import Anthropic from '@anthropic-ai/sdk';
 import sharp from 'sharp';
+import { politeFetch } from './polite-fetch.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.VISION_MODEL || 'claude-sonnet-5';
@@ -20,7 +21,10 @@ const MODEL = process.env.VISION_MODEL || 'claude-sonnet-5';
 // originals) — download ourselves with a proper UA and send a ≤1024px JPEG.
 async function fetchAsBase64(url) {
   const abs = url.startsWith('/') ? `https://wanderatlasguides.com${url}` : url;
-  const res = await fetch(abs, { headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' } });
+  // upload.wikimedia.org throttles publish-time bursts with 429; one such
+  // answer used to fail the candidate outright ("candidate unusable"), which
+  // is how a correct photo became a missing photo. Retry the transient codes.
+  const res = await politeFetch(abs, { headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' }, tries: 3, baseMs: 2500 });
   if (!res.ok) throw new Error(`image fetch ${res.status}`);
   const buf = Buffer.from(await res.arrayBuffer());
   return (await sharp(buf).resize(1024, 1024, { fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 80 }).toBuffer()).toString('base64');

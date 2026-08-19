@@ -4,8 +4,13 @@
 // photos OF Gyeongbokgung — not a random palace. URLs on upload.wikimedia.org
 // are content-addressed and permanent, so they're safe to hotlink from a static
 // site. CC-BY/BY-SA require attribution, which we render under the image.
+import { politeFetch } from './polite-fetch.mjs';
+
 const UA =
   'WanderAtlas/1.0 (https://wanderatlasguides.com; contact via site)';
+// Commons throttles bursts with 429; a throttle window must not read as "no
+// photo" (it did — see polite-fetch.mjs). Three tries, short backoff.
+const cfetch = (url) => politeFetch(url, { headers: { 'User-Agent': UA }, tries: 3, baseMs: 2500 });
 
 const stripHtml = (s = '') =>
   String(s).replace(/<[^>]+>/g, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
@@ -218,7 +223,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
       '&prop=imageinfo|coordinates&coprop=type&colimit=1' +
       '&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';
     try {
-      const r = await fetch(url, { headers: { 'User-Agent': UA } });
+      const r = await cfetch(url);
       if (!r.ok) return null;
       return (await r.json().catch(() => null))?.query?.pages ?? null;
     } catch { return null; }
@@ -329,7 +334,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
     '&prop=pageimages|pageprops|coordinates&piprop=name&ppprop=disambiguation';
   let page;
   try {
-    const res = await fetch(wikiUrl, { headers: { 'User-Agent': UA } });
+    const res = await cfetch(wikiUrl);
     if (!res.ok) return null;
     page = Object.values((await res.json())?.query?.pages || {})[0];
   } catch {
@@ -360,7 +365,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
     '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=1600';
   let fp;
   try {
-    const res = await fetch(fileUrl, { headers: { 'User-Agent': UA } });
+    const res = await cfetch(fileUrl);
     if (!res.ok) return null;
     fp = Object.values((await res.json())?.query?.pages || {})[0];
   } catch {
