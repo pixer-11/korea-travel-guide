@@ -72,67 +72,57 @@ place:
 tags:
   - avignon
   - hidden gem
-quickAnswer: |-
-  Place du Palais is the vast stone square in front of the Palais des Papes, and it's open around the clock with no ticket needed just to stand in it. Go early morning or after the tour buses clear out — weekends stay calmer any time from 7am to 11pm, while the crush of foot traffic builds between 9am and 8pm. Give it 20–30 minutes on its own, more if you linger for the light on the façade at dusk.</quickAnswer>
-  <parameter name="body">You come up a narrow side street from the old town, past shuttered stone townhouses, and the space suddenly opens wide. The Palais des Papes fills the far end of it — a sheer cliff of pale limestone, turrets stacked on turrets, so big it makes everything else in the square look like a model.
-
-  That square is Place du Palais, and most visitors treat it as a five-minute pass-through on the way to buying a palace ticket. It rewards more than that.
-
-  ## Why this square, not just the palace
-
-  The Palais des Papes gets the tickets and the queues. The square in front of it gets almost none of the attention, despite being the best place to actually see the building whole.
-
-  Stand back near the Hôtel des Monnaies and you get the full nine-story façade in one sightline — impossible once you're inside. The stone changes color through the day, honey-gold at midday, deep amber as the sun drops behind the ramparts.
-
-  ## What's actually around the square
-
-  It's bigger than a single monument. Give yourself time to notice the pieces around the edges.
-
-  - **Palais des Papes** — the fortified papal palace, dominating the north side
-  - **Avignon Cathedral (Notre-Dame des Doms)** — just uphill, with its gilded Madonna statue visible from the square
-  - **Hôtel des Monnaies** — the ornate 17th-century former mint, now a music conservatory, directly opposite the palace
-  - **Rocher des Doms park** — a short climb up from the square's edge, with views over the Rhône
-
-  Street performers and pop-up markets use the open pavement seasonally, especially in July during the Avignon Festival, when the square doubles as a stage backdrop.
-
-  ## Getting there
-
-  Avignon's old town is compact and walkable, and Place du Palais sits near its northern edge. From Avignon Centre train station, it's about a 15-20 minute walk straight up Rue de la République, the main pedestrian spine of the city.
-
-  If you're driving or arriving by TGV at Avignon TGV station, a shuttle bus or taxi into the center takes roughly 15 minutes. Parking near the square is limited; the Parking des Halles or Parking de l'Horloge are the closest paid options.
-
-  ## When to go
-
-  The square is open 24 hours, every day — there's no gate, no ticket, no closing time for the plaza itself. That means you can see it lit up at night, when floodlights turn the palace façade a warm gold and the crowds thin to almost nothing.
-
-  Weekends see the heaviest foot traffic between 9am and 8pm, mostly tour groups heading to or from the palace entrance. If you're visiting on a Saturday or Sunday, the calmer stretch runs from 7am to 11pm at night — early morning light or a late evening walk both work well.
-
-  ## How to visit like a local
-
-  Skip the exact opening rush of the palace ticket office and just walk the square first — it costs nothing and needs no booking. There's no counter, no queue, no app; you simply walk in.
-
-  Locals crossing the square rarely stop to photograph the palace they've seen a thousand times, so if you want an uncluttered shot, aim for early morning before the tour groups arrive.
-
-  Cafés ringing the square take cards as readily as cash, but a coffee here runs pricier than a few streets back in town — walk a block toward Rue des Marchands for better value.
-
-  The mistake most first-time visitors make is treating this as pure transit space between train station and ticket line. Sit on the low wall near the fountain, look up, and give it a few unhurried minutes — that's the whole point of the place. It's still under most visitors' radar as a destination in its own right, so you'll often find that stretch of pavement far quieter than the palace queue beside it.
-
-  Evenings during the Avignon Festival (July) bring a different energy, with outdoor performances and lighting installations using the palace wall as a screen. Outside festival season, the square returns to something closer to its everyday quiet — locals cutting across it on their way somewhere else entirely.
+quickAnswer: Place du Palais is the vast stone square at the foot of the Palais des Papes in Avignon — free to visit any time, best seen in the early morning or after dinner when the day-trip coaches have gone and the floodlit facade has the square to itself. Give it 20–30 minutes on its own, longer if you linger at a café table facing the palace.
 faq:
-  - q: Do I need a ticket to visit Place du Palais?
-    a: No — the square itself is free and open 24 hours daily. You only need a ticket to enter the Palais des Papes building.
-  - q: When is the quietest time to visit?
-    a: On weekends, the square stays calm anytime between 7am and 11pm. The busiest window is 9am to 8pm on weekends, so aim for early morning or evening if you want fewer crowds.
+  - q: Is there an entrance fee for Place du Palais?
+    a: No — it's an open public square with no ticket or gate. You only pay if you go inside the Palais des Papes, the cathedral treasury, or the Petit Palais museum.
   - q: How long should I spend at the square?
-    a: 20-30 minutes covers a walk around the perimeter and the main viewpoints. Add more time if you want to sit, watch the light change, or catch a street performance.
+    a: 20–30 minutes to walk it, take photos, and look at all three buildings. Add extra time if you sit at a café or plan to queue for the palace itself.
+  - q: What's the best time to avoid crowds?
+    a: Early morning before the palace opens, or after dinner once the palace facade is floodlit — midday is when tour groups and ticket queues peak.
   - q: How do I get to Place du Palais from the train station?
-    a: From Avignon Centre station it's about a 15-20 minute walk up Rue de la République. From Avignon TGV station, take a shuttle or taxi into the center, roughly 15 minutes.
-  - q: What else is nearby worth seeing?
-    a: Avignon Cathedral sits just uphill, the Hôtel des Monnaies faces the palace across the square, and Rocher des Doms park is a short climb away with views over the Rhône.
+    a: From Avignon Centre station it's a flat 15-minute walk up Rue de la République through Place de l'Horloge. From Avignon TGV station, take the shuttle bus or a taxi into the walled centre first.
+  - q: What else is nearby?
+    a: Place de l'Horloge with its cafés and carousel is a five-minute walk away, and the Pont Saint-Bénézet (Pont d'Avignon) and river ramparts are just below the palace on the Rhône side.
 aiGenerated: true
-heldReason: content
 ---
 
-> **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
+You come up Rue de la Peyrolerie or Rue Peyrollerie and the street just opens. One moment you're between narrow honey-stone buildings, the next the Palais des Papes fills the whole sky in front of you. That's Place du Palais — not a monument itself, but the stage the monuments stand on.
 
+The square is enormous by old-town standards, a flat expanse of pale stone ringed by the papal palace, the Petit Palais museum, and the Romanesque bulk of Avignon Cathedral with its gilded Virgin glinting on top. In summer the light bounces hard off the limestone by midday; go early and it's soft and low, raking across the palace's turrets and buttresses.
 
+## Why this square matters
+
+This isn't a leftover gap between buildings — it's the reason Avignon looks the way it does. When the papacy relocated here in the 14th century, this plaza became the ceremonial front yard of Christendom's other capital.
+
+Processions, coronations, and crowds gathered exactly where you're standing. The scale of the square only makes sense once you look up at the fortress-palace it was built to serve.
+
+## What's actually here
+
+Three landmarks anchor the space, each worth a slow look before you move on:
+
+- **Palais des Papes** — the largest Gothic palace in Europe, its facade a wall of towers and arrow-slit windows
+- **Avignon Cathedral (Notre-Dame des Doms)** — 12th-century, with a 19th-century gilded statue of the Virgin Mary crowning its tower
+- **Petit Palais** — a former archbishops' residence, now a museum of Italian Renaissance paintings
+
+The square itself is free and open around the clock, since it's a public plaza rather than a ticketed site. The buildings around it keep their own hours and admission fees, so check those separately if you plan to go inside the palace.
+
+## Getting there
+
+Avignon's old town is walled and largely pedestrian, so you're arriving on foot regardless of how you got into the city. From Avignon Centre train station, it's about a 15-minute walk straight up Rue de la République, through Place de l'Horloge, and out the far side onto the square.
+
+If you're coming from Avignon TGV station outside the walls, hop the shuttle bus or a short taxi ride into the centre first. Parking near the old town is limited and largely restricted to residents, so most visitors leave the car outside the ramparts and walk in.
+
+## When to go
+
+The square has no opening hours to worry about, which means you can shape your visit around the crowds instead. Midday brings the heaviest footfall — tour groups clustering for palace tickets and photos in front of the facade.
+
+Early morning, before the ticket booths open, the square belongs mostly to locals cutting through on their way to work. After dinner is the other sweet spot: the palace gets floodlit at night, the stone glows amber, and the cafés along the square's edge fill with a slower, evening crowd.
+
+## How to visit like a local
+
+Skip the midday crush and come at first light or after 9pm instead — the square empties out and the palace facade photographs far better without a hundred people in the frame. There's no queue system for the square itself since it's open public space; only the Palais des Papes ticket line requires patience.
+
+If you want a coffee facing the palace, expect café prices, not old-town-backstreet prices — you're paying for the view. Cash and card are both accepted almost everywhere in central Avignon.
+
+The etiquette here is simple: this is a working public square with a cathedral still holding services, so keep noise down near the church entrance and be mindful during any wedding or Mass. Most visitors make the mistake of beelining straight for the palace ticket office and never turning around — pause and take in the cathedral and Petit Palais too, since all three sit on the same stone stage.

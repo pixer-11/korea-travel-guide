@@ -395,18 +395,26 @@ for (const f of files) {
       else delete data.gallery;
     }
     const wasDraft = data.draft === true;
-    if (wasDraft) delete data.draft;
+    // A photo fix lifts ONLY the photo hold. The publish gate writes
+    // `heldReason: hours|content` on what it holds; a held post with a reason
+    // is not a photo quarantine, whatever its hero looked like, and stays a
+    // draft until its own patrol clears it. This patrol used to treat every
+    // draft it could re-photo as a photo quarantine: 2026-07-31 it republished
+    // two hours-held posts (patched below with an hours re-check), and
+    // 2026-08-18 it republished avignon-place-du-palais, held for a tool-output
+    // spill with an empty article — which the hours re-check could not see —
+    // live for a day as a blank page with a broken answer box.
+    const heldByGate = wasDraft && typeof data.heldReason === 'string' && data.heldReason.length > 0;
+    if (wasDraft && !heldByGate) delete data.draft;
     let out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
-    // draft:true carries no reason, and this patrol used to treat every draft
-    // it could re-photo as a PHOTO quarantine — on 2026-07-31 it republished
-    // two posts the publish gate had held for hours contradictions. A fixed
-    // photo lifts only the photo hold: re-run the other gate's check and keep
-    // the draft when the prose still fights the fact box.
-    const otherHolds = wasDraft ? hoursProblems(out) : [];
+    // Drafts that carry no reason (older holds): re-run the hours check and
+    // keep the draft when the prose still fights the fact box.
+    const otherHolds = wasDraft && !heldByGate ? hoursProblems(out) : [];
     if (otherHolds.length) {
       data.draft = true;
       out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
     }
+    if (heldByGate) console.log(`   ${slug}: hero replaced, but the post stays held (heldReason: ${data.heldReason})`);
     await writeFile(path, out, 'utf8');
     used.add(cand.url);
     fixed++;
