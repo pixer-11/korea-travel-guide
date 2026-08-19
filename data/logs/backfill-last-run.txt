@@ -26,4 +26,4 @@ Priority: 96 itinerary stop(s) queued first
   – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
   – tokyo-tokyo-ramen-street.md: nothing new
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 70, no-new-data 25, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1117 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 70, no-new-data 25, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1153 (APPLIED).
