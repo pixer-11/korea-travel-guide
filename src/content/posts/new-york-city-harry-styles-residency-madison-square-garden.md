@@ -59,6 +59,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Harry-Styles-en-Barcelona,-Love-On-Tour.jpg
+  focus:
+    x: 40
+    'y': 40
 eventOrganizer:
   name: Live Nation
   url: 'https://www.livenationentertainment.com'
