@@ -27,7 +27,7 @@ faq:
   - q: Are there other bars nearby if I want to make a night of it?
     a: Yes — Kuningan and neighboring SCBD have a dense concentration of bars and restaurants, so Vagabond pairs easily with dinner or other stops in the same district.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why Vagabond, why now
