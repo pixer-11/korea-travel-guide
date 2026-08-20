@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: restaurant
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: Keppel South Central sits close to the Harbourfront and Keppel Bay area, within easy reach of Sentosa and Harbourfront's malls and waterfront if you want to combine the meal with a broader outing.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/2210405_ETmLJVB46I9mCMDRFqAU36gD1ed0RguoKSgd9I-r5rY.jpg
+  credit: 'Photo: Foursquare user content (Hachi Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/4be39bb6b02ec9b6c01a50c0
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why Hachi is worth knowing about

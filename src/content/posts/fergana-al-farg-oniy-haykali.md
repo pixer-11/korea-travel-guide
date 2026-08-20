@@ -5,7 +5,6 @@ country: Uzbekistan
 region: Fergana
 category: attraction
 pubDate: '2026-08-16T07:57:00.348Z'
-gallery: []
 place:
   id: ChIJr00rDdeHvDgR3utheI1wfEU
   name: Al-Farg'oniy haykali
@@ -32,8 +31,15 @@ faq:
   - q: Is this a well-known tourist attraction?
     a: No — it's genuinely under-the-radar, more meaningful to history enthusiasts tracing al-Farghani's legacy than a mainstream stop. Expect to have the square largely to yourself.
 aiGenerated: true
-draft: true
 photoless: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ahmad_Al-Farg%27oniy_haykali.jpg/3840px-Ahmad_Al-Farg%27oniy_haykali.jpg
+  credit: 'Photo: Fau33z / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ahmad_Al-Farg%27oniy_haykali.jpg
+  focus:
+    x: 51
+    'y': 45
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

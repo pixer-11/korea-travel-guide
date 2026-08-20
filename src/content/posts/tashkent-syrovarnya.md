@@ -5,7 +5,6 @@ country: Uzbekistan
 region: Tashkent
 category: restaurant
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - tashkent
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I confirm hours before visiting?
     a: Yes — as a newly trending restaurant, hours and reservation policies can shift, so confirm directly with the restaurant before heading over.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/68929827_2pRKXJNmGI78dKhf19xILL_SH3AwQ46qxYQDOKRm0hA.jpg
+  credit: 'Photo: Foursquare user content (Syrovarnya (Сыроварня))'
+  license: foursquare
+  source: https://foursquare.com/v/624182de83275266529f5bb8
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Why Syrovarnya stands out

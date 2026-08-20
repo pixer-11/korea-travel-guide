@@ -5,7 +5,6 @@ country: China
 region: Shanghai
 category: restaurant
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - shanghai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I plan for the meal?
     a: Budget at least two to two and a half hours for the full set menu, given the course-by-course pacing typical of a chef's table format.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/5046951_5XGOKu7E0_ibihBbwv0HC-n9HRxKsxO78iGSj-Hs0v0.jpg
+  credit: 'Photo: Foursquare user content (Tai''an Table (泰安门))'
+  license: foursquare
+  source: https://foursquare.com/v/589f2b55fb9d89592363cf94
+  focus:
+    x: 60
+    'y': 65
 ---
 
 ## Why Ignis Table matters right now

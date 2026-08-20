@@ -5,7 +5,6 @@ country: France
 region: Paris
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - paris
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I visit all three award-winning bars in one night?
     a: You can, given their proximity, but pacing yourself and giving Danico its own unhurried visit is the better move rather than rushing through a triple crawl.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/79897552_zPnBp7PcsUfoOBYUD0jaNJcjy7kM6b_P5uvGUAFZPqU.jpg
+  credit: 'Photo: Foursquare user content (Danico)'
+  license: foursquare
+  source: https://foursquare.com/v/575c8192498e3c8b2f8487cf
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why Danico matters right now

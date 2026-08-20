@@ -5,7 +5,6 @@ country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - seoul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is the menu and pricing confirmed?
     a: Not yet in detail — as a newly opened spot, menu and prices may still be settling. Check current offerings directly before visiting rather than relying on older listings.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/9493514_Pvchc_jgqjhfsPDBeEA2SpnjanHxpnqjRk7F7dzmiXk.jpg
+  credit: 'Photo: Foursquare user content (Kurarie (쿠라리에))'
+  license: foursquare
+  source: https://foursquare.com/v/69b42e03a7908c6bc824c5a7
+  focus:
+    x: 40
+    'y': 45
 ---
 
 ## Why Kurarie stands out

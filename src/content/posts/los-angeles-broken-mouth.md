@@ -5,7 +5,6 @@ country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - los angeles
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is Broken Mouth easy to get to without a car?
     a: Los Angeles's trendiest food halls tend to sit in walkable, transit-served neighborhoods, so rideshare or public transit are likely options — confirm the exact address and best route before heading out.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/21785_hU0eNhH7N8X86dXRsZKG9L6ypU8nluN8B11kTPOWQuI.jpg
+  credit: 'Photo: Foursquare user content (BROKEN MOUTH | Lee''s Homestyle)'
+  license: foursquare
+  source: https://foursquare.com/v/59dcf53b72475045640aaee6
+  focus:
+    x: 50
+    'y': 60
 ---
 
 ## Why Broken Mouth is worth the detour

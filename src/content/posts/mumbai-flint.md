@@ -5,7 +5,6 @@ country: India
 region: Mumbai
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - mumbai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get there without a car?
     a: Churchgate railway station is the closest, a short auto or cab ride from NCPA's gates; Mumbai Central is the nearest long-distance rail hub.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/20416737_YaUzzrUjbgoLpHsi10G8Lp3x2DUpyeiqXYZAg_QkwOM.jpg
+  credit: 'Photo: Foursquare user content (Flint)'
+  license: foursquare
+  source: https://foursquare.com/v/69aaf3e96c661f51f96a7a2f
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Why Flint stands out

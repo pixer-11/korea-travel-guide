@@ -5,7 +5,6 @@ country: Thailand
 region: Bangkok
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - bangkok
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Song Wat Road itself is worth a walk for its shophouse cafés and river glimpses, and Yaowarat's night food stalls are a short walk away for later in the evening.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/496046259_AcdFNcQzpq1uKOdqxKP9CZQiuuKccZHPeULolkBeJ2A.jpg
+  credit: 'Photo: Foursquare user content (Roast8ry)'
+  license: foursquare
+  source: https://foursquare.com/v/69804136e6a2e93e1017843e
+  focus:
+    x: 50
+    'y': 35
 ---
 
 ## Why Roast8ry is worth the detour

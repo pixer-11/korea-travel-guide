@@ -5,7 +5,6 @@ country: United States
 region: Chicago
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - chicago
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get to Gingie without a car?
     a: Take the CTA Red Line to Grand Avenue or the Brown/Purple Line to Chicago, both a short walk from River North's restaurant core; rideshare is also common in the area.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/793573_DJe0gFG4ZabbaMtQQvuvEXaMulCER-nelb4LtlIWQcE.jpg
+  credit: 'Photo: Foursquare user content (Gingie)'
+  license: foursquare
+  source: https://foursquare.com/v/69bb271ef2a0e66810847448
+  focus:
+    x: 50
+    'y': 65
 ---
 
 ## Why Gingie is worth the trip

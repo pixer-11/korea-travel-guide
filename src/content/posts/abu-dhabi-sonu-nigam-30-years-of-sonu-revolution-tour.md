@@ -13,14 +13,6 @@ pubDate: '2026-08-19'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-21'
 eventRecurring: false
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Sonu_Nigam121.jpg'
-  credit: 'Photo: Bollywood Hungama / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Sonu_Nigam121.jpg'
-  focus:
-    x: 45
-    'y': 35
 gallery: []
 tags:
   - abu dhabi
@@ -58,6 +50,7 @@ faq:
       Marina Circuit, and it's a short drive from Sheikh Zayed Grand Mosque and
       the Corniche if you stay a few extra days.
 aiGenerated: true
+draft: false
 ---
 
 ## Why this show matters

@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: hidden-gem
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's the best time to avoid crowds?
     a: Weekday mornings or early afternoons are generally quieter, since Kadıköy as a whole draws heavy weekend crowds from across the city.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/14255792_NzQz5_xEQPOpUwI8BVvfdaV1k3JjLNFYDxmW9uz9MXo.jpg
+  credit: 'Photo: Foursquare user content (Grön CoffeeCo)'
+  license: foursquare
+  source: https://foursquare.com/v/5c3a0fe63e6741002c4a6c38
+  focus:
+    x: 55
+    'y': 40
 ---
 
 ## Why GRŌN is worth the detour

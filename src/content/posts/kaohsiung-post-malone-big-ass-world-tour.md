@@ -1,8 +1,6 @@
 ---
 title: 'Post Malone – Big Ass World Tour: Dates, Tickets & Venue (Kaohsiung)'
-description: >-
-  Post Malone – Big Ass World Tour in Kaohsiung, Taiwan — September 19, 2026.
-  What it is, when and where, and how to plan around it.
+description: Post Malone – Big Ass World Tour in Kaohsiung, Taiwan — September 19, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
 region: Kaohsiung
 category: event
@@ -11,52 +9,28 @@ eventStartDate: '2026-09-19'
 eventEndDate: '2026-09-19'
 eventRecurring: false
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/1/12/Post_Malone_at_the_2019_American_Music_Awards.png
-  credit: 'Photo: Cosmopolitan UK / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Post_Malone_in_Chicago_2020.jpg/3840px-Post_Malone_in_Chicago_2020.jpg
+  credit: 'Photo: Adam Bielawski / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Post_Malone_at_the_2019_American_Music_Awards.png
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_in_Chicago_2020.jpg
   focus:
     x: 40
-    'y': 35
-gallery: []
+    'y': 30
 tags:
   - kaohsiung
   - event
-quickAnswer: >-
-  Post Malone plays Kaohsiung National Stadium on September 19, 2026, as part of
-  the Asia leg of his Big Ass World Tour. Buy tickets only through the official
-  promoter/artist channels once they're announced, and confirm exact gate times,
-  seating map, and pricing closer to the date. Kaohsiung's iconic solar-powered
-  stadium in Zuoying District is the venue — plan your trip around a single big
-  show night, not a festival weekend.
+quickAnswer: Post Malone plays Kaohsiung National Stadium on September 19, 2026, as part of the Asia leg of his Big Ass World Tour. Buy tickets only through the official promoter/artist channels once they're announced, and confirm exact gate times, seating map, and pricing closer to the date. Kaohsiung's iconic solar-powered stadium in Zuoying District is the venue — plan your trip around a single big show night, not a festival weekend.
 faq:
   - q: When exactly is Post Malone playing Kaohsiung?
-    a: >-
-      September 19, 2026, at Kaohsiung National Stadium, as part of the Asia leg
-      of the Big Ass World Tour. Confirm this hasn't shifted by checking the
-      official tour announcement closer to the date.
+    a: September 19, 2026, at Kaohsiung National Stadium, as part of the Asia leg of the Big Ass World Tour. Confirm this hasn't shifted by checking the official tour announcement closer to the date.
   - q: Where can I buy tickets?
-    a: >-
-      Tickets for Taiwan stadium shows are usually sold through official local
-      ticketing partners once released. Buy only from authorized sellers and
-      avoid unverified resale listings, especially for a high-demand show like
-      this.
+    a: Tickets for Taiwan stadium shows are usually sold through official local ticketing partners once released. Buy only from authorized sellers and avoid unverified resale listings, especially for a high-demand show like this.
   - q: How do I get to Kaohsiung National Stadium?
-    a: >-
-      Take the Kaohsiung MRT Red Line to Zuoying/Kaohsiung Main Station, which
-      is within walking distance of the stadium. If you're arriving by train
-      from Taipei, Zuoying is also the city's High Speed Rail stop.
+    a: Take the Kaohsiung MRT Red Line to Zuoying/Kaohsiung Main Station, which is within walking distance of the stadium. If you're arriving by train from Taipei, Zuoying is also the city's High Speed Rail stop.
   - q: Is the venue indoors or outdoors?
-    a: >-
-      Kaohsiung National Stadium is open-air with a partial solar-panel roof, so
-      pack for possible September rain and warm, humid evening weather.
+    a: Kaohsiung National Stadium is open-air with a partial solar-panel roof, so pack for possible September rain and warm, humid evening weather.
   - q: How long should I plan for the night?
-    a: >-
-      Budget the full evening — arrive well before doors for security and entry,
-      and allow extra time after the show for MRT crowds funneling out of
-      Zuoying station.
+    a: Budget the full evening — arrive well before doors for security and entry, and allow extra time after the show for MRT crowds funneling out of Zuoying station.
 aiGenerated: true
 ---
 

@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: restaurant
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,6 +21,14 @@ faq:
   - q: What's nearby if I want to make an evening of it?
     a: Sheung Wan's Tai Ping Shan Street has small galleries and cafés, and the historic Man Mo Temple is a short walk away — both good ways to bookend the meal.
 aiGenerated: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/xJ5FU3Z-_Y8XOhiTLbxPDFAlV8U_JuMoq7ZuBCqsE68.jpg
+  credit: 'Photo: Foursquare user content (Tate Dining Room & Bar)'
+  license: foursquare
+  source: https://foursquare.com/v/4fddc9d2e4b044e822e87647
+  focus:
+    x: 40
+    'y': 45
 draft: true
 ---
 
