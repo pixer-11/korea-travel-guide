@@ -16,6 +16,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg
+  focus:
+    x: 50
+    y: 25
 gallery: []
 tags:
   - venice

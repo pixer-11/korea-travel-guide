@@ -59,6 +59,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Comic_Market_92_Day_3-_Cosplayers_(38738505232).jpg
+  focus:
+    x: 45
+    y: 35
 eventOrganizer:
   name: Comic Market Preparatory Committee
   url: 'https://www.comiket.co.jp'

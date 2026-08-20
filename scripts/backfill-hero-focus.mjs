@@ -78,6 +78,11 @@ for (const f of files) {
   const url = String(d.heroImage.url).trim();
   const slug = f.replace(/\.md$/, '');
   let rec = state[url];
+  // A cache hit costs nothing — it must not eat the run's work budget.
+  // With 600+ already-measured heroes ahead of them alphabetically, the 96
+  // still-unmeasured ones sat forever past the LIMIT horizon: FOCUS_LIMIT=200
+  // returned measured=0 having 'done' 200 free lookups (2026-08-20).
+  const cached = Boolean(rec);
   try {
     if (!rec) {
       const buf = await fetchHero(url);
@@ -97,7 +102,7 @@ for (const f of files) {
       state[url] = rec;
       if (!url.startsWith('/')) await sleep(300);
     }
-    done++;
+    if (!cached) done++;
     if (rec.focus && !DRY) {
       // Textual splice: add "  focus:" under heroImage without re-serialising
       // the frontmatter (gray-matter round-trips reorder keys).

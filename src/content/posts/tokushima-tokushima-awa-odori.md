@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Rosino / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - tokushima

@@ -57,6 +57,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
+  focus:
+    x: 50
+    y: 35
 eventOrganizer:
   name: Live Nation Taiwan
   url: 'https://www.livenation.com.tw'

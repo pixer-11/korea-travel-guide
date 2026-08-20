@@ -16,6 +16,9 @@ heroImage:
   credit: 'Photo: Elenadebiasi / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Verona_-_Arena_di_Verona.jpeg'
+  focus:
+    x: 25
+    y: 25
 gallery: []
 tags:
   - verona

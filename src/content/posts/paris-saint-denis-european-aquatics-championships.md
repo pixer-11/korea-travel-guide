@@ -18,6 +18,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:European_Aquatics_Championships_(43146004564).jpg
+  focus:
+    x: 50
+    y: 60
 gallery: []
 tags:
   - paris

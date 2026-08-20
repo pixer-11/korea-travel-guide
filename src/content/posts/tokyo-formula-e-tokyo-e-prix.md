@@ -17,6 +17,9 @@ heroImage:
   license: wikimedia
   source: >-
     https://commons.wikimedia.org/wiki/File:Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
+  focus:
+    x: 45
+    y: 40
 gallery: []
 tags:
   - tokyo

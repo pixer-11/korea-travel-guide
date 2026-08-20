@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: ElHeineken / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Sumo_Wrestling_-_Tokyo_(cropped).jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - tokyo
   - event

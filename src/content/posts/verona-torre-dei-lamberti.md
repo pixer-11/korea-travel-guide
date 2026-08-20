@@ -10,6 +10,9 @@ heroImage:
   credit: "Photo: Mauzzan / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
   source: "https://commons.wikimedia.org/wiki/File:Torre_dei_Lamberti-Verona.jpg"
+  focus:
+    x: 50
+    y: 25
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Piazza_dei_Signori_%28Verona%29.jpg/3840px-Piazza_dei_Signori_%28Verona%29.jpg"
     credit: "Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)"

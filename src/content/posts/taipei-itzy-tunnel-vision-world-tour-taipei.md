@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: 티비텐 TV10 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Itzy_241023.jpg'
+  focus:
+    x: 50
+    y: 35
 gallery: []
 tags:
   - taipei
