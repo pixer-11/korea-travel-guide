@@ -106,7 +106,15 @@ const mentionsAsPlace = (segments, needle) => {
   const re = new RegExp(String.raw`(^|[^\p{L}])${esc}(?=$|[^\p{L}])`, 'giu');
   for (const seg of segments) {
     for (const m of String(seg ?? '').matchAll(re)) {
-      if (!/^\s+\p{Lu}/u.test(seg.slice(m.index + m[0].length))) return true;
+      if (/^\s+\p{Lu}/u.test(seg.slice(m.index + m[0].length))) continue;
+      // A place NAME is capitalised in running text. The i-flag above lets the
+      // needle land on a lowercase common word too — "a mosque in the central
+      // courtyard" read as Hong Kong's Central and held a Selçuk citadel post
+      // at the publish gate (2026-08-20). The matched surface form must start
+      // with an uppercase letter to vouch for anything; an all-lowercase hit
+      // is an adjective, not a district.
+      const surface = m[0].replace(/^[^\p{L}]/u, '');
+      if (/^\p{Lu}/u.test(surface)) return true;
     }
   }
   return false;

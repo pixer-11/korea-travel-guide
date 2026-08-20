@@ -275,3 +275,19 @@ test('loadWorld: 두 나라에 같은 이름의 지역이 있으면 그 지역�
   assert.equal(w.regionCountry.get('Granada'), 'Spain');
   assert.deepEqual(w.countries, ['Spain', 'Venezuela']);
 });
+
+test('소문자 형용사 "central courtyard"는 홍콩 Central이 아니다 (셀축 성채 오탐, 08-20)', () => {
+  const world = { countries: ['Turkey', 'Hong Kong'], regions: ['Selcuk', 'Central'] };
+  const v = judgeIdentity(
+    { description: 'Walls of stone with crenellations, a mosque in the central courtyard, and ruins.', categories: ['İsa Bey Mosque'] },
+    { country: 'Turkey', region: 'Selcuk' }, world);
+  assert.notEqual(v.verdict, 'contradicts');
+});
+
+test('진짜 대문자 Central 지명은 여전히 잡는다', () => {
+  const world = { countries: ['Turkey', 'Hong Kong'], regions: ['Selcuk', 'Central'] };
+  const v = judgeIdentity(
+    { description: 'Tai Kwun compound in Central, seen from the street.', categories: [] },
+    { country: 'Turkey', region: 'Selcuk' }, world);
+  assert.equal(v.verdict, 'contradicts');
+});

@@ -48,8 +48,6 @@ faq:
   - q: "When is the best time to visit to avoid crowds and heat?"
     a: "Go right after the 9am opening. It's rarely as crowded as Ephesus, but mornings still offer cooler temperatures and softer light for the exposed walls and paths."
 aiGenerated: true
-draft: true
-heldReason: content
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
