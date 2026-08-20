@@ -65,8 +65,6 @@ faq:
   - q: "What can I see from the top?"
     a: "Panoramic views over Bukhara's old city, including the Kalyan Minaret, the Ark Fortress, and the desert horizon beyond the rooftops."
 aiGenerated: true
-draft: true
-heldReason: hours
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

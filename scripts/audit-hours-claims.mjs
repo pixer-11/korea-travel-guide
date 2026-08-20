@@ -195,6 +195,13 @@ export function hoursProblems(raw) {
     // nothing-to-fix loop every lesson in this function describes.
     stripped = stripped.replace(
       /closed\s+(?:for\s+|on\s+|to\s+the\s+public\s+)*(?:the\s+rest\s+of\s+the\s+week|(?:all\s+|every\s+)?other\s+days?|weekdays)/gi, ' ');
+    // A NEGATED closure is reassurance, not a claim: "open every day, so
+    // there's no awkward closed-Monday surprise" says the tower is OPEN on
+    // Monday, yet 'closed…Monday' matched and bukhara-bukhara-tower was held
+    // at the gate — and the fixer then found nothing to repair, the exact
+    // nothing-to-fix loop every lesson in this function describes (08-20).
+    stripped = stripped.replace(
+      new RegExp(String.raw`\b(?:no|not|never|without|isn'?t|aren'?t|won'?t\s+be)\b[^.\n]{0,40}closed[\s-]+(?:${DAY_ALT})s?\b[\s-]*\w*`, 'gi'), ' ');
     // The pairing gap must not cross a line break: in this corpus a newline is
     // a list-item or paragraph boundary, never the middle of a sentence — the
     // Lyon case paired a bullet's "Sunday" with the next paragraph's "Closed".

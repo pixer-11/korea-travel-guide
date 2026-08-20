@@ -49,8 +49,6 @@ faq:
   - q: "What else is nearby worth seeing?"
     a: "The detached Jaro Belfry directly across the plaza, century-old acacia trees, and several preserved ancestral houses reflecting Jaro's colonial-era heritage."
 aiGenerated: true
-draft: true
-heldReason: content
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

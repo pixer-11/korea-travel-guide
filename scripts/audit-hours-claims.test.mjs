@@ -122,6 +122,12 @@ const cases = [
   // 역방향: 같은 시간표에 "1pm에 오라"는 진짜 잘못된 권유는 여전히 잡혀야.
   ['TP-recommends-closed-hour (must FLAG)', post(SPLIT_DAY,
     'The quietest time to wander the courtyard is around 1pm, when the tour groups have left.'), 1],
+  // 부정된 휴무는 안심 문장 — "no awkward closed-Monday surprise" (부하라 타워, 08-20).
+  ['FP-negated-closure (should be CLEAN)', post(['Monday: 8:00 AM – 10:00 PM', 'Tuesday: 8:00 AM – 10:00 PM'],
+    "The tower is open every day, 8am to 10pm, so there's no awkward closed-Monday surprise to plan around."), 0],
+  // 역방향: 진짜 closed-Monday 주장은 여전히 잡는다.
+  ['TP-real-closed-claim (must FLAG)', post(['Monday: 8:00 AM – 10:00 PM'],
+    'Note that it is closed Monday, so plan your visit for another day.'), 1],
 ];
 
 let fail = 0;

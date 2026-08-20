@@ -295,8 +295,16 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   }
 
   // A place.name that is really a leftover search-tag dump ("x / y restaurant / z vegan /")
-  // renders in the fact box AND the schema.
-  if (p.placeName && (p.placeName.split('/').length > 2 || p.placeName.length > 90)) {
+  // renders in the fact box AND the schema. Length alone is NOT the signal:
+  // the 96-char OFFICIAL name of Iloilo's Jaro Cathedral ("… St. Elizabeth of
+  // Hungary & National Shrine of Our Lady of Candles") was held at the gate as
+  // a query dump (2026-08-20). A dump has dump STRUCTURE — slash-separated
+  // segments or search words — or is far past any real name's length.
+  if (p.placeName && (
+    p.placeName.split('/').length > 2 ||
+    p.placeName.length > 140 ||
+    (p.placeName.length > 90 && /\b(best|top \d|near me|things to do|cheap|open now|review)\b/i.test(p.placeName))
+  )) {
     issues.push(`GARBLED place.name (looks like a search-query dump): ${p.f} — "${p.placeName.slice(0, 70)}…"`);
   }
 
