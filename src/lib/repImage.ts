@@ -51,9 +51,28 @@ export function regionCoverUrl(region: string): string {
   return regionCovers[region]?.url ?? '';
 }
 
+// Measured hero dimensions (backfill-hero-focus writes them as it works).
+// A tile is a ~16:10 box; an extreme panorama crops to a smeared sliver of
+// its middle. South Korea's tile spent weeks as a fog-grey 4.5:1 panorama
+// with a photographer's watermark (owner, 2026-08-20) — a correct photo of
+// the right place that no ranking signal knew was unusable AS A TILE.
+// Demoted, not excluded: a country whose only photos are panoramas still
+// gets one. Unmeasured heroes pass — most posts have no probe yet.
+const heroDims: Record<string, { w?: number; h?: number }> = (() => {
+  try { return JSON.parse(readFileSync(new URL('../../data/hero-focus.json', import.meta.url), 'utf8')); }
+  catch { return {}; }
+})();
+const isPanorama = (url: string): boolean => {
+  const d = heroDims[url];
+  return !!(d?.w && d?.h && d.w / d.h > 2.4);
+};
+
 function pickRank(withHero: HeroPost[]): string {
-  // Stable sort by category rank — ties keep the caller's order (usually newest first).
-  withHero.sort((a, b) => (CAT_RANK[a.data.category] ?? 5) - (CAT_RANK[b.data.category] ?? 5));
+  // Stable sort by category rank — ties keep the caller's order (usually newest
+  // first). Panoramas sort after everything with a tile-friendly shape.
+  const rank = (p: HeroPost) =>
+    (CAT_RANK[p.data.category] ?? 5) + (isPanorama(p.data.heroImage?.url ?? '') ? 10 : 0);
+  withHero.sort((a, b) => rank(a) - rank(b));
   // Returns the RAW stored URL. For one day this returned tileSize(url), and
   // two callers — DestinationHub and RegionsIndex — hashed the return value to
   // derive their /wall/ thumbnail name. Hashing the transformed string produced
