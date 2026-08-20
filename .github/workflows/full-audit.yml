@@ -82,7 +82,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set -o pipefail
-          node scripts/repair-prose.mjs | tee /tmp/repair.log
+          # Cap per week. On 08-15 an uncapped run rewrote 240 posts in one
+          # night and re-queued ~960 translations behind them. With the auditor
+          # and writer now reading the same venue record the queue should be
+          # small; if it ever isn't, a cap turns a runaway bill into a page.
+          node scripts/repair-prose.mjs --limit 60 | tee /tmp/repair.log
           set +o pipefail
           fixed=$(awk -F'repaired=' '/PROSE_REPAIR_SUMMARY/ {print $2+0}' /tmp/repair.log | tail -1)
           echo "fixed=${fixed:-0}" >> "$GITHUB_OUTPUT"

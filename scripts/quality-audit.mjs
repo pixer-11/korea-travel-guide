@@ -19,6 +19,7 @@
 //   node scripts/quality-audit.mjs --apply   # write changes
 import './lib/env.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlaceById } from './lib/places.mjs';
@@ -57,6 +58,15 @@ for (const f of files) {
   if (u) used.add(u);
 }
 
+// Tried-and-unfixable memory. 15 non-Latin addresses were re-fetched EVERY
+// day for weeks — Google simply has no English address for them, so each run
+// spent 15 Details calls to learn yesterday's answer (4 straight 0-fix days
+// observed 2026-08-20). A failure is recorded and rests 30 days; a success
+// (or the venue getting fixed another way) clears its entry.
+const SKIP_FILE = 'data/quality-audit-skip.json';
+const skipLog = existsSync(SKIP_FILE) ? JSON.parse(await readFile(SKIP_FILE, 'utf8')) : {};
+const REST_DAYS = 30;
+
 let fixedAddr = 0, fixedImg = 0, scanned = 0;
 const changes = [];
 
@@ -76,6 +86,8 @@ try {
     const needImg = !SKIP_IMAGES && IMG_CATEGORIES.has(category) && hero && !hero.includes('/venue-photos/');
 
     if (!needAddr && !needImg) continue;
+    const prior = skipLog[id];
+    if (prior && (Date.now() - Date.parse(prior.at)) < REST_DAYS * 864e5) continue;
     if (calls >= EFFECTIVE_PLACES_LIMIT) { console.log(`⏹ Places cap reached (${EFFECTIVE_PLACES_LIMIT}) — leaving the rest of the daily quota for venue-photos.`); break; }
     scanned++;
     calls++;
@@ -108,6 +120,9 @@ try {
     }
 
     if (APPLY) await writeFile(p, src, 'utf8');
+    // Nothing changed for this venue: remember, so tomorrow's run skips it.
+    if (!changes.some((c) => c.endsWith(f))) skipLog[id] = { at: new Date().toISOString(), f };
+    else delete skipLog[id];
   }
 } catch (e) {
   if (/429/.test(e.message)) {
@@ -117,7 +132,8 @@ try {
   throw e;
 }
 
-console.log(`\nAudit: ${fixedAddr} addresses + ${fixedImg} images fixed (scanned ${scanned}) — ${APPLY ? 'APPLIED' : 'dry-run'}.`);
+if (APPLY) await writeFile(SKIP_FILE, JSON.stringify(skipLog, null, 1) + '\n', 'utf8');
+console.log(`\nAudit: ${fixedAddr} addresses + ${fixedImg} images fixed (scanned ${scanned}, ${Object.keys(skipLog).length} resting) — ${APPLY ? 'APPLIED' : 'dry-run'}.`);
 for (const c of changes) console.log('  ✓', c);
 // Report the spend to the shared ledger before exiting.
 await recordPlaces('quality', calls);

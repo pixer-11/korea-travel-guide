@@ -39,16 +39,35 @@ async function editorCheck(post) {
         `- symbol-in-prose: rating symbols like "$$"/"★"/price-level codes written into sentences\n` +
         `- template-chatter: leftover AI/template phrases ("Here is", "as an AI", meta-instructions)\n` +
         `- broken-markdown: visible markdown syntax errors, stray **, unclosed brackets, raw HTML\n` +
-        `- invented-specifics: exact PRICES, exact OPENING HOURS, or specific MENU ITEMS stated as fact WITHOUT hedging. NOTE: star ratings and review counts (e.g. "4.6 from 8,000 reviews") are VERIFIED live data — NEVER flag those.\n` +
+        `- invented-specifics: exact PRICES, exact OPENING HOURS, or specific MENU ITEMS stated as fact WITHOUT hedging AND not present in the VERIFIED DATA below. NOTE: star ratings and review counts (e.g. "4.6 from 8,000 reviews") are VERIFIED live data — NEVER flag those. Hours or price level that AGREE with the VERIFIED DATA are live facts from the venue's own record — NEVER flag those either.\n` +
         `- foreign-fragment: sentences in a language other than the article's (proper nouns/parenthetical native names are FINE)\n` +
         `- other-glaring: anything a reader would screenshot as embarrassing\n` +
         `Respond ONLY JSON: {"issues":[{"type":"...","quote":"<exact short quote>"}]} — empty array if clean. Max 5 issues.\n\n` +
+        // The writer is INSTRUCTED to state the venue's live hours and price level
+        // (writer.mjs). Without handing the auditor the same record, it flagged
+        // those very sentences as invented — 222 of the 241 findings on 08-15
+        // were this disagreement, and the repair pass then hedged live data and
+        // re-queued four translations per post. One record, one truth.
+        verifiedBlock(post) +
         `BODY:\n${body}`,
     }],
   });
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
   const m = text.match(/\{[\s\S]*\}/);
   return m ? (JSON.parse(m[0]).issues || []) : [];
+}
+
+// The venue's own record, the same one the writer wrote from. Empty when the
+// post has no place data (events, placeless guides) — then nothing is exempt.
+function verifiedBlock(post) {
+  const pl = post.data.place;
+  if (!pl) return '';
+  const lines = [];
+  if (Array.isArray(pl.openingHours) && pl.openingHours.length) lines.push(`opening hours: ${pl.openingHours.join('; ')}`);
+  if (pl.priceLevel != null) lines.push(`price level (0-4): ${pl.priceLevel}`);
+  if (pl.rating != null) lines.push(`rating: ${pl.rating} (${pl.userRatingsTotal ?? '?'} reviews)`);
+  if (!lines.length) return '';
+  return `VERIFIED DATA (live venue record — statements agreeing with this are facts, never "invented"):\n${lines.join('\n')}\n\n`;
 }
 
 async function main() {

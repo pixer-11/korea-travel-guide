@@ -99,7 +99,23 @@ for (const row of rows) {
 
   // Only act on findings whose quoted span is still present — the post may have
   // been rewritten since the audit ran.
-  const live = row.prose.filter((f) => f.quote && body.includes(f.quote));
+  let live = row.prose.filter((f) => f.quote && body.includes(f.quote));
+  // An "invented" hours/price finding whose numbers all appear in the venue's
+  // own record is the auditor disagreeing with live data, not a defect — the
+  // writer was instructed to state those (writer.mjs). Repairing them hedges
+  // facts and re-queues four translations per post (222 of 241 on 08-15).
+  // Deterministic: every clock token in the quote must appear in openingHours.
+  const hoursStr = Array.isArray(fm.place?.openingHours) ? fm.place.openingHours.join(' ').toLowerCase() : '';
+  if (hoursStr) {
+    live = live.filter((f) => {
+      if (f.type !== 'invented-specifics') return true;
+      const clocks = String(f.quote).toLowerCase().match(/\d{1,2}(?::\d{2})?\s*(?:am|pm)/g) || [];
+      if (!clocks.length) return true;
+      const verified = clocks.every((c) => hoursStr.includes(c.replace(/\s+/g, ' ').trim()) || hoursStr.includes(c.replace(/\s*(am|pm)/, ' $1')));
+      if (verified) console.log(`   ✓ verified-hours, not repaired: « ${String(f.quote).slice(0, 70)} »`);
+      return !verified;
+    });
+  }
   if (!live.length) { skipped++; continue; }
 
   console.log(`\n📝 ${row.slug} — ${live.map((f) => f.type).join(', ')}`);
