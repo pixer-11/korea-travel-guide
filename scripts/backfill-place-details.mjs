@@ -23,6 +23,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
+import { existsSync } from 'node:fs';
 import { fetchPlaceReviewSignals } from './lib/places.mjs';
 import { clampBusynessInRaw } from './lib/busyness-clamp.mjs';
 
@@ -115,6 +116,15 @@ async function main() {
     const priorityCount = files.filter((f) => prioritySlugs.has(f.replace(/\.md$/, ''))).length;
     if (priorityCount) console.log(`Priority: ${priorityCount} itinerary stop(s) queued first`);
   }
+  // Places Google has NO phone/hours for, so asking again tomorrow buys the
+  // same empty answer: on 2026-08-20 the alphabetical sweep spent 24 of the
+  // day's 25 Details calls re-asking yesterday's no-data venues and filled 1.
+  // Recorded with a 60-day rest (venues do register phones eventually);
+  // an actual fill clears the entry. Same discipline as photo-retry.json.
+  const NODATA_FILE = 'data/details-nodata.json';
+  const noDataLog = existsSync(NODATA_FILE) ? JSON.parse(await readFile(NODATA_FILE, 'utf8')) : {};
+  const NODATA_REST_DAYS = 60;
+
   let updated = 0, skipNoPlace = 0, already = 0, noData = 0, processed = 0, quotaHits = 0, apiErrors = 0, closed = 0;
   // Fills on posts older than 48h are BACKLOG work; fills on fresh posts are
   // routine top-up. The owner spotted the deadlock (2026-08-02): daily
@@ -150,6 +160,9 @@ async function main() {
 
     const id = placeBody.match(/^[ ]{2}id:[ \t]*(.+)/m)?.[1]?.replace(/[\r\n]+$/, '').trim();
     if (!id) { skipNoPlace++; continue; }
+
+    const priorNoData = noDataLog[id];
+    if (priorNoData && (Date.now() - Date.parse(priorNoData.at)) < NODATA_REST_DAYS * 864e5) { noData++; continue; }
 
     const hasPhone = /^[ ]{2}phone:/m.test(placeBody);
     // hoursOmitted counts as having hours: it marks a post whose hours are
@@ -213,7 +226,8 @@ async function main() {
     const hours = raw?.openingHours;
     if ((!phone || hasPhone) && (!hours?.length || hasHours)) {
       noData++;
-      console.log(`  – ${f}: nothing new`);
+      noDataLog[id] = { at: new Date().toISOString(), f };
+      console.log(`  – ${f}: nothing new (resting ${NODATA_REST_DAYS}d)`);
       continue;
     }
 
@@ -223,8 +237,9 @@ async function main() {
     if (hours?.length && !hasHours) {
       inject += `  openingHours:\n` + hours.map((h) => `    - ${yq(h)}`).join('\n') + '\n';
     }
-    if (!inject) { noData++; continue; }
+    if (!inject) { noData++; noDataLog[id] = { at: new Date().toISOString(), f }; continue; }
 
+    delete noDataLog[id];
     updated++;
     const pub = t.match(/^pubDate:\s*['"]?([0-9T:.Z+-]+)/m)?.[1];
     const isBacklog = !pub || (Date.now() - Date.parse(pub)) > BACKLOG_AGE_MS;
@@ -251,6 +266,7 @@ async function main() {
   // Report the spend so the next job in the chain divides what is actually
   // left, rather than what it hopes is left.
   await recordPlaces('backfill', processed);
+  if (APPLY) await writeFile(NODATA_FILE, JSON.stringify(noDataLog, null, 1) + '\n', 'utf8');
 
   console.log(
     // NOTE: 'updated N' must stay FIRST on this line — the workflow greps the
