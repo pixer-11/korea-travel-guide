@@ -1,6 +1,8 @@
 ---
 title: 'ITZY World Tour – Tunnel Vision: Dates, Tickets & Venue (Taipei)'
-description: ITZY World Tour – Tunnel Vision in Taipei, Taiwan — September 5, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  ITZY World Tour – Tunnel Vision in Taipei, Taiwan — September 5, 2026. What it
+  is, when and where, and how to plan around it.
 country: Taiwan
 region: Taipei
 category: event
@@ -9,26 +11,51 @@ eventStartDate: '2026-09-05'
 eventEndDate: '2026-09-05'
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/39/ITZY._Born_to_Be_in_Manila._01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/39/ITZY._Born_to_Be_in_Manila._01.jpg
   credit: 'Photo: Patrick Cristiano / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:ITZY._Born_to_Be_in_Manila._01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:ITZY._Born_to_Be_in_Manila._01.jpg'
+  focus:
+    x: 40
+    'y': 45
 gallery: []
 tags:
   - taipei
   - event
-quickAnswer: ITZY brings the Tunnel Vision World Tour to Taipei Arena on September 5, 2026 — their second Taiwan stop on this run. Doors and set times aren't part of the verified announcement yet, so treat this as your planning starting point and confirm exact timing, ticket tiers, and any last-minute changes on ITZY's and the venue's official channels before you book flights or hotels.
+quickAnswer: >-
+  ITZY brings the Tunnel Vision World Tour to Taipei Arena on September 5, 2026
+  — their second Taiwan stop on this run. Doors and set times aren't part of the
+  verified announcement yet, so treat this as your planning starting point and
+  confirm exact timing, ticket tiers, and any last-minute changes on ITZY's and
+  the venue's official channels before you book flights or hotels.
 faq:
   - q: What is the confirmed date for ITZY in Taipei?
-    a: September 5, 2026, at Taipei Arena, as the second Taiwan stop of the Tunnel Vision World Tour. Always double-check this against ITZY's official channels closer to the date, since tour schedules can shift.
+    a: >-
+      September 5, 2026, at Taipei Arena, as the second Taiwan stop of the
+      Tunnel Vision World Tour. Always double-check this against ITZY's official
+      channels closer to the date, since tour schedules can shift.
   - q: How do I get to Taipei Arena?
-    a: Take the MRT to Taipei Arena Station, served by the Wenhu and Bannan lines, then it's a short walk to the venue. Driving isn't recommended on show nights due to limited, pricey parking.
+    a: >-
+      Take the MRT to Taipei Arena Station, served by the Wenhu and Bannan
+      lines, then it's a short walk to the venue. Driving isn't recommended on
+      show nights due to limited, pricey parking.
   - q: Where do I buy official tickets?
-    a: Ticket sales details haven't been finalized in the public announcement yet. Watch ITZY's and JYP Entertainment's official social channels for the on-sale date and authorized ticketing partner, and avoid resale sites for your first purchase.
+    a: >-
+      Ticket sales details haven't been finalized in the public announcement
+      yet. Watch ITZY's and JYP Entertainment's official social channels for the
+      on-sale date and authorized ticketing partner, and avoid resale sites for
+      your first purchase.
   - q: How early should I arrive?
-    a: Merch lines and entry queues at Taipei Arena typically start forming hours before doors for major K-pop tours. Once doors and set times are officially confirmed, plan to arrive well ahead of them.
+    a: >-
+      Merch lines and entry queues at Taipei Arena typically start forming hours
+      before doors for major K-pop tours. Once doors and set times are
+      officially confirmed, plan to arrive well ahead of them.
   - q: What else can I do near the venue?
-    a: Taipei Arena is close to the Dunhua/Zhongxiao shopping area and a short ride from Yongkang Street and Da'an district cafés, making it easy to combine the concert with a half-day of eating and shopping.
+    a: >-
+      Taipei Arena is close to the Dunhua/Zhongxiao shopping area and a short
+      ride from Yongkang Street and Da'an district cafés, making it easy to
+      combine the concert with a half-day of eating and shopping.
 aiGenerated: true
 draft: true
 heldReason: content

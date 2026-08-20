@@ -1,6 +1,8 @@
 ---
 title: 'Christina Aguilera Live in Abu Dhabi: Dates, Tickets & Venue (Abu Dhabi)'
-description: Christina Aguilera Live in Abu Dhabi in Abu Dhabi, United Arab Emirates — September 25, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Christina Aguilera Live in Abu Dhabi in Abu Dhabi, United Arab Emirates —
+  September 25, 2026. What it is, when and where, and how to plan around it.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -9,26 +11,52 @@ eventStartDate: '2026-09-25'
 eventEndDate: '2026-09-25'
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/78/Christina_Aguilera_headlining_EuroPride_Valletta_2023_Concert.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/78/Christina_Aguilera_headlining_EuroPride_Valletta_2023_Concert.jpg
   credit: 'Photo: Martin Galea De Giovanni / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Christina_Aguilera_headlining_EuroPride_Valletta_2023_Concert.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Christina_Aguilera_headlining_EuroPride_Valletta_2023_Concert.jpg
+  focus:
+    x: 58
+    'y': 65
 gallery: []
 tags:
   - abu dhabi
   - event
-quickAnswer: Christina Aguilera is set to perform at Etihad Arena on Yas Island, Abu Dhabi, on September 25, 2026 — a follow-up to an earlier UAE show that sold out. Treat this date as the current announcement and confirm final show time, ticket tiers, and any lineup changes on Etihad Arena's official channels before booking travel. Arrive on Yas Island early; this venue and season draw heavy weekend crowds.
+quickAnswer: >-
+  Christina Aguilera is set to perform at Etihad Arena on Yas Island, Abu Dhabi,
+  on September 25, 2026 — a follow-up to an earlier UAE show that sold out.
+  Treat this date as the current announcement and confirm final show time,
+  ticket tiers, and any lineup changes on Etihad Arena's official channels
+  before booking travel. Arrive on Yas Island early; this venue and season draw
+  heavy weekend crowds.
 faq:
   - q: When and where is Christina Aguilera performing in Abu Dhabi?
-    a: The show is currently set for September 25, 2026 at Etihad Arena on Yas Island, following an earlier sold-out UAE performance. Confirm the exact date and time on Etihad Arena's official site before booking.
+    a: >-
+      The show is currently set for September 25, 2026 at Etihad Arena on Yas
+      Island, following an earlier sold-out UAE performance. Confirm the exact
+      date and time on Etihad Arena's official site before booking.
   - q: How do I get to Etihad Arena?
-    a: Most visitors take a taxi or ride-hailing app to Yas Island since there's no metro link yet. From central Abu Dhabi, allow 30-40 minutes; from Dubai, plan for 60-90 minutes depending on traffic.
+    a: >-
+      Most visitors take a taxi or ride-hailing app to Yas Island since there's
+      no metro link yet. From central Abu Dhabi, allow 30-40 minutes; from
+      Dubai, plan for 60-90 minutes depending on traffic.
   - q: Where should I buy tickets?
-    a: Use Etihad Arena's official site or an authorized ticketing partner for the UAE market. Avoid resale sites, especially given how quickly the earlier show sold out.
+    a: >-
+      Use Etihad Arena's official site or an authorized ticketing partner for
+      the UAE market. Avoid resale sites, especially given how quickly the
+      earlier show sold out.
   - q: How early should I arrive on show night?
-    a: Plan to arrive 60-90 minutes before doors to handle parking, security lines, and Yas Island traffic, which gets heavy on Friday and Saturday evenings.
+    a: >-
+      Plan to arrive 60-90 minutes before doors to handle parking, security
+      lines, and Yas Island traffic, which gets heavy on Friday and Saturday
+      evenings.
   - q: What else can I do nearby before or after the show?
-    a: Yas Island has Yas Mall, Yas Bay waterfront dining, Ferrari World, and Yas Waterworld all within a few minutes' drive, making it easy to build a full day or weekend around the concert.
+    a: >-
+      Yas Island has Yas Mall, Yas Bay waterfront dining, Ferrari World, and Yas
+      Waterworld all within a few minutes' drive, making it easy to build a full
+      day or weekend around the concert.
 aiGenerated: true
 draft: true
 heldReason: content

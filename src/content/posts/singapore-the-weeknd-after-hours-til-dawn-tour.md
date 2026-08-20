@@ -1,6 +1,8 @@
 ---
 title: 'The Weeknd: After Hours Til Dawn Tour: Dates, Tickets & Venue (Singapore)'
-description: 'The Weeknd: After Hours Til Dawn Tour in Singapore, Singapore — October 2-3, 2026. What it is, when and where, and how to plan around it.'
+description: >-
+  The Weeknd: After Hours Til Dawn Tour in Singapore, Singapore — October 2-3,
+  2026. What it is, when and where, and how to plan around it.
 country: Singapore
 region: Singapore
 category: event
@@ -10,28 +12,50 @@ eventEndDate: '2026-10-03'
 eventRecurring: false
 eventOrganizer:
   name: Live Nation
-  url: https://www.livenation.sg
+  url: 'https://www.livenation.sg'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/59/The_Weeknd_in_2026_no._5.png
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/59/The_Weeknd_in_2026_no._5.png
   credit: 'Photo: Picikepocok22 / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_in_2026_no._5.png
+  source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_in_2026_no._5.png'
+  focus:
+    x: 55
+    'y': 32
 gallery: []
 tags:
   - singapore
   - event
-quickAnswer: The Weeknd brings his After Hours Til Dawn Stadium Tour to Singapore's National Stadium on October 2 and 3, 2026, with Japanese hip-hop duo Creepy Nuts opening. It's his first Singapore show in almost eight years and his largest here yet, so expect high demand — check the official tour site and Ticketmaster Singapore now for on-sale dates, exact times, and pricing before you book flights or hotels.
+quickAnswer: >-
+  The Weeknd brings his After Hours Til Dawn Stadium Tour to Singapore's
+  National Stadium on October 2 and 3, 2026, with Japanese hip-hop duo Creepy
+  Nuts opening. It's his first Singapore show in almost eight years and his
+  largest here yet, so expect high demand — check the official tour site and
+  Ticketmaster Singapore now for on-sale dates, exact times, and pricing before
+  you book flights or hotels.
 faq:
   - q: When exactly is The Weeknd playing Singapore?
-    a: October 2 and 3, 2026, at National Stadium — confirm exact set times closer to the date via the official tour site.
+    a: >-
+      October 2 and 3, 2026, at National Stadium — confirm exact set times
+      closer to the date via the official tour site.
   - q: Where can I buy official tickets?
-    a: Through the official After Hours Til Dawn tour website and Ticketmaster Singapore. Avoid third-party resale sites, especially before tickets officially go on sale.
+    a: >-
+      Through the official After Hours Til Dawn tour website and Ticketmaster
+      Singapore. Avoid third-party resale sites, especially before tickets
+      officially go on sale.
   - q: How do I get to National Stadium?
-    a: Take the Circle Line MRT to Stadium station, which connects directly to the Sports Hub. Mountbatten and Kallang stations are good alternatives if you want to avoid post-show crowds.
+    a: >-
+      Take the Circle Line MRT to Stadium station, which connects directly to
+      the Sports Hub. Mountbatten and Kallang stations are good alternatives if
+      you want to avoid post-show crowds.
   - q: Who is opening the show?
-    a: Japanese hip-hop duo Creepy Nuts, known internationally for their hit 'Bling-Bang-Bang-Born,' will support both nights.
+    a: >-
+      Japanese hip-hop duo Creepy Nuts, known internationally for their hit
+      'Bling-Bang-Bang-Born,' will support both nights.
   - q: How long should I plan to be at the venue?
-    a: Budget around four hours total including doors, the support set, and the headline performance, plus time for entry queues and post-show transport.
+    a: >-
+      Budget around four hours total including doors, the support set, and the
+      headline performance, plus time for entry queues and post-show transport.
 aiGenerated: true
 draft: true
 heldReason: content

@@ -1,6 +1,8 @@
 ---
 title: 'Aloha Festivals: Dates, Tickets & Venue (Honolulu)'
-description: Aloha Festivals in Honolulu, United States — September 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Aloha Festivals in Honolulu, United States — September 2026. What it is, when
+  and where, and how to plan around it.
 country: United States
 region: Honolulu
 category: event
@@ -11,29 +13,56 @@ eventRecurring: true
 eventOrganizer:
   name: Aloha Festivals
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg/3840px-Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg/3840px-Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg
   credit: 'Photo: Daniel Ramirez from Honolulu, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_(14099428763).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_(14099428763).jpg
+  focus:
+    x: 45
+    'y': 45
 gallery: []
 tags:
   - honolulu
   - event
-quickAnswer: Aloha Festivals turns 80 in September 2026, with Honolulu's signature events — the Royal Court investiture, a Waikīkī block party, and the Floral Parade — held on Oʻahu that month. Exact dates, routes and ticket details are released closer to the season, so confirm them on the official Aloha Festivals site before you book flights or hotels. Expect the biggest crowds along the parade route and at the Waikīkī street party, so plan to arrive early for a good curb spot.
+quickAnswer: >-
+  Aloha Festivals turns 80 in September 2026, with Honolulu's signature events —
+  the Royal Court investiture, a Waikīkī block party, and the Floral Parade —
+  held on Oʻahu that month. Exact dates, routes and ticket details are released
+  closer to the season, so confirm them on the official Aloha Festivals site
+  before you book flights or hotels. Expect the biggest crowds along the parade
+  route and at the Waikīkī street party, so plan to arrive early for a good curb
+  spot.
 faq:
   - q: What are the exact dates for Aloha Festivals 2026 in Honolulu?
-    a: The festival falls in September 2026 for its 80th anniversary, but specific event dates and the parade route are confirmed closer to the season on the official Aloha Festivals website — check there before booking.
+    a: >-
+      The festival falls in September 2026 for its 80th anniversary, but
+      specific event dates and the parade route are confirmed closer to the
+      season on the official Aloha Festivals website — check there before
+      booking.
   - q: Do I need tickets for the Floral Parade or Waikīkī block party?
-    a: Much of the celebration, including parade viewing along the route, is typically free, though some years offer optional seating or add-ons. Confirm current ticket details on the official site since they aren't finalized this far ahead.
+    a: >-
+      Much of the celebration, including parade viewing along the route, is
+      typically free, though some years offer optional seating or add-ons.
+      Confirm current ticket details on the official site since they aren't
+      finalized this far ahead.
   - q: How do I get to the parade route and Waikīkī block party?
-    a: Stay in or near Waikīkī to walk to both events. Otherwise, use TheBus or the Skyline rail line to reach downtown Honolulu or Waikīkī, since road closures on event day make driving and parking unpredictable.
+    a: >-
+      Stay in or near Waikīkī to walk to both events. Otherwise, use TheBus or
+      the Skyline rail line to reach downtown Honolulu or Waikīkī, since road
+      closures on event day make driving and parking unpredictable.
   - q: How long should I plan to spend at the events?
-    a: Budget a full evening for the Waikīkī block party and a couple of hours for the Floral Parade, plus extra time beforehand to claim curb space before the route fills.
+    a: >-
+      Budget a full evening for the Waikīkī block party and a couple of hours
+      for the Floral Parade, plus extra time beforehand to claim curb space
+      before the route fills.
   - q: What else is nearby if I want to extend the trip?
-    a: Waikīkī Beach, Diamond Head, and Honolulu's Chinatown historic district are all within easy reach of the festival areas and make good additions to a festival weekend.
+    a: >-
+      Waikīkī Beach, Diamond Head, and Honolulu's Chinatown historic district
+      are all within easy reach of the festival areas and make good additions to
+      a festival weekend.
 aiGenerated: true
-draft: true
-heldReason: content
 ---
 
 ## Why go

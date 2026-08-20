@@ -1,6 +1,8 @@
 ---
 title: 'Chess Olympiad 2026: Dates, Tickets & Venue (Samarkand)'
-description: Chess Olympiad 2026 in Samarkand, Uzbekistan — September 15-27, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Chess Olympiad 2026 in Samarkand, Uzbekistan — September 15-27, 2026. What it
+  is, when and where, and how to plan around it.
 country: Uzbekistan
 region: Samarkand
 category: event
@@ -10,21 +12,31 @@ eventEndDate: '2026-09-27'
 eventRecurring: true
 eventOrganizer:
   name: International Chess Federation (FIDE)
-  url: https://www.fide.com
+  url: 'https://www.fide.com'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chess_Olympiad_Team_of_Uzbekistan_%2845th_Chess_Olympiad%29.jpg/3840px-Chess_Olympiad_Team_of_Uzbekistan_%2845th_Chess_Olympiad%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chess_Olympiad_Team_of_Uzbekistan_%2845th_Chess_Olympiad%29.jpg/3840px-Chess_Olympiad_Team_of_Uzbekistan_%2845th_Chess_Olympiad%29.jpg
   credit: 'Photo: MiroJP / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chess_Olympiad_Team_of_Uzbekistan_(45th_Chess_Olympiad).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chess_Olympiad_Team_of_Uzbekistan_(45th_Chess_Olympiad).jpg
+  focus:
+    x: 50
+    'y': 25
 gallery: []
 tags:
   - samarkand
   - event
-quickAnswer: The 46th Chess Olympiad runs September 15–27, 2026 in Samarkand, Uzbekistan, drawing around 200 national teams from across the globe. Exact venue halls, ticket prices, and the playing schedule haven't been finalized publicly at time of writing, so confirm details on FIDE's official Olympiad site before booking flights or hotels. Samarkand's compact historic core means you can combine chess-watching with Registan and Gur-e-Amir visits in the same afternoon.
+quickAnswer: >-
+  The 46th Chess Olympiad runs September 15–27, 2026 in Samarkand, Uzbekistan,
+  drawing around 200 national teams from across the globe. Exact venue halls,
+  ticket prices, and the playing schedule haven't been finalized publicly at
+  time of writing, so confirm details on FIDE's official Olympiad site before
+  booking flights or hotels. Samarkand's compact historic core means you can
+  combine chess-watching with Registan and Gur-e-Amir visits in the same
+  afternoon.
 faq: []
 aiGenerated: true
-draft: true
-heldReason: content
 ---
 
 ## Why this Olympiad matters

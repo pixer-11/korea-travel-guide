@@ -21,6 +21,8 @@ import Anthropic from '@anthropic-ai/sdk';
 import { makeTitle } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
+import { keyToken, tokens as nameTokens, ANCHOR_STOP } from './lib/commons.mjs';
+import { eventSchemaName } from '../src/lib/eventName.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
@@ -117,7 +119,7 @@ async function loadDone() {
 }
 
 async function writeDiscovered(item, ctx) {
-  const { country, kind, existing, done, existingTopics } = ctx;
+  const { country, kind, existing, done, existingTopics, eventAnchors } = ctx;
   if (!item?.name || !item?.city) return false;
   // Multi-stage events can come back with a messy "city" like
   // "Nice (finish) / various French stages". A "/" there becomes the post's
@@ -144,6 +146,38 @@ async function writeDiscovered(item, ctx) {
   // but collapse to the same normalized topic key that validate-content uses.
   const tkey = topicKey(title, item.city);
   if (existingTopics.has(tkey)) return false;
+  // Duplicate coverage, decided BEFORE any spend (writer + hero + vision + four
+  // translations went to five rephrased twins on 2026-08-20). Same event =
+  // same country, overlapping dates, and either the same anchor word, shared
+  // name tokens, or a same-city pair where one title is all generic words —
+  // "Formula 1 Italian Grand Prix" has NO distinctive token (every word is an
+  // anchor stop-word), which is exactly how the Monza twin slipped both the
+  // topicKey equality here and validate's anchor rule.
+  if (kind === 'event' && eventAnchors) {
+    const schemaName = eventSchemaName(title);
+    const a = keyToken(schemaName, `${item.city} ${country}`) || '';
+    const toks = new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t)));
+    const s0 = isIsoDate(item.startDate) ? item.startDate : '';
+    const e0 = isIsoDate(item.endDate) ? item.endDate : s0;
+    const near = (x, y) => x && y && Math.abs(new Date(x) - new Date(y)) <= 3 * 864e5;
+    const overlap = (ev) => {
+      if (!s0 || !ev.start) return true; // no dates to compare — same name+place is enough
+      return near(s0, ev.start) || (s0 <= (ev.end || ev.start) && ev.start <= e0);
+    };
+    const twin = eventAnchors.find((ev) => {
+      if (ev.country !== country || !overlap(ev)) return false;
+      if (a && ev.anchor && a === ev.anchor) return true;
+      const shared = [...toks].some((t) => ev.toks.has(t));
+      if (shared) return ev.region === String(item.city).toLowerCase();
+      // generic-title side (no distinctive tokens at all): same city + dates
+      if ((!toks.size || !ev.toks.size) && ev.region === String(item.city).toLowerCase()) return true;
+      return false;
+    });
+    if (twin) {
+      console.log(`    ↩︎  "${item.name}" — already covered (${twin.anchor || 'same city+dates'}); skipping before generation`);
+      return false;
+    }
+  }
   const facts = {
     name: item.name, city: item.city, date: item.date, country, summary: item.summary,
     guidance:
@@ -199,6 +233,12 @@ async function writeDiscovered(item, ctx) {
       // 51 of them by 2026-08-07, closed by a one-off back-audit that this
       // line makes unnecessary for everything published after it.
       await recordHeroVerdict(slug, heroImage.url, 'MATCH', `event publish gate: ${vis.reason || 'approved'}`);
+      // Keep the focus point the gate just reported. generate.mjs has done
+      // this since 08-15; here the same verdict was thrown away, so the first
+      // discovery run after the gate learned NO-FOCUS (08-20) built 12 event
+      // posts that were all held back at publish — a full generation each,
+      // paid and shelved, for a field the vision call had already returned.
+      if (vis.focus) heroImage = { ...heroImage, focus: vis.focus };
     }
   }
 
@@ -251,8 +291,23 @@ async function writeDiscovered(item, ctx) {
     : 'Editor-reviewed, AI-assisted, using current web sources. Hours and details change — confirm before you go.';
   // Disclosure now lives in the page chrome (collapsed <details> next to the fact
   // box), not the body — the inline blockquote duplicated it on every post.
-  await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + body + '\n', 'utf8');
+  // A bare ~ is GFM strikethrough syntax and the writer reaches for it as
+  // "about" ("~30 min"). generate.mjs escapes it at the source since 08-11;
+  // this writer didn't, and nagoya-asian-games shipped struck-through text
+  // (validate warning, 08-20). Same fix, same place: where the file is written.
+  const safeBody = String(body).replace(/(^|[^\\])~/g, '$1\\~');
+  await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + safeBody + '\n', 'utf8');
   existing.add(slug); done.add(key); existingTopics.add(tkey);
+  if (kind === 'event' && eventAnchors) {
+    const schemaName = eventSchemaName(title);
+    eventAnchors.push({
+      country, region: String(item.city).toLowerCase(),
+      anchor: keyToken(schemaName, `${item.city} ${country}`) || '',
+      toks: new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t))),
+      start: isIsoDate(item.startDate) ? item.startDate : '',
+      end: isIsoDate(item.endDate) ? item.endDate : (isIsoDate(item.startDate) ? item.startDate : ''),
+    });
+  }
   console.log(`    ✅ [${kind}] ${slug}`);
   return true;
 }
@@ -273,6 +328,27 @@ async function main() {
       if (data.title && data.region) existingTopics.add(topicKey(data.title, data.region));
     } catch {}
   }
+  // Anchor tokens of existing EVENT posts per country — validate-content's own
+  // duplicate rule (keyToken + country + overlapping dates), applied BEFORE a
+  // full article + hero + vision + four translations are paid for. The weaker
+  // topicKey equality above let five rephrased twins through on 2026-08-20
+  // ("BIGBANG 20/26" vs "BIGBANG 2026-2027 XX COSMOS"): each was fully built,
+  // translated 4x, then held back by the gate that runs the strict rule.
+  const eventAnchors = []; // [{country, region, anchor, toks, start, end}]
+  for (const f of (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'))) {
+    try {
+      const { data } = matter(await readFile(join(POSTS_DIR, f), 'utf8'));
+      if (data.category !== 'event' || !data.title) continue;
+      const schemaName = eventSchemaName(data.title);
+      eventAnchors.push({
+        country: data.country, region: String(data.region || '').toLowerCase(),
+        anchor: keyToken(schemaName, `${data.region || ''} ${data.country || ''}`) || '',
+        toks: new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t))),
+        start: data.eventStartDate ? String(data.eventStartDate).slice(0, 10) : '',
+        end: data.eventEndDate ? String(data.eventEndDate).slice(0, 10) : '',
+      });
+    } catch {}
+  }
   // Site-wide set of hero images already in use (URL + photo-id) → no dupes.
   const usedImages = await loadUsedImageUrls(POSTS_DIR);
 
@@ -280,7 +356,7 @@ async function main() {
   let total = 0;
 
   for (const c of active) {
-    const ctx = { country: c.name, existing, done, existingTopics, usedImages };
+    const ctx = { country: c.name, existing, done, existingTopics, usedImages, eventAnchors };
     let ev = 0, hs = 0;
     for (const item of await discoverEvents(c.name)) {
       if (ev >= EVENTS_PER_COUNTRY) break;

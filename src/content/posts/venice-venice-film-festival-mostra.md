@@ -1,6 +1,8 @@
 ---
 title: 'Venice Film Festival (Mostra): Dates, Tickets & Venue (Venice)'
-description: Venice Film Festival (Mostra) in Venice, Italy — September 2-12, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Venice Film Festival (Mostra) in Venice, Italy — September 2-12, 2026. What it
+  is, when and where, and how to plan around it.
 country: Italy
 region: Venice
 category: event
@@ -10,28 +12,55 @@ eventEndDate: '2026-09-12'
 eventRecurring: true
 eventOrganizer:
   name: La Biennale di Venezia
-  url: https://www.labiennale.org/en/cinema/2026
+  url: 'https://www.labiennale.org/en/cinema/2026'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/95/Emma_Stone_at_the_2025_Venice_Film_Festival-6330.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/95/Emma_Stone_at_the_2025_Venice_Film_Festival-6330.jpg
   credit: 'Photo: Harald Krichel / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Emma_Stone_at_the_2025_Venice_Film_Festival-6330.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Emma_Stone_at_the_2025_Venice_Film_Festival-6330.jpg
+  focus:
+    x: 50
+    'y': 30
 gallery: []
 tags:
   - venice
   - event
-quickAnswer: The 83rd Venice International Film Festival (La Mostra) runs 2-12 September 2026 on the Lido di Venezia, with Maggie Gyllenhaal presiding over the main jury. Public tickets for screenings at the Palazzo del Cinema go on sale a few weeks before the festival via the official Biennale Cinema website — check that source for exact dates, prices and the final programme. Budget a half-day for red-carpet watching and a full day if you want to catch actual screenings.
+quickAnswer: >-
+  The 83rd Venice International Film Festival (La Mostra) runs 2-12 September
+  2026 on the Lido di Venezia, with Maggie Gyllenhaal presiding over the main
+  jury. Public tickets for screenings at the Palazzo del Cinema go on sale a few
+  weeks before the festival via the official Biennale Cinema website — check
+  that source for exact dates, prices and the final programme. Budget a half-day
+  for red-carpet watching and a full day if you want to catch actual screenings.
 faq:
   - q: What are the exact dates for the 2026 Venice Film Festival?
-    a: The 83rd edition runs 2-12 September 2026 on the Lido di Venezia. Always confirm on the official Biennale Cinema website, as schedules can shift slightly.
+    a: >-
+      The 83rd edition runs 2-12 September 2026 on the Lido di Venezia. Always
+      confirm on the official Biennale Cinema website, as schedules can shift
+      slightly.
   - q: Where exactly is the festival held?
-    a: On the Lido di Venezia, a separate island from central Venice, mainly at the Palazzo del Cinema on Lungomare Marconi. Take vaporetto Line 1, 5.1 or 6 to the Lido S.M.E. stop.
+    a: >-
+      On the Lido di Venezia, a separate island from central Venice, mainly at
+      the Palazzo del Cinema on Lungomare Marconi. Take vaporetto Line 1, 5.1 or
+      6 to the Lido S.M.E. stop.
   - q: Can the public buy tickets to screenings?
-    a: A portion of tickets is usually made available to the public online, alongside industry and press accreditation. Details and prices are announced closer to the festival on the official site — don't expect walk-up tickets at the door.
+    a: >-
+      A portion of tickets is usually made available to the public online,
+      alongside industry and press accreditation. Details and prices are
+      announced closer to the festival on the official site — don't expect
+      walk-up tickets at the door.
   - q: What's the best time of day to see stars on the red carpet?
-    a: Late afternoon into early evening, when premieres cluster and arrivals build along the Palazzo del Cinema's carpet route. Mornings are quieter but dominated by industry screenings.
+    a: >-
+      Late afternoon into early evening, when premieres cluster and arrivals
+      build along the Palazzo del Cinema's carpet route. Mornings are quieter
+      but dominated by industry screenings.
   - q: How can I combine the festival with visiting Venice itself?
-    a: The Lido is under 30 minutes by vaporetto from St Mark's Square, so it's easy to split a day between festival-watching and central Venice sightseeing.
+    a: >-
+      The Lido is under 30 minutes by vaporetto from St Mark's Square, so it's
+      easy to split a day between festival-watching and central Venice
+      sightseeing.
 aiGenerated: true
 draft: true
 heldReason: content

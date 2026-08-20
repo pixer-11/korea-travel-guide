@@ -1,6 +1,8 @@
 ---
 title: 'Italian Grand Prix (F1 Monza): Dates, Tickets & Venue (Monza)'
-description: Italian Grand Prix (F1 Monza) in Monza, Italy — September 4-6, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Italian Grand Prix (F1 Monza) in Monza, Italy — September 4-6, 2026. What it
+  is, when and where, and how to plan around it.
 country: Italy
 region: Monza
 category: event
@@ -10,28 +12,51 @@ eventEndDate: '2026-09-06'
 eventRecurring: true
 eventOrganizer:
   name: Formula 1 / ACI
-  url: https://www.formula1.com/en/racing/2026/italy
+  url: 'https://www.formula1.com/en/racing/2026/italy'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/93/Fale_F1_Monza_2004_77.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/93/Fale_F1_Monza_2004_77.jpg
   credit: 'Photo: Fabio Alessandro Locati / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg'
+  focus:
+    x: 45
+    'y': 45
 gallery: []
 tags:
   - monza
   - event
-quickAnswer: The Italian Grand Prix runs 4–6 September 2026 at the Autodromo Nazionale Monza, just north of Milan. Practice is Friday, qualifying Saturday, and the race Sunday afternoon. Buy tickets through Formula1.com or the Monza circuit's official site as soon as dates and grandstand allocations are confirmed, since Ferrari's home race sells out grandstands fast.
+quickAnswer: >-
+  The Italian Grand Prix runs 4–6 September 2026 at the Autodromo Nazionale
+  Monza, just north of Milan. Practice is Friday, qualifying Saturday, and the
+  race Sunday afternoon. Buy tickets through Formula1.com or the Monza circuit's
+  official site as soon as dates and grandstand allocations are confirmed, since
+  Ferrari's home race sells out grandstands fast.
 faq:
   - q: What are the exact dates for the 2026 Italian Grand Prix?
-    a: 4–6 September 2026, with practice Friday, qualifying Saturday, and the race Sunday. Always confirm the final schedule on Formula1.com closer to the date.
+    a: >-
+      4–6 September 2026, with practice Friday, qualifying Saturday, and the
+      race Sunday. Always confirm the final schedule on Formula1.com closer to
+      the date.
   - q: How do I get to Monza from Milan?
-    a: Take the train to Monza station, then use the official race-weekend shuttle bus to the circuit gates. It's far less stressful than driving, since parking and roads around Parco di Monza get congested.
+    a: >-
+      Take the train to Monza station, then use the official race-weekend
+      shuttle bus to the circuit gates. It's far less stressful than driving,
+      since parking and roads around Parco di Monza get congested.
   - q: Where should I buy tickets?
-    a: Only through Formula1.com or the Autodromo Nazionale Monza's official site. Grandstands like Rettifilo, Curva Grande and Ascari sell out quickly given this is Ferrari's home race.
+    a: >-
+      Only through Formula1.com or the Autodromo Nazionale Monza's official
+      site. Grandstands like Rettifilo, Curva Grande and Ascari sell out quickly
+      given this is Ferrari's home race.
   - q: Is general admission worth it instead of a grandstand seat?
-    a: Yes if you want flexibility — GA lets you roam the park and watch from several viewing points, though you'll be standing or on grass rather than a fixed seat.
+    a: >-
+      Yes if you want flexibility — GA lets you roam the park and watch from
+      several viewing points, though you'll be standing or on grass rather than
+      a fixed seat.
   - q: What's nearby if I want to extend the trip?
-    a: Milan is 15km away with easy train access, offering the Duomo, Sforza Castle, and plenty of hotels for a race-weekend base.
+    a: >-
+      Milan is 15km away with easy train access, offering the Duomo, Sforza
+      Castle, and plenty of hotels for a race-weekend base.
 aiGenerated: true
 draft: true
 heldReason: content

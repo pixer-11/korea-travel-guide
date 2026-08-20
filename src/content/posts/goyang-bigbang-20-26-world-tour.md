@@ -1,6 +1,8 @@
 ---
 title: 'BIGBANG 20/26 World Tour: Dates, Tickets & Venue (Goyang)'
-description: BIGBANG 20/26 World Tour in Goyang, South Korea — August 21-23, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  BIGBANG 20/26 World Tour in Goyang, South Korea — August 21-23, 2026. What it
+  is, when and where, and how to plan around it.
 country: South Korea
 region: Goyang
 category: event
@@ -10,28 +12,53 @@ eventEndDate: '2026-08-23'
 eventRecurring: false
 eventOrganizer:
   name: YG Entertainment
-  url: https://artist.ygfamily.com
+  url: 'https://artist.ygfamily.com'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b8/BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b8/BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg
   credit: 'Photo: daissue / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg
+  focus:
+    x: 50
+    'y': 50
 gallery: []
 tags:
   - goyang
   - event
-quickAnswer: BIGBANG kicks off their 20/26 World Tour with three stadium shows at Goyang Stadium on August 21-23, 2026, marking the group's 20th anniversary. This is the opening stop of a 31-date global run, so expect heavy demand — confirm exact ticket on-sale dates, prices, and gate times on YG Entertainment's official channels before you book flights or hotels.
+quickAnswer: >-
+  BIGBANG kicks off their 20/26 World Tour with three stadium shows at Goyang
+  Stadium on August 21-23, 2026, marking the group's 20th anniversary. This is
+  the opening stop of a 31-date global run, so expect heavy demand — confirm
+  exact ticket on-sale dates, prices, and gate times on YG Entertainment's
+  official channels before you book flights or hotels.
 faq:
   - q: What are the exact BIGBANG Goyang concert dates?
-    a: August 21, 22, and 23, 2026, at Goyang Stadium — the opening stop of the group's 20/26 World Tour. Confirm show-specific dates and any changes on official BIGBANG/YG Entertainment channels closer to the date.
+    a: >-
+      August 21, 22, and 23, 2026, at Goyang Stadium — the opening stop of the
+      group's 20/26 World Tour. Confirm show-specific dates and any changes on
+      official BIGBANG/YG Entertainment channels closer to the date.
   - q: How do I get to Goyang Stadium from Seoul?
-    a: Take Seoul Subway Line 3 toward the Goyang/Ilsan area, then a local bus or taxi for the last stretch. Concert nights typically add shuttle buses — check transit apps nearer the event.
+    a: >-
+      Take Seoul Subway Line 3 toward the Goyang/Ilsan area, then a local bus or
+      taxi for the last stretch. Concert nights typically add shuttle buses —
+      check transit apps nearer the event.
   - q: Where can I buy tickets?
-    a: Tickets should go through the official ticketing partner and YG Entertainment's official announcements, usually via a fan-club presale followed by general sale. Avoid secondary resellers before the official on-sale window opens.
+    a: >-
+      Tickets should go through the official ticketing partner and YG
+      Entertainment's official announcements, usually via a fan-club presale
+      followed by general sale. Avoid secondary resellers before the official
+      on-sale window opens.
   - q: How many days should I plan for the trip?
-    a: Three to four days minimum if you want to see multiple nights or want a buffer for late finishes and transit. Add a day before your first show to handle ticket collection and logistics.
+    a: >-
+      Three to four days minimum if you want to see multiple nights or want a
+      buffer for late finishes and transit. Add a day before your first show to
+      handle ticket collection and logistics.
   - q: Is Goyang far from central Seoul?
-    a: No — it's a short subway or bus ride from Seoul, well within a normal day-trip or commute distance, not a separate travel destination.
+    a: >-
+      No — it's a short subway or bus ride from Seoul, well within a normal
+      day-trip or commute distance, not a separate travel destination.
 aiGenerated: true
 draft: true
 heldReason: content

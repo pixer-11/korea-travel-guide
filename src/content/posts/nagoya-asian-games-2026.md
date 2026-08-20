@@ -43,8 +43,8 @@ Nagoya sits on the Tokaido Shinkansen line, roughly 100 minutes from Tokyo and u
 
 Once you're in the city, the subway network (Higashiyama and Sakura-dori lines are the workhorses) reaches most central neighborhoods. Venues spread across Aichi Prefecture, not just Nagoya proper, so budget extra transit time for events held in satellite cities like Toyota or Okazaki.
 
-- Shinkansen: Tokyo–Nagoya in ~100 min, Osaka–Nagoya in ~50 min
-- Chubu Centrair Airport → Nagoya Station: ~30 min by Meitetsu train
+- Shinkansen: Tokyo–Nagoya in \~100 min, Osaka–Nagoya in \~50 min
+- Chubu Centrair Airport → Nagoya Station: \~30 min by Meitetsu train
 - Local subway: Higashiyama Line and Sakura-dori Line cover the city core
 
 ## What to expect at the venues

@@ -47,7 +47,7 @@ export const tokens = (s = '') =>
 // "Post Malone…" anchors on "post" and "UFC Fight Night…" on "fight", matching
 // unrelated photos. Skipping them keeps the anchor on the distinctive proper noun
 // (the act's name), so a concert hero only matches when it's actually that act.
-const ANCHOR_STOP = new Set([
+export const ANCHOR_STOP = new Set([
   'concert', 'concerts', 'festival', 'festivals', 'tour', 'tours', 'live', 'world',
   'with', 'feat', 'featuring', 'show', 'night', 'nights', 'fight', 'grand', 'prix',
   'formula', 'open', 'cup', 'final', 'finals', 'championship', 'championships',
