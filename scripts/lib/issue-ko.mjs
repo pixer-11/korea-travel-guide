@@ -112,6 +112,7 @@ const T = {
 // instead of vanishing from the message.
 const STAT = {
   updated: '채움',
+  'backlog-updated': '밀린 글 채움',
   attached: '좌표 붙임',
   'already-complete': '이미 완료',
   'no-new-data': '자료 없음',
@@ -120,6 +121,8 @@ const STAT = {
   'quota-429': '한도 초과',
   'api-error': '오류',
   processed: '처리',
+  'api-calls': '오늘 호출(예산)',
+  'remaining-askable': '남은 대상',
   skipped: '건너뜀',
   found: '찾음',
   fixed: '수정',

@@ -23,7 +23,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { fetchPlaceReviewSignals } from './lib/places.mjs';
 import { clampBusynessInRaw } from './lib/busyness-clamp.mjs';
 
@@ -115,6 +115,20 @@ async function main() {
     files = orderCandidates(files, prioritySlugs);
     const priorityCount = files.filter((f) => prioritySlugs.has(f.replace(/\.md$/, ''))).length;
     if (priorityCount) console.log(`Priority: ${priorityCount} itinerary stop(s) queued first`);
+    // Within the non-itinerary rest: venues that plausibly HAVE a phone and
+    // hours (restaurants, cafes) before open spaces (attractions: coastlines,
+    // plazas, bridges). The alphabetical sweep spent weeks asking Google about
+    // the Amalfi Coast's phone number while cafes with real listings waited at
+    // the back of the alphabet (1 fill per 25 calls, two days running, 08-20).
+    // Stable partition: order inside each group is unchanged.
+    const CAT_LIKELY = { restaurant: 0, trendy: 0, 'hidden-gem': 1 };
+    const catRank = new Map(files.map((f) => {
+      const t = readFileSync(join(DIR, f), 'utf8');
+      const cat = t.match(/^category:\s*["']?([\w-]+)/m)?.[1];
+      return [f, CAT_LIKELY[cat] ?? 2];
+    }));
+    const isPrio = (f) => prioritySlugs.has(f.replace(/\.md$/, ''));
+    files = [...files].sort((a, b) => (isPrio(a) ? -1 : catRank.get(a)) - (isPrio(b) ? -1 : catRank.get(b)));
   }
   // Places Google has NO phone/hours for, so asking again tomorrow buys the
   // same empty answer: on 2026-08-20 the alphabetical sweep spent 24 of the
@@ -274,8 +288,31 @@ async function main() {
     `\nBACKFILL RESULT: updated ${updated}, backlog-updated ${updatedBacklog}, already-complete ${already}, no-new-data ${noData}, ` +
     `no-place ${skipNoPlace}, closed-quarantined ${closed}, quota-429 ${quotaHits}, api-error ${apiErrors}` +
     (apiErrors ? ` (last: ${lastFailure})` : '') +
-    `, processed ${processed} of ${files.length} (${APPLY ? 'APPLIED' : 'dry-run'}).`
+    // 'processed 25 of 1253' read as "filled 25 of 1,253 that need it" (owner,
+    // 08-20) — 1,253 was every file scanned, mostly complete. Report the two
+    // numbers that actually mean something: today's paid calls, and how many
+    // posts still need a fill and are askable (not resting in the no-data log).
+    `, api-calls ${processed}, remaining-askable ${remainingAskable()} (${APPLY ? 'APPLIED' : 'dry-run'}).`
   );
+
+  // Local reads only — free. Counts posts still missing phone or hours whose
+  // venue is not resting in the no-data log.
+  function remainingAskable() {
+    let n = 0;
+    for (const f of files) {
+      try {
+        const t = readFileSync(join(DIR, f), 'utf8');
+        const block = t.match(/^place:\r?\n((?:[ ]{2}.*\r?\n)+)/m);
+        if (!block) continue;
+        const id = block[1].match(/^[ ]{2}id:[ \t]*(.+)/m)?.[1]?.replace(/[\r\n]+$/, '').trim();
+        if (!id) continue;
+        const prior = noDataLog[id];
+        if (prior && (Date.now() - Date.parse(prior.at)) < NODATA_REST_DAYS * 864e5) continue;
+        if (!/^[ ]{2}phone:/m.test(block[1]) || !/^[ ]{2}(openingHours|hoursOmitted):/m.test(block[1])) n++;
+      } catch {}
+    }
+    return n;
+  }
 }
 
 const isMain = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
