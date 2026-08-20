@@ -683,6 +683,12 @@
     "es": "Hong Kong",
     "zh": "香港"
   },
+  "Honolulu": {
+    "ko": "호놀룰루",
+    "ja": "ホノルル",
+    "es": "Honolulu",
+    "zh": "檀香山"
+  },
   "Hsinchu": {
     "ko": "신주",
     "ja": "新竹",
@@ -1504,6 +1510,12 @@
     "ja": "サン=クルー",
     "es": "Saint-Cloud",
     "zh": "圣克卢"
+  },
+  "Saitama": {
+    "ko": "사이타마",
+    "ja": "埼玉",
+    "es": "Saitama",
+    "zh": "埼玉"
   },
   "Samarkand": {
     "ko": "사마르칸트",

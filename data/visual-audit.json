@@ -10283,5 +10283,107 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Depicts prison torture dioramas, representative of museum's historical exhibits",
     "at": "2026-08-19T20:10:49.304Z"
+  },
+  "kuala-lumpur-thean-hou-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg/1920px-Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg": {
+    "slug": "kuala-lumpur-thean-hou-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinese temple with red lanterns matches Thean Hou Temple",
+    "at": "2026-08-20T08:01:55.060Z"
+  },
+  "taipei-xingtian-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Xingtian_Temple_07.23.jpg/1920px-Xingtian_Temple_07.23.jpg": {
+    "slug": "taipei-xingtian-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Full frontal facade of Xingtian Temple, representative hero shot",
+    "at": "2026-08-20T08:03:17.101Z"
+  },
+  "taichung-taichung-second-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_%281%29.jpg/1920px-%E7%AC%AC%E4%BA%8C%E5%B8%82%E5%A0%B4_%281%29.jpg": {
+    "slug": "taichung-taichung-second-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior street view of the market building with signage",
+    "at": "2026-08-20T08:04:21.011Z"
+  },
+  "kas-patara-ancient-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Patara_City_Gate_2019.jpg/3840px-Patara_City_Gate_2019.jpg": {
+    "slug": "kas-patara-ancient-city",
+    "verdict": "MATCH",
+    "reason": "publish gate: Roman triple-arched gate, iconic Patara ancient city ruin",
+    "at": "2026-08-20T08:05:54.981Z"
+  },
+  "manila-jose-rizal-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jose_Rizal_National_Monument.jpg/3840px-Jose_Rizal_National_Monument.jpg": {
+    "slug": "manila-jose-rizal-monument",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic Rizal Monument obelisk with guards, representative hero shot",
+    "at": "2026-08-20T08:07:05.268Z"
+  },
+  "abu-dhabi-baps-hindu-mandir-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Carving_at_the_BAPS_Hindu_Mandir%2C_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg/3840px-Carving_at_the_BAPS_Hindu_Mandir%2C_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg": {
+    "slug": "abu-dhabi-baps-hindu-mandir-abu-dhabi",
+    "verdict": "MATCH",
+    "reason": "publish gate: Close-up of intricate carved relief panel, plausible temple detail",
+    "at": "2026-08-20T08:07:42.807Z"
+  },
+  "cameron-highlands-sam-poh-temple\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Buddhist_Temple_-_Sam_Poh_Temple_-_panoramio.jpg": {
+    "slug": "cameron-highlands-sam-poh-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Temple entrance gate with signage, representative hero shot",
+    "at": "2026-08-20T08:08:51.218Z"
+  },
+  "kuching-tua-pek-kong-temple\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Tua_Pek_Kong_Temple_09.jpg": {
+    "slug": "kuching-tua-pek-kong-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinese temple with dragon mural, roof, and flags visible",
+    "at": "2026-08-20T08:09:40.903Z"
+  },
+  "phu-quoc-dinh-cau\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/M%C5%A9i_Dinh_C%E1%BA%ADu%2C_Phu_Quoc%2C_Kien_Giang_-_panoramio.jpg": {
+    "slug": "phu-quoc-dinh-cau",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Dinh Cau lighthouse and shrine, representative coastal landmark view",
+    "at": "2026-08-20T08:10:19.472Z"
+  },
+  "genting-highlands-chin-swee-caves-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chin_Swee_Caves_Temple_combined.jpg/1920px-Chin_Swee_Caves_Temple_combined.jpg": {
+    "slug": "genting-highlands-chin-swee-caves-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chin Swee Caves Temple entrance and building, representative view",
+    "at": "2026-08-20T08:11:02.761Z"
+  },
+  "al-ain-al-jahili-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Entrance_Up_Close.jpg/1920px-Entrance_Up_Close.jpg": {
+    "slug": "al-ain-al-jahili-fort",
+    "verdict": "MATCH",
+    "reason": "publish gate: Representative exterior view of fort gate with towers and flag",
+    "at": "2026-08-20T08:12:09.503Z"
+  },
+  "ninh-binh-hoa-lu-ancient-capital\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Codohoalu2010k5.jpg/1920px-Codohoalu2010k5.jpg": {
+    "slug": "ninh-binh-hoa-lu-ancient-capital",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Hoa Lu stone gate pillars, temple, mountains, visitors",
+    "at": "2026-08-20T08:13:14.362Z"
+  },
+  "konya-alaaddin-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Konya_Alaaddin_Hill_2280.jpg/3840px-Konya_Alaaddin_Hill_2280.jpg": {
+    "slug": "konya-alaaddin-hill-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park view with trees, people, city skyline, plausible hero shot",
+    "at": "2026-08-20T08:14:03.153Z"
+  },
+  "selcuk-ayasuluk-citadel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Isa_Bey_Mosque_and_Ayasuluk_Citadel%2C_Selcuk%2C_Turkiye_%2853521512040%29.jpg/3840px-Isa_Bey_Mosque_and_Ayasuluk_Citadel%2C_Selcuk%2C_Turkiye_%2853521512040%29.jpg": {
+    "slug": "selcuk-ayasuluk-citadel",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Ayasuluk Citadel fortress walls on hill, representative view.",
+    "at": "2026-08-20T08:15:49.805Z"
+  },
+  "kenting-hengchun-south-gate\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg": {
+    "slug": "kenting-hengchun-south-gate",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Hengchun South Gate structure, representative view of landmark",
+    "at": "2026-08-20T08:16:38.601Z"
+  },
+  "kota-kinabalu-kinabalu-park-headquarters\u0001https://upload.wikimedia.org/wikipedia/commons/d/d9/Mount_Kinabalu_from_Kinabalu_Park_Headquarters_%2813890768344%29.jpg": {
+    "slug": "kota-kinabalu-kinabalu-park-headquarters",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows park headquarters buildings, sign, and Kinabalu mountain backdrop.",
+    "at": "2026-08-20T08:17:52.221Z"
+  },
+  "ho-chi-minh-city-tao-dan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2023-12-10_Tao_%C4%90%C3%A0n_Park%2C_Saigon_01.jpg/1920px-2023-12-10_Tao_%C4%90%C3%A0n_Park%2C_Saigon_01.jpg": {
+    "slug": "ho-chi-minh-city-tao-dan-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows entrance gate with park name sign, representative view",
+    "at": "2026-08-20T08:32:57.269Z"
   }
 }

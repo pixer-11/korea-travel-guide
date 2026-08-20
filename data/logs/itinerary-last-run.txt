@@ -1,4 +1,3 @@
-SKIP new city "Hong Kong" — weekly new-city cap (2/7d) reached
 SKIP new city "Los Angeles" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "New Orleans" — weekly new-city cap (2/7d) reached
@@ -18,6 +17,14 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
+Hong Kong, Hong Kong — 51 qualifying post(s), variants: 3, 5
+NEW_ITINERARY: Hong Kong 3d
+  ⚠ Hong Kong 5d — validator found 5 prose-fixable issue(s); correcting once
+VALIDATE-FAILED hong-kong-5-days.md — 3 issue(s):
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 1 names "Waterfront Flavors" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 2 names "Hillside Gardens" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 5 names "Mountaintop Views" but no stop of that day attests it
+
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
@@ -25,7 +32,7 @@ Singapore, Singapore — 46 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

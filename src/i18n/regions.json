@@ -8006,5 +8006,32 @@
       "getting": "난터우에는 자체 공항이나 간선 철도역이 없기 때문에, 여행자는 먼저 타이중(台中)으로 이동해야 합니다. 비행기를 이용하거나 타이중의 고속철도(HSR)·대만철도(TRA) 역을 거친 뒤, 지역 버스로 약 1~1.5시간을 이동하면 푸리(埔里)나 르웨탄 같은 난터우의 관문 마을에 도착할 수 있습니다.",
       "days": "르웨탄을 여유롭게 둘러보고, 칭징 농장(淸境農場)이나 시터우(溪頭) 같은 고산 지대로 하루 정도 다녀오려면 2~3일 일정을 잡는 것이 좋습니다."
     }
+  },
+  "Honolulu": {
+    "en": {
+      "blurb": "Honolulu, on the island of Oʻahu, blends a dense modern city skyline with the iconic curve of Waikīkī Beach and the volcanic silhouette of Diamond Head crater rising behind it. As Hawaiʻi's capital, it mixes Polynesian, Asian, and American influences into a compact urban hub that still runs on island time.",
+      "getting": "Most travelers arrive at Daniel K. Inouye International Airport (HNL), Oʻahu's main gateway; Honolulu's Skyline light-rail line now serves the airport via Lelepaua Station, but since it doesn't yet reach Waikīkī, most visitors continue on by bus, shuttle, taxi, or rideshare, with the drive to Waikīkī taking ~20-35 minutes depending on traffic.",
+      "days": "Plan on ~4-5 days to cover Waikīkī's beaches, Pearl Harbor, Diamond Head, and downtown Honolulu's historic and cultural sites, with extra time if you want to explore the rest of Oʻahu."
+    },
+    "ko": {
+      "blurb": "오아후 섬에 위치한 호놀룰루는 빽빽한 현대 도시의 스카이라인과 와이키키 해변의 상징적인 곡선, 그리고 그 뒤로 솟아 있는 다이아몬드 헤드 분화구의 화산 실루엣이 어우러진 곳입니다. 하와이의 주도인 호놀룰루는 폴리네시아, 아시아, 미국의 영향이 뒤섞인 아담한 도심이면서도, 여전히 느긋한 섬만의 시간표대로 흘러갑니다.\",\"getting\":\"대부분의 여행객은 오아후의 주요 관문인 다니엘 K. 이노우에 국제공항(HNL)을 통해 도착합니다. 호놀룰루의 스카이라인 경전철이 이제 레레파우아 역을 통해 공항까지 운행되지만, 아직 와이키키까지는 연결되지 않아 대부분의 방문객은 버스, 셔틀, 택시, 또는 라이드셰어를 이용해 이동하며, 교통 상황에 따라 와이키키까지 약 20~35분 정도 소요됩니다.",
+      "getting": "대부분의 여행객은 오아후의 주요 관문인 다니엘 K. 이노우에 국제공항(HNL)을 통해 도착합니다. 호놀룰루의 스카이라인 경전철이 이제 레레파우아 역을 통해 공항까지 운행되지만, 아직 와이키키까지는 연결되지 않아 대부분의 방문객은 버스, 셔틀, 택시, 또는 라이드셰어를 이용해 이동하며, 교통 상황에 따라 와이키키까지 약 20~35분 정도 소요됩니다.",
+      "days": "와이키키 해변, 진주만, 다이아몬드 헤드, 그리고 호놀룰루 도심의 역사 및 문화 명소를 둘러보려면 약 4~5일 정도를 계획하시고, 오아후의 나머지 지역까지 탐험하고 싶다면 여유 시간을 더 잡으시는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "オアフ島に位置するホノルルは、密集する近代的な街並みと、あの象徴的な弧を描くワイキキビーチ、そしてその奥にそびえるダイヤモンドヘッド火山のシルエットが融合する街です。ハワイ州の州都として、ポリネシア、アジア、アメリカの文化が入り混じるコンパクトな都市でありながら、どこか島時間でゆったりと時が流れています。",
+      "getting": "多くの旅行者は、オアフ島の主要な玄関口であるダニエル・K・イノウエ国際空港(HNL)に到着します。現在、ホノルルのスカイライン・ライトレールがレレパウア駅を通じて空港まで延伸されていますが、ワイキキまではまだつながっていないため、多くの旅行者はバスやシャトル、タクシー、ライドシェアを利用して移動します。ワイキキまでは交通状況により約20〜35分ほどかかります。",
+      "days": "ワイキキのビーチやパールハーバー、ダイヤモンドヘッド、そしてホノルル中心部の歴史・文化スポットを巡るには、約4〜5日を目安にすると良いでしょう。オアフ島の他のエリアも探索したい場合は、さらに時間を確保することをおすすめします。"
+    },
+    "es": {
+      "blurb": "Honolulu, en la isla de Oʻahu, combina el denso perfil urbano de una ciudad moderna con la icónica curva de la playa de Waikīkī y la silueta volcánica del cráter Diamond Head que se alza detrás. Como capital de Hawái, mezcla influencias polinesias, asiáticas y estadounidenses en un compacto núcleo urbano que, pese a todo, sigue funcionando al ritmo pausado de la isla.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional Daniel K. Inouye (HNL), la principal puerta de entrada a Oʻahu. La línea de tren ligero Skyline de Honolulu ya presta servicio al aeropuerto a través de la estación Lelepaua, pero como todavía no llega hasta Waikīkī, la mayoría de los visitantes continúa el trayecto en autobús, shuttle, taxi o servicios de transporte privado, con un trayecto en auto hasta Waikīkī de entre 20 y 35 minutos, según el tráfico.",
+      "days": "Se recomienda dedicar entre 4 y 5 días para recorrer las playas de Waikīkī, Pearl Harbor, Diamond Head y los sitios históricos y culturales del centro de Honolulu, y sumar tiempo extra si se desea explorar el resto de la isla de Oʻahu."
+    },
+    "zh": {
+      "blurb": "檀香山位于瓦胡岛（Oʻahu）上,既有密集的现代城市天际线,也拥有标志性的威基基海滩（Waikīkī Beach）弧形海岸,背后还矗立着钻石山（Diamond Head）火山的轮廓。作为夏威夷的首府,这里融合了波利尼西亚、亚洲和美国的多元文化,形成了一个紧凑却依然保持着悠闲海岛节奏的都市中心。",
+      "getting": "大多数游客会抵达丹尼尔·K·井上国际机场（HNL）,这是瓦胡岛的主要空中门户。檀香山的Skyline轻轨目前已通车至机场附近的Lelepaua站,但由于线路暂未延伸至威基基,大多数游客仍需换乘公交车、接驳车、出租车或叫车服务前往市区,车程约20-35分钟,具体视路况而定。",
+      "days": "建议预留约4-5天时间,游览威基基海滩、珍珠港、钻石山,以及檀香山市区内的历史文化景点;如果还想探索瓦胡岛的其他地区,则需要额外安排时间。"
+    }
   }
 }

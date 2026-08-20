@@ -28299,5 +28299,89 @@
   "registerBreak": false,
   "worst": "首次到访者最常犯的错误，就是匆匆十五分钟走马观花后便直奔堡垒——不妨在照片展区放慢脚步",
   "at": "2026-08-19T09:51:33.153Z"
+ },
+ "es/nagoya-asian-games-2026": {
+  "hash": "e56624f42a4b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "superior incluso a la imagen mental que la mayoría tiene de unos Juegos Olímpicos en cuanto al número",
+  "at": "2026-08-20T08:26:28.125Z"
+ },
+ "ja/nagoya-asian-games-2026": {
+  "hash": "08c93fe94651",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "参加国・地域の規模で見れば、多くの人がオリンピックに抱くイメージすら上回るほどです。",
+  "at": "2026-08-20T08:26:31.900Z"
+ },
+ "ko/nagoya-asian-games-2026": {
+  "hash": "8d3c45e9abbc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "방문객들이 가장 흔히 저지르는 실수는 모든 경기장이 나고야 시내 안에 있다고 생각하는 것일 가능성이 큽니다.",
+  "at": "2026-08-20T08:26:42.221Z"
+ },
+ "zh/bali-oryn": {
+  "hash": "9fb3fc01bd63",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "正因为地处这条街上，从乌布中心大部分住宿步行即可到达——只要你住在乌布皇宫附近，或是猴林路北段一带",
+  "at": "2026-08-20T08:28:30.241Z"
+ },
+ "zh/mumbai-rameshwaram-cafe": {
+  "hash": "75130159e926",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "约上朋友，带上耐心，再空出肚子。在如今孟买的美食圈里，这是一条值得排的队。",
+  "at": "2026-08-20T08:26:51.510Z"
+ },
+ "zh/nagoya-asian-games-2026": {
+  "hash": "3e8c77ac54b0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "参赛国家和地区数量之多，甚至超出许多人对奥运会规模的固有印象。",
+  "at": "2026-08-20T08:28:40.041Z"
+ },
+ "es/abu-dhabi-baps-hindu-mandir-abu-dhabi": {
+  "hash": "0fd05bc6bf03",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "se alzan sobre la llanura desértica como si hubieran sido trasladadas por aire directamente desde Rajastán",
+  "at": "2026-08-20T08:27:05.842Z"
+ },
+ "es/al-ain-al-jahili-fort": {
+  "hash": "8b5ef7014071",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El mediodía... se vuelve insoportablemente luminoso y caluroso para hacer fotos",
+  "at": "2026-08-20T08:27:11.745Z"
+ },
+ "ja/abu-dhabi-baps-hindu-mandir-abu-dhabi": {
+  "hash": "841630ae4be7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "何もない砂漠の中から、まるでラジャスタンから空輸してきたかのようにそびえ立っています。",
+  "at": "2026-08-20T08:27:17.825Z"
+ },
+ "ja/al-ain-al-jahili-fort": {
+  "hash": "d816cf592672",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "その存在感は隠しようがありません。",
+  "at": "2026-08-20T08:28:43.288Z"
+ },
+ "ko/abu-dhabi-baps-hindu-mandir-abu-dhabi": {
+  "hash": "ed7663064853",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "처음 방문하는 사람들이 가장 많이 하는 실수는 주말의 보안 검색과 입장 줄을 과소평가하는 것입니다.",
+  "at": "2026-08-20T08:27:30.128Z"
+ },
+ "ko/al-ain-al-jahili-fort": {
+  "hash": "f95b0dda31e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "알 자힐리 요새의 입장은 전통적으로 무료였지만, 아랍에미리트 내 유적지 정책은 종종 바뀔 수 있으니",
+  "at": "2026-08-20T08:27:36.943Z"
  }
 }
