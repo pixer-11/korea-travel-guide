@@ -1,5 +1,5 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 96 itinerary stop(s) queued first
+Priority: 109 itinerary stop(s) queued first
   – bangkok-saladaeng.md: nothing new
   – bangkok-the-grand-palace.md: nothing new
   – barcelona-ciutadella-park.md: nothing new
@@ -8,7 +8,10 @@ Priority: 96 itinerary stop(s) queued first
   – bugis-bugis-street.md: nothing new
   – busan-cheongsapo.md: nothing new
   – busan-haeundae.md: nothing new
+  – central-avenue-of-stars-hk.md: nothing new
   – chinatown-chinatown-heritage-centre.md: nothing new
+  – hong-kong-victoria-harbour.md: nothing new
+  ✓ jordan-jordan-valley-park.md +phone +7h hours
   – kampong-glam-kampong-glam.md: nothing new
   – katong-east-coast-park.md: nothing new
   – little-india-tekka-centre.md: nothing new
@@ -22,8 +25,5 @@ Priority: 96 itinerary stop(s) queued first
   – tokyo-fish-market-tsukiji-outer-market.md: nothing new
   – tokyo-fuglen-tokyo.md: nothing new
   – tokyo-meiji-jingu.md: nothing new
-  – tokyo-senso-ji.md: nothing new
-  – tokyo-teamlab-planets-tokyo-dmm.md: nothing new
-  – tokyo-tokyo-ramen-street.md: nothing new
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 70, no-new-data 25, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1153 (APPLIED).
+BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 77, no-new-data 24, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1253 (APPLIED).

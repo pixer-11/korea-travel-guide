@@ -1,9 +1,8 @@
 {
- "date": "2026-08-19",
- "spent": 40,
+ "date": "2026-08-20",
+ "spent": 25,
  "byJob": {
-  "backfill": 25,
-  "quality": 15
+  "backfill": 25
  },
- "updated": "2026-08-19T10:23:22.444Z"
+ "updated": "2026-08-20T08:55:53.826Z"
 }
