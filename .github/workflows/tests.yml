@@ -20,6 +20,11 @@ on:
       # no test reads it.
       - 'src/components/**'
       - 'src/pages/**'
+      # BaseLayout broke astro check on 08-20 (og-mirror null cast) and this
+      # list didn't watch layouts -- the fix commit triggered no Tests run, so
+      # red-to-green had no CI evidence. i18n holds hand-written TS too.
+      - 'src/layouts/**'
+      - 'src/i18n/**'
       # Subscribe endpoint and the Klook click relay live here — money paths.
       - 'worker/**'
       - 'package.json'
@@ -31,6 +36,11 @@ on:
       - 'src/lib/**'
       - 'src/components/**'
       - 'src/pages/**'
+      # BaseLayout broke astro check on 08-20 (og-mirror null cast) and this
+      # list didn't watch layouts -- the fix commit triggered no Tests run, so
+      # red-to-green had no CI evidence. i18n holds hand-written TS too.
+      - 'src/layouts/**'
+      - 'src/i18n/**'
       - 'worker/**'
   workflow_dispatch:
 
