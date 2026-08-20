@@ -8033,5 +8033,59 @@
       "getting": "大多数游客会抵达丹尼尔·K·井上国际机场（HNL）,这是瓦胡岛的主要空中门户。檀香山的Skyline轻轨目前已通车至机场附近的Lelepaua站,但由于线路暂未延伸至威基基,大多数游客仍需换乘公交车、接驳车、出租车或叫车服务前往市区,车程约20-35分钟,具体视路况而定。",
       "days": "建议预留约4-5天时间,游览威基基海滩、珍珠港、钻石山,以及檀香山市区内的历史文化景点;如果还想探索瓦胡岛的其他地区,则需要额外安排时间。"
     }
+  },
+  "Dempsey Hill": {
+    "en": {
+      "blurb": "Dempsey Hill is a leafy hillside enclave of restored colonial-era buildings set among rain trees, now filled with restaurants, antique shops, and galleries just minutes from Singapore's Botanic Gardens. Its relaxed, garden-like atmosphere feels worlds away from the city's high-rises, even though it sits in the heart of central Singapore near Orchard Road.",
+      "getting": "There's no MRT station right at Dempsey Hill; travellers typically take the train to Orchard, Farrer Road, or Holland Village and then continue by bus (routes such as 7, 75, 106, or 174 serve the area) or a short taxi ride, with Changi Airport (SIN) linked to the city centre via the East-West MRT line in about 30 minutes before that final bus/taxi leg.",
+      "days": "Half a day is usually enough to browse the shops, galleries, and grounds and settle in for a leisurely meal, though food-and-wine enthusiasts may linger longer."
+    },
+    "ko": {
+      "blurb": "덴프시 힐은 비 내리는 나무(레인트리) 사이로 복원된 식민지 시대 건물들이 자리한, 초록이 우거진 언덕 위 마을입니다. 지금은 레스토랑과 앤티크 상점, 갤러리들이 가득 들어서 있으며, 싱가포르 보타닉 가든에서도 차로 몇 분이면 닿을 수 있는 거리에 있습니다. 오차드 로드 인근, 싱가포르 중심부 한복판에 자리하고 있음에도 불구하고, 마치 도심의 고층 빌딩들과는 전혀 다른 세상처럼 느긋하고 정원 같은 분위기를 자아냅니다.",
+      "getting": "덴프시 힐 바로 앞에는 MRT역이 없습니다. 보통 오차드, 파러 로드(Farrer Road), 또는 홀랜드 빌리지역까지 기차로 이동한 뒤, 버스(7번, 75번, 106번, 174번 등의 노선이 이 지역을 지나갑니다)나 짧은 택시 이동으로 이어서 갑니다. 창이 공항(SIN)에서는 이스트-웨스트 MRT 노선을 타면 약 30분 만에 시내까지 연결되며, 그 다음 마지막 구간은 버스나 택시를 이용하면 됩니다.",
+      "days": "상점과 갤러리, 주변 부지를 둘러보고 여유롭게 식사를 즐기기에는 반나절이면 충분하지만, 미식과 와인을 사랑하는 여행자라면 더 오래 머물고 싶어질 수도 있습니다."
+    },
+    "ja": {
+      "blurb": "デンプシーヒルは、雨木(レインツリー)の木陰に囲まれた緑豊かな丘の一角に、植民地時代の建物を修復して生まれたエリアです。現在はレストランやアンティークショップ、ギャラリーが軒を connectingらねる人気スポットとなっており、シンガポール植物園からもほんの数分の距離にあります。中心部のオーチャード・ロード近くという都心の一等地にありながら、高層ビル群とは無縁ののんびりとした庭園のような雰囲気が漂っています。",
+      "getting": "デンプシーヒルのすぐそばにはMRTの駅がないため、通常はオーチャード駅、ファーラー・ロード駅、またはホランド・ビレッジ駅まで電車で行き、そこからバス(7番、75番、106番、174番など)に乗り継ぐか、タクシーで短時間移動するのが一般的です。チャンギ国際空港(SIN)からは、東西線(イースト・ウエスト・ライン)で市街地まで約30分、その後上記のバスまたはタクシーで最終区間を移動します。",
+      "days": "ショップやギャラリー、敷地内をひと通り見て回り、のんびり食事を楽しむだけなら、半日もあれば十分です。ただし、グルメやワイン好きの方は、つい長居してしまうかもしれません。"
+    },
+    "es": {
+      "blurb": "Dempsey Hill es un frondoso enclave en la ladera de una colina, con edificios restaurados de la época colonial que se asoman entre lluviosos árboles centenarios (rain trees), hoy repleto de restaurantes, tiendas de antigüedades y galerías, a solo minutos de los Jardines Botánicos de Singapur. Su ambiente relajado, casi de jardín, parece a años luz de los rascacielos de la ciudad, aunque en realidad se encuentra en pleno corazón de Singapur, cerca de Orchard Road.",
+      "getting": "Dempsey Hill no cuenta con una estación de MRT propia; lo habitual es tomar el tren hasta Orchard, Farrer Road u Holland Village y continuar en autobús (las líneas 7, 75, 106 o 174 cubren la zona) o bien seguir en un breve trayecto en taxi. Desde el aeropuerto de Changi (SIN), la línea East-West del MRT conecta con el centro de la ciudad en unos 30 minutos, antes de completar el trayecto final en autobús o taxi.",
+      "days": "Medio día suele ser suficiente para recorrer las tiendas, galerías y jardines, y disfrutar de una comida sin prisas, aunque los amantes de la buena mesa y el vino podrían querer quedarse más tiempo."
+    },
+    "zh": {
+      "blurb": "丹戎巴葛山（Dempsey Hill）是一片绿意盎然的山坡社区，雨树成荫，坐落着修复一新的殖民时期建筑，如今云集了各式餐厅、古董店和画廊，距离新加坡植物园仅几分钟车程。这里悠闲惬意、宛如花园般的氛围，与市区的高楼大厦仿佛是两个世界，尽管它其实就位于新加坡中心地带、乌节路附近。",
+      "getting": "Dempsey Hill 附近并没有地铁站，游客通常先乘地铁到乌节（Orchard）、法勒路（Farrer Road）或荷兰村（Holland Village），再转乘巴士（如7、75、106或174路等途经此区的路线）或打车短途前往。从樟宜机场（SIN）出发，可乘东西地铁线约30分钟抵达市中心，再换乘巴士或出租车完成最后一段路程。",
+      "days": "通常半天时间便足以逛遍这里的商店、画廊和园区，再惬意地享用一顿悠闲的美食；不过对美食和美酒情有独钟的游客，可能会想多待上一会儿。"
+    }
+  },
+  "Saitama": {
+    "en": {
+      "blurb": "Saitama is a sprawling prefecture just north of central Tokyo, best known as home to Omiya's Railway Museum, the Omiya Bonsai Village, and the historic Kawagoe \"Little Edo\" district of preserved warehouse streets. Despite sitting in the shadow of the capital, it retains a more suburban, unhurried pace while still packing in shrines, shopping and sporting venues like Saitama Stadium.",
+      "getting": "Saitama has no major airport of its own, so travellers typically fly into Tokyo's Haneda (HND) or Narita (NRT) and continue by JR train to the region's main hub, Omiya Station — reachable in ~30 minutes from Tokyo Station via the JR Ueno-Tokyo Line, or from Shinjuku/Ikebukuro via the JR Shonan-Shinjuku or Saikyo lines. From the airports themselves, expect a longer transfer of roughly ~1–2 hours by train or limousine bus, depending on connections.",
+      "days": "Plan on ~1–2 days to cover Saitama's highlights, enough time for a museum visit or bonsai garden stroll in Omiya plus an afternoon exploring Kawagoe's old town, easily done as a day trip from Tokyo or an overnight stay."
+    },
+    "ko": {
+      "blurb": "사이타마는 도쿄 도심 바로 북쪽에 자리한 넓은 현으로, 오미야의 철도박물관, 오미야 본사이 마을(분재 마을), 그리고 옛 창고 거리가 잘 보존된 가와고에의 역사적인 \"작은 에도\" 지구로 특히 잘 알려져 있습니다. 수도의 그늘에 가려진 듯 보이지만, 사이타마는 여유롭고 한적한 교외의 분위기를 간직하면서도 신사와 쇼핑, 그리고 사이타마 스타디움 같은 스포츠 명소까지 알차게 갖추고 있습니다.",
+      "getting": "사이타마에는 자체 주요 공항이 없기 때문에, 여행자들은 보통 도쿄의 하네다(HND)나 나리타(NRT) 공항으로 입국한 뒤 JR 열차를 이용해 이 지역의 중심역인 오미야역으로 이동합니다. 도쿄역에서는 JR 우에노-도쿄 라인을 이용하면 약 30분이면 도착하며, 신주쿠나 이케부쿠로에서는 JR 쇼난신주쿠 라인이나 사이쿄 라인을 이용할 수 있습니다. 공항에서 직접 이동할 경우에는 열차나 리무진 버스로 환승 시간까지 포함해 대략 1~2시간 정도 걸릴 수 있습니다.",
+      "days": "사이타마의 주요 명소를 둘러보려면 약 1~2일이면 충분합니다. 오미야에서 철도박물관을 관람하거나 분재 정원을 산책하고, 오후에는 가와고에의 옛 시가지를 둘러보는 일정이면 딱 맞습니다. 도쿄에서 당일치기로 다녀오거나 하루 묵으며 여유롭게 즐기기에도 좋습니다."
+    },
+    "ja": {
+      "blurb": "埼玉県は東京都心のすぐ北に広がる県で、大宮の鉄道博物館や大宮盆栽村、そして蔵造りの町並みが残る「小江戸」川越の歴史地区で知られています。首都の陰に隠れがちですが、どこかのんびりとした郊外らしい雰囲気を保ちつつ、神社仏閣やショッピング、さいたまスタジアムのようなスポーツ施設もしっかり揃っています。",
+      "getting": "埼玉県には大きな空港がないため、旅行者は通常、東京の羽田空港(HND)または成田空港(NRT)を利用し、そこからJR線でこの地域の玄関口である大宮駅へ向かいます。大宮駅へは東京駅からJR上野東京ラインで約30分、新宿・池袋からはJR湘南新宿ラインや埼京線でアクセスできます。空港からの移動は、乗り継ぎ状況にもよりますが、電車やリムジンバスでおよそ1〜2時間ほど見ておくとよいでしょう。",
+      "days": "埼玉の見どころを巡るなら1〜2日ほど見ておくと安心です。大宮で鉄道博物館の見学や盆栽園の散策を楽しみ、午後は川越の古い町並みを探索するといった行程が組め、東京からの日帰り旅行はもちろん、1泊してじっくり楽しむのもおすすめです。"
+    },
+    "es": {
+      "blurb": "Saitama es una extensa prefectura ubicada justo al norte del centro de Tokio, conocida sobre todo por albergar el Museo Ferroviario de Omiya, el Pueblo de los Bonsáis de Omiya y el histórico distrito de Kawagoe, apodado \"la pequeña Edo\" por sus calles de antiguos almacenes bien conservados. Aunque vive a la sombra de la capital, conserva un ritmo más suburbano y tranquilo, sin dejar de ofrecer templos, comercios y recintos deportivos como el Estadio de Saitama.",
+      "getting": "Saitama no cuenta con un aeropuerto propio de gran envergadura, por lo que los viajeros suelen llegar a Haneda (HND) o Narita (NRT), en Tokio, y continuar en tren JR hasta la principal terminal de la región, la Estación de Omiya, a la que se llega en unos 30 minutos desde la Estación de Tokio por la línea JR Ueno-Tokyo, o desde Shinjuku/Ikebukuro mediante las líneas JR Shonan-Shinjuku o Saikyo. Desde los propios aeropuertos, el trayecto suele ser más largo, de aproximadamente 1 a 2 horas en tren o en autobús limusina, según las conexiones.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para conocer lo más destacado de Saitama, tiempo suficiente para visitar un museo o pasear por un jardín de bonsáis en Omiya, además de dedicar una tarde a explorar el casco antiguo de Kawagoe. Puede hacerse fácilmente como excursión de un día desde Tokio o quedándose a pasar la noche."
+    },
+    "zh": {
+      "blurb": "埼野是紧邻东京都心以北的一片广袁县域，最广为人知的是大宫的铁道博物馆、大宫盆景村，以及保留着传统仓库街景的川越\"小江户\"历史街区。尽管地处首都近郊，埼玉却依然保有一种更悠闲、更具郊区气息的生活节奏，同时又不乏神社古迹、购物去处，以及埼玉体育场这样的体育场馆。",
+      "getting": "埼玉本身没有大型机场，游客通常会飞抵东京的羽田机场（HND）或成田机场（NRT），再转乘JR列车前往该地区的交通枢纽——大宫站：从东京站乘坐JR上野东京线约30分钟可达，或从新宿、池袋出发乘坐JR湘南新宿线、埼京线前往。若从机场出发，则视换乘情况而定，乘坐电车或利木津巴士大约需要1到2小时。",
+      "days": "建议预留1到2天时间游览埼玉的主要景点，足够在大宫参观博物馆或漫步盆景园，再花一个下午探索川越老街——既可以作为东京出发的一日游，也可以安排一晚留宿慢慢体验。"
+    }
   }
 }

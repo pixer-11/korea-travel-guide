@@ -28383,5 +28383,89 @@
   "registerBreak": false,
   "worst": "알 자힐리 요새의 입장은 전통적으로 무료였지만, 아랍에미리트 내 유적지 정책은 종종 바뀔 수 있으니",
   "at": "2026-08-20T08:27:36.943Z"
+ },
+ "es/baguio-bell-church": {
+  "hash": "b24707020bd5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El clima influye aquí más que en los sitios cubiertos.",
+  "at": "2026-08-20T09:31:26.700Z"
+ },
+ "es/baguio-bencab-museum": {
+  "hash": "36fba348adfc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "que le da un aire evocador al lugar, aunque a veces limita la vista",
+  "at": "2026-08-20T09:31:29.680Z"
+ },
+ "es/bukhara-bolo-hauz-mosque": {
+  "hash": "b5aee4b494fe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "que remite al mucho más imponente Minarete Kalyan, a poca distancia a pie",
+  "at": "2026-08-20T09:31:33.474Z"
+ },
+ "ja/baguio-bell-church": {
+  "hash": "c371cd37e3a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "わざわざ足を延ばす価値があるのは、この「重なり」にあります。",
+  "at": "2026-08-20T09:31:36.417Z"
+ },
+ "ja/baguio-bencab-museum": {
+  "hash": "cb4c432f3d44",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ここに来て初めて、美術館は単なる屋内展示空間ではなく、その土地の風景に溶け込んだ場所として感じられるようになるのです。",
+  "at": "2026-08-20T09:31:39.810Z"
+ },
+ "ja/bukhara-bolo-hauz-mosque": {
+  "hash": "44689f3d1ef5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "まずは池のほとりに数分座ってみてください。水面に映る彩色柱の姿こそが、この場所が一世紀以上にわたって画家や写真家に愛され続けてきた理由の半分を占めているのです。",
+  "at": "2026-08-20T09:31:43.833Z"
+ },
+ "ko/baguio-bell-church": {
+  "hash": "232de1ff3568",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "첫 번째 문(門)이 보이기도 전에 향 냄새가 먼저 코끝에 닿습니다.",
+  "at": "2026-08-20T09:31:46.986Z"
+ },
+ "ko/baguio-bencab-museum": {
+  "hash": "474b5b4eb28e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "나지막하고 짙은 목조 건물은 산비탈에 반쯤 파묻힌 듯한 모습으로 능선과 거의 하나가 되어 나타납니다.",
+  "at": "2026-08-20T09:31:58.165Z"
+ },
+ "ko/bukhara-bolo-hauz-mosque": {
+  "hash": "f47ac5404d86",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "연못가에 서서 위쭉 이완, 즉 조각된 기둥들이 모여 있는 안쪽으로 들어간 현관을 올려다보세요.",
+  "at": "2026-08-20T09:32:05.280Z"
+ },
+ "zh/baguio-bell-church": {
+  "hash": "d6f9984951e5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "还没看到山门，先闻到香火味——这股香气顺着钟庙路飘来，先于第一座牌楼出现，也提醒你已经快到了。",
+  "at": "2026-08-20T09:32:15.336Z"
+ },
+ "zh/baguio-bencab-museum": {
+  "hash": "bd7bfa3352fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "生态步道穿行在原生植物之间蜿蜒而下，山谷在脚下渐渐展开，正是在这里，博物馆才不再只是一个室内空间",
+  "at": "2026-08-20T09:32:39.854Z"
+ },
+ "zh/bukhara-bolo-hauz-mosque": {
+  "hash": "13acc1efbffc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "整体而言，这里的人流一向不算多，毕竟旅游大巴的人群大多涌向了不远处的方舟城堡或卡扬建筑群",
+  "at": "2026-08-20T09:32:43.593Z"
  }
 }
