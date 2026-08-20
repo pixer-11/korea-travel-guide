@@ -1,11 +1,5 @@
 {
-  "validate-content": {
-    "DUPLICATE taiyuan-2026-china-open-snooker.md": {
-      "since": "2026-08-19",
-      "last": "2026-08-19",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
