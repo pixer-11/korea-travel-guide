@@ -11529,5 +11529,101 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Portrait of The Weeknd, valid performer photo for concert event",
     "at": "2026-08-20T20:17:42.894Z"
+  },
+  "taipei-taipei-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Taipei_Botanical_Garden_Greenhouse.jpg": {
+    "slug": "taipei-taipei-botanical-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Distinctive domed conservatory building consistent with Taipei Botanical Garden",
+    "at": "2026-08-21T08:02:42.243Z"
+  },
+  "kuala-lumpur-klcc-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Taman_KLCC%2C_Kuala_Lumpur_20260428_102802.jpg/1920px-Taman_KLCC%2C_Kuala_Lumpur_20260428_102802.jpg": {
+    "slug": "kuala-lumpur-klcc-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: KLCC Park with lake, fountains, skyline, and KLCC sign visible",
+    "at": "2026-08-21T08:03:28.547Z"
+  },
+  "dubai-dubai-old-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dubai_Old_City_%2853372631353%29.jpg/3840px-Dubai_Old_City_%2853372631353%29.jpg": {
+    "slug": "dubai-dubai-old-city",
+    "verdict": "MATCH",
+    "reason": "publish gate: Traditional wind-tower building typical of Dubai's Old City architecture",
+    "at": "2026-08-21T08:05:11.255Z"
+  },
+  "kas-kas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_Kas.jpg/1920px-View_Kas.jpg": {
+    "slug": "kas-kas",
+    "verdict": "MATCH",
+    "reason": "publish gate: Representative coastal town view of Kaş with harbor and mountains",
+    "at": "2026-08-21T08:05:46.021Z"
+  },
+  "taichung-maple-garden\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Maple_Garden_from_above.jpg": {
+    "slug": "taichung-maple-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of park with bridge, pond, greenery matching venue",
+    "at": "2026-08-21T08:06:26.631Z"
+  },
+  "manila-legazpi-sunday-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnamese_Stall_in_Legazpi_Sunday_Market%2C_Makati%2C_Feb_2026.jpg/3840px-Vietnamese_Stall_in_Legazpi_Sunday_Market%2C_Makati%2C_Feb_2026.jpg": {
+    "slug": "manila-legazpi-sunday-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Market stalls with flags, food, vendors under tent, matches locale",
+    "at": "2026-08-21T08:07:38.972Z"
+  },
+  "abu-dhabi-khalifa-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Khalifa_Park_Abu_Dhabi_-_panoramio_%2816%29.jpg": {
+    "slug": "abu-dhabi-khalifa-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows park entrance building with UAE flags, representative view.",
+    "at": "2026-08-21T08:08:55.471Z"
+  },
+  "fujairah-shees-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mountain_View_%40_Al_Shees_Park%2C_Sharjah.jpg/3840px-Mountain_View_%40_Al_Shees_Park%2C_Sharjah.jpg": {
+    "slug": "fujairah-shees-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Shees Park with mountains, road, playground, visitors",
+    "at": "2026-08-21T08:09:35.060Z"
+  },
+  "alanya-mustafa-kemal-ataturk-monument\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Alanya._Monument_to_Mustafa_Kemal_Atat%C3%BCrk.jpg": {
+    "slug": "alanya-mustafa-kemal-ataturk-monument",
+    "verdict": "MATCH",
+    "reason": "publish gate: Monument with statues and inscription, representative hero view",
+    "at": "2026-08-21T08:12:36.807Z"
+  },
+  "el-nido-cadlao-lagoon\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadlao_Lagoon_%2848108503048%29.jpg": {
+    "slug": "el-nido-cadlao-lagoon",
+    "verdict": "MATCH",
+    "reason": "publish gate: Karst lagoon scene matches El Nido attraction type",
+    "at": "2026-08-21T08:13:57.900Z"
+  },
+  "kuching-malaysia-china-friendship-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg/3840px-Paifang_at_Malaysia_China_Friendship_Park_Kuching.jpg": {
+    "slug": "kuching-malaysia-china-friendship-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Ornate Chinese gate with lion statues, plausible park entrance",
+    "at": "2026-08-21T08:15:13.460Z"
+  },
+  "phu-quoc-phu-quoc-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Phu_quoc_plage_sao.jpg": {
+    "slug": "phu-quoc-phu-quoc-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Coastal beach and forested hills plausible for Phu Quoc National Park",
+    "at": "2026-08-21T08:16:27.695Z"
+  },
+  "cappadocia-rose-valley\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Rose_Valley%2C_Cappadocia_-_K%C4%B1z%C4%B1l%C3%A7ukur_Vadisi%2C_Kapadokya_08.jpg": {
+    "slug": "cappadocia-rose-valley",
+    "verdict": "MATCH",
+    "reason": "publish gate: Represents Cappadocia's rock valley landscape, plausible Rose Valley view",
+    "at": "2026-08-21T08:17:42.365Z"
+  },
+  "tainan-banyan-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Banyan_Garden_in_NCKU_01.jpg/3840px-Banyan_Garden_in_NCKU_01.jpg": {
+    "slug": "tainan-banyan-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows banyan trees with garden sign, representative of attraction",
+    "at": "2026-08-21T08:20:23.139Z"
+  },
+  "taiping-taiping-lake-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Taiping_Lake_Garden_scene_2.jpg/3840px-Taiping_Lake_Garden_scene_2.jpg": {
+    "slug": "taiping-taiping-lake-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Lake, trees, hills — representative garden lake scenery",
+    "at": "2026-08-21T08:21:06.890Z"
+  },
+  "antalya-lower-duden-waterfalls\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/Antalya._Lower_D%C3%BCden_Waterfall.jpg": {
+    "slug": "antalya-lower-duden-waterfalls",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Lower Duden Waterfalls cascading into sea, representative view",
+    "at": "2026-08-21T08:21:42.915Z"
   }
 }

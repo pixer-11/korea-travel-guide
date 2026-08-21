@@ -19,8 +19,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 
 Hong Kong, Hong Kong — 52 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
-  ⚠ Hong Kong 5d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Hong Kong 5d
+  = Hong Kong 5d — unchanged, skipping
 
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
@@ -29,7 +28,7 @@ Singapore, Singapore — 46 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
