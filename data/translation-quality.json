@@ -28551,5 +28551,61 @@
   "registerBreak": false,
   "worst": "站在主观景台上，你几乎正对着瀑布上方，可以俯视水流冲出岩壁、在海面上溅起水雾，笼罩住下方停泊着供游客拍照的小船。",
   "at": "2026-08-21T08:33:26.768Z"
+ },
+ "es/bukhara-ismail-samani-mausoleum": {
+  "hash": "794e4d109e7d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El sol del mediodía, además, aplana el relieve del ladrillo que hace valioso este lugar",
+  "at": "2026-08-21T09:16:58.059Z"
+ },
+ "es/nukus-cake-bumer": {
+  "hash": "50b0a649f8f9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es de esos lugares donde el aroma a mantequilla y azúcar llega antes de alcanzar el mostrador.",
+  "at": "2026-08-21T09:17:00.627Z"
+ },
+ "ja/bukhara-ismail-samani-mausoleum": {
+  "hash": "cdbc9a4c0961",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "チンギス・ハーンによる街の略奪を生き延びられたのは、当時すでに砂に埋もれてドームの部分しか見えていなかったためです。",
+  "at": "2026-08-21T09:17:03.186Z"
+ },
+ "ja/nukus-cake-bumer": {
+  "hash": "6bbc4343f61c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ここはまず何よりベーカリーであり、カフェはその次という位置づけです。",
+  "at": "2026-08-21T09:18:14.814Z"
+ },
+ "ko/bukhara-ismail-samani-mausoleum": {
+  "hash": "08c7cd4d8b13",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-21T09:17:12.529Z"
+ },
+ "ko/nukus-cake-bumer": {
+  "hash": "4b9e845fbd39",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "체크리스트를 따라가듯 서두르기보다 천천히 둘러볼수록 매력이 드러나는 이 도시에서, 하루 일정에 자연스러운 쉼표를 찍어주는 좋은 방법입니다.",
+  "at": "2026-08-21T09:17:14.667Z"
+ },
+ "zh/bukhara-ismail-samani-mausoleum": {
+  "hash": "2c6e57ffa2d6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "当年成吉思汗攻陷布哈拉时，正是因为这座陵墓已被黄沙掩埋到圆顶，才侥幸逃过一劫。",
+  "at": "2026-08-21T09:17:17.214Z"
+ },
+ "zh/nukus-cake-bumer": {
+  "hash": "87609a37cf92",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "努库斯并不是一座咖啡馆遍地开花的城市，这恰恰是Bumer蛋糕店显得格外亮眼的原因。",
+  "at": "2026-08-21T09:17:24.975Z"
  }
 }

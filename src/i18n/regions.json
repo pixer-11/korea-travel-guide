@@ -8087,5 +8087,32 @@
       "getting": "埼玉本身没有大型机场，游客通常会飞抵东京的羽田机场（HND）或成田机场（NRT），再转乘JR列车前往该地区的交通枢纽——大宫站：从东京站乘坐JR上野东京线约30分钟可达，或从新宿、池袋出发乘坐JR湘南新宿线、埼京线前往。若从机场出发，则视换乘情况而定，乘坐电车或利木津巴士大约需要1到2小时。",
       "days": "建议预留1到2天时间游览埼玉的主要景点，足够在大宫参观博物馆或漫步盆景园，再花一个下午探索川越老街——既可以作为东京出发的一日游，也可以安排一晚留宿慢慢体验。"
     }
+  },
+  "Nukus": {
+    "en": {
+      "blurb": "Nukus, the sun-scorched capital of Karakalpakstan in Uzbekistan's far west, is best known for the extraordinary Savitsky Museum, whose vault of banned Soviet avant-garde art has earned it the nickname \"the Louvre of the Steppe.\" It's also the natural springboard for exploring the vanishing Aral Sea and the crumbling desert fortresses (qalas) of ancient Khorezm.",
+      "getting": "Nukus Airport (NCU) has domestic flights connecting to Tashkent, plus regional routes to Almaty and Aktau, while an overnight train also links Nukus with Tashkent, taking roughly 20 hours across the steppe. Most travellers combine a flight one way with the train or a shared taxi the other, using Nukus as the hub for onward trips into Karakalpakstan.",
+      "days": "Plan on ~2-3 days: enough for a full day at the Savitsky Museum and the city itself, plus a day trip toward Moynaq and the Aral Sea or the desert fortresses beyond town."
+    },
+    "ko": {
+      "blurb": "우즈베키스탄 최서단, 카라칼파크스탄의 태양이 이글거리는 수도 누쿠스는 무엇보다 사비츠키 박물관으로 유명합니다. 소련 시절 금지되었던 아방가르드 미술품들을 대거 소장하고 있어 \"스텝의 루브르\"라는 별명까지 얻은 곳이죠. 또한 점점 사라져가는 아랄해와 고대 호레즘의 무너져가는 사막 요새(칼라)들을 둘러보기 위한 최적의 출발점이기도 합니다.",
+      "getting": "누쿠스 공항(NCU)에서는 타슈켄트행 국내선과 알마티, 악타우로 향하는 지역 노선을 이용할 수 있으며, 타슈켄트와 누쿠스를 잇는 야간열차도 운행되는데 스텝 지대를 가로질러 약 20시간이 걸립니다. 대부분의 여행자는 한쪽 구간은 비행기를, 다른 구간은 기차나 합승 택시를 이용하며, 누쿠스를 카라칼파크스탄 여행의 거점으로 삼습니다.",
+      "days": "2~3일 정도를 계획하세요. 사비츠키 박물관과 시내 관광에 하루를 온전히 쓰고, 여기에 모이나크와 아랄해, 혹은 시외의 사막 요새로 떠나는 당일치기 여행을 더하면 충분합니다."
+    },
+    "ja": {
+      "blurb": "ウズベキスタン最西端、カラカルパクスタン共和国の首都ヌクスは、太陽が容赦なく照りつける乾いた街。ここで一番の見どころは、何と言ってもサヴィツキー美術館だ。ソ連時代に禁じられたアヴァンギャルド美術を大量に収蔵していることから「草原のルーヴル」の異名を持つ。また、消えゆくアラル海や、古代ホレズム王国の朽ちた砂漠の要塞群「カラ」を巡る旅の拠点としても最適な街である。",
+      "getting": "ヌクス空港(NCU)からはタシケント行きの国内線のほか、アルマトイやアクタウへの地域路線も就航している。タシケントとの間には夜行列車も走っており、草原地帯を約20時間かけて横断する。多くの旅行者は、片道を飛行機、もう片道を列車または乗合タクシーで移動する組み合わせを選び、ヌクスをカラカルパクスタン各地への旅の拠点としている。",
+      "days": "目安は2~3日。サヴィツキー美術館と市内散策だけで丸1日はかかり、さらにモイナクやアラル海、あるいは郊外の砂漠の要塞群への日帰り旅行も加えたい。"
+    },
+    "es": {
+      "blurb": "Nukus, la abrasada capital de Karakalpakstán en el extremo oeste de Uzbekistán, es célebre sobre todo por el extraordinario Museo Savitsky, cuyo tesoro de arte vanguardista soviético en su día prohibido le ha valido el apodo de \"el Louvre de la Estepa\". Es también el punto de partida natural para explorar el menguante Mar de Aral y las ruinosas fortalezas del desierto (qalas) de la antigua Corasmia.",
+      "getting": "El Aeropuerto de Nukus (NCU) ofrece vuelos nacionales a Taskent, además de rutas regionales a Almaty y Aktau, mientras que un tren nocturno también conecta Nukus con Taskent, con un trayecto de unas 20 horas a través de la estepa. La mayoría de los viajeros combinan un vuelo de ida con el tren o un taxi compartido de vuelta, usando Nukus como base para las excursiones por Karakalpakstán.",
+      "days": "Cuenta con unos 2-3 días: suficiente para dedicar un día completo al Museo Savitsky y a la ciudad, más una excursión de un día hacia Moynaq y el Mar de Aral, o a las fortalezas del desierto en las afueras."
+    },
+    "zh": {
+      "blurb": "努库斯是乌兹别克斯坦最西端卡拉卡尔帕克斯坦共和国的首府，常年烈日炙烤,却因一座非凡的博物馆而声名远扬——萨维茨基博物馆珍藏着大批曾遭苏联当局查禁的先锋派艺术品,因而被誉为\"草原上的卢浮宫\"。同时，努库斯也是探访日渐干涸的咸海以及散落在古代花剌子模沙漠中的残垣古堡（卡拉，qala）的天然门户。",
+      "getting": "努库斯机场（NCU）有航班飞往塔什干，并开通了往返阿拉木图和阿克套的区域航线；此外，还有一趟夜班火车连接努库斯与塔什干，穿越茫茫草原约需20小时。大多数旅行者会选择单程乘飞机、另一程搭火车或拼车的方式往返，把努库斯作为深入卡拉卡尔帕克斯坦各地的中转枢纽。",
+      "days": "建议安排2-3天行程：用一整天时间游览萨维茨基博物馆并逛逛市区，再抽一天前往穆伊纳克和咸海，或探访城外的沙漠古堡。"
+    }
   }
 }

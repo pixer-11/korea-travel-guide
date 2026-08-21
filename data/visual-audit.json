@@ -11625,5 +11625,17 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows Lower Duden Waterfalls cascading into sea, representative view",
     "at": "2026-08-21T08:21:42.915Z"
+  },
+  "nukus-cake-bumer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/CAKE_BUMER.jpg/3840px-CAKE_BUMER.jpg": {
+    "slug": "nukus-cake-bumer",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior storefront with venue name, plausible night shot",
+    "at": "2026-08-21T09:11:33.943Z"
+  },
+  "bukhara-ismail-samani-mausoleum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mausoleo_Ismail_Samani_8.jpg/3840px-Mausoleo_Ismail_Samani_8.jpg": {
+    "slug": "bukhara-ismail-samani-mausoleum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior brickwork ceiling detail of the mausoleum's dome",
+    "at": "2026-08-21T09:13:59.111Z"
   }
 }
