@@ -1,39 +1,38 @@
 ---
-title: "Cadlao Lagoon: El Nido Travel Guide (4.8★)"
-description: "Cadlao Lagoon is a quiet, jade-green pocket of water tucked against Cadlao Island's cliffs, reachable only by boat from El Nido town. 4.8★ (227 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "El Nido"
-category: "attraction"
-pubDate: "2026-08-21T08:14:06.891Z"
+title: 'Cadlao Lagoon: El Nido Travel Guide (4.8★)'
+description: Cadlao Lagoon is a quiet, jade-green pocket of water tucked against Cadlao Island's cliffs, reachable only by boat from El Nido town. 4.8★ (227 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: El Nido
+category: attraction
+pubDate: '2026-08-21T08:14:06.891Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadlao_Lagoon_%2848108503048%29.jpg"
-  credit: "Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cadlao_Lagoon_(48108503048).jpg"
+  url: https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg
+  credit: 'Photo: Foursquare user content (Cadlao Beach)'
+  license: foursquare
+  source: https://foursquare.com/v/50ad6492e4b0f706ce24eb79
   focus:
-    x: 50
-    y: 60
-gallery: []
+    x: 45
+    'y': 45
 place:
-  id: "ChIJqy7XzyyrtzMRwEk1-ZdyXUk"
-  name: "Cadlao Lagoon"
-  address: "687W+V5G, Unnamed Road, El Nido, Palawan, Philippines"
+  id: ChIJqy7XzyyrtzMRwEk1-ZdyXUk
+  name: Cadlao Lagoon
+  address: 687W+V5G, Unnamed Road, El Nido, Palawan, Philippines
   rating: 4.8
   userRatingsTotal: 227
-  googleMapsUrl: "https://maps.google.com/?cid=5286507534649477568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5286507534649477568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.2146796
   lng: 119.34544839999998
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-21
+    updated: 2026-08-21T00:00:00.000Z
     weekdayQuiet:
       - 20
     weekdayBusy:
@@ -51,22 +50,22 @@ place:
       - 11
       - 14
       - 15
-    venueId: "ven_6b555879645a2d316b4577524d7a747279797a583779714a496843"
+    venueId: ven_6b555879645a2d316b4577524d7a747279797a583779714a496843
 tags:
-  - "el nido"
-  - "park"
-quickAnswer: "Cadlao Lagoon is a quiet, jade-green pocket of water tucked against Cadlao Island's cliffs, reachable only by boat from El Nido town. It's not on the standard Island Hopping A-D routes, so go with a private banca or ask a tour operator to add it — mornings before 9am or the 7am–10pm weekend window are calmest. Budget half a day round-trip including boat time and swimming."
+  - el nido
+  - park
+quickAnswer: Cadlao Lagoon is a quiet, jade-green pocket of water tucked against Cadlao Island's cliffs, reachable only by boat from El Nido town. It's not on the standard Island Hopping A-D routes, so go with a private banca or ask a tour operator to add it — mornings before 9am or the 7am–10pm weekend window are calmest. Budget half a day round-trip including boat time and swimming.
 faq:
-  - q: "How do I get to Cadlao Lagoon?"
-    a: "Only by boat — charter a private banca from El Nido town or Corong-Corong beach, or book a customized tour, since it's not included on the standard Island Hopping Tour A–D routes. The ride takes about 20–30 minutes each way."
-  - q: "Is there an entrance fee?"
-    a: "There's no formal ticket booth or fixed admission; costs are wrapped into whatever you negotiate for the boat charter or private tour."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, it stays calm from 7am to 10pm, with the busiest window between 9am and 4pm. Weekdays, 8pm–9pm is quietest, though most boats run only during daylight, so an early morning start is your best bet."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30–60 minutes swimming and exploring the lagoon itself, plus travel time — figure on a half-day outing round-trip from El Nido town."
-  - q: "What should I bring?"
-    a: "Reef-safe sunscreen applied before boarding, water shoes for any rocky scrambling, a dry bag for electronics, and your own water and snacks, since there are no facilities or vendors at the lagoon."
+  - q: How do I get to Cadlao Lagoon?
+    a: Only by boat — charter a private banca from El Nido town or Corong-Corong beach, or book a customized tour, since it's not included on the standard Island Hopping Tour A–D routes. The ride takes about 20–30 minutes each way.
+  - q: Is there an entrance fee?
+    a: There's no formal ticket booth or fixed admission; costs are wrapped into whatever you negotiate for the boat charter or private tour.
+  - q: When is the quietest time to visit?
+    a: On weekends, it stays calm from 7am to 10pm, with the busiest window between 9am and 4pm. Weekdays, 8pm–9pm is quietest, though most boats run only during daylight, so an early morning start is your best bet.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 30–60 minutes swimming and exploring the lagoon itself, plus travel time — figure on a half-day outing round-trip from El Nido town.
+  - q: What should I bring?
+    a: Reef-safe sunscreen applied before boarding, water shoes for any rocky scrambling, a dry bag for electronics, and your own water and snacks, since there are no facilities or vendors at the lagoon.
 aiGenerated: true
 draft: false
 ---
