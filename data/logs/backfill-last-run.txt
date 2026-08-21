@@ -1,29 +1,29 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 109 itinerary stop(s) queued first
-  – bangkok-saladaeng.md: nothing new
-  – bangkok-the-grand-palace.md: nothing new
-  – barcelona-ciutadella-park.md: nothing new
-  – barcelona-la-rambla.md: nothing new
-  – barcelona-placa-nova.md: nothing new
-  – bugis-bugis-street.md: nothing new
-  – busan-cheongsapo.md: nothing new
-  – busan-haeundae.md: nothing new
-  – central-avenue-of-stars-hk.md: nothing new
-  – chinatown-chinatown-heritage-centre.md: nothing new
-  – hong-kong-victoria-harbour.md: nothing new
-  ✓ jordan-jordan-valley-park.md +phone +7h hours
-  – kampong-glam-kampong-glam.md: nothing new
-  – katong-east-coast-park.md: nothing new
-  – little-india-tekka-centre.md: nothing new
-  – new-york-the-channel-gardens.md: nothing new
-  – new-york-times-square.md: nothing new
-  – sentosa-sentosa-sensoryscape.md: nothing new
-  – seoul-bukchon-yukgyeong-photo-spot.md: nothing new
-  – seoul-euljiro.md: nothing new
-  – seoul-london-bagel-museum.md: nothing new
-  – seoul-myeongdong-shopping-street.md: nothing new
-  – tokyo-fish-market-tsukiji-outer-market.md: nothing new
-  – tokyo-fuglen-tokyo.md: nothing new
-  – tokyo-meiji-jingu.md: nothing new
+Priority: 117 itinerary stop(s) queued first
+  – bangkok-saladaeng.md: nothing new (resting 60d)
+  – bangkok-the-grand-palace.md: nothing new (resting 60d)
+  – barcelona-ciutadella-park.md: nothing new (resting 60d)
+  – barcelona-la-rambla.md: nothing new (resting 60d)
+  – barcelona-placa-nova.md: nothing new (resting 60d)
+  – bugis-bugis-street.md: nothing new (resting 60d)
+  – busan-cheongsapo.md: nothing new (resting 60d)
+  – busan-haeundae.md: nothing new (resting 60d)
+  – central-avenue-of-stars-hk.md: nothing new (resting 60d)
+  – chinatown-chinatown-heritage-centre.md: nothing new (resting 60d)
+  – hong-kong-victoria-harbour.md: nothing new (resting 60d)
+  – hong-kong-victoria-peak-lookout-point.md: nothing new (resting 60d)
+  – kampong-glam-kampong-glam.md: nothing new (resting 60d)
+  – katong-east-coast-park.md: nothing new (resting 60d)
+  ✓ lantau-island-silvermine-bay-beach.md +phone +7h hours
+  – little-india-tekka-centre.md: nothing new (resting 60d)
+  – new-york-the-channel-gardens.md: nothing new (resting 60d)
+  – new-york-times-square.md: nothing new (resting 60d)
+  – sai-kung-sai-kung-public-pier.md: nothing new (resting 60d)
+  ✓ sai-kung-sai-kung-town.md +7h hours
+  – sentosa-sentosa-sensoryscape.md: nothing new (resting 60d)
+  – seoul-bukchon-yukgyeong-photo-spot.md: nothing new (resting 60d)
+  – seoul-euljiro.md: nothing new (resting 60d)
+  – seoul-london-bagel-museum.md: nothing new (resting 60d)
+  – seoul-myeongdong-shopping-street.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 77, no-new-data 24, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, processed 25 of 1253 (APPLIED).
+BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 71, no-new-data 23, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 434 (APPLIED).

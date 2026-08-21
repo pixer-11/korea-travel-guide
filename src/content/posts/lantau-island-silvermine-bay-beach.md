@@ -43,6 +43,15 @@ place:
       - 21
       - 22
     venueId: "ven_414b58504238566137756152517a41395f336f3051315a4a496843"
+  phone: '+852 2852 3220'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "lantau island"
   - "hidden gem"
