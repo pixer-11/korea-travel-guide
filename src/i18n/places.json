@@ -149,11 +149,23 @@
     "es": "Bangkok",
     "zh": "曼谷"
   },
+  "Banlung": {
+    "ko": "반룽",
+    "ja": "バンルン",
+    "es": "Banlung",
+    "zh": "班隆"
+  },
   "Barcelona": {
     "ko": "바르셀로나",
     "ja": "バルセロナ",
     "es": "Barcelona",
     "zh": "巴塞罗那"
+  },
+  "Battambang": {
+    "ko": "바탐방",
+    "ja": "バッタンバン",
+    "es": "Battambang",
+    "zh": "马德望"
   },
   "Beijing": {
     "ko": "베이징",
@@ -262,6 +274,12 @@
     "ja": "ブニョール",
     "es": "Buñol",
     "zh": "布尼奥尔"
+  },
+  "Cambodia": {
+    "ko": "캄보디아",
+    "ja": "カンボジア",
+    "es": "Camboya",
+    "zh": "柬埔寨"
   },
   "Cameron Highlands": {
     "ko": "카메론 하이랜드",
@@ -839,11 +857,23 @@
     "es": "Jurong",
     "zh": "裕廊"
   },
+  "Kampong Cham": {
+    "ko": "캄퐁참",
+    "ja": "コンポンチャム",
+    "es": "Kampong Cham",
+    "zh": "磅湛"
+  },
   "Kampong Glam": {
     "ko": "캄퐁글램",
     "ja": "カンポン・グラム",
     "es": "Kampong Glam",
     "zh": "甘榜格南"
+  },
+  "Kampot": {
+    "ko": "캄포트",
+    "ja": "カンポット",
+    "es": "Kampot",
+    "zh": "贡布"
   },
   "Kanazawa": {
     "ko": "가나자와",
@@ -887,6 +917,12 @@
     "es": "Kenting",
     "zh": "垦丁"
   },
+  "Kep": {
+    "ko": "케프",
+    "ja": "ケップ",
+    "es": "Kep",
+    "zh": "白马市"
+  },
   "Khiva": {
     "ko": "히바",
     "ja": "ヒヴァ",
@@ -916,6 +952,12 @@
     "ja": "ピピ島",
     "es": "Islas Phi Phi",
     "zh": "皮皮岛"
+  },
+  "Koh Rong": {
+    "ko": "꼬롱",
+    "ja": "コロン島",
+    "es": "Koh Rong",
+    "zh": "戈公岛"
   },
   "Koh Samui": {
     "ko": "코사무이",
@@ -964,6 +1006,12 @@
     "ja": "クラビ",
     "es": "Krabi",
     "zh": "甲米"
+  },
+  "Kratie": {
+    "ko": "크라체",
+    "ja": "クラチエ",
+    "es": "Kratié",
+    "zh": "桔井"
   },
   "Kuala Lumpur": {
     "ko": "쿠알라룸푸르",
@@ -1403,6 +1451,12 @@
     "es": "Filipinas",
     "zh": "菲律宾"
   },
+  "Phnom Penh": {
+    "ko": "프놈펜",
+    "ja": "プノンペン",
+    "es": "Nom Pen",
+    "zh": "金边"
+  },
   "Phong Nha": {
     "ko": "퐁냐",
     "ja": "フォンニャ",
@@ -1438,6 +1492,12 @@
     "ja": "浦項",
     "es": "Pohang",
     "zh": "浦项"
+  },
+  "Poipet": {
+    "ko": "포이펫",
+    "ja": "ポイペト",
+    "es": "Poipet",
+    "zh": "波贝"
   },
   "Portland": {
     "ko": "포틀랜드",
@@ -1583,6 +1643,12 @@
     "es": "Selçuk",
     "zh": "塞尔丘克"
   },
+  "Sen Monorom": {
+    "ko": "센모노롬",
+    "ja": "センモノロム",
+    "es": "Sen Monorom",
+    "zh": "森莫诺罗姆"
+  },
   "Sentosa": {
     "ko": "센토사",
     "ja": "セントーサ島",
@@ -1643,11 +1709,23 @@
     "es": "Siargao",
     "zh": "锡亚高岛"
   },
+  "Siem Reap": {
+    "ko": "시엠레아프",
+    "ja": "シェムリアップ",
+    "es": "Siem Reap",
+    "zh": "暹粒"
+  },
   "Siena": {
     "ko": "시에나",
     "ja": "シエナ",
     "es": "Siena",
     "zh": "锡耶纳"
+  },
+  "Sihanoukville": {
+    "ko": "시아누크빌",
+    "ja": "シハヌークビル",
+    "es": "Sihanoukville",
+    "zh": "西哈努克城"
   },
   "Singapore": {
     "ko": "싱가포르",

@@ -819,5 +819,48 @@
       ]
     },
     "_srcHash": "b0cebd4a2c5c6b5c"
+  },
+  "cambodia": {
+    "ko": {
+      "intro": "캄보디아에는 Smart Axiata, Cellcard, Metfone 세 개 통신사가 있으며, 여행자용 eSIM은 이 중 관광지 커버리지가 가장 강한 두 곳인 Smart와 Cellcard 망을 이용합니다. 현지 유심은 저렴하지만 매장에서 여권으로 등록해야 하는 반면, 도착 전에 미리 설치해둔 eSIM은 프놈펜이나 시엠립 공항에서 입국 심사를 통과하는 순간 바로 사용할 수 있습니다. 이는 두 공항 어디서든 이동 수단으로 그랩(Grab)이나 패스앱(PassApp) 같은 차량 호출 서비스를 이용해야 하기 때문에 중요한 부분입니다.",
+      "coverage": "프놈펜, 시엠립, 앙코르 유적 지역은 모두 4G 신호가 안정적이어서 앙코르와트에서 일출을 볼 때도 신호가 잡힙니다. 해안 지역인 캄포트, 켑, 시아누크빌도 커버리지가 좋은 편입니다. 반면 시골 지역으로 갈수록 신호가 약해지는데, 카다멈 산맥, 크라체 북쪽의 메콩강 일대, 몬둘키리 산간 지역은 3G로 떨어지거나 아예 신호가 없을 수 있고, 코롱(Koh Rong)이나 코롱삼로엠(Koh Rong Samloem) 같은 섬들도 주요 해변을 벗어나면 신호가 들쭉날쭉합니다.",
+      "tips": [
+        "섬 여행 전에는 오프라인 지도를 미리 다운로드해두세요: 코롱과 코롱삼로엠은 어느 통신사를 쓰든 선착장 해변을 벗어나면 신호가 끊깁니다.",
+        "패스앱과 그랩 모두 도착하는 순간부터 데이터가 필요하므로, 공항 입국장을 나서기 전에 eSIM을 데이터 회선으로 설정해두세요.",
+        "앙코르 유적지 내부에서는 주요 사원 근처에서는 신호가 잘 잡히지만, 반테아이 스레이나 벵 멜레아 같은 외곽 코스에서는 신호가 약해지니 티켓 QR 코드는 미리 스크린샷을 찍어두세요.",
+        "지방에서는 정전이 흔한데, 정전 중에도 노트북에 테더링해줄 수 있는 휴대폰이 게스트하우스의 유일한 인터넷 수단이 되는 경우가 많습니다."
+      ]
+    },
+    "ja": {
+      "intro": "カンボジアでは、Smart Axiata、Cellcard、Metfoneの3つの通信会社がサービスを展開しており、旅行者向けeSIMはこのうち観光エリアでのカバー力が特に高いSmartまたはCellcardの回線を利用します。現地SIMは安価ですが、購入にはカウンターでのパスポート登録が必要です。一方、事前にインストールしておいたeSIMなら、プノンペンやシェムリアップの空港でイミグレーションを通過した瞬間から使えます。これは、どちらの空港からもGrabやPassAppといった配車アプリが移動手段の要となるため、非常に重要なポイントです。",
+      "coverage": "プノンペン、シェムリアップ、そしてアンコール遺跡群一帯は4G回線が安定しており、アンコールワットでの日の出鑑賞中も問題なく電波が入ります。沿岸部のカンポットやケップ、シアヌークビルも良好な通信環境です。一方、地方に行くと電波は弱くなります。カルダモン山脈、クラチエより北のメコン川流域、モンドルキリの丘陵地帯では3G、あるいは圏外になることもあり、離島(コーロン島、コーロンサンレム島)もメインビーチから離れると電波が不安定になります。",
+      "tips": [
+        "離島に行く前にはオフラインマップをダウンロードしておきましょう。コーロン島やコーロンサンレム島では、どの通信会社を使っていても、桟橋周辺のビーチを離れると電波が入らなくなります。",
+        "PassAppもGrabも、着陸した瞬間からデータ通信が必要になります。空港の到着ロビーを出る前に、eSIMをメインのデータ回線として設定しておきましょう。",
+        "アンコール遺跡群内では主要な寺院付近は電波状態が良好ですが、バンテアイ・スレイやベンメリアといった離れた周回ルートでは電波が弱くなります。事前にチケットのQRコードのスクリーンショットを撮っておくことをおすすめします。",
+        "地方では停電がよく起こります。停電中でもノートパソコンにテザリングできるスマートフォンが、ゲストハウスにとって唯一のインターネット手段になることも少なくありません。"
+      ]
+    },
+    "es": {
+      "intro": "Camboya funciona con tres operadoras —Smart Axiata, Cellcard y Metfone—, y las eSIM para viajeros funcionan sobre Smart o Cellcard, las dos con mejor cobertura en zonas turísticas. Las SIM locales son baratas, pero exigen registrar el pasaporte en un mostrador; en cambio, una eSIM instalada antes de aterrizar funciona en el instante en que pasas inmigración en el aeropuerto de Phnom Penh o Siem Reap, algo clave porque el transporte con apps (Grab y PassApp) es la forma de moverte desde cualquiera de las dos terminales.",
+      "coverage": "Phnom Penh, Siem Reap y la zona de los templos de Angkor tienen buena cobertura 4G: tendrás señal en Angkor Wat para ver el amanecer. La costa de Kampot, Kep y Sihanoukville también está bien cubierta. La señal se debilita en el campo: las montañas de los Cardamomos, tramos del Mekong al norte de Kratie y las colinas de Mondulkiri pueden bajar a 3G o quedarse sin señal, y en las islas (Koh Rong, Koh Rong Samloem) la cobertura es irregular lejos de las playas principales.",
+      "tips": [
+        "Descarga mapas offline antes de ir a las islas: en Koh Rong y Koh Rong Samloem se pierde la señal lejos de las playas del muelle, sea cual sea tu operadora.",
+        "PassApp y Grab necesitan datos desde el momento en que aterrizas: configura la eSIM como tu línea de datos antes de salir de la sala de llegadas del aeropuerto.",
+        "Dentro del Parque Arqueológico de Angkor la señal es buena cerca de los templos principales, pero se pierde en los circuitos más alejados (Banteay Srei, Beng Mealea): haz una captura de pantalla del código QR de tu entrada de antemano.",
+        "En las provincias son frecuentes los cortes de electricidad; un teléfono que comparta datos con un portátil durante el apagón suele ser la única conexión a internet que tiene un guesthouse."
+      ]
+    },
+    "zh": {
+      "intro": "柬埔寨有三大运营商——Smart Axiata、Cellcard 和 Metfone,面向游客的 eSIM 主要接入 Smart 或 Cellcard,这两家在旅游区的信号覆盖最强。当地实体 SIM 卡便宜,但需要在柜台用护照登记办理;而提前在国内装好的 eSIM,一落地就能在金边或暹粒机场入境后立即使用——这一点很关键,因为无论从哪个航站楼出来,叫车(Grab 和 PassApp)都是出行的主要方式,而叫车全靠数据网络。",
+      "coverage": "金边、暹粒以及吴哥窟寺庙群一带的 4G 信号都很稳定——在吴哥窟看日出时也能保持信号。沿海的贡布、白马市(Kep)和西哈努克市信号覆盖也不错。但到了乡村地区信号就会变弱:豆蔻山脉、桔井以北的湄公河沿岸,以及蒙多基里的山地,信号可能降到 3G 甚至完全没有;离岛(戈公岛、戈公桑绿岛)在主要海滩以外的地方信号也时断时续。",
+      "tips": [
+        "前往离岛前请提前下载离线地图:无论用哪家运营商,戈公岛和戈公桑绿岛在码头海滩以外的区域都会失去信号。",
+        "PassApp 和 Grab 从你一落地就需要用到数据网络——请在离开机场到达大厅之前,先把 eSIM 设为默认数据线路。",
+        "在吴哥考古公园内,主要寺庙附近信号良好,但在偏远路线(如女王宫、崩密列)信号会变弱——建议提前截图保存门票二维码。",
+        "外省地区经常停电,这时手机用热点给笔记本电脑连网,往往是客栈唯一能用的网络。"
+      ]
+    },
+    "_srcHash": "35c8f0ab84e46d3d"
   }
 }

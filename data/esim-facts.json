@@ -307,5 +307,21 @@
       "The Afrosiyob fast trains have no onboard WiFi — download entertainment and your next city’s maps before boarding.",
       "Hotel and cafe WiFi in tourist cities is common but slow; treat it as backup rather than your main connection."
     ]
+  },
+  "cambodia": {
+    "name": "Cambodia",
+    "carriers": [
+      "Smart Axiata",
+      "Cellcard",
+      "Metfone"
+    ],
+    "intro": "Cambodia runs on three networks — Smart Axiata, Cellcard and Metfone — and travel eSIMs ride on Smart or Cellcard, the two with the strongest tourist-area coverage. Local SIMs are cheap but require passport registration at a counter; an eSIM installed before you land works the moment you clear immigration at Phnom Penh or Siem Reap airport, which matters because ride-hailing (Grab and PassApp) is how you get anywhere from either terminal.",
+    "coverage": "Phnom Penh, Siem Reap and the Angkor temple zone all have solid 4G — you will have signal at Angkor Wat for sunrise. Coastal Kampot, Kep and Sihanoukville are well covered too. It thins out in the countryside: the Cardamom Mountains, stretches of the Mekong north of Kratie, and the Mondulkiri hills can drop to 3G or nothing, and the islands (Koh Rong, Koh Rong Samloem) have patchy signal away from the main beaches.",
+    "tips": [
+      "Download offline maps before island trips: Koh Rong and Koh Rong Samloem lose signal away from the pier beaches, whichever network you are on.",
+      "PassApp and Grab both need data from the moment you land — set the eSIM as your data line before leaving the airport arrivals hall.",
+      "Inside the Angkor Archaeological Park signal is good near the main temples but drops on the remote circuits (Banteay Srei, Beng Mealea) — screenshot your ticket QR beforehand.",
+      "Power cuts happen in the provinces; a phone that tethers a laptop through the outage is often the only internet a guesthouse has."
+    ]
   }
 }

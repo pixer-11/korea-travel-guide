@@ -799,6 +799,8 @@ const COUNTRY_LANG = {
   // Uzbek is unambiguously local; Russian is also widely used by locals but is
   // equally the language of the biggest tourist group, so only 'uz' counts.
   Uzbekistan: 'uz',
+  // Khmer is unambiguously local — an English review in Siem Reap is a tourist.
+  Cambodia: 'km',
 };
 // This map is hand-maintained while data/countries.json is the source of truth
 // for which countries exist — so a NEW country silently gets `undefined` and

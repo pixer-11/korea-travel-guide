@@ -518,6 +518,30 @@
         "Chimgan"
       ],
       "continent": "Asia"
+    },
+    {
+      "name": "Cambodia",
+      "iso2": "kh",
+      "priority": 18,
+      "slug": "cambodia",
+      "flag": "🇰🇭",
+      "active": true,
+      "blurb": "Angkor's temple cities, Mekong river towns and a food scene finding its confidence — beyond the ruins, Cambodia rewards slow travel.",
+      "regions": [
+        "Siem Reap",
+        "Phnom Penh",
+        "Battambang",
+        "Kampot",
+        "Kep",
+        "Sihanoukville",
+        "Koh Rong",
+        "Kratie",
+        "Banlung",
+        "Sen Monorom",
+        "Kampong Cham",
+        "Poipet"
+      ],
+      "continent": "Asia"
     }
   ]
 }

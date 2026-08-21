@@ -1265,6 +1265,237 @@
       "topic": "Beldersay Cable Car",
       "category": "attraction",
       "query": "Beldersay cable car Chimgan Uzbekistan"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Angkor Wat",
+      "category": "attraction",
+      "query": "Angkor Wat temple Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Bayon Temple",
+      "category": "attraction",
+      "query": "Bayon Temple Angkor Thom Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Ta Prohm",
+      "category": "attraction",
+      "query": "Ta Prohm temple Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Banteay Srei",
+      "category": "attraction",
+      "query": "Banteay Srei temple Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Angkor Thom South Gate",
+      "category": "attraction",
+      "query": "Angkor Thom South Gate Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Preah Khan",
+      "category": "attraction",
+      "query": "Preah Khan temple Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Phnom Bakheng",
+      "category": "attraction",
+      "query": "Phnom Bakheng sunset temple Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Angkor National Museum",
+      "category": "attraction",
+      "query": "Angkor National Museum Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Psar Chas Old Market",
+      "category": "hidden-gem",
+      "query": "Psar Chas Old Market Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Phare Cambodian Circus",
+      "category": "attraction",
+      "query": "Phare the Cambodian Circus Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Wat Bo",
+      "category": "hidden-gem",
+      "query": "Wat Bo pagoda Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Malis Siem Reap",
+      "category": "restaurant",
+      "query": "Malis restaurant Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Siem Reap",
+      "topic": "Chanrey Tree",
+      "category": "restaurant",
+      "query": "Chanrey Tree Khmer restaurant Siem Reap Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Royal Palace",
+      "category": "attraction",
+      "query": "Royal Palace Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Tuol Sleng Genocide Museum",
+      "category": "attraction",
+      "query": "Tuol Sleng Genocide Museum Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Wat Phnom",
+      "category": "attraction",
+      "query": "Wat Phnom temple Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Central Market Phsar Thmei",
+      "category": "attraction",
+      "query": "Central Market Phsar Thmei Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "National Museum of Cambodia",
+      "category": "attraction",
+      "query": "National Museum of Cambodia Phnom Penh"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Russian Market Toul Tom Poung",
+      "category": "hidden-gem",
+      "query": "Russian Market Toul Tom Poung Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Sisowath Quay Riverside",
+      "category": "hidden-gem",
+      "query": "Sisowath Quay riverside promenade Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Malis Phnom Penh",
+      "category": "restaurant",
+      "query": "Malis Cambodian restaurant Phnom Penh"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Phnom Penh",
+      "topic": "Romdeng",
+      "category": "restaurant",
+      "query": "Romdeng restaurant Phnom Penh Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Battambang",
+      "topic": "Battambang Bamboo Train",
+      "category": "attraction",
+      "query": "Bamboo Train Norry Battambang Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Battambang",
+      "topic": "Phnom Sampeau",
+      "category": "attraction",
+      "query": "Phnom Sampeau bat caves Battambang Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Battambang",
+      "topic": "Psar Nat Market",
+      "category": "hidden-gem",
+      "query": "Psar Nat central market Battambang Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Kampot",
+      "topic": "Bokor Hill Station",
+      "category": "attraction",
+      "query": "Bokor Hill Station national park Kampot Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Kampot",
+      "topic": "Kampot Riverside",
+      "category": "hidden-gem",
+      "query": "Kampot riverside old town Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Kampot",
+      "topic": "La Plantation Pepper Farm",
+      "category": "attraction",
+      "query": "La Plantation pepper farm Kampot Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Kep",
+      "topic": "Kep Crab Market",
+      "category": "attraction",
+      "query": "Kep Crab Market Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Kep",
+      "topic": "Kep National Park",
+      "category": "attraction",
+      "query": "Kep National Park hiking trail Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Kratie",
+      "topic": "Mekong Irrawaddy Dolphins Kampi",
+      "category": "attraction",
+      "query": "Kampi Irrawaddy dolphin viewing Kratie Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Koh Rong",
+      "topic": "Long Set Beach",
+      "category": "attraction",
+      "query": "Long Set Beach 4K Beach Koh Rong Cambodia"
+    },
+    {
+      "country": "Cambodia",
+      "region": "Sihanoukville",
+      "topic": "Otres Beach",
+      "category": "attraction",
+      "query": "Otres Beach Sihanoukville Cambodia"
     }
   ]
 }
