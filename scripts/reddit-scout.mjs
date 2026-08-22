@@ -141,7 +141,15 @@ Use the submit_card tool.`;
     const TAG = /<\/?(answer_ko|why_ko|answer_en|answer|why)\b[^>]*>/gi;
     const hasTag = (s) => /<\/?(answer_ko|why_ko|answer_en|answer|why)\b/i.test(String(s || '')); // non-global: .test() on a /g regex is stateful
     const lift = (field) => (String(j.why_ko || '') + '\n' + String(j.answer_ko || '')).match(new RegExp(`<${field}>([\\s\\S]*?)(?:<\\/${field}>|$)`, 'i'))?.[1]?.trim();
-    if (!j.answer_ko || hasTag(j.answer_ko)) j.answer_ko = lift('answer_ko') || j.answer_ko;
+    if (!j.answer_ko || hasTag(j.answer_ko)) {
+      const lifted = lift('answer_ko');
+      if (lifted) {
+        j.answer_ko = lifted;
+        // The answer came out of why_ko — take the tagged segment with it, or
+        // the 'why' line prints the whole translation a second time.
+        j.why_ko = String(j.why_ko || '').replace(/<answer_ko>[\s\S]*?(?:<\/answer_ko>|$)/i, '');
+      }
+    }
     if (!j.why_ko || hasTag(j.why_ko)) j.why_ko = lift('why_ko') || j.why_ko;
     for (const k of ['why_ko', 'answer_ko', 'answer_en']) {
       j[k] = String(j[k] ?? '').replace(TAG, '').replace(/\n{3,}/g, '\n\n').trim();
