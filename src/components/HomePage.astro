@@ -242,7 +242,10 @@ const fmtEventDates = (p: any) => {
   <section class="hero-wall">
     <div class="wall-rows" aria-hidden="true">
       <div class="wall-row r1">
-        {[...wallRow1, ...wallRow1].map((im) => <img src={im.url} alt="" width="640" height="427" decoding="async" />)}
+        {/* A phone shows two or three of these; the rest sat offscreen in the
+            marquee and still downloaded — 24 wall images, ~1MB, on a 375px
+            screen (measured 2026-08-22). Only the first three are eager. */}
+        {[...wallRow1, ...wallRow1].map((im, i) => <img src={im.url} alt="" width="640" height="427" loading={i < 3 ? 'eager' : 'lazy'} decoding="async" />)}
       </div>
       <div class="wall-row r2">
         {[...wallRow2, ...wallRow2].map((im) => <img src={im.url} alt="" width="640" height="427" loading="lazy" decoding="async" />)}

@@ -126,10 +126,16 @@ const jsonLd = {
   {past.length > 0 && (
     <section class="section band">
       <div class="wrap">
-        <div class="rule-head"><h2 class="kicker">{t('ev.pastEvents')}</h2></div>
-        <div class="grid">
-          {past.map((post) => <PostCard {...cardProps(post)} />)}
-        </div>
+        {/* Folded by default: 37 ended events rendered as full cards made the
+            mobile page 45,000px tall under the 64 upcoming ones (2026-08-22).
+            The archive still ships in the HTML (indexable, linkable) — it just
+            no longer stands between the reader and the footer. */}
+        <details class="past-events">
+          <summary class="rule-head"><h2 class="kicker">{t('ev.pastEvents')} ({past.length})</h2></summary>
+          <div class="grid">
+            {past.map((post) => <PostCard {...cardProps(post)} />)}
+          </div>
+        </details>
       </div>
     </section>
   )}
@@ -140,3 +146,11 @@ const jsonLd = {
     dek={t('ev.neverMissDekGlobal')}
   />
 </BaseLayout>
+
+<style>
+  .past-events > summary { cursor: pointer; list-style: none; }
+  .past-events > summary::-webkit-details-marker { display: none; }
+  .past-events > summary .kicker::after { content: ' ▾'; }
+  .past-events[open] > summary .kicker::after { content: ' ▴'; }
+  .past-events > .grid { margin-top: 1rem; }
+</style>
