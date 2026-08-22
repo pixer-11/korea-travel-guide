@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 9.5605841
   lng: 100.0283669
+  phone: '+66 80 636 0391'
+  openingHours:
+    - 'Monday: 1:00 – 11:00 PM'
+    - 'Tuesday: 1:00 – 11:00 PM'
+    - 'Wednesday: 1:00 – 11:00 PM'
+    - 'Thursday: 1:00 – 11:00 PM'
+    - 'Friday: 1:00 – 11:00 PM'
+    - 'Saturday: 1:00 – 11:00 PM'
+    - 'Sunday: 1:00 – 11:00 PM'
 tags:
   - koh samui
   - local restaurant

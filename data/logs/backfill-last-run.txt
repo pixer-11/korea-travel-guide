@@ -1,29 +1,29 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
 Priority: 117 itinerary stop(s) queued first
-  – bangkok-saladaeng.md: nothing new (resting 60d)
-  – bangkok-the-grand-palace.md: nothing new (resting 60d)
-  – barcelona-ciutadella-park.md: nothing new (resting 60d)
-  – barcelona-la-rambla.md: nothing new (resting 60d)
-  – barcelona-placa-nova.md: nothing new (resting 60d)
-  – bugis-bugis-street.md: nothing new (resting 60d)
-  – busan-cheongsapo.md: nothing new (resting 60d)
-  – busan-haeundae.md: nothing new (resting 60d)
-  – central-avenue-of-stars-hk.md: nothing new (resting 60d)
-  – chinatown-chinatown-heritage-centre.md: nothing new (resting 60d)
-  – hong-kong-victoria-harbour.md: nothing new (resting 60d)
-  – hong-kong-victoria-peak-lookout-point.md: nothing new (resting 60d)
-  – kampong-glam-kampong-glam.md: nothing new (resting 60d)
-  – katong-east-coast-park.md: nothing new (resting 60d)
-  ✓ lantau-island-silvermine-bay-beach.md +phone +7h hours
-  – little-india-tekka-centre.md: nothing new (resting 60d)
-  – new-york-the-channel-gardens.md: nothing new (resting 60d)
-  – new-york-times-square.md: nothing new (resting 60d)
-  – sai-kung-sai-kung-public-pier.md: nothing new (resting 60d)
-  ✓ sai-kung-sai-kung-town.md +7h hours
-  – sentosa-sentosa-sensoryscape.md: nothing new (resting 60d)
-  – seoul-bukchon-yukgyeong-photo-spot.md: nothing new (resting 60d)
-  – seoul-euljiro.md: nothing new (resting 60d)
-  – seoul-london-bagel-museum.md: nothing new (resting 60d)
-  – seoul-myeongdong-shopping-street.md: nothing new (resting 60d)
+  – sai-kung-sai-kung-town.md: nothing new (resting 60d)
+  – tokyo-fish-market-tsukiji-outer-market.md: nothing new (resting 60d)
+  – tokyo-fuglen-tokyo.md: nothing new (resting 60d)
+  – tokyo-meiji-jingu.md: nothing new (resting 60d)
+  – tokyo-senso-ji.md: nothing new (resting 60d)
+  – tokyo-teamlab-planets-tokyo-dmm.md: nothing new (resting 60d)
+  – tokyo-tokyo-ramen-street.md: nothing new (resting 60d)
+  – tsim-sha-tsui-tsim-sha-tsui-promenade.md: nothing new (resting 60d)
+  – bali-bingin-uluwatu-pak-gula.md: nothing new (resting 60d)
+  – bandung-hummingbird-eatery-space.md: nothing new (resting 60d)
+  – bugis-albert-centre-market-food-centre.md: nothing new (resting 60d)
+  – bunol-posada-venta-pilar.md: nothing new (resting 60d)
+  – causeway-bay-fashion-walk-food-street.md: nothing new (resting 60d)
+  – chiang-rai-khao-soi-restaurant.md: nothing new (resting 60d)
+  – chinatown-chinatown-complex.md: nothing new (resting 60d)
+  – fukuoka-yatai-mamichan.md: nothing new (resting 60d)
+  – gangneung-coffee-street.md: nothing new (resting 60d)
+  – gangneung-jumunjin-lighthouse.md: nothing new (resting 60d)
+  – gyeongju-hwangnidan-gil.md: nothing new (resting 60d)
+  – hiroshima-hiroshima-breakfast.md: nothing new (resting 60d)
+  – istanbul-kinu.md: nothing new (resting 60d)
+  ✓ kanazawa-kourin-sushi.md +phone +7h hours
+  ✓ koh-samui-izzy-s-specialty-coffee.md +phone +7h hours
+  ✓ koh-samui-salt-oak.md +phone +7h hours
+  ✓ krabi-into-the-forest.md +phone +7h hours
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 71, no-new-data 23, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 434 (APPLIED).
+BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 159, no-new-data 44, no-place 31, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 416 (APPLIED).

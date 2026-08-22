@@ -24,6 +24,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.569455999999995
   lng: 136.65854489999998
+  phone: '+81 76-231-5964'
+  openingHours:
+    - 'Monday: 11:30 AM – 1:30 PM, 5:30 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 1:30 PM, 5:30 – 9:30 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:30 AM – 1:30 PM, 5:30 – 9:30 PM'
+    - 'Friday: 11:30 AM – 1:30 PM, 5:30 – 9:30 PM'
+    - 'Saturday: 11:30 AM – 1:30 PM, 5:30 – 9:30 PM'
+    - 'Sunday: Closed'
 tags:
   - kanazawa
   - local restaurant

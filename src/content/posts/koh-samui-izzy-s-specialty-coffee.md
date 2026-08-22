@@ -25,6 +25,15 @@ place:
   lat: 9.5614575
   lng: 100.0211369
   priceLevel: 1
+  phone: '+66 63 269 1525'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
   - koh samui
   - trendy cafe
