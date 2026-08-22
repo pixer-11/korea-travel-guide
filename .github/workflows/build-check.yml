@@ -23,6 +23,21 @@ on:
   # "Retry build". Also the only way to redeploy after a change that touches
   # nothing in `paths` below (this file, for one).
   workflow_dispatch:
+  # The bots' own commits never woke this workflow. GitHub does not start
+  # workflows for pushes made with GITHUB_TOKEN (loop protection), so every
+  # `content: auto-generated posts` commit since the 08-10 move to Actions
+  # deploys sat on main until a HUMAN or the local og-mirror patrol happened
+  # to push something else — the last 12 deploys were all such pushes, and
+  # the day's posts went live ~10 hours late (next patrol at 05:30 KST).
+  # Found 2026-08-22: Cambodia's first ten guides were on main for 3 hours
+  # while /destinations still said "coming soon". workflow_run is exempt from
+  # that rule, so the content producers hand off here when they finish.
+  workflow_run:
+    workflows:
+      - 'Auto-generate & publish posts'
+      - 'Backfill countries to target'
+      - 'Discover current events (web search)'
+    types: [completed]
   push:
     branches: [main]
     paths:
@@ -83,8 +98,15 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # A producer that failed or was cancelled pushed nothing worth shipping;
+    # pushes and manual runs are unaffected by this condition.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v5
+        with:
+          # workflow_run checks out the triggering run's commit, which can be
+          # older than main by the time the chain finishes — always ship main.
+          ref: main
 
       - uses: actions/setup-node@v5
         with:
