@@ -146,8 +146,32 @@ try {
 
 // -------- split IG caption out of the response --------
 const igMatch = snippets.match(/\nIG:\s*([\s\S]*)$/);
-const igCaption = igMatch ? igMatch[1].trim() : '';
+const igCaptionRaw = igMatch ? igMatch[1].trim() : '';
 const threadsPart = igMatch ? snippets.slice(0, igMatch.index).trim() : snippets;
+// Kept in the run log: a card shipped with a lone '#' once and there was
+// nothing to diagnose from (2026-08-22).
+console.log('IG caption (raw from writer):\n' + igCaptionRaw);
+
+// Hashtags are DATA, not prose. The writer once returned the caption with a
+// bare '#' where the tags should have been (Ubud monkey forest, 2026-08-22)
+// and the owner got an unusable card. Whatever the model returns, the card
+// always ends with real tags built from the post's own record — place, city,
+// country, category — and the model's tags ride along only as extras.
+const tagify = (v) => String(v || '').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^A-Za-z0-9]+/g, '');
+const modelTags = igCaptionRaw.match(/#[\p{L}\p{N}_]{2,}/gu) || [];
+const captionBody = igCaptionRaw
+  .split('\n')
+  .map((l) => l.replace(/#[\p{L}\p{N}_]*/gu, '').replace(/[ \t]+$/, ''))
+  .join('\n')
+  .replace(/\n{3,}/g, '\n\n')
+  .trim();
+const ownTags = [
+  post.fm.place?.name, region, country,
+  post.fm.category === 'event' ? 'events' : post.fm.category === 'restaurant' ? 'foodie' : 'travelguide',
+  'travel', 'wanderatlas',
+].map(tagify).filter((t) => t.length >= 3).map((t) => '#' + t);
+const hashtags = [...new Set([...ownTags, ...modelTags])].slice(0, 10).join(' ');
+const igCaption = captionBody ? `${captionBody}\n\n${hashtags}` : '';
 
 // -------- compose Instagram image (1080×1350, pinterest-publish style) --------
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&apos;');
