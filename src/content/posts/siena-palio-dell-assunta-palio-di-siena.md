@@ -1,8 +1,6 @@
 ---
 title: 'Palio dell''Assunta (Palio di Siena): What to Know (Siena)'
-description: >-
-  Palio dell'Assunta (Palio di Siena) in Siena, Italy — August 16, 2026. What it
-  is, when and where, and how to plan around it.
+description: Palio dell'Assunta (Palio di Siena) in Siena, Italy — August 16, 2026. What it is, when and where, and how to plan around it.
 country: Italy
 region: Siena
 category: event
@@ -10,12 +8,10 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-16'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg/1920px-Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg/1920px-Palio_dell%27Assunta_2008_%28Tittia_Scompiglio%29.jpg
   credit: 'Photo: Enrico from Rome, Italy / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Palio_dell%27Assunta_2008_(Tittia_Scompiglio).jpg
+  source: https://commons.wikimedia.org/wiki/File:Palio_dell%27Assunta_2008_(Tittia_Scompiglio).jpg
   focus:
     x: 45
     'y': 35
@@ -23,49 +19,24 @@ gallery: []
 tags:
   - siena
   - event
-quickAnswer: >-
-  The Palio dell'Assunta ran on August 16, 2026, in Piazza del Campo, Siena — a
-  90-second bareback horse race between 10 of the city's 17 contrade
-  (neighborhood districts), preceded by hours of pageantry and a slow historical
-  procession. Free standing spots in the piazza's center opened hours before the
-  race and filled up fast; those wanting a seat needed to book a spot on a
-  balcony or in temporary stands through a contrada, hotel, or authorized
-  reseller well in advance. Ticket and set-time details were published on
-  Siena's official tourism channels.
+quickAnswer: The Palio dell'Assunta ran on August 16, 2026, in Piazza del Campo, Siena — a 90-second bareback horse race between 10 of the city's 17 contrade (neighborhood districts), preceded by hours of pageantry and a slow historical procession. Free standing spots in the piazza's center opened hours before the race and filled up fast; those wanting a seat needed to book a spot on a balcony or in temporary stands through a contrada, hotel, or authorized reseller well in advance.
 faq:
   - q: Do I need a ticket to watch the Palio?
-    a: >-
-      Standing in the central area of Piazza del Campo is free but requires
-      arriving hours early to claim space. Seated views from bleachers or
-      balconies require advance booking through hotels, contrade, or authorized
-      resellers — there is no official public box office.
+    a: Standing in the central area of Piazza del Campo is free but requires arriving hours early to claim space. Seated views from bleachers or balconies require advance booking through hotels, contrade, or authorized resellers — there is no official public box office.
   - q: How long does the actual race last?
-    a: >-
-      The race itself is extremely short, around 90 seconds for three laps of
-      the Campo, but the surrounding procession (Corteo Storico) and pre-race
-      ceremonies can take most of the afternoon and evening.
+    a: The race itself is extremely short, around 90 seconds for three laps of the Campo, but the surrounding procession (Corteo Storico) and pre-race ceremonies can take most of the afternoon and evening.
   - q: What's the best way to get to Siena for the event?
-    a: >-
-      Train or bus from Florence (about 90 minutes) or Rome, then walk into the
-      closed-to-traffic historic center; parking near the Campo is not possible
-      on race day.
+    a: Train or bus from Florence (about 90 minutes) or Rome, then walk into the closed-to-traffic historic center; parking near the Campo is not possible on race day.
   - q: Should I go to the actual race or a trial (prova)?
-    a: >-
-      If you want a full experience without extreme crowding, attend one of the
-      trial races held in the days before August 16 — they're free, much less
-      packed, and give a genuine feel for the course.
+    a: If you want a full experience without extreme crowding, attend one of the trial races held in the days before August 16 — they're free, much less packed, and give a genuine feel for the course.
   - q: Is the date fixed every year?
-    a: >-
-      The Palio dell'Assunta is traditionally held on August 16, but always
-      verify the current year's exact date, start time, and any last-minute
-      changes via Siena's official tourism office before finalizing travel
-      plans.
+    a: The Palio dell'Assunta is traditionally held on August 16, but always verify the current year's exact date, start time, and any last-minute changes via Siena's official tourism office before finalizing travel plans.
 aiGenerated: true
 draft: false
 eventRecurring: true
 eventOrganizer:
   name: Comune di Siena
-  url: 'https://www.comune.siena.it'
+  url: https://www.comune.siena.it
 ---
 
 ## Why go

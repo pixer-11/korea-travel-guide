@@ -15,7 +15,7 @@ tags:
 quickAnswer: Airtime Asia 2026 runs August 13–16 in Da Nang and Hoi An, Vietnam, spreading over 40 artists and 15+ venues across the two cities in a mix of club nights, day parties, panel talks and radio broadcasts. Book flights into Da Nang International Airport (DAD) and a place to stay in either city well ahead, since venues and full lineup details are still being confirmed on the official festival channels — check those before locking in tickets or a schedule.
 faq:
   - q: What are the exact dates of Airtime Asia 2026?
-    a: August 13–16, 2026, held across Da Nang and Hoi An, Vietnam. Ticket and set-time details were published on the official festival site.
+    a: August 13–16, 2026, held across Da Nang and Hoi An, Vietnam. Ticket and set-time details were expected to appear on the official festival site.
   - q: Which airport should I fly into?
     a: Da Nang International Airport (DAD), which has direct international connections from several regional hubs in Southeast and East Asia.
   - q: Do I need to choose between staying in Da Nang or Hoi An?

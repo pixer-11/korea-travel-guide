@@ -26,14 +26,15 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { isSentenceEnd } from '../src/lib/sentence-boundary.mjs';
 import { preservesSubstance } from '../src/lib/rewrite-guard.mjs';
+// The audit (validate-content.mjs) reads the same two patterns from here, so a
+// shape one side learns cannot go missing on the other.
+import { OFFENDING_CLAIM } from '../src/lib/ended-event-claims.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const DRY = process.env.DRY === '1';
 const TODAY = new Date().toISOString().slice(0, 10);
 const MODEL = 'claude-sonnet-5';
 
-// Same shapes validate-content.mjs flags — keep the two in step.
-const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed)|closer\s+to\s+the\s+(?:event|date|festival|show)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)/i;
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
@@ -53,7 +54,8 @@ ${residue ? `\nA previous attempt left this phrasing in place: "${residue}". Tha
 
 Rewrite it so it reads correctly AFTER the event, following these rules exactly:
 - Keep every concrete fact (dates, venue, city, names, prices, numbers) exactly as written.
-- Change forward-looking guidance into past or neutral phrasing. "Check the official site closer to the date" → drop it or make it "Ticket and set-time details were published on the official site." "The lineup will be announced" → "The lineup was announced closer to the event."
+- Change forward-looking guidance into past or neutral phrasing ONLY where the text already carries the fact. "Doors open at 6pm" → "Doors opened at 6pm."
+- If a sentence only told the reader to go and find something out ("check the official site closer to the date", "the lineup will be announced"), that means WE NEVER LEARNED THE ANSWER. DELETE that sentence. Do not convert it into a claim that it happened: writing "details were published on the official site" invents a fact exactly as much as inventing the attendance would. An earlier version of this prompt offered that sentence as a model answer and put it into fifteen live guides.
 - NEVER invent what happened. You do not know attendance, weather, who played, or whether it went well. Do not add any outcome.
 - Do not add a sentence saying the event has ended — the page already shows that.
 - Keep the same language, register and roughly the same length.
@@ -88,9 +90,9 @@ async function rewriteUntilClean(kind, text, title, endedOn, tries = 3) {
       console.log(`   ⚠️  attempt ${i + 1} came back short or cut off — discarded`);
       continue;
     }
-    if (!FUTURE_PROMISE.test(out)) return out;
+    if (!OFFENDING_CLAIM.test(out)) return out;
     best = out;
-    residue = out.match(FUTURE_PROMISE)?.[0] ?? null;
+    residue = out.match(OFFENDING_CLAIM)?.[0] ?? null;
   }
   // Fall back from the ORIGINAL text, not from a rejected attempt: the
   // sentence pass edits in place, so it inherits whatever it is handed.
@@ -118,21 +120,21 @@ async function sentenceLevelPass(kind, text, title, endedOn) {
   let touched = false;
   for (let pi = 0; pi < paras.length; pi++) {
     const para = paras[pi];
-    if (!FUTURE_PROMISE.test(para) || /^\s*(#{1,6}\s|[-*]\s|\d+\.\s|\|)/.test(para)) continue;
+    if (!OFFENDING_CLAIM.test(para) || /^\s*(#{1,6}\s|[-*]\s|\d+\.\s|\|)/.test(para)) continue;
     const kept = [];
     for (const sentence of splitSentences(para)) {
-      if (!FUTURE_PROMISE.test(sentence)) { kept.push(sentence); continue; }
-      const fixed = await rewrite('single sentence', sentence.trim(), title, endedOn, sentence.match(FUTURE_PROMISE)?.[0]);
+      if (!OFFENDING_CLAIM.test(sentence)) { kept.push(sentence); continue; }
+      const fixed = await rewrite('single sentence', sentence.trim(), title, endedOn, sentence.match(OFFENDING_CLAIM)?.[0]);
       touched = true;
-      if (fixed && !FUTURE_PROMISE.test(fixed) && fixed.length < sentence.length * 3) kept.push(` ${fixed}`);
+      if (fixed && !OFFENDING_CLAIM.test(fixed) && fixed.length < sentence.length * 3) kept.push(` ${fixed}`);
       // else: dropped
     }
     paras[pi] = kept.join('').replace(/\s+/g, ' ').trim();
   }
   const out = paras.filter((p) => p.length).join(NL + NL);
   if (!touched) { console.log('   ↳ sentence pass found nothing to edit'); return null; }
-  if (FUTURE_PROMISE.test(out)) {
-    console.log(`   ↳ sentence pass left "${out.match(FUTURE_PROMISE)?.[0]}"`);
+  if (OFFENDING_CLAIM.test(out)) {
+    console.log(`   ↳ sentence pass left "${out.match(OFFENDING_CLAIM)?.[0]}"`);
     return null;
   }
   // A sentence or two removed from a 4,000-character guide is a small loss; a
@@ -169,9 +171,9 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
 
   const body = raw.slice(cut + 4);
   const hits = [];
-  if (FUTURE_PROMISE.test(String(fm.quickAnswer || ''))) hits.push('quickAnswer');
-  if (Array.isArray(fm.faq) && fm.faq.some((x) => FUTURE_PROMISE.test(String(x?.a || '')))) hits.push('faq');
-  if (FUTURE_PROMISE.test(body)) hits.push('body');
+  if (OFFENDING_CLAIM.test(String(fm.quickAnswer || ''))) hits.push('quickAnswer');
+  if (Array.isArray(fm.faq) && fm.faq.some((x) => OFFENDING_CLAIM.test(String(x?.a || '')))) hits.push('faq');
+  if (OFFENDING_CLAIM.test(body)) hits.push('body');
   if (!hits.length) continue;
 
   console.log(`\n📝 ${f} (ended ${end}) — ${hits.join(', ')}`);
@@ -186,7 +188,7 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   if (hits.includes('faq')) {
     nextFm.faq = [];
     for (const item of fm.faq) {
-      if (!FUTURE_PROMISE.test(String(item?.a || ''))) { nextFm.faq.push(item); continue; }
+      if (!OFFENDING_CLAIM.test(String(item?.a || ''))) { nextFm.faq.push(item); continue; }
       const out = await rewriteUntilClean('FAQ answer', item.a, fm.title, end);
       nextFm.faq.push(out ? { ...item, a: out } : item);
     }

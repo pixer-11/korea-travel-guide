@@ -20,7 +20,7 @@ faq:
   - q: Where is the festival held and how do I get there?
     a: The venue hasn't been publicly finalized yet. Jakarta festivals of this scale often use large outdoor grounds accessible via the MRT and Gojek/Grab ride-hailing — but wait for the official venue announcement before booking accommodation nearby.
   - q: How much do tickets cost?
-    a: Prices had not been announced ahead of time. Presale and ticket-tier details were published on the official Sounds Project site and social media.
+    a: Prices had not been announced ahead of time. Presale and ticket-tier details for The Sounds Project 2026 in Jakarta were expected on the official site and social media.
   - q: Is it a good idea to fly in specifically for this?
     a: If you're a fan of Jet or the featured Indonesian acts, yes — but hold off on booking flights until the venue and full schedule are confirmed, since a three-day event spread across stages can shift its daily lineup order.
 aiGenerated: true

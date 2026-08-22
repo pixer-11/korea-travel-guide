@@ -24,6 +24,7 @@ import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
+import { FUTURE_PROMISE, FABRICATED_AVAILABILITY } from '../src/lib/ended-event-claims.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -365,7 +366,6 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // timeless descriptive future ("street circuits mean the cars will run through
   // the city") is not flagged.
   if (p.category === 'event' && p.eventEnd && isoDay(p.eventEnd) < today) {
-    const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|closer\s+to\s+the\s+(?:event|date|festival|show)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)/i;
     // Every reader-visible prose surface, not just the body.
     const surfaces = [
       ['prose', p.body],
@@ -376,11 +376,15 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
       // is a timeless "K-pop shows typically sell through Interpark or Yes24".
       ['FAQ', Array.isArray(p.faq) ? p.faq.map((x) => x?.a ?? '').join(' ') : ''],
     ];
-    for (const [where, text] of surfaces) {
-      const m = String(text || '').match(FUTURE_PROMISE);
-      if (m) {
-        issues.push(`ENDED-EVENT-FUTURE-TENSE: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${m[0]}"`);
-        break;
+    // Two opposite failures, reported separately because they need different
+    // repairs: a leftover promise is stale, an invented past is false.
+    for (const [label, pattern] of [['FUTURE-TENSE', FUTURE_PROMISE], ['FABRICATED-AVAILABILITY', FABRICATED_AVAILABILITY]]) {
+      for (const [where, text] of surfaces) {
+        const m = String(text || '').match(pattern);
+        if (m) {
+          issues.push(`ENDED-EVENT-${label}: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${m[0]}"`);
+          break;
+        }
       }
     }
   }

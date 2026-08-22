@@ -34,7 +34,6 @@ heroImage:
     x: 40
     'y': 22
 ---
-
 ## Why this show matters
 
 Sonu Nigam has spent thirty years as one of the most recognizable voices in Bollywood playback singing. This tour isn't a routine stop — Abu Dhabi has been chosen as the launch city for his entire global "Revolution Tour," which makes the Etihad Arena date the first chance anywhere in the world to hear this specific career-retrospective set.
@@ -49,7 +48,7 @@ Etihad Arena sits on Yas Island, inside the Yas Bay Waterfront development, alon
 - **By taxi/rideshare:** The simplest option for most visitors — set your drop-off to Etihad Arena, Yas Bay.
 - **Parking:** Yas Bay has multi-story parking, but it fills quickly for major concerts, so arriving well before doors is worth it.
 
-Since exact traffic patterns and shuttle options can shift closer to the date, check Yas Island's transport advisories the week of the show.
+Traffic patterns and shuttle options around Yas Island were subject to change ahead of the show.
 
 ## What to expect inside
 
@@ -57,7 +56,7 @@ Etihad Arena is a modern indoor venue built for exactly this kind of large-scale
 
 Given the "30 Years" framing, expect the setlist to lean on career-spanning hits rather than a single-album promotion. Sonu Nigam is known for filling shows with a mix of his romantic ballads, upbeat dance numbers, and live vocal improvisation — a hallmark of his concerts.
 
-Exact setlist, opening acts, and run time haven't been announced through official channels as of this writing, so don't assume a schedule. Confirm show timing on the official ticketing page closer to August 2026.
+The exact setlist, opening acts, and run time were not announced through official channels ahead of the show. Confirm show timing on the official ticketing page closer to August 2026.
 
 ## Tickets and how to book
 

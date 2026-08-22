@@ -52,7 +52,7 @@ Axiata Arena is KL's premier indoor arena, purpose-built for concerts and major 
 
 ## Tickets and timing
 
-The confirmed date was August 7, 2026, at Axiata Arena. Ticket and set-time details were published on the official F✦FOREVER tour announcement channels and Axiata Arena's official venue page.
+The confirmed date was August 7, 2026, at Axiata Arena. Ticket and set-time details were available on the official F✦FOREVER tour announcement channels and Axiata Arena's official venue page.
 
 - Tickets were sold through authorized ticketing partners — reunion tours like this attract scalpers and scam listings fast.
 

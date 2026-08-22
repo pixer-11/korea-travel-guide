@@ -14,7 +14,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - tokushima
@@ -24,7 +24,7 @@ faq:
   - q: What are the exact dates for 2026?
     a: August 11–15, 2026, though you should confirm this on the official Awa Odori Tokushima site in case of any late changes.
   - q: Do I need a ticket to watch?
-    a: Free nagashi processions moved along public streets and could be watched by anyone, but the enclosed stage performances (engei-jou) typically required tickets, sold through official channels; details were published on the official site.
+    a: Free nagashi processions moved along public streets and could be watched by anyone, but the enclosed stage performances (engei-jou) typically required tickets, sold through official channels.
   - q: How do I get to central Tokushima for the festival?
     a: Fly into Tokushima Awaodori Airport, or take a JR train or highway bus from Osaka (about 2.5–3 hours); the festival streets are a 10–15 minute walk from Tokushima Station, and downtown closes to cars during the event.
   - q: Which night has the smallest crowds?

@@ -1,9 +1,7 @@
 ---
 draft: true
 title: 'BABYMONSTER "Choom" World Tour – Japan (Yokohama leg): What to Know (Yokohama)'
-description: >-
-  BABYMONSTER "Choom" World Tour – Japan (Yokohama leg) in Yokohama, Japan —
-  August 1-2, 2026. What it is, when and where, and how to plan around it.
+description: BABYMONSTER "Choom" World Tour – Japan (Yokohama leg) in Yokohama, Japan — August 1-2, 2026. What it is, when and where, and how to plan around it.
 country: Japan
 region: Yokohama
 category: event
@@ -11,49 +9,26 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: >-
-    https://images.unsplash.com/photo-1565569933219-1dae9e435512?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9rb2hhbWElMjBKYXBhbiUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIyMDMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: https://images.unsplash.com/photo-1565569933219-1dae9e435512?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9rb2hhbWElMjBKYXBhbiUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIyMDMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Nagatoshi Shimamura on Unsplash
   license: unsplash
-  source: >-
-    https://unsplash.com/@shima_giraffe?utm_source=korea_travel_guide&utm_medium=referral
+  source: https://unsplash.com/@shima_giraffe?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 tags:
   - yokohama
   - event
-quickAnswer: >-
-  BABYMONSTER's "Choom" World Tour hit Yokohama's Pia Arena MM on August 1–2,
-  2026, as part of an 11-show, six-city Japan run. Ticketing, doors times, and
-  set details were published on the group's official YG/BABYMONSTER channels and
-  the venue site. Pia Arena MM sits in the Minato Mirai waterfront district, a
-  short walk from Minatomirai Station.
+quickAnswer: BABYMONSTER's "Choom" World Tour hit Yokohama's Pia Arena MM on August 1–2, 2026, as part of an 11-show, six-city Japan run. Ticketing, doors times, and set details for the show were available via the group's official YG/BABYMONSTER channels and the venue site. Pia Arena MM sits in the Minato Mirai waterfront district, a short walk from Minatomirai Station.
 faq:
   - q: Where exactly is the Yokohama show taking place?
-    a: >-
-      Pia Arena MM, in the Minato Mirai waterfront district of Yokohama, on
-      August 1–2, 2026. Confirm the exact date assigned to each of the two
-      nights via official tour channels.
+    a: Pia Arena MM, in the Minato Mirai waterfront district of Yokohama, on August 1–2, 2026. Confirm the exact date assigned to each of the two nights via official tour channels.
   - q: How do I get to Pia Arena MM from central Tokyo?
-    a: >-
-      Take a train to Minatomirai Station (Minatomirai Line) or Sakuragicho
-      Station (JR Negishi Line), both roughly a 5–15 minute walk from the arena.
-      Total travel time from Shibuya or Shinjuku is typically 30–45 minutes.
+    a: Take a train to Minatomirai Station (Minatomirai Line) or Sakuragicho Station (JR Negishi Line), both roughly a 5–15 minute walk from the arena. Total travel time from Shibuya or Shinjuku is typically 30–45 minutes.
   - q: How much do tickets cost and how do I buy them?
-    a: >-
-      Official pricing and sales windows have not been detailed here; check
-      BABYMONSTER's and YG Entertainment's official accounts and authorized
-      ticketing partners, as major Japan tour dates often use a pre-registration
-      or lottery system.
+    a: Official pricing and sales windows have not been detailed here; check BABYMONSTER's and YG Entertainment's official accounts and authorized ticketing partners, as major Japan tour dates often use a pre-registration or lottery system.
   - q: How long is the show?
-    a: >-
-      Exact set length and doors/start times were not confirmed at time of
-      writing — arena K-pop shows in Japan commonly run around two hours with an
-      encore. Official start times were published on the official site.
+    a: Exact set length and doors/start times were not confirmed at time of writing — arena K-pop shows in Japan commonly run around two hours with an encore.
   - q: What else is worth doing near the venue?
-    a: >-
-      Minato Mirai has the Cosmo Clock 21 Ferris wheel, Landmark Tower, and Red
-      Brick Warehouse within walking distance, and Yokohama Chinatown is a short
-      trip away for a pre- or post-show meal.
+    a: Minato Mirai has the Cosmo Clock 21 Ferris wheel, Landmark Tower, and Red Brick Warehouse within walking distance, and Yokohama Chinatown is a short trip away for a pre- or post-show meal.
 aiGenerated: true
 eventRecurring: false
 ---

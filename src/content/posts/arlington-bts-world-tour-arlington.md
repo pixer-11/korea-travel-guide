@@ -10,7 +10,7 @@ eventEndDate: '2026-08-16'
 tags:
   - arlington
   - event
-quickAnswer: BTS brought their fourth world tour to AT&T Stadium in Arlington, Texas on August 15-16, 2026 — their first stadium run since the members completed South Korea's mandatory military service. Tickets were sold only through the official BTS/Big Hit Music tour channels and Ticketmaster/AT&T Stadium's verified box office, and gate times and lineup details were published on the official site.
+quickAnswer: BTS brought their fourth world tour to AT&T Stadium in Arlington, Texas on August 15-16, 2026 — their first stadium run since the members completed South Korea's mandatory military service. Tickets were sold only through the official BTS/Big Hit Music tour channels and Ticketmaster/AT&T Stadium's verified box office.
 faq:
   - q: What are the exact dates and times for BTS in Arlington?
     a: The dates were August 15-16, 2026 at AT&T Stadium. Exact gate and set times were not published at the time of writing; ticket confirmations and the official tour app carried that information.
