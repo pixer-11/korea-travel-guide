@@ -106,6 +106,8 @@ Write a genuinely helpful Reddit comment IF AND ONLY IF the editor's real experi
 - Only concrete facts you are confident are true and durable (geography, well-known transit, seasonal patterns). NEVER invent prices, current hours, or event dates.
 - If the question is outside the editor's credible experience, or an answer would need facts you can't be sure of, respond with SKIP.
 
+Fill each tool field separately as plain text: answer_en = the English reply only, why_ko = 1-2 Korean sentences only, answer_ko = the full Korean translation of answer_en only. Never wrap a field in XML/HTML tags and never put another field's content inside a field.
+
 Use the submit_card tool.`;
   try {
     const msg = await client.messages.create({
@@ -130,6 +132,27 @@ Use the submit_card tool.`;
     });
     const j = msg.content.find((b) => b.type === 'tool_use')?.input ?? {};
     seen.ids.push(p.id);
+    // The model sometimes writes the Korean fields as one blob with XML-ish
+    // tags — why_ko arrives as "…</answer_ko>\n<answer_ko>…</answer_ko>" and
+    // answer_ko is missing, so the card printed "답변 내용: undefined" (every
+    // day the owner looked, 2026-08-22). Salvage: lift a tagged answer out of
+    // whichever field carries it, then strip stray tags from every field. A
+    // card never prints "undefined"; a missing translation says so in Korean.
+    const TAG = /<\/?(answer_ko|why_ko|answer_en|answer|why)\b[^>]*>/gi;
+    const hasTag = (s) => /<\/?(answer_ko|why_ko|answer_en|answer|why)\b/i.test(String(s || '')); // non-global: .test() on a /g regex is stateful
+    const lift = (field) => (String(j.why_ko || '') + '\n' + String(j.answer_ko || '')).match(new RegExp(`<${field}>([\\s\\S]*?)(?:<\\/${field}>|$)`, 'i'))?.[1]?.trim();
+    if (!j.answer_ko || hasTag(j.answer_ko)) j.answer_ko = lift('answer_ko') || j.answer_ko;
+    if (!j.why_ko || hasTag(j.why_ko)) j.why_ko = lift('why_ko') || j.why_ko;
+    for (const k of ['why_ko', 'answer_ko', 'answer_en']) {
+      j[k] = String(j[k] ?? '').replace(TAG, '').replace(/\n{3,}/g, '\n\n').trim();
+    }
+    // why_ko that still contains the whole answer is the answer, not the why:
+    // keep the first paragraph as the why and move the rest into the answer.
+    if (!j.answer_ko && j.why_ko.length > 240) {
+      const [first, ...rest] = j.why_ko.split(/\n+/);
+      j.why_ko = first; j.answer_ko = rest.join('\n').trim();
+    }
+    if (!j.answer_ko) j.answer_ko = '(한국어 번역이 오지 않았습니다 — 위 영어 답변 참고)';
     if (j.verdict !== 'OK' || !j.answer_en) continue;
     // Warm-up hard guard: a draft that smuggles a URL or the site name never ships.
     if (/https?:\/\/|wanderatlas/i.test(j.answer_en)) { console.log(`  guard: dropped a draft carrying a link (${p.id})`); continue; }
