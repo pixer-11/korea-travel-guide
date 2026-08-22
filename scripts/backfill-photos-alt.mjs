@@ -374,7 +374,15 @@ for (const f of files) {
     // against THIS post, and the identity sweep recorded nothing. That is fixed
     // too (audit-photo-identity now writes its removals to the store), but this
     // gate is the one that also covers a candidate no one has ever tried.
-    const ident = await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName }, world);
+    // An EVENT found by its own name is a past edition by design, and a
+    // travelling event's past edition was held somewhere else: "Asian Games
+    // Hangzhou 2023" for the Nagoya 2026 guide was refused here twice as
+    // "Commons places this in Hangzhou, post says Nagoya" (2026-08-23). The
+    // place test is for venues; for a name-confirmed event it is wrong by
+    // construction. Venue finds and act finds keep the gate.
+    const ident = isEvent && cand.via === 'phrase'
+      ? { verdict: 'unknown', why: 'event found by name — past edition, place not tested' }
+      : await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName }, world);
     if (ident.verdict === 'contradicts') {
       console.log(`   ${slug}: identity rejects it (${ident.why}) — skipping`);
       remember(`identity: ${ident.why}`);

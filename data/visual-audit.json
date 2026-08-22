@@ -12153,5 +12153,17 @@
   "verdict": "MATCH",
   "reason": "patrol replace: 2024 Snooker Xi'an Grand Prix venue signage",
   "at": "2026-08-22T15:32:39.005Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/Asian_Games_Hangzhou_2023_-_43.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Hangzhou 2023 Games, not Nagoya 2026 edition",
+  "at": "2026-08-22T15:35:17.834Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Asian_Games_Hangzhou_2023_-_22.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Weightlifter at Asian Games competition event",
+  "at": "2026-08-22T15:35:30.124Z"
  }
 }
