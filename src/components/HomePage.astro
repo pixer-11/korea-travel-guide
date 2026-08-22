@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { pickFeatured } from '../lib/featuredItineraries.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Flag from './Flag.astro';
@@ -206,6 +207,12 @@ const busynessCount = posts.filter((p) => {
 // claims are all true of the product: distances, hours and quiet windows are
 // verified at build time, print CSS exists, and no page requires an account.
 const itins = (await getCollection('itineraries')).sort((a, b) => a.data.city.localeCompare(b.data.city));
+// The panel shows a HANDFUL, not the whole collection (owner, 2026-08-21:
+// "3~5 popular ones or a rotation, the rest behind 'all itineraries'").
+// Pinned flagships first, then two slots that rotate per ISO week — see
+// src/lib/featuredItineraries.mjs. The "{n} courses" meta keeps the TOTAL:
+// that line is a trust signal and must not shrink with the list.
+const featured = pickFeatured(itins, { pinned: ['Tokyo', 'Bangkok', 'Seoul'], rotate: 2 });
 // Row metadata for the itinerary panel, computed from the course's own stops:
 // stop count and the average Google rating of the stops that carry one —
 // the mock's "11 courses · avg 4.4★" line, from data that exists.
@@ -313,16 +320,21 @@ const fmtEventDates = (p: any) => {
                   <b>{t('home.itin.panelTitle')}</b>
                   <span>{t('home.itin.panelMeta').replace('{n}', String(itins.length))}</span>
                 </div>
-                {itins.map((it) => {
+                {featured.map((g: any) => {
+                  // One row per city: the shortest course is the link, longer
+                  // ones are named in the meta so the row still says they exist.
+                  const it = g.courses[0];
                   const m = itinMeta(it);
+                  const more = g.courses.slice(1).map((c: any) => t('home.itin.chipDays').replace('{d}', String(c.data.days)));
                   return (
                     <a class="itin-row" href={localizePath(`/itinerary/${it.id}`, lang)}>
                       <span class="itin-days">{t('home.itin.chipDays').replace('{d}', String(it.data.days))}</span>
                       <span class="itin-row-main">
-                        <b>{localizePlace(it.data.city, lang)}</b>
+                        <b>{localizePlace(g.city, lang)}</b>
                         <small>
                           {t('home.itin.stops').replace('{n}', String(m.stops))}
                           {m.avg && ` · ${t('home.itin.avg').replace('{r}', m.avg)}`}
+                          {more.length > 0 && ` · +${more.join(' · ')}`}
                         </small>
                       </span>
                       <span class="itin-chev" aria-hidden="true">›</span>
