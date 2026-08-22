@@ -1,40 +1,39 @@
 ---
-title: "Dalongdong Baoan Temple: New Taipei Travel Guide (4.7★)"
-description: "Dalongdong Baoan Temple is a Qing-dynasty landmark in Taipei's Datong District, dedicated to the medicine god Baosheng Dadi and famous for its 1804 stone dragon column and intricate jiaozhi ceramic roofwork. 4.7★ (4,661 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "New Taipei"
-category: "attraction"
-pubDate: "2026-08-22T07:59:47.961Z"
+title: 'Dalongdong Baoan Temple: New Taipei Travel Guide (4.7★)'
+description: Dalongdong Baoan Temple is a Qing-dynasty landmark in Taipei's Datong District, dedicated to the medicine god Baosheng Dadi and famous for its 1804 stone dragon column and intricate jiaozhi ceramic roofwork. 4.7★ (4,661 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: New Taipei
+category: attraction
+pubDate: '2026-08-22T07:59:47.961Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/87/%E4%BF%9D%E5%AE%89%E5%AE%AE_Baoan_Temple%2C_Taipei%2C_Taiwan.jpg"
-  credit: "Photo: Daniel Aguilera Sánchez / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E4%BF%9D%E5%AE%89%E5%AE%AE_Baoan_Temple,_Taipei,_Taiwan.jpg"
+  url: https://fastly.4sqi.net/img/general/original/60840918_5eZLhP2RsZH3vrizwJWdLcZvH1ZYyNvP1tJhmY4xrMI.jpg
+  credit: 'Photo: Foursquare user content (Dalongdong Baoan Temple (大龍峒保安宮))'
+  license: foursquare
+  source: https://foursquare.com/v/4bd6d2ef4e32d13ae21fc380
   focus:
-    x: 68
-    y: 45
-gallery: []
+    x: 50
+    'y': 55
 place:
-  id: "ChIJoWFCL2qpQjQRPOoT7nFV3YU"
-  name: "Dalongdong Baoan Temple"
-  address: "No. 61, Hami St, Bao'an Village, Datong District, Taipei City, Taiwan 103"
+  id: ChIJoWFCL2qpQjQRPOoT7nFV3YU
+  name: Dalongdong Baoan Temple
+  address: No. 61, Hami St, Bao'an Village, Datong District, Taipei City, Taiwan 103
   rating: 4.7
   userRatingsTotal: 4661
-  googleMapsUrl: "https://maps.google.com/?cid=9645959924711418428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9645959924711418428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0731088
   lng: 121.51557030000001
-  phone: "+886 2 2595 1676"
+  phone: +886 2 2595 1676
   openingHours:
-    - "Monday: 6:00 AM – 9:00 PM"
-    - "Tuesday: 6:00 AM – 9:00 PM"
-    - "Wednesday: 6:00 AM – 9:00 PM"
-    - "Thursday: 6:00 AM – 9:00 PM"
-    - "Friday: 6:00 AM – 9:00 PM"
-    - "Saturday: 6:00 AM – 9:00 PM"
-    - "Sunday: 6:00 AM – 9:00 PM"
+    - 'Monday: 6:00 AM – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 9:00 PM'
+    - 'Thursday: 6:00 AM – 9:00 PM'
+    - 'Friday: 6:00 AM – 9:00 PM'
+    - 'Saturday: 6:00 AM – 9:00 PM'
+    - 'Sunday: 6:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -51,22 +50,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_55593356466e37546f4f5052516a517071324c4346576f4a496843"
+    venueId: ven_55593356466e37546f4f5052516a517071324c4346576f4a496843
 tags:
-  - "new taipei"
-  - "historic site"
-quickAnswer: "Dalongdong Baoan Temple is a Qing-dynasty landmark in Taipei's Datong District, dedicated to the medicine god Baosheng Dadi and famous for its 1804 stone dragon column and intricate jiaozhi ceramic roofwork. It's open daily 6am–9pm; go between 7am and 9am to have the courtyard largely to yourself, since weekends fill up from 11am to 8pm. Budget 45–75 minutes, and pair it with neighboring Confucius Temple for one easy walking loop."
+  - new taipei
+  - historic site
+quickAnswer: Dalongdong Baoan Temple is a Qing-dynasty landmark in Taipei's Datong District, dedicated to the medicine god Baosheng Dadi and famous for its 1804 stone dragon column and intricate jiaozhi ceramic roofwork. It's open daily 6am–9pm; go between 7am and 9am to have the courtyard largely to yourself, since weekends fill up from 11am to 8pm. Budget 45–75 minutes, and pair it with neighboring Confucius Temple for one easy walking loop.
 faq:
-  - q: "What are the opening hours?"
-    a: "Dalongdong Baoan Temple is open every day from 6:00 AM to 9:00 PM, with no listed closing days."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest from 7am to 9am. On weekends, avoid arriving after 11am, when crowds build and stay heavy until around 8pm."
-  - q: "How do I get there by public transport?"
-    a: "Take the Taipei Metro Red Line to Yuanshan Station, then walk about 10 minutes north toward Confucius Temple; Baoan Temple sits directly behind it."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free, though donation boxes are placed around the halls for those who wish to give."
-  - q: "How long should I plan to stay?"
-    a: "Most visitors spend 45 minutes to an hour here; add another 30–45 minutes if you visit the neighboring Confucius Temple too."
+  - q: What are the opening hours?
+    a: Dalongdong Baoan Temple is open every day from 6:00 AM to 9:00 PM, with no listed closing days.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest from 7am to 9am. On weekends, avoid arriving after 11am, when crowds build and stay heavy until around 8pm.
+  - q: How do I get there by public transport?
+    a: Take the Taipei Metro Red Line to Yuanshan Station, then walk about 10 minutes north toward Confucius Temple; Baoan Temple sits directly behind it.
+  - q: Is there an entrance fee?
+    a: No, entry is free, though donation boxes are placed around the halls for those who wish to give.
+  - q: How long should I plan to stay?
+    a: Most visitors spend 45 minutes to an hour here; add another 30–45 minutes if you visit the neighboring Confucius Temple too.
 aiGenerated: true
 draft: false
 ---

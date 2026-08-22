@@ -1,43 +1,43 @@
 ---
-title: "Kuğulu Park: Ankara Travel Guide (4.5★)"
-description: "Kuğulu Park is a small, leafy square in the heart of Çankaya where swans and ducks glide across a central pond ringed by walking paths and tea gardens. 4.5★ (27,503 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Ankara"
-category: "attraction"
-pubDate: "2026-08-22T07:55:51.620Z"
+title: 'Kuğulu Park: Ankara Travel Guide (4.5★)'
+description: Kuğulu Park is a small, leafy square in the heart of Çankaya where swans and ducks glide across a central pond ringed by walking paths and tea gardens. 4.5★ (27,503 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Ankara
+category: attraction
+pubDate: '2026-08-22T07:55:51.620Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ku%C4%9Fulu_park_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg"
-  credit: "Photo: Nosferatü / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ku%C4%9Fulu_park_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg"
+  url: https://fastly.4sqi.net/img/general/original/103954346_FV6ifUhGGm_kkjDvKjC-WT54gjEK5rrRnFncKHavpCk.jpg
+  credit: 'Photo: Foursquare user content (Kuğulu Park)'
+  license: foursquare
+  source: https://foursquare.com/v/4b8cf019f964a52079e132e3
   focus:
-    x: 45
-    y: 45
+    x: 50
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ankara_Ku%C4%9Fulu_Park.JPG"
-    credit: "Photo: Elelicht / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ankara_Ku%C4%9Fulu_Park.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Ankara_Ku%C4%9Fulu_Park.JPG
+    credit: 'Photo: Elelicht / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ankara_Ku%C4%9Fulu_Park.JPG
 place:
-  id: "ChIJT7AhDqJP0xQRfUIL_yqAcTM"
-  name: "Kuğulu Park"
-  address: "Çankaya, Kuğulu Park, 06690 Çankaya/Ankara, Türkiye"
+  id: ChIJT7AhDqJP0xQRfUIL_yqAcTM
+  name: Kuğulu Park
+  address: Çankaya, Kuğulu Park, 06690 Çankaya/Ankara, Türkiye
   rating: 4.5
   userRatingsTotal: 27503
-  googleMapsUrl: "https://maps.google.com/?cid=3706884890458538621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3706884890458538621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.902000099999995
   lng: 32.8601762
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -66,22 +66,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4d54634171795f4c49556652517830504a7144684137544a496843"
+    venueId: ven_4d54634171795f4c49556652517830504a7144684137544a496843
 tags:
-  - "ankara"
-  - "park"
-quickAnswer: "Kuğulu Park is a small, leafy square in the heart of Çankaya where swans and ducks glide across a central pond ringed by walking paths and tea gardens. It's open 24 hours and free to enter, best visited on a weekday morning between 7am and 9am before the benches and paths fill up. Give it 30–45 minutes, longer if you linger over tea at one of the surrounding cafés."
+  - ankara
+  - park
+quickAnswer: Kuğulu Park is a small, leafy square in the heart of Çankaya where swans and ducks glide across a central pond ringed by walking paths and tea gardens. It's open 24 hours and free to enter, best visited on a weekday morning between 7am and 9am before the benches and paths fill up. Give it 30–45 minutes, longer if you linger over tea at one of the surrounding cafés.
 faq:
-  - q: "How much does it cost to visit Kuğulu Park?"
-    a: "It's free to enter, with no tickets or gates — you walk in directly from Tunalı Hilmi Caddesi."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings between 7am and 9am are quietest; on weekends, arrive between 7am and 11am before it fills up."
-  - q: "How do I get to Kuğulu Park by public transport?"
-    a: "Take the metro to Kızılay station (M1/M2/M3/A1), then walk 15–20 minutes up Tunalı Hilmi Caddesi, or catch a bus that stops along the same street."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–45 minutes walking the pond loop; longer if you stop at a nearby café."
-  - q: "Is Kuğulu Park good for kids?"
-    a: "Yes — there's a small children's playground alongside the pond, and the swans and ducks are a draw for families."
+  - q: How much does it cost to visit Kuğulu Park?
+    a: It's free to enter, with no tickets or gates — you walk in directly from Tunalı Hilmi Caddesi.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekday mornings between 7am and 9am are quietest; on weekends, arrive between 7am and 11am before it fills up.
+  - q: How do I get to Kuğulu Park by public transport?
+    a: Take the metro to Kızılay station (M1/M2/M3/A1), then walk 15–20 minutes up Tunalı Hilmi Caddesi, or catch a bus that stops along the same street.
+  - q: How long should I spend there?
+    a: Most visitors spend 30–45 minutes walking the pond loop; longer if you stop at a nearby café.
+  - q: Is Kuğulu Park good for kids?
+    a: Yes — there's a small children's playground alongside the pond, and the swans and ducks are a draw for families.
 aiGenerated: true
 draft: false
 ---

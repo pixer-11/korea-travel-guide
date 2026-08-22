@@ -1,5 +1,4 @@
 ---
-draft: true
 title: '2026 China Open (Snooker): What to Know (Taiyuan)'
 description: 2026 China Open (Snooker) in Taiyuan, China — August 8-16, 2026. What it is, when and where, and how to plan around it.
 country: China
@@ -28,6 +27,14 @@ eventRecurring: true
 eventOrganizer:
   name: World Snooker Tour and Chinese Billiards and Snooker Association (CBSA)
   url: https://www.wst.tv
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/64/Masters_Snooker_Final.jpg
+  credit: 'Photo: Bvayb / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Masters_Snooker_Final.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Why go
