@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-11'
 eventEndDate: '2026-09-13'
-gallery: []
 tags:
   - madrid
   - event
@@ -24,12 +23,19 @@ faq:
   - q: Can I combine the race with sightseeing in Madrid?
     a: Yes — IFEMA is a short Metro ride from central Madrid's Retiro park and the Prado/Reina Sofia/Thyssen museum triangle, so many visitors treat it as a full city trip built around race weekend.
 aiGenerated: true
-draft: true
 eventRecurring: true
 eventOrganizer:
   name: IFEMA MADRID
   url: https://www.ifema.es
 eventVenue: MADRING
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2024_Spanish_Grand_Prix_%2853810946031%29.jpg/3840px-2024_Spanish_Grand_Prix_%2853810946031%29.jpg
+  credit: 'Photo: jtstewart / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2024_Spanish_Grand_Prix_(53810946031).jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why this race matters

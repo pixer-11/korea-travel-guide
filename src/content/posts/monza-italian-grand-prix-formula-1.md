@@ -7,7 +7,6 @@ category: event
 eventStartDate: 2026-09-04T00:00:00.000Z
 eventEndDate: 2026-09-06T00:00:00.000Z
 pubDate: '2026-07-21'
-gallery: []
 tags:
   - monza
   - event
@@ -24,12 +23,19 @@ faq:
   - q: Is Monza walkable from other attractions?
     a: Yes — the circuit sits inside Parco di Monza, near the Villa Reale di Monza, and Monza's historic Duomo (home to the Iron Crown of Lombardy) is a short trip into town, making it easy to combine race days with sightseeing.
 aiGenerated: true
-draft: true
 eventRecurring: true
 eventOrganizer:
   name: Automobile Club d'Italia (ACI)
   url: https://www.aci.it
 eventVenue: Autodromo Nazionale Monza
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Italian_Grand_Prix_Monza_2015_%2821256765142%29.jpg
+  credit: 'Photo: Amy huby / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Italian_Grand_Prix_Monza_2015_(21256765142).jpg
+  focus:
+    x: 55
+    'y': 30
 ---
 
 ## Why go
