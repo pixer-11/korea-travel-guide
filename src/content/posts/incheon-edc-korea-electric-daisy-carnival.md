@@ -1,8 +1,6 @@
 ---
 title: 'EDC Korea (Electric Daisy Carnival): Dates, Tickets & Venue (Incheon)'
-description: >-
-  EDC Korea (Electric Daisy Carnival) in Incheon, South Korea — October 3-4,
-  2026. What it is, when and where, and how to plan around it.
+description: EDC Korea (Electric Daisy Carnival) in Incheon, South Korea — October 3-4, 2026. What it is, when and where, and how to plan around it.
 country: South Korea
 region: Incheon
 category: event
@@ -12,45 +10,26 @@ eventEndDate: '2026-10-04'
 eventRecurring: true
 eventOrganizer:
   name: Insomniac Events
-  url: 'https://korea.edc.com/en/'
+  url: https://korea.edc.com/en/
 gallery: []
 tags:
   - incheon
   - event
-quickAnswer: >-
-  EDC Korea returns October 3-4, 2026 at INSPIRE Entertainment Resort in
-  Incheon, headlined by Tiësto, DJ Snake, FISHER, Alok and an ILLENIUM b2b Dabin
-  set. Buy tickets only through the official EDC Korea / Insomniac channels once
-  they go live, and plan travel around Incheon International Airport, which sits
-  minutes from the resort. Confirm exact set times, gate hours, and final lineup
-  on the official site closer to the date.
+quickAnswer: EDC Korea returns October 3-4, 2026 at INSPIRE Entertainment Resort in Incheon, headlined by Tiësto, DJ Snake, FISHER, Alok and an ILLENIUM b2b Dabin set. Buy tickets only through the official EDC Korea / Insomniac channels once they go live, and plan travel around Incheon International Airport, which sits minutes from the resort. Confirm exact set times, gate hours, and final lineup on the official site closer to the date.
 faq:
   - q: What are the exact EDC Korea 2026 dates and venue?
-    a: >-
-      October 3-4, 2026 at INSPIRE Entertainment Resort in Incheon, per the
-      official announcement. Always double-check the official EDC Korea site
-      closer to the date in case of changes.
+    a: October 3-4, 2026 at INSPIRE Entertainment Resort in Incheon, per the official announcement. Always double-check the official EDC Korea site closer to the date in case of changes.
   - q: How do I get to INSPIRE Entertainment Resort from the airport?
-    a: >-
-      INSPIRE is a short ride from Incheon International Airport by taxi or
-      resort shuttle, making it one of the more convenient major festival venues
-      in Asia for international visitors.
+    a: INSPIRE is a short ride from Incheon International Airport by taxi or resort shuttle, making it one of the more convenient major festival venues in Asia for international visitors.
   - q: Who is headlining EDC Korea 2026?
-    a: >-
-      Confirmed headliners include Tiësto, DJ Snake, FISHER, Alok, and an
-      ILLENIUM b2b Dabin set, with more of the lineup possibly still to be
-      announced.
+    a: Confirmed headliners include Tiësto, DJ Snake, FISHER, Alok, and an ILLENIUM b2b Dabin set, with more of the lineup possibly still to be announced.
   - q: Where should I buy tickets?
-    a: >-
-      Only through official EDC Korea or Insomniac ticketing channels. Prices
-      weren't finalized at time of writing, so watch official announcements for
-      on-sale dates and tiers.
+    a: Only through official EDC Korea or Insomniac ticketing channels. Prices weren't finalized at time of writing, so watch official announcements for on-sale dates and tiers.
   - q: Is it better to stay at the resort or in Seoul?
-    a: >-
-      Staying at or near INSPIRE saves significant travel time versus commuting
-      from Seoul, which can take over an hour each way depending on traffic.
+    a: Staying at or near INSPIRE saves significant travel time versus commuting from Seoul, which can take over an hour each way depending on traffic.
 aiGenerated: true
 draft: false
+eventVenue: INSPIRE Entertainment Resort
 ---
 
 ## Why EDC Korea matters

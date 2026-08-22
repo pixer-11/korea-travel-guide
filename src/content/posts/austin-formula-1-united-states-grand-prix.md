@@ -1,8 +1,6 @@
 ---
 title: 'Formula 1 United States Grand Prix: Dates, Tickets & Venue (Austin)'
-description: >-
-  Formula 1 United States Grand Prix in Austin, United States — October 23-25,
-  2026. What it is, when and where, and how to plan around it.
+description: Formula 1 United States Grand Prix in Austin, United States — October 23-25, 2026. What it is, when and where, and how to plan around it.
 country: United States
 region: Austin
 category: event
@@ -12,42 +10,26 @@ eventEndDate: '2026-10-25'
 eventRecurring: true
 eventOrganizer:
   name: Formula 1
-  url: 'https://www.formula1.com'
+  url: https://www.formula1.com
 gallery: []
 tags:
   - austin
   - event
-quickAnswer: >-
-  The Formula 1 United States Grand Prix runs October 23-25, 2026 at Circuit of
-  the Americas (COTA) in southeast Austin, Texas, with headline concerts from
-  Maroon 5 and Post Malone alongside the on-track action. Book tickets and
-  travel early — Austin's hotel inventory tightens fast for this weekend — and
-  confirm exact schedule, gate times, and prices on F1's and COTA's official
-  sites before you commit.
+quickAnswer: The Formula 1 United States Grand Prix runs October 23-25, 2026 at Circuit of the Americas (COTA) in southeast Austin, Texas, with headline concerts from Maroon 5 and Post Malone alongside the on-track action. Book tickets and travel early — Austin's hotel inventory tightens fast for this weekend — and confirm exact schedule, gate times, and prices on F1's and COTA's official sites before you commit.
 faq:
   - q: What are the official dates for the 2026 US Grand Prix?
-    a: >-
-      October 23-25, 2026, at Circuit of the Americas in Austin, Texas — confirm
-      exact session times on F1's or COTA's official site closer to the date.
+    a: October 23-25, 2026, at Circuit of the Americas in Austin, Texas — confirm exact session times on F1's or COTA's official site closer to the date.
   - q: Where is the race held?
-    a: >-
-      Circuit of the Americas (COTA), in southeast Travis County about 15-20
-      minutes from downtown Austin (longer with race-weekend traffic).
+    a: Circuit of the Americas (COTA), in southeast Travis County about 15-20 minutes from downtown Austin (longer with race-weekend traffic).
   - q: Is there more than just racing this year?
-    a: >-
-      Yes — the weekend features headline concerts from Maroon 5 and Post Malone
-      in addition to practice, qualifying, and the Sunday Grand Prix.
+    a: Yes — the weekend features headline concerts from Maroon 5 and Post Malone in addition to practice, qualifying, and the Sunday Grand Prix.
   - q: Which day has the smallest crowds?
-    a: >-
-      Friday practice sessions draw the lightest crowds, making it the easiest
-      day for exploring the grounds and grandstands.
+    a: Friday practice sessions draw the lightest crowds, making it the easiest day for exploring the grounds and grandstands.
   - q: How do I get tickets?
-    a: >-
-      Buy directly through Formula1.com or COTA's official ticketing page, and
-      book early — Austin hotels and shuttle capacity tighten fast for this
-      weekend.
+    a: Buy directly through Formula1.com or COTA's official ticketing page, and book early — Austin hotels and shuttle capacity tighten fast for this weekend.
 aiGenerated: true
-draft: false
+draft: true
+eventVenue: Circuit of the Americas
 ---
 
 ## Why go

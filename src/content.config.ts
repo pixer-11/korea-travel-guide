@@ -39,6 +39,11 @@ const posts = defineCollection({
     // Atlas here across 98 events — a machine-readable false claim, removed
     // 2026-08-07. Absent beats invented: never fill this from guesswork.
     eventOrganizer: z.object({ name: z.string(), url: z.string().optional() }).optional(),
+    // Where it happens (stadium, arena, circuit, park). Captured at discovery;
+    // the photo pipeline's second search key after the act itself — an event
+    // named only in generic words ("Formula 1 Italian Grand Prix") has no act
+    // anchor at all, but its venue (Autodromo Nazionale Monza) is on Commons.
+    eventVenue: z.string().optional(),
     heroImage: z
       .object({
         url: z.string(),

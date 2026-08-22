@@ -114,7 +114,7 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
   return { ok: false, reason: 'vision check failed' };
 }
 
-export async function verifyHeroImage({ url, name, category, region, country, eventMode = false, existing = false }) {
+export async function verifyHeroImage({ url, name, category, region, country, eventMode = false, existing = false, venue = '' }) {
   // Fail CLOSED. This used to return ok:true when the key was missing or the API
   // errored, so a run with an empty secret or a rate-limited window wrote every
   // unverified candidate straight onto the posts and logged it as ✅ FIXED.
@@ -122,7 +122,7 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
   // prevent; keeping the current hero is always the safer failure.
   if (!process.env.ANTHROPIC_API_KEY) return { ok: false, reason: 'no-api-key — refusing to approve unchecked' };
   const what = eventMode
-    ? `the event "${name}" (a ${category}) in ${region}, ${country}. IMPORTANT for events: a photo of the performer/athlete/team TAKEN ANYWHERE (any country, any venue, foreign signage in background is fine), or of this event type (e.g. an MMA cage, a concert stage, a race), is a CORRECT hero — do NOT require the host city to be visible`
+    ? `the event "${name}" (a ${category}) in ${region}, ${country}. IMPORTANT for events: a photo of the performer/athlete/team TAKEN ANYWHERE (any country, any venue, foreign signage in background is fine), or of this event type (e.g. an MMA cage, a concert stage, a race)${venue ? `, or of its VENUE "${venue}" (the stadium, arena, circuit, park or hall itself — empty or in use)` : ''}, is a CORRECT hero — do NOT require the host city to be visible`
     : `"${name}" — a ${category} in ${region}, ${country}`;
   let data;
   try {
@@ -214,7 +214,7 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
 //  One picture cannot have two truths. The patrol must clear the SAME bar that
 //  quarantined the post before it may republish, so this is exported and both
 //  callers use it.
-export async function auditHeroImage({ url, title, category, region, country }) {
+export async function auditHeroImage({ url, title, category, region, country, eventMode = false }) {
   if (!process.env.ANTHROPIC_API_KEY) {
     return { verdict: 'UNKNOWN', reason: 'no-api-key', reasonKo: '' };
   }
@@ -229,7 +229,8 @@ Title: "${title}"
 Venue type: ${category}
 Place: ${region}, ${country}
 
-Look at the image. Does it plausibly depict THIS venue, its food, its interior/exterior, or its immediate street/setting?
+${eventMode ? `This post is about an EVENT. A photo of the same act/team/sport, of this event type, or of its venue from ANY year or edition is a MATCH — an event guide is illustrated with archive photos by design. NEVER answer MISMATCH because the photo shows a different year or edition; judge only whether it shows the wrong act, sport or place.
+` : ''}Look at the image. Does it plausibly depict THIS venue, its food, its interior/exterior, or its immediate street/setting?
 Answer MISMATCH if the image is clearly wrong — e.g. an empty/finished plate with only scraps, a building whose architecture is from the wrong country, the wrong city/country, or an unrelated subject (a grocery/convenience store for a café, an insect specimen, a museum statue/object, a random person's portrait, diving equipment, a vehicle/landscape/bridge for a restaurant, unrelated stock).
 Answer WEAK if it's the right place/country but generic and only loosely related.
 Answer MATCH if it plausibly fits.

@@ -1,8 +1,6 @@
 ---
 title: 'PLK Stade de France Concerts: What to Know (Paris)'
-description: >-
-  PLK Stade de France Concerts in Paris, France — September 4-5, 2026. What it
-  is, when and where, and how to plan around it.
+description: PLK Stade de France Concerts in Paris, France — September 4-5, 2026. What it is, when and where, and how to plan around it.
 country: France
 region: Paris
 category: event
@@ -13,46 +11,25 @@ gallery: []
 tags:
   - paris
   - event
-quickAnswer: >-
-  PLK plays two nights at the Stade de France on September 4–5, 2026 — a
-  milestone for a French rapper who's built one of the biggest streaming numbers
-  in the country without ever needing to court the mainstream. If you're going,
-  treat it like any major stadium show in Saint-Denis: get RER B tickets in
-  advance, plan for a long walk from the station to the gates, and confirm exact
-  set times, doors, and remaining tickets on PLK's official channels before you
-  book anything, since none of that is locked in publicly yet.
+quickAnswer: 'PLK plays two nights at the Stade de France on September 4–5, 2026 — a milestone for a French rapper who''s built one of the biggest streaming numbers in the country without ever needing to court the mainstream. If you''re going, treat it like any major stadium show in Saint-Denis: get RER B tickets in advance, plan for a long walk from the station to the gates, and confirm exact set times, doors, and remaining tickets on PLK''s official channels before you book anything, since none of that is locked in publicly yet.'
 faq:
   - q: When exactly is PLK playing the Stade de France?
-    a: >-
-      The shows are announced for September 4 and 5, 2026. Confirm the dates
-      haven't shifted by checking PLK's official channels or the Stade de France
-      site closer to the event.
+    a: The shows are announced for September 4 and 5, 2026. Confirm the dates haven't shifted by checking PLK's official channels or the Stade de France site closer to the event.
   - q: How do I get to the Stade de France from central Paris?
-    a: >-
-      Take RER B to La Plaine–Stade de France or RER D to Stade de
-      France–Saint-Denis; both stations are a short walk from the stadium gates.
-      Budget 30-40 minutes from central Paris, more on the way out.
+    a: Take RER B to La Plaine–Stade de France or RER D to Stade de France–Saint-Denis; both stations are a short walk from the stadium gates. Budget 30-40 minutes from central Paris, more on the way out.
   - q: Where can I buy tickets safely?
-    a: >-
-      Only through PLK's official artist channels and the Stade de France's
-      official ticketing partners. No prices have been published yet, so treat
-      any third-party or resale listing with caution.
+    a: Only through PLK's official artist channels and the Stade de France's official ticketing partners. No prices have been published yet, so treat any third-party or resale listing with caution.
   - q: Is one night better than the other?
-    a: >-
-      No lineup, set time, or show differences between the two nights have been
-      announced. Pick based on your travel schedule and double-check which date
-      is printed on your ticket.
+    a: No lineup, set time, or show differences between the two nights have been announced. Pick based on your travel schedule and double-check which date is printed on your ticket.
   - q: What's nearby if I want to make a day of it?
-    a: >-
-      The Basilica of Saint-Denis, burial site of French kings, is one RER stop
-      away and worth visiting earlier in the day before heading to the stadium
-      for the evening.
+    a: The Basilica of Saint-Denis, burial site of French kings, is one RER stop away and worth visiting earlier in the day before heading to the stadium for the evening.
 aiGenerated: true
-draft: false
+draft: true
 eventRecurring: false
 photoless: true
 eventOrganizer:
   name: Arachnée Productions
+eventVenue: Stade de France
 ---
 
 ## Why this show matters

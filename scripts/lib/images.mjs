@@ -104,9 +104,39 @@ const GEO_STOP = new Set([
   'shanghai', 'beijing', 'taipei', 'mumbai', 'delhi', 'hanoi', 'saigon', 'bali', 'monza',
 ]);
 
-export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false, eventMode = false, strict = false } = {}) {
+export async function resolveHero({ namedVenue, region, topic, place, country = 'South Korea', used, allowUnsplash = true, selfHost = false, preferTopic = false, eventMode = false, strict = false, venue = '' } = {}) {
   const reg = region || '';
   const ctry = country || 'South Korea';
+  // Events: the VENUE is the second search key after the act. Seventeen live
+  // events sat photoless for a week (2026-08-22) — "Formula 1 Italian Grand
+  // Prix", "Vietnamese Super Cup", "Hue Festival" have no act anchor at all
+  // (every word is an anchor stop-word), so the act search never even ran,
+  // and nothing here knew that Autodromo Nazionale Monza, Stade de France or
+  // the Hue citadel are all over Commons. Same gate as a venue guide: the
+  // venue name must be in the file title/description (identity cross-check).
+  // The event's PROPER NAME as a phrase, with no anchor demanded. keyToken
+  // picks one word to anchor on, and for these it picks wrong or nothing:
+  // "Hue Festival" → 'autumn' (the city word is excluded, 'festival' is a
+  // stop-word), "Asian Games" → '' (both stop-words), "Xi'an Grand Prix
+  // (Snooker)" → 'snooker'. Commons has "Festival Huế", "Para Asian Games
+  // 2018", "2024 Xi'an Grand Prix" — found only when the NAME is the query
+  // and every name token must appear (cross-check), not one chosen anchor.
+  // Past editions are the point: the act/sport/venue is the same.
+  const tryProperPhrase = async () => {
+    if (!eventMode || !namedVenue) return null;
+    const proper = eventProperName(namedVenue);
+    const toks = tokens(proper).filter((t) => !/^(19|20)\d{2}$/.test(t));
+    if (!toks.length) return null;
+    const popts = { used, allowPortrait: true, minWidth: 600, event: true, crossCheck: toks, minCross: Math.min(2, toks.length) };
+    return (await commonsBest(proper, popts)) || (await commonsBest(`${proper} ${reg}`, popts));
+  };
+  const tryVenue = async () => {
+    if (!eventMode || !venue) return null;
+    const va = keyToken(venue, `${reg} ${ctry}`);
+    if (!va) return null;
+    const vopts = { mustInclude: [va], used, allowPortrait: true, minWidth: 600, crossCheck: tokens(`${venue} ${reg}`), minCross: 2 };
+    return (await commonsBest(`${venue} ${reg}`, vopts)) || (await commonsBest(venue, { ...vopts, minCross: 1 }));
+  };
 
   // TOP PRIORITY for venue posts: the venue's OWN Google Places photo, self-hosted.
   // It's the real place — the most fitting image possible — and permanent once saved.
@@ -210,6 +240,10 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
         ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);
     if (byName) return mark(byName, used);
+    const byPhrase = await tryProperPhrase();
+    if (byPhrase) return mark(byPhrase, used);
+    const byVenue = await tryVenue();
+    if (byVenue) return mark(byVenue, used);
 
     // STRICT mode (venue posts at generation time): accuracy policy is
     // "real/verified venue photo or DON'T write about this venue". City-level or
@@ -232,6 +266,12 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
   // Strict venue mode never falls through to topic/city/stock imagery — that IS
   // the mismatch class we're banning. (Also covers venue names with no usable
   // anchor token, which skip the block above entirely.)
+  // An event whose name is all stop-words skipped the block above — the venue
+  // is the only specific key it has, and it must run before the type fallback.
+  const byPhraseOnly = await tryProperPhrase();
+  if (byPhraseOnly) return mark(byPhraseOnly, used);
+  const byVenueOnly = await tryVenue();
+  if (byVenueOnly) return mark(byVenueOnly, used);
   if (strict) return null;
 
   // The topic itself may be a place name (e.g. "Nami Island", "Abai Village",

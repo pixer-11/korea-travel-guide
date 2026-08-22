@@ -211,7 +211,7 @@ for (const f of files) {
     console.log(`  ✗  ${slug}: current hero rejected (${cur.reason}) — replacing`);
   }
 
-  const ctx = { name: venueName, category: data.category, region: data.region, country: data.country, eventMode: isEvent };
+  const ctx = { name: venueName, category: data.category, region: data.region, country: data.country, eventMode: isEvent, venue: isEvent ? (data.eventVenue || '') : '' };
   let cands = [];
   if (isEvent) {
     // An event's correct hero is the ACT or the SPORT, not a building —
@@ -240,6 +240,11 @@ for (const f of files) {
     const knownTok = new Set([
       ...tokens(venueName), ...tokens(eventTopic(venueName)),
       ...tokens(data.region || ''), ...tokens(data.country || ''),
+      // The event's VENUE is its own word too. Without this, every venue
+      // photo the new venue search found — "Autodromo Nazionale Monza",
+      // "Stade de France", "Taipei Dome", "Circuit of the Americas" — was
+      // thrown out as "names another act" (12 of 12 on 2026-08-22).
+      ...tokens(data.eventVenue || ''),
     ]);
     const GENERIC_FILE_WORDS = new Set(['cropped', 'crop', 'photo', 'image', 'img', 'file', 'dsc', 'edit', 'edited', 'retouched', 'wikimedia', 'commons', 'flickr']);
     const foreignInFilename = (url) => {
@@ -278,7 +283,7 @@ for (const f of files) {
         pick = await resolveHero({
           namedVenue: venueName, region: data.region, topic: eventTopic(venueName),
           country: data.country, used: seen, preferTopic: true, eventMode: true,
-          allowUnsplash: false,
+          allowUnsplash: false, venue: data.eventVenue || '',
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
@@ -353,7 +358,7 @@ for (const f of files) {
     // gets the last word.
     const second = await auditHeroImage({
       url: cand.url, title: data.title, category: data.category,
-      region: data.region, country: data.country || '',
+      region: data.region, country: data.country || '', eventMode: isEvent,
     });
     if (second.verdict === 'MISMATCH') {
       console.log(`   ${slug}: selection passed but the audit rejects it (${second.reason}) — skipping`);
@@ -458,11 +463,16 @@ for (const f of files) {
     rewriteList.push(slug);
     retryCount[slug] = (retryCount[slug] ?? 0) + 1;
     // Accuracy rule: a KNOWN-wrong photo may not stay live — quarantine until a
-    // real photo or a venue rewrite restores the post.
-    if (!DRY && data.draft !== true) {
+    // real photo or a venue rewrite restores the post. A post with NO photo
+    // has nothing wrong on the page: events publish photoless by policy
+    // (wander-atlas-photoless-policy), and drafting one here unpublished two
+    // live events the moment their photo hunt came up empty (2026-08-22).
+    if (!DRY && data.draft !== true && data.heroImage?.url) {
       data.draft = true;
       await writeFile(path, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
       console.log(`  🚫 ${slug}: quarantined (draft) — no passing candidate (${cands.length} tried)`);
+    } else if (!data.heroImage?.url) {
+      console.log(`  ⚠️  ${slug}: no candidate passed (${cands.length} tried) — stays live without a photo`);
     } else {
       console.log(`  ⚠️  ${slug}: no candidate passed vision (${cands.length} tried)`);
     }

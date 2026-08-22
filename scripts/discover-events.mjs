@@ -71,7 +71,7 @@ const discoverEvents = (country) =>
     // nowhere in the title. Ask for the searched-for name up front.
     `"name" must be the name people actually SEARCH for: include the widely-used short form or act name when one exists (e.g. "F4 (Meteor Garden) Reunion World Tour", not only the official branding "F✦FOREVER 1st World Tour"). ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
-    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","summary":"1-2 factual sentences: what, where, when"}]. ` +
+    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","venue":"the named venue where it takes place (stadium, arena, circuit, park, hall) as the sources name it, or null","summary":"1-2 factual sentences: what, where, when"}]. ` +
     `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
     // Recurrence decides whether the page stays indexed once the date passes
     // and whether it advertises a yearly cadence in schema. It used to be
@@ -195,6 +195,7 @@ async function writeDiscovered(item, ctx) {
   // city/country imagery only when nothing specific is found.
   const hero = await resolveHero({
     namedVenue: item.name,
+    venue: cat === 'event' && typeof item.venue === 'string' ? item.venue.trim() : '',
     region: item.city,
     // Events: try the specific act/fighter (namedVenue) first, then fall back to
     // the event TYPE (MMA, racing, concert…) rather than the raw name, so a hero
@@ -223,6 +224,7 @@ async function writeDiscovered(item, ctx) {
     const vis = await verifyHeroImage({
       url: heroImage.url, name: item.name, category: cat,
       region: item.city, country, eventMode: cat === 'event',
+      venue: cat === 'event' && typeof item.venue === 'string' ? item.venue.trim() : '',
     });
     if (!vis.ok) {
       console.log(`    ✗ hero rejected by vision (${vis.reason}) — publishing without hero`);
@@ -260,6 +262,8 @@ async function writeDiscovered(item, ctx) {
     ...(cat === 'event' && typeof item.recurring === 'boolean' && { eventRecurring: item.recurring }),
     // Only when the discovery search clearly named the real host — the field
     // feeds Event schema's organizer, where a guess is a false claim.
+    // The venue, as the sources name it — the photo pipeline's second key.
+    ...(cat === 'event' && typeof item.venue === 'string' && item.venue.trim().length >= 3 && { eventVenue: item.venue.trim().slice(0, 120) }),
     ...(cat === 'event' && typeof item.organizer === 'string' && item.organizer.trim() && {
       eventOrganizer: {
         name: item.organizer.trim(),

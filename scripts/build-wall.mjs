@@ -80,7 +80,9 @@ async function main() {
   // differs from the sidecar's is re-cut under the SAME name.
   const CUT_WITH = join(OUT_DIR, '.cut-with.json');
   const cutWith = existsSync(CUT_WITH) ? JSON.parse(await readFile(CUT_WITH, 'utf8')) : {};
-  const focusKey = (f) => (f ? `${f.x},${f.y}` : '');
+  // 'v2:' — the exact-window crop (2026-08-22) replaced the compass buckets;
+  // every focused thumb is re-cut once, unfocused ones keep their key ('').
+  const focusKey = (f) => (f ? `v2:${f.x},${f.y}` : '');
   for (const { url, focus } of urls) {
     const name = `${hash(url)}.webp`;
     const outPath = join(OUT_DIR, name);
@@ -114,18 +116,27 @@ async function main() {
       // → 'attention' only for landscapes, where it does fine.
       const img = sharp(buf);
       const meta = await img.metadata();
-      let position = 'attention';
-      if (focus) {
-        // sharp has no fractional gravity; map the point to the nearest of
-        // its 8 compass positions + centre. Good enough for a 640×427 card.
-        const v = focus.y < 33 ? 'top' : focus.y > 66 ? 'bottom' : '';
-        const h = focus.x < 33 ? 'left' : focus.x > 66 ? 'right' : '';
-        position = [h, v].filter(Boolean).join(' ') || 'centre'; // sharp accepts 'left top', 'top', 'right', …
-      } else if (meta.height && meta.width && meta.height > meta.width) {
-        position = 'top';
+      let pipeline;
+      if (focus && meta.width && meta.height) {
+        // Crop EXACTLY around the stored focal point. The compass-bucket
+        // version ('top' below 33%, else 'centre') put Post Malone's face —
+        // focus.y = 35 on a 2:3 portrait — just outside the centre band, and
+        // the singapore card showed his boots (owner, 2026-08-22). A window
+        // of the target aspect is placed with the point at its centre and
+        // clamped to the image; no bucket, no guess.
+        const W = meta.width, H = meta.height, target = 640 / 427;
+        let cw = W, ch = Math.round(W / target);
+        if (ch > H) { ch = H; cw = Math.round(H * target); }
+        const left = Math.max(0, Math.min(W - cw, Math.round((focus.x / 100) * W - cw / 2)));
+        const top = Math.max(0, Math.min(H - ch, Math.round((focus.y / 100) * H - ch / 2)));
+        pipeline = img.extract({ left, top, width: cw, height: ch }).resize(640, 427);
+      } else {
+        // No stored point: a portrait keeps its top third (faces live there);
+        // a landscape trusts sharp's 'attention' heuristic, which does fine.
+        const position = meta.height && meta.width && meta.height > meta.width ? 'top' : 'attention';
+        pipeline = img.resize(640, 427, { fit: 'cover', position });
       }
-      await img
-        .resize(640, 427, { fit: 'cover', position })
+      await pipeline
         .webp({ quality: 72 })
         .toFile(outPath);
       cutWith[name] = focusKey(focus);

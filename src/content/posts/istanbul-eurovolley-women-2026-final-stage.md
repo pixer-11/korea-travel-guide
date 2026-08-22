@@ -54,6 +54,7 @@ eventRecurring: true
 eventOrganizer:
   name: European Volleyball Confederation (CEV)
   url: 'https://www.cev.eu'
+eventVenue: Sinan Erdem Dome
 ---
 
 ## Why go

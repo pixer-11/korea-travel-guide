@@ -1,9 +1,7 @@
 ---
-draft: false
+draft: true
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipei: What to Know (Taipei)'
-description: >-
-  Official HIGE DANDism Asia Tour 2026 – Taipei in Taipei, Taiwan — August
-  29-30, 2026. What it is, when and where, and how to plan around it.
+description: Official HIGE DANDism Asia Tour 2026 – Taipei in Taipei, Taiwan — August 29-30, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
 region: Taipei
 category: event
@@ -14,46 +12,24 @@ gallery: []
 tags:
   - taipei
   - event
-quickAnswer: >-
-  Official HIGE DANDism, the Japanese pop-rock five-piece behind hits like
-  "Pretender" and "Cry Baby," play two nights at Taipei Dome on August 29–30,
-  2026, as part of their 2026 Asia Tour, with new songs "Stardust" and
-  "Elderflower" expected to debut live. Ticket sales, exact doors/showtimes, and
-  seating charts have not been locked in this guide — confirm everything on the
-  band's official site and Taiwan's official ticketing platform before booking
-  flights or hotels.
+quickAnswer: Official HIGE DANDism, the Japanese pop-rock five-piece behind hits like "Pretender" and "Cry Baby," play two nights at Taipei Dome on August 29–30, 2026, as part of their 2026 Asia Tour, with new songs "Stardust" and "Elderflower" expected to debut live. Ticket sales, exact doors/showtimes, and seating charts have not been locked in this guide — confirm everything on the band's official site and Taiwan's official ticketing platform before booking flights or hotels.
 faq:
   - q: What are the confirmed dates for Official HIGE DANDism in Taipei?
-    a: >-
-      August 29 and 30, 2026, at Taipei Dome, as announced for their 2026 Asia
-      Tour. Always double-check for any date changes on the band's official site
-      before booking.
+    a: August 29 and 30, 2026, at Taipei Dome, as announced for their 2026 Asia Tour. Always double-check for any date changes on the band's official site before booking.
   - q: Where exactly is the venue and how do I get there?
-    a: >-
-      Taipei Dome is in Songshan District, next to Taipei Songshan Cultural and
-      Creative Park. Take the Blue Line to Taipei City Hall Station or the Brown
-      Line to Nanjing Sanmin/Songshan Airport Station, then walk.
+    a: Taipei Dome is in Songshan District, next to Taipei Songshan Cultural and Creative Park. Take the Blue Line to Taipei City Hall Station or the Brown Line to Nanjing Sanmin/Songshan Airport Station, then walk.
   - q: Will new songs be performed?
-    a: >-
-      The tour has been announced with new tracks "Stardust" and "Elderflower"
-      expected to debut live, alongside the band's established catalog, though
-      the exact setlist isn't confirmed.
+    a: The tour has been announced with new tracks "Stardust" and "Elderflower" expected to debut live, alongside the band's established catalog, though the exact setlist isn't confirmed.
   - q: How do I buy tickets safely?
-    a: >-
-      Use only the official ticketing platform linked from the band's or
-      promoter's official channels. Prices and on-sale dates weren't available
-      at the time of writing, so confirm directly before purchasing.
+    a: Use only the official ticketing platform linked from the band's or promoter's official channels. Prices and on-sale dates weren't available at the time of writing, so confirm directly before purchasing.
   - q: Should I attend both nights?
-    a: >-
-      Many touring fans do, since dome shows on consecutive nights often rotate
-      part of the setlist. If you can only go once, either date should give you
-      the full production, but check official recaps after night one if you're
-      deciding on the second.
+    a: Many touring fans do, since dome shows on consecutive nights often rotate part of the setlist. If you can only go once, either date should give you the full production, but check official recaps after night one if you're deciding on the second.
 aiGenerated: true
 eventRecurring: false
 eventOrganizer:
   name: AEG Presents Asia
-  url: 'https://asia.aegpresents.com/'
+  url: https://asia.aegpresents.com/
+eventVenue: Taipei Dome
 ---
 
 ## Why this show matters

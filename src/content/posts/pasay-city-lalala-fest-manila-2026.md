@@ -24,11 +24,12 @@ faq:
   - q: Where should I stay for the festival?
     a: Roxas Boulevard hotels or the Entertainment City/Bay Area strip (near Solaire, Okada, City of Dreams) are a short ride from WTC and close to SM Mall of Asia for food and essentials.
 aiGenerated: true
-draft: false
+draft: true
 eventRecurring: false
 photoless: true
 eventOrganizer:
   name: Wilbros Live
+eventVenue: World Trade Center Manila
 ---
 ## Why go
 

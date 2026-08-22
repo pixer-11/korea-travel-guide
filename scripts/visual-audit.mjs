@@ -104,7 +104,7 @@ for (const f of files) {
   try {
     const v = await auditHeroImage({
       url: hero.url, title: data.title, category: data.category,
-      region: data.region, country: data.country || 'South Korea',
+      region: data.region, country: data.country || 'South Korea', eventMode: data.category === 'event',
     });
     // UNKNOWN = the image or the API could not be read. Storing it as a verdict
     // would let an outage read as a judgement, and remembering what was actually
