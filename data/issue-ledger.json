@@ -1,16 +1,5 @@
 {
-  "validate-content": {
-    "ENDED-EVENT-FUTURE-TENSE abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour.md": {
-      "since": "2026-08-22",
-      "last": "2026-08-22",
-      "seen": 1
-    },
-    "ENDED-EVENT-FUTURE-TENSE pasay-city-lalala-fest-manila-2026.md": {
-      "since": "2026-08-22",
-      "last": "2026-08-22",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
