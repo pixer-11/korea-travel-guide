@@ -229,7 +229,7 @@ Title: "${title}"
 Venue type: ${category}
 Place: ${region}, ${country}
 
-${eventMode ? `This post is about an EVENT. A photo of the same act/team/sport, of this event type, or of its venue${venue ? ` — the venue is "${venue}" (a photo of that building, hall, stadium, circuit or resort, inside or outside, is a MATCH)` : ''} from ANY year or edition is a MATCH — an event guide is illustrated with archive photos by design. NEVER answer MISMATCH because the photo shows a different year or edition; judge only whether it shows the wrong act, sport or place.
+${eventMode ? `This post is about an EVENT. A photo of the same act/team/sport, of this event type, or of its venue${venue ? ` — the venue is "${venue}" (a photo of that building, hall, stadium, circuit or resort, inside or outside, is a MATCH)` : ''} from ANY year or edition is a MATCH — an event guide is illustrated with archive photos by design. For a multi-sport Games (Asian Games, Olympics, SEA Games) a photo of ANY sport or ceremony at a past edition is a MATCH. NEVER answer MISMATCH because the photo shows a different year or edition; judge only whether it shows the wrong act, sport or place.
 ` : ''}Look at the image. Does it plausibly depict THIS venue, its food, its interior/exterior, or its immediate street/setting?
 Answer MISMATCH if the image is clearly wrong — e.g. an empty/finished plate with only scraps, a building whose architecture is from the wrong country, the wrong city/country, or an unrelated subject (a grocery/convenience store for a café, an insect specimen, a museum statue/object, a random person's portrait, diving equipment, a vehicle/landscape/bridge for a restaurant, unrelated stock).
 Answer WEAK if it's the right place/country but generic and only loosely related.

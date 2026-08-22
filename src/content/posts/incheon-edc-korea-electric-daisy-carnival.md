@@ -11,7 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: Insomniac Events
   url: https://korea.edc.com/en/
-gallery: []
 tags:
   - incheon
   - event
@@ -30,6 +29,14 @@ faq:
 aiGenerated: true
 draft: false
 eventVenue: INSPIRE Entertainment Resort
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Inspire_Entertainment_Resort_Exterior.jpg/3840px-Inspire_Entertainment_Resort_Exterior.jpg
+  credit: 'Photo: Whoisim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Inspire_Entertainment_Resort_Exterior.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why EDC Korea matters

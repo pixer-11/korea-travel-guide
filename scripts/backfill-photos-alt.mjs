@@ -328,7 +328,10 @@ for (const f of files) {
       auditDirty = true;
     };
     const vis = await verifyHeroImage({ url: cand.url, ...ctx });
-    if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) { visionOutage = true; console.log(`   ${slug}: vision unavailable — candidate left unjudged`); continue; }
+    // Say WHY: the same two Asian Games files read "unavailable" on three
+    // runs in a row (2026-08-23) and nothing in the log could tell an API
+    // outage from a file the API refuses (too large, wrong type).
+    if (/vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) { visionOutage = true; console.log(`   ${slug}: vision unavailable — candidate left unjudged (${vis.reason}) ${cand.url.split('/').pop().slice(0, 60)}`); continue; }
     if (!vis.ok) { console.log(`   ${slug}: rejected (${vis.reason})`); remember(vis.reason); continue; }
     // Clear the bar that QUARANTINED the post, not merely the selection bar.
     // These are two prompts with two thresholds; while they disagree a post

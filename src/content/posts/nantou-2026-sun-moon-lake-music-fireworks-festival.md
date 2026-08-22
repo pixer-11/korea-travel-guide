@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-12'
 eventEndDate: '2026-11-14'
-gallery: []
 tags:
   - nantou
   - event
@@ -24,12 +23,19 @@ faq:
   - q: How long should I plan to stay at Sun Moon Lake?
     a: Most visitors spend at least one full day and overnight to combine the lake's regular attractions (ropeway, Wenwu Temple, cycling paths) with an evening festival event, since fireworks and concerts run after dark.
 aiGenerated: true
-draft: true
 eventRecurring: true
 eventOrganizer:
   name: Sun Moon Lake National Scenic Area Administration (Tourism Administration, MOTC)
   url: https://www.sunmoonlake.gov.tw
 eventVenue: Ita Thau
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sun_Moon_Lake_20150202.jpg/3840px-Sun_Moon_Lake_20150202.jpg
+  credit: 'Photo: Suicasmo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_20150202.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Why this festival is worth the trip

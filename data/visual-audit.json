@@ -12093,5 +12093,23 @@
   "verdict": "MATCH",
   "reason": "patrol replace: World Trade Center Manila interior reception desk",
   "at": "2026-08-22T15:20:13.259Z"
+ },
+ "incheon-edc-korea-electric-daisy-carnival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Inspire_Entertainment_Resort_Exterior.jpg/3840px-Inspire_Entertainment_Resort_Exterior.jpg": {
+  "slug": "incheon-edc-korea-electric-daisy-carnival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: INSPIRE Entertainment Resort exterior and signage clearly vi",
+  "at": "2026-08-22T15:22:51.702Z"
+ },
+ "nantou-2026-sun-moon-lake-music-fireworks-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sun_Moon_Lake_20150202.jpg/3840px-Sun_Moon_Lake_20150202.jpg": {
+  "slug": "nantou-2026-sun-moon-lake-music-fireworks-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Sun Moon Lake landscape with boats and mountains",
+  "at": "2026-08-22T15:24:18.687Z"
+ },
+ "paris-plk-stade-de-france-concerts\u0001https://upload.wikimedia.org/wikipedia/commons/6/6a/Stade_de_France_-_panoramio_%283%29.jpg": {
+  "slug": "paris-plk-stade-de-france-concerts",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Distant cityscape; stadium barely visible, not representative",
+  "at": "2026-08-22T15:25:24.097Z"
  }
 }
