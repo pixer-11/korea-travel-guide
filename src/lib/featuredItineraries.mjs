@@ -19,6 +19,7 @@ export function groupByCity(itins) {
   const by = new Map();
   for (const it of itins) {
     const city = it.data.city;
+    if (!city) continue; // a course with no city cannot head a row
     if (!by.has(city)) by.set(city, { city, courses: [] });
     by.get(city).courses.push(it);
   }
