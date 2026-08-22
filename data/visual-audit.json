@@ -11895,5 +11895,83 @@
     "verdict": "MATCH",
     "reason": "publish gate: Park entrance gate with greenery, plausible representative view",
     "at": "2026-08-22T08:06:34.607Z"
+  },
+  "siem-reap-angkor-wat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg": {
+    "slug": "siem-reap-angkor-wat",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic Angkor Wat towers with reflecting pool, representative view",
+    "at": "2026-08-22T09:04:36.260Z"
+  },
+  "phnom-penh-royal-palace-of-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg": {
+    "slug": "phnom-penh-royal-palace-of-cambodia",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic golden spire pavilion of Royal Palace, representative exterior view",
+    "at": "2026-08-22T09:05:30.471Z"
+  },
+  "battambang-bamboo-train-battambang\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Bamboo_railway_at_Battambang_-_panoramio.jpg": {
+    "slug": "battambang-bamboo-train-battambang",
+    "verdict": "MATCH",
+    "reason": "publish gate: Bamboo train carts on tracks, matches Battambang attraction",
+    "at": "2026-08-22T09:06:08.728Z"
+  },
+  "kampot-bokor-hill-station\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bokor_palace_hotel_Cambodia.jpg/1920px-Bokor_palace_hotel_Cambodia.jpg": {
+    "slug": "kampot-bokor-hill-station",
+    "verdict": "MATCH",
+    "reason": "publish gate: Abandoned decaying building matches Bokor Hill Station's iconic ruined architecture",
+    "at": "2026-08-22T09:07:43.261Z"
+  },
+  "koh-rong-long-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Long-beach-kog-rong-cambodia.jpg/3840px-Long-beach-kog-rong-cambodia.jpg": {
+    "slug": "koh-rong-long-beach",
+    "verdict": "MATCH",
+    "reason": "publish gate: Tropical beach scene consistent with Long Beach, Koh Rong",
+    "at": "2026-08-22T09:09:10.757Z"
+  },
+  "sihanoukville-otres-beach\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Otres_Beach_Sunset_-_panoramio.jpg": {
+    "slug": "sihanoukville-otres-beach",
+    "verdict": "MATCH",
+    "reason": "publish gate: Beach sunset over water, representative view of Otres Beach",
+    "at": "2026-08-22T09:09:51.299Z"
+  },
+  "kampong-cham-nokor-bachey-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/02-Nokor_Bachey_Pagoda-nX-13.jpg/3840px-02-Nokor_Bachey_Pagoda-nX-13.jpg": {
+    "slug": "kampong-cham-nokor-bachey-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer temple ruins consistent with Nokor BaChey, representative view",
+    "at": "2026-08-22T09:11:08.428Z"
+  },
+  "khiva-khiva-ichan-kala\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg/3840px-Konya_Ark_towers_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D1%83%D0%BD%D1%8F-%D0%90%D1%80%D0%BA%2C_Ko%CA%BBhna_ark%29%2C_Itchan_Kala%2C_Khiva.jpg": {
+    "slug": "khiva-khiva-ichan-kala",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic turquoise-domed minarets, characteristic Khiva Islamic architecture",
+    "at": "2026-08-22T09:12:18.125Z"
+  },
+  "siem-reap-old-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Siem_Reap_old_market_%284%29.jpg/3840px-Siem_Reap_old_market_%284%29.jpg": {
+    "slug": "siem-reap-old-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior market stalls with produce, representative of Old Market",
+    "at": "2026-08-22T09:13:49.093Z"
+  },
+  "shakhrisabz-zaamin-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Landscape_of_the_Zaamin_National_park.jpg/3840px-Landscape_of_the_Zaamin_National_park.jpg": {
+    "slug": "shakhrisabz-zaamin-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Mountain landscape framed by trees, plausible national park view",
+    "at": "2026-08-22T09:16:42.779Z"
+  },
+  "tashkent-tashkent-city-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/16/Tashkent_City_Park_at_night_2019.jpg": {
+    "slug": "tashkent-tashkent-city-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial night view of Tashkent City Park, representative overview",
+    "at": "2026-08-22T09:17:32.122Z"
+  },
+  "termez-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg": {
+    "slug": "termez-eco-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Entrance archway with Eco Park sign, representative venue exterior",
+    "at": "2026-08-22T09:19:53.723Z"
+  },
+  "kep-kep-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kep_National_Park_6.jpg/1920px-Kep_National_Park_6.jpg": {
+    "slug": "kep-kep-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Representative dense forest/hills view typical of Kep National Park",
+    "at": "2026-08-22T09:21:08.173Z"
   }
 }

@@ -2597,11 +2597,11 @@
   "at": "2026-08-15T02:31:24.464Z"
  },
  "ko/pasay-city-lalala-fest-manila-2026": {
-  "hash": "333e5ae7891e",
+  "hash": "0117f991b8c3",
   "score": 1,
   "registerBreak": false,
-  "worst": "해외 팬들에게는 코첼라급의 여행 예산 없이도 이 정도 급의 아티스트를 만날 수 있는 흔치 않은 기회입니다.",
-  "at": "2026-08-15T02:31:26.352Z"
+  "worst": "해외 팬들에게는 코첼라급 여행 예산 없이도 이 정도 급의 아티스트들을 만날 수 있는 흔치 않은 기회였습니다.",
+  "at": "2026-08-22T09:28:21.717Z"
  },
  "ko/pattaya-mini-siam": {
   "hash": "0d721fb51848",
@@ -8673,11 +8673,11 @@
   "at": "2026-08-15T03:03:39.383Z"
  },
  "ja/pasay-city-lalala-fest-manila-2026": {
-  "hash": "a37b5c4c0b9e",
+  "hash": "6e11bad27970",
   "score": 1,
   "registerBreak": false,
-  "worst": "パサイはマニラの旧市街と空港のちょうど中間に位置しており、これは実用的な利点です。",
-  "at": "2026-08-15T03:03:40.263Z"
+  "worst": "ラララ・フェストはこれまでアジア各地で、グローバルなインディー・オルタナポップの豪華な顔ぶれとハイクオリティな演出を融合させたフェスとして評価を築いてきました。",
+  "at": "2026-08-22T09:28:08.514Z"
  },
  "ja/pattaya-pattaya-international-fireworks-festival-2026": {
   "hash": "4e4c2ad5abfe",
@@ -14805,11 +14805,11 @@
   "at": "2026-08-15T03:32:18.365Z"
  },
  "es/pasay-city-lalala-fest-manila-2026": {
-  "hash": "e14ebe28ab78",
+  "hash": "5a7162e9da5a",
   "score": 1,
   "registerBreak": false,
-  "worst": "así que espera una experiencia de festival de sala grande — con infraestructura adecuada de escenario",
-  "at": "2026-08-15T03:32:24.581Z"
+  "worst": "los cambios de horario por motivos climáticos sí ocurren en Filipinas durante estas fechas",
+  "at": "2026-08-22T09:27:55.138Z"
  },
  "es/pattaya-mamamia-pattaya-street-noodles": {
   "hash": "fae11f87dd2b",
@@ -20342,11 +20342,11 @@
   "at": "2026-08-15T04:09:39.973Z"
  },
  "zh/pasay-city-lalala-fest-manila-2026": {
-  "hash": "300e52509384",
-  "score": 1,
+  "hash": "1dd7557b194d",
+  "score": 2,
   "registerBreak": false,
-  "worst": "对国际乐迷来说,这是一个难得的机会,能以远低于Coachella级别的旅行预算欣赏到这种量级的演出",
-  "at": "2026-08-15T04:09:41.116Z"
+  "worst": "因菲律宾这一时段的户外相关活动因天气原因调整日程的情况并不少见",
+  "at": "2026-08-22T09:29:48.503Z"
  },
  "zh/pattaya-mamamia-pattaya-street-noodles": {
   "hash": "ecb2dc5bc2cc",
@@ -28609,31 +28609,59 @@
   "at": "2026-08-21T09:17:24.975Z"
  },
  "es/abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour": {
-  "hash": "2f890a7b6c21",
+  "hash": "6d57c3681537",
   "score": 1,
   "registerBreak": false,
-  "worst": "Los patrones de tráfico y las opciones de transporte lanzadera en Yas Island podían cambiar antes del",
-  "at": "2026-08-22T08:19:18.265Z"
+  "worst": "Los patrones de tráfico y las opciones de transporte lanzadera en la isla de Yas podían variar antes del concierto.",
+  "at": "2026-08-22T09:27:50.183Z"
  },
  "ja/abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour": {
-  "hash": "ac489b5e3d2c",
+  "hash": "d44c91744235",
   "score": 1,
   "registerBreak": false,
-  "worst": "アブダビ中心部での宿泊を希望する場合、シェイク・ザイード・グランド・モスクやコーニッシュに近い立地となります",
-  "at": "2026-08-22T08:19:24.188Z"
+  "worst": "大型の来日・来演公演を余裕を持って収容できる規模を誇ります。",
+  "at": "2026-08-22T09:28:04.782Z"
  },
  "ko/abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour": {
-  "hash": "958f0e16106d",
-  "score": 1,
+  "hash": "bf5e33d28de5",
+  "score": 2,
   "registerBreak": false,
-  "worst": "출처가 된 공식 발표에는 좌석 등급, 가격, 판매 개시일이 포함되어 있지 않았으며",
-  "at": "2026-08-22T08:19:52.210Z"
+  "worst": "야스 아일랜드 주변의 교통 패턴과 셔틀버스 운행 여부는 공연 전까지 변경될 수 있었습니다.",
+  "at": "2026-08-22T09:29:39.904Z"
  },
  "zh/abu-dhabi-sonu-nigam-30-years-of-sonu-revolution-tour": {
-  "hash": "b76a8751432f",
+  "hash": "934515699ad5",
   "score": 1,
   "registerBreak": false,
-  "worst": "算上过桥拥堵和停车时间，前往哈提哈德竞技场的路程，最好按赶飞机的标准预留缓冲时间。",
-  "at": "2026-08-22T08:20:03.291Z"
+  "worst": "考虑到桥梁拥堵和停车耗时，前往阿提哈德竞技场的路程规划，最好按照赶飞机的标准多留余量。",
+  "at": "2026-08-22T09:28:23.502Z"
+ },
+ "es/battambang-bamboo-train-battambang": {
+  "hash": "76ac6b683170",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al final del trayecto, el carro se detiene junto a un pequeño grupo de puestos.",
+  "at": "2026-08-22T09:28:32.953Z"
+ },
+ "ja/battambang-bamboo-train-battambang": {
+  "hash": "7202f7c0dac5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "正直なところこれ自体がこのアトラクションの見どころの半分を占めていると言えます。",
+  "at": "2026-08-22T09:28:35.194Z"
+ },
+ "ko/battambang-bamboo-train-battambang": {
+  "hash": "f1ad4acd9b4a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "문짝 하나 정도 크기의 평평한 대나무 발판이 자동차 바퀴가 달린 두 개의 차축 위에 얹혀 있고...",
+  "at": "2026-08-22T09:28:38.391Z"
+ },
+ "zh/battambang-bamboo-train-battambang": {
+  "hash": "c4cb60d9293b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这种体验独一无二，找不到第二种交通工具能与之相比。",
+  "at": "2026-08-22T09:28:40.462Z"
  }
 }

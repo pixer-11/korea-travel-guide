@@ -1,4 +1,3 @@
-SKIP new city "Los Angeles" — weekly new-city cap (2/7d) reached
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "New Orleans" — weekly new-city cap (2/7d) reached
 
@@ -20,6 +19,13 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 Hong Kong, Hong Kong — 53 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
+
+Los Angeles, United States — 16 qualifying post(s), variants: 3
+  ⚠ Los Angeles 3d — validator found 2 prose-fixable issue(s); correcting once
+VALIDATE-FAILED los-angeles-3-days.md — 3 issue(s):
+  • AREA-CLAIM-UNSUPPORTED: los-angeles-3-days.md — day 1 names "Hilltop Gardens" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: los-angeles-3-days.md — day 2 names "Halls" but no stop of that day attests it
+  • PROSE-LEAK: los-angeles-3-days.md — itinerary[2].intro
 
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
