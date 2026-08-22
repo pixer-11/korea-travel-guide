@@ -10,7 +10,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
 import { eventProperName, eventProperNameVariants } from '../../src/lib/eventName.mjs';
-import { commonsBest, keyToken, tokens, wikipediaLeadImage } from './commons.mjs';
+import { commonsBest, keyToken, tokens, wikipediaLeadImage, COMMON_ANCHOR } from './commons.mjs';
 import { heroUrlOf } from './hero-url.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -94,7 +94,7 @@ export async function pickGallery(place, n = 3) {
 // Country/continent/major-city names must NEVER be an event's image anchor — a
 // bare "vietnam" search returns war photos, "dubai" returns skyline, etc. When the
 // anchor is one of these, skip the anchor-only lookup and use the event-TYPE image.
-const GEO_STOP = new Set([
+export const GEO_STOP = new Set([
   'vietnam', 'korea', 'japan', 'thailand', 'china', 'france', 'italy', 'spain', 'india',
   'indonesia', 'malaysia', 'singapore', 'taiwan', 'turkey', 'turkiye', 'philippines',
   'emirates', 'usa', 'america', 'american', 'britain', 'england', 'germany', 'spanish',
@@ -122,20 +122,30 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
   // 2018", "2024 Xi'an Grand Prix" — found only when the NAME is the query
   // and every name token must appear (cross-check), not one chosen anchor.
   // Past editions are the point: the act/sport/venue is the same.
+  // `via` tells the filename identity audit HOW a file was found (see
+  // lib/event-file-identity.mjs) — a venue find's leftover words are a scene,
+  // an act find's leftover words are another act. Callers build heroImage
+  // from explicit fields, so the tag never reaches frontmatter.
+  const via = (img, how) => (img ? { ...img, via: how } : img);
   const tryProperPhrase = async () => {
     if (!eventMode || !namedVenue) return null;
     const proper = eventProperName(namedVenue);
     const toks = tokens(proper).filter((t) => !/^(19|20)\d{2}$/.test(t));
     if (!toks.length) return null;
-    const popts = { used, allowPortrait: true, minWidth: 600, event: true, crossCheck: toks, minCross: Math.min(2, toks.length) };
-    return (await commonsBest(proper, popts)) || (await commonsBest(`${proper} ${reg}`, popts));
+    // Every name word for a short name, all but one for a long one. "2 of 3"
+    // let "Vietnamese Super Cup" match the German handball Super Cup four
+    // times over (2026-08-22); "Formula 1 Spanish Grand Prix" (4 tokens)
+    // still matches "Spanish Grand Prix".
+    const minCross = toks.length <= 3 ? toks.length : toks.length - 1;
+    const popts = { used, allowPortrait: true, minWidth: 600, event: true, crossCheck: toks, minCross };
+    return via((await commonsBest(proper, popts)) || (await commonsBest(`${proper} ${reg}`, popts)), 'phrase');
   };
   const tryVenue = async () => {
     if (!eventMode || !venue) return null;
     const va = keyToken(venue, `${reg} ${ctry}`);
     if (!va) return null;
     const vopts = { mustInclude: [va], used, allowPortrait: true, minWidth: 600, crossCheck: tokens(`${venue} ${reg}`), minCross: 2 };
-    return (await commonsBest(`${venue} ${reg}`, vopts)) || (await commonsBest(venue, { ...vopts, minCross: 1 }));
+    return via((await commonsBest(`${venue} ${reg}`, vopts)) || (await commonsBest(venue, { ...vopts, minCross: 1 })), 'venue');
   };
 
   // TOP PRIORITY for venue posts: the venue's OWN Google Places photo, self-hosted.
@@ -213,6 +223,26 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
       }
       return null;
     };
+    // EVENTS: the proper-name phrase goes FIRST. It is the stricter key
+    // (every name word must appear) and the anchor search below is where the
+    // junk comes from — "Hue Festival" anchors on 'autumn' and the resolver
+    // handed the patrol six "Autumn Music" leaf photos while "Festival Huế"
+    // sat one query away, never reached because the patrol's candidate loop
+    // ran out of turns on the junk (2026-08-22).
+    const byPhraseFirst = await tryProperPhrase();
+    if (byPhraseFirst) return mark(byPhraseFirst, used);
+    // A COMMON-word anchor ("super" for Vietnamese Super Cup, "moon" for the
+    // Sun Moon Lake fireworks) is the event's weakest key: it surfaces other
+    // Super Cups and other moons, turn after turn, and the patrol's loop never
+    // reached the venue search that had Hàng Đẫy Stadium on its first try
+    // (2026-08-23). The venue outranks such an anchor; a proper-noun anchor
+    // (plk, bts, babymonster) still outranks the venue.
+    let venueTried = false;
+    if (eventMode && COMMON_ANCHOR.test(anchor)) {
+      venueTried = true;
+      const byVenueFirst = await tryVenue();
+      if (byVenueFirst) return mark(byVenueFirst, used);
+    }
     const byName =
       (await commonsBest(`${namedVenue} ${reg}`, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
       (await commonsBest(namedVenue, { mustInclude: [anchor], used, ...copts, ...venueGuard, ...identity })) ||
@@ -239,10 +269,8 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
       (eventMode && anchor.length >= 4 && !new Set(tokens(reg || '')).has(anchor) && !GEO_STOP.has(anchor)
         ? await commonsBest(anchor, { mustInclude: [anchor], used, ...copts, crossCheck: tokens(namedVenue), minCross: 2 })
         : null);
-    if (byName) return mark(byName, used);
-    const byPhrase = await tryProperPhrase();
-    if (byPhrase) return mark(byPhrase, used);
-    const byVenue = await tryVenue();
+    if (byName) return mark(via(byName, 'act'), used);
+    const byVenue = venueTried ? null : await tryVenue();
     if (byVenue) return mark(byVenue, used);
 
     // STRICT mode (venue posts at generation time): accuracy policy is
@@ -388,7 +416,11 @@ function mark(img, used) {
   // Return ONLY the fields the post schema stores — Commons candidates carry
   // internal scoring fields (index, w, h, featured…) that must not leak into
   // frontmatter.
-  return { url: img.url, credit: img.credit, license: img.license, source: img.source };
+  // `via` (how the file was found) rides along for the filename identity
+  // audit; the patrol and the discoverer copy the four schema fields out by
+  // name, so it stops here. Stripped by mistake on the first run (2026-08-22)
+  // and every venue find was refused again.
+  return { url: img.url, credit: img.credit, license: img.license, source: img.source, ...(img.via ? { via: img.via } : {}) };
 }
 
 // Unsplash, deterministic BEST match (top of the ranked candidates), Korea-scoped.

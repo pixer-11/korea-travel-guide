@@ -22,6 +22,7 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
+import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
@@ -246,38 +247,15 @@ for (const f of files) {
       // thrown out as "names another act" (12 of 12 on 2026-08-22).
       ...tokens(data.eventVenue || ''),
     ]);
-    const GENERIC_FILE_WORDS = new Set(['cropped', 'crop', 'photo', 'image', 'img', 'file', 'dsc', 'edit', 'edited', 'retouched', 'wikimedia', 'commons', 'flickr']);
-    const foreignInFilename = (url) => {
-      let file = String(url).split('/').pop() || '';
-      try { file = decodeURIComponent(file); } catch {}
-      const ft = tokens(file.replace(/\.(jpe?g|png)\b.*$/i, ''));
-      const leftovers = ft
-        .filter((t) => !knownTok.has(t) && !GENERIC_FILE_WORDS.has(t))
-        .filter((t) => !/^\d+(px)?$/.test(t));
-      // The anchor in the filename used to settle identity outright. It
-      // settled it wrongly twice on 2026-08-16: "After_Forever_Circo_Voador"
-      // (a different band whose name contains the anchor "forever") headed
-      // the F✦FOREVER tour, and a football-type anchor let
-      // "Boys_playing_street_football_in_Egypt" head Hong Kong's football
-      // festival — vision then ASSERTED "Hong Kong plaza" and "F✦FOREVER
-      // stage", the known blind spot. An anchor that is a real proper noun
-      // (bts, babymonster, bigbang, plk) is identity enough; a COMMON word
-      // used as anchor (forever, football, super, moon) is not — for those,
-      // any leftover token that looks like a name (not a stop-word, not the
-      // type) is a foreign identity and the file is refused.
-      const COMMON_ANCHOR = /^(forever|football|soccer|super|moon|open|autumn|spring|summer|winter|snooker|festival|fest|cup|final|live|show|night|day|street|park|city|world|music|art|food|film|beer|wine|light|fire|water|sea|lake|river|hill|mountain|garden|market)$/;
-      const anchorIsName = anchor && !COMMON_ANCHOR.test(anchor);
-      if (anchorIsName && ft.includes(anchor)) return '';
-      // A common-word anchor that IS the sport ("snooker", "football") is
-      // still identity when the file is about that sport and names one
-      // extra thing — a player ("Snooker_table_selby": Mark Selby, fine for
-      // a snooker tournament page). Two or more leftovers is a scene
-      // described elsewhere ("boys playing street … egypt") and refused.
-      if (anchor && ft.includes(anchor) && leftovers.length <= 1) return '';
-      return leftovers.join(' ');
-    };
+    // The rule itself (what a leftover word means for an act find vs a venue
+    // find, the 2026-08-16 "After Forever" / street-football cases) lives in
+    // lib/event-file-identity.mjs, shared with upgrade-hero-width.
     const seen = new Set(used);
-    for (let i = 0; i < 6; i++) {
+    // Filename refusals are free (no vision call) and each one is marked in
+    // `seen`, so the loop may dig past them: six fixed turns were all spent
+    // on "Autumn Music" leaf photos before the real Hue Festival file came
+    // up (2026-08-22). Stop once a few candidates are worth a vision call.
+    for (let i = 0; i < 12 && cands.length < 4; i++) {
       let pick = null;
       try {
         pick = await resolveHero({
@@ -287,7 +265,7 @@ for (const f of files) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
-      const foreign = foreignInFilename(pick.url);
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world) });
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
       if (foreign) { console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
@@ -359,6 +337,10 @@ for (const f of files) {
     const second = await auditHeroImage({
       url: cand.url, title: data.title, category: data.category,
       region: data.region, country: data.country || '', eventMode: isEvent,
+      // The audit must know the venue too, or it refuses the venue photo the
+      // selection just accepted ("convention center, not EDC venue" for the
+      // Inspire resort that IS the EDC venue, 2026-08-23).
+      venue: isEvent ? (data.eventVenue || '') : '',
     });
     if (second.verdict === 'MISMATCH') {
       console.log(`   ${slug}: selection passed but the audit rejects it (${second.reason}) — skipping`);

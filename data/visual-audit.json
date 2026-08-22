@@ -11133,12 +11133,6 @@
   "reason": "patrol reject: Unrelated building, not music/fireworks festival at Sun Moon Lake",
   "at": "2026-08-20T20:08:57.045Z"
  },
- "nantou-2026-sun-moon-lake-music-fireworks-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sun_Moon_Lake_20150202.jpg/3840px-Sun_Moon_Lake_20150202.jpg": {
-  "slug": "nantou-2026-sun-moon-lake-music-fireworks-festival",
-  "verdict": "MISMATCH",
-  "reason": "patrol reject: audit: Image shows a lake with mountains, not a music festival venu",
-  "at": "2026-08-20T20:09:01.946Z"
- },
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/b/bb/BOYS_FOREVER_%2830107906903%29.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
   "verdict": "MISMATCH",
@@ -12033,5 +12027,71 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Taipei Dome shown under construction, not visitor-ready state",
   "at": "2026-08-22T14:39:50.743Z"
+ },
+ "austin-formula-1-united-states-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Circuit_of_the_Americas_aerial_view_from_WN4430.jpg/3840px-Circuit_of_the_Americas_aerial_view_from_WN4430.jpg": {
+  "slug": "austin-formula-1-united-states-grand-prix",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Aerial view of Circuit of the Americas, Austin F1 venue",
+  "at": "2026-08-22T14:57:29.922Z"
+ },
+ "hue-hue-festival-2026-autumn-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Festival_Hu%E1%BA%BF.jpg": {
+  "slug": "hue-hue-festival-2026-autumn-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Traditional dragon boat, Hue Festival setting, Vietnam",
+  "at": "2026-08-22T15:01:57.239Z"
+ },
+ "nantou-2026-sun-moon-lake-music-fireworks-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sun_and_moon_at_sunset.jpg/3840px-Sun_and_moon_at_sunset.jpg": {
+  "slug": "nantou-2026-sun-moon-lake-music-fireworks-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic dusk sky silhouette, no fireworks, lake, or venue shown",
+  "at": "2026-08-22T15:03:48.722Z"
+ },
+ "nantou-2026-sun-moon-lake-music-fireworks-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sun_and_moon_at_sunset_-_60pc.jpg/3840px-Sun_and_moon_at_sunset_-_60pc.jpg": {
+  "slug": "nantou-2026-sun-moon-lake-music-fireworks-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic dusk sky, no lake/fireworks/venue visible",
+  "at": "2026-08-22T15:03:55.342Z"
+ },
+ "paris-plk-stade-de-france-concerts\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Remote_view_of_Stade_de_France_%2849445778188%29.jpg": {
+  "slug": "paris-plk-stade-de-france-concerts",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Distant cityscape view, not the stadium or performer",
+  "at": "2026-08-22T15:05:01.890Z"
+ },
+ "pasay-city-lalala-fest-manila-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/World_Trade_Center_Metro_Manila_33.jpg/3840px-World_Trade_Center_Metro_Manila_33.jpg": {
+  "slug": "pasay-city-lalala-fest-manila-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a plaque/sign, not the venue itself",
+  "at": "2026-08-22T15:06:28.014Z"
+ },
+ "pasay-city-lalala-fest-manila-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/World_Trade_Center_Metro_Manila_1.jpg/3840px-World_Trade_Center_Metro_Manila_1.jpg": {
+  "slug": "pasay-city-lalala-fest-manila-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a plaque/text, not the venue itself",
+  "at": "2026-08-22T15:06:37.544Z"
+ },
+ "hanoi-vietnamese-super-cup-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/13/Hang_Day.jpg": {
+  "slug": "hanoi-vietnamese-super-cup-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Football stadium with blue seats, Vietnamese architecture",
+  "at": "2026-08-22T15:14:08.435Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Asian_Games_Hangzhou_2023_-_33.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Weightlifting athlete, not Nagoya 2026 venue or event",
+  "at": "2026-08-22T15:16:32.672Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Asian_Games_Hangzhou_2023_-_8.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Weightlifting competition, not Nagoya 2026 venue",
+  "at": "2026-08-22T15:16:42.194Z"
+ },
+ "pasay-city-lalala-fest-manila-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/World_Trade_Center_Metro_Manila_333.jpg/3840px-World_Trade_Center_Metro_Manila_333.jpg": {
+  "slug": "pasay-city-lalala-fest-manila-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: World Trade Center Manila interior reception desk",
+  "at": "2026-08-22T15:20:13.259Z"
  }
 }

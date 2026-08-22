@@ -11,7 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: Formula 1
   url: https://www.formula1.com
-gallery: []
 tags:
   - austin
   - event
@@ -28,8 +27,15 @@ faq:
   - q: How do I get tickets?
     a: Buy directly through Formula1.com or COTA's official ticketing page, and book early — Austin hotels and shuttle capacity tighten fast for this weekend.
 aiGenerated: true
-draft: true
 eventVenue: Circuit of the Americas
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Circuit_of_the_Americas_aerial_view_from_WN4430.jpg/3840px-Circuit_of_the_Americas_aerial_view_from_WN4430.jpg
+  credit: 'Photo: Spheroidite / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Circuit_of_the_Americas_aerial_view_from_WN4430.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Why go

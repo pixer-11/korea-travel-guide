@@ -91,6 +91,12 @@ test('strips the edition year and the parenthetical', () => {
   assert.equal(eventProperName('BWF World Championships 2026: What to Know (New Delhi)'), 'BWF World Championships');
 });
 
+test('the five-word cut never ends on a dangling conjunction', () => {
+  // "Sun Moon Lake Music &" matched nothing on Commons (2026-08-22).
+  assert.equal(eventProperName('2026 Sun Moon Lake Music & Fireworks Festival: What to Know (Nantou)'), 'Sun Moon Lake Music');
+  assert.equal(eventProperName('Beer Wine Food Fun and Games Fest: What to Know (Lyon)'), 'Beer Wine Food Fun');
+});
+
 test('keeps a multi-word name that IS the event', () => {
   assert.equal(eventProperName('Formula 1 Spanish Grand Prix: What to Know (Madrid)'), 'Formula 1 Spanish Grand Prix');
   assert.equal(eventProperName('Aomori Nebuta Matsuri: What to Know (Aomori)'), 'Aomori Nebuta Matsuri');

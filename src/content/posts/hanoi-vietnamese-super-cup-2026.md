@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Vietnamese Super Cup 2026: What to Know (Hanoi)'
 description: Vietnamese Super Cup 2026 in Hanoi, Vietnam — August 30, 2026. What it is, when and where, and how to plan around it.
 country: Vietnam
@@ -8,7 +7,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-30'
 eventEndDate: '2026-08-30'
-gallery: []
 tags:
   - hanoi
   - event
@@ -30,6 +28,14 @@ eventOrganizer:
   name: Vietnam Professional Football Joint Stock Company (VPF)
   url: https://vpf.vn
 eventVenue: Hàng Đẫy Stadium
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/1/13/Hang_Day.jpg
+  credit: 'Photo: Riehjkd / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hang_Day.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Why this match matters

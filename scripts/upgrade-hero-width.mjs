@@ -30,6 +30,7 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
+import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { probeWidth } from './lib/image-width.mjs';
@@ -102,34 +103,28 @@ for (const slug of SLUGS) {
     // Event identity lives in the FILENAME (vision cannot tell acts apart):
     // same audit as the backfill patrol — a file that names neither the act
     // nor only the event's own words is some other act's photo.
-    const anchor = keyToken(venueName);
+    // Same rule and same venue/phrase tolerance as the night patrol — one
+    // shared function (lib/event-file-identity.mjs), not a second copy that
+    // drifts (this copy had neither the venue words nor the 08-16 common-
+    // anchor rule).
+    const anchor = keyToken(venueName, `${data.region || ''} ${data.country || ''}`);
     const knownTok = new Set([
       ...tokens(venueName), ...tokens(eventTopic(venueName)),
       ...tokens(data.region || ''), ...tokens(data.country || ''),
+      ...tokens(data.eventVenue || ''),
     ]);
-    const GENERIC_FILE_WORDS = new Set(['cropped', 'crop', 'photo', 'image', 'img', 'file', 'dsc', 'edit', 'edited', 'retouched', 'wikimedia', 'commons', 'flickr']);
-    const foreignInFilename = (url) => {
-      let file = String(url).split('/').pop() || '';
-      try { file = decodeURIComponent(file); } catch {}
-      const ft = tokens(file.replace(/\.(jpe?g|png)\b.*$/i, ''));
-      if (anchor && ft.includes(anchor)) return '';
-      return ft
-        .filter((t) => !knownTok.has(t) && !GENERIC_FILE_WORDS.has(t))
-        .filter((t) => !/^\d+(px)?$/.test(t))
-        .join(' ');
-    };
     const seen = new Set(used);
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 12 && cands.length < 4; i++) {
       let pick = null;
       try {
         pick = await resolveHero({
           namedVenue: venueName, region: data.region, topic: eventTopic(venueName),
           country: data.country, used: seen, preferTopic: true, eventMode: true,
-          allowUnsplash: false,
+          allowUnsplash: false, venue: data.eventVenue || '',
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break;
-      const foreign = foreignInFilename(pick.url);
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens() });
       if (foreign) { console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
       cands.push(pick);
     }

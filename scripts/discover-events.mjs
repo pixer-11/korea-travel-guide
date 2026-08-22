@@ -29,6 +29,12 @@ import { writeArticle } from './lib/writer.mjs';
 import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
+import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
+import { loadWorld } from './lib/commons-identity.mjs';
+
+// Place-name tokens for the filename identity audit (a past host city in a
+// file name is WHERE an edition was held, not another act).
+const WORLD_GEO = geoTokens(await loadWorld().catch(() => null));
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -193,24 +199,46 @@ async function writeDiscovered(item, ctx) {
   // pickRepHeroUrl, so an artist shot never stands in for the place. Pass `used`
   // so no two posts share the same photo (id-level de-dupe), falling back to
   // city/country imagery only when nothing specific is found.
-  const hero = await resolveHero({
-    namedVenue: item.name,
-    venue: cat === 'event' && typeof item.venue === 'string' ? item.venue.trim() : '',
-    region: item.city,
-    // Events: try the specific act/fighter (namedVenue) first, then fall back to
-    // the event TYPE (MMA, racing, concert…) rather than the raw name, so a hero
-    // is at least on-topic. Hotspots keep their venue name as the topic.
-    topic: cat === 'event' ? eventTopic(item.name) : item.name,
-    country,
-    used: ctx.usedImages,
-    preferTopic: cat === 'event',
-    eventMode: cat === 'event',
-    // Stock photography can't tell one act from another — a generic Unsplash
-    // concert crowd would pass event-mode vision under any performer's name.
-    // Events may publish photoless by policy, so refusing stock costs nothing
-    // (backfill-photos-alt already bans this class; the two paths now agree).
-    allowUnsplash: false,
-  });
+  const eventVenue = cat === 'event' && typeof item.venue === 'string' ? item.venue.trim() : '';
+  // AT BIRTH, the same filename identity audit the night patrol applies
+  // (lib/event-file-identity.mjs). Vision cannot tell acts apart, so without
+  // this a venue find of ANOTHER band at the same hall ("Mayday Taipei Dome
+  // Concert" for a HIGE DANDism guide) would pass the gate and go live, and
+  // only the patrol — a night later, at a second vision cost — could catch
+  // it. A refused file costs nothing (no vision call) and is marked used, so
+  // the next turn surfaces a different one.
+  const knownTok = new Set([
+    ...nameTokens(item.name), ...nameTokens(eventTopic(item.name)),
+    ...nameTokens(item.city || ''), ...nameTokens(country || ''), ...nameTokens(eventVenue),
+  ]);
+  const anchor = cat === 'event' ? keyToken(item.name, `${item.city || ''} ${country || ''}`) : '';
+  let hero = null;
+  for (let turn = 0; turn < (cat === 'event' ? 8 : 1); turn++) {
+    const pick = await resolveHero({
+      namedVenue: item.name,
+      venue: eventVenue,
+      region: item.city,
+      // Events: try the specific act/fighter (namedVenue) first, then fall back to
+      // the event TYPE (MMA, racing, concert…) rather than the raw name, so a hero
+      // is at least on-topic. Hotspots keep their venue name as the topic.
+      topic: cat === 'event' ? eventTopic(item.name) : item.name,
+      country,
+      used: ctx.usedImages,
+      preferTopic: cat === 'event',
+      eventMode: cat === 'event',
+      // Stock photography can't tell one act from another — a generic Unsplash
+      // concert crowd would pass event-mode vision under any performer's name.
+      // Events may publish photoless by policy, so refusing stock costs nothing
+      // (backfill-photos-alt already bans this class; the two paths now agree).
+      allowUnsplash: false,
+    });
+    if (cat === 'event' && pick?.url && pick.license === 'wikimedia') {
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: WORLD_GEO });
+      if (foreign) { console.log(`   ${item.name}: file names another act (${foreign}) — next`); continue; }
+    }
+    hero = pick;
+    break;
+  }
   let heroImage = isImageAllowed(hero)
     ? { url: hero.url, credit: hero.credit, license: hero.license, source: hero.source } : undefined;
   // This was the LAST publish path with no vision gate — the 07-29 event batch

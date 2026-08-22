@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-08-21'
 eventEndDate: '2026-08-21'
-gallery: []
 tags:
   - pasay city
   - event
@@ -24,12 +23,19 @@ faq:
   - q: Where should I stay for the festival?
     a: Roxas Boulevard hotels or the Entertainment City/Bay Area strip (near Solaire, Okada, City of Dreams) are a short ride from WTC and close to SM Mall of Asia for food and essentials.
 aiGenerated: true
-draft: true
 eventRecurring: false
 photoless: true
 eventOrganizer:
   name: Wilbros Live
 eventVenue: World Trade Center Manila
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/World_Trade_Center_Metro_Manila_333.jpg/3840px-World_Trade_Center_Metro_Manila_333.jpg
+  credit: 'Photo: Zarate123 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:World_Trade_Center_Metro_Manila_333.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 ## Why go
 

@@ -21,7 +21,9 @@ const ARTICLE_SUFFIX = new RegExp(
 );
 
 // Leftover separators/whitespace once the suffix is gone.
-const TRAILING_JUNK = new RegExp(String.raw`[\s:\u2013\u2014-]+$`);
+// A dangling conjunction is junk too: the five-word cut of "Sun Moon Lake
+// Music & Fireworks Festival" ended in "&" and matched nothing (2026-08-22).
+const TRAILING_JUNK = new RegExp(String.raw`(?:\s+(?:and|of|the)\b)?[\s:&–—-]*$`, 'i');
 
 /**
  * The event's own name, extracted from an English article title.

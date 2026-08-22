@@ -66,6 +66,12 @@ export const ANCHOR_STOP = new Set([
   'september', 'october', 'november', 'december',
 ]);
 
+// A COMMON word that keyToken ends up choosing as an event's anchor (forever,
+// football, super, moon, autumn…). It is the weakest key an event has — worse
+// than its venue — and never identity on its own (2026-08-16 "After Forever",
+// 2026-08-22 "Vietnamese Super Cup" → twelve German handball Super Cups).
+export const COMMON_ANCHOR = /^(forever|football|soccer|super|moon|open|autumn|spring|summer|winter|snooker|festival|fest|cup|final|live|show|night|day|street|park|city|world|music|art|food|film|beer|wine|light|fire|water|sea|lake|river|hill|mountain|garden|market)$/;
+
 // Most distinctive word of a name — e.g. "Gyeongbokgung Palace" -> "gyeongbokgung",
 // "Post Malone – Big Ass World Tour" -> "malone", "UFC Fight Night …" -> "ufc".
 export const keyToken = (s = '', exclude = '') => {
@@ -159,7 +165,10 @@ const namesSubjectNotVantage = (title, subject) => {
 };
 
 const UNUSABLE_SUBJECT =
-  /\b(?:construction|scaffold|scaffolding|crane|renovation|restoration|demolition|closed|closure|notice|signboard|plaque|placard|floor\s?plan|diagram|blueprint|schematic|logo|poster|screenshot)\b/i;
+  // Stamps, coins, medals, tickets, emblems, mascots, maps: Commons is full of
+  // them for any big event ("Stamp of Indonesia … 2018 Asian Games" was three
+  // of the four Asian Games results, 2026-08-22) and none is ever a hero.
+  /\b(?:construction|scaffold|scaffolding|crane|renovation|restoration|demolition|closed|closure|notice|signboard|plaque|placard|floor\s?plan|diagram|blueprint|schematic|logo|poster|screenshot|stamp|stamps|coin|coins|medal|medals|ticket|tickets|emblem|mascot|banknote|postcard|map|maps)\b/i;
 
 // Why a file name disqualifies a photo, or '' if it does not. Exported so the
 // hero audit applies the same test the carousel does — the Cloud Gate guide
