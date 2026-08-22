@@ -14,11 +14,11 @@ tags:
 quickAnswer: LaLaLa Fest Manila 2026 is set for August 21, 2026 at the World Trade Center Manila in Pasay City, headlined by Steve Lacy and Two Door Cinema Club. Treat this as an outdoor/indoor convention-center festival day trip from Manila proper — nearest transit is the LRT-1 Edsa or MRT-3 Taft Ave stations, both a short ride/taxi from the venue. Confirm exact set times, gate hours, and ticket tiers on LaLaLa Fest's official channels before booking flights or hotels.
 faq:
   - q: Is the August 21, 2026 date for LaLaLa Fest Manila confirmed?
-    a: That's the announced date, but always check LaLaLa Fest's official website or social media closer to the event for any updates, since festival dates and lineups can shift.
+    a: That was the announced date; LaLaLa Fest's official website and social media carried any schedule or lineup updates.
   - q: How do I get to World Trade Center Manila from the airport?
     a: NAIA is about 15-20 minutes away by car depending on terminal and traffic; Grab or airport taxi is the most straightforward option, especially with luggage.
   - q: Who's headlining LaLaLa Fest Manila 2026?
-    a: Steve Lacy and Two Door Cinema Club are the confirmed international headliners; additional acts may be announced closer to the date.
+    a: Steve Lacy and Two Door Cinema Club were the confirmed international headliners.
   - q: What's the closest train station to the venue?
     a: LRT-1's EDSA/Libertad station and MRT-3's Taft Avenue station are nearest, but you'll still need a short tricycle, jeepney, or Grab ride to reach WTC itself.
   - q: Where should I stay for the festival?

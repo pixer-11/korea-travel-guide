@@ -6,6 +6,7 @@
 // which keeps 2026 AI-search / E-E-A-T signals working in our favor.
 import Anthropic from '@anthropic-ai/sdk';
 import { reflow } from '../../src/lib/paragraphs.mjs';
+import { FUTURE_PROMISE } from '../../src/lib/ended-event-claims.mjs';
 
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 
@@ -98,13 +99,33 @@ const TOOL = {
   },
 };
 
+// An event guide is written BEFORE the event and stays online after it. A
+// sentence like "check the official site closer to the date" or "the lineup
+// hasn't been confirmed" is true on publish day and a rotten instruction the
+// morning after the event — which is exactly when the validator flags it and a
+// repair pass has to spend a rewrite (sonu-nigam, lalala-fest, 2026-08-22).
+// Born clean instead: the writer is told to phrase confirmations timelessly,
+// and the output is checked against the same pattern the validator and the
+// repair tool share. One retry naming the residue, then ship with a log line.
+export const EVENT_TIMELESS_RULE = 'EVENT PAGES STAY ONLINE AFTER THE EVENT. Phrase every "confirm on the official source" instruction TIMELESSLY ("Confirm timing and tickets on the official site") — never relative to the date. Do NOT write: "closer to the date/event", "will be announced/confirmed/released", "has/have not been confirmed/announced yet", "tickets go on sale", "the lineup has yet to", "once released". State what is known; do not promise future updates.';
+
+/** First forward-looking phrase in a written guide's fields, or null when clean. */
+export function eventFuturePromise(out) {
+  const fields = [out?.quickAnswer, out?.body, ...(Array.isArray(out?.faq) ? out.faq.map((f) => f?.a) : [])];
+  for (const t of fields) {
+    const m = String(t || '').match(FUTURE_PROMISE);
+    if (m) return m[0];
+  }
+  return null;
+}
+
 export async function writeArticle({ apiKey, title, region, country, category, facts }) {
   const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY });
 
   const userPrompt = `Write a guide titled: "${title}"
 Destination: ${region}${country ? `, ${country}` : ''}
 Category: ${category}
-
+${category === 'event' ? EVENT_TIMELESS_RULE + '\n' : ''}
 VERIFIED FACTS (use only these for specifics):
 ${JSON.stringify(facts, null, 2)}`;
 
@@ -120,7 +141,30 @@ ${JSON.stringify(facts, null, 2)}`;
   const toolUse = msg.content.find((b) => b.type === 'tool_use');
   if (!toolUse) throw new Error('model did not return a submit_guide tool call');
 
-  const out = toolUse.input;
+  let out = toolUse.input;
+  // Born-clean gate for events (see EVENT_TIMELESS_RULE): one retry naming the
+  // exact residue. Free when the first draft is clean, which the rule makes
+  // the normal case; a second miss ships with a log line rather than a loop,
+  // and the nightly validator will say so the day the event ends.
+  const residue = category === 'event' ? eventFuturePromise(out) : null;
+  if (residue) {
+    console.log('  (event draft promises the future: "' + residue + '" - asking for a timeless rewrite)');
+    const again = await client.messages.create({
+      model: MODEL, max_tokens: 5000, system: SYSTEM, tools: [TOOL],
+      tool_choice: { type: 'tool', name: 'submit_guide' },
+      messages: [
+        { role: 'user', content: userPrompt },
+        { role: 'assistant', content: msg.content },
+        { role: 'user', content: 'Your draft contains the phrase "' + residue + '", which becomes a stale instruction the day after the event. Resubmit the whole guide with every forward-looking promise removed or rephrased timelessly, changing nothing else. ' + EVENT_TIMELESS_RULE },
+      ],
+    });
+    const second = again.content.find((b) => b.type === 'tool_use');
+    if (second) {
+      out = second.input;
+      const left = eventFuturePromise(out);
+      if (left) console.log('  (event draft still says "' + left + '" after retry - shipping; the validator flags it when the event ends)');
+    }
+  }
   // The prompt asks for paragraphs under 70 words. Across 792 published guides
   // it was ignored 88% of the time — an instruction about shape is the first
   // thing a model drops when it is also juggling facts, hours and honesty

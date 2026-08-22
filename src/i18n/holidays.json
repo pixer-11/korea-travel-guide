@@ -1,4 +1,94 @@
 {
+  "Cambodia|Cambodia Peace Day": {
+    "ko": "캄보디아 평화의 날",
+    "ja": "カンボジア平和の日",
+    "es": "Día de la Paz de Camboya",
+    "zh": "和平纪念日"
+  },
+  "Cambodia|Commemoration Day of the King's Father": {
+    "ko": "선왕 기념일",
+    "ja": "シアヌーク前国王記念日",
+    "es": "Día de Conmemoración del Rey Padre",
+    "zh": "已故太皇纪念日"
+  },
+  "Cambodia|Constitution Day": {
+    "ko": "제헌절",
+    "ja": "制憲記念日",
+    "es": "Día de la Constitución",
+    "zh": "宪法日"
+  },
+  "Cambodia|Coronation Day of King Sihamoni": {
+    "ko": "시아모니 국왕 대관식 기념일",
+    "ja": "シハモニ国王戴冠記念日",
+    "es": "Día de la Coronación del Rey Sihamoni",
+    "zh": "西哈莫尼国王加冕纪念日"
+  },
+  "Cambodia|International Women's Day": {
+    "ko": "세계 여성의 날",
+    "ja": "国際女性デー",
+    "es": "Día Internacional de la Mujer",
+    "zh": "国际妇女节"
+  },
+  "Cambodia|Khmer New Year": {
+    "ko": "크메르 새해",
+    "ja": "クメール正月",
+    "es": "Año Nuevo Jemer",
+    "zh": "柬埔寨新年"
+  },
+  "Cambodia|King Sihamoni's Birthday": {
+    "ko": "시하모니 국왕 탄신일",
+    "ja": "シハモニ国王誕生日",
+    "es": "Cumpleaños del Rey Sihamoni",
+    "zh": "西哈莫尼国王诞辰"
+  },
+  "Cambodia|Labour Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Cambodia|National Independence Day": {
+    "ko": "독립기념일",
+    "ja": "独立記念日",
+    "es": "Día de la Independencia Nacional",
+    "zh": "独立纪念日"
+  },
+  "Cambodia|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Cambodia|Pchum Ben": {
+    "ko": "프춤번",
+    "ja": "プチュムバン",
+    "es": "Pchum Ben",
+    "zh": "亡人节"
+  },
+  "Cambodia|Queen Mother's Birthday": {
+    "ko": "왕대비 탄신일",
+    "ja": "王母誕生日",
+    "es": "Cumpleaños de la Reina Madre",
+    "zh": "王太后诞辰"
+  },
+  "Cambodia|Royal Ploughing Ceremony": {
+    "ko": "왕실 쟁기질 의식",
+    "ja": "王室籍田祭",
+    "es": "Ceremonia Real del Arado",
+    "zh": "御耕节"
+  },
+  "Cambodia|Victory over Genocide Day": {
+    "ko": "학살 종식 승리 기념일",
+    "ja": "ジェノサイド勝利記念日",
+    "es": "Día de la Victoria sobre el Genocidio",
+    "zh": "解放日"
+  },
+  "Cambodia|Water Festival": {
+    "ko": "물 축제",
+    "ja": "ボンオムトゥック(水祭り)",
+    "es": "Festival del Agua",
+    "zh": "送水节"
+  },
   "China|Chinese New Year (Spring Festival)": {
     "ko": "춘절(설)",
     "ja": "春節（旧正月）",
@@ -430,6 +520,12 @@
     "ja": "メサディ",
     "es": "Mesadi",
     "zh": "泰米尔新年"
+  },
+  "India|Milad un-Nabi": {
+    "ko": "마울리드 (예언자 탄신일)",
+    "ja": "ミラド・アンナビー",
+    "es": "Mawlid",
+    "zh": "圣纪节"
   },
   "India|Milad un-Nabi (tentative)": {
     "ko": "미라주 나비",
@@ -976,6 +1072,12 @@
     "es": "Nochevieja",
     "zh": "新年前夜",
     "ko": "새해 전야"
+  },
+  "Malaysia|Maulidur Rasul": {
+    "ko": "마울리드 (예언자 탄신일)",
+    "ja": "predアウリド・ラスール",
+    "es": "Mawlid",
+    "zh": "圣纪节"
   },
   "Malaysia|Maulidur Rasul (tentatif)": {
     "ko": "마울리드",

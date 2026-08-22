@@ -182,7 +182,7 @@ async function writeDiscovered(item, ctx) {
     name: item.name, city: item.city, date: item.date, country, summary: item.summary,
     guidance:
       kind === 'event'
-        ? 'Time-sensitive event discovered via web search. Use the given facts, state the date as announced, and ALWAYS tell readers to confirm exact dates, venue, and tickets on the official source. Do not invent lineup, prices, or times.'
+        ? 'Time-sensitive event discovered via web search. Use the given facts, state the date as announced, and tell readers to confirm exact dates, venue, and tickets on the official source — phrased TIMELESSLY, as a standing instruction ("Confirm timing and tickets on the official site"), never as a date-relative promise. The page stays online after the event, so NEVER write "closer to the date/event", "will be announced/confirmed", "have not been confirmed yet", "tickets go on sale", "lineup has yet to", or "once released". Do not invent lineup, prices, or times.'
         : 'Recently-opened / trending spot discovered via web search. Use the given facts; describe what it is, where, and why it stands out. Tell readers to confirm hours and reservations before visiting. Do not invent a menu, prices, or exact hours you were not given.',
   };
   const { body, quickAnswer, faq } = await writeArticle({ title, region: item.city, country, category: cat, facts });
