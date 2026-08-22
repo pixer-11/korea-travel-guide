@@ -1658,3 +1658,28 @@ main:focus { outline: none; }
   .site-footer nav a { display: inline-block; padding: 0.65rem 0.2rem; min-height: 44px; line-height: 1.3; }
   .site-footer .footer-social a { display: inline-block; padding: 0.6rem 0.3rem; }
 }
+
+/* ── Mobile home order + length (owner, 2026-08-22) ──────────────────────
+   Mobile visits average 65 seconds and the home ran 12,700px in the desktop
+   order, opening with the 1,400px editor's-picks band. On a phone the plan
+   tools (itineraries + crowd widget — the product) come right after the hero
+   search; the browsy bands follow. DOM order is untouched, so desktop keeps
+   the reviewed 08-08 layout and crawlers see the same document either way.
+   `main:has(> .hero-wall)` scopes this to the home page only; a browser
+   without :has() simply keeps the desktop order — nothing breaks. */
+@media (max-width: 760px) {
+  main:has(> .hero-wall) { display: flex; flex-direction: column; }
+  main:has(> .hero-wall) > .hero-wall { order: 0; }
+  main:has(> .hero-wall) > .sec-tools { order: 1; }
+  main:has(> .hero-wall) > .sec-monthly { order: 2; }
+  main:has(> .hero-wall) > .sec-latest { order: 3; }
+  main:has(> .hero-wall) > .sec-spot { order: 4; }
+  main:has(> .hero-wall) > .sec-dest { order: 5; }
+  main:has(> .hero-wall) > .sec-ess { order: 6; }
+  main:has(> .hero-wall) > .sec-trust { order: 7; }
+  main:has(> .hero-wall) > .sec-more { order: 8; }
+  main:has(> .hero-wall) > .newsletter { order: 9; }
+  /* "More to read" held 12 full cards — two more screens past the footer's
+     reach. Six is a taste; the rest live one tap away on /destinations. */
+  .sec-more .grid > :nth-child(n+7) { display: none; }
+}

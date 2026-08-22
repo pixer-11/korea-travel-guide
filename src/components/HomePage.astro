@@ -272,7 +272,7 @@ const fmtEventDates = (p: any) => {
   </section>
 
   {monthlyPicks.length >= 2 && (
-    <section class="section">
+    <section class="section sec-monthly">
       <div class="wrap">
         <p class="kicker gold">{t('home.monthly.kicker').replace('{month}', monthLabel)}</p>
         <h2>{t('home.monthly.title')}</h2>
@@ -307,7 +307,7 @@ const fmtEventDates = (p: any) => {
       have (when-to-go) measured zero clicks. The tool it links doubles as
       the site's citation asset for backlinks. */}
   {(itins.length >= 3 || busynessCount >= 100) && (
-    <section class="section">
+    <section class="section sec-tools">
       <div class="wrap">
         <div class="tools-duo">
           {itins.length >= 3 && (
@@ -378,7 +378,7 @@ const fmtEventDates = (p: any) => {
   )}
 
   {latest.length > 0 && (
-    <section class="section">
+    <section class="section sec-latest">
       <div class="wrap">
         <div class="rule-head"><h2 class="kicker">{t('home.latestStories')}</h2></div>
         <div class="stories">
@@ -397,7 +397,7 @@ const fmtEventDates = (p: any) => {
     </section>
   )}
 
-  <section class="section">
+  <section class="section sec-spot">
     <div class="wrap">
       <div class="spotlight">
         <div class="spotlight-media">
@@ -425,7 +425,7 @@ const fmtEventDates = (p: any) => {
     </div>
   </section>
 
-  <section class="section">
+  <section class="section sec-dest">
     <div class="wrap">
       <div class="rule-head">
         <h2 class="kicker">{t('home.destinations')}</h2>
@@ -456,7 +456,7 @@ const fmtEventDates = (p: any) => {
     </div>
   </section>
 
-  <section class="section">
+  <section class="section sec-ess">
     <div class="wrap">
       <div class="widget essentials-widget">
       <div class="ess-copy">
@@ -480,7 +480,7 @@ const fmtEventDates = (p: any) => {
     </div>
   </section>
 
-  <section class="section">
+  <section class="section sec-trust">
     <div class="wrap">
       <div class="trust">
         <div><span class="ico"><Emoji name="passport-control" /></span><h3>{t('trust.reviewedTitle')}</h3><p>{t('trust.reviewedText')}</p></div>
@@ -493,7 +493,7 @@ const fmtEventDates = (p: any) => {
   <Newsletter lang={lang} />
 
   {moreGuides.length > 0 && (
-    <section class="section">
+    <section class="section sec-more">
       <div class="wrap">
         <div class="rule-head"><h2 class="kicker">{t('home.moreToRead')}</h2></div>
         <div class="grid">
