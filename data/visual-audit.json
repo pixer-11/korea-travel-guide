@@ -11799,5 +11799,101 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Karst cliffs and lagoon water match El Nido landscape",
     "at": "2026-08-21T20:03:07.179Z"
+  },
+  "ho-chi-minh-city-saigon-skydeck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saigon_Skydeck_%2853546400302%29.jpg/3840px-Saigon_Skydeck_%2853546400302%29.jpg": {
+    "slug": "ho-chi-minh-city-saigon-skydeck",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view from skydeck showing river and city skyline",
+    "at": "2026-08-22T07:50:10.957Z"
+  },
+  "dubai-creek-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CREEK_PARK_DUBAI.jpg/3840px-CREEK_PARK_DUBAI.jpg": {
+    "slug": "dubai-creek-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park scene with path, gardens, trees, sunset—representative of Creek Park",
+    "at": "2026-08-22T07:51:42.617Z"
+  },
+  "manila-baluarte-de-san-diego\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Baluarte_de_San_Diego_Intramuros.jpg": {
+    "slug": "manila-baluarte-de-san-diego",
+    "verdict": "MATCH",
+    "reason": "publish gate: Circular fort ruins with Manila skyline, representative of Baluarte de San Diego",
+    "at": "2026-08-22T07:52:31.699Z"
+  },
+  "taichung-guangfu-new-village\u0001https://upload.wikimedia.org/wikipedia/commons/7/78/%E5%85%89%E5%BE%A9%E6%96%B0%E6%9D%91_Guangfu_New_Village_-_panoramio.jpg": {
+    "slug": "taichung-guangfu-new-village",
+    "verdict": "MATCH",
+    "reason": "publish gate: Representative quiet residential street scene of the village",
+    "at": "2026-08-22T07:53:16.673Z"
+  },
+  "hong-kong-brunch-club\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg": {
+    "slug": "hong-kong-brunch-club",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior storefront view of Brunch Club restaurant, representative image",
+    "at": "2026-08-22T07:54:21.051Z"
+  },
+  "izmir-kordon-alsancak-izmir\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Izmir_Alsancak_Kordon_6345.jpg": {
+    "slug": "izmir-kordon-alsancak-izmir",
+    "verdict": "MATCH",
+    "reason": "publish gate: Coastal promenade with skyline, park, and waterfront view of Izmir",
+    "at": "2026-08-22T07:55:10.257Z"
+  },
+  "ankara-kugulu-park\u0001https://upload.wikimedia.org/wikipedia/commons/c/c6/Ku%C4%9Fulu_park_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg": {
+    "slug": "ankara-kugulu-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park with fountain and pond, representative view of Kuğulu Park",
+    "at": "2026-08-22T07:55:45.628Z"
+  },
+  "kenting-kenting-national-forest-recreation-area\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Kenting_National_Forest_Recreation_Area_entrance_WEI%2C_WAN-CHEN.jpg": {
+    "slug": "kenting-kenting-national-forest-recreation-area",
+    "verdict": "MATCH",
+    "reason": "publish gate: Entrance gate of Kenting National Forest Recreation Area, representative",
+    "at": "2026-08-22T07:56:42.028Z"
+  },
+  "iloilo-molo-plaza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Molo_Plaza_at_Noon.jpg/1920px-Molo_Plaza_at_Noon.jpg": {
+    "slug": "iloilo-molo-plaza",
+    "verdict": "MATCH",
+    "reason": "publish gate: Molo Church and plaza fountain, representative view",
+    "at": "2026-08-22T07:57:45.294Z"
+  },
+  "can-tho-ninh-kieu-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/3840px-Ninh_Kieu_Quay.jpg": {
+    "slug": "can-tho-ninh-kieu-wharf",
+    "verdict": "MATCH",
+    "reason": "publish gate: Wharf park promenade with buildings, plausible representative view",
+    "at": "2026-08-22T07:59:03.906Z"
+  },
+  "new-taipei-dalongdong-baoan-temple\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/%E4%BF%9D%E5%AE%89%E5%AE%AE_Baoan_Temple%2C_Taipei%2C_Taiwan.jpg": {
+    "slug": "new-taipei-dalongdong-baoan-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Night view of temple courtyard, roof, and carved pillar",
+    "at": "2026-08-22T07:59:37.968Z"
+  },
+  "sharjah-sharjah-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sharjah_National_Park.jpg/1920px-Sharjah_National_Park.jpg": {
+    "slug": "sharjah-sharjah-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Pergola walkway plausible for park attraction, representative outdoor scene",
+    "at": "2026-08-22T08:02:05.456Z"
+  },
+  "alishan-alishan-forest-railway-garage-park\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Alishan_Forest_Railway_Garage_Park_20160730.jpg": {
+    "slug": "alishan-alishan-forest-railway-garage-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows entrance gate/signage of the park amid trees",
+    "at": "2026-08-22T08:02:59.279Z"
+  },
+  "yilan-fushan-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_%281%29.jpg/1920px-%E7%A6%8F%E5%B1%B1%E6%A4%8D%E7%89%A9%E5%9C%92_Fushan_Botanical_Garden_-_panoramio_%281%29.jpg": {
+    "slug": "yilan-fushan-botanical-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Forest pond with wooden boardwalk, representative botanical garden scene",
+    "at": "2026-08-22T08:04:10.754Z"
+  },
+  "baguio-baguio-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Baguio_Botanical_Garden%2C_March_2023.jpg/1920px-Baguio_Botanical_Garden%2C_March_2023.jpg": {
+    "slug": "baguio-baguio-botanical-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Garden plaza with plants, visitors, greenery matches botanical garden",
+    "at": "2026-08-22T08:05:16.982Z"
+  },
+  "hanoi-thong-nhat-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Thong_Nhat_Park.jpg/3840px-Thong_Nhat_Park.jpg": {
+    "slug": "hanoi-thong-nhat-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park entrance gate with greenery, plausible representative view",
+    "at": "2026-08-22T08:06:34.607Z"
   }
 }

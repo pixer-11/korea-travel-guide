@@ -14,7 +14,7 @@ tags:
 quickAnswer: Sonu Nigam kicks off his "30 Years of Sonu" Revolution Tour at Etihad Arena on Yas Island, Abu Dhabi, on August 21, 2026 — the global launch date of an international concert series marking his three-decade career. Tickets and exact set times haven't been confirmed here, so check Etihad Arena's official site and Sonu Nigam's verified channels before booking travel. Arrive early — Yas Island venues fill access roads fast on concert nights.
 faq:
   - q: What is the confirmed date for Sonu Nigam's Abu Dhabi show?
-    a: August 21, 2026, at Etihad Arena on Yas Island — this is the announced launch date of the global Revolution Tour. Confirm it hasn't shifted by checking official ticketing sources closer to the date.
+    a: August 21, 2026, at Etihad Arena on Yas Island — this is the announced launch date of the global Revolution Tour. Ticket details for Sonu Nigam's 30 Years of Sonu (Revolution Tour) in Abu Dhabi were available through official ticketing sources.
   - q: Where exactly is the concert held?
     a: Etihad Arena, part of the Yas Bay Waterfront development on Yas Island, Abu Dhabi — the same complex as Yas Mall and Ferrari World.
   - q: How do I get to Etihad Arena from central Abu Dhabi?

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-22",
   "countries": {
     "South Korea": {
       "climate": [
@@ -1430,78 +1430,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 2,
-          "lo": -7,
-          "rain": 2
+          "hi": 20,
+          "lo": 12,
+          "rain": 54
         },
         {
           "m": 2,
-          "hi": 6,
-          "lo": -5,
-          "rain": 6
+          "hi": 21,
+          "lo": 12,
+          "rain": 70
         },
         {
           "m": 3,
-          "hi": 15,
-          "lo": 1,
-          "rain": 10
+          "hi": 24,
+          "lo": 16,
+          "rain": 133
         },
         {
           "m": 4,
-          "hi": 22,
-          "lo": 9,
-          "rain": 19
+          "hi": 27,
+          "lo": 20,
+          "rain": 240
         },
         {
           "m": 5,
-          "hi": 28,
-          "lo": 15,
-          "rain": 32
+          "hi": 30,
+          "lo": 23,
+          "rain": 292
         },
         {
           "m": 6,
-          "hi": 33,
-          "lo": 20,
-          "rain": 61
+          "hi": 31,
+          "lo": 26,
+          "rain": 403
         },
         {
           "m": 7,
-          "hi": 32,
-          "lo": 23,
-          "rain": 241
+          "hi": 33,
+          "lo": 26,
+          "rain": 244
         },
         {
           "m": 8,
-          "hi": 30,
-          "lo": 22,
-          "rain": 167
+          "hi": 32,
+          "lo": 26,
+          "rain": 380
         },
         {
           "m": 9,
-          "hi": 27,
-          "lo": 17,
-          "rain": 51
+          "hi": 31,
+          "lo": 25,
+          "rain": 263
         },
         {
           "m": 10,
-          "hi": 18,
-          "lo": 8,
-          "rain": 38
+          "hi": 29,
+          "lo": 22,
+          "rain": 98
         },
         {
           "m": 11,
-          "hi": 10,
-          "lo": 0,
-          "rain": 15
+          "hi": 25,
+          "lo": 17,
+          "rain": 44
         },
         {
           "m": 12,
-          "hi": 3,
-          "lo": -6,
-          "rain": 3
+          "hi": 21,
+          "lo": 12,
+          "rain": 17
         }
       ],
-      "climateCity": "Beijing",
+      "climateCity": "Guangzhou",
       "climateYears": 10,
       "holidays": [
         {
@@ -2135,78 +2135,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 19,
-          "lo": 14,
-          "rain": 68
+          "hi": 21,
+          "lo": 13,
+          "rain": 75
         },
         {
           "m": 2,
-          "hi": 20,
-          "lo": 14,
-          "rain": 79
+          "hi": 22,
+          "lo": 13,
+          "rain": 89
         },
         {
           "m": 3,
-          "hi": 22,
+          "hi": 24,
           "lo": 15,
-          "rain": 117
+          "rain": 187
         },
         {
           "m": 4,
-          "hi": 26,
-          "lo": 18,
-          "rain": 138
+          "hi": 27,
+          "lo": 19,
+          "rain": 223
         },
         {
           "m": 5,
-          "hi": 28,
+          "hi": 29,
           "lo": 22,
-          "rain": 229
+          "rain": 431
         },
         {
           "m": 6,
-          "hi": 31,
+          "hi": 30,
           "lo": 24,
-          "rain": 254
+          "rain": 413
         },
         {
           "m": 7,
-          "hi": 33,
-          "lo": 25,
-          "rain": 166
+          "hi": 30,
+          "lo": 24,
+          "rain": 298
         },
         {
           "m": 8,
-          "hi": 32,
-          "lo": 25,
-          "rain": 157
+          "hi": 30,
+          "lo": 24,
+          "rain": 390
         },
         {
           "m": 9,
-          "hi": 31,
-          "lo": 24,
-          "rain": 220
+          "hi": 30,
+          "lo": 23,
+          "rain": 171
         },
         {
           "m": 10,
-          "hi": 27,
+          "hi": 29,
           "lo": 22,
-          "rain": 207
+          "rain": 106
         },
         {
           "m": 11,
-          "hi": 24,
-          "lo": 19,
-          "rain": 77
+          "hi": 27,
+          "lo": 18,
+          "rain": 64
         },
         {
           "m": 12,
-          "hi": 20,
-          "lo": 15,
-          "rain": 73
+          "hi": 22,
+          "lo": 14,
+          "rain": 66
         }
       ],
-      "climateCity": "Taipei",
+      "climateCity": "Taichung",
       "climateYears": 10,
       "holidays": [
         {
@@ -2700,78 +2700,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 21,
-          "lo": 15,
-          "rain": 223
+          "hi": 29,
+          "lo": 24,
+          "rain": 242
         },
         {
           "m": 2,
-          "hi": 22,
-          "lo": 15,
-          "rain": 134
+          "hi": 29,
+          "lo": 23,
+          "rain": 118
         },
         {
           "m": 3,
-          "hi": 23,
-          "lo": 15,
-          "rain": 155
+          "hi": 29,
+          "lo": 24,
+          "rain": 131
         },
         {
           "m": 4,
-          "hi": 23,
-          "lo": 16,
-          "rain": 205
+          "hi": 30,
+          "lo": 25,
+          "rain": 150
         },
         {
           "m": 5,
-          "hi": 23,
-          "lo": 16,
-          "rain": 196
+          "hi": 30,
+          "lo": 25,
+          "rain": 254
         },
         {
           "m": 6,
-          "hi": 22,
-          "lo": 16,
-          "rain": 173
-        },
-        {
-          "m": 7,
-          "hi": 22,
-          "lo": 15,
-          "rain": 155
-        },
-        {
-          "m": 8,
-          "hi": 22,
-          "lo": 15,
-          "rain": 215
-        },
-        {
-          "m": 9,
-          "hi": 22,
-          "lo": 15,
+          "hi": 30,
+          "lo": 25,
           "rain": 219
         },
         {
+          "m": 7,
+          "hi": 30,
+          "lo": 25,
+          "rain": 205
+        },
+        {
+          "m": 8,
+          "hi": 30,
+          "lo": 25,
+          "rain": 221
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 24,
+          "rain": 301
+        },
+        {
           "m": 10,
-          "hi": 22,
-          "lo": 15,
-          "rain": 268
+          "hi": 29,
+          "lo": 24,
+          "rain": 351
         },
         {
           "m": 11,
-          "hi": 21,
-          "lo": 15,
-          "rain": 338
+          "hi": 29,
+          "lo": 24,
+          "rain": 266
         },
         {
           "m": 12,
-          "hi": 21,
-          "lo": 15,
-          "rain": 283
+          "hi": 29,
+          "lo": 24,
+          "rain": 295
         }
       ],
-      "climateCity": "Cameron Highlands",
+      "climateCity": "Kota Kinabalu",
       "climateYears": 10,
       "holidays": [
         {
@@ -2906,8 +2906,8 @@
         },
         {
           "date": "2026-08-25",
-          "localName": "Maulidur Rasul (tentatif)",
-          "name": "Maulidur Rasul (tentatif)"
+          "localName": "Maulidur Rasul",
+          "name": "Maulidur Rasul"
         },
         {
           "date": "2026-08-31",
@@ -3090,78 +3090,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 20,
-          "lo": 8,
-          "rain": 27
-        },
-        {
-          "m": 2,
-          "hi": 25,
-          "lo": 12,
-          "rain": 10
-        },
-        {
-          "m": 3,
-          "hi": 31,
-          "lo": 17,
+          "hi": 27,
+          "lo": 16,
           "rain": 13
         },
         {
+          "m": 2,
+          "hi": 30,
+          "lo": 17,
+          "rain": 4
+        },
+        {
+          "m": 3,
+          "hi": 33,
+          "lo": 19,
+          "rain": 16
+        },
+        {
           "m": 4,
-          "hi": 38,
-          "lo": 23,
-          "rain": 6
+          "hi": 34,
+          "lo": 21,
+          "rain": 27
         },
         {
           "m": 5,
-          "hi": 39,
-          "lo": 26,
-          "rain": 21
+          "hi": 31,
+          "lo": 21,
+          "rain": 119
         },
         {
           "m": 6,
-          "hi": 39,
-          "lo": 29,
-          "rain": 72
+          "hi": 28,
+          "lo": 20,
+          "rain": 136
         },
         {
           "m": 7,
-          "hi": 34,
-          "lo": 27,
-          "rain": 225
+          "hi": 27,
+          "lo": 20,
+          "rain": 174
         },
         {
           "m": 8,
-          "hi": 32,
-          "lo": 26,
-          "rain": 218
+          "hi": 27,
+          "lo": 20,
+          "rain": 150
         },
         {
           "m": 9,
-          "hi": 32,
-          "lo": 25,
-          "rain": 148
+          "hi": 27,
+          "lo": 19,
+          "rain": 144
         },
         {
           "m": 10,
-          "hi": 32,
-          "lo": 21,
-          "rain": 28
+          "hi": 27,
+          "lo": 19,
+          "rain": 154
         },
         {
           "m": 11,
           "hi": 27,
-          "lo": 15,
-          "rain": 4
+          "lo": 18,
+          "rain": 75
         },
         {
           "m": 12,
-          "hi": 22,
-          "lo": 10,
-          "rain": 7
+          "hi": 26,
+          "lo": 17,
+          "rain": 34
         }
       ],
-      "climateCity": "Agra",
+      "climateCity": "Bengaluru",
       "climateYears": 10,
       "holidays": [
         {
@@ -3321,8 +3321,8 @@
         },
         {
           "date": "2026-08-26",
-          "localName": "Milad un-Nabi (tentative)",
-          "name": "Milad un-Nabi (tentative)"
+          "localName": "Milad un-Nabi",
+          "name": "Milad un-Nabi"
         },
         {
           "date": "2026-08-28",
@@ -3620,78 +3620,78 @@
       "climate": [
         {
           "m": 1,
-          "hi": 21,
-          "lo": 13,
-          "rain": 87
+          "hi": 29,
+          "lo": 23,
+          "rain": 73
         },
         {
           "m": 2,
-          "hi": 21,
-          "lo": 13,
-          "rain": 84
+          "hi": 30,
+          "lo": 23,
+          "rain": 41
         },
         {
           "m": 3,
-          "hi": 22,
-          "lo": 14,
-          "rain": 110
+          "hi": 32,
+          "lo": 24,
+          "rain": 27
         },
         {
           "m": 4,
-          "hi": 23,
-          "lo": 15,
-          "rain": 156
+          "hi": 34,
+          "lo": 26,
+          "rain": 41
         },
         {
           "m": 5,
-          "hi": 23,
-          "lo": 16,
-          "rain": 300
+          "hi": 34,
+          "lo": 27,
+          "rain": 146
         },
         {
           "m": 6,
-          "hi": 23,
-          "lo": 17,
-          "rain": 387
+          "hi": 31,
+          "lo": 26,
+          "rain": 278
         },
         {
           "m": 7,
-          "hi": 22,
-          "lo": 17,
-          "rain": 703
+          "hi": 30,
+          "lo": 26,
+          "rain": 435
         },
         {
           "m": 8,
-          "hi": 21,
-          "lo": 17,
-          "rain": 605
+          "hi": 30,
+          "lo": 26,
+          "rain": 354
         },
         {
           "m": 9,
-          "hi": 22,
-          "lo": 16,
-          "rain": 492
+          "hi": 30,
+          "lo": 25,
+          "rain": 358
         },
         {
           "m": 10,
-          "hi": 22,
-          "lo": 16,
-          "rain": 444
+          "hi": 30,
+          "lo": 25,
+          "rain": 246
         },
         {
           "m": 11,
-          "hi": 22,
-          "lo": 15,
-          "rain": 166
+          "hi": 30,
+          "lo": 25,
+          "rain": 134
         },
         {
           "m": 12,
-          "hi": 22,
-          "lo": 14,
-          "rain": 106
+          "hi": 30,
+          "lo": 24,
+          "rain": 158
         }
       ],
-      "climateCity": "Baguio",
+      "climateCity": "Manila",
       "climateYears": 10,
       "holidays": [
         {
@@ -4291,7 +4291,7 @@
         {
           "m": 1,
           "hi": 19,
-          "lo": 14,
+          "lo": 13,
           "rain": 38
         },
         {
@@ -4302,19 +4302,19 @@
         },
         {
           "m": 3,
-          "hi": 23,
-          "lo": 18,
+          "hi": 22,
+          "lo": 17,
           "rain": 95
         },
         {
           "m": 4,
           "hi": 25,
-          "lo": 21,
+          "lo": 20,
           "rain": 165
         },
         {
           "m": 5,
-          "hi": 28,
+          "hi": 27,
           "lo": 24,
           "rain": 269
         },
@@ -4327,36 +4327,36 @@
         {
           "m": 7,
           "hi": 30,
-          "lo": 27,
+          "lo": 26,
           "rain": 297
         },
         {
           "m": 8,
-          "hi": 30,
+          "hi": 29,
           "lo": 26,
           "rain": 411
         },
         {
           "m": 9,
-          "hi": 30,
-          "lo": 26,
+          "hi": 29,
+          "lo": 25,
           "rain": 303
         },
         {
           "m": 10,
-          "hi": 28,
-          "lo": 23,
+          "hi": 27,
+          "lo": 22,
           "rain": 176
         },
         {
           "m": 11,
-          "hi": 25,
+          "hi": 24,
           "lo": 19,
           "rain": 88
         },
         {
           "m": 12,
-          "hi": 21,
+          "hi": 20,
           "lo": 14,
           "rain": 19
         }
@@ -4614,6 +4614,220 @@
       "climateCity": "Bukhara",
       "climateYears": 10,
       "holidays": []
+    },
+    "Cambodia": {
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "localName": "ទិវាបុណ្យចូលឆ្នាំសកល",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2026-01-07",
+          "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍",
+          "name": "Victory over Genocide Day"
+        },
+        {
+          "date": "2026-03-08",
+          "localName": "ទិវានារីអន្តរជាតិ",
+          "name": "International Women's Day"
+        },
+        {
+          "date": "2026-04-14",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
+          "name": "Khmer New Year"
+        },
+        {
+          "date": "2026-04-15",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
+          "name": "Khmer New Year"
+        },
+        {
+          "date": "2026-04-16",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
+          "name": "Khmer New Year"
+        },
+        {
+          "date": "2026-05-01",
+          "localName": "ទិវាពលកម្មអន្តរជាតិ",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2026-05-05",
+          "localName": "ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល",
+          "name": "Royal Ploughing Ceremony"
+        },
+        {
+          "date": "2026-05-14",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា នរោត្តម សីហមុនី",
+          "name": "King Sihamoni's Birthday"
+        },
+        {
+          "date": "2026-06-18",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី នរោត្តម មុនិនាថ សីហនុ",
+          "name": "Queen Mother's Birthday"
+        },
+        {
+          "date": "2026-09-24",
+          "localName": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2026-10-10",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
+          "name": "Pchum Ben"
+        },
+        {
+          "date": "2026-10-11",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
+          "name": "Pchum Ben"
+        },
+        {
+          "date": "2026-10-12",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
+          "name": "Pchum Ben"
+        },
+        {
+          "date": "2026-10-15",
+          "localName": "ព្រះរាជពិធីគោរពព្រះវិញ្ញាណក្ខន្ធព្រះករុណាព្រះបាទសម្ដេចព្រះ នរោត្ដម សីហនុ",
+          "name": "Commemoration Day of the King's Father"
+        },
+        {
+          "date": "2026-10-29",
+          "localName": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិរបស់ព្រះករុណាព្រះបាទសម្ដេចព្រះបរមនាថ នរោត្ដម សីហមុនី",
+          "name": "Coronation Day of King Sihamoni"
+        },
+        {
+          "date": "2026-11-09",
+          "localName": "ទិវាបុណ្យឯករាជ្យជាតិ",
+          "name": "National Independence Day"
+        },
+        {
+          "date": "2026-11-23",
+          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+          "name": "Water Festival"
+        },
+        {
+          "date": "2026-11-24",
+          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+          "name": "Water Festival"
+        },
+        {
+          "date": "2026-11-25",
+          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+          "name": "Water Festival"
+        },
+        {
+          "date": "2026-12-29",
+          "localName": "ទិវាសន្តិភាពនៅកម្ពុជា",
+          "name": "Cambodia Peace Day"
+        },
+        {
+          "date": "2027-01-01",
+          "localName": "ទិវាបុណ្យចូលឆ្នាំសកល",
+          "name": "New Year's Day"
+        },
+        {
+          "date": "2027-01-07",
+          "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍",
+          "name": "Victory over Genocide Day"
+        },
+        {
+          "date": "2027-03-08",
+          "localName": "ទិវានារីអន្តរជាតិ",
+          "name": "International Women's Day"
+        },
+        {
+          "date": "2027-04-14",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
+          "name": "Khmer New Year"
+        },
+        {
+          "date": "2027-04-15",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
+          "name": "Khmer New Year"
+        },
+        {
+          "date": "2027-04-16",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
+          "name": "Khmer New Year"
+        },
+        {
+          "date": "2027-05-01",
+          "localName": "ទិវាពលកម្មអន្តរជាតិ",
+          "name": "Labour Day"
+        },
+        {
+          "date": "2027-05-14",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា នរោត្តម សីហមុនី",
+          "name": "King Sihamoni's Birthday"
+        },
+        {
+          "date": "2027-05-24",
+          "localName": "ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល",
+          "name": "Royal Ploughing Ceremony"
+        },
+        {
+          "date": "2027-06-18",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី នរោត្តម មុនិនាថ សីហនុ",
+          "name": "Queen Mother's Birthday"
+        },
+        {
+          "date": "2027-09-24",
+          "localName": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ",
+          "name": "Constitution Day"
+        },
+        {
+          "date": "2027-09-29",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
+          "name": "Pchum Ben"
+        },
+        {
+          "date": "2027-09-30",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
+          "name": "Pchum Ben"
+        },
+        {
+          "date": "2027-10-01",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
+          "name": "Pchum Ben"
+        },
+        {
+          "date": "2027-10-15",
+          "localName": "ព្រះរាជពិធីគោរពព្រះវិញ្ញាណក្ខន្ធព្រះករុណាព្រះបាទសម្ដេចព្រះ នរោត្ដម សីហនុ",
+          "name": "Commemoration Day of the King's Father"
+        },
+        {
+          "date": "2027-10-29",
+          "localName": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិរបស់ព្រះករុណាព្រះបាទសម្ដេចព្រះបរមនាថ នរោត្ដម សីហមុនី",
+          "name": "Coronation Day of King Sihamoni"
+        },
+        {
+          "date": "2027-11-09",
+          "localName": "ទិវាបុណ្យឯករាជ្យជាតិ",
+          "name": "National Independence Day"
+        },
+        {
+          "date": "2027-11-12",
+          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+          "name": "Water Festival"
+        },
+        {
+          "date": "2027-11-13",
+          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+          "name": "Water Festival"
+        },
+        {
+          "date": "2027-11-14",
+          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+          "name": "Water Festival"
+        },
+        {
+          "date": "2027-12-29",
+          "localName": "ទិវាសន្តិភាពនៅកម្ពុជា",
+          "name": "Cambodia Peace Day"
+        }
+      ]
     }
   }
 }
