@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 47
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/25871419_DT1Uc_4uR5RCkpbOqUDIAAxXYtuSlX67wyrI5nXMmqo.jpg"
+    credit: "Photo: Foursquare user content (Johor Old Chinese Temple 柔佛古庙)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cd4f40489eb6dcb55cc251e"
 place:
   id: "ChIJ3WMd2MIS2jERTTvd4lA3aVw"
   name: "Johor Ancient Temple"

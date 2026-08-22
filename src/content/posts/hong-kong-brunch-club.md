@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4714840_VIbfs8UmJdlK3xEEnM8QDInq-hvrHbz_LNgFlsFszwg.jpg"
+    credit: "Photo: Foursquare user content (Brunch Club)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0e5623f964a520e65623e3"
 place:
   id: "ChIJswSIunsABDQRYqrvisyI7sQ"
   name: "Brunch Club"

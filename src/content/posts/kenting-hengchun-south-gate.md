@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 68
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/29200917_meSqdIBaGCNYxbrPMLszJCuMRRpGTfEiOP9_YYQcoxc.jpg"
+    credit: "Photo: Foursquare user content (South Gate of Hengchun Ancient City (恒春古城南門 South Gate of Hengchun Ancient City))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d9b22117668f04d9491ca93"
 place:
   id: "ChIJZV-_DhWxcTQRP3tVA_i2SMI"
   name: "Hengchun South Gate"

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 57
     y: 27
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/406263183_b6cjPhdNF0CQqrNNkvyS1f0JV0XPtRDl9TWCNT9GmGg.jpg"
+    credit: "Photo: Foursquare user content (Selçuk (Ayasuluk) Kalesi)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/508e9cebe4b07f1e64bf6bd8"
 place:
   id: "ChIJgWOO3FtNuRQRmMegWTCjZmw"
   name: "Ayasuluk Citadel"

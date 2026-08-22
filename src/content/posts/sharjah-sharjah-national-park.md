@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4116730_keZoP02f0zdxWIVTdV_ylxlJ4r9zt_PmKWGz-rvyyB0.jpg"
+    credit: "Photo: Foursquare user content (Sharjah National Park (منتزه الشارقة الوطني))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d4bde5ba22c224b73c5f393"
 place:
   id: "ChIJB2kUhVT09T4RWV6eiVQS2wo"
   name: "Sharjah National Park"

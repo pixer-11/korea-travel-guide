@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5520759_AW21lDedVVaX5DiheLH0tA8kfx4MAbX_aOo1R8qlBR0.jpg"
+    credit: "Photo: Foursquare user content (Baguio Botanical Garden)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dbe8acacda109aa6ccba2c7"
 place:
   id: "ChIJJ3IMHFShkTMR0mgoul-AOmc"
   name: "Baguio Botanical Garden"

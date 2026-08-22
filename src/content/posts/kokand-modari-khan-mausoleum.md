@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 47
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1155361_PSvF65drPv6Ew-SNnAtUspa8IqyU7-ZjUoFz5RRAVtc.jpg"
+    credit: "Photo: Foursquare user content (Modari Khan Mausoleum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/641c2956d815914dbbcd994c"
 place:
   id: "ChIJrRsMBuDuujgR_aMYBVjVgtc"
   name: "Modari Khan Mausoleum"

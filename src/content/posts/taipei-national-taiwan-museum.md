@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/21087246_HK7mE-uztDG3fhJFe0w7LVu57ux_qhRosR90wvaNWtw.jpg"
+    credit: "Photo: Foursquare user content (National Taiwan Museum (國立臺灣博物館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d1878a5e190721e0c182221"
 place:
   id: "ChIJcRV3WHOpQjQRFpgzTpxZWgo"
   name: "National Taiwan Museum"

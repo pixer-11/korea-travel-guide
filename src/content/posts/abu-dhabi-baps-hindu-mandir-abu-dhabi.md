@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7b/BAPS_Abu_Dhabi_Mandir.jpg"
+    credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg"
 place:
   id: "ChIJ0VxvRjxTXj4Rm3GPgSFa7kU"
   name: "BAPS Hindu Mandir, Abu Dhabi"

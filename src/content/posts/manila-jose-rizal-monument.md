@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/522669419_Sw5-0l9t-Oc_9gVKqto5i7QteHinl89qoovaUBq8Sas.jpg"
+    credit: "Photo: Foursquare user content (Rizal Monument)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/52e9c70c11d27dc29a2b676c"
 place:
   id: "ChIJNTKdOSXKlzMRg0UMabKe1YI"
   name: "José Rizal Monument"

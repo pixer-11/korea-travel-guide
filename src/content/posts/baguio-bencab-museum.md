@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/861679_dJPf26WKDT6J51eBV073RdQG04vinB9UIEtNVRvM3uc.jpg"
+    credit: "Photo: Foursquare user content (BenCab Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bfe2aace529c928f1fcbb8c"
 place:
   id: "ChIJR78RMcChkTMRyWGEria6N9c"
   name: "BenCab Museum"

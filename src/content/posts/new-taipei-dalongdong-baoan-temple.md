@@ -5,6 +5,11 @@ country: Taiwan
 region: New Taipei
 category: attraction
 pubDate: '2026-08-22T07:59:47.961Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/60840918_FVL5fEuEnDKXW5qCSSAQcrFWjoHYQqpnYqk1_rqIEeQ.jpg"
+    credit: "Photo: Foursquare user content (Dalongdong Baoan Temple (大龍峒保安宮))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd6d2ef4e32d13ae21fc380"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/60840918_5eZLhP2RsZH3vrizwJWdLcZvH1ZYyNvP1tJhmY4xrMI.jpg
   credit: 'Photo: Foursquare user content (Dalongdong Baoan Temple (大龍峒保安宮))'

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/13086716_wtmCpCXFqzI5LhCDf3kLUrI3s9EuEfdRYOzcgBqYmos.jpg"
+    credit: "Photo: Foursquare user content (Cake Bumer)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5e26ce78125b4c0007daee25"
 place:
   id: "ChIJ3eC4QD-a3UERTLTwugyB_g8"
   name: "Cake \"Bumer\""

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 49
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/58823133_iiCMKOh70hvC0LaETgWlKAa0Aav3tPashHBGbn0YNC4.jpg"
+    credit: "Photo: Foursquare user content (Atatürk Heykeli)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b88eb7df964a5207a1332e3"
 place:
   id: "ChIJNxje7nqY3BQRvTVUFx3fx-s"
   name: "Mustafa Kemal Atatürk Monument"

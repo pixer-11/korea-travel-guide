@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 30
     y: 55
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cafe_near_Etihad_Museum%2C_Dubai%2C_UAE.jpg/3840px-Cafe_near_Etihad_Museum%2C_Dubai%2C_UAE.jpg"
+    credit: "Photo: Lxs / Wikimedia Commons (CC BY 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Cafe_near_Etihad_Museum,_Dubai,_UAE.jpg"
 place:
   id: "ChIJ-y_VQqpDXz4R1hgHMuyDNXY"
   name: "Etihad Museum"

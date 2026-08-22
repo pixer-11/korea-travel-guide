@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/6588982_jMSnzPg3FxGfXL5RML946Ht4lZ5imIcyir9SYmeJBiA.jpg"
+    credit: "Photo: Foursquare user content (The Second Credit Cooperative Association of Taichung (臺中市第二信用合作社 總社))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/556be0c4498e3bb54d36798b"
 place:
   id: "ChIJFcuTyhI9aTQRVG2bVY9qD70"
   name: "Taichung Second Market"

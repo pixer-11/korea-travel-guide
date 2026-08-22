@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11484027_sKjubjWYuMRfsLHqUWundK4TB3sQm6-9FLZjQzWDD90.jpg"
+    credit: "Photo: Foursquare user content (Le Bokor Palace)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ccbabe9511b236aaa58ecc9"
 place:
   id: "ChIJleliBQNbCDER-Hbv947sv8Y"
   name: "Bokor Hill Station"

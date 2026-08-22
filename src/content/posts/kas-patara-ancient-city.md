@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/59793983_jgZMZo6NMk2JaVg2CrTVmRNcPtMunRr_8FE2JYkNwVY.jpg"
+    credit: "Photo: Foursquare user content (Ancient Theatre of Patara (Patara Antik Tiyatro))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e4a4f73d4c0dae7bfc9b5c6"
 place:
   id: "ChIJzafpnyktwBQR4YsQf-mOSRU"
   name: "Patara Ancient City"

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/0/01/Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg"
+    credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg"
 place:
   id: "ChIJObKEbSHlrjMRwugA5l105mE"
   name: "Jaro Metropolitan Cathedral of St. Elizabeth of Hungary & National Shrine of Our Lady of Candles"

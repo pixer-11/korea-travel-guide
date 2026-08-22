@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/29834788_20UvsVn3msiXXOGX5fxQ-pfzagZVSyUu9-J-n_beuVI.jpg"
+    credit: "Photo: Foursquare user content (Shees Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5f9d5141d004610edaf00583"
 place:
   id: "ChIJXXq2kMBN9D4R94C3n7ebSJ4"
   name: "Shees Park"

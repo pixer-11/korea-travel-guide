@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/22377870_onW2cTPELeP-98xklqk02XFERDJi9cp9e2oeWVZXxYY.jpg"
+    credit: "Photo: Foursquare user content (Sam Poh Buddhist Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4df4d3f3922e8e1ea89122af"
 place:
   id: "ChIJ27oxe8tZyjEReyqcu98Bj7Y"
   name: "Sam Poh Temple"

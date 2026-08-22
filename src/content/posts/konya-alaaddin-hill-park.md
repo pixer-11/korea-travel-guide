@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1414663068_z8R3Ts6khy9PT_GQ9a08XPTnYAc_afbYxJR3DW3nH8o.jpg"
+    credit: "Photo: Foursquare user content (Alaaddin Tepesi)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e4f6b7e62844166698e332e"
 place:
   id: "ChIJrVKzKqiF0BQRsIbEwZy3HzY"
   name: "Alaaddin Hill Park"

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1359365088_DO63ALyC5UOsiAcMgiTcaJ4Q_35jx1TFecmOG0KVwJ8.jpg"
+    credit: "Photo: Foursquare user content (Mitra’s Ranch)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/65e42490045f6a76ff9bcc2e"
 place:
   id: "ChIJETZrxDNjtTMR9MiVuV7l8fo"
   name: "Mitra's Ranch"
