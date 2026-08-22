@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Official HIGE DANDism Asia Tour 2026 – Taipei: What to Know (Taipei)'
 description: Official HIGE DANDism Asia Tour 2026 – Taipei in Taipei, Taiwan — August 29-30, 2026. What it is, when and where, and how to plan around it.
 country: Taiwan
@@ -8,7 +7,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-29'
 eventEndDate: '2026-08-30'
-gallery: []
 tags:
   - taipei
   - event
@@ -30,6 +28,14 @@ eventOrganizer:
   name: AEG Presents Asia
   url: https://asia.aegpresents.com/
 eventVenue: Taipei Dome
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gate_1%2C_Taipei_Dome_20250113.jpg/3840px-Gate_1%2C_Taipei_Dome_20250113.jpg
+  credit: 'Photo: Alexwikix / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gate_1,_Taipei_Dome_20250113.jpg
+  focus:
+    x: 45
+    'y': 40
 ---
 
 ## Why this show matters

@@ -269,6 +269,12 @@ for (const f of files) {
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
       if (foreign) { console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
+      // A file the store already judged wrong for this post must not fill
+      // the candidate quota: four remembered rejects ("Japanese woodblock
+      // illustration" ×3 for HIGE DANDism) filled it every night and the
+      // venue search that had Taipei Dome was never reached (2026-08-23).
+      const prior = auditStore?.[`${slug}\x01${pick.url}`];
+      if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
       cands.push(pick);
     }
   } else {

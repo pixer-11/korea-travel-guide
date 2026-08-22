@@ -12111,5 +12111,47 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Distant cityscape; stadium barely visible, not representative",
   "at": "2026-08-22T15:25:24.097Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Asian_Games_Hangzhou_2023_-_11.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Weightlifting at 2023 Asian Games, not Nagoya 2026",
+  "at": "2026-08-22T15:27:30.189Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/Asian_Games_Hangzhou_2023_-_19.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows 2023 Asian Games, not 2026 Nagoya event",
+  "at": "2026-08-22T15:29:10.763Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Asian_Games_Hangzhou_2023_-_9.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows Hangzhou 2023 Asian Games, not Nagoya 2026",
+  "at": "2026-08-22T15:29:17.926Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Asian_Games_Hangzhou_2023_-_10.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Hangzhou, post says Nagoya",
+  "at": "2026-08-22T15:29:24.037Z"
+ },
+ "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/50/Asian_Games_Hangzhou_2023_-_27.jpg": {
+  "slug": "nagoya-asian-games-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Hangzhou, post says Nagoya",
+  "at": "2026-08-22T15:29:32.441Z"
+ },
+ "taipei-official-hige-dandism-asia-tour-2026-taipei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gate_1%2C_Taipei_Dome_20250113.jpg/3840px-Gate_1%2C_Taipei_Dome_20250113.jpg": {
+  "slug": "taipei-official-hige-dandism-asia-tour-2026-taipei",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Taipei Dome exterior, modern architecture, venue confirmed",
+  "at": "2026-08-22T15:32:19.847Z"
+ },
+ "xi-an-2026-xi-an-grand-prix-snooker\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/2024_Xi_An_Grand_Prix.jpg": {
+  "slug": "xi-an-2026-xi-an-grand-prix-snooker",
+  "verdict": "MATCH",
+  "reason": "patrol replace: 2024 Snooker Xi'an Grand Prix venue signage",
+  "at": "2026-08-22T15:32:39.005Z"
  }
 }

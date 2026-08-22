@@ -1,63 +1,41 @@
 ---
 title: '2026 Xi''an Grand Prix (Snooker): What to Know (Xi''an)'
-description: >-
-  2026 Xi'an Grand Prix (Snooker) in Xi'an, China — September 28 - October 4,
-  2026. What it is, when and where, and how to plan around it.
+description: 2026 Xi'an Grand Prix (Snooker) in Xi'an, China — September 28 - October 4, 2026. What it is, when and where, and how to plan around it.
 country: China
 region: Xi'an
 category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-09-28'
 eventEndDate: '2026-10-04'
-gallery: []
 tags:
   - xi'an
   - event
-quickAnswer: >-
-  The 2026 Xi'an Grand Prix runs September 28–October 4, 2026, as one leg of the
-  World Snooker Tour's ranking calendar, bringing top professionals to Xi'an for
-  a week of qualifying rounds through to the final. Venue, ticket prices, and
-  daily session times haven't been confirmed publicly at the time of writing, so
-  check the official World Snooker Tour and Xi'an event channels before booking
-  flights or hotels. Expect a week-long structure with the strongest matches and
-  biggest crowds toward the back half of the tournament, culminating in the
-  final on October 4.
+quickAnswer: The 2026 Xi'an Grand Prix runs September 28–October 4, 2026, as one leg of the World Snooker Tour's ranking calendar, bringing top professionals to Xi'an for a week of qualifying rounds through to the final. Venue, ticket prices, and daily session times haven't been confirmed publicly at the time of writing, so check the official World Snooker Tour and Xi'an event channels before booking flights or hotels. Expect a week-long structure with the strongest matches and biggest crowds toward the back half of the tournament, culminating in the final on October 4.
 faq:
   - q: What are the exact dates of the 2026 Xi'an Grand Prix?
-    a: >-
-      September 28 through October 4, 2026, per the announced World Snooker Tour
-      schedule. Confirm final dates on the official World Snooker Tour site
-      closer to the event, as ranking calendars occasionally shift.
+    a: September 28 through October 4, 2026, per the announced World Snooker Tour schedule. Confirm final dates on the official World Snooker Tour site closer to the event, as ranking calendars occasionally shift.
   - q: Where can I buy tickets?
-    a: >-
-      Ticketing details hadn't been released at the time of writing. Watch the
-      official World Snooker Tour website and the tournament's event page for
-      the announcement — Chinese WST stops sometimes sell through local
-      platforms rather than the UK-based ticket portal.
+    a: Ticketing details hadn't been released at the time of writing. Watch the official World Snooker Tour website and the tournament's event page for the announcement — Chinese WST stops sometimes sell through local platforms rather than the UK-based ticket portal.
   - q: How do I get to Xi'an for the tournament?
-    a: >-
-      Fly into Xi'an Xianyang International Airport or arrive via China's
-      high-speed rail network, which connects Xi'an to Beijing, Chengdu, and
-      other major hubs in a few hours. The exact venue location within Xi'an
-      hasn't been confirmed, so check transit options once it's announced.
+    a: Fly into Xi'an Xianyang International Airport or arrive via China's high-speed rail network, which connects Xi'an to Beijing, Chengdu, and other major hubs in a few hours. The exact venue location within Xi'an hasn't been confirmed, so check transit options once it's announced.
   - q: Which days should I attend if I want to see top players?
-    a: >-
-      Early rounds (the first two or three days) offer the widest field of
-      professionals, since it's a knockout format. By the semifinals and final
-      on October 4, only the tournament's strongest performers remain, but
-      tickets for those late sessions will be harder to get.
+    a: Early rounds (the first two or three days) offer the widest field of professionals, since it's a knockout format. By the semifinals and final on October 4, only the tournament's strongest performers remain, but tickets for those late sessions will be harder to get.
   - q: Does the tournament overlap with any local holidays?
-    a: >-
-      Yes — the October 1–4 window overlaps with China's National Day holiday,
-      one of the busiest domestic travel periods of the year. Book trains,
-      flights, and hotels in Xi'an well in advance if attending during those
-      dates.
+    a: Yes — the October 1–4 window overlaps with China's National Day holiday, one of the busiest domestic travel periods of the year. Book trains, flights, and hotels in Xi'an well in advance if attending during those dates.
 aiGenerated: true
 draft: false
 eventRecurring: true
 eventOrganizer:
   name: World Snooker Tour
-  url: 'https://www.wst.tv/'
+  url: https://www.wst.tv/
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/de/2024_Xi_An_Grand_Prix.jpg
+  credit: 'Photo: RiceKing / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2024_Xi_An_Grand_Prix.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Why this event matters

@@ -133,7 +133,12 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
   try {
     const msg = await client.messages.create({
       model: MODEL,
-      max_tokens: 200,
+      // 200 was enough for the JSON and not for the preamble the model writes
+      // before it on an ambiguous event photo: the same Asian Games and Xi'an
+      // Grand Prix files came back "Unexpected end of JSON input" on three
+      // runs (2026-08-23) — truncation, read as an outage, and the posts
+      // stayed photoless. Same class as the translation judge's 600 (08-16).
+      max_tokens: 500,
       messages: [{
         role: 'user',
         content: [
@@ -189,6 +194,8 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
       }],
     });
     const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
+    // Name truncation for what it is, so the log can tell it from an outage.
+    if (msg.stop_reason === 'max_tokens' && !/\}\s*$/.test(text.trim())) throw new Error('reply truncated at max_tokens');
     const j = JSON.parse(text.replace(/^[\s\S]*?\{/, '{').replace(/\}[\s\S]*$/, '}'));
     const pct = (v) => (Number.isFinite(Number(v)) ? Math.min(100, Math.max(0, Math.round(Number(v)))) : null);
     const fx = pct(j.focusX), fy = pct(j.focusY);
