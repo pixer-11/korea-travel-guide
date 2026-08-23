@@ -1,6 +1,6 @@
 ---
 title: 'Street Food Traffic Restaurant LLC: Where to Eat in Dubai'
-description: Street Food Traffic Restaurant LLC is a casual, high-rated (4.7★, 688 reviews) street-food spot tucked into the Midtown by Deyaar complex (Shop 1, AFNAN 01)
+description: "Street Food Traffic Restaurant LLC is a casual, high-rated (4.7★, 688 reviews) street-food spot tucked into the Midtown by Deyaar complex (Shop 1, AFNAN 01) in Dubai Production City (DPC), near Al Furjan and Jumeirah Village Circle."
 country: United Arab Emirates
 region: Dubai
 category: restaurant

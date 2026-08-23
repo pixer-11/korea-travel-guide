@@ -1,6 +1,6 @@
 ---
 title: 'Jeju Olle Course 1-1 (Udo Olle Trail): Travel Guide'
-description: Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and
+description: "Olle Course 1-1 is an 11.5km loop trail around Udo, the small island off Jeju's northeastern tip, combining black lava coastline, white-sand beaches and grassy cliffs."
 country: South Korea
 region: Jeju
 category: attraction

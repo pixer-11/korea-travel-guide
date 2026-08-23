@@ -1,76 +1,76 @@
 ---
 lang: es
 slug: kuching-kuching-waterfront
-srcHash: '95771d2db62b'
-title: 'Kuching Waterfront: Guía de viaje (4.7★)'
-description: 'Kuching Waterfront es el paseo de una milla de largo junto al río Sarawak (Sarawak River), en el centro de la ciudad, ideal para recorrer al final de la tarde, cuando la luz se vuelve dorada y el astana y el fuerte brillan al otro lado del agua. 4.7★ (2.565 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Kuching Waterfront es el paseo de una milla de largo junto al río Sarawak (Sarawak River), en el centro de la ciudad, ideal para recorrer al final de la tarde, cuando la luz se vuelve dorada y el astana y el fuerte brillan al otro lado del agua. Está abierto las 24 horas y es gratuito para pasear, con puestos de comida, paseos en barca por el río y vistas del edificio de la asamblea legislativa estatal, que se iluminan al caer la noche. Como es un lugar conocido y concurrido por los visitantes, conviene ir a primera hora de la mañana o después de las 21:00 si quieres tener el paseo entablado para ti solo.
+srcHash: '79d7ecfdce2a'
+title: 'Kuching Waterfront: Guía de Viaje (4,7★)'
+description: 'El Kuching Waterfront es el paseo de casi dos kilómetros que bordea el río Sarawak en pleno centro de la ciudad; lo mejor es recorrerlo a última hora de la tarde, cuando la luz se vuelve dorada y el astana y el fuerte brillan al otro lado del agua. 4,7★ (2.565 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: El Kuching Waterfront es el paseo de casi dos kilómetros que bordea el río Sarawak en pleno centro de la ciudad; lo mejor es recorrerlo a última hora de la tarde, cuando la luz se vuelve dorada y el astana y el fuerte brillan al otro lado del agua. Está abierto las 24 horas y pasear por él es gratis; cuenta con puestos de comida, paseos en barca por el río y vistas del edificio de la asamblea legislativa estatal, que se ilumina al caer la noche. Como es un lugar muy conocido y concurrido, conviene ir a primera hora de la mañana o después de las 21:00 si se quiere tener el paseo para uno mismo.
 faq:
-  - q: ¿Cómo se llega a Kuching Waterfront?
-    a: Está en el casco antiguo, en Jalan Tunku Abdul Rahman, a poca distancia a pie de la mayoría de los hoteles céntricos. Desde el aeropuerto internacional de Kuching (Kuching International Airport), son unos 20-25 minutos en taxi o en un servicio de e-hailing.
-  - q: ¿Es gratis visitar Kuching Waterfront?
-    a: Sí, el paseo en sí es gratuito y está abierto las 24 horas. Solo pagarás por los puestos de comida, los recuerdos o un paseo en barca tambang por el río.
+  - q: ¿Cómo se llega al Kuching Waterfront?
+    a: Se encuentra en el casco antiguo, en Jalan Tunku Abdul Rahman, a poca distancia a pie de la mayoría de los hoteles del centro. Desde el Aeropuerto Internacional de Kuching, el trayecto en taxi o en aplicaciones de transporte dura unos 20-25 minutos.
+  - q: ¿Es gratis visitar el Kuching Waterfront?
+    a: Sí, el paseo en sí es gratuito y está abierto las 24 horas. Solo se paga en los puestos de comida, los recuerdos o si se toma una barca tambang para cruzar el río.
   - q: ¿Cuál es el mejor momento para visitarlo?
-    a: Al final de la tarde y al anochecer, entre las 17:00 y las 20:00 aproximadamente, cuando el calor amaina y el Astana y el edificio de la asamblea legislativa se iluminan. Para un paseo más tranquilo, ve temprano por la mañana, hacia las 8:00.
-  - q: ¿Cuánto tiempo debería dedicarle?
-    a: Calcula entre 45 minutos y una hora para recorrer todo el trayecto, más si te detienes a comer o haces una travesía en barca por el río.
-  - q: ¿Qué debería comer mientras estoy allí?
-    a: Prueba la laksa de Sarawak, el kolo mee y el pastel en capas kek lapis en los puestos cercanos a la zona de restauración, en el extremo del Hilton del paseo.
+    a: De la última hora de la tarde al anochecer, más o menos entre las 17:00 y las 20:00, cuando baja el calor y se iluminan el Astana y el edificio de la asamblea legislativa. Para un paseo más tranquilo, conviene ir temprano, hacia las 8:00.
+  - q: ¿Cuánto tiempo conviene dedicarle?
+    a: Hay que calcular entre 45 minutos y una hora para recorrerlo de punta a punta, más si se para a comer algo o se cruza el río en barca.
+  - q: ¿Qué se puede comer allí?
+    a: Vale la pena probar la laksa de Sarawak, el kolo mee y el bizcocho en capas kek lapis en los puestos cercanos al patio de comidas, en el extremo del paseo próximo al Hilton.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con ayuda de IA. Los datos se obtienen de la información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de Google Places en tiempo real; las imágenes tienen licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 
-Este es el porche de entrada de Kuching, el lugar hacia el que se vuelca toda la ciudad para mirar al río. Un paseo entablado de aproximadamente un kilómetro recorre el río Sarawak (Sarawak River), desde el extremo del Hilton, cerca de la antigua Square Tower, hasta la zona de Riverside, cerca del Grand Margherita. En una orilla se encuentra el antiguo casco colonial; al otro lado del agua, el Astana y el Fort Margherita reciben los últimos rayos del sol del día.
+Este es el porche delantero de Kuching, el lugar hacia el que mira toda la ciudad. Un paseo pavimentado recorre cerca de un kilómetro a lo largo del río Sarawak, desde el extremo del Hilton, cerca de la antigua Square Tower, hasta la zona de Riverside, próxima al Grand Margherita. En una orilla se asienta el casco antiguo de época colonial; en la otra, al otro lado del agua, el Astana y el Fuerte Margherita reciben los últimos rayos de sol del día.
 
-## Qué verás por el camino
+## Qué se ve por el camino
 
-El paseo fluvial no es una sola atracción, sino una sucesión de pequeños puntos de interés. Pasarás por el Museo de Historia China (Chinese History Museum), la ornamentada Round Tower y la "fuente del gato", cerca de la antigua Square Tower, un guiño al nombre de Kuching, que significa "gato" en malayo.
+El paseo fluvial no es una sola atracción, sino una sucesión de pequeños hitos. Por el camino se pasa junto al Museo de Historia China, la ornamentada Round Tower y la "fuente de los gatos", cerca de la antigua Square Tower, un guiño al propio nombre de Kuching, que en malayo significa "gato".
 
-Si miras al otro lado del río, verás:
+Si se mira hacia la otra orilla, se distinguen:
 
-- **El Astana** – la residencia del gobernador de Sarawak, construida en 1870
-- **Fort Margherita** – un fuerte colonial encalado convertido en museo, cerrado en algunas temporadas por renovación, así que conviene comprobarlo antes
-- **La Asamblea Legislativa del Estado de Sarawak (Sarawak State Legislative Assembly)** – el edificio dorado de techo en forma de sombrilla que se ilumina de forma espectacular tras la puesta de sol
+- **El Astana**: la residencia del gobernador de Sarawak, un edificio de la época colonial
+- **El Fuerte Margherita**: una antigua fortaleza colonial encalada, hoy convertida en museo, que en algunas temporadas permanece cerrado por obras de renovación, así que conviene comprobarlo antes de ir
+- **La Asamblea Legislativa del Estado de Sarawak**: el edificio dorado de tejado en forma de sombrilla que, tras la puesta de sol, se ilumina de forma espectacular
 
-Pequeñas barcas de madera llamadas *tambang* siguen cruzando pasajeros de una orilla a otra por una tarifa simbólica, una forma económica y sencilla de ver el perfil de la ciudad desde el agua.
+Pequeñas barcas de madera llamadas *tambang* siguen cruzando pasajeros de una orilla a otra por una tarifa simbólica: una manera barata y sencilla de contemplar el perfil de la ciudad desde el agua.
 
 ## El mejor momento para recorrerlo
 
-El mediodía aquí es implacable: luz plana, humedad intensa y poca sombra. El paseo recompensa a quien tiene paciencia.
+A mediodía, el lugar resulta agotador: la luz es plana, la humedad pesa y apenas hay sombra. El paseo recompensa a quien tiene paciencia.
 
-Ven hacia las 17:00, cuando el calor empieza a ceder y los vendedores sacan sus carritos de comida. Hacia las 19:00, el edificio de la asamblea legislativa y el fuerte ya están iluminados con focos, y el paseo se llena de familias, corredores y parejas que se fotografían junto al río.
+Conviene llegar hacia las 17:00, cuando el calor empieza a ceder y los vendedores sacan sus carritos de comida. Hacia las 19:00, el edificio de la asamblea legislativa y el fuerte ya están iluminados con focos, y el paseo se llena de familias, corredores y parejas que se fotografían con el río de fondo.
 
-Al ser una parada muy conocida entre los visitantes, las tardes de fin de semana se llenan de verdad. Si prefieres un paseo más tranquilo con la misma luz dorada, ven justo cuando abren las cafeterías cercanas, hacia las 8:00, cuando el paseo está casi vacío y los pescadores todavía están en el agua.
+Al tratarse de una parada muy conocida entre los visitantes, las noches de fin de semana se llenan de verdad. Para disfrutar de un paseo más tranquilo con la misma luz dorada, lo mejor es llegar justo cuando abren las cafeterías cercanas, hacia las 8:00, cuando el paseo está casi vacío y todavía se ven pescadores faenando en el río.
 
 ## Comer y picar algo en el paseo
 
-La cultura gastronómica de Sarawak se hace notar con fuerza aquí, especialmente cerca de la zona de restauración al aire libre próxima al extremo del Hilton.
+La cultura gastronómica de Sarawak se hace notar con fuerza aquí, sobre todo cerca del patio de comidas al aire libre próximo al extremo del Hilton.
 
-No te pierdas:
+Conviene fijarse en:
 
-- **Laksa de Sarawak** – una sopa de fideos especiada con coco y tamarindo, habitualmente un plato de desayuno, pero que se vende hasta la noche en los puestos del paseo
-- **Kolo mee** – fideos secos salteados con cerdo picado o char siu
-- **Kek lapis** – el denso y colorido pastel en capas de Sarawak, que se vende en los puestos de recuerdos a lo largo del paseo
-- **Pinchos a la parrilla y cocos frescos** de los carritos nocturnos cerca del anfiteatro
+- **Laksa de Sarawak**: una sopa de fideos con especias, coco y tamarindo que suele tomarse en el desayuno, aunque en los puestos del paseo se vende también por la noche
+- **Kolo mee**: fideos secos salteados con cerdo picado o char siu
+- **Kek lapis**: el denso y colorido bizcocho en capas típico de Sarawak, que se vende en los puestos de recuerdos a lo largo del paseo
+- **Brochetas a la parrilla y cocos frescos**, en los carritos que salen por la noche cerca del anfiteatro
 
-Los precios son modestos en comparación con los estándares internacionales, aunque los costes exactos varían de un año a otro, así que conviene tomar cualquier cifra que oigas como una referencia aproximada y no como un dato fijo.
+Los precios son moderados para los estándares internacionales, aunque las cifras exactas varían de un año a otro, así que conviene tomar cualquier importe que se mencione como una referencia aproximada y no como un dato fijo.
 
 ## Cómo llegar y moverse por la zona
 
-El paseo fluvial corre paralelo a Main Bazaar, en el casco antiguo, a poca distancia a pie de la mayoría de los hoteles céntricos de Kuching. Si vienes desde el aeropuerto, el trayecto hasta el centro dura aproximadamente entre 20 y 25 minutos en taxi o en un servicio de e-hailing.
+El paseo fluvial corre paralelo a Main Bazaar, en el casco antiguo, a poca distancia a pie de la mayoría de los hoteles del centro de Kuching. Desde el aeropuerto, el trayecto en taxi o en aplicaciones de transporte hasta la ciudad dura aproximadamente entre 20 y 25 minutos.
 
-Una vez allí, todo el tramo es plano, está pavimentado y es apto para cochecitos, así que la mayoría de la gente simplemente lo recorre de punta a punta en 30-45 minutos sin necesidad de transporte. Toma una barca *tambang* si quieres cruzar hacia el lado del Astana y volver, para tener otra perspectiva del perfil de la ciudad.
+Una vez allí, todo el tramo es llano, está pavimentado y resulta apto para cochecitos, así que la mayoría de la gente lo recorre de un extremo a otro caminando, en 30-45 minutos, sin necesidad de transporte adicional. Vale la pena tomar una barca *tambang* para cruzar hacia el lado del Astana y volver, y así ver el perfil de la ciudad desde otro ángulo.
 
 ## Cómo visitarlo como un local
 
-Los habitantes de Sarawak ven el paseo fluvial como un lugar para refrescarse al atardecer, no como una parada fotográfica para pasar corriendo. Haz lo mismo: camina despacio, detente a comer laksa, siéntate en uno de los bancos frente al río.
+Los habitantes de Sarawak ven el paseo fluvial como un lugar donde refrescarse al caer la tarde, no como una parada fotográfica para hacer deprisa. Conviene hacer lo mismo: caminar despacio, detenerse a tomar una laksa y sentarse en alguno de los bancos frente al río.
 
-- **Paga en efectivo** en los puestos de comida y en las barcas tambang: los billetes pequeños y las monedas agilizan las cosas más que las tarjetas
-- **Evita el mediodía** por completo; el calor y el resplandor lo convierten en el momento menos gratificante para salir
-- **Evita la hora punta de la zona principal de restauración**, entre las 19:00 y las 20:00 los fines de semana, si no te gustan las colas; come un poco antes o después
-- **No te limites a fotografiar el Astana desde lejos**: la breve travesía en barca es económica y ofrece una vista mucho mejor
-- **Lleva billetes pequeños y una botella de agua**, ya que el paseo es más largo y está más expuesto al sol de lo que parece en el mapa
+- **Pagar en efectivo** en los puestos de comida y en las barcas tambang: los billetes pequeños y las monedas agilizan las cosas más que las tarjetas
+- **Evitar por completo el mediodía**; el calor y el resplandor lo convierten en el momento menos gratificante para salir
+- **Evitar la hora punta del patio de comidas principal**, entre las 19:00 y las 20:00 los fines de semana, si no gustan las colas; mejor comer un poco antes o un poco después
+- **No limitarse a fotografiar el Astana desde lejos**: el breve cruce en barca es económico y ofrece una vista mucho mejor
+- **Llevar billetes pequeños y una botella de agua**, ya que el paseo es más largo y está más expuesto al sol de lo que parece en el mapa
 
-El error que comete la mayoría de los visitantes es tratar esto como una parada fotográfica de cinco minutos entre el museo y la cena. Dedícale una hora en su lugar, idealmente a caballo entre el día y la puesta de sol, y entenderás por qué es el lugar en el que se reúne la propia Kuching cada noche.
+El error que comete la mayoría de los visitantes es tratar este lugar como una parada fotográfica de cinco minutos entre el museo y la cena. Mejor dedicarle una hora, a ser posible a caballo entre el día y el atardecer, y así se entenderá por qué es el lugar donde la propia Kuching se reúne cada tarde.

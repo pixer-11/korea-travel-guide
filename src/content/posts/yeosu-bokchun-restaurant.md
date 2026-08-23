@@ -1,6 +1,6 @@
 ---
 title: 'Bokchun Restaurant: Where to Eat in Yeosu'
-description: Bokchun Restaurant is a long-running local spot in Yeosu's old downtown (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially
+description: "Bokchun Restaurant is a long-running local spot in Yeosu's old downtown (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially fish-based stews and banchan spreads."
 country: South Korea
 region: Yeosu
 category: restaurant

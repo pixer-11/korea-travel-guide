@@ -8211,6 +8211,65 @@
       "blurb": "铁尔梅兹坐落在乌兹别克斯坦最南端的阿姆河畔，与阿富汗边境遥遥相望，是中亚最古老的十字路口之一——它曾是贵霜时代的佛教中心，也曾是丝绸之路上的驻防要塞，如今城郊的荒漠中仍隐藏着残破的佛塔、古老的城堡遗迹和苏菲派圣祠。由于地处边境，这里长期是军事禁区，至今仍是全国游客最少、却历史底蕴最为厚重的角落之一。",
       "getting": "大多数旅行者会选择飞往铁尔梅兹机场（TMJ），该机场与塔什干有直飞航班；另一种选择是搭乘塔什干出发的夜间火车，沿途经过卡尔希和撒马尔罕，全程约15小时。",
       "days": "建议安排约2天时间，游览散布在城市周边的佛教与伊斯兰考古遗址，并参观当地虽小却颇有看头的博物馆。"
+    },
+    "ko": {
+      "blurb": "우즈베키스탄 남쪽 끝, 아프가니스탄 국경이 눈앞에 보이는 아무다리야 강가에 자리한 테르메즈는 중앙아시아에서 가장 오래된 교차로 중 하나다. 쿠샨 시대에는 불교 중심지였고, 실크로드 시절에는 국경 수비 도시였던 이곳의 사막 외곽에는 지금도 무너져가는 불탑과 고대 요새, 수피 성지들이 숨어 있다. 국경 지대라는 특성 때문에 오랫동안 군사 폐쇄 구역이었던 탓에, 테르메즈는 우즈베키스탄에서 가장 발길이 드물면서도 역사적 층위가 가장 깊은 지역으로 남아 있다.\",\"getting\":\"대부분의 여행자는 타슈켄트와 직항으로 연결되는 테르메즈 공항(TMJ)을 이용해 들어온다. 다른 방법으로는 타슈켄트에서 출발하는 야간 열차가 있는데, 카르시와 사마르칸트를 거쳐 약 15시간이 걸리는 여정이다.",
+      "getting": "대부분의 여행자는 타슈켄트와 직항으로 연결되는 테르메즈 공항(TMJ)을 이용해 들어온다. 다른 방법으로는 타슈켄트에서 출발하는 야간 열차가 있는데, 카르시와 사마르칸트를 거쳐 약 15시간이 걸리는 여정이다.",
+      "days": "시내 주변에 흩어져 있는 불교 및 이슬람 유적지들과 작지만 볼 만한 지역 박물관을 둘러보려면 2일 정도를 잡으면 된다."
+    }
+  },
+  "Kampot": {
+    "en": {
+      "blurb": "Kampot is a sleepy riverside town in southern Cambodia, famed for its French colonial-era shophouses, world-renowned pepper farms, and the misty limestone highlands of Bokor National Park rising just behind it. Its slow pace and crumbling charm have made it a favorite stop for travelers looking to unwind between Cambodia's coast and capital.",
+      "getting": "Kampot has no airport of its own, so most travelers arrive by bus or minivan from Phnom Penh (~2.5–4 hours) via Phnom Penh International Airport (PNH), the country's main international gateway; a slower but scenic daily train also links Kampot to Phnom Penh on the Southern Line. Sihanoukville's smaller international airport (KOS) is geographically closer but has far fewer flight connections, so onward road transport from Phnom Penh remains the most reliable route.",
+      "days": "~2-3 days is typically enough to explore the riverside town, visit a nearby pepper plantation, and make a day trip up to Bokor Hill Station."
+    },
+    "ko": {
+      "blurb": "캄폿은 캄보디아 남부에 자리한 한적한 강변 소도시로, 프랑스 식민지 시대의 정취가 남아있는 상점가와 세계적으로 유명한 후추 농장, 그리고 바로 뒤편으로 솟아있는 보코르 국립공원의 안개 낀 석회암 고원지대로 잘 알려져 있습니다. 느긋한 분위기와 세월의 흔적이 묻어나는 매력 덕분에, 캄보디아의 해안 지역과 수도 사이에서 잠시 쉬어가고자 하는 여행자들에게 사랑받는 경유지가 되었습니다.",
+      "getting": "캄폿에는 자체 공항이 없어, 대부분의 여행자는 캄보디아의 주요 관문인 프놈펜 국제공항(PNH)을 통해 입국한 뒤, 버스나 미니밴을 타고 프놈펜에서 약 2.5~4시간 걸려 캄폿으로 이동합니다. 속도는 느리지만 경치가 아름다운 남부 노선 기차도 매일 프놈펜과 캄폿을 연결해줍니다. 시아누크빌의 소규모 국제공항(KOS)이 지리적으로는 더 가깝지만 취항 노선이 훨씬 적기 때문에, 프놈펜을 경유하는 육로 이동이 여전히 가장 안정적인 방법입니다.",
+      "days": "강변 소도시를 둘러보고, 인근 후추 농장을 방문하며, 보코르 힐 스테이션으로 당일치기 여행을 다녀오기에는 보통 2~3일이면 충분합니다."
+    },
+    "ja": {
+      "blurb": "カンポットは、カンボジア南部にたたずむのどかな川辺の町。フランス統治時代の面影を残すショップハウス街や、世界的に名高いコショウ農園、そして町の背後にそびえるボコー国立公園の霧に包まれた石灰岩の高原で知られています。ゆったりとした時間の流れと、どこか懐かしさを感じさせる古びた町並みが魅力で、カンボジアの海岸エリアと首都プノンペンを行き来する旅行者たちが、ひと息つくために立ち寄る人気のスポットとなっています。",
+      "getting": "カンポットには空港がないため、多くの旅行者はプノンペン国際空港（PNH）――カンボジア最大の国際的な玄関口――を経由し、そこからバスやミニバンで陸路移動（所要時間約2.5～4時間）してカンポット入りします。また、時間はかかるものの車窓の景色を楽しめる列車が、南部路線でプノンペンとカンポットを毎日結んでいます。シアヌークビルの国際空港（KOS）はカンポットにより近い位置にありますが、就航便数がかなり限られているため、プノンペン経由の陸路移動が最も確実な行き方といえるでしょう。",
+      "days": "川沿いの町歩きや近郊のコショウ農園見学、そしてボコー・ヒル・ステーションへの日帰り旅行を楽しむには、2～3日ほどあれば十分でしょう。"
+    },
+    "es": {
+      "blurb": "Kampot es una tranquila localidad ribereña en el sur de Camboya, célebre por sus antiguas casas-tienda de la época colonial francesa, sus reconocidas plantaciones de pimienta y las neblinosas tierras altas de piedra caliza del Parque Nacional de Bokor, que se alzan justo detrás de la ciudad. Su ritmo pausado y su encanto algo desgastado la han convertido en una parada predilecta para los viajeros que buscan relajarse entre la costa y la capital de Camboya.",
+      "getting": "Kampot no cuenta con aeropuerto propio, por lo que la mayoría de los viajeros llegan en autobús o minivan desde Phnom Penh (entre 2,5 y 4 horas aproximadamente) a través del Aeropuerto Internacional de Phnom Penh (PNH), la principal puerta de entrada internacional del país; también existe un tren diario, más lento pero muy pintoresco, que conecta Kampot con Phnom Penh por la Línea Sur. El aeropuerto internacional de Sihanoukville (KOS), más pequeño, está geográficamente más cerca, pero tiene muchas menos conexiones aéreas, por lo que el transporte terrestre desde Phnom Penh sigue siendo la opción más fiable.",
+      "days": "Con unos 2 o 3 días suele ser suficiente para recorrer la localidad ribereña, visitar una plantación de pimienta cercana y hacer una excursión de un día a la estación de montaña de Bokor."
+    },
+    "zh": {
+      "blurb": "磅通（Kampot）是柬埔寨南部一座静谧的河畔小镇，以法国殖民时期风格的老式店屋、闻名世界的胡椒种植园，以及镇后云雾缭绕的波哥国家公园（Bokor National Park）石灰岩高地而闻名。这里节奏悠闲、带着几分斑驳的旧时韵味，是许多旅行者往返柬埔寨海岸与首都之间放松身心的心仪驿站。",
+      "getting": "磅通本身没有机场，大多数旅行者是从金边乘坐大巴或小巴前来（车程约2.5至4小时），需经由该国主要的国际门户——金边国际机场（PNH）中转；此外，南线铁路也有每日一班的火车连接磅通与金边，车程较慢但沿途风光宜人。西哈努克市（Sihanoukville）的小型国际机场（KOS）虽然地理位置更近，但航班连接十分有限，因此从金边经陆路前往，依然是最可靠的方式。",
+      "days": "通常安排2-3天即可：漫步河畔小镇、探访附近的胡椒种植园，并抽出一天前往波哥山站（Bokor Hill Station）游览。"
+    }
+  },
+  "Siem Reap": {
+    "en": {
+      "blurb": "Siem Reap is Cambodia's temple capital, the compact gateway city built to serve the vast Angkor Archaeological Park just to its north. Beyond the ruins, it offers a walkable old quarter of colonial-era streets, night markets, and a buzzing riverside strip that make it as much a base for lingering as for temple-hopping.",
+      "getting": "Most travellers fly into Siem Reap–Angkor International Airport (SAI), which opened in October 2023 roughly 45-50 km east of the city and is reached by taxi or shuttle bus in about 45-60 minutes; the older in-town airport (REP) has permanently closed. Overland travellers typically arrive by long-distance bus or shared taxi from Phnom Penh or other regional hubs, a journey of several hours, as Cambodia has no passenger rail service to Siem Reap.",
+      "days": "Plan on ~3-4 days to cover the main Angkor temple circuit at an unhurried pace, with an extra day or two if you want to add outlying temples, a floating village, or downtime in town."
+    },
+    "ko": {
+      "blurb": "시엠립은 캄보디아 사원 관광의 중심지로, 북쪽에 펼쳐진 광대한 앙코르 유적공원(Angkor Archaeological Park)을 오가는 관문 역할을 하는 아담한 도시입니다. 유적 탐방을 넘어서도, 도보로 둘러볼 수 있는 프랑스 식민지풍 구시가지와 야시장, 활기 넘치는 강변 거리를 품고 있어 사원 순례의 베이스캠프이자 느긋하게 머물기 좋은 곳이기도 합니다.\",\"getting\":\"대부분의 여행자는 2023년 10월에 개항한 시엠립-앙코르 국제공항(Siem Reap–Angkor International Airport, SAI)을 이용합니다. 이 공항은 시내에서 동쪽으로 약 45~50km 떨어져 있으며, 택시나 셔틀버스로 약 45~60분이 소요됩니다. 기존 시내 공항(REP)은 완전히 폐쇄되었습니다. 육로로 이동하는 경우 프놈펜을 비롯한 주요 도시에서 장거리 버스나 합승 택시를 이용하는 것이 일반적이며, 캄보디아에는 시엠립까지 연결되는 여객 철도가 없어 이동에 몇 시간이 소요됩니다.",
+      "getting": "대부분의 여행자는 2023년 10월에 개항한 시엠립-앙코르 국제공항(Siem Reap–Angkor International Airport, SAI)을 이용합니다. 이 공항은 시내에서 동쪽으로 약 45~50km 떨어져 있으며, 택시나 셔틀버스로 약 45~60분이 소요됩니다. 기존 시내 공항(REP)은 완전히 폐쇄되었습니다. 육로로 이동하는 경우 프놈펜을 비롯한 주요 도시에서 장거리 버스나 합승 택시를 이용하는 것이 일반적이며, 캄보디아에는 시엠립까지 연결되는 여객 철도가 없어 이동에 몇 시간이 소요됩니다.",
+      "days": "여유롭게 앙코르 사원 주요 코스를 둘러보려면 약 3~4일 정도를 계획하는 것이 좋으며, 외곽 사원이나 수상 마을을 추가로 방문하거나 시내에서 느긋한 시간을 보내고 싶다면 하루이틀 더 여유를 두는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "シェムリアップはカンボジアが誇る「寺院の都」。すぐ北に広がる広大なアンコール遺跡群への玄関口として発展した、こぢんまりとした街です。遺跡だけでなく、植民地時代の面影を残す旧市街は歩いて回りやすく、ナイトマーケットや活気あふれる川沿いの通りも魅力。寺院巡りの拠点としてだけでなく、ゆったり滞在する街としても楽しめます。",
+      "getting": "多くの旅行者は、2023年10月に開港したシェムリアップ・アンコール国際空港(SAI)を利用します。市街地から東へ約45~50kmの場所にあり、タクシーやシャトルバスで45~60分ほど。かつて市内近くにあった旧空港(REP)は完全に閉鎖されました。陸路の場合は、プノンペンなど他の主要都市から長距離バスや乗合タクシーで数時間かけて向かうのが一般的です。カンボジアにはシェムリアップまでの鉄道が通っていないため、鉄道での移動はできません。",
+      "days": "アンコール遺跡群の主要な見どころを慌ただしくなく巡るなら、3~4日程度が目安です。郊外の遺跡や水上village(トンレサップ湖の水上集落)を訪れたり、街でのんびり過ごしたりしたい場合は、さらに1~2日プラスするとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Siem Reap es la capital de los templos de Camboya, la compacta ciudad de acceso construida para servir al vasto Parque Arqueológico de Angkor, justo al norte. Más allá de las ruinas, ofrece un casco antiguo perfecto para recorrer a pie, con calles de arquitectura colonial, mercados nocturnos y una animada franja junto al río que la convierten en un lugar tan propicio para quedarse un tiempo como para lanzarse a explorar templos.",
+      "getting": "La mayoría de los viajeros llega volando al Aeropuerto Internacional Siem Reap–Angkor (SAI), inaugurado en octubre de 2023 a unos 45-50 km al este de la ciudad, al que se accede en taxi o autobús lanzadera en aproximadamente 45-60 minutos; el antiguo aeropuerto en la ciudad (REP) ha cerrado de forma permanente. Quienes viajan por tierra suelen llegar en autobús de larga distancia o taxi compartido desde Phnom Penh u otros centros regionales, un trayecto de varias horas, ya que Camboya no cuenta con servicio ferroviario de pasajeros hasta Siem Reap.",
+      "days": "Calcula unos 3-4 días para recorrer el circuito principal de templos de Angkor con calma, y uno o dos días adicionales si quieres sumar templos más alejados, un pueblo flotante o simplemente relajarte en la ciudad."
+    },
+    "zh": {
+      "blurb": "暹粒是柬埔寨的\"寺庙之都\",这座小巧精致的门户城市专为服务其北面广袤的吴哥考古公园而生。除了古迹之外,这里还拥有一片适合步行游览的老城区,街道两旁尽是殖民时期的建筑,夜市热闹非凡,河畔街区更是活力四射——这一切让暹粒不仅是探访寺庙的起点,更是值得慢慢停留的好去处。",
+      "getting": "大多数旅客选择飞抵暹粒吴哥国际机场(SAI),该机场于2023年10月启用,位于市区以东约45-50公里处,搭乘出租车或班车约需45-60分钟即可抵达市区;而原先的市区机场(REP)已永久关闭。陆路旅行者通常乘坐长途巴士或拼车前往,从金边或其他区域枢纽出发需数小时车程,因为柬埔寨目前尚无通往暹粒的客运铁路服务。",
+      "days": "若想不慌不忙地游览吴哥主要寺庙群,建议安排约3-4天;如果还想探访偏远寺庙、游览水上村落,或是在市区悠闲休憩,不妨再多留一两天。"
     }
   }
 }

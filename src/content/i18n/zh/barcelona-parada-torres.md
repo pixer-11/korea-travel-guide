@@ -3,7 +3,7 @@ lang: zh
 slug: barcelona-parada-torres
 srcHash: '645fad9f93a6'
 title: 'Parada Torres,圣卡特琳娜市场(巴塞罗那):该点什么、何时去'
-description: '巴塞罗那圣卡特琳娜市场内的Parada Torres摊位:该点什么、几点人少、怎么找到它,以及附近还能吃点什么。'
+description: '巴塞罗那圣卡特琳娜市场内的Parada Torres摊位:该点什么、几点人少、怎么找到它，以及附近还能吃点什么。'
 quickAnswer: Parada Torres是米其林星厨兄弟Sergio和Javier Torres（以Cocina Hermanos Torres闻名）新开的市场酒吧，藏身于巴塞罗那老城区（Ciutat Vella）的圣卡特琳娜市场（Mercat de Santa Caterina）内。这里主打的是轻松自在、以柜台点餐为主的加泰罗尼亚家常美食，而非正襟危坐的品鉴菜单体验——一条长长的吧台、一方小露台，抬眼便是市场摊位的热闹景象。由于餐厅刚开业不久、热度正高，营业时间和是否接受预订都可能随时调整，出发前最好先确认清楚。
 faq:
   - q: 怎么去Parada Torres？

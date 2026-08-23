@@ -1,6 +1,6 @@
 ---
 title: MULJIL in Kuala Lumpur
-description: MULJIL is a new Korean coastal-cuisine restaurant at The Five in Damansara Heights, Kuala Lumpur, born from a collaboration between Maljiro and Taan Korean
+description: "MULJIL is a new Korean coastal-cuisine restaurant at The Five in Damansara Heights, Kuala Lumpur, born from a collaboration between Maljiro and Taan Korean Steakhouse."
 country: Malaysia
 region: Kuala Lumpur
 category: restaurant

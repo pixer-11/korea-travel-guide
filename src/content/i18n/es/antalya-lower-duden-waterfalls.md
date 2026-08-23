@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: antalya-lower-duden-waterfalls
-srcHash: '088743084ad6'
-title: 'Cascadas Bajas de Duden: Guía de viaje de Antalya (4,7★)'
-description: 'Las Cascadas Bajas de Duden se forman donde el río Duden cae directamente desde un acantilado hasta el Mediterráneo, justo al este de Antalya, cerca de la playa de Lara. 4,7★ (32.586 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: Las Cascadas Bajas de Duden se forman donde el río Duden cae directamente desde un acantilado hasta el Mediterráneo, justo al este de Antalya, cerca de la playa de Lara. El acceso está abierto las 24 horas, pero conviene ir a primera hora de la mañana o a última de la tarde para evitar las aglomeraciones de los autobuses turísticos y disfrutar de la mejor luz en las plataformas de observación del acantilado.
+srcHash: '3ec6776379c2'
+title: 'Cataratas de Duden Bajo: Guía de viaje de Antalya (4.7★)'
+description: 'Las Cataratas de Duden Bajo se forman donde el río Duden cae directamente desde un acantilado hacia el Mediterráneo, justo al este de Antalya, cerca de la playa de Lara. 4.7★ (32.586 opiniones): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: Las Cataratas de Duden Bajo se forman donde el río Duden cae directamente desde un acantilado hacia el Mediterráneo, justo al este de Antalya, cerca de la playa de Lara. El acceso es de 24 horas, pero conviene ir a primera hora de la mañana o al final de la tarde para evitar las multitudes de autobuses turísticos y disfrutar de la mejor luz en las plataformas de observación junto al acantilado.
 faq:
-  - q: ¿Cómo se llega a las Cascadas Bajas de Duden desde el centro de Antalya?
-    a: El trayecto dura unos 20 minutos en coche o en taxi hacia el este por Lara Caddesi. También se puede tomar un autobús local con destino a Lara y bajarse cerca de la parada Düden Şelalesi.
-  - q: ¿Cuánto tiempo conviene dedicar a la visita?
-    a: La mayoría de los visitantes pasan entre 45 minutos y una hora recorriendo las plataformas de observación y tomando un té o un café en los cafés situados junto al borde del parque.
-  - q: ¿Cuál es el mejor momento para visitarlo y evitar las aglomeraciones?
-    a: Conviene ir a primera hora de la mañana o en las últimas horas antes del atardecer. Entre media mañana y primera hora de la tarde es cuando llegan en mayor número los autobuses turísticos desde los hoteles de Lara.
+  - q: ¿Cómo se llega a las Cataratas de Duden Bajo desde el centro de Antalya?
+    a: El trayecto en coche o taxi hacia el este por la avenida Lara Caddesi dura unos 20 minutos. También se puede tomar un autobús local con destino a Lara y bajar cerca de la parada Düden Şelalesi.
+  - q: ¿Cuánto tiempo debería reservar para la visita?
+    a: La mayoría de los visitantes dedica entre 45 minutos y una hora a recorrer las plataformas de observación y tomar un té o un café en las cafeterías situadas junto al parque.
+  - q: ¿Cuál es el mejor momento para ir y evitar las multitudes?
+    a: Conviene ir a primera hora de la mañana o durante las últimas horas antes del atardecer. Entre la media mañana y primera hora de la tarde es cuando llegan en masa los autobuses turísticos procedentes de los hoteles de Lara.
   - q: ¿Hay que pagar entrada?
-    a: El parque en sí tiene acceso libre, sin taquilla formal. Puede haber una opción de paseo en barco de pago para ver las cascadas desde el mar, pero es totalmente opcional.
+    a: El parque tiene acceso libre, sin taquilla oficial. Puede encontrarse la opción de un pequeño paseo en barco de pago para ver las cataratas desde el mar, aunque es totalmente opcional.
   - q: ¿Qué hay cerca para completar una media jornada?
-    a: La playa de Lara y el Acuario de Antalya están a poca distancia en taxi y combinan bien con una visita a las Cascadas de Duden.
+    a: La playa de Lara y el Acuario de Antalya están a poca distancia en taxi y combinan bien con una visita a las Cataratas de Duden.
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes son de uso libre o dominio público. Consulta nuestra [política editorial](/about).
 
 ## Por qué ir
 
-Aquí se viene por una sola imagen: un río que desaparece por un acantilado de 40 metros y cae directamente al mar. Las Cascadas Bajas de Duden (Alçak Düden Şelalesi) son esa rara catarata que se contempla desde arriba y no desde abajo, con el Mediterráneo extendiéndose más allá de la bruma de agua.
+Aquí se viene por una sola imagen: un río que desaparece por un acantilado y cae directamente al mar. Las Cataratas de Duden Bajo (Alçak Düden Şelalesi) son esa rara catarata que se observa desde arriba en lugar de mirarla desde abajo, con el Mediterráneo extendiéndose más allá de la espuma.
 
-La pared del acantilado está veteada de verde y negro por los depósitos minerales, y en un día despejado el agua refleja el sol de tal manera que todos los teléfonos de la multitud salen a relucir al mismo tiempo.
+La pared del acantilado está veteada de verde y negro por los depósitos minerales, y en un día despejado el agua atrapa la luz del sol de tal manera que hace salir a la vez todos los teléfonos de la multitud.
 
 ## Qué ver y hacer
 
-Un camino pavimentado recorre el parque en bucle hasta varias plataformas de observación talladas en lo alto del acantilado. La plataforma principal se sitúa casi justo encima de las cascadas, permitiendo ver cómo el agua se lanza desde la roca y salpica de bruma a los barcos que esperan mar adentro para las fotos de los turistas.
+Un camino pavimentado recorre el parque en bucle hasta varias plataformas de observación labradas en lo alto del acantilado. La plataforma principal se sitúa casi justo encima de las cataratas, con vistas hacia abajo del agua que se lanza desde la roca y salpica de espuma a los barcos que esperan frente a la costa para las fotos de los turistas.
 
-Más abajo, una terraza más rocosa permite acercarse al punto donde el río realmente se encuentra con el mar; hay que contar con salpicaduras si sopla el viento.
+Más abajo, una terraza más rocosa permite acercarse al punto donde el río se encuentra realmente con el mar; si hay viento, hay que contar con salpicaduras.
 
-- Los paseos en barco desde la playa de Lara rodean la base de las cascadas para ofrecer una vista desde abajo
-- Junto al borde del acantilado hay zonas de picnic con sombra y jardines de té
-- Una pequeña mezquita y varios cafés bordean el parque para hacer una pausa
-- Los fotógrafos suelen quedarse hasta última hora de la tarde, cuando la luz incide sobre la pared del acantilado
+- Los paseos en barco desde la playa de Lara rodean la base de las cataratas para ofrecer una vista desde abajo
+- Junto al borde del acantilado hay zonas de pícnic con sombra y jardines de té
+- En el borde del parque se alinean una pequeña mezquita y varias cafeterías para hacer una pausa
+- Los fotógrafos suelen quedarse hasta última hora de la tarde para captar la luz sobre la pared del acantilado
 
-Conviene reservar entre 45 minutos y una hora: tiempo suficiente para recorrer las plataformas, tomar fotografías y disfrutar de un té con vistas al agua.
+Conviene reservar entre 45 minutos y una hora: tiempo suficiente para recorrer las plataformas, tomar fotos y disfrutar de un té con vistas al agua.
 
 ## Cómo llegar
 
-Las cascadas se encuentran en Lara Caddesi, en el distrito de Muratpaşa, a unos 20 minutos en coche al este del centro de Antalya y a solo unos minutos de la playa de Lara.
+Las cataratas se encuentran en la avenida Lara Caddesi, en el distrito de Muratpaşa, a unos 20 minutos en coche al este del centro de Antalya y a solo unos minutos de la playa de Lara.
 
-Los autobuses locales de la línea Lara paran cerca de la entrada; conviene pedir la parada "Düden Şelalesi" y confirmar el número de ruta en el hotel, ya que la numeración de los autobuses urbanos cambia de vez en cuando. Los taxis y las aplicaciones de transporte son sencillos y económicos desde Lara o desde el casco antiguo (Kaleiçi).
+Los autobuses locales de la línea Lara paran cerca de la entrada: basta con preguntar por "Düden Şelalesi" y confirmar el número de la ruta en el hotel, ya que la numeración de los autobuses urbanos cambia de vez en cuando. Los taxis y las aplicaciones de transporte son una opción sencilla y económica desde Lara o desde el casco antiguo (Kaleiçi).
 
-Si ya se está en la playa de Lara, la visita resulta un complemento fácil a un día de playa, más que una excursión aparte.
+Si ya se está en la playa de Lara, la visita puede añadirse fácilmente a un día de playa en lugar de planearse como una salida aparte.
 
 ## Cuándo ir
 
-El parque nunca cierra —permanece abierto las 24 horas todos los días—, pero las cascadas registran más afluencia a media mañana y primera hora de la tarde, cuando llegan los autobuses turísticos desde la franja hotelera de Lara.
+El parque nunca cierra: el acceso es de 24 horas todos los días. Sin embargo, las cataratas están más concurridas entre la media mañana y primera hora de la tarde, cuando llegan los autobuses turísticos desde la zona hotelera de Lara.
 
-Conviene ir justo después del amanecer o en las últimas horas antes del atardecer, para encontrar menos gente y una luz más suave sobre el acantilado. La primavera y el otoño ofrecen temperaturas agradables sin el calor máximo del verano; el caudal del agua suele ser más abundante a finales del invierno y en primavera, tras las lluvias, y notablemente más escaso a finales del verano.
+Conviene ir justo después del amanecer o durante las últimas horas antes del atardecer, para encontrar menos gente y disfrutar de una luz más suave sobre el acantilado. La primavera y el otoño ofrecen temperaturas agradables sin el calor del verano; el caudal del agua suele ser más abundante a finales del invierno y en primavera, tras las lluvias, y disminuye de forma notable hacia finales del verano.
 
 ## Cómo visitarlo como un local
 
-Se trata de uno de los lugares naturales más visitados de Antalya, no de un rincón tranquilo y poco conocido, así que conviene planificar la visita en torno a las multitudes en lugar de esperar evitarlas por completo.
+Se trata de uno de los lugares naturales más visitados de Antalya, no de un rincón tranquilo y poco conocido, así que conviene planear la visita en torno a las multitudes en lugar de esperar evitarlas por completo.
 
-- Llegar a primera hora de la mañana o cerca del atardecer, ya que a mediodía los grupos turísticos saturan la plataforma principal
-- Usar calzado con buen agarre, porque las terrazas rocosas cercanas al agua se vuelven resbaladizas por la bruma
-- La mayoría de los cafés y vendedores aceptan efectivo y tarjeta, aunque los pequeños puestos de té pueden preferir efectivo
-- Si el tiempo es limitado, se puede prescindir del paseo en barco de pago, ya que el verdadero atractivo es la vista desde el acantilado
-- No conviene asomarse a las barandillas para hacer fotos: la caída es real y los bordes de roca se desmoronan
+- Conviene llegar a primera hora de la mañana o cerca del atardecer, ya que al mediodía los grupos turísticos abarrotan la plataforma principal
+- Es recomendable llevar calzado con buen agarre, porque las terrazas de roca cercanas al agua se vuelven resbaladizas por la espuma
+- En las cafeterías y puestos suelen aceptar efectivo y tarjeta, aunque los pequeños puestos de té pueden preferir el pago en efectivo
+- Si el tiempo es limitado, se puede omitir el paseo en barco de pago: la verdadera atracción es la vista desde lo alto del acantilado
+- No conviene asomarse por las barandillas para hacer fotos, ya que la caída es real y los bordes de roca se desmoronan con facilidad
 
-No hay taquilla ni sistema formal de colas, ya que se trata de un parque público de acceso libre. La norma no escrita que siguen los locales es práctica: no ocupar durante mucho tiempo los espacios de observación más estrechos para sesiones de fotos si hay otras personas esperando detrás.
+No hay taquilla ni sistema formal de colas: al ser un parque público, simplemente se entra caminando. La norma de comportamiento que siguen los locales es práctica: no conviene ocupar durante mucho tiempo los puntos de observación más estrechos con sesiones de fotos largas si hay otras personas esperando detrás.
 
-Para completar una media jornada, la visita se puede combinar con la playa de Lara o el Acuario de Antalya, ambos a poca distancia en taxi.
+Para completar una media jornada más completa, se puede combinar la visita con la cercana playa de Lara o el Acuario de Antalya, ambos a un corto trayecto en taxi.

@@ -1,6 +1,6 @@
 ---
 title: 'Talbing-Go: Where to Eat in Andong'
-description: Talbing-Go is a casual restaurant attached to the Hahoe Mask Museum on the edge of Hahoe Folk Village in Andong, and it's the easiest place to eat well right
+description: "Talbing-Go is a casual restaurant attached to the Hahoe Mask Museum on the edge of Hahoe Folk Village in Andong, and it's the easiest place to eat well right after touring the masks and thatched houses."
 country: South Korea
 region: Andong
 category: restaurant

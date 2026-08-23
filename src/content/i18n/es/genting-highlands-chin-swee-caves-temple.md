@@ -1,70 +1,70 @@
 ---
 lang: es
 slug: genting-highlands-chin-swee-caves-temple
-srcHash: 'da85f6b039a9'
-title: 'Templo de las Cuevas de Chin Swee: guía de viaje a Genting Highlands'
-description: 'El templo de las Cuevas de Chin Swee es un complejo budista de 28 acres aferrado a la ladera de una montaña a 4.600 pies de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. 4.6★ (11.011 reseñas): qué opinan los visitantes, horarios y consejos.'
-quickAnswer: 'El templo de las Cuevas de Chin Swee es un complejo budista de 28 acres aferrado a la ladera de una montaña a 4.600 pies de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. Calcule entre 45 y 90 minutos para recorrerlo: la pagoda escalonada, el arqueado Puente Arcoíris (Rainbow Bridge) y los empinados tramos de escaleras entre altares y estanques de koi son lo más destacado. Los fines de semana, entre las 10:00 y las 18:00, se llena de verdad, así que llegar temprano o tarde dentro del horario de apertura es la mejor forma de disfrutar de una visita más tranquila.'
+srcHash: 'ff31bd26c883'
+title: 'Templo de las Cuevas Chin Swee: guía de viaje de Genting Highlands'
+description: 'El Templo de las Cuevas Chin Swee es un complejo budista de 28 acres aferrado a una ladera a 1.400 metros de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. 4,6★ (11.011 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: 'El Templo de las Cuevas Chin Swee es un complejo budista de 28 acres aferrado a una ladera a 1.400 metros de altitud, justo debajo de Genting Highlands, abierto todos los días de 7:00 a 19:00. Conviene reservar entre 45 y 90 minutos para recorrerlo: la pagoda escalonada, el arqueado Puente del Arcoíris y los empinados tramos de escaleras que pasan junto a santuarios y estanques de koi son lo más destacado. Los fines de semana, entre las 10:00 y las 18:00, se llena de verdad, así que llegar temprano o al final del horario de apertura es la mejor forma de disfrutar de una visita más tranquila.'
 faq:
-  - q: ¿Cuánto tiempo debería dedicar al templo de las Cuevas de Chin Swee?
-    a: Calcule unos 45 minutos para ver la pagoda principal y las salas de altares, o hasta 90 minutos si quiere subir cada nivel y detenerse un rato en las terrazas superiores, más tranquilas.
+  - q: ¿Cuánto tiempo conviene dedicar al Templo de las Cuevas Chin Swee?
+    a: Calcula unos 45 minutos para ver la pagoda principal y las salas del santuario, o hasta 90 minutos si quieres subir todos los niveles y disfrutar con calma de las terrazas superiores, más tranquilas.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: El templo abre de 7:00 a 19:00 todos los días y se mantiene relativamente tranquilo durante casi todo ese horario. El único momento que conviene evitar es la avalancha de visitantes de fin de semana, entre las 10:00 y las 18:00.
-  - q: ¿Cómo llego al templo de las Cuevas de Chin Swee sin coche?
-    a: No hay autobús público directo hasta la entrada, en la salida 68 (Exit 68), cerca de Genting Sempah. Los taxis y las aplicaciones de transporte privado desde Genting Highlands o Kuala Lumpur son las opciones más fiables.
+    a: El templo abre todos los días de 7:00 a 19:00 y se mantiene relativamente tranquilo durante casi todo ese horario. El único momento que conviene evitar es la avalancha de visitantes del fin de semana, entre las 10:00 y las 18:00.
+  - q: ¿Cómo llegar al Templo de las Cuevas Chin Swee sin coche?
+    a: No hay ningún autobús público que llegue directamente hasta la puerta, en la salida 68, cerca de Genting Sempah. Los taxis y las aplicaciones de transporte privado desde Genting Highlands o Kuala Lumpur son las opciones más fiables.
   - q: ¿Hay que pagar entrada?
-    a: Las políticas de acceso y las posibles tarifas pueden cambiar, así que conviene confirmar los detalles actuales en el propio lugar o con el hotel antes de la visita. Los donativos para incienso u ofrendas suelen hacerse en efectivo.
+    a: Las condiciones de acceso y las posibles tarifas pueden cambiar, así que conviene confirmar los detalles actuales en el propio lugar o con tu hotel antes de la visita. Las donaciones para incienso u ofrendas suelen hacerse en efectivo.
   - q: ¿Se puede combinar con una excursión de un día a Genting Highlands?
-    a: 'Sí: el templo se encuentra justo debajo de Genting, en la antigua carretera de montaña, por lo que la mayoría de los visitantes paran aquí por la mañana antes de subir a disfrutar de las atracciones, los casinos y el teleférico del complejo.'
+    a: 'Sí: el templo se encuentra justo debajo de Genting, en la antigua carretera de montaña, por lo que la mayoría de los visitantes paran aquí por la mañana antes de subir a disfrutar de las atracciones, los casinos y el teleférico del complejo turístico.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
 
-## Por qué ir
+## Por qué visitarlo
 
-El templo de las Cuevas de Chin Swee no es un santuario rural y silencioso, sino un espectáculo construido en plena ladera de montaña. Erigido sobre una pendiente pronunciada a 4.600 pies de altitud y terminado en 1994, este complejo de 28 acres se despliega en niveles escalonados, con una pagoda de nueve pisos que se distingue mucho antes de llegar a la entrada.
+El Templo de las Cuevas Chin Swee no es un santuario recogido en pleno campo, sino un espectáculo construido sobre la ladera de una montaña. El complejo se despliega en terrazas escalonadas a lo largo de la pendiente, y una imponente pagoda se hace visible mucho antes de llegar a la entrada.
 
-El entorno es el gran protagonista. Durante buena parte del año, la niebla envuelve las colinas circundantes, y el aire fresco de aquí resulta un alivio si se acaba de subir desde el calor tropical de las tierras bajas.
+Aquí el entorno lo es todo. La niebla envuelve las colinas de los alrededores durante buena parte del año, y el aire fresco resulta un alivio si acabas de subir desde el calor tropical de las tierras bajas.
 
 ## Cómo llegar
 
-El templo se encuentra junto a la salida 68 (Exit 68), cerca de Genting Sempah, en la antigua carretera que sube a Genting Highlands, dentro del distrito de Bentong, en el estado de Pahang. La mayoría de los visitantes llega como parada dentro de la subida o la bajada del complejo turístico, ya sea en coche de alquiler, taxi o Grab.
+El templo se encuentra junto a la salida 68, cerca de Genting Sempah, en la antigua carretera que sube a Genting Highlands, en Bentong, Pahang. La mayoría de los visitantes lo incluyen como parada de camino a la zona turística o de vuelta, ya sea en coche de alquiler, taxi o Grab.
 
-Si ya se hospeda en Genting, algunos mostradores de excursiones de los hoteles y algunos taxistas pueden incluirlo como una breve desviación en lugar de como un viaje aparte. No existe una línea de autobús público que llegue directamente hasta la puerta del templo, así que un coche o una aplicación de transporte privado son la opción más práctica.
+Quienes ya se alojan en Genting pueden pedir en la recepción del hotel o a algún taxista que lo añadan como un breve desvío en lugar de organizarlo como una salida aparte. No existe una línea de autobús público que llegue directamente hasta la puerta del templo, así que el coche o las aplicaciones de transporte privado son la opción más práctica.
 
 ## Qué ver
 
-Comience en la puerta de entrada y siga el camino que cruza el arqueado Puente Arcoíris (Rainbow Bridge), pintado en rojos y dorados, que salva un pequeño barranco antes de llegar al templo propiamente dicho.
+El recorrido comienza en la puerta de entrada, desde donde un camino cruza el arqueado Puente del Arcoíris, pintado en rojos y dorados, que salva un pequeño barranco justo antes del templo propiamente dicho.
 
-En el interior, no se pierda:
+Una vez dentro, no te pierdas:
 
-- La imponente pagoda, el elemento visual central del complejo, con niveles que pueden contemplarse desde abajo o recorrerse parcialmente subiendo.
-- La sala principal de altares, cargada de humo de incienso y del murmullo de los cánticos.
-- Las hileras de estatuas doradas de Buda que bordean las terrazas exteriores.
-- Los estanques de koi y los jardines de rocas escondidos entre las escaleras.
-- Los empinados tramos de escalera que conectan cada nivel: hay que esperar una subida de verdad, no un simple paseo llano.
+- La imponente pagoda, el elemento visual central del complejo, con niveles que se pueden contemplar desde abajo o subir parcialmente
+- El santuario principal, envuelto en humo de incienso y el murmullo constante de los cánticos
+- Las hileras de estatuas doradas de Buda que bordean las terrazas exteriores
+- Los estanques de koi y jardines de rocas escondidos entre las escaleras
+- Los empinados tramos de escalones que conectan cada nivel: hay que subir de verdad, no es un simple paseo llano
 
-Calcule 45 minutos si va con prisa, o hasta 90 si quiere recorrer cada nivel con calma y detenerse un rato en las terrazas superiores, más tranquilas.
+Con 45 minutos basta para una visita ágil; si prefieres recorrer todos los niveles y sentarte un rato en las terrazas más altas y tranquilas, calcula hasta 90 minutos.
 
 ## Cuándo ir
 
-El templo abre todos los días de 7:00 a 19:00, sin variaciones a lo largo de la semana. Los fines de semana se llena de verdad entre las 10:00 y las 18:00, cuando llegan en masa los autobuses turísticos y los excursionistas de un día procedentes de Kuala Lumpur.
+El templo abre todos los días de 7:00 a 19:00, sin variaciones a lo largo de la semana. Los fines de semana, entre las 10:00 y las 18:00, se llena de verdad con autocares turísticos y visitantes de un día procedentes de Kuala Lumpur.
 
-Si es posible, conviene ir a primera hora de la mañana, justo tras la apertura, o al principio de la tarde-noche, antes del cierre: tanto entre semana como el fin de semana, esas franjas dentro del mismo horario de 7:00 a 19:00 son las más tranquilas, fuera del ajetreo del mediodía del fin de semana. Dada la altitud, son frecuentes los días nublados o con llovizna, así que conviene llevar una chaqueta ligera sin importar la estación del año.
+Si puedes elegir, aprovecha las primeras horas justo después de la apertura o el final de la tarde antes del cierre: tanto entre semana como en fin de semana, esas franjas dentro del horario de 7:00 a 19:00 son las más tranquilas, siempre que se evite el ajetreo del mediodía en fin de semana. Los días nublados o con llovizna son habituales dada la altitud, así que conviene llevar una chaqueta ligera sea cual sea la temporada.
 
 ## Cómo visitarlo como un local
 
-Se trata de una parada muy visitada dentro del circuito de Genting, no de un rincón escondido, así que conviene organizar la visita en torno a las multitudes en lugar de esperar evitarlas por completo.
+Se trata de una parada muy frecuentada dentro del circuito de Genting, no de un rincón escondido, así que conviene organizar la visita en función de las multitudes en lugar de esperar evitarlas por completo.
 
-- Llegue cerca de la apertura, a las 7:00, o después de las 16:00-17:00, para esquivar el pico de fin de semana entre las 10:00 y las 18:00.
-- Vista con recato: como en cualquier templo budista en funcionamiento, se agradece llevar los hombros y las rodillas cubiertos dentro de las salas de altares.
-- Quítese los zapatos donde así lo indiquen los carteles antes de entrar en las zonas de oración cerradas.
-- Hable en voz baja cerca del altar principal; este es un lugar de culto activo, no solo un punto para hacerse fotos.
-- Lleve billetes pequeños si desea hacer un donativo o encender incienso, ya que los puestos informales de ofrendas suelen trabajar solo en efectivo.
-- Use calzado con buen agarre: las escaleras son empinadas, a veces húmedas por la niebla, y hay muchísimas.
+- Llega cerca de la apertura, a las 7:00, o después de las 16:00-17:00, para esquivar el pico del fin de semana entre las 10:00 y las 18:00
+- Viste de forma recatada: se agradece cubrir hombros y rodillas dentro de las salas del santuario, como en cualquier templo budista en activo
+- Descálzate donde así lo indiquen los carteles antes de entrar en las zonas de oración cerradas
+- Habla en voz baja cerca del altar principal; este es un lugar de culto en funcionamiento, no solo un punto para hacer fotos
+- Lleva billetes pequeños si quieres hacer una donación o encender incienso, ya que los puestos informales de ofrendas suelen aceptar solo efectivo
+- Usa calzado con buen agarre: las escaleras son empinadas, a veces resbaladizas por la niebla, y hay muchísimas
 
-El error más habitual entre los turistas es tratarlo solo como un mirador y subir las escaleras a toda prisa en busca de fotos. Conviene bajar el ritmo en las terrazas superiores: es allí donde el templo deja de parecer una parada turística y se muestra tal como realmente es.
+El error más habitual entre los turistas es tratarlo solo como un mirador y subir corriendo las escaleras para hacer fotos. Conviene ir despacio en las terrazas superiores: es ahí donde el templo deja de parecer una parada turística y se muestra tal como realmente es.
 
-## En los alrededores
+## Alrededores
 
-El templo de las Cuevas de Chin Swee combina de forma natural con una visita al propio Genting Highlands, a solo un corto trayecto en coche colina arriba, con sus parques temáticos, casinos y viajes en teleférico. Muchos visitantes combinan ambos destinos en un solo día: primero el templo, mientras el ambiente está más fresco y tranquilo, y después Genting, para pasar allí la tarde y la noche.
+El Templo de las Cuevas Chin Swee combina de forma natural con una visita a Genting Highlands, a poca distancia en coche cuesta arriba, con sus parques temáticos, casinos y teleférico. Muchos visitantes combinan ambos lugares en un mismo día: primero el templo, cuando el ambiente está más fresco y tranquilo, y después Genting para pasar la tarde y la noche.

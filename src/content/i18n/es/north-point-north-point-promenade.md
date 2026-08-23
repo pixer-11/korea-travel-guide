@@ -1,65 +1,65 @@
 ---
 lang: es
 slug: north-point-north-point-promenade
-srcHash: '9dd82866788b'
-title: 'North Point Promenade: Guía de viaje'
-description: North Point Promenade es una estrecha franja de parque frente al mar a lo largo del puerto de Victoria (Victoria Harbour) en North Point, abierta las 24 horas y mejor disfrutada temprano por la mañana o después del anochecer, cuando el aire del puerto de contenedores se refresca y el horizonte se ilumina.
-quickAnswer: North Point Promenade es una estrecha franja de parque frente al mar a lo largo del puerto de Victoria (Victoria Harbour) en North Point, abierta las 24 horas y mejor disfrutada temprano por la mañana o después del anochecer, cuando el aire del puerto de contenedores se refresca y el horizonte se ilumina. Pasa bastante desapercibido en comparación con el paseo marítimo de Central, sin las multitudes de aquel lugar, aunque los fines de semana de 8:00 a 22:00 atraen a la mayoría de los caminantes, corredores y pescadores locales. Calcula entre 30 y 45 minutos, más si te detienes a contemplar la vista hacia Kowloon.
+srcHash: '36c72d3daed4'
+title: 'Paseo Marítimo de North Point: Guía de Viaje'
+description: El Paseo Marítimo de North Point es una estrecha franja de parque frente al puerto Victoria, en North Point, abierta las 24 horas y perfecta para disfrutar a primera hora de la mañana o al caer la noche, cuando el aire del puerto de contenedores se refresca y el perfil de la ciudad se ilumina.
+quickAnswer: El Paseo Marítimo de North Point es una estrecha franja de parque frente al puerto Victoria, en North Point, abierta las 24 horas y perfecta para disfrutar a primera hora de la mañana o al caer la noche, cuando el aire del puerto de contenedores se refresca y el perfil de la ciudad se ilumina. Es un lugar poco conocido si se compara con el paseo marítimo de Central, y aquí no hay aglomeraciones, aunque los fines de semana de 8:00 a 22:00 atraen al mayor número de vecinos que caminan, corren o pescan. Calcule entre 30 y 45 minutos, más si se detiene a contemplar la vista hacia Kowloon.
 faq:
-  - q: ¿Cómo llego a North Point Promenade en MTR?
-    a: Toma la estación de North Point (North Point Station) en la Línea de la Isla (Island Line) o la Línea Tseung Kwan O, y luego camina hacia el muelle del ferry o Wan Fu Street; son unos cinco a diez minutos hasta el agua.
-  - q: ¿Hay tarifa de entrada?
-    a: No. Es un paseo marítimo público y gratuito, con acceso abierto las 24 horas del día, todos los días.
-  - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Las mañanas de días de semana o las noches de días de semana son las más tranquilas. Los fines de semana de 8:00 a 22:00 son el momento de mayor afluencia, así que evita ese horario si quieres tener espacio para ti solo.
-  - q: ¿Cuánto tiempo debería planear pasar allí?
-    a: La mayoría de los visitantes pasan entre 30 y 45 minutos caminando y disfrutando de la vista, más tiempo si continúan hacia Quarry Bay o se detienen a observar el tráfico del puerto.
-  - q: ¿Vale la pena combinarlo con otros atractivos de North Point?
-    a: 'Sí: combínalo con el mercado húmedo (wet market) de North Point, los cha chaan tengs locales, o un recorrido en tranvía por King''s Road para tener una idea más completa del barrio.'
+  - q: ¿Cómo llego al Paseo Marítimo de North Point en MTR?
+    a: Baje en la estación de North Point (North Point Station), en la línea Island o en la línea Tseung Kwan O, y camine hacia el embarcadero de ferris o hacia Wan Fu Street. Al agua se llega en unos cinco a diez minutos.
+  - q: ¿Hay que pagar entrada?
+    a: No. Es un paseo público y gratuito junto al mar, de acceso libre las 24 horas del día, todos los días.
+  - q: ¿Cuál es el mejor momento para evitar las multitudes?
+    a: Las mañanas entre semana o las noches de días laborables son las más tranquilas. El tramo de mayor afluencia es el fin de semana de 8:00 a 22:00, así que conviene evitarlo si se busca disfrutar del lugar con más calma.
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
+    a: La mayoría de los visitantes dedica entre 30 y 45 minutos a caminar y contemplar las vistas, aunque puede alargarse si se continúa hacia Quarry Bay o si uno se detiene a observar el tráfico del puerto.
+  - q: ¿Vale la pena combinarlo con otros lugares de North Point?
+    a: 'Sí: puede combinarse con el mercado tradicional de North Point, los cha chaan tengs de la zona o un recorrido en tranvía por King''s Road para conocer mejor el barrio.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de información en vivo de Google Places; las imágenes tienen licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 
-North Point Promenade no es un hito alrededor del cual planificar todo un viaje. Es un paseo marítimo en activo que los locales realmente utilizan, y ese es precisamente su atractivo.
+El Paseo Marítimo de North Point no es un monumento en torno al cual planear todo un viaje. Es un frente marítimo en pleno funcionamiento que los vecinos realmente utilizan, y ahí precisamente reside su atractivo.
 
-Aquí tienes vistas despejadas a través del puerto de Victoria (Victoria Harbour) hacia Kowloon, grúas de contenedores trabajando a media distancia, y nada de la avalancha de palos de selfie de Tsim Sha Tsui. El aire huele a sal y a diésel, no a perfume. Los ferris y los buques de carga trazan estelas sobre un agua que se torna cobriza al atardecer.
+Desde aquí se contemplan vistas despejadas del puerto Victoria hacia Kowloon, con grúas portuarias trabajando a media distancia, sin el gentío de selfies que caracteriza a Tsim Sha Tsui. El aire huele a sal y a diésel, no a perfume. Ferris y buques de carga trazan estelas sobre un agua que se tiñe de cobre al atardecer.
 
 ## Cómo llegar
 
-El paseo marítimo recorre el frente costero de North Point, a poca distancia a pie de la estación de MTR de North Point (Island Line y Tseung Kwan O Line). Toma una salida hacia Wan Fu Street o el muelle del ferry y dirígete hacia el norte, hacia el agua: llegarás a la baranda en cinco a diez minutos.
+El paseo discurre a lo largo del frente marítimo de North Point, a poca distancia a pie de la estación de MTR de North Point (líneas Island y Tseung Kwan O). Tome la salida hacia Wan Fu Street o hacia el embarcadero de ferris y diríjase hacia el norte, en dirección al mar: en cinco o diez minutos llegará a la barandilla.
 
-Si vienes desde Central o Wan Chai, el tranvía (el "ding ding") te deja a poca distancia caminando tierra adentro, y es una manera pintoresca y económica de llegar. El muelle del ferry de North Point (North Point Ferry Pier) también está justo al lado del paseo marítimo, así que si estás recorriendo las islas desde Kowloon, puedes bajar del barco directamente al paseo.
+Si viene desde Central o Wan Chai, el tranvía (conocido como "ding ding") le dejará a poca distancia tierra adentro, y resulta una forma económica y llena de encanto de llegar. El embarcadero de ferris de North Point también se encuentra justo al lado del paseo, así que si viene de Kowloon saltando de isla en isla, puede bajar del barco directamente al paseo.
 
 ## Qué ver y hacer
 
-Esto no es un parque cuidado con topiarios y fuentes: es un tramo de puerto en pleno funcionamiento, y esa es precisamente la gracia.
+Esto no es un parque cuidado con setos ornamentales y fuentes: es un tramo de puerto en activo, y en eso radica precisamente su gracia.
 
-- Observa de cerca los barcos contenedores y los remolcadores trabajando en el puerto
-- Fotografía el horizonte de Kowloon sin multitudes en el encuadre
-- Descubre a pescadores locales lanzando sus líneas desde la baranda, especialmente temprano por la mañana
-- Sigue el paseo hacia Quarry Bay para un recorrido costero más largo
-- Siéntate en uno de los bancos y observa un rato el tráfico marítimo
+- Observar de cerca el trabajo de buques portacontenedores y remolcadores en el puerto
+- Fotografiar el perfil de Kowloon sin que nadie se cruce en el encuadre
+- Descubrir a pescadores locales lanzando el sedal desde la barandilla, sobre todo por la mañana temprano
+- Continuar por el paseo hacia Quarry Bay para disfrutar de un paseo marítimo más largo
+- Sentarse en uno de los bancos y simplemente contemplar durante un rato el tráfico marítimo
 
-Hay pocos puestos de comida o tiendas directamente sobre el paseo marítimo, así que combina bien con una parada en las calles más antiguas de North Point: el mercado húmedo (wet market) y los cha chaan tengs, a pocos minutos tierra adentro, merecen el desvío antes o después.
+En el propio paseo apenas hay puestos de comida o tiendas, por lo que combina bien con una parada en las calles más antiguas de North Point: el mercado tradicional y los cha chaan tengs, a pocos minutos tierra adentro, merecen el desvío antes o después de la visita.
 
 ## Cuándo ir
 
-El paseo marítimo está abierto las 24 horas, todos los días, así que no hay horario de puertas que respetar. Esa flexibilidad es parte de lo que hace que valga la pena visitarlo.
+El paseo permanece abierto las 24 horas, todos los días, así que no hay horario de puertas que respetar. Esa flexibilidad forma parte de su atractivo.
 
-Los fines de semana entre las 8:00 y las 22:00 son el tramo de mayor afluencia, con familias, corredores y fotógrafos todos a la vez. Si quieres tener el agua casi para ti solo, procura ir un día de semana por la mañana o una noche de semana después de cenar, cuando la luz sobre el puerto es igual de buena y es más fácil encontrar sitio en los bancos.
+Los fines de semana suelen ser el momento de mayor afluencia, con familias, corredores y fotógrafos coincidiendo a la vez. Si prefiere tener el agua casi para usted solo, elija una mañana entre semana o una noche laborable después de cenar, cuando la luz sobre el puerto es igual de bonita y resulta más fácil encontrar sitio en los bancos.
 
-El atardecer es la hora clásica aquí: el cielo sobre Kowloon se tiñe de naranja y rosa, y el horizonte comienza a iluminarse a medida que cae la luz. La mañana temprano tiene su propio atractivo tranquilo, con corredores, practicantes de tai chi y una brisa más fresca proveniente del agua.
+El atardecer es la hora clásica en este lugar: el cielo sobre Kowloon se tiñe de naranja y rosa, y el perfil de la ciudad comienza a iluminarse a medida que cae la luz. La mañana temprano tiene su propio encanto tranquilo, con corredores, practicantes de tai chi y una brisa más fresca proveniente del mar.
 
 ## Cómo visitarlo como un local
 
-Trátalo como una ruta para caminar, no como un destino en el que quedarse durante horas. Los locales usan este paseo marítimo para un trote matutino, un paseo vespertino después de cenar, o un rincón tranquilo para pescar, no como una parada turística, así que ajusta tu ritmo en consecuencia.
+Conviene tratarlo como una ruta a pie, no como un destino en el que pasar horas. Los vecinos usan este paseo para correr por la mañana, dar una vuelta por la noche después de cenar o encontrar un rincón tranquilo donde pescar, no como parada turística, así que conviene ajustar el ritmo en consecuencia.
 
-- Usa calzado adecuado: el pavimento es irregular en algunos tramos y está más pensado para caminar que para pasear con sandalias
-- Lleva tu propia agua; hay pocos vendedores directamente sobre el paseo marítimo
-- Si quieres la foto sin gente, ve justo después del amanecer
-- Aquí nadie paga por la entrada ni por el estacionamiento: es un paseo marítimo público y gratuito, sin taquilla ni aplicación
-- Combínalo con un paseo en tranvía o una travesía en ferry para que el propio trayecto forme parte de la visita
+- Use calzado adecuado: el pavimento es irregular en algunos tramos y está pensado más para caminar que para pasear con sandalias
+- Lleve su propia agua, ya que hay pocos puestos de venta directamente en el paseo
+- Si quiere la foto sin gente, vaya justo después del amanecer
+- Aquí nadie paga entrada ni aparcamiento: es un frente marítimo público y gratuito, sin taquilla ni aplicación
+- Combínelo con un trayecto en tranvía o una travesía en ferri, de modo que el propio desplazamiento forme parte de la visita
 
-El error más común de los visitantes es tratar esto como el paseo marítimo pulido de Central y esperar cafés, instalaciones artísticas o multitudes que los guíen. Aquí no hay nada de eso: solo un tramo activo del frente marítimo de Hong Kong, cuyo atractivo radica en el telón de fondo industrial y en el hecho de que no se ha arreglado para los turistas. Ven por la vista y la tranquilidad, no por las comodidades, y te irás satisfecho en lugar de decepcionado.
+El error más frecuente entre los visitantes es esperar encontrar aquí el mismo paseo marítimo pulido de Central, con cafés, instalaciones artísticas o multitudes que marquen el camino. Nada de eso existe en este lugar: solo un tramo del frente marítimo de Hong Kong en pleno funcionamiento, cuyo atractivo reside precisamente en el trasfondo industrial y en el hecho de que no se ha adaptado para el turista. Venga por la vista y por la tranquilidad, no por los servicios, y se marchará satisfecho en lugar de decepcionado.

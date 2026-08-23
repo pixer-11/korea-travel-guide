@@ -1,6 +1,6 @@
 ---
 title: 'Third Street: Where to Eat in Abu Dhabi'
-description: Third Street is a food court in Mohamed Bin Zayed City (MBZ City), Zone Z4, well south of central Abu Dhabi's tourist corridor — worth the detour if you want
+description: "Third Street is a food court in Mohamed Bin Zayed City (MBZ City), Zone Z4, well south of central Abu Dhabi's tourist corridor — worth the detour if you want an honest, unfussy cross-section of the neighborhood's everyday food culture rather than a marina-view restaurant."
 country: United Arab Emirates
 region: Abu Dhabi
 category: restaurant

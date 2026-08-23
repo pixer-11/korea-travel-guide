@@ -14,11 +14,11 @@
   "at": "2026-08-17T08:38:02.387Z"
  },
  "ko/aberdeen-ocean-park": {
-  "hash": "983bd1fd9875",
+  "hash": "39b2f274d26e",
   "score": 1,
   "registerBreak": false,
-  "worst": "습하고 짭짤한 바닷내음이 아래쪽 항구에서부터 밀려옵니다.",
-  "at": "2026-08-17T08:37:24.577Z"
+  "worst": "아래쪽 항구에서 올라오는 짠내와 함께 공기는 한층 습하고 짙어집니다.",
+  "at": "2026-08-23T08:55:12.516Z"
  },
  "ko/abu-dhabi-christina-aguilera-live": {
   "hash": "b6343fdbe02e",
@@ -4221,11 +4221,11 @@
   "at": "2026-08-15T02:43:22.075Z"
  },
  "ja/aberdeen-ocean-park": {
-  "hash": "7bcd2d663fe8",
-  "score": 1,
+  "hash": "6c69345f5702",
+  "score": 0,
   "registerBreak": false,
-  "worst": "パーク内のレストランは正午から午後1時30分にかけて混み合います。",
-  "at": "2026-08-17T08:37:12.058Z"
+  "worst": "",
+  "at": "2026-08-23T08:55:05.240Z"
  },
  "ja/abu-dhabi-art-house-cafe": {
   "hash": "fda6d7f8847b",
@@ -10493,11 +10493,11 @@
   "at": "2026-08-15T03:13:37.089Z"
  },
  "es/aberdeen-ocean-park": {
-  "hash": "4542b267cf94",
+  "hash": "cbe44e93b584",
   "score": 1,
   "registerBreak": false,
-  "worst": "Ocean Park no son solo atracciones.",
-  "at": "2026-08-17T08:37:04.345Z"
+  "worst": "Ocean Park es un gran atractivo tanto para las familias de Hong Kong como para los visitantes",
+  "at": "2026-08-23T08:54:59.682Z"
  },
  "es/al-ain-al-fanar-restaurant-cafe": {
   "hash": "8e31a63ef994",
@@ -16555,11 +16555,11 @@
   "at": "2026-08-15T03:40:32.933Z"
  },
  "zh/aberdeen-ocean-park": {
-  "hash": "d4325f2fb7cc",
+  "hash": "dac23e996df1",
   "score": 1,
   "registerBreak": false,
-  "worst": "公园坐落在香港岛南区、香港仔上方的一处岬角上。",
-  "at": "2026-08-17T08:37:38.316Z"
+  "worst": "从海滨入口踏入园区的那一刻，气氛便截然不同：空气变得湿润、带着咸味，隐约夹杂着山下海港的气息。",
+  "at": "2026-08-23T08:55:20.143Z"
  },
  "zh/abu-dhabi-3fils-abu-dhabi": {
   "hash": "52b05f858863",
@@ -17094,7 +17094,7 @@
   "at": "2026-08-15T03:44:22.656Z"
  },
  "zh/barcelona-parada-torres": {
-  "hash": "5fa21936955f",
+  "hash": "1848b147ba8c",
   "score": 2,
   "registerBreak": false,
   "worst": "由于餐厅刚开业不久，建议当天直接打电话或查询官方渠道，确认营业时间、是否接受预订以及实际供应的菜品",
@@ -28098,11 +28098,11 @@
   "at": "2026-08-18T09:25:02.278Z"
  },
  "ko/antalya-antalya-toy-museum": {
-  "hash": "b1a8673d7498",
+  "hash": "05aa76debc0b",
   "score": 1,
   "registerBreak": false,
-  "worst": "방들이 작고 천장이 낮아서, 다른 박물관보다 혼잡도가 관람 경험에 훨씬 크게 영향을 미칩니다.",
-  "at": "2026-08-18T09:25:16.079Z"
+  "worst": "택시나 차량 호출 서비스를 이용하면 보행자 구역 초입에서 내려 항구 쪽으로 짧게 걸어 들어가야 합니다.",
+  "at": "2026-08-23T08:55:16.905Z"
  },
  "ko/bohol-national-museum-of-the-philippines-bohol": {
   "hash": "5cec7cc00a33",
@@ -28476,11 +28476,11 @@
   "at": "2026-08-21T08:32:32.364Z"
  },
  "es/alanya-mustafa-kemal-ataturk-monument": {
-  "hash": "2087f7dcda85",
+  "hash": "7fa6d2ae98a1",
   "score": 1,
   "registerBreak": false,
-  "worst": "En fiestas nacionales como el 2",
-  "at": "2026-08-21T08:32:34.408Z"
+  "worst": "El propio bulevar es llano, está pavimentado y ofrece sombra intermitente gracias a las palmeras",
+  "at": "2026-08-23T08:55:01.887Z"
  },
  "es/antalya-lower-duden-waterfalls": {
   "hash": "8d49ee8311ca",
@@ -28497,11 +28497,11 @@
   "at": "2026-08-21T08:32:39.533Z"
  },
  "ja/alanya-mustafa-kemal-ataturk-monument": {
-  "hash": "7f472ad874ee",
+  "hash": "fde78a9cdbd3",
   "score": 1,
   "registerBreak": false,
-  "worst": "写真愛好家に人気なのは早い時間帯の夕方で、港の明かりが灯り始め、城壁の向こうの空が金色に染まる頃です。",
-  "at": "2026-08-21T08:32:41.364Z"
+  "worst": "わずかな寄り道の価値があるのは、壮大さではなく、その立地の良さゆえです。",
+  "at": "2026-08-23T08:55:07.153Z"
  },
  "ja/antalya-lower-duden-waterfalls": {
   "hash": "fca6b7e4b664",
@@ -28518,11 +28518,11 @@
   "at": "2026-08-21T08:32:54.525Z"
  },
  "ko/alanya-mustafa-kemal-ataturk-monument": {
-  "hash": "5b886c289909",
+  "hash": "83abc89bce3f",
   "score": 1,
   "registerBreak": false,
-  "worst": "기념비는 알라니아의 해안 대로가 항구 쪽으로 굽어지는 지점에 서 있습니다.",
-  "at": "2026-08-21T08:32:56.691Z"
+  "worst": "방문객들이 가장 흔히 저지르는 실수는 이곳을 그냥 지나쳐 버리는 것입니다.",
+  "at": "2026-08-23T08:55:14.743Z"
  },
  "ko/antalya-lower-duden-waterfalls": {
   "hash": "8f7dc2edadc9",
@@ -28539,14 +28539,14 @@
   "at": "2026-08-21T08:33:05.891Z"
  },
  "zh/alanya-mustafa-kemal-ataturk-monument": {
-  "hash": "030d2c6dc5cb",
+  "hash": "ce48f9f95aa3",
   "score": 1,
   "registerBreak": false,
-  "worst": "相比土耳其里维埃拉盛夏时节这段路面正午时分的灼人热度，春秋两季的气候更适合步行游览。",
-  "at": "2026-08-21T08:33:16.196Z"
+  "worst": "没有人会专程为这座纪念碑安排一趟行程——往往是走去别处的路上经过，然后忍不住停下脚步。",
+  "at": "2026-08-23T08:55:22.318Z"
  },
  "zh/antalya-lower-duden-waterfalls": {
-  "hash": "94d478b9b492",
+  "hash": "2dd104b20c24",
   "score": 1,
   "registerBreak": false,
   "worst": "站在主观景台上，你几乎正对着瀑布上方，可以俯视水流冲出岩壁、在海面上溅起水雾，笼罩住下方停泊着供游客拍照的小船。",
@@ -28663,5 +28663,26 @@
   "registerBreak": false,
   "worst": "这种体验独一无二，找不到第二种交通工具能与之相比。",
   "at": "2026-08-22T09:28:40.462Z"
+ },
+ "es/alishan-alishan-forest-railway-garage-park": {
+  "hash": "764b86f38cec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Llevar calzado que no importe ensuciar de polvo, ya que gran parte del patio...",
+  "at": "2026-08-23T08:55:03.826Z"
+ },
+ "ja/alishan-alishan-forest-railway-garage-park": {
+  "hash": "90d318a5bb06",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-23T08:55:09.502Z"
+ },
+ "zh/alishan-alishan-forest-railway-garage-park": {
+  "hash": "a779c81eb6ce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在这个城市密集的区域里，它是一处令人放松的绿意角落。",
+  "at": "2026-08-23T08:55:27.996Z"
  }
 }
