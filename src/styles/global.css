@@ -222,9 +222,16 @@ h1, h2, h3, h4 {
      문구가 없었다). 위에 문구, 아래에 언어 5종. */
   .topbar .wrap { flex-direction: column; align-items: center; gap: 0; padding-top: 0.35rem; }
   .topbar-fact { font-size: 0.7rem; }
-  /* 폰에서는 손가락으로 누른다 — WCAG 권장 44px 를 확보한다 */
-  .topbar-langs { gap: 0.05rem; justify-content: center; }
-  .topbar-lang { min-height: 44px; padding: 0.5rem 0.55rem; font-size: 0.84rem; }
+  /* 폰에서는 손가락으로 누른다 — 터치 높이 40px 를 확보한다.
+     2026-08-23: 언어 5종이 세 줄로 접혀(中文 단독 줄) 띠+헤더가 첫 화면의
+     22%(117+65px)를 먹었고, 장소 글의 "빠른 답"이 첫 화면 밖으로 밀렸다
+     (UX 감사). 문구는 그대로 두고(픽서 지시 08-08) 언어만 한 줄로 — 줄바꿈
+     대신 가로 스크롤, 폭이 남으면 가운데 정렬과 같은 모양이다. */
+  .topbar-langs { gap: 0.1rem; justify-content: flex-start; flex-wrap: nowrap; max-width: 100%;
+                  overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .topbar-langs::-webkit-scrollbar { display: none; }
+  .topbar-readin { flex: none; }
+  .topbar-lang { min-height: 40px; padding: 0.35rem 0.42rem; font-size: 0.8rem; white-space: nowrap; flex: none; }
 }
 
 /* ============================================================
