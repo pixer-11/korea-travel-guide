@@ -21,6 +21,7 @@ import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { tileMosaic, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
 import { linkMentions } from '../lib/body-links.mjs';
+import ogMirror from '../../data/og-mirror.json';
 import { klookCityDest } from '../lib/klookCities';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
@@ -484,6 +485,15 @@ const saveThumb = wikimediaThumb(String(d.heroImage?.url ?? ''), 500)
 // scanner are untouched.
 const heroDisplay = wikimediaThumb(String(d.heroImage?.url ?? ''), 1280)
   .replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/');
+// Self-hosted first (2026-08-23): 1,192 heroes are already mirrored to R2 as
+// 1200px WebP for og:image (data/og-mirror.json, same photo, never cropped).
+// The hero <img> hotlinked Wikimedia/Foursquare instead — on an event guide
+// the frame was still empty two seconds after load, and readers behind
+// networks that stall upload.wikimedia.org (the owner's, for one) saw a grey
+// box. The mirrored copy is one origin, one hop, and already warm; the
+// Wikimedia rung stays as the fallback, and the stored URL behind that.
+const heroMirror = (ogMirror as Record<string, string | null>)[String(d.heroImage?.url ?? '').trim()] || '';
+const heroSrc = heroMirror || heroDisplay || d.heroImage?.url;
 
 const saveHours = (p?.openingHours ?? []).map((l: string) =>
   localizeOpeningLine(l, lang, { am: t('post.am'), pm: t('post.pm') })
@@ -587,8 +597,9 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
             site's heroes went blank on 2026-08-10 when an off-ladder width
             shipped), the reader still gets the photo instead of an empty frame. */}
         <img
-          src={heroDisplay || d.heroImage.url}
-          data-full={d.heroImage.url}
+          src={heroSrc}
+          data-full={heroMirror && heroDisplay ? heroDisplay : d.heroImage.url}
+          data-stored={d.heroImage.url}
           alt={photoAlt(photoSubject)}
           width="1200"
           height="675"
@@ -597,7 +608,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           decoding="async"
           style={d.heroImage.focus ? `object-position:${d.heroImage.focus.x}% ${d.heroImage.focus.y}%` : undefined}
           data-focus={d.heroImage.focus ? 'stored' : 'auto'}
-          onerror="if(this.dataset.full&&this.src!==this.dataset.full){this.src=this.dataset.full}"
+          onerror="if(this.dataset.full&&this.src!==this.dataset.full){this.src=this.dataset.full}else if(this.dataset.stored&&this.src!==this.dataset.stored){this.src=this.dataset.stored}"
         />
         {d.heroImage.credit && (
           <figcaption>

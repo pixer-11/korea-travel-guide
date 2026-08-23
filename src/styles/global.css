@@ -739,6 +739,10 @@ main { flex: 1; width: 100%; }
    screen and pushing the summary below the fold. .gallery img below always
    had it; this one did not. */
 .article-hero img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+/* A phone is held upright: 16:9 at 327px wide is a 184px letterbox that
+   showed a performer's shirt. 4:3 gives the photo a third more height and
+   the stored focal point still aims the crop (UX audit 2026-08-23). */
+@media (max-width: 520px) { .article-hero img { aspect-ratio: 4 / 3; } }
 /* A portrait photo in a landscape frame: the face is in the top third, and
    centre-on cropping throws it out (The Weeknd's chin, Post Malone's torso,
    Bruno Mars' headless card — 2026-08-15). Site-wide, not per component:
