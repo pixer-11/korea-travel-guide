@@ -1,21 +1,6 @@
 [
  {
-  "slug": "abu-dhabi-third-street",
-  "region": "Abu Dhabi",
-  "country": "United Arab Emirates"
- },
- {
-  "slug": "ajman-yemeni-corner-restaurant",
-  "region": "Ajman",
-  "country": "United Arab Emirates"
- },
- {
   "slug": "andong-local-restaurant",
-  "region": "Andong",
-  "country": "South Korea"
- },
- {
-  "slug": "andong-talbing-go",
   "region": "Andong",
   "country": "South Korea"
  },
@@ -40,11 +25,6 @@
   "country": "Thailand"
  },
  {
-  "slug": "bangkok-chinatown-night-market",
-  "region": "Bangkok",
-  "country": "Thailand"
- },
- {
   "slug": "beijing-mutianyu-great-wall-scenic-area-ticket-office",
   "region": "Beijing",
   "country": "China"
@@ -58,11 +38,6 @@
   "slug": "busan-jeonpo-cafe-street",
   "region": "Busan",
   "country": "South Korea"
- },
- {
-  "slug": "chinatown-the-xiang-restaurant",
-  "region": "Chinatown",
-  "country": "Singapore"
  },
  {
   "slug": "chuncheon-dakgalbi-street",
@@ -100,11 +75,6 @@
   "country": "United Arab Emirates"
  },
  {
-  "slug": "dubai-street-food-traffic-restaurant-llc",
-  "region": "Dubai",
-  "country": "United Arab Emirates"
- },
- {
   "slug": "fukuoka-gyukatsu-motomura-fukuoka-parco-branch",
   "region": "Fukuoka",
   "country": "Japan"
@@ -112,11 +82,6 @@
  {
   "slug": "gapyeong-nami-island-k-drama",
   "region": "Gapyeong",
-  "country": "South Korea"
- },
- {
-  "slug": "gyeongju-sugyeongsa-gyeongju-restaurant-gyeongju-vegan-hwangridan-gil-vegetarian",
-  "region": "Gyeongju",
   "country": "South Korea"
  },
  {
@@ -135,11 +100,6 @@
   "country": "Vietnam"
  },
  {
-  "slug": "hanoi-banh-mi-25",
-  "region": "Hanoi",
-  "country": "Vietnam"
- },
- {
   "slug": "hanoi-onvit",
   "region": "Hanoi",
   "country": "Vietnam"
@@ -150,22 +110,12 @@
   "country": "Vietnam"
  },
  {
-  "slug": "hiroshima-gyumon-hiroshima",
-  "region": "Hiroshima",
-  "country": "Japan"
- },
- {
   "slug": "hiroshima-nagataya",
   "region": "Hiroshima",
   "country": "Japan"
  },
  {
   "slug": "ho-chi-minh-city-tales-by-chapter",
-  "region": "Ho Chi Minh City",
-  "country": "Vietnam"
- },
- {
-  "slug": "ho-chi-minh-city-upstairs",
   "region": "Ho Chi Minh City",
   "country": "Vietnam"
  },
@@ -180,28 +130,8 @@
   "country": "China"
  },
  {
-  "slug": "incheon-forest-outings",
-  "region": "Incheon",
-  "country": "South Korea"
- },
- {
-  "slug": "incheon-haesong-ssambap",
-  "region": "Incheon",
-  "country": "South Korea"
- },
- {
   "slug": "incheon-local-restaurant",
   "region": "Incheon",
-  "country": "South Korea"
- },
- {
-  "slug": "jakarta-metropolitan-fine-dining",
-  "region": "Jakarta",
-  "country": "Indonesia"
- },
- {
-  "slug": "jeju-aewol-cafes",
-  "region": "Jeju",
   "country": "South Korea"
  },
  {
@@ -211,11 +141,6 @@
  },
  {
   "slug": "jeju-gozip-dol-wooluck-jeju-airport-branch",
-  "region": "Jeju",
-  "country": "South Korea"
- },
- {
-  "slug": "jeju-jeju-olle-course-1-1-udo-olle-trail",
   "region": "Jeju",
   "country": "South Korea"
  },
@@ -240,27 +165,12 @@
   "country": "Thailand"
  },
  {
-  "slug": "kuala-lumpur-muljil",
-  "region": "Kuala Lumpur",
-  "country": "Malaysia"
- },
- {
   "slug": "kuala-lumpur-sabato-s",
   "region": "Kuala Lumpur",
   "country": "Malaysia"
  },
  {
-  "slug": "labuan-bajo-mimamori-cafe-labuan-bajo",
-  "region": "Labuan Bajo",
-  "country": "Indonesia"
- },
- {
   "slug": "lombok-kenza-cafe-restaurant-kuta-lombok",
-  "region": "Lombok",
-  "country": "Indonesia"
- },
- {
-  "slug": "lombok-vandal-restaurant-elevated-global-street-food",
   "region": "Lombok",
   "country": "Indonesia"
  },
@@ -438,11 +348,6 @@
   "slug": "washington-dc-national-mall",
   "region": "Washington DC",
   "country": "United States"
- },
- {
-  "slug": "yeosu-bokchun-restaurant",
-  "region": "Yeosu",
-  "country": "South Korea"
  },
  {
   "slug": "yeosu-local-restaurant",
