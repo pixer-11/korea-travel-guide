@@ -7,6 +7,7 @@ import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { fmtEventRange } from '../lib/eventDates.mjs';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
@@ -45,6 +46,7 @@ const cardProps = (post: any) => ({
   category: post.data.category,
   image: post.data.heroImage?.url,
   eventEndDate: post.data.eventEndDate,
+  dateLabel: fmtEventRange(post.data.eventStartDate, post.data.eventEndDate, localeCodes[lang]),
 });
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';

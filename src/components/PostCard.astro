@@ -19,8 +19,12 @@ interface Props {
   eventEndDate?: Date | string | null;
   /** Set on the first card of a grid: it is usually the LCP element. */
   priority?: boolean;
+  /** Event cards: the short date range ("Aug 9 – Sep 5") worn as the badge
+      instead of the category label — the hubs used to show only month
+      headers (UX audit 2026-08-23). */
+  dateLabel?: string;
 }
-const { href, title, description, rating, region, category, image, eventEndDate, priority = false } = Astro.props;
+const { href, title, description, rating, region, category, image, eventEndDate, priority = false, dateLabel } = Astro.props;
 // Cards were rendering the remote hero at full size — 1920px Wikimedia originals
 // and w=1600 Unsplash, drawn at 325 CSS px. One city roundup shipped 3.49 MB of
 // images for seven thumbnails. Every published hero already has a 640px WebP
@@ -50,7 +54,7 @@ const ended = isEventPast({ category, eventEndDate });
       fetchpriority={priority ? 'high' : undefined}
       decoding="async"
     />
-    {ended ? <span class="badge badge-ended">{t('card.ended')}</span> : <span class="badge">{label}</span>}
+    {ended ? <span class="badge badge-ended">{t('card.ended')}</span> : dateLabel ? <span class="badge badge-date">{dateLabel}</span> : <span class="badge">{label}</span>}
   </div>
   <div class="card-body">
     <span class="region-label">{regionLabel}{rating ? ` · ★ ${rating.toFixed(1)}` : ''}</span>

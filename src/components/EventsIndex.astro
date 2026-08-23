@@ -9,6 +9,7 @@ import { SITE } from '../siteConfig';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import countriesData from '../../data/countries.json';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { fmtEventRange } from '../lib/eventDates.mjs';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 
@@ -63,6 +64,7 @@ const cardProps = (post: any) => ({
   category: post.data.category,
   image: post.data.heroImage?.url,
   eventEndDate: post.data.eventEndDate,
+  dateLabel: fmtEventRange(post.data.eventStartDate, post.data.eventEndDate, localeCodes[lang]),
 });
 
 const summary = t('ev.summaryGlobal').replace('{n}', String(upcoming.length)).replace('{c}', String(countries));
