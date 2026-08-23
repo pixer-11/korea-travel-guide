@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: barcelona-parada-torres
-srcHash: 'b0e5699578bf'
-title: '파라다 토레스: 바르셀로나 맛집 가이드'
-description: 스페인 바르셀로나의 새롭게 떠오르는 핫플레이스, 파라다 토레스(Parada Torres) — 어떤 곳인지, 위치는 어디인지, 방문 방법까지 안내합니다.
+srcHash: '645fad9f93a6'
+title: '파라다 토레스, 산타 카테리나 시장(Parada Torres, Mercat de Santa Caterina, 바르셀로나): 무엇을 먹고 언제 갈까'
+description: '바르셀로나 산타 카테리나 시장 안 파라다 토레스(Parada Torres): 이 매대에서 무엇을 주문할지, 한산한 시간대, 찾아가는 법, 주변에서 함께 먹을 만한 것까지 안내합니다.'
 quickAnswer: 파라다 토레스(Parada Torres)는 미쉐린 스타 셰프 형제 세르지오(Sergio)와 하비에르 토레스(Javier Torres, 코시나 에르마노스 토레스Cocina Hermanos Torres 운영진)가 새롭게 선보인 마켓 바로, 바르셀로나 시우타트 베야(Ciutat Vella) 지구의 산타 카테리나 시장(Mercat de Santa Caterina) 안에 자리하고 있습니다. 테이스팅 메뉴 같은 격식 있는 다이닝보다는 카운터 중심의 자유로운 분위기에서 즐기는 카탈루냐식 편안한 요리를 기대하세요. 긴 바 카운터와 작은 테라스가 있으며, 시장 좌판이 바로 보이는 뷰가 특징입니다. 워낙 최근에 문을 열었고 화제성이 높은 곳인 만큼 운영 리듬이 빠르게 바뀔 수 있으니, 방문 전에 현재 영업시간과 예약 가능 여부를 꼭 확인하세요.
 faq:
   - q: 파라다 토레스는 어떻게 가나요?

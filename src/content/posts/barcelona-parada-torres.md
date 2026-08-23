@@ -1,6 +1,6 @@
 ---
-title: 'Parada Torres: Where to Eat in Barcelona'
-description: 'Parada Torres in Barcelona, Spain — a new/trending spot: what it is, where it is, and how to visit.'
+title: 'Parada Torres, Mercat de Santa Caterina (Barcelona): What to Order & When to Go'
+description: 'Parada Torres inside Barcelona''s Mercat de Santa Caterina: what to order at this market stall, the quietest hours, how to find it, and what else to eat nearby.'
 country: Spain
 region: Barcelona
 category: restaurant

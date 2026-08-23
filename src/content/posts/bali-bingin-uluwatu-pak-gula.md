@@ -1,6 +1,6 @@
 ---
-title: Pak Gula in Bali
-description: Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from the team behind The Cashew Tree, known for shareable plates like char siu pork bao buns and a strong cocktail list.
+title: 'Pak Gula, Uluwatu (Bingin): Menu Highlights, Hours & How to Book'
+description: 'Pak Gula in Bingin, Uluwatu: what to order from the Asian-fusion menu (char siu pork bao, shareable plates), when it is quietest, how to reserve, and what to expect. Rated 4.9 on Google.'
 country: Indonesia
 region: Bali
 category: trendy
