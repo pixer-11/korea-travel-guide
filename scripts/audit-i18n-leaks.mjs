@@ -54,7 +54,19 @@ function holidayNameRule() {
   const table = JSON.parse(
     readFileSync(join(dirname(fileURLToPath(import.meta.url)), '../src/i18n/holidays.json'), 'utf8'),
   );
+  // A festival the table deliberately keeps under its own name in some
+  // language ("Holi", "Diwali", "Onam" — Spanish press uses them unglossed;
+  // 34 Indian entries plus Cambodia's Pchum Ben on 2026-08-23) is not a leak
+  // when that name shows on that page. Those names are left out of the
+  // pattern; a real leak of them in a language that DOES translate them is
+  // the trade-off, and the table is the place to fix that.
+  const keptAsIs = new Set(
+    Object.entries(table)
+      .filter(([k, v]) => ['ko', 'ja', 'es', 'zh'].some((l) => typeof v[l] === 'string' && v[l].trim() === k.split('|')[1].trim()))
+      .map(([k]) => k.split('|')[1]),
+  );
   const names = [...new Set(Object.keys(table).map((k) => k.split('|')[1]))]
+    .filter((n) => !keptAsIs.has(n))
     .sort((a, b) => b.length - a.length) // longest first: "Eid al-Adha First Day" before "Eid al-Adha"
     .map((n) => n.replace(/[.*+?^${}()|[\]\\]/g, String.raw`\$&`))
     // Astro escapes apostrophes, so the built page reads "New Year&#39;s Day".
