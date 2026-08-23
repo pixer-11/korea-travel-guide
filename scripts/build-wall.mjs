@@ -83,12 +83,17 @@ async function main() {
   // 'v2:' — the exact-window crop (2026-08-22) replaced the compass buckets;
   // every focused thumb is re-cut once, unfocused ones keep their key ('').
   const focusKey = (f) => (f ? `v2:${f.x},${f.y}` : '');
+  // The homepage wall reads these paths straight from data/wall.json; the
+  // same cache-busting query src/lib/wall.ts adds for cards (the file is
+  // served immutable for a year, so a re-cut under the same name must be a
+  // new URL) — see wall.ts for the 2026-08-23 case.
+  const withCut = (p, f) => p + (focusKey(f) ? `?c=${focusKey(f).replace(/[^a-z0-9]+/gi, '-')}` : '');
   for (const { url, focus } of urls) {
     const name = `${hash(url)}.webp`;
     const outPath = join(OUT_DIR, name);
     const publicPath = `/wall/${name}`;
     const stale = existsSync(outPath) && (cutWith[name] ?? '') !== focusKey(focus);
-    if (existsSync(outPath) && !stale) { manifest.push(publicPath); cached++; continue; }
+    if (existsSync(outPath) && !stale) { manifest.push(withCut(publicPath, focus)); cached++; continue; }
     try {
       let buf;
       if (url.startsWith('/')) {
@@ -140,7 +145,7 @@ async function main() {
         .webp({ quality: 72 })
         .toFile(outPath);
       cutWith[name] = focusKey(focus);
-      manifest.push(publicPath);
+      manifest.push(withCut(publicPath, focus));
       made++;
       console.log(`  ✓ ${name}`);
       if (!url.startsWith('/')) await sleep(350); // be polite to remote hosts only
