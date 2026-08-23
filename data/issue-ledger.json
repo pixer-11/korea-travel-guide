@@ -1,5 +1,17 @@
 {
-  "validate-content": {},
-  "audit-translations": {},
+  "validate-content": {
+    "ENDED-EVENT-FUTURE-TENSE bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open.md": {
+      "since": "2026-08-23",
+      "last": "2026-08-23",
+      "seen": 1
+    }
+  },
+  "audit-translations": {
+    "MISSING-quickAnswer posts/ko/hanoi-banh-mi-25.md": {
+      "since": "2026-08-23",
+      "last": "2026-08-23",
+      "seen": 1
+    }
+  },
   "audit-hours-claims": {}
 }
