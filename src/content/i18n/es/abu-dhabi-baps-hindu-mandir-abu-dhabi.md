@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-baps-hindu-mandir-abu-dhabi
-srcHash: '403b0b4bd1d0'
+srcHash: '7ec1fe873bbc'
 title: 'BAPS Hindu Mandir: Guía de viaje de Abu Dabi (4.5★)'
-description: 'El BAPS Hindu Mandir se encuentra junto a Al Taf Road, en Abu Mreikhah, en las afueras de la capital sobre la autopista que une Dubái con Abu Dabi. 4.5★ (7.821 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El BAPS Hindu Mandir se encuentra junto a Al Taf Road, en Abu Mreikhah, en las afueras de la capital sobre la autopista que une Dubái con Abu Dabi. 4.5★ (7.831 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El BAPS Hindu Mandir se encuentra junto a Al Taf Road, en Abu Mreikhah, en las afueras de la capital sobre la autopista que une Dubái con Abu Dabi. Abre todos los días excepto los lunes, de 9:00 a 20:00, y es realmente una de las atracciones más visitadas del emirato, por lo que los fines de semana suelen estar concurridos durante toda la jornada. Conviene reservar entre 1,5 y 2 horas para la visita, vestir de forma modesta y contar con un control de seguridad antes de llegar al templo tallado en piedra arenisca.
 faq:
   - q: ¿Cómo llego al BAPS Hindu Mandir sin coche?

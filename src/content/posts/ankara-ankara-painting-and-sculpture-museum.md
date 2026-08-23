@@ -1,41 +1,48 @@
 ---
-title: "Ankara Painting and Sculpture Museum: Travel Guide (4.7★)"
-description: "The Ankara Painting and Sculpture Museum, tucked into the Hacettepe district near Ulus, is Turkey's oldest state collection of modern art, open daily except Monday from 9am to 5:30pm. 4.7★ (3,766 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Ankara"
-category: "attraction"
-pubDate: "2026-08-23T08:05:22.639Z"
+title: 'Ankara Painting and Sculpture Museum: Travel Guide (4.7★)'
+description: >-
+  The Ankara Painting and Sculpture Museum, tucked into the Hacettepe district
+  near Ulus, is Turkey's oldest state collection of modern art, open daily
+  except Monday from 9am to 5:30pm. 4.7★ (3,768 reviews) — what visitors say,
+  hours, and tips.
+country: Turkey
+region: Ankara
+category: attraction
+pubDate: '2026-08-23T08:05:22.639Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg/3840px-Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg"
-  credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg/3840px-Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ9dHE-lhO0xQRNbnFwVTp-jo"
-  name: "Ankara Painting and Sculpture Museum"
-  address: "Hacettepe, Türkocağı Sk., 06230 Altındağ/Ankara, Türkiye"
+  id: ChIJ9dHE-lhO0xQRNbnFwVTp-jo
+  name: Ankara Painting and Sculpture Museum
+  address: 'Hacettepe, Türkocağı Sk., 06230 Altındağ/Ankara, Türkiye'
   rating: 4.7
-  userRatingsTotal: 3766
-  googleMapsUrl: "https://maps.google.com/?cid=4249965748614969653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3768
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4249965748614969653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.933272099999996
   lng: 32.855700399999996
-  phone: "+90 312 310 20 95"
+  phone: +90 312 310 20 95
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-23
+    updated: 2026-08-23T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -46,24 +53,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6f6a2d70545677466e624e525178304f686c2d454864394a496843"
+    venueId: ven_6f6a2d70545677466e624e525178304f686c2d454864394a496843
 tags:
-  - "ankara"
-  - "art gallery"
-quickAnswer: "The Ankara Painting and Sculpture Museum, tucked into the Hacettepe district near Ulus, is Turkey's oldest state collection of modern art, open daily except Monday from 9am to 5:30pm. Give it 60-90 minutes to move through the galleries of late-Ottoman and early-Republican painting and sculpture. Weekends fill up between 11am and 5pm, so aim for a weekday morning if you want the rooms to yourself."
+  - ankara
+  - art gallery
+quickAnswer: >-
+  The Ankara Painting and Sculpture Museum, tucked into the Hacettepe district
+  near Ulus, is Turkey's oldest state collection of modern art, open daily
+  except Monday from 9am to 5:30pm. Give it 60-90 minutes to move through the
+  galleries of late-Ottoman and early-Republican painting and sculpture.
+  Weekends fill up between 11am and 5pm, so aim for a weekday morning if you
+  want the rooms to yourself.
 faq:
-  - q: "What are the opening hours for the Ankara Painting and Sculpture Museum?"
-    a: "It's open Tuesday through Sunday from 9:00 AM to 5:30 PM, and closed all day Monday."
-  - q: "How long should I spend at the museum?"
-    a: "Most visitors need 60 to 90 minutes for the permanent galleries; add extra time if a temporary exhibition is on."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after opening tend to be calm. Weekends get busy between 11am and 5pm, so avoid that window if you want fewer crowds."
-  - q: "How do I get to the museum without a car?"
-    a: "Take the Ankaray or metro to Ulus station, then walk about 10-15 minutes uphill into the Hacettepe district, or take a short taxi ride."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "The Ankara Citadel, the Column of Julian, and old Ulus's historic streets are all within easy walking distance."
+  - q: What are the opening hours for the Ankara Painting and Sculpture Museum?
+    a: >-
+      It's open Tuesday through Sunday from 9:00 AM to 5:30 PM, and closed all
+      day Monday.
+  - q: How long should I spend at the museum?
+    a: >-
+      Most visitors need 60 to 90 minutes for the permanent galleries; add extra
+      time if a temporary exhibition is on.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after opening tend to be calm. Weekends get busy
+      between 11am and 5pm, so avoid that window if you want fewer crowds.
+  - q: How do I get to the museum without a car?
+    a: >-
+      Take the Ankaray or metro to Ulus station, then walk about 10-15 minutes
+      uphill into the Hacettepe district, or take a short taxi ride.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      The Ankara Citadel, the Column of Julian, and old Ulus's historic streets
+      are all within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

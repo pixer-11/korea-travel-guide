@@ -1,40 +1,47 @@
 ---
-title: "Museum of Anatolian Civilizations: Ankara Travel Guide"
-description: "The Museum of Anatolian Civilizations, set in a restored 15th-century Ottoman bazaar in Ankara's Ulus/Kale district, holds one of the world's great collections of Hittite, Phrygian and Neolithic artifacts. 4.8★ (17,562 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Ankara"
-category: "attraction"
-pubDate: "2026-08-19T09:19:29.641Z"
+title: 'Museum of Anatolian Civilizations: Ankara Travel Guide'
+description: >-
+  The Museum of Anatolian Civilizations, set in a restored 15th-century Ottoman
+  bazaar in Ankara's Ulus/Kale district, holds one of the world's great
+  collections of Hittite, Phrygian and Neolithic artifacts. 4.8★ (17,595
+  reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Ankara
+category: attraction
+pubDate: '2026-08-19T09:19:29.641Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_of_Anatolian_Civilizations_2024.jpg/3840px-Museum_of_Anatolian_Civilizations_2024.jpg"
-  credit: "Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations_2024.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_of_Anatolian_Civilizations_2024.jpg/3840px-Museum_of_Anatolian_Civilizations_2024.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations_2024.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ9ws3eGdO0xQRRmf05EeskZs"
-  name: "Museum of Anatolian Civilizations"
-  address: "Kale, Gözcü Sk. No:2, 06240 Ulus/Altındağ/Ankara, Türkiye"
+  id: ChIJ9ws3eGdO0xQRRmf05EeskZs
+  name: Museum of Anatolian Civilizations
+  address: 'Kale, Gözcü Sk. No:2, 06240 Ulus/Altındağ/Ankara, Türkiye'
   rating: 4.8
-  userRatingsTotal: 17562
-  googleMapsUrl: "https://maps.google.com/?cid=11209930372285753158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17595
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11209930372285753158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.9382042
   lng: 32.8618958
-  phone: "+90 312 324 31 60"
+  phone: +90 312 324 31 60
   openingHours:
-    - "Monday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
-    - "Tuesday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
-    - "Wednesday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
-    - "Thursday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
-    - "Friday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
-    - "Saturday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
-    - "Sunday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM"
+    - 'Monday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
+    - 'Tuesday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
+    - 'Wednesday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
+    - 'Thursday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
+    - 'Friday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
+    - 'Saturday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
+    - 'Sunday: 8:30 AM – 6:45 PM, 7:00 – 9:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 19
       - 20
@@ -51,24 +58,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_735a6b7365453530666d52525178304f644765337377394a496843"
+    venueId: ven_735a6b7365453530666d52525178304f644765337377394a496843
 tags:
-  - "ankara"
-  - "museum"
-quickAnswer: "The Museum of Anatolian Civilizations, set in a restored 15th-century Ottoman bazaar in Ankara's Ulus/Kale district, holds one of the world's great collections of Hittite, Phrygian and Neolithic artifacts. Give it two to three hours. It's open daily 8:30am–9pm (with a short break 6:45–7pm), and the calmest time to go is a weekday evening between 7 and 9pm — weekends stay busy from open to close, peaking noon to 6pm."
+  - ankara
+  - museum
+quickAnswer: >-
+  The Museum of Anatolian Civilizations, set in a restored 15th-century Ottoman
+  bazaar in Ankara's Ulus/Kale district, holds one of the world's great
+  collections of Hittite, Phrygian and Neolithic artifacts. Give it two to three
+  hours. It's open daily 8:30am–9pm (with a short break 6:45–7pm), and the
+  calmest time to go is a weekday evening between 7 and 9pm — weekends stay busy
+  from open to close, peaking noon to 6pm.
 faq:
-  - q: "How long should I spend at the Museum of Anatolian Civilizations?"
-    a: "Plan on two to three hours to see the collection properly, longer if you want to read the didactic labels in each room."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday evenings between 7pm and 9pm are the calmest measured window. Weekends stay busy essentially all day, with the worst crowds between noon and 6pm."
-  - q: "How do I get to the museum from central Ankara?"
-    a: "Take the metro to Ulus station and walk uphill about 10–15 minutes toward Ankara Castle, or take a taxi directly to Gözcü Sokak in the Kale district."
-  - q: "What are the opening hours?"
-    a: "The museum is open daily from 8:30am to 6:45pm and again from 7pm to 9pm, with a short break in between. Confirm hours on the official site before visiting, as museum schedules can shift for holidays."
-  - q: "What else is nearby worth combining with this visit?"
-    a: "Ankara Castle (Ankara Kalesi) is a two-minute walk from the entrance and pairs naturally with the museum, along with the old shops and cafes inside the citadel walls."
+  - q: How long should I spend at the Museum of Anatolian Civilizations?
+    a: >-
+      Plan on two to three hours to see the collection properly, longer if you
+      want to read the didactic labels in each room.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday evenings between 7pm and 9pm are the calmest measured window.
+      Weekends stay busy essentially all day, with the worst crowds between noon
+      and 6pm.
+  - q: How do I get to the museum from central Ankara?
+    a: >-
+      Take the metro to Ulus station and walk uphill about 10–15 minutes toward
+      Ankara Castle, or take a taxi directly to Gözcü Sokak in the Kale
+      district.
+  - q: What are the opening hours?
+    a: >-
+      The museum is open daily from 8:30am to 6:45pm and again from 7pm to 9pm,
+      with a short break in between. Confirm hours on the official site before
+      visiting, as museum schedules can shift for holidays.
+  - q: What else is nearby worth combining with this visit?
+    a: >-
+      Ankara Castle (Ankara Kalesi) is a two-minute walk from the entrance and
+      pairs naturally with the museum, along with the old shops and cafes inside
+      the citadel walls.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

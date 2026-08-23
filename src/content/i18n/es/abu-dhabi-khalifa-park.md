@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-khalifa-park
-srcHash: 'ec4ce95d3903'
+srcHash: '1577c9d64249'
 title: 'Khalifa Park: Guía de viaje de Abu Dabi (4.3★)'
-description: 'Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. 4.3★ (6.258 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. 4.3★ (6.261 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. Abre todos los días de 10:00 a 22:00 o 23:00 según el día, y es realmente popular, así que si buscas tranquilidad conviene ir en las horas finales de la tarde. Calcula entre dos y tres horas si quieres ver el museo y la biblioteca, o menos si solo vas a pasear o hacer un pícnic.
 faq:
   - q: ¿Cómo se llega a Khalifa Park?

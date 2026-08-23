@@ -1,59 +1,83 @@
 ---
-title: "Alanya Archaeological Museum: Travel Guide (4.6★)"
-description: "Alanya Archaeological Museum, near the harbor at İsmet Hilmi Balcı Caddesi, is a compact but rewarding stop for Roman-era statuary, mosaics and jewelry pulled from sites across the region. 4.6★ (2,194 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Alanya"
-category: "attraction"
-pubDate: "2026-08-19T09:25:26.926Z"
+title: 'Alanya Archaeological Museum: Travel Guide (4.6★)'
+description: >-
+  Alanya Archaeological Museum, near the harbor at İsmet Hilmi Balcı Caddesi, is
+  a compact but rewarding stop for Roman-era statuary, mosaics and jewelry
+  pulled from sites across the region. 4.6★ (2,197 reviews) — what visitors say,
+  hours, and tips.
+country: Turkey
+region: Alanya
+category: attraction
+pubDate: '2026-08-19T09:25:26.926Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/52/Muse_alanya.jpg"
-  credit: "Photo: Gmihail at Serbian Wikipedia / Wikimedia Commons (CC BY-SA 3.0 rs)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Muse_alanya.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/5/52/Muse_alanya.jpg'
+  credit: 'Photo: Gmihail at Serbian Wikipedia / Wikimedia Commons (CC BY-SA 3.0 rs)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Muse_alanya.jpg'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Turkey%2C_Alanya_Archaeological_Museum%2C_December_2023.jpg/3840px-Turkey%2C_Alanya_Archaeological_Museum%2C_December_2023.jpg"
-    credit: "Photo: Kawon Kez Sel / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Turkey,_Alanya_Archaeological_Museum,_December_2023.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Turkey%2C_Alanya_Archaeological_Museum%2C_December_2023.jpg/3840px-Turkey%2C_Alanya_Archaeological_Museum%2C_December_2023.jpg
+    credit: 'Photo: Kawon Kez Sel / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Turkey,_Alanya_Archaeological_Museum,_December_2023.jpg
 place:
-  id: "ChIJX42N7Zyi3BQRxg5SQR3tnRY"
-  name: "Alanya Archaeological Museum"
-  address: "Saray, İsmet Hilmi Balcı Cd. No:2, 07400, 07400 Alanya/Antalya, Türkiye"
+  id: ChIJX42N7Zyi3BQRxg5SQR3tnRY
+  name: Alanya Archaeological Museum
+  address: 'Saray, İsmet Hilmi Balcı Cd. No:2, 07400, 07400 Alanya/Antalya, Türkiye'
   rating: 4.6
-  userRatingsTotal: 2194
-  googleMapsUrl: "https://maps.google.com/?cid=1629719350083718854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2197
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1629719350083718854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.5439422
   lng: 31.988886699999995
-  phone: "+90 242 513 12 28"
+  phone: +90 242 513 12 28
   openingHours:
-    - "Monday: 8:30 AM – 10:00 PM"
-    - "Tuesday: 8:30 AM – 10:00 PM"
-    - "Wednesday: 8:30 AM – 10:00 PM"
-    - "Thursday: 8:30 AM – 10:00 PM"
-    - "Friday: 8:30 AM – 10:00 PM"
-    - "Saturday: 8:30 AM – 10:00 PM"
-    - "Sunday: 8:30 AM – 10:00 PM"
+    - 'Monday: 8:30 AM – 10:00 PM'
+    - 'Tuesday: 8:30 AM – 10:00 PM'
+    - 'Wednesday: 8:30 AM – 10:00 PM'
+    - 'Thursday: 8:30 AM – 10:00 PM'
+    - 'Friday: 8:30 AM – 10:00 PM'
+    - 'Saturday: 8:30 AM – 10:00 PM'
+    - 'Sunday: 8:30 AM – 10:00 PM'
 tags:
-  - "alanya"
-  - "museum"
-quickAnswer: "Alanya Archaeological Museum, near the harbor at İsmet Hilmi Balcı Caddesi, is a compact but rewarding stop for Roman-era statuary, mosaics and jewelry pulled from sites across the region. It's open daily 8:30am–10pm, so evenings after the beach crowds thin out are a good bet. Budget 45–60 minutes; pair it with a walk to the nearby harbor or up to Alanya Castle."
+  - alanya
+  - museum
+quickAnswer: >-
+  Alanya Archaeological Museum, near the harbor at İsmet Hilmi Balcı Caddesi, is
+  a compact but rewarding stop for Roman-era statuary, mosaics and jewelry
+  pulled from sites across the region. It's open daily 8:30am–10pm, so evenings
+  after the beach crowds thin out are a good bet. Budget 45–60 minutes; pair it
+  with a walk to the nearby harbor or up to Alanya Castle.
 faq:
-  - q: "How long should I spend at Alanya Archaeological Museum?"
-    a: "Most visitors need 45–60 minutes to see the collection properly; it's compact rather than sprawling."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 8:30am to 10pm, with no weekly closing day listed — unusually long hours for a museum, giving flexibility for evening visits."
-  - q: "How do I get there without a car?"
-    a: "It's a 10–15 minute walk from the harbor and Damlataş Beach area; from farther hotels, take a local dolmuş minibus or taxi along the coastal road."
-  - q: "When is the quietest time to visit?"
-    a: "Later afternoon or evening, after most guided tours have already moved through earlier in the day as part of castle-and-harbor itineraries."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "The Red Tower (Kızıl Kule), the old harbor, Alanya Castle's lower walls, and Damlataş Cave are all within easy walking distance."
+  - q: How long should I spend at Alanya Archaeological Museum?
+    a: >-
+      Most visitors need 45–60 minutes to see the collection properly; it's
+      compact rather than sprawling.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily from 8:30am to 10pm, with no weekly closing day listed —
+      unusually long hours for a museum, giving flexibility for evening visits.
+  - q: How do I get there without a car?
+    a: >-
+      It's a 10–15 minute walk from the harbor and Damlataş Beach area; from
+      farther hotels, take a local dolmuş minibus or taxi along the coastal
+      road.
+  - q: When is the quietest time to visit?
+    a: >-
+      Later afternoon or evening, after most guided tours have already moved
+      through earlier in the day as part of castle-and-harbor itineraries.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      The Red Tower (Kızıl Kule), the old harbor, Alanya Castle's lower walls,
+      and Damlataş Cave are all within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

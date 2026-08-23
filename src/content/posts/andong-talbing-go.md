@@ -1,28 +1,36 @@
 ---
 title: 'Talbing-Go: Where to Eat in Andong'
-description: "Talbing-Go is a casual restaurant attached to the Hahoe Mask Museum on the edge of Hahoe Folk Village in Andong, and it's the easiest place to eat well right after touring the masks and thatched houses."
+description: >-
+  Talbing-Go is a casual restaurant attached to the Hahoe Mask Museum on the
+  edge of Hahoe Folk Village in Andong, and it's the easiest place to eat well
+  right after touring the masks and thatched houses.
 country: South Korea
 region: Andong
 category: restaurant
 pubDate: '2026-07-24T22:26:36.973Z'
 heroImage:
-  url: https://images.unsplash.com/photo-1700639687072-dd8c8d13b3e8?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NXx8QW5kb25nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0OTMxOTUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
+  url: >-
+    https://images.unsplash.com/photo-1700639687072-dd8c8d13b3e8?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8NXx8QW5kb25nJTIwU291dGglMjBLb3JlYXxlbnwwfDB8fHwxNzg0OTMxOTUwfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
   credit: Photo by Nino Steffen on Unsplash
   license: unsplash
-  source: https://unsplash.com/@nino_steffen?utm_source=korea_travel_guide&utm_medium=referral
+  source: >-
+    https://unsplash.com/@nino_steffen?utm_source=korea_travel_guide&utm_medium=referral
 gallery: []
 place:
   id: ChIJcZphj1giZDURKMcSmiV516k
   name: Talbing-Go
-  address: South Korea, Gyeongsangbuk-do, Andong, Pungcheon-myeon, Hahoe-ri, 287번지, Hahoe Mask Museum, KR
+  address: >-
+    South Korea, Gyeongsangbuk-do, Andong, Pungcheon-myeon, Hahoe-ri, 287번지,
+    Hahoe Mask Museum, KR
   rating: 4.6
-  userRatingsTotal: 119
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=12238383714808284968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 120
+  priceLevel: 1
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12238383714808284968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.5488913
   lng: 128.5277915
-  phone: '+82 10-8582-2938'
+  phone: +82 10-8582-2938
   openingHours:
     - 'Monday: 9:30 AM – 6:00 PM'
     - 'Tuesday: 9:30 AM – 6:00 PM'
@@ -34,20 +42,45 @@ place:
 tags:
   - andong
   - street food
-quickAnswer: Talbing-Go is a casual restaurant attached to the Hahoe Mask Museum on the edge of Hahoe Folk Village in Andong, and it's the easiest place to eat well right after touring the masks and thatched houses. Go for Andong-style comfort food (think jjimdak-adjacent stews and noodle dishes typical of the area) at moderate prices, ideally right after the museum closes or before the village crowds arrive. Budget 45–60 minutes, and pair it with a walk through Hahoe Village itself.
+quickAnswer: >-
+  Talbing-Go is a casual restaurant attached to the Hahoe Mask Museum on the
+  edge of Hahoe Folk Village in Andong, and it's the easiest place to eat well
+  right after touring the masks and thatched houses. Go for Andong-style comfort
+  food (think jjimdak-adjacent stews and noodle dishes typical of the area) at
+  moderate prices, ideally right after the museum closes or before the village
+  crowds arrive. Budget 45–60 minutes, and pair it with a walk through Hahoe
+  Village itself.
 faq:
   - q: How do I get to Talbing-Go without a car?
-    a: Take a local bus from Andong Bus Terminal or Andong Station toward Hahoe Folk Village; the restaurant is right at the Hahoe Mask Museum near the village entrance. Confirm current bus schedules locally, as rural routes can change seasonally.
+    a: >-
+      Take a local bus from Andong Bus Terminal or Andong Station toward Hahoe
+      Folk Village; the restaurant is right at the Hahoe Mask Museum near the
+      village entrance. Confirm current bus schedules locally, as rural routes
+      can change seasonally.
   - q: How much does a meal cost?
-    a: Talbing-Go sits at a moderate price level typical of casual Korean restaurants in the area — expect a filling meal for a reasonable sum, though exact menu prices should be confirmed on-site since they can shift year to year.
+    a: >-
+      Talbing-Go sits at a moderate price level typical of casual Korean
+      restaurants in the area — expect a filling meal for a reasonable sum,
+      though exact menu prices should be confirmed on-site since they can shift
+      year to year.
   - q: What's the best time of day to visit?
-    a: Aim for an early (11:30 a.m.) or late (after 1:30 p.m.) lunch to avoid the midday crush of tour groups visiting Hahoe Village, especially on weekends and during spring and autumn foliage season.
+    a: >-
+      Aim for an early (11:30 a.m.) or late (after 1:30 p.m.) lunch to avoid the
+      midday crush of tour groups visiting Hahoe Village, especially on weekends
+      and during spring and autumn foliage season.
   - q: How long should I plan for the meal and museum together?
-    a: Budget about 45–60 minutes for a meal and another 30–45 minutes for the Hahoe Mask Museum next door; pair both with 2–3 hours walking the village itself.
+    a: >-
+      Budget about 45–60 minutes for a meal and another 30–45 minutes for the
+      Hahoe Mask Museum next door; pair both with 2–3 hours walking the village
+      itself.
   - q: What should I order?
-    a: Look for Andong jjimdak (braised soy chicken, usually ordered per table) or Andong-sik heotjesatbap (ancestral-style mixed rice), both signature dishes of the region.
+    a: >-
+      Look for Andong jjimdak (braised soy chicken, usually ordered per table)
+      or Andong-sik heotjesatbap (ancestral-style mixed rice), both signature
+      dishes of the region.
 aiGenerated: true
 draft: true
+updatedDate: '2026-08-23'
 ---
 
 ## Why Talbing-Go

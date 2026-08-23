@@ -1,44 +1,51 @@
 ---
-title: "BAPS Hindu Mandir: Abu Dhabi Travel Guide (4.5★)"
-description: "BAPS Hindu Mandir sits off Al Taf Road in Abu Mreikhah, on the Dubai–Abu Dhabi highway outskirts of the capital. 4.5★ (7,821 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Abu Dhabi"
-category: "attraction"
-pubDate: "2026-08-20T08:07:47.801Z"
+title: 'BAPS Hindu Mandir: Abu Dhabi Travel Guide (4.5★)'
+description: >-
+  BAPS Hindu Mandir sits off Al Taf Road in Abu Mreikhah, on the Dubai–Abu Dhabi
+  highway outskirts of the capital. 4.5★ (7,831 reviews) — what visitors say,
+  hours, and tips.
+country: United Arab Emirates
+region: Abu Dhabi
+category: attraction
+pubDate: '2026-08-20T08:07:47.801Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Carving_at_the_BAPS_Hindu_Mandir%2C_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg/3840px-Carving_at_the_BAPS_Hindu_Mandir%2C_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg"
-  credit: "Photo: Bhavyaahir / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Carving_at_the_BAPS_Hindu_Mandir,_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Carving_at_the_BAPS_Hindu_Mandir%2C_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg/3840px-Carving_at_the_BAPS_Hindu_Mandir%2C_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg
+  credit: 'Photo: Bhavyaahir / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Carving_at_the_BAPS_Hindu_Mandir,_Abu_Dhabi_of_Krishna_showing_his_Vishvarupa_to_Arjuna.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7b/BAPS_Abu_Dhabi_Mandir.jpg"
-    credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/7b/BAPS_Abu_Dhabi_Mandir.jpg
+    credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:BAPS_Abu_Dhabi_Mandir.jpg'
 place:
-  id: "ChIJ0VxvRjxTXj4Rm3GPgSFa7kU"
-  name: "BAPS Hindu Mandir, Abu Dhabi"
-  address: "P6 Al Taf Road - E16 - Abu Mreikhah - Abu Dhabi - United Arab Emirates"
+  id: ChIJ0VxvRjxTXj4Rm3GPgSFa7kU
+  name: 'BAPS Hindu Mandir, Abu Dhabi'
+  address: P6 Al Taf Road - E16 - Abu Mreikhah - Abu Dhabi - United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 7821
-  googleMapsUrl: "https://maps.google.com/?cid=5039064133028245915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7831
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5039064133028245915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.6159601
   lng: 54.7314959
-  phone: "+971 2 556 1982"
+  phone: +971 2 556 1982
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekendBusy:
       - 9
       - 10
@@ -51,24 +58,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_556b37614653675047336d52346a5854786a52767856304a496843"
+    venueId: ven_556b37614653675047336d52346a5854786a52767856304a496843
 tags:
-  - "abu dhabi"
-  - "historic site"
-quickAnswer: "BAPS Hindu Mandir sits off Al Taf Road in Abu Mreikhah, on the Dubai–Abu Dhabi highway outskirts of the capital. It's open every day except Monday, 9am–8pm, and it's genuinely one of the most-visited attractions in the emirate, so weekends run busiest all day. Plan for 1.5–2 hours, dress modestly, and expect security screening before you reach the carved sandstone temple itself."
+  - abu dhabi
+  - historic site
+quickAnswer: >-
+  BAPS Hindu Mandir sits off Al Taf Road in Abu Mreikhah, on the Dubai–Abu Dhabi
+  highway outskirts of the capital. It's open every day except Monday, 9am–8pm,
+  and it's genuinely one of the most-visited attractions in the emirate, so
+  weekends run busiest all day. Plan for 1.5–2 hours, dress modestly, and expect
+  security screening before you reach the carved sandstone temple itself.
 faq:
-  - q: "How do I get to BAPS Hindu Mandir without a car?"
-    a: "There's no direct metro or bus link, so a taxi or ride-hail app from Abu Dhabi or Dubai is the most reliable option. Some hotels and tour operators also run weekend shuttles."
-  - q: "Is there an entry fee?"
-    a: "No, entry is free, though most visitors book a free timed-entry slot online in advance to avoid longer waits at the gate."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 1.5 to 2 hours to see the main hall, shrines, and exhibition area comfortably, longer if you want to linger in the gardens."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings shortly after the 9am opening are calmer. Weekends stay busy across the entire 9am–8pm window, so there's no reliable quiet window then."
-  - q: "What should I wear and bring?"
-    a: "Dress modestly with shoulders and knees covered; shawls are usually available if needed. You'll remove your shoes before entering shrine areas, and large bags or cameras may be checked at security."
+  - q: How do I get to BAPS Hindu Mandir without a car?
+    a: >-
+      There's no direct metro or bus link, so a taxi or ride-hail app from Abu
+      Dhabi or Dubai is the most reliable option. Some hotels and tour operators
+      also run weekend shuttles.
+  - q: Is there an entry fee?
+    a: >-
+      No, entry is free, though most visitors book a free timed-entry slot
+      online in advance to avoid longer waits at the gate.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget 1.5 to 2 hours to see the main hall, shrines, and exhibition area
+      comfortably, longer if you want to linger in the gardens.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings shortly after the 9am opening are calmer. Weekends stay
+      busy across the entire 9am–8pm window, so there's no reliable quiet window
+      then.
+  - q: What should I wear and bring?
+    a: >-
+      Dress modestly with shoulders and knees covered; shawls are usually
+      available if needed. You'll remove your shoes before entering shrine
+      areas, and large bags or cameras may be checked at security.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

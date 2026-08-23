@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: alanya-alanya-archaeological-museum
-srcHash: '3401c08f6dc6'
+srcHash: 'e6d03a1cecf1'
 title: 'Museo Arqueológico de Alanya: guía de viaje (4,6★)'
-description: 'Cerca del puerto, en İsmet Hilmi Balcı Caddesi, el Museo Arqueológico de Alanya es una parada pequeña pero gratificante para ver estatuas romanas, mosaicos y joyas procedentes de yacimientos de toda la región. 4,6★ (2.194 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Cerca del puerto, en İsmet Hilmi Balcı Caddesi, el Museo Arqueológico de Alanya es una parada pequeña pero gratificante para ver estatuas romanas, mosaicos y joyas procedentes de yacimientos de toda la región. 4,6★ (2.197 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cerca del puerto, en İsmet Hilmi Balcı Caddesi, el Museo Arqueológico de Alanya es una parada pequeña pero gratificante para ver estatuas romanas, mosaicos y joyas procedentes de yacimientos de toda la región. Abre todos los días de 8:30 a 22:00, así que las tardes, cuando ya se ha dispersado el gentío de la playa, son un buen momento para ir. Calcule entre 45 y 60 minutos, y combínelo con un paseo hasta el puerto cercano o una subida al Castillo de Alanya.
 faq:
   - q: ¿Cuánto tiempo hay que dedicar al Museo Arqueológico de Alanya?

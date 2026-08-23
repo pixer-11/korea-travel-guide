@@ -1,59 +1,82 @@
 ---
-title: "Antalya Toy Museum: Travel Guide (4.6★)"
-description: "The Antalya Toy Museum sits inside a restored Ottoman-era stone house in the old town of Kaleiçi, just above the yacht harbor, and holds several thousand toys made between the 1860s and the 1990s. 4.6★ (1,582 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Antalya"
-category: "attraction"
-pubDate: "2026-08-18T09:07:47.444Z"
+title: 'Antalya Toy Museum: Travel Guide (4.6★)'
+description: >-
+  The Antalya Toy Museum sits inside a restored Ottoman-era stone house in the
+  old town of Kaleiçi, just above the yacht harbor, and holds several thousand
+  toys made between the 1860s and the 1990s. 4.6★ (1,585 reviews) — what
+  visitors say, hours, and tips.
+country: Turkey
+region: Antalya
+category: attraction
+pubDate: '2026-08-18T09:07:47.444Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Antalya_Toy_Museum_feb_2015_5611.jpg/3840px-Antalya_Toy_Museum_feb_2015_5611.jpg"
-  credit: "Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Antalya_Toy_Museum_feb_2015_5611.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Antalya_Toy_Museum_feb_2015_5611.jpg/3840px-Antalya_Toy_Museum_feb_2015_5611.jpg
+  credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Antalya_Toy_Museum_feb_2015_5611.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Antalya_Toy_Museum_5589.jpg/3840px-Antalya_Toy_Museum_5589.jpg"
-    credit: "Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Antalya_Toy_Museum_5589.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Antalya_Toy_Museum_5589.jpg/3840px-Antalya_Toy_Museum_5589.jpg
+    credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Antalya_Toy_Museum_5589.jpg'
 place:
-  id: "ChIJE_wl5gSQwxQRv0S-fiYMG6U"
-  name: "Antalya Toy Museum"
-  address: "Selçuk, Yat Limanı Sok No:112, 07000 Muratpaşa/Antalya, Türkiye"
+  id: ChIJE_wl5gSQwxQRv0S-fiYMG6U
+  name: Antalya Toy Museum
+  address: 'Selçuk, Yat Limanı Sok No:112, 07000 Muratpaşa/Antalya, Türkiye'
   rating: 4.6
-  userRatingsTotal: 1582
-  googleMapsUrl: "https://maps.google.com/?cid=11897116200103986367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1585
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11897116200103986367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.8855471
   lng: 30.701780900000003
-  phone: "+90 242 248 49 33"
+  phone: +90 242 248 49 33
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - "antalya"
-  - "museum"
-quickAnswer: "The Antalya Toy Museum sits inside a restored Ottoman-era stone house in the old town of Kaleiçi, just above the yacht harbor, and holds several thousand toys made between the 1860s and the 1990s. It's open Tuesday to Sunday, 9am–6pm, closed Mondays, and needs only 30–45 minutes to see properly. Go early on a weekday morning to have the creaky wooden rooms mostly to yourself."
+  - antalya
+  - museum
+quickAnswer: >-
+  The Antalya Toy Museum sits inside a restored Ottoman-era stone house in the
+  old town of Kaleiçi, just above the yacht harbor, and holds several thousand
+  toys made between the 1860s and the 1990s. It's open Tuesday to Sunday,
+  9am–6pm, closed Mondays, and needs only 30–45 minutes to see properly. Go
+  early on a weekday morning to have the creaky wooden rooms mostly to yourself.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 9:00 AM to 6:00 PM. It's closed all day Monday."
-  - q: "How much time should I plan for the visit?"
-    a: "About 30–45 minutes is enough for most visitors, even reading the labels carefully."
-  - q: "How do I get to the Antalya Toy Museum?"
-    a: "It's inside Kaleiçi (Antalya's old town) on Yat Limanı Sokak, just above the yacht harbor — reachable on foot from anywhere in the old town, or by taxi to the edge of the pedestrian zone."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings shortly after the 9am opening tend to be quietest, before tour groups and cruise-day visitors arrive."
-  - q: "Is it worth visiting with kids?"
-    a: "Yes — the wind-up toys, dollhouses and tin robots tend to appeal to children, though the small rooms and glass cases suit a calm, close-up look rather than running around."
+  - q: What are the opening hours?
+    a: 'Tuesday through Sunday, 9:00 AM to 6:00 PM. It''s closed all day Monday.'
+  - q: How much time should I plan for the visit?
+    a: >-
+      About 30–45 minutes is enough for most visitors, even reading the labels
+      carefully.
+  - q: How do I get to the Antalya Toy Museum?
+    a: >-
+      It's inside Kaleiçi (Antalya's old town) on Yat Limanı Sokak, just above
+      the yacht harbor — reachable on foot from anywhere in the old town, or by
+      taxi to the edge of the pedestrian zone.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings shortly after the 9am opening tend to be quietest, before
+      tour groups and cruise-day visitors arrive.
+  - q: Is it worth visiting with kids?
+    a: >-
+      Yes — the wind-up toys, dollhouses and tin robots tend to appeal to
+      children, though the small rooms and glass cases suit a calm, close-up
+      look rather than running around.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

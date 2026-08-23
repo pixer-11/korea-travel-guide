@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: abu-dhabi-khalifa-park
-srcHash: 'ec4ce95d3903'
+srcHash: '1577c9d64249'
 title: 哈利法公园：阿布扎比旅行指南（4.3★）
-description: 哈利法公园坐落于阿尔蒙塔扎（Al Muntazah）的谢赫扎耶德本苏丹街（Sheikh Zayed Bin Sultan Street），是一片开阔的绿地，以文化图书馆、海事博物馆、烧烤区以及绕园一周的小火车闻名。4.3★（6,258条评价）——本文汇总游客评价、开放时间与实用建议。
+description: 哈利法公园坐落于阿尔蒙塔扎（Al Muntazah）的谢赫扎耶德本苏丹街（Sheikh Zayed Bin Sultan Street），是一片开阔的绿地，以文化图书馆、海事博物馆、烧烤区以及绕园一周的小火车闻名。4.3★（6,261条评价）——本文汇总游客评价、开放时间与实用建议。
 quickAnswer: 哈利法公园坐落于阿尔蒙塔扎（Al Muntazah）的谢赫扎耶德本苏丹街（Sheikh Zayed Bin Sultan Street），是一片开阔的绿地，以文化图书馆、海事博物馆、烧烤区以及绕园一周的小火车闻名。公园每天开放，营业时间根据当天情况在上午10点到晚上10点或11点之间，人气确实很旺，如果想避开人群，建议傍晚较晚的时段前往。如果打算参观博物馆和图书馆，预留两到三个小时比较合适；若只是散步或野餐，时间可以更短。
 faq:
   - q: 怎样前往哈利法公园？

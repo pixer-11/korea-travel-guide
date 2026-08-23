@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ankara-museum-of-anatolian-civilizations
-srcHash: 'ace408390951'
+srcHash: 'ee007cc7a21c'
 title: 'Museo de las Civilizaciones de Anatolia: guía de viaje de Ankara'
-description: 'El Museo de las Civilizaciones de Anatolia, instalado en un bazar otomano del siglo XV restaurado en el barrio de Ulus/Kale de Ankara, reúne una de las mejores colecciones del mundo de piezas hititas, frigias y neolíticas. 4,8★ (17.562 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo de las Civilizaciones de Anatolia, instalado en un bazar otomano del siglo XV restaurado en el barrio de Ulus/Kale de Ankara, reúne una de las mejores colecciones del mundo de piezas hititas, frigias y neolíticas. 4,8★ (17.595 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de las Civilizaciones de Anatolia ocupa un bazar otomano del siglo XV restaurado en el barrio de Ulus/Kale de Ankara y reúne una de las mejores colecciones del mundo de piezas hititas, frigias y neolíticas. Conviene reservarle entre dos y tres horas. Abre a diario de 8:30 a 21:00 (con una breve pausa de 18:45 a 19:00), y el momento más tranquilo para visitarlo es un día de semana por la tarde, entre las 19:00 y las 21:00; los fines de semana se mantiene concurrido desde la apertura hasta el cierre, con el punto más álgido entre el mediodía y las 18:00.
 faq:
   - q: ¿Cuánto tiempo conviene dedicarle al Museo de las Civilizaciones de Anatolia?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ankara-ankara-painting-and-sculpture-museum
-srcHash: 'ded0d3071b18'
+srcHash: '6f7cd1c6fc8f'
 title: 'Museo de Pintura y Escultura de Ankara: Guía de viaje (4,7★)'
-description: 'Escondido en el barrio de Hacettepe, cerca de Ulus, el Museo de Pintura y Escultura de Ankara es la colección estatal de arte moderno más antigua de Turquía y abre todos los días excepto los lunes, de 9:00 a 17:30. 4,7★ (3.766 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Escondido en el barrio de Hacettepe, cerca de Ulus, el Museo de Pintura y Escultura de Ankara es la colección estatal de arte moderno más antigua de Turquía y abre todos los días excepto los lunes, de 9:00 a 17:30. 4,7★ (3.768 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Escondido en el barrio de Hacettepe, cerca de Ulus, el Museo de Pintura y Escultura de Ankara es la colección estatal de arte moderno más antigua de Turquía y abre todos los días excepto los lunes, de 9:00 a 17:30. Conviene reservar entre 60 y 90 minutos para recorrer las salas de pintura y escultura del tardío periodo otomano y los primeros años de la República. Los fines de semana, entre las 11:00 y las 17:00, el museo se llena, así que lo mejor es ir un día laborable por la mañana si se quiere disfrutar de las salas en tranquilidad.
 faq:
   - q: ¿Cuál es el horario del Museo de Pintura y Escultura de Ankara?

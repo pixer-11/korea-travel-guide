@@ -1,59 +1,86 @@
 ---
-title: "Perge Ancient City: Antalya Travel Guide (4.7★)"
-description: "Perge is a sprawling Greco-Roman city about 18km east of Antalya, open daily 8am–8pm, and easily worth two to three hours. 4.7★ (8,354 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Antalya"
-category: "attraction"
-pubDate: "2026-08-19T08:04:27.772Z"
+title: 'Perge Ancient City: Antalya Travel Guide (4.7★)'
+description: >-
+  Perge is a sprawling Greco-Roman city about 18km east of Antalya, open daily
+  8am–8pm, and easily worth two to three hours. 4.7★ (8,370 reviews) — what
+  visitors say, hours, and tips.
+country: Turkey
+region: Antalya
+category: attraction
+pubDate: '2026-08-19T08:04:27.772Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_ancient_city_%22Perge%22-2021_Antalya.jpg/3840px-The_ancient_city_%22Perge%22-2021_Antalya.jpg"
-  credit: "Photo: Emine Beyza Batyar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_ancient_city_%22Perge%22-2021_Antalya.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_ancient_city_%22Perge%22-2021_Antalya.jpg/3840px-The_ancient_city_%22Perge%22-2021_Antalya.jpg
+  credit: 'Photo: Emine Beyza Batyar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_ancient_city_%22Perge%22-2021_Antalya.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TR.AL.Perge_Hellenistic-City-Gate-seen-through-Roman-Gate_03_16x9-R_4096x2304.jpg/3840px-TR.AL.Perge_Hellenistic-City-Gate-seen-through-Roman-Gate_03_16x9-R_4096x2304.jpg"
-    credit: "Photo: Roy Egloff / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:TR.AL.Perge_Hellenistic-City-Gate-seen-through-Roman-Gate_03_16x9-R_4096x2304.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TR.AL.Perge_Hellenistic-City-Gate-seen-through-Roman-Gate_03_16x9-R_4096x2304.jpg/3840px-TR.AL.Perge_Hellenistic-City-Gate-seen-through-Roman-Gate_03_16x9-R_4096x2304.jpg
+    credit: 'Photo: Roy Egloff / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:TR.AL.Perge_Hellenistic-City-Gate-seen-through-Roman-Gate_03_16x9-R_4096x2304.jpg
 place:
-  id: "ChIJQwc3aqmBwxQRB7Tr2OhnhMY"
-  name: "Perge Ancient City"
-  address: "Barbaros, Perge Yolu, 07112 Aksu/Antalya, Türkiye"
+  id: ChIJQwc3aqmBwxQRB7Tr2OhnhMY
+  name: Perge Ancient City
+  address: 'Barbaros, Perge Yolu, 07112 Aksu/Antalya, Türkiye'
   rating: 4.7
-  userRatingsTotal: 8354
-  googleMapsUrl: "https://maps.google.com/?cid=14304672566204937223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8370
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14304672566204937223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.9576935
   lng: 30.852606
-  phone: "+90 242 238 56 88"
+  phone: +90 242 238 56 88
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
 tags:
-  - "antalya"
-  - "historic site"
-quickAnswer: "Perge is a sprawling Greco-Roman city about 18km east of Antalya, open daily 8am–8pm, and easily worth two to three hours. Go right at opening or after 5pm to dodge tour buses and the worst of the heat — the site has almost no shade. Wear real shoes: the colonnaded street's marble slabs are uneven and slick after rain."
+  - antalya
+  - historic site
+quickAnswer: >-
+  Perge is a sprawling Greco-Roman city about 18km east of Antalya, open daily
+  8am–8pm, and easily worth two to three hours. Go right at opening or after 5pm
+  to dodge tour buses and the worst of the heat — the site has almost no shade.
+  Wear real shoes: the colonnaded street's marble slabs are uneven and slick
+  after rain.
 faq:
-  - q: "How much time should I budget for Perge?"
-    a: "Plan on two to three hours to walk the colonnaded street, baths, agora, and stadium at an unrushed pace, more if you climb up toward the acropolis mound."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening (8am) or after 5pm, before the site closes at 8pm — mid-morning to early afternoon is when tour buses from Antalya hotels arrive."
-  - q: "How do I get to Perge without a car?"
-    a: "Take a public bus from Antalya toward Aksu, then a short taxi or walk to the entrance, or book a half-day tour that includes transport, since the site isn't served by a direct city tram or metro line."
-  - q: "Is there shade or anywhere to eat on site?"
-    a: "No — Perge is largely open ground with minimal shade and no cafés inside, so bring water, a hat, and sun protection, especially in summer."
-  - q: "Can I combine Perge with other sites in one day?"
-    a: "Yes, Aspendos and its Roman theater are about 40 minutes further east and commonly paired with Perge on Antalya day tours."
+  - q: How much time should I budget for Perge?
+    a: >-
+      Plan on two to three hours to walk the colonnaded street, baths, agora,
+      and stadium at an unrushed pace, more if you climb up toward the acropolis
+      mound.
+  - q: When is the quietest time to visit?
+    a: >-
+      Right at opening (8am) or after 5pm, before the site closes at 8pm —
+      mid-morning to early afternoon is when tour buses from Antalya hotels
+      arrive.
+  - q: How do I get to Perge without a car?
+    a: >-
+      Take a public bus from Antalya toward Aksu, then a short taxi or walk to
+      the entrance, or book a half-day tour that includes transport, since the
+      site isn't served by a direct city tram or metro line.
+  - q: Is there shade or anywhere to eat on site?
+    a: >-
+      No — Perge is largely open ground with minimal shade and no cafés inside,
+      so bring water, a hat, and sun protection, especially in summer.
+  - q: Can I combine Perge with other sites in one day?
+    a: >-
+      Yes, Aspendos and its Roman theater are about 40 minutes further east and
+      commonly paired with Perge on Antalya day tours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

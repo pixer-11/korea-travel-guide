@@ -1,58 +1,81 @@
 ---
-title: "Mustafa Kemal Atatürk Monument: Alanya Travel Guide (4.7★)"
-description: "The Atatürk Monument sits on Ahmet Tokuş Boulevard in Alanya's Güller Pınarı area, right along the seafront promenade, and it's open 24 hours with free access. 4.7★ (2,655 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Alanya"
-category: "attraction"
-pubDate: "2026-08-21T08:12:44.799Z"
+title: 'Mustafa Kemal Atatürk Monument: Alanya Travel Guide (4.7★)'
+description: >-
+  The Atatürk Monument sits on Ahmet Tokuş Boulevard in Alanya's Güller Pınarı
+  area, right along the seafront promenade, and it's open 24 hours with free
+  access. 4.7★ (2,654 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Alanya
+category: attraction
+pubDate: '2026-08-21T08:12:44.799Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/81/Alanya._Monument_to_Mustafa_Kemal_Atat%C3%BCrk.jpg"
-  credit: "Photo: Bestalex / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alanya._Monument_to_Mustafa_Kemal_Atat%C3%BCrk.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/81/Alanya._Monument_to_Mustafa_Kemal_Atat%C3%BCrk.jpg
+  credit: 'Photo: Bestalex / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alanya._Monument_to_Mustafa_Kemal_Atat%C3%BCrk.jpg
   focus:
     x: 49
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/58823133_iiCMKOh70hvC0LaETgWlKAa0Aav3tPashHBGbn0YNC4.jpg"
-    credit: "Photo: Foursquare user content (Atatürk Heykeli)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b88eb7df964a5207a1332e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/58823133_iiCMKOh70hvC0LaETgWlKAa0Aav3tPashHBGbn0YNC4.jpg
+    credit: 'Photo: Foursquare user content (Atatürk Heykeli)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b88eb7df964a5207a1332e3'
 place:
-  id: "ChIJNxje7nqY3BQRvTVUFx3fx-s"
-  name: "Mustafa Kemal Atatürk Monument"
-  address: "Güller Pınarı, Ahmet Tokuş Blv., 07460 Alanya/Antalya, Türkiye"
+  id: ChIJNxje7nqY3BQRvTVUFx3fx-s
+  name: Mustafa Kemal Atatürk Monument
+  address: 'Güller Pınarı, Ahmet Tokuş Blv., 07460 Alanya/Antalya, Türkiye'
   rating: 4.7
-  userRatingsTotal: 2655
-  googleMapsUrl: "https://maps.google.com/?cid=16989793435316925885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2654
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16989793435316925885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.543437
   lng: 32.002316
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "alanya"
-  - "historic site"
-quickAnswer: "The Atatürk Monument sits on Ahmet Tokuş Boulevard in Alanya's Güller Pınarı area, right along the seafront promenade, and it's open 24 hours with free access. Give it 10-15 minutes on a coastal stroll, ideally at sunset or after dark when it's lit up and the harbor lights come on behind it."
+  - alanya
+  - historic site
+quickAnswer: >-
+  The Atatürk Monument sits on Ahmet Tokuş Boulevard in Alanya's Güller Pınarı
+  area, right along the seafront promenade, and it's open 24 hours with free
+  access. Give it 10-15 minutes on a coastal stroll, ideally at sunset or after
+  dark when it's lit up and the harbor lights come on behind it.
 faq:
-  - q: "Is there an entrance fee for the Atatürk Monument in Alanya?"
-    a: "No, it's a public monument on the open seafront boulevard with no ticket or gate — free to visit anytime."
-  - q: "What are the opening hours?"
-    a: "It's accessible 24 hours a day, every day, since it's part of the outdoor streetscape rather than an enclosed site."
-  - q: "How do I get there from central Alanya?"
-    a: "It's on Ahmet Tokuş Boulevard in the Güller Pınarı area, an easy walk from the harbor and main beach strip, or a short taxi/dolmuş ride along the coastal road."
-  - q: "How much time should I plan for a visit?"
-    a: "Around 10-15 minutes is typical — most people fold it into a longer walk along the boulevard toward the harbor or castle."
-  - q: "What's nearby worth combining with this stop?"
-    a: "Alanya Castle and its cable car, the old town below the fortress walls, and the marina are all within easy walking or short-taxi distance."
+  - q: Is there an entrance fee for the Atatürk Monument in Alanya?
+    a: >-
+      No, it's a public monument on the open seafront boulevard with no ticket
+      or gate — free to visit anytime.
+  - q: What are the opening hours?
+    a: >-
+      It's accessible 24 hours a day, every day, since it's part of the outdoor
+      streetscape rather than an enclosed site.
+  - q: How do I get there from central Alanya?
+    a: >-
+      It's on Ahmet Tokuş Boulevard in the Güller Pınarı area, an easy walk from
+      the harbor and main beach strip, or a short taxi/dolmuş ride along the
+      coastal road.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Around 10-15 minutes is typical — most people fold it into a longer walk
+      along the boulevard toward the harbor or castle.
+  - q: What's nearby worth combining with this stop?
+    a: >-
+      Alanya Castle and its cable car, the old town below the fortress walls,
+      and the marina are all within easy walking or short-taxi distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-23'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

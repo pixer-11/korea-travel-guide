@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-louvre-abu-dhabi
-srcHash: 'f7156aa057f7'
+srcHash: '0fcd6d20e948'
 title: 'Louvre Abu Dhabi: guía de viaje (4,7★)'
-description: 'En la isla de Saadiyat, el Louvre Abu Dhabi merece media jornada completa: entre 2 y 3 horas para las galerías, más tiempo para recorrer la cúpula y el paseo marítimo. 4,7★ (39.561 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'En la isla de Saadiyat, el Louvre Abu Dhabi merece media jornada completa: entre 2 y 3 horas para las galerías, más tiempo para recorrer la cúpula y el paseo marítimo. 4,7★ (39.594 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Louvre Abu Dhabi, en la isla de Saadiyat, merece media jornada completa: entre 2 y 3 horas para las galerías, más tiempo para pasear bajo la cúpula y por el paseo marítimo. Cierra los lunes, y abre de 10:00 a 18:30 de martes a jueves, y hasta las 20:30 de viernes a domingo. Para disfrutar del momento más tranquilo, conviene llegar justo a las 10:00 un fin de semana, ya que la franja de 10:00 a 12:00 es la más despejada antes de que el museo se llene.'
 faq:
   - q: ¿Cuánto tiempo debería reservar para visitar el Louvre Abu Dhabi?
