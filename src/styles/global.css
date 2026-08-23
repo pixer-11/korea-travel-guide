@@ -1209,6 +1209,7 @@ html[lang^='zh'] .cover-inner h1 {
 
 .related { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1.5rem; }
 .related h2 { font-size: 1.25rem; margin-bottom: 0.9rem; }
+.nearby-km { font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
 /* 2026-08-23: four text lines under the newsletter → three PostCard tiles
    above it, plus a same-city previous/next pair. (The old .related a rules
    are gone on purpose: they would have restyled the cards' own anchors.) */

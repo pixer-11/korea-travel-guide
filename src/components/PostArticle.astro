@@ -20,6 +20,7 @@ import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { tileMosaic, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
+import { linkMentions } from '../lib/body-links.mjs';
 import { klookCityDest } from '../lib/klookCities';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
@@ -59,7 +60,9 @@ function splitProse(html: string): [string, string] | null {
 // also carries the mid-prose "read next" card (A3), so text-only posts get the
 // recirculation link too. All the old guards hold — unsplittable prose falls
 // back to <Content /> untouched.
-const proseParts = splitProse(renderedHtml);
+// `linkedHtml` (same HTML with in-body guide links) is computed further down,
+// after the collection lookups it needs; splitProse runs on it lazily.
+let proseParts: [string, string] | null = null;
 // In-page jump links (growth research A2, 2026-08-13): NN/g finds readers use
 // and prefer in-page links on long articles, and 68% of travel search arrives
 // on mobile where scanning is costliest. Built from the SAME rendered HTML the
@@ -280,9 +283,30 @@ const cityPosts = (await getCollection('posts', ({ data }) => !data.draft && dat
 const cityIdx = cityPosts.findIndex((r) => r.id === post.id);
 const prevInCity = cityIdx > 0 ? cityPosts[cityIdx - 1] : null;
 const nextInCity = cityIdx >= 0 && cityIdx < cityPosts.length - 1 ? cityPosts[cityIdx + 1] : null;
+// Nearest first when both sides have coordinates (2026-08-23): "More Genoa
+// guides" used to be the first six by file name; now it is the six closest,
+// each with its distance, so the line reads as a map rather than a list.
 const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
+  .map((r) => ({ r, km: distKm(d.place, r.data.place) }))
+  .sort((a, b) => a.km - b.km || a.r.id.localeCompare(b.r.id))
   .slice(0, 6);
+const kmLabel = (km: number) => (Number.isFinite(km) ? (km < 1 ? `${Math.max(1, Math.round(km * 10)) * 100} m` : `${km < 10 ? km.toFixed(1) : Math.round(km)} km`) : '');
+
+// In-body links to our own guides (lib/body-links.mjs): the first plain-text
+// mention of a same-country place we cover becomes a link, at most four per
+// article, never inside an existing link or heading. A place guide carried
+// ONE body link against an event guide's six (UX audit 2026-08-23). Names
+// are the localised title heads, so a Korean page links Korean mentions.
+const ownHead = postTitle(post).split(/[:—|]/)[0].trim().toLowerCase();
+const linkTargets = (await getCollection('posts', ({ data }) => !data.draft))
+  .filter((r) => r.id !== post.id && (r.data.country ?? 'South Korea') === thisCountry)
+  .map((r) => ({ name: postTitle(r).split(/[:—|]/)[0].trim(), href: postHref(r.id) }))
+  // Korean/Japanese/Chinese names are short ("경복궁" is three characters);
+  // the five-character floor is for Latin names, where "Bar" would link noise.
+  .filter((x) => x.name.length >= (/[぀-鿿가-힯]/.test(x.name) ? 2 : 5) && x.name.toLowerCase() !== ownHead);
+const linkedHtml = linkMentions(renderedHtml, linkTargets, { max: 4, minLen: 2 });
+proseParts = splitProse(linkedHtml);
 
 // Itinerary flywheel (spec §3): if this post is a stop in a published itinerary,
 // link back to it — "This spot is Day N of our City X-day itinerary". Computed
@@ -900,8 +924,8 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         {t('post.moreGuides').replace('{region}', regionLabel)}{' '}
         {/* Translated title FIRST: place.name is the raw English Google name, so
             preferring it printed "Gyeongbokgung Palace" on the Korean page. */}
-        {nearby.map((r, i) => (
-          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={postHref(r.id)}>{postTitle(r).split(/[:—]/)[0].trim() || r.data.place?.name}</a></>
+        {nearby.map(({ r, km }, i) => (
+          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={postHref(r.id)}>{postTitle(r).split(/[:—]/)[0].trim() || r.data.place?.name}</a>{kmLabel(km) && <span class="nearby-km"> {kmLabel(km)}</span>}</>
         ))}
       </p>
     )}
