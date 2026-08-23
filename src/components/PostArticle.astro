@@ -19,6 +19,7 @@ import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath
 import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { tileMosaic, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
+import { stripPlusCode } from '../lib/address.mjs';
 import { klookCityDest } from '../lib/klookCities';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
@@ -123,7 +124,15 @@ const updated = d.updatedDate ?? d.pubDate;
 // CSS pin, the whole thing a link to Google Maps. Pages that outrank ours
 // show a map; an iframe on every guide would cost LCP/INP (2026-08-23).
 const mapMosaic = p && Number.isFinite(p.lat) && Number.isFinite(p.lng) ? tileMosaic(p.lat, p.lng) : null;
-const mapsSearchUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([p?.name, (d.tags && d.tags[1]) || d.category, d.region, country].filter(Boolean).join(' '))}`;
+// Shown address = Google's minus a leading plus code (lib/address.mjs).
+const shownAddress = p ? stripPlusCode(p.address) : '';
+// Seven identical "Open 24 hours" lines (138 guides, mostly parks, beaches,
+// waterfalls, markets) are Google's listing, not a schedule — a beach is
+// "open" at 3am; its lifeguards and showers are not. One hedged line instead
+// of a seven-line accordion (competitor audit 2026-08-23: Hyeopjae "24h" vs
+// the official 10:00–19:00).
+const hoursAllDay = Array.isArray(p?.openingHours) && p.openingHours.length === 7 && p.openingHours.every((l: string) => /open 24 hours/i.test(l));
+const mapsSearchUrl =`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([p?.name, (d.tags && d.tags[1]) || d.category, d.region, country].filter(Boolean).join(' '))}`;
 
 // Strip non-Latin scripts from the Google Places name (e.g. Arabic
 // "مطعم الركن اليمني Yemeni Corner" → "Yemeni Corner"), same rule as titles, so
@@ -345,8 +354,8 @@ if (p?.name) {
   graph.push({
     '@type': placeType,
     name: placeName,
-    address: p.address
-      ? { '@type': 'PostalAddress', streetAddress: p.address, ...(countryISO && { addressCountry: countryISO }) }
+    address: stripPlusCode(p.address)
+      ? { '@type': 'PostalAddress', streetAddress: stripPlusCode(p.address), ...(countryISO && { addressCountry: countryISO }) }
       : undefined,
     geo: p.lat && p.lng ? { '@type': 'GeoCoordinates', latitude: p.lat, longitude: p.lng } : undefined,
     // NOTE: we deliberately do NOT emit aggregateRating here. The rating is
@@ -595,7 +604,14 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       <div class="book-cta">
         <span class="book-cta-label">{t('post.planningTrip').replace('{region}', regionLabel)}</span>
         <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
+          {/* An event's OWN ticket/official page first, when discovery verified
+              one (38 of 51 upcoming events, 2026-08-23). The winners for
+              event queries all carry a ticket button; ours had only the
+              city-level Klook link. Plain rel — this is not an affiliate. */}
+          {d.category === 'event' && d.eventOrganizer?.url && (
+            <a class="book-btn book-btn-primary" href={d.eventOrganizer.url} target="_blank" rel="noopener"><Emoji name="admission-tickets" /> {t('post.officialTickets')}</a>
+          )}
+          <a class:list={['book-btn', { 'book-btn-primary': !(d.category === 'event' && d.eventOrganizer?.url) }]} href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
           <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
         </div>
         {/* Trust signal beside the FIRST ask (authority bias): the fact box proving
@@ -611,7 +627,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         <h2>{t('post.atAGlance')}</h2>
         <div class="fact-grid">
           {placeName && <div class="fact"><span class="k">{t('post.place')}</span><span class="v">{placeLabel}</span></div>}
-          {p.address && <div class="fact"><span class="k">{t('post.address')}</span><span class="v">{p.address}</span></div>}
+          {shownAddress && <div class="fact"><span class="k">{t('post.address')}</span><span class="v">{shownAddress}</span></div>}
           {typeof p.rating === 'number' && (
             <div class="fact"><span class="k">{t('post.rating')}</span><span class="v"><span class="stars">{stars}</span> {p.rating}
               {p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</span></div>
@@ -621,7 +637,9 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
             <div class="fact"><span class="k">{t('post.phone')}</span><span class="v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
           )}
         </div>
-        {p.openingHours && p.openingHours.length > 0 && (
+        {hoursAllDay ? (
+          <div class="fact"><span class="k">{t('post.openingHours')}</span><span class="v">{t('post.open24')}</span></div>
+        ) : p.openingHours && p.openingHours.length > 0 && (
           <details class="hours">
             <summary><Emoji name="three-oclock" /> {t('post.openingHours')}</summary>
             <ul>
