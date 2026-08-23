@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -97,7 +96,7 @@ Trishaws and Grab rides are both easy to flag down nearby if you're walking betw
 
 The mansion opens daily from 9:30am to 5:30pm, with no separate late-night hours to plan around.
 
-Weekend crowds build fast once midday hits — foot traffic data shows the busiest stretch runs from 12pm to 5pm on Saturdays and Sundays, exactly when tour groups and day-trippers pack the courtyard. If you're visiting on a weekend, aim for the 10am to 11am window instead, shortly after opening, when rooms are far easier to move through and photograph.
+Weekend crowds build fast once midday hits, when tour groups and day-trippers pack the courtyard. If you're visiting on a weekend, aim for the 10am to 11am window instead, shortly after opening, when rooms are far easier to move through and photograph.
 
 Weekdays generally run calmer throughout, so a weekday morning is your safest bet if your schedule allows it.
 

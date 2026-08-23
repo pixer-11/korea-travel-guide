@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -88,7 +87,7 @@ This is one of Makassar's most-visited sites, so the goal is beating the crowds,
 - Dress is casual, but this remains a heritage and former military site — skip beachwear even though Losari Beach is nearby
 - Guides sometimes wait near the entrance offering tours; agree on a price before starting if you want one, since there's no fixed posted rate
 - Confirm current admission and any museum-specific fees before you go, as these can change
-- Combine the visit with nearby Fort Rotterdam's old harbor views or Paotere Harbor, a working Bugis schooner port a short drive away, to round out a half-day of colonial and maritime history
+- Combine the visit with nearby Losari Beach's waterfront views or Paotere Harbor, a working Bugis schooner port a short drive away, to round out a half-day of colonial and maritime history
 
 Most tourists breeze through the courtyard for photos and skip the La Galigo Museum entirely. That's the actual mistake — the galleries are where the fort's "turtle shape defending a sultanate" backstory turns into something concrete, with manuscripts and artifacts tying the site to Gowa's pre-colonial kingdom rather than just its Dutch occupiers.
 

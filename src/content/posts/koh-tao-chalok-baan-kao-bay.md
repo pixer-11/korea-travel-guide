@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -111,9 +110,9 @@ Things worth building your visit around:
 
 The beach is open 24 hours, every day, so there's no gate or ticket to plan around. What changes is the crowd, not the access.
 
-Weekday mornings between 7am and 8am are the quietest window on record here — expect near-empty sand. On weekends that calm stretch extends to 7am–10am, giving you a longer buffer before things pick up.
+Weekday mornings tend to be the quietest window here — expect near-empty sand. On weekends that calm stretch lasts a bit longer, giving you a longer buffer before things pick up.
 
-The busiest period is Saturday and Sunday afternoons into the evening, roughly 3pm to 11pm, when the beach bars fill and boats return. If you want space to swim without dodging dive groups, build your visit around the morning instead.
+The busiest period is Saturday and Sunday afternoons into the evening, when the beach bars fill and boats return. If you want space to swim without dodging dive groups, build your visit around the morning instead.
 
 ## How to visit like a local
 
@@ -124,4 +123,3 @@ Payment at the shoreside shacks and bars is mostly cash, though card readers are
 The most common mistake visitors make is treating Chalok Baan Kao as a quick photo stop rather than a place to linger. Order food, rent a snorkel, sit through the heat of the day under a palm — the bay rewards unhurried time far more than a drive-by visit.
 
 If you're diving, book your boat the evening before through one of the shorefront dive centers rather than turning up hoping for a spot, especially in high season (December–March). Locals and long-term dive staff treat this stretch as a working beach as much as a scenic one, so keep gear and boat lanes clear when you're swimming near the shore.
-

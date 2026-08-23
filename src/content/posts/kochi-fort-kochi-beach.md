@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -83,7 +82,7 @@ The Kashi Art Café and the narrow lanes of Jew Town are close enough to fold in
 
 ## How to visit like a local
 
-This is a genuinely busy tourist stretch, not a quiet corner of Kochi, so plan around the crowds rather than expecting solitude. Early morning, before 9am, is your best shot at an uncrowded walk along the nets.
+This is a genuinely busy tourist stretch, not a quiet corner of Kochi, so plan around the crowds rather than expecting solitude. Early morning is your best shot at an uncrowded walk along the nets.
 
 Vendors and rickshaw drivers mostly deal in cash, though UPI mobile payments are increasingly common in shops and cafés — carry some small rupee notes for snacks and net-viewing "donations" some fishermen ask for photos. Haggling lightly is normal at the trinket stalls, but keep it good-natured.
 

@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -69,7 +68,7 @@ The panorama stretches from Central's skyline across Victoria Harbour to Kowloon
 Bring a light jacket even in summer — it's noticeably cooler and breezier up here than at street level. A few things worth building your visit around:
 
 - Sunset transitioning into the city lights switching on, roughly 20–30 minutes after dusk
-- The full 3.5km Lugard Road/Harlech Road loop, about an hour at an easy pace
+- The Lugard Road/Harlech Road loop, about an hour at an easy pace
 - Banyan trees and dense subtropical foliage framing the view — a reminder the Peak is still a real hillside, not just an observation deck
 
 ## When to go
@@ -90,4 +89,3 @@ Avoid the trap of assuming this is the "official" Sky Terrace lookout — it isn
 - If the Peak Tram queue is long, walk up via Old Peak Road instead, or take a bus/taxi and save the tram for the descent
 
 There's no admission fee and no fixed hours to plan around, so the main cost is transport — tram fare or a bus/taxi ride each way. Confirm current Peak Tram fares and schedules before you go, since those do change periodically, even though the lookout point itself never closes.
-

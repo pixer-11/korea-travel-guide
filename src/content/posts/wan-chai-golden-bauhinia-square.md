@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -98,7 +97,7 @@ Alternatively, take the Star Ferry pier at Wan Chai, a short stroll north along 
 The statue itself takes two minutes. The real reason to linger is what surrounds it:
 
 - **Harbour views** across to Tsim Sha Tsui and the Kowloon skyline, especially sharp in late afternoon light
-- **The flag-raising ceremony**, held daily at 8am with a smaller police honour guard than you'd expect — worth timing your visit around if you want to see it
+- **The flag-raising ceremony**, with a smaller police honour guard than you'd expect — worth timing your visit around if you want to see it
 - **The Golden Bauhinia Square Flag Raising Pavilion**, the small structure beside the statue where the ceremony takes place
 - **Convention Avenue** and the surrounding plaza, good for a slow loop before or after
 
@@ -108,7 +107,7 @@ Bring the wide-angle lens setting on your phone. Sunset and blue hour, looking a
 
 This is a 24-hour public space, so there's no gate and no closing time. But "open always" doesn't mean "empty at all hours."
 
-Weekends get genuinely busy from 11am right through to 10pm — tour groups, families, photographers all converging at once. If you want the square closer to yourself, aim for 7am to 8am on a weekend morning, which is measurably the quietest window.
+Weekends get genuinely busy from 11am right through to 10pm — tour groups, families, photographers all converging at once. If you want the square closer to yourself, aim for 7am to 8am on a weekend morning.
 
 Weekday mornings before the office crowd arrives tend to be calm too, though there's no hard data pinning down the exact quiet hours midweek. Either way, earlier beats later.
 

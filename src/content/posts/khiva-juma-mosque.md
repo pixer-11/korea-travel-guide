@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You step through a low wooden doorway off a sun-bleached lane in Itchan Kala, and the noise of the old city just stops. No dome overhead, no soaring iwan — just a flat mud roof held up by a dark, silent forest of wood.
@@ -101,7 +100,7 @@ Walk the pillars slowly rather than cutting straight through.
 
 The mosque opens daily from 9am to 6pm, same hours all week, so there's no need to plan around a shorter Sunday or Monday closure.
 
-Foot traffic data for the site shows it's quietest on weekdays between 9am and 11am, and on weekends between 9am and 10am. Weekend afternoons, especially 12pm to 4pm, draw the heaviest tour-group traffic — worth avoiding if you want the hall to yourself.
+Weekend afternoons, especially 12pm to 4pm, draw the heaviest tour-group traffic — worth avoiding if you want the hall to yourself. Early morning on a weekday tends to be a safer bet for quiet.
 
 Midday sun outside is harsh in summer; the pillared interior stays cool and dim year-round, which makes it a natural place to pause mid-walk through Itchan Kala regardless of season.
 

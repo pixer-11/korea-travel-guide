@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel Molo before you see it — the traffic noise of the Molo-Arevalo road thins out, and the street opens onto a square of pale marble and old acacia trees. At the center sits a domed rotunda, its columns and balustrades gone slightly gray with age, ringed by benches where old men read newspapers and vendors push carts of taho and boiled peanuts.
@@ -110,7 +109,7 @@ Give yourself 30 to 45 minutes here, more if you linger over food.
 
 The plaza is open 24 hours, so there's no gate or ticket to worry about.
 
-Early morning, before the heat builds, is calmest — good for a slow walk and photos without much foot traffic. Weekends get lively from 4pm to 10pm as families and vendors fill the square, so if you want a quieter visit, avoid that window and come earlier in the day instead. Evenings after dark bring a different mood: the rotunda and church facade are lit, and the air cools enough to make sitting outside comfortable.
+Early morning, before the heat builds, is calmest — good for a slow walk and photos without much foot traffic. Weekends get lively as families and vendors fill the square, so if you want a quieter visit, come earlier in the day instead. Evenings after dark bring a different mood: the rotunda and church facade are lit, and the air cools enough to make sitting outside comfortable.
 
 ## How to visit like a local
 

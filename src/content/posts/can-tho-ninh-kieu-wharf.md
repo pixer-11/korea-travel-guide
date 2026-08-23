@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -108,7 +107,7 @@ Come on foot after dinner, the way most Can Tho residents do, and treat it as an
 
 If you want a boat ride to the floating markets, negotiate the price with the boat owner directly at the pier before boarding, and confirm the return time. Early departure, around 5-6am, is how locals catch the markets at their liveliest, before the tourist boats arrive in force.
 
-Ninh Kieu is genuinely one of the busiest attractions in the city, not a quiet find, so don't expect solitude at peak hours. The common mistake is arriving Saturday evening expecting a peaceful river view — that's exactly when it's most crowded. Shift to mid-morning or early afternoon instead, order a coconut coffee from one of the cafés facing the water, and just watch the boat traffic go by.
+Ninh Kieu is genuinely one of the busiest attractions in the city, not a quiet find, so don't expect solitude at peak hours. The common mistake is arriving Saturday evening expecting a peaceful river view — that's exactly when it's most crowded. Shift to mid-morning or early afternoon instead, find a spot facing the water, and just watch the boat traffic go by.
 
 ## Nearby to combine with your visit
 

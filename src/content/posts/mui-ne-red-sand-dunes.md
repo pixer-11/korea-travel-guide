@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -87,11 +86,10 @@ Dry season, roughly November to April, gives you the clearest skies and best odd
 
 This is a very popular stop on the Mui Ne tourist circuit, not an undiscovered corner — tour buses and jeep convoys arrive in waves, especially around sunset. The move is to beat them, not avoid them entirely.
 
-- Arrive right at sunrise, or a little earlier than the typical 4:30-5pm tour bus rush, for open sand and softer light
+- Arrive right at sunrise, or a little earlier than the afternoon tour bus rush, for open sand and softer light
 - Pay sled rentals in cash, and agree the price before you sit down — it's a casual, informal transaction, not a fixed-rate concession
 - Skip the guided jeep tours if you already have your own transport; you'll move faster and stay longer at the angles you actually want
 - Bring a scarf or bandana for windy stretches — blowing sand is common, especially in the afternoon
 - Don't wear anything you're precious about; red sand stains light fabric
 
 The biggest mistake first-timers make is treating this as a long stop. Most people are satisfied after 30-45 minutes — enough time to sled once, climb the ridge, and catch the light — then move on to the White Sand Dunes or Fairy Stream while the day's still going.
-

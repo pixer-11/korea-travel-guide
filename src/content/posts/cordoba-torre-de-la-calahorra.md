@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -79,7 +78,7 @@ Inside, it's not a bare monument. It houses a small museum on Al-Andalus, with h
 
 ## What you'll actually see
 
-The ground floor sets the historical scene, but the real payoff is upstairs. A cramped spiral staircase leads through low stone chambers to a series of waxwork tableaux of philosophers like Averroes and Maimonides, each with a rented audio guide narrating their ideas.
+The ground floor sets the historical scene, but the real payoff is upstairs. A cramped spiral staircase leads through low stone chambers to a series of waxwork tableaux of philosophers like Averroes and Maimonides, with an audio guide narrating their ideas.
 
 One room holds a large scale model of the Alhambra in Granada, worth pausing at even if you've already seen the real one. Keep climbing and you reach the open rooftop terrace — the actual reason most people buy a ticket.
 
@@ -119,4 +118,3 @@ This is a well-known stop on every Córdoba itinerary, not a hidden find, so pla
 - Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets
 
 The most common visitor mistake is treating it as a quick photo stop from the bridge and skipping the climb. The waxwork rooms are modest, but the rooftop view is the best in the city for framing the Mezquita against the river, and it's worth the narrow stairs to get there.
-

@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -94,7 +93,7 @@ Because this particular site is under-the-radar rather than a major tourist draw
 
 ## How to visit like a local
 
-Go slow — Kaş rewards wandering more than checklist-ticking. Locals eat late, so restaurants really fill from 8pm onward; arriving at 6pm for dinner often means an empty room and a kitchen still warming up.
+Go slow — Kaş rewards wandering more than checklist-ticking. Locals tend to eat later in the evening, so an early dinner reservation isn't necessary.
 
 Cash still helps for small harborside stalls and market vendors, though cards are widely accepted in cafés and shops. Boat trip prices are usually negotiable in the off-season, less so in July–August.
 

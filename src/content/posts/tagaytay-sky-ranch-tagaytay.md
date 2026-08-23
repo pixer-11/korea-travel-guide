@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You spot the Ferris wheel long before you reach the gate — a slow-turning silhouette against the ridge, visible from cars still climbing the highway below. That's the giveaway you've arrived at Sky Ranch, Tagaytay's amusement park perched where the land drops toward Taal Lake.
@@ -67,7 +66,7 @@ The Ferris wheel is the signature ride. At the top, on a clear day, you get an o
 
 Sky Ranch sits right on the Tagaytay-Nasugbu Highway (Km. 60), in Kaybagal South — hard to miss if you're driving the main Tagaytay strip. Most visitors arrive by private car, rented van, or a Grab booked from elsewhere in town.
 
-If you're coming by public transport, buses and jeepneys running the Tagaytay–Nasugbu or Tagaytay–Nasugbu Highway route pass close by; ask the driver to drop you at Sky Ranch. There's parking on site, though it fills up fast on weekends.
+If you're coming by public transport, buses and jeepneys running along the Tagaytay-Nasugbu Highway pass close by; ask the driver to drop you at Sky Ranch. There's parking on site, though it fills up fast on weekends.
 
 ## What to see and do
 
@@ -99,4 +98,3 @@ Sky Ranch is genuinely one of Tagaytay's most-visited attractions, so the main l
 - **Don't treat it as a quick stop.** Traffic on the Tagaytay-Nasugbu Highway near the entrance can back up on weekends, so build extra time into arrival and departure.
 
 The mistake most first-timers make is showing up midday on a Saturday expecting a fast in-and-out visit. Between the queues and the highway traffic, that's exactly when Sky Ranch is at its most crowded and slowest to move through.
-

@@ -80,12 +80,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-Chin Swee Caves Temple isn't a quiet countryside shrine — it's a mountainside spectacle. Built into a steep slope at 4,600 feet and completed in 1994, the 28-acre complex unfolds in tiers, with a nine-story pagoda visible long before you reach the entrance.
+Chin Swee Caves Temple isn't a quiet countryside shrine — it's a mountainside spectacle. Built into a steep mountain slope, the temple complex unfolds in tiers, with a towering pagoda visible long before you reach the entrance.
 
 The setting does the heavy lifting. Mist rolls through the surrounding hills for much of the year, and the cool air here is a relief if you've just come up from the tropical heat below.
 

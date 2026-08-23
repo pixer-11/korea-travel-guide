@@ -54,7 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -101,4 +100,4 @@ Treat this as a five-to-ten-minute pause, not a destination in itself — that's
 - No tickets, no staff, no set queue — it's an open public space, so there's nothing to book and nothing to pay.
 - Evenings draw the steadiest foot traffic, since that's when the boulevard itself is busiest with locals out for a walk. If you want a quieter moment at the monument itself, mid-morning tends to be calmer.
 
-The biggest mistake visitors make is rushing past it entirely. Give it the few minutes it deserves — it's a easy, unhurried way to feel Alanya's civic pulse alongside its beaches and castle views.
+The biggest mistake visitors make is rushing past it entirely. Give it the few minutes it deserves — it's an easy, unhurried way to feel Alanya's civic pulse alongside its beaches and castle views.

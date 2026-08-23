@@ -80,7 +80,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -93,8 +92,8 @@ The room is narrow and bright, with big windows that let the morning light spill
 
 The menu leans classic all-day brunch, executed well rather than reinvented. Expect the usual anchors done properly:
 
-- Eggs Benedict, with a buttery, well-timed hollandaise
-- Avocado toast, sometimes with chilli flakes or a poached egg on top
+- Eggs Benedict
+- Avocado toast
 - Big leafy salads and grain bowls for a lighter option
 - Proper flat whites and long blacks from a real espresso machine
 

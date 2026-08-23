@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -84,7 +83,7 @@ The château sits at 4 Pl. Marc Elder, in the historic heart of Nantes, an easy 
 
 ## What to see and do
 
-The dry moat and ramparts are open to everyone, no ticket required, and you can walk a good stretch of the walls for free. Inside, the Nantes History Museum fills 32 rooms across the old ducal buildings, tracing the city's story from its days as a slave-trading Atlantic port through industrial decline and reinvention.
+The dry moat and ramparts are open to everyone, no ticket required, and you can walk a good stretch of the walls for free. Inside, the Nantes History Museum occupies the old ducal buildings, tracing the city's story from its days as a slave-trading Atlantic port through industrial decline and reinvention.
 
 Look for:
 - Scale models showing how the port and city grew over centuries

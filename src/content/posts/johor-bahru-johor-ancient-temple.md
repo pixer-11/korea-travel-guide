@@ -68,12 +68,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-This 19th-century temple isn't just old — it's a working shrine to five deities under one roof, a rarity even in Malaysia. Founded in 1870 by early Chinese settlers, it's one of the oldest buildings in Johor Bahru, predating most of the city around it.
+This 19th-century temple isn't just old — it's a working shrine to five deities under one roof, a rarity even in Malaysia. It's one of the oldest buildings in Johor Bahru, predating most of the city around it.
 
 You come for the craftsmanship. Every beam, pillar, and eave is layered with carvings, gilded lettering, and painted scenes that took skilled artisans months to finish.
 
@@ -106,10 +105,9 @@ Chinese New Year is the one exception worth knowing about. The temple becomes a 
 This is a functioning place of worship, not a museum, and the etiquette matters. Dress modestly — shoulders and knees covered is a safe bet — and keep your voice low once inside.
 
 - Arrive between 8am and 9am on a weekday for the calmest visit.
-- No entry fee is charged, though a small donation box sits near the entrance if you'd like to contribute.
+- No entry fee is charged.
 - Photography is generally fine, but avoid using flash near worshippers at the altars.
 - If you see someone shaking fortune sticks or bowing with incense, wait until they've finished before walking past that altar.
 - Remove hats before entering, and don't touch the altar items or offerings.
 
 The most common visitor mistake is treating it like a five-minute photo stop. Slow down, walk the full perimeter, and look at the carved panels near the roofline — that's where the oldest, most detailed work survives. Pair the visit with a wander through the nearby Jalan Trus and Jalan Ibrahim shophouse streets, both a short walk away, to round out a morning in the old town.
-

@@ -68,6 +68,7 @@ faq:
 aiGenerated: true
 draft: false
 ---
+Below is the markdown body of a published travel guide, "Bolo Hauz Mosque: Bukhara Travel Guide (4.8★)".
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
@@ -95,10 +96,7 @@ Bolo Hauz sits right by the Ark fortress on Bukhara's western side, an easy 15-2
 
 The mosque's hours run long — 4:30am to 9:30pm most days, with a later 10am start on Mondays. That width matters: it means you can fold a visit around the Ark without rushing.
 
-Crowd patterns here run light overall, since Bolo Hauz doesn't pull the tour-bus numbers that hit the Ark or Poi Kalyan complex next door. For the quietest look at the columns:
-
-- Weekdays: 7am-10am
-- Weekends: 7am-11am
+Crowd patterns here run light overall, since Bolo Hauz doesn't pull the tour-bus numbers that hit the Ark or Poi Kalyan complex next door. For the quietest look at the columns, aim for early morning, well before the tour groups from the Ark and Poi Kalyan start moving through.
 
 ## How to visit like a local
 

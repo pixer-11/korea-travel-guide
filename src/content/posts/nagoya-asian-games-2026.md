@@ -37,7 +37,6 @@ heroImage:
     x: 68
     'y': 45
 ---
-
 ## Why this Games matters
 
 Nagoya is about to become the sporting center of Asia. From September 19 to October 4, 2026, the 20th Asian Games brings together athletes from across the continent — the largest multi-sport event in the region, bigger even than most people's mental image of the Olympics in scale of nations involved.
@@ -74,9 +73,8 @@ Before you book flights or hotels, confirm dates, venues, and ticket details dir
 
 Nagoya locals treat big events with practical calm rather than frenzy — expect efficient queuing, not chaotic crowds. IC transit cards (Manaca, or nationally compatible Suica/Pasmo) work across subway, bus, and most convenience stores, so get one on arrival rather than fumbling with cash tickets.
 
-Meals near venues will likely mean long lines at peak session breaks — locals sidestep this by eating slightly off the main strip, a five-minute walk from the stadium gates, where prices stay normal and seats are open. Miso katsu and hitsumabushi (grilled eel over rice) are the dishes to seek out here, not generic stadium concessions.
+Meals near venues will likely mean long lines at peak session breaks — locals sidestep this by eating slightly off the main strip, a five-minute walk from the stadium gates, where prices stay normal and seats are open. Local Nagoya specialties are what's worth seeking out here, not generic stadium concessions.
 
 Avoid arriving at a venue right at the scheduled session start if you can help it. Locals build in a buffer, since security screening lines lengthen fast in the final 30 minutes before big sessions. Trains run precisely on schedule, but that also means missing one costs you real time — check the last return train if you're heading out to a satellite-city venue for an evening event.
 
 The most common visitor mistake will likely be assuming all venues sit inside central Nagoya. Many don't — factor in an extra hour of travel for events in outer Aichi cities.
-

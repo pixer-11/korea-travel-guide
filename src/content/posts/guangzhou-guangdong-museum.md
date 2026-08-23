@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -89,12 +88,12 @@ Weekends bring more local families, especially with kids in tow for the natural 
 
 ## How to visit like a local
 
-Reserve your free ticket in advance through the museum's WeChat account or official website — same-day counter tickets exist but can require ID and a short wait. Bring your passport; foreign visitors typically need it for entry registration.
+Reserve your free ticket in advance — same-day counter tickets exist but can require ID and a short wait. Bring identification, as entry registration is typically required.
 
 Because this isn't yet a tourist-clogged stop, you won't need to fight crowds for photos, but locals still treat it as a quiet weekday outing rather than a big-ticket destination. Dress comfortably — the galleries span several floors with limited seating.
 
 Skip the gift shop rush and instead head to the top-floor windows overlooking the Pearl River for one of the best free views of the CBD skyline. Most visitors miss this because they leave straight from the ground floor.
 
-Pair it with a stroll to the Opera House or Guangzhou Library afterward — all three sit within a five-minute walk of each other, making a natural half-day cultural loop. Avoid arriving right before closing, since the last-entry cutoff is usually earlier than 5pm and guards start closing sections early.
+Pair it with a stroll to the Opera House or Guangzhou Library afterward — all three sit within a five-minute walk of each other, making a natural half-day cultural loop. Avoid arriving right before closing, since guards start closing sections early.
 
 Bring a bottle of water; food options inside are limited, and the surrounding plaza can mean a longer walk to restaurants than you'd expect in the CBD.

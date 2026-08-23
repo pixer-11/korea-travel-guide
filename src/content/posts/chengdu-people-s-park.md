@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -60,7 +59,7 @@ It's also the city's most famous spot to watch — or get — an ear cleaning. P
 
 Beyond the teahouse:
 
-- **Zhu Rongji-era pond** with rented paddle boats
+- **Ornamental pond** with rented paddle boats
 - **Two small museums** on-site covering local history and revolutionary memorials
 - **Waterside café** for coffee if tea isn't your thing
 - **Shaded walking loops** good for 45 minutes to an hour of wandering
@@ -82,7 +81,7 @@ Spring and autumn bring the most comfortable weather for lingering outdoors — 
 
 Order tea the way regulars do: a server will come by, top up your glass jar with hot water from a long-spouted kettle, and leave you be. There's no rush — tables are held for hours, not turned over.
 
-Payment is simple and cheap, usually just a few yuan for a jar of tea, paid to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine.
+Payment is simple and cheap, paid to the server rather than up front. Mobile payment via WeChat or Alipay is standard if you have a Chinese payment app set up; otherwise small cash works fine.
 
 The etiquette here is unspoken but easy to pick up: keep your voice down, don't hover over someone else's chess game too closely, and if you want an ear cleaning, just make eye contact with a practitioner as they pass — they'll stop.
 

@@ -75,12 +75,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-Most travelers pass through Shakhrisabz for the Timurid ruins and never look up toward the mountains behind them. Zaamin National Park is that mountain range — a stretch of juniper (arча) forest, limestone ridges, and alpine pasture climbing toward the Turkestan range on the Tajikistan border.
+Most travelers pass through Shakhrisabz for the Timurid ruins and never look up toward the mountains behind them. Zaamin National Park is that mountain range — a stretch of juniper (archa) forest, limestone ridges, and alpine pasture climbing toward the Turkestan range on the Tajikistan border.
 
 It's still under-the-radar by regional standards. You won't find tour buses here, just a scattering of hikers, birdwatchers, and local families escaping the valley heat.
 
@@ -107,7 +106,7 @@ Streams cut through several valleys, running clear and cold even in summer, and 
 
 The park is open every day, 8am to 8pm, year-round. Late spring through early autumn is the easiest window — snow can close higher trails in winter, while summer mornings stay cool at altitude even when Shakhrisabz below is baking.
 
-Crowd patterns here are unusually predictable. Weekdays are quiet from 8am to noon, and weekends are calmest right at opening, between 8am and 10am. After that, especially on weekends, traffic builds steadily and stays busy clear through to closing at 8pm.
+Crowd patterns here are unusually predictable. Weekdays tend to be quieter than weekends, and mornings are calmer than afternoons. After that, especially on weekends, traffic builds steadily and stays busy clear through to closing at 8pm.
 
 If you want the trails to yourself, aim for a weekday morning. If a weekend is your only option, get there at 8am sharp.
 

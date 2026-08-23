@@ -74,7 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -115,7 +114,7 @@ Most visitors spend 30–60 minutes here before moving on to another stop on Cad
 
 The lagoon is open 24 hours, but boats only run during daylight, so timing really means picking your hours within that window.
 
-Weekdays, it's quietest between 8pm and 9pm — though few boatmen run trips after dark, so treat this as a sign the daytime hours stay mild rather than a literal visiting window. On weekends, the calm stretches from 7am to 10pm, with the busiest crowds arriving between 9am and 4pm.
+Weekdays tend to be quieter overall, with fewer boats making the trip out. On weekends, the calm stretches from 7am to 10pm, with the busiest crowds arriving between 9am and 4pm.
 
 If you can, aim for an early morning departure, before the 9am rush and before the sun climbs high enough to flatten the color contrast in the water.
 

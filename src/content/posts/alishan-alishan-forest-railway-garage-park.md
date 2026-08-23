@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -95,9 +94,9 @@ Beyond the rolling stock, the surrounding grounds have grassy lawns, old brick b
 
 ## When to go
 
-The park keeps the same hours every day of the week, 8am to 6pm, so there's no need to plan around a closing day. Foot traffic data shows it's quietest between 8am and 9am on both weekdays and weekends — arrive right at opening for empty walkways and better light for photos.
+The park keeps the same hours every day of the week, 8am to 6pm, so there's no need to plan around a closing day. Arriving right at opening tends to mean fewer crowds and better light for photos.
 
-Weekends get busy from 11am straight through to closing, so if you're visiting Saturday or Sunday, try to get there before 11am. Weekday mornings are your best bet for a calmer visit overall.
+Weekends tend to get busier later in the day, so if you're visiting Saturday or Sunday, try to get there early. Weekday mornings are your best bet for a calmer visit overall.
 
 Because much of the park is outdoors with limited shade over the tracks, midday in summer can be uncomfortably hot. An early morning or late-afternoon visit is more comfortable and less crowded.
 
@@ -107,7 +106,7 @@ This is a well-visited stop for both domestic and international travelers, so th
 
 - Go right at 8am opening — the quietest hour on any day of the week.
 - Avoid 11am to closing on weekends, when the site is busiest.
-- Entry is generally free and unticketed, so there's no booking or queue system to navigate — just walk in.
+- There's no booking or queue system to navigate — just walk in.
 - Pair it with a walk to the nearby old Beimen Station platform, a five-minute stroll away, to see where the forest railway's restored trains still depart.
 - Wear shoes you don't mind getting dusty; gravel and old ballast stone cover much of the yard.
 - Bring water in warmer months — shade is limited around the locomotive displays.

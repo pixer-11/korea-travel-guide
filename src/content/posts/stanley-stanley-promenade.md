@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -100,9 +99,9 @@ At the far end, the promenade connects to Stanley Main Street and the market's c
 
 ## When to go
 
-Because it's open 24 hours, timing is flexible, but the light and crowd levels shift a lot through the day. Morning brings soft light off the water and far fewer people — weekends are calmest between 7am and 5pm.
+Because it's open 24 hours, timing is flexible, but the light and crowd levels shift a lot through the day. Morning brings soft light off the water and far fewer people.
 
-After that, especially into the evening, the promenade fills up fast; expect the busiest stretch on weekends to run from 8am to 11pm as day-trippers and dinner crowds arrive. If you want photos without people in every frame, aim for early morning on a weekday.
+After that, especially into the evening, the promenade fills up fast; expect busier crowds as day-trippers and dinner crowds arrive. If you want photos without people in every frame, aim for early morning on a weekday.
 
 Sunset is worth planning around too — the bay faces west-southwest, and the light over the water in late afternoon is a different, warmer mood than the flat brightness of midday.
 

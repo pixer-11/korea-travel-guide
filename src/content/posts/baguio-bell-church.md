@@ -46,7 +46,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Bell Church stands out
@@ -88,7 +87,7 @@ Plan for 30 to 45 minutes unless you want to sit by the pond and take it slow.
 
 Treat Bell Church as a quiet-hours destination, not a group-tour box to check.
 
-- **Time it right**: arrive close to opening, before the city-tour vans start cycling through late morning.
+- **Time it right**: visit early in the day, before the city-tour vans start cycling through late morning.
 - **Dress modestly**: it's an active place of worship — cover shoulders and avoid loud clothing on the upper shrine levels.
 - **Keep your voice down** near the incense altars; devotees are often there to pray, not pose for photos.
 - **Pay by cash** for parking and any snack stalls near the entrance — small bills, since change can be limited.
@@ -101,4 +100,3 @@ The mistake most first-timers make is treating this like a five-minute photo-op 
 Bell Church sits close enough to La Trinidad's strawberry farms that most visitors combine the two in a single half-day loop out of Baguio.
 
 If you've got a driver or a rented car, ask about stringing together Bell Church, the strawberry fields, and one of the valley's vegetable terraces before heading back into the city for lunch. Baguio's Session Road and Burnham Park are roughly 20 minutes back south, making this an easy morning add-on rather than a full detour.
-

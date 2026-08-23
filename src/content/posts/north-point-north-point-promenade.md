@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -99,7 +98,7 @@ There's little in the way of food stalls or shops directly on the promenade, so 
 
 The promenade is open 24 hours, every day, so there's no gate schedule to work around. That flexibility is part of what makes it worth visiting.
 
-Weekends between 8am and 10pm are the busiest stretch, with families, joggers and photographers all out at once. If you want the water mostly to yourself, aim for a weekday morning or a weeknight after dinner, when the light off the harbour is just as good and the bench space is easier to find.
+Weekends tend to be the busiest stretch, with families, joggers and photographers all out at once. If you want the water mostly to yourself, aim for a weekday morning or a weeknight after dinner, when the light off the harbour is just as good and the bench space is easier to find.
 
 Sunset is the classic hour here — the sky over Kowloon goes orange and pink, and the skyline starts lighting up as the light drops. Early morning has its own quiet appeal, with joggers, tai chi practitioners and a cooler breeze off the water.
 
@@ -114,4 +113,3 @@ Treat it as a walking route, not a destination to linger at for hours. Locals us
 - Combine it with a tram ride or ferry crossing so the journey itself becomes part of the visit
 
 The biggest mistake visitors make is treating this like Central's polished harbourfront and expecting cafés, art installations, or crowds to guide them. There's none of that here — just a working stretch of Hong Kong's waterfront, where the appeal is the industrial backdrop and the fact that it hasn't been dressed up for tourists. Come for the view and the quiet, not the amenities, and you'll leave satisfied rather than disappointed.
-

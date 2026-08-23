@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -78,7 +77,7 @@ From there, the water curves away in both directions, ringed by green hills and,
 
 ## What else to see nearby
 
-The pagoda connects to a hiking trail that links several of the lake's southern shore landmarks. Xuanguang Temple sits a short walk downhill, with its own smaller lake-view terrace and a well-known meatball stall just outside.
+The pagoda connects to a hiking trail that links several of the lake's southern shore landmarks. Xuanguang Temple sits a short walk downhill, with its own smaller lake-view terrace and food stalls just outside.
 
 Further along, Xuanzang Temple houses relics associated with the famous Tang dynasty monk. Many visitors string these three sites together as a half-day loop, mixing walking with a stretch of the shuttle bus or bike path.
 

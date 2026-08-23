@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Jurong Lake Gardens is worth the trip out west
@@ -107,7 +106,7 @@ Other things worth building into your visit:
 
 The park runs 24 hours every day, so there's no opening time to plan around. That flexibility matters more here than at most attractions.
 
-Weekends get genuinely busy from 8am until 10pm — that's the window to avoid if you want the boardwalks and lawns to yourself. Weekday mornings are calmer across the board.
+Weekends get noticeably busier than weekdays — that's the window to avoid if you want the boardwalks and lawns to yourself. Weekday mornings are calmer across the board.
 
 Midday heat is the other thing to plan for. Singapore sun is intense by 11am, and the Grasslands offers almost no shade, so aim for before 9am or after 5pm if you're walking the open lawns.
 
@@ -123,4 +122,3 @@ This is a well-loved park, not a quiet secret — locals treat it as their neigh
 - **The tourist mistake** here is treating it as a quick photo stop. The park rewards slowness — a full loop from Grasslands to the boardwalk and back easily takes two to three hours on foot.
 
 Locals also tend to combine this with the older Chinese and Japanese Gardens next door, connected by a short walk across the water — worth the extra hour if you're already out this way.
-

@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -77,7 +76,7 @@ The park sits on Fort Road, a short detour from the Katong food trail, and it re
 
 ## What you'll actually see
 
-The centerpiece is a squat concrete structure, a surviving gun emplacement from old Fort Tomahawk, sunk into a grassy mound and fenced off but clearly visible. There's no grand plaque or museum-style display — just a weathered slab of colonial-era coastal defense sitting quietly among frangipani trees and monkey bars.
+The centerpiece is a squat concrete structure, a surviving gun emplacement from an old coastal fort, sunk into a grassy mound and fenced off but clearly visible. There's no grand plaque or museum-style display — just a weathered slab of colonial-era coastal defense sitting quietly among frangipani trees and monkey bars.
 
 Walk further in and the park narrows into a path with old rain trees arching overhead, their roots buckling the pavement in places. Benches face a small children's playground and an open lawn where you'll often see one or two people practicing tai chi in the early morning light.
 
@@ -91,7 +90,7 @@ If you're cycling the park connector from East Coast Park, you'll hit Katong Par
 
 ## When to go
 
-Weekend mornings between 7am and 8am are the quietest stretch, before the park fills up. Foot traffic picks up steadily and stays busy from around 9am to 9pm on weekends, so if you want the place mostly to yourself, get there early.
+Early mornings tend to be the quietest stretch, before the park fills up. Foot traffic picks up steadily through the day on weekends, so if you want the place mostly to yourself, get there early.
 
 Weekday evenings after office hours tend to be calmer than weekends, though there's no hard data on the exact quiet window. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday.
 

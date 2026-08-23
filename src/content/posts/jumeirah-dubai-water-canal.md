@@ -88,7 +88,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -120,7 +119,7 @@ Rent a bike or e-scooter from stands along the path if you want to cover more gr
 
 Mornings are the most comfortable, especially outside winter, before the Gulf heat sets in. Early light also makes the water look its best for photos.
 
-On weekends, the canal is quietest between 7am and 3pm — ideal if you want the paths to yourself. Avoid arriving between 9am and 11pm on weekends, when foot traffic peaks and benches fill up fast.
+On weekends, the canal is quietest between 7am and 3pm — ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast.
 
 Evenings have their own appeal despite the crowds. The bridges and towers light up, temperatures drop, and the promenade takes on a completely different mood — busier, but atmospheric.
 
@@ -138,4 +137,3 @@ A few practical notes:
 - The mistake most visitors make is treating this as a quick five-minute photo stop; the canal rewards a proper 45-minute walk between two bridges
 
 Because it's rated as well-known rather than a hidden find, expect other visitors and joggers throughout the day. That's part of the texture — it's a working piece of city infrastructure as much as a sight, and it's busiest exactly when Dubai residents are out using it themselves.
-

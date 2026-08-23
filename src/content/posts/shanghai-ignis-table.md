@@ -30,14 +30,13 @@ heroImage:
     x: 60
     'y': 65
 ---
-
 ## Why Ignis Table matters right now
 
 Shanghai's fine-dining scene rarely sits still, and Ignis Table is the name chefs and food writers keep mentioning this season. It's the new project from Julien Xu, a chef whose résumé includes stints at two of the city's most talked-about tasting-menu rooms, Ultraviolet and Rêver. That pedigree matters here — this isn't a chef testing an idea, it's someone who has spent years cooking at the edge of what modern Chinese cuisine can do, now running his own room.
 
 ## What the food actually is
 
-The kitchen works around a single set menu, currently priced at ¥1,880 per person, built on premium seafood treated with a modern Chinese sensibility rather than a European tasting-menu template. Expect the kind of composed, course-by-course pacing that lets one ingredient — a scallop, a piece of fish, a shellfish broth — carry a whole plate. Because it's a fixed format, you're trusting the chef's sequencing rather than picking dishes yourself.
+The kitchen works around a single set menu, built on premium seafood treated with a modern Chinese sensibility rather than a European tasting-menu template. Expect the kind of composed, course-by-course pacing that lets one ingredient — a scallop, a piece of fish, a shellfish broth — carry a whole plate. Because it's a fixed format, you're trusting the chef's sequencing rather than picking dishes yourself.
 
 That's the appeal of a true chef's table: the room is built around watching the cooking happen, not just eating the result. Expect an open kitchen or counter-style seating where the pass is close enough that you catch the plating in real time — the searing, the sauce being spooned, the last herb placed before the plate moves.
 

@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 45
 ---
-
 ## Why Danico matters right now
 
 You don't stumble onto Danico by accident. It sits behind an unmarked or minimally marked entrance in central Paris, the kind of door you'd walk past twice looking for a house number.
@@ -53,7 +52,7 @@ We don't have a verified menu to quote, so don't go in expecting a specific name
 
 ## Getting there and booking
 
-Danico is in central Paris, in the kind of dense, walkable district where a short stroll gets you between all three award-winning bars in one evening. Because exact hours and reservation policy can shift, especially for a bar riding a fresh wave of international attention, check Danico's own booking channel or current listings before you set out.
+Danico is in central Paris, in the kind of dense, walkable district where a short stroll connects all three award-winning bars. Because exact hours and reservation policy can shift, especially for a bar riding a fresh wave of international attention, check Danico's own booking channel or current listings before you set out.
 
 If reservations are available, take one. Bars that win "best in France" the same year tend to fill fast, and turning up unannounced on a Friday night is a gamble.
 
@@ -69,7 +68,7 @@ Treat Danico the way Parisians treat any in-demand small bar: book ahead if a sy
 
 Order by asking, not just reading. The strongest move here is to tell the bartender roughly what spirits or flavors you like and let them build something, rather than pointing at the first name on the list.
 
-Tipping in Paris bars is appreciated but not obligatory the way it is in the US — rounding up or leaving a few euros for excellent service reads as generous, not obligatory. Payment is almost always by card.
+Tipping in Paris bars is appreciated but not obligatory the way it is in the US — rounding up or leaving a few euros for excellent service reads as a generous gesture. Payment is almost always by card.
 
 The most common mistake visitors make is treating a trio like Danico, The Cambridge Public House, and Bar Nouveau as a single big night out. Pace yourself — each is worth its own unhurried visit, and trying to hit all three in one evening tends to mean rushing the best one.
 

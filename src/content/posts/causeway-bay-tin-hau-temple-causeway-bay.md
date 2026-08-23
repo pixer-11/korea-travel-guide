@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -79,7 +78,7 @@ Red lanterns hang from the eaves. Coils of incense, thick as dinner plates, spir
 
 The temple gives its name to Tin Hau MTR station, on the Island Line, one stop east of Causeway Bay station. Exit A2 puts you almost directly on Tin Hau Temple Road.
 
-From there it's a two-minute walk. Look for the address at Ming Tak Mansion, No. 10 — the temple is tucked into the ground level of a residential block, easy to miss if you're not watching for the incense smoke drifting above the doorway.
+From there it's a two-minute walk. Look for the temple along Tin Hau Temple Road — it's tucked into the ground level of a residential block, easy to miss if you're not watching for the incense smoke drifting above the doorway.
 
 ## What you'll see inside
 
@@ -118,4 +117,3 @@ This is a working place of worship, not a tourist attraction dressed up as one �
 The most common mistake visitors make is treating this as a quick photo stop and rushing through in five minutes. Slow down. Sit on the stone bench in the courtyard for a few minutes and let your eyes adjust to the dim, smoke-hazed interior — that's where the temple actually reveals itself, not in the doorway snapshot.
 
 Cash isn't really needed beyond a few coins for the donation box or fortune sticks. There's no ticket, no queue system, and no staff pushing you along, which is rare for anything this close to Causeway Bay's shopping core.
-

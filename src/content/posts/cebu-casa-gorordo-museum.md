@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You step off Eduardo Aboitiz Street through a narrow gate, and the noise of Cebu City just falls away. Inside is a shaded stone courtyard, a hardwood staircase worn smooth by generations of feet, and the kind of quiet that makes you lower your voice without thinking about it.
@@ -71,7 +70,7 @@ Entry is with a guided walkthrough, included in the ticket, and it's worth timin
 - A small chapel and private bedrooms with original religious artifacts
 - The rear courtyard, where the museum's café now operates
 
-Guides point out details you'd otherwise miss — the sliding capiz panels, the ventilation gaps under doors, the family's actual belongings mixed in with period-appropriate pieces. Budget 45 minutes for the tour itself, longer if you want coffee after.
+Guides point out details you'd otherwise miss — the sliding capiz panels, the ventilation gaps under doors, the family's actual belongings mixed in with period-appropriate pieces. Give the tour your unhurried attention, longer if you want coffee after.
 
 ## Getting there
 

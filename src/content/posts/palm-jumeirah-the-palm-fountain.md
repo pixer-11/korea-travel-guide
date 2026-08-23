@@ -47,12 +47,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-The Palm Fountain claims the title of world's largest fountain, and once the water starts climbing you believe it. Jets punch over 100 metres into the Dubai sky, lit in shifting colour and timed to music that carries across the whole waterfront promenade.
+The Palm Fountain claims the title of world's largest fountain, and once the water starts climbing you believe it. The jets shoot high into the Dubai sky, lit in shifting colour and timed to music that carries across the whole waterfront promenade.
 
 It's not a quiet corner of the city — this is a headline attraction, and it draws crowds accordingly. But the spectacle earns the hype: this isn't a subtle water feature tucked in a lobby, it's a full sensory event set against the Atlantis skyline.
 
@@ -78,7 +77,7 @@ Confirm exact showtimes before you go, since schedules can shift with weather or
 
 ## How to visit like a local
 
-This is a well-known stop on every Dubai visitor's list, so treat it like a busy attraction rather than a quiet find. The trick is timing: arrive by 7:30pm, well before the after-dinner rush pushes into the plaza around 9pm.
+This is a well-known stop on every Dubai visitor's list, so treat it like a busy attraction rather than a quiet find. The trick is timing: arrive early in the evening, well before the after-dinner rush pushes into the plaza.
 
 Skip the very front row if you're short on patience — the view a few rows back, slightly elevated near the restaurant terraces, is often better anyway and less jostled. Nobody pays to watch; the show is free, so budget your money for a meal instead.
 
@@ -89,4 +88,3 @@ Grab a table at one of The Pointe's waterfront restaurants and time your order s
 - Walk the full promenade afterward; the Atlantis view from the far end is worth the extra ten minutes
 
 Locals mostly pass through The Pointe for dinner and let tourists claim the fountain rail, so don't expect insider crowds — just plan around the visitor rush instead.
-

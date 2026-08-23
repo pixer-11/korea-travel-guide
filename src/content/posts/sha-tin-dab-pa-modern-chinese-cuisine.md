@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Dab-pa is worth the detour
@@ -104,7 +103,7 @@ Weekends are a different story. Between 1pm and 9pm on Saturdays and Sundays, Ne
 Sha Tin locals treat New Town Plaza as a genuine neighborhood hub, not just a tourist mall, and Dab-pa gets folded into that rhythm — a solid, dependable option rather than a destination restaurant people cross the harbour for.
 
 - **Time it right:** aim for the 3pm–5pm weekday lull if you want a relaxed meal; avoid rocking up on a Saturday afternoon without a plan for waiting.
-- **Booking:** for weekend dinners, calling ahead or arriving right as service starts at 11:30am or right after 5pm dinner opens is safer than walking in cold.
+- **Booking:** for weekend dinners, calling ahead or arriving right as service starts at 11:30am is safer than walking in cold.
 - **Payment:** like most mall restaurants in Hong Kong, expect card and mobile payment (Octopus, e-wallets) to be accepted alongside cash — you rarely need to plan around cash-only rules here.
 - **Ordering:** dishes are typically meant for sharing across the table rather than one dish per person, so order a spread and split it, the way most tables around you will be doing.
 - **Common mistake:** visitors sometimes budget only a quick bite between mall errands and end up rushing a menu that rewards a proper hour-plus sit-down.

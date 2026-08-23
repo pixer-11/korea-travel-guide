@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -66,7 +65,7 @@ The building itself does half the work. It's a restored 19th-century Kaleiçi st
 
 ## Getting there
 
-The museum sits on Yat Limanı Sokak in Selçuk, right above Antalya's old yacht harbor within the Kaleiçi (old town) walls. If you're wandering the harbor's cobbled lanes — past the Roman-era Hıdırlık Tower and the Yivli Minaret — you'll likely stumble across it without even trying.
+The museum sits on a narrow street within Antalya's Kaleiçi (old town), right above the old yacht harbor and inside the historic walls. If you're wandering the harbor's cobbled lanes — past the Roman-era Hıdırlık Tower and the Yivli Minaret — you'll likely stumble across it without even trying.
 
 Most visitors reach Kaleiçi on foot from the city center, since the old town's narrow streets aren't built for cars. Taxis and ride-hailing apps will drop you at the edge of the pedestrian zone, leaving a short walk down toward the harbor.
 
@@ -98,4 +97,3 @@ Because the rooms are small and low-ceilinged, crowding changes the experience m
 - Remember it's closed Mondays, so don't build a Monday itinerary around it
 
 The most common mistake is treating this as a five-minute photo-op between harbor views. The toys reward the visitor who actually crouches down to read the small, handwritten-style labels and notices the details — the maker's mark on a tin car, the hand-painted face on a century-old doll. That's where the museum's charm actually lives, not in its size.
-

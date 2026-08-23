@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -88,11 +87,10 @@ Because it sits right on the bay, sunset light in the late afternoon can be stri
 
 Taytay locals treat the fort as a quiet corner of town rather than a tourist checkpoint, and that's exactly how to approach it.
 
-- **Pay small and in cash.** Entrance is typically handled by a modest, informal donation collected at the gate — bring small peso bills.
+- **Carry cash.** Small peso bills are handy for tricycle fares and any small entrance donation you might encounter — cash is the norm at small heritage sites like this.
 - **Skip the crowds by timing it right.** There usually aren't crowds here at all, but weekday mornings are calmest if you want the ramparts to yourself.
 - **Pair it with the old town.** Walk the waterfront afterward toward Taytay's other Spanish-era church, San Jose, and the stilt-house neighborhoods nearby — locals treat the fort as one stop on a longer coastal stroll, not a standalone destination.
 - **Greet the caretaker.** A local caretaker or guard is often on site and happy to point out details like the original well or the direction the cannons faced — a quick "kumusta" and a few minutes of conversation goes a long way.
 - **The mistake visitors make:** treating it as a five-minute photo stop. Sit on the wall facing the bay for a while — the view of fishing boats and mangroves is the real reward, not just the ruins themselves.
 
 Because Fort Santa Isabel remains genuinely under-the-radar, it rewards travelers willing to slow down. There's no ticket booth, no gift shop, no queue — just old stone, salt air, and a bay that's watched over Taytay for four centuries.
-

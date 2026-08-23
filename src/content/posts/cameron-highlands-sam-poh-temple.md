@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -102,9 +101,9 @@ Many visitors fold it into a loop with the Big Red Strawberry Farm and the Boh S
 
 The temple is open daily from 8am to 5pm, so plan your visit inside that window — there's no early-morning or evening access.
 
-Weekdays are quiet almost all day, which makes them the easiest time to wander without dodging tour groups. On weekends, the calm window is early: 8am to 9am, before coach parties arrive.
+Weekdays are quiet almost all day, which makes them the easiest time to wander without dodging tour groups. On weekends, going early — before tour groups arrive — tends to be the calmer option.
 
-Try to avoid weekend visits between 10am and 4pm — that's when the courtyards fill up and the gate becomes a bottleneck for photos. If you're only in the highlands on a Saturday or Sunday, get there right at opening.
+Try to avoid the busiest midday hours on weekends, when the courtyards fill up and the gate becomes a bottleneck for photos. If you're only in the highlands on a Saturday or Sunday, get there right at opening.
 
 Cameron Highlands' cooler climate means midday sun rarely gets brutal, but afternoon mist and light rain are common, so a light jacket and a folding umbrella are worth carrying regardless of season.
 
@@ -122,4 +121,3 @@ The mistake most visitors make is treating the gate as the whole visit and skipp
 Because it's well known and easy to combine with other Brinchang stops, tour buses do treat it as a checklist item. Going early on a weekday, or right at 8am on a weekend, is the simplest way to have the courtyards mostly to yourself before the coaches roll in.
 
 No booking is needed — you simply walk in during opening hours. If you want a calmer, more contemplative visit rather than a crowded photo-op, timing is really the only variable that matters here.
-

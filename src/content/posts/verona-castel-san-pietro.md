@@ -59,7 +59,6 @@ faq:
     a: Most visitors spend 30–45 minutes at the terrace, plus 10–20 minutes each way for the walk or funicular ride up and down.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -106,10 +105,9 @@ Because it's a well-visited spot with a strong reputation among visitors, don't 
 Treat this as a short, focused outing rather than a half-day excursion — that's how most people who live nearby actually use it.
 
 - **Pay nothing, or almost nothing**: the terrace itself is free to access; only the funicular ride typically carries a small fare, payable at the base station.
-- **Time it around the theatre**: if there's a performance at the Roman Theatre below, the terrace fills with people watching or listening from above — a genuinely good reason to time your visit around a show evening, within the site's daytime hours.
+- **Time it around the theatre**: if there's a daytime rehearsal or matinee at the Roman Theatre below, the terrace fills with people watching or listening from above — worth checking the schedule before you climb up, since the site itself closes in the late afternoon.
 - **Skip the queue logic**: there's no ticket booth to reserve ahead for the terrace itself, so the only real strategy is arriving before the late-morning surge.
 - **Bring water, not much else**: there are no shops or cafés right at the top, so grab something to drink before you climb or ride up.
 - **The common mistake**: tourists often assume they can tour the castle's interior. They can't — it's closed to visitors — so don't build your schedule around going inside.
 
 Combine the visit with a walk across Ponte Pietra on the way back down; the bridge itself, rebuilt after WWII bombing using original Roman stones where possible, is worth the slow crossing.
-

@@ -63,12 +63,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-This is the working royal residence of Cambodia's king, not a museum piece. Built from 1866 as the Cambodian monarchy resettled in Phnom Penh, it's one of the country's clearest showcases of Khmer palace architecture — tiered roofs, gilded spires, and walls that glow ochre-yellow in the late afternoon sun.
+This is the working royal residence of Cambodia's king, not a museum piece. Built as the Cambodian monarchy resettled in Phnom Penh, it's one of the country's clearest showcases of Khmer palace architecture — tiered roofs, gilded spires, and walls that glow ochre-yellow in the late afternoon sun.
 
 ## Getting there
 
@@ -81,7 +80,7 @@ Tuk-tuks are the easiest option if you're coming from further out — drivers al
 The complex is really a walled city-within-a-city, and you move through it as a loop rather than a single building.
 
 - **Throne Hall** — the soaring, cross-shaped centerpiece, still used for coronations and state ceremonies
-- **Silver Pagoda** — floored with over 5,000 silver tiles, most now covered by carpet to protect them, housing a jewel-encrusted Emerald Buddha
+- **Silver Pagoda** — named for its silver-tiled floor, much of it now covered by carpet to protect it, housing a jewel-encrusted Emerald Buddha
 - **Napoleon III Villa** — a cast-iron pavilion gifted by France, oddly elegant against the Khmer rooftops
 - **Royal gardens** — manicured lawns and frangipani trees between the main structures, good for catching your breath
 

@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You smell the heat before you see anything — dust and hot tin roofing rising off a compound ringed with rusted barbed wire. This is Coco Prison, formally the Phu Quoc Prison History Museum, and it doesn't ease you in. Within the first few paces you're already looking at reconstructed cages.
@@ -101,7 +100,7 @@ There's minimal shade, so the tin-roofed sections offer welcome relief from the 
 
 The museum is open every day from 7am to 5pm, so there's no risk of a closed gate if you plan ahead. Early morning is the way to do it — before the heat sets in and before tour buses arrive.
 
-Weekday mornings between 7am and 9am are the quietest stretch, and on weekends that window narrows to 7am–8am. After that, particularly on weekends, the site fills up and stays busy straight through to closing at 5pm. If you're on a tight schedule, aim for a weekday.
+Mornings tend to be the quietest stretch. After that, particularly on weekends, the site fills up and stays busy straight through to closing at 5pm. If you're on a tight schedule, aim for a weekday.
 
 ## How to visit like a local
 

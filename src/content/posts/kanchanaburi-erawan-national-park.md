@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Erawan is worth the drive
@@ -90,7 +89,7 @@ From the park entrance, a marked trail follows the stream past all seven tiers. 
 
 Each tier has its own personality. The lower pools near the entrance are wide and calm, popular for a first dip. Higher up, the water narrows into chutes and small cascades where you can sit directly under the flow.
 
-Tier 2, known as "Wang Macha," and Tier 4 are usually the most photographed for their layered, staircase look. Swimming is allowed at every tier except where signs restrict it near slippery rock faces.
+Tier 2 and Tier 4 are usually the most photographed for their layered, staircase look. Swimming is allowed at every tier except where signs restrict it near slippery rock faces.
 
 Bring:
 - Water shoes (the rocks are sharp and slick)

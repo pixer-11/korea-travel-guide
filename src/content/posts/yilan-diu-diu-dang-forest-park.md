@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,17 +91,17 @@ Because it's an open, unticketed plaza rather than an enclosed park, most visito
 
 The park is open 24 hours every day, which gives you real flexibility. That also means lighting changes the mood entirely — daylight shows off the engineering of the steel canopy, while evening lets the structure's lines stand out against the sky and any built-in lighting.
 
-Weekends get busy between 7am and 6pm, when day-trippers pass through the station in waves. If you want the plaza closer to empty for photos, aim for a weekday morning or after dinner, once the tour groups have thinned out.
+Weekends tend to get busier, when day-trippers pass through the station in waves. If you want the plaza closer to empty for photos, aim for a weekday morning or after dinner, once the tour groups have thinned out.
 
 ## How to visit like a local
 
 Locals treat this less as an attraction to plan around and more as scenery they pass through on the way somewhere else — the train station, the old streets, or the night market a short walk away. Take the same approach.
 
 - **Timing**: avoid the 7am–6pm weekend crush; a weekday or an evening pass gets you a quieter plaza.
-- **Duration**: 15-20 minutes is enough unless you're taking photos.
+- **Duration**: a short stop is enough unless you're taking photos.
 - **Cost**: it's a free public plaza — there's no ticket booth and no gate.
 - **Etiquette**: it's a functional transit forecourt as much as a sculpture park, so keep walkways clear for commuters with luggage.
-- **Mistake to avoid**: don't build a whole afternoon around it. It's small, and visitors who expect a full-scale amusement park (its official category, oddly enough) often leave underwhelmed if they haven't paired it with the surrounding area.
+- **Mistake to avoid**: don't build a whole afternoon around it. It's small, and visitors who expect a full-scale amusement park often leave underwhelmed if they haven't paired it with the surrounding area.
 
 Combine your visit with Yilan's covered old street markets or a short taxi ride to the Luodong area, both popular ways locals and visitors alike stretch a station stopover into a half-day out.
 

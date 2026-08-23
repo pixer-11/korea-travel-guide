@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -78,7 +77,7 @@ At 4.7 stars from over 200 reviewers, it's punching well above its size. This is
 
 Langham Place sits right above Mong Kok MTR Station — take Exit C3 and you're essentially inside the mall already. The tower is split into odd zigzagging escalator banks, which trips up first-timers.
 
-Beans Cafe is on Level 4A, shop no. 7. Look for the mall directory near the main atrium escalators; 4A is a mezzanine level, easy to miss if you're riding straight through to the cinema floors above.
+Beans Cafe is tucked into one of the mall's upper mezzanine levels. Look for the mall directory near the main atrium escalators; 4A is a mezzanine level, easy to miss if you're riding straight through to the cinema floors above.
 
 ## What to expect
 
@@ -88,7 +87,7 @@ It's priced mid-range for Hong Kong café culture: not a bargain, not splurge te
 
 ## When to go
 
-The crowd data here is unusually specific, and worth following. On weekdays, it's quietest from 4pm to 10pm — basically the whole back half of the day. Weekends flip the pattern: things stay busy from 1pm to 8pm, and only really empty out after 9pm.
+The crowd data here is unusually specific, and worth following. On weekdays, it tends to quiet down later in the day — basically the whole back half of the day. Weekends flip the pattern: things stay busier through the afternoon and evening, easing off later at night.
 
 If you want a table to yourself, that means:
 

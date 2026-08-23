@@ -66,7 +66,6 @@ faq:
     a: Yes — the open plazas, riverside seating, and casual food stalls make it an easy, low-key stop for families, especially in the cooler evening hours.
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You spot the tower before you spot the town. Kuantan 188 rises above the low rooftops of Jalan Besar, its lattice frame catching the last orange light as the Kuantan River slides past below.
@@ -105,7 +104,7 @@ Give yourself an hour for the view and a slow lap of the promenade — longer if
 
 ## When to go
 
-Weekdays are your quiet window — crowds stay light from the 10am opening right through to 11pm. Weekday evenings especially reward you with space to actually enjoy the view without jostling for a rail spot.
+Weekdays are your quiet window — crowds stay noticeably lighter than on weekends. Weekday evenings especially reward you with space to actually enjoy the view without jostling for a rail spot.
 
 Weekends flip that. Between 6pm and 11pm on Saturday and Sunday, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting.
 
@@ -124,4 +123,3 @@ Come on a weekday evening if your schedule allows — that's when the tower and 
 - Don't rush the tower visit — locals treat it as a slow-evening hangout, not a five-minute photo stop
 
 The biggest mistake visitors make is treating this as a quick daytime photo op and missing the lit-up, breeze-cooled evening version, which is when the place actually comes alive.
-

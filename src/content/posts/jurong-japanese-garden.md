@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -88,14 +87,14 @@ Driving is straightforward too, with parking near the Chinese Garden side; from 
 
 The park runs 5:30am to midnight every day, which is unusually generous for a Singapore green space. Early morning is genuinely rewarding here — soft light on the water, joggers rather than crowds, and cooler air before the humidity builds.
 
-Weekends pick up between 9am and 10pm, so if you want the place to yourself, aim for a weekday morning or slip in after dinner for a quiet evening walk. Late afternoon light through the pines is worth timing your visit around if photography matters to you.
+Weekends tend to be busier, so if you want the place to yourself, aim for a weekday morning or slip in after dinner for a quiet evening walk. Late afternoon light through the pines is worth timing your visit around if photography matters to you.
 
 ## How to visit like a local
 
 This is still a quiet corner of Jurong Lake Gardens, not a tourist circuit stop, so treat it the way nearby residents do: as a place to walk, not a photo-op to tick off.
 
 - **Go early or late** — before 8am or after 6pm avoids the weekend peak and gives you the softest light.
-- **No entry fee** — the garden is free and unstaffed at the gate, so there's no ticket line or booking to worry about.
+- **No entry fee** — so there's no ticket line or booking to worry about.
 - **Stay on the paths** — the raked gravel and moss beds are for viewing, not walking on; locals are strict about this unspoken rule.
 - **Bring water, not food** — there are few vendors inside, and eating spots are limited, so treat it as a walk-and-leave stop.
 - **Combine it with Chinese Garden** — most regulars walk both in one visit since they share the same lake and entrance area.

@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -90,7 +89,7 @@ Inside, the village splits into themed lanes: Wenchang Street for crafts, a wate
 - **Formosa Puppet Art Museum area** — glove-puppet (budaixi) demonstrations, a Taiwanese art form with centuries of history.
 - **Craft workshops** — indigo dyeing, paper umbrella painting, and traditional pastry-making, most with hands-on stations.
 - **Xiqu Center / outdoor theatres** — scheduled Taiwanese opera and puppet shows throughout the day.
-- **Snack stalls** — try Yilan-style scallion pancakes and mochi-like glutinous rice sweets sold along the main lane.
+- **Snack stalls** — look for regional Yilan snacks along the lanes if you want a quick bite between workshops.
 
 Give yourself three to four hours minimum. If you want to catch a full performance schedule or linger in the workshops, a half day is more realistic.
 
@@ -114,4 +113,3 @@ This is one of Taiwan's most-visited cultural sites, so the smart move is beatin
 - The common tourist mistake is treating this as a quick one-hour photo stop. The workshops and performances are the actual substance — rushing through misses most of what makes it worthwhile.
 
 Wear shoes you don't mind getting a little dusty; the lanes are brick and gravel, and the site is large enough that you'll cover real ground between the river paths and the craft streets.
-

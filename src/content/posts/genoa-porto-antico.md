@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -93,7 +92,7 @@ The aquarium is the anchor attraction, and it deserves two to three hours minimu
 - A recreated Amazon rainforest habitat
 - Penguins visible both above and below water
 
-Beyond the aquarium, Porto Antico rewards wandering. The Bigo lift lifts you 40 meters above the marina for a rooftop view of the port and the pastel-colored buildings stacked behind it. Galata Museo del Mare, Europe's largest maritime museum, sits a short walk along the water and covers Genoa's seafaring history from galleys to transatlantic liners.
+Beyond the aquarium, Porto Antico rewards wandering. The Bigo lift raises you above the marina for a rooftop view of the port and the pastel-colored buildings stacked behind it. Galata Museo del Mare, Europe's largest maritime museum, sits a short walk along the water and covers Genoa's seafaring history from galleys to transatlantic liners.
 
 In summer, a floating swimming pool opens right on the water — a strange, wonderful thing, swimming laps with container ships and old lighthouses as your backdrop. Kids gravitate to the biosphere, a glass globe housing tropical plants and butterflies, moored just offshore.
 
@@ -103,7 +102,7 @@ For food, the promenade is lined with casual restaurants and gelato counters. Fo
 
 Porto Antico itself never closes; the outdoor promenade is accessible 24 hours a day. But the aquarium, museums, and biosphere run on their own daytime schedules, so confirm hours before you go, especially outside peak season.
 
-Weekends get busy fast. Crowd data shows the calmest window is 7am to 9am on Saturday and Sunday, before the day-trippers arrive. Things build steadily from there, with the heaviest crowds between 2pm and 11pm on weekends — try to time your visit around that stretch.
+Weekends get busy fast. Crowd data shows the calmest window is early weekend mornings, before the day-trippers arrive. Things build steadily from there, with weekends seeing the heaviest crowds — try to time your visit around that stretch.
 
 Weekday mornings tend to be gentler across the board, especially if you can visit outside Italian school holiday periods in spring and summer.
 

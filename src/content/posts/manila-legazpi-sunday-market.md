@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -100,7 +99,7 @@ Come early and treat it like a breakfast outing, not a tourist stop — that's g
 
 Cash is essential. Many small vendors here don't take cards or mobile payment, and exact change speeds things up at busy food stalls. ATMs are available in nearby Ayala Center if you need to withdraw beforehand.
 
-There's no formal queue system — you order directly at each stall's counter and wait nearby. At popular food stands, expect a short cluster of people rather than a single line; just make eye contern with the vendor when it's your turn.
+There's no formal queue system — you order directly at each stall's counter and wait nearby. At popular food stands, expect a short cluster of people rather than a single line; just make eye contact with the vendor when it's your turn.
 
 The market draws a steady mix of residents, expats, and visitors, so don't expect a quiet, undiscovered scene — it's a genuinely well-known Sunday fixture in Makati. The move for beating the crowd isn't secrecy, it's timing: get there within the first hour of opening.
 

@@ -74,7 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -104,7 +103,7 @@ Bring your own water and snacks — there are no real food stalls directly on th
 
 The park never closes; it's open around the clock, every day. That flexibility is part of its appeal — you can catch it lit up at night or empty at dawn.
 
-The quietest stretch, weekday or weekend, is 7am to 8am, when it's mostly runners and the occasional dog-walker. Weekends get busy fast after that: expect a steady crowd from 11am right through to 10pm. If you want space to yourself, an early start is worth the alarm.
+The quietest stretch, weekday or weekend, is early morning, with just the occasional dog-walker for company. Weekends get busy fast after that, staying busy into the evening. If you want space to yourself, an early start is worth the alarm.
 
 Evenings bring a different draw — the corridor's traffic lights and the opposite shore's lights reflect on the water, and it cools off after Hong Kong's humid daytime heat.
 
@@ -120,4 +119,3 @@ Treat this as exercise-and-air infrastructure, not a monument — that's how mos
 - As an under-the-radar spot, it rewards an early or off-peak visit far more than trying to "see everything" — pick one stretch, walk it slowly, and let the harbour do the rest
 
 Give yourself 45 minutes to an hour if you're walking a single stretch, longer if you bring a bike and want to link it with the wider harbourfront cycle path toward Quarry Bay or Shau Kei Wan.
-

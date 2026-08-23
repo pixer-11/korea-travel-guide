@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Nokor BaChey is worth the detour
@@ -101,7 +100,7 @@ Give yourself 45 minutes to an hour. It's compact compared to the temples of Ang
 
 The temple opens daily at 6:30am and stays open until 8:30pm, so early morning or early evening both work well if you want softer light for photos. Midday sun in Kampong Cham is intense, and there's limited shade in the open courtyard areas.
 
-Weekdays around 12pm–1pm are the quietest stretch to visit, according to local foot-traffic patterns — a good window if you want the galleries mostly to yourself. Weekends, by contrast, stay busy from around 8am right through to 8pm, so if you're set on visiting on a Saturday or Sunday, aim for the very start or end of those hours.
+Weekday midday hours tend to be quieter, offering a better chance to have the galleries mostly to yourself. Weekends tend to draw more visitors, so if you're set on visiting on a Saturday or Sunday, aim for the early morning or evening.
 
 ## How to visit like a local
 
@@ -114,4 +113,3 @@ This is still an under-the-radar stop even by Kampong Cham standards, so you won
 - **Combine it with Kampong Cham town** — the riverside promenade, Wat Nokor's own quiet grounds, and the nearby bamboo bridge to Koh Paen island (seasonal, rebuilt each dry season) make for an easy half-day loop.
 
 The mistake most visitors make is treating it as a five-minute photo stop on the way to somewhere else. Slow down here — the real interest is in how the modern temple and the ruin fit together, and that only becomes clear if you actually walk the galleries rather than snap a photo from the courtyard.
-

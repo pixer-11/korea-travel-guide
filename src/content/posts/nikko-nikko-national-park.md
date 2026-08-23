@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 The moment the road switches back up the Irohazaka slope, ears popping, you understand why this park is a different trip from the temple town below. Cedar gives way to birch, the air cools, and Lake Chuzenji appears through the trees like a sheet of hammered pewter.
@@ -74,13 +73,13 @@ Budget at least a half-day if you're only seeing Kegon Falls and the lakeshore. 
 
 ## What to see and do
 
-Kegon Falls is the park's signature sight, a 97-meter column of water dropping from Lake Chuzenji's outflow into a mist-filled gorge. Standing at the lower platform, you feel the spray before you hear the roar clearly — the sound arrives late, bouncing off wet rock walls.
+Kegon Falls is the park's signature sight, a tall column of water dropping from Lake Chuzenji's outflow into a mist-filled gorge. Standing at the lower platform, you feel the spray before you hear the roar clearly — the sound arrives late, bouncing off wet rock walls.
 
 Walk the Senjogahara boardwalks in autumn and the reeds turn the color of dry straw, ringed by peaks still holding patches of early snow. In spring, new shoots push through last year's flattened grass, and the marsh smells faintly of wet earth and pine.
 
 Yumoto Onsen's baths are milky-white and distinctly sulfurous, fed by hot springs that have drawn bathers since the area was a temple retreat centuries ago. Many inns and public bathhouses welcome day visitors for a modest fee.
 
-Ryuzu Falls, smaller and gentler than Kegon, splits into two cascades near a teahouse where you can eat kiritanpo or dango while watching the water braid over black rock.
+Ryuzu Falls, smaller and gentler than Kegon, splits into two cascades near a teahouse where you can pause for something to eat while watching the water braid over black rock.
 
 ## When to go
 
@@ -95,4 +94,3 @@ Because this is officially under-the-radar compared to Nikko's shrine circuit, y
 Pay for buses, parking, and bathhouse entry fees in cash — many smaller facilities up here don't take cards. At the onsen, follow standard Japanese bathing etiquette: wash and rinse thoroughly before entering the communal tub, and keep your towel out of the water.
 
 The mistake most visitors make is treating Nikko as a single half-day trip from Tokyo and never leaving the shrine district. Stay overnight near Chuzenji or Yumoto instead, so you can catch the boardwalks and waterfalls in the soft light of early morning or early evening, once the day-trippers have headed back down Irohazaka.
-

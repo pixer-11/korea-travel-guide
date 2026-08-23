@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -76,7 +75,7 @@ Don't skip the water itself:
 
 ## When to go
 
-Late afternoon into early evening is the sweet spot — you get the skyline in daylight, then watch it switch to night lighting without moving. The harbour is at its most crowded right before and during the 8pm light show, especially on weekends and holidays.
+Late afternoon into early evening is the sweet spot — you get the skyline in daylight, then watch it switch to night lighting without moving. The harbour is at its most crowded in the evening around the light show, especially on weekends and holidays.
 
 For a calmer visit, come in the mid-morning or early afternoon when the promenades are walkable rather than shoulder-to-shoulder. Firework displays are occasional, tied to specific holidays like Chinese New Year and National Day — check current schedules before planning around one, since these are announced separately each year.
 
@@ -84,7 +83,7 @@ For a calmer visit, come in the mid-morning or early afternoon when the promenad
 
 Victoria Harbour is one of Hong Kong's most visited sites, not a quiet corner, so plan around the crowds rather than expecting to avoid them.
 
-- Arrive by 7:30pm if you want a clear railing spot for the 8pm light show — latecomers end up several rows back.
+- Arrive early if you want a clear railing spot for the evening light show — latecomers end up several rows back.
 - Pay for the Star Ferry with an Octopus card, the same contactless card locals use for MTR, buses, and convenience stores — it's faster than buying single tickets.
 - Skip the most congested stretch of Avenue of Stars around show time; walk 5–10 minutes further along the promenade for a less packed view with nearly the same sightline.
 - The Central/Admiralty side empties out earlier than Tsim Sha Tsui, since the after-work crowd disperses once the show ends.

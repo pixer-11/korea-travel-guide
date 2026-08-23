@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Twin Lagoon is worth the boat ride
@@ -90,4 +89,4 @@ Ask your boat operator to hit Twin Lagoon first or last on the Tour A route, rat
 
 The biggest mistake visitors make is treating Twin Lagoon as a quick photo stop. Budget real time to swim through to the inner lagoon — the temperature change and the closed-in rock walls are the actual experience, not the view from the platform.
 
-Bring a underwater or waterproof camera if you have one; the visibility on a calm morning is good enough to make it worth it. And don't expect wifi, food stalls, or facilities — this is open water and rock, nothing else, so pack water and snacks on the boat beforehand.
+Bring an underwater or waterproof camera if you have one; the visibility on a calm morning is good enough to make it worth it. And don't expect wifi, food stalls, or facilities — this is open water and rock, nothing else, so pack water and snacks on the boat beforehand.

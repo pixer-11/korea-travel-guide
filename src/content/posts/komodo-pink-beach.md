@@ -79,12 +79,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Pink Beach is worth the boat ride
 
-The sand really is pink, not a marketing exaggerance. Millions of crushed red Foraminifera shells mix with white coral fragments, and in the midday sun the shoreline glows a soft, dusty rose that deepens toward coral-red at the waterline.
+The sand really is pink, not a marketing exaggeration. Millions of crushed red Foraminifera shells mix with white coral fragments, and in the midday sun the shoreline glows a soft, dusty rose that deepens toward coral-red at the waterline.
 
 It sits on the eastern side of Komodo Island, inside Komodo National Park, and it's one of only a handful of pink-sand beaches on the planet. No roads lead here. You arrive strictly by boat, which keeps the crowd smaller than the park's dragon-viewing trails.
 
@@ -114,9 +113,9 @@ Officially the site is accessible from 4am to 10pm daily, though in practice you
 
 ## When to go
 
-The measured crowd pattern here is useful: weekends get genuinely busy between 8am and 1pm, when multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later.
+The measured crowd pattern here is useful: weekends tend to be busier, as multiple day-trip boats converge at once. If you're on a flexible charter, push your visit later.
 
-Weekday evenings, from 6pm to 10pm, are the quietest window recorded, though most day-boats won't be out that late — it's more realistic for liveaboard guests anchoring overnight. Weekend afternoons and evenings after 1pm are the next best thing for a calmer stretch of sand.
+Weekday evenings tend to be quieter, though most day-boats won't be out that late — it's more realistic for liveaboard guests anchoring overnight. Weekend afternoons and evenings after 1pm are the next best thing for a calmer stretch of sand.
 
 Dry season, roughly April through November, gives the calmest seas and clearest water for snorkelling. Outside that window, swells make the crossing rougher and visibility drops.
 
@@ -131,4 +130,3 @@ Pink Beach is still under the radar compared with Komodo's dragon treks, and it 
 - **Local rhythm**: boat crews here are used to Indonesian domestic tourists as much as foreign ones, so it never feels exclusively like a tourist bubble — go with the crew's suggested anchor time rather than insisting on a fixed hour.
 
 Spend 45 minutes to an hour and a half here — enough time to swim, snorkel, and get your photos before the next stop on the itinerary calls.
-

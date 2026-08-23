@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -60,7 +59,7 @@ Silliman Hall is the oldest building on Silliman University's campus, and one of
 
 ## What you'll find inside
 
-The collection is anthropological, and it starts far earlier than the building itself. Cases hold earthenware, burial jars, and metal ornaments excavated from Negros Oriental sites, some dated to around 200 BCE.
+The collection is anthropological, and it starts far earlier than the building itself. Cases hold earthenware, burial jars, and metal ornaments excavated from Negros Oriental sites.
 
 Labels trace the region's pre-colonial trade links with China and mainland Southeast Asia. Upstairs rooms often shift toward the university's own founding-era artifacts and photographs, so the story moves from deep prehistory to early-1900s Dumaguete in a single walk-through.
 

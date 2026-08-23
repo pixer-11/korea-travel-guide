@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -83,7 +82,7 @@ It's the largest Romanesque church still standing in Europe, and it shows. The o
 
 Step through the west doors and the light shifts immediately — warm, filtered, low. Your eyes adjust slowly to the dim red-brick interior, where thick columns march off in ranks toward the distant apse.
 
-Beneath the altar sits the real draw for many visitors: a crypt holding relics attributed to 128 saints, along with what tradition holds is a thorn from the Crown of Thorns. Look up in the ambulatory for Romanesque marble reliefs, some of the finest carved work surviving from the 11th century.
+Beneath the altar sits the real draw for many visitors: a crypt holding a large collection of relics, along with what tradition holds is a thorn from the Crown of Thorns. Look up in the ambulatory for Romanesque marble reliefs, some of the finest carved work surviving from the 11th century.
 
 Give the basilica at least 30–45 minutes. Longer if you pay to visit the crypt, which typically requires a separate small fee — check current pricing at the door since it does change.
 

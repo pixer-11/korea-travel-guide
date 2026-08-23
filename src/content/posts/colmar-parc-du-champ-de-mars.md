@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -99,9 +98,9 @@ None of it demands much time — 30 to 45 minutes covers the loop — but the sh
 
 ## When to go
 
-This is a genuinely popular park, not a quiet backstreet find, and it shows during the day. Weekends from noon to 9pm are the busiest stretch, with families, joggers, and groups settling in for hours at a time.
+This is a genuinely popular park, not a quiet backstreet find, and it shows during the day. Weekends tend to be the busiest, with families, joggers, and groups settling in for hours at a time.
 
-For a calmer visit, aim for early morning. Weekday mornings between 7am and 8am are the quietest window measured here, and weekends aren't far behind at 7am to 9am. Arrive then and you'll often have the fountain and main paths largely to yourself.
+For a calmer visit, aim for early morning, on weekdays and weekends alike. Arrive then and you'll often have the fountain and main paths largely to yourself.
 
 Spring and summer bring the fullest tree canopy and the liveliest atmosphere; autumn scatters the paths with leaves and thins the crowds noticeably, which suits anyone who prefers a slower walk over a social one.
 
@@ -114,4 +113,3 @@ There's no entry fee and nothing to book — it's a public park, so you simply w
 The most common visitor mistake is treating it as a quick photo-stop squeezed between Petite Venise and the Old Town at midday, then wondering why it feels crowded and unremarkable. Give it the quiet hour instead, or swing through at dusk when the day-trippers have thinned out and the statues catch the last light.
 
 If you're cycling or walking a wider loop of Colmar, the park makes a natural rest point roughly midway between the station and the tourist center, so factor it in as a pause rather than a separate outing.
-

@@ -79,7 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -135,8 +134,7 @@ Ocean Park is a major draw for both Hong Kong families and visitors, so beating 
 - **Go up, then down.** Take the cable car to the Summit first thing, tackle Hair Raiser before the queue builds, then work your way back down via the Ocean Express in the afternoon.
 - **Pay by card or mobile.** Octopus card and major mobile wallets are widely accepted at food stalls and shops inside the park, so there's little need to carry much cash.
 - **Skip the all-day queue at Panda Village.** Pandas are calmest and least visited right after opening or in the last hour before close.
-- **Eat outside peak lunch hours.** Restaurants inside the park get slammed between noon and 1:30 PM; grabbing lunch at 11:30 AM or after 2 PM saves real time.
+- **Eat outside peak lunch hours.** Aim for an earlier or later lunch to avoid the midday rush inside the park; grabbing lunch at 11:30 AM or after 2 PM saves real time.
 - **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it — cable car up, funicular down (or vice versa) — so you're not backtracking through the same queue twice.
 
 Wear sturdy shoes; the Summit paths are steep, and you'll be on your feet most of the day.
-

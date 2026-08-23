@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why the Library of Celsus stops people mid-step
@@ -112,4 +111,4 @@ Ephesus draws heavy tour-bus traffic, so timing matters more than any other sing
 - A licensed guide at the entrance can add real context, but isn't required — informational signage exists throughout
 - Budget three to four hours to walk the full site at an unhurried pace, more if you add the Terrace Houses
 
-The single biggest mistake visitors make is treating the Library of Celsus as a quick photo stop rather than pacing themselves for the whole site. Ephesus is large, mostly unshaded, and the library sits roughly two-thirds along the standard route — arrive tired and rushed, and you'll shortchang the very thing you came to see.
+The single biggest mistake visitors make is treating the Library of Celsus as a quick photo stop rather than pacing themselves for the whole site. Ephesus is large, mostly unshaded, and the library sits roughly two-thirds along the standard route — arrive tired and rushed, and you'll shortchange the very thing you came to see.

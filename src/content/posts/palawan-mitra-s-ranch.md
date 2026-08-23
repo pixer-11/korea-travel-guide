@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -104,7 +103,7 @@ None of it is elaborate. The appeal is the setting, not the infrastructure — t
 
 Mitra's Ranch is open every day from 5am to 6pm, which means catching it at sunrise or in the golden hour before closing are both genuinely possible. Early morning is worth the effort: the air is cooler, the haze over the bay hasn't built up yet, and the light rakes low across the grass.
 
-Measured foot-traffic shows the calmest window is 7am–9am, both on weekdays and weekends. If you're visiting on a Saturday or Sunday, avoid arriving between 2pm and 6pm — that's when the crowds peak and the parking area near the entrance fills up.
+Mornings tend to be the calmest time to visit, before tour groups arrive. If you're visiting on a Saturday or Sunday, expect it to get busier in the afternoon.
 
 Midday sun is harsh and offers little shade, so if sunrise isn't realistic, aim for late afternoon instead, arriving well before the 6pm close.
 
@@ -119,4 +118,3 @@ There's no formal booking system. You simply show up, pay the entrance fee at th
 The mistake most visitors make is treating this as a quick five-minute photo stop squeezed between other tours. Give it closer to an hour — enough time to walk the grounds, sit with the view, and let the light change if you've come at sunrise or sunset.
 
 Wear shoes with grip. The paths are unpaved dirt and grass, sometimes uneven, and can turn slick if it's rained recently. Locals treat Mitra's Ranch as a relaxed half-day add-on paired with a Puerto Princesa city tour rather than a standalone destination — plan it that way and you'll get the most out of the visit.
-

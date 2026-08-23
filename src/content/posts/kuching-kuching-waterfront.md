@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -64,7 +63,7 @@ The waterfront isn't one attraction but a string of small ones. You'll pass the 
 
 Look across the river and you'll spot:
 
-- **The Astana** – the Sarawak governor's residence, built in 1870
+- **The Astana** – the Sarawak governor's residence, a colonial-era building
 - **Fort Margherita** – a whitewashed colonial fort turned museum, now closed some seasons for renovation, so check ahead
 - **The Sarawak State Legislative Assembly** – the golden, umbrella-roofed building that lights up dramatically after sunset
 

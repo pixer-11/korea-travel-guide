@@ -54,7 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come off the main road into Al-Bithnah village and the fort appears almost without warning — a squat, sand-colored tower rising off a rocky outcrop above a dry wadi bed. There's no ticket booth crowd, no tour buses idling out front. Just the fort, the mountains behind it, and the low hum of the village going about its day.
@@ -94,7 +93,6 @@ That said, the UAE sun is the real factor here, not foot traffic. Aim for the fi
 
 Treat this as a quiet detour, not a headline stop — that's how it's mostly used by people who do visit. Arrive early, ideally close to the 8am opening, both for the light and to beat any midday heat building up in the exposed courtyard.
 
-- There's no ticket counter or paid entry to plan for at a landmark this size, but bring small cash just in case
 - Wear shoes with grip — the rocky base and stairs inside the tower aren't polished or railed
 - Dress modestly, as you would at any heritage site in the Emirates
 - Combine it with the Bithnah tomb site rather than treating it as a standalone trip

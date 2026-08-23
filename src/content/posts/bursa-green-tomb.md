@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -111,11 +110,10 @@ Open every day of the week, 8am to 8pm, so an early arrival or a late-afternoon 
 
 Treat it as what it is: an active place of worship and a burial site, not just a photo backdrop. Dress modestly — shoulders and knees covered — and remove your shoes before stepping onto the carpeted interior, as you would at any mosque or türbe in Turkey.
 
-Entry itself is free, so there's no ticket queue to plan around, but the courtyard still fills up fast once buses arrive. Arriving right at 8am gives you the tilework in near-silence, which is the whole point of coming.
+There's no ticket queue to plan around, but the courtyard still fills up fast once buses arrive. Arriving right at 8am gives you the tilework in near-silence, which is the whole point of coming.
 
 Keep voices low inside — it's a functioning tomb, and Turkish visitors treat it with the same hush you'd use in a chapel. Photography is generally fine without flash, but skip it if a family is praying near the cenotaph.
 
 The mistake most first-timers make is treating this as a five-minute photo stop and rushing to the mosque below. Slow down here — the tile detail rewards a genuinely close look, and the crowds thin the moment you step past the entrance hall into the side chambers.
 
 Pair it with the Green Mosque directly downhill and, if you have another hour, the Emir Sultan Mosque and Bursa Citadel walls nearby — all walkable from the same hillside.
-

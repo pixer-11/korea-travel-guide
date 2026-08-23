@@ -38,7 +38,6 @@ quickAnswer: >-
 faq: []
 aiGenerated: true
 ---
-
 ## Why this Olympiad matters
 
 You're watching chess history land somewhere new. The Chess Olympiad is FIDE's biggest team event, and 2026 marks its first time in Central Asia, with roughly 200 national federations sending open and women's teams to compete over two packed weeks.
@@ -69,7 +68,7 @@ Between rounds, you're a ten-minute taxi ride from some of the most photographed
 
 - **Registan Square** — three monumental madrasahs faced in turquoise tilework, best seen at golden hour when the mosaics catch low sun
 - **Gur-e-Amir Mausoleum** — Timur's resting place, with a ribbed azure dome visible from several streets away
-- **Siab Bazaar** — a working market for fresh non bread, dried fruit, and spices, loud with vendors calling out prices
+- **Siab Bazaar** — a working market for fresh bread, dried fruit, and spices, loud with vendors calling out prices
 - **Shah-i-Zinda** — a narrow avenue of tiled mausoleums climbing a hillside, quieter than Registan and easy to reach on foot
 
 ## When to go and what September brings
@@ -89,4 +88,3 @@ Uzbeks follow chess closely, and Olympiad host cities usually see genuine public
 - **Avoid the mistake**: don't assume the playing venue is inside the historic center — transport time between hotel, venue, and monuments needs building into your day
 
 Confirm official dates, venue, and ticketing directly with FIDE before finalizing travel — details for a first-time host city can shift later than usual.
-

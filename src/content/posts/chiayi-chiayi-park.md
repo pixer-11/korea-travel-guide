@@ -68,14 +68,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
 Chiayi Park isn't just a green lung for the city — it's a layered timeline. Japanese colonial-era shrine ruins sit beside modern fountains, a Confucius temple, and a botanical garden feel that shifts block by block.
 
-You notice the scale first. At 26.8 hectares, it swallows joggers, tai chi groups, and school kids on scooters without ever feeling packed, even on a busy afternoon.
+You notice the scale first. It swallows joggers, tai chi groups, and school kids on scooters without ever feeling packed, even on a busy afternoon.
 
 Stone lanterns line certain paths — remnants of the old Chiayi Shrine that once stood here. Banyan trees with roots like folded curtains shade the benches, and cicadas drown out traffic noise almost completely once you're a few minutes in.
 
@@ -93,7 +92,7 @@ The Chiayi Municipal Museum sits right at the park's edge, so it's easy to fold 
 
 ## Getting there
 
-Chiayi Park sits in the East District at 264 Qiming Road, a short taxi or bike ride from Chiayi Train Station — figure on roughly 15–20 minutes by bike or a quick cab.
+Chiayi Park sits in the East District, a short taxi or bike ride from Chiayi Train Station — figure on roughly 15–20 minutes by bike or a quick cab.
 
 Public buses run from the train station area toward the park; ask your hotel for the current route number, since these shift occasionally.
 
@@ -112,7 +111,7 @@ Weekends between 8am and 8pm are the busiest stretch, so if you want the paths t
 Chiayi Park is genuinely popular with both residents and visitors, so don't expect solitude — plan around the crowds rather than hoping to avoid them entirely.
 
 - **Timing**: Arrive before 8am or after 8pm on weekends to dodge the peak window; weekday mornings are consistently calmer.
-- **Payment**: There's no entry fee, so you won't need cash or cards for the park itself — just for any snacks or bike rentals nearby.
+- **Payment**: Keep cash or a card handy for snacks or bike rentals near the park.
 - **Etiquette**: Keep noise down near the Confucius Temple and shrine ruins; these are treated as heritage sites, not just backdrops.
 - **Ordering/renting**: If you grab a YouBike, dock it at a station near the park entrance rather than wandering with it through pedestrian paths.
 - **Common mistake**: Tourists often rush through in 20 minutes aiming only for photos at the tower. Slow down — the side paths past the ponds and lantern ruins are where the park's history actually shows.
@@ -120,4 +119,3 @@ Chiayi Park is genuinely popular with both residents and visitors, so don't expe
 Bring water and bug spray in summer; the tree cover is generous, but Chiayi's heat and humidity build fast by midmorning. A folding fan or hat helps more than you'd think.
 
 If you're combining sights, the Sun Shooting Tower's observation deck gives you a useful orientation point — from up there you can spot the museum, the temple roofline, and the general shape of the park before diving back into it on foot.
-

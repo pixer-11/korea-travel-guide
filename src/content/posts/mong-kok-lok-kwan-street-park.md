@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why bother with a park called "Lok Kwan Street"
@@ -100,7 +99,7 @@ The scale is small enough to see the whole thing in one slow loop, which is exac
 
 The park never closes — it's open 24 hours, every day of the week.
 
-That doesn't mean it's always lively. Foot traffic data shows weekends run busiest from 7am to 11pm, so if you want it closer to empty, early weekday mornings before the neighbourhood wakes up are your window.
+That doesn't mean it's always lively. Weekends tend to see more use than weekdays, so if you want it closer to empty, early weekday mornings before the neighbourhood wakes up are your window.
 
 Evenings after dinner service in the surrounding streets tend to bring a second small wave, as residents walk off a meal or let kids burn off energy before bed.
 

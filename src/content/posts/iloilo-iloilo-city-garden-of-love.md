@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -102,15 +101,15 @@ Give it 30 to 45 minutes. Any longer and you've likely seen everything there is 
 
 The garden keeps the same hours every day, 6:00 AM to 9:30 PM, so there's flexibility in when you show up.
 
-For genuine quiet, aim for a weekday morning between 7am and 8am — foot traffic is at its lowest and the light through the trees is soft and low-angled, good for photos without other people wandering into frame.
+For genuine quiet, aim for a weekday morning — foot traffic tends to be at its lowest and the light through the trees is soft and low-angled, good for photos without other people wandering into frame.
 
-Weekends are calmer between 10am and 1pm than later in the day. Avoid arriving on a weekend evening between 5pm and 9pm, when local families and couples turn up in numbers and benches fill quickly.
+Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw local families and couples in larger numbers, so benches can fill quickly.
 
-Evenings after sunset have their own appeal too, with string lighting on some of the garden structures, though it's understandably busier then.
+Evenings after sunset have their own appeal too, though it's understandably busier then.
 
 ## How to visit like a local
 
-Treat it as a quick, unhurried stop rather than a planned event — that's how nearby residents use it. There's no entrance fee and nothing to book ahead; you simply walk in.
+Treat it as a quick, unhurried stop rather than a planned event — that's how nearby residents use it. It's a walk-in spot; you simply arrive.
 
 - Go early on a weekday (7am–8am) for the emptiest paths
 - On weekends, midday (10am–1pm) beats the evening crowd
@@ -119,4 +118,3 @@ Treat it as a quick, unhurried stop rather than a planned event — that's how n
 - Photos are welcome, but if a couple is using a bench or arch for a portrait, wait your turn rather than stepping into frame
 
 The mistake most visitors make is treating this like a major city park and expecting facilities, food, or crowds to navigate. There aren't any. Come for a slow, quiet 30 minutes, then head back into La Paz for the market and batchoy stalls that made the district famous in the first place.
-

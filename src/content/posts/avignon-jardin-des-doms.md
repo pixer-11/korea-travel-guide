@@ -102,7 +102,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -139,7 +138,7 @@ On weekdays, the quietest hours are 8pm to 10pm, when the day-trip crowds have c
 
 Avignon's Jardin des Doms is well-known and gets busy, so timing your visit matters more than finding a secret entrance. Aim for early morning, right after 7:30am opening, or drift up after dinner before the 10pm close — both windows are noticeably calmer.
 
-There's no admission fee, so there's nothing to book and no ticket queue to plan around; you simply walk in. The café inside operates like any French park café — order at the counter or wait for table service, and card payment is standard practice.
+There's no admission fee to worry about, so you simply walk in. The café inside operates like any French park café — order at the counter or wait for table service.
 
 The mistake most visitors make is treating this as a quick photo stop tacked onto the Palais des Papes. Locals treat it as a proper stroll: they walk the full loop, sit by the pond a while, and catch the view from more than one terrace, since the angle on the Rhône changes as you move around the rock.
 

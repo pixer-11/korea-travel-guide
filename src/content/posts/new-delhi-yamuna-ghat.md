@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -109,7 +108,7 @@ Winter mornings, roughly November through February, are peak gull season and the
 
 Arrive as close to sunrise as the day's hours allow — the light is softer, the birds are most active, and the heat hasn't set in. Opening hours vary through the week: most days it's accessible 24 hours, but Thursday runs 1:30am–8pm and Friday–Saturday 7am–9pm, so check before a late visit.
 
-This is a very popular spot, and weekends draw a steady crowd from 7am straight through to 10pm. If you want the steps to yourself, aim for the weekend quiet window between 9pm and 10pm instead, when the crowds and vendors have largely cleared out — though the seagull show will be over by then.
+This is a very popular spot, especially on weekends. If you want the steps to yourself, visit later in the evening instead, when the crowds and vendors have largely cleared out — though the seagull show will be over by then.
 
 ## How to visit like a local
 

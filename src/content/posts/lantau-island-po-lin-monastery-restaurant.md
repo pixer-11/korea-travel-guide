@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why eat at a monastery
@@ -79,7 +78,7 @@ The restaurant runs mostly on a set-menu system rather than an open à la carte 
 
 Typical dishes you'll find on the sets:
 
-- Braised mock "abalone" mushrooms
+- Mock-meat and mushroom dishes
 - Stir-fried seasonal greens
 - Silken tofu in light sauce
 - Steamed rice and clear soup
@@ -112,4 +111,3 @@ Visit the Buddha and grounds first, then eat, so you're not rushing your climb o
 Because this spot isn't especially crowded relative to the main attraction, a late-morning arrival right after the cable car opens tends to beat the worst of the group-tour rush. The most common visitor mistake is treating it as a quick snack stop — it's a proper seated meal, so build in real time rather than squeezing it between photos.
 
 Dress respectfully, as you're still within monastery grounds even while dining, and keep voices low near the temple buildings just beyond the restaurant's doors.
-

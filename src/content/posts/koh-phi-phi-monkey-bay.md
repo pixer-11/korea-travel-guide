@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -73,7 +72,7 @@ Boats typically idle just offshore rather than beaching fully, so be ready to wa
 
 Morning departures, generally before 10am, tend to reach Monkey Bay before the bulk of the day-tour fleet piles in.
 
-By midday, multiple boats can be anchored at once, which spooks the monkeys less than it crowds the sand. Afternoon light is also harsher and flatter for photos of the cliffs, while early sun rakes across the limestone at a better angle.
+By midday, multiple boats can be anchored at once, crowding the sand and unsettling the monkeys. Afternoon light is also harsher and flatter for photos of the cliffs, while early sun rakes across the limestone at a better angle.
 
 Dry season, roughly November through April, gives you calmer seas for the boat transfer and better visibility for snorkeling. Monsoon swells between June and October can make the crossing choppier and occasionally cancel smaller longtail trips.
 
@@ -90,4 +89,3 @@ Monkey Bay is well-known and firmly on the tour circuit, so don't expect solitud
 The single biggest mistake tourists make here is treating the monkeys like tame photo props. They're wild animals in a small, boat-heavy space, and bites do happen when people crowd them for selfies. Watch, photograph from a few meters back, and let them come to you rather than the other way around.
 
 Combine Monkey Bay with a longer half-day loop — Pileh Lagoon's turquoise water and Maya Bay's dramatic backdrop are both close by and make for a fuller day than Monkey Bay alone would justify.
-

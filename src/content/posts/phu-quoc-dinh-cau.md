@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -113,7 +112,7 @@ If sunset is the whole point of your visit, that's understandable — Dinh Cậu
 Dinh Cậu is a working shrine, not a tourist attraction dressed up as one — fishing families still come to pray, so keep voices down near the temple building and dress reasonably modestly (shoulders and knees covered is a safe bet).
 
 - **Best time:** early morning, well before 3pm, for a near-empty rock and softer light.
-- **Payment:** there's no entry fee; if you want to light incense or leave a small offering, donation boxes are typically near the shrine entrance — cash only, small notes.
+- **Payment:** there's no entry fee; if you want to light incense or leave a small offering, small donations are generally welcome.
 - **Etiquette:** step aside for anyone actively praying, and avoid touching offerings or ringing any bells unless you understand what they're for.
 - **The mistake tourists make:** treating it purely as a sunset photo stop and only ever seeing it at 6pm. Coming in the morning means you'll actually have room to look at the shrine itself instead of just the view.
 - **After:** walk straight into Duong Dong night market for an early dinner while the harbor is still lit up gold.

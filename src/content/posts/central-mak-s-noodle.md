@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Mak's Noodle matters
@@ -79,7 +78,7 @@ Order at the table or counter, in Cantonese or English — staff are used to bot
 
 ## Getting there
 
-The restaurant sits at 77 Wellington Street, deep in Central's old commercial grid, a short walk from Central MTR Station (Exits D1 or D2) or Sheung Wan Station (Exit E2). It's roughly a 5-8 minute walk from either, weaving past the escalators and dai pai dong-style eateries that define this stretch of the neighborhood. Look for a modest shopfront sign — it doesn't shout for attention, but the queue outside usually gives it away.
+The restaurant sits on Wellington Street, deep in Central's old commercial grid, a short walk from Central MTR Station or Sheung Wan Station (Exit E2). It's roughly a 5-8 minute walk from either, weaving past the escalators and dai pai dong-style eateries that define this stretch of the neighborhood. Look for a modest shopfront sign — it doesn't shout for attention, but the queue outside usually gives it away.
 
 ## When to go
 
@@ -93,8 +92,8 @@ Mak's is well-known, not a hidden find, so don't expect an empty room — the sm
 
 - **Time it right:** aim for the quiet windows above, especially weekday late afternoons.
 - **Expect to share a table.** Communal seating is normal in small Central eateries; don't wait for a private table to open up.
-- **Order small, order more.** Portions are intentionally modest — regulars often add a plate of noodles with shrimp roe or a vegetable side rather than expecting one bowl to fill them up.
-- **Turnover is fast.** This is a 15-20 minute meal, not a lingering one. Staff appreciate quick decisions, especially at busy times.
+- **Order small, order more.** Portions are intentionally modest — regulars often add an extra portion of noodles or a vegetable side rather than expecting one bowl to fill them up.
+- **Turnover is fast.** This is a quick meal, not a lingering one. Staff appreciate quick decisions, especially at busy times.
 - **Pay in cash or card** — either works, but having small notes ready speeds things along if a queue is forming behind you.
 - **Skip the fanciest description.** Locals don't call this "artisanal" — it's a fast, no-fuss bowl of noodles, and treating it that way is part of doing it right.
 

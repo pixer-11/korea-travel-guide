@@ -77,7 +77,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -103,7 +102,7 @@ Herons and egrets often work the shallows near the bank, especially in early mor
 
 ## When to go
 
-The garden is open 24 hours, every day, so there's no risk of arriving to locked gates. That said, weekends from 9am to 9pm are the busiest window — families, joggers and cyclists all converge on the promenade then.
+The garden is open 24 hours, every day, so there's no risk of arriving to locked gates. That said, weekends tend to draw the biggest crowds — families, joggers and cyclists all converge on the promenade then.
 
 For a quieter walk, aim for a weekday morning or early evening, when the light along the water is softer and the path is far less crowded. Evenings after dark bring a different mood: string lighting along parts of the promenade and a cooler breeze off the river, with just a handful of people out for a stroll.
 

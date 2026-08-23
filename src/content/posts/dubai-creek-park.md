@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Creek Park still matters
@@ -98,7 +97,7 @@ Multiple entrances dot the perimeter — Gate 1 near Wonderland is the one most 
 
 ## When to go
 
-Weekday mornings and evenings are calm, but the real gap in the crowd data is late at night: 10–11pm on weekdays is the quietest stretch by far.
+Weekday mornings and evenings are calm, and late nights on weekdays tend to be quiet too.
 
 On weekends, arrive between 8am and 11am if you want the paths to yourself. Crowds build steadily from midday and by 3pm through closing — as late as 11pm Friday and Saturday nights — the park fills with families, picnickers, and joggers escaping the daytime heat.
 

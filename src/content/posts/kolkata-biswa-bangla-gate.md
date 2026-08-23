@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -66,7 +65,7 @@ You spot it long before you arrive: a colossal circular gate straddling the road
 
 The "gate" is a huge ring-shaped structure straddling Newtown's main boulevard, with a circular building perched on top housing a restaurant and viewing gallery. By day it's a striking piece of engineering against flat, open sky. By night, LED lighting turns the whole ring into a slowly shifting color wheel, visible from blocks away.
 
-Inside, the restaurant serves a mixed menu — Bengali classics alongside Chinese and Italian dishes — with the main draw being the setting rather than any single dish. You're paying for the view and the novelty of eating inside a landmark, not a culinary pilgrimage.
+Inside, the restaurant serves a general multi-cuisine menu, with the main draw being the setting rather than any single dish. You're paying for the view and the novelty of eating inside a landmark, not a culinary pilgrimage.
 
 ## Getting there
 

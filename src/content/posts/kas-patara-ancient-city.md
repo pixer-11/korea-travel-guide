@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Patara is worth the detour
@@ -93,7 +92,7 @@ Bring water and sun protection — there's very little shade once you're past th
 
 ## The beach at the end of it
 
-Patara's other claim to fame is the beach beyond the dunes — 18km of pale sand backed by Mediterranean scrub, largely undeveloped because it's a protected loggerhead turtle nesting site. Combine ticket and towel: many visitors do ruins first, swim after.
+Patara's other claim to fame is the beach beyond the dunes — a long stretch of pale sand backed by Mediterranean scrub, largely undeveloped because it's a protected loggerhead turtle nesting site. Combine ticket and towel: many visitors do ruins first, swim after.
 
 There's a small café setup near the beach access, but options are limited, so pack snacks if you're staying past midday.
 
@@ -105,7 +104,7 @@ If you're driving, there's a car park near the ticket booth, though it fills fas
 
 ## When to go
 
-Go early. The site is open 8am to 11pm, and data on visitor patterns shows the calmest hours — both weekday and weekend — fall within that same 8am–11pm window, with the crowd surge concentrated between 12pm and 6pm on weekends.
+Go early. Opening hours vary seasonally, and data on visitor patterns shows the calmest hours — both weekday and weekend — fall within that same 8am–11pm window, with the crowd surge concentrated between 12pm and 6pm on weekends.
 
 Arriving right at opening gets you the ruins in soft morning light, before the heat sets in and before tour groups from the coast arrive. Spring and autumn are noticeably more comfortable than midsummer, when the shadeless walk between sites gets brutal by late morning.
 
@@ -119,4 +118,3 @@ Patara draws heavy visitor numbers, so the goal here isn't finding a quiet secre
 - **Combine with the beach**: bring a swimsuit and towel under your clothes so you're not carrying extra gear through the ruins.
 - The common mistake is treating this as a quick photo stop. Patara rewards slow walking — budget at least two hours for the ruins alone, more if you're adding the beach.
 - Confirm current opening hours and ticket prices before you go, since these can shift seasonally.
-

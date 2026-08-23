@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -91,7 +90,7 @@ There's no metro system here, so taxis, app-based rides, or a rented bike are th
 
 ## How to visit like a local
 
-Go early or go late — this is the single most useful piece of advice for Eco Park. Termez locals treat the 6–8am and 8–10pm windows as the real park hours; midday is for staying indoors.
+Go early or go late — this is the single most useful piece of advice for Eco Park. The early morning and late evening hours are when the park feels most alive; midday is for staying indoors.
 
 Cash is still king for small purchases like cafe drinks or bike rental, though card acceptance is spreading in Uzbekistan's cities. Bring small notes rather than large ones.
 

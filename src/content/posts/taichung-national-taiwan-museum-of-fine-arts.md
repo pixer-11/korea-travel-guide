@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -109,7 +108,7 @@ Weekends between 10am and 6pm are consistently the busiest window, especially in
 This museum is genuinely popular, well-reviewed by both residents and visitors, so plan around the crowds rather than expecting a quiet find.
 
 - **Time it right**: arrive at or near the 9am weekday opening; avoid the 10am–6pm weekend rush if you can shift to a weekday.
-- **Pay nothing**: the permanent collection has long been free to enter, though special ticketed exhibitions sometimes carry a separate fee — check signage at the entrance.
+- **Pay nothing**: the permanent collection is free to enter, though special ticketed exhibitions sometimes carry a separate fee — check signage at the entrance.
 - **No booking needed**: there's typically no reservation system for general admission, just walk in.
 - **Bring the kids**: the ground-floor children's gallery and outdoor lawns make this an easy family stop, not just a quiet-adults museum.
 - **Combine it**: pair your visit with a walk through the adjacent Calligraphy Greenway or a coffee stop in the surrounding café district — locals treat the museum grounds as a park, not just an exhibition hall.

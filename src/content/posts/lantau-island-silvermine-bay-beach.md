@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Silvermine Bay is worth the ferry ride
@@ -91,7 +90,7 @@ You can also reach Mui Wo by bus or taxi from Tung Chung, on the other side of L
 
 ## What you'll find on the sand
 
-The beach itself is long and gently curved, with soft grey-gold sand and a shallow, calm bay that's genuinely good for swimming, not just wading. A netted swimming area and lifeguard towers operate during the official beach season, roughly June through October — check current dates before you go.
+The beach itself is long and gently curved, with soft grey-gold sand and a shallow, calm bay that's genuinely good for swimming, not just wading. A netted swimming area and lifeguard towers operate during the official beach season — check current dates before you go.
 
 Behind the sand runs a paved promenade shaded by trees, popular with joggers and cyclists in the early morning. Changing rooms, showers, and toilets sit at the beach's edge, functional rather than fancy.
 
@@ -105,9 +104,9 @@ Prices run budget-friendly to mid-range — nothing fancy, but reliably fresh gi
 
 ## When to go
 
-Weekday mornings are your best window — the crowd data shows Silvermine Bay is quietest between 7am and 8am, before the day-trip crowds arrive. If you want to swim without dodging inflatables and beach umbrellas, this is it.
+Weekday mornings are your best window — the beach tends to be quieter earlier in the day, before the day-trip crowds arrive. If you want to swim without dodging inflatables and beach umbrellas, this is it.
 
-Weekends are a different story. From 1pm until as late as 11pm, the beach and the promenade fill with families, barbecue groups, and evening strollers, especially in warmer months. If you must go on a Saturday or Sunday, arrive before noon.
+Weekends are a different story. Throughout the afternoon and into the evening, the beach and the promenade fill with families, barbecue groups, and evening strollers, especially in warmer months. If you must go on a Saturday or Sunday, arrive before noon.
 
 ## How to visit like a local
 

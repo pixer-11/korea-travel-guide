@@ -30,7 +30,6 @@ heroImage:
     x: 45
     'y': 45
 ---
-
 ## Why Flint stands out
 
 You smell Flint before you see the menu. Somewhere behind the pass, char meets smoke, and the open kitchen makes no attempt to hide it.
@@ -41,9 +40,9 @@ The setting matters too. Flint sits inside the NCPA complex, Mumbai's premier pe
 
 ## What to order
 
-The dish everyone mentions first is the Flint Eggs Benny, poached eggs stacked on spicy crab cakes instead of the usual English muffin. It's a smart rework of a brunch classic, leaning into Mumbai's love of heat and seafood at once.
+The dish everyone mentions first is a brunch dish built around big, spicy flavors. It's a smart rework of a brunch classic, leaning into Mumbai's love of heat and seafood at once.
 
-On the drinks side, look for the Picante — a cocktail built around ambada leaves, a sour, slightly funky local green rarely seen behind a bar. That single ingredient tells you this isn't a copy-paste café menu.
+On the drinks side, look for cocktails that experiment with unusual local ingredients. That single ingredient tells you this isn't a copy-paste café menu.
 
 Beyond those signature picks, expect the kitchen to keep leaning on smoke and fire across both food and drink, so ask your server what's fresh off the grill that day.
 

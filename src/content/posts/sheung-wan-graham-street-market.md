@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -89,7 +88,7 @@ This isn't a sit-down destination so much as a sensory corridor. Expect:
 
 Walk slowly. The steam off a congee pot, the metallic smell of the fishmongers, the calls between vendors and regulars haggling over the last handful of choy sum — this is the actual texture of the visit, more than any single stall.
 
-At the Gage Street end near number 14, you'll find some of the older surviving stalls, a good anchor point if you want to loop back toward Peel Street's mural-lined steps afterward.
+At the Gage Street end, you'll find some of the older surviving stalls, a good anchor point if you want to loop back toward Peel Street's mural-lined steps afterward.
 
 ## When to go
 

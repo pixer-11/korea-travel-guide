@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -98,7 +97,7 @@ Hours run 10am to 7pm Monday through Thursday, and stretch to 9pm Friday through
 
 Crowd patterns are predictable here. Weekends get busy from 1pm onward as bar-hoppers and day-trippers flood 6th Street, so the 10am–11am window on Saturday or Sunday is your best shot at wandering the cases without a shoulder-to-shoulder crowd.
 
-Weekdays are gentler across the board — the whole 10am–8pm stretch runs quieter, making a Tuesday or Wednesday afternoon a solid low-key option.
+Weekdays are gentler across the board, making a Tuesday or Wednesday afternoon a solid low-key option.
 
 ## How to visit like a local
 
@@ -110,5 +109,4 @@ This is a well-known 6th Street fixture, not a hidden find, so the smart move is
 - **Common mistake**: tourists treat it as a quick photo op and skip the theater. The live sideshow act is the highlight, not an afterthought — build your visit around its schedule.
 - **Pace yourself**: because the museum is compact, pair it with a walk along 6th Street or a stop at a nearby bar rather than budgeting a whole afternoon just for the exhibits.
 
-Coming on a Friday or Saturday night after 9pm crowds thin from dinner rush but before the late bar surge can also work, since hours extend to 9pm those days.
-
+Coming on a Friday or Saturday evening, after the dinner rush thins out but before the late bar crowd peaks, can also work, since hours extend to 9pm those days.

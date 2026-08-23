@@ -59,7 +59,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Stanley Market is worth the trip
@@ -95,9 +94,9 @@ Beyond the market itself, the lanes spill out toward Stanley's waterfront promen
 
 ## When to go
 
-Both weekdays and weekends stay relatively calm from 10am to 8pm, which covers most of the market's operating hours.
+Both weekdays and weekends tend to stay relatively calm outside of peak weekend hours.
 
-The exception is the weekend midday stretch. Between 12pm and 5pm on Saturdays and Sundays, tour buses and day-trippers flood in and the alleys narrow to a shuffle.
+The exception is the weekend midday stretch. On Saturdays and Sundays around midday, tour buses and day-trippers flood in and the alleys narrow to a shuffle.
 
 If you're visiting on a weekend, aim to arrive right at 10am or hold off until after 5pm, when the light softens and the crowd thins for the walk along the waterfront.
 
@@ -114,4 +113,3 @@ The mistake most visitors make is treating the market as the entire destination 
 Avoid the narrow main alley between noon and 5pm on weekends if you dislike crowds — duck into the side lanes instead, where the same vendors sell at the same prices with far less elbow-to-elbow squeezing.
 
 Wear something you can layer or peel off easily; the covered lanes trap heat, especially from spring through early autumn, and there's little airflow once you're deep inside.
-

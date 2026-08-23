@@ -52,14 +52,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
 This is not just another old fort. The Alcázar de los Reyes Cristianos was built in the 1300s on Roman and Moorish foundations, and it wears every layer of that history at once — Mudéjar brickwork, Gothic towers, Roman stonework underfoot.
 
-Ferdinand and Isabella used it as a base during the Reconquista, and later it became a residence, a prison, and even a Inquisition headquarters. You feel that layered weight as you cross the courtyard, half fortress, half garden retreat.
+Ferdinand and Isabella used it as a base during the Reconquista, and later it became a residence, a prison, and even an Inquisition headquarters. You feel that layered weight as you cross the courtyard, half fortress, half garden retreat.
 
 ## What to see inside
 
@@ -104,4 +103,3 @@ This is one of Córdoba's most-visited sites, so the crowd-avoidance strategy ma
 - Give yourself a minimum of 90 minutes — two hours if you want time to sit by the pools in the gardens rather than just walk past them.
 
 Since this isn't an undiscovered spot, expect tour groups by mid-morning, especially Tuesday through Friday. Early or right before closing on quieter Saturday and Sunday windows are your best bets for something closer to solitude.
-

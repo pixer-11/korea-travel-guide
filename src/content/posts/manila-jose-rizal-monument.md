@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -114,7 +113,7 @@ The monument is open 24 hours every day, so there's no gate schedule to work aro
 - **Early morning (6-8am):** Cooler air, joggers circling the park, softer light for photos.
 - **Midday:** Direct sun with little shade — bring water and a hat.
 - **Sunset:** The bay-facing side glows orange, and the crowd thins as day-trippers head out.
-- **Weekends, 7am-11pm:** This is the busiest stretch, with families, tour groups, and vendors filling the plaza. If you want breathing room, go on a weekday morning instead.
+- **Weekends:** This is the busiest stretch, with families, tour groups, and vendors filling the plaza. If you want breathing room, go on a weekday morning instead.
 
 ## How to visit like a local
 
@@ -126,4 +125,3 @@ Manileños treat Rizal Park as a genuine public square, not just a tourist stop 
 - **Cash is still king** for the snack carts and souvenir stalls ringing the park, so carry small bills.
 - **The most common tourist mistake** is treating it as a five-minute photo stop and skipping the rest of Rizal Park — the Chinese Garden, Japanese Garden, and the old Spanish-era Kilometer Zero marker nearby all deserve a look.
 - **Combine it** with a walk into Intramuros, the old walled city, which sits just a few minutes away and pairs naturally with Rizal's story — he was imprisoned at Fort Santiago before his execution.
-

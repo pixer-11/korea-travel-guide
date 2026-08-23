@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -50,7 +49,7 @@ The building itself is worth a look before you even reach the exhibits. Its dark
 
 ## Getting there
 
-The museum sits right on Tianfu Square, in the heart of Qingyang District at 十二桥路18号 — the address that pops up as Tianfuguangchang or Renmin Xilu on maps.
+The museum sits right on Tianfu Square, in the heart of Qingyang District — the address that pops up as Tianfuguangchang or Renmin Xilu on maps.
 
 - Nearest metro: Tianfu Square Station, Lines 1 and 2, several exits lead directly onto the square
 - Landmark: directly opposite the Sichuan Science and Technology Museum, whose golden dome you'll spot first
@@ -79,7 +78,7 @@ Confirm opening hours and any closed days before you set out, since museum sched
 
 ## How to visit like a local
 
-Entry is free, as with most major state-run museums in China, but you'll need to register with a passport or ID at the entrance — sometimes through a self-service kiosk, sometimes at a staffed counter. Booking a timed slot online in advance is common practice locally and smooths entry if the system is in use when you visit.
+You'll need to register with a passport or ID at the entrance — sometimes through a self-service kiosk, sometimes at a staffed counter. Booking a timed slot online in advance is common practice locally and smooths entry if the system is in use when you visit.
 
 - Bring a passport (not a photo of one) — staff usually need to scan the physical document
 - Bags go through a security scan, standard at Chinese public institutions

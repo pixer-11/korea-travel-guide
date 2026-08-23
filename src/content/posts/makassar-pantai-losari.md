@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -100,7 +99,7 @@ If you're coming from Sultan Hasanuddin International Airport, it's roughly a 30
 
 The promenade never closes; it's open 24 hours every day. But it isn't really a place to see at 3am — it comes alive from late afternoon onward.
 
-Aim to arrive an hour or so before sunset to claim a spot at the railing and watch the light change over the water. Weekends between 5pm and 11pm are the busiest stretch, when local families and groups of friends flood in after dinner.
+Aim to arrive an hour or so before sunset to claim a spot at the railing and watch the light change over the water. Weekend evenings tend to be the busiest stretch, when local families and groups of friends flood in after dinner.
 
 If you'd rather have more elbow room, go on a weekday, or arrive by mid-afternoon on a weekend before the evening crowd builds.
 

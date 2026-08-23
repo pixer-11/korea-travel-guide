@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -58,7 +57,7 @@ Then you come for the detail. Half a kilometer of bas-relief carvings wraps the 
 
 ## Getting there
 
-Angkor Wat sits about 6 kilometers north of Siem Reap town, roughly a 15-20 minute ride. Most visitors hire a tuk-tuk driver for the day (often $15-25) since the wider Angkor Archaeological Park spreads over hundreds of square kilometers.
+Angkor Wat sits about 6 kilometers north of Siem Reap town, roughly a 15-20 minute ride. Most visitors hire a tuk-tuk driver for the day since the wider Angkor Archaeological Park spreads over hundreds of square kilometers.
 
 Tickets are sold only at the official Angkor Enterprise counter on the road toward the temples, not at the gate itself. Bring your passport — photos are taken on-site for your pass. A one-day pass covers Angkor Wat itself, but a three-day or seven-day pass makes far more sense once you factor in Bayon, Ta Prohm, and Banteay Srei.
 
@@ -75,7 +74,7 @@ Wear something that covers shoulders and knees — this is an active religious s
 
 ## When to go
 
-Angkor Wat opens at 5am, and the sunrise crowd gathers well before the sky lightens. If you want the classic reflection shot, arrive by 5:15am and stake out a spot at the left-hand pool.
+Angkor Wat opens early, and the sunrise crowd gathers well before the sky lightens. If you want the classic reflection shot, arrive well before sunrise and stake out a spot at the left-hand pool.
 
 Midday sun is brutal from around 11am to 2pm, with little shade inside the complex. Late afternoon, from around 4pm onward, is quieter and cooler, though the light inside the towers fades fast.
 

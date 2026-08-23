@@ -84,7 +84,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -113,9 +112,9 @@ If you're coming from the historic center around Konak Square, it's a flat, plea
 
 ## When to go
 
-Mornings are the calm window here. On weekdays it's quietest between 7am and 10am; on weekends, that stretches to 7am–11am — good news if you want photos without dodging crowds.
+Mornings are the calm window here. On weekdays it tends to be quieter earlier on, with weekends staying busier for a bit longer — good news if you want photos without dodging crowds.
 
-Try to avoid weekend afternoons and evenings, especially 1pm to 11pm, when Kordon turns into the social hub of the whole city. It's lively, but not relaxing if you're after open space.
+Try to avoid weekend afternoons and evenings, when Kordon turns into the social hub of the whole city. It's lively, but not relaxing if you're after open space.
 
 Spring and early autumn evenings bring the best light for sunset watching, with warm air off the water and less humidity than midsummer. Plan to spend anywhere from 45 minutes for a quick walk to a couple of hours if you're stopping for tea and people-watching.
 
@@ -130,4 +129,3 @@ Locals don't treat Kordon as a sight to check off — it's a place to slow down.
 - **Bring small cash** for simit carts and tea gardens — cards aren't always the default at the smaller stalls.
 
 The most common visitor mistake is showing up on a Saturday evening expecting a peaceful walk. It's a wonderful scene, but it's a crowd scene — come at dawn instead if quiet is what you're after, then return in the evening for the atmosphere once you know what you're walking into.
-
