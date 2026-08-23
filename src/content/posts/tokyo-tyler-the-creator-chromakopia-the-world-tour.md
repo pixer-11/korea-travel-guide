@@ -57,7 +57,8 @@ faq:
       museums, and Toyosu Market, all reachable within a short train ride,
       making it easy to pair the concert with sightseeing.
 aiGenerated: true
-draft: false
+draft: true
+heldReason: past-event
 eventRecurring: false
 eventOrganizer:
   name: AEGX

@@ -27,7 +27,12 @@ export function isPhotolessLive({ draft, heroUrl }) {
 // 'duplicate': a second guide to the same event (the Kuala Lumpur F✦FOREVER
 // pair, 2026-08-23) is unpublished on purpose and has a perfectly good photo —
 // the patrol must not read its draft flag as "lost its hero" and republish it.
-export const NON_PHOTO_HOLD = /^(hours|content|generic-topic|duplicate)$/;
+// 'past-event': published as upcoming, but the show had already happened a
+// year earlier (Tokyo Tyler, the Creator — Sept 2025 shipped as Sept 2026).
+// 'cancelled': the organiser called it off (Christina Aguilera Abu Dhabi,
+// 25 Sept 2026). Both keep their photos; neither may be republished by a
+// photo patrol. (2026-08-23)
+export const NON_PHOTO_HOLD = /^(hours|content|generic-topic|duplicate|past-event|cancelled)$/;
 
 /**
  * @param {object} p

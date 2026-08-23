@@ -62,7 +62,8 @@ faq:
       meal), Ferrari World, and Yas Marina Circuit, so it's easy to turn the
       concert into a full day or weekend trip.
 aiGenerated: true
-draft: false
+draft: true
+heldReason: cancelled
 eventRecurring: false
 eventOrganizer:
   name: Ethara
