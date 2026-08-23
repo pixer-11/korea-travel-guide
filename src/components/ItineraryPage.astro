@@ -11,7 +11,6 @@ import ShareRow from './ShareRow.astro';
 // back to the English source, per stop.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import Newsletter from './Newsletter.astro';
 import ItineraryEmailBox from './ItineraryEmailBox.astro';
 import ItineraryGuideCard from './ItineraryGuideCard.astro';
 import PlanTrip from './PlanTrip.astro';
@@ -532,7 +531,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
       </>
     ))}
 
-    {/* 8. FAQ, PlanTrip, Newsletter, related region link */}
+    {/* 8. FAQ, PlanTrip, related region link */}
     {faq.length > 0 && (
       <section class="faq">
         <h2>{t('post.faqTitle')}</h2>
@@ -547,14 +546,11 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
 
     <PlanTrip city={d.city} country={d.country} />
 
-    <Newsletter
-      compact
-      lang={lang}
-      region={d.city}
-      country={d.country}
-      heading={t('post.moreTips').replace('{region}', regionLabel)}
-      dek={t('region.newsletterDek').replace('{region}', regionLabel)}
-    />
+    {/* No second newsletter block here (2026-08-23): the itinerary already
+        asks for an email after Day 1 ("email me this itinerary") and the
+        site-wide popup asks once more — a third ask at the foot of an
+        8,000px page was the fourth interruption on a page with one
+        subscriber to show for it (UX audit). */}
 
     <p class="itin-related-link">
       <a href={localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}>{t('itin.moreRegion').replace('{region}', regionLabel)} →</a>
