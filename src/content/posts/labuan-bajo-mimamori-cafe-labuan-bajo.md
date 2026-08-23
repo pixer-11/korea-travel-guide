@@ -25,16 +25,9 @@ place:
   lng: 119.8776747
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 21
-      - 22
     weekdayBusy:
       - 9
-    weekendQuiet:
-      - 18
-      - 19
-      - 21
-      - 22
+    weekendQuiet: [18, 19]
     weekendBusy:
       - 8
       - 9
@@ -45,6 +38,15 @@ place:
       - 17
     venueId: ven_4541504d42516230594432523043746e64786c476137624a496843
   priceLevel: 2
+  phone: '+62 811-3800-0767'
+  openingHours:
+    - 'Monday: 6:30 AM – 8:00 PM'
+    - 'Tuesday: 6:30 AM – 8:00 PM'
+    - 'Wednesday: 6:30 AM – 8:00 PM'
+    - 'Thursday: 6:30 AM – 8:00 PM'
+    - 'Friday: 6:30 AM – 8:00 PM'
+    - 'Saturday: 6:30 AM – 8:00 PM'
+    - 'Sunday: 6:30 AM – 8:00 PM'
 tags:
   - labuan bajo
   - trendy cafe

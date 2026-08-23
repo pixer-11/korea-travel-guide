@@ -22,6 +22,15 @@ place:
   lat: 34.3927896
   lng: 132.4586272
   priceLevel: 2
+  phone: '+81 82-298-9945'
+  openingHours:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
 tags:
   - hiroshima
   - local restaurant

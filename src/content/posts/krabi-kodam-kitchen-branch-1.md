@@ -53,6 +53,15 @@ place:
       - 20
       - 21
     venueId: ven_77326f696a32654644356752415455417251427257534a4a496843
+  phone: '+66 62 723 1234'
+  openingHours:
+    - 'Monday: 11:00 AM – 10:30 PM'
+    - 'Tuesday: 11:00 AM – 10:30 PM'
+    - 'Wednesday: 11:00 AM – 10:30 PM'
+    - 'Thursday: 11:00 AM – 10:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:30 PM'
 tags:
   - krabi
   - local restaurant

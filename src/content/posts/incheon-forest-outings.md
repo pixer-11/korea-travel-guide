@@ -24,14 +24,8 @@ place:
   lng: 126.65237280000001
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
-      - 21
-      - 22
-    weekendQuiet:
-      - 10
-      - 22
+    weekdayQuiet: [10, 11, 21]
+    weekendQuiet: [10]
     weekendBusy:
       - 12
       - 13
@@ -43,6 +37,15 @@ place:
       - 19
       - 20
     venueId: ven_4d2d436f582d4e3956736f52557a6535356c6a7a7465794a496843
+  phone: '+82 32-831-3750'
+  openingHours:
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
 tags:
   - incheon
   - trendy cafe

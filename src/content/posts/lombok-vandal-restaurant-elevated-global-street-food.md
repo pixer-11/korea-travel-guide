@@ -49,6 +49,15 @@ place:
       - 21
       - 22
     venueId: ven_416b6470625349345837755230537a704f5a42494356754a496843
+  phone: '+62 878-7741-9955'
+  openingHours:
+    - 'Monday: 8:00 AM – 11:00 PM'
+    - 'Tuesday: 8:00 AM – 11:00 PM'
+    - 'Wednesday: 8:00 AM – 11:00 PM'
+    - 'Thursday: 8:00 AM – 11:00 PM'
+    - 'Friday: 8:00 AM – 11:00 PM'
+    - 'Saturday: 8:00 AM – 11:00 PM'
+    - 'Sunday: 8:00 AM – 11:00 PM'
 tags:
   - lombok
   - street food

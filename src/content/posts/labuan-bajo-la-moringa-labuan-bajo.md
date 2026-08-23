@@ -27,12 +27,7 @@ place:
   lng: 119.88641849999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 10
-      - 11
-      - 21
-      - 22
+    weekdayQuiet: [9, 10, 11, 21]
     weekdayBusy:
       - 13
       - 14
@@ -40,12 +35,7 @@ place:
       - 16
       - 17
       - 18
-    weekendQuiet:
-      - 9
-      - 10
-      - 11
-      - 21
-      - 22
+    weekendQuiet: [9, 10, 11, 21]
     weekendBusy:
       - 12
       - 13
@@ -56,6 +46,15 @@ place:
       - 18
       - 19
     venueId: ven_30704c503047764974705f523043746c4a594d635435564a496843
+  phone: '+62 823-1439-4647'
+  openingHours:
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - labuan bajo
   - local restaurant

@@ -22,6 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.4427112
   lng: 126.43043349999999
+  phone: '+82 32-747-0073'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: 10:30 AM – 9:00 PM'
 tags:
   - incheon
   - street food

@@ -47,6 +47,15 @@ place:
       - 21
       - 22
     venueId: ven_67783556686e3179425a6a52456a325a6b5633756352554a496843
+  phone: '+65 8189 6134'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - little india
   - street food

@@ -53,6 +53,15 @@ place:
       - 20
       - 21
     venueId: ven_4d4c73457444787746586b5230537a70326e69635a33484a496843
+  phone: '+62 858-1980-4421'
+  openingHours:
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 11:00 PM'
+    - 'Thursday: 7:00 AM – 11:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
   - lombok
   - local restaurant

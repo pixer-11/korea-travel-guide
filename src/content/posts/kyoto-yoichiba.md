@@ -52,6 +52,15 @@ place:
       - 21
       - 22
     venueId: ven_6f78736c677958584e6255524157414a3041594a4e64704a496843
+  phone: '+81 90-7556-1119'
+  openingHours:
+    - 'Monday: 11:00 AM – 1:00 AM'
+    - 'Tuesday: 11:00 AM – 1:00 AM'
+    - 'Wednesday: 5:00 PM – 1:00 AM'
+    - 'Thursday: 5:00 PM – 1:00 AM'
+    - 'Friday: 11:00 AM – 1:00 AM'
+    - 'Saturday: 11:00 AM – 1:00 AM'
+    - 'Sunday: 11:00 AM – 1:00 AM'
 tags:
   - kyoto
   - street food

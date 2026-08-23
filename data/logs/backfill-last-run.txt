@@ -1,29 +1,38 @@
 Places 예산: backfill 몫 25회 (오늘 사용 0/100)
 Priority: 117 itinerary stop(s) queued first
-  – sai-kung-sai-kung-town.md: nothing new (resting 60d)
-  – tokyo-fish-market-tsukiji-outer-market.md: nothing new (resting 60d)
-  – tokyo-fuglen-tokyo.md: nothing new (resting 60d)
-  – tokyo-meiji-jingu.md: nothing new (resting 60d)
-  – tokyo-senso-ji.md: nothing new (resting 60d)
-  – tokyo-teamlab-planets-tokyo-dmm.md: nothing new (resting 60d)
-  – tokyo-tokyo-ramen-street.md: nothing new (resting 60d)
-  – tsim-sha-tsui-tsim-sha-tsui-promenade.md: nothing new (resting 60d)
-  – bali-bingin-uluwatu-pak-gula.md: nothing new (resting 60d)
-  – bandung-hummingbird-eatery-space.md: nothing new (resting 60d)
-  – bugis-albert-centre-market-food-centre.md: nothing new (resting 60d)
-  – bunol-posada-venta-pilar.md: nothing new (resting 60d)
-  – causeway-bay-fashion-walk-food-street.md: nothing new (resting 60d)
-  – chiang-rai-khao-soi-restaurant.md: nothing new (resting 60d)
-  – chinatown-chinatown-complex.md: nothing new (resting 60d)
-  – fukuoka-yatai-mamichan.md: nothing new (resting 60d)
-  – gangneung-coffee-street.md: nothing new (resting 60d)
-  – gangneung-jumunjin-lighthouse.md: nothing new (resting 60d)
-  – gyeongju-hwangnidan-gil.md: nothing new (resting 60d)
-  – hiroshima-hiroshima-breakfast.md: nothing new (resting 60d)
-  – istanbul-kinu.md: nothing new (resting 60d)
-  ✓ kanazawa-kourin-sushi.md +phone +7h hours
-  ✓ koh-samui-izzy-s-specialty-coffee.md +phone +7h hours
-  ✓ koh-samui-salt-oak.md +phone +7h hours
-  ✓ krabi-into-the-forest.md +phone +7h hours
+  – abu-dhabi-third-street.md: nothing new (resting 60d)
+  ✓ ajman-yemeni-corner-restaurant.md +phone +7h hours
+  ✓ andong-talbing-go.md +phone +7h hours
+  ✓ bangkok-chinatown-night-market.md +7h hours
+  ✓ chinatown-the-xiang-restaurant.md +phone +7h hours
+  ✓ dubai-street-food-traffic-restaurant-llc.md +phone +7h hours
+  ✓ gyeongju-sugyeongsa-gyeongju-restaurant-gyeongju-vegan-hwangridan-gil-vegetarian.md +phone +7h hours
+  ✓ hanoi-banh-mi-25.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
+  ✓ hiroshima-gyumon-hiroshima.md +phone +7h hours
+  ✓ incheon-forest-outings.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
+  ✓ incheon-haesong-ssambap.md +phone +7h hours
+  ✓ krabi-kodam-kitchen-branch-1.md +phone +7h hours
+  ✓ kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 10,22h (venue not open then) — nothing left; weekendQuiet: dropped 10,22h (venue not open then) — nothing left
+  ✓ kyoto-imaya-kyoto-coffee.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 13h (venue not open then); weekendQuiet: dropped 13h (venue not open then)
+  ✓ kyoto-yoichiba.md +phone +7h hours
+  ✓ labuan-bajo-la-moringa-labuan-bajo.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
+  ✓ labuan-bajo-mimamori-cafe-labuan-bajo.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21,22h (venue not open then) — nothing left; weekendQuiet: dropped 21,22h (venue not open then)
+  ✓ labuan-bajo-taman-laut-handayani-seafood-restaurant-labuan-bajo.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
+  ✓ little-india-veera-flavours.md +phone +7h hours
+  ✓ lombok-elamu-lombok.md +phone +7h hours
+  ✓ lombok-vandal-restaurant-elevated-global-street-food.md +phone +7h hours
+  ✓ los-angeles-bad-roman.md +phone +7h hours
+  ✓ marina-bay-satay-by-the-bay.md +phone +7h hours
+  ✓ mong-kok-paradise-dynasty.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 11,22h (venue not open then); weekendQuiet: dropped 11,22h (venue not open then) — nothing left
+  ✓ nagoya-atsuta-horaiken-honten.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 14h (venue not open then) — nothing left; weekdayBusy: dropped 11,16,20h (venue not open then); weekendQuiet: dropped 14h (venue not open then) — nothing left; weekendBusy: dropped 11,16,20h (venue not open then)
 
-BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 159, no-new-data 44, no-place 31, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 416 (APPLIED).
+BACKFILL RESULT: updated 24, backlog-updated 24, already-complete 182, no-new-data 45, no-place 61, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 423 (APPLIED).

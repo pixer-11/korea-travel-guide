@@ -22,6 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.2821346
   lng: 103.86887279999999
+  phone: '+65 6538 9956'
+  openingHours:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
 tags:
   - marina bay
   - street food

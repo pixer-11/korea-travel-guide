@@ -22,6 +22,15 @@ place:
   lat: 35.8385349
   lng: 129.2090461
   priceLevel: 2
+  phone: '+82 70-7706-7007'
+  openingHours:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
 tags:
   - gyeongju
   - local restaurant

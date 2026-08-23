@@ -23,26 +23,26 @@ place:
   lng: 119.87844249999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
-      - 12
-      - 22
+    weekdayQuiet: [10, 11, 12]
     weekdayBusy:
       - 18
       - 19
       - 20
-    weekendQuiet:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 22
+    weekendQuiet: [10, 11, 12, 13]
     weekendBusy:
       - 18
       - 19
       - 20
     venueId: ven_6f44747446474975656a74523043746e313669454e31664a496843
+  phone: '+62 853-3388-8827'
+  openingHours:
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
 tags:
   - labuan bajo
   - street food

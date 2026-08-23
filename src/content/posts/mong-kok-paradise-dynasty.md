@@ -1,18 +1,18 @@
 ---
-title: 'Paradise Dynasty: Where to Eat in Mong Kok (4.8★)'
+title: "Paradise Dynasty: Where to Eat in Mong Kok (4.8★)"
 description: Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. 4.8★ (6,314 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Mong Kok
 category: restaurant
-pubDate: '2026-08-12T17:34:12.968Z'
+pubDate: "2026-08-12T17:34:12.968Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/3833904_nxoAYODC2djUj54efBSBQYZmQbq6eBL4NRT1ioEz8wE.jpg
-  credit: 'Photo: Foursquare user content (Paradise Dynasty (樂天皇朝))'
+  credit: "Photo: Foursquare user content (Paradise Dynasty (樂天皇朝))"
   license: foursquare
   source: https://foursquare.com/v/57565aec498e7fd15d42360e
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg
-    credit: 'Photo: Liuoc Dimwgha Mimdra / Wikimedia Commons (CC BY-SA 4.0)'
+    credit: "Photo: Liuoc Dimwgha Mimdra / Wikimedia Commons (CC BY-SA 4.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:HK_MK_%E6%97%BA%E8%A7%92_Mongkok_%E5%A5%B6%E8%B7%AF%E8%87%A3%E8%A1%97_Nelson_Street_%E9%9B%85%E8%98%AD%E4%B8%AD%E5%BF%83_One_Grand_Tower_mall_Plaza_Paradise_Dynasty_Restaurant_March_2021_SS2_01.jpg
 place:
@@ -29,29 +29,33 @@ place:
   busyness:
     updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
-      - 11
       - 15
-      - 22
     weekdayBusy:
       - 19
-    weekendQuiet:
-      - 11
-      - 22
     weekendBusy:
       - 17
       - 18
       - 19
       - 20
     venueId: ven_4d697151387a7a54547a50525144424163736f4d4755594a496843
+  phone: +852 2177 3456
+  openingHours:
+    - "Monday: 11:30 AM – 10:30 PM"
+    - "Tuesday: 11:30 AM – 10:30 PM"
+    - "Wednesday: 11:30 AM – 10:30 PM"
+    - "Thursday: 11:30 AM – 10:30 PM"
+    - "Friday: 11:30 AM – 10:30 PM"
+    - "Saturday: 11:30 AM – 10:30 PM"
+    - "Sunday: 11:30 AM – 10:30 PM"
 tags:
   - mong kok
   - local restaurant
-quickAnswer: Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. It's on the 2nd floor of a Nathan Road shopping block, mid-range priced, and calmest any weekday or weekend from 11am until later afternoon. Avoid weekend evenings between 5pm and 9pm, when the wait stretches long.
+quickAnswer: Paradise Dynasty in Mong Kok is best known for its rainbow xiao long bao — eight colors, eight flavors, on one steamer tray. It's on the 2nd floor of a Nathan Road shopping block, mid-range priced, and calmest any weekday or weekend from 11:30am until later afternoon. Avoid weekend evenings between 5pm and 9pm, when the wait stretches long.
 faq:
   - q: How do I get to Paradise Dynasty in Mong Kok?
     a: It's on the 2nd floor at 625 & 639 Nathan Road, a short walk from Mong Kok MTR Station (Tsuen Wan, Kwun Tong, and East Rail lines). Take an exit toward Nathan Road and look for the shop's directional signage.
   - q: When is the quietest time to visit?
-    a: Both weekdays and weekends are calmest from around 11am onward into the afternoon. It's a reliably easier window for walk-in seating than evenings.
+    a: Both weekdays and weekends are calmest from around 11:30am onward into the afternoon. It's a reliably easier window for walk-in seating than evenings.
   - q: What's the best time to avoid crowds?
     a: Skip weekend evenings between 5pm and 9pm — that's the measured busiest window, with longer waits for a table.
   - q: What should I order?
@@ -89,7 +93,7 @@ Portions are built for sharing, so come with at least one other person and order
 
 ## When to go
 
-Both weekdays and weekends stay calm from around 11am, which makes late morning through mid-afternoon the easiest window for a relaxed sit-down meal. The crunch comes later.
+Both weekdays and weekends stay calm from around 11:30am, right at opening, which makes late morning through mid-afternoon the easiest window for a relaxed sit-down meal. The crunch comes later.
 
 On weekends specifically, avoid rolling in between 5pm and 9pm — that's the measured peak, when tables turn slowly and the entrance fills with waiting groups. A weekday lunch or an early weekend meal well before 5pm gets you seated faster.
 

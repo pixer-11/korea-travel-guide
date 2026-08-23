@@ -43,6 +43,15 @@ place:
       - 22
     venueId: ven_7331455f796932516f694952347a5874357258755731334a496843
   priceLevel: 1
+  phone: '+971 52 684 2020'
+  openingHours:
+    - 'Monday: 11:00 AM – 12:30 AM'
+    - 'Tuesday: 11:00 AM – 12:30 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:30 AM'
+    - 'Friday: 11:00 AM – 1:30 AM'
+    - 'Saturday: 11:00 AM – 1:30 AM'
+    - 'Sunday: 11:00 AM – 12:30 AM'
 tags:
   - dubai
   - street food

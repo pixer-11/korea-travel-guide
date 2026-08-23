@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.0688463
   lng: -118.3995601
+  phone: '+1 310-861-4040'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Sunday: Closed'
 tags:
   - los angeles
   - new & trending

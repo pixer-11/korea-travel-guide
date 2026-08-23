@@ -26,14 +26,8 @@ place:
   lng: 105.84857699999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 21
-    weekendQuiet:
-      - 7
-      - 8
-      - 21
+    weekdayQuiet: [7, 8]
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 13
       - 14
@@ -43,6 +37,15 @@ place:
       - 18
       - 19
     venueId: ven_732d2d416a3951553539735245544e72533375335952744a496843
+  phone: '+84 942 548 214'
+  openingHours:
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
 tags:
   - hanoi
   - street food

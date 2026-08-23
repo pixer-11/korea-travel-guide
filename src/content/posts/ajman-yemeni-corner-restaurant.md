@@ -45,6 +45,15 @@ place:
       - 22
     venueId: ven_51767236347574474d555952347a585a4a78767978374d4a496843
   priceLevel: 2
+  phone: '+971 6 524 7776'
+  openingHours:
+    - 'Monday: 11:00 AM – 3:00 AM'
+    - 'Tuesday: 11:00 AM – 3:00 AM'
+    - 'Wednesday: 11:00 AM – 3:00 AM'
+    - 'Thursday: 11:00 AM – 3:00 AM'
+    - 'Friday: 11:00 AM – 3:00 AM'
+    - 'Saturday: 11:00 AM – 3:00 AM'
+    - 'Sunday: 11:00 AM – 3:00 AM'
 tags:
   - ajman
   - street food

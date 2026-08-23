@@ -22,6 +22,15 @@ place:
   lat: 1.2821061999999999
   lng: 103.8447445
   priceLevel: 2
+  phone: '+65 9729 7845'
+  openingHours:
+    - 'Monday: 11:00 AM – 10:30 PM'
+    - 'Tuesday: 11:00 AM – 10:30 PM'
+    - 'Wednesday: 11:00 AM – 10:30 PM'
+    - 'Thursday: 11:00 AM – 10:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:30 PM'
 tags:
   - chinatown
   - local restaurant

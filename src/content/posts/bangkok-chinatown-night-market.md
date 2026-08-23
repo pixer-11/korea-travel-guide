@@ -34,6 +34,14 @@ place:
       - 21
       - 22
     venueId: ven_735948696a576f4f33514352416a345a7957534c4e2d444a496843
+  openingHours:
+    - 'Monday: 4:00 PM – 2:00 AM'
+    - 'Tuesday: 4:00 PM – 2:00 AM'
+    - 'Wednesday: 4:00 PM – 2:00 AM'
+    - 'Thursday: 4:00 PM – 2:00 AM'
+    - 'Friday: 4:00 PM – 2:00 AM'
+    - 'Saturday: 4:00 PM – 2:00 AM'
+    - 'Sunday: 4:00 PM – 2:00 AM'
 tags:
   - bangkok
   - Yaowarat Chinatown Street Food

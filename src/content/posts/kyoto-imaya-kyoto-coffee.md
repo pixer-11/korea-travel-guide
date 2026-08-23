@@ -23,18 +23,23 @@ place:
   lng: 135.7558071
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 12
-      - 13
-    weekendQuiet:
-      - 12
-      - 13
+    weekdayQuiet: [12]
+    weekendQuiet: [12]
     weekendBusy:
       - 8
       - 9
       - 10
       - 11
     venueId: ven_343362766642675562584352415741494549502d7256554a496843
+  phone: '+81 75-205-5281'
+  openingHours:
+    - 'Monday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
+    - 'Tuesday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
+    - 'Wednesday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
+    - 'Thursday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
+    - 'Friday: 6:00 AM – 1:00 PM, 4:00 – 8:00 PM'
+    - 'Saturday: 6:00 AM – 1:00 PM'
+    - 'Sunday: 6:00 AM – 1:00 PM'
 tags:
   - kyoto
   - trendy cafe

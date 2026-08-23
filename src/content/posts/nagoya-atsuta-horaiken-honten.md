@@ -31,29 +31,18 @@ place:
   lng: 136.9068979
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 14
-    weekdayBusy:
-      - 11
-      - 12
-      - 13
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
-    weekendQuiet:
-      - 14
-    weekendBusy:
-      - 11
-      - 12
-      - 13
-      - 16
-      - 17
-      - 18
-      - 19
-      - 20
+    weekdayBusy: [12, 13, 17, 18, 19]
+    weekendBusy: [12, 13, 17, 18, 19]
     venueId: ven_383932483463777843703152413241363952575249524a4a496843
+  phone: '+81 52-671-8686'
+  openingHours:
+    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
 tags:
   - nagoya
   - local restaurant

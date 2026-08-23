@@ -31,21 +31,24 @@ place:
   lng: 135.7606275
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 22
     weekdayBusy:
       - 18
       - 19
       - 20
-    weekendQuiet:
-      - 10
-      - 22
     weekendBusy:
       - 18
       - 19
       - 20
     venueId: ven_67556c633659496576753252415741493871384a452d384a496843
+  phone: '+81 75-365-4188'
+  openingHours:
+    - 'Monday: 10:30 AM – 10:30 PM'
+    - 'Tuesday: 10:30 AM – 10:30 PM'
+    - 'Wednesday: 10:30 AM – 10:30 PM'
+    - 'Thursday: 10:30 AM – 10:30 PM'
+    - 'Friday: 10:30 AM – 10:30 PM'
+    - 'Saturday: 10:30 AM – 10:30 PM'
+    - 'Sunday: 10:30 AM – 10:30 PM'
 tags:
   - kyoto
   - local restaurant
