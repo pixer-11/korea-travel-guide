@@ -159,6 +159,17 @@ let DETAILS_FAILED = 0;
 let DETAILS_BUDGET = Infinity;
 let DETAILS_USED = 0;
 let DETAILS_SKIPPED = 0;
+// Text Search has its own daily cap (~100, discovered 2026-08-23 when the
+// 16:19 run spent it all — 14 posts plus 97 photo-less targets, one search
+// each — and the bulk run got 429 on its first query). Budgeted like Details:
+// this run's share from the ledger, counted per searchPlaces() call, and the
+// loop stops on its own BEFORE Google refuses, leaving the rest of the day's
+// searches to the job that runs next. PLACES_JOB names that job
+// ('publish' = scheduled 16:19, 'fill' = bulk run); the workflow sets it.
+const PLACES_JOB = process.env.PLACES_JOB || 'publish';
+let SEARCH_BUDGET = Infinity;
+let SEARCH_USED = 0;
+let STOP_REASON = '';
 // Whether the last buildLivePost skip was TRANSIENT (an overloaded vision API, a
 // missing key) rather than a real guardrail rejection. The distinction decides
 // whether the target is burned from the queue forever — see the loop in main().
@@ -325,6 +336,18 @@ async function main() {
     console.log(`  ⚠️  Places 예산 확인 실패 (${String(e.message).slice(0, 50)}) — 제한 없이 진행`);
     DETAILS_BUDGET = Infinity;
   }
+  if (USE_PLACES && !DUMMY) {
+    try {
+      const { claimSearch, describeSearch } = await import('./lib/places-budget.mjs');
+      const s = await claimSearch(PLACES_JOB);
+      SEARCH_BUDGET = s.allowance;
+      SEARCH_USED = 0;
+      console.log(describeSearch(PLACES_JOB, s));
+    } catch (e) {
+      console.log(`  ⚠️  Places 검색 예산 확인 실패 (${String(e.message).slice(0, 50)}) — 제한 없이 진행`);
+      SEARCH_BUDGET = Infinity;
+    }
+  }
 
   // Consecutive skips caused by an unreachable vision API, not by the venue.
   // The queue is a finite set that only ever shrinks — `done` has no delete path
@@ -335,7 +358,14 @@ async function main() {
   const TRANSIENT_STOP = 5;
   let transientRun = 0, transientTotal = 0;
   for (const target of queue) {
-    if (published >= POSTS_PER_RUN) break;
+    if (published >= POSTS_PER_RUN) { STOP_REASON = 'target-reached'; break; }
+    // Stop on our own ledger, not on Google's 429: the targets stay queued
+    // and the next job still has its share of today's searches.
+    if (USE_PLACES && !DUMMY && SEARCH_USED >= SEARCH_BUDGET) {
+      STOP_REASON = 'search-budget';
+      console.log(`  ⛔ 오늘 ${PLACES_JOB} 몫의 Places 검색 ${SEARCH_BUDGET}회를 다 썼습니다 — 여기서 멈춥니다 (남은 대상은 그대로 큐에; 다음 작업 몫은 남아 있음).`);
+      break;
+    }
     try {
       LAST_SKIP_TRANSIENT = false;
       const post = DUMMY
@@ -393,6 +423,7 @@ async function main() {
     } catch (err) {
       console.log(`  ⚠️  error on "${target.query}": ${err.message.slice(0, 120)}`);
       if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
+        STOP_REASON = 'quota-429';
         console.log('  ⛔ Google Places daily quota exhausted — stopping this run (targets not marked done; will retry after reset).');
         break;
       }
@@ -417,6 +448,13 @@ async function main() {
       await record('publish', DETAILS_USED);
     } catch { /* a broken ledger must not fail a successful publish run */ }
   }
+  if (SEARCH_USED > 0) {
+    try {
+      const { recordSearch } = await import('./lib/places-budget.mjs');
+      await recordSearch(PLACES_JOB, SEARCH_USED);
+    } catch { /* same: never fail the run over bookkeeping */ }
+  }
+  if (!STOP_REASON) STOP_REASON = published >= POSTS_PER_RUN ? 'target-reached' : 'queue-empty';
   const budgetNote = DETAILS_SKIPPED
     ? `\n📇 ${DETAILS_SKIPPED} post(s) published without phone/hours — the day's Places share was spent. The backfill fills these in; nothing is lost.`
     : '';
@@ -429,7 +467,7 @@ async function main() {
   // and no amount of quota would have produced a post. The reader was told to
   // wait for a reset that would change nothing. `queue` is the count BEFORE
   // this run consumed any of it.
-  console.log(`PUBLISH_SUMMARY queue=${queue.length} published=${published} targets_done=${done.size}`);
+  console.log(`PUBLISH_SUMMARY queue=${queue.length} published=${published} targets_done=${done.size} searches=${SEARCH_USED} stop=${STOP_REASON}`);
 
   // Busy-times reporting. A missing key, an exhausted account and a venue that
   // simply has no forecast all produced the same silence before, which is how
@@ -842,6 +880,7 @@ async function buildLivePost(target) {
   const { writeArticle } = await import('./lib/writer.mjs');
   const { verifyHeroImage } = await import('./lib/vision-check.mjs');
 
+  SEARCH_USED++; // one Text Search per target, budgeted in main()
   const results = await searchPlaces(target.query, { max: 5 });
   // ACCURACY-FIRST venue choice (user directive 2026-07-25): we only write about
   // a venue whose photo we can VERIFY — the venue's own self-hosted Places photo

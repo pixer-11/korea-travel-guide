@@ -93,6 +93,11 @@ jobs:
           # `inputs` covers both workflow_dispatch and workflow_call; it is empty
           # on the schedule, which is what the fallback is for.
           POSTS_PER_RUN: ${{ inputs.count || '16' }}
+          # Which share of the day's ~100 Text Searches this run draws from:
+          # the scheduled run is 'publish' (55), the bulk caller 'fill' (35).
+          # Until 2026-08-23 Text Search was unbudgeted and the 16:19 run spent
+          # the whole day's quota, so the bulk run got 429 on its first query.
+          PLACES_JOB: ${{ inputs.label == 'Backfill' && 'fill' || 'publish' }}
           COUNTRY: ${{ inputs.country }}
           # Blank on the daily run (no cap); the bulk caller passes 58 so each
           # country stops at the target instead of the biggest one running away.
@@ -546,7 +551,7 @@ jobs:
           # country-facts.json and the essentials guides are here because the
           # step above can create them for a newly added country; without them
           # staged, that work is generated and then thrown away on every run.
-          git add data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
+          git add data/places-budget.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
           new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
           echo "new=$new" >> "$GITHUB_OUTPUT"
@@ -910,6 +915,17 @@ jobs:
           elif [ -n "$QUEUE" ] && [ "$QUEUE" -lt 40 ] 2>/dev/null; then
             export ZERO_NOTE="⚠️ 남은 발행 후보 ${QUEUE}개 — 곧 바닥납니다. 도시 추가가 필요합니다."
           fi
+          # Why the run stopped, in its own words (generate.mjs prints stop=…
+          # since 2026-08-23, when a day of "한도 소진(또는 목표치 도달)" turned
+          # out to be the Text Search quota — spent entirely by the 16:19 run
+          # because that call was never budgeted). search-budget is NORMAL:
+          # the run used its share and left the rest for the next job.
+          STOP=$(grep -o 'PUBLISH_SUMMARY .*stop=[a-z0-9-]*' /tmp/gen.log 2>/dev/null | head -1 | grep -o 'stop=[a-z0-9-]*' | cut -d= -f2 || true)
+          SEARCHES=$(grep -o 'searches=[0-9]*' /tmp/gen.log 2>/dev/null | head -1 | cut -d= -f2 || true)
+          case "${STOP:-}" in
+            search-budget) export ZERO_NOTE="${ZERO_NOTE:-}ℹ️ 오늘 이 작업 몫의 Places 검색 ${SEARCHES:-?}회를 다 써서 멈췄습니다(정상 — 남은 대상은 내일, 다음 작업 몫은 남아 있음). 검색 100회 중 글이 되는 건 약 13%라 하루 ~13편이 지금 상한입니다." ;;
+            quota-429)     export ZERO_NOTE="${ZERO_NOTE:-}🚨 구글 Places가 429(한도 초과)로 거절 — 장부보다 먼저 바닥났습니다. 장부 밖에서 검색을 쓰는 작업이 있는지 확인 필요." ;;
+          esac
           # The bulk-fill run has no Places share of its own — it lives on what
           # the four budgeted jobs leave over, which on a normal day is nothing.
           # "새 글 0개 ⚠️" every evening for that is noise the owner has to read
@@ -918,7 +934,8 @@ jobs:
           # A bulk run that published nothing BECAUSE its share was 0 says
           # nothing; every other zero (queue empty, API dead) still reports.
           SHARE=$(grep -o 'Places 예산: publish 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
-          if [ "${{ inputs.label || 'Daily publish' }}" = "Backfill" ] && [ "${NEW:-0}" = "0" ] && [ "${SHARE:-x}" = "0" ] && [ "${QUEUE:-x}" != "0" ]; then
+          SSHARE=$(grep -o 'Places 검색 예산: [a-z]* 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
+          if [ "${{ inputs.label || 'Daily publish' }}" = "Backfill" ] && [ "${NEW:-0}" = "0" ] && { [ "${SHARE:-x}" = "0" ] || [ "${SSHARE:-x}" = "0" ]; } && [ "${QUEUE:-x}" != "0" ]; then
             echo "bulk run: Places share 0 today, nothing to attempt — no Telegram (normal)"
           else
             bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"

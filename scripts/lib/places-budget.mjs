@@ -31,14 +31,50 @@ const LEDGER = fileURLToPath(new URL('../../data/places-budget.json', import.met
 export const DAILY_CAP = Number(process.env.PLACES_DAILY_CAP || 100);
 export const SHARES = { publish: 40, backfill: 25, refresh: 20, quality: 15 };
 
+// ── Text Search — the SECOND pot (2026-08-23) ────────────────────────────
+// The Details ledger above assumed Text Search was "75k/day, effectively
+// free" (backfill.yml). It is not: on 2026-08-23 Google answered 429 for
+// quota metric SearchTextRequests after ~110 searches, with this ledger
+// reading 0/100 — the 16:19 publish run alone spent them (14 posts + 97
+// targets whose candidates had no verifiable photo, one search each), and
+// the 18:46 bulk run was refused on its first query. Same shape as Details:
+// a daily cap, shares per job, the remainder handed down. `publish` is the
+// scheduled 16:19 run, `fill` the bulk run that follows it.
+export const SEARCH_DAILY_CAP = Number(process.env.PLACES_SEARCH_DAILY_CAP || 100);
+export const SEARCH_SHARES = { publish: 55, fill: 35, other: 10 };
+
 const today = () => new Date().toISOString().slice(0, 10);
 
 async function load() {
   try {
     const j = JSON.parse(await readFile(LEDGER, 'utf8'));
-    if (j.date === today()) return j;
+    if (j.date === today()) { j.search ||= { spent: 0, byJob: {} }; return j; }
   } catch { /* first run, or a new day */ }
-  return { date: today(), spent: 0, byJob: {} };
+  return { date: today(), spent: 0, byJob: {}, search: { spent: 0, byJob: {} } };
+}
+
+/** How many Text Search calls `job` may make right now (same rules as claim()). */
+export async function claimSearch(job) {
+  const share = SEARCH_SHARES[job] ?? SEARCH_SHARES.other;
+  const led = await load();
+  const remainingToday = Math.max(0, SEARCH_DAILY_CAP - led.search.spent);
+  const alreadyMine = led.search.byJob[job] || 0;
+  const allowance = Math.max(0, Math.min(share - alreadyMine, remainingToday));
+  return { allowance, spentToday: led.search.spent, remainingToday };
+}
+
+/** Record the Text Search calls a job actually made. */
+export async function recordSearch(job, used) {
+  if (!Number.isFinite(used) || used <= 0) return;
+  const led = await load();
+  led.search.spent += used;
+  led.search.byJob[job] = (led.search.byJob[job] || 0) + used;
+  led.updated = new Date().toISOString();
+  await writeFile(LEDGER, JSON.stringify(led, null, 1) + '\n', 'utf8');
+}
+
+export function describeSearch(job, { allowance, spentToday }) {
+  return `Places 검색 예산: ${job} 몫 ${allowance}회 (오늘 사용 ${spentToday}/${SEARCH_DAILY_CAP})`;
 }
 
 /**

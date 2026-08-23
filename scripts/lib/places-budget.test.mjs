@@ -64,6 +64,36 @@ import { SHARES, DAILY_CAP } from './scripts/lib/places-budget.mjs';
 console.log(String(Object.values(SHARES).reduce((a, b) => a + b, 0) === DAILY_CAP));
 `, 'true');
 
+// 2026-08-23: 텍스트 검색도 하루 ~100회에서 429가 났다. Details 장부와 같은
+// 규칙의 두 번째 주머니 — 발행이 다 쓰면 대량발행이 첫 검색부터 거절당하던 것.
+t('검색 주머니는 Details 장부와 따로 센다', `
+import { claim, claimSearch, recordSearch, record } from './scripts/lib/places-budget.mjs';
+await record('publish', 30);            // Details 30 사용
+const s = await claimSearch('publish'); // 검색은 아직 0 사용 → 자기 몫 55
+const d = await claim('publish');       // Details 몫 40-30 = 10
+console.log(s.allowance + ',' + s.spentToday + ',' + d.allowance);
+`, '55,0,10');
+
+t('발행이 검색 몫을 다 써도 대량발행 몫은 남는다', `
+import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
+await recordSearch('publish', 55);
+const f = await claimSearch('fill');
+const p = await claimSearch('publish');
+console.log(f.allowance + ',' + p.allowance);
+`, '35,0');
+
+t('검색 총량이 바닥나면 0', `
+import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';
+await recordSearch('publish', 100);
+const f = await claimSearch('fill');
+console.log(f.allowance + ',' + f.remainingToday);
+`, '0,0');
+
+t('검색 몫 합계가 검색 한도와 같다', `
+import { SEARCH_SHARES, SEARCH_DAILY_CAP } from './scripts/lib/places-budget.mjs';
+console.log(String(Object.values(SEARCH_SHARES).reduce((a, b) => a + b, 0) === SEARCH_DAILY_CAP));
+`, 'true');
+
 t('모르는 작업 이름은 거부한다', `
 import { claim } from './scripts/lib/places-budget.mjs';
 try { await claim('nope'); console.log('accepted'); } catch { console.log('rejected'); }

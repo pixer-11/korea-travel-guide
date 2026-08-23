@@ -70,10 +70,13 @@ jobs:
         id: phase
         run: |
           PHASE=$(node scripts/fill-phase.mjs get)
-          # Batch size comes from the ONE call that is actually rationed. A post
-          # costs 1 Text Search (75k/day — effectively free) and exactly 1 Place
-          # Details (~100/day — the real ceiling), taken once after the venue is
-          # chosen, not per candidate. Measured: 2026-07-27 left ~57 Details of
+          # Batch size comes from the calls that are rationed. A post costs 1 Text
+          # Search and exactly 1 Place Details, taken once after the venue is
+          # chosen, not per candidate. (This comment used to call Text Search
+          # "75k/day — effectively free". On 2026-08-23 Google capped it at ~100
+          # a day for this project too, and the 16:19 run spent all of it before
+          # this run started — so Text Search is now budgeted in the same ledger,
+          # publish 55 / fill 35: scripts/lib/places-budget.mjs.) Measured: 2026-07-27 left ~57 Details of
           # headroom after the 16-post publish, and 2026-07-28's post-publish run
           # spent 21 more with zero 429s. So the window holds ≥73 calls a day and
           # publish only claims 16 of them.
