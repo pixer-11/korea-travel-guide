@@ -1149,7 +1149,12 @@ html[lang^='zh'] .cover-inner h1 {
 .nl-copy { min-width: 0; }
 .nl-card { background: #fbf6ee; border-radius: 16px; padding: 1.5rem 1.6rem; align-self: stretch; min-width: 0;
            display: flex; flex-direction: column; justify-content: center; }
-.nl-card .nl-bonus { margin: 0 0 0.9rem; color: var(--ink); font-weight: 600; display: flex; align-items: center; gap: 0.5rem; }
+/* The card is cream (#fbf6ee) in BOTH themes, so nothing inside it may use a
+   theme token: --ink flips to #f2ece1 in dark mode and the bonus line became
+   cream-on-cream (242,236,225 on 251,246,238 — invisible; UX audit
+   2026-08-23). Every colour inside .nl-card is pinned to its light value. */
+.nl-card { color: #201c17; }
+.nl-card .nl-bonus { margin: 0 0 0.9rem; color: #201c17; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; }
 @container (max-width: 719px) {
   .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
   .nl-form { flex-direction: column; }
@@ -1546,16 +1551,16 @@ main:focus { outline: none; }
   border: 1.5px solid var(--line-strong);
   color: var(--ink);
 }
-.nl-card .nl-form input::placeholder { color: var(--muted); }
+.nl-card .nl-form input::placeholder { color: #6f6659; }
 .nl-card .nl-form input:focus-visible {
   outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent);
 }
 .nl-card .nl-form .btn-primary { background: var(--cta); color: #fff; }
 .nl-card .nl-form .btn-primary:hover { background: var(--cta-deep); color: #fff; }
-.nl-card .nl-note { color: var(--ink-soft); }
+.nl-card .nl-note { color: #4a443c; }
 .nl-card .nl-note-ok { color: #2f7a52; }
-.nl-card .nl-note-ok a { color: var(--accent-text); }
-.nl-card .nl-note-err { color: var(--accent-text); }
+.nl-card .nl-note-ok a { color: #a5352c; }
+.nl-card .nl-note-err { color: #a5352c; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) .nl-card .nl-form .btn-primary { background: var(--cta); color: #fff; }
   :root:not([data-theme='light']) .nl-card .nl-form input { background: #fff; color: #201c17; }
