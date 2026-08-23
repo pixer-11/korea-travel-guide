@@ -9,16 +9,6 @@ category: event
 pubDate: '2026-07-23'
 eventStartDate: '2026-09-09'
 eventEndDate: '2026-09-10'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/f/f6/Tyler%2C_the_Creator_performing_%22Darling%2C_I%22_at_the_Barclays_Center_for_the_Chromakopia_World_Tour_%282025%29.jpg
-  credit: 'Photo: Jckndthebeanstlk / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Tyler,_the_Creator_performing_%22Darling,_I%22_at_the_Barclays_Center_for_the_Chromakopia_World_Tour_(2025).jpg
-  focus:
-    x: 50
-    y: 50
 gallery: []
 tags:
   - tokyo
@@ -57,7 +47,7 @@ faq:
       museums, and Toyosu Market, all reachable within a short train ride,
       making it easy to pair the concert with sightseeing.
 aiGenerated: true
-draft: true
+draft: false
 heldReason: past-event
 eventRecurring: false
 eventOrganizer:

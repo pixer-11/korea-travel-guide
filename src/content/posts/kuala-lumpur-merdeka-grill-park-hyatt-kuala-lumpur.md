@@ -5,7 +5,6 @@ country: Malaysia
 region: Kuala Lumpur
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - kuala lumpur
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is this the same as the Merdeka 118 observation deck?
     a: No, they're separate. The observation deck has its own ticketing and entrance, distinct from the Park Hyatt's lobby access to Merdeka Grill.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/5230553_cNJaPeGPjFUTEciE_R884q60nFCc6DXPqYJT6GY1GF8.jpg
+  credit: 'Photo: Foursquare user content (Merdeka Grill)'
+  license: foursquare
+  source: https://foursquare.com/v/689b2a000604ea06db52db0c
+  focus:
+    x: 55
+    'y': 70
 ---
 
 ## Why go

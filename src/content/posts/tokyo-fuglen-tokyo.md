@@ -6,13 +6,13 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-22T09:05:26.920Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/558972060_-EoWHE3NyhpSPKpRyU1-qlaM_V_53qPhTFslZl-Efgc.jpg
+  url: https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg
   credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'
   license: foursquare
   source: https://foursquare.com/v/4c13052982a3c9b66fe6faf8
   focus:
-    x: 40
-    'y': 40
+    x: 50
+    'y': 30
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/1954701_PMaJSx3tkmj9akzrfcjdub4s16MxoAW7aEKblcnHMhE.jpg
     credit: 'Photo: Foursquare user content (FUGLEN TOKYO)'

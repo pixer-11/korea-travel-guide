@@ -9,16 +9,6 @@ category: event
 pubDate: '2026-07-24'
 eventStartDate: '2026-09-25'
 eventEndDate: '2026-09-25'
-heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/5/5d/Christina_Aguilera_-_Genie_In_A_Bottle_%28Live_%40_Rio_de_Janeiro%29_2025_03.jpg
-  credit: 'Photo: felip1x LIVE! / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Christina_Aguilera_-_Genie_In_A_Bottle_(Live_@_Rio_de_Janeiro)_2025_03.jpg
-  focus:
-    x: 45
-    'y': 40
 gallery: []
 tags:
   - abu dhabi
@@ -62,7 +52,7 @@ faq:
       meal), Ferrari World, and Yas Marina Circuit, so it's easy to turn the
       concert into a full day or weekend trip.
 aiGenerated: true
-draft: true
+draft: false
 heldReason: cancelled
 eventRecurring: false
 eventOrganizer:

@@ -1,54 +1,52 @@
 ---
-title: "Chiayi Performing Arts Center: Alishan Travel Guide (4.4★)"
-description: "Chiayi Performing Arts Center sits in Minxiong Township, a short drive from Chiayi city proper and often folded into an Alishan-region itinerary. 4.4★ (3,661 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Alishan"
-category: "attraction"
-pubDate: "2026-08-23T08:08:04.960Z"
+title: 'Chiayi Performing Arts Center: Alishan Travel Guide (4.4★)'
+description: Chiayi Performing Arts Center sits in Minxiong Township, a short drive from Chiayi city proper and often folded into an Alishan-region itinerary. 4.4★ (3,661 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Alishan
+category: attraction
+pubDate: '2026-08-23T08:08:04.960Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/35/Chiayi_Performing_Arts_Center_20090126_night.jpg"
-  credit: "Photo: Outlookxp / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chiayi_Performing_Arts_Center_20090126_night.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/571961661_f1jEtwU_wQmIKqkNJDUurRX7R0jnG--n4mxo8R9_zVE.jpg
+  credit: 'Photo: Foursquare user content (Chiayi Performing Arts Center (嘉義縣表演藝術中心))'
+  license: foursquare
+  source: https://foursquare.com/v/4d7b53c78f89224b22888e26
   focus:
     x: 50
-    y: 40
-gallery: []
+    'y': 50
 place:
-  id: "ChIJ8ReKIOO9bjQRx4cbDhLuTEE"
-  name: "Chiayi Performing Arts Center"
-  address: "No. 265號, Section 2, Jianguo Rd, Wenlong Village, Minxiong Township, Chiayi County, Taiwan 621"
+  id: ChIJ8ReKIOO9bjQRx4cbDhLuTEE
+  name: Chiayi Performing Arts Center
+  address: No. 265號, Section 2, Jianguo Rd, Wenlong Village, Minxiong Township, Chiayi County, Taiwan 621
   rating: 4.4
   userRatingsTotal: 3661
-  googleMapsUrl: "https://maps.google.com/?cid=4705397472008832967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4705397472008832967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.5441121
   lng: 120.4320576
-  phone: "+886 5 206 5675"
+  phone: +886 5 206 5675
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: Closed"
-    - "Sunday: Closed"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
 tags:
-  - "alishan"
-  - "art gallery"
-quickAnswer: "Chiayi Performing Arts Center sits in Minxiong Township, a short drive from Chiayi city proper and often folded into an Alishan-region itinerary. It's open weekdays 8am–5pm and closed on weekends, so plan around that if you want to see inside — the building's sculptural concrete exterior and gardens are viewable anytime you pass by. Give it 30–45 minutes unless a performance is on, in which case check the schedule and book ahead."
+  - alishan
+  - art gallery
+quickAnswer: Chiayi Performing Arts Center sits in Minxiong Township, a short drive from Chiayi city proper and often folded into an Alishan-region itinerary. It's open weekdays 8am–5pm and closed on weekends, so plan around that if you want to see inside — the building's sculptural concrete exterior and gardens are viewable anytime you pass by. Give it 30–45 minutes unless a performance is on, in which case check the schedule and book ahead.
 faq:
-  - q: "What are the opening hours for Chiayi Performing Arts Center?"
-    a: "It's open Monday to Friday, 8am to 5pm, and closed entirely on Saturdays and Sundays — plan a weekday visit if you want to see inside."
-  - q: "How do I get to Chiayi Performing Arts Center?"
-    a: "It's in Minxiong Township, about a 15–20 minute drive north of Chiayi city. Most visitors arrive by car or scooter since public transit in the area is limited; there's parking near the plaza."
-  - q: "How long should I spend there?"
-    a: "Budget 30–45 minutes to walk the grounds and see the exterior. If you're attending a performance, allow extra time for the show itself, typically 1.5–2 hours."
-  - q: "Is it worth visiting if there's no performance scheduled?"
-    a: "Yes — the building's concrete architecture, courtyards, and reflecting pools are viewable anytime and are a big part of the draw, even without a show."
-  - q: "What else is nearby?"
-    a: "The Minxiong Ghost House (old Minxiong Residence) is a short drive away, and Chiayi city — with its night markets and the Alishan Forest Railway station — is close enough to combine in the same day."
+  - q: What are the opening hours for Chiayi Performing Arts Center?
+    a: It's open Monday to Friday, 8am to 5pm, and closed entirely on Saturdays and Sundays — plan a weekday visit if you want to see inside.
+  - q: How do I get to Chiayi Performing Arts Center?
+    a: It's in Minxiong Township, about a 15–20 minute drive north of Chiayi city. Most visitors arrive by car or scooter since public transit in the area is limited; there's parking near the plaza.
+  - q: How long should I spend there?
+    a: Budget 30–45 minutes to walk the grounds and see the exterior. If you're attending a performance, allow extra time for the show itself, typically 1.5–2 hours.
+  - q: Is it worth visiting if there's no performance scheduled?
+    a: Yes — the building's concrete architecture, courtyards, and reflecting pools are viewable anytime and are a big part of the draw, even without a show.
+  - q: What else is nearby?
+    a: The Minxiong Ghost House (old Minxiong Residence) is a short drive away, and Chiayi city — with its night markets and the Alishan Forest Railway station — is close enough to combine in the same day.
 aiGenerated: true
 draft: false
 ---
