@@ -8,6 +8,7 @@ import countriesData from '../../data/countries.json';
 import { SITE } from '../siteConfig';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import PlanTrip from './PlanTrip.astro';
+import PostCard from './PostCard.astro';
 import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
@@ -260,6 +261,16 @@ const availableLangs = (['en', 'ko', 'ja', 'es', 'zh'] as const).filter(
 );
 
 const relatedIds = new Set(relatedPosts.map((r) => r.id));
+// Same-city previous/next (2026-08-23): of the 55 sessions that entered on a
+// guide in the clean analytics window, ONE moved to a second page. The
+// related list sat below the newsletter as four lines of text; it is now
+// thumbnail cards above it, plus a fixed pair of neighbours in the same city
+// so there is always a "next" even when the scorer finds little.
+const cityPosts = (await getCollection('posts', ({ data }) => !data.draft && data.region === d.region && (data.country ?? 'South Korea') === thisCountry))
+  .sort((a, b) => a.id.localeCompare(b.id));
+const cityIdx = cityPosts.findIndex((r) => r.id === post.id);
+const prevInCity = cityIdx > 0 ? cityPosts[cityIdx - 1] : null;
+const nextInCity = cityIdx >= 0 && cityIdx < cityPosts.length - 1 ? cityPosts[cityIdx + 1] : null;
 const nearby = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
   .slice(0, 6);
@@ -809,6 +820,43 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     <ShareRow url={pageUrl} title={title} lang={lang} />
 
+    {(relatedPosts.length > 0 || prevInCity || nextInCity) && (
+      <section class="related">
+        <h2>{t('post.related')}</h2>
+        {relatedPosts.length > 0 && (
+          <div class="grid related-grid">
+            {relatedPosts.slice(0, 3).map((r) => (
+              <PostCard
+                href={postHref(r.id)}
+                title={postTitle(r)}
+                region={r.data.region}
+                category={r.data.category}
+                image={r.data.heroImage?.url}
+                rating={r.data.place?.rating}
+                eventEndDate={r.data.eventEndDate}
+              />
+            ))}
+          </div>
+        )}
+        {(prevInCity || nextInCity) && (
+          <nav class="related-nav" aria-label={t('post.related')}>
+            {prevInCity ? (
+              <a class="related-nav-prev" href={postHref(prevInCity.id)}>
+                <span class="related-nav-k">{t('post.prevInCity').replace('{city}', regionLabel)}</span>
+                <span class="related-nav-t">{postTitle(prevInCity)}</span>
+              </a>
+            ) : <span />}
+            {nextInCity && (
+              <a class="related-nav-next" href={postHref(nextInCity.id)}>
+                <span class="related-nav-k">{t('post.nextInCity').replace('{city}', regionLabel)}</span>
+                <span class="related-nav-t">{postTitle(nextInCity)}</span>
+              </a>
+            )}
+          </nav>
+        )}
+      </section>
+    )}
+
     <Newsletter
       compact
       lang={lang}
@@ -817,20 +865,6 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       heading={d.category === 'event' ? t('ev.neverMissGlobal') : t('post.moreTips').replace('{region}', regionLabel)}
       dek={d.category === 'event' ? t('ev.neverMissDekGlobal') : t('region.newsletterDek').replace('{region}', regionLabel)}
     />
-
-    {relatedPosts.length > 0 && (
-      <section class="related">
-        <h2>{t('post.related')}</h2>
-        <ul>
-          {relatedPosts.map((r) => (
-            <li>
-              <a href={postHref(r.id)}>{postTitle(r)}</a>
-              <span class="rel-region">{localizePlace(r.data.region, lang)}</span>
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
 
     {itineraryBacklinks.length > 0 && (
       <section class="itin-backlink" aria-label={t('itin.indexEyebrow')}>
