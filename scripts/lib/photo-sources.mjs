@@ -125,6 +125,20 @@ export function pickVenueHit(name, near, results) {
   return best;
 }
 
+// The name Google stores is often a billboard — "Vandal Restaurant | Elevated
+// Global Street Food", "Vietnamese Food - Hue Local Food & FastFood 22
+// Restaurant (Huế)" — and Foursquare's search, which wants the name a venue
+// registered, returns NOTHING for it. 17 of 19 restored guides drew "0
+// tried" on 2026-08-23 for exactly this. The query is the part before the
+// first " | ", " – ", " — " or " - " and before any "(…)", as long as that
+// part still carries a distinctive token; identity matching (pickVenueHit)
+// keeps using the FULL name, so a shorter query cannot admit a wrong venue.
+export function venueQuery(name, near) {
+  const full = String(name || '').trim();
+  const head = full.split(/\s+[|–—-]\s+/)[0].replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\s+/g, ' ').trim();
+  return head && head !== full && distinctiveTokens(head, near).length ? head : full;
+}
+
 // Foursquare: match the venue by name near its stored coordinates, then pull
 // its photos. Returns [] when no key, no confident match, or no photos.
 export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
@@ -135,10 +149,11 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
     // Coordinates when we have them (Google-sourced venue posts); otherwise a
     // "near" text anchor ("Bali, Indonesia") — covers web-discovered trendy
     // spots that carry no place object (the Cure Bali / Pak Gula blind spot).
-    const q = lat != null
-      ? new URLSearchParams({ query: name, ll: `${lat},${lng}`, radius: '400', limit: '3' })
-      : new URLSearchParams({ query: name, near, limit: '3' });
-    const res = await fsqFetch(`/places/search?${q}`);
+    const search = (query) => fsqFetch(`/places/search?${lat != null
+      ? new URLSearchParams({ query, ll: `${lat},${lng}`, radius: '400', limit: '3' })
+      : new URLSearchParams({ query, near, limit: '3' })}`);
+    const short = venueQuery(name, near);
+    let res = await search(short);
     if (!res.ok) {
       // Diagnose silently-failing searches ONCE (a 400 here looked like "auth
       // OK, zero candidates" and produced a 0-fix full run).
@@ -148,7 +163,13 @@ export async function fsqVenuePhotos({ name, lat, lng, near, limit = 4 }) {
       }
       return [];
     }
-    const body = await res.json();
+    let body = await res.json();
+    // The short query is the likelier hit; the full billboard name is the
+    // fallback, not the other way round.
+    if (!(body.results || []).length && short !== name) {
+      const full = await search(name);
+      if (full.ok) body = await full.json();
+    }
     if (!fsqVenuePhotos._shape) {
       fsqVenuePhotos._shape = true;
       console.log(`  [fsq] first search OK — keys: ${Object.keys(body).join(',')} · results: ${(body.results || []).length}`);

@@ -1,6 +1,24 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { distinctiveTokens, pickVenueHit } from './photo-sources.mjs';
+import { distinctiveTokens, pickVenueHit, venueQuery } from './photo-sources.mjs';
+
+// ── 2026-08-23: 17 of 19 restored guides got "0 tried" because Foursquare
+// was asked for Google's billboard name. The query is the head of the name;
+// identity matching still sees the whole thing.
+test('venueQuery keeps the part before a billboard separator or bracket', () => {
+  assert.equal(venueQuery('Vandal Restaurant | Elevated Global Street Food', 'Lombok, Indonesia'), 'Vandal Restaurant');
+  assert.equal(venueQuery('Yemeni Corner Restaurant (مطعم الركن اليمني)', 'Ajman, UAE'), 'Yemeni Corner Restaurant');
+  // A head made only of generic words ("Vietnamese Food") would match any
+  // Vietnamese restaurant — it is refused and the full name is sent instead.
+  assert.equal(venueQuery('Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế)', 'Hue, Vietnam'), 'Vietnamese Food - Hue Local Food & FastFood 22 Restaurant (Huế)');
+  assert.equal(venueQuery('The Island Bangkok – Top Rated Thai Restaurant & Bar', 'Bangkok, Thailand'), 'The Island Bangkok');
+});
+
+test('venueQuery falls back to the full name when the head has nothing distinctive, or there is no separator', () => {
+  assert.equal(venueQuery('Restaurant - Mul Jil Korean BBQ', 'Kuala Lumpur, Malaysia'), 'Restaurant - Mul Jil Korean BBQ');
+  assert.equal(venueQuery('Haesong Ssambap', 'Incheon, South Korea'), 'Haesong Ssambap');
+  assert.equal(venueQuery('', 'x'), '');
+});
 
 // ── The 2026-08-07 quarantine incident, verbatim ─────────────────────────────
 // "The Island Bangkok – Top Rated Thai Restaurant & Bar" (GSC rank 4.7, 304
