@@ -8189,6 +8189,11 @@
       "blurb": "柬埔寨这座临江首都,将金碧辉煌的佛塔、法式殖民建筑林荫大道,与令人动容、发人深省的历史交织在一起,吐斯廉、杀戮战场等地便是见证。在洞里萨河与湄公河交汇处,金边以嘟嘟车的喧嚣声不紧不慢地运转着,皇家的庄严气派与快速发展、略显粗粝的城市活力在此交融并存。",
       "getting": "金边由柴阁国际机场(KTI)提供航空服务,该机场于2025年9月在市区以南启用,取代了原先地理位置更靠近市中心的金边国际机场(PNH)。从柴阁机场出发,旅客可乘坐出租车/网约车(约45至60分钟)或公共机场快线巴士前往市区。金边火车站则连接沿海的西哈努克城,以及西北方向的马德望和柏威夏波贝,来自周边地区枢纽的长途巴士也仍是常见的陆路出行方式。",
       "days": "建议安排约2至3天时间游览皇宫、国家博物馆以及吐斯廉种族灭绝博物馆/杀戮战场;如果想放慢脚步漫步江边,或安排一次市郊一日游,可再多留一天。"
+    },
+    "ko": {
+      "blurb": "캄보디아의 강변 수도 프놈펜은 금빛 사원과 프랑스 식민지 시절의 대로가 어우러진 도시이자, 뚜올슬렝과 킬링필드 같은 장소에서 마주하게 되는 무겁고 가슴 아픈 역사를 품고 있는 곳이다. 톤레삽강과 메콩강이 만나는 지점을 따라 자리한 프놈펜은 뚝뚝이 만들어내는 혼란스러운 소음 속에서 왕실의 위엄과 빠르게 성장하는 거칠고 날것 그대로의 도시 에너지가 뒤섞여 있다.",
+      "getting": "프놈펜은 2025년 9월 도심 남쪽에 새로 문을 연 테초 국제공항(KTI)을 통해 접근할 수 있으며, 이 공항은 기존에 시내와 더 가까웠던 프놈펜 국제공항(PNH)을 대체했다. KTI에서 시내까지는 택시나 차량 호출 서비스로 약 45~60분이 걸리며, 공용 공항 익스프레스 버스도 이용할 수 있다. 시내 기차역은 해안의 시아누크빌, 그리고 북서쪽의 바탐방과 포이펫까지 프놈펜을 연결하며, 주변 거점 도시에서 오는 장거리 버스 역시 여전히 육로 이동 수단으로 널리 이용된다.",
+      "days": "왕궁, 국립박물관, 그리고 대량학살 박물관/킬링필드를 둘러보는 데는 약 2~3일이면 충분하며, 강변에서 좀 더 여유로운 시간을 보내거나 근교로 당일치기 여행을 다녀오고 싶다면 하루 정도 더 계획하는 것이 좋다."
     }
   },
   "Termez": {
@@ -8270,6 +8275,50 @@
       "blurb": "暹粒是柬埔寨的\"寺庙之都\",这座小巧精致的门户城市专为服务其北面广袤的吴哥考古公园而生。除了古迹之外,这里还拥有一片适合步行游览的老城区,街道两旁尽是殖民时期的建筑,夜市热闹非凡,河畔街区更是活力四射——这一切让暹粒不仅是探访寺庙的起点,更是值得慢慢停留的好去处。",
       "getting": "大多数旅客选择飞抵暹粒吴哥国际机场(SAI),该机场于2023年10月启用,位于市区以东约45-50公里处,搭乘出租车或班车约需45-60分钟即可抵达市区;而原先的市区机场(REP)已永久关闭。陆路旅行者通常乘坐长途巴士或拼车前往,从金边或其他区域枢纽出发需数小时车程,因为柬埔寨目前尚无通往暹粒的客运铁路服务。",
       "days": "若想不慌不忙地游览吴哥主要寺庙群,建议安排约3-4天;如果还想探访偏远寺庙、游览水上村落,或是在市区悠闲休憩,不妨再多留一两天。"
+    }
+  },
+  "Kep": {
+    "en": {
+      "blurb": "Once the seaside retreat of Cambodia's pre-war elite, Kep today is a quiet coastal town famous for its blue-crab market, crumbling colonial-era villas, and the jungle-clad Kep National Park rising behind the shore. It makes an easy, low-key counterpoint to the country's bigger tourist circuits — a place for eating crab fresh off the boats and doing very little else.",
+      "getting": "Kep has no airport of its own; most travellers arrive overland by bus or shared taxi from the regional hub of Phnom Penh (~3-4 hours) or via nearby Kampot and Sihanoukville, and Sihanoukville's international airport (KOS) offers the closest domestic/regional flight connections. A weekend train also links Phnom Penh and Sihanoukville with a stop at Kep, running Thursday to Sunday only.",
+      "days": "Plan on ~1-2 days, enough time to explore the National Park loop trail, browse the crab market, and take a boat out to Rabbit Island (Koh Tonsay)."
+    },
+    "ko": {
+      "blurb": "한때 캄보디아 전쟁 이전 상류층이 즐겨 찾던 해변 휴양지였던 껩(Kep)은 오늘날 게살 시장과 허물어져 가는 식민지 시대 저택들, 그리고 해안 뒤로 솟은 정글 우거진 껩 국립공원(Kep National Park)으로 유명한 한적한 해안 마을입니다. 캄보디아의 대형 관광 코스와는 대조적으로 부담 없이 여유롭게 즐길 수 있는 곳으로, 배에서 갓 내린 신선한 게를 맛보는 것 외에는 딱히 할 일이 없는 것이 이곳의 매력입니다.",
+      "getting": "껩에는 자체 공항이 없어, 대부분의 여행자는 지역 거점 도시인 프놈펜(Phnom Penh)에서 버스나 합승 택시로 육로 이동(약 3~4시간)하거나, 인근 캄폿(Kampot)이나 시아누크빌(Sihanoukville)을 경유해 도착합니다. 가장 가까운 국내선·지역 항공편은 시아누크빌 국제공항(KOS)을 통해 이용할 수 있습니다. 또한 프놈펜과 시아누크빌을 잇는 주말 열차가 껩에도 정차하지만, 목요일부터 일요일까지만 운행합니다.",
+      "days": "1~2일 정도면 국립공원 순환 코스를 둘러보고, 게살 시장을 구경하며, 배를 타고 래빗 아일랜드(코 톤사이, Koh Tonsay)까지 다녀오기에 충분합니다."
+    },
+    "es": {
+      "blurb": "Antiguo retiro costero de la élite camboyana de antes de la guerra, Kep es hoy un tranquilo pueblo costero famoso por su mercado de cangrejo azul, sus villas coloniales en ruinas y el Parque Nacional de Kep, cubierto de selva, que se alza detrás de la orilla. Es un contrapunto sencillo y relajado frente a los circuitos turísticos más concurridos del país: un lugar para comer cangrejo recién sacado de los botes y no hacer mucho más.",
+      "getting": "Kep no tiene aeropuerto propio; la mayoría de los viajeros llegan por tierra en autobús o taxi compartido desde el centro regional de Phnom Penh (unas 3-4 horas), o a través de las cercanas Kampot y Sihanoukville. El aeropuerto internacional de Sihanoukville (KOS) ofrece las conexiones aéreas domésticas/regionales más cercanas. También hay un tren de fin de semana que une Phnom Penh y Sihanoukville con parada en Kep, aunque solo circula de jueves a domingo.",
+      "days": "Calcula entre 1 y 2 días, tiempo suficiente para recorrer el sendero circular del Parque Nacional, curiosear por el mercado de cangrejo y hacer una excursión en barco a la Isla del Conejo (Koh Tonsay)."
+    }
+  },
+  "Sihanoukville": {
+    "en": {
+      "blurb": "Sihanoukville is Cambodia's main beach gateway on the Gulf of Thailand, a once-sleepy port town transformed by casino development yet still the jumping-off point for the powder-white sands and turquoise water of nearby islands like Koh Rong and Koh Rong Sanloem. By day it's about boat piers and beach bars; by night the skyline glows with a dense cluster of casino towers that has reshaped the city's character.",
+      "getting": "Most travellers arrive via Sihanouk International Airport (KOS), which has scheduled flights to regional hubs such as Phnom Penh and Siem Reap as well as a handful of international routes, or overland by bus/taxi from Phnom Penh (~4 hours by road); a daily Royal Railway train also links Phnom Penh's main station directly to Sihanoukville's terminus in ~7 hours. From the airport or bus station, tuk-tuks and taxis cover the short final hop into town or onward to the ferry piers for the islands.",
+      "days": "Plan on ~2-3 days to cover the mainland beaches and town, or extend to ~4-5 days if you're adding an island stopover on Koh Rong or Koh Rong Sanloem."
+    },
+    "ko": {
+      "blurb": "시아누크빌은 태국만에 면한 캄보디아 최대의 해변 관문 도시다. 한때 한적했던 항구 마을이었지만 카지노 개발로 크게 탈바꿈했음에도, 여전히 코룡(Koh Rong)과 코룡삼로엠(Koh Rong Sanloem) 같은 인근 섬들의 새하얀 백사장과 에메랄드빛 바다로 향하는 출발점 역할을 하고 있다. 낮에는 선착장과 해변 바가 중심이 되지만, 밤이 되면 도시의 성격을 완전히 바꿔놓은 카지노 타워들이 빼곡히 불을 밝히며 스카이라인을 물들인다.\",\"getting\":\"대부분의 여행자는 시아누크 국제공항(KOS)을 통해 도착하는데, 프놈펜과 시엠립 등 지역 주요 도시로 가는 정기 항공편은 물론 소수의 국제 노선도 운항한다. 육로로는 프놈펜에서 버스나 택시로 약 4시간 거리이며, 로열 레일웨이(Royal Railway) 열차도 매일 프놈펜 중앙역과 시아누크빌 종착역을 약 7시간 만에 직접 연결한다. 공항이나 버스 터미널에서는 툭툭이나 택시를 이용해 시내까지 짧게 이동하거나, 섬으로 가는 페리 선착장까지 바로 갈 수 있다.",
+      "getting": "대부분의 여행자는 시아누크 국제공항(KOS)을 통해 도착하는데, 프놈펜과 시엠립 등 지역 주요 도시로 가는 정기 항공편은 물론 소수의 국제 노선도 운항한다. 육로로는 프놈펜에서 버스나 택시로 약 4시간 거리이며, 로열 레일웨이(Royal Railway) 열차도 매일 프놈펜 중앙역과 시아누크빌 종착역을 약 7시간 만에 직접 연결한다. 공항이나 버스 터미널에서는 툭툭이나 택시를 이용해 시내까지 짧게 이동하거나, 섬으로 가는 페리 선착장까지 바로 갈 수 있다.",
+      "days": "본토 해변과 시내를 둘러보는 데는 약 2~3일이면 충분하며, 코룡이나 코룡삼로엠 섬 여행을 추가한다면 4~5일 정도로 일정을 늘리는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "シアヌークビルは、タイランド湾に面したカンボジア最大のビーチゲートウェイだ。かつては静かな港町だったが、カジノ開発によって大きく様変わりした。それでも、コッコン(Koh Rong)やコッコン・サムローム(Koh Rong Sanloem)といった近隣の島々に広がる真っ白な砂浜とターコイズブルーの海への玄関口であることに変わりはない。昼間は船着き場やビーチバーでのんびり過ごすのが定番だが、夜になると林立するカジノタワーが街の空を煌々と照らし出し、まったく違う顔を見せる。",
+      "getting": "多くの旅行者はシアヌーク国際空港(KOS)を利用して訪れる。ここからはプノンペンやシェムリアップといった国内の主要都市への定期便に加え、いくつかの国際線も就航している。陸路の場合は、プノンペンからバスやタクシーで約4時間。ロイヤル鉄道の列車も毎日運行しており、プノンペン中央駅からシアヌークビルの終着駅まで約7時間で結んでいる。空港やバスターミナルからは、トゥクトゥクやタクシーで市街地まで短時間で移動できるほか、島々へ向かうフェリー乗り場まで足を延ばすことも可能だ。",
+      "days": "本土のビーチと市街地を巡るなら2〜3日程度を見ておくとよい。コッコンやコッコン・サムロームへの島滞在を組み合わせる場合は、4〜5日ほどに延ばすのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Sihanoukville es la principal puerta de entrada de Camboya a las playas del golfo de Tailandia, un pueblo portuario antes tranquilo que se ha transformado con el auge de los casinos, pero que sigue siendo el punto de partida hacia la arena blanca y las aguas turquesas de islas cercanas como Koh Rong y Koh Rong Sanloem. De día, el ambiente gira en torno a los muelles y los bares de playa; de noche, el horizonte se ilumina con una densa hilera de torres de casinos que ha cambiado por completo el carácter de la ciudad.",
+      "getting": "La mayoría de los viajeros llega por el aeropuerto internacional de Sihanouk (KOS), que ofrece vuelos regulares a centros regionales como Phnom Penh y Siem Reap, además de algunas rutas internacionales, o por tierra en autobús o taxi desde Phnom Penh (unas 4 horas de trayecto). También hay un tren diario de Royal Railway que conecta directamente la estación principal de Phnom Penh con la terminal de Sihanoukville en unas 7 horas. Desde el aeropuerto o la estación de autobuses, los tuk-tuks y taxis cubren el corto trayecto final hasta el centro o hacia los muelles de los ferris que salen hacia las islas.",
+      "days": "Calcula unos 2-3 días para recorrer las playas del continente y la ciudad, o amplía a unos 4-5 días si vas a añadir una escapada a las islas de Koh Rong o Koh Rong Sanloem."
+    },
+    "zh": {
+      "blurb": "西哈努克市是柬埔寨面向泰国湾的主要海滨门户，这座曾经宁静的港口小城因赌场产业的兴起而彻底改变面貌，但依然是前往科龙岛（Koh Rong）和龙萨伦岛（Koh Rong Sanloem）等周边岛屿——那里有细白沙滩和碧绿海水——的必经跳板。白天，这里是码头与沙滩酒吧的天地；入夜后，鳞次栉比的赌场高楼灯火通明，勾勒出一片重塑了城市气质的天际线。",
+      "getting": "大多数游客经由西哈努克国际机场（KOS）抵达，该机场有飞往金边、暹粒等区域枢纽的定期航班，也有少量国际航线；也可以选择从金边乘长途巴士或出租车走陆路前往，车程约4小时。此外，柬埔寨皇家铁路每天都有一班列车，从金边总站直达西哈努克市终点站，全程约7小时。抵达机场或汽车站后，只需搭乘嘟嘟车或出租车，便可轻松抵达市区，或直接前往码头搭船前往各个海岛。",
+      "days": "建议安排约2-3天游览本土海滩和市区；如果还想顺道前往科龙岛或龙萨伦岛小住，则可以将行程延长至约4-5天。"
     }
   }
 }
