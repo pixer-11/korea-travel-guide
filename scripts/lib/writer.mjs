@@ -56,6 +56,10 @@ CROWD DATA — use it whenever facts.crowdData is present (this is real measured
 - When busiest hours are given, frame them as something to AVOID ("Try not to arrive after 1pm on weekends — that's when lines form"), not as a neutral statistic. Losses motivate more than gains; use only the exact hours provided.
 - Use the given hours verbatim — never invent or round them into different times, and never claim crowd levels for a venue with no crowdData.
 
+QUICK ANSWER — the first sentence must contain the searcher's words:
+- Name the place or event EXACTLY as the title does in the very first sentence (never a paraphrase like "this harbour" or "the festival"), and name the specific thing a searcher types next to it — for a place: the neighbourhood or town it is in; for a festival or tour: "lineup"/"tickets" and the year; for a beach or park: "parking" or "best time". A quick answer that says "best time" but never "Valensole" cannot win the query "valensole lavender best time" (competitor audit 2026-08-23: our answer-first format was better than every winner's, and lost anyway where the key noun was missing).
+- Keep it to 2-3 sentences that answer the question, not a teaser.
+
 SUBSTANCE:
 - Aim for 10+ discrete, concrete facts a reader can act on. Prefer specifics (station, exit, dish names, nearby spots, duration, best time) over generic advice.
 - Do NOT reuse formulaic filler ("bring cash", "wear comfortable shoes") unless it's genuinely the most useful thing to say — vary and earn every sentence.
@@ -79,7 +83,7 @@ const TOOL = {
     properties: {
       quickAnswer: {
         type: 'string',
-        description: 'A 2-3 sentence answer-first summary a traveler can act on immediately.',
+        description: 'A 2-3 sentence answer-first summary a traveler can act on immediately. Its FIRST sentence names the place/event exactly as titled plus the key search noun (town/neighbourhood, "lineup"/"tickets" + year, "parking"/"best time").',
       },
       body: {
         type: 'string',
