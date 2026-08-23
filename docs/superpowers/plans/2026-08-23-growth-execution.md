@@ -10,6 +10,10 @@
 
 **Spec:** `C:\Users\user\Desktop\클로드\보고서-2026-08-23-유입체류-디자인.md` (sections 2, 3, 5, 6).
 
+## Status (2026-08-23 16:00 KST)
+Done and pushed: Task 1 (3b03f397) · 2 (afafc8e3) · 3 (fcafd26a) · 4 map facade (f3b28291; "updated" date already shown, nothing to build) · 5 (377fa969) · 6 (f25cd402) · 7+8 (605d7983) · 9 retitle tool + 4 posts (31e05560) · 10 (5d5d420b) · 11 (1e9e8f5d) · 12 except eSIM tone (cfb404d8) · itinerary email ask (follow-up commit). Found on the way: 19 retired-but-ranking posts restored (4cd10bb7), Foursquare query fix (4813984c).
+Not built: Task 13 (multi-photo gallery needs an identity-gate budget design; lineup/fees have no data source), eSIM tone, Task 0 (owner's Bing Webmaster account).
+
 ## Global Constraints
 - Owner directive 2026-08-23: "반드시 다른 오류 없이" — every task: tests green (`node --test`), `node scripts/validate-content.mjs` no NEW issue, dev-server visual check, live check with `?v=` after deploy.
 - Consistency rule (design.md): a change to a shared component must be verified on every page type that uses it (grep `<Component`).
