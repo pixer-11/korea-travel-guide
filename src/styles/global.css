@@ -1406,6 +1406,21 @@ html[lang^='zh'] .cover-inner h1 {
 .fact-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.7rem 1.1rem; margin-top: 0.85rem; }
 .fact-ticket { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.45rem 0.85rem; border-radius: var(--r-pill); background: var(--accent); color: #fff; font-size: 0.88rem; font-weight: 600; text-decoration: none; transition: background .15s ease; }
 .fact-ticket:hover { background: var(--accent-deep); color: #fff; }
+/* Static map facade (PostArticle ↔ lib/osmTile.mjs): the 2×2 tile mosaic is
+   anchored at the box centre and shifted by the point's pixel offset, so the
+   pin — fixed at the centre — sits on the place whatever the box width. */
+.map-facade { position: relative; display: block; height: 180px; margin-top: 0.9rem; border-radius: var(--r-md); overflow: hidden;
+              border: 1px solid var(--line); background: var(--surface-2); }
+.map-tiles { position: absolute; left: 50%; top: 50%; display: block; }
+.map-tiles img { position: absolute; width: 256px; height: 256px; max-width: none; }
+.map-pin { position: absolute; left: 50%; top: 50%; width: 14px; height: 14px; margin: -7px 0 0 -7px; border-radius: 50%;
+           background: var(--accent); border: 3px solid #fff; box-shadow: 0 0 0 2px var(--accent), 0 4px 10px rgba(0,0,0,.3); }
+.map-facade-label { position: absolute; left: 0.6rem; bottom: 0.5rem; display: inline-flex; gap: 0.3rem; align-items: center;
+                    padding: 0.3rem 0.6rem; border-radius: var(--r-pill); background: rgba(255,255,255,.92); color: #201c17;
+                    font-size: 0.8rem; font-weight: 650; transition: background .15s ease, color .15s ease; }
+.map-facade:hover .map-facade-label { background: var(--accent); color: #fff; }
+.map-attr { position: absolute; right: 0.4rem; bottom: 0.3rem; font-size: 0.62rem; color: #333; background: rgba(255,255,255,.75); padding: 0 0.3rem; border-radius: 3px; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme='light']) .map-tiles img { filter: brightness(.82) contrast(1.05); } }
 
 /* Sticky mobile "Book" bar (post pages only, revealed on scroll) */
 .sticky-book { position: fixed; bottom: 0; left: 0; right: 0; z-index: 60; display: none; gap: 0.55rem; padding: 0.55rem 0.8rem calc(0.55rem + env(safe-area-inset-bottom)); background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: saturate(140%) blur(8px); border-top: 1px solid var(--line); box-shadow: 0 -4px 18px rgba(0,0,0,0.1); }

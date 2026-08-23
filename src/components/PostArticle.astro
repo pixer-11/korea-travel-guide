@@ -17,6 +17,7 @@ import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
+import { tileMosaic, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { klookCityDest } from '../lib/klookCities';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
@@ -117,6 +118,11 @@ const priceLabels = [t('post.free'), '$', '$$', '$$$', '$$$$'];
 const priceLabelsSchema = ['Free', '$', '$$', '$$$', '$$$$'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
 const updated = d.updatedDate ?? d.pubDate;
+// Static map facade (lib/osmTile.mjs): four OSM tiles around the place, a
+// CSS pin, the whole thing a link to Google Maps. Pages that outrank ours
+// show a map; an iframe on every guide would cost LCP/INP (2026-08-23).
+const mapMosaic = p && Number.isFinite(p.lat) && Number.isFinite(p.lng) ? tileMosaic(p.lat, p.lng) : null;
+const mapsSearchUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([p?.name, (d.tags && d.tags[1]) || d.category, d.region, country].filter(Boolean).join(' '))}`;
 
 // Strip non-Latin scripts from the Google Places name (e.g. Arabic
 // "مطعم الركن اليمني Yemeni Corner" → "Yemeni Corner"), same rule as titles, so
@@ -639,6 +645,18 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
               <textarea readonly rows="3" class="bz-embed-code" onclick="this.select()">{`<iframe src="${site}/embed/crowd/${post.id.replace(/\.md$/, '')}" width="100%" height="260" style="border:1px solid #e4dccd;border-radius:12px;max-width:420px" loading="lazy" title="${(p.name || '').replace(/"/g, '&quot;')} busy times — Wander Atlas"></iframe>`}</textarea>
             </details>
           </div>
+        )}
+        {mapMosaic && (
+          <a class="map-facade" href={p.googleMapsUrl || mapsSearchUrl} target="_blank" rel="noopener" aria-label={t('post.openMaps')}>
+            <span class="map-tiles" style={`width:${mapMosaic.width}px;height:${mapMosaic.height}px;margin-left:${-Math.round(mapMosaic.px)}px;margin-top:${-Math.round(mapMosaic.py)}px`}>
+              {mapMosaic.tiles.map((tl) => (
+                <img src={tl.url} width="256" height="256" loading="lazy" decoding="async" alt="" style={`left:${tl.dx}px;top:${tl.dy}px`} />
+              ))}
+            </span>
+            <span class="map-pin" aria-hidden="true"></span>
+            <span class="map-facade-label"><Emoji name="round-pushpin" /> {t('post.openMaps')} →</span>
+            <span class="map-attr">{TILE_ATTRIBUTION}</span>
+          </a>
         )}
         <div class="fact-actions">
           {p?.name && (
