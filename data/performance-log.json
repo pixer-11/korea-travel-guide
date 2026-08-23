@@ -710,5 +710,200 @@
         "delta": -4
       }
     ]
+  },
+  {
+    "week": "2026-08-23",
+    "pageviews": 236,
+    "visits": 176,
+    "top": [
+      {
+        "path": "/ko/",
+        "views": 41
+      },
+      {
+        "path": "/",
+        "views": 26
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 18
+      },
+      {
+        "path": "/zh/posts/jakarta-taman-mini-indonesia-indah/",
+        "views": 7
+      },
+      {
+        "path": "/posts/chengdu-chengdu-research-base-of-giant-panda-breeding/",
+        "views": 6
+      },
+      {
+        "path": "/newsletter/",
+        "views": 4
+      },
+      {
+        "path": "/posts/tongyeong-dongpirang-mural-village/",
+        "views": 4
+      },
+      {
+        "path": "/tools/best-time/",
+        "views": 3
+      },
+      {
+        "path": "/ko/destinations/uzbekistan/",
+        "views": 3
+      },
+      {
+        "path": "/posts/andong-hahoe-folk-village/",
+        "views": 3
+      },
+      {
+        "path": "/ignore-me/",
+        "views": 3
+      },
+      {
+        "path": "/posts/toulouse-basilique-saint-sernin-de-toulouse/",
+        "views": 3
+      },
+      {
+        "path": "/posts/provence-lavender-sunflower-field/",
+        "views": 2
+      },
+      {
+        "path": "/contact/",
+        "views": 2
+      },
+      {
+        "path": "/posts/incheon-one-universe-festival-2026/",
+        "views": 2
+      },
+      {
+        "path": "/posts/paris-louvre-museum/",
+        "views": 2
+      },
+      {
+        "path": "/destinations/thailand/",
+        "views": 2
+      },
+      {
+        "path": "/zh/posts/new-york-flushing-queens-us-open-tennis-championships-2026/",
+        "views": 2
+      },
+      {
+        "path": "/methodology/",
+        "views": 2
+      },
+      {
+        "path": "/posts/hanoi-vietnam-military-history-museum/",
+        "views": 2
+      },
+      {
+        "path": "/ko/posts/hanoi-ho-chi-minh-city-miss-world-2026/",
+        "views": 2
+      },
+      {
+        "path": "/ko/tools/esim/japan/",
+        "views": 2
+      },
+      {
+        "path": "/posts/kuching-kubah-national-park/",
+        "views": 2
+      },
+      {
+        "path": "/ko/events/",
+        "views": 2
+      },
+      {
+        "path": "/posts/hangzhou-xi-lake/",
+        "views": 1
+      },
+      {
+        "path": "/ja/",
+        "views": 1
+      },
+      {
+        "path": "/zh/posts/new-delhi-bwf-world-championships-2026/",
+        "views": 1
+      },
+      {
+        "path": "/destinations/japan/",
+        "views": 1
+      },
+      {
+        "path": "/ko/tools/best-time/",
+        "views": 1
+      },
+      {
+        "path": "/posts/los-angeles-santa-monica-pier/",
+        "views": 1
+      }
+    ],
+    "risers": [
+      {
+        "path": "/zh/posts/jakarta-taman-mini-indonesia-indah/",
+        "delta": 7
+      },
+      {
+        "path": "/posts/chengdu-chengdu-research-base-of-giant-panda-breeding/",
+        "delta": 6
+      },
+      {
+        "path": "/newsletter/",
+        "delta": 4
+      },
+      {
+        "path": "/posts/tongyeong-dongpirang-mural-village/",
+        "delta": 4
+      },
+      {
+        "path": "/tools/best-time/",
+        "delta": 3
+      },
+      {
+        "path": "/ko/destinations/uzbekistan/",
+        "delta": 3
+      },
+      {
+        "path": "/posts/andong-hahoe-folk-village/",
+        "delta": 3
+      },
+      {
+        "path": "/ignore-me/",
+        "delta": 3
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/",
+        "delta": -47
+      },
+      {
+        "path": "/ko/posts/seoul-cheonggyecheon/",
+        "delta": -31
+      },
+      {
+        "path": "/ko/",
+        "delta": -26
+      },
+      {
+        "path": "/ko/itinerary/",
+        "delta": -13
+      },
+      {
+        "path": "/ko/destinations/south-korea/",
+        "delta": -7
+      },
+      {
+        "path": "/posts/hangzhou-xi-lake/",
+        "delta": -6
+      },
+      {
+        "path": "/about/",
+        "delta": -6
+      },
+      {
+        "path": "/ko/posts/busan-busan-tower/",
+        "delta": -5
+      }
+    ]
   }
 ]
