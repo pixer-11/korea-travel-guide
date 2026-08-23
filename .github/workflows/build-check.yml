@@ -79,6 +79,7 @@ on:
       - '!data/fill-phase.json'
       - '!data/photo-retry.json'
       - '!data/places-budget.json'
+      - '!data/topic-yield.json'
       - '!data/refresh-cursor.json'
       - '!data/performance-log.json'
       - '!data/indexnow-state.json'

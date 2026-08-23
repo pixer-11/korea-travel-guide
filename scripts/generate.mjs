@@ -26,6 +26,7 @@ import yaml from 'js-yaml';
 
 import { slugify } from './lib/slugify.mjs';
 import { topicKey } from './lib/topic-key.mjs';
+import { loadYield, saveYield, recordOutcome, orderByYield, describeYield } from './lib/topic-yield.mjs';
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
 import { openHourSet, clampBusynessHours } from '../src/lib/hours.mjs';
@@ -306,7 +307,11 @@ async function main() {
   const activeNames = new Set(activeCountries.map((c) => c.name));
   const seasonal = await loadSeasonalTargets(activeNames);
 
-  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts, regionQualifyingCounts, itineraryCityStates });
+  // Measured per-topic yield (data/topic-yield.json): orders the queue so the
+  // day's searches go to the kinds of target that actually produce a post.
+  const yieldLedger = await loadYield();
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts, regionQualifyingCounts, itineraryCityStates, yieldLedger });
+  if (USE_PLACES && !DUMMY) console.log(describeYield(yieldLedger));
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
   console.log(
@@ -386,6 +391,7 @@ async function main() {
         }
         transientRun = 0;
         done.add(target.query);
+        if (USE_PLACES && !DUMMY) recordOutcome(yieldLedger, target.topic, false);
         continue; // a real guardrail rejection — don't retry this daily
       }
       transientRun = 0;
@@ -410,6 +416,7 @@ async function main() {
       existing.add(post.slug);
       if (tKey) usedTopicKeys.add(tKey);
       done.add(target.query);
+      if (USE_PLACES && !DUMMY) recordOutcome(yieldLedger, target.topic, true);
       published++;
       console.log(`  ✅  published: ${post.slug}`);
       if (INBODY_PENDING) { INBODY_RETRY.push({ slug: post.slug, ...INBODY_PENDING }); INBODY_PENDING = null; }
@@ -453,6 +460,10 @@ async function main() {
       const { recordSearch } = await import('./lib/places-budget.mjs');
       await recordSearch(PLACES_JOB, SEARCH_USED);
     } catch { /* same: never fail the run over bookkeeping */ }
+    try {
+      await saveYield(yieldLedger);
+      console.log(describeYield(yieldLedger));
+    } catch { /* bookkeeping only */ }
   }
   if (!STOP_REASON) STOP_REASON = published >= POSTS_PER_RUN ? 'target-reached' : 'queue-empty';
   const budgetNote = DETAILS_SKIPPED
@@ -499,6 +510,7 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
     regionCatCounts = new Map(),
     regionQualifyingCounts = new Map(),
     itineraryCityStates = new Set(),
+    yieldLedger = null,
   } = opts;
   const seen = new Set();
   const all = [];
@@ -668,10 +680,15 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
   };
   const gateBoosted = [...boosted.filter(nearItineraryGate), ...boosted.filter((t) => !nearItineraryGate(t))];
 
-  const queueOut = [...seasonalQueue, ...gateBoosted];
+  // Yield tiers (scripts/lib/topic-yield.mjs): the last stable partition. The
+  // category interleave above starts each region with what it lacks — usually
+  // restaurant/cafe, the 4 %-yield topics — so without this the day's searches
+  // went to them first and the 55 % landmarks waited behind the budget.
+  const yieldOrdered = yieldLedger ? orderByYield(gateBoosted, yieldLedger) : gateBoosted;
+  const queueOut = [...seasonalQueue, ...yieldOrdered];
   if (process.env.QUEUE_DEBUG === '1') {
     console.log('[QUEUE_DEBUG] first 20:');
-    for (const t of queueOut.slice(0, Number(process.env.QUEUE_DEBUG_N ?? 20))) console.log(`  ${t.country ?? 'South Korea'} / ${t.region} / ${t.category}`);
+    for (const t of queueOut.slice(0, Number(process.env.QUEUE_DEBUG_N ?? 20))) console.log(`  ${t.country ?? 'South Korea'} / ${t.region} / ${t.category} / ${t.topic ?? "-"}`);
   }
   return queueOut;
 }
