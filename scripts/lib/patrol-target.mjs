@@ -24,7 +24,10 @@ export function isPhotolessLive({ draft, heroUrl }) {
 
 /** Holds the publish gate / topic audit write: not photo quarantines, so a new
  *  photo cannot lift them and the photo patrol has nothing to do there. */
-export const NON_PHOTO_HOLD = /^(hours|content|generic-topic)$/;
+// 'duplicate': a second guide to the same event (the Kuala Lumpur F✦FOREVER
+// pair, 2026-08-23) is unpublished on purpose and has a perfectly good photo —
+// the patrol must not read its draft flag as "lost its hero" and republish it.
+export const NON_PHOTO_HOLD = /^(hours|content|generic-topic|duplicate)$/;
 
 /**
  * @param {object} p

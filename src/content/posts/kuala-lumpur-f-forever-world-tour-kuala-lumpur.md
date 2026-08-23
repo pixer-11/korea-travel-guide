@@ -32,6 +32,8 @@ heroImage:
   focus:
     x: 35
     'y': 25
+draft: true
+heldReason: duplicate
 ---
 
 ## Why this show matters
