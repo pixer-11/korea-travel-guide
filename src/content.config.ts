@@ -59,7 +59,17 @@ const posts = defineCollection({
         // performer's face falls out of the frame (The Weeknd / Post Malone,
         // 2026-08-15). Optional: older heroes fall back to a top-weighted
         // default for portraits.
-        focus: z.object({ x: z.number().min(0).max(100), y: z.number().min(0).max(100) }).optional(),
+        // top/bottom (2026-08-23): the head box the gate measured — hair to
+        // chin, % from the top. x/y is its centre. Card thumbnails keep the
+        // box inside their window; older heroes carry the point only.
+        focus: z
+          .object({
+            x: z.number().min(0).max(100),
+            y: z.number().min(0).max(100),
+            top: z.number().min(0).max(100).optional(),
+            bottom: z.number().min(0).max(100).optional(),
+          })
+          .optional(),
       })
       .optional(),
     // Extra in-body images (a small gallery). Same license rules as hero.

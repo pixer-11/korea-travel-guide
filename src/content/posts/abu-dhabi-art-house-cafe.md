@@ -15,7 +15,7 @@ heroImage:
   license: foursquare
   source: 'https://foursquare.com/v/53ff53b9498ef90189445fe5'
   focus:
-    x: 65
+    x: 35
     y: 35
 gallery:
   - url: >-

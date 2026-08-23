@@ -19,7 +19,7 @@
   "w": 1080,
   "h": 1920,
   "focus": {
-   "x": 65,
+   "x": 35,
    "y": 35
   }
  },
@@ -2296,7 +2296,7 @@
   "h": 1920,
   "focus": {
    "x": 50,
-   "y": 35
+   "y": 45
   }
  },
  "https://upload.wikimedia.org/wikipedia/commons/c/ce/Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg": {
@@ -2884,7 +2884,7 @@
   "h": 1960,
   "focus": {
    "x": 50,
-   "y": 35
+   "y": 45
   }
  },
  "https://fastly.4sqi.net/img/general/original/42658048_ticdP5TZj249H7pQbV-HMAvyfhd7qCZtqurG1hPhHnU.jpg": {
@@ -3151,7 +3151,7 @@
   "w": 1080,
   "h": 1920,
   "focus": {
-   "x": 50,
+   "x": 35,
    "y": 35
   }
  },
@@ -3400,7 +3400,7 @@
   "h": 1920,
   "focus": {
    "x": 50,
-   "y": 35
+   "y": 45
   }
  },
  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/1920px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg": {
@@ -4120,7 +4120,7 @@
   "h": 2282,
   "focus": {
    "x": 50,
-   "y": 35
+   "y": 50
   }
  },
  "https://fastly.4sqi.net/img/general/original/150480670_SqXtspuhy_6_CFk8iTQqZ7FMxlvIcIvYiJ03W7DzsVs.jpg": {

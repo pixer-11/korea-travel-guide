@@ -38,7 +38,7 @@ for (const slug of slugs) {
     if (!vis.ok || !vis.focus) { console.log(`  ✗ ${slug}: gate did not clear it (${vis.reason || 'no focus returned'}) — left as is`); skipped++; continue; }
     parsed.data.heroImage = { ...d.heroImage, focus: vis.focus };
     stamped++;
-    console.log(`  ✓ ${slug}: focus {x:${vis.focus.x}, y:${vis.focus.y}} — ${String(vis.reason).slice(0, 50)}`);
+    console.log(`  ✓ ${slug}: focus {x:${vis.focus.x}, y:${vis.focus.y}${vis.focus.top != null ? `, head ${vis.focus.top}-${vis.focus.bottom}%` : ''}} — ${String(vis.reason).slice(0, 50)}`);
   }
   if (RELEASE && parsed.data.draft === true && parsed.data.heldReason === 'content') {
     delete parsed.data.draft;

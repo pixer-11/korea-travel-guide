@@ -12,7 +12,7 @@ heroImage:
   source: https://foursquare.com/v/6598eccf4db0413535e59178
   focus:
     x: 50
-    y: 35
+    y: 45
 gallery: []
 place:
   id: ChIJ3e4XhzlncDERSlXcE5egEUw

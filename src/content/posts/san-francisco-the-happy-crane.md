@@ -28,7 +28,7 @@ heroImage:
   source: https://foursquare.com/v/68858aba6c4d91326d51d5b7
   focus:
     x: 50
-    y: 35
+    y: 45
 ---
 
 ## Why Hayes Valley, why now

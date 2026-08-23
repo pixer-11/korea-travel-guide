@@ -13,6 +13,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import sharp from 'sharp';
 import { politeFetch } from './polite-fetch.mjs';
+import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply } from './head-box.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.VISION_MODEL || 'claude-sonnet-5';
@@ -187,8 +188,12 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               // where the subject IS. Now it says, and the page crops toward
               // it (heroImage.focus → object-position). Every photo, every
               // caller — this is the one function all hero paths pass through.
-              `ALSO report the FOCAL POINT: where in the frame is the main subject a viewer must see (a person's FACE, the landmark's most recognisable part, the dish)? Give x,y as percentages from the top-left (0-100). If the image is a landscape with no single subject, use 50,50.\n` +
-      `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>", "focusX": <0-100>, "focusY": <0-100>}`,
+              // A single point sat 8–17% below the face on every portrait
+              // measured (2026-08-23); the HEAD BOX (hair → chin) replaces it.
+              // Wording and parser live in lib/head-box.mjs — one for every
+              // prompt that produces a focus.
+              `${HEAD_BOX_ASK}\n` +
+      `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>", ${HEAD_BOX_JSON}}`,
           },
         ],
       }],
@@ -197,9 +202,8 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
     // Name truncation for what it is, so the log can tell it from an outage.
     if (msg.stop_reason === 'max_tokens' && !/\}\s*$/.test(text.trim())) throw new Error('reply truncated at max_tokens');
     const j = JSON.parse(text.replace(/^[\s\S]*?\{/, '{').replace(/\}[\s\S]*$/, '}'));
-    const pct = (v) => (Number.isFinite(Number(v)) ? Math.min(100, Math.max(0, Math.round(Number(v)))) : null);
-    const fx = pct(j.focusX), fy = pct(j.focusY);
-    return { ok: !!j.ok, reason: String(j.reason || ''), ...(fx != null && fy != null ? { focus: { x: fx, y: fy } } : {}) };
+    const focus = focusFromReply(j);
+    return { ok: !!j.ok, reason: String(j.reason || ''), ...(focus ? { focus } : {}) };
   } catch (e) {
     if (/image|fetch|url/i.test(e.message)) return { ok: false, reason: `image unusable: ${e.message.slice(0, 60)}` };
     // An overloaded/rate-limited API is NOT evidence the photo is right.

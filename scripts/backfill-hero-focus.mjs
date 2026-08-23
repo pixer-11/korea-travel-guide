@@ -28,6 +28,7 @@ import matter from 'gray-matter';
 import sharp from 'sharp';
 import Anthropic from '@anthropic-ai/sdk';
 import { politeFetch } from './lib/polite-fetch.mjs';
+import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply, focusYaml } from './lib/head-box.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -56,14 +57,14 @@ async function askFocus(buf, subject) {
     model: 'claude-haiku-4-5-20251001', max_tokens: 60,
     messages: [{ role: 'user', content: [
       { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: small.toString('base64') } },
-      { type: 'text', text: `This photo heads a travel-guide article about ${subject}. Where is the FOCAL POINT a viewer must see — a person's FACE, the landmark's most recognisable part, the dish? Give x,y as percentages from the top-left (0-100). If it is a landscape with no single subject, answer 50,50. Reply ONLY JSON: {"x":<0-100>,"y":<0-100>}` },
+      // Same head-box question as the live gate (lib/head-box.mjs) — two
+      // prompts with two wordings is how the point drifted 8–17% low unseen.
+      { type: 'text', text: `This photo heads a travel-guide article about ${subject}. ${HEAD_BOX_ASK} Reply ONLY JSON: {${HEAD_BOX_JSON}}` },
     ] }],
   });
   const t = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
   const j = JSON.parse(t.match(/\{[\s\S]*\}/)?.[0] ?? 'null');
-  const p = (v) => (Number.isFinite(Number(v)) ? Math.min(100, Math.max(0, Math.round(Number(v)))) : null);
-  const x = p(j?.x), y = p(j?.y);
-  return x != null && y != null ? { x, y } : null;
+  return focusFromReply(j);
 }
 
 const files = (await readdir(POSTS_DIR)).filter((f) => f.endsWith('.md'));
@@ -107,7 +108,7 @@ for (const f of files) {
       // Textual splice: add "  focus:" under heroImage without re-serialising
       // the frontmatter (gray-matter round-trips reorder keys).
       const eol = raw.includes('\r\n') ? '\r\n' : '\n';
-      const line = `  focus:${eol}    x: ${rec.focus.x}${eol}    y: ${rec.focus.y}`;
+      const line = focusYaml(rec.focus, eol);
       // Insert after the heroImage block's last indented line.
       const out = raw.replace(/(^heroImage:\r?\n(?:[ ]{2}.*\r?\n)+?)(?=^[^ \r\n]|^\S)/m, (blk) => blk.replace(/\r?\n$/, '') + eol + line + eol);
       if (out !== raw) { await writeFile(p, out, 'utf8'); written++; }

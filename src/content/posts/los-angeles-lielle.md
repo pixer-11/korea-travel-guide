@@ -28,7 +28,7 @@ heroImage:
   source: https://foursquare.com/v/69cdc07aa105000396451582
   focus:
     x: 50
-    y: 35
+    y: 45
 ---
 
 ## Why Lielle matters right now

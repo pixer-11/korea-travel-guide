@@ -18,6 +18,7 @@ import { dirname, join } from 'node:path';
 import sharp from 'sharp';
 import yaml from 'js-yaml';
 import { politeFetch } from './lib/polite-fetch.mjs';
+import { cropWindowTop, focusKey } from './lib/head-box.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -82,7 +83,8 @@ async function main() {
   const cutWith = existsSync(CUT_WITH) ? JSON.parse(await readFile(CUT_WITH, 'utf8')) : {};
   // 'v2:' — the exact-window crop (2026-08-22) replaced the compass buckets;
   // every focused thumb is re-cut once, unfocused ones keep their key ('').
-  const focusKey = (f) => (f ? `v2:${f.x},${f.y}` : '');
+  // 'v3:' — a hero whose focus carries a HEAD BOX (2026-08-23) is re-cut
+  // once more; point-only thumbs keep 'v2:' and are not touched.
   // The homepage wall reads these paths straight from data/wall.json; the
   // same cache-busting query src/lib/wall.ts adds for cards (the file is
   // served immutable for a year, so a re-cut under the same name must be a
@@ -133,7 +135,10 @@ async function main() {
         let cw = W, ch = Math.round(W / target);
         if (ch > H) { ch = H; cw = Math.round(H * target); }
         const left = Math.max(0, Math.min(W - cw, Math.round((focus.x / 100) * W - cw / 2)));
-        const top = Math.max(0, Math.min(H - ch, Math.round((focus.y / 100) * H - ch / 2)));
+        // Vertical placement is the head box's job when the gate stored one
+        // (hair and chin inside the window, air above); a point-only focus
+        // keeps the point at the window's centre. lib/head-box.mjs, tested.
+        const top = cropWindowTop({ H, ch, focus });
         pipeline = img.extract({ left, top, width: cw, height: ch }).resize(640, 427);
       } else {
         // No stored point: a portrait keeps its top third (faces live there);
