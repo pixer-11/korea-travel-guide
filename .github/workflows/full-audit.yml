@@ -94,9 +94,42 @@ jobs:
       - name: Validate and commit repairs
         if: steps.audit.outputs.prose != '0'
         run: |
-          node scripts/validate-content.mjs
-          node scripts/audit-translations.mjs
-          git add src/content data/full-audit.json
+          # The gate is SCOPED to what the repair touched. Two weeks running
+          # (08-15: 240 repairs, 08-22: 60) the whole batch was thrown away
+          # because the site-wide validator flagged something the repair had
+          # nothing to do with — card thumbnails not yet built for heroes
+          # attached hours earlier, a duplicate event pair — and the money
+          # spent on the rewrites was spent again the next week. Now: the
+          # thumbnails are built here (same as every other job that touches
+          # heroes), the validator runs over the whole site for the record,
+          # and only a repaired file the validator names is reverted; the
+          # rest of the batch is committed. Unrelated site-wide findings are
+          # the daily jobs' business and are reported, not used as a veto.
+          node scripts/build-wall.mjs || echo "build-wall: some thumbnails could not be fetched (Commons throttling) — the daily jobs rebuild them"
+          set +e
+          node scripts/validate-content.mjs > /tmp/validate.log 2>&1
+          vrc=$?
+          node scripts/audit-translations.mjs > /tmp/translations.log 2>&1
+          trc=$?
+          set -e
+          cat /tmp/validate.log
+          tail -n 20 /tmp/translations.log
+          echo "validate-content exit=$vrc · audit-translations exit=$trc (site-wide findings are reported here, not used as a veto)"
+          # An EMPTY log is a crashed validator, not a clean site — then nothing
+          # below can be trusted and the batch must not be committed blind.
+          [ -s /tmp/validate.log ] || { echo "validate-content produced no output — aborting before commit"; exit 1; }
+          [ -s /tmp/translations.log ] || { echo "audit-translations produced no output — aborting before commit"; exit 1; }
+          reverted=0
+          for path in $(git diff --name-only -- src/content); do
+            f=$(basename "$path")
+            if grep -qF "$f" /tmp/validate.log; then
+              echo "↩︎ $f — the validator flags this repaired file; reverting it (the rest of the batch stays)"
+              git checkout -- "$path"
+              reverted=$((reverted+1))
+            fi
+          done
+          echo "reverted=$reverted"
+          git add src/content data/full-audit.json public/wall data/wall.json
           if git diff --staged --quiet; then
             echo "No repairs to commit."
           else

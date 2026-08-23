@@ -142,6 +142,11 @@ for (const row of rows) {
   // here — and this script has no business touching structured data it did not
   // change. Only the body was repaired, so only the body is replaced.
   const head = raw.slice(0, cut + 4);
+  // The model hands back "~100 min" where the body had "\~100 min" — a bare
+  // tilde is strikethrough in Markdown, and the validator then flagged the
+  // repaired Nagoya guide and (until the gate was scoped) the whole weekly
+  // batch with it (2026-08-23). Same escape the discoverer applies at birth.
+  out = out.replace(/(^|[^\\])~/g, '$1\\~');
   await writeFile(path, `${head}\n${out}\n`, 'utf8');
   console.log('   ✓ repaired');
   done++;
