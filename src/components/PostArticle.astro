@@ -7,8 +7,6 @@ import SaveButton from './SaveButton.astro';
 import countriesData from '../../data/countries.json';
 import { SITE } from '../siteConfig';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
-import Hotels from './Hotels.astro';
-import Tours from './Tours.astro';
 import PlanTrip from './PlanTrip.astro';
 import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
@@ -771,23 +769,12 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       </div>
     )}
 
-    {/* Tours was imported at the top of this file and never rendered. The
-        Klook price widget — the only placement on the site that shows real
-        products at real prices instead of a search link — therefore existed on
-        15 English region hubs and on none of the 685 posts. Verified live
-        2026-08-07: `tpemd` appears 0 times on /posts/seoul-gyeongbokgung-palace/
-        and once on /regions/seoul/.
-
-        Ahead of Hotels on purpose: someone reading about a specific place is
-        closer to buying an admission ticket for it than a hotel room. Cities
-        outside the widget's ID map fall through to Tours' own city CTA, so this
-        never renders empty. */}
-    <Tours city={d.region} />
-
-    <Hotels city={d.region} country={d.country ?? 'South Korea'} />
-
-    <PlanTrip city={d.region} country={d.country ?? 'South Korea'} />
-
+    {/* FAQ before the commerce. Three affiliate sections used to follow the
+        prose (Tours widget, Where to stay, Plan your trip — ~1,250px on a
+        phone) and the FAQ and related guides sat behind that wall; 94 clicks
+        and 0 bookings said the extra surface was not converting anyone (UX
+        audit 2026-08-23). One block now, hotels folded into it; Tours and
+        Hotels still render on the region hubs. */}
     {faq.length > 0 && (
       <section class="faq">
         <h2>{t('post.faqTitle')}</h2>
@@ -799,6 +786,8 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         ))}
       </section>
     )}
+
+    <PlanTrip city={d.region} country={d.country ?? 'South Korea'} hotels />
 
     <ShareRow url={pageUrl} title={title} lang={lang} />
 

@@ -1369,6 +1369,15 @@ html[lang^='zh'] .cover-inner h1 {
 .plan-txt span { font-size: 0.82rem; color: var(--muted); line-height: 1.35; }
 .plan-arw { margin-left: auto; color: var(--accent); font-weight: 700; transition: transform .15s ease; }
 .plan-card:hover .plan-arw { transform: translateX(3px); }
+/* On a phone the block is the ONLY commerce on a post (2026-08-23, Tours and
+   Hotels folded in) — six cards stacked one per row ran 834px; two per row
+   with the label alone keeps it under a screen. */
+@media (max-width: 520px) {
+  .plan-grid { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+  .plan-card { padding: 0.7rem 0.75rem; gap: 0.55rem; }
+  .plan-txt strong { font-size: 0.9rem; line-height: 1.25; }
+  .plan-txt span, .plan-arw { display: none; }
+}
 .tours-cta { text-decoration: none; }
 
 /* Top-of-post "Book this trip" intent-capture band (peak-intent, above the fold) */

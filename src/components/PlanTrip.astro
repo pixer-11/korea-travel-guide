@@ -10,8 +10,14 @@ import { localizePlace } from '../i18n/places';
 import countriesData from '../../data/countries.json';
 import esimFacts from '../../data/esim-facts.json';
 import { klookCityDest } from '../lib/klookCities';
-interface Props { city: string; country?: string }
-const { city, country } = Astro.props;
+// `hotels`: a post page used to stack THREE affiliate sections after the prose
+// (Tours widget, Where to stay, Plan your trip) — about 1,250px of commerce on
+// a phone standing between the article and its FAQ and related guides, with
+// 94 affiliate clicks and 0 bookings to show for the extra surface (UX audit
+// 2026-08-23). The post now renders this one block with a hotels card folded
+// in; region hubs keep their own Hotels section and pass nothing.
+interface Props { city: string; country?: string; hotels?: boolean }
+const { city, country, hotels = false } = Astro.props;
 // Labels follow the page's language; the `city` in affiliate links stays English
 // (that's the search query the booking API expects), while the DISPLAYED city name
 // is localized.
@@ -27,8 +33,13 @@ const klookHref = city
   ? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang)))}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
-const services: { icon: string; label: string; desc: string; href: string; internal?: boolean }[] = [
+const services: { icon: string; label: string; desc: string; href: string; internal?: boolean; placement?: string }[] = [
   { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
+  // Same Hotellook search the standalone Hotels block uses (marker
+  // 754088.hotels_widget); the card keeps that block's placement id so the
+  // affiliate report still tells hotel clicks from the rest.
+  ...(hotels && city ? [{ icon: 'hotel', label: t('widget.whereToStay').replace('{city}', cityLabel), desc: t('widget.hotelsDesc').replace('{city}', cityLabel),
+    href: `https://search.hotellook.com/?marker=754088.hotels_widget&language=${lang}&destination=${encodeURIComponent(city)}`, placement: 'hotels-widget' }] : []),
   { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc?sub_id=plantrip_car' },
   // Kiwitaxi shortlink code is yRbl5tIp with a CAPITAL I — it was transcribed as
   // lowercase l on 07-21 (the two glyphs are identical in the dashboard font) and
@@ -66,6 +77,7 @@ const services: { icon: string; label: string; desc: string; href: string; inter
         href={s.href}
         target={s.internal ? undefined : '_blank'}
         rel={s.internal ? undefined : 'sponsored noopener'}
+        data-affiliate-placement={s.placement}
       >
         <span class="plan-ico"><Emoji name={s.icon} /></span>
         <span class="plan-txt"><strong>{s.label}</strong><span>{s.desc}</span></span>
