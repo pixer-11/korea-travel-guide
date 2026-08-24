@@ -22,7 +22,7 @@ faq:
   - q: How much do tickets cost?
     a: Pricing was not included here; single-day and two-day pass prices were available through Babylon's official website or their ticketing partner (typically Biletix in Turkey).
   - q: Who is headlining besides Jack White?
-    a: Wet Leg and The Kills are also announced as headliners, with additional support acts typically revealed closer to the event date.
+    a: Wet Leg and The Kills were also announced as headliners.
 aiGenerated: true
 draft: false
 eventRecurring: true

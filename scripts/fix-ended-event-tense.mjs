@@ -102,8 +102,31 @@ async function rewriteUntilClean(kind, text, title, endedOn, tries = 3) {
 // The brief is "shift the tense", not "shorten the article" — and not "stop
 // halfway". Both happened on 2026-08-10; the rules now live in
 // src/lib/rewrite-guard.mjs so any other repair tool can hold itself to them.
-const keptSubstance = (before, after, kind) =>
-  preservesSubstance(before, after, { headings: kind.startsWith('article body') });
+// The 0.7 floor was written for a 4,000-character body, where losing a third
+// of the text means whole sections went missing. A Quick Answer is three
+// sentences and an FAQ answer is one or two — and the prompt above ORDERS the
+// model to delete any sentence that is nothing but "check back later". Deleting
+// one of three sentences is a 35% cut, so on 2026-08-24 the guard threw away
+// three perfectly correct rewrites in a row (goyang-bigbang's Quick Answer came
+// back at 208 of 331 characters with every fact intact and was discarded), then
+// burned four more model calls per field retrying something that could never
+// pass. The floor for a short field is therefore not a flat share but the
+// length the text WOULD have if exactly the offending sentences were removed —
+// anything at or above that deleted no more than it was told to.
+function offenceFreeLength(text) {
+  return splitSentences(text)
+    .filter((s) => !OFFENDING_CLAIM.test(s))
+    .join('').trim().length;
+}
+
+const keptSubstance = (before, after, kind) => {
+  if (kind.startsWith('article body')) {
+    return preservesSubstance(before, after, { headings: true });
+  }
+  const floor = offenceFreeLength(before);
+  const minShare = Math.max(0.35, Math.min(0.7, (floor * 0.9) / before.length));
+  return preservesSubstance(before, after, { minShare });
+};
 
 // Last resort: stop rewriting the whole field and go after the offending
 // sentences one at a time — a single sentence is a much easier ask. Anything
@@ -179,28 +202,36 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   console.log(`\n📝 ${f} (ended ${end}) — ${hits.join(', ')}`);
   let nextFm = { ...fm };
   let nextBody = body;
+  // "faq → rewritten" used to print whether or not a single answer changed, and
+  // fixed++ ran even when every rewrite had been rejected — so on 2026-08-24 the
+  // run reported "rewritten 3" while the validator still flagged the same posts
+  // and git showed no diff at all. A repair tool that reports its intent instead
+  // of its effect hides exactly the failure it exists to catch.
+  let changed = false;
 
   if (hits.includes('quickAnswer')) {
     const out = await rewriteUntilClean('Quick Answer', fm.quickAnswer, fm.title, end);
-    if (out) { nextFm.quickAnswer = out; console.log(`   quickAnswer → ${out.slice(0, 100)}…`); }
+    if (out) { nextFm.quickAnswer = out; changed = true; console.log(`   quickAnswer → ${out.slice(0, 100)}…`); }
     else console.log('   ⚠️  quickAnswer rewrite still forward-looking — left alone');
   }
   if (hits.includes('faq')) {
     nextFm.faq = [];
+    let done = 0, missed = 0;
     for (const item of fm.faq) {
       if (!OFFENDING_CLAIM.test(String(item?.a || ''))) { nextFm.faq.push(item); continue; }
       const out = await rewriteUntilClean('FAQ answer', item.a, fm.title, end);
+      if (out) { done++; changed = true; } else missed++;
       nextFm.faq.push(out ? { ...item, a: out } : item);
     }
-    console.log('   faq → rewritten');
+    console.log(`   faq → ${done} rewritten${missed ? `, ⚠️  ${missed} left alone` : ''}`);
   }
   if (hits.includes('body')) {
     const out = await rewriteUntilClean('article body (markdown)', body.trim(), fm.title, end);
-    if (out) { nextBody = `\n${out}\n`; console.log('   body → rewritten'); }
+    if (out) { nextBody = `\n${out}\n`; changed = true; console.log('   body → rewritten'); }
     else console.log('   ⚠️  body rewrite still forward-looking — left alone');
   }
 
-  if (DRY) continue;
+  if (DRY || !changed) continue;
   await writeFile(join(POSTS, f),
     `---\n${yaml.dump(nextFm, { lineWidth: -1, noRefs: true, sortKeys: false })}---${nextBody}`, 'utf8');
   fixed++;
