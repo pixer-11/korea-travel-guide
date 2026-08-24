@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { isNoindexedPost } from '../lib/eventStatus';
 
 // Image sitemap — lists each post's hero image against its page URL so Google can
 // surface them in Image search + Discover. The main sitemap (@astrojs/sitemap)
@@ -11,7 +12,13 @@ const esc = (s: string) =>
 const abs = (u: string) => (u.startsWith('http') ? u : SITE + u);
 
 export async function GET() {
-  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  // A sitemap must never submit a page the page itself marks noindex. The main
+  // sitemap has always filtered these (astro.config.mjs → noindexSlugs); this
+  // file did not, so 16 past one-off events were told "don't index me" by their
+  // own meta tag while still being handed to Google here (audit 2026-08-25).
+  const posts = (await getCollection('posts', ({ data }) => !data.draft)).filter(
+    (p) => !isNoindexedPost(p.data),
+  );
   const entries = posts
     .filter((p) => p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder'))
     // Hero AND in-body gallery photos: every image is its own entry point from
