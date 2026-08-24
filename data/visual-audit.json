@@ -12674,5 +12674,29 @@
     "verdict": "MATCH",
     "reason": "publish gate: Covered souk market interior with jewelry shops, matches venue",
     "at": "2026-08-24T08:26:13.889Z"
+  },
+  "margilan-silk-factory\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Silk_factory_in_Margilan.jpg": {
+    "slug": "margilan-silk-factory",
+    "verdict": "MATCH",
+    "reason": "publish gate: Dyed silk hanks drying, plausible silk factory scene",
+    "at": "2026-08-24T09:39:13.147Z"
+  },
+  "sen-monorom-bousra-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bousra_Waterfall.jpg/3840px-Bousra_Waterfall.jpg": {
+    "slug": "sen-monorom-bousra-waterfall",
+    "verdict": "MATCH",
+    "reason": "publish gate: Genuine waterfall scene matching hidden-gem jungle waterfall description",
+    "at": "2026-08-24T09:40:18.591Z"
+  },
+  "phnom-penh-independence-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/02-Independence_Monument_Phnom_Penh-nX-3.jpg/3840px-02-Independence_Monument_Phnom_Penh-nX-3.jpg": {
+    "slug": "phnom-penh-independence-monument",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Independence Monument clearly, representative view of landmark",
+    "at": "2026-08-24T09:42:14.014Z"
+  },
+  "siem-reap-bayon-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/1920px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG": {
+    "slug": "siem-reap-bayon-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Recognisable Bayon Temple towers with face carvings, Siem Reap",
+    "at": "2026-08-24T09:42:58.911Z"
   }
 }

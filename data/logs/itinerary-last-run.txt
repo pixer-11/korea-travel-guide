@@ -28,11 +28,15 @@ New York, United States — 16 qualifying post(s), variants: 3
 
 Singapore, Singapore — 47 qualifying post(s), variants: 3, 5
   ~ Singapore 3d — structure changed by 3 slug(s), regenerating prose
-  ⚠ Singapore 3d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
-PROSE-GUARD FAILED: Singapore 3d — hours-language in days[0].intro: "The day opens at Gardens by the Bay's sweeping waterfront park before a stop at Le Noir inside Marina Bay Sands. From there it's back into the gardens for Supertree Grove, then a crossing to Kampong Glam for an easygoing evening plate on Bussorah Street."
-ERROR processing Singapore: prose guard failed for Singapore 3d after retry (1 issue(s))
+  ⚠ Singapore 3d — guard found 1 hours/price + 6 rain-leak issue(s) on first pass; retrying once
+  ⚠ Singapore 3d — dropping rain-swap for day 1 (venue name leaked into written prose after retry)
+  ✅ Singapore 3d — updated
+  ~ Singapore 5d — structure changed by 3 slug(s), regenerating prose
+  ⚠ Singapore 5d — guard found 0 hours/price + 1 rain-leak issue(s) on first pass; retrying once
+  ⚠ Singapore 5d — dropping rain-swap for day 3 (venue name leaked into written prose after retry)
+  ✅ Singapore 5d — updated
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

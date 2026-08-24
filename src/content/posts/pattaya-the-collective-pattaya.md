@@ -1,13 +1,13 @@
 ---
-title: 'The Collective: Where to Eat in Pattaya'
+title: "The Collective: Where to Eat in Pattaya"
 description: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu.
 country: Thailand
 region: Pattaya
 category: restaurant
-pubDate: '2026-07-22T09:12:24.736Z'
+pubDate: "2026-07-22T09:12:24.736Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg
-  credit: 'Photo: Foursquare user content (North Pattaya Beach)'
+  credit: "Photo: Foursquare user content (North Pattaya Beach)"
   license: foursquare
   source: https://foursquare.com/v/537ba766498eeca2266be38e
 gallery: []
@@ -22,7 +22,7 @@ place:
   lat: 12.9477202
   lng: 100.8847605
   busyness:
-    updated: '2026-07-23'
+    updated: "2026-07-23"
     weekdayQuiet:
       - 12
       - 13
@@ -43,32 +43,32 @@ place:
       - 21
       - 22
     venueId: ven_49496a4b714e696e42546e52456a41394f5475696a65734a496843
-  phone: '+66 38 725 555'
+  phone: +66 38 725 555
   openingHours:
-    - 'Monday: 12:00 PM – 12:00 AM'
-    - 'Tuesday: 12:00 PM – 12:00 AM'
-    - 'Wednesday: 12:00 PM – 12:00 AM'
-    - 'Thursday: 12:00 PM – 12:00 AM'
-    - 'Friday: 12:00 PM – 12:00 AM'
-    - 'Saturday: 12:00 PM – 12:00 AM'
-    - 'Sunday: 12:00 PM – 12:00 AM'
+    - "Monday: 12:00 PM – 12:00 AM"
+    - "Tuesday: 12:00 PM – 12:00 AM"
+    - "Wednesday: 12:00 PM – 12:00 AM"
+    - "Thursday: 12:00 PM – 12:00 AM"
+    - "Friday: 12:00 PM – 12:00 AM"
+    - "Saturday: 12:00 PM – 12:00 AM"
+    - "Sunday: 12:00 PM – 12:00 AM"
 tags:
   - pattaya
   - local restaurant
-quickAnswer: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu. With a 4.8 rating across 2,173+ reviews, it's a reliable pick for families and groups who want variety without leaving the beachfront strip — go for breakfast or the dinner buffet, and book ahead on weekends.
+quickAnswer: The Collective Pattaya is the all-day dining hall inside the Holiday Inn Pattaya on Beach Road, best known for its sprawling international buffet spreads (seafood, sushi, curries, live cooking stations) alongside an à la carte menu. With a 4.8 rating across 2,173+ reviews, it's a reliable pick for families and groups who want variety without leaving the beachfront strip — go for lunch or the dinner buffet, and book ahead on weekends.
 faq:
   - q: Where exactly is The Collective Pattaya located?
     a: It's inside the Holiday Inn Pattaya at 463/99 Beach Road, Muang Pattaya, Bang Lamung, Chon Buri — on the beach side of Beach Road, easily reached by baht bus, taxi, or a walk from Central Pattaya or Walking Street.
   - q: Do I need to be a hotel guest to eat there?
     a: No, it's open to outside diners as well as Holiday Inn guests, though reservations are recommended for dinner and peak weekends since it's a popular buffet spot.
   - q: How much does the buffet cost?
-    a: Pricing varies by meal (breakfast vs. dinner) and season, so it's best to check current rates directly with the Holiday Inn Pattaya before visiting rather than rely on older listed prices.
+    a: Pricing varies by meal (lunch vs. dinner) and season, so it's best to check current rates directly with the Holiday Inn Pattaya before visiting rather than rely on older listed prices.
   - q: What's the best time to go?
-    a: Breakfast is quieter and a good value option; dinner gets busy after 7 PM, especially on weekends and holidays, so arrive early or book ahead.
+    a: Lunch, right after the venue opens at noon, is quieter and a good value option; dinner gets busy after 7 PM, especially on weekends and holidays, so arrive early or book ahead.
   - q: What's nearby if I want to combine it with sightseeing?
     a: It's a short walk to Pattaya's main beachfront promenade, Central Pattaya's shopping area, and the northern end of Walking Street, making it easy to pair a meal with an evening stroll.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why go
@@ -85,13 +85,13 @@ From Walking Street, expect roughly a 10–15 minute walk north along the beachf
 
 ## What to eat
 
-The draw here is the buffet format — international spreads that typically rotate a seafood-on-ice station, sushi and sashimi, a carving station, Thai curries and stir-fries, and a dessert table with local fruit alongside Western bakes. Breakfast buffets at hotel restaurants like this tend to be the best value relative to effort: you get everything from congee and dim sum to eggs cooked to order and pastries, which suits jet-lagged travelers on different schedules.
+The draw here is the buffet format — international spreads that typically rotate a seafood-on-ice station, sushi and sashimi, a carving station, Thai curries and stir-fries, and a dessert table with local fruit alongside Western bakes. Lunch buffets at hotel restaurants like this tend to be the best value relative to effort: you get everything from congee and dim sum to eggs cooked to order and pastries, which suits travelers on different schedules.
 
 Dinner is usually the bigger production, often built around themed nights (seafood or barbecue-style spreads are common at hotel buffets in this category), so if you're set on a specific theme, it's worth confirming that night's lineup with the hotel before you go. Beyond the buffet, an à la carte menu is typically available for those who'd rather order individual Thai or international dishes rather than commit to the full spread.
 
 ## When to go
 
-Breakfast (roughly 6:30–10:30 AM in most Pattaya hotel restaurants) is quieter and a good option if you want space at the stations without queuing. Dinner service picks up considerably after 7 PM as both hotel guests and outside diners arrive, so arriving right at opening or booking a table in advance is the more comfortable route on weekends and during Thai and Chinese public holidays, when Pattaya's hotel occupancy spikes.
+Lunch, right after opening at noon, is quieter and a good option if you want space at the stations without queuing. Dinner service picks up considerably after 7 PM as both hotel guests and outside diners arrive, so arriving right at opening or booking a table in advance is the more comfortable route on weekends and during Thai and Chinese public holidays, when Pattaya's hotel occupancy spikes.
 
 Since exact hours, buffet themes, and pricing shift seasonally, confirm the current schedule and cost directly with the Holiday Inn Pattaya before heading over, especially if you're timing a visit around a specific themed night.
 

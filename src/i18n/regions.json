@@ -8357,5 +8357,32 @@
       "getting": "马德望没有定期商业航班,因此大多数旅行者会先飞往暹粒或金边,再转乘长途汽车或小巴陆路前往(从暹粒出发约3-4小时,从金边出发约5小时)。此外,每天也有一趟连接马德望与金边的火车,车程大约6-7小时。",
       "days": "建议至少安排2晚,以体验竹火车、游览老城殖民区,并前往磅平山看日落;如果想节奏更悠闲些,还能骑行游览周边乡村,建议安排3晚。"
     }
+  },
+  "Sen Monorom": {
+    "en": {
+      "blurb": "Perched at around 800m in Cambodia's remote northeast, Sen Monorom is the laid-back capital of Mondulkiri province — a hill-country town of red dirt roads, pine-dotted grasslands and cool mountain air that feels worlds away from the Cambodian lowlands. It's best known as the gateway to ethical elephant sanctuaries, jungle waterfalls, and the indigenous Bunong communities who call these forested highlands home.",
+      "getting": "There's no rail line or functioning commercial airport serving the town, so travellers arrive overland: buses and minivans run from Phnom Penh on a now fully paved road, typically taking ~6-7 hours, with slower connections also possible via regional hubs like Kratie or Snuol.",
+      "days": "Most travellers spend ~2-3 days in and around Sen Monorom, enough time to visit an elephant sanctuary, hike to a waterfall or two, and explore the surrounding hills before moving on."
+    },
+    "ko": {
+      "blurb": "캄보디아 외딴 북동부, 해발 약 800m 고지대에 자리한 센모노롬은 몬둘키리 주의 여유로운 주도입니다. 붉은 흙길과 소나무가 드문드문 서 있는 초원, 서늘한 산 공기가 어우러진 이 고원 마을은 캄보디아 저지대와는 전혀 다른 세상처럼 느껴집니다. 윤리적인 코끼리 보호소와 정글 폭포, 그리고 이 숲으로 뒤덮인 고지대를 삶의 터전으로 살아가는 소수민족 분롱족 마을로 향하는 관문으로 가장 잘 알려져 있습니다.",
+      "getting": "이 마을에는 철도도, 운영 중인 상업 공항도 없어 여행객들은 육로로 이동해야 합니다. 프놈펜에서 출발하는 버스와 미니밴이 이제는 완전히 포장된 도로를 따라 운행하며 보통 6~7시간 정도 걸리고, 크라체나 스놀 같은 지역 거점 도시를 경유해 더 느리게 이동하는 방법도 있습니다.",
+      "days": "대부분의 여행객은 센모노롬과 그 주변에서 약 2~3일을 보내며, 이 정도면 코끼리 보호소를 방문하고 폭포 한두 곳까지 하이킹을 다녀온 뒤 주변 산악 지대를 둘러보고 다음 여정으로 떠나기에 충분한 시간입니다."
+    },
+    "ja": {
+      "blurb": "カンボジア北東部の辺境、標高約800mの高原に位置するセンモノロムは、モンドルキリ州ののどかな州都です。赤土の道、松林が点在する草原、そして涼やかな山の空気が広がるこの丘陸の町は、カンボジアの低地とはまったく異なる世界を感じさせてくれます。象を保護するエシカルなサンクチュアリ、ジャングルの滝、そしてこの森深い高原に暮らす先住民ブノン族の村々への玄関口として知られています。",
+      "getting": "この町には鉄道も稼働中の商業空港もないため、旅行者は陸路で訪れることになります。プノンペンからはバスやミニバンが運行しており、現在は舗装が完了した道路を通って所要時間は約6~7時間。クラチェやスヌオルといった地方の拠点都市を経由する、やや時間のかかるルートもあります。",
+      "days": "多くの旅行者はセンモノロム周辺で2~3日ほど過ごします。この日数があれば、象のサンクチュアリを訪れたり、滝へのハイキングを楽しんだり、周辺の丘陵地帯を散策したりしてから次の目的地へ向かうのに十分です。"
+    },
+    "es": {
+      "blurb": "Encaramada a unos 800 m de altitud en el remoto noreste de Camboya, Sen Monorom es la relajada capital de la provincia de Mondulkiri: un pueblo de tierras altas con caminos de tierra roja, praderas salpicadas de pinos y un clima fresco de montaña que parece estar a un mundo de distancia de las tierras bajas camboyanas. Es conocida sobre todo como la puerta de entrada a santuarios éticos de elefantes, cascadas escondidas en la selva y las comunidades indígenas bunong, que llaman hogar a estas boscosas tierras altas.",
+      "getting": "El pueblo no cuenta con línea de ferrocarril ni aeropuerto comercial en funcionamiento, así que los viajeros llegan por tierra: autobuses y furgonetas parten desde Phnom Penh por una carretera ahora completamente asfaltada, con un trayecto de aproximadamente 6-7 horas, aunque también existen conexiones más lentas a través de centros regionales como Kratie o Snuol.",
+      "days": "La mayoría de los viajeros pasa entre 2 y 3 días en Sen Monorom y sus alrededores, tiempo suficiente para visitar un santuario de elefantes, caminar hasta una o dos cascadas y explorar las colinas cercanas antes de continuar su viaje."
+    },
+    "zh": {
+      "blurb": "桑蒙多隆坐落在柬埔寨东北偏远地区,海拔约800米,是蒙多基里省悠闲惬意的省会。这里红土路蜿蜒,松林点缀着草原,山间空气清凉,与柬埔寨低地的景象截然不同,仿佛置身另一个世界。这座小城最广为人知的,是它作为通往人道大象保护区、丛林瀑布以及世代居住在这片林木葱郁高地上的布农族聚居地的门户。",
+      "getting": "桑蒙多隆没有铁路,也没有可供商业航班起降的机场,因此游客只能通过陆路前往。大巴和小巴从金边出发,沿着如今已全线铺设完毕的公路行驶,车程大约6至7小时;此外,也可以经桔井(Kratie)或Snuol等区域枢纽转乘,不过耗时会更长一些。",
+      "days": "大多数游客会在桑蒙多隆及周边地区停留约2至3天,时间足以参观一处大象保护区、徒步前往一两处瀑布,并探索周围的丘陵地带,然后再启程前往下一站。"
+    }
   }
 }

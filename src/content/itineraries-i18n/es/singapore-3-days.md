@@ -1,39 +1,38 @@
 ---
 lang: es
 slug: singapore-3-days
-sourceHash: a850597b4a7584079b8dec0983f570d808b6a829
-title: 'Singapur en 3 días: jardines, selva tropical y costa'
-description: Un itinerario de 3 días por Singapur que conecta los jardines y el perfil urbano de Marina Bay con los senderos de selva tropical de Bukit Timah y los Jardines Botánicos, para terminar recorriendo la costa este y regresando a los invernaderos de Marina Bay.
-quickAnswer: Este itinerario de 3 días por Singapur avanza desde los jardines y el perfil urbano de Marina Bay y las calles con historia de Kampong Glam el primer día, hasta los senderos de selva tropical de Bukit Timah y los Jardines Botánicos de Singapur el segundo día, para luego visitar East Coast Park y Katong Park y terminar de nuevo en el Cloud Forest de Marina Bay el tercer día.
+sourceHash: 6bd757af1907816aa4758de4f341b467bc5c9969
+title: 'Itinerario de 3 días en Singapur: Jardines, selva tropical y la costera Katong'
+description: Un itinerario de 3 días por Singapur que va desde los jardines de Marina Bay y las calles con historia de Kampong Glam hasta los senderos de selva tropical de Bukit Timah y los rincones costeros y llenos de mercados de Katong.
+quickAnswer: 'Este es un itinerario de 3 días por Singapur: el primer día recorre los jardines de Marina Bay y las calles históricas de Kampong Glam, el segundo día se adentra en la selva tropical de Bukit Timah antes de terminar con calma en los Botanic Gardens, y el tercer día avanza por la costa este hacia Geylang Serai y Katong Park.'
 faq:
-  - q: ¿Cuánto se camina en este itinerario de 3 días por Singapur?
-    a: Cada día combina paseos cortos entre paradas cercanas con trayectos más largos en transporte; por ejemplo, ir de East Coast a Katong Park y luego a Marina Bay el tercer día implica distancias que superan lo razonable a pie, así que conviene usar transporte público para esos tramos.
-  - q: ¿Es un itinerario flexible según el clima?
-    a: 'Sí: cada día incluye una alternativa para días de lluvia, de modo que hay una opción bajo techo disponible si planes al aire libre como los jardines, los senderos de la selva o la playa se ven afectados por la lluvia.'
-  - q: ¿Cuál es el mejor momento del día para visitar las paradas al aire libre?
-    a: Varias paradas, como la Reserva Natural de Bukit Timah y los Jardines Botánicos, suelen estar más tranquilas entre semana, por lo que visitarlas un día laborable en vez de un fin de semana por la tarde o por la mañana suele significar menos aglomeraciones.
-  - q: ¿Es necesario reservar algo con antelación?
-    a: Tanto el SkyPark Observation Deck como Le Noir son lugares populares y muy bien valorados, así que conviene planear la reserva o llegar temprano teniendo en cuenta la afluencia que atraen.
-  - q: ¿Cuánto tiempo debo reservar para cada día?
-    a: El primer día es más completo, con jardines, almuerzo, vistas del perfil urbano y cena, mientras que los días dos y tres son más ligeros y giran en torno a dos o tres paradas principales cada uno.
+  - q: ¿Cómo debería moverme durante este itinerario de 3 días por Singapur?
+    a: La mayoría de las paradas dentro de un mismo día están lo bastante cerca como para ir caminando, pero algunos trayectos —como desde Supertree Grove en adelante, o de Bukit Timah Nature Reserve a los Botanic Gardens— superan la distancia a pie y conviene cubrirlos en transporte público.
+  - q: ¿Cuánto tiempo debería destinar a cada día?
+    a: 'Cada día está organizado en torno a un puñado de paradas con tiempos de permanencia que van desde breves visitas a parques hasta exploraciones de varias horas, así que el ritmo es flexible: conviene tratar las paradas más largas, como Gardens by the Bay o el Bukit Timah Nature Reserve Visitor Centre, como los ejes de ese día.'
+  - q: ¿Cuál es el mejor momento del día para visitar los jardines y las reservas de este viaje?
+    a: Se indican franjas más tranquilas para varias paradas —por ejemplo, las mañanas entre semana son ideales para el Bukit Timah Nature Reserve Visitor Centre, mientras que las tardes entre semana funcionan bien para el propio Bukit Timah Nature Reserve—, así que ajustar la visita a estas franjas ayuda a evitar las multitudes.
+  - q: ¿Es este itinerario adecuado para días de lluvia?
+    a: Los días 2 y 3 tienen una alternativa indicada para días de lluvia; el otro día no la tiene, así que los planes de ese día se mantendrían tal como están programados.
+  - q: ¿Necesito reserva para alguna de estas paradas?
+    a: Le Noir es lo bastante conocido como para que valga la pena reservar con antelación, pero el resto de las paradas de este itinerario no requieren reserva.
 days:
-  - label: De los jardines de Marina Bay a Kampong Glam
-    intro: El día comienza en el extenso parque frente al mar de Gardens by the Bay, continúa a través de Marina Bay Sands para almorzar y disfrutar de las vistas del perfil urbano, y termina en la calle peatonal con historia de Kampong Glam. Es una combinación completa de espacios verdes, arquitectura icónica y una cena relajada a pie de calle para cerrar la jornada.
-  - label: De los senderos de la selva tropical a los Jardines Botánicos
-    intro: El segundo día se centra en Bukit Timah y sus alrededores, comenzando en el centro de visitantes de la reserva natural antes de adentrarse en los propios senderos de la reserva, para luego cruzar hacia los Jardines Botánicos de Singapur y cerrar la tarde con un final más tranquilo y verde.
-  - label: De la costa este al invernadero de Marina Bay
-    intro: El último día comienza en el tramo frente al mar de East Coast Park, continúa hacia el pequeño y frondoso Katong Park cerca de allí, y luego cruza de vuelta a Marina Bay para una tarde-noche entre la bruma y el sendero de montaña del Cloud Forest.
+  - label: Del verdor de Marina Bay a las calles de Kampong Glam
+    intro: El primer día comienza entre los árboles imponentes y los conservatorios climatizados de Gardens by the Bay, con una pausa para cócteles y platos pequeños cerca de allí, en Marina Bay Sands. Desde ahí se vuelve al Supertree Grove de los Gardens para disfrutar de su espectáculo de luces nocturno, antes de cruzar hacia la calle peatonal con historia de Bussorah St, en Kampong Glam, para una comida relajada.
+  - label: Senderos de selva tropical hacia la calma de los Botanic Gardens
+    intro: El segundo día gira en torno a Bukit Timah, comenzando en el centro de visitantes de la reserva natural antes de adentrarse en los senderos hacia la cumbre y la cantera de la propia reserva. Termina con un desplazamiento hasta el límite de Tanglin, donde los Singapore Botanic Gardens ofrecen un cierre más tranquilo y verde.
+  - label: De las arenas de East Coast al tranquilo parque de Katong
+    intro: El tercer día comienza por los senderos frente al mar de East Coast Park, y luego se adentra tierra adentro para recorrer los puestos del mercado húmedo y el centro de hawkers de Pasar Geylang Serai. El día se cierra en el pequeño y frondoso Katong Park, en Fort Road, un tramo tranquilo para terminar.
 whys:
-  marina-bay-gardens-by-the-bay: Este parque frente al mar es el eje de toda la primera mañana, con zonas exteriores gratuitas como Supertree Grove y Dragonfly Lake que ofrecen mucho que explorar antes de entrar en los invernaderos.
-  marina-bay-le-noir: Este bar-restaurante de ambiente sugerente y lleno de arte, dentro de The Shoppes at Marina Bay Sands, es una parada fácil para almorzar entre los jardines y las vistas de la tarde.
-  bugis-supertree-grove: Supertree Grove es el elemento visual central de Gardens by the Bay, y su espectáculo gratuito de luces y sonido al anochecer merece que se organice la tarde en torno a él.
-  marina-bay-skypark-observation-deck: Situado en el piso 56 de Marina Bay Sands, este mirador ofrece la clásica panorámica de los Supertrees, la noria Flyer y el perfil urbano del centro en una sola vista.
-  kampong-glam-kampong-glam-cafe: Ubicado en la peatonal Bussorah Street, cerca de la Mezquita del Sultán, este café es un lugar relajado y sin pretensiones para terminar el día con un plato rápido y económico.
-  bukit-timah-bukit-timah-nature-reserve-visitor-centre: Como puerta de entrada al mayor tramo de selva primaria de Singapur, el centro de visitantes es el punto natural para comenzar un día centrado en Bukit Timah.
-  bukit-timah-bukit-timah-nature-reserve: Esta es la colina más alta de Singapur y un auténtico fragmento de selva primaria, con opciones que van desde el sendero hasta la cima hasta el circuito más suave de la cantera.
-  dempsey-hill-singapore-botanic-gardens: Este parque gratuito declarado Patrimonio de la Humanidad por la UNESCO, en el límite de Dempsey Hill, es un lugar tranquilo y verde para cerrar el día tras los senderos más exigentes de la selva.
-  katong-east-coast-park: Este largo tramo frente al mar es un punto de partida natural para un día explorando la costa sureste de Singapur, ya sea a pie, en bicicleta o disfrutando de una comida de mariscos.
-  katong-katong-park: Este pequeño y frondoso parque, construido en torno al último vestigio visible del antiguo Fort Tomahawk, es una parada rápida y tranquila entre la playa y los planes de la tarde.
-  singapore-cloud-forest: Este invernadero abovedado, construido en torno a una cascada interior de 35 metros, es una forma apropiada y llena de atmósfera de terminar el viaje de vuelta en Gardens by the Bay.
+  marina-bay-gardens-by-the-bay: Este parque frente al mar, con su Supertree Grove y sus conservatorios climatizados, es un punto de partida natural y con contenido para medio día, ideal para explorar lo mejor de Marina Bay tanto al aire libre como bajo techo.
+  marina-bay-le-noir: Un bar-restaurante lleno de arte y con ambiente sugerente, ubicado justo en The Shoppes at Marina Bay Sands, perfecto para una pausa de almuerzo relajada entre visitas a jardines.
+  bugis-supertree-grove: Volver al Supertree Grove por la noche permite coincidir con el espectáculo gratuito de luces y sonido Garden Rhapsody, el motivo estrella para visitarlo después del anochecer.
+  kampong-glam-kampong-glam-cafe: Una comida rápida y económica en la peatonal Bussorah Street cierra el día con un buen rato de observar gente cerca de la Mezquita del Sultán.
+  bukit-timah-bukit-timah-nature-reserve-visitor-centre: La puerta de entrada a la mayor extensión de selva tropical primaria de Singapur, ideal para entrar en calor antes de afrontar los senderos.
+  bukit-timah-bukit-timah-nature-reserve: La colina más alta de Singapur y sus senderos de selva primaria son el paso natural tras el centro de visitantes, con rutas tanto para un circuito más corto como para una subida más larga hasta la cumbre.
+  dempsey-hill-singapore-botanic-gardens: Un extenso parque gratuito declarado Patrimonio de la Humanidad por la UNESCO, en el límite de Dempsey Hill, que ofrece un cierre de día más tranquilo y verde.
+  katong-east-coast-park: Un largo tramo de playa abierta que se disfruta mejor en bicicleta o a pie, lo que lo convierte en un buen comienzo de día, sin prisas.
+  dempsey-hill-pasar-geylang-serai: Un mercado húmedo y centro de hawkers cuyo mejor momento para recorrer es temprano en el día, ofreciendo un cambio de ritmo respecto a la costa.
+  katong-katong-park: Un pequeño parque frondoso construido alrededor del último vestigio del antiguo Fort Tomahawk, una parada tranquila y breve para cerrar el día.
 rainWhys: {}
 ---

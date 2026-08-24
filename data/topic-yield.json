@@ -14,7 +14,7 @@
    "hits": 39
   },
   "viewpoint": {
-   "attempts": 39,
+   "attempts": 48,
    "hits": 6
   },
   "art gallery": {
@@ -42,8 +42,8 @@
    "hits": 2
   },
   "local market": {
-   "attempts": 21,
-   "hits": 7
+   "attempts": 32,
+   "hits": 8
   },
   "bookshop": {
    "attempts": 4,
@@ -54,15 +54,15 @@
    "hits": 2
   },
   "hidden gem": {
-   "attempts": 28,
-   "hits": 16
+   "attempts": 37,
+   "hits": 19
   },
   "breakfast": {
    "attempts": 11,
    "hits": 2
   },
   "trendy cafe": {
-   "attempts": 50,
+   "attempts": 52,
    "hits": 2
   },
   "street food": {
@@ -86,7 +86,7 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 6,
+   "attempts": 7,
    "hits": 1
   },
   "grill": {
@@ -96,7 +96,19 @@
   "design shop": {
    "attempts": 2,
    "hits": 0
+  },
+  "Sisowath Quay Riverside": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Chanrey Tree": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Romdeng": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-08-24T08:26:13.897Z"
+ "updated": "2026-08-24T09:43:40.369Z"
 }
