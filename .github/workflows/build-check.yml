@@ -119,6 +119,41 @@ jobs:
       - name: Build
         run: npm run build
 
+      # The sitemaps and RSS only exist once the build has run, so this is the
+      # only place the check can live. It asks one question: does every feed
+      # agree with what the pages themselves tell crawlers? A page carrying its
+      # own noindex that a feed still submits costs a fetch to be refused, and
+      # crawl budget is this site's scarce resource (2026-08-25 audit).
+      #
+      # NEVER blocks the deploy. A stale site is the worse failure — eight
+      # commits sat unshipped on 2026-08-10 and nothing alarmed — so a feed
+      # inconsistency reports and the ship still goes out.
+      - name: Feed / noindex consistency
+        id: feedaudit
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/audit-feed-noindex.mjs 2>&1 | tee /tmp/feed-audit.log
+
+      - name: Report feed inconsistency
+        if: steps.feedaudit.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "⚠️ 피드가 색인 거부 페이지를 구글에 제출하고 있습니다 (배포는 정상 진행됨)"
+            echo "커밋: ${GITHUB_SHA:0:7}"
+            echo
+            tail -c 1200 /tmp/feed-audit.log
+            echo
+            echo "클로드에게 '피드 감사 고쳐줘'라고 말하면 원인을 찾아 수정합니다."
+          } > /tmp/feed-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/feed-msg.txt" >/dev/null || true
+
       # Ships the dist that was just verified above. Same wrangler command
       # Cloudflare's own builder ran ("npx wrangler deploy"), same wrangler.jsonc,
       # so the result is byte-identical to what it used to publish.
