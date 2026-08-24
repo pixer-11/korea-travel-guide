@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's the best time to go for a quieter experience?
     a: Early or mid-week dinners are likely calmer than weekend evenings, since new, buzzy openings like this draw the biggest crowds Thursday through Saturday nights.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/20963300_O_xUula_Thq_pedqy3_oIIai3haEY-IRbMxIEd2TXBk.jpg
+  credit: 'Photo: Foursquare user content (Il Presidente)'
+  license: foursquare
+  source: https://foursquare.com/v/6a75ebd371e4eb207ca8a549
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Why go

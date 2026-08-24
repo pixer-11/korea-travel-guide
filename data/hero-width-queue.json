@@ -971,7 +971,6 @@
   "naples-city-view\u0001https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg": 1024,
   "pasay-city-babymonster-choom-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/BABYMONSTER_in_Seattle.jpg": 3590,
   "udaipur-maharana-pratap-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Maharana_Pratap_Museum%2C_Haldi_ghati.jpg/3840px-Maharana_Pratap_Museum%2C_Haldi_ghati.jpg": 3840,
-  "tokyo-fuglen-tokyo\u0001https://fastly.4sqi.net/img/general/original/558972060_-EoWHE3NyhpSPKpRyU1-qlaM_V_53qPhTFslZl-Efgc.jpg": 1080,
   "guangzhou-guangzhou-tv-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Canton_Tower_at_night_Guangzhou_2024_dllu.jpg/3840px-Canton_Tower_at_night_Guangzhou_2024_dllu.jpg": 3840,
   "jaipur-sheesh-mahal-amber-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg/3840px-PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg": 3840,
   "jaipur-the-city-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/3840px-Jaipur_03-2016_20_City_Palace_complex.jpg": 3840,
@@ -1219,63 +1218,88 @@
   "tashkent-central-park-tashkent\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Central_Park_Tashkent.jpg/3840px-Central_Park_Tashkent.jpg": 3840,
   "yilan-yilan-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Yilan_Museum_of_Art_20230606.jpg/1920px-Yilan_Museum_of_Art_20230606.jpg": 1920,
   "labuan-bajo-mimamori-cafe-labuan-bajo\u0001https://fastly.4sqi.net/img/general/original/565826740_OiipWVIUIDF27R4gwDsma-B_q4z_8Jx1uLP0f_0SXXw.jpg": 1440,
-  "alishan-chiayi-performing-arts-center\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Chiayi_Performing_Arts_Center_20090126_night.jpg": 640,
-  "new-taipei-shilin-residence-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg": 2437
+  "new-taipei-shilin-residence-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg": 2437,
+  "boryeong-national-museum-of-korea\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1920px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg": 1920,
+  "daegu-daegu-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Daegu_National_Museum.jpg/1920px-Daegu_National_Museum.jpg": 1920,
+  "dempsey-hill-pasar-geylang-serai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Geylang_Serai_Market_aka_Pasar_Geylang_Serai_%282025%29_-_img_02.jpg/3840px-Geylang_Serai_Market_aka_Pasar_Geylang_Serai_%282025%29_-_img_02.jpg": 3840,
+  "goyang-gyeongdong-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Seoul-Gyeongdong_Market-03.jpg/1920px-Korea-Seoul-Gyeongdong_Market-03.jpg": 1920,
+  "hong-kong-il-presidente\u0001https://fastly.4sqi.net/img/general/original/20963300_O_xUula_Thq_pedqy3_oIIai3haEY-IRbMxIEd2TXBk.jpg": 1440,
+  "kampong-cham-phnom-srei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/03-Phnom_Srei_Kampong_Cham-nX-14.jpg/3840px-03-Phnom_Srei_Kampong_Cham-nX-14.jpg": 3840,
+  "kanazawa-omicho-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg/3840px-Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg": 3840,
+  "kanchanaburi-hellfire-pass-interpretive-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hellfire_Pass_Interpretive_Centre_2023.jpg/3840px-Hellfire_Pass_Interpretive_Centre_2023.jpg": 3840,
+  "koh-chang-mu-ko-chang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moo_Koh_Chang5.JPG/1920px-Moo_Koh_Chang5.JPG": 1920,
+  "kumamoto-kumamoto-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kumamoto_Castle_Keep_Tower_20221022-3.jpg/1920px-Kumamoto_Castle_Keep_Tower_20221022-3.jpg": 1920,
+  "alishan-chiayi-performing-arts-center\u0001https://fastly.4sqi.net/img/general/original/571961661_f1jEtwU_wQmIKqkNJDUurRX7R0jnG--n4mxo8R9_zVE.jpg": 1920,
+  "nantes-douves-du-chateau\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jardin_des_douves_du_Ch%C3%A2teau.jpg/3840px-Jardin_des_douves_du_Ch%C3%A2teau.jpg": 3840,
+  "abu-dhabi-christina-aguilera-live\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Christina_Aguilera%2C_Rio_de_Janeiro%2C_2025_%281%29.jpg": 2252,
+  "philadelphia-kelpius-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg/3840px-Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg": 3840,
+  "phnom-penh-independence-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/02-Independence_Monument_Phnom_Penh-nX-3.jpg/3840px-02-Independence_Monument_Phnom_Penh-nX-3.jpg": 3840,
+  "poipet-national-museum-of-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03-National_Museum_of_Cambodia-nX-7.jpg/3840px-03-National_Museum_of_Cambodia-nX-7.jpg": 3840,
+  "portland-portland-japanese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Japanese_Garden_-1.jpg/1920px-Japanese_Garden_-1.jpg": 1920,
+  "sen-monorom-bousra-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bousra_Waterfall.jpg/3840px-Bousra_Waterfall.jpg": 3840,
+  "al-barsha-dubai-gold-souk\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg": 1210,
+  "siem-reap-bayon-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/1920px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG": 1920,
+  "sukhothai-sukhothai-historical-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wat_srichum_03.jpg/1920px-Wat_srichum_03.jpg": 1920,
+  "margilan-silk-factory\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Silk_factory_in_Margilan.jpg": 3358,
+  "pattaya-the-collective-pattaya\u0001https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg": 1440,
+  "tokyo-fuglen-tokyo\u0001https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg": 1440,
+  "sen-monorom-tuol-sleng-genocide-museum\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg": 1024,
+  "tokyo-tyler-the-creator-chromakopia-the-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg": 2387
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "agra-itmad-ud-daula": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 1024,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-08-24",
+   "attempts": 4,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -1309,8 +1333,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 1024,
-   "attempts": 2,
-   "nextTry": "2026-08-24",
+   "attempts": 3,
+   "nextTry": "2026-08-31",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -1378,5 +1402,5 @@
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-23T19:56:43.846Z"
+ "updated": "2026-08-24T20:13:31.864Z"
 }
