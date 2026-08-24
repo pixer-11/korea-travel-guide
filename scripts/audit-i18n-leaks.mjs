@@ -56,13 +56,19 @@ function holidayNameRule() {
   );
   // A festival the table deliberately keeps under its own name in some
   // language ("Holi", "Diwali", "Onam" — Spanish press uses them unglossed;
-  // 34 Indian entries plus Cambodia's Pchum Ben on 2026-08-23) is not a leak
-  // when that name shows on that page. Those names are left out of the
-  // pattern; a real leak of them in a language that DOES translate them is
-  // the trade-off, and the table is the place to fix that.
+  // 34 Indian entries on 2026-08-23) is not a leak when that name shows on
+  // that page. CONTAINS, not equals: the 2026-08-23 fix glossed Cambodia's
+  // Pchum Ben as "Pchum Ben (Día de los Antepasados)" — no longer equal to
+  // the English name, so the name fell back INTO the pattern and the very
+  // page the gloss had fixed was flagged again the next evening. A label
+  // that carries the proper noun plus a translation is the deliberate,
+  // correct form; only Chuseok joins the exempt set besides Pchum Ben
+  // (measured: 34 → 36 of 280 names). A real leak of an exempt name in a
+  // language that DOES translate it is the trade-off, and the table is the
+  // place to fix that.
   const keptAsIs = new Set(
     Object.entries(table)
-      .filter(([k, v]) => ['ko', 'ja', 'es', 'zh'].some((l) => typeof v[l] === 'string' && v[l].trim() === k.split('|')[1].trim()))
+      .filter(([k, v]) => ['ko', 'ja', 'es', 'zh'].some((l) => typeof v[l] === 'string' && v[l].includes(k.split('|')[1].trim())))
       .map(([k]) => k.split('|')[1]),
   );
   const names = [...new Set(Object.keys(table).map((k) => k.split('|')[1]))]

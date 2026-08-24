@@ -70,6 +70,18 @@ t('the local name alone is clean', () =>
   hits('<span class="holiday-name">Fête nationale</span>', 'ko').includes('holiday-english-name')
     ? 'false positive on a bare local name' : null);
 
+// 2026-08-24: 주석을 붙인 라벨("Pchum Ben (Día de los Antepasados)")은 표가
+// 일부러 고유명사를 남긴 것 — 08-23 수리가 라벨에 주석을 붙이는 순간
+// "글자 그대로" 예외에서 빠져 같은 페이지가 다음 날 또 걸렸다. 예외 기준을
+// 동일→포함으로 바꾼 뒤, 이 두 방향을 고정한다.
+t('a glossed proper-noun label is clean (Pchum Ben regression)', () =>
+  hits('<span class="holiday-name">ភ្ជុំបិណ្ឌ · Pchum Ben (Día de los Antepasados)</span>', 'es').includes('holiday-english-name')
+    ? 'false positive on a table-glossed proper noun' : null);
+
+t('containment exemption must not swallow real leaks', () =>
+  hits('<span class="holiday-name">元旦 · New Year&#39;s Day</span>', 'ko').includes('holiday-english-name')
+    ? null : 'holiday-english-name stopped firing after the containment change');
+
 // ── 언어별 예외: 스페인어는 AM/PM과 h/min을 정상적으로 쓴다 ──
 t('Spanish keeps AM/PM without being flagged', () =>
   hits('<td>9–5 PM</td>', 'es').includes('am-pm') ? 'am-pm should skip Spanish' : null);
