@@ -1,8 +1,6 @@
 ---
 title: 'LALALA Fest 2026: What to Know (Jakarta)'
-description: >-
-  LALALA Fest 2026 in Jakarta, Indonesia — August 22-23, 2026. What it is, when
-  and where, and how to plan around it.
+description: LALALA Fest 2026 in Jakarta, Indonesia — August 22-23, 2026. What it is, when and where, and how to plan around it.
 country: Indonesia
 region: Jakarta
 category: event
@@ -18,45 +16,22 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: >-
-  LALALA Fest 2026 runs August 22–23 at Jakarta International Expo (JIExpo) in
-  Kemayoran, North Jakarta, headlined by Steve Lacy, Two Door Cinema Club,
-  Kodaline and The Flaming Lips alongside 30-plus other acts. Buy tickets only
-  through the festival's official channels once they're released, and treat the
-  dates, venue halls and set times here as a starting point — confirm everything
-  on the official site before you book flights or hotels.
+quickAnswer: LALALA Fest 2026 runs August 22–23 at Jakarta International Expo (JIExpo) in Kemayoran, North Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline and The Flaming Lips alongside 30-plus other acts. Buy tickets only through the festival's official channels once they're released, and treat the dates, venue halls and set times here as a starting point — confirm everything on the official site before you book flights or hotels.
 faq:
   - q: When exactly is LALALA Fest 2026?
-    a: >-
-      It's scheduled for August 22–23, 2026, at Jakarta International Expo
-      (JIExpo) in Kemayoran, North Jakarta. Confirm final dates on the official
-      festival site, as event dates can occasionally shift.
+    a: It's scheduled for August 22–23, 2026, at Jakarta International Expo (JIExpo) in Kemayoran, North Jakarta. Confirm final dates on the official festival site, as event dates can occasionally shift.
   - q: How do I get to JIExpo?
-    a: >-
-      Ride-hailing apps like Gojek or Grab are the most practical option from
-      most parts of Jakarta. Traffic around Kemayoran gets heavy near show
-      times, so allow significantly more travel time than your map estimate
-      suggests.
+    a: Ride-hailing apps like Gojek or Grab are the most practical option from most parts of Jakarta. Traffic around Kemayoran gets heavy near show times, so allow significantly more travel time than your map estimate suggests.
   - q: Who's headlining?
-    a: >-
-      Confirmed headliners are Steve Lacy, Two Door Cinema Club, Kodaline and
-      The Flaming Lips, with more than 30 other acts across the two days. Full
-      set times weren't announced at time of writing — check official channels.
+    a: Confirmed headliners are Steve Lacy, Two Door Cinema Club, Kodaline and The Flaming Lips, with more than 30 other acts across the two days. Full set times weren't announced at time of writing — check official channels.
   - q: How much do tickets cost?
-    a: >-
-      Prices weren't publicly confirmed at time of writing. Buy only through
-      LALALA Fest's official website or verified partners once sales open, and
-      watch for official announcements on single-day versus two-day passes.
+    a: Prices weren't publicly confirmed at time of writing. Buy only through LALALA Fest's official website or verified partners once sales open, and watch for official announcements on single-day versus two-day passes.
   - q: What should I wear given Jakarta's weather in August?
-    a: >-
-      August falls in Jakarta's dry season — expect hot, humid, sunny afternoons
-      and only slightly cooler evenings. Light, breathable clothing, sun
-      protection, and a refillable water bottle are worth packing.
+    a: August falls in Jakarta's dry season — expect hot, humid, sunny afternoons and only slightly cooler evenings. Light, breathable clothing, sun protection, and a refillable water bottle are worth packing.
 aiGenerated: true
 draft: true
 eventRecurring: true
 ---
-
 ## Why this one's worth the trip
 
 Jakarta's festival calendar is crowded, but LALALA Fest 2026 stands out for the sheer range of its bill. You've got Steve Lacy's warped, funk-soaked guitar pop, Two Door Cinema Club's jangly indie hooks, Kodaline's stadium-sized ballads and The Flaming Lips' full-blown psychedelic spectacle — confetti cannons, giant balloons and all — sharing a weekend with more than 30 other acts spanning indie, pop, electronic and rock.
@@ -67,7 +42,7 @@ That kind of genre-spanning lineup is designed to pull in everyone from K-pop-ad
 
 The festival takes place at Jakarta International Expo in Kemayoran, North Jakarta — the same sprawling convention-and-exhibition ground that hosts Jakarta Fair and other large-scale events. It sits a few kilometers from the old city center, and the most reliable way in on show days is a ride-hailing app (Gojek or Grab), since traffic around Kemayoran gets thick as doors approach and street parking is limited.
 
-If you're coming from South Jakarta or the airport, budget extra time: what looks like a 20-minute drive on the map can stretch to over an hour once festival traffic builds. Some past events at JIExpo have run shuttle buses from nearby MRT/TransJakarta hubs — check LALALA Fest's official social channels closer to the date to see if a shuttle or designated drop-off point is arranged for 2026.
+If you're coming from South Jakarta or the airport, budget extra time: what looks like a 20-minute drive on the map can stretch to over an hour once festival traffic builds. Some past events at JIExpo have run shuttle buses from nearby MRT/TransJakarta hubs.
 
 ## What to expect on-site
 
@@ -79,7 +54,7 @@ With an international lineup like this, expect food stalls and drink vendors sim
 
 Ticket tiers, prices and exact stage times were not confirmed at the time of writing, and festival lineups occasionally shift before the date. Don't book based on set times you see on unofficial fan pages or resale sites — go straight to LALALA Fest's official website and verified social accounts for the release schedule, presale windows and any single-day versus two-day pass options.
 
-The same goes for the venue: JIExpo has multiple halls and outdoor areas, and organizers sometimes specify a particular section closer to the event — confirm the exact entrance and hall before you head out on the day.
+The venue, JIExpo, has multiple halls and outdoor areas, and organizers sometimes specified a particular section for entry.
 
 ## How to visit like a local
 

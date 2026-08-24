@@ -8292,6 +8292,16 @@
       "blurb": "Antiguo retiro costero de la élite camboyana de antes de la guerra, Kep es hoy un tranquilo pueblo costero famoso por su mercado de cangrejo azul, sus villas coloniales en ruinas y el Parque Nacional de Kep, cubierto de selva, que se alza detrás de la orilla. Es un contrapunto sencillo y relajado frente a los circuitos turísticos más concurridos del país: un lugar para comer cangrejo recién sacado de los botes y no hacer mucho más.",
       "getting": "Kep no tiene aeropuerto propio; la mayoría de los viajeros llegan por tierra en autobús o taxi compartido desde el centro regional de Phnom Penh (unas 3-4 horas), o a través de las cercanas Kampot y Sihanoukville. El aeropuerto internacional de Sihanoukville (KOS) ofrece las conexiones aéreas domésticas/regionales más cercanas. También hay un tren de fin de semana que une Phnom Penh y Sihanoukville con parada en Kep, aunque solo circula de jueves a domingo.",
       "days": "Calcula entre 1 y 2 días, tiempo suficiente para recorrer el sendero circular del Parque Nacional, curiosear por el mercado de cangrejo y hacer una excursión en barco a la Isla del Conejo (Koh Tonsay)."
+    },
+    "ja": {
+      "blurb": "かつて戦前のカンボジア富裕層が集った海辺の保養地、ケップ。今では、ブルークラブ(青蟹)市場と朽ちかけたコロニアル時代の別荘群、そして海岸線の背後にそびえるジャングルに覆われたケップ国立公園で知られる、静かな海辺の町となっています。国内の主要な観光ルートとは一線を画す、のんびりとした穴場的存在で、船から水揚げされたばかりの新鮮な蟹を味わう以外、これといって何もしない過ごし方がぴったりの場所です。",
+      "getting": "ケップには空港がなく、多くの旅行者は拠点となるプノンペンからバスや乗り合いタクシーで陸路移動します(所要約3〜4時間)。近隣のカンポットやシアヌークビル経由で訪れることも可能で、最寄りの国内線・地域便が発着する空港はシアヌークビル国際空港(KOS)です。また、プノンペンとシアヌークビルを結ぶ週末限定の列車もケップに停車しますが、運行は木曜から日曜までに限られます。",
+      "days": "滞在の目安は1〜2日。国立公園の周回トレイルを歩いたり、蟹市場をひやかしたり、船でラビット・アイランド(コ・トンサイ)まで足を延ばしたりするのにちょうど良い長さです。"
+    },
+    "zh": {
+      "blurb": "吴哥的这位\"邻居\"戈公（Kep），曾是柬埔寨战前上流社会钟爱的海滨度假胜地，如今则是一座静谧的海边小城，以蓝蟹市场、破败斑驳的殖民时期别墅，以及背靠海岸、林木葱郁的戈公国家公园而闻名。相比柬埔寨那些更热门的旅游线路，戈公显得格外轻松惬意——来这里，无非就是吃着刚上岸的新鲜螃蟹，悠闲度日，别无所求。",
+      "getting": "戈公本地没有机场，大多数游客都是从金边（约3-4小时车程）乘坐大巴或共享出租车走陆路前往，也可以经由邻近的贡布（Kampot）或西哈努克市中转。西哈努克国际机场（KOS）是距离戈公最近、可衔接国内及区域航班的机场。此外，金边至西哈努克市之间还有一趟周末火车会在戈公停靠，但仅在周四至周日运行。",
+      "days": "建议安排1-2天：足够沿国家公园环线徒步、逛逛蟹市，再乘船前往兔子岛（戈公岛，Koh Tonsay）。"
     }
   },
   "Sihanoukville": {
@@ -8319,6 +8329,33 @@
       "blurb": "西哈努克市是柬埔寨面向泰国湾的主要海滨门户，这座曾经宁静的港口小城因赌场产业的兴起而彻底改变面貌，但依然是前往科龙岛（Koh Rong）和龙萨伦岛（Koh Rong Sanloem）等周边岛屿——那里有细白沙滩和碧绿海水——的必经跳板。白天，这里是码头与沙滩酒吧的天地；入夜后，鳞次栉比的赌场高楼灯火通明，勾勒出一片重塑了城市气质的天际线。",
       "getting": "大多数游客经由西哈努克国际机场（KOS）抵达，该机场有飞往金边、暹粒等区域枢纽的定期航班，也有少量国际航线；也可以选择从金边乘长途巴士或出租车走陆路前往，车程约4小时。此外，柬埔寨皇家铁路每天都有一班列车，从金边总站直达西哈努克市终点站，全程约7小时。抵达机场或汽车站后，只需搭乘嘟嘟车或出租车，便可轻松抵达市区，或直接前往码头搭船前往各个海岛。",
       "days": "建议安排约2-3天游览本土海滩和市区；如果还想顺道前往科龙岛或龙萨伦岛小住，则可以将行程延长至约4-5天。"
+    }
+  },
+  "Battambang": {
+    "en": {
+      "blurb": "Battambang is Cambodia's laid-back colonial-era gem, where faded French-built shophouses line the Sangker River and a quirky improvised \"bamboo train\" still rattles along old rail tracks through the countryside. Beyond the trains, it's known for a thriving contemporary arts scene (anchored by the Phare Ponleu Selpak circus school) and dramatic hilltop sites like Phnom Sampeau, with its sobering Killing Caves and nightly bat exodus.",
+      "getting": "Battambang has no scheduled commercial air service, so most travellers fly into Siem Reap or Phnom Penh and continue overland by bus or minivan (~3-4 hours from Siem Reap, ~5 hours from Phnom Penh). A once-daily train also links Battambang with Phnom Penh, taking roughly 6-7 hours.",
+      "days": "Plan on at least 2 nights to cover the bamboo train, the old colonial centre, and a Phnom Sampeau sunset trip, or 3 nights for a more relaxed pace with time to cycle the surrounding countryside."
+    },
+    "ko": {
+      "blurb": "바탐방은 캄보디아에서 여유로움이 살아있는 프랑스 식민지 시대의 보석 같은 도시다. 상케르 강을 따라 색이 바랜 프랑스풍 상가 건물들이 늘어서 있고, 옛 철로 위를 달리는 독특한 수제 \"대나무 기차\"가 지금도 시골 마을을 가로지르며 덜컹거린다. 기차 말고도 이곳은 활기찬 현대 예술의 중심지로도 유명한데, 파레 뽄레우 셀파악 서커스 학교가 그 구심점 역할을 하고 있다. 또한 프놈 삼뽀우처럼 극적인 언덕 위 명소도 있어, 마음을 숙연하게 만드는 킬링 케이브와 매일 밤 펼쳐지는 박쥐 떼의 장관을 볼 수 있다.",
+      "getting": "바탐방에는 정기 상업 항공편이 없기 때문에, 대부분의 여행자는 시엠립이나 프놈펜으로 입국한 뒤 버스나 미니밴으로 육로 이동을 이어간다(시엠립에서 약 3~4시간, 프놈펜에서 약 5시간 소요). 하루 한 번 운행하는 기차도 바탐방과 프놈펜을 연결하며, 소요 시간은 대략 6~7시간이다.",
+      "days": "대나무 기차, 옛 식민지풍 시가지, 그리고 프놈 삼뽀우 일몰 여행까지 둘러보려면 최소 2박은 계획하는 것이 좋다. 좀 더 여유롭게 주변 시골길을 자전거로 둘러볼 시간까지 원한다면 3박을 추천한다."
+    },
+    "ja": {
+      "blurb": "バトンボンは、カンボジアが誇るのんびりとした植民地時代の隠れた名所。サンケー川沿いにはフランス統治時代に建てられた古い商店街が並び、素朴な手作り感満載の「バンブートレイン」が今も昔ながらの線路を軋ませながら田園地帯を走り抜けます。列車以外にも、活気ある現代アートシーン(サーカス学校として知られるファーレ・ポンレー・セルパックが中心)や、プノン・サンポウのような迫力ある丘の上の名所でも有名です。ここには痛ましい歴史を伝える「キリング・ケイブ(虐殺の洞窟)」があり、夜には無数のコウモリが一斉に飛び立つ光景を見ることができます。",
+      "getting": "バトンボンには定期便が就航していないため、多くの旅行者はシェムリアップまたはプノンペンまで空路で入り、そこからバスやミニバンで陸路移動します(シェムリアップからは約3~4時間、プノンペンからは約5時間)。また、1日1本運行の鉄道もプノンペンとバトンボンを結んでおり、所要時間はおよそ6~7時間です。",
+      "days": "バンブートレイン、旧植民地時代の街並み、そしてプノン・サンポウでの夕日鑑賞を楽しむなら、最低でも2泊は確保しましょう。周辺の田園地帯をサイクリングでゆったり巡りたい場合は、3泊するのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Battambang es la joya colonial más relajada de Camboya, donde antiguas casas-tienda de estilo francés, ya desgastadas por el tiempo, bordean el río Sangker, y un curioso e improvisado \"tren de bambú\" sigue traqueteando sobre viejas vías por el campo. Más allá de los trenes, la ciudad destaca por su vibrante escena de arte contemporáneo (con la escuela de circo Phare Ponleu Selpak como buque insignia) y por imponentes enclaves en las colinas, como Phnom Sampeau, con sus estremecedoras Cuevas de la Muerte y el espectáculo nocturno del éxodo de murciélagos.",
+      "getting": "Battambang no cuenta con vuelos comerciales regulares, así que la mayoría de los viajeros llega en avión a Siem Reap o Phnom Penh y continúa por tierra en autobús o minivan (unas 3-4 horas desde Siem Reap, unas 5 horas desde Phnom Penh). También existe un tren diario que conecta Battambang con Phnom Penh, con un trayecto de aproximadamente 6-7 horas.",
+      "days": "Se recomienda quedarse al menos 2 noches para recorrer el tren de bambú, el casco colonial y disfrutar de una excursión al atardecer en Phnom Sampeau, o bien 3 noches para un ritmo más tranquilo con tiempo para recorrer en bicicleta el campo de los alrededores."
+    },
+    "zh": {
+      "blurb": "马德望是柬埔寨一座悠闲惬意的殖民时代小城,桑克河畔至今仍排列着一栋栋略显斑驳的法式老店屋,而当地别具一格的简易\"竹火车\"依旧沿着老旧铁轨在乡间摇摇晃晃地穿行。除了竹火车,这里还以蓬勃发展的当代艺术氛围闻名——发祥地正是Phare Ponleu Selpak马戏艺术学校,此外还有像磅平山(Phnom Sampeau)这样气势不凡的山顶景点,山上既有令人唏嘘的\"杀戮洞穴\",入夜后又能看到成群蝙蝠倾巢而出的壮观场面。",
+      "getting": "马德望没有定期商业航班,因此大多数旅行者会先飞往暹粒或金边,再转乘长途汽车或小巴陆路前往(从暹粒出发约3-4小时,从金边出发约5小时)。此外,每天也有一趟连接马德望与金边的火车,车程大约6-7小时。",
+      "days": "建议至少安排2晚,以体验竹火车、游览老城殖民区,并前往磅平山看日落;如果想节奏更悠闲些,还能骑行游览周边乡村,建议安排3晚。"
     }
   }
 }

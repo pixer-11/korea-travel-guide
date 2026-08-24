@@ -12578,5 +12578,101 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Shows venue interior/stage area with visitors, plausible representative view",
     "at": "2026-08-23T19:56:43.841Z"
+  },
+  "sen-monorom-tuol-sleng-genocide-museum\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg": {
+    "slug": "sen-monorom-tuol-sleng-genocide-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Courtyard and cellblock match Tuol Sleng museum building",
+    "at": "2026-08-24T08:08:29.933Z"
+  },
+  "philadelphia-kelpius-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg/3840px-Cave_of_Kelpius%2C_Philadelphia%2C_PA.jpg": {
+    "slug": "philadelphia-kelpius-cave",
+    "verdict": "MATCH",
+    "reason": "publish gate: Stone cave entrance matches Kelpius Cave hidden gem",
+    "at": "2026-08-24T08:10:15.140Z"
+  },
+  "goyang-gyeongdong-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Korea-Seoul-Gyeongdong_Market-03.jpg/1920px-Korea-Seoul-Gyeongdong_Market-03.jpg": {
+    "slug": "goyang-gyeongdong-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Korean market stall with dried goods, signage, plausible hero",
+    "at": "2026-08-24T08:11:02.208Z"
+  },
+  "poipet-national-museum-of-cambodia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03-National_Museum_of_Cambodia-nX-7.jpg/3840px-03-National_Museum_of_Cambodia-nX-7.jpg": {
+    "slug": "poipet-national-museum-of-cambodia",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer roof with naga finials matches museum architecture",
+    "at": "2026-08-24T08:12:34.034Z"
+  },
+  "nantes-douves-du-chateau\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jardin_des_douves_du_Ch%C3%A2teau.jpg/3840px-Jardin_des_douves_du_Ch%C3%A2teau.jpg": {
+    "slug": "nantes-douves-du-chateau",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows château moat, walls and grounds in Nantes",
+    "at": "2026-08-24T08:13:52.391Z"
+  },
+  "kanchanaburi-hellfire-pass-interpretive-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hellfire_Pass_Interpretive_Centre_2023.jpg/3840px-Hellfire_Pass_Interpretive_Centre_2023.jpg": {
+    "slug": "kanchanaburi-hellfire-pass-interpretive-centre",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior with clear signage showing actual venue entrance",
+    "at": "2026-08-24T08:15:00.549Z"
+  },
+  "kumamoto-kumamoto-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kumamoto_Castle_Keep_Tower_20221022-3.jpg/1920px-Kumamoto_Castle_Keep_Tower_20221022-3.jpg": {
+    "slug": "kumamoto-kumamoto-castle",
+    "verdict": "MATCH",
+    "reason": "publish gate: Clear iconic exterior view of Kumamoto Castle",
+    "at": "2026-08-24T08:15:57.253Z"
+  },
+  "portland-portland-japanese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Japanese_Garden_-1.jpg/1920px-Japanese_Garden_-1.jpg": {
+    "slug": "portland-portland-japanese-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Japanese garden scene with bridge, pond, trees",
+    "at": "2026-08-24T08:16:55.490Z"
+  },
+  "daegu-daegu-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Daegu_National_Museum.jpg/1920px-Daegu_National_Museum.jpg": {
+    "slug": "daegu-daegu-national-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Daegu National Museum building with signage",
+    "at": "2026-08-24T08:17:41.851Z"
+  },
+  "dempsey-hill-pasar-geylang-serai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Geylang_Serai_Market_aka_Pasar_Geylang_Serai_%282025%29_-_img_02.jpg/3840px-Geylang_Serai_Market_aka_Pasar_Geylang_Serai_%282025%29_-_img_02.jpg": {
+    "slug": "dempsey-hill-pasar-geylang-serai",
+    "verdict": "MATCH",
+    "reason": "publish gate: Market exterior with distinctive roofline, representative view",
+    "at": "2026-08-24T08:18:44.570Z"
+  },
+  "koh-chang-mu-ko-chang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Moo_Koh_Chang5.JPG/1920px-Moo_Koh_Chang5.JPG": {
+    "slug": "koh-chang-mu-ko-chang-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Tropical beach with palms and rocks matches Koh Chang park",
+    "at": "2026-08-24T08:20:12.168Z"
+  },
+  "boryeong-national-museum-of-korea\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1920px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg": {
+    "slug": "boryeong-national-museum-of-korea",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows museum building and pool, representative exterior view",
+    "at": "2026-08-24T08:20:56.625Z"
+  },
+  "kampong-cham-phnom-srei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/03-Phnom_Srei_Kampong_Cham-nX-14.jpg/3840px-03-Phnom_Srei_Kampong_Cham-nX-14.jpg": {
+    "slug": "kampong-cham-phnom-srei",
+    "verdict": "MATCH",
+    "reason": "publish gate: Temple architecture consistent with Khmer pagoda hilltop site",
+    "at": "2026-08-24T08:21:38.914Z"
+  },
+  "sukhothai-sukhothai-historical-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wat_srichum_03.jpg/1920px-Wat_srichum_03.jpg": {
+    "slug": "sukhothai-sukhothai-historical-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic large Buddha statue at Sukhothai temple ruins",
+    "at": "2026-08-24T08:22:28.240Z"
+  },
+  "kanazawa-omicho-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg/3840px-Omicho_covered_market_western_entrance%2C_Kanazawa%2C_2016.jpg": {
+    "slug": "kanazawa-omicho-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Omicho Market entrance with sign and crowd",
+    "at": "2026-08-24T08:23:30.235Z"
+  },
+  "al-barsha-dubai-gold-souk\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Dubai_Gold_Souk_on_31_May_2007_Pict_1.jpg": {
+    "slug": "al-barsha-dubai-gold-souk",
+    "verdict": "MATCH",
+    "reason": "publish gate: Covered souk market interior with jewelry shops, matches venue",
+    "at": "2026-08-24T08:26:13.889Z"
   }
 }

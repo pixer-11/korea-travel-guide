@@ -6,7 +6,7 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 78,
+   "attempts": 79,
    "hits": 45
   },
   "park": {
@@ -30,8 +30,8 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 87,
-   "hits": 47
+   "attempts": 92,
+   "hits": 51
   },
   "noodles": {
    "attempts": 14,
@@ -42,20 +42,20 @@
    "hits": 2
   },
   "local market": {
-   "attempts": 10,
-   "hits": 3
+   "attempts": 21,
+   "hits": 7
   },
   "bookshop": {
    "attempts": 4,
    "hits": 0
   },
   "seafood": {
-   "attempts": 25,
+   "attempts": 27,
    "hits": 2
   },
   "hidden gem": {
-   "attempts": 17,
-   "hits": 8
+   "attempts": 28,
+   "hits": 16
   },
   "breakfast": {
    "attempts": 11,
@@ -98,5 +98,5 @@
    "hits": 0
   }
  },
- "updated": "2026-08-23T14:03:22.752Z"
+ "updated": "2026-08-24T08:26:13.897Z"
 }

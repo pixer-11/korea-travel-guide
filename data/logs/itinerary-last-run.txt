@@ -21,17 +21,18 @@ Hong Kong, Hong Kong — 54 qualifying post(s), variants: 3, 5
   = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
-  ⚠ Los Angeles 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Los Angeles 3d
+  = Los Angeles 3d — unchanged, skipping
 
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
-Singapore, Singapore — 46 qualifying post(s), variants: 3, 5
-  = Singapore 3d — unchanged, skipping
-  = Singapore 5d — unchanged, skipping
+Singapore, Singapore — 47 qualifying post(s), variants: 3, 5
+  ~ Singapore 3d — structure changed by 3 slug(s), regenerating prose
+  ⚠ Singapore 3d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
+PROSE-GUARD FAILED: Singapore 3d — hours-language in days[0].intro: "The day opens at Gardens by the Bay's sweeping waterfront park before a stop at Le Noir inside Marina Bay Sands. From there it's back into the gardens for Supertree Grove, then a crossing to Kampong Glam for an easygoing evening plate on Bussorah Street."
+ERROR processing Singapore: prose guard failed for Singapore 3d after retry (1 issue(s))
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
