@@ -1,5 +1,16 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "ENDED-EVENT-FUTURE-TENSE goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows.md": {
+      "since": "2026-08-24",
+      "last": "2026-08-24",
+      "seen": 1
+    },
+    "ENDED-EVENT-FUTURE-TENSE istanbul-babylon-soundgarden-2026-featuring-jack-white-wet-leg-the-kills.md": {
+      "since": "2026-08-24",
+      "last": "2026-08-24",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
