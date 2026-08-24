@@ -23,17 +23,21 @@ place:
   lng: 100.89666749999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 21
-    weekendQuiet:
-      - 15
-      - 16
-      - 21
+    weekendQuiet: [15, 16]
     weekendBusy:
       - 12
       - 19
       - 20
     venueId: ven_515556696642323876417552456a415f4347457235364a4a496843
+  phone: '+66 88 634 7956'
+  openingHours:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
 tags:
   - pattaya
   - street food

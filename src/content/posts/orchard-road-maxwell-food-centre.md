@@ -23,26 +23,27 @@ place:
   lng: 103.844767
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 21
-      - 22
+    weekdayQuiet: [8, 9, 21]
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 8
-      - 9
-      - 21
-      - 22
+    weekendQuiet: [8, 9, 21]
     weekendBusy:
       - 11
       - 12
       - 13
       - 14
     venueId: ven_3438665a3046575442707152456a325a305154735165734a496843
+  phone: '+65 6225 5632'
+  openingHours:
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
   - orchard road
   - street food

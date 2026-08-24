@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 10.2640164
   lng: 103.92985069999999
+  phone: '+84 985 225 619'
+  openingHours:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
   - phu quoc
   - local restaurant

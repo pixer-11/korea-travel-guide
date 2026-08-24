@@ -43,6 +43,15 @@ place:
       - 21
       - 22
     venueId: ven_49496a4b714e696e42546e52456a41394f5475696a65734a496843
+  phone: '+66 38 725 555'
+  openingHours:
+    - 'Monday: 12:00 PM – 12:00 AM'
+    - 'Tuesday: 12:00 PM – 12:00 AM'
+    - 'Wednesday: 12:00 PM – 12:00 AM'
+    - 'Thursday: 12:00 PM – 12:00 AM'
+    - 'Friday: 12:00 PM – 12:00 AM'
+    - 'Saturday: 12:00 PM – 12:00 AM'
+    - 'Sunday: 12:00 PM – 12:00 AM'
 tags:
   - pattaya
   - local restaurant

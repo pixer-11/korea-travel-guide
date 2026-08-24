@@ -26,21 +26,26 @@ place:
   lng: 98.2807461
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
+    weekdayQuiet: [11]
     weekdayBusy:
       - 17
       - 18
-    weekendQuiet:
-      - 10
-      - 11
+    weekendQuiet: [11]
     weekendBusy:
       - 15
       - 16
       - 17
       - 18
     venueId: ven_6f51646c6d507077354f7452414455373458366d6937624a496843
+  phone: '+66 94 663 4124'
+  openingHours:
+    - 'Monday: 10:30 AM – 7:30 PM'
+    - 'Tuesday: 10:30 AM – 7:30 PM'
+    - 'Wednesday: 10:30 AM – 7:30 PM'
+    - 'Thursday: 10:30 AM – 7:30 PM'
+    - 'Friday: 10:30 AM – 7:30 PM'
+    - 'Saturday: 10:30 AM – 7:30 PM'
+    - 'Sunday: 10:30 AM – 7:30 PM'
 tags:
   - phuket
   - trendy cafe

@@ -42,6 +42,15 @@ place:
       - 20
       - 21
     venueId: ven_344c795345736f365569555251543554386378555f526d4a496843
+  phone: '+81 98-851-8199'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - okinawa
   - local restaurant

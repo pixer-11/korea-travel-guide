@@ -27,10 +27,6 @@ place:
   lng: 136.8844179
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 19
-    weekendQuiet:
-      - 19
     weekendBusy:
       - 11
       - 12
@@ -39,6 +35,15 @@ place:
       - 15
       - 16
     venueId: ven_736a73576f336a4a766b3752413241334e5258765735674a496843
+  phone: '+81 52-526-1665'
+  openingHours:
+    - 'Monday: 8:00 AM – 7:00 PM'
+    - 'Tuesday: 8:00 AM – 7:00 PM'
+    - 'Wednesday: 8:00 AM – 7:00 PM'
+    - 'Thursday: 8:00 AM – 7:00 PM'
+    - 'Friday: 8:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
   - nagoya
   - trendy cafe

@@ -27,21 +27,25 @@ place:
   lng: 109.1904295
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 21
-      - 22
+    weekdayQuiet: [21]
     weekdayBusy:
       - 19
-    weekendQuiet:
-      - 11
-      - 21
-      - 22
+    weekendQuiet: [11, 21]
     weekendBusy:
       - 12
       - 13
       - 18
       - 19
     venueId: ven_7755456765354563586c53524544636e6c7a68583465334a496843
+  phone: '+84 258 2477 377'
+  openingHours:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
   - nha trang
   - local restaurant

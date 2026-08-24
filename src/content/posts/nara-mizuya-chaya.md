@@ -1,18 +1,18 @@
 ---
-title: 'Mizuya Chaya: Where to Eat in Nara'
+title: "Mizuya Chaya: Where to Eat in Nara"
 description: Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the approach to Kasuga Taisha in Nara Park, best known for its warabimochi and simple udon/somen set meals served in a traditional thatched-roof setting.
 country: Japan
 region: Nara
 category: restaurant
-pubDate: '2026-07-22T09:03:25.722Z'
+pubDate: "2026-07-22T09:03:25.722Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/10469860_Cjxy4-AuDDr7n4Mt2gDsEiSrcmi8s7I2q38wWYSWTcw.jpg
-  credit: 'Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))'
+  credit: "Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))"
   license: foursquare
   source: https://foursquare.com/v/4be11821a7380f475b4a19b0
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chaya_%28teahouse%29_in_Nara_Park.jpg/1920px-Chaya_%28teahouse%29_in_Nara_Park.jpg
-    credit: 'Photo: MichaelMaggs / Wikimedia Commons (CC BY-SA 3.0)'
+    credit: "Photo: MichaelMaggs / Wikimedia Commons (CC BY-SA 3.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Chaya_(teahouse)_in_Nara_Park.jpg
 place:
@@ -26,6 +26,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.6834713
   lng: 135.8468033
+  phone: +81 742-22-0627
+  openingHours:
+    - "Monday: 11:00 AM – 3:30 PM"
+    - "Tuesday: Closed"
+    - "Wednesday: Closed"
+    - "Thursday: 11:00 AM – 3:30 PM"
+    - "Friday: 11:00 AM – 3:30 PM"
+    - "Saturday: 11:00 AM – 3:30 PM"
+    - "Sunday: 11:00 AM – 3:30 PM"
 tags:
   - nara
   - street food
@@ -64,7 +73,7 @@ Price level is moderate (roughly ¥1,000–2,000 per person for a typical order)
 
 ## When to go
 
-Aim for a late morning or off-peak afternoon (around 2:30–4pm) to avoid the lunch crush, since the seating area is limited and shared with a steady flow of Kasuga Taisha visitors. Autumn (November) brings striking maple color to the surrounding forest, and spring (late March–April) overlaps with cherry blossoms in Nara Park, making both seasons popular — expect waits. Winter is quieter and the bare trees make the stone lanterns and thatched roof more visible, but outdoor seating gets cold.
+Aim for a late morning or off-peak afternoon (around 2:30–3:30pm) to avoid the lunch crush, since the seating area is limited and shared with a steady flow of Kasuga Taisha visitors. Autumn (November) brings striking maple color to the surrounding forest, and spring (late March–April) overlaps with cherry blossoms in Nara Park, making both seasons popular — expect waits. Winter is quieter and the bare trees make the stone lanterns and thatched roof more visible, but outdoor seating gets cold.
 
 As with most teahouses attached to shrine paths, hours tend to follow daylight and can shift seasonally, so confirm current opening times before making it a fixed stop.
 

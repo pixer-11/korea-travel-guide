@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 26.3158249
   lng: 127.75373710000001
+  phone: '+81 98-989-5023'
+  openingHours:
+    - 'Monday: 7:00 AM – 8:00 PM'
+    - 'Tuesday: 7:00 AM – 8:00 PM'
+    - 'Wednesday: 7:00 AM – 8:00 PM'
+    - 'Thursday: 7:00 AM – 8:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 8:00 PM'
 tags:
   - okinawa
   - trendy cafe

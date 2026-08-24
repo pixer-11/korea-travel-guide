@@ -28,21 +28,13 @@ place:
   lng: 103.9666404
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 22
+    weekdayQuiet: [8, 9, 22]
     weekdayBusy:
       - 13
       - 14
       - 15
       - 16
-    weekendQuiet:
-      - 7
-      - 8
-      - 21
-      - 22
+    weekendQuiet: [8, 21, 22]
     weekendBusy:
       - 13
       - 14
@@ -50,6 +42,15 @@ place:
       - 16
       - 17
     venueId: ven_3077325f79445534566c3752457a704d4f5739393359734a496843
+  phone: '+84 297 3608 883'
+  openingHours:
+    - 'Monday: 7:30 AM – 11:00 PM'
+    - 'Tuesday: 7:30 AM – 11:00 PM'
+    - 'Wednesday: 7:30 AM – 11:00 PM'
+    - 'Thursday: 7:30 AM – 11:00 PM'
+    - 'Friday: 7:30 AM – 11:00 PM'
+    - 'Saturday: 7:30 AM – 11:00 PM'
+    - 'Sunday: 7:30 AM – 11:00 PM'
 tags:
   - phu quoc
   - trendy cafe

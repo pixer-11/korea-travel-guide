@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 26.304767899999998
   lng: 127.7599605
+  phone: '+81 70-8440-5219'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: Closed'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
 tags:
   - okinawa
   - street food

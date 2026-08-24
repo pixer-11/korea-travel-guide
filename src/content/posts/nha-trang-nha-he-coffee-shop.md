@@ -27,15 +27,8 @@ place:
   lng: 109.1943554
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 22
-    weekendQuiet:
-      - 7
-      - 8
-      - 22
+    weekdayQuiet: [7, 8, 9]
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 11
       - 12
@@ -48,6 +41,15 @@ place:
       - 19
       - 21
     venueId: ven_304a6b4e676f494a505854524544636e3548732d59796f4a496843
+  phone: '+84 868 290 990'
+  openingHours:
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
   - nha trang
   - trendy cafe

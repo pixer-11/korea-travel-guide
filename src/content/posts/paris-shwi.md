@@ -28,6 +28,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 48.8726674
   lng: 2.3635672
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 2:30 PM, 6:00 – 10:30 PM'
+    - 'Wednesday: 12:00 – 2:30 PM, 6:00 – 10:30 PM'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: Closed'
+    - 'Sunday: 12:00 – 3:00 PM, 6:30 – 10:30 PM'
 tags:
   - paris
   - new & trending

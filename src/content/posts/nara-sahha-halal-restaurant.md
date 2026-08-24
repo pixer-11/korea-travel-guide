@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.689387499999995
   lng: 135.8262005
+  phone: '+81 70-8428-0552'
+  openingHours:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:00 – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Sunday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM'
 tags:
   - nara
   - local restaurant

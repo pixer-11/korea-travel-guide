@@ -24,6 +24,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 5.4239455
   lng: 100.320585
+  phone: '+60 12-827 1926'
+  openingHours:
+    - 'Monday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
 tags:
   - penang
   - new & trending

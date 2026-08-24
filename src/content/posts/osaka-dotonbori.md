@@ -23,6 +23,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.6687234
   lng: 135.5012971
+  phone: '+81 6-6211-4542'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - osaka
   - Dotonbori

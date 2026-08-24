@@ -27,21 +27,12 @@ place:
   lng: 135.82765229999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 18
-      - 19
+    weekdayQuiet: [8, 18]
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 7
-      - 8
-      - 17
-      - 18
-      - 19
+    weekendQuiet: [8, 17, 18]
     weekendBusy:
       - 11
       - 12
@@ -49,6 +40,15 @@ place:
       - 14
       - 15
     venueId: ven_595852336f34774b4236795241574137346c6b436666554a496843
+  phone: '+81 742-31-1393'
+  openingHours:
+    - 'Monday: 7:30 AM – 7:00 PM'
+    - 'Tuesday: 7:30 AM – 7:00 PM'
+    - 'Wednesday: 7:30 AM – 7:00 PM'
+    - 'Thursday: 7:30 AM – 7:00 PM'
+    - 'Friday: 7:30 AM – 7:00 PM'
+    - 'Saturday: 7:30 AM – 7:00 PM'
+    - 'Sunday: 7:30 AM – 7:00 PM'
 tags:
   - nara
   - trendy cafe

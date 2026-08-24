@@ -48,6 +48,15 @@ place:
       - 21
       - 22
     venueId: ven_774468694d6b49544357785241445578415650384d55544a496843
+  phone: '+66 76 219 788'
+  openingHours:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 12:00 AM'
 tags:
   - phuket
   - local restaurant

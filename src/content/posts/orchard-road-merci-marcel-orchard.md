@@ -57,6 +57,15 @@ place:
       - 16
       - 17
     venueId: ven_30775f753250563449446552456a325a51565a6e7054754a496843
+  phone: '+65 6970 9792'
+  openingHours:
+    - 'Monday: 8:00 AM – 10:30 PM'
+    - 'Tuesday: 8:00 AM – 10:30 PM'
+    - 'Wednesday: 8:00 AM – 11:30 PM'
+    - 'Thursday: 8:00 AM – 11:30 PM'
+    - 'Friday: 8:00 AM – 11:30 PM'
+    - 'Saturday: 8:00 AM – 11:30 PM'
+    - 'Sunday: 8:00 AM – 10:30 PM'
 tags:
   - orchard road
   - local restaurant

@@ -42,6 +42,15 @@ place:
       - 15
       - 16
     venueId: ven_492d466161517747517468524147416e72786e753954314a496843
+  phone: '+81 6-6227-8666'
+  openingHours:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
 tags:
   - osaka
   - trendy cafe

@@ -1,13 +1,13 @@
 ---
-title: 'The Getty: Los Angeles Travel Guide (4.8★)'
+title: "The Getty: Los Angeles Travel Guide (4.8★)"
 description: The Getty Center in Brentwood is free to enter (you only pay for parking), open Tuesday–Sunday, and best tackled in a half to full day. 4.8★ (37,110 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Los Angeles
 category: attraction
-pubDate: '2026-08-05T11:34:08.112Z'
+pubDate: "2026-08-05T11:34:08.112Z"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/103792_3PGEB095N7hM3VkwA6efLupYN4hi81YuvxwUvyPMEzA.jpg
-  credit: 'Photo: Foursquare user content (J. Paul Getty Museum)'
+  credit: "Photo: Foursquare user content (J. Paul Getty Museum)"
   license: foursquare
   source: https://foursquare.com/v/427ff980f964a520c7211fe3
 place:
@@ -22,15 +22,11 @@ place:
   lng: -118.4732648
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 18
     weekdayBusy:
       - 12
       - 13
       - 14
       - 15
-    weekendQuiet:
-      - 21
     weekendBusy:
       - 11
       - 12
@@ -41,17 +37,26 @@ place:
       - 17
       - 18
     venueId: ven_6f4e654b7056467171614a52416f77386574516e597a624a496843
+  phone: +1 310-440-7300
+  openingHours:
+    - "Monday: Closed"
+    - "Tuesday: 10:00 AM – 6:30 PM"
+    - "Wednesday: 10:00 AM – 6:30 PM"
+    - "Thursday: 10:00 AM – 6:30 PM"
+    - "Friday: 10:00 AM – 6:30 PM"
+    - "Saturday: 10:00 AM – 9:00 PM"
+    - "Sunday: 10:00 AM – 6:30 PM"
 tags:
   - los angeles
   - museum
-quickAnswer: The Getty Center in Brentwood is free to enter (you only pay for parking), open Tuesday–Sunday, and best tackled in a half to full day. Ride the driverless tram up the hill, start with the gardens or a single pavilion before the crowds thicken, and if you're going on a weekend aim for after 6pm — foot traffic is heaviest 11am–7pm and quietest around 9–10pm, while weekdays calm down between 6 and 7pm.
+quickAnswer: The Getty Center in Brentwood is free to enter (you only pay for parking), open Tuesday–Sunday, and best tackled in a half to full day. Ride the driverless tram up the hill, start with the gardens or a single pavilion before the crowds thicken, and if you're going on a weekend aim for after 6pm — foot traffic is heaviest 11am–7pm and quietest around 8–9pm, while weekdays calm down between 6 and 6:30pm.
 faq:
   - q: Is the Getty Center free to visit?
     a: Yes, general admission is free. The only cost is parking, paid at the entrance gate.
   - q: How do I get up to the museum from the parking area?
     a: A driverless electric tram runs from the parking garage on Sepulveda Boulevard up to the museum plaza, taking about five minutes; you can also walk up via a hillside path.
   - q: When is the quietest time to visit?
-    a: On weekdays, it's calmest between 6pm and 7pm. On weekends, the quietest hour is later, around 9pm–10pm — avoid the 11am–7pm stretch on weekends if you want to skip crowds.
+    a: On weekdays, it's calmest between 6pm and 6:30pm, just before closing. On weekends, the quietest hour is later, around 8pm–9pm — avoid the 11am–7pm stretch on weekends if you want to skip crowds.
   - q: How long should I plan to spend there?
     a: Half a day is enough to see one or two pavilions and the gardens properly; art and architecture enthusiasts often spend a full day.
   - q: What's nearby if I want to combine a visit?
@@ -81,7 +86,7 @@ Don't rush past the Central Garden, designed by artist Robert Irwin as a piece o
 
 ## When to go
 
-Because there's no ticket cost, the Getty draws a steady crowd, and weekends are its busiest stretch, with foot traffic building steadily from around 11am and staying heavy until about 7pm. If you want the galleries and gardens to yourself, weekday evenings are the sweet spot — things thin out noticeably between 6pm and 7pm. On weekends, the calmest hour is later still, around 9pm to 10pm, so an evening visit timed to sunset over the gardens can mean far fewer people between you and the art.
+Because there's no ticket cost, the Getty draws a steady crowd, and weekends are its busiest stretch, with foot traffic building steadily from around 11am and staying heavy until about 7pm. If you want the galleries and gardens to yourself, weekday evenings are the sweet spot — things thin out noticeably between 6pm and 6:30pm, right up to closing. On weekends, the calmest hour is later still, around 8pm to 9pm, so an evening visit timed to sunset over the gardens can mean far fewer people between you and the art.
 
 Check the current daily closing time before you plan an evening trip, since hours can shift seasonally, and note the museum is closed on Mondays.
 
@@ -91,7 +96,6 @@ Bring a layer even in summer — the hilltop catches an ocean breeze that the pa
 
 ## How to visit like a local
 
-Skip the late-morning rush: arrive right at opening or, if you're free on a weekday, come after 5pm when the light through the skylights turns golden and the crowds have thinned toward that 6–7pm quiet window. Parking is prepaid at a machine or gate on arrival — carry a card, since cash isn't always practical at the kiosks. There's no ticket booth to queue at for entry itself since admission is free, so the real bottleneck is the tram and the parking structure, not the galleries; walking up the hillside path is a legitimate, often faster alternative if the tram line is long.
+Skip the late-morning rush: arrive right at opening or, if you're free on a weekday, come after 5pm when the light through the skylights turns golden and the crowds have thinned toward that 6–6:30pm quiet window. Parking is prepaid at a machine or gate on arrival — carry a card, since cash isn't always practical at the kiosks. There's no ticket booth to queue at for entry itself since admission is free, so the real bottleneck is the tram and the parking structure, not the galleries; walking up the hillside path is a legitimate, often faster alternative if the tram line is long.
 
 Locals treat the Getty as a rotating destination — check what temporary exhibition is on before you go, since the permanent collection is only part of the draw, and pace yourself by picking one or two pavilions rather than attempting the entire campus in one visit.
-
