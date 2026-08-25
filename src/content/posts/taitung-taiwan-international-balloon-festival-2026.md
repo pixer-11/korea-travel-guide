@@ -58,10 +58,15 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:2014-08-10_Taiwan_International_Balloon_Festival_01.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 eventOrganizer:
   name: Taitung County Government
   url: 'https://balloontaiwan.taitung.gov.tw/en'
+eventOffers:
+  url: 'https://www.eztravel.com.tw/activity/taitungballoon/'
+  free: true
+  currency: TWD
+eventFactsAsked: true
 ---
 
 ## Why go

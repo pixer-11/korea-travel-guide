@@ -65,6 +65,9 @@ heroImage:
 eventOrganizer:
   name: International Tennis Federation
   url: 'https://www.itftennis.com'
+eventOffers:
+  url: 'https://www.billiejeankingcup.com/en/tickets'
+eventFactsAsked: true
 ---
 
 ## Why this event matters

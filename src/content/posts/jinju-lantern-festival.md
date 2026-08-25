@@ -19,7 +19,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Jinju_namgang_lantern_festival.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - jinju
@@ -66,6 +66,15 @@ aiGenerated: true
 draft: false
 country: South Korea
 eventRecurring: true
+eventOrganizer:
+  name: >-
+    Jinju Namgang Yudeung Festival Committee (진주남강유등축제제전위원회), hosted by Jinju
+    City and Jinju Cultural Foundation
+  url: 'https://yudeung.com/'
+eventOffers:
+  free: true
+  currency: KRW
+eventFactsAsked: true
 ---
 
 ## Why go

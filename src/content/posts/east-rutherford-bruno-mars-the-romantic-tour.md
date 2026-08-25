@@ -62,6 +62,13 @@ heroImage:
 eventOrganizer:
   name: Live Nation
   url: 'https://www.livenation.com'
+eventOffers:
+  url: >-
+    https://www.ticketmaster.com/bruno-mars-the-romantic-tour-east-rutherford-new-jersey-08-21-2026/event/0000639EE07FD3B7
+eventPerformer:
+  name: Bruno Mars
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

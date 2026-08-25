@@ -50,6 +50,10 @@ faq:
       drawn large, fast-moving crowds.
 aiGenerated: true
 eventRecurring: false
+eventPerformer:
+  name: Quick Style
+  kind: group
+eventFactsAsked: true
 ---
 
 ## Why this stop matters

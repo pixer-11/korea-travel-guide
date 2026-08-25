@@ -61,6 +61,13 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation Tero Entertainment
   url: 'https://www.livenationtero.co.th/'
+eventOffers:
+  url: >-
+    https://www.livenationtero.co.th/en/event/kodaline-farewell-tour-bangkok-tickets-edp1661899
+eventPerformer:
+  name: Kodaline
+  kind: group
+eventFactsAsked: true
 ---
 ## Why this show matters
 

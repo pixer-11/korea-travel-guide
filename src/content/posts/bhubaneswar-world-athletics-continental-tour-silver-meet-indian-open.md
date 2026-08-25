@@ -1,6 +1,11 @@
 ---
-title: 'World Athletics Continental Tour Silver Meet (Indian Open): What to Know (Bhubaneswar)'
-description: World Athletics Continental Tour Silver Meet (Indian Open) in Bhubaneswar, India — August 22, 2026. What it is, when and where, and how to plan around it.
+title: >-
+  World Athletics Continental Tour Silver Meet (Indian Open): What to Know
+  (Bhubaneswar)
+description: >-
+  World Athletics Continental Tour Silver Meet (Indian Open) in Bhubaneswar,
+  India — August 22, 2026. What it is, when and where, and how to plan around
+  it.
 country: India
 region: Bhubaneswar
 category: event
@@ -10,31 +15,59 @@ eventEndDate: '2026-08-22'
 tags:
   - bhubaneswar
   - event
-quickAnswer: India's first World Athletics Continental Tour Silver Meet — the Indian Open — arrives at Kalinga Stadium in Bhubaneswar on August 22, 2026, an upgrade from the bronze-level meet held there in 2025. Expect a single-day, evening-heavy program of international track and field, with tickets, gate times, and the full event schedule confirmed on official World Athletics and Odisha sports channels.
+quickAnswer: >-
+  India's first World Athletics Continental Tour Silver Meet — the Indian Open —
+  arrives at Kalinga Stadium in Bhubaneswar on August 22, 2026, an upgrade from
+  the bronze-level meet held there in 2025. Expect a single-day, evening-heavy
+  program of international track and field, with tickets, gate times, and the
+  full event schedule confirmed on official World Athletics and Odisha sports
+  channels.
 faq:
   - q: What date is the Indian Open in Bhubaneswar?
-    a: The 2026 Indian Open was held on August 22, 2026, at Kalinga Stadium. For the next edition's date, check the World Athletics Continental Tour calendar or Odisha sports channels — the schedule is confirmed a few weeks ahead.
+    a: >-
+      The 2026 Indian Open was held on August 22, 2026, at Kalinga Stadium. For
+      the next edition's date, check the World Athletics Continental Tour
+      calendar or Odisha sports channels — the schedule is confirmed a few weeks
+      ahead.
   - q: How do I get to Kalinga Stadium?
-    a: Fly into Biju Patnaik International Airport (BBI) or arrive by train at Bhubaneswar Railway Station; both are roughly 15–20 minutes from the stadium by taxi or autorickshaw.
+    a: >-
+      Fly into Biju Patnaik International Airport (BBI) or arrive by train at
+      Bhubaneswar Railway Station; both are roughly 15–20 minutes from the
+      stadium by taxi or autorickshaw.
   - q: How much are tickets and where do I buy them?
-    a: Pricing hasn't been officially released yet; buy only through verified World Athletics or Odisha government sports announcements once ticket sales open, and avoid unofficial resellers.
+    a: >-
+      Pricing hasn't been officially released yet; buy only through verified
+      World Athletics or Odisha government sports announcements once ticket
+      sales open, and avoid unofficial resellers.
   - q: How long should I plan to be at the venue?
-    a: Continental Tour meets typically run a full day with heats/field events in the afternoon and marquee finals in the evening, so plan for several hours if you want to catch the headline races.
+    a: >-
+      Continental Tour meets typically run a full day with heats/field events in
+      the afternoon and marquee finals in the evening, so plan for several hours
+      if you want to catch the headline races.
   - q: What else can I do in Bhubaneswar around the event?
-    a: Combine the meet with visits to Lingaraj Temple, Mukteshwar Temple, and the Khandagiri-Udayagiri Caves, all within a short drive of the city center.
+    a: >-
+      Combine the meet with visits to Lingaraj Temple, Mukteshwar Temple, and
+      the Khandagiri-Udayagiri Caves, all within a short drive of the city
+      center.
 aiGenerated: true
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/76/Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/76/Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
   credit: 'Photo: filip bossuyt / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
   focus:
     x: 35
     'y': 25
 eventOrganizer:
-  name: Sports and Youth Services Department, Government of Odisha
+  name: 'Sports and Youth Services Department, Government of Odisha'
+eventOffers:
+  free: true
+  currency: INR
+eventFactsAsked: true
 ---
 ## Why this meet matters
 

@@ -60,6 +60,9 @@ eventRecurring: true
 eventOrganizer:
   name: Ayuntamiento de Buñol (Buñol Town Hall / City Council)
   url: 'https://www.bunyol.es/'
+eventOffers:
+  url: 'https://latomatina.info/'
+eventFactsAsked: true
 ---
 ## Why go
 

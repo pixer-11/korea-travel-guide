@@ -65,6 +65,12 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation
   url: 'https://www.livenation.sg'
+eventOffers:
+  url: 'https://ticketmaster.sg/activity/detail/26sg_theweeknd'
+eventPerformer:
+  name: The Weeknd
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

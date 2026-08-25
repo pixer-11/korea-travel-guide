@@ -63,6 +63,10 @@ faq:
       are all within easy reach of the festival areas and make good additions to
       a festival weekend.
 aiGenerated: true
+eventOffers:
+  free: true
+  currency: USD
+eventFactsAsked: true
 ---
 
 ## Why go

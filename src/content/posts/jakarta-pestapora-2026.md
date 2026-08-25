@@ -55,6 +55,9 @@ photoless: true
 eventOrganizer:
   name: Boss Creator
   url: 'https://www.bosscreator.id/'
+eventOffers:
+  url: 'https://www.pestapora.com/tiket'
+eventFactsAsked: true
 ---
 
 ## What Pestapora Is

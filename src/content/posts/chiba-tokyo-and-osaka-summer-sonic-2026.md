@@ -1,6 +1,9 @@
 ---
 title: 'Summer Sonic 2026: What to Know (Tokyo & Osaka)'
-description: Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo area) and Osaka, marking the festival's 25th anniversary and its first-ever three-day format.
+description: >-
+  Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo
+  area) and Osaka, marking the festival's 25th anniversary and its first-ever
+  three-day format.
 country: Japan
 region: Chiba
 category: event
@@ -10,33 +13,60 @@ eventEndDate: '2026-08-16'
 tags:
   - chiba
   - event
-quickAnswer: Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo area) and Osaka, marking the festival's 25th anniversary and its first-ever three-day format. Headliners announced so far include The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa and LE SSERAFIM. Confirm exact stage times, venue layout, and ticket tiers on the official Summer Sonic site before booking flights or hotels.
+quickAnswer: >-
+  Summer Sonic 2026 runs August 14–16, 2026, simultaneously in Chiba (Tokyo
+  area) and Osaka, marking the festival's 25th anniversary and its first-ever
+  three-day format. Headliners announced so far include The Strokes, Jamiroquai,
+  FKA Twigs, L'Arc-en-Ciel, aespa and LE SSERAFIM. Confirm exact stage times,
+  venue layout, and ticket tiers on the official Summer Sonic site before
+  booking flights or hotels.
 faq:
   - q: What are the exact dates for Summer Sonic 2026?
-    a: August 14–16, 2026, held simultaneously in Chiba and Osaka. This is the festival's first-ever three-day format, marking its 25th anniversary — confirm on the official site as details can shift.
+    a: >-
+      August 14–16, 2026, held simultaneously in Chiba and Osaka. This is the
+      festival's first-ever three-day format, marking its 25th anniversary —
+      confirm on the official site as details can shift.
   - q: How do I get to the Chiba venue?
-    a: Take the JR Keiyo Line to Kaihin-Makuhari Station, about 30–40 minutes from Tokyo Station, then walk or shuttle to Zozo Marine Stadium and Makuhari Messe, where the stages are located.
+    a: >-
+      Take the JR Keiyo Line to Kaihin-Makuhari Station, about 30–40 minutes
+      from Tokyo Station, then walk or shuttle to Zozo Marine Stadium and
+      Makuhari Messe, where the stages are located.
   - q: Can one ticket cover both Chiba and Osaka?
-    a: Summer Sonic has offered city-crossing ticket options in past years, but this varies by edition — check the official ticket page for 2026's specific ticket types before assuming you can attend both cities on one pass.
+    a: >-
+      Summer Sonic has offered city-crossing ticket options in past years, but
+      this varies by edition — check the official ticket page for 2026's
+      specific ticket types before assuming you can attend both cities on one
+      pass.
   - q: Who is headlining in 2026?
-    a: Announced acts include The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel, aespa, and LE SSERAFIM, spread across the three days and both cities. Full daily lineups should be confirmed on the official site.
-  - q: What's the weather like, and how should I prepare?
-    a: Mid-August in Chiba and Osaka is typically hot and humid, often 30–35°C. Indoor stages at Makuhari Messe offer air conditioning relief; plan outdoor stadium time for evenings and stay hydrated throughout the day.
+    a: >-
+      Announced acts include The Strokes, Jamiroquai, FKA Twigs, L'Arc-en-Ciel,
+      aespa, and LE SSERAFIM, spread across the three days and both cities. Full
+      daily lineups should be confirmed on the official site.
+  - q: 'What''s the weather like, and how should I prepare?'
+    a: >-
+      Mid-August in Chiba and Osaka is typically hot and humid, often 30–35°C.
+      Indoor stages at Makuhari Messe offer air conditioning relief; plan
+      outdoor stadium time for evenings and stay hydrated throughout the day.
 aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/43/Marine_Stage_at_Summer_Sonic_Festival.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/43/Marine_Stage_at_Summer_Sonic_Festival.jpg
   credit: 'Photo: LuxTonnerre / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Marine_Stage_at_Summer_Sonic_Festival.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Marine_Stage_at_Summer_Sonic_Festival.jpg
   focus:
     x: 50
     'y': 25
 eventOrganizer:
   name: Creativeman Productions
-  url: https://www.creativeman.co.jp/
+  url: 'https://www.creativeman.co.jp/'
+eventOffers:
+  url: 'https://www.summersonic.com/en/tickets/tokyo/'
+eventFactsAsked: true
 ---
 ## Why go
 

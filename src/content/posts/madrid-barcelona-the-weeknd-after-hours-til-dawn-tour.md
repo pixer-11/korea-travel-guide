@@ -67,6 +67,12 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation
   url: 'https://www.livenation.es'
+eventOffers:
+  url: 'https://www.theweeknd.com/tour'
+eventPerformer:
+  name: The Weeknd
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this run matters

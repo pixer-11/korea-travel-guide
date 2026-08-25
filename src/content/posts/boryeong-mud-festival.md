@@ -16,7 +16,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Korea-Boryeong_Mud_Festival-29.jpg'
   focus:
     x: 35
-    y: 30
+    'y': 30
 gallery: []
 tags:
   - boryeong
@@ -61,8 +61,11 @@ draft: false
 country: South Korea
 eventRecurring: true
 eventOrganizer:
-  name: "Boryeong Festival Tourism Foundation (보령축제관광재단)"
-  url: "https://www.mudfestival.or.kr/"
+  name: Boryeong Festival Tourism Foundation (보령축제관광재단)
+  url: 'https://www.mudfestival.or.kr/'
+eventOffers:
+  url: 'https://mudfestival.or.kr/en/festival/1_mud_festival/ticket_info.html'
+eventFactsAsked: true
 ---
 ## Why go
 

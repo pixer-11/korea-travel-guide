@@ -54,6 +54,12 @@ photoless: true
 eventOrganizer:
   name: Arachnée Productions
 eventVenue: Stade de France
+eventOffers:
+  url: 'https://www.stadefrance.com/en/ticket/plk-2'
+eventPerformer:
+  name: PLK
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

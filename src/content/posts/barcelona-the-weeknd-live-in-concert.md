@@ -62,6 +62,12 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation España
   url: 'https://www.livenation.es'
+eventOffers:
+  url: 'https://www.ticketmaster.es/artist/the-weeknd-tickets/884434?language=en-us'
+eventPerformer:
+  name: The Weeknd
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

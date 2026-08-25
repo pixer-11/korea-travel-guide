@@ -1,6 +1,11 @@
 ---
-title: 'Babylon Soundgarden 2026 featuring Jack White, Wet Leg & The Kills: What to Know (Istanbul)'
-description: Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills among the announced headliners.
+title: >-
+  Babylon Soundgarden 2026 featuring Jack White, Wet Leg & The Kills: What to
+  Know (Istanbul)
+description: >-
+  Babylon Soundgarden 2026 is set for August 22–23, 2026, at Parkorman Nature
+  Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills
+  among the announced headliners.
 country: Turkey
 region: Istanbul
 category: event
@@ -11,16 +16,31 @@ gallery: []
 tags:
   - istanbul
   - event
-quickAnswer: Babylon Soundgarden 2026 took place August 22–23, 2026, at Parkorman Nature Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills among the announced headliners. It was an outdoor, two-day festival at a forested park venue on the European side, with easy taxi/rideshare access from Levent and Maslak.
+quickAnswer: >-
+  Babylon Soundgarden 2026 took place August 22–23, 2026, at Parkorman Nature
+  Park in Istanbul's Maslak/Sarıyer area, with Jack White, Wet Leg and The Kills
+  among the announced headliners. It was an outdoor, two-day festival at a
+  forested park venue on the European side, with easy taxi/rideshare access from
+  Levent and Maslak.
 faq:
   - q: What are the exact dates for Babylon Soundgarden 2026?
-    a: The festival is announced for August 22–23, 2026, in Istanbul. Confirm this on Babylon's official site as festival dates can occasionally shift.
+    a: >-
+      The festival is announced for August 22–23, 2026, in Istanbul. Confirm
+      this on Babylon's official site as festival dates can occasionally shift.
   - q: Where exactly is the festival held?
-    a: At Parkorman Nature Park, an outdoor forested events venue in the Maslak/Ayazağa area of Sarıyer district on Istanbul's European side.
+    a: >-
+      At Parkorman Nature Park, an outdoor forested events venue in the
+      Maslak/Ayazağa area of Sarıyer district on Istanbul's European side.
   - q: How do I get to Parkorman from central Istanbul?
-    a: Take the M2 metro to Levent or 4. Levent station, then a short taxi or rideshare to the venue, since Parkorman itself isn't directly on the metro. Direct taxi from Levent, Maslak or Şişli is the most common route.
+    a: >-
+      Take the M2 metro to Levent or 4. Levent station, then a short taxi or
+      rideshare to the venue, since Parkorman itself isn't directly on the
+      metro. Direct taxi from Levent, Maslak or Şişli is the most common route.
   - q: How much do tickets cost?
-    a: Pricing was not included here; single-day and two-day pass prices were available through Babylon's official website or their ticketing partner (typically Biletix in Turkey).
+    a: >-
+      Pricing was not included here; single-day and two-day pass prices were
+      available through Babylon's official website or their ticketing partner
+      (typically Biletix in Turkey).
   - q: Who is headlining besides Jack White?
     a: Wet Leg and The Kills were also announced as headliners.
 aiGenerated: true
@@ -29,8 +49,11 @@ eventRecurring: true
 photoless: true
 eventOrganizer:
   name: Pozitif Müzik
-  url: https://pozitif.com
+  url: 'https://pozitif.com'
 eventVenue: Parkorman Nature Park
+eventOffers:
+  url: 'https://www.biletix.com/etkinlik/5POB8/ISTANBUL/tr'
+eventFactsAsked: true
 ---
 ## Why go
 

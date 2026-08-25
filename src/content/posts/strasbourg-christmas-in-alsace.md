@@ -77,6 +77,10 @@ eventRecurring: true
 eventOrganizer:
   name: City of Strasbourg
   url: 'https://www.strasbourg.eu/'
+eventOffers:
+  free: true
+  currency: EUR
+eventFactsAsked: true
 ---
 ## Why Strasbourg at Christmas
 

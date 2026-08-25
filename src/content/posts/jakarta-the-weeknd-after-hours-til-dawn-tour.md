@@ -66,6 +66,13 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation and TEM Presents
   url: 'https://www.theweekndinjakarta.com/'
+eventOffers:
+  url: >-
+    https://www.livenation.asia/event/the-weeknd-after-hours-til-dawn-tour-jakarta-ticket-edp1672880
+eventPerformer:
+  name: The Weeknd
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

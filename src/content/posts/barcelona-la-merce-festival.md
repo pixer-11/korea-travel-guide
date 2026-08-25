@@ -64,6 +64,10 @@ eventRecurring: true
 eventOrganizer:
   name: Barcelona City Council (Ajuntament de Barcelona)
   url: 'https://www.barcelona.cat/lamerce/en'
+eventOffers:
+  free: true
+  currency: EUR
+eventFactsAsked: true
 ---
 
 ## Why La Mercè takes over the city

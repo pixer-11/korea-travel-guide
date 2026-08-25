@@ -60,6 +60,11 @@ eventRecurring: true
 eventOrganizer:
   name: City of Sturgis (Rally Department)
   url: 'https://sturgismotorcyclerally.com/'
+eventOffers:
+  url: 'https://sturgis.com/registration/'
+  free: true
+  currency: USD
+eventFactsAsked: true
 ---
 ## Why go
 

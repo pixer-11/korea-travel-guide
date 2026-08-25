@@ -1,6 +1,8 @@
 ---
 title: 'Asian Games 2026: Dates, Tickets & Venue (Nagoya)'
-description: Asian Games 2026 in Nagoya, Japan — September 19 - October 4, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Asian Games 2026 in Nagoya, Japan — September 19 - October 4, 2026. What it
+  is, when and where, and how to plan around it.
 country: Japan
 region: Nagoya
 category: event
@@ -10,32 +12,55 @@ eventEndDate: '2026-10-04'
 eventRecurring: false
 eventOrganizer:
   name: Olympic Council of Asia
-  url: https://www.ocasia.org/
+  url: 'https://www.ocasia.org/'
 tags:
   - nagoya
   - event
-quickAnswer: The 20th Asian Games run September 19 – October 4, 2026, across Aichi Prefecture, centered on Nagoya, Japan. Ticket sales, the full sport-by-venue schedule, and opening/closing ceremony details will be released via the official Asian Games 2026 and Aichi-Nagoya organizing committee channels — check those before booking flights or hotels. Expect Nagoya's main stadium and arenas plus satellite venues across Aichi cities to host events over the roughly two-and-a-half-week window.
+quickAnswer: >-
+  The 20th Asian Games run September 19 – October 4, 2026, across Aichi
+  Prefecture, centered on Nagoya, Japan. Ticket sales, the full sport-by-venue
+  schedule, and opening/closing ceremony details will be released via the
+  official Asian Games 2026 and Aichi-Nagoya organizing committee channels —
+  check those before booking flights or hotels. Expect Nagoya's main stadium and
+  arenas plus satellite venues across Aichi cities to host events over the
+  roughly two-and-a-half-week window.
 faq:
   - q: What are the exact dates of the 2026 Asian Games?
-    a: September 19 to October 4, 2026, held across Aichi Prefecture with Nagoya as the central host city.
+    a: >-
+      September 19 to October 4, 2026, held across Aichi Prefecture with Nagoya
+      as the central host city.
   - q: Where can I buy tickets?
-    a: Ticket details had not been finalized at the time of writing. Buy only through the official Asian Games 2026 and Aichi-Nagoya organizing committee websites once sales open.
+    a: >-
+      Ticket details had not been finalized at the time of writing. Buy only
+      through the official Asian Games 2026 and Aichi-Nagoya organizing
+      committee websites once sales open.
   - q: How do I get to Nagoya from Tokyo or Osaka?
-    a: The Tokaido Shinkansen connects Tokyo to Nagoya in about 100 minutes and Osaka to Nagoya in about 50 minutes.
+    a: >-
+      The Tokaido Shinkansen connects Tokyo to Nagoya in about 100 minutes and
+      Osaka to Nagoya in about 50 minutes.
   - q: Are all events held in Nagoya itself?
-    a: No — venues are spread across Aichi Prefecture, including satellite cities like Toyota and Okazaki, so check each event's specific location and add travel time.
+    a: >-
+      No — venues are spread across Aichi Prefecture, including satellite cities
+      like Toyota and Okazaki, so check each event's specific location and add
+      travel time.
   - q: What's the best way to get around during the Games?
-    a: Get an IC card (Manaca, Suica, or Pasmo) for the subway and buses; the Higashiyama and Sakura-dori lines cover most central Nagoya venues.
+    a: >-
+      Get an IC card (Manaca, Suica, or Pasmo) for the subway and buses; the
+      Higashiyama and Sakura-dori lines cover most central Nagoya venues.
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Asian_Games_Hangzhou_2023_-_22.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3e/Asian_Games_Hangzhou_2023_-_22.jpg
   credit: 'Photo: Foroogh Taherkhani / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Asian_Games_Hangzhou_2023_-_22.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Asian_Games_Hangzhou_2023_-_22.jpg'
   focus:
     x: 68
     'y': 45
+eventOffers:
+  url: 'https://tickets-aichi-nagoya2026.org/'
+eventFactsAsked: true
 ---
 ## Why this Games matters
 

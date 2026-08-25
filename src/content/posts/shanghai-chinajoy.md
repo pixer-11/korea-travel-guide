@@ -60,6 +60,9 @@ eventRecurring: true
 eventOrganizer:
   name: ChinaJoy Organizing Committee
   url: 'https://en.chinajoy.net'
+eventOffers:
+  url: 'https://chinajoy.huodongxing.com/'
+eventFactsAsked: true
 ---
 
 ## Why go

@@ -1,6 +1,9 @@
 ---
 title: 'Formula E Tokyo E-Prix: What to Know (Tokyo)'
-description: The Formula E Tokyo E-Prix is scheduled for July 25-26, 2026 on the Tokyo Street Circuit, marking one of the first times international open-wheel electric racing has run on closed public roads in central Tokyo.
+description: >-
+  The Formula E Tokyo E-Prix is scheduled for July 25-26, 2026 on the Tokyo
+  Street Circuit, marking one of the first times international open-wheel
+  electric racing has run on closed public roads in central Tokyo.
 country: Japan
 region: Tokyo
 category: event
@@ -8,10 +11,12 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-07-25'
 eventEndDate: '2026-07-26'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg/1920px-Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg/1920px-Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
   credit: 'Photo: Morio / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Porsche_Formula_E_show_car_2024_Tokyo_e-Prix.jpg
   focus:
     x: 45
     'y': 40
@@ -19,21 +24,52 @@ gallery: []
 tags:
   - tokyo
   - event
-quickAnswer: The Formula E Tokyo E-Prix is scheduled for July 25-26, 2026 on the Tokyo Street Circuit, marking one of the first times international open-wheel electric racing has run on closed public roads in central Tokyo. Treat the date as provisional until Formula E and Tokyo Metropolitan Government confirm the final circuit map, ticket sale dates, and session times on the official Formula E website. Plan to be in the Odaiba/waterfront or central business district area (exact street circuit location to be confirmed) for a race weekend that will likely include practice, qualifying, and the main E-Prix race across the two days.
+quickAnswer: >-
+  The Formula E Tokyo E-Prix is scheduled for July 25-26, 2026 on the Tokyo
+  Street Circuit, marking one of the first times international open-wheel
+  electric racing has run on closed public roads in central Tokyo. Treat the
+  date as provisional until Formula E and Tokyo Metropolitan Government confirm
+  the final circuit map, ticket sale dates, and session times on the official
+  Formula E website. Plan to be in the Odaiba/waterfront or central business
+  district area (exact street circuit location to be confirmed) for a race
+  weekend that will likely include practice, qualifying, and the main E-Prix
+  race across the two days.
 faq:
   - q: Where exactly is the Tokyo Street Circuit?
-    a: The precise street circuit layout and district haven't been officially detailed yet. Check the official Formula E website closer to the July 25-26, 2026 date for the confirmed map and nearest stations.
+    a: >-
+      The precise street circuit layout and district haven't been officially
+      detailed yet. Check the official Formula E website closer to the July
+      25-26, 2026 date for the confirmed map and nearest stations.
   - q: How do I get tickets?
-    a: Ticket sale dates and pricing were not announced ahead of time. As is typical for street circuit races, ticket releases often come in tiers (general admission, grandstand, hospitality).
+    a: >-
+      Ticket sale dates and pricing were not announced ahead of time. As is
+      typical for street circuit races, ticket releases often come in tiers
+      (general admission, grandstand, hospitality).
   - q: What's the best way to reach the venue from Narita or Haneda airport?
-    a: Haneda is closer to central Tokyo (roughly 30-45 minutes by monorail or Keikyu line); Narita takes 60-90 minutes via Narita Express or Skyliner. Use Tokyo's subway/JR network for the final leg, since road closures are likely near the circuit on race days.
+    a: >-
+      Haneda is closer to central Tokyo (roughly 30-45 minutes by monorail or
+      Keikyu line); Narita takes 60-90 minutes via Narita Express or Skyliner.
+      Use Tokyo's subway/JR network for the final leg, since road closures are
+      likely near the circuit on race days.
   - q: How many days should I plan for the event?
-    a: The E-Prix runs across July 25-26, 2026, typically with practice/qualifying one day and the race the next, so plan at least two full days on-site plus buffer days to explore Tokyo.
+    a: >-
+      The E-Prix runs across July 25-26, 2026, typically with
+      practice/qualifying one day and the race the next, so plan at least two
+      full days on-site plus buffer days to explore Tokyo.
   - q: What should I wear or bring given the July heat?
-    a: Expect hot, humid conditions typical of Tokyo summer (often 30°C+ with high humidity). Bring a hat, sunscreen, a refillable water bottle, and light clothing, and arrive early to secure shaded viewing spots if available.
+    a: >-
+      Expect hot, humid conditions typical of Tokyo summer (often 30°C+ with
+      high humidity). Bring a hat, sunscreen, a refillable water bottle, and
+      light clothing, and arrive early to secure shaded viewing spots if
+      available.
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: 'Sporting club VICIC (appointed by the Japan Automobile Federation, JAF)'
+eventOffers:
+  url: 'https://jp.fiaformulae.com/tickets'
+eventFactsAsked: true
 ---
 
 ## Why go

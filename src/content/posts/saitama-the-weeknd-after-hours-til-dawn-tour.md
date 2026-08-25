@@ -1,6 +1,8 @@
 ---
 title: 'The Weeknd: After Hours Til Dawn Tour: Dates, Tickets & Venue (Saitama)'
-description: 'The Weeknd: After Hours Til Dawn Tour in Saitama, Japan — September 19-20, 2026. What it is, when and where, and how to plan around it.'
+description: >-
+  The Weeknd: After Hours Til Dawn Tour in Saitama, Japan — September 19-20,
+  2026. What it is, when and where, and how to plan around it.
 country: Japan
 region: Saitama
 category: event
@@ -9,29 +11,60 @@ eventStartDate: '2026-09-19'
 eventEndDate: '2026-09-20'
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg
   credit: 'Photo: Brian Ziff / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg
   focus:
     x: 40
     'y': 25
 tags:
   - saitama
   - event
-quickAnswer: The Weeknd brings the closing Asia dates of his After Hours Til Dawn tour to Belluna Dome in Saitama on September 19 and 20, 2026, with Japanese hip-hop duo Creepy Nuts opening both nights. Tickets, exact set times, and gate details are handled through the official tour and venue channels — confirm those before you book flights or hotels. Base yourself near Seibu-Kyujo-mae or Higashi-Totsuka stations for the easiest access to Belluna Dome.
+quickAnswer: >-
+  The Weeknd brings the closing Asia dates of his After Hours Til Dawn tour to
+  Belluna Dome in Saitama on September 19 and 20, 2026, with Japanese hip-hop
+  duo Creepy Nuts opening both nights. Tickets, exact set times, and gate
+  details are handled through the official tour and venue channels — confirm
+  those before you book flights or hotels. Base yourself near Seibu-Kyujo-mae or
+  Higashi-Totsuka stations for the easiest access to Belluna Dome.
 faq:
   - q: What are the confirmed dates and venue?
-    a: September 19 and 20, 2026, at Belluna Dome in Tokorozawa, Saitama Prefecture. Confirm on the official tour site, as dome shows occasionally shift by a day due to production needs.
+    a: >-
+      September 19 and 20, 2026, at Belluna Dome in Tokorozawa, Saitama
+      Prefecture. Confirm on the official tour site, as dome shows occasionally
+      shift by a day due to production needs.
   - q: Who is opening the show?
-    a: Japanese hip-hop duo Creepy Nuts are confirmed as support for both Saitama dates, part of what's billed as the closing Asia leg of the tour.
+    a: >-
+      Japanese hip-hop duo Creepy Nuts are confirmed as support for both Saitama
+      dates, part of what's billed as the closing Asia leg of the tour.
   - q: How do I get to Belluna Dome from Tokyo?
-    a: Take the Seibu Ikebukuro Line to Tokorozawa Station, then transfer to the short shuttle line to Seibu-Kyujo-mae Station, which sits right by the dome.
+    a: >-
+      Take the Seibu Ikebukuro Line to Tokorozawa Station, then transfer to the
+      short shuttle line to Seibu-Kyujo-mae Station, which sits right by the
+      dome.
   - q: Where should I buy tickets?
-    a: Through the official tour ticketing partner linked from The Weeknd's official site or Belluna Dome's venue page. Avoid unverified resale sites, especially for a two-night run with expected high demand.
+    a: >-
+      Through the official tour ticketing partner linked from The Weeknd's
+      official site or Belluna Dome's venue page. Avoid unverified resale sites,
+      especially for a two-night run with expected high demand.
   - q: Is one night better than the other?
-    a: No official difference has been announced between September 19 and 20 — setlists and lineup are expected to be consistent, but always check official channels for last-minute changes.
+    a: >-
+      No official difference has been announced between September 19 and 20 —
+      setlists and lineup are expected to be consistent, but always check
+      official channels for last-minute changes.
 aiGenerated: true
+eventOrganizer:
+  name: LIVE NATION H.I.P.
+  url: 'https://www.livenationhip.co.jp'
+eventOffers:
+  url: 'https://www.livenationhip.co.jp/en/all-events/the-weeknd-tickets-ae474869'
+eventPerformer:
+  name: The Weeknd
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

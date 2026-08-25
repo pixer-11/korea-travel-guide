@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Aomori,_Nebuta-matsuri_34.jpg'
   focus:
     x: 35
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - aomori
@@ -58,6 +58,14 @@ faq:
 aiGenerated: true
 draft: false
 eventRecurring: true
+eventOrganizer:
+  name: Aomori Nebuta Festival Executive Committee
+  url: 'https://www.nebuta.jp/'
+eventOffers:
+  url: 'https://www.nebuta.jp/foreign/english.html'
+  free: true
+  currency: JPY
+eventFactsAsked: true
 ---
 
 ## Why go

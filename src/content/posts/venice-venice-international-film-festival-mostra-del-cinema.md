@@ -18,7 +18,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery: []
 tags:
   - venice
@@ -63,6 +63,9 @@ eventRecurring: true
 eventOrganizer:
   name: La Biennale di Venezia
   url: 'https://www.labiennale.org'
+eventOffers:
+  url: 'https://biennalecinema.vivaticket.it/en'
+eventFactsAsked: true
 ---
 
 ## Why go

@@ -58,6 +58,12 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation Middle East
   url: 'https://www.livenation.me'
+eventOffers:
+  url: 'https://www.etihadarena.ae/en/event-booking/the-corrs'
+eventPerformer:
+  name: The Corrs
+  kind: group
+eventFactsAsked: true
 ---
 
 ## Why this show matters

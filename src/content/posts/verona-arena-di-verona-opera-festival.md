@@ -18,7 +18,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Verona_-_Arena_di_Verona.jpeg'
   focus:
     x: 25
-    y: 25
+    'y': 25
 gallery: []
 tags:
   - verona
@@ -61,6 +61,9 @@ eventRecurring: true
 eventOrganizer:
   name: Fondazione Arena di Verona
   url: 'https://www.arena.it'
+eventOffers:
+  url: 'https://www.arena.it/en/arena-verona-opera-festival/'
+eventFactsAsked: true
 ---
 You feel it before you see it: the low murmur of a crowd gathering on pink-hued cobblestones, cushions tucked under arms, as the sun drops behind the rooftops of Piazza Bra. Then the amphitheatre itself comes into view — tiers of pale limestone stacked in a vast oval, worn smooth by nearly two thousand years of use. This is the Arena di Verona, and for one of Italy's great summer traditions, it becomes an opera house without a roof.
 

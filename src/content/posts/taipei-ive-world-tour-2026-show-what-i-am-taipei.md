@@ -59,10 +59,17 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:IVE_%22Show_What_I_Am%22_World_Tour_at_Kuala_Lumpur.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 eventOrganizer:
   name: Live Nation Taiwan
   url: 'https://www.livenation.com.tw'
+eventOffers:
+  url: >-
+    https://www.livenation.com.tw/en/event/ive-world-tour-show-what-i-am-in-taipei-taipei-tickets-edp1663145
+eventPerformer:
+  name: IVE
+  kind: group
+eventFactsAsked: true
 ---
 You come up out of the escalators at Taipei Arena on a September evening and the crowd tells you everything before you even see the building. Lightsticks bob in clusters near the entrance, fan-made banners get unfurled and photographed, and the low hum of pre-show excitement rolls across the plaza in waves. This is what an IVE arena night looks like, and for three nights running in 2026 — September 11, 12, and 13 — that energy belongs to Taipei.
 

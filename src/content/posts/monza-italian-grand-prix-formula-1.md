@@ -1,6 +1,8 @@
 ---
 title: 'Formula 1 Italian Grand Prix 2026: What to Know (Monza)'
-description: The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale Monza, just north of Milan.
+description: >-
+  The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale
+  Monza, just north of Milan.
 country: Italy
 region: Monza
 category: event
@@ -10,32 +12,60 @@ pubDate: '2026-07-21'
 tags:
   - monza
   - event
-quickAnswer: The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale Monza, just north of Milan. Buy tickets as early as possible via Formula1.com or the circuit's official channel, plan to arrive by train (Monza station, then shuttle bus or a 20-minute walk through Parco di Monza), and budget a full day for each session given the crowds and security queues. Always double-check dates, gate times, and prices on the official F1/Monza site before booking, as these can shift.
+quickAnswer: >-
+  The 2026 Italian Grand Prix runs September 4-6 at the Autodromo Nazionale
+  Monza, just north of Milan. Buy tickets as early as possible via Formula1.com
+  or the circuit's official channel, plan to arrive by train (Monza station,
+  then shuttle bus or a 20-minute walk through Parco di Monza), and budget a
+  full day for each session given the crowds and security queues. Always
+  double-check dates, gate times, and prices on the official F1/Monza site
+  before booking, as these can shift.
 faq:
   - q: What are the official dates for the 2026 Italian Grand Prix?
-    a: As announced, the race weekend runs September 4-6, 2026, at the Autodromo Nazionale Monza. Confirm this on Formula1.com closer to the season, as calendar dates can be adjusted.
+    a: >-
+      As announced, the race weekend runs September 4-6, 2026, at the Autodromo
+      Nazionale Monza. Confirm this on Formula1.com closer to the season, as
+      calendar dates can be adjusted.
   - q: How do I get from Milan to the Monza circuit?
-    a: Take a Trenord regional train from Milano Centrale or Porta Garibaldi to Monza station (about 12-15 minutes), then use the race-weekend shuttle buses to the circuit, or walk about 25-30 minutes through Parco di Monza.
+    a: >-
+      Take a Trenord regional train from Milano Centrale or Porta Garibaldi to
+      Monza station (about 12-15 minutes), then use the race-weekend shuttle
+      buses to the circuit, or walk about 25-30 minutes through Parco di Monza.
   - q: Where should I buy tickets?
-    a: Use the official Formula1.com ticketing channel or the Monza circuit's own website. Grandstand seats, especially near the Rettifilo straight, sell out early, so book as soon as the 2026 sales window opens.
+    a: >-
+      Use the official Formula1.com ticketing channel or the Monza circuit's own
+      website. Grandstand seats, especially near the Rettifilo straight, sell
+      out early, so book as soon as the 2026 sales window opens.
   - q: How many days should I plan for the event?
-    a: 'Most fans attend the full three-day format: Friday practice, Saturday qualifying, and Sunday''s race. If time is tight, Sunday is the priority but also the hardest day to get tickets for.'
+    a: >-
+      Most fans attend the full three-day format: Friday practice, Saturday
+      qualifying, and Sunday's race. If time is tight, Sunday is the priority
+      but also the hardest day to get tickets for.
   - q: Is Monza walkable from other attractions?
-    a: Yes — the circuit sits inside Parco di Monza, near the Villa Reale di Monza, and Monza's historic Duomo (home to the Iron Crown of Lombardy) is a short trip into town, making it easy to combine race days with sightseeing.
+    a: >-
+      Yes — the circuit sits inside Parco di Monza, near the Villa Reale di
+      Monza, and Monza's historic Duomo (home to the Iron Crown of Lombardy) is
+      a short trip into town, making it easy to combine race days with
+      sightseeing.
 aiGenerated: true
 eventRecurring: true
 eventOrganizer:
   name: Automobile Club d'Italia (ACI)
-  url: https://www.aci.it
+  url: 'https://www.aci.it'
 eventVenue: Autodromo Nazionale Monza
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Italian_Grand_Prix_Monza_2015_%2821256765142%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fb/Italian_Grand_Prix_Monza_2015_%2821256765142%29.jpg
   credit: 'Photo: Amy huby / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Italian_Grand_Prix_Monza_2015_(21256765142).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Italian_Grand_Prix_Monza_2015_(21256765142).jpg
   focus:
     x: 55
     'y': 30
+eventOffers:
+  url: 'https://www.monzanet.it/en/tickets/'
+eventFactsAsked: true
 ---
 
 ## Why go

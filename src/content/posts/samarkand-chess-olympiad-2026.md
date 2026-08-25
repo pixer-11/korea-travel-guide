@@ -37,6 +37,7 @@ quickAnswer: >-
   afternoon.
 faq: []
 aiGenerated: true
+eventFactsAsked: true
 ---
 ## Why this Olympiad matters
 

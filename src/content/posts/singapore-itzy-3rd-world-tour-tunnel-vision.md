@@ -58,6 +58,12 @@ faq:
       No — this show marks their return to Singapore since their last concert
       there, as part of their 3rd World Tour.
 aiGenerated: true
+eventOffers:
+  url: 'https://ticketmaster.sg/activity/detail/26sg_itzy'
+eventPerformer:
+  name: ITZY
+  kind: group
+eventFactsAsked: true
 ---
 
 ## Why this show matters

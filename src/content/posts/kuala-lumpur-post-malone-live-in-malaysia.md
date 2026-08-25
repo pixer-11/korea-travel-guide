@@ -62,6 +62,13 @@ heroImage:
 eventOrganizer:
   name: Live Nation Malaysia
   url: 'https://www.livenation.my'
+eventOffers:
+  url: >-
+    https://www.livenation.my/event/post-malone-presents-the-big-stadium-world-tour-kuala-lumpur-tickets-edp1664612
+eventPerformer:
+  name: Post Malone
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

@@ -55,6 +55,10 @@ eventRecurring: true
 photoless: true
 eventOrganizer:
   name: Dubai Festivals and Retail Establishment (DFRE)
+eventOffers:
+  free: true
+  currency: AED
+eventFactsAsked: true
 ---
 ## What DSS Actually Is
 

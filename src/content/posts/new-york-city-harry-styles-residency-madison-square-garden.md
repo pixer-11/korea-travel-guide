@@ -65,6 +65,13 @@ heroImage:
 eventOrganizer:
   name: Live Nation
   url: 'https://www.livenationentertainment.com'
+eventOffers:
+  url: >-
+    https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B0064350404814E
+eventPerformer:
+  name: Harry Styles
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this residency is a big deal

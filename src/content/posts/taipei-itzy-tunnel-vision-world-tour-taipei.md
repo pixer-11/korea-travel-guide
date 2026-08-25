@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Itzy_241023.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 tags:
   - taipei
@@ -63,6 +63,13 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation Taiwan (理想國)
   url: 'https://www.livenation.com.tw'
+eventOffers:
+  url: >-
+    https://www.livenation.com.tw/event/itzy-3rd-world-tour-tunnel-vision-in-taipei-taipei-tickets-edp1684394
+eventPerformer:
+  name: ITZY
+  kind: group
+eventFactsAsked: true
 ---
 ## Why go
 

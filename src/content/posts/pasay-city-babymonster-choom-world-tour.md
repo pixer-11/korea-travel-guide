@@ -60,6 +60,13 @@ heroImage:
 eventOrganizer:
   name: Live Nation Philippines
   url: 'https://www.livenation.ph'
+eventOffers:
+  url: >-
+    https://www.livenation.ph/event/2026-27-babymonster-world-tour-%ec%b6%a4-choom-in-manila-pasay-tickets-edp1673040
+eventPerformer:
+  name: BABYMONSTER
+  kind: group
+eventFactsAsked: true
 ---
 You feel Mall of Asia Arena before you see it. The complex sprawls along Manila Bay's reclaimed waterfront in Pasay City, a wall of LED screens and shuttle buses and vendors already setting up folding tables of light sticks and photocards days before showtime. This is where BABYMONSTER — YG Entertainment's newest girl group, built around members like Ruka, Ahyeon, Asa, and Pharita — lands on September 5, 2026, for a stop on their CHOOM World Tour, their first global run since debuting.
 

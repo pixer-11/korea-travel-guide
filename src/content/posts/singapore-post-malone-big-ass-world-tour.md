@@ -58,6 +58,12 @@ heroImage:
 eventOrganizer:
   name: Live Nation
   url: 'https://www.livenation.asia'
+eventOffers:
+  url: 'https://ticketmaster.sg/activity/detail/26sg_postmalone'
+eventPerformer:
+  name: Post Malone
+  kind: person
+eventFactsAsked: true
 ---
 ## Why this show matters
 

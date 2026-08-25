@@ -53,6 +53,10 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 eventVenue: Military Zone 7 Indoor Stadium
+eventPerformer:
+  name: U-KNOW Yunho (TVXQ's Yunho)
+  kind: person
+eventFactsAsked: true
 ---
 
 ## What this show actually is

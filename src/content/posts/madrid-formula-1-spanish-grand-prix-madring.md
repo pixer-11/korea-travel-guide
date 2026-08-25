@@ -1,6 +1,8 @@
 ---
 title: 'Formula 1 Spanish Grand Prix (MADRING): What to Know (Madrid)'
-description: Formula 1 Spanish Grand Prix (MADRING) in Madrid, Spain — September 11-13, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Formula 1 Spanish Grand Prix (MADRING) in Madrid, Spain — September 11-13,
+  2026. What it is, when and where, and how to plan around it.
 country: Spain
 region: Madrid
 category: event
@@ -10,32 +12,59 @@ eventEndDate: '2026-09-13'
 tags:
   - madrid
   - event
-quickAnswer: The Formula 1 Spanish Grand Prix returns to Madrid on September 11–13, 2026, racing on the brand-new MADRING circuit — a hybrid street/permanent track built around the IFEMA Madrid exhibition complex on the city's northeastern edge. It's Madrid's first F1 race in 45 years, with the Sunday, September 13 Grand Prix run as round 16 of the season. Book Metro-accessible accommodation near Feria de Madrid or Campo de las Naciones early, and confirm the final schedule and ticket tiers on the official F1 and MADRING sites before you commit.
+quickAnswer: >-
+  The Formula 1 Spanish Grand Prix returns to Madrid on September 11–13, 2026,
+  racing on the brand-new MADRING circuit — a hybrid street/permanent track
+  built around the IFEMA Madrid exhibition complex on the city's northeastern
+  edge. It's Madrid's first F1 race in 45 years, with the Sunday, September 13
+  Grand Prix run as round 16 of the season. Book Metro-accessible accommodation
+  near Feria de Madrid or Campo de las Naciones early, and confirm the final
+  schedule and ticket tiers on the official F1 and MADRING sites before you
+  commit.
 faq:
   - q: What are the exact dates of the 2026 Madrid Grand Prix?
-    a: September 11-13, 2026, with the main race on Sunday, September 13. Always confirm on the official F1 or MADRING site, as schedules can shift.
+    a: >-
+      September 11-13, 2026, with the main race on Sunday, September 13. Always
+      confirm on the official F1 or MADRING site, as schedules can shift.
   - q: Where exactly is the MADRING circuit?
-    a: It's built around IFEMA Madrid, the city's exhibition and convention complex in the Campo de las Naciones district, northeast of central Madrid.
+    a: >-
+      It's built around IFEMA Madrid, the city's exhibition and convention
+      complex in the Campo de las Naciones district, northeast of central
+      Madrid.
   - q: How do I get to the circuit without a car?
-    a: Madrid Metro Line 8 serves IFEMA/Campo de las Naciones directly and also connects to Madrid-Barajas Airport, making it easy to fly in and reach the track without renting a car.
+    a: >-
+      Madrid Metro Line 8 serves IFEMA/Campo de las Naciones directly and also
+      connects to Madrid-Barajas Airport, making it easy to fly in and reach the
+      track without renting a car.
   - q: Is this the same track Spain used before?
-    a: No. This is a brand-new hybrid street/permanent circuit and Madrid's first F1 race in 45 years; the Spanish Grand Prix had been held at Circuit de Catalunya in Barcelona for decades.
+    a: >-
+      No. This is a brand-new hybrid street/permanent circuit and Madrid's first
+      F1 race in 45 years; the Spanish Grand Prix had been held at Circuit de
+      Catalunya in Barcelona for decades.
   - q: Can I combine the race with sightseeing in Madrid?
-    a: Yes — IFEMA is a short Metro ride from central Madrid's Retiro park and the Prado/Reina Sofia/Thyssen museum triangle, so many visitors treat it as a full city trip built around race weekend.
+    a: >-
+      Yes — IFEMA is a short Metro ride from central Madrid's Retiro park and
+      the Prado/Reina Sofia/Thyssen museum triangle, so many visitors treat it
+      as a full city trip built around race weekend.
 aiGenerated: true
 eventRecurring: true
 eventOrganizer:
   name: IFEMA MADRID
-  url: https://www.ifema.es
+  url: 'https://www.ifema.es'
 eventVenue: MADRING
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2024_Spanish_Grand_Prix_%2853810946031%29.jpg/3840px-2024_Spanish_Grand_Prix_%2853810946031%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2024_Spanish_Grand_Prix_%2853810946031%29.jpg/3840px-2024_Spanish_Grand_Prix_%2853810946031%29.jpg
   credit: 'Photo: jtstewart / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2024_Spanish_Grand_Prix_(53810946031).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2024_Spanish_Grand_Prix_(53810946031).jpg
   focus:
     x: 50
     'y': 45
+eventOffers:
+  url: 'https://ticketsf1.madring.com/en/'
+eventFactsAsked: true
 ---
 
 ## Why this race matters

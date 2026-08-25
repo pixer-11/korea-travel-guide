@@ -1,6 +1,8 @@
 ---
 title: 'Tyler, the Creator - Chromakopia: The World Tour: What to Know (Tokyo)'
-description: 'Tyler, the Creator brings Chromakopia: The World Tour to Tokyo''''s Ariake Arena on September 9–10, 2026, his first Japan shows in eight years.'
+description: >-
+  Tyler, the Creator brings Chromakopia: The World Tour to Tokyo''s Ariake Arena
+  on September 9–10, 2026, his first Japan shows in eight years.
 country: Japan
 region: Tokyo
 category: event
@@ -10,18 +12,39 @@ eventEndDate: '2026-09-10'
 tags:
   - tokyo
   - event
-quickAnswer: 'Tyler, the Creator brings Chromakopia: The World Tour to Tokyo''s Ariake Arena on September 9–10, 2026, his first Japan shows in eight years. Doors and set times haven''t been officially published yet, so confirm dates, ticket tiers, and gate times on Tyler''s official tour site or the Ariake Arena listing before booking flights or hotels. Expect the venue to be busy both nights — plan transit and dinner around Ariake''s limited food options.'
+quickAnswer: >-
+  Tyler, the Creator brings Chromakopia: The World Tour to Tokyo's Ariake Arena
+  on September 9–10, 2026, his first Japan shows in eight years. Doors and set
+  times haven't been officially published yet, so confirm dates, ticket tiers,
+  and gate times on Tyler's official tour site or the Ariake Arena listing
+  before booking flights or hotels. Expect the venue to be busy both nights —
+  plan transit and dinner around Ariake's limited food options.
 faq:
-  - q: What are the confirmed dates for Tyler, the Creator in Tokyo?
-    a: September 9 and 10, 2026, at Ariake Arena — but always double-check the official tour site or venue listing closer to the date, since arena tour schedules can shift.
+  - q: 'What are the confirmed dates for Tyler, the Creator in Tokyo?'
+    a: >-
+      September 9 and 10, 2026, at Ariake Arena — but always double-check the
+      official tour site or venue listing closer to the date, since arena tour
+      schedules can shift.
   - q: How do I get to Ariake Arena?
-    a: Take the Yurikamome line to Kokusai-Tenjijo-Seimon or Ariake Station, both about a 5–8 minute walk from the venue. Most visitors transfer from JR Shimbashi Station to reach the Yurikamome line.
-  - q: Is this Tyler, the Creator's first Tokyo show in a while?
-    a: Yes, this marks his first Japan performance in eight years, making it a high-demand date for fans in the region.
+    a: >-
+      Take the Yurikamome line to Kokusai-Tenjijo-Seimon or Ariake Station, both
+      about a 5–8 minute walk from the venue. Most visitors transfer from JR
+      Shimbashi Station to reach the Yurikamome line.
+  - q: 'Is this Tyler, the Creator''s first Tokyo show in a while?'
+    a: >-
+      Yes, this marks his first Japan performance in eight years, making it a
+      high-demand date for fans in the region.
   - q: Where do I buy tickets?
-    a: Ticketing details weren't specified in the initial announcement; Japan tour legs for international artists typically go through local vendors like Pia, e+, or Lawson Ticket, often via a lottery/pre-sale system. Confirm through official channels before purchasing.
+    a: >-
+      Ticketing details weren't specified in the initial announcement; Japan
+      tour legs for international artists typically go through local vendors
+      like Pia, e+, or Lawson Ticket, often via a lottery/pre-sale system.
+      Confirm through official channels before purchasing.
   - q: What's nearby if I want to make a day of it?
-    a: Ariake is close to Odaiba's waterfront attractions, teamLab digital art museums, and Toyosu Market, all reachable within a short train ride, making it easy to pair the concert with sightseeing.
+    a: >-
+      Ariake is close to Odaiba's waterfront attractions, teamLab digital art
+      museums, and Toyosu Market, all reachable within a short train ride,
+      making it easy to pair the concert with sightseeing.
 aiGenerated: true
 draft: false
 heldReason: past-event
@@ -29,15 +52,23 @@ eventRecurring: false
 eventOrganizer:
   name: AEGX
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg
   credit: 'Photo: Raph_PH / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tyler_the_Creator_(52163761341)_(cropped).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tyler_the_Creator_(52163761341)_(cropped).jpg
   focus:
     x: 36
     'y': 19
     top: 5
     bottom: 32
+eventOffers:
+  url: 'https://ib.eplus.jp/tylerthecreator'
+eventPerformer:
+  name: 'Tyler, the Creator'
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

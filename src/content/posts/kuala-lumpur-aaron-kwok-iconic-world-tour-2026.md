@@ -58,6 +58,12 @@ draft: false
 eventRecurring: false
 eventOrganizer:
   name: Jazzy Group
+eventOffers:
+  url: 'https://www.maiseat.com/en-US/shows/13248'
+eventPerformer:
+  name: Aaron Kwok
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why This Show Matters

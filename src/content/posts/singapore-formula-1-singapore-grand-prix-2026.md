@@ -63,6 +63,9 @@ heroImage:
 eventOrganizer:
   name: Singapore GP Pte Ltd
   url: 'https://singaporegp.sg/'
+eventOffers:
+  url: 'https://tickets.formula1.com/en/f1-3301-singapore'
+eventFactsAsked: true
 ---
 The first thing you notice, days before a single engine fires, is the scaffolding. Grandstands climb over the Padang and along Raffles Boulevard, temporary bridges arc across roads you walked the week before, and the glass towers of the CBD suddenly have a racetrack running underneath them. Singapore's Grand Prix weekend turns the financial district into a 5-kilometre street circuit, and for three nights in October the skyline itself becomes part of the spectacle — floodlights bouncing off the Marina Bay Sands facade, the Singapore Flyer lit up behind the final corners.
 

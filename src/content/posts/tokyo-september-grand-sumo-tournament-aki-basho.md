@@ -17,7 +17,7 @@ heroImage:
   source: 'https://commons.wikimedia.org/wiki/File:Sumo_Wrestling_-_Tokyo_(cropped).jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 tags:
   - tokyo
   - event
@@ -60,6 +60,9 @@ eventRecurring: true
 eventOrganizer:
   name: Japan Sumo Association (Nihon Sumo Kyokai)
   url: 'https://sumo.or.jp/En/'
+eventOffers:
+  url: 'https://ticket.sumo.or.jp'
+eventFactsAsked: true
 ---
 ## Why go
 

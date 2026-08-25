@@ -1,6 +1,8 @@
 ---
 title: 'The Sounds Project Vol. 9: What to Know (Jakarta)'
-description: The Sounds Project Vol. 9 in Jakarta, Indonesia — August 7-9, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  The Sounds Project Vol. 9 in Jakarta, Indonesia — August 7-9, 2026. What it
+  is, when and where, and how to plan around it.
 country: Indonesia
 region: Jakarta
 category: event
@@ -8,10 +10,11 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-09'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Sounds.jpg/1920px-The_Sounds.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Sounds.jpg/1920px-The_Sounds.jpg
   credit: 'Photo: Simon Law / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Sounds.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:The_Sounds.jpg'
   focus:
     x: 45
     'y': 35
@@ -19,24 +22,47 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: The Sounds Project Vol. 9 ran August 7–9, 2026 at Ecovention Ecopark, Ancol, North Jakarta — a three-day, multi-genre lineup mixing Indonesian acts like Pamungkas and Rizky Febian with international guests such as Australian rockers Jet. Tickets were sold through the official Sounds Project channels, and final set times and gate hours were confirmed on the official site as the festival approached.
+quickAnswer: >-
+  The Sounds Project Vol. 9 ran August 7–9, 2026 at Ecovention Ecopark, Ancol,
+  North Jakarta — a three-day, multi-genre lineup mixing Indonesian acts like
+  Pamungkas and Rizky Febian with international guests such as Australian
+  rockers Jet. Tickets were sold through the official Sounds Project channels,
+  and final set times and gate hours were confirmed on the official site as the
+  festival approached.
 faq:
   - q: What are the official dates for The Sounds Project Vol. 9?
-    a: August 7–9, 2026, at Ecovention Ecopark in Ancol, North Jakarta — but confirm on the official event page in case of last-minute changes.
+    a: >-
+      August 7–9, 2026, at Ecovention Ecopark in Ancol, North Jakarta — but
+      confirm on the official event page in case of last-minute changes.
   - q: How do I get to Ecovention Ecopark in Ancol?
-    a: Ride-hailing apps like Gojek or Grab are the most reliable option since there's no direct MRT/LRT to Ancol; allow 20-30+ minutes from central Jakarta depending on traffic, more on festival days.
+    a: >-
+      Ride-hailing apps like Gojek or Grab are the most reliable option since
+      there's no direct MRT/LRT to Ancol; allow 20-30+ minutes from central
+      Jakarta depending on traffic, more on festival days.
   - q: Who is performing at The Sounds Project Vol. 9?
-    a: Confirmed names include Indonesian artists Pamungkas and Rizky Febian plus Australian rock band Jet, alongside dozens of other Indonesian acts across the three days.
+    a: >-
+      Confirmed names include Indonesian artists Pamungkas and Rizky Febian plus
+      Australian rock band Jet, alongside dozens of other Indonesian acts across
+      the three days.
   - q: How much are tickets and where do I buy them?
-    a: Ticket prices and tiers aren't fixed here — purchase only through the festival's official website or verified ticketing partners, and avoid third-party resellers.
+    a: >-
+      Ticket prices and tiers aren't fixed here — purchase only through the
+      festival's official website or verified ticketing partners, and avoid
+      third-party resellers.
   - q: Is Ancol worth visiting beyond the festival?
-    a: Yes — the area includes Ancol Dreamland's beachfront, Dunia Fantasi theme park, and Sea World Jakarta, so arriving a day early lets you explore before the festival crowds build up.
+    a: >-
+      Yes — the area includes Ancol Dreamland's beachfront, Dunia Fantasi theme
+      park, and Sea World Jakarta, so arriving a day early lets you explore
+      before the festival crowds build up.
 aiGenerated: true
 draft: false
 eventRecurring: true
 eventOrganizer:
   name: The Sounds Project
-  url: https://thesoundsproject.com/
+  url: 'https://thesoundsproject.com/'
+eventOffers:
+  url: 'https://ticket.thesoundsproject.com'
+eventFactsAsked: true
 ---
 ## Why go
 

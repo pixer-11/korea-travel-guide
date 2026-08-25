@@ -62,6 +62,7 @@ aiGenerated: true
 eventRecurring: true
 eventOrganizer:
   name: Sen Vang Company (Golden Lotus Entertainment)
+eventFactsAsked: true
 ---
 
 ## Why this matters for travelers

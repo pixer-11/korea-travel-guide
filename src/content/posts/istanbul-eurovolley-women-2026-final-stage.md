@@ -1,7 +1,10 @@
 ---
 draft: false
 title: 'CEV EuroVolley Women 2026 Istanbul: Dates, Tickets & Venue'
-description: Istanbul hosts the pool phase and grand final of EuroVolley Women 2026 at Sinan Erdem Dome, August 21–September 6. Final night, tickets, and how to plan.
+description: >-
+  Istanbul hosts the pool phase and grand final of EuroVolley Women 2026 at
+  Sinan Erdem Dome, August 21–September 6. Final night, tickets, and how to
+  plan.
 country: Turkey
 region: Istanbul
 category: event
@@ -11,32 +14,59 @@ eventEndDate: '2026-09-06'
 tags:
   - istanbul
   - event
-quickAnswer: Istanbul stages part of the pool phase plus the grand final of EuroVolley Women 2026 at the Sinan Erdem Dome between August 21 and September 6, 2026, with the new champions crowned on closing night, September 6. Buy tickets and confirm the match schedule through the official CEV EuroVolley 2026 channels once released, since exact kick-off times and which pools land in Istanbul are set closer to the tournament. Plan to combine a match with a day around Kabataş/Beşiktaş, since the dome sits right on the Bosphorus shoreline.
+quickAnswer: >-
+  Istanbul stages part of the pool phase plus the grand final of EuroVolley
+  Women 2026 at the Sinan Erdem Dome between August 21 and September 6, 2026,
+  with the new champions crowned on closing night, September 6. Buy tickets and
+  confirm the match schedule through the official CEV EuroVolley 2026 channels
+  once released, since exact kick-off times and which pools land in Istanbul are
+  set closer to the tournament. Plan to combine a match with a day around
+  Kabataş/Beşiktaş, since the dome sits right on the Bosphorus shoreline.
 faq:
   - q: How do I get to the Sinan Erdem Dome from central Istanbul?
-    a: It's in Bakırköy on the European coast. Taxis from Sultanahmet or Taksim take roughly 25-40 minutes; the Metrobüs BRT line also has a stop within walking distance of the venue.
-  - q: When exactly is the final, and who's playing?
-    a: The grand final is set for September 6, 2026 in Istanbul. The finalists and full bracket won't be known until the tournament progresses, so check the official CEV EuroVolley 2026 site for the confirmed schedule.
+    a: >-
+      It's in Bakırköy on the European coast. Taxis from Sultanahmet or Taksim
+      take roughly 25-40 minutes; the Metrobüs BRT line also has a stop within
+      walking distance of the venue.
+  - q: 'When exactly is the final, and who''s playing?'
+    a: >-
+      The grand final is set for September 6, 2026 in Istanbul. The finalists
+      and full bracket won't be known until the tournament progresses, so check
+      the official CEV EuroVolley 2026 site for the confirmed schedule.
   - q: How far in advance should I buy tickets?
-    a: As early as possible once official sales open — matches involving Turkey's national team historically sell out quickly. Buy only through official CEV or Turkish Volleyball Federation channels to avoid inflated resale prices.
+    a: >-
+      As early as possible once official sales open — matches involving Turkey's
+      national team historically sell out quickly. Buy only through official CEV
+      or Turkish Volleyball Federation channels to avoid inflated resale prices.
   - q: Can I combine this with sightseeing in Istanbul?
-    a: Yes — the historic core (Hagia Sophia, Blue Mosque, Basilica Cistern) is about 30-40 minutes from the dome, making it easy to sightsee by day and head to Bakırköy for an evening match.
+    a: >-
+      Yes — the historic core (Hagia Sophia, Blue Mosque, Basilica Cistern) is
+      about 30-40 minutes from the dome, making it easy to sightsee by day and
+      head to Bakırköy for an evening match.
   - q: What's the weather like in late August/early September?
-    a: Hot and humid, typically in the high 20s to low 30s Celsius. Plan outdoor sightseeing for morning or early evening and expect an air-conditioned indoor arena for matches.
+    a: >-
+      Hot and humid, typically in the high 20s to low 30s Celsius. Plan outdoor
+      sightseeing for morning or early evening and expect an air-conditioned
+      indoor arena for matches.
 aiGenerated: true
 eventRecurring: true
 eventOrganizer:
   name: European Volleyball Confederation (CEV)
-  url: https://www.cev.eu
+  url: 'https://www.cev.eu'
 eventVenue: Sinan Erdem Dome
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BUL_-_POL%2C_CEV_EuroVolley_2021_%283%29.jpg/3840px-BUL_-_POL%2C_CEV_EuroVolley_2021_%283%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BUL_-_POL%2C_CEV_EuroVolley_2021_%283%29.jpg/3840px-BUL_-_POL%2C_CEV_EuroVolley_2021_%283%29.jpg
   credit: 'Photo: Olos88 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:BUL_-_POL,_CEV_EuroVolley_2021_(3).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:BUL_-_POL,_CEV_EuroVolley_2021_(3).jpg
   focus:
     x: 45
     'y': 45
+eventOffers:
+  url: 'https://eurovolley.cev.eu/en/2026/women/'
+eventFactsAsked: true
 ---
 
 ## Why go

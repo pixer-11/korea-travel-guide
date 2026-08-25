@@ -67,6 +67,10 @@ draft: false
 eventRecurring: true
 eventOrganizer:
   name: Qingdao Municipal People's Government
+eventOffers:
+  free: true
+  currency: CNY
+eventFactsAsked: true
 ---
 
 ## Why go

@@ -58,9 +58,13 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Skyline_of_Pattaya_city_from_the_Ocean_Lana,_Cafe_Ferry.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 eventOrganizer:
   name: Pattaya City
+eventOffers:
+  free: true
+  currency: THB
+eventFactsAsked: true
 ---
 ## Why this festival is worth planning around
 

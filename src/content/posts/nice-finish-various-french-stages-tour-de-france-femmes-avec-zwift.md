@@ -65,6 +65,10 @@ heroImage:
 eventOrganizer:
   name: Amaury Sport Organisation (ASO)
   url: 'https://www.aso.fr'
+eventOffers:
+  free: true
+  currency: EUR
+eventFactsAsked: true
 ---
 
 ## Why go

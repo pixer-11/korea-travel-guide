@@ -62,6 +62,9 @@ eventRecurring: true
 eventOrganizer:
   name: United States Tennis Association (USTA)
   url: 'https://www.usta.com'
+eventOffers:
+  url: 'https://www.usopen.org/en_US/tickets/index.html'
+eventFactsAsked: true
 ---
 
 ## Why go

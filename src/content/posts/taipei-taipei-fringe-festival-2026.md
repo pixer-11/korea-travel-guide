@@ -61,10 +61,11 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:Taipei_Fringe_Festival_stage_at_Yongle_Market_20180729.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 eventOrganizer:
   name: Taipei City Government and Taipei Performing Arts Center (TPAC)
   url: 'https://tpac.org.taipei/en/festival-fringe'
+eventFactsAsked: true
 ---
 
 ## Why Go

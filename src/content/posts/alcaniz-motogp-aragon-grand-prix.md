@@ -60,6 +60,9 @@ eventRecurring: true
 eventOrganizer:
   name: Dorna Sports
   url: 'https://www.motogp.com'
+eventOffers:
+  url: 'https://tickets.motorlandaragon.com/aragon_web/events/49558'
+eventFactsAsked: true
 ---
 
 ## Why go

@@ -20,7 +20,7 @@ heroImage:
     https://commons.wikimedia.org/wiki/File:European_Aquatics_Championships_(43146004564).jpg
   focus:
     x: 50
-    y: 60
+    'y': 60
 gallery: []
 tags:
   - paris
@@ -66,6 +66,9 @@ eventRecurring: true
 eventOrganizer:
   name: European Aquatics
   url: 'https://europeanaquatics.org/'
+eventOffers:
+  url: 'https://europeanaquatics.org/paris-2026/'
+eventFactsAsked: true
 ---
 
 ## Why go

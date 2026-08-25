@@ -60,6 +60,7 @@ eventRecurring: true
 eventOrganizer:
   name: Unipublic
   url: 'https://www.unipublic.es/en'
+eventFactsAsked: true
 ---
 
 ## Why the Vuelta is worth building a trip around

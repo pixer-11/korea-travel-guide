@@ -60,6 +60,13 @@ eventRecurring: false
 eventOrganizer:
   name: Live Nation Tero
   url: 'https://www.livenationtero.co.th'
+eventOffers:
+  url: >-
+    https://www.livenationtero.co.th/en/event/post-malone-presents-the-big-ass-stadium-world-tour-bangkok-tickets-edp1664183
+eventPerformer:
+  name: Post Malone
+  kind: person
+eventFactsAsked: true
 ---
 
 ## Why this show matters

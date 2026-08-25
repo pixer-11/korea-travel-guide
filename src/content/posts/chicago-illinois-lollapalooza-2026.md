@@ -62,6 +62,9 @@ eventRecurring: true
 eventOrganizer:
   name: C3 Presents
   url: 'https://www.c3presents.com'
+eventOffers:
+  url: 'https://www.lollapalooza.com/tickets'
+eventFactsAsked: true
 ---
 
 ## Why go
