@@ -1243,8 +1243,25 @@
   "margilan-silk-factory\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Silk_factory_in_Margilan.jpg": 3358,
   "pattaya-the-collective-pattaya\u0001https://fastly.4sqi.net/img/general/original/52952452_aHkA2nNzYSbQze9dfaZMLHEeMjK50kvtulIw3QUn4Ws.jpg": 1440,
   "tokyo-fuglen-tokyo\u0001https://fastly.4sqi.net/img/general/original/496805_mjKwCGDhd9tE6Rvgzu5Mqh6NcuXREfa6E-eEOJVRbTY.jpg": 1440,
-  "sen-monorom-tuol-sleng-genocide-museum\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Tuol_Sleng.jpg": 1024,
-  "tokyo-tyler-the-creator-chromakopia-the-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg": 2387
+  "tokyo-tyler-the-creator-chromakopia-the-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg": 2387,
+  "bali-museum-pasifika-bali\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg/3840px-2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg": 3840,
+  "clarke-quay-artscience-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1920px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg": 1920,
+  "fukuoka-fukuoka-city-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fukuoka_City_Science_Museum_20171103-3.jpg/3840px-Fukuoka_City_Science_Museum_20171103-3.jpg": 3840,
+  "jakarta-national-museum-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg/1920px-Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg": 1920,
+  "kampong-glam-malay-heritage-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Malay_Heritage_Centre%2C_2012.jpg/1920px-Malay_Heritage_Centre%2C_2012.jpg": 1920,
+  "mumbai-paradox-museum-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Paradox_Museum_in_Mumbai.jpg/3840px-Paradox_Museum_in_Mumbai.jpg": 3840,
+  "nagoya-toyota-commemorative-museum-of-industry-and-technology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Toyota_tecno_museum.jpg/1920px-Toyota_tecno_museum.jpg": 1920,
+  "okinawa-okinawa-prefectural-peace-memorial-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg/1920px-Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg": 1920,
+  "jordan-hong-kong-heritage-museum\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Hong_Kong_Heritage_Museum_201305.jpg": 1600,
+  "daegu-donghwasa\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Korea-Daegu-Donghwasa-01.jpg": 1600,
+  "siem-reap-wat-bo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/01-Wat_Bo_Siem_Reap-NglL-06630.jpg/3840px-01-Wat_Bo_Siem_Reap-NglL-06630.jpg": 3840,
+  "surabaya-siola-surabaya-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg/3840px-Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg": 3840,
+  "turin-museo-nazionale-dell-automobile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg/1920px-Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg": 1920,
+  "washington-dc-smithsonian-national-museum-of-natural-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg/1920px-National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg": 1920,
+  "yogyakarta-museum-sonobudoyo-unit-i\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Museum_Sonobudoyo%2C_Jogja_%282025%29_-_img_04.jpg/3840px-Museum_Sonobudoyo%2C_Jogja_%282025%29_-_img_04.jpg": 3840,
+  "kanazawa-d-t-suzuki-museum\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/D._T._Suzuki_Museum%2C_Kanazawa_-_May_3%2C_2015_%281%29.jpg": 3840,
+  "sen-monorom-tuol-sleng-genocide-museum\u0001https://fastly.4sqi.net/img/general/original/12207377_B3DZmvQgWO_SrCrhGuTTLL8cGREq6mkbaPKGRVirbZs.jpg": 1440,
+  "sha-tin-hong-kong-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/HKScienceMuseumview.jpg": 1600
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1305,8 +1322,8 @@
   },
   "surabaya-blue-doors-surabaya": {
    "width": 1080,
-   "attempts": 3,
-   "nextTry": "2026-08-25",
+   "attempts": 4,
+   "nextTry": "2026-09-01",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -1340,15 +1357,15 @@
   },
   "nha-trang-la-nha": {
    "width": 1102,
-   "attempts": 2,
-   "nextTry": "2026-08-25",
+   "attempts": 3,
+   "nextTry": "2026-09-01",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
   "phuket-hug-street-food-kata-phuket": {
    "width": 1080,
-   "attempts": 2,
-   "nextTry": "2026-08-25",
+   "attempts": 3,
+   "nextTry": "2026-09-01",
    "flaggedAt": "2026-08-11",
    "lastResult": "no-wider"
   },
@@ -1368,8 +1385,8 @@
   },
   "taichung-national-taiwan-museum-of-fine-arts": {
    "width": 960,
-   "attempts": 1,
-   "nextTry": "2026-08-25",
+   "attempts": 2,
+   "nextTry": "2026-09-01",
    "flaggedAt": "2026-08-18",
    "lastResult": "no-wider"
   },
@@ -1402,5 +1419,5 @@
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-24T20:13:31.864Z"
+ "updated": "2026-08-25T20:07:41.028Z"
 }
