@@ -23,6 +23,7 @@ import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
 import { keyToken, tokens as nameTokens, ANCHOR_STOP } from './lib/commons.mjs';
 import { eventSchemaName } from '../src/lib/eventName.mjs';
+import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { writeArticle } from './lib/writer.mjs';
@@ -52,7 +53,10 @@ async function searchJson(prompt) {
   try {
     msg = await client.messages.create({
       model: MODEL,
-      max_tokens: 1600,
+      // Raised from 1600 on 2026-08-25: the prompt now also asks for ticket
+      // page, free/paid and performer, and a truncated reply loses the whole
+      // discovery batch, not one field.
+      max_tokens: 2200,
       tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 4 }],
       messages: [{ role: 'user', content: prompt }],
     });
@@ -77,7 +81,7 @@ const discoverEvents = (country) =>
     // nowhere in the title. Ask for the searched-for name up front.
     `"name" must be the name people actually SEARCH for: include the widely-used short form or act name when one exists (e.g. "F4 (Meteor Garden) Reunion World Tour", not only the official branding "F✦FOREVER 1st World Tour"). ` +
     `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
-    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","venue":"the named venue where it takes place (stadium, arena, circuit, park, hall) as the sources name it, or null","summary":"1-2 factual sentences: what, where, when"}]. ` +
+    `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","venue":"the named venue where it takes place (stadium, arena, circuit, park, hall) as the sources name it, or null","ticketUrl":"the official ticket or registration page on the event's own site, or null","free":true or false or null,"currency":"ISO 4217 code of the country's currency when free is true, else null","performer":"the named act when the event IS that act performing, else null","performerKind":"person or group, else null","summary":"1-2 factual sentences: what, where, when"}]. ` +
     `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
     // Recurrence decides whether the page stays indexed once the date passes
     // and whether it advertises a yearly cadence in schema. It used to be
@@ -91,6 +95,13 @@ const discoverEvents = (country) =>
     // machine-readable false claim, removed 2026-08-07). The search results
     // usually name the host; capture it when they do, never guess.
     `"organizer" is the official organizing body EXACTLY as the search results name it (city government, festival committee, promoter). null when the results do not clearly name one — never guess or infer. "organizerUrl" only if the results show its official site; else null. ` +
+    // Offers and performer are the other two properties Google names for
+    // Event, and they follow the organizer's rule exactly. Asking here costs
+    // nothing — the search is already running — and it is the difference
+    // between a page that is born complete and one a backfill has to revisit.
+    `"ticketUrl" must be the event's or organiser's OWN ticketing/registration page; a resale site, a listing aggregator, a Wikipedia article or a Facebook event is not it — null if the results do not show an official one. ` +
+    `"free" is true only if the results say entry is free, false if there is a ticket price, null if unclear; never report a price, because prices change and tier out. ` +
+    `"performer" ONLY when the event IS a named act performing (a concert or tour stop): "Coldplay Bangkok 2026" has one, "Songkran Festival" does not. A festival line-up is NOT a performer — null even when announced. ` +
     // "Multiple cities" once became a REGION PAGE titled "여러 도시" (La Vuelta,
     // caught by the owner 2026-08-09). A traveling race still anchors somewhere.
     `"city" must be ONE real city. For a multi-city race or tour, use the finish city (or the start city if the finish is unknown) — NEVER "Multiple cities", "Various", "Nationwide" or similar. ` +
@@ -298,6 +309,18 @@ async function writeDiscovered(item, ctx) {
         ...(typeof item.organizerUrl === 'string' && /^https?:\/\//.test(item.organizerUrl) && { url: item.organizerUrl.trim() }),
       },
     }),
+    // Offer and performer, judged by the SAME rule the backfill uses
+    // (src/lib/eventOffers.mjs) so the two paths cannot drift apart.
+    ...(cat === 'event' && (() => {
+      const offer = normalizeOffer({ url: item.ticketUrl, free: item.free, currency: item.currency });
+      return offer ? { eventOffers: offer } : {};
+    })()),
+    ...(cat === 'event' && (() => {
+      const performer = normalizePerformer({ name: item.performer, kind: item.performerKind });
+      return performer ? { eventPerformer: performer } : {};
+    })()),
+    // The discovery search has now been asked; the backfill skips this post.
+    ...(cat === 'event' && { eventFactsAsked: true }),
     heroImage, gallery: [],
     tags: [item.city.toLowerCase(), kind === 'event' ? 'event' : 'new & trending'],
     quickAnswer, faq, aiGenerated: true,

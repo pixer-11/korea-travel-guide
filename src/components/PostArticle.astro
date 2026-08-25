@@ -454,6 +454,27 @@ if (d.category === 'event' && d.eventStartDate) {
         ...(d.eventOrganizer.url && { url: d.eventOrganizer.url }),
       },
     }),
+    // Offers and performer follow the organizer's rule exactly: present only
+    // when stored from a verified source (backfill-event-offers.mjs), absent
+    // otherwise. A free event says price 0 in its own currency; a paid one
+    // publishes the ticket page and no number, because the number would rot.
+    ...(d.eventOffers && (d.eventOffers.url || d.eventOffers.free) && {
+      offers: {
+        '@type': 'Offer',
+        ...(d.eventOffers.url && { url: d.eventOffers.url }),
+        ...(d.eventOffers.free && d.eventOffers.currency && {
+          price: '0',
+          priceCurrency: d.eventOffers.currency,
+          availability: 'https://schema.org/InStock',
+        }),
+      },
+    }),
+    ...(d.eventPerformer && {
+      performer: {
+        '@type': d.eventPerformer.kind === 'person' ? 'Person' : 'PerformingGroup',
+        name: d.eventPerformer.name,
+      },
+    }),
   });
 }
 

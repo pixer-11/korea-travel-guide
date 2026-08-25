@@ -39,6 +39,25 @@ const posts = defineCollection({
     // Atlas here across 98 events — a machine-readable false claim, removed
     // 2026-08-07. Absent beats invented: never fill this from guesswork.
     eventOrganizer: z.object({ name: z.string(), url: z.string().optional() }).optional(),
+    // How to get in. Google names offers as a recommended Event property and
+    // GSC flags its absence; the answer is the same as for the organizer —
+    // verified or nothing. Deliberately NO price for paid events: ticket
+    // prices move weekly and tier out, and a rotted number is worse than an
+    // absent one. `free` (with the country's currency, so price 0 is valid
+    // schema) is the one value that cannot go stale.
+    eventOffers: z.object({
+      url: z.string().optional(),
+      free: z.boolean().optional(),
+      currency: z.string().optional(),
+    }).optional(),
+    // The named act, only when the event IS that act performing. Festival
+    // line-ups are excluded on purpose: a recurring event page outlives the
+    // line-up printed on it, so storing one turns a true fact into a false
+    // one by doing nothing at all.
+    eventPerformer: z.object({ name: z.string(), kind: z.enum(['person', 'group']) }).optional(),
+    // Stamped by backfill-event-offers.mjs whether or not it found anything,
+    // so an unsettled event is never paid for a second time.
+    eventFactsAsked: z.boolean().optional(),
     // Where it happens (stadium, arena, circuit, park). Captured at discovery;
     // the photo pipeline's second search key after the act itself — an event
     // named only in generic words ("Formula 1 Italian Grand Prix") has no act
