@@ -22,21 +22,13 @@ place:
   lng: 141.357399
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 15
-      - 16
-      - 17
-      - 18
+    weekdayQuiet: [15, 16, 17]
     weekdayBusy:
       - 10
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 15
-      - 16
-      - 17
-      - 18
+    weekendQuiet: [15, 16, 17]
     weekendBusy:
       - 9
       - 10
@@ -45,6 +37,15 @@ place:
       - 13
       - 14
     venueId: ven_6b536b66416255476d55685238314370416e5a6448654d4a496843
+  phone: '+81 11-207-2244'
+  openingHours:
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
   - sapporo
   - trendy cafe

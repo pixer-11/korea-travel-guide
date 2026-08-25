@@ -24,20 +24,10 @@ place:
   lng: 127.034352
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 22
+    weekdayQuiet: [10, 11, 12, 13, 14, 15]
     weekdayBusy:
       - 20
-    weekendQuiet:
-      - 10
-      - 11
-      - 22
+    weekendQuiet: [10, 11]
     weekendBusy:
       - 17
       - 18
@@ -45,6 +35,15 @@ place:
       - 20
       - 21
     venueId: ven_3478354c7a7a6e5975434552557a6544685335654559784a496843
+  phone: '+82 31-235-0712'
+  openingHours:
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
 tags:
   - suwon
   - trendy cafe

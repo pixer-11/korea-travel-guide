@@ -31,18 +31,11 @@ place:
   lng: 112.7700431
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 21
+    weekdayQuiet: [7, 8, 9]
     weekdayBusy:
       - 17
       - 18
-    weekendQuiet:
-      - 7
-      - 8
-      - 21
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 11
       - 12
@@ -54,6 +47,15 @@ place:
       - 18
       - 19
     venueId: ven_4d585535556a32696a706e523079313533762d4e6c637a4a496843
+  phone: '+62 812-3456-5110'
+  openingHours:
+    - 'Monday: 6:00 AM – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 9:00 PM'
+    - 'Thursday: 6:00 AM – 9:00 PM'
+    - 'Friday: 6:00 AM – 9:00 PM'
+    - 'Saturday: 6:00 AM – 9:00 PM'
+    - 'Sunday: 6:00 AM – 9:00 PM'
 tags:
   - surabaya
   - street food

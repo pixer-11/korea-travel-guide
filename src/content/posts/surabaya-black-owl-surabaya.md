@@ -50,6 +50,15 @@ place:
       - 21
       - 22
     venueId: ven_3864494c7130386174334d52307931374c6f54455f51634a496843
+  phone: '+62 888-8555-579'
+  openingHours:
+    - 'Monday: 11:00 AM – 3:00 AM'
+    - 'Tuesday: 11:00 AM – 3:00 AM'
+    - 'Wednesday: 11:00 AM – 3:00 AM'
+    - 'Thursday: 11:00 AM – 3:00 AM'
+    - 'Friday: 11:00 AM – 4:00 AM'
+    - 'Saturday: 11:00 AM – 4:00 AM'
+    - 'Sunday: 11:00 AM – 3:00 AM'
 tags:
   - surabaya
   - local restaurant

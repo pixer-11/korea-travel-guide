@@ -25,16 +25,10 @@ place:
   lng: 112.73565959999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 22
+    weekdayQuiet: [7, 8]
     weekdayBusy:
       - 13
-    weekendQuiet:
-      - 7
-      - 8
-      - 22
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 13
       - 14
@@ -43,6 +37,15 @@ place:
       - 20
       - 21
     venueId: ven_497976495558534f47414a523079313737643975572d6a4a496843
+  phone: '+62 811-3291-121'
+  openingHours:
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
 tags:
   - surabaya
   - trendy cafe

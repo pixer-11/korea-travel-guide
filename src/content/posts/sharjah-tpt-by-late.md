@@ -46,6 +46,15 @@ place:
       - 21
       - 22
     venueId: ven_415a6f6b765a414c6c506d52347a586646746b696b38574a496843
+  phone: '+971 6 567 6555'
+  openingHours:
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 1:00 AM'
+    - 'Friday: 8:00 AM – 1:00 AM'
+    - 'Saturday: 8:00 AM – 1:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
 tags:
   - sharjah
   - trendy cafe

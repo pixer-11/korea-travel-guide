@@ -31,6 +31,15 @@ place:
       - 19
       - 20
     venueId: ven_456b4d486e76525831334252514442464977743347784b4a496843
+  phone: '+852 5402 8263'
+  openingHours:
+    - 'Monday: 12:00 – 11:30 PM'
+    - 'Tuesday: 12:00 – 11:30 PM'
+    - 'Wednesday: 12:00 – 11:30 PM'
+    - 'Thursday: 12:00 – 11:30 PM'
+    - 'Friday: 12:00 – 11:30 PM'
+    - 'Saturday: 12:00 – 11:30 PM'
+    - 'Sunday: 12:00 – 11:30 PM'
 tags:
   - sai kung
   - local restaurant

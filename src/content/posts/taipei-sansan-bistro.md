@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.0241005
   lng: 121.54830860000001
+  phone: '+886 2 2732 3388'
+  openingHours:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
 tags:
   - taipei
   - new & trending

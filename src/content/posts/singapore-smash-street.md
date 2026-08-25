@@ -28,6 +28,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.2802641
   lng: 103.8468326
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 6:00 – 10:00 PM'
+    - 'Sunday: Closed'
 tags:
   - singapore
   - new & trending

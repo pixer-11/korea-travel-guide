@@ -43,6 +43,15 @@ place:
       - 21
       - 22
     venueId: ven_49336a4c6e73646230566652346a393368595a2d5956414a496843
+  phone: '+971 55 432 2099'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - ras al khaimah
   - trendy cafe

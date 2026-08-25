@@ -26,18 +26,18 @@ place:
   lng: 98.30285479999999
   busyness:
     updated: '2026-07-23'
-    weekdayBusy:
-      - 19
-      - 20
-      - 21
-    weekendBusy:
-      - 11
-      - 12
-      - 18
-      - 19
-      - 20
-      - 21
+    weekdayBusy: [19, 20]
+    weekendBusy: [11, 12, 18, 19, 20]
     venueId: ven_4159643432363835736d63524144556c304558504e78544a496843
+  phone: '+66 62 995 4588'
+  openingHours:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
 tags:
   - phuket
   - street food

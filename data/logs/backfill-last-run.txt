@@ -1,39 +1,35 @@
 Places 예산: backfill 몫 25회 (오늘 사용 16/100)
 Priority: 129 itinerary stop(s) queued first
-  – los-angeles-hollywood-walk-of-fame.md: nothing new (resting 60d)
-  ✓ los-angeles-the-getty.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then) — nothing left; weekendQuiet: dropped 21h (venue not open then) — nothing left
-  – bangkok-chinatown-night-market.md: nothing new (resting 60d)
-  ✓ nagoya-glitch-coffee-roasters-nagoya.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then) — nothing left; weekendQuiet: dropped 19h (venue not open then) — nothing left
-  ✓ nara-chami-specialty-coffee-roaster-nara-japan.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 7,19h (venue not open then); weekendQuiet: dropped 7,19h (venue not open then)
-  ✓ nara-mizuya-chaya.md +phone +7h hours
-  ✓ nara-sahha-halal-restaurant.md +phone +7h hours
-  ✓ nha-trang-la-nha.md +phone +7h hours
+  – dempsey-hill-pasar-geylang-serai.md: nothing new (resting 60d)
+  – paris-shwi.md: nothing new (resting 60d)
+  ✓ phuket-hug-street-food-kata-phuket.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayBusy: dropped 21h (venue not open then); weekendBusy: dropped 21h (venue not open then)
+  ✓ ras-al-khaimah-m14-cafe.md +phone +7h hours
+  ✓ ras-al-khaimah-rukn-al-falafel-cafeteria.md +phone +7h hours
+  ✓ rome-luna.md +phone +7h hours
+  ✓ sai-kung-28-restaurant.md +phone +7h hours
+  ✓ san-sebastian-bar-txepetxa.md +phone +7h hours
+  ✓ sapporo-mermaid-coffee-roasters.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
+  – seattle-pike-place-market.md: nothing new (resting 60d)
+  – seoul-ikseon-dong.md: nothing new (resting 60d)
+  ✓ sharjah-tpt-by-late.md +phone +7h hours
+  – singapore-changi-village-hawker-centre.md: nothing new (resting 60d)
+  ✓ singapore-smash-street.md +7h hours
+  ✓ sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken.md +phone +7h hours
+  ✓ surabaya-black-owl-surabaya.md +phone +7h hours
+  ✓ surabaya-blue-doors-surabaya.md +phone +7h hours
     ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ nha-trang-nha-he-coffee-shop.md +phone +7h hours
+  ✓ surabaya-depot-bu-rudy-dharmahusada.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
+  ✓ suwon-cafe-diaz.md +phone +7h hours
     ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ okinawa-chatan-steam-seafood.md +phone +7h hours
-  ✓ okinawa-philippines-street-food-gonta.md +phone +7h hours
-  ✓ okinawa-zhyvago-coffee-works-okinawa.md +phone +7h hours
-  ✓ orchard-road-maxwell-food-centre.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ orchard-road-merci-marcel-orchard.md +phone +7h hours
-  ✓ osaka-dotonbori.md +phone +7h hours
-  ✓ osaka-lilo-coffee-roasters.md +phone +7h hours
-  ✓ paris-shwi.md +7h hours
-  ✓ pattaya-mamamia-pattaya-street-noodles.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then) — nothing left; weekendQuiet: dropped 21h (venue not open then)
-  ✓ pattaya-sheeva-cafe.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then) — nothing left
-  ✓ pattaya-the-collective-pattaya.md +phone +7h hours
-  ✓ penang-root-house-by-gen.md +phone +7h hours
-  ✓ phu-quoc-camia-restaurant.md +phone +7h hours
-  ✓ phu-quoc-chuon-chuon-bistro-bar.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 7h (venue not open then); weekendQuiet: dropped 7h (venue not open then)
-  ✓ phuket-cafe-phuket-viewpoint.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 10h (venue not open then); weekendQuiet: dropped 10h (venue not open then)
-  ✓ phuket-day-night-of-phuket.md +phone +7h hours
+  ✓ taipei-sansan-bistro.md +phone +7h hours
+  – tiong-bahru-tiong-bahru-market.md: nothing new (resting 60d)
+  ✓ yeosu-bokchun-restaurant.md +phone +7h hours
+  ✓ yogyakarta-blanco-coffee-and-books.md +phone +7h hours
+  ✓ yogyakarta-the-tree-restaurant-yogyakarta.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then) — nothing left
+  – agra-agra-fort.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 23, backlog-updated 23, already-complete 222, no-new-data 47, no-place 65, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 402 (APPLIED).
+BACKFILL RESULT: updated 18, backlog-updated 18, already-complete 268, no-new-data 54, no-place 100, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 378 (APPLIED).

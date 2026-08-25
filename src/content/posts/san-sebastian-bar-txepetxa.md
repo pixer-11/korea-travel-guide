@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.32373810000001
   lng: -1.9840577
+  phone: '+34 943 42 22 27'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 3:00 PM, 7:00 – 11:00 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 7:00 – 11:00 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 7:00 – 11:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 7:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 7:00 – 11:00 PM'
+    - 'Sunday: Closed'
 tags:
   - san sebastian
   - San Sebastian Pintxos Bars

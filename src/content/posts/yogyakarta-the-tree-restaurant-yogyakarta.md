@@ -23,11 +23,7 @@ place:
   lng: 110.50411589999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 21
-    weekendQuiet:
-      - 21
+    weekdayQuiet: [7]
     weekendBusy:
       - 9
       - 10
@@ -37,6 +33,15 @@ place:
       - 17
       - 18
     venueId: ven_776d6a4b6442665a6954675234696562644f517859384e4a496843
+  phone: '+62 811-2558-890'
+  openingHours:
+    - 'Monday: 6:30 AM – 9:00 PM'
+    - 'Tuesday: 6:30 AM – 9:00 PM'
+    - 'Wednesday: 6:30 AM – 9:00 PM'
+    - 'Thursday: 6:30 AM – 9:00 PM'
+    - 'Friday: 6:30 AM – 9:00 PM'
+    - 'Saturday: 6:30 AM – 9:00 PM'
+    - 'Sunday: 6:30 AM – 9:00 PM'
 tags:
   - yogyakarta
   - local restaurant

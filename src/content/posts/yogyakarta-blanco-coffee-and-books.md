@@ -47,6 +47,15 @@ place:
       - 21
       - 22
     venueId: ven_5575656e4631336e4666445234696559707a4f487956454a496843
+  phone: '+62 274 2923354'
+  openingHours:
+    - 'Monday: 6:00 AM – 12:00 AM'
+    - 'Tuesday: 6:00 AM – 12:00 AM'
+    - 'Wednesday: 6:00 AM – 12:00 AM'
+    - 'Thursday: 6:00 AM – 12:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 6:00 AM – 12:00 AM'
+    - 'Sunday: 6:00 AM – 12:00 AM'
 tags:
   - yogyakarta
   - trendy cafe

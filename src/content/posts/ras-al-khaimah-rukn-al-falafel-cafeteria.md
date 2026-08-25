@@ -48,6 +48,15 @@ place:
       - 21
       - 22
     venueId: ven_493237696c47754961534252346a39784e3674577634624a496843
+  phone: '+971 7 233 3133'
+  openingHours:
+    - 'Monday: 6:30 AM – 12:00 AM'
+    - 'Tuesday: 6:30 AM – 12:00 AM'
+    - 'Wednesday: 6:30 AM – 12:00 AM'
+    - 'Thursday: 6:30 AM – 12:00 AM'
+    - 'Friday: 6:30 AM – 12:00 AM'
+    - 'Saturday: 6:30 AM – 12:00 AM'
+    - 'Sunday: 6:30 AM – 12:00 AM'
 tags:
   - ras al khaimah
   - street food
