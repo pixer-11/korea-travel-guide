@@ -85,7 +85,15 @@ let inspected = 0;
 for (const b of BUCKETS) {
   const pool = urls.filter(b.match);
   const sample = seededSort(pool, weekSeed()).slice(0, Math.min(PER, pool.length));
+  // WHY a page is out matters more than the rate: "Discovered - currently
+  // not indexed" means Google has not spent a single fetch on it (crawl
+  // budget/authority — backlinks and time), "Crawled - currently not
+  // indexed" means Google read it and declined (content — the only case
+  // where "beef up thin pages" is the right prescription), "unknown" means
+  // it is simply new. The 2026-08-25 alert lumped all three under "thin
+  // pages need work" while every sampled esim page was in fact un-fetched.
   let indexed = 0, failed = 0, denied = false;
+  const causes = { notCrawled: 0, crawledOut: 0, unknown: 0, other: 0 };
   for (const u of sample) {
     const res = await fetch(`https://searchconsole.googleapis.com/v1/urlInspection/index:inspect`, {
       method: 'POST',
@@ -98,9 +106,13 @@ for (const b of BUCKETS) {
     const j = await res.json();
     const verdict = j.inspectionResult?.indexStatusResult?.coverageState || '';
     if (/indexed/i.test(verdict) && !/not indexed/i.test(verdict)) indexed++;
+    else if (/discovered/i.test(verdict)) causes.notCrawled++;
+    else if (/crawled/i.test(verdict)) causes.crawledOut++;
+    else if (/unknown/i.test(verdict)) causes.unknown++;
+    else causes.other++;
     await new Promise((r) => setTimeout(r, 350)); // stay far under 600/min
   }
-  results.push({ ...b, pool: pool.length, sampled: sample.length, indexed, failed, denied });
+  results.push({ ...b, pool: pool.length, sampled: sample.length, indexed, failed, denied, causes });
   if (denied) break;
 }
 
@@ -115,15 +127,29 @@ const lines = results.map((r) => {
   const rate = r.sampled ? r.indexed / r.sampled : 0;
   const pct = (rate * 100).toFixed(0);
   const flag = r.programmatic && rate < THRESHOLD ? '🚨' : '✅';
-  return `${flag} ${r.key}: 표본 ${r.sampled}/${r.pool} 중 색인 ${r.indexed} (${pct}%)${r.failed ? ` · 조회실패 ${r.failed}` : ''}`;
+  const c = r.causes || {};
+  const why = [
+    c.notCrawled ? `안읽음 ${c.notCrawled}` : '',
+    c.crawledOut ? `읽고거름 ${c.crawledOut}` : '',
+    c.unknown ? `신규 ${c.unknown}` : '',
+    c.other ? `기타 ${c.other}` : '',
+  ].filter(Boolean).join(' · ');
+  return `${flag} ${r.key}: 표본 ${r.sampled}/${r.pool} 중 색인 ${r.indexed} (${pct}%)${why ? ` — ${why}` : ''}${r.failed ? ` · 조회실패 ${r.failed}` : ''}`;
 });
 const alarms = results.filter((r) => r.programmatic && r.sampled && r.indexed / r.sampled < THRESHOLD);
 
 mkdirSync('data/logs', { recursive: true });
 writeFileSync('data/logs/index-coverage.json', JSON.stringify({ at: new Date().toISOString(), results }, null, 2) + '\n');
 
+// The prescription must match the measured cause, not a stock phrase.
+const tot = (k) => alarms.reduce((n, a) => n + (a.causes?.[k] || 0), 0);
+const crawledOut = tot('crawledOut');
+const notCrawled = tot('notCrawled') + tot('unknown');
+const advice = crawledOut > notCrawled
+  ? '구글이 읽고도 거른 페이지가 다수 — 내용 보강/정리가 맞는 처방입니다.'
+  : '대부분 구글이 아직 읽지 않은 페이지(크롤 예산·신규) — 페이지 보강으로는 해결되지 않고, 백링크·시간이 처방입니다. 읽고도 거른 건은 "읽고거름" 수치로 표시됩니다.';
 const head = alarms.length
-  ? `🚨 프로그래매틱 페이지 색인율 경보 (${alarms.map((a) => a.key).join(', ')} — 80% 미만)\n대량 유사 페이지를 구글이 조용히 거르고 있다는 신호입니다. 해당 유형의 얇은 페이지 보강/정리가 필요합니다.`
+  ? `🚨 프로그래매틱 페이지 색인율 경보 (${alarms.map((a) => a.key).join(', ')} — 80% 미만)\n${advice}`
   : `🔍 주간 색인율 점검 — 전 유형 정상 (80% 이상)`;
 if (alarms.length || !process.argv.includes('--quiet-ok')) await tg(`${head}\n\n${lines.join('\n')}\n(표본 검사 ${inspected}건 · URL Inspection API)`);
 console.log(`INDEX_COVERAGE ${results.map((r) => `${r.key}=${r.sampled ? Math.round((r.indexed / r.sampled) * 100) : 0}%`).join(' ')}`);
