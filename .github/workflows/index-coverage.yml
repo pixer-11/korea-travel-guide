@@ -21,7 +21,12 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # 17 min was last week's SUCCESSFUL duration — the sample grows with the
+    # site, so 20 left no headroom and the 2026-08-25 scheduled run was
+    # cancelled at exactly 20:00 with the week's sample lost. 35 covers the
+    # measured 17-18 plus growth; the GSC inspection quota, not time, is the
+    # real ceiling.
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
