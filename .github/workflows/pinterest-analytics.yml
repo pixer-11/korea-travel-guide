@@ -1,0 +1,58 @@
+name: Pinterest weekly analytics
+
+# Reads back what the auto-pinner posted: impressions / saves / clicks per pin,
+# once a week, accumulated in data/pinterest-analytics.json with a Korean
+# Telegram digest. Collection starts now so the November "keep Pinterest?"
+# verdict is made on numbers; the learning loop (winners feed pin selection)
+# comes later, once weeks of samples exist. Green no-op until credentials.
+on:
+  schedule:
+    - cron: '35 0 * * 1' # Mon 00:35 UTC = 09:35 KST (off the hour — GitHub drops :00 crons)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pinterest-analytics
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      - name: Collect pin analytics
+        env:
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+        run: node scripts/pinterest-analytics.mjs | tee /tmp/pin-analytics.log
+
+      - name: Commit the ledger
+        run: |
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/pinterest-analytics.json data/pinterest-token.enc || true
+          git diff --cached --quiet || { git commit -m "data: pinterest weekly analytics ($(date -u +%Y-%m-%d))"; bash scripts/git-push-retry.sh; }
+
+      - name: Telegram digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          if grep -q 'PIN_ANALYTICS_AUTH_FAILED' /tmp/pin-analytics.log; then
+            TXT='📌 핀터레스트 성적표를 읽지 못했습니다 — 토큰이 만료되었거나 무효합니다. 자동핀도 같은 토큰을 쓰니 다음 자동핀 알림을 확인해 주세요.'
+          else
+            TXT=$(sed -n '/^📌 핀터레스트 주간 성적표/,$p' /tmp/pin-analytics.log | grep -v '^PIN_ANALYTICS ')
+            [ -z "$TXT" ] && exit 0
+          fi
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true

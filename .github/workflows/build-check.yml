@@ -69,6 +69,7 @@ on:
       # every pin run (08:35 + 20:35 KST) woke a full 14-minute build+deploy
       # that shipped nothing. 22 such deploys between 08-01 and 08-13.
       - '!data/pinterest.json'
+      - '!data/pinterest-analytics.json'
       # Weekly audit output and the newsletter send log: bookkeeping the build
       # never reads, each worth one pointless deploy per write.
       - '!data/full-audit.json'
