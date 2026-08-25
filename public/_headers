@@ -19,3 +19,21 @@
 
 /og-default.jpg
   Cache-Control: public, max-age=604800
+
+# The public crowd API. Headers set on the Response inside a PRERENDERED Astro
+# endpoint are thrown away — the route is written to disk as a plain file at
+# build time and the assets layer decides what to send. Verified live on
+# 2026-08-25: /api/crowd.json returned "max-age=0, must-revalidate" and NO
+# Access-Control-Allow-Origin, despite both being set in crowd.json.ts.
+#
+# That silent loss matters more here than anywhere else on the site: without
+# CORS a browser-side integration fails outright, and the whole reason this
+# endpoint exists is that someone asked to integrate it.
+#
+# Wide-open origin is correct — every number in the file is already public on
+# the page it came from, and there is no auth to leak. A day of caching matches
+# the refresh cadence (venues are re-measured over weeks, not hours).
+/api/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=86400
+  X-Content-Type-Options: nosniff

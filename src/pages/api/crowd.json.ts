@@ -18,9 +18,14 @@ import { resolveBusyness } from '../../lib/busyness.mjs';
 // as integers in local 24h time. No pagination, no auth, no rate limit — the
 // whole thing is a static file built at deploy time, so it costs a CDN hit.
 //
-// CORS is wide open ON PURPOSE. A browser-side integration (Audiala's case) is
-// blocked without it, and there is nothing here to protect: every number is
-// already public on the page it came from.
+// ⚠️ THE HEADERS BELOW DO NOTHING. This route is prerendered, so Astro writes it
+// to disk as a plain file and the assets layer decides what to send — the
+// Response's headers are discarded. Verified live on 2026-08-25: the deploy
+// served "max-age=0, must-revalidate" and no Access-Control-Allow-Origin at all,
+// which would have broken the browser-side integration this endpoint was built
+// for. The real ones live in `public/_headers` under /api/*. They are kept here
+// only so a future `prerender = false` still behaves, and so the intent is
+// readable next to the payload.
 export const prerender = true;
 
 const SITE = (import.meta.env.SITE || 'https://wanderatlasguides.com').replace(/\/$/, '');
