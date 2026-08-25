@@ -119,6 +119,9 @@ const wallRow2 = wall.slice(6, 12);
 const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 const live = countries.filter((c) => c.count > 0);
+// How many tiles the phone actually shows — must match the global.css rule
+// `.dest-bento .dest-tile:nth-child(n+9)` (2026-08-23 phone-home shortening).
+const MOBILE_TILES = 8;
 const soon = countries.filter((c) => c.count === 0);
 const repImage = (name: string) => tileSize(pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name)));
 
@@ -443,6 +446,16 @@ const fmtEventDates = (p: any) => {
             </div>
           </a>
         ))}
+        {/* Phone home hides tiles 9+ (global.css nth-child(n+9), 2026-08-23 UX
+            audit) — without a marker the grid just stops at 8 and reads as "this
+            is everything". This tile is desktop-hidden and phone-shown by CSS,
+            fills the odd cell the 7 visible non-featured tiles leave, and names
+            what was cut. MOBILE_TILES must match that CSS rule. */}
+        {live.length > MOBILE_TILES && (
+          <a class="dest-tile dest-more" href={localizePath('/destinations', lang)}>
+            <span>{t('home.moreCountries').replace('{n}', String(live.length - MOBILE_TILES))}</span>
+          </a>
+        )}
         {soon.map((c) => (
           <div class="dest-tile dest-soon">
             <div class="dest-tile-inner">
