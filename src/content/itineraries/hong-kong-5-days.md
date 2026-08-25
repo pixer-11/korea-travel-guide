@@ -6,7 +6,7 @@ title: '5-Day Hong Kong Itinerary: Harbour, Lantau Buddha, Sai Kung & The Peak'
 description: A 5-day Hong Kong itinerary moving from the Tsim Sha Tsui harbourfront to Sha Tin's gardens and temples, Lantau Island's Buddha, Sai Kung's fishing village, and a finish atop The Peak.
 quickAnswer: This is a 5-day Hong Kong itinerary that opens on the Tsim Sha Tsui waterfront, moves to Diamond Hill and Sha Tin gardens and temples, crosses to Lantau Island's Buddha and monastery with an evening in Kennedy Town, spends a day around Sai Kung's fishing village, and closes with Disneyland, a Lantau beach, and a Peak lookout.
 pubDate: '2026-08-20T09:34:29.981Z'
-stopsHash: 12ea2a0bd601fb0af7336b45464d33e8ff61e9a2
+stopsHash: c4abbade015089a5724cfd7bee565951bef9f866
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Hong Kong itinerary?
@@ -76,8 +76,16 @@ itinerary:
         slot: afternoon
         why: A hillside monastery above Sha Tin reached by a staircase lined with hundreds of golden Buddha statues, a rewarding payoff for the climb.
         dwellMin: 105
+        walkToNext:
+          km: 1.6
+          minutes: 21
+          transit: false
+      - slug: sha-tin-the-alchemist-cafe-shatin
+        slot: evening
+        why: A trendy rated 4 by visitors, included as a stop on this route.
+        dwellMin: 45
         walkToNext: null
-    rainSwapSlug: sha-tin-the-alchemist-cafe-shatin
+    rainSwapSlug: jordan-hong-kong-heritage-museum
   - label: Lantau's Buddha and a Kennedy Town sunset
     intro: Day three is built around Lantau Island's hilltop Buddha and monastery, then crosses to Kennedy Town for a calmer waterfront close to the day.
     stops:
@@ -155,5 +163,6 @@ itinerary:
     rainSwapSlug: central-tai-kwun
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-25T08:29:42.315Z'
 ---
 

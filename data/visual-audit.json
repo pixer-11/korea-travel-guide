@@ -12782,5 +12782,101 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Shows museum's colonial building with shuttered windows.",
     "at": "2026-08-24T20:13:31.857Z"
+  },
+  "nagoya-toyota-commemorative-museum-of-industry-and-technology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Toyota_tecno_museum.jpg/1920px-Toyota_tecno_museum.jpg": {
+    "slug": "nagoya-toyota-commemorative-museum-of-industry-and-technology",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of brick industrial museum building, representative venue view",
+    "at": "2026-08-25T08:04:37.898Z"
+  },
+  "kampong-glam-malay-heritage-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Malay_Heritage_Centre%2C_2012.jpg/1920px-Malay_Heritage_Centre%2C_2012.jpg": {
+    "slug": "kampong-glam-malay-heritage-centre",
+    "verdict": "MATCH",
+    "reason": "publish gate: Building facade with fountain, matches Malay Heritage Centre",
+    "at": "2026-08-25T08:06:51.946Z"
+  },
+  "daegu-donghwasa\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Korea-Daegu-Donghwasa-01.jpg": {
+    "slug": "daegu-donghwasa",
+    "verdict": "MATCH",
+    "reason": "publish gate: Korean temple buildings with visitors, matches Donghwasa setting",
+    "at": "2026-08-25T08:07:37.211Z"
+  },
+  "clarke-quay-artscience-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1920px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg": {
+    "slug": "clarke-quay-artscience-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic exterior view of ArtScience Museum, Singapore skyline",
+    "at": "2026-08-25T08:08:26.664Z"
+  },
+  "turin-museo-nazionale-dell-automobile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg/1920px-Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg": {
+    "slug": "turin-museo-nazionale-dell-automobile",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of Museo Nazionale dell'Automobile building, Turin",
+    "at": "2026-08-25T08:09:04.615Z"
+  },
+  "kanazawa-d-t-suzuki-museum\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/D._T._Suzuki_Museum%2C_Kanazawa_-_May_3%2C_2015_%281%29.jpg": {
+    "slug": "kanazawa-d-t-suzuki-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Modern building matches D.T. Suzuki Museum exterior in Kanazawa",
+    "at": "2026-08-25T08:09:47.699Z"
+  },
+  "washington-dc-smithsonian-national-museum-of-natural-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg/1920px-National_Museum_of_Natural_History_-_2026_%2855255088887%29.jpg": {
+    "slug": "washington-dc-smithsonian-national-museum-of-natural-history",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of the museum building, representative hero shot",
+    "at": "2026-08-25T08:10:30.265Z"
+  },
+  "yogyakarta-museum-sonobudoyo-unit-i\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Museum_Sonobudoyo%2C_Jogja_%282025%29_-_img_04.jpg/3840px-Museum_Sonobudoyo%2C_Jogja_%282025%29_-_img_04.jpg": {
+    "slug": "yogyakarta-museum-sonobudoyo-unit-i",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows museum entrance gate with signage, representative exterior view",
+    "at": "2026-08-25T08:11:14.540Z"
+  },
+  "mumbai-paradox-museum-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Paradox_Museum_in_Mumbai.jpg/3840px-Paradox_Museum_in_Mumbai.jpg": {
+    "slug": "mumbai-paradox-museum-mumbai",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior building with Paradox Museum signage visible",
+    "at": "2026-08-25T08:13:19.880Z"
+  },
+  "fukuoka-fukuoka-city-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fukuoka_City_Science_Museum_20171103-3.jpg/3840px-Fukuoka_City_Science_Museum_20171103-3.jpg": {
+    "slug": "fukuoka-fukuoka-city-science-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of Fukuoka City Science Museum building, clearly labeled",
+    "at": "2026-08-25T08:14:37.819Z"
+  },
+  "jordan-hong-kong-heritage-museum\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Hong_Kong_Heritage_Museum_201305.jpg": {
+    "slug": "jordan-hong-kong-heritage-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows museum building with distinctive architecture across water",
+    "at": "2026-08-25T08:15:12.969Z"
+  },
+  "okinawa-okinawa-prefectural-peace-memorial-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg/1920px-Okinawa_prefectural_Peace_memorial_Museum-2007-06-27_2.jpg": {
+    "slug": "okinawa-okinawa-prefectural-peace-memorial-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of museum building with cannons and tower",
+    "at": "2026-08-25T08:16:05.352Z"
+  },
+  "bali-museum-pasifika-bali\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg/3840px-2018_museum_pasifika%2C_nusa_dua%2C_Bali%2C_Indonesia.jpg": {
+    "slug": "bali-museum-pasifika-bali",
+    "verdict": "MATCH",
+    "reason": "publish gate: Museum gallery interior with artworks, plausible for Museum Pasifika",
+    "at": "2026-08-25T08:16:55.850Z"
+  },
+  "sha-tin-hong-kong-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/f/ff/HKScienceMuseumview.jpg": {
+    "slug": "sha-tin-hong-kong-science-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of building matching Hong Kong Science Museum architecture",
+    "at": "2026-08-25T08:17:50.895Z"
+  },
+  "surabaya-siola-surabaya-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg/3840px-Tunjungan_Siola_Surabaya_Pusat_%28Central_Surabaya%29.jpg": {
+    "slug": "surabaya-siola-surabaya-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Siola building exterior, recognizable landmark in Surabaya",
+    "at": "2026-08-25T08:19:52.879Z"
+  },
+  "jakarta-national-museum-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg/1920px-Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg": {
+    "slug": "jakarta-national-museum-of-indonesia",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows museum facade with sign, elephant statue, fountain",
+    "at": "2026-08-25T08:20:31.858Z"
   }
 }

@@ -16,9 +16,12 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 54 qualifying post(s), variants: 3, 5
-  = Hong Kong 3d — unchanged, skipping
-  = Hong Kong 5d — unchanged, skipping
+Hong Kong, Hong Kong — 56 qualifying post(s), variants: 3, 5
+  ~ Hong Kong 3d — minor structure change (2 slug diff), keeping existing prose
+  ⚠ Hong Kong 3d — validator found 3 prose-fixable issue(s); correcting once
+  ✅ Hong Kong 3d — updated
+  ~ Hong Kong 5d — minor structure change (1 slug diff), keeping existing prose
+  ✅ Hong Kong 5d — updated
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -26,15 +29,12 @@ Los Angeles, United States — 16 qualifying post(s), variants: 3
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
-Singapore, Singapore — 47 qualifying post(s), variants: 3, 5
-  ~ Singapore 3d — structure changed by 3 slug(s), regenerating prose
-  ⚠ Singapore 3d — guard found 1 hours/price + 6 rain-leak issue(s) on first pass; retrying once
-  ⚠ Singapore 3d — dropping rain-swap for day 1 (venue name leaked into written prose after retry)
-  ✅ Singapore 3d — updated
+Singapore, Singapore — 49 qualifying post(s), variants: 3, 5
+  = Singapore 3d — unchanged, skipping
   ~ Singapore 5d — structure changed by 3 slug(s), regenerating prose
-  ⚠ Singapore 5d — guard found 0 hours/price + 1 rain-leak issue(s) on first pass; retrying once
-  ⚠ Singapore 5d — dropping rain-swap for day 3 (venue name leaked into written prose after retry)
-  ✅ Singapore 5d — updated
+  ⚠ Singapore 5d — validator found 1 prose-fixable issue(s); correcting once
+VALIDATE-FAILED singapore-5-days.md — 1 issue(s):
+  • PROSE-LEAK: singapore-5-days.md — itinerary[0].intro
 
 Done.
 
