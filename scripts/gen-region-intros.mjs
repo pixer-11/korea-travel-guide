@@ -69,7 +69,8 @@ const toolArgs = (msg, name) => {
 async function genEnglish(region, country) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 900,
+    // Same budget lesson as the organizer backfill (2026-08-25).
+    max_tokens: 1600,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }, submitIntroTool],
     messages: [{
       role: 'user',

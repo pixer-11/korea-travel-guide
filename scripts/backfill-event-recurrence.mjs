@@ -48,7 +48,9 @@ const submitTool = {
 async function askRecurrence(name, city, country) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 900,
+    // Same budget lesson as the organizer backfill (2026-08-25): a search-backed
+    // reply spends most of the allowance before it reaches the tool call.
+    max_tokens: 1600,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }, submitTool],
     messages: [{
       role: 'user',

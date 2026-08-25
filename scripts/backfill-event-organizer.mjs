@@ -51,7 +51,10 @@ const REJECT = /wander\s*atlas|unknown|n\/a|not (?:specified|available|found)|va
 async function askOrganizer(name, city, country) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 900,
+    // 900 truncated 2 of 15 replies on 2026-08-25 — a web_search answer carries
+    // the search results into the response budget, so the tool call at the end
+    // is what gets cut. Same failure the translation judge had at 600 (08-16).
+    max_tokens: 1600,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }, submitTool],
     messages: [{
       role: 'user',
