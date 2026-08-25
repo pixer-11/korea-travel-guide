@@ -14,6 +14,7 @@ import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
+import { resolveBusyness } from '../lib/busyness.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -187,9 +188,13 @@ const photoAlt = (subject: string) => t('post.altPlace')
 // print the same thing — they were headlining "verified quiet times" and showing
 // venue cards with no times on them.
 const fmtHourRanges = (hours: number[] | undefined) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm'), lang });
-const bz = p?.busyness;
-const quietWd = fmtHourRanges(bz?.weekdayQuiet), quietWe = fmtHourRanges(bz?.weekendQuiet);
-const busyWd = fmtHourRanges(bz?.weekdayBusy), busyWe = fmtHourRanges(bz?.weekendBusy);
+// Resolved, not raw. 37 places store a weekend hour in BOTH the quiet and the
+// busy list, and this block prints the two lines next to each other — "quiet
+// 9am-5pm / busy 11am-7pm" on the same card reads as a broken page. Busy wins;
+// the rule and the reasoning live in lib/busyness, shared with the crowd API.
+const bz = resolveBusyness(p?.busyness);
+const quietWd = fmtHourRanges(bz.weekdayQuiet), quietWe = fmtHourRanges(bz.weekendQuiet);
+const busyWd = fmtHourRanges(bz.weekdayBusy), busyWe = fmtHourRanges(bz.weekendBusy);
 const hasBusyness = !!(quietWd || quietWe || busyWd || busyWe);
 
 // Map our category to a schema.org place type (helps travel AI results).

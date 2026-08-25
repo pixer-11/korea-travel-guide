@@ -9,6 +9,7 @@ import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { resolveBusyness } from '../lib/busyness.mjs';
 import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -64,9 +65,14 @@ const index = posts
   .map((p) => {
     const slug = p.id.replace(/\.md$/, '');
     const country = p.data.country ?? 'South Korea';
-    const wq = p.data.place?.busyness?.weekdayQuiet ?? [];
-    const weq = p.data.place?.busyness?.weekendQuiet ?? [];
-    const web = p.data.place?.busyness?.weekendBusy ?? [];
+    // The heatmap below already resolved quiet-vs-busy correctly, cell by cell
+    // (`busy.has(h) ? 'busy' : …`), but the quiet LABEL beside it did not — so a
+    // card could read "quiet 9am-5pm" while its own cells showed 11-16 red. Same
+    // shared rule as the crowd API and the post page now.
+    const rb = resolveBusyness(p.data.place?.busyness);
+    const wq = rb.weekdayQuiet;
+    const weq = rb.weekendQuiet;
+    const web = rb.weekendBusy;
     const quiet = new Set([...wq, ...weq]);
     const busy = new Set(web);
     return {

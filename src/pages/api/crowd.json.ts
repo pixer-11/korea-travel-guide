@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { resolveBusyness } from '../../lib/busyness.mjs';
 
 // PUBLIC CROWD-DATA API — the site's one genuinely uncopyable asset, served as data.
 //
@@ -24,13 +25,25 @@ export const prerender = true;
 
 const SITE = (import.meta.env.SITE || 'https://wanderatlasguides.com').replace(/\/$/, '');
 
-type Busy = { weekdayQuiet?: number[]; weekendQuiet?: number[]; weekendBusy?: number[]; updated?: string | Date };
+type Busy = {
+  weekdayQuiet?: number[];
+  weekdayBusy?: number[];
+  weekendQuiet?: number[];
+  weekendBusy?: number[];
+  updated?: string | Date;
+};
 
 // Only places that actually carry a measurement. A venue with an empty busyness
 // block is worse than absent — a consumer would read "no quiet hours" as a fact
-// rather than as missing data.
+// rather than as missing data. All four lists count: a place known only for when
+// it is busy is still a measured place.
 const hasData = (b?: Busy) =>
-  !!b && ((b.weekdayQuiet?.length ?? 0) + (b.weekendQuiet?.length ?? 0) + (b.weekendBusy?.length ?? 0)) > 0;
+  !!b &&
+  (b.weekdayQuiet?.length ?? 0) +
+    (b.weekdayBusy?.length ?? 0) +
+    (b.weekendQuiet?.length ?? 0) +
+    (b.weekendBusy?.length ?? 0) >
+    0;
 
 const day = (d?: string | Date) =>
   !d ? null : (d instanceof Date ? d.toISOString() : new Date(d).toISOString()).slice(0, 10);
@@ -41,7 +54,10 @@ export async function GET() {
   const places = posts
     .filter((p) => hasData(p.data.place?.busyness as Busy))
     .map((p) => {
-      const b = p.data.place!.busyness as Busy;
+      // Resolved, not raw: the stored weekend lists overlap on 37 places, and an
+      // hour that is both "quiet" and "busy" is the first thing an integrator
+      // would notice — and the last thing they would trust. See lib/busyness.
+      const b = resolveBusyness(p.data.place!.busyness as Busy);
       return {
         id: p.id.replace(/\.md$/, ''),
         // The venue name, not the SEO headline: "Wat Arun", not
@@ -53,11 +69,13 @@ export async function GET() {
         lat: p.data.place?.lat ?? null,
         lng: p.data.place?.lng ?? null,
         // Local clock hours, 0-23. Empty array means "measured, none found",
-        // which is different from the field being absent.
-        weekdayQuiet: b.weekdayQuiet ?? [],
-        weekendQuiet: b.weekendQuiet ?? [],
-        weekendBusy: b.weekendBusy ?? [],
-        measured: day(b.updated),
+        // which is different from the field being absent. No hour appears in
+        // both a quiet and a busy list.
+        weekdayQuiet: b.weekdayQuiet,
+        weekdayBusy: b.weekdayBusy,
+        weekendQuiet: b.weekendQuiet,
+        weekendBusy: b.weekendBusy,
+        measured: day((p.data.place!.busyness as Busy)?.updated),
         url: `${SITE}/posts/${p.id.replace(/\.md$/, '')}/`,
       };
     })
