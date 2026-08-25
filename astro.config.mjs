@@ -5,6 +5,7 @@ import { readFileSync, readdirSync, writeFileSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { isRecurringEvent } from './src/lib/eventRecurrence.mjs';
+import { groupUrls, newestLastmod, renderSitemap, renderIndex } from './src/lib/sitemap-split.mjs';
 
 
 // IMPORTANT: change this to your real domain before deploying.
@@ -437,6 +438,43 @@ function trailingSlashIntegration() {
   };
 }
 
+// Custom integration: split the sitemap by language and page type. Search
+// Console reports coverage PER SITEMAP, so the single 10,454-URL file could
+// only ever say "some of the site is not indexed". Thirty-five files say
+// which type and which language — see src/lib/sitemap-split.mjs. Runs after
+// @astrojs/sitemap's own build:done hook because it is registered later in
+// the integrations array.
+function sitemapSplitIntegration() {
+  return {
+    name: 'sitemap-split',
+    hooks: {
+      'astro:build:done': (/** @type {{ dir: URL }} */ { dir }) => {
+        const root = fileURLToPath(dir);
+        // sitemap-0.xml today; -1, -2 … once the 45,000-entry limit is hit.
+        const sources = readdirSync(root).filter((f) => f.startsWith('sitemap-') && f.endsWith('.xml') && Number.isInteger(Number(f.slice(8, -4))));
+        if (!sources.length) return;
+        const groups = new Map();
+        for (const src of sources) {
+          for (const [key, blocks] of groupUrls(readFileSync(join(root, src), 'utf8'))) {
+            groups.set(key, (groups.get(key) ?? []).concat(blocks));
+          }
+        }
+        if (!groups.size) return;
+        const files = [];
+        let urls = 0;
+        for (const [key, blocks] of [...groups.entries()].sort()) {
+          const name = `sitemap-${key}.xml`;
+          writeFileSync(join(root, name), renderSitemap(blocks));
+          files.push({ name, lastmod: newestLastmod(blocks) });
+          urls += blocks.length;
+        }
+        writeFileSync(join(root, 'sitemap-index.xml'), renderIndex(files, SITE));
+        console.log(`[sitemap-split] ${urls} URLs into ${files.length} sitemaps`);
+      },
+    },
+  };
+}
+
 import rehypeMidCta from './src/lib/rehype-mid-cta.mjs';
 
 export default defineConfig({
@@ -491,6 +529,7 @@ export default defineConfig({
     }),
     regionRedirectsIntegration(),
     trailingSlashIntegration(),
+    sitemapSplitIntegration(),
   ],
   trailingSlash: 'ignore',
   i18n: {

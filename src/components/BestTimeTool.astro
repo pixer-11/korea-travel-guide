@@ -182,14 +182,29 @@ const datasetLd = {
   temporalCoverage: '2026/..',
 };
 
+// Breadcrumbs. Every other hub type on the site emits a BreadcrumbList; the
+// four tool pages were the only ones that never did, so Google had no parent
+// for them and printed a bare URL where the other hubs get a Home > ... trail.
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'WebApplication',
-  name: t('tool.h1'),
-  applicationCategory: 'TravelApplication',
-  operatingSystem: 'Web',
-  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
-  description: t('tool.metaDesc'),
+  '@graph': [
+    {
+      '@type': 'WebApplication',
+      name: t('tool.h1'),
+      applicationCategory: 'TravelApplication',
+      operatingSystem: 'Web',
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+      description: t('tool.metaDesc'),
+      url: pageUrl,
+      isPartOf: { '@id': `${site}/#site` },
+    },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('tool.h1'), item: pageUrl },
+    ] },
+  ],
 };
 ---
 <BaseLayout title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>

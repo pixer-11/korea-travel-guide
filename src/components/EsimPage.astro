@@ -79,6 +79,13 @@ const jsonLd = {
         acceptedAnswer: { '@type': 'Answer', text: f.a },
       })),
     },
+    // Home > eSIM guides > <country>, matching the trail every other
+    // country-level page on the site already emits.
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: new URL(localizePath('/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 2, name: t('esim.indexTitle'), item: new URL(localizePath('/tools/esim/', lang), Astro.site).toString() },
+      { '@type': 'ListItem', position: 3, name: countryLabel, item: pageUrl },
+    ] },
   ],
 };
 ---

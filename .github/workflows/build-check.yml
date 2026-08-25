@@ -155,6 +155,36 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text@/tmp/feed-msg.txt" >/dev/null || true
 
+      # The split sitemap is only a diagnostic while it is COMPLETE. A silent
+      # classifier change that drops a page type would leave the site working
+      # and that type simply never submitted — the kind of failure nobody goes
+      # looking for. Same rule as the feed audit: report, never block the ship.
+      - name: Sitemap split integrity
+        id: splitaudit
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          node scripts/audit-sitemap-split.mjs 2>&1 | tee /tmp/split-audit.log
+
+      - name: Report sitemap split problem
+        if: steps.splitaudit.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "⚠️ 사이트맵 분할에서 URL이 새고 있습니다 (배포는 정상 진행됨)"
+            echo "커밋: ${GITHUB_SHA:0:7}"
+            echo
+            tail -c 1200 /tmp/split-audit.log
+            echo
+            echo "클로드에게 '사이트맵 분할 감사 고쳐줘'라고 말하면 원인을 찾아 수정합니다."
+          } > /tmp/split-msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/split-msg.txt" >/dev/null || true
+
       # Ships the dist that was just verified above. Same wrangler command
       # Cloudflare's own builder ran ("npx wrangler deploy"), same wrangler.jsonc,
       # so the result is byte-identical to what it used to publish.
