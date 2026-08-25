@@ -12878,5 +12878,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows museum facade with sign, elephant statue, fountain",
     "at": "2026-08-25T08:20:31.858Z"
+  },
+  "siem-reap-wat-bo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/01-Wat_Bo_Siem_Reap-NglL-06630.jpg/3840px-01-Wat_Bo_Siem_Reap-NglL-06630.jpg": {
+    "slug": "siem-reap-wat-bo",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer temple roofline with golden nagas, matches Wat Bo style",
+    "at": "2026-08-25T09:15:15.602Z"
   }
 }

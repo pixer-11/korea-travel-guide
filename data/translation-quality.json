@@ -28845,5 +28845,33 @@
   "registerBreak": false,
   "worst": "从勒迈耶、阿凡迪等巴厘岛艺术大师的作品，到爪哇宫廷绘画，再到太平洋部落艺术、中国瓷器...",
   "at": "2026-08-25T08:29:03.944Z"
+ },
+ "es/siem-reap-wat-bo": {
+  "hash": "6976507c7a7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El error más común es entrar corriendo durante una vuelta en tuk-tuk al mediodía entre templos",
+  "at": "2026-08-25T09:20:07.992Z"
+ },
+ "ja/siem-reap-wat-bo": {
+  "hash": "88feb1a2e477",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "寺院を見学し終えたら、ワット・ボー村そのものを散策するのもおすすめです。静かな路地やフランス統治時代の面影を残す商店街、こぢんまりとしたカフェが点在し、ちょっとした散策にぴったりです。",
+  "at": "2026-08-25T09:20:10.281Z"
+ },
+ "ko/siem-reap-wat-bo": {
+  "hash": "926ddb7faa18",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "하지만 그건 손해입니다.",
+  "at": "2026-08-25T09:20:17.760Z"
+ },
+ "zh/siem-reap-wat-bo": {
+  "hash": "e52c74926a7a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "请把瓦布寺当作一处仍在使用的宗教场所来对待，因为它本身正是如此。",
+  "at": "2026-08-25T09:20:24.677Z"
  }
 }

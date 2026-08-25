@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 24,
+   "attempts": 25,
    "hits": 1
   },
   "historic site": {
@@ -14,7 +14,7 @@
    "hits": 39
   },
   "viewpoint": {
-   "attempts": 48,
+   "attempts": 51,
    "hits": 6
   },
   "art gallery": {
@@ -42,7 +42,7 @@
    "hits": 2
   },
   "local market": {
-   "attempts": 32,
+   "attempts": 33,
    "hits": 8
   },
   "bookshop": {
@@ -62,19 +62,19 @@
    "hits": 2
   },
   "trendy cafe": {
-   "attempts": 52,
+   "attempts": 53,
    "hits": 2
   },
   "street food": {
-   "attempts": 42,
+   "attempts": 51,
    "hits": 5
   },
   "bakery": {
-   "attempts": 2,
+   "attempts": 16,
    "hits": 0
   },
   "bar": {
-   "attempts": 2,
+   "attempts": 6,
    "hits": 0
   },
   "vegetarian": {
@@ -108,7 +108,15 @@
   "Romdeng": {
    "attempts": 1,
    "hits": 0
+  },
+  "Wat Bo": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Phnom Sampeau": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-08-25T08:20:31.952Z"
+ "updated": "2026-08-25T09:17:28.826Z"
 }

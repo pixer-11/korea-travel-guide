@@ -1,49 +1,48 @@
 ---
 lang: es
 slug: singapore-5-days
-sourceHash: a98ddd67c16724ce48f520da3c8caf985c9a94ce
-title: 'Itinerario de 5 días por Singapur: jardines, Sentosa, reservas naturales y Kampong Glam'
-description: Un itinerario de 5 días por Singapur que va desde los jardines y el río de Marina Bay hasta la selva de Bukit Timah, pasando por las atracciones de Sentosa, East Coast Park y las calles con historia de Kampong Glam.
-quickAnswer: Este es un itinerario de 5 días por Singapur que va desde los jardines y el río de Marina Bay hasta la reserva natural de Bukit Timah y los Botanic Gardens, para luego pasar a Sentosa en busca de atracciones y una instalación de jardín al atardecer, seguir hacia East Coast Park y el mercado de Geylang Serai antes de llegar a Katong Park, y finalmente dedicar un día completo a explorar las calles, la mezquita y las cafeterías de Kampong Glam.
+sourceHash: e006b1a6b15c6fd37db3265758f307c84e174784
+title: 'Itinerario de 5 días por Singapur: Jardines, Sentosa, la costa y Kampong Glam'
+description: Un itinerario de 5 días por Singapur que va desde los jardines de Marina Bay y los paisajes sensoriales de Sentosa hasta la selva de Bukit Timah, la costa sureste y las calles históricas de Kampong Glam.
+quickAnswer: Este es un itinerario de 5 días por Singapur que comienza en Marina Bay y Kampong Glam, dedica un día a la selva de Bukit Timah y a los Jardines Botánicos, se traslada a la isla de Sentosa para disfrutar de un día más completo de atracciones y jardines, recorre la costa sureste pasando por Katong, y cierra con un día a fondo de vuelta en Kampong Glam.
 faq:
-  - q: ¿Cuánto hay que caminar en este itinerario de 5 días por Singapur?
-    a: Varios días combinan zonas fáciles de recorrer a pie, como las calles de Kampong Glam, con trayectos más largos en transporte entre áreas como East Coast Park y Geylang Serai, así que hacen falta tanto calzado cómodo como el uso del transporte público.
-  - q: ¿Es necesario reservar transporte con antelación?
-    a: El itinerario indica cuándo una parada queda fuera del alcance a pie y se necesita transporte, así que conviene contar con transporte público o un servicio de traslado para esos trayectos más largos entre zonas como Bukit Timah y Dempsey Hill.
-  - q: ¿Es flexible este itinerario si llueve?
-    a: Los días 1, 2, 4 y 5 tienen una alternativa prevista para días de lluvia; el otro día no la tiene, así que los planes de ese día se mantendrían tal como están programados.
-  - q: ¿Qué día está más centrado en la naturaleza?
-    a: El día dos se centra en la colina boscosa y los senderos de Bukit Timah antes de pasar, por la tarde, a los más tranquilos y cuidados Botanic Gardens.
-  - q: ¿Qué día se concentra más en una sola zona?
-    a: El día cinco transcurre casi por completo en Kampong Glam, moviéndose a pie entre Bugis Street, la mezquita y Bussorah Street.
+  - q: ¿Cómo debería moverme durante este itinerario de 5 días por Singapur?
+    a: Los días están agrupados por zonas —Marina Bay y Kampong Glam, Bukit Timah y los Jardines Botánicos, la isla de Sentosa, la costa sureste alrededor de Katong, y de nuevo Kampong Glam—, así que el transporte entre estos grupos es la forma principal de cubrir distancias, caminando una vez que te encuentras dentro de cada zona.
+  - q: ¿Es un itinerario con mucha caminata?
+    a: 'Sí: los días organizados en torno a Gardens by the Bay, los senderos de Bukit Timah, East Coast Park y las calles de Kampong Glam implican caminar de forma sostenida, así que conviene llevar calzado cómodo.'
+  - q: ¿Debería planificar en función del clima?
+    a: Varios días dependen de espacios al aire libre como jardines, una reserva natural y un parque frente a la playa, por lo que cada uno de esos días incluye una alternativa para días de lluvia por si el clima no acompaña.
+  - q: ¿Necesito reservar algo con antelación?
+    a: El tobogán-luge de Sentosa y las paradas en restaurantes con servicio de mesa son el tipo de actividades que conviene reservar con antelación, ya que se señala que se benefician de un poco de planificación previa.
+  - q: ¿Es un itinerario adecuado para un ritmo más pausado?
+    a: 'Sí: los tiempos de estancia varían entre paradas rápidas de 30-45 minutos, como Sultan Mosque o Katong Park, y tramos de varias horas en Gardens by the Bay o la reserva de Bukit Timah, por lo que el ritmo alterna de forma natural entre lo ágil y lo relajado.'
 days:
-  - label: Jardines de Marina Bay y luces junto al río
-    intro: El primer día se instala en Marina Bay, comenzando con los amplios jardines al aire libre y bajo techo, antes de una elegante parada para almorzar en el mismo distrito. Por la tarde se vuelve a la emblemática arboleda de los jardines para su espectáculo nocturno, y la jornada termina al otro lado del agua, en una tranquila cafetería junto al río cerca de Clarke Quay.
-  - label: Colina de selva tropical y calma botánica
-    intro: El segundo día gira en torno a la colina boscosa de Bukit Timah, pasando del centro de visitantes directamente a la reserva para dedicar un buen tramo a recorrer sus senderos. Por la tarde el plan se traslada a los Botanic Gardens, un contrapunto más tranquilo y cuidado frente a la selva de la mañana.
-  - label: Emociones en Sentosa y atardecer sensorial
-    intro: El tercer día se dirige a Sentosa para una mañana de telesilla y luge, seguida de un refinado almuerzo sentado cerca de allí. Al caer la tarde, un breve desplazamiento lleva hasta una instalación de jardín y luces pensada para disfrutarse al atardecer.
-  - label: Costa, mercado y parque del antiguo fuerte
-    intro: El cuarto día comienza en el largo frente de playa de East Coast Park, para luego adentrarse tierra adentro y curiosear entre los puestos de un mercado húmedo y un hawker centre. Termina con calma en un pequeño parque en Fort Road, construido en torno al último vestigio de un antiguo fuerte.
-  - label: Vida callejera en Kampong Glam
-    intro: El quinto día transcurre casi por completo en Kampong Glam, comenzando con los puestos cubiertos de Bugis Street antes de cruzar hacia la mezquita y las calles con historia de los alrededores. Por la tarde el plan se mantiene en Bussorah Street para una comida relajada y sin prisas.
+  - label: Jardines, torres y calles con historia
+    intro: El primer día recorre los espacios verdes de Marina Bay antes de instalarse por la noche en el barrio malayo-musulmán de Kampong Glam. Se puede esperar una mezcla de paseos al aire libre, un bocado con estilo y un cierre nocturno lleno de luz.
+  - label: De la selva tropical a la calma botánica
+    intro: El segundo día gira en torno a Bukit Timah antes de terminar entre los cuidados céspedes del Singapore Botanic Gardens. Es un día para el follaje y los senderos, que va suavizándose hacia un espacio verde más tranquilo al caer la tarde.
+  - label: Emociones en Sentosa y jardines sensoriales
+    intro: El tercer día se dirige a la isla de Sentosa para vivir una mañana llena de adrenalina, un almuerzo refinado y un paseo nocturno por un jardín iluminado. El ritmo pasa de la adrenalina a la calma a medida que avanza el día.
+  - label: De la costa a Katong
+    intro: El cuarto día recorre la costa sureste, desde el frente de playa abierto de East Coast Park hasta los puestos del mercado de Pasar Geylang Serai, para terminar relajándose en el pequeño rincón verde de Katong Park. Es un día de mercados, aire marino y rincones de barrio.
+  - label: Kampong Glam a fondo
+    intro: El quinto día se instala por completo en Kampong Glam, pasando de Sultan Mosque al Malay Heritage Centre y saliendo a las calles alrededor de Bussorah Street. Es un cierre de viaje sin prisas, centrado en un único barrio histórico.
 whys:
-  marina-bay-gardens-by-the-bay: Este parque frente al agua marca el inicio del día con su combinación de arboleda gratuita al aire libre e invernaderos climatizados, ofreciendo una primera muestra amplia de Marina Bay.
-  marina-bay-le-noir: Un lugar con ambiente sofisticado y decoración artística dentro de Marina Bay Sands es una parada de mediodía muy bien valorada, sin salir del distrito.
-  bugis-supertree-grove: Volver a la arboleda de los jardines al final del día prepara el terreno para el espectáculo nocturno gratuito de luces y sonido, que se convierte en el punto culminante de la tarde.
-  clarke-quay-home-dawn-cafe-clarke-quay: Una cafetería sencilla junto al río ofrece un cierre tranquilo y relajado para el día, alejado de la más bulliciosa franja de ocio cercana.
-  bukit-timah-bukit-timah-nature-reserve-visitor-centre: El centro de visitantes es la puerta de entrada natural a los senderos y la selva primaria de la reserva, ideal para comenzar el día con calma.
-  bukit-timah-bukit-timah-nature-reserve: Continuar hacia la reserva propiamente dicha extiende la mañana con un largo tramo por la colina más alta de Singapur y sus senderos.
-  dempsey-hill-singapore-botanic-gardens: Este extenso parque histórico y gratuito ofrece un contraste más tranquilo y cultivado frente a la caminata por la selva de la mañana.
-  sentosa-skyline-luge-singapore: La combinación de telesilla y luge es una forma activa y panorámica de comenzar un día en Sentosa.
-  sentosa-fiamma: Un restaurante italiano de alta gama dentro de Capella ofrece un refinado almuerzo sentado, lejos de las zonas de playa más concurridas de la isla.
-  sentosa-sentosa-sensoryscape: Esta instalación gratuita de jardín y luces está pensada para disfrutarse al atardecer, lo que la convierte en un cierre adecuado para el día.
-  katong-east-coast-park: El largo frente de playa ganado al mar es un comienzo natural y abierto para el día, ideal para pasear o pedalear junto a la costa.
-  dempsey-hill-pasar-geylang-serai: Este mercado húmedo y hawker centre ofrece una parada para curiosear y comer, con un ritmo distinto al de la mañana en la playa.
-  katong-katong-park: Un pequeño parque frondoso construido en torno a los restos de un fuerte ofrece un descanso breve y apacible para cerrar el día.
-  bugis-bugis-street: Cientos de puestos agrupados en callejuelas cubiertas ofrecen un animado inicio de día al estilo de mercado.
-  kampong-glam-sultan-mosque: La mezquita más grande de Singapur es el centro del distrito y una parada rápida e imprescindible antes de recorrer las calles de los alrededores.
-  kampong-glam-kampong-glam: Recorrer Bussorah Street, Arab Street y Haji Lane permite conocer mejor este histórico barrio malayo-musulmán.
-  kampong-glam-kampong-glam-cafe: Un plato rápido e informal en la peatonal Bussorah Street ofrece un final sencillo y sin prisas para el día.
+  marina-bay-gardens-by-the-bay: Este parque frente al mar marca el inicio de la mañana con su Supertree Grove y sus conservatorios climatizados, dejando tiempo suficiente para disfrutar tanto de lo mejor al aire libre como en interiores.
+  marina-bay-le-noir: Este bar-restaurante de ambiente sofisticado y lleno de arte, dentro de The Shoppes at Marina Bay Sands, resulta una parada de almuerzo diferente, con platos pequeños y cócteles.
+  bugis-supertree-grove: Volver a Gardens by the Bay a última hora de la tarde prepara el terreno para el espectáculo gratuito de luces y sonido Garden Rhapsody a medida que se acerca la noche.
+  kampong-glam-kampong-glam-cafe: Un plato rápido y económico en la peatonal Bussorah Street es una forma sencilla de cerrar el día mientras se observa el ambiente de una calle con historia.
+  bukit-timah-bukit-timah-nature-reserve-visitor-centre: Este centro de visitantes es la puerta de entrada al mayor tramo de selva primaria de Singapur, y merece una buena parte de la mañana antes de adentrarse en los senderos.
+  bukit-timah-bukit-timah-nature-reserve: La colina más alta de Singapur y sus senderos selváticos son una extensión natural de la tarde tras la visita al centro de visitantes contiguo.
+  dempsey-hill-singapore-botanic-gardens: Este amplio parque gratuito, declarado Patrimonio de la Humanidad por la UNESCO, ofrece un cierre de día más tranquilo y verde, con el National Orchid Garden y el circuito de Swan Lake como puntos destacados.
+  sentosa-skyline-luge-singapore: La combinación de telesilla y tobogán-luge es una forma llena de energía de comenzar el día en Sentosa, mejor aprovechada antes de que lleguen las multitudes.
+  sentosa-fiamma: Este elegante restaurante italiano dentro de Capella Singapore ofrece un almuerzo refinado y con servicio de mesa, lejos del bullicio de los beach clubs de Sentosa.
+  sentosa-sentosa-sensoryscape: Este jardín multisensorial y gratuito cobra vida al anochecer con su dosel de luces LED y sus jardines con nebulización, un cierre perfecto para un día en Sentosa.
+  katong-east-coast-park: Este largo tramo de playa ganada al mar está pensado para explorarse en bicicleta, sobre patines o disfrutando de marisco, lo que lo convierte en un buen punto de partida para la mañana.
+  dempsey-hill-pasar-geylang-serai: Este mercado húmedo y centro de puestos de comida ofrece un recorrido de tarde auténtico y centrado en la gastronomía en el distrito de Geylang Serai.
+  katong-katong-park: Este pequeño y frondoso parque, construido en torno al último vestigio visible del antiguo Fort Tomahawk, ofrece un final tranquilo y sencillo para el día.
+  kampong-glam-sultan-mosque: La mezquita más grande de Singapur es el punto de referencia de Kampong Glam y una visita breve y sencilla para comenzar el día antes de explorar las calles cercanas.
+  kampong-glam-malay-heritage-centre: Ubicado en el restaurado Istana Kampong Gelam, justo detrás de Sultan Mosque, ofrece una mirada más profunda al patrimonio malayo del barrio.
+  kampong-glam-kampong-glam: Pasear por Bussorah Street, Arab Street y Haji Lane completa el día con el arte callejero y las fachadas históricas del barrio.
 rainWhys: {}
 ---

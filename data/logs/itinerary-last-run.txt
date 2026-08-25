@@ -17,11 +17,8 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
 Hong Kong, Hong Kong — 56 qualifying post(s), variants: 3, 5
-  ~ Hong Kong 3d — minor structure change (2 slug diff), keeping existing prose
-  ⚠ Hong Kong 3d — validator found 3 prose-fixable issue(s); correcting once
-  ✅ Hong Kong 3d — updated
-  ~ Hong Kong 5d — minor structure change (1 slug diff), keeping existing prose
-  ✅ Hong Kong 5d — updated
+  = Hong Kong 3d — unchanged, skipping
+  = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -33,8 +30,7 @@ Singapore, Singapore — 49 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   ~ Singapore 5d — structure changed by 3 slug(s), regenerating prose
   ⚠ Singapore 5d — validator found 1 prose-fixable issue(s); correcting once
-VALIDATE-FAILED singapore-5-days.md — 1 issue(s):
-  • PROSE-LEAK: singapore-5-days.md — itinerary[0].intro
+  ✅ Singapore 5d — updated
 
 Done.
 
