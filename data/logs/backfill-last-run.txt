@@ -1,35 +1,29 @@
 Places 예산: backfill 몫 25회 (오늘 사용 16/100)
 Priority: 129 itinerary stop(s) queued first
-  – dempsey-hill-pasar-geylang-serai.md: nothing new (resting 60d)
-  – paris-shwi.md: nothing new (resting 60d)
-  ✓ phuket-hug-street-food-kata-phuket.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayBusy: dropped 21h (venue not open then); weekendBusy: dropped 21h (venue not open then)
-  ✓ ras-al-khaimah-m14-cafe.md +phone +7h hours
-  ✓ ras-al-khaimah-rukn-al-falafel-cafeteria.md +phone +7h hours
-  ✓ rome-luna.md +phone +7h hours
-  ✓ sai-kung-28-restaurant.md +phone +7h hours
-  ✓ san-sebastian-bar-txepetxa.md +phone +7h hours
-  ✓ sapporo-mermaid-coffee-roasters.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
-  – seattle-pike-place-market.md: nothing new (resting 60d)
-  – seoul-ikseon-dong.md: nothing new (resting 60d)
-  ✓ sharjah-tpt-by-late.md +phone +7h hours
-  – singapore-changi-village-hawker-centre.md: nothing new (resting 60d)
-  ✓ singapore-smash-street.md +7h hours
-  ✓ sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken.md +phone +7h hours
-  ✓ surabaya-black-owl-surabaya.md +phone +7h hours
-  ✓ surabaya-blue-doors-surabaya.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ surabaya-depot-bu-rudy-dharmahusada.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
-  ✓ suwon-cafe-diaz.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ taipei-sansan-bistro.md +phone +7h hours
-  – tiong-bahru-tiong-bahru-market.md: nothing new (resting 60d)
-  ✓ yeosu-bokchun-restaurant.md +phone +7h hours
-  ✓ yogyakarta-blanco-coffee-and-books.md +phone +7h hours
-  ✓ yogyakarta-the-tree-restaurant-yogyakarta.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then) — nothing left
-  – agra-agra-fort.md: nothing new (resting 60d)
+  – jordan-petra.md: nothing new (resting 60d)
+  – sheung-wan-hollywood-road-park.md: nothing new (resting 60d)
+  – singapore-smash-street.md: nothing new (resting 60d)
+  – ajman-ajman-secret-beach.md: nothing new (resting 60d)
+  – al-barsha-dubai-gold-souk.md: nothing new (resting 60d)
+  – antalya-hadrian-s-gate.md: nothing new (resting 60d)
+  – avignon-place-du-palais.md: nothing new (resting 60d)
+  – baguio-baguio-city-market.md: nothing new (resting 60d)
+  – bohol-philippine-tarsier-sanctuary.md: nothing new (resting 60d)
+  – boracay-i-love-boracay.md: nothing new (resting 60d)
+  – bordeaux-miroir-d-eau.md: nothing new (resting 60d)
+  – bukhara-bukhara-tower.md: nothing new (resting 60d)
+  – bukhara-toqi-zargaron.md: nothing new (resting 60d)
+  – busan-huinnyeoul-culture-village.md: nothing new (resting 60d)
+  – can-tho-cai-rang-market.md: nothing new (resting 60d)
+  – cannes-vue-depuis-le-suquet.md: nothing new (resting 60d)
+  – central-central-mid-levels-escalators.md: nothing new (resting 60d)
+  – clarke-quay-clarke-quay-jetty.md: nothing new (resting 60d)
+  – coron-twin-lagoon.md: nothing new (resting 60d)
+  – downtown-dubai-the-dubai-fountain.md: nothing new (resting 60d)
+  – dubai-love-lake.md: nothing new (resting 60d)
+  – dubai-marina-marina-walk.md: nothing new (resting 60d)
+  – el-nido-small-lagoon.md: nothing new (resting 60d)
+  – goa-goa-market.md: nothing new (resting 60d)
+  – granada-mirador-de-san-nicolas.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 18, backlog-updated 18, already-complete 268, no-new-data 54, no-place 100, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 378 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 332, no-new-data 76, no-place 104, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 360 (APPLIED).
