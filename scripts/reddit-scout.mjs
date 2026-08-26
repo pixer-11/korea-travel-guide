@@ -90,7 +90,18 @@ if (!candidates.length) process.exit(0);
 
 // ── 2) draft answers for the best few ────────────────────────
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-const picked = candidates.slice(0, 8);
+// Round-robin across subreddits before the cut. Candidates arrive in SUBS
+// order and r/JapanTravel(+Tips) alone fills the first eight most days, so
+// every card was Japanese while koreatravel/ThailandTourism posts sat right
+// behind the slice (owner noticed 2026-08-26) — the same ordering starvation
+// the publish queue had with restaurants. One per sub, in turn, then the cut.
+const bySub = new Map();
+for (const c of candidates) { if (!bySub.has(c.sub)) bySub.set(c.sub, []); bySub.get(c.sub).push(c); }
+const interleaved = [];
+while (interleaved.length < candidates.length) {
+  for (const list of bySub.values()) { if (list.length) interleaved.push(list.shift()); }
+}
+const picked = interleaved.slice(0, 8);
 const cards = [];
 for (const p of picked) {
   if (cards.length >= MAX_CARDS) break;
