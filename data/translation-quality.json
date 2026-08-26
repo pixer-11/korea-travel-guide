@@ -28873,5 +28873,89 @@
   "registerBreak": false,
   "worst": "请把瓦布寺当作一处仍在使用的宗教场所来对待，因为它本身正是如此。",
   "at": "2026-08-25T09:20:24.677Z"
+ },
+ "es/bali-bali-botanical-garden": {
+  "hash": "273db734dbbe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las taquillas suelen aceptar solo efectivo en rupias indonesias; el pago con tarjeta no está garantizado, así",
+  "at": "2026-08-26T08:29:12.058Z"
+ },
+ "es/bali-pura-tirta-empul": {
+  "hash": "7b9ef24585a0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El pago de la ent",
+  "at": "2026-08-26T08:29:15.459Z"
+ },
+ "es/clarke-quay-tan-si-chong-su-temple": {
+  "hash": "f6d3b028e691",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "No es fácil toparse por casualidad con Tan Si Chong Su.",
+  "at": "2026-08-26T08:29:24.725Z"
+ },
+ "ja/bali-bali-botanical-garden": {
+  "hash": "06d03fd290dc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "もはや静かな穴場ではありません。レビュー数は18,000件を大きく超え、非常に人気の高いスポットとして…",
+  "at": "2026-08-26T08:29:27.453Z"
+ },
+ "ja/bali-pura-tirta-empul": {
+  "hash": "391c5dec3611",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "石の吐水口の下で頭を垂れる人々の姿——ガイドブックで見かけるあの写真は、まさにここプラ・ティルタ・ウンプルで撮られたものです。",
+  "at": "2026-08-26T08:29:31.609Z"
+ },
+ "ja/clarke-quay-tan-si-chong-su-temple": {
+  "hash": "bbb1f785ee52",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "クラークキーを訪れる旅行者の多くにとって、この廟はまだあまり知られていないため、団体観光客と鉢合わせすることはほとんどありません。",
+  "at": "2026-08-26T08:29:40.577Z"
+ },
+ "ko/bali-bali-botanical-garden": {
+  "hash": "9e5075e3c9a4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "습한 숲길을 지나온 뒤라 오히려 낯설게 느껴지는 사막 분위기의 선인장·다육식물 정원",
+  "at": "2026-08-26T08:29:53.058Z"
+ },
+ "ko/bali-pura-tirta-empul": {
+  "hash": "303d33c78187",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "넓고 유리처럼 맑은 이 못을 들여다보면 물속에 잠긴 동전과 공물 위를 떠다니는 물고기들이 보일 정도입니다.",
+  "at": "2026-08-26T08:29:56.731Z"
+ },
+ "ko/clarke-quay-tan-si-chong-su-temple": {
+  "hash": "2998e6dfb55a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "화강암 기둥과 조각된 처마가 최근에 지어진 건물들 사이에서 거의 불쑥 나타나듯 눈에 들어옵니다.",
+  "at": "2026-08-26T08:30:07.541Z"
+ },
+ "zh/bali-bali-botanical-garden": {
+  "hash": "7c29eba91358",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于经过贝杜古一带没有实用的公共巴士网络，大多数游客选择包车或雇司机前往。",
+  "at": "2026-08-26T08:30:18.660Z"
+ },
+ "zh/bali-pura-tirta-empul": {
+  "hash": "05181776a8c8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里就是巴厘岛的圣泉寺，游客在石制水口下低头沐浴的经典照片，拍的正是这个地方。",
+  "at": "2026-08-26T08:30:28.378Z"
+ },
+ "zh/clarke-quay-tan-si-chong-su-temple": {
+  "hash": "b84a62306181",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "不必把它当作行程中的重头戏，只当作河畔行程间的一次小小停留，它自然而然就值得被写进你的行程单里。",
+  "at": "2026-08-26T08:30:35.958Z"
  }
 }

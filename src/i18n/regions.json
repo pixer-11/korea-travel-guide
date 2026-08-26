@@ -8384,5 +8384,32 @@
       "getting": "桑蒙多隆没有铁路,也没有可供商业航班起降的机场,因此游客只能通过陆路前往。大巴和小巴从金边出发,沿着如今已全线铺设完毕的公路行驶,车程大约6至7小时;此外,也可以经桔井(Kratie)或Snuol等区域枢纽转乘,不过耗时会更长一些。",
       "days": "大多数游客会在桑蒙多隆及周边地区停留约2至3天,时间足以参观一处大象保护区、徒步前往一两处瀑布,并探索周围的丘陵地带,然后再启程前往下一站。"
     }
+  },
+  "Poipet": {
+    "en": {
+      "blurb": "Poipet is Cambodia's chaotic western gateway, a sprawl of casinos, markets and transit touts built almost entirely around its role as the country's busiest overland border crossing with Thailand. Few travelers linger here by choice — it exists to be passed through on the way to Siem Reap, Battambang or Phnom Penh.",
+      "getting": "There's no functioning airport in Poipet itself, so most travelers arrive overland, walking across the border from Aranyaprathet, Thailand, then continuing by bus or shared taxi to Cambodia's interior; Poipet's railway station is the western terminus of Cambodia's rail network, though cross-border passenger service to Thailand has been intermittent. The nearest usable airports are Suvarnabhumi (BKK) in Bangkok or Phnom Penh International further inside Cambodia.",
+      "days": "Plan for well under a full day here — Poipet is a border-crossing waypoint, not a destination, and most travelers clear immigration and move on to their next stop within a few hours."
+    },
+    "ko": {
+      "blurb": "포이펫은 캄보디아 서쪽의 혼돈스러운 관문 도시로, 태국과의 국경을 넘는 캄보디아 최대의 육로 통행지 역할을 중심으로 카지노와 시장, 그리고 손님을 끌어모으는 교통 브로커들이 뒤섞여 형성된 곳이다. 이곳에 일부러 머무르는 여행자는 거의 없다 — 포이펫은 시엠립, 바탐방, 프놈펜으로 가는 길에 그저 거쳐 지나가는 곳일 뿐이다.",
+      "getting": "포이펫에는 운영 중인 공항이 없어서 대부분의 여행자는 육로로 이곳에 도착한다. 태국 아란야프라텟에서 국경을 걸어서 넘은 뒤, 버스나 합승 택시를 타고 캄보디아 내륙으로 이동하는 방식이다. 포이펫 기차역은 캄보디아 철도망의 서쪽 끝 종착역이지만, 태국으로 넘어가는 국경 간 여객 열차 운행은 불규칙적으로 이루어지고 있다. 가장 가까운 이용 가능한 공항은 방콕의 수완나품 국제공항(BKK)이나, 캄보디아 내륙 쪽에 있는 프놈펜 국제공항이다.",
+      "days": "하루를 통째로 쓸 필요는 전혀 없다 — 포이펫은 목적지가 아니라 국경을 넘기 위해 거쳐 가는 경유지일 뿐이며, 대부분의 여행자는 몇 시간 안에 입국 수속을 마치고 다음 목적지로 이동한다."
+    },
+    "ja": {
+      "blurb": "ポイペトは、カンボジア西部の混沌とした玄関口だ。カジノ、市場、そして客引きが所狭しとひしめき合うこの町の存在意義は、ほぼひとえにタイとの間で最も往来の多い陸路国境という役割にある。好んでここに長居する旅行者はほとんどいない――シェムリアップ、バッタンバン、あるいはプノンペンへ向かう途中に通過するだけの場所なのだ。",
+      "getting": "ポイペト自体に機能する空港はないため、ほとんどの旅行者は陸路で訪れる。タイ側のアランヤプラテートから国境を歩いて越え、その後バスや乗合タクシーでカンボジア内陸部へと向かうのが一般的なルートだ。ポイペト駅はカンボジア鉄道網の西の終着駅にあたるが、タイとの国境を越える旅客サービスは断続的にしか運行されていない。利用可能な最寄り空港は、バンコクのスワンナプーム国際空港(BKK)、あるいはカンボジア内陸のプノンペン国際空港となる。",
+      "days": "滞在は丸一日もかからない程度に見積もっておこう。ポイペトは目的地ではなく国境越えの中継地点であり、ほとんどの旅行者は入国審査を済ませたら数時間以内に次の目的地へと移動していく。"
+    },
+    "es": {
+      "blurb": "Poipet es la caótica puerta de entrada occidental de Camboya, una extensión urbana de casinos, mercados y buscavidas del transporte, construida casi por completo alrededor de su papel como el cruce fronterizo terrestre más transitado del país con Tailandia. Pocos viajeros se quedan aquí por gusto: su razón de ser es que la gente la atraviese en su camino hacia Siem Reap, Battambang o Phnom Penh.",
+      "getting": "Poipet no cuenta con un aeropuerto en funcionamiento, por lo que la mayoría de los viajeros llegan por vía terrestre, cruzando la frontera a pie desde Aranyaprathet, Tailandia, y continuando luego en autobús o taxi compartido hacia el interior de Camboya. La estación de tren de Poipet es la terminal occidental de la red ferroviaria camboyana, aunque el servicio de pasajeros transfronterizo hacia Tailandia ha sido intermitente. Los aeropuertos útiles más cercanos son el Suvarnabhumi (BKK) en Bangkok o el Aeropuerto Internacional de Phnom Penh, ya más adentro de Camboya.",
+      "days": "Basta con dedicarle mucho menos de un día completo: Poipet es un punto de paso fronterizo, no un destino en sí, y la mayoría de los viajeros pasan por inmigración y siguen hacia su próxima parada en cuestión de horas."
+    },
+    "zh": {
+      "blurb": "波贝是柬埔寨西部一个混乱喧嚣的门户小城,遍布赌场、市场和拉客的中转黄牛,几乎完全是因为它是该国与泰国之间最繁忙的陆路边境口岸而存在。很少有旅行者会主动选择在这里多做停留——它的存在意义,就是让人从这里通过,前往暹粒、马德望或金边。",
+      "getting": "波贝本身没有可用的机场,因此大多数旅行者都是走陆路抵达:先从泰国的阿兰亚廊步行跨过边境,再转乘巴士或共乘出租车前往柬埔寨内陆地区;波贝火车站是柬埔寨铁路网的西部终点站,不过跨境往泰国的客运列车服务时断时续,并不稳定。距离这里最近的可用机场,是曼谷的素万那普机场(BKK),或是位于柬埔寨内陆更深处的金边国际机场。",
+      "days": "在这里停留的时间,建议远远不到一整天——波贝只是一个边境中转点,不是旅行目的地,大多数旅行者办完出入境手续后,几个小时内就会启程前往下一站。"
+    }
   }
 }

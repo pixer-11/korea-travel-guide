@@ -1,49 +1,48 @@
 ---
 lang: es
 slug: hong-kong-5-days
-sourceHash: c4abbade015089a5724cfd7bee565951bef9f866
-title: 'Itinerario de 5 días en Hong Kong: la bahía, el Buda de Lantau, Sai Kung y The Peak'
-description: Un itinerario de 5 días por Hong Kong que va desde el paseo marítimo de Tsim Sha Tsui hasta los jardines y templos de Sha Tin, el Buda de la isla de Lantau, el pueblo pesquero de Sai Kung, y termina en lo alto de The Peak.
-quickAnswer: Este es un itinerario de 5 días por Hong Kong que comienza en el paseo marítimo de Tsim Sha Tsui, continúa hacia Diamond Hill y los jardines y templos de Sha Tin, cruza a la isla de Lantau para ver el Buda y el monasterio con una tarde-noche en Kennedy Town, dedica un día al pueblo pesquero de Sai Kung, y cierra con Disneyland, una playa en Lantau y un mirador en The Peak.
+sourceHash: a283525add91869289d75f9fa7362c8c4081e263
+title: 'Itinerario de 5 días por Hong Kong: el paseo marítimo, el Buda de Lantau, Disneyland y los templos de Sha Tin'
+description: Un itinerario de 5 días por Hong Kong que va desde el paseo marítimo de Tsim Sha Tsui y los cha chaan tengs de Jordan hasta los templos y jardines de los Nuevos Territorios, el Gran Buda de la isla de Lantau, Disneyland y sus playas, y el monasterio en la colina de Sha Tin hasta llegar a Sheung Wan.
+quickAnswer: Este itinerario de 5 días por Hong Kong recorre el paseo marítimo de Tsim Sha Tsui y un cha chaan teng de Jordan el primer día, templos, un paseo fluvial y jardines de los Nuevos Territorios el segundo día, el Buda Tian Tan de la isla de Lantau y el paseo marítimo de Kennedy Town el tercer día, Disneyland, la playa de Mui Wo y The Peak el cuarto día, y termina con el monasterio en la colina de Sha Tin y Sheung Wan el quinto día.
 faq:
-  - q: ¿Cómo debería moverme durante este itinerario de 5 días por Hong Kong?
-    a: Los días están organizados en torno a conexiones de transporte entre zonas —por ejemplo, cruzando de Diamond Hill a Sha Tin, o desde el pueblo de Sai Kung hasta Cha Liu Au—, así que apoyarse en trenes, autobuses y algún que otro taxi funciona mejor que intentar ir caminando de una zona a otra.
+  - q: ¿Cómo debería moverme durante este itinerario de 5 días?
+    a: Los días se reparten entre zonas como Tsim Sha Tsui, Jordan, Admiralty, Sha Tin, Diamond Hill, la isla de Lantau, Kennedy Town, Mui Wo, The Peak y Sheung Wan, y varias paradas están señaladas como demasiado alejadas entre sí para ir a pie, por lo que el transporte público es la forma principal de enlazar las paradas dentro de un mismo día.
   - q: ¿Qué día implica más caminata o subidas?
-    a: El día tres, con la escalinata del Buda Tian Tan en la isla de Lantau, y el día dos, con la subida al Monasterio de los Diez Mil Budas en Sha Tin, son los que claramente implican más caminata en subida que el resto de los días.
-  - q: ¿Este itinerario tiene más paradas al aire libre o bajo techo?
-    a: Se inclina hacia lo exterior y lo costero —paseos junto al puerto, jardines, una playa y templos en colinas—, por lo que cada día también incluye una alternativa para días de lluvia por si el clima cambia.
-  - q: ¿Necesito reservar algo con antelación?
-    a: El itinerario señala que conviene reservar en línea las entradas de Hong Kong Disneyland del día cinco con antelación a una fecha concreta; el resto de las paradas no requieren reserva previa.
-  - q: ¿Cuánto tiempo debería reservar para el día de la isla de Lantau?
-    a: El día tres está organizado en torno al Buda Tian Tan y el Monasterio Po Lin, que juntos se describen como un compromiso de medio día, antes de cruzar a Kennedy Town para una parada nocturna más breve.
+    a: El Buda Tian Tan del día tres tiene un célebre tramo de escalones hasta la estatua de bronce, y el día cinco empieza con una subida empinada hacia el Monasterio de los Diez Mil Budas, así que llevar calzado cómodo es importante en ambos días.
+  - q: ¿Este itinerario tiene mucho tiempo al aire libre?
+    a: 'Sí: desde el paseo de la Avenida de las Estrellas y el puerto de Victoria el día uno, hasta las paradas junto al río y en los jardines el día dos, la playa y los miradores de Lantau los días tres y cuatro, y las paradas en la colina y el parque el día cinco, la mayoría de los días incluyen bastante tiempo al aire libre.'
+  - q: ¿Cuál es el mejor momento del día para visitar las paradas más concurridas?
+    a: Lugares como la Avenida de las Estrellas, el Jardín Nan Lian, el Buda Tian Tan y el Monasterio Po Lin, la Playa de Silvermine Bay y el Parque Hollywood Road se señalan como más tranquilos temprano en el día, así que visitarlos primero ayuda a evitar las horas de más gente.
+  - q: ¿Qué pasa si llueve durante el viaje?
+    a: Cada día tiene una alternativa indicada para días de lluvia —un cambio bajo techo, como un museo, una cafetería o un edificio histórico—, de modo que el itinerario puede adaptarse al clima sin perder la estructura del día.
 days:
-  - label: Íconos del paseo marítimo en Tsim Sha Tsui
-    intro: El día uno se mantiene cerca del puerto Victoria, comenzando en el paseo marítimo de Tsim Sha Tsui antes de una desviación a Jordan para almorzar. La tarde y la noche regresan al puerto para disfrutar de vistas del horizonte y el paseo marítimo después del anochecer.
-  - label: Jardines y templos en la colina
-    intro: El día dos avanza desde el Jardín Nan Lian, de estilo Tang, en Diamond Hill, hasta Sha Tin, siguiendo el río Shing Mun antes de subir al Monasterio de los Diez Mil Budas.
-  - label: El Buda de Lantau y un atardecer en Kennedy Town
-    intro: El día tres gira en torno al Buda y el monasterio en lo alto de la isla de Lantau, y luego cruza a Kennedy Town para cerrar el día con un tramo de costa más tranquilo.
-  - label: El ritmo del pueblo pesquero de Sai Kung
-    intro: El día cuatro se centra en Sai Kung, con un cruce a mediodía hacia el Jordan Valley Park en Cha Liu Au antes de regresar al pueblo de Sai Kung para la noche.
-  - label: Disneyland, una playa y The Peak
-    intro: El día cinco comienza en la isla de Lantau en Hong Kong Disneyland, continúa hacia la playa de Silvermine Bay en Mui Wo, y termina en lo alto de la ciudad, en The Peak.
+  - label: Primeras impresiones del paseo marítimo
+    intro: El primer día comienza en el paseo marítimo de Tsim Sha Tsui antes de un almuerzo clásico en un cha chaan teng de Jordan, para terminar de vuelta en el puerto cerca de Admiralty mientras la ciudad se ilumina. Es una introducción sencilla que combina los íconos de Hong Kong con una de sus comidas económicas más queridas.
+  - label: Templos, paseo fluvial y jardines
+    intro: El segundo día se dirige a los Nuevos Territorios, empezando por un templo en funcionamiento en Sha Tin antes de estirar las piernas junto al río Shing Mun. Desde allí se continúa hacia el Jardín Nan Lian, de estilo Tang, en Diamond Hill, para luego volver a Sha Tin y hacer una parada para tomar café dentro del complejo del Museo del Patrimonio.
+  - label: El Gran Buda de Lantau y el paseo marítimo occidental
+    intro: 'El tercer día gira en torno al mayor ícono de la isla de Lantau: el Buda Tian Tan y el vecino Monasterio Po Lin ocupan una buena parte del día. La jornada cierra con un cambio de ritmo en el Parque Belcher Bay, en el paseo marítimo de Kennedy Town.'
+  - label: Disney, arena de playa y vistas desde The Peak
+    intro: El cuarto día alterna entre dos caras muy distintas de la isla de Lantau, comenzando en Hong Kong Disneyland antes de pasar a la arena relajada de la Playa de Silvermine Bay, en Mui Wo. El día termina en The Peak, con un mirador al aire libre sobre el horizonte del puerto.
+  - label: Santuarios en la colina hasta el viejo Sheung Wan
+    intro: El quinto día comienza con una subida empinada hacia el Monasterio de los Diez Mil Budas de Sha Tin, y continúa hacia la pequeña y tranquila calma escalonada del Parque Hollywood Road, en Sheung Wan. La parada de la noche es Petra.
 whys:
-  central-avenue-of-stars-hk: Este paseo marítimo de Tsim Sha Tsui reúne la estatua de Bruce Lee y las placas con las huellas de manos del cine en un inicio de día sencillo e icónico.
-  jordan-australia-dairy-company: Un legendario cha chaan teng en Jordan conocido por sus tortillas de clara al vapor bien esponjosas y su servicio de barra ágil y económico, lo que lo convierte en una parada de almuerzo memorable.
-  hong-kong-victoria-harbour: La pieza central del puerto de Hong Kong ofrece una vista clásica del horizonte y el espectáculo nocturno Symphony of Lights, que se disfruta mejor desde el lado de Admiralty.
-  tsim-sha-tsui-tsim-sha-tsui-promenade: Este paseo marítimo gratuito mira hacia el horizonte de la isla de Hong Kong y redondea la noche con la Avenue of Stars y el espectáculo Symphony of Lights muy cerca.
-  hong-kong-nan-lian-garden: Un parque de estilo Tang con salones de tonos dorados y un estanque de lotos en Diamond Hill, que ofrece un inicio de día tranquilo y fotogénico.
-  sha-tin-shing-mun-river-promenade-garden-no-1: Un tramo junto al río en Sha Tin, ideal para estirar un poco las piernas entre el jardín y la subida al monasterio.
-  sha-tin-ten-thousand-buddhas-monastery: Un monasterio en la colina sobre Sha Tin al que se llega por una escalinata flanqueada por cientos de estatuas doradas de Buda, una recompensa que vale la subida.
-  sha-tin-the-alchemist-cafe-shatin: Un lugar de moda valorado con 4 por los visitantes, incluido como parada en esta ruta.
-  lantau-island-tian-tan-buddha: Un gigantesco Buda de bronce en lo alto de la meseta de Ngong Ping, en la isla de Lantau, al que se llega en teleférico y subiendo una escalinata de más de 260 escalones.
-  hong-kong-po-lin-monastery: Un monasterio en la isla de Lantau junto al Buda Tian Tan, que vale la pena combinar con la visita al Buda para dedicar medio día completo a la meseta.
-  kennedy-town-belcher-bay-park: Una estrecha franja de costa arbolada en Kennedy Town, ideal para disfrutar de un atardecer sobre el puerto y cerrar el día.
-  sai-kung-sai-kung-public-pier: El corazón marítimo del pueblo de Sai Kung, donde los sampanes y los tanques de mariscos marcan el tono costero del día.
-  jordan-jordan-valley-park: Un jardín en Cha Liu Au con un despliegue de buganvillas, un laberinto de setos y una pista de autos a escala, un cambio de ritmo entre las paradas de Sai Kung.
-  sai-kung-sai-kung-town: Un antiguo pueblo pesquero convertido en un paseo de restaurantes de mariscos y muelles de sampanes, un cierre acertado para el día cerca del embarcadero.
-  hong-kong-hong-kong-disneyland: Un parque temático en la isla de Lantau, al que se llega mediante la línea dedicada Disneyland Resort Line, y que marca el centro del día.
-  lantau-island-silvermine-bay-beach: Un tramo de arena relajado en Mui Wo, en la isla de Lantau, ideal para nadar y pasear por el paseo marítimo.
-  hong-kong-victoria-peak-lookout-point: Un mirador al aire libre cerca de la cima de The Peak, más tranquilo que la terraza con entrada y igual de espectacular sobre el puerto.
+  central-avenue-of-stars-hk: Este paseo marítimo en Tsim Sha Tsui es una parada fundamental de Hong Kong, con la estatua de Bruce Lee y las placas con las huellas de las manos de estrellas de cine justo junto al agua.
+  jordan-australia-dairy-company: Un legendario cha chaan teng de Jordan conocido por sus tortillas de clara de huevo al vapor y sus huevos revueltos con tostadas, esta es una parada de almuerzo clásica y económica.
+  hong-kong-victoria-harbour: La vista icónica del horizonte de Hong Kong, mejor apreciada al atardecer desde el lado de Admiralty, cierra el primer día con broche de oro.
+  sha-tin-sha-tin-che-kung-temple: Un templo chino en funcionamiento en Sha Tin, de fácil acceso por la línea East Rail, es una manera tranquila y sencilla de comenzar el segundo día.
+  sha-tin-shing-mun-river-promenade-garden-no-1: Este tramo junto al río en Sha Tin es una buena forma de estirar las piernas entre el templo y los jardines que siguen, con espacio para caminar junto al agua.
+  hong-kong-nan-lian-garden: Un jardín de estilo Tang con salones dorados y un estanque de lotos en Diamond Hill, esta parada destacada y muy fotogénica merece casi toda la tarde.
+  sha-tin-the-alchemist-cafe-shatin: Una cafetería luminosa y llena de plantas dentro del complejo del Museo del Patrimonio de Sha Tin, es una forma relajada de terminar el segundo día con un café.
+  lantau-island-tian-tan-buddha: El gigantesco Buda de bronce en la meseta de Ngong Ping, en la isla de Lantau, es uno de los mayores íconos de Hong Kong, al que se llega en teleférico o en autobús.
+  hong-kong-po-lin-monastery: Justo al lado del Buda Tian Tan en la isla de Lantau, este monasterio completa una media jornada dedicada a los atractivos de Ngong Ping.
+  kennedy-town-belcher-bay-park: Una franja de paseo marítimo con sombra de árboles en Kennedy Town, es una forma suave y relajada de cerrar el tercer día con una puesta de sol sobre el puerto.
+  hong-kong-hong-kong-disneyland: Hong Kong Disneyland, en la isla de Lantau, es el eje del cuarto día, con sus siete zonas temáticas accesibles mediante la línea dedicada Disneyland Resort Line.
+  lantau-island-silvermine-bay-beach: Esta playa relajada en Mui Wo, a la que se llega en ferry, ofrece zona de baño y un paseo marítimo para la mitad del día.
+  hong-kong-victoria-peak-lookout-point: Un mirador al aire libre y gratuito cerca de la cima de The Peak, este lugar ofrece vistas espectaculares del horizonte para cerrar el cuarto día.
+  sha-tin-ten-thousand-buddhas-monastery: Un monasterio en la colina sobre Sha Tin, flanqueado por cientos de estatuas doradas de Buda a lo largo de la subida, es una forma memorable de abrir el quinto día.
+  sheung-wan-hollywood-road-park: Un pequeño parque escalonado en Sheung Wan con estanques ornamentales y una puerta luna, es una pausa tranquila entre paradas turísticas.
+  jordan-petra: Petra cierra el quinto día como parada de la noche, con la entrada al desfiladero del Siq y El Tesoro entre sus puntos destacados.
 rainWhys: {}
 ---

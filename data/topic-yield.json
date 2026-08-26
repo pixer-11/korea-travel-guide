@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 83,
-   "hits": 46
+   "attempts": 97,
+   "hits": 58
   },
   "park": {
-   "attempts": 73,
-   "hits": 39
+   "attempts": 79,
+   "hits": 43
   },
   "viewpoint": {
    "attempts": 51,
@@ -50,7 +50,7 @@
    "hits": 0
   },
   "seafood": {
-   "attempts": 29,
+   "attempts": 31,
    "hits": 2
   },
   "hidden gem": {
@@ -118,5 +118,5 @@
    "hits": 0
   }
  },
- "updated": "2026-08-25T09:17:28.826Z"
+ "updated": "2026-08-26T08:22:18.751Z"
 }
