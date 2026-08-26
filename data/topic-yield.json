@@ -6,8 +6,8 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 97,
-   "hits": 58
+   "attempts": 100,
+   "hits": 61
   },
   "park": {
    "attempts": 79,
@@ -30,8 +30,8 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 115,
-   "hits": 66
+   "attempts": 123,
+   "hits": 69
   },
   "noodles": {
    "attempts": 14,
@@ -50,7 +50,7 @@
    "hits": 0
   },
   "seafood": {
-   "attempts": 31,
+   "attempts": 32,
    "hits": 2
   },
   "hidden gem": {
@@ -62,7 +62,7 @@
    "hits": 2
   },
   "trendy cafe": {
-   "attempts": 53,
+   "attempts": 54,
    "hits": 2
   },
   "street food": {
@@ -74,7 +74,7 @@
    "hits": 0
   },
   "bar": {
-   "attempts": 6,
+   "attempts": 16,
    "hits": 0
   },
   "vegetarian": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 7,
-   "hits": 1
+   "attempts": 10,
+   "hits": 2
   },
   "grill": {
    "attempts": 4,
@@ -116,7 +116,43 @@
   "Phnom Sampeau": {
    "attempts": 1,
    "hits": 0
+  },
+  "La Plantation Pepper Farm": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Tuol Sleng Genocide Museum": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Bayon Temple": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Ta Prohm": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Wat Phnom": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Banteay Srei": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Central Market Phsar Thmei": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Angkor Thom South Gate": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "National Museum of Cambodia": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-08-26T08:22:18.751Z"
+ "updated": "2026-08-26T09:43:09.342Z"
 }

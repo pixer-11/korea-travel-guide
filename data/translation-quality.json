@@ -28957,5 +28957,89 @@
   "registerBreak": false,
   "worst": "不必把它当作行程中的重头戏，只当作河畔行程间的一次小小停留，它自然而然就值得被写进你的行程单里。",
   "at": "2026-08-26T08:30:35.958Z"
+ },
+ "es/battambang-banan-temple": {
+  "hash": "8ca6cdce4a7c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-26T09:49:19.162Z"
+ },
+ "es/kampot-green-cathedral": {
+  "hash": "340c40b726aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es un contraste tranquilo frente a los bares junto al río y los recorridos por plantaciones...",
+  "at": "2026-08-26T09:49:21.840Z"
+ },
+ "es/kampot-la-plantation": {
+  "hash": "7062c2fca53d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "cuenta con unos 20 a 30 minutos, según el punto de partida",
+  "at": "2026-08-26T09:49:27.280Z"
+ },
+ "ja/battambang-banan-temple": {
+  "hash": "601876bb5ff2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "アンコールワットより古い塔の間に人影もなく静かに立ち、眼下に広がる緑の谷を眺める。",
+  "at": "2026-08-26T09:49:29.632Z"
+ },
+ "ja/kampot-green-cathedral": {
+  "hash": "2e31d9dc7047",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "知る人はまだ少なく、それこそがこの場所の魅力です。団体客を避けながら、ゆっくりと歩くことができます。",
+  "at": "2026-08-26T09:49:31.713Z"
+ },
+ "ja/kampot-la-plantation": {
+  "hash": "06ef2264a218",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "チップは必須ではありませんが、ガイドやウェイターへの心付けとして金額を切り上げて渡すのは、ここではよく見られる習慣として喜ばれます。",
+  "at": "2026-08-26T09:49:34.207Z"
+ },
+ "ko/battambang-banan-temple": {
+  "hash": "374fc49a3775",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "규모가 작고 조용한, 마치 세월의 손길에 그대로 맡겨진 앙코르 와트의 사촌 같은 모습입니다.",
+  "at": "2026-08-26T09:49:36.736Z"
+ },
+ "ko/kampot-green-cathedral": {
+  "hash": "041b127b3ddc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳 자체가 목적지라기보다는 짧게 들르는 곳에 가깝기 때문에, 대부분의 방문객은 이곳을 반나절을 통째로 투자하는 여행지",
+  "at": "2026-08-26T09:49:39.284Z"
+ },
+ "ko/kampot-la-plantation": {
+  "hash": "45061e9a5cd4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "라 플랜테이션으로 향하는 길은 도착하기 한참 전부터 붉은 흙길로 바뀌는데, 이것만 봐도 시골 깊숙한 곳으로...",
+  "at": "2026-08-26T09:49:48.176Z"
+ },
+ "zh/battambang-banan-temple": {
+  "hash": "7ea3901e5eb7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "看上去就像是吴哥窟一个更小、更安静的\"表亲\"，被遗留在风雨之中，任凭岁月侵蚀",
+  "at": "2026-08-26T09:49:53.798Z"
+ },
+ "zh/kampot-green-cathedral": {
+  "hash": "f543aade32fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里和贡布河边的酒吧、胡椒农场之旅形成了鲜明的静谧对比。",
+  "at": "2026-08-26T09:50:03.407Z"
+ },
+ "zh/kampot-la-plantation": {
+  "hash": "7c656cf84c91",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在世界各地厨师中，磅逊胡椒素以柑橘般的辛辣和复杂香气闻名。",
+  "at": "2026-08-26T09:50:13.407Z"
  }
 }

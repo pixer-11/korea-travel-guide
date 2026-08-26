@@ -12980,5 +12980,71 @@
     "verdict": "MATCH",
     "reason": "publish gate: Plausible entrance plaza view of Ocean Expo Park",
     "at": "2026-08-26T08:20:44.627Z"
+  },
+  "kep-angkor-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Angkor_National_Museum_%28II%29.jpg/3840px-Angkor_National_Museum_%28II%29.jpg": {
+    "slug": "kep-angkor-national-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Courtyard pool with Khmer-style architecture matches museum's design",
+    "at": "2026-08-26T09:28:47.911Z"
+  },
+  "kampot-la-plantation\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg/3840px-03-La_Plantation_Pepper_Farm%2C_Kampot_Province-nX-1.jpg": {
+    "slug": "kampot-la-plantation",
+    "verdict": "MATCH",
+    "reason": "publish gate: Drying palm leaves at plantation, representative rural scene",
+    "at": "2026-08-26T09:29:52.779Z"
+  },
+  "battambang-banan-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Phnom_Banan_temple_2.jpg/3840px-Phnom_Banan_temple_2.jpg": {
+    "slug": "battambang-banan-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer temple tower matches Banan Temple appearance",
+    "at": "2026-08-26T09:30:36.226Z"
+  },
+  "phnom-penh-choeung-ek-genocidal-center\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/1920px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG": {
+    "slug": "phnom-penh-choeung-ek-genocidal-center",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic stupa memorial building at Choeung Ek genocidal center",
+    "at": "2026-08-26T09:31:59.405Z"
+  },
+  "phnom-penh-wat-phnom-daun-penh\u0001https://upload.wikimedia.org/wikipedia/commons/3/33/Wat_Phnom_Daun_Penh%2C_10.jpg": {
+    "slug": "phnom-penh-wat-phnom-daun-penh",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer temple facade with lion statues, matches venue",
+    "at": "2026-08-26T09:32:39.269Z"
+  },
+  "siem-reap-pre-rup-temple\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/2016_Angkor%2C_Pre_Rup_%2809%29.jpg": {
+    "slug": "siem-reap-pre-rup-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Lion statues at Khmer temple, plausible Pre Rup detail",
+    "at": "2026-08-26T09:34:43.110Z"
+  },
+  "kampot-green-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Almere_-_Groene_Kathedraal.jpg/1920px-Almere_-_Groene_Kathedraal.jpg": {
+    "slug": "kampot-green-cathedral",
+    "verdict": "MATCH",
+    "reason": "publish gate: Tree-lined avenue matches Green Cathedral's iconic tall tree corridor",
+    "at": "2026-08-26T09:36:37.875Z"
+  },
+  "siem-reap-baphuon-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg/3840px-Le_Bouddha_couch%C3%A9_du_Temple_Baphuon...jpg": {
+    "slug": "siem-reap-baphuon-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Stone temple wall, plausible Baphuon Temple structure",
+    "at": "2026-08-26T09:38:17.164Z"
+  },
+  "siem-reap-ta-prohm-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cambodge_Ta_Prohm_bis_Temple.jpg/3840px-Cambodge_Ta_Prohm_bis_Temple.jpg": {
+    "slug": "siem-reap-ta-prohm-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Khmer temple carving fragment, plausible for Ta Prohm",
+    "at": "2026-08-26T09:39:03.673Z"
+  },
+  "siem-reap-banteay-srei-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cambodge_Banteay_Srei_Temple_%282%29.jpg/3840px-Cambodge_Banteay_Srei_Temple_%282%29.jpg": {
+    "slug": "siem-reap-banteay-srei-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Statues and carved architecture consistent with Banteay Srei temple",
+    "at": "2026-08-26T09:40:10.148Z"
+  },
+  "siem-reap-south-gate-angkor-thom\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Angkor_Thom_south_gate_-_panoramio.jpg": {
+    "slug": "siem-reap-south-gate-angkor-thom",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic South Gate Angkor Thom with towers and road",
+    "at": "2026-08-26T09:40:57.527Z"
   }
 }
