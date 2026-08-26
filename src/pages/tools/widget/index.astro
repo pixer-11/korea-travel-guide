@@ -1,0 +1,115 @@
+---
+// EMBED SNIPPET GENERATOR (2026-08-26) — the human door to /embed/crowd/*.
+// Lives at /tools/widget/ (NOT /tools/embed/): the sitemap filter drops any
+// path containing /embed/, and this page should rank for "crowd data widget".
+//
+// The frame itself carries no backlink a crawler credits to the host page;
+// the SNIPPET does — an <a> under the iframe pointing at the guide. So the
+// copy-paste box, not the widget, is the distribution loop, and outreach
+// mails can say "or just embed the chart" and paste from here.
+//
+// English-only (the audience writes for the open web), and unlike the frames
+// this page IS indexable — "crowd data widget" is a query with intent.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+export const prerender = true;
+
+type Busy = {
+  weekdayQuiet?: number[]; weekdayBusy?: number[];
+  weekendQuiet?: number[]; weekendBusy?: number[];
+};
+const hasData = (b?: Busy) =>
+  !!b && (b.weekdayQuiet?.length ?? 0) + (b.weekdayBusy?.length ?? 0) +
+         (b.weekendQuiet?.length ?? 0) + (b.weekendBusy?.length ?? 0) > 0;
+
+const SITE = (import.meta.env.SITE || 'https://wanderatlasguides.com').replace(/\/$/, '');
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const places = posts
+  .filter((p) => hasData(p.data.place?.busyness as Busy))
+  .map((p) => ({
+    slug: p.id.replace(/\.md$/, ''),
+    name: p.data.place?.name ?? String(p.data.title).split(':')[0].trim(),
+    city: p.data.region ?? '',
+    country: p.data.country ?? '',
+  }))
+  .sort((a, b) => a.country.localeCompare(b.country) || a.city.localeCompare(b.city) || a.name.localeCompare(b.name));
+
+const byCountry = new Map<string, typeof places>();
+for (const pl of places) {
+  if (!byCountry.has(pl.country)) byCountry.set(pl.country, []);
+  byCountry.get(pl.country)!.push(pl);
+}
+---
+<BaseLayout
+  title={`Free crowd-data widget — embed measured quiet hours for ${places.length} places`}
+  description="Add a small card showing measured quiet and busy hours for any of our covered attractions to your own site. Free, one iframe, no scripts."
+>
+  <section class="section">
+    <div class="wrap" style="max-width: 46rem">
+      <p class="kicker gold">Free widget</p>
+      <h1>Embed measured crowd hours on your site</h1>
+      <p class="dek">
+        Pick a place, copy the snippet. The card shows our measured quiet and busy
+        hours — data Google Maps doesn't publish — and stays current automatically.
+        Free to use on any site; the credit link under the card is all we ask.
+      </p>
+
+      <div class="widget" style="padding: 1.2rem 1.4rem; margin-top: 1.4rem">
+        <label for="embed-place" style="font-weight: 600">Place ({places.length} available)</label>
+        <select id="embed-place" style="display: block; width: 100%; margin-top: 0.4rem; padding: 0.5rem; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: inherit">
+          {[...byCountry.entries()].map(([country, list]) => (
+            <optgroup label={country}>
+              {list.map((pl) => (
+                <option value={pl.slug} data-name={pl.name}>{pl.name} — {pl.city}</option>
+              ))}
+            </optgroup>
+          ))}
+        </select>
+
+        <div style="margin-top: 1rem">
+          <div style="display: flex; justify-content: space-between; align-items: center; gap: 0.6rem">
+            <label for="embed-code" style="font-weight: 600">Snippet</label>
+            <button id="embed-copy" class="btn btn-primary" type="button" style="padding: 0.3rem 0.9rem; font-size: 0.85rem">Copy</button>
+          </div>
+          <textarea id="embed-code" readonly rows="6" style="width: 100%; margin-top: 0.4rem; padding: 0.6rem; border: 1px solid var(--line); border-radius: 8px; font-family: monospace; font-size: 0.78rem; background: var(--surface); color: inherit"></textarea>
+        </div>
+
+        <p style="margin-top: 0.9rem; font-weight: 600">Preview</p>
+        <iframe id="embed-preview" title="Widget preview" loading="lazy" style="width: 100%; max-width: 420px; height: 260px; border: 1px solid var(--line); border-radius: 10px; background: #fffdf9"></iframe>
+      </div>
+
+      <p style="margin-top: 1.2rem; font-size: 0.9rem; color: var(--muted)">
+        Prefer raw data? The same numbers are served as JSON at
+        <a href="/api/crowd.json">/api/crowd.json</a> — free, no key.
+      </p>
+    </div>
+  </section>
+
+  <script is:inline define:vars={{ SITE }}>
+    const sel = document.getElementById('embed-place');
+    const code = document.getElementById('embed-code');
+    const prev = document.getElementById('embed-preview');
+    const btn = document.getElementById('embed-copy');
+    const render = () => {
+      const slug = sel.value;
+      const name = sel.selectedOptions[0]?.dataset.name || 'this place';
+      const src = `${SITE}/embed/crowd/${slug}/`;
+      const guide = `${SITE}/posts/${slug}/`;
+      code.value =
+        `<iframe src="${src}" title="Quiet hours at ${name}" width="100%" height="260" style="max-width:420px;border:1px solid #e4dccd;border-radius:10px" loading="lazy"></iframe>\n` +
+        `<p style="font-size:12px"><a href="${guide}">${name}: measured crowd hours — Wander Atlas</a></p>`;
+      prev.src = `/embed/crowd/${slug}/`;
+    };
+    // Deep link from guide pages: /tools/widget/?place=<slug> preselects.
+    const want = new URLSearchParams(location.search).get('place');
+    if (want && [...sel.options].some((o) => o.value === want)) sel.value = want;
+    sel.addEventListener('change', render);
+    btn.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(code.value); btn.textContent = 'Copied ✓'; }
+      catch { code.select(); document.execCommand('copy'); btn.textContent = 'Copied ✓'; }
+      setTimeout(() => { btn.textContent = 'Copy'; }, 1500);
+    });
+    render();
+  </script>
+</BaseLayout>
