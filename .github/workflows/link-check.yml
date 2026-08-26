@@ -63,7 +63,12 @@ jobs:
           # revealed the crawl was doing nothing.
           # Worker routes are NOT in dist — /go/klook, /api/subscribe and
           # /preferences are served by worker/index.mjs in front of the static
-          # site, so a static server answers 404 for every one. Every guide
+          # site, so a static server answers 404 for every one. /og/* is the
+          # same class since 2026-08-23: every post's share image is mirrored
+          # in R2 and served by the worker, so the 2026-08-26 check reported
+          # 1,204 "broken" og links while every one returned 200 in
+          # production. Skipped here; the live-sample step below keeps a
+          # genuinely missing mirror visible. Every guide
           # links to /go/klook, so this crawl reported ~2,000 broken links a
           # week: a number so large that a REAL breakage among them could never
           # be noticed (found 2026-08-06). Skipping them is what makes the
@@ -78,6 +83,7 @@ jobs:
             --url-rewrite-replace "http://localhost:8673" \
             --skip "^(?!http://localhost:8673)" \
             --skip "^http://localhost:8673/(go|api|preferences)(/|\?|$)" \
+            --skip "^http://localhost:8673/og/" \
             --format csv > /tmp/links.csv || true
           # `|| true` keeps a crawl that FOUND breakages from failing the step,
           # but it equally hides a crawler that never started. An empty file is
@@ -140,6 +146,28 @@ jobs:
           retention-days: 14
           if-no-files-found: ignore
 
+      # The static crawl cannot see /og/* (worker + R2), so probe PRODUCTION
+      # with a deterministic daily sample instead — the skip above must not
+      # become a blind spot the week the mirror actually breaks.
+      - name: Sample /og/ mirrors on production
+        id: ogsample
+        run: |
+          grep -rhoE '/og/[0-9a-f]{16}\.webp' dist --include='*.html' | sort -u > /tmp/og-urls.txt
+          total=$(wc -l < /tmp/og-urls.txt)
+          bad=0; sampled=0
+          # Seeded rotation, not random: over weeks the sample walks the list.
+          seed=$(date -u +%V)
+          if [ "$total" -gt 0 ]; then
+            for u in $(awk -v s="$seed" 'NR % 97 == s % 97' /tmp/og-urls.txt | head -15); do
+              sampled=$((sampled+1))
+              code=$(curl -s -o /dev/null -w '%{http_code}' "https://wanderatlasguides.com$u")
+              [ "$code" != "200" ] && { bad=$((bad+1)); echo "og $code $u"; }
+            done
+          fi
+          echo "og_total=$total" >> "$GITHUB_OUTPUT"
+          echo "og_sampled=$sampled" >> "$GITHUB_OUTPUT"
+          echo "og_bad=$bad" >> "$GITHUB_OUTPUT"
+
       - name: Notify Telegram
         if: always()
         env:
@@ -149,6 +177,8 @@ jobs:
           TOTAL: ${{ steps.crawl.outputs.total }}
           UNREACHED: ${{ steps.crawl.outputs.unreached }}
           LIST: ${{ steps.crawl.outputs.list }}
+          OG_BAD: ${{ steps.ogsample.outputs.og_bad }}
+          OG_SAMPLED: ${{ steps.ogsample.outputs.og_sampled }}
           JOB_STATUS: ${{ job.status }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
@@ -164,6 +194,11 @@ jobs:
               # A connection the local server dropped is a runner limit, not a
               # site defect — mentioned, never counted as a breakage.
               [ "${UNREACHED:-0}" != "0" ] && echo "(참고: ${UNREACHED}개는 로컬 서버 과부하로 응답을 못 받았습니다 — 사이트 문제 아님)"
+              if [ "${OG_BAD:-0}" != "0" ]; then
+                echo "⚠️ 단, 공유 이미지(/og/) 실서버 표본 ${OG_SAMPLED}장 중 ${OG_BAD}장이 깨져 있습니다 — 미러 순찰 확인 필요."
+              else
+                echo "공유 이미지(/og/) 실서버 표본 ${OG_SAMPLED:-0}장 확인 — 정상."
+              fi
             else
               echo "⚠️ 깨진 내부 링크 ${BROKEN}개 발견 (전체 ${TOTAL}개 중):"
               echo "$LIST"
