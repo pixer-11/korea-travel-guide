@@ -13046,5 +13046,29 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic South Gate Angkor Thom with towers and road",
   "at": "2026-08-26T09:40:57.527Z"
+ },
+ "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/1365730110_e7N2Oe-9b3ZefMrIrfrAlfgf8ZE1MV2g-BczHGtS-XQ.jpg": {
+  "slug": "bangkok-city-cup",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows car interior and dashboard, not venue",
+  "at": "2026-08-26T22:25:33.123Z"
+ },
+ "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_018.jpg": {
+  "slug": "jakarta-lalala-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
+  "at": "2026-08-26T22:32:29.782Z"
+ },
+ "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_017.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_017.jpg": {
+  "slug": "jakarta-lalala-fest-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
+  "at": "2026-08-26T22:32:38.721Z"
+ },
+ "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg": {
+  "slug": "tokyo-smith-wollensky-ginza",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated plated dessert shot, not showing venue",
+  "at": "2026-08-26T22:41:03.133Z"
  }
 }
