@@ -484,7 +484,19 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 // to keep the young domain clean of thin/outdated pages (URL stays live at 200).
 // RECURRING events stay indexed (see isRecurringEvent above) — they win
 // "when is X 2027" as the next edition approaches.
-const noindexPost = isEventPast(d) && !isRecurringEvent;
+const noindexPost = isEventPast(d) && !isRecurringEvent;
+
+// Where the ticket button actually goes. The organizer's site was the best
+// we had on 2026-08-23; since 08-25 the discovery/backfill pair stores the
+// event's OWN ticketing page (eventOffers.url), which is a click closer to
+// the thing the reader wants. Measured across the hub: the two differ on
+// every one of the 49 posts that carry both, and 13 posts have a ticket
+// page with no organizer site at all — those had no button before.
+const ticketHref = d.eventOffers?.url ?? d.eventOrganizer?.url ?? null;
+// Free entry is a fact readers act on, and it was sitting in the data
+// unseen on 15 posts. Shown as a word, not a price — the currency in the
+// frontmatter exists only to make price 0 valid in schema.
+const freeEntry = d.category === 'event' && d.eventOffers?.free === true;
 // What the visitor carries away. Written at save time so /my-trip needs no
 // lookup: the phone number, hours and quiet window are the things people
 // actually want once they are standing outside the place.
@@ -663,16 +675,16 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       </div>
     ) : (
       <div class="book-cta">
-        <span class="book-cta-label">{t('post.planningTrip').replace('{region}', regionLabel)}</span>
+        <span class="book-cta-label">{t('post.planningTrip').replace('{region}', regionLabel)}{freeEntry && <>{' '}<span class="free-tag">{t('post.free')}</span></>}</span>
         <div class="book-cta-btns">
           {/* An event's OWN ticket/official page first, when discovery verified
               one (38 of 51 upcoming events, 2026-08-23). The winners for
               event queries all carry a ticket button; ours had only the
               city-level Klook link. Plain rel — this is not an affiliate. */}
-          {d.category === 'event' && d.eventOrganizer?.url && (
-            <a class="book-btn book-btn-primary" href={d.eventOrganizer.url} target="_blank" rel="noopener"><Emoji name="admission-tickets" /> {t('post.officialTickets')}</a>
+          {d.category === 'event' && ticketHref && (
+            <a class="book-btn book-btn-primary" href={ticketHref} target="_blank" rel="noopener"><Emoji name="admission-tickets" /> {t('post.officialTickets')}</a>
           )}
-          <a class:list={['book-btn', { 'book-btn-primary': !(d.category === 'event' && d.eventOrganizer?.url) }]} href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
+          <a class:list={['book-btn', { 'book-btn-primary': !(d.category === 'event' && ticketHref) }]} href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
           <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
         </div>
         {/* Trust signal beside the FIRST ask (authority bias): the fact box proving

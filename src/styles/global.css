@@ -1440,6 +1440,11 @@ html[lang^='zh'] .cover-inner h1 {
 .disclosure-details a { color: var(--accent); }
 .book-cta-label { font-weight: 650; font-size: 0.98rem; }
 .book-cta-btns { display: flex; gap: 0.55rem; flex-wrap: wrap; }
+/* Free entry, said beside the ask. The fact lived only in the frontmatter on
+   15 event posts; a reader deciding whether to click a ticket link is exactly
+   who needs it. Deliberately a word, not a price — the currency stored with it
+   exists only to make price 0 valid structured data. */
+.free-tag { display: inline-block; margin-left: 0.5rem; padding: 0.1rem 0.5rem; border-radius: var(--r-pill); background: var(--accent-soft, var(--surface)); border: 1px solid var(--line); font-size: 0.78rem; font-weight: 650; letter-spacing: 0.02em; vertical-align: 0.05em; }
 .book-btn { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.5rem 0.95rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.9rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
 .book-btn:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
 .book-btn-primary { background: var(--cta); border-color: var(--cta); color: #fff; }
