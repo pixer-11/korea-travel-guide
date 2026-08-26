@@ -54,6 +54,11 @@ const blank = new Map();
         // card (each card carries a >1000-char flag SVG), so a genuinely blank
         // tile next to a soon-card still alarms.
         if (/(?:^|[" ])(?:dest-soon|is-soon)(?:[" ]|$)/.test(m[0])) continue;
+        // The phone-only "+{n} more countries" marker (dest-more, 2026-08-26)
+        // is a text tile by design — dashed border, no photo, hidden on
+        // desktop. Same deliberate-imageless class as dest-soon; a REAL
+        // country tile that lost its background still alarms.
+        if (/(?:^|[" ])dest-more(?:[" ]|$)/.test(m[0])) continue;
         if (m[1] === 'country-photo'
           && s2.slice(Math.max(0, m.index - 80), m.index).includes('country-card is-soon')) continue;
         if (!/background-image:url\(/.test(m[0])) {
