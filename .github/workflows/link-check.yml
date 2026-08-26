@@ -115,12 +115,30 @@ jobs:
             echo "::error::crawl examined only $total url(s) — the crawler is not reading the site"
             exit 1
           fi
-          # First 12 broken URLs for the report, one line per url.
+          # First 12 broken URLs for the report, one line per url. File first,
+          # THEN head: `sort | head -12` lets head close the pipe after twelve
+          # lines, sort dies of SIGPIPE ("write failed: Broken pipe"), and the
+          # heredoc into $GITHUB_OUTPUT is left without its EOF_LIST delimiter —
+          # which failed the whole job on 2026-08-26, the first week the broken
+          # list was ever longer than twelve (1,187 urls). The week the check
+          # has real news must not be the week it cannot deliver it.
+          awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {print $2" "$1}' /tmp/links.csv | sort -u > /tmp/broken-list.txt
           {
             echo "list<<EOF_LIST"
-            awk -F, 'NR>1 && $3=="BROKEN" && $2!=0 {print $2" "$1}' /tmp/links.csv | sort -u | head -12
+            head -12 /tmp/broken-list.txt
             echo "EOF_LIST"
           } >> "$GITHUB_OUTPUT"
+
+      # The Telegram line names twelve urls; diagnosing a mass breakage needs
+      # all of them, with the parent pages that link each one.
+      - name: Keep the full crawl result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: links-csv
+          path: /tmp/links.csv
+          retention-days: 14
+          if-no-files-found: ignore
 
       - name: Notify Telegram
         if: always()
