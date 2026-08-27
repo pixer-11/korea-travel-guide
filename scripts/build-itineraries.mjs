@@ -72,6 +72,7 @@ import { slugify } from './lib/slugify.mjs';
 import { buildItinerary, qualifyingPosts, gateFor, closedDaysOf } from '../src/lib/itinerary.mjs';
 import { findProseViolations } from '../src/lib/prose-guard.mjs';
 import { validateItineraryFile } from './validate-itineraries.mjs';
+import { HOUSE_STYLE } from './lib/prose-style.mjs';
 
 const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
@@ -351,7 +352,7 @@ Also write:
       `field, not just the fixed ones) that fixes:\n${quoted}\n\nDo not restate any opening hours, clock times, ` +
       `or prices anywhere. Do not name the rain-swap venue anywhere except rainWhys.`;
   }
-  return prompt;
+  return `${prompt}\n\n${HOUSE_STYLE}`;
 }
 
 const TOOL = {

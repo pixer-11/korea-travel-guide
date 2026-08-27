@@ -16,6 +16,7 @@
 //  Usage: node scripts/gen-region-intros.mjs
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
+import { HOUSE_STYLE } from './lib/prose-style.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
@@ -75,6 +76,7 @@ async function genEnglish(region, country) {
     messages: [{
       role: 'user',
       content:
+        `${HOUSE_STYLE}\n\n` +
         `Write the intro fact-box for the travel hub page of ${region}, ${country}. ` +
         `Use web search to VERIFY transport facts (main airport code / rail line / typical access route). ` +
         `Accuracy rules — this site's #1 rule is factual accuracy: name airports/stations ONLY if verified; ` +

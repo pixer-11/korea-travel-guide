@@ -8411,5 +8411,32 @@
       "getting": "波贝本身没有可用的机场,因此大多数旅行者都是走陆路抵达:先从泰国的阿兰亚廊步行跨过边境,再转乘巴士或共乘出租车前往柬埔寨内陆地区;波贝火车站是柬埔寨铁路网的西部终点站,不过跨境往泰国的客运列车服务时断时续,并不稳定。距离这里最近的可用机场,是曼谷的素万那普机场(BKK),或是位于柬埔寨内陆更深处的金边国际机场。",
       "days": "在这里停留的时间,建议远远不到一整天——波贝只是一个边境中转点,不是旅行目的地,大多数旅行者办完出入境手续后,几个小时内就会启程前往下一站。"
     }
+  },
+  "Mandalika": {
+    "en": {
+      "blurb": "Mandalika is a purpose-built resort zone on Lombok's southern coast, best known for the white sands of Kuta Beach and Tanjung Aan and for hosting the Pertamina Mandalika International Street Circuit, Indonesia's MotoGP venue. The area blends surf breaks, cliffside viewpoints and Sasak fishing villages within a compact special economic zone developed since 2014.",
+      "getting": "Fly into Lombok International Airport (LOP) near Praya, which sits roughly 17km from Mandalika; taxis (Grab or Bluebird) and hotel transfers cover the drive in ~20 to 30 minutes. Travellers arriving overland from Bali can take the ferry to Lembar Harbour, then continue by bus or taxi to Mandalika.",
+      "days": "Allow ~3 days to see the main beaches and circuit at a relaxed pace, or 5 or more if you want to add surf lessons, boat trips and side excursions around South Lombok."
+    },
+    "ko": {
+      "blurb": "만달리카는 롬복 남쪽 해안에 조성된 계획 리조트 지구로, 새하얀 모래사장이 펼쳐진 쿠타 비치와 탄중 안, 그리고 인도네시아 모토GP 개최지인 페르타미나 만달리카 인터내셔널 스트리트 서킷으로 특히 유명합니다. 2014년부터 개발되어 온 이 소규모 경제특구 안에는 서핑 명소와 절벽 전망대, 그리고 사삭족 어촌 마을이 어우러져 있습니다.",
+      "getting": "프라야 인근에 위치한 롬복 국제공항(LOP)을 이용하세요. 만달리카까지는 약 17km 거리로, 택시(그랩 또는 블루버드)나 호텔 셔틀을 이용하면 20~30분 정도 걸립니다. 발리에서 육로로 이동하는 여행자는 페리를 타고 렘바르 항구에 도착한 뒤, 버스나 택시로 갈아타고 만달리카까지 갈 수 있습니다.",
+      "days": "주요 해변과 서킷을 여유롭게 둘러보려면 약 3일 정도 잡으면 되고, 서핑 강습이나 보트 투어, 남롬복 주변 근교 여행까지 즐기고 싶다면 5일 이상 일정을 추천합니다."
+    },
+    "ja": {
+      "blurb": "マンダリカは、ロンボク島南岸に整備されたリゾートエリアで、クタ・ビーチやタンジュン・アアンの白い砂浜、そしてインドネシアMotoGPの開催地であるプルタミナ・マンダリカ・インターナショナル・サーキットで広く知られています。2014年から開発が進むこのコンパクトな経済特区には、サーフスポットや断崖の絶景ポイント、ササック族の漁村などが凝縮されています。",
+      "getting": "プラヤ近郊にあるロンボク国際空港(LOP)を利用するのが便利で、マンダリカまでは約17km、タクシー(GrabやBluebird)やホテルの送迎サービスで20〜30分ほどです。バリ島から陸路で向かう場合は、フェリーでレンバール港へ渡り、そこからバスやタクシーでマンダリカへ向かいます。",
+      "days": "主要なビーチとサーキットをゆったり巡るなら3日ほど、サーフィンレッスンやボートツアー、南ロンボク周辺への小旅行も楽しみたいなら5日以上を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Mandalika es una zona turística construida especialmente en la costa sur de Lombok, conocida sobre todo por las arenas blancas de Kuta Beach y Tanjung Aan, y por albergar el Pertamina Mandalika International Street Circuit, la sede de MotoGP en Indonesia. La zona combina rompientes para surf, miradores sobre acantilados y pueblos de pescadores sasak dentro de una compacta zona económica especial desarrollada desde 2014.",
+      "getting": "Llega al Aeropuerto Internacional de Lombok (LOP), cerca de Praya, que se encuentra a unos 17 km de Mandalika; taxis (Grab o Bluebird) y traslados de hotel cubren el trayecto en aproximadamente 20 a 30 minutos. Quienes lleguen por tierra desde Bali pueden tomar el ferry hasta el puerto de Lembar y continuar en autobús o taxi hasta Mandalika.",
+      "days": "Calcula unos 3 días para conocer las playas principales y el circuito con calma, o 5 o más si quieres sumar clases de surf, paseos en barco y excursiones por el sur de Lombok."
+    },
+    "zh": {
+      "blurb": "曼达利卡(Mandalika)是龙目岛南岸一座专门规划建设的度假区,以库塔海滩(Kuta Beach)和丹戎安海滩(Tanjung Aan)的洁白沙滩闻名,同时也是印尼MotoGP赛事举办地——普塔米纳曼达利卡国际赛道(Pertamina Mandalika International Street Circuit)的所在地。这片区域自2014年起被开发为一个紧凑的经济特区,冲浪胜地、悬崖观景点与萨萨克族(Sasak)渔村在此交融共存。",
+      "getting": "可搭乘航班抵达位于普拉亚(Praya)附近的龙目岛国际机场(LOP),距曼达利卡约17公里,乘坐出租车(Grab或Bluebird)或酒店接送车约20至30分钟即可到达。若从巴厘岛陆路前往,可先搭乘渡轮抵达伦巴尔港(Lembar Harbour),再转乘巴士或出租车前往曼达利卡。",
+      "days": "若想以轻松的节奏游览主要海滩和赛道,建议预留约3天时间;若还想加入冲浪课程、乘船出游以及龙目岛南部周边景点的短途探索,则建议安排5天或更长时间。"
+    }
   }
 }

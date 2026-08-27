@@ -18,6 +18,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
 import { slugify } from './lib/slugify.mjs';
+import { HOUSE_STYLE } from './lib/prose-style.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -49,7 +50,8 @@ async function research(country) {
     `- Give concrete, current facts (real emergency numbers, typical visa-free lengths, transport passes, currency).\n` +
     `- For visa/entry: summarize, but explicitly tell readers to CONFIRM on the official links because rules change.\n` +
     `- "## Official sources" must list REAL official government / tourism-board links as markdown links (immigration, e-visa/ETA portal, transport, tourism board).\n` +
-    `- Do NOT invent specifics you couldn't verify. No preamble — output ONLY the markdown guide.`;
+    `- Do NOT invent specifics you couldn't verify. No preamble; output ONLY the markdown guide.\n` +
+    HOUSE_STYLE;
 
   const msg = await client.messages.create({
     model: MODEL,
