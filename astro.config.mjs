@@ -211,7 +211,17 @@ function regionRedirects() {
   // Quarantined (draft:true) posts render no page, which would 404 any visitor
   // holding the old link — the user hit exactly that on the Manseok post. Send
   // them to the region hub instead; the moment the post is un-drafted the page
-  // is back and this 301 is no longer generated.
+  // is back and this redirect is no longer generated.
+  //
+  // 302, NOT 301 (2026-08-27). A 301 tells Google the page moved PERMANENTLY, so
+  // it drops the original URL and ranks the hub in its place — and the hub never
+  // names the venue that earned the ranking, so the ranking does not transfer, it
+  // ends. That is the measured cause of the 07-27 collapse (11.8 -> 57.4 average
+  // position, never recovered; see scripts/audit-retired-redirects.mjs). But
+  // quarantine is TEMPORARY — the repair patrol un-drafts these — so 301 was the
+  // wrong verb all along. 302 keeps the visitor rescue and tells Google to hold
+  // the original URL, which is exactly what a quarantine means. 120 posts x 5
+  // languages were sitting on the permanent verb when this was found.
   // Region NAME normalizations: old region pages 301 to the canonical city so
   // an indexed URL keeps its equity. Defined before the drafts loop because the
   // drafts loop must apply it too — a quarantined Xian post used to redirect to
@@ -231,7 +241,7 @@ function regionRedirects() {
   for (const d of drafts) {
     const reg = canon(d.region);
     for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-      lines.push(`${p}/posts/${d.slug}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 301`);
+      lines.push(`${p}/posts/${d.slug}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 302`);
     }
   }
   for (const r of regions) {
@@ -254,7 +264,9 @@ function regionRedirects() {
   // A PARKED itinerary (draft) renders no page either — Seoul's and Bangkok's
   // 3-day plans went 404 the moment quarantine pulled one of their stops
   // (2026-08-03). Point them at the itinerary index rather than nowhere; the
-  // 301 disappears by itself when build-itineraries republishes the plan.
+  // redirect disappears by itself when build-itineraries republishes the plan.
+  // 302 for the same reason as the drafts loop above: parking is temporary, and
+  // the permanent verb would hand the plan's URL to the index page for good.
   try {
     const itinDir = join(__dirname, 'src/content/itineraries');
     for (const f of readdirSync(itinDir)) {
@@ -263,7 +275,7 @@ function regionRedirects() {
       if (!/(?:^|\n)draft:\s*true/.test(fm)) continue;
       const slug = f.replace(/\.md$/, '');
       for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-        lines.push(`${p}/itinerary/${slug}/ ${p}/itinerary/ 301`);
+        lines.push(`${p}/itinerary/${slug}/ ${p}/itinerary/ 302`);
       }
     }
   } catch { /* no itineraries dir */ }
@@ -316,7 +328,9 @@ function regionRedirects() {
     for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
       if (dk) {
         const reg = canon(dk.region);
-        lines.push(`${p}/posts/${gone}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 301`);
+        // The kept twin is in quarantine, so this destination is temporary too —
+        // 302 for the same reason as the drafts loop (see its note).
+        lines.push(`${p}/posts/${gone}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 302`);
       } else {
         lines.push(`${p}/posts/${gone}/ ${p}/posts/${kept}/ 301`);
       }
