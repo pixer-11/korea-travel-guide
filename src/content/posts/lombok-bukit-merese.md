@@ -25,6 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -8.9139299
   lng: 116.3190063
+  phone: '+62 821-1194-2348'
 tags:
   - "lombok"
   - "hidden gem"

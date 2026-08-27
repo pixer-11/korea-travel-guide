@@ -25,6 +25,14 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 9.9637158
   lng: 76.23746109999999
+  openingHours:
+    - 'Monday: 5:00 AM – 10:00 PM'
+    - 'Tuesday: 5:00 AM – 10:00 PM'
+    - 'Wednesday: 5:00 AM – 10:00 PM'
+    - 'Thursday: 5:00 AM – 10:00 PM'
+    - 'Friday: 5:00 AM – 10:00 PM'
+    - 'Saturday: 5:00 AM – 10:00 PM'
+    - 'Sunday: 5:00 AM – 10:00 PM'
 tags:
   - "kochi"
   - "hidden gem"
