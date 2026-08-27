@@ -12,7 +12,7 @@
 // step function — GSC refreshes coverage every few days, so a value repeats until
 // the next refresh. Rows before the first refresh have empty coverage columns.
 export function parseCoverageCsv(text) {
-  const lines = text.replace(/^﻿/, '').split(/\r?\n/).filter((l) => l.trim());
+  const lines = text.replace(/^\uFEFF/, '').split(/\r?\n/).filter((l) => l.trim());
   if (!lines.length) return [];
   const head = splitCsvLine(lines[0]);
   const iDate = 0;

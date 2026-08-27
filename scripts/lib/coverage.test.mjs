@@ -7,7 +7,7 @@ const BASE = JSON.parse(readFileSync(new URL('../../data/index-coverage-baseline
 
 // The real export's shape: BOM, Korean header, empty coverage columns before the
 // first refresh, then a step function.
-const CSV = '﻿날짜,색인이 생성되지 않은 페이지,색인 생성됨,노출\n'
+const CSV = '\uFEFF날짜,색인이 생성되지 않은 페이지,색인 생성됨,노출\n'
   + '2026-07-20,,,0\n'
   + '2026-07-24,2174,2450,2639\n'
   + '2026-07-25,3607,5232,3832\n'
