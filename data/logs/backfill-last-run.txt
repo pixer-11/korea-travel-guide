@@ -1,29 +1,4 @@
-Places 예산: backfill 몫 25회 (오늘 사용 0/100)
-Priority: 129 itinerary stop(s) queued first
-  – guangzhou-chen-clan-ancestral-hall.md: nothing new (resting 60d)
-  – guilin-xijie-pedestrian-street.md: nothing new (resting 60d)
-  – gyeongju-yangdongmaeul-gil.md: nothing new (resting 60d)
-  – ha-long-bay-sung-sot-cave.md: nothing new (resting 60d)
-  – hangzhou-lingyin-temple.md: nothing new (resting 60d)
-  – harbin-harbin-ice-snow-world.md: nothing new (resting 60d)
-  – hoi-an-hoi-an-night-market.md: nothing new (resting 60d)
-  – ibiza-castle-of-ibiza.md: nothing new (resting 60d)
-  – incheon-chinatown.md: nothing new (resting 60d)
-  – jaipur-jal-mahal.md: nothing new (resting 60d)
-  – jeju-yongyeon-suspension-bridge.md: nothing new (resting 60d)
-  – jumeirah-madinat-jumeirah.md: nothing new (resting 60d)
-  – jurong-japanese-garden.md: nothing new (resting 60d)
-  – kampong-cham-phnom-srei.md: nothing new (resting 60d)
-  – kenting-eluanbi-lighthouse.md: nothing new (resting 60d)
-  ✓ kochi-fort-kochi-beach.md +7h hours
-  – kokand-modari-khan-mausoleum.md: nothing new (resting 60d)
-  – komodo-pink-beach.md: nothing new (resting 60d)
-  – kuala-lumpur-batu-caves.md: nothing new (resting 60d)
-  – kuching-kuching-waterfront.md: nothing new (resting 60d)
-  ✓ lombok-bukit-merese.md +phone
-  – lyon-marche-saint-antoine.md: nothing new (resting 60d)
-  – lyon-vieux-lyon.md: nothing new (resting 60d)
-  – makassar-fort-rotterdam.md: nothing new (resting 60d)
-  – malacca-a-famosa.md: nothing new (resting 60d)
+Places 예산: backfill 몫 0회 (오늘 사용 45/100)
+Priority: 131 itinerary stop(s) queued first
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 367, no-new-data 99, no-place 137, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 342 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 0, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 0, remaining-askable 345 (APPLIED).
