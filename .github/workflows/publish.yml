@@ -961,7 +961,18 @@ jobs:
           # nothing; every other zero (queue empty, API dead) still reports.
           SHARE=$(grep -o 'Places 예산: publish 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
           SSHARE=$(grep -o 'Places 검색 예산: [a-z]* 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
-          if [ "${{ inputs.label || 'Daily publish' }}" = "Backfill" ] && [ "${NEW:-0}" = "0" ] && { [ "${SHARE:-x}" = "0" ] || [ "${SSHARE:-x}" = "0" ]; } && [ "${QUEUE:-x}" != "0" ]; then
+          # If the commit step did not succeed, the posts exist only inside this
+          # runner and vanish with it. On 2026-08-27 a rebase conflict lost 36 of
+          # them, and this report still announced "새 글 36개" with thirty links —
+          # every one a 404. The counts come from steps.commit.outputs, which are
+          # written before the push is attempted, so they outlive its failure.
+          # Say what is true instead: nothing was saved.
+          if [ "${{ steps.commit.outcome }}" != "success" ] && [ -n "$TELEGRAM_BOT_TOKEN" ]; then
+            TXT=$(printf '🚨 발행이 저장되지 않았습니다\n\n글 %s개를 만들었지만 저장(커밋)에 실패해서 사이트에는 하나도 올라가지 않았습니다.\n만든 글은 사라졌고 API 비용만 나갔습니다.\n\n대개 다른 작업과 같은 파일이 겹친 충돌입니다. 다음 실행에서 다시 만들어집니다.\n실행 기록: %s/actions/runs/%s' "${NEW:-?}" "${{ github.server_url }}/${{ github.repository }}" "${{ github.run_id }}")
+            curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+              --data-urlencode "text=$TXT" >/dev/null || true
+          elif [ "${{ inputs.label || 'Daily publish' }}" = "Backfill" ] && [ "${NEW:-0}" = "0" ] && { [ "${SHARE:-x}" = "0" ] || [ "${SSHARE:-x}" = "0" ]; } && [ "${QUEUE:-x}" != "0" ]; then
             echo "bulk run: Places share 0 today, nothing to attempt — no Telegram (normal)"
           else
             bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
