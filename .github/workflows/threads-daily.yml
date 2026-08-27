@@ -15,6 +15,10 @@ on:
     - cron: '25 23 * * *' # 08:25 KST — backup
     - cron: '25 1 * * *'  # 10:25 KST — last chance
   workflow_dispatch:
+    inputs:
+      force:
+        description: 'true = send again today (fresh material + fresh posts)'
+        required: false
 
 permissions:
   contents: write
@@ -53,7 +57,7 @@ jobs:
           SOCIAL_TOKEN_KEY: ${{ secrets.SOCIAL_TOKEN_KEY }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-        run: node scripts/threads-daily.mjs
+        run: node scripts/threads-daily.mjs ${{ inputs.force == 'true' && '--force' || '' }}
 
       - name: Commit state
         run: |
