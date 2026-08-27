@@ -171,15 +171,34 @@ export async function igPublish({ token, imageUrls, caption }) {
   return { id: pub.id, username: me.username };
 }
 
-/** Threads: text with optional single image. Returns { id, permalink }. */
-export async function thPublish({ token, text, imageUrl }) {
-  const params = imageUrl
-    ? { media_type: 'IMAGE', image_url: imageUrl, text }
-    : { media_type: 'TEXT', text };
-  const c = await graph(TH_GRAPH, '/me/threads', token, { method: 'POST', params });
+/**
+ * Threads: text with 0, 1, or MANY images (2-20 → carousel). The owner's
+ * manual posts were always the full slide set, and his first reaction to the
+ * automated single-image post was to ask where the rest went (2026-08-27) —
+ * the site's own material guidance says multi-image sets perform best on
+ * Threads too. Returns { id, permalink }.
+ */
+export async function thPublish({ token, text, imageUrls = [] }) {
+  let container;
+  if (imageUrls.length >= 2) {
+    const children = [];
+    for (const u of imageUrls.slice(0, 20)) {
+      const c = await graph(TH_GRAPH, '/me/threads', token, { method: 'POST', params: { media_type: 'IMAGE', image_url: u, is_carousel_item: 'true' } });
+      children.push(c.id);
+      await sleep(1200);
+    }
+    container = await graph(TH_GRAPH, '/me/threads', token, {
+      method: 'POST', params: { media_type: 'CAROUSEL', children: children.join(','), text },
+    });
+  } else {
+    const params = imageUrls[0]
+      ? { media_type: 'IMAGE', image_url: imageUrls[0], text }
+      : { media_type: 'TEXT', text };
+    container = await graph(TH_GRAPH, '/me/threads', token, { method: 'POST', params });
+  }
   // Threads docs recommend waiting for server-side processing before publish.
-  await waitFinished(TH_GRAPH, c.id, token).catch(() => sleep(15000));
-  const pub = await graph(TH_GRAPH, '/me/threads_publish', token, { method: 'POST', params: { creation_id: c.id } });
+  await waitFinished(TH_GRAPH, container.id, token).catch(() => sleep(15000));
+  const pub = await graph(TH_GRAPH, '/me/threads_publish', token, { method: 'POST', params: { creation_id: container.id } });
   const info = await graph(TH_GRAPH, `/${pub.id}`, token, { params: { fields: 'permalink' } }).catch(() => ({}));
   return { id: pub.id, permalink: info.permalink };
 }

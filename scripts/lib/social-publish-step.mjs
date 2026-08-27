@@ -31,7 +31,7 @@ export const socialEnabled = () =>
  * the caller persists state. DRY=1 verifies tokens and prints the plan without
  * posting anything.
  */
-export async function runSocialPublish(state) {
+export async function runSocialPublish(state, { force = false } = {}) {
   const day = kstDay();
   const m = state.material;
   if (!m || m.day !== day) { console.log('social: no material for today — nothing to publish'); return; }
@@ -55,8 +55,10 @@ export async function runSocialPublish(state) {
     return;
   }
 
-  const wantIg = isIgDay() && s.igDay !== day;
-  const wantTh = s.thDay !== day;
+  // --force re-sends today (the owner asked for a redo — e.g. the 08-27
+  // single-image first post, reposted as the full carousel minutes later).
+  const wantIg = isIgDay() && (force || s.igDay !== day);
+  const wantTh = force || s.thDay !== day;
   if (!wantIg && !wantTh) { console.log('social: all channels already posted today'); return; }
   if (DRY) {
     console.log(`social DRY: would post — threads:${wantTh} instagram:${wantIg} (${m.urls.length} images, slug ${m.slug})`);
@@ -68,9 +70,9 @@ export async function runSocialPublish(state) {
 
   if (wantTh) {
     try {
-      const r = await thPublish({ token: tokens.th.token, text: threadsText(m.thOption, m.link), imageUrl: m.urls[0] });
+      const r = await thPublish({ token: tokens.th.token, text: threadsText(m.thOption, m.link), imageUrls: m.urls });
       s.thDay = day; s.thId = r.id;
-      done.push(`스레드 ✅ ${r.permalink || '(게시됨: ' + r.id + ')'}`);
+      done.push(`스레드 ✅ (${m.urls.length}장) ${r.permalink || '(게시됨: ' + r.id + ')'}`);
     } catch (e) { failed.push(`스레드 ✗ ${String(e.message).slice(0, 160)}`); }
   }
 

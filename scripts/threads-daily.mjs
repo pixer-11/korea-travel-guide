@@ -457,6 +457,6 @@ console.log(`state saved (${state.used.length} used, day ${state.lastSentDay})`)
 
 // -------- auto-post (Threads daily · Instagram Mon/Wed/Fri) --------
 if (socialEnabled()) {
-  await runSocialPublish(state);
+  await runSocialPublish(state, { force: FORCE });
   writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
 }
