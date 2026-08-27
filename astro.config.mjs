@@ -397,6 +397,18 @@ function regionRedirectsIntegration() {
         let existing = '';
         try { existing = readFileSync(out, 'utf8').replace(/\s*$/, '') + '\n\n'; } catch { /* none yet */ }
         writeFileSync(out, existing + '# region slug 301s (auto-generated)\n' + lines.join('\n') + '\n');
+        // Cloudflare caps _redirects at 2,000 static rules and SILENTLY IGNORES the
+        // overflow — the symptom would be quarantined posts 404ing again with
+        // nothing in any log to say why. Quarantine alone writes 5 lines per post
+        // (120 posts = 600 lines as of 2026-08-27), so the ceiling is reachable on
+        // a bad week, not theoretical. Warn while there is still room to act.
+        const rules = (existing + lines.join(String.fromCharCode(10)))
+          .split(String.fromCharCode(10))
+          .filter((l) => l.trim() && !l.startsWith('#')).length;
+        if (rules > 1600) {
+          console.warn(`⚠️  _redirects: ${rules}/2000 rules — Cloudflare drops the rest without saying so.`);
+          console.warn('   Quarantined posts write 5 lines each; releasing them from quarantine is what frees space.');
+        }
       },
     },
   };
