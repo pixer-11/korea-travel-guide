@@ -26,6 +26,7 @@ on:
       # cannot quietly fall behind again.
       - 'Backfill real venue photos'
       - 'Index coverage audit'
+      - 'Index verdict reminder'
       - 'attach-placeless-photos'
       - 'mailerlite-fields'
       - 'Test Telegram notification'
