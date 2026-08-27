@@ -21,9 +21,12 @@ import { fileURLToPath } from 'node:url';
 
 const KO = fileURLToPath(new URL('../src/content/i18n/ko/', import.meta.url));
 const WANSUNG = new Set(readFileSync(new URL('../src/data/ko-wansung.txt', import.meta.url), 'utf8'));
-const ALLOW = new Set('웻똠쩻뻄뻭녓얙뻉뜽냣셱');
+// One home: the audit (scripts/lib/ko-syllables.mjs) owns the allowlist. When
+// this file kept its own copy they drifted, and a syllable this repaired was
+// still reported broken by audit-translations.
+import { KO_EXTENDED_OK as ALLOW } from './lib/ko-syllables.mjs';
 // Every shatter observed so far. 쯤 is the model's favourite victim.
-const FIX = { '쯍': '쯤', '쯈': '쯤', '쯀': '쯤', '쯌': '쯤', '쯓': '쯤', '쯡': '쯤', '쯃': '쯤', '쯴': '쯤', '쯑': '쯤', '쯘': '쯤', '쯐': '쯤', '쯽': '쯤', '퍁': '퍼', '딖': '딪', '쪤': '쪽' };
+const FIX = { '쯒': '쯤', '쯍': '쯤', '쯈': '쯤', '쯀': '쯤', '쯌': '쯤', '쯓': '쯤', '쯡': '쯤', '쯃': '쯤', '쯴': '쯤', '쯑': '쯤', '쯘': '쯤', '쯐': '쯤', '쯽': '쯤', '퍁': '퍼', '딖': '딪', '쪤': '쪽' };
 const DRY = process.env.DRY === '1';
 
 let fixedFiles = 0, deleted = 0, substitutions = 0;

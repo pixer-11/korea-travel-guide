@@ -1,8 +1,6 @@
 ---
 title: 'Bruno Mars: The Romantic Tour: What to Know (East Rutherford)'
-description: >-
-  Bruno Mars: The Romantic Tour in East Rutherford, United States — August
-  21-26, 2026. What it is, when and where, and how to plan around it.
+description: 'Bruno Mars: The Romantic Tour in East Rutherford, United States — August 21-26, 2026. What it is, when and where, and how to plan around it.'
 country: United States
 region: East Rutherford
 category: event
@@ -12,65 +10,40 @@ eventEndDate: '2026-08-26'
 tags:
   - east rutherford
   - event
-quickAnswer: >-
-  Bruno Mars brings The Romantic Tour to MetLife Stadium in East Rutherford, New
-  Jersey for a multi-night run announced for August 21–26, 2026. Expect a
-  stadium-scale production built around recent hits like "Die with a Smile" and
-  "APT.," so plan transit, tickets, and hotels early — and always verify exact
-  dates, set times, and pricing on Ticketmaster or Bruno Mars's official site
-  before booking.
+quickAnswer: Bruno Mars brings The Romantic Tour to MetLife Stadium in East Rutherford, New Jersey for a multi-night run announced for August 21–26, 2026. Expect a stadium-scale production built around recent hits like "Die with a Smile" and "APT.," so plan transit, tickets, and hotels early — and always verify exact dates, set times, and pricing on Ticketmaster or Bruno Mars's official site before booking.
 faq:
   - q: What are the exact dates for Bruno Mars at MetLife Stadium?
-    a: >-
-      The run is announced for August 21–26, 2026, but always confirm the
-      specific night on your ticket and the official Ticketmaster or Bruno Mars
-      tour page, as multi-night residencies can have date-specific details.
+    a: The run is announced for August 21–26, 2026, but always confirm the specific night on your ticket and the official Ticketmaster or Bruno Mars tour page, as multi-night residencies can have date-specific details.
   - q: How do I get to MetLife Stadium without a car?
-    a: >-
-      NJ Transit runs a dedicated Meadowlands Rail Line with special event
-      trains from New York Penn Station and Secaucus Junction directly to the
-      stadium; buses also run from Port Authority Bus Terminal on event days.
+    a: NJ Transit runs a dedicated Meadowlands Rail Line with special event trains from New York Penn Station and Secaucus Junction directly to the stadium; buses also run from Port Authority Bus Terminal on event days.
   - q: How early should I arrive?
-    a: >-
-      Aim to arrive 2–3 hours before doors to account for train crowds, security
-      screening, and parking lot congestion, especially given this is a
-      multi-night run drawing large crowds.
+    a: Aim to arrive 2–3 hours before doors to account for train crowds, security screening, and parking lot congestion, especially given this is a multi-night run drawing large crowds.
   - q: Is there parking at MetLife Stadium?
-    a: >-
-      Yes, but lots surround the stadium and typically require a pre-purchased
-      parking pass; buying one in advance is strongly recommended over arriving
-      without a reservation.
+    a: Yes, but lots surround the stadium and typically require a pre-purchased parking pass; buying one in advance is strongly recommended over arriving without a reservation.
   - q: What's nearby if I arrive early or want food before the show?
-    a: >-
-      The American Dream mega-mall sits adjacent to the stadium with food courts
-      and shopping, and nearby Secaucus and Hackensack offer additional dining
-      options a short drive or train ride away.
+    a: The American Dream mega-mall sits adjacent to the stadium with food courts and shopping, and nearby Secaucus and Hackensack offer additional dining options a short drive or train ride away.
 aiGenerated: true
 draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
   credit: 'Photo: Brothers Le / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
+  source: https://commons.wikimedia.org/wiki/File:Bruno_Mars_Doo-Wops_%26_Hooligans_Black_and_White.jpg
   focus:
     x: 50
     'y': 45
 eventOrganizer:
   name: Live Nation
-  url: 'https://www.livenation.com'
+  url: https://www.livenation.com
 eventOffers:
-  url: >-
-    https://www.ticketmaster.com/bruno-mars-the-romantic-tour-east-rutherford-new-jersey-08-21-2026/event/0000639EE07FD3B7
+  url: https://www.ticketmaster.com/bruno-mars-the-romantic-tour-east-rutherford-new-jersey-08-21-2026/event/0000639EE07FD3B7
 eventPerformer:
   name: Bruno Mars
   kind: person
 eventFactsAsked: true
 ---
-
 ## Why this show matters
 
 Bruno Mars has spent nearly two decades turning stadiums into dance floors, and The Romantic Tour is his latest victory lap, arriving on the heels of collaborative smashes "Die with a Smile" (with Lady Gaga) and "APT." (with Rosé). A multi-Grammy winner known for live horn sections, retro choreography, and genuine vocal range, Mars rarely tours without delivering a full-band spectacle rather than a backing-track set.
@@ -91,7 +64,7 @@ Seating at MetLife ranges from field-level floor seats to upper-deck sections wi
 
 ## When to go and what to book
 
-With six dates on the calendar, weekday shows (expect the run to include midweek nights around August 21–22) often have more available inventory and shorter lines than weekend dates. Because exact per-night start times, doors, and support lineup haven't been detailed here, confirm each specific date's schedule directly through Ticketmaster or Bruno Mars's official tour page before finalizing travel. Hotel rates in East Rutherford and nearby Secaucus climb during multi-night residencies at MetLife, so booking accommodation as early as possible — even before tickets go on sale — is a smart hedge.
+With six dates on the calendar, weekday shows (expect the run to include midweek nights around August 21–22) often have more available inventory and shorter lines than weekend dates. Because exact per-night start times, doors, and support lineup haven't been detailed here, confirm each specific date's schedule directly through Ticketmaster or Bruno Mars's official tour page before finalizing travel. Hotel rates in East Rutherford and nearby Secaucus climbed during multi-night residencies at MetLife, so booking accommodation as early as possible was a smart hedge.
 
 ## Where to eat and stay nearby
 
@@ -104,4 +77,3 @@ Seasoned MetLife concertgoers arrive early not for the show but to beat the tran
 The most common tourist mistake is underestimating exit time: post-show, the Meadowlands Rail Line and parking lots see heavy volume, so patient concertgoers linger 20–30 minutes in their seats or nearby plazas before heading to transit rather than rushing the exits immediately. If you're unsure which entrance corresponds to your section, check your ticket app in advance — gate assignments are typically listed a few days before the show.
 
 Above all, treat every date, price, and time mentioned anywhere as provisional until you double-check it on the official Ticketmaster listing or bruno-mars.com, since stadium residencies can see schedule adjustments.
-

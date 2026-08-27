@@ -18,7 +18,10 @@
 import { readFileSync } from 'node:fs';
 
 const KO_WANSUNG = new Set(readFileSync(new URL('../../src/data/ko-wansung.txt', import.meta.url), 'utf8'));
-const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱']);
+// Exported: scripts/fix-broken-syllables.mjs reads THIS set rather than keeping
+// its own copy. Two copies drifted apart once already — the fixer repaired a
+// syllable the audit still called broken, so the warning never cleared.
+export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩']);
 
 // Every broken syllable in `text`, each with a little context so a human can see
 // the word it belongs to.
