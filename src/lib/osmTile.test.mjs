@@ -23,7 +23,9 @@ test('a 2×2 mosaic keeps the point near its centre and reports the pixel positi
   assert.ok(m.py >= TILE / 2 && m.py <= TILE * 1.5, `py ${m.py}`);
   // Tiles are laid out in reading order with 256px origins.
   assert.deepEqual(m.tiles.map((t) => [t.dx, t.dy]), [[0, 0], [256, 0], [0, 256], [256, 256]]);
-  assert.ok(m.tiles.every((t) => /^https:\/\/[abcd]\.basemaps\.cartocdn\.com\/light_all\/15\/\d+\/\d+\.png$/.test(t.url)), m.tiles[0].url);
+  // Esri path is /{z}/{y}/{x} — y first. A regression to x-first would render
+  // a map of the wrong place, which no 200 response would ever reveal.
+  assert.ok(m.tiles.every((t) => /^https:\/\/services\.arcgisonline\.com\/ArcGIS\/rest\/services\/Canvas\/World_Light_Gray_Base\/MapServer\/tile\/15\/\d+\/\d+$/.test(t.url)), m.tiles[0].url);
 });
 
 test('tiles wrap at the antimeridian and never go outside the world vertically', () => {
@@ -38,4 +40,9 @@ test('bad coordinates yield null (the caller renders no map)', () => {
   assert.equal(tileMosaic(91, 10), null);
   assert.equal(tileMosaic(10, 181), null);
   assert.equal(tileMosaic(undefined, undefined), null);
+});
+
+test('Esri 타일 경로는 z/y/x 순서다 — x/y로 돌아가면 엉뚱한 지도가 뜬다', async () => {
+  const { tileUrl } = await import('./osmTile.mjs');
+  assert.ok(tileUrl(15, 26838, 12852).endsWith('/15/12852/26838'));
 });

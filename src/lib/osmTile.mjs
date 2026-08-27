@@ -16,15 +16,21 @@
 
 export const TILE = 256;
 
-// CARTO's free "light" basemap (OSM data, CC-BY attribution "© OpenStreetMap
-// contributors © CARTO"), not tile.openstreetmap.org: the OSM host fails the
-// TLS handshake from the owner's network in Vietnam (2026-08-23, curl exit
-// 35 and the browser's onerror in 155ms) — a map the owner and every
-// Vietnamese reader would see as a grey box. CARTO answered in 221ms and its
-// light style sits quietly under the hanji palette.
-export const TILE_HOSTS = ['a', 'b', 'c', 'd'].map((s) => `https://${s}.basemaps.cartocdn.com/light_all`);
-export const TILE_ATTRIBUTION = '© OpenStreetMap contributors © CARTO';
-export const tileUrl = (z, x, y) => `${TILE_HOSTS[(x + y) % TILE_HOSTS.length]}/${z}/${x}/${y}.png`;
+// Esri's Light Gray canvas, third provider in this slot and each exit is on
+// record so nobody circles back:
+//  · tile.openstreetmap.org — fails the TLS handshake from the owner's
+//    network in Vietnam (2026-08-23 and re-measured 2026-08-27, curl exit
+//    35): a grey box for him and any reader on that path.
+//  · CARTO light — worked on 08-23, then began stamping "API KEY REQUIRED"
+//    across every keyless tile; the owner spotted the watermark on a live
+//    guide on 2026-08-27. Policy change, not an outage: keyless is over.
+//  · Esri Canvas/World_Light_Gray_Base — no key, 200 from the owner's
+//    network, quiet gray that sits under the hanji palette like CARTO's
+//    light did. NOTE the path is /tile/{z}/{y}/{x} — y BEFORE x, unlike
+//    the slippy convention the previous two used.
+export const TILE_HOSTS = ['https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile'];
+export const TILE_ATTRIBUTION = '© Esri · OpenStreetMap contributors';
+export const tileUrl = (z, x, y) => `${TILE_HOSTS[0]}/${z}/${y}/${x}`;
 
 /** Slippy-map tile coordinates (fractional) for a WGS84 point at zoom z. */
 export function tileXY(lat, lng, z) {
