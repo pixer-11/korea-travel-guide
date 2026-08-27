@@ -21,8 +21,12 @@ change; the tests and `astro check` are the fast path.
 
 **Editing a post body re-translates it into four languages.** `srcHashOf()` (scripts/lib/src-hash.mjs)
 hashes title + description + quickAnswer + faq + body. Any change re-queues that post's ko/ja/es/zh
-translations. One punctuation sweep across the corpus is ~5,800 re-translations. Touch bodies only
-when the re-translation is the point.
+translations. One punctuation sweep across the corpus is ~5,800 re-translations.
+
+**STOP and get explicit human approval before editing any post body.** Say how many posts and what
+the re-translation will cost, then wait. "The user asked me to edit posts" is not that approval — it
+is the request that triggers this rule. Warning about the cost and proceeding in the same breath
+defeats the point: the human has to be able to say no while it is still free.
 
 **`_redirects` silently truncates at 2,000 rules.** Currently ~1,195. Quarantine writes 5 lines per
 post (120 quarantined posts = 600 lines). Past the cap Cloudflare drops the rest with no error and
@@ -46,7 +50,10 @@ A script that spends outside the ledger starves the 16:19 publish run, which has
 
 - **Run the full suite.** `node --test scripts/lib/foo.test.mjs` passing means nothing here — the
   repo has cross-cutting guards (a linter that rejects invisible characters in source, a workflow
-  auditor, a dependency linter) that only fire on the whole run.
+  auditor, a dependency linter) that only fire on the whole run. Bare `node --test` finds 613 tests
+  and all 613 pass; if your run says otherwise, re-run before reporting it. Reporting a failure that
+  is not there, and filing it under "pre-existing, unrelated to my change", is worse than reporting
+  nothing: it launders a real failure into background noise.
 - **Live over local.** `dist2/` may be weeks stale. Judging from a build artifact without checking
   its timestamp has produced wrong diagnoses. Prefer `curl` against production.
 - **Consecutive curls return 000** — Cloudflare rate-limits them. Space them ~5s apart.
