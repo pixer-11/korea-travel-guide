@@ -77,6 +77,18 @@ jobs:
 
       - run: npm ci
 
+      # How many posts a scheduled run may publish. Read from
+      # data/publish-throttle.json so the number lives in ONE place - backfill.yml
+      # reads the same file, and restoring normal output is one edit there rather
+      # than a hunt through two workflows. A manual dispatch still wins: `count`
+      # overrides the throttle, so a person can always publish on purpose.
+      - name: Read publish throttle
+        id: throttle
+        run: |
+          N=$(node -e "let d={};try{d=JSON.parse(require('fs').readFileSync('data/publish-throttle.json','utf8'))}catch{};console.log(d.postsPerRun??16)")
+          echo "posts=$N" >> "$GITHUB_OUTPUT"
+          echo "이번 발행 편수: $N (data/publish-throttle.json)"
+
       - name: Generate posts
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
@@ -92,7 +104,7 @@ jobs:
           BESTTIME_API_KEY: ${{ secrets.BESTTIME_API_KEY }}
           # `inputs` covers both workflow_dispatch and workflow_call; it is empty
           # on the schedule, which is what the fallback is for.
-          POSTS_PER_RUN: ${{ inputs.count || '16' }}
+          POSTS_PER_RUN: ${{ inputs.count || steps.throttle.outputs.posts }}
           # Which share of the day's ~100 Text Searches this run draws from:
           # the scheduled run is 'publish' (55), the bulk caller 'fill' (35).
           # Until 2026-08-23 Text Search was unbudgeted and the 16:19 run spent

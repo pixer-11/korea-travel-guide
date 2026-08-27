@@ -1,0 +1,13 @@
+{
+  "postsPerRun": 5,
+  "backfillPerRun": 0,
+  "setAt": "2026-08-27",
+  "revisitAt": "2026-09-10",
+  "reason": "Google stopped crawling us. 5,036 URLs sit in 'Discovered - currently not indexed' and the queue grows every day. Measured 2026-08-27: the 634 posts published since 08-08 have produced 0 impressions and 0 clicks, while posts from July still earn. We were paying Places/vision/translation costs for pages Google never fetched. Cutting intake from ~330 URLs/day to 25 so the queue can drain.",
+  "restoreTo": {
+    "postsPerRun": 16,
+    "backfillPerRun": "ramp",
+    "note": "backfill 'ramp' is the original 25/35/50-by-week logic in backfill.yml; setting backfillPerRun to any number overrides it, and -1 restores the ramp."
+  },
+  "howToDecide": "On revisitAt, read GSC > Indexing > Pages. If 'Discovered - currently not indexed' has fallen below 5,036, intake was the binding constraint and this throttle stays (raise slowly, re-measure). If it has not moved, crawl budget is purely an authority problem, the throttle buys nothing, and backlinks are the only lever left - restore the values above."
+}

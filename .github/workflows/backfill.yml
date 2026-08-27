@@ -112,12 +112,20 @@ jobs:
           # it from closure detection — the only job that unpublishes a venue
           # that has shut — which is not a trade worth making for speed
           # (measured 2026-08-07). Manual dispatch keeps an explicit override.
+          # The ramp above is overridden by data/publish-throttle.json when it sets
+          # backfillPerRun to 0 or more (2026-08-27: 0, because Google had stopped
+          # fetching us and 5,036 URLs were queued unread - see that file). -1 or a
+          # missing file restores the ramp. One switch, read by publish.yml too.
           RAMP=$(node -e "
             const fs=require('fs');
-            let d={};try{d=JSON.parse(fs.readFileSync('data/fill-phase.json','utf8'))}catch{}
-            const t=d.switchedAt?Date.parse(d.switchedAt):Date.now();
-            const w=Math.floor((Date.now()-t)/(7*864e5));
-            console.log([25,35][w] ?? 50);
+            let t={};try{t=JSON.parse(fs.readFileSync('data/publish-throttle.json','utf8'))}catch{}
+            if (typeof t.backfillPerRun === 'number' && t.backfillPerRun >= 0) { console.log(t.backfillPerRun); }
+            else {
+              let d={};try{d=JSON.parse(fs.readFileSync('data/fill-phase.json','utf8'))}catch{}
+              const s=d.switchedAt?Date.parse(d.switchedAt):Date.now();
+              const w=Math.floor((Date.now()-s)/(7*864e5));
+              console.log([25,35][w] ?? 50);
+            }
           ")
           if [ "${{ github.event_name }}" != "workflow_run" ]; then
             echo "count=${{ github.event.inputs.count || '50' }}" >> "$GITHUB_OUTPUT"
@@ -125,6 +133,13 @@ jobs:
             exit 0
           fi
           echo "count=$RAMP" >> "$GITHUB_OUTPUT"
+          # A throttled-to-zero run must not proceed: generate.mjs with a target of 0
+          # would still spend Places queries deciding it has nothing to do.
+          if [ "$RAMP" = "0" ]; then
+            echo "run=0" >> "$GITHUB_OUTPUT"
+            echo "대량발행이 잠시 꺼져 있습니다 (data/publish-throttle.json). 구글이 이미 쌓인 URL을 다 읽을 때까지입니다."
+            exit 0
+          fi
           # The upstream is now backfill-details, not publish (see the header).
           # 'skipped' is a normal outcome there — its gate can decide it is not
           # this phase's turn — and must NOT block the country fill, which was
