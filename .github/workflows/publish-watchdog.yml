@@ -1,0 +1,32 @@
+name: Publish watchdog
+# Did today's publish actually run?
+#
+# On 2026-08-27 it did not. The workflow was active, its cron unchanged, and six
+# other scheduled workflows fired that morning — GitHub just dropped this one, and
+# nothing noticed. job-failure-alert watches for runs that FAIL; a run that never
+# starts has no failure to report. Publishing can stop dead and the only symptom
+# is a site that quietly stops growing.
+#
+# Runs three hours after the publish cron (07:19 UTC), which is long enough for a
+# merely-late schedule to have landed on its own. Silent when publishing ran.
+on:
+  schedule:
+    - cron: '30 10 * * *'   # 19:30 KST, ~3h after the publish cron
+  workflow_dispatch:
+
+permissions:
+  actions: write   # to read the run history and to start a missed run
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: { node-version: '20' }
+      - run: node scripts/check-publish-ran.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

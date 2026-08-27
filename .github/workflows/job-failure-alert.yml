@@ -27,6 +27,7 @@ on:
       - 'Backfill real venue photos'
       - 'Index coverage audit'
       - 'Index verdict reminder'
+      - 'Publish watchdog'
       - 'attach-placeless-photos'
       - 'mailerlite-fields'
       - 'Test Telegram notification'
