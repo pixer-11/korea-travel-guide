@@ -1,11 +1,17 @@
 name: gsc-report
 # Weekly Google Search Console digest → Korean Telegram. Surfaces the "near-miss"
-# queries (page 2) that are the highest-leverage list for improving rankings.
+# queries (page 2) that are the highest-leverage list for improving rankings, and
+# then the cohort watch: whether the pages that WERE earning impressions still are.
+# Both run in one job — same secrets, same runner, one weekly wake-up.
 # Skips itself cleanly until the owner adds the two secrets.
 on:
   schedule:
     - cron: '23 22 * * 0'   # Mondays 07:23 KST (Sun 22:23 UTC)
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   report:
     runs-on: ubuntu-latest
@@ -14,8 +20,28 @@ jobs:
       - uses: actions/setup-node@v5
         with: { node-version: '20' }
       - run: node scripts/gsc-report.mjs
-        env:
+        env: &gsc
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      # Posts to Telegram only when the cohort actually falls — a weekly "all fine"
+      # message would train the owner to stop reading the channel.
+      - run: node scripts/audit-impression-cohort.mjs
+        env: *gsc
+
+      # The ledger is the point: a few months of these turn the alarm thresholds
+      # from one observation into a measured baseline.
+      - name: commit the cohort ledger
+        run: |
+          git config user.name  "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          # Absent only if the script bailed on a missing secret; adding it then
+          # would fail the job over nothing.
+          [ -f data/impression-cohort.json ] || exit 0
+          git add data/impression-cohort.json
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: impression cohort ledger ($(date -u +%Y-%m-%d))"
+          git pull --rebase origin main
+          git push
