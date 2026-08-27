@@ -51,6 +51,42 @@ t('검사량 하한 가드가 있으면 잡지 않는다', () => {
   return clean(r) ? null : `오탐: ${r.out}`;
 });
 
+t('꺼져 있음을 알리는 스로틀 0은 잡지 않는다 (2026-08-27 backfill)', () => {
+  const r = audit({
+    'x.yml': `name: Backfill
+jobs:
+  a:
+    steps:
+      - run: |
+          if [ "$RAMP" = "0" ]; then
+            echo "대량발행이 잠시 꺼져 있습니다 (data/publish-throttle.json). 구글이 이미 쌓인 URL을 다 읽을 때까지입니다."
+            exit 0
+          fi
+${TELEGRAM}
+`,
+  });
+  return clean(r) ? null : `오탐: ${r.out}`;
+});
+
+t('알림 없는 침묵의 0은 여전히 잡는다 (announcedOff 역방향)', () => {
+  const r = audit({
+    'x.yml': `name: Backfill
+jobs:
+  a:
+    steps:
+      - run: |
+          if [ "$RAMP" = "0" ]; then
+            exit 0
+          fi
+          if [ "\${DONE:-0}" = "0" ]; then
+            echo "✅ 완료"
+          fi
+${TELEGRAM}
+`,
+  });
+  return /EMPTY-PASS/.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
 t('실제 작업이 있었을 때만 보고하는 워크플로는 잡지 않는다', () => {
   // quality-audit 형태: 커밋이 생겼을 때만 알린다 → 0은 "고칠 게 없었다"는 뜻.
   const r = audit({

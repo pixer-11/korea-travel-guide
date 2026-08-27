@@ -59,7 +59,13 @@ for (const [f, src] of sources) {
   // matters more than catching one extra case — a checker that cries wolf is a
   // checker people stop reading, which is how the site got here.
   const gatedOnRealWork = /if:\s*steps\.[\w-]+\.outputs\.(committed|changed|fixed|published)\s*==/.test(src);
-  if (declaresCleanOnZero && !hasVolumeGuard && !gatedOnRealWork) {
+  // A zero that says WHY it is zero is not an empty pass. 2026-08-27: the
+  // publish throttle (data/publish-throttle.json) turns the bulk fill off on
+  // purpose while Google drains 5,036 queued URLs, and its exit-0 branch
+  // tells the reader so ("잠시 꺼져 있습니다") — indistinguishable-from-clean
+  // is the defect, and an announced off-switch is distinguishable.
+  const announcedOff = /잠시 꺼져 있(?:습니다|어)|publish-throttle\.json|deliberately (?:off|disabled)/.test(src);
+  if (declaresCleanOnZero && !hasVolumeGuard && !gatedOnRealWork && !announcedOff) {
     add('EMPTY-PASS', f,
       `"${name}" reports success when its counter is 0, with nothing verifying that anything was examined. A crawl/scan that reads nothing looks identical to a clean result.`);
   }

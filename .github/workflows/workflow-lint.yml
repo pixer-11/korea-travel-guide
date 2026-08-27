@@ -45,7 +45,15 @@ jobs:
         # perfectly while failing on precisely the runs that found something.
         # These are the recurring shapes, now caught by pattern instead of by
         # the owner noticing (2026-08-05).
-        run: node scripts/audit-automation.mjs
+        # Findings land in a file so the alert below can SHOW them — until
+        # 2026-08-27 an audit finding sent the syntax-error alert with "(목록
+        # 확인 불가)": wrong diagnosis and no list, both at once.
+        run: |
+          set +e
+          node scripts/audit-automation.mjs > /tmp/audit.txt 2>&1
+          code=$?
+          cat /tmp/audit.txt
+          exit $code
 
       - name: Check scheduled jobs are still running
         # The file audit reads what a workflow SAYS. This asks GitHub what
@@ -69,10 +77,19 @@ jobs:
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           {
-            echo "🚨 워크플로 파일 문법 오류 — GitHub가 해당 자동화를 조용히 무시하고 있습니다!"
-            cat /tmp/bad.txt 2>/dev/null || echo "(목록 확인 불가 — Actions 로그 참조)"
-            echo ""
-            echo "클로드에게 '워크플로 문법 고쳐줘'라고 말하면 수정합니다."
+            if [ -s /tmp/bad.txt ]; then
+              echo "🚨 워크플로 파일 문법 오류 — GitHub가 해당 자동화를 조용히 무시하고 있습니다!"
+              cat /tmp/bad.txt
+              echo ""
+              echo "클로드에게 '워크플로 문법 고쳐줘'라고 말하면 수정합니다."
+            elif grep -q 'findings' /tmp/audit.txt 2>/dev/null; then
+              echo "⚠️ 자동화 감사 지적 — 문법 오류는 아니고, 검사기 품질 문제입니다"
+              grep -vE '^\s*$' /tmp/audit.txt | head -12
+              echo ""
+              echo "클로드에게 '자동화 감사 지적 봐줘'라고 말하면 판정합니다."
+            else
+              echo "🚨 워크플로 점검 실패 — Actions 로그를 확인해야 합니다"
+            fi
           } > /tmp/msg.txt
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
