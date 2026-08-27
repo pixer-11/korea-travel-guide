@@ -118,7 +118,16 @@ jobs:
           # missing file restores the ramp. One switch, read by publish.yml too.
           RAMP=$(node -e "
             const fs=require('fs');
-            let t={};try{t=JSON.parse(fs.readFileSync('data/publish-throttle.json','utf8'))}catch{}
+            const F='data/publish-throttle.json';
+            let t={};
+            if (fs.existsSync(F)) {
+              try{t=JSON.parse(fs.readFileSync(F,'utf8'))}
+              catch(e){console.error('publish-throttle.json 을 읽을 수 없다: '+e.message);process.exit(1)}
+              const b=t.backfillPerRun;
+              if (b!==undefined && (!Number.isInteger(b)||b< -1||b>200)) {
+                console.error('backfillPerRun 값이 이상하다: '+JSON.stringify(b));process.exit(1);
+              }
+            }
             if (typeof t.backfillPerRun === 'number' && t.backfillPerRun >= 0) { console.log(t.backfillPerRun); }
             else {
               let d={};try{d=JSON.parse(fs.readFileSync('data/fill-phase.json','utf8'))}catch{}

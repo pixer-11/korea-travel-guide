@@ -405,6 +405,16 @@ function regionRedirectsIntegration() {
         const rules = (existing + lines.join(String.fromCharCode(10)))
           .split(String.fromCharCode(10))
           .filter((l) => l.trim() && !l.startsWith('#')).length;
+        // Past the cap Cloudflare drops the overflow silently, so a build that
+        // ships it has already broken quarantined URLs. Fail here instead: a red
+        // build is recoverable, a site quietly serving 404s is not.
+        if (rules > 2000) {
+          throw new Error(
+            `_redirects: ${rules} rules exceeds Cloudflare's 2,000 cap. The overflow would be dropped ` +
+            `without warning and quarantined URLs would 404. Release posts from quarantine (5 lines each) ` +
+            `or prune retired redirects before shipping.`,
+          );
+        }
         if (rules > 1600) {
           console.warn(`⚠️  _redirects: ${rules}/2000 rules — Cloudflare drops the rest without saying so.`);
           console.warn('   Quarantined posts write 5 lines each; releasing them from quarantine is what frees space.');

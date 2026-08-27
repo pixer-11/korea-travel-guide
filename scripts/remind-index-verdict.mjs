@@ -19,7 +19,11 @@ const BASELINE = 'data/index-coverage-baseline.json';
 const dry = process.argv.includes('--dry');
 
 const b = JSON.parse(readFileSync(BASELINE, 'utf8'));
-const today = new Date().toISOString().slice(0, 10);
+// KST, not UTC. The cron fires at 22:00 UTC so that it lands at 07:00 KST on the
+// judge date — but toISOString() still reads the previous UTC day then, so a UTC
+// comparison stays silent on the very morning it is meant to speak and nudges a
+// day late. Everything the owner reads is in KST; the date must be too.
+const today = new Date(Date.now() + 9 * 3600 * 1000).toISOString().slice(0, 10);
 
 if (b.verdict.judgedOn) {
   console.log(`이미 판정됨 (${b.verdict.judgedOn}) — 알림 없음.`);

@@ -13,7 +13,7 @@
 // Indexing > Pages > Export. Pass the CSV, the unzipped folder, or the .zip.
 //
 //   node scripts/judge-index-coverage.mjs <path-to-csv|folder|zip>
-import { readFileSync, readdirSync, statSync, mkdtempSync, rmSync } from 'node:fs';
+import { readFileSync, readdirSync, statSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { join } from 'node:path';
 import { tmpdir } from 'node:os';
@@ -60,10 +60,22 @@ function load(target) {
   return s.length ? s : null;
 }
 
-const target = process.argv[2];
+// Crawl requests come from a different GSC screen (Settings > Crawl stats) and
+// cannot be exported with coverage, so they arrive as a flag. Without this the
+// 'backfired' verdict — the only one that can say we made things worse — is
+// unreachable, which is how it shipped this morning.
+const crawlArg = process.argv.find((a) => a.startsWith('--crawl='));
+const crawlRequests = crawlArg ? Number(crawlArg.slice(8)) : null;
+if (crawlArg && !Number.isFinite(crawlRequests)) {
+  console.error(`--crawl 값이 숫자가 아니다: ${crawlArg.slice(8)}`);
+  process.exit(2);
+}
+
+const target = process.argv.find((a) => !a.startsWith('--') && a !== process.argv[0] && a !== process.argv[1]);
 if (!target) {
-  console.error('사용법: node scripts/judge-index-coverage.mjs <CSV | 폴더 | zip>');
-  console.error('  (GSC → 색인 생성 → 페이지 → 내보내기)');
+  console.error('사용법: node scripts/judge-index-coverage.mjs <CSV | 폴더 | zip> [--crawl=<90일 크롤 요청 수>]');
+  console.error('  커버리지: GSC → 색인 생성 → 페이지 → 내보내기');
+  console.error('  크롤 수: GSC → 설정 → 크롤링 통계 → 총 크롤링 요청 횟수 (없으면 생략 가능)');
   process.exit(2);
 }
 
@@ -75,10 +87,10 @@ if (!series?.length) {
 }
 
 const baseline = JSON.parse(readFileSync(BASELINE, 'utf8'));
-const latest = series[series.length - 1];
+const latest = { ...series[series.length - 1], ...(crawlRequests != null ? { crawlRequests } : {}) };
 const v = judge(latest, baseline);
 
-const icon = { win: '🎯', partial: '🟡', 'no-effect': '⛔', invalid: '⚠️', 'too-early': '⏳' }[v.level];
+const icon = { win: '🎯', partial: '🟡', 'no-effect': '⛔', invalid: '⚠️', 'too-early': '⏳', backfired: '🔻' }[v.level] ?? '•';
 const sign = (n) => `${n > 0 ? '+' : ''}${n}`;
 
 console.log(`${icon} 색인 커버리지 판정 — 기준 ${baseline.latest.date} → 관측 ${latest.date}`);
@@ -101,9 +113,32 @@ if (sIdx == null) {
 console.log(`  스로틀 이전 기울기: 색인 ${baseline.slopePerDay.indexed}/일 · 미색인 ${baseline.slopePerDay.notIndexed}/일  (${baseline.slopePerDay.window})`);
 
 console.log('');
+if (crawlRequests == null && v.level !== 'too-early') {
+  console.log(`  ⚠️ 크롤 요청 수를 안 줬다 — "더 나빠졌는가" 축은 판정하지 못했다.`);
+  console.log(`     GSC → 설정 → 크롤링 통계에서 총 요청 수를 읽어 --crawl=<숫자> 로 다시 돌릴 것.`);
+  console.log(`     08-27 기준값: ${baseline.crawlStats?.totalRequests90d ?? '?'}`);
+  console.log('');
+}
 console.log(`  판정: ${v.key}`);
 console.log(`  ${v.meaning}`);
 console.log('');
 console.log(`  * 기준은 결과를 보기 전(${baseline.capturedOn})에 ${BASELINE} 에 적어둔 것이다.`);
+
+// --record stamps the verdict into the baseline, which is what stops the 09-10
+// reminder. Without it the reminder keeps firing every morning of its window even
+// after the judgement was made, because nothing else writes `judgedOn`.
+if (process.argv.includes('--record')) {
+  if (v.level === 'too-early') {
+    console.log('');
+    console.log('  --record 무시: 아직 판정일 전이라 기록할 것이 없다.');
+  } else {
+    baseline.verdict.judgedOn = latest.date;
+    baseline.verdict.judgedAs = { level: v.level, key: v.key, indexed: latest.indexed, notIndexed: latest.notIndexed, crawlRequests: crawlRequests ?? null };
+    writeFileSync(BASELINE, `${JSON.stringify(baseline, null, 2)}\n`);
+    console.log('');
+    console.log(`  ✅ 판정을 ${BASELINE} 에 기록했다 (judgedOn: ${latest.date}) — 리마인더가 멈춘다.`);
+    console.log('     커밋해야 자동화에도 반영된다.');
+  }
+}
 
 // A judgement is information, not a failure — always exit 0 except on a bad read.

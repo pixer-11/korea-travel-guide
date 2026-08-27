@@ -117,3 +117,20 @@ test('no crawl figure supplied — the axis simply does not fire', () => {
   const v = judge({ date: BASE.verdict.judgeOn, indexed: 5900, notIndexed: 6000 }, BASE);
   assert.equal(v.level, 'win');
 });
+
+// Codex review, 2026-08-27: the 'backfired' axis existed in judge() but nothing
+// could reach it — the CLI never passed a crawl figure and the icon table had no
+// entry, so it would have printed 'undefined' if it ever fired. These pin the
+// contract the CLI now honours with --crawl.
+test('backfired needs a crawl figure — without one the axis stays silent', () => {
+  const withOut = judge({ date: BASE.verdict.judgeOn, indexed: 5229, notIndexed: 12000 }, BASE);
+  assert.notEqual(withOut.level, 'backfired', 'no crawl figure must not fabricate a backfire verdict');
+});
+
+test('a crawl figure at the 80% line is the boundary', () => {
+  const base = BASE.crawlStats.totalRequests90d;
+  const justUnder = judge({ date: BASE.verdict.judgeOn, indexed: 5900, notIndexed: 6000, crawlRequests: Math.floor(base * 0.8) - 1 }, BASE);
+  const justOver = judge({ date: BASE.verdict.judgeOn, indexed: 5900, notIndexed: 6000, crawlRequests: Math.ceil(base * 0.8) + 1 }, BASE);
+  assert.equal(justUnder.level, 'backfired');
+  assert.equal(justOver.level, 'win');
+});

@@ -55,6 +55,14 @@ async function main() {
     return;
   }
 
+  // A page query that returns exactly the row limit was almost certainly cut off,
+  // and a truncated cohort silently under-reports the loss it exists to measure.
+  for (const [label, res] of [['기준', prev], ['비교', next]]) {
+    if ((res.rows?.length ?? 0) >= 5000) {
+      console.warn(`⚠️  ${label} 기간이 rowLimit 5000에 닿았다 — 코호트가 잘렸을 수 있다(과소보고).`);
+    }
+  }
+
   const c = compareCohort(prev.rows, next.rows);
   const v = verdict(c);
 

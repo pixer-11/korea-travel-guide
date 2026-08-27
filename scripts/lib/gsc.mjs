@@ -59,7 +59,12 @@ export async function telegram(text) {
     body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),
   });
   const j = await r.json().catch(() => ({}));
-  if (!j.ok) console.error('Telegram failed:', JSON.stringify(j).slice(0, 200));
+  // Throw, don't log. For the cohort watch and the verdict reminder the Telegram
+  // message IS the deliverable — a job that "succeeds" after the send failed
+  // means a 401 or a wrong chat id silently swallows the one alert that mattered,
+  // and job-failure-alert never hears about it. Missing secrets are different and
+  // are handled above: that is a not-configured-yet skip, not a delivery failure.
+  if (!j.ok) throw new Error(`Telegram send failed: ${JSON.stringify(j).slice(0, 200)}`);
 }
 
 // A date offset from today, YYYY-MM-DD. GSC data lags ~2 days, so callers ask for

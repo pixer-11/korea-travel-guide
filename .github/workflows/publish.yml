@@ -85,7 +85,17 @@ jobs:
       - name: Read publish throttle
         id: throttle
         run: |
-          N=$(node -e "let d={};try{d=JSON.parse(require('fs').readFileSync('data/publish-throttle.json','utf8'))}catch{};console.log(d.postsPerRun??16)")
+          N=$(node -e "
+            const fs=require('fs');
+            const F='data/publish-throttle.json';
+            if(!fs.existsSync(F)){console.log(16);process.exit(0)}   // no throttle configured
+            let d;
+            try{d=JSON.parse(fs.readFileSync(F,'utf8'))}
+            catch(e){console.error('publish-throttle.json 을 읽을 수 없다: '+e.message);process.exit(1)}
+            const n=d.postsPerRun??16;
+            if(!Number.isInteger(n)||n<0||n>200){console.error('postsPerRun 값이 이상하다: '+JSON.stringify(d.postsPerRun));process.exit(1)}
+            console.log(n);
+          ")
           echo "posts=$N" >> "$GITHUB_OUTPUT"
           echo "이번 발행 편수: $N (data/publish-throttle.json)"
 
