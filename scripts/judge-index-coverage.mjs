@@ -1,0 +1,109 @@
+#!/usr/bin/env node
+// Judge a fresh GSC coverage export against the baseline captured on 2026-08-27.
+//
+// Why this exists as a tool rather than a note. On 2026-08-27 the indexed count
+// was found to have sat at ~5,232 for a month while the not-indexed pile grew
+// 162/day — every page made since 07-25 landed unread. Publishing was throttled
+// from ~330 to 25 URLs/day as an experiment, to be judged on 09-10. The failure
+// mode that experiment invites is a hopeful reading of an ambiguous number two
+// weeks later, so the thresholds were written down BEFORE the result existed
+// (data/index-coverage-baseline.json) and this only applies them.
+//
+// GSC's API does not expose coverage — the owner exports it by hand from
+// Indexing > Pages > Export. Pass the CSV, the unzipped folder, or the .zip.
+//
+//   node scripts/judge-index-coverage.mjs <path-to-csv|folder|zip>
+import { readFileSync, readdirSync, statSync, mkdtempSync, rmSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
+import { join } from 'node:path';
+import { tmpdir } from 'node:os';
+import { parseCoverageCsv, slope, judge } from './lib/coverage.mjs';
+
+const BASELINE = 'data/index-coverage-baseline.json';
+
+// The export's filenames are localized, so find the chart CSV by its CONTENT.
+// Matching on a name would break the moment the console language changes.
+function findSeries(dir) {
+  for (const f of readdirSync(dir)) {
+    if (!f.toLowerCase().endsWith('.csv')) continue;
+    const s = parseCoverageCsv(readFileSync(join(dir, f), 'utf8'));
+    if (s.length) return s;
+  }
+  return null;
+}
+
+function load(target) {
+  const st = statSync(target);
+  if (st.isDirectory()) return findSeries(target);
+  if (target.toLowerCase().endsWith('.zip')) {
+    // Windows' bundled tar (bsdtar) reads zip; the GNU tar that ships with Git
+    // Bash does not, and it is the one first on PATH there — so try the system
+    // one by absolute path first, and say so plainly if neither works rather
+    // than dying in a stack trace.
+    const candidates = [
+      process.env.SystemRoot ? join(process.env.SystemRoot, 'System32', 'tar.exe') : null,
+      'tar',
+    ].filter(Boolean);
+    const dir = mkdtempSync(join(tmpdir(), 'cov-'));
+    try {
+      for (const tar of candidates) {
+        try { execFileSync(tar, ['-xf', target, '-C', dir], { stdio: 'ignore' }); }
+        catch { continue; }
+        return findSeries(dir);
+      }
+      console.error('이 환경의 tar 가 zip 을 못 푼다. 압축을 직접 풀고 그 폴더를 주면 된다:');
+      console.error(`  node scripts/judge-index-coverage.mjs "<압축 푼 폴더>"`);
+      process.exit(1);
+    } finally { rmSync(dir, { recursive: true, force: true }); }
+  }
+  const s = parseCoverageCsv(readFileSync(target, 'utf8'));
+  return s.length ? s : null;
+}
+
+const target = process.argv[2];
+if (!target) {
+  console.error('사용법: node scripts/judge-index-coverage.mjs <CSV | 폴더 | zip>');
+  console.error('  (GSC → 색인 생성 → 페이지 → 내보내기)');
+  process.exit(2);
+}
+
+const series = load(target);
+if (!series?.length) {
+  console.error(`색인 커버리지 CSV를 찾지 못했다: ${target}`);
+  console.error('내보내기 안의 "차트" CSV가 필요하다(날짜·색인 생성됨·색인이 생성되지 않은 페이지).');
+  process.exit(1);
+}
+
+const baseline = JSON.parse(readFileSync(BASELINE, 'utf8'));
+const latest = series[series.length - 1];
+const v = judge(latest, baseline);
+
+const icon = { win: '🎯', partial: '🟡', 'no-effect': '⛔', invalid: '⚠️', 'too-early': '⏳' }[v.level];
+const sign = (n) => `${n > 0 ? '+' : ''}${n}`;
+
+console.log(`${icon} 색인 커버리지 판정 — 기준 ${baseline.latest.date} → 관측 ${latest.date}`);
+console.log('');
+console.log(`  색인됨      ${baseline.latest.indexed} → ${latest.indexed}  (${sign(v.deltaIndexed)})`);
+console.log(`  미색인      ${baseline.latest.notIndexed} → ${latest.notIndexed}  (${sign(v.deltaNotIndexed)})`);
+
+// Measure the slope over the SAME kind of window the baseline used: from the
+// baseline's last reading onward. Measuring from the file's first row would drag
+// in the launch crawl and report growth for a site that has been flat.
+const since = baseline.latest.date;
+const sIdx = slope(series, 'indexed', since);
+const sNot = slope(series, 'notIndexed', since);
+console.log('');
+if (sIdx == null) {
+  console.log(`  기울기: ${since} 이후 갱신이 아직 2회 미만이라 계산할 수 없다.`);
+} else {
+  console.log(`  ${since} 이후 기울기: 색인 ${sIdx.toFixed(2)}/일 · 미색인 ${sNot.toFixed(1)}/일`);
+}
+console.log(`  스로틀 이전 기울기: 색인 ${baseline.slopePerDay.indexed}/일 · 미색인 ${baseline.slopePerDay.notIndexed}/일  (${baseline.slopePerDay.window})`);
+
+console.log('');
+console.log(`  판정: ${v.key}`);
+console.log(`  ${v.meaning}`);
+console.log('');
+console.log(`  * 기준은 결과를 보기 전(${baseline.capturedOn})에 ${BASELINE} 에 적어둔 것이다.`);
+
+// A judgement is information, not a failure — always exit 0 except on a bad read.
