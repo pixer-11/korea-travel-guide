@@ -5782,11 +5782,11 @@
   "at": "2026-08-15T02:50:40.898Z"
  },
  "ja/east-rutherford-bruno-mars-the-romantic-tour": {
-  "hash": "24ea581006ba",
+  "hash": "f66ac4c1bc0b",
   "score": 1,
   "registerBreak": false,
-  "worst": "ニューヨーク・ニュージャージー圏での高い需要を物語っており、一夜限りの気軽なイベントとして油断できるものではありません。",
-  "at": "2026-08-15T02:50:41.695Z"
+  "worst": "メットライフの常連客が早めに到着するのは、ショー自体のためというより、交通機関の混雑を避けるためです。",
+  "at": "2026-08-27T18:29:42.398Z"
  },
  "ja/el-nido-taraw-cliff": {
   "hash": "b86ac10be7a9",
@@ -9128,11 +9128,11 @@
   "at": "2026-08-15T03:06:06.779Z"
  },
  "ja/seattle-biang-biang-noodles": {
-  "hash": "0bf35af398eb",
+  "hash": "5ee6dc67c8f9",
   "score": 1,
   "registerBreak": false,
-  "worst": "メニューは麺だけにとどまらず、一品だけでなく複数の料理を注文することで、より満足度が高まります。",
-  "at": "2026-08-15T03:06:08.398Z"
+  "worst": "ドアを見る前に、ラー油の香りが漂ってきます。",
+  "at": "2026-08-27T18:28:08.929Z"
  },
  "ja/seattle-pike-place-market": {
   "hash": "fa3855474993",
@@ -11928,11 +11928,11 @@
   "at": "2026-08-15T08:44:36.111Z"
  },
  "es/east-rutherford-bruno-mars-the-romantic-tour": {
-  "hash": "a35a6535492e",
+  "hash": "9a10b778cf5e",
   "score": 1,
   "registerBreak": false,
-  "worst": "puede ahorrarte tiempo frente a buscar un lugar libre",
-  "at": "2026-08-15T03:19:14.209Z"
+  "worst": "las puertas suelen abrirse varias horas antes del actuación principal",
+  "at": "2026-08-27T18:27:46.736Z"
  },
  "es/el-nido-taraw-cliff": {
   "hash": "43a94fe57c1e",
@@ -15344,11 +15344,11 @@
   "at": "2026-08-15T03:34:38.937Z"
  },
  "es/seattle-biang-biang-noodles": {
-  "hash": "bf105c796411",
+  "hash": "28e084a40db6",
   "score": 1,
   "registerBreak": false,
-  "worst": "así que el servicio de cena de fin de semana genera una fila real.",
-  "at": "2026-08-15T06:42:01.628Z"
+  "worst": "...hasta convertirse en una cinta ancha, como una tira.",
+  "at": "2026-08-27T18:27:50.753Z"
  },
  "es/segovia-segovia-aqueduct": {
   "hash": "4950f6735c24",
@@ -20832,11 +20832,11 @@
   "at": "2026-08-15T09:23:32.919Z"
  },
  "zh/seattle-biang-biang-noodles": {
-  "hash": "685edfbc7890",
+  "hash": "f3eecf1f7ffe",
   "score": 1,
   "registerBreak": false,
-  "worst": "是消化这碗辣香蒜辣的biangbiang面、再返回市区之前的不错选择。",
-  "at": "2026-08-15T04:12:23.951Z"
+  "worst": "以一家中档餐厅的标准来说，分量相当足，两人共享两三道菜刚刚好。",
+  "at": "2026-08-27T18:28:43.654Z"
  },
  "zh/sentosa-skyline-luge-singapore": {
   "hash": "045de4559d45",
@@ -24815,11 +24815,11 @@
   "at": "2026-08-24T08:36:27.145Z"
  },
  "ko/east-rutherford-bruno-mars-the-romantic-tour": {
-  "hash": "7245a03ff806",
+  "hash": "f9a9a6d78c4d",
   "score": 1,
   "registerBreak": false,
-  "worst": "오프닝 acts나 DJ가 분위기를 데웁니다.",
-  "at": "2026-08-15T08:28:57.603Z"
+  "worst": "브루노 마스는 지난 20년 가까이 스타디움을 거대한 댄스플로어로 바꿔놓은 아티스트입니다.",
+  "at": "2026-08-27T18:29:48.820Z"
  },
  "ko/florence-palazzo-vecchio": {
   "hash": "d134458431f6",
@@ -24976,11 +24976,11 @@
   "at": "2026-08-15T10:34:12.333Z"
  },
  "ko/seattle-biang-biang-noodles": {
-  "hash": "2e3afa21e8bd",
+  "hash": "62482b494726",
   "score": 1,
   "registerBreak": false,
-  "worst": "주문하면 쫄깃하면서도 살짝 찐득한 면에 고추기름, 식초, 마늘을 버무리고 위에 파와 다진 땅콩을 뿌린 그릭 한 그릇이 나옵니다.",
-  "at": "2026-08-15T08:37:19.317Z"
+  "worst": "팁은 18~20%를 추가로 지불하세요: 이는 캐주얼한 카운터식 매장이라도 미국의 일반적인 착석 서비스 기준을 따르는 것입니다.",
+  "at": "2026-08-27T18:28:24.212Z"
  },
  "ko/seoul-artist-bakery": {
   "hash": "1972805aaa2a",
@@ -27671,11 +27671,11 @@
   "at": "2026-08-16T11:22:14.871Z"
  },
  "zh/east-rutherford-bruno-mars-the-romantic-tour": {
-  "hash": "8fe522c1c453",
+  "hash": "b4c6dc0d7192",
   "score": 1,
   "registerBreak": false,
-  "worst": "这绝非一场可以掉以轻心、随意安排的单场演出。",
-  "at": "2026-08-16T11:05:14.400Z"
+  "worst": "对观演者来说，最稳妥的方式是乘坐新泽西公交专门开通的梅多兰兹铁路线——演出日会有特别列车从纽约宾夕法尼亚车站和塞考克斯枢纽站直达体育场",
+  "at": "2026-08-27T18:28:29.878Z"
  },
  "zh/chuncheon-1-5-dakgalbi": {
   "hash": "12596845c176",
@@ -29041,5 +29041,33 @@
   "registerBreak": false,
   "worst": "在世界各地厨师中，磅逊胡椒素以柑橘般的辛辣和复杂香气闻名。",
   "at": "2026-08-26T09:50:13.407Z"
+ },
+ "zh/milan-a-ap-rocky-don-t-be-dumb-world-tour-i-days-milano": {
+  "hash": "d4bd5312f242",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这位说唱歌手与米兰的缘分早已由来已久，多年来一直是时装周前排的常客，如今终于以headliner（压轴主角）而非嘉宾的身份重返这座城市，也算是画上了一个顺理成章的闭环。",
+  "at": "2026-08-27T18:28:33.247Z"
+ },
+ "es/jordan-victoria-peak-garden": {
+  "hash": "b0a6f455ff63",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El error más común es detenerse en el mirador de la Peak Tower y no dar el paso adicional",
+  "at": "2026-08-27T18:28:46.665Z"
+ },
+ "ja/jordan-victoria-peak-garden": {
+  "hash": "10c344f0e45c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "多くの観光客はピーク・タワーとその展望デッキで足を止めてしまいますが、そこからさらに...",
+  "at": "2026-08-27T18:28:48.520Z"
+ },
+ "ko/jordan-victoria-peak-garden": {
+  "hash": "23ba879fc82e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "시끌벅적한 산길을 오른 뒤 맞이하는 조용한 보상, 그것이 바로 빅토리아 피크 가든입니다.",
+  "at": "2026-08-27T18:28:51.998Z"
  }
 }

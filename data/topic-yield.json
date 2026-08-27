@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 100,
-   "hits": 61
+   "attempts": 101,
+   "hits": 62
   },
   "park": {
-   "attempts": 79,
-   "hits": 43
+   "attempts": 83,
+   "hits": 47
   },
   "viewpoint": {
    "attempts": 51,
@@ -154,5 +154,5 @@
    "hits": 0
   }
  },
- "updated": "2026-08-26T09:43:09.342Z"
+ "updated": "2026-08-27T18:23:20.503Z"
 }
