@@ -101,7 +101,7 @@ On weekends, arriving right at the 11:30am opening also avoids crowds. Steer cle
 
 ## How to visit like a local
 
-Biang Biang Noodles is well-known well beyond Capitol Hill regulars, so weekend dinner service draws a real line. Beating it is mostly about timing, not tricks.
+Biang Biang Noodles is known well beyond Capitol Hill regulars, so weekend dinner service draws a real line. Beating it is mostly about timing, not tricks.
 
 - **Time it right**: aim for the quiet weekday lunch window (11:30am–3pm) or right at weekend opening.
 - **No reservations for small groups usually**: walk-ins are the norm, so budget extra time on busy evenings.

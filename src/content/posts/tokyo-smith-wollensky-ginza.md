@@ -49,7 +49,7 @@ Because exact hours, menu items, and prices weren't confirmed for this piece, ch
 
 Evenings are when this place comes alive — that's when the jazz starts and the room fills with a mix of business dinners, celebrations, and visitors ticking off Ginza's dining scene. A trending, newly landed international name like this draws steady demand, so weekend nights book up fastest.
 
-If you want a calmer read on the room — to actually hear the music and see the open kitchen without a crowd at your elbow — an early weeknight seating is your best bet. Ask when booking whether a bar seat or early table is available; it's often the easiest way in in without a long wait.
+If you want a calmer read on the room — to actually hear the music and see the open kitchen without a crowd at your elbow — an early weeknight seating is your best bet. Ask when booking whether a bar seat or early table is available; it's often the easiest way in without a long wait.
 
 ## How to visit like a local
 

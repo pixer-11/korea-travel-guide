@@ -73,7 +73,7 @@ With a rating hovering around 4.8 from a tight base of reviewers, this isn't a p
 
 Sai Kung isn't on the MTR network, so you'll arrive by bus or minibus, most commonly from Hang Hau MTR station on the Tseung Kwan O line.
 
-From Hang Kong Kong exit, green minibus 1A or 101M drops you in central Sai Kung in about 15 minutes. From there:
+From Hang Hau MTR station, green minibus 1A or 101M drops you in central Sai Kung in about 15 minutes. From there:
 
 - Walk toward the waterfront promenade
 - Cut inland one block to Yi Chun Street
