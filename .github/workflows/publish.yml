@@ -15,9 +15,13 @@ on:
   workflow_dispatch: # lets you run it manually from the Actions tab
     inputs:
       count:
-        description: 'How many posts to generate this run (daily auto uses 16)'
+        # Blank on purpose. A default here is not a default — GitHub fills it in
+        # for every manual run, so `inputs.count || <throttle>` never reaches the
+        # throttle and a rescue dispatch silently published 50. Leave it empty to
+        # follow data/publish-throttle.json; type a number only to override it.
+        description: 'How many posts (blank = follow data/publish-throttle.json)'
         required: false
-        default: '50'
+        default: ''
       country:
         description: 'Optional: fill ONE country only, e.g. Japan (blank = all active)'
         required: false
