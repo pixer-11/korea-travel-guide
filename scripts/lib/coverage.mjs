@@ -97,8 +97,15 @@ export function judge(latest, baseline) {
 
   // Order matters: a throttle that never took effect makes every other reading
   // meaningless, so it is checked first.
+  // 'backfired' is checked before the good news for the same reason 'invalid' is:
+  // a throttle that suppressed crawling further is a loss no coverage reading can
+  // offset, and a verdict that could only ever say "no better" would hide it.
+  // Passed in by the caller, since crawl stats live on a different GSC screen.
   let level, key, meaning;
-  if (latest.notIndexed > 10000) {
+  if (latest.crawlRequests != null && baseline.crawlStats
+      && latest.crawlRequests < baseline.crawlStats.totalRequests90d * 0.8) {
+    level = 'backfired'; key = 'backfired'; meaning = t.backfired;
+  } else if (latest.notIndexed > 10000) {
     level = 'invalid'; key = 'throttleNotApplied'; meaning = t.throttleNotApplied;
   } else if (latest.indexed > 5300) {
     level = 'win'; key = 'win'; meaning = t.win;

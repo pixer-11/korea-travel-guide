@@ -102,3 +102,18 @@ test('slope excludes the launch crawl when given a window', () => {
   assert.ok(Math.abs(slope(s, 'indexed', '2026-07-25')) < 0.5);
   assert.equal(slope(s, 'indexed', '2026-08-21'), null, 'one refresh in the window is no slope');
 });
+
+test('BACKFIRED outranks good news — suppressed crawling is a loss coverage cannot offset', () => {
+  const v = judge({ date: BASE.verdict.judgeOn, indexed: 5900, notIndexed: 6000, crawlRequests: 20000 }, BASE);
+  assert.equal(v.level, 'backfired', 'indexed rose, but crawling collapsed further');
+});
+
+test('a healthy crawl figure does not trigger it', () => {
+  const v = judge({ date: BASE.verdict.judgeOn, indexed: 5900, notIndexed: 6000, crawlRequests: 50000 }, BASE);
+  assert.equal(v.level, 'win');
+});
+
+test('no crawl figure supplied — the axis simply does not fire', () => {
+  const v = judge({ date: BASE.verdict.judgeOn, indexed: 5900, notIndexed: 6000 }, BASE);
+  assert.equal(v.level, 'win');
+});
