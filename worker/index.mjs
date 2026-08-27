@@ -432,8 +432,15 @@ export default {
       if (pathname.startsWith('/og/') && env.OG_IMAGES) {
         const obj = await env.OG_IMAGES.get(pathname.slice(4));
         if (!obj) return new Response('not found', { status: 404 });
+        // By extension, not a constant: the bucket now also carries the daily
+        // social-card JPEGs (social/*.jpg, 2026-08-27), and Meta's fetcher is
+        // told "JPEG only" — serving JPEG bytes labeled image/webp is exactly
+        // the kind of mismatch it rejects.
         return new Response(obj.body, {
-          headers: { 'content-type': 'image/webp', 'cache-control': 'public, max-age=31536000, immutable' },
+          headers: {
+            'content-type': /\.jpe?g$/i.test(pathname) ? 'image/jpeg' : /\.png$/i.test(pathname) ? 'image/png' : 'image/webp',
+            'cache-control': 'public, max-age=31536000, immutable',
+          },
         });
       }
       if (pathname === '/go/klook' || pathname === '/go/klook/') return await handleKlookGo(request);

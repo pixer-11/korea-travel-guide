@@ -14,6 +14,8 @@ import sharp from 'sharp';
 import { commonsCandidates } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
+import { r2Put, pickThreadsOption } from './lib/meta-social.mjs';
+import { runSocialPublish, socialEnabled } from './lib/social-publish-step.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 const STATE_FILE = 'data/threads-daily.json';
@@ -37,6 +39,13 @@ const state = (() => {
 const kstDay = () => new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
 const FORCE = process.argv.includes('--force');
 if (!FORCE && state.lastSentDay === kstDay()) {
+  // Material went out on an earlier attempt. The three-a-morning schedule now
+  // ALSO carries the auto-posting (2026-08-27), so a later attempt's job is to
+  // retry whatever channel has not posted yet — never to make new material.
+  if (socialEnabled() && state.material?.day === kstDay()) {
+    await runSocialPublish(state);
+    writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
+  }
   console.log(`already sent today (${state.lastSentDay}) — skipping. Use --force to override.`);
   process.exit(0);
 }
@@ -351,6 +360,30 @@ try {
 const credit = slideCredits.length
   ? '\n📷 ' + [...new Set(slideCredits)].join('\n📷 ')
   : (post.fm.heroImage?.credit ? `\n📷 ${post.fm.heroImage.credit}` : '');
+// -------- stage for auto-posting (2026-08-27) --------
+// Meta fetches images by public URL only, so the slides go into the existing
+// R2 bucket (served at /og/social/...) — live immediately, no site rebuild.
+// The material rides in the state file so the morning's LATER attempts can
+// retry a failed publish without regenerating anything.
+if (socialEnabled()) {
+  try {
+    const urls = [];
+    for (let i = 0; i < slides.length; i++) {
+      urls.push(await r2Put(`social/${kstDay()}-${post.slug}-${i + 1}.jpg`, slides[i], 'image/jpeg'));
+    }
+    state.material = {
+      day: kstDay(), slug: post.slug, title,
+      urls,
+      igCaption: (igCaption ? `${igCaption}${credit}` : `${title} — ${region}, ${country}${credit}`).slice(0, 2200),
+      thOption: pickThreadsOption(threadsPart),
+      link: `${SITE}/posts/${post.slug}/`,
+    };
+    console.log(`social material staged: ${urls.length} image(s) on R2`);
+  } catch (e) {
+    console.error('social staging failed (manual fallback stands):', e.message);
+  }
+}
+
 const photoCount = Math.max(slides.length - (brandCard ? 1 : 0), 0);
 const igText = [
   `📸 인스타 카드뉴스 — 사진 ${slides.length}장 (장소 ${photoCount}장 + 마지막 소개 카드)`,
@@ -366,7 +399,9 @@ const thText = [
   threadsPart,
   '',
   `🔗 원문: ${SITE}/posts/${post.slug}/`,
-  '사용법: 인스타·스레드 모두 위 사진 세트를 순서대로 전부 첨부하세요 (장소 사진 2~3장 + 마지막 네임카드) — 2026년 데이터상 스레드에서도 여러 장 세트가 최고 성과입니다. 스레드는 답글이 많을수록 퍼지므로 질문형인 C안이 특히 유리합니다. 인스타는 IG 캡션 사용. 게시는 주 2~3회면 충분합니다.',
+  (socialEnabled() && state.material?.day === kstDay())
+    ? '🤖 자동 게시 예정: 스레드는 매일, 인스타는 월·수·금 — 결과는 잠시 후 "소셜 자동 게시" 알림으로 옵니다. 손으로 올리실 필요 없습니다.'
+    : '사용법: 인스타·스레드 모두 위 사진 세트를 순서대로 전부 첨부하세요 (장소 사진 2~3장 + 마지막 네임카드) — 2026년 데이터상 스레드에서도 여러 장 세트가 최고 성과입니다. 스레드는 답글이 많을수록 퍼지므로 질문형인 C안이 특히 유리합니다. 인스타는 IG 캡션 사용. 게시는 주 2~3회면 충분합니다.',
 ].join('\n');
 
 // -------- send (or preview locally) --------
@@ -419,3 +454,9 @@ state.lastSentDay = kstDay();
 mkdirSync('data', { recursive: true });
 writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
 console.log(`state saved (${state.used.length} used, day ${state.lastSentDay})`);
+
+// -------- auto-post (Threads daily · Instagram Mon/Wed/Fri) --------
+if (socialEnabled()) {
+  await runSocialPublish(state);
+  writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
+}
