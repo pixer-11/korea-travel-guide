@@ -1,0 +1,26 @@
+name: Index verdict reminder
+# The publish throttle set on 2026-08-27 is judged on a date fixed in advance, and
+# only the owner can collect the result — GSC's API does not expose index coverage,
+# so it has to be exported by hand. An experiment nobody goes back for is the same
+# as one never run, so this nudges once, in Korean, on Telegram.
+#
+# The window is five mornings rather than one because a single cron that GitHub
+# drops (it does drop scheduled runs under load) would lose the reminder entirely.
+# The script itself is idempotent: silent before the date, silent once the baseline
+# records a `judgedOn`, so the extra mornings and the yearly repeat cost nothing.
+on:
+  schedule:
+    - cron: '0 22 9-13 9 *'   # 07:00 KST on Sep 10-14
+  workflow_dispatch:
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: { node-version: '20' }
+      - run: node scripts/remind-index-verdict.mjs
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
