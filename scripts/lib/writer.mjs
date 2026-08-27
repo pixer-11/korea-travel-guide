@@ -113,6 +113,30 @@ const TOOL = {
 // repair tool share. One retry naming the residue, then ship with a log line.
 export const EVENT_TIMELESS_RULE = 'EVENT PAGES STAY ONLINE AFTER THE EVENT. Phrase every "confirm on the official source" instruction TIMELESSLY ("Confirm timing and tickets on the official site") — never relative to the date. Do NOT write: "closer to the date/event", "will be announced/confirmed/released", "has/have not been confirmed/announced yet", "tickets go on sale", "the lineup has yet to", "once released". State what is known; do not promise future updates.';
 
+/**
+ * The retry conversation, shaped the way the API demands: the assistant turn
+ * ends in a tool_use, so the next user message MUST OPEN with a tool_result
+ * for that exact id. The first version sent plain text instead and every
+ * retry died with a 400 ("tool_use ids were found without tool_result") —
+ * which killed the whole discover run on 2026-08-27, and would have killed a
+ * publish run the same way the day a draft carried a residue. The path is
+ * rare (the rule keeps most first drafts clean), which is why it sat armed
+ * for five days.
+ */
+export function timelessRetryMessages(userPrompt, firstMsg, toolUseId, residue) {
+  return [
+    { role: 'user', content: userPrompt },
+    { role: 'assistant', content: firstMsg.content },
+    {
+      role: 'user',
+      content: [
+        { type: 'tool_result', tool_use_id: toolUseId, content: 'Draft received — revision requested below.' },
+        { type: 'text', text: 'Your draft contains the phrase "' + residue + '", which becomes a stale instruction the day after the event. Resubmit the whole guide with every forward-looking promise removed or rephrased timelessly, changing nothing else. ' + EVENT_TIMELESS_RULE },
+      ],
+    },
+  ];
+}
+
 /** First forward-looking phrase in a written guide's fields, or null when clean. */
 export function eventFuturePromise(out) {
   const fields = [out?.quickAnswer, out?.body, ...(Array.isArray(out?.faq) ? out.faq.map((f) => f?.a) : [])];
@@ -156,11 +180,7 @@ ${JSON.stringify(facts, null, 2)}`;
     const again = await client.messages.create({
       model: MODEL, max_tokens: 5000, system: SYSTEM, tools: [TOOL],
       tool_choice: { type: 'tool', name: 'submit_guide' },
-      messages: [
-        { role: 'user', content: userPrompt },
-        { role: 'assistant', content: msg.content },
-        { role: 'user', content: 'Your draft contains the phrase "' + residue + '", which becomes a stale instruction the day after the event. Resubmit the whole guide with every forward-looking promise removed or rephrased timelessly, changing nothing else. ' + EVENT_TIMELESS_RULE },
-      ],
+      messages: timelessRetryMessages(userPrompt, msg, toolUse.id, residue),
     });
     const second = again.content.find((b) => b.type === 'tool_use');
     if (second) {
