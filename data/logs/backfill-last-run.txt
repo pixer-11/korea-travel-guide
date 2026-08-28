@@ -1,14 +1,4 @@
-Places 예산: backfill 몫 10회 (오늘 사용 6/100)
+Places 예산: backfill 몫 0회 (오늘 사용 36/100)
 Priority: 132 itinerary stop(s) queued first
-  – kochi-fort-kochi-beach.md: nothing new (resting 60d)
-  ✓ lombok-bukit-merese.md +7h hours
-  – malang-pasar-oro-oro-dowo.md: nothing new (resting 60d)
-  – manila-baluarte-de-san-diego.md: nothing new (resting 60d)
-  – manila-rizal-park.md: nothing new (resting 60d)
-  – mui-ne-mui-ne-fishing-village.md: nothing new (resting 60d)
-  – mumbai-kanheri-caves.md: nothing new (resting 60d)
-  ✓ nagoya-noritake-garden.md +phone +7h hours
-  – new-delhi-humayun-s-tomb.md: nothing new (resting 60d)
-  – new-orleans-french-quarter.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 381, no-new-data 106, no-place 139, closed-quarantined 0, quota-429 0, api-error 0, api-calls 10, remaining-askable 336 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 0, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 0, remaining-askable 341 (APPLIED).
