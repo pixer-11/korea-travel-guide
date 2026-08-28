@@ -20,6 +20,7 @@ import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { interleaveRotated, kstDayIndex } from './lib/round-robin.mjs';
 
 const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
 const DRY = process.argv.includes('--dry');
@@ -95,13 +96,13 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 // every card was Japanese while koreatravel/ThailandTourism posts sat right
 // behind the slice (owner noticed 2026-08-26) — the same ordering starvation
 // the publish queue had with restaurants. One per sub, in turn, then the cut.
+//
+// The START rotates by KST day (Codex audit 2026-08-27): with a fixed start,
+// the 3-card cut still crowned the same first three subs every clean night —
+// "Japan monopoly" had only narrowed to "front-row monopoly".
 const bySub = new Map();
 for (const c of candidates) { if (!bySub.has(c.sub)) bySub.set(c.sub, []); bySub.get(c.sub).push(c); }
-const interleaved = [];
-while (interleaved.length < candidates.length) {
-  for (const list of bySub.values()) { if (list.length) interleaved.push(list.shift()); }
-}
-const picked = interleaved.slice(0, 8);
+const picked = interleaveRotated(bySub, kstDayIndex()).slice(0, 8);
 const cards = [];
 for (const p of picked) {
   if (cards.length >= MAX_CARDS) break;
@@ -178,12 +179,18 @@ Use the submit_card tool.`;
     cards.push({ ...p, ...j });
   } catch (e) { console.log(`  draft failed for ${p.id}: ${e.message}`); }
 }
-if (!DRY) writeFileSync(SEEN, JSON.stringify({ ids: seen.ids.slice(-500) }, null, 2) + '\n');
 console.log(`${cards.length} card(s) drafted`);
 
-// ── 3) deliver ───────────────────────────────────────────────
+// ── 3) deliver, THEN remember ────────────────────────────────
+// Ledger order matters (Codex audit 2026-08-27): writing it before delivery
+// — with the Telegram response never checked — meant a 401/429 or missing
+// secret burned the threads forever while the log bragged "sent". Now a
+// failed delivery fails the run and the ledger stays unwritten, so the same
+// threads are re-offered next night. (A re-drafted duplicate card in the
+// owner's Telegram is cheap; a silently consumed thread is not.)
 const TG = process.env.TELEGRAM_BOT_TOKEN;
 const CHAT = process.env.TELEGRAM_CHAT_ID;
+let undelivered = 0;
 for (const c of cards) {
   const text = [
     `🎯 레딧 답변 카드 — r/${c.sub} (${c.ageH}시간 전 · 댓글 ${c.comments}개)`,
@@ -200,10 +207,21 @@ for (const c of cards) {
     ``,
     `⚠️ 예열 단계: 링크·사이트 언급 없음 확인됨. 마음에 안 들면 무시하세요.`,
   ].join('\n');
-  if (DRY || !TG || !CHAT) { console.log('\n' + text); continue; }
-  await fetch(`https://api.telegram.org/bot${TG}/sendMessage`, {
-    method: 'POST', headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ chat_id: CHAT, text, disable_web_page_preview: true }),
-  });
+  if (DRY) { console.log('\n' + text); continue; }
+  if (!TG || !CHAT) { console.log('\n' + text); undelivered++; continue; }
+  try {
+    const res = await fetch(`https://api.telegram.org/bot${TG}/sendMessage`, {
+      method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ chat_id: CHAT, text, disable_web_page_preview: true }),
+    });
+    if (!res.ok) { console.error(`telegram send failed: ${res.status} ${(await res.text()).slice(0, 160)}`); undelivered++; }
+  } catch (e) { console.error(`telegram send failed: ${e.message}`); undelivered++; }
+}
+if (!DRY) {
+  if (undelivered) {
+    console.error(`${undelivered}/${cards.length} card(s) NOT delivered — ledger not written, threads stay fresh for the next run`);
+    process.exit(1);
+  }
+  writeFileSync(SEEN, JSON.stringify({ ids: seen.ids.slice(-500) }, null, 2) + '\n');
 }
 console.log(DRY ? '(dry run — nothing sent)' : `${cards.length} card(s) sent to Telegram`);

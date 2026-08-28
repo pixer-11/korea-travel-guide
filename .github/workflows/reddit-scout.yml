@@ -62,12 +62,10 @@ jobs:
           git add data/reddit-scout-seen.json
           git diff --cached --quiet && { echo "no new threads seen"; exit 0; }
           git commit -m "chore: reddit scout seen ledger ($(date -u +%Y-%m-%d))"
-          for i in 1 2 3; do
-            git push && exit 0
-            git pull --rebase --autostash origin main || true
-          done
-          echo "could not push the ledger after 3 attempts" >&2
-          exit 1
+          # The shared helper, not a hand-rolled loop (Codex audit 2026-08-27):
+          # the inline version left a failed rebase in progress and retried
+          # from that wreck. The helper fetches, resolves, aborts cleanly.
+          bash scripts/git-push-retry.sh
 
       # A quiet night is normal (no matching questions). A BROKEN night is not,
       # and the failure mode this workflow exists to fix was silence — so the
