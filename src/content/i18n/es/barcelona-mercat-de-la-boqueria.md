@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: barcelona-mercat-de-la-boqueria
-srcHash: 'c55c6fa89129'
+srcHash: 'a36d9740d9c6'
 title: 'Mercat de la Boqueria: guía de viaje de Barcelona (4,5★)'
-description: La Boqueria es el mercado de alimentos más grande y famoso de Barcelona, justo al lado de La Rambla — vale la pena dedicarle una hora o dos para los puestos, el jamón, los batidos de fruta y las barras de tapas del fondo. 4,5★ (214.533 opiniones) — lo que dicen los visitantes, horarios y consejos.
+description: La Boqueria es el mercado de alimentos más grande y famoso de Barcelona, justo al lado de La Rambla — vale la pena dedicarle una hora o dos para los puestos, el jamón, los batidos de fruta y las barras de tapas del fondo. 4,5★ (215.060 opiniones) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: La Boqueria es el mercado de alimentos más grande y famoso de Barcelona, justo al lado de La Rambla — vale la pena dedicarle una hora o dos para los puestos, el jamón, los batidos de fruta y las barras de tapas del fondo. Abre de lunes a sábado, de 8:00 a 20:30 h (cerrado los domingos), y el momento más tranquilo es justo a la apertura, de 8:00 a 10:00 h entre semana o de 8:00 a 9:00 h los fines de semana — conviene ir entonces, porque a partir de las 11:00 h los fines de semana los pasillos se atascan por completo.
 faq:
   - q: ¿Cuál es el horario de La Boqueria?

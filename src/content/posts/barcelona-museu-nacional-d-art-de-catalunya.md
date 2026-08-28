@@ -1,30 +1,39 @@
 ---
 title: 'Museu Nacional d''Art de Catalunya: Barcelona Travel Guide'
-description: The MNAC sits inside the Palau Nacional on Montjuïc, and the single best reason to go is its Romanesque collection — a set of 11th- and 12th-century Pyrenean church murals unlike anything else in the world. 4.7★ (38,928 reviews) — what visitors say, hours, and tips.
+description: >-
+  The MNAC sits inside the Palau Nacional on Montjuïc, and the single best
+  reason to go is its Romanesque collection — a set of 11th- and 12th-century
+  Pyrenean church murals unlike anything else in the world. 4.7★ (39,228
+  reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
 category: attraction
 pubDate: '2026-08-05T11:36:29.676Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg/1920px-%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg/1920px-%28Barcelona%29_Sal%C3%B3_Oval_%28Museu_Nacional_d%27Art_de_Catalunya%29_-_Southwest_part_of_the_room.jpg
   credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:(Barcelona)_Sal%C3%B3_Oval_(Museu_Nacional_d%27Art_de_Catalunya)_-_Southwest_part_of_the_room.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:(Barcelona)_Sal%C3%B3_Oval_(Museu_Nacional_d%27Art_de_Catalunya)_-_Southwest_part_of_the_room.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
   id: ChIJMU59xHGipBIRkdwlcgUWAYY
   name: Museu Nacional d'Art de Catalunya
-  address: Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain
+  address: >-
+    Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona,
+    Spain
   rating: 4.7
-  userRatingsTotal: 38928
-  googleMapsUrl: https://maps.google.com/?cid=9656023288704785553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 39228
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9656023288704785553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3684399
   lng: 2.1535699999999998
-  phone: '+34 936 22 03 60'
+  phone: +34 936 22 03 60
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 10:00 AM – 8:00 PM'
@@ -36,20 +45,45 @@ place:
 tags:
   - barcelona
   - museum
-quickAnswer: The MNAC sits inside the Palau Nacional on Montjuïc, and the single best reason to go is its Romanesque collection — a set of 11th- and 12th-century Pyrenean church murals unlike anything else in the world. Give it two to three hours, go straight to the Romanesque rooms first, and finish on the museum's front terrace at golden hour for one of the best skyline views in Barcelona. Check official hours before you go, since the museum closes on Mondays and keeps shorter hours on Sundays.
+quickAnswer: >-
+  The MNAC sits inside the Palau Nacional on Montjuïc, and the single best
+  reason to go is its Romanesque collection — a set of 11th- and 12th-century
+  Pyrenean church murals unlike anything else in the world. Give it two to three
+  hours, go straight to the Romanesque rooms first, and finish on the museum's
+  front terrace at golden hour for one of the best skyline views in Barcelona.
+  Check official hours before you go, since the museum closes on Mondays and
+  keeps shorter hours on Sundays.
 faq:
   - q: How do I get to the MNAC by metro?
-    a: Take Metro Line 1 or Line 3 to Plaça Espanya, then walk about 15 minutes uphill through the Fira gardens and fountains to the Palau Nacional. Buses 150 and 55 stop closer to the entrance if you'd rather avoid the climb.
+    a: >-
+      Take Metro Line 1 or Line 3 to Plaça Espanya, then walk about 15 minutes
+      uphill through the Fira gardens and fountains to the Palau Nacional. Buses
+      150 and 55 stop closer to the entrance if you'd rather avoid the climb.
   - q: How long should I spend at the museum?
-    a: Budget two to three hours for a proper visit, prioritizing the Romanesque murals and the Modernisme rooms. Add extra time if you also want to see the temporary exhibitions or linger on the terrace for the view.
+    a: >-
+      Budget two to three hours for a proper visit, prioritizing the Romanesque
+      murals and the Modernisme rooms. Add extra time if you also want to see
+      the temporary exhibitions or linger on the terrace for the view.
   - q: What is the museum most famous for?
-    a: Its Romanesque collection — 11th- and 12th-century murals removed intact from small Pyrenean churches and reassembled in replica apses — is considered one of the finest of its kind in the world. The Catalan Modernisme galleries are its other major draw.
+    a: >-
+      Its Romanesque collection — 11th- and 12th-century murals removed intact
+      from small Pyrenean churches and reassembled in replica apses — is
+      considered one of the finest of its kind in the world. The Catalan
+      Modernisme galleries are its other major draw.
   - q: When is the best time to go to avoid crowds?
-    a: Aim to arrive in the late afternoon, roughly two hours before closing, when tour groups have thinned out. The museum is closed on Mondays, and Sunday hours tend to be shorter than other days, so confirm the current schedule before you go.
+    a: >-
+      Aim to arrive in the late afternoon, roughly two hours before closing,
+      when tour groups have thinned out. The museum is closed on Mondays, and
+      Sunday hours tend to be shorter than other days, so confirm the current
+      schedule before you go.
   - q: What else is nearby on Montjuïc?
-    a: The Fundació Joan Miró, the Olympic Stadium, and the cable car to Montjuïc Castle are all within easy walking distance, and the Font Màgica fountain show runs on the terraces below the museum on weekend evenings.
+    a: >-
+      The Fundació Joan Miró, the Olympic Stadium, and the cable car to Montjuïc
+      Castle are all within easy walking distance, and the Font Màgica fountain
+      show runs on the terraces below the museum on weekend evenings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

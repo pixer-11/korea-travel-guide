@@ -1,37 +1,43 @@
 ---
-title: "Mirador Torre Glòries: Barcelona Travel Guide (4.5★)"
-description: "Mirador Torre Glòries is Barcelona's newest observation deck, 125 meters up inside Jean Nouvel's shimmering bullet-shaped tower on Avinguda Diagonal. 4.5★ (4,819 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Barcelona"
-category: "attraction"
-pubDate: "2026-08-07T08:34:23.404Z"
+title: 'Mirador Torre Glòries: Barcelona Travel Guide (4.5★)'
+description: >-
+  Mirador Torre Glòries is Barcelona's newest observation deck, 125 meters up
+  inside Jean Nouvel's shimmering bullet-shaped tower on Avinguda Diagonal. 4.5★
+  (5,078 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Barcelona
+category: attraction
+pubDate: '2026-08-07T08:34:23.404Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg"
-  credit: "Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg/3840px-Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg
+  credit: 'Photo: Txllxt TxllxT / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Barcelona_-_Montju%C3%AFc_-_Mirador_del_Palau_Nacional_-_View_NE_towards_Sagrada_Fam%C3%ADlia_%26_Torre_Gl%C3%B2ries.jpg
 gallery: []
 place:
-  id: "ChIJQ9Zv-OCjpBIRrLNfpmn6BcE"
-  name: "Mirador Torre Glòries"
-  address: "Av. Diagonal, 209, Sant Martí, 08018 Barcelona, Spain"
+  id: ChIJQ9Zv-OCjpBIRrLNfpmn6BcE
+  name: Mirador Torre Glòries
+  address: 'Av. Diagonal, 209, Sant Martí, 08018 Barcelona, Spain'
   rating: 4.5
-  userRatingsTotal: 4819
-  googleMapsUrl: "https://maps.google.com/?cid=13908798355873444780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5078
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13908798355873444780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.4035826
   lng: 2.1894429
-  phone: "+34 934 80 61 61"
+  phone: +34 934 80 61 61
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-07
+    updated: 2026-08-07T00:00:00.000Z
     weekdayQuiet:
       - 20
       - 21
@@ -43,24 +49,41 @@ place:
       - 10
       - 20
       - 21
-    venueId: "ven_456342366e6d70664e4c72524942706a434f2d765a39514a496843"
+    venueId: ven_456342366e6d70664e4c72524942706a434f2d765a39514a496843
 tags:
-  - "barcelona"
-  - "viewpoint"
-quickAnswer: "Mirador Torre Glòries is Barcelona's newest observation deck, 125 meters up inside Jean Nouvel's shimmering bullet-shaped tower on Avinguda Diagonal. It's open daily from 10am to 10pm, and the calmest window is 8pm to 10pm on weekdays when the city lights start to come on. Book a timed entry online to skip the ground-floor queue."
+  - barcelona
+  - viewpoint
+quickAnswer: >-
+  Mirador Torre Glòries is Barcelona's newest observation deck, 125 meters up
+  inside Jean Nouvel's shimmering bullet-shaped tower on Avinguda Diagonal. It's
+  open daily from 10am to 10pm, and the calmest window is 8pm to 10pm on
+  weekdays when the city lights start to come on. Book a timed entry online to
+  skip the ground-floor queue.
 faq:
-  - q: "What are the opening hours for Mirador Torre Glòries?"
-    a: "It's open every day of the week, 10am to 10pm, with no listed reduced hours on any particular day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 8pm and 10pm see the lightest foot traffic. Weekends stay busy throughout the full 10am–10pm window, so there's no quiet weekend slot."
-  - q: "How do I get there by public transport?"
-    a: "Take Metro Line 1 to Glòries station, about a two-minute walk away, or trams T4/T5 which stop directly at Glòries."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour, longer if you time it for sunset or the evening lights."
-  - q: "Should I book tickets in advance?"
-    a: "Yes — booking a timed-entry slot online is the standard approach and avoids waiting in the ground-floor line."
+  - q: What are the opening hours for Mirador Torre Glòries?
+    a: >-
+      It's open every day of the week, 10am to 10pm, with no listed reduced
+      hours on any particular day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 8pm and 10pm see the lightest foot traffic. Weekends stay
+      busy throughout the full 10am–10pm window, so there's no quiet weekend
+      slot.
+  - q: How do I get there by public transport?
+    a: >-
+      Take Metro Line 1 to Glòries station, about a two-minute walk away, or
+      trams T4/T5 which stop directly at Glòries.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45 minutes to an hour, longer if you time it for
+      sunset or the evening lights.
+  - q: Should I book tickets in advance?
+    a: >-
+      Yes — booking a timed-entry slot online is the standard approach and
+      avoids waiting in the ground-floor line.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

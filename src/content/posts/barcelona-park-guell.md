@@ -1,23 +1,28 @@
 ---
 title: 'Park Güell: Barcelona Travel Guide (4.4★)'
-description: Park Güell is Gaudí's hilltop fantasy of tiled dragons, wavy benches, and stone colonnades in the Gràcia district, open daily 9am–7:30pm. 4.4★ (238,747 reviews) — what visitors say, hours, and tips.
+description: >-
+  Park Güell is Gaudí's hilltop fantasy of tiled dragons, wavy benches, and
+  stone colonnades in the Gràcia district, open daily 9am–7:30pm. 4.4★ (240,607
+  reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
 category: attraction
 pubDate: '2026-08-03T11:07:28.418Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/1920px-Parc_guell_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/1920px-Parc_guell_-_panoramio.jpg
   credit: 'Photo: essetefano / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Parc_guell_-_panoramio.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Parc_guell_-_panoramio.jpg'
 gallery: []
 place:
   id: ChIJq0HUUq6ipBIRWM6qGqALmok
   name: Park Güell
-  address: Gràcia, 08024 Barcelona, Spain
+  address: 'Gràcia, 08024 Barcelona, Spain'
   rating: 4.4
-  userRatingsTotal: 238747
-  googleMapsUrl: https://maps.google.com/?cid=9915250311879642712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 240607
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9915250311879642712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.4144948
   lng: 2.1526945
@@ -46,20 +51,43 @@ place:
 tags:
   - barcelona
   - Park Guell
-quickAnswer: Park Güell is Gaudí's hilltop fantasy of tiled dragons, wavy benches, and stone colonnades in the Gràcia district, open daily 9am–7:30pm. The famous mosaic terrace and Monumental Zone require a timed-entry ticket booked in advance, while the rest of the park (woodland trails, viewpoints) is free. Go right at 9am, or on weekends aim for the 9–10am window, since 11am–3pm is when tour groups clog the main terrace.
+quickAnswer: >-
+  Park Güell is Gaudí's hilltop fantasy of tiled dragons, wavy benches, and
+  stone colonnades in the Gràcia district, open daily 9am–7:30pm. The famous
+  mosaic terrace and Monumental Zone require a timed-entry ticket booked in
+  advance, while the rest of the park (woodland trails, viewpoints) is free. Go
+  right at 9am, or on weekends aim for the 9–10am window, since 11am–3pm is when
+  tour groups clog the main terrace.
 faq:
   - q: Do I need a ticket for Park Güell?
-    a: The wider park and woodland paths are free to enter, but the Monumental Zone (the mosaic terrace, dragon fountain, and columned hall) requires a paid, timed-entry ticket booked online in advance — it regularly sells out, especially in peak season.
+    a: >-
+      The wider park and woodland paths are free to enter, but the Monumental
+      Zone (the mosaic terrace, dragon fountain, and columned hall) requires a
+      paid, timed-entry ticket booked online in advance — it regularly sells
+      out, especially in peak season.
   - q: What time should I go to avoid crowds?
-    a: Foot-traffic data shows weekends are busiest 11am–3pm, so aim for the 9–10am opening window on weekends. Weekdays stay comparatively calm throughout the day.
+    a: >-
+      Foot-traffic data shows weekends are busiest 11am–3pm, so aim for the
+      9–10am opening window on weekends. Weekdays stay comparatively calm
+      throughout the day.
   - q: How do I get to Park Güell by metro?
-    a: Take Line 3 (green) to Lesseps or Vallcarca station, then walk 15–20 minutes uphill; Vallcarca's outdoor escalators help with the climb. No vehicles enter the park itself.
+    a: >-
+      Take Line 3 (green) to Lesseps or Vallcarca station, then walk 15–20
+      minutes uphill; Vallcarca's outdoor escalators help with the climb. No
+      vehicles enter the park itself.
   - q: How long should I plan to spend there?
-    a: Budget 1.5–2 hours for the Monumental Zone plus a walk through the free park areas; add extra time if you also want to visit the separate Gaudí House Museum.
+    a: >-
+      Budget 1.5–2 hours for the Monumental Zone plus a walk through the free
+      park areas; add extra time if you also want to visit the separate Gaudí
+      House Museum.
   - q: What are the opening hours?
-    a: Park Güell is open daily from 9:00 AM to 7:30 PM, with no variation by day of the week — but always confirm current hours before you go, as they can shift seasonally.
+    a: >-
+      Park Güell is open daily from 9:00 AM to 7:30 PM, with no variation by day
+      of the week — but always confirm current hours before you go, as they can
+      shift seasonally.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

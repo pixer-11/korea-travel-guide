@@ -1,41 +1,49 @@
 ---
-title: "La Colmena: Barcelona Travel Guide (4.5★)"
-description: "La Colmena is a historic pastry counter on Plaça de l'Àngel, right at the edge of the Gothic Quarter, open daily 9am–9pm. 4.5★ (1,718 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Barcelona"
-category: "trendy"
-pubDate: "2026-08-06T10:15:31.853Z"
+title: 'La Colmena: Barcelona Travel Guide (4.5★)'
+description: >-
+  La Colmena is a historic pastry counter on Plaça de l'Àngel, right at the edge
+  of the Gothic Quarter, open daily 9am–9pm. 4.5★ (1,743 reviews) — what
+  visitors say, hours, and tips.
+country: Spain
+region: Barcelona
+category: trendy
+pubDate: '2026-08-06T10:15:31.853Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/420_Pastisseria_La_Colmena%2C_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_%28Barcelona%29.jpg/3840px-420_Pastisseria_La_Colmena%2C_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_%28Barcelona%29.jpg"
-  credit: "Photo: Enric / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:420_Pastisseria_La_Colmena,_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_(Barcelona).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/420_Pastisseria_La_Colmena%2C_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_%28Barcelona%29.jpg/3840px-420_Pastisseria_La_Colmena%2C_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_%28Barcelona%29.jpg
+  credit: 'Photo: Enric / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:420_Pastisseria_La_Colmena,_pla%C3%A7a_de_l%27%C3%80ngel_12_-_baixada_de_la_Llibreteria_(Barcelona).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/010_Pastisseria_La_Colmena%2C_pl._de_l%27%C3%80ngel_12_%28Barcelona%29%2C_panellets.jpg/3840px-010_Pastisseria_La_Colmena%2C_pl._de_l%27%C3%80ngel_12_%28Barcelona%29%2C_panellets.jpg"
-    credit: "Photo: Enric / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:010_Pastisseria_La_Colmena,_pl._de_l%27%C3%80ngel_12_(Barcelona),_panellets.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/010_Pastisseria_La_Colmena%2C_pl._de_l%27%C3%80ngel_12_%28Barcelona%29%2C_panellets.jpg/3840px-010_Pastisseria_La_Colmena%2C_pl._de_l%27%C3%80ngel_12_%28Barcelona%29%2C_panellets.jpg
+    credit: 'Photo: Enric / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:010_Pastisseria_La_Colmena,_pl._de_l%27%C3%80ngel_12_(Barcelona),_panellets.jpg
 place:
-  id: "ChIJn4lKN_mipBIR5GCoBNWdYp4"
-  name: "La Colmena"
-  address: "Plaça de l'Àngel, 12, Ciutat Vella, 08002 Barcelona, Spain"
+  id: ChIJn4lKN_mipBIR5GCoBNWdYp4
+  name: La Colmena
+  address: 'Plaça de l''Àngel, 12, Ciutat Vella, 08002 Barcelona, Spain'
   rating: 4.5
-  userRatingsTotal: 1718
-  googleMapsUrl: "https://maps.google.com/?cid=11412857943941996772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1743
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11412857943941996772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.3838319
   lng: 2.1782333
-  phone: "+34 933 15 13 56"
+  phone: +34 933 15 13 56
   openingHours:
-    - "Monday: 9:00 AM – 9:00 PM"
-    - "Tuesday: 9:00 AM – 9:00 PM"
-    - "Wednesday: 9:00 AM – 9:00 PM"
-    - "Thursday: 9:00 AM – 9:00 PM"
-    - "Friday: 9:00 AM – 9:00 PM"
-    - "Saturday: 9:00 AM – 9:00 PM"
-    - "Sunday: 9:00 AM – 9:00 PM"
+    - 'Monday: 9:00 AM – 9:00 PM'
+    - 'Tuesday: 9:00 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 9:00 PM'
+    - 'Thursday: 9:00 AM – 9:00 PM'
+    - 'Friday: 9:00 AM – 9:00 PM'
+    - 'Saturday: 9:00 AM – 9:00 PM'
+    - 'Sunday: 9:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-06
+    updated: 2026-08-06T00:00:00.000Z
     weekendQuiet:
       - 9
       - 10
@@ -45,24 +53,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_34705964574e426f43473552494270696d5f4e4b6c346e4a496843"
+    venueId: ven_34705964574e426f43473552494270696d5f4e4b6c346e4a496843
 tags:
-  - "barcelona"
-  - "bakery"
-quickAnswer: "La Colmena is a historic pastry counter on Plaça de l'Àngel, right at the edge of the Gothic Quarter, open daily 9am–9pm. Go for the turrón, glazed fruit, and old-fashioned cookies rather than a sit-down coffee — there are no tables, just a marble counter and a queue. Weekends are quietest between 9am and noon; avoid rolling up between 4pm and 8pm on Saturday or Sunday, when the counter backs up."
+  - barcelona
+  - bakery
+quickAnswer: >-
+  La Colmena is a historic pastry counter on Plaça de l'Àngel, right at the edge
+  of the Gothic Quarter, open daily 9am–9pm. Go for the turrón, glazed fruit,
+  and old-fashioned cookies rather than a sit-down coffee — there are no tables,
+  just a marble counter and a queue. Weekends are quietest between 9am and noon;
+  avoid rolling up between 4pm and 8pm on Saturday or Sunday, when the counter
+  backs up.
 faq:
-  - q: "What is La Colmena known for?"
-    a: "It's a historic Barcelona pastry and confectionery counter famous for turrón, candied fruit, marzipan, and old-fashioned Spanish cookies like polvorones — not for coffee or seating."
-  - q: "How do I get to La Colmena?"
-    a: "Take the metro to Jaume I (L4) and walk about two to three minutes toward Plaça de l'Àngel; it's also an easy walk from the Barcelona Cathedral or Via Laietana."
-  - q: "When is the quietest time to visit?"
-    a: "Weekend mornings between 9am and noon are the calmest. Avoid weekend afternoons from 4pm to 8pm, when the counter gets busiest."
-  - q: "Is there seating at La Colmena?"
-    a: "No, it's a counter-serve shop — you buy sweets by weight or in boxes and take them with you rather than sitting down to eat."
-  - q: "How long should I plan to spend there?"
-    a: "Most visits are quick — around five to ten minutes to browse the cases, decide, and pay, since it's designed for buying rather than lingering."
+  - q: What is La Colmena known for?
+    a: >-
+      It's a historic Barcelona pastry and confectionery counter famous for
+      turrón, candied fruit, marzipan, and old-fashioned Spanish cookies like
+      polvorones — not for coffee or seating.
+  - q: How do I get to La Colmena?
+    a: >-
+      Take the metro to Jaume I (L4) and walk about two to three minutes toward
+      Plaça de l'Àngel; it's also an easy walk from the Barcelona Cathedral or
+      Via Laietana.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekend mornings between 9am and noon are the calmest. Avoid weekend
+      afternoons from 4pm to 8pm, when the counter gets busiest.
+  - q: Is there seating at La Colmena?
+    a: >-
+      No, it's a counter-serve shop — you buy sweets by weight or in boxes and
+      take them with you rather than sitting down to eat.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visits are quick — around five to ten minutes to browse the cases,
+      decide, and pay, since it's designed for buying rather than lingering.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

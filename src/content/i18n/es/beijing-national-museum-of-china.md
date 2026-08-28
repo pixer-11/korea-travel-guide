@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: beijing-national-museum-of-china
-srcHash: '7f05f3d8d4c5'
+srcHash: 'ec57592c92e4'
 title: 'Museo Nacional de China: guía de viaje de Pekín (4,4★)'
-description: 'El Museo Nacional de China se encuentra en el lado este de la plaza de Tiananmén y su entrada es gratuita, aunque es necesario reservar con antelación un boleto con horario asignado (se requiere pasaporte). 4,4★ (560 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Nacional de China se encuentra en el lado este de la plaza de Tiananmén y su entrada es gratuita, aunque es necesario reservar con antelación un boleto con horario asignado (se requiere pasaporte). 4,4★ (564 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de China se encuentra en el lado este de la plaza de Tiananmén y su entrada es gratuita, aunque es necesario reservar con antelación un boleto con horario asignado en línea (se requiere pasaporte). Conviene ir de martes a viernes justo a la apertura, a las 9:00, para tener casi para uno solo la galería de la China Antigua. El museo cierra los lunes, y la última entrada es bastante antes del cierre a las 16:30, así que hay que planear al menos dos o tres horas de visita.
 faq:
   - q: ¿Necesito boleto si la entrada es gratuita?

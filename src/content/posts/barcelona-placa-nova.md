@@ -1,43 +1,67 @@
 ---
-title: "Plaça Nova: Barcelona Travel Guide"
-description: "Plaça Nova is the small, palm-fringed square right where Barcelona's medieval walls meet the Gothic Quarter, wedged between the Cathedral and Carrer del Bisbe."
-country: "Spain"
-region: "Barcelona"
-category: "hidden-gem"
-pubDate: "2026-08-07T08:33:12.045Z"
+title: 'Plaça Nova: Barcelona Travel Guide'
+description: >-
+  Plaça Nova is the small, palm-fringed square right where Barcelona's medieval
+  walls meet the Gothic Quarter, wedged between the Cathedral and Carrer del
+  Bisbe.
+country: Spain
+region: Barcelona
+category: hidden-gem
+pubDate: '2026-08-07T08:33:12.045Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/40/Pla%C3%A7a_Nova.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Nova.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/4/40/Pla%C3%A7a_Nova.jpg'
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Nova.jpg'
 gallery: []
 place:
-  id: "ChIJQU782dmjpBIRrCxfGo7w3tw"
-  name: "Plaça Nova"
-  address: "Ciutat Vella, 08002 Barcelona, Spain"
+  id: ChIJQU782dmjpBIRrCxfGo7w3tw
+  name: Plaça Nova
+  address: 'Ciutat Vella, 08002 Barcelona, Spain'
   rating: 4.7
-  userRatingsTotal: 92
-  googleMapsUrl: "https://maps.google.com/?cid=15915422626292378796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 93
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15915422626292378796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.384737699999995
   lng: 2.1758368999999997
 tags:
-  - "barcelona"
-  - "old quarter"
-quickAnswer: "Plaça Nova is the small, palm-fringed square right where Barcelona's medieval walls meet the Gothic Quarter, wedged between the Cathedral and Carrer del Bisbe. It's easy to see in 15–20 minutes, best in early morning before the Cathedral crowds spill out, and worth pairing with a walk down Carrer del Bisbe toward Plaça Sant Jaume."
+  - barcelona
+  - old quarter
+quickAnswer: >-
+  Plaça Nova is the small, palm-fringed square right where Barcelona's medieval
+  walls meet the Gothic Quarter, wedged between the Cathedral and Carrer del
+  Bisbe. It's easy to see in 15–20 minutes, best in early morning before the
+  Cathedral crowds spill out, and worth pairing with a walk down Carrer del
+  Bisbe toward Plaça Sant Jaume.
 faq:
-  - q: "How do I get to Plaça Nova?"
-    a: "Take Metro Line 4 to Jaume I (about a 5-minute walk) or Line 3 to Liceu (8–10 minutes on foot). It's fully pedestrian once you arrive, right in front of Barcelona Cathedral."
-  - q: "How much time should I spend at Plaça Nova?"
-    a: "15–20 minutes is enough to see the Roman towers, the Picasso frieze, and the Cathedral façade. Linger longer if you want photos without crowds or plan to continue down Carrer del Bisbe."
-  - q: "When is the best time to visit?"
-    a: "Go before 10am to catch soft light and avoid tour groups gathering for Cathedral photos. Midday in high season brings heat, glare, and cruise-ship crowds."
-  - q: "Is there an entrance fee?"
-    a: "No — Plaça Nova is an open public square with no ticket required. Entering the Cathedral itself, if you continue on, does have separate admission."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Walk down Carrer del Bisbe toward Plaça Sant Jaume for more Gothic Quarter architecture, or step into Barcelona Cathedral, whose main entrance faces directly onto the square."
+  - q: How do I get to Plaça Nova?
+    a: >-
+      Take Metro Line 4 to Jaume I (about a 5-minute walk) or Line 3 to Liceu
+      (8–10 minutes on foot). It's fully pedestrian once you arrive, right in
+      front of Barcelona Cathedral.
+  - q: How much time should I spend at Plaça Nova?
+    a: >-
+      15–20 minutes is enough to see the Roman towers, the Picasso frieze, and
+      the Cathedral façade. Linger longer if you want photos without crowds or
+      plan to continue down Carrer del Bisbe.
+  - q: When is the best time to visit?
+    a: >-
+      Go before 10am to catch soft light and avoid tour groups gathering for
+      Cathedral photos. Midday in high season brings heat, glare, and
+      cruise-ship crowds.
+  - q: Is there an entrance fee?
+    a: >-
+      No — Plaça Nova is an open public square with no ticket required. Entering
+      the Cathedral itself, if you continue on, does have separate admission.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      Walk down Carrer del Bisbe toward Plaça Sant Jaume for more Gothic Quarter
+      architecture, or step into Barcelona Cathedral, whose main entrance faces
+      directly onto the square.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

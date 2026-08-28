@@ -1,30 +1,42 @@
 ---
 title: 'La Pedrera - Casa Milà: Barcelona Travel Guide (4.6★)'
-description: La Pedrera (Casa Milà) is Gaudí's undulating stone apartment building on Passeig de Gràcia 92, open daily 9am–11pm — go right at 9am or after 7pm to walk the rippling roof terrace and attic without the crowd crush that builds between 11am and 7pm on weekends. 4.6★ (112,754 reviews) — what visitors say, hours, and tips.
+description: >-
+  La Pedrera (Casa Milà) is Gaudí's undulating stone apartment building on
+  Passeig de Gràcia 92, open daily 9am–11pm — go right at 9am or after 7pm to
+  walk the rippling roof terrace and attic without the crowd crush that builds
+  between 11am and 7pm on weekends. 4.6★ (113,490 reviews) — what visitors say,
+  hours, and tips.
 country: Spain
 region: Barcelona
 category: hidden-gem
 pubDate: '2026-08-04T10:24:51.164Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c1/Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_%2849081929146%29.jpg
-  credit: 'Photo: Jens Cederskjold from København S, Danmark / Wikimedia Commons (CC BY-SA 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c1/Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_%2849081929146%29.jpg
+  credit: >-
+    Photo: Jens Cederskjold from København S, Danmark / Wikimedia Commons (CC
+    BY-SA 2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_(49081929146).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_La_Pedrera_-_Barcelona_(49081929146).jpg
   focus:
     x: 35
-    y: 30
+    'y': 30
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/3c/Casa_Mil%C3%A0_-_Barcelona%2C_Spain_-_Jan_2007.jpg
     credit: 'Photo: Diliff / Wikimedia Commons (CC BY 2.5)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_Barcelona,_Spain_-_Jan_2007.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0_-_Barcelona,_Spain_-_Jan_2007.jpg
 place:
   id: ChIJ1eGKmZOipBIRah43T2Kjn8Q
   name: La Pedrera - Casa Milà
-  address: Pg. de Gràcia, 92, Eixample, 08008 Barcelona, Spain
+  address: 'Pg. de Gràcia, 92, Eixample, 08008 Barcelona, Spain'
   rating: 4.6
-  userRatingsTotal: 112754
-  googleMapsUrl: https://maps.google.com/?cid=14168222595362004586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 113490
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14168222595362004586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3952155
   lng: 2.1619024
@@ -65,20 +77,40 @@ place:
 tags:
   - barcelona
   - hidden gem
-quickAnswer: La Pedrera (Casa Milà) is Gaudí's undulating stone apartment building on Passeig de Gràcia 92, open daily 9am–11pm — go right at 9am or after 7pm to walk the rippling roof terrace and attic without the crowd crush that builds between 11am and 7pm on weekends. Budget about 1.5–2 hours, and book your timed-entry ticket online before you go since this is one of Barcelona's most-visited sights, not a hidden find.
+quickAnswer: >-
+  La Pedrera (Casa Milà) is Gaudí's undulating stone apartment building on
+  Passeig de Gràcia 92, open daily 9am–11pm — go right at 9am or after 7pm to
+  walk the rippling roof terrace and attic without the crowd crush that builds
+  between 11am and 7pm on weekends. Budget about 1.5–2 hours, and book your
+  timed-entry ticket online before you go since this is one of Barcelona's
+  most-visited sights, not a hidden find.
 faq:
   - q: What are the opening hours for La Pedrera?
-    a: It's open every day of the week, 9:00 AM to 11:00 PM, with no weekly closing day — one of the more flexible schedules among Barcelona's major sights.
+    a: >-
+      It's open every day of the week, 9:00 AM to 11:00 PM, with no weekly
+      closing day — one of the more flexible schedules among Barcelona's major
+      sights.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows the calmest windows are right at opening (9am) and in the evening; the busiest stretch, especially on weekends, is 11am to 7pm, so booking an early or late slot pays off.
+    a: >-
+      Foot-traffic data shows the calmest windows are right at opening (9am) and
+      in the evening; the busiest stretch, especially on weekends, is 11am to
+      7pm, so booking an early or late slot pays off.
   - q: How do I get to La Pedrera by metro?
-    a: Take Line 3 or 5 to Diagonal station, about a two-minute walk, or Lines 2/3/4 to Passeig de Gràcia station, a short walk down the same avenue.
+    a: >-
+      Take Line 3 or 5 to Diagonal station, about a two-minute walk, or Lines
+      2/3/4 to Passeig de Gràcia station, a short walk down the same avenue.
   - q: How long should I plan to spend there?
-    a: Budget 1.5 to 2 hours to see the attic exhibition, the restored apartment, and the roof terrace without rushing.
+    a: >-
+      Budget 1.5 to 2 hours to see the attic exhibition, the restored apartment,
+      and the roof terrace without rushing.
   - q: Should I book tickets in advance?
-    a: Yes — this is one of the most-visited buildings in Barcelona, and online timed-entry tickets let you skip the walk-up queue that forms during peak midday hours.
+    a: >-
+      Yes — this is one of the most-visited buildings in Barcelona, and online
+      timed-entry tickets let you skip the walk-up queue that forms during peak
+      midday hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

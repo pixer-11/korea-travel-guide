@@ -1,59 +1,85 @@
 ---
-title: "National Museum of China: Beijing Travel Guide (4.4★)"
-description: "The National Museum of China sits on the east side of Tiananmen Square and is free to enter, but you still need to book a timed ticket online in advance (passport required). 4.4★ (560 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Beijing"
-category: "attraction"
-pubDate: "2026-08-16T08:54:21.747Z"
+title: 'National Museum of China: Beijing Travel Guide (4.4★)'
+description: >-
+  The National Museum of China sits on the east side of Tiananmen Square and is
+  free to enter, but you still need to book a timed ticket online in advance
+  (passport required). 4.4★ (564 reviews) — what visitors say, hours, and tips.
+country: China
+region: Beijing
+category: attraction
+pubDate: '2026-08-16T08:54:21.747Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/62684-Beijing-Tiananmen-Square_%2828609003992%29.jpg/1920px-62684-Beijing-Tiananmen-Square_%2828609003992%29.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:62684-Beijing-Tiananmen-Square_(28609003992).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/62684-Beijing-Tiananmen-Square_%2828609003992%29.jpg/1920px-62684-Beijing-Tiananmen-Square_%2828609003992%29.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:62684-Beijing-Tiananmen-Square_(28609003992).jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/National_Museum_of_China%2C_Beijing_%28November_2016%29_-_236.jpg/3840px-National_Museum_of_China%2C_Beijing_%28November_2016%29_-_236.jpg"
-    credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_China,_Beijing_(November_2016)_-_236.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/National_Museum_of_China%2C_Beijing_%28November_2016%29_-_236.jpg/3840px-National_Museum_of_China%2C_Beijing_%28November_2016%29_-_236.jpg
+    credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:National_Museum_of_China,_Beijing_(November_2016)_-_236.jpg
 place:
-  id: "ChIJ5xGxSrlS8DURCcbo8EFiRwI"
-  name: "National Museum of China"
-  address: "16 Dong Chang An Jie, 前门 Dong Cheng Qu, China, 100051"
+  id: ChIJ5xGxSrlS8DURCcbo8EFiRwI
+  name: National Museum of China
+  address: '16 Dong Chang An Jie, 前门 Dong Cheng Qu, China, 100051'
   rating: 4.4
-  userRatingsTotal: 560
-  googleMapsUrl: "https://maps.google.com/?cid=164207946776495625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 564
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=164207946776495625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.9050945
   lng: 116.4015829
-  phone: "+86 10 6511 6400"
+  phone: +86 10 6511 6400
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
 tags:
-  - "beijing"
-  - "museum"
-quickAnswer: "The National Museum of China sits on the east side of Tiananmen Square and is free to enter, but you still need to book a timed ticket online in advance (passport required). Go Tuesday to Friday right at 9am opening to have the Ancient China gallery nearly to yourself. It's closed Mondays, and last entry is well before the 4:30pm close, so plan at least two to three hours."
+  - beijing
+  - museum
+quickAnswer: >-
+  The National Museum of China sits on the east side of Tiananmen Square and is
+  free to enter, but you still need to book a timed ticket online in advance
+  (passport required). Go Tuesday to Friday right at 9am opening to have the
+  Ancient China gallery nearly to yourself. It's closed Mondays, and last entry
+  is well before the 4:30pm close, so plan at least two to three hours.
 faq:
-  - q: "Do I need a ticket if entry is free?"
-    a: "Yes. Admission costs nothing, but you must reserve a timed-entry ticket online in advance and bring your passport for both booking and security check."
-  - q: "What's the best time to avoid crowds?"
-    a: "Arrive right at the 9am opening on a Tuesday through Friday, or return in the early-to-mid afternoon on a weekday, when the galleries thin out noticeably."
-  - q: "How long should I spend inside?"
-    a: "Plan on two to three hours minimum. The Ancient China permanent exhibition alone can easily absorb ninety minutes if you read the placards."
-  - q: "How do I get there by subway?"
-    a: "Take Line 1 to Tiananmen East Station and walk a few minutes south; the museum forms the eastern edge of Tiananmen Square at 16 Dong Chang An Jie."
-  - q: "Is it open every day?"
-    a: "No, it's closed Mondays. Tuesday through Sunday it runs 9:00 AM to 4:30 PM, with last entry before closing, and there are no evening hours."
+  - q: Do I need a ticket if entry is free?
+    a: >-
+      Yes. Admission costs nothing, but you must reserve a timed-entry ticket
+      online in advance and bring your passport for both booking and security
+      check.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Arrive right at the 9am opening on a Tuesday through Friday, or return in
+      the early-to-mid afternoon on a weekday, when the galleries thin out
+      noticeably.
+  - q: How long should I spend inside?
+    a: >-
+      Plan on two to three hours minimum. The Ancient China permanent exhibition
+      alone can easily absorb ninety minutes if you read the placards.
+  - q: How do I get there by subway?
+    a: >-
+      Take Line 1 to Tiananmen East Station and walk a few minutes south; the
+      museum forms the eastern edge of Tiananmen Square at 16 Dong Chang An Jie.
+  - q: Is it open every day?
+    a: >-
+      No, it's closed Mondays. Tuesday through Sunday it runs 9:00 AM to 4:30
+      PM, with last entry before closing, and there are no evening hours.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
