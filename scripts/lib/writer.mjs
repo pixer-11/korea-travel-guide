@@ -75,7 +75,7 @@ POPULARITY: you MUST obey facts.localSignals when it is present:
 - localSignals.localsFavorite === true → you MAY say locals genuinely favour it. If it is false or absent → do NOT claim "where locals go", "only locals know", or "no tourists".
 - If facts.localSignals is ABSENT entirely → give general like-a-local behavioural advice and make NO claim about secrecy or local-vs-tourist status either way.
 
-Submit via the submit_guide tool. Body = GitHub-flavored Markdown, 600-850 words, with 5-6 H2 (##) sections such as "Why go", "Getting there", "What to see / eat", "When to go", and ALWAYS one titled exactly "How to visit like a local". No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).`;
+Submit via the submit_guide tool. Body = GitHub-flavored Markdown. Length and section count follow the SHAPE line in the request (compact / standard / expansive — vary section TITLES too; "Why go", "Getting there" every time is a template smell). ALWAYS include one H2 titled exactly "How to visit like a local". No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).`;
 
 const TOOL = {
   name: 'submit_guide',
@@ -89,7 +89,7 @@ const TOOL = {
       },
       body: {
         type: 'string',
-        description: 'The article body as GitHub-flavored Markdown (600-850 words, 5-6 H2 sections). Written in a vivid, immersive first-hand VISIT-REPORT voice (second-person, sensory, specific; never listicle/encyclopedia), always including a "How to visit like a local" H2. No faked personal trip or invented facts. No title, no FAQ.',
+        description: 'The article body as GitHub-flavored Markdown (length/sections per the SHAPE line in the request). Written in a vivid, immersive first-hand VISIT-REPORT voice (second-person, sensory, specific; never listicle/encyclopedia), always including a "How to visit like a local" H2. No faked personal trip or invented facts. No title, no FAQ.',
       },
       faq: {
         type: 'array',
@@ -149,12 +149,34 @@ export function eventFuturePromise(out) {
   return null;
 }
 
+// ── shape variance (2026-08-28) ──────────────────────────────
+// The corpus audit measured 1,466 posts with 90% of word counts inside
+// 686±70 — a machine signature no human editorial process produces, and the
+// strongest repo-internal suspect for the 07-25 crawl-demand collapse
+// ("scaled content" classifiers key on exactly this uniformity). So the
+// fixed 600-850 instruction becomes three shapes, assigned DETERMINISTICALLY
+// by title hash (Math.random would make every regeneration a different
+// article; a hash keeps reruns reproducible). The floor rule matters as much
+// as the range: a thin venue stretched to 1,100 words is padding, which is
+// the other face of the same low-value signal.
+const SHAPES = [
+  'SHAPE: compact — 420-620 words, 4 H2 sections. Dense and clipped; every sentence carries a fact. Cut anything that merely rephrases.',
+  'SHAPE: standard — 600-850 words, 5-6 H2 sections.',
+  'SHAPE: expansive — 800-1,150 words, 6-7 H2 sections, at least one section UNIQUE to this specific place (named after its signature dish, its timing quirk, its neighbourhood ritual — not a stock heading). Only go long where the verified material earns it; if the facts run out, stop early rather than pad.',
+];
+const shapeFor = (title) => {
+  let h = 0;
+  for (const ch of String(title)) h = (h * 31 + ch.codePointAt(0)) >>> 0;
+  return SHAPES[h % SHAPES.length];
+};
+
 export async function writeArticle({ apiKey, title, region, country, category, facts }) {
   const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY });
 
   const userPrompt = `Write a guide titled: "${title}"
 Destination: ${region}${country ? `, ${country}` : ''}
 Category: ${category}
+${shapeFor(title)}
 ${category === 'event' ? EVENT_TIMELESS_RULE + '\n' : ''}
 VERIFIED FACTS (use only these for specifics):
 ${JSON.stringify(facts, null, 2)}`;
