@@ -1,0 +1,43 @@
+name: Schedule watchdog (rescue dropped crons)
+
+# GitHub scheduled runs are best-effort and 2026-08-27~28 proved it: reddit
+# cards vanished, the 16:19 publish failed to fire two days running, the
+# morning analytics report simply never arrived. Workflows with a single cron
+# had no defence at all. This watchdog checks a manifest of daily-critical
+# workflows (scripts/schedule-watchdog.mjs) and dispatches any whose slot
+# passed with no run — every listed job is state-guarded, so a duplicate is
+# harmless while a missing day is not.
+#
+# Four odd-minute slots a day so the watchdog itself surviving is a near-
+# certainty (all four dropping together has never been observed). publish.yml
+# stays with its dedicated publish-watchdog — two dogs on one job would race.
+on:
+  schedule:
+    - cron: '18 3 * * *'  # 12:18 KST
+    - cron: '48 9 * * *'  # 18:48 KST — right after the 16:19 publish window
+    - cron: '18 14 * * *' # 23:18 KST — after the reddit/pinterest evening slots
+    - cron: '48 21 * * *' # 06:48 KST — after indexnow's early slot
+  workflow_dispatch: {}
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: schedule-watchdog
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Check and rescue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/schedule-watchdog.mjs

@@ -29,6 +29,7 @@ on:
       - 'Index verdict reminder'
       - 'Publish watchdog'
       - 'Submit child sitemaps to GSC'
+      - 'Schedule watchdog (rescue dropped crons)'
       - 'attach-placeless-photos'
       - 'mailerlite-fields'
       - 'Test Telegram notification'
