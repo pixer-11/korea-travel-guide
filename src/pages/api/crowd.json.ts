@@ -94,7 +94,7 @@ export async function GET() {
       text: 'Crowd data by Wander Atlas',
       url: `${SITE}/tools/best-time/`,
     },
-    docs: `${SITE}/tools/best-time/`,
+    docs: `${SITE}/api/`,
     hours: 'Local clock hours, 0-23. quiet = reliably below typical; busy = reliably above.',
     method:
       'Aggregated venue foot-traffic observations, refreshed on a rolling schedule. `measured` is the date that venue was last refreshed, not the date of this file.',

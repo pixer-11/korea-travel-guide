@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+// Same derivation crowd.json.ts uses — siteConfig's SITE is the brand OBJECT,
+// not the origin string (astro check caught the mix-up on first build).
+const SITE = (import.meta.env.SITE || 'https://wanderatlasguides.com').replace(/\/$/, '');
+
+// Developer docs for the crowd API — the page the payload's `docs` field
+// promises. Until 2026-08-28 that field pointed at /tools/best-time/, which
+// never mentioned the API at all; an outside reviewer's verdict was "no API
+// access pathway is evident". This is the site's one externally-validated
+// linkable asset (a tool builder offered a link within five minutes of
+// seeing it), so the front door matters more than any pitch email.
+//
+// English-only on purpose: the audience is developers and journalists, and a
+// five-language docs page would add 4 URLs of crawl demand for no readers.
+//
+// The two integration warnings are real lessons from the first integrator
+// (Audiala, 2026-08): match venues by coordinates, and an empty array is a
+// measurement, not a gap.
+
+const endpoint = `${SITE}/api/crowd.json`;
+const example = `{
+ "license": "Free to use, including commercially. Attribution requested, not required.",
+ "count": 618,
+ "places": [
+  {
+   "name": "Fushimi Inari Taisha",
+   "city": "Kyoto",
+   "country": "Japan",
+   "lat": 34.9671,
+   "lng": 135.7727,
+   "weekdayQuiet": [7, 8, 17],
+   "weekdayBusy": [11, 12, 13, 14],
+   "weekendQuiet": [7],
+   "weekendBusy": [10, 11, 12, 13, 14, 15],
+   "measured": "2026-08-14",
+   "url": "https://wanderatlasguides.com/posts/kyoto-fushimi-inari-taisha/"
+  }
+ ]
+}`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Wander Atlas Crowd Data API',
+  description: 'Free JSON API of measured hour-by-hour crowd levels for 600+ attractions in 20 countries.',
+  url: `${SITE}/api/`,
+  isAccessibleForFree: true,
+  license: `${SITE}/api/#license`,
+  distribution: [{ '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: endpoint }],
+  creator: { '@type': 'Organization', name: 'Wander Atlas', url: SITE },
+};
+---
+
+<BaseLayout
+  title="Crowd Data API — free hourly crowd levels for 600+ attractions"
+  description="Free JSON API: measured hour-by-hour quiet and busy windows for 600+ attractions in 20 countries. No key, no signup, CORS-open. Attribution requested, not required."
+  suppressPopup={true}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <article class="article wrap api-docs">
+    <p class="eyebrow">Developer docs</p>
+    <h1>Crowd Data API</h1>
+    <p class="dek">
+      Measured hour-by-hour crowd levels for 600+ attractions across 20 countries —
+      when Fushimi Inari is actually quiet, which hours the Colosseum queue peaks.
+      One JSON file. No key, no signup, no rate cards.
+    </p>
+
+    <h2>Endpoint</h2>
+    <p><code>GET {endpoint}</code></p>
+    <p>
+      CORS is open (<code>Access-Control-Allow-Origin: *</code>) and responses are
+      edge-cached for a day — call it straight from a browser app if you like.
+      The dataset updates on a rolling refresh measured in weeks, so polling more
+      than daily buys nothing.
+    </p>
+
+    <h2>Response shape</h2>
+    <pre><code>{example}</code></pre>
+    <ul>
+      <li><strong>Hours are the venue's local clock, 0–23.</strong> <code>quiet</code> hours are reliably below that venue's typical traffic; <code>busy</code> hours reliably above. No hour appears in both lists.</li>
+      <li><strong>An empty array is a measurement, not a gap</strong> — it means we measured and found no reliable window, which is different from the field being absent.</li>
+      <li><code>measured</code> is the date that venue was last refreshed, not the date of the file.</li>
+    </ul>
+
+    <h2>Integration advice (from our first integrators)</h2>
+    <ul>
+      <li><strong>Match venues by coordinates, not by name.</strong> Names differ across languages and datasets; <code>lat</code>/<code>lng</code> don't.</li>
+      <li>Hours are already clamped to opening hours where we have them — a "quiet 7am" at a venue that opens at 11 has been filtered out on our side.</li>
+    </ul>
+
+    <h2 id="license">License &amp; attribution</h2>
+    <p>
+      Free to use, including commercially. Attribution is requested, not required:
+      "Crowd data by <a href={SITE}>Wander Atlas</a>" with a link makes more of this
+      data possible.
+    </p>
+
+    <h2>Embeds instead of code</h2>
+    <p>
+      Want the chart without the integration? Every measured venue has a
+      copy-paste iframe — grab yours at <a href="/tools/widget/">the widget builder</a>.
+    </p>
+
+    <h2>Methodology &amp; citing this data</h2>
+    <p>
+      How the numbers are measured, refreshed and clamped is documented on the
+      <a href="/methodology/">methodology page</a>. Journalists: cite as
+      "Wander Atlas crowd measurements" with a link to this page; for custom
+      cuts of the data (a city, a country, a season), email
+      <a href="mailto:hello@wanderatlasguides.com">hello@wanderatlasguides.com</a> —
+      same-day replies for working press.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .api-docs { max-width: 720px; margin-inline: auto; padding-block: 2.5rem; }
+  .api-docs .dek { font-size: 1.05rem; color: var(--ink-soft); }
+  .api-docs pre { overflow-x: auto; background: var(--paper-deep, rgba(0,0,0,0.04)); padding: 1rem; border-radius: 8px; font-size: 0.82rem; line-height: 1.5; }
+  .api-docs code { font-size: 0.9em; }
+  .api-docs h2 { margin-top: 2.2rem; }
+</style>

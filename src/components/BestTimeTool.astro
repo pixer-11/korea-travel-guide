@@ -276,6 +276,13 @@ const jsonLd = {
       </div>
       <p class="empty" id="empty" hidden>{t('tool.empty')}</p>
       <p class="foot">{t('tool.foot')}</p>
+      {/* The payload's docs field promises /api/ — and until 2026-08-28 this
+          page never mentioned the API at all (outside reviewer: "no API access
+          pathway is evident"). URL-shaped anchor text on purpose: language-
+          neutral, and a journalist can read the citation path at a glance. */}
+      <p class="foot" set:html={t('tool.apiCite')
+        .replace('{api}', '<a href="/api/">wanderatlasguides.com/api</a>')
+        .replace('{method}', '<a href="/methodology/">wanderatlasguides.com/methodology</a>')} />
 
       <section class="findings" aria-labelledby="findings-h">
         <h2 id="findings-h">{t('tool.findings.h2')}</h2>
