@@ -114,7 +114,24 @@ if (wanted && files.includes(`${wanted}.md`)) {
   if (m) forced = { slug: wanted, fm: yaml.load(m[1]), body: m[2] };
 }
 if (wanted && !forced) { console.error(`--slug=${wanted} not found among published posts`); process.exit(1); }
-const post = forced || pool[Math.floor(Math.random() * pool.length)];
+// Upcoming events first (2026-08-28 audit): events are the site's best-
+// performing class and their demand is TIME-BOUND — a card for a show six
+// weeks out rides real search and social chatter; a random pagoda does not.
+// Window 2-8 weeks: closer than 2 weeks the post has little runway on a slow
+// social account, further than 8 nobody is planning yet. Uniform random
+// within the window (and over the whole pool as fallback) so repeat days
+// don't hammer one event.
+const soon = pool.filter((p) => {
+  if (p.fm.category !== 'event' || !p.fm.eventStartDate) return false;
+  const days = (new Date(p.fm.eventStartDate).getTime() - Date.now()) / 86400e3;
+  return days >= 14 && days <= 56;
+});
+// 60/40, not always-event: place posts are the highest-CTR class and starve
+// if events monopolize the daily slot whenever the window is non-empty.
+const useEvent = soon.length > 0 && Math.random() < 0.6;
+const drawFrom = useEvent ? soon : pool;
+const post = forced || drawFrom[Math.floor(Math.random() * drawFrom.length)];
+if (!forced) console.log(`pick: ${useEvent ? 'event-weighted' : 'uniform'} (${soon.length} upcoming event card(s) in window)`);
 const { title, country, region, description } = post.fm;
 console.log(`post: ${post.slug}`);
 
