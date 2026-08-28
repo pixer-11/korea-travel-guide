@@ -35,3 +35,8 @@ test('목적지는 URL 인코딩된다', () => {
   const raw = hotellookUrl({ submarker: 'hotels_widget', lang: 'ko', destination: 'São Paulo', now: NOW });
   assert.ok(raw.includes('S%C3%A3o'));
 });
+
+test('Date 객체 입력도 받는다 (frontmatter 날짜는 Date로 온다)', () => {
+  const u = new URL(hotellookUrl({ submarker: 'post_top', lang: 'en', destination: 'Tokyo', eventStart: new Date('2026-10-10T00:00:00Z'), now: NOW }));
+  assert.equal(u.searchParams.get('checkIn'), '2026-10-10');
+});

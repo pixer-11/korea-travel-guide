@@ -13,10 +13,17 @@
 const DAY = 86400e3;
 const ymd = (t) => new Date(t).toISOString().slice(0, 10);
 
+/**
+ * @param {object} opts
+ * @param {string} opts.submarker  Travelpayouts 하위 마커 (post_top, sticky_bar …)
+ * @param {string} opts.lang
+ * @param {string} opts.destination
+ * @param {string | Date | null} [opts.eventStart]  frontmatter 날짜는 Date 객체로 온다
+ * @param {number} [opts.now]
+ */
 export function hotellookUrl({ submarker, lang, destination, eventStart = null, now = Date.now() }) {
-  const start = eventStart && Date.parse(eventStart) > now
-    ? Date.parse(eventStart)
-    : now + 30 * DAY;
+  const eventMs = eventStart instanceof Date ? eventStart.getTime() : (eventStart ? Date.parse(eventStart) : NaN);
+  const start = eventMs > now ? eventMs : now + 30 * DAY;
   const qs = new URLSearchParams({
     marker: `754088.${submarker}`,
     language: lang,
