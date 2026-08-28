@@ -11,6 +11,16 @@ import { fileURLToPath } from 'node:url';
 import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
 import { eventProperName, eventProperNameVariants } from '../../src/lib/eventName.mjs';
 import { commonsBest, keyToken, tokens, wikipediaLeadImage, COMMON_ANCHOR } from './commons.mjs';
+
+// 이벤트 히어로도 다른 모든 히어로와 같은 1200px 하한을 쓴다 (2026-08-28).
+// 한때 600으로 낮춰 '작은 사진이라도 붙이자'고 했지만, 새벽 순찰은 전 사이트
+// 공통 1200px(Discover 불변식)로 재판정한다 — 두 기준이 어긋난 결과가
+// '태어난 다음 날 벗겨지는' 회전문이었다(08-27 출생 4편이 08-28 전부 제거:
+// 리처드 막스 516px·셀린 디옹 616px·어벤지드 세븐폴드 500/474px). 하한을
+// 올리면 사진이 줄 것 같지만 반대다: 검색이 첫 번째 작은 후보에서 멈추지 않고
+// 1200px 이상을 찾을 때까지 계속 돈다. 진짜로 큰 사진이 없는 행사만 정책대로
+// 사진 없이 남는다(그건 지금의 최종 상태와 같고, 회전문 비용만 사라진다).
+const EVENT_HERO_MIN_WIDTH = 1200;
 import { heroUrlOf } from './hero-url.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -137,14 +147,14 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // times over (2026-08-22); "Formula 1 Spanish Grand Prix" (4 tokens)
     // still matches "Spanish Grand Prix".
     const minCross = toks.length <= 3 ? toks.length : toks.length - 1;
-    const popts = { used, allowPortrait: true, minWidth: 600, event: true, crossCheck: toks, minCross };
+    const popts = { used, allowPortrait: true, minWidth: EVENT_HERO_MIN_WIDTH, event: true, crossCheck: toks, minCross };
     return via((await commonsBest(proper, popts)) || (await commonsBest(`${proper} ${reg}`, popts)), 'phrase');
   };
   const tryVenue = async () => {
     if (!eventMode || !venue) return null;
     const va = keyToken(venue, `${reg} ${ctry}`);
     if (!va) return null;
-    const vopts = { mustInclude: [va], used, allowPortrait: true, minWidth: 600, crossCheck: tokens(`${venue} ${reg}`), minCross: 2 };
+    const vopts = { mustInclude: [va], used, allowPortrait: true, minWidth: EVENT_HERO_MIN_WIDTH, crossCheck: tokens(`${venue} ${reg}`), minCross: 2 };
     return via((await commonsBest(`${venue} ${reg}`, vopts)) || (await commonsBest(venue, { ...vopts, minCross: 1 })), 'venue');
   };
 
@@ -179,8 +189,8 @@ export async function resolveHero({ namedVenue, region, topic, place, country = 
     // (anchor guaranteed non-empty by the guard above; an all-stop-word name like
     // "Italian Grand Prix" yields '' and skips straight to the event-type image.)
     // Events: the ideal hero is the performer/athlete, usually a portrait — allow
-    // it (and a smaller ≥600px file) rather than dropping to a wrong-topic city shot.
-    const copts = eventMode ? { allowPortrait: true, minWidth: 600, event: true } : {};
+    // it rather than dropping to a wrong-topic city shot (width floor: EVENT_HERO_MIN_WIDTH).
+    const copts = eventMode ? { allowPortrait: true, minWidth: EVENT_HERO_MIN_WIDTH, event: true } : {};
     // VENUE posts (non-event): a single shared token is NOT evidence the photo is
     // of this venue — "Art House Cafe"→"Art Picture House (UK)", "Into the
     // Forest"→a forest painting both passed that way. Require the image title to

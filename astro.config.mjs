@@ -281,6 +281,14 @@ function regionRedirects() {
   } catch { /* no itineraries dir */ }
   // Deleted duplicate event post → its kept twin.
   const twinned = [
+    // Monza GP discovered a second time on 08-27 under an F1 phrasing — the
+    // anchored duplicate detector is blind to all-stop-word names (the 08-16
+    // lesson: 'Italian Grand Prix' anchors to nothing), so the newborn
+    // shipped photoless next to the 07-21 original that carries the rescued
+    // hero and the ranking history. KEPT: the older, indexed one — the 08-07
+    // lesson that 301s do not inherit rankings decides it, overriding the
+    // usual newer-wins convention (owner caught the bare twin, 2026-08-28).
+    ['monza-italian-grand-prix-f1', 'monza-italian-grand-prix-formula-1'],
     ['multiple-cities-tour-de-france-femmes', 'nice-finish-various-french-stages-tour-de-france-femmes-avec-zwift'],
     // The same MAMAMOO Manila show, discovered twice five days apart under
     // different phrasings — and with contradicting dates (8/8 vs 8/8–10). The
