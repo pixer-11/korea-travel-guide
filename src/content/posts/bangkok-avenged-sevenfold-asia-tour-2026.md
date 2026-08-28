@@ -19,7 +19,6 @@ eventPerformer:
   name: Avenged Sevenfold
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - bangkok
   - event
@@ -54,6 +53,7 @@ faq:
       sensitive to loud volume — metal shows at Thunder Dome run loud.
 aiGenerated: true
 draft: false
+gallery: []
 ---
 
 You feel the buzz before you even reach the venue. Bangkok hasn't hosted Avenged Sevenfold in over a decade, and the city's metal community has been counting down since the Asia Tour dates dropped. Two nights, back to back, October 6 and 7, 2026 — a rare double-header that tells you exactly how much demand there was.

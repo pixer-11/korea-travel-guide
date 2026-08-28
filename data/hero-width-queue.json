@@ -1292,7 +1292,6 @@
   "bali-dekmantel-x-potato-head\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Desa_Potato_Head.jpg/3840px-Desa_Potato_Head.jpg": 3840,
   "beijing-arabica-baitasi-store\u0001https://fastly.4sqi.net/img/general/original/472350561_hlP1vJH1saOaKEZFidQAST_AkV4Vf_iQQIiZQ6L7IKE.jpg": 1920,
   "dubai-nobu-the-link-one-za-abeel\u0001https://fastly.4sqi.net/img/general/original/33683704_8gxzjOFdj2I81yu0UWh_0EgiMGMtYw2uWuLRAI_1mOM.jpg": 1200,
-  "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Richard_Marx_in_2024.png": 516,
   "hong-kong-montana\u0001https://fastly.4sqi.net/img/general/original/9424296_t_sAOqAPDiYpKSv-VXvKU8x8tO9gk3X4QCGWRTjDlPk.jpg": 1080,
   "jakarta-skye-bar-restaurant\u0001https://fastly.4sqi.net/img/general/original/541552950_dlLYfgTSRnR5Qh1dkCJ-nothpVDU4oBB_zV9rnMvDR4.jpg": 1440,
   "jordan-victoria-peak-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Victoria_Peak_Garden_Pavilion_2016.jpg/1920px-Victoria_Peak_Garden_Pavilion_2016.jpg": 1920,
@@ -1301,7 +1300,6 @@
   "los-angeles-mish-delicatessen\u0001https://fastly.4sqi.net/img/general/original/463594059_TvN37_rzM-72eIAi_NGRbay3rPwJi31AVFHUw4gMgpg.jpg": 1340,
   "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": 1008,
   "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_GB2WuP7LnPIYfuAl4cGGAcnk6MaREX_N3Hh6PwkCyx8.jpg": 1080,
-  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": 500,
   "hanoi-bigbang-2026-2027-world-tour-in-hanoi\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/BIGBANG_Concert_0.TO.10_in_Seoul_-_6.jpg": 760,
   "marseille-au-bout-du-quai\u0001https://fastly.4sqi.net/img/general/original/1358503917_i22wmtoB5BP3SZpghHN5h-VblHumjIEsQbKt75IzWLA.jpg": 1920,
   "hanoi-hanoi-jazztival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg": 2000,
@@ -1311,13 +1309,25 @@
   "seoul-zest\u0001https://fastly.4sqi.net/img/general/original/1231643_ddEgSxUkieniEp6JKc6tFKNPXg4LoIPboAyVPmv3zQM.jpg": 1920,
   "sha-tin-sha-tin-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sha_Tin_Park_Plaza_Pool_201504.JPG/1920px-Sha_Tin_Park_Plaza_Pool_201504.JPG": 1920,
   "siem-reap-royal-independence-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Royal_Independence_Gardens_Siem_Reap.jpg/3840px-Royal_Independence_Gardens_Siem_Reap.jpg": 3840,
-  "paris-celine-dion-paris-residency\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/Celine_Dion_by_Linda_Bisset.jpg": 616,
   "milan-a-ap-rocky-don-t-be-dumb-world-tour-i-days-milano\u0001https://upload.wikimedia.org/wikipedia/commons/c/c5/A%24AP_Rocky_2013_August_2.jpg": 797,
   "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika\u0001https://upload.wikimedia.org/wikipedia/commons/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg": 2000,
   "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7395498_ORXNm3aG93QupN7B6lJ4uvBtHbGRbLTENHtZ2qnS_Nc.jpg": 1920,
-  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_%2832509055635%29.jpg": 474,
   "surabaya-bungkul-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b0/Bungkul_park_-_panoramio.jpg": 1632,
-  "tashkent-lang-lang-in-concert\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Lang_Lang.jpg": 752
+  "tashkent-lang-lang-in-concert\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Lang_Lang.jpg": 752,
+  "istanbul-istanbul-archaeological-museums\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/1920px-Istanbularcheology.jpg": 1920,
+  "kampong-glam-telok-blangah-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg/1920px-Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg": 1920,
+  "kanazawa-kanazawa-castle-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg/3840px-View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg": 3840,
+  "clarke-quay-fort-canning-park\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg": 1024,
+  "paris-celine-dion-paris-residency\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Celine_Dion_%28BBW%29.jpg": 927,
+  "phnom-penh-royal-palace-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg/3840px-Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg": 3840,
+  "singapore-asian-civilisations-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Empress_Place_Building_2023-03-22.jpg/1920px-Empress_Place_Building_2023-03-22.jpg": 1920,
+  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_%2832509055635%29.jpg": 474,
+  "suwon-hwaseong-haenggung\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hwaseong_Haenggung_Palace_panorama.jpg/3840px-Hwaseong_Haenggung_Palace_panorama.jpg": 3840,
+  "turin-parco-del-valentino\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Autumn_colors_%284099639400%29.jpg/1920px-Autumn_colors_%284099639400%29.jpg": 1920,
+  "yeosu-ungcheon-beach-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ungcheon_Beach_Park_01.jpg/1920px-Ungcheon_Beach_Park_01.jpg": 1920,
+  "nagoya-tokugawaen-garden\u0001https://upload.wikimedia.org/wikipedia/commons/6/67/Peony_garden_%40Tokugawaen_-_panoramio.jpg": 2848,
+  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": 500,
+  "pattaya-prince-of-chumphon-monument\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg": 3456
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1522,7 +1532,14 @@
    "nextTry": "2026-09-04",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
+  },
+  "paris-celine-dion-paris-residency": {
+   "width": 927,
+   "attempts": 1,
+   "nextTry": "2026-09-04",
+   "flaggedAt": "2026-08-28",
+   "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-28T03:57:43.793Z"
+ "updated": "2026-08-28T23:56:19.872Z"
 }

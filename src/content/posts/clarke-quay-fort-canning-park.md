@@ -1,40 +1,39 @@
 ---
-title: "Fort Canning Park: Clarke Quay Travel Guide (4.6★)"
-description: "Fort Canning Park in Clarke Quay is a 24-hour hilltop green space in central Singapore, a short walk from the Clarke Quay riverside and Fort Canning MRT station. 4.6★ (12,003 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Clarke Quay"
-category: "attraction"
-pubDate: "2026-08-28T09:00:44.736Z"
+title: 'Fort Canning Park: Clarke Quay Travel Guide (4.6★)'
+description: Fort Canning Park in Clarke Quay is a 24-hour hilltop green space in central Singapore, a short walk from the Clarke Quay riverside and Fort Canning MRT station. 4.6★ (12,003 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Clarke Quay
+category: attraction
+pubDate: '2026-08-28T09:00:44.736Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg"
-  credit: "Photo: Michael Coghlan. / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fort_Canning_Park_sign,_Singapore_-_20110506.jpg"
+  url: https://fastly.4sqi.net/img/general/original/1392709470_DsbTh_j4_jIcP7vDr0NBIZJZJsoMcAkEvRNAVbIc9aE.jpg
+  credit: 'Photo: Foursquare user content (Fort Canning Park)'
+  license: foursquare
+  source: https://foursquare.com/v/4b05880ef964a520bbae22e3
   focus:
-    x: 65
-    y: 65
-gallery: []
+    x: 55
+    'y': 45
 place:
-  id: "ChIJVSYjJKIZ2jERpRFinATD52s"
-  name: "Fort Canning Park"
-  address: "Singapore"
+  id: ChIJVSYjJKIZ2jERpRFinATD52s
+  name: Fort Canning Park
+  address: Singapore
   rating: 4.6
   userRatingsTotal: 12003
-  googleMapsUrl: "https://maps.google.com/?cid=7775397706249408933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7775397706249408933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2943875999999999
   lng: 103.8458033
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekendBusy:
       - 9
       - 10
@@ -47,11 +46,11 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_7332354454416e6946527052456a325a494b4a6a5953564a496843"
+    venueId: ven_7332354454416e6946527052456a325a494b4a6a5953564a496843
 tags:
-  - "clarke quay"
-  - "park"
-quickAnswer: "Fort Canning Park in Clarke Quay is a 24-hour hilltop green space in central Singapore, a short walk from the Clarke Quay riverside and Fort Canning MRT station. It's best visited in the early morning or after 6pm to dodge the heat and the weekend crowds, which build steadily between 9am and 8pm. Budget one to two hours to cover the main historical sites, longer if you linger in the Spice Garden or catch an evening event."
+  - clarke quay
+  - park
+quickAnswer: Fort Canning Park in Clarke Quay is a 24-hour hilltop green space in central Singapore, a short walk from the Clarke Quay riverside and Fort Canning MRT station. It's best visited in the early morning or after 6pm to dodge the heat and the weekend crowds, which build steadily between 9am and 8pm. Budget one to two hours to cover the main historical sites, longer if you linger in the Spice Garden or catch an evening event.
 faq: []
 aiGenerated: true
 draft: false

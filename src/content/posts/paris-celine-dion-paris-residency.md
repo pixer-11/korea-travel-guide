@@ -1,8 +1,6 @@
 ---
 title: 'Céline Dion Paris Residency: Dates, Tickets & Venue (Paris)'
-description: >-
-  Céline Dion Paris Residency in Paris, France — September 12 - October 17,
-  2026. What it is, when and where, and how to plan around it.
+description: Céline Dion Paris Residency in Paris, France — September 12 - October 17, 2026. What it is, when and where, and how to plan around it.
 country: France
 region: Paris
 category: event
@@ -15,45 +13,33 @@ eventPerformer:
   name: Céline Dion
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - paris
   - event
-quickAnswer: >-
-  The Céline Dion Paris Residency runs September 12 – October 17, 2026 at
-  Plénitude Arena on the eastern edge of Paris, with the run sold out. If you
-  don't already have a ticket, your best bet is checking official resale links
-  or verified secondary marketplaces rather than showing up hoping for
-  box-office availability. Confirm exact dates, showtimes and ticket status on
-  the official site before you plan travel.
+quickAnswer: The Céline Dion Paris Residency runs September 12 – October 17, 2026 at Plénitude Arena on the eastern edge of Paris, with the run sold out. If you don't already have a ticket, your best bet is checking official resale links or verified secondary marketplaces rather than showing up hoping for box-office availability. Confirm exact dates, showtimes and ticket status on the official site before you plan travel.
 faq:
   - q: What are the dates of the Céline Dion Paris Residency?
-    a: >-
-      The residency runs from September 12 to October 17, 2026, entirely at
-      Plénitude Arena in Paris. Confirm exact show dates and any schedule
-      changes on the official site.
+    a: The residency runs from September 12 to October 17, 2026, entirely at Plénitude Arena in Paris. Confirm exact show dates and any schedule changes on the official site.
   - q: Where is Plénitude Arena located?
-    a: >-
-      Plénitude Arena is a large indoor arena on the outskirts of central Paris.
-      Check the venue's official transport page for the RER or Métro connection
-      nearest your ticketed date.
+    a: Plénitude Arena is a large indoor arena on the outskirts of central Paris. Check the venue's official transport page for the RER or Métro connection nearest your ticketed date.
   - q: Are tickets still available for the residency?
-    a: >-
-      The run is sold out. Your best options are official resale queues tied to
-      the original ticket seller or established secondary marketplaces — verify
-      seller authenticity before purchasing.
+    a: The run is sold out. Your best options are official resale queues tied to the original ticket seller or established secondary marketplaces — verify seller authenticity before purchasing.
   - q: How early should I arrive before the show?
-    a: >-
-      Arrive 45–60 minutes before your ticket's listed entry time to allow for
-      security screening and bag checks, which slow down considerably closer to
-      showtime.
+    a: Arrive 45–60 minutes before your ticket's listed entry time to allow for security screening and bag checks, which slow down considerably closer to showtime.
   - q: Is it better to drive or take public transit to the arena?
-    a: >-
-      Public transit is strongly recommended. Parking near large Paris arenas
-      fills quickly and costs more than expected, while RER and Métro lines are
-      built to handle event crowds.
+    a: Public transit is strongly recommended. Parking near large Paris arenas fills quickly and costs more than expected, while RER and Métro lines are built to handle event crowds.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Celine_Dion_%28BBW%29.jpg
+  credit: 'Photo: John Mathew Smith www.celebrity-photos.com / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Celine_Dion_(BBW).jpg
+  focus:
+    x: 68
+    'y': 31
+    top: 6
+    bottom: 55
 ---
 
 ## Why this residency matters

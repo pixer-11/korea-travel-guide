@@ -17,7 +17,6 @@ eventPerformer:
   name: Avenged Sevenfold
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - singapore
   - event
@@ -54,6 +53,7 @@ faq:
       well if you're pressed for time.
 aiGenerated: true
 draft: false
+gallery: []
 ---
 
 ## Why this show matters
