@@ -52,7 +52,17 @@ for (const f of readdirSync(DIR)) {
   const fm = fmEnd > 0 ? raw.slice(0, fmEnd) : '';
   const body = fmEnd > 0 ? raw.slice(fmEnd + 3) : raw;
   if (/^draft:\s*true\s*$/m.test(fm)) continue;             // 초안은 게이트 대상 아님
-  if (/^busyness:/m.test(fm)) continue;                     // 실측 보유 — 주장 자격 있음
+  // 실측 보유 — 주장 자격 있음. 실제 스키마에서 busyness는 place: 아래
+  // 들여쓰여 있다(최상위 busyness:는 옛 테스트 픽스처에만 있던 형태).
+  // 08-28 첫 실전이 ^busyness:로 그 차이를 놓쳐 데이터 보유 글 전체를
+  // 오탐했고 가나자와성이 억울하게 격리됐다. 블록 존재만으로도 부족하다 —
+  // 시간값이 하나라도 있어야 시계창 주장 자격이 된다(방콕 왕궁처럼 측정은
+  // 했으나 창이 빈 글이 시계창을 말하면 그것도 지어낸 것이다).
+  const hasBusynessBlock = /^\s*busyness:/m.test(fm);
+  const hasHourValues =
+    /(?:weekday|weekend)(?:Quiet|Busy):\s*\[\s*\d/.test(fm) ||
+    /(?:weekday|weekend)(?:Quiet|Busy):\s*\r?\n\s+-\s*\d/.test(fm);
+  if (hasBusynessBlock && hasHourValues) continue;
 
   const hit =
     MEASUREMENT_PHRASES.map((re) => body.match(re)?.[0]).find(Boolean) ||

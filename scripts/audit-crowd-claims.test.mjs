@@ -46,11 +46,26 @@ test('데이터 없는 글의 시계창 최상급 주장도 잡힌다', () => {
   assert.match(r.out, /INVENTED-CROWD-CLAIM:\s*b\.md/);
 });
 
-test('busyness 데이터가 있는 글의 같은 문장은 통과한다 (역방향)', () => {
+test('busyness 데이터가 있는 글의 같은 문장은 통과한다 (역방향, 실제 스키마: place 아래 들여쓰기)', () => {
   const r = runOn({
-    'c.md': post('draft: false\nbusyness:\n  weekdayQuiet: [9, 10]\n', 'It is calmest between 9am and 11am on weekdays.'),
+    'c.md': post('draft: false\nplace:\n  name: "T"\n  busyness:\n    updated: "2026-07-23"\n    weekdayQuiet:\n      - 9\n      - 10\n', 'It is calmest between 9am and 11am on weekdays.'),
   });
   assert.equal(r.code, 0, r.out);
+});
+
+test('옛 최상위 busyness 형태도 통과한다', () => {
+  const r = runOn({
+    'c2.md': post('draft: false\nbusyness:\n  weekdayQuiet: [9, 10]\n', 'It is calmest between 9am and 11am on weekdays.'),
+  });
+  assert.equal(r.code, 0, r.out);
+});
+
+test('busyness 블록이 있어도 시간값이 전부 비면 시계창 주장은 잡힌다 (왕궁 사례)', () => {
+  const r = runOn({
+    'c3.md': post('draft: false\nplace:\n  name: "T"\n  busyness:\n    updated: "2026-07-23"\n    weekdayQuiet: []\n    weekdayBusy: []\n', 'It is calmest between 9am and 11am on weekdays.'),
+  });
+  assert.equal(r.code, 1);
+  assert.match(r.out, /INVENTED-CROWD-CLAIM:\s*c3\.md/);
 });
 
 test('구조적 추론("open 직후가 낫다")과 일반 조언은 통과한다', () => {

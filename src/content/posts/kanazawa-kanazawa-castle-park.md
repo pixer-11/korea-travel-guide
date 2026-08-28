@@ -74,8 +74,6 @@ faq:
   - q: "Is it worth combining with Kenrokuen Garden?"
     a: "Yes, they connect by a bridge and most visitors do both in one trip; combined tickets are usually available on site."
 aiGenerated: true
-draft: true
-heldReason: content
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

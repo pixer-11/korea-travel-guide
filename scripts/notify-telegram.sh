@@ -59,7 +59,7 @@ fi
 HELD_LINE=""
 if [ "${HELD:-0}" != "0" ]; then
   HELD_LINE="
-🚧 격리: ${HELD}개 (발행 직전 게이트가 붙잡음 — 자동 수리 후 발행)"
+🚧 격리: ${HELD}개 (발행 직전 게이트가 붙잡음 — 영업시간류는 자동 수리 후 발행, 나머지는 순찰이 검토)"
 fi
 
 TEXT="🗺️ Wander Atlas — ${LABEL}
