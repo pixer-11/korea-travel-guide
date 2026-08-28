@@ -578,9 +578,18 @@ jobs:
           # step above can create them for a newly added country; without them
           # staged, that work is generated and then thrown away on every run.
           git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
-          new=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep -c '\.md$' || true)
+          # Count PUBLISHED and HELD separately. The gate flips a defective new
+          # post to draft before this commit, and format-post-list already skips
+          # drafts — but this count didn't, so the report said "새 글 6개" over
+          # five links and the owner rightly asked where the sixth went
+          # (2026-08-28, kanazawa held by the crowd-claims gate).
+          held=0; pub=0
+          for f in $(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep '\.md$' || true); do
+            if grep -q '^draft: true' "$f"; then held=$((held+1)); else pub=$((pub+1)); fi
+          done
           total=$(ls src/content/posts/*.md | wc -l | tr -d ' ')
-          echo "new=$new" >> "$GITHUB_OUTPUT"
+          echo "new=$pub" >> "$GITHUB_OUTPUT"
+          echo "held=$held" >> "$GITHUB_OUTPUT"
           echo "total=$total" >> "$GITHUB_OUTPUT"
           # Title + URL list of the newly-added posts, for the Telegram report.
           list=$(git diff --cached --name-only --diff-filter=A -- src/content/posts | grep '\.md$' | node scripts/format-post-list.mjs || true)
@@ -938,6 +947,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           JOB_STATUS: ${{ job.status }}
           NEW: ${{ steps.commit.outputs.new }}
+          HELD: ${{ steps.commit.outputs.held }}
           TOTAL: ${{ steps.commit.outputs.total }}
           NEW_LIST: ${{ steps.commit.outputs.list }}
         run: |

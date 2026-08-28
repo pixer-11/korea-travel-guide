@@ -53,9 +53,18 @@ if [ -n "${NEW_LIST:-}" ]; then
 ${NEW_LIST}"
 fi
 
+# 게이트가 붙잡은 글은 발행 수와 따로 말한다 — "새 글 6개"라며 링크 5개를
+# 보여주는 보고는 독자가 없는 여섯 번째를 찾게 만든다(2026-08-28 픽서님 지적:
+# 가나자와성 글이 혼잡 수치 게이트에 격리됐는데 숫자에는 섞여 있었다).
+HELD_LINE=""
+if [ "${HELD:-0}" != "0" ]; then
+  HELD_LINE="
+🚧 격리: ${HELD}개 (발행 직전 게이트가 붙잡음 — 자동 수리 후 발행)"
+fi
+
 TEXT="🗺️ Wander Atlas — ${LABEL}
 ${ICON} 상태: ${STATUS_KO}
-📝 새 ${UNIT}: ${NEW}개
+📝 새 ${UNIT}: ${NEW}개${HELD_LINE}
 📚 전체 글: ${TOTAL}개
 🕒 ${DATE}${NOTE}${LIST_BLOCK}"
 
