@@ -30,6 +30,12 @@ interface Props {
   // only when false. A post passes just the languages it's been translated into,
   // so the switcher never offers a link to a page that would 404.
   localizedLangs?: Lang[];
+  // Message-matched newsletter popup (2026-08-28 audit): the popup component
+  // has taken region/country for interest-field segmentation since 08-14, but
+  // its only call site passed neither — every signup shipped an empty
+  // fields[region] and generic copy. Posts pass their region/country here.
+  popupRegion?: string;
+  popupCountry?: string;
   // Set on low-value pages (e.g. a one-off event that has already ended) to keep
   // the URL live but out of the index — avoids thin/outdated pages dragging the
   // young domain's overall quality. Recurring events stay indexed.
@@ -41,7 +47,7 @@ interface Props {
   suppressPopup?: boolean;
 }
 
-const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false, suppressPopup = false } = Astro.props;
+const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false, suppressPopup = false, popupRegion, popupCountry } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 // Which locales the language switcher may link to WITHOUT preserving the path
@@ -167,11 +173,18 @@ const orgLd = {
         faces have no CJK glyphs. Pretendard ships a dynamic subset (downloads
         just the glyphs used); Google serves Noto with unicode-range subsets.
         Spanish stays on Inter. Matching CSS lives in global.css. */}
+    {/* CJK 폰트 CSS는 비동기로 (2026-08-28 감사 D): 이 서드파티 스타일시트들이
+        렌더링을 막아 최강 시장(ja) 페이지만 FCP를 왕복 하나만큼 늦추고 있었다
+        (실측 콜드 0.75s). media="print" 트릭: 프린트용으로 받아 렌더를 안 막고,
+        onload 에서 all 로 승격. global.css 의 시스템 폰트 스택이 그동안의
+        폴백이라 글자는 즉시 보인다. noscript 독자는 종전대로 블로킹 로드. */}
     {lang === 'ko' && (
       <>
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+          media="print"
+          onload="this.media='all'"
         />
         {/* 제목용 명조 — Hahmlet(함렡). 1940년대 한국 '햄릿' 영화 포스터 레터링에서
             온 세리프라 라틴의 Fraunces 와 성격이 같다. 본문은 Pretendard(고딕) 유지:
@@ -180,23 +193,43 @@ const orgLd = {
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@700&display=swap"
+          media="print"
+          onload="this.media='all'"
         />
+        <noscript>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@700&display=swap" />
+        </noscript>
       </>
     )}
     {(lang === 'ja' || lang === 'zh') && (
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     )}
     {lang === 'ja' && (
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@600;700;800&display=swap"
-      />
+      <>
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@600;700;800&display=swap"
+          media="print"
+          onload="this.media='all'"
+        />
+        <noscript>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@600;700;800&display=swap" />
+        </noscript>
+      </>
     )}
     {lang === 'zh' && (
-      <link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700;800&display=swap"
-      />
+      <>
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700;800&display=swap"
+          media="print"
+          onload="this.media='all'"
+        />
+        <noscript>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700;800&display=swap" />
+        </noscript>
+      </>
     )}
     {/* Width, not .length. A CJK glyph takes about twice the horizontal space of
         a Latin letter, so counting characters applied a Latin ruler to every
@@ -281,7 +314,7 @@ const orgLd = {
       <slot />
     </main>
     <Footer />
-    {!suppressPopup && <NewsletterPopup />}
+    {!suppressPopup && <NewsletterPopup region={popupRegion} country={popupCountry} />}
     <script is:inline>
       // PORTRAIT-AWARE CROPPING, site-wide. Eight places crop photos with
       // object-fit:cover (hero, cards, featured, cover, wall, story, spotlight,
