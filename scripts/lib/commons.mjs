@@ -408,7 +408,8 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
 
 // minWidth 1200: Google Discover only serves large image cards from photos at
 // least 1200px wide, and the hero doubles as og:image — a narrower pick costs
-// the page Discover distribution. Event mode still overrides down to 600.
+// the page Discover distribution. Events share the same 1200 floor since
+// 2026-08-28 — the old 600 override is what fed the attach-then-strip churn.
 export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false } = {}) {
   // subject/near were added to commonsCandidates for the Instagram carousel and,
   // for a while, ONLY the carousel passed them — so the vantage test and the
@@ -446,8 +447,9 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
         must.some((m) => titleLc.includes(m) || titleFlat.includes(m.replace(/[\s_-]+/g, '')));
       // Scenery heroes want a wide banner. For events, the RIGHT image is the
       // performer/athlete — usually a PORTRAIT — so allowPortrait relaxes the
-      // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a smaller
-      // (≥600px) real photo through instead of a wrong-topic city fallback.
+      // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a real
+      // portrait through instead of a wrong-topic city fallback. Width is NOT
+      // relaxed: the caller's 1200 floor applies (600 caused the 08-28 churn).
       const landscape = !c.w || !c.h || (allowPortrait ? c.h <= c.w * 1.8 : c.w >= c.h * 0.95);
       const bigEnough = !c.w || c.w >= minWidth;
       // A 19xx/18xx year in the FILE TITLE marks an archival photo. The event
