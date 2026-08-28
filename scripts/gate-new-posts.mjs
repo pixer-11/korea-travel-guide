@@ -87,6 +87,16 @@ const CHECKS = [
     pick: (l) => l.match(/^(?:NO-VENUE-IDENTITY|GENERIC-TITLE|PHOTO-OTHER-VENUE|PHOTO-WRONG-PLACE|ARCHIVE-PHOTO|NO-FOCUS)\s+(\S+\.md)/)?.[1],
   },
   {
+    // 08-22 전수 감사의 최다 불량 유형(99편 중 다수)을 발행 전으로 옮긴 것:
+    // busyness 실측이 없는 글이 "foot-traffic patterns"류 측정 화법이나
+    // 시계창 최상급 주장을 하면 지어낸 것이다. writer.mjs 프롬프트 수리와
+    // 같은 커밋 — 프롬프트가 안 만들게, 게이트가 새면 잡게(양방향).
+    name: 'crowd-claims',
+    why: '실측 없는 혼잡 수치 주장 (지어낸 통계 화법)',
+    cmd: 'node scripts/audit-crowd-claims.mjs',
+    pick: (l) => l.match(/^INVENTED-CROWD-CLAIM:\s*(\S+\.md)/)?.[1],
+  },
+  {
     name: 'content',
     why: '콘텐츠 검증 실패',
     cmd: 'node scripts/validate-content.mjs',
