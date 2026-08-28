@@ -36,14 +36,14 @@ t('각 작업은 자기 몫으로 시작한다', `
 import { claim } from './scripts/lib/places-budget.mjs';
 const p = await claim('publish'), r = await claim('refresh');
 console.log(p.allowance + ',' + r.allowance);
-`, '40,20');
+`, '25,50');
 
-t('앞 작업이 적게 쓰면 남은 몫이 뒤로 넘어간다', `
+t('몫은 정적이다 — 앞 작업이 아껴도 남의 몫이 늘지 않는다 (이월은 미구현, 2026-08-28 재배분으로 대응)', `
 import { claim, record } from './scripts/lib/places-budget.mjs';
-await record('publish', 5);            // 40 중 5만 사용
-const r = await claim('refresh');       // 자기 몫 20, 남은 총량 95 → 20
+await record('publish', 5);            // 25 중 5만 사용
+const r = await claim('refresh');       // 자기 몫 50, 남은 총량 95 → 50
 console.log(r.allowance + ',' + r.spentToday);
-`, '20,5');
+`, '50,5');
 
 t('하루 총량이 바닥나면 0을 준다', `
 import { claim, record } from './scripts/lib/places-budget.mjs';
@@ -54,7 +54,7 @@ console.log(r.allowance + ',' + r.remainingToday);
 
 t('한 작업이 자기 몫을 다 쓰면 더 받지 못한다', `
 import { claim, record } from './scripts/lib/places-budget.mjs';
-await record('refresh', 20);
+await record('refresh', 50);
 const r = await claim('refresh');
 console.log(String(r.allowance));
 `, '0');
@@ -68,11 +68,11 @@ console.log(String(Object.values(SHARES).reduce((a, b) => a + b, 0) === DAILY_CA
 // 규칙의 두 번째 주머니 — 발행이 다 쓰면 대량발행이 첫 검색부터 거절당하던 것.
 t('검색 주머니는 Details 장부와 따로 센다', `
 import { claim, claimSearch, recordSearch, record } from './scripts/lib/places-budget.mjs';
-await record('publish', 30);            // Details 30 사용
+await record('publish', 20);            // Details 20 사용
 const s = await claimSearch('publish'); // 검색은 아직 0 사용 → 자기 몫 55
-const d = await claim('publish');       // Details 몫 40-30 = 10
+const d = await claim('publish');       // Details 몫 25-20 = 5
 console.log(s.allowance + ',' + s.spentToday + ',' + d.allowance);
-`, '55,0,10');
+`, '55,0,5');
 
 t('발행이 검색 몫을 다 써도 대량발행 몫은 남는다', `
 import { claimSearch, recordSearch } from './scripts/lib/places-budget.mjs';

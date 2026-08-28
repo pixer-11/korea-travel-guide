@@ -1,10 +1,19 @@
 name: Refresh existing posts (freshness)
 
-# Weekly: re-check every post's venue against Google Places, update
-# ratings/hours, and auto-unpublish anything that has closed.
+# Re-check every post's venue against Google Places, update ratings/hours,
+# and auto-unpublish anything that has closed.
+#
+# DAILY since 2026-08-28 (was weekly): with publishing throttled to 5/day the
+# Places budget rebalanced to refresh=50/day (places-budget.mjs), and a weekly
+# run could never spend it — the full catalogue took ~30 weeks per rotation
+# while the STALE alarm fires at 120 days. Daily × 50 ≈ a full rotation in
+# ~3.5 weeks. The heavy weekly side-steps (Foursquare link sweep + its
+# Telegram report) stay Sunday-only via the schedule guard below, so daily
+# runs are quiet: venue data + same-commit prose resyncs, nothing else.
 on:
   schedule:
-    - cron: '33 20 * * 0' # Sundays 20:33 UTC (off the hour)
+    - cron: '33 20 * * 0'   # Sundays 20:33 UTC — full run incl. FSQ sweep
+    - cron: '33 19 * * 1-6' # Mon–Sat 19:33 UTC — data refresh only
   workflow_dispatch: {}
 
 # Shares the daily Places Details budget with publish/backfill/quality-audit.
@@ -33,7 +42,7 @@ jobs:
           # (data/refresh-cursor.json, committed below) so successive runs
           # rotate oldest-checked-first through the whole catalogue instead
           # of re-refreshing the same alphabetical head every week.
-          REFRESH_LIMIT: '40'
+          REFRESH_LIMIT: '50'
         run: npm run refresh
 
       # The step above moves place.rating / place.userRatingsTotal. The meta
@@ -82,6 +91,9 @@ jobs:
       # flagged, human decision requested. continue-on-error so a network
       # blip can never block the venue-data commit below.
       - name: Foursquare photo link check
+        # Sunday (or manual) only — 362 HEAD requests and a weekly Telegram
+        # report have no business running seven times a week.
+        if: github.event.schedule == '33 20 * * 0' || github.event_name == 'workflow_dispatch'
         id: fsq
         continue-on-error: true
         run: |
@@ -128,7 +140,7 @@ jobs:
           fi
 
       - name: Notify Telegram (photo link check)
-        if: always()
+        if: always() && (github.event.schedule == '33 20 * * 0' || github.event_name == 'workflow_dispatch')
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

@@ -10,26 +10,32 @@
 //  the weekly sweep checked 1 of 536 venue posts before its first 429 and
 //  stopped. Venues that have permanently closed can sit live indefinitely.
 //
-//  So the jobs now draw from a recorded daily ledger instead of assuming. Shares
-//  are ordered by what the site loses without them:
+//  So the jobs now draw from a recorded daily ledger instead of assuming.
 //
-//    publish        40   new content — the reason the site exists
-//    backfill       25   phone/hours for posts that just went up
-//    refresh        20   closure detection — the only thing that unpublishes a
-//                        venue that shut down, and the one being starved
+//  Shares are STATIC — an earlier comment promised "a job that finishes under
+//  its share leaves the remainder for whoever runs next", and claim() never
+//  implemented it (Codex audit 2026-08-28 caught the gap; the old test even
+//  asserted the static behavior under a spillover name). Rather than invent a
+//  carryover protocol at midnight, the shares were REBALANCED for the throttle
+//  era (publish is 5 posts/day and backfill is 0, so their old shares sat
+//  idle while refresh needed ~30 weeks per rotation):
+//
+//    publish        25   new content at 5/day uses ~10-15
+//    backfill       10   throttled to zero; keep a floor for stragglers
+//    refresh        50   closure detection + lastmod freshness on the pages
+//                        Google still crawls — the crisis-era priority
 //    quality        15   address/photo cleanup, the most deferrable
 //
-//  A job that finishes under its share leaves the remainder for whoever runs
-//  next, so a quiet publish night funds a deeper closure sweep instead of the
-//  budget evaporating. Nothing here talks to Google — it records intent, and the
-//  existing 429 guards remain the real backstop.
+//  Revisit this split with the 2026-09-10 throttle verdict (see
+//  data/publish-throttle.json howToDecide). Nothing here talks to Google — it
+//  records intent, and the existing 429 guards remain the real backstop.
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
 const LEDGER = fileURLToPath(new URL('../../data/places-budget.json', import.meta.url));
 export const DAILY_CAP = Number(process.env.PLACES_DAILY_CAP || 100);
-export const SHARES = { publish: 40, backfill: 25, refresh: 20, quality: 15 };
+export const SHARES = { publish: 25, backfill: 10, refresh: 50, quality: 15 };
 
 // ── Text Search — the SECOND pot (2026-08-23) ────────────────────────────
 // The Details ledger above assumed Text Search was "75k/day, effectively
@@ -78,11 +84,10 @@ export function describeSearch(job, { allowance, spentToday }) {
 }
 
 /**
- * How many Details calls `job` may make right now.
- *
- * Its own share, plus whatever earlier jobs left unspent — never more than the
- * day's remaining total. Returns 0 when the pot is dry, which callers should
- * treat as "do nothing today", not as an error.
+ * How many Details calls `job` may make right now: its own share, capped by
+ * the day's remaining total. (No carryover between jobs — see the header.)
+ * Returns 0 when the pot is dry, which callers should treat as "do nothing
+ * today", not as an error.
  */
 export async function claim(job) {
   const share = SHARES[job];
