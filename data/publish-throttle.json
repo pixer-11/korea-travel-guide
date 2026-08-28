@@ -7,7 +7,10 @@
   "restoreTo": {
     "postsPerRun": 16,
     "backfillPerRun": "ramp",
-    "note": "backfill 'ramp' is the original 25/35/50-by-week logic in backfill.yml; setting backfillPerRun to any number overrides it, and -1 restores the ramp."
+    "note": "backfill 'ramp' is the original 25/35/50-by-week logic in backfill.yml; setting backfillPerRun to any number overrides it, and -1 restores the ramp. Restore ONLY under the queue-fell branch below - never as a reflex."
   },
-  "howToDecide": "On revisitAt, read GSC > Indexing > Pages. If 'Discovered - currently not indexed' has fallen below 5,036, intake was the binding constraint and this throttle stays (raise slowly, re-measure). If it has not moved, crawl budget is purely an authority problem, the throttle buys nothing, and backlinks are the only lever left - restore the values above."
+  "howToDecide": "PRE-REGISTERED 2026-08-28 (owner delegated; supersedes the older text that said 'restore the values above' when the queue had not moved - the 08-28 five-analyst audit + Codex cross-exam judged that reflex wrong). On revisitAt, FIRST export GSC coverage and crawl stats segmented by language, page type, publication cohort and host (the falsification test for the site-classification hypothesis). THEN: (a) if 'Discovered - currently not indexed' fell meaningfully below 5,036, intake was a binding constraint - raise postsPerRun slowly (5 -> 10 -> 16 over weeks), re-measuring each step; (b) if it has NOT moved, do NOT restore volume - hold 5/day, keep the freed Places/vision/translation budget on refresh + authority work (backlinks, template-variance cohort), and re-read on the next cycle. A red verdict means the constraint is authority and uniformity, and more URLs make that worse, not better.",
+  "ownerDecisions": {
+    "translations": "2026-08-28 owner decision: ALL FIVE LANGUAGES stay for every post, unconditionally. Translation gating (EN-first, others after indexation) was proposed by the audit and REJECTED by the owner - do not resurrect it as an optimization."
+  }
 }
