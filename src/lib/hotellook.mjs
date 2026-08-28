@@ -13,7 +13,7 @@
 const DAY = 86400e3;
 const ymd = (t) => new Date(t).toISOString().slice(0, 10);
 
-export function hotellookUrl({ submarker, lang, destination, eventStart, now = Date.now() }) {
+export function hotellookUrl({ submarker, lang, destination, eventStart = null, now = Date.now() }) {
   const start = eventStart && Date.parse(eventStart) > now
     ? Date.parse(eventStart)
     : now + 30 * DAY;
