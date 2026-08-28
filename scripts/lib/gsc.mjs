@@ -16,12 +16,14 @@ import { createSign } from 'node:crypto';
 const b64url = (buf) => Buffer.from(buf).toString('base64').replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 
 // Service-account JWT → OAuth access token (RFC 7523 flow).
-export async function getAccessToken(sa) {
+// Default scope stays readonly — every report/audit caller keeps least
+// privilege. Only sitemap submission (2026-08-28) asks for the write scope.
+export async function getAccessToken(sa, scope = 'https://www.googleapis.com/auth/webmasters.readonly') {
   const now = Math.floor(Date.now() / 1000);
   const header = b64url(JSON.stringify({ alg: 'RS256', typ: 'JWT' }));
   const claim = b64url(JSON.stringify({
     iss: sa.client_email,
-    scope: 'https://www.googleapis.com/auth/webmasters.readonly',
+    scope,
     aud: 'https://oauth2.googleapis.com/token',
     exp: now + 3600,
     iat: now,

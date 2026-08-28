@@ -1,0 +1,26 @@
+name: Submit child sitemaps to GSC
+
+# Manual one-shot (2026-08-28): pushes the 35 split child sitemaps plus the
+# image sitemap into Search Console so coverage can be read per language ×
+# page type — the whole reason the sitemap was split. Safe to re-run any time
+# (submission is idempotent); scheduled runs are pointless because the child
+# LIST only changes when a new language or page type ships.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Submit
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+        run: node scripts/submit-child-sitemaps.mjs
