@@ -36,23 +36,28 @@
     "amalfi-coast-positano",
     "taroko-gorge-silks-place-taroko",
     "dumaguete-silliman-hall",
-    "bangkok-saladaeng"
+    "bangkok-saladaeng",
+    "hangzhou-leifeng-pagoda"
   ],
-  "lastSentDay": "2026-08-27",
+  "lastSentDay": "2026-08-28",
   "material": {
-    "day": "2026-08-27",
-    "slug": "bangkok-saladaeng",
-    "title": "Saladaeng in Bangkok",
+    "day": "2026-08-28",
+    "slug": "hangzhou-leifeng-pagoda",
+    "title": "Leifeng Pagoda: Hangzhou Travel Guide",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-08-27-bangkok-saladaeng-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-08-27-bangkok-saladaeng-2.jpg"
+      "https://wanderatlasguides.com/og/social/2026-08-28-hangzhou-leifeng-pagoda-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-08-28-hangzhou-leifeng-pagoda-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-08-28-hangzhou-leifeng-pagoda-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-08-28-hangzhou-leifeng-pagoda-4.jpg"
     ],
-    "igCaption": "42 floors above Bangkok, Saladaeng blends over 100 pieces of Fritz Hansen furniture with sweeping views of Lumpini Park and the Silom skyline. Part social club, part design showcase — book ahead, this one's already buzzing.\n\n#SalaDaengRoad #Bangkok #Thailand #travelguide #travel #wanderatlas #SaladaengBangkok #RooftopBar #DusitCentralPark #TravelGuide\n📷 Photo: Foursquare user content (Sala Daeng Road (ถนนศาลาแดง))",
-    "thOption": "Sunset here happens gradually as daylight fades into the lit-up skyline — would you rather time your visit for dry-season clarity (Nov-Feb) or risk rainy-season drama for the photos?",
-    "link": "https://wanderatlasguides.com/posts/bangkok-saladaeng/"
+    "igCaption": "The pagoda you see across West Lake is a 2002 rebuild over a real 10th-century ruin — walk through crumbled ancient brick before riding escalators up to carved legend murals and a lake view that stretches to the hills.\n\n#LeifengPagoda #Hangzhou #China #travelguide #travel #wanderatlas #WestLake #TravelChina #HiddenHistory\n📷 Photo: David290 / Wikimedia Commons (CC BY-SA 4.0)\n📷 Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)\n📷 Photo: HoweyYuan / Wikimedia Commons (CC BY-SA 4.0)",
+    "thOption": "Locals once believed pagoda dust warded off illness and chipped bricks from its base until it collapsed in 1924. Would you have grabbed a piece too?",
+    "link": "https://wanderatlasguides.com/posts/hangzhou-leifeng-pagoda/"
   },
   "social": {
-    "thDay": "2026-08-27",
-    "thId": "18097349450148280"
+    "thDay": "2026-08-28",
+    "thId": "17954634843042716",
+    "igDay": "2026-08-28",
+    "igId": "18107597009521443"
   }
 }
