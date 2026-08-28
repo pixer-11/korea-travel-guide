@@ -28007,11 +28007,11 @@
   "at": "2026-08-18T08:22:45.560Z"
  },
  "zh/austin-museum-of-the-weird": {
-  "hash": "aa49c4df847b",
+  "hash": "1daba795fb32",
   "score": 1,
   "registerBreak": false,
-  "worst": "想不注意到奇趣博物馆几乎不可能——东六街上那家极具叫卖风格的门店，就是要让人一眼看见。",
-  "at": "2026-08-18T08:22:55.013Z"
+  "worst": "这类藏品放在一百年前，本该巡回展出于各郡集市，如今却被牢牢固定在奥斯汀一间狭长的店面里。",
+  "at": "2026-08-28T19:39:19.938Z"
  },
  "zh/avignon-place-du-palais": {
   "hash": "ce3bd8701783",
@@ -29153,5 +29153,82 @@
   "registerBreak": false,
   "worst": "这是一家坐落在已然闻名遐迩的工程奇迹之中的目的地餐厅。",
   "at": "2026-08-28T09:10:13.410Z"
+ },
+ "zh/al-barsha-dubai-gold-souk": {
+  "hash": "ae520e8df37b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "顺路还可以逛逛附近的香料市场（Spice Souk）和香水市场（Perfume Souk），沿着河边走几步就能到。",
+  "at": "2026-08-28T19:36:15.893Z"
+ },
+ "zh/baguio-baguio-botanical-garden": {
+  "hash": "64ed0e45283c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "当地人叫它“伊戈洛特花园”的频率，不亚于叫它的正式名称——这是在向园内那一片仿照科迪勒拉传统民居搭建的原住民茅屋致意。",
+  "at": "2026-08-28T19:36:33.408Z"
+ },
+ "es/istanbul-istanbul-archaeological-museums": {
+  "hash": "90abf59ccc20",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Aquí no hay código de vestimenta, a diferencia de las mezquitas cercanas,",
+  "at": "2026-08-28T19:36:35.208Z"
+ },
+ "es/pattaya-prince-of-chumphon-monument": {
+  "hash": "edde872cf0df",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Qué se está viending realmente",
+  "at": "2026-08-28T19:36:41.152Z"
+ },
+ "es/singapore-asian-civilisations-museum": {
+  "hash": "f462c5668586",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El edificio no carece de lugares emblemáticos cercanos: el puente Cavenagh, la estatua...",
+  "at": "2026-08-28T19:36:44.354Z"
+ },
+ "ja/istanbul-istanbul-archaeological-museums": {
+  "hash": "c178351c37ca",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "大きな石棺の前でも人混みに邪魔されず、目立って余裕を持って鑑賞できます。",
+  "at": "2026-08-28T19:36:49.355Z"
+ },
+ "ja/pattaya-prince-of-chumphon-monument": {
+  "hash": "dcffd1609632",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "パタヤやその近郊ナクルアを拠点に船を出す地元の人々は、出航前にここへ立ち寄ることが多く",
+  "at": "2026-08-28T19:36:52.681Z"
+ },
+ "ja/singapore-asian-civilisations-museum": {
+  "hash": "ae60f026115d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "碗や水差しには今も部分的に付着物が残っており、漁師の網に引き揚げられるまで千年以上も海底に眠っていました。",
+  "at": "2026-08-28T19:37:00.122Z"
+ },
+ "ko/istanbul-istanbul-archaeological-museums": {
+  "hash": "1d457abe8153",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "측정된 방문 패턴에 따르면 주말 정오부터 오후 6시 사이가 가장 붐비는 시간대이므로",
+  "at": "2026-08-28T19:37:05.023Z"
+ },
+ "ko/pattaya-prince-of-chumphon-monument": {
+  "hash": "35b4d52e2585",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그의 들어 올린 손끝에서 시선이 자연스레 수평선까지 이어지도록 배치되어 있습니다.",
+  "at": "2026-08-28T19:37:15.807Z"
+ },
+ "ko/singapore-asian-civilisations-museum": {
+  "hash": "76e624d152ac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "곳곳에서 여러 언어가 들려올 만큼 이곳은 싱가포르 여행 일정에서 빠지지 않는 인기 명소이지, 조용히 숨어 있는 뒷골목 명소가 아닙니다.",
+  "at": "2026-08-28T19:37:19.444Z"
  }
 }

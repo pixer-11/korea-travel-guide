@@ -13506,5 +13506,35 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows Royal Palace pavilion and grounds in Phnom Penh",
     "at": "2026-08-28T09:11:59.537Z"
+  },
+  "yeosu-ungcheon-beach-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ungcheon_Beach_Park_01.jpg/1920px-Ungcheon_Beach_Park_01.jpg": {
+    "slug": "yeosu-ungcheon-beach-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Beach boardwalk with bay, bridge, city lights at dusk",
+    "at": "2026-08-28T19:30:20.123Z"
+  },
+  "pattaya-prince-of-chumphon-monument\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg": {
+    "slug": "pattaya-prince-of-chumphon-monument",
+    "verdict": "MATCH",
+    "reason": "publish gate: Silhouette of statue monument matches Prince of Chumphon Monument",
+    "at": "2026-08-28T19:31:24.229Z"
+  },
+  "suwon-hwaseong-haenggung\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hwaseong_Haenggung_Palace_panorama.jpg/3840px-Hwaseong_Haenggung_Palace_panorama.jpg": {
+    "slug": "suwon-hwaseong-haenggung",
+    "verdict": "MATCH",
+    "reason": "publish gate: Traditional Korean palace complex with hanok roofs, representative view",
+    "at": "2026-08-28T19:31:57.928Z"
+  },
+  "istanbul-istanbul-archaeological-museums\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/1920px-Istanbularcheology.jpg": {
+    "slug": "istanbul-istanbul-archaeological-museums",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior facade of the Istanbul Archaeological Museums building",
+    "at": "2026-08-28T19:32:52.751Z"
+  },
+  "singapore-asian-civilisations-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Empress_Place_Building_2023-03-22.jpg/1920px-Empress_Place_Building_2023-03-22.jpg": {
+    "slug": "singapore-asian-civilisations-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Asian Civilisations Museum building with visible signage",
+    "at": "2026-08-28T19:33:30.901Z"
   }
 }
