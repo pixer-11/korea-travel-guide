@@ -34,7 +34,12 @@ const GRACE_MIN = 100; // 지각 발화 여지 — 이보다 늦으면 누락으
 const MANIFEST = [
   { file: 'reddit-scout.yml', name: '레딧 스카우트', crons: ['30 11 * * *'] },
   { file: 'pinterest.yml', name: '핀터레스트 핀', crons: ['35 23 * * *', '35 11 * * *'] },
-  { file: 'refresh.yml', name: '데이터 리프레시', crons: ['33 20 * * 0', '33 19 * * 1-6'] },
+  // refresh 는 일요일 크론만 FSQ 전수 점검(362요청)+주간 보고를 겸한다. 구조
+  // 디스패치가 맨몸으로 나가면 워크플로가 그것을 일요일로 착각하므로, 어느
+  // 크론을 놓쳤는지에 따라 full 입력을 달리 준다(평일 구조가 주간 몫을 돌리면
+  // 비용도 보고도 이중이 된다 — 08-28 코덱스 심문).
+  { file: 'refresh.yml', name: '데이터 리프레시', crons: ['33 20 * * 0', '33 19 * * 1-6'],
+    inputsByCron: { '33 20 * * 0': { full: 'true' }, '33 19 * * 1-6': { full: 'false' } } },
   { file: 'threads-daily.yml', name: '스레드 소재·소셜 게시', crons: ['25 22 * * *', '25 23 * * *', '25 1 * * *'] },
   { file: 'indexnow.yml', name: 'IndexNow 제출', crons: ['30 8 * * *', '30 20 * * *'] },
   { file: 'analytics-report.yml', name: '일일 분석 보고', crons: ['7 0 * * *'] },
@@ -63,19 +68,35 @@ const now = Date.now();
 const rescued = [], pending = [];
 
 for (const w of MANIFEST) {
-  const lastExpected = Math.max(...w.crons.map((c) => lastFireBefore(c, now)));
+  // 여러 크론 중 "마지막으로 울렸어야 할 슬롯"과 그것이 어느 크론이었는지를
+  // 같이 기억한다 — 구조 디스패치에 슬롯별 입력(inputsByCron)을 실어야 해서다.
+  let lastExpected = -Infinity, missedCron = null;
+  for (const c of w.crons) {
+    const t = lastFireBefore(c, now);
+    if (t > lastExpected) { lastExpected = t; missedCron = c; }
+  }
   const overdueMin = Math.round((now - lastExpected) / 60000);
   // 예정 시각 10분 전부터의 실행을 "그 슬롯의 실행"으로 인정 — 스케줄러가
   // 몇 분 이르게 큐잉하는 경우까지 오탐 없이 담는다. 이벤트 종류는 안 가린다:
   // 사람이 손으로 돌렸어도 그 슬롯의 일은 된 것이다.
   const since = new Date(lastExpected - 10 * 60000).toISOString();
-  const runs = await gh(`/actions/workflows/${w.file}/runs?created=${encodeURIComponent('>=' + since)}&per_page=1`);
-  const ran = (runs.workflow_runs ?? []).length > 0;
+  const runs = await gh(`/actions/workflows/${w.file}/runs?created=${encodeURIComponent('>=' + since)}&per_page=5`);
+  // 실행 "기록"이 아니라 "그 슬롯의 일이 되었는가"를 본다: 아직 도는 중이면
+  // 된 셈이고, 끝난 기록은 success 만 인정한다. 체크아웃에서 죽은 failure/
+  // cancelled 기록이 감시견을 안심시키면 그날치 일이 조용히 사라진다(08-28
+  // 코덱스 심문). 명단의 워크플로는 전부 중복 실행이 무해하므로, 실패 후
+  // 재발화가 또 실패해도 잃는 건 러너 몇 분뿐이고 실패 알림은 따로 온다.
+  const ran = (runs.workflow_runs ?? []).some((r) =>
+    r.status !== 'completed' || r.conclusion === 'success');
   const verdict = ran ? 'ok' : (overdueMin <= GRACE_MIN ? 'waiting' : 'MISSED');
   console.log(`${w.file}: expected ${new Date(lastExpected).toISOString()} (+${overdueMin}m) → ${verdict}`);
   if (verdict !== 'MISSED') continue;
   if (DRY) { pending.push(w); continue; }
-  await gh(`/actions/workflows/${w.file}/dispatches`, { method: 'POST', body: JSON.stringify({ ref: 'main' }) });
+  const inputs = w.inputsByCron?.[missedCron];
+  await gh(`/actions/workflows/${w.file}/dispatches`, {
+    method: 'POST',
+    body: JSON.stringify({ ref: 'main', ...(inputs ? { inputs } : {}) }),
+  });
   rescued.push(`${w.name} (${overdueMin}분 지각)`);
 }
 

@@ -17,6 +17,13 @@ on:
         description: 'Pins this run (blank = auto ramp by account age)'
         required: false
 
+# The state commit and Pinterest's spam systems both dislike two of these
+# running at once — the delayed-cron-plus-watchdog-rescue race can line that
+# up (threads-daily already guards the same way, 08-28).
+concurrency:
+  group: pinterest
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

@@ -14,7 +14,12 @@ on:
   schedule:
     - cron: '33 20 * * 0'   # Sundays 20:33 UTC — full run incl. FSQ sweep
     - cron: '33 19 * * 1-6' # Mon–Sat 19:33 UTC — data refresh only
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "FSQ 사진 링크 전수 점검(362요청)+주간 보고 포함 — 일요일 몫. 감시견의 평일 구조는 false 로 온다"
+        required: false
+        default: 'true'
 
 # Shares the daily Places Details budget with publish/backfill/quality-audit.
 concurrency:
@@ -91,9 +96,11 @@ jobs:
       # flagged, human decision requested. continue-on-error so a network
       # blip can never block the venue-data commit below.
       - name: Foursquare photo link check
-        # Sunday (or manual) only — 362 HEAD requests and a weekly Telegram
-        # report have no business running seven times a week.
-        if: github.event.schedule == '33 20 * * 0' || github.event_name == 'workflow_dispatch'
+        # Sunday (or full manual run) only — 362 HEAD requests and a weekly
+        # Telegram report have no business running seven times a week. A bare
+        # dispatch used to count as Sunday, which made the watchdog's weekday
+        # rescue run the whole weekly sweep — hence the full input (08-28).
+        if: github.event.schedule == '33 20 * * 0' || (github.event_name == 'workflow_dispatch' && inputs.full != 'false')
         id: fsq
         continue-on-error: true
         run: |
@@ -140,7 +147,7 @@ jobs:
           fi
 
       - name: Notify Telegram (photo link check)
-        if: always() && (github.event.schedule == '33 20 * * 0' || github.event_name == 'workflow_dispatch')
+        if: always() && (github.event.schedule == '33 20 * * 0' || (github.event_name == 'workflow_dispatch' && inputs.full != 'false'))
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
