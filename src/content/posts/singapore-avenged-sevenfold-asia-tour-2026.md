@@ -1,6 +1,8 @@
 ---
 title: 'Avenged Sevenfold Asia Tour 2026: Dates, Tickets & Venue (Singapore)'
-description: Avenged Sevenfold Asia Tour 2026 in Singapore, Singapore — October 13, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Avenged Sevenfold Asia Tour 2026 in Singapore, Singapore — October 13, 2026.
+  What it is, when and where, and how to plan around it.
 country: Singapore
 region: Singapore
 category: event
@@ -10,37 +12,46 @@ eventEndDate: '2026-10-13'
 eventRecurring: false
 eventVenue: Singapore Indoor Stadium
 eventOffers:
-  url: https://www.ticketmaster.sg
+  url: 'https://www.ticketmaster.sg'
 eventPerformer:
   name: Avenged Sevenfold
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_%2832509055635%29.jpg
-  credit: 'Photo: Giada Conti from Pisa, italy / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_(32509055635).jpg
-  focus:
-    x: 44
-    'y': 13
-    top: 3
-    bottom: 22
 gallery: []
 tags:
   - singapore
   - event
-quickAnswer: Avenged Sevenfold Asia Tour 2026 brings the California metal band to Singapore Indoor Stadium on October 13, 2026. The venue sits at Kallang, a short walk from Stadium MRT station, making it one of the easiest arena shows in the city to reach without a car. Confirm timing and tickets on the official site before you lock in flights or hotels.
+quickAnswer: >-
+  Avenged Sevenfold Asia Tour 2026 brings the California metal band to Singapore
+  Indoor Stadium on October 13, 2026. The venue sits at Kallang, a short walk
+  from Stadium MRT station, making it one of the easiest arena shows in the city
+  to reach without a car. Confirm timing and tickets on the official site before
+  you lock in flights or hotels.
 faq:
   - q: Where exactly is the Avenged Sevenfold Singapore show?
-    a: Singapore Indoor Stadium in Kallang, on October 13, 2026. The venue is right next to Stadium MRT station on the Circle Line.
+    a: >-
+      Singapore Indoor Stadium in Kallang, on October 13, 2026. The venue is
+      right next to Stadium MRT station on the Circle Line.
   - q: How do I get tickets?
-    a: Confirm timing and tickets on the official site — Avenged Sevenfold's tour page and Singapore Indoor Stadium's venue listings carry the accurate, up-to-date ticketing links.
+    a: >-
+      Confirm timing and tickets on the official site — Avenged Sevenfold's tour
+      page and Singapore Indoor Stadium's venue listings carry the accurate,
+      up-to-date ticketing links.
   - q: What's the best way to get to the venue without a car?
-    a: Take the MRT to Stadium station on the Circle Line; it's an escalator ride from the platform to the entrance. Kallang station on the East-West Line is a 10-minute walk and a good alternative for a quicker exit after the show.
+    a: >-
+      Take the MRT to Stadium station on the Circle Line; it's an escalator ride
+      from the platform to the entrance. Kallang station on the East-West Line
+      is a 10-minute walk and a good alternative for a quicker exit after the
+      show.
   - q: Is there parking at Singapore Indoor Stadium?
-    a: On-site parking is limited and fills quickly on show nights. Leisure Park Kallang and OCBC Arena car parks nearby are reliable backups.
+    a: >-
+      On-site parking is limited and fills quickly on show nights. Leisure Park
+      Kallang and OCBC Arena car parks nearby are reliable backups.
   - q: What should I eat near the venue before the show?
-    a: Old Airport Road Food Centre, about 10 minutes away, is one of Singapore's best hawker centres. Kallang Wave Mall, attached to the stadium, works well if you're pressed for time.
+    a: >-
+      Old Airport Road Food Centre, about 10 minutes away, is one of Singapore's
+      best hawker centres. Kallang Wave Mall, attached to the stadium, works
+      well if you're pressed for time.
 aiGenerated: true
 draft: false
 ---

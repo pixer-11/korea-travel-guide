@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby?
     a: Ginza's flagship department stores and luxury boutiques surround the restaurant, making it easy to pair dinner with an afternoon of shopping in the district.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/7395498_ORXNm3aG93QupN7B6lJ4uvBtHbGRbLTENHtZ2qnS_Nc.jpg
+  credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
+  license: foursquare
+  source: https://foursquare.com/v/69ffff169545e75813a2b47f
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Why go

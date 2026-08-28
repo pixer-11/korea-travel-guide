@@ -5,7 +5,6 @@ country: Spain
 region: Madrid
 category: restaurant
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - madrid
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to combine this with sightseeing?
     a: Salamanca is close to Retiro Park and Madrid's main shopping streets, making it easy to pair a meal here with an afternoon of walking and browsing.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/31673230_GB2WuP7LnPIYfuAl4cGGAcnk6MaREX_N3Hh6PwkCyx8.jpg
+  credit: 'Photo: Foursquare user content (El Campero)'
+  license: foursquare
+  source: https://foursquare.com/v/69bf14e2e22df815835d6130
+  focus:
+    x: 50
+    'y': 65
 ---
 
 ## Why El Campero matters

@@ -5,7 +5,6 @@ country: Cambodia
 region: Phnom Penh
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - phnom penh
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a night of it?
     a: The hotel sits close to Phnom Penh's riverfront promenade, making it easy to combine a rooftop drink with a walk along the river before or after.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/53396075_ku9FgJPaS17IK_AflrRfZfDEB7-DsHPbEBnJ3DY0neo.jpg
+  credit: 'Photo: Foursquare user content (Sora Sky Bar)'
+  license: foursquare
+  source: https://foursquare.com/v/59f30d6fb9ac386c15b4573e
+  focus:
+    x: 50
+    'y': 55
 ---
 
 You feel Sora before you see the skyline. The lift doors open high above Phnom Penh's rooftops, pressure popping in your ears, and you step out into a room that suddenly makes the low-rise capital below look like a scale model. This is the top of Rosewood Phnom Penh, the tallest building in the city, and the bar has become the reference point for what "trendy" means here now.

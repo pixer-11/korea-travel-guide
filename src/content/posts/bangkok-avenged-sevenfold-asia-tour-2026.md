@@ -1,6 +1,8 @@
 ---
 title: 'Avenged Sevenfold Asia Tour 2026: Dates, Tickets & Venue (Bangkok)'
-description: Avenged Sevenfold Asia Tour 2026 in Bangkok, Thailand — October 6-7, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Avenged Sevenfold Asia Tour 2026 in Bangkok, Thailand — October 6-7, 2026.
+  What it is, when and where, and how to plan around it.
 country: Thailand
 region: Bangkok
 category: event
@@ -12,37 +14,44 @@ eventVenue: Thunder Dome
 eventOrganizer:
   name: VIJI Corp
 eventOffers:
-  url: https://www.ticketmelon.com/viji/a7x
+  url: 'https://www.ticketmelon.com/viji/a7x'
 eventPerformer:
   name: Avenged Sevenfold
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png
-  credit: 'Photo: Dulguun7 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_Live_in_the_LBC_large.png
-  focus:
-    x: 22
-    'y': 25
-    top: 15
-    bottom: 35
 gallery: []
 tags:
   - bangkok
   - event
-quickAnswer: Avenged Sevenfold Asia Tour 2026 hits Bangkok for two nights, October 6 and 7, at Thunder Dome — the band's first Thai shows in eleven years. Both dates are sold out, so tickets now mean the resale or official exchange market rather than a standard box office. Confirm timing and tickets on the official site before making any travel plans around the show.
+quickAnswer: >-
+  Avenged Sevenfold Asia Tour 2026 hits Bangkok for two nights, October 6 and 7,
+  at Thunder Dome — the band's first Thai shows in eleven years. Both dates are
+  sold out, so tickets now mean the resale or official exchange market rather
+  than a standard box office. Confirm timing and tickets on the official site
+  before making any travel plans around the show.
 faq:
   - q: When is the Avenged Sevenfold Bangkok show?
-    a: October 6 and 7, 2026, at Thunder Dome in Nonthaburi, just outside central Bangkok. Confirm exact set times on the official site.
+    a: >-
+      October 6 and 7, 2026, at Thunder Dome in Nonthaburi, just outside central
+      Bangkok. Confirm exact set times on the official site.
   - q: Are tickets still available?
-    a: Both Bangkok dates are sold out. Your remaining options are official resale platforms or verified ticket exchanges — avoid unofficial third-party sellers.
+    a: >-
+      Both Bangkok dates are sold out. Your remaining options are official
+      resale platforms or verified ticket exchanges — avoid unofficial
+      third-party sellers.
   - q: How do I get to Thunder Dome from central Bangkok?
-    a: Taxi or ride-hailing apps like Grab are easiest, taking roughly 30-45 minutes depending on traffic. The venue is inside the Muang Thong Thani complex in Nonthaburi.
+    a: >-
+      Taxi or ride-hailing apps like Grab are easiest, taking roughly 30-45
+      minutes depending on traffic. The venue is inside the Muang Thong Thani
+      complex in Nonthaburi.
   - q: Is this Avenged Sevenfold's first time back in Thailand in a while?
-    a: Yes — this marks their first Thai return in eleven years, which is part of why both nights sold out.
+    a: >-
+      Yes — this marks their first Thai return in eleven years, which is part of
+      why both nights sold out.
   - q: What should I bring to the show?
-    a: A valid ID, some cash for food and merch stalls, and earplugs if you're sensitive to loud volume — metal shows at Thunder Dome run loud.
+    a: >-
+      A valid ID, some cash for food and merch stalls, and earplugs if you're
+      sensitive to loud volume — metal shows at Thunder Dome run loud.
 aiGenerated: true
 draft: false
 ---

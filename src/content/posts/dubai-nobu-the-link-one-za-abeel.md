@@ -5,7 +5,6 @@ country: United Arab Emirates
 region: Dubai
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - dubai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What should I wear and how do I pay?
     a: Smart-casual to elevated dress is expected. Card payment is standard; always confirm current dress code, hours, and menu details directly with the restaurant before visiting.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/33683704_8gxzjOFdj2I81yu0UWh_0EgiMGMtYw2uWuLRAI_1mOM.jpg
+  credit: 'Photo: Foursquare user content (Nobu)'
+  license: foursquare
+  source: https://foursquare.com/v/4b76fa66f964a520b7702ee3
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## What makes this Nobu different

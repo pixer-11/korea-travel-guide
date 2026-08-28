@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I plan to stay?
     a: An hour or two is typical for a cocktail bar visit, and Hollywood Road has enough nearby bars to continue the night if you want to make it a longer crawl.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/9424296_t_sAOqAPDiYpKSv-VXvKU8x8tO9gk3X4QCGWRTjDlPk.jpg
+  credit: 'Photo: Foursquare user content (Montana)'
+  license: foursquare
+  source: https://foursquare.com/v/686deca56d20fb1678d78af5
+  focus:
+    x: 40
+    'y': 45
 ---
 
 ## Why Montana matters right now

@@ -5,7 +5,6 @@ country: China
 region: Beijing
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - beijing
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else can I see nearby?
     a: Combine it with a visit to White Stupa Temple itself, plus a wander through the surrounding hutong lanes, which host several other independent design shops and cafes.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/472350561_hlP1vJH1saOaKEZFidQAST_AkV4Vf_iQQIiZQ6L7IKE.jpg
+  credit: 'Photo: Foursquare user content (% Arabica)'
+  license: foursquare
+  source: https://foursquare.com/v/5cb598ed286fda002c1f1570
+  focus:
+    x: 55
+    'y': 45
 ---
 
 You smell the neighborhood before you see the cafe: coal-warmed brick, dust off the hutong lanes, the faint incense drift from White Stupa Temple's courtyard a few minutes' walk away. Then you turn a corner and the gray brick gives way to a clean white "%" logo, glass, and pale wood — % Arabica's signature look, dropped almost jarringly into one of Beijing's oldest surviving neighborhoods.

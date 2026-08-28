@@ -5,7 +5,6 @@ country: United States
 region: Los Angeles
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - los angeles
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is it accessible by public transit?
     a: There's no subway stop within easy walking distance, so rideshare, bus, or driving are the more practical options.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/463594059_TvN37_rzM-72eIAi_NGRbay3rPwJi31AVFHUw4gMgpg.jpg
+  credit: 'Photo: Foursquare user content (Mish Delicatessen)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1f25b33e45a6472352828b
+  focus:
+    x: 45
+    'y': 65
 ---
 
 ## Why Mish Delicatessen Is the Talk of Melrose

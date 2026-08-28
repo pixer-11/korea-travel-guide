@@ -5,7 +5,6 @@ country: France
 region: Marseille
 category: restaurant
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - marseille
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: The Quai des Belges fish market, the Panier district, and Fort Saint-Jean are all within a short walk of the restaurant.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1358503917_i22wmtoB5BP3SZpghHN5h-VblHumjIEsQbKt75IzWLA.jpg
+  credit: 'Photo: Foursquare user content (Au Bout du Quai)'
+  license: foursquare
+  source: https://foursquare.com/v/4bf90ba14a67c928d14626cf
+  focus:
+    x: 50
+    'y': 50
 ---
 
 You smell the Vieux-Port before you see the restaurant's terrace: salt air, diesel from the boat engines, a faint char from a neighbouring grill. Au Bout Du Quai sits right on this working harbour, where fishing boats still tie up alongside the yachts and tourist ferries. It's a fitting address for a place built around what comes off those boats each morning.

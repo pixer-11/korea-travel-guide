@@ -13100,5 +13100,375 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park with fountain, water feature, plaza matches Sha Tin Park",
   "at": "2026-08-27T18:23:20.484Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/City_Lights_of_Asia_and_Middle_East_2016.png/3840px-City_Lights_of_Asia_and_Middle_East_2016.png": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Satellite image of Earth, not the event or venue",
+  "at": "2026-08-28T03:39:41.791Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/13/Middle_east.jpg": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map, not a photo of venue/event",
+  "at": "2026-08-28T03:39:43.739Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Middle_East_Satellite_View.jpg/3840px-Middle_East_Satellite_View.jpg": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Satellite map image, not event or venue photo",
+  "at": "2026-08-28T03:39:45.839Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Middle_East_Airlines_A321-200_%28F-ORMF%29_landing_at_London_Heathrow_Airport.jpg": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airplane unrelated to comic con venue or event",
+  "at": "2026-08-28T03:39:47.788Z"
+ },
+ "bangkok-dusit-central-park-rooftop-bar\u0001https://fastly.4sqi.net/img/general/original/28027129_Hkvs6CYfhy2ofNgaoHriE6WhEp9fk9AUTQdlJ8qVvFw.jpg": {
+  "slug": "bangkok-dusit-central-park-rooftop-bar",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Grand Palace Thai temple, not a rooftop bar",
+  "at": "2026-08-28T03:40:18.707Z"
+ },
+ "bangkok-sato-san\u0001https://fastly.4sqi.net/img/general/original/77790445_DXqC5Ice_89q5ljwI27up-aVpL09m7Uoub2q5MnDnIc.jpg": {
+  "slug": "bangkok-sato-san",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"Khao San Thai Massage\", post is \"Sato San\"",
+  "at": "2026-08-28T03:40:32.313Z"
+ },
+ "bangkok-sato-san\u0001https://fastly.4sqi.net/img/general/original/57316855_hSh_qtpMCGNLEHCHaZ7BRm7Zd2tBDjBuY5_qVpy3M74.jpg": {
+  "slug": "bangkok-sato-san",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Shows massage/spa service, not restaurant venue",
+  "at": "2026-08-28T03:40:36.199Z"
+ },
+ "bangkok-sato-san\u0001https://fastly.4sqi.net/img/general/original/16459303_roIMNTxGEt4kMVMjX_L8Yt8nV0hYtvmhWMxZQl44-cw.jpg": {
+  "slug": "bangkok-sato-san",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Appears to be massage parlor, not restaurant",
+  "at": "2026-08-28T03:40:40.705Z"
+ },
+ "bangkok-sato-san\u0001https://fastly.4sqi.net/img/general/original/511638780_4YBYsSC0gSGi5Puik9R3_2K3gP0kDFMO6qbXbUz4fKA.jpg": {
+  "slug": "bangkok-sato-san",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different venue: Khao San Thai Massage, not Sato San",
+  "at": "2026-08-28T03:40:42.976Z"
+ },
+ "barcelona-mineral\u0001https://live.staticflickr.com/5293/29864144825_c9a154547e_b.jpg": {
+  "slug": "barcelona-mineral",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Studio shot of a mineral rock, not a restaurant",
+  "at": "2026-08-28T03:40:52.245Z"
+ },
+ "barcelona-mineral\u0001https://live.staticflickr.com/5143/29236933884_c638ce0c81_b.jpg": {
+  "slug": "barcelona-mineral",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of a raw mineral rock, not restaurant",
+  "at": "2026-08-28T03:40:54.159Z"
+ },
+ "barcelona-mineral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/S%C3%A9randite%2C_natrolite%2C_analcime%2C_aegirine_300-4-2112.JPG/1920px-S%C3%A9randite%2C_natrolite%2C_analcime%2C_aegirine_300-4-2112.JPG": {
+  "slug": "barcelona-mineral",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Mineral specimen photo, not a restaurant venue",
+  "at": "2026-08-28T03:40:56.813Z"
+ },
+ "beijing-arabica-baitasi-store\u0001https://fastly.4sqi.net/img/general/original/472350561_hlP1vJH1saOaKEZFidQAST_AkV4Vf_iQQIiZQ6L7IKE.jpg": {
+  "slug": "beijing-arabica-baitasi-store",
+  "verdict": "MATCH",
+  "reason": "patrol replace: % Arabica storefront with espresso machine visible",
+  "at": "2026-08-28T03:41:06.585Z"
+ },
+ "dubai-nobu-the-link-one-za-abeel\u0001https://fastly.4sqi.net/img/general/original/33683704_8gxzjOFdj2I81yu0UWh_0EgiMGMtYw2uWuLRAI_1mOM.jpg": {
+  "slug": "dubai-nobu-the-link-one-za-abeel",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale dining room with modern architectural design",
+  "at": "2026-08-28T03:42:43.640Z"
+ },
+ "guangzhou-tianzi-wharf\u0001https://fastly.4sqi.net/img/general/original/40002820_1SGwdG3akYTx5u1ajuM1SUNlf2Vy0fn00FQjGMSDEsM.jpg": {
+  "slug": "guangzhou-tianzi-wharf",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a bird on railing, not the wharf itself",
+  "at": "2026-08-28T03:43:02.038Z"
+ },
+ "guangzhou-tianzi-wharf\u0001https://fastly.4sqi.net/img/general/original/40002820_BxBsSir7f1TIEs9gb-LyLhFbbTpljIA4tkMKw1vjny8.jpg": {
+  "slug": "guangzhou-tianzi-wharf",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"纺织码头 Textile Wharf\", post is \"Tianzi Wharf\"",
+  "at": "2026-08-28T03:43:05.545Z"
+ },
+ "hong-kong-fello\u0001https://fastly.4sqi.net/img/general/original/84453337_58k6SRcpA-8K9QPdLgMMQ5101QQbn39_d3nUMYsaJfs.jpg": {
+  "slug": "hong-kong-fello",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of champagne bottle, not venue interior/exterior",
+  "at": "2026-08-28T03:43:56.761Z"
+ },
+ "hong-kong-fello\u0001https://fastly.4sqi.net/img/general/original/84453337_2kr1qmZ8wrK9P-v4_sbI6u5adAR7oRPBZKcDrQfAfTA.jpg": {
+  "slug": "hong-kong-fello",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of champagne bottle, not the venue itself",
+  "at": "2026-08-28T03:43:58.829Z"
+ },
+ "hong-kong-montana\u0001https://fastly.4sqi.net/img/general/original/42398438_BouWIDL3xgfWBMDL_NfrOi8UlBiUCoWZeLvb3jHLfn0.jpg": {
+  "slug": "hong-kong-montana",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a coaster logo, not the venue",
+  "at": "2026-08-28T03:44:43.699Z"
+ },
+ "hong-kong-montana\u0001https://fastly.4sqi.net/img/general/original/9424296_t_sAOqAPDiYpKSv-VXvKU8x8tO9gk3X4QCGWRTjDlPk.jpg": {
+  "slug": "hong-kong-montana",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Restaurant table setting with menus and ambiance",
+  "at": "2026-08-28T03:44:47.034Z"
+ },
+ "istanbul-casa-lavanda\u0001https://fastly.4sqi.net/img/general/original/67995563_il9Xdi_gvz3ZxSPHX5T06OuVnhMFQ3NV00R9-Aj12ck.jpg": {
+  "slug": "istanbul-casa-lavanda",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Restaurant table setting, not the venue place itself",
+  "at": "2026-08-28T03:45:29.506Z"
+ },
+ "jakarta-skye-bar-restaurant\u0001https://fastly.4sqi.net/img/general/original/541552950_dlLYfgTSRnR5Qh1dkCJ-nothpVDU4oBB_zV9rnMvDR4.jpg": {
+  "slug": "jakarta-skye-bar-restaurant",
+  "verdict": "MATCH",
+  "reason": "patrol replace: High-rise rooftop bar with Jakarta skyline view",
+  "at": "2026-08-28T03:46:23.339Z"
+ },
+ "kuala-lumpur-niji-sushi-izakaya\u0001https://fastly.4sqi.net/img/general/original/7794423_39txjrEHFSgFk296V4unhGqkxl-4YhBmw2P22LK8jHg.jpg": {
+  "slug": "kuala-lumpur-niji-sushi-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Sign/name plaque, wrong restaurant name, not representative venue photo",
+  "at": "2026-08-28T03:47:14.627Z"
+ },
+ "kuala-lumpur-niji-sushi-izakaya\u0001https://fastly.4sqi.net/img/general/original/9036291_x-jTLr47PaK2z1uebkNG2OEvdIJnrUT4FCRpBJ_MlH4.jpg": {
+  "slug": "kuala-lumpur-niji-sushi-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Collage of isolated dish shots, not the venue itself",
+  "at": "2026-08-28T03:47:16.571Z"
+ },
+ "kuala-lumpur-niji-sushi-izakaya\u0001https://fastly.4sqi.net/img/general/original/9036291_LZQQwjpkbNfPddQrZ7ghcZNUjVS0FSfsdt2GXZ7Yih4.jpg": {
+  "slug": "kuala-lumpur-niji-sushi-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated studio-style food shots, not venue photo",
+  "at": "2026-08-28T03:47:18.755Z"
+ },
+ "kuala-lumpur-niji-sushi-izakaya\u0001https://fastly.4sqi.net/img/general/original/2416267_LTEDUS1qtY_QRRb8GUKcOBbeeeew4h6LilLcNYMp4Os.jpg": {
+  "slug": "kuala-lumpur-niji-sushi-izakaya",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern Japanese restaurant private dining room interior",
+  "at": "2026-08-28T03:47:22.745Z"
+ },
+ "los-angeles-mish-delicatessen\u0001https://fastly.4sqi.net/img/general/original/463594059_TvN37_rzM-72eIAi_NGRbay3rPwJi31AVFHUw4gMgpg.jpg": {
+  "slug": "los-angeles-mish-delicatessen",
+  "verdict": "WEAK",
+  "reason": "patrol replace: Cocktails shown, but no clear deli food/venue confirmation",
+  "at": "2026-08-28T03:47:43.537Z"
+ },
+ "los-angeles-san-damian\u0001https://fastly.4sqi.net/img/general/original/56201116_Zwy1uqQXplBm3JaPEjLxtjEzIiH54HACaORmkBFMd_I.jpg": {
+  "slug": "los-angeles-san-damian",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up food shots, not representative venue place photo",
+  "at": "2026-08-28T03:47:49.353Z"
+ },
+ "los-angeles-san-damian\u0001https://fastly.4sqi.net/img/general/original/56201116_GbnXE-4aEHSRqkcnEvA71tjdMwpM9t3DIc65fxzfZ1w.jpg": {
+  "slug": "los-angeles-san-damian",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated dish shot, not showing restaurant venue setting",
+  "at": "2026-08-28T03:47:51.931Z"
+ },
+ "los-angeles-san-damian\u0001https://fastly.4sqi.net/img/general/original/56201116_okrs39876kto4kc6-BdZO5JURamdtzLSO0acYfQGKnc.jpg": {
+  "slug": "los-angeles-san-damian",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated dish shot, not showing venue setting",
+  "at": "2026-08-28T03:47:54.037Z"
+ },
+ "los-angeles-san-damian\u0001https://fastly.4sqi.net/img/general/original/56201116_zeWTFiQqvfKeSkaTqOgfsruWQlU_s6NPUUme31gS2Gc.jpg": {
+  "slug": "los-angeles-san-damian",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a receipt, not the venue itself",
+  "at": "2026-08-28T03:47:56.278Z"
+ },
+ "los-angeles-san-damian\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Street_in_San_Damian_Texoloc%2C_Tlaxcala.jpg": {
+  "slug": "los-angeles-san-damian",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Latin American street scene, not LA trendy venue",
+  "at": "2026-08-28T03:47:58.367Z"
+ },
+ "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": {
+  "slug": "lyon-ayla",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern courtyard venue with trendy aesthetic, Lyon",
+  "at": "2026-08-28T03:48:08.859Z"
+ },
+ "madrid-el-campero\u0001https://fastly.4sqi.net/img/general/original/31673230_GB2WuP7LnPIYfuAl4cGGAcnk6MaREX_N3Hh6PwkCyx8.jpg": {
+  "slug": "madrid-el-campero",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Fine dining dish, elegant plating, Madrid restaurant ambianc",
+  "at": "2026-08-28T03:48:19.283Z"
+ },
+ "manila-seva-dining\u0001https://fastly.4sqi.net/img/general/original/5035285_5olGnajOsQqAduevAMzuQyWFBKJaefH5HIfvV7aYBUo.jpg": {
+  "slug": "manila-seva-dining",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Training seminar room, not a restaurant venue",
+  "at": "2026-08-28T03:48:29.701Z"
+ },
+ "manila-seva-dining\u0001https://fastly.4sqi.net/img/general/original/5035285_T9xtgG4Mnpp1P52LtAK24m4K9nPzT0UF6QG2As1ufC8.jpg": {
+  "slug": "manila-seva-dining",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Conference room presentation, unrelated to a restaurant venue",
+  "at": "2026-08-28T03:48:31.701Z"
+ },
+ "manila-seva-dining\u0001https://fastly.4sqi.net/img/general/original/5035285_4MlgH7ItlOczv495QRDD0ImBqlYZt3_UzkySokDhnlM.jpg": {
+  "slug": "manila-seva-dining",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Classroom presentation, not a restaurant",
+  "at": "2026-08-28T03:48:33.640Z"
+ },
+ "manila-seva-dining\u0001https://fastly.4sqi.net/img/general/original/13084943_h3DzCOq5cWSE5VJ9Vijm2iI7mOnb1i-jNxALT7fclso.jpg": {
+  "slug": "manila-seva-dining",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Conference room seminar, not a restaurant/dining venue",
+  "at": "2026-08-28T03:48:35.638Z"
+ },
+ "marseille-au-bout-du-quai\u0001https://fastly.4sqi.net/img/general/original/1358503917_i22wmtoB5BP3SZpghHN5h-VblHumjIEsQbKt75IzWLA.jpg": {
+  "slug": "marseille-au-bout-du-quai",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale restaurant with harbor views of Marseille",
+  "at": "2026-08-28T03:48:56.923Z"
+ },
+ "phnom-penh-above-eleven\u0001https://upload.wikimedia.org/wikipedia/commons/f/f0/Eleven_Canadian_waterfalls-_Town_above_a_waterfall_ROM2006_7834_1.jpg": {
+  "slug": "phnom-penh-above-eleven",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Painting/illustration, not a photo of the venue",
+  "at": "2026-08-28T03:51:44.963Z"
+ },
+ "phnom-penh-sora-sky-bar\u0001https://fastly.4sqi.net/img/general/original/53396075_ku9FgJPaS17IK_AflrRfZfDEB7-DsHPbEBnJ3DY0neo.jpg": {
+  "slug": "phnom-penh-sora-sky-bar",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Rooftop bar sunset view, urban skyline, trendy venue",
+  "at": "2026-08-28T03:51:50.858Z"
+ },
+ "phuket-phuket-vegetarian-festival\u0001https://upload.wikimedia.org/wikipedia/commons/4/45/Phuket_Vegetarian_Festival_02.jpg": {
+  "slug": "phuket-phuket-vegetarian-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: No vegetarian festival elements, unrelated crowd scene",
+  "at": "2026-08-28T03:52:03.422Z"
+ },
+ "samarkand-emirhan\u0001https://fastly.4sqi.net/img/general/original/536616927_elGr_mXwpysa9FljhAqxqQdmrFUaGgBjLsJ9UhIBLW0.jpg": {
+  "slug": "samarkand-emirhan",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern restaurant interior with elegant dining setup",
+  "at": "2026-08-28T03:52:33.968Z"
+ },
+ "seoul-bar-cham\u0001https://fastly.4sqi.net/img/general/original/18132497_Zzxu5_4iBh3mUjkFQXYq7kwhDoUWY_DG6vbYqZKnxFA.jpg": {
+  "slug": "seoul-bar-cham",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Traditional Korean bar storefront, Seoul street setting",
+  "at": "2026-08-28T03:53:08.408Z"
+ },
+ "seoul-zest\u0001https://fastly.4sqi.net/img/general/original/1231643_ddEgSxUkieniEp6JKc6tFKNPXg4LoIPboAyVPmv3zQM.jpg": {
+  "slug": "seoul-zest",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Zest restaurant signage, modern Seoul interior design",
+  "at": "2026-08-28T03:53:22.880Z"
+ },
+ "shanghai-hanro\u0001https://fastly.4sqi.net/img/general/original/1047626_OKEaGmThWbhb3lsRe5aoLY97l0bjyo1eohH7u5UnPKc.jpg": {
+  "slug": "shanghai-hanro",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait of people, not venue's place or dish",
+  "at": "2026-08-28T03:53:53.583Z"
+ },
+ "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/12977487_UAsxwbgnqDAfDXxBS34GQz53ruYJTAkTUUwmZOUYNKw.jpg": {
+  "slug": "tainan-yu-dao",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street/parking lot view, not restaurant itself",
+  "at": "2026-08-28T03:54:32.647Z"
+ },
+ "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/12977487_ku64P7WffbRLUdFi2bpDBeLjoWH7Ms74K3V5Pp_ln0A.jpg": {
+  "slug": "tainan-yu-dao",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Banner/sign for different hotel, not restaurant",
+  "at": "2026-08-28T03:54:34.670Z"
+ },
+ "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/12977487_wACeClm7ZMRXMhPfbe-VxoSaqmf0A_BUfR8J0J-MJYQ.jpg": {
+  "slug": "tainan-yu-dao",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Hotel building, not restaurant; wrong venue type",
+  "at": "2026-08-28T03:54:38.465Z"
+ },
+ "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/12977487_6I_2hSzL_dgHoEvpH-WFEYDDC8s1eq730U4TwS_n2Yo.jpg": {
+  "slug": "tainan-yu-dao",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of signs/wall, not the restaurant venue",
+  "at": "2026-08-28T03:54:40.876Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/March_Defenders_of_Ukraine_on_Independence_Day_in_Kyiv%2C_2021_106.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random crowd scene, unrelated to Uzbekistan Independence Day event",
+  "at": "2026-08-28T03:55:12.796Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_221.jpg/3840px-March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_221.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ukrainian flag, unrelated event and location",
+  "at": "2026-08-28T03:55:16.343Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_212.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait of a soldier, unrelated to Uzbekistan event/venue",
+  "at": "2026-08-28T03:55:19.026Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/March_Defenders_of_Ukraine_on_Independence_Day_in_Kyiv%2C_2021_119.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait of unrelated armed man, not the venue/event",
+  "at": "2026-08-28T03:55:21.556Z"
+ },
+ "tashkent-soy-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/HK_Mong_Kok_night_36_Soy_Street_Shanghai_Restaurant_Oct-2012.JPG": {
+  "slug": "tashkent-soy-restaurant",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Chinese Shanghai Restaurant, not Soy Restaurant Tashkent",
+  "at": "2026-08-28T03:55:29.509Z"
+ },
+ "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7395498_sZcLrYQpdapbczgza59mNaryJCvP4nYlns1qDm2lREM.jpg": {
+  "slug": "tokyo-smith-wollensky-ginza",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated studio-style food shot, no venue context shown",
+  "at": "2026-08-28T03:55:39.974Z"
+ },
+ "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7395498_ORXNm3aG93QupN7B6lJ4uvBtHbGRbLTENHtZ2qnS_Nc.jpg": {
+  "slug": "tokyo-smith-wollensky-ginza",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Restaurant place setting with Smith & Wollensky branding vis",
+  "at": "2026-08-28T03:55:43.748Z"
+ },
+ "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Richard_Marx_in_2024.png": {
+  "slug": "dubai-richard-marx",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 516px wide — unusable as a banner",
+  "reasonKo": "사진이 516px로 너무 작음",
+  "at": "2026-08-28T03:55:57.539Z"
+ },
+ "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": {
+  "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 500px wide — unusable as a banner",
+  "reasonKo": "사진이 500px로 너무 작음",
+  "at": "2026-08-28T03:55:57.542Z"
+ },
+ "paris-celine-dion-paris-residency\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/Celine_Dion_by_Linda_Bisset.jpg": {
+  "slug": "paris-celine-dion-paris-residency",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 616px wide — unusable as a banner",
+  "reasonKo": "사진이 616px로 너무 작음",
+  "at": "2026-08-28T03:55:57.543Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_%2832509055635%29.jpg": {
+  "slug": "singapore-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 474px wide — unusable as a banner",
+  "reasonKo": "사진이 474px로 너무 작음",
+  "at": "2026-08-28T03:55:57.543Z"
  }
 }

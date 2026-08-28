@@ -5,7 +5,6 @@ country: South Korea
 region: Seoul
 category: hidden-gem
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - seoul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Seochon is packed with hanok guesthouses, small galleries, and long-standing noodle shops, and Gyeongbokgung Palace itself is an easy walk away for combining into one visit.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/18132497_Zzxu5_4iBh3mUjkFQXYq7kwhDoUWY_DG6vbYqZKnxFA.jpg
+  credit: 'Photo: Foursquare user content (CHAM (참))'
+  license: foursquare
+  source: https://foursquare.com/v/5b5b0a31f2554e002cd8a281
+  focus:
+    x: 50
+    'y': 45
 ---
 
 You find Bar Cham by half-losing yourself first. Seochon's streets don't run in a grid — they bend around old roof lines and dead-end into someone's gate — and the bar itself gives little away from outside. No neon, no sandwich board, just a hanok's tiled roof and a wooden door that could belong to a private house.

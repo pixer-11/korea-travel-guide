@@ -5,7 +5,6 @@ country: France
 region: Lyon
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - lyon
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Can I combine it with visiting Les Halles market?
     a: Yes — pairing a walk through Les Halles de Lyon Paul Bocuse with a meal at Ayla is a natural way to spend a few hours, since the restaurant sits right opposite the market entrance.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg
+  credit: 'Photo: Foursquare user content (Ayla)'
+  license: foursquare
+  source: https://foursquare.com/v/66b205a790e32553dc0833e7
+  focus:
+    x: 15
+    'y': 25
 ---
 
 Lyon calls itself the gastronomic capital of France, and that reputation was built almost entirely on pork, offal and butter. Ayla sits in the middle of that tradition and quietly argues the opposite case — that vegetables, handled with the same seriousness bouchons give their andouillette, can be just as thrilling.

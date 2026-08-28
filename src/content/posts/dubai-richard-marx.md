@@ -1,6 +1,8 @@
 ---
 title: 'Richard Marx: Dates, Tickets & Venue (Dubai)'
-description: Richard Marx in Dubai, United Arab Emirates — October 3, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Richard Marx in Dubai, United Arab Emirates — October 3, 2026. What it is,
+  when and where, and how to plan around it.
 country: United Arab Emirates
 region: Dubai
 category: event
@@ -10,37 +12,43 @@ eventEndDate: '2026-10-03'
 eventRecurring: false
 eventVenue: Coca-Cola Arena
 eventOffers:
-  url: https://www.coca-cola-arena.com
+  url: 'https://www.coca-cola-arena.com'
 eventPerformer:
   name: Richard Marx
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Richard_Marx_in_2024.png
-  credit: 'Photo: 中国新闻社（记者 陈子彦） / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Richard_Marx_in_2024.png
-  focus:
-    x: 53
-    'y': 35
-    top: 5
-    bottom: 65
 gallery: []
 tags:
   - dubai
   - event
-quickAnswer: 'Richard Marx plays Coca-Cola Arena in Dubai on October 3, 2026 — his first-ever Middle East performance. It''s a single-night show in the City Walk district, so tickets and exact showtimes should be confirmed on Coca-Cola Arena''s official site or authorized ticketing partners. Book early: solo dates by veteran singer-songwriters at this arena tend to draw a broad, loyal crowd.'
+quickAnswer: >-
+  Richard Marx plays Coca-Cola Arena in Dubai on October 3, 2026 — his
+  first-ever Middle East performance. It's a single-night show in the City Walk
+  district, so tickets and exact showtimes should be confirmed on Coca-Cola
+  Arena's official site or authorized ticketing partners. Book early: solo dates
+  by veteran singer-songwriters at this arena tend to draw a broad, loyal crowd.
 faq:
   - q: When is Richard Marx performing in Dubai?
-    a: October 3, 2026, at Coca-Cola Arena — his first-ever Middle East performance.
+    a: >-
+      October 3, 2026, at Coca-Cola Arena — his first-ever Middle East
+      performance.
   - q: Where is Coca-Cola Arena located?
-    a: In City Walk, Dubai, near Al Wasl Road, a short drive from Downtown Dubai and the Burj Khalifa.
+    a: >-
+      In City Walk, Dubai, near Al Wasl Road, a short drive from Downtown Dubai
+      and the Burj Khalifa.
   - q: How do I get tickets?
-    a: Confirm timing and tickets on the official Coca-Cola Arena site or its authorized ticketing partners; avoid unofficial resale sites.
+    a: >-
+      Confirm timing and tickets on the official Coca-Cola Arena site or its
+      authorized ticketing partners; avoid unofficial resale sites.
   - q: Is the Dubai Metro the best way to reach the venue?
-    a: No — the Metro doesn't run directly to City Walk, so plan on a taxi, ride-hailing app, or driving for the final stretch.
+    a: >-
+      No — the Metro doesn't run directly to City Walk, so plan on a taxi,
+      ride-hailing app, or driving for the final stretch.
   - q: How long should I expect the show to run?
-    a: Singer-songwriter shows of this style commonly run 90 minutes to two hours; confirm specific set details closer to your visit via the official event page.
+    a: >-
+      Singer-songwriter shows of this style commonly run 90 minutes to two
+      hours; confirm specific set details closer to your visit via the official
+      event page.
 aiGenerated: true
 draft: false
 ---

@@ -5,7 +5,6 @@ country: Indonesia
 region: Jakarta
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - jakarta
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is there a dress code or minimum spend?
     a: Smart-casual is a safe bet, and prices run on the higher side for Jakarta given the cocktail-and-skyline concept. Hours, dress policy, and any minimum spend can change, so check SKYE's official channels before you go.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/541552950_dlLYfgTSRnR5Qh1dkCJ-nothpVDU4oBB_zV9rnMvDR4.jpg
+  credit: 'Photo: Foursquare user content (SKYE Bar & Restaurant)'
+  license: foursquare
+  source: https://foursquare.com/v/6a2896bd976a555380723a71
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Why SKYE Stands Out

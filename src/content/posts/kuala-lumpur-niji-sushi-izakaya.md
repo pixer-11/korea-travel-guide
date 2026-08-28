@@ -5,7 +5,6 @@ country: Malaysia
 region: Kuala Lumpur
 category: restaurant
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - kuala lumpur
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's a good way to spend the rest of the evening nearby?
     a: Changkat Bukit Bintang is lined with bars for a post-dinner drink, and Pavilion KL plus the Bintang Walk shopping strip are a short walk away.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/2416267_LTEDUS1qtY_QRRb8GUKcOBbeeeew4h6LilLcNYMp4Os.jpg
+  credit: 'Photo: Foursquare user content (Sushi ORI)'
+  license: foursquare
+  source: https://foursquare.com/v/5bf4d20e250cab002ca52e70
+  focus:
+    x: 45
+    'y': 60
 ---
 
 ## Why NIJI stands out

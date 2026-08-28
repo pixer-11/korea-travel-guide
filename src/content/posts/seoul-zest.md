@@ -5,7 +5,6 @@ country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - seoul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Gangnam-gu is home to COEX Mall and the Starfield Library, plus a dense strip of restaurants and other notable bars — easy to combine with a Zest reservation for a full evening out.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1231643_ddEgSxUkieniEp6JKc6tFKNPXg4LoIPboAyVPmv3zQM.jpg
+  credit: 'Photo: Foursquare user content (Zest (제스트))'
+  license: foursquare
+  source: https://foursquare.com/v/50a0cdbce4b0ab1754ba4c8d
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Why Zest matters right now

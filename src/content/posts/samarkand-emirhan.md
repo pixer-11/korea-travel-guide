@@ -5,7 +5,6 @@ country: Uzbekistan
 region: Samarkand
 category: restaurant
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - samarkand
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get there?
     a: Most visitors arrive on foot or by short taxi from the Registan area; confirm the exact address with your hotel or a taxi app beforehand.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/536616927_elGr_mXwpysa9FljhAqxqQdmrFUaGgBjLsJ9UhIBLW0.jpg
+  credit: 'Photo: Foursquare user content (Emirhan)'
+  license: foursquare
+  source: https://foursquare.com/v/64382b48615ea6079b04262e
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Why EMIRHAN Stands Out
