@@ -70,6 +70,13 @@ jobs:
         run: node scripts/threads-daily.mjs ${{ inputs.force == 'true' && '--force' || '' }}
 
       - name: Commit state
+        # always(): the script now exits red when a channel failed to post,
+        # but by then it has already saved what DID succeed (posted-channel
+        # markers, refreshed tokens). Skipping this commit on failure would
+        # forget a successful post and double-post it on the next attempt —
+        # the exact opposite of what the red exit is for. The diff guard
+        # below keeps failure-before-any-state runs a no-op.
+        if: always()
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"

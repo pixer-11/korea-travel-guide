@@ -24,13 +24,13 @@
 //  REST API — CF_API_TOKEN already carries Workers R2 Storage:Edit (verified
 //  weekly by cf-token-check). No site rebuild needed, live immediately.
 // ─────────────────────────────────────────────────────────────
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, writeFile, rename } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { createHash, createCipheriv, createDecipheriv, randomBytes } from 'node:crypto';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const TOKEN_FILE = join(__dirname, '..', '..', 'data', 'social-token.enc');
+export const TOKEN_FILE = join(__dirname, '..', '..', 'data', 'social-token.enc');
 const IG_GRAPH = 'https://graph.instagram.com/v23.0';
 const TH_GRAPH = 'https://graph.threads.net/v1.0';
 
@@ -58,24 +58,55 @@ export function decryptStore(raw, keyBuf = storeKey()) {
 }
 
 /**
- * Live tokens: the enc file when it decrypts, else the bootstrap secrets.
+ * Live tokens: the enc file when it decrypts, else — ONLY when the file does
+ * not exist yet — the bootstrap secrets.
  * Shape: { ig: {token, refreshedAt}, th: {token, refreshedAt} }
+ *
+ * A store that EXISTS but cannot be read is an error, never "first run"
+ * (Codex audit 2026-08-27): treating a mistyped key or truncated file as
+ * initialization let one bad run silently overwrite the live refreshed
+ * tokens with stale bootstrap copies. A deliberate key rotation re-inits by
+ * deleting data/social-token.enc — an explicit act, not a fallthrough.
  */
-export async function loadTokens() {
+export async function loadTokens(file = TOKEN_FILE) {
+  let raw;
   try {
-    const stored = decryptStore(await readFile(TOKEN_FILE, 'utf8'));
-    if (stored?.ig?.token && stored?.th?.token) return stored;
-  } catch { /* first run, or key rotated — fall back to bootstrap */ }
-  const ig = process.env.INSTAGRAM_ACCESS_TOKEN, th = process.env.THREADS_ACCESS_TOKEN;
-  if (!ig || !th) throw new Error('no token store and bootstrap secrets missing');
-  // refreshedAt unknown for console-issued tokens; claim "now" so the first
-  // refresh happens tomorrow (Meta refuses to refresh tokens younger than 24h).
-  const now = new Date().toISOString();
-  return { ig: { token: ig, refreshedAt: now }, th: { token: th, refreshedAt: now } };
+    raw = await readFile(file, 'utf8');
+  } catch (e) {
+    if (e.code !== 'ENOENT') throw e;
+    const ig = process.env.INSTAGRAM_ACCESS_TOKEN, th = process.env.THREADS_ACCESS_TOKEN;
+    if (!ig || !th) throw new Error('no token store and bootstrap secrets missing');
+    // refreshedAt unknown for console-issued tokens; claim "now" so the first
+    // refresh happens tomorrow (Meta refuses to refresh tokens younger than 24h).
+    const now = new Date().toISOString();
+    return { ig: { token: ig, refreshedAt: now }, th: { token: th, refreshedAt: now } };
+  }
+  let stored;
+  try {
+    stored = decryptStore(raw);
+  } catch (e) {
+    throw new Error(`token store exists but cannot be decrypted (${e.message}) — refusing to overwrite with bootstrap. 열쇠(SOCIAL_TOKEN_KEY)를 확인하고, 일부러 바꾼 것이면 data/social-token.enc 를 지워 재초기화하세요.`);
+  }
+  if (!stored?.ig?.token || !stored?.th?.token) {
+    throw new Error('token store decrypts but is missing a token — refusing to overwrite with bootstrap. data/social-token.enc 를 지워 재초기화하세요.');
+  }
+  return stored;
 }
 
-export async function saveTokens(tokens) {
-  await writeFile(TOKEN_FILE, encryptStore(tokens) + '\n', 'utf8');
+/**
+ * Persist only on real change (a fresh IV makes every ciphertext different,
+ * so unconditional writes turned even skip-runs into commits — Codex audit
+ * 2026-08-27), and write atomically so a dying runner cannot leave a
+ * truncated store behind.
+ */
+export async function saveTokens(tokens, file = TOKEN_FILE) {
+  try {
+    const existing = decryptStore(await readFile(file, 'utf8'));
+    if (JSON.stringify(existing) === JSON.stringify(tokens)) return;
+  } catch { /* missing or unreadable — write fresh below */ }
+  const tmp = `${file}.tmp`;
+  await writeFile(tmp, encryptStore(tokens) + '\n', 'utf8');
+  await rename(tmp, file);
 }
 
 /**
@@ -197,7 +228,16 @@ export async function thPublish({ token, text, imageUrls = [] }) {
     container = await graph(TH_GRAPH, '/me/threads', token, { method: 'POST', params });
   }
   // Threads docs recommend waiting for server-side processing before publish.
-  await waitFinished(TH_GRAPH, container.id, token).catch(() => sleep(15000));
+  // A polling hiccup or a slow container gets a grace wait and one blind try —
+  // but a container that REPORTED ERROR is terminal, and publishing it anyway
+  // (which the old blanket .catch did — Codex audit 2026-08-27) just trades a
+  // clear failure for a confusing one at the publish call.
+  try {
+    await waitFinished(TH_GRAPH, container.id, token);
+  } catch (e) {
+    if (/ERROR state/.test(String(e.message))) throw e;
+    await sleep(15000);
+  }
   const pub = await graph(TH_GRAPH, '/me/threads_publish', token, { method: 'POST', params: { creation_id: container.id } });
   const info = await graph(TH_GRAPH, `/${pub.id}`, token, { params: { fields: 'permalink' } }).catch(() => ({}));
   return { id: pub.id, permalink: info.permalink };

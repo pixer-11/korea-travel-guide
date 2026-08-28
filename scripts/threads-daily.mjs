@@ -43,8 +43,15 @@ if (!FORCE && state.lastSentDay === kstDay()) {
   // ALSO carries the auto-posting (2026-08-27), so a later attempt's job is to
   // retry whatever channel has not posted yet — never to make new material.
   if (socialEnabled() && state.material?.day === kstDay()) {
-    await runSocialPublish(state);
+    const { failed } = await runSocialPublish(state);
     writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
+    if (failed.length) {
+      // State is saved (successes are recorded); NOW the job may go red so
+      // job-failure-alert fires — a green job over a failed post was the
+      // 2026-08-27 audit's "worst combination".
+      console.error(`social publish failed: ${failed.join(' · ')}`);
+      process.exit(1);
+    }
   }
   console.log(`already sent today (${state.lastSentDay}) — skipping. Use --force to override.`);
   process.exit(0);
@@ -417,16 +424,19 @@ if (tok && chat) {
     }))));
     slides.forEach((b, i) => form.append(`s${i}`, new Blob([b], { type: 'image/jpeg' }), `s${i}.jpg`));
     const rp = await fetch(`https://api.telegram.org/bot${tok}/sendMediaGroup`, { method: 'POST', body: form });
-    if (!rp.ok) console.error('telegram album failed', rp.status, await rp.text());
-    else console.log(`telegram album sent (${slides.length} slides)`);
+    // A lost album must fail BEFORE lastSentDay is stamped (Codex audit
+    // 2026-08-27): logging it and stamping anyway marked the day done, so no
+    // later attempt ever re-sent the slides the owner needs to post from.
+    if (!rp.ok) { console.error('telegram album failed', rp.status, await rp.text()); process.exit(1); }
+    console.log(`telegram album sent (${slides.length} slides)`);
   } else if (slides.length === 1) {
     const form = new FormData();
     form.append('chat_id', chat);
     form.append('caption', igText);
     form.append('photo', new Blob([slides[0]], { type: 'image/jpeg' }), 'ig.jpg');
     const rp = await fetch(`https://api.telegram.org/bot${tok}/sendPhoto`, { method: 'POST', body: form });
-    if (!rp.ok) console.error('telegram photo failed', rp.status, await rp.text());
-    else console.log('telegram photo sent');
+    if (!rp.ok) { console.error('telegram photo failed', rp.status, await rp.text()); process.exit(1); }
+    console.log('telegram photo sent');
   }
   const r = await fetch(`https://api.telegram.org/bot${tok}/sendMessage`, {
     method: 'POST',
@@ -457,6 +467,14 @@ console.log(`state saved (${state.used.length} used, day ${state.lastSentDay})`)
 
 // -------- auto-post (Threads daily · Instagram Mon/Wed/Fri) --------
 if (socialEnabled()) {
-  await runSocialPublish(state, { force: FORCE });
+  const { failed } = await runSocialPublish(state, { force: FORCE });
   writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
+  if (failed.length) {
+    // After the state write, on purpose: the red exit feeds job-failure-alert
+    // without costing the record of what did succeed (Codex audit 2026-08-27).
+    // The workflow's commit step runs on always(), so the saved state still
+    // reaches main and the next attempt retries only the failed channel.
+    console.error(`social publish failed: ${failed.join(' · ')}`);
+    process.exit(1);
+  }
 }
