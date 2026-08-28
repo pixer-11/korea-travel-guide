@@ -11,6 +11,8 @@ import { pickRepHeroUrl, tileSize, regionCoverUrl } from '../lib/repImage';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
+import { eligibleCountries } from '../lib/when-to-go.mjs';
+import countryFactsData from '../../data/country-facts.json';
 import { localizePlace } from '../i18n/places';
 import { klookCityDest } from '../lib/klookCities';
 import { localizeBlurb } from '../i18n/countryBlurbs';
@@ -73,6 +75,9 @@ const essentialsSlugs = new Set(
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
 const hasEsim = !!(esimFacts as Record<string, unknown>)[country.slug];
+// The when-to-go tool only exists for countries with a full 12-month climate
+// record — same gate the tool's own path builder uses, so this cannot 404.
+const hasWtg = eligibleCountries(countryFactsData).includes(country.name);
 const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)) || regionCoverUrl(r));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
@@ -206,13 +211,22 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
             </div>
           </div>
 
-          {(hasEssentials || hasEsim) && (
+          {(hasEssentials || hasEsim || hasWtg) && (
             <div class="region-group">
               <h2>{t('dest.beforeYouGo')}</h2>
               {hasEssentials && (
                 <a class="essential-card" href={localizePath(`/essentials/${country.slug}`, lang)} style="max-width:560px">
                   <span class="ico"><Emoji name="compass" /></span>
                   <div><h3>{t('dest.essentialsCard').replace('{country}', countryLabel)}</h3><p>{t('dest.essentialsCardDesc')}</p></div>
+                </a>
+              )}
+              {/* First contextual inbound link the when-to-go country pages
+                  have ever had from a hub (2026-08-28 audit: ~0 such links
+                  across all pillar templates). */}
+              {hasWtg && (
+                <a class="essential-card" href={localizePath(`/tools/when-to-go/${country.slug}`, lang)} style="max-width:560px; margin-top:0.75rem">
+                  <span class="ico"><Emoji name="spiral-calendar" /></span>
+                  <div><h3>{t('wtg.bestTimeCard').replace('{country}', countryLabel)}</h3><p>{t('wtg.bestTimeCardDesc')}</p></div>
                 </a>
               )}
               {hasEsim && (

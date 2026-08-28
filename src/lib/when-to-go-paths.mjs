@@ -12,6 +12,16 @@ import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './when-to-go.mjs
 /** [{ countrySlug, month, data }] for every country with a full climate record. */
 export async function whenToGoPages() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
+  // Localized titles per post slug, so the month pages can label an event link
+  // in the reader's language AND know whether the localized post URL exists —
+  // a /ko/ link to an untranslated post would 404 into the weekly link check.
+  const i18n = await getCollection('postI18n');
+  const titlesBySlug = new Map();
+  for (const e of i18n) {
+    const m = titlesBySlug.get(e.data.slug) ?? {};
+    m[e.data.lang] = e.data.title;
+    titlesBySlug.set(e.data.slug, m);
+  }
   const slugOf = new Map(countriesData.countries.map((c) => [c.name, c.slug]));
   const out = [];
   for (const country of eligibleCountries(countryFacts)) {
@@ -19,7 +29,16 @@ export async function whenToGoPages() {
     if (!countrySlug) continue; // not a destination we publish — no page
     for (const month of MONTHS) {
       const data = whenToGo(country, month, { countryFacts, events: eventsData, posts });
-      if (data) out.push({ countrySlug, month, monthSlug: monthSlug(month), data });
+      if (!data) continue;
+      // Lean DTOs: the full post objects would ship the whole frontmatter into
+      // every month page's props five times over.
+      data.eventPosts = (data.eventPosts ?? []).map((p) => ({
+        id: p.id,
+        title: p.data.title,
+        region: p.data.region,
+        titles: titlesBySlug.get(p.id) ?? {},
+      }));
+      out.push({ countrySlug, month, monthSlug: monthSlug(month), data });
     }
   }
   return out;

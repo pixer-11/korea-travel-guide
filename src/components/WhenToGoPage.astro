@@ -160,13 +160,27 @@ const ogPhoto = pickOgPhoto(data.topVenues);
       )}
     </section>
 
-    {data.events.length > 0 && (
+    {(data.events.length > 0 || (data.eventPosts?.length ?? 0) > 0) && (
       <section class="wtg-ev">
         <h2>{fill('wtg.events', { month: thisMonth })}</h2>
         <ul class="wtg-list">
-          {data.events.map((e: any) => (
-            <li><span>{localizeEvent(e.name, lang)}</span>{e.region && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
+          {/* Event POSTS first, as links — the 2026-08 audit's island fix: the
+              site's best-performing page class (event guides) and its most
+              efficient tool class (these month pages) had no contextual links
+              in either direction. Localized URL only when the translation
+              exists; otherwise the English post, never a 404. */}
+          {(data.eventPosts ?? []).map((p: any) => (
+            <li>
+              <a href={lang !== 'en' && p.titles[lang] ? localizePath(`/posts/${p.id}/`, lang) : `/posts/${p.id}/`}>{p.titles[lang] ?? p.title}</a>
+              {p.region && <span class="wtg-date">{localizePlace(p.region, lang)}</span>}
+            </li>
           ))}
+          {/* Seed-list events (data/events.json) that no event post covers yet. */}
+          {data.events
+            .filter((e: any) => !(data.eventPosts ?? []).some((p: any) => (p.title ?? '').toLowerCase().includes(String(e.name ?? '').toLowerCase())))
+            .map((e: any) => (
+              <li><span>{localizeEvent(e.name, lang)}</span>{e.region && <span class="wtg-date">{localizePlace(e.region, lang)}</span>}</li>
+            ))}
         </ul>
       </section>
     )}
@@ -178,6 +192,9 @@ const ogPhoto = pickOgPhoto(data.topVenues);
           <li><a href={toolPath(countrySlug, m)}>{monthName(m)}</a></li>
         ))}
       </ul>
+      {/* Direct exit to the country's guide inventory — the ranking month
+          pages used to force a 2-hop path (month → country tool → guides). */}
+      <p class="wtg-all"><a href={localizePath(`/destinations/${countrySlug}`, lang)}>{t('ev.countryGuides').replace('{country}', countryLabel)} →</a></p>
       <p class="wtg-all"><a href={localizePath('/tools/when-to-go', lang)}>{t('wtg.allCountries')} →</a></p>
     </nav>
 

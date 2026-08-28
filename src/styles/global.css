@@ -1429,6 +1429,8 @@ html[lang^='zh'] .cover-inner h1 {
 .book-cta { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.7rem 1.2rem; margin: 1.5rem 0; padding: 0.9rem 1.2rem; background: color-mix(in srgb, var(--accent) 7%, var(--surface)); border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--line)); border-radius: var(--r-md); }
 /* Trust chip inside the first CTA band — proof-next-to-the-ask. */
 .cta-trust { flex-basis: 100%; margin: 0; font-size: 0.75rem; color: var(--ink-soft); }
+/* The event-post month cross-link into the when-to-go tool (2026-08-28). */
+.cta-month-link { flex-basis: 100%; margin: 0.35rem 0 0; font-size: 0.85rem; }
 /* Place-specific CTA right after the prose (peak motivation). */
 .visit-cta { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.7rem 1.2rem; margin: 2rem 0 1rem; padding: 1rem 1.2rem; background: var(--surface-2); border: 1px solid var(--line); border-radius: var(--r-md); }
 .visit-cta-q { font-weight: 700; font-size: 1.02rem; }

@@ -20,6 +20,8 @@ import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
+import { eligibleCountries, monthSlug as wtgMonthSlug } from '../lib/when-to-go.mjs';
+import countryFactsData from '../../data/country-facts.json';
 import { tileMosaic, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
 import { linkMentions } from '../lib/body-links.mjs';
@@ -101,6 +103,24 @@ const COUNTRY_ISO: Record<string, string> = Object.fromEntries(
   countriesData.countries.map((c: { name: string; iso2: string }) => [c.name, c.iso2.toUpperCase()])
 );
 const countryISO = COUNTRY_ISO[country];
+
+// Event posts link the month tool page for their country+month (2026-08-28
+// audit: events are where Googlebot and readers actually are, the when-to-go
+// cluster is the most efficient page class, and neither linked the other —
+// this is the crawl path INTO the tool cluster and the reader's honest next
+// click when planning around a date). Only for countries whose tool pages
+// exist (full climate record), so this can never mint a 404.
+const wtgMonthHref = (() => {
+  if (d.category !== 'event' || !d.eventStartDate) return null;
+  if (!eligibleCountries(countryFactsData).includes(country)) return null;
+  const m = new Date(d.eventStartDate).getUTCMonth() + 1;
+  return localizePath(`/tools/when-to-go/${countrySlug}/${wtgMonthSlug(m)}/`, lang);
+})();
+const wtgMonthLabel = wtgMonthHref
+  ? t('wtg.monthGuideLink')
+      .replace('{country}', localizePlace(country, lang))
+      .replace('{month}', new Date(d.eventStartDate).toLocaleDateString(localeCodes[lang], { month: 'long' }))
+  : null;
 
 // Peak-intent affiliate links for the top "Book this trip" band (city-specific,
 // correct attribution, work regardless of flight/hotel program approval).
@@ -692,6 +712,9 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           <a class:list={['book-btn', { 'book-btn-primary': !(d.category === 'event' && ticketHref) }]} href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
           <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
         </div>
+        {wtgMonthHref && (
+          <p class="cta-month-link"><a href={wtgMonthHref}>{wtgMonthLabel} →</a></p>
+        )}
         {/* Trust signal beside the FIRST ask (authority bias): the fact box proving
             the data is real sits far below, so restate it where the click happens. */}
         {p && (

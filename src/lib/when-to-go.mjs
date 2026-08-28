@@ -52,7 +52,7 @@ const tiedAtTop = (values, dir) => {
  * Everything one country-month page needs. Pure: same inputs, same output.
  * Returns null when the country has no usable climate record.
  */
-export function whenToGo(country, month, { countryFacts, events = [], posts = [] } = {}) {
+export function whenToGo(country, month, { countryFacts, events = [], posts = [], now = Date.now() } = {}) {
   const facts = (countryFacts?.countries ?? countryFacts ?? {})[country];
   const climate = facts?.climate ?? [];
   if (climate.length !== 12) return null;
@@ -71,6 +71,27 @@ export function whenToGo(country, month, { countryFacts, events = [], posts = []
     .filter((h) => Number(h.date.slice(5, 7)) === month)
     .filter((h) => (seen.has(h.name) ? false : (seen.add(h.name), true)))
     .sort((a, b) => a.date.localeCompare(b.date));
+
+  // Event POSTS for this country+month — the site's best-performing page class
+  // (2026-08 audit: best impressions/page and clicks/page), linked from its
+  // most efficient tool class. Ended one-off events are noindexed by the post
+  // template, so linking them would point crawlers at pages we told them to
+  // ignore — only future one-offs and recurring events qualify. A week of
+  // grace keeps a just-finished event linked while its tense repair lands.
+  const eventPosts = posts
+    .filter((p) => p.data.category === 'event' && !p.data.draft)
+    .filter((p) => (p.data.country ?? 'South Korea') === country)
+    .filter((p) => {
+      const t = p.data.eventStartDate instanceof Date ? p.data.eventStartDate.getTime() : Date.parse(p.data.eventStartDate);
+      if (!Number.isFinite(t)) return false;
+      if (new Date(t).getUTCMonth() + 1 !== month) return false;
+      return p.data.eventRecurring || t >= now - 7 * 86400e3;
+    })
+    .sort((a, b) => {
+      const ta = a.data.eventStartDate instanceof Date ? a.data.eventStartDate.getTime() : Date.parse(a.data.eventStartDate);
+      const tb = b.data.eventStartDate instanceof Date ? b.data.eventStartDate.getTime() : Date.parse(b.data.eventStartDate);
+      return ta - tb;
+    });
 
   const monthEvents = (Array.isArray(events) ? events : events?.events ?? [])
     .filter((e) => e.country === country && (e.months ?? []).includes(month));
@@ -104,6 +125,7 @@ export function whenToGo(country, month, { countryFacts, events = [], posts = []
     climateYears: facts.climateYears ?? null,
     holidays,
     events: monthEvents,
+    eventPosts,
     topVenues: [...countryPosts].sort((a, b) => score(b) - score(a)).slice(0, 8),
     quietVenues: [...withCrowd].sort((a, b) => score(b) - score(a)).slice(0, 6),
     venueCount: countryPosts.length,
