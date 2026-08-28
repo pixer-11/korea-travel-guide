@@ -4,6 +4,7 @@ import { createHash } from 'node:crypto';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Flag from './Flag.astro';
+import { hotellookUrl } from '../lib/hotellook.mjs';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import { pickRepHeroUrl, tileSize, regionCoverUrl } from '../lib/repImage';
@@ -81,7 +82,7 @@ const countryEventCount = posts.filter((p) => p.data.category === 'event').lengt
 const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);
 const leadCity = (country.regions ?? [])[0] ?? country.name;
 const klookCountry = `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang)))}`;
-const hotelCountry = `https://search.hotellook.com/?marker=754088.dest_hub&language=${lang}&destination=${encodeURIComponent(country.name)}`;
+const hotelCountry = hotellookUrl({ submarker: 'dest_hub', lang, destination: country.name });
 
 const jsonLd = {
   '@context': 'https://schema.org',

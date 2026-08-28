@@ -9,6 +9,7 @@ import { getLangFromUrl, useTranslations, klookLocale, localizePath } from '../i
 import { localizePlace } from '../i18n/places';
 import countriesData from '../../data/countries.json';
 import esimFacts from '../../data/esim-facts.json';
+import { hotellookUrl } from '../lib/hotellook.mjs';
 import { klookCityDest } from '../lib/klookCities';
 // `hotels`: a post page used to stack THREE affiliate sections after the prose
 // (Tours widget, Where to stay, Plan your trip) — about 1,250px of commerce on
@@ -39,7 +40,7 @@ const services: { icon: string; label: string; desc: string; href: string; inter
   // 754088.hotels_widget); the card keeps that block's placement id so the
   // affiliate report still tells hotel clicks from the rest.
   ...(hotels && city ? [{ icon: 'hotel', label: t('widget.whereToStay').replace('{city}', cityLabel), desc: t('widget.hotelsDesc').replace('{city}', cityLabel),
-    href: `https://search.hotellook.com/?marker=754088.hotels_widget&language=${lang}&destination=${encodeURIComponent(city)}`, placement: 'hotels-widget' }] : []),
+    href: hotellookUrl({ submarker: 'hotels_widget', lang, destination: city }), placement: 'hotels-widget' }] : []),
   { icon: 'automobile', label: t('widget.carLabel'), desc: t('widget.carDesc'), href: 'https://localrent.tpx.lv/qivp9ZCc?sub_id=plantrip_car' },
   // Kiwitaxi shortlink code is yRbl5tIp with a CAPITAL I — it was transcribed as
   // lowercase l on 07-21 (the two glyphs are identical in the dashboard font) and

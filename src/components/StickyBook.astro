@@ -6,8 +6,9 @@
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { klookCityDest } from '../lib/klookCities';
-interface Props { city: string; place?: string }
-const { city, place } = Astro.props;
+import { hotellookUrl } from '../lib/hotellook.mjs';
+interface Props { city: string; place?: string; eventStart?: string | Date }
+const { city, place, eventStart } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 // A specific PLACE has no destination page, so it stays a search; a mapped
@@ -16,7 +17,7 @@ const klookTo = place
   ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(place)}`
   : klookCityDest(city, klookLocale(lang));
 const klook = `/go/klook?to=${encodeURIComponent(klookTo)}`;
-const hotel = `https://search.hotellook.com/?marker=754088.sticky_bar&language=${lang}&destination=${encodeURIComponent(city)}`;
+const hotel = hotellookUrl({ submarker: 'sticky_bar', lang, destination: city, eventStart });
 ---
 <div class="sticky-book" data-affiliate-placement="sticky-bar" data-sticky-book hidden aria-hidden="true">
   <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>

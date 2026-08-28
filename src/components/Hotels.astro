@@ -8,6 +8,7 @@
 // doc rot. UPGRADE PLAN: switch to Hotels.com once traffic unlocks it (~3 months).
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
+import { hotellookUrl } from '../lib/hotellook.mjs';
 import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
@@ -15,7 +16,7 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
 // Hotellook destination search (same surface as the other four hotel CTAs);
-const href = `https://search.hotellook.com/?marker=754088.hotels_widget&language=${lang}&destination=${encodeURIComponent(city)}`;
+const href = hotellookUrl({ submarker: 'hotels_widget', lang, destination: city });
 ---
 <section class="tp-hotels" data-affiliate-placement="hotels-widget">
   <div class="rule-head"><h2 class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</h2></div>

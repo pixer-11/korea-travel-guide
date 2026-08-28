@@ -15,6 +15,7 @@ import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
 import { resolveBusyness } from '../lib/busyness.mjs';
+import { hotellookUrl } from '../lib/hotellook.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -109,7 +110,9 @@ const klookTop = `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, kloo
 // language= keeps the reader in their own language after the click — 7,959
 // of these links landed every reader, five languages alike, on English
 // booking.com, which is where the measured 94 clicks / 0 bookings die.
-const hotelTop = `https://search.hotellook.com/?marker=754088.post_top&language=${lang}&destination=${encodeURIComponent(d.region)}`;
+// Dates prefilled (helper): a dateless search lands on an EMPTY form; with
+// dates it lands on priced results. Event posts check in on the event itself.
+const hotelTop = hotellookUrl({ submarker: 'post_top', lang, destination: d.region, eventStart: d.eventStartDate });
 // Place-specific "get tickets" link for the fact box — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
@@ -484,18 +487,18 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 // to keep the young domain clean of thin/outdated pages (URL stays live at 200).
 // RECURRING events stay indexed (see isRecurringEvent above) — they win
 // "when is X 2027" as the next edition approaches.
-const noindexPost = isEventPast(d) && !isRecurringEvent;
-
-// Where the ticket button actually goes. The organizer's site was the best
-// we had on 2026-08-23; since 08-25 the discovery/backfill pair stores the
-// event's OWN ticketing page (eventOffers.url), which is a click closer to
-// the thing the reader wants. Measured across the hub: the two differ on
-// every one of the 49 posts that carry both, and 13 posts have a ticket
-// page with no organizer site at all — those had no button before.
-const ticketHref = d.eventOffers?.url ?? d.eventOrganizer?.url ?? null;
-// Free entry is a fact readers act on, and it was sitting in the data
-// unseen on 15 posts. Shown as a word, not a price — the currency in the
-// frontmatter exists only to make price 0 valid in schema.
+const noindexPost = isEventPast(d) && !isRecurringEvent;
+
+// Where the ticket button actually goes. The organizer's site was the best
+// we had on 2026-08-23; since 08-25 the discovery/backfill pair stores the
+// event's OWN ticketing page (eventOffers.url), which is a click closer to
+// the thing the reader wants. Measured across the hub: the two differ on
+// every one of the 49 posts that carry both, and 13 posts have a ticket
+// page with no organizer site at all — those had no button before.
+const ticketHref = d.eventOffers?.url ?? d.eventOrganizer?.url ?? null;
+// Free entry is a fact readers act on, and it was sitting in the data
+// unseen on 15 posts. Shown as a word, not a price — the currency in the
+// frontmatter exists only to make price 0 valid in schema.
 const freeEntry = d.category === 'event' && d.eventOffers?.free === true;
 // What the visitor carries away. Written at save time so /my-trip needs no
 // lookup: the phone number, hours and quiet window are the things people
@@ -551,6 +554,8 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
   noindex={noindexPost}
   localized={true}
   localizedLangs={availableLangs}
+  popupRegion={d.region}
+  popupCountry={d.country}
 >
   <article class="article wrap">
     {/* Every crumb goes through localizePath. The country and region hrefs were
@@ -916,7 +921,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         <h2>{t('post.related')}</h2>
         {relatedPosts.length > 0 && (
           <div class="grid related-grid">
-            {relatedPosts.slice(0, 3).map((r) => (
+            {relatedPosts.slice(0, 4).map((r) => (
               <PostCard
                 href={postHref(r.id)}
                 title={postTitle(r)}
@@ -1021,5 +1026,5 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
     }
   </script>
 
-  <StickyBook city={d.region} place={p?.name} />
+  <StickyBook city={d.region} place={p?.name} eventStart={d.eventStartDate} />
 </BaseLayout>
