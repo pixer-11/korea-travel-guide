@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bangkok-king-power-mahanakhon
-srcHash: 'bf752008d05c'
+srcHash: '4b82a8812260'
 title: 泰国国王权力玛哈那空大厦(King Power Mahanakhon)：曼谷旅游指南(4.7★)
-description: King Power Mahanakhon 是曼谷一座外观呈像素状玻璃"缺口"的摩天大楼，坐落于是隆(Silom)的那拉底瓦叻差那卡林路(Naradhiwas Rajanagarindra Road)上，楼内设有泰国最高的观景台（SkyWalk），高达1,030英尺，还有玻璃地板和露天屋顶酒吧。4.7★（29,618条评价）——游客怎么说、开放时间及游览贴士。
+description: King Power Mahanakhon 是曼谷一座外观呈像素状玻璃"缺口"的摩天大楼，坐落于是隆(Silom)的那拉底瓦叻差那卡林路(Naradhiwas Rajanagarindra Road)上，楼内设有泰国最高的观景台（SkyWalk），高达1,030英尺，还有玻璃地板和露天屋顶酒吧。4.7★（29,907条评价）——游客怎么说、开放时间及游览贴士。
 quickAnswer: King Power Mahanakhon 是曼谷一座外观呈像素状玻璃"缺口"的摩天大楼，坐落于是隆(Silom)的那拉底瓦叻差那卡林路(Naradhiwas Rajanagarindra Road)上，楼内设有泰国最高的观景台（SkyWalk），高达1,030英尺，还有玻璃地板和露天屋顶酒吧。乘BTS到桐乍站（Chong Nonsi），沿空中步道出口即可直接进入大楼。建议选一个晴朗的下午晚些时候前往，正好赶上日落渐渐融入城市夜景的时刻——全天（上午10点至晚上11点）人流都比较稳定，但周末下午5点到7点人最多，因此挑一个更早或更晚的时段，能让你在玻璃地板前更从容一些。
 faq:
   - q: 如何前往 King Power Mahanakhon？

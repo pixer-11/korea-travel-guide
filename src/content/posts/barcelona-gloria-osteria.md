@@ -1,34 +1,40 @@
 ---
 title: Gloria Osteria in Barcelona
-description: Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward, high-energy event.
+description: >-
+  Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian
+  restaurant group known for turning classic osteria dining into a
+  design-forward, high-energy event.
 country: Spain
 region: Barcelona
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/139930618_LFxJ-HGH_OuvRVnjikL2S-ELQ8DH9SamUDZRqrotCq0.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/139930618_LFxJ-HGH_OuvRVnjikL2S-ELQ8DH9SamUDZRqrotCq0.jpg
   credit: 'Photo: Foursquare user content (Gloria Osteria)'
   license: foursquare
-  source: https://foursquare.com/v/68deb3f0c295142e45a73fef
+  source: 'https://foursquare.com/v/68deb3f0c295142e45a73fef'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1364167954_nMgc-u2-hResp5nCYqQM3QEcwYaEsnZPU7h102dZJKU.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1364167954_nMgc-u2-hResp5nCYqQM3QEcwYaEsnZPU7h102dZJKU.jpg
     credit: 'Photo: Foursquare user content (Gloria Osteria)'
     license: foursquare
-    source: https://foursquare.com/v/68deb3f0c295142e45a73fef
+    source: 'https://foursquare.com/v/68deb3f0c295142e45a73fef'
 place:
   id: ChIJ7YU7Fn6jpBIRE-ur8uBlBrg
   name: Gloria Osteria Barcelona
-  address: Carrer d'Enric Granados, 86, Eixample, 08008 Barcelona, Spain
+  address: 'Carrer d''Enric Granados, 86, Eixample, 08008 Barcelona, Spain'
   rating: 4.8
-  userRatingsTotal: 10953
-  googleMapsUrl: https://maps.google.com/?cid=13260398169657436947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 11632
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13260398169657436947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3929873
   lng: 2.1559049
-  phone: '+34 930 46 41 20'
+  phone: +34 930 46 41 20
   openingHours:
     - 'Monday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
     - 'Tuesday: 1:00 – 4:00 PM, 6:30 – 11:30 PM'
@@ -37,23 +43,47 @@ place:
     - 'Friday: 12:30 – 4:00 PM, 6:30 – 11:45 PM'
     - 'Saturday: 12:30 – 4:00 PM, 6:30 – 11:45 PM'
     - 'Sunday: 12:30 – 4:00 PM, 6:45 – 11:30 PM'
+  priceLevel: 3
 tags:
   - barcelona
   - new & trending
-quickAnswer: Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian restaurant group known for turning classic osteria dining into a design-forward, high-energy event. It opened to such demand that it was fully booked within its first week, so reserve online well ahead or try walking in right at opening for a cancellation seat. Expect a lively, photogenic dining room built around Italian comfort food rather than a quiet, old-school trattoria vibe.
+quickAnswer: >-
+  Gloria Osteria is the Barcelona debut of Big Mamma, the French-Italian
+  restaurant group known for turning classic osteria dining into a
+  design-forward, high-energy event. It opened to such demand that it was fully
+  booked within its first week, so reserve online well ahead or try walking in
+  right at opening for a cancellation seat. Expect a lively, photogenic dining
+  room built around Italian comfort food rather than a quiet, old-school
+  trattoria vibe.
 faq:
   - q: Do I need a reservation for Gloria Osteria?
-    a: Yes — it was fully booked within its first week of opening and remains one of Barcelona's hottest tables, so book online as far ahead as possible, especially for weekend dinners.
+    a: >-
+      Yes — it was fully booked within its first week of opening and remains one
+      of Barcelona's hottest tables, so book online as far ahead as possible,
+      especially for weekend dinners.
   - q: What kind of restaurant is Gloria Osteria?
-    a: It's the Barcelona debut of Big Mamma, a French-Italian restaurant group known for design-forward, lively osterias serving Italian comfort food, rather than a traditional quiet trattoria.
+    a: >-
+      It's the Barcelona debut of Big Mamma, a French-Italian restaurant group
+      known for design-forward, lively osterias serving Italian comfort food,
+      rather than a traditional quiet trattoria.
   - q: Where is Gloria Osteria located?
-    a: It's in Barcelona in a central, high-footfall part of the city typical of Big Mamma openings; confirm the exact address and nearest metro stop via the restaurant's official site or a maps app before heading over.
+    a: >-
+      It's in Barcelona in a central, high-footfall part of the city typical of
+      Big Mamma openings; confirm the exact address and nearest metro stop via
+      the restaurant's official site or a maps app before heading over.
   - q: Can I just walk in without a booking?
-    a: It's risky given the demand, but arriving right at opening on a weekday, or trying for a bar/counter seat, gives you the best chance if you don't have a reservation.
+    a: >-
+      It's risky given the demand, but arriving right at opening on a weekday,
+      or trying for a bar/counter seat, gives you the best chance if you don't
+      have a reservation.
   - q: What should I order or expect to pay?
-    a: Specific menu items and prices haven't been confirmed for this location yet, so check the restaurant's official channels close to your visit rather than relying on outdated or unofficial listings.
+    a: >-
+      Specific menu items and prices haven't been confirmed for this location
+      yet, so check the restaurant's official channels close to your visit
+      rather than relying on outdated or unofficial listings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 ## Why Gloria Osteria matters right now

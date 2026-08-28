@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: barcelona-ciutadella-park
-srcHash: 'f5c15d55d85f'
+srcHash: '0e802e64e3f0'
 title: 'Parque de la Ciutadella: Guía de viaje de Barcelona (4,6★)'
-description: El Parque de la Ciutadella es el espacio verde más grandioso de Barcelona, justo detrás del Arc de Triomf de arcos góticos, en Ciutat Vella — hogar de la monumental fuente de la Cascada, un lago de remo, el edificio del Parlamento de Cataluña y el Zoo de Barcelona. 4,6★ (77.895 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Parque de la Ciutadella es el espacio verde más grandioso de Barcelona, justo detrás del Arc de Triomf de arcos góticos, en Ciutat Vella — hogar de la monumental fuente de la Cascada, un lago de remo, el edificio del Parlamento de Cataluña y el Zoo de Barcelona. 4,6★ (78.104 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Parque de la Ciutadella es el espacio verde más grandioso de Barcelona, justo detrás del Arc de Triomf de arcos góticos, en Ciutat Vella — hogar de la monumental fuente de la Cascada, un lago de remo, el edificio del Parlamento de Cataluña y el Zoo de Barcelona. Ve a pie o en Metro hasta Arc de Triomf (L1) y procura llegar temprano por la mañana (7–9h) para verlo antes de que lleguen las multitudes y los autobuses turísticos; los fines de semana se llena de 11h a 20h.
 faq:
   - q: ¿Cómo llego al Parque de la Ciutadella?

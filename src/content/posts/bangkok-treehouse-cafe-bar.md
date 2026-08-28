@@ -1,27 +1,35 @@
 ---
 title: 'Treehouse Cafe & Bar: Bangkok Travel Guide'
-description: Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines and fairy lights before the evening crowd arrives.
+description: >-
+  Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in
+  Watthana, best visited on a weekday afternoon to snag a table among the vines
+  and fairy lights before the evening crowd arrives.
 country: Thailand
 region: Bangkok
 category: trendy
 pubDate: '2026-07-22T09:25:23.670Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1411411571_quwhlFNRIe80OJEKEW0lcHuJz9mrDTwIxDDq6a0G_cg.jpg"
-    credit: "Photo: Foursquare user content (Treehouse Cafe & Bar)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/658aa714ad06766843628297"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1411411571_quwhlFNRIe80OJEKEW0lcHuJz9mrDTwIxDDq6a0G_cg.jpg
+    credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
+    license: foursquare
+    source: 'https://foursquare.com/v/658aa714ad06766843628297'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/51649650_5zo9noe0V8wYegKbQFG5viCar862LRNJtdL7a5w3ty8.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/51649650_5zo9noe0V8wYegKbQFG5viCar862LRNJtdL7a5w3ty8.jpg
   credit: 'Photo: Foursquare user content (Treehouse Cafe & Bar)'
   license: foursquare
-  source: https://foursquare.com/v/658aa714ad06766843628297
+  source: 'https://foursquare.com/v/658aa714ad06766843628297'
 place:
   id: ChIJh1qSmmuf4jAR_P5qjvv_Vzs
   name: Treehouse Cafe & Bar
-  address: 20 Sukhumvit 31, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand
+  address: >-
+    20 Sukhumvit 31, Khwaeng Khlong Tan Nuea, Watthana, Krung Thep Maha Nakhon
+    10110, Thailand
   rating: 4.9
-  userRatingsTotal: 2609
-  googleMapsUrl: https://maps.google.com/?cid=4276167827102826236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2714
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4276167827102826236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.7366721
   lng: 100.56697349999999
@@ -46,7 +54,7 @@ place:
       - 21
     venueId: ven_737a565f76766a7135505f52416a3466756d6d537131684a496843
   priceLevel: 2
-  phone: '+66 80 899 4249'
+  phone: +66 80 899 4249
   openingHours:
     - 'Monday: 9:00 AM – 11:00 PM'
     - 'Tuesday: 9:00 AM – 11:00 PM'
@@ -58,20 +66,39 @@ place:
 tags:
   - bangkok
   - trendy cafe
-quickAnswer: Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in Watthana, best visited on a weekday afternoon to snag a table among the vines and fairy lights before the evening crowd arrives. It's a 10–15 minute walk (or short taxi ride) from Phrom Phong BTS, and with a 4.9 rating from over 2,600 reviews, it's worth booking ahead or arriving early on weekends. Budget 1–1.5 hours for coffee and photos, longer if you stay for dinner and drinks.
+quickAnswer: >-
+  Treehouse Cafe & Bar is a jungle-themed café tucked down Sukhumvit Soi 31 in
+  Watthana, best visited on a weekday afternoon to snag a table among the vines
+  and fairy lights before the evening crowd arrives. It's a 10–15 minute walk
+  (or short taxi ride) from Phrom Phong BTS, and with a 4.9 rating from over
+  2,600 reviews, it's worth booking ahead or arriving early on weekends. Budget
+  1–1.5 hours for coffee and photos, longer if you stay for dinner and drinks.
 faq:
   - q: How do I get to Treehouse Cafe & Bar without a car?
-    a: Take the BTS Sukhumvit Line to Phrom Phong station, then walk about 10–15 minutes north into Sukhumvit Soi 31, or grab a short taxi/Grab ride directly to 20 Sukhumvit 31.
+    a: >-
+      Take the BTS Sukhumvit Line to Phrom Phong station, then walk about 10–15
+      minutes north into Sukhumvit Soi 31, or grab a short taxi/Grab ride
+      directly to 20 Sukhumvit 31.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday afternoons, roughly 2–5pm, tend to be quieter. Weekend evenings draw the biggest crowds given its high review volume and photogenic setup.
+    a: >-
+      Weekday afternoons, roughly 2–5pm, tend to be quieter. Weekend evenings
+      draw the biggest crowds given its high review volume and photogenic setup.
   - q: Is it more of a café or a bar?
-    a: Both — it operates as a coffee and dessert spot by day and shifts into a cocktail bar atmosphere in the evening, with a food menu spanning Thai and Western dishes.
+    a: >-
+      Both — it operates as a coffee and dessert spot by day and shifts into a
+      cocktail bar atmosphere in the evening, with a food menu spanning Thai and
+      Western dishes.
   - q: How long should I plan to stay?
-    a: Budget at least 1–1.5 hours for coffee, photos, and browsing the space; longer if you're staying for a full dinner or drinks.
+    a: >-
+      Budget at least 1–1.5 hours for coffee, photos, and browsing the space;
+      longer if you're staying for a full dinner or drinks.
   - q: Do I need a reservation?
-    a: It's not always required, but given the venue's popularity (4.9 stars, 2,600+ reviews), booking ahead or arriving early is recommended for weekend evenings.
+    a: >-
+      It's not always required, but given the venue's popularity (4.9 stars,
+      2,600+ reviews), booking ahead or arriving early is recommended for
+      weekend evenings.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-28'
 ---
 
 ## Why go

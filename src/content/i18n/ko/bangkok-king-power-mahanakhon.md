@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bangkok-king-power-mahanakhon
-srcHash: 'bf752008d05c'
+srcHash: '4b82a8812260'
 title: '킹파워 마하나콘: 방콕 여행 가이드 (4.7★)'
-description: 킹파워 마하나콘(King Power Mahanakhon)은 실롬(Silom) 나라디와스 라자나가린드라 로드(Naradhiwas Rajanagarindra Road)에 자리한 방콕의 픽셀 무늬 유리 "노치" 마천루로, 1,030피트 높이에 유리 바닥과 오픈에어 루프탑 바를 갖춘 태국 최고층 전망대(스카이워크)가 있는 곳입니다. 4.7★ (리뷰 29,618건) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
+description: 킹파워 마하나콘(King Power Mahanakhon)은 실롬(Silom) 나라디와스 라자나가린드라 로드(Naradhiwas Rajanagarindra Road)에 자리한 방콕의 픽셀 무늬 유리 "노치" 마천루로, 1,030피트 높이에 유리 바닥과 오픈에어 루프탑 바를 갖춘 태국 최고층 전망대(스카이워크)가 있는 곳입니다. 4.7★ (리뷰 29,907건) — 방문객들의 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 킹파워 마하나콘(King Power Mahanakhon)은 실롬(Silom) 나라디와스 라자나가린드라 로드(Naradhiwas Rajanagarindra Road)에 자리한 방콕의 픽셀 무늬 유리 "노치" 마천루로, 1,030피트 높이에 유리 바닥과 오픈에어 루프탑 바를 갖춘 태국 최고층 전망대(스카이워크)가 있는 곳입니다. BTS를 타고 총논시(Chong Nonsi)역까지 간 뒤 스카이워크 출구로 바로 들어가면 됩니다. 맑은 날 늦은 오후에 방문하면 노을이 도시의 야경으로 서서히 바뀌는 모습을 볼 수 있습니다 — 오전 10시부터 밤 11시까지 하루 종일 사람들로 붐비지만 주말 오후 5시~7시 사이에 가장 몰리므로, 이른 시간이나 늦은 시간대를 노리면 유리창 앞에서 좀 더 여유롭게 즐길 수 있습니다.
 faq:
   - q: 킹파워 마하나콘까지는 어떻게 가나요?

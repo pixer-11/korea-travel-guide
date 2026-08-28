@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: baguio-baguio-botanical-garden
-srcHash: '38b6d9389a08'
+srcHash: '8cda58ceae34'
 title: 'Jardín Botánico de Baguio: Guía de viaje (4,5★)'
-description: 'El Jardín Botánico de Baguio es un parque al aire libre y gratuito situado en Leonard Wood Road, conocido por sus senderos entre pinos, sus cabañas típicas de estilo cordillerano y sus jardines florales. 4,5★ (8.337 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Jardín Botánico de Baguio es un parque al aire libre y gratuito situado en Leonard Wood Road, conocido por sus senderos entre pinos, sus cabañas típicas de estilo cordillerano y sus jardines florales. 4,5★ (8.339 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Baguio es un parque al aire libre y gratuito situado en Leonard Wood Road, conocido por sus senderos entre pinos, sus cabañas típicas de estilo cordillerano y sus jardines florales. Abre todos los días de 6:00 a 18:00 y se llena rápido, así que conviene ir entre semana, o antes de las 8:00 los fines de semana, para tener los senderos casi para uno solo.
 faq:
   - q: ¿Cuánto cuesta entrar al Jardín Botánico de Baguio?

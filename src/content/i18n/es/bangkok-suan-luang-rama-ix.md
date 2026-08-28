@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bangkok-suan-luang-rama-ix
-srcHash: 'cb0dacf13f8b'
+srcHash: '85254e7f78b4'
 title: 'Suan Luang Rama IX: Guía de viaje de Bangkok (4.7★)'
-description: En el distrito de Prawet, en el extremo oriental de Bangkok, Suan Luang Rama IX es uno de los parques públicos más grandes y mejor ajardinados de la ciudad, con jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Descubre qué opinan los visitantes, el horario y algunos consejos, con 4.7★ (19,345 reseñas).
+description: En el distrito de Prawet, en el extremo oriental de Bangkok, Suan Luang Rama IX es uno de los parques públicos más grandes y mejor ajardinados de la ciudad, con jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Descubre qué opinan los visitantes, el horario y algunos consejos, con 4.7★ (19,441 reseñas).
 quickAnswer: 'En el distrito de Prawet, en el extremo oriental de Bangkok, se encuentra Suan Luang Rama IX, uno de los parques públicos más grandes y mejor ajardinados de la ciudad: una combinación de jardines botánicos, un lago con botes de pedal, senderos para trotar y zonas de juegos infantiles. Para vivir la experiencia con más calma, conviene ir entre semana, de 10:00 a 19:00; los fines de semana el parque se llena de 7:00 a 19:00, así que si solo puedes ir un sábado o domingo, procura llegar después del mediodía. Reserva de dos a tres horas para recorrer bien los jardines, alquilar un bote de pedal y refrescarte bajo la sombra de los árboles.'
 faq:
   - q: ¿Cuál es el mejor momento del día para visitar Suan Luang Rama IX?

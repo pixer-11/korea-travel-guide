@@ -1,27 +1,35 @@
 ---
 title: 'The Island Bangkok Top Rated Thai Restaurant & Bar: Where to Eat'
-description: "The Island Bangkok is a 4.9★ Thai restaurant and bar (14,684 reviews), tucked into Soi Samsen 4 in Banglamphu, a short walk from Khao San Road and the river."
+description: >-
+  The Island Bangkok is a 4.9★ Thai restaurant and bar (14,684 reviews), tucked
+  into Soi Samsen 4 in Banglamphu, a short walk from Khao San Road and the
+  river.
 country: Thailand
 region: Bangkok
 category: restaurant
 pubDate: '2026-07-22T09:23:18.094Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/79410993_-rpdYHTJwzLLv68mxzxsk-z_zJSqQNoe1nKx3ipKjlc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/79410993_-rpdYHTJwzLLv68mxzxsk-z_zJSqQNoe1nKx3ipKjlc.jpg
   credit: 'Photo: Foursquare user content (The Island Restaurant (ก๋วยเตี๋ยว จุ่ม))'
   license: foursquare
-  source: https://foursquare.com/v/59faee799411f208e9a02859
+  source: 'https://foursquare.com/v/59faee799411f208e9a02859'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1408596541_1rU29RagrfLXNBBaSDv4qtlZzqblutcFquly9jGp1dU.jpg"
-    credit: "Photo: Foursquare user content (The Island Restaurant (ก๋วยเตี๋ยว จุ่ม))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/59faee799411f208e9a02859"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1408596541_1rU29RagrfLXNBBaSDv4qtlZzqblutcFquly9jGp1dU.jpg
+    credit: 'Photo: Foursquare user content (The Island Restaurant (ก๋วยเตี๋ยว จุ่ม))'
+    license: foursquare
+    source: 'https://foursquare.com/v/59faee799411f208e9a02859'
 place:
   id: ChIJBYCkBQCZ4jARMk27YRVj-vM
   name: The Island Bangkok – Top Rated Thai Restaurant & Bar
-  address: 49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand
+  address: >-
+    49 Soi Samsen 4, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Krung Thep Maha
+    Nakhon 10200, Thailand
   rating: 4.9
-  userRatingsTotal: 14684
-  googleMapsUrl: https://maps.google.com/?cid=17580473038879280434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 16354
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17580473038879280434&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.763558
   lng: 100.50033599999999
@@ -55,7 +63,7 @@ place:
       - 22
     venueId: ven_4d762d6a56525937326b4d52416a345a4351426b4359424a496843
   priceLevel: 2
-  phone: '+66 96 404 8625'
+  phone: +66 96 404 8625
   openingHours:
     - 'Monday: 7:00 AM – 2:00 AM'
     - 'Tuesday: 7:00 AM – 2:00 AM'
@@ -67,20 +75,40 @@ place:
 tags:
   - bangkok
   - local restaurant
-quickAnswer: The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road and the river. Go for a relaxed, garden-style setting with classic Thai dishes and cocktails, and plan on 1.5–2 hours for a full meal. Book ahead or arrive early on weekend evenings, since it's a local and tourist favorite with a huge review base (14,600+ ratings at 4.9 stars).
+quickAnswer: >-
+  The Island Bangkok is a highly-rated Thai restaurant and bar tucked into Soi
+  Samsen 4 in the Banglamphu/Phra Nakhon area, a short walk from Khao San Road
+  and the river. Go for a relaxed, garden-style setting with classic Thai dishes
+  and cocktails, and plan on 1.5–2 hours for a full meal. Book ahead or arrive
+  early on weekend evenings, since it's a local and tourist favorite with a huge
+  review base (14,600+ ratings at 4.9 stars).
 faq:
   - q: How do I get to The Island Bangkok without a car?
-    a: Use Grab or a metered taxi to Soi Samsen 4 in Phra Nakhon district, or take the Chao Phraya Express Boat to Phra Arthit Pier (N13) and walk about 10–15 minutes. There's no direct BTS/MRT station nearby.
+    a: >-
+      Use Grab or a metered taxi to Soi Samsen 4 in Phra Nakhon district, or
+      take the Chao Phraya Express Boat to Phra Arthit Pier (N13) and walk about
+      10–15 minutes. There's no direct BTS/MRT station nearby.
   - q: Is it within walking distance of Khao San Road?
-    a: Yes, it's roughly a 15–20 minute walk north from Khao San Road through the Samsen soi network, making it easy to combine with a night out in that area.
+    a: >-
+      Yes, it's roughly a 15–20 minute walk north from Khao San Road through the
+      Samsen soi network, making it easy to combine with a night out in that
+      area.
   - q: What kind of food does The Island Bangkok serve?
-    a: Classic Thai dishes — tom yum goong, pad kra pao, curries, grilled seafood, and stir-fries — served alongside cocktails and beer in a garden-style, open-air setting.
+    a: >-
+      Classic Thai dishes — tom yum goong, pad kra pao, curries, grilled
+      seafood, and stir-fries — served alongside cocktails and beer in a
+      garden-style, open-air setting.
   - q: Do I need a reservation?
-    a: With over 14,600 reviews and a 4.9 rating, it draws steady crowds, especially on weekend evenings. Booking ahead or arriving by 6–6:30 pm is recommended if you want to avoid a wait.
+    a: >-
+      With over 14,600 reviews and a 4.9 rating, it draws steady crowds,
+      especially on weekend evenings. Booking ahead or arriving by 6–6:30 pm is
+      recommended if you want to avoid a wait.
   - q: How long should I plan to stay?
-    a: Plan on 1.5–2 hours for a full dinner; the lounge-like atmosphere also makes it a good spot to linger longer over drinks after eating.
+    a: >-
+      Plan on 1.5–2 hours for a full dinner; the lounge-like atmosphere also
+      makes it a good spot to linger longer over drinks after eating.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-28'
 ---
 ## Why go
 

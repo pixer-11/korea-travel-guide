@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bangkok-king-power-mahanakhon
-srcHash: 'bf752008d05c'
+srcHash: '4b82a8812260'
 title: 'King Power Mahanakhon: Guía de viaje de Bangkok (4.7★)'
-description: 'King Power Mahanakhon es el rascacielos de cristal pixelado con la "muesca" de Bangkok, en Naradhiwas Rajanagarindra Road, en Silom, sede del mirador más alto de Tailandia (SkyWalk) a 1,030 pies, con suelo de cristal y bar en la azotea al aire libre. 4.7★ (29,618 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'King Power Mahanakhon es el rascacielos de cristal pixelado con la "muesca" de Bangkok, en Naradhiwas Rajanagarindra Road, en Silom, sede del mirador más alto de Tailandia (SkyWalk) a 1,030 pies, con suelo de cristal y bar en la azotea al aire libre. 4.7★ (29,907 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: King Power Mahanakhon es el rascacielos de cristal pixelado con la "muesca" de Bangkok, en Naradhiwas Rajanagarindra Road, en Silom, sede del mirador más alto de Tailandia (SkyWalk) a 1,030 pies, con suelo de cristal y bar en la azotea al aire libre. Toma el BTS hasta la estación Chong Nonsi y entra directamente por la salida conectada al skywalk. Ve una tarde despejada, cerca del atardecer, para ver cómo el cielo pasa del ocaso al horizonte nocturno iluminado de la ciudad; hay afluencia constante todo el día (10am–11pm), pero se dispara especialmente los fines de semana entre las 5pm y las 7pm, así que un horario más temprano o más tardío te dará más espacio junto al cristal.
 faq:
   - q: ¿Cómo llego a King Power Mahanakhon?

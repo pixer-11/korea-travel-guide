@@ -1,23 +1,30 @@
 ---
 title: 'Pak Gula, Uluwatu (Bingin): Menu Highlights, Hours & How to Book'
-description: 'Pak Gula in Bingin, Uluwatu: what to order from the Asian-fusion menu (char siu pork bao, shareable plates), when it is quietest, how to reserve, and what to expect. Rated 4.9 on Google.'
+description: >-
+  Pak Gula in Bingin, Uluwatu: what to order from the Asian-fusion menu (char
+  siu pork bao, shareable plates), when it is quietest, how to reserve, and what
+  to expect. Rated 4.9 on Google.
 country: Indonesia
 region: Bali
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4203067_xZ5GvIPYGQVB1R57G8U1SBLGwZ_LD7_xS-Xc4XDXZSY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/4203067_xZ5GvIPYGQVB1R57G8U1SBLGwZ_LD7_xS-Xc4XDXZSY.jpg
   credit: 'Photo: Foursquare user content (Warung Gula Bali "The Joglo")'
   license: foursquare
-  source: https://foursquare.com/v/4c550383728920a19f45ac83
+  source: 'https://foursquare.com/v/4c550383728920a19f45ac83'
 gallery: []
 place:
   id: ChIJKwd_WgBF0i0RJpCkORRpfdg
   name: PAK GULA
-  address: Jl. Pantai Bingin No.05, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia
+  address: >-
+    Jl. Pantai Bingin No.05, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali
+    80361, Indonesia
   rating: 4.9
-  userRatingsTotal: 66
-  googleMapsUrl: https://maps.google.com/?cid=15599740219868614694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 84
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15599740219868614694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.8080593
   lng: 115.11512580000002
@@ -32,20 +39,42 @@ place:
 tags:
   - bali
   - new & trending
-quickAnswer: Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from the team behind The Cashew Tree, known for shareable plates like char siu pork bao buns and a strong cocktail list. It's drawing crowds fast, so book ahead — ideally for a sunset or evening slot — and confirm current hours before you go, since details at newly opened Bali spots shift often.
+quickAnswer: >-
+  Pak Gula is a new two-storey Asian-fusion restaurant in Bingin, Uluwatu, from
+  the team behind The Cashew Tree, known for shareable plates like char siu pork
+  bao buns and a strong cocktail list. It's drawing crowds fast, so book ahead —
+  ideally for a sunset or evening slot — and confirm current hours before you
+  go, since details at newly opened Bali spots shift often.
 faq:
   - q: Where exactly is Pak Gula located?
-    a: It's in Bingin, part of the Uluwatu area on Bali's Bukit Peninsula, close to Bingin Beach and its cliffside staircase. Exact street details are best confirmed via Google Maps or the restaurant's Instagram before you go.
+    a: >-
+      It's in Bingin, part of the Uluwatu area on Bali's Bukit Peninsula, close
+      to Bingin Beach and its cliffside staircase. Exact street details are best
+      confirmed via Google Maps or the restaurant's Instagram before you go.
   - q: Do I need a reservation?
-    a: Yes, it's recommended. The restaurant has been busy since opening, especially during sunset and evening hours, so booking ahead — likely via Instagram or a reservation platform — is the safer bet.
+    a: >-
+      Yes, it's recommended. The restaurant has been busy since opening,
+      especially during sunset and evening hours, so booking ahead — likely via
+      Instagram or a reservation platform — is the safer bet.
   - q: What should I order?
-    a: The char siu pork bao buns are the signature dish, and the cocktail menu is a highlight. Expect a shareable-plates format best enjoyed with a group so you can sample more of the menu.
+    a: >-
+      The char siu pork bao buns are the signature dish, and the cocktail menu
+      is a highlight. Expect a shareable-plates format best enjoyed with a group
+      so you can sample more of the menu.
   - q: How do I get there without a car?
-    a: There's no public transit on the Bukit Peninsula, so most visitors arrive by scooter or a private/hired driver from Canggu, Seminyak, or elsewhere in Uluwatu. Parking near Bingin's center can be limited during peak hours.
+    a: >-
+      There's no public transit on the Bukit Peninsula, so most visitors arrive
+      by scooter or a private/hired driver from Canggu, Seminyak, or elsewhere
+      in Uluwatu. Parking near Bingin's center can be limited during peak hours.
   - q: What's the best time to visit?
-    a: Late afternoon into evening, timed around sunset, fits both the restaurant's cocktail-forward vibe and Bingin's scenic cliff-and-surf setting. Confirm current opening hours directly since they weren't independently verified here.
+    a: >-
+      Late afternoon into evening, timed around sunset, fits both the
+      restaurant's cocktail-forward vibe and Bingin's scenic cliff-and-surf
+      setting. Confirm current opening hours directly since they weren't
+      independently verified here.
 aiGenerated: true
 draft: true
+updatedDate: '2026-08-28'
 ---
 
 ## Why go

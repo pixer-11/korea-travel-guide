@@ -1,27 +1,35 @@
 ---
 title: 'Casa Batlló: Barcelona Travel Guide (4.7★)'
-description: Casa Batlló, on Passeig de Gràcia in Barcelona's Eixample district, is open daily 8:30am–10:30pm, and the calmest hours to walk its curving corridors are right after opening, before the weekend crush that builds from midday to 8pm. 4.7★ (214,001 reviews) — what visitors say, hours, and tips.
+description: >-
+  Casa Batlló, on Passeig de Gràcia in Barcelona's Eixample district, is open
+  daily 8:30am–10:30pm, and the calmest hours to walk its curving corridors are
+  right after opening, before the weekend crush that builds from midday to 8pm.
+  4.7★ (217,295 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
 category: attraction
 pubDate: '2026-08-04T10:04:19.037Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Casa_Batll%C3%B3_01.jpg/1920px-Casa_Batll%C3%B3_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Casa_Batll%C3%B3_01.jpg/1920px-Casa_Batll%C3%B3_01.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_01.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/2b/Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg
     credit: 'Photo: José Luiz / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Chimneys_of_Casa_Batll%C3%B3_-_Barcelona_2014.jpg
 place:
   id: ChIJYUFLSe2ipBIRD04uni940kA
   name: Casa Batlló
-  address: Pg. de Gràcia, 43, Eixample, 08007 Barcelona, Spain
+  address: 'Pg. de Gràcia, 43, Eixample, 08007 Barcelona, Spain'
   rating: 4.7
-  userRatingsTotal: 214001
-  googleMapsUrl: https://maps.google.com/?cid=4670927909449256463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 217295
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4670927909449256463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3917
   lng: 2.164918
@@ -36,8 +44,12 @@ place:
     - 'Sunday: 8:30 AM – 10:30 PM'
   busyness:
     updated: 2026-08-04T00:00:00.000Z
-    weekdayQuiet: [9, 21]
-    weekendQuiet: [9, 21]
+    weekdayQuiet:
+      - 9
+      - 21
+    weekendQuiet:
+      - 9
+      - 21
     weekendBusy:
       - 12
       - 13
@@ -51,20 +63,42 @@ place:
 tags:
   - barcelona
   - top attraction
-quickAnswer: Casa Batlló, on Passeig de Gràcia in Barcelona's Eixample district, is open daily 8:30am–10:30pm, and the calmest hours to walk its curving corridors are right after opening, before the weekend crush that builds from midday to 8pm. Book a timed-entry ticket online in advance — this is one of the most-visited landmarks in the city, and same-day queues at the door are common. Give yourself 1–1.5 hours inside, more if you linger on the rooftop.
+quickAnswer: >-
+  Casa Batlló, on Passeig de Gràcia in Barcelona's Eixample district, is open
+  daily 8:30am–10:30pm, and the calmest hours to walk its curving corridors are
+  right after opening, before the weekend crush that builds from midday to 8pm.
+  Book a timed-entry ticket online in advance — this is one of the most-visited
+  landmarks in the city, and same-day queues at the door are common. Give
+  yourself 1–1.5 hours inside, more if you linger on the rooftop.
 faq:
   - q: How long does a visit to Casa Batlló take?
-    a: Plan on 1 to 1.5 hours for the self-guided route through the Noble Floor, lightwell, attic, and rooftop, longer if you want to linger for photos on the roof terrace.
+    a: >-
+      Plan on 1 to 1.5 hours for the self-guided route through the Noble Floor,
+      lightwell, attic, and rooftop, longer if you want to linger for photos on
+      the roof terrace.
   - q: What's the quietest time to visit?
-    a: Right at opening (8:30am) on any day tends to be calmest, along with evenings before the 10:30pm close. Weekends between 12pm and 8pm are the busiest window and worth avoiding if you can.
+    a: >-
+      Right at opening (8:30am) on any day tends to be calmest, along with
+      evenings before the 10:30pm close. Weekends between 12pm and 8pm are the
+      busiest window and worth avoiding if you can.
   - q: How do I get to Casa Batlló by public transport?
-    a: Take metro lines L2, L3, or L4 to Passeig de Gràcia station, which is a couple of minutes' walk from the entrance at Passeig de Gràcia, 43, in the Eixample district.
+    a: >-
+      Take metro lines L2, L3, or L4 to Passeig de Gràcia station, which is a
+      couple of minutes' walk from the entrance at Passeig de Gràcia, 43, in the
+      Eixample district.
   - q: Should I book tickets in advance?
-    a: Yes. It's one of Barcelona's most-visited landmarks, so booking a timed-entry slot online ahead of time is strongly recommended to avoid long queues at the door.
+    a: >-
+      Yes. It's one of Barcelona's most-visited landmarks, so booking a
+      timed-entry slot online ahead of time is strongly recommended to avoid
+      long queues at the door.
   - q: What else is nearby worth visiting?
-    a: Gaudí's Casa Milà (La Pedrera) is about a seven-minute walk up the same boulevard, making it easy to combine both Modernisme landmarks in one outing.
+    a: >-
+      Gaudí's Casa Milà (La Pedrera) is about a seven-minute walk up the same
+      boulevard, making it easy to combine both Modernisme landmarks in one
+      outing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

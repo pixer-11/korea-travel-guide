@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: baguio-baguio-city-market
-srcHash: '4faf6ed29c7a'
+srcHash: '86eeb55b44f2'
 title: 碧瑶市场（Baguio City Market）旅行指南（4.3★）
-description: 碧瑶市场（Baguio City Market）沿马赛塞大道（Magsaysay Avenue）延伸，每天4:00–19:00开放，最佳游览时间是早上——工作日7点到9点、周末7点到8点最为清静。4.3★（11,740条评价）——看看游客怎么说，以及开放时间和实用建议。
+description: 碧瑶市场（Baguio City Market）沿马赛塞大道（Magsaysay Avenue）延伸，每天4:00–19:00开放，最佳游览时间是早上——工作日7点到9点、周末7点到8点最为清静。4.3★（11,756条评价）——看看游客怎么说，以及开放时间和实用建议。
 quickAnswer: 碧瑶市场（Baguio City Market）沿马赛塞大道（Magsaysay Avenue）延伸，每天4:00–19:00开放，最佳游览时间是早上——工作日7点到9点、周末7点到8点最为清静。周末中午到下午6点人最多，尽量避开。市场里有草莓、山地蔬菜、紫薯果酱（ube jam）、编织布料和本格特咖啡（Benguet coffee），逛完带顶棚的各区大约需要预留一到两个小时。
 faq:
   - q: 碧瑶市场的营业时间是几点？

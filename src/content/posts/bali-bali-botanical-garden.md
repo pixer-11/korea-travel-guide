@@ -1,60 +1,90 @@
 ---
-title: "Bali Botanical Garden: Travel Guide (4.6★)"
-description: "Bali Botanical Garden (Kebun Raya Bali) sits in Candikuning, up in the cool highlands near Bedugul in Tabanan regency, about 90 minutes north of Denpasar or Ubud. 4.6★ (18,488 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Bali"
-category: "attraction"
-pubDate: "2026-08-26T08:17:40.319Z"
+title: 'Bali Botanical Garden: Travel Guide (4.6★)'
+description: >-
+  Bali Botanical Garden (Kebun Raya Bali) sits in Candikuning, up in the cool
+  highlands near Bedugul in Tabanan regency, about 90 minutes north of Denpasar
+  or Ubud. 4.6★ (18,497 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Bali
+category: attraction
+pubDate: '2026-08-26T08:17:40.319Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DJI_0128_Bali_Botanic_Garden.jpg/3840px-DJI_0128_Bali_Botanic_Garden.jpg"
-  credit: "Photo: Bali Botanic Garden / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:DJI_0128_Bali_Botanic_Garden.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DJI_0128_Bali_Botanic_Garden.jpg/3840px-DJI_0128_Bali_Botanic_Garden.jpg
+  credit: 'Photo: Bali Botanic Garden / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:DJI_0128_Bali_Botanic_Garden.jpg'
+  via: act
   focus:
     x: 68
-    y: 60
+    'y': 60
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/38/Bali_Botanic_Garden_entrance_gate_Indonesia.jpg"
-    credit: "Photo: No machine-readable author provided. Hullie assumed (based on copyright claims). / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bali_Botanic_Garden_entrance_gate_Indonesia.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/38/Bali_Botanic_Garden_entrance_gate_Indonesia.jpg
+    credit: >-
+      Photo: No machine-readable author provided. Hullie assumed (based on
+      copyright claims). / Wikimedia Commons (Public domain)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bali_Botanic_Garden_entrance_gate_Indonesia.jpg
 place:
-  id: "ChIJDSEiPAyJ0S0RxX3GamOTQ4k"
-  name: "Bali Botanical Garden"
-  address: "Jl. Kebun Raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia"
+  id: ChIJDSEiPAyJ0S0RxX3GamOTQ4k
+  name: Bali Botanical Garden
+  address: >-
+    Jl. Kebun Raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191,
+    Indonesia
   rating: 4.6
-  userRatingsTotal: 18488
-  googleMapsUrl: "https://maps.google.com/?cid=9890911261838179781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18497
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9890911261838179781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.276121500000002
   lng: 115.15420289999999
-  phone: "+62 368 2033211"
+  phone: +62 368 2033211
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "bali"
-  - "park"
-quickAnswer: "Bali Botanical Garden (Kebun Raya Bali) sits in Candikuning, up in the cool highlands near Bedugul in Tabanan regency, about 90 minutes north of Denpasar or Ubud. It's open 8am–4pm on weekdays and 8am–5pm on weekends, and it's genuinely popular, so aim for a weekday morning near opening to avoid tour-bus crowds. Budget half a day if you want to add the treetop ropes course on top of the plant collections."
+  - bali
+  - park
+quickAnswer: >-
+  Bali Botanical Garden (Kebun Raya Bali) sits in Candikuning, up in the cool
+  highlands near Bedugul in Tabanan regency, about 90 minutes north of Denpasar
+  or Ubud. It's open 8am–4pm on weekdays and 8am–5pm on weekends, and it's
+  genuinely popular, so aim for a weekday morning near opening to avoid tour-bus
+  crowds. Budget half a day if you want to add the treetop ropes course on top
+  of the plant collections.
 faq:
-  - q: "How do I get to Bali Botanical Garden?"
-    a: "It's in Candikuning, Bedugul, about 1.5 hours from Ubud or 2 hours from Denpasar and the southern beach areas by private car or hired driver; there's no practical public bus route."
-  - q: "What are the opening hours?"
-    a: "8am–4pm Monday to Friday, and 8am–5pm on Saturday and Sunday. Arrive near opening on any day to beat tour groups."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings right at 8am are quietest. Weekends and midday hours draw the biggest domestic tour crowds, especially once buses start arriving mid-morning."
-  - q: "How much time should I plan for a visit?"
-    a: "Budget at least two hours for the main garden sections, and a third hour if you want to do the treetop ropes course as well."
-  - q: "What else is nearby?"
-    a: "Ulun Danu Beratan Temple on Lake Beratan is a short drive away and pairs naturally with a garden visit as a half-day highland loop."
+  - q: How do I get to Bali Botanical Garden?
+    a: >-
+      It's in Candikuning, Bedugul, about 1.5 hours from Ubud or 2 hours from
+      Denpasar and the southern beach areas by private car or hired driver;
+      there's no practical public bus route.
+  - q: What are the opening hours?
+    a: >-
+      8am–4pm Monday to Friday, and 8am–5pm on Saturday and Sunday. Arrive near
+      opening on any day to beat tour groups.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings right at 8am are quietest. Weekends and midday hours draw
+      the biggest domestic tour crowds, especially once buses start arriving
+      mid-morning.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Budget at least two hours for the main garden sections, and a third hour
+      if you want to do the treetop ropes course as well.
+  - q: What else is nearby?
+    a: >-
+      Ulun Danu Beratan Temple on Lake Beratan is a short drive away and pairs
+      naturally with a garden visit as a half-day highland loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

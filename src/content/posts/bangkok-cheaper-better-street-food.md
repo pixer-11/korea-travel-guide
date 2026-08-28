@@ -1,31 +1,40 @@
 ---
 title: 'Cheaper & Better Street Food: Where to Eat in Bangkok'
-description: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, one-plate meals under 100 baht, and a mostly local office-worker crowd.
+description: >-
+  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
+  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
+  Better Street Food" spot — expect plastic stools, one-plate meals under 100
+  baht, and a mostly local office-worker crowd.
 country: Thailand
 region: Bangkok
 category: restaurant
 pubDate: '2026-07-22T09:25:55.413Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/88336484_5BFi2HoRczOqjHhBbXDAYfOAdmb-jRnDxUAURfYMjio.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/88336484_5BFi2HoRczOqjHhBbXDAYfOAdmb-jRnDxUAURfYMjio.jpg
   credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'
   license: foursquare
-  source: https://foursquare.com/v/56d41b96cd101bd7e535aaeb
+  source: 'https://foursquare.com/v/56d41b96cd101bd7e535aaeb'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/140039019_F2qKHWenLcn5FNMwA0fQX08OonVTnmH9FTgVuXcb7gY.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/140039019_F2qKHWenLcn5FNMwA0fQX08OonVTnmH9FTgVuXcb7gY.jpg
     credit: 'Photo: Foursquare user content (CHEAPER & BETTER)'
     license: foursquare
-    source: https://foursquare.com/v/56d41b96cd101bd7e535aaeb
+    source: 'https://foursquare.com/v/56d41b96cd101bd7e535aaeb'
 place:
   id: ChIJLWlCk9GY4jARpNGpRcq5ABY
   name: Cheaper & Better Street Food
-  address: 57, 89 Soi Silom 20, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha Nakhon 10500, Thailand
+  address: >-
+    57, 89 Soi Silom 20, Khwaeng Suriya Wong, Khet Bang Rak, Krung Thep Maha
+    Nakhon 10500, Thailand
   rating: 4.7
-  userRatingsTotal: 1617
+  userRatingsTotal: 1658
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=1585471347237704100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1585471347237704100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.725069999999999
   lng: 100.52293379999999
@@ -52,7 +61,7 @@ place:
       - 21
       - 22
     venueId: ven_5942413571635270474e7052416a345947396b436c574c4a496843
-  phone: '+66 83 817 4446'
+  phone: +66 83 817 4446
   openingHours:
     - 'Monday: 12:00 – 11:00 PM'
     - 'Tuesday: 12:00 – 11:00 PM'
@@ -64,20 +73,40 @@ place:
 tags:
   - bangkok
   - street food
-quickAnswer: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, one-plate meals under 100 baht, and a mostly local office-worker crowd. Go between 12pm and 1:30pm on a weekday, when the soi is at its busiest and freshest, and bring small bills. Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
+quickAnswer: >-
+  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
+  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
+  Better Street Food" spot — expect plastic stools, one-plate meals under 100
+  baht, and a mostly local office-worker crowd. Go between 12pm and 1:30pm on a
+  weekday, when the soi is at its busiest and freshest, and bring small bills.
+  Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
 faq:
   - q: How do I get to Soi Silom 20?
-    a: Take the BTS to Sala Daeng station or the MRT to Silom station (they connect via a walkway), then walk south on Silom Road about 5-8 minutes to the soi entrance.
+    a: >-
+      Take the BTS to Sala Daeng station or the MRT to Silom station (they
+      connect via a walkway), then walk south on Silom Road about 5-8 minutes to
+      the soi entrance.
   - q: How much does a meal cost?
-    a: Expect roughly 40-80 baht per dish at most stalls, consistent with the area's budget, no-frills street food scene — confirm current prices on-site since they shift with ingredient costs.
+    a: >-
+      Expect roughly 40-80 baht per dish at most stalls, consistent with the
+      area's budget, no-frills street food scene — confirm current prices
+      on-site since they shift with ingredient costs.
   - q: What's the best time to visit?
-    a: Weekday lunch, roughly 12:00pm to 1:30pm, when nearby offices break and stalls are at peak output; the crowd thins by mid-afternoon, but stalls stay open into the evening until around 11pm.
+    a: >-
+      Weekday lunch, roughly 12:00pm to 1:30pm, when nearby offices break and
+      stalls are at peak output; the crowd thins by mid-afternoon, but stalls
+      stay open into the evening until around 11pm.
   - q: How long should I plan to spend there?
-    a: 30-45 minutes is enough for a meal; it's a fast, functional lunch stop rather than a leisurely sit-down experience.
+    a: >-
+      30-45 minutes is enough for a meal; it's a fast, functional lunch stop
+      rather than a leisurely sit-down experience.
   - q: What else is nearby?
-    a: Patpong night market is a short walk north, and Lumphini Park is about 10-15 minutes on foot to the east, making this an easy add-on to a Silom-area itinerary.
+    a: >-
+      Patpong night market is a short walk north, and Lumphini Park is about
+      10-15 minutes on foot to the east, making this an easy add-on to a
+      Silom-area itinerary.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-28'
 ---
 ## Why Soi Silom 20 Matters
 

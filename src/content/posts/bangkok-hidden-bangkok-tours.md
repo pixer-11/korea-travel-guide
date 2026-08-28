@@ -1,34 +1,43 @@
 ---
 title: 'Hidden Bangkok Tours: Travel Guide'
-description: Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai — the old canal-side district across the river from the Grand Palace — focusing on local temples, shophouse alleys, and street food you won't find in the tourist core.
+description: >-
+  Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai —
+  the old canal-side district across the river from the Grand Palace — focusing
+  on local temples, shophouse alleys, and street food you won't find in the
+  tourist core.
 country: Thailand
 region: Bangkok
 category: hidden-gem
 pubDate: '2026-07-22T09:24:53.154Z'
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/431587360_A0YW3tZ7WwtqMcrIbdIQQZmBHckEQiOgA2IFgSqgV20.jpg"
-    credit: "Photo: Foursquare user content (Hidden Bangkok Boat Tours)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/656c514bbb726a74d1bac44c"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/431587360_A0YW3tZ7WwtqMcrIbdIQQZmBHckEQiOgA2IFgSqgV20.jpg
+    credit: 'Photo: Foursquare user content (Hidden Bangkok Boat Tours)'
+    license: foursquare
+    source: 'https://foursquare.com/v/656c514bbb726a74d1bac44c'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/431587360_0J4hSetrtmzYN_zP4oVOjE6E93KUpCBKO5OpiwiaUDs.jpg
   credit: 'Photo: Foursquare user content (Hidden Bangkok Boat Tours)'
   license: foursquare
-  source: https://foursquare.com/v/656c514bbb726a74d1bac44c
+  source: 'https://foursquare.com/v/656c514bbb726a74d1bac44c'
   focus:
     x: 50
-    y: 35
+    'y': 35
 place:
   id: ChIJTQgF826Z4jARKr0ePspKknY
   name: Hidden Bangkok Tours
-  address: 113 Soi Wat Nak Klang, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha Nakhon 10600, Thailand
+  address: >-
+    113 Soi Wat Nak Klang, Khwaeng Wat Arun, Khet Bangkok Yai, Krung Thep Maha
+    Nakhon 10600, Thailand
   rating: 4.9
-  userRatingsTotal: 399
-  googleMapsUrl: https://maps.google.com/?cid=8543973675561303338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 427
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8543973675561303338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.7459714
   lng: 100.48329679999999
-  phone: '+66 81 161 6595'
+  phone: +66 81 161 6595
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'
@@ -40,20 +49,48 @@ place:
 tags:
   - bangkok
   - hidden gem
-quickAnswer: Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai — the old canal-side district across the river from the Grand Palace — focusing on local temples, shophouse alleys, and street food you won't find in the tourist core. Base yourself near Wat Arun or Wongwian Yai BTS, book a morning or late-afternoon slot to dodge the heat, and set aside 3-4 hours. With a 4.9 rating over nearly 400 reviews, it's best for travelers who've already done the Grand Palace circuit and want the residential, working-class side of the city.
+quickAnswer: >-
+  Hidden Bangkok Tours runs small-group walks through Thonburi and Bangkok Yai —
+  the old canal-side district across the river from the Grand Palace — focusing
+  on local temples, shophouse alleys, and street food you won't find in the
+  tourist core. Base yourself near Wat Arun or Wongwian Yai BTS, book a morning
+  or late-afternoon slot to dodge the heat, and set aside 3-4 hours. With a 4.9
+  rating over nearly 400 reviews, it's best for travelers who've already done
+  the Grand Palace circuit and want the residential, working-class side of the
+  city.
 faq:
   - q: How do I get to Hidden Bangkok Tours from central Bangkok?
-    a: Take the BTS to Wongwian Yai station, then a short taxi into the Bangkok Yai sois, or ride the Chao Phraya Express Boat to Wat Arun pier (N8) and continue on foot or by motorbike taxi. Confirm the exact meeting point with the operator, as it's in a residential alley near Wat Arun, not on a main road.
+    a: >-
+      Take the BTS to Wongwian Yai station, then a short taxi into the Bangkok
+      Yai sois, or ride the Chao Phraya Express Boat to Wat Arun pier (N8) and
+      continue on foot or by motorbike taxi. Confirm the exact meeting point
+      with the operator, as it's in a residential alley near Wat Arun, not on a
+      main road.
   - q: How long does the tour take?
-    a: Plan for roughly 3-4 hours, typical for small-group neighborhood walking tours covering temples, markets, and canal-side streets. Confirm the exact duration when booking.
+    a: >-
+      Plan for roughly 3-4 hours, typical for small-group neighborhood walking
+      tours covering temples, markets, and canal-side streets. Confirm the exact
+      duration when booking.
   - q: What's the best time of day and year to do this tour?
-    a: Early morning or late afternoon avoids the worst heat, and November-February is Bangkok's coolest, driest season. Midday in the March-May hot season is best avoided on foot in exposed alleys.
-  - q: Is this tour worth it if I've already visited the Grand Palace and Wat Pho?
-    a: Yes — it covers Thonburi/Bangkok Yai on the river's west bank, a historic but far less-visited district with local temples, canal communities, and markets rather than major monuments.
+    a: >-
+      Early morning or late afternoon avoids the worst heat, and
+      November-February is Bangkok's coolest, driest season. Midday in the
+      March-May hot season is best avoided on foot in exposed alleys.
+  - q: >-
+      Is this tour worth it if I've already visited the Grand Palace and Wat
+      Pho?
+    a: >-
+      Yes — it covers Thonburi/Bangkok Yai on the river's west bank, a historic
+      but far less-visited district with local temples, canal communities, and
+      markets rather than major monuments.
   - q: What should I bring or wear?
-    a: Closed, comfortable shoes for uneven pavement and temple visits, small baht bills for street food and market stalls, and sun protection given the limited shade in the back sois.
+    a: >-
+      Closed, comfortable shoes for uneven pavement and temple visits, small
+      baht bills for street food and market stalls, and sun protection given the
+      limited shade in the back sois.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 ## Why go

@@ -1,30 +1,36 @@
 ---
 title: Somsak in Bangkok
-description: 'Somsak in Bangkok, Thailand — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Somsak in Bangkok, Thailand — a new/trending spot: what it is, where it is,
+  and how to visit.
 country: Thailand
 region: Bangkok
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/85327423_yVxvfzyV5QEJNSCmA1gsxxKZSyfmNtqr7ORFuPDvSl4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/85327423_yVxvfzyV5QEJNSCmA1gsxxKZSyfmNtqr7ORFuPDvSl4.jpg
   credit: 'Photo: Foursquare user content (SOMSAK (สมศักดิ์))'
   license: foursquare
-  source: https://foursquare.com/v/680f8d9a38419943f01e8f02
+  source: 'https://foursquare.com/v/680f8d9a38419943f01e8f02'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: ChIJz5JqTwCf4jARL41kMcrveK4
   name: Somsak
-  address: 1319 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha Nakhon 10110, Thailand
+  address: >-
+    1319 Sukhumvit Rd, Khwaeng Phra Khanong Nuea, Watthana, Krung Thep Maha
+    Nakhon 10110, Thailand
   rating: 4.8
-  userRatingsTotal: 718
-  googleMapsUrl: https://maps.google.com/?cid=12572062011495845167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 771
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12572062011495845167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.7202108
   lng: 100.58495409999999
-  phone: '+66 83 262 9154'
+  phone: +66 83 262 9154
   openingHours:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
@@ -33,23 +39,49 @@ place:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 11:00 PM'
+  priceLevel: 2
 tags:
   - bangkok
   - new & trending
-quickAnswer: Somsak is a high-concept Isaan (northeastern Thai) restaurant in Ekkamai, Bangkok, from the team behind Fatboy Izakaya, built around a kitschy backstory of a fictional Bangkok taxi driver who made a fortune in Scotland. Go for the theatrical decor and loud, celebratory take on regional Thai dishes rather than quiet dining — expect a bar-club energy, especially after 9pm. Book ahead if possible and confirm current hours, as details for newly opened trending spots shift fast.
+quickAnswer: >-
+  Somsak is a high-concept Isaan (northeastern Thai) restaurant in Ekkamai,
+  Bangkok, from the team behind Fatboy Izakaya, built around a kitschy backstory
+  of a fictional Bangkok taxi driver who made a fortune in Scotland. Go for the
+  theatrical decor and loud, celebratory take on regional Thai dishes rather
+  than quiet dining — expect a bar-club energy, especially after 9pm. Book ahead
+  if possible and confirm current hours, as details for newly opened trending
+  spots shift fast.
 faq:
   - q: How do I get to Somsak in Bangkok?
-    a: Take the BTS Sukhumvit Line to Ekkamai Station, then a short taxi, motorbike taxi, or ride-share into the sois off Ekkamai Road (Sukhumvit Soi 63), since the restaurant sits within the neighborhood's soi network rather than on the main road itself.
+    a: >-
+      Take the BTS Sukhumvit Line to Ekkamai Station, then a short taxi,
+      motorbike taxi, or ride-share into the sois off Ekkamai Road (Sukhumvit
+      Soi 63), since the restaurant sits within the neighborhood's soi network
+      rather than on the main road itself.
   - q: Do I need a reservation?
-    a: As a trending, buzzy restaurant in a popular nightlife district, booking ahead is recommended, especially Thursday to Saturday nights. Confirm reservation options and current availability directly before your visit.
+    a: >-
+      As a trending, buzzy restaurant in a popular nightlife district, booking
+      ahead is recommended, especially Thursday to Saturday nights. Confirm
+      reservation options and current availability directly before your visit.
   - q: What kind of food does Somsak serve?
-    a: It focuses on Isaan (northeastern Thai) cuisine — bold, spicy, sour dishes like som tam and larb alongside grilled meats and sticky rice — presented with high-energy, theatrical decor rather than a traditional rustic setting.
+    a: >-
+      It focuses on Isaan (northeastern Thai) cuisine — bold, spicy, sour dishes
+      like som tam and larb alongside grilled meats and sticky rice — presented
+      with high-energy, theatrical decor rather than a traditional rustic
+      setting.
   - q: What's the best time to visit?
-    a: Arriving right at opening gives the calmest experience; later evenings, particularly on weekends, bring louder music and a bigger crowd as the venue shifts into more of a nightlife atmosphere.
+    a: >-
+      Arriving right at opening gives the calmest experience; later evenings,
+      particularly on weekends, bring louder music and a bigger crowd as the
+      venue shifts into more of a nightlife atmosphere.
   - q: Is Somsak good for a quiet dinner?
-    a: Not really — it's designed as a high-energy, celebratory experience best suited to groups. Confirm hours and menu details ahead of time since specifics can change for a newly opened venue.
+    a: >-
+      Not really — it's designed as a high-energy, celebratory experience best
+      suited to groups. Confirm hours and menu details ahead of time since
+      specifics can change for a newly opened venue.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 ## Why Somsak stands out

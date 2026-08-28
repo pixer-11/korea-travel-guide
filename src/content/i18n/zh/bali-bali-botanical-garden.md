@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bali-bali-botanical-garden
-srcHash: 'd3c3b90c2e60'
+srcHash: '823fbac0e292'
 title: 巴厘岛植物园（Kebun Raya Bali）旅行指南（4.6★）
-description: 巴厘岛植物园（Kebun Raya Bali）位于坎迪库宁（Candikuning），坐落在打拉湾（Tabanan）县贝杜古（Bedugul）附近凉爽的高地上，从登巴萨或乌布出发向北车程约90分钟。4.6★（18,488条评价）——游客怎么说、开放时间及游览贴士，一并奉上。
+description: 巴厘岛植物园（Kebun Raya Bali）位于坎迪库宁（Candikuning），坐落在打拉湾（Tabanan）县贝杜古（Bedugul）附近凉爽的高地上，从登巴萨或乌布出发向北车程约90分钟。4.6★（18,497条评价）——游客怎么说、开放时间及游览贴士，一并奉上。
 quickAnswer: 巴厘岛植物园（Kebun Raya Bali）位于坎迪库宁（Candikuning），坐落在打拉湾（Tabanan）县贝杜古（Bedugul）附近凉爽的高地上，从登巴萨或乌布出发向北车程约90分钟。园区平日开放时间为早上8点到下午4点，周末则延长到下午5点，由于人气实在很高，建议选在平日开园前后前往，以免遇上旅游团人潮。如果还想体验树冠层高空绳索项目，不只是逛逛植物，最好留出半天时间。
 faq:
   - q: 怎么去巴厘岛植物园？

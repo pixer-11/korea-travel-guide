@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: baguio-bell-church
-srcHash: '8fe7d1e1186d'
+srcHash: '963c4715bc27'
 title: 'Bell Church: Guía de Viaje de Baguio (4.4★)'
-description: 'Bell Church es un pequeño complejo de templos budistas y taoístas en La Trinidad, justo al norte de Baguio, célebre por sus portales escalonados en forma de pagoda, sus balaustradas talladas con dragones y un estanque de lirios rodeado de vistas a las colinas. 4.4★ (2,248 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Bell Church es un pequeño complejo de templos budistas y taoístas en La Trinidad, justo al norte de Baguio, célebre por sus portales escalonados en forma de pagoda, sus balaustradas talladas con dragones y un estanque de lirios rodeado de vistas a las colinas. 4.4★ (2,249 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Bell Church es un pequeño complejo de templos budistas y taoístas en La Trinidad, justo al norte de Baguio, célebre por sus portales escalonados en forma de pagoda, sus balaustradas talladas con dragones y un estanque de lirios rodeado de vistas a las colinas. La entrada es gratuita (se agradecen los donativos) y la visita completa toma entre 30 y 45 minutos. Combina bien con una parada en los campos de fresas de La Trinidad, ya que ambos se encuentran sobre la misma carretera de salida de la ciudad. Conviene ir un día de semana por la mañana si se quiere disfrutar de los patios sin gente.
 faq:
   - q: ¿Se paga entrada en Bell Church?

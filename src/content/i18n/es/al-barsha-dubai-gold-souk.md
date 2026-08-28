@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: al-barsha-dubai-gold-souk
-srcHash: '63de139b84f7'
+srcHash: '58903d308e38'
 title: 'Zoco del Oro de Dubái: guía de viaje de Al Barsha (4,4★)'
-description: 'El Zoco del Oro de Dubái se encuentra en el distrito de Al Ras, en Deira, y no en Al Barsha, pese a lo que digan los filtros de los mapas: es el histórico mercado cubierto donde cientos de joyerías se alinean tras un arco de madera tallada. 4,4★ (10.686 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Zoco del Oro de Dubái se encuentra en el distrito de Al Ras, en Deira, y no en Al Barsha, pese a lo que digan los filtros de los mapas: es el histórico mercado cubierto donde cientos de joyerías se alinean tras un arco de madera tallada. 4,4★ (10.705 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Zoco del Oro de Dubái se encuentra en el distrito de Al Ras, en Deira, y no en Al Barsha, pese a lo que digan los filtros de los mapas: es el histórico mercado cubierto donde cientos de joyerías se alinean tras un arco de madera tallada. Conviene ir a primera hora de la tarde-noche, después de las 16:00 y antes de que llegue el ajetreo de después de la cena, cuando los callejones ya están iluminados pero todavía no abarrotados. Pasear y curiosear es gratis; solo se paga si se compra algo.'
 faq:
   - q: ¿De verdad está el Zoco del Oro en Al Barsha?

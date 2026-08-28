@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bangkok-earth-house-restaurant-wine-bar
-srcHash: '62a966d5b665'
+srcHash: '38ea5538b09b'
 title: 'Earth House | Restaurante | Bar de Vinos: Dónde Comer en Bangkok'
-description: Earth House es un restaurante y bar de vinos centrado en cocina vegetal, escondido en Soi Sukhumvit 53, en Watthana, a poca distancia del BTS Thong Lo. 4.8★ (428 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: Earth House es un restaurante y bar de vinos centrado en cocina vegetal, escondido en Soi Sukhumvit 53, en Watthana, a poca distancia del BTS Thong Lo. 4.8★ (435 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Earth House es un restaurante y bar de vinos centrado en cocina vegetal, escondido en Soi Sukhumvit 53, en Watthana, a poca distancia del BTS Thong Lo. Ve una mañana de fin de semana para el menú de brunch, o pásate cerca del cierre (10–11pm) cuando la multitud disminuye. Cierra los lunes, y entre semana el servicio no empieza hasta las 1:30pm.
 faq:
   - q: ¿Cómo llego a Earth House desde el BTS?

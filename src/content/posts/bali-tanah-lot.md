@@ -1,27 +1,33 @@
 ---
 title: 'Tanah Lot: Bali Travel Guide'
-description: Tanah Lot is a 16th-century sea temple perched on a rock islet off Tabanan Regency's coast, about 45-60 minutes northwest of Seminyak/Canggu.
+description: >-
+  Tanah Lot is a 16th-century sea temple perched on a rock islet off Tabanan
+  Regency's coast, about 45-60 minutes northwest of Seminyak/Canggu.
 country: Indonesia
 region: Bali
 category: attraction
 pubDate: '2026-07-22T09:43:20.321Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg/1920px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg/1920px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tanah_Lot,_Bali,_Indonesia,_20220827_1008_1159.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tanah_Lot,_Bali,_Indonesia,_20220827_1008_1159.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/462935206_QYBdsmmJF0Vm-7zGaS9rwXXQRSEgCVSrN1LoE9a1dBw.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/462935206_QYBdsmmJF0Vm-7zGaS9rwXXQRSEgCVSrN1LoE9a1dBw.jpg
     credit: 'Photo: Foursquare user content (Tanah Lot Beach (Pantai Tanah Lot))'
     license: foursquare
-    source: https://foursquare.com/v/4e59c8b4aeb7d78d9f7cc7e8
+    source: 'https://foursquare.com/v/4e59c8b4aeb7d78d9f7cc7e8'
 place:
   id: ChIJq95xT4I30i0RaU3j93Diq8o
   name: Tanah Lot
-  address: Beraban, Kediri, Tabanan Regency, Bali 82121, Indonesia
+  address: 'Beraban, Kediri, Tabanan Regency, Bali 82121, Indonesia'
   rating: 4.6
-  userRatingsTotal: 102702
-  googleMapsUrl: https://maps.google.com/?cid=14604015191502048617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 102899
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14604015191502048617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.621213
   lng: 115.086807
@@ -37,21 +43,43 @@ place:
 tags:
   - bali
   - top attraction
-quickAnswer: Tanah Lot is a 16th-century sea temple perched on a rock islet off Tabanan Regency's coast, about 45-60 minutes northwest of Seminyak/Canggu. Go for sunset (roughly 5:30-6:30pm depending on season), but arrive 2-3 hours early to beat tour-bus crowds and explore the surrounding clifftop paths and market stalls. At low tide you can walk across the sand to the base of the rock, though the inner temple is reserved for Hindu worshippers.
+quickAnswer: >-
+  Tanah Lot is a 16th-century sea temple perched on a rock islet off Tabanan
+  Regency's coast, about 45-60 minutes northwest of Seminyak/Canggu. Go for
+  sunset (roughly 5:30-6:30pm depending on season), but arrive 2-3 hours early
+  to beat tour-bus crowds and explore the surrounding clifftop paths and market
+  stalls. At low tide you can walk across the sand to the base of the rock,
+  though the inner temple is reserved for Hindu worshippers.
 faq:
   - q: How do I get to Tanah Lot from Seminyak or Ubud?
-    a: It's about 45-60 minutes by car from Seminyak/Canggu (roughly 20 km) and slightly longer from Ubud. Most visitors go by private driver, rented scooter, or as part of an organized day tour, since there's no direct public bus.
+    a: >-
+      It's about 45-60 minutes by car from Seminyak/Canggu (roughly 20 km) and
+      slightly longer from Ubud. Most visitors go by private driver, rented
+      scooter, or as part of an organized day tour, since there's no direct
+      public bus.
   - q: What is the best time to visit for sunset?
-    a: Arrive by mid-afternoon (2-3pm) to explore before the crowds build, then stay for sunset around 5:30-6:30pm depending on the season. Dry season (April-October) offers more reliable clear skies.
+    a: >-
+      Arrive by mid-afternoon (2-3pm) to explore before the crowds build, then
+      stay for sunset around 5:30-6:30pm depending on the season. Dry season
+      (April-October) offers more reliable clear skies.
   - q: Can visitors go inside the temple?
-    a: No — the inner sanctum is reserved for Hindu worshippers. Visitors can walk around the base of the rock at low tide and explore the surrounding cliffs, shrines, and Pura Batu Bolong nearby.
+    a: >-
+      No — the inner sanctum is reserved for Hindu worshippers. Visitors can
+      walk around the base of the rock at low tide and explore the surrounding
+      cliffs, shrines, and Pura Batu Bolong nearby.
   - q: How much time should I plan for the visit?
-    a: Plan on 1.5 to 2.5 hours, including the walk from the parking area through the market strip, time at both the main temple and Batu Bolong, and waiting for sunset if that's your goal.
+    a: >-
+      Plan on 1.5 to 2.5 hours, including the walk from the parking area through
+      the market strip, time at both the main temple and Batu Bolong, and
+      waiting for sunset if that's your goal.
   - q: What else is nearby worth combining with Tanah Lot?
-    a: Tanah Lot Beach's black sand shoreline is right there, and the Jatiluwih rice terraces (a UNESCO World Heritage site) are about 45 minutes further inland for a fuller day trip.
+    a: >-
+      Tanah Lot Beach's black sand shoreline is right there, and the Jatiluwih
+      rice terraces (a UNESCO World Heritage site) are about 45 minutes further
+      inland for a fuller day trip.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-28'
 ---
 
 ## Why go

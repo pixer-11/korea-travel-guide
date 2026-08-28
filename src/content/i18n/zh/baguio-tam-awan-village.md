@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: baguio-tam-awan-village
-srcHash: 'bcca35a0b076'
+srcHash: '5d4569b8a3f0'
 title: 达瓦湾村（Tam-awan Village）：碧瑶（Baguio）旅行指南（4.3★）
-description: 达瓦湾村（Tam-awan Village）是位于碧瑶（Baguio）北部山坡上的伊富高—卡林加（Ifugao-Kalinga）复原村落，有茅草屋、洞穴风格的艺术画廊，以及可俯瞰松林山脊的观景点。4.3★（2,709条评价）——游客怎么说、开放时间及游览建议。
+description: 达瓦湾村（Tam-awan Village）是位于碧瑶（Baguio）北部山坡上的伊富高—卡林加（Ifugao-Kalinga）复原村落，有茅草屋、洞穴风格的艺术画廊，以及可俯瞰松林山脊的观景点。4.3★（2,712条评价）——游客怎么说、开放时间及游览建议。
 quickAnswer: 达瓦湾村（Tam-awan Village）是位于碧瑶（Baguio）北部山坡上的伊富高—卡林加（Ifugao-Kalinga）复原村落，有茅草屋、洞穴风格的艺术画廊，以及可俯瞰松林山脊的观景点。安排1.5-2小时游览，每日7:00-20:00开放。最好开门就到——工作日7-9点、周末7-8点人最少，从上午中段到下午，停车场就会被旅游大巴占满。
 faq:
   - q: 游览达瓦湾村（Tam-awan Village）应该预留多长时间？

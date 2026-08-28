@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bangkok-national-museum-bangkok
-srcHash: '930b90b76c29'
+srcHash: '064d1f9f9f9c'
 title: 방콕 국립박물관 여행 가이드 (4.7★)
-description: 왕궁(Grand Palace) 근처 사남 루앙(Sanam Luang) 바로 북쪽에 위치한 방콕 국립박물관(National Museum Bangkok)은 동남아시아 최대 규모의 박물관으로, 왕실 유물, 장례용 마차, 불교 미술을 한자리에서 볼 수 있는 태국 최고의 장소입니다. 4.7★ (9,705개 리뷰) — 방문객들의 평가, 운영시간, 방문 팁을 확인하세요.
+description: 왕궁(Grand Palace) 근처 사남 루앙(Sanam Luang) 바로 북쪽에 위치한 방콕 국립박물관(National Museum Bangkok)은 동남아시아 최대 규모의 박물관으로, 왕실 유물, 장례용 마차, 불교 미술을 한자리에서 볼 수 있는 태국 최고의 장소입니다. 4.7★ (9,789개 리뷰) — 방문객들의 평가, 운영시간, 방문 팁을 확인하세요.
 quickAnswer: 왕궁(Grand Palace) 근처 사남 루앙(Sanam Luang) 바로 북쪽에 위치한 방콕 국립박물관(National Museum Bangkok)은 동남아시아 최대 규모의 박물관으로, 왕실 유물, 장례용 마차, 불교 미술을 한자리에서 볼 수 있는 태국 최고의 장소입니다. 2~3시간 정도 여유를 두고, 어깨와 무릎을 가리는 옷을 입으시고, 시간이 맞는다면 무료 영어 가이드 투어(수요일 또는 목요일 오전)를 이용해 보세요. 투어버스 인파와 뜨거운 더위를 피하려면 평일 오전 방문을 추천합니다.
 faq:
   - q: How much time should I set aside?

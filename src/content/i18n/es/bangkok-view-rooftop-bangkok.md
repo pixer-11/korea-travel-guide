@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bangkok-view-rooftop-bangkok
-srcHash: '18a2e7f6e30b'
+srcHash: '459983d4a97c'
 title: 'View Rooftop: Guía de viaje de Bangkok (4.8★)'
-description: 'View Rooftop está en el noveno piso del Novotel Bangkok Platinum Pratunam, un mirador discreto (no una de las torres gigantes de más de 60 pisos) que cambia altura por valor: tragos fríos, ambiente de bar de piscina y una vista panorámica del distrito textil de Pratunam. 4.8★ (2.030 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'View Rooftop está en el noveno piso del Novotel Bangkok Platinum Pratunam, un mirador discreto (no una de las torres gigantes de más de 60 pisos) que cambia altura por valor: tragos fríos, ambiente de bar de piscina y una vista panorámica del distrito textil de Pratunam. 4.8★ (2.103 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'View Rooftop está en el noveno piso del Novotel Bangkok Platinum Pratunam, un mirador discreto (no una de las torres gigantes de más de 60 pisos) que cambia altura por valor: tragos fríos, ambiente de bar de piscina y una vista panorámica del distrito textil de Pratunam. Ve justo antes del atardecer (aproximadamente entre las 5:30 y las 6:30pm según la temporada) para ver el cambio de luz sobre la ciudad antes de que llegue el gentío del hotel y del cercano Platinum Mall. Presupuesta para una o dos bebidas de gama media en lugar de una comida, y confirma los horarios actuales con el hotel antes de subir.'
 faq:
   - q: ¿Cómo llego a View Rooftop?

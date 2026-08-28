@@ -1,43 +1,52 @@
 ---
-title: "Pura Tirta Empul: Bali Travel Guide (4.6★)"
-description: "Pura Tirta Empul in Tampaksiring, Gianyar Regency, is Bali's most famous holy spring temple, where Hindu Balinese and travelers alike wade through purification pools to stand under a row of stone spouts. 4.6★ (30,624 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Bali"
-category: "attraction"
-pubDate: "2026-08-26T08:04:29.083Z"
+title: 'Pura Tirta Empul: Bali Travel Guide (4.6★)'
+description: >-
+  Pura Tirta Empul in Tampaksiring, Gianyar Regency, is Bali's most famous holy
+  spring temple, where Hindu Balinese and travelers alike wade through
+  purification pools to stand under a row of stone spouts. 4.6★ (30,652 reviews)
+  — what visitors say, hours, and tips.
+country: Indonesia
+region: Bali
+category: attraction
+pubDate: '2026-08-26T08:04:29.083Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg/1920px-Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bali_-_bathing_(Melukat)_at_Pura_Tirta_Empul_(2025)_-_img_07.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg/1920px-Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bali_-_bathing_(Melukat)_at_Pura_Tirta_Empul_(2025)_-_img_07.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_03.jpg/3840px-Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_03.jpg"
-    credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bali_-_bathing_(Melukat)_at_Pura_Tirta_Empul_(2025)_-_img_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_03.jpg/3840px-Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_03.jpg
+    credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bali_-_bathing_(Melukat)_at_Pura_Tirta_Empul_(2025)_-_img_03.jpg
 place:
-  id: "ChIJtTFh4PQY0i0RwewUdwFaolM"
-  name: "Pura Tirta Empul"
-  address: "Tampaksiring, Gianyar Regency, Bali 80552, Indonesia"
+  id: ChIJtTFh4PQY0i0RwewUdwFaolM
+  name: Pura Tirta Empul
+  address: 'Tampaksiring, Gianyar Regency, Bali 80552, Indonesia'
   rating: 4.6
-  userRatingsTotal: 30624
-  googleMapsUrl: "https://maps.google.com/?cid=6026478213714472129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30652
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6026478213714472129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.4156589
   lng: 115.3153284
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -54,24 +63,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4d6c6f61467764557765775230693059515034684654744a496843"
+    venueId: ven_4d6c6f61467764557765775230693059515034684654744a496843
 tags:
-  - "bali"
-  - "historic site"
-quickAnswer: "Pura Tirta Empul in Tampaksiring, Gianyar Regency, is Bali's most famous holy spring temple, where Hindu Balinese and travelers alike wade through purification pools to stand under a row of stone spouts. It's open daily 8am–6pm; the quietest window is 8am–10am, before tour buses fill the lanes by 11am. Budget 1.5–2 hours, bring a sarong (or rent one on-site), and expect the courtyard to be shoulder-to-shoulder between 11am and 4pm on weekends."
+  - bali
+  - historic site
+quickAnswer: >-
+  Pura Tirta Empul in Tampaksiring, Gianyar Regency, is Bali's most famous holy
+  spring temple, where Hindu Balinese and travelers alike wade through
+  purification pools to stand under a row of stone spouts. It's open daily
+  8am–6pm; the quietest window is 8am–10am, before tour buses fill the lanes by
+  11am. Budget 1.5–2 hours, bring a sarong (or rent one on-site), and expect the
+  courtyard to be shoulder-to-shoulder between 11am and 4pm on weekends.
 faq:
-  - q: "What are the opening hours for Pura Tirta Empul?"
-    a: "It's open daily from 8:00 AM to 6:00 PM, with no day-of-week closures listed."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 10am. Try to arrive right at opening to avoid the 11am–4pm weekend rush."
-  - q: "Do I need to bring my own sarong?"
-    a: "No — sarongs can be rented or bought for a small fee at the entrance, but bringing your own saves a few minutes and rupiah."
-  - q: "How long should I plan for the visit?"
-    a: "Budget 1.5 to 2 hours, including time to change, queue at the bathing spouts, and dry off afterward."
-  - q: "Is there anything else to see nearby?"
-    a: "Soekarno's former summer palace sits just behind the temple on higher ground, and Gunung Kawi's river-gorge shrines are a short drive away in Tampaksiring."
+  - q: What are the opening hours for Pura Tirta Empul?
+    a: >-
+      It's open daily from 8:00 AM to 6:00 PM, with no day-of-week closures
+      listed.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 10am. Try to arrive
+      right at opening to avoid the 11am–4pm weekend rush.
+  - q: Do I need to bring my own sarong?
+    a: >-
+      No — sarongs can be rented or bought for a small fee at the entrance, but
+      bringing your own saves a few minutes and rupiah.
+  - q: How long should I plan for the visit?
+    a: >-
+      Budget 1.5 to 2 hours, including time to change, queue at the bathing
+      spouts, and dry off afterward.
+  - q: Is there anything else to see nearby?
+    a: >-
+      Soekarno's former summer palace sits just behind the temple on higher
+      ground, and Gunung Kawi's river-gorge shrines are a short drive away in
+      Tampaksiring.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

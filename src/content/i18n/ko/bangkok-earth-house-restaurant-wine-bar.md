@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bangkok-earth-house-restaurant-wine-bar
-srcHash: '62a966d5b665'
+srcHash: '38ea5538b09b'
 title: '어스 하우스(Earth House) | 레스토랑 | 와인 바: 방콕 맛집 가이드'
-description: 어스 하우스(Earth House)는 왓타나(Watthana)의 수쿰빗 53 골목(Soi Sukhumvit 53) 안쪽에 자리한 플랜트 포워드 레스토랑 겸 와인 바로, 통로 BTS(Thong Lo BTS)에서 도보로 잠깐이면 닿는 거리에 있습니다. 4.8★(리뷰 428개) — 방문객들의 후기, 영업시간, 방문 팁까지 한눈에 확인하세요.
+description: 어스 하우스(Earth House)는 왓타나(Watthana)의 수쿰빗 53 골목(Soi Sukhumvit 53) 안쪽에 자리한 플랜트 포워드 레스토랑 겸 와인 바로, 통로 BTS(Thong Lo BTS)에서 도보로 잠깐이면 닿는 거리에 있습니다. 4.8★(리뷰 435개) — 방문객들의 후기, 영업시간, 방문 팁까지 한눈에 확인하세요.
 quickAnswer: 어스 하우스(Earth House)는 왓타나(Watthana)의 수쿰빗 53 골목(Soi Sukhumvit 53) 안쪽에 자리한 플랜트 포워드 레스토랑 겸 와인 바로, 통로 BTS(Thong Lo BTS)에서 도보로 잠깐이면 닿는 거리에 있습니다. 주말 오전에는 브런치 메뉴를 즐길 수 있고, 마감 무렵인 오후 10~11시에 가면 한산한 편입니다. 월요일은 휴무이며, 평일에는 오후 1시 30분이 되어야 영업을 시작합니다.
 faq:
   - q: BTS에서 어스 하우스까지 어떻게 가나요?

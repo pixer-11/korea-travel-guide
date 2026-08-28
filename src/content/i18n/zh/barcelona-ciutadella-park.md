@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: barcelona-ciutadella-park
-srcHash: 'f5c15d55d85f'
+srcHash: '0e802e64e3f0'
 title: 城堡公园（Ciutadella Park）：巴塞罗那旅行指南（4.6★）
-description: 城堡公园是巴塞罗那最壮观的绿地，就位于哥特式拱门凯旋门（Arc de Triomf）后方的旧城区（Ciutat Vella），坐拥宏伟的瀑布喷泉（Cascada）、划船湖、加泰罗尼亚议会大楼以及巴塞罗那动物园。4.6★（77,895条评价）——游客怎么说、开放时间与实用建议。
+description: 城堡公园是巴塞罗那最壮观的绿地，就位于哥特式拱门凯旋门（Arc de Triomf）后方的旧城区（Ciutat Vella），坐拥宏伟的瀑布喷泉（Cascada）、划船湖、加泰罗尼亚议会大楼以及巴塞罗那动物园。4.6★（78,104条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 城堡公园是巴塞罗那最壮观的绿地，就位于哥特式拱门凯旋门（Arc de Triomf）后方的旧城区（Ciutat Vella），坐拥宏伟的瀑布喷泉（Cascada）、划船湖、加泰罗尼亚议会大楼以及巴塞罗那动物园。建议步行或乘地铁到凯旋门站（Arc de Triomf，L1线），最好在清晨（早上7点至9点）前往，可以避开人群和旅游大巴；周末上午11点到晚上8点会非常拥挤。
 faq:
   - q: 如何前往城堡公园（Ciutadella Park）？

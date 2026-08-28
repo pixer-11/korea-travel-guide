@@ -1,43 +1,56 @@
 ---
 title: 'Basilica of the Sagrada Familia: Barcelona Travel Guide'
-description: Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer) and arrive 15 minutes before your slot.
+description: >-
+  Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer)
+  and arrive 15 minutes before your slot.
 country: Spain
 region: Barcelona
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/142920510_5MNmXEb8ip1sdHdwvIBgAEOa1j8sQHOlIP2mixeKSws.jpg
-  credit: 'Photo: Foursquare user content (The Basilica of the Sagrada Familia (Temple Expiatori de la Sagrada Família))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/142920510_5MNmXEb8ip1sdHdwvIBgAEOa1j8sQHOlIP2mixeKSws.jpg
+  credit: >-
+    Photo: Foursquare user content (The Basilica of the Sagrada Familia (Temple
+    Expiatori de la Sagrada Família))
   license: foursquare
-  source: https://foursquare.com/v/4adcda50f964a520544121e3
+  source: 'https://foursquare.com/v/4adcda50f964a520544121e3'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sagrada_Familia_March_2015-10a.jpg/1920px-Sagrada_Familia_March_2015-10a.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sagrada_Familia_March_2015-10a.jpg/1920px-Sagrada_Familia_March_2015-10a.jpg
     credit: 'Photo: Alvesgaspar / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Sagrada_Familia_March_2015-10a.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Sagrada_Familia_March_2015-10a.jpg'
 place:
   id: ChIJk_s92NyipBIRUMnDG8Kq2Js
   name: Basilica of the Sagrada Familia
-  address: Carrer de Mallorca, 401, Eixample, 08013 Barcelona, Spain
+  address: 'Carrer de Mallorca, 401, Eixample, 08013 Barcelona, Spain'
   rating: 4.8
-  userRatingsTotal: 326412
-  googleMapsUrl: https://maps.google.com/?cid=11229913421514525008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 330508
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11229913421514525008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.4036299
   lng: 2.1743558
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [9, 18, 19]
+    weekdayQuiet:
+      - 9
+      - 18
+      - 19
     weekdayBusy:
       - 12
       - 13
       - 14
       - 15
       - 16
-    weekendQuiet: [9, 18, 19]
+    weekendQuiet:
+      - 9
+      - 18
+      - 19
     weekendBusy:
       - 11
       - 12
@@ -47,7 +60,7 @@ place:
       - 16
       - 17
     venueId: ven_734a32714b3847446e4d555249427069794e3239735f6b4a496843
-  phone: '+34 932 08 04 14'
+  phone: +34 932 08 04 14
   openingHours:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'
@@ -59,20 +72,38 @@ place:
 tags:
   - barcelona
   - Sagrada Familia
-quickAnswer: Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer) and arrive 15 minutes before your slot. Go for the first morning entry (9:00) or the last of the day for softer light through the stained glass, and budget 90 minutes to 2 hours inside, more if you add a tower climb. The nearest metro stop, Sagrada Família (Lines 2 and 5), puts you right at the door.
+quickAnswer: >-
+  Book a timed-entry ticket online at least 2-3 weeks ahead (longer in summer)
+  and arrive 15 minutes before your slot. Go for the first morning entry (9:00)
+  or the last of the day for softer light through the stained glass, and budget
+  90 minutes to 2 hours inside, more if you add a tower climb. The nearest metro
+  stop, Sagrada Família (Lines 2 and 5), puts you right at the door.
 faq:
   - q: How do I get to the Sagrada Família by public transport?
-    a: Take the metro to Sagrada Família station, served by Line 2 (purple) and Line 5 (blue) — the exits open directly onto the plaza in front of the basilica.
+    a: >-
+      Take the metro to Sagrada Família station, served by Line 2 (purple) and
+      Line 5 (blue) — the exits open directly onto the plaza in front of the
+      basilica.
   - q: How far in advance should I book tickets?
-    a: Book online at least 2-3 weeks ahead; in peak season (April-September) popular time slots can sell out a month or more in advance.
+    a: >-
+      Book online at least 2-3 weeks ahead; in peak season (April-September)
+      popular time slots can sell out a month or more in advance.
   - q: How long should I plan to spend there?
-    a: Allow 60-90 minutes for the nave, facades, and museum, plus another 45 minutes if you add a tower climb.
+    a: >-
+      Allow 60-90 minutes for the nave, facades, and museum, plus another 45
+      minutes if you add a tower climb.
   - q: Is the tower climb worth it?
-    a: Yes for the close-up spire views and rooftop panorama, but note there's typically an elevator up and a narrow spiral staircase down, so it's less suited to those with mobility issues or claustrophobia.
+    a: >-
+      Yes for the close-up spire views and rooftop panorama, but note there's
+      typically an elevator up and a narrow spiral staircase down, so it's less
+      suited to those with mobility issues or claustrophobia.
   - q: What else is nearby worth visiting?
-    a: Other Gaudí landmarks, Casa Milà and Casa Batlló, are a short metro ride away on Passeig de Gràcia, and the surrounding Eixample district has plenty of cafes and tapas bars for a post-visit break.
+    a: >-
+      Other Gaudí landmarks, Casa Milà and Casa Batlló, are a short metro ride
+      away on Passeig de Gràcia, and the surrounding Eixample district has
+      plenty of cafes and tapas bars for a post-visit break.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-28'
 ---
 
 ## Why go

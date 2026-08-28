@@ -1,26 +1,33 @@
 ---
 title: 'Livingstone: Bali Travel Guide'
-description: Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day spots (4.8 stars, 14,000+ reviews).
+description: >-
+  Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in
+  Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed
+  all-day spots (4.8 stars, 14,000+ reviews).
 country: Indonesia
 region: Bali
 category: trendy
 pubDate: '2026-07-23T07:21:51.450Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/592686754_Nt7KrF0nDSq-wC8DIRXW9p0X0RhFLGJzxUaaqcoeBeU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/592686754_Nt7KrF0nDSq-wC8DIRXW9p0X0RhFLGJzxUaaqcoeBeU.jpg
   credit: 'Photo: Foursquare user content (Livingstone)'
   license: foursquare
-  source: https://foursquare.com/v/52d380d6498e5e87472f2b7f
+  source: 'https://foursquare.com/v/52d380d6498e5e87472f2b7f'
   focus:
     x: 30
-    y: 60
+    'y': 60
 place:
   id: ChIJv-pCBGtH0i0RtjgHkk_uF-g
   name: Livingstone
-  address: Jl. Petitenget No.88X, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia
+  address: >-
+    Jl. Petitenget No.88X, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung,
+    Bali 80361, Indonesia
   rating: 4.8
-  userRatingsTotal: 14187
+  userRatingsTotal: 14418
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=16724097766783400118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16724097766783400118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.6717861
   lng: 115.16142219999998
@@ -57,20 +64,40 @@ place:
 tags:
   - bali
   - trendy cafe
-quickAnswer: Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day spots (4.8 stars, 14,000+ reviews). Go on a weekday morning to actually get a table without a wait, expect mid-range prices (roughly 100,000–180,000 IDR for mains, cocktails a bit more), and book ahead for dinner or weekends.
+quickAnswer: >-
+  Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in
+  Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed
+  all-day spots (4.8 stars, 14,000+ reviews). Go on a weekday morning to
+  actually get a table without a wait, expect mid-range prices (roughly
+  100,000–180,000 IDR for mains, cocktails a bit more), and book ahead for
+  dinner or weekends.
 faq:
   - q: Do I need a reservation at Livingstone?
-    a: It's not always required for small groups at off-peak hours, but given its popularity (4.8 rating, 14,000+ reviews), booking ahead is strongly recommended for dinner, weekends, and larger parties.
+    a: >-
+      It's not always required for small groups at off-peak hours, but given its
+      popularity (4.8 rating, 14,000+ reviews), booking ahead is strongly
+      recommended for dinner, weekends, and larger parties.
   - q: How much does a meal cost?
-    a: It sits at a moderate price level for Bali — expect mid-range prices for mains and slightly higher for cocktails. Exact prices shift, so check the current menu on-site or via their listed contact channels.
+    a: >-
+      It sits at a moderate price level for Bali — expect mid-range prices for
+      mains and slightly higher for cocktails. Exact prices shift, so check the
+      current menu on-site or via their listed contact channels.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings around opening time or the 3–5pm gap between lunch and dinner tend to be quieter than weekend brunch or evening hours.
+    a: >-
+      Weekday mornings around opening time or the 3–5pm gap between lunch and
+      dinner tend to be quieter than weekend brunch or evening hours.
   - q: How do I get to Livingstone without a car?
-    a: Ride-hailing apps like Gojek or Grab cover the area, though you may need to walk a short distance to a designated pickup point on Jl. Petitenget. Scooter rental is the most flexible option for getting around Kerobokan.
+    a: >-
+      Ride-hailing apps like Gojek or Grab cover the area, though you may need
+      to walk a short distance to a designated pickup point on Jl. Petitenget.
+      Scooter rental is the most flexible option for getting around Kerobokan.
   - q: What's nearby if I want to make a half-day of it?
-    a: Petitenget Beach, several beach clubs, and Seminyak's main shopping streets are all a short drive or scooter ride from Livingstone, making it easy to pair with a beach or shopping stop.
+    a: >-
+      Petitenget Beach, several beach clubs, and Seminyak's main shopping
+      streets are all a short drive or scooter ride from Livingstone, making it
+      easy to pair with a beach or shopping stop.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-28'
 ---
 ## Why Livingstone Is on Every Petitenget Itinerary
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bali-pura-tirta-empul
-srcHash: 'c20c8f5dda65'
+srcHash: 'b9b34926efe3'
 title: 'Pura Tirta Empul: Guía de viaje de Bali (4.6★)'
-description: 'Pura Tirta Empul, en Tampaksiring, en la regencia de Gianyar, es el templo de manantial sagrado más famoso de Bali, donde tanto hindúes balineses como viajeros se adentran en las piscinas de purificación para colocarse bajo una hilera de surtidores de piedra. 4.6★ (30,624 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Pura Tirta Empul, en Tampaksiring, en la regencia de Gianyar, es el templo de manantial sagrado más famoso de Bali, donde tanto hindúes balineses como viajeros se adentran en las piscinas de purificación para colocarse bajo una hilera de surtidores de piedra. 4.6★ (30,652 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Pura Tirta Empul, en Tampaksiring, en la regencia de Gianyar, es el templo de manantial sagrado más famoso de Bali, donde tanto hindúes balineses como viajeros se adentran en las piscinas de purificación para colocarse bajo una hilera de surtidores de piedra. Abre todos los días de 8:00 a 18:00; el momento más tranquilo es entre las 8:00 y las 10:00, antes de que los autobuses turísticos llenen los pasillos hacia las 11:00. Conviene reservar entre 1.5 y 2 horas, llevar un sarong (o alquilar uno en el propio recinto) y tener en cuenta que el patio se llena de gente entre las 11:00 y las 16:00 los fines de semana.
 faq:
   - q: ¿Cuál es el horario de apertura de Pura Tirta Empul?

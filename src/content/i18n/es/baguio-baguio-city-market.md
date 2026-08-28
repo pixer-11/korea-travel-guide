@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: baguio-baguio-city-market
-srcHash: '4faf6ed29c7a'
+srcHash: '86eeb55b44f2'
 title: 'Mercado de la Ciudad de Baguio: Guía de Viaje (4.3★)'
-description: El Mercado de la Ciudad de Baguio (Baguio City Market) se extiende por Magsaysay Avenue y abre todos los días de 4am a 7pm; lo mejor es ir temprano — de 7am a 9am entre semana o de 7am a 8am los fines de semana es cuando está más tranquilo. 4.3★ (11,740 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Mercado de la Ciudad de Baguio (Baguio City Market) se extiende por Magsaysay Avenue y abre todos los días de 4am a 7pm; lo mejor es ir temprano — de 7am a 9am entre semana o de 7am a 8am los fines de semana es cuando está más tranquilo. 4.3★ (11,756 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Mercado de la Ciudad de Baguio (Baguio City Market) se extiende por Magsaysay Avenue y abre todos los días de 4am a 7pm; lo mejor es ir temprano — de 7am a 9am entre semana o de 7am a 8am los fines de semana es cuando está más tranquilo. Evita el horario de mediodía a 6pm los fines de semana, cuando se llena de gente. Ve por las fresas, verduras de montaña, mermelada de ube, textiles tejidos y café de Benguet, y calcula una hora o dos para recorrer bien las secciones techadas.
 faq:
   - q: ¿Cuál es el horario del Mercado de la Ciudad de Baguio?

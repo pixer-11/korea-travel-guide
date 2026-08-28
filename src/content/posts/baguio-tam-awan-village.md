@@ -1,30 +1,37 @@
 ---
 title: 'Tam-awan Village: Baguio Travel Guide (4.3★)'
-description: Tam-awan Village is a reconstructed Ifugao-Kalinga hillside village in northern Baguio, with thatched huts, cave-like art galleries, and viewpoints over pine ridges. 4.3★ (2,709 reviews) — what visitors say, hours, and tips.
+description: >-
+  Tam-awan Village is a reconstructed Ifugao-Kalinga hillside village in
+  northern Baguio, with thatched huts, cave-like art galleries, and viewpoints
+  over pine ridges. 4.3★ (2,712 reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Baguio
 category: attraction
 pubDate: '2026-08-10T09:24:23.877Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1359365088_aLYytEI6yFVn8V-cyNXZx3r7m4pZIBcAHQPzxtJavwc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1359365088_aLYytEI6yFVn8V-cyNXZx3r7m4pZIBcAHQPzxtJavwc.jpg
   credit: 'Photo: Foursquare user content (Tam-awan Village)'
   license: foursquare
-  source: https://foursquare.com/v/4d9641362bd6f04d874d3250
+  source: 'https://foursquare.com/v/4d9641362bd6f04d874d3250'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/6/65/Traditional_Ifugao_hut_in_Tam-Awan_cultural_village.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/65/Traditional_Ifugao_hut_in_Tam-Awan_cultural_village.jpg
     credit: 'Photo: Ilya Batuev / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Traditional_Ifugao_hut_in_Tam-Awan_cultural_village.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Traditional_Ifugao_hut_in_Tam-Awan_cultural_village.jpg
 place:
   id: ChIJP0aG-tSjkTMRr56IllZArzc
   name: Tam-awan Village
-  address: 366-C Long Long Benguet Rd, Baguio, 2600 Benguet, Philippines
+  address: '366-C Long Long Benguet Rd, Baguio, 2600 Benguet, Philippines'
   rating: 4.3
-  userRatingsTotal: 2709
-  googleMapsUrl: https://maps.google.com/?cid=4012496533647302319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2712
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4012496533647302319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.4296517
   lng: 120.5763849
@@ -58,19 +65,34 @@ place:
 tags:
   - baguio
   - top attraction
-quickAnswer: Tam-awan Village is a reconstructed Ifugao-Kalinga hillside village in northern Baguio, with thatched huts, cave-like art galleries, and viewpoints over pine ridges. Give it 1.5–2 hours, open daily 7am–8pm. Go right at opening — weekdays 7–9am and weekends 7–8am are the quietest, before tour buses fill the parking area from mid-morning through the afternoon.
+quickAnswer: >-
+  Tam-awan Village is a reconstructed Ifugao-Kalinga hillside village in
+  northern Baguio, with thatched huts, cave-like art galleries, and viewpoints
+  over pine ridges. Give it 1.5–2 hours, open daily 7am–8pm. Go right at opening
+  — weekdays 7–9am and weekends 7–8am are the quietest, before tour buses fill
+  the parking area from mid-morning through the afternoon.
 faq:
   - q: How much time should I set aside for Tam-awan Village?
-    a: Plan for 1.5 to 2 hours to walk the huts, galleries, and viewpoints — longer if you stop at Cafe Sabel or catch an art workshop.
+    a: >-
+      Plan for 1.5 to 2 hours to walk the huts, galleries, and viewpoints —
+      longer if you stop at Cafe Sabel or catch an art workshop.
   - q: When is the quietest time to visit?
-    a: Weekdays between 7am and 9am, or weekends between 7am and 8am — right at opening, before weekend crowds build between 9am and 6pm.
+    a: >-
+      Weekdays between 7am and 9am, or weekends between 7am and 8am — right at
+      opening, before weekend crowds build between 9am and 6pm.
   - q: How do I get to Tam-awan Village from central Baguio?
-    a: Taxi or Grab is easiest, about 15–20 minutes depending on traffic. There's no direct jeepney, so arrange a ride both ways, including the return trip since taxis rarely wait there.
+    a: >-
+      Taxi or Grab is easiest, about 15–20 minutes depending on traffic. There's
+      no direct jeepney, so arrange a ride both ways, including the return trip
+      since taxis rarely wait there.
   - q: What's nearby that I can combine with this visit?
-    a: BenCab Museum is a short drive further along the same road and pairs naturally with Tam-awan for a fuller day on Cordillera art and culture.
+    a: >-
+      BenCab Museum is a short drive further along the same road and pairs
+      naturally with Tam-awan for a fuller day on Cordillera art and culture.
   - q: Is it open every day?
-    a: Yes, Tam-awan Village is open daily from 7:00 AM to 8:00 PM.
+    a: 'Yes, Tam-awan Village is open daily from 7:00 AM to 8:00 PM.'
 aiGenerated: true
+updatedDate: '2026-08-28'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bali-bali-botanical-garden
-srcHash: 'd3c3b90c2e60'
+srcHash: '823fbac0e292'
 title: 'Jardín Botánico de Bali: Guía de viaje (4.6★)'
-description: 'El Jardín Botánico de Bali (Kebun Raya Bali) se encuentra en Candikuning, en las frescas tierras altas cerca de Bedugul, en el distrito de Tabanan, a unos 90 minutos al norte de Denpasar o Ubud. 4.6★ (18.488 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Jardín Botánico de Bali (Kebun Raya Bali) se encuentra en Candikuning, en las frescas tierras altas cerca de Bedugul, en el distrito de Tabanan, a unos 90 minutos al norte de Denpasar o Ubud. 4.6★ (18.497 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Bali (Kebun Raya Bali) se encuentra en Candikuning, en las frescas tierras altas cerca de Bedugul, en el distrito de Tabanan, a unos 90 minutos al norte de Denpasar o Ubud. Abre de 8:00 a 16:00 los días de semana y de 8:00 a 17:00 los fines de semana, y es un lugar realmente popular, así que conviene ir un día de semana por la mañana, cerca de la apertura, para evitar las multitudes de autobuses turísticos. Si además quieres subir al circuito de tirolinas entre los árboles, reserva medio día en total.
 faq:
   - q: ¿Cómo se llega al Jardín Botánico de Bali?

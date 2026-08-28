@@ -1,30 +1,36 @@
 ---
 title: AVLI in Bali
-description: AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf breaks and clifftop clubs.
+description: >-
+  AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu,
+  on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf
+  breaks and clifftop clubs.
 country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1408858710_Kv9008tNTkE9Gtu4qHw413WqY6RN2XOrn28PhKtZF4I.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1408858710_Kv9008tNTkE9Gtu4qHw413WqY6RN2XOrn28PhKtZF4I.jpg
   credit: 'Photo: Foursquare user content (Avli Modern Greek)'
   license: foursquare
-  source: https://foursquare.com/v/68a31c3999ca3f5db4bfee4e
+  source: 'https://foursquare.com/v/68a31c3999ca3f5db4bfee4e'
   focus:
     x: 30
-    y: 45
+    'y': 45
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/4089262_VGF_qoxkBVJvDYk2SD6aJFoKIWYtxlh50O-8mTolHfg.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/4089262_VGF_qoxkBVJvDYk2SD6aJFoKIWYtxlh50O-8mTolHfg.jpg
     credit: 'Photo: Foursquare user content (Avli Modern Greek)'
     license: foursquare
-    source: https://foursquare.com/v/68a31c3999ca3f5db4bfee4e
+    source: 'https://foursquare.com/v/68a31c3999ca3f5db4bfee4e'
 place:
   id: ChIJ0wOlGBpF0i0Rkf6i93H-rxM
   name: AVLI Uluwatu - Modern Greek
-  address: 53MW+98H, Pecatu, South Kuta, Badung Regency, Bali 80361, Indonesia
+  address: '53MW+98H, Pecatu, South Kuta, Badung Regency, Bali 80361, Indonesia'
   rating: 4.8
-  userRatingsTotal: 965
-  googleMapsUrl: https://maps.google.com/?cid=1418632173084409489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1112
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1418632173084409489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -8.8165625
   lng: 115.09581249999998
@@ -37,23 +43,45 @@ place:
     - 'Friday: 5:00 PM – 1:00 AM'
     - 'Saturday: 5:00 PM – 1:00 AM'
     - 'Sunday: 5:00 PM – 1:00 AM'
+  priceLevel: 4
 tags:
   - bali
   - new & trending
-quickAnswer: AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf breaks and clifftop clubs. It's designed by architecture practice DA Bureau and stands out as one of the few dedicated Mediterranean/Greek concepts in Bali's crowded upscale dining scene. Because it's a recent opening, confirm current hours, menu, and whether reservations are required before heading over.
+quickAnswer: >-
+  AVLI is a new 700 sqm modern Greek restaurant on Jalan Labuansait in Uluwatu,
+  on Bali's Bukit Peninsula — the same strip that feeds into Uluwatu's surf
+  breaks and clifftop clubs. It's designed by architecture practice DA Bureau
+  and stands out as one of the few dedicated Mediterranean/Greek concepts in
+  Bali's crowded upscale dining scene. Because it's a recent opening, confirm
+  current hours, menu, and whether reservations are required before heading
+  over.
 faq:
   - q: Where exactly is AVLI located?
-    a: On Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the main street running toward the Uluwatu surf break and Single Fin.
+    a: >-
+      On Jalan Labuansait in Uluwatu, on Bali's Bukit Peninsula — the main
+      street running toward the Uluwatu surf break and Single Fin.
   - q: How do I get to AVLI without a car?
-    a: Use Gojek or Grab ride-hailing apps, common across Bali, though pickup times on the Bukit can be slower than in Kuta or Seminyak. Most visitors get around Uluwatu by scooter or private driver.
+    a: >-
+      Use Gojek or Grab ride-hailing apps, common across Bali, though pickup
+      times on the Bukit can be slower than in Kuta or Seminyak. Most visitors
+      get around Uluwatu by scooter or private driver.
   - q: What kind of food does AVLI serve?
-    a: It's a modern Greek restaurant, a rare cuisine niche on the Bukit Peninsula, though the specific menu should be confirmed directly with the restaurant since it's a new opening.
+    a: >-
+      It's a modern Greek restaurant, a rare cuisine niche on the Bukit
+      Peninsula, though the specific menu should be confirmed directly with the
+      restaurant since it's a new opening.
   - q: Do I need a reservation?
-    a: As a newly opened, buzzed-about spot, booking ahead is recommended, especially for weekend dinners or sunset-adjacent time slots.
+    a: >-
+      As a newly opened, buzzed-about spot, booking ahead is recommended,
+      especially for weekend dinners or sunset-adjacent time slots.
   - q: What else can I combine with a visit?
-    a: Uluwatu Temple (Pura Luhur Uluwatu) and its sunset Kecak dance, plus Padang Padang Beach and the Uluwatu surf break, are all within a short drive.
+    a: >-
+      Uluwatu Temple (Pura Luhur Uluwatu) and its sunset Kecak dance, plus
+      Padang Padang Beach and the Uluwatu surf break, are all within a short
+      drive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 ## Why go
 

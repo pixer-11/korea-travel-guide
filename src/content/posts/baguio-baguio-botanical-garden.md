@@ -1,43 +1,50 @@
 ---
-title: "Baguio Botanical Garden: Travel Guide (4.5★)"
-description: "Baguio Botanical Garden is a free, open-air park on Leonard Wood Road, best known for its pine-shaded paths, Cordillera-style native huts, and flower gardens. 4.5★ (8,337 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Baguio"
-category: "attraction"
-pubDate: "2026-08-22T08:05:30.975Z"
+title: 'Baguio Botanical Garden: Travel Guide (4.5★)'
+description: >-
+  Baguio Botanical Garden is a free, open-air park on Leonard Wood Road, best
+  known for its pine-shaded paths, Cordillera-style native huts, and flower
+  gardens. 4.5★ (8,339 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Baguio
+category: attraction
+pubDate: '2026-08-22T08:05:30.975Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Baguio_Botanical_Garden%2C_March_2023.jpg/1920px-Baguio_Botanical_Garden%2C_March_2023.jpg"
-  credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Baguio_Botanical_Garden,_March_2023.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Baguio_Botanical_Garden%2C_March_2023.jpg/1920px-Baguio_Botanical_Garden%2C_March_2023.jpg
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Baguio_Botanical_Garden,_March_2023.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/5520759_AW21lDedVVaX5DiheLH0tA8kfx4MAbX_aOo1R8qlBR0.jpg"
-    credit: "Photo: Foursquare user content (Baguio Botanical Garden)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4dbe8acacda109aa6ccba2c7"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/5520759_AW21lDedVVaX5DiheLH0tA8kfx4MAbX_aOo1R8qlBR0.jpg
+    credit: 'Photo: Foursquare user content (Baguio Botanical Garden)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4dbe8acacda109aa6ccba2c7'
 place:
-  id: "ChIJJ3IMHFShkTMR0mgoul-AOmc"
-  name: "Baguio Botanical Garden"
-  address: "37 Leonard Wood Rd, Baguio, 2600 Benguet, Philippines"
+  id: ChIJJ3IMHFShkTMR0mgoul-AOmc
+  name: Baguio Botanical Garden
+  address: '37 Leonard Wood Rd, Baguio, 2600 Benguet, Philippines'
   rating: 4.5
-  userRatingsTotal: 8337
-  googleMapsUrl: "https://maps.google.com/?cid=7438398883189254354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8339
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7438398883189254354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.4150118
   lng: 120.61290640000001
   openingHours:
-    - "Monday: 6:00 AM – 6:00 PM"
-    - "Tuesday: 6:00 AM – 6:00 PM"
-    - "Wednesday: 6:00 AM – 6:00 PM"
-    - "Thursday: 6:00 AM – 6:00 PM"
-    - "Friday: 6:00 AM – 6:00 PM"
-    - "Saturday: 6:00 AM – 6:00 PM"
-    - "Sunday: 6:00 AM – 6:00 PM"
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,24 +60,39 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_636d4f412d6c756f676d30524d546b685346484d49334a4a496843"
+    venueId: ven_636d4f412d6c756f676d30524d546b685346484d49334a4a496843
 tags:
-  - "baguio"
-  - "park"
-quickAnswer: "Baguio Botanical Garden is a free, open-air park on Leonard Wood Road, best known for its pine-shaded paths, Cordillera-style native huts, and flower gardens. It's open daily 6am–6pm and gets busy fast — go on a weekday, or before 8am on weekends, to have the paths to yourself."
+  - baguio
+  - park
+quickAnswer: >-
+  Baguio Botanical Garden is a free, open-air park on Leonard Wood Road, best
+  known for its pine-shaded paths, Cordillera-style native huts, and flower
+  gardens. It's open daily 6am–6pm and gets busy fast — go on a weekday, or
+  before 8am on weekends, to have the paths to yourself.
 faq:
-  - q: "How much does it cost to enter Baguio Botanical Garden?"
-    a: "There's no official admission fee, though donation boxes and small charges for photo props or vendor stalls are common inside."
-  - q: "What are the opening hours?"
-    a: "The garden is open daily from 6:00 AM to 6:00 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the day. On weekends, arrive between 7am and 8am — crowds build quickly from 9am to 5pm."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour walking the full loop, including the native huts and upper pine paths."
-  - q: "What's nearby?"
-    a: "Wright Park and the Mansion House gate are both a short walk downhill, making an easy combined half-day visit."
+  - q: How much does it cost to enter Baguio Botanical Garden?
+    a: >-
+      There's no official admission fee, though donation boxes and small charges
+      for photo props or vendor stalls are common inside.
+  - q: What are the opening hours?
+    a: >-
+      The garden is open daily from 6:00 AM to 6:00 PM, with no weekly closing
+      day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calm throughout the day. On weekends, arrive between 7am and
+      8am — crowds build quickly from 9am to 5pm.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45 minutes to an hour walking the full loop, including
+      the native huts and upper pine paths.
+  - q: What's nearby?
+    a: >-
+      Wright Park and the Mansion House gate are both a short walk downhill,
+      making an easy combined half-day visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-28'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
