@@ -614,15 +614,26 @@ jobs:
       # inside Palawan.
       - name: Verify photo identity against Commons
         continue-on-error: true
-        # --strip edits post files on the RUNNER — and the day's content
-        # commit+push sits ABOVE this step, so for six days the strip removed
-        # a Hong Kong congee-shop photo from the Gardena guide and the removal
-        # evaporated with the runner (found 2026-08-14 via an unrelated
-        # dark-tile alarm; daegu-trendy-cafe's Mumbai hero survived the same
-        # way). Same lesson as the gate: a repair that runs after the push
-        # never happened. Commit what the strip changed.
+        run: node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30
+
+      # --strip edits post files on the RUNNER — and the day's content
+      # commit+push sits ABOVE this step, so for six days the strip removed
+      # a Hong Kong congee-shop photo from the Gardena guide and the removal
+      # evaporated with the runner (found 2026-08-14 via an unrelated
+      # dark-tile alarm; daegu-trendy-cafe's Mumbai hero survived the same
+      # way). Same lesson as the gate: a repair that runs after the push
+      # never happened. Commit what the strip changed.
+      #
+      # A SEPARATE step, on purpose (Codex audit 2026-08-27): when this push
+      # lived inside the continue-on-error step above, a push failure was
+      # tolerated too — the strip's commit died with the runner and the job
+      # stayed green. The audit may flake (Commons is a network away); losing
+      # its committed repair may not. always() because a half-finished strip
+      # is still a repair worth pushing; the diff guard makes it a no-op
+      # when the strip did nothing.
+      - name: Push what the photo strip changed
+        if: always()
         run: |
-          node scripts/audit-photo-identity.mjs --strip 2>&1 | tail -30
           if ! git diff --quiet -- src/content/posts src/content/i18n; then
             git add src/content/posts src/content/i18n
             git commit -m "fix: strip wrong-place heroes (photo identity audit, $(date -u +%Y-%m-%d))"

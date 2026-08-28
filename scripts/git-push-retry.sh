@@ -7,8 +7,12 @@
 #   bash scripts/git-push-retry.sh              # HEAD → main
 #   bash scripts/git-push-retry.sh <branch>     # HEAD → <branch>
 #
-# -X theirs: 콘텐츠 봇끼리 같은 생성 파일을 건드렸을 때 원격을 존중하고
-# 우리 변경을 그 위에 얹는다(경합의 실체가 "둘 다 새 파일 추가"라 안전).
+# -X ours: 콘텐츠 봇끼리 같은 파일을 건드렸을 때 원격을 존중하고 우리 변경을
+# 그 위에 얹는다. ⚠️ rebase 에서는 ours/theirs 가 뒤집힌다 — "ours"가 origin
+# (원격), "theirs"가 재생 중인 우리 커밋이다. 2026-08-27 코덱스 감사가 잡기
+# 전까지 -X theirs 로 되어 있어 주석의 약속과 정반대로 로컬이 이겼다(원격의
+# 충돌 편집을 조용히 버림). 원격이 이겨야 하는 이유: 우리 쪽은 생성물이라
+# 다음 실행이 다시 만들지만, 원격의 편집은 다른 실행이 이미 끝낸 일이다.
 #
 # --autostash 가 반드시 필요하다 (2026-08-04): rebase 는 스테이징되지 않은
 # 변경이 하나라도 있으면 시작 자체를 거부하고, 그러면 아래 `rebase --abort` 가
@@ -33,7 +37,8 @@ BRANCH="${1:-main}"
 # 원격에 파일이 남아 있으면 남기고(우리의 삭제를 이번엔 포기), 원격이 지웠으면
 # 지운다(그 파일에 대한 우리 수정을 포기). 어느 쪽이든 잃는 것은 파일 하나에
 # 대한 판단 한 번이고 — 다음 실행이 다시 시도한다 — 지키는 것은 그 실행이 만든
-# 나머지 전부다. 내용이 양쪽에 다 있는 진짜 충돌은 손대지 않고 종전대로 abort.
+# 나머지 전부다. 내용 충돌은 여기 오지 않는다(-X ours 가 원격-우선으로 이미
+# 푼다); 알 수 없는 충돌 상태만 종전대로 abort.
 resolve_delete_conflicts() {
   local acted=0
   local path stages
@@ -58,25 +63,40 @@ resolve_delete_conflicts() {
     esac
   done < <(git diff --name-only --diff-filter=U)
 
-  [ "$acted" = "1" ] || return 1
+  [ "$acted" = "1" ]
+}
 
-  # 남은 변경이 없으면 --continue 는 "빈 커밋" 이라며 멈춘다 — 그때는 건너뛴다.
-  if git diff --cached --quiet && git diff --quiet; then
-    GIT_EDITOR=true git rebase --skip
-  else
-    GIT_EDITOR=true git rebase --continue
-  fi
+# 멈춤이 몇 번이든 rebase 가 끝날 때까지 민다. 2026-08-27 코덱스 감사:
+# --continue 를 한 번만 불러 두 번째 충돌 커밋에서 전체를 abort 했고, 상태가
+# 같으니 5회 재시도가 전부 같은 지점에서 헛돌았다. 충돌 멈춤마다 위 해소기를
+# 다시 부르고, 해소 뒤 커밋이 텅 비면(-X ours 가 유일한 변경을 지운 경우)
+# --skip 으로 넘어간다. guard 는 같은 자리를 도는 이상 상태의 안전핀.
+finish_rebase() {
+  local guard=0
+  while [ -d "$(git rev-parse --git-path rebase-merge)" ] || [ -d "$(git rev-parse --git-path rebase-apply)" ]; do
+    guard=$((guard + 1))
+    if [ "$guard" -gt 50 ]; then echo "  ↳ 멈춤 50회 초과 — 포기"; return 1; fi
+    if git diff --name-only --diff-filter=U | grep -q .; then
+      resolve_delete_conflicts || return 1
+    fi
+    if git diff --cached --quiet && git diff --quiet; then
+      GIT_EDITOR=true git rebase --skip || true
+    else
+      GIT_EDITOR=true git rebase --continue || true
+    fi
+  done
+  return 0
 }
 
 for attempt in 1 2 3 4 5; do
   git fetch origin "$BRANCH" || true
   rebased=0
-  if git rebase --autostash -X theirs "origin/$BRANCH"; then
+  if git rebase --autostash -X ours "origin/$BRANCH"; then
     rebased=1
   elif [ -d "$(git rev-parse --git-path rebase-merge)" ] || [ -d "$(git rev-parse --git-path rebase-apply)" ]; then
-    echo "rebase 충돌 — 삭제/수정 충돌인지 확인한다"
-    if resolve_delete_conflicts; then
-      echo "  ↳ 정리하고 rebase 를 계속했다"
+    echo "rebase 멈춤 — 풀 수 있는 충돌인지 확인하며 끝까지 민다"
+    if finish_rebase; then
+      echo "  ↳ 정리하고 rebase 를 끝냈다"
       rebased=1
     else
       git rebase --abort || true
