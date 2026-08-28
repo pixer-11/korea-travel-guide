@@ -26,6 +26,14 @@ place:
   lat: -8.9139299
   lng: 116.3190063
   phone: '+62 821-1194-2348'
+  openingHours:
+    - 'Monday: 5:00 AM – 7:00 PM'
+    - 'Tuesday: 5:00 AM – 7:00 PM'
+    - 'Wednesday: 5:00 AM – 7:00 PM'
+    - 'Thursday: 5:00 AM – 7:00 PM'
+    - 'Friday: 5:00 AM – 7:00 PM'
+    - 'Saturday: 5:00 AM – 7:00 PM'
+    - 'Sunday: 5:00 AM – 7:00 PM'
 tags:
   - "lombok"
   - "hidden gem"

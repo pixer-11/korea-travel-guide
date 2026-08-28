@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.1791153
   lng: 136.8812176
+  phone: '+81 52-561-7114'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
   - nagoya
   - hidden gem
