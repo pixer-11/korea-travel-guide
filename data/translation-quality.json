@@ -29069,5 +29069,89 @@
   "registerBreak": false,
   "worst": "시끌벅적한 산길을 오른 뒤 맞이하는 조용한 보상, 그것이 바로 빅토리아 피크 가든입니다.",
   "at": "2026-08-27T18:28:51.998Z"
+ },
+ "es/beijing-arabica-baitasi-store": {
+  "hash": "3b46741a7590",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Conviene confirmar ambos datos en los canales oficiales de la marca o en una aplicación de mapas ante",
+  "at": "2026-08-28T09:07:22.753Z"
+ },
+ "es/clarke-quay-fort-canning-park": {
+  "hash": "a0e5c5a913dd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Fort Canning Green es el césped abierto más emblemático del parque, y es el lugar que le da",
+  "at": "2026-08-28T09:07:24.465Z"
+ },
+ "es/dubai-nobu-the-link-one-za-abeel": {
+  "hash": "13eefbd8fa84",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ese entorno lo es todo en esta propuesta.",
+  "at": "2026-08-28T09:07:30.523Z"
+ },
+ "ja/beijing-arabica-baitasi-store": {
+  "hash": "b8b072be983e",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "エスプレッソ、ラテ、店舗によっては抹茶メニュー、そして最小限の座席数です。",
+  "at": "2026-08-28T09:09:53.620Z"
+ },
+ "ja/clarke-quay-fort-canning-park": {
+  "hash": "5d9c4fa9b273",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この一帯でも、植民地時代の歴史、古代王族の伝説、そして純粋な緑地が一つの丘の上に重なり合う、数少ない場所のひとつです。",
+  "at": "2026-08-28T09:07:44.930Z"
+ },
+ "ja/dubai-nobu-the-link-one-za-abeel": {
+  "hash": "f2cda7088b2c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ザービールの地上230メートル、2棟のタワーの間に浮かび、ガラス一枚を隔てて街並みと向き合いながらいただく特別な一皿なのです。",
+  "at": "2026-08-28T09:07:53.032Z"
+ },
+ "ko/beijing-arabica-baitasi-store": {
+  "hash": "92727bcf4593",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "석탄 온기가 밴 벽돌, 후통 골목에서 날리는 흙먼지, 그리고... 향 냄새가 그것입니다.",
+  "at": "2026-08-28T09:08:04.094Z"
+ },
+ "ko/clarke-quay-fort-canning-park": {
+  "hash": "87984f3942d9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관광객들이 가장 흔히 저지르는 실수는 이곳을 15분짜리 사진 촬영 코스 정도로 여기는 것입니다.",
+  "at": "2026-08-28T09:08:07.924Z"
+ },
+ "ko/dubai-nobu-the-link-one-za-abeel": {
+  "hash": "4c7377adc7a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "자벨 상공 230미터, 두 타워 사이에 매달린 채 유리 한 장을 사이에 두고 도시 전체를 마주하며 식사를 하게 됩니다.",
+  "at": "2026-08-28T09:08:09.969Z"
+ },
+ "zh/beijing-arabica-baitasi-store": {
+  "hash": "69efb9fe9098",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "而不是像往常那样开进购物中心或机场——后两者才是这个品牌通常的落脚地。",
+  "at": "2026-08-28T09:10:02.991Z"
+ },
+ "zh/clarke-quay-fort-canning-park": {
+  "hash": "a9b96c9a2832",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在这一带的新加坡，很少有地方能像这座山丘一样，把殖民历史、古老的王室传说和纯粹的绿意同时收进一处。",
+  "at": "2026-08-28T09:08:25.009Z"
+ },
+ "zh/dubai-nobu-the-link-one-za-abeel": {
+  "hash": "bf5ccb520116",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "这是一家坐落在已然闻名遐迩的工程奇迹之中的目的地餐厅。",
+  "at": "2026-08-28T09:10:13.410Z"
  }
 }

@@ -6,7 +6,7 @@ title: '5-Day Singapore Itinerary: Gardens, Sentosa, Coast & Kampong Glam'
 description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Sentosa's sensory landscapes to Bukit Timah's rainforest, the southeast coast, and the historic streets of Kampong Glam.
 quickAnswer: This is a 5-day Singapore itinerary that opens in Marina Bay and Kampong Glam, spends a day in the Bukit Timah rainforest and Botanic Gardens, heads to Sentosa Island for a fuller day of rides and gardens, traces the southeast coast through Katong, and closes with an in-depth day back in Kampong Glam.
 pubDate: '2026-08-13T00:36:52.182Z'
-stopsHash: e006b1a6b15c6fd37db3265758f307c84e174784
+stopsHash: a195096fe6488a4f24c765316a7dc91fc10c01de
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Singapore itinerary?
@@ -98,9 +98,17 @@ itinerary:
           minutes: 13
           transit: false
       - slug: sentosa-sentosa-sensoryscape
-        slot: evening
+        slot: afternoon
         why: This free multi-sensory garden comes alive at dusk with its LED canopy and misting gardens, making it a fitting close to a Sentosa day.
         dwellMin: 53
+        walkToNext:
+          km: 3.9
+          minutes: null
+          transit: true
+      - slug: kampong-glam-telok-blangah-hill-park
+        slot: evening
+        why: A attraction rated 4.6 by visitors, included as a stop on this route.
+        dwellMin: 105
         walkToNext: null
     rainSwapSlug: chinatown-chinatown-heritage-centre
   - label: Coast to Katong
@@ -155,6 +163,6 @@ itinerary:
     rainSwapSlug: little-india-tekka-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-25T09:21:48.397Z'
+updatedDate: '2026-08-28T09:10:16.073Z'
 ---
 

@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 101,
+   "attempts": 102,
    "hits": 62
   },
   "park": {
-   "attempts": 83,
-   "hits": 47
+   "attempts": 93,
+   "hits": 53
   },
   "viewpoint": {
    "attempts": 51,
@@ -66,7 +66,7 @@
    "hits": 2
   },
   "street food": {
-   "attempts": 51,
+   "attempts": 52,
    "hits": 5
   },
   "bakery": {
@@ -154,5 +154,5 @@
    "hits": 0
   }
  },
- "updated": "2026-08-27T18:23:20.503Z"
+ "updated": "2026-08-28T09:11:59.545Z"
 }

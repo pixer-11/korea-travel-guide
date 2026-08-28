@@ -17,8 +17,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 
 Hong Kong, Hong Kong — 60 qualifying post(s), variants: 3, 5
   · Hong Kong 3d — skipped: day 3 has only 2 stops and no unused sight can be added within the 600-minute day budget (restaurant-only or under-provisioned area)
-  ~ Hong Kong 5d — structure changed by 5 slug(s), regenerating prose
-  ✅ Hong Kong 5d — updated
+  = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -29,9 +28,10 @@ Lyon, France — 15 qualifying post(s), variants: 3
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
-Singapore, Singapore — 50 qualifying post(s), variants: 3, 5
+Singapore, Singapore — 52 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
-  = Singapore 5d — unchanged, skipping
+  ~ Singapore 5d — minor structure change (1 slug diff), keeping existing prose
+  ✅ Singapore 5d — updated
 
 Done.
 
