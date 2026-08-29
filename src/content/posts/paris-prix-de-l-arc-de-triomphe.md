@@ -10,7 +10,6 @@ eventEndDate: '2026-10-04'
 eventRecurring: true
 eventVenue: Paris-Longchamp Racecourse
 eventFactsAsked: true
-gallery: []
 tags:
   - paris
   - event
@@ -28,6 +27,16 @@ faq:
     a: Plan for most of the afternoon and evening — arrive at least 90 minutes before the Arc's post time to see the paddock and settle into a viewing spot before the crowds peak.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg
+  credit: 'Photo: France Sire / wikimedia (BY)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=159251064
+  focus:
+    x: 64
+    'y': 14
+    top: 6
+    bottom: 21
 ---
 
 ## Why the Arc matters

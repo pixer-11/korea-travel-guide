@@ -13592,5 +13592,179 @@
   "verdict": "MATCH",
   "reason": "width upgrade: Fort Canning Park entrance sign with landscaping, representative view",
   "at": "2026-08-28T23:56:11.355Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/82nd_CAB_Flight_over_the_Middle_East_%288296294%29.jpg/3840px-82nd_CAB_Flight_over_the_Middle_East_%288296294%29.jpg": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military helicopter unrelated to comic con event",
+  "at": "2026-08-29T02:24:36.430Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b5/Man_in_the_middle_attack_he.png": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 800px < 1200",
+  "at": "2026-08-29T02:24:36.529Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/89/Man-in-the-middle_attack.PNG": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 340px < 1200",
+  "at": "2026-08-29T02:24:36.612Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Man-in-the-middle-comunicacaointerceptada.png": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 174px < 1200",
+  "at": "2026-08-29T02:24:36.707Z"
+ },
+ "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Avenged_Sevenfold_-_Zenith_Muenchen_-_14-11-2013_%2811171710424%29.jpg": {
+  "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 667px < 1200",
+  "at": "2026-08-29T02:25:00.013Z"
+ },
+ "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_in_Bercy_3.jpg": {
+  "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Bangkok",
+  "at": "2026-08-29T02:25:03.715Z"
+ },
+ "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg": {
+  "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Bangkok",
+  "at": "2026-08-29T02:25:07.204Z"
+ },
+ "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Avenged_Sevenfold_in_Bercy_2.jpg": {
+  "slug": "bangkok-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Bangkok",
+  "at": "2026-08-29T02:25:10.761Z"
+ },
+ "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/Richard_Marx_in_2024_%28cropped%29.png": {
+  "slug": "dubai-richard-marx",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 343px < 1200",
+  "at": "2026-08-29T02:26:38.718Z"
+ },
+ "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Richard_Marx_in_2024_%28cropped%29_%28cropped%29.png": {
+  "slug": "dubai-richard-marx",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 370px < 1200",
+  "at": "2026-08-29T02:26:38.770Z"
+ },
+ "dubai-richard-marx\u0001https://live.staticflickr.com/1483/25706183262_986c818e37_b.jpg": {
+  "slug": "dubai-richard-marx",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: unknownpx < 1200",
+  "at": "2026-08-29T02:26:39.044Z"
+ },
+ "dubai-richard-marx\u0001https://live.staticflickr.com/734/21506806080_532fe32dc0_b.jpg": {
+  "slug": "dubai-richard-marx",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: unknownpx < 1200",
+  "at": "2026-08-29T02:26:39.130Z"
+ },
+ "jakarta-lee-hi-808-hi-recordings-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/Lee_Fields_%26_The_Expressions_%28Haldern_Pop_2013%29_IMGP3844_smial_wp.jpg": {
+  "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in United States, post says Indonesia",
+  "at": "2026-08-29T02:28:53.546Z"
+ },
+ "paris-prix-de-l-arc-de-triomphe\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg": {
+  "slug": "paris-prix-de-l-arc-de-triomphe",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Horse racing victory at Paris-Longchamp Racecourse",
+  "at": "2026-08-29T02:31:35.455Z"
+ },
+ "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4495/37954050446_6979713dc6_b.jpg": {
+  "slug": "phuket-phuket-vegetarian-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: unknownpx < 1200",
+  "at": "2026-08-29T02:31:50.997Z"
+ },
+ "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4475/38007403631_1a9015ed00_b.jpg": {
+  "slug": "phuket-phuket-vegetarian-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: unknownpx < 1200",
+  "at": "2026-08-29T02:31:51.084Z"
+ },
+ "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4477/37940994456_ce250c1d36_b.jpg": {
+  "slug": "phuket-phuket-vegetarian-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: unknownpx < 1200",
+  "at": "2026-08-29T02:31:51.191Z"
+ },
+ "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4486/37284849514_1eb2cb0e2c_b.jpg": {
+  "slug": "phuket-phuket-vegetarian-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: unknownpx < 1200",
+  "at": "2026-08-29T02:31:51.288Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Avenged_Sevenfold_-_Zenith_Muenchen_-_14-11-2013_%2811171710424%29.jpg": {
+  "slug": "singapore-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 667px < 1200",
+  "at": "2026-08-29T02:32:51.349Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_in_Bercy_3.jpg": {
+  "slug": "singapore-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Singapore",
+  "at": "2026-08-29T02:32:55.052Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg": {
+  "slug": "singapore-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Singapore",
+  "at": "2026-08-29T02:32:58.306Z"
+ },
+ "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Avenged_Sevenfold_in_Bercy_2.jpg": {
+  "slug": "singapore-avenged-sevenfold-asia-tour-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Singapore",
+  "at": "2026-08-29T02:33:01.802Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/0/04/March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_209.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Military portraits unrelated to Uzbekistan Independence Day venue",
+  "at": "2026-08-29T02:34:04.107Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/3/3f/March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_262.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait of unrelated soldier, not the venue/event",
+  "at": "2026-08-29T02:34:06.591Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_296.jpg/3840px-March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_296.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ukrainian military personnel, unrelated to Uzbekistan event",
+  "at": "2026-08-29T02:34:08.458Z"
+ },
+ "tashkent-independence-day-of-uzbekistan\u0001https://upload.wikimedia.org/wikipedia/commons/0/00/March_of_Ukraine%27s_Defenders_on_Independence_Day_in_Kyiv%2C_2021_170.jpg": {
+  "slug": "tashkent-independence-day-of-uzbekistan",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ukrainian military priest portrait, unrelated to Uzbekistan event",
+  "at": "2026-08-29T02:34:10.914Z"
+ },
+ "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/47932606_GGgCFCevtDTT3rvBWnpFGX-HOVKJB0RnxdJW_hfsArI.jpg": {
+  "slug": "tokyo-chiikawa-ramen-buta",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Yoyogi Village entrance, unrelated to ramen venue",
+  "at": "2026-08-29T02:34:21.467Z"
+ },
+ "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/64580216_Vrev6nb1lECKF2hHeWhjiik7jih3TGMzLT0sPbdP74Y.jpg": {
+  "slug": "tokyo-chiikawa-ramen-buta",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a menu, not the venue itself",
+  "at": "2026-08-29T02:34:23.579Z"
+ },
+ "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/1206726_Y_rgl40n0Vn0LIfqUBqmAf9AKfneV2D0ocvQouzax4M.jpg": {
+  "slug": "tokyo-chiikawa-ramen-buta",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Ramen bowl with fried chicken topping, Tokyo style",
+  "at": "2026-08-29T02:34:27.308Z"
  }
 }

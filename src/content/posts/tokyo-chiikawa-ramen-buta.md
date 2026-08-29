@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-08-19'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is this connected to the Chiikawa character franchise?
     a: Yes, the branding references the popular Chiikawa characters, but the Michelin recognition is for the ramen itself, centered on a pork-based (buta) broth.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1206726_Y_rgl40n0Vn0LIfqUBqmAf9AKfneV2D0ocvQouzax4M.jpg
+  credit: 'Photo: Foursquare user content (RAMEN TOMIRAI)'
+  license: foursquare
+  source: https://foursquare.com/v/55507da7498ebfd16d1f66cd
+  focus:
+    x: 60
+    'y': 45
 ---
 
 ## Why it's suddenly the bowl everyone wants

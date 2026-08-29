@@ -1317,17 +1317,17 @@
   "istanbul-istanbul-archaeological-museums\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/1920px-Istanbularcheology.jpg": 1920,
   "kampong-glam-telok-blangah-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg/1920px-Telok_Blangah_Hill_Park%2C_Singapore_%283297044040%29.jpg": 1920,
   "kanazawa-kanazawa-castle-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg/3840px-View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg": 3840,
-  "clarke-quay-fort-canning-park\u0001https://upload.wikimedia.org/wikipedia/commons/f/f5/Fort_Canning_Park_sign%2C_Singapore_-_20110506.jpg": 1024,
   "paris-celine-dion-paris-residency\u0001https://upload.wikimedia.org/wikipedia/commons/d/d7/Celine_Dion_%28BBW%29.jpg": 927,
   "phnom-penh-royal-palace-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg/3840px-Royal_Palace_Park%2C_Phnom_Penh_%281%29.jpg": 3840,
   "singapore-asian-civilisations-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Empress_Place_Building_2023-03-22.jpg/1920px-Empress_Place_Building_2023-03-22.jpg": 1920,
-  "bangkok-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_%2832509055635%29.jpg": 474,
   "suwon-hwaseong-haenggung\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hwaseong_Haenggung_Palace_panorama.jpg/3840px-Hwaseong_Haenggung_Palace_panorama.jpg": 3840,
   "turin-parco-del-valentino\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Autumn_colors_%284099639400%29.jpg/1920px-Autumn_colors_%284099639400%29.jpg": 1920,
   "yeosu-ungcheon-beach-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ungcheon_Beach_Park_01.jpg/1920px-Ungcheon_Beach_Park_01.jpg": 1920,
   "nagoya-tokugawaen-garden\u0001https://upload.wikimedia.org/wikipedia/commons/6/67/Peony_garden_%40Tokugawaen_-_panoramio.jpg": 2848,
-  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": 500,
-  "pattaya-prince-of-chumphon-monument\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg": 3456
+  "pattaya-prince-of-chumphon-monument\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg": 3456,
+  "clarke-quay-fort-canning-park\u0001https://fastly.4sqi.net/img/general/original/1392709470_DsbTh_j4_jIcP7vDr0NBIZJZJsoMcAkEvRNAVbIc9aE.jpg": 1920,
+  "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/1206726_Y_rgl40n0Vn0LIfqUBqmAf9AKfneV2D0ocvQouzax4M.jpg": 1920,
+  "paris-prix-de-l-arc-de-triomphe\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg": 1645
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1479,8 +1479,8 @@
   },
   "hanoi-vietnamese-super-cup-2026": {
    "width": 660,
-   "attempts": 1,
-   "nextTry": "2026-08-29",
+   "attempts": 2,
+   "nextTry": "2026-09-05",
    "flaggedAt": "2026-08-22",
    "lastResult": "no-wider"
   },
@@ -1541,5 +1541,5 @@
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-28T23:56:19.872Z"
+ "updated": "2026-08-29T02:35:15.107Z"
 }
