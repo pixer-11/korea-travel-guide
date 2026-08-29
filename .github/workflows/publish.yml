@@ -67,12 +67,20 @@ concurrency:
 
 permissions:
   contents: write
+  # For the day guard in generate.mjs: a schedule run lists this workflow's own
+  # runs to see whether today's KST batch already went out (2026-08-30 01:20).
+  actions: read
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # ref: main, not the dispatch-time SHA — a run that queued or arrived
+      # late must build from the tip (state ledgers, throttle, topic keys), not
+      # from a snapshot taken when it was scheduled (stale-SHA class, 08-29).
       - uses: actions/checkout@v5
+        with:
+          ref: main
 
       - uses: actions/setup-node@v5
         with:
@@ -105,6 +113,8 @@ jobs:
 
       - name: Generate posts
         env:
+          # For the one-batch-per-KST-day guard (lib/slot-served.mjs).
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}

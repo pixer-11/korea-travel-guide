@@ -62,7 +62,11 @@ async function tg(text) {
 const now = Date.now();
 const rescued = [], pending = [];
 
-for (const w of MANIFEST) {
+// rescue:false 항목(publish — 전용 감시견 있음)은 슬롯 가드용일 뿐, 여기서
+// 구조하지 않는다.
+const RESCUABLE = MANIFEST.filter((w) => w.rescue !== false);
+
+for (const w of RESCUABLE) {
   // 여러 크론 중 "마지막으로 울렸어야 할 슬롯"과 그것이 어느 크론이었는지를
   // 같이 기억한다 — 구조 디스패치에 슬롯별 입력(inputsByCron)을 실어야 해서다.
   let lastExpected = -Infinity, missedCron = null;
@@ -101,4 +105,4 @@ if (rescued.length) {
     rescued.map((r) => `· ${r}`).join('\n') +
     `\n(지각 원본이 뒤늦게 와도 일일 가드·슬롯 가드가 중복을 막습니다)`);
 }
-console.log(`${rescued.length} rescued, ${pending.length} would-rescue (dry), ${MANIFEST.length} checked`);
+console.log(`${rescued.length} rescued, ${pending.length} would-rescue (dry), ${RESCUABLE.length} checked`);

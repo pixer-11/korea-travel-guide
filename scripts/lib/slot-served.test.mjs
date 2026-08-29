@@ -20,8 +20,8 @@ const baseEnv = {
   GITHUB_REPOSITORY: 'pixer-11/korea-travel-guide',
 };
 
-const api = (runs) => async (url, init) => {
-  assert.match(url, /\/actions\/workflows\/pinterest\.yml\/runs\?created=/);
+const api = (runs, workflow = 'pinterest\\.yml') => async (url, init) => {
+  assert.match(url, new RegExp(`/actions/workflows/${workflow}/runs\\?created=`));
   assert.equal(init.headers.Authorization, 'Bearer tok');
   return { ok: true, json: async () => ({ workflow_runs: runs }) };
 };
@@ -68,6 +68,28 @@ test('API trouble fails open — a broken guard must not kill the pipeline', asy
   const v2 = await slotAlreadyServed('pinterest.yml', { now: NOW, env: baseEnv, fetchImpl: boom });
   assert.equal(v2.served, false);
   assert.match(v2.error, /network down/);
+});
+
+// ── publish uses guard:'kstDay' — one batch per KST day, whatever the slot.
+// The 2026-08-30 incident: a midnight-confused publish-watchdog ran a second
+// batch at 01:20 KST; the day's 16:19 cron must then bow out.
+
+test('publish (kstDay): the accidental 01:20 batch serves the whole KST day', async () => {
+  const at1619 = Date.parse('2026-08-30T07:20:00Z'); // 16:20 KST 08-30
+  const batch0120 = { id: 500, conclusion: 'success', created_at: '2026-08-29T16:20:00Z' }; // 01:20 KST 08-30
+  const v = await slotAlreadyServed('publish.yml', {
+    now: at1619, env: baseEnv, fetchImpl: api([batch0120], 'publish\\.yml'),
+  });
+  assert.equal(v.served, true);
+});
+
+test('publish (kstDay): yesterday evening\'s late batch does not serve today', async () => {
+  const at1619 = Date.parse('2026-08-30T07:20:00Z');
+  const lastNight = { id: 501, conclusion: 'success', created_at: '2026-08-29T14:05:00Z' }; // 23:05 KST 08-29
+  const v = await slotAlreadyServed('publish.yml', {
+    now: at1619, env: baseEnv, fetchImpl: api([lastNight], 'publish\\.yml'),
+  });
+  assert.equal(v.served, false);
 });
 
 test('workflows outside the manifest are left alone', async () => {

@@ -18,4 +18,12 @@ export const MANIFEST = [
   { file: 'indexnow.yml', name: 'IndexNow 제출', crons: ['30 8 * * *', '30 20 * * *'] },
   { file: 'analytics-report.yml', name: '일일 분석 보고', crons: ['7 0 * * *'] },
   { file: 'alt-photos.yml', name: '새벽 사진 교체 순찰', crons: ['35 19 * * *'] },
+  // publish 는 전용 publish-watchdog 이 지키므로 총괄 감시견은 건드리지 않는다
+  // (rescue:false — 둘이 같은 개를 풀면 이중 발행 경쟁). 슬롯 가드용으로만
+  // 여기 있다: guard:'kstDay' = "KST 같은 날에 성공한 다른 실행이 있으면 그날
+  // 몫은 끝난 것". 슬롯 창이 아니라 날짜 기준인 이유 — 2026-08-30 새벽 사고:
+  // 발행 감시견 자신이 4.6h 지각 배달돼 자정을 넘겨 "오늘(새 날짜) 발행 없음"
+  // 으로 오판, 01:20 에 하루 두 번째 배치를 발행했다. 스로틀 실험(5편/일,
+  // 09-10 판정)은 날짜당 한 배치가 약속이다.
+  { file: 'publish.yml', name: '일일 발행', crons: ['19 7 * * *'], rescue: false, guard: 'kstDay' },
 ];

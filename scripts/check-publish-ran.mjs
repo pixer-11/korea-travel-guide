@@ -17,8 +17,10 @@
 //   node scripts/check-publish-ran.mjs --no-dispatch  # check and alert only
 //   node scripts/check-publish-ran.mjs --dry          # print only
 import { telegram } from './lib/gsc.mjs';
+import { lastFireBefore } from './lib/cron-window.mjs';
 
 const WORKFLOW = 'publish.yml';
+const PUBLISH_CRON = '19 7 * * *'; // 16:19 KST — keep in step with publish.yml
 const dry = process.argv.includes('--dry');
 const noDispatch = process.argv.includes('--no-dispatch');
 
@@ -46,24 +48,31 @@ async function main() {
     return res.status === 204 ? null : res.json();
   };
 
-  const today = kstDay(new Date().toISOString());
+  // Anchored to the publish SLOT, not to "today at execution time". This
+  // script itself arrives late (GitHub delays its 19:30 KST cron too), and on
+  // 2026-08-30 it landed at 00:09 — past KST midnight — so a "today" check
+  // called yesterday's 23:05 publish a different day and dispatched a second
+  // batch at 01:20. The right question is: has publish run since the most
+  // recent 16:19 slot came due? That answer doesn't change at midnight.
+  const slotStart = lastFireBefore(PUBLISH_CRON, Date.now()) - 10 * 60000;
+  const slotLabel = `${kstDay(new Date(slotStart + 10 * 60000).toISOString())} 16:19 KST`;
   const runs = await api(`/actions/workflows/${WORKFLOW}/runs?per_page=10`);
-  const ranToday = (runs.workflow_runs ?? []).filter((r) => kstDay(r.created_at) === today);
+  const served = (runs.workflow_runs ?? []).filter((r) => Date.parse(r.created_at) >= slotStart);
 
-  if (ranToday.length) {
-    const r = ranToday[0];
-    console.log(`✅ 오늘(${today}) 발행 실행됨 — ${r.created_at.slice(11, 16)}Z ${r.status}/${r.conclusion ?? '진행중'} (${r.event})`);
+  if (served.length) {
+    const r = served[0];
+    console.log(`✅ 이번 슬롯(${slotLabel}) 발행 실행됨 — ${r.created_at.slice(11, 16)}Z ${r.status}/${r.conclusion ?? '진행중'} (${r.event})`);
     return;
   }
 
   const last = runs.workflow_runs?.[0];
   const lastSeen = last ? `${kstDay(last.created_at)} (${last.event})` : '기록 없음';
-  console.log(`🚨 오늘(${today}) 발행이 실행되지 않았다. 마지막 실행: ${lastSeen}`);
+  console.log(`🚨 이번 슬롯(${slotLabel}) 발행이 실행되지 않았다. 마지막 실행: ${lastSeen}`);
 
   const lines = [
     '🚨 오늘 자동 발행이 실행되지 않았습니다',
     '',
-    `오늘 날짜: ${today} (KST)`,
+    `발행 예정 슬롯: ${slotLabel}`,
     `마지막 실행: ${lastSeen}`,
     '',
     '워크플로가 꺼진 게 아니라 GitHub이 예약 실행을 건너뛴 경우입니다.',

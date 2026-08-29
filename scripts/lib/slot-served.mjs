@@ -29,7 +29,13 @@ export async function slotAlreadyServed(workflowFile, {
   const token = env.GITHUB_TOKEN;
   if (!entry || !token) return { active: false, served: false };
   const repo = env.GITHUB_REPOSITORY || 'pixer-11/korea-travel-guide';
-  const slotStart = Math.max(...entry.crons.map((c) => lastFireBefore(c, now))) - EARLY_TOLERANCE_MS;
+  // Two window shapes. Default: this cron slot (a workflow with several slots
+  // a day, like pinterest, must still run its later slots). guard:'kstDay':
+  // the whole KST calendar day — publish promises ONE batch per day (throttle
+  // experiment), so any success today serves it, whatever slot or trigger.
+  const slotStart = entry.guard === 'kstDay'
+    ? now - ((now + 9 * 3600000) % 86400000) // KST midnight, as a UTC timestamp
+    : Math.max(...entry.crons.map((c) => lastFireBefore(c, now))) - EARLY_TOLERANCE_MS;
   try {
     const since = new Date(slotStart).toISOString();
     const res = await fetchImpl(
@@ -41,8 +47,13 @@ export async function slotAlreadyServed(workflowFile, {
     const runs = (await res.json()).workflow_runs ?? [];
     // Only a finished SUCCESS counts as "served" — a failed or cancelled
     // attempt must not suppress the retry that would finally do the work.
+    // created_at is re-checked here even though the API call already filters:
+    // trusting the server filter alone left the window unenforced in any
+    // context that returns unfiltered runs (the tests caught exactly that).
     const hit = runs.find(
-      (r) => String(r.id) !== String(env.GITHUB_RUN_ID) && r.conclusion === 'success',
+      (r) => String(r.id) !== String(env.GITHUB_RUN_ID)
+        && r.conclusion === 'success'
+        && Date.parse(r.created_at) >= slotStart,
     );
     return { active: true, served: Boolean(hit), by: hit?.id, slotStart };
   } catch (e) {

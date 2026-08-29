@@ -30,6 +30,15 @@ import { loadYield, saveYield, recordOutcome, orderByYield, describeYield } from
 import { checkPlace, isImageAllowed } from './lib/guardrails.mjs';
 import { qualifyingPosts } from '../src/lib/itinerary.mjs';
 import { openHourSet, clampBusynessHours } from '../src/lib/hours.mjs';
+import { exitIfSlotServed } from './lib/slot-served.mjs';
+
+// One batch per KST day is the throttle experiment's promise (5 posts/day
+// until the 09-10 verdict). On 2026-08-30 a midnight-confused publish-watchdog
+// published a second batch at 01:20; without this guard the day's 16:19 cron
+// would then make it a 10-post day. Guard is schedule-events-only (a manual or
+// rescue dispatch always runs) and skipped for backfill's borrowed runs —
+// PLACES_JOB 'fill' is the bulk pipeline, not the daily batch.
+if (process.env.PLACES_JOB !== 'fill') await exitIfSlotServed('publish.yml');
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
