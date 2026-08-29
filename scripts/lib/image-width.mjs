@@ -53,10 +53,43 @@ export async function probeWidth(url) {
       return ii?.width ?? null;
     }
     const res = await fetch(url, { headers: { ...UA, Range: 'bytes=0-131071' } });
-    if (!res.ok) return null;
-    const ab = await res.arrayBuffer();
-    return parseImageWidth(Buffer.from(ab.slice(0, 131072)));
+    if (res.ok) {
+      const ab = await res.arrayBuffer();
+      return parseImageWidth(Buffer.from(ab.slice(0, 131072)));
+    }
+    // Flickr's CDN 502s ANY ranged (and HEAD) request while serving the same
+    // URL fine as a plain GET (measured 2026-08-29). Fall back to a plain GET
+    // and read only the head of the stream before cancelling — same bytes,
+    // one more round trip, no full download.
+    const full = await fetch(url, { headers: UA });
+    if (!full.ok || !full.body) return null;
+    const reader = full.body.getReader();
+    const chunks = [];
+    let got = 0;
+    while (got < 131072) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      chunks.push(Buffer.from(value));
+      got += value.length;
+    }
+    reader.cancel().catch(() => {});
+    return parseImageWidth(Buffer.concat(chunks).slice(0, 131072));
   } catch {
     return null;
   }
+}
+
+// Flickr serves fixed sizes by suffix (_b=1024, _h=1600, _k=2048) and
+// Openverse hands out _b — which fails a 1200 floor by construction. Try the
+// larger rungs first and keep the first that proves wide enough; old photos
+// without _h/_k simply fall back to the URL given. Same lesson as the
+// Wikimedia thumbnail ladder: hosts only serve the widths they serve.
+export async function upsizeFlickr(url, minWidth) {
+  if (!/live\.staticflickr\.com/.test(url) || !/_b\.jpe?g$/i.test(url)) return url;
+  for (const suf of ['_k.jpg', '_h.jpg']) {
+    const cand = url.replace(/_b\.jpe?g$/i, suf);
+    const w = await probeWidth(cand);
+    if (w && w >= minWidth) return cand;
+  }
+  return url;
 }
