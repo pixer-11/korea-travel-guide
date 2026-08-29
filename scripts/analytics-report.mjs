@@ -1,6 +1,12 @@
 #!/usr/bin/env node
 // Pulls yesterday's Cloudflare Web Analytics (RUM) for the account and sends a
 // summary to Telegram. Runs in CI (env from GitHub secrets). Never fails the job.
+import { exitIfSlotServed } from './lib/slot-served.mjs';
+
+// The report went out twice on 2026-08-29 (watchdog rescue 12:22, GitHub's
+// 6.8h-late original 15:57) — a late-delivered cron must not re-send it.
+await exitIfSlotServed('analytics-report.yml');
+
 const { CF_API_TOKEN, CF_ACCOUNT_ID, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
 
 function isoDay(offset) {

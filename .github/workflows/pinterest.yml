@@ -26,6 +26,9 @@ concurrency:
 
 permissions:
   contents: write
+  # For the slot guard step: a schedule run lists its own workflow's runs to
+  # see whether a rescue already served this slot (2026-08-29: 3+3 pins).
+  actions: read
 
 jobs:
   pin:
@@ -63,9 +66,20 @@ jobs:
       - if: steps.gate.outputs.on == 'true'
         run: npm ci
 
+      # A watchdog rescue (12:22) and GitHub's 4.7h-late original (13:17) both
+      # pinned on 2026-08-29 — six pins in one morning, double the ramp rate.
+      # Schedule runs ask whether their slot was already served and bow out;
+      # manual and rescue dispatches are never blocked.
+      - name: Slot guard
+        id: slot
+        if: steps.gate.outputs.on == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/slot-guard.mjs pinterest.yml | tee -a "$GITHUB_OUTPUT"
+
       - name: Create pins
         id: pins
-        if: steps.gate.outputs.on == 'true'
+        if: steps.gate.outputs.on == 'true' && steps.slot.outputs.served != 'true'
         env:
           PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
           PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
@@ -91,7 +105,7 @@ jobs:
         # expiry rather than a lost write. The same step also carries
         # data/pinterest.json, so losing it re-pins what was already pinned
         # (found 2026-08-06).
-        if: always() && steps.gate.outputs.on == 'true'
+        if: always() && steps.gate.outputs.on == 'true' && steps.slot.outputs.served != 'true'
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
@@ -120,7 +134,7 @@ jobs:
             --data-urlencode "text=📌 핀터레스트 토큰이 만료되었거나 무효합니다. developers.pinterest.com에서 새 토큰을 발급해 GitHub Secrets(PINTEREST_ACCESS_TOKEN)를 갱신해 주세요." >/dev/null || true
 
       - name: Notify Telegram
-        if: always() && steps.gate.outputs.on == 'true'
+        if: always() && steps.gate.outputs.on == 'true' && steps.slot.outputs.served != 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

@@ -22,6 +22,9 @@ on:
 
 permissions:
   contents: write
+  # For the slot guard (lib/slot-served.mjs): a schedule run lists its own
+  # workflow's runs to see whether a rescue already served this slot (08-29).
+  actions: read
 
 concurrency:
   group: reddit-scout
@@ -43,6 +46,7 @@ jobs:
       - name: Draft and send today's cards
         id: scout
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

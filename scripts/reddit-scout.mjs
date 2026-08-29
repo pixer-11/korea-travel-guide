@@ -21,6 +21,11 @@ import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { interleaveRotated, kstDayIndex } from './lib/round-robin.mjs';
+import { exitIfSlotServed } from './lib/slot-served.mjs';
+
+// A late-delivered cron must not send the owner a second set of cards for the
+// same slot (the 2026-08-29 rescue-then-late-original double, class fix).
+await exitIfSlotServed('reddit-scout.yml');
 
 const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
 const DRY = process.argv.includes('--dry');
