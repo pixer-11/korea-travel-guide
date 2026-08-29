@@ -1327,7 +1327,18 @@
   "pattaya-prince-of-chumphon-monument\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg": 3456,
   "clarke-quay-fort-canning-park\u0001https://fastly.4sqi.net/img/general/original/1392709470_DsbTh_j4_jIcP7vDr0NBIZJZJsoMcAkEvRNAVbIc9aE.jpg": 1920,
   "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/1206726_Y_rgl40n0Vn0LIfqUBqmAf9AKfneV2D0ocvQouzax4M.jpg": 1920,
-  "paris-prix-de-l-arc-de-triomphe\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg": 1645
+  "paris-prix-de-l-arc-de-triomphe\u0001https://upload.wikimedia.org/wikipedia/commons/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg": 1645,
+  "agra-taj-mahal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1920px-Taj_Mahal_%28Edited%29.jpeg": 1920,
+  "ha-long-bay-halong-bay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1920px-Ha_Long_Bay_in_2019.jpg": 1920,
+  "istanbul-gulhane-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%BClhane_Park%2C_Istanbul.jpg/1920px-G%C3%BClhane_Park%2C_Istanbul.jpg": 1920,
+  "istanbul-hagia-sophia-grand-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1920px-Hagia_Sophia_%28228968325%29.jpeg": 1920,
+  "pattaya-nongnooch-pattaya-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dinosaur_Garden_Nongnooch_Pattaya.jpg/3840px-Dinosaur_Garden_Nongnooch_Pattaya.jpg": 3840,
+  "singapore-merlion-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Singapore_Merlion_BCT.jpg/1920px-Singapore_Merlion_BCT.jpg": 1920,
+  "singapore-sri-mariamman-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sri_Mariamman_Temple%2C_Singapore%2C_20240122_0843_2947.jpg/3840px-Sri_Mariamman_Temple%2C_Singapore%2C_20240122_0843_2947.jpg": 3840,
+  "suwon-gwanggyo-lake-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/1920px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg": 1920,
+  "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Marx%2C_Birmingham%2C_AL_2025.jpg": 1500,
+  "banlung-virachey-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Veal_thom.jpg": 320,
+  "jeonju-deokjin-park\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/Deokjin_park.jpg": 1152
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1541,5 +1552,5 @@
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-29T02:35:15.107Z"
+ "updated": "2026-08-29T22:08:36.837Z"
 }

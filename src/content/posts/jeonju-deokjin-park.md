@@ -1,45 +1,44 @@
 ---
-title: "Deokjin Park: Jeonju Travel Guide (4.2★)"
-description: "Deokjin Park in Jeonju's Deokjin-gu district is best known for its lotus-covered lake, crossed by a long wooden bridge leading to a pagoda pavilion. 4.2★ (4,133 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Jeonju"
-category: "attraction"
-pubDate: "2026-08-29T15:14:23.231Z"
+title: 'Deokjin Park: Jeonju Travel Guide (4.2★)'
+description: Deokjin Park in Jeonju's Deokjin-gu district is best known for its lotus-covered lake, crossed by a long wooden bridge leading to a pagoda pavilion. 4.2★ (4,133 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Jeonju
+category: attraction
+pubDate: '2026-08-29T15:14:23.231Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/52/Deokjin_park.jpg"
-  credit: "Photo: 올리브 가지 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Deokjin_park.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/34458084_14RYoqrysVWEgLac6KJu6Kwvux4iCF96gSE0z0pzV34.jpg
+  credit: 'Photo: Foursquare user content (Deokjin Park)'
+  license: foursquare
+  source: https://foursquare.com/v/4ce3704f05f7a093d282a028
   focus:
-    x: 55
-    y: 55
+    x: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Deokjin_Park_Yeonhwajeong_Library_20250224_%2804%29.jpg/3840px-Deokjin_Park_Yeonhwajeong_Library_20250224_%2804%29.jpg"
-    credit: "Photo: LandAndTree / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Deokjin_Park_Yeonhwajeong_Library_20250224_(04).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Deokjin_Park_Yeonhwajeong_Library_20250224_%2804%29.jpg/3840px-Deokjin_Park_Yeonhwajeong_Library_20250224_%2804%29.jpg
+    credit: 'Photo: LandAndTree / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Deokjin_Park_Yeonhwajeong_Library_20250224_(04).jpg
 place:
-  id: "ChIJw5VFM8o8cDUR72L1T-NDeOs"
-  name: "Deokjin Park"
-  address: "390 Gwonsamdeuk-ro, Deokjin-dong 1(il)-ga, Deokjin-gu, Jeonju, Jeonbuk State, South Korea"
+  id: ChIJw5VFM8o8cDUR72L1T-NDeOs
+  name: Deokjin Park
+  address: 390 Gwonsamdeuk-ro, Deokjin-dong 1(il)-ga, Deokjin-gu, Jeonju, Jeonbuk State, South Korea
   rating: 4.2
   userRatingsTotal: 4133
-  googleMapsUrl: "https://maps.google.com/?cid=16967386239696462575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16967386239696462575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8475732
   lng: 127.121895
-  phone: "+82 63-281-8661"
+  phone: +82 63-281-8661
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-29
+    updated: 2026-08-29T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -62,22 +61,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_734f65444e2d54314c323752554463386f384d465635774a496843"
+    venueId: ven_734f65444e2d54314c323752554463386f384d465635774a496843
 tags:
-  - "jeonju"
-  - "park"
-quickAnswer: "Deokjin Park in Jeonju's Deokjin-gu district is best known for its lotus-covered lake, crossed by a long wooden bridge leading to a pagoda pavilion. It's open 24 hours, and the calmest visit is early morning, 7am–9am on weekends, well before the 11am–11pm weekend crowds settle in. Peak lotus bloom runs mid-July through August."
+  - jeonju
+  - park
+quickAnswer: Deokjin Park in Jeonju's Deokjin-gu district is best known for its lotus-covered lake, crossed by a long wooden bridge leading to a pagoda pavilion. It's open 24 hours, and the calmest visit is early morning, 7am–9am on weekends, well before the 11am–11pm weekend crowds settle in. Peak lotus bloom runs mid-July through August.
 faq:
-  - q: "What is Deokjin Park in Jeonju known for?"
-    a: "A large lotus-covered lake crossed by a wooden bridge, Yeonhwagyo, leading to a pagoda pavilion on a small island."
-  - q: "When is the best time to see the lotus flowers?"
-    a: "Mid-July through August, with flowers open in the early morning and closing by afternoon."
-  - q: "When is Deokjin Park least crowded?"
-    a: "Weekday mornings between 7am and 8am, or weekend mornings between 7am and 9am. Weekends from 11am to 11pm get busy."
-  - q: "How do I get to Deokjin Park from Jeonju Hanok Village?"
-    a: "It's roughly a 15-20 minute taxi or bus ride; Jeonju has no subway system, so taxi or local bus is the standard route."
-  - q: "Is there an entrance fee, and what are the hours?"
-    a: "The park is open 24 hours every day of the week with no gate to unlock, making early sunrise visits easy."
+  - q: What is Deokjin Park in Jeonju known for?
+    a: A large lotus-covered lake crossed by a wooden bridge, Yeonhwagyo, leading to a pagoda pavilion on a small island.
+  - q: When is the best time to see the lotus flowers?
+    a: Mid-July through August, with flowers open in the early morning and closing by afternoon.
+  - q: When is Deokjin Park least crowded?
+    a: Weekday mornings between 7am and 8am, or weekend mornings between 7am and 9am. Weekends from 11am to 11pm get busy.
+  - q: How do I get to Deokjin Park from Jeonju Hanok Village?
+    a: It's roughly a 15-20 minute taxi or bus ride; Jeonju has no subway system, so taxi or local bus is the standard route.
+  - q: Is there an entrance fee, and what are the hours?
+    a: The park is open 24 hours every day of the week with no gate to unlock, making early sunrise visits easy.
 aiGenerated: true
 draft: false
 ---
