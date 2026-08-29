@@ -20,7 +20,7 @@ import { commonsBest, keyToken, tokens, wikipediaLeadImage, COMMON_ANCHOR } from
 // 올리면 사진이 줄 것 같지만 반대다: 검색이 첫 번째 작은 후보에서 멈추지 않고
 // 1200px 이상을 찾을 때까지 계속 돈다. 진짜로 큰 사진이 없는 행사만 정책대로
 // 사진 없이 남는다(그건 지금의 최종 상태와 같고, 회전문 비용만 사라진다).
-const EVENT_HERO_MIN_WIDTH = 1200;
+export const EVENT_HERO_MIN_WIDTH = 1200;
 import { heroUrlOf } from './hero-url.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;

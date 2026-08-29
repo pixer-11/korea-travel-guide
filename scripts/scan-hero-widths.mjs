@@ -19,7 +19,7 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
-import { probeWidth } from './lib/image-width.mjs';
+import { probeWidth, UNUSABLE_WIDTH } from './lib/image-width.mjs';
 
 const POSTS = 'src/content/posts';
 const QUEUE_FILE = 'data/hero-width-queue.json';
@@ -31,7 +31,7 @@ const MIN_WIDTH = 1200;
 // hero" holds down to roughly a phone's width; past that the page looks
 // defective, so these are handed to the alt-photo patrol as mismatches and
 // taken off the site until it finds a real one, exactly like a wrong photo.
-const UNUSABLE_WIDTH = 640;
+// (The 640 constant moved to lib/image-width.mjs so attach paths share it.)
 const DRY = process.env.DRY === '1';
 const CONCURRENCY = 4;
 const today = new Date().toISOString().slice(0, 10);

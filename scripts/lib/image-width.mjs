@@ -10,6 +10,13 @@
 
 const UA = { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' };
 
+// Below this true pixel width a hero is a smear, not a photograph — the
+// nightly width check quarantines it. Lives here (not in scan-hero-widths)
+// so ATTACH paths can enforce the same floor they will later be judged by:
+// on 2026-08-29 the alt-source backfill attached 474px and 500px act photos
+// and the very same run quarantined both. One constant, both directions.
+export const UNUSABLE_WIDTH = 640;
+
 export function parseImageWidth(buf) {
   if (buf.length >= 24 && buf[0] === 0x89 && buf[1] === 0x50) return buf.readUInt32BE(16); // PNG IHDR
   if (buf.length >= 4 && buf[0] === 0xff && buf[1] === 0xd8) { // JPEG: scan for SOFn

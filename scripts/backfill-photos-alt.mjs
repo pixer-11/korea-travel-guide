@@ -20,7 +20,8 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
-import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
+import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
+import { probeWidth, UNUSABLE_WIDTH } from './lib/image-width.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
@@ -386,6 +387,21 @@ for (const f of files) {
     if (ident.verdict === 'contradicts') {
       console.log(`   ${slug}: identity rejects it (${ident.why}) — skipping`);
       remember(`identity: ${ident.why}`);
+      continue;
+    }
+    // THE WIDTH GATE. Alt-source candidates carry no width metadata, and this
+    // was the one attach path with no floor at all: on 2026-08-29 it attached
+    // a 474px and a 500px act photo and the SAME run's width check quarantined
+    // both — the attach-then-strip churn the 08-28 1200-unification was meant
+    // to end, alive because an absent constant is invisible to a constant
+    // sweep. Probe TRUE pixels before writing; unknown is not proven wide
+    // enough (image-width.mjs doctrine). Events need the Discover floor,
+    // venues the usable floor ("small hero beats no hero" holds down to 640).
+    const needW = isEvent ? EVENT_HERO_MIN_WIDTH : UNUSABLE_WIDTH;
+    const trueW = await probeWidth(cand.url);
+    if (!trueW || trueW < needW) {
+      console.log(`   ${slug}: candidate is ${trueW ?? 'unknown'}px (<${needW}) — skipping`);
+      remember(`width: ${trueW ?? 'unknown'}px < ${needW}`);
       continue;
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
