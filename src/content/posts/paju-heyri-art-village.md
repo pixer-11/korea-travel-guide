@@ -20,6 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.788841399999995
   lng: 126.69872199999999
+  phone: '+82 31-946-8551'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
   - paju
   - Heyri Art Village

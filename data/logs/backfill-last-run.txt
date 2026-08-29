@@ -1,4 +1,15 @@
-Places 예산: backfill 몫 0회 (오늘 사용 36/100)
+Places 예산: backfill 몫 10회 (오늘 사용 6/100)
 Priority: 132 itinerary stop(s) queued first
+  – barcelona-ciutadella-park.md: nothing new (resting 60d)
+  – barcelona-placa-nova.md: nothing new (resting 60d)
+  – al-barsha-dubai-gold-souk.md: nothing new (resting 60d)
+  – baguio-baguio-city-market.md: nothing new (resting 60d)
+  – nice-cascade-du-chateau.md: nothing new (resting 60d)
+  – nusa-penida-broken-beach.md: nothing new (resting 60d)
+  ✓ okinawa-okinawa-world.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
+  ✓ paju-heyri-art-village.md +phone +7h hours
+  – palawan-secret-lagoon.md: nothing new (resting 60d)
+  – palermo-mercato-ballaro.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 0, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 0, remaining-askable 341 (APPLIED).
+BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 388, no-new-data 110, no-place 139, closed-quarantined 0, quota-429 0, api-error 0, api-calls 10, remaining-askable 333 (APPLIED).

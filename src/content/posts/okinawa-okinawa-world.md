@@ -22,23 +22,26 @@ place:
   lng: 127.7489447
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 16
-      - 17
+    weekdayQuiet: [9, 16]
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet:
-      - 9
-      - 16
-      - 17
+    weekendQuiet: [9, 16]
     weekendBusy:
       - 11
       - 12
       - 13
     venueId: ven_3450324c34576b7132357952515435766c5761475f617a4a496843
+  phone: '+81 98-949-7421'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
 tags:
   - okinawa
   - hidden gem
