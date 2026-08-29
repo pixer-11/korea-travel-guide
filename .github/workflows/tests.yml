@@ -89,7 +89,7 @@ jobs:
           # and Klook-relay tests written on 2026-08-05/06 would never have run
           # in CI — a test nobody runs is the exact shape this whole file exists
           # to prevent.
-          for t in scripts/*.test.mjs scripts/lib/*.test.mjs src/lib/*.test.mjs worker/*.test.mjs; do
+          for t in scripts/*.test.mjs scripts/lib/*.test.mjs src/lib/*.test.mjs worker/*.test.mjs workers/*/*.test.mjs; do
             [ -e "$t" ] || continue
             echo "── $t"
             # 테스트는 node:test를 쓰는 것과 자체 PASS/FAIL을 찍는 것이 섞여 있다.

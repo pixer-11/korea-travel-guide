@@ -1,0 +1,16 @@
+// wa-social-alarm — standalone on purpose: the site worker stays untouched, so
+// a bug here can never take the site down. Deployed by deploy-social-alarm.yml.
+{
+  "name": "wa-social-alarm",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-08-01",
+  // workers.dev URL stays on for the guarded manual test endpoint (Cloudflare
+  // offers no "run cron now" button). Unauthenticated visits only see the name.
+  "workers_dev": true,
+  "triggers": {
+    // 22:30 UTC = 07:30 KST next day — five minutes after threads-daily's own
+    // first cron (07:25). If GitHub fired on time we queue behind it and the
+    // day guard exits; if GitHub dropped the slot (the whole point), we post.
+    "crons": ["30 22 * * *"]
+  }
+}
