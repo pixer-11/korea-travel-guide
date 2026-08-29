@@ -21,10 +21,10 @@ import { existsSync, readFileSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
-import { probeWidth, UNUSABLE_WIDTH } from './lib/image-width.mjs';
-import { keyToken, tokens } from './lib/commons.mjs';
+import { probeWidth, upsizeFlickr, UNUSABLE_WIDTH } from './lib/image-width.mjs';
+import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
-import { venuePhotoCandidates } from './lib/photo-sources.mjs';
+import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-target.mjs';
@@ -32,6 +32,15 @@ import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
+// ⭐ 도시 축제 예외 (픽서님 승인 2026-08-29 "도시 축제류는 다시 해봐"). A
+// citywide festival, shopping season or national holiday has no act to
+// photograph, and often no free photo of "the event" exists at all — Dubai
+// Summer Surprises is a two-month season across a whole city. For THOSE
+// events only, the host city's own iconic real photo (Wikipedia lead image,
+// identity by article-association) is an honest hero. Tight word list on
+// purpose: lineup festivals with a bill of acts ("Lalala Fest", "Babylon
+// Soundgarden") are still illustrated by their acts, never by a skyline.
+const CITYWIDE_EVENT = /\b(festival|carnival|parade|fiesta|matsuri|surprises|shopping season|independence day|national day|new year)\b/i;
 const LIMIT = Number(process.env.LIMIT ?? 300);
 const ONLY = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
 
@@ -278,6 +287,58 @@ for (const f of files) {
       if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
       cands.push(pick);
     }
+    // Openverse act tier (2026-08-29, 픽서님: "유명 가수는 다른 공연 사진이라도").
+    // Commons often holds only tiny files of a touring act — Richard Marx:
+    // two files, 343/370px — while Flickr's CC pool (reached through
+    // Openverse, the approved keyless route) has full-size concert shots.
+    // Identity stays strict: the uploader's TITLE must contain the act's
+    // anchor token, because vision cannot tell acts apart and a Flickr
+    // filename is a serial number that proves nothing. A venue or city in
+    // the title is expected — a tour photo is some other city's night.
+    if (cands.length < 4 && anchor && !COMMON_ANCHOR.test(anchor)) {
+      try {
+        const ov = [
+          ...(await openversePhotos({ name: venueName, near: '', limit: 6 })),
+          // Second cast of the net: many Flickr uploads title the show, not
+          // the person ("<act> concert, <city> 2013"). Dedup by url below.
+          ...(await openversePhotos({ name: `${venueName} concert`, near: '', limit: 6 })),
+        ].filter((o, i, a) => a.findIndex((x) => x.url === o.url) === i);
+        for (const o of ov) {
+          if (cands.length >= 4) break;
+          if (!tokens(o.title || '').includes(anchor)) continue;
+          const prior = auditStore?.[`${slug}\x01${o.url}`];
+          if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
+          if (used.has(o.url)) continue;
+          console.log(`   ${slug}: openverse candidate titled for the act — "${String(o.title).slice(0, 60)}"`);
+          cands.push({ ...o, via: 'openverse-act' });
+        }
+      } catch {}
+    }
+    // Citywide-festival fallback — LAST in the candidate order, so a real
+    // festival/act photo above always wins; this only fills what act, type
+    // and venue searches left empty. Gates downstream still apply in full
+    // (vision, audit, identity against the CITY, width probe, used-dedup).
+    // The photo comes from Openverse, not the Commons resolver: city names
+    // are stop-words there by design ("the city is where, not what"), and
+    // big-city Wikipedia leads often live on en-wiki, outside Commons —
+    // Dubai's Burj Khalifa lead does. Identity = the city's own token in
+    // the uploader's title.
+    if (CITYWIDE_EVENT.test(`${venueName} ${data.title || ''}`) && cands.length < 4) {
+      try {
+        const cityToks = tokens(data.region || '');
+        const ov = await openversePhotos({ name: `${data.region} skyline`, near: data.country || '', limit: 8 });
+        for (const o of ov) {
+          if (cands.length >= 4) break;
+          const tt = tokens(o.title || '');
+          if (!cityToks.some((t) => tt.includes(t))) continue;
+          const prior = auditStore?.[`${slug}\x01${o.url}`];
+          if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
+          if (used.has(o.url)) continue;
+          console.log(`   ${slug}: citywide festival — host-city photo as last-resort candidate ("${String(o.title).slice(0, 50)}")`);
+          cands.push({ ...o, cityscape: true, via: 'openverse-city' });
+        }
+      } catch {}
+    }
   } else {
     cands = await venuePhotoCandidates({
       name: venueName,
@@ -334,7 +395,30 @@ for (const f of files) {
       auditStore[`${slug}\x01${cand.url}`] = { slug, verdict: 'MISMATCH', reason: `patrol reject: ${String(why || '').slice(0, 150)}`, at: new Date().toISOString() };
       auditDirty = true;
     };
-    const vis = await verifyHeroImage({ url: cand.url, ...ctx });
+    // THE WIDTH GATE — FIRST, before any vision spend. Alt-source candidates
+    // carry no width metadata, and this was the one attach path with no floor
+    // at all: on 2026-08-29 it attached a 474px and a 500px act photo and the
+    // SAME run's width check quarantined both — the attach-then-strip churn
+    // the 08-28 1200-unification was meant to end, alive because an absent
+    // constant is invisible to a constant sweep. Probe TRUE pixels; unknown
+    // is not proven wide enough (image-width.mjs doctrine). Events need the
+    // Discover floor, venues the usable one ("small hero beats no hero"
+    // holds down to 640). A probe is a range-fetch; a vision verdict is two
+    // Haiku image calls — reject the smear before paying for opinions on it.
+    const needW = isEvent ? EVENT_HERO_MIN_WIDTH : UNUSABLE_WIDTH;
+    cand.url = await upsizeFlickr(cand.url, needW);
+    const trueW = await probeWidth(cand.url);
+    if (!trueW || trueW < needW) {
+      console.log(`   ${slug}: candidate is ${trueW ?? 'unknown'}px (<${needW}) — skipping`);
+      remember(`width: ${trueW ?? 'unknown'}px < ${needW}`);
+      continue;
+    }
+    // A cityscape fallback candidate is judged as a photo OF THE CITY, not of
+    // the act: non-event verify (AREA consistency bar) fits it exactly.
+    const cctx = cand.cityscape
+      ? { ...ctx, name: `${data.region} cityscape`, eventMode: false, venue: '' }
+      : ctx;
+    const vis = await verifyHeroImage({ url: cand.url, ...cctx });
     // Say WHY: the same two Asian Games files read "unavailable" on three
     // runs in a row (2026-08-23) and nothing in the log could tell an API
     // outage from a file the API refuses (too large, wrong type).
@@ -350,7 +434,9 @@ for (const f of files) {
       // The audit must know the venue too, or it refuses the venue photo the
       // selection just accepted ("convention center, not EDC venue" for the
       // Inspire resort that IS the EDC venue, 2026-08-23).
-      venue: isEvent ? (data.eventVenue || '') : '',
+      venue: cand.cityscape
+        ? `the host city of ${data.region} itself — for this citywide event any recognizable ${data.region} skyline, landmark or street scene counts as the venue`
+        : (isEvent ? (data.eventVenue || '') : ''),
     });
     if (second.verdict === 'MISMATCH') {
       console.log(`   ${slug}: selection passed but the audit rejects it (${second.reason}) — skipping`);
@@ -381,27 +467,19 @@ for (const f of files) {
     // "Commons places this in Hangzhou, post says Nagoya" (2026-08-23). The
     // place test is for venues; for a name-confirmed event it is wrong by
     // construction. Venue finds and act finds keep the gate.
-    const ident = isEvent && cand.via === 'phrase'
-      ? { verdict: 'unknown', why: 'event found by name — past edition, place not tested' }
-      : await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName }, world);
+    const ident = cand.cityscape
+      // The cityscape tier's identity IS the place: judge against the city,
+      // not the event name (a Dubai skyline can never "name" DSS).
+      ? await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName: data.region }, world)
+      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act')
+        // openverse-act: identity was the act's name in the uploader's title,
+        // and a tour photo's PLACE is some past city — place-testing it is
+        // wrong by construction, same as the phrase case above.
+        ? { verdict: 'unknown', why: 'event found by name — past edition, place not tested' }
+        : await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName }, world);
     if (ident.verdict === 'contradicts') {
       console.log(`   ${slug}: identity rejects it (${ident.why}) — skipping`);
       remember(`identity: ${ident.why}`);
-      continue;
-    }
-    // THE WIDTH GATE. Alt-source candidates carry no width metadata, and this
-    // was the one attach path with no floor at all: on 2026-08-29 it attached
-    // a 474px and a 500px act photo and the SAME run's width check quarantined
-    // both — the attach-then-strip churn the 08-28 1200-unification was meant
-    // to end, alive because an absent constant is invisible to a constant
-    // sweep. Probe TRUE pixels before writing; unknown is not proven wide
-    // enough (image-width.mjs doctrine). Events need the Discover floor,
-    // venues the usable floor ("small hero beats no hero" holds down to 640).
-    const needW = isEvent ? EVENT_HERO_MIN_WIDTH : UNUSABLE_WIDTH;
-    const trueW = await probeWidth(cand.url);
-    if (!trueW || trueW < needW) {
-      console.log(`   ${slug}: candidate is ${trueW ?? 'unknown'}px (<${needW}) — skipping`);
-      remember(`width: ${trueW ?? 'unknown'}px < ${needW}`);
       continue;
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }

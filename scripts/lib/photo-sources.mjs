@@ -331,6 +331,9 @@ export async function openversePhotos({ name, near, limit = 4 }) {
         credit: `Photo: ${r.creator || 'unknown'} / ${r.source || 'Openverse'} (${String(r.license || 'cc').toUpperCase()})`,
         license: 'openverse-cc',
         source: r.foreign_landing_url || r.url,
+        // The uploader's title is the identity evidence downstream filters
+        // read (the event tier requires the act's anchor token in it).
+        title: r.title || '',
       }))
       .filter((p) => p.url);
   } catch {
