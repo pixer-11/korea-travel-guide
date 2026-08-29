@@ -107,7 +107,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -139,9 +138,9 @@ Buses running along Tunalı Hilmi Caddesi also stop within a couple of minutes' 
 
 The park is open 24 hours, every day, so there's no risk of arriving to locked gates. That said, timing changes the experience considerably.
 
-Weekday mornings between 7am and 9am are the quietest window, with the paths nearly empty and the swans often more active before foot traffic picks up. Weekends are calmer earlier too, roughly 7am to 11am, before the crowds settle in.
+Weekday mornings tend to be the quietest window, with the paths nearly empty and the swans often more active before foot traffic picks up. Weekends are calmer earlier too, before the crowds settle in.
 
-Try to avoid weekend afternoons and evenings, especially the stretch from noon to 11pm, when the park fills with families, couples, and groups meeting at the surrounding cafés. It's still pleasant then, just far more crowded and harder to find a free bench.
+Try to avoid weekend afternoons and evenings, when the park fills with families, couples, and groups meeting at the surrounding cafés. It's still pleasant then, just far more crowded and harder to find a free bench.
 
 ## How to visit like a local
 

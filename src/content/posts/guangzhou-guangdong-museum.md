@@ -88,7 +88,7 @@ Weekends bring more local families, especially with kids in tow for the natural 
 
 ## How to visit like a local
 
-Reserve your free ticket in advance — same-day counter tickets exist but can require ID and a short wait. Bring identification, as entry registration is typically required.
+Check ticket requirements before you go, and bring identification, as entry registration is typically required.
 
 Because this isn't yet a tourist-clogged stop, you won't need to fight crowds for photos, but locals still treat it as a quiet weekday outing rather than a big-ticket destination. Dress comfortably — the galleries span several floors with limited seating.
 

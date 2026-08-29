@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 The road up to the Prince of Chumphon Monument climbs a headland at the southern edge of Pattaya, past scrubby hillside and the occasional stray dog dozing in the shade. You know you're close when the trees thin out and the bay opens up below you in a wide grey-blue sweep, container ships anchored offshore like toys.
@@ -105,7 +104,7 @@ Treat this as a place of genuine reverence, not just a photo backdrop. Dress mod
 
 There's no formal ticket booth or entry fee, and the site stays open daily from 7:30am to 7pm, so you can plan around either the morning light or the evening glow without worrying about a cutoff. Cash isn't really needed at the monument itself, though vendors near the parking area may only take small bills.
 
-The quietest window is 8am to 9am, whether you go on a weekday or a weekend, which also happens to be a pleasant time to catch the morning haze burning off the bay. Weekends get busy from 10am straight through to 7pm, so if solitude matters more to you than convenience, arrive right at opening.
+Mornings tend to be quieter, whether you go on a weekday or a weekend, which also happens to be a pleasant time to catch the morning haze burning off the bay. Weekends tend to get busier as the day goes on, so if solitude matters more to you than convenience, arrive right at opening.
 
 A common mistake is treating this as a quick five-minute stop between beach and dinner. Give it closer to an hour: time to walk the full platform, read the small informational plaques about the Prince's naval career, and actually sit with the view instead of snapping one photo and leaving.
 

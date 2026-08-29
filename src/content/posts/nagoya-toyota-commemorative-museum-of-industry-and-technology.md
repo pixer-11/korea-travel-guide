@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -111,7 +110,7 @@ This is a genuinely popular stop on the Nagoya circuit, not a quiet insider find
 
 - Go on a weekday morning, ideally right at 9:30am opening, before tour buses arrive
 - Skip the 10am–5pm weekend crush if you have any flexibility in your schedule
-- Pay at the entrance — cash and IC transit cards (Manaca, Suica, etc.) are both commonly accepted at ticket counters here
+- Pay at the entrance when you arrive
 - Follow the live demonstration times posted at the entrance; the loom and shuttle-loom shows are the museum's real centerpiece, and missing them means missing the point
 - Don't rush the textile hall to get to the cars — the mechanical detail there is what makes this museum different from a standard car museum
 
@@ -120,4 +119,3 @@ The most common mistake is treating this as a quick photo-op car museum and blow
 ## Nearby
 
 Noritake Garden, the ceramics company's leafy former factory grounds, is a short walk away and pairs naturally with a museum visit — both sites share the same industrial-heritage thread running through Nishi Ward. If you have a full day, combine the two before heading back toward central Nagoya for dinner.
-

@@ -54,7 +54,6 @@ faq:
     a: "The detached Jaro Belfry directly across the plaza, century-old acacia trees, and several preserved ancestral houses reflecting Jaro's colonial-era heritage."
 aiGenerated: true
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You spot the bell tower before you spot the church itself. It stands across the road from the main façade, not attached to it — a detail that trips up almost every first-time visitor to Jaro.
@@ -81,7 +80,6 @@ Before or after your visit, spend time in the plaza itself:
 
 - Century-old acacia trees shading benches and vendors
 - Nearby ancestral houses reflecting Jaro's old moneyed heritage
-- Small stalls selling local snacks and fresh buko juice near the plaza edge
 - The Jaro Belfry directly across from the main entrance
 
 Give the visit itself about 20–30 minutes, longer if a Mass or devotional service is underway and you want to sit in on it respectfully.

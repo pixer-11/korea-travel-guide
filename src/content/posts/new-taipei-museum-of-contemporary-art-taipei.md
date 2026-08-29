@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -104,7 +103,7 @@ Plan for 90 minutes to two hours. That's enough time to see the permanent buildi
 
 This is a well-visited museum, not a hidden find, so the smart move is timing rather than secrecy.
 
-Go on a weekday, ideally right at the 10am opening, and you'll largely skip the weekend crush. Payment is straightforward — cash or card both work at the ticket counter, and mobile payment via Taiwan's common apps is increasingly accepted too.
+Go on a weekday, ideally right at the 10am opening, and you'll largely skip the weekend crush. It's worth checking the museum's current ticketing and payment options before you go, since these can change.
 
 There's no need to book ahead for general admission; queues are rare outside weekend afternoons. The etiquette here is the same as any contemporary art space: no flash photography near light-sensitive installations, keep voices down in smaller rooms, and don't touch the brickwork or window frames, since they're part of the historic structure, not just backdrop.
 

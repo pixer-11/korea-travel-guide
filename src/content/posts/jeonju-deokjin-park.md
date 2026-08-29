@@ -81,7 +81,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 The lake announces itself before the gate does: a flat green sheet of lotus pads stretching toward a red-roofed pavilion. Deokjin Park sits in Deokjin-gu, a short ride from central Jeonju, and it's built almost entirely around this one body of water.
@@ -102,13 +101,13 @@ The park connects loosely to Jeonju's broader park network, and locals treat it 
 
 Deokjin Park sits at 390 Gwonsamdeuk-ro, Deokjin-dong, a taxi ride of roughly 15-20 minutes from Jeonju Hanok Village. There's no subway system in Jeonju, so a taxi or local bus is the practical route.
 
-The park never closes, open 24 hours every day, which matters for photographers chasing sunrise light on the lotus lake. Weekday mornings, 7am–8am, are the quietest window measured here.
+The park never closes, open 24 hours every day, which matters for photographers chasing sunrise light on the lotus lake.
 
-On weekends, foot traffic builds fast and stays heavy from 11am to 11pm. If you want the bridge and pavilion without a crowd behind you, aim for 7am–9am on a Saturday or Sunday instead.
+On weekends, foot traffic builds fast and stays heavy for much of the day. If you want the bridge and pavilion without a crowd behind you, aim for 7am–9am on a Saturday or Sunday instead.
 
 ## How to visit like a local
 
-Come early. With no entry fee or gate to unlock, sunrise on the lotus lake is a genuinely local habit, not a tourist trick, and the light works best before 8am anyway.
+Come early. Sunrise on the lotus lake is a genuinely local habit, not a tourist trick, and the light works best before 8am anyway.
 
 Bring your own coffee or snacks; there's no significant concession stand at the lakeside, and stalls near the entrance can be inconsistent. Cash isn't really needed inside the park itself.
 

@@ -68,12 +68,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-You come here for scale, not subtlety. The Buddha Museum isn't a single hall you pop into for twenty minutes — it's a monastery city, built around a 36-meter seated bronze Amitabha Buddha visible from kilometers away in the Gaoping River valley.
+You come here for scale, not subtlety. The Buddha Museum isn't a single hall you pop into for twenty minutes — it's a monastery city, built around a giant seated bronze Buddha statue visible from kilometers away in the Gaoping River valley.
 
 Walking the main axis, you pass eight identical pagodas flanking a long plaza, each housing a different cultural gallery. The symmetry is the point: it's meant to feel like you're processing toward something enormous, and by the time you reach the base of the Buddha, you are looking straight up at bronze robes the size of a building.
 
@@ -119,4 +118,3 @@ This is one of Kaohsiung's most-visited sites, so beating the crowds is about ti
 Give yourself a minimum of three to four hours, more if you want to properly explore each pagoda gallery or attend a scheduled ceremony. The site connects to the older Fo Guang Shan Monastery complex nearby, worth combining into a longer day if you have the time and transport.
 
 Bring water and sun protection in warmer months — the plazas offer almost no shade at midday, and Kaohsiung's heat and humidity build quickly between April and October.
-

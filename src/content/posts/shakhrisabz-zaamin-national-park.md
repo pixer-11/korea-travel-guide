@@ -106,7 +106,7 @@ Streams cut through several valleys, running clear and cold even in summer, and 
 
 The park is open every day, 8am to 8pm, year-round. Late spring through early autumn is the easiest window — snow can close higher trails in winter, while summer mornings stay cool at altitude even when Shakhrisabz below is baking.
 
-Crowd patterns here are unusually predictable. Weekdays tend to be quieter than weekends, and mornings are calmer than afternoons. After that, especially on weekends, traffic builds steadily and stays busy clear through to closing at 8pm.
+Crowd patterns here are unusually predictable. Weekdays tend to be quieter than weekends, and mornings are calmer than afternoons. After that, especially on weekends, crowds build steadily and the park stays busy right up until closing at 8pm.
 
 If you want the trails to yourself, aim for a weekday morning. If a weekend is your only option, get there at 8am sharp.
 

@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Dekmantel x Potato Head matters
 
 Dekmantel doesn't just parachute into a city and call it a satellite party. The Amsterdam festival and label has spent over a decade curating some of the most respected underground electronic lineups in the world, and its ongoing collaboration with Desa Potato Head has become one of the standout dance-music dates on Bali's calendar.
@@ -48,7 +47,7 @@ Desa Potato Head sits right on Seminyak's Petitenget beach, a sprawling creative
 
 Expect the signature Dekmantel formula: deep, expertly sequenced house and techno, minimal flash, maximum groove. Sets typically run from golden-hour into the night, with the crowd shifting from beach loungers to a packed dancefloor as the sun drops behind the Indian Ocean.
 
-The 2026 edition is dated September 25. Confirm timing and tickets on the official site, since exact set times and any last-minute lineup or stage changes are only accurate there.
+Exact dates for the 2026 edition have not been fixed here. Confirm timing and tickets on the official site, since exact set times and any last-minute lineup or stage changes are only accurate there.
 
 ## Getting to Desa Potato Head
 
@@ -76,7 +75,7 @@ Bali's electronic music crowd treats these events as much as a social gathering 
 - **Tipping** isn't obligatory but rounding up at bars is appreciated by staff.
 - **The rookie mistake** is treating it like a late-city club night and arriving after midnight — by then the venue's capacity and vibe have already peaked, and the beachfront energy of the early hours is gone.
 
-Book ferry or driver transport back to your hotel in advance if you're staying outside Seminyak; post-event ride-hailing demand spikes hard right as the music ends.
+Book driver transport back to your hotel in advance if you're staying outside Seminyak; post-event ride-hailing demand spikes hard right as the music ends.
 
 ## Nearby things to fold into your trip
 

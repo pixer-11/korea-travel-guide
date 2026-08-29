@@ -65,7 +65,7 @@ Evenings around show times are a reasonable guess for the busiest stretch, given
 Treat Flint as part of a bigger NCPA evening rather than a standalone destination. Locals heading to a concert or play often build in time for a pre-show meal or a post-show drink here, so plan around the performance schedule, not just the restaurant's.
 
 - Book ahead if you can — new fire-concept openings in Mumbai tend to draw crowds quickly once word spreads.
-- Order the Picante if you've never tried ambada leaves; it's a distinctly local ingredient worth asking your bartender about.
+- Ask your bartender about the cocktails built on unusual local ingredients; it's a distinctly local touch worth trying.
 - Dress for a night out, not beachwear — NCPA's crowd skews theatre-going.
 - Carry a card or UPI-linked payment app, standard practice at Mumbai's newer cafés.
 

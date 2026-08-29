@@ -77,7 +77,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -109,7 +108,7 @@ If you're coming from Tenjin or Hakata Station, the trip is straightforward on t
 
 The museum runs 9:30am to 9:30pm every day except Tuesday, when it's closed entirely. That long window is unusual for a Japanese museum and gives you real flexibility, including evening visits after a full day of sightseeing elsewhere.
 
-Weekends get busy, with foot traffic staying heavy from 11am right through to 8pm. If you can, visit on a weekday morning shortly after opening, or aim for a weekend visit right when doors open at 9:30am, before the late-morning rush builds.
+Weekends get busy. If you can, visit on a weekday morning shortly after opening, or aim for a weekend visit right when doors open at 9:30am, before the late-morning rush builds.
 
 Evenings on weekdays tend to be calmer too, since the extended hours mean the after-work and after-school crowd spreads out rather than clustering at midday.
 

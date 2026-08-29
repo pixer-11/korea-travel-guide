@@ -61,7 +61,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,8 +81,6 @@ Keep the order simple; this menu rewards focus rather than exploration.
 
 - **Wonton noodles** — the signature dish, dumplings plump with shrimp and pork
 - **Shrimp roe noodles** — dry-tossed or in soup, roe adds texture and salt
-- **Beef brisket noodles** — a heartier, slow-braised option if you want more than broth
-- **Choy sum in oyster sauce** — a simple green vegetable side to round out the bowl
 
 Portions are sized for a quick meal, not a feast, which is part of why locals treat this as a stop rather than an event. Prices sit in the mid-range for a noodle shop — not cheap-eats territory, but nowhere near what you'd pay at a sit-down restaurant nearby.
 
@@ -106,4 +103,3 @@ Treat the counter the way regulars do: sit down, order quickly, eat, and free up
 - **Pace**: don't expect a leisurely sit-down meal — this is fuel, not theater. Locals eat, pay, and move on within twenty or thirty minutes.
 
 North Point itself rewards a bit of wandering afterward — the neighborhood's wet market streets and old cha chaan tengs are worth a walk if you have an extra hour before or after your bowl of noodles.
-

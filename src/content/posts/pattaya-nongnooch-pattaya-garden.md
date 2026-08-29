@@ -76,10 +76,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-You clear the entrance gate and the traffic noise of Sutthep Road just disappears, replaced by clipped hedges stretching toward a horizon of palm avenues. Nongnooch covers roughly 500 acres, so the scale hits you immediately: this isn't a city park, it's a landscaped estate with its own tram routes.
+You clear the entrance gate and the traffic noise outside just disappears, replaced by clipped hedges stretching toward a horizon of palm avenues. Nongnooch covers roughly 500 acres, so the scale hits you immediately: this isn't a city park, it's a landscaped estate with its own tram routes.
 
 ## What's actually inside
 

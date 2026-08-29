@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You feel it before you see it: the road narrows, rice paddies open up flat and green on both sides, and suddenly limestone karsts rise straight out of the earth like something drawn rather than formed. This is Hoa Lu, capital of Vietnam a thousand years before Hanoi took the title.
@@ -103,7 +102,7 @@ Inside the temples, dim light filters through wooden lattice screens onto lacque
 
 The site opens daily from 7am to 5pm, every day of the week. Spring (February–April) brings soft, hazy light and cooler air; summer gets hot and humid by mid-morning.
 
-Crowd data backs this up clearly: weekends get genuinely busy between 9am and 2pm, when tour buses from Hanoi arrive en masse. Weekday visits stay comfortably calm across the whole 7am–5pm window.
+Weekends tend to draw noticeably more visitors than weekdays, particularly through the late morning and early afternoon. Weekday visits stay comfortably calm across the whole 7am–5pm window.
 
 If you can only come on a weekend, arrive right at 7am and you'll have the courtyards nearly to yourself for that first hour.
 
@@ -124,4 +123,3 @@ Bring water; there's little shade between the parking area and the temple courty
 ## Nearby to pair with your visit
 
 Hoa Lu sits close enough to Trang An and Tam Coc that most visitors combine all three in a single day. A boat ride through Trang An's flooded caves, then Hoa Lu in the cooler late afternoon, is a natural sequence if you start early enough to beat the heat and the crowds on both ends.
-

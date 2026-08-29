@@ -78,7 +78,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Oh My Gulay is worth the climb
@@ -101,9 +100,9 @@ The kitchen is vegetarian-forward, though not strictly vegetarian, and pulls hea
 
 Dishes worth flagging:
 
-- Vegetable lumpia and salads built around highland greens
-- Baked goods and desserts, since the space doubles as a gathering spot for Baguio's art crowd
-- Herbal teas and fruit shakes, good for warming up or cooling down depending on the season
+- Vegetable dishes made with local highland produce
+- Baked goods and desserts
+- Teas and other beverages
 
 Baguio's elevation keeps things cool year-round, so the food here — warm, earthy, vegetable-heavy — fits the climate.
 

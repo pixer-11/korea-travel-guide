@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ If you're coming from Tai Wai or University stations instead, you can walk the r
 
 ## When to go
 
-The park is open every day from 6:30am to 11am... actually, it runs the full day, 6:30am to 11pm, seven days a week, so there's no risk of arriving to locked gates.
+The park is open every day from 6:30am to 11pm, seven days a week, so there's no risk of arriving to locked gates.
 
 Summer afternoons in Hong Kong are hot and sticky, and this park has limited shade in its open lawn sections, so late morning through mid-afternoon is the toughest window. Early morning brings joggers, tai chi groups and a cooler breeze off the river. Evenings after 7pm are similarly comfortable, with the waterfall and fountains lit up and families out for a post-dinner walk.
 
@@ -97,4 +96,3 @@ This is a well-known park, not a hidden find, so weekends and public holidays br
 - **Combine it with New Town Plaza** or a walk along the Shing Mun River promenade toward Tai Wai; the park works well as one stop in a longer riverside walk rather than a standalone destination.
 
 The most common visitor mistake is treating this as a quick five-minute photo stop. The layout is long and sectioned, so if you only wander the first entrance you'll miss the waterfall and turtle ponds further along. Budget closer to an hour if you want to see the whole stretch, and wear shoes you don't mind getting a little damp near the rockery spray.
-

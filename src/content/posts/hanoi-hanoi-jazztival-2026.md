@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You feel Hanoi Jazztival before you see a stage. Walk toward Ly Thai To Garden on a September evening and a low thread of saxophone drifts over the motorbike hum, pulling you past street vendors and lakeside strollers toward the source.
 
 ## Why this festival matters
@@ -73,7 +72,7 @@ If you want to sample the festival's range, plan for at least two of the three n
 
 ## How to visit like a local
 
-Hanoians treat outdoor jazz nights here as a lakeside evening out, not a formal concert — arriving to stroll around Hoan Kiem Lake before or after a set is normal, not touristy. Locals often eat first at a nearby bun cha or pho stall rather than counting on food at the venue itself.
+Hanoians treat outdoor jazz nights here as a lakeside evening out, not a formal concert — arriving to stroll around Hoan Kiem Lake before or after a set is normal, not touristy. Many locals eat beforehand rather than counting on food at the venue itself.
 
 - **Payment**: carry some cash (Vietnamese dong) for street food and small vendors near the garden stage, even where venues themselves take cards
 - **Queuing**: indoor venues like the Opera House tend to have assigned or general-admission seating with orderly entry; outdoor garden sets are more first-come, first-served for good standing spots

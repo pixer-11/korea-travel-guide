@@ -68,10 +68,9 @@ eventOffers:
   currency: USD
 eventFactsAsked: true
 ---
-
 ## Why go
 
-Aloha Festivals is Hawaii's largest cultural celebration, and 2026 marks its 80th year. Founded to keep Native Hawaiian traditions visible amid the islands' tourism boom, it's grown into a monthlong series across the state, anchored by Honolulu's biggest set-piece events.
+Aloha Festivals is Hawaii's largest cultural celebration, with a history spanning decades. Founded to keep Native Hawaiian traditions visible amid the islands' tourism boom, it's grown into a monthlong series across the state, anchored by Honolulu's biggest set-piece events.
 
 You come for the pageantry: feather-cloaked royal court members on horseback, halau (hula troupes) dancing down a closed city street, and floats banked with orchids and plumeria. It's noisy, colorful, and unmistakably local — not a staged luau for tourists.
 
@@ -115,4 +114,3 @@ Locals treat the Floral Parade as a claim-your-spot-early event. Arrive well bef
 - The common tourist mistake is showing up right at the announced parade start; the best curb spots are gone by then. Locals stake ground at least an hour ahead.
 
 Public transit or walking beats driving on event days — closures make parking near the route unpredictable, and buses reroute around Kalākaua Avenue while the parade is in progress.
-

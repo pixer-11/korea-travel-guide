@@ -103,7 +103,7 @@ Things worth building your visit around:
 
 - A pre-breakfast swim while the bay is still glassy and empty
 - Snorkeling off the rocky points at either end of the beach, where the coral is better than the open sand
-- A seafood lunch at one of the shack-style restaurants — grilled squid and whole fish are the standard order
+- A seafood lunch at one of the shack-style restaurants
 - An evening beer at one of the low-key bars as boats come back in with the day's divers
 
 ## When to go

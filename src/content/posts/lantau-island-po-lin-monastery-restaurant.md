@@ -78,7 +78,7 @@ The restaurant runs mostly on a set-menu system rather than an open à la carte 
 
 Typical dishes you'll find on the sets:
 
-- Mock-meat and mushroom dishes
+- Mock-meat and vegetable dishes
 - Stir-fried seasonal greens
 - Silken tofu in light sauce
 - Steamed rice and clear soup
@@ -90,7 +90,7 @@ Portions are shared, family-style, at long tables — expect a canteen-hall feel
 
 Give yourself time before or after lunch to walk the monastery grounds themselves.
 
-The Tian Tan Buddha sits atop 268 steps and is worth the climb for the views over the Lantau hills. Back down near the entrance, the Wisdom Path — a series of wooden pillars inscribed with the Heart Sutra — makes a quiet, short detour through the trees.
+The Tian Tan Buddha sits atop a long flight of steps and is worth the climb for the views over the Lantau hills. Back down near the entrance, the Wisdom Path — a series of wooden pillars inscribed with the Heart Sutra — makes a quiet, short detour through the trees.
 
 Ngong Ping Village below has more casual snack options if the monastery hall is packed or its hours don't line up with yours.
 

@@ -105,7 +105,6 @@ Chinese New Year is the one exception worth knowing about. The temple becomes a 
 This is a functioning place of worship, not a museum, and the etiquette matters. Dress modestly — shoulders and knees covered is a safe bet — and keep your voice low once inside.
 
 - Arrive between 8am and 9am on a weekday for the calmest visit.
-- No entry fee is charged.
 - Photography is generally fine, but avoid using flash near worshippers at the altars.
 - If you see someone shaking fortune sticks or bowing with incense, wait until they've finished before walking past that altar.
 - Remove hats before entering, and don't touch the altar items or offerings.

@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## A Seoul landmark, wrongly filed under Boryeong
@@ -87,7 +86,7 @@ Take Seoul Subway Line 4 or the Gyeongui-Jungang Line to Ichon Station, Exit 2. 
 
 The permanent galleries span prehistoric pottery through Joseon-dynasty court life, military history, and Buddhist art. The ten-story stone pagoda from Gyeongcheonsa Temple dominates the atrium — you see it through the glass before you've even bought a ticket, which you don't need for the permanent collection.
 
-Give yourself at least two to three hours. The Gilt-bronze Pensive Bodhiseonga, displayed in its own darkened room, draws quiet crowds who linger longer than anywhere else in the building. Special exhibitions, which do charge admission, rotate through a separate wing and often feature loans from other national collections.
+Give yourself at least two to three hours. The Gilt-bronze Pensive Bodhisattva, displayed in its own darkened room, draws quiet crowds who linger longer than anywhere else in the building. Special exhibitions, which do charge admission, rotate through a separate wing and often feature loans from other national collections.
 
 ## When to go
 
@@ -96,9 +95,9 @@ Hours vary by day, so check before you plan around them:
 - Monday, Tuesday, Thursday, Friday, Sunday: 9:30am–5:30pm
 - Wednesday and Saturday: 9:30am–9:00pm
 
-The extended evening hours on Wednesday and Saturday are your best move if you want space to actually look at things. Measured foot-traffic data shows weekday visits between 10am and 6pm run noticeably quieter than weekends.
+The extended evening hours on Wednesday and Saturday are your best move if you want space to actually look at things. Weekday visits between 10am and 6pm tend to be quieter than weekends.
 
-Weekends are a different story. Between noon and 6pm on Saturday and Sunday, the main halls fill with families and school groups, and the pagoda atrium can feel more like a train platform. If you're set on a weekend trip, arrive right at 8pm on Saturday — the crowd data shows 8pm–9pm as the calm window before closing.
+Weekends are a different story. Between noon and 6pm on Saturday and Sunday, the main halls fill with families and school groups, and the pagoda atrium can feel more like a train platform. If you're set on a weekend trip, arrive in the last hour before closing on Saturday, when things tend to be calmer.
 
 ## How to visit like a local
 
@@ -108,8 +107,7 @@ The museum is unmistakably one of Seoul's most-visited attractions, so treat it 
 - **Use the Wednesday or Saturday late hours**: staying past 6pm thins the crowd dramatically while the galleries remain fully lit and open.
 - **Pay by card**: like almost all Seoul institutions, the museum is essentially cashless — T-money transit cards and standard credit cards work everywhere, including the café and gift shop.
 - **Skip the special-exhibition line if you're short on time**: the permanent collection is free and covers the highlights; save paid special exhibitions for a return visit if the queue is long.
-- **Eat at the in-house Hangeul restaurant or the park's outdoor cafés** rather than rushing out — re-entry on the same day is generally allowed, so a break in Yongsan Family Park doesn't cost you your visit.
+- **Eat at the museum's on-site restaurant or the park's outdoor cafés** rather than rushing out — re-entry on the same day is generally allowed, so a break in Yongsan Family Park doesn't cost you your visit.
 - **The common mistake**: tourists cluster around the pagoda and the Bodhisattva room, then skip the upper-floor donation galleries and the outdoor Sculpture Garden — both are far less crowded and just as rewarding.
 
 Bring headphones if you want the audio guide app rather than renting a device, and wear layers — the galleries run cool even in summer. Photography without flash is generally permitted in the permanent halls, though special exhibitions sometimes restrict it, so check the signage room by room.
-

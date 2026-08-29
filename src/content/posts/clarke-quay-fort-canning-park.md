@@ -55,7 +55,6 @@ faq: []
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Fort Canning Park sits on a low hill right above Clarke Quay, and you feel the change the moment you leave the riverside bars behind. The traffic noise drops away, the air cools under rain trees, and gravel paths replace pavement. It's one of the few spots in this part of Singapore where colonial history, ancient royal legend, and pure green space overlap on a single hillside.
@@ -95,7 +94,7 @@ If there's an event on, expect fenced-off sections, ticket checks, and a very di
 
 ## How to visit like a local
 
-Fort Canning is extremely popular, so timing your visit matters more than finding a secret entrance. Weekend crowds build steadily and stay heavy from around 9am to 8pm, so an early morning or post-sunset visit is your best bet for empty paths.
+Fort Canning is extremely popular, so timing your visit matters more than finding a secret entrance. Weekend crowds build steadily through the day, so an early morning or post-sunset visit is your best bet for empty paths.
 
 - Wear proper shoes: the paths are hilly gravel and stone steps, not flat pavement
 - Bring water; shaded stretches are limited on the open lawn sections
@@ -111,4 +110,3 @@ Tourists' most common mistake is treating it as a quick 15-minute photo stop. Th
 Fort Canning MRT station (Downtown Line) sits almost directly beneath the park, with a lift and stairs leading up into the grounds. It's also an easy 5 to 10 minute walk from Clarke Quay itself, making it simple to combine a riverside dinner with an evening walk up the hill.
 
 The National Museum of Singapore and the Peranakan Museum are both a short walk downhill, so many visitors pair a morning at the park with an afternoon indoors. Clarke Quay's restaurants and riverboat rides are close enough for a natural end to the day once you've come back down.
-

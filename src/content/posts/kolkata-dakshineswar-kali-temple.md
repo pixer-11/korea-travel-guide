@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -93,7 +92,7 @@ The riverside ghat itself is worth a few minutes. Boats drift past, locals bathe
 
 The temple keeps a split schedule every day of the week: 5:00 AM to 12:30 PM, then 3:30 to 7:30 PM, closed for the hours between. Plan around that gap — arriving at 1pm means a locked gate and a wait.
 
-Weekday mornings between 7 and 8am are the calmest window measured here, right after the opening rush thins out. Weekends are a different story: crowds stay heavy from 8am straight through to 7pm, so if you're visiting on a Saturday or Sunday, come as close to 5am opening as you can manage.
+Weekday mornings between 7 and 8am are the calmest window of the day, right after the opening rush thins out. Weekends are a different story: crowds stay heavy from 8am straight through to 7pm, so if you're visiting on a Saturday or Sunday, come as close to 5am opening as you can manage.
 
 Fridays and festival days — especially Kali Puja and Durga Puja season — bring the heaviest crowds of all. If you have flexibility, a weekday visit outside peak festival dates is far more comfortable.
 

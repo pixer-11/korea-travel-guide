@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## First impression
@@ -135,4 +134,4 @@ The most common mistake visitors make is treating the upper terrace as the whole
 
 Bukit Jalil National Stadium and its park are a short drive away if you want to pair the temple with somewhere to walk off the humidity.
 
-There's no admission fee, so the main cost of the visit is transport. Plan on 45 minutes for a straightforward look, or up to 90 if you want to sit by the pond and take in the view properly.
+Plan on 45 minutes for a straightforward look, or up to 90 if you want to sit by the pond and take in the view properly.

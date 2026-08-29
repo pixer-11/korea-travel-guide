@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -91,7 +90,7 @@ If you want the market at its most photogenic — sacks stacked, boxes half-unpa
 
 Cash still rules here more than cards. Small notes in dirhams make transactions faster and give you room to negotiate on textiles or household goods.
 
-Bargaining is expected but should stay good-natured — a counter-offer of 20-30% below the asking price is normal, not insulting. Shopkeepers here deal with residents daily, not just tour buses, so a friendly, unhurried tone gets better prices than a rushed one.
+Bargaining is expected but should stay good-natured — a modest counter-offer below the asking price is normal, not insulting. Shopkeepers here deal with residents daily, not just tour buses, so a friendly, unhurried tone gets better prices than a rushed one.
 
 The mistake visitors make is treating this like the Gold Souk next door — expecting polish, English fluency, and fixed prices. Souk Deira runs on older rhythms: greet first, browse without pressure, and let the vendor lead the pitch.
 

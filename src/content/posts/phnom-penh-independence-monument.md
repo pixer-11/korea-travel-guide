@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -94,7 +93,7 @@ Early morning, before the city fully wakes, or the golden hour just before and a
 Cambodians don't linger at the monument itself so much as treat it as a backdrop while using the surrounding park and riverside area for actual leisure time. Follow that pattern rather than standing at the base for photos alone.
 
 - Cross carefully: the roundabout has no pedestrian signals, so cross at a natural gap in traffic, moving steadily rather than stopping mid-lane
-- Combine it with Wat Botum Park next door, where locals walk, stretch, and buy grilled bananas or fruit shakes from cart vendors in the late afternoon
+- Combine it with Wat Botum Park next door, where locals walk, stretch, and relax in the late afternoon
 - Pay vendors in small-denomination riel or US dollars — both circulate interchangeably in Phnom Penh
 - Skip the midday visit; heat and exhaust fumes make it far less enjoyable than dawn or dusk
 - Don't expect an entrance or interior — the value here is the exterior view and the historical significance, not a ticketed attraction

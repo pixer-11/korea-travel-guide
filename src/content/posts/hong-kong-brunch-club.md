@@ -92,8 +92,8 @@ The room is narrow and bright, with big windows that let the morning light spill
 
 The menu leans classic all-day brunch, executed well rather than reinvented. Expect the usual anchors done properly:
 
-- Eggs Benedict
-- Avocado toast
+- Classic egg dishes
+- Toast options
 - Big leafy salads and grain bowls for a lighter option
 - Proper flat whites and long blacks from a real espresso machine
 
@@ -109,7 +109,7 @@ If the incline puts you off, taxis handle the hill easily and drop you close to 
 
 Brunch Club opens at 8:30am on weekdays and 8am on weekends, closing at 9pm most nights. Sunday is the exception — it shuts at 5pm, so don't plan a late Sunday dinner here.
 
-Weekend mornings are the crunch point. Crowd data shows the busiest window is 10am to 4pm on Saturdays and Sundays, exactly when most visitors want to eat brunch. If you'd rather skip the wait, the quietest stretch on both weekdays and weekends is consistently 5pm to 9pm.
+Weekend mornings are the crunch point. Weekend late mornings into early afternoon tend to be the busiest time, especially on Saturdays and Sundays, exactly when most visitors want to eat brunch. If you'd rather skip the wait, the quietest stretch on both weekdays and weekends is consistently 5pm to 9pm.
 
 That evening lull is worth exploiting. You get the same menu, the same room, and none of the elbow-to-elbow seating that weekend midday brings.
 

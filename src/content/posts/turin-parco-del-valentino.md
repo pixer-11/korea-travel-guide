@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You enter from Corso Massimo d'Azeglio and the traffic noise drops away almost immediately. Plane trees and horse chestnuts, some over a century old, arch over gravel paths that trace the curve of the Po river. Rowing crews slice past below the embankment; joggers and cyclists share the same wide lanes without much friction.
@@ -99,7 +98,7 @@ Near the castle, a small rock garden (giardino roccioso) packs alpine plants and
 
 ## How to visit like a local
 
-The park is open around the clock, but that doesn't mean every hour suits every visitor. Mornings between 7am and 9am, on both weekdays and weekends, are consistently the quietest stretch, before joggers give way to dog walkers and student crowds from the nearby Politecnico. Weekend afternoons, roughly noon through 11pm, draw the heaviest foot traffic, especially near the castle and riverside cafes, so if you want empty paths and good light for photos, come early.
+The park is open around the clock, but that doesn't mean every hour suits every visitor. Early mornings tend to be quieter, before joggers give way to dog walkers and student crowds from the nearby Politecnico. Weekends generally bring heavier foot traffic, especially near the castle and riverside cafes, so if you want emptier paths and good light for photos, come early.
 
 This is one of Turin's most visited green spaces, not a quiet secret, so don't expect solitude on a sunny Sunday. Locals treat it as a through-route as much as a destination: commuting cyclists, students cutting between the Politecnico and city center, and rowing club members heading to the river all use it daily. There's no ticket booth at the main gates and no tipping culture here; bring cash only if you plan to buy something from a kiosk or gelato cart inside.
 

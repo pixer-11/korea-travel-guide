@@ -30,12 +30,11 @@ heroImage:
     x: 50
     'y': 55
 ---
-
 You feel Sora before you see the skyline. The lift doors open high above Phnom Penh's rooftops, pressure popping in your ears, and you step out into a room that suddenly makes the low-rise capital below look like a scale model. This is the top of Rosewood Phnom Penh, the tallest building in the city, and the bar has become the reference point for what "trendy" means here now.
 
 ## Why Sora Sky Bar matters right now
 
-This isn't just another hotel rooftop with a view. Sora was named to Asia's 50 Best Bars 2026, a list that shapes where serious drinkers plan their trips around. It also won a Sustainable Bar Award, which is rarer air — most rooftop bars chase spectacle, not sourcing or waste reduction.
+This isn't just another hotel rooftop with a view. Sora was named to Asia's 50 Best Bars list, a list that shapes where serious drinkers plan their trips around. It also won a Sustainable Bar Award, which is rarer air — most rooftop bars chase spectacle, not sourcing or waste reduction.
 
 Together those two honors have made Sora the reference point for Cambodia's bar scene. Locals and expats talk about it the way Bangkok drinkers talk about their skybars — as a marker of the city's arrival, not just a nice night out.
 
@@ -73,4 +72,3 @@ Order something from the current seasonal or signature list rather than a standa
 Tip in cash if you want to be certain it reaches your server directly, though card payment is standard at a Rosewood property. Dress a notch smarter than you would for a riverside bar — this is a hotel flagship, not a backpacker rooftop.
 
 Finally, treat the view as the opening act, not the whole show. The reason Sora keeps winning awards is the bar program behind it, so budget time to actually sit with a drink rather than snapping a photo and moving on.
-

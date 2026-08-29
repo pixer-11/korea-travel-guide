@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You'd walk past the entrance without knowing it's there. Jogeshwari Caves sit below street level, reached down a narrow lane off the main road in Jogeshwari East, hemmed in on all sides by apartment blocks that have crept right up to the cave mouth over the decades.
@@ -104,7 +103,7 @@ Because it's a working temple, you'll see devotees alongside sightseers, especia
 
 The caves keep split hours daily: 6am to 1pm, then 4:30pm to 9pm. Plan around that midday closure — arriving at 2pm means a locked gate and a wasted trip.
 
-Foot traffic data shows the quietest stretch is 7am to 8am, both on weekdays and weekends. That early slot also gives you softer light filtering into the hall, which helps for photos of the carvings.
+Arriving soon after the 6am opening tends to be quieter, both on weekdays and weekends. That early slot also gives you softer light filtering into the hall, which helps for photos of the carvings.
 
 Avoid weekend evenings between 5pm and 9pm. That's when the temple fills with local worshippers arriving after work, and the narrow approach lane gets congested.
 
@@ -116,5 +115,4 @@ There's no formal entry ticket at the gate, and donations at the shrine are give
 
 The etiquette mistake most visitors make is treating it purely as a photo stop and walking through the active shrine area loudly. Slow down near the deity, keep your voice low, and let worshippers move through first.
 
-If you want the calmest experience, arrive right at 6am opening or during that 7-8am window before the day's rituals and visitor traffic build up. Combine it with a morning trip to nearby Mahakali Caves, a similar rock-cut site a short drive away, to make the most of an early start into the suburbs.
-
+If you want the calmest experience, arrive right at 6am opening, before the day's rituals and visitor traffic build up. Combine it with a morning trip to nearby Mahakali Caves, a similar rock-cut site a short drive away, to make the most of an early start into the suburbs.

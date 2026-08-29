@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why this race weekend is different
 
 MotoGP in most countries feels like a domestic sporting event with foreign riders passing through. In Mandalika, it feels like the whole region has been rebuilt around three days in October. The Pertamina Mandalika International Circuit sits on Lombok's southern coast, carved into the Kuta Mandalika tourism zone, with the Indian Ocean visible from parts of the grandstand. You come for the racing, but the setting — volcanic hills inland, turquoise bays outside the gates — is what stays with you.
@@ -55,7 +54,7 @@ Fly into Lombok International Airport (LOP), roughly 30-40 minutes from the circ
 
 - Nearest airport: Lombok International Airport (LOP)
 - Typical transfer time: 30-40 minutes to the circuit
-- Alternative route: fly into Bali (Denpasur/DPS) then connect via a short domestic flight or ferry plus road transfer
+- Alternative route: fly into Bali (Denpasar/DPS) then connect via a short domestic flight or ferry plus road transfer
 
 Traffic converges hard on race mornings, since the road network into the circuit is limited. Locals and repeat visitors leave far earlier than they think they need to, especially for Sunday's main race.
 
@@ -84,4 +83,3 @@ Indonesian race fans and circuit staff treat this as a long weekend, not a singl
 - Book accommodation as early as you can. Rooms across Kuta Mandalika fill up fast given how far attendance climbed in recent years.
 
 The mistake most first-time visitors make is treating this like a one-day trip from Bali. Between the transfer, the heat, and the scale of the crowd, giving yourself the full weekend — and a buffer day either side — makes the whole trip far less stressful.
-

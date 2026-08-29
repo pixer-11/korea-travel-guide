@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You come around a bend near Yeulmaru-ro and the road just opens up: a wide stretch of waterfront, a paved promenade running parallel to the shore, and the kind of horizontal space that's rare in a city as packed into its hills as Yeosu is. Ungcheon Beach Park isn't a dramatic postcard beach. It's a working stretch of civic waterfront, and that's exactly what makes it worth a slow morning walk.
@@ -92,7 +91,7 @@ There's no admission gate and no set hours: it's open 24 hours every day, so you
 
 Because it's free, open-air, and open around the clock, the crowd here shifts a lot depending on when you show up. Early risers get the park almost to themselves.
 
-The quietest window, on both weekdays and weekends, is 7am to 8am, when the light is soft and the path is mostly locals out for exercise. By late morning it fills in fast, and on weekends the park stays busy from 11am straight through to 10pm as families, couples, and evening strollers take over.
+The quietest window tends to be early morning, when the light is soft and the path is mostly locals out for exercise. By late morning it fills in fast, and on weekends the park stays busy for much of the day as families, couples, and evening strollers take over.
 
 If you want space to actually breathe and take photos without people in every frame, aim for that early hour. If you'd rather feel the local energy of the place, a warm evening after dinner is when it comes alive.
 
@@ -113,4 +112,3 @@ Locals here treat the park as a functional part of the day, not a sightseeing st
 - On weekends, expect real crowds from late morning into the evening, especially with families and groups
 
 The most common mistake visitors make is arriving at midday expecting a quiet coastal escape. Between 11am and 10pm on weekends, this is a genuinely popular local hangout, and you'll be sharing the path with a lot of other people. Plan around that rather than fighting it, and the park delivers exactly what it promises: open sea air, easy walking, and a real slice of everyday Yeosu life.
-

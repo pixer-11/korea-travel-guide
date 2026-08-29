@@ -104,7 +104,7 @@ If you're driving, there's a car park near the ticket booth, though it fills fas
 
 ## When to go
 
-Go early. Opening hours vary seasonally, and data on visitor patterns shows the calmest hours — both weekday and weekend — fall within that same 8am–11pm window, with the crowd surge concentrated between 12pm and 6pm on weekends.
+Go early. Opening hours vary seasonally, and the calmest hours tend to fall in the early morning, both on weekdays and weekends, with the crowd surge concentrated between 12pm and 6pm on weekends.
 
 Arriving right at opening gets you the ruins in soft morning light, before the heat sets in and before tour groups from the coast arrive. Spring and autumn are noticeably more comfortable than midsummer, when the shadeless walk between sites gets brutal by late morning.
 

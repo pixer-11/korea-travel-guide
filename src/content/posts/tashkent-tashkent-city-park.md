@@ -54,7 +54,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -92,10 +91,9 @@ Weekends bring noticeably bigger crowds, especially families out for the fountai
 Tashkent City Park is well-known and well-visited, so the smartest move is timing rather than seeking out a quiet corner that doesn't exist. Go on a weekday evening rather than a Friday or Saturday, when local families crowd the fountain area.
 
 - Cash and card are both commonly accepted at the park's restaurants and kiosks, but carry some small cash for snack vendors.
-- There's no ticket or entry fee to wander the park itself — you're only paying if you eat or sit down at a restaurant.
+- You'll only spend money if you eat or sit down at a restaurant, since the park itself is simply open space to walk through.
 - Dress for walking; the paths are long and mostly uncovered, with limited shade in the afternoon heat.
 - The mistake most visitors make is treating it as a quick daytime photo stop and leaving before dark — the fountains and light displays are the whole point, and they only run in the evening.
 - Pair a visit with a walk through the adjacent Tashkent City mall complex, which sits right alongside the park and makes for an easy combined outing.
 
 Locals and visitors alike treat the park as an evening destination rather than a daytime errand, so plan your visit around dusk if you want to see it at its best.
-

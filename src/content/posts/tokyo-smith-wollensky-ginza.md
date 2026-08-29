@@ -30,12 +30,11 @@ heroImage:
     x: 50
     'y': 40
 ---
-
 ## Why go
 
 You already know the name from Manhattan's Third Avenue, but this is the first time it's crossed the Pacific. Ginza gives it a fitting stage: marble, brass, dark wood, the low hum of a room that takes itself seriously without being stiff.
 
-Three floors stack the experience — a street-level bar, a main dining room, and private space above. The draw is simple: USDA Prime beef, dry-aged in house, served the way New York has always done it. A wine cellar holding more than 2,000 bottles backs it up, and by evening a jazz trio or pianist usually threads through the bar downstairs.
+Three floors stack the experience — a street-level bar, a main dining room, and private space above. The draw is simple: USDA Prime beef, dry-aged in house, served the way New York has always done it. A substantial wine cellar backs it up, and by evening a jazz trio or pianist usually threads through the bar downstairs.
 
 ## Getting there
 

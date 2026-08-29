@@ -60,7 +60,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Bungkul Park matters
@@ -90,7 +89,7 @@ If you're coming from Gubeng Station or the Tunjungan area, expect a short ride 
 
 ## When to go
 
-Weekends are the crush point. Foot traffic data shows the park runs busy from 7am straight through to 11pm on Saturdays and Sundays, with no real lull in that window.
+Weekends are the crush point. The park draws large crowds throughout the day on Saturdays and Sundays, with little real lull.
 
 Weekday mornings are your best shot at open lawn space and empty benches. If you want the food stalls and the buzz, go anyway on a weekend evening, just accept you'll be sharing the grass with half of Surabaya.
 

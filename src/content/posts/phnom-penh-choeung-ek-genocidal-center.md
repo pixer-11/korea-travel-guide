@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Choeung Ek sits about 15km southwest of central Phnom Penh, past rice paddies and roadside noodle stalls that feel worlds away from what happened here. This was one of more than 300 killing fields across Cambodia, used by the Khmer Rouge between 1975 and 1979. Today it's a memorial, not a museum in the traditional sense — and the quiet is the point.
@@ -81,7 +80,7 @@ Budget 90 minutes to two hours. Rushing this place does it a disservice.
 
 ## The stupa and the museum
 
-At the center of the grounds stands the Buddhist memorial stupa, its glass walls stacked with more than 5,000 skulls recovered from the surrounding pits. Sunlight filters through the glass onto the shelves, and visitors leave bracelets and incense at its base.
+At the center of the grounds stands the Buddhist memorial stupa, its glass walls stacked with skulls recovered from the surrounding pits. Sunlight filters through the glass onto the shelves, and visitors leave bracelets and incense at its base.
 
 Nearby, a small museum building traces the rise of the Khmer Rouge and the mechanics of what happened at Choeung Ek specifically. A documentary film plays on a loop inside, useful if you want context before or after walking the grounds.
 

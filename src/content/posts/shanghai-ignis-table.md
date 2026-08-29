@@ -48,7 +48,7 @@ Because it's newly opened, exact floor and entrance details can shift as the bui
 
 ## Booking and what to expect on the night
 
-At this price point and format, Ignis Table runs on reservations, not walk-ins. A ¥1,880 set menu per person, in a room built around a chef's table, means limited covers per seating — book several weeks out if you can, longer for a weekend.
+At this price point and format, Ignis Table runs on reservations, not walk-ins. A set menu priced per person, in a room built around a chef's table, means limited covers per seating — book several weeks out if you can, longer for a weekend.
 
 - Confirm current opening days and seating times directly with the restaurant before finalizing plans
 - Ask whether the price includes service or beverage pairings when you reserve

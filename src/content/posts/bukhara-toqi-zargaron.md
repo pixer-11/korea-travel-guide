@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why Toqi Zargaron matters
@@ -103,13 +102,13 @@ Prices are rarely fixed, so treat the first number you hear as an opening offer 
 
 Toqi Zargaron is open 24 hours every day, though the stalls themselves keep more normal shopping hours, roughly mid-morning to early evening. The structure itself, and its atmosphere, changes completely depending on when you arrive.
 
-Weekday mornings between 8 and 9am are the quietest window recorded here, with weekends staying calm from 8 until around 11am. After 1pm on weekends, foot traffic builds steadily and doesn't really ease until closer to 10pm.
+Early mornings tend to be the quietest window, with weekends staying calm from 8 until around 11am. As the day goes on, foot traffic tends to build, easing off again later.
 
 If photographs of the empty dome interior matter to you, an early start is non-negotiable. By midday, tour groups moving between Lyabi-Hauz and the Kalyan complex fill the space.
 
 ## How to visit like a local
 
-Bukhara's old city rewards a slow, early rhythm, and Toqi Zargaron is no exception. Arriving right at 8am, before shopkeepers have finished setting out full displays, gets you the dome largely to yourself.
+Bukhara's old city rewards a slow, early rhythm, and Toqi Zargaron is no exception. Arriving early, before the stalls are in full swing, tends to make for a quieter visit.
 
 - Pay in Uzbek som — cash is still preferred at most stalls, though card readers are becoming more common for larger jewelry purchases
 - Bargaining is expected and normal; a friendly, unhurried tone works better than a hard opening lowball

@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Royal Independence Gardens sits right on the airport road, a green buffer of shade trees and lily ponds that most visitors drive past without stopping. That's a mistake.
@@ -96,7 +95,7 @@ There's no admission fee and the gates never close, since the park is officially
 
 ## What to see and do
 
-Budget half an hour to 45 minutes for a proper wander. Highlights include:
+Give yourself some time for a proper wander. Highlights include:
 
 - The independence monument itself, a stepped stupa-like structure that lights up after dark
 - Lotus ponds with wooden footbridges, good for unhurried photos
@@ -107,9 +106,9 @@ There's no formal signage explaining the history in depth, so it helps to read u
 
 ## When to go
 
-Early morning, roughly 6am to 8am, is the gentlest time: joggers and tai chi groups have the paths mostly to themselves and the heat hasn't built up yet. Late afternoon into evening also works well, once the sun softens and the monument's lights switch on.
+Early morning is the gentlest time: joggers and tai chi groups have the paths mostly to themselves and the heat hasn't built up yet. Late afternoon into evening also works well, once the sun softens and the monument's lights switch on.
 
-Weekends shift the rhythm. The busiest stretch runs from 4pm to 10pm on Saturdays and Sundays, when local families and groups of friends fill the lawns for evening strolls and impromptu exercise sessions. If you want quiet paths and easy photos, aim for a weekday visit or get there before that Saturday and Sunday crowd builds.
+Weekends shift the rhythm. The busiest stretch is on weekend afternoons and evenings, when local families and groups of friends fill the lawns for evening strolls and impromptu exercise sessions. If you want quiet paths and easy photos, aim for a weekday visit or get there before that Saturday and Sunday crowd builds.
 
 ## How to visit like a local
 
@@ -122,4 +121,3 @@ Cambodians treat this park as a genuine neighborhood green space, not a ticketed
 - Don't expect English signage or a gift shop; this is civic infrastructure, not a tourist installation, and that's exactly its appeal.
 
 Pair it with a stop at nearby Wat Preah Prom Rath or a stroll along the Siem Reap River, both an easy tuk-tuk ride away, to round out a half-day loop that never touches the main temple crowds.
-

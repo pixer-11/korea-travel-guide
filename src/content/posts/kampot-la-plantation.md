@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 The road into La Plantation turns to red dirt well before you arrive, and that's your first clue you're headed somewhere rural. Rows of pepper vines climb wooden trellises in tidy lines, stretching toward the limestone hills that ring Kampot province. The air smells faintly peppery and green, especially after rain.
@@ -73,7 +72,7 @@ At La Plantation, you walk right up to the vines and see the difference between 
 
 You arrive through a gate, park, and pick up a simple map or join a short walking tour of the fields. The paths are flat, shaded in parts by banana trees, and the whole loop takes maybe 30–45 minutes at an easy pace.
 
-Along the way there are stops to rub dried peppercorns between your fingers and smell the difference between varieties. Most visitors then head to the on-site restaurant, which serves Khmer dishes built around the farm's own pepper — think beef stir-fried with fresh green peppercorns, or fish grilled with a red-pepper crust.
+Along the way there are stops to rub dried peppercorns between your fingers and smell the difference between varieties. Most visitors then head to the on-site restaurant, which serves Khmer dishes built around the farm's own pepper.
 
 - Self-guided pepper field walk (free or low-cost)
 - Tasting stations for red, black, white and green pepper

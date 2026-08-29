@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 50
 ---
-
 You smell the Vieux-Port before you see the restaurant's terrace: salt air, diesel from the boat engines, a faint char from a neighbouring grill. Au Bout Du Quai sits right on this working harbour, where fishing boats still tie up alongside the yachts and tourist ferries. It's a fitting address for a place built around what comes off those boats each morning.
 
 ## Why this address matters
@@ -41,7 +40,7 @@ That sourcing shows in the kind of menu you'd expect from a genuine Mediterranea
 
 ## The setting
 
-The main draw beyond the plate is the 80-seat terrace, angled toward the water. At lunch, the light bounces hard off the boat hulls and the pastel façades of the quai; by evening, it softens into the pinkish glow Marseille's harbour is known for at dusk.
+The main draw beyond the plate is the terrace, angled toward the water. At lunch, the light bounces hard off the boat hulls and the pastel façades of the quai; by evening, it softens into the pinkish glow Marseille's harbour is known for at dusk.
 
 Expect the ambient soundtrack of any working port: gulls, halyards clinking against masts, the occasional shout from a boat crew. It's not hushed fine dining — it's alive, and that's the point.
 

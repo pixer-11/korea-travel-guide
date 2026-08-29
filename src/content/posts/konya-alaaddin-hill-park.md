@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -109,7 +108,7 @@ The Konya tram (Alaaddin stop) drops you within a two-minute walk. If you're com
 
 The park never closes — it's open 24 hours every day — so timing is really about crowds and light, not access.
 
-Weekend mornings between 7am and 10am are the quietest window, with the paths nearly empty and good soft light for photos of the mosque ruins. By midday through 9pm on weekends, the hill fills with local families, students, and picnicking groups, so expect a livelier, noisier atmosphere rather than a contemplative one.
+Early mornings tend to be the quietest, with the paths nearly empty and good soft light for photos of the mosque ruins. Later in the day and on weekends, the hill fills with local families, students, and picnicking groups, so expect a livelier, noisier atmosphere rather than a contemplative one.
 
 Spring and early autumn are the most comfortable seasons weather-wise — Konya's summers get hot and dry on this exposed, largely shade-thin mound, and winters can be sharply cold with wind off the plateau.
 
@@ -133,4 +132,3 @@ Because it sits centrally, Alaaddin Hill pairs naturally with a short walking lo
 - **Historic bazaar streets** around Şerafettin Camii, good for tea and lunch after the park
 
 Most visitors fold the hill into a broader half-day covering these sights rather than visiting it in isolation.
-

@@ -114,7 +114,7 @@ This is a working temple, not a museum, so dress and behave accordingly.
 - Cover shoulders and knees — modest clothing is expected in the halls
 - Remove shoes before entering interior shrine spaces
 - Keep voices low near people praying or making offerings
-- Entry is generally free, though a small donation box sits near the main hall — cash, no card readers
+- Entry is generally free, though a small donation box sits near the main hall
 
 The mistake most visitors make is treating the gate as the whole visit and skipping the upper terraces, where the views and the quieter shrine rooms actually are. Give it a genuine 45 minutes to an hour rather than a five-minute photo stop.
 

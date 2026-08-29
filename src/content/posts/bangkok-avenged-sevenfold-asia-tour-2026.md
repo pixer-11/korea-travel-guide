@@ -55,12 +55,11 @@ aiGenerated: true
 draft: false
 gallery: []
 ---
-
 You feel the buzz before you even reach the venue. Bangkok hasn't hosted Avenged Sevenfold in over a decade, and the city's metal community has been counting down since the Asia Tour dates dropped. Two nights, back to back, October 6 and 7, 2026 — a rare double-header that tells you exactly how much demand there was.
 
 ## Why this show matters
 
-A7X built their following on arena-scale anthems like "Bat Country" and "Nightmare," and their live sets lean hard into pyrotechnics, elaborate stage design, and Matt Shadows' theatrical presence. An eleven-year gap between Thai appearances means this isn't a routine tour stop. It's a homecoming for fans who've waited a long time.
+A7X built their following on arena-scale anthems like "Bat Country" and "Nightmare," and their live sets lean hard into pyrotechnics, elaborate stage design, and M. Shadows' theatrical presence. An eleven-year gap between Thai appearances means this isn't a routine tour stop. It's a homecoming for fans who've waited a long time.
 
 ## Getting to Thunder Dome
 
@@ -101,4 +100,3 @@ The most common mistake visiting fans make is underestimating Bangkok traffic on
 ## Nearby, before or after
 
 Muang Thong Thani has shopping and dining options within the complex if you arrive early for dinner before the show. Central Bangkok's night markets and street food areas are a short ride away and make for a natural way to close out the night once the encore ends.
-

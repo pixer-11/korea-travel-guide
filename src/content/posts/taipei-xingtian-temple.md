@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -76,7 +75,7 @@ Still, the big red doors and dragon-carved pillars at the entrance are worth pau
 
 ## Getting there
 
-The temple sits right on Minquan East Road in Zhongshan District, and it's absurdly easy to reach. Xingtian Temple Station on the Zhonghe-Xinlu line (Green Line) has an exit named directly after the temple — Exit 3 puts you almost at the front gate.
+The temple sits right on Minquan East Road in Zhongshan District, and it's absurdly easy to reach. Xingtian Temple Station on the Zhonghe-Xinlu line (Orange Line) has an exit named directly after the temple — Exit 3 puts you almost at the front gate.
 
 If you're coming from Taipei Main Station, it's a straightforward ride of around 15–20 minutes with one transfer. No need to book anything or plan ahead; this is a walk-up destination any day of the week.
 
@@ -98,4 +97,3 @@ Dress modestly — shoulders and knees covered is the safe rule, though this isn
 - Skip trying to light incense — remember, none is used here, so don't bring your own
 
 The most common tourist mistake is treating this like a museum stop and rushing the main hall for photos. Locals move slower, pause, and often queue quietly for a blessing from a temple volunteer at the side altars — a ritual visitors are welcome to join if they're respectful and patient.
-

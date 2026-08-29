@@ -58,7 +58,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## What you're actually visiting
@@ -80,7 +79,7 @@ Confirm current guide fees and permit costs directly before you go; they shift a
 
 ## When to go
 
-Weekends stay quiet across the entire 7am-9pm span, per recent visitor patterns, which is unusual for a named national park this size. The relative crowd peak, still modest, falls 10am-3pm on weekends, mostly transit and departure traffic at the ranger point rather than actual trail congestion.
+Weekends stay relatively quiet, per recent visitor patterns, which is unusual for a named national park this size. The relative crowd peak, still modest, tends to land on weekends, mostly transit and departure traffic at the ranger point rather than actual trail congestion.
 
 Weekday visits mean you'll likely have long stretches of trail to yourself. This is a park built for solitude, not for photo-op crowds, and the numbers back that up.
 

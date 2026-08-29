@@ -83,7 +83,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -125,11 +124,10 @@ Locals treat this as a place to exercise, not just sightsee. Come for an early j
 
 - **Timing**: weekday mornings (7am–3pm) or early weekends (7am–11am) for space to yourself
 - **Avoid**: weekend afternoons and evenings (4pm–10pm), when crowds peak
-- **Cost**: entry is free, so there's no ticket line or booking to worry about
+- **Cost**: entry is free
 - **Etiquette**: keep noise down near benches where people nap or read; it's a shared public space, not a tourist site with staff managing flow
 - **Photos**: shoot the pagoda from the lower platform near the water for the classic river-and-roofline angle
 
 The most common visitor mistake is arriving at sunset on a Saturday expecting a peaceful photo — that's exactly when it's busiest. Shift your visit a few hours earlier and you'll get the same view with a fraction of the people.
 
 Bring water and sun protection if you're going midday; there's limited shade once you're away from the tree-lined paths. The park has no formal food vendors inside, so eat beforehand or plan a stop nearby afterward.
-

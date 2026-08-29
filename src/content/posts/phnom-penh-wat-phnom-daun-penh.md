@@ -70,12 +70,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 Wat Phnom Daun Penh sits on the only real hill in a city that's otherwise flat as a rice paddy, and that alone explains why it matters. Legend says a woman named Penh found four Buddha statues washed up on the Mekong and built a shrine here in the 14th century — giving the capital its name, "Penh's Hill." What stands today is newer, but the site's gravity as the spiritual anchor of Phnom Penh hasn't changed in six centuries.
 
-You climb around 27 stone steps flanked by naga balustrades, incense smoke drifting down to meet you before you even reach the top. Vendors sell birds in cages for release, lotus flowers, and joss sticks along the way. At the summit, the vatta (the tall central stupa) contains the ashes of King Ponhea Yat, and the main pagoda's interior is dense with murals, gilded Buddha images, and the low murmur of chanting.
+You climb a long flight of stone steps flanked by naga balustrades, incense smoke drifting down to meet you before you even reach the top. Vendors sell birds in cages for release, lotus flowers, and joss sticks along the way. At the summit, the vatta (the tall central stupa) contains the ashes of King Ponhea Yat, and the main pagoda's interior is dense with murals, gilded Buddha images, and the low murmur of chanting.
 
 ## What you'll actually see
 
@@ -95,7 +94,7 @@ Wat Phnom sits at the top of Norodom Boulevard, an easy 15–20 minute walk from
 
 ## When to go
 
-The hill is open daily from 7am to 7pm, and the light changes what the visit feels like. Early morning brings monks in saffron robes making rounds and locals lighting incense before work — the quietest stretch is 7am to 8am on weekdays and 7am to 9am on weekends. Avoid arriving between 5pm and 7pm on weekends, when tour buses and evening strollers pack the steps and summit platform.
+The hill is open daily from 7am to 7pm, and the light changes what the visit feels like. Early morning brings monks in saffron robes making rounds and locals lighting incense before work, and this is generally the quietest time to visit. Weekend afternoons tend to draw tour buses and evening strollers who pack the steps and summit platform, so plan around that if you can.
 
 Overcast days in the wet season (June–October) keep the stone cool underfoot; the dry season (November–February) gives clearer river views from the top.
 

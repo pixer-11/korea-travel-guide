@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -82,7 +81,7 @@ Beyond the lavender itself, the garden mixes in hydrangeas, roses and other cool
 
 ## What you'll actually see
 
-The layout is simple: terraced beds of lavender lead up toward a viewing structure, with a cafe and gift shop built into the visit rather than tacked on. Expect a lavender-themed cafe serving lavender ice cream, lavender tea and lavender-scented pastries — slightly gimmicky, but it's part of the fun.
+The layout is simple: terraced beds of lavender lead up toward a viewing structure, with a cafe and gift shop built into the visit rather than tacked on. Expect a lavender-themed cafe with lavender-inspired food and drink — slightly gimmicky, but it's part of the fun.
 
 The gift shop sells dried lavender bundles, sachets, soaps and oils, mostly grown on-site or elsewhere in the Highlands. Photo spots are built into the design — arches, swings, a few oversized props — so expect other visitors doing the same poses you are.
 
@@ -120,4 +119,3 @@ Given how popular this stop is, the real skill is timing, not secrecy — this i
 - **Dress for altitude.** Cameron Highlands runs noticeably cooler than the Malaysian lowlands; a light jacket helps, especially in the misty early hours.
 
 The mistake most first-timers make is arriving late morning on a weekend expecting a peaceful stroll — check the day of the week before you commit to a time slot.
-

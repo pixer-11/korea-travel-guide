@@ -106,12 +106,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
 
-The first glimpse is the dome. Jean Nouvel's 7,850-star lattice roof floats above the water, throwing a moving pattern of light onto the plazas below that architecture writers call a "rain of light."
+The first glimpse is the dome. Jean Nouvel's star-lattice roof floats above the water, throwing a moving pattern of light onto the plazas below that architecture writers call a "rain of light."
 
 Inside, the concept is just as bold: art arranged not by country but by shared human themes, so a Chinese Bronze Age vessel sits near an Egyptian sarcophagus, and a Picasso hangs close to Ottoman calligraphy. It's a museum built to argue that human creativity is one continuous story, not separate national ones.
 
@@ -138,7 +137,7 @@ Outside, the museum is genuinely surrounded by water — the Gulf laps right up 
 
 The museum is closed all day Monday, so don't plan around it. Tuesday through Thursday it runs 10am–6:30pm; Friday through Sunday it stays open later, until 8:30pm, which is worth using if you want to see the dome lit at dusk.
 
-Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right at 10am on a Saturday or Sunday — the 10am–12pm window is consistently the quietest stretch measured on weekends.
+Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right at 10am on a Saturday or Sunday, before the crowds build.
 
 ## What to eat
 

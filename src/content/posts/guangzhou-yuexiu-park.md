@@ -47,7 +47,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -60,7 +59,7 @@ It's the largest park in the city, and locals treat it as a working green space 
 
 The unmistakable symbol here is the Five Rams statue, a granite sculpture depicting the five goats said to have brought rice to a famine-stricken Guangzhou in legend — it's the reason the city carries the nickname "Goat City."
 
-Climb toward Zhenhai Tower, the five-story red pavilion built in 1380 as part of the old city wall, now home to the Guangzhou Museum. Inside you'll find ceramics, old photographs, and exhibits tracing the city's Canton-era trade history.
+Climb toward Zhenhai Tower, the five-story red pavilion built as part of the old city wall, now home to the Guangzhou Museum. Inside you'll find ceramics, old photographs, and exhibits tracing the city's Canton-era trade history.
 
 Beyond the monuments, the appeal is the walking itself:
 
@@ -96,4 +95,3 @@ A few practical notes:
 - Bring small bills or a payment app for boat rentals and snack stalls
 - Check current opening hours for the museum before you climb up, since park gates and the tower keep different schedules
 - Budget two to three hours minimum if you want to see the wall, the tower, and a lake loop without rushing
-

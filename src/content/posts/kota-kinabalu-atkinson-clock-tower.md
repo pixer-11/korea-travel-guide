@@ -79,7 +79,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why it's worth the short detour
@@ -116,7 +115,7 @@ Midday heat is the real obstacle here, not crowds. Kota Kinabalu sits close to t
 
 This isn't a hidden spot — it's a well-known stop on KK's short list of historic landmarks — so plan around the crowds rather than expecting solitude.
 
-- **Quietest time:** weekdays between 12pm and 1pm see the fewest visitors.
+- **Quietest time:** the midday heat naturally thins out foot traffic, so visiting outside that stretch tends to feel calmer than the early morning or evening windows.
 - **Weekends:** crowd patterns stay steady and manageable across the whole 7am–7pm window, though the busiest stretch is generally 9am to 6pm.
 - **Cost and payment:** it's free to view; no tickets, no vendors on site, so bring water rather than cash.
 - **Etiquette:** it's a working memorial and small public garden, not a photo prop — keep off any roped-off sections and don't climb the base for pictures.

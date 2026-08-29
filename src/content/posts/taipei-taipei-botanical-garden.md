@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -112,11 +111,10 @@ Lotus season (roughly June to August) draws the biggest weekend crowds of the ye
 
 ## How to visit like a local
 
-Entry is free, and there's no gate or ticket line to plan around — you just walk in. Because it's a well-known spot, not a hidden one, the smart move is timing rather than avoidance: weekday evenings after 6pm, or the first hour after opening on weekends, are your best bets for empty paths.
+You can just walk in — no formalities to plan around. Because it's a well-known spot, not a hidden one, the smart move is timing rather than avoidance: weekday evenings after 6pm, or the first hour after opening on weekends, are your best bets for empty paths.
 
 Bring water and bug spray in summer; the ponds attract mosquitoes by late afternoon. Most locals treat this as a walking-and-photography stop rather than a picnic spot — benches exist, but sprawling out on the lawns isn't really the local habit here.
 
 The mistake first-time visitors make is rushing through in fifteen minutes on the way to the museum next door. Slow down. Follow the boardwalk to the far side of the lotus pond, where the crowd thins out fast, and you'll get the calm this place is actually known for.
 
 Wear shoes you don't mind getting a little damp — the boardwalk can be slick after Taipei's frequent rain showers, and the paths around the smaller ponds are unpaved gravel.
-

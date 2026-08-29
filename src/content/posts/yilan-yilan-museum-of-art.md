@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You spot Yilan Museum of Art before you know its name — a low, dark-timbered building with a pitched roof that looks more like a preserved train station than a gallery. That's because it was one, in a sense: the structure began life as a Japanese-era rice storage and administrative building tied to Yilan's old government precinct, and the museum has kept its wooden beams, sliding-door proportions, and quiet dignity intact.
@@ -86,7 +85,7 @@ The architecture is half the draw. Low ceilings, timber beams, and paper-screen-
 The museum sits at No. 1, Section 3, Zhongshan Road, right in central Yilan City, Yilan County.
 
 - If you're coming by train, Yilan Station is roughly a 15–20 minute walk, or a short taxi ride.
-- Combine it with a stroll through Nanmen Village and nearby Yilan设治纪念馆 (Yilan County Governor's Residence), another Japanese-era building a few minutes away.
+- Combine it with a stroll through Nanmen Village and nearby the Yilan County Governor's Residence, another Japanese-era building a few minutes away.
 - Scooter or bicycle is the easiest way to link this with other Yilan City sights in one loop.
 
 ## What to expect inside

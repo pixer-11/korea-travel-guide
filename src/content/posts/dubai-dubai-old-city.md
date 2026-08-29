@@ -77,7 +77,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 ## Why go
@@ -107,7 +106,7 @@ Walk slowly. The texture of the walls, patched and repainted over decades, tells
 
 This is an open-air site, open 24 hours every day, so timing is entirely up to you. Early morning is genuinely the best call, both for comfort and for atmosphere.
 
-On weekdays the quietest window is 7am to 10am. On weekends it's slightly tighter, 7am to 9am, before day-trippers and tour groups arrive. Try to avoid the 4pm–11pm weekend stretch, when it's at its busiest and narrow lanes can feel congested.
+Mornings tend to be quieter than afternoons and evenings, both on weekdays and weekends. Try to avoid the busiest afternoon and evening hours, when it can feel at its busiest and narrow lanes can feel congested.
 
 Dubai's heat is the other deciding factor. Between May and September, an early visit isn't just quieter — it's the only comfortable option, since there's little shade cover once the sun is high.
 
@@ -120,4 +119,3 @@ There's no admission fee and no ticket counter, so there's nothing to pay or tip
 Dress modestly, as you would anywhere in old Dubai — shoulders and knees covered is the safer default, especially if you plan to continue into the adjoining souks afterward. The most common visitor mistake is treating this as a five-minute photo stop; the site rewards a slower pace, when the wind towers and shadows actually start to feel lived-in rather than staged.
 
 Pair your visit with a walk along Dubai Creek or a browse through the Gold and Spice Souks nearby — both are a short walk away and make a natural extension to the morning.
-
