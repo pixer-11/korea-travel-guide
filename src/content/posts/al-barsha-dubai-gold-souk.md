@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/17339105_ELuTRlnZM4JtNeoWymX20Mw2LvsLkfDfF2NHMNk6XaQ.jpg"
+    credit: "Photo: Foursquare user content (Dubai City of Gold (سوق الذهب))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0587eff964a52008a822e3"
 place:
   id: ChIJzWDbjkNDXz4RbTVr4eR-BLw
   name: Dubai Gold Souk

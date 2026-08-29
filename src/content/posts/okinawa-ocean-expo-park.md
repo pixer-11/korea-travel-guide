@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/272285_DDTNfyTBGpoYFofiWIaXUDqvPAnUVdYikqPKsd7GfcM.jpg"
+    credit: "Photo: Foursquare user content (Ocean Expo Park (海洋博公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b57d439f964a520034328e3"
 place:
   id: "ChIJja-5Bsv75DQRxL_IBwlgWZk"
   name: "Ocean Expo Park"

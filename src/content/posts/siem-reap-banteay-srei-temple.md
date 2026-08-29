@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8480041_yq1r4k4mKKcjWYUgDBqBDBeU2hOw4Qr5wZwL61vHCQk.jpg"
+    credit: "Photo: Foursquare user content (Banteay Srei Temple ប្រាសាទបន្ទាយស្រី)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cbd3080035d236ae2bce94e"
 place:
   id: "ChIJ_____z8XEDERODe6EFMp_cA"
   name: "Banteay Srei Temple"

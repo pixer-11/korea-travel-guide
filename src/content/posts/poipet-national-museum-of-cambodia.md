@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/16132548_LoNYUugnDpfZUUsd3KwlqF435ZoNBXZ043x0uUWxmhk.jpg"
+    credit: "Photo: Foursquare user content (National Museum of Cambodia (សារមន្ទីរជាតិកម្ពុជា))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d53d5bd8652224bfde6d3d7"
 place:
   id: "ChIJnXoiJEhRCTERJadKK31Dvrg"
   name: "National Museum of Cambodia"

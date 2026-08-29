@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 40
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/76820637_R4OwQrdmfK7nOuwmTZ84K_L_4alz5lCxNcnHXK5ULKs.jpg"
+    credit: "Photo: Foursquare user content (Jogeshwari Caves)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0587d2f964a5200fa322e3"
 place:
   id: "ChIJ4UEIPtK35zsRBXw609ScSPg"
   name: "Jogeshwari Caves"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/226094_ducHBIhGJVVi-QR1uGChxniZYz7tqRNyRzs2EkF2A9Y.jpg"
+    credit: "Photo: Foursquare user content (Tan Si Chong Su Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05880ff964a520f0ae22e3"
 place:
   id: "ChIJF09k2J8Z2jERQE5GyFE-aT4"
   name: "Tan Si Chong Su Temple"

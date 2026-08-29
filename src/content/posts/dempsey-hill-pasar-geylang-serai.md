@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4442208_oJWVH3KVX1g1xsFv7MWVDM8aTnR-t827x3f8Tk8epEY.jpg"
+    credit: "Photo: Foursquare user content (Geylang Serai Market & Food Centre)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b78b612f964a520eade2ee3"
 place:
   id: "ChIJI9c-3oQZ2jERjgfMBhuoaus"
   name: "Pasar Geylang Serai"

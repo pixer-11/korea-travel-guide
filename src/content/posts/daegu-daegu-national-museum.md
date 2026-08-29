@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1710740_okhwcnE1tGhlvS81lGTEKrYnxQUysBo0sSZReuqKZyE.jpg"
+    credit: "Photo: Foursquare user content (Daegu National Museum (국립대구박물관))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4de711978130690dbf1396eb"
 place:
   id: "ChIJkXixpGziZTURrehQ2iAPo5Y"
   name: "Daegu National Museum"

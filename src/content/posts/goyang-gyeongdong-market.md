@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/20240162_3c2-39TOpBE3MU84aRx8Bm6Y_JYgO3XxwoYcudmkgjY.jpg"
+    credit: "Photo: Foursquare user content (Seoul Gyeongdong Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ce67505595cb1f7794bbc14"
 place:
   id: "ChIJX70DR6i8fDURPauG09QnN6s"
   name: "Gyeongdong Market"

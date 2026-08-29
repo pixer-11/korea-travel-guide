@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/34831888_yAs6W1_3-dx0JqpZ9BYjTSHuZQI4D-LZHiQUdd625NQ.jpg"
+    credit: "Photo: Foursquare user content (Victoria Peak Garden (山頂公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c5d369285a1e21e38ce5811"
 place:
   id: "ChIJQ73aHHYABDQR5twO0q4bzM4"
   name: "Victoria Peak Garden"

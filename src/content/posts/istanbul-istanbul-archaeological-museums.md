@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 47
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/583694695_h6QfPMHn0Y9k86__hBDG86ypg1IN3U4PgwhDNEoxDcU.jpg"
+    credit: "Photo: Foursquare user content (İstanbul Archaeological Museums (İstanbul Arkeoloji Müzeleri))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c0b5171009a0f47f7feeabf"
 place:
   id: "ChIJQbdCWr-5yhQRKTjvSx6RF7M"
   name: "Istanbul Archaeological Museums"

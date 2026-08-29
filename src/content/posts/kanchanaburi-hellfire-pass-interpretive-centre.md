@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 75
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/41798359_6OkKi0_lzp1MSdagS7C9iaNriS1Oq8YqEOjlXanF8bo.jpg"
+    credit: "Photo: Foursquare user content (Hellfire Pass Memorial Museum (พิพิธภัณฑ์สถานแห่งความทรงจำ ช่องเขาขาด))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d215e51bdd7a0935524f5ce"
 place:
   id: "ChIJn7JjWCRv5DAR4xwyD6jESuU"
   name: "Hellfire Pass Interpretive Centre"

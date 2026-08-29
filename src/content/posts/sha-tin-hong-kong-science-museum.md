@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 60
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/84453337_5EPSlHwepqum_5SLCOg56wmPIBdXOu6dF50Xtv4luos.jpg"
+    credit: "Photo: Foursquare user content (Hong Kong Science Museum (香港科學館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b0588d5f964a52019dc22e3"
 place:
   id: "ChIJU21e7NwBBDQRjaysmmGiv-4"
   name: "Hong Kong Science Museum"

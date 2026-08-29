@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 75
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1382154_exvD1MNEjjhUK6esU00xmOU9OyATxo2urb52JwzRJWA.jpg"
+    credit: "Photo: Foursquare user content (Sri Mariamman Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ac8148ff964a5208bbb20e3"
 place:
   id: "ChIJ0yjU0QwZ2jER6gg0ImuCTRU"
   name: "Sri Mariamman Temple"

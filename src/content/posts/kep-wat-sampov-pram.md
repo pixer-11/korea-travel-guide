@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/469719543_cAitWhc6DqKtREIw0QcdUOIKUXmsU_Re4Nm4pKWNmsI.jpg"
+    credit: "Photo: Foursquare user content (Wat Sampov Pram)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/63e4866ae651857af358b73a"
 place:
   id: "ChIJX94vv884CDERSOrMhyiBoL8"
   name: "Wat Sampov Pram"

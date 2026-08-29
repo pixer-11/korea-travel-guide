@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Petra_Jordan_BW_0.jpg/3840px-Petra_Jordan_BW_0.jpg"
+    credit: "Photo: Berthold Werner / Wikimedia Commons (CC BY 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Petra_Jordan_BW_0.jpg"
 place:
   id: "ChIJcWA7cPFuARURkSKaZwj5mxk"
   name: "Petra"

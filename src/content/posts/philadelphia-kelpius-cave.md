@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/48255_4T7lxLNPvrdU1a01MmAxuq7UbIqUWnAxWyFWVhRYkn0.jpg"
+    credit: "Photo: Foursquare user content (Kelpius Cave)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e1201467d8b4d5613df9fe8"
 place:
   id: "ChIJRWQHqYq4xokRV5FpeelUzN8"
   name: "Kelpius Cave"

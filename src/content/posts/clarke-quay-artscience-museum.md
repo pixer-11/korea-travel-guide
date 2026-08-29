@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/3227016_RUP39Lqh6jqGbwRZ_WJ3EEtfinKfDUO0XB1bEImW6DA.jpg"
+    credit: "Photo: Foursquare user content (ArtScience Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b9df38cf964a520ffc336e3"
 place:
   id: "ChIJnWdQKQQZ2jERScXuKeFHyIE"
   name: "ArtScience Museum"

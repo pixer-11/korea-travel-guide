@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/85142592_s-Eo6VkK7ioEvnqMnsZNJ-eJzN4-27u1LeSy6B7Apvo.jpg"
+    credit: "Photo: Foursquare user content (Telok Blangah Hill Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bca492c511f9521cd86afc7"
 place:
   id: "ChIJa1WN9dob2jERWFxNMq2ZVgM"
   name: "Telok Blangah Hill Park"

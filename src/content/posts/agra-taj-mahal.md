@@ -16,7 +16,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1414922465_H2RDkkw1JWTHgJMVac9QCylxwD7rQuqbdfdgBFL06v8.jpg"
+    credit: "Photo: Foursquare user content (Taj Mahal)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/6680149d7906ce01e8c2a6b3"
 place:
   id: ChIJbf8C1yFxdDkR3n12P4DkKt0
   name: Taj Mahal

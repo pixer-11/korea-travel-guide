@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/589274763_9iYzvb5IJQmNTSq-1BmNc3kMDuIp-veH8QUI2SGwOIM.jpg"
+    credit: "Photo: Foursquare user content (Kushida Shrine (櫛田神社))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b68da16f964a5201b902be3"
 place:
   id: "ChIJV2pTquqRQTURpI1FhH5siaE"
   name: "Kushida Shrine"

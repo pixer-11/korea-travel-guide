@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 30
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg/3840px-Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg"
+    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg"
 place:
   id: "ChIJ0VnY2-Naei4RLVqVJTug5xk"
   name: "Prambanan Temple"

@@ -5,6 +5,11 @@ country: Cambodia
 region: Sen Monorom
 category: attraction
 pubDate: '2026-08-24T08:08:29.918Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/510015786_0og4xA2P1EFXTsC50FC1oKfLvyQODh66yHQxT9WVBZc.jpg"
+    credit: "Photo: Foursquare user content (Tuol Sleng Genocide Museum (សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b6ecd78f964a5203bcb2ce3"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/12207377_B3DZmvQgWO_SrCrhGuTTLL8cGREq6mkbaPKGRVirbZs.jpg
   credit: 'Photo: Foursquare user content (Tuol Sleng Genocide Museum (សារមន្ទីរឧក្រិដ្ឋកម្មប្រល័យពូជសាសន៍ទួលស្លែង))'

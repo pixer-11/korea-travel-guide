@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1496032_V1NBkhvOE3kU5Hf6bwaYuMR15AW7F3aq_tis_eTb90w.jpg"
+    credit: "Photo: Foursquare user content (Angkor National Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c830a6ed4e23704eee26d88"
 place:
   id: "ChIJn8MGzAwXEDER469lVTwERp8"
   name: "Angkor National Museum"

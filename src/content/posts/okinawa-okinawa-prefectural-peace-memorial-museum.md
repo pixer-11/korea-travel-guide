@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/463651_Wo4AmZ3HBIZCk1Se2iHbpK4bmoHLtObuy2E0fPDDnPs.jpg"
+    credit: "Photo: Foursquare user content (Peace Memorial Museum (平和祈念資料館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c4152dad7fad13a6b7a07da"
 place:
   id: "ChIJObFNuNVl5TQR9XG3-qReD9w"
   name: "Okinawa Prefectural Peace Memorial Museum"

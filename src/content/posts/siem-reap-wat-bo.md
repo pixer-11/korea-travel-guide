@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/48382350_CgXprXR2AIUDku7uobbdNkPpwEqNaGAwpH8D1T7A5kM.jpg"
+    credit: "Photo: Foursquare user content (Wat Bo)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/51559a56e4b08bfe22a5b60b"
 place:
   id: "ChIJ0V_HuHAXEDERvEQB-3hywlI"
   name: "Wat Bo"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/33263042_W8DNbnNWT3BHAE2bBxHKWukjLsyaEp6u_y_BJjrKZoU.jpg"
+    credit: "Photo: Foursquare user content (Baphuon)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4f891b4de4b047d849d0bc86"
 place:
   id: "ChIJB5msZiUUEDERnmtILAsgDcI"
   name: "Baphuon Temple"

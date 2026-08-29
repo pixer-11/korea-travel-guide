@@ -5,6 +5,11 @@ country: Singapore
 region: Clarke Quay
 category: attraction
 pubDate: '2026-08-28T09:00:44.736Z'
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7237206_DiPJ7xNexeu-4JPGnBRf4IlnKktUaWc1AVm5a9Ar9tE.jpg"
+    credit: "Photo: Foursquare user content (Fort Canning Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05880ef964a520bbae22e3"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/1392709470_DsbTh_j4_jIcP7vDr0NBIZJZJsoMcAkEvRNAVbIc9aE.jpg
   credit: 'Photo: Foursquare user content (Fort Canning Park)'

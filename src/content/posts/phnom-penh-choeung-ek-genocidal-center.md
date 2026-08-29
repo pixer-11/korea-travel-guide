@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5890389_s_aO1qDu-d3rppUSqx3c4WlJ3HXeupAGVMugnCqAQVQ.jpg"
+    credit: "Photo: Foursquare user content (Choeung Ek Genocidal Center (មជ្ឈមណ្ឌល​ប្រល័យពូជសាសន៍​ជើងឯក))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b8cb6b5f964a52031db32e3"
 place:
   id: "ChIJyZ59w2VaCTER07FCdaW0gMc"
   name: "Choeung Ek Genocidal Center"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Paradox_Museum%2C_Mumbai.jpg/3840px-Paradox_Museum%2C_Mumbai.jpg"
+    credit: "Photo: DesiBoy101 / Wikimedia Commons (CC BY 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Paradox_Museum,_Mumbai.jpg"
 place:
   id: "ChIJoVupLi3R5zsRkUst6fWGNzw"
   name: "Paradox Museum Mumbai"
