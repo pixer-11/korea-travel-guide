@@ -602,11 +602,11 @@
   "at": "2026-08-24T08:36:40.001Z"
  },
  "ko/barcelona-la-colmena": {
-  "hash": "eb62d454c42d",
-  "score": 2,
+  "hash": "878d4dcd307a",
+  "score": 1,
   "registerBreak": false,
-  "worst": "무게(\"백 그램(cent grams)\"이라고 하면 100그램을 뜻하며 흔히 쓰는 단위입니다)나 작은 박스를 요청한 뒤",
-  "at": "2026-08-24T08:36:38.046Z"
+  "worst": "방문객 데이터가 가장 붐비는 시간대로 꼽는 것이 바로 그 시간대이기 때문입니다.",
+  "at": "2026-08-29T13:19:05.467Z"
  },
  "ko/barcelona-the-grill-barcelona": {
   "hash": "7aed78f6e170",
@@ -17031,11 +17031,11 @@
   "at": "2026-08-15T03:43:49.405Z"
  },
  "zh/barcelona-la-colmena": {
-  "hash": "901acb8232a5",
+  "hash": "9f3540f48e84",
   "score": 1,
   "registerBreak": false,
-  "worst": "这里不是那种能找张桌子坐下聊天的地方——本来就没有桌子。",
-  "at": "2026-08-15T12:01:01.163Z"
+  "worst": "人流数据也印证了在店外观察到的规律：周末上午9点到中午12点这段时间人最少",
+  "at": "2026-08-29T13:19:13.093Z"
  },
  "zh/barcelona-la-rambla": {
   "hash": "c51d0bf14566",
@@ -29230,5 +29230,75 @@
   "registerBreak": false,
   "worst": "곳곳에서 여러 언어가 들려올 만큼 이곳은 싱가포르 여행 일정에서 빠지지 않는 인기 명소이지, 조용히 숨어 있는 뒷골목 명소가 아닙니다.",
   "at": "2026-08-28T19:37:19.444Z"
+ },
+ "es/istanbul-hagia-sophia-grand-mosque": {
+  "hash": "03868fce4f1f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los locales suelen usar la plaza que rodea el edificio, no la mezquita en sí, como punto de encuentro",
+  "at": "2026-08-29T13:20:24.775Z"
+ },
+ "es/pattaya-nongnooch-pattaya-garden": {
+  "hash": "2fcd010425c1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los patrones de afluencia aquí son muy marcados: tanto los días de semana como las primeras horas...",
+  "at": "2026-08-29T13:19:23.137Z"
+ },
+ "es/singapore-merlion-park": {
+  "hash": "add9777f9c0c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "resulta más grande y extraño de lo que sugieren las fotos",
+  "at": "2026-08-29T13:19:24.877Z"
+ },
+ "ja/istanbul-hagia-sophia-grand-mosque": {
+  "hash": "825f703a7c35",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ドームの上にドームが重なり、身廊に入ると音が吸い込まれるように静まり返ります。",
+  "at": "2026-08-29T13:19:26.563Z"
+ },
+ "ja/pattaya-nongnooch-pattaya-garden": {
+  "hash": "dc83020c1feb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "訪問者にありがちな最大の失敗は、500エーカーの敷地全体を徒歩で回ろうとすること。トラムの周回ルートを活用し、3〜4つのゾークーンに絞って回るのが賢明",
+  "at": "2026-08-29T13:19:33.983Z"
+ },
+ "ja/singapore-merlion-park": {
+  "hash": "c6d4997c7e68",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "見知らぬ人が20人もフレームに入らない写真を撮りたいなら、早朝に訪れるのが一番です。",
+  "at": "2026-08-29T13:19:38.754Z"
+ },
+ "ko/istanbul-hagia-sophia-grand-mosque": {
+  "hash": "bd7930a410e4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "돔 위에 돔이 겹겹이 쌓여 있고, 소리를 삼켜버리는 거대한 회중석이 펼쳐지며, 높은 창을 통해 쏟아지는 빛줄기가",
+  "at": "2026-08-29T13:19:42.976Z"
+ },
+ "ko/pattaya-nongnooch-pattaya-garden": {
+  "hash": "feeaf40cb8fe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "파타야의 더위 속에서 전체 부지를 걸어서 둘러보는 것은 한 번의 방문으로는 현실적이지 않습니다.",
+  "at": "2026-08-29T13:19:50.645Z"
+ },
+ "zh/istanbul-hagia-sophia-grand-mosque": {
+  "hash": "e23d0f6d1997",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "规划行程时不妨顺着这些时间空档来安排，而不是硬碰硬地对着来。",
+  "at": "2026-08-29T13:19:56.337Z"
+ },
+ "zh/pattaya-nongnooch-pattaya-garden": {
+  "hash": "a189101b9809",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这份规模感扑面而来：这里不是一座城市公园，而是一座拥有自家电车线路的园林式庄园。",
+  "at": "2026-08-29T13:19:57.796Z"
  }
 }
