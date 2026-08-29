@@ -27,6 +27,9 @@ on:
       - 'src/i18n/**'
       # Subscribe endpoint and the Klook click relay live here — money paths.
       - 'worker/**'
+      # Standalone Cloudflare workers (social-alarm etc). Without this line a
+      # workers-only commit would run no Tests at all (Codex, 2026-08-29).
+      - 'workers/**'
       - 'package.json'
       - 'package-lock.json'
       - '.github/workflows/tests.yml'
@@ -42,6 +45,7 @@ on:
       - 'src/layouts/**'
       - 'src/i18n/**'
       - 'worker/**'
+      - 'workers/**'
   workflow_dispatch:
 
 # 취소하지 않는다. GitHub 은 밀려난 실행을 run 단위에서 "failure" 로 집계해

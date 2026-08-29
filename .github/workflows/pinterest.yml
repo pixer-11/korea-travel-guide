@@ -31,7 +31,13 @@ jobs:
   pin:
     runs-on: ubuntu-latest
     steps:
+      # ref: main, not the dispatch-time SHA — a run queued behind the
+      # concurrency group must see the finished run's pushed pin state, or the
+      # repeat guard reads a stale ledger and double-pins (same hole Codex
+      # found in threads-daily, 2026-08-29).
       - uses: actions/checkout@v5
+        with:
+          ref: main
 
       # Secrets can't be read in `if:` directly — surface presence as an output.
       # Enabled by EITHER a direct token secret OR the OAuth store (app secret +

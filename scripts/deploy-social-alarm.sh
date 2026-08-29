@@ -6,7 +6,10 @@
 #
 # The worker's runtime secrets are set separately (once, or on rotation):
 #   printf ... | npx wrangler@4 secret put GH_DISPATCH_TOKEN   # PAT, dispatch only
-#   printf ... | npx wrangler@4 secret put FIRE_KEY            # /fire test guard
+#   printf ... | npx wrangler@4 secret put FIRE_KEY            # /fire auth
+# Smoke test after deploy (a real dispatch — idempotent, the day guard skips):
+#   curl -X POST -H "Authorization: Bearer <FIRE_KEY>" <worker-url>/fire
+# 200 = GitHub accepted; 502 = GitHub refused (check the PAT first).
 # No Telegram secrets on purpose — if the alarm dies, the existing safety net
 # (three GitHub crons + schedule-watchdog) still delivers and the watchdog
 # already telegrams when it rescues, so a worker-side alert would be a

@@ -27,8 +27,15 @@ permissions:
 # two overlapping runs both see "not sent yet" and both post — to the live
 # Instagram/Threads accounts, where a duplicate is public. On 2026-08-27 the
 # GitHub scheduler fired runs hours late and minutes apart (Codex audit B,
-# same evening), so overlap is a real morning, not a theory. Queueing is safe:
-# the second run checks out the first run's pushed state and exits on the guard.
+# same evening), so overlap is a real morning, not a theory.
+#
+# Queueing alone is NOT enough (Codex review, 2026-08-29): a queued run's
+# GITHUB_SHA is frozen at dispatch time, and a bare checkout pins to that SHA —
+# so a run created while the previous one was still posting would check out
+# state from BEFORE that run's push and sail past the day guard. The explicit
+# `ref: main` below re-resolves the branch tip when the queued run finally
+# starts, which (with the queue guaranteeing the writer has finished) is the
+# freshly pushed state.
 concurrency:
   group: threads-daily
   cancel-in-progress: false
@@ -38,6 +45,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
 
       - uses: actions/setup-node@v5
         with:

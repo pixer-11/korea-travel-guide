@@ -1,17 +1,29 @@
 // wa-social-alarm unit tests — the alarm's whole job is one HTTP POST, so what
 // we pin down is the request shape GitHub actually requires (a missing
-// User-Agent is a 403, a wrong Accept is silent weirdness) and the failure
-// paths: non-204 must alert, 204 must stay silent, and a thrown fetch must
-// count as a failure instead of killing the cron.
+// User-Agent is a 403, an unpinned API version silently drifts), the failure
+// paths (non-2xx must alert AND surface, a thrown fetch must count as failure),
+// and — after the 2026-08-29 Codex review — the real default handlers: a cron
+// dispatch failure must REJECT (so Cloudflare records it) and /fire must
+// demand POST + Bearer auth and answer 502 when GitHub said no.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { fireDispatches, alertFailures } from './worker.mjs';
+import worker, { fireDispatches, alertFailures } from './worker.mjs';
 
 const env = {
   GH_DISPATCH_TOKEN: 'tok',
   TELEGRAM_BOT_TOKEN: 'tg',
   TELEGRAM_CHAT_ID: '42',
 };
+
+async function withGlobalFetch(stub, fn) {
+  const real = globalThis.fetch;
+  globalThis.fetch = stub;
+  try {
+    return await fn();
+  } finally {
+    globalThis.fetch = real;
+  }
+}
 
 test('dispatch request has the shape GitHub requires', async () => {
   const calls = [];
@@ -25,12 +37,19 @@ test('dispatch request has the shape GitHub requires', async () => {
   assert.equal(init.method, 'POST');
   assert.equal(init.headers.Authorization, 'Bearer tok');
   assert.ok(init.headers['User-Agent'], 'GitHub rejects requests without a User-Agent');
+  assert.equal(init.headers.Accept, 'application/vnd.github+json');
+  assert.equal(init.headers['X-GitHub-Api-Version'], '2022-11-28', 'unpinned requests follow a moving default');
   assert.equal(JSON.parse(init.body).ref, 'main');
   assert.deepEqual(results.map((r) => r.ok), [true]);
 });
 
-test('non-204 is a failure and alerts Telegram in Korean', async () => {
-  const results = await fireDispatches(env, async () => ({ status: 401 }));
+test('200 with run details also counts as success (newer API versions)', async () => {
+  const results = await fireDispatches(env, async () => ({ status: 200, ok: true }));
+  assert.equal(results[0].ok, true);
+});
+
+test('non-2xx is a failure and alerts Telegram in Korean', async () => {
+  const results = await fireDispatches(env, async () => ({ status: 401, ok: false }));
   assert.equal(results[0].ok, false);
   const sent = [];
   const failed = await alertFailures(env, results, async (url, init) => {
@@ -64,9 +83,67 @@ test('a thrown fetch becomes a failure result, not a crash', async () => {
 
 test('alert survives missing Telegram secrets (bootstrap window)', async () => {
   const bare = { GH_DISPATCH_TOKEN: 'tok' };
-  const results = await fireDispatches(bare, async () => ({ status: 500 }));
+  const results = await fireDispatches(bare, async () => ({ status: 500, ok: false }));
   const failed = await alertFailures(bare, results, async () => {
     throw new Error('must not attempt Telegram without secrets');
   });
   assert.equal(failed.length, 1);
+});
+
+test('scheduled rejects when a dispatch fails — Cloudflare must record it', async () => {
+  await withGlobalFetch(async () => ({ status: 401, ok: false }), async () => {
+    await assert.rejects(
+      worker.scheduled({}, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} }),
+      /dispatch failed: threads-daily\.yml=401/,
+    );
+  });
+});
+
+test('scheduled resolves quietly on success', async () => {
+  await withGlobalFetch(async () => ({ status: 204 }), async () => {
+    await worker.scheduled({}, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+  });
+});
+
+test('/fire refuses GET, query-string keys, and wrong bearer tokens', async () => {
+  const envF = { GH_DISPATCH_TOKEN: 'tok', FIRE_KEY: 'k' };
+  await withGlobalFetch(async () => {
+    throw new Error('must not dispatch when refused');
+  }, async () => {
+    const get = await worker.fetch(new Request('https://x/fire?key=k'), envF);
+    assert.equal(get.status, 403);
+    const wrong = await worker.fetch(
+      new Request('https://x/fire', { method: 'POST', headers: { Authorization: 'Bearer nope' } }),
+      envF,
+    );
+    assert.equal(wrong.status, 403);
+    const noKey = await worker.fetch(
+      new Request('https://x/fire', { method: 'POST', headers: { Authorization: 'Bearer k' } }),
+      { GH_DISPATCH_TOKEN: 'tok' }, // FIRE_KEY unset — must fail closed
+    );
+    assert.equal(noKey.status, 403);
+  });
+});
+
+test('/fire with the right bearer fires: 200 when GitHub accepts, 502 when it refuses', async () => {
+  const envF = { GH_DISPATCH_TOKEN: 'tok', FIRE_KEY: 'k' };
+  const authed = new Request('https://x/fire', {
+    method: 'POST',
+    headers: { Authorization: 'Bearer k' },
+  });
+  await withGlobalFetch(async () => ({ status: 204 }), async () => {
+    const res = await worker.fetch(authed.clone(), envF);
+    assert.equal(res.status, 200);
+    assert.equal((await res.json())[0].ok, true);
+  });
+  await withGlobalFetch(async () => ({ status: 401, ok: false }), async () => {
+    const res = await worker.fetch(authed.clone(), envF);
+    assert.equal(res.status, 502);
+  });
+});
+
+test('root stays a harmless status line', async () => {
+  const res = await worker.fetch(new Request('https://x/'), { FIRE_KEY: 'k' });
+  assert.equal(res.status, 200);
+  assert.match(await res.text(), /wa-social-alarm/);
 });
