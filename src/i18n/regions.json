@@ -8438,5 +8438,32 @@
       "getting": "可搭乘航班抵达位于普拉亚(Praya)附近的龙目岛国际机场(LOP),距曼达利卡约17公里,乘坐出租车(Grab或Bluebird)或酒店接送车约20至30分钟即可到达。若从巴厘岛陆路前往,可先搭乘渡轮抵达伦巴尔港(Lembar Harbour),再转乘巴士或出租车前往曼达利卡。",
       "days": "若想以轻松的节奏游览主要海滩和赛道,建议预留约3天时间;若还想加入冲浪课程、乘船出游以及龙目岛南部周边景点的短途探索,则建议安排5天或更长时间。"
     }
+  },
+  "Banlung": {
+    "en": {
+      "blurb": "Banlung is the red-earth capital of Ratanakiri, Cambodia's remote northeastern province wedged against the Laos and Vietnam borders, where volcanic crater lakes, waterfalls and indigenous hill-tribe villages sit at the edge of the vast Virachey National Park. It feels less like a tourist circuit stop and more like a frontier town: unpaved lanes turn rust coloured with dust, and jungle-covered hills roll away in every direction.",
+      "getting": "Banlung's own airstrip is a closed gravel strip with no scheduled flights, so there is no rail line or working airport at the destination itself: travellers arrive overland by bus or minivan from Phnom Penh, the regional hub, a journey of roughly 7 to 11 hours depending on the operator and road conditions. Some visitors instead approach via Stung Treng or Kratie, or cross overland from Vietnam's central highlands, but the Phnom Penh bus route remains the standard, reliable option.",
+      "days": "Plan on ~3 to 4 days: enough time to swim at Yeak Laom volcanic lake, visit nearby waterfalls and minority villages, and fit in at least a short trek into Virachey National Park before the long ride back."
+    },
+    "ko": {
+      "blurb": "반락(Banlung)은 캄보디아 북동부 오지, 라오스 및 베트남 국경과 맞닿은 라타나키리(Ratanakiri) 주의 붉은 흙빛 중심지다. 화산 분화구 호수와 폭포, 소수 산악 부족 마을들이 광활한 비라체이 국립공원(Virachey National Park) 언저리에 자리하고 있다. 이곳은 여느 관광 코스의 한 정거장이라기보다 변경 개척지 마을에 가까운 분위기를 풍긴다. 비포장 도로는 흙먼지에 뒤덮여 붉게 물들고, 정글로 뒤덮인 언덕들이 사방으로 끝없이 펼쳐진다.",
+      "getting": "반락에는 자체 활주로가 있지만 현재는 폐쇄된 비포장 활주로로 정기 운항편이 없으며, 철도나 운영 중인 공항도 없다. 여행자들은 대개 지역 관문 도시인 프놈펜(Phnom Penh)에서 버스나 미니밴을 타고 육로로 이동하는데, 운행 업체와 도로 사정에 따라 대략 7~11시간이 걸린다. 스퉁트렝(Stung Treng)이나 크라체(Kratie)를 경유하거나 베트남 중부 고원 지대에서 국경을 넘어오는 여행자들도 있지만, 프놈펜발 버스 노선이 여전히 가장 표준적이고 안정적인 선택지다.",
+      "days": "3~4일 정도를 계획하면 좋다. 야크 라옴(Yeak Laom) 화산 호수에서 수영을 즐기고, 인근 폭포와 소수민족 마을을 둘러본 뒤, 긴 귀환길에 오르기 전 비라체이 국립공원으로 짧은 트레킹까지 다녀올 수 있는 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "バンルンは、カンボジア北東部の奥地に位置するラタナキリ州の州都で、ラオスとベトナムの国境に接する「赤土の町」だ。火山湖や滝、少数民族の山岳村が点在し、その先には広大なビラチェイ国立公園が広がっている。観光ルート上の一停留所というより、まさにフロンティアタウンといった趣で、未舗装の道は土埃で赤茶けた色に染まり、ジャングルに覆われた丘陵地帯が四方に連なっている。",
+      "getting": "バンルンにも滑走路はあるものの、現在は閉鎖されている砂利敷きの飛行場で定期便はなく、鉄道も通っていない。つまり、この町には機能している空港も鉄道駅も存在しないということだ。旅行者は通常、地域のハブであるプノンペンからバスやミニバンで陸路を移動することになり、所要時間は運行会社や道路状況によっておよそ7~11時間ほど。ストゥントレンやクラチエ経由でアクセスする人や、ベトナム中部高原から陸路で国境を越えてくる人もいるが、プノンペン発のバス路線が最も定番で信頼できる選択肢だ。",
+      "days": "目安は3~4日ほど。イェアックロム火山湖での水浴び、近郊の滝や少数民族の村への訪問、そして長い帰路に備える前にビラチェイ国立公園への短いトレッキングも組み込める、ちょうどよい日数だ。"
+    },
+    "es": {
+      "blurb": "Banlung es la capital de tierra roja de Ratanakiri, la remota provincia del noreste de Camboya que limita con Laos y Vietnam, donde lagos volcánicos en antiguos cráteres, cascadas y aldeas de tribus indígenas de las colinas se extienden hasta el borde del vasto Parque Nacional Virachey. Más que una parada turística convencional, transmite la sensación de un pueblo de frontera: sus caminos de tierra se tiñen de un rojo oxidado por el polvo, mientras colinas cubiertas de selva se despliegan en todas direcciones.",
+      "getting": "La propia pista de aterrizaje de Banlung es una franja de grava cerrada, sin vuelos programados, y el destino tampoco cuenta con línea ferroviaria ni aeropuerto en funcionamiento: los viajeros llegan por tierra en autobús o minivan desde Phnom Penh, el principal centro de conexiones de la región, en un trayecto de entre 7 y 11 horas aproximadamente, según el operador y el estado de las carreteras. Algunos visitantes optan por acercarse vía Stung Treng o Kratie, o cruzan por tierra desde las tierras altas centrales de Vietnam, pero la ruta en autobús desde Phnom Penh sigue siendo la opción estándar y más confiable.",
+      "days": "Calcula entre 3 y 4 días: tiempo suficiente para nadar en el lago volcánico de Yeak Laom, visitar las cascadas y aldeas de minorías étnicas cercanas, y hacer al menos una breve caminata por el Parque Nacional Virachey antes del largo regreso."
+    },
+    "zh": {
+      "blurb": "班伦（Banlung）是柬埔寨东北部偏远省份腊塔纳基里（Ratanakiri）的红土之都，紧邻老挝和越南边境。这里散布着火山口湖、瀑布和少数民族山村，边上就是广袤的维拉丘国家公园（Virachey National Park）。比起典型的旅游中转站，班伦更像一座边境小镇：未铺装的土路被扬尘染成铁锈色，四周尽是层层叠叠、被丛林覆盖的山丘。",
+      "getting": "班伦本地的简易机场只是一条废弃的碎石跑道，早已没有定期航班，当地也没有铁路或运营中的机场。旅客通常从区域枢纽金边搭乘长途巴士或小巴陆路前往，车程视运营商和路况而定，大约需要7到11小时。也有部分游客选择经由上丁（Stung Treng）或桔井（Kratie）中转，或是从越南中部高原陆路入境，但从金边出发的巴士路线依然是最常见、最可靠的方式。",
+      "days": "建议安排约3到4天：这样才有足够时间在耶浪湖（Yeak Laom）火山湖畔畅游，走访附近的瀑布和少数民族村落，还能在踏上归途前挤出时间去维拉丘国家公园做一趟短途徒步。"
+    }
   }
 }

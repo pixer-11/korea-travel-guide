@@ -29300,5 +29300,89 @@
   "registerBreak": false,
   "worst": "这份规模感扑面而来：这里不是一座城市公园，而是一座拥有自家电车线路的园林式庄园。",
   "at": "2026-08-29T13:19:57.796Z"
+ },
+ "es/agra-taj-mahal": {
+  "hash": "c20855a97639",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El error más común de los turistas es no entrar por la puerta oeste y perderse así...",
+  "at": "2026-08-29T15:21:16.790Z"
+ },
+ "es/banlung-virachey-national-park": {
+  "hash": "d99c5c323a90",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El pico relativo de afluencia, aún modesto, se da entre las 10:00 y las 15:00 los fines de sem",
+  "at": "2026-08-29T15:21:18.376Z"
+ },
+ "es/ha-long-bay-halong-bay": {
+  "hash": "f0c2571a1778",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Prácticamente nadie experimenta la bahía desde tierra: hay que subirse a un barco, sin más.",
+  "at": "2026-08-29T15:21:23.930Z"
+ },
+ "ja/agra-taj-mahal": {
+  "hash": "769fd67c3494",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "観光客がよくやってしまう失敗は、西門からのアプローチを見逃して定番の夕景撮影スポットを逃してしまうこと",
+  "at": "2026-08-29T15:21:25.451Z"
+ },
+ "ja/banlung-virachey-national-park": {
+  "hash": "d96d18bec45c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この公園はもともと、写真映えを狙う人だかりのためではなく、静けさを味わうためにあるような場所で、実際の来訪者数の傾向も",
+  "at": "2026-08-29T15:21:32.703Z"
+ },
+ "ja/ha-long-bay-halong-bay": {
+  "hash": "213bbcd4e3d6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "晴れた朝には、灰色と青の層を重ねながら石灰岩の岩塔が連なり、地平線の彼方へと霞んでいく様子が見られます。",
+  "at": "2026-08-29T15:21:35.019Z"
+ },
+ "ko/agra-taj-mahal": {
+  "hash": "2970ad189e0d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-29T15:21:36.399Z"
+ },
+ "ko/banlung-virachey-national-park": {
+  "hash": "ae74f217dd59",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "긴팔원숭이, 코끼리, 구름표범, 코뿔새 모두 공원 내 서식이 확인된 종이지만, 실제로 마주친다는 보장은 없습니다.",
+  "at": "2026-08-29T15:21:38.658Z"
+ },
+ "ko/ha-long-bay-halong-bay": {
+  "hash": "7f0188411aff",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "바다로 나가는 구간을 위해 멀미약을 챙기시고, 기온이 섭씨 10도 중반까지 떨어지는 겨울 아침을 위해",
+  "at": "2026-08-29T15:21:47.459Z"
+ },
+ "zh/agra-taj-mahal": {
+  "hash": "bd839fa49cca",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这一设计考量是为了让它们万一在地震中倒塌时，能向外倒而不会砸向主陵。",
+  "at": "2026-08-29T15:21:55.662Z"
+ },
+ "zh/banlung-virachey-national-park": {
+  "hash": "cbc96e2f51d1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "对于这样规模、且已小有名气的国家公园来说，这种情况其实并不常见。",
+  "at": "2026-08-29T15:21:57.122Z"
+ },
+ "zh/ha-long-bay-halong-bay": {
+  "hash": "ec515097e913",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "�landmark中，蒂托岛（Ti Top Island）的海滩和观景点在中午时分会挤满一日游的游客",
+  "at": "2026-08-29T15:22:51.477Z"
  }
 }

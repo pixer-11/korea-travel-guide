@@ -13796,5 +13796,35 @@
     "verdict": "MATCH",
     "reason": "publish gate: Iconic Merlion statue with water spout at park",
     "at": "2026-08-29T13:16:20.237Z"
+  },
+  "istanbul-gulhane-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/G%C3%BClhane_Park%2C_Istanbul.jpg/1920px-G%C3%BClhane_Park%2C_Istanbul.jpg": {
+    "slug": "istanbul-gulhane-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park scene with tulips, trees, visitors, representative of Gülhane Park",
+    "at": "2026-08-29T15:11:01.206Z"
+  },
+  "banlung-virachey-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Veal_thom.jpg": {
+    "slug": "banlung-virachey-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Landscape with rock formations plausible for park scenery",
+    "at": "2026-08-29T15:11:42.350Z"
+  },
+  "jeonju-deokjin-park\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/Deokjin_park.jpg": {
+    "slug": "jeonju-deokjin-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows park lotus pond and traditional pavilion, matches venue",
+    "at": "2026-08-29T15:14:21.240Z"
+  },
+  "ha-long-bay-halong-bay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1920px-Ha_Long_Bay_in_2019.jpg": {
+    "slug": "ha-long-bay-halong-bay",
+    "verdict": "MATCH",
+    "reason": "publish gate: Representative karst islands and boats view of Halong Bay",
+    "at": "2026-08-29T15:15:36.941Z"
+  },
+  "agra-taj-mahal\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1920px-Taj_Mahal_%28Edited%29.jpeg": {
+    "slug": "agra-taj-mahal",
+    "verdict": "MATCH",
+    "reason": "publish gate: Classic representative view of Taj Mahal exterior",
+    "at": "2026-08-29T15:18:15.015Z"
   }
 }
