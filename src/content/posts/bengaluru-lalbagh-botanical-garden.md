@@ -1,43 +1,51 @@
 ---
-title: "Lalbagh Botanical Garden: Bengaluru Travel Guide (4.4★)"
-description: "Lalbagh Botanical Garden is a 240-acre garden in south Bengaluru, open daily 5am–7pm, best visited on a weekday morning between 7am and 11am when it's quietest. 4.4★ (177,229 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bengaluru"
-category: "attraction"
-pubDate: "2026-08-16T07:52:58.383Z"
+title: 'Lalbagh Botanical Garden: Bengaluru Travel Guide (4.4★)'
+description: >-
+  Lalbagh Botanical Garden is a 240-acre garden in south Bengaluru, open daily
+  5am–7pm, best visited on a weekday morning between 7am and 11am when it's
+  quietest. 4.4★ (177,977 reviews) — what visitors say, hours, and tips.
+country: India
+region: Bengaluru
+category: attraction
+pubDate: '2026-08-16T07:52:58.383Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg/3840px-Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg"
-  credit: "Photo: N. Vivekananthamoorthy / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lalbagh_Botanical_Gardens,_Bengaluru,_Karnataka,_India.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg/3840px-Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg
+  credit: 'Photo: N. Vivekananthamoorthy / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lalbagh_Botanical_Gardens,_Bengaluru,_Karnataka,_India.jpg
   focus:
     x: 51
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lalbagh_botanical_garden%2C_bengaluru%2C_India_2.jpg/3840px-Lalbagh_botanical_garden%2C_bengaluru%2C_India_2.jpg"
-    credit: "Photo: Indurema / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lalbagh_botanical_garden,_bengaluru,_India_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lalbagh_botanical_garden%2C_bengaluru%2C_India_2.jpg/3840px-Lalbagh_botanical_garden%2C_bengaluru%2C_India_2.jpg
+    credit: 'Photo: Indurema / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Lalbagh_botanical_garden,_bengaluru,_India_2.jpg
 place:
-  id: "ChIJHdPykcEVrjsRIr4v35kLEY4"
-  name: "Lalbagh Botanical Garden"
-  address: "Mavalli, Bengaluru, Karnataka 560004, India"
+  id: ChIJHdPykcEVrjsRIr4v35kLEY4
+  name: Lalbagh Botanical Garden
+  address: 'Mavalli, Bengaluru, Karnataka 560004, India'
   rating: 4.4
-  userRatingsTotal: 177229
-  googleMapsUrl: "https://maps.google.com/?cid=10236976183492197922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 177977
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10236976183492197922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.949415799999999
   lng: 77.58468049999999
   openingHours:
-    - "Monday: 5:00 AM – 7:00 PM"
-    - "Tuesday: 5:00 AM – 7:00 PM"
-    - "Wednesday: 5:00 AM – 7:00 PM"
-    - "Thursday: 5:00 AM – 7:00 PM"
-    - "Friday: 5:00 AM – 7:00 PM"
-    - "Saturday: 5:00 AM – 7:00 PM"
-    - "Sunday: 5:00 AM – 7:00 PM"
+    - 'Monday: 5:00 AM – 7:00 PM'
+    - 'Tuesday: 5:00 AM – 7:00 PM'
+    - 'Wednesday: 5:00 AM – 7:00 PM'
+    - 'Thursday: 5:00 AM – 7:00 PM'
+    - 'Friday: 5:00 AM – 7:00 PM'
+    - 'Saturday: 5:00 AM – 7:00 PM'
+    - 'Sunday: 5:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 10
@@ -48,24 +56,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_3459454c6b35337634724952736a725645636b795064484a496843"
+    venueId: ven_3459454c6b35337634724952736a725645636b795064484a496843
 tags:
-  - "bengaluru"
-  - "park"
-quickAnswer: "Lalbagh Botanical Garden is a 240-acre garden in south Bengaluru, open daily 5am–7pm, best visited on a weekday morning between 7am and 11am when it's quietest. Don't-miss spots: the Glass House (modeled on London's Crystal Palace), the 3,000-million-year-old Peninsular Gneiss rock, and the topiary garden. Weekends after 1pm get packed, so aim for early morning instead."
+  - bengaluru
+  - park
+quickAnswer: >-
+  Lalbagh Botanical Garden is a 240-acre garden in south Bengaluru, open daily
+  5am–7pm, best visited on a weekday morning between 7am and 11am when it's
+  quietest. Don't-miss spots: the Glass House (modeled on London's Crystal
+  Palace), the 3,000-million-year-old Peninsular Gneiss rock, and the topiary
+  garden. Weekends after 1pm get packed, so aim for early morning instead.
 faq:
-  - q: "What are the opening hours?"
-    a: "Lalbagh is open every day from 5:00 AM to 7:00 PM, including weekends and most public holidays."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 11am are calmest. Weekends get busy from 1pm to 7pm, so arrive before noon if you're going on a Saturday or Sunday."
-  - q: "How do I get to Lalbagh by metro?"
-    a: "Take the Green Line to Lalbagh Station, a short walk from the park's West Gate."
-  - q: "How long should I spend there?"
-    a: "Plan for at least 90 minutes to see the Glass House, the Peninsular Gneiss rock, and the lake; walkers who want to cover more of the 240 acres should budget half a day."
-  - q: "Is there an entry fee?"
-    a: "There's typically a small entrance fee, with a separate charge for the Glass House during the January and August flower shows. Carry cash and confirm current rates at the gate, as fees can change."
+  - q: What are the opening hours?
+    a: >-
+      Lalbagh is open every day from 5:00 AM to 7:00 PM, including weekends and
+      most public holidays.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 7am and 11am are calmest. Weekends get busy from
+      1pm to 7pm, so arrive before noon if you're going on a Saturday or Sunday.
+  - q: How do I get to Lalbagh by metro?
+    a: >-
+      Take the Green Line to Lalbagh Station, a short walk from the park's West
+      Gate.
+  - q: How long should I spend there?
+    a: >-
+      Plan for at least 90 minutes to see the Glass House, the Peninsular Gneiss
+      rock, and the lake; walkers who want to cover more of the 240 acres should
+      budget half a day.
+  - q: Is there an entry fee?
+    a: >-
+      There's typically a small entrance fee, with a separate charge for the
+      Glass House during the January and August flower shows. Carry cash and
+      confirm current rates at the gate, as fees can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

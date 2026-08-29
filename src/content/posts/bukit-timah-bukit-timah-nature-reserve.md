@@ -1,37 +1,43 @@
 ---
-title: "Bukit Timah Nature Reserve: Travel Guide (4.6★)"
-description: "Bukit Timah Nature Reserve is Singapore's tallest hill (163m) and a slice of primary rainforest reachable in about 20 minutes from the city. 4.6★ (8,420 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Bukit Timah"
-category: "attraction"
-pubDate: "2026-08-12T09:39:27.077Z"
+title: 'Bukit Timah Nature Reserve: Travel Guide (4.6★)'
+description: >-
+  Bukit Timah Nature Reserve is Singapore's tallest hill (163m) and a slice of
+  primary rainforest reachable in about 20 minutes from the city. 4.6★ (8,428
+  reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Bukit Timah
+category: attraction
+pubDate: '2026-08-12T09:39:27.077Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/A_hike_to_the_Bukit_Timah_Summit_%282025%29_-_img_12.jpg/1920px-A_hike_to_the_Bukit_Timah_Summit_%282025%29_-_img_12.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_hike_to_the_Bukit_Timah_Summit_(2025)_-_img_12.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/A_hike_to_the_Bukit_Timah_Summit_%282025%29_-_img_12.jpg/1920px-A_hike_to_the_Bukit_Timah_Summit_%282025%29_-_img_12.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:A_hike_to_the_Bukit_Timah_Summit_(2025)_-_img_12.jpg
 gallery: []
 place:
-  id: "ChIJO9cemPUQ2jERvlh8KtwhtAc"
-  name: "Bukit Timah Nature Reserve"
-  address: "Hindhede Dr, Singapore 589318"
+  id: ChIJO9cemPUQ2jERvlh8KtwhtAc
+  name: Bukit Timah Nature Reserve
+  address: 'Hindhede Dr, Singapore 589318'
   rating: 4.6
-  userRatingsTotal: 8420
-  googleMapsUrl: "https://maps.google.com/?cid=555105883562727614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8428
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=555105883562727614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3483882999999999
   lng: 103.77670099999999
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 14
       - 15
@@ -45,24 +51,39 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_6341746877744b38686c7652456a325155506d6563394f4a496843"
+    venueId: ven_6341746877744b38686c7652456a325155506d6563394f4a496843
 tags:
-  - "bukit timah"
-  - "top attraction"
-quickAnswer: "Bukit Timah Nature Reserve is Singapore's tallest hill (163m) and a slice of primary rainforest reachable in about 20 minutes from the city. Go on a weekday afternoon between 2pm and 7pm to dodge crowds — weekend mornings from 7am to 1pm get packed. Budget 1.5–3 hours depending on whether you tackle the summit trail or the gentler Hindhede Quarry loop."
+  - bukit timah
+  - top attraction
+quickAnswer: >-
+  Bukit Timah Nature Reserve is Singapore's tallest hill (163m) and a slice of
+  primary rainforest reachable in about 20 minutes from the city. Go on a
+  weekday afternoon between 2pm and 7pm to dodge crowds — weekend mornings from
+  7am to 1pm get packed. Budget 1.5–3 hours depending on whether you tackle the
+  summit trail or the gentler Hindhede Quarry loop.
 faq:
-  - q: "How do I get to Bukit Timah Nature Reserve without a car?"
-    a: "Take the Downtown Line to Beauty World MRT, Exit B, then walk about 10–15 minutes along Chun Tin Road and Hindhede Drive to the entrance."
-  - q: "How long does the hike to the summit take?"
-    a: "Most people take 45–60 minutes each way on the paved summit trail, so plan for 1.5–2 hours round trip if you go all the way up."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday afternoons between 2pm and 7pm are noticeably calmer. Avoid weekend mornings from 7am to 1pm, when the trails and car park are busiest."
-  - q: "Is there an entrance fee?"
-    a: "No, entry to the reserve is free and open daily from 7am to 7pm."
-  - q: "What should I do if I see monkeys on the trail?"
-    a: "Keep food and plastic bags out of sight, don't make direct eye contact, and give long-tailed macaques space rather than trying to shoo them away."
+  - q: How do I get to Bukit Timah Nature Reserve without a car?
+    a: >-
+      Take the Downtown Line to Beauty World MRT, Exit B, then walk about 10–15
+      minutes along Chun Tin Road and Hindhede Drive to the entrance.
+  - q: How long does the hike to the summit take?
+    a: >-
+      Most people take 45–60 minutes each way on the paved summit trail, so plan
+      for 1.5–2 hours round trip if you go all the way up.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday afternoons between 2pm and 7pm are noticeably calmer. Avoid
+      weekend mornings from 7am to 1pm, when the trails and car park are
+      busiest.
+  - q: Is there an entrance fee?
+    a: 'No, entry to the reserve is free and open daily from 7am to 7pm.'
+  - q: What should I do if I see monkeys on the trail?
+    a: >-
+      Keep food and plastic bags out of sight, don't make direct eye contact,
+      and give long-tailed macaques space rather than trying to shoo them away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

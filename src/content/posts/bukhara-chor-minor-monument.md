@@ -1,63 +1,85 @@
 ---
-title: "Chor Minor Monument: Bukhara Travel Guide (4.6★)"
-description: "Chor Minor is a small, four-turreted gatehouse tucked in a residential lane a few minutes' walk east of Bukhara's Lyabi-Hauz. 4.6★ (2,280 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Bukhara"
-category: "attraction"
-pubDate: "2026-08-20T09:20:50.885Z"
+title: 'Chor Minor Monument: Bukhara Travel Guide (4.6★)'
+description: >-
+  Chor Minor is a small, four-turreted gatehouse tucked in a residential lane a
+  few minutes' walk east of Bukhara's Lyabi-Hauz. 4.6★ (2,301 reviews) — what
+  visitors say, hours, and tips.
+country: Uzbekistan
+region: Bukhara
+category: attraction
+pubDate: '2026-08-20T09:20:50.885Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chor-Minor_Madrasah_in_Bukhara.jpg/3840px-Chor-Minor_Madrasah_in_Bukhara.jpg"
-  credit: "Photo: 26D / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chor-Minor_Madrasah_in_Bukhara.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chor-Minor_Madrasah_in_Bukhara.jpg/3840px-Chor-Minor_Madrasah_in_Bukhara.jpg
+  credit: 'Photo: 26D / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chor-Minor_Madrasah_in_Bukhara.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJyUFJ4gYGUD8Ro60PhCGm3MY"
-  name: "Chor Minor Monument"
-  address: "Mekhtar Anbar Str. 90, 200100, Buxoro, Buxoro Viloyati, Uzbekistan"
+  id: ChIJyUFJ4gYGUD8Ro60PhCGm3MY
+  name: Chor Minor Monument
+  address: 'Mekhtar Anbar Str. 90, 200100, Buxoro, Buxoro Viloyati, Uzbekistan'
   rating: 4.6
-  userRatingsTotal: 2280
-  googleMapsUrl: "https://maps.google.com/?cid=14329510777265827235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2301
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14329510777265827235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.7748677
   lng: 64.42734949999999
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
     weekendQuiet:
       - 8
       - 9
-    venueId: "ven_594d336d4743685030366f52384455475967344a4655794a496843"
+    venueId: ven_594d336d4743685030366f52384455475967344a4655794a496843
 tags:
-  - "bukhara"
-  - "Chor Minor"
-quickAnswer: "Chor Minor is a small, four-turreted gatehouse tucked in a residential lane a few minutes' walk east of Bukhara's Lyabi-Hauz. It's open daily 8am–8pm, takes only 15–20 minutes to see, and is calmest between 8am and 10am, before tour groups and souvenir sellers arrive. Pair it with a wander through the surrounding mahalla for the full effect."
+  - bukhara
+  - Chor Minor
+quickAnswer: >-
+  Chor Minor is a small, four-turreted gatehouse tucked in a residential lane a
+  few minutes' walk east of Bukhara's Lyabi-Hauz. It's open daily 8am–8pm, takes
+  only 15–20 minutes to see, and is calmest between 8am and 10am, before tour
+  groups and souvenir sellers arrive. Pair it with a wander through the
+  surrounding mahalla for the full effect.
 faq:
-  - q: "How do I get to Chor Minor?"
-    a: "It's about a 10–15 minute walk east from Lyabi-Hauz in central Bukhara. Taxis and shared minivans can drop you within a couple of minutes' walk, since the final stretch is through narrow residential lanes."
-  - q: "What are the opening hours?"
-    a: "Chor Minor is open daily from 8am to 8pm, with no variation across the week."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 15–20 minutes at the monument itself, though it's worth extending your visit to explore the surrounding mahalla."
-  - q: "When is it quietest?"
-    a: "Both weekdays and weekends are calmest between 8am and 10am, before tour groups arrive."
-  - q: "Is there an entry fee?"
-    a: "Small entry fees are common at Bukhara monuments and can change, so confirm the current price locally before you go."
+  - q: How do I get to Chor Minor?
+    a: >-
+      It's about a 10–15 minute walk east from Lyabi-Hauz in central Bukhara.
+      Taxis and shared minivans can drop you within a couple of minutes' walk,
+      since the final stretch is through narrow residential lanes.
+  - q: What are the opening hours?
+    a: >-
+      Chor Minor is open daily from 8am to 8pm, with no variation across the
+      week.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 15–20 minutes at the monument itself, though it's
+      worth extending your visit to explore the surrounding mahalla.
+  - q: When is it quietest?
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 10am, before tour
+      groups arrive.
+  - q: Is there an entry fee?
+    a: >-
+      Small entry fees are common at Bukhara monuments and can change, so
+      confirm the current price locally before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

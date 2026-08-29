@@ -1,23 +1,28 @@
 ---
 title: 'Víctor Montes: Where to Eat in Bilbao'
-description: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque pintxos at the bar and a mid-range sit-down menu in back.
+description: >-
+  Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a
+  handsome former market building with a painted facade—come for classic Basque
+  pintxos at the bar and a mid-range sit-down menu in back.
 country: Spain
 region: Bilbao
 category: restaurant
 pubDate: '2026-07-28T10:08:33.058Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4191621_eXHhH1Qr7qNtcZfIXZLz9lN7MnqgKCsdjrOkdqCnu9c.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/4191621_eXHhH1Qr7qNtcZfIXZLz9lN7MnqgKCsdjrOkdqCnu9c.jpg
   credit: 'Photo: Foursquare user content (Víctor Montes)'
   license: foursquare
-  source: https://foursquare.com/v/4b9aa998f964a520ddca35e3
+  source: 'https://foursquare.com/v/4b9aa998f964a520ddca35e3'
 place:
   id: ChIJfW8y1c1PTg0RsCMs2FPQIiM
   name: Víctor Montes
-  address: Pl. Berria, 8, Ibaiondo, 48005 Bilbao, Bizkaia, Spain
+  address: 'Pl. Berria, 8, Ibaiondo, 48005 Bilbao, Bizkaia, Spain'
   rating: 4.4
-  userRatingsTotal: 5007
-  priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=2531814999063274416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5090
+  priceLevel: 3
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2531814999063274416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.2589036
   lng: -2.9223596
@@ -33,19 +38,42 @@ place:
 tags:
   - bilbao
   - local restaurant
-quickAnswer: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque pintxos at the bar and a mid-range sit-down menu in back. It's genuinely popular (4.4 stars, over 5,000 reviews), so aim for a weekday lunch around 1pm or an early evening pintxo run before 8pm to dodge the crush. Budget €3-5 per pintxo standing at the bar, more for a seated meal.
+quickAnswer: >-
+  Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a
+  handsome former market building with a painted facade—come for classic Basque
+  pintxos at the bar and a mid-range sit-down menu in back. It's genuinely
+  popular (4.4 stars, over 5,000 reviews), so aim for a weekday lunch around 1pm
+  or an early evening pintxo run before 8pm to dodge the crush. Budget €3-5 per
+  pintxo standing at the bar, more for a seated meal.
 faq:
   - q: How do I get to Víctor Montes?
-    a: It's on Plaza Nueva (Plaza Berria) in Casco Viejo. The nearest metro stop is Casco Viejo (Lines 1 and 2), about a 5-minute walk, or a scenic 20-minute riverside walk from the Guggenheim area.
+    a: >-
+      It's on Plaza Nueva (Plaza Berria) in Casco Viejo. The nearest metro stop
+      is Casco Viejo (Lines 1 and 2), about a 5-minute walk, or a scenic
+      20-minute riverside walk from the Guggenheim area.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday lunch before 1pm is calmer. Avoid weekends and anytime after 8pm on weekdays, when the counter gets three-deep with people waiting for pintxos.
+    a: >-
+      Weekday lunch before 1pm is calmer. Avoid weekends and anytime after 8pm
+      on weekdays, when the counter gets three-deep with people waiting for
+      pintxos.
   - q: How much should I budget?
-    a: It's mid-range for Bilbao. Standing pintxos with a drink run roughly €3-5 each, while a full seated meal in the dining room costs considerably more per person.
+    a: >-
+      It's mid-range for Bilbao. Standing pintxos with a drink run roughly €3-5
+      each, while a full seated meal in the dining room costs considerably more
+      per person.
   - q: Should I eat at the bar or book a table?
-    a: For a quick pintxos sampling, just walk up to the counter and grab a plate—no reservation needed. For the sit-down menu in the back dining room, especially on weekend evenings, it's worth asking ahead about a table.
+    a: >-
+      For a quick pintxos sampling, just walk up to the counter and grab a
+      plate—no reservation needed. For the sit-down menu in the back dining
+      room, especially on weekend evenings, it's worth asking ahead about a
+      table.
   - q: What should I order?
-    a: Start with the tortilla de patata, bacalao pintxos, and jamón-topped bread, paired with a glass of txakoli or a caña of beer. The seasonal specials on the chalkboard near the register are also worth trying.
+    a: >-
+      Start with the tortilla de patata, bacalao pintxos, and jamón-topped
+      bread, paired with a glass of txakoli or a caña of beer. The seasonal
+      specials on the chalkboard near the register are also worth trying.
 aiGenerated: true
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

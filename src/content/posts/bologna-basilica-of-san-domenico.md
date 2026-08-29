@@ -1,23 +1,28 @@
 ---
 title: 'Basilica of San Domenico: Bologna Travel Guide'
-description: The Basilica of San Domenico sits a 12-minute walk south of Piazza Maggiore, in the university quarter near Bologna's old city walls.
+description: >-
+  The Basilica of San Domenico sits a 12-minute walk south of Piazza Maggiore,
+  in the university quarter near Bologna's old city walls.
 country: Italy
 region: Bologna
 category: hidden-gem
 pubDate: '2026-07-29T10:04:18.450Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg/1920px-Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg/1920px-Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
   credit: 'Photo: Katedra histórie UMB / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bologna_-_Students_in_front_of_the_Basilica_of_San_Domenico.jpg
 gallery: []
 place:
   id: ChIJ_QQZZ8DUf0cRV7hYDrZFSTo
   name: Basilica of San Domenico
-  address: P.za S. Domenico, 13, 40124 Bologna BO, Italy
+  address: 'P.za S. Domenico, 13, 40124 Bologna BO, Italy'
   rating: 4.7
-  userRatingsTotal: 4411
-  googleMapsUrl: https://maps.google.com/?cid=4199964775726757975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4439
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4199964775726757975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 44.489641999999996
   lng: 11.3440336
@@ -32,8 +37,17 @@ place:
     - 'Sunday: 7:30 AM – 1:00 PM, 3:30 – 8:00 PM'
   busyness:
     updated: 2026-07-29T00:00:00.000Z
-    weekdayBusy: [9, 10, 11, 12, 16, 17]
-    weekendQuiet: [8, 9, 19]
+    weekdayBusy:
+      - 9
+      - 10
+      - 11
+      - 12
+      - 16
+      - 17
+    weekendQuiet:
+      - 8
+      - 9
+      - 19
     weekendBusy:
       - 16
       - 17
@@ -41,20 +55,41 @@ place:
 tags:
   - bologna
   - hidden gem
-quickAnswer: The Basilica of San Domenico sits a 12-minute walk south of Piazza Maggiore, in the university quarter near Bologna's old city walls. It's calm essentially all day, both weekdays and weekends, from 7:30am to 1pm and 3:30pm to 8pm — the one window to avoid is 4pm–6pm on weekends, when tour groups cluster around the Arca di San Domenico. Budget 45 minutes to an hour, and it costs nothing to step inside.
+quickAnswer: >-
+  The Basilica of San Domenico sits a 12-minute walk south of Piazza Maggiore,
+  in the university quarter near Bologna's old city walls. It's calm essentially
+  all day, both weekdays and weekends, from 7:30am to 1pm and 3:30pm to 8pm —
+  the one window to avoid is 4pm–6pm on weekends, when tour groups cluster
+  around the Arca di San Domenico. Budget 45 minutes to an hour, and it costs
+  nothing to step inside.
 faq:
   - q: How do I get to the Basilica of San Domenico?
-    a: It's about a 12–15 minute walk south from Piazza Maggiore via Via Garibaldi, or a 20–25 minute walk from Bologna Centrale station straight through the historic center. No car needed — the area is largely pedestrianized.
+    a: >-
+      It's about a 12–15 minute walk south from Piazza Maggiore via Via
+      Garibaldi, or a 20–25 minute walk from Bologna Centrale station straight
+      through the historic center. No car needed — the area is largely
+      pedestrianized.
   - q: How much does it cost to visit?
-    a: Entry to the basilica itself is free. Donation boxes near the chapels are customary but optional.
+    a: >-
+      Entry to the basilica itself is free. Donation boxes near the chapels are
+      customary but optional.
   - q: When is the quietest time to visit?
-    a: The church stays calm from 7:30am to 1pm and again from 3:30pm to 8pm, its regular hours, on both weekdays and weekends. Try to avoid 4pm–6pm on weekends, when tour groups tend to gather around the Arca di San Domenico.
+    a: >-
+      The church stays calm from 7:30am to 1pm and again from 3:30pm to 8pm, its
+      regular hours, on both weekdays and weekends. Try to avoid 4pm–6pm on
+      weekends, when tour groups tend to gather around the Arca di San Domenico.
   - q: How long should I spend there?
-    a: 45 minutes to an hour is enough to see the Arca di San Domenico, Michelangelo's angel, and a few side chapels without rushing.
+    a: >-
+      45 minutes to an hour is enough to see the Arca di San Domenico,
+      Michelangelo's angel, and a few side chapels without rushing.
   - q: What's the main thing to see inside?
-    a: The Arca di San Domenico, Saint Dominic's tomb-shrine, sculpted by Nicola Pisano, Nicolò dell'Arca, and a young Michelangelo, who carved a kneeling angel on the right side around 1494.
+    a: >-
+      The Arca di San Domenico, Saint Dominic's tomb-shrine, sculpted by Nicola
+      Pisano, Nicolò dell'Arca, and a young Michelangelo, who carved a kneeling
+      angel on the right side around 1494.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 You come to San Domenico for one man's bones and one genius's chisel-work, and you leave having wandered through eight centuries of Bologna almost by accident. The basilica sits at the southern edge of the historic center, on a piazza that feels several notches quieter than the student bustle around Piazza Maggiore or Via Zamboni — a wide, sunbaked square with a slightly shabby elegance, ringed by porticoed buildings and punctuated by two odd little columns holding statues of the Madonna and San Domenico himself, put up centuries ago as plague markers.
 

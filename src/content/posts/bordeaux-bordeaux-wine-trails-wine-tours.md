@@ -1,23 +1,31 @@
 ---
 title: 'Bordeaux Wine Trails - Wine tours: Travel Guide'
-description: Bordeaux Wine Trails runs small-group day trips from the city center out to the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the classic circuits), pairing château visits with tastings and usually lunch.
+description: >-
+  Bordeaux Wine Trails runs small-group day trips from the city center out to
+  the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the
+  classic circuits), pairing château visits with tastings and usually lunch.
 country: France
 region: Bordeaux
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg/1920px-Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg
-  credit: 'Photo: Grand Parc - Bordeaux, France from France / Wikimedia Commons (CC BY 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg/1920px-Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_%288036043381%29.jpg
+  credit: >-
+    Photo: Grand Parc - Bordeaux, France from France / Wikimedia Commons (CC BY
+    2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_(8036043381).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dans_le_M%C3%A9doc..._Bordeaux_Gironde_Vin_Vinoble_Winery_Wine_(8036043381).jpg
 gallery: []
 place:
   id: ChIJRRMUnL4nVQ0RNHbiY6jvWf0
   name: Bordeaux Wine Trails - Wine tours
-  address: 21 Rue du Chai des Farines, 33000 Bordeaux, France
-  rating: 4.9
-  userRatingsTotal: 754
-  googleMapsUrl: https://maps.google.com/?cid=18255886071032346164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: '21 Rue du Chai des Farines, 33000 Bordeaux, France'
+  rating: 5
+  userRatingsTotal: 776
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18255886071032346164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 44.8389957
   lng: -0.5692577999999999
@@ -33,27 +41,51 @@ place:
 tags:
   - bordeaux
   - Bordeaux Wine Region
-quickAnswer: Bordeaux Wine Trails runs small-group day trips from the city center out to the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the classic circuits), pairing château visits with tastings and usually lunch. Book at least a few weeks ahead — it's a 4.9-star operation with nearly 750 reviews, so popular dates fill fast — and plan for a full day (roughly 9am–5pm) rather than a quick afternoon outing.
+quickAnswer: >-
+  Bordeaux Wine Trails runs small-group day trips from the city center out to
+  the surrounding vineyards (Saint-Émilion, Médoc, Sauternes and Graves are the
+  classic circuits), pairing château visits with tastings and usually lunch.
+  Book at least a few weeks ahead — it's a 4.9-star operation with nearly 750
+  reviews, so popular dates fill fast — and plan for a full day (roughly
+  9am–5pm) rather than a quick afternoon outing.
 faq:
   - q: How long does a Bordeaux Wine Trails tour take?
-    a: Plan for a full day, typically around 8 hours including a scenic drive, visits to two or three châteaux, tastings, and often lunch. Departures are usually mid-morning with return by late afternoon.
+    a: >-
+      Plan for a full day, typically around 8 hours including a scenic drive,
+      visits to two or three châteaux, tastings, and often lunch. Departures are
+      usually mid-morning with return by late afternoon.
   - q: Do I need to book in advance?
-    a: Yes. Tours run in small groups with limited seats, and this operator's high rating (4.9 from 748 reviews) means popular dates, especially weekdays during the September-October harvest season, can sell out weeks ahead.
+    a: >-
+      Yes. Tours run in small groups with limited seats, and this operator's
+      high rating (4.9 from 748 reviews) means popular dates, especially
+      weekdays during the September-October harvest season, can sell out weeks
+      ahead.
   - q: Which wine regions do the tours cover?
-    a: Classic circuits focus on Saint-Émilion, Médoc, Sauternes, and Graves/Pessac-Léognan — each with distinct soils and wine styles. Check which specific appellation a given tour covers before booking, since itineraries are usually fixed routes.
+    a: >-
+      Classic circuits focus on Saint-Émilion, Médoc, Sauternes, and
+      Graves/Pessac-Léognan — each with distinct soils and wine styles. Check
+      which specific appellation a given tour covers before booking, since
+      itineraries are usually fixed routes.
   - q: Is lunch included?
-    a: It depends on the specific tour, but many full-day itineraries build in lunch at a village bistro or a picnic among the vines. Confirm this detail when booking so you know whether to budget separately.
+    a: >-
+      It depends on the specific tour, but many full-day itineraries build in
+      lunch at a village bistro or a picnic among the vines. Confirm this detail
+      when booking so you know whether to budget separately.
   - q: When is the best time of year to go?
-    a: May through October has the most reliable weather for vineyard walks, with harvest season (September-early October) adding extra atmosphere but also higher demand. Winter tours exist and focus more on cellar visits and tastings.
+    a: >-
+      May through October has the most reliable weather for vineyard walks, with
+      harvest season (September-early October) adding extra atmosphere but also
+      higher demand. Winter tours exist and focus more on cellar visits and
+      tastings.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-29'
 ---
 ## Why Bordeaux Wine Trails
 
 Bordeaux the city is compact and walkable, but the wine that made it famous grows well outside the ring road, scattered across appellations like Médoc, Saint-Émilion, Pessac-Léognan, and Sauternes. A rental car and a phrasebook of appellation names will get you there, but the châteaux that matter most for tastings often require advance appointments, fluent French, or both. Bordeaux Wine Trails, based in the city center, exists to close that gap — small-group, English-language tours that bundle transport, château access, and tastings into a single day.
 
-With a 4.9 rating across 748 reviews, it's one of the more consistently well-regarded operators working the region, which matters in a city where wine-tour quality varies wildly.
+With a 5.0 rating across 748 reviews, it's one of the more consistently well-regarded operators working the region, which matters in a city where wine-tour quality varies wildly.
 
 ## Getting there and booking
 

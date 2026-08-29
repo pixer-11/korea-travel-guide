@@ -1,55 +1,82 @@
 ---
-title: "Baclayon Church: Bohol Travel Guide (4.4★)"
-description: "Baclayon Church, about 8km east of Tagbilaran, is one of the oldest stone churches in the Philippines, built by Jesuits from coral blocks in the 1590s-1727 period. 4.4★ (2,731 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Bohol"
-category: "attraction"
-pubDate: "2026-08-19T08:06:47.599Z"
+title: 'Baclayon Church: Bohol Travel Guide (4.4★)'
+description: >-
+  Baclayon Church, about 8km east of Tagbilaran, is one of the oldest stone
+  churches in the Philippines, built by Jesuits from coral blocks in the
+  1590s-1727 period. 4.4★ (2,739 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Bohol
+category: attraction
+pubDate: '2026-08-19T08:06:47.599Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Baclayon_Immaculate_Concepcion_Church_%28Tagbilaran_East_Road%2C_Baclayon%2C_Bohol%3B_01-12-2023%29.jpg/1920px-Baclayon_Immaculate_Concepcion_Church_%28Tagbilaran_East_Road%2C_Baclayon%2C_Bohol%3B_01-12-2023%29.jpg"
-  credit: "Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Baclayon_Immaculate_Concepcion_Church_(Tagbilaran_East_Road,_Baclayon,_Bohol;_01-12-2023).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Baclayon_Immaculate_Concepcion_Church_%28Tagbilaran_East_Road%2C_Baclayon%2C_Bohol%3B_01-12-2023%29.jpg/1920px-Baclayon_Immaculate_Concepcion_Church_%28Tagbilaran_East_Road%2C_Baclayon%2C_Bohol%3B_01-12-2023%29.jpg
+  credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Baclayon_Immaculate_Concepcion_Church_(Tagbilaran_East_Road,_Baclayon,_Bohol;_01-12-2023).jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJw_CRaj9OqjMRSbQIIGXN6uI"
-  name: "Baclayon Church"
-  address: "JWF6+4XW, Baclayon, Bohol, Philippines"
+  id: ChIJw_CRaj9OqjMRSbQIIGXN6uI
+  name: Baclayon Church
+  address: 'JWF6+4XW, Baclayon, Bohol, Philippines'
   rating: 4.4
-  userRatingsTotal: 2731
-  googleMapsUrl: "https://maps.google.com/?cid=16351107231334839369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2739
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16351107231334839369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.6228578
   lng: 123.91245119999999
-  phone: "+63 38 540 9176"
+  phone: +63 38 540 9176
   openingHours:
-    - "Monday: 8:30 – 11:30 AM, 1:30 – 4:30 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 8:30 – 11:30 AM, 1:30 – 4:30 PM"
-    - "Thursday: 8:30 – 11:30 AM, 1:30 – 4:30 PM"
-    - "Friday: 8:30 – 11:30 AM, 1:30 – 4:30 PM"
-    - "Saturday: 8:30 – 11:30 AM, 1:30 – 4:30 PM"
-    - "Sunday: Closed"
+    - 'Monday: 8:30 – 11:30 AM, 1:30 – 4:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 8:30 – 11:30 AM, 1:30 – 4:30 PM'
+    - 'Thursday: 8:30 – 11:30 AM, 1:30 – 4:30 PM'
+    - 'Friday: 8:30 – 11:30 AM, 1:30 – 4:30 PM'
+    - 'Saturday: 8:30 – 11:30 AM, 1:30 – 4:30 PM'
+    - 'Sunday: Closed'
 tags:
-  - "bohol"
-  - "historic site"
-quickAnswer: "Baclayon Church, about 8km east of Tagbilaran, is one of the oldest stone churches in the Philippines, built by Jesuits from coral blocks in the 1590s-1727 period. Visit Wednesday to Saturday morning (8:30–11:30am) or afternoon (1:30–4:30pm) — it's shut Sundays and Tuesdays, so plan around that. Pair it with the Baclayon Church Museum next door for a fuller sense of the relics and vestments inside."
+  - bohol
+  - historic site
+quickAnswer: >-
+  Baclayon Church, about 8km east of Tagbilaran, is one of the oldest stone
+  churches in the Philippines, built by Jesuits from coral blocks in the
+  1590s-1727 period. Visit Wednesday to Saturday morning (8:30–11:30am) or
+  afternoon (1:30–4:30pm) — it's shut Sundays and Tuesdays, so plan around that.
+  Pair it with the Baclayon Church Museum next door for a fuller sense of the
+  relics and vestments inside.
 faq:
-  - q: "How do I get to Baclayon Church from Tagbilaran?"
-    a: "It's about 8km east of Tagbilaran City — roughly 15-20 minutes by tricycle, habal-habal, or private car along the coastal road. Most Bohol countryside tours include it as a stop."
-  - q: "What are the opening hours?"
-    a: "Wednesday through Saturday and Monday, it's open 8:30–11:30am and 1:30–4:30pm. It's closed all day Tuesday and Sunday, so avoid planning a visit those days."
-  - q: "Is there an entrance fee?"
-    a: "The church itself is generally free to enter, but the adjoining museum with religious relics usually charges a small separate admission — bring cash in pesos."
-  - q: "How much time should I set aside?"
-    a: "Plan for about 45 minutes total: 15-20 minutes in the church itself and 20-30 minutes in the museum next door if it's open."
-  - q: "What else can I combine this with nearby?"
-    a: "The Blood Compact Shrine, Panglao Island's beaches, and the Loboc River cruise are all a short drive away, making Baclayon Church an easy add-on to a fuller Bohol countryside itinerary."
+  - q: How do I get to Baclayon Church from Tagbilaran?
+    a: >-
+      It's about 8km east of Tagbilaran City — roughly 15-20 minutes by
+      tricycle, habal-habal, or private car along the coastal road. Most Bohol
+      countryside tours include it as a stop.
+  - q: What are the opening hours?
+    a: >-
+      Wednesday through Saturday and Monday, it's open 8:30–11:30am and
+      1:30–4:30pm. It's closed all day Tuesday and Sunday, so avoid planning a
+      visit those days.
+  - q: Is there an entrance fee?
+    a: >-
+      The church itself is generally free to enter, but the adjoining museum
+      with religious relics usually charges a small separate admission — bring
+      cash in pesos.
+  - q: How much time should I set aside?
+    a: >-
+      Plan for about 45 minutes total: 15-20 minutes in the church itself and
+      20-30 minutes in the museum next door if it's open.
+  - q: What else can I combine this with nearby?
+    a: >-
+      The Blood Compact Shrine, Panglao Island's beaches, and the Loboc River
+      cruise are all a short drive away, making Baclayon Church an easy add-on
+      to a fuller Bohol countryside itinerary.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

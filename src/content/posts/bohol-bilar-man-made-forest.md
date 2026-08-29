@@ -1,27 +1,35 @@
 ---
 title: 'Bilar Man-Made Forest: Bohol Travel Guide'
-description: The Bilar Man-Made Forest is a 2-kilometer stretch of dense mahogany trees straddling the Loay Interior Road between Bilar and Sevilla, roughly 45-55 minutes by car or van from Tagbilaro City and easily combined with the Chocolate Hills and Loboc River in a single day trip.
+description: >-
+  The Bilar Man-Made Forest is a 2-kilometer stretch of dense mahogany trees
+  straddling the Loay Interior Road between Bilar and Sevilla, roughly 45-55
+  minutes by car or van from Tagbilaro City and easily combined with the
+  Chocolate Hills and Loboc River in a single day trip.
 country: Philippines
 region: Bohol
 category: attraction
 pubDate: '2026-07-26T07:50:11.605Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg/1920px-Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg/1920px-Loay_Interior_Road%2C_Bilar_Man-made_Forest_%28Bilar%2C_Bohol%3B_01-10-2023%29.jpg
   credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Loay_Interior_Road,_Bilar_Man-made_Forest_(Bilar,_Bohol;_01-10-2023).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Loay_Interior_Road,_Bilar_Man-made_Forest_(Bilar,_Bohol;_01-10-2023).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Man-made_Forest%2C_Bilar%2C_Bohol.jpg/1920px-Man-made_Forest%2C_Bilar%2C_Bohol.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Man-made_Forest%2C_Bilar%2C_Bohol.jpg/1920px-Man-made_Forest%2C_Bilar%2C_Bohol.jpg
     credit: 'Photo: Hannah Tessa Obedencio / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Man-made_Forest,_Bilar,_Bohol.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Man-made_Forest,_Bilar,_Bohol.jpg'
 place:
   id: ChIJV3MW-lhBqjMRYdXbTWLZk-8
   name: Bilar Man-Made Forest
-  address: M37H+M9X, Loay Interior Road, Bilar, Bohol, Philippines
+  address: 'M37H+M9X, Loay Interior Road, Bilar, Bohol, Philippines'
   rating: 4.4
-  userRatingsTotal: 2243
-  googleMapsUrl: https://maps.google.com/?cid=17263380812877518177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2272
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17263380812877518177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 9.6642323
   lng: 124.07847400000001
@@ -36,20 +44,48 @@ place:
 tags:
   - bohol
   - top attraction
-quickAnswer: The Bilar Man-Made Forest is a 2-kilometer stretch of dense mahogany trees straddling the Loay Interior Road between Bilar and Sevilla, roughly 45-55 minutes by car or van from Tagbilaro City and easily combined with the Chocolate Hills and Loboc River in a single day trip. Budget 15-30 minutes for photos at the roadside pull-offs and viewing deck — it's a drive-through/stop-and-shoot stop rather than a hiking destination. Go early morning or late afternoon when the light slants through the canopy and tour buses haven't clogged the shoulder.
+quickAnswer: >-
+  The Bilar Man-Made Forest is a 2-kilometer stretch of dense mahogany trees
+  straddling the Loay Interior Road between Bilar and Sevilla, roughly 45-55
+  minutes by car or van from Tagbilaro City and easily combined with the
+  Chocolate Hills and Loboc River in a single day trip. Budget 15-30 minutes for
+  photos at the roadside pull-offs and viewing deck — it's a
+  drive-through/stop-and-shoot stop rather than a hiking destination. Go early
+  morning or late afternoon when the light slants through the canopy and tour
+  buses haven't clogged the shoulder.
 faq:
   - q: How do I get to Bilar Man-Made Forest?
-    a: It's on the Loay Interior Road in Bilar, about 45-55 minutes by car, van, or habal-habal from Tagbilaran City. There's no direct public jeepney route, so most visitors reach it via rented scooter, private car, or a chartered countryside tour that also covers the Chocolate Hills and Loboc River.
+    a: >-
+      It's on the Loay Interior Road in Bilar, about 45-55 minutes by car, van,
+      or habal-habal from Tagbilaran City. There's no direct public jeepney
+      route, so most visitors reach it via rented scooter, private car, or a
+      chartered countryside tour that also covers the Chocolate Hills and Loboc
+      River.
   - q: Is there an entrance fee?
-    a: No formal ticket booth exists — the forest is a public road corridor with a roadside viewing deck and pull-offs, so there's typically no admission charge, though small stalls sell snacks and souvenirs (bring cash).
+    a: >-
+      No formal ticket booth exists — the forest is a public road corridor with
+      a roadside viewing deck and pull-offs, so there's typically no admission
+      charge, though small stalls sell snacks and souvenirs (bring cash).
   - q: How long should I spend here?
-    a: 'Most visitors need just 15-30 minutes: a stop to walk into the tree rows, take photos at the viewing deck, and maybe grab a coconut snack before continuing on.'
+    a: >-
+      Most visitors need just 15-30 minutes: a stop to walk into the tree rows,
+      take photos at the viewing deck, and maybe grab a coconut snack before
+      continuing on.
   - q: When is the best time to visit to avoid crowds?
-    a: Early morning, before 9am, or late afternoon offers the best light and fewer tour vans. This is a well-known stop on the standard Bohol countryside route, so midday and weekends see the most traffic through the corridor.
+    a: >-
+      Early morning, before 9am, or late afternoon offers the best light and
+      fewer tour vans. This is a well-known stop on the standard Bohol
+      countryside route, so midday and weekends see the most traffic through the
+      corridor.
   - q: What else is nearby?
-    a: The Chocolate Hills, the Loboc River (popular for floating restaurant cruises), and the Tarsier Sanctuary are all commonly combined with Bilar Man-Made Forest on a single-day countryside tour from Tagbilaran or Panglao.
+    a: >-
+      The Chocolate Hills, the Loboc River (popular for floating restaurant
+      cruises), and the Tarsier Sanctuary are all commonly combined with Bilar
+      Man-Made Forest on a single-day countryside tour from Tagbilaran or
+      Panglao.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

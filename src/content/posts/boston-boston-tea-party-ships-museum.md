@@ -1,27 +1,33 @@
 ---
 title: 'Boston Tea Party Ships & Museum: Travel Guide'
-description: Plan on 60–90 minutes at the Boston Tea Party Ships & Museum, docked at 306 Congress St on the Fort Point Channel, right behind South Station.
+description: >-
+  Plan on 60–90 minutes at the Boston Tea Party Ships & Museum, docked at 306
+  Congress St on the Fort Point Channel, right behind South Station.
 country: United States
 region: Boston
 category: attraction
 pubDate: '2026-07-26T07:12:03.839Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Boston_Tea_Party_Ships_%26_Museum%2C_Boston%2C_Massachusetts%2C_US_%28PPL2-Enhanced%29_julesvernex2.jpg
   credit: 'Photo: Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Boston_Tea_Party_Ships_%26_Museum,_Boston,_Massachusetts,_US_(PPL2-Enhanced)_julesvernex2.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Boston_Tea_Party_Ships_%26_Museum,_Boston,_Massachusetts,_US_(PPL2-Enhanced)_julesvernex2.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/55710136_VrOVxRbymsmCo6IqDcSgiAhJMMoJiDvcaMQmjPVvlRM.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/55710136_VrOVxRbymsmCo6IqDcSgiAhJMMoJiDvcaMQmjPVvlRM.jpg
     credit: 'Photo: Foursquare user content (Boston Tea Party Ships and Museum)'
     license: foursquare
-    source: https://foursquare.com/v/514f2d93e4b03aaaf9a2b250
+    source: 'https://foursquare.com/v/514f2d93e4b03aaaf9a2b250'
 place:
   id: ChIJ4bwEPIBw44kRs7STmn977tE
   name: Boston Tea Party Ships & Museum
-  address: 306 Congress St, Boston, MA 02210, USA
+  address: '306 Congress St, Boston, MA 02210, USA'
   rating: 4.6
-  userRatingsTotal: 9631
-  googleMapsUrl: https://maps.google.com/?cid=15127163986368509107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9798
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15127163986368509107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 42.3521821
   lng: -71.0512911
@@ -37,20 +43,41 @@ place:
 tags:
   - boston
   - top attraction
-quickAnswer: Plan on 60–90 minutes at the Boston Tea Party Ships & Museum, docked at 306 Congress St on the Fort Point Channel, right behind South Station. It's a guided, timed-entry experience (actors, a short film, two reconstructed 18th-century ships, and a tearoom), so book your slot online in advance — this is one of Boston's most-visited attractions and midday slots on weekends sell out. Arrive right at opening or in late afternoon to avoid the thickest crowds of tour groups.
+quickAnswer: >-
+  Plan on 60–90 minutes at the Boston Tea Party Ships & Museum, docked at 306
+  Congress St on the Fort Point Channel, right behind South Station. It's a
+  guided, timed-entry experience (actors, a short film, two reconstructed
+  18th-century ships, and a tearoom), so book your slot online in advance — this
+  is one of Boston's most-visited attractions and midday slots on weekends sell
+  out. Arrive right at opening or in late afternoon to avoid the thickest crowds
+  of tour groups.
 faq:
   - q: How do I get to the Boston Tea Party Ships & Museum by public transit?
-    a: Take the Red Line (or Silver Line/Orange Line) to South Station, then walk about five minutes to 306 Congress St on the Congress Street Bridge.
+    a: >-
+      Take the Red Line (or Silver Line/Orange Line) to South Station, then walk
+      about five minutes to 306 Congress St on the Congress Street Bridge.
   - q: How long should I plan for the visit?
-    a: Budget 60–90 minutes — it's a guided, staged experience with a fixed sequence (intro film, ship deck reenactment, exhibits, tea room), not a quick walk-through.
+    a: >-
+      Budget 60–90 minutes — it's a guided, staged experience with a fixed
+      sequence (intro film, ship deck reenactment, exhibits, tea room), not a
+      quick walk-through.
   - q: Do I need to book tickets in advance?
-    a: Yes — entry is timed, and on busy days walk-up slots can sell out, especially midday on weekends when tour groups arrive.
+    a: >-
+      Yes — entry is timed, and on busy days walk-up slots can sell out,
+      especially midday on weekends when tour groups arrive.
   - q: When is the best time to go to avoid crowds?
-    a: Aim for right at opening or later in the afternoon; midday, especially on weekends and in peak tourist season, draws the heaviest tour-group traffic.
+    a: >-
+      Aim for right at opening or later in the afternoon; midday, especially on
+      weekends and in peak tourist season, draws the heaviest tour-group
+      traffic.
   - q: What else is nearby if I have extra time?
-    a: The Boston Children's Museum is two minutes away on the same channel, and the Rose Kennedy Greenway, Faneuil Hall, and the New England Aquarium are all within a 15–20 minute walk.
+    a: >-
+      The Boston Children's Museum is two minutes away on the same channel, and
+      the Rose Kennedy Greenway, Faneuil Hall, and the New England Aquarium are
+      all within a 15–20 minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

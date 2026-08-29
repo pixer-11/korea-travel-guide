@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bilbao-cafe-bar-bilbao
-srcHash: '75b07a0d0225'
+srcHash: 'bc2cb2bfa366'
 title: 'Café Bar Bilbao: guía de viaje (4,4★)'
-description: 'Con sus azulejos retro, Café Bar Bilbao es un bar-cafetería grande y animado en la Plaza Berria del Casco Viejo (Ibaiondo), abierto todos los días de 6:30 a 23h (desde las 9h los fines de semana), donde se sirve café, cerveza y una larga barra de pintxos vascos. 4,4★ (3.793 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Con sus azulejos retro, Café Bar Bilbao es un bar-cafetería grande y animado en la Plaza Berria del Casco Viejo (Ibaiondo), abierto todos los días de 6:30 a 23h (desde las 9h los fines de semana), donde se sirve café, cerveza y una larga barra de pintxos vascos. 4,4★ (3.847 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Con sus azulejos retro, Café Bar Bilbao es un bar-cafetería grande y animado en la Plaza Berria del Casco Viejo (Ibaiondo), abierto todos los días de 6:30 a 23h (desde las 9h los fines de semana), donde se sirve café, cerveza y una larga barra de pintxos vascos. Para disfrutar de la sala vacía y un café tranquilo, conviene ir un día entre semana de 7 a 9 de la mañana; los fines de semana el ambiente se mantiene animado prácticamente todo el día, así que si lo que se busca es ese bullicio, lo mejor es llegar justo a la apertura, a las 9h.
 faq:
   - q: ¿Cómo se llega a Café Bar Bilbao?

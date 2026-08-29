@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: agra-taj-mahal
-srcHash: 'c8098ae1e879'
+srcHash: '7dd7f0c78c6c'
 title: 'Taj Mahal: guía de viaje de Agra (4,6★)'
-description: 'El Taj Mahal se encuentra en Agra, en el barrio de Tajganj, en la orilla sur del río Yamuna. 4,6★ (251.274 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Taj Mahal se encuentra en Agra, en el barrio de Tajganj, en la orilla sur del río Yamuna. 4,6★ (251.281 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Taj Mahal se encuentra en Agra, en el barrio de Tajganj, en la orilla sur del río Yamuna. Se trata de un monumento muy visitado, así que conviene reservar las entradas con horario fijo por internet y elegir el turno del amanecer para evitar tanto el calor como las aglomeraciones. Calcule entre dos y tres horas de visita, más si hace cola para entrar a la cámara interior del mausoleo.
 faq:
   - q: ¿Cómo consigo las entradas para el Taj Mahal?

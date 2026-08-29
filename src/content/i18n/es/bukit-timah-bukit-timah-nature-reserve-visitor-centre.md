@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bukit-timah-bukit-timah-nature-reserve-visitor-centre
-srcHash: 'ac33bfa9e58c'
+srcHash: '368996e38980'
 title: 'Centro de Visitantes de la Reserva Natural de Bukit Timah: Guía de viaje'
-description: 'En Hindhede Drive, el Centro de Visitantes de la Reserva Natural de Bukit Timah abre la puerta al mayor bosque primario de Singapur y al sendero que sube hasta la cima de Bukit Timah Hill. 4,5★ (1.044 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Hindhede Drive, el Centro de Visitantes de la Reserva Natural de Bukit Timah abre la puerta al mayor bosque primario de Singapur y al sendero que sube hasta la cima de Bukit Timah Hill. 4,5★ (1.046 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Hindhede Drive, el Centro de Visitantes de la Reserva Natural de Bukit Timah abre la puerta al mayor bosque primario de Singapur y al sendero que sube hasta la cima de Bukit Timah Hill. Abre todos los días de 7am a 7pm; si quieres tener los senderos casi para ti solo, ve un día entre semana de 9am a 11am. Calcula una hora si solo vas a visitar el centro, o media jornada si piensas subir hasta la cima.
 faq:
   - q: ¿Cuál es el horario de apertura?

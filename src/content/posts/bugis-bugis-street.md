@@ -1,36 +1,44 @@
 ---
-title: "Bugis Street: Travel Guide (4.4★)"
-description: "Bugis Street is Singapore's biggest street-level shopping market — hundreds of stalls selling clothes, phone cases, souvenirs and street food packed into a few covered lanes just off Victoria Street. 4.4★ (21,940 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Bugis"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:46:18.258Z"
+title: 'Bugis Street: Travel Guide (4.4★)'
+description: >-
+  Bugis Street is Singapore's biggest street-level shopping market — hundreds of
+  stalls selling clothes, phone cases, souvenirs and street food packed into a
+  few covered lanes just off Victoria Street. 4.4★ (21,959 reviews) — what
+  visitors say, hours, and tips.
+country: Singapore
+region: Bugis
+category: hidden-gem
+pubDate: '2026-08-13T09:46:18.258Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BugisStreet005.jpg/1920px-BugisStreet005.jpg"
-  credit: "Photo: The original uploader was Groyn88 at English Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:BugisStreet005.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BugisStreet005.jpg/1920px-BugisStreet005.jpg
+  credit: >-
+    Photo: The original uploader was Groyn88 at English Wikipedia. / Wikimedia
+    Commons (CC BY-SA 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:BugisStreet005.jpg'
 gallery: []
 place:
-  id: "ChIJj7TW9LoZ2jERQgNlXkKhASQ"
-  name: "Bugis Street"
-  address: "261 Victoria St, Singapore 189876"
+  id: ChIJj7TW9LoZ2jERQgNlXkKhASQ
+  name: Bugis Street
+  address: '261 Victoria St, Singapore 189876'
   rating: 4.4
-  userRatingsTotal: 21940
-  googleMapsUrl: "https://maps.google.com/?cid=2594532166765708098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21959
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2594532166765708098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3001991
   lng: 103.85520149999999
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -46,24 +54,40 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_515341684b6b586c4e675152456a325a6f4c395754376a4a496843"
+    venueId: ven_515341684b6b586c4e675152456a325a6f4c395754376a4a496843
 tags:
-  - "bugis"
-  - "hidden gem"
-quickAnswer: "Bugis Street is Singapore's biggest street-level shopping market — hundreds of stalls selling clothes, phone cases, souvenirs and street food packed into a few covered lanes just off Victoria Street. It's open daily 10am–10pm; go right at opening on a weekday (10am–12pm) to actually see the floor. Nearest MRT is Bugis (EW12/DT14), Exit C."
+  - bugis
+  - hidden gem
+quickAnswer: >-
+  Bugis Street is Singapore's biggest street-level shopping market — hundreds of
+  stalls selling clothes, phone cases, souvenirs and street food packed into a
+  few covered lanes just off Victoria Street. It's open daily 10am–10pm; go
+  right at opening on a weekday (10am–12pm) to actually see the floor. Nearest
+  MRT is Bugis (EW12/DT14), Exit C.
 faq:
-  - q: "How do I get to Bugis Street by MRT?"
-    a: "Take the East-West Line or Downtown Line to Bugis Station and exit via Exit C — it leads almost directly into the market."
-  - q: "What are the opening hours?"
-    a: "Bugis Street is open daily from 10am to 10pm, with the same hours every day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 10am and 12pm are calmest. On weekends, the market only stays quiet briefly, from 10 to 11am, before filling up fast."
-  - q: "When should I avoid going?"
-    a: "Try not to arrive on a weekend afternoon — the market is busiest from 12pm to 9pm on Saturdays and Sundays, with crowded, narrow aisles."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 1 to 2 hours browsing; add extra time if you plan to eat at the food stalls or explore nearby Kampong Glam."
+  - q: How do I get to Bugis Street by MRT?
+    a: >-
+      Take the East-West Line or Downtown Line to Bugis Station and exit via
+      Exit C — it leads almost directly into the market.
+  - q: What are the opening hours?
+    a: >-
+      Bugis Street is open daily from 10am to 10pm, with the same hours every
+      day of the week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 10am and 12pm are calmest. On weekends, the
+      market only stays quiet briefly, from 10 to 11am, before filling up fast.
+  - q: When should I avoid going?
+    a: >-
+      Try not to arrive on a weekend afternoon — the market is busiest from 12pm
+      to 9pm on Saturdays and Sundays, with crowded, narrow aisles.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 1 to 2 hours browsing; add extra time if you plan to
+      eat at the food stalls or explore nearby Kampong Glam.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

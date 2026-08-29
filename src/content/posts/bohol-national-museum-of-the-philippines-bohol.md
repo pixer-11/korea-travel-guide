@@ -1,25 +1,32 @@
 ---
 title: 'National Museum of the Philippines: Bohol Travel Guide'
-description: The National Museum of the Philippines – Bohol occupies the old Capitol building in Poblacion, Tagbilaran City, open daily 9am–6pm. 4.6★ (406 reviews) — what visitors say, hours, and tips.
+description: >-
+  The National Museum of the Philippines – Bohol occupies the old Capitol
+  building in Poblacion, Tagbilaran City, open daily 9am–6pm. 4.6★ (409 reviews)
+  — what visitors say, hours, and tips.
 country: Philippines
 region: Bohol
 category: attraction
 pubDate: '2026-08-18T09:11:00.594Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/34/National_Museum_Bohol.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/34/National_Museum_Bohol.jpg
   credit: 'Photo: Nirmaljoshi / wikimedia (BY-SA)'
   license: openverse-cc
-  source: https://commons.wikimedia.org/w/index.php?curid=165085205
+  source: 'https://commons.wikimedia.org/w/index.php?curid=165085205'
   focus:
     x: 45
     'y': 55
 place:
   id: ChIJF-YN6rBNqjMRUJ7NFzwG0bw
   name: National Museum of the Philippines - Bohol
-  address: Old Capitol Complex, Carlos P. Garcia Avenue, corner J.S. Torralba St, Poblacion, Tagbilaran City, Bohol, Philippines
+  address: >-
+    Old Capitol Complex, Carlos P. Garcia Avenue, corner J.S. Torralba St,
+    Poblacion, Tagbilaran City, Bohol, Philippines
   rating: 4.6
-  userRatingsTotal: 406
-  googleMapsUrl: https://maps.google.com/?cid=13605662804430134864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 409
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13605662804430134864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 9.640203
   lng: 123.8564854
@@ -47,20 +54,39 @@ place:
 tags:
   - bohol
   - museum
-quickAnswer: The National Museum of the Philippines – Bohol occupies the old Capitol building in Poblacion, Tagbilaran City, open daily 9am–6pm. It's a compact, well-curated stop covering Bohol's archaeology, ethnography and art — plan on an hour or so. Weekends are calmest between 9am and 5pm, so avoid the 3–5pm crush if you can.
+quickAnswer: >-
+  The National Museum of the Philippines – Bohol occupies the old Capitol
+  building in Poblacion, Tagbilaran City, open daily 9am–6pm. It's a compact,
+  well-curated stop covering Bohol's archaeology, ethnography and art — plan on
+  an hour or so. Weekends are calmest between 9am and 5pm, so avoid the 3–5pm
+  crush if you can.
 faq:
   - q: How much does it cost to enter?
-    a: Admission fees for Philippine national museums change from time to time, so check the official National Museum website or ask at the entrance for the current rate before you go.
+    a: >-
+      Admission fees for Philippine national museums change from time to time,
+      so check the official National Museum website or ask at the entrance for
+      the current rate before you go.
   - q: How long should I spend at the museum?
-    a: Most visitors are comfortably done in an hour to ninety minutes, since it's a compact, focused museum rather than a sprawling one.
+    a: >-
+      Most visitors are comfortably done in an hour to ninety minutes, since
+      it's a compact, focused museum rather than a sprawling one.
   - q: When is the quietest time to visit?
-    a: On weekends, 9am to 5pm is the calmer window based on measured visitor patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets busiest.
+    a: >-
+      On weekends, 9am to 5pm is the calmer window based on measured visitor
+      patterns. Try to avoid 3pm to 5pm on Saturday and Sunday, when it gets
+      busiest.
   - q: Is it open every day?
-    a: Yes, it's open daily from 9am to 6pm, including weekends, with no separate closing day to plan around.
+    a: >-
+      Yes, it's open daily from 9am to 6pm, including weekends, with no separate
+      closing day to plan around.
   - q: What's nearby if I want to combine this with other sights?
-    a: It's in central Tagbilaran, close to Plaza Rizal, the Dagohoy Monument, and the city pier, and it works well as a morning stop before heading inland to the Chocolate Hills or Loboc River.
+    a: >-
+      It's in central Tagbilaran, close to Plaza Rizal, the Dagohoy Monument,
+      and the city pier, and it works well as a morning stop before heading
+      inland to the Chocolate Hills or Loboc River.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

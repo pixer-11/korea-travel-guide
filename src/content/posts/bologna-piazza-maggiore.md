@@ -1,47 +1,79 @@
 ---
 title: 'Piazza Maggiore: Bologna Travel Guide'
-description: Piazza Maggiore is Bologna's medieval heart, framed by the unfinished marble façade of the Basilica di San Petronio, the crenellated Palazzo d'Accursio and Palazzo dei Notai, and the neighboring Piazza del Nettuno with Giambologna's bronze Neptune fountain.
+description: >-
+  Piazza Maggiore is Bologna's medieval heart, framed by the unfinished marble
+  façade of the Basilica di San Petronio, the crenellated Palazzo d'Accursio and
+  Palazzo dei Notai, and the neighboring Piazza del Nettuno with Giambologna's
+  bronze Neptune fountain.
 country: Italy
 region: Bologna
 category: attraction
 pubDate: '2026-07-26T07:09:47.951Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg/1920px-Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg/1920px-Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg
   credit: 'Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Piazza_Maggiore_--_Bologna_--.jpg/1920px-Piazza_Maggiore_--_Bologna_--.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Piazza_Maggiore_--_Bologna_--.jpg/1920px-Piazza_Maggiore_--_Bologna_--.jpg
     credit: 'Photo: Vanni Lazzari / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Piazza_Maggiore_--_Bologna_--.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Piazza_Maggiore_--_Bologna_--.jpg'
 place:
   id: ChIJOVXWhpXUf0cRHrXmOpr8xD4
   name: Piazza Maggiore
-  address: Piazza Maggiore, 40124 Bologna BO, Italy
+  address: 'Piazza Maggiore, 40124 Bologna BO, Italy'
   rating: 4.7
-  userRatingsTotal: 88395
-  googleMapsUrl: https://maps.google.com/?cid=4523017665130181918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 88716
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4523017665130181918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 44.4937544
   lng: 11.3430945
 tags:
   - bologna
   - top attraction
-quickAnswer: Piazza Maggiore is Bologna's medieval heart, framed by the unfinished marble façade of the Basilica di San Petronio, the crenellated Palazzo d'Accursio and Palazzo dei Notai, and the neighboring Piazza del Nettuno with Giambologna's bronze Neptune fountain. It's free, open all day, and best experienced early morning (before 9am) or after dinner, since midday and early evening see the heaviest foot traffic. Budget 45 minutes to an hour just to sit, look up at the brickwork, and walk the perimeter's porticoes.
+quickAnswer: >-
+  Piazza Maggiore is Bologna's medieval heart, framed by the unfinished marble
+  façade of the Basilica di San Petronio, the crenellated Palazzo d'Accursio and
+  Palazzo dei Notai, and the neighboring Piazza del Nettuno with Giambologna's
+  bronze Neptune fountain. It's free, open all day, and best experienced early
+  morning (before 9am) or after dinner, since midday and early evening see the
+  heaviest foot traffic. Budget 45 minutes to an hour just to sit, look up at
+  the brickwork, and walk the perimeter's porticoes.
 faq:
   - q: Is Piazza Maggiore free to visit?
-    a: Yes, the square is always open and free. Entry to Basilica di San Petronio's main nave is also free, though the museum, crypt, or tower access (when open) may carry a small separate fee — confirm current details on site.
+    a: >-
+      Yes, the square is always open and free. Entry to Basilica di San
+      Petronio's main nave is also free, though the museum, crypt, or tower
+      access (when open) may carry a small separate fee — confirm current
+      details on site.
   - q: What's the quietest time to visit?
-    a: Early morning, before the cafés and shops fully open, and again after dinner. Midday through early evening is consistently the busiest stretch, given the square's heavy year-round foot traffic.
+    a: >-
+      Early morning, before the cafés and shops fully open, and again after
+      dinner. Midday through early evening is consistently the busiest stretch,
+      given the square's heavy year-round foot traffic.
   - q: How do I get to Piazza Maggiore from Bologna Centrale station?
-    a: It's about a 15–20 minute walk straight down via dell'Indipendenza, mostly under porticoes. Several city buses also stop within a couple of minutes' walk if you'd rather ride.
+    a: >-
+      It's about a 15–20 minute walk straight down via dell'Indipendenza, mostly
+      under porticoes. Several city buses also stop within a couple of minutes'
+      walk if you'd rather ride.
   - q: How long should I spend at Piazza Maggiore?
-    a: 45 minutes to an hour covers the square, a look inside San Petronio, and a walk through to see the Neptune fountain. Add more time if you want to sit with a coffee or explore the Archiginnasio nearby.
+    a: >-
+      45 minutes to an hour covers the square, a look inside San Petronio, and a
+      walk through to see the Neptune fountain. Add more time if you want to sit
+      with a coffee or explore the Archiginnasio nearby.
   - q: What else is close by?
-    a: The Due Torri towers (10-minute walk), the Archiginnasio and its Anatomical Theatre (2 minutes), and the Quadrilatero food market district are all within easy walking distance.
+    a: >-
+      The Due Torri towers (10-minute walk), the Archiginnasio and its
+      Anatomical Theatre (2 minutes), and the Quadrilatero food market district
+      are all within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

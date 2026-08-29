@@ -1,71 +1,107 @@
 ---
-title: "Udayagiri and Khandagiri Caves: Bhubaneswar Travel Guide"
-description: Udayagiri and Khandagiri are twin rock-cut hills on the western edge of Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an active 18th-century Jain temple.
-country: "India"
-region: "Bhubaneswar"
-category: "attraction"
-pubDate: "2026-07-30T10:05:06.716Z"
+title: 'Udayagiri and Khandagiri Caves: Bhubaneswar Travel Guide'
+description: >-
+  Udayagiri and Khandagiri are twin rock-cut hills on the western edge of
+  Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an
+  active 18th-century Jain temple.
+country: India
+region: Bhubaneswar
+category: attraction
+pubDate: '2026-07-30T10:05:06.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/72/Khandagari_and_Udaygiri_featured_image.jpg"
-  credit: "Photo: Government of Odisha / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Khandagari_and_Udaygiri_featured_image.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/72/Khandagari_and_Udaygiri_featured_image.jpg
+  credit: 'Photo: Government of Odisha / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Khandagari_and_Udaygiri_featured_image.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar%2C_Odisha%2C_India.jpg/3840px-Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar%2C_Odisha%2C_India.jpg"
-    credit: "Photo: Billjones94 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar,_Odisha,_India.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar%2C_Odisha%2C_India.jpg/3840px-Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar%2C_Odisha%2C_India.jpg
+    credit: 'Photo: Billjones94 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Udayagiri_and_Khandagiri_Caves_in_Bhubaneswar,_Odisha,_India.jpg
 place:
-  id: "ChIJuQY2feunGToROLU34Uf4e2Y"
-  name: "Udayagiri and Khandagiri Caves"
-  address: "7Q7M+2V7, Khandagiri, Bhubaneswar, Odisha 751030, India"
+  id: ChIJuQY2feunGToROLU34Uf4e2Y
+  name: Udayagiri and Khandagiri Caves
+  address: '7Q7M+2V7, Khandagiri, Bhubaneswar, Odisha 751030, India'
   rating: 4.5
-  userRatingsTotal: 32944
-  googleMapsUrl: "https://maps.google.com/?cid=7384769001608951096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 33124
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7384769001608951096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.2625431
   lng: 85.7846594
   openingHours:
-    - "Monday: 6:30 AM – 7:30 PM"
-    - "Tuesday: 6:30 AM – 7:30 PM"
-    - "Wednesday: 6:30 AM – 7:30 PM"
-    - "Thursday: 6:30 AM – 7:30 PM"
-    - "Friday: 6:30 AM – 7:30 PM"
-    - "Saturday: 6:30 AM – 7:30 PM"
-    - "Sunday: 6:30 AM – 7:30 PM"
+    - 'Monday: 6:30 AM – 7:30 PM'
+    - 'Tuesday: 6:30 AM – 7:30 PM'
+    - 'Wednesday: 6:30 AM – 7:30 PM'
+    - 'Thursday: 6:30 AM – 7:30 PM'
+    - 'Friday: 6:30 AM – 7:30 PM'
+    - 'Saturday: 6:30 AM – 7:30 PM'
+    - 'Sunday: 6:30 AM – 7:30 PM'
   busyness:
-    updated: 2026-07-30
-    weekdayQuiet: [7, 8, 9, 17, 18]
+    updated: 2026-07-30T00:00:00.000Z
+    weekdayQuiet:
+      - 7
+      - 8
+      - 9
+      - 17
+      - 18
     weekdayBusy:
       - 13
       - 14
       - 15
       - 16
-    weekendQuiet: [7, 8, 17, 18]
+    weekendQuiet:
+      - 7
+      - 8
+      - 17
+      - 18
     weekendBusy:
       - 12
       - 13
       - 14
       - 15
       - 16
-    venueId: "ven_5932653466553433554c4f526f54476e756566325951754a496843"
+    venueId: ven_5932653466553433554c4f526f54476e756566325951754a496843
 tags:
-  - "bhubaneswar"
-  - "top attraction"
-quickAnswer: "Udayagiri and Khandagiri are twin rock-cut hills on the western edge of Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an active 18th-century Jain temple. Open daily 6:30am–7:30pm, the site is calm any weekday morning but clogs up between 12pm and 5pm on weekends, so aim for an early or late slot. Budget about 90 minutes to two hours, focus on Rani Gumpha and Hathi Gumpha on Udayagiri, then cross the road for the quieter, temple-topped Khandagiri."
+  - bhubaneswar
+  - top attraction
+quickAnswer: >-
+  Udayagiri and Khandagiri are twin rock-cut hills on the western edge of
+  Bhubaneswar, riddled with 1st-century-BCE Jain monastic caves and capped by an
+  active 18th-century Jain temple. Open daily 6:30am–7:30pm, the site is calm
+  any weekday morning but clogs up between 12pm and 5pm on weekends, so aim for
+  an early or late slot. Budget about 90 minutes to two hours, focus on Rani
+  Gumpha and Hathi Gumpha on Udayagiri, then cross the road for the quieter,
+  temple-topped Khandagiri.
 faq:
-  - q: "What are the opening hours?"
-    a: "Daily, 6:30am to 7:30pm, with no weekly closing day."
-  - q: "How long should I plan to spend here?"
-    a: "Around 90 minutes to two hours to see the main caves on both hills; add 30-40 minutes if you want to fully explore Khandagiri's temple summit."
-  - q: "When is it quietest?"
-    a: "Any time between 7am and 7pm on weekdays is calm, and weekend mornings before noon are still manageable. Avoid weekends between 12pm and 5pm, when it's busiest."
-  - q: "How do I get there from central Bhubaneswar?"
-    a: "It's about a 15-20 minute auto-rickshaw, taxi, or ride-hail trip (roughly 6-7 km) from the railway station or Master Canteen area; there's no direct metro or rail link to the site."
-  - q: "Is there an entry fee?"
-    a: "There's typically a modest entry ticket with a separate (higher) rate for foreign visitors and an extra camera fee, but confirm current pricing at the gate since rates change periodically."
+  - q: What are the opening hours?
+    a: 'Daily, 6:30am to 7:30pm, with no weekly closing day.'
+  - q: How long should I plan to spend here?
+    a: >-
+      Around 90 minutes to two hours to see the main caves on both hills; add
+      30-40 minutes if you want to fully explore Khandagiri's temple summit.
+  - q: When is it quietest?
+    a: >-
+      Any time between 7am and 7pm on weekdays is calm, and weekend mornings
+      before noon are still manageable. Avoid weekends between 12pm and 5pm,
+      when it's busiest.
+  - q: How do I get there from central Bhubaneswar?
+    a: >-
+      It's about a 15-20 minute auto-rickshaw, taxi, or ride-hail trip (roughly
+      6-7 km) from the railway station or Master Canteen area; there's no direct
+      metro or rail link to the site.
+  - q: Is there an entry fee?
+    a: >-
+      There's typically a modest entry ticket with a separate (higher) rate for
+      foreign visitors and an extra camera fee, but confirm current pricing at
+      the gate since rates change periodically.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

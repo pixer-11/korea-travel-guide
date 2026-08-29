@@ -1,38 +1,45 @@
 ---
-title: "Café Bar: Bilbao Travel Guide (4.4★)"
-description: "Café Bar Bilbao is a big, buzzy, retro-tiled café-bar on Plaza Berria in the Casco Viejo (Ibaiondo), open daily from 6:30am (9am weekends) to 11pm, serving coffee, beer and a long counter of Basque pintxos. 4.4★ (3,793 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Bilbao"
-category: "trendy"
-pubDate: "2026-08-03T11:00:45.935Z"
+title: 'Café Bar: Bilbao Travel Guide (4.4★)'
+description: >-
+  Café Bar Bilbao is a big, buzzy, retro-tiled café-bar on Plaza Berria in the
+  Casco Viejo (Ibaiondo), open daily from 6:30am (9am weekends) to 11pm, serving
+  coffee, beer and a long counter of Basque pintxos. 4.4★ (3,847 reviews) — what
+  visitors say, hours, and tips.
+country: Spain
+region: Bilbao
+category: trendy
+pubDate: '2026-08-03T11:00:45.935Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/44/Caf%C3%A9_Bar_Bilbao_kafetegi_historikoaren_sarrera.jpg"
-  credit: "Photo: Amaia Astobiza Uriarte / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Bar_Bilbao_kafetegi_historikoaren_sarrera.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/44/Caf%C3%A9_Bar_Bilbao_kafetegi_historikoaren_sarrera.jpg
+  credit: 'Photo: Amaia Astobiza Uriarte / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Bar_Bilbao_kafetegi_historikoaren_sarrera.jpg
 gallery: []
 place:
-  id: "ChIJe3NnbtpPTg0RWXD8oGFrcDk"
-  name: "Café Bar Bilbao"
-  address: "Pl. Berria, 6, Ibaiondo, 48005 Bilbao, Bizkaia, Spain"
+  id: ChIJe3NnbtpPTg0RWXD8oGFrcDk
+  name: Café Bar Bilbao
+  address: 'Pl. Berria, 6, Ibaiondo, 48005 Bilbao, Bizkaia, Spain'
   rating: 4.4
-  userRatingsTotal: 3793
-  priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=4138926124610383961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3847
+  priceLevel: 2
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4138926124610383961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.258771599999996
   lng: -2.9223703
-  phone: "+34 944 15 16 71"
+  phone: +34 944 15 16 71
   openingHours:
-    - "Monday: 6:30 AM – 11:00 PM"
-    - "Tuesday: 6:30 AM – 11:00 PM"
-    - "Wednesday: 6:30 AM – 11:00 PM"
-    - "Thursday: 6:30 AM – 11:00 PM"
-    - "Friday: 6:30 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 11:00 PM"
+    - 'Monday: 6:30 AM – 11:00 PM'
+    - 'Tuesday: 6:30 AM – 11:00 PM'
+    - 'Wednesday: 6:30 AM – 11:00 PM'
+    - 'Thursday: 6:30 AM – 11:00 PM'
+    - 'Friday: 6:30 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-03
+    updated: 2026-08-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +65,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b44637246476f3844585752306754507074626e4e33654a496843"
+    venueId: ven_6b44637246476f3844585752306754507074626e4e33654a496843
 tags:
-  - "bilbao"
-  - "trendy cafe"
-quickAnswer: "Café Bar Bilbao is a big, buzzy, retro-tiled café-bar on Plaza Berria in the Casco Viejo (Ibaiondo), open daily from 6:30am (9am weekends) to 11pm, serving coffee, beer and a long counter of Basque pintxos. Go on a weekday between 7am and 9am for an empty room and a quiet coffee; weekends stay busy pretty much all day, so if you want the buzz, arrive right at 9am opening."
+  - bilbao
+  - trendy cafe
+quickAnswer: >-
+  Café Bar Bilbao is a big, buzzy, retro-tiled café-bar on Plaza Berria in the
+  Casco Viejo (Ibaiondo), open daily from 6:30am (9am weekends) to 11pm, serving
+  coffee, beer and a long counter of Basque pintxos. Go on a weekday between 7am
+  and 9am for an empty room and a quiet coffee; weekends stay busy pretty much
+  all day, so if you want the buzz, arrive right at 9am opening.
 faq:
-  - q: "How do I get to Café Bar Bilbao?"
-    a: "It's on Plaza Berria in the Casco Viejo (Ibaiondo district). The nearest metro stop is Casco Viejo, served by both Line 1 and Line 2, a few minutes' walk away."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 7am and 9am are calmest, catching locals on their way to work. Weekends stay busy from late morning right through to closing, so there's no real quiet window then."
-  - q: "What should I order?"
-    a: "Basque pintxos straight off the bar counter — tortilla, jamón, croquetas — alongside a caña (small beer) or coffee. Pintxos are tracked by toothpicks left on your plate and tallied at the end."
-  - q: "What are the opening hours?"
-    a: "6:30am–11pm Monday to Friday, and 9am–11pm on Saturday and Sunday. Always worth double-checking locally as hours can shift around holidays."
-  - q: "Is it good value?"
-    a: "Yes — it's budget-friendly by Bilbao standards, which is part of why it draws such a steady crowd of locals and visitors alike."
+  - q: How do I get to Café Bar Bilbao?
+    a: >-
+      It's on Plaza Berria in the Casco Viejo (Ibaiondo district). The nearest
+      metro stop is Casco Viejo, served by both Line 1 and Line 2, a few
+      minutes' walk away.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 9am are calmest, catching locals on their way to
+      work. Weekends stay busy from late morning right through to closing, so
+      there's no real quiet window then.
+  - q: What should I order?
+    a: >-
+      Basque pintxos straight off the bar counter — tortilla, jamón, croquetas —
+      alongside a caña (small beer) or coffee. Pintxos are tracked by toothpicks
+      left on your plate and tallied at the end.
+  - q: What are the opening hours?
+    a: >-
+      6:30am–11pm Monday to Friday, and 9am–11pm on Saturday and Sunday. Always
+      worth double-checking locally as hours can shift around holidays.
+  - q: Is it good value?
+    a: >-
+      Yes — it's budget-friendly by Bilbao standards, which is part of why it
+      draws such a steady crowd of locals and visitors alike.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

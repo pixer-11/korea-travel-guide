@@ -1,27 +1,35 @@
 ---
 title: 'Willy''s Rock: Boracay Travel Guide'
-description: Willy's Rock is the small volcanic-rock islet with its own tiny shrine to the Virgin Mary, planted just offshore on Station 1 of White Beach — Boracay's most photographed landmark.
+description: >-
+  Willy's Rock is the small volcanic-rock islet with its own tiny shrine to the
+  Virgin Mary, planted just offshore on Station 1 of White Beach — Boracay's
+  most photographed landmark.
 country: Philippines
 region: Boracay
 category: attraction
 pubDate: '2026-07-26T07:14:24.929Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg/1920px-Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg/1920px-Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg
   credit: 'Photo: Patrickroque01 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Boracay_Willy%27s_Rock_front_(Malay,_Aklan;_04-06-2024).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Boracay_Willy%27s_Rock_front_(Malay,_Aklan;_04-06-2024).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Willy%27s_Rock_in_Boracay_at_low_tide.jpg/1920px-Willy%27s_Rock_in_Boracay_at_low_tide.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Willy%27s_Rock_in_Boracay_at_low_tide.jpg/1920px-Willy%27s_Rock_in_Boracay_at_low_tide.jpg
     credit: 'Photo: Eugene Alvin Villar (seav) / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Willy%27s_Rock_in_Boracay_at_low_tide.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Willy%27s_Rock_in_Boracay_at_low_tide.jpg
 place:
   id: ChIJnxiaKxE8pTMRZJ6zvUafJ6M
   name: Willy's Rock
-  address: XW99+7FW, Malay, Aklan, Philippines
+  address: 'XW99+7FW, Malay, Aklan, Philippines'
   rating: 4.6
-  userRatingsTotal: 1377
-  googleMapsUrl: https://maps.google.com/?cid=11756540478453161572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1392
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11756540478453161572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 11.9682252
   lng: 121.91871340000002
@@ -36,20 +44,44 @@ place:
 tags:
   - boracay
   - top attraction
-quickAnswer: Willy's Rock is the small volcanic-rock islet with its own tiny shrine to the Virgin Mary, planted just offshore on Station 1 of White Beach — Boracay's most photographed landmark. Go at low tide in the early morning or right around sunset to wade out to it without a crowd of arms in your frame; midday is when tour groups and pedicab traffic peak along the boardwalk beside it. It costs nothing to see or photograph, and you only need 15–20 minutes unless you're staying for the sunset.
+quickAnswer: >-
+  Willy's Rock is the small volcanic-rock islet with its own tiny shrine to the
+  Virgin Mary, planted just offshore on Station 1 of White Beach — Boracay's
+  most photographed landmark. Go at low tide in the early morning or right
+  around sunset to wade out to it without a crowd of arms in your frame; midday
+  is when tour groups and pedicab traffic peak along the boardwalk beside it. It
+  costs nothing to see or photograph, and you only need 15–20 minutes unless
+  you're staying for the sunset.
 faq:
   - q: How do I get to Willy's Rock from Caticlan or Cagban Jetty?
-    a: From Cagban Jetty Port, take a tricycle or e-trike toward Station 1, White Beach — around 15–20 minutes depending on traffic. From there, walk the beachfront boardwalk north; the rock is directly on the sand and impossible to miss.
+    a: >-
+      From Cagban Jetty Port, take a tricycle or e-trike toward Station 1, White
+      Beach — around 15–20 minutes depending on traffic. From there, walk the
+      beachfront boardwalk north; the rock is directly on the sand and
+      impossible to miss.
   - q: Is there an entrance fee for Willy's Rock?
-    a: No, it's a free, open natural feature on public beach — there's no ticket booth or gate. Some beach photographers nearby may offer paid photo services, but that's optional.
+    a: >-
+      No, it's a free, open natural feature on public beach — there's no ticket
+      booth or gate. Some beach photographers nearby may offer paid photo
+      services, but that's optional.
   - q: What's the best time of day to visit?
-    a: Early morning (before 8am) for a quiet, low-crowd wade-out, or sunset (roughly 5:30–6:30pm) for the best light — though sunset is also the busiest window on the boardwalk.
+    a: >-
+      Early morning (before 8am) for a quiet, low-crowd wade-out, or sunset
+      (roughly 5:30–6:30pm) for the best light — though sunset is also the
+      busiest window on the boardwalk.
   - q: Do I need low tide to reach the rock?
-    a: Yes — at low tide you can walk right up and touch it; at high tide the base submerges and it's better viewed/photographed from the boardwalk rather than approached directly.
+    a: >-
+      Yes — at low tide you can walk right up and touch it; at high tide the
+      base submerges and it's better viewed/photographed from the boardwalk
+      rather than approached directly.
   - q: How long should I plan to spend there?
-    a: Most visitors need just 15–20 minutes for photos and a look at the small shrine, though many linger longer at sunset when the surrounding beach bars come alive.
+    a: >-
+      Most visitors need just 15–20 minutes for photos and a look at the small
+      shrine, though many linger longer at sunset when the surrounding beach
+      bars come alive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

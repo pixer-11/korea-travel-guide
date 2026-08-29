@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bilbao-cafe-bar-bilbao
-srcHash: '75b07a0d0225'
+srcHash: 'bc2cb2bfa366'
 title: Café Bar：毕尔巴鄂旅行指南（4.4★）
-description: Café Bar Bilbao 是一家位于毕尔巴鄂旧城区（Casco Viejo，Ibaiondo）Plaza Berria 广场上的大型复古瓷砖风格人气咖啡酒吧，每天从早上6:30（周末9点）营业到晚上11点，供应咖啡、啤酒以及一长排巴斯克风味的 pintxos 小食。4.4★（3,793条评价）——看看游客怎么说、营业时间和实用建议。
+description: Café Bar Bilbao 是一家位于毕尔巴鄂旧城区（Casco Viejo，Ibaiondo）Plaza Berria 广场上的大型复古瓷砖风格人气咖啡酒吧，每天从早上6:30（周末9点）营业到晚上11点，供应咖啡、啤酒以及一长排巴斯克风味的 pintxos 小食。4.4★（3,847条评价）——看看游客怎么说、营业时间和实用建议。
 quickAnswer: Café Bar Bilbao 是一家位于毕尔巴鄂旧城区（Casco Viejo，Ibaiondo）Plaza Berria 广场上的大型复古瓷砖风格人气咖啡酒吧，每天从早上6:30（周末9点）营业到晚上11点，供应咖啡、啤酒以及一长排巴斯克风味的 pintxos 小食。想安静地喝杯咖啡，建议工作日早上7点到9点之间前往，此时店内空荡人少；周末则几乎全天都很热闹，如果想感受这种热闹氛围，建议在9点开门时准时到达。
 faq:
   - q: 怎么去 Café Bar Bilbao？

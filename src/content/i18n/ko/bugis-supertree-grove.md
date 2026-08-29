@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bugis-supertree-grove
-srcHash: '636764cfee32'
+srcHash: '930038b7397b'
 title: '수퍼트리 그로브: 부기스에서 가는 여행 가이드 (4.7★)'
-description: 수퍼트리 그로브(Supertree Grove)는 가든스 바이 더 베이(Gardens by the Bay) 안에 있으며, 부기스(Bugis)에서 도보 약 15분 또는 버스로 한 정거장 거리입니다. 4.7★ (리뷰 54,359개) — 방문객 후기, 운영시간, 팁을 확인하세요.
+description: 수퍼트리 그로브(Supertree Grove)는 가든스 바이 더 베이(Gardens by the Bay) 안에 있으며, 부기스(Bugis)에서 도보 약 15분 또는 버스로 한 정거장 거리입니다. 4.7★ (리뷰 54,520개) — 방문객 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 수퍼트리 그로브(Supertree Grove)는 가든스 바이 더 베이(Gardens by the Bay) 안에 있으며, 부기스(Bugis)에서 도보 약 15분 또는 버스로 한 정거장 거리입니다. 매일 오전 5시부터 새벽 2시까지 운영되지만, 이곳을 찾는 진짜 이유는 무료로 펼쳐지는 가든 랩소디(Garden Rhapsody) 빛과 소리 쇼입니다. 매일 밤 7시 45분과 8시 45분에 진행됩니다. 인파가 몰리기 전에 잔디밭 자리를 잡으려면 오후 7시까지 도착하세요.
 faq:
   - q: 부기스에서 수퍼트리 그로브까지 어떻게 가나요?

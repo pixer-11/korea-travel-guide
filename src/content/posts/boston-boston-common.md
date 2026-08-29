@@ -1,35 +1,41 @@
 ---
 title: 'Boston Common: Travel Guide'
-description: Boston Common is the oldest public park in the United States — 50 acres of green anchoring downtown Boston, bordered by Beacon Hill, the Theater District, and the Public Garden.
+description: >-
+  Boston Common is the oldest public park in the United States — 50 acres of
+  green anchoring downtown Boston, bordered by Beacon Hill, the Theater
+  District, and the Public Garden.
 country: United States
 region: Boston
 category: hidden-gem
 pubDate: '2026-07-29T10:08:57.014Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/9216963_48S2ZzsxS1Cbpm-LGsK7rPEieZkvXTXiJTwURY-zIOU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/9216963_48S2ZzsxS1Cbpm-LGsK7rPEieZkvXTXiJTwURY-zIOU.jpg
   credit: 'Photo: Foursquare user content (Boston Common)'
   license: foursquare
-  source: https://foursquare.com/v/4283ee00f964a520dd221fe3
+  source: 'https://foursquare.com/v/4283ee00f964a520dd221fe3'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boston_Common_May_2018_004.jpg/1920px-Boston_Common_May_2018_004.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boston_Common_May_2018_004.jpg/1920px-Boston_Common_May_2018_004.jpg
     credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Boston_Common_May_2018_004.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Boston_Common_May_2018_004.jpg'
 place:
   id: ChIJKyNuvJ1w44kRBE-pe_yDhj8
   name: Boston Common
-  address: 139 Tremont St, Boston, MA 02111, USA
+  address: '139 Tremont St, Boston, MA 02111, USA'
   rating: 4.7
-  userRatingsTotal: 38639
+  userRatingsTotal: 38865
   priceLevel: 0
-  googleMapsUrl: https://maps.google.com/?cid=4577491191698378500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4577491191698378500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 42.3550897
   lng: -71.0657256
-  phone: '+1 617 635-4505'
+  phone: +1 617 635-4505
   openingHours:
     - 'Monday: 6:00 AM – 11:30 PM'
     - 'Tuesday: 6:00 AM – 11:30 PM'
@@ -41,20 +47,43 @@ place:
 tags:
   - boston
   - hidden gem
-quickAnswer: Boston Common is the oldest public park in the United States — 50 acres of green anchoring downtown Boston, bordered by Beacon Hill, the Theater District, and the Public Garden. It's free, open year-round, and best experienced early morning or on a weekday, since afternoons and weekends draw heavy crowds. Give it 45 minutes to an hour if you're passing through, or half a day if you're linking it to the Freedom Trail and Public Garden swan boats.
+quickAnswer: >-
+  Boston Common is the oldest public park in the United States — 50 acres of
+  green anchoring downtown Boston, bordered by Beacon Hill, the Theater
+  District, and the Public Garden. It's free, open year-round, and best
+  experienced early morning or on a weekday, since afternoons and weekends draw
+  heavy crowds. Give it 45 minutes to an hour if you're passing through, or half
+  a day if you're linking it to the Freedom Trail and Public Garden swan boats.
 faq:
   - q: How do I get to Boston Common by public transit?
-    a: Take the Red or Green Line to Park Street station, which lets out directly at the park's edge; Boylston Street (Green Line) reaches the southwest corner near the Central Burying Ground.
+    a: >-
+      Take the Red or Green Line to Park Street station, which lets out directly
+      at the park's edge; Boylston Street (Green Line) reaches the southwest
+      corner near the Central Burying Ground.
   - q: Is there an entrance fee?
-    a: No — Boston Common is a free public park with open access at all times; only add-on activities like Frog Pond skating or boat rentals in season carry a cost.
+    a: >-
+      No — Boston Common is a free public park with open access at all times;
+      only add-on activities like Frog Pond skating or boat rentals in season
+      carry a cost.
   - q: How much time should I plan for a visit?
-    a: 45 minutes to an hour covers the highlights (Frog Pond, Shaw Memorial, Freedom Trail start); allow half a day if you're combining it with the adjoining Public Garden and nearby Freedom Trail sites.
+    a: >-
+      45 minutes to an hour covers the highlights (Frog Pond, Shaw Memorial,
+      Freedom Trail start); allow half a day if you're combining it with the
+      adjoining Public Garden and nearby Freedom Trail sites.
   - q: When is the best time to avoid crowds?
-    a: Go before 9am on a weekday. It's one of the most-visited parks in the country, so afternoons and weekends near the Park Street entrance and Freedom Trail marker get busy fast.
+    a: >-
+      Go before 9am on a weekday. It's one of the most-visited parks in the
+      country, so afternoons and weekends near the Park Street entrance and
+      Freedom Trail marker get busy fast.
   - q: What's nearby if I want to extend the walk?
-    a: The Public Garden (with its swan boats and Make Way for Ducklings statues) is directly adjacent across Charles Street, and the Common is mile one of the Freedom Trail leading toward the State House and Granary Burying Ground.
+    a: >-
+      The Public Garden (with its swan boats and Make Way for Ducklings statues)
+      is directly adjacent across Charles Street, and the Common is mile one of
+      the Freedom Trail leading toward the State House and Granary Burying
+      Ground.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

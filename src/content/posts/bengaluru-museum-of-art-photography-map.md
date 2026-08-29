@@ -1,44 +1,54 @@
 ---
-title: "Museum of Art & Photography (MAP): Bengaluru Travel Guide"
-description: "MAP (Museum of Art & Photography) sits on Kasturba Road near Cubbon Park, an easy walk from MG Road, and is closed Mondays. 4.5★ (2,656 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bengaluru"
-category: "attraction"
-pubDate: "2026-08-16T07:55:11.795Z"
+title: 'Museum of Art & Photography (MAP): Bengaluru Travel Guide'
+description: >-
+  MAP (Museum of Art & Photography) sits on Kasturba Road near Cubbon Park, an
+  easy walk from MG Road, and is closed Mondays. 4.5★ (2,684 reviews) — what
+  visitors say, hours, and tips.
+country: India
+region: Bengaluru
+category: attraction
+pubDate: '2026-08-16T07:55:11.795Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Museum_of_Art_and_Photography%2C_Bangalore_%282025%29_15.jpg"
-  credit: "Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_of_Art_and_Photography,_Bangalore_(2025)_15.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b7/Museum_of_Art_and_Photography%2C_Bangalore_%282025%29_15.jpg
+  credit: 'Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museum_of_Art_and_Photography,_Bangalore_(2025)_15.jpg
   focus:
     x: 78
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/36/Museum_of_Art_and_Photography%2C_Bangalore_%282025%29_99.jpg"
-    credit: "Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museum_of_Art_and_Photography,_Bangalore_(2025)_99.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/36/Museum_of_Art_and_Photography%2C_Bangalore_%282025%29_99.jpg
+    credit: 'Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Museum_of_Art_and_Photography,_Bangalore_(2025)_99.jpg
 place:
-  id: "ChIJK3WK06kXrjsRtJJUPxlNE4A"
-  name: "Museum of Art & Photography (MAP)"
-  address: "XHFW+RP8, 22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India"
+  id: ChIJK3WK06kXrjsRtJJUPxlNE4A
+  name: Museum of Art & Photography (MAP)
+  address: >-
+    XHFW+RP8, 22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru,
+    Karnataka 560001, India
   rating: 4.5
-  userRatingsTotal: 2656
-  googleMapsUrl: "https://maps.google.com/?cid=9228804832244306612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2684
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9228804832244306612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.974602599999999
   lng: 77.5967537
-  phone: "+91 80 6933 4100"
+  phone: +91 80 6933 4100
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:30 PM"
-    - "Wednesday: 10:00 AM – 6:30 PM"
-    - "Thursday: 10:00 AM – 6:30 PM"
-    - "Friday: 10:00 AM – 6:30 PM"
-    - "Saturday: 10:00 AM – 7:30 PM"
-    - "Sunday: 10:00 AM – 7:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:30 PM'
+    - 'Wednesday: 10:00 AM – 6:30 PM'
+    - 'Thursday: 10:00 AM – 6:30 PM'
+    - 'Friday: 10:00 AM – 6:30 PM'
+    - 'Saturday: 10:00 AM – 7:30 PM'
+    - 'Sunday: 10:00 AM – 7:30 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -53,24 +63,41 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_4134454e6c7850554a4a7452736a72586b36304b57334b4a496843"
+    venueId: ven_4134454e6c7850554a4a7452736a72586b36304b57334b4a496843
 tags:
-  - "bengaluru"
-  - "art gallery"
-quickAnswer: "MAP (Museum of Art & Photography) sits on Kasturba Road near Cubbon Park, an easy walk from MG Road, and is closed Mondays. Go Tuesday–Friday 10am–6:30pm or weekends when it stretches to 7:30pm; on Saturday or Sunday, arrive right at 10am to beat the midday crowds that build from noon onward. Budget two to three hours for the five floors of galleries."
+  - bengaluru
+  - art gallery
+quickAnswer: >-
+  MAP (Museum of Art & Photography) sits on Kasturba Road near Cubbon Park, an
+  easy walk from MG Road, and is closed Mondays. Go Tuesday–Friday 10am–6:30pm
+  or weekends when it stretches to 7:30pm; on Saturday or Sunday, arrive right
+  at 10am to beat the midday crowds that build from noon onward. Budget two to
+  three hours for the five floors of galleries.
 faq:
-  - q: "What are MAP's opening hours?"
-    a: "Closed Mondays. Tuesday–Friday it's open 10am–6:30pm, and on Saturday and Sunday it stays open later, until 7:30pm."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, arrive between 10am and 11am right at opening — the museum fills up steadily from noon through closing."
-  - q: "How do I get to MAP by metro?"
-    a: "Take the Purple Line to Vidhana Soudha or MG Road station, then walk about 10–15 minutes, or grab a short auto ride to Kasturba Road."
-  - q: "How long should I plan to spend there?"
-    a: "Budget two to three hours to see the photography, textiles, and modern art galleries properly across its five floors."
-  - q: "What's nearby if I want to make a day of it?"
-    a: "Cubbon Park is right next door for a walk before or after, and the Karnataka Chitrakala Parishath is a short ride away for more traditional art."
+  - q: What are MAP's opening hours?
+    a: >-
+      Closed Mondays. Tuesday–Friday it's open 10am–6:30pm, and on Saturday and
+      Sunday it stays open later, until 7:30pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, arrive between 10am and 11am right at opening — the museum
+      fills up steadily from noon through closing.
+  - q: How do I get to MAP by metro?
+    a: >-
+      Take the Purple Line to Vidhana Soudha or MG Road station, then walk about
+      10–15 minutes, or grab a short auto ride to Kasturba Road.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget two to three hours to see the photography, textiles, and modern art
+      galleries properly across its five floors.
+  - q: What's nearby if I want to make a day of it?
+    a: >-
+      Cubbon Park is right next door for a walk before or after, and the
+      Karnataka Chitrakala Parishath is a short ride away for more traditional
+      art.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

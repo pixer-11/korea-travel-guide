@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bengaluru-manchanabele-dam
-srcHash: '5b26317e985a'
+srcHash: 'd650776c2010'
 title: 'Represa de Manchanabele: Guía de Viaje de Bengaluru (4.1★)'
-description: 'La represa de Manchanabele se ubica sobre el río Arkavathy, unos 40 km al suroeste de Bengaluru, un embalse rodeado de colinas cubiertas de matorral, popular por sus atardeceres, los picnics de fin de semana y la observación de aves. 4.1★ (2.746 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La represa de Manchanabele se ubica sobre el río Arkavathy, unos 40 km al suroeste de Bengaluru, un embalse rodeado de colinas cubiertas de matorral, popular por sus atardeceres, los picnics de fin de semana y la observación de aves. 4.1★ (2.769 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La represa de Manchanabele se ubica sobre el río Arkavathy, unos 40 km al suroeste de Bengaluru: un embalse rodeado de colinas cubiertas de matorral, muy popular por sus atardeceres, los picnics de fin de semana y la observación de aves. Al no tener portón ni caseta de boletos, permanece abierta las 24 horas, así que usted mismo puede planear su visita según la luz de la mañana temprana o de la tarde. Conviene reservar medio día, incluyendo el trayecto, y llegar en auto o moto, ya que el transporte público no llega hasta la represa.'
 faq:
   - q: ¿Cómo se llega a la represa de Manchanabele desde Bengaluru?

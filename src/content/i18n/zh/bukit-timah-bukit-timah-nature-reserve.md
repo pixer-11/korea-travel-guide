@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bukit-timah-bukit-timah-nature-reserve
-srcHash: '7a6bd0bb508d'
+srcHash: '0424e4cd96c2'
 title: 武吉知马自然保护区旅行指南（4.6★）
-description: 武吉知马自然保护区（Bukit Timah Nature Reserve）是新加坡最高的山丘（163米），保留着一片原始雨林，从市区出发约20分钟即可到达。4.6★（8,420条评价）——游客怎么说、开放时间与实用建议。
+description: 武吉知马自然保护区（Bukit Timah Nature Reserve）是新加坡最高的山丘（163米），保留着一片原始雨林，从市区出发约20分钟即可到达。4.6★（8,428条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 武吉知马自然保护区是新加坡最高的山丘（163米），保留着一片原始雨林，从市区出发约20分钟即可到达。建议在工作日下午2点到7点之间前往以避开人群——周末上午7点到下午1点则十分拥挤。根据你选择登顶步道还是较为轻松的兴黛石矿湖（Hindhede Quarry）环线，预留1.5到3小时游玩时间。
 faq:
   - q: 没有车的话怎么去武吉知马自然保护区？

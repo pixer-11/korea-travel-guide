@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bugis-supertree-grove
-srcHash: '636764cfee32'
+srcHash: '930038b7397b'
 title: 'Supertree Grove: Guía de viaje desde Bugis (4.7★)'
-description: 'Supertree Grove se encuentra en Gardens by the Bay, a unos 15 minutos a pie o una parada de autobús desde Bugis. 4.7★ (54,359 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Supertree Grove se encuentra en Gardens by the Bay, a unos 15 minutos a pie o una parada de autobús desde Bugis. 4.7★ (54,520 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Supertree Grove se encuentra en Gardens by the Bay, a unos 15 minutos a pie o una parada de autobús desde Bugis. Abre de 5am a 2am todos los días, pero la razón para ir es el espectáculo gratuito de luces y sonido Garden Rhapsody, todas las noches a las 7:45pm y 8:45pm. Llega antes de las 7pm para conseguir un buen lugar en el césped antes de que se llene de gente.
 faq:
   - q: ¿Cómo llego a Supertree Grove desde Bugis?

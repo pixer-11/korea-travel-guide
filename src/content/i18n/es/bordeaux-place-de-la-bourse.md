@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bordeaux-place-de-la-bourse
-srcHash: '32b9238eb400'
+srcHash: '12066b8b8753'
 title: 'Place de la Bourse: Guía de viaje de Burdeos (4.6★)'
-description: 'La Place de la Bourse es la emblemática plaza del siglo XVIII de Burdeos junto al Garona, conocida sobre todo por el Miroir d''Eau, el enorme estanque reflectante que convierte la fachada en un espejo. 4.6★ (20.177 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Place de la Bourse es la emblemática plaza del siglo XVIII de Burdeos junto al Garona, conocida sobre todo por el Miroir d''Eau, el enorme estanque reflectante que convierte la fachada en un espejo. 4.7★ (20.285 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Place de la Bourse es la emblemática plaza del siglo XVIII de Burdeos junto al Garona, conocida sobre todo por el Miroir d'Eau, el enorme estanque reflectante que convierte la fachada en un espejo. Está abierta las 24 horas, pero conviene ir entre las 7 y las 9 de la mañana en días de semana (de 7 a 10 los fines de semana) para verla casi vacía antes de que lleguen las multitudes y los grupos turísticos hacia el mediodía.
 faq:
   - q: ¿Cómo se llega a la Place de la Bourse?

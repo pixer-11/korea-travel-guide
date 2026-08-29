@@ -1,37 +1,43 @@
 ---
-title: "Bukit Timah Nature Reserve Visitor Centre: Travel Guide"
-description: "Bukit Timah Nature Reserve Visitor Centre, on Hindhede Drive, is the gateway to Singapore's largest patch of primary rainforest and the summit trail up Bukit Timah Hill. 4.5★ (1,044 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Bukit Timah"
-category: "hidden-gem"
-pubDate: "2026-08-15T08:33:04.205Z"
+title: 'Bukit Timah Nature Reserve Visitor Centre: Travel Guide'
+description: >-
+  Bukit Timah Nature Reserve Visitor Centre, on Hindhede Drive, is the gateway
+  to Singapore's largest patch of primary rainforest and the summit trail up
+  Bukit Timah Hill. 4.5★ (1,046 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Bukit Timah
+category: hidden-gem
+pubDate: '2026-08-15T08:33:04.205Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bukit_Timah_Nature_Reserve_Visitor_Centre.jpg/3840px-Bukit_Timah_Nature_Reserve_Visitor_Centre.jpg"
-  credit: "Photo: Mx. Granger / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bukit_Timah_Nature_Reserve_Visitor_Centre.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bukit_Timah_Nature_Reserve_Visitor_Centre.jpg/3840px-Bukit_Timah_Nature_Reserve_Visitor_Centre.jpg
+  credit: 'Photo: Mx. Granger / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bukit_Timah_Nature_Reserve_Visitor_Centre.jpg
 gallery: []
 place:
-  id: "ChIJiU3YaPUQ2jERs9AB4NrOFOQ"
-  name: "Bukit Timah Nature Reserve Visitor Centre"
-  address: "177 Hindhede Dr, Singapore 589333"
+  id: ChIJiU3YaPUQ2jERs9AB4NrOFOQ
+  name: Bukit Timah Nature Reserve Visitor Centre
+  address: '177 Hindhede Dr, Singapore 589333'
   rating: 4.5
-  userRatingsTotal: 1044
-  googleMapsUrl: "https://maps.google.com/?cid=16434988379638190259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1046
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16434988379638190259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3483908999999998
   lng: 103.7766772
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -45,24 +51,41 @@ place:
       - 13
       - 15
       - 17
-    venueId: "ven_514f464f724e344241397352456a3251555061593355694a496843"
+    venueId: ven_514f464f724e344241397352456a3251555061593355694a496843
 tags:
-  - "bukit timah"
-  - "hidden gem"
-quickAnswer: "Bukit Timah Nature Reserve Visitor Centre, on Hindhede Drive, is the gateway to Singapore's largest patch of primary rainforest and the summit trail up Bukit Timah Hill. It's open daily 7am–7pm; go on a weekday between 9am and 11am if you want the trails to yourself. Budget an hour just for the visitor centre, or half a day if you're hiking to the summit."
+  - bukit timah
+  - hidden gem
+quickAnswer: >-
+  Bukit Timah Nature Reserve Visitor Centre, on Hindhede Drive, is the gateway
+  to Singapore's largest patch of primary rainforest and the summit trail up
+  Bukit Timah Hill. It's open daily 7am–7pm; go on a weekday between 9am and
+  11am if you want the trails to yourself. Budget an hour just for the visitor
+  centre, or half a day if you're hiking to the summit.
 faq:
-  - q: "What are the opening hours?"
-    a: "Bukit Timah Nature Reserve Visitor Centre and the reserve trails are open daily from 7am to 7pm."
-  - q: "How do I get there without a car?"
-    a: "Take the Downtown Line to Beauty World MRT, then walk about 15–20 minutes up Hindhede Drive to the visitor centre car park."
-  - q: "When is it quietest?"
-    a: "Weekdays between 9am and 11am are the calmest window. Weekends stay busy from 7am right through to 6pm, especially near the summit trail."
-  - q: "How long should I plan for a visit?"
-    a: "Allow about an hour for the visitor centre and a nearby loop, or 90 minutes to 2 hours if you're hiking to the summit of Bukit Timah Hill and back."
-  - q: "Is there an entry fee?"
-    a: "No, entry to the reserve and visitor centre is free, and there's no need to book ahead."
+  - q: What are the opening hours?
+    a: >-
+      Bukit Timah Nature Reserve Visitor Centre and the reserve trails are open
+      daily from 7am to 7pm.
+  - q: How do I get there without a car?
+    a: >-
+      Take the Downtown Line to Beauty World MRT, then walk about 15–20 minutes
+      up Hindhede Drive to the visitor centre car park.
+  - q: When is it quietest?
+    a: >-
+      Weekdays between 9am and 11am are the calmest window. Weekends stay busy
+      from 7am right through to 6pm, especially near the summit trail.
+  - q: How long should I plan for a visit?
+    a: >-
+      Allow about an hour for the visitor centre and a nearby loop, or 90
+      minutes to 2 hours if you're hiking to the summit of Bukit Timah Hill and
+      back.
+  - q: Is there an entry fee?
+    a: >-
+      No, entry to the reserve and visitor centre is free, and there's no need
+      to book ahead.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

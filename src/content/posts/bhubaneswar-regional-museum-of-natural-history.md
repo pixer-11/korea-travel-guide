@@ -1,27 +1,37 @@
 ---
 title: 'Regional Museum of Natural History: Bhubaneswar Travel Guide'
-description: The Regional Museum of Natural History sits on Sachivalaya Marg in Acharya Vihar, right next to the Pathani Samanta Planetarium, and it's open 10am–6pm every day except Monday.
+description: >-
+  The Regional Museum of Natural History sits on Sachivalaya Marg in Acharya
+  Vihar, right next to the Pathani Samanta Planetarium, and it's open 10am–6pm
+  every day except Monday.
 country: India
 region: Bhubaneswar
 category: hidden-gem
 pubDate: '2026-08-01T09:30:19.146Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Regional_Museum_of_Natural_History_Bhubaneswar.jpg/1920px-Regional_Museum_of_Natural_History_Bhubaneswar.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Regional_Museum_of_Natural_History_Bhubaneswar.jpg/1920px-Regional_Museum_of_Natural_History_Bhubaneswar.jpg
   credit: 'Photo: Hellohappy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Regional_Museum_of_Natural_History_Bhubaneswar.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Regional_Museum_of_Natural_History_Bhubaneswar.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Guitarfish_at_Regional_Museum_of_Natural_History%2C_Bhubaneswar_05.jpg/3840px-Guitarfish_at_Regional_Museum_of_Natural_History%2C_Bhubaneswar_05.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Guitarfish_at_Regional_Museum_of_Natural_History%2C_Bhubaneswar_05.jpg/3840px-Guitarfish_at_Regional_Museum_of_Natural_History%2C_Bhubaneswar_05.jpg
     credit: 'Photo: Ramjit Tudu / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Guitarfish_at_Regional_Museum_of_Natural_History,_Bhubaneswar_05.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Guitarfish_at_Regional_Museum_of_Natural_History,_Bhubaneswar_05.jpg
 place:
   id: ChIJ9_sI4OsJGToRbITbPX638ys
   name: Regional Museum of Natural History
-  address: Sachivalaya Marg, near Planetorium, Doordarshan Colony, Acharya Vihar, Bhubaneswar, Odisha 751013, India
+  address: >-
+    Sachivalaya Marg, near Planetorium, Doordarshan Colony, Acharya Vihar,
+    Bhubaneswar, Odisha 751013, India
   rating: 4.5
-  userRatingsTotal: 4681
-  googleMapsUrl: https://maps.google.com/?cid=3167076715803149420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4700
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3167076715803149420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 20.2995108
   lng: 85.83234569999999
@@ -56,20 +66,38 @@ place:
 tags:
   - bhubaneswar
   - hidden gem
-quickAnswer: The Regional Museum of Natural History sits on Sachivalaya Marg in Acharya Vihar, right next to the Pathani Samanta Planetarium, and it's open 10am–6pm every day except Monday. Budget about 90 minutes to two hours to walk the galleries, the vivarium, and the botanical garden for the visually impaired, and try to arrive early or on a weekday afternoon, since weekends fill up between 11am and 6pm. Entry is inexpensive but confirm the current ticket price at the counter, since it does change.
+quickAnswer: >-
+  The Regional Museum of Natural History sits on Sachivalaya Marg in Acharya
+  Vihar, right next to the Pathani Samanta Planetarium, and it's open 10am–6pm
+  every day except Monday. Budget about 90 minutes to two hours to walk the
+  galleries, the vivarium, and the botanical garden for the visually impaired,
+  and try to arrive early or on a weekday afternoon, since weekends fill up
+  between 11am and 6pm. Entry is inexpensive but confirm the current ticket
+  price at the counter, since it does change.
 faq:
   - q: What are the opening hours?
-    a: 10:00 AM–6:00 PM every day except Monday, when the museum is fully closed.
+    a: '10:00 AM–6:00 PM every day except Monday, when the museum is fully closed.'
   - q: How long should I plan to spend there?
-    a: Most visitors need 90 minutes to two hours to cover the galleries, vivarium, and the tactile botanical garden without rushing.
+    a: >-
+      Most visitors need 90 minutes to two hours to cover the galleries,
+      vivarium, and the tactile botanical garden without rushing.
   - q: How do I get there?
-    a: It's on Sachivalaya Marg in Acharya Vihar, right beside the Pathani Samanta Planetarium — easiest by auto-rickshaw or cab, about 20–30 minutes from the railway station or Old Town temples.
+    a: >-
+      It's on Sachivalaya Marg in Acharya Vihar, right beside the Pathani
+      Samanta Planetarium — easiest by auto-rickshaw or cab, about 20–30 minutes
+      from the railway station or Old Town temples.
   - q: When is it least crowded?
-    a: Weekends between 11am and 6pm are the busiest window, so aim for a weekday, ideally soon after the 10am opening, for a quieter visit.
+    a: >-
+      Weekends between 11am and 6pm are the busiest window, so aim for a
+      weekday, ideally soon after the 10am opening, for a quieter visit.
   - q: What's the entry fee?
-    a: Tickets are inexpensive and sold at the on-site counter, but the exact price changes periodically, so confirm it when you arrive rather than relying on an old figure.
+    a: >-
+      Tickets are inexpensive and sold at the on-site counter, but the exact
+      price changes periodically, so confirm it when you arrive rather than
+      relying on an old figure.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bugis-supertree-grove
-srcHash: '636764cfee32'
+srcHash: '930038b7397b'
 title: 超级树丛：从武吉士出发的旅行指南（4.7★）
-description: 超级树丛（Supertree Grove）位于滨海湾花园（Gardens by the Bay），距武吉士（Bugis）步行约15分钟，或乘一站公交即达。4.7★（54,359条评价）——游客怎么说、开放时间与实用建议。
+description: 超级树丛（Supertree Grove）位于滨海湾花园（Gardens by the Bay），距武吉士（Bugis）步行约15分钟，或乘一站公交即达。4.7★（54,520条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 超级树丛（Supertree Grove）位于滨海湾花园（Gardens by the Bay），距武吉士（Bugis）步行约15分钟，或乘一站公交即达。这里每天5:00至次日2:00开放，但真正值得前往的理由是免费的“花园交响曲”（Garden Rhapsody）声光秀，每晚7:45和8:45各上演一场。建议7点前抵达，以便在人群涌入前占到草坪上的好位置。
 faq:
   - q: 如何从武吉士前往超级树丛？

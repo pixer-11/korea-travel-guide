@@ -1,58 +1,88 @@
 ---
-title: "Labi Hovuz: Bukhara Travel Guide (4.6★)"
-description: "Labi Hovuz is Bukhara's old stone pool plaza, ringed by mulberry trees, a 16th-century madrasah, and the Nadir Divan-Beghi khanaka. 4.6★ (940 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Bukhara"
-category: "attraction"
-pubDate: "2026-08-20T09:15:39.666Z"
+title: 'Labi Hovuz: Bukhara Travel Guide (4.6★)'
+description: >-
+  Labi Hovuz is Bukhara's old stone pool plaza, ringed by mulberry trees, a
+  16th-century madrasah, and the Nadir Divan-Beghi khanaka. 4.6★ (954 reviews) —
+  what visitors say, hours, and tips.
+country: Uzbekistan
+region: Bukhara
+category: attraction
+pubDate: '2026-08-20T09:15:39.666Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Labi_hovuz.jpg/3840px-Labi_hovuz.jpg"
-  credit: "Photo: Umid1108 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Labi_hovuz.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Labi_hovuz.jpg/3840px-Labi_hovuz.jpg
+  credit: 'Photo: Umid1108 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Labi_hovuz.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Labi_Hovuz.jpg/3840px-Labi_Hovuz.jpg"
-    credit: "Photo: MarjonaKhidirova / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Labi_Hovuz.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Labi_Hovuz.jpg/3840px-Labi_Hovuz.jpg
+    credit: 'Photo: MarjonaKhidirova / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Labi_Hovuz.jpg'
 place:
-  id: "ChIJyVwPtQQGUD8RIFqfWlcZNnE"
-  name: "Labi Hovuz"
-  address: "Divan-Beghi, Bukhara, Uzbekistan, QCFC+686, Buxoro, Buxoro Viloyati, Uzbekistan"
+  id: ChIJyVwPtQQGUD8RIFqfWlcZNnE
+  name: Labi Hovuz
+  address: >-
+    Divan-Beghi, Bukhara, Uzbekistan, QCFC+686, Buxoro, Buxoro Viloyati,
+    Uzbekistan
   rating: 4.6
-  userRatingsTotal: 940
-  googleMapsUrl: "https://maps.google.com/?cid=8157735638001474080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 954
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8157735638001474080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.773049199999996
   lng: 64.42076469999999
   openingHours:
-    - "Monday: 8:00 AM – 12:00 AM"
-    - "Tuesday: 8:00 AM – 12:00 AM"
-    - "Wednesday: 8:00 AM – 12:00 AM"
-    - "Thursday: 8:00 AM – 12:00 AM"
-    - "Friday: 8:00 AM – 12:00 AM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:00 AM – 12:00 AM"
+    - 'Monday: 8:00 AM – 12:00 AM'
+    - 'Tuesday: 8:00 AM – 12:00 AM'
+    - 'Wednesday: 8:00 AM – 12:00 AM'
+    - 'Thursday: 8:00 AM – 12:00 AM'
+    - 'Friday: 8:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 12:00 AM'
 tags:
-  - "bukhara"
-  - "Lyab-i Hauz"
-quickAnswer: "Labi Hovuz is Bukhara's old stone pool plaza, ringed by mulberry trees, a 16th-century madrasah, and the Nadir Divan-Beghi khanaka. It's open daily from 8am to midnight, and the calmest time to sit by the water is mid-morning before tour groups arrive. Give it 45 minutes to an hour, longer if you stay for tea."
+  - bukhara
+  - Lyab-i Hauz
+quickAnswer: >-
+  Labi Hovuz is Bukhara's old stone pool plaza, ringed by mulberry trees, a
+  16th-century madrasah, and the Nadir Divan-Beghi khanaka. It's open daily from
+  8am to midnight, and the calmest time to sit by the water is mid-morning
+  before tour groups arrive. Give it 45 minutes to an hour, longer if you stay
+  for tea.
 faq:
-  - q: "How long should I spend at Labi Hovuz?"
-    a: "Plan on 45 minutes to an hour to see the three surrounding monuments and the pool itself, but locals often linger an hour or two over tea at one of the terrace restaurants."
-  - q: "What is the quietest time to visit?"
-    a: "Mid-morning on any day, before tour groups arrive from the main sights nearby. Evenings are lively but far more crowded, especially around the floodlit facades."
-  - q: "Is Labi Hovuz free to visit?"
-    a: "The square and pool are open public space with no entry fee. The surrounding madrasah and khanaka buildings, now used as handicraft shops and cafés, are also generally free to walk into; only some interior exhibits may charge a small fee."
-  - q: "How do I get to Labi Hovuz from central Bukhara?"
-    a: "It's walkable from almost anywhere in the old city — about 10 minutes from the Ark fortress and 5 minutes from Poi Kalyan. Taxis from the train station take roughly 15-20 minutes."
-  - q: "What should I eat there?"
-    a: "Try shashlik (grilled skewers) or plov (rice pilaf) at one of the tapchan-style platform restaurants ringing the pool, paired with a pot of green tea."
+  - q: How long should I spend at Labi Hovuz?
+    a: >-
+      Plan on 45 minutes to an hour to see the three surrounding monuments and
+      the pool itself, but locals often linger an hour or two over tea at one of
+      the terrace restaurants.
+  - q: What is the quietest time to visit?
+    a: >-
+      Mid-morning on any day, before tour groups arrive from the main sights
+      nearby. Evenings are lively but far more crowded, especially around the
+      floodlit facades.
+  - q: Is Labi Hovuz free to visit?
+    a: >-
+      The square and pool are open public space with no entry fee. The
+      surrounding madrasah and khanaka buildings, now used as handicraft shops
+      and cafés, are also generally free to walk into; only some interior
+      exhibits may charge a small fee.
+  - q: How do I get to Labi Hovuz from central Bukhara?
+    a: >-
+      It's walkable from almost anywhere in the old city — about 10 minutes from
+      the Ark fortress and 5 minutes from Poi Kalyan. Taxis from the train
+      station take roughly 15-20 minutes.
+  - q: What should I eat there?
+    a: >-
+      Try shashlik (grilled skewers) or plov (rice pilaf) at one of the
+      tapchan-style platform restaurants ringing the pool, paired with a pot of
+      green tea.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

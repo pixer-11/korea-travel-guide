@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bukit-timah-bukit-timah-nature-reserve
-srcHash: '7a6bd0bb508d'
+srcHash: '0424e4cd96c2'
 title: 'Reserva Natural de Bukit Timah: Guía de viaje (4.6★)'
-description: 'La Reserva Natural de Bukit Timah es la colina más alta de Singapur (163 m) y un fragmento de selva primaria a unos 20 minutos de la ciudad. 4.6★ (8.420 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Reserva Natural de Bukit Timah es la colina más alta de Singapur (163 m) y un fragmento de selva primaria a unos 20 minutos de la ciudad. 4.6★ (8.428 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Reserva Natural de Bukit Timah es la colina más alta de Singapur (163 m) y un fragmento de selva primaria a unos 20 minutos de la ciudad. Ve un día entre semana por la tarde, de 2pm a 7pm, para evitar las multitudes; las mañanas de fin de semana, de 7am a 1pm, se llenan mucho. Calcula entre 1,5 y 3 horas según si haces el sendero a la cumbre o el circuito más suave de Hindhede Quarry.
 faq:
   - q: ¿Cómo llego a la Reserva Natural de Bukit Timah sin auto?

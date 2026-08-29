@@ -1,41 +1,51 @@
 ---
-title: "Visvesvaraya Industrial & Technological Museum: Bengaluru Travel Guide"
-description: "The Visvesvaraya Industrial & Technological Museum on Kasturba Road is Bengaluru's go-to hands-on science museum, open daily 9:30am–6pm. 4.6★ (17,063 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bengaluru"
-category: "attraction"
-pubDate: "2026-08-15T08:40:05.243Z"
+title: 'Visvesvaraya Industrial & Technological Museum: Bengaluru Travel Guide'
+description: >-
+  The Visvesvaraya Industrial & Technological Museum on Kasturba Road is
+  Bengaluru's go-to hands-on science museum, open daily 9:30am–6pm. 4.6★ (17,113
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: Bengaluru
+category: attraction
+pubDate: '2026-08-15T08:40:05.243Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Visvesvaraya_Industrial_and_Technological_Museum%2C_Bangalore_%282025%29_02.jpg/1920px-Visvesvaraya_Industrial_and_Technological_Museum%2C_Bangalore_%282025%29_02.jpg"
-  credit: "Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Visvesvaraya_Industrial_and_Technological_Museum,_Bangalore_(2025)_02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Visvesvaraya_Industrial_and_Technological_Museum%2C_Bangalore_%282025%29_02.jpg/1920px-Visvesvaraya_Industrial_and_Technological_Museum%2C_Bangalore_%282025%29_02.jpg
+  credit: 'Photo: Gpkp / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Visvesvaraya_Industrial_and_Technological_Museum,_Bangalore_(2025)_02.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Visvesvaraya_Museum%2C_Bengaluru_%282%29.jpg/3840px-Visvesvaraya_Museum%2C_Bengaluru_%282%29.jpg"
-    credit: "Photo: Dolon Prova / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Visvesvaraya_Museum,_Bengaluru_(2).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Visvesvaraya_Museum%2C_Bengaluru_%282%29.jpg/3840px-Visvesvaraya_Museum%2C_Bengaluru_%282%29.jpg
+    credit: 'Photo: Dolon Prova / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Visvesvaraya_Museum,_Bengaluru_(2).jpg
 place:
-  id: "ChIJqyoigt8VrjsRp_hKR5Y_1X8"
-  name: "Visvesvaraya Industrial & Technological Museum"
-  address: "5216, Kasturba Rd, near Chinna Swamy Stadium, Ambedkar Veedhi, Bengaluru, Karnataka 5, India"
+  id: ChIJqyoigt8VrjsRp_hKR5Y_1X8
+  name: Visvesvaraya Industrial & Technological Museum
+  address: >-
+    5216, Kasturba Rd, near Chinna Swamy Stadium, Ambedkar Veedhi, Bengaluru,
+    Karnataka 5, India
   rating: 4.6
-  userRatingsTotal: 17063
-  googleMapsUrl: "https://maps.google.com/?cid=9211338527529957543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17113
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9211338527529957543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9751593
   lng: 77.59641979999999
-  phone: "+91 80 2286 6200"
+  phone: +91 80 2286 6200
   openingHours:
-    - "Monday: 9:30 AM – 6:00 PM"
-    - "Tuesday: 9:30 AM – 6:00 PM"
-    - "Wednesday: 9:30 AM – 6:00 PM"
-    - "Thursday: 9:30 AM – 6:00 PM"
-    - "Friday: 9:30 AM – 6:00 PM"
-    - "Saturday: 9:30 AM – 6:00 PM"
-    - "Sunday: 9:30 AM – 6:00 PM"
+    - 'Monday: 9:30 AM – 6:00 PM'
+    - 'Tuesday: 9:30 AM – 6:00 PM'
+    - 'Wednesday: 9:30 AM – 6:00 PM'
+    - 'Thursday: 9:30 AM – 6:00 PM'
+    - 'Friday: 9:30 AM – 6:00 PM'
+    - 'Saturday: 9:30 AM – 6:00 PM'
+    - 'Sunday: 9:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -47,24 +57,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_3858315f5935524b685f7052736a7256387467696f79714a496843"
+    venueId: ven_3858315f5935524b685f7052736a7256387467696f79714a496843
 tags:
-  - "bengaluru"
-  - "museum"
-quickAnswer: "The Visvesvaraya Industrial & Technological Museum on Kasturba Road is Bengaluru's go-to hands-on science museum, open daily 9:30am–6pm. Go right at opening or between 10am and 11am to beat the crowds — weekend afternoons (noon to 6pm) get packed. Budget two to three hours, and pair it with a walk through neighbouring Cubbon Park."
+  - bengaluru
+  - museum
+quickAnswer: >-
+  The Visvesvaraya Industrial & Technological Museum on Kasturba Road is
+  Bengaluru's go-to hands-on science museum, open daily 9:30am–6pm. Go right at
+  opening or between 10am and 11am to beat the crowds — weekend afternoons (noon
+  to 6pm) get packed. Budget two to three hours, and pair it with a walk through
+  neighbouring Cubbon Park.
 faq:
-  - q: "What are the opening hours?"
-    a: "The museum is open daily, including weekends, from 9:30am to 6pm. Hours are the same every day of the week, but it's worth confirming before you visit in case of holiday changes."
-  - q: "When is the quietest time to visit?"
-    a: "Between 10am and 11am, on both weekdays and weekends, is the calmest window. Avoid weekend afternoons from noon to 6pm, when it's busiest."
-  - q: "How long should I spend there?"
-    a: "Plan for two to three hours to see the main galleries and catch a 3D/4D theatre show. Add more time if you're visiting with kids who want to explore every hands-on exhibit."
-  - q: "How do I get there by public transport?"
-    a: "Take the Purple Line to Cubbon Park station, about a 10-minute walk from the museum, or alight at MG Road station, which is similarly close."
-  - q: "What's nearby if I have extra time?"
-    a: "Cubbon Park is a five-minute walk away and makes a good follow-up stop. MG Road's shops and cafes are also within easy walking distance."
+  - q: What are the opening hours?
+    a: >-
+      The museum is open daily, including weekends, from 9:30am to 6pm. Hours
+      are the same every day of the week, but it's worth confirming before you
+      visit in case of holiday changes.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 10am and 11am, on both weekdays and weekends, is the calmest
+      window. Avoid weekend afternoons from noon to 6pm, when it's busiest.
+  - q: How long should I spend there?
+    a: >-
+      Plan for two to three hours to see the main galleries and catch a 3D/4D
+      theatre show. Add more time if you're visiting with kids who want to
+      explore every hands-on exhibit.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the Purple Line to Cubbon Park station, about a 10-minute walk from
+      the museum, or alight at MG Road station, which is similarly close.
+  - q: What's nearby if I have extra time?
+    a: >-
+      Cubbon Park is a five-minute walk away and makes a good follow-up stop. MG
+      Road's shops and cafes are also within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

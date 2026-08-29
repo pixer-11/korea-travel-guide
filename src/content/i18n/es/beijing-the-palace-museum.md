@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: beijing-the-palace-museum
-srcHash: '8c1917fb282a'
+srcHash: '79f93971d0cc'
 title: 'El Museo del Palacio: Guía de viaje de Pekín (4.6★)'
-description: El Museo del Palacio (más conocido como la Ciudad Prohibida) es el imprescindible complejo palaciego imperial de Pekín, abierto de martes a domingo de 8:30 a 16:30 y cerrado los lunes. 4.6★ (16.721 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Museo del Palacio (más conocido como la Ciudad Prohibida) es el imprescindible complejo palaciego imperial de Pekín, abierto de martes a domingo de 8:30 a 16:30 y cerrado los lunes. 4.6★ (16.777 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo del Palacio (más conocido como la Ciudad Prohibida) es el imprescindible complejo palaciego imperial de Pekín, abierto de martes a domingo de 8:30 a 16:30 y cerrado los lunes. Compra las entradas con franja horaria online por adelantado, llega justo a las 8:30am para adelantarte a las multitudes (el flujo de visitantes es más bajo entre las 8:30am y las 9:30am y máximo entre las 10am y las 4pm los fines de semana), y calcula al menos tres horas para recorrer todo el eje norte-sur. Entra por la Puerta del Meridiano, en el lado sur, cerca de la Plaza de Tiananmen, y sal por el norte hacia el Parque Jingshan.
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Museo del Palacio?

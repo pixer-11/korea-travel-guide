@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bukhara-toqi-zargaron
-srcHash: '6fdf23f5c5bc'
+srcHash: '9db045948632'
 title: 'Toqi Zargaron: Guía de viaje de Bujará (4.5★)'
-description: 'El Toqi Zargaron, la "Cúpula de los Joyeros", es uno de los cuatro arcos comerciales abovedados que aún se conservan en Bujará, integrado en el circuito de bazares cubiertos del casco antiguo. 4.5★ (158 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Toqi Zargaron, la "Cúpula de los Joyeros", es uno de los cuatro arcos comerciales abovedados que aún se conservan en Bujará, integrado en el circuito de bazares cubiertos del casco antiguo. 4.5★ (161 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Toqi Zargaron, la "Cúpula de los Joyeros", es uno de los cuatro arcos comerciales abovedados que aún se conservan en Bujará, integrado en el circuito de bazares cubiertos del casco antiguo. Permanece abierto las 24 horas, pero lo mejor es ir temprano —entre semana de 8 a 9h, o los fines de semana de 8 a 11h— antes de que lleguen los grupos turísticos y los puestos de joyería estén en plena actividad. Basta con dedicarle entre 15 y 20 minutos por sí solo, y desde allí dejarse llevar hacia la cercana plaza de Lyabi-Hauz y el Minarete Kalyan.
 faq:
   - q: ¿Cómo se llega al Toqi Zargaron?

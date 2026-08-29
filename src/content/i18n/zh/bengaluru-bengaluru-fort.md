@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bengaluru-bengaluru-fort
-srcHash: '3870896dd688'
+srcHash: '2ebd1ce57009'
 title: 班加罗尔堡（Bengaluru Fort）旅行指南（4.0★）
-description: 班加罗尔堡仅存的城门位于新塔拉古佩特（New Tharagupet）的克里希纳·拉金德拉路（Krishna Rajendra Road）上，紧邻班加罗尔市场（Bengaluru City Market），每天8:30–17:30开放。4.0★（26,787条评价）——看看游客怎么说，附开放时间与实用小贴士。
+description: 班加罗尔堡仅存的城门位于新塔拉古佩特（New Tharagupet）的克里希纳·拉金德拉路（Krishna Rajendra Road）上，紧邻班加罗尔市场（Bengaluru City Market），每天8:30–17:30开放。4.0★（26,825条评价）——看看游客怎么说，附开放时间与实用小贴士。
 quickAnswer: 班加罗尔堡仅存的城门位于新塔拉古佩特的克里希纳·拉金德拉路上，紧邻班加罗尔市场，每天8:30–17:30开放。建议开门时就去——无论工作日还是周末，早上9点到10点这段时间人最少——同时要避开周末11点到16点的人流高峰。这里花20到30分钟就够了，正好可以和周边市场街区的悠闲漫步结合起来。
 faq:
   - q: 在班加罗尔堡需要预留多长时间？

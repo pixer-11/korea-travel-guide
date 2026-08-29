@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bugis-albert-centre-market-food-centre
-srcHash: '76b40a3ccbd8'
+srcHash: '15e59631fa68'
 title: 'Albert Centre Market & Food Centre: dónde comer en Bugis'
-description: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. 4,1★ (5.930 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. 4,1★ (5.936 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Junto al canal Rochor, en el 270 de Queen St, el Albert Centre Market & Food Centre es un complejo de puestos de comida en dos niveles: abajo, el bullicio de un mercado húmedo; arriba, un extenso food court. Si puedes, ve un día de semana antes del mediodía, ya que los fines de semana el lugar está lleno de forma continua de 11:00 a 19:00. Los jueves permanece cerrado, así que ten esto en cuenta al planear tu visita.'
 faq:
   - q: ¿Cómo se llega al Albert Centre Market & Food Centre?

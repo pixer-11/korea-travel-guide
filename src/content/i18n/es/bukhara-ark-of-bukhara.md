@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bukhara-ark-of-bukhara
-srcHash: '662fbadad5ad'
+srcHash: '5f3695bab248'
 title: 'Ark de Bujará: Guía de viaje (4,6★)'
-description: 'El Ark de Bujará (Ark of Bukhara) abre todos los días de 9:00 a 18:00, y el momento más tranquilo para explorar sus polvorientas murallas es justo a la apertura, entre las 9:00 y las 10:00. 4,6★ (4.842 opiniones): qué dicen los visitantes, horarios y consejos.'
+description: 'El Ark de Bujará (Ark of Bukhara) abre todos los días de 9:00 a 18:00, y el momento más tranquilo para explorar sus polvorientas murallas es justo a la apertura, entre las 9:00 y las 10:00. 4,6★ (4.888 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Ark de Bujará abre todos los días de 9:00 a 18:00, y el momento más tranquilo para explorar sus polvorientas murallas es justo a la apertura, entre las 9:00 y las 10:00. Calcula entre 1,5 y 2 horas para recorrer las murallas de la fortaleza, el patio del trono y los pequeños museos del interior. Evita llegar entre las 17:00 y las 18:00 los fines de semana, cuando los grupos turísticos se acumulan antes del cierre.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el Ark de Bujará?

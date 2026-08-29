@@ -1,47 +1,69 @@
 ---
-title: "Taj Mahal: Agra Travel Guide (4.6★)"
-description: "The Taj Mahal in Agra sits in the Tajganj neighborhood, on the Yamuna River's south bank. 4.6★ (251,274 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Agra"
-category: "attraction"
-pubDate: "2026-08-29T15:18:19.005Z"
+title: 'Taj Mahal: Agra Travel Guide (4.6★)'
+description: >-
+  The Taj Mahal in Agra sits in the Tajganj neighborhood, on the Yamuna River's
+  south bank. 4.6★ (251,281 reviews) — what visitors say, hours, and tips.
+country: India
+region: Agra
+category: attraction
+pubDate: '2026-08-29T15:18:19.005Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1920px-Taj_Mahal_%28Edited%29.jpeg"
-  credit: "Photo: Yann; edited by Jim Carter / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1920px-Taj_Mahal_%28Edited%29.jpeg
+  credit: 'Photo: Yann; edited by Jim Carter / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJbf8C1yFxdDkR3n12P4DkKt0"
-  name: "Taj Mahal"
-  address: "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India"
+  id: ChIJbf8C1yFxdDkR3n12P4DkKt0
+  name: Taj Mahal
+  address: 'Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India'
   rating: 4.6
-  userRatingsTotal: 251274
-  googleMapsUrl: "https://maps.google.com/?cid=15936801470875598302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 251281
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15936801470875598302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.175144799999998
   lng: 78.0421422
-  phone: "+91 562 222 6431"
+  phone: +91 562 222 6431
 tags:
-  - "agra"
-  - "museum"
-quickAnswer: "The Taj Mahal in Agra sits in the Tajganj neighborhood, on the Yamuna River's south bank. It's a very popular monument, so book timed-entry tickets online and aim for the sunrise slot to beat both heat and crowds. Expect to spend two to three hours inside, longer if you queue for the mausoleum's inner chamber."
+  - agra
+  - museum
+quickAnswer: >-
+  The Taj Mahal in Agra sits in the Tajganj neighborhood, on the Yamuna River's
+  south bank. It's a very popular monument, so book timed-entry tickets online
+  and aim for the sunrise slot to beat both heat and crowds. Expect to spend two
+  to three hours inside, longer if you queue for the mausoleum's inner chamber.
 faq:
-  - q: "How do I get tickets for the Taj Mahal?"
-    a: "Book online in advance via the official ASI ticketing portal. Foreign visitors pay a higher rate than Indian nationals, and online booking avoids the counter queue."
-  - q: "What time should I visit to avoid crowds?"
-    a: "Arrive right at sunrise opening. Mid-morning onward brings tour groups, and lines for the inner mausoleum chamber grow longest by midday."
-  - q: "Is the Taj Mahal closed on any day?"
-    a: "It's traditionally closed on Fridays for prayers at the on-site mosque. Confirm current closure days before your trip since schedules can shift."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours covers the gardens, main platform, and mausoleum interior. Add extra time if you want to queue for the inner chamber or photograph from multiple angles."
-  - q: "How do I get to the Taj Mahal from central Agra?"
-    a: "Agra Cantt railway station is about 6 km away; take a prepaid taxi or auto-rickshaw to the Tajganj gates, as private vehicles can't approach the complex directly."
+  - q: How do I get tickets for the Taj Mahal?
+    a: >-
+      Book online in advance via the official ASI ticketing portal. Foreign
+      visitors pay a higher rate than Indian nationals, and online booking
+      avoids the counter queue.
+  - q: What time should I visit to avoid crowds?
+    a: >-
+      Arrive right at sunrise opening. Mid-morning onward brings tour groups,
+      and lines for the inner mausoleum chamber grow longest by midday.
+  - q: Is the Taj Mahal closed on any day?
+    a: >-
+      It's traditionally closed on Fridays for prayers at the on-site mosque.
+      Confirm current closure days before your trip since schedules can shift.
+  - q: How long should I plan to spend there?
+    a: >-
+      Two to three hours covers the gardens, main platform, and mausoleum
+      interior. Add extra time if you want to queue for the inner chamber or
+      photograph from multiple angles.
+  - q: How do I get to the Taj Mahal from central Agra?
+    a: >-
+      Agra Cantt railway station is about 6 km away; take a prepaid taxi or
+      auto-rickshaw to the Tajganj gates, as private vehicles can't approach the
+      complex directly.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

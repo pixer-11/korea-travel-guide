@@ -1,23 +1,29 @@
 ---
 title: 'Mausoleum at Halicarnassus: Bodrum Travel Guide'
-description: The Mausoleum at Halicarnassus — one of the Seven Wonders of the Ancient World — survives today as a sunken, partly excavated ruin in Bodrum's Tepecik district, on Turgut Reis Caddesi No:93.
+description: >-
+  The Mausoleum at Halicarnassus — one of the Seven Wonders of the Ancient World
+  — survives today as a sunken, partly excavated ruin in Bodrum's Tepecik
+  district, on Turgut Reis Caddesi No:93.
 country: Turkey
 region: Bodrum
 category: attraction
 pubDate: '2026-07-26T07:16:41.861Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1920px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1920px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg
   credit: 'Photo: FollowingHadrian / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg
 gallery: []
 place:
   id: ChIJlwmXEkdsvhQR0fktlJphpF4
   name: Mausoleum at Halicarnassus
-  address: Tepecik, Turgut Reis Cd. No:93, 48440 Bodrum/Muğla, Türkiye
+  address: 'Tepecik, Turgut Reis Cd. No:93, 48440 Bodrum/Muğla, Türkiye'
   rating: 4.2
-  userRatingsTotal: 4031
-  googleMapsUrl: https://maps.google.com/?cid=6819683052284672465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4107
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6819683052284672465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.037887399999995
   lng: 27.4241164
@@ -33,20 +39,43 @@ place:
 tags:
   - bodrum
   - top attraction
-quickAnswer: The Mausoleum at Halicarnassus — one of the Seven Wonders of the Ancient World — survives today as a sunken, partly excavated ruin in Bodrum's Tepecik district, on Turgut Reis Caddesi No:93. There's no towering marble tomb left to gawk at (the Knights of St. John quarried most of it into Bodrum Castle), so treat it as a 30–45 minute history stop rather than a visual blockbuster, ideally combined with the castle and old town. Go in the cooler morning hours; the site has almost no shade and gets hot and crowded by midday in summer.
+quickAnswer: >-
+  The Mausoleum at Halicarnassus — one of the Seven Wonders of the Ancient World
+  — survives today as a sunken, partly excavated ruin in Bodrum's Tepecik
+  district, on Turgut Reis Caddesi No:93. There's no towering marble tomb left
+  to gawk at (the Knights of St. John quarried most of it into Bodrum Castle),
+  so treat it as a 30–45 minute history stop rather than a visual blockbuster,
+  ideally combined with the castle and old town. Go in the cooler morning hours;
+  the site has almost no shade and gets hot and crowded by midday in summer.
 faq:
   - q: How long should I spend at the Mausoleum at Halicarnassus?
-    a: About 30–45 minutes is enough — it's a compact excavation site with foundation ruins, a vaulted chamber, and interpretive panels rather than a large complex.
-  - q: Is there much to actually see, since it's a ruin?
-    a: The standing remains are modest — foundation blocks, column sections, and an underground vault — because most of the original marble and sculpture was quarried into Bodrum Castle in the 15th century. Seeing the castle's recycled blocks alongside the site adds context.
+    a: >-
+      About 30–45 minutes is enough — it's a compact excavation site with
+      foundation ruins, a vaulted chamber, and interpretive panels rather than a
+      large complex.
+  - q: 'Is there much to actually see, since it''s a ruin?'
+    a: >-
+      The standing remains are modest — foundation blocks, column sections, and
+      an underground vault — because most of the original marble and sculpture
+      was quarried into Bodrum Castle in the 15th century. Seeing the castle's
+      recycled blocks alongside the site adds context.
   - q: How do I get there from Bodrum town center?
-    a: It's about a 10–15 minute walk uphill from the marina into the Tepecik district at Turgut Reis Cd. No:93, or a short taxi/dolmuş ride if you're staying further out.
+    a: >-
+      It's about a 10–15 minute walk uphill from the marina into the Tepecik
+      district at Turgut Reis Cd. No:93, or a short taxi/dolmuş ride if you're
+      staying further out.
   - q: What's the best time of day to visit?
-    a: Go in the morning before 11am or in the late afternoon before closing — the site has little shade and gets hot and busier around midday, especially in summer.
+    a: >-
+      Go in the morning before 11am or in the late afternoon before closing —
+      the site has little shade and gets hot and busier around midday,
+      especially in summer.
   - q: What else is nearby worth combining with this visit?
-    a: Bodrum Castle (Castle of St. Peter), the ancient theatre of Halicarnassus, and the old town bazaar and harbor are all within a short walk.
+    a: >-
+      Bodrum Castle (Castle of St. Peter), the ancient theatre of Halicarnassus,
+      and the old town bazaar and harbor are all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

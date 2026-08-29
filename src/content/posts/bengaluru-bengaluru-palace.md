@@ -1,26 +1,32 @@
 ---
 title: 'Bengaluru Palace: Travel Guide'
-description: Bengaluru Palace, on Palace Road in the heart of the city, is a Tudor-style royal residence built in the 1880s and modeled on England's Windsor Castle, with fortified turrets, wood-carved interiors, and manicured lawns that now host concerts and events.
+description: >-
+  Bengaluru Palace, on Palace Road in the heart of the city, is a Tudor-style
+  royal residence built in the 1880s and modeled on England's Windsor Castle,
+  with fortified turrets, wood-carved interiors, and manicured lawns that now
+  host concerts and events.
 country: India
 region: Bengaluru
 category: attraction
 pubDate: '2026-07-26T07:57:20.430Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg
   credit: 'Photo: Chuggingtrails / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bangalore_Mysore_Maharaja_Palace.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Bangalore_Mysore_Maharaja_Palace.jpg'
 place:
   id: ChIJN1ZKKUkWrjsRzxIVM363-LE
   name: Bengaluru Palace
-  address: Bengaluru, Karnataka, India
+  address: 'Bengaluru, Karnataka, India'
   rating: 4.1
-  userRatingsTotal: 100012
-  googleMapsUrl: https://maps.google.com/?cid=12824201691588268751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 100315
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12824201691588268751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.0035068
   lng: 77.5890953
-  phone: '+91 80 2235 2828'
+  phone: +91 80 2235 2828
   openingHours:
     - 'Monday: 10:00 AM – 5:30 PM'
     - 'Tuesday: 10:00 AM – 5:30 PM'
@@ -32,20 +38,43 @@ place:
 tags:
   - bengaluru
   - top attraction
-quickAnswer: Bengaluru Palace, on Palace Road in the heart of the city, is a Tudor-style royal residence built in the 1880s and modeled on England's Windsor Castle, with fortified turrets, wood-carved interiors, and manicured lawns that now host concerts and events. Budget 60–90 minutes for the audio-guided interior tour, plus extra time if you wander the grounds. It's a very popular stop, so aim for the first hour after opening on a weekday to avoid the busloads of tour groups that arrive by mid-morning.
+quickAnswer: >-
+  Bengaluru Palace, on Palace Road in the heart of the city, is a Tudor-style
+  royal residence built in the 1880s and modeled on England's Windsor Castle,
+  with fortified turrets, wood-carved interiors, and manicured lawns that now
+  host concerts and events. Budget 60–90 minutes for the audio-guided interior
+  tour, plus extra time if you wander the grounds. It's a very popular stop, so
+  aim for the first hour after opening on a weekday to avoid the busloads of
+  tour groups that arrive by mid-morning.
 faq:
   - q: How long should I spend at Bengaluru Palace?
-    a: Plan on 60–90 minutes for the audio-guided interior tour; add another hour or more if you also want to walk the grounds or use the on-site amusement park.
+    a: >-
+      Plan on 60–90 minutes for the audio-guided interior tour; add another hour
+      or more if you also want to walk the grounds or use the on-site amusement
+      park.
   - q: What's the best time to visit to avoid crowds?
-    a: Go right after opening on a weekday. This is a very popular attraction, and tour groups and weekend crowds build up steadily through the late morning and afternoon.
+    a: >-
+      Go right after opening on a weekday. This is a very popular attraction,
+      and tour groups and weekend crowds build up steadily through the late
+      morning and afternoon.
   - q: How do I get to Bengaluru Palace by public transport?
-    a: Take the Namma Metro Green Line to Mantri Square Sampige Road station, then walk or take a short auto-rickshaw ride (about 15–20 minutes on foot) to the palace on Palace Road.
+    a: >-
+      Take the Namma Metro Green Line to Mantri Square Sampige Road station,
+      then walk or take a short auto-rickshaw ride (about 15–20 minutes on foot)
+      to the palace on Palace Road.
   - q: Is photography allowed inside the palace?
-    a: Yes, typically for an extra camera fee paid at the gate alongside your entry ticket — carry some cash since fees and policies can change.
+    a: >-
+      Yes, typically for an extra camera fee paid at the gate alongside your
+      entry ticket — carry some cash since fees and policies can change.
   - q: Are there other things to do on site besides the palace tour?
-    a: Yes — the grounds include an amusement park with rides and activities like go-karting, and the lawns regularly host large outdoor concerts and events, so check ahead in case part of the site is closed for a private function.
+    a: >-
+      Yes — the grounds include an amusement park with rides and activities like
+      go-karting, and the lawns regularly host large outdoor concerts and
+      events, so check ahead in case part of the site is closed for a private
+      function.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

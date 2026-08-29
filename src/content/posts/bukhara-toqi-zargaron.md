@@ -1,39 +1,44 @@
 ---
-title: "Toqi Zargaron: Bukhara Travel Guide (4.5★)"
-description: "Toqi Zargaron, the \"Dome of the Jewelers,\" is one of Bukhara's four surviving domed trading arcades, tucked into the old city's covered bazaar circuit. 4.5★ (158 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Bukhara"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:08:04.809Z"
+title: 'Toqi Zargaron: Bukhara Travel Guide (4.5★)'
+description: >-
+  Toqi Zargaron, the "Dome of the Jewelers," is one of Bukhara's four surviving
+  domed trading arcades, tucked into the old city's covered bazaar circuit. 4.5★
+  (161 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Bukhara
+category: hidden-gem
+pubDate: '2026-08-18T08:08:04.809Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/27_Toqi_Zargaron_dome_093.jpg"
-  credit: "Photo: BeshevI / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:27_Toqi_Zargaron_dome_093.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c9/27_Toqi_Zargaron_dome_093.jpg
+  credit: 'Photo: BeshevI / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:27_Toqi_Zargaron_dome_093.jpg'
   focus:
     x: 46
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJAThcrx0GUD8R2rO4aMDPB3c"
-  name: "Toqi Zargaron"
-  address: "QCG8+HM2, Bukhara, Bukhara Region, Uzbekistan"
+  id: ChIJAThcrx0GUD8R2rO4aMDPB3c
+  name: Toqi Zargaron
+  address: 'QCG8+HM2, Bukhara, Bukhara Region, Uzbekistan'
   rating: 4.5
-  userRatingsTotal: 158
-  googleMapsUrl: "https://maps.google.com/?cid=8577052440648004570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 161
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8577052440648004570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.776386099999996
   lng: 64.4166412
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekdayBusy:
@@ -52,24 +57,44 @@ place:
       - 16
       - 20
       - 21
-    venueId: "ven_63334250444d61344f72325238445547307872636854414a496843"
+    venueId: ven_63334250444d61344f72325238445547307872636854414a496843
 tags:
-  - "bukhara"
-  - "Toqi Zargaron Trading Dome"
-quickAnswer: "Toqi Zargaron, the \"Dome of the Jewelers,\" is one of Bukhara's four surviving domed trading arcades, tucked into the old city's covered bazaar circuit. It's open around the clock, but the real reward is going early — weekdays 8–9am or weekends 8–11am — before the tour groups and jewelry stalls fully wake up. Give it 15-20 minutes on its own, then let it pull you toward the nearby Lyabi-Hauz and Kalyan Minaret."
+  - bukhara
+  - Toqi Zargaron Trading Dome
+quickAnswer: >-
+  Toqi Zargaron, the "Dome of the Jewelers," is one of Bukhara's four surviving
+  domed trading arcades, tucked into the old city's covered bazaar circuit. It's
+  open around the clock, but the real reward is going early — weekdays 8–9am or
+  weekends 8–11am — before the tour groups and jewelry stalls fully wake up.
+  Give it 15-20 minutes on its own, then let it pull you toward the nearby
+  Lyabi-Hauz and Kalyan Minaret.
 faq:
-  - q: "How do I get to Toqi Zargaron?"
-    a: "It's in Bukhara's pedestrianized old city core, within easy walking distance of Lyabi-Hauz plaza. Most visitors reach it on foot as part of a bazaar walking loop; taxis can drop you a few minutes away."
-  - q: "What are the quietest times to visit?"
-    a: "Weekdays between 8am and 9am, and weekends between 8am and 11am, are the calmest windows. Avoid weekend afternoons and evenings (1pm–10pm), when crowds peak."
-  - q: "How long should I spend here?"
-    a: "15 to 20 minutes covers the architecture and a browse through the stalls; longer if you want to shop for jewelry or textiles."
-  - q: "Is it open at night?"
-    a: "The structure itself is accessible 24 hours daily, but individual stalls keep more limited daytime-to-evening hours, so shopping is best done mid-morning to early evening."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Kalyan Minaret, Mir-i-Arab Madrasa, and the other covered bazaars, Toqi Sarrafon and Toqi Telpak Furushon, are all within a short walk."
+  - q: How do I get to Toqi Zargaron?
+    a: >-
+      It's in Bukhara's pedestrianized old city core, within easy walking
+      distance of Lyabi-Hauz plaza. Most visitors reach it on foot as part of a
+      bazaar walking loop; taxis can drop you a few minutes away.
+  - q: What are the quietest times to visit?
+    a: >-
+      Weekdays between 8am and 9am, and weekends between 8am and 11am, are the
+      calmest windows. Avoid weekend afternoons and evenings (1pm–10pm), when
+      crowds peak.
+  - q: How long should I spend here?
+    a: >-
+      15 to 20 minutes covers the architecture and a browse through the stalls;
+      longer if you want to shop for jewelry or textiles.
+  - q: Is it open at night?
+    a: >-
+      The structure itself is accessible 24 hours daily, but individual stalls
+      keep more limited daytime-to-evening hours, so shopping is best done
+      mid-morning to early evening.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      The Kalyan Minaret, Mir-i-Arab Madrasa, and the other covered bazaars,
+      Toqi Sarrafon and Toqi Telpak Furushon, are all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

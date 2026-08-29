@@ -1,39 +1,46 @@
 ---
-title: "Bengaluru Fort: Travel Guide (4.0★)"
-description: "Bengaluru Fort's surviving gateway sits on Krishna Rajendra Road in New Tharagupet, near Bengaluru City Market, and is open daily 8:30am–5:30pm. 4.0★ (26,787 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bengaluru"
-category: "attraction"
-pubDate: "2026-08-16T07:51:09.550Z"
+title: 'Bengaluru Fort: Travel Guide (4.0★)'
+description: >-
+  Bengaluru Fort's surviving gateway sits on Krishna Rajendra Road in New
+  Tharagupet, near Bengaluru City Market, and is open daily 8:30am–5:30pm. 4.0★
+  (26,825 reviews) — what visitors say, hours, and tips.
+country: India
+region: Bengaluru
+category: attraction
+pubDate: '2026-08-16T07:51:09.550Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Old_Bangalore_Fort%2C_Inside_View.JPG/1920px-Old_Bangalore_Fort%2C_Inside_View.JPG"
-  credit: "Photo: Pavithrah / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Old_Bangalore_Fort,_Inside_View.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Old_Bangalore_Fort%2C_Inside_View.JPG/1920px-Old_Bangalore_Fort%2C_Inside_View.JPG
+  credit: 'Photo: Pavithrah / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Old_Bangalore_Fort,_Inside_View.JPG'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJVx06BOMVrjsR1-a9CQJZpLI"
-  name: "Bengaluru Fort"
-  address: "XH7G+49C, Krishna Rajendra Rd, New Tharagupet, Bengaluru, Karnataka 560002, India"
+  id: ChIJVx06BOMVrjsR1-a9CQJZpLI
+  name: Bengaluru Fort
+  address: >-
+    XH7G+49C, Krishna Rajendra Rd, New Tharagupet, Bengaluru, Karnataka 560002,
+    India
   rating: 4
-  userRatingsTotal: 26787
-  googleMapsUrl: "https://maps.google.com/?cid=12872511500219967191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 26825
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12872511500219967191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9628018
   lng: 77.5758862
   openingHours:
-    - "Monday: 8:30 AM – 5:30 PM"
-    - "Tuesday: 8:30 AM – 5:30 PM"
-    - "Wednesday: 8:30 AM – 5:30 PM"
-    - "Thursday: 8:30 AM – 5:30 PM"
-    - "Friday: 8:30 AM – 5:30 PM"
-    - "Saturday: 8:30 AM – 5:30 PM"
-    - "Sunday: 8:30 AM – 5:30 PM"
+    - 'Monday: 8:30 AM – 5:30 PM'
+    - 'Tuesday: 8:30 AM – 5:30 PM'
+    - 'Wednesday: 8:30 AM – 5:30 PM'
+    - 'Thursday: 8:30 AM – 5:30 PM'
+    - 'Friday: 8:30 AM – 5:30 PM'
+    - 'Saturday: 8:30 AM – 5:30 PM'
+    - 'Sunday: 8:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -44,24 +51,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_494c705a4a514339612d3152736a72564d4f42363078564a496843"
+    venueId: ven_494c705a4a514339612d3152736a72564d4f42363078564a496843
 tags:
-  - "bengaluru"
-  - "historic site"
-quickAnswer: "Bengaluru Fort's surviving gateway sits on Krishna Rajendra Road in New Tharagupet, near Bengaluru City Market, and is open daily 8:30am–5:30pm. Go right at opening — it's quietest 9am–10am on both weekdays and weekends — and avoid the 11am–4pm weekend crush. Give it 20-30 minutes; it pairs naturally with a longer wander through the surrounding market district."
+  - bengaluru
+  - historic site
+quickAnswer: >-
+  Bengaluru Fort's surviving gateway sits on Krishna Rajendra Road in New
+  Tharagupet, near Bengaluru City Market, and is open daily 8:30am–5:30pm. Go
+  right at opening — it's quietest 9am–10am on both weekdays and weekends — and
+  avoid the 11am–4pm weekend crush. Give it 20-30 minutes; it pairs naturally
+  with a longer wander through the surrounding market district.
 faq:
-  - q: "How much time do I need at Bengaluru Fort?"
-    a: "20 to 30 minutes is enough — it's a single surviving gateway, not a full fort complex, so most visitors treat it as a quick stop rather than a lengthy excursion."
-  - q: "What are the opening hours?"
-    a: "The gate is open daily from 8:30am to 5:30pm, with no variation by day of the week. Plan your visit within those hours."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 9am and 10am. Avoid Saturday and Sunday afternoons from 11am to 4pm, when it gets genuinely crowded."
-  - q: "How do I get to Bengaluru Fort?"
-    a: "It's on Krishna Rajendra Road in New Tharagupet, right by Bengaluru City Market (KR Market). The nearest metro stop is Krishna Rajendra Market on the Green Line; autorickshaw drivers usually recognize it by the market rather than the fort's name."
-  - q: "Is there an entrance fee?"
-    a: "No ticket counter or entry fee — you simply walk up to the gate. Confirm current details locally since minor changes can happen over time."
+  - q: How much time do I need at Bengaluru Fort?
+    a: >-
+      20 to 30 minutes is enough — it's a single surviving gateway, not a full
+      fort complex, so most visitors treat it as a quick stop rather than a
+      lengthy excursion.
+  - q: What are the opening hours?
+    a: >-
+      The gate is open daily from 8:30am to 5:30pm, with no variation by day of
+      the week. Plan your visit within those hours.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 9am and 10am. Avoid
+      Saturday and Sunday afternoons from 11am to 4pm, when it gets genuinely
+      crowded.
+  - q: How do I get to Bengaluru Fort?
+    a: >-
+      It's on Krishna Rajendra Road in New Tharagupet, right by Bengaluru City
+      Market (KR Market). The nearest metro stop is Krishna Rajendra Market on
+      the Green Line; autorickshaw drivers usually recognize it by the market
+      rather than the fort's name.
+  - q: Is there an entrance fee?
+    a: >-
+      No ticket counter or entry fee — you simply walk up to the gate. Confirm
+      current details locally since minor changes can happen over time.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

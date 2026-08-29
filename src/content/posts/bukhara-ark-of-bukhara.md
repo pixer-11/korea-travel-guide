@@ -1,65 +1,92 @@
 ---
-title: "Ark of Bukhara: Travel Guide (4.6★)"
-description: "The Ark of Bukhara is open daily from 9am to 6pm, and the calmest time to explore its dusty ramparts is right at opening, between 9am and 10am. 4.6★ (4,842 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Bukhara"
-category: "attraction"
-pubDate: "2026-08-13T09:38:10.779Z"
+title: 'Ark of Bukhara: Travel Guide (4.6★)'
+description: >-
+  The Ark of Bukhara is open daily from 9am to 6pm, and the calmest time to
+  explore its dusty ramparts is right at opening, between 9am and 10am. 4.6★
+  (4,888 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Bukhara
+category: attraction
+pubDate: '2026-08-13T09:38:10.779Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ark_of_Bukhara_2023.9.jpg/1920px-Ark_of_Bukhara_2023.9.jpg"
-  credit: "Photo: ほっきー / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ark_of_Bukhara_2023.9.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ark_of_Bukhara_2023.9.jpg/1920px-Ark_of_Bukhara_2023.9.jpg
+  credit: 'Photo: ほっきー / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ark_of_Bukhara_2023.9.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ark_of_Bukhara_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki%29.jpg/3840px-Ark_of_Bukhara_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki%29.jpg"
-    credit: "Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ark_of_Bukhara_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ark_of_Bukhara_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki%29.jpg/3840px-Ark_of_Bukhara_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki%29.jpg
+    credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ark_of_Bukhara_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki).jpg
 place:
-  id: "ChIJ1-1o96AIUD8R69uMeKE3JV4"
-  name: "Ark of Bukhara"
-  address: "QCH5+6W6, Afrosiab St, Bukhara, Bukhara Region, Uzbekistan"
+  id: ChIJ1-1o96AIUD8R69uMeKE3JV4
+  name: Ark of Bukhara
+  address: 'QCH5+6W6, Afrosiab St, Bukhara, Bukhara Region, Uzbekistan'
   rating: 4.6
-  userRatingsTotal: 4842
-  googleMapsUrl: "https://maps.google.com/?cid=6783889580355279851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4888
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6783889580355279851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.7780322
   lng: 64.4097633
-  phone: "+998 65 224 17 29"
+  phone: +998 65 224 17 29
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
       - 9
     weekendBusy:
       - 17
-    venueId: "ven_34564a33454b654d75393652384455494136396f312d314a496843"
+    venueId: ven_34564a33454b654d75393652384455494136396f312d314a496843
 tags:
-  - "bukhara"
-  - "top attraction"
-quickAnswer: "The Ark of Bukhara is open daily from 9am to 6pm, and the calmest time to explore its dusty ramparts is right at opening, between 9am and 10am. Budget about 1.5–2 hours to walk the fortress walls, throne courtyard, and small museums inside. Avoid arriving between 5pm and 6pm on weekends, when tour groups bunch up before closing."
+  - bukhara
+  - top attraction
+quickAnswer: >-
+  The Ark of Bukhara is open daily from 9am to 6pm, and the calmest time to
+  explore its dusty ramparts is right at opening, between 9am and 10am. Budget
+  about 1.5–2 hours to walk the fortress walls, throne courtyard, and small
+  museums inside. Avoid arriving between 5pm and 6pm on weekends, when tour
+  groups bunch up before closing.
 faq:
-  - q: "How much time should I plan for the Ark of Bukhara?"
-    a: "Budget 1.5 to 2 hours to walk the ramparts, courtyard, and small museums inside — the paths and stairs are uneven, so it's slower than the compact size suggests."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 9am to 6pm. Hours can shift around local holidays, so confirm locally if visiting during a festival period."
-  - q: "When is the quietest time to visit?"
-    a: "Between 9am and 10am, on both weekdays and weekends, based on measured foot-traffic patterns. Try to avoid 5pm–6pm on weekends, when it's busiest before closing."
-  - q: "How do I get to the Ark from Bukhara's old town?"
-    a: "It's a 15–20 minute walk from Lyabi-Hauz and the covered bazaars along Afrosiab Street. Taxis and ride-hail apps also know it as \"Ark Fortress\" or \"Ark qal'asi.\""
-  - q: "What else is nearby?"
-    a: "The Bolo Hauz Mosque sits directly across the square, and the Kalyan Minaret and old town bazaars are within a 15–20 minute walk, making it easy to combine into one half-day route."
+  - q: How much time should I plan for the Ark of Bukhara?
+    a: >-
+      Budget 1.5 to 2 hours to walk the ramparts, courtyard, and small museums
+      inside — the paths and stairs are uneven, so it's slower than the compact
+      size suggests.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily from 9am to 6pm. Hours can shift around local holidays, so
+      confirm locally if visiting during a festival period.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 9am and 10am, on both weekdays and weekends, based on measured
+      foot-traffic patterns. Try to avoid 5pm–6pm on weekends, when it's busiest
+      before closing.
+  - q: How do I get to the Ark from Bukhara's old town?
+    a: >-
+      It's a 15–20 minute walk from Lyabi-Hauz and the covered bazaars along
+      Afrosiab Street. Taxis and ride-hail apps also know it as "Ark Fortress"
+      or "Ark qal'asi."
+  - q: What else is nearby?
+    a: >-
+      The Bolo Hauz Mosque sits directly across the square, and the Kalyan
+      Minaret and old town bazaars are within a 15–20 minute walk, making it
+      easy to combine into one half-day route.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,27 +1,36 @@
 ---
 title: 'Tour Pey Berland: Bordeaux Travel Guide'
-description: 'Tour Pey Berland is the freestanding 15th-century Gothic belfry beside Bordeaux Cathedral on Place Pey Berland, and the reason to come is the climb: roughly 230 tight stone steps up to an open-air platform with a 360-degree view over the city''s terracotta rooftops and the Garonne.'
+description: >-
+  Tour Pey Berland is the freestanding 15th-century Gothic belfry beside
+  Bordeaux Cathedral on Place Pey Berland, and the reason to come is the climb:
+  roughly 230 tight stone steps up to an open-air platform with a 360-degree
+  view over the city's terracotta rooftops and the Garonne.
 country: France
 region: Bordeaux
 category: attraction
 pubDate: '2026-07-26T08:25:39.158Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
   credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Vue_sur_la_Place_Pey_Berland_6.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg/1920px-Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg
     credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bordeaux_Cath%C3%A9drale_Saint-Andr%C3%A9_Tour_Pey-Berland_Int%C3%A9rieure.jpg
 place:
   id: ChIJD-_f9MQnVQ0RcaQotYIya0c
   name: Tour Pey Berland
-  address: Pl. Pey Berland, 33000 Bordeaux, France
+  address: 'Pl. Pey Berland, 33000 Bordeaux, France'
   rating: 4.5
-  userRatingsTotal: 3657
-  googleMapsUrl: https://maps.google.com/?cid=5146262536167400561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3687
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5146262536167400561&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 44.8375651
   lng: -0.5766178
@@ -37,20 +46,43 @@ place:
 tags:
   - bordeaux
   - top attraction
-quickAnswer: 'Tour Pey Berland is the freestanding 15th-century Gothic belfry beside Bordeaux Cathedral on Place Pey Berland, and the reason to come is the climb: roughly 230 tight stone steps up to an open-air platform with a 360-degree view over the city''s terracotta rooftops and the Garonne. Budget 30-45 minutes, go early or late afternoon to dodge tour groups, and check current opening hours and ticket prices online before you go, since the tower closes on certain public holidays and Mondays in low season.'
+quickAnswer: >-
+  Tour Pey Berland is the freestanding 15th-century Gothic belfry beside
+  Bordeaux Cathedral on Place Pey Berland, and the reason to come is the climb:
+  roughly 230 tight stone steps up to an open-air platform with a 360-degree
+  view over the city's terracotta rooftops and the Garonne. Budget 30-45
+  minutes, go early or late afternoon to dodge tour groups, and check current
+  opening hours and ticket prices online before you go, since the tower closes
+  on certain public holidays and Mondays in low season.
 faq:
   - q: How many steps are there and how long does the visit take?
-    a: Around 230 spiral stone steps with no elevator; most visitors spend 30-45 minutes total including the climb, time on the viewing platform, and the descent.
+    a: >-
+      Around 230 spiral stone steps with no elevator; most visitors spend 30-45
+      minutes total including the climb, time on the viewing platform, and the
+      descent.
   - q: How do I get to Tour Pey Berland by public transport?
-    a: Take Tram Line A or B to the Hôtel de Ville stop, then walk about 2 minutes to Place Pey Berland; from Gare Saint-Jean it's roughly a 15-20 minute tram ride into the centre.
+    a: >-
+      Take Tram Line A or B to the Hôtel de Ville stop, then walk about 2
+      minutes to Place Pey Berland; from Gare Saint-Jean it's roughly a 15-20
+      minute tram ride into the centre.
   - q: What's the best time of day to avoid crowds?
-    a: Go right at opening or in the later afternoon; this is a well-known landmark and tour groups tend to cluster around midday, so early or late visits mean less queuing on the narrow staircase.
+    a: >-
+      Go right at opening or in the later afternoon; this is a well-known
+      landmark and tour groups tend to cluster around midday, so early or late
+      visits mean less queuing on the narrow staircase.
   - q: Is it suitable for young children or people with mobility issues?
-    a: The staircase is steep, narrow, and uneven with no elevator, so it's not accessible for wheelchairs or strollers, and it can be tough for very young children or anyone unsteady on stairs.
+    a: >-
+      The staircase is steep, narrow, and uneven with no elevator, so it's not
+      accessible for wheelchairs or strollers, and it can be tough for very
+      young children or anyone unsteady on stairs.
   - q: What else is nearby worth combining with the visit?
-    a: Bordeaux Cathedral (Cathédrale Saint-André) is right across the square, and it's a short walk to the Grand Théâtre, Place Gambetta, and the shopping street Rue Sainte-Catherine.
+    a: >-
+      Bordeaux Cathedral (Cathédrale Saint-André) is right across the square,
+      and it's a short walk to the Grand Théâtre, Place Gambetta, and the
+      shopping street Rue Sainte-Catherine.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-29'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
