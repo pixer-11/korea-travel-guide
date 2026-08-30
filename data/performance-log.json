@@ -905,5 +905,200 @@
         "delta": -5
       }
     ]
+  },
+  {
+    "week": "2026-08-30",
+    "pageviews": 509,
+    "visits": 424,
+    "top": [
+      {
+        "path": "/",
+        "views": 56
+      },
+      {
+        "path": "/ko/",
+        "views": 27
+      },
+      {
+        "path": "/posts/genoa-porto-antico/",
+        "views": 21
+      },
+      {
+        "path": "/posts/pattaya-mamamia-pattaya-street-noodles/",
+        "views": 16
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 15
+      },
+      {
+        "path": "/ko/events/",
+        "views": 11
+      },
+      {
+        "path": "/itinerary/tokyo-3-days/",
+        "views": 11
+      },
+      {
+        "path": "/posts/barcelona-la-merce-festival/",
+        "views": 9
+      },
+      {
+        "path": "/posts/tokyo-tyler-the-creator-chromakopia-the-world-tour/",
+        "views": 9
+      },
+      {
+        "path": "/posts/sentosa-sentosa-sensoryscape/",
+        "views": 9
+      },
+      {
+        "path": "/events/",
+        "views": 8
+      },
+      {
+        "path": "/posts/koh-samui-tarnim-magic-garden/",
+        "views": 7
+      },
+      {
+        "path": "/ja/posts/genoa-porto-antico/",
+        "views": 7
+      },
+      {
+        "path": "/zh/posts/new-delhi-bwf-world-championships-2026/",
+        "views": 6
+      },
+      {
+        "path": "/zh/posts/jakarta-taman-mini-indonesia-indah/",
+        "views": 6
+      },
+      {
+        "path": "/posts/taroko-gorge-silks-place-taroko/",
+        "views": 6
+      },
+      {
+        "path": "/posts/alcaniz-motogp-aragon-grand-prix/",
+        "views": 6
+      },
+      {
+        "path": "/posts/bangkok-saladaeng/",
+        "views": 6
+      },
+      {
+        "path": "/posts/daegu-daegu-83-tower/",
+        "views": 6
+      },
+      {
+        "path": "/posts/bengaluru-bengaluru-fort/",
+        "views": 6
+      },
+      {
+        "path": "/posts/khiva-itchan-kala/",
+        "views": 4
+      },
+      {
+        "path": "/posts/hangzhou-leifeng-pagoda/",
+        "views": 4
+      },
+      {
+        "path": "/posts/dumaguete-silliman-hall/",
+        "views": 4
+      },
+      {
+        "path": "/es/posts/alcaniz-motogp-aragon-grand-prix/",
+        "views": 3
+      },
+      {
+        "path": "/posts/new-york-flushing-queens-us-open-tennis-championships-2026/",
+        "views": 3
+      },
+      {
+        "path": "/tools/esim/",
+        "views": 3
+      },
+      {
+        "path": "/zh/posts/pasay-city-lalala-fest-manila-2026/",
+        "views": 3
+      },
+      {
+        "path": "/zh/posts/kuala-lumpur-post-malone-live-in-malaysia/",
+        "views": 2
+      },
+      {
+        "path": "/essentials/japan/",
+        "views": 2
+      },
+      {
+        "path": "/posts/suncheon-nagan-eupseong-folk-village/",
+        "views": 2
+      }
+    ],
+    "risers": [
+      {
+        "path": "/",
+        "delta": 30
+      },
+      {
+        "path": "/posts/genoa-porto-antico/",
+        "delta": 21
+      },
+      {
+        "path": "/posts/pattaya-mamamia-pattaya-street-noodles/",
+        "delta": 16
+      },
+      {
+        "path": "/itinerary/tokyo-3-days/",
+        "delta": 11
+      },
+      {
+        "path": "/ko/events/",
+        "delta": 9
+      },
+      {
+        "path": "/posts/barcelona-la-merce-festival/",
+        "delta": 9
+      },
+      {
+        "path": "/posts/tokyo-tyler-the-creator-chromakopia-the-world-tour/",
+        "delta": 9
+      },
+      {
+        "path": "/posts/sentosa-sentosa-sensoryscape/",
+        "delta": 9
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/ko/",
+        "delta": -14
+      },
+      {
+        "path": "/posts/chengdu-chengdu-research-base-of-giant-panda-breeding/",
+        "delta": -6
+      },
+      {
+        "path": "/newsletter/",
+        "delta": -4
+      },
+      {
+        "path": "/posts/tongyeong-dongpirang-mural-village/",
+        "delta": -4
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "delta": -3
+      },
+      {
+        "path": "/tools/best-time/",
+        "delta": -3
+      },
+      {
+        "path": "/ko/destinations/uzbekistan/",
+        "delta": -3
+      },
+      {
+        "path": "/posts/andong-hahoe-folk-village/",
+        "delta": -3
+      }
+    ]
   }
 ]
