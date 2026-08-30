@@ -992,6 +992,13 @@ jobs:
           # nothing; every other zero (queue empty, API dead) still reports.
           SHARE=$(grep -o 'Places 예산: publish 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
           SSHARE=$(grep -o 'Places 검색 예산: [a-z]* 몫 [0-9]*회' /tmp/gen.log 2>/dev/null | head -1 | grep -o '[0-9]*회' | tr -d '회' || true)
+          # The day guard (lib/slot-served.mjs) exits before generating when
+          # today's KST batch already went out. Without a note the report fell
+          # through to the stock "Places 한도 소진" line and the owner read a
+          # working guard as a broken pipeline (2026-08-30, 7h-late cron).
+          if grep -q "SLOT_SERVED: publish.yml" /tmp/gen.log 2>/dev/null; then
+            export ZERO_NOTE="ℹ️ 새 글 0개 — 오늘(KST) 몫은 이미 발행됐습니다. 지각 배달된 예약 실행이라 중복 없이 건너뛰었습니다(정상)."
+          fi
           # If the commit step did not succeed, the posts exist only inside this
           # runner and vanish with it. On 2026-08-27 a rebase conflict lost 36 of
           # them, and this report still announced "새 글 36개" with thirty links —
@@ -1013,7 +1020,17 @@ jobs:
           # can publish 16 posts and still have lost every translation.
           if [ -s /tmp/soft-fail.txt ] && [ -n "$TELEGRAM_BOT_TOKEN" ]; then
             SOFT=$(paste -sd', ' /tmp/soft-fail.txt)
-            TXT=$(printf '⚠️ 발행은 됐지만 일부 단계가 실패했습니다\n실패: %s\n\n번역·일정 등이 빠졌을 수 있습니다. 대개 API 일시 오류이고 다음 실행에서 채워지지만, 같은 단계가 이틀 연속이면 키 만료를 의심하세요.' "$SOFT")
+            # Name the cause when the logs already state it. On 2026-08-30 all
+            # 104 translation failures were one thing — the Anthropic account's
+            # spend cap, which states its own reset time — and the stock line
+            # ("대개 일시 오류… 이틀 연속이면 키 만료 의심") sent the owner looking
+            # for a dead key instead of a limit that lifts on its own.
+            WHY=""
+            if grep -qh "reached your specified API usage limits" /tmp/translate.log /tmp/gen.log 2>/dev/null; then
+              WHEN=$(grep -ho "regain access on [0-9-]* at [0-9:]* UTC" /tmp/translate.log /tmp/gen.log 2>/dev/null | head -1)
+              WHY=$(printf '\n\n원인 확인: Anthropic API 사용 한도(월 상한)에 도달했습니다. 키 만료가 아니라 한도이며, 한도가 풀리면(%s) 다음 실행이 자동으로 채웁니다. 더 빨리 재개하려면 Anthropic 콘솔에서 상한을 올려 주세요.' "${WHEN:-콘솔의 리셋 시각}")
+            fi
+            TXT=$(printf '⚠️ 발행은 됐지만 일부 단계가 실패했습니다\n실패: %s\n\n번역·일정 등이 빠졌을 수 있습니다. 대개 API 일시 오류이고 다음 실행에서 채워지지만, 같은 단계가 이틀 연속이면 키 만료를 의심하세요.%s' "$SOFT" "$WHY")
             curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
               --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
               --data-urlencode "text=$TXT" >/dev/null || true
