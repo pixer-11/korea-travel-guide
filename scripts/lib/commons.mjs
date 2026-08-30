@@ -416,6 +416,50 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
 // least 1200px wide, and the hero doubles as og:image — a narrower pick costs
 // the page Discover distribution. Events share the same 1200 floor since
 // 2026-08-28 — the old 600 override is what fed the attach-then-strip churn.
+// Commons file names glue a name together where our title spaces it out
+// ("LeeHi 2019" for our "Lee Hi") and space it out where our title glues it.
+// So the anchor guard compares with every space, underscore and hyphen removed
+// from both sides — without that, an artist whose romanisation is spaced
+// differently had 5+ CC concert photos on Commons and the event stayed
+// photoless (2026-08-09).
+//
+// The trap in that comparison is what the removal lets a name straddle. As a
+// plain substring test over the flattened title, the anchor "u-know" flattens
+// to "uknow" and "Do yo|u know?" flattens to "doyouknow" — which contains it.
+// The U-KNOW post's candidate search came back with sixteen consecutive scanned
+// pages of an old book ("Do you know? - DPLA - …"), burned the whole refusal
+// budget on them, and was then correctly judged a dead search and abandoned
+// (2026-08-30). Vision cannot tell acts apart, so a file like that has to be
+// stopped by the search, not by the gate behind it.
+//
+// So the match must respect where words begin. It may sit entirely INSIDE one
+// word — Commons is full of glued file names, and "FranceNormandieLeMont-
+// SaintMichelAbbaye" is how the Mont-Saint-Michel hero is spelled — or it may
+// span several words as long as it STARTS where a word starts ("Hazrat imam"
+// is the only spelling that satisfies the anchor "hazrati", and that too is a
+// live hero). The one thing it may no longer do is begin in the middle of one
+// word and run into the next. Measured over all 854 live Wikimedia heroes:
+// none of them loses its match.
+const respace = (s) => String(s).toLowerCase().replace(/[\s_-]+/g, '');
+
+export function containsRespaced(text, needle) {
+  const need = respace(needle);
+  if (!need) return false;
+  const words = String(text).toLowerCase().match(/[\p{L}\p{N}]+/gu) || [];
+  // Inside a single word.
+  if (words.some((w) => w.includes(need))) return true;
+  // Or across whole words, starting where one begins.
+  for (let i = 0; i < words.length; i++) {
+    let run = '';
+    for (let j = i; j < words.length; j++) {
+      run += words[j];
+      if (run.startsWith(need)) return true;
+      if (run.length >= need.length) break;
+    }
+  }
+  return false;
+}
+
 export async function commonsBest(query, { mustInclude = [], used, allowPortrait = false, minWidth = 1200, crossCheck = null, minCross = 0, subject = '', near = null, event = false } = {}) {
   // subject/near were added to commonsCandidates for the Instagram carousel and,
   // for a while, ONLY the carousel passed them — so the vantage test and the
@@ -448,9 +492,8 @@ export async function commonsBest(query, { mustInclude = [], used, allowPortrait
       // the anchor guard rejected every real photo of an artist whose romanized
       // name is spaced differently than our title (found 2026-08-09 — Lee Hi
       // had 5+ CC concert photos on Commons and the event stayed photoless).
-      const titleFlat = titleLc.replace(/[\s_-]+/g, '');
       const passesMust = must.length === 0 ||
-        must.some((m) => titleLc.includes(m) || titleFlat.includes(m.replace(/[\s_-]+/g, '')));
+        must.some((m) => titleLc.includes(m) || containsRespaced(titleLc, m));
       // Scenery heroes want a wide banner. For events, the RIGHT image is the
       // performer/athlete — usually a PORTRAIT — so allowPortrait relaxes the
       // aspect gate (still rejecting extreme 1:>1.8 slivers) and lets a real
