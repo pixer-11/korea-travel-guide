@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: busan-yongdusan-park
-srcHash: '1c2860fccfd0'
+srcHash: 'b23d98dd3777'
 title: 龙头山公园:釜山旅游指南 (4.3★)
-description: 龙头山公园（Yongdusan Park）是釜山中区（Jung-gu）的山丘绿地，以釜山塔（Busan Tower）及城市海港美景著称。4.3★（6,557条评价）——游客评价、开放时间与实用贴士。
+description: 龙头山公园（Yongdusan Park）是釜山中区（Jung-gu）的山丘绿地，以釜山塔（Busan Tower）及城市海港美景著称。4.3★（6,575条评价）——游客评价、开放时间与实用贴士。
 quickAnswer: 龙头山公园是釜山中区的山丘绿地，以釜山塔和城市海港美景著称。公园全天24小时开放，建议早些前往——周末最清静的时段是早上7点到8点，而工作日的早晚时段（7am–11pm）人也不算多。如果想独享电梯和观景点，最好避开周末上午10点到晚上9点的人潮高峰。
 faq:
   - q: 乘地铁怎么去龙头山公园？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cameron-highlands-cactus-valley
-srcHash: '86935c8f5e7a'
+srcHash: '1215f60905d3'
 title: 仙人掌谷:金马仑高原(Cameron Highlands)旅游指南(4.0★)
-description: 仙人掌谷(Cactus Valley)是位于金马仑高原(Cameron Highlands)布林千(Brinchang)的一座梯田式山坡花园，种满仙人掌与倒挂金钟，还有各种水果摊位，每日8:00–18:00开放。4.0★(1,338条评价)——看看游客怎么说、开放时间及游览贴士。
+description: 仙人掌谷(Cactus Valley)是位于金马仑高原(Cameron Highlands)布林千(Brinchang)的一座梯田式山坡花园，种满仙人掌与倒挂金钟，还有各种水果摊位，每日8:00–18:00开放。4.0★(1,342条评价)——看看游客怎么说、开放时间及游览贴士。
 quickAnswer: 仙人掌谷(Cactus Valley)是位于布林千(Brinchang)的一座梯田式山坡花园，种满仙人掌与倒挂金钟，还有各种水果摊位，每日8:00–18:00开放。建议一开门就去——无论工作日还是周末,8点到10点都是最清静的时段——尽量避开周末11点到17点的人流高峰。安排一小时左右的游览时间，穿一双抓地力好的鞋应对坡道，并记得带现金去水果摊购物。
 faq:
   - q: 仙人掌谷的开放时间是几点?

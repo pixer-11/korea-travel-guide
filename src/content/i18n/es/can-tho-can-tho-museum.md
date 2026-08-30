@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: can-tho-can-tho-museum
-srcHash: '96d361e7f5bf'
+srcHash: '905f59dedc4b'
 title: 'Museo de Can Tho: Guía de Viaje (4.3★)'
-description: 'El Museo de Can Tho, ubicado en el número 1 de la calle Hòa Bình, en el distrito de Ninh Kiều, es una parada independiente y fácil de incluir en una mañana o tarde en el centro de Can Tho. 4.3★ (736 reseñas): qué dicen los visitantes, horarios y consejos prácticos.'
+description: 'El Museo de Can Tho, ubicado en el número 1 de la calle Hòa Bình, en el distrito de Ninh Kiều, es una parada independiente y fácil de incluir en una mañana o tarde en el centro de Can Tho. 4.3★ (737 reseñas): qué dicen los visitantes, horarios y consejos prácticos.'
 quickAnswer: El Museo de Can Tho, ubicado en el número 1 de la calle Hòa Bình, en el distrito de Ninh Kiều, es una parada independiente y fácil de incluir en una mañana o tarde en el centro de Can Tho. Abre de martes a jueves de 8:00 a 11:00 y de 14:00 a 17:00, y sábados y domingos de 8:00 a 11:00 y de 18:30 a 21:00; permanece cerrado los lunes y viernes, así que conviene planificar la visita teniendo esto en cuenta. Lo ideal es ir un día de semana por la mañana, cuando la galería está casi vacía, o aprovechar el inusual horario nocturno de fin de semana para un recorrido más fresco y tranquilo.
 faq:
   - q: ¿Cuál es el horario del Museo de Can Tho?

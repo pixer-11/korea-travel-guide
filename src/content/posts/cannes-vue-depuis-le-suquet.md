@@ -1,47 +1,74 @@
 ---
 title: 'vue depuis Le Suquet: Cannes Travel Guide'
-description: 'Climb to Le Suquet, Cannes'' old hilltop quarter, and the payoff is the view from beside the Musée de La Castre and its square Tour du Suquet: the whole Baie de Cannes laid out below, La Croisette curving along the water, the Îles de Lérins floating offshore, and the Estérel massif turning red at sunset.'
+description: >-
+  Climb to Le Suquet, Cannes' old hilltop quarter, and the payoff is the view
+  from beside the Musée de La Castre and its square Tour du Suquet: the whole
+  Baie de Cannes laid out below, La Croisette curving along the water, the Îles
+  de Lérins floating offshore, and the Estérel massif turning red at sunset.
 country: France
 region: Cannes
 category: hidden-gem
 pubDate: '2026-07-28T10:02:03.059Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vue_de_Cannes_depuis_le_Suquet.JPG/1920px-Vue_de_Cannes_depuis_le_Suquet.JPG
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vue_de_Cannes_depuis_le_Suquet.JPG/1920px-Vue_de_Cannes_depuis_le_Suquet.JPG
   credit: 'Photo: Alberto Fernandez Fernandez / Wikimedia Commons (CC BY 2.5)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Vue_de_Cannes_depuis_le_Suquet.JPG
+  source: 'https://commons.wikimedia.org/wiki/File:Vue_de_Cannes_depuis_le_Suquet.JPG'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG/1920px-Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG/1920px-Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG
     credit: 'Photo: Copyleft / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Vue_de_Cannes_Le_Suquet_depuis_le_Palais_des_festivals_et_des_congr%C3%A8s_de_Cannes.JPG
 place:
   id: ChIJjZKJaACBzhIR0jKCHxozKtY
   name: vue depuis Le Suquet
-  address: Musée de La Castre, 06400 Cannes, France
+  address: 'Musée de La Castre, 06400 Cannes, France'
   rating: 4.8
-  userRatingsTotal: 68
-  googleMapsUrl: https://maps.google.com/?cid=15432203260429218514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 71
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15432203260429218514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.550447899999995
   lng: 7.0106097
 tags:
   - cannes
   - hidden gem
-quickAnswer: 'Climb to Le Suquet, Cannes'' old hilltop quarter, and the payoff is the view from beside the Musée de La Castre and its square Tour du Suquet: the whole Baie de Cannes laid out below, La Croisette curving along the water, the Îles de Lérins floating offshore, and the Estérel massif turning red at sunset. It''s free, takes about 20–30 minutes to walk up from the port, and is quietest in the early morning or an hour before dusk.'
+quickAnswer: >-
+  Climb to Le Suquet, Cannes' old hilltop quarter, and the payoff is the view
+  from beside the Musée de La Castre and its square Tour du Suquet: the whole
+  Baie de Cannes laid out below, La Croisette curving along the water, the Îles
+  de Lérins floating offshore, and the Estérel massif turning red at sunset.
+  It's free, takes about 20–30 minutes to walk up from the port, and is quietest
+  in the early morning or an hour before dusk.
 faq:
   - q: How do I get to the Le Suquet viewpoint?
-    a: Walk up from the Vieux Port or Cannes train station via Rue Saint-Antoine or Rue du Suquet — about 10–15 minutes on foot, mostly steps and cobbled lanes, ending at Place de la Castre next to the Tour du Suquet.
+    a: >-
+      Walk up from the Vieux Port or Cannes train station via Rue Saint-Antoine
+      or Rue du Suquet — about 10–15 minutes on foot, mostly steps and cobbled
+      lanes, ending at Place de la Castre next to the Tour du Suquet.
   - q: Is there an entrance fee for the view?
-    a: No — the terrace and square around the Musée de La Castre are open public space. You only pay if you want to enter the museum itself.
+    a: >-
+      No — the terrace and square around the Musée de La Castre are open public
+      space. You only pay if you want to enter the museum itself.
   - q: When is the quietest time to visit?
-    a: Early morning or the hour before sunset tend to be calmest; midday in July and August draws more day-trippers doing the old-town loop.
+    a: >-
+      Early morning or the hour before sunset tend to be calmest; midday in July
+      and August draws more day-trippers doing the old-town loop.
   - q: How long should I spend there?
-    a: Plan on 30–40 minutes for the viewpoint and square, longer if you add the museum or a coffee in the surrounding lanes.
+    a: >-
+      Plan on 30–40 minutes for the viewpoint and square, longer if you add the
+      museum or a coffee in the surrounding lanes.
   - q: What else is nearby?
-    a: The Vieux Port and its harborfront restaurants are a short walk downhill, and the Marché Forville food market and the Palais des Festivals are both within about 15 minutes on foot.
+    a: >-
+      The Vieux Port and its harborfront restaurants are a short walk downhill,
+      and the Marché Forville food market and the Palais des Festivals are both
+      within about 15 minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,47 +1,71 @@
 ---
-title: "Gudashengci Temple: Chengdu Travel Guide"
-description: "Gudashengci Temple (大慈寺, also known as Daci Temple) sits in central Jinjiang District, just off Dacisi Road, a short walk from the Taikoo Li shopping complex."
-country: "China"
-region: "Chengdu"
-category: "attraction"
-pubDate: "2026-08-16T07:50:16.885Z"
+title: 'Gudashengci Temple: Chengdu Travel Guide'
+description: >-
+  Gudashengci Temple (大慈寺, also known as Daci Temple) sits in central Jinjiang
+  District, just off Dacisi Road, a short walk from the Taikoo Li shopping
+  complex.
+country: China
+region: Chengdu
+category: attraction
+pubDate: '2026-08-16T07:50:16.885Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gudashengci_Temple_near_the_Xuanzang_Pavillion_Chengdu_2019_1_%E5%8F%A4%E5%A4%A7%E5%9C%A3%E6%85%88%E5%AF%BA%E7%8E%84%E5%A5%98%E6%AE%BF%E7%9A%84%E7%9F%B3%E7%BB%8F.jpg/3840px-Gudashengci_Temple_near_the_Xuanzang_Pavillion_Chengdu_2019_1_%E5%8F%A4%E5%A4%A7%E5%9C%A3%E6%85%88%E5%AF%BA%E7%8E%84%E5%A5%98%E6%AE%BF%E7%9A%84%E7%9F%B3%E7%BB%8F.jpg"
-  credit: "Photo: Breaknet2025 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gudashengci_Temple_near_the_Xuanzang_Pavillion_Chengdu_2019_1_%E5%8F%A4%E5%A4%A7%E5%9C%A3%E6%85%88%E5%AF%BA%E7%8E%84%E5%A5%98%E6%AE%BF%E7%9A%84%E7%9F%B3%E7%BB%8F.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gudashengci_Temple_near_the_Xuanzang_Pavillion_Chengdu_2019_1_%E5%8F%A4%E5%A4%A7%E5%9C%A3%E6%85%88%E5%AF%BA%E7%8E%84%E5%A5%98%E6%AE%BF%E7%9A%84%E7%9F%B3%E7%BB%8F.jpg/3840px-Gudashengci_Temple_near_the_Xuanzang_Pavillion_Chengdu_2019_1_%E5%8F%A4%E5%A4%A7%E5%9C%A3%E6%85%88%E5%AF%BA%E7%8E%84%E5%A5%98%E6%AE%BF%E7%9A%84%E7%9F%B3%E7%BB%8F.jpg
+  credit: 'Photo: Breaknet2025 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Gudashengci_Temple_near_the_Xuanzang_Pavillion_Chengdu_2019_1_%E5%8F%A4%E5%A4%A7%E5%9C%A3%E6%85%88%E5%AF%BA%E7%8E%84%E5%A5%98%E6%AE%BF%E7%9A%84%E7%9F%B3%E7%BB%8F.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJlV6LwUPF7zYRFt1JSK3Wa98"
-  name: "Gudashengci Temple"
-  address: "China, Si Chuan Sheng, Cheng Du Shi, Jin Jiang Qu, 大慈寺路23号 邮政编码: 610021"
+  id: ChIJlV6LwUPF7zYRFt1JSK3Wa98
+  name: Gudashengci Temple
+  address: 'China, Si Chuan Sheng, Cheng Du Shi, Jin Jiang Qu, 大慈寺路23号 邮政编码: 610021'
   rating: 4.8
-  userRatingsTotal: 89
-  googleMapsUrl: "https://maps.google.com/?cid=16099197332696456470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 90
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16099197332696456470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.65441
   lng: 104.08381999999999
-  phone: "+86 28 8667 5711"
+  phone: +86 28 8667 5711
 tags:
-  - "chengdu"
-  - "historic site"
-quickAnswer: "Gudashengci Temple (大慈寺, also known as Daci Temple) sits in central Jinjiang District, just off Dacisi Road, a short walk from the Taikoo Li shopping complex. It's a working Buddhist temple with over a thousand years of history, calm enough that you can wander its courtyards without crowds. Give it 45 minutes to an hour, ideally in the morning before the surrounding lanes fill up."
+  - chengdu
+  - historic site
+quickAnswer: >-
+  Gudashengci Temple (大慈寺, also known as Daci Temple) sits in central Jinjiang
+  District, just off Dacisi Road, a short walk from the Taikoo Li shopping
+  complex. It's a working Buddhist temple with over a thousand years of history,
+  calm enough that you can wander its courtyards without crowds. Give it 45
+  minutes to an hour, ideally in the morning before the surrounding lanes fill
+  up.
 faq:
-  - q: "How do I get to Gudashengci Temple?"
-    a: "It's in Jinjiang District on Dacisi Road, a short walk from Chunxi Road and the Taikoo Li shopping complex. Use that area as your landmark and follow signs toward Dacisi Road."
-  - q: "How much time should I plan for a visit?"
-    a: "45 minutes to an hour is enough to see the courtyards and main halls without rushing, longer if you want to sit and take in the atmosphere."
-  - q: "When is the best time to visit?"
-    a: "Mornings, before the nearby Taikoo Li area gets busy, are the calmest. Weekdays are quieter than weekends."
-  - q: "Is there an entrance fee?"
-    a: "Fees and hours can change, so confirm current details before you go rather than assuming it's free."
-  - q: "What should I wear or bring?"
-    a: "Dress modestly with shoulders and knees covered, as this is an active place of worship, and bring small cash if you'd like to make an offering."
+  - q: How do I get to Gudashengci Temple?
+    a: >-
+      It's in Jinjiang District on Dacisi Road, a short walk from Chunxi Road
+      and the Taikoo Li shopping complex. Use that area as your landmark and
+      follow signs toward Dacisi Road.
+  - q: How much time should I plan for a visit?
+    a: >-
+      45 minutes to an hour is enough to see the courtyards and main halls
+      without rushing, longer if you want to sit and take in the atmosphere.
+  - q: When is the best time to visit?
+    a: >-
+      Mornings, before the nearby Taikoo Li area gets busy, are the calmest.
+      Weekdays are quieter than weekends.
+  - q: Is there an entrance fee?
+    a: >-
+      Fees and hours can change, so confirm current details before you go rather
+      than assuming it's free.
+  - q: What should I wear or bring?
+    a: >-
+      Dress modestly with shoulders and knees covered, as this is an active
+      place of worship, and bring small cash if you'd like to make an offering.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

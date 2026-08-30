@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cameron-highlands-mossy-forest
-srcHash: '13c262741cf0'
+srcHash: '9e179c3025dc'
 title: 'Bosque Musgoso (Mossy Forest): Guía de viaje de Cameron Highlands (4.4★)'
-description: El Bosque Musgoso (Mossy Forest) se encuentra cerca de la cima del Gunung Brinchang, al que se llega por un sendero elevado que comienza junto a la carretera de la torre de telecomunicaciones sobre Brinchang. 4.4★ (4,234 reseñas) — opiniones de los visitantes, horarios y consejos.
+description: El Bosque Musgoso (Mossy Forest) se encuentra cerca de la cima del Gunung Brinchang, al que se llega por un sendero elevado que comienza junto a la carretera de la torre de telecomunicaciones sobre Brinchang. 4.4★ (4,263 reseñas) — opiniones de los visitantes, horarios y consejos.
 quickAnswer: El Bosque Musgoso (Mossy Forest) se encuentra cerca de la cima del Gunung Brinchang, al que se llega por un sendero elevado que comienza junto a la carretera de la torre de telecomunicaciones sobre Brinchang. Abre a diario de 9am a 4pm, el acceso es solo con guía autorizado o tour organizado, y hay que calcular entre 1 y 1.5 horas recorriendo la pasarela elevada. Ve lo más cerca posible de las 9am — las nubes y la llovizna llegan rápido la mayoría de las tardes.
 faq:
   - q: ¿Necesito un guía para entrar al Bosque Musgoso?

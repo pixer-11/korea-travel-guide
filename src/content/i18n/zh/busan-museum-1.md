@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: busan-museum-1
-srcHash: '167b13ed1dd8'
+srcHash: '2fec02160ed2'
 title: MUSEUM 1：釜山旅行指南（4.3★）
-description: MUSEUM 1 是海云台centum city内的一处当代艺术与设计空间，很适合与新世界Centum City店/BEXCO的下午行程搭配游览。4.3★（1,545条评价）——游客怎么说、开放时间和实用小贴士都在这里。
+description: MUSEUM 1 是海云台centum city内的一处当代艺术与设计空间，很适合与新世界Centum City店/BEXCO的下午行程搭配游览。4.3★（1,554条评价）——游客怎么说、开放时间和实用小贴士都在这里。
 quickAnswer: MUSEUM 1 是海云台Centum City内的一处当代艺术与设计空间，很适合与新世界Centum City店/BEXCO的下午行程搭配游览。建议工作日上午10点到晚上7点之间前往，展厅最为清静；如果只能安排在周末，尽量选在上午或傍晚，避开中午到下午6点这段人流高峰。参观时间建议预留90分钟到2小时，才能好好把展览看完。
 faq:
   - q: 不开车的话怎么去MUSEUM 1？

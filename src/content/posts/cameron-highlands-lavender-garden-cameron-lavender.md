@@ -1,44 +1,52 @@
 ---
-title: "Lavender Garden (Cameron Lavender): Cameron Highlands Travel Guide"
-description: "Cameron Lavender (also called Lavender Garden) in Brinchang is a compact hillside garden of lavender rows, flower tunnels and photo spots, open daily 9am–6pm. 4.1★ (12,025 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Cameron Highlands"
-category: "attraction"
-pubDate: "2026-08-19T09:00:26.539Z"
+title: 'Lavender Garden (Cameron Lavender): Cameron Highlands Travel Guide'
+description: >-
+  Cameron Lavender (also called Lavender Garden) in Brinchang is a compact
+  hillside garden of lavender rows, flower tunnels and photo spots, open daily
+  9am–6pm. 4.1★ (12,044 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Cameron Highlands
+category: attraction
+pubDate: '2026-08-19T09:00:26.539Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/52/Pretty_Lavenders_at_Cameron_Lavender_Garden.jpg"
-  credit: "Photo: Pro QueeNia / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pretty_Lavenders_at_Cameron_Lavender_Garden.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/52/Pretty_Lavenders_at_Cameron_Lavender_Garden.jpg
+  credit: 'Photo: Pro QueeNia / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pretty_Lavenders_at_Cameron_Lavender_Garden.jpg
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Lavenders_field_at_Cameron_Lavender_Garden.jpg"
-    credit: "Photo: Pro QueeNia / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lavenders_field_at_Cameron_Lavender_Garden.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/b/b0/Lavenders_field_at_Cameron_Lavender_Garden.jpg
+    credit: 'Photo: Pro QueeNia / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Lavenders_field_at_Cameron_Lavender_Garden.jpg
 place:
-  id: "ChIJS8eFzsFZyjERdjRGfDBSdkQ"
-  name: "Lavender Garden (Cameron Lavender)"
-  address: "59, Tanah Rata, 39000 Brinchang, Pahang, Malaysia"
+  id: ChIJS8eFzsFZyjERdjRGfDBSdkQ
+  name: Lavender Garden (Cameron Lavender)
+  address: '59, Tanah Rata, 39000 Brinchang, Pahang, Malaysia'
   rating: 4.1
-  userRatingsTotal: 12025
-  googleMapsUrl: "https://maps.google.com/?cid=4933220810027840630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12044
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4933220810027840630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 4.5269726
   lng: 101.42655479999999
-  phone: "+60 5-496 1208"
+  phone: +60 5-496 1208
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 17
@@ -52,24 +60,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_516b645342446647526a6452456a795a46737a466538534a496843"
+    venueId: ven_516b645342446647526a6452456a795a46737a466538534a496843
 tags:
-  - "cameron highlands"
-  - "museum"
-quickAnswer: "Cameron Lavender (also called Lavender Garden) in Brinchang is a compact hillside garden of lavender rows, flower tunnels and photo spots, open daily 9am–6pm. It's genuinely busy — weekends see crowds from 10am to 5pm, so aim for a weekday, or the last hour before closing (5–6pm) on weekends. Budget 1–1.5 hours, including the cafe and gift shop."
+  - cameron highlands
+  - museum
+quickAnswer: >-
+  Cameron Lavender (also called Lavender Garden) in Brinchang is a compact
+  hillside garden of lavender rows, flower tunnels and photo spots, open daily
+  9am–6pm. It's genuinely busy — weekends see crowds from 10am to 5pm, so aim
+  for a weekday, or the last hour before closing (5–6pm) on weekends. Budget
+  1–1.5 hours, including the cafe and gift shop.
 faq:
-  - q: "How much time should I budget for Cameron Lavender?"
-    a: "Most visitors spend 60–90 minutes, including a walk through the rows, the cafe, and the gift shop."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the 9am–6pm opening hours. On weekends, the last hour before closing, 5pm–6pm, is the quietest window."
-  - q: "What time should I avoid on weekends?"
-    a: "Try not to arrive between 10am and 5pm on Saturdays or Sundays — that's when tour groups and crowds peak."
-  - q: "How do I get there without a car?"
-    a: "There's no direct public bus; most visitors use Grab, a hired taxi from Tanah Rata or Brinchang, or an organized day tour that bundles it with the tea estates and strawberry farms."
-  - q: "Is it worth combining with other Cameron Highlands stops?"
-    a: "Yes — it sits close to the main tea estate and strawberry farm strip, so it fits naturally into a half-day sightseeing loop rather than a standalone trip."
+  - q: How much time should I budget for Cameron Lavender?
+    a: >-
+      Most visitors spend 60–90 minutes, including a walk through the rows, the
+      cafe, and the gift shop.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calm throughout the 9am–6pm opening hours. On weekends, the
+      last hour before closing, 5pm–6pm, is the quietest window.
+  - q: What time should I avoid on weekends?
+    a: >-
+      Try not to arrive between 10am and 5pm on Saturdays or Sundays — that's
+      when tour groups and crowds peak.
+  - q: How do I get there without a car?
+    a: >-
+      There's no direct public bus; most visitors use Grab, a hired taxi from
+      Tanah Rata or Brinchang, or an organized day tour that bundles it with the
+      tea estates and strawberry farms.
+  - q: Is it worth combining with other Cameron Highlands stops?
+    a: >-
+      Yes — it sits close to the main tea estate and strawberry farm strip, so
+      it fits naturally into a half-day sightseeing loop rather than a
+      standalone trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cameron-highlands-lavender-garden-cameron-lavender
-srcHash: 'b2d7f48167db'
+srcHash: '062d78d98b33'
 title: 薰衣草花园（Cameron Lavender）：金马仑高原旅行指南
-description: 位于福隆港（Brinchang）的金马仑薰衣草园（Cameron Lavender，又称 Lavender Garden）依山而建，规模不大，园内种有成排薰衣草，还有花廊和拍照点，每日 9am–6pm 开放。4.1★（12,025 条评价）——游客怎么说、开放时间和实用建议，一并奉上。
+description: 位于福隆港（Brinchang）的金马仑薰衣草园（Cameron Lavender，又称 Lavender Garden）依山而建，规模不大，园内种有成排薰衣草，还有花廊和拍照点，每日 9am–6pm 开放。4.1★（12,044 条评价）——游客怎么说、开放时间和实用建议，一并奉上。
 quickAnswer: 金马仑薰衣草园（Cameron Lavender，又称 Lavender Garden）坐落在福隆港（Brinchang），是一座依坡而建的小型花园，园内薰衣草成排、花廊点缀，还有不少拍照点，每日 9am–6pm 开放。这里人气确实很旺——周末从 10am 到 5pm 都是人潮，所以最好选平日前往，若只能周末来，就赶在闭园前最后一小时（5–6pm）。算上咖啡厅和礼品店，预留 1–1.5 小时比较合适。
 faq:
   - q: 游览金马仑薰衣草园应该预留多少时间？

@@ -1,34 +1,43 @@
 ---
 title: Babayan Evi in Cappadocia
-description: Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great food at moderate prices) and a Green Star (recognition for sustainable, terroir-driven cooking).
+description: >-
+  Babayan Evi is a traditional Cappadocian restaurant that made history in the
+  region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great
+  food at moderate prices) and a Green Star (recognition for sustainable,
+  terroir-driven cooking).
 country: Turkey
 region: Cappadocia
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/59219805_GJ1RFSkqm70XOoIf5P8eWKgvupopzPVmbHx2FJ0_EFE.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/59219805_GJ1RFSkqm70XOoIf5P8eWKgvupopzPVmbHx2FJ0_EFE.jpg
   credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'
   license: foursquare
-  source: https://foursquare.com/v/508bb5e7e4b08e7b432a0b18
+  source: 'https://foursquare.com/v/508bb5e7e4b08e7b432a0b18'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/47057795_0A5hdVhXr7ReqIhwYiVoZbNx0v949vK3PSp2mhPxA0s.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/47057795_0A5hdVhXr7ReqIhwYiVoZbNx0v949vK3PSp2mhPxA0s.jpg
     credit: 'Photo: Foursquare user content (Babayan Evi Restaurant)'
     license: foursquare
-    source: https://foursquare.com/v/508bb5e7e4b08e7b432a0b18
+    source: 'https://foursquare.com/v/508bb5e7e4b08e7b432a0b18'
 place:
   id: ChIJ9zQN-ctpKhURYesD9qFugs8
   name: Babayan Evi Restaurant
-  address: Yukarı, İbrahimpaşa Köyü İç Yolu No:269 D:285, 50400 İbrahimpaşa/Ürgüp/Nevşehir, Türkiye
+  address: >-
+    Yukarı, İbrahimpaşa Köyü İç Yolu No:269 D:285, 50400
+    İbrahimpaşa/Ürgüp/Nevşehir, Türkiye
   rating: 4.6
-  userRatingsTotal: 149
-  googleMapsUrl: https://maps.google.com/?cid=14952635354719710049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 157
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14952635354719710049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.598890399999995
   lng: 34.848416799999995
-  phone: '+90 543 208 18 97'
+  phone: +90 543 208 18 97
   openingHours:
     - 'Monday: 8:00 AM – 12:00 AM'
     - 'Tuesday: 8:00 AM – 12:00 AM'
@@ -37,23 +46,50 @@ place:
     - 'Friday: 8:00 AM – 12:00 AM'
     - 'Saturday: 8:00 AM – 12:00 AM'
     - 'Sunday: 8:00 AM – 12:00 AM'
+  priceLevel: 3
 tags:
   - cappadocia
   - new & trending
-quickAnswer: Babayan Evi is a traditional Cappadocian restaurant that made history in the region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great food at moderate prices) and a Green Star (recognition for sustainable, terroir-driven cooking). It's worth seeking out for generous, home-style regional plates rooted in local produce rather than tourist-menu fare — but book ahead, as Michelin recognition tends to fill tables fast, and confirm current hours before you go.
+quickAnswer: >-
+  Babayan Evi is a traditional Cappadocian restaurant that made history in the
+  region's first-ever Michelin Guide (2026), earning both a Bib Gourmand (great
+  food at moderate prices) and a Green Star (recognition for sustainable,
+  terroir-driven cooking). It's worth seeking out for generous, home-style
+  regional plates rooted in local produce rather than tourist-menu fare — but
+  book ahead, as Michelin recognition tends to fill tables fast, and confirm
+  current hours before you go.
 faq:
   - q: Do I need a reservation at Babayan Evi?
-    a: Yes — since earning Michelin recognition in 2026, demand has likely increased significantly. Book ahead through the restaurant directly or via your hotel concierge, and confirm current hours before heading over.
+    a: >-
+      Yes — since earning Michelin recognition in 2026, demand has likely
+      increased significantly. Book ahead through the restaurant directly or via
+      your hotel concierge, and confirm current hours before heading over.
   - q: How do I get to Babayan Evi without a car?
-    a: Most visitors base themselves in Göreme, Ürgüp, or Uçhisar and reach restaurants via taxi or hotel shuttle, since Cappadocia's sights and eateries are spread across a valley rather than concentrated in one walkable center.
+    a: >-
+      Most visitors base themselves in Göreme, Ürgüp, or Uçhisar and reach
+      restaurants via taxi or hotel shuttle, since Cappadocia's sights and
+      eateries are spread across a valley rather than concentrated in one
+      walkable center.
   - q: What kind of food does Babayan Evi serve?
-    a: Traditional, generously portioned Cappadocian and Anatolian home-style cooking built around local, seasonal ingredients — the qualities that earned it a Bib Gourmand and a Green Star rather than a fixed tasting-menu format.
+    a: >-
+      Traditional, generously portioned Cappadocian and Anatolian home-style
+      cooking built around local, seasonal ingredients — the qualities that
+      earned it a Bib Gourmand and a Green Star rather than a fixed tasting-menu
+      format.
   - q: Is Babayan Evi expensive?
-    a: The Bib Gourmand designation specifically denotes good food at moderate prices, so expect reasonable value relative to fine dining, though exact prices should be confirmed directly since they weren't published in detail.
+    a: >-
+      The Bib Gourmand designation specifically denotes good food at moderate
+      prices, so expect reasonable value relative to fine dining, though exact
+      prices should be confirmed directly since they weren't published in
+      detail.
   - q: What's the best time of year to combine a meal here with sightseeing?
-    a: April–June and September–November offer mild weather ideal for balloon rides and valley walks, making them the most popular (and most crowded) windows to pair with a Cappadocian meal.
+    a: >-
+      April–June and September–November offer mild weather ideal for balloon
+      rides and valley walks, making them the most popular (and most crowded)
+      windows to pair with a Cappadocian meal.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 ## Why Babayan Evi matters

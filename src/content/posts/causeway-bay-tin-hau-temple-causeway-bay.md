@@ -1,41 +1,51 @@
 ---
-title: "Tin Hau Temple: Causeway Bay Travel Guide (4.0★)"
-description: "Tin Hau Temple sits on Tin Hau Temple Road, a short walk from Causeway Bay's shopping chaos, open daily 9am–4pm. 4.0★ (325 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Causeway Bay"
-category: "attraction"
-pubDate: "2026-08-12T17:11:24.975Z"
+title: 'Tin Hau Temple: Causeway Bay Travel Guide (4.0★)'
+description: >-
+  Tin Hau Temple sits on Tin Hau Temple Road, a short walk from Causeway Bay's
+  shopping chaos, open daily 9am–4pm. 4.0★ (326 reviews) — what visitors say,
+  hours, and tips.
+country: Hong Kong
+region: Causeway Bay
+category: attraction
+pubDate: '2026-08-12T17:11:24.975Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tin_Hau_Temple_Causeway_Bay_Hong_Kong.jpg/1920px-Tin_Hau_Temple_Causeway_Bay_Hong_Kong.jpg"
-  credit: "Photo: Pascal Leclerc / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tin_Hau_Temple_Causeway_Bay_Hong_Kong.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tin_Hau_Temple_Causeway_Bay_Hong_Kong.jpg/1920px-Tin_Hau_Temple_Causeway_Bay_Hong_Kong.jpg
+  credit: 'Photo: Pascal Leclerc / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Tin_Hau_Temple_Causeway_Bay_Hong_Kong.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tin_Hau_temple_at_Causeway_Bay%2C_2013-09-21.jpg/3840px-Tin_Hau_temple_at_Causeway_Bay%2C_2013-09-21.jpg"
-    credit: "Photo: Kalatpadai / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tin_Hau_temple_at_Causeway_Bay,_2013-09-21.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tin_Hau_temple_at_Causeway_Bay%2C_2013-09-21.jpg/3840px-Tin_Hau_temple_at_Causeway_Bay%2C_2013-09-21.jpg
+    credit: 'Photo: Kalatpadai / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tin_Hau_temple_at_Causeway_Bay,_2013-09-21.jpg
 place:
-  id: "ChIJUT2Vu6oBBDQRsuPGgoetc9o"
-  name: "Tin Hau Temple, Causeway Bay"
-  address: "Ming Tak Mansion, 10號 Tin Hau Temple Rd, Causeway Bay, Hong Kong"
+  id: ChIJUT2Vu6oBBDQRsuPGgoetc9o
+  name: 'Tin Hau Temple, Causeway Bay'
+  address: >-
+    Ming Tak Mansion, 10號 Tin Hau Temple Rd, Causeway Bay, Hong Kong Island,
+    Hong Kong
   rating: 4
-  userRatingsTotal: 325
-  googleMapsUrl: "https://maps.google.com/?cid=15741115920116278194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 326
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15741115920116278194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.282185899999998
   lng: 114.1927491
-  phone: "+852 2570 1937"
+  phone: +852 2570 1937
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -45,24 +55,42 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6f396374656f674750757352514442426f3675563254554a496843"
+    venueId: ven_6f396374656f674750757352514442426f3675563254554a496843
 tags:
-  - "causeway bay"
-  - "top attraction"
-quickAnswer: "Tin Hau Temple sits on Tin Hau Temple Road, a short walk from Causeway Bay's shopping chaos, open daily 9am–4pm. It's calmest right at opening, 9am–10am, before the incense smoke thickens and weekend visitors arrive between 11am and 3pm. Budget 20–30 minutes — this is a small neighbourhood shrine, not a grand complex."
+  - causeway bay
+  - top attraction
+quickAnswer: >-
+  Tin Hau Temple sits on Tin Hau Temple Road, a short walk from Causeway Bay's
+  shopping chaos, open daily 9am–4pm. It's calmest right at opening, 9am–10am,
+  before the incense smoke thickens and weekend visitors arrive between 11am and
+  3pm. Budget 20–30 minutes — this is a small neighbourhood shrine, not a grand
+  complex.
 faq:
-  - q: "How do I get to Tin Hau Temple in Causeway Bay?"
-    a: "Take the MTR Island Line to Tin Hau station and use Exit A2 — the temple on Tin Hau Temple Road is about a two-minute walk from there."
-  - q: "What are the opening hours?"
-    a: "The temple is open daily from 9am to 4pm. There's no late-afternoon or evening access, so plan your visit within that window."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening, 9am–10am, on both weekdays and weekends. Weekends get busiest between 11am and 3pm, so avoid that window if you want a calmer visit."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free. Small donation boxes are available if you'd like to light incense or leave an offering."
-  - q: "How long should I spend here?"
-    a: "Most visitors spend 20–30 minutes. It's a small, single-hall temple rather than a sprawling complex, so it's easy to combine with a visit to nearby Victoria Park."
+  - q: How do I get to Tin Hau Temple in Causeway Bay?
+    a: >-
+      Take the MTR Island Line to Tin Hau station and use Exit A2 — the temple
+      on Tin Hau Temple Road is about a two-minute walk from there.
+  - q: What are the opening hours?
+    a: >-
+      The temple is open daily from 9am to 4pm. There's no late-afternoon or
+      evening access, so plan your visit within that window.
+  - q: When is the quietest time to visit?
+    a: >-
+      Right at opening, 9am–10am, on both weekdays and weekends. Weekends get
+      busiest between 11am and 3pm, so avoid that window if you want a calmer
+      visit.
+  - q: Is there an entrance fee?
+    a: >-
+      No, entry is free. Small donation boxes are available if you'd like to
+      light incense or leave an offering.
+  - q: How long should I spend here?
+    a: >-
+      Most visitors spend 20–30 minutes. It's a small, single-hall temple rather
+      than a sprawling complex, so it's easy to combine with a visit to nearby
+      Victoria Park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: cameron-highlands-mossy-forest
-srcHash: '13c262741cf0'
+srcHash: '9e179c3025dc'
 title: '모시 포레스트: 카메론 하이랜드 여행 가이드 (4.4★)'
-description: 모시 포레스트(Mossy Forest)는 구눙 브린창(Gunung Brinchang) 정상 부근에 있으며, 브린창(Brinchang) 위쪽 통신탑 도로 옆에서 시작되는 산책로(boardwalk)를 통해 갈 수 있습니다. 4.4★ (리뷰 4,234개) — 방문객들의 후기, 운영 시간, 팁을 확인하세요.
+description: 모시 포레스트(Mossy Forest)는 구눙 브린창(Gunung Brinchang) 정상 부근에 있으며, 브린창(Brinchang) 위쪽 통신탑 도로 옆에서 시작되는 산책로(boardwalk)를 통해 갈 수 있습니다. 4.4★ (리뷰 4,263개) — 방문객들의 후기, 운영 시간, 팁을 확인하세요.
 quickAnswer: 모시 포레스트(Mossy Forest)는 구눙 브린창(Gunung Brinchang) 정상 부근에 있으며, 브린창(Brinchang) 위쪽 통신탑 도로 옆에서 시작되는 산책로(boardwalk)를 통해 갈 수 있습니다. 매일 오전 9시부터 오후 4시까지 운영하며, 입장은 반드시 자격을 갖춘 가이드나 단체 투어를 통해서만 가능합니다. 고도로 이어진 산책로를 둘러보는 데 1~1.5시간 정도 예상하면 됩니다. 대부분의 오후에는 구름과 이슬비가 빠르게 몰려오니, 가급적 오전 9시에 가깝게 방문하세요.
 faq:
   - q: 모시 포레스트에 들어가려면 가이드가 필요한가요?

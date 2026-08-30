@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: busan-haedong-yonggungsa-temple
-srcHash: 'e5eb8482ed1a'
+srcHash: '688f24ccac5d'
 title: 'Templo Haedong Yonggungsa: Guía de viaje de Busan (4.5★)'
-description: 'A diferencia de la mayoría de los templos coreanos, escondidos entre montañas, Haedong Yonggungsa es un templo budista construido sobre roca volcánica en plena costa noreste de Busan, justo encima del oleaje. Calificación 4.5★ (27,373 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A diferencia de la mayoría de los templos coreanos, escondidos entre montañas, Haedong Yonggungsa es un templo budista construido sobre roca volcánica en plena costa noreste de Busan, justo encima del oleaje. Calificación 4.5★ (27,557 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A diferencia de la mayoría de los templos coreanos, escondidos entre montañas, Haedong Yonggungsa es un templo budista construido sobre roca volcánica en plena costa noreste de Busan, justo encima del oleaje. Abre todos los días de 4am a 8pm y la entrada es gratuita. Los días de semana hay menos gente entre las 7am y las 8pm; los fines de semana se llena entre las 9am y las 6pm, así que conviene llegar temprano.
 faq:
   - q: ¿Cómo llego a Haedong Yonggungsa sin auto?

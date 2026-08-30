@@ -1,43 +1,49 @@
 ---
-title: "Ninh Kieu Wharf: Can Tho Travel Guide (4.4★)"
-description: "Ninh Kieu Wharf is Can Tho's riverside promenade on the Hau River, open 24 hours, best visited at sunrise or right before sunset for cooler air and river light. 4.4★ (15,806 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Can Tho"
-category: "attraction"
-pubDate: "2026-08-22T07:59:12.899Z"
+title: 'Ninh Kieu Wharf: Can Tho Travel Guide (4.4★)'
+description: >-
+  Ninh Kieu Wharf is Can Tho's riverside promenade on the Hau River, open 24
+  hours, best visited at sunrise or right before sunset for cooler air and river
+  light. 4.4★ (15,824 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Can Tho
+category: attraction
+pubDate: '2026-08-22T07:59:12.899Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/3840px-Ninh_Kieu_Quay.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ninh_Kieu_Quay.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ninh_Kieu_Quay.jpg/3840px-Ninh_Kieu_Quay.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ninh_Kieu_Quay.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ninh_Kieu_Quay_at_night.jpg/3840px-Ninh_Kieu_Quay_at_night.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ninh_Kieu_Quay_at_night.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ninh_Kieu_Quay_at_night.jpg/3840px-Ninh_Kieu_Quay_at_night.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Ninh_Kieu_Quay_at_night.jpg'
 place:
-  id: "ChIJcT7kqphioDERXSiCxdpLpsY"
-  name: "Ninh Kieu Wharf"
-  address: "106 Đ. Hai Bà Trưng, Ninh Kiều, Cần Thơ, Vietnam"
+  id: ChIJcT7kqphioDERXSiCxdpLpsY
+  name: Ninh Kieu Wharf
+  address: '106 Đ. Hai Bà Trưng, Ninh Kiều, Cần Thơ, Vietnam'
   rating: 4.4
-  userRatingsTotal: 15806
-  googleMapsUrl: "https://maps.google.com/?cid=14314211868632295517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15824
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14314211868632295517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.0322715
   lng: 105.7882308
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayBusy:
       - 19
       - 20
@@ -49,24 +55,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5973704c706478436953585245446f696870716b3754634a496843"
+    venueId: ven_5973704c706478436953585245446f696870716b3754634a496843
 tags:
-  - "can tho"
-  - "park"
-quickAnswer: "Ninh Kieu Wharf is Can Tho's riverside promenade on the Hau River, open 24 hours, best visited at sunrise or right before sunset for cooler air and river light. It gets packed on weekend evenings between 5pm and 11pm, so if you want space to actually see the water, come mid-morning or early afternoon instead. Budget an hour for the boardwalk alone, or half a day if you add a boat ride to the floating markets."
+  - can tho
+  - park
+quickAnswer: >-
+  Ninh Kieu Wharf is Can Tho's riverside promenade on the Hau River, open 24
+  hours, best visited at sunrise or right before sunset for cooler air and river
+  light. It gets packed on weekend evenings between 5pm and 11pm, so if you want
+  space to actually see the water, come mid-morning or early afternoon instead.
+  Budget an hour for the boardwalk alone, or half a day if you add a boat ride
+  to the floating markets.
 faq:
-  - q: "Is Ninh Kieu Wharf free to visit?"
-    a: "Yes, walking the riverside park and boardwalk is free. You only pay if you book a boat trip or buy food and drinks from vendors."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning (6-8am) is cooler and quieter. Avoid weekend evenings between 5pm and 11pm, when the promenade is at its busiest."
-  - q: "How do I get to the floating markets from here?"
-    a: "Boats to Cai Rang and Phong Dien floating markets can be arranged at the wharf's pier, though many travelers depart from a quieter dock nearby around 5-6am to catch the markets at peak activity."
-  - q: "How much time should I spend at Ninh Kieu Wharf?"
-    a: "Plan on about an hour to walk the boardwalk and grab street food. Add half a day if you're combining it with a floating-market boat tour."
-  - q: "Is it open at night?"
-    a: "Yes, Ninh Kieu Wharf is open 24 hours daily, and a night market runs along the promenade after dark, though it's also the most crowded time on weekends."
+  - q: Is Ninh Kieu Wharf free to visit?
+    a: >-
+      Yes, walking the riverside park and boardwalk is free. You only pay if you
+      book a boat trip or buy food and drinks from vendors.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning (6-8am) is cooler and quieter. Avoid weekend evenings
+      between 5pm and 11pm, when the promenade is at its busiest.
+  - q: How do I get to the floating markets from here?
+    a: >-
+      Boats to Cai Rang and Phong Dien floating markets can be arranged at the
+      wharf's pier, though many travelers depart from a quieter dock nearby
+      around 5-6am to catch the markets at peak activity.
+  - q: How much time should I spend at Ninh Kieu Wharf?
+    a: >-
+      Plan on about an hour to walk the boardwalk and grab street food. Add half
+      a day if you're combining it with a floating-market boat tour.
+  - q: Is it open at night?
+    a: >-
+      Yes, Ninh Kieu Wharf is open 24 hours daily, and a night market runs along
+      the promenade after dark, though it's also the most crowded time on
+      weekends.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

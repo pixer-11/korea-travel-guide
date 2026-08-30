@@ -1,45 +1,53 @@
 ---
-title: "Cupping Room (Central): Travel Guide (4.0★)"
-description: "Cupping Room on Hollywood Road is a specialty coffee shop on the first floor of Hilltop Plaza in Central, open daily from 8am (9am weekends) to 6pm. 4.0★ (1,126 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Central"
-category: "trendy"
-pubDate: "2026-08-16T09:02:17.816Z"
+title: 'Cupping Room (Central): Travel Guide (4.0★)'
+description: >-
+  Cupping Room on Hollywood Road is a specialty coffee shop on the first floor
+  of Hilltop Plaza in Central, open daily from 8am (9am weekends) to 6pm. 4.0★
+  (1,130 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Central
+category: trendy
+pubDate: '2026-08-16T09:02:17.816Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_shop_Cupping_Room_August_2022_Px3.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_shop_Cupping_Room_August_2022_Px3.jpg"
-  credit: "Photo: Nai Min Buyaut Liam / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_shop_Cupping_Room_August_2022_Px3.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_shop_Cupping_Room_August_2022_Px3.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_shop_Cupping_Room_August_2022_Px3.jpg
+  credit: 'Photo: Nai Min Buyaut Liam / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_shop_Cupping_Room_August_2022_Px3.jpg
   focus:
     x: 75
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/55/HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_Wellington_Street_March_2020_SSG_Cupping_Room_shop.jpg"
-    credit: "Photo: Frenciss Lipz / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_Wellington_Street_March_2020_SSG_Cupping_Room_shop.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/55/HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_Wellington_Street_March_2020_SSG_Cupping_Room_shop.jpg
+    credit: 'Photo: Frenciss Lipz / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E9%96%A3%E9%BA%9F%E8%A1%97_Cochrane_Street_Wellington_Street_March_2020_SSG_Cupping_Room_shop.jpg
 place:
-  id: "ChIJ3VtwXnsABDQRi0eCtkOsA98"
-  name: "Cupping Room (Central)"
-  address: "1/F, Hilltop Plaza, 49 Hollywood Rd, Central, Hong Kong"
+  id: ChIJ3VtwXnsABDQRi0eCtkOsA98
+  name: Cupping Room (Central)
+  address: '1/F, Hilltop Plaza, 49 Hollywood Rd, Central, Hong Kong Island, Hong Kong'
   rating: 4
-  userRatingsTotal: 1126
+  userRatingsTotal: 1130
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=16069877302212839307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16069877302212839307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.282664399999998
   lng: 114.1533882
-  phone: "+852 5523 3988"
+  phone: +852 5523 3988
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -51,24 +59,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_383941734f6b74436530695251444241736e58777456334a496843"
+    venueId: ven_383941734f6b74436530695251444241736e58777456334a496843
 tags:
-  - "central"
-  - "trendy cafe"
-quickAnswer: "Cupping Room on Hollywood Road is a specialty coffee shop on the first floor of Hilltop Plaza in Central, open daily from 8am (9am weekends) to 6pm. Go on a weekday between 8-9am for the quietest tables, and skip weekend afternoons (busy noon-5pm). Expect mid-range prices, third-wave coffee, and an all-day brunch menu."
+  - central
+  - trendy cafe
+quickAnswer: >-
+  Cupping Room on Hollywood Road is a specialty coffee shop on the first floor
+  of Hilltop Plaza in Central, open daily from 8am (9am weekends) to 6pm. Go on
+  a weekday between 8-9am for the quietest tables, and skip weekend afternoons
+  (busy noon-5pm). Expect mid-range prices, third-wave coffee, and an all-day
+  brunch menu.
 faq:
-  - q: "What are the best hours to avoid crowds at Cupping Room?"
-    a: "Go on a weekday between 8am and 9am, right after opening — that's the measured quietest window. Weekend afternoons from noon to 5pm are the busiest, so avoid arriving then if you want a table without waiting."
-  - q: "How do I get to Cupping Room in Central?"
-    a: "The address is 1/F, Hilltop Plaza, 49 Hollywood Rd, Central. Walk about 10-15 minutes uphill from Central or Sheung Wan MTR stations through the PoHo and Hollywood Road antiques district."
-  - q: "What time does Cupping Room open and close?"
-    a: "It opens at 8am Monday to Friday and 9am on Saturday and Sunday, closing at 6pm every day. There's no evening service, so plan a daytime visit."
-  - q: "Is Cupping Room expensive?"
-    a: "It sits at a mid-range price point for Hong Kong — not a budget grab-and-go, but not high-end either. Expect to pay a bit more for specialty single-origin coffee and a full brunch plate than at a standard café."
-  - q: "What's nearby if I want to make a morning of it?"
-    a: "Man Mo Temple is a short walk away, along with the small galleries, antique dealers, and vintage shops that line Hollywood Road and the PoHo pocket around it."
+  - q: What are the best hours to avoid crowds at Cupping Room?
+    a: >-
+      Go on a weekday between 8am and 9am, right after opening — that's the
+      measured quietest window. Weekend afternoons from noon to 5pm are the
+      busiest, so avoid arriving then if you want a table without waiting.
+  - q: How do I get to Cupping Room in Central?
+    a: >-
+      The address is 1/F, Hilltop Plaza, 49 Hollywood Rd, Central. Walk about
+      10-15 minutes uphill from Central or Sheung Wan MTR stations through the
+      PoHo and Hollywood Road antiques district.
+  - q: What time does Cupping Room open and close?
+    a: >-
+      It opens at 8am Monday to Friday and 9am on Saturday and Sunday, closing
+      at 6pm every day. There's no evening service, so plan a daytime visit.
+  - q: Is Cupping Room expensive?
+    a: >-
+      It sits at a mid-range price point for Hong Kong — not a budget
+      grab-and-go, but not high-end either. Expect to pay a bit more for
+      specialty single-origin coffee and a full brunch plate than at a standard
+      café.
+  - q: What's nearby if I want to make a morning of it?
+    a: >-
+      Man Mo Temple is a short walk away, along with the small galleries,
+      antique dealers, and vintage shops that line Hollywood Road and the PoHo
+      pocket around it.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

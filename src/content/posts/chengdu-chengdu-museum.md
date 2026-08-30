@@ -1,43 +1,70 @@
 ---
-title: "Chengdu Museum: Travel Guide (4.3★)"
-description: "Chengdu Museum sits on Tianfu Square in Qingyang District, directly across from the Sichuan Science and Technology Museum — free entry (bring ID/passport to register), and worth two to three hours for the folk-culture and Sichuan opera galleries alone. 4.3★ (129 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Chengdu"
-category: "attraction"
-pubDate: "2026-08-15T08:30:57.944Z"
+title: 'Chengdu Museum: Travel Guide (4.3★)'
+description: >-
+  Chengdu Museum sits on Tianfu Square in Qingyang District, directly across
+  from the Sichuan Science and Technology Museum — free entry (bring ID/passport
+  to register), and worth two to three hours for the folk-culture and Sichuan
+  opera galleries alone. 4.4★ (132 reviews) — what visitors say, hours, and
+  tips.
+country: China
+region: Chengdu
+category: attraction
+pubDate: '2026-08-15T08:30:57.944Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chengdu_Museum_1.jpg/1920px-Chengdu_Museum_1.jpg"
-  credit: "Photo: EditQ / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chengdu_Museum_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chengdu_Museum_1.jpg/1920px-Chengdu_Museum_1.jpg
+  credit: 'Photo: EditQ / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chengdu_Museum_1.jpg'
 gallery: []
 place:
-  id: "ChIJkXHY-drE7zYRZYCcyqwKM8o"
-  name: "Chengdu Museum"
-  address: "China, Si Chuan Sheng, Cheng Du Shi, Qing Yang Qu, 十二桥路18号 邮政编码: 610032"
-  rating: 4.3
-  userRatingsTotal: 129
-  googleMapsUrl: "https://maps.google.com/?cid=14570000956723593317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJkXHY-drE7zYRZYCcyqwKM8o
+  name: Chengdu Museum
+  address: 'China, Si Chuan Sheng, Cheng Du Shi, Qing Yang Qu, 十二桥路18号 邮政编码: 610032'
+  rating: 4.4
+  userRatingsTotal: 132
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14570000956723593317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.663751999999995
   lng: 104.04461800000001
 tags:
-  - "chengdu"
-  - "museum"
-quickAnswer: "Chengdu Museum sits on Tianfu Square in Qingyang District, directly across from the Sichuan Science and Technology Museum — free entry (bring ID/passport to register), and worth two to three hours for the folk-culture and Sichuan opera galleries alone. It's under-the-radar compared to the Jinsha Site Museum across town, so you can actually linger in front of the exhibits without a crowd pressing behind you."
+  - chengdu
+  - museum
+quickAnswer: >-
+  Chengdu Museum sits on Tianfu Square in Qingyang District, directly across
+  from the Sichuan Science and Technology Museum — free entry (bring ID/passport
+  to register), and worth two to three hours for the folk-culture and Sichuan
+  opera galleries alone. It's under-the-radar compared to the Jinsha Site Museum
+  across town, so you can actually linger in front of the exhibits without a
+  crowd pressing behind you.
 faq:
-  - q: "How much does it cost to enter Chengdu Museum?"
-    a: "Entry is free, as with most major public museums in China, but you must register with a passport or government ID at the entrance."
-  - q: "How do I get to Chengdu Museum by metro?"
-    a: "Take Line 1 or Line 2 to Tianfu Square Station — several exits open directly onto the square where the museum sits, opposite the Sichuan Science and Technology Museum."
-  - q: "How long should I spend there?"
-    a: "Plan on two to three hours for the permanent folk culture, history, and opera galleries, longer if a temporary exhibition is running."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings and early afternoons are quietest, especially outside Chinese national holidays — it draws far fewer visitors than Jinsha Site Museum or the Panda Base."
-  - q: "What's nearby if I want to combine a visit?"
-    a: "Tianfu Square itself with its Mao Zedong statue is right outside, and Chunxi Road's shopping and dining district is about a 10-15 minute walk away."
+  - q: How much does it cost to enter Chengdu Museum?
+    a: >-
+      Entry is free, as with most major public museums in China, but you must
+      register with a passport or government ID at the entrance.
+  - q: How do I get to Chengdu Museum by metro?
+    a: >-
+      Take Line 1 or Line 2 to Tianfu Square Station — several exits open
+      directly onto the square where the museum sits, opposite the Sichuan
+      Science and Technology Museum.
+  - q: How long should I spend there?
+    a: >-
+      Plan on two to three hours for the permanent folk culture, history, and
+      opera galleries, longer if a temporary exhibition is running.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings and early afternoons are quietest, especially outside
+      Chinese national holidays — it draws far fewer visitors than Jinsha Site
+      Museum or the Panda Base.
+  - q: What's nearby if I want to combine a visit?
+    a: >-
+      Tianfu Square itself with its Mao Zedong statue is right outside, and
+      Chunxi Road's shopping and dining district is about a 10-15 minute walk
+      away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

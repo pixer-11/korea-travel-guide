@@ -1,22 +1,28 @@
 ---
 title: 'Busan Tower: Travel Guide (4.2★)'
-description: Busan Tower sits atop Yongdusan Park in Jung-gu, giving you a 360-degree view over the harbor, Nampo-dong rooftops, and the hills beyond for the price of a short elevator ride. 4.2★ (9,727 reviews) — what visitors say, hours, and tips.
+description: >-
+  Busan Tower sits atop Yongdusan Park in Jung-gu, giving you a 360-degree view
+  over the harbor, Nampo-dong rooftops, and the hills beyond for the price of a
+  short elevator ride. 4.2★ (9,777 reviews) — what visitors say, hours, and
+  tips.
 country: South Korea
 region: Busan
 category: attraction
 pubDate: '2026-08-09T08:13:27.941Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/39040510_se5B3S13TF4gKyywEvUWIrn_AkhZerl7WLBwW-KGg84.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/39040510_se5B3S13TF4gKyywEvUWIrn_AkhZerl7WLBwW-KGg84.jpg
   credit: 'Photo: Foursquare user content (Busan Tower (부산타워))'
   license: foursquare
-  source: https://foursquare.com/v/4c099874340720a1571d8593
+  source: 'https://foursquare.com/v/4c099874340720a1571d8593'
 place:
   id: ChIJq0OD23TpaDURTv9SBp0VWtI
   name: Busan Tower
-  address: 37-55 Yongdusan-gil, Jung-gu, Busan, South Korea
+  address: '37-55 Yongdusan-gil, Jung-gu, Busan, South Korea'
   rating: 4.2
-  userRatingsTotal: 9727
-  googleMapsUrl: https://maps.google.com/?cid=15157451260028976974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 9777
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15157451260028976974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.101191299999996
   lng: 129.0323697
@@ -51,19 +57,35 @@ place:
 tags:
   - busan
   - viewpoint
-quickAnswer: Busan Tower sits atop Yongdusan Park in Jung-gu, giving you a 360-degree view over the harbor, Nampo-dong rooftops, and the hills beyond for the price of a short elevator ride. It's open daily 10am–10pm and gets packed on weekend afternoons — go on a weekday, or after 9pm on weekends, when the crowds have thinned but the tower's still lit up. Budget an hour, including the walk up through the park.
+quickAnswer: >-
+  Busan Tower sits atop Yongdusan Park in Jung-gu, giving you a 360-degree view
+  over the harbor, Nampo-dong rooftops, and the hills beyond for the price of a
+  short elevator ride. It's open daily 10am–10pm and gets packed on weekend
+  afternoons — go on a weekday, or after 9pm on weekends, when the crowds have
+  thinned but the tower's still lit up. Budget an hour, including the walk up
+  through the park.
 faq:
   - q: What are Busan Tower's opening hours?
-    a: It's open every day from 10am to 10pm, with no midday closure.
+    a: 'It''s open every day from 10am to 10pm, with no midday closure.'
   - q: When is the quietest time to visit?
-    a: Weekdays are calm throughout the full 10am–10pm window. On weekends, the last hour before closing (9–10pm) is the quietest stretch.
+    a: >-
+      Weekdays are calm throughout the full 10am–10pm window. On weekends, the
+      last hour before closing (9–10pm) is the quietest stretch.
   - q: How do I get to Busan Tower without a car?
-    a: Take Busan Metro Line 1 to Nampo Station, use Exit 1 or 7, then walk about 10 minutes uphill through Yongdusan Park, or use the escalator/elevator access near BIFF Square.
+    a: >-
+      Take Busan Metro Line 1 to Nampo Station, use Exit 1 or 7, then walk about
+      10 minutes uphill through Yongdusan Park, or use the escalator/elevator
+      access near BIFF Square.
   - q: How long should I plan for a visit?
-    a: About an hour total, including the walk through Yongdusan Park, time on the observation deck, and a coffee stop if you want one.
+    a: >-
+      About an hour total, including the walk through Yongdusan Park, time on
+      the observation deck, and a coffee stop if you want one.
   - q: What's nearby if I want to make a half-day of it?
-    a: BIFF Square and Gukje Market are both a short walk downhill from the park, making it easy to pair the tower with street food and shopping.
+    a: >-
+      BIFF Square and Gukje Market are both a short walk downhill from the park,
+      making it easy to pair the tower with street food and shopping.
 aiGenerated: true
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

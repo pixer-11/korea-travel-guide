@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: can-tho-cai-rang-floating-market
-srcHash: 'a093baefaefb'
+srcHash: '71254d6ff26e'
 title: 'Mercado flotante de Cai Rang: Guía de viaje de Can Tho (4.1★)'
-description: 'El mercado flotante de Cai Rang funciona las 24 horas en el río Can Tho, pero la actividad real —cientos de botes cargados de piñas, pitahayas y humeantes tazones de sopa de fideos— ocurre entre las 5 y las 8 de la mañana aproximadamente. 4.1★ (8,087 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado flotante de Cai Rang funciona las 24 horas en el río Can Tho, pero la actividad real —cientos de botes cargados de piñas, pitahayas y humeantes tazones de sopa de fideos— ocurre entre las 5 y las 8 de la mañana aproximadamente. 4.1★ (8,104 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado flotante de Cai Rang funciona las 24 horas en el río Can Tho, pero la actividad real —cientos de botes cargados de piñas, pitahayas y humeantes tazones de sopa de fideos— ocurre entre las 5 y las 8 de la mañana aproximadamente. Contrata un bote desde el muelle Ninh Kieu (Ninh Kieu Wharf) la noche anterior o temprano esa misma mañana, calcula una o dos horas en el agua y ve en día de semana si puedes; los fines de semana el lugar está concurrido de 7am a 10pm, mientras que las tardes de días de semana (1pm–3pm) son las más tranquilas.
 faq:
   - q: ¿A qué hora debería llegar al mercado flotante de Cai Rang?

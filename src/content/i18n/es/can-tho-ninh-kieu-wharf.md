@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: can-tho-ninh-kieu-wharf
-srcHash: '9c06376a6534'
+srcHash: '0afa43d5533d'
 title: 'Muelle de Ninh Kieu: guía de viaje de Can Tho (4,4★)'
-description: 'El muelle de Ninh Kieu es el paseo fluvial de Can Tho a orillas del río Hau, abierto las 24 horas; la mejor hora para visitarlo es al amanecer o justo antes del atardecer, cuando el aire es más fresco y la luz sobre el río es más bonita. 4,4★ (15.806 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El muelle de Ninh Kieu es el paseo fluvial de Can Tho a orillas del río Hau, abierto las 24 horas; la mejor hora para visitarlo es al amanecer o justo antes del atardecer, cuando el aire es más fresco y la luz sobre el río es más bonita. 4,4★ (15.824 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El muelle de Ninh Kieu es el paseo fluvial de Can Tho a orillas del río Hau, abierto las 24 horas. Conviene visitarlo al amanecer o justo antes del atardecer, cuando el aire es más fresco y la luz sobre el río resulta más bonita. Los fines de semana, entre las 17:00 y las 23:00, se llena de gente, así que si quieres espacio para contemplar el agua con calma, es mejor ir a media mañana o a primera hora de la tarde. Calcula una hora si solo vas a recorrer el paseo, o medio día si sumas un paseo en barca hasta los mercados flotantes.
 faq:
   - q: ¿Es gratis visitar el muelle de Ninh Kieu?

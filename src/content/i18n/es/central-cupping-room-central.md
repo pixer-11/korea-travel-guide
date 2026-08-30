@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: central-cupping-room-central
-srcHash: 'dbdbce9d2314'
+srcHash: '52f2d641f817'
 title: 'Cupping Room (Central): Guía de Viaje (4.0★)'
-description: 'Cupping Room, en Hollywood Road, es una cafetería de especialidad situada en el primer piso de Hilltop Plaza, en Central, abierta todos los días de 8:00 (9:00 los fines de semana) a 18:00. 4.0★ (1.126 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Cupping Room, en Hollywood Road, es una cafetería de especialidad situada en el primer piso de Hilltop Plaza, en Central, abierta todos los días de 8:00 (9:00 los fines de semana) a 18:00. 4.0★ (1.130 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cupping Room, en Hollywood Road, es una cafetería de especialidad situada en el primer piso de Hilltop Plaza, en Central, abierta todos los días de 8:00 (9:00 los fines de semana) a 18:00. Conviene ir entre semana, entre las 8:00 y las 9:00, para encontrar las mesas más tranquilas, y evitar las tardes de fin de semana, cuando hay más gente (de mediodía a las 17:00). Los precios son de rango medio, el café es de tercera ola y hay una carta de brunch disponible todo el día.
 faq:
   - q: ¿Cuáles son las mejores horas para evitar las aglomeraciones en Cupping Room?

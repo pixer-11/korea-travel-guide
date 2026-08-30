@@ -1,41 +1,50 @@
 ---
-title: "Haedong Yonggungsa Temple: Busan Travel Guide (4.5★)"
-description: "Haedong Yonggungsa is a cliffside Buddhist temple on Busan's northeast coast, built into volcanic rock right above crashing surf — unlike most Korean temples tucked into mountains. 4.5★ (27,373 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Busan"
-category: "attraction"
-pubDate: "2026-08-07T08:51:09.899Z"
+title: 'Haedong Yonggungsa Temple: Busan Travel Guide (4.5★)'
+description: >-
+  Haedong Yonggungsa is a cliffside Buddhist temple on Busan's northeast coast,
+  built into volcanic rock right above crashing surf — unlike most Korean
+  temples tucked into mountains. 4.5★ (27,557 reviews) — what visitors say,
+  hours, and tips.
+country: South Korea
+region: Busan
+category: attraction
+pubDate: '2026-08-07T08:51:09.899Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Haedong_Yonggungsa_Temple_near_Busan.jpg/3840px-Haedong_Yonggungsa_Temple_near_Busan.jpg"
-  credit: "Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Haedong_Yonggungsa_Temple_near_Busan.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Haedong_Yonggungsa_Temple_near_Busan.jpg/3840px-Haedong_Yonggungsa_Temple_near_Busan.jpg
+  credit: 'Photo: Christian Bolz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Haedong_Yonggungsa_Temple_near_Busan.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Haedong_Yonggungsa_Temple%2C_Busan%2C_South_Korea.jpg"
-    credit: "Photo: Anna L Martin / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Haedong_Yonggungsa_Temple,_Busan,_South_Korea.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/2a/Haedong_Yonggungsa_Temple%2C_Busan%2C_South_Korea.jpg
+    credit: 'Photo: Anna L Martin / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Haedong_Yonggungsa_Temple,_Busan,_South_Korea.jpg
 place:
-  id: "ChIJwabeuxuMaDURXC4Rb21AQaE"
-  name: "Haedong Yonggungsa Temple"
-  address: "86 Yonggung-gil, Gijang, Busan, South Korea"
+  id: ChIJwabeuxuMaDURXC4Rb21AQaE
+  name: Haedong Yonggungsa Temple
+  address: '86 Yonggung-gil, Gijang, Busan, South Korea'
   rating: 4.5
-  userRatingsTotal: 27373
-  googleMapsUrl: "https://maps.google.com/?cid=11619639352351600220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 27557
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11619639352351600220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1884543
   lng: 129.2231109
-  phone: "+82 51-722-7744"
+  phone: +82 51-722-7744
   openingHours:
-    - "Monday: 4:00 AM – 8:00 PM"
-    - "Tuesday: 4:00 AM – 8:00 PM"
-    - "Wednesday: 4:00 AM – 8:00 PM"
-    - "Thursday: 4:00 AM – 8:00 PM"
-    - "Friday: 4:00 AM – 8:00 PM"
-    - "Saturday: 4:00 AM – 8:00 PM"
-    - "Sunday: 4:00 AM – 8:00 PM"
+    - 'Monday: 4:00 AM – 8:00 PM'
+    - 'Tuesday: 4:00 AM – 8:00 PM'
+    - 'Wednesday: 4:00 AM – 8:00 PM'
+    - 'Thursday: 4:00 AM – 8:00 PM'
+    - 'Friday: 4:00 AM – 8:00 PM'
+    - 'Saturday: 4:00 AM – 8:00 PM'
+    - 'Sunday: 4:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-07
+    updated: 2026-08-07T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -55,24 +64,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_4561514131326252344358525544614d757875656261774a496843"
+    venueId: ven_4561514131326252344358525544614d757875656261774a496843
 tags:
-  - "busan"
-  - "historic site"
-quickAnswer: "Haedong Yonggungsa is a cliffside Buddhist temple on Busan's northeast coast, built into volcanic rock right above crashing surf — unlike most Korean temples tucked into mountains. It's open daily 4am–8pm and free to enter. Crowds are lightest 7am–8pm on weekdays; weekends get packed 9am–6pm, so go early."
+  - busan
+  - historic site
+quickAnswer: >-
+  Haedong Yonggungsa is a cliffside Buddhist temple on Busan's northeast coast,
+  built into volcanic rock right above crashing surf — unlike most Korean
+  temples tucked into mountains. It's open daily 4am–8pm and free to enter.
+  Crowds are lightest 7am–8pm on weekdays; weekends get packed 9am–6pm, so go
+  early.
 faq:
-  - q: "How do I get to Haedong Yonggungsa without a car?"
-    a: "Take bus 181 from Haeundae or central Busanjin directly to the temple. You can also reach Haeundae Station (Line 2) by subway and grab a taxi or the 181 bus from there."
-  - q: "Is there an entrance fee?"
-    a: "No official ticket is required — entry is free, though donation boxes near the main halls are common for those who wish to contribute."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays and weekends are both calmest between 7am and 8pm. Weekends get busy from 9am to 6pm, so arrive early or come on a weekday to avoid tour groups."
-  - q: "How long should I spend at the temple?"
-    a: "Plan for 1 to 1.5 hours to walk the full path, from the zodiac tunnel down to the main hall and out to the golden Buddha terrace."
-  - q: "What's nearby if I want to extend the trip?"
-    a: "Gijang Market and the Oryukdo Skywalk are both a short drive away, making for an easy half-day combined itinerary in this part of Busan."
+  - q: How do I get to Haedong Yonggungsa without a car?
+    a: >-
+      Take bus 181 from Haeundae or central Busanjin directly to the temple. You
+      can also reach Haeundae Station (Line 2) by subway and grab a taxi or the
+      181 bus from there.
+  - q: Is there an entrance fee?
+    a: >-
+      No official ticket is required — entry is free, though donation boxes near
+      the main halls are common for those who wish to contribute.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays and weekends are both calmest between 7am and 8pm. Weekends get
+      busy from 9am to 6pm, so arrive early or come on a weekday to avoid tour
+      groups.
+  - q: How long should I spend at the temple?
+    a: >-
+      Plan for 1 to 1.5 hours to walk the full path, from the zodiac tunnel down
+      to the main hall and out to the golden Buddha terrace.
+  - q: What's nearby if I want to extend the trip?
+    a: >-
+      Gijang Market and the Oryukdo Skywalk are both a short drive away, making
+      for an easy half-day combined itinerary in this part of Busan.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

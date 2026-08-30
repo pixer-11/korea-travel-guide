@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chengdu-anshun-bridge
-srcHash: '17bf09a9bac9'
+srcHash: 'fed477101d53'
 title: 'Puente Anshun: Guía de viaje de Chengdu (4.6★)'
-description: 'El puente Anshun cruza el río Jin en el distrito de Jin Jiang: un puente cubierto de madera, reconstruido al estilo tradicional, con un restaurante de categoría en su interior. 4.6★ (527 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El puente Anshun cruza el río Jin en el distrito de Jin Jiang: un puente cubierto de madera, reconstruido al estilo tradicional, con un restaurante de categoría en su interior. 4.6★ (530 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El puente Anshun cruza el río Jin en el distrito de Jin Jiang: es un puente cubierto de madera, reconstruido al estilo tradicional, con un restaurante de categoría en su interior. Conviene ir al atardecer para disfrutar primero de la vista diurna del río y quedarse después a ver cómo se encienden los faroles y las luces junto al agua. Es una parada sencilla de 20 a 30 minutos, ideal para combinar con un paseo por el malecón.'
 faq:
   - q: ¿Se paga entrada para visitar el puente Anshun?

@@ -1,46 +1,70 @@
 ---
-title: "Anshun Bridge: Chengdu Travel Guide (4.6★)"
-description: "Anshun Bridge spans the Jin River in Jin Jiang district, a covered wooden bridge rebuilt in traditional style with an upscale restaurant inside. 4.6★ (527 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Chengdu"
-category: "attraction"
-pubDate: "2026-08-16T07:54:04.584Z"
+title: 'Anshun Bridge: Chengdu Travel Guide (4.6★)'
+description: >-
+  Anshun Bridge spans the Jin River in Jin Jiang district, a covered wooden
+  bridge rebuilt in traditional style with an upscale restaurant inside. 4.6★
+  (530 reviews) — what visitors say, hours, and tips.
+country: China
+region: Chengdu
+category: attraction
+pubDate: '2026-08-16T07:54:04.584Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg/1920px-Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg"
-  credit: "Photo: Daniel Lu (User:dllu) / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg/1920px-Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg
+  credit: 'Photo: Daniel Lu (User:dllu) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJW5DuBG_F7zYRlraGfPiu5uI"
-  name: "Anshun Bridge"
-  address: "J3RP+RCF, Bin Jiang Dong Lu, Jin Jiang Qu, Cheng Du Shi, Si Chuan Sheng, China, 610047"
+  id: ChIJW5DuBG_F7zYRlraGfPiu5uI
+  name: Anshun Bridge
+  address: >-
+    J3RP+RCF, Bin Jiang Dong Lu, Jin Jiang Qu, Cheng Du Shi, Si Chuan Sheng,
+    China, 610047
   rating: 4.6
-  userRatingsTotal: 527
-  googleMapsUrl: "https://maps.google.com/?cid=16349947879479490198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 530
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16349947879479490198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 30.642067499999996
   lng: 104.0860563
 tags:
-  - "chengdu"
-  - "night view"
-quickAnswer: "Anshun Bridge spans the Jin River in Jin Jiang district, a covered wooden bridge rebuilt in traditional style with an upscale restaurant inside. Go at dusk so you catch the daylight view of the river and stick around as the lanterns and river lights switch on. It's an easy 20–30 minute stop, best paired with a stroll along the riverside promenade."
+  - chengdu
+  - night view
+quickAnswer: >-
+  Anshun Bridge spans the Jin River in Jin Jiang district, a covered wooden
+  bridge rebuilt in traditional style with an upscale restaurant inside. Go at
+  dusk so you catch the daylight view of the river and stick around as the
+  lanterns and river lights switch on. It's an easy 20–30 minute stop, best
+  paired with a stroll along the riverside promenade.
 faq:
-  - q: "Is there an entrance fee for Anshun Bridge?"
-    a: "No, it's a public bridge and walkway with no admission charge. Only the restaurant inside requires payment, if you choose to dine there."
-  - q: "What's the best time to visit?"
-    a: "Late afternoon through early evening, so you see it in daylight and then watch the night illumination switch on."
-  - q: "How long should I spend there?"
-    a: "Around 20–30 minutes for the bridge itself, longer if you combine it with a walk along the riverside promenade."
-  - q: "How do I get to Anshun Bridge?"
-    a: "It's on Bin Jiang Dong Lu in Jin Jiang district, Chengdu, reachable by taxi, rideshare, or on foot if you're already near the Jin River."
-  - q: "Do I need a reservation to eat at the restaurant inside?"
-    a: "It's advisable to book ahead, since the river-view restaurant inside the bridge is popular, especially for evening dining."
+  - q: Is there an entrance fee for Anshun Bridge?
+    a: >-
+      No, it's a public bridge and walkway with no admission charge. Only the
+      restaurant inside requires payment, if you choose to dine there.
+  - q: What's the best time to visit?
+    a: >-
+      Late afternoon through early evening, so you see it in daylight and then
+      watch the night illumination switch on.
+  - q: How long should I spend there?
+    a: >-
+      Around 20–30 minutes for the bridge itself, longer if you combine it with
+      a walk along the riverside promenade.
+  - q: How do I get to Anshun Bridge?
+    a: >-
+      It's on Bin Jiang Dong Lu in Jin Jiang district, Chengdu, reachable by
+      taxi, rideshare, or on foot if you're already near the Jin River.
+  - q: Do I need a reservation to eat at the restaurant inside?
+    a: >-
+      It's advisable to book ahead, since the river-view restaurant inside the
+      bridge is popular, especially for evening dining.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

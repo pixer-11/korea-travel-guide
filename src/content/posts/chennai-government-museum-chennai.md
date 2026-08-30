@@ -1,36 +1,44 @@
 ---
-title: "Government Museum: Chennai Travel Guide (4.3★)"
-description: "The Government Museum in Egmore is Chennai's best repository of Chola bronzes, stone sculpture and natural history, and it's open daily 10:30am–6:30pm except Fridays. 4.3★ (20,048 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Chennai"
-category: "attraction"
-pubDate: "2026-08-11T08:21:45.975Z"
+title: 'Government Museum: Chennai Travel Guide (4.3★)'
+description: >-
+  The Government Museum in Egmore is Chennai's best repository of Chola bronzes,
+  stone sculpture and natural history, and it's open daily 10:30am–6:30pm except
+  Fridays. 4.3★ (20,110 reviews) — what visitors say, hours, and tips.
+country: India
+region: Chennai
+category: attraction
+pubDate: '2026-08-11T08:21:45.975Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Madras_museum_theatre_in_October_2007.jpg/1920px-Madras_museum_theatre_in_October_2007.jpg"
-  credit: "Photo: L.vivian.richard at English Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Madras_museum_theatre_in_October_2007.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Madras_museum_theatre_in_October_2007.jpg/1920px-Madras_museum_theatre_in_October_2007.jpg
+  credit: >-
+    Photo: L.vivian.richard at English Wikipedia / Wikimedia Commons (Public
+    domain)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Madras_museum_theatre_in_October_2007.jpg
 gallery: []
 place:
-  id: "ChIJ-4qb8w5mUjoRNhwcE3v6B5U"
-  name: "Government Museum Chennai"
-  address: "Pantheon Rd, Egmore, Chennai, Tamil Nadu 600008, India"
+  id: ChIJ-4qb8w5mUjoRNhwcE3v6B5U
+  name: Government Museum Chennai
+  address: 'Pantheon Rd, Egmore, Chennai, Tamil Nadu 600008, India'
   rating: 4.3
-  userRatingsTotal: 20048
-  googleMapsUrl: "https://maps.google.com/?cid=10738827242996767798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20110
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10738827242996767798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.069764099999999
   lng: 80.2570356
   openingHours:
-    - "Monday: 10:30 AM – 6:30 PM"
-    - "Tuesday: 10:30 AM – 6:30 PM"
-    - "Wednesday: 10:30 AM – 6:30 PM"
-    - "Thursday: 10:30 AM – 6:30 PM"
-    - "Friday: Closed"
-    - "Saturday: 10:30 AM – 6:30 PM"
-    - "Sunday: 10:30 AM – 6:30 PM"
+    - 'Monday: 10:30 AM – 6:30 PM'
+    - 'Tuesday: 10:30 AM – 6:30 PM'
+    - 'Wednesday: 10:30 AM – 6:30 PM'
+    - 'Thursday: 10:30 AM – 6:30 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 10:30 AM – 6:30 PM'
+    - 'Sunday: 10:30 AM – 6:30 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekdayBusy:
@@ -48,24 +56,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_553542367633456377684e526f6a556d3577386271342d4a496843"
+    venueId: ven_553542367633456377684e526f6a556d3577386271342d4a496843
 tags:
-  - "chennai"
-  - "top attraction"
-quickAnswer: "The Government Museum in Egmore is Chennai's best repository of Chola bronzes, stone sculpture and natural history, and it's open daily 10:30am–6:30pm except Fridays. Aim for the last hour before closing (5–6pm) when it's quietest — weekends get packed from 11am to 5pm. Budget two to three hours to cover the bronze gallery, the main Bronze/Sculpture galleries in the Pantheon Road complex, and the National Art Gallery next door."
+  - chennai
+  - top attraction
+quickAnswer: >-
+  The Government Museum in Egmore is Chennai's best repository of Chola bronzes,
+  stone sculpture and natural history, and it's open daily 10:30am–6:30pm except
+  Fridays. Aim for the last hour before closing (5–6pm) when it's quietest —
+  weekends get packed from 11am to 5pm. Budget two to three hours to cover the
+  bronze gallery, the main Bronze/Sculpture galleries in the Pantheon Road
+  complex, and the National Art Gallery next door.
 faq:
-  - q: "What are the opening hours?"
-    a: "10:30am–6:30pm every day except Friday, when the museum is closed entirely."
-  - q: "When is the quietest time to visit?"
-    a: "Between 5pm and 6pm, on both weekdays and weekends, right before closing. Weekends from 11am to 5pm are the busiest and worth avoiding if you can."
-  - q: "How long should I spend there?"
-    a: "Two to three hours covers the highlights — the Bronze Gallery, Sculpture Gallery, and National Art Gallery next door. Serious museum-goers can easily spend half a day across all the buildings."
-  - q: "How do I get there by public transport?"
-    a: "Take the Chennai Metro Green Line to Egmore station, then walk 10–15 minutes to Pantheon Road, or catch a short auto-rickshaw from Egmore Railway Station, about 1.5km away."
-  - q: "Is it worth visiting if I'm only in Chennai briefly?"
-    a: "Yes — the bronze gallery alone is considered one of the best collections of Chola-era bronzes anywhere, and it pairs easily with a stop at nearby Egmore's colonial-era railway station architecture."
+  - q: What are the opening hours?
+    a: >-
+      10:30am–6:30pm every day except Friday, when the museum is closed
+      entirely.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 5pm and 6pm, on both weekdays and weekends, right before closing.
+      Weekends from 11am to 5pm are the busiest and worth avoiding if you can.
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours covers the highlights — the Bronze Gallery, Sculpture
+      Gallery, and National Art Gallery next door. Serious museum-goers can
+      easily spend half a day across all the buildings.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the Chennai Metro Green Line to Egmore station, then walk 10–15
+      minutes to Pantheon Road, or catch a short auto-rickshaw from Egmore
+      Railway Station, about 1.5km away.
+  - q: Is it worth visiting if I'm only in Chennai briefly?
+    a: >-
+      Yes — the bronze gallery alone is considered one of the best collections
+      of Chola-era bronzes anywhere, and it pairs easily with a stop at nearby
+      Egmore's colonial-era railway station architecture.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

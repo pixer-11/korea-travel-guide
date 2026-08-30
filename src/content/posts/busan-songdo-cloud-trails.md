@@ -1,56 +1,82 @@
 ---
-title: "Songdo Cloud Trails: Busan Travel Guide (4.4★)"
-description: "Songdo Cloud Trails (송도구름산책로) is a winding wooden-and-steel walkway skimming the rocks along Songdo Beach in Busan's Seo-gu district, with the Songdo cable car gliding overhead and a red-and-white lighthouse at its far end. 4.4★ (6,287 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Busan"
-category: "attraction"
-pubDate: "2026-08-09T08:17:21.827Z"
+title: 'Songdo Cloud Trails: Busan Travel Guide (4.4★)'
+description: >-
+  Songdo Cloud Trails (송도구름산책로) is a winding wooden-and-steel walkway skimming
+  the rocks along Songdo Beach in Busan's Seo-gu district, with the Songdo cable
+  car gliding overhead and a red-and-white lighthouse at its far end. 4.4★
+  (6,289 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Busan
+category: attraction
+pubDate: '2026-08-09T08:17:21.827Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749115681%29.jpg/3840px-Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749115681%29.jpg"
-  credit: "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_(45749115681).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749115681%29.jpg/3840px-Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749115681%29.jpg
+  credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_(45749115681).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749117341%29.jpg/3840px-Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749117341%29.jpg"
-    credit: "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_(45749117341).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749117341%29.jpg/3840px-Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_%2845749117341%29.jpg
+    credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Songdo_Cloud_Trails_Skywalk_Songdo_Beach_Busan_(45749117341).jpg
 place:
-  id: "ChIJgUZBdlroaDURoDPKPaa9jrw"
-  name: "Songdo Cloud Trails"
-  address: "South Korea, Busan, Seo-gu, 암남동 129-4"
+  id: ChIJgUZBdlroaDURoDPKPaa9jrw
+  name: Songdo Cloud Trails
+  address: 'South Korea, Busan, Seo-gu, 암남동 129-4'
   rating: 4.4
-  userRatingsTotal: 6287
-  googleMapsUrl: "https://maps.google.com/?cid=13587005647522247584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6289
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13587005647522247584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.0759423
   lng: 129.02157309999998
-  phone: "+82 51-240-4126"
+  phone: +82 51-240-4126
   openingHours:
-    - "Monday: 6:00 AM – 11:00 PM"
-    - "Tuesday: 6:00 AM – 11:00 PM"
-    - "Wednesday: 6:00 AM – 11:00 PM"
-    - "Thursday: 6:00 AM – 11:00 PM"
-    - "Friday: 6:00 AM – 11:00 PM"
-    - "Saturday: 6:00 AM – 11:00 PM"
-    - "Sunday: 6:00 AM – 11:00 PM"
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 11:00 PM'
+    - 'Saturday: 6:00 AM – 11:00 PM'
+    - 'Sunday: 6:00 AM – 11:00 PM'
 tags:
-  - "busan"
-  - "night view"
-quickAnswer: "Songdo Cloud Trails (송도구름산책로) is a winding wooden-and-steel walkway skimming the rocks along Songdo Beach in Busan's Seo-gu district, with the Songdo cable car gliding overhead and a red-and-white lighthouse at its far end. It's open daily 6am–11pm, free to walk, and takes about 30–45 minutes round trip. Go early morning or after sunset to dodge the crowds that build midday and on weekends."
+  - busan
+  - night view
+quickAnswer: >-
+  Songdo Cloud Trails (송도구름산책로) is a winding wooden-and-steel walkway skimming
+  the rocks along Songdo Beach in Busan's Seo-gu district, with the Songdo cable
+  car gliding overhead and a red-and-white lighthouse at its far end. It's open
+  daily 6am–11pm, free to walk, and takes about 30–45 minutes round trip. Go
+  early morning or after sunset to dodge the crowds that build midday and on
+  weekends.
 faq:
-  - q: "How long does it take to walk Songdo Cloud Trails?"
-    a: "Most people spend 30–45 minutes walking out to the lighthouse and back, longer if you continue onto the Amnam Park coastal trail."
-  - q: "Is there an entrance fee?"
-    a: "No, the walkway itself is free. You only pay if you ride the adjacent Songdo Cable Car."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 6am opening, or after 8pm, are noticeably calmer than midday and weekend afternoons."
-  - q: "How do I get there without a car?"
-    a: "Take Busan Subway Line 1 to Nampo Station, then a bus (6, 7, 30, or 71) toward Songdo Beach, or a 10–15 minute taxi from Nampo-dong."
-  - q: "Can I combine it with other nearby attractions?"
-    a: "Yes — the Songdo Cable Car station is right at the trailhead, and the walkway connects on to Amnam Park's coastal trails."
+  - q: How long does it take to walk Songdo Cloud Trails?
+    a: >-
+      Most people spend 30–45 minutes walking out to the lighthouse and back,
+      longer if you continue onto the Amnam Park coastal trail.
+  - q: Is there an entrance fee?
+    a: >-
+      No, the walkway itself is free. You only pay if you ride the adjacent
+      Songdo Cable Car.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 6am opening, or after 8pm, are
+      noticeably calmer than midday and weekend afternoons.
+  - q: How do I get there without a car?
+    a: >-
+      Take Busan Subway Line 1 to Nampo Station, then a bus (6, 7, 30, or 71)
+      toward Songdo Beach, or a 10–15 minute taxi from Nampo-dong.
+  - q: Can I combine it with other nearby attractions?
+    a: >-
+      Yes — the Songdo Cable Car station is right at the trailhead, and the
+      walkway connects on to Amnam Park's coastal trails.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

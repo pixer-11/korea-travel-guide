@@ -1,54 +1,78 @@
 ---
-title: "Hong Kong Zoological and Botanical Gardens: Central Travel Guide"
-description: "The Hong Kong Zoological and Botanical Gardens in Central are free and open daily from 6am to 7pm, split into an eastern zoo section and a western greenhouse-and-fountain terrace. 4.3★ (568 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Central"
-category: "attraction"
-pubDate: "2026-08-23T08:00:43.505Z"
+title: 'Hong Kong Zoological and Botanical Gardens: Central Travel Guide'
+description: >-
+  The Hong Kong Zoological and Botanical Gardens in Central are free and open
+  daily from 6am to 7pm, split into an eastern zoo section and a western
+  greenhouse-and-fountain terrace. 4.3★ (569 reviews) — what visitors say,
+  hours, and tips.
+country: Hong Kong
+region: Central
+category: attraction
+pubDate: '2026-08-23T08:00:43.505Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hong_Kong_Zoological_and_Botanical_Gardens_Main_Gate.JPG/1920px-Hong_Kong_Zoological_and_Botanical_Gardens_Main_Gate.JPG"
-  credit: "Photo: hkgalbert / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Zoological_and_Botanical_Gardens_Main_Gate.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hong_Kong_Zoological_and_Botanical_Gardens_Main_Gate.JPG/1920px-Hong_Kong_Zoological_and_Botanical_Gardens_Main_Gate.JPG
+  credit: 'Photo: hkgalbert / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hong_Kong_Zoological_and_Botanical_Gardens_Main_Gate.JPG
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJEXtKAB0BBDQReQSWfjg2NSI"
-  name: "Hong Kong Zoological and Botanical Gardens"
-  address: "Albany Rd, Hong Kong Island, Hong Kong"
+  id: ChIJEXtKAB0BBDQReQSWfjg2NSI
+  name: Hong Kong Zoological and Botanical Gardens
+  address: 'Albany Rd, Hong Kong Island, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 568
-  googleMapsUrl: "https://maps.google.com/?cid=2464935987325043833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 569
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2464935987325043833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2773967
   lng: 114.1561675
   openingHours:
-    - "Monday: 6:00 AM – 7:00 PM"
-    - "Tuesday: 6:00 AM – 7:00 PM"
-    - "Wednesday: 6:00 AM – 7:00 PM"
-    - "Thursday: 6:00 AM – 7:00 PM"
-    - "Friday: 6:00 AM – 7:00 PM"
-    - "Saturday: 6:00 AM – 7:00 PM"
-    - "Sunday: 6:00 AM – 7:00 PM"
+    - 'Monday: 6:00 AM – 7:00 PM'
+    - 'Tuesday: 6:00 AM – 7:00 PM'
+    - 'Wednesday: 6:00 AM – 7:00 PM'
+    - 'Thursday: 6:00 AM – 7:00 PM'
+    - 'Friday: 6:00 AM – 7:00 PM'
+    - 'Saturday: 6:00 AM – 7:00 PM'
+    - 'Sunday: 6:00 AM – 7:00 PM'
 tags:
-  - "central"
-  - "park"
-quickAnswer: "The Hong Kong Zoological and Botanical Gardens in Central are free and open daily from 6am to 7pm, split into an eastern zoo section and a western greenhouse-and-fountain terrace. Go early on a weekday, before 9am, when the paths belong to tai chi practitioners and dog walkers rather than tour groups. Budget 45–60 minutes, and pair it with a walk up to Government House or down to Hong Kong Park."
+  - central
+  - park
+quickAnswer: >-
+  The Hong Kong Zoological and Botanical Gardens in Central are free and open
+  daily from 6am to 7pm, split into an eastern zoo section and a western
+  greenhouse-and-fountain terrace. Go early on a weekday, before 9am, when the
+  paths belong to tai chi practitioners and dog walkers rather than tour groups.
+  Budget 45–60 minutes, and pair it with a walk up to Government House or down
+  to Hong Kong Park.
 faq:
-  - q: "Is the Hong Kong Zoological and Botanical Gardens free?"
-    a: "Yes, entry is free and there's no ticket or booking required — just walk in during opening hours."
-  - q: "What are the opening hours?"
-    a: "The gardens are open daily from 6:00 AM to 7:00 PM, with no difference between weekdays and weekends."
-  - q: "How do I get there from Central MTR station?"
-    a: "Take Exit J2 and walk uphill along Garden Road for about 10–15 minutes; Admiralty Station's Exit C1 is a similar distance."
-  - q: "How long should I spend here?"
-    a: "Most visitors need 45 minutes to an hour to cover both the zoo section and the botanical/fountain terrace."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Early morning on a weekday is quietest, when tai chi practitioners and joggers use the grounds before tour groups arrive later in the day."
+  - q: Is the Hong Kong Zoological and Botanical Gardens free?
+    a: >-
+      Yes, entry is free and there's no ticket or booking required — just walk
+      in during opening hours.
+  - q: What are the opening hours?
+    a: >-
+      The gardens are open daily from 6:00 AM to 7:00 PM, with no difference
+      between weekdays and weekends.
+  - q: How do I get there from Central MTR station?
+    a: >-
+      Take Exit J2 and walk uphill along Garden Road for about 10–15 minutes;
+      Admiralty Station's Exit C1 is a similar distance.
+  - q: How long should I spend here?
+    a: >-
+      Most visitors need 45 minutes to an hour to cover both the zoo section and
+      the botanical/fountain terrace.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Early morning on a weekday is quietest, when tai chi practitioners and
+      joggers use the grounds before tour groups arrive later in the day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

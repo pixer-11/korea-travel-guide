@@ -1,41 +1,48 @@
 ---
-title: "Fashion Walk Food Street: Where to Eat in Causeway Bay"
-description: "Fashion Walk Food Street is an open-air cluster of restaurants tucked into the Fashion Walk shopping strip in Causeway Bay, open daily 11:30am–10:30pm."
-country: "Hong Kong"
-region: "Causeway Bay"
-category: "restaurant"
-pubDate: "2026-08-14T09:32:07.404Z"
+title: 'Fashion Walk Food Street: Where to Eat in Causeway Bay'
+description: >-
+  Fashion Walk Food Street is an open-air cluster of restaurants tucked into the
+  Fashion Walk shopping strip in Causeway Bay, open daily 11:30am–10:30pm.
+country: Hong Kong
+region: Causeway Bay
+category: restaurant
+pubDate: '2026-08-14T09:32:07.404Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HK_bus_2_view_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%91%8A%E7%BE%85%E5%A3%AB%E6%89%93%E9%81%93_Gloucester_Road_%E9%A3%9F%E8%A1%97_Fashion_Walk_Food_Street_December_2020_SS2.jpg/3840px-HK_bus_2_view_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%91%8A%E7%BE%85%E5%A3%AB%E6%89%93%E9%81%93_Gloucester_Road_%E9%A3%9F%E8%A1%97_Fashion_Walk_Food_Street_December_2020_SS2.jpg"
-  credit: "Photo: Lam Yuean Geei Sosamz / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_bus_2_view_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%91%8A%E7%BE%85%E5%A3%AB%E6%89%93%E9%81%93_Gloucester_Road_%E9%A3%9F%E8%A1%97_Fashion_Walk_Food_Street_December_2020_SS2.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HK_bus_2_view_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%91%8A%E7%BE%85%E5%A3%AB%E6%89%93%E9%81%93_Gloucester_Road_%E9%A3%9F%E8%A1%97_Fashion_Walk_Food_Street_December_2020_SS2.jpg/3840px-HK_bus_2_view_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%91%8A%E7%BE%85%E5%A3%AB%E6%89%93%E9%81%93_Gloucester_Road_%E9%A3%9F%E8%A1%97_Fashion_Walk_Food_Street_December_2020_SS2.jpg
+  credit: 'Photo: Lam Yuean Geei Sosamz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_bus_2_view_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%91%8A%E7%BE%85%E5%A3%AB%E6%89%93%E9%81%93_Gloucester_Road_%E9%A3%9F%E8%A1%97_Fashion_Walk_Food_Street_December_2020_SS2.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/59/HK_Causeway_Bay_Gloucester_Road_%E5%90%8D%E5%BA%97%E5%9D%8A_Fashion_Walk_food_street_July-2012.jpg"
-    credit: "Photo: Sunmenturso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:HK_Causeway_Bay_Gloucester_Road_%E5%90%8D%E5%BA%97%E5%9D%8A_Fashion_Walk_food_street_July-2012.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/59/HK_Causeway_Bay_Gloucester_Road_%E5%90%8D%E5%BA%97%E5%9D%8A_Fashion_Walk_food_street_July-2012.jpg
+    credit: 'Photo: Sunmenturso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:HK_Causeway_Bay_Gloucester_Road_%E5%90%8D%E5%BA%97%E5%9D%8A_Fashion_Walk_food_street_July-2012.jpg
 place:
-  id: "ChIJ1eUMdFYABDQRWaUtGn67QWw"
-  name: "Fashion Walk Food Street"
-  address: "Causeway Bay, Hong Kong"
+  id: ChIJ1eUMdFYABDQRWaUtGn67QWw
+  name: Fashion Walk Food Street
+  address: 'Causeway Bay, Hong Kong Island, Hong Kong'
   rating: 4.1
   userRatingsTotal: 94
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=7800722179861882201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7800722179861882201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2823583
   lng: 114.18525319999999
   openingHours:
-    - "Monday: 11:30 AM – 10:30 PM"
-    - "Tuesday: 11:30 AM – 10:30 PM"
-    - "Wednesday: 11:30 AM – 10:30 PM"
-    - "Thursday: 11:30 AM – 10:30 PM"
-    - "Friday: 11:30 AM – 10:30 PM"
-    - "Saturday: 11:30 AM – 10:30 PM"
-    - "Sunday: 11:30 AM – 10:30 PM"
+    - 'Monday: 11:30 AM – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 10:30 PM'
+    - 'Thursday: 11:30 AM – 10:30 PM'
+    - 'Friday: 11:30 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 10:30 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 16
       - 21
@@ -48,24 +55,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_77575137366e477455615752514442415946644d5565314a496843"
+    venueId: ven_77575137366e477455615752514442415946644d5565314a496843
 tags:
-  - "causeway bay"
-  - "street food"
-quickAnswer: "Fashion Walk Food Street is an open-air cluster of restaurants tucked into the Fashion Walk shopping strip in Causeway Bay, open daily 11:30am–10:30pm. It's mid-range, easygoing, and less packed than the malls nearby — weekdays from 4pm–10pm are the calmest window. Skip the 1pm–9pm weekend crunch if you want a table without waiting."
+  - causeway bay
+  - street food
+quickAnswer: >-
+  Fashion Walk Food Street is an open-air cluster of restaurants tucked into the
+  Fashion Walk shopping strip in Causeway Bay, open daily 11:30am–10:30pm. It's
+  mid-range, easygoing, and less packed than the malls nearby — weekdays from
+  4pm–10pm are the calmest window. Skip the 1pm–9pm weekend crunch if you want a
+  table without waiting.
 faq:
-  - q: "How do I get to Fashion Walk Food Street?"
-    a: "Take the MTR Island Line to Causeway Bay Station and leave via exit F1 or F2. It's a short walk along Kingston Street/Cleveland Street into the Fashion Walk shopping area."
-  - q: "What time is quietest to visit?"
-    a: "Weekdays between 4pm and 10pm are the calmest stretch. Weekends get busy from 1pm and stay crowded until around 9pm, so avoid that window if you can."
-  - q: "What's the price range like?"
-    a: "It's mid-range overall — mostly casual, shareable dishes from independent stalls, so you can eat cheaply at one counter and splash out slightly more at another."
-  - q: "How long should I spend there?"
-    a: "An hour to 90 minutes is enough to walk the strip, order from a couple of stalls, and grab dessert on the way out."
-  - q: "What's nearby if I want to combine a visit?"
-    a: "Victoria Park and Times Square shopping centre are both within a short walk, making this an easy add-on to a Causeway Bay shopping day."
+  - q: How do I get to Fashion Walk Food Street?
+    a: >-
+      Take the MTR Island Line to Causeway Bay Station and leave via exit F1 or
+      F2. It's a short walk along Kingston Street/Cleveland Street into the
+      Fashion Walk shopping area.
+  - q: What time is quietest to visit?
+    a: >-
+      Weekdays between 4pm and 10pm are the calmest stretch. Weekends get busy
+      from 1pm and stay crowded until around 9pm, so avoid that window if you
+      can.
+  - q: What's the price range like?
+    a: >-
+      It's mid-range overall — mostly casual, shareable dishes from independent
+      stalls, so you can eat cheaply at one counter and splash out slightly more
+      at another.
+  - q: How long should I spend there?
+    a: >-
+      An hour to 90 minutes is enough to walk the strip, order from a couple of
+      stalls, and grab dessert on the way out.
+  - q: What's nearby if I want to combine a visit?
+    a: >-
+      Victoria Park and Times Square shopping centre are both within a short
+      walk, making this an easy add-on to a Causeway Bay shopping day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

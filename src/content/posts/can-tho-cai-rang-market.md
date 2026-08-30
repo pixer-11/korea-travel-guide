@@ -1,58 +1,86 @@
 ---
-title: "Cai Rang Market: Can Tho Travel Guide (4.4★)"
-description: "Cai Rang floating market runs daily from roughly 5am to 8am, before the Mekong sun gets brutal and before the wholesale boats thin out. 4.4★ (812 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Can Tho"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:27:43.379Z"
+title: 'Cai Rang Market: Can Tho Travel Guide (4.4★)'
+description: >-
+  Cai Rang floating market runs daily from roughly 5am to 8am, before the Mekong
+  sun gets brutal and before the wholesale boats thin out. 4.4★ (813 reviews) —
+  what visitors say, hours, and tips.
+country: Vietnam
+region: Can Tho
+category: hidden-gem
+pubDate: '2026-08-18T08:27:43.379Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cai_Rang_Floating_Market_6.jpg/3840px-Cai_Rang_Floating_Market_6.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cai_Rang_Floating_Market_6.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cai_Rang_Floating_Market_6.jpg/3840px-Cai_Rang_Floating_Market_6.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cai_Rang_Floating_Market_6.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/71/Cho_noi_%28Cai_Rang%2C_Can_Tho%29.JPG"
-    credit: "Photo: David at Dutch Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cho_noi_(Cai_Rang,_Can_Tho).JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/71/Cho_noi_%28Cai_Rang%2C_Can_Tho%29.JPG
+    credit: 'Photo: David at Dutch Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cho_noi_(Cai_Rang,_Can_Tho).JPG'
 place:
-  id: "ChIJjb2KSHSJoDERpEw6Y-sA8oA"
-  name: "Cai Rang Market"
-  address: "63/2 Trần Hưng Đạo, Cái Răng, Cần Thơ, Vietnam"
+  id: ChIJjb2KSHSJoDERpEw6Y-sA8oA
+  name: Cai Rang Market
+  address: '63/2 Trần Hưng Đạo, Cái Răng, Cần Thơ, Vietnam'
   rating: 4.4
-  userRatingsTotal: 812
-  googleMapsUrl: "https://maps.google.com/?cid=9291489992200834212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 813
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9291489992200834212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.0061059
   lng: 105.7509338
   openingHours:
-    - "Monday: 2:00 AM – 9:00 PM"
-    - "Tuesday: 2:00 AM – 9:00 PM"
-    - "Wednesday: 2:00 AM – 9:00 PM"
-    - "Thursday: 2:00 AM – 9:00 PM"
-    - "Friday: 2:00 AM – 9:00 PM"
-    - "Saturday: 2:00 AM – 9:00 PM"
-    - "Sunday: 2:00 AM – 9:00 PM"
+    - 'Monday: 2:00 AM – 9:00 PM'
+    - 'Tuesday: 2:00 AM – 9:00 PM'
+    - 'Wednesday: 2:00 AM – 9:00 PM'
+    - 'Thursday: 2:00 AM – 9:00 PM'
+    - 'Friday: 2:00 AM – 9:00 PM'
+    - 'Saturday: 2:00 AM – 9:00 PM'
+    - 'Sunday: 2:00 AM – 9:00 PM'
 tags:
-  - "can tho"
-  - "local market"
-quickAnswer: "Cai Rang floating market runs daily from roughly 5am to 8am, before the Mekong sun gets brutal and before the wholesale boats thin out. Hire a boat from Ninh Kieu wharf in central Can Tho (about a 30-45 minute ride) or book a homestay tour that departs around 5am. Go for the fruit boats, the hanging \"bẹo\" poles advertising cargo, and a bowl of noodles cooked right on the water."
+  - can tho
+  - local market
+quickAnswer: >-
+  Cai Rang floating market runs daily from roughly 5am to 8am, before the Mekong
+  sun gets brutal and before the wholesale boats thin out. Hire a boat from Ninh
+  Kieu wharf in central Can Tho (about a 30-45 minute ride) or book a homestay
+  tour that departs around 5am. Go for the fruit boats, the hanging "bẹo" poles
+  advertising cargo, and a bowl of noodles cooked right on the water.
 faq:
-  - q: "What time should I arrive at Cai Rang floating market?"
-    a: "Aim to be on the water by 6am. The market technically opens at 2am for wholesale trading, but the lively boat-to-boat commerce visitors come for is best between roughly 5am and 8am, before vendors start heading home."
-  - q: "How do I get to Cai Rang from Can Tho city center?"
-    a: "Take a boat from Ninh Kieu wharf, about a 30-45 minute ride downstream on the Hau River. Hotels and homestays typically arrange this the night before; independent travelers can also negotiate directly with boatmen at the wharf."
-  - q: "How much does a boat trip cost?"
-    a: "Prices vary by boat size, group size, and negotiation, so there's no fixed rate — agree on the price with your boatman or tour operator before setting off rather than after boarding."
-  - q: "How long should I spend at the market?"
-    a: "Budget 2-3 hours round trip from Ninh Kieu wharf, including time drifting through the market itself. Many trips also add a short detour into narrower canals for a quieter, slower contrast."
-  - q: "Is Cai Rang crowded with tourists?"
-    a: "It stays relatively under-the-radar compared to markets nearer Ho Chi Minh City, and is still primarily a working wholesale market. Weekdays are calmer than weekends, when more group tours arrive."
+  - q: What time should I arrive at Cai Rang floating market?
+    a: >-
+      Aim to be on the water by 6am. The market technically opens at 2am for
+      wholesale trading, but the lively boat-to-boat commerce visitors come for
+      is best between roughly 5am and 8am, before vendors start heading home.
+  - q: How do I get to Cai Rang from Can Tho city center?
+    a: >-
+      Take a boat from Ninh Kieu wharf, about a 30-45 minute ride downstream on
+      the Hau River. Hotels and homestays typically arrange this the night
+      before; independent travelers can also negotiate directly with boatmen at
+      the wharf.
+  - q: How much does a boat trip cost?
+    a: >-
+      Prices vary by boat size, group size, and negotiation, so there's no fixed
+      rate — agree on the price with your boatman or tour operator before
+      setting off rather than after boarding.
+  - q: How long should I spend at the market?
+    a: >-
+      Budget 2-3 hours round trip from Ninh Kieu wharf, including time drifting
+      through the market itself. Many trips also add a short detour into
+      narrower canals for a quieter, slower contrast.
+  - q: Is Cai Rang crowded with tourists?
+    a: >-
+      It stays relatively under-the-radar compared to markets nearer Ho Chi Minh
+      City, and is still primarily a working wholesale market. Weekdays are
+      calmer than weekends, when more group tours arrive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

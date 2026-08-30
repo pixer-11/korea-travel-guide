@@ -1,38 +1,45 @@
 ---
-title: "Mak's Noodle: Where to Eat in Central (4.1★)"
-description: "Mak's Noodle on Wellington Street in Central serves small, precise bowls of wonton noodles — thin egg noodles, springy shrimp wontons, a clean pork-bone broth — in a narrow shopfront that's been doing this for decades. 4.1★ (2,283 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Central"
-category: "restaurant"
-pubDate: "2026-08-15T08:29:54.720Z"
+title: 'Mak''s Noodle: Where to Eat in Central (4.1★)'
+description: >-
+  Mak's Noodle on Wellington Street in Central serves small, precise bowls of
+  wonton noodles — thin egg noodles, springy shrimp wontons, a clean pork-bone
+  broth — in a narrow shopfront that's been doing this for decades. 4.1★ (2,294
+  reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Central
+category: restaurant
+pubDate: '2026-08-15T08:29:54.720Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg/3840px-Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Causeway_Bay_Mak;s_Noodle_21-01-2023.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg/3840px-Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Causeway_Bay_Mak;s_Noodle_21-01-2023.jpg
 gallery: []
 place:
-  id: "ChIJcSK1XXsABDQRNqW5u_vh6So"
-  name: "Mak's Noodle"
-  address: "77 Wellington St, Central, Hong Kong"
+  id: ChIJcSK1XXsABDQRNqW5u_vh6So
+  name: Mak's Noodle
+  address: '77 Wellington St, Central, Hong Kong Island, Hong Kong'
   rating: 4.1
-  userRatingsTotal: 2283
+  userRatingsTotal: 2294
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=3092251090469102902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3092251090469102902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.282999999999998
   lng: 114.1546339
-  phone: "+852 2854 3810"
+  phone: +852 2854 3810
   openingHours:
-    - "Monday: 11:00 AM – 9:00 PM"
-    - "Tuesday: 11:00 AM – 9:00 PM"
-    - "Wednesday: 11:00 AM – 9:00 PM"
-    - "Thursday: 11:00 AM – 9:00 PM"
-    - "Friday: 11:00 AM – 9:00 PM"
-    - "Saturday: 11:00 AM – 9:00 PM"
-    - "Sunday: 11:00 AM – 9:00 PM"
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 17
       - 20
@@ -45,24 +52,45 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6f533668765f753557714e5251444241735858314b53634a496843"
+    venueId: ven_6f533668765f753557714e5251444241735858314b53634a496843
 tags:
-  - "central"
-  - "street food"
-quickAnswer: "Mak's Noodle on Wellington Street in Central serves small, precise bowls of wonton noodles — thin egg noodles, springy shrimp wontons, a clean pork-bone broth — in a narrow shopfront that's been doing this for decades. Go on the earlier or later side; weekday afternoons from 5-9pm and weekends after 8pm are noticeably calmer than the 11am-3pm weekend crush. It's open daily 11am-9pm, budget-friendly, and best treated as a quick, focused stop rather than a leisurely meal."
+  - central
+  - street food
+quickAnswer: >-
+  Mak's Noodle on Wellington Street in Central serves small, precise bowls of
+  wonton noodles — thin egg noodles, springy shrimp wontons, a clean pork-bone
+  broth — in a narrow shopfront that's been doing this for decades. Go on the
+  earlier or later side; weekday afternoons from 5-9pm and weekends after 8pm
+  are noticeably calmer than the 11am-3pm weekend crush. It's open daily
+  11am-9pm, budget-friendly, and best treated as a quick, focused stop rather
+  than a leisurely meal.
 faq:
-  - q: "What should I order at Mak's Noodle?"
-    a: "The house specialty: wonton noodles, thin egg noodles in pork-bone broth with shrimp wontons. Portions are small, so many diners add a side of blanched choi sum or a second bowl."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday afternoons from 5pm to 9pm, or weekends after 8pm. Avoid weekend late-morning to early afternoon (11am-3pm), which is consistently the busiest stretch."
-  - q: "How do I get to Mak's Noodle by MTR?"
-    a: "It's at 77 Wellington Street, about a 5-8 minute walk from Central Station (Exits D1/D2) or Sheung Wan Station (Exit E2)."
-  - q: "How much does a meal cost?"
-    a: "Mak's is budget-friendly by Hong Kong standards, priced for a quick, small bowl rather than a full sit-down meal — expect a modest, casual-eatery price point."
-  - q: "How long should I plan to stay?"
-    a: "Most diners are in and out within 15-20 minutes. It's built for a fast, focused meal, not lingering."
+  - q: What should I order at Mak's Noodle?
+    a: >-
+      The house specialty: wonton noodles, thin egg noodles in pork-bone broth
+      with shrimp wontons. Portions are small, so many diners add a side of
+      blanched choi sum or a second bowl.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday afternoons from 5pm to 9pm, or weekends after 8pm. Avoid weekend
+      late-morning to early afternoon (11am-3pm), which is consistently the
+      busiest stretch.
+  - q: How do I get to Mak's Noodle by MTR?
+    a: >-
+      It's at 77 Wellington Street, about a 5-8 minute walk from Central Station
+      (Exits D1/D2) or Sheung Wan Station (Exit E2).
+  - q: How much does a meal cost?
+    a: >-
+      Mak's is budget-friendly by Hong Kong standards, priced for a quick, small
+      bowl rather than a full sit-down meal — expect a modest, casual-eatery
+      price point.
+  - q: How long should I plan to stay?
+    a: >-
+      Most diners are in and out within 15-20 minutes. It's built for a fast,
+      focused meal, not lingering.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

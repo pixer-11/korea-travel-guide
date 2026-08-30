@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: central-tai-kwun
-srcHash: '2291df47ed50'
+srcHash: '6064b46fa709'
 title: 'Tai Kwun: guía de viaje de Central (4.4★)'
-description: 'Tai Kwun, el antiguo complejo de la Comisaría Central en Hollywood Road, abre todos los días de 8:00 a 23:00 y la entrada es gratuita. 4.4★ (13.792 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Tai Kwun, el antiguo complejo de la Comisaría Central en Hollywood Road, abre todos los días de 8:00 a 23:00 y la entrada es gratuita. 4.4★ (13.811 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Tai Kwun, el antiguo complejo de la Comisaría Central en Hollywood Road, abre todos los días de 8:00 a 23:00 y la entrada es gratuita. Es un lugar muy popular, así que conviene llegar justo a las 8:00 o después de las 19:00 para recorrer los patios de granito y los antiguos calabozos sin aglomeraciones, ya que los fines de semana el aforo se llena rápido entre el mediodía y las 19:00. Calcule entre 2 y 3 horas para ver los edificios históricos, el espacio de arte JC Contemporary y los bares instalados en los antiguos cuarteles.
 faq:
   - q: ¿La entrada a Tai Kwun es gratuita?

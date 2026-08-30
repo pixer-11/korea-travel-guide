@@ -1,27 +1,34 @@
 ---
 title: 'Gamcheon Culture Village: Busan Travel Guide'
-description: Gamcheon Culture Village is a hillside neighborhood of pastel-colored houses, murals, and small galleries in Busan's Saha-gu district — best reached by taxi or bus from Toseong Station (Line 1, Exit 6).
+description: >-
+  Gamcheon Culture Village is a hillside neighborhood of pastel-colored houses,
+  murals, and small galleries in Busan's Saha-gu district — best reached by taxi
+  or bus from Toseong Station (Line 1, Exit 6).
 country: South Korea
 region: Busan
 category: hidden-gem
 pubDate: '2026-07-24T22:24:22.371Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg/1920px-Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg/1920px-Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gamcheon_Culture_Village.jpg/1920px-Gamcheon_Culture_Village.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gamcheon_Culture_Village.jpg/1920px-Gamcheon_Culture_Village.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village.jpg'
 place:
   id: ChIJUToRo7fpaDURo_ZMItcBfpc
   name: Gamcheon Culture Village
-  address: 203 Gamnae 2-ro, Saha-gu, Busan, South Korea
+  address: '203 Gamnae 2-ro, Saha-gu, Busan, South Korea'
   rating: 4.4
-  userRatingsTotal: 32853
-  googleMapsUrl: https://maps.google.com/?cid=10916164570297726627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 33113
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10916164570297726627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.097393499999995
   lng: 129.0105921
@@ -37,20 +44,41 @@ place:
 tags:
   - busan
   - hidden gem
-quickAnswer: Gamcheon Culture Village is a hillside neighborhood of pastel-colored houses, murals, and small galleries in Busan's Saha-gu district — best reached by taxi or bus from Toseong Station (Line 1, Exit 6). Plan on 2–3 hours to wander the stairways, pick up a stamp map at the information center, and catch photos of the terraced rooftops in soft morning or late-afternoon light. It's a well-visited, camera-friendly attraction, so go early or on a weekday to avoid the busiest crowds.
+quickAnswer: >-
+  Gamcheon Culture Village is a hillside neighborhood of pastel-colored houses,
+  murals, and small galleries in Busan's Saha-gu district — best reached by taxi
+  or bus from Toseong Station (Line 1, Exit 6). Plan on 2–3 hours to wander the
+  stairways, pick up a stamp map at the information center, and catch photos of
+  the terraced rooftops in soft morning or late-afternoon light. It's a
+  well-visited, camera-friendly attraction, so go early or on a weekday to avoid
+  the busiest crowds.
 faq:
   - q: How do I get to Gamcheon Culture Village without a car?
-    a: Take Busan Metro Line 1 to Toseong Station, use Exit 6, then catch a short taxi or the local village bus/shuttle up the hill — it's too steep and far to comfortably walk from the station.
+    a: >-
+      Take Busan Metro Line 1 to Toseong Station, use Exit 6, then catch a short
+      taxi or the local village bus/shuttle up the hill — it's too steep and far
+      to comfortably walk from the station.
   - q: Is there an entrance fee?
-    a: The village itself is free to walk through since it's a residential neighborhood; only specific small galleries or museum spaces inside may charge a small admission or request a donation.
+    a: >-
+      The village itself is free to walk through since it's a residential
+      neighborhood; only specific small galleries or museum spaces inside may
+      charge a small admission or request a donation.
   - q: How much time should I budget?
-    a: Plan on 2–3 hours to follow the stamp map and see the main mural spots and viewpoints; photographers or slow explorers can spend 4+ hours.
+    a: >-
+      Plan on 2–3 hours to follow the stamp map and see the main mural spots and
+      viewpoints; photographers or slow explorers can spend 4+ hours.
   - q: When is it least crowded?
-    a: Weekday mornings right after opening, or roughly 90 minutes before sunset, are calmest. Weekends and Korean public holidays are the busiest.
+    a: >-
+      Weekday mornings right after opening, or roughly 90 minutes before sunset,
+      are calmest. Weekends and Korean public holidays are the busiest.
   - q: What else is nearby?
-    a: Jagalchi Fish Market and Nampo-dong's shopping streets are about 15–20 minutes away by taxi, and Songdo Beach with its coastal skywalk is a bit further along the coast.
+    a: >-
+      Jagalchi Fish Market and Nampo-dong's shopping streets are about 15–20
+      minutes away by taxi, and Songdo Beach with its coastal skywalk is a bit
+      further along the coast.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 ## Why go
 

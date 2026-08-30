@@ -1,40 +1,46 @@
 ---
-title: "Tai Kwun: Central Travel Guide (4.4★)"
-description: "Tai Kwun, the former Central Police Station compound on Hollywood Road, is open daily 8am–11pm and free to wander. 4.4★ (13,792 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Central"
-category: "attraction"
-pubDate: "2026-08-18T09:18:11.716Z"
+title: 'Tai Kwun: Central Travel Guide (4.4★)'
+description: >-
+  Tai Kwun, the former Central Police Station compound on Hollywood Road, is
+  open daily 8am–11pm and free to wander. 4.4★ (13,811 reviews) — what visitors
+  say, hours, and tips.
+country: Hong Kong
+region: Central
+category: attraction
+pubDate: '2026-08-18T09:18:11.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg"
-  credit: "Photo: JiayouMei XueAm / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg
+  credit: 'Photo: JiayouMei XueAm / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg
   focus:
     x: 30
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ5wsqFHsABDQRjRR4AEF6Zkg"
-  name: "Tai Kwun"
-  address: "Tai Kwun, 10 Hollywood Rd, Central, Hong Kong"
+  id: ChIJ5wsqFHsABDQRjRR4AEF6Zkg
+  name: Tai Kwun
+  address: 'Tai Kwun, 10 Hollywood Rd, Central, Hong Kong Island, Hong Kong'
   rating: 4.4
-  userRatingsTotal: 13792
-  googleMapsUrl: "https://maps.google.com/?cid=5216991637954630797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13811
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5216991637954630797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.281168599999997
   lng: 114.15402300000001
-  phone: "+852 3559 2600"
+  phone: +852 3559 2600
   openingHours:
-    - "Monday: 8:00 AM – 11:00 PM"
-    - "Tuesday: 8:00 AM – 11:00 PM"
-    - "Wednesday: 8:00 AM – 11:00 PM"
-    - "Thursday: 8:00 AM – 11:00 PM"
-    - "Friday: 8:00 AM – 11:00 PM"
-    - "Saturday: 8:00 AM – 11:00 PM"
-    - "Sunday: 8:00 AM – 11:00 PM"
+    - 'Monday: 8:00 AM – 11:00 PM'
+    - 'Tuesday: 8:00 AM – 11:00 PM'
+    - 'Wednesday: 8:00 AM – 11:00 PM'
+    - 'Thursday: 8:00 AM – 11:00 PM'
+    - 'Friday: 8:00 AM – 11:00 PM'
+    - 'Saturday: 8:00 AM – 11:00 PM'
+    - 'Sunday: 8:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -57,24 +63,44 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_676b5a364645413452526a5251444241734846717377354a496843"
+    venueId: ven_676b5a364645413452526a5251444241734846717377354a496843
 tags:
-  - "central"
-  - "museum"
-quickAnswer: "Tai Kwun, the former Central Police Station compound on Hollywood Road, is open daily 8am–11pm and free to wander. It's very popular, so come right at 8am or after 7pm to see the granite courtyards and cellblocks without crowds — weekends fill up fast between noon and 7pm. Budget 2–3 hours for the heritage buildings, JC Contemporary art space, and the bars tucked into the old barracks."
+  - central
+  - museum
+quickAnswer: >-
+  Tai Kwun, the former Central Police Station compound on Hollywood Road, is
+  open daily 8am–11pm and free to wander. It's very popular, so come right at
+  8am or after 7pm to see the granite courtyards and cellblocks without crowds —
+  weekends fill up fast between noon and 7pm. Budget 2–3 hours for the heritage
+  buildings, JC Contemporary art space, and the bars tucked into the old
+  barracks.
 faq:
-  - q: "Is entry to Tai Kwun free?"
-    a: "Yes, general access to the heritage buildings, courtyards, and most exhibitions is free. Only occasional special ticketed exhibitions charge admission — check signage at the entrance on the day."
-  - q: "What's the nearest MTR station to Tai Kwun?"
-    a: "Central Station (Exit D1) or Sheung Wan Station, both roughly a 10-minute uphill walk. The Central–Mid-Levels Escalator to Hollywood Road is another easy route."
-  - q: "When is Tai Kwun least crowded?"
-    a: "Right at opening (8am) or after 7pm, on both weekdays and weekends. Avoid the noon–7pm window on weekends, when crowds peak."
-  - q: "How long should I spend at Tai Kwun?"
-    a: "Plan on two to three hours to see the Parade Ground, a couple of exhibitions, and the cellblocks, plus time for a coffee or drink."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "Upper Lascar Row (Cat Street) antique market and PMQ design center are both about a five-minute walk away, making an easy combined Central heritage route."
+  - q: Is entry to Tai Kwun free?
+    a: >-
+      Yes, general access to the heritage buildings, courtyards, and most
+      exhibitions is free. Only occasional special ticketed exhibitions charge
+      admission — check signage at the entrance on the day.
+  - q: What's the nearest MTR station to Tai Kwun?
+    a: >-
+      Central Station (Exit D1) or Sheung Wan Station, both roughly a 10-minute
+      uphill walk. The Central–Mid-Levels Escalator to Hollywood Road is another
+      easy route.
+  - q: When is Tai Kwun least crowded?
+    a: >-
+      Right at opening (8am) or after 7pm, on both weekdays and weekends. Avoid
+      the noon–7pm window on weekends, when crowds peak.
+  - q: How long should I spend at Tai Kwun?
+    a: >-
+      Plan on two to three hours to see the Parade Ground, a couple of
+      exhibitions, and the cellblocks, plus time for a coffee or drink.
+  - q: What's nearby if I want to extend the visit?
+    a: >-
+      Upper Lascar Row (Cat Street) antique market and PMQ design center are
+      both about a five-minute walk away, making an easy combined Central
+      heritage route.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

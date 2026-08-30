@@ -1,41 +1,47 @@
 ---
-title: "Oryukdo Skywalk: Busan Travel Guide (4.3★)"
-description: "Oryukdo Skywalk is a free glass-floored cantilever platform in Nam-gu, Busan, jutting 11 meters out over the sea toward Oryukdo island. 4.3★ (11,180 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Busan"
-category: "attraction"
-pubDate: "2026-08-09T08:18:00.545Z"
+title: 'Oryukdo Skywalk: Busan Travel Guide (4.3★)'
+description: >-
+  Oryukdo Skywalk is a free glass-floored cantilever platform in Nam-gu, Busan,
+  jutting 11 meters out over the sea toward Oryukdo island. 4.3★ (11,198
+  reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Busan
+category: attraction
+pubDate: '2026-08-09T08:18:00.545Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Oryukdo_Skywalk.jpg"
-  credit: "Photo: S099001 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oryukdo_Skywalk.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/1e/Oryukdo_Skywalk.jpg'
+  credit: 'Photo: S099001 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Oryukdo_Skywalk.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Oryukdo_Skywalk_in_Busan%2C_South_Korea.jpg/3840px-Oryukdo_Skywalk_in_Busan%2C_South_Korea.jpg"
-    credit: "Photo: Choi2451 / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Oryukdo_Skywalk_in_Busan,_South_Korea.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Oryukdo_Skywalk_in_Busan%2C_South_Korea.jpg/3840px-Oryukdo_Skywalk_in_Busan%2C_South_Korea.jpg
+    credit: 'Photo: Choi2451 / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Oryukdo_Skywalk_in_Busan,_South_Korea.jpg
 place:
-  id: "ChIJVRLdCsjtaDURcdummQTLnRk"
-  name: "Oryukdo Skywalk"
-  address: "137 Oryukdo-ro, Nam-gu, Busan, South Korea"
+  id: ChIJVRLdCsjtaDURcdummQTLnRk
+  name: Oryukdo Skywalk
+  address: '137 Oryukdo-ro, Nam-gu, Busan, South Korea'
   rating: 4.3
-  userRatingsTotal: 11180
-  googleMapsUrl: "https://maps.google.com/?cid=1845854642909928305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11198
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1845854642909928305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1006767
   lng: 129.12440089999998
-  phone: "+82 51-607-6395"
+  phone: +82 51-607-6395
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,24 +55,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6b526e4c54516d6d75646352554461746a7343644c52564a496843"
+    venueId: ven_6b526e4c54516d6d75646352554461746a7343644c52564a496843
 tags:
-  - "busan"
-  - "waterfront"
-quickAnswer: "Oryukdo Skywalk is a free glass-floored cantilever platform in Nam-gu, Busan, jutting 11 meters out over the sea toward Oryukdo island. It's open daily 9am–6pm, and it's busiest on weekends between 10am and 6pm, so a weekday morning right at opening is your calmest bet. Budget 30–45 minutes, and pair it with a walk along the nearby coastal trail."
+  - busan
+  - waterfront
+quickAnswer: >-
+  Oryukdo Skywalk is a free glass-floored cantilever platform in Nam-gu, Busan,
+  jutting 11 meters out over the sea toward Oryukdo island. It's open daily
+  9am–6pm, and it's busiest on weekends between 10am and 6pm, so a weekday
+  morning right at opening is your calmest bet. Budget 30–45 minutes, and pair
+  it with a walk along the nearby coastal trail.
 faq:
-  - q: "How much does it cost to visit Oryukdo Skywalk?"
-    a: "Admission is free. There's no ticket booth or reservation system — you just arrive, remove your shoes for the provided slippers, and walk onto the deck."
-  - q: "What's the quietest time to visit?"
-    a: "Weekday mornings, especially close to the 9am opening, are calmest. Weekends between 10am and 6pm are the busiest window, so avoid that stretch if you want space on the glass floor."
-  - q: "How do I get to Oryukdo Skywalk without a car?"
-    a: "There's no direct subway stop. Take a bus (routes like 27 or 24) from Kyungsung University/Pukyong National University Station on Line 2, a roughly 15–20 minute ride plus a short walk, or grab a taxi from Haeundae or Gwangalli."
-  - q: "How long should I plan to spend there?"
-    a: "The Skywalk itself only takes 5–10 minutes to walk, but with the surrounding SkyPark and boardwalk, plan on 30–45 minutes total."
-  - q: "What else is nearby?"
-    a: "Igidae Park's coastal cliff trail is right alongside the Skywalk, and Oryukdo SkyPark with its lighthouse-shaped observatory is a short walk away — both make good add-ons to the visit."
+  - q: How much does it cost to visit Oryukdo Skywalk?
+    a: >-
+      Admission is free. There's no ticket booth or reservation system — you
+      just arrive, remove your shoes for the provided slippers, and walk onto
+      the deck.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekday mornings, especially close to the 9am opening, are calmest.
+      Weekends between 10am and 6pm are the busiest window, so avoid that
+      stretch if you want space on the glass floor.
+  - q: How do I get to Oryukdo Skywalk without a car?
+    a: >-
+      There's no direct subway stop. Take a bus (routes like 27 or 24) from
+      Kyungsung University/Pukyong National University Station on Line 2, a
+      roughly 15–20 minute ride plus a short walk, or grab a taxi from Haeundae
+      or Gwangalli.
+  - q: How long should I plan to spend there?
+    a: >-
+      The Skywalk itself only takes 5–10 minutes to walk, but with the
+      surrounding SkyPark and boardwalk, plan on 30–45 minutes total.
+  - q: What else is nearby?
+    a: >-
+      Igidae Park's coastal cliff trail is right alongside the Skywalk, and
+      Oryukdo SkyPark with its lighthouse-shaped observatory is a short walk
+      away — both make good add-ons to the visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

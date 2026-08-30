@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: central-mak-s-noodle
-srcHash: '0d0032bc25ef'
+srcHash: '238c30a6fefe'
 title: 'Mak''s Noodle: dónde comer en Central (4.1★)'
-description: 'En Wellington Street, en pleno Central, Mak''s Noodle sirve desde hace décadas cuencos pequeños y precisos de fideos con wonton —fideos de huevo finos, wontons de camarón con textura firme y un caldo limpio de hueso de cerdo— en un local estrecho. 4.1★ (2.283 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'En Wellington Street, en pleno Central, Mak''s Noodle sirve desde hace décadas cuencos pequeños y precisos de fideos con wonton —fideos de huevo finos, wontons de camarón con textura firme y un caldo limpio de hueso de cerdo— en un local estrecho. 4.1★ (2.294 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'En Wellington Street, en pleno Central, Mak''s Noodle sirve desde hace décadas cuencos pequeños y precisos de fideos con wonton: fideos de huevo finos, wontons de camarón con textura firme y un caldo limpio de hueso de cerdo, todo en un local estrecho. Conviene ir más temprano o más tarde: las tardes de entre semana de 17:00 a 21:00 y los fines de semana después de las 20:00 son notablemente más tranquilos que la avalancha de 11:00 a 15:00 en fin de semana. Abre todos los días de 11:00 a 21:00, es económico y conviene tratarlo como una parada rápida y concreta, no como una comida pausada.'
 faq:
   - q: ¿Qué pedir en Mak's Noodle?

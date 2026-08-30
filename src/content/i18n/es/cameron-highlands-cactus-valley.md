@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cameron-highlands-cactus-valley
-srcHash: '86935c8f5e7a'
+srcHash: '1215f60905d3'
 title: 'Cactus Valley: Guía de viaje de Cameron Highlands (4.0★)'
-description: Cactus Valley es un jardín escalonado en la ladera de una colina en Brinchang, repleto de cactus, fucsias y puestos de fruta, abierto todos los días de 8:00 a 18:00. 4.0★ (1,338 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: Cactus Valley es un jardín escalonado en la ladera de una colina en Brinchang, repleto de cactus, fucsias y puestos de fruta, abierto todos los días de 8:00 a 18:00. 4.0★ (1,342 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: Cactus Valley es un jardín escalonado en la ladera de una colina en Brinchang, repleto de cactus, fucsias y puestos de fruta, abierto todos los días de 8:00 a 18:00. Ve justo a la apertura — es más tranquilo de 8:00 a 10:00 tanto entre semana como los fines de semana — y evita la avalancha de 11:00 a 17:00 los fines de semana. Calcula una hora, usa calzado con buen agarre para las pendientes y lleva efectivo para los puestos de fruta.
 faq:
   - q: ¿Cuál es el horario de apertura de Cactus Valley?

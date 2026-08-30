@@ -1,35 +1,41 @@
 ---
 title: 'Namaste Haeundae: Where to Eat in Busan'
-description: Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh naan at moderate prices (4.8 rating from over 3,200 reviews).
+description: >-
+  Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk
+  inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh
+  naan at moderate prices (4.8 rating from over 3,200 reviews).
 country: South Korea
 region: Busan
 category: restaurant
 pubDate: '2026-07-24T22:19:27.461Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/77160408_82Z2wfWi0KE4HbreRe_k72CzfA6ABRTtcYyKPPj44f4.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/77160408_82Z2wfWi0KE4HbreRe_k72CzfA6ABRTtcYyKPPj44f4.jpg
   credit: 'Photo: Foursquare user content (Namaste)'
   license: foursquare
-  source: https://foursquare.com/v/4dba4d9d81548ee14d790b7a
+  source: 'https://foursquare.com/v/4dba4d9d81548ee14d790b7a'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/11850424_kX8mfmAjXTpluf1HgU5rE8bsLMzJ5Juh-UrSAahN-MA.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/11850424_kX8mfmAjXTpluf1HgU5rE8bsLMzJ5Juh-UrSAahN-MA.jpg
     credit: 'Photo: Foursquare user content (Namaste)'
     license: foursquare
-    source: https://foursquare.com/v/4dba4d9d81548ee14d790b7a
+    source: 'https://foursquare.com/v/4dba4d9d81548ee14d790b7a'
 place:
   id: ChIJwRRdMVyNaDUR3gs_IgM-ACU
   name: Namaste Haeundae
-  address: 7 Haeundaehaebyeon-ro 265beon-gil, Haeundae, Busan, South Korea
+  address: '7 Haeundaehaebyeon-ro 265beon-gil, Haeundae, Busan, South Korea'
   rating: 4.8
-  userRatingsTotal: 3268
+  userRatingsTotal: 3366
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=2666199162583714782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2666199162583714782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.160153699999995
   lng: 129.16063929999999
-  phone: '+82 51-746-1946'
+  phone: +82 51-746-1946
   openingHours:
     - 'Monday: 11:00 AM – 11:50 PM'
     - 'Tuesday: 11:00 AM – 11:50 PM'
@@ -41,19 +47,37 @@ place:
 tags:
   - busan
   - local restaurant
-quickAnswer: Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh naan at moderate prices (4.8 rating from over 3,200 reviews). Go for lunch or an early dinner (before 6:30pm) to avoid the wait, and pair a visit with a stroll along Haeundae Beach or the nearby Dalmaji-gil coastal road.
+quickAnswer: >-
+  Namaste Haeundae is an Indian and Nepali restaurant tucked a few minutes' walk
+  inland from Haeundae Beach, popular for tandoori dishes, curries, and fresh
+  naan at moderate prices (4.8 rating from over 3,200 reviews). Go for lunch or
+  an early dinner (before 6:30pm) to avoid the wait, and pair a visit with a
+  stroll along Haeundae Beach or the nearby Dalmaji-gil coastal road.
 faq:
   - q: How do I get to Namaste Haeundae without a car?
-    a: Take Busan Metro Line 2 to Haeundae Station, exit 5, then walk about 10–15 minutes toward the beachfront lanes where the restaurant is located.
+    a: >-
+      Take Busan Metro Line 2 to Haeundae Station, exit 5, then walk about 10–15
+      minutes toward the beachfront lanes where the restaurant is located.
   - q: Is it expensive?
-    a: It's mid-range for Busan — priced above casual street food but below upscale dining, with dishes generally meant for sharing between two or more people.
+    a: >-
+      It's mid-range for Busan — priced above casual street food but below
+      upscale dining, with dishes generally meant for sharing between two or
+      more people.
   - q: What should I order first?
-    a: Butter chicken or chicken tikka masala with garlic naan is a common starting combo, and saag paneer is a solid vegetarian pick.
+    a: >-
+      Butter chicken or chicken tikka masala with garlic naan is a common
+      starting combo, and saag paneer is a solid vegetarian pick.
   - q: What's the best time to avoid a wait?
-    a: Early lunch (around noon) or dinner before 6:30pm tends to be quieter than peak evening hours, especially in the busy summer months.
+    a: >-
+      Early lunch (around noon) or dinner before 6:30pm tends to be quieter than
+      peak evening hours, especially in the busy summer months.
   - q: What else can I do nearby?
-    a: Haeundae Beach, the Haeundae Traditional Market, SEA LIFE Busan Aquarium, and the Dalmaji-gil coastal road are all within easy walking or short taxi distance.
+    a: >-
+      Haeundae Beach, the Haeundae Traditional Market, SEA LIFE Busan Aquarium,
+      and the Dalmaji-gil coastal road are all within easy walking or short taxi
+      distance.
 aiGenerated: true
+updatedDate: '2026-08-30'
 ---
 
 ## Why go

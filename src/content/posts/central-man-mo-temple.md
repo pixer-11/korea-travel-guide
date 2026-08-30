@@ -1,43 +1,51 @@
 ---
-title: "Man Mo Temple: Central Travel Guide (4.3★)"
-description: "Man Mo Temple on Hollywood Road in Sheung Wan is open daily 8am–6pm, and the calmest visit is right at opening on a weekend (8–9am) or really any weekday hour, since crowds build fast between 11am and 4pm on Saturdays and Sundays. 4.3★ (6,990 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Central"
-category: "attraction"
-pubDate: "2026-08-19T08:09:31.307Z"
+title: 'Man Mo Temple: Central Travel Guide (4.3★)'
+description: >-
+  Man Mo Temple on Hollywood Road in Sheung Wan is open daily 8am–6pm, and the
+  calmest visit is right at opening on a weekend (8–9am) or really any weekday
+  hour, since crowds build fast between 11am and 4pm on Saturdays and Sundays.
+  4.3★ (7,015 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Central
+category: attraction
+pubDate: '2026-08-19T08:09:31.307Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg/3840px-20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg"
-  credit: "Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg/3840px-20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg
+  credit: 'Photo: Yumeto / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:20250906_Interior_of_the_Man_Mo_Temple_seen_from_the_back.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/de/Man_Mo_Temple_%28252551313%29.jpeg"
-    credit: "Photo: Wolfgang Weber / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Man_Mo_Temple_(252551313).jpeg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/de/Man_Mo_Temple_%28252551313%29.jpeg
+    credit: 'Photo: Wolfgang Weber / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Man_Mo_Temple_(252551313).jpeg'
 place:
-  id: "ChIJkR_N-HsABDQR49-CU5m1ShU"
-  name: "Man Mo Temple"
-  address: "Man Mo Temple, 124-130 Hollywood Rd, Sheung Wan, Hong Kong Island, Hong Kong"
+  id: ChIJkR_N-HsABDQR49-CU5m1ShU
+  name: Man Mo Temple
+  address: 'Man Mo Temple, 124-130 Hollywood Rd, Sheung Wan, Hong Kong Island, Hong Kong'
   rating: 4.3
-  userRatingsTotal: 6990
-  googleMapsUrl: "https://maps.google.com/?cid=1534238293208784867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7015
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1534238293208784867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.283972900000002
   lng: 114.15019989999999
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -50,24 +58,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_556853316d3555432d3934525144424173482d4e5f526b4a496843"
+    venueId: ven_556853316d3555432d3934525144424173482d4e5f526b4a496843
 tags:
-  - "central"
-  - "historic site"
-quickAnswer: "Man Mo Temple on Hollywood Road in Sheung Wan is open daily 8am–6pm, and the calmest visit is right at opening on a weekend (8–9am) or really any weekday hour, since crowds build fast between 11am and 4pm on Saturdays and Sundays. Budget 20-30 minutes to take in the incense spirals and the two altars to Man (literature) and Mo (war). It's free to enter, though a small donation is customary."
+  - central
+  - historic site
+quickAnswer: >-
+  Man Mo Temple on Hollywood Road in Sheung Wan is open daily 8am–6pm, and the
+  calmest visit is right at opening on a weekend (8–9am) or really any weekday
+  hour, since crowds build fast between 11am and 4pm on Saturdays and Sundays.
+  Budget 20-30 minutes to take in the incense spirals and the two altars to Man
+  (literature) and Mo (war). It's free to enter, though a small donation is
+  customary.
 faq:
-  - q: "How much does it cost to enter Man Mo Temple?"
-    a: "Entry is free, though a small donation is customary, especially if you're taking photos or lighting incense."
-  - q: "What are the opening hours?"
-    a: "The temple is open daily from 8am to 6pm, with no variation across the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday visits are calm throughout the day. On weekends, go right at opening, between 8am and 9am, and avoid 11am–4pm when it's busiest."
-  - q: "How do I get there by MTR?"
-    a: "Take the Island Line to Sheung Wan Station, Exit A2, then walk about 10 minutes uphill on Hollywood Road. Central Station's Exit D2 via the Mid-Levels escalator also works."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 20-30 minutes taking in the two main altars, the incense spirals, and the antique sedan chairs."
+  - q: How much does it cost to enter Man Mo Temple?
+    a: >-
+      Entry is free, though a small donation is customary, especially if you're
+      taking photos or lighting incense.
+  - q: What are the opening hours?
+    a: >-
+      The temple is open daily from 8am to 6pm, with no variation across the
+      week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday visits are calm throughout the day. On weekends, go right at
+      opening, between 8am and 9am, and avoid 11am–4pm when it's busiest.
+  - q: How do I get there by MTR?
+    a: >-
+      Take the Island Line to Sheung Wan Station, Exit A2, then walk about 10
+      minutes uphill on Hollywood Road. Central Station's Exit D2 via the
+      Mid-Levels escalator also works.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 20-30 minutes taking in the two main altars, the
+      incense spirals, and the antique sedan chairs.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

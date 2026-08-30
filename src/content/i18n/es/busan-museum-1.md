@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: busan-museum-1
-srcHash: '167b13ed1dd8'
+srcHash: '2fec02160ed2'
 title: 'MUSEUM 1: Guía de viaje de Busan (4.3★)'
-description: MUSEUM 1 es un espacio de arte contemporáneo y diseño situado en el barrio de Centum City, en Haeundae, ideal para combinar con una tarde de compras en Shinsegae Centum City y una visita a BEXCO. Con 4.3★ (1.545 reseñas), aquí encontrarás lo que opinan los visitantes, los horarios y varios consejos prácticos.
+description: MUSEUM 1 es un espacio de arte contemporáneo y diseño situado en el barrio de Centum City, en Haeundae, ideal para combinar con una tarde de compras en Shinsegae Centum City y una visita a BEXCO. Con 4.3★ (1.554 reseñas), aquí encontrarás lo que opinan los visitantes, los horarios y varios consejos prácticos.
 quickAnswer: MUSEUM 1 es un espacio de arte contemporáneo y diseño situado en Centum City, en Haeundae, que combina bien con una tarde de compras en Shinsegae Centum City y una visita a BEXCO. Conviene ir entre semana, de 10:00 a 19:00, para disfrutar de las salas con más calma; si solo puedes ir en fin de semana, es mejor acudir por la mañana o al final de la tarde y evitar la franja de mediodía a las 18:00, cuando se llena de gente. Para ver bien la colección, calcula entre 90 minutos y dos horas.
 faq:
   - q: ¿Cómo se llega a MUSEUM 1 sin coche?

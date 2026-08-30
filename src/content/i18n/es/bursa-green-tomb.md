@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bursa-green-tomb
-srcHash: '455b707093c7'
+srcHash: 'e289ad1a806b'
 title: 'Tumba Verde: Guía de viaje de Bursa (4,8★)'
-description: 'La Tumba Verde (Yeşil Türbe) se encuentra en el distrito de Yıldırım, en Bursa, abierta todos los días de 8:00 a 20:00, y la entrada es gratuita. 4,8★ (8.160 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Tumba Verde (Yeşil Türbe) se encuentra en el distrito de Yıldırım, en Bursa, abierta todos los días de 8:00 a 20:00, y la entrada es gratuita. 4,8★ (8.294 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Tumba Verde (Yeşil Türbe) se encuentra en el distrito de Yıldırım, en Bursa, abierta todos los días de 8:00 a 20:00, y la entrada es gratuita. Conviene ir temprano —de 8:00 a 11:00 los fines de semana o de 8:00 a 12:00 entre semana— antes de que los autobuses turísticos llenen el patio pasado el mediodía. Calcule entre 30 y 45 minutos y luego acérquese al complejo de la Mezquita Verde, justo cuesta abajo.
 faq:
   - q: ¿Se paga entrada para visitar la Tumba Verde?

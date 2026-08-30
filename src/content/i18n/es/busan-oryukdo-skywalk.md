@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: busan-oryukdo-skywalk
-srcHash: '0cd1a3e92a1b'
+srcHash: '701840d0102a'
 title: 'Oryukdo Skywalk: guía de viaje de Busan (4.3★)'
-description: 'El Oryukdo Skywalk es una plataforma voladiza de piso de vidrio, gratuita, en Nam-gu (Busan), que se proyecta 11 metros sobre el mar hacia la isla Oryukdo. 4.3★ (11.180 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Oryukdo Skywalk es una plataforma voladiza de piso de vidrio, gratuita, en Nam-gu (Busan), que se proyecta 11 metros sobre el mar hacia la isla Oryukdo. 4.3★ (11.198 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Oryukdo Skywalk es una plataforma voladiza de piso de vidrio, gratuita, en Nam-gu (Busan), que se proyecta 11 metros sobre el mar hacia la isla Oryukdo. Abre todos los días de 9:00 a 18:00, y los fines de semana entre las 10:00 y las 18:00 es cuando más gente hay, así que la mejor opción para evitar aglomeraciones es ir un día de semana justo a la apertura. Calcula entre 30 y 45 minutos, e ídealmente combínalo con un paseo por el sendero costero cercano.
 faq:
   - q: ¿Cuánto cuesta visitar el Oryukdo Skywalk?

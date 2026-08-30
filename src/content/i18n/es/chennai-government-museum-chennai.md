@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chennai-government-museum-chennai
-srcHash: 'd008fe4c1d89'
+srcHash: '89d9f1c88be3'
 title: 'Museo Gubernamental de Chennai: Guía de viaje (4.3★)'
-description: El Museo Gubernamental (Government Museum) de Egmore es el mejor repositorio de bronces chola, escultura en piedra e historia natural de Chennai, y abre todos los días de 10:30 a 18:30, excepto los viernes. 4.3★ (20,048 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: El Museo Gubernamental (Government Museum) de Egmore es el mejor repositorio de bronces chola, escultura en piedra e historia natural de Chennai, y abre todos los días de 10:30 a 18:30, excepto los viernes. 4.3★ (20,110 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: El Museo Gubernamental (Government Museum) de Egmore es el mejor repositorio de bronces chola, escultura en piedra e historia natural de Chennai, y abre todos los días de 10:30 a 18:30, excepto los viernes. Procura ir en la última hora antes del cierre (17:00–18:00), que es cuando hay menos gente — los fines de semana se llena entre las 11:00 y las 17:00. Calcula entre dos y tres horas para recorrer la galería de bronces, las galerías principales de Bronce/Escultura en el complejo de Pantheon Road, y la National Art Gallery de al lado.
 faq:
   - q: ¿Cuál es el horario de apertura?

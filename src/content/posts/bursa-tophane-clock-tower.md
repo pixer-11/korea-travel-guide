@@ -1,36 +1,42 @@
 ---
-title: "Tophane Clock Tower: Bursa Travel Guide (4.7★)"
-description: "Tophane Clock Tower sits in Tophane Park on the edge of Bursa's old citadel, a 15-meter neoclassical tower rebuilt in 1905 that's free to visit any hour, day or night. 4.7★ (26,601 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Bursa"
-category: "attraction"
-pubDate: "2026-08-10T09:12:43.615Z"
+title: 'Tophane Clock Tower: Bursa Travel Guide (4.7★)'
+description: >-
+  Tophane Clock Tower sits in Tophane Park on the edge of Bursa's old citadel, a
+  15-meter neoclassical tower rebuilt in 1905 that's free to visit any hour, day
+  or night. 4.7★ (26,731 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Bursa
+category: attraction
+pubDate: '2026-08-10T09:12:43.615Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg"
-  credit: "Photo: Sirayeti / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_of_Bursa_Tophane_clock_tower.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/View_of_Bursa_Tophane_clock_tower.jpg/1920px-View_of_Bursa_Tophane_clock_tower.jpg
+  credit: 'Photo: Sirayeti / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_of_Bursa_Tophane_clock_tower.jpg
 gallery: []
 place:
-  id: "ChIJNwvkyuI9yhQRmORbmMWi9ps"
-  name: "Tophane Clock Tower"
-  address: "Tophane Park, Osmangazi, Yiğitler Cd., 16040 Osmangazi̇/Bursa, Türkiye"
+  id: ChIJNwvkyuI9yhQRmORbmMWi9ps
+  name: Tophane Clock Tower
+  address: 'Tophane Park, Osmangazi, Yiğitler Cd., 16040 Osmangazi̇/Bursa, Türkiye'
   rating: 4.7
-  userRatingsTotal: 26601
-  googleMapsUrl: "https://maps.google.com/?cid=11238348889698067608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 26731
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11238348889698067608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.187534899999996
   lng: 29.057522
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -56,24 +62,42 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_73703969574d6d62524f6d52516879394975796b76774e4a496843"
+    venueId: ven_73703969574d6d62524f6d52516879394975796b76774e4a496843
 tags:
-  - "bursa"
-  - "top attraction"
-quickAnswer: "Tophane Clock Tower sits in Tophane Park on the edge of Bursa's old citadel, a 15-meter neoclassical tower rebuilt in 1905 that's free to visit any hour, day or night. Go between 7am and 10am on weekdays (7am–9am weekends) to have the terrace and its Uludağ views nearly to yourself, since it fills up from 11am through evening on weekends. Budget 30–45 minutes, more if you linger for the sunset views over the Nilüfer Valley."
+  - bursa
+  - top attraction
+quickAnswer: >-
+  Tophane Clock Tower sits in Tophane Park on the edge of Bursa's old citadel, a
+  15-meter neoclassical tower rebuilt in 1905 that's free to visit any hour, day
+  or night. Go between 7am and 10am on weekdays (7am–9am weekends) to have the
+  terrace and its Uludağ views nearly to yourself, since it fills up from 11am
+  through evening on weekends. Budget 30–45 minutes, more if you linger for the
+  sunset views over the Nilüfer Valley.
 faq:
-  - q: "Is there an entry fee for Tophane Clock Tower?"
-    a: "No, it's a free public park and viewpoint with no ticket or gate — it's open 24 hours every day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 10am, or weekends between 7am and 9am. Weekend afternoons and evenings, roughly 11am to 11pm, get the busiest."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 30–45 minutes, longer if you sit at one of the tea gardens along the viewpoint or extend the visit to the nearby tombs of Osman and Orhan Gazi."
-  - q: "How do I get there without a car?"
-    a: "Take the T1 Bursaray tram to Şehreküstü and walk up into the citadel, or walk 10–15 minutes uphill from central Bursa near Heykel."
-  - q: "What else is nearby worth combining with this stop?"
-    a: "The tombs of the first two Ottoman sultans are a two-minute walk, and Ulu Cami plus the Koza Han bazaar are about 15–20 minutes downhill."
+  - q: Is there an entry fee for Tophane Clock Tower?
+    a: >-
+      No, it's a free public park and viewpoint with no ticket or gate — it's
+      open 24 hours every day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 10am, or weekends between 7am and 9am. Weekend
+      afternoons and evenings, roughly 11am to 11pm, get the busiest.
+  - q: How long should I plan to spend here?
+    a: >-
+      Most visitors spend 30–45 minutes, longer if you sit at one of the tea
+      gardens along the viewpoint or extend the visit to the nearby tombs of
+      Osman and Orhan Gazi.
+  - q: How do I get there without a car?
+    a: >-
+      Take the T1 Bursaray tram to Şehreküstü and walk up into the citadel, or
+      walk 10–15 minutes uphill from central Bursa near Heykel.
+  - q: What else is nearby worth combining with this stop?
+    a: >-
+      The tombs of the first two Ottoman sultans are a two-minute walk, and Ulu
+      Cami plus the Koza Han bazaar are about 15–20 minutes downhill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

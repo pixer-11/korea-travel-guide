@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cameron-highlands-sam-poh-temple
-srcHash: '4427e346edb6'
+srcHash: 'acf9878e47bd'
 title: 'Templo Sam Poh: Guía de Viaje de Cameron Highlands (4.4★)'
-description: 'El Templo Sam Poh es un gran complejo budista de colores vivos situado a las afueras de Brinchang, abierto todos los días de 8:00 a 17:00 con entrada gratuita. 4.4★ (1.386 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Templo Sam Poh es un gran complejo budista de colores vivos situado a las afueras de Brinchang, abierto todos los días de 8:00 a 17:00 con entrada gratuita. 4.4★ (1.392 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Templo Sam Poh es un gran complejo budista de colores vivos situado a las afueras de Brinchang, abierto todos los días de 8:00 a 17:00 con entrada gratuita. El ambiente es más tranquilo entre semana o justo a las 8:00 los fines de semana; conviene evitar el tramo de 10:00 a 16:00 los sábados y domingos, cuando llegan los grupos turísticos. Calcule entre 45 minutos y una hora para la visita, y combínela con la cercana granja de fresas o la plantación de té Boh.
 faq:
   - q: ¿Cuál es el horario de apertura?

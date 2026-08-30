@@ -1,44 +1,51 @@
 ---
-title: "Sam Poh Temple: Cameron Highlands Travel Guide (4.4★)"
-description: "Sam Poh Temple is a large, brightly painted Buddhist temple complex on the edge of Brinchang, open daily 8am–5pm with free entry. 4.4★ (1,386 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Cameron Highlands"
-category: "attraction"
-pubDate: "2026-08-20T08:08:57.212Z"
+title: 'Sam Poh Temple: Cameron Highlands Travel Guide (4.4★)'
+description: >-
+  Sam Poh Temple is a large, brightly painted Buddhist temple complex on the
+  edge of Brinchang, open daily 8am–5pm with free entry. 4.4★ (1,392 reviews) —
+  what visitors say, hours, and tips.
+country: Malaysia
+region: Cameron Highlands
+category: attraction
+pubDate: '2026-08-20T08:08:57.212Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Buddhist_Temple_-_Sam_Poh_Temple_-_panoramio.jpg"
-  credit: "Photo: Tony Ng / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Buddhist_Temple_-_Sam_Poh_Temple_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1d/Buddhist_Temple_-_Sam_Poh_Temple_-_panoramio.jpg
+  credit: 'Photo: Tony Ng / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Buddhist_Temple_-_Sam_Poh_Temple_-_panoramio.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/22377870_onW2cTPELeP-98xklqk02XFERDJi9cp9e2oeWVZXxYY.jpg"
-    credit: "Photo: Foursquare user content (Sam Poh Buddhist Temple)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4df4d3f3922e8e1ea89122af"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/22377870_onW2cTPELeP-98xklqk02XFERDJi9cp9e2oeWVZXxYY.jpg
+    credit: 'Photo: Foursquare user content (Sam Poh Buddhist Temple)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4df4d3f3922e8e1ea89122af'
 place:
-  id: "ChIJ27oxe8tZyjEReyqcu98Bj7Y"
-  name: "Sam Poh Temple"
-  address: "Jalan Pecah Batu, Brinchang, 39000 Brinchang, Pahang, Malaysia"
+  id: ChIJ27oxe8tZyjEReyqcu98Bj7Y
+  name: Sam Poh Temple
+  address: 'Jalan Pecah Batu, Brinchang, 39000 Brinchang, Pahang, Malaysia'
   rating: 4.4
-  userRatingsTotal: 1386
-  googleMapsUrl: "https://maps.google.com/?cid=13154735097009416827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1392
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13154735097009416827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 4.4887819
   lng: 101.39074529999999
-  phone: "+60 5-491 1393"
+  phone: +60 5-491 1393
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -52,24 +59,38 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_59376a423839756371796552456a795a743865786f37324a496843"
+    venueId: ven_59376a423839756371796552456a795a743865786f37324a496843
 tags:
-  - "cameron highlands"
-  - "historic site"
-quickAnswer: "Sam Poh Temple is a large, brightly painted Buddhist temple complex on the edge of Brinchang, open daily 8am–5pm with free entry. It's calmest on weekdays or right at 8am on weekends — avoid 10am–4pm Saturday and Sunday when tour groups peak. Budget 45 minutes to an hour, and pair it with the nearby strawberry farm or Boh tea estate."
+  - cameron highlands
+  - historic site
+quickAnswer: >-
+  Sam Poh Temple is a large, brightly painted Buddhist temple complex on the
+  edge of Brinchang, open daily 8am–5pm with free entry. It's calmest on
+  weekdays or right at 8am on weekends — avoid 10am–4pm Saturday and Sunday when
+  tour groups peak. Budget 45 minutes to an hour, and pair it with the nearby
+  strawberry farm or Boh tea estate.
 faq:
-  - q: "What are the opening hours?"
-    a: "Daily, 8:00 AM to 5:00 PM, with no variation by day of the week."
-  - q: "How much does it cost to enter?"
-    a: "Entry is generally free; there's a donation box near the main hall for those who wish to contribute."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calm throughout the day. On weekends, go between 8am and 9am, right at opening, before the 10am–4pm crowd surge."
-  - q: "How do I get there without a car?"
-    a: "It's walkable from central Brinchang, and a short Grab or taxi ride (or a 20–30 minute walk) from Tanah Rata."
-  - q: "How long should I plan to spend there?"
-    a: "45 minutes to an hour is enough to see the gate, courtyards, main hall and upper terrace without rushing."
+  - q: What are the opening hours?
+    a: 'Daily, 8:00 AM to 5:00 PM, with no variation by day of the week.'
+  - q: How much does it cost to enter?
+    a: >-
+      Entry is generally free; there's a donation box near the main hall for
+      those who wish to contribute.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calm throughout the day. On weekends, go between 8am and 9am,
+      right at opening, before the 10am–4pm crowd surge.
+  - q: How do I get there without a car?
+    a: >-
+      It's walkable from central Brinchang, and a short Grab or taxi ride (or a
+      20–30 minute walk) from Tanah Rata.
+  - q: How long should I plan to spend there?
+    a: >-
+      45 minutes to an hour is enough to see the gate, courtyards, main hall and
+      upper terrace without rushing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

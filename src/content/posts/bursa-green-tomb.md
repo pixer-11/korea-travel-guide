@@ -1,41 +1,49 @@
 ---
-title: "Green Tomb: Bursa Travel Guide (4.8★)"
-description: "The Green Tomb (Yeşil Türbe) sits in Bursa's Yıldırım district, open daily 8am–8pm, and it's free to enter. 4.8★ (8,160 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Bursa"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:40:20.966Z"
+title: 'Green Tomb: Bursa Travel Guide (4.8★)'
+description: >-
+  The Green Tomb (Yeşil Türbe) sits in Bursa's Yıldırım district, open daily
+  8am–8pm, and it's free to enter. 4.8★ (8,294 reviews) — what visitors say,
+  hours, and tips.
+country: Turkey
+region: Bursa
+category: hidden-gem
+pubDate: '2026-08-13T09:40:20.966Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bursa_Green_Tomb_Exterior_2014_0051.jpg/3840px-Bursa_Green_Tomb_Exterior_2014_0051.jpg"
-  credit: "Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bursa_Green_Tomb_Exterior_2014_0051.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bursa_Green_Tomb_Exterior_2014_0051.jpg/3840px-Bursa_Green_Tomb_Exterior_2014_0051.jpg
+  credit: 'Photo: Dosseman / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bursa_Green_Tomb_Exterior_2014_0051.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_%2811%29.jpg/3840px-Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_%2811%29.jpg"
-    credit: "Photo: Yahia.Mokhtar / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_(11).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_%2811%29.jpg/3840px-Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_%2811%29.jpg
+    credit: 'Photo: Yahia.Mokhtar / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Green_Tomb_-_Ye%C5%9Fil_T%C3%BCrbe_(11).jpg
 place:
-  id: "ChIJM38n1N49yhQRcnCWi3B03g4"
-  name: "Green Tomb"
-  address: "Yeşil, 1. Yeşil Cd. 66-1, 16360 Yıldırım/Bursa, Türkiye"
+  id: ChIJM38n1N49yhQRcnCWi3B03g4
+  name: Green Tomb
+  address: 'Yeşil, 1. Yeşil Cd. 66-1, 16360 Yıldırım/Bursa, Türkiye'
   rating: 4.8
-  userRatingsTotal: 8160
-  googleMapsUrl: "https://maps.google.com/?cid=1071421788087808114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8294
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1071421788087808114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.181396199999995
   lng: 29.074882900000002
-  phone: "+90 4441600"
+  phone: +90 4441600
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -53,24 +61,40 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_3467333042336957436e635251687939344e316e38334d4a496843"
+    venueId: ven_3467333042336957436e635251687939344e316e38334d4a496843
 tags:
-  - "bursa"
-  - "hidden gem"
-quickAnswer: "The Green Tomb (Yeşil Türbe) sits in Bursa's Yıldırım district, open daily 8am–8pm, and it's free to enter. Go early — 8am to 11am on weekends or 8am to noon on weekdays — before tour buses fill the courtyard after midday. Budget 30–45 minutes, then wander into the adjoining Green Mosque complex just downhill."
+  - bursa
+  - hidden gem
+quickAnswer: >-
+  The Green Tomb (Yeşil Türbe) sits in Bursa's Yıldırım district, open daily
+  8am–8pm, and it's free to enter. Go early — 8am to 11am on weekends or 8am to
+  noon on weekdays — before tour buses fill the courtyard after midday. Budget
+  30–45 minutes, then wander into the adjoining Green Mosque complex just
+  downhill.
 faq:
-  - q: "Is there an entrance fee for the Green Tomb?"
-    a: "No, entry is free. Donation boxes are sometimes present, but there's no official ticket."
-  - q: "What are the quietest hours to visit?"
-    a: "8am to noon on weekdays, or 8am to 11am on weekends. Weekend afternoons from noon to 7pm are the busiest and worth avoiding."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–45 minutes, longer if you also walk through the Green Mosque just below it."
-  - q: "How do I get there without a car?"
-    a: "Take the T1 tram to the Yeşil stop, then walk uphill a few minutes, or take a short taxi ride from central Bursa."
-  - q: "Is there a dress code?"
-    a: "Yes — it's an active tomb and place of worship, so cover shoulders and knees, and remove shoes before entering the carpeted interior."
+  - q: Is there an entrance fee for the Green Tomb?
+    a: >-
+      No, entry is free. Donation boxes are sometimes present, but there's no
+      official ticket.
+  - q: What are the quietest hours to visit?
+    a: >-
+      8am to noon on weekdays, or 8am to 11am on weekends. Weekend afternoons
+      from noon to 7pm are the busiest and worth avoiding.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend 30–45 minutes, longer if you also walk through the
+      Green Mosque just below it.
+  - q: How do I get there without a car?
+    a: >-
+      Take the T1 tram to the Yeşil stop, then walk uphill a few minutes, or
+      take a short taxi ride from central Bursa.
+  - q: Is there a dress code?
+    a: >-
+      Yes — it's an active tomb and place of worship, so cover shoulders and
+      knees, and remove shoes before entering the carpeted interior.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

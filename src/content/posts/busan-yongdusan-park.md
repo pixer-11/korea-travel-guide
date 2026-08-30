@@ -1,41 +1,49 @@
 ---
-title: "Yongdusan Park: Busan Travel Guide (4.3★)"
-description: "Yongdusan Park is Busan's hilltop green space in Jung-gu, best known for Busan Tower and its city-and-harbor views. 4.3★ (6,557 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Busan"
-category: "attraction"
-pubDate: "2026-08-09T08:10:04.521Z"
+title: 'Yongdusan Park: Busan Travel Guide (4.3★)'
+description: >-
+  Yongdusan Park is Busan's hilltop green space in Jung-gu, best known for Busan
+  Tower and its city-and-harbor views. 4.3★ (6,575 reviews) — what visitors say,
+  hours, and tips.
+country: South Korea
+region: Busan
+category: attraction
+pubDate: '2026-08-09T08:10:04.521Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Busan_Tower_and_Yongdusan_Park_20200522_003.jpg/1920px-Busan_Tower_and_Yongdusan_Park_20200522_003.jpg"
-  credit: "Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Busan_Tower_and_Yongdusan_Park_20200522_003.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Busan_Tower_and_Yongdusan_Park_20200522_003.jpg/1920px-Busan_Tower_and_Yongdusan_Park_20200522_003.jpg
+  credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Busan_Tower_and_Yongdusan_Park_20200522_003.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sculpture_of_a_dragon_in_Yongdusan_Park.jpg/3840px-Sculpture_of_a_dragon_in_Yongdusan_Park.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sculpture_of_a_dragon_in_Yongdusan_Park.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sculpture_of_a_dragon_in_Yongdusan_Park.jpg/3840px-Sculpture_of_a_dragon_in_Yongdusan_Park.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Sculpture_of_a_dragon_in_Yongdusan_Park.jpg
 place:
-  id: "ChIJl8gXNgvpaDURP6m_S0gwF74"
-  name: "Yongdusan Park"
-  address: "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea"
+  id: ChIJl8gXNgvpaDURP6m_S0gwF74
+  name: Yongdusan Park
+  address: '37-55 Yongdusan-gil, Jung-gu, Busan, South Korea'
   rating: 4.3
-  userRatingsTotal: 6557
-  googleMapsUrl: "https://maps.google.com/?cid=13697469878737283391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6575
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13697469878737283391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1006536
   lng: 129.0326226
-  phone: "+82 51-860-7820"
+  phone: +82 51-860-7820
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 22
@@ -59,24 +67,42 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_343746776730535f6d3650525544617076674e5867386c4a496843"
+    venueId: ven_343746776730535f6d3650525544617076674e5867386c4a496843
 tags:
-  - "busan"
-  - "park"
-quickAnswer: "Yongdusan Park is Busan's hilltop green space in Jung-gu, best known for Busan Tower and its city-and-harbor views. It's open 24 hours, so slip in early — weekends are calmest between 7am and 8am, while weekday mornings and evenings (7am–11pm) stay manageable too. Avoid the 10am–9pm weekend crush if you want the escalators and viewpoints to yourself."
+  - busan
+  - park
+quickAnswer: >-
+  Yongdusan Park is Busan's hilltop green space in Jung-gu, best known for Busan
+  Tower and its city-and-harbor views. It's open 24 hours, so slip in early —
+  weekends are calmest between 7am and 8am, while weekday mornings and evenings
+  (7am–11pm) stay manageable too. Avoid the 10am–9pm weekend crush if you want
+  the escalators and viewpoints to yourself.
 faq:
-  - q: "How do I get to Yongdusan Park by subway?"
-    a: "Take Busan Metro Line 1 to Nampo Station and leave via Exit 7 — it puts you right at the base of the hill."
-  - q: "Is there an entrance fee for the park?"
-    a: "No, the park grounds are free and open 24 hours. Only Busan Tower's observation deck requires a separate ticket, check current pricing before you go since it can change."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays it stays fairly calm from 7am to 11pm. On weekends, the only quiet stretch is early, 7am to 8am, before crowds build."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 45 minutes to an hour for the park's paths and monuments, plus another 30-40 minutes if you go up Busan Tower."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "Nampo-dong's shopping streets and Gukje Market are both a short walk downhill, making it easy to pair the park with a longer wander through central Busan."
+  - q: How do I get to Yongdusan Park by subway?
+    a: >-
+      Take Busan Metro Line 1 to Nampo Station and leave via Exit 7 — it puts
+      you right at the base of the hill.
+  - q: Is there an entrance fee for the park?
+    a: >-
+      No, the park grounds are free and open 24 hours. Only Busan Tower's
+      observation deck requires a separate ticket, check current pricing before
+      you go since it can change.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays it stays fairly calm from 7am to 11pm. On weekends, the only
+      quiet stretch is early, 7am to 8am, before crowds build.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget 45 minutes to an hour for the park's paths and monuments, plus
+      another 30-40 minutes if you go up Busan Tower.
+  - q: What's nearby if I want to make a half-day of it?
+    a: >-
+      Nampo-dong's shopping streets and Gukje Market are both a short walk
+      downhill, making it easy to pair the park with a longer wander through
+      central Busan.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

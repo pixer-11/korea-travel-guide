@@ -1,37 +1,43 @@
 ---
-title: "Haeundae Traditional Market: Busan Travel Guide (4.2★)"
-description: "Haeundae Traditional Market is a covered alley of street food and produce stalls just back from Haeundae Beach, open daily 9am–10pm. 4.2★ (3,461 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Busan"
-category: "hidden-gem"
-pubDate: "2026-08-08T08:21:25.733Z"
+title: 'Haeundae Traditional Market: Busan Travel Guide (4.2★)'
+description: >-
+  Haeundae Traditional Market is a covered alley of street food and produce
+  stalls just back from Haeundae Beach, open daily 9am–10pm. 4.2★ (3,486
+  reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Busan
+category: hidden-gem
+pubDate: '2026-08-08T08:21:25.733Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1920px-Haeundae_Market_Busan_%2831877277538%29.jpg"
-  credit: "Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Haeundae_Market_Busan_(31877277538).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Haeundae_Market_Busan_%2831877277538%29.jpg/1920px-Haeundae_Market_Busan_%2831877277538%29.jpg
+  credit: 'Photo: bryan... / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Haeundae_Market_Busan_(31877277538).jpg
 gallery: []
 place:
-  id: "ChIJCXner12NaDURvTHbPe3S9tU"
-  name: "Haeundae Traditional Market"
-  address: "22-1 Gunam-ro 41beon-gil, Haeundae, Busan, South Korea"
+  id: ChIJCXner12NaDURvTHbPe3S9tU
+  name: Haeundae Traditional Market
+  address: '22-1 Gunam-ro 41beon-gil, Haeundae, Busan, South Korea'
   rating: 4.2
-  userRatingsTotal: 3461
-  googleMapsUrl: "https://maps.google.com/?cid=15417742290736329149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3486
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15417742290736329149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.161453699999996
   lng: 129.16224889999998
-  phone: "+82 51-746-3001"
+  phone: +82 51-746-3001
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-08
+    updated: 2026-08-08T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -44,24 +50,42 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_5574395333655062485476525544614e323172656e58434a496843"
+    venueId: ven_5574395333655062485476525544614e323172656e58434a496843
 tags:
-  - "busan"
-  - "local market"
-quickAnswer: "Haeundae Traditional Market is a covered alley of street food and produce stalls just back from Haeundae Beach, open daily 9am–10pm. Go between 9am and 11am if you want to move freely and see vendors setting up; avoid 5pm–10pm on weekends, when the alley fills with dinner crowds. Budget an hour, come hungry, and bring cash for the smaller stalls."
+  - busan
+  - local market
+quickAnswer: >-
+  Haeundae Traditional Market is a covered alley of street food and produce
+  stalls just back from Haeundae Beach, open daily 9am–10pm. Go between 9am and
+  11am if you want to move freely and see vendors setting up; avoid 5pm–10pm on
+  weekends, when the alley fills with dinner crowds. Budget an hour, come
+  hungry, and bring cash for the smaller stalls.
 faq:
-  - q: "How do I get to Haeundae Traditional Market?"
-    a: "Take Busan Metro Line 2 to Haeundae Station and leave via Exit 5. It's about a 10-minute walk northeast toward the beach; the market alley branches off Gunam-ro."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest from 9am to 11am, right after the market opens for the day."
-  - q: "What time should I avoid?"
-    a: "Skip 5pm–10pm on weekends if you don't like crowds — that's when dinner traffic and beachgoers overlap and the alley gets tight."
-  - q: "How much time should I set aside?"
-    a: "An hour is enough to walk the alley and eat from a few stalls. It's a compact market, easily paired with a beach visit."
-  - q: "What should I order?"
-    a: "Try ssiat hotteok (seed-stuffed sweet pancake), Chungmu-style gimbap, skewered eomuk fish cakes, and grilled or fresh seafood near the market's seaward end. Bring cash — many stalls don't take cards."
+  - q: How do I get to Haeundae Traditional Market?
+    a: >-
+      Take Busan Metro Line 2 to Haeundae Station and leave via Exit 5. It's
+      about a 10-minute walk northeast toward the beach; the market alley
+      branches off Gunam-ro.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest from 9am to 11am, right after the
+      market opens for the day.
+  - q: What time should I avoid?
+    a: >-
+      Skip 5pm–10pm on weekends if you don't like crowds — that's when dinner
+      traffic and beachgoers overlap and the alley gets tight.
+  - q: How much time should I set aside?
+    a: >-
+      An hour is enough to walk the alley and eat from a few stalls. It's a
+      compact market, easily paired with a beach visit.
+  - q: What should I order?
+    a: >-
+      Try ssiat hotteok (seed-stuffed sweet pancake), Chungmu-style gimbap,
+      skewered eomuk fish cakes, and grilled or fresh seafood near the market's
+      seaward end. Bring cash — many stalls don't take cards.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

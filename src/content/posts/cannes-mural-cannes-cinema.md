@@ -1,51 +1,78 @@
 ---
-title: "Mural - Cannes Cinema: Travel Guide"
-description: The Cannes Cinema mural sits on Quai Saint-Pierre, right where the old port meets the Palais des Festivals, and it's a five-minute stop rather than a destination in itself — pair it with a stroll along the quay.
-country: "France"
-region: "Cannes"
-category: "attraction"
-pubDate: "2026-07-26T07:10:57.328Z"
+title: 'Mural - Cannes Cinema: Travel Guide'
+description: >-
+  The Cannes Cinema mural sits on Quai Saint-Pierre, right where the old port
+  meets the Palais des Festivals, and it's a five-minute stop rather than a
+  destination in itself — pair it with a stroll along the quay.
+country: France
+region: Cannes
+category: attraction
+pubDate: '2026-07-26T07:10:57.328Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg"
-  credit: "Photo: Vestemocoso / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b8/%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg
+  credit: 'Photo: Vestemocoso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E2%80%9CCannes_Cinema%E2%80%9D_mural_on_Place_Cornut-Gentille.jpg
 gallery: []
 place:
-  id: "ChIJJ-O4N4mBzhIRXyDTs2nGHDQ"
-  name: "Mural - Cannes Cinema"
-  address: "1 Quai Saint-Pierre, 06400 Cannes, France"
+  id: ChIJJ-O4N4mBzhIRXyDTs2nGHDQ
+  name: Mural - Cannes Cinema
+  address: '1 Quai Saint-Pierre, 06400 Cannes, France'
   rating: 4.5
-  userRatingsTotal: 169
-  googleMapsUrl: "https://maps.google.com/?cid=3755094346610974815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 174
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3755094346610974815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.550836499999996
   lng: 7.0117588
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "cannes"
-  - "top attraction"
-quickAnswer: "The Cannes Cinema mural sits on Quai Saint-Pierre, right where the old port meets the Palais des Festivals, and it's a five-minute stop rather than a destination in itself — pair it with a stroll along the quay. It's genuinely under-the-radar, so you can usually get a clean photo without jostling for space, even in high season. Go in the soft early or late light of day for the best colour on the wall."
+  - cannes
+  - top attraction
+quickAnswer: >-
+  The Cannes Cinema mural sits on Quai Saint-Pierre, right where the old port
+  meets the Palais des Festivals, and it's a five-minute stop rather than a
+  destination in itself — pair it with a stroll along the quay. It's genuinely
+  under-the-radar, so you can usually get a clean photo without jostling for
+  space, even in high season. Go in the soft early or late light of day for the
+  best colour on the wall.
 faq:
-  - q: "How much time should I budget for the mural?"
-    a: "Five to ten minutes for the mural itself, but it's best folded into a longer walk around the Vieux Port, Palais des Festivals, and Le Suquet — an hour or two in total."
-  - q: "Is there an entry fee?"
-    a: "No — it's a public mural on a building facade facing the harbor, viewable anytime from the quay at no cost."
-  - q: "What's the nearest landmark to orient myself?"
-    a: "It sits right on Quai Saint-Pierre, a couple of minutes' walk from the Palais des Festivals et des Congrès, at the eastern edge of the Vieux Port."
-  - q: "When is the best time to visit for photos?"
-    a: "Early morning or late afternoon light works best on the harborside wall; avoid the Cannes Film Festival fortnight in May if you want the quay quiet."
-  - q: "Is it worth visiting if I'm not a big film buff?"
-    a: "Yes — it's as much about the setting (old port, boats, Le Suquet backdrop) as the artwork, and it's a natural stop on the walk between the train station and La Croisette."
+  - q: How much time should I budget for the mural?
+    a: >-
+      Five to ten minutes for the mural itself, but it's best folded into a
+      longer walk around the Vieux Port, Palais des Festivals, and Le Suquet —
+      an hour or two in total.
+  - q: Is there an entry fee?
+    a: >-
+      No — it's a public mural on a building facade facing the harbor, viewable
+      anytime from the quay at no cost.
+  - q: What's the nearest landmark to orient myself?
+    a: >-
+      It sits right on Quai Saint-Pierre, a couple of minutes' walk from the
+      Palais des Festivals et des Congrès, at the eastern edge of the Vieux
+      Port.
+  - q: When is the best time to visit for photos?
+    a: >-
+      Early morning or late afternoon light works best on the harborside wall;
+      avoid the Cannes Film Festival fortnight in May if you want the quay
+      quiet.
+  - q: Is it worth visiting if I'm not a big film buff?
+    a: >-
+      Yes — it's as much about the setting (old port, boats, Le Suquet backdrop)
+      as the artwork, and it's a natural stop on the walk between the train
+      station and La Croisette.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

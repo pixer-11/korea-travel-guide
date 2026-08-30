@@ -1,40 +1,49 @@
 ---
-title: "Cai Rang Floating Market: Can Tho Travel Guide (4.1★)"
-description: "Cai Rang Floating Market runs 24/7 on the Can Tho River, but the real action — hundreds of boats loaded with pineapples, dragon fruit, and steaming bowls of noodle soup — happens between roughly 5am and 8am. 4.1★ (8,087 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Can Tho"
-category: "attraction"
-pubDate: "2026-08-11T09:17:49.092Z"
+title: 'Cai Rang Floating Market: Can Tho Travel Guide (4.1★)'
+description: >-
+  Cai Rang Floating Market runs 24/7 on the Can Tho River, but the real action —
+  hundreds of boats loaded with pineapples, dragon fruit, and steaming bowls of
+  noodle soup — happens between roughly 5am and 8am. 4.1★ (8,104 reviews) — what
+  visitors say, hours, and tips.
+country: Vietnam
+region: Can Tho
+category: attraction
+pubDate: '2026-08-11T09:17:49.092Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg/1920px-M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg"
-  credit: "Photo: Bùi Thụy Đào Nguyên / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg/1920px-M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg
+  credit: 'Photo: Bùi Thụy Đào Nguyên / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:M%E1%BB%99t_c%E1%BA%A3nh_%E1%BB%9F_ch%E1%BB%A3_n%E1%BB%95i_C%C3%A1i_R%C4%83ng.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cai_Rang_floating_market%2C_Can_Tho_%2846061353692%29.jpg/3840px-Cai_Rang_floating_market%2C_Can_Tho_%2846061353692%29.jpg"
-    credit: "Photo: Isabell Schulz / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cai_Rang_floating_market,_Can_Tho_(46061353692).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cai_Rang_floating_market%2C_Can_Tho_%2846061353692%29.jpg/3840px-Cai_Rang_floating_market%2C_Can_Tho_%2846061353692%29.jpg
+    credit: 'Photo: Isabell Schulz / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cai_Rang_floating_market,_Can_Tho_(46061353692).jpg
 place:
-  id: "ChIJjS00tq-JoDERmDjx9Wm1ss0"
-  name: "Cai Rang Floating Market"
-  address: "Cai Rang, Can Tho, Vietnam"
+  id: ChIJjS00tq-JoDERmDjx9Wm1ss0
+  name: Cai Rang Floating Market
+  address: 'Cai Rang, Can Tho, Vietnam'
   rating: 4.1
-  userRatingsTotal: 8087
-  googleMapsUrl: "https://maps.google.com/?cid=14822108790332143768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8104
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14822108790332143768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.005080699999999
   lng: 105.746077
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 13
       - 14
@@ -53,24 +62,45 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_307373316d5739786a446d5245446f4a2d71743030536a4a496843"
+    venueId: ven_307373316d5739786a446d5245446f4a2d71743030536a4a496843
 tags:
-  - "can tho"
-  - "top attraction"
-quickAnswer: "Cai Rang Floating Market runs 24/7 on the Can Tho River, but the real action — hundreds of boats loaded with pineapples, dragon fruit, and steaming bowls of noodle soup — happens between roughly 5am and 8am. Hire a boat from Ninh Kieu Wharf the night before or early that morning, budget an hour or two on the water, and go on a weekday if you can; weekends stay busy from 7am to 10pm, while weekday afternoons (1pm–3pm) are the calmest."
+  - can tho
+  - top attraction
+quickAnswer: >-
+  Cai Rang Floating Market runs 24/7 on the Can Tho River, but the real action —
+  hundreds of boats loaded with pineapples, dragon fruit, and steaming bowls of
+  noodle soup — happens between roughly 5am and 8am. Hire a boat from Ninh Kieu
+  Wharf the night before or early that morning, budget an hour or two on the
+  water, and go on a weekday if you can; weekends stay busy from 7am to 10pm,
+  while weekday afternoons (1pm–3pm) are the calmest.
 faq:
-  - q: "What time should I arrive at Cai Rang Floating Market?"
-    a: "Aim to be on the water by 5am–6am. The wholesale trading and the densest cluster of boats peak between roughly 5am and 8am, after which many trading boats head off to deliver goods."
-  - q: "How do I get to the market from Can Tho city?"
-    a: "Hire a boat from Ninh Kieu Wharf in central Can Tho, a 30–45 minute ride. Alternatively, drive to Cai Rang Tourist Wharf, which is closer, and take a shorter boat ride from there."
-  - q: "How much time should I budget for the visit?"
-    a: "Most boat trips run 1.5 to 3 hours round-trip depending on whether you go straight from Ninh Kieu or start closer at Cai Rang Tourist Wharf."
-  - q: "When is the market quietest?"
-    a: "Weekday afternoons between 1pm and 3pm see the fewest boats. Weekends stay busy from 7am to 10pm, so avoid those hours if you want more space on the water."
-  - q: "Can I pay by card on the boats?"
-    a: "No — bring cash in small Vietnamese đồng notes. Vendors selling fruit, coffee, and noodle soup from their boats deal in cash only and can't break large bills."
+  - q: What time should I arrive at Cai Rang Floating Market?
+    a: >-
+      Aim to be on the water by 5am–6am. The wholesale trading and the densest
+      cluster of boats peak between roughly 5am and 8am, after which many
+      trading boats head off to deliver goods.
+  - q: How do I get to the market from Can Tho city?
+    a: >-
+      Hire a boat from Ninh Kieu Wharf in central Can Tho, a 30–45 minute ride.
+      Alternatively, drive to Cai Rang Tourist Wharf, which is closer, and take
+      a shorter boat ride from there.
+  - q: How much time should I budget for the visit?
+    a: >-
+      Most boat trips run 1.5 to 3 hours round-trip depending on whether you go
+      straight from Ninh Kieu or start closer at Cai Rang Tourist Wharf.
+  - q: When is the market quietest?
+    a: >-
+      Weekday afternoons between 1pm and 3pm see the fewest boats. Weekends stay
+      busy from 7am to 10pm, so avoid those hours if you want more space on the
+      water.
+  - q: Can I pay by card on the boats?
+    a: >-
+      No — bring cash in small Vietnamese đồng notes. Vendors selling fruit,
+      coffee, and noodle soup from their boats deal in cash only and can't break
+      large bills.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

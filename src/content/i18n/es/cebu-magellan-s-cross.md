@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cebu-magellan-s-cross
-srcHash: '455c6913163f'
+srcHash: '208c522e1b06'
 title: 'La Cruz de Magallanes: guía de viaje de Cebú (4.4★)'
-description: 'La Cruz de Magallanes se encuentra en su propio kiosco octagonal en la calle P. Burgos, en el centro de Cebú, abierto todos los días de 8am a 6pm, con entrada libre. 4.4★ (12,224 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Cruz de Magallanes se encuentra en su propio kiosco octagonal en la calle P. Burgos, en el centro de Cebú, abierto todos los días de 8am a 6pm, con entrada libre. 4.4★ (12,244 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Cruz de Magallanes se encuentra en su propio kiosco octagonal en la calle P. Burgos, en el centro de Cebú, abierto todos los días de 8am a 6pm, con entrada libre para pasar y verla. Conviene ir justo a la apertura —entre semana, de 8 a 9am, es cuando hay menos gente— y aprovechar para combinar la visita con la cercana Basílica del Santo Niño y el Ayuntamiento de Cebú, todo a menos de 20 minutos caminando. Las tardes de fin de semana después de las 2pm son las más concurridas, así que conviene evitar ese horario si se busca tranquilidad.
 faq:
   - q: ¿Hay que pagar entrada para ver la Cruz de Magallanes?

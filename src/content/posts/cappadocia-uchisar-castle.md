@@ -1,44 +1,64 @@
 ---
-title: "Uchisar Castle: Cappadocia Travel Guide (4.6★)"
-description: "Uchisar Castle is the tallest natural point in Cappadocia — a honeycombed rock citadel in Uçhisar village, open daily 7am–9pm, with panoramic views over Pigeon Valley and Göreme. 4.6★ (32,194 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Cappadocia"
-category: "attraction"
-pubDate: "2026-08-19T08:02:11.556Z"
+title: 'Uchisar Castle: Cappadocia Travel Guide (4.6★)'
+description: >-
+  Uchisar Castle is the tallest natural point in Cappadocia — a honeycombed rock
+  citadel in Uçhisar village, open daily 7am–9pm, with panoramic views over
+  Pigeon Valley and Göreme. 4.6★ (32,336 reviews) — what visitors say, hours,
+  and tips.
+country: Turkey
+region: Cappadocia
+category: attraction
+pubDate: '2026-08-19T08:02:11.556Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Uchisar_Castle_-_12910356703.jpg/3840px-Uchisar_Castle_-_12910356703.jpg"
-  credit: "Photo: Graeme Churchard / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Uchisar_Castle_-_12910356703.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Uchisar_Castle_-_12910356703.jpg/3840px-Uchisar_Castle_-_12910356703.jpg
+  credit: 'Photo: Graeme Churchard / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Uchisar_Castle_-_12910356703.jpg'
   focus:
     x: 42
-    y: 33
+    'y': 33
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_U%C3%A7hisar_in_Cappadocia.jpg/3840px-Castle_U%C3%A7hisar_in_Cappadocia.jpg"
-    credit: "Photo: This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Castle_U%C3%A7hisar_in_Cappadocia.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_U%C3%A7hisar_in_Cappadocia.jpg/3840px-Castle_U%C3%A7hisar_in_Cappadocia.jpg
+    credit: >-
+      Photo: This Photo was taken by Wolfgang Moroder. Feel free to use my
+      photos, but please mention me as the author and send me a message. This
+      image is not in the public domain. Please respect the copyright
+      protection. It may only be used according to the rules mentioned here.
+      This specifically excludes use in social media, if applicable terms of the
+      licenses listed here not appropriate. Please do not upload an updated
+      image here without consultation with the Author. The author would like to
+      make corrections only at his own source. This ensures that the changes are
+      preserved.Please if you think that any changes should be required, please
+      inform the author.Otherwise you can upload a new image with a new name.
+      Please use one of the templates derivative or extract. / Wikimedia Commons
+      (CC BY-SA 3.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Castle_U%C3%A7hisar_in_Cappadocia.jpg
 place:
-  id: "ChIJxb0Tce5oKhURycWROqZOpUg"
-  name: "Uchisar Castle"
-  address: "Tekelli, 50240 Uçhisar/Nevşehir Merkez/Nevşehir, Türkiye"
+  id: ChIJxb0Tce5oKhURycWROqZOpUg
+  name: Uchisar Castle
+  address: 'Tekelli, 50240 Uçhisar/Nevşehir Merkez/Nevşehir, Türkiye'
   rating: 4.6
-  userRatingsTotal: 32194
-  googleMapsUrl: "https://maps.google.com/?cid=5234676617742239177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 32336
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5234676617742239177&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.6299062
   lng: 34.805403
-  phone: "+90 384 219 20 05"
+  phone: +90 384 219 20 05
   openingHours:
-    - "Monday: 7:00 AM – 9:00 PM"
-    - "Tuesday: 7:00 AM – 9:00 PM"
-    - "Wednesday: 7:00 AM – 9:00 PM"
-    - "Thursday: 7:00 AM – 9:00 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 9:00 PM"
-    - "Sunday: 7:00 AM – 9:00 PM"
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +78,42 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_6755704f5a714f525763795255684b6f356563543062784a496843"
+    venueId: ven_6755704f5a714f525763795255684b6f356563543062784a496843
 tags:
-  - "cappadocia"
-  - "historic site"
-quickAnswer: "Uchisar Castle is the tallest natural point in Cappadocia — a honeycombed rock citadel in Uçhisar village, open daily 7am–9pm, with panoramic views over Pigeon Valley and Göreme. Budget 45–60 minutes for the climb and viewing platform. Weekend crowds build up between 10am and 7pm, so aim for early morning or the last hour before closing."
+  - cappadocia
+  - historic site
+quickAnswer: >-
+  Uchisar Castle is the tallest natural point in Cappadocia — a honeycombed rock
+  citadel in Uçhisar village, open daily 7am–9pm, with panoramic views over
+  Pigeon Valley and Göreme. Budget 45–60 minutes for the climb and viewing
+  platform. Weekend crowds build up between 10am and 7pm, so aim for early
+  morning or the last hour before closing.
 faq:
-  - q: "How much time should I budget for Uchisar Castle?"
-    a: "Plan for 45–60 minutes, including the climb up through the carved passages and time at the summit viewpoint."
-  - q: "What are the opening hours?"
-    a: "Uchisar Castle is open daily from 7:00 AM to 9:00 PM, with no day-of-week closures."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning or evening, outside the 10am–7pm weekend window, is calmest — the site sees its heaviest crowds on weekends during that midday-to-evening stretch."
-  - q: "How do I get to Uchisar Castle without a car?"
-    a: "Take a dolmuş (local minibus) or taxi from Göreme, about 7km away — the ride takes roughly 15 minutes, then it's a short walk uphill to the entrance."
-  - q: "Is Uchisar Castle accessible for visitors with mobility issues?"
-    a: "No — the route to the summit involves steep, uneven stone steps and narrow passages with no elevator or paved path."
+  - q: How much time should I budget for Uchisar Castle?
+    a: >-
+      Plan for 45–60 minutes, including the climb up through the carved passages
+      and time at the summit viewpoint.
+  - q: What are the opening hours?
+    a: >-
+      Uchisar Castle is open daily from 7:00 AM to 9:00 PM, with no day-of-week
+      closures.
+  - q: When is the quietest time to visit?
+    a: >-
+      Early morning or evening, outside the 10am–7pm weekend window, is calmest
+      — the site sees its heaviest crowds on weekends during that
+      midday-to-evening stretch.
+  - q: How do I get to Uchisar Castle without a car?
+    a: >-
+      Take a dolmuş (local minibus) or taxi from Göreme, about 7km away — the
+      ride takes roughly 15 minutes, then it's a short walk uphill to the
+      entrance.
+  - q: Is Uchisar Castle accessible for visitors with mobility issues?
+    a: >-
+      No — the route to the summit involves steep, uneven stone steps and narrow
+      passages with no elevator or paved path.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-30'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
