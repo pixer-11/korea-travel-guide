@@ -42,11 +42,28 @@ if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing')
 async function rewrite(kind, text, title, endedOn, residue = null) {
   const msg = await client.messages.create({
     model: MODEL,
+    // Shifting a tense is clerical work — every fact is already in the text and
+    // the prompt below spells out all seven rules. Sonnet 5 thinks by DEFAULT when
+    // this field is absent, and that reasoning is billed as output and spends the
+    // max_tokens budget before a word of the rewrite is written. On 2026-08-30
+    // five bodies in a row came back stop_reason=max_tokens and were discarded
+    // unread — three wasted calls each — and the cheap sentence-level pass then
+    // did the job anyway.
+    //
+    // The cap was never the problem. Measured on new-delhi-bwf's 4,086-character
+    // body against its own 2,643-token budget, same prompt, two runs each:
+    //     thinking on   → 2,643 (truncated) · 2,591   ← the whole budget, or nearly
+    //     thinking off  → 1,141 · 1,138               ← 43% of it
+    // Reasoning was eating ~1,450 tokens of a 2,643-token ceiling. Note the shape
+    // of that: it is prompt-sensitive, not size-sensitive. A stripped-down version
+    // of this same prompt drew only 287 thinking tokens, which is why a quick test
+    // says the budget is fine and production still truncates.
+    thinking: { type: 'disabled' },
     // A 4,000-character body is ~1,200 tokens BEFORE the rewrite adds a word,
     // so the old flat 1,200 cap cut the answer off mid-word and the code wrote
     // the stump: jakarta-the-sounds-project-vol-9 shipped ending "…the decent
     // walk from par" on 2026-08-10. Budget from the input, with headroom.
-    max_tokens: Math.min(8192, Math.max(1200, Math.ceil(text.length / 2) + 600)),
+    max_tokens: Math.min(16000, Math.max(1200, Math.ceil(text.length / 2) + 600)),
     messages: [{
       role: 'user',
       content: `This is the ${kind} of a travel guide for "${title}", an event that ENDED on ${endedOn}. It was written before the event, so it still points readers at things that will happen.
