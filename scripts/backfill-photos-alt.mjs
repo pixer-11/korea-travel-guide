@@ -24,6 +24,7 @@ import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from
 import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
 import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
+import { eventProperName } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
@@ -261,11 +262,20 @@ for (const f of files) {
     // find, the 2026-08-16 "After Forever" / street-football cases) lives in
     // lib/event-file-identity.mjs, shared with upgrade-hero-width.
     const seen = new Set(used);
-    // Filename refusals are free (no vision call) and each one is marked in
-    // `seen`, so the loop may dig past them: six fixed turns were all spent
-    // on "Autumn Music" leaf photos before the real Hue Festival file came
-    // up (2026-08-22). Stop once a few candidates are worth a vision call.
-    for (let i = 0; i < 12 && cands.length < 4; i++) {
+    // The event's own proper name, for the whole-name escape in the identity
+    // audit (a file that spells it out is naming the event, not another act).
+    const properName = eventProperName(venueName);
+    // Filename refusals and remembered MISMATCHes are free — no vision call —
+    // and each one is marked in `seen`, so the loop may dig past them: six
+    // fixed turns were all spent on "Autumn Music" leaf photos before the
+    // real Hue Festival file came up (2026-08-22), and Phuket spent eleven
+    // of twelve on filename refusals and never reached the ~35 large CC-BY
+    // Commons files that name the festival outright (2026-08-30). So the
+    // free ones get their OWN allowance instead of eating the budget that
+    // exists to find four vision-worthy files — with a hard ceiling, since
+    // every turn is still a Commons search.
+    let free = 0;
+    for (let i = 0; i < Math.min(12 + free, 30) && cands.length < 4; i++) {
       let pick = null;
       try {
         pick = await resolveHero({
@@ -275,16 +285,16 @@ for (const f of files) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world) });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName });
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
-      if (foreign) { console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
+      if (foreign) { free++; console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
       // A file the store already judged wrong for this post must not fill
       // the candidate quota: four remembered rejects ("Japanese woodblock
       // illustration" ×3 for HIGE DANDism) filled it every night and the
       // venue search that had Taipei Dome was never reached (2026-08-23).
       const prior = auditStore?.[`${slug}\x01${pick.url}`];
-      if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
+      if (prior && /MISMATCH/.test(String(prior.verdict))) { free++; continue; }
       cands.push(pick);
     }
     // Openverse act tier (2026-08-29, 픽서님: "유명 가수는 다른 공연 사진이라도").

@@ -31,6 +31,7 @@ import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic } from './lib/images.mjs';
 import { keyToken, tokens } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
+import { eventProperName } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { probeWidth } from './lib/image-width.mjs';
@@ -114,7 +115,18 @@ for (const slug of SLUGS) {
       ...tokens(data.eventVenue || ''),
     ]);
     const seen = new Set(used);
-    for (let i = 0; i < 12 && cands.length < 4; i++) {
+    const properName = eventProperName(venueName);
+    // Filename refusals are free — no vision call — and each one is marked
+    // in `seen`, so the loop may dig past them: six fixed turns were all
+    // spent on "Autumn Music" leaf photos before the real Hue Festival file
+    // came up (2026-08-22), and Phuket spent eleven of twelve on filename
+    // refusals and never reached the ~35 large CC-BY Commons files that name
+    // the festival outright (2026-08-30). So the free ones get their OWN
+    // allowance instead of eating the budget that exists to find four
+    // vision-worthy files — with a hard ceiling, since every turn is still a
+    // Commons search. Same shape as backfill-photos-alt's loop.
+    let free = 0;
+    for (let i = 0; i < Math.min(12 + free, 30) && cands.length < 4; i++) {
       let pick = null;
       try {
         pick = await resolveHero({
@@ -124,8 +136,8 @@ for (const slug of SLUGS) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break;
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens() });
-      if (foreign) { console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(), name: properName });
+      if (foreign) { free++; console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
       cands.push(pick);
     }
   } else {

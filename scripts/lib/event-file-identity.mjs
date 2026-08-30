@@ -28,6 +28,13 @@
 //              a sibling event) still refuses.
 //   anything else (act anchor / type / topic searches) — the strict rule:
 //              one leftover proper noun means some other act's photo.
+//
+// Across venue and phrase finds there is one more way out, added 2026-08-30:
+// a file that spells the event's WHOLE proper name out, in order, is naming
+// the event, and whatever else it says is describing the shot ("Face Piercing
+// Phuket Vegetarian Festival 12"). That is deliberately not the same as
+// "contains the anchor word" — see namesTheEvent for the two conditions and
+// the sibling event they exist to keep out.
 import { tokens, ANCHOR_STOP, COMMON_ANCHOR } from './commons.mjs';
 import { GEO_STOP } from './images.mjs';
 
@@ -75,6 +82,39 @@ export function fileTokens(url) {
   return tokens(file.replace(/\.(jpe?g|png|webp)\b.*$/i, ''));
 }
 
+// The event's whole name as an ordered run of identity words. Digits are not
+// identity anywhere in this file (a year is an edition, not an act), so they
+// drop out of both sides of the comparison.
+const nameRun = (name) => tokens(name).filter((t) => !/\d/.test(t));
+
+// Does the FILE name the event outright — its whole proper name, in order?
+//
+// That is a stronger claim than "contains the anchor token", and the
+// difference is the whole safety margin. Moving the anchor rule up here
+// would have cleared "Penutupan Para Asian Games 2018" for the Asian Games
+// post, because a sibling event's name contains ours whole. So two things
+// are required, and the second is what keeps the sibling out:
+//   1. every name word, CONTIGUOUS and in order — "Vegetarian Festival
+//      Kuala Lumpur" is the same festival in another city, and is refused
+//      because "phuket" is missing from the run;
+//   2. at least one word that is identity on its own. "Asian Games" is two
+//      stop-words and a year — nothing in it distinguishes the Para Games —
+//      so containment proves nothing there and the rule stays off.
+// A one-word name is off by rule 1: it would be the bare anchor test again.
+function namesTheEvent(ft, name, geo) {
+  const run = nameRun(name);
+  if (run.length < 2) return false;
+  const identity = (t) =>
+    !ANCHOR_STOP.has(t) && !COMMON_ANCHOR.test(t) &&
+    !SCENE_WORDS.has(t) && !GENERIC_FILE_WORDS.has(t) && !(geo && geo.has(t));
+  if (!run.some(identity)) return false;
+  const words = ft.filter((t) => !/\d/.test(t));
+  for (let i = 0; i + run.length <= words.length; i++) {
+    if (run.every((t, j) => words[i + j] === t)) return true;
+  }
+  return false;
+}
+
 // Returns '' when the file is identity-safe, otherwise the leftover words that
 // make it some other thing's photo (for the log).
 // `geo`: place-name tokens (the site's countries and regions plus the hub
@@ -82,7 +122,13 @@ export function fileTokens(url) {
 // edition was held, not WHO — "Hangzhou 2022 Asian Games" is the Asian
 // Games (refused six times as "another act", 2026-08-22). For an act find
 // it stays a leftover: "street football in Bangkok" is still not the act.
-export function foreignInFilename(url, { known, anchor = '', via = '', geo = null }) {
+// `name`: the event's proper name (eventProperName). A file that spells that
+// name out in full is identity-confirmed even when it also describes what is
+// happening in the shot — ~35 large CC-BY files called "Face Piercing Phuket
+// Vegetarian Festival NN.jpg" were refused as "names another act (face
+// piercing)" until this existed (2026-08-30). See namesTheEvent for why the
+// bare anchor token is not enough.
+export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '' }) {
   const ft = fileTokens(url);
   const leftovers = ft.filter((t) =>
     !known.has(t) && !GENERIC_FILE_WORDS.has(t) &&
@@ -91,7 +137,9 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
     // stadium, tour, months, nation adjectives).
     !/\d/.test(t) && !ANCHOR_STOP.has(t));
   if (via === 'venue' || via === 'phrase') {
-    return leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t))).join(' ');
+    const rest = leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t)));
+    if (!rest.length) return '';
+    return namesTheEvent(ft, name, geo) ? '' : rest.join(' ');
   }
   const anchorIsName = anchor && !COMMON_ANCHOR.test(anchor);
   if (anchorIsName && ft.includes(anchor)) return '';
