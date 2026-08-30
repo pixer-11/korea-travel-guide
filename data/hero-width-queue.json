@@ -496,7 +496,6 @@
   "qingdao-zhanqiao-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg/1920px-%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg": 1920,
   "quezon-city-mamamoo-2026-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png": 1920,
   "ras-al-khaimah-dhayah-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhayah_Fort_Ras_al_Khaimah.jpg/1920px-Dhayah_Fort_Ras_al_Khaimah.jpg": 1920,
-  "ras-al-khaimah-jebel-jais\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg": 1920,
   "rome-colosseum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1920px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg": 1920,
   "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": 1920,
   "rome-saint-peter-s-basilica\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1920px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg": 1920,
@@ -1337,8 +1336,8 @@
   "singapore-sri-mariamman-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sri_Mariamman_Temple%2C_Singapore%2C_20240122_0843_2947.jpg/3840px-Sri_Mariamman_Temple%2C_Singapore%2C_20240122_0843_2947.jpg": 3840,
   "suwon-gwanggyo-lake-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg/1920px-%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_%283%29.jpg": 1920,
   "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Marx%2C_Birmingham%2C_AL_2025.jpg": 1500,
-  "banlung-virachey-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Veal_thom.jpg": 320,
-  "jeonju-deokjin-park\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/Deokjin_park.jpg": 1152
+  "phuket-phuket-vegetarian-festival\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/2011_Phuket_Vegetarian_Festival_02.jpg": 3264,
+  "jeonju-deokjin-park\u0001https://fastly.4sqi.net/img/general/original/34458084_14RYoqrysVWEgLac6KJu6Kwvux4iCF96gSE0z0pzV34.jpg": 3072
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1448,15 +1447,15 @@
   },
   "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows": {
    "width": 760,
-   "attempts": 2,
-   "nextTry": "2026-08-30",
+   "attempts": 3,
+   "nextTry": "2026-09-06",
    "flaggedAt": "2026-08-16",
    "lastResult": "no-wider"
   },
   "naples-city-view": {
    "width": 1024,
-   "attempts": 2,
-   "nextTry": "2026-08-30",
+   "attempts": 3,
+   "nextTry": "2026-09-06",
    "flaggedAt": "2026-08-16",
    "lastResult": "no-wider"
   },
@@ -1552,5 +1551,5 @@
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-08-29T22:08:36.837Z"
+ "updated": "2026-08-30T22:24:54.374Z"
 }

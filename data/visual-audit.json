@@ -13815,5 +13815,29 @@
   "verdict": "MATCH",
   "reason": "Devotee amid firecracker smoke, typical festival scene",
   "at": "2026-08-30T04:51:10.277Z"
+ },
+ "abu-dhabi-middle-east-film-comic-con-mefcc-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/2a/Attaque_Man_In_The_Middle.jpg": {
+  "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 495px < 1024",
+  "at": "2026-08-30T22:00:14.378Z"
+ },
+ "ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/82/U-know.JPG": {
+  "slug": "ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 221px < 1024",
+  "at": "2026-08-30T22:07:30.846Z"
+ },
+ "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Tallest_Man_on_Earth-6_%2828937103191%29.jpg": {
+  "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 687px < 1024",
+  "at": "2026-08-30T22:19:37.785Z"
+ },
+ "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Tallest_Man_on_Earth-4_%2828937106081%29.jpg": {
+  "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 687px < 1024",
+  "at": "2026-08-30T22:19:37.889Z"
  }
 }
