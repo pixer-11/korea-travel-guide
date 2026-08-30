@@ -22,7 +22,7 @@ import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { eligibleCountries, monthSlug as wtgMonthSlug } from '../lib/when-to-go.mjs';
 import countryFactsData from '../../data/country-facts.json';
-import { tileMosaic, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
+import { tileMosaic, zoomFor, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
 import { linkMentions } from '../lib/body-links.mjs';
 import ogMirror from '../../data/og-mirror.json';
@@ -151,7 +151,8 @@ const updated = d.updatedDate ?? d.pubDate;
 // Static map facade (lib/osmTile.mjs): four OSM tiles around the place, a
 // CSS pin, the whole thing a link to Google Maps. Pages that outrank ours
 // show a map; an iframe on every guide would cost LCP/INP (2026-08-23).
-const mapMosaic = p && Number.isFinite(p.lat) && Number.isFinite(p.lng) ? tileMosaic(p.lat, p.lng) : null;
+// Zoom is per-country: Korean tiles are placeholders above z13 (see zoomFor).
+const mapMosaic = p && Number.isFinite(p.lat) && Number.isFinite(p.lng) ? tileMosaic(p.lat, p.lng, { z: zoomFor(country) }) : null;
 // Shown address = Google's minus a leading plus code (lib/address.mjs).
 const shownAddress = p ? stripPlusCode(p.address) : '';
 // Seven identical "Open 24 hours" lines (138 guides, mostly parks, beaches,

@@ -32,6 +32,14 @@ export const TILE_HOSTS = ['https://services.arcgisonline.com/ArcGIS/rest/servic
 export const TILE_ATTRIBUTION = '© Esri · OpenStreetMap contributors';
 export const tileUrl = (z, x, y) => `${TILE_HOSTS[0]}/${z}/${y}/${x}`;
 
+// South Korea's geodata export law keeps detailed map data out of global tile
+// sets, so Esri serves its "Map data not yet available" placeholder there for
+// z14+ — the owner saw four gray tiles on the Deokjin Park guide (2026-08-30).
+// Measured that day: of 958 unique z15 tiles under our published posts, all 77
+// empty ones were in Korea (every Korean post, 92/92), and at z13 all 60
+// Korean tiles have real data. Everyone else keeps the closer default.
+export const zoomFor = (country) => (country === 'South Korea' ? 13 : 15);
+
 /** Slippy-map tile coordinates (fractional) for a WGS84 point at zoom z. */
 export function tileXY(lat, lng, z) {
   const n = 2 ** z;

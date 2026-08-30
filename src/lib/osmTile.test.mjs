@@ -46,3 +46,10 @@ test('Esri 타일 경로는 z/y/x 순서다 — x/y로 돌아가면 엉뚱한 �
   const { tileUrl } = await import('./osmTile.mjs');
   assert.ok(tileUrl(15, 26838, 12852).endsWith('/15/12852/26838'));
 });
+
+test('한국만 z13 — Esri는 한국 z14+를 "Map data not yet available" 자리표시로 채운다 (2026-08-30 전수 실측: 빈 타일 77개 전부 한국, z13은 60/60 데이터 있음)', async () => {
+  const { zoomFor } = await import('./osmTile.mjs');
+  assert.equal(zoomFor('South Korea'), 13);
+  assert.equal(zoomFor('Japan'), 15);
+  assert.equal(zoomFor(undefined), 15);
+});
