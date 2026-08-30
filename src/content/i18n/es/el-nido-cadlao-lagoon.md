@@ -1,75 +1,75 @@
 ---
 lang: es
 slug: el-nido-cadlao-lagoon
-srcHash: '9b98759dd499'
-title: 'Laguna de Cadlao: Guía de Viaje de El Nido (4.8★)'
-description: 'La Laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la Isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. 4.8★ (227 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: La Laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la Isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. No forma parte de las rutas estándar de Island Hopping A-D, así que conviene ir en banca privada o pedirle a un operador turístico que la incluya en el recorrido. Las mañanas antes de las 9 a. m., o la franja de 7 a. m. a 10 p. m. los fines de semana, son los momentos más tranquilos. Conviene reservar medio día para la excursión completa, contando el trayecto en barco y el tiempo de baño.
+srcHash: '666594350bbb'
+title: 'Laguna de Cadlao: Guía de viaje de El Nido (4.8★)'
+description: 'La laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. 4.8★ (227 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: La laguna de Cadlao es un tranquilo rincón de agua color jade escondido entre los acantilados de la isla Cadlao, al que solo se llega en barco desde el pueblo de El Nido. No forma parte de las rutas estándar de Island Hopping A-D, así que conviene ir en una banca privada o pedirle a un operador turístico que la incluya en el recorrido; las mañanas antes de las 9 h o la franja de fin de semana de 7 h a 22 h son los momentos más tranquilos. Calcule medio día para la excursión completa, incluyendo el trayecto en barco y el tiempo de baño.
 faq:
-  - q: ¿Cómo se llega a la Laguna de Cadlao?
-    a: 'Solo se puede llegar en barco: hay que alquilar una banca privada en el pueblo de El Nido o en la playa de Corong-Corong, o reservar un tour personalizado, ya que no está incluida en las rutas estándar del Island Hopping Tour A-D. El trayecto dura entre 20 y 30 minutos en cada dirección.'
+  - q: ¿Cómo se llega a la laguna de Cadlao?
+    a: 'Solo en barco: hay que fletar una banca privada desde el pueblo de El Nido o la playa de Corong-Corong, o reservar un tour personalizado, ya que no está incluida en las rutas estándar del Island Hopping Tour A-D. El trayecto dura entre 20 y 30 minutos en cada dirección.'
   - q: ¿Hay que pagar entrada?
     a: No existe una taquilla formal ni una tarifa fija; el costo queda incluido en lo que se negocie por el alquiler del barco o el tour privado.
-  - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Los fines de semana, se mantiene tranquila de 7 a. m. a 10 p. m., con la mayor afluencia entre las 9 a. m. y las 4 p. m. Entre semana, el horario más tranquilo es de 8 p. m. a 9 p. m., aunque la mayoría de los barcos solo operan durante el día, por lo que salir temprano por la mañana es la mejor opción.
-  - q: ¿Cuánto tiempo conviene planear para la visita?
-    a: La mayoría de los visitantes pasa entre 30 y 60 minutos nadando y explorando la laguna, sin contar el tiempo de traslado; conviene calcular medio día para la excursión completa de ida y vuelta desde el pueblo de El Nido.
-  - q: ¿Qué se debe llevar?
-    a: Protector solar apto para arrecifes, aplicado antes de subir al barco; escarpines por si hay que trepar sobre rocas; una bolsa impermeable para los aparatos electrónicos; y agua y bocadillos propios, ya que en la laguna no hay instalaciones ni vendedores.
+  - q: ¿Cuál es el mejor momento para evitar las multitudes?
+    a: Los fines de semana, el ambiente se mantiene tranquilo de 7 h a 22 h, aunque la franja de mayor afluencia va de 9 h a 16 h. Entre semana, el momento más tranquilo es de 20 h a 21 h, aunque la mayoría de los barcos solo operan durante el día, así que lo mejor es salir temprano por la mañana.
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
+    a: La mayoría de los visitantes pasa entre 30 y 60 minutos nadando y explorando la laguna, sin contar el tiempo de traslado; en total, hay que calcular una excursión de medio día de ida y vuelta desde el pueblo de El Nido.
+  - q: ¿Qué hay que llevar?
+    a: Protector solar biodegradable aplicado antes de subir al barco, calzado acuático para trepar sobre las rocas, una bolsa impermeable para los aparatos electrónicos, y agua y snacks propios, ya que en la laguna no hay instalaciones ni vendedores.
 ---
 
-> **Cómo se hizo esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de la información en vivo de Google Places; las imágenes son con licencia o de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con asistencia de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
 ## Por qué ir
 
-La Isla Cadlao domina el paisaje que se ve desde las playas de El Nido, pero casi nadie se detiene en su laguna. Ahí está precisamente su encanto.
+La isla Cadlao domina el paisaje que se ve desde las playas de El Nido, pero casi nadie se detiene en su laguna. Ahí radica su encanto.
 
-El agua se extiende por un estrecho canal entre paredes de piedra caliza, con tonos que van del turquesa en la entrada a un jade profundo más adentro, donde los acantilados bloquean la luz directa del sol. Las sombras de los peces se deslizan sobre el fondo arenoso. No hay muelle, ni vendedores, ni fila de barcos turísticos peleando por la mejor foto: solo roca, agua y, de vez en cuando, algún vencejo que se lanza hacia una grieta en lo alto.
+El agua se cuela por un estrecho corte entre paredes de piedra caliza, y su color cambia de turquesa en la entrada a un jade profundo hacia el interior, donde los acantilados bloquean la luz directa del sol. Las sombras de los peces se deslizan sobre el fondo arenoso. No hay muelle, ni vendedores, ni fila de lanchas turísticas peleando por la mejor foto: solo roca, agua y, de vez en cuando, algún vencejo que se lanza hacia una grieta en lo alto.
 
-Al ser un lugar poco conocido, aquí se puede disfrutar de los paisajes más famosos de El Nido sin la multitud que suele reunirse en la Laguna Grande y la Laguna Pequeña, en la bahía de Bacuit.
+Al tratarse de un lugar poco conocido, aquí se puede disfrutar del célebre paisaje de El Nido sin la multitud que suele concentrarse en la Laguna Grande y la Laguna Pequeña de la bahía de Bacuit.
 
 ## Cómo llegar
 
-La Laguna de Cadlao se encuentra en el lado occidental de la Isla Cadlao, a poca distancia en barco del pueblo de El Nido. No existe acceso por carretera: se trata de un destino exclusivamente marítimo, al que no llega ningún jeepney ni triciclo público.
+La laguna de Cadlao se encuentra en el lado occidental de la isla Cadlao, a un corto trayecto en barco desde el pueblo de El Nido. No hay acceso por carretera: este es un territorio exclusivamente marítimo, al que no llega ningún jeepney ni tricycle público.
 
-Estas son las opciones disponibles:
+Estas son las opciones:
 
-- Alquilar una banca privada en la playa del pueblo de El Nido o en Corong-Corong, pidiéndole expresamente al conductor que los lleve a la Laguna de Cadlao (no figura en las rutas turísticas identificadas con letras).
-- Reservar un tour personalizado o "especial" con un operador local, ya que la mayoría de los Island Hopping Tours estándar, del A al D, la omiten por completo.
-- Combinar la visita con otras calas de la Isla Cadlao, si el conductor de la banca conoce bien la costa.
+- Fletar una banca privada desde la playa del pueblo de El Nido o desde Corong-Corong, pidiéndole expresamente al lanchero que lleve a la laguna de Cadlao (no figura en las rutas estándar identificadas por letras).
+- Reservar un tour personalizado o "especial" a través de un operador local, ya que la mayoría de los Island Hopping Tours A a D la omiten por completo.
+- Combinarla con la visita a otras calas de la isla Cadlao, si el lanchero conoce bien la costa.
 
-El trayecto en barco desde el pueblo dura entre 20 y 30 minutos aproximadamente en cada dirección, según las condiciones del mar.
+El trayecto en barco desde el pueblo dura, en cada dirección, entre 20 y 30 minutos aproximadamente, según las condiciones del mar.
 
 ## Qué ver y hacer
 
-Una vez dentro, lo mejor es apagar el motor y nadar. La laguna es tan angosta que cruzarla de un extremo a otro a nado toma solo unos minutos, pero el verdadero atractivo son sus paredes.
+Al llegar, lo mejor es apagar el motor y nadar. La laguna es lo bastante estrecha como para cruzarla a nado de un extremo a otro en pocos minutos, pero el verdadero atractivo son sus paredes.
 
-El karst de piedra caliza se eleva directamente desde el agua, con vetas grises y rojizas, y bolsones de vegetación aferrados a las cornisas. Aquí el esnórquel es más bien casual que un destino de arrecife destacado: se puede esperar buena visibilidad y peces pequeños de arrecife, más que jardines de coral espectaculares.
+El karst de piedra caliza se eleva directamente desde el agua, con vetas grises y rojizas, y bolsones de vegetación aferrados a las cornisas. El buceo de superficie aquí es más bien casual, sin pretensión de gran destino arrecifal: se puede esperar buena visibilidad y pequeños peces de arrecife, más que jardines de coral espectaculares.
 
 Conviene llevar:
 
-- Protector solar apto para arrecifes (hay que aplicarlo antes de salir de la orilla, ya que no hay sombra una vez dentro del agua)
-- Escarpines, por si se planea trepar a alguna cornisa rocosa
-- Una bolsa impermeable para el teléfono, ya que no hay dónde dejar las pertenencias
+- Protector solar biodegradable (hay que aplicarlo antes de salir de la orilla, ya que no hay sombra una vez dentro del agua).
+- Calzado acuático, por si se planea trepar a alguna cornisa rocosa.
+- Una bolsa impermeable para el teléfono, ya que no hay dónde dejar las pertenencias.
 
-La mayoría de los visitantes pasa entre 30 y 60 minutos aquí antes de seguir a otra parada en Cadlao o regresar al pueblo.
+La mayoría de los visitantes pasa entre 30 y 60 minutos aquí antes de continuar hacia otra parada en la isla Cadlao o regresar al pueblo.
 
 ## Cuándo ir
 
-La laguna permanece abierta las 24 horas, pero los barcos solo circulan durante el día, así que en realidad la elección del horario se reduce a escoger el mejor momento dentro de esa franja.
+La laguna permanece abierta las 24 horas, pero los barcos solo operan durante el día, así que en la práctica elegir el horario significa escoger bien el momento dentro de esa franja.
 
-Entre semana suele haber más tranquilidad en general, ya que menos barcos hacen el trayecto. Los fines de semana, la calma se extiende de 7 a. m. a 10 p. m., aunque la mayor afluencia de visitantes llega entre las 9 a. m. y las 4 p. m.
+Entre semana suele haber más tranquilidad en general, con menos barcos que hacen el trayecto. Los fines de semana, el tráfico de embarcaciones aumenta a medida que más visitantes salen a pasar el día.
 
-Si es posible, conviene salir temprano por la mañana, antes de la avalancha de las 9 a. m. y antes de que el sol suba lo suficiente como para apagar el contraste de colores del agua.
+De ser posible, conviene salir temprano por la mañana, antes de la avalancha de las 9 h y antes de que el sol suba lo suficiente como para apagar el contraste de colores en el agua.
 
 ## Cómo visitarla como un local
 
-Aquí no hay taquilla, ni tarifa fija, ni horario establecido: todo depende de lo que se acuerde con el conductor de la banca, por lo que conviene negociar el precio y la ruta antes de salir del muelle.
+Aquí no hay taquilla, ni tarifa fija, ni horario establecido: todo depende de lo que se acuerde con el lanchero, así que conviene negociar el precio y la ruta antes de zarpar.
 
-- **Pídela por su nombre.** La Laguna de Cadlao no forma parte de los paquetes turísticos estándar, así que hay que mencionarla claramente al reservar, porque de lo contrario el guía podría llevarlos por defecto a las lagunas más concurridas de la bahía de Bacuit.
-- **Paguen en efectivo.** Los alquileres de barco y cualquier tarifa informal de guía se cobran en pesos filipinos, no con tarjeta ni pago móvil.
-- **Salgan temprano.** Los pescadores locales y quienes transportan suministros alrededor de la Isla Cadlao suelen estar activos al amanecer; el tráfico de barcos aumenta hacia media mañana.
-- **No esperen instalaciones.** No hay baños, puestos de comida ni caseta de guardaparques, así que hay que llevar agua y bocadillos desde el pueblo.
-- **Respeten la tranquilidad del lugar.** Como muy pocos grupos turísticos se detienen aquí, los parlantes a alto volumen o los grupos numerosos resultan más invasivos que en un sitio más concurrido.
+- **Pídala por su nombre.** La laguna de Cadlao no forma parte de los paquetes turísticos estándar, así que hay que mencionarla claramente al reservar, o el guía podría llevarlo por defecto a las lagunas más concurridas de la bahía de Bacuit.
+- **Pague en efectivo.** Los alquileres de barco y cualquier honorario informal de guía se cobran en pesos filipinos, no con tarjeta ni pago móvil.
+- **Salga temprano.** Los pescadores locales y quienes transportan suministros alrededor de la isla Cadlao suelen estar activos al amanecer; el tráfico de embarcaciones aumenta a media mañana.
+- **No espere instalaciones.** No hay baños, ni puestos de comida, ni caseta de guardaparques, así que hay que llevar agua y snacks desde el pueblo.
+- **Respete el silencio del lugar.** Como muy pocos grupos turísticos se detienen aquí, los parlantes a alto volumen o los grupos numerosos resultan más intrusivos que en un sitio más concurrido.
 
-El error más común entre los visitantes es suponer que cualquier tour en barco por El Nido incluye automáticamente esta laguna. No es así: hay que solicitarla específicamente, idealmente al momento de reservar o la noche anterior.
+El error más común entre los visitantes es suponer que cualquier tour en barco por El Nido incluye automáticamente esta laguna. No es así: hay que pedirla específicamente, lo ideal es hacerlo al reservar o la noche anterior.

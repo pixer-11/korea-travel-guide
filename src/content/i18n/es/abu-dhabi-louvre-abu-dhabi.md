@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: abu-dhabi-louvre-abu-dhabi
-srcHash: '0fcd6d20e948'
-title: 'Louvre Abu Dhabi: guía de viaje (4,7★)'
-description: 'En la isla de Saadiyat, el Louvre Abu Dhabi merece media jornada completa: entre 2 y 3 horas para las galerías, más tiempo para recorrer la cúpula y el paseo marítimo. 4,7★ (39.594 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: 'El Louvre Abu Dhabi, en la isla de Saadiyat, merece media jornada completa: entre 2 y 3 horas para las galerías, más tiempo para pasear bajo la cúpula y por el paseo marítimo. Cierra los lunes, y abre de 10:00 a 18:30 de martes a jueves, y hasta las 20:30 de viernes a domingo. Para disfrutar del momento más tranquilo, conviene llegar justo a las 10:00 un fin de semana, ya que la franja de 10:00 a 12:00 es la más despejada antes de que el museo se llene.'
+srcHash: '8e023f3eda2d'
+title: 'Louvre Abu Dabi: Guía de Viaje (4.7★)'
+description: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. 4.7★ (39.594 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
+quickAnswer: 'El Louvre Abu Dabi, situado en la isla de Saadiyat, merece medio día completo: entre 2 y 3 horas para las galerías, más el tiempo necesario para recorrer la cúpula y el paseo marítimo. Cierra los lunes, y abre de 10:00 a 18:30 de martes a jueves, y hasta las 20:30 de viernes a domingo. Conviene llegar justo a las 10:00 en fin de semana para aprovechar la franja más tranquila, de 10:00 a 12:00, antes de que el museo se llene.'
 faq:
-  - q: ¿Cuánto tiempo debería reservar para visitar el Louvre Abu Dhabi?
-    a: Calcula un mínimo de dos a tres horas para las galerías permanentes, y algo más cercano a media jornada si además quieres ver una exposición especial, pasear por el paseo marítimo o comer en el propio museo.
-  - q: ¿Cuál es el mejor momento para evitar las multitudes?
-    a: Los fines de semana, la franja de 10:00 a 12:00 es la más tranquila según los datos medidos de afluencia. La multitud aumenta de forma constante desde la apertura y se mantiene alta hasta cerca de las 19:00, así que llegar justo a las 10:00 es la mejor opción.
-  - q: ¿El Louvre Abu Dhabi cierra algún día?
-    a: Sí, permanece cerrado todo el día los lunes. Abre de 10:00 a 18:30 de martes a jueves, y de 10:00 a 20:30 de viernes a domingo.
-  - q: ¿Cómo se llega a la isla de Saadiyat sin coche propio?
-    a: No existe una línea de metro directa hasta la isla de Saadiyat, así que la mayoría de los visitantes toma un taxi, un vehículo de alquiler con conductor o un autobús de traslado organizado. El trayecto desde el centro de Abu Dabi dura entre 20 y 30 minutos.
+  - q: ¿Cuánto tiempo debo reservar para visitar el Louvre Abu Dabi?
+    a: Calcule un mínimo de dos a tres horas para las galerías permanentes, y prácticamente medio día si además quiere ver una exposición temporal, pasear por el paseo marítimo o comer en el propio recinto.
+  - q: ¿Cuál es el mejor momento para evitar las aglomeraciones?
+    a: Los fines de semana, la franja de 10:00 a 12:00 es la más tranquila según los datos de afluencia registrados. A partir de la apertura, la multitud crece de forma constante y se mantiene alta hasta cerca de las 19:00, así que llegar justo a las 10:00 es la mejor opción.
+  - q: ¿El Louvre Abu Dabi cierra algún día?
+    a: Sí, permanece cerrado todo el lunes. Abre de 10:00 a 18:30 de martes a jueves, y de 10:00 a 20:30 de viernes a domingo.
+  - q: ¿Cómo se llega a la isla de Saadiyat sin coche?
+    a: No existe una línea de metro directa hasta la isla de Saadiyat, así que la mayoría de los visitantes toma un taxi, un servicio de VTC o un traslado organizado. El trayecto desde el centro de Abu Dabi dura entre 20 y 30 minutos.
   - q: ¿Conviene reservar las entradas con antelación?
-    a: 'Sí: reservar en línea una entrada con horario asignado antes de la visita es la práctica habitual y permite evitar la fila de la taquilla, que puede ser larga los fines de semana.'
+    a: 'Sí: reservar en línea una entrada con horario asignado antes de la visita es la práctica habitual, ya que permite evitar la cola de venta de entradas, que puede ser larga los fines de semana.'
 ---
 
-> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de IA. Los datos provienen de Google Places en tiempo real; las imágenes cuentan con licencia o son de dominio público. Consulta nuestra [política editorial](/about).
+> **Cómo se elaboró esta guía:** Revisada por un editor, con apoyo de inteligencia artificial. Los datos proceden de la información en vivo de Google Places; las imágenes cuentan con licencia o son de dominio público. Consulte nuestra [política editorial](/about).
 
-## Por qué ir
+## Por qué visitarlo
 
-Lo primero que se ve es la cúpula. El techo reticulado de 7.850 estrellas diseñado por Jean Nouvel flota sobre el agua y proyecta un patrón de luz cambiante sobre las plazas de abajo, algo que los críticos de arquitectura han bautizado como una "lluvia de luz".
+Lo primero que llama la atención es la cúpula. El techo en forma de celosía estelar diseñado por Jean Nouvel flota sobre el agua y proyecta un patrón cambiante de luz sobre las plazas de abajo, algo que los críticos de arquitectura han bautizado como una "lluvia de luz".
 
-En el interior, el concepto es igual de audaz: las obras no están organizadas por país, sino por temas humanos compartidos. Así, una vasija china de la Edad del Bronce puede estar junto a un sarcófago egipcio, y un Picasso puede colgar cerca de caligrafía otomana. Es un museo concebido para defender que la creatividad humana es una sola historia continua, y no un conjunto de relatos nacionales separados.
+En el interior, el planteamiento es igual de audaz: las obras no se agrupan por país, sino por temas humanos compartidos, de modo que una vasija china de la Edad del Bronce puede estar junto a un sarcófago egipcio, y un Picasso puede colgar cerca de una caligrafía otomana. Es un museo concebido para defender que la creatividad humana es una sola historia continua, y no un conjunto de historias nacionales separadas.
 
 ## Cómo llegar
 
-El Louvre Abu Dhabi se encuentra en la isla de Saadiyat, a unos 20-30 minutos en taxi o vehículo de alquiler con conductor desde el centro de Abu Dabi, y a aproximadamente 45 minutos desde Dubái según el tráfico. No hay línea de metro hasta la isla, por lo que la mayoría de los visitantes llega en coche, taxi o mediante un autobús de traslado organizado.
+El Louvre Abu Dabi se encuentra en la isla de Saadiyat (Saadiyat Island), a unos 20-30 minutos en taxi o VTC desde el centro de Abu Dabi, y a aproximadamente 45 minutos desde Dubái según el tráfico. No hay línea de metro hasta la isla, así que la mayoría de los visitantes llega en coche, en taxi o mediante un autobús de traslado o de tour organizado.
 
-Si vas en coche, hay estacionamiento disponible en el propio recinto, bien señalizado una vez que entras a Saadiyat. Reserva tu entrada con horario asignado por internet con antelación: las filas para comprar en el momento crecen rápido los fines de semana, y reservar con anticipación también asegura tu franja de ingreso.
+Si viaja en coche, hay aparcamiento in situ y está bien señalizado una vez que se llega a Saadiyat. Reserve su entrada con horario asignado en línea con antelación: las colas para comprar entradas en el momento crecen rápido los fines de semana, y reservar con anticipación también garantiza su franja horaria de entrada.
 
 ## Qué ver
 
-Reserva al menos dos o tres horas; los amantes serios del arte deberían destinar medio día. Las galerías permanentes avanzan cronológicamente, desde artefactos prehistóricos hasta obras contemporáneas, así que conviene recorrerlas de principio a fin en lugar de elegir solo algunas piezas.
+Reserve al menos dos o tres horas; los aficionados al arte más entusiastas deberían prever medio día. Las galerías permanentes siguen un orden cronológico, desde los objetos prehistóricos hasta las obras contemporáneas, por lo que conviene recorrerlas de principio a fin en lugar de elegir solo algunas piezas.
 
-No te pierdas:
+No se pierda:
 
-- La galería de "Religiones Universales", donde un Corán, un rollo de la Torá y una Biblia de Gutenberg conviven en la misma vitrina
-- El ala del museo infantil, si viajas con niños
-- El paseo exterior bajo la cúpula al atardecer, cuando el juego de luces con forma de estrellas alcanza su momento más espectacular
-- Las exposiciones especiales rotativas, muchas veces con préstamos del Louvre de París u otras instituciones asociadas
+- La galería de las "Religiones Universales", donde un Corán, un rollo de la Torá y una Biblia de Gutenberg comparten la misma vitrina
+- El ala del museo infantil, si viaja con niños
+- El paseo exterior bajo la cúpula tras la puesta de sol, cuando el juego de luces con el patrón estelar resulta más espectacular
+- Las exposiciones temporales, a menudo con obras cedidas por el Louvre de París u otras instituciones asociadas
 
-En el exterior, el museo está literalmente rodeado de agua: el Golfo llega hasta los muros exteriores, y existen recorridos en kayak por el perímetro del edificio que ofrecen una perspectiva de la arquitectura completamente distinta a la que se obtiene desde dentro.
+En el exterior, el museo está literalmente rodeado de agua: el Golfo llega hasta los muros exteriores del edificio, y existen tours en kayak que recorren su perímetro, ofreciendo una perspectiva de la arquitectura totalmente distinta a la que se aprecia desde dentro.
 
 ## Cuándo ir
 
-El museo permanece cerrado todo el día los lunes, así que no planifiques tu visita para ese día. De martes a jueves abre de 10:00 a 18:30; de viernes a domingo el horario se extiende hasta las 20:30, algo que vale la pena aprovechar si quieres ver la cúpula iluminada al anochecer.
+El museo permanece cerrado todo el lunes, así que conviene no planear la visita ese día. De martes a jueves abre de 10:00 a 18:30; de viernes a domingo el horario se extiende hasta las 20:30, algo que vale la pena aprovechar si se quiere ver la cúpula iluminada al atardecer.
 
-Los fines de semana la afluencia crece rápido, con multitudes que aumentan de forma constante desde la apertura hasta cerca de las 19:00. Si quieres tener las galerías casi para ti solo, llega justo a las 10:00 un sábado o domingo: la franja de 10:00 a 12:00 es, según las mediciones, la más tranquila de todo el fin de semana.
+Los fines de semana la afluencia aumenta rápidamente, y la multitud crece de forma constante desde la apertura hasta cerca de las 19:00. Si quiere disfrutar de las galerías con tranquilidad, llegue justo a las 10:00 un sábado o domingo, antes de que se acumule la gente.
 
-## Qué comer
+## Dónde comer
 
-La cafetería del recinto tiene vistas al agua y resulta ideal para una pausa con café entre un ala y otra, más que para una comida completa. Si buscas algo más sustancioso, la zona de restaurante del museo ofrece una mezcla de platos internacionales y de Oriente Medio, con mesas junto al agua.
+La cafetería del propio museo tiene vistas al agua y resulta ideal para una pausa con café entre ala y ala, más que para una comida completa. Para algo más consistente, la zona de restaurantes del museo ofrece una mezcla de platos internacionales y de Oriente Medio, con mesas junto al mar.
 
-Si prefieres comer fuera del recinto, la isla de Saadiyat cuenta con varios clubes de playa y restaurantes de hotel a poca distancia en coche, una buena opción si piensas combinar la visita al museo con una tarde de playa.
+Si prefiere comer fuera del recinto, la isla de Saadiyat cuenta con algunos beach clubs y restaurantes de hotel a poca distancia en coche, una buena opción si se combina la visita al museo con una tarde de playa.
 
 ## Cómo visitarlo como un local
 
-El Louvre Abu Dhabi es una de las atracciones más visitadas de los Emiratos Árabes Unidos, así que conviene tratarlo como un museo concurrido y no como un descubrimiento tranquilo. La clave para evitar las multitudes está en el horario: ve justo a las 10:00, a la apertura de un fin de semana, o cualquier mañana entre semana, en lugar de la hora punta de media tarde.
+El Louvre Abu Dabi es una de las atracciones más visitadas de los Emiratos Árabes Unidos, así que conviene tratarlo como el museo concurrido que es, no como un hallazgo tranquilo. La clave para evitar las aglomeraciones está en el horario: conviene ir justo a las 10:00, a la hora de apertura de un fin de semana, o cualquier mañana entre semana, en lugar de acudir en la hora punta de la tarde.
 
-Compra tu entrada por internet con antelación: es la forma habitual en que los residentes y locales visitan el museo, ya que permite saltarse por completo la fila de la taquilla e ir directo al control de seguridad. En el recinto, el pago se realiza sobre todo con tarjeta o pago móvil, más que en efectivo.
+Compre la entrada en línea con antelación: es la forma habitual en que los residentes y locales visitan el museo, ya que permite saltarse por completo la cola de la taquilla y dirigirse directamente al control de seguridad. En el recinto se puede pagar con tarjeta o pago móvil casi tanto como en efectivo.
 
-El código de vestimenta es informal-elegante y recatado, acorde con las normas generales de los Emiratos, aunque el ambiente del museo en sí es más relajado que el de los lugares religiosos. El error más común entre quienes visitan por primera vez es intentar verlo todo en un recorrido apresurado: el diseño del espacio invita a pasear despacio entre civilizaciones, y ir con prisa le quita todo el sentido.
+El código de vestimenta es informal-elegante y recatado, acorde con las normas generales de los Emiratos, aunque el propio museo es más relajado que los lugares religiosos. El error más común entre quienes visitan el museo por primera vez es intentar verlo todo en un recorrido apresurado: la distribución invita a pasear despacio entre civilizaciones, y las prisas van en contra de esa idea.
 
-Por lo general está permitido fotografiar sin flash en las galerías, así que lleva tu teléfono o cámara, pero evita el flash por respeto a las obras. Si puedes, quédate hasta después del atardecer en una visita de viernes, sábado o domingo: la cúpula iluminada, vista desde la calzada exterior, es con razón la imagen más fotografiada del edificio.
+Por lo general, se permite fotografiar sin flash en las galerías, así que conviene llevar un teléfono o una cámara, pero evitar el flash por respeto a las obras. Si es posible, quédese hasta después de la puesta de sol en una visita de viernes, sábado o domingo: la cúpula iluminada vista desde la calzada exterior es, con razón, la imagen más fotografiada del edificio.
