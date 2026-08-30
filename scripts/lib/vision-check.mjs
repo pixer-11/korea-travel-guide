@@ -15,6 +15,25 @@ import sharp from 'sharp';
 import { imageFetch } from './image-fetch.mjs';
 import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply } from './head-box.mjs';
 
+// 2026-08-30, 픽서님: "워터마크 없는걸로 바꿔줘." 푸켓 채식축제에 붙을 뻔한
+// Flickr 사진 6장이 전부 `Phuket@photographer.net`을 박고 있었다. 사진 자체는
+// 정확했고 — 그래서 통과했다. 게이트가 "이 축제가 맞나"만 묻고 "대문에 걸
+// 만한가"는 안 물었기 때문이다.
+//
+// 마지막 문장이 중요하다: 간판·현수막·티셔츠에 **원래 찍혀 있던** 글자까지
+// 거르면 거리 사진이 전멸한다. 거르는 건 나중에 **덧입힌** 표식뿐이다.
+export const WATERMARK_RULE =
+  'REJECT a photo carrying a visible WATERMARK or overlaid credit — a photographer name, ' +
+  'website or url, stock-agency logo, signature or copyright line superimposed on the picture. ' +
+  'This is a paid travel guide and a stamped photo reads as borrowed. ' +
+  'Judge only marks ADDED ON TOP of the photo: lettering that was really there in the scene ' +
+  '(shop signs, banners, jerseys, street notices) is part of the picture and is fine.';
+
+// 두 게이트가 실제로 프롬프트에 끼워 넣는 블록. 상수로 두는 이유는 한쪽만
+// 고쳐서 갈라지는 걸 막기 위해서다(vision-check.test.mjs가 지킨다).
+export const HERO_PROMPT_RULES = `${WATERMARK_RULE}\n`;
+export const AUDIT_PROMPT_RULES = `${WATERMARK_RULE}\nAnswer MISMATCH for such a stamped photo.\n`;
+
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.VISION_MODEL || 'claude-sonnet-5';
 
@@ -195,6 +214,7 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
               // measured (2026-08-23); the HEAD BOX (hair → chin) replaces it.
               // Wording and parser live in lib/head-box.mjs — one for every
               // prompt that produces a focus.
+              HERO_PROMPT_RULES +
               `${HEAD_BOX_ASK}\n` +
       `Answer ONLY JSON: {"ok": true|false, "reason": "<max 12 words>", ${HEAD_BOX_JSON}}`,
           },
@@ -246,7 +266,7 @@ Place: ${region}, ${country}
 ${eventMode ? `This post is about an EVENT. A photo of the same act/team/sport, of this event type, or of its venue${venue ? ` — the venue is "${venue}" (a photo of that building, hall, stadium, circuit or resort, inside or outside, is a MATCH)` : ''} from ANY year or edition is a MATCH — an event guide is illustrated with archive photos by design. A close-up or PORTRAIT of a performer — on stage or off, with or without venue context — is a MATCH when the person could plausibly be this event's act: you cannot recognize faces, and the act's identity is verified separately from the file's metadata (the "random person's portrait" rule below is for venues, not events; it cost this pipeline six event posts their genuine performer photos, 2026-08-20~29). Answer MISMATCH for a portrait ONLY when the person visibly belongs to a DIFFERENT domain than this event — an athlete in uniform for a concert, a musician for a sports match (that rule caught a baseball player offered as a rapper's hero, 2026-08-24 — keep catching those). For a multi-sport Games (Asian Games, Olympics, SEA Games) a photo of ANY sport or ceremony at a past edition is a MATCH. A past edition may have been held in a DIFFERENT city or country — that is still a MATCH; do not answer MISMATCH for the city, the country, or the year. NEVER answer MISMATCH because the photo shows a different year or edition; judge only whether it shows the wrong act, sport or place.
 ` : ''}Look at the image. Does it plausibly depict THIS venue, its food, its interior/exterior, or its immediate street/setting?
 Answer MISMATCH if the image is clearly wrong — e.g. an empty/finished plate with only scraps, a building whose architecture is from the wrong country, the wrong city/country, or an unrelated subject (a grocery/convenience store for a café, an insect specimen, a museum statue/object, a random person's portrait, diving equipment, a vehicle/landscape/bridge for a restaurant, unrelated stock).
-Answer WEAK if it's the right place/country but generic and only loosely related.
+${AUDIT_PROMPT_RULES}Answer WEAK if it's the right place/country but generic and only loosely related.
 Answer MATCH if it plausibly fits.
 Reply with ONLY a compact JSON object: {"verdict":"MATCH|WEAK|MISMATCH","reason":"<8 words max>","reasonKo":"<같은 내용을 한국어로, 12자 이내>"}
 reasonKo must be written in Korean — it is sent to the site owner, who reads Korean, and an English reason has reached him twice before.`;
