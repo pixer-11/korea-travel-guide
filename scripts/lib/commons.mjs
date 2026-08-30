@@ -33,7 +33,11 @@ const stripHtml = (s = '') =>
 export const cleanCommonsUrl = (u) =>
   String(u ?? '').replace(/\?utm_source=commons\.wikimedia\.org(?:&utm_[a-z]+=[A-Za-z0-9_.-]*)*/g, '');
 
-export const tokens = (s = '') =>
+// Every word of a string, accents folded and punctuation split out — the
+// same normalisation tokens() does, minus the length filter. Words of 1-2
+// characters are noise as search anchors (why tokens() drops them) but they
+// are identity inside a hyphenated name: "U-Know" is not "know".
+export const allWords = (s = '') =>
   String(s)
     // Fold accents BEFORE stripping non-ASCII, else "Tiësto" splits into
     // "ti" + "sto" and neither is the act (2026-08-15).
@@ -41,7 +45,9 @@ export const tokens = (s = '') =>
     .toLowerCase()
     .replace(/[^a-z0-9\s]/g, ' ')
     .split(/\s+/)
-    .filter((w) => w.length > 2);
+    .filter(Boolean);
+
+export const tokens = (s = '') => allWords(s).filter((w) => w.length > 2);
 
 // Generic event/tour words that must NOT become the image anchor — otherwise
 // "Post Malone…" anchors on "post" and "UFC Fight Night…" on "fight", matching

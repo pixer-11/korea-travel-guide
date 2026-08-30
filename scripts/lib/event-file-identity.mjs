@@ -35,7 +35,7 @@
 // Phuket Vegetarian Festival 12"). That is deliberately not the same as
 // "contains the anchor word" — see namesTheEvent for the two conditions and
 // the sibling event they exist to keep out.
-import { tokens, ANCHOR_STOP, COMMON_ANCHOR } from './commons.mjs';
+import { tokens, allWords, ANCHOR_STOP, COMMON_ANCHOR } from './commons.mjs';
 import { GEO_STOP } from './images.mjs';
 
 // The `geo` set for foreignInFilename: hub cities plus every country and
@@ -76,10 +76,41 @@ export const SCENE_WORDS = new Set([
 // Defined in commons.mjs so the resolver can rank its searches by it too.
 export { COMMON_ANCHOR };
 
-export function fileTokens(url) {
+// Every word in the filename, the short ones included. fileTokens drops
+// words of 1-2 characters, and those are exactly the words that carry the
+// identity inside a hyphenated anchor.
+function fileWords(url) {
   let file = String(url).split('/').pop() || '';
   try { file = decodeURIComponent(file); } catch {}
-  return tokens(file.replace(/\.(jpe?g|png|webp)\b.*$/i, ''));
+  return allWords(file.replace(/\.(jpe?g|png|webp)\b.*$/i, ''));
+}
+
+export function fileTokens(url) {
+  return fileWords(url).filter((w) => w.length > 2);
+}
+
+// Does the FILE name the act? Normally the anchor is one token and this is a
+// containment test. But keyToken deliberately keeps a hyphenated lead word
+// WHOLE — the anchor for "U-Know … Yunho" must not fall to the meaningless
+// "know" — while tokens() turns every hyphen into a space, so no file token
+// can ever contain one. The two rules met at `ft.includes(anchor)`, which was
+// therefore false for EVERY hyphenated anchor: a genuine photo of the act was
+// refused as "names another act", silently and permanently (2026-08-30).
+//
+// So a hyphenated anchor matches as its parts in a contiguous run, checked
+// word by word against the WHOLE filename rather than against fileTokens.
+// Dropping the short part is the dangerous half: "u-know" reduced to "know"
+// clears the scanned book pages Commons actually returns for that act
+// ("Do you know? - DPLA - …"). The short word has to really be there.
+export function fileNamesAnchor(url, anchor) {
+  if (!anchor) return false;
+  if (!anchor.includes('-')) return fileTokens(url).includes(anchor);
+  const parts = anchor.split('-').filter(Boolean);
+  const words = fileWords(url);
+  for (let i = 0; i + parts.length <= words.length; i++) {
+    if (parts.every((t, j) => words[i + j] === t)) return true;
+  }
+  return false;
 }
 
 // The event's whole name as an ordered run of identity words. Digits are not
@@ -142,11 +173,11 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
     return namesTheEvent(ft, name, geo) ? '' : rest.join(' ');
   }
   const anchorIsName = anchor && !COMMON_ANCHOR.test(anchor);
-  if (anchorIsName && ft.includes(anchor)) return '';
+  if (anchorIsName && fileNamesAnchor(url, anchor)) return '';
   // A common-word anchor that IS the sport ("snooker", "football") is still
   // identity when the file is about that sport and names one extra thing —
   // a player ("Snooker_table_selby"). Two or more leftovers is a scene
   // described elsewhere ("boys playing street … egypt") and refused.
-  if (anchor && ft.includes(anchor) && leftovers.length <= 1) return '';
+  if (anchor && fileNamesAnchor(url, anchor) && leftovers.length <= 1) return '';
   return leftovers.join(' ');
 }

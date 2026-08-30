@@ -6,7 +6,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { foreignInFilename, geoTokens } from './event-file-identity.mjs';
-import { tokens } from './commons.mjs';
+import { tokens, keyToken } from './commons.mjs';
 
 const U = (f) => `https://upload.wikimedia.org/wikipedia/commons/a/b/${encodeURIComponent(f)}`;
 const known = (...parts) => new Set(parts.flatMap((p) => tokens(p)));
@@ -93,4 +93,35 @@ test('name containment does not reopen the documented venue refusals', () => {
   // 이름이 한 단어뿐이면 포함 규칙은 켜지지 않는다 — 앵커 한 토큰 통과와 같아진다.
   const k4 = known('F✦FOREVER Tour', 'Seoul', 'South Korea');
   assert.notEqual(foreignInFilename(U('After_Forever_Circo_Voador.jpg'), { known: k4, via: 'phrase', name: 'FOREVER' }), '');
+});
+
+// 2026-08-30: 하이픈이 든 앵커는 파일 이름과 영원히 만나지 못했다.
+// keyToken은 "U-Know … Yunho"의 앵커를 "u-know"로 통째로 남긴다 — 의미 없는
+// "know"로 떨어지지 않게. 그런데 fileTokens는 tokens()를 거치고, tokens()는
+// 하이픈을 공백으로 바꾼다 → 파일 토큰에는 하이픈이 든 토큰이 존재할 수 없고,
+// ft.includes(anchor)는 하이픈 앵커에 대해 상시 false. 정작 그 출연자를 찍은
+// 사진이 "다른 출연자"로 거절된다(오늘 기준 이벤트 1편, 조용하고 영구적).
+// 반대 방향이 이 수정의 안전선이다: 짧은 조각("u")을 그냥 버리고 "know"만
+// 보면, Commons가 실제로 물어오는 "Do you know? - DPLA" 스캔 도서 페이지가
+// 그대로 통과한다.
+test('a hyphenated anchor still meets the file that names the act', () => {
+  const title = 'U-KNOW Project 26';
+  const anchor = keyToken(title, 'Ho Chi Minh City Vietnam');
+  assert.equal(anchor, 'u-know', 'keyToken은 하이픈 선두 단어를 통째로 남긴다');
+  const k = known(title, 'Ho Chi Minh City', 'Vietnam');
+  assert.equal(foreignInFilename(U('U-Know_Yunho_at_SMTOWN_LIVE_2023.jpg'), { known: k, anchor }), '');
+  // 하이픈을 밑줄/공백으로 적어도 같은 이름이다(위키미디어는 공백을 _ 로 쓴다).
+  assert.equal(foreignInFilename(U('U_Know_Yunho_2019.jpg'), { known: k, anchor }), '');
+  // 조각을 흘리면 안 되는 쪽.
+  assert.notEqual(foreignInFilename(U('Do_you_know_-_DPLA_-_5f3a9c1.jpg'), { known: k, anchor }), '');
+  assert.notEqual(foreignInFilename(U('Knowledge_is_power_mural_Bangkok.jpg'), { known: k, anchor }), '');
+});
+
+test('the hyphen escape does not reopen the documented refusals', () => {
+  const k = known('Post Malone – BIG ASS World Tour', 'Singapore', 'Singapore');
+  assert.notEqual(foreignInFilename(U('F1_Rocks_Singapore.jpg'), { known: k, anchor: 'malone' }), '');
+  const k2 = known('F✦FOREVER Tour', 'Seoul', 'South Korea');
+  assert.notEqual(foreignInFilename(U('After_Forever_Circo_Voador.jpg'), { known: k2, anchor: 'forever' }), '');
+  const k3 = known('Asian Games 2026', 'Nagoya', 'Japan');
+  assert.notEqual(foreignInFilename(U('3840px-Penutupan_Para_Asian_Games_2018.jpg'), { known: k3, via: 'phrase' }), '');
 });
