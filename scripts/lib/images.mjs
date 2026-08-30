@@ -12,15 +12,27 @@ import { getPlacePhoto, fetchPlacePhotoBytes } from './places.mjs';
 import { eventProperName, eventProperNameVariants } from '../../src/lib/eventName.mjs';
 import { commonsBest, keyToken, tokens, wikipediaLeadImage, COMMON_ANCHOR } from './commons.mjs';
 
-// 이벤트 히어로도 다른 모든 히어로와 같은 1200px 하한을 쓴다 (2026-08-28).
-// 한때 600으로 낮춰 '작은 사진이라도 붙이자'고 했지만, 새벽 순찰은 전 사이트
-// 공통 1200px(Discover 불변식)로 재판정한다 — 두 기준이 어긋난 결과가
-// '태어난 다음 날 벗겨지는' 회전문이었다(08-27 출생 4편이 08-28 전부 제거:
-// 리처드 막스 516px·셀린 디옹 616px·어벤지드 세븐폴드 500/474px). 하한을
-// 올리면 사진이 줄 것 같지만 반대다: 검색이 첫 번째 작은 후보에서 멈추지 않고
-// 1200px 이상을 찾을 때까지 계속 돈다. 진짜로 큰 사진이 없는 행사만 정책대로
-// 사진 없이 남는다(그건 지금의 최종 상태와 같고, 회전문 비용만 사라진다).
-export const EVENT_HERO_MIN_WIDTH = 1200;
+// 이벤트 히어로 부착 하한 (픽서님 결정 2026-08-30: "1024까지 허용하자").
+//
+// ⚠️ 08-27에 이걸 600으로 낮췄다가 하루 만에 되돌린 이력이 있다. 그때 붙은
+// 474~616px 사진들이 다음 날 새벽 폭 스캔에 전부 벗겨졌기 때문이다(막스 516 ·
+// 셀린 616 · 어벤지드 500/474 — '태어난 다음 날 죽는' 회전문). 그래서 이 값을
+// 다시 내리는 건 위험해 보이지만, **당시 진짜 원인은 1200을 어긴 게 아니라
+// 격리선(UNUSABLE_WIDTH=640)을 어긴 것**이었다. scan-hero-widths는 두 선을
+// 다르게 쓴다:
+//     w < 640   → 격리 (사진을 벗긴다)
+//     w < 1200  → 업그레이드 큐에만 등록 (사진은 그대로 두고 더 큰 걸 찾는다)
+// 1024는 그 사이에 안전하게 앉는다. 벗겨지지 않고, 더 큰 사진이 나타나면
+// 자동으로 교체된다(실측: jeonju 1152→3072, 08-30 새벽). 즉 회전문이 아니라
+// 래칫이다. 이 불변식은 image-width.test.mjs가 지킨다 — 1024 미만으로 다시
+// 내리려 하면 테스트가 막는다.
+//
+// 대가는 정직하게: 1024px 히어로는 Google Discover 대형카드 자격이 없다
+// (1200px 필요). 사진이 아예 없는 것보다 낫다는 판단이고, 큰 사진이 생기면
+// 업그레이드 큐가 자격을 되찾아 준다. 계기는 푸켓 채식축제 — 제목까지 정확한
+// 무료 사진이 Flickr `_b`=1024px뿐이었고 `_k`·`_h`·`_o`는 전부 410 Gone이라,
+// 1200 하한 아래서는 영원히 사진 없는 글이었다.
+export const EVENT_HERO_MIN_WIDTH = 1024;
 import { heroUrlOf } from './hero-url.mjs';
 
 const UNSPLASH_KEY = process.env.UNSPLASH_ACCESS_KEY;

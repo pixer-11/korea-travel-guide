@@ -14,6 +14,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { widthVerdict, parseImageWidth, UNUSABLE_WIDTH } from './image-width.mjs';
+import { EVENT_HERO_MIN_WIDTH } from './images.mjs';
 
 test('기준 이상으로 재졌으면 통과', () => {
   const v = widthVerdict(2048, 1200);
@@ -43,6 +44,34 @@ test('0px도 못 잰 것으로 본다 — 파싱 실패의 다른 얼굴', () =>
 test('경계값: 기준과 정확히 같으면 통과', () => {
   assert.equal(widthVerdict(1200, 1200).ok, true);
   assert.equal(widthVerdict(UNUSABLE_WIDTH, UNUSABLE_WIDTH).ok, true);
+});
+
+// ── 08-27/28 회전문을 막는 불변식 ──
+//
+// 그때 이벤트 부착 하한을 600으로 낮췄더니, 474~616px 사진들이 밤에 붙었다가
+// 다음 날 새벽 폭 스캔에 **격리선(640) 아래**라 전부 벗겨졌다(막스 516 · 셀린
+// 616 · 어벤지드 500/474). 사진이 태어난 다음 날 죽는 회전문이었다.
+//
+// 진짜 규칙은 "1200을 지켜라"가 아니라 **"붙이는 하한이 벗기는 선보다 높아야
+// 한다"** 였다. 그 사이(640〈x〈1200)에 붙은 사진은 벗겨지지 않고 업그레이드
+// 큐에만 들어가, 더 큰 사진이 나타나면 자동 교체된다(jeonju 1152→3072가 그 증거).
+// 이 테스트가 있었다면 08-27 커밋이 통과하지 못했다.
+test('이벤트 부착 하한은 격리선보다 높아야 한다 — 안 그러면 다음 날 벗겨진다', () => {
+  assert.ok(
+    EVENT_HERO_MIN_WIDTH > UNUSABLE_WIDTH,
+    `부착 하한(${EVENT_HERO_MIN_WIDTH})이 격리선(${UNUSABLE_WIDTH}) 이하면 회전문이 돌아온다`,
+  );
+});
+
+// 픽서님 결정 2026-08-30: "1024까지 허용하자". 다른 사진이 아예 없는 이벤트가
+// 사진 없이 남는 것보다, Discover 대형카드를 포기하고라도 붙이는 쪽.
+test('1024px 이벤트 사진은 이제 통과한다 (픽서님 08-30 결정)', () => {
+  assert.equal(widthVerdict(1024, EVENT_HERO_MIN_WIDTH).ok, true);
+});
+
+test('1023px은 여전히 기각 — 하한은 정확히 1024', () => {
+  assert.equal(widthVerdict(1023, EVENT_HERO_MIN_WIDTH).ok, false);
+  assert.equal(EVENT_HERO_MIN_WIDTH, 1024);
 });
 
 // 기존 헤더 파서가 그대로인지 — 위의 변경이 자를 건드리지 않았다는 확인.
