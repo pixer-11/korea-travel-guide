@@ -7023,12 +7023,6 @@
     "reason": "identity audit 2026-08-14: vision approved this candidate, the photo metadata names a different venue/country — reverted before commit",
     "at": "2026-08-14T11:14:09.719Z"
   },
-  "tokyo-fuglen-tokyo\u0001https://live.staticflickr.com/65535/53189343981_d56216464e_b.jpg": {
-    "slug": "tokyo-fuglen-tokyo",
-    "verdict": "MISMATCH",
-    "reason": "release check: image unusable: image fetch 502",
-    "at": "2026-08-11T04:14:50.867Z"
-  },
   "seoul-mil-toast\u0001https://fastly.4sqi.net/img/general/original/574345888_2e30UlBiS1xXQeIiwn8JPo1Ov_Q_cyPF4w0LuYPXf_w.jpg": {
     "slug": "seoul-mil-toast",
     "verdict": "MATCH",
@@ -10579,24 +10573,6 @@
     "reason": "patrol reject: Marigold garland/offering, unrelated to a cup/cafe venue",
     "at": "2026-08-20T19:56:57.123Z"
   },
-  "bangkok-city-cup\u0001https://live.staticflickr.com/7055/7113979081_71cef8e3e8_b.jpg": {
-    "slug": "bangkok-city-cup",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T19:57:04.904Z"
-  },
-  "bangkok-city-cup\u0001https://live.staticflickr.com/1142/747109611_1cbb2f85e3_b.jpg": {
-    "slug": "bangkok-city-cup",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T19:57:12.573Z"
-  },
-  "bangkok-city-cup\u0001https://live.staticflickr.com/1402/751030949_b9f518e452_b.jpg": {
-    "slug": "bangkok-city-cup",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T19:57:20.222Z"
-  },
   "bangkok-city-cup\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Bangor_City_v_Cardiff_City_in_the_Welsh_Cup_Competition_%281483533%29.jpg": {
     "slug": "bangkok-city-cup",
     "verdict": "MISMATCH",
@@ -10674,24 +10650,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: German cornerstone inscription in stone, not Busan venue",
     "at": "2026-08-20T19:58:25.123Z"
-  },
-  "busan-seafood\u0001https://live.staticflickr.com/29/103003667_a99ce4961a_b.jpg": {
-    "slug": "busan-seafood",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T19:58:33.289Z"
-  },
-  "busan-seafood\u0001https://live.staticflickr.com/2669/5809132822_aa4f84bdeb_b.jpg": {
-    "slug": "busan-seafood",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T19:58:40.893Z"
-  },
-  "busan-seafood\u0001https://live.staticflickr.com/65535/49337569713_2e673b9854_b.jpg": {
-    "slug": "busan-seafood",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T19:58:48.496Z"
   },
   "busan-seafood\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Plateau_van_zeevruchten.jpg/1920px-Plateau_van_zeevruchten.jpg": {
     "slug": "busan-seafood",
@@ -11071,24 +11029,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Church interior, not a trendy Milan venue",
     "at": "2026-08-20T20:08:00.965Z"
-  },
-  "milan-bartolomeo\u0001https://live.staticflickr.com/5755/22082896770_58d3912e91_b.jpg": {
-    "slug": "milan-bartolomeo",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T20:08:08.654Z"
-  },
-  "milan-bartolomeo\u0001https://live.staticflickr.com/65535/48807213541_6a28dd9ac7_b.jpg": {
-    "slug": "milan-bartolomeo",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T20:08:16.252Z"
-  },
-  "milan-bartolomeo\u0001https://live.staticflickr.com/65535/48806862838_703a6d1635_b.jpg": {
-    "slug": "milan-bartolomeo",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-20T20:08:23.858Z"
   },
   "mumbai-flint\u0001https://fastly.4sqi.net/img/general/original/20416737_YaUzzrUjbgoLpHsi10G8Lp3x2DUpyeiqXYZAg_QkwOM.jpg": {
     "slug": "mumbai-flint",
@@ -12296,30 +12236,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: identity: credit names \"Sleepless In Chinatown\", post is \"Chinatown Night Market\"",
     "at": "2026-08-23T06:12:37.255Z"
-  },
-  "bangkok-chinatown-night-market\u0001https://live.staticflickr.com/7187/6975037894_df1129e8ba_b.jpg": {
-    "slug": "bangkok-chinatown-night-market",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-23T06:12:45.971Z"
-  },
-  "bangkok-chinatown-night-market\u0001https://live.staticflickr.com/65535/48087918712_90d9e662e4_b.jpg": {
-    "slug": "bangkok-chinatown-night-market",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-23T06:12:54.596Z"
-  },
-  "bangkok-chinatown-night-market\u0001https://live.staticflickr.com/65535/50191012291_2e3324018c_b.jpg": {
-    "slug": "bangkok-chinatown-night-market",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-23T06:13:03.232Z"
-  },
-  "bangkok-chinatown-night-market\u0001https://live.staticflickr.com/7801/45655433465_8083dbbb0d_b.jpg": {
-    "slug": "bangkok-chinatown-night-market",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: image unusable: image fetch 502",
-    "at": "2026-08-23T06:13:11.930Z"
   },
   "bangkok-chinatown-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2025_Chinatown_International_District_Night_Market_on_King_Street.jpg/3840px-2025_Chinatown_International_District_Night_Market_on_King_Street.jpg": {
     "slug": "bangkok-chinatown-night-market",
@@ -13653,18 +13569,6 @@
     "reason": "patrol reject: width: 370px < 1200",
     "at": "2026-08-29T02:26:38.770Z"
   },
-  "dubai-richard-marx\u0001https://live.staticflickr.com/1483/25706183262_986c818e37_b.jpg": {
-    "slug": "dubai-richard-marx",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T02:26:39.044Z"
-  },
-  "dubai-richard-marx\u0001https://live.staticflickr.com/734/21506806080_532fe32dc0_b.jpg": {
-    "slug": "dubai-richard-marx",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T02:26:39.130Z"
-  },
   "jakarta-lee-hi-808-hi-recordings-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/Lee_Fields_%26_The_Expressions_%28Haldern_Pop_2013%29_IMGP3844_smial_wp.jpg": {
     "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
     "verdict": "MISMATCH",
@@ -13676,30 +13580,6 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Horse racing victory at Paris-Longchamp Racecourse",
     "at": "2026-08-29T02:31:35.455Z"
-  },
-  "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4495/37954050446_6979713dc6_b.jpg": {
-    "slug": "phuket-phuket-vegetarian-festival",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T02:31:50.997Z"
-  },
-  "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4475/38007403631_1a9015ed00_b.jpg": {
-    "slug": "phuket-phuket-vegetarian-festival",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T02:31:51.084Z"
-  },
-  "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4477/37940994456_ce250c1d36_b.jpg": {
-    "slug": "phuket-phuket-vegetarian-festival",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T02:31:51.191Z"
-  },
-  "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4486/37284849514_1eb2cb0e2c_b.jpg": {
-    "slug": "phuket-phuket-vegetarian-festival",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T02:31:51.288Z"
   },
   "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Avenged_Sevenfold_-_Zenith_Muenchen_-_14-11-2013_%2811171710424%29.jpg": {
     "slug": "singapore-avenged-sevenfold-asia-tour-2026",
@@ -13864,35 +13744,11 @@
     "reason": "patrol reject: identity: Commons places this in Paris, post says Bangkok",
     "at": "2026-08-29T21:55:20.602Z"
   },
-  "dubai-richard-marx\u0001https://live.staticflickr.com/1238/1304227521_a2438f4d9a_b.jpg": {
-    "slug": "dubai-richard-marx",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T21:57:11.806Z"
-  },
-  "dubai-richard-marx\u0001https://live.staticflickr.com/1217/1304225739_c597eac311_b.jpg": {
-    "slug": "dubai-richard-marx",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T21:57:11.960Z"
-  },
   "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Marx%2C_Birmingham%2C_AL_2025.jpg": {
     "slug": "dubai-richard-marx",
     "verdict": "MATCH",
     "reason": "patrol replace: Performer with guitar matches concert event type",
     "at": "2026-08-29T21:57:15.468Z"
-  },
-  "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4448/37940990416_3de2771679_b.jpg": {
-    "slug": "phuket-phuket-vegetarian-festival",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T22:04:10.477Z"
-  },
-  "phuket-phuket-vegetarian-festival\u0001https://live.staticflickr.com/4483/37284846044_c1b0c03873_b.jpg": {
-    "slug": "phuket-phuket-vegetarian-festival",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: width: unknownpx < 1200",
-    "at": "2026-08-29T22:04:10.631Z"
   },
   "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/ARMED_MAN_CONCERT_MTH.jpg/3840px-ARMED_MAN_CONCERT_MTH.jpg": {
     "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",

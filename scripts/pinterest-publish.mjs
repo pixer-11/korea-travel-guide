@@ -21,6 +21,7 @@ import { dirname, join } from 'node:path';
 import matter from 'gray-matter';
 import sharp from 'sharp';
 import { getAccessToken } from './lib/pinterest-token.mjs';
+import { imageFetch } from './lib/image-fetch.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -104,8 +105,9 @@ function wrapTitle(title, maxChars = 24, maxLines = 4) {
 async function composePin(post) {
   let url = post.heroImage.url;
   if (url.startsWith('/')) url = SITE_URL + url; // self-hosted heroes
-  // Wikimedia (and friends) reject UA-less requests.
-  const res = await fetch(url, { headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' } });
+  // Wikimedia (and friends) reject UA-less requests; Flickr rejects our named
+  // one. imageFetch walks both rungs so a Flickr-hosted hero still pins.
+  const res = await imageFetch(url);
   if (!res.ok) throw new Error(`hero fetch ${res.status}`);
   const heroBuf = Buffer.from(await res.arrayBuffer());
 

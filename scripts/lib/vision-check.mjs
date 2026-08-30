@@ -12,7 +12,7 @@
 // ─────────────────────────────────────────────────────────────
 import Anthropic from '@anthropic-ai/sdk';
 import sharp from 'sharp';
-import { politeFetch } from './polite-fetch.mjs';
+import { imageFetch } from './image-fetch.mjs';
 import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply } from './head-box.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
@@ -25,7 +25,10 @@ async function fetchAsBase64(url) {
   // upload.wikimedia.org throttles publish-time bursts with 429; one such
   // answer used to fail the candidate outright ("candidate unusable"), which
   // is how a correct photo became a missing photo. Retry the transient codes.
-  const res = await politeFetch(abs, { headers: { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' }, tries: 3, baseMs: 2500 });
+  // imageFetch adds the UA ladder on top of that retry: a host that answers
+  // our honest name with 502 (Flickr does, ~5 times in 6) gets one more try
+  // under a browser UA. Without it a good photo reads as "image unusable".
+  const res = await imageFetch(abs, { tries: 3, baseMs: 2500 });
   if (!res.ok) throw new Error(`image fetch ${res.status}`);
   const buf = Buffer.from(await res.arrayBuffer());
   return (await sharp(buf).resize(1024, 1024, { fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 80 }).toBuffer()).toString('base64');

@@ -5,10 +5,24 @@
 //  Wikimedia originals go through the imageinfo API (authoritative, no
 //  download); everything else range-fetches the first 128KB and parses the
 //  JPEG SOF / PNG IHDR header. null = unknown, and unknown is treated as
-//  "not proven wide enough" by every caller.
+//  "not proven wide enough" by every caller — but NOT as a verdict on the
+//  photo (see widthVerdict below).
 // ─────────────────────────────────────────────────────────────
+import { imageFetch, IMAGE_UA } from './image-fetch.mjs';
 
-const UA = { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' };
+const UA = { 'User-Agent': IMAGE_UA };
+
+// A width we MEASURED is a fact about the photo; a width we could not measure
+// is a fact about the network. Callers used to record both as the same
+// permanent MISMATCH verdict, so a Flickr 502 became "this photo is wrong for
+// this post" forever — 24 entries on 2026-08-30, 20 of them photos that open
+// fine once imageFetch tries the other UA. Only a measured shortfall is a
+// verdict; unknown is a retry.
+export function widthVerdict(trueW, needW) {
+  if (!trueW) return { ok: false, permanent: false, reason: `width: unknown (<${needW}) — could not measure` };
+  if (trueW < needW) return { ok: false, permanent: true, reason: `width: ${trueW}px < ${needW}` };
+  return { ok: true, permanent: false, reason: '' };
+}
 
 // Below this true pixel width a hero is a smear, not a photograph — the
 // nightly width check quarantines it. Lives here (not in scan-hero-widths)
@@ -52,16 +66,17 @@ export async function probeWidth(url) {
       const ii = Object.values(j?.query?.pages || {})[0]?.imageinfo?.[0];
       return ii?.width ?? null;
     }
-    const res = await fetch(url, { headers: { ...UA, Range: 'bytes=0-131071' } });
+    const res = await imageFetch(url, { headers: { Range: 'bytes=0-131071' } });
     if (res.ok) {
       const ab = await res.arrayBuffer();
       return parseImageWidth(Buffer.from(ab.slice(0, 131072)));
     }
-    // Flickr's CDN 502s ANY ranged (and HEAD) request while serving the same
-    // URL fine as a plain GET (measured 2026-08-29). Fall back to a plain GET
-    // and read only the head of the stream before cancelling — same bytes,
-    // one more round trip, no full download.
-    const full = await fetch(url, { headers: UA });
+    // A host that refuses the ranged request may still serve a plain GET, so
+    // read only the head of the stream before cancelling — same bytes, one
+    // more round trip, no full download. (On 2026-08-29 this was blamed for
+    // Flickr's 502s; the real cause was the User-Agent, which imageFetch now
+    // walks. The rung stays: it is cheap and it costs nothing when unused.)
+    const full = await imageFetch(url);
     if (!full.ok || !full.body) return null;
     const reader = full.body.getReader();
     const chunks = [];

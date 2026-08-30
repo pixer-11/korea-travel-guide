@@ -16,6 +16,7 @@ import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { r2Put, pickThreadsOption } from './lib/meta-social.mjs';
 import { runSocialPublish, socialEnabled } from './lib/social-publish-step.mjs';
+import { imageFetch } from './lib/image-fetch.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 const STATE_FILE = 'data/threads-daily.json';
@@ -233,9 +234,8 @@ try {
     // 3840 is the next real rung above 1920; originals smaller than that still
     // 400 (no upscaling), which the fallback below covers.
     const bigUrl = heroUrl.replace(/\/(\d{2,4})px-/, (m, w) => (Number(w) < 3840 ? '/3840px-' : m));
-    const UAH = { 'User-Agent': 'WanderAtlasBot/1.0 (https://wanderatlasguides.com)' };
-    let res = await fetch(bigUrl, { headers: UAH });
-    if (!res.ok && bigUrl !== heroUrl) res = await fetch(heroUrl, { headers: UAH });
+    let res = await imageFetch(bigUrl);
+    if (!res.ok && bigUrl !== heroUrl) res = await imageFetch(heroUrl);
     if (!res.ok) throw new Error(`hero fetch ${res.status}`);
     const heroBuf = Buffer.from(await res.arrayBuffer());
     const W = 1080, H = 1350;

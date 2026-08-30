@@ -17,8 +17,8 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import sharp from 'sharp';
 import yaml from 'js-yaml';
-import { politeFetch } from './lib/polite-fetch.mjs';
 import { cropWindowTop, focusKey } from './lib/head-box.mjs';
+import { imageFetch } from './lib/image-fetch.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -110,7 +110,7 @@ async function main() {
         // empty that way (the same nine rebuilt 9/9 minutes later, from the
         // same files — the photos were fine, the moment was not). politeFetch
         // honours Retry-After, same as mirror-og-images and backfill-hero-focus.
-        const res = await politeFetch(url, { headers: { 'User-Agent': UA }, tries: 3, baseMs: 3000 });
+        const res = await imageFetch(url, { ua: UA, tries: 3, baseMs: 3000 });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         buf = Buffer.from(await res.arrayBuffer());
       }

@@ -13,10 +13,17 @@
 //   • old URLs for a post that still exists — a hero can be swapped back, and
 //     the stored verdict is what stops a known-bad photo returning silently.
 //
+//  ALSO removes entries that were never a judgement at all: a CDN 502 or a
+//  width the probe could not read, written as MISMATCH and therefore skipped
+//  forever after (24 such rows on 2026-08-30, 20 of them photos that open
+//  fine). Those are measurement failures — see lib/audit-verdict.mjs for why
+//  a measured shortfall and a 404 are NOT swept with them.
+//
 //    node scripts/prune-visual-audit.mjs
 //    DRY=1 node scripts/prune-visual-audit.mjs
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile, readdir } from 'node:fs/promises';
+import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 
 const AUDIT = 'data/visual-audit.json';
 const POSTS = 'src/content/posts';
@@ -30,11 +37,15 @@ const live = new Set(
 
 const before = Object.keys(audit).length;
 const droppedSlugs = new Set();
+const unmeasured = [];
 const kept = {};
 for (const [key, value] of Object.entries(audit)) {
   const slug = key.split(SEP)[0];
-  if (live.has(slug)) kept[key] = value;
-  else droppedSlugs.add(slug);
+  if (!live.has(slug)) { droppedSlugs.add(slug); continue; }
+  // Never judged — only failed to fetch or measure. Forgetting it is what
+  // lets tonight's run look at the photo for the first time.
+  if (isMeasurementFailure(value)) { unmeasured.push(slug); continue; }
+  kept[key] = value;
 }
 const after = Object.keys(kept).length;
 
@@ -49,6 +60,13 @@ if (before > 0 && after === 0) {
 console.log(`\n🧹 visual-audit: ${before} entry(ies) → ${after} (${before - after} orphaned across ${droppedSlugs.size} missing post(s))`);
 [...droppedSlugs].slice(0, 10).forEach((s) => console.log(`   − ${s}`));
 if (droppedSlugs.size > 10) console.log(`   … and ${droppedSlugs.size - 10} more`);
+if (unmeasured.length) {
+  const bySlug = [...new Set(unmeasured)];
+  console.log(`⚖️  ${unmeasured.length} row(s) across ${bySlug.length} post(s) were measurement failures, not verdicts — forgotten so they can be judged:`);
+  bySlug.slice(0, 10).forEach((s) => console.log(`   ↺ ${s}`));
+  if (bySlug.length > 10) console.log(`   … and ${bySlug.length - 10} more`);
+}
+console.log(`PRUNE_SUMMARY before=${before} after=${after} orphaned=${before - after - unmeasured.length} unmeasured=${unmeasured.length}`);
 
 if (DRY) { console.log('(DRY — nothing written)'); process.exit(0); }
 if (before === after) { console.log('nothing to prune'); process.exit(0); }

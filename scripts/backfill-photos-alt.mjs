@@ -21,7 +21,7 @@ import { existsSync, readFileSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
-import { probeWidth, upsizeFlickr, UNUSABLE_WIDTH } from './lib/image-width.mjs';
+import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
 import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
@@ -390,9 +390,20 @@ for (const f of files) {
     // nights (2026-08-20: 110 candidate verdicts for 93 posts, most of them
     // repeats of the night before). The priorVerdict check above then skips
     // them for free. Outages are not verdicts and are never recorded.
-    const remember = (why) => {
+    // `permanent: false` records what happened WITHOUT spending the post's
+    // one verdict on it. Readers gate on /MISMATCH/, so an UNMEASURED row is
+    // an audit trail the next run walks straight past. The distinction was
+    // missing until 2026-08-30, when a Flickr 502 — a fact about the network,
+    // not the photo — permanently blacklisted 24 candidates, 6 of them the
+    // correctly-titled "Phuket Vegetarian Festival 2017" files.
+    const remember = (why, permanent = true) => {
       if (!auditStore || DRY) return;
-      auditStore[`${slug}\x01${cand.url}`] = { slug, verdict: 'MISMATCH', reason: `patrol reject: ${String(why || '').slice(0, 150)}`, at: new Date().toISOString() };
+      auditStore[`${slug}\x01${cand.url}`] = {
+        slug,
+        verdict: permanent ? 'MISMATCH' : 'UNMEASURED',
+        reason: `patrol ${permanent ? 'reject' : 'retry'}: ${String(why || '').slice(0, 150)}`,
+        at: new Date().toISOString(),
+      };
       auditDirty = true;
     };
     // THE WIDTH GATE — FIRST, before any vision spend. Alt-source candidates
@@ -408,9 +419,10 @@ for (const f of files) {
     const needW = isEvent ? EVENT_HERO_MIN_WIDTH : UNUSABLE_WIDTH;
     cand.url = await upsizeFlickr(cand.url, needW);
     const trueW = await probeWidth(cand.url);
-    if (!trueW || trueW < needW) {
-      console.log(`   ${slug}: candidate is ${trueW ?? 'unknown'}px (<${needW}) — skipping`);
-      remember(`width: ${trueW ?? 'unknown'}px < ${needW}`);
+    const wv = widthVerdict(trueW, needW);
+    if (!wv.ok) {
+      console.log(`   ${slug}: candidate is ${trueW ?? 'unknown'}px (<${needW}) — skipping${wv.permanent ? '' : ' (measurement failed — will retry)'}`);
+      remember(wv.reason, wv.permanent);
       continue;
     }
     // A cityscape fallback candidate is judged as a photo OF THE CITY, not of
