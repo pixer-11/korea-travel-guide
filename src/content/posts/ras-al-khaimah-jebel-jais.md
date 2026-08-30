@@ -41,7 +41,7 @@ faq:
   - q: What else is nearby?
     a: Ras Al Khaimah city (old fort museum, corniche) is about 45 minutes away, and the emirate's beach resorts pair well for a two-day mountain-and-coast trip.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why go

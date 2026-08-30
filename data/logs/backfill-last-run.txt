@@ -1,15 +1,14 @@
-Places 예산: backfill 몫 10회 (오늘 사용 6/100)
+Places 예산: backfill 몫 10회 (오늘 사용 0/100)
 Priority: 132 itinerary stop(s) queued first
-  – barcelona-ciutadella-park.md: nothing new (resting 60d)
-  – barcelona-placa-nova.md: nothing new (resting 60d)
-  – al-barsha-dubai-gold-souk.md: nothing new (resting 60d)
-  – baguio-baguio-city-market.md: nothing new (resting 60d)
-  – nice-cascade-du-chateau.md: nothing new (resting 60d)
-  – nusa-penida-broken-beach.md: nothing new (resting 60d)
-  ✓ okinawa-okinawa-world.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
-  ✓ paju-heyri-art-village.md +phone +7h hours
-  – palawan-secret-lagoon.md: nothing new (resting 60d)
-  – palermo-mercato-ballaro.md: nothing new (resting 60d)
+  – bugis-albert-centre-market-food-centre.md: nothing new (resting 60d)
+  – bugis-bugis-street.md: nothing new (resting 60d)
+  – bukhara-toqi-zargaron.md: nothing new (resting 60d)
+  – palm-jumeirah-the-palm-fountain.md: nothing new (resting 60d)
+  ✓ pattaya-the-sanctuary-of-truth-museum.md +phone +7h hours
+  – phong-nha-phong-nha-ke-bang-national-park.md: nothing new (resting 60d)
+  ✓ phuket-green-elephant-sanctuary-park.md +7h hours
+  – pingxi-shifen-old-street.md: nothing new (resting 60d)
+  – pisa-piazza-dei-cavalieri.md: nothing new (resting 60d)
+  🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 388, no-new-data 110, no-place 139, closed-quarantined 0, quota-429 0, api-error 0, api-calls 10, remaining-askable 333 (APPLIED).
+BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 396, no-new-data 114, no-place 139, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 332 (APPLIED).

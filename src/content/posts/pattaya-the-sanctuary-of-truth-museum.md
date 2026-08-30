@@ -21,6 +21,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 12.972870499999999
   lng: 100.88913199999999
+  phone: '+66 81 350 8710'
+  openingHours:
+    - 'Monday: 8:00 AM – 8:30 PM'
+    - 'Tuesday: 8:00 AM – 8:30 PM'
+    - 'Wednesday: 8:00 AM – 8:30 PM'
+    - 'Thursday: 8:00 AM – 8:30 PM'
+    - 'Friday: 8:00 AM – 8:30 PM'
+    - 'Saturday: 8:00 AM – 8:30 PM'
+    - 'Sunday: 8:00 AM – 8:30 PM'
 tags:
   - pattaya
   - hidden gem
