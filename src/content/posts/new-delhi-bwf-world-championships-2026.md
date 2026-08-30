@@ -1,8 +1,6 @@
 ---
 title: 'BWF World Championships 2026: What to Know (New Delhi)'
-description: >-
-  The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi
-  Arena in New Delhi — India's first time hosting the event in 17 years.
+description: The 2026 BWF World Championships run August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years.
 country: India
 region: New Delhi
 category: event
@@ -12,57 +10,34 @@ eventEndDate: '2026-08-23'
 tags:
   - new delhi
   - event
-quickAnswer: >-
-  The 2026 BWF World Championships ran August 17–23, 2026 at the Indira Gandhi
-  Arena in New Delhi — India's first time hosting the event in 17 years. Stars
-  like Shi Yu Qi, An Se-young, Lakshya Sen, and PV Sindhu were expected to
-  headline, with finals typically drawing the biggest crowds on the final
-  weekend.
+quickAnswer: The 2026 BWF World Championships ran August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years. Stars like Shi Yu Qi, An Se-young, Lakshya Sen, and PV Sindhu were expected to headline, with finals typically drawing the biggest crowds on the final weekend.
 faq:
   - q: What are the exact dates and venue for the 2026 BWF World Championships?
-    a: >-
-      August 17–23, 2026, at the Indira Gandhi Arena in New Delhi, India. Always
-      confirm on BWF's official site, as venue details and schedules can shift
-      before the event.
+    a: August 17–23, 2026, at the Indira Gandhi Arena in New Delhi, India. Always confirm on BWF's official site, as venue details and schedules can shift before the event.
   - q: How do I get to the Indira Gandhi Arena from Delhi airport?
-    a: >-
-      Take the Airport Express Metro Line from IGI Airport to New Delhi Railway
-      Station (about 20 minutes), then connect via the Delhi Metro network
-      toward central Delhi, where the arena is located.
+    a: Take the Airport Express Metro Line from IGI Airport to New Delhi Railway Station (about 20 minutes), then connect via the Delhi Metro network toward central Delhi, where the arena is located.
   - q: Who are the star players to watch?
-    a: >-
-      The confirmed field includes China's Shi Yu Qi, Korea's An Se-young, and
-      India's own Lakshya Sen and PV Sindhu, among other top-ranked
-      international players.
+    a: The confirmed field includes China's Shi Yu Qi, Korea's An Se-young, and India's own Lakshya Sen and PV Sindhu, among other top-ranked international players.
   - q: When should I book tickets and how much will they cost?
-    a: >-
-      Official ticket pricing and sale dates have not yet been announced.
-      Monitor BWF's official championship page for the release, and avoid
-      third-party resellers until official sales open.
+    a: Official ticket pricing and sale dates have not yet been announced. Monitor BWF's official championship page for the release, and avoid third-party resellers until official sales open.
   - q: Is August a good time to visit Delhi otherwise?
-    a: >-
-      August is monsoon season in Delhi — hot, humid, and prone to heavy rain
-      showers — so it's shoulder season for general tourism, but it can mean
-      better hotel rates outside tournament-driven demand.
+    a: August is monsoon season in Delhi — hot, humid, and prone to heavy rain showers — so it's shoulder season for general tourism, but it can mean better hotel rates outside tournament-driven demand.
 aiGenerated: true
 eventRecurring: true
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/d/de/Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player%2C_unknown_age_class_%2811078126684%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/d/de/Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player%2C_unknown_age_class_%2811078126684%29.jpg
   credit: 'Photo: Murray Foubister / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player,_unknown_age_class_(11078126684).jpg
+  source: https://commons.wikimedia.org/wiki/File:Ankara_2013_BWF_World_Senior_Badminton_Championships_-_very_strong_Danish_singles_player,_unknown_age_class_(11078126684).jpg
   focus:
     x: 35
     'y': 30
 eventOrganizer:
   name: Badminton Association of India
 eventOffers:
-  url: 'https://bwfworldchampionships.bwfbadminton.com/'
+  url: https://bwfworldchampionships.bwfbadminton.com/
 eventFactsAsked: true
 ---
-
 ## Why go
 
 Badminton's world championships is the sport's most prestigious individual tournament outside the Olympics, and 2026 marks the first time in 17 years that India gets to host it. That alone makes the week a landmark for South Asian badminton fans — a chance to watch the sport's biggest names compete on home soil for a home favorite, Lakshya Sen, and India's most decorated women's player, PV Sindhu, alongside global stars such as China's Shi Yu Qi and Korea's An Se-young.
@@ -79,7 +54,7 @@ Because exact nearest-station details and gate arrangements for the 2026 event h
 
 ## What to expect during the week
 
-Expect the standard World Championships format: five days of qualifying and early rounds (singles and doubles across men's, women's, and mixed draws) building toward quarterfinals, semifinals, and finals on the closing weekend of August 22–23. Session tickets are usually sold separately for morning and evening blocks, with the final-day sessions commanding the highest demand and price. Since ticketing tiers, exact match times, and pricing have not been officially released as of this writing, treat any third-party listing with caution and buy only through BWF's official channels or authorized partners once sales open.
+Expect the standard World Championships format: five days of qualifying and early rounds (singles and doubles across men's, women's, and mixed draws) building toward quarterfinals, semifinals, and finals on the closing weekend of August 22–23. Session tickets are usually sold separately for morning and evening blocks, with the final-day sessions commanding the highest demand and price. Ticketing tiers, exact match times, and pricing were not officially released as of this writing, so readers were advised to treat any third-party listing with caution and buy only through BWF's official channels or authorized partners.
 
 Beyond the court, Delhi's badminton culture runs deep — India has produced a run of world-class players over the past two decades, so local crowds tend to be knowledgeable and vocal, especially for matches involving Indian players like Sen and Sindhu.
 

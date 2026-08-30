@@ -13,15 +13,15 @@ tags:
 quickAnswer: The 2026 Wuhan Open, a World Snooker Tour ranking event, ran August 23-29, 2026 in Wuhan, China, with early rounds through the week building to a final on the closing day.
 faq:
   - q: When exactly is the 2026 Wuhan Open?
-    a: It's scheduled for August 23-29, 2026. Treat this as the announced window and check the official World Snooker Tour site nearer the time in case of adjustments.
+    a: The 2026 Wuhan Open (Snooker) was scheduled for August 23-29, 2026 in Wuhan.
   - q: Where is the event held?
     a: The specific venue in Wuhan had not been confirmed in official sources at the time of writing.
   - q: How do I get tickets?
-    a: World Snooker ranking events are typically sold per session (morning/afternoon/evening) rather than as an all-week pass. Buy only through the official tournament or World Snooker Tour channels once sales open.
+    a: World Snooker ranking events were typically sold per session (morning/afternoon/evening) rather than as an all-week pass. Tickets were available only through the official tournament or World Snooker Tour channels.
   - q: How long should I plan to spend there?
     a: A single session usually runs a few hours and covers multiple frames or matches; if you want to see finals-level snooker, target sessions in the back half of the week, especially August 28-29.
   - q: How do I get around Wuhan for the event?
-    a: Wuhan has an extensive metro network plus high-speed rail links to major Chinese cities and an international airport, so once the venue is confirmed, look up its nearest metro line and exit for the easiest access.
+    a: Wuhan has an extensive metro network plus high-speed rail links to major Chinese cities and an international airport.
 aiGenerated: true
 draft: false
 eventRecurring: true

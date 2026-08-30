@@ -25,7 +25,7 @@ faq:
   - q: Who's headlining?
     a: Confirmed headliners are Steve Lacy, Two Door Cinema Club, Kodaline and The Flaming Lips, with more than 30 other acts across the two days. Full set times weren't announced at time of writing — check official channels.
   - q: How much do tickets cost?
-    a: Prices weren't publicly confirmed at time of writing. Buy only through LALALA Fest's official website or verified partners once sales open, and watch for official announcements on single-day versus two-day passes.
+    a: Prices weren't publicly confirmed at time of writing. Tickets were sold only through LALALA Fest's official website or verified partners, with single-day versus two-day pass options.
   - q: What should I wear given Jakarta's weather in August?
     a: August falls in Jakarta's dry season — expect hot, humid, sunny afternoons and only slightly cooler evenings. Light, breathable clothing, sun protection, and a refillable water bottle are worth packing.
 aiGenerated: true

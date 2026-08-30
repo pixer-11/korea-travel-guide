@@ -1,9 +1,6 @@
 ---
 title: 'LaLaLa Festival 2026: What to Know (Jakarta)'
-description: >-
-  LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo
-  (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door
-  Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
+description: LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
 country: Indonesia
 region: Jakarta
 category: event
@@ -11,12 +8,10 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg/1920px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg/1920px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
   credit: 'Photo: Thesupermat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
+  source: https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg
   focus:
     x: 30
     'y': 35
@@ -24,51 +19,26 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: >-
-  LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo
-  (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door
-  Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
-  Book ride-hailing (Grab/Gojek) rather than relying on public transit, since
-  there's no direct MRT/LRT stop at JIExpo, and confirm tickets, set times, and
-  gate details on LaLaLa's official channels since prices haven't been
-  finalized.
+quickAnswer: LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo. Book ride-hailing (Grab/Gojek) rather than relying on public transit, since there's no direct MRT/LRT stop at JIExpo, and confirm tickets, set times, and gate details on LaLaLa's official channels since prices haven't been finalized.
 faq:
   - q: When and where exactly is LaLaLa Festival 2026?
-    a: >-
-      It's scheduled for August 22–23, 2026 at Jakarta International Expo
-      (JIExpo) in Kemayoran, Central Jakarta. [This sentence should be deleted,
-      as it contains only forward-looking guidance to check for information,
-      with no concrete fact to preserve.]
+    a: It's scheduled for August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta. [This sentence should be deleted, as it contains only forward-looking guidance to check for information, with no concrete fact to preserve.]
   - q: Who is headlining in 2026?
-    a: >-
-      Announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline,
-      The Flaming Lips, Rex Orange County, Honne, and Flo. [This sentence has
-      been removed as it contained only forward-looking guidance with no
-      verifiable outcome.]
+    a: Announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo. [This sentence has been removed as it contained only forward-looking guidance with no verifiable outcome.]
   - q: How much do tickets cost?
-    a: >-
-      Pricing hasn't been finalized in official materials yet. Past editions
-      have used early bird, regular, and VIP tiers — buy only through the
-      official site once sales open, as popular tiers can sell out.
+    a: Past editions have used early bird, regular, and VIP tiers, and buyers were advised to purchase only through the official site, as popular tiers could sell out.
   - q: How do I get to JIExpo from central Jakarta or the airport?
-    a: >-
-      There's no direct MRT/LRT station at JIExpo, so Grab, Gojek, or a
-      pre-booked taxi are the most reliable options — about 20–30 minutes from
-      central Jakarta and 45–60 minutes from Soekarno-Hatta Airport outside
-      heavy traffic.
+    a: There's no direct MRT/LRT station at JIExpo, so Grab, Gojek, or a pre-booked taxi are the most reliable options — about 20–30 minutes from central Jakarta and 45–60 minutes from Soekarno-Hatta Airport outside heavy traffic.
   - q: What's the weather like and what should I pack?
-    a: >-
-      August falls in Jakarta's dry season, so expect hot, humid days and warm
-      nights. Pack light breathable clothing, sun protection, a refillable water
-      bottle, and a light rain layer just in case of a tropical shower.
+    a: August falls in Jakarta's dry season, so expect hot, humid days and warm nights. Pack light breathable clothing, sun protection, a refillable water bottle, and a light rain layer just in case of a tropical shower.
 aiGenerated: true
 draft: false
 eventRecurring: true
 eventOrganizer:
   name: PT Indo The Nusantara
-  url: 'https://lalalafest.com/'
+  url: https://lalalafest.com/
 eventOffers:
-  url: 'https://lalalafest.com/tickets'
+  url: https://lalalafest.com/tickets
 eventFactsAsked: true
 ---
 ## Why go
@@ -91,7 +61,7 @@ Given the two-day format with a headliner-heavy bill, arriving early for a stage
 
 ## Tickets and practical planning
 
-Ticket categories, exact pricing, and set times have not been finalized in the information available here, and festival ticket tiers (early bird, regular, VIP, day passes) typically change as the date approaches. Do not rely on secondhand resellers — LaLaLa's official website and verified social media accounts are the only sources to confirm pricing, entry gates, bag policies, and age restrictions. Because this is a large-scale international event, popular tiers and VIP packages have sold out in past editions, so early booking is generally advisable once sales open.
+Ticket categories, exact pricing, and set times have not been finalized in the information available here, and festival ticket tiers (early bird, regular, VIP, day passes) typically change as the date approaches. Do not rely on secondhand resellers — LaLaLa's official website and verified social media accounts are the only sources to confirm pricing, entry gates, bag policies, and age restrictions. Because this is a large-scale international event, popular tiers and VIP packages have sold out in past editions.
 
 ## Nearby & tips
 

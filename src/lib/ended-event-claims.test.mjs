@@ -47,3 +47,43 @@ test('the union covers both halves', () => {
   assert.ok(OFFENDING_CLAIM.test('Ticket details were published on the official site.'));
   assert.ok(!OFFENDING_CLAIM.test('The festival ran for three days across two venues.'));
 });
+
+// ─── 2026-08-30 ────────────────────────────────────────────────────────────
+// The rule fixed two ended events that evening and left ten standing. Every
+// survivor was a shape of "go and find out later" the pattern had never been
+// taught, so validate-content reported clean over pages that still told the
+// reader to wait for news about a thing that was already over. The sentences
+// below are verbatim from those ten guides — not invented examples, so a later
+// narrowing of the rule fails here rather than in production.
+test('catches the ways a page tells the reader to wait that the rule had missed', () => {
+  for (const s of [
+    "Check Quick Style's official channels for the venue once it's released.",
+    'So once the venue is confirmed, check its normal entry patterns.',
+    'Pick a connected area so you can adjust easily once the exact location is announced.',
+    'Check the schedule once the official program is released.',
+    "Use the festival's official ticketing partner once sales open.",
+    'Buy through verified announcements once ticket sales open, and avoid resellers.',
+    "Don't book hotels assuming a specific arena — wait for the official announcement.",
+    'Wait for the official ticketing partner to be announced through verified channels.',
+    'Exact street circuit location to be confirmed.',
+    'Treat this as the announced window and check the official site nearer the time.',
+  ]) assert.ok(FUTURE_PROMISE.test(s), s);
+});
+
+// The reverse direction, and the reason this rule stayed narrow. Twenty-seven of
+// the forty-five ended events say some version of "reconfirm on official
+// channels before booking" — and twenty-five of the forty-five recur every year,
+// so that sentence is still true and still useful. Deleting it would cost a
+// returning reader the only pointer the page has. Two more shapes were measured
+// and deliberately left out: "which days are public-access" reads as a promise
+// only to a regex, and "check back" cannot be told apart from the next-edition
+// pointer that earns the revisit.
+test('leaves standing advice on an ended event alone', () => {
+  for (const s of [
+    'Reconfirm timing, lineup, and ticket prices on official channels before you finalize travel.',
+    'Check the schedule and any changes on the official Aomori Nebuta Matsuri website before booking travel.',
+    'Confirm which days are public-access on the official site.',
+    'Check back for the 2027 dates once the calendar firms up.',
+    'The parade route is fixed year to year, so the same vantage points work.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+});

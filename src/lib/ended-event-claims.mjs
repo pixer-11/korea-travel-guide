@@ -15,7 +15,24 @@
 // (1) The page still promises something WILL happen. Deliberately narrow: it
 // must promise a future act OF THE EVENT. A timeless descriptive future
 // ("street circuits mean the cars will run through the city") is not flagged.
-export const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|closer\s+to\s+the\s+(?:event|date|festival|show)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)/i;
+//
+// Widened 2026-08-30. The evening patrol repaired two ended events and the
+// validator then called the corpus clean while ten more still told the reader to
+// wait for news about something already over — Tokyo's E-Prix said "once the
+// venue is confirmed", Jakarta's festival "once sales open", Chandigarh's tour
+// "wait for the official announcement". Each was the same promise in a shape the
+// pattern happened not to know: "once released" was here, "once it's released"
+// was not. The five branches below are the shapes the corpus actually contained.
+//
+// Three more shapes were measured that evening and left OUT on purpose, because
+// on an ended event they are not promises at all:
+//  · "reconfirm on official channels before booking" — 27 of the 45 ended events
+//    say it, and 25 of the 45 recur annually, so it is still true and still the
+//    most useful line on the page.
+//  · "confirm which days are public-access" — a promise only to a regex.
+//  · "check back" — indistinguishable from the next-edition pointer that earns a
+//    returning reader, and deleting that costs more than the stale phrasing does.
+export const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|nearer\s+the\s+time|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|closer\s+to\s+the\s+(?:event|date|festival|show)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)/i;
 
 // (2) The mirror image, and the worse one: the page claims it DID happen.
 //

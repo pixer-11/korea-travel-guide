@@ -1,8 +1,6 @@
 ---
 title: 'One Universe Festival 2026: What to Know (Incheon)'
-description: >-
-  One Universe Festival 2026 in Incheon, South Korea — July 25-26, 2026. What it
-  is, when and where, and how to plan around it.
+description: One Universe Festival 2026 in Incheon, South Korea — July 25-26, 2026. What it is, when and where, and how to plan around it.
 country: South Korea
 region: Incheon
 category: event
@@ -12,57 +10,35 @@ eventEndDate: '2026-07-26'
 tags:
   - incheon
   - event
-quickAnswer: >-
-  One Universe Festival 2026 is set for July 25–26, 2026, at Paradise City in
-  Incheon, with a lineup that as announced includes The xx, Pendulum, My Bloody
-  Valentine, and Turnstile. Plan around Incheon International Airport (a short
-  ride from the Paradise City complex) and book accommodation early, since the
-  resort area fills up fast on festival weekends. Confirm final dates, stage
-  times, and ticket tiers on the official One Universe Festival channels before
-  you book flights.
+quickAnswer: One Universe Festival 2026 is set for July 25–26, 2026, at Paradise City in Incheon, with a lineup that as announced includes The xx, Pendulum, My Bloody Valentine, and Turnstile. Plan around Incheon International Airport (a short ride from the Paradise City complex) and book accommodation early, since the resort area fills up fast on festival weekends. Confirm final dates, stage times, and ticket tiers on the official One Universe Festival channels before you book flights.
 faq:
   - q: What are the exact dates of One Universe Festival 2026?
-    a: 'The festival was held July 25–26, 2026, at Paradise City in Incheon.'
+    a: The festival was held July 25–26, 2026, at Paradise City in Incheon.
   - q: How do I get from Incheon International Airport to the festival?
-    a: >-
-      Paradise City is just a few minutes from the airport terminals by taxi or
-      shuttle, making it one of the most convenient major festivals in Asia to
-      reach directly off an international flight.
+    a: Paradise City is just a few minutes from the airport terminals by taxi or shuttle, making it one of the most convenient major festivals in Asia to reach directly off an international flight.
   - q: Who is confirmed to perform?
-    a: >-
-      Announced acts include The xx, Pendulum, My Bloody Valentine, and
-      Turnstile. Treat this as an early lineup and check the official poster for
-      set times and any additions.
+    a: Announced acts include The xx, Pendulum, My Bloody Valentine, and Turnstile. Treat this as an early lineup and check the official poster for set times and any additions.
   - q: Should I stay in Seoul or near the venue?
-    a: >-
-      Staying near Paradise City on Yeongjongdo saves significant travel time
-      versus commuting from central Seoul, especially late at night after sets
-      end.
+    a: Staying near Paradise City on Yeongjongdo saves significant travel time versus commuting from central Seoul, especially late at night after sets end.
   - q: Where do I buy tickets safely?
-    a: >-
-      Use only the official One Universe Festival ticketing partner once sales
-      open; avoid resale or third-party sites, as prices and authenticity aren't
-      guaranteed.
+    a: Use only the official One Universe Festival ticketing partner; resale or third-party sites weren't recommended, as prices and authenticity couldn't be guaranteed.
 aiGenerated: true
 eventRecurring: true
 photoless: true
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg/3840px-Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg/3840px-Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
   credit: 'Photo: Frank Schwichtenberg / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
+  source: https://commons.wikimedia.org/wiki/File:Axe_Victims_Universe_-_Headbangers_Open_Air_2017_45.jpg
   focus:
     x: 45
     'y': 35
 eventOrganizer:
   name: Peaches. (피치스그룹코리아 / Peaches Group Korea)
 eventOffers:
-  url: 'https://world.nol.com/en/ticket/places/25000155/products/26010020'
+  url: https://world.nol.com/en/ticket/places/25000155/products/26010020
 eventFactsAsked: true
 ---
-
 ## Why go
 
 One Universe Festival 2026 brings together an unusually eclectic bill for a single weekend — indie/electronic mainstays The xx, drum-and-bass heavyweights Pendulum, shoegaze pioneers My Bloody Valentine, and hardcore-punk breakout Turnstile all on one lineup. That range is the festival's selling point: it isn't a single-genre rave or a K-pop showcase, but a curated mix that pulls in fans of guitar music, electronic dance, and heavier sounds alike.
@@ -87,7 +63,7 @@ Don't expect a rural campground festival vibe; this is closer to a resort-festiv
 
 ## Tickets and lineup
 
-Only the artists named so far — The xx, Pendulum, My Bloody Valentine, and Turnstile — should be treated as confirmed, and even that should be checked against the official lineup poster before you commit, since day splits and set times weren't detailed in early announcements. Avoid buying from resale sites or unofficial vendors; use the festival's official ticketing partner once sales open. Given the international pull of these acts, expect strong early demand, particularly for weekend passes.
+Only the artists named so far — The xx, Pendulum, My Bloody Valentine, and Turnstile — should be treated as confirmed, and even that should be checked against the official lineup poster before you commit, since day splits and set times weren't detailed in early announcements. Avoid buying from resale sites or unofficial vendors; tickets were available through the festival's official ticketing partner. Given the international pull of these acts, expect strong early demand, particularly for weekend passes.
 
 ## How to visit like a local
 
@@ -98,4 +74,3 @@ Tipping isn't expected anywhere in South Korea, including at festival food stall
 ## When to go / how long to stay
 
 Two full days (July 25–26) is the core commitment, but consider arriving a day early to settle into Incheon after a long-haul flight and avoid rushing straight from arrivals hall to festival gate. Late July is peak summer heat and monsoon season in Korea, so light, breathable clothing, sun protection, and a compact rain layer are worth packing regardless of what the forecast says a week out.
-

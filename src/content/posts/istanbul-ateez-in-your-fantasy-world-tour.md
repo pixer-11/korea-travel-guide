@@ -1,8 +1,6 @@
 ---
 title: 'ATEEZ – IN YOUR FANTASY World Tour: What to Know (Istanbul)'
-description: >-
-  ATEEZ – IN YOUR FANTASY World Tour in Istanbul, Turkey — August 16, 2026. What
-  it is, when and where, and how to plan around it.
+description: ATEEZ – IN YOUR FANTASY World Tour in Istanbul, Turkey — August 16, 2026. What it is, when and where, and how to plan around it.
 country: Turkey
 region: Istanbul
 category: event
@@ -10,12 +8,10 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-08-16'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/e/eb/Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
   credit: 'Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
+  source: https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
   focus:
     x: 50
     'y': 35
@@ -23,44 +19,24 @@ gallery: []
 tags:
   - istanbul
   - event
-quickAnswer: >-
-  ATEEZ bring their IN YOUR FANTASY World Tour to Istanbul on August 16, 2026 —
-  the group's first-ever show in the city. Venue, doors time, and ticket tiers
-  haven't been locked into this guide because they shift as promoters confirm
-  logistics, so treat the date as the one fixed point and verify everything else
-  (venue, on-sale time, ticket prices) on ATEEZ's official social channels and
-  KQ Entertainment's announcements before you book flights or hotels.
+quickAnswer: ATEEZ bring their IN YOUR FANTASY World Tour to Istanbul on August 16, 2026 — the group's first-ever show in the city. Venue, doors time, and ticket tiers haven't been locked into this guide because they shift as promoters confirm logistics, so treat the date as the one fixed point and verify everything else (venue, on-sale time, ticket prices) on ATEEZ's official social channels and KQ Entertainment's announcements before you book flights or hotels.
 faq:
   - q: Is the venue for the Istanbul show confirmed?
-    a: >-
-      Not as part of the verified details available here — only the date, August
-      16, 2026, is set. Check ATEEZ's official social media and KQ Entertainment
-      announcements for the confirmed venue before booking travel.
+    a: Not as part of the verified details available here — only the date, August 16, 2026, is set. Check ATEEZ's official social media and KQ Entertainment announcements for the confirmed venue before booking travel.
   - q: How do I buy official tickets?
-    a: >-
-      Wait for the official ticketing partner to be announced through ATEEZ's or
-      the promoter's verified channels. Avoid resale sites or social media
-      sellers offering tickets before an official on-sale date is confirmed.
+    a: Tickets were sold through the official ticketing partner announced via ATEEZ's or the promoter's verified channels.
   - q: Has ATEEZ performed in Istanbul before?
-    a: >-
-      No — this date is being treated as the group's first confirmed appearance
-      in the city as part of the IN YOUR FANTASY World Tour.
+    a: No — this date is being treated as the group's first confirmed appearance in the city as part of the IN YOUR FANTASY World Tour.
   - q: How many days should I plan for the trip?
-    a: >-
-      At least three to four days: one for arrival, one for the concert day
-      (including queueing), and one or two for Istanbul's major sights like
-      Hagia Sophia and Topkapi Palace.
+    a: 'At least three to four days: one for arrival, one for the concert day (including queueing), and one or two for Istanbul''s major sights like Hagia Sophia and Topkapi Palace.'
   - q: What's the weather like in Istanbul in mid-August?
-    a: >-
-      Typically warm, often reaching the low-to-mid 30s Celsius during the day,
-      so plan for heat if you'll be queueing outside before doors open.
+    a: Typically warm, often reaching the low-to-mid 30s Celsius during the day, so plan for heat if you'll be queueing outside before doors open.
 aiGenerated: true
 draft: false
 eventRecurring: false
 eventOrganizer:
   name: Focus Istanbul Event Management
 ---
-
 ## Why this show matters
 
 ATEEZ landing in Istanbul is a genuine milestone — the eight-member group has toured relentlessly across North America, Europe, and Asia, but this marks their first confirmed date in Turkey. For a fanbase (ATINY) that has spent years watching tour maps skip over the Bosphorus, August 16, 2026 is circled in red. Expect the kind of night ATEEZ has built a reputation for: high-concept stage design, live vocals pushed hard over choreography, and a setlist that swings from the aggressive, brass-driven tracks that made them famous to the ballad moments where the arena goes quiet and phone lights come up instead.
@@ -95,4 +71,4 @@ Istanbul residents heading to a big touring concert generally use public transpo
 
 Cash is still useful for street food and small vendors near venues, but contactless card and mobile payment are widely accepted for merch and official concessions. If you want to avoid the worst crush, arrive when doors open rather than right before the show starts — the biggest bottleneck is usually the first 30–45 minutes after entry opens, not right before the lights go down.
 
-The most common mistake international fans make is booking non-refundable flights before the venue and final date are officially locked — wait for the confirmed announcement before finalizing anything you can't change.
+The most common mistake international fans made was booking non-refundable flights before the venue and final date were officially locked.

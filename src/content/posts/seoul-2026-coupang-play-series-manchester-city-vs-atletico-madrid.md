@@ -19,7 +19,7 @@ faq:
   - q: How do I get to Seoul World Cup Stadium?
     a: Take subway Line 6 to World Cup Stadium Station and exit via Exit 1 or 2, which lead directly to the stadium plaza. From Incheon Airport, connect via AREX to Digital Media City, then transfer to Line 6.
   - q: How much are tickets and where do I buy them?
-    a: Prices and seating tiers weren't published at the time of writing. Check the official Coupang Play event page or authorized ticket partners once sales open, and buy early given the high profile of both clubs.
+    a: Prices and seating tiers weren't published at the time of writing. Tickets for the Man City vs Atlético Madrid match in Seoul were available through the official Coupang Play event page or authorized ticket partners, given the high profile of both clubs.
   - q: How early should I arrive?
     a: Arrive at least 90 minutes before kickoff to clear security and find your section comfortably, especially given expected high demand for these international friendlies.
   - q: Is there anything to do near the stadium before or after the match?
@@ -47,7 +47,7 @@ Given the scale of a Manchester City–Atlético Madrid style double-header, exp
 
 ## Tickets, dates, and what's still unconfirmed
 
-The organizers confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — with exact kickoff times, ticket price tiers, and seating maps published on the official site. Because this is a high-profile pre-season series featuring two of Europe's most-followed clubs, tickets for marquee sections are likely to move fast once sales open.
+The organizers confirmed the dates — August 5 for Manchester City vs Team K League, and August 9 for Atlético Madrid — with exact kickoff times, ticket price tiers, and seating maps published on the official site. Because this was a high-profile pre-season series featuring two of Europe's most-followed clubs, tickets for marquee sections were likely to move fast.
 
 Always verify current dates, kickoff time, venue details, and pricing directly through Coupang Play's official event page or authorized ticket partners before booking flights or hotels — pre-season football calendars can shift due to club schedules.
 

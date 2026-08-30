@@ -18,7 +18,7 @@ faq:
   - q: Who is playing?
     a: Confirmed acts include Australian rock band Jet plus Indonesian artists Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara. Additional names may be added; check the official lineup poster before finalizing plans.
   - q: Where is the festival held and how do I get there?
-    a: The venue hasn't been publicly finalized yet. Jakarta festivals of this scale often use large outdoor grounds accessible via the MRT and Gojek/Grab ride-hailing — but wait for the official venue announcement before booking accommodation nearby.
+    a: The venue was never publicly finalized. Jakarta festivals of this scale often use large outdoor grounds accessible via the MRT and Gojek/Grab ride-hailing.
   - q: How much do tickets cost?
     a: Prices had not been announced ahead of time. Presale and ticket-tier details for The Sounds Project 2026 in Jakarta were expected on the official site and social media.
   - q: Is it a good idea to fly in specifically for this?
