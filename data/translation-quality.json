@@ -791,11 +791,11 @@
   "at": "2026-08-31T12:56:30.162Z"
  },
  "ko/bukit-timah-bukit-timah-nature-reserve": {
-  "hash": "f81a2de77056",
+  "hash": "a08d76b60d1c",
   "score": 1,
   "registerBreak": false,
-  "worst": "싱가포르에서 손대지 않은 정글에 가장 가까운 곳을 경험할 수 있는 장소입니다.",
-  "at": "2026-08-24T09:50:11.443Z"
+  "worst": "줄무늬딱따구리 등 숲속 조류, 이른 아침에 더 활발히 울음",
+  "at": "2026-08-31T15:20:37.794Z"
  },
  "ko/bugis-bugis-street": {
   "hash": "83eb2dfb4a5b",
@@ -812,18 +812,18 @@
   "at": "2026-08-31T12:56:29.957Z"
  },
  "ko/bursa-tophane-clock-tower": {
-  "hash": "08447751d0ea",
+  "hash": "2ddd948b4b5e",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 흔히 하는 실수는 서둘러 올라가서 탑 사진 한 장 찍고 바로 떠나는 것인데, 진짜 중요한 건 탑 너머의 풍경을 실제로 바라보며 보내는 그 15분입니다.",
-  "at": "2026-08-24T09:50:13.056Z"
+  "worst": "방문객들이 흔히 하는 실수는 서둘러 올라가서 탑 사진 한 장 찍고 바로 떠나는 것인데...",
+  "at": "2026-08-31T15:20:29.912Z"
  },
  "ko/busan-busan-tower": {
-  "hash": "dca9d99df2bd",
+  "hash": "bc7607913bb8",
   "score": 1,
   "registerBreak": false,
-  "worst": "전망대는 타워를 한 바퀴 완전히 감싸는 구조라 어느 쪽에서 봐도 손해 보는 각도가 없습니다",
-  "at": "2026-08-24T09:50:15.757Z"
+  "worst": "평일에는 운영시간 내내 거의 언제나 여유롭습니다.",
+  "at": "2026-08-31T15:20:29.442Z"
  },
  "ko/busan-cheongsapo": {
   "hash": "e5e5e5fafece",
@@ -833,18 +833,18 @@
   "at": "2026-08-24T09:50:25.694Z"
  },
  "ko/bursa-green-tomb": {
-  "hash": "73c67bcd7fca",
+  "hash": "a77278766ae9",
   "score": 1,
   "registerBreak": true,
   "worst": "부르사 관광 코스에서 매우 인기 있는 곳이다 보니, 낮 시간이 되면 관광버스 단체 손님들이 끊임없이 오갑니다.",
-  "at": "2026-08-24T09:50:12.239Z"
+  "at": "2026-08-31T15:20:30.888Z"
  },
  "ko/busan-haedong-yonggungsa-temple": {
-  "hash": "ce47a2548623",
+  "hash": "a8188469f8c4",
   "score": 1,
   "registerBreak": false,
-  "worst": "주말에는 오전 9시부터 오후 6시 사이에 관광버스가 물결처럼 몰려들어 붐빕니다.",
-  "at": "2026-08-24T09:50:17.298Z"
+  "worst": "사찰은 매일 오전 4시부터 오후 8시까지 일찍부터 문을 열기 때문에, 사람들이 몰릴 것 같은 이미지와 달리",
+  "at": "2026-08-31T15:20:37.762Z"
  },
  "ko/busan-gukje-market": {
   "hash": "4e5bfd11df65",
@@ -875,11 +875,11 @@
   "at": "2026-08-24T09:50:21.986Z"
  },
  "ko/busan-museum-1": {
-  "hash": "e04c261e0813",
+  "hash": "a02597d22e32",
   "score": 1,
   "registerBreak": false,
-  "worst": "세계 최대 백화점과 공항 터미널만 한 컨벤션홀로 더 유명한 곳이니까요.",
-  "at": "2026-08-24T09:50:27.319Z"
+  "worst": "1,500명이 훌쩍 넘는 방문객들에게서 4.3점대의 평점을 받고 있다는 사실만 봐도, 전용 예술 지구가 아닌 상업 지구",
+  "at": "2026-08-31T15:20:40.872Z"
  },
  "ko/bunol-posada-venta-pilar": {
   "hash": "b256196b334d",
@@ -889,18 +889,18 @@
   "at": "2026-08-24T09:50:09.832Z"
  },
  "ko/busan-haeundae-traditional-market": {
-  "hash": "45298d0dfda6",
-  "score": 1,
+  "hash": "068cfa9008fd",
+  "score": 2,
   "registerBreak": false,
   "worst": "방문객들이 흔히 하는 실수는 이곳을 해변으로 가는 길에 잠깐 들르는 포토스팟쯔음으로 여기는 것입니다.",
-  "at": "2026-08-24T09:50:22.277Z"
+  "at": "2026-08-31T15:20:38.810Z"
  },
  "ko/busan-songdo-cloud-trails": {
-  "hash": "dcc23b593e1d",
+  "hash": "4f8c0d9e9602",
   "score": 1,
   "registerBreak": false,
   "worst": "이 시간이면 케이블카 캐빈의 조명 쇼가 이미 저녁 인파의 관심을 사진 촬영 쪽으로 돌려놓아 산책로 자체는 한산해진 뒤입니다.",
-  "at": "2026-08-24T09:50:24.435Z"
+  "at": "2026-08-31T15:20:37.070Z"
  },
  "ko/busan-namaste-haeundae": {
   "hash": "4b20abd3bb98",
@@ -910,25 +910,25 @@
   "at": "2026-08-15T06:01:54.483Z"
  },
  "ko/cameron-highlands-cactus-valley": {
-  "hash": "f7340df2df6b",
+  "hash": "4ef3824d92a9",
   "score": 1,
   "registerBreak": false,
-  "worst": "딸기와 패션프루트 노점은 선인장 테마와 묘하게 잘 어울립니다 — 카메론 하이랜드의 서늘한 기후가",
-  "at": "2026-08-15T02:14:47.616Z"
+  "worst": "카메론 하이랜드의 서늘한 기후가 사막 식물과 온대 과일 농사를 동시에 지탱한다는, 다소 엉뚱하지만",
+  "at": "2026-08-31T15:20:43.216Z"
  },
  "ko/busan-yongdusan-park": {
-  "hash": "4f06c415e440",
+  "hash": "c70e6f1f18e8",
   "score": 1,
   "registerBreak": false,
-  "worst": "동상들, 타워, 민속 박물관, 그리고 오르는 동안 계속 펼쳐지는 여러 층의 테라스가 그것입니다.",
-  "at": "2026-08-15T02:14:52.298Z"
+  "worst": "공원은 중구의 낮은 언덕 위에 자리하며, 단순히 하나의 명소라기보다는 여러 겹으로 이루어진 공간입니다.",
+  "at": "2026-08-31T15:20:44.974Z"
  },
  "ko/cameron-highlands-mossy-forest": {
-  "hash": "36013ada0e95",
+  "hash": "c4f6be554257",
   "score": 1,
   "registerBreak": false,
-  "worst": "구눙 브린창 해발 약 2,000미터 지점에 이르면 기온이 뚝 떨어지고 안개가 짙어지며, 큰 키의 이엽시과 숲이 어느새 낯선 풍경으로 바뀝니다",
-  "at": "2026-08-15T02:14:53.038Z"
+  "worst": "캐노피 사이로 빛이 스며드는 곳은 온통 부드럽고 초록빛이며 은은하게 빛나는 듯합니다.",
+  "at": "2026-08-31T15:20:51.605Z"
  },
  "ko/cannes-mural-cannes-cinema": {
   "hash": "60a473ef45f9",
@@ -938,130 +938,130 @@
   "at": "2026-08-15T06:02:01.001Z"
  },
  "ko/can-tho-cai-rang-floating-market": {
-  "hash": "ee04721cddd6",
+  "hash": "063513db28dc",
   "score": 1,
   "registerBreak": false,
-  "worst": "붐비지 않는 대신 상거래 활기도 줄어드는 트레이드오프가 있습니다.",
-  "at": "2026-08-15T02:14:54.629Z"
+  "worst": "주말에는 오전 7시부터 밤 10시까지 계속 붐비기 때문에, 관광 보트와 사진 촬영객들도 하루 늦게까지 몰려듭니다.",
+  "at": "2026-08-31T15:20:43.125Z"
  },
  "ko/busan-oryukdo-skywalk": {
-  "hash": "28a41f631aef",
+  "hash": "aad679b335b3",
   "score": 1,
   "registerBreak": false,
-  "worst": "양말을 챙겨 신으세요. 유리 위로 나가기 전 제공되는 슬리퍼로 신발을 갈아 신어야 합니다",
-  "at": "2026-08-24T09:50:24.106Z"
+  "worst": "전망대 아래쪽에는 옛 등대지기 숙소와 지역 낚시꾼들이 낚싯대를 드리우는 바위 해안이 있는데, 이곳이 포토스팟이 되기",
+  "at": "2026-08-31T15:20:33.455Z"
  },
  "ko/cannes-vue-depuis-le-suquet": {
-  "hash": "6b50c25a74c6",
+  "hash": "8ecd64f1a39d",
   "score": 1,
   "registerBreak": false,
-  "worst": "박물관 입구 근처 낮은 담장 옆, 광장 가장자리에 서면 넓게 펼쳐진 전망이 눈앞에 열립니다.",
-  "at": "2026-08-15T02:14:54.770Z"
+  "worst": "박물관 자체는 규모가 작고 개성 있는 곳으로, 19세기 네덜란드 남작이 기증한 악기들과 콜럼버스 이전 시대 및 오세아니아 미술품들로 채워져 있습니다.",
+  "at": "2026-08-31T15:20:47.358Z"
  },
  "ko/cappadocia-pigeon-valley": {
-  "hash": "56ea78977ec9",
+  "hash": "7f0a1cf67fdf",
   "score": 1,
   "registerBreak": false,
-  "worst": "몇 킬로미터 내에 위치한 러브 밸리(Love Valley)와 로즈 밸리(Rose Valley)는 비슷한 암석과 협곡 풍경을 보여주므로",
-  "at": "2026-08-15T02:14:55.426Z"
+  "worst": "거의 19,500개에 달하는 리뷰에서 평점 4.6을 기록하며 이미 대중적인 명소로 확고히 자리 잡았지만, 이 트레일은 여전히",
+  "at": "2026-08-31T15:21:02.991Z"
  },
  "ko/cappadocia-babayan-evi": {
-  "hash": "e934fbb82bba",
+  "hash": "d7991d7874e9",
   "score": 1,
   "registerBreak": false,
-  "worst": "실제로 이 레스토랑의 주방은 카파도키아의 화산 토양과 고원 지대가 실제로 생산해내는 것들 — ...를 중심으로 구성되어 있습니다.",
-  "at": "2026-08-15T02:14:55.495Z"
+  "worst": "실제로 이 레스토랑의 주방은 카파도키아의 화산 토양과 고원 지대가 실제로 생산해내는 것들 — 이 지역의 건조 과일...",
+  "at": "2026-08-31T15:20:48.531Z"
  },
  "ko/cebu-sirao-garden": {
-  "hash": "396e08323cda",
-  "score": 1,
+  "hash": "80f8c181a7d7",
+  "score": 2,
   "registerBreak": false,
-  "worst": "소액권 현금을 챙겨가세요 — 입장료, 별도의 포토존 이용료, 매점 상품 구매는 대체로 현금 결제이며...",
-  "at": "2026-08-15T02:14:57.255Z"
+  "worst": "가장 현명한 현지인식 방법은 단순히 투어 버스 시간표를 앞지르는 것입니다",
+  "at": "2026-08-31T15:21:07.086Z"
  },
  "ko/causeway-bay-tin-hau-temple-causeway-bay": {
-  "hash": "8fba86d8ab62",
+  "hash": "2a16ac53079f",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳을 찾는 이유는 규모가 아니라 대비에 있습니다.",
-  "at": "2026-08-15T02:14:59.089Z"
+  "worst": "입장권도, 줄 서는 시스템도, 재촉하는 직원도 없는데, 코즈웨이베이 쇼핑 중심가에 이렇게 가까운 곳치고는 보기 드문 일입니다.",
+  "at": "2026-08-31T15:20:56.779Z"
  },
  "ko/central-avenue-of-stars-hk": {
-  "hash": "9bed36718c32",
+  "hash": "0b06803ee0a6",
   "score": 1,
   "registerBreak": false,
   "worst": "매력은 두 가지입니다: 스카이라인 전망과 100년에 걸친 홍콩 영화에 대한 헌사입니다.",
-  "at": "2026-08-15T02:15:00.686Z"
+  "at": "2026-08-31T15:21:06.736Z"
  },
  "ko/central-central-mid-levels-escalators": {
-  "hash": "b510232a79f2",
+  "hash": "7e67cb5477ea",
   "score": 1,
   "registerBreak": false,
-  "worst": "관광버스가 아닌, 도보와 차량 없는 일상 통근 이동을 위해 설계되었기 때문입니다.",
-  "at": "2026-08-15T02:15:03.583Z"
+  "worst": "이 에스컬레이터를 타는 것은 사실상 홍콩 섬의 사회적 층위를 가로지르는 여정이라 할 수 있으며...",
+  "at": "2026-08-31T15:21:04.609Z"
  },
  "ko/chengdu-chengdu-research-base-of-giant-panda-breeding": {
-  "hash": "8393d8b5c024",
+  "hash": "4e9d9e28cf35",
   "score": 1,
   "registerBreak": false,
   "worst": "1987년 구조된 판다 단 여섯 마리로 시작한 이 기지는 오늘날 100마리가 넘는 대왕판다와...",
-  "at": "2026-08-15T02:15:05.910Z"
+  "at": "2026-08-31T15:21:19.729Z"
  },
  "ko/chandigarh-quick-style-india-tour-2026": {
-  "hash": "a638171ee593",
-  "score": 1,
+  "hash": "57e2131fa71f",
+  "score": 2,
   "registerBreak": false,
-  "worst": "국제 투어의 우선순위 도시로 자주 꼽히지 않는 찬디가르로서는 퀵 스타일의 공연 유치 자체가 그야말로 하나의 사건이며",
-  "at": "2026-08-15T02:15:06.675Z"
+  "worst": "티켓은 반드시 퀵스타일이 지정한 공식 판매처를 통해서만 구매할 수 있었습니다.",
+  "at": "2026-08-31T15:21:20.004Z"
  },
  "ko/chennai-government-museum-chennai": {
-  "hash": "8688168854b8",
+  "hash": "97736672579f",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳을 찾는 이유는 바로 청동상 때문입니다.",
-  "at": "2026-08-15T02:15:07.656Z"
+  "at": "2026-08-31T15:21:22.864Z"
  },
  "ko/chennai-snow-kingdom": {
-  "hash": "2dc72287a3ee",
-  "score": 1,
+  "hash": "1ab1ad2c99fb",
+  "score": 2,
   "registerBreak": false,
-  "worst": "진짜 서늘한 냉기, 흥겨운 배경음악, 그리고 입구에서 재킷과 고무장화를 나눠주는 직원들을 만나게 됩니다.",
-  "at": "2026-08-15T02:15:09.004Z"
+  "worst": "진짜 다져진 눈 — 간 얼음도, 폼도 아닌 진짜 눈 — 을 처음 마주하는 순간, 문이 닫히자마자 대부분의",
+  "at": "2026-08-31T15:21:34.860Z"
  },
  "ko/chiang-mai-best-khao-soi-chang-mai": {
-  "hash": "89b75cd36267",
+  "hash": "627356717bcb",
   "score": 1,
   "registerBreak": false,
-  "worst": "베스트 카오소이 창마이(Best Khao Soi Chang Mai)는 오직 이 한 가지 요리를 뛰어나게 만드는 데 집중해 명성을 쌓아왔으며",
-  "at": "2026-08-15T02:15:10.124Z"
+  "worst": "이 가게는 저녁 시간에만 운영되며 매일 문을 열지는 않으므로, 치앙마이의 전형적인 점심 시간이 아니라 저녁 시간대에 맞춰",
+  "at": "2026-08-31T15:21:24.395Z"
  },
  "ko/cebu-fort-san-pedro": {
-  "hash": "594e50b9baa4",
+  "hash": "4c71815a73cb",
   "score": 1,
   "registerBreak": false,
   "worst": "해자와 항구 쪽으로 펼쳐지는 풍경이 그만한 가치를 합니다.",
-  "at": "2026-08-15T02:15:12.258Z"
+  "at": "2026-08-31T15:20:59.513Z"
  },
  "ko/chiang-mai-hidden-village-chiang-mai": {
-  "hash": "e3117bd80f2b",
+  "hash": "0dc57676341d",
   "score": 1,
   "registerBreak": false,
-  "worst": "주요 관광 지역을 벗어난 시골 카페는 카드 결제가 원활하지 않을 수 있으니 소액권 현금을 챙기시기 바랍니다.",
-  "at": "2026-08-15T02:15:14.150Z"
+  "worst": "산피수아에는 비슷하게 생긴 번호 붙은 소이들이 미로처럼 얽혀 있습니다.",
+  "at": "2026-08-31T15:21:24.718Z"
  },
  "ko/chamonix-grotte-de-glace": {
-  "hash": "0899b45052ee",
+  "hash": "bebff2daf525",
   "score": 1,
   "registerBreak": false,
   "worst": "공기에서는 은은한 광물 냄새와 함께 차갑고 맑은 느낌이 감돌립니다.",
-  "at": "2026-08-15T02:15:18.424Z"
+  "at": "2026-08-31T15:21:20.844Z"
  },
  "ko/chiang-mai-wat-chedi-luang": {
-  "hash": "f49d993cc358",
+  "hash": "5c848f71c200",
   "score": 1,
   "registerBreak": false,
-  "worst": "16세기 지진, 그리고 이후 버마의 공격 당시 대포 공격까지 받았을 가능성이 있는 사건으로 인해 윗부분이 무너져 내렸습니다.",
-  "at": "2026-08-15T02:15:20.751Z"
+  "worst": "많은 오후 시간대에 영어를 공부하는 젊은 승려들이 지정된 구역에 앉아 방문객과 대화를 나눕니다.",
+  "at": "2026-08-31T15:21:29.403Z"
  },
  "ko/chiang-mai-the-baristro-asian-style": {
   "hash": "db1f30b08dec",
@@ -1078,53 +1078,53 @@
   "at": "2026-08-15T06:02:08.693Z"
  },
  "ko/chiang-rai-baan-dam-museum": {
-  "hash": "639a27079906",
-  "score": 1,
+  "hash": "20ede070ee30",
+  "score": 2,
   "registerBreak": false,
-  "worst": "내부의 재료는 뼈입니다: 긴 테이블 위에 펼쳐진 비단뱀 가죽, 피라미드처럼 쌓인 물소 두개골...",
-  "at": "2026-08-15T02:15:29.145Z"
+  "worst": "내부의 재료는 뼈입니다: 긴 테이블 위에 펼쳐진 비단뱀 가죽, 피라미드처럼 쌓인 물소 두개골, 코끼리 상아...",
+  "at": "2026-08-31T15:21:33.451Z"
  },
  "ko/chiang-mai-wat-phra-that-doi-suthep": {
-  "hash": "d7a567952023",
-  "score": 1,
+  "hash": "13e6f0089b5f",
+  "score": 0,
   "registerBreak": false,
-  "worst": "1383년 란나 왕국의 쿠나 왕 치하에 창건된 이 사원에는 전설이 하나 전해집니다.",
-  "at": "2026-08-15T02:15:29.239Z"
+  "worst": "",
+  "at": "2026-08-31T15:21:26.738Z"
  },
  "ko/chiang-rai-khao-soi-restaurant": {
-  "hash": "7841f12f055e",
+  "hash": "66611e5c3290",
   "score": 1,
   "registerBreak": false,
   "worst": "든든하고 만족스러운 한 그릇을 본국의 커피 한 잔 값보다 저렴하게 즐길 수 있습니다.",
-  "at": "2026-08-15T11:53:46.867Z"
+  "at": "2026-08-31T15:21:36.998Z"
  },
  "ko/chiang-rai-rong-suea-ten-temple": {
-  "hash": "2c27a50186f6",
+  "hash": "edd980cdb843",
   "score": 1,
   "registerBreak": false,
-  "worst": "사원의 이름은 대략 \"춤추는 호랑이 사원\"으로 번역되는데, 이는 치앙라이 시내 외곽에 사람이 정착하기 전 이 일대를 호랑이들이 어슬렁거렸다는 이야기에서 유래했다고 전해집니다.",
-  "at": "2026-08-15T02:15:33.068Z"
+  "worst": "흔히 \"블루 템플\"이라는 애칭으로 불리는 롱수아뗀(Rong Suea Ten)은 태국에서 가장 많이 사진에 담기는 현대 종교 건축물 중 하나로",
+  "at": "2026-08-31T15:21:35.487Z"
  },
  "ko/chiang-rai-wat-rong-khun": {
-  "hash": "77972e919a02",
+  "hash": "1dc0742dce50",
   "score": 1,
   "registerBreak": false,
-  "worst": "내부는 전통 불교 도상과 놀라운 현대적 이미지가 어우러진 벽화로 장식되어 있는데, 제트 엔진, 슈퍼히어로, 종말론적 장면들이 부처의 가르침과 함께 뒤섞여 있습니다.",
-  "at": "2026-08-15T02:15:33.283Z"
+  "worst": "단정한 복장이 필수입니다: 어깨와 무릎을 가리고, 비치는 소재는 피하세요",
+  "at": "2026-08-31T15:21:36.290Z"
  },
  "ko/chiayi-hinoki-village": {
-  "hash": "2e4d1655feb2",
+  "hash": "639f11058bbf",
   "score": 1,
   "registerBreak": false,
-  "worst": "자이는 알리산(Alishan)에서 벌목한 히노키 편백나무 덕분에 부를 쌓았고, 이 마을은 그 목재 산업을 관리했던 근로자들이 살던 곳이었습니다.",
-  "at": "2026-08-15T02:15:35.866Z"
+  "worst": "자이는 알리산(Alishan)에서 벌목한 히노키 편백나무 덕분에 부를 쌓았고, 이 마을은 그 목재 산업을",
+  "at": "2026-08-31T15:21:44.273Z"
  },
  "ko/chiayi-chiayi-park": {
-  "hash": "156fc20e8212",
+  "hash": "2facd5e5c990",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 공원은 문을 닫지 않습니다 — 연중 매일 24시간 개방되며, 이 점은 다른 어떤 명소보다 이곳에서 더 중요하게 작용합니다.",
-  "at": "2026-08-15T02:15:38.204Z"
+  "worst": "매일 24시간 개방되는데, 이 점이 다른 명소보다 훨씬 중요하게 작용합니다.",
+  "at": "2026-08-31T15:21:40.187Z"
  },
  "ko/chiang-mai-garden-to-table-chiangmai": {
   "hash": "ecc644796008",
@@ -1141,11 +1141,11 @@
   "at": "2026-08-15T02:15:42.198Z"
  },
  "ko/chiba-chiba-park": {
-  "hash": "137891097805",
+  "hash": "aec019b2f61e",
   "score": 1,
   "registerBreak": false,
-  "worst": "대신 이곳이 내주는 것은 '공간' 그 자체입니다 — 널찍한 잔디밭, 커다란 중앙 연못...",
-  "at": "2026-08-15T02:15:42.370Z"
+  "worst": "이곳의 중심은 커다란 연못으로, 따뜻한 계절이면 로우보트나 백조 모양의 페달보트를 빌려 연잎 사이를 유유히 떠다닐 수 있습니다",
+  "at": "2026-08-31T15:21:39.806Z"
  },
  "ko/chicago-billy-goat-tavern-the-original": {
   "hash": "fe2420eaef3a",
@@ -1155,11 +1155,11 @@
   "at": "2026-08-15T02:15:44.135Z"
  },
  "ko/chiang-rai-king-mangrai-monument": {
-  "hash": "0f3c1abb5ad7",
+  "hash": "822334720c68",
   "score": 1,
   "registerBreak": false,
-  "worst": "3,500개가 넘는 리뷰를 바탕으로 한 높은 평점만 봐도, 대부분의 방문객이 단 몇 분만 머무름에도 불구하고",
-  "at": "2026-08-15T02:15:46.378Z"
+  "worst": "3,500개가 넘는 리뷰를 바탕으로 한 높은 평점만 봐도, 대부분의 방문객이 단 몇 분만 머무름에도 불구하고...",
+  "at": "2026-08-31T15:21:32.660Z"
  },
  "ko/chicago-field-museum": {
   "hash": "b19e00bd39db",
@@ -16527,11 +16527,11 @@
   "at": "2026-08-16T11:20:50.498Z"
  },
  "zh/abu-dhabi-art-house-cafe": {
-  "hash": "2b18cc4ee3be",
+  "hash": "9b194ee481c8",
   "score": 1,
   "registerBreak": false,
-  "worst": "这是阿布扎比咖啡馆圈子里颇有名气的地方，并非什么隐世秘境，所以要有心理准备：它拥有一批稳定的忠实客群",
-  "at": "2026-08-31T12:55:30.181Z"
+  "worst": "艺术之家咖啡馆与其说是一家独立咖啡馆，更像是藏在联合现代艺术画廊里的一处惊喜发现",
+  "at": "2026-08-31T15:20:20.019Z"
  },
  "zh/abu-dhabi-qasr-al-hosn": {
   "hash": "07c878ef8f87",
@@ -21973,18 +21973,18 @@
   "at": "2026-08-15T06:02:13.876Z"
  },
  "ko/causeway-bay-fashion-walk-food-street": {
-  "hash": "a5f04769440a",
+  "hash": "e96cf8eee91f",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳의 매력은 짧은 거리 안에 응축된 다양성이다 — ... 모두 서로 부를 수 있을 만큼 가까이 붙어 있다.",
-  "at": "2026-08-15T06:02:14.449Z"
+  "worst": "이곳의 매력은 짧은 거리 안에 응축된 다양성이다 — 광둥식 가정식, 일본식 그릴, 한국식 매대, 디저트 코너까지",
+  "at": "2026-08-31T15:21:02.085Z"
  },
  "ko/chiang-mai-chiang-mai-national-museum": {
-  "hash": "196760964f86",
-  "score": 1,
+  "hash": "a5dc5b2df1b0",
+  "score": 2,
   "registerBreak": false,
-  "worst": "이곳은 개방형 사원들보다 이러한 규칙이 더 엄격하게 지켜집니다.",
-  "at": "2026-08-15T06:02:16.465Z"
+  "worst": "방문객들이 가장 흔히 하는 실수는 사원들 사이에 잠깐 들르는 5분짜리 정류장 정도로 여기는 것입니다.",
+  "at": "2026-08-31T15:21:36.659Z"
  },
  "ko/davao-philippine-eagle-center": {
   "hash": "7cf7055c93b3",
@@ -25249,11 +25249,11 @@
   "at": "2026-08-15T08:47:32.805Z"
  },
  "ko/chiba-hiyodori-zaka": {
-  "hash": "0b8db4af3a75",
+  "hash": "16ac75f0fb47",
   "score": 1,
   "registerBreak": false,
-  "worst": "게이세이우에노역Keisei-Ueno에서 약 70-75분 소요, 혹은 나리타 공항Narita Airport에서 환승하면 약 20-30분이면 도착",
-  "at": "2026-08-15T09:01:16.516Z"
+  "worst": "이곳은 체크리스트를 하나씩 지워나가는 방식보다는 느긋함이 보상받는 장소다.",
+  "at": "2026-08-31T15:21:47.135Z"
  },
  "ko/florence-basilica-of-santa-croce-in-florence": {
   "hash": "42af89e679c4",
@@ -25760,11 +25760,11 @@
   "at": "2026-08-31T12:56:45.334Z"
  },
  "ko/central-mak-s-noodle": {
-  "hash": "566ef1348a47",
+  "hash": "55875be0714f",
   "score": 1,
   "registerBreak": false,
-  "worst": "맥스 누들은 작고 밝은 매장에서, 오로지 한 가지에만 집중하는 고집스러움을 자랑합니다.",
-  "at": "2026-08-15T10:29:58.246Z"
+  "worst": "붐비지 않는 척하기보다는 인파를 피해 가는 요령을 아는 것이 현명합니다.",
+  "at": "2026-08-31T15:21:16.082Z"
  },
  "ko/colmar-parc-du-champ-de-mars": {
   "hash": "7056d9e6874c",
@@ -25781,11 +25781,11 @@
   "at": "2026-08-15T10:30:05.167Z"
  },
  "ko/chengdu-chengdu-museum": {
-  "hash": "ccbd1c9280b8",
+  "hash": "6ab21cbd7009",
   "score": 1,
   "registerBreak": false,
-  "worst": "사람이 몰리는 일이 드문 곳이라... 붐비는 다른 명소 대신 찾기에도 좋은 선택입니다.",
-  "at": "2026-08-15T10:30:11.311Z"
+  "worst": "현지인들은 이곳을 조용한 오후를 보내는 활동으로 여겨, 민속 문화관을 천천히 거닐고 서둘러 지나가기보다...",
+  "at": "2026-08-31T15:21:23.499Z"
  },
  "ko/genoa-porto-antico": {
   "hash": "da955da9ce78",
@@ -26929,25 +26929,25 @@
   "at": "2026-08-31T12:56:20.662Z"
  },
  "ko/chengdu-anshun-bridge": {
-  "hash": "e52b003c461f",
+  "hash": "3ef11727542b",
   "score": 1,
   "registerBreak": false,
-  "worst": "먼저 자연광 아래 강물을 볼 수 있고, 이어서 조명이 켜지면서 분위기가 바뀌는 순간, 그리고 관광객 무리가...",
-  "at": "2026-08-16T11:01:22.267Z"
+  "worst": "안순교는 서둘러 사진 한 장 찍고 지나가기보다 천천히 머물러야 진가를 알 수 있는 곳입니다.",
+  "at": "2026-08-31T15:21:16.297Z"
  },
  "ko/chengdu-gudashengci-temple": {
-  "hash": "ad7431af4ec7",
+  "hash": "1daa488f4aec",
   "score": 1,
   "registerBreak": false,
-  "worst": "여느 실제 운영 중인 예배 공간과 마찬가지로 어깨와 무릎을 가리는 단정한 복장을 갖추세요.",
-  "at": "2026-08-16T11:01:24.660Z"
+  "worst": "많은 방문객이 흔히 저지르는 실수는 이곳을 타이구리 쇼핑 일정에 곁들이는 5분짜리 코스 정도로 취급하는 것입니다.",
+  "at": "2026-08-31T15:21:21.657Z"
  },
  "ko/chengdu-people-s-park": {
-  "hash": "1296b1396966",
+  "hash": "3114d4d9accd",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳의 에티켓은 굳이 말로 정해지지는 않았지만 금방 익힐 수 있습니다.",
-  "at": "2026-08-16T11:01:22.871Z"
+  "worst": "청두의 대표 관광지들에 비하면 아직 외국인 방문객들에게 상대적으로 덜 알려진 곳이기에...",
+  "at": "2026-08-31T15:21:22.208Z"
  },
  "ko/deira-souk-deira": {
   "hash": "251e994bcdae",
@@ -27230,11 +27230,11 @@
   "at": "2026-08-31T12:56:10.487Z"
  },
  "ko/central-cupping-room-central": {
-  "hash": "689b8515fe07",
+  "hash": "8b9343298675",
   "score": 1,
   "registerBreak": false,
   "worst": "이는 온갖 트렌드를 좇기보다 한 가지를 제대로 파고든 결과로 보이는 꾸준함입니다.",
-  "at": "2026-08-16T11:01:18.549Z"
+  "at": "2026-08-31T15:21:12.167Z"
  },
  "ko/guangzhou-guangdong-museum": {
   "hash": "eec6e026254e",
@@ -28049,11 +28049,11 @@
   "at": "2026-08-31T12:56:26.824Z"
  },
  "ko/cappadocia-zelve-open-air-museum": {
-  "hash": "35924d0fa2e6",
+  "hash": "058007d97274",
   "score": 1,
   "registerBreak": false,
   "worst": "이 두 곳을 함께 묶으면 젤베로 향하는 한 번의 여정을 왔던 길을 되돌아가지 않고도 반나절 코스로 완성할 수 있습니다.",
-  "at": "2026-08-18T09:25:24.817Z"
+  "at": "2026-08-31T15:20:53.376Z"
  },
  "zh/antalya-antalya-toy-museum": {
   "hash": "0262d565b21f",
@@ -28133,11 +28133,11 @@
   "at": "2026-08-31T12:56:27.543Z"
  },
  "ko/cappadocia-uchisar-castle": {
-  "hash": "02a12355db85",
+  "hash": "f0226b0f0dc5",
   "score": 2,
   "registerBreak": false,
   "worst": "이는 주말 낮부터 저녁까지 몰리는 혼잡 시간대를 제외한 오전 7시~오후 9시 개방 시간 전체에 해당합니다.",
-  "at": "2026-08-19T08:20:51.116Z"
+  "at": "2026-08-31T15:20:55.391Z"
  },
  "zh/antalya-perge-ancient-city": {
   "hash": "a4666a7ee4ce",
@@ -29363,5 +29363,159 @@
   "registerBreak": false,
   "worst": "그만큼 지금 이 글을 읽고 계신 분들에게는 현실적인 셈법이 달라집니다.",
   "at": "2026-08-31T12:55:56.348Z"
+ },
+ "es/jumeirah-dubai-old-village": {
+  "hash": "58bb4ccf1a42",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El Pueblo Antiguo de Dubái recibe solo una fracción de ese tráfico, lo que lo convierte en",
+  "at": "2026-08-31T15:18:41.452Z"
+ },
+ "es/lantau-island-big-buddha": {
+  "hash": "64011c661d4b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "por lo que es posible tener aquí una visita más tranquila que en los grandes íconos de la ciudad",
+  "at": "2026-08-31T15:18:55.371Z"
+ },
+ "es/lantau-island-lantau-south-country-park": {
+  "hash": "8ba58a46b75b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "harina de otro costal: un muro de crestas verdes que caen directamente hacia el mar",
+  "at": "2026-08-31T15:18:57.186Z"
+ },
+ "ja/jumeirah-dubai-old-village": {
+  "hash": "4feef76927d3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ドバイ・オールド・ビレッジは、クリーク(入江)を挟んでジュメイラ側にあるアル・ハムリヤ地区に位置しており",
+  "at": "2026-08-31T15:18:59.437Z"
+ },
+ "ja/lantau-island-big-buddha": {
+  "hash": "d19666927c62",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ケーブルカーの駅周辺に広がる店や飲食店の集まり、ゴンピン・ヴィレッジは観光客向けに整備されており",
+  "at": "2026-08-31T15:19:10.055Z"
+ },
+ "ja/lantau-island-lantau-south-country-park": {
+  "hash": "b4816e64274f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "これらはいずれも、観光客の多いランタオ島北部へ引き返す必要がなく、一日を通して島の静かな南側だけで過ごすことができます。",
+  "at": "2026-08-31T15:19:12.460Z"
+ },
+ "ko/jumeirah-dubai-old-village": {
+  "hash": "64fb7114fc7b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "단체 관광객이 거의 찾지 않는 곳이라, 골목에 가만히 서서 바르질 타워에 부딪히는 바람 소리만 들을 수 있는, 두바이의 유적지 중에서도 보기 드문 경험을",
+  "at": "2026-08-31T15:19:15.287Z"
+ },
+ "ko/lantau-island-big-buddha": {
+  "hash": "3af2538df3ac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 고도에서는 구름이 수시로 몰려오고 사라지므로, 흐리게 시작한 방문도 한 시간 안에 맑아질 수 있습니다.",
+  "at": "2026-08-31T15:19:18.578Z"
+ },
+ "ko/lantau-island-lantau-south-country-park": {
+  "hash": "2b1458d1e000",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "란타우 사우스 컨트리 파크가 바로 그 능선이며, 이곳은 하나의 단일한 명소라기보다는...",
+  "at": "2026-08-31T15:19:20.962Z"
+ },
+ "zh/jumeirah-dubai-old-village": {
+  "hash": "21bc1d1adf48",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "穿closed-toe（包脚）鞋，珊瑚石地面凹凸不平",
+  "at": "2026-08-31T15:20:26.466Z"
+ },
+ "zh/lantau-island-big-buddha": {
+  "hash": "c043a28fcaea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "若能赶在缆车和巴士当天首班运营后不久抵达，通常台阶上人会少一些，光线也更适合拍照。",
+  "at": "2026-08-31T15:19:36.849Z"
+ },
+ "ko/cameron-highlands-lavender-garden-cameron-lavender": {
+  "hash": "2a509aabc382",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "해발 1,500미터에서 자라는, 원래대로라면 유럽행 비행기를 타야 볼 수 있는 꽃들을 만날 수 있다는 점이야말로...",
+  "at": "2026-08-31T15:20:40.841Z"
+ },
+ "ko/cameron-highlands-sam-poh-temple": {
+  "hash": "b5ee147f569f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "타일 지붕선과 용 문양이 이 사원 전체에서 가장 많이 촬영되는 명소이기 때문입니다.",
+  "at": "2026-08-31T15:20:43.542Z"
+ },
+ "ko/can-tho-cai-rang-market": {
+  "hash": "df2e299fe156",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "근처의 좁은 운하를 따라 삼판(sampan) 배로 천천히 노를 저어보는 것도 좋습니다.",
+  "at": "2026-08-31T15:20:44.697Z"
+ },
+ "ko/can-tho-ninh-kieu-wharf": {
+  "hash": "d5bf07e6e16e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "닌끼에우는 조용히 숨어 있는 명소가 아니라 실제로 도시에서 손꼽히게 붐비는 관광지이므로 피크 시간대에 한적함을 기대하기는 어렵습니다.",
+  "at": "2026-08-31T15:20:47.616Z"
+ },
+ "ko/cappadocia-rose-valley": {
+  "hash": "70c2704d314c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 일대에는 기차나 지하철이 없는, 카파도키아 시골 지역입니다.",
+  "at": "2026-08-31T15:20:53.952Z"
+ },
+ "ko/can-tho-can-tho-museum": {
+  "hash": "5de6f9afbe5e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 크고 밝은 색상의 열주 정면 건물은 닌끼에우 지구에서도 손꼽히게 위풍당당한 공공건축물이며, 강과도",
+  "at": "2026-08-31T15:20:57.191Z"
+ },
+ "ko/cebu-casa-gorordo-museum": {
+  "hash": "f2850412d7cc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "많은 방문객이 저지르는 실수는 다른 곳으로 가는 길에 20분 만에 서둘러 훑고 지나가는 것입니다.",
+  "at": "2026-08-31T15:20:58.816Z"
+ },
+ "ko/cebu-magellan-s-cross": {
+  "hash": "f2f9ee1dd762",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-08-31T15:20:59.493Z"
+ },
+ "ko/central-hong-kong-zoological-and-botanical-gardens": {
+  "hash": "aedc07f95a68",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 공원은 홍콩섬에 위치하며, 앨버니로드를 사이에 두고 두 구역으로 나뉘어 있는데 지하보도로 서로 연결되어 있습니다.",
+  "at": "2026-08-31T15:21:05.164Z"
+ },
+ "ko/central-tai-kwun": {
+  "hash": "b2d68a9e6bbf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가격대는 홍콩 기준으로도 다소 높은 편인데, 이는 양보다는 공간이 주는 분위기값에 가깝습니다.",
+  "at": "2026-08-31T15:21:13.105Z"
+ },
+ "ko/central-man-mo-temple": {
+  "hash": "344316fc8f47",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그 광경은 정말이지 아득할 정도인데, 바깥의 유리 빌딩들과 달리 여전히 1800년대에 머물러 있는 듯한 느낌을 주는",
+  "at": "2026-08-31T15:21:20.286Z"
  }
 }

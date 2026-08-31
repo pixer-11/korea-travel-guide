@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 115,
-   "hits": 69
+   "attempts": 118,
+   "hits": 72
   },
   "park": {
-   "attempts": 108,
-   "hits": 61
+   "attempts": 111,
+   "hits": 63
   },
   "viewpoint": {
    "attempts": 51,
@@ -34,7 +34,7 @@
    "hits": 74
   },
   "noodles": {
-   "attempts": 15,
+   "attempts": 16,
    "hits": 0
   },
   "old quarter": {
@@ -154,5 +154,5 @@
    "hits": 0
   }
  },
- "updated": "2026-08-31T12:37:53.341Z"
+ "updated": "2026-08-31T15:16:31.186Z"
 }

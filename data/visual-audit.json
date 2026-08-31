@@ -13869,5 +13869,35 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows pagoda facade, representative view of temple",
     "at": "2026-08-31T12:37:01.910Z"
+  },
+  "lantau-island-big-buddha\u0001https://upload.wikimedia.org/wikipedia/commons/c/cb/Big_Buddha_%28147830209%29.jpeg": {
+    "slug": "lantau-island-big-buddha",
+    "verdict": "MATCH",
+    "reason": "publish gate: Clear representative image of the Big Buddha statue",
+    "at": "2026-08-31T15:13:04.675Z"
+  },
+  "sai-kung-tin-hau-temple-joss-house-bay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Joss_House_Bay_Tin_Hau_Temple_1.jpg/1920px-Joss_House_Bay_Tin_Hau_Temple_1.jpg": {
+    "slug": "sai-kung-tin-hau-temple-joss-house-bay",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinese temple exterior, matches Tin Hau Temple architecture",
+    "at": "2026-08-31T15:13:47.659Z"
+  },
+  "lantau-island-lantau-south-country-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ngong_Ping_from_Tian_Tan_Buddha.JPG/1920px-Ngong_Ping_from_Tian_Tan_Buddha.JPG": {
+    "slug": "lantau-island-lantau-south-country-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Green mountain landscape matches Lantau South Country Park scenery",
+    "at": "2026-08-31T15:14:38.700Z"
+  },
+  "sai-kung-sai-kung-east-country-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sai_Kung_Folded_Rock.JPG/1920px-Sai_Kung_Folded_Rock.JPG": {
+    "slug": "sai-kung-sai-kung-east-country-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Rock formations plausible for Sai Kung East Country Park scenery",
+    "at": "2026-08-31T15:15:28.069Z"
+  },
+  "jumeirah-dubai-old-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dubai_Al_Seef%2C_the_historical_village_in_Bur_Dubai_06.jpg/3840px-Dubai_Al_Seef%2C_the_historical_village_in_Bur_Dubai_06.jpg": {
+    "slug": "jumeirah-dubai-old-village",
+    "verdict": "MATCH",
+    "reason": "publish gate: Nighttime street view of old-style Dubai heritage village architecture",
+    "at": "2026-08-31T15:16:31.178Z"
   }
 }

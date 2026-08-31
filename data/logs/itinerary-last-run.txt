@@ -14,9 +14,23 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 62 qualifying post(s), variants: 3, 5
-  · Hong Kong 3d — skipped: day 3 has only 2 stops and no unused sight can be added within the 600-minute day budget (restaurant-only or under-provisioned area)
-  · Hong Kong 5d — skipped: day 5 has only 2 stops and no unused sight can be added within the 600-minute day budget (restaurant-only or under-provisioned area)
+Hong Kong, Hong Kong — 66 qualifying post(s), variants: 3, 5
+  ~ Hong Kong 3d — structure changed by 11 slug(s), regenerating prose
+  ⚠ Hong Kong 3d — guard found 0 hours/price + 3 rain-leak issue(s) on first pass; retrying once
+  ⚠ Hong Kong 3d — dropping rain-swap for day 2 (venue name leaked into written prose after retry)
+  ⚠ Hong Kong 3d — validator found 1 prose-fixable issue(s); correcting once
+  ✅ Hong Kong 3d — updated
+  ~ Hong Kong 5d — structure changed by 13 slug(s), regenerating prose
+  ⚠ Hong Kong 5d — guard found 1 hours/price + 5 rain-leak issue(s) on first pass; retrying once
+  ⚠ Hong Kong 5d — dropping rain-swap for day 4 (venue name leaked into written prose after retry)
+  ⚠ Hong Kong 5d — validator found 3 prose-fixable issue(s); correcting once
+VALIDATE-FAILED hong-kong-5-days.md — 6 issue(s):
+  • STOP-COUNT-CLAIM: hong-kong-5-days.md — faq[1].a claims "two days" but the itinerary has 5 day(s)
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 2 names "Sha Tin New Territories" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 2 names "Tin New Territories" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 4 names "Seafood Promenade" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 4 names "Sai Gung" but no stop of that day attests it
+  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 5 names "Long Reach" but no stop of that day attests it
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -25,7 +39,7 @@ Lyon, France — 15 qualifying post(s), variants: 3
   · Lyon 3d — skipped: day 2 totals only 211 min (floor 240) and no further sight can be added to it
 
 New Orleans, United States — 17 qualifying post(s), variants: 3
-NEW_ITINERARY: New Orleans 3d
+  = New Orleans 3d — unchanged, skipping
 
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
