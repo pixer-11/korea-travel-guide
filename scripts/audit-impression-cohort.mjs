@@ -42,12 +42,20 @@ async function main() {
     next: { startDate: day(-9), endDate: day(-3) },
   };
 
-  let prev, next;
+  let prev, next, prevQ, nextQ;
   try {
     const token = await getAccessToken(sa);
-    [prev, next] = await Promise.all([
+    [prev, next, prevQ, nextQ] = await Promise.all([
       query(token, site, { ...windows.prev, dimensions: ['page'], rowLimit: 5000 }),
       query(token, site, { ...windows.next, dimensions: ['page'], rowLimit: 5000 }),
+      // Breadth, not volume: how many DISTINCT queries the site was shown for.
+      // On 2026-08-31 this was the number that made the picture unambiguous —
+      // impressions halved while average position IMPROVED (67→57), because
+      // the deep tail stopped being served at all: 1,348 distinct queries in
+      // the week of 07-28 became 206 by 08-28. Volume alone reads like a rank
+      // problem; breadth says the site is being shown for fewer things.
+      query(token, site, { ...windows.prev, dimensions: ['query'], rowLimit: 5000 }),
+      query(token, site, { ...windows.next, dimensions: ['query'], rowLimit: 5000 }),
     ]);
   } catch (e) {
     await telegram(`📉 Wander Atlas — 노출 코호트 감시 오류\n${e.message.slice(0, 300)}`);
@@ -74,6 +82,10 @@ async function main() {
     `지난주 노출 5회 이상 받던 페이지 ${c.size}개 중`,
     `  · 이번 주에도 노출된 것: ${c.survived}개 (${c.survivalRate == null ? 'n/a' : (c.survivalRate * 100).toFixed(0) + '%'})`,
     `  · 그 페이지들의 노출 합계: ${c.before} → ${c.after} (${pct(c.delta)})`,
+    '',
+    // Breadth of coverage — see the query above for why this line is here.
+    `검색어 폭: 서로 다른 질의 ${prevQ.rows?.length ?? 0}개 → ${nextQ.rows?.length ?? 0}개` +
+      ((prevQ.rows?.length ?? 0) >= 5000 || (nextQ.rows?.length ?? 0) >= 5000 ? ' (상한 도달, 과소보고)' : ''),
     '',
     `판정: ${v.reason}`,
   ];
