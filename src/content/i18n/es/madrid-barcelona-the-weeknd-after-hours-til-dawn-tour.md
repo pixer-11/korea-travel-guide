@@ -1,53 +1,53 @@
 ---
 lang: es
 slug: madrid-barcelona-the-weeknd-after-hours-til-dawn-tour
-srcHash: '965e8bc4e0f1'
-title: 'The Weeknd – Gira After Hours Til Dawn: lo que hay que saber (Madrid)'
-description: 'The Weeknd trae la gira After Hours Til Dawn a España para cuatro fechas: tres noches en el Estadio Riyadh Air Metropolitano de Madrid (28-30 de agosto de 2026) y una noche en el Estadi Olímpic Lluís Companys de Barcelona (1 de septiembre de 2026), con Playboi Carti como telonero.'
-quickAnswer: 'The Weeknd trae la gira After Hours Til Dawn a España para cuatro fechas: tres noches en el Estadio Riyadh Air Metropolitano de Madrid (28-30 de agosto de 2026) y una noche en el Estadi Olímpic Lluís Companys de Barcelona (1 de septiembre de 2026), con Playboi Carti como telonero. Reserva hotel en las ciudades de los estadios con antelación, confirma los horarios exactos y las categorías de entradas en la web oficial de la gira, y planifica el transporte para el salto Madrid-Barcelona, ya que solo hay un día de descanso entre ambos tramos.'
+srcHash: 'dbf2c53d2df5'
+title: 'The Weeknd – After Hours Til Dawn Tour: lo que hay que saber (Madrid)'
+description: 'The Weeknd lleva su After Hours Til Dawn Tour a España con cuatro fechas: tres noches en el Riyadh Air Metropolitano Stadium de Madrid (28-30 de agosto de 2026) y una noche en el Estadi Olímpic Lluís Companys de Barcelona (1 de septiembre de 2026), con Playboi Carti como telonero.'
+quickAnswer: 'The Weeknd lleva su After Hours Til Dawn Tour a España con cuatro fechas: tres noches en el Riyadh Air Metropolitano Stadium de Madrid (28-30 de agosto de 2026) y una noche en el Estadi Olímpic Lluís Companys de Barcelona (1 de septiembre de 2026), con Playboi Carti como telonero. Conviene reservar hotel en las ciudades de los estadios con antelación, confirmar los horarios exactos de las actuaciones y las categorías de entradas en la web oficial de la gira, y planificar bien el desplazamiento entre Madrid y Barcelona, ya que solo hay un día de descanso entre ambas tandas de conciertos.'
 faq:
   - q: ¿Cuáles son las fechas y los recintos confirmados?
-    a: 'Madrid: tres noches, 28-30 de agosto de 2026, en el Estadio Riyadh Air Metropolitano. Barcelona: una noche, 1 de septiembre de 2026, en el Estadi Olímpic Lluís Companys. Conviene comprobar siempre estos datos en la web oficial de la gira, ya que las fechas de las giras en estadios pueden cambiar.'
+    a: 'Madrid: tres noches, del 28 al 30 de agosto de 2026, en el Riyadh Air Metropolitano Stadium. Barcelona: una noche, el 1 de septiembre de 2026, en el Estadi Olímpic Lluís Companys. Conviene comprobar siempre estos datos en la web oficial de la gira, ya que las fechas de las giras de estadio pueden cambiar.'
   - q: ¿Cómo se llega a los recintos en transporte público?
-    a: En Madrid, toma la Línea 7 de Metro hasta la estación Estadio Metropolitano, a poca distancia a pie de las puertas de acceso. En Barcelona, toma las Líneas 2 o 3 de Metro hasta Paral·lel y luego el funicular de Montjuïc o los autobuses de conexión hasta el Estadi Olímpic Lluís Companys.
-  - q: ¿Quién abre los conciertos?
-    a: Playboi Carti es el invitado especial anunciado para la gira, aunque los horarios exactos de los teloneros suelen confirmarse más cerca de la fecha del concierto.
+    a: En Madrid, hay que tomar la Línea 7 de metro hasta la estación Estadio Metropolitano, a poca distancia a pie de las puertas de acceso. En Barcelona, hay que tomar las Líneas 2 o 3 de metro hasta Paral·lel y después el funicular de Montjuïc o los autobuses de conexión que suben hasta el Estadi Olímpic Lluís Companys.
+  - q: ¿Quién actúa como telonero en los conciertos?
+    a: Playboi Carti fue el invitado especial anunciado para la gira.
   - q: ¿Es realista asistir tanto al concierto de Madrid como al de Barcelona?
-    a: 'Sí, pero con poco margen: hay un solo día de descanso entre el último concierto de Madrid (30 de agosto) y el de Barcelona (1 de septiembre). El tren de alta velocidad AVE entre Madrid Atocha y Barcelona Sants tarda unas 2,5-3 horas, lo que lo convierte en la conexión más práctica.'
+    a: 'Sí, pero con el tiempo muy ajustado: hay un solo día de descanso entre el último concierto de Madrid (30 de agosto) y el de Barcelona (1 de septiembre). El AVE entre Madrid Atocha y Barcelona Sants tarda aproximadamente entre 2,5 y 3 horas, lo que lo convierte en la conexión más práctica.'
   - q: ¿Cuál es el mejor momento para llegar al estadio?
-    a: Los conciertos en estadios de esta magnitud suelen abrir puertas varias horas antes de que salga el cabeza de cartel, y los fans de pista o zona preferente suelen hacer cola desde la tarde. Dado el probable calor de finales de agosto/principios de septiembre en ambas ciudades, conviene llevar agua y protección solar si se llega con antelación.
+    a: Los conciertos de estadio de esta magnitud suelen abrir puertas varias horas antes de que actúe el cabeza de cartel, y el público de pista y zona general suele hacer cola desde la tarde. Dado el calor previsible a finales de agosto y principios de septiembre en ambas ciudades, conviene llevar agua y protección solar si se llega con mucha antelación.
 ---
 
-## Por qué esta serie de conciertos es especial
+## Por qué esta gira fue especial
 
-Cuatro conciertos en estadios en cinco días repartidos en dos ciudades es un tramo europeo inusualmente denso: tres noches consecutivas en Madrid seguidas de una única fecha en Barcelona plantea exigencias logísticas reales para quienes planean ver más de un concierto. La producción de After Hours Til Dawn de The Weeknd se ha apoyado en una arquitectura escénica elaborada, sistemas de iluminación y un arco visual narrativo construido en torno a su alter ego de After Hours/Dawn FM, así que hay que esperar un espectáculo a gran escala, de arena convertida en estadio, y no un montaje reducido.
+Cuatro conciertos de estadio en cinco días repartidos entre dos ciudades constituían un tramo europeo inusualmente denso: tres noches consecutivas en Madrid seguidas de una única fecha en Barcelona suponían una exigencia logística considerable para quienes quisieran asistir a más de un concierto. La producción de After Hours Til Dawn de The Weeknd se apoyaba en una escenografía elaborada, complejos sistemas de iluminación y un arco visual narrativo construido alrededor de su alter ego de After Hours/Dawn FM, ofreciendo un espectáculo a gran escala propio de estadio y no un montaje reducido.
 
-Playboi Carti como telonero añade un contraste de rap más contundente antes del pop-R&B más introspectivo y con base de sintetizadores del cabeza de cartel.
+La presencia de Playboi Carti como telonero añadía un contraste de rap más contundente antes del pop-R&B, más introspectivo y marcado por sintetizadores, del cabeza de cartel.
 
 ## Cómo llegar
 
-**Madrid (28-30 de agosto):** El Estadio Riyadh Air Metropolitano es la sede del Atlético de Madrid, ubicado en el noreste de la ciudad, en el distrito de San Blas-Canillejas. La parada de metro más cercana es Estadio Metropolitano, en la Línea 7, que te deja a poca distancia a pie de las puertas principales; esta es, con diferencia, la forma más sencilla de llegar dado el limitado aparcamiento del estadio y la previsible aglomeración tras el concierto.
+**Madrid (28-30 de agosto):** El Riyadh Air Metropolitano Stadium es la casa del Atlético de Madrid y se encuentra en el noreste de la ciudad, en el distrito de San Blas-Canillejas. La parada de metro más cercana es Estadio Metropolitano, en la Línea 7, que deja al visitante a poca distancia a pie de las puertas principales; con diferencia, esta era la forma más sencilla de llegar, dado el aparcamiento limitado del estadio y la previsible aglomeración a la salida del concierto.
 
-Si se llega desde el centro de Madrid (Sol, Gran Vía), calcula entre 25 y 35 minutos en metro, más tiempo adicional para las colas de seguridad las noches de concierto.
+Desde el centro de Madrid (Sol, Gran Vía), el trayecto en metro duraba entre 25 y 35 minutos, a los que había que sumar tiempo adicional para las colas de seguridad en las noches de concierto.
 
-**Barcelona (1 de septiembre):** El Estadi Olímpic Lluís Companys se encuentra en lo alto de Montjuïc, la colina que domina la ciudad y que se acondicionó para los Juegos Olímpicos de 1992. No hay ninguna estación de metro directamente en el estadio; el acceso habitual es el funicular de Montjuïc desde la estación de metro Paral·lel (Líneas 2 y 3), que conecta con autobuses y la red del teleférico de Montjuïc.
+**Barcelona (1 de septiembre):** El Estadi Olímpic Lluís Companys se alza en lo alto de Montjuïc, la colina con vistas a la ciudad que se acondicionó para los Juegos Olímpicos de 1992. No hay ninguna estación de metro justo en el estadio; el acceso habitual era el funicular de Montjuïc desde la estación de metro de Paral·lel (Líneas 2 y 3), que conecta con autobuses y con la red de teleférico de Montjuïc.
 
-Como alternativa, hay líneas de autobús que dan servicio a la Avinguda de l'Estadi y pasan cerca del recinto. Como Montjuïc es una zona montañosa y extensa, conviene calcular más tiempo de caminata que en un recinto típico del centro de la ciudad.
+Como alternativa, varias líneas de autobús que cubren la Avinguda de l'Estadi pasan cerca del recinto. Al tratarse de una zona montañosa y extensa, Montjuïc exigía más tiempo de caminata que un recinto típico de centro urbano.
 
 ## Qué esperar las noches de concierto
 
-Las giras en estadios de esta magnitud suelen abrir puertas varias horas antes de que salga el cabeza de cartel, y las multitudes de entrada general en pista y zona preferente empiezan a formarse desde primera hora de la tarde para conseguir las mejores posiciones. Dado que en Madrid son tres noches seguidas, es previsible un patrón de llegadas escalonado: los fans más incondicionales harán cola desde la mañana, mientras que los asistentes más ocasionales irán llegando poco a poco durante la actuación del telonero.
+Las giras de estadio de esta envergadura suelen abrir puertas varias horas antes de la actuación del cabeza de cartel, y el público de las zonas de pista y general empieza a formar cola desde primera hora de la tarde para conseguir buena posición. Dadas las tres noches seguidas en Madrid, era previsible que las llegadas se escalonaran: los fans más incondicionales hacían cola desde la mañana, mientras que los asistentes más ocasionales iban llegando poco a poco durante la actuación del telonero.
 
-Las políticas de bolsos, las normas de reingreso y la organización de barras y comida en ambos estadios suelen seguir los protocolos estándar de los grandes conciertos (a menudo se exigen bolsos transparentes, y en los puestos de comida y bebida normalmente se acepta tanto efectivo como tarjeta), pero conviene comprobar estos detalles en las páginas oficiales de la gira y del recinto más cerca de la fecha, ya que se confirman en el último momento.
+Las políticas de bolsos, las normas de reingreso y el funcionamiento de barras y puestos de comida en ambos estadios suelen seguir los protocolos habituales de los grandes conciertos (a menudo se exigen bolsos transparentes, y en los puestos de avituallamiento normalmente se acepta tanto efectivo como tarjeta).
 
 ## Cuándo ir y cuánto tiempo quedarse
 
-De finales de agosto a principios de septiembre es la época de más calor del verano tardío en ambas ciudades: en Madrid las temperaturas diurnas suelen superar ampliamente los 30°C, así que quienes lleguen pronto y esperen fuera del Metropolitano deben prever exposición al sol y necesidad de hidratación. Barcelona a principios de septiembre presenta un calor similar, aunque algo más suavizado por el aire costero.
+Finales de agosto y principios de septiembre son fechas de calor pleno de final del verano en ambas ciudades: en Madrid las temperaturas diurnas superan con frecuencia los 30 °C, así que quienes llegaran temprano a esperar frente al Metropolitano debían prever protección solar e hidratación suficiente. Barcelona, a principios de septiembre, presenta un calor similar aunque algo más suavizado por la brisa costera.
 
-Si se quiere hacer todo el recorrido, el único día de descanso entre el último concierto de Madrid (30 de agosto) y la fecha de Barcelona (1 de septiembre) es muy justo: los trenes de alta velocidad AVE conectan Madrid (Atocha) y Barcelona (Sants) en aproximadamente 2,5-3 horas, la forma más realista de llegar a ambas ciudades sin volar.
+Para quienes quisieran hacer la gira completa, el único día de descanso entre el último concierto de Madrid (30 de agosto) y la fecha de Barcelona (1 de septiembre) resultaba muy ajustado: el AVE conecta Madrid (Atocha) y Barcelona (Sants) en aproximadamente 2,5-3 horas, lo que lo convertía en la conexión más práctica entre ambas ciudades sin recurrir al avión.
 
 ## Alrededores y consejos prácticos
 
-En Madrid, la zona de San Blas-Canillejas alrededor del estadio es en gran parte residencial y tiene poca oferta gastronómica previa al concierto, por lo que muchos fans comen en el centro de Madrid antes de dirigirse al recinto en metro. En Barcelona, otros atractivos de Montjuïc —la Fundación Joan Miró, las instalaciones del Anillo Olímpico y las vistas sobre el puerto— hacen que valga la pena llegar unas horas antes para hacer turismo y no solo para hacer cola.
+En Madrid, la zona de San Blas-Canillejas que rodea el estadio es en gran parte residencial y ofrece pocas opciones para cenar antes del concierto, por lo que muchos aficionados optaban por comer en el centro de Madrid antes de dirigirse al recinto en metro. En Barcelona, los otros atractivos de Montjuïc (la Fundación Joan Miró, las instalaciones del Anillo Olímpico y las vistas sobre el puerto) hacían que mereciera la pena llegar unas horas antes para hacer turismo y no solo para hacer cola.
 
-Los precios de los hoteles en ambas ciudades se disparan en torno a estas fechas dado el efecto de la demanda acumulada por los conciertos consecutivos, así que es recomendable reservar el alojamiento con bastante antelación en lugar de dejarlo para el día de la venta de entradas. Como en cualquier gira de esta envergadura, las fechas, los horarios y el orden de los teloneros pueden cambiar: verifica siempre los detalles finales en la página oficial de la gira de The Weeknd o en los canales oficiales de los recintos antes de cerrar tu viaje.
+Los precios de los hoteles en ambas ciudades se dispararon en torno a estas fechas debido a la alta demanda generada por conciertos tan seguidos, por lo que resultaba más conveniente reservar el alojamiento con antelación que dejarlo para el día de la compra de entradas.

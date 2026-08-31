@@ -1,62 +1,62 @@
 ---
 lang: es
 slug: phnom-penh-sora-sky-bar
-srcHash: '446a460337f0'
+srcHash: 'ad83aebfdccb'
 title: 'Sora Sky Bar: guía de viaje de Phnom Penh'
-description: 'Sora Sky Bar en Phnom Penh, Camboya, es el local del momento: qué es, dónde está y cómo visitarlo.'
-quickAnswer: 'Sora Sky Bar corona el Rosewood Phnom Penh, en los pisos superiores de la torre más alta de la ciudad, en el bulevar Sothearos, y es en este momento el bar en la azotea más comentado de Camboya. Entró en la lista Asia''s 50 Best Bars 2026 y se llevó un Sustainable Bar Award, así que hay que contar con un público selecto y con esperar mesa si no se reserva. Conviene ir al atardecer, cuando se ve la confluencia del Tonle Sap y el Mekong, y reservar con antelación: los fines de semana no es un sitio al que se pueda llegar sin más.'
+description: 'Sora Sky Bar en Phnom Penh, Camboya, es uno de los locales del momento: qué es, dónde está y cómo visitarlo.'
+quickAnswer: 'Sora Sky Bar corona el Rosewood Phnom Penh, en los pisos superiores de la torre más alta de la ciudad, en el bulevar Sothearos (Sothearos Boulevard), y hoy es el rooftop bar del que todo el mundo habla en Camboya. Figura en la lista Asia''s 50 Best Bars 2026 y ha recibido un Sustainable Bar Award, así que hay que contar con un público elegante y con esperar mesa si no se reserva. Conviene ir a la hora del atardecer, cuando se ve la confluencia del Tonle Sap y el Mekong, y reservar con antelación: los fines de semana no es un sitio al que se pueda llegar sin más.'
 faq:
   - q: ¿Dónde está exactamente Sora Sky Bar?
-    a: Se encuentra en los pisos superiores del Rosewood Phnom Penh, en el bulevar Sothearos, cerca del paseo fluvial, en el edificio más alto de la ciudad.
-  - q: ¿Hace falta reserva?
-    a: Se recomienda encarecidamente, sobre todo para el atardecer y los fines de semana. Dado su reciente reconocimiento en Asia's 50 Best Bars 2026, lo mejor es reservar directamente con el Rosewood Phnom Penh antes de la visita.
+    a: Se encuentra en los pisos superiores del Rosewood Phnom Penh, en el bulevar Sothearos (Sothearos Boulevard), cerca del paseo fluvial, en el edificio más alto de la ciudad.
+  - q: ¿Hace falta reservar?
+    a: Se recomienda encarecidamente, sobre todo para el atardecer y los fines de semana. Dado su reciente reconocimiento en Asia's 50 Best Bars 2026, conviene reservar directamente con el Rosewood Phnom Penh antes de la visita.
   - q: ¿Cuál es el mejor momento para ir?
-    a: Conviene llegar poco antes del atardecer para ver cómo cambia la luz sobre la confluencia del Tonle Sap y el Mekong, y luego quedarse hasta la noche, cuando se encienden las luces de la ciudad.
+    a: Conviene llegar poco antes del atardecer para ver cómo cambia la luz sobre la confluencia del Tonle Sap y el Mekong, y quedarse hasta bien entrada la noche, cuando se encienden las luces de la ciudad.
   - q: ¿Cuánto cuesta?
-    a: 'Para esta guía no se confirmaron la carta ni los precios: cabe esperar tarifas acordes a un bar en azotea de la marca Rosewood, y conviene consultar los precios vigentes con el hotel antes de ir.'
+    a: La carta y los precios no se pudieron confirmar para esta guía; cabe esperar tarifas propias de un rooftop de la marca Rosewood, así que conviene consultar los precios actuales con el hotel antes de ir.
   - q: ¿Qué hay cerca para aprovechar la noche?
-    a: El hotel está muy cerca del paseo fluvial de Phnom Penh, lo que permite combinar fácilmente una copa en la azotea con un paseo junto al río antes o después.
+    a: El hotel está muy cerca del paseo fluvial de Phnom Penh, lo que facilita combinar una copa en la azotea con un paseo junto al río antes o después.
 ---
 
-Se siente Sora antes de ver el perfil de la ciudad. Las puertas del ascensor se abren muy por encima de los tejados de Phnom Penh, con ese leve chasquido en los oídos por la presión, y de pronto uno sale a una sala desde la que la capital de baja altura de abajo parece una maqueta a escala. Estamos en la parte alta del Rosewood Phnom Penh, el edificio más alto de la ciudad, y este bar se ha convertido en la referencia de lo que hoy significa "estar de moda" aquí.
+Sora se percibe antes de ver el horizonte de la ciudad. Las puertas del ascensor se abren muy por encima de los tejados de Phnom Penh, con ese pequeño estallido de presión en los oídos, y de pronto uno sale a una sala que hace que la capital, de baja altura, parezca una maqueta a escala allá abajo. Este es el remate del Rosewood Phnom Penh, el edificio más alto de la ciudad, y el bar se ha convertido en la referencia de lo que hoy significa "estar de moda" aquí.
 
-## Por qué Sora Sky Bar es imprescindible ahora mismo
+## Por qué Sora Sky Bar importa ahora mismo
 
-No es simplemente otra azotea de hotel con vistas. Sora fue incluido en la lista Asia's 50 Best Bars 2026, un reconocimiento que marca hacia dónde planifican sus viajes los bebedores más exigentes. Además, ganó un Sustainable Bar Award, un mérito mucho menos frecuente: la mayoría de los bares en altura persiguen el espectáculo, no el origen sostenible de sus productos ni la reducción de residuos.
+No es un simple rooftop de hotel con vistas. Sora entró en la lista Asia's 50 Best Bars, esa que marca hacia dónde planifican sus viajes los bebedores más exigentes. Además, ganó un Sustainable Bar Award, un reconocimiento mucho más raro, ya que la mayoría de los rooftops persiguen el espectáculo antes que el origen de los productos o la reducción de residuos.
 
-Entre ambos reconocimientos, Sora se ha convertido en el punto de referencia de la escena de bares camboyana. Locales y expatriados hablan de él como los habitantes de Bangkok hablan de sus skybars: como una señal de que la ciudad ha llegado a otro nivel, no solo como una buena salida nocturna.
+Juntos, ambos galardones han convertido a Sora en el punto de referencia de la escena de bares de Camboya. Locales y expatriados hablan de él como los bebedores de Bangkok hablan de sus skybars: no como una simple buena noche, sino como una señal de que la ciudad ha llegado a otro nivel.
 
 ## Cómo es realmente la experiencia
 
-El atractivo combina altura y buena coctelería. Desde arriba se contempla la confluencia donde se unen los ríos Tonle Sap y Mekong, cuyas aguas van tomando tonos dorados y luego violáceos a medida que cae el sol. Abajo se enciende la cuadrícula de calles de Phnom Penh: los faros de los tuk-tuks, las agujas de los templos, la extensión baja de una capital que en ningún otro punto ha crecido en vertical.
+El atractivo combina altura y oficio. Desde arriba se contempla la confluencia donde se unen el Tonle Sap y el Mekong, con el agua que va tornándose dorada y luego de un morado intenso a medida que cae el sol. Abajo se enciende la cuadrícula de las calles de Phnom Penh: los faros de los tuk-tuks, las agujas de los templos, la extensión baja de una capital que en ningún otro punto se ha levantado en vertical.
 
-En ese escenario, el bar apuesta por la técnica. El Sustainable Bar Award indica que el equipo piensa en ingredientes locales, en reducir residuos y en un abastecimiento cuidado, en lugar de recurrir a jarabes importados y guarniciones llamativas sin más. Cabe esperar una carta de cócteles que cambia con cierta frecuencia, pensada para el oficio y la presentación antes que para el volumen.
+En ese marco, el bar apuesta por la técnica. Un Sustainable Bar Award implica que el equipo piensa en ingredientes locales, en reducir residuos y en un abastecimiento cuidado, y no solo en jarabes importados o guarniciones llamativas. Cabe esperar una carta de cócteles que cambia con cierta regularidad, pensada más para el oficio y la presentación que para el volumen.
 
 ## Cómo llegar
 
-El Rosewood Phnom Penh se encuentra en el bulevar Sothearos, cerca del paseo fluvial y a un trayecto corto en tuk-tuk o en coche de aplicación desde la mayoría de los hoteles del centro. Basta con decirle al conductor "Rosewood Hotel": es un punto de referencia reconocible y todo el gremio lo conoce.
+El Rosewood Phnom Penh se encuentra en el bulevar Sothearos (Sothearos Boulevard), cerca del paseo fluvial y a un trayecto corto en tuk-tuk o en coche de aplicación desde la mayoría de los hoteles del centro. Basta con decirle al conductor "Rosewood Hotel": es un punto de referencia conocido y todo el mundo en el sector lo identifica.
 
-Al tratarse de la azotea de un hotel, hay que pasar por el vestíbulo y tomar un ascensor exclusivo hacia arriba. Conviene calcular tiempo de sobra para el control de seguridad y el registro en las horas de más afluencia, sobre todo alrededor del atardecer, cuando la demanda es máxima.
+Al tratarse de la azotea de un hotel, hay que atravesar el lobby y tomar un ascensor específico hacia arriba. Conviene calcular tiempo extra para el control de seguridad y el registro en las horas de más afluencia, sobre todo alrededor del atardecer, cuando la demanda es mayor.
 
-## Planificar la visita
+## Cómo planear la visita
 
-La fama de Sora es reciente y sigue creciendo, así que el horario, el código de vestimenta y la política de reservas pueden variar. Antes de ir, lo mejor es confirmar directamente con el Rosewood Phnom Penh el horario vigente y si hace falta reserva, idealmente el mismo día de la visita.
+La fama de Sora es reciente y sigue en aumento, así que el horario, el código de vestimenta y la política de reservas pueden cambiar. Antes de ir conviene confirmar directamente con el Rosewood Phnom Penh los horarios vigentes y si hace falta reserva, idealmente el mismo día.
 
 Algunas notas prácticas a tener en cuenta:
 
-- El atardecer es el momento estrella: conviene llegar con luz todavía en el cielo, no después de que oscurezca
-- Los fines de semana y las noches posteriores a cualquier noticia de premios suelen llenarse antes
-- Un estilo informal-elegante es una apuesta segura para una azotea de hotel de este nivel
-- Aquí no se confirmaron los precios ni los platos de la carta, así que conviene consultarlos al llegar o directamente con el hotel
+- El atardecer es el momento cumbre: hay que llegar con luz todavía en el cielo, no después de que oscurezca
+- Los fines de semana y las noches posteriores a cualquier noticia de premios tienden a llenarse antes que el resto
+- Un estilo smart-casual es una apuesta segura para un rooftop de hotel de este nivel
+- Aquí no se confirmaron platos ni precios de la carta, así que conviene consultarlos al llegar o a través del hotel
 
 ## Cómo visitarlo como un local
 
-Reserve con antelación. Un bar con tanto reconocimiento reciente —una mención en Asia's 50 Best y un premio de sostenibilidad en el mismo ciclo— atrae tanto a bebedores que viajan expresamente por él como a locales curiosos por ver de qué se habla, así que quien llegue sin reserva se arriesga a una espera larga o a encontrar el local completo.
+Reserve con antelación. Un bar con tanto reconocimiento reciente —una mención en Asia's 50 Best y un premio a la sostenibilidad en el mismo ciclo— atrae tanto a bebedores que viajan expresamente por él como a locales que quieren ver a qué se debe tanto revuelo, así que quien llegue sin reserva corre el riesgo de una larga espera o de encontrar el local completo.
 
-Si el horario lo permite, conviene planear la visita entre semana. Las noches de fin de semana son cuando el bar recibe a su público más numeroso, sobre todo justo después del atardecer, cuando todos quieren la misma mesa junto al cristal.
+Si el horario lo permite, conviene visitarlo entre semana. Las noches de fin de semana son cuando el bar reúne a su público más numeroso, sobre todo justo después del atardecer, cuando todos quieren la misma mesa junto al cristal.
 
-Es preferible pedir algo de la carta de temporada o de los cócteles insignia antes que una bebida estándar: ahí es donde realmente se nota la historia del abastecimiento sostenible y el oficio de los bartenders. Vale la pena preguntar al camarero qué hay de nuevo, ya que las cartas de los bares reconocidos con premios cambian con frecuencia.
+Es mejor pedir algo de la carta de temporada o de la selección de firma que un cóctel clásico y estándar: ahí es donde realmente se aprecian la historia del abastecimiento sostenible y el oficio de los bartenders. Conviene preguntar al camarero qué hay de nuevo, ya que las cartas de los bares premiados se renuevan con frecuencia.
 
-Para asegurarse de que la propina llegue directamente al camarero, lo mejor es dejarla en efectivo, aunque el pago con tarjeta es lo habitual en un establecimiento Rosewood. Conviene vestir un punto más elegante de lo que se llevaría a un bar junto al río: esto es la insignia de un hotel, no una azotea para mochileros.
+Si se quiere tener la certeza de que la propina llega directamente al camarero, lo mejor es darla en efectivo, aunque el pago con tarjeta es lo habitual en un establecimiento Rosewood. Conviene vestir un punto más elegante de lo que se haría para un bar junto al río: esto es el buque insignia de un hotel, no un rooftop de mochileros.
 
-Por último, la vista debe tratarse como el preámbulo, no como el espectáculo completo. Si Sora sigue acumulando premios es por la propuesta de coctelería que hay detrás, así que conviene reservar tiempo para sentarse de verdad con una copa, en lugar de tomar una foto y seguir camino.
+Por último, hay que tratar la vista como el aperitivo y no como el plato principal. La razón por la que Sora sigue ganando premios es la propuesta de coctelería que hay detrás, así que conviene reservar tiempo para sentarse de verdad con una copa, en lugar de tomar una foto y seguir camino.
