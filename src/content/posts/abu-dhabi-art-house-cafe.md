@@ -118,7 +118,7 @@ Portions and presentation lean toward the Instagram-friendly, but the food holds
 
 ## When to go
 
-Weekday mornings (roughly 9–11 a.m.) tend to be the calmest window, before the lunch crowd and before weekend brunch traffic builds. Fridays and Saturdays — the heart of the Gulf weekend — are consistently the busiest, especially late morning into early afternoon, so a table might mean a wait. Abu Dhabi's cooler months, from November through March, make any outdoor or courtyard seating far more comfortable; if you're visiting in summer, aim for the air-conditioned indoor gallery seating and go earlier to avoid the midday heat during the walk from your car or taxi.
+Weekday mornings (roughly 9–11 a.m.) tend to be the calmest window, before the lunch crowd and before weekend brunch traffic builds. Fridays and Saturdays are consistently the busiest, especially late morning into early afternoon, so a table might mean a wait. Abu Dhabi's cooler months, from November through March, make any outdoor or courtyard seating far more comfortable; if you're visiting in summer, aim for the air-conditioned indoor gallery seating and go earlier to avoid the midday heat during the walk from your car or taxi.
 
 ## How to visit like a local
 

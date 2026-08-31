@@ -4,6 +4,12 @@ description: Lang Lang in Concert in Tashkent, Uzbekistan — September 6, 2026.
 country: Uzbekistan
 region: Tashkent
 category: event
+draft: true
+# 2026-08-31 비공개: 이 공연은 타슈켄트가 아니라 SAMARKAND(레기스탄 광장)에서 열린다.
+# 공식 출처 Deutsche Grammophon 투어 목록 — 2026-09-06, Registan Square, 우즈베키스탄
+# 국립교향악단, 베토벤 피아노협주곡 5번 + 거슈윈 Rhapsody in Blue.
+# 이 글은 도시·장소·지하철·주변안내가 전부 잘못된 도시 기준이라 부분 수정이 불가능하다.
+# 사마르칸트 기준으로 새로 쓸 것.
 pubDate: '2026-08-27'
 eventStartDate: '2026-09-06'
 eventEndDate: '2026-09-06'

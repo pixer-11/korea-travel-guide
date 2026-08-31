@@ -1,6 +1,6 @@
 ---
 title: Hwaseong Fortress in Suwon
-description: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30-40 minutes south of central Seoul by train, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact.'
+description: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30 minutes south of central Seoul by KTX or 60-90 by Line 1 subway, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact.'
 region: Suwon
 country: South Korea
 category: attraction
@@ -28,7 +28,7 @@ place:
 tags:
   - suwon
   - Hwaseong Fortress
-quickAnswer: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30-40 minutes south of central Seoul by train, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact. Budget half a day — enter near Janganmun Gate or Paldalmun Gate, walk the ramparts to Suwon Hwaseong Museum, and cap it off with the fortress''s signature dish, galbi, in the old town below.'
+quickAnswer: 'Hwaseong Fortress is an 18th-century walled city in Suwon, about 30 minutes south of central Seoul by KTX or 60-90 by Line 1 subway, and it''s UNESCO-listed for good reason: a 5.7km walkable wall loop with gates, command posts, and watchtowers still intact. Budget half a day — enter near Janganmun Gate or Paldalmun Gate, walk the ramparts to Suwon Hwaseong Museum, and cap it off with the fortress''s signature dish, galbi, in the old town below.'
 faq:
   - q: How do I get to Hwaseong Fortress from Seoul?
     a: Take Line 1 to Suwon Station (about 60-90 minutes from central Seoul), then a local bus or taxi (15-25 minutes) to Janganmun or Paldalmun Gate, the fortress's main entry points.
