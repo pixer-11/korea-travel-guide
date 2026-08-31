@@ -12,6 +12,31 @@
 //  on 2026-08-19 — audit fixed, prevention left blind.
 // ─────────────────────────────────────────────────────────────
 
+// (3) The page admits it does not know WHERE the event is, and then tells the
+// reader which station to get off at anyway.
+//
+// Found 2026-08-31 by a Codex content audit and confirmed against the official
+// listing: our Lang Lang guide put the concert in Tashkent, gave Tashkent metro
+// directions, and said in its own FAQ that "no single venue is officially
+// fixed". The concert is at Registan Square in SAMARKAND, 270km away. A reader
+// following that page would have travelled to the wrong city.
+//
+// The pair is what makes it a defect, and both halves matter:
+//   · admitting the venue is unknown is HONEST on its own — Wuhan's snooker
+//     guide says exactly that and then gives only city-level transit, which is
+//     the right way to write an unconfirmed event. It must not be flagged.
+//   · naming a station and a walk is fine on its own — that is what a guide to
+//     a confirmed venue does.
+// Only together do they mean: we guessed, and we dressed the guess as directions.
+//
+// Measured over 129 event guides: 1 match, the Lang Lang page. The four posts
+// that hedge honestly all pass.
+export const VENUE_UNCONFIRMED = /no single venue is officially fixed|no (?:official )?venue (?:has been )?(?:announced|confirmed|fixed)|venue[^.]{0,45}(?:not|yet to be)[^.]{0,25}(?:been )?(?:confirmed|announced|fixed)/i;
+
+// A named destination — "metro to X Station", "to Y Station, a short walk" —
+// not the generic "the city has a metro", which is legitimate on any page.
+export const NAMED_DIRECTIONS = /(?:metro|subway|train|bus) to [A-Z][\w'\u2019-]+(?:\s[A-Z][\w'\u2019-]+)*\s*(?:station|Station|Maydoni|Xiyoboni)|to [A-Z][\w'\u2019-]+ [Ss]tation,? (?:both |each )?a (?:short|\d+[- ]minute)/;
+
 // (1) The page still promises something WILL happen. Deliberately narrow: it
 // must promise a future act OF THE EVENT. A timeless descriptive future
 // ("street circuits mean the cars will run through the city") is not flagged.

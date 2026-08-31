@@ -24,7 +24,7 @@ import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
 import { endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
-import { FUTURE_PROMISE, FABRICATED_AVAILABILITY } from '../src/lib/ended-event-claims.mjs';
+import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from '../src/lib/ended-event-claims.mjs';
 import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -386,6 +386,18 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
           break;
         }
       }
+    }
+  }
+
+  // An event guide that says it does not know the venue, and then routes the
+  // reader to a named station anyway, has dressed a guess as directions — see
+  // VENUE_UNCONFIRMED for the Lang Lang case that cost a reader the right city.
+  // Checked on every event guide, ended or not: the harm lands before the date.
+  if (p.category === 'event') {
+    const all = [p.body, p.quickAnswer, p.description, Array.isArray(p.faq) ? p.faq.map((x) => `${x?.q ?? ''} ${x?.a ?? ''}`).join(' ') : ''].join(' ');
+    const admits = String(all).match(VENUE_UNCONFIRMED);
+    if (admits && NAMED_DIRECTIONS.test(all)) {
+      issues.push(`EVENT-VENUE-GUESSED: ${p.f} — says "${admits[0].slice(0, 60)}" and still gives directions to a named station. Confirm the venue (and the CITY) or drop the directions.`);
     }
   }
 

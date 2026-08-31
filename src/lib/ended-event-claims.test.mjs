@@ -87,3 +87,62 @@ test('leaves standing advice on an ended event alone', () => {
     'The parade route is fixed year to year, so the same vantage points work.',
   ]) assert.ok(!FUTURE_PROMISE.test(s), s);
 });
+
+// ─── 2026-08-31 ────────────────────────────────────────────────────────────
+// A third claim shape: the page admits it does not know WHERE the event is and
+// then tells the reader which station to get off at. Our Lang Lang guide put
+// the concert in Tashkent, gave Tashkent metro directions, and said in its own
+// FAQ that no venue was officially fixed — the concert was at Registan Square
+// in Samarkand, 270km away.
+//
+// Only the PAIR is a defect, so both directions are fixtures here, taken
+// verbatim from the two posts involved.
+import { VENUE_UNCONFIRMED, NAMED_DIRECTIONS } from './ended-event-claims.mjs';
+
+const guessed = (text) => VENUE_UNCONFIRMED.test(text) && NAMED_DIRECTIONS.test(text);
+
+// tashkent-lang-lang-in-concert: the concert was in Samarkand.
+const LANG_LANG = `
+  a: No single venue is officially fixed in public listings, but Tashkent's major
+     classical concerts are typically held at the Uzbekistan State Conservatory's concert hall.
+  a: Take the Tashkent metro to Mustaqillik Maydoni or Amir Temur Xiyoboni station,
+     both a short walk from Amir Timur Square.
+`;
+
+// wuhan-2026-wuhan-open-snooker: the same admission, written honestly.
+const WUHAN = `
+  a: The specific venue in Wuhan had not been confirmed in official sources at the time of writing.
+  a: Wuhan has an extensive metro network plus high-speed rail links to major Chinese
+     cities and an international airport.
+`;
+
+test('the Lang Lang shape is caught: unknown venue, named station anyway', () => {
+  assert.equal(guessed(LANG_LANG), true);
+});
+
+test('an honest admission with city-level transit is NOT caught', () => {
+  assert.equal(VENUE_UNCONFIRMED.test(WUHAN), true, 'it does admit the venue is unknown');
+  assert.equal(NAMED_DIRECTIONS.test(WUHAN), false, 'but it names no station to walk from');
+  assert.equal(guessed(WUHAN), false);
+});
+
+test('directions alone are fine — that is what a confirmed venue reads like', () => {
+  const confirmed = 'Take the metro to Ueno Station, a short walk from the main gate.';
+  assert.equal(NAMED_DIRECTIONS.test(confirmed), true);
+  assert.equal(guessed(confirmed), false);
+});
+
+test('an admission alone is fine — saying "we do not know yet" is the right answer', () => {
+  const honest = 'The venue has not been announced yet; check the promoter before booking.';
+  assert.equal(VENUE_UNCONFIRMED.test(honest), true);
+  assert.equal(guessed(honest), false);
+});
+
+test('the venue patterns are not sticky between calls', () => {
+  // A /g flag would make every second call answer differently and let half the
+  // corpus through by accident.
+  assert.equal(VENUE_UNCONFIRMED.global, false);
+  assert.equal(NAMED_DIRECTIONS.global, false);
+  assert.equal(guessed(LANG_LANG), true);
+  assert.equal(guessed(LANG_LANG), true);
+});
