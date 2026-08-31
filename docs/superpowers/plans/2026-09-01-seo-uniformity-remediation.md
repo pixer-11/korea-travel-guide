@@ -62,7 +62,11 @@ cd C:/Users/user/wa-main && git pull --ff-only && git status --porcelain && npm 
 
 ---
 
-### Task 0: 라이브 페이지 하나가 LLM 프롬프트 서문을 그대로 싣고 있다 — 먼저 고친다
+### Task 0: ✅ **완료 (2026-08-31)** — 라이브 페이지 하나가 LLM 프롬프트 서문을 그대로 싣고 있었다
+
+> 픽서님이 "라이브에 나가는 건 급하다, 지금 고쳐야지"라고 해서 계획 수립 당일에 처리했다.
+> 커밋 `b3a43b15`(본문 수정) + `6ea83fd2`(PROMPT-LEAK 게이트). validate-content 자체 테스트 77/77, 전체 748/748, 코퍼스 잔여 0건.
+> 아래는 기록. **09-07 예약 작업은 이 Task를 건너뛴다.**
 
 **왜:** 이 계획을 검증하다 찾았다. `src/content/posts/bukhara-bolo-hauz-mosque.md` 의 본문 **첫 줄**이 이렇다:
 
