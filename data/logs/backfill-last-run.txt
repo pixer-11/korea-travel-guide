@@ -1,14 +1,14 @@
-Places 예산: backfill 몫 10회 (오늘 사용 0/100)
-Priority: 132 itinerary stop(s) queued first
-  – bugis-albert-centre-market-food-centre.md: nothing new (resting 60d)
-  – bugis-bugis-street.md: nothing new (resting 60d)
-  – bukhara-toqi-zargaron.md: nothing new (resting 60d)
-  – palm-jumeirah-the-palm-fountain.md: nothing new (resting 60d)
-  ✓ pattaya-the-sanctuary-of-truth-museum.md +phone +7h hours
-  – phong-nha-phong-nha-ke-bang-national-park.md: nothing new (resting 60d)
-  ✓ phuket-green-elephant-sanctuary-park.md +7h hours
-  – pingxi-shifen-old-street.md: nothing new (resting 60d)
-  – pisa-piazza-dei-cavalieri.md: nothing new (resting 60d)
+Places 예산: backfill 몫 10회 (오늘 사용 10/100)
+Priority: 149 itinerary stop(s) queued first
+  – central-avenue-of-stars-hk.md: nothing new (resting 60d)
+  – lantau-island-big-buddha.md: nothing new (resting 60d)
+  – causeway-bay-fashion-walk-food-street.md: nothing new (resting 60d)
+  – can-tho-cai-rang-market.md: nothing new (resting 60d)
+  – central-central-mid-levels-escalators.md: nothing new (resting 60d)
+  – phuket-green-elephant-sanctuary-park.md: nothing new (resting 60d)
   🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
+  – rishikesh-triveni-ghat.md: nothing new (resting 60d)
+  – saadiyat-island-hudayriyat-island.md: nothing new (resting 60d)
+  – samarkand-siyob-bozori.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 396, no-new-data 114, no-place 139, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 332 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 404, no-new-data 121, no-place 139, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 330 (APPLIED).
