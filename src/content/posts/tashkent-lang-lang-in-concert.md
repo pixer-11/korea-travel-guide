@@ -4,7 +4,6 @@ description: Lang Lang in Concert in Tashkent, Uzbekistan — September 6, 2026.
 country: Uzbekistan
 region: Tashkent
 category: event
-draft: true
 # 2026-08-31 비공개: 이 공연은 타슈켄트가 아니라 SAMARKAND(레기스탄 광장)에서 열린다.
 # 공식 출처 Deutsche Grammophon 투어 목록 — 2026-09-06, Registan Square, 우즈베키스탄
 # 국립교향악단, 베토벤 피아노협주곡 5번 + 거슈윈 Rhapsody in Blue.
@@ -45,7 +44,7 @@ faq:
   - q: What else can I do nearby before or after the show?
     a: Amir Timur Square, the Amir Timur Museum, and Independence Square are all within easy reach, and Chorsu Bazaar is a quick metro ride away for a livelier daytime stop.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this concert matters
