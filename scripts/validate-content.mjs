@@ -199,8 +199,21 @@ export function stubBodyProblems(posts) {
   return issues;
 }
 
+// Scaffolding the model was handed, shipped to the reader. bukhara-bolo-hauz-
+// mosque opened with "Below is the markdown body of a published travel guide,
+// …" — draft:false, on the live page and in the build output, until 2026-08-31.
+// One post in 7,298 files across five languages, which is exactly how it
+// survived: nothing was watching for it. Anchored to the body's first line, so
+// "Below the mosque, a stepped tank…" and "Here is where most visitors turn
+// back" stay clean.
+const PROMPT_LEAK = /^(?:Below is|Here is|Here's) the (?:markdown |full |complete )?(?:body|article|guide|text)\b|^(?:Sure|Certainly)[,!]\s|^As an AI\b/i;
+
 export function postProblems(p, { today = new Date().toISOString().slice(0, 10), verdicts = {} } = {}) {
   const issues = [];
+
+  if (p.body && PROMPT_LEAK.test(p.body.trimStart())) {
+    issues.push(`PROMPT-LEAK: ${p.f} — body opens with model scaffolding ("${p.body.trimStart().slice(0, 60)}…")`);
+  }
 
   if (p.region.includes('/')) issues.push(`SLASH in region "${p.region}" — breaks /regions route: ${p.f}`);
   // A placeholder region becomes a real REGION PAGE ("Multiple cities" shipped

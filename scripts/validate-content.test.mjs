@@ -72,6 +72,20 @@ clean('city repeated inside the raw place name only', { title: 'Gyukatsu Kyoto K
 flags('dangling connector before colon', 'BROKEN TITLE', { title: 'Classical Gardens of: Suzhou Highlights' });
 flags('filler subtitle regression', 'FILLER', { title: "Bukchon Hanok Village: A Visitor's Guide" });
 
+// ── 프롬프트 서문 유출 (bukhara-bolo-hauz-mosque, 2026-08-31 라이브에서 발견) ──
+flags('model scaffolding as the first line', 'PROMPT-LEAK', {
+  body: 'Below is the markdown body of a published travel guide, "X".\n\nThe lanes are quiet.',
+});
+flags('assistant preamble as the first line', 'PROMPT-LEAK', { body: 'Sure, here you go.\n\nThe lanes are quiet.' });
+// 반대 방향: 멀쩡한 산문까지 잡으면 매 실행이 가짜 경고로 시작한다.
+clean('a sentence that merely starts with "Below" is not a leak', {
+  body: 'Below the mosque, a stepped tank holds the reflection that gives it its name.',
+});
+clean('"Here is" mid-paragraph is not a leak', {
+  body: 'The lanes are residential. Here is where most visitors turn back.',
+});
+clean('"Here is the market" is a sentence, not scaffolding', { body: 'Here is the market at dawn, before the buses.' });
+
 // ── 장소 데이터 ──────────────────────────────────────────────
 flags('search-query dump as place.name', 'GARBLED', { placeName: 'x / y restaurant / z vegan /' });
 flags('missing country', 'MISSING-COUNTRY', { country: '' });
