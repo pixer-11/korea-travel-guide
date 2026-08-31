@@ -95,8 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-Below is the markdown body of a published travel guide, "Bolo Hauz Mosque: Bukhara Travel Guide (4.8★)".
-
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
 You see the wooden columns before anything else. Twenty slender pillars, carved and painted in blues and ochres that have faded just enough to look earned, hold up a ceiling of muqarnas vaulting so dense it seems to drip downward like frozen honey.
