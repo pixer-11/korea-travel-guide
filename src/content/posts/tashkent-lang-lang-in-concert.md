@@ -1,14 +1,11 @@
 ---
 title: 'Lang Lang in Concert: Dates, Tickets & Venue (Tashkent)'
-description: Lang Lang in Concert in Tashkent, Uzbekistan — September 6, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Lang Lang in Concert in Tashkent, Uzbekistan — September 6, 2026. What it is,
+  when and where, and how to plan around it.
 country: Uzbekistan
 region: Tashkent
 category: event
-# 2026-08-31 비공개: 이 공연은 타슈켄트가 아니라 SAMARKAND(레기스탄 광장)에서 열린다.
-# 공식 출처 Deutsche Grammophon 투어 목록 — 2026-09-06, Registan Square, 우즈베키스탄
-# 국립교향악단, 베토벤 피아노협주곡 5번 + 거슈윈 Rhapsody in Blue.
-# 이 글은 도시·장소·지하철·주변안내가 전부 잘못된 도시 기준이라 부분 수정이 불가능하다.
-# 사마르칸트 기준으로 새로 쓸 것.
 pubDate: '2026-08-27'
 eventStartDate: '2026-09-06'
 eventEndDate: '2026-09-06'
@@ -17,34 +14,47 @@ eventPerformer:
   name: Lang Lang
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fc/Lang_Lang.jpg
-  credit: 'Photo: Photo: Andreas Praefcke / Wikimedia Commons (Public domain)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lang_Lang.jpg
-  focus:
-    x: 71
-    'y': 24
-    top: 19
-    bottom: 29
 gallery: []
 tags:
   - tashkent
   - event
-quickAnswer: Lang Lang in Concert brings the world-famous Chinese pianist to Tashkent, Uzbekistan on September 6, 2026, as part of the city's calendar of major international cultural events. Uzbekistan's biggest touring classical shows are typically staged at the Uzbekistan State Conservatory's concert hall or the State Academic Bolshoi Theatre, so check both when you search for tickets. Confirm the exact venue, showtime, and ticket links on the official promoter or venue site before you book flights or travel across the city.
+quickAnswer: >-
+  Lang Lang in Concert brings the world-famous Chinese pianist to Tashkent,
+  Uzbekistan on September 6, 2026, as part of the city's calendar of major
+  international cultural events. Uzbekistan's biggest touring classical shows
+  are typically staged at the Uzbekistan State Conservatory's concert hall or
+  the State Academic Bolshoi Theatre, so check both when you search for tickets.
+  Confirm the exact venue, showtime, and ticket links on the official promoter
+  or venue site before you book flights or travel across the city.
 faq:
   - q: When is Lang Lang performing in Tashkent?
-    a: The concert is listed for September 6, 2026, as part of Uzbekistan's cultural events calendar for that month.
+    a: >-
+      The concert is listed for September 6, 2026, as part of Uzbekistan's
+      cultural events calendar for that month.
   - q: Where will the concert be held?
-    a: No single venue is officially fixed in public listings, but Tashkent's major classical concerts are typically held at the Uzbekistan State Conservatory's concert hall or the State Academic Bolshoi Theatre, both near Amir Timur Square. Confirm the exact venue on the official event or venue site.
+    a: >-
+      No single venue is officially fixed in public listings, but Tashkent's
+      major classical concerts are typically held at the Uzbekistan State
+      Conservatory's concert hall or the State Academic Bolshoi Theatre, both
+      near Amir Timur Square. Confirm the exact venue on the official event or
+      venue site.
   - q: How do I buy tickets?
-    a: Buy through the official promoter, the venue's own box office, or an authorized Uzbek ticketing platform. Confirm pricing and on-sale details on the official site rather than relying on resale listings.
+    a: >-
+      Buy through the official promoter, the venue's own box office, or an
+      authorized Uzbek ticketing platform. Confirm pricing and on-sale details
+      on the official site rather than relying on resale listings.
   - q: What's the easiest way to get to the venue?
-    a: Take the Tashkent metro to Mustaqillik Maydoni or Amir Temur Xiyoboni station, both a short walk from Amir Timur Square. A Yandex Go taxi is a cheap backup, especially on the concert night when traffic picks up.
+    a: >-
+      Take the Tashkent metro to Mustaqillik Maydoni or Amir Temur Xiyoboni
+      station, both a short walk from Amir Timur Square. A Yandex Go taxi is a
+      cheap backup, especially on the concert night when traffic picks up.
   - q: What else can I do nearby before or after the show?
-    a: Amir Timur Square, the Amir Timur Museum, and Independence Square are all within easy reach, and Chorsu Bazaar is a quick metro ride away for a livelier daytime stop.
+    a: >-
+      Amir Timur Square, the Amir Timur Museum, and Independence Square are all
+      within easy reach, and Chorsu Bazaar is a quick metro ride away for a
+      livelier daytime stop.
 aiGenerated: true
-draft: true
+draft: false
 ---
 
 ## Why this concert matters

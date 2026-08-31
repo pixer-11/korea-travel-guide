@@ -8,11 +8,15 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: /images/placeholder-market.svg
-  credit: Placeholder image
-  license: placeholder
-  source: local
-gallery: []
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg
+  credit: 'Photo: Thesupermat / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg
+  focus:
+    x: 51
+    'y': 41
+    top: 37
+    bottom: 44
 tags:
   - jakarta
   - event
@@ -29,7 +33,6 @@ faq:
   - q: What should I wear given Jakarta's weather in August?
     a: August falls in Jakarta's dry season — expect hot, humid, sunny afternoons and only slightly cooler evenings. Light, breathable clothing, sun protection, and a refillable water bottle are worth packing.
 aiGenerated: true
-draft: true
 eventRecurring: true
 ---
 ## Why this one's worth the trip

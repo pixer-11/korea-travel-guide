@@ -6,10 +6,13 @@ region: Ras Al Khaimah
 category: hidden-gem
 pubDate: '2026-07-23T07:53:55.737Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais_Ras_al_Khaimah%2C_UAE.jpg
-  credit: 'Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais_Ras_al_Khaimah,_UAE.jpg
+  url: https://fastly.4sqi.net/img/general/original/525526383_SZPvxyGOtlBEjug23eSHIkeXHPLUNVH6N2LYyAQLGqs.jpg
+  credit: 'Photo: Foursquare user content (jais sledder)'
+  license: foursquare
+  source: https://foursquare.com/v/622470dca6c1e20366fc22ef
+  focus:
+    x: 50
+    'y': 40
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mountain_view%2C_Jebel_Jais%2C_Ras_al_Khaimah%2C_UAE.jpg/1920px-Mountain_view%2C_Jebel_Jais%2C_Ras_al_Khaimah%2C_UAE.jpg
     credit: 'Photo: Tashmetova808 / Wikimedia Commons (CC BY-SA 4.0)'
@@ -41,7 +44,6 @@ faq:
   - q: What else is nearby?
     a: Ras Al Khaimah city (old fort museum, corniche) is about 45 minutes away, and the emirate's beach resorts pair well for a two-day mountain-and-coast trip.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

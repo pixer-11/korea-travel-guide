@@ -6,11 +6,13 @@ country: South Korea
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6a/Korea-Busan-Hoe-Raw_seafood-01.jpg
-  credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Korea-Busan-Hoe-Raw_seafood-01.jpg
-gallery: []
+  url: https://live.staticflickr.com/2669/5809132822_aa4f84bdeb_b.jpg
+  credit: 'Photo: seafaringwoman / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/27284887@N03/5809132822
+  focus:
+    x: 45
+    'y': 45
 tags:
   - busan
   - seafood
@@ -27,7 +29,6 @@ faq:
   - q: Is Jagalchi the only good seafood spot in Busan?
     a: No — Millak Waterside Park near Gwangalli Beach (Metro Line 2, Millak Station) offers raw fish with harbor views, and Gijang, along the Donghae Line, is known for sea urchin and winter crab.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Busan Is Korea's Seafood City

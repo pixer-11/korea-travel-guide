@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'BABYMONSTER "Choom" World Tour – Japan (Yokohama leg): What to Know (Yokohama)'
 description: BABYMONSTER "Choom" World Tour – Japan (Yokohama leg) in Yokohama, Japan — August 1-2, 2026. What it is, when and where, and how to plan around it.
 country: Japan
@@ -9,11 +8,15 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://images.unsplash.com/photo-1565569933219-1dae9e435512?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8MXx8WW9rb2hhbWElMjBKYXBhbiUyMGNvbmNlcnQlMjBzdGFnZSUyMGxpdmUlMjBtdXNpY3xlbnwwfDB8fHwxNzg0OTIyMDMzfDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by Nagatoshi Shimamura on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@shima_giraffe?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Babymonster_Seattle.jpg/3840px-Babymonster_Seattle.jpg
+  credit: 'Photo: David Lee from Redmond, WA, USA / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Babymonster_Seattle.jpg
+  focus:
+    x: 59
+    'y': 16
+    top: 12
+    bottom: 20
 tags:
   - yokohama
   - event

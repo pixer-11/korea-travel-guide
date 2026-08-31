@@ -7,7 +7,6 @@ category: event
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-09'
-gallery: []
 tags:
   - jakarta
   - event
@@ -24,8 +23,15 @@ faq:
   - q: Is it a good idea to fly in specifically for this?
     a: If you're a fan of Jet or the featured Indonesian acts, yes — but hold off on booking flights until the venue and full schedule are confirmed, since a three-day event spread across stages can shift its daily lineup order.
 aiGenerated: true
-draft: true
 eventRecurring: true
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Souljah_at_The_Sounds_Project%2C_August_2025.jpg
+  credit: 'Photo: David Wadie Fisher-Freberg / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Souljah_at_The_Sounds_Project,_August_2025.jpg
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Why this one's worth planning around

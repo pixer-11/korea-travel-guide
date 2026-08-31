@@ -6,14 +6,13 @@ region: Banlung
 category: attraction
 pubDate: '2026-08-29T15:11:43.340Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Veal_thom.jpg
-  credit: 'Photo: Mangoholic2 (talk) / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Virachey_Park_Banner.jpg
+  credit: 'Photo: Mangoholic2 / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Veal_thom.jpg
+  source: https://commons.wikimedia.org/wiki/File:Virachey_Park_Banner.jpg
   focus:
     x: 50
     'y': 50
-gallery: []
 place:
   id: ChIJsXPNztSYbDERjXEq9MDAeO4
   name: Virachey National Park
@@ -56,7 +55,6 @@ faq:
   - q: Can I hike independently without a guide?
     a: Not realistically. Trails are unsigned and wildlife-dense; local guides arranged through Banlung or the ranger station are essential for safety and navigation.
 aiGenerated: true
-draft: true
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
