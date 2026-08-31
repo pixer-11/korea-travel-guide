@@ -4,7 +4,8 @@
 // "was my slot already served?". Importing the watchdog would RUN it — its
 // body executes at module top level — so the shared data moved out instead.
 // If this list disagrees with the workflow files' own cron lines, both
-// consumers lie together; workflow-lint's cross-check is still "추가 예정".
+// consumers lie together — so cron-manifest.test.mjs holds every entry to its
+// workflow file's actual cron, and fails on any new unguarded daily cron.
 export const MANIFEST = [
   { file: 'reddit-scout.yml', name: '레딧 스카우트', crons: ['30 11 * * *'] },
   { file: 'pinterest.yml', name: '핀터레스트 핀', crons: ['35 23 * * *', '35 11 * * *'] },

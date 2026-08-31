@@ -18,9 +18,13 @@
 //   node scripts/check-publish-ran.mjs --dry          # print only
 import { telegram } from './lib/gsc.mjs';
 import { lastFireBefore } from './lib/cron-window.mjs';
+import { MANIFEST } from './lib/cron-manifest.mjs';
 
 const WORKFLOW = 'publish.yml';
-const PUBLISH_CRON = '19 7 * * *'; // 16:19 KST — keep in step with publish.yml
+// Read from the manifest, which a test holds to the workflow file's own cron
+// line. A third copy of '19 7 * * *' would be a third thing to forget: this
+// checker anchors its whole question to that slot (Codex, 2026-08-31).
+const PUBLISH_CRON = MANIFEST.find((w) => w.file === WORKFLOW)?.crons[0] ?? '19 7 * * *';
 const dry = process.argv.includes('--dry');
 const noDispatch = process.argv.includes('--no-dispatch');
 

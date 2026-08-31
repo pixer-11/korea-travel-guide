@@ -58,8 +58,10 @@ on:
 jobs:
   alert:
     # 'cancelled' is usually a concurrency-group replacement, not a defect —
-    # alerting on it would train the owner to ignore this channel.
-    if: github.event.workflow_run.conclusion == 'failure'
+    # alerting on it would train the owner to ignore this channel. timed_out
+    # and stale are silent deaths, though: a job that never ran and a job the
+    # runner abandoned both look exactly like a quiet night.
+    if: contains(fromJSON('["failure","timed_out","stale"]'), github.event.workflow_run.conclusion)
     runs-on: ubuntu-latest
     # actions:read lets the alert download the failed run's log and say WHY.
     # Until 2026-08-31 every failure got the same sentence — "대개 일시적
@@ -69,15 +71,24 @@ jobs:
       contents: read
       actions: read
     steps:
+      # Every step below is continue-on-error, and the last one needs nothing
+      # from this repository. The point of this workflow is that it speaks when
+      # others cannot; making it depend on checkout + node + repo code (as the
+      # 08-31 diagnoser did) means the failures most worth hearing about — a
+      # broken checkout, a bad package.json — silence the alarm too.
       - uses: actions/checkout@v5
+        continue-on-error: true
         with:
           ref: main
       - uses: actions/setup-node@v5
+        continue-on-error: true
         with:
           node-version: '24'
       # No npm ci on purpose: the diagnoser uses only Node built-ins, and an
       # install step is one more thing that can fail inside the alarm itself.
-      - name: Telegram (Korean, with the cause)
+      - name: Telegram with the diagnosed cause
+        id: rich
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
@@ -87,3 +98,26 @@ jobs:
           WF_NAME: ${{ github.event.workflow_run.name }}
           RUN_URL: ${{ github.event.workflow_run.html_url }}
         run: node scripts/alert-failed-run.mjs
+
+      # The repo-free path this workflow has always had. curl and jq are on the
+      # runner image; nothing here is checked out, parsed, or installed.
+      - name: Fallback — plain alert (repo-free)
+        if: steps.rich.outcome != 'success'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WF: ${{ github.event.workflow_run.name }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          URL: ${{ github.event.workflow_run.html_url }}
+        run: |
+          [ -n "$TELEGRAM_BOT_TOKEN" ] || exit 0
+          TEXT=$(printf '%s\n\n%s\n%s\n\n%s\n%s' \
+            "⚠️ 자동 작업 실패 — ${WF} (${CONCLUSION})" \
+            "작업이 도중에 멈춰서 평소 오던 보고가 오지 않았습니다." \
+            "원인 진단까지는 실패했습니다 — 경보기 자신도 정상 경로를 쓰지 못했습니다." \
+            "클로드에게 '${WF} 실패 원인 찾아줘'라고 말씀하세요." \
+            "실행 기록: ${URL}")
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -H 'Content-Type: application/json' \
+            -d "$(jq -n --arg c "$TELEGRAM_CHAT_ID" --arg t "$TEXT" \
+                  '{chat_id:\$c, text:\$t, disable_web_page_preview:true}')" > /dev/null

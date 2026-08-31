@@ -21,8 +21,10 @@
 //  이 감시견 자체도 하루 4번 돌므로(전부 누락될 확률은 사실상 0) 자기 자신이
 //  같은 병에 걸리는 문제를 확률로 눌렀다.
 //
-//  publish.yml 은 명단에 없다: 전용 publish-watchdog 이 이미 지키고 있고,
-//  둘이 같은 개를 풀면 이중 발행 경쟁이 생긴다. 주간·월간 크론도 v1 에선
+//  publish.yml 은 명단에 있지만 rescue:false 다: 전용 publish-watchdog 이
+//  이미 지키고 있어서, 둘이 같은 개를 풀면 이중 발행 경쟁이 생긴다. 명단에
+//  둔 이유는 슬롯 가드(guard:'kstDay')가 같은 목록을 읽기 때문이다.
+//  주간·월간 크론도 v1 에선
 //  제외 — 하루 늦어도 터지지 않는 것들이라, 명단은 "그날 안 돌면 그날의
 //  일이 사라지는" 일일 크론으로 한정한다.
 //
@@ -60,7 +62,7 @@ async function tg(text) {
 }
 
 const now = Date.now();
-const rescued = [], pending = [];
+const rescued = [], pending = [], failures = [];
 
 // rescue:false 항목(publish — 전용 감시견 있음)은 슬롯 가드용일 뿐, 여기서
 // 구조하지 않는다.
@@ -79,13 +81,29 @@ for (const w of RESCUABLE) {
   // 몇 분 이르게 큐잉하는 경우까지 오탐 없이 담는다. 이벤트 종류는 안 가린다:
   // 사람이 손으로 돌렸어도 그 슬롯의 일은 된 것이다.
   const since = new Date(lastExpected - 10 * 60000).toISOString();
-  const runs = await gh(`/actions/workflows/${w.file}/runs?created=${encodeURIComponent('>=' + since)}&per_page=5`);
+  // Per-entry, not per-run: a single 404/500 used to throw out of the whole
+  // loop, so one bad name in the roster left every LATER workflow unchecked —
+  // silently, since the job then just failed. Report the entry and continue.
+  let runs;
+  try {
+    runs = await gh(`/actions/workflows/${w.file}/runs?created=${encodeURIComponent('>=' + since)}&per_page=5`);
+  } catch (e) {
+    console.error(`${w.file}: 조회 실패 — ${e.message.slice(0, 120)} (건너뛰고 계속)`);
+    failures.push(`${w.name}: 조회 실패`);
+    continue;
+  }
   // 실행 "기록"이 아니라 "그 슬롯의 일이 되었는가"를 본다: 아직 도는 중이면
   // 된 셈이고, 끝난 기록은 success 만 인정한다. 체크아웃에서 죽은 failure/
   // cancelled 기록이 감시견을 안심시키면 그날치 일이 조용히 사라진다(08-28
-  // 코덱스 심문). 명단의 워크플로는 전부 일일 가드/장부/슬롯 가드 중 하나로
-  // 중복을 막으므로, 실패 후 재발화가 또 실패해도 잃는 건 러너 몇 분뿐이고
-  // 실패 알림은 따로 온다.
+  // 코덱스 심문).
+  //
+  // ⚠️ 중복 방지 수준은 명단 안에서도 고르지 않다(2026-08-31 코덱스 감사로
+  // 확인). 슬롯 가드가 있는 것: pinterest·analytics-report·reddit-scout.
+  // 일일 스탬프: threads-daily. KST 하루 가드: publish. 그러나 refresh·
+  // alt-photos·indexnow 는 아무 가드가 없어서, 구조 발화와 지각 원본이 겹치면
+  // refresh 는 커서를 한 번 더 돌려 Places 예산을 더 쓰고 alt-photos 는 같은
+  // 백로그를 병렬로 읽는다. 그래도 구조는 계속한다 — 그날 일이 통째로 빠지는
+  // 쪽이 더 비싸기 때문이다. 가드를 붙이는 것이 다음 작업이다.
   const ran = (runs.workflow_runs ?? []).some((r) =>
     r.status !== 'completed' || r.conclusion === 'success');
   const verdict = ran ? 'ok' : (overdueMin <= GRACE_MIN ? 'waiting' : 'MISSED');
@@ -93,11 +111,16 @@ for (const w of RESCUABLE) {
   if (verdict !== 'MISSED') continue;
   if (DRY) { pending.push(w); continue; }
   const inputs = w.inputsByCron?.[missedCron];
-  await gh(`/actions/workflows/${w.file}/dispatches`, {
-    method: 'POST',
-    body: JSON.stringify({ ref: 'main', ...(inputs ? { inputs } : {}) }),
-  });
-  rescued.push(`${w.name} (${overdueMin}분 지각)`);
+  try {
+    await gh(`/actions/workflows/${w.file}/dispatches`, {
+      method: 'POST',
+      body: JSON.stringify({ ref: 'main', ...(inputs ? { inputs } : {}) }),
+    });
+    rescued.push(`${w.name} (${overdueMin}분 지각)`);
+  } catch (e) {
+    console.error(`${w.file}: 구조 발화 실패 — ${e.message.slice(0, 120)}`);
+    failures.push(`${w.name}: 구조 발화 실패`);
+  }
 }
 
 if (rescued.length) {
@@ -105,4 +128,10 @@ if (rescued.length) {
     rescued.map((r) => `· ${r}`).join('\n') +
     `\n(지각 원본이 뒤늦게 와도 일일 가드·슬롯 가드가 중복을 막습니다)`);
 }
-console.log(`${rescued.length} rescued, ${pending.length} would-rescue (dry), ${RESCUABLE.length} checked`);
+if (failures.length) {
+  await tg(`🐕 스케줄 감시견 — 확인/구조에 실패한 항목이 있습니다:\n` +
+    failures.map((f) => `· ${f}`).join('\n') +
+    `\n(감시가 그만큼 비어 있다는 뜻입니다 — 반복되면 명단·권한을 확인해 주세요.)`);
+  process.exitCode = 1;
+}
+console.log(`${rescued.length} rescued, ${pending.length} would-rescue (dry), ${RESCUABLE.length} checked, ${failures.length} unreadable`);

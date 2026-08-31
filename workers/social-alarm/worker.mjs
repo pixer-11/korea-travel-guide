@@ -17,10 +17,13 @@
 //                        `Authorization: Bearer <key>` — a header, not a query
 //                        string, so the key stays out of URL logs)
 //
-// No Telegram on purpose: if this worker fails, the existing net (three GitHub
-// crons + schedule-watchdog, which telegrams when it rescues) still delivers.
-// A failed dispatch instead REJECTS the scheduled handler, so Cloudflare's
-// cron history records the failure — the one direct trace we keep.
+// Telegram secrets are NOT set in production, on purpose: if this worker fails,
+// the existing net (three GitHub crons + schedule-watchdog, which telegrams
+// when it rescues) still delivers, and a second bell on the same door only
+// trains the owner to ignore both. The alertFailures() path below stays wired
+// so the secrets can be added later without a code change; with none set it
+// returns without sending. A failed dispatch also REJECTS the scheduled
+// handler, so Cloudflare's cron history records it — the direct trace we keep.
 
 const REPO = 'pixer-11/korea-travel-guide';
 const TARGETS = ['threads-daily.yml'];
