@@ -1,47 +1,74 @@
 ---
-title: "Twin Lagoon: Coron Travel Guide (4.8★)"
-description: "Twin Lagoon is a pair of limestone-walled saltwater pools near Coron Island, reached only by boat, where you can swim or snorkel between a shallow turquoise basin and a deeper, cooler lagoon through a narrow rock channel. 4.8★ (968 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Coron"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:33:54.144Z"
+title: 'Twin Lagoon: Coron Travel Guide (4.8★)'
+description: >-
+  Twin Lagoon is a pair of limestone-walled saltwater pools near Coron Island,
+  reached only by boat, where you can swim or snorkel between a shallow
+  turquoise basin and a deeper, cooler lagoon through a narrow rock channel.
+  4.8★ (974 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Coron
+category: hidden-gem
+pubDate: '2026-08-12T09:33:54.144Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Twin_Lagoon%2C_Coron%2C_Palawan%2C_Philippines_-_panoramio.jpg"
-  credit: "Photo: André Héroux / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Twin_Lagoon,_Coron,_Palawan,_Philippines_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3f/Twin_Lagoon%2C_Coron%2C_Palawan%2C_Philippines_-_panoramio.jpg
+  credit: 'Photo: André Héroux / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Twin_Lagoon,_Coron,_Palawan,_Philippines_-_panoramio.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Twin_Lagoon_Coron_Palawan.jpg/3840px-Twin_Lagoon_Coron_Palawan.jpg"
-    credit: "Photo: Franz C. Trinidad / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Twin_Lagoon_Coron_Palawan.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Twin_Lagoon_Coron_Palawan.jpg/3840px-Twin_Lagoon_Coron_Palawan.jpg
+    credit: 'Photo: Franz C. Trinidad / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Twin_Lagoon_Coron_Palawan.jpg'
 place:
-  id: "ChIJ2_px0QwdujMRIRvv9VcjmF0"
-  name: "Twin Lagoon"
-  address: "W6X5+2VV, Coron, Palawan, Philippines"
+  id: ChIJ2_px0QwdujMRIRvv9VcjmF0
+  name: Twin Lagoon
+  address: 'W6X5+2VV, Coron, Palawan, Philippines'
   rating: 4.8
-  userRatingsTotal: 968
-  googleMapsUrl: "https://maps.google.com/?cid=6744179302682532641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 974
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6744179302682532641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.9476028
   lng: 120.20967979999999
 tags:
-  - "coron"
-  - "hidden gem"
-quickAnswer: "Twin Lagoon is a pair of limestone-walled saltwater pools near Coron Island, reached only by boat, where you can swim or snorkel between a shallow turquoise basin and a deeper, cooler lagoon through a narrow rock channel. Most visitors see it as one stop on a full-day Coron Island Hopping tour (Tour A). Go early, before 9am, before the tour boats stack up at the entrance ladder."
+  - coron
+  - hidden gem
+quickAnswer: >-
+  Twin Lagoon is a pair of limestone-walled saltwater pools near Coron Island,
+  reached only by boat, where you can swim or snorkel between a shallow
+  turquoise basin and a deeper, cooler lagoon through a narrow rock channel.
+  Most visitors see it as one stop on a full-day Coron Island Hopping tour (Tour
+  A). Go early, before 9am, before the tour boats stack up at the entrance
+  ladder.
 faq:
-  - q: "How do I get to Twin Lagoon?"
-    a: "You can't visit independently in practice — it's reached only by boat as part of the Coron Island Hopping Tour A, which departs from Coron town and also usually visits Kayangan Lake and Barracuda Lake."
-  - q: "Is there an entrance fee?"
-    a: "Yes, a separate Tagbanua indigenous community environmental fee is collected at the island, on top of your tour price. Bring small cash."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go before 9am if you can arrange your tour order — boats cluster at Twin Lagoon's small ladder entrance through mid-morning."
-  - q: "Can non-swimmers still enjoy it?"
-    a: "Yes — the outer lagoon is shallow and calm. Reaching the deeper inner lagoon requires swimming a short channel, so weaker swimmers may want a life vest."
-  - q: "What season has the clearest water?"
-    a: "Dry season, roughly November to May, gives the calmest seas and best visibility. June to October is rainier with rougher boat crossings."
+  - q: How do I get to Twin Lagoon?
+    a: >-
+      You can't visit independently in practice — it's reached only by boat as
+      part of the Coron Island Hopping Tour A, which departs from Coron town and
+      also usually visits Kayangan Lake and Barracuda Lake.
+  - q: Is there an entrance fee?
+    a: >-
+      Yes, a separate Tagbanua indigenous community environmental fee is
+      collected at the island, on top of your tour price. Bring small cash.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go before 9am if you can arrange your tour order — boats cluster at Twin
+      Lagoon's small ladder entrance through mid-morning.
+  - q: Can non-swimmers still enjoy it?
+    a: >-
+      Yes — the outer lagoon is shallow and calm. Reaching the deeper inner
+      lagoon requires swimming a short channel, so weaker swimmers may want a
+      life vest.
+  - q: What season has the clearest water?
+    a: >-
+      Dry season, roughly November to May, gives the calmest seas and best
+      visibility. June to October is rainier with rougher boat crossings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

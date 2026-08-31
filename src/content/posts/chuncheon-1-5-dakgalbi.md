@@ -1,24 +1,28 @@
 ---
 title: '1.5 Dakgalbi: Where to Eat in Chuncheon'
-description: 1.5 Dakgalbi is a well-known dakgalbi restaurant at 77 Human-ro in Chuncheon, the city considered the birthplace of this spicy stir-fried chicken dish.
+description: >-
+  1.5 Dakgalbi is a well-known dakgalbi restaurant at 77 Human-ro in Chuncheon,
+  the city considered the birthplace of this spicy stir-fried chicken dish.
 country: South Korea
 region: Chuncheon
 category: restaurant
 pubDate: '2026-07-29T10:16:56.020Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dakgalbi.jpg/1920px-Dakgalbi.jpg
   credit: 'Photo: Nagyman, a flickr user / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Dakgalbi.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Dakgalbi.jpg'
 gallery: []
 place:
   id: ChIJwyaJeL3lYjURLOCUYDBkP4U
   name: 1.5 Dakgalbi
-  address: 77 Human-ro, Chuncheon, Gangwon-do, South Korea
+  address: '77 Human-ro, Chuncheon, Gangwon-do, South Korea'
   rating: 4.4
-  userRatingsTotal: 1839
+  userRatingsTotal: 1841
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=9601503089518764076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9601503089518764076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.8763358
   lng: 127.7530769
@@ -55,20 +59,41 @@ place:
 tags:
   - chuncheon
   - local restaurant
-quickAnswer: 1.5 Dakgalbi is a well-known dakgalbi restaurant at 77 Human-ro in Chuncheon, the city considered the birthplace of this spicy stir-fried chicken dish. It's calm any time from 11am to 10pm on both weekdays and weekends, but try to skip the 5pm–10pm weekend window, when tables fill fast. Budget mid-range prices, cash or card, and go with at least one other person since dakgalbi is built for sharing.
+quickAnswer: >-
+  1.5 Dakgalbi is a well-known dakgalbi restaurant at 77 Human-ro in Chuncheon,
+  the city considered the birthplace of this spicy stir-fried chicken dish. It's
+  calm any time from 11am to 10pm on both weekdays and weekends, but try to skip
+  the 5pm–10pm weekend window, when tables fill fast. Budget mid-range prices,
+  cash or card, and go with at least one other person since dakgalbi is built
+  for sharing.
 faq:
   - q: How do I get to 1.5 Dakgalbi from Seoul?
-    a: Take the ITX-Cheongchun train from Yongsan or Cheongnyangni Station to Chuncheon Station (about 1 to 1.5 hours), then a short taxi ride to 77 Human-ro in the dakgalbi restaurant district.
+    a: >-
+      Take the ITX-Cheongchun train from Yongsan or Cheongnyangni Station to
+      Chuncheon Station (about 1 to 1.5 hours), then a short taxi ride to 77
+      Human-ro in the dakgalbi restaurant district.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows it's calm from 11am to 10pm on both weekdays and weekends — just avoid the weekend dinner window of 5pm to 10pm, when it gets busiest.
+    a: >-
+      Foot-traffic data shows it's calm from 11am to 10pm on both weekdays and
+      weekends — just avoid the weekend dinner window of 5pm to 10pm, when it
+      gets busiest.
   - q: How much does dakgalbi cost here?
-    a: It's mid-range by Korean standards, typically priced per person for the shared pan; confirm current menu prices on-site since they can shift year to year.
+    a: >-
+      It's mid-range by Korean standards, typically priced per person for the
+      shared pan; confirm current menu prices on-site since they can shift year
+      to year.
   - q: Do I need a reservation?
-    a: No formal reservation system is typical for this kind of restaurant — it's walk-in seating, so expect a short wait during weekend evening peak hours.
+    a: >-
+      No formal reservation system is typical for this kind of restaurant — it's
+      walk-in seating, so expect a short wait during weekend evening peak hours.
   - q: How long should I plan to spend there?
-    a: 'Budget at least an hour to 90 minutes: time for the chicken and vegetables to cook and char properly, plus the bokkeumbap fried rice finish most people order afterward.'
+    a: >-
+      Budget at least an hour to 90 minutes: time for the chicken and vegetables
+      to cook and char properly, plus the bokkeumbap fried rice finish most
+      people order afterward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 You smell Chuncheon's signature dish before you see it — a sweet-hot cloud of gochujang, garlic, and sesame oil drifting out from doorways along the streets near the city's dakgalbi alley. This is the town where dakgalbi was invented, sometime in the 1960s, when cheap cuts of chicken were marinated in chili paste and grilled tableside as an affordable alternative to pork galbi. Every restaurant here claims its own version is the original, and 1.5 Dakgalbi has built a loyal following with its take on the classic.
 

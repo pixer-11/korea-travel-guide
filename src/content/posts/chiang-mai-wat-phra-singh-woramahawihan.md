@@ -1,37 +1,46 @@
 ---
-title: "Wat Phra Singh Woramahawihan: Chiang Mai Travel Guide (4.7★)"
-description: "Wat Phra Singh, in Chiang Mai's Old City on Samlarn Road, is one of the city's most important temples, home to the revered Phra Singh Buddha image and the exquisite Lai Kham chapel murals. 4.7★ (17,528 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Chiang Mai"
-category: "attraction"
-pubDate: "2026-08-07T08:48:22.348Z"
+title: 'Wat Phra Singh Woramahawihan: Chiang Mai Travel Guide (4.7★)'
+description: >-
+  Wat Phra Singh, in Chiang Mai's Old City on Samlarn Road, is one of the city's
+  most important temples, home to the revered Phra Singh Buddha image and the
+  exquisite Lai Kham chapel murals. 4.7★ (17,577 reviews) — what visitors say,
+  hours, and tips.
+country: Thailand
+region: Chiang Mai
+category: attraction
+pubDate: '2026-08-07T08:48:22.348Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg/3840px-Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg"
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg/3840px-Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg
+  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0004.jpg
 gallery: []
 place:
-  id: "ChIJbyRKbps62jAR6VTNF-fZVpY"
-  name: "Wat Phra Singh Woramahawihan"
-  address: "2 Samlarn Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand"
+  id: ChIJbyRKbps62jAR6VTNF-fZVpY
+  name: Wat Phra Singh Woramahawihan
+  address: >-
+    2 Samlarn Rd Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat
+    Chiang Mai 50200, Thailand
   rating: 4.7
-  userRatingsTotal: 17528
-  googleMapsUrl: "https://maps.google.com/?cid=10833085540246312169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 17577
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10833085540246312169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.7885265
   lng: 98.9819946
-  phone: "+66 99 249 9395"
+  phone: +66 99 249 9395
   openingHours:
-    - "Monday: 5:30 AM – 7:30 PM"
-    - "Tuesday: 5:30 AM – 7:30 PM"
-    - "Wednesday: 5:30 AM – 7:30 PM"
-    - "Thursday: 5:30 AM – 7:30 PM"
-    - "Friday: 5:30 AM – 7:30 PM"
-    - "Saturday: 5:30 AM – 7:30 PM"
-    - "Sunday: 5:30 AM – 11:00 PM"
+    - 'Monday: 5:30 AM – 7:30 PM'
+    - 'Tuesday: 5:30 AM – 7:30 PM'
+    - 'Wednesday: 5:30 AM – 7:30 PM'
+    - 'Thursday: 5:30 AM – 7:30 PM'
+    - 'Friday: 5:30 AM – 7:30 PM'
+    - 'Saturday: 5:30 AM – 7:30 PM'
+    - 'Sunday: 5:30 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-07
+    updated: 2026-08-07T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendQuiet:
@@ -44,24 +53,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5970565a662d464e54563652416a32367370624b5279624a496843"
+    venueId: ven_5970565a662d464e54563652416a32367370624b5279624a496843
 tags:
-  - "chiang mai"
-  - "historic site"
-quickAnswer: "Wat Phra Singh, in Chiang Mai's Old City on Samlarn Road, is one of the city's most important temples, home to the revered Phra Singh Buddha image and the exquisite Lai Kham chapel murals. Go right at opening, 7am–8am, when it's quietest on both weekdays and weekends. It's open daily 5:30am–7:30pm (Sundays until 11pm), and an hour is enough to see the highlights."
+  - chiang mai
+  - historic site
+quickAnswer: >-
+  Wat Phra Singh, in Chiang Mai's Old City on Samlarn Road, is one of the city's
+  most important temples, home to the revered Phra Singh Buddha image and the
+  exquisite Lai Kham chapel murals. Go right at opening, 7am–8am, when it's
+  quietest on both weekdays and weekends. It's open daily 5:30am–7:30pm (Sundays
+  until 11pm), and an hour is enough to see the highlights.
 faq:
-  - q: "How much does it cost to enter Wat Phra Singh?"
-    a: "The main grounds and viharn are typically free to enter. Some inner areas, like the Lai Kham chapel, may request a small donation, so carry some cash in small denominations."
-  - q: "What are the opening hours?"
-    a: "5:30am to 7:30pm daily, except Sundays when it stays open until 11pm. Confirm hours locally if visiting during a festival."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 8am, on both weekdays and weekends, before tour groups and day-trippers arrive. Weekend afternoons and evenings from 4pm to 11pm are the busiest, so avoid that window if you want space to look around."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the main viharn, the Lai Kham murals, and the chedis. Add extra time if you want to study the murals closely."
-  - q: "What else is nearby?"
-    a: "Wat Chedi Luang is roughly a 10-minute walk away, and the Three Kings Monument is about 10-15 minutes on foot, making it easy to build a walking loop of Old City sights."
+  - q: How much does it cost to enter Wat Phra Singh?
+    a: >-
+      The main grounds and viharn are typically free to enter. Some inner areas,
+      like the Lai Kham chapel, may request a small donation, so carry some cash
+      in small denominations.
+  - q: What are the opening hours?
+    a: >-
+      5:30am to 7:30pm daily, except Sundays when it stays open until 11pm.
+      Confirm hours locally if visiting during a festival.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 7am and 8am, on both weekdays and weekends, before tour groups and
+      day-trippers arrive. Weekend afternoons and evenings from 4pm to 11pm are
+      the busiest, so avoid that window if you want space to look around.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the main viharn, the Lai Kham murals, and the chedis.
+      Add extra time if you want to study the murals closely.
+  - q: What else is nearby?
+    a: >-
+      Wat Chedi Luang is roughly a 10-minute walk away, and the Three Kings
+      Monument is about 10-15 minutes on foot, making it easy to build a walking
+      loop of Old City sights.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

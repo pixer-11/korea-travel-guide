@@ -1,37 +1,44 @@
 ---
-title: "Chiayi Park: Travel Guide (4.4★)"
-description: "Chiayi Park is a 26.8-hectare green space in Chiayi City's East District, packed with historic shrine ruins, a Confucius temple, a wooden observation tower, ponds and a playground. 4.4★ (15,570 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Chiayi"
-category: "attraction"
-pubDate: "2026-08-12T09:32:41.479Z"
+title: 'Chiayi Park: Travel Guide (4.4★)'
+description: >-
+  Chiayi Park is a 26.8-hectare green space in Chiayi City's East District,
+  packed with historic shrine ruins, a Confucius temple, a wooden observation
+  tower, ponds and a playground. 4.4★ (15,584 reviews) — what visitors say,
+  hours, and tips.
+country: Taiwan
+region: Chiayi
+category: attraction
+pubDate: '2026-08-12T09:32:41.479Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Chia_yi_park_wt.JPG"
-  credit: "Photo: No machine-readable author provided. Niceplaza~commonswiki assumed (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chia_yi_park_wt.JPG"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Chia_yi_park_wt.JPG'
+  credit: >-
+    Photo: No machine-readable author provided. Niceplaza~commonswiki assumed
+    (based on copyright claims). / Wikimedia Commons (CC BY-SA 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chia_yi_park_wt.JPG'
 gallery: []
 place:
-  id: "ChIJw58UX7OVbjQRj_JrF6q5EdA"
-  name: "Chiayi Park"
-  address: "600, Taiwan, Chiayi City, East District, Dongchuan Village, 啟明路264號"
+  id: ChIJw58UX7OVbjQRj_JrF6q5EdA
+  name: Chiayi Park
+  address: '600, Taiwan, Chiayi City, East District, Dongchuan Village, 啟明路264號'
   rating: 4.4
-  userRatingsTotal: 15570
-  googleMapsUrl: "https://maps.google.com/?cid=14992968774681621135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15584
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14992968774681621135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.483329899999998
   lng: 120.46523069999999
-  phone: "+886 5 276 0054"
+  phone: +886 5 276 0054
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 7
       - 8
@@ -49,24 +56,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_41644535713646724a5f6a52516a62564f3758553835774a496843"
+    venueId: ven_41644535713646724a5f6a52516a62564f3758553835774a496843
 tags:
-  - "chiayi"
-  - "top attraction"
-quickAnswer: "Chiayi Park is a 26.8-hectare green space in Chiayi City's East District, packed with historic shrine ruins, a Confucius temple, a wooden observation tower, ponds and a playground. It's open 24 hours, well-visited, so weekends between 8am and 8pm bring the biggest crowds. Give it 1.5–2 hours, and pair it with the nearby Chiayi Municipal Museum or Sun Shooting Tower."
+  - chiayi
+  - top attraction
+quickAnswer: >-
+  Chiayi Park is a 26.8-hectare green space in Chiayi City's East District,
+  packed with historic shrine ruins, a Confucius temple, a wooden observation
+  tower, ponds and a playground. It's open 24 hours, well-visited, so weekends
+  between 8am and 8pm bring the biggest crowds. Give it 1.5–2 hours, and pair it
+  with the nearby Chiayi Municipal Museum or Sun Shooting Tower.
 faq:
-  - q: "How much time should I set aside for Chiayi Park?"
-    a: "Plan on 1.5 to 2 hours to cover the shrine ruins, Confucius Temple, ponds, and the Sun Shooting Tower at an easy pace. Add extra time if you plan to climb the tower's observation deck."
-  - q: "Is there an entrance fee?"
-    a: "No, Chiayi Park is a free public city park with no admission charge. Some specific attractions inside, like a tower observation deck, may have a small separate fee — confirm on arrival."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings are calmest. The park is busiest on weekends between 8am and 8pm, so aim for early morning or after 8pm if you want fewer crowds."
-  - q: "How do I get to Chiayi Park from Chiayi Train Station?"
-    a: "It's about a 15–20 minute ride by taxi, rental bike (YouBike), or local bus. The park address is 264 Qiming Road in the East District."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "The Chiayi Municipal Museum sits right at the park's edge, and the Sun Shooting Tower and Confucius Temple are both inside the park grounds itself."
+  - q: How much time should I set aside for Chiayi Park?
+    a: >-
+      Plan on 1.5 to 2 hours to cover the shrine ruins, Confucius Temple, ponds,
+      and the Sun Shooting Tower at an easy pace. Add extra time if you plan to
+      climb the tower's observation deck.
+  - q: Is there an entrance fee?
+    a: >-
+      No, Chiayi Park is a free public city park with no admission charge. Some
+      specific attractions inside, like a tower observation deck, may have a
+      small separate fee — confirm on arrival.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings are calmest. The park is busiest on weekends between 8am
+      and 8pm, so aim for early morning or after 8pm if you want fewer crowds.
+  - q: How do I get to Chiayi Park from Chiayi Train Station?
+    a: >-
+      It's about a 15–20 minute ride by taxi, rental bike (YouBike), or local
+      bus. The park address is 264 Qiming Road in the East District.
+  - q: What else is nearby worth combining with a visit?
+    a: >-
+      The Chiayi Municipal Museum sits right at the park's edge, and the Sun
+      Shooting Tower and Confucius Temple are both inside the park grounds
+      itself.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

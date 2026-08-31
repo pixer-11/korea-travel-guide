@@ -1,34 +1,42 @@
 ---
 title: 'Hidden Village: Chiang Mai Travel Guide'
-description: Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on a weekday morning or late afternoon to avoid tour-bus crowds.
+description: >-
+  Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden
+  in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on
+  a weekday morning or late afternoon to avoid tour-bus crowds.
 country: Thailand
 region: Chiang Mai
 category: hidden-gem
 pubDate: '2026-07-22T09:16:53.893Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/7141761_0Qx5a7vb4iTrxkHu4qdm-Aa2r4V2ct427lO9frLwGPM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/7141761_0Qx5a7vb4iTrxkHu4qdm-Aa2r4V2ct427lO9frLwGPM.jpg
   credit: 'Photo: Foursquare user content (Hidden Village)'
   license: foursquare
-  source: https://foursquare.com/v/58e9bfd714fb415f6a0e71d8
+  source: 'https://foursquare.com/v/58e9bfd714fb415f6a0e71d8'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/6249439_-N297IpyuqTXXnYyhtDmCBnyYgm2nyqx9eiYDeoN8m8.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/6249439_-N297IpyuqTXXnYyhtDmCBnyYgm2nyqx9eiYDeoN8m8.jpg
     credit: 'Photo: Foursquare user content (Hidden Village)'
     license: foursquare
-    source: https://foursquare.com/v/58e9bfd714fb415f6a0e71d8
+    source: 'https://foursquare.com/v/58e9bfd714fb415f6a0e71d8'
 place:
   id: ChIJL3AGHyQ72jAROerj2sZPIY4
   name: Hidden Village Chiang Mai
-  address: 77/19 หมู่ 7 168 บ้านท่าหลุก ซอย 8 Tambon San Phi Suea, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand
+  address: >-
+    77 หมู่บ้านท่าหลุก 19 บ้านท่าหลุก ซอย 8 หมู่ที่ 7, Tambon San Phi Suea,
+    Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand
   rating: 4.2
-  userRatingsTotal: 2465
-  googleMapsUrl: https://maps.google.com/?cid=10241554743111707193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2491
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10241554743111707193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.833111
   lng: 98.997575
-  phone: '+66 64 550 0305'
+  phone: +66 64 550 0305
   openingHours:
     - 'Monday: 9:00 AM – 6:00 PM'
     - 'Tuesday: 9:00 AM – 6:00 PM'
@@ -40,20 +48,42 @@ place:
 tags:
   - chiang mai
   - hidden gem
-quickAnswer: Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on a weekday morning or late afternoon to avoid tour-bus crowds. Budget 1–1.5 hours, arrive by private car, taxi app (Grab) or rented scooter since it's not on the songthaew grid, and expect to pay a small entry/consumption fee at the door (confirm current amount on arrival). It suits travelers who want quirky rustic-Thailand scenery and easy Instagram shots rather than a historical or cultural landmark.
+quickAnswer: >-
+  Hidden Village Chiang Mai is a rustic, jungle-style café and photo-op garden
+  in San Phi Suea, on the northeastern edge of Chiang Mai city, best visited on
+  a weekday morning or late afternoon to avoid tour-bus crowds. Budget 1–1.5
+  hours, arrive by private car, taxi app (Grab) or rented scooter since it's not
+  on the songthaew grid, and expect to pay a small entry/consumption fee at the
+  door (confirm current amount on arrival). It suits travelers who want quirky
+  rustic-Thailand scenery and easy Instagram shots rather than a historical or
+  cultural landmark.
 faq:
   - q: How do I get to Hidden Village Chiang Mai without a car?
-    a: Use a Grab ride-hailing app or a metered taxi from the old city — there's no direct songthaew or public bus route, and the soi network in San Phi Suea can be confusing to navigate on foot.
+    a: >-
+      Use a Grab ride-hailing app or a metered taxi from the old city — there's
+      no direct songthaew or public bus route, and the soi network in San Phi
+      Suea can be confusing to navigate on foot.
   - q: How much does it cost to enter?
-    a: There's typically a small entry fee or a minimum food/drink order at the attached café; exact amounts can change, so check the venue's current Google Maps listing or ask when booking your ride.
+    a: >-
+      There's typically a small entry fee or a minimum food/drink order at the
+      attached café; exact amounts can change, so check the venue's current
+      Google Maps listing or ask when booking your ride.
   - q: How long should I plan to stay?
-    a: Most visitors spend 60–90 minutes walking the wooden bridges and photo areas and having a drink or snack at the café.
+    a: >-
+      Most visitors spend 60–90 minutes walking the wooden bridges and photo
+      areas and having a drink or snack at the café.
   - q: What's the best time of day and year to visit?
-    a: Early morning or late afternoon for softer light and cooler temperatures; November to February is the most comfortable season overall, since the site is largely outdoors.
+    a: >-
+      Early morning or late afternoon for softer light and cooler temperatures;
+      November to February is the most comfortable season overall, since the
+      site is largely outdoors.
   - q: Is it worth visiting if I only have a couple of days in Chiang Mai?
-    a: It's a nice-to-have rather than essential — prioritize it if you enjoy rustic photo-op spots and have already covered temples like Wat Phra Singh or Doi Suthep.
+    a: >-
+      It's a nice-to-have rather than essential — prioritize it if you enjoy
+      rustic photo-op spots and have already covered temples like Wat Phra Singh
+      or Doi Suthep.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-31'
 ---
 
 ## Why go

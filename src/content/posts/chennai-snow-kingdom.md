@@ -1,37 +1,44 @@
 ---
-title: "Snow Kingdom: Chennai Travel Guide (4.7★)"
-description: "Snow Kingdom is an indoor snow park on the East Coast Road in Injambakkam, next to VGP Universal Kingdom, with real manmade snow, a sled slope and a climbing mountain. 4.7★ (37,278 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Chennai"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:28:16.785Z"
+title: 'Snow Kingdom: Chennai Travel Guide (4.7★)'
+description: >-
+  Snow Kingdom is an indoor snow park on the East Coast Road in Injambakkam,
+  next to VGP Universal Kingdom, with real manmade snow, a sled slope and a
+  climbing mountain. 4.7★ (37,580 reviews) — what visitors say, hours, and tips.
+country: India
+region: Chennai
+category: hidden-gem
+pubDate: '2026-08-12T09:28:16.785Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/VGP_Snow_Kingdom.jpg/3840px-VGP_Snow_Kingdom.jpg"
-  credit: "Photo: Mohan Babu V / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:VGP_Snow_Kingdom.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/VGP_Snow_Kingdom.jpg/3840px-VGP_Snow_Kingdom.jpg
+  credit: 'Photo: Mohan Babu V / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:VGP_Snow_Kingdom.jpg'
 gallery: []
 place:
-  id: "ChIJoeVgAZdcUjoRU8iNNuLYHW4"
-  name: "Snow Kingdom"
-  address: "SH 49, next to VGP Universal Kingdom, Injambakkam, Chennai, Tamil Nadu 600115, India"
+  id: ChIJoeVgAZdcUjoRU8iNNuLYHW4
+  name: Snow Kingdom
+  address: >-
+    SH 49, next to VGP Universal Kingdom, Injambakkam, Chennai, Tamil Nadu
+    600115, India
   rating: 4.7
-  userRatingsTotal: 37278
-  googleMapsUrl: "https://maps.google.com/?cid=7934736584586152019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 37580
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7934736584586152019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.9133086
   lng: 80.251341
-  phone: "+91 73822 22222"
+  phone: +91 73822 22222
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -46,24 +53,41 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_345748594c754e4e693855526f6a5563645a416756656f4a496843"
+    venueId: ven_345748594c754e4e693855526f6a5563645a416756656f4a496843
 tags:
-  - "chennai"
-  - "hidden gem"
-quickAnswer: "Snow Kingdom is an indoor snow park on the East Coast Road in Injambakkam, next to VGP Universal Kingdom, with real manmade snow, a sled slope and a climbing mountain. It's open daily 10am–8pm; go on a weekday, ideally right at opening, since weekends get packed between 12pm and 7pm. Budget 60–90 minutes, and dress in layers since Chennai's heat outside makes the cold hit harder."
+  - chennai
+  - hidden gem
+quickAnswer: >-
+  Snow Kingdom is an indoor snow park on the East Coast Road in Injambakkam,
+  next to VGP Universal Kingdom, with real manmade snow, a sled slope and a
+  climbing mountain. It's open daily 10am–8pm; go on a weekday, ideally right at
+  opening, since weekends get packed between 12pm and 7pm. Budget 60–90 minutes,
+  and dress in layers since Chennai's heat outside makes the cold hit harder.
 faq:
-  - q: "What are the opening hours?"
-    a: "Snow Kingdom is open every day of the week, including weekends, from 10am to 8pm, with no listed closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays stay calm across the entire 10am–8pm window. If you're going on a weekend, arrive right at 10am to avoid the 12pm–7pm rush."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 60–90 minutes inside, enough time for the snow slope, the climbing mountain, and photos."
-  - q: "How do I get to Snow Kingdom?"
-    a: "It's on SH 49 in Injambakkam, next to VGP Universal Kingdom on Chennai's East Coast Road, about 40–50 minutes by car or auto-rickshaw from the city center. There's no direct metro connection."
-  - q: "What should I wear or bring?"
-    a: "Wear layers you can add over shorts or light clothing, and bring your own socks since jackets and gumboots are provided but socks generally aren't."
+  - q: What are the opening hours?
+    a: >-
+      Snow Kingdom is open every day of the week, including weekends, from 10am
+      to 8pm, with no listed closing day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays stay calm across the entire 10am–8pm window. If you're going on a
+      weekend, arrive right at 10am to avoid the 12pm–7pm rush.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 60–90 minutes inside, enough time for the snow slope,
+      the climbing mountain, and photos.
+  - q: How do I get to Snow Kingdom?
+    a: >-
+      It's on SH 49 in Injambakkam, next to VGP Universal Kingdom on Chennai's
+      East Coast Road, about 40–50 minutes by car or auto-rickshaw from the city
+      center. There's no direct metro connection.
+  - q: What should I wear or bring?
+    a: >-
+      Wear layers you can add over shorts or light clothing, and bring your own
+      socks since jackets and gumboots are provided but socks generally aren't.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

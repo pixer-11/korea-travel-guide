@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cinque-terre-parco-nazionale-delle-cinque-terre
-srcHash: 'a7611e50de11'
+srcHash: '3ea92f8d216d'
 title: 五渔村国家公园（Parco Nazionale delle Cinque Terre）旅行指南（4.7★）
-description: 五渔村国家公园由五个悬崖边的村庄——蒙特罗索（Monterosso）、韦尔纳扎（Vernazza）、科尔尼利亚（Corniglia）、马纳罗拉（Manarola）、里奥马焦雷（Riomaggiore）组成，沿利古里亚受保护的海岸线，靠徒步小径、火车和渡船相连。4.7★（46,754条评价）——游客怎么说、开放时间和实用建议，一网打尽。
+description: 五渔村国家公园由五个悬崖边的村庄——蒙特罗索（Monterosso）、韦尔纳扎（Vernazza）、科尔尼利亚（Corniglia）、马纳罗拉（Manarola）、里奥马焦雷（Riomaggiore）组成，沿利古里亚受保护的海岸线，靠徒步小径、火车和渡船相连。4.7★（46,756条评价）——游客怎么说、开放时间和实用建议，一网打尽。
 quickAnswer: 五渔村国家公园由五个悬崖边的村庄——蒙特罗索、韦尔纳扎、科尔尼利亚、马纳罗拉、里奥马焦雷——组成，沿着利古里亚受保护的海岸线，靠徒步小径、火车和渡船彼此相连。公园全天候开放，但如果想避开人潮，最好选在周末上午7点到下午6点之间前往，尽量避开周末下午1点到晚上11点这段最拥挤的时段。至少留一整天时间游玩，如果想真正走完徒步小径，建议安排两天。
 faq:
   - q: 怎么前往五渔村，村与村之间又该如何往返？

@@ -1,24 +1,30 @@
 ---
 title: 'Sawada Coffee: Chicago Travel Guide'
-description: Sawada Coffee is a rustic-chic coffee bar in Chicago's West Loop at 112 N Green St, open daily 8am–4pm, known for inventive espresso drinks and an in-house Ping-Pong table.
+description: >-
+  Sawada Coffee is a rustic-chic coffee bar in Chicago's West Loop at 112 N
+  Green St, open daily 8am–4pm, known for inventive espresso drinks and an
+  in-house Ping-Pong table.
 country: United States
 region: Chicago
 category: trendy
 pubDate: '2026-08-02T09:41:18.595Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg/1920px-Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg/1920px-Sawada_Coffee%2C_West_Loop%2C_Chicago_%2846963747835%29.jpg
   credit: 'Photo: Bex Walton from London, England / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sawada_Coffee,_West_Loop,_Chicago_(46963747835).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Sawada_Coffee,_West_Loop,_Chicago_(46963747835).jpg
 gallery: []
 place:
   id: ChIJ6ZFu2tosDogRPqdBeBkX6IU
   name: Sawada Coffee
-  address: 112 N Green St, Chicago, IL 60607, USA
+  address: '112 N Green St, Chicago, IL 60607, USA'
   rating: 4.6
-  userRatingsTotal: 2225
+  userRatingsTotal: 2233
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=9648987599800477502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9648987599800477502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.883625099999996
   lng: -87.6487119
@@ -49,19 +55,37 @@ place:
 tags:
   - chicago
   - trendy cafe
-quickAnswer: Sawada Coffee is a rustic-chic coffee bar in Chicago's West Loop at 112 N Green St, open daily 8am–4pm, known for inventive espresso drinks and an in-house Ping-Pong table. Go on the early side — 8am to 10am is the quiet window every day of the week — and skip the 11am–4pm weekend rush when lines stretch toward the door.
+quickAnswer: >-
+  Sawada Coffee is a rustic-chic coffee bar in Chicago's West Loop at 112 N
+  Green St, open daily 8am–4pm, known for inventive espresso drinks and an
+  in-house Ping-Pong table. Go on the early side — 8am to 10am is the quiet
+  window every day of the week — and skip the 11am–4pm weekend rush when lines
+  stretch toward the door.
 faq:
   - q: What are Sawada Coffee's hours?
-    a: It's open daily from 8:00 AM to 4:00 PM, seven days a week, with no evening hours.
+    a: >-
+      It's open daily from 8:00 AM to 4:00 PM, seven days a week, with no
+      evening hours.
   - q: When is the quietest time to visit?
-    a: Between 8am and 10am on both weekdays and weekends — right after opening, before the regular crowds build.
+    a: >-
+      Between 8am and 10am on both weekdays and weekends — right after opening,
+      before the regular crowds build.
   - q: What time should I avoid on weekends?
-    a: Try not to arrive between 11am and 4pm on weekends, when the West Loop brunch crowd fills the space and lines form at the counter.
+    a: >-
+      Try not to arrive between 11am and 4pm on weekends, when the West Loop
+      brunch crowd fills the space and lines form at the counter.
   - q: How do I get there by public transit?
-    a: Take the CTA Green or Pink Line to Morgan station, then walk a few blocks to 112 N Green St; the Blue Line's Clinton stop is a slightly longer walk from the same direction.
-  - q: Is it good for working or hanging out, not just a quick coffee?
-    a: Yes — it has a laid-back, rustic-chic interior with a Ping-Pong table and seating suited to lingering, though it can get tight during the busy midday weekend window.
+    a: >-
+      Take the CTA Green or Pink Line to Morgan station, then walk a few blocks
+      to 112 N Green St; the Blue Line's Clinton stop is a slightly longer walk
+      from the same direction.
+  - q: 'Is it good for working or hanging out, not just a quick coffee?'
+    a: >-
+      Yes — it has a laid-back, rustic-chic interior with a Ping-Pong table and
+      seating suited to lingering, though it can get tight during the busy
+      midday weekend window.
 aiGenerated: true
+updatedDate: '2026-08-31'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

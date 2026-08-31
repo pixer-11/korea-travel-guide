@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: chicago-medinah-temple
-srcHash: '662cd4fb16b1'
+srcHash: '79641d0aa3e3'
 title: '메디나 템플(Medinah Temple): 시카고 여행 가이드 (4.2★)'
-description: 시카고 리버 노스(River North)의 600 N Wabash Ave에 위치한 메디나 템플은 지금은 블루밍데일스 홈 앤 퍼니처(Bloomingdale's Home & Furniture) 매장의 외관 역할을 하고 있지만, 그 외관만으로도 일부러 찾아갈 가치가 있습니다. 4.2★ (316개 리뷰) — 방문객들의 평가, 운영시간, 방문 팁을 소개합니다.
+description: 시카고 리버 노스(River North)의 600 N Wabash Ave에 위치한 메디나 템플은 지금은 블루밍데일스 홈 앤 퍼니처(Bloomingdale's Home & Furniture) 매장의 외관 역할을 하고 있지만, 그 외관만으로도 일부러 찾아갈 가치가 있습니다. 4.2★ (322개 리뷰) — 방문객들의 평가, 운영시간, 방문 팁을 소개합니다.
 quickAnswer: 시카고 리버 노스(River North)의 600 N Wabash Ave에 위치한 메디나 템플은 지금은 블루밍데일스 홈 앤 퍼니처(Bloomingdale's Home & Furniture) 매장의 외관 역할을 하고 있지만, 그 외관만으로도 일부러 찾아갈 가치가 있습니다. 평일 오전 9시에서 오후 5시 사이에 방문하세요(주말은 휴무입니다). 매장 안을 둘러보기 전이나 후에 워배시 애비뉴(Wabash)에 잠시 멈춰 서서 무어 양식의 돔과 테라코타 장식을 감상해 보세요.
 faq:
   - q: 메디나 템플은 일반인에게 개방되어 있나요?

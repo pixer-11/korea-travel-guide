@@ -1,56 +1,81 @@
 ---
-title: "La Petite Venise: Colmar Travel Guide (4.7★)"
-description: "La Petite Venise is the canal-laced quarter of old Colmar, best seen on foot along Quai de la Poissonnerie and by flat-bottomed boat tour. 4.7★ (56,763 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Colmar"
-category: "attraction"
-pubDate: "2026-08-11T08:26:22.329Z"
+title: 'La Petite Venise: Colmar Travel Guide (4.7★)'
+description: >-
+  La Petite Venise is the canal-laced quarter of old Colmar, best seen on foot
+  along Quai de la Poissonnerie and by flat-bottomed boat tour. 4.7★ (57,271
+  reviews) — what visitors say, hours, and tips.
+country: France
+region: Colmar
+category: attraction
+pubDate: '2026-08-11T08:26:22.329Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_%28Colmar%29_%288%29.jpg/3840px-Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_%28Colmar%29_%288%29.jpg"
-  credit: "Photo: Gzen92 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_(Colmar)_(8).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_%28Colmar%29_%288%29.jpg/3840px-Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_%28Colmar%29_%288%29.jpg
+  credit: 'Photo: Gzen92 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Petite_Venise_depuis_le_pont_de_la_rue_des_%C3%89coles_(Colmar)_(8).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pont_de_la_rue_Turenne_-_petite_Venise_%28Colmar%29.jpg/3840px-Pont_de_la_rue_Turenne_-_petite_Venise_%28Colmar%29.jpg"
-    credit: "Photo: Gzen92 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pont_de_la_rue_Turenne_-_petite_Venise_(Colmar).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pont_de_la_rue_Turenne_-_petite_Venise_%28Colmar%29.jpg/3840px-Pont_de_la_rue_Turenne_-_petite_Venise_%28Colmar%29.jpg
+    credit: 'Photo: Gzen92 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Pont_de_la_rue_Turenne_-_petite_Venise_(Colmar).jpg
 place:
-  id: "ChIJPaYGUO9lkUcRFZDjcl0JWOc"
-  name: "La Petite Venise"
-  address: "Quai de la Poissonnerie, 68000 Colmar, France"
+  id: ChIJPaYGUO9lkUcRFZDjcl0JWOc
+  name: La Petite Venise
+  address: 'Quai de la Poissonnerie, 68000 Colmar, France'
   rating: 4.7
-  userRatingsTotal: 56763
-  googleMapsUrl: "https://maps.google.com/?cid=16670084317676015637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 57271
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16670084317676015637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.0739795
   lng: 7.3572869999999995
-  phone: "+33 3 89 20 68 92"
+  phone: +33 3 89 20 68 92
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "colmar"
-  - "top attraction"
-quickAnswer: "La Petite Venise is the canal-laced quarter of old Colmar, best seen on foot along Quai de la Poissonnerie and by flat-bottomed boat tour. It's open all day, every day, with no ticket needed for the neighborhood itself — just arrive early morning or after dinner to dodge the crowds that build midday."
+  - colmar
+  - top attraction
+quickAnswer: >-
+  La Petite Venise is the canal-laced quarter of old Colmar, best seen on foot
+  along Quai de la Poissonnerie and by flat-bottomed boat tour. It's open all
+  day, every day, with no ticket needed for the neighborhood itself — just
+  arrive early morning or after dinner to dodge the crowds that build midday.
 faq:
-  - q: "Is there an entrance fee for La Petite Venise?"
-    a: "No — it's a public neighborhood, not a ticketed attraction. You only pay if you take a boat tour or eat at a restaurant."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning before 9am or evening after 7pm, when the quays are quiet. Midday, especially on weekends, draws the heaviest foot traffic and boat queues."
-  - q: "How long should I spend there?"
-    a: "A slow walk along Quai de la Poissonnerie and the surrounding lanes takes 45 minutes to an hour. Add 20-30 minutes for a boat ride."
-  - q: "Do I need to book the boat tours in advance?"
-    a: "It's not always required but recommended in peak season (spring through summer weekends and December's Christmas markets), since queues form quickly at midday."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Colmar's cathedral (Collégiale Saint-Martin), the Musée Unterlinden, and the covered market (Marché Couvert) are all within a 10-15 minute walk."
+  - q: Is there an entrance fee for La Petite Venise?
+    a: >-
+      No — it's a public neighborhood, not a ticketed attraction. You only pay
+      if you take a boat tour or eat at a restaurant.
+  - q: What's the best time of day to visit?
+    a: >-
+      Early morning before 9am or evening after 7pm, when the quays are quiet.
+      Midday, especially on weekends, draws the heaviest foot traffic and boat
+      queues.
+  - q: How long should I spend there?
+    a: >-
+      A slow walk along Quai de la Poissonnerie and the surrounding lanes takes
+      45 minutes to an hour. Add 20-30 minutes for a boat ride.
+  - q: Do I need to book the boat tours in advance?
+    a: >-
+      It's not always required but recommended in peak season (spring through
+      summer weekends and December's Christmas markets), since queues form
+      quickly at midday.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      Colmar's cathedral (Collégiale Saint-Martin), the Musée Unterlinden, and
+      the covered market (Marché Couvert) are all within a 10-15 minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

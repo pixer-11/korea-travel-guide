@@ -1,41 +1,59 @@
 ---
-title: "Parco Nazionale delle: Cinque Terre Travel Guide (4.7★)"
-description: "Cinque Terre National Park is five cliffside villages — Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore — linked by hiking trails, trains and boats along Liguria's protected coast. 4.7★ (46,754 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Cinque Terre"
-category: "attraction"
-pubDate: "2026-08-11T09:09:50.204Z"
+title: 'Parco Nazionale delle: Cinque Terre Travel Guide (4.7★)'
+description: >-
+  Cinque Terre National Park is five cliffside villages — Monterosso, Vernazza,
+  Corniglia, Manarola, Riomaggiore — linked by hiking trails, trains and boats
+  along Liguria's protected coast. 4.7★ (46,756 reviews) — what visitors say,
+  hours, and tips.
+country: Italy
+region: Cinque Terre
+category: attraction
+pubDate: '2026-08-11T09:09:50.204Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Parco_Nazionale_delle_Cinque_Terre%2C_Riomaggiore%2C_Italy_%28Unsplash%29.jpg/3840px-Parco_Nazionale_delle_Cinque_Terre%2C_Riomaggiore%2C_Italy_%28Unsplash%29.jpg"
-  credit: "Photo: Raul Taciu raultaciu / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parco_Nazionale_delle_Cinque_Terre,_Riomaggiore,_Italy_(Unsplash).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Parco_Nazionale_delle_Cinque_Terre%2C_Riomaggiore%2C_Italy_%28Unsplash%29.jpg/3840px-Parco_Nazionale_delle_Cinque_Terre%2C_Riomaggiore%2C_Italy_%28Unsplash%29.jpg
+  credit: 'Photo: Raul Taciu raultaciu / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parco_Nazionale_delle_Cinque_Terre,_Riomaggiore,_Italy_(Unsplash).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg/3840px-Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg"
-    credit: "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg/3840px-Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg
+    credit: >-
+      Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my
+      photos, but please mention me as the author. I would much appreciate if
+      you send me an email tagooty@yahoo.com or write on my talk page, for my
+      information. Please contact me before commercial use. Please do not upload
+      an edited image here without consulting me. I would like to make
+      corrections only at my own source to ensure that the changes improve the
+      image and are preserved.Otherwise you may upload an edited image with a
+      new name. Please use one of the templates derivative or extract. /
+      Wikimedia Commons (CC BY-SA 4.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg
 place:
-  id: "ChIJgQ0GVynw1BIRq9YuQlZ6PVI"
-  name: "Parco Nazionale delle Cinque Terre"
-  address: "19018 Vernazza, SP, Italy"
+  id: ChIJgQ0GVynw1BIRq9YuQlZ6PVI
+  name: Parco Nazionale delle Cinque Terre
+  address: '19018 Vernazza, SP, Italy'
   rating: 4.7
-  userRatingsTotal: 46754
-  googleMapsUrl: "https://maps.google.com/?cid=5926027195585582763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 46756
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5926027195585582763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.128108999999995
   lng: 9.7123907
-  phone: "+39 0187 762600"
+  phone: +39 0187 762600
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekendQuiet:
       - 7
       - 8
@@ -47,24 +65,46 @@ place:
       - 17
       - 21
       - 22
-    venueId: "ven_495650365a6c517559397152494231776e7956473051674a496843"
+    venueId: ven_495650365a6c517559397152494231776e7956473051674a496843
 tags:
-  - "cinque terre"
-  - "top attraction"
-quickAnswer: "Cinque Terre National Park is five cliffside villages — Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore — linked by hiking trails, trains and boats along Liguria's protected coast. It's open around the clock, but for a calmer visit aim for weekend mornings between 7am and 6pm; avoid the 1pm–11pm weekend crush. Give it a full day minimum, two if you want to actually walk the trails."
+  - cinque terre
+  - top attraction
+quickAnswer: >-
+  Cinque Terre National Park is five cliffside villages — Monterosso, Vernazza,
+  Corniglia, Manarola, Riomaggiore — linked by hiking trails, trains and boats
+  along Liguria's protected coast. It's open around the clock, but for a calmer
+  visit aim for weekend mornings between 7am and 6pm; avoid the 1pm–11pm weekend
+  crush. Give it a full day minimum, two if you want to actually walk the
+  trails.
 faq:
-  - q: "How do I get to Cinque Terre and around the five villages?"
-    a: "Fly or train into La Spezia or Levanto, then use the local regional train — it connects all five villages in a few minutes each and is far easier than driving, since car access into village centers is restricted."
-  - q: "How much does it cost to visit?"
-    a: "The park itself is free and open 24 hours, but a Cinque Terre card (sold at train stations) covers trail access fees and unlimited train travel between villages for the day — check current pricing at the station before you go."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, it stays calm from 7am to 6pm; the crowds build hard between 1pm and 11pm as day-trippers pour in, so aim for an early start."
-  - q: "How long should I spend in Cinque Terre?"
-    a: "A single day lets you see two or three villages comfortably by train; two days gives you time to actually hike sections of the coastal trail and linger over a sunset in Manarola or Vernazza."
-  - q: "Are the coastal hiking trails open?"
-    a: "Parts of the Sentiero Azzurro (Blue Trail) have closed periodically due to landslides — the Manarola–Riomaggiore stretch (Via dell'Amore) is usually the first to reopen. Check official park trail status before setting out."
+  - q: How do I get to Cinque Terre and around the five villages?
+    a: >-
+      Fly or train into La Spezia or Levanto, then use the local regional train
+      — it connects all five villages in a few minutes each and is far easier
+      than driving, since car access into village centers is restricted.
+  - q: How much does it cost to visit?
+    a: >-
+      The park itself is free and open 24 hours, but a Cinque Terre card (sold
+      at train stations) covers trail access fees and unlimited train travel
+      between villages for the day — check current pricing at the station before
+      you go.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, it stays calm from 7am to 6pm; the crowds build hard between
+      1pm and 11pm as day-trippers pour in, so aim for an early start.
+  - q: How long should I spend in Cinque Terre?
+    a: >-
+      A single day lets you see two or three villages comfortably by train; two
+      days gives you time to actually hike sections of the coastal trail and
+      linger over a sunset in Manarola or Vernazza.
+  - q: Are the coastal hiking trails open?
+    a: >-
+      Parts of the Sentiero Azzurro (Blue Trail) have closed periodically due to
+      landslides — the Manarola–Riomaggiore stretch (Via dell'Amore) is usually
+      the first to reopen. Check official park trail status before setting out.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

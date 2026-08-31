@@ -1,23 +1,32 @@
 ---
 title: 'King Mangrai Monument: Chiang Rai Travel Guide (4.7★)'
-description: The King Mangrai Monument is a small but locally significant shrine in central Chiang Rai honoring the Lanna king who founded the city in 1262 — worth a 15-20 minute stop on your way between the Clock Tower and the night bazaar. 4.7★ (3,522 reviews) — what visitors say, hours, and tips.
+description: >-
+  The King Mangrai Monument is a small but locally significant shrine in central
+  Chiang Rai honoring the Lanna king who founded the city in 1262 — worth a
+  15-20 minute stop on your way between the Clock Tower and the night bazaar.
+  4.7★ (3,530 reviews) — what visitors say, hours, and tips.
 country: Thailand
 region: Chiang Rai
 category: attraction
 pubDate: '2026-08-05T11:51:14.155Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_03.jpg/1920px-King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_03.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_03.jpg/1920px-King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_%28October_2021%29_-_img_03.jpg
   credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_(October_2021)_-_img_03.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:King_Mangrai_Monument_%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AF_(October_2021)_-_img_03.jpg
 gallery: []
 place:
   id: ChIJueefTFkG1zARV-YVkrcE050
   name: King Mangrai Monument
-  address: WR6R+536 ถนน ห้าแยก Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000, Thailand
+  address: >-
+    WR6R+536 ถนน ห้าแยก Tambon Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang
+    Rai 57000, Thailand
   rating: 4.7
-  userRatingsTotal: 3522
-  googleMapsUrl: https://maps.google.com/?cid=11372438670517069399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 3530
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11372438670517069399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 19.910419599999997
   lng: 99.84015470000001
@@ -45,20 +54,41 @@ place:
 tags:
   - chiang rai
   - historic site
-quickAnswer: The King Mangrai Monument is a small but locally significant shrine in central Chiang Rai honoring the Lanna king who founded the city in 1262 — worth a 15-20 minute stop on your way between the Clock Tower and the night bazaar. Go between 7am and 8am on any day of the week if you want the site to yourself, since it fills with worshippers and traffic from mid-morning through the evening on weekends.
+quickAnswer: >-
+  The King Mangrai Monument is a small but locally significant shrine in central
+  Chiang Rai honoring the Lanna king who founded the city in 1262 — worth a
+  15-20 minute stop on your way between the Clock Tower and the night bazaar. Go
+  between 7am and 8am on any day of the week if you want the site to yourself,
+  since it fills with worshippers and traffic from mid-morning through the
+  evening on weekends.
 faq:
   - q: How much time should I spend at the King Mangrai Monument?
-    a: Most visitors spend 10-20 minutes here — it's a compact statue and plaza, best combined with a longer walk through downtown Chiang Rai rather than visited on its own.
+    a: >-
+      Most visitors spend 10-20 minutes here — it's a compact statue and plaza,
+      best combined with a longer walk through downtown Chiang Rai rather than
+      visited on its own.
   - q: What is the quietest time to visit?
-    a: Both weekdays and weekends are quietest between 7am and 8am. On weekends, crowds and traffic stay heavy from 10am until as late as 10pm, so avoid that window if you want a calmer visit.
+    a: >-
+      Both weekdays and weekends are quietest between 7am and 8am. On weekends,
+      crowds and traffic stay heavy from 10am until as late as 10pm, so avoid
+      that window if you want a calmer visit.
   - q: Is there an entrance fee?
-    a: No, the monument is a public shrine at an open traffic junction with no ticket booth or admission charge.
+    a: >-
+      No, the monument is a public shrine at an open traffic junction with no
+      ticket booth or admission charge.
   - q: How do I get there without a car?
-    a: It's centrally located in Chiang Rai's old city near the Clock Tower, reachable on foot from most downtown hotels, or by scooter or songthaew (shared red truck) if you're staying further out.
+    a: >-
+      It's centrally located in Chiang Rai's old city near the Clock Tower,
+      reachable on foot from most downtown hotels, or by scooter or songthaew
+      (shared red truck) if you're staying further out.
   - q: What else is nearby?
-    a: The Chiang Rai Clock Tower and the night bazaar/walking street area are both within easy walking distance, making it simple to combine with an evening stroll.
+    a: >-
+      The Chiang Rai Clock Tower and the night bazaar/walking street area are
+      both within easy walking distance, making it simple to combine with an
+      evening stroll.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

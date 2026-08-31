@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chiang-rai-baan-dam-museum
-srcHash: '95fbb93749bd'
+srcHash: 'ca4885e90ff2'
 title: 黑屋博物馆(Baan Dam Museum):清莱旅行指南(4.1★)
-description: 黑屋博物馆(Baan Dam Museum，又称“黑屋”)位于清莱市以北约13公里的南莱(Nang Lae)，最好在开馆后第一时间前往，而不是选在周末人流高峰的下午1点到4点。4.1★(13,784条评价)——游客怎么说、开放时间与实用建议。
+description: 黑屋博物馆(Baan Dam Museum，又称“黑屋”)位于清莱市以北约13公里的南莱(Nang Lae)，最好在开馆后第一时间前往，而不是选在周末人流高峰的下午1点到4点。4.1★(13,854条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 黑屋博物馆(Baan Dam Museum，又称“黑屋”)位于清莱市以北约13公里的南莱(Nang Lae)，最好在开馆后第一时间前往，而不是选在周末人流高峰的下午1点到4点。建议留出1.5到2小时，游览这里约40座由已故艺术家探纳·杜差内(Thawan Duchanee)打造的深色柚木建筑，内部陈设着动物骨骸、皮革和雕刻作品。可以将它与同一条路上的白庙(Wat Rong Khun)搭配，安排一个半天的行程。
 faq:
   - q: 在黑屋博物馆应该花多长时间游览？

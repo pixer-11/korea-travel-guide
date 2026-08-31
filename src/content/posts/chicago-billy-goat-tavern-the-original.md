@@ -1,28 +1,37 @@
 ---
 title: 'Billy Goat Tavern (The Original): Where to Eat in Chicago'
-description: Head to the original Billy Goat Tavern below Michigan Avenue on a weekday morning between 7am and 10am, when the grill is just firing up and the famous underground room is nearly empty. 4.5★ (6,044 reviews) — what visitors say, hours, and tips.
+description: >-
+  Head to the original Billy Goat Tavern below Michigan Avenue on a weekday
+  morning between 7am and 10am, when the grill is just firing up and the famous
+  underground room is nearly empty. 4.5★ (6,121 reviews) — what visitors say,
+  hours, and tips.
 country: United States
 region: Chicago
 category: restaurant
 pubDate: '2026-08-03T11:01:35.921Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg/1920px-Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg/1920px-Billy_Goat_Tavern_%28430_North_Michigan_Avenue%2C_Chicago%2C_Illinois%29_001.jpg
   credit: 'Photo: Leonard J. DeFrancisci / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Billy_Goat_Tavern_(430_North_Michigan_Avenue,_Chicago,_Illinois)_001.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Billy_Goat_Tavern_(430_North_Michigan_Avenue,_Chicago,_Illinois)_001.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Billy_Goat_Tavern_and_Grill%2C_Original_Location%2C_430_North_Michigan_Avenue%2C_Chicago%2C_IL.jpg/3840px-Billy_Goat_Tavern_and_Grill%2C_Original_Location%2C_430_North_Michigan_Avenue%2C_Chicago%2C_IL.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Billy_Goat_Tavern_and_Grill%2C_Original_Location%2C_430_North_Michigan_Avenue%2C_Chicago%2C_IL.jpg/3840px-Billy_Goat_Tavern_and_Grill%2C_Original_Location%2C_430_North_Michigan_Avenue%2C_Chicago%2C_IL.jpg
     credit: 'Photo: Spatms / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Billy_Goat_Tavern_and_Grill,_Original_Location,_430_North_Michigan_Avenue,_Chicago,_IL.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Billy_Goat_Tavern_and_Grill,_Original_Location,_430_North_Michigan_Avenue,_Chicago,_IL.jpg
 place:
   id: ChIJH58hH6wsDogRMwsr0TdEj4U
   name: Billy Goat Tavern (The Original)
-  address: Lower 430 North, N Michigan Ave, Chicago, IL 60611, USA
+  address: 'Lower 430 North, N Michigan Ave, Chicago, IL 60611, USA'
   rating: 4.5
-  userRatingsTotal: 6044
+  userRatingsTotal: 6121
   priceLevel: 1
-  googleMapsUrl: https://maps.google.com/?cid=9623985935237188403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9623985935237188403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.8903294
   lng: -87.6246338
@@ -64,20 +73,42 @@ place:
 tags:
   - chicago
   - street food
-quickAnswer: Head to the original Billy Goat Tavern below Michigan Avenue on a weekday morning between 7am and 10am, when the grill is just firing up and the famous underground room is nearly empty. Order a "cheezborger" (or two), a bag of chips, and a Coke — cash or card both work, it's cash-friendly but not cash-only, and the whole visit costs less than a sit-down lunch elsewhere in the Loop. Budget 30–45 minutes; it's a stand-and-eat counter experience, not a leisurely sit-down meal.
+quickAnswer: >-
+  Head to the original Billy Goat Tavern below Michigan Avenue on a weekday
+  morning between 7am and 10am, when the grill is just firing up and the famous
+  underground room is nearly empty. Order a "cheezborger" (or two), a bag of
+  chips, and a Coke — cash or card both work, it's cash-friendly but not
+  cash-only, and the whole visit costs less than a sit-down lunch elsewhere in
+  the Loop. Budget 30–45 minutes; it's a stand-and-eat counter experience, not a
+  leisurely sit-down meal.
 faq:
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings between 7am and 10am are the quietest window based on measured foot traffic. Weekends stay busy most of the day, with the heaviest crowds from noon to 10pm.
+    a: >-
+      Weekday mornings between 7am and 10am are the quietest window based on
+      measured foot traffic. Weekends stay busy most of the day, with the
+      heaviest crowds from noon to 10pm.
   - q: How do I get to the original Billy Goat Tavern?
-    a: It's on the lower level of North Michigan Avenue near the Wrigley Building and Michigan Avenue Bridge — look for a stairwell marked for Lower Michigan Avenue. The Grand and Chicago CTA Red/Brown/Purple Line stops are each about a 10-12 minute walk.
+    a: >-
+      It's on the lower level of North Michigan Avenue near the Wrigley Building
+      and Michigan Avenue Bridge — look for a stairwell marked for Lower
+      Michigan Avenue. The Grand and Chicago CTA Red/Brown/Purple Line stops are
+      each about a 10-12 minute walk.
   - q: What should I order?
-    a: The double cheeseburger ('cheezborger') with a side of chips and a soda is the classic order. There are no french fries on the menu, only chips.
+    a: >-
+      The double cheeseburger ('cheezborger') with a side of chips and a soda is
+      the classic order. There are no french fries on the menu, only chips.
   - q: How much does it cost and how do I pay?
-    a: It's a budget-friendly, fast-food-style counter — expect to pay well under what a sit-down burger place charges. Both cash and card are accepted.
+    a: >-
+      It's a budget-friendly, fast-food-style counter — expect to pay well under
+      what a sit-down burger place charges. Both cash and card are accepted.
   - q: How long should I plan to stay?
-    a: Most visits run 30-45 minutes — it's a stand-and-eat or quick-table counter, not a lingering sit-down meal, and it's a popular stop so tables turn over fast.
+    a: >-
+      Most visits run 30-45 minutes — it's a stand-and-eat or quick-table
+      counter, not a lingering sit-down meal, and it's a popular stop so tables
+      turn over fast.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

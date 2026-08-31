@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiang-mai-wat-phra-singh-woramahawihan
-srcHash: '16d4aacf3d6f'
+srcHash: 'f3aef4c291c4'
 title: 'Wat Phra Singh Woramahawihan: Guía de viaje de Chiang Mai (4.7★)'
-description: 'Wat Phra Singh, en la ciudad antigua (Old City) de Chiang Mai, en Samlarn Road, es uno de los templos más importantes de la ciudad, hogar de la venerada imagen de Buda Phra Singh y de los exquisitos murales de la capilla Lai Kham. 4.7★ (17,528 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Wat Phra Singh, en la ciudad antigua (Old City) de Chiang Mai, en Samlarn Road, es uno de los templos más importantes de la ciudad, hogar de la venerada imagen de Buda Phra Singh y de los exquisitos murales de la capilla Lai Kham. 4.7★ (17,577 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Wat Phra Singh, en la ciudad antigua (Old City) de Chiang Mai, en Samlarn Road, es uno de los templos más importantes de la ciudad, hogar de la venerada imagen de Buda Phra Singh y de los exquisitos murales de la capilla Lai Kham. Ve justo a la apertura, entre las 7am y las 8am, cuando hay menos gente tanto entre semana como el fin de semana. Abre todos los días de 5:30am a 7:30pm (los domingos hasta las 11pm), y con una hora es suficiente para ver lo más destacado.
 faq:
   - q: ¿Cuánto cuesta entrar a Wat Phra Singh?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cinque-terre-parco-nazionale-delle-cinque-terre
-srcHash: 'a7611e50de11'
+srcHash: '3ea92f8d216d'
 title: 'Parque Nacional de Cinque Terre: Guía de viaje (4,7★)'
-description: 'El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. 4,7★ (46.754 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. 4,7★ (46.756 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Cinque Terre está formado por cinco pueblos colgados de los acantilados —Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore— unidos por senderos, trenes y barcos a lo largo de la costa protegida de Liguria. Está abierto las 24 horas, pero para una visita más tranquila conviene ir los fines de semana por la mañana, entre las 7:00 y las 18:00; evita la avalancha de gente entre las 13:00 y las 23:00 los fines de semana. Dedícale un día completo como mínimo, y dos si quieres realmente recorrer los senderos.
 faq:
   - q: ¿Cómo se llega a Cinque Terre y cómo se va de un pueblo a otro?

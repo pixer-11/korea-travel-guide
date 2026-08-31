@@ -1,31 +1,39 @@
 ---
 title: 'The Baristro Asian Style: Chiang Mai Travel Guide'
-description: The Baristro Asian Style is a photogenic café-restaurant on Suthep Road in Chiang Mai's university district, known for its jungle-like plant-filled dining hall, Thai-fusion plates, and strong specialty coffee.
+description: >-
+  The Baristro Asian Style is a photogenic café-restaurant on Suthep Road in
+  Chiang Mai's university district, known for its jungle-like plant-filled
+  dining hall, Thai-fusion plates, and strong specialty coffee.
 country: Thailand
 region: Chiang Mai
 category: trendy
 pubDate: '2026-07-22T09:20:35.379Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6752082_29QmWLDBx5muL9kjApjzkCdVgZfHgYVSyahB9BW7mT8.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/6752082_29QmWLDBx5muL9kjApjzkCdVgZfHgYVSyahB9BW7mT8.jpg
   credit: 'Photo: Foursquare user content (The Baristro Asian Style)'
   license: foursquare
-  source: https://foursquare.com/v/60a335ab2f37f100613f2ec1
+  source: 'https://foursquare.com/v/60a335ab2f37f100613f2ec1'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/148341270_qSc6DotSmV5dXZgx4vNvPJIrseeb-1qx7cX5xCkZ3O0.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/148341270_qSc6DotSmV5dXZgx4vNvPJIrseeb-1qx7cX5xCkZ3O0.jpg
     credit: 'Photo: Foursquare user content (The Baristro Asian Style)'
     license: foursquare
-    source: https://foursquare.com/v/60a335ab2f37f100613f2ec1
+    source: 'https://foursquare.com/v/60a335ab2f37f100613f2ec1'
 place:
   id: ChIJ9T2bGy872jARyAyAWix9M0o
   name: The Baristro Asian Style
-  address: สุเทพ, 200 Suthep Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand
+  address: >-
+    สุเทพ, 200 Suthep Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat
+    Chiang Mai 50200, Thailand
   rating: 4.7
-  userRatingsTotal: 3114
+  userRatingsTotal: 3252
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=5346754812069285064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5346754812069285064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.789947899999998
   lng: 98.9516702
@@ -59,20 +67,41 @@ place:
 tags:
   - chiang mai
   - trendy cafe
-quickAnswer: The Baristro Asian Style is a photogenic café-restaurant on Suthep Road in Chiang Mai's university district, known for its jungle-like plant-filled dining hall, Thai-fusion plates, and strong specialty coffee. Go on a weekday morning or mid-afternoon to beat the crowds that build up on weekends, and budget a mid-range bill (roughly ฿300–600 per person) for the setting and food quality. It pairs well with a Suthep-side loop that includes Wat Umong and the road up to Doi Suthep.
+quickAnswer: >-
+  The Baristro Asian Style is a photogenic café-restaurant on Suthep Road in
+  Chiang Mai's university district, known for its jungle-like plant-filled
+  dining hall, Thai-fusion plates, and strong specialty coffee. Go on a weekday
+  morning or mid-afternoon to beat the crowds that build up on weekends, and
+  budget a mid-range bill (roughly ฿300–600 per person) for the setting and food
+  quality. It pairs well with a Suthep-side loop that includes Wat Umong and the
+  road up to Doi Suthep.
 faq:
   - q: How do I get to The Baristro Asian Style without a car?
-    a: Use a Grab ride-hailing app (widely used in Chiang Mai) or a red songthaew taxi. It's on Suthep Rd near Chiang Mai University, about 15–20 minutes from the Old City moat.
+    a: >-
+      Use a Grab ride-hailing app (widely used in Chiang Mai) or a red songthaew
+      taxi. It's on Suthep Rd near Chiang Mai University, about 15–20 minutes
+      from the Old City moat.
   - q: How much does a meal cost?
-    a: It sits at a mid-to-upper price level for Chiang Mai (price tier 3 of 4), so expect roughly ฿300–600 per person for coffee plus a fusion dish, more if you order multiple plates.
+    a: >-
+      It sits at a mid-to-upper price level for Chiang Mai (price tier 3 of 4),
+      so expect roughly ฿300–600 per person for coffee plus a fusion dish, more
+      if you order multiple plates.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings (9–11am) or mid-afternoon on weekdays are quietest; weekends and the 12–1:30pm lunch rush tend to draw the biggest crowds given its popularity.
+    a: >-
+      Weekday mornings (9–11am) or mid-afternoon on weekdays are quietest;
+      weekends and the 12–1:30pm lunch rush tend to draw the biggest crowds
+      given its popularity.
   - q: How long should I plan to stay?
-    a: About an hour for coffee and photos of the plant-filled interior, or 90 minutes to 2 hours for a full sit-down meal.
+    a: >-
+      About an hour for coffee and photos of the plant-filled interior, or 90
+      minutes to 2 hours for a full sit-down meal.
   - q: What else can I combine with a visit?
-    a: It's close to Wat Umong's forest temple, Chiang Mai University's Ang Kaew reservoir, and the road up to Doi Suthep, making it a good stop on a Suthep-side half-day itinerary.
+    a: >-
+      It's close to Wat Umong's forest temple, Chiang Mai University's Ang Kaew
+      reservoir, and the road up to Doi Suthep, making it a good stop on a
+      Suthep-side half-day itinerary.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-31'
 ---
 ## Why go
 

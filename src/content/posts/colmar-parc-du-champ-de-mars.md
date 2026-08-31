@@ -1,37 +1,42 @@
 ---
-title: "Parc du Champ de Mars: Colmar Travel Guide (4.5★)"
-description: "Parc du Champ de Mars is Colmar's main green space, a few minutes' walk east of the Old Town on Avenue de la République, open around the clock. 4.5★ (7,290 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Colmar"
-category: "hidden-gem"
-pubDate: "2026-08-15T08:02:08.276Z"
+title: 'Parc du Champ de Mars: Colmar Travel Guide (4.5★)'
+description: >-
+  Parc du Champ de Mars is Colmar's main green space, a few minutes' walk east
+  of the Old Town on Avenue de la République, open around the clock. 4.5★ (7,330
+  reviews) — what visitors say, hours, and tips.
+country: France
+region: Colmar
+category: hidden-gem
+pubDate: '2026-08-15T08:02:08.276Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Parc_du_Champ-de-Mars_%28Colmar%29.jpg/3840px-Parc_du_Champ-de-Mars_%28Colmar%29.jpg"
-  credit: "Photo: Gzen92 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parc_du_Champ-de-Mars_(Colmar).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Parc_du_Champ-de-Mars_%28Colmar%29.jpg/3840px-Parc_du_Champ-de-Mars_%28Colmar%29.jpg
+  credit: 'Photo: Gzen92 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Parc_du_Champ-de-Mars_(Colmar).jpg'
 gallery: []
 place:
-  id: "ChIJQfNUcd1lkUcRUujA-3Ryxdg"
-  name: "Parc du Champ de Mars"
-  address: "Av. de la République, 68000 Colmar, France"
+  id: ChIJQfNUcd1lkUcRUujA-3Ryxdg
+  name: Parc du Champ de Mars
+  address: 'Av. de la République, 68000 Colmar, France'
   rating: 4.5
-  userRatingsTotal: 7290
-  googleMapsUrl: "https://maps.google.com/?cid=15620016729369929810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7330
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15620016729369929810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.0755942
   lng: 7.3527754
-  phone: "+33 3 89 20 68 92"
+  phone: +33 3 89 20 68 92
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -52,24 +57,39 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_6764787952332d416a75555263556b6c316463554e66514a496843"
+    venueId: ven_6764787952332d416a75555263556b6c316463554e66514a496843
 tags:
-  - "colmar"
-  - "hidden gem"
-quickAnswer: "Parc du Champ de Mars is Colmar's main green space, a few minutes' walk east of the Old Town on Avenue de la République, open around the clock. It's calmest on weekday mornings between 7am and 8am (7am–9am on weekends); avoid the crowds that build from noon to 9pm on weekend days. Budget 30–60 minutes for a stroll, longer if you bring kids for the playground."
+  - colmar
+  - hidden gem
+quickAnswer: >-
+  Parc du Champ de Mars is Colmar's main green space, a few minutes' walk east
+  of the Old Town on Avenue de la République, open around the clock. It's
+  calmest on weekday mornings between 7am and 8am (7am–9am on weekends); avoid
+  the crowds that build from noon to 9pm on weekend days. Budget 30–60 minutes
+  for a stroll, longer if you bring kids for the playground.
 faq:
-  - q: "How do I get to Parc du Champ de Mars from central Colmar?"
-    a: "It's about a 10–15 minute walk east of the Old Town along Avenue de la République — no bus or ticket needed."
-  - q: "What are the opening hours?"
-    a: "The park is open 24 hours every day, so there's no specific opening or closing time to plan around."
-  - q: "When is it quietest?"
-    a: "Weekday mornings between 7am and 8am are calmest; on weekends the quiet window runs 7am to 9am. Avoid weekend afternoons from noon to 9pm, when it's busiest."
-  - q: "How much time should I spend there?"
-    a: "30 to 45 minutes covers the main paths, fountain and statues; add extra time if you're visiting with kids for the playground."
-  - q: "Is there an entry fee?"
-    a: "No, it's a free, open public park with no ticket or reservation required."
+  - q: How do I get to Parc du Champ de Mars from central Colmar?
+    a: >-
+      It's about a 10–15 minute walk east of the Old Town along Avenue de la
+      République — no bus or ticket needed.
+  - q: What are the opening hours?
+    a: >-
+      The park is open 24 hours every day, so there's no specific opening or
+      closing time to plan around.
+  - q: When is it quietest?
+    a: >-
+      Weekday mornings between 7am and 8am are calmest; on weekends the quiet
+      window runs 7am to 9am. Avoid weekend afternoons from noon to 9pm, when
+      it's busiest.
+  - q: How much time should I spend there?
+    a: >-
+      30 to 45 minutes covers the main paths, fountain and statues; add extra
+      time if you're visiting with kids for the playground.
+  - q: Is there an entry fee?
+    a: 'No, it''s a free, open public park with no ticket or reservation required.'
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

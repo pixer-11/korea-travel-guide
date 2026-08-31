@@ -1,28 +1,35 @@
 ---
-title: "Baan Dam Museum: Chiang Rai Travel Guide (4.1★)"
-description: "Baan Dam Museum (the \"Black House\") sits about 13km north of Chiang Rai city in Nang Lae, and is best tackled first thing after opening rather than early afternoon, when weekend crowds peak between 1pm and 4pm. 4.1★ (13,784 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Chiang Rai"
-category: "attraction"
-pubDate: "2026-08-05T11:20:40.202Z"
+title: 'Baan Dam Museum: Chiang Rai Travel Guide (4.1★)'
+description: >-
+  Baan Dam Museum (the "Black House") sits about 13km north of Chiang Rai city
+  in Nang Lae, and is best tackled first thing after opening rather than early
+  afternoon, when weekend crowds peak between 1pm and 4pm. 4.1★ (13,854 reviews)
+  — what visitors say, hours, and tips.
+country: Thailand
+region: Chiang Rai
+category: attraction
+pubDate: '2026-08-05T11:20:40.202Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg/1920px-Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg"
-  credit: "Photo: Szwendam się / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Muzeum_Baan_Dam,_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai,_Tajlandia.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg/1920px-Muzeum_Baan_Dam%2C_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai%2C_Tajlandia.jpg
+  credit: 'Photo: Szwendam się / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Muzeum_Baan_Dam,_nazywane_%E2%80%9ECzarnym_Domem%E2%80%9D_w_Chiang_Rai,_Tajlandia.jpg
 gallery: []
 place:
-  id: "ChIJAQAAAFAA1zARlrvp9yTMeoE"
-  name: "Baan Dam Museum"
-  address: "333 Tambon Nang Lae, อำเภอเมือง Chang Wat Chiang Rai 57100, Thailand"
+  id: ChIJAQAAAFAA1zARlrvp9yTMeoE
+  name: Baan Dam Museum
+  address: '333 Tambon Nang Lae, อำเภอเมือง Chang Wat Chiang Rai 57100, Thailand'
   rating: 4.1
-  userRatingsTotal: 13784
-  googleMapsUrl: "https://maps.google.com/?cid=9329994037201582998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13854
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9329994037201582998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.992037
   lng: 99.8607523
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -38,24 +45,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_456f654d5479397076726c52417a3141414641414151414a496843"
+    venueId: ven_456f654d5479397076726c52417a3141414641414151414a496843
 tags:
-  - "chiang rai"
-  - "museum"
-quickAnswer: "Baan Dam Museum (the \"Black House\") sits about 13km north of Chiang Rai city in Nang Lae, and is best tackled first thing after opening rather than early afternoon, when weekend crowds peak between 1pm and 4pm. Budget 1.5–2 hours to wander its roughly 40 dark teak structures filled with animal bones, skins and carvings by the late Thawan Duchanee. Pair it with Wat Rong Khun (White Temple) on the same road for a full half-day loop."
+  - chiang rai
+  - museum
+quickAnswer: >-
+  Baan Dam Museum (the "Black House") sits about 13km north of Chiang Rai city
+  in Nang Lae, and is best tackled first thing after opening rather than early
+  afternoon, when weekend crowds peak between 1pm and 4pm. Budget 1.5–2 hours to
+  wander its roughly 40 dark teak structures filled with animal bones, skins and
+  carvings by the late Thawan Duchanee. Pair it with Wat Rong Khun (White
+  Temple) on the same road for a full half-day loop.
 faq:
-  - q: "How long should I spend at Baan Dam Museum?"
-    a: "Plan on 1.5 to 2 hours to walk through the roughly 40 buildings at a comfortable pace; photographers may want longer."
-  - q: "When is the quietest time to visit?"
-    a: "Foot traffic data shows it's calmest between 9am and 6pm on both weekdays and weekends. On weekends specifically, avoid 1pm–4pm, when crowds peak."
-  - q: "How do I get to Baan Dam from Chiang Rai city?"
-    a: "It's about a 20–25 minute drive north in Nang Lae. Most visitors go by rented scooter, car, or a hired driver/tour, often combined with the White Temple and Blue Temple."
-  - q: "Is Baan Dam Museum worth visiting alongside the White Temple?"
-    a: "Yes — both are on the northern side of Chiang Rai and are commonly combined into a half-day loop with the Blue Temple (Wat Rong Suea Ten)."
-  - q: "Do I need to book tickets in advance?"
-    a: "No advance booking is needed; entry is paid at the gate on arrival. Carry cash in case card payment isn't available."
+  - q: How long should I spend at Baan Dam Museum?
+    a: >-
+      Plan on 1.5 to 2 hours to walk through the roughly 40 buildings at a
+      comfortable pace; photographers may want longer.
+  - q: When is the quietest time to visit?
+    a: >-
+      Foot traffic data shows it's calmest between 9am and 6pm on both weekdays
+      and weekends. On weekends specifically, avoid 1pm–4pm, when crowds peak.
+  - q: How do I get to Baan Dam from Chiang Rai city?
+    a: >-
+      It's about a 20–25 minute drive north in Nang Lae. Most visitors go by
+      rented scooter, car, or a hired driver/tour, often combined with the White
+      Temple and Blue Temple.
+  - q: Is Baan Dam Museum worth visiting alongside the White Temple?
+    a: >-
+      Yes — both are on the northern side of Chiang Rai and are commonly
+      combined into a half-day loop with the Blue Temple (Wat Rong Suea Ten).
+  - q: Do I need to book tickets in advance?
+    a: >-
+      No advance booking is needed; entry is paid at the gate on arrival. Carry
+      cash in case card payment isn't available.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

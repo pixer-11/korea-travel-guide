@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: colmar-la-petite-venise
-srcHash: 'a2596a2d1e7f'
+srcHash: 'a5ca64841944'
 title: '라 프티트 베니스: 콜마르 여행 가이드 (4.7★)'
-description: 라 프티트 베니스(La Petite Venise)는 콜마르 구시가지의 운하 지구로, 켸 드 라 푸아소느리(Quai de la Poissonnerie)를 따라 걸으며, 또는 평저선 보트 투어로 둘러보기 좋습니다. 4.7★ (리뷰 56,763개) — 방문객들의 후기, 운영 시간, 팁을 확인하세요.
+description: 라 프티트 베니스(La Petite Venise)는 콜마르 구시가지의 운하 지구로, 켸 드 라 푸아소느리(Quai de la Poissonnerie)를 따라 걸으며, 또는 평저선 보트 투어로 둘러보기 좋습니다. 4.7★ (리뷰 57,271개) — 방문객들의 후기, 운영 시간, 팁을 확인하세요.
 quickAnswer: 라 프티트 베니스는 콜마르 구시가지의 운하 지구로, 켸 드 라 푸아소느리(Quai de la Poissonnerie)를 따라 걸으며, 또는 평저선 보트 투어로 둘러보기 좋습니다. 하루 종일, 매일 개방되어 있으며 동네 자체를 둘러보는 데는 입장권이 필요 없습니다 — 낮 시간대에 몰리는 인파를 피하려면 이른 아침이나 저녁 식사 이후에 방문하세요.
 faq:
   - q: 라 프티트 베니스에 입장료가 있나요?

@@ -1,27 +1,34 @@
 ---
 title: 'Hiyodori-Zaka: Chiba Travel Guide'
-description: Hiyodori-Zaka is a narrow, hedge-lined samurai-era slope in the old castle town of Sakura, Chiba — about a 15-minute walk from Keisei-Sakura Station.
+description: >-
+  Hiyodori-Zaka is a narrow, hedge-lined samurai-era slope in the old castle
+  town of Sakura, Chiba — about a 15-minute walk from Keisei-Sakura Station.
 country: Japan
 region: Chiba
 category: hidden-gem
 pubDate: '2026-07-27T10:57:53.296Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_01.jpg
   credit: 'Photo: Higa4 / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_01.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_01.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_03.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_03.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_03.jpg/1920px-Hiyodori-zaka_%28J%C5%8Dnai-ch%C5%8D%2C_Sakura%29_03.jpg
     credit: 'Photo: Higa4 / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_03.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Hiyodori-zaka_(J%C5%8Dnai-ch%C5%8D,_Sakura)_03.jpg
 place:
   id: ChIJ_ZcESiqPImARMFs8nPxrVUc
   name: Hiyodori-Zaka
-  address: 5-23 Jōnaichō, Sakura, Chiba 285-0017, Japan
+  address: '5-23 Jōnaichō, Sakura, Chiba 285-0017, Japan'
   rating: 4.2
-  userRatingsTotal: 759
-  googleMapsUrl: https://maps.google.com/?cid=5140133282410421040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 770
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5140133282410421040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.7167628
   lng: 140.2221667
@@ -37,20 +44,41 @@ place:
 tags:
   - chiba
   - hidden gem
-quickAnswer: Hiyodori-Zaka is a narrow, hedge-lined samurai-era slope in the old castle town of Sakura, Chiba — about a 15-minute walk from Keisei-Sakura Station. It takes only 20-30 minutes to walk and photograph, so pair it with the nearby former samurai houses and Sakura Castle Ruins Park for a half-day outing. Go on a weekday morning if you want the lane completely to yourself.
+quickAnswer: >-
+  Hiyodori-Zaka is a narrow, hedge-lined samurai-era slope in the old castle
+  town of Sakura, Chiba — about a 15-minute walk from Keisei-Sakura Station. It
+  takes only 20-30 minutes to walk and photograph, so pair it with the nearby
+  former samurai houses and Sakura Castle Ruins Park for a half-day outing. Go
+  on a weekday morning if you want the lane completely to yourself.
 faq:
   - q: How do I get to Hiyodori-Zaka from Tokyo?
-    a: Take the Keisei Main Line to Keisei-Sakura Station (about 70-75 minutes from Keisei-Ueno), then walk roughly 15 minutes uphill into the Jōnaichō district. It's also about 20-30 minutes by train from Narita Airport, making it an easy stopover.
+    a: >-
+      Take the Keisei Main Line to Keisei-Sakura Station (about 70-75 minutes
+      from Keisei-Ueno), then walk roughly 15 minutes uphill into the Jōnaichō
+      district. It's also about 20-30 minutes by train from Narita Airport,
+      making it an easy stopover.
   - q: How much time should I budget?
-    a: The lane itself takes 20-30 minutes to walk and photograph, but plan a half-day if you combine it with the nearby preserved samurai houses and Sakura Castle Ruins Park.
+    a: >-
+      The lane itself takes 20-30 minutes to walk and photograph, but plan a
+      half-day if you combine it with the nearby preserved samurai houses and
+      Sakura Castle Ruins Park.
   - q: Is there an admission fee?
-    a: No, Hiyodori-Zaka is a public street with no entry fee. The nearby former samurai residences do charge a small admission, typically payable in cash.
+    a: >-
+      No, Hiyodori-Zaka is a public street with no entry fee. The nearby former
+      samurai residences do charge a small admission, typically payable in cash.
   - q: When is the best and quietest time to visit?
-    a: Go on a weekday morning for the emptiest lane and best light. Spring and early autumn are the most comfortable seasons; avoid midday in peak summer since the path is unshaded.
+    a: >-
+      Go on a weekday morning for the emptiest lane and best light. Spring and
+      early autumn are the most comfortable seasons; avoid midday in peak summer
+      since the path is unshaded.
   - q: What else is nearby worth seeing?
-    a: The Kyu-Kawara, Kyu-Takahashi, and Kyu-Tashiro samurai houses are a short walk away, along with the National Museum of Japanese History inside Sakura Castle Ruins Park.
+    a: >-
+      The Kyu-Kawara, Kyu-Takahashi, and Kyu-Tashiro samurai houses are a short
+      walk away, along with the National Museum of Japanese History inside
+      Sakura Castle Ruins Park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

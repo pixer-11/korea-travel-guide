@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chicago-medinah-temple
-srcHash: '662cd4fb16b1'
+srcHash: '79641d0aa3e3'
 title: 'Medinah Temple: Guía de viaje de Chicago (4.2★)'
-description: 'Medinah Temple, en 600 N Wabash Ave, en el barrio de River North de Chicago, es hoy la fachada que alberga una tienda Bloomingdale''s Home & Furniture — pero el exterior por sí solo vale la desviación. 4.2★ (316 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Medinah Temple, en 600 N Wabash Ave, en el barrio de River North de Chicago, es hoy la fachada que alberga una tienda Bloomingdale''s Home & Furniture — pero el exterior por sí solo vale la desviación. 4.2★ (322 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Medinah Temple, en 600 N Wabash Ave, en el barrio de River North de Chicago, es hoy la fachada que alberga una tienda Bloomingdale's Home & Furniture — pero el exterior por sí solo vale la desviación. Ve un día de semana entre las 9am y las 5pm (cierra los fines de semana), y detente en Wabash para contemplar las cúpulas moriscas y la terracota antes o después de recorrer el interior.
 faq:
   - q: ¿Medinah Temple está abierto al público?

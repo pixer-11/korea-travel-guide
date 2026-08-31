@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chicago-field-museum
-srcHash: '7e76d3b06e37'
+srcHash: 'd3e334c675ea'
 title: 菲尔德博物馆:芝加哥旅行指南(4.7★)
-description: 工作日一开馆(上午9点)就直奔菲尔德博物馆(Field Museum),你几乎能独享霸王龙苏(Sue the T. rex)。4.7★(31,407条评价)——游客怎么说、开放时间与实用建议。
+description: 工作日一开馆(上午9点)就直奔菲尔德博物馆(Field Museum),你几乎能独享霸王龙苏(Sue the T. rex)。4.7★(31,809条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 工作日一开馆(上午9点)就直奔菲尔德博物馆，你就能在旅行团人潮涌来之前，几乎独享霸王龙苏(Sue the T. rex)、埃及墓室和动物标本展厅。建议预留三到四小时，如果带着孩子想把DNA探索中心(DNA Discovery Center)和古埃及展区都逛透，时间还要更长。周末从上午11点到下午4点人流最密集，所以要么上午9点准时到，要么下午4点后再来，才能按自己的节奏慢慢逛。
 faq:
   - q: 菲尔德博物馆最著名的展品是什么?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cordoba-alcazar-de-los-reyes-cristianos
-srcHash: 'eb7de43fa38f'
+srcHash: '59e94ffd51ed'
 title: 'Alcázar de los Reyes Cristianos: guía de viaje de Córdoba (4,5★)'
-description: 'El Alcázar de los Reyes Cristianos es una fortaleza-palacio mudéjar del siglo XIV situada en el centro de Córdoba, célebre por sus mosaicos romanos, su sarcófago y sus jardines escalonados con estanques. 4,5★ (36.290 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Alcázar de los Reyes Cristianos es una fortaleza-palacio mudéjar del siglo XIV situada en el centro de Córdoba, célebre por sus mosaicos romanos, su sarcófago y sus jardines escalonados con estanques. 4,5★ (36.363 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Alcázar de los Reyes Cristianos es una fortaleza-palacio mudéjar del siglo XIV situada en el centro de Córdoba, célebre por sus mosaicos romanos, su sarcófago y sus jardines escalonados con estanques. Al tratarse de un lugar muy visitado, conviene acudir a la hora de apertura entre semana (de martes a viernes, de 8:00 a 20:00) para evitar aglomeraciones y el calor. Calcule entre 1,5 y 2 horas de visita, incluida la subida a las torres para disfrutar de las vistas desde lo alto.
 faq:
   - q: ¿Cuánto tiempo hay que dedicar a la visita del Alcázar de los Reyes Cristianos?

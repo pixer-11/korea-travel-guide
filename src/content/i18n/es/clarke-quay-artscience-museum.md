@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: clarke-quay-artscience-museum
-srcHash: '202a53cba4d6'
+srcHash: '72daaef263cf'
 title: 'Museo ArtScience: Guía de viaje desde Clarke Quay (4,4★)'
-description: 'El museo ArtScience se encuentra en Marina Bay, a un corto paseo de Clarke Quay cruzando el río, y abre todos los días de 10:00 a 19:00. 4,4★ (18.415 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El museo ArtScience se encuentra en Marina Bay, a un corto paseo de Clarke Quay cruzando el río, y abre todos los días de 10:00 a 19:00. 4,4★ (18.427 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El museo ArtScience se encuentra en Marina Bay, a un corto paseo de Clarke Quay cruzando el río, y abre todos los días de 10:00 a 19:00. Se trata de una parada muy popular, así que conviene llegar justo a la apertura, a las 10:00, o visitarlo entre semana en la franja de 10:00 a 12:00 para evitar las multitudes. Calcule entre dos y tres horas para recorrer sus exposiciones rotativas de diseño, ciencia y tecnología.
 faq:
   - q: ¿Cómo se llega al museo ArtScience desde Clarke Quay?

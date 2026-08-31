@@ -1,30 +1,40 @@
 ---
 title: 'Wat Chedi Luang: Chiang Mai Travel Guide'
-description: Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is a must-see for its massive partially-ruined 15th-century chedi and the city pillar (lak mueang) shrine in its grounds.
+description: >-
+  Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is
+  a must-see for its massive partially-ruined 15th-century chedi and the city
+  pillar (lak mueang) shrine in its grounds.
 country: Thailand
 region: Chiang Mai
 category: attraction
 pubDate: '2026-07-22T09:06:52.507Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg/1920px-20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg/1920px-20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg
   credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wat_Chedi_Luang%2C_Buddhist_temple%2C_Chiang_Mai%2C_Thailand.jpg/1920px-Wat_Chedi_Luang%2C_Buddhist_temple%2C_Chiang_Mai%2C_Thailand.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wat_Chedi_Luang%2C_Buddhist_temple%2C_Chiang_Mai%2C_Thailand.jpg/1920px-Wat_Chedi_Luang%2C_Buddhist_temple%2C_Chiang_Mai%2C_Thailand.jpg
     credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang,_Buddhist_temple,_Chiang_Mai,_Thailand.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang,_Buddhist_temple,_Chiang_Mai,_Thailand.jpg
 place:
   id: ChIJFRQRM5k62jARuqhLBJpw91w
   name: Wat Chedi Luang
-  address: QXPP+QCQ, 103 Prapokklao Road Old City Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand
+  address: >-
+    QXPP+QCQ, 103 Prapokklao Road Old City Tambon Si Phum, Amphoe Mueang Chiang
+    Mai, Chang Wat Chiang Mai 50200, Thailand
   rating: 4.7
-  userRatingsTotal: 18592
-  googleMapsUrl: https://maps.google.com/?cid=6698946777536243898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 18898
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6698946777536243898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.7869693
   lng: 98.9865804
@@ -55,21 +65,42 @@ place:
 tags:
   - chiang mai
   - Chiang Mai Old City Temples
-quickAnswer: Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is a must-see for its massive partially-ruined 15th-century chedi and the city pillar (lak mueang) shrine in its grounds. Plan 45–90 minutes, go early morning or late afternoon to avoid heat and crowds, and combine it with a walk to nearby Wat Phra Singh or the Sunday Walking Street market. Entry is a modest, cash-only fee at the gate — bring small bills and shoulders/knees covered.
+quickAnswer: >-
+  Wat Chedi Luang, in the heart of Chiang Mai's Old City on Prapokklao Road, is
+  a must-see for its massive partially-ruined 15th-century chedi and the city
+  pillar (lak mueang) shrine in its grounds. Plan 45–90 minutes, go early
+  morning or late afternoon to avoid heat and crowds, and combine it with a walk
+  to nearby Wat Phra Singh or the Sunday Walking Street market. Entry is a
+  modest, cash-only fee at the gate — bring small bills and shoulders/knees
+  covered.
 faq:
   - q: How much does it cost to enter Wat Chedi Luang?
-    a: There's a modest entrance fee payable in cash at the gate; exact prices can change, so confirm current rates on arrival, and bring small Thai baht notes since card payment isn't typical.
+    a: >-
+      There's a modest entrance fee payable in cash at the gate; exact prices
+      can change, so confirm current rates on arrival, and bring small Thai baht
+      notes since card payment isn't typical.
   - q: How long should I plan to spend there?
-    a: Most visitors spend 45 minutes to an hour walking the chedi, viharn, and city pillar shrine; add extra time if you want to join a Monk Chat session in the afternoon.
+    a: >-
+      Most visitors spend 45 minutes to an hour walking the chedi, viharn, and
+      city pillar shrine; add extra time if you want to join a Monk Chat session
+      in the afternoon.
   - q: What's the best time of day to visit?
-    a: Early morning right after opening or late afternoon offers cooler temperatures, softer light for photos, and fewer tour groups than midday.
+    a: >-
+      Early morning right after opening or late afternoon offers cooler
+      temperatures, softer light for photos, and fewer tour groups than midday.
   - q: How do I get to Wat Chedi Luang from central Chiang Mai?
-    a: It's inside the Old City on Prapokklao Road, walkable from most Old City accommodation in 10–20 minutes, or a short songthaew/Grab ride (10–15 minutes) from Nimman or the Riverside area.
+    a: >-
+      It's inside the Old City on Prapokklao Road, walkable from most Old City
+      accommodation in 10–20 minutes, or a short songthaew/Grab ride (10–15
+      minutes) from Nimman or the Riverside area.
   - q: What else is nearby?
-    a: Wat Phra Singh, Wat Chiang Man, and the Three Kings Monument are all within a 10–15 minute walk, making it easy to combine into an Old City temple-hopping route.
+    a: >-
+      Wat Phra Singh, Wat Chiang Man, and the Three Kings Monument are all
+      within a 10–15 minute walk, making it easy to combine into an Old City
+      temple-hopping route.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-31'
 ---
 ## Why go
 

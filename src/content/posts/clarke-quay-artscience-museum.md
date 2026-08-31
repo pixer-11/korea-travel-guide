@@ -1,44 +1,51 @@
 ---
-title: "ArtScience Museum: Clarke Quay Travel Guide (4.4★)"
-description: "ArtScience Museum sits at Marina Bay, technically a short walk from Clarke Quay across the river, and it's open daily 10am–7pm. 4.4★ (18,415 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Clarke Quay"
-category: "attraction"
-pubDate: "2026-08-25T08:08:29.657Z"
+title: 'ArtScience Museum: Clarke Quay Travel Guide (4.4★)'
+description: >-
+  ArtScience Museum sits at Marina Bay, technically a short walk from Clarke
+  Quay across the river, and it's open daily 10am–7pm. 4.4★ (18,427 reviews) —
+  what visitors say, hours, and tips.
+country: Singapore
+region: Clarke Quay
+category: attraction
+pubDate: '2026-08-25T08:08:29.657Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1920px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1920px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/3227016_RUP39Lqh6jqGbwRZ_WJ3EEtfinKfDUO0XB1bEImW6DA.jpg"
-    credit: "Photo: Foursquare user content (ArtScience Museum)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b9df38cf964a520ffc336e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/3227016_RUP39Lqh6jqGbwRZ_WJ3EEtfinKfDUO0XB1bEImW6DA.jpg
+    credit: 'Photo: Foursquare user content (ArtScience Museum)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b9df38cf964a520ffc336e3'
 place:
-  id: "ChIJnWdQKQQZ2jERScXuKeFHyIE"
-  name: "ArtScience Museum"
-  address: "6 Bayfront Ave, Singapore 018974"
+  id: ChIJnWdQKQQZ2jERScXuKeFHyIE
+  name: ArtScience Museum
+  address: '6 Bayfront Ave, Singapore 018974'
   rating: 4.4
-  userRatingsTotal: 18415
-  googleMapsUrl: "https://maps.google.com/?cid=9351803658631562569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18427
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9351803658631562569&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2862738
   lng: 103.8592663
-  phone: "+65 6688 8888"
+  phone: +65 6688 8888
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -51,24 +58,44 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_4549794846654b7558635352456a325a51514b5164576e4a496843"
+    venueId: ven_4549794846654b7558635352456a325a51514b5164576e4a496843
 tags:
-  - "clarke quay"
-  - "museum"
-quickAnswer: "ArtScience Museum sits at Marina Bay, technically a short walk from Clarke Quay across the river, and it's open daily 10am–7pm. It's a very popular stop, so aim for the 10am opening or the 10am–12pm weekday window to beat the crowds. Expect to spend two to three hours moving through its rotating design, science and technology exhibitions."
+  - clarke quay
+  - museum
+quickAnswer: >-
+  ArtScience Museum sits at Marina Bay, technically a short walk from Clarke
+  Quay across the river, and it's open daily 10am–7pm. It's a very popular stop,
+  so aim for the 10am opening or the 10am–12pm weekday window to beat the
+  crowds. Expect to spend two to three hours moving through its rotating design,
+  science and technology exhibitions.
 faq:
-  - q: "How do I get to ArtScience Museum from Clarke Quay?"
-    a: "It's about a 20-minute walk along the river promenade, or a quick taxi ride. By MRT, take the Circle or Downtown Line to Bayfront Station, which connects directly to the museum through Marina Bay Sands mall."
-  - q: "What are the opening hours?"
-    a: "ArtScience Museum is open daily from 10am to 7pm, with no variation across the week. Last admission is usually an hour before closing, but confirm this online for specific exhibitions."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and noon are calmest. On weekends, the quiet window is shorter — just 10am to 11am — before crowds build through the afternoon."
-  - q: "How long should I spend there?"
-    a: "Plan for two to three hours if you're seeing two exhibitions, including the popular Future World digital-art gallery. Add extra time if a major touring exhibition is on."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "Marina Bay Sands, Gardens by the Bay's Supertree Grove, the Helix Bridge, and Merlion Park are all within a 5-15 minute walk along the waterfront."
+  - q: How do I get to ArtScience Museum from Clarke Quay?
+    a: >-
+      It's about a 20-minute walk along the river promenade, or a quick taxi
+      ride. By MRT, take the Circle or Downtown Line to Bayfront Station, which
+      connects directly to the museum through Marina Bay Sands mall.
+  - q: What are the opening hours?
+    a: >-
+      ArtScience Museum is open daily from 10am to 7pm, with no variation across
+      the week. Last admission is usually an hour before closing, but confirm
+      this online for specific exhibitions.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 10am and noon are calmest. On weekends, the quiet window
+      is shorter — just 10am to 11am — before crowds build through the
+      afternoon.
+  - q: How long should I spend there?
+    a: >-
+      Plan for two to three hours if you're seeing two exhibitions, including
+      the popular Future World digital-art gallery. Add extra time if a major
+      touring exhibition is on.
+  - q: What's nearby if I want to extend the visit?
+    a: >-
+      Marina Bay Sands, Gardens by the Bay's Supertree Grove, the Helix Bridge,
+      and Merlion Park are all within a 5-15 minute walk along the waterfront.
 aiGenerated: true
 draft: false
+updatedDate: '2026-08-31'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

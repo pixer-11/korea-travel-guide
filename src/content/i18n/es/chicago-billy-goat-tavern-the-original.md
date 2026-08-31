@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chicago-billy-goat-tavern-the-original
-srcHash: 'cd8ad079e258'
+srcHash: '73bee6c692fe'
 title: 'Billy Goat Tavern (el original): dónde comer en Chicago'
-description: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. 4.5★ (6,044 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. 4.5★ (6,121 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Ve al Billy Goat Tavern original, bajo Michigan Avenue, un día entre semana por la mañana, entre las 7am y las 10am, cuando la parrilla apenas se está encendiendo y la famosa sala subterránea está casi vacía. Pide una "cheezborger" (o dos), una bolsa de papas fritas de bolsa y una Coca-Cola: se acepta efectivo y tarjeta, es un lugar cómodo para pagar en efectivo pero no exclusivo de efectivo, y toda la visita cuesta menos que un almuerzo sentado en cualquier otro lugar del Loop. Calcula entre 30 y 45 minutos; es una experiencia de mostrador para comer de pie, no una comida relajada sentado.'
 faq:
   - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: coron-kayangan-lake
-srcHash: '99adabda36e9'
+srcHash: 'e9d0b099d03b'
 title: 卡杨根湖(Kayangan Lake):科隆(Coron)旅行指南(4.7★)
-description: 卡杨根湖常被誉为菲律宾最干净的湖泊之一，坐落在科隆Barangay Banuang Daan上方的石灰岩喀斯特地貌之中，只能乘船并攀爬陡峭的阶梯才能到达。4.7★(553条评价)——游客怎么说、开放时间及实用建议。
+description: 卡杨根湖常被誉为菲律宾最干净的湖泊之一，坐落在科隆Barangay Banuang Daan上方的石灰岩喀斯特地貌之中，只能乘船并攀爬陡峭的阶梯才能到达。4.7★(554条评价)——游客怎么说、开放时间及实用建议。
 quickAnswer: 卡杨根湖常被誉为菲律宾最干净的湖泊之一，坐落在科隆Barangay Banuang Daan上方的石灰岩喀斯特地貌之中，只能乘船并攀爬陡峭的阶梯才能到达。尽量在船家愿意出发的最早时间前往——最好在上午9点前——以避开旅游船的人潮，欣赏湖水最清澈如镜的样子。建议预留半天时间，包括跳岛游的船程，并记得带现金支付环境保护费。
 faq:
   - q: 如何前往卡杨根湖?

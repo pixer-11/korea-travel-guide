@@ -1,43 +1,65 @@
 ---
 title: 'Cloud Gate: Chicago Travel Guide'
-description: Cloud Gate — universally nicknamed \"The Bean\" — sits in AT&T Plaza at the northwest corner of Millennium Park, 201 E Randolph St.
+description: >-
+  Cloud Gate — universally nicknamed \"The Bean\" — sits in AT&T Plaza at the
+  northwest corner of Millennium Park, 201 E Randolph St.
 country: United States
 region: Chicago
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/27331709_IVlEJKmiGf57s05jGa4N7hS1HlDT23pQ7qDxWtC530w.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/27331709_IVlEJKmiGf57s05jGa4N7hS1HlDT23pQ7qDxWtC530w.jpg
   credit: 'Photo: Foursquare user content (Cloud Gate)'
   license: foursquare
-  source: https://foursquare.com/v/4b0850dff964a520da0823e3
+  source: 'https://foursquare.com/v/4b0850dff964a520da0823e3'
 place:
   id: ChIJ9Sszh6YsDogRUUo6zu8_TQY
   name: Cloud Gate
-  address: 201 E Randolph St, Chicago, IL 60602, USA
+  address: '201 E Randolph St, Chicago, IL 60602, USA'
   rating: 4.7
-  userRatingsTotal: 40246
-  googleMapsUrl: https://maps.google.com/?cid=454089436623948369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 41313
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=454089436623948369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.8826572
   lng: -87.6233039
 tags:
   - chicago
   - Millennium Park Cloud Gate
-quickAnswer: Cloud Gate — universally nicknamed "The Bean" — sits in AT&T Plaza at the northwest corner of Millennium Park, 201 E Randolph St. It's free, open 24 hours, and best visited early morning or after sunset to avoid crowds; give it 20–30 minutes, longer if you want photos under the "omphalos" concave underside.
+quickAnswer: >-
+  Cloud Gate — universally nicknamed "The Bean" — sits in AT&T Plaza at the
+  northwest corner of Millennium Park, 201 E Randolph St. It's free, open 24
+  hours, and best visited early morning or after sunset to avoid crowds; give it
+  20–30 minutes, longer if you want photos under the "omphalos" concave
+  underside.
 faq:
   - q: Is there an admission fee for Cloud Gate?
-    a: No. It's a free, outdoor public sculpture in Millennium Park, accessible 24 hours a day.
+    a: >-
+      No. It's a free, outdoor public sculpture in Millennium Park, accessible
+      24 hours a day.
   - q: How do I get to Cloud Gate by public transit?
-    a: Take the CTA Red Line to Lake, or Blue/Brown/Green/Orange/Purple/Pink lines to Washington/Wabash, then walk about 5–10 minutes east into Millennium Park at 201 E Randolph St.
+    a: >-
+      Take the CTA Red Line to Lake, or Blue/Brown/Green/Orange/Purple/Pink
+      lines to Washington/Wabash, then walk about 5–10 minutes east into
+      Millennium Park at 201 E Randolph St.
   - q: How long should I plan to spend there?
-    a: Most visitors spend 20–30 minutes circling and photographing the sculpture; allow more time if you're also touring the rest of Millennium Park.
+    a: >-
+      Most visitors spend 20–30 minutes circling and photographing the
+      sculpture; allow more time if you're also touring the rest of Millennium
+      Park.
   - q: What's the best time to avoid crowds?
-    a: Early weekday mornings before 9 a.m. or around sunset are quietest; midday and summer weekends are the busiest.
+    a: >-
+      Early weekday mornings before 9 a.m. or around sunset are quietest; midday
+      and summer weekends are the busiest.
   - q: What else is nearby worth combining with a visit?
-    a: The Crown Fountain, Jay Pritzker Pavilion, Lurie Garden, and the Art Institute of Chicago (via the Nichols Bridgeway) are all within a few minutes' walk.
+    a: >-
+      The Crown Fountain, Jay Pritzker Pavilion, Lurie Garden, and the Art
+      Institute of Chicago (via the Nichols Bridgeway) are all within a few
+      minutes' walk.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-08-31'
 ---
 ## Why go
 

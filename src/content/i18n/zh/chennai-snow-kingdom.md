@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chennai-snow-kingdom
-srcHash: '07d3c2b3f4f6'
+srcHash: '652bde39006a'
 title: 雪之王国:金奈旅行指南(4.7★)
-description: 雪之王国(Snow Kingdom)是位于金奈东海岸路(East Coast Road)因贾姆巴卡姆(Injambakkam)的室内雪场，紧邻VGP环球王国(VGP Universal Kingdom),拥有真正的人造雪、雪橇滑道和攀爬雪山。4.7★(37,278条评价)——游客怎么说、开放时间及游玩贴士。
+description: 雪之王国(Snow Kingdom)是位于金奈东海岸路(East Coast Road)因贾姆巴卡姆(Injambakkam)的室内雪场，紧邻VGP环球王国(VGP Universal Kingdom),拥有真正的人造雪、雪橇滑道和攀爬雪山。4.7★(37,580条评价)——游客怎么说、开放时间及游玩贴士。
 quickAnswer: 雪之王国是位于金奈东海岸路因贾姆巴卡姆的室内雪场，紧邻VGP环球王国，拥有真正的人造雪、雪橇滑道和攀爬雪山。每天上午10点至晚上8点开放;建议工作日前往，最好一开门就到，因为周末12点到晚上7点之间会非常拥挤。建议预留60-90分钟游玩时间，并采用分层穿衣法，因为金奈室外的高温会让室内的寒冷感更加强烈。
 faq:
   - q: 开放时间是几点?

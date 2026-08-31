@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiang-rai-king-mangrai-monument
-srcHash: 'ccc276e9abcf'
+srcHash: '76bf49ee36a5'
 title: 'Monumento al Rey Mangrai: Guía de viaje de Chiang Rai (4.7★)'
-description: El Monumento al Rey Mangrai es un santuario pequeño pero de gran importancia local en el centro de Chiang Rai, dedicado al rey lanna que fundó la ciudad en 1262. Es una parada de 15-20 minutos ideal en el trayecto entre la Torre del Reloj y el bazar nocturno. Reseñas, horarios y consejos para una valoración de 4.7★ (3,522 opiniones).
+description: El Monumento al Rey Mangrai es un santuario pequeño pero de gran importancia local en el centro de Chiang Rai, dedicado al rey lanna que fundó la ciudad en 1262. Es una parada de 15-20 minutos ideal en el trayecto entre la Torre del Reloj y el bazar nocturno. Reseñas, horarios y consejos para una valoración de 4.7★ (3,530 opiniones).
 quickAnswer: 'En el centro de Chiang Rai, un santuario pequeño pero muy querido por los locales rinde homenaje al rey lanna que fundó la ciudad en 1262: el Monumento al Rey Mangrai. Merece una parada de 15-20 minutos si vas de camino entre la Torre del Reloj y el bazar nocturno. Para tenerlo solo para ti, ve entre las 7 y las 8 de la mañana, cualquier día de la semana, ya que desde media mañana y hasta la noche los fines de semana se llena de fieles y de tráfico.'
 faq:
   - q: ¿Cuánto tiempo conviene dedicarle al Monumento al Rey Mangrai?
