@@ -29,6 +29,10 @@ import { ratingClaimProblems } from './lib/prose-rating-sync.mjs';
 
 const DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 
+// Files the gate could not read at all. Kept separate from `issues` because
+// these are not a post's problem — they are a reason the site will not build.
+export const parseFailures = [];
+
 // A frontmatter date → 'YYYY-MM-DD', whether YAML gave us a quoted string or a
 // parsed Date object (unquoted dates; toISOString is safe — YAML timestamps
 // without a time are read as UTC midnight).
@@ -111,8 +115,20 @@ export function parsePost(f, t) {
   // scalar or a quoted URL reliably, which produced empty urls → a phantom
   // "DUPLICATE image ×N" (all the empties collapsing to one key).
   let fm;
-  try { fm = yaml.load(t.slice(4, t.indexOf('\n---', 3))); } catch { return null; }
-  if (!fm) return null;
+  try {
+    fm = yaml.load(t.slice(4, t.indexOf('\n---', 3)));
+  } catch (e) {
+    // Swallowing this was how a duplicated `draft:` key reached the build on
+    // 2026-08-31: the gate skipped the file, called the corpus clean, and the
+    // site stopped building 40 minutes later with the fix still undelivered.
+    // A file the build cannot read is the loudest finding here, not a quiet one.
+    parseFailures.push(`UNPARSEABLE FRONTMATTER: ${f} — ${String(e.message).split('\n')[0].slice(0, 120)}`);
+    return null;
+  }
+  if (!fm) {
+    parseFailures.push(`EMPTY FRONTMATTER: ${f} — the file has no readable frontmatter block`);
+    return null;
+  }
   if (fm.draft) return null; // unpublished (e.g. quarantined awaiting a real photo) — not on the site
   return {
     f,
@@ -791,9 +807,20 @@ async function main() {
   }
   await tildeWalk(CONTENT_ROOT);
 
-  if (issues.length) {
-    console.log(`❌ ${issues.length} content issue(s) across ${posts.length} posts + ${essCount} essentials:\n`);
-    for (const i of issues) console.log(`  • ${i}`);
+  // Reported first and on its own: a file the build cannot read is not one more
+  // content issue, it is the reason nothing ships. Burying it in a list of
+  // fifty warnings is how it gets skimmed past.
+  if (parseFailures.length) {
+    console.log(`🚨 ${parseFailures.length} file(s) the site cannot read — the build will fail on these:\n`);
+    for (const p of parseFailures) console.log(`  • ${p}`);
+    console.log('');
+  }
+
+  if (issues.length || parseFailures.length) {
+    if (issues.length) {
+      console.log(`❌ ${issues.length} content issue(s) across ${posts.length} posts + ${essCount} essentials:\n`);
+      for (const i of issues) console.log(`  • ${i}`);
+    }
     process.exit(1);
   }
   console.log(`✓ ${posts.length} posts clean — no slash regions, placeholders, dup images, dup places, or near-dup topics.`);

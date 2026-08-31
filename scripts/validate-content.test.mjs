@@ -6,7 +6,7 @@
 // "절대 걸리면 안 되는 것(FP)"을 쌍으로 고정한다.
 //
 //   node scripts/validate-content.test.mjs
-import { postProblems, parsePost, photoVerificationProblems, stubBodyProblems, STUB_BODY_FLOOR } from './validate-content.mjs';
+import { postProblems, parsePost, photoVerificationProblems, stubBodyProblems, STUB_BODY_FLOOR, parseFailures } from './validate-content.mjs';
 
 // 아무 규칙에도 걸리지 않는 건강한 글. 모든 케이스는 여기서 한 필드만 바꾼다 —
 // 그래야 실패했을 때 원인이 그 필드 하나로 좁혀진다.
@@ -267,6 +267,37 @@ cases.push(['MISMATCH 판정은 침묵시키지 않는다', () => {
   const key = `toulouse-museum-de-toulouse${SEP}${OFFTOPIC.url}`;
   const out = run(OFFTOPIC, { verdicts: { [key]: { verdict: 'MISMATCH', reason: 'wrong building' } } });
   return has(out, 'IMAGE MISMATCH') ? null : `놓침: MISMATCH인데 경고가 사라졌다`;
+}]);
+
+// ── 읽을 수 없는 파일은 조용히 건너뛰지 않는다 ─────────────────
+// 2026-08-31: 한 글에 `draft:` 키가 두 번 들어가 YAML 이 깨졌는데, 파서가
+// 던진 예외를 catch 가 삼키고 그 파일을 건너뛰었다. 게이트는 "깨끗하다"고
+// 보고했고, 40분 뒤 빌드가 죽었고, 배포가 멈춰서 그 커밋이 싣고 있던
+// "잘못된 도시" 수정이 독자에게 한 명도 닿지 못했다. 잡으라고 만든 검사기가
+// 돌고도 아무 말을 안 한 것이 사고의 절반이었다.
+//
+// parsePost 는 여전히 null 을 준다(호출부가 그걸 전제로 짜여 있다). 달라진
+// 것은 그 사실이 parseFailures 에 기록돼 보고된다는 점이다.
+cases.push(['깨진 프론트매터를 parseFailures 에 기록한다', () => {
+  const before = parseFailures.length;
+  const dup = '---\ntitle: "x"\ndraft: false\ndraft: true\n---\nbody';
+  const out = parsePost('dup.md', dup);
+  if (out !== null) return 'parsePost 는 계속 null 을 줘야 한다(호출부 전제)';
+  if (parseFailures.length !== before + 1) return '기록되지 않았다 — 예전처럼 조용히 삼킨 것';
+  const last = parseFailures[parseFailures.length - 1];
+  if (!/UNPARSEABLE FRONTMATTER/.test(last)) return `머리말이 다르다: ${last}`;
+  if (!/dup\.md/.test(last)) return `파일명이 없다: ${last}`;
+  if (!/duplicated mapping key/.test(last)) return `원인이 없다: ${last}`;
+  return null;
+}]);
+
+// 반대 방향: 멀쩡한 글은 기록되면 안 된다. 여기가 오탐이면 매 실행이
+// 🚨 로 시작해 진짜 고장을 덮는다.
+cases.push(['정상 글은 parseFailures 를 늘리지 않는다', () => {
+  const before = parseFailures.length;
+  const ok = '---\ntitle: "x"\nregion: "Seoul"\ncategory: "attraction"\n---\nbody';
+  parsePost('ok.md', ok);
+  return parseFailures.length === before ? null : '멀쩡한 글이 파싱 실패로 기록됐다';
 }]);
 
 let fail = 0;
