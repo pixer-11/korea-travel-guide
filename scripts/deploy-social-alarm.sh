@@ -10,6 +10,10 @@
 # Smoke test after deploy (a real dispatch — idempotent, the day guard skips):
 #   curl -X POST -H "Authorization: Bearer <FIRE_KEY>" <worker-url>/fire
 # 200 = GitHub accepted; 502 = GitHub refused (check the PAT first).
+# Since 2026-08-31 /fire wakes all three targets at once (threads-daily plus
+# both watchdogs), so expect three entries back. Each is guarded, so the smoke
+# test costs three no-op runs rather than three days of duplicated work — and
+# the PAT must be able to dispatch the watchdogs too, not just threads-daily.
 # No Telegram secrets on purpose — if the alarm dies, the existing safety net
 # (three GitHub crons + schedule-watchdog) still delivers and the watchdog
 # already telegrams when it rescues, so a worker-side alert would be a

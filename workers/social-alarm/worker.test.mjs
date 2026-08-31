@@ -5,9 +5,17 @@
 // and — after the 2026-08-29 Codex review — the real default handlers: a cron
 // dispatch failure must REJECT (so Cloudflare records it) and /fire must
 // demand POST + Bearer auth and answer 502 when GitHub said no.
+//
+// These tests pass an explicit target list. Since 2026-08-31 the alarm wakes
+// three workflows on four crons, and letting the default fan out here would
+// turn every "one call" assertion into arithmetic about the roster — which is
+// cron-targets.test.mjs's job, not this file's. What is under test here is the
+// shape of a single dispatch and what happens when it fails.
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import worker, { fireDispatches, alertFailures } from './worker.mjs';
+
+const ONE = ['threads-daily.yml'];
 
 const env = {
   GH_DISPATCH_TOKEN: 'tok',
@@ -30,7 +38,7 @@ test('dispatch request has the shape GitHub requires', async () => {
   const results = await fireDispatches(env, async (url, init) => {
     calls.push({ url, init });
     return { status: 204 };
-  });
+  }, ONE);
   assert.equal(calls.length, 1);
   const { url, init } = calls[0];
   assert.match(url, /\/repos\/pixer-11\/korea-travel-guide\/actions\/workflows\/threads-daily\.yml\/dispatches$/);
@@ -44,12 +52,12 @@ test('dispatch request has the shape GitHub requires', async () => {
 });
 
 test('200 with run details also counts as success (newer API versions)', async () => {
-  const results = await fireDispatches(env, async () => ({ status: 200, ok: true }));
+  const results = await fireDispatches(env, async () => ({ status: 200, ok: true }), ONE);
   assert.equal(results[0].ok, true);
 });
 
 test('non-2xx is a failure and alerts Telegram in Korean', async () => {
-  const results = await fireDispatches(env, async () => ({ status: 401, ok: false }));
+  const results = await fireDispatches(env, async () => ({ status: 401, ok: false }), ONE);
   assert.equal(results[0].ok, false);
   const sent = [];
   const failed = await alertFailures(env, results, async (url, init) => {
@@ -66,7 +74,7 @@ test('non-2xx is a failure and alerts Telegram in Korean', async () => {
 });
 
 test('204 stays silent — no Telegram call', async () => {
-  const results = await fireDispatches(env, async () => ({ status: 204 }));
+  const results = await fireDispatches(env, async () => ({ status: 204 }), ONE);
   const failed = await alertFailures(env, results, async () => {
     throw new Error('must not be called on success');
   });
@@ -76,14 +84,14 @@ test('204 stays silent — no Telegram call', async () => {
 test('a thrown fetch becomes a failure result, not a crash', async () => {
   const results = await fireDispatches(env, async () => {
     throw new Error('network down');
-  });
+  }, ONE);
   assert.equal(results[0].ok, false);
   assert.equal(results[0].status, -1);
 });
 
 test('alert survives missing Telegram secrets (bootstrap window)', async () => {
   const bare = { GH_DISPATCH_TOKEN: 'tok' };
-  const results = await fireDispatches(bare, async () => ({ status: 500, ok: false }));
+  const results = await fireDispatches(bare, async () => ({ status: 500, ok: false }), ONE);
   const failed = await alertFailures(bare, results, async () => {
     throw new Error('must not attempt Telegram without secrets');
   });
@@ -93,7 +101,7 @@ test('alert survives missing Telegram secrets (bootstrap window)', async () => {
 test('scheduled rejects when a dispatch fails — Cloudflare must record it', async () => {
   await withGlobalFetch(async () => ({ status: 401, ok: false }), async () => {
     await assert.rejects(
-      worker.scheduled({}, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} }),
+      worker.scheduled({ cron: '30 22 * * *' }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} }),
       /dispatch failed: threads-daily\.yml=401/,
     );
   });
@@ -101,8 +109,19 @@ test('scheduled rejects when a dispatch fails — Cloudflare must record it', as
 
 test('scheduled resolves quietly on success', async () => {
   await withGlobalFetch(async () => ({ status: 204 }), async () => {
-    await worker.scheduled({}, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+    await worker.scheduled({ cron: '30 22 * * *' }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
   });
+});
+
+test('each cron wakes only what it is for — the publish slot does not post to Threads', async () => {
+  const fired = [];
+  await withGlobalFetch(async (url) => {
+    fired.push(url.split('/workflows/')[1].split('/')[0]);
+    return { status: 204 };
+  }, async () => {
+    await worker.scheduled({ cron: '35 10 * * *' }, { GH_DISPATCH_TOKEN: 'tok' }, { waitUntil() {} });
+  });
+  assert.deepEqual(fired, ['publish-watchdog.yml']);
 });
 
 test('/fire refuses GET, query-string keys, and wrong bearer tokens', async () => {

@@ -7,10 +7,23 @@
   // workers.dev URL stays on for the guarded manual test endpoint (Cloudflare
   // offers no "run cron now" button). Unauthenticated visits only see the name.
   "workers_dev": true,
+  // Each cron here must have a matching key in worker.mjs's SCHEDULE, which
+  // decides what it wakes; cron-targets.test.mjs fails if the two drift.
+  // Cloudflare's free plan allows 5 cron triggers PER ACCOUNT and this is the
+  // account's only worker with any — 4 used, 1 spare. Adding a fifth elsewhere
+  // exhausts it, so check here before spending it.
   "triggers": {
     // 22:30 UTC = 07:30 KST next day — five minutes after threads-daily's own
     // first cron (07:25). If GitHub fired on time we queue behind it and the
     // day guard exits; if GitHub dropped the slot (the whole point), we post.
-    "crons": ["30 22 * * *"]
+    // The three that follow wake the WATCHDOGS instead of the work itself:
+    // GitHub was dropping the dogs along with their wards (2026-08-31), and a
+    // punctual schedule-watchdog rescues its entire manifest in one dispatch.
+    "crons": [
+      "30 22 * * *", //  07:30 KST — threads-daily
+      "53 9 * * *", //   18:53 KST — schedule-watchdog (morning roster)
+      "35 10 * * *", //  19:35 KST — publish-watchdog (the 16:19 publish)
+      "23 14 * * *" //   23:23 KST — schedule-watchdog (evening roster)
+    ]
   }
 }
