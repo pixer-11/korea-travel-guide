@@ -1,5 +1,8 @@
 // wa-social-alarm — standalone on purpose: the site worker stays untouched, so
-// a bug here can never take the site down. Deployed by deploy-social-alarm.yml.
+// a bug here can never take the site down. Deployed BY HAND with
+// scripts/deploy-social-alarm.sh — there is no CI workflow for it, so a change
+// here is not live just because it is on main (checked 2026-09-01: the
+// deploy-social-alarm.yml this line used to name does not exist).
 {
   "name": "wa-social-alarm",
   "main": "worker.mjs",
