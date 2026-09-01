@@ -68,18 +68,32 @@ async function main() {
     posts_by_country: byCountry,
     latest_week_traffic: perf,
     gsc_last7d: gsc,
+    // Keep this block current. It was frozen at its July wording until
+    // 2026-09-01, by which point every line of it was false — and the review
+    // spent that week asking the owner to switch on Pinterest and the
+    // newsletter, both of which had been live for over a month. A weekly
+    // report that assigns finished work is worse than no report.
     channels: {
-      pinterest: 'auto-pin pipeline ready; Standard access under review (pins invisible until approved)',
-      newsletter: 'MailerLite wired, weekly sender built, ~1 subscriber, live sending not yet enabled',
-      social: 'no Bluesky/Mastodon/Instagram accounts yet (owner action)',
-      seo: 'sitemap/hreflang/schema/llms.txt done; GSC weekly report live; young domain (~weeks old)',
+      pinterest: 'LIVE since 2026-08-08 — auto-pins posting daily (ramping 2→8/day), weekly scorecard to Telegram Mondays',
+      newsletter: 'LIVE since 2026-07-26 — MailerLite sending, welcome flow + itinerary lead magnet live since 08-02; subscriber growth is the open problem, not the plumbing',
+      social: 'Instagram @wander_atlas_guides + Threads LIVE since 2026-08-27 — Threads daily, Instagram carousels Mon/Wed/Fri, all automated',
+      seo: 'sitemap/hreflang/schema/llms.txt done; GSC weekly report live. THE bottleneck is backlinks — domain authority is the reason good pages sit on page 8',
     },
-    constraints: 'daily venue-post cap ~15-25 (Google quota) until ~Aug 1; accuracy-first: real photos only (vision-gated); non-technical solo owner, minimal manual work preferred',
+    constraints: 'INDEXATION FROZEN since 2026-07-25 — Google is accepting no new pages, so publishing is throttled to ~25/day (was 330) and new posts are not a growth lever right now; accuracy-first: real photos only (vision-gated); non-technical solo owner, minimal manual work preferred. Do NOT propose work already listed as LIVE above.',
   };
 
+  // max_tokens has to clear the REASONING as well as the answer. sonnet-5
+  // reasons by default, and that reasoning is spent BEFORE the first word of
+  // the reply: on 2026-09-01 this call came back stop_reason=max_tokens with
+  // thinking_tokens=1400 of output_tokens=1400 and not one text block — an
+  // empty Telegram message, and the job still exited 0. A thinking budget is
+  // not the lever here (budget_tokens is rejected outright on sonnet-5); the
+  // levers are a roomier ceiling and `effort`. Strategy is exactly the kind of
+  // work reasoning earns its keep on, so it stays on, held to medium.
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 1400,
+    max_tokens: 8000,
+    output_config: { effort: 'medium' },
     messages: [{
       role: 'user',
       content:
@@ -93,6 +107,13 @@ async function main() {
     }],
   });
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
+  // An empty answer used to leave through the front door: console.log(''),
+  // a Telegram send Telegram rejects for an empty body, and a green tick on
+  // the job. Fail loudly instead, so the failure alert fires and the week's
+  // review is not silently skipped.
+  if (!text) {
+    throw new Error(`empty review — stop_reason=${msg.stop_reason}, output_tokens=${msg.usage?.output_tokens}, thinking_tokens=${msg.usage?.output_tokens_details?.thinking_tokens}, blocks=[${msg.content.map((b) => b.type).join(',')}]`);
+  }
   console.log(text);
 
   const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
