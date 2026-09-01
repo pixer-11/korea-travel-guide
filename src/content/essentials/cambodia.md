@@ -2,70 +2,64 @@
 country: "Cambodia"
 title: "Cambodia Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Cambodia — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-08-22
+lastReviewed: 2026-09-01
 draft: false
 ---
 
-**Quick answer:** Most nationalities need a visa (e-visa or visa on arrival) for stays of up to 30 days, US dollars are the de facto currency, and the cool dry season (November–March) is the best time to visit—but always double-check current entry rules before you fly, as Cambodia's visa policy and border procedures have changed multiple times in 2025–2026.
+**Quick answer:** Most nationalities need an e-visa or visa on arrival for Cambodia (about $30 to $36, 30 days), payment is dominated by US dollars with Cambodian riel for small change, and the easiest way to get around is tuk-tuk, Grab, or intercity buses; always double-check current visa and border rules before you fly, as they can change with little notice.
 
 ## Visa & entry
 
-Cambodia now runs almost all civilian visa processing through a single official portal. Go to evisa.gov.kh - the only official Cambodia e-Visa website. It allows holders to enter Cambodia for tourism or leisure purposes for up to 30 days per visit. As of the most recent fee update, since 1 January 2025, the tourist e-visa (Type T) costs $30 USD and the business e-visa (Type E) costs $35 USD, applied for at the official government portal evisa.gov.kh with no separate processing fee. Visa on arrival remains available too: at the airport or land border, you fill a form, provide a passport photo, and pay $30 USD cash, with processing taking 10-15 minutes at major entry points.
+Cambodia issues visas online, on arrival, or exempts a handful of nationalities entirely, but the rules shift often enough that you should treat any summary (including this one) as a starting point, not the final word.
 
-A few important 2026 wrinkles to know:
+For most travellers, the standard route is the e-Visa: Cambodia's eVisa is the fastest and most convenient way to obtain a tourist visa for Cambodia in 2026, available to citizens of 226 countries and territories through the official government portal at evisa.gov.kh, with no embassy visit required. The tourist e-visa allows holders to enter Cambodia for tourism or leisure purposes for up to 30 days per visit, and is valid for 90 days from the date of issue, meaning you can use it anytime within that 90-day window. As of 2026, the Cambodia eVisa fee for a Tourist Visa (Type-T) is $36 USD, a non-refundable fee payable at the time of application. A small list of nationalities cannot use the e-visa and must apply through an embassy instead, so check the exemption list on the official site if you hold a passport from that group.
 
-- **e-Arrival Card is now mandatory.** Cambodia now requires a mandatory e-Arrival Card, ending paper stamps; it applies to arrivals by air and must be submitted online within 7 days before the flight, in addition to the e-visa. Air arrivals no longer receive a physical passport stamp, only an email confirmation.
-- **eVisas don't work everywhere.** eVisas are not accepted at all ports of entry, and as of December 2025, none of the border crossings from Thailand allow entry with an eVisa.
-- **ASEAN and regional exemptions.** Citizens of Brunei, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam get visa-free entry for 14–30 days under ASEAN and bilateral agreements. There's also a temporary program: a visa-exemption pilot running 15 June–15 October 2026 for ordinary passport holders from Mainland China, Hong Kong SAR and Macao SAR, allowing 14-day, multiple-entry stays without a fee, though a free e-Arrival Card is still required and Taiwan passport holders are not included.
-- **Land borders with Thailand may be affected.** Land border crossings with Thailand, such as Poipet and Cham Yeam, normally offer visa on arrival, but crossings have been affected by border tensions in the recent past — check status before planning an overland route.
-- **Passport validity:** most guides recommend at least six months' validity from your entry date.
+Regardless of visa type, an extra step now applies to everyone. Starting January 2025, all visitors flying to Cambodia are required to submit the Cambodia e-Arrival Card within seven days before their arrival. The official portal reinforces this: submit the Cambodia e-Arrival form online within 7 days before arrival to expedite entry.
 
-**Confirm before you travel:** visa fees, exemptions, and border-crossing rules change frequently — always check evisa.gov.kh and the General Department of Immigration directly, not third-party visa agencies, before booking.
+ASEAN neighbours get easier terms. Citizens of Brunei, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam get visa-free entry for 14 to 30 days under ASEAN and bilateral agreements. Separately, a temporary pilot programme is running for part of 2026: between 15 June and 15 October 2026, ordinary passport holders from Mainland China, Hong Kong SAR and Macao SAR can enter visa-free for 14 days, multiple entries, under Royal Government Notification No. 2070. This exemption does not extend to Taiwan passports, and everyone, exempt or not, still needs the e-Arrival card.
+
+Basic entry conditions apply to all visitors: all visitors must have a passport valid for at least 6 months and containing at least 1 empty page, and all foreign citizens must hold a return or onward ticket. If you plan to enter or leave overland, note that crossing status can change with little notice at land borders with Thailand, so check current conditions with your embassy or an official travel advisory before travelling; entry by air is unaffected.
+
+**Confirm before you go:** visa fees, exemption lists, and pilot programmes change on short notice. Verify your exact situation on the official evisa.gov.kh site and the e-Arrival portal shortly before departure.
 
 ## Getting around
 
-Cambodia has no metro or rail passenger network to speak of, so getting around relies on road transport and a growing set of apps.
+Cambodia has no metro or tram system, so travel revolves around road transport and a few domestic flights. There are no metro, tram, or ferry systems in major cities; Grab is the leading ride-hailing app for taxis, tuk-tuks, and motorbikes, and PassApp is a local app for tuk-tuks and taxis.
 
-- **Within cities:** In Phnom Penh and Siem Reap, ride-hailing apps like Grab and PassApp give metered fares and spare you the haggle, while traditional tuk-tuks remain the default city hop — negotiate before you climb in, as tourist prices can be triple the local rate. Phnom Penh's city bus system is a cost-effective option, with fares starting around $0.40, covering defined routes across major parts of the city with air-conditioned buses. Payment is easy: you can either drop cash into the fare box or scan the KHQR code for a cashless payment.
-- **Between cities:** Royal Railway operates trains between Phnom Penh, Sihanoukville, and Poipet, while major bus companies including Giant Ibis, Capitol Tours, and Virak Buntham serve routes between cities and tourist destinations. Expect tourist buses and shared minivans connecting major routes like Phnom Penh–Siem Reap–Sihanoukville for around US$10–15.
-- **Airport transfers:** the most reliable way to get from Cambodian airports into town is to prebook a taxi or use a ride-hailing app, with typical fares of US$8–15 in 2026 for central hotels in Phnom Penh and Siem Reap. Note that Siem Reap's airport has moved: Siem Reap–Angkor International Airport (SAI), which opened in 2023, sits roughly 50 km from Siem Reap town, so transfers take about 50–60 minutes and cost more.
-- **Domestic flights** connect the main tourist hubs, though Cambodia Angkor Air is currently the only domestic carrier, so with no competition these flights run significantly more expensive than other transport — expect to pay around $100 for a 45-minute hop.
-- Self-driving is generally discouraged: most travellers don't drive themselves, as road rules are loose and accident rates are relatively high, so hiring a driver is usually better than renting a car or scooter.
+Within cities, the most common way to get around Cambodian cities and villages is by tuk-tuk, also known as remork-moto; taxis are also available but are significantly more expensive than tuk-tuks and can get stuck in traffic, while tuk-tuk drivers are very good at navigating chaotic Cambodian streets. Booking through an app removes the haggling: in Phnom Penh and Siem Reap, ride-hailing apps like Grab and PassApp give metered peace of mind and spare you the haggle. If you negotiate directly with a driver, agree the fare first, since tourist quotes can run high.
+
+For trips between cities, buses and vans are the backbone of the network. Royal Railway operates trains between Phnom Penh, Sihanoukville, and Poipet, and major bus companies including Giant Ibis, Capitol Tours, and Virak Buntham serve routes between cities and tourist destinations. A typical example: a bus from Phnom Penh to Siem Reap takes approximately 6 hours in total and costs roughly $9 to $12. Domestic flights exist but are pricier and less frequent, mainly on Cambodia Angkor Air connecting Phnom Penh, Siem Reap, and Sihanoukville.
+
+Arriving by air, official taxi counters are the simplest first move: from Phnom Penh's airport, travellers will find an organized taxi rank providing reliable and regulated services, with the ride to the city centre taking about 30 to 45 minutes and fares averaging around $12 to $15. Renting a vehicle yourself is possible too: car rental is available in major cities, and an international driving permit is required. Whichever option you use, carry small US-dollar notes, since payment for transport is usually in cash, either USD or Cambodian riel, or via app for ride-hailing.
 
 ## Money & costs
 
-Cambodia runs a genuine dual-currency system. Dollars are accepted for payment everywhere, often interchangeably with riel, and some tourist businesses quote prices in dollars — Cambodia is essentially a dual-currency economy. As a rule of thumb, USD is used for anything over $10-20, while Cambodian riel (KHR) is used for small change, at an exchange rate of roughly 4,000 KHR to $1.
+Cambodia runs on two currencies at once. Officially the currency is Khmer Riel (KHR), but the US dollar is more commonly used except for smaller purchases. In practice, many businesses such as hotels, restaurants, and souvenir shops often quote prices in both currencies for the convenience of international travellers, and dollars are readily accepted in tourism areas, though it is still recommended to have some riel on hand. Small change usually comes back in riel: on smaller transactions you might receive your change in riel when the amount is less than a whole dollar, for example paying $10 for something costing $7.50 gets you two dollar bills and a 2,000 riel note. A useful rough conversion to keep in mind is an exchange rate of roughly 4,000 KHR to $1.
 
-Cash tips:
-- Bring clean, crisp $50 and $100 bills from home, since ATMs now typically dispense only $100 bills in USD, and small denominations like $1–$5 are being phased out locally.
-- Inspect any bills you receive: even the tiniest tear in a large US note, especially a $20, $50, or $100, renders it all but useless in Cambodia, and banks, moneychangers and businesses will not accept it.
-- Most ATMs in Cambodia only dispense US dollars to foreign cardholders and charge a $4–5 USD fee per transaction. ABA Bank is an exception that lets you choose riel.
-- Digital payment is booming: KHQR codes are accepted at roughly 4.9 million merchants, and the Bakong Tourist App works without needing a Cambodian bank account.
-- Credit cards are accepted at most upscale hotels, shops and restaurants in the major tourist towns, but are generally not accepted outside of Phnom Penh, Siem Reap, Sihanoukville and the casinos in Poipet.
+ATMs are widely available and skew towards large denominations. ATMs dispense only $100 bills in USD, and small denominations of $1 to $5 are being phased out. It genuinely helps to arrive prepared: bring crisp, undamaged $50 and $100 bills from home, since Cambodians prefer clean, untorn US dollar notes, and if your bills are ripped, stained, or worn out, many shops will refuse them.
 
-For sightseeing, note that you can buy your Angkor pass online through Angkor Enterprise, which accepts cards.
+Cards work in the main tourist economy but not everywhere. At upscale restaurants and hotels, larger stores, and well-established businesses, Visa and other major credit cards may be accepted, but be prepared with other payment options in smaller towns, markets, and more local businesses. Also budget for card friction: some ATMs charge a withdrawal fee, and your home bank may also charge an international transaction fee, which together can cost between $2 to $4 per transaction. A growing local alternative is mobile payment: KHQR codes are accepted at 4.9 million merchants, and the Bakong Tourist App works without a Cambodian bank account.
 
 ## Best time to visit
 
-The best time to visit Cambodia is during the dry season from November to March, which promises clear skies and coolest temperatures of around 30°C (86°F). This is also peak season: the trade-off of visiting during the dry season is sharing your experience with many others, especially during the festive period from late December through early January.
-
-If you prefer fewer crowds, consider the shoulder months or the wet season. June through August are the rainy, low-tourism months and can be the best time to visit temples like Banteay Srei, Ta Prohm and Beng Mealea, which are now virtually empty, as long as you're prepared for sudden downpours. Rain rarely ruins a whole day: most rainy-season days start clear, with mornings that feel calm and workable for temple visits, city walks and intercity travel, while rain usually arrives later, most often in the mid-to-late afternoon.
+Cambodia has a tropical monsoon climate with two broad seasons: a dry season running roughly from November through April, and a wetter season from May through October, when humidity and rainfall build toward the peak wet months of September and October. The cooler, drier stretch from November to February is generally the most comfortable for temple-hopping around Angkor and travelling overland, while March to May brings the hottest, driest conditions before the monsoon breaks. Shoulder months (June and late October) can offer a good balance of greener landscapes, fuller reservoirs and rivers (useful for boat trips), and thinner crowds, at the cost of occasional heavy downpours.
 
 ## Emergencies & safety
 
-Cambodia's national emergency numbers, listed by the telecoms regulator, are: Police 117, Fire Fighter 118, Ambulance 119. A tourist-oriented helpline with multilingual operators is also commonly cited: Police with English, French and Italian speaking operators (24 hours a day) - +(012) 999 999, Tourist Police - +(023) 724 793.
+Cambodia's national telecom regulator lists straightforward three-digit numbers for the main services: Police 117, Fire Fighter 118, Ambulance 119. These match the country listing used by the US State Department's own emergency reference, which records Cambodia's ambulance, fire, and police numbers as 119, 118, and 117 respectively.
 
-Practical safety notes:
-- English-language proficiency among local police can be limited outside major hubs — in most of Cambodia the police speak very little English, so it's best to bring a translator with you, be it a friend, hotel employee, or tuk-tuk driver.
-- If you're a crime victim needing a police report (e.g., for an insurance claim), be aware that Cambodian police often supplement low salaries by requiring small fees for services rendered, so victims of crime should expect to pay a small amount to get a police report written, which you'll need for a travel insurance claim.
-- Save your embassy's emergency contact number before you travel, and keep a photo of your passport and visa/e-Arrival confirmation on your phone.
-- For medical emergencies in Phnom Penh, Calmette Hospital is a well-known 24-hour facility used by both locals and expats.
+Language can be a barrier when calling for help. In most of Cambodia the police speak very little English, so it's best to bring a translator with you, be it a friend, hotel employee, or tuk-tuk driver. Tourist police units exist specifically to help visitors, though service varies by city: in Siem Reap there are active tourist police who are supposed to speak English, while in Phnom Penh the so-called tourist police speak little to no English.
+
+For serious medical situations in the capital, Calmette Hospital's ambulance and emergency lines are commonly cited alongside the national number, for example phone 119 or 023 724 891 or 023 426 948 for Calmette Ambulance (S.A.M.U.). Save your embassy's after-hours emergency line as well; consular staff can help with lost passports, serious accidents, or arrests, and most embassies publish separate business-hours and after-hours numbers.
+
+General safety practices that matter for visitors: keep photocopies or photos of your passport and visa separate from the originals, use hotel safes for spare cash, agree tuk-tuk and taxi fares before departure, and avoid unlit rural roads at night. Traffic, not crime, is the most common source of injury for tourists, so exercise particular caution as a pedestrian or motorbike passenger.
 
 ## Official sources
 
-- [Cambodia e-Visa official portal (evisa.gov.kh)](https://www.evisa.gov.kh/)
-- [General Department of Immigration, Cambodia](https://www.immigration.gov.kh/)
-- [Tourism Cambodia — official Ministry of Tourism travel information portal](https://www.tourismcambodia.com/)
-- [Angkor Enterprise — official Angkor Archaeological Park ticket authority](https://www.angkorenterprise.gov.kh/)
-- [Telecommunication Regulator of Cambodia — official emergency numbers](https://www.trc.gov.kh/en/resources/emergency-numbers/)
-- [Phnom Penh Capital Hall — city government information](https://phnompenh.gov.kh/en/)
+- [Cambodia e-Visa, official government portal](https://www.evisa.gov.kh/)
+- [Cambodia e-Arrival Card](https://www.evisa.gov.kh/) (e-Arrival submission linked from the official e-Visa site)
+- [General Department of Immigration of Cambodia](https://www.immigration.gov.kh/)
+- [Ministry of Foreign Affairs and International Cooperation, Cambodia](https://www.mfaic.gov.kh/)
+- [Tourism Cambodia, Ministry of Tourism information portal](https://www.tourismcambodia.com/)
+- [Telecommunication Regulator of Cambodia, emergency numbers](https://www.trc.gov.kh/en/resources/emergency-numbers/)
+- [National Bank of Cambodia](https://www.nbc.gov.kh/)

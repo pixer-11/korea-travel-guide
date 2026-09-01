@@ -2,63 +2,59 @@
 country: "Singapore"
 title: "Singapore Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Singapore — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-08-01
+lastReviewed: 2026-09-01
 draft: false
 ---
 
-**Quick answer:** Most Western passport holders can enter Singapore visa-free for up to 30–90 days but must submit a free digital SG Arrival Card (SGAC) within 3 days of arrival; getting around is easiest by tapping a contactless bank card or phone on the world-class MRT/bus network, and the driest, most comfortable months to visit are February–April.
+**Quick answer:** Most visitors from major regions (US, UK, EU, Australia, and others) can enter Singapore visa-free for 30 to 90 days, but everyone must complete the free SG Arrival Card online before landing; the island runs on a fast, cashless MRT and bus network, uses the Singapore Dollar, and is safe and easy to navigate year-round, with February to April offering the driest weather.
 
 ## Visa & entry
 
-Singapore grants visa-free entry to nationals of over 160 countries, with the most relevant for international visitors including 90-day visa-free access for the United States, United Kingdom, all EU member states, Australia, New Zealand, Canada, Japan, South Korea, and most other Western, Northern European, and advanced-economy nationalities. Some nationalities receive 30 days rather than 90, so check the ICA website for your specific passport. Travellers from some South Asian, African, and Middle Eastern nationalities require a visa obtained before travel — nationals of India and certain African countries in particular should verify their status on the ICA website before booking. Chinese passport holders benefit from a separate reciprocal 30-day mutual visa exemption introduced in February 2024.
+Most Western visitors do not need a visa for Singapore, with visa-free stays of up to 90 days for many nationalities, and citizens of the US, UK, EU, Australia, China, Japan, South Korea, and 60+ other countries can enter visa-free for 30 to 90 days. Certain nationalities do require a visa in advance; for example, travellers from countries including Afghanistan, Bangladesh, China, India, Iran, Iraq, Myanmar, Nigeria, Pakistan, Russia, and several others require a visa to enter Singapore (note that a specific mutual arrangement now applies to some of these, so always check your own passport).
 
-Regardless of visa status, **everyone** (except pure transit passengers) must complete the **SG Arrival Card (SGAC)** — a free digital form. According to the latest ICA regulations (2026), travellers must submit the SGAC within 3 days (72 hours) prior to arrival, including the arrival day, and submitting too early is not allowed as the system will not display your intended arrival date. The safest approach in 2026 is completing the SG Arrival Card within the recommended 24 to 48 hour window before departure, using the official ICA e-Service or MyICA app. The official SGAC is always free of charge and must be submitted at eservices.ica.gov.sg or via the MyICA mobile app — beware of third-party sites charging fees for this free form.
+Whatever your nationality, you must also submit the SG Arrival Card (SGAC), a separate digital declaration that is not a visa. You are required to submit the SGAC within three days, including the day of arrival, before arrival in Singapore, and doing so helps avoid unnecessary delays during immigration clearance upon arrival. This is done for free only through the official ICA e-Service or MyICA app; the only free, official ways to submit the SGAC are the ICA e-Service and the MyICA app, and if a site asks you to pay, it isn't ICA.
 
-Also confirm two more basics before you fly: your passport's expiry date must be at least 6 months after the day you arrive in Singapore, and since March 2022 all foreign visitors are notified digitally of their Visit Pass (e-Pass) by email rather than a passport stamp, indicating the period of stay granted and last day of stay allowed.
+A few general entry rules apply to everyone: all travellers, regardless of age, must hold a valid individually-issued travel document, and all travellers except Singapore passport holders must ensure their passport has a minimum validity of six months. Even with a valid visa or visa-free eligibility, a Singapore entry visa is not an immigration pass; it is pre-entry permission to travel to and seek entry into Singapore, and the actual immigration pass is granted by ICA officers at the point of entry. Officers retain discretion over admission, so carry proof of onward travel, accommodation, and sufficient funds.
 
-**Rules change without much notice — always confirm your specific nationality's requirements on the official ICA site (linked below) before booking flights.**
+**Because visa rules change, always confirm your specific requirement directly on the ICA website before booking flights**, using the official visa checker rather than third-party blogs.
 
 ## Getting around
 
-Singapore's MRT and bus network is efficient, clean, and fully air-conditioned, and cash/paper tickets are gone. Standard single-trip paper tickets and cash payments at the gantry are no longer accepted anywhere on the MRT network. You have three payment options:
+Singapore's public transport is famously efficient, and you generally will not need to buy a local transit card at all. Any contactless Visa, Mastercard, or American Express card, physical or in Apple Pay or Google Pay, works directly at the gantry at the same fare as a stored-value card, with no need to buy a card or top anything up. The catch is that foreign-issued cards incur a small admin fee, roughly S$0.60 per day of travel.
 
-1. **Tap your own contactless bank card or phone (SimplyGo)** – the fastest and easiest way is to simply tap a contactless bank card (Visa, Mastercard, AMEX, or NETS) or a mobile wallet (Apple Pay, Google Pay, Samsung Pay) directly at the fare gantry, with no prior registration needed. Note that a S$0.60 daily admin fee applies for foreign cards.
-2. **EZ-Link / SimplyGo stored-value card** – available at any TransitLink Ticket Office (Changi Airport, Bugis, Orchard, etc.) and convenience stores like 7-Eleven and Cheers, typically costing $10 SGD, including a $5 non-refundable card cost and $5 in usable travel value.
-3. **Singapore Tourist Pass** – worthwhile only for very heavy usage: the Singapore Tourist Pass (SGD 17/24/29 for 1/2/3 days unlimited) is only worth it for high trip volumes.
+If you prefer a physical card, standard EZ-Link cards are sold at 7-Eleven and Cheers convenience stores in addition to SimplyGo ticket offices and station kiosks. For heavy sightseeing days, the Singapore Tourist Pass is worth considering: it offers tourists unlimited public transport travel on Singapore's basic bus services, MRT and LRT trains within the validity period, though it excludes rides on premium services such as the Sentosa Express, RWS8, Night Owl, NightRider, Chinatown Direct, express buses, and other premium and niche services. Note also that usage of the 2-day or 3-day card must be on consecutive days.
 
-Fares are cheap regardless of method: distance-based fares are incredibly cheap in Singapore, rarely exceeding S$2.50 per trip. Buses cover the whole island, and ride-hailing apps (Grab) plus metered taxis are widely available and reliable, especially late at night or with luggage.
+Fares themselves are low: adult card fares range from S$1.28 for short trips up to S$2.57 for the longest cross-island journeys, with cash fares costing S$0.22 more per trip, and these rates took effect in late December 2025. Trains run roughly from 5:30am to midnight, and there are no more paper single tickets; everything runs through cards or contactless payment. Taxis and ride-hailing apps such as Grab are widely available and metered or app-priced; both are reliable supplements to the rail network, especially late at night.
 
 ## Money & costs
 
-The official currency in Singapore is the Singapore Dollar, which is issued and overseen by the Monetary Authority of Singapore. Cards and mobile wallets are accepted almost everywhere: credit cards are widely accepted in restaurants, bars, shops, hotels and taxis in Singapore. Still, cash remains the "gold standard" for Singapore's famous Hawker Centres, where some smaller or older stalls may not yet accept digital payments, or may have a minimum spend requirement. Carrying roughly S$50–100 in small notes covers those gaps comfortably.
+Singapore's currency is the Singapore Dollar (SGD, S$). The country is highly cashless: businesses accept Singapore Dollars, and foreign currencies are rarely accepted outside selected hotels and exchange counters, while Apple Pay is widely accepted throughout Singapore and Google Pay works at most businesses that accept contactless payments. Even so, it is wise to carry some cash: hawker centres and small neighbourhood shops still frequently require cash or local QR-code payments that may not be accessible to foreign bank apps, so keeping roughly S$50 to S$100 in small notes for a short trip is sensible.
 
-For budgeting: mid-range hotels in good locations start from 120SGD/85USD a night, luxury hotels start from 340SGD/240USD a night, a McDonald's regular McValue Meal costs 7.50SGD/5.50USD, and a movie ticket costs around 13.50SGD/9.50USD. A comfortable all-in daily budget (meals, local transport, attractions, a few souvenirs) is commonly estimated around S$100 per person per day. On tipping: tipping is not a Singaporean culture but it is a growing practice for good service in restaurants, hotels and taxis, and many restaurants already add a 10% service charge plus GST to the bill, so extra tipping is optional. If you're carrying large sums, note that travellers must submit CBNI declarations electronically if carrying more than S$20,000 in total value of Physical Currency and Bearer Negotiable Instruments, or its equivalent in a foreign currency.
+Goods and services carry a consumption tax: Singapore's GST rate is 9%, effective from 1 January 2024, applying to all standard-rated supplies of goods and services. Dining out, watch for "++" pricing: restaurants typically add a 10 percent service charge automatically, plus 9 percent GST, and the "++" on a menu price means service plus GST will be added. Tipping itself is not customary: tipping is optional in Singapore, though a small extra is appreciated for good service; in restaurants, 10 percent on the bill is common only for exceptional service, since the service charge already covers it. For taxis, riders usually round up to a convenient amount rather than tipping a set percentage.
+
+For changing money, Singapore has many licensed money changers offering competitive rates, found in shopping arcades and along main tourist belts, generally offering better rates than airport counters or hotels.
 
 ## Best time to visit
 
-Singapore is a year-round, near-equatorial destination with consistently warm temperatures, so rainfall — not temperature — drives the "best" season. The consensus among weather data, travel advisories, and experienced visitors is consistent: February to April is the optimal period to visit Singapore. The Southwest Monsoon months of June to September offer a good secondary window: mornings are typically dry, afternoon showers are short and predictable, and the weather is manageable.
+Singapore sits near the equator, so daytime highs hover between 30°C and 33°C regardless of the month, and nights rarely drop below 24°C; what changes through the year is rainfall rather than temperature. The Northeast Monsoon from November to January is the wettest period, with December statistically the wettest month, averaging around 330mm of rainfall over roughly 19 rain days, concentrated in the afternoon and evening. A second, gentler wet season runs mid-year: the Southwest Monsoon from June to September is a lighter monsoon bringing shorter, more predictable afternoon showers, with generally dry mornings, though it can occasionally bring regional haze from agricultural burning, particularly in June and July.
 
-Avoid or plan around the wettest stretch: Singapore's rainfall is shaped by two monsoon systems, with the Northeast Monsoon (November–January) being the wettest period, and December statistically the wettest month, averaging 330mm of rainfall over approximately 19 rain days. Even in the "dry" months, most rain rolls in between 2:00 PM and 6:00 PM, so schedule outdoor sightseeing (Gardens by the Bay, Sentosa, the Southern Ridges) for mornings. Be aware that June and July coincide with the Great Singapore Sale and regional school holidays, meaning significantly higher visitor numbers, longer queues, and higher hotel rates, while the months between the end of the Southwest Monsoon and the start of the Northeast Monsoon are Singapore's quietest and most affordable travel window.
+For the most reliable weather, aim for the start of the year: the consensus among weather data, travel advisories, and experienced visitors is that February to April is the optimal period to visit Singapore, sitting within the drier phase between monsoons. Whenever you go, pack for heat and sudden showers alike, since brief downpours can occur even in the "dry" months. Be aware that prices and crowds spike around Chinese New Year, the June school holidays, the Formula 1 night race, and the December holidays, so booking accommodation early around these dates is worthwhile.
 
 ## Emergencies & safety
 
-Singapore is one of the world's safest cities for travellers, with efficient, free emergency response. Key numbers to save on your phone before you land:
+Singapore has separate numbers for police and medical or fire emergencies. Call 999 for an urgent police response and 995 for fire, rescue, or an emergency ambulance. Both lines are free and staffed around the clock: both 995 and 999 operate 24/7 and are free to call. For situations where speaking aloud is unsafe, SMS 70999 is for a police emergency when it is unsafe to speak or the caller cannot speak, and SCDF's separate Emergency SMS number is 70995.
 
-- **Police: 999** (or SMS 70999) — Police Emergencies 999, Police Emergency SMS 70999, Police Hotline 1800 255 0000.
-- **Ambulance & Fire: 995** — SCDF Ambulance and Fire Service 995, Non-Emergency Ambulance Service 1777.
-- Both lines operate 24/7 and are free to call. Reserve them for genuine emergencies: calling 995 in non-emergencies will result in a fine, and non-urgent medical transport should use the 1777 private ambulance line instead.
-- International dialling code: the international dialing code for Singapore is +65.
-- Mobile users can also try the GSM standard emergency number: reports exist that the emergency number 112, which is part of the GSM standard, is also available in Singapore.
+Keep 995 reserved for genuine emergencies: 999 should only be used for crimes requiring immediate police intervention, and non-urgent ambulance needs have their own line, though this is changing soon: SCDF states that the 1777 non-emergency ambulance hotline will cease on 1 January 2027, pointing non-emergency medical advice to NurseFirst at 6262 6262. For non-urgent police matters, citizens may use the SPF hotline (1800-255-0000) instead of emergency lines.
 
-Singapore enforces strict laws (including on drugs, jaywalking, littering, and vaping — vapes are illegal to possess or use) and has heavy fines for minor infractions, so familiarize yourself with local regulations. Tap water is safe to drink, and healthcare quality is excellent though private treatment can be costly — comprehensive travel insurance is strongly recommended.
+Singapore is widely regarded as one of the safest cities in the world for visitors, with low street crime, strict law enforcement, and efficient emergency response. Save the numbers above in your phone before you land, and note that the international dialing code for Singapore is +65, though you cannot dial toll-free numbers starting with 1800 or emergency numbers like 995 or 999 from outside the country.
 
 ## Official sources
 
-- [ICA – Entering Singapore (visa & entry requirements)](https://www.ica.gov.sg/enter-transit-depart/entering-singapore)
-- [ICA – Check if You Need an Entry Visa](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)
-- [SG Arrival Card e-Service (official, free)](https://eservices.ica.gov.sg/sgarrivalcard/)
-- [Land Transport Authority (LTA) – Getting Around](https://www.lta.gov.sg/)
-- [TransitLink / SimplyGo – Fares & Cards](https://www.simplygo.com.sg/)
-- [Visit Singapore – Official Tourism Board](https://www.visitsingapore.com/)
-- [Singapore Government – Contact Us / Emergency Numbers](https://www.gov.sg/contact-us/)
-- [Monetary Authority of Singapore](https://www.mas.gov.sg/)
+- [ICA: Entering Singapore (entry & visa requirements)](https://www.ica.gov.sg/enter-transit-depart/entering-singapore)
+- [ICA: Check if You Need an Entry Visa](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)
+- [ICA: SG Arrival Card (SGAC) e-Service](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card)
+- [Land Transport Authority (LTA) / SimplyGo](https://simplygo.com.sg/)
+- [Visit Singapore (Singapore Tourism Board)](https://www.visitsingapore.com/)
+- [Singapore Civil Defence Force (SCDF)](https://www.scdf.gov.sg/)
+- [Singapore Police Force (SPF)](https://www.police.gov.sg/)
+- [Inland Revenue Authority of Singapore (IRAS): GST rates](https://www.iras.gov.sg/)

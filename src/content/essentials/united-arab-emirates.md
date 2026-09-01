@@ -2,85 +2,56 @@
 country: "United Arab Emirates"
 title: "United Arab Emirates Travel Essentials: Visa, Transport & More"
 description: "Know before you go to United Arab Emirates — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-08-01
+lastReviewed: 2026-09-01
 draft: false
 ---
 
-**Quick answer:** Most visitors — GCC nationals, plus 70+ other nationalities — can enter the UAE without a pre-arranged visa (visa-free or free visa-on-arrival for 14, 30, or 90 days), pay in UAE Dirhams (AED) with widely accepted cards, get around Dubai/Abu Dhabi cheaply via metro/bus and a rechargeable Nol/Hafilat-style card, and can reach police, ambulance, or fire services instantly on 999, 998, and 997 — but always verify your specific visa category on the official ICP or GDRFA portals before you fly, since eligibility rules change often.
+**Quick answer:** Most Western, GCC and many other passport holders can enter the UAE visa-free or get a visa on arrival for stays of 30 to 90 days, but rules vary by nationality, so always confirm on the official ICP or GDRFA site before flying; pack for heat between May and September and aim for October to April for the most pleasant weather.
 
 ## Visa & entry
 
-Entry requirements depend entirely on your passport, not on where you're flying into (Dubai, Abu Dhabi, or elsewhere). As of 2026, the broad categories are:
+Entry rules in the UAE depend entirely on your passport, and the system has been updated several times in 2026, so treat any summary, including this one, as a starting point rather than the final word. GCC nationals get visa-free entry for 30 days, while many nationalities including Andorra, Australia, Austria, Belgium, Brunei, Bulgaria, Canada and dozens more get 90-day visa-free entry with no application needed. This 90-day visa-free entry policy applies to passport holders from 49 countries, with stays allowed within a rolling 180-day period.
 
-- **GCC nationals** (Saudi Arabia, Kuwait, Bahrain, Oman, Qatar): national passport holders or identity card holders from Gulf Cooperation Council nations can cross UAE borders entirely free of visa requirements or specific duration caps.
-- **Around 49 nationalities** (including much of the EU, UK, US, Australia, Japan, and others): enjoy visa-free access to the country for up to 90 days within a 180-day rolling window.
-- **A wider group of 70+ countries overall** can enter without a pre-arranged visa: the United Arab Emirates has published its updated entry guidelines, confirming that citizens from at least 70 countries can enter the nation without a pre-arranged visa.
-- **Conditional visa-on-arrival (14 or 60 days)** for select nationalities such as India: the entry framework also features an expanded category that allows a 14-day or 60-day visa on arrival for select nationalities, requiring applicants to hold a valid residence permit from an approved jurisdiction like the US, UK, EU, Canada, or Japan.
-- **Everyone else** (many African and Asian nationalities not covered above) generally needs to arrange an eVisa before travel through an authorized agent or airline.
+Other nationalities need a visa on arrival rather than full visa-free access. A 30-day visa on arrival is available with a valid US, UK, EU, Australian, Canadian, New Zealand, Japanese, Singaporean or South Korean visa or residence permit for citizens of Bangladesh, Egypt, Georgia, Kazakhstan, Nepal, Nigeria, Pakistan, Sri Lanka, Ukraine, and most other nationalities not otherwise listed. In mid-2026 the UAE also expanded this scheme: from 25 June 2026, the UAE expanded its visa-on-arrival programme to include nationals of Indonesia, Vietnam, Thailand, the Philippines, Kenya and South Africa. However, eligibility for these newly added nationalities is conditional; nationality alone is not enough, as passport holders from these six countries must also hold a valid residence permit from one of the approved countries to qualify, otherwise a pre-arranged UAE visit visa is still required. Indian nationals fall into a separate category, with a 14-day visa on arrival available with a valid qualifying visa.
 
-Practical notes:
-- Passports should typically be valid well beyond your trip (many operators advise at least six months' validity), and airlines will check this before boarding.
-- Immigration officials themselves stress double-checking before you book: immigration officials recommend that travellers cross-check additional entry rules on official portals, such as the Federal Authority for Identity, Citizenship, Customs and Port Security before booking.
-- If your visa was arranged by a sponsor or airline, you can verify status online — Dubai-issued visas use the GDRFA portal, while visas for the other six emirates use ICP: for visas issued in Abu Dhabi, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, or Fujairah, you use the ICP Smart Services website, while for Dubai-issued visas, you use the General Directorate of Residency and Foreigners Affairs (GDRFA) portal.
-- Overstaying is costly and enforced without leniency in some emirates — recent reporting notes a Dubai overstay fine of AED 50 per day from day one with no grace period as of 2026.
-
-**Bottom line: rules and nationality lists shift periodically, so confirm your exact category, stay length, and any required documents on the official ICP (u.ae) or GDRFA (Dubai) sites shortly before departure.**
+If you are not covered by any of these categories, you will need to arrange a UAE visit visa online in advance of travel. Because eligibility criteria, stay lengths, and the list of qualifying countries have changed multiple times in 2026 alone, **always verify your specific nationality's requirements directly on the ICP (Federal Authority for Identity, Citizenship, Customs and Port Security) website or the GDRFA site for Dubai before booking flights**, and recheck close to your travel date. Always verify your eligibility with the UAE Federal Authority for Identity, Citizenship, Customs and Ports Security before travelling.
 
 ## Getting around
 
-The UAE's cities have modern, affordable, and largely cashless public transport networks, especially in Dubai.
+Dubai's metro, tram, buses and water buses all run on the RTA's Nol card system, which is the simplest way for visitors to pay for public transport. Nol is the single smart card used across Dubai's metro, tram, buses and water transport, and the Silver card is the default choice for tourists and regular riders. It costs AED 25 at the ticket office or machine, of which AED 19 is usable balance and AED 6 is the non-refundable cost of the card, and it stays valid for five years; travel is pay-as-you-go, with the system deducting the correct zone-based fare automatically when you tap out.
 
-- **Dubai Metro, buses, tram, and water buses** all run on a single unified smartcard. One NOL card works across all RTA transport — metro, buses, trams, water buses, and the Palm Monorail, with no need for separate tickets for each mode.
-- **Buying a card**: the Silver card costs AED 25 at the machine (which includes AED 19 of starting credit) and works on metro, buses, tram, water bus, and RTA parking meters — the right card for most tourists and short-stay visitors. A disposable **Red Ticket** is also available for single trips, though it's a disposable paper ticket for occasional single trips that costs more per journey than a reloadable card and works on one transport mode only per journey.
-- **Transfers**: if you transfer between transport modes within 30 minutes of tapping out of the first mode, the system counts the entire journey as a single trip, and you pay for the combined zones rather than two separate fares — up to 3 transfers are allowed per journey, with a maximum total journey duration of 180 minutes.
-- **Always tap in and out**: if you forget to tap out, the system automatically deducts the maximum possible fare for your journey regardless of how short your actual trip was, so always tap both at the entry and exit gates to pay the correct fare.
-- Fares are cheap for short hops but check current rates via the RTA site/app, since content is updated periodically and prices and routes are subject to change, so always verify current fares and schedules via the RTA official website or S'hail app before travel.
-- **Taxis and ride-hailing** (RTA taxis, Careem, Uber) are widely available and metered; some RTA taxis now accept Nol taps directly.
-- **Abu Dhabi and other emirates** run their own bus networks (e.g., Abu Dhabi's Hafilat card system), and intercity buses connect the emirates affordably.
-- **Car rental** is popular for exploring beyond the cities — roads are excellent, but note strict speed-camera enforcement and that toll gates (Salik in Dubai) deduct automatically from linked accounts.
+Fares are zone-based rather than flat rate. Silver NOL Card fares in 2026 are AED 3 for one zone, AED 5 for two zones, and AED 7.50 for three or more zones. If you want extra comfort, the Gold card costs the same to buy as Silver but unlocks the Gold Class cabin at the front of every train, with the trade-off that Gold travel is charged at double the standard fare for the same journey. Transfers between modes are generously integrated: if you change between two modes of transport within 30 minutes, for example from the metro to a bus or the tram, it counts as a single trip, with the fare charged by the total number of fare zones travelled, not per vehicle.
+
+For airport connections, the Red Line stops directly at Terminals 1 and 3 of Dubai International Airport, though Terminal 2 has no station of its own, meaning you'll need a taxi or shuttle bus from there. Beyond Dubai, Abu Dhabi and other emirates rely more on taxis, ride-hailing apps, and intercity buses, since metro coverage is Dubai-specific. Taxis are metered, plentiful, and generally a comfortable, affordable way to get around outside the metro network, and renting a car is straightforward with an international driving permit if you plan to explore desert or inter-emirate routes independently.
 
 ## Money & costs
 
-- **Currency**: The UAE Dirham (AED), commonly written AED, Dhs, or DH. Besides the dirham, no other currency is officially accepted in the UAE.
-- **Cards**: Payment infrastructure is excellent. Visa and Mastercard work almost everywhere, with Apple Pay and Google Pay widely supported. Amex is accepted more selectively — American Express is also widely used, especially in higher-end establishments, though it may be less accepted in smaller shops.
-- **Cash**: Keep some dirhams for souks, small vendors, tips, and abras (water taxis): carry some cash for souks, abras, and small vendors — AED 200-500 is plenty for most visitors, topped up from ATMs as needed.
-- **ATMs** are everywhere — widely available throughout the UAE and can be found in malls, hotels, metro stations, and banks, with most machines accepting international cards and offering English-language menus.
-- **Currency conversion tip**: When paying by card or withdrawing cash, always choose to be charged in AED rather than your home currency. When prompted, always choose to withdraw in dirhams rather than your home currency to avoid dynamic currency conversion, which usually offers poorer rates.
-- For live exchange rates, check the Central Bank of the UAE or your bank before travelling, since published rates change daily.
+The currency is the UAE Dirham, abbreviated AED and also written Dhs or Dh, with 1 dirham dividing into 100 fils. The dirham is pegged to the US dollar at a fixed rate of roughly 3.6725 AED to 1 USD, which makes budgeting predictable for dollar-based travellers and keeps the exchange rate stable regardless of global currency swings.
+
+Cards are accepted almost everywhere in cities. Credit cards are widely accepted, but it's useful to have some cash for taxis, tips, and smaller purchases. ATMs are widely available throughout the UAE in malls, hotels, metro stations, and banks, with most machines accepting international cards and offering English-language menus. A useful rule at both ATMs and card terminals: when prompted, always choose to withdraw or pay in dirhams rather than your home currency to avoid dynamic currency conversion, which usually offers poorer rates.
+
+For cash-only situations, keep some dirhams on hand. Traditional souks, some independent taxis, smaller neighborhood shops and street-food vendors may prefer or only accept cash. On tipping, there is no strict obligation: tipping is not mandatory since many bills include a service charge, but rounding up or leaving around 10 percent is appreciated. Overall, be prepared for a relatively high cost of living compared to many destinations, particularly in Dubai's hotels, dining and attractions, though public transport and street food remain comparatively affordable.
 
 ## Best time to visit
 
-- **Winter (roughly November–March)** is the most comfortable season and the peak tourist period, with mild temperatures ideal for outdoor sightseeing, desert trips, and beaches. The best time to visit the UAE largely depends on your preferences and the activities you wish to enjoy — winter offers the most comfortable weather and is ideal for outdoor adventures, while summer, though challenging due to the heat, offers lower prices and quieter attractions.
-- **Shoulder months (October and April)** offer a good balance: it's a good time to find deals on flights and accommodations as the high season hasn't fully begun yet, so bring a mix of light and slightly warmer clothing for cooler evenings.
-- **Summer (June–September)** brings intense heat and humidity, making outdoor activity impractical during the day; however, hotel rates and flights are cheaper, and malls, indoor attractions, and air-conditioned venues remain comfortable — indoor venues often have strong air conditioning, so carrying a light cardigan or scarf is helpful.
-- Dress modestly in public regardless of season: while the UAE is quite modern, respecting local customs by dressing modestly in public places is advisable.
+Weather dictates the UAE travel calendar more than almost anything else. The best time to visit the United Arab Emirates is from October to April, spanning the winter season; it will still be hot, especially around midday, but you'll be able to explore outdoors, which is near-impossible at the height of summer. Within that window, December to February tend to be the most popular months for visitors due to comfortable temperatures of between 17 and 25 degrees Celsius, while the summer months see temperatures soar up to 40 degrees Celsius.
+
+If you want to avoid both extreme heat and peak-season prices, the shoulder months are a good compromise. April, May and October can be considered the mid-season, a good time to travel and find cheaper prices, while the low season, with hardly any tourists, falls between June and September. Do note that summer is not without its charms for budget travellers, since temperatures soar from May to August, so hotel prices drop and crowds disperse, an option worth considering if you're happy sticking mostly to air-conditioned malls, indoor attractions and evening outings.
 
 ## Emergencies & safety
 
-The UAE has a reliable, English-capable emergency system. Save these numbers before you travel:
+The UAE uses separate three-digit numbers for each emergency service rather than one unified line. 998 is for ambulance, 999 for police, and 997 for fire department (civil defence). Coast guard and search-and-rescue services have their own lines too: 996 is used for water-related incidents, maritime emergencies, or coastal rescue situations, and 995 is for wilderness rescue, missing persons cases, or emergencies requiring specialised recovery teams.
 
-| Service | Number |
-|---|---|
-| Police | **999** |
-| Ambulance | **998** |
-| Fire / Civil Defence | **997** |
-| Coast Guard | **996** |
-| Alternate/general emergency | **112** |
-| Dubai Police non-emergency | **901** |
+If you're unsure which number to use, or your phone is locked or has no signal, dialling 112 from any mobile phone, even one with no SIM card, no signal from your carrier, or a locked screen, routes you to the 999 police emergency dispatcher. All of these lines are free to call. For non-urgent police matters, for non-emergency police matters in Dubai, dial 901. Smartphone users can also supplement calls with official apps: in Abu Dhabi, use Abu Dhabi Police's AD999 app to report a fire, request an ambulance, or call the emergency helpline via an SOS button, while in Dubai, the DCAS SOS app requests emergency ambulance services and can determine your exact location.
 
-Official confirmation: 998 for ambulance, 999 for police, and 997 for fire department (civil defence). A backup line also exists for situations where the standard numbers can't be reached: the emergency helpline number 112 in the UAE can be used to reach public authorities for police, fire, or medical services if your phone is locked or you are out of range, serving as an alternate emergency number to 999.
-
-Additional tips:
-- Apps can speed up response: in Abu Dhabi, use Abu Dhabi Police's AD999 app to report a fire, request an ambulance, or call the emergency helpline immediately by pressing the SOS button, available on Google Play and App Store. Dubai has an equivalent: in Dubai, use the DCAS SOS app to request emergency ambulance services, which has an SOS feature that determines the exact location of the patient.
-- The UAE is generally very safe for tourists, with low street-crime rates, but be aware local laws (around alcohol, public behavior, drugs, and photography) are strictly enforced — when in doubt, ask your hotel concierge or check your embassy's travel advice.
-- For non-urgent medical questions rather than emergencies, there's a dedicated helpline: for non‑urgent medical questions, you can instead call 800 342, a non‑emergency medical helpline that provides advice and information on healthcare services.
+The UAE is generally considered very safe for tourists, including solo travellers, but it operates under strict laws around alcohol consumption in public, public behaviour, drugs, and photography of government or military sites, so it pays to research local etiquette and legal norms before you arrive, particularly if visiting outside the main tourist zones of Dubai and Abu Dhabi.
 
 ## Official sources
 
-- [U.AE – Official UAE Government Portal: Handling Emergencies](https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-emergencies)
-- [U.AE – Where to Apply for Entry Permits or Visas](https://u.ae/en/information-and-services/visa-and-emirates-id/where-to-apply-for-entry-permits-or-visas)
-- [Federal Authority for Identity, Citizenship, Customs & Port Security (ICP) Smart Services](https://icp.gov.ae/)
-- [GDRFA Dubai (General Directorate of Residency and Foreigners Affairs)](https://gdrfa.ae/)
-- [Roads and Transport Authority (RTA) Dubai – Nol Card & Public Transport](https://www.rta.ae/)
-- [Visit Dubai – Official Tourism Board Currency & Payments Guide](https://www.visitdubai.com/en/plan-your-trip/currency)
-- [Central Bank of the UAE](https://www.centralbank.ae/)
+- [U.Ae Official Government Portal, Handling Emergencies](https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-emergencies)
+- [Federal Authority for Identity, Citizenship, Customs & Port Security (ICP), UAE](https://icp.gov.ae/en/)
+- [General Directorate of Residency and Foreigners Affairs, Dubai (GDRFA)](https://www.gdrfad.gov.ae/en)
+- [Roads and Transport Authority, Dubai (RTA), Nol Card & Fares](https://www.rta.ae/wps/portal/rta/ae/public-transport/nol-cards)
+- [Visit Dubai, Official Tourism Board, Practical Information](https://www.visitdubai.com/en/plan-your-trip/practical-information)
+- [Visit Abu Dhabi, Official Tourism Board](https://visitabudhabi.ae/en)
+- [U.Ae, Visas and Emirates ID](https://u.ae/en/information-and-services/visa-and-emirates-id)
