@@ -210,16 +210,40 @@ Stop "why" sentences (slug -> why):
 ${whysBlock}`;
 }
 
-async function translateOne(langCode, id, data) {
+// A model that returns a malformed itinerary once will usually return a good one
+// on the next try: zh/hong-kong-3-days failed twice in a row (2026-09-01 00:10
+// "missing faq array", 19:36 "0 day(s), expected 3") while the same run
+// translated 8, 20 and 166 other files on the same key without a single error,
+// and it then translated correctly on the FIRST attempt when run by hand that
+// evening. That hand-run is the whole problem: a retry this script could do
+// itself was being done by a person, and until they did it the Chinese page
+// silently served English.
+//
+// Both fixes below are copied from translate-posts.mjs, which learned each of
+// them the same way. The ceiling matters as much as the retry: at 8000 the
+// tool-use JSON is truncated mid-write, so the fields at the END of the schema
+// come back missing — faq first, then everything. Retrying under a ceiling that
+// is itself the cause just fails three times instead of once.
+const MAX_ATTEMPTS = 3;
+
+async function translateOne(langCode, id, data, attempt = 1) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 8000,
+    max_tokens: 16000,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_itinerary_translation' },
     messages: [{ role: 'user', content: buildPrompt(LANGS[langCode], data) }],
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
-  validateTranslationOutput(out, data.days, data.stopSlugs);
+  try {
+    validateTranslationOutput(out, data.days, data.stopSlugs);
+  } catch (e) {
+    if (attempt < MAX_ATTEMPTS) {
+      console.log(`     ↻ ${langCode}/${id} — ${e.message}, retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, id, data, attempt + 1);
+    }
+    throw new Error(`${e.message} (after ${attempt} attempts)`);
+  }
 
   const fm = assembleI18nFrontmatter({ lang: langCode, slug: id, sourceHash: data.stopsHash, out, stopSlugs: data.stopSlugs });
   const dir = join(OUT_DIR, langCode);
