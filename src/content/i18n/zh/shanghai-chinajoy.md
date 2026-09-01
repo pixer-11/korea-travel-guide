@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: shanghai-chinajoy
-srcHash: 'f79f4f682900'
-title: ChinaJoy参展指南：上海站必知事项
-description: 2026年ChinaJoy（中国国际数码互动娱乐展览会）将于7月31日至8月3日在上海举行，往年多在虹桥的国家会展中心（NECC）举办。
+srcHash: 'cd8a83ad8321'
+title: '2026年上海ChinaJoy：举办日期、场馆与门票价格'
+description: '2026年上海ChinaJoy：举办日期、国家会展中心（虹桥）场馆信息、门票价格，以及如何避开高峰时段合理规划行程。'
 quickAnswer: 2026年ChinaJoy（中国国际数码互动娱乐展览会）将于7月31日至8月3日在上海举行，往年多在虹桥的国家会展中心（NECC）举办。届时人潮汹涌，Coswww者云集，各展台常有大量Showgirl助阵，展会本身分为面向业内人士的B2B专场和面向普通观众的B2C专场——出发订机票和酒店之前，务必先到ChinaJoy官网确认具体场馆、展厅、门票档次和每日开放时间。
 faq:
   - q: 2026年ChinaJoy的具体日期是什么时候？

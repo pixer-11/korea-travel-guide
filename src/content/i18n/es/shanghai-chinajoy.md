@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: shanghai-chinajoy
-srcHash: 'f79f4f682900'
-title: 'ChinaJoy: Lo que debes saber (Shanghái)'
-description: ChinaJoy 2026 (China Digital Entertainment Expo) se celebra del 31 de julio al 3 de agosto de 2026 en Shanghái, tradicionalmente en el National Exhibition and Convention Center (NECC), en Hongqiao.
+srcHash: 'cd8a83ad8321'
+title: 'ChinaJoy 2026 Shanghái: Fechas, sede y precios de entradas'
+description: 'ChinaJoy 2026 en Shanghái: fechas, sede en el NECC Hongqiao, precios de entradas y cómo planear tu visita evitando las horas de más afluencia.'
 quickAnswer: 'ChinaJoy 2026 (China Digital Entertainment Expo) se celebra del 31 de julio al 3 de agosto de 2026 en Shanghái, tradicionalmente en el National Exhibition and Convention Center (NECC), en Hongqiao. Cabe esperar multitudes enormes, cosplay, pabellones muy centrados en "booth babes" y tanto un segmento comercial (B2B) como uno abierto al público (B2C): confirma el recinto exacto, el pabellón, las categorías de entradas y el horario diario en el sitio oficial de ChinaJoy antes de reservar vuelos u hoteles.'
 faq:
   - q: ¿Cuáles son las fechas confirmadas para ChinaJoy 2026?

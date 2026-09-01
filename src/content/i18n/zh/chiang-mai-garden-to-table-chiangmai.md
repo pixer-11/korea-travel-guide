@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chiang-mai-garden-to-table-chiangmai
-srcHash: '03b05da03ddc'
-title: Garden to Table Chiangmai:清迈美食攻略(4.9星好评)
-description: Garden to Table Chiangmai 是一家位于清迈古城拉查帕金奈路(Ratchapakhinai Road)的休闲餐厅，绿植环绕，以街头小吃价位供应新鲜的泰式及北部兰纳(Lanna)料理而深受好评。4.9星(1,961条评价)——看看食客怎么说、营业时间及实用贴士。
+srcHash: 'e207e87a6df2'
+title: 'Garden to Table Chiang Mai(花园餐桌清迈):点评、菜单与清静时段（4.9★）'
+description: '清迈古城墙内一家绿植环绕的兰纳风味餐厅：4.9★食客怎么说、必点菜品有哪些，以及庭院最清静的用餐时段。'
 quickAnswer: Garden to Table Chiangmai 是一家位于清迈古城拉查帕金奈路(Ratchapakhinai Road)的休闲餐厅，绿植环绕，以街头小吃价位供应新鲜的泰式及北部兰纳(Lanna)料理。从这里步行到帕辛寺(Wat Phra Singh)和塔佩门(Thapae Gate)都很近，可以安排在逛寺庙的行程中顺路用餐。近2,000条评价换来4.9星的高分，让这里成为周边最抢手的餐厅之一，建议开门(下午2点)时或早点来吃晚餐，否则很可能要排队。需要留意的是，这家店周日不营业。
 faq:
   - q: 没有车的话怎么去 Garden to Table Chiangmai?

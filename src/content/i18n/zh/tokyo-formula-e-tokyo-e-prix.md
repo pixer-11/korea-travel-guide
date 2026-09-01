@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: tokyo-formula-e-tokyo-e-prix
-srcHash: '0e8cc6a2a51c'
-title: Formula E东京大奖赛观赛指南（东京）
-description: Formula E东京大奖赛定于2026年7月25日至26日在东京街道赛道举行，这将是国际电动方程式赛车首次在东京市中心的封闭公共道路上开赛。
+srcHash: 'ab97c6e38b3a'
+title: '2026东京电动方程式锦标赛(Tokyo E-Prix)：赛道位置、日期与交通指南'
+description: '东京电动方程式锦标赛在哪举行、2026赛季比赛日期安排、如何前往东京街道赛道，以及比赛周末的观赛须知。'
 quickAnswer: Formula E东京大奖赛已于2026年7月25日至26日在东京街道赛道举行，这是国际电动方程式赛车首次在东京市中心的封闭公共道路上开赛。整个比赛周末在台场（Odaiba）滨水区或中央商务区一带展开，两天内涵盖了练习赛、排位赛以及正赛。
 faq:
   - q: 东京街道赛道具体在哪里？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: singapore-smash-street
-srcHash: 'f35f8e35cb1e'
-title: Smash Street:新加坡旅行指南(4.6星)
-description: Smash Street 是爆红意面吧 Scarpetta 幕后团队推出的全新 smash burger(压制牛肉汉堡)概念餐厅，选用手工土豆面包，搭配焦糖化、边缘酥脆的压制牛肉饼。4.6星(349条评价)——看看游客怎么说、营业时间及实用建议。
+srcHash: '5ef4113a550c'
+title: '新加坡Smash Street：汉堡、营业时间与免排队攻略（4.6★）'
+description: '来自Scarpetta团队的重击汉堡吧：推荐吃法、营业时间，以及免排队的错峰时段。4.6★（349条评价）。'
 quickAnswer: Smash Street 是爆红意面吧 Scarpetta 幕后团队推出的全新 smash burger(压制牛肉汉堡)概念餐厅，选用手工土豆面包，搭配焦糖化、边缘酥脆的压制牛肉饼。它于2026年4月3日开业，迅速成为新加坡最受热议的休闲美食之一。由于是全新开业，各项细节仍在调整中，前往之前请务必确认最新的营业时间、具体地址以及是否需要预订。
 faq:
   - q: 去 Smash Street 需要预订吗?

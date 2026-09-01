@@ -1,6 +1,6 @@
 ---
-title: "Smash Street: Singapore Travel Guide (4.6★)"
-description: "Smash Street is the new smash-burger concept from the team behind the viral pasta bar Scarpetta, serving caramelised, crispy-edged smashed beef patties on artisanal potato buns. 4.6★ (349 reviews) — what visitors say, hours, and tips."
+title: 'Smash Street Singapore: Burgers, Hours & Walk-In Tips (4.6★)'
+description: 'The smash-burger bar from the Scarpetta team: what to order, opening hours, and the quieter windows to turn up without queueing. 4.6★ (349 reviews).'
 country: Singapore
 region: Singapore
 category: trendy

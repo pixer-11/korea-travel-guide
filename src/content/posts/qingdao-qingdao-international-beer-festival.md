@@ -1,10 +1,6 @@
 ---
-title: 'Qingdao International Beer Festival: What to Know (Qingdao)'
-description: >-
-  The Qingdao International Beer Festival runs from mid-July through August 2026
-  at the festival grounds in Qingdao's Chengyang District (Beer City, near
-  Jimo), with additional city-wide events along the waterfront near the historic
-  Badaguan and Tsingtao Brewery Museum area.
+title: 'Qingdao Beer Festival 2026: Dates, Venue & How to Get There'
+description: 'Qingdao''s beer festival in 2026: when it runs, the Chengyang festival grounds, how to get there, and which evenings draw the biggest crowds.'
 country: China
 region: Qingdao
 category: event
