@@ -91,6 +91,29 @@ test('a thrown fetch becomes a failure result, not a crash', async () => {
   assert.equal(results[0].status, -1);
 });
 
+// The alert channel went live on 2026-09-01. Until then alertFailures returned
+// before the send, so a Telegram outage could not reach scheduled(); with the
+// secrets set it can, and an unguarded throw there would replace the one line
+// Cloudflare's cron history keeps with a fetch error about Telegram.
+test('a dead Telegram cannot overwrite the dispatch error in cron history', async () => {
+  const stub = async (url) => {
+    if (String(url).includes('api.telegram.org')) throw new Error('telegram down');
+    return { status: 401, ok: false };
+  };
+  await withGlobalFetch(stub, async () => {
+    await assert.rejects(
+      worker.scheduled({ cron: '30 22 * * *' }, env, { waitUntil() {} }),
+      /dispatch failed: threads-daily\.yml=401/,
+    );
+  });
+});
+
+test('a refused alert is logged, not thrown — the dispatch failure still stands', async () => {
+  const results = await fireDispatches(env, async () => ({ status: 401, ok: false }), ONE);
+  const failed = await alertFailures(env, results, async () => ({ status: 400, ok: false }));
+  assert.equal(failed.length, 1);
+});
+
 test('alert survives missing Telegram secrets (bootstrap window)', async () => {
   const bare = { GH_DISPATCH_TOKEN: 'tok' };
   const results = await fireDispatches(bare, async () => ({ status: 500, ok: false }), ONE);

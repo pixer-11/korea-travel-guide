@@ -32,13 +32,19 @@
 //                        `Authorization: Bearer <key>` — a header, not a query
 //                        string, so the key stays out of URL logs)
 //
-// Telegram secrets are NOT set in production, on purpose: if this worker fails,
-// the existing net (three GitHub crons + schedule-watchdog, which telegrams
-// when it rescues) still delivers, and a second bell on the same door only
-// trains the owner to ignore both. The alertFailures() path below stays wired
-// so the secrets can be added later without a code change; with none set it
-// returns without sending. A failed dispatch also REJECTS the scheduled
-// handler, so Cloudflare's cron history records it — the direct trace we keep.
+// Telegram secrets ARE set here, since 2026-09-01. They were deliberately
+// absent before, on the reasoning that the existing net (three GitHub crons +
+// schedule-watchdog, which telegrams when it rescues) still delivers, so a
+// second bell on the same door would only train the owner to ignore both.
+// That reasoning was about the WORK getting done and it still holds. What it
+// missed is this worker itself: nothing watches the alarm clock. Its likeliest
+// death is GH_DISPATCH_TOKEN expiring, and with no bell here that surfaces
+// only as the watchdog quietly rescuing more often — the symptom, never the
+// cause. The alert names the cause. It fires only on a dispatch GitHub refused
+// after retries, i.e. a real and persistent problem, and is silent otherwise.
+// A failed dispatch also REJECTS the scheduled handler, so Cloudflare's cron
+// history records it either way; that stays the primary trace, and the alert
+// is forbidden from overwriting it (see alertFailures).
 
 const REPO = 'pixer-11/korea-travel-guide';
 
@@ -130,14 +136,27 @@ export async function alertFailures(env, results, fetchImpl = fetch) {
   const failed = results.filter((r) => !r.ok);
   if (!failed.length || !env.TELEGRAM_BOT_TOKEN || !env.TELEGRAM_CHAT_ID) return failed;
   const lines = failed.map((f) => `- ${f.workflow}: HTTP ${f.status}`).join('\n');
-  await fetchImpl(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      chat_id: env.TELEGRAM_CHAT_ID,
-      text: `⏰ 소셜 알람시계가 깃허브를 깨우지 못했습니다:\n${lines}\n(깃허브 자체 크론 3회 + 감시견이 예비로 남아 있습니다. 토큰 만료라면 GH_DISPATCH_TOKEN 교체 필요.)`,
-    }),
-  });
+  // Everything below is swallowed ON PURPOSE. The alert is the courtesy; the
+  // dispatch failure is the news, and scheduled() throws it on the next line —
+  // that message is what Cloudflare's cron history keeps. A Telegram outage
+  // must not overwrite `dispatch failed: ...` with a fetch error of its own.
+  // This is deliberately the opposite of scripts/lib/telegram.mjs, where the
+  // send IS the errand and a refusal has to fail the job. Here it is a second
+  // copy of news already recorded, so it never rejects. (The window opened on
+  // 2026-09-01: with no Telegram secrets this code was unreachable.)
+  try {
+    const res = await fetchImpl(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendMessage`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        chat_id: env.TELEGRAM_CHAT_ID,
+        text: `⏰ 소셜 알람시계가 깃허브를 깨우지 못했습니다:\n${lines}\n(깃허브 자체 크론 3회 + 감시견이 예비로 남아 있습니다. 토큰 만료라면 GH_DISPATCH_TOKEN 교체 필요.)`,
+      }),
+    });
+    if (res && res.ok === false) console.error(`telegram alert refused: HTTP ${res.status}`);
+  } catch (e) {
+    console.error(`telegram alert not delivered: ${e.message}`);
+  }
   return failed;
 }
 
