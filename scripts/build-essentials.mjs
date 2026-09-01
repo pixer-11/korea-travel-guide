@@ -56,11 +56,23 @@ async function research(country) {
   const msg = await client.messages.create({
     model: MODEL,
     // 3000 truncated guides mid-section (south-korea.md shipped with only 2 of 6
-    // H2s). 5000 comfortably fits a 700–1000-word, 6-section guide + sources.
-    max_tokens: 5000,
+    // H2s), so this was raised to 5000 — and on 2026-09-01 japan and vietnam
+    // ran past 5000 too. japan.md ended on a bare "**Note" and vietnam.md on
+    // "...are accepted at", and BOTH passed the completeness gate below,
+    // because all six H2s were present and only the tail was missing. Five
+    // languages of each then shipped that cut sentence: the gate checks that
+    // the sections exist, not that the writing finished.
+    max_tokens: 8000,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 6 }],
     messages: [{ role: 'user', content: prompt }],
   });
+  // The ceiling will be too low again for some future country. This is the
+  // check that does not care: the API states plainly when it stopped because it
+  // ran out of room, and a guide cut off mid-sentence must never be written to
+  // disk, whatever the ceiling happens to be that day.
+  if (msg.stop_reason === 'max_tokens') {
+    throw new Error(`output hit the ${8000}-token ceiling and was cut mid-sentence`);
+  }
   return msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
 }
 

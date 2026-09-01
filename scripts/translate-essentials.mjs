@@ -66,11 +66,21 @@ ${data.body}`;
 async function translateOne(langCode, slug, data) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 8000,
+    // 8000 was the source guide's own ceiling; a ja or zh translation of a full
+    // guide runs longer than the English it came from, so the translation could
+    // be cut by a limit the source cleared. 2026-09-01: the SOURCE builder was
+    // caught shipping japan.md and vietnam.md cut mid-sentence, and this writer
+    // would have faithfully translated the cut into four more languages.
+    max_tokens: 16000,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_translation' },
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
   });
+  // Whatever the ceiling is, never write a translation the API says it had to
+  // cut short. A half-sentence is worse than yesterday's translation staying up.
+  if (msg.stop_reason === 'max_tokens') {
+    throw new Error('translation hit the token ceiling and was cut mid-sentence');
+  }
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   if (!out?.body || !out?.title) throw new Error('model returned no translation');
 
