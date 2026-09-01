@@ -22,9 +22,9 @@ tags:
 quickAnswer: LaLaLa Festival 2026 runs August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo. Book ride-hailing (Grab/Gojek) rather than relying on public transit, since there's no direct MRT/LRT stop at JIExpo, and confirm tickets, set times, and gate details on LaLaLa's official channels since prices haven't been finalized.
 faq:
   - q: When and where exactly is LaLaLa Festival 2026?
-    a: It's scheduled for August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta. [This sentence should be deleted, as it contains only forward-looking guidance to check for information, with no concrete fact to preserve.]
+    a: It took place August 22–23, 2026 at Jakarta International Expo (JIExpo) in Kemayoran, Central Jakarta.
   - q: Who is headlining in 2026?
-    a: Announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo. [This sentence has been removed as it contained only forward-looking guidance with no verifiable outcome.]
+    a: Announced headliners include Steve Lacy, Two Door Cinema Club, Kodaline, The Flaming Lips, Rex Orange County, Honne, and Flo.
   - q: How much do tickets cost?
     a: Past editions have used early bird, regular, and VIP tiers, and buyers were advised to purchase only through the official site, as popular tiers could sell out.
   - q: How do I get to JIExpo from central Jakarta or the airport?

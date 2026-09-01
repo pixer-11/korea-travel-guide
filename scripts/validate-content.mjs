@@ -206,6 +206,13 @@ export function stubBodyProblems(posts) {
 // survived: nothing was watching for it. Anchored to the body's first line, so
 // "Below the mosque, a stepped tank…" and "Here is where most visitors turn
 // back" stay clean.
+// A repair pass that answered in the margin instead of editing. The ended-event
+// rewrite left its own note inside a live FAQ answer — "…Central Jakarta. [This
+// sentence should be deleted, as it contains only forward-looking guidance…]" —
+// where it rendered on the page and in the FAQ rich result. TOOL-SPILL watched
+// three fields and the FAQ was none of them (2026-09-01).
+export const EDITOR_NOTE = /\[(?:this |the )?(?:sentence|paragraph|line|text|claim|statement)\b[^\]]{0,180}?(?:deleted|removed|omitted|rewritten)[^\]]{0,220}\]/i;
+
 const PROMPT_LEAK = /^(?:Below is|Here is|Here's) the (?:markdown |full |complete )?(?:body|article|guide|text)\b|^(?:Sure|Certainly)[,!]\s|^As an AI\b/i;
 
 export function postProblems(p, { today = new Date().toISOString().slice(0, 10), verdicts = {} } = {}) {
@@ -228,6 +235,11 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // wave it through. It is the same fault — see src/lib/sentence-boundary.mjs.
   if (d && (!DESC_TERMINAL.test(d) || !parensBalanced(d) || endsInAbbreviation(d))) {
     issues.push(`TRUNCATED-DESCRIPTION: ${p.f} — ends "…${d.slice(-50)}"`);
+  }
+  for (const [field, v] of [['body', p.body], ['quickAnswer', p.quickAnswer], ['description', p.description],
+    ['faq', Array.isArray(p.faq) ? p.faq.map((x) => `${x?.q ?? ''} ${x?.a ?? ''}`).join(' ') : '']]) {
+    const m = String(v || '').match(EDITOR_NOTE);
+    if (m) issues.push(`EDITOR-NOTE in ${field}: ${p.f} — the repair left its note where the edit belonged: "${m[0].slice(0, 90)}"`);
   }
   for (const [field, v] of [['description', p.description], ['quickAnswer', p.quickAnswer], ['title', p.title]]) {
     if (EN_SPILL.test(v)) issues.push(`TOOL-SPILL in ${field}: ${p.f} — "${v.match(EN_SPILL)[0]}"`);

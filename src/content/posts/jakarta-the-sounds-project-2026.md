@@ -4,6 +4,13 @@ description: The Sounds Project 2026 in Jakarta, Indonesia — August 7-9, 2026.
 country: Indonesia
 region: Jakarta
 category: event
+draft: true
+heldReason: duplicate
+heldNote: >-
+  2026-09-01: same festival as jakarta-the-sounds-project-vol-9 (Aug 7-9, Jakarta).
+  The twin names the real venue (Ecovention Ecopark, Ancol) while this one says the venue was
+  never finalised, so the twin keeps the URL and inherits this page vision-verified hero.
+  Released from quarantine by the alt-photo patrol on 08-31 with no duplicate check.
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-09'

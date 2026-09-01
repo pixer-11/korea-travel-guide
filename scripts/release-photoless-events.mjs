@@ -27,33 +27,19 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { isEventPast } from '../src/lib/eventStatus.ts';
-import { keyToken } from './lib/commons.mjs';
+import { twinIndex } from './lib/live-event-twins.mjs';
+import { NON_PHOTO_HOLD } from './lib/patrol-target.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
 
-// Events ALREADY live, paired the way validate-content pairs duplicates: the
-// act/anchor word plus the country, with dates compared by OVERLAP.
-//
-// While an event sits in quarantine the discovery run can find the same show
-// again under another phrasing and publish that one instead. Releasing the
-// parked twin then puts two pages up for one event. Two weaker keys were tried
-// and both leaked: a topic key split "The Sounds Project 2026" from a live
-// "The Sounds Project Vol. 9" on the word "vol", and an exact-date key split
-// the F✦FOREVER Kuala Lumpur show recorded once as 08-07 and once as
-// 08-07~08-08. Overlap catches both.
-const anchorOf = (d) => `${keyToken(String(d.title))}|${d.country ?? 'South Korea'}`;
-const spanOf = (d) => [String(d.eventStartDate ?? '').slice(0, 10), String(d.eventEndDate ?? d.eventStartDate ?? '').slice(0, 10)];
-const overlaps = (a, b) => a[0] && b[0] && a[0] <= b[1] && b[0] <= a[1];
-// anchor -> [ [start,end], ... ] for every event already live under it.
-const liveTopics = new Map();
-const alreadyLive = (d) => (liveTopics.get(anchorOf(d)) ?? []).some((s) => overlaps(s, spanOf(d)));
-const noteLive = (d) => {
-  const k = anchorOf(d);
-  if (!liveTopics.has(k)) liveTopics.set(k, []);
-  liveTopics.get(k).push(spanOf(d));
-};
+// Events ALREADY live: the anchored pairing rule now lives in
+// scripts/lib/live-event-twins.mjs, because the OTHER release path
+// (backfill-photos-alt) needed the same answer and did not have it.
+const live = twinIndex();
+const alreadyLive = (d) => live.alreadyLive(d);
+const noteLive = (d) => live.note(d);
 const files = (await readdir(POSTS)).filter((x) => x.endsWith('.md'));
 for (const f of files) {
   let d;
@@ -63,7 +49,7 @@ for (const f of files) {
 }
 
 const released = [];
-const skipped = { hasHero: 0, notEvent: 0, past: 0, duplicate: 0 };
+const skipped = { hasHero: 0, notEvent: 0, past: 0, duplicate: 0, held: 0 };
 
 for (const f of files) {
   const slug = f.replace(/\.md$/, '');
@@ -73,6 +59,16 @@ for (const f of files) {
   const d = parsed.data;
   if (!d.draft) continue;
   if (d.category !== 'event') { skipped.notEvent++; continue; }
+
+  // A hold that is not about the photo is not answered by removing the photo.
+  // 2026-08-31: the Lang Lang guide had been withdrawn because the recital is in
+  // SAMARKAND, not Tashkent — the whole guide, metro directions included, was
+  // written for the wrong city. Its reason was recorded as a YAML comment, which
+  // the first frontmatter round-trip erased, and this script then stripped the
+  // hero and published it, five days before the concert. The reason now lives in
+  // heldReason/heldNote, where a round-trip keeps it — and this line honours it,
+  // the way backfill-photos-alt and release-verified-quarantine already did.
+  if (NON_PHOTO_HOLD.test(String(d.heldReason || ''))) { skipped.held++; continue; }
 
   // A quarantined event that still carries a hero is carrying a REJECTED one.
   // The 2026-07-29 event batch was the last publish path without a vision
@@ -110,4 +106,4 @@ for (const f of files) {
 console.log(`\n🎫 Photoless event release${DRY ? ' (DRY)' : ''}`);
 released.forEach((r) => console.log('  + ' + r));
 console.log(`\n📦 released ${released.length}`);
-console.log(`   skipped — already has a hero: ${skipped.hasHero} · already over: ${skipped.past} · duplicate of a live event: ${skipped.duplicate} · not an event: ${skipped.notEvent}`);
+console.log(`   skipped — already has a hero: ${skipped.hasHero} · already over: ${skipped.past} · duplicate of a live event: ${skipped.duplicate} · held for a non-photo reason: ${skipped.held} · not an event: ${skipped.notEvent}`);

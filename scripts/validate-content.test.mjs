@@ -314,6 +314,23 @@ cases.push(['정상 글은 parseFailures 를 늘리지 않는다', () => {
   return parseFailures.length === before ? null : '멀쩡한 글이 파싱 실패로 기록됐다';
 }]);
 
+// 수리기가 문장을 고치는 대신 "이 문장은 삭제되어야 한다"는 자기 메모를 본문에
+// 남긴 채 발행된 실제 사례(2026-09-01 LaLaLa Festival FAQ). TOOL-SPILL 은 세 필드만
+// 보고 있었고 FAQ 는 그중에 없었다.
+cases.push(['수리기 메모가 FAQ 에 남으면 잡는다', () => {
+  const faq = [{ q: 'When is it?', a: 'It took place August 22-23, 2026 at JIExpo. [This sentence should be deleted, as it contains only forward-looking guidance to check for information, with no concrete fact to preserve.]' }];
+  const out = postProblems(base({ faq }), { today: TODAY });
+  return out.some((i) => /^EDITOR-NOTE in faq/.test(i)) ? null : `못 잡았다: ${out.join(' | ')}`;
+}]);
+
+// 반대 방향: 대괄호가 있다고 다 메모가 아니다. 마크다운 링크와 인용 표기는
+// 본문에 흔해서, 여기서 오탐이 나면 멀쩡한 글 수백 편이 매일 경고로 뜬다.
+cases.push(['본문의 마크다운 링크·대괄호는 메모가 아니다', () => {
+  const body = 'See the [official festival site](https://example.com) and the [2026 lineup]. The paragraph below removed my doubts.';
+  const out = postProblems(base({ body }), { today: TODAY });
+  return out.some((i) => /EDITOR-NOTE/.test(i)) ? `오탐: ${out.join(' | ')}` : null;
+}]);
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;

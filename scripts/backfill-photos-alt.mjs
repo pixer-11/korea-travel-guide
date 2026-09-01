@@ -30,6 +30,7 @@ import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
 import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-target.mjs';
+import { twinIndex } from './lib/live-event-twins.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 
 const POSTS = 'src/content/posts';
@@ -104,6 +105,19 @@ if (existsSync('data/full-audit.json')) {
 const world = await loadWorld();
 const used = await loadUsedImageUrls(POSTS);
 const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
+
+// One event, one live page. A verified new photo lifts the draft flag further
+// down this file — and on 2026-08-31 it lifted two drafts that each duplicated
+// an event already published (LALALA Fest Jakarta, The Sounds Project), because
+// this path never asked the question release-photoless-events has been asking
+// since 08-16. Same index, same rule, one file: lib/live-event-twins.mjs.
+const liveEvents = twinIndex();
+for (const f of files) {
+  let d;
+  try { d = matter(await readFile(`${POSTS}/${f}`, 'utf8')).data; } catch { continue; }
+  if (d.draft || d.category !== 'event') continue;
+  liveEvents.note(d);
+}
 let fixed = 0, undrafted = 0, unfixed = 0, scanned = 0;
 const rewriteList = [];
 // Consecutive nightly failures per slug. Seven strikes stops the search: these
@@ -538,7 +552,13 @@ for (const f of files) {
     // spill with an empty article — which the hours re-check could not see —
     // live for a day as a blank page with a broken answer box.
     const heldByGate = wasDraft && NON_PHOTO_HOLD.test(String(data.heldReason || ''));
-    if (wasDraft && !heldByGate) {
+    // A twin of this event is already live: publishing would put two pages up
+    // for one show. The photo fix still lands (the post keeps the better hero
+    // for whoever resolves the pair), but the draft flag stays, now with the
+    // reason recorded so no other path has to work it out again.
+    const twinLive = wasDraft && data.category === 'event' && liveEvents.alreadyLive(data);
+    if (twinLive) data.heldReason = 'duplicate';
+    if (wasDraft && !heldByGate && !twinLive) {
       delete data.draft;
       // A photo-class hold (wrong-venue-photo etc.) IS lifted by a verified
       // new hero — clear its marker too, or it lingers as a false alarm.
@@ -553,6 +573,7 @@ for (const f of files) {
       out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
     }
     if (heldByGate) console.log(`   ${slug}: hero replaced, but the post stays held (heldReason: ${data.heldReason})`);
+    if (twinLive) console.log(`   ${slug}: hero replaced, but the post stays held — an event already live covers the same show`);
     await writeFile(path, out, 'utf8');
     used.add(cand.url);
     fixed++;

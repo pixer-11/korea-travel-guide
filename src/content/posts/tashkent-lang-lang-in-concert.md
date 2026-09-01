@@ -6,6 +6,14 @@ description: >-
 country: Uzbekistan
 region: Tashkent
 category: event
+heldReason: content
+heldNote: >-
+  2026-08-31 withdrawn: this recital is in SAMARKAND (Registan Square), not Tashkent —
+  Deutsche Grammophon tour listing, 2026-09-06, with the Uzbek State Symphony.
+  City, venue, metro and neighbourhood advice are all written for the wrong city, so
+  a partial fix is impossible; rewrite from Samarkand. Kept as a FIELD, not a YAML
+  comment: the 08-31 comment saying this was erased by the first frontmatter
+  round-trip and the guide went live again five days before the concert.
 pubDate: '2026-08-27'
 eventStartDate: '2026-09-06'
 eventEndDate: '2026-09-06'
@@ -54,7 +62,7 @@ faq:
       within easy reach, and Chorsu Bazaar is a quick metro ride away for a
       livelier daytime stop.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## Why this concert matters
