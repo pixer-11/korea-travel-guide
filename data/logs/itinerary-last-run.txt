@@ -1,7 +1,6 @@
 
 Seoul, South Korea — 15 qualifying post(s), variants: 3
-  ~ Seoul 3d — structure changed by 4 slug(s), regenerating prose
-  ✅ Seoul 3d — updated
+  = Seoul 3d — unchanged, skipping
 
 Tokyo, Japan — 13 qualifying post(s), variants: 3
   = Tokyo 3d — unchanged, skipping
@@ -20,10 +19,8 @@ Hong Kong, Hong Kong — 66 qualifying post(s), variants: 3, 5
   ~ Hong Kong 5d — structure changed by 13 slug(s), regenerating prose
   ⚠ Hong Kong 5d — guard found 0 hours/price + 5 rain-leak issue(s) on first pass; retrying once
   ⚠ Hong Kong 5d — dropping rain-swap for day 4 (venue name leaked into written prose after retry)
-  ⚠ Hong Kong 5d — validator found 3 prose-fixable issue(s); correcting once
-VALIDATE-FAILED hong-kong-5-days.md — 2 issue(s):
-  • AREA-CLAIM-UNSUPPORTED: hong-kong-5-days.md — day 2 names "Tin Temple" but no stop of that day attests it
-  • DURATION-CONTRADICTION: hong-kong-5-days.md — day 2 stop "jordan-hong-kong-heritage-museum" why says "a couple of hours" (~120 min) but dwellMin is 35
+  ⚠ Hong Kong 5d — validator found 1 prose-fixable issue(s); correcting once
+  ✅ Hong Kong 5d — updated
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -38,12 +35,12 @@ New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
 Singapore, Singapore — 57 qualifying post(s), variants: 3, 5
-  ~ Singapore 3d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Singapore 3d — updated
+  = Singapore 3d — unchanged, skipping
   ~ Singapore 5d — minor structure change (1 slug diff), keeping existing prose
   ⚠ Singapore 5d — validator found 3 prose-fixable issue(s); correcting once
-VALIDATE-FAILED singapore-5-days.md — 1 issue(s):
+VALIDATE-FAILED singapore-5-days.md — 2 issue(s):
   • PROSE-LEAK: singapore-5-days.md — itinerary[0].intro
+  • PROSE-LEAK: singapore-5-days.md — itinerary[3].intro
 
 Done.
 
