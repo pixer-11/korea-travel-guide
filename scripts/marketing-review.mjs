@@ -13,6 +13,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { createSign } from 'node:crypto';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
+import { sendTelegram } from './lib/telegram.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
@@ -116,17 +117,11 @@ async function main() {
   }
   console.log(text);
 
-  const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
-  if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID) {
-    // Nobody was reading Telegram's answer, so the week the body went out
-    // empty, Telegram's rejection went out with it — unseen. The send is this
-    // job's entire product; if it fails, the job failed.
-    const res = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-      method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text: text.slice(0, 4000), disable_web_page_preview: true }),
-    });
-    if (!res.ok) throw new Error(`telegram send failed: ${res.status} ${(await res.text()).slice(0, 300)}`);
-  }
+  // Nobody was reading Telegram's answer, so the week the body went out
+  // empty, Telegram's rejection went out with it — unseen. The send is this
+  // job's entire product; if it fails, the job failed. sendTelegram throws on
+  // a refusal and returns false when the secrets are simply unset.
+  await sendTelegram(text.slice(0, 4000), { disable_web_page_preview: true });
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

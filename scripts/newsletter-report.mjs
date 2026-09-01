@@ -1,18 +1,16 @@
-// Daily Korean Telegram report of newsletter signups. Read-only. Never throws out
-// of the job (mirrors analytics-report.mjs). Requires MAILERLITE_API_TOKEN,
+// Daily Korean Telegram report of newsletter signups. Read-only. A missing
+// token or an unreadable list is reported, not fatal — but a report Telegram
+// refused now fails the job, because a green tick over an undelivered report is
+// how weeks of silence go unnoticed. Requires MAILERLITE_API_TOKEN,
 // TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
 import { mailerlite } from './lib/mailerlite.mjs';
+import { sendTelegram } from './lib/telegram.mjs';
 
-const { MAILERLITE_API_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
+const { MAILERLITE_API_TOKEN } = process.env;
 
-async function sendTelegram(text) {
-  if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) { console.log('Telegram secrets missing.'); return; }
-  const r = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),
-  });
-  const j = await r.json().catch(() => ({}));
-  if (!j.ok) console.error('Telegram failed:', JSON.stringify(j));
+/** Same job as the old local copy, minus the swallowed rejection. */
+async function report(text) {
+  if (!(await sendTelegram(text, { disable_web_page_preview: true }))) console.log('Telegram secrets missing.');
 }
 
 async function main() {
@@ -20,7 +18,13 @@ async function main() {
   const ml = mailerlite(MAILERLITE_API_TOKEN);
   let subs;
   try { subs = await ml.listActiveSubscribers(); }
-  catch (e) { await sendTelegram(`✉️ Wander Atlas 뉴스레터 리포트 오류\n${e.message}`); return; }
+  catch (e) {
+    // The reason reaches the log before the notice goes out: a notice Telegram
+    // refuses must not take the diagnosis down with it.
+    console.error(`newsletter report failed: ${e.message}`);
+    await report(`✉️ Wander Atlas 뉴스레터 리포트 오류\n${e.message}`);
+    return;
+  }
 
   const total = subs.length;
   const region = (s) => (s.fields && s.fields.region) || '전체추천';
@@ -33,7 +37,7 @@ async function main() {
 👥 누적 구독자: ${total.toLocaleString()}명
 🗺️ 지역별: ${top}`;
   console.log(text);
-  await sendTelegram(text);
+  await report(text);
 }
 
-main().catch((e) => console.error(e));
+main().catch((e) => { console.error(e); process.exitCode = 1; });

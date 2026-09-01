@@ -1,13 +1,16 @@
 #!/usr/bin/env node
 // Pulls yesterday's Cloudflare Web Analytics (RUM) for the account and sends a
-// summary to Telegram. Runs in CI (env from GitHub secrets). Never fails the job.
+// summary to Telegram. Runs in CI (env from GitHub secrets). A collector that
+// comes back empty is reported, not fatal; a send Telegram refused IS fatal,
+// or the job goes green on a report nobody received.
 import { exitIfSlotServed } from './lib/slot-served.mjs';
+import { sendTelegram } from './lib/telegram.mjs';
 
 // The report went out twice on 2026-08-29 (watchdog rescue 12:22, GitHub's
 // 6.8h-late original 15:57) — a late-delivered cron must not re-send it.
 await exitIfSlotServed('analytics-report.yml');
 
-const { CF_API_TOKEN, CF_ACCOUNT_ID, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
+const { CF_API_TOKEN, CF_ACCOUNT_ID } = process.env;
 
 function isoDay(offset) {
   const d = new Date();
@@ -96,16 +99,9 @@ function pageLabel(path) {
   return p;
 }
 
-async function sendTelegram(text) {
-  if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) { console.log('Telegram secrets missing — skipping send.'); return; }
-  const r = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),
-  });
-  const j = await r.json().catch(() => ({}));
-  if (!j.ok) console.error('Telegram send failed:', JSON.stringify(j));
-  else console.log('Telegram sent.');
+async function report(text) {
+  if (await sendTelegram(text, { disable_web_page_preview: true })) console.log('Telegram sent.');
+  else console.log('Telegram secrets missing — skipping send.');
 }
 
 // Both collectors RETURN data (or null); main() composes ONE Telegram message.
@@ -282,7 +278,10 @@ async function main() {
   if (!cfOk && !plOk) {
     const why = [cf?.error && `CF: ${cf.error}`, pl?.error && `Plausible: ${pl.error}`]
       .filter(Boolean).join(' | ') || '설정 없음';
-    await sendTelegram(`📊 Wander Atlas — 일일 리포트 실패 (${dayLabel})\n${why}`);
+    // The reason reaches the log before the notice goes out: a notice Telegram
+    // refuses must not take the diagnosis down with it.
+    console.error(`daily report failed: ${why}`);
+    await report(`📊 Wander Atlas — 일일 리포트 실패 (${dayLabel})\n${why}`);
     return;
   }
 
@@ -314,7 +313,7 @@ async function main() {
 
   const text = L.join('\n');
   console.log(text);
-  await sendTelegram(text);
+  await report(text);
 }
 
-main().catch((e) => { console.error(e); });
+main().catch((e) => { console.error(e); process.exitCode = 1; });

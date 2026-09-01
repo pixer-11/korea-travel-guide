@@ -22,6 +22,7 @@ import { existsSync, readFileSync, readdirSync, appendFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { sendTelegram, telegramCreds } from './lib/telegram.mjs';
 import {
   parseStatusZ, purgedPaths, missingPackages, lockTopLevelPackages,
 } from './lib/worktree-heal.mjs';
@@ -77,9 +78,7 @@ console.log(
 async function report(line) {
   const stamp = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
   try { appendFileSync(join(tmpdir(), 'wa-worktree-heal.log'), `${stamp} ${line}\n`, 'utf8'); } catch { /* log is best effort */ }
-  const TG = process.env.TELEGRAM_BOT_TOKEN;
-  const CHAT = process.env.TELEGRAM_CHAT_ID;
-  if (!TG || !CHAT) return;
+  if (!telegramCreds()) return;
   const text = [
     '🗺️ Wander Atlas — 공유 작업트리 자동 복구',
     `🕒 ${stamp} KST`,
@@ -89,11 +88,12 @@ async function report(line) {
     '이력은 안전하며(깃 폴더는 바탕화면에 있음) 파일은 자동 복구됐습니다.',
   ].join('\n');
   try {
-    await fetch(`https://api.telegram.org/bot${TG}/sendMessage`, {
-      method: 'POST', headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ chat_id: CHAT, text, disable_web_page_preview: true }),
-    });
-  } catch { /* the repair already happened; a failed notice must not fail it */ }
+    await sendTelegram(text, { disable_web_page_preview: true });
+  } catch (e) {
+    // The repair already happened and is in the log above; a failed notice must
+    // not fail it. It should not vanish without a trace either.
+    console.error(`heal notice not delivered: ${e.message}`);
+  }
 }
 for (const f of missingFiles.slice(0, 10)) console.log(`   - ${f}`);
 if (missingFiles.length > 10) console.log(`   … and ${missingFiles.length - 10} more`);

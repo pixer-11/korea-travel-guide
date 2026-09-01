@@ -33,6 +33,7 @@
 // ─────────────────────────────────────────────────────────────
 import { lastFireBefore } from './lib/cron-window.mjs';
 import { MANIFEST } from './lib/cron-manifest.mjs';
+import { sendTelegram } from './lib/telegram.mjs';
 
 const DRY = process.argv.includes('--dry');
 const REPO = process.env.GITHUB_REPOSITORY || 'pixer-11/korea-travel-guide';
@@ -52,13 +53,10 @@ const gh = async (path, init = {}) => {
   return res.status === 204 ? null : res.json();
 };
 
+// 감시견의 보고가 곧 감시견의 산출물이다. 예전엔 .catch 로 삼켜서, 구조를
+// 해놓고 아무도 못 받은 밤과 잘 받은 밤이 로그상 똑같이 보였다.
 async function tg(text) {
-  const tok = process.env.TELEGRAM_BOT_TOKEN, chat = process.env.TELEGRAM_CHAT_ID;
-  if (!tok || !chat) { console.log('[tg 미설정] ' + text.replace(/\n/g, ' | ')); return; }
-  await fetch(`https://api.telegram.org/bot${tok}/sendMessage`, {
-    method: 'POST', headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ chat_id: chat, text }),
-  }).catch((e) => console.error(`tg failed: ${e.message}`));
+  if (!(await sendTelegram(text))) console.log('[tg 미설정] ' + text.replace(/\n/g, ' | '));
 }
 
 const now = Date.now();
@@ -129,9 +127,11 @@ if (rescued.length) {
     `\n(지각 원본이 뒤늦게 와도 일일 가드·슬롯 가드가 중복을 막습니다)`);
 }
 if (failures.length) {
+  // 종료코드를 먼저 세운다 — 이 알림 자체가 거절당해도(그러면 던진다) 원래의
+  // 실패는 이미 위 루프에서 로그에 남았고 실행은 실패로 끝난다.
+  process.exitCode = 1;
   await tg(`🐕 스케줄 감시견 — 확인/구조에 실패한 항목이 있습니다:\n` +
     failures.map((f) => `· ${f}`).join('\n') +
     `\n(감시가 그만큼 비어 있다는 뜻입니다 — 반복되면 명단·권한을 확인해 주세요.)`);
-  process.exitCode = 1;
 }
 console.log(`${rescued.length} rescued, ${pending.length} would-rescue (dry), ${RESCUABLE.length} checked, ${failures.length} unreadable`);

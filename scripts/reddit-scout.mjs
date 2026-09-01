@@ -22,6 +22,7 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { interleaveRotated, kstDayIndex } from './lib/round-robin.mjs';
 import { exitIfSlotServed } from './lib/slot-served.mjs';
+import { sendTelegram } from './lib/telegram.mjs';
 
 // A late-delivered cron must not send the owner a second set of cards for the
 // same slot (the 2026-08-29 rescue-then-late-original double, class fix).
@@ -193,8 +194,6 @@ console.log(`${cards.length} card(s) drafted`);
 // failed delivery fails the run and the ledger stays unwritten, so the same
 // threads are re-offered next night. (A re-drafted duplicate card in the
 // owner's Telegram is cheap; a silently consumed thread is not.)
-const TG = process.env.TELEGRAM_BOT_TOKEN;
-const CHAT = process.env.TELEGRAM_CHAT_ID;
 let undelivered = 0;
 for (const c of cards) {
   const text = [
@@ -213,14 +212,11 @@ for (const c of cards) {
     `⚠️ 예열 단계: 링크·사이트 언급 없음 확인됨. 마음에 안 들면 무시하세요.`,
   ].join('\n');
   if (DRY) { console.log('\n' + text); continue; }
-  if (!TG || !CHAT) { console.log('\n' + text); undelivered++; continue; }
+  // Counted, never thrown: one refused card must not abandon the rest, and the
+  // tally is what keeps the ledger unwritten so these threads come back.
   try {
-    const res = await fetch(`https://api.telegram.org/bot${TG}/sendMessage`, {
-      method: 'POST', headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ chat_id: CHAT, text, disable_web_page_preview: true }),
-    });
-    if (!res.ok) { console.error(`telegram send failed: ${res.status} ${(await res.text()).slice(0, 160)}`); undelivered++; }
-  } catch (e) { console.error(`telegram send failed: ${e.message}`); undelivered++; }
+    if (!(await sendTelegram(text, { disable_web_page_preview: true }))) { console.log('\n' + text); undelivered++; }
+  } catch (e) { console.error(e.message); undelivered++; }
 }
 if (!DRY) {
   if (undelivered) {

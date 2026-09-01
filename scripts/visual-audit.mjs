@@ -22,6 +22,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
+import { sendTelegram } from './lib/telegram.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -158,8 +159,7 @@ console.log(`\n📸 Visual audit: ${checked} checked · ${mismatch} MISMATCH · 
 if (flagged.length) { console.log('\nMISMATCHES:'); console.log(flagged.join('\n')); }
 
 // Telegram summary (Korean) when configured and something is off.
-const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
-if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID && mismatch > 0) {
+if (mismatch > 0) {
   // Say what happens NEXT. Without it the list reads as an open to-do for the
   // owner, when every flagged slug is already queued for the automatic repair
   // patrol via data/visual-audit.json.
@@ -169,8 +169,7 @@ if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID && mismatch > 0) {
     `🚫 즉시 비공개 처리: ${quarantined}편 — 잘못된 사진이 사이트에 남아 있지 않습니다.\n` +
     `${flagged.slice(0, 15).join('\n')}\n` +
     `\n➡️ 새벽 04:35 순찰이 올바른 사진을 찾으면 자동으로 다시 공개합니다. 따로 하실 일은 없습니다.`;
-  await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),
-  }).catch(() => {});
+  // Quarantine already happened; this is the notice that it did. Swallowing a
+  // refusal here left the owner unaware that posts had gone dark.
+  await sendTelegram(text, { disable_web_page_preview: true });
 }

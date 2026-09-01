@@ -17,6 +17,7 @@ import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { r2Put, pickThreadsOption } from './lib/meta-social.mjs';
 import { runSocialPublish, socialEnabled } from './lib/social-publish-step.mjs';
 import { imageFetch } from './lib/image-fetch.mjs';
+import { sendTelegram, sendTelegramForm, telegramCreds } from './lib/telegram.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 const STATE_FILE = 'data/threads-daily.json';
@@ -429,38 +430,29 @@ const thText = [
 ].join('\n');
 
 // -------- send (or preview locally) --------
-const tok = process.env.TELEGRAM_BOT_TOKEN, chat = process.env.TELEGRAM_CHAT_ID;
-if (tok && chat) {
+if (telegramCreds()) {
+  // Every send here throws on a refusal, and lastSentDay is stamped further
+  // down (Codex audit 2026-08-27): logging a lost album and stamping anyway
+  // marked the day done, so no later attempt ever re-sent the slides the owner
+  // needs to post from.
   if (slides.length > 1) {
     // Album, so the slides arrive in carousel order and can be saved in sequence.
-    const form = new FormData();
-    form.append('chat_id', chat);
-    form.append('media', JSON.stringify(slides.map((_, i) => ({
-      type: 'photo', media: `attach://s${i}`,
-      ...(i === 0 ? { caption: igText } : {}),   // caption rides the first item
-    }))));
-    slides.forEach((b, i) => form.append(`s${i}`, new Blob([b], { type: 'image/jpeg' }), `s${i}.jpg`));
-    const rp = await fetch(`https://api.telegram.org/bot${tok}/sendMediaGroup`, { method: 'POST', body: form });
-    // A lost album must fail BEFORE lastSentDay is stamped (Codex audit
-    // 2026-08-27): logging it and stamping anyway marked the day done, so no
-    // later attempt ever re-sent the slides the owner needs to post from.
-    if (!rp.ok) { console.error('telegram album failed', rp.status, await rp.text()); process.exit(1); }
+    await sendTelegramForm('sendMediaGroup', (form) => {
+      form.append('media', JSON.stringify(slides.map((_, i) => ({
+        type: 'photo', media: `attach://s${i}`,
+        ...(i === 0 ? { caption: igText } : {}),   // caption rides the first item
+      }))));
+      slides.forEach((b, i) => form.append(`s${i}`, new Blob([b], { type: 'image/jpeg' }), `s${i}.jpg`));
+    });
     console.log(`telegram album sent (${slides.length} slides)`);
   } else if (slides.length === 1) {
-    const form = new FormData();
-    form.append('chat_id', chat);
-    form.append('caption', igText);
-    form.append('photo', new Blob([slides[0]], { type: 'image/jpeg' }), 'ig.jpg');
-    const rp = await fetch(`https://api.telegram.org/bot${tok}/sendPhoto`, { method: 'POST', body: form });
-    if (!rp.ok) { console.error('telegram photo failed', rp.status, await rp.text()); process.exit(1); }
+    await sendTelegramForm('sendPhoto', (form) => {
+      form.append('caption', igText);
+      form.append('photo', new Blob([slides[0]], { type: 'image/jpeg' }), 'ig.jpg');
+    });
     console.log('telegram photo sent');
   }
-  const r = await fetch(`https://api.telegram.org/bot${tok}/sendMessage`, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ chat_id: chat, text: thText, disable_web_page_preview: true }),
-  });
-  if (!r.ok) { console.error('telegram send failed', r.status, await r.text()); process.exit(1); }
+  await sendTelegram(thText, { disable_web_page_preview: true });
   console.log('telegram sent');
 } else {
   if (slides.length) {

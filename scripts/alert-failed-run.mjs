@@ -14,9 +14,10 @@ import { mkdtempSync, readdirSync, readFileSync, statSync, writeFileSync } from 
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { alertText } from './lib/diagnose-failure.mjs';
+import { sendTelegram } from './lib/telegram.mjs';
 
 const DRY = process.argv.includes('--dry');
-const { GITHUB_TOKEN, GITHUB_REPOSITORY, RUN_ID, WF_NAME, RUN_URL, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
+const { GITHUB_TOKEN, GITHUB_REPOSITORY, RUN_ID, WF_NAME, RUN_URL } = process.env;
 const repo = GITHUB_REPOSITORY || 'pixer-11/korea-travel-guide';
 const name = WF_NAME || '(이름 없음)';
 const url = RUN_URL || `https://github.com/${repo}/actions/runs/${RUN_ID ?? ''}`;
@@ -59,14 +60,18 @@ async function fetchLog() {
 
 const text = alertText(name, url, await fetchLog());
 
-if (DRY || !TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
+if (DRY) {
   console.log(text);
 } else {
-  const r = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text, disable_web_page_preview: true }),
-  });
-  if (!r.ok) { console.error('telegram failed:', r.status, (await r.text()).slice(0, 200)); process.exitCode = 1; }
-  else console.log('sent:', text.split('\n')[0]);
+  // This script IS the failure notice, so a refused send must not bury what it
+  // was about: the whole alert goes to the run log, the refusal is reported
+  // beside it, and the throw is caught rather than replacing either.
+  try {
+    if (await sendTelegram(text, { disable_web_page_preview: true })) console.log('sent:', text.split('\n')[0]);
+    else console.log(text);   // no secrets yet (bootstrap window) — not a failure
+  } catch (e) {
+    console.error(text);
+    console.error(e.message);
+    process.exitCode = 1;
+  }
 }

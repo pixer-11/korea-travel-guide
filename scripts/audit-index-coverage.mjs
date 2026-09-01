@@ -21,8 +21,9 @@
 //   node scripts/audit-index-coverage.mjs [--per 60] [--quiet-ok]
 import { createSign, createHash } from 'node:crypto';
 import { writeFileSync, mkdirSync } from 'node:fs';
+import { sendTelegram } from './lib/telegram.mjs';
 
-const { GSC_SERVICE_ACCOUNT_JSON, GSC_SITE_URL, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
+const { GSC_SERVICE_ACCOUNT_JSON, GSC_SITE_URL } = process.env;
 const SITE = 'https://wanderatlasguides.com';
 const PER = Number(process.argv.includes('--per') ? process.argv[process.argv.indexOf('--per') + 1] : 60);
 const THRESHOLD = 0.8;
@@ -55,12 +56,11 @@ async function getAccessToken(sa, scope) {
   return j.access_token;
 }
 
+// Link previews stay on (no opts): this report is plain text with nothing to
+// expand, and that is what it always did. A refusal throws — the weekly
+// coverage number is the whole errand.
 async function tg(text) {
-  if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) { console.log('[TG 미설정]\n' + text); return; }
-  await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST', headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text }),
-  });
+  if (!(await sendTelegram(text))) console.log('[TG 미설정]\n' + text);
 }
 
 // Deterministic weekly shuffle: same Monday → same sample (a re-run debugs the

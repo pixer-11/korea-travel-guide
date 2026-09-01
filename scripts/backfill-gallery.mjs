@@ -29,6 +29,7 @@ import { commonsBest, tokens } from './lib/commons.mjs';
 import { venuePhotoCandidates } from './lib/photo-sources.mjs';
 import { verifyGalleryImage } from './lib/vision-check.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
+import { sendTelegram } from './lib/telegram.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -162,15 +163,13 @@ console.log(`\nGALLERY_PATROL_SUMMARY tried=${tried} added=${added} eligible=${c
 
 // Telegram (Korean), same pattern as the other patrols: say what happened AND
 // what happens next, so the list never reads as a to-do for the owner.
-const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
-if (!DRY && TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID && added > 0) {
+if (!DRY && added > 0) {
   const text = `🖼️ Wander Atlas — 본문 사진 주간 순찰\n` +
     `1장짜리 글 ${tried}편 재시도 → ${added}편에 검증 통과한 본문 사진 추가\n` +
     `${wins.slice(0, 10).join('\n')}\n` +
     `나머지는 ${RETRY_DAYS}일 뒤 자동 재시도합니다. 하실 일은 없습니다.`;
-  await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text }),
-  }).catch(() => {});
+  // The .catch(() => {}) that used to sit here made a lost report read as a
+  // delivered one. The state file is already written above, so a refusal here
+  // fails the run without costing the patrol its work.
+  await sendTelegram(text);
 }

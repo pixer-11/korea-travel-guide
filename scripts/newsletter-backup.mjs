@@ -5,8 +5,9 @@ import { writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { mailerlite } from './lib/mailerlite.mjs';
+import { sendTelegramForm } from './lib/telegram.mjs';
 
-const { MAILERLITE_API_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
+const { MAILERLITE_API_TOKEN } = process.env;
 if (!MAILERLITE_API_TOKEN) { console.error('MAILERLITE_API_TOKEN missing'); process.exit(0); }
 
 const ml = mailerlite(MAILERLITE_API_TOKEN);
@@ -19,11 +20,10 @@ const day = new Date().toISOString().slice(0, 10);
 const path = join(tmpdir(), `wander-atlas-subscribers-${day}.csv`);
 writeFileSync(path, csv);
 
-if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) { console.log('Telegram secrets missing — CSV written locally only.'); process.exit(0); }
-const form = new FormData();
-form.append('chat_id', TELEGRAM_CHAT_ID);
-form.append('caption', `🗂️ 구독자 백업 (${day}) — ${subs.length}명`);
-form.append('document', new Blob([csv], { type: 'text/csv' }), `wander-atlas-subscribers-${day}.csv`);
-const r = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument`, { method: 'POST', body: form });
-const j = await r.json().catch(() => ({}));
-console.log(j.ok ? `Backup sent (${subs.length} subscribers).` : `Backup send failed: ${JSON.stringify(j).slice(0, 200)}`);
+// A backup Telegram refused is a backup that does not exist. It used to print
+// "Backup send failed" under a green tick; now it throws.
+const sent = await sendTelegramForm('sendDocument', (form) => {
+  form.append('caption', `🗂️ 구독자 백업 (${day}) — ${subs.length}명`);
+  form.append('document', new Blob([csv], { type: 'text/csv' }), `wander-atlas-subscribers-${day}.csv`);
+});
+console.log(sent ? `Backup sent (${subs.length} subscribers).` : 'Telegram secrets missing — CSV written locally only.');
