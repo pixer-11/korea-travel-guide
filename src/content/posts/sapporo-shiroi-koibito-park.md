@@ -30,18 +30,22 @@ place:
   lng: 141.2717042
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 17
-      - 18
-    weekendQuiet:
-      - 17
-      - 18
+    weekdayQuiet: [10, 17]
+    weekendQuiet: [17]
     weekendBusy:
       - 13
       - 14
       - 15
     venueId: ven_49734838674c314b45516b523831436f49425a487638554a496843
+  phone: '+81 11-666-1481'
+  openingHours:
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
   - sapporo
   - hidden gem

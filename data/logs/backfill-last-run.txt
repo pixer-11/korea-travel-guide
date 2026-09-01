@@ -1,14 +1,15 @@
-Places 예산: backfill 몫 10회 (오늘 사용 10/100)
-Priority: 149 itinerary stop(s) queued first
-  – central-avenue-of-stars-hk.md: nothing new (resting 60d)
-  – lantau-island-big-buddha.md: nothing new (resting 60d)
-  – causeway-bay-fashion-walk-food-street.md: nothing new (resting 60d)
-  – can-tho-cai-rang-market.md: nothing new (resting 60d)
-  – central-central-mid-levels-escalators.md: nothing new (resting 60d)
-  – phuket-green-elephant-sanctuary-park.md: nothing new (resting 60d)
+Places 예산: backfill 몫 10회 (오늘 사용 5/100)
+Priority: 147 itinerary stop(s) queued first
+  – tsim-sha-tsui-tsim-sha-tsui-waterfront-park.md: nothing new (resting 60d)
+  – coron-twin-lagoon.md: nothing new (resting 60d)
   🚫 ras-al-khaimah-jebel-jais.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – rishikesh-triveni-ghat.md: nothing new (resting 60d)
-  – saadiyat-island-hudayriyat-island.md: nothing new (resting 60d)
-  – samarkand-siyob-bozori.md: nothing new (resting 60d)
+  – santiago-de-compostela-casco-historico-de-santiago-de-compostela.md: nothing new (resting 60d)
+  – sanya-sanya-nanshan-cultural-tourism-zone.md: nothing new (resting 60d)
+  ✓ sapporo-shiroi-koibito-park.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
+  – shanghai-people-s-park.md: nothing new (resting 60d)
+  – sheung-wan-graham-street-market.md: nothing new (resting 60d)
+  – siem-reap-old-market.md: nothing new (resting 60d)
+  – siem-reap-wat-bo.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 404, no-new-data 121, no-place 139, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 330 (APPLIED).
+BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 415, no-new-data 127, no-place 141, closed-quarantined 1, quota-429 0, api-error 0, api-calls 10, remaining-askable 323 (APPLIED).
