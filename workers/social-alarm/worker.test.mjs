@@ -16,6 +16,8 @@ import assert from 'node:assert/strict';
 import worker, { fireDispatches, alertFailures } from './worker.mjs';
 
 const ONE = ['threads-daily.yml'];
+// 같은 재시도 횟수, 기다림만 0 — 지연 '값'은 이 테스트의 주장이 아니다.
+const FAST = [0, 0];
 
 const env = {
   GH_DISPATCH_TOKEN: 'tok',
@@ -84,7 +86,7 @@ test('204 stays silent — no Telegram call', async () => {
 test('a thrown fetch becomes a failure result, not a crash', async () => {
   const results = await fireDispatches(env, async () => {
     throw new Error('network down');
-  }, ONE);
+  }, ONE, FAST);
   assert.equal(results[0].ok, false);
   assert.equal(results[0].status, -1);
 });
@@ -165,4 +167,42 @@ test('root stays a harmless status line', async () => {
   const res = await worker.fetch(new Request('https://x/'), { FIRE_KEY: 'k' });
   assert.equal(res.status, 200);
   assert.match(await res.text(), /wa-social-alarm/);
+});
+
+// ── retry (2026-08-31) ────────────────────────────────────────────────
+// The alarm became load-bearing the day it started waking the watchdogs, and
+// that same day one wake-up left no run at all. These pin the retry to the
+// distinction that matters: transient failures deserve another try, permanent
+// ones do not, and a success must not cost a second dispatch.
+
+test('a 5xx is retried and can still succeed', async () => {
+  let n = 0;
+  const results = await fireDispatches(env, async () => {
+    n++;
+    return n < 3 ? { status: 502, ok: false } : { status: 204 };
+  }, ONE, FAST);
+  assert.equal(results[0].ok, true);
+  assert.equal(results[0].attempts, 3);
+});
+
+test('a 4xx is NOT retried — a bad token answers the same way forever', async () => {
+  let n = 0;
+  const results = await fireDispatches(env, async () => { n++; return { status: 401, ok: false }; }, ONE, FAST);
+  assert.equal(results[0].ok, false);
+  assert.equal(n, 1, 'retrying a 401 only hides the cause');
+});
+
+test('a network throw is retried, then gives up honestly', async () => {
+  let n = 0;
+  const results = await fireDispatches(env, async () => { n++; throw new Error('down'); }, ONE, FAST);
+  assert.equal(results[0].ok, false);
+  assert.equal(results[0].status, -1);
+  assert.equal(n, 3, 'three attempts: the first plus two backoffs');
+});
+
+test('success costs exactly one dispatch — no duplicate wake-ups', async () => {
+  let n = 0;
+  const results = await fireDispatches(env, async () => { n++; return { status: 204 }; }, ONE, FAST);
+  assert.equal(n, 1);
+  assert.equal(results[0].attempts, 1);
 });

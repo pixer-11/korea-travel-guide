@@ -72,35 +72,56 @@ export const ALL_TARGETS = [...new Set(Object.values(SCHEDULE).flat())];
 // costs the day's work. A drifted key should never be the quiet failure.
 export const targetsFor = (cron) => SCHEDULE[cron] ?? ALL_TARGETS;
 
-export async function fireDispatches(env, fetchImpl = fetch, targets = ALL_TARGETS) {
+// One attempt is not enough against a GitHub that is currently unwell. On
+// 2026-08-31 the 14:23 UTC wake-up left no run at all while the 22:30 one
+// worked with the same code and the same token, and GitHub Actions has been
+// degraded since 08-26 — a transient 5xx is the likeliest reading, and a
+// single-shot dispatch turns it into a silently skipped day. Retries are safe
+// because every target is guarded: the worst case of firing twice is a no-op
+// run. 4xx is NOT retried — a bad token or a missing workflow_dispatch trigger
+// will answer the same way forever, and hammering it only hides the cause.
+// Injectable so the tests can prove the retry without sleeping through it —
+// five real seconds per case would have added 40% to the whole suite's runtime
+// to assert something the delay values have nothing to do with.
+export const RETRY_DELAYS_MS = [1000, 4000];
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+export async function fireDispatches(env, fetchImpl = fetch, targets = ALL_TARGETS, delays = RETRY_DELAYS_MS) {
   const results = [];
   for (const workflow of targets) {
     let status = 0;
     let ok = false;
-    try {
-      const res = await fetchImpl(
-        `https://api.github.com/repos/${REPO}/actions/workflows/${workflow}/dispatches`,
-        {
-          method: 'POST',
-          headers: {
-            Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
-            Accept: 'application/vnd.github+json',
-            // Pinned: unversioned requests follow GitHub's moving default,
-            // and newer API versions answer a dispatch with 200+run details
-            // instead of 204 — which the 204-only check would call a failure.
-            'X-GitHub-Api-Version': '2022-11-28',
-            'User-Agent': 'wa-social-alarm',
-            'Content-Type': 'application/json',
+    let attempts = 0;
+    for (let i = 0; i <= delays.length; i++) {
+      if (i) await sleep(delays[i - 1]);
+      attempts++;
+      try {
+        const res = await fetchImpl(
+          `https://api.github.com/repos/${REPO}/actions/workflows/${workflow}/dispatches`,
+          {
+            method: 'POST',
+            headers: {
+              Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
+              Accept: 'application/vnd.github+json',
+              // Pinned: unversioned requests follow GitHub's moving default,
+              // and newer API versions answer a dispatch with 200+run details
+              // instead of 204 — which the 204-only check would call a failure.
+              'X-GitHub-Api-Version': '2022-11-28',
+              'User-Agent': 'wa-social-alarm',
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ ref: 'main' }),
           },
-          body: JSON.stringify({ ref: 'main' }),
-        },
-      );
-      status = res.status;
-      ok = status === 204 || res.ok === true;
-    } catch {
-      status = -1; // network failure — as dead as a 4xx for our purposes
+        );
+        status = res.status;
+        ok = status === 204 || res.ok === true;
+      } catch {
+        status = -1; // network failure — as dead as a 4xx for our purposes
+      }
+      if (ok) break;
+      if (status >= 400 && status < 500) break; // permanent: retrying changes nothing
     }
-    results.push({ workflow, status, ok });
+    results.push({ workflow, status, ok, attempts });
   }
   return results;
 }
