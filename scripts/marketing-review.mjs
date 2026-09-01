@@ -118,10 +118,14 @@ async function main() {
 
   const { TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID } = process.env;
   if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID) {
-    await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+    // Nobody was reading Telegram's answer, so the week the body went out
+    // empty, Telegram's rejection went out with it — unseen. The send is this
+    // job's entire product; if it fails, the job failed.
+    const res = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text: text.slice(0, 4000), disable_web_page_preview: true }),
     });
+    if (!res.ok) throw new Error(`telegram send failed: ${res.status} ${(await res.text()).slice(0, 300)}`);
   }
 }
 
