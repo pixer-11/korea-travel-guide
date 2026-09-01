@@ -16,8 +16,13 @@ name: Build check (deploy guard)
 #
 # The repo is public, so Actions minutes are free. Building once here and
 # shipping that same dist costs nothing and removes the monthly cliff.
-# ⚠️ Cloudflare's automatic builds must be switched OFF in the dashboard before
-# its allowance resets on Sep 1, or both will deploy.
+# The Sep 1 allowance reset was the deadline for switching Cloudflare's own
+# builds off, or both would deploy. Checked in the dashboard on 2026-09-01:
+# Settings -> Builds -> Git repository offers a bare "Connect" button, so no
+# repository is attached and Cloudflare cannot build this Worker at all. The
+# Versions list agrees — every entry reads "Manually deployed / Wrangler",
+# which is this workflow; a Cloudflare build would stamp a commit and branch.
+# Nothing to switch off. Re-check only if a repository ever appears there.
 on:
   # Ship the current main on demand — the button that used to be Cloudflare's
   # "Retry build". Also the only way to redeploy after a change that touches
