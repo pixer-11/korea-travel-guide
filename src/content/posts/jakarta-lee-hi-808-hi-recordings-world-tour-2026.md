@@ -25,14 +25,15 @@ faq:
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Lee_Hi_on_May_15%2C_2012.jpg
-  credit: 'Photo: rokiei (also called 토끼이, see far right bottom of the source blog page) / Wikimedia Commons (CC BY 2.0 kr)'
+  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jackie_Lee_in_concert_2017.jpg/3840px-Jackie_Lee_in_concert_2017.jpg
+  credit: 'Photo: Max Goldberg / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lee_Hi_on_May_15,_2012.jpg
+  source: https://commons.wikimedia.org/wiki/File:Jackie_Lee_in_concert_2017.jpg
   focus:
-    x: 42
-    'y': 20
-draft: true
+    x: 39
+    'y': 25
+    top: 14
+    bottom: 36
 ---
 ## Why this show matters
 
