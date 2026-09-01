@@ -1267,11 +1267,11 @@
   "at": "2026-08-15T02:16:27.023Z"
  },
  "ko/cordoba-torre-de-la-calahorra": {
-  "hash": "bcec07009f0b",
+  "hash": "d69926913e9c",
   "score": 1,
   "registerBreak": false,
-  "worst": "다리 위에서 자리다툼을 하지 않고도 메스키타의 종탑과 주황빛 지붕들이 어우러진 엽서 같은 풍경을 담을 수 있는 코르도바 유일의 장소",
-  "at": "2026-08-15T02:16:32.835Z"
+  "worst": "방문객들이 가장 흔히 저지르는 실수는 다리 위에서 사진만 찍고 정작 탑에 올라가지 않는 것입니다.",
+  "at": "2026-09-01T10:47:48.264Z"
  },
  "ko/chuncheon-gangchon-rail-park": {
   "hash": "0ac458f4f542",
@@ -6678,11 +6678,11 @@
   "at": "2026-08-15T06:26:28.238Z"
  },
  "ja/jakarta-lalala-festival-2026": {
-  "hash": "b6696a3e5850",
+  "hash": "64cbd3dc05cd",
   "score": 1,
   "registerBreak": false,
-  "worst": "ビル構成のため、目当てのステージがあるなら早めに現地入りするのが賢明です。",
-  "at": "2026-08-24T09:48:04.303Z"
+  "worst": "この規模の国際的なイベントであることから、過去の大会では人気のチケット区分やVIPパッケージが完売しています。",
+  "at": "2026-09-01T10:47:41.394Z"
  },
  "ja/jaipur-hawa-mahal": {
   "hash": "89b62fe3edd7",
@@ -12859,11 +12859,11 @@
   "at": "2026-08-15T03:23:25.207Z"
  },
  "es/jakarta-lalala-festival-2026": {
-  "hash": "bab137fa5026",
+  "hash": "f8dad4f3071c",
   "score": 1,
   "registerBreak": false,
-  "worst": "comparable en poder de convocatoria internacional a otros festivales de varios días",
-  "at": "2026-08-24T09:47:49.978Z"
+  "worst": "Las categorías de entradas, los precios definitivos y los horarios de las actuaciones aún no se han",
+  "at": "2026-09-01T10:47:31.610Z"
  },
  "es/izmir-clock-tower-of-izmir": {
   "hash": "9a3da498a398",
@@ -20258,7 +20258,7 @@
   "at": "2026-08-15T04:09:31.804Z"
  },
  "zh/paris-shwi": {
-  "hash": "d693e428352e",
+  "hash": "e0d68c6d58e2",
   "score": 1,
   "registerBreak": false,
   "worst": "如果时间上比较灵活，刚开门不久去吃早午餐，或者选在下午稍晚一些的时段过去，通常能避开人最多的时候。",
@@ -20482,7 +20482,7 @@
   "at": "2026-08-15T09:23:04.521Z"
  },
  "zh/qingdao-qingdao-international-beer-festival": {
-  "hash": "88c9ac14cbfa",
+  "hash": "465a6e6609cb",
   "score": 1,
   "registerBreak": false,
   "worst": "与其说这是一场品酒会式的活动，不如说它更像一场热闹非凡、老少皆宜的嘉年华",
@@ -22820,11 +22820,11 @@
   "at": "2026-08-15T06:09:30.213Z"
  },
  "ko/jakarta-lalala-festival-2026": {
-  "hash": "521a8902ecbd",
+  "hash": "3b23da4ba8cb",
   "score": 1,
   "registerBreak": false,
-  "worst": "동남아시아 음악 여행을 계획하고 계신다면, 이 페스티벌은 국제적 흡인력 면에서 마닐라, 싱가포르, 쿠알라룸푸르에서 열리는",
-  "at": "2026-08-24T09:48:18.429Z"
+  "worst": "대부분의 참가자들은 차량 호출 앱을 이용하거나... 셔틀 서비스를 이용했습니다.",
+  "at": "2026-09-01T10:47:59.563Z"
  },
  "ko/jakarta-pestapora-2026": {
   "hash": "62bc5ca7b778",
@@ -25536,11 +25536,11 @@
   "at": "2026-08-15T10:43:01.872Z"
  },
  "zh/chicago-billy-goat-tavern-the-original": {
-  "hash": "42956f3a2a3b",
+  "hash": "bc5970ee0ed0",
   "score": 1,
   "registerBreak": false,
-  "worst": "实测客流数据显示，最安静的时段是工作日早上7点到10点，那时候午间的上班族人潮和旅行团都还没到。",
-  "at": "2026-08-15T10:43:03.801Z"
+  "worst": "根据实测客流数据，最清静的时段是工作日早上7点到10点，这时午间办公人群和旅游团都还没到。",
+  "at": "2026-09-01T10:48:31.845Z"
  },
  "zh/chinatown-my-awesome-cafe": {
   "hash": "4d714ba6bb35",
@@ -29517,5 +29517,54 @@
   "registerBreak": false,
   "worst": "그 광경은 정말이지 아득할 정도인데, 바깥의 유리 빌딩들과 달리 여전히 1800년대에 머물러 있는 듯한 느낌을 주는",
   "at": "2026-08-31T15:21:20.286Z"
+ },
+ "es/banlung-virachey-national-park": {
+  "hash": "5ba1165998fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El pico relativo de afluencia, modesto en cualquier caso, suele darse los fines de semana",
+  "at": "2026-09-01T10:49:05.829Z"
+ },
+ "es/yokohama-babymonster-choom-world-tour-japan-yokohama-leg": {
+  "hash": "32b7f7f2fa56",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "marcado por la coreografía, por lo que cabe esperar un set de gran energía basado en sus EP",
+  "at": "2026-09-01T10:47:33.250Z"
+ },
+ "ja/banlung-virachey-national-park": {
+  "hash": "cbb6ee3f1355",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この公園はもともと、写真映えを狙う人混みのためではなく、静寂を味わうためにつくられた場所であり、数字もそれを裏付けています。",
+  "at": "2026-09-01T10:47:39.402Z"
+ },
+ "ja/yokohama-babymonster-choom-world-tour-japan-yokohama-leg": {
+  "hash": "f84fc2f8461b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "PIA ARENA MMは2020年、横浜の再開発された臨海エリア「みなとみらい」(\"harbor of the future\"、未来の港という意味)に開業しました。",
+  "at": "2026-09-01T10:47:43.489Z"
+ },
+ "ko/banlung-virachey-national-park": {
+  "hash": "74f69372dffd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "비라체이는 최소 1박 이상 머물기로 마음먹은 사람에게 진짜 매력을 보여주는 곳이며, 서둘러 다녀오는 당일치기로는 흥미로운 지형까지 겨우 닿을까 말까 합니다.",
+  "at": "2026-09-01T10:47:46.341Z"
+ },
+ "zh/bangkok-chinatown-night-market": {
+  "hash": "0a6ad363bfe8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "对于一个没有固定菜单、摊贩不断轮换的目的地来说，这个评分相当亮眼",
+  "at": "2026-09-01T10:48:19.721Z"
+ },
+ "zh/banlung-virachey-national-park": {
+  "hash": "4350fb48e230",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "地形在一次徒步中就能经历从茂密低地丛林到开阔草原、草地的转变。",
+  "at": "2026-09-01T10:49:20.506Z"
  }
 }

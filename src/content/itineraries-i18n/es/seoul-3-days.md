@@ -1,38 +1,38 @@
 ---
 lang: es
 slug: seoul-3-days
-sourceHash: 828c016bb5076938839d8834cdb3146a05aaa39a
-title: 'Seúl en 3 días: aldeas hanok, palacios, mercados y parques junto al río'
-description: Un itinerario de 3 días por Seúl que va desde los callejones hanok de Bukchon y el Palacio de Gyeongbokgung hasta Cheonggyecheon, las cafeterías de Yeonnam-dong y el Parque de Yeouido, para terminar en el Mercado de Gwangjang, Euljiro y Myeongdong.
-quickAnswer: 'Este es un itinerario de 3 días por Seúl: el primer día recorre las aldeas hanok y un palacio en el distrito de Jongno, el segundo día avanza desde un paseo junto a un arroyo céntrico, pasando por un barrio de cafeterías en Mapo-gu, hasta un parque junto al río en el distrito de Yeongdeungpo, y el tercer día va de un mercado en el distrito de Jongno a los callejones y calles comerciales del distrito de Jung.'
+sourceHash: d3d8ffe3c61395fffe235061f5bd5143263e0921
+title: 'Itinerario de 3 días por Seúl: aldeas hanok, mercados y parques junto al río'
+description: Un itinerario de 3 días por Seúl que va desde los callejones hanok de Bukchon y la comida de calle de Myeongdong hasta Cheonggyecheon, las cafeterías de Yeonnam-dong, el Parque Yeouido, el Mercado Gwangjang, el DDP y el Parque Seoul Forest.
+quickAnswer: 'Este es un itinerario de 3 días por Seúl: el primer día recorre los callejones hanok y las compras en el distrito de Jongno y el distrito de Jung, el segundo día combina un paseo por un arroyo céntrico, una cafetería en Mapo-gu y un parque en el distrito de Yeongdeungpo, y el tercer día va desde un mercado en el distrito de Jongno, pasando por el emblema de diseño del distrito de Jung, hasta una velada prolongada en el Parque Seoul Forest, en Seongdong-gu.'
 faq:
-  - q: ¿Cuántos días necesito para este itinerario por Seúl?
-    a: 'Este itinerario se distribuye en 3 días, cada uno centrado en una parte distinta de la ciudad: el distrito de Jongno el primer día, un recorrido hacia el oeste por Mapo-gu y el distrito de Yeongdeungpo el segundo día, y de Jongno al distrito de Jung el tercer día.'
-  - q: ¿Cómo debería moverme entre las paradas?
-    a: La mayoría de las paradas dentro de un mismo día se pueden hacer a pie, pero el segundo día implica distancias más largas entre Cheonggyecheon, la cafetería de Yeonnam-dong y el Parque de Yeouido que superan lo caminable, así que conviene tomar transporte público para esos trayectos.
-  - q: ¿Cuál es el mejor momento del día para visitar las zonas hanok el primer día?
-    a: Tanto la Aldea Hanok de Bukchon como la ruta fotográfica de Bukchon Yukgyeong están más tranquilas por la mañana, así que empezar el día ahí antes de pasar al almuerzo y al palacio encaja bien con el ritmo de la jornada.
-  - q: ¿Es flexible este itinerario si llueve?
-    a: El primer y el segundo día tienen cada uno una alternativa para días de lluvia que puede sustituir el plan de esa jornada, aunque el tercer día no tiene una indicada.
-  - q: ¿Necesito reservar algo con antelación?
-    a: Vale la pena considerar una reserva para el almuerzo de comida de templo en Sanchon el primer día, ya que se trata de una comida sentada de menú fijo y no de una parada rápida.
+  - q: ¿Cuánto se camina en este itinerario de 3 días por Seúl?
+    a: Bastante, desde los empinados callejones de Bukchon el primer día hasta los paseos junto al arroyo y por el parque los días dos y tres, así que conviene llevar calzado cómodo y plano.
+  - q: ¿Cómo se llega de una parada a otra cada día?
+    a: La mayoría de las paradas dentro de un mismo día se pueden hacer caminando, pero algunas, como el trayecto de Bukchon a Myeongdong o de Cheonggyecheon a la cafetería de Yeonnam-dong, quedan fuera de distancia caminable y requieren transporte.
+  - q: ¿Qué día tiene el ritmo más relajado?
+    a: El segundo día es más ligero, combinando un breve paseo junto al arroyo, una parada en una cafetería y un parque por la noche, lo que deja más margen para tomarse las cosas con calma que los días primero y tercero, más llenos.
+  - q: ¿Depende este itinerario del clima?
+    a: El primer y el segundo día incluyen cada uno una alternativa bajo techo para días de lluvia, así que un pronóstico húmedo no tiene por qué arruinar esas jornadas, aunque el tercer día no cuenta con una opción alternativa.
+  - q: ¿Conviene visitar la Aldea Hanok de Bukchon a primera hora del día?
+    a: Sí, las mañanas son más tranquilas allí y en sus callejones fotogénicos, ya que ambos se llenan de grupos turísticos más tarde, sobre todo los fines de semana.
 days:
-  - label: Palacios y callejones hanok
-    intro: El primer día se mantiene en el distrito de Jongno, recorriendo las laderas cubiertas de casas hanok de Bukchon antes de un almuerzo de comida de templo en Insadong y una tarde-noche en el Palacio de Gyeongbokgung. Es un día pensado para caminar despacio y admirar los tejados, con un ritmo que va de la calma matutina a la grandeza del palacio al final.
+  - label: Callejones hanok y noches en Myeongdong
+    intro: El primer día comienza en el distrito de Jongno, entre los tejados de tejas de Bukchon, antes de un almuerzo de comida de templo escondido cerca de Insadong-gil. Por la tarde se sigue en Bukchon con un paseo centrado en la fotografía por sus pintorescos callejones, y luego el día cruza al distrito de Jung para ir de compras y probar comida de calle en Myeongdong.
   - label: Paseos junto al arroyo y verde junto al río
-    intro: El segundo día comienza junto a Cheonggyecheon, en el distrito de Jongno, para luego cruzar hacia el oeste hasta el ambiente de cafeterías tipo invernadero de Yeonnam-dong, en Mapo-gu, antes de seguir más al oeste hasta el Parque de Yeouido, en el distrito de Yeongdeungpo. Se puede esperar un cambio de un arroyo urbano a una cafetería llena de plantas y, más tarde, a amplios prados junto al río.
-  - label: Mercados, callejones y calles comerciales
-    intro: El tercer día empieza con comida callejera en el Mercado de Gwangjang, en el distrito de Jongno, para luego adentrarse en el distrito de Jung, con los bares de estilo retro de Euljiro y las calles comerciales de Myeongdong. Es un día de comida, callejones y energía urbana que va creciendo hacia el bullicio nocturno y el neón.
+    intro: El segundo día empieza con un paseo matutino por Cheonggyecheon, en el distrito de Jongno, y luego cruza a Mapo-gu para una tarde más pausada entre plantas en una cafetería de Yeonnam-dong. Por la noche, el recorrido continúa hacia el distrito de Yeongdeungpo, con sus amplios césped y senderos en el Parque Yeouido.
+  - label: Bocados de mercado hasta noches en el bosque
+    intro: El tercer día abre con una mañana centrada en la comida en el Mercado Gwangjang, en el distrito de Jongno, y luego cruza al distrito de Jung para ver las curvas y exposiciones del Dongdaemun Design Plaza. La jornada termina en Seongdong-gu con una velada prolongada en el Parque Seoul Forest.
 whys:
-  seoul-bukchon-hanok-village: Este barrio en la ladera con casas hanok centenarias entre los dos palacios es el punto de partida natural y sin prisas para un día en Jongno, ideal para recorrer a pie temprano, cuando los callejones están tranquilos.
-  seoul-sanchon: Una comida de templo de menú fijo en un callejón de Insadong ofrece al día una pausa de almuerzo tranquila y pausada entre caminata y caminata por las zonas hanok.
-  seoul-bukchon-yukgyeong-photo-spot: Este recorrido autoguiado por los callejones de Bukchon, que incluye el famoso Punto de Vista 6, prolonga el ambiente hanok de la mañana hacia la tarde con su propia ruta panorámica.
-  seoul-gyeongbokgung-palace: Como el palacio real más grande de la era Joseon en Seúl, con la Ceremonia del Cambio de Guardia Real y espacios como Geunjeongjeon y Gyeonghoeru, es el broche de oro natural para un día de calles hanok en Jongno.
-  seoul-cheonggyecheon: Un paseo gratuito y al aire libre junto a un arroyo en pleno centro de Seúl resulta un inicio sencillo y relajado antes de dirigirse a zonas más alejadas.
-  seoul-plant-cafe-seoul-yeonnam: Esta cafetería tipo invernadero en Yeonnam-dong es el tipo de lugar para quedarse un rato y hacer fotos, dándole a la tarde un ritmo más pausado y lleno de plantas tras el paseo junto al arroyo.
-  seoul-yeouido-park: Un extenso corredor verde libre de coches, con prados, estanques y sendas para bicicleta en la isla de Yeouido, es un cierre al aire libre perfecto para el día.
-  seoul-gwangjang-market: El mercado tradicional más antiguo de Seúl, con su legendario callejón de comida, ofrece un inicio lleno de energía para un día pensado para comer y callejear.
-  seoul-euljiro: Este antiguo barrio de imprentas y ferreterías convertido en escena de bares retro se disfruta mejor al caer la tarde, cuando los talleres van cerrando y los letreros se encienden, siguiendo con naturalidad al mercado.
-  seoul-myeongdong-shopping-street: Como el mayor distrito de compras callejeras y comida al paso de Seúl, a pocos minutos de Euljiro, es el cierre lleno de energía perfecto para el viaje.
+  seoul-bukchon-hanok-village: Es la oportunidad de caminar entre casas hanok de madera centenarias en una colina situada entre dos palacios, apreciada por sus vistas de tejados de tejas más que por algún sitio concreto con entrada.
+  seoul-sanchon: Ofrece una comida de templo lenta y de menú fijo, con muchos platos pequeños, en un callejón tranquilo cerca de Insadong-gil, una pausa de mediodía perfecta tras una mañana de caminata.
+  seoul-bukchon-yukgyeong-photo-spot: Esta ruta autoguiada por los empinados callejones de Bukchon lleva hasta su mirador más fotografiado, un callejón de piedra enmarcado por tejados curvos de tejas con la Torre Namsan al fondo.
+  seoul-myeongdong-shopping-street: Cierra el primer día con la mayor zona de compras y comida de calle a nivel de calle de Seúl, ideal para mirar cosméticos y probar tteokbokki, hotteok y pinchos.
+  seoul-cheonggyecheon: Este paseo restaurado al aire libre junto al arroyo, bordeado de sauces y arte público, ofrece un comienzo fácil y sin prisas a la mañana en el centro de Seúl.
+  seoul-plant-cafe-seoul-yeonnam: Esta cafetería tipo invernadero llena de plantas le da a la tarde un ritmo más lento y relajado en el barrio de Yeonnam-dong.
+  seoul-yeouido-park: Este extenso corredor verde con césped, estanques y senderos para bicicleta ofrece por la noche un espacio abierto para relajarse en la isla de Yeouido.
+  seoul-gwangjang-market: El mercado tradicional más antiguo de Seúl es un legendario destino de comida de calle, ideal para empezar el día centrado en la comida gracias a su callejón gastronómico exclusivo.
+  seoul-dongdaemun-design-plaza-ddp: El emblema neofuturista de Zaha Hadid ofrece exposiciones, un Design Market y el Jardín de Rosas LED para un recorrido de tarde en el distrito de Jung.
+  seoul-seoul-forest-park: Este parque gratuito junto al río, con un recinto de ciervos, un parque de mariposas y un jardín de rosas, le da al viaje una larga y tranquila última velada.
 rainWhys: {}
 ---

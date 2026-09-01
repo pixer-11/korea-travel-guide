@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 118,
+   "attempts": 119,
    "hits": 72
   },
   "park": {
-   "attempts": 111,
-   "hits": 63
+   "attempts": 112,
+   "hits": 64
   },
   "viewpoint": {
    "attempts": 51,
@@ -30,8 +30,8 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 129,
-   "hits": 74
+   "attempts": 133,
+   "hits": 77
   },
   "noodles": {
    "attempts": 16,
@@ -70,7 +70,7 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 16,
+   "attempts": 17,
    "hits": 0
   },
   "bar": {
@@ -152,7 +152,15 @@
   "National Museum of Cambodia": {
    "attempts": 1,
    "hits": 0
+  },
+  "autumn foliage": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "lantern festival": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-08-31T15:16:31.186Z"
+ "updated": "2026-09-01T10:44:04.047Z"
 }

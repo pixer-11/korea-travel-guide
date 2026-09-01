@@ -3,7 +3,7 @@ lang: zh
 slug: paris-shwi
 srcHash: '3d204ef5acbb'
 title: 'Shwi运河圣马丁餐厅:菜单、价格与营业时间(巴黎,4.2★)'
-description: '运河圣马丁(Canal Saint-Martin)畔的黎巴嫩烤鸡餐厅,由Kubri团队打造:菜单内容、价格、营业时间及避开高峰的最佳时段。4.2★。'
+description: '运河圣马丁(Canal Saint-Martin)畔的黎巴嫩烤鸡餐厅，由Kubri团队打造:菜单内容、价格、营业时间及避开高峰的最佳时段。4.2★。'
 quickAnswer: Shwi 是 Kubri 团队推出的黎巴嫩烤鸡小店，位于巴黎第10区的圣马丁运河沿岸。这里在2026年春天开业后，很快就成了运河边吃午餐、带走小食的人气去处。工作日前往排队时间会短一些，不过由于是新开的店，具体信息可能会有变动，出发前最好先确认一下营业时间。
 faq:
   - q: Shwi 具体在什么位置？

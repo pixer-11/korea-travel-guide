@@ -6,7 +6,7 @@ title: '3-Day Singapore Itinerary: Gardens, Rainforest & Coastal Katong'
 description: A 3-day Singapore itinerary moving from Marina Bay's gardens and Kampong Glam's heritage lanes to the rainforest trails of Bukit Timah and the coastal, market-filled corners of Katong.
 quickAnswer: 'This is a 3-day Singapore itinerary: day one covers Marina Bay''s gardens and Kampong Glam''s heritage streets, day two heads into Bukit Timah''s rainforest before winding down at the Botanic Gardens, and day three moves along the East Coast into Geylang Serai and Katong Park.'
 pubDate: '2026-08-13T00:35:14.044Z'
-stopsHash: 6bd757af1907816aa4758de4f341b467bc5c9969
+stopsHash: 8842737e99696a90c3098a6cd1bf4059c551c198
 packedAvailable: true
 faq:
   - q: How should I get around for this 3-day Singapore itinerary?
@@ -52,7 +52,7 @@ itinerary:
         why: A quick, budget-friendly meal on pedestrianized Bussorah Street rounds out the day with easy people-watching near Sultan Mosque.
         dwellMin: 45
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: clarke-quay-artscience-museum
   - label: Rainforest trails to Botanic Gardens calm
     intro: Day two is anchored in Bukit Timah, starting at the nature reserve's visitor centre before heading onto the reserve's own summit and quarry trails. It wraps up with a shift across to the Tanglin edge, where the Singapore Botanic Gardens offers a calmer, greener finish.
     stops:
@@ -69,15 +69,15 @@ itinerary:
         why: Singapore's tallest hill and its primary rainforest trails are the natural next step after the visitor centre, with routes for a shorter loop or a longer summit push.
         dwellMin: 135
         walkToNext:
-          km: 7.6
+          km: 6.8
           minutes: null
           transit: true
-      - slug: dempsey-hill-singapore-botanic-gardens
+      - slug: jurong-japanese-garden
         slot: evening
-        why: A free, expansive UNESCO World Heritage park at the edge of Dempsey Hill, offering a calmer, greener close to the day.
-        dwellMin: 150
+        why: A hidden-gem rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 68
         walkToNext: null
-    rainSwapSlug: singapore-casa-mori
+    rainSwapSlug: bugis-lee-kong-chian-natural-history-museum-singapore
   - label: East Coast sands to Katong's quiet park
     intro: Day three begins along the beachfront paths of East Coast Park, then moves inland to browse the stalls of Pasar Geylang Serai's wet market and hawker centre. The day winds down at the small, leafy Katong Park on Fort Road, a quiet stretch to end on.
     stops:
@@ -102,9 +102,9 @@ itinerary:
         why: A small, leafy park built around the last remnant of old Fort Tomahawk, a quiet, brief stop to end the day on.
         dwellMin: 38
         walkToNext: null
-    rainSwapSlug: little-india-super-deluxe-kitchen
+    rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-08-24T09:51:42.985Z'
+updatedDate: '2026-09-01T10:51:22.955Z'
 ---
 

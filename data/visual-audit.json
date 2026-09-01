@@ -14283,5 +14283,35 @@
     "verdict": "MATCH",
     "reason": "patrol replace: BABYMONSTER performing on stage during concert",
     "at": "2026-08-31T23:42:53.411Z"
+  },
+  "seoul-seoul-forest-park\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Seoul_Forest_boardwalk_with_tables.jpg/3840px-Seoul_Forest_boardwalk_with_tables.jpg": {
+    "slug": "seoul-seoul-forest-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park deck with picnic tables and pond, plausible Seoul Forest scene",
+    "at": "2026-09-01T10:38:00.820Z"
+  },
+  "jumeirah-zabeel-park\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Zabeel_Park.jpg": {
+    "slug": "jumeirah-zabeel-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Zabeel Park greenery with Dubai skyline, representative view",
+    "at": "2026-09-01T10:38:35.837Z"
+  },
+  "sentosa-fort-siloso\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Fort_Siloso_entrance.jpg/1920px-Fort_Siloso_entrance.jpg": {
+    "slug": "sentosa-fort-siloso",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Fort Siloso entrance with sign and cannon monument",
+    "at": "2026-09-01T10:39:37.447Z"
+  },
+  "bugis-lee-kong-chian-natural-history-museum-singapore\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Lee_Kong_Chian_Natural_History_Museum_%28114321%29.jpg/3840px-Lee_Kong_Chian_Natural_History_Museum_%28114321%29.jpg": {
+    "slug": "bugis-lee-kong-chian-natural-history-museum-singapore",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior building shot with visible NUS/LKCNHM signage",
+    "at": "2026-09-01T10:40:46.748Z"
+  },
+  "sapporo-sapporo-beer-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Sapporo_Beer_Museum.JPG": {
+    "slug": "sapporo-sapporo-beer-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of Sapporo Beer Museum with iconic chimney and star.",
+    "at": "2026-09-01T10:44:04.029Z"
   }
 }
