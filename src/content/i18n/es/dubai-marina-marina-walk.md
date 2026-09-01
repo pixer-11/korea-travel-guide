@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dubai-marina-marina-walk
-srcHash: '7f90e05d6c3f'
+srcHash: '92c62ace0381'
 title: 'Marina Walk: guía de viaje del paseo de Dubai Marina (4.7★)'
-description: Marina Walk es el paseo marítimo de 7 km que rodea Dubai Marina, abierto las 24 horas y de acceso gratuito. Descubre la valoración de 4.7★ (115 reseñas), los horarios y los mejores consejos para visitarlo.
+description: Marina Walk es el paseo marítimo de 7 km que rodea Dubai Marina, abierto las 24 horas y de acceso gratuito. Descubre la valoración de 4.7★ (116 reseñas), los horarios y los mejores consejos para visitarlo.
 quickAnswer: Marina Walk es el paseo marítimo de 7 km que rodea Dubai Marina, abierto las 24 horas y de acceso gratuito. Conviene ir al atardecer (entre las 18:00 y las 19:00 aproximadamente, según la época del año) para disfrutar del espectáculo de luces del perfil urbano reflejado en el agua, o bien muy temprano por la mañana, cuando el tramo está prácticamente vacío. Lo mejor es empezar cerca de Marina Mall y caminar en cualquiera de las dos direcciones junto al agua.
 faq:
   - q: ¿Cómo se llega a Marina Walk?

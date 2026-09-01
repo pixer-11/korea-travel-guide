@@ -1,37 +1,43 @@
 ---
-title: "Singapore Botanic Gardens: Dempsey Hill Travel Guide (4.7★)"
-description: "Singapore Botanic Gardens is a free, 82-hectare UNESCO World Heritage park at the edge of Dempsey Hill, open daily from 5am to midnight. 4.7★ (46,688 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Dempsey Hill"
-category: "attraction"
-pubDate: "2026-08-12T08:50:21.567Z"
+title: 'Singapore Botanic Gardens: Dempsey Hill Travel Guide (4.7★)'
+description: >-
+  Singapore Botanic Gardens is a free, 82-hectare UNESCO World Heritage park at
+  the edge of Dempsey Hill, open daily from 5am to midnight. 4.7★ (46,749
+  reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Dempsey Hill
+category: attraction
+pubDate: '2026-08-12T08:50:21.567Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/24/Symphony_Lake%2C_Singapore_Botanic_Gardens_-_20041025.jpg"
-  credit: "Photo: Velela / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Symphony_Lake,_Singapore_Botanic_Gardens_-_20041025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/24/Symphony_Lake%2C_Singapore_Botanic_Gardens_-_20041025.jpg
+  credit: 'Photo: Velela / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Symphony_Lake,_Singapore_Botanic_Gardens_-_20041025.jpg
 gallery: []
 place:
-  id: "ChIJvWDbfRwa2jERgNnTOpAU3-o"
-  name: "Singapore Botanic Gardens"
-  address: "1 Cluny Rd, Singapore 259569"
+  id: ChIJvWDbfRwa2jERgNnTOpAU3-o
+  name: Singapore Botanic Gardens
+  address: '1 Cluny Rd, Singapore 259569'
   rating: 4.7
-  userRatingsTotal: 46688
-  googleMapsUrl: "https://maps.google.com/?cid=16924268534376421760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 46749
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16924268534376421760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3138397
   lng: 103.8159136
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: 5:00 AM – 12:00 AM"
-    - "Tuesday: 5:00 AM – 12:00 AM"
-    - "Wednesday: 5:00 AM – 12:00 AM"
-    - "Thursday: 5:00 AM – 12:00 AM"
-    - "Friday: 5:00 AM – 12:00 AM"
-    - "Saturday: 5:00 AM – 12:00 AM"
-    - "Sunday: 5:00 AM – 12:00 AM"
+    - 'Monday: 5:00 AM – 12:00 AM'
+    - 'Tuesday: 5:00 AM – 12:00 AM'
+    - 'Wednesday: 5:00 AM – 12:00 AM'
+    - 'Thursday: 5:00 AM – 12:00 AM'
+    - 'Friday: 5:00 AM – 12:00 AM'
+    - 'Saturday: 5:00 AM – 12:00 AM'
+    - 'Sunday: 5:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 21
@@ -54,24 +60,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_6f2d335541704f546e4e6752456a3261775266624457764a496843"
+    venueId: ven_6f2d335541704f546e4e6752456a3261775266624457764a496843
 tags:
-  - "dempsey hill"
-  - "top attraction"
-quickAnswer: "Singapore Botanic Gardens is a free, 82-hectare UNESCO World Heritage park at the edge of Dempsey Hill, open daily from 5am to midnight. Go early — before 9am on weekends — to avoid the crowds, then start at the National Orchid Garden and loop toward Swan Lake. Budget two to three hours, more if you want to linger over brunch in Dempsey afterward."
+  - dempsey hill
+  - top attraction
+quickAnswer: >-
+  Singapore Botanic Gardens is a free, 82-hectare UNESCO World Heritage park at
+  the edge of Dempsey Hill, open daily from 5am to midnight. Go early — before
+  9am on weekends — to avoid the crowds, then start at the National Orchid
+  Garden and loop toward Swan Lake. Budget two to three hours, more if you want
+  to linger over brunch in Dempsey afterward.
 faq:
-  - q: "How much time should I budget for the gardens?"
-    a: "Two to three hours covers the main lawns, Swan Lake, and the National Orchid Garden at an easy pace. Plant enthusiasts often spend half a day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays and weekends are both calmest between 7am and 11pm; try to avoid 9am to 8pm on weekends, when crowds peak."
-  - q: "How do I get there by public transport?"
-    a: "Take the Circle Line MRT to Botanic Gardens station and exit via Exit B, which puts you right at the Tanglin Gate entrance."
-  - q: "Is entry free?"
-    a: "Yes, the main gardens are free to enter daily from 5am to midnight. Only the National Orchid Garden inside charges an admission fee — check current pricing before visiting."
-  - q: "What's nearby if I want to eat afterward?"
-    a: "Dempsey Hill is a 5-10 minute walk from the Nassim or Tanglin gates and has a cluster of mid-range to upscale restaurants in converted colonial buildings."
+  - q: How much time should I budget for the gardens?
+    a: >-
+      Two to three hours covers the main lawns, Swan Lake, and the National
+      Orchid Garden at an easy pace. Plant enthusiasts often spend half a day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays and weekends are both calmest between 7am and 11pm; try to avoid
+      9am to 8pm on weekends, when crowds peak.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the Circle Line MRT to Botanic Gardens station and exit via Exit B,
+      which puts you right at the Tanglin Gate entrance.
+  - q: Is entry free?
+    a: >-
+      Yes, the main gardens are free to enter daily from 5am to midnight. Only
+      the National Orchid Garden inside charges an admission fee — check current
+      pricing before visiting.
+  - q: What's nearby if I want to eat afterward?
+    a: >-
+      Dempsey Hill is a 5-10 minute walk from the Nassim or Tanglin gates and
+      has a cluster of mid-range to upscale restaurants in converted colonial
+      buildings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

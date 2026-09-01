@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: east-coast-national-museum-of-singapore
-srcHash: '7540bbbf41bb'
+srcHash: '8775132f3d2e'
 title: 'Museo Nacional de Singapur: Guía de Viaje de East Coast (4,5★)'
-description: 'El Museo Nacional de Singapur, en 93 Stamford Rd, abre todos los días de 10:00 a 19:00. 4,5★ (16.488 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Nacional de Singapur, en 93 Stamford Rd, abre todos los días de 10:00 a 19:00. 4,5★ (16.547 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Singapur, en 93 Stamford Rd, abre todos los días de 10:00 a 19:00. Está más tranquilo entre semana, mientras que los fines de semana entre las 11:00 y las 18:00 atraen a la mayor cantidad de visitantes; lo ideal es ir un día laborable por la mañana y reservar entre dos y tres horas. Se llega fácilmente caminando desde las estaciones de MRT Bras Basah o Dhoby Ghaut.
 faq:
   - q: ¿Cuál es el horario de apertura?

@@ -1,28 +1,33 @@
 ---
 title: 'Backyard, Fujairah: Specialty Coffee in Al Faseel — Hours, Menu & 4.6★ Rating'
-description: 'Backyard café in Al Faseel, Fujairah City: opening hours, what to order (specialty coffee and light bites), the quiet weekday-morning window, and how to get there. Rated 4.6 on Google.'
+description: >-
+  Backyard café in Al Faseel, Fujairah City: opening hours, what to order
+  (specialty coffee and light bites), the quiet weekday-morning window, and how
+  to get there. Rated 4.6 on Google.
 country: United Arab Emirates
 region: Fujairah
 category: trendy
 pubDate: '2026-07-23T07:57:51.308Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/24861975_xPesFrPbNE2a0sY4zue0uvsNZuox5ltCwOekR-cps3I.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/24861975_xPesFrPbNE2a0sY4zue0uvsNZuox5ltCwOekR-cps3I.jpg
   credit: 'Photo: Foursquare user content (Backyard)'
   license: foursquare
-  source: https://foursquare.com/v/6a106cd2cf778f79b536eaae
+  source: 'https://foursquare.com/v/6a106cd2cf778f79b536eaae'
 gallery: []
 place:
   id: ChIJIa15PgBX9D4RBzUOtfqf-zk
   name: Backyard
   address: 49X4+F3V - Al Faseel - Fujairah - United Arab Emirates
-  rating: 4.6
-  userRatingsTotal: 160
-  googleMapsUrl: https://maps.google.com/?cid=4178108978444514567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  rating: 4.7
+  userRatingsTotal: 186
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4178108978444514567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.149012199999998
   lng: 56.3553448
   priceLevel: 2
-  phone: '+971 9 501 3298'
+  phone: +971 9 501 3298
   openingHours:
     - 'Monday: 7:00 AM – 12:00 AM'
     - 'Tuesday: 7:00 AM – 12:00 AM'
@@ -34,20 +39,43 @@ place:
 tags:
   - fujairah
   - trendy cafe
-quickAnswer: Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area of Fujairah City, best visited on a weekday morning when the shaded seating is quiet and the espresso machine isn't backed up. It's a coffee-and-conversation stop rather than a sightseeing landmark, so pair it with the Fujairah Fort or Al Faseel corniche and budget 30–60 minutes. Rated 4.6 from 160 reviews, it rewards visitors who go for the coffee itself, not the crowd.
+quickAnswer: >-
+  Backyard is a laid-back specialty coffee shop tucked into the Al Faseel area
+  of Fujairah City, best visited on a weekday morning when the shaded seating is
+  quiet and the espresso machine isn't backed up. It's a coffee-and-conversation
+  stop rather than a sightseeing landmark, so pair it with the Fujairah Fort or
+  Al Faseel corniche and budget 30–60 minutes. Rated 4.6 from 160 reviews, it
+  rewards visitors who go for the coffee itself, not the crowd.
 faq:
   - q: How do I get to Backyard in Fujairah without a car?
-    a: Fujairah has limited public transit for visitors, so ride-hailing apps or a pre-arranged taxi are the most reliable options. If you're driving from Dubai or Sharjah, it's about a 1.5–2 hour trip via the E88 or E84 highways through the Hajar Mountains.
+    a: >-
+      Fujairah has limited public transit for visitors, so ride-hailing apps or
+      a pre-arranged taxi are the most reliable options. If you're driving from
+      Dubai or Sharjah, it's about a 1.5–2 hour trip via the E88 or E84 highways
+      through the Hajar Mountains.
   - q: What does Backyard serve?
-    a: It's a specialty coffee shop, so expect espresso drinks, pour-overs, and likely a small selection of pastries or light bites rather than a full food menu. Confirm current offerings on-site or via their listed contact channels, as café menus change seasonally.
+    a: >-
+      It's a specialty coffee shop, so expect espresso drinks, pour-overs, and
+      likely a small selection of pastries or light bites rather than a full
+      food menu. Confirm current offerings on-site or via their listed contact
+      channels, as café menus change seasonally.
   - q: What's the best time of day to visit?
-    a: Weekday mornings are quietest and most comfortable, especially given Fujairah's heat. Between May and September, aim for before 10am or after sunset if the seating area is open-air; November to March is comfortable at almost any hour.
+    a: >-
+      Weekday mornings are quietest and most comfortable, especially given
+      Fujairah's heat. Between May and September, aim for before 10am or after
+      sunset if the seating area is open-air; November to March is comfortable
+      at almost any hour.
   - q: How long should I plan to spend there?
-    a: 30 to 60 minutes is typical for a coffee shop of this size — enough time to enjoy a drink without treating it as a full sightseeing stop.
+    a: >-
+      30 to 60 minutes is typical for a coffee shop of this size — enough time
+      to enjoy a drink without treating it as a full sightseeing stop.
   - q: What else can I see nearby?
-    a: Fujairah Fort, the Heritage Village, and the Fujairah Corniche are all a short drive away, making Backyard an easy add-on to a half-day loop of Fujairah City's historic and waterfront sights.
+    a: >-
+      Fujairah Fort, the Heritage Village, and the Fujairah Corniche are all a
+      short drive away, making Backyard an easy add-on to a half-day loop of
+      Fujairah City's historic and waterfront sights.
 aiGenerated: true
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-01'
 draft: true
 ---
 

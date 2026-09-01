@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: east-coast-national-museum-of-singapore
-srcHash: '7540bbbf41bb'
+srcHash: '8775132f3d2e'
 title: '싱가포르 국립박물관: 이스트 코스트 여행 가이드 (4.5★)'
-description: 93 Stamford Rd에 위치한 싱가포르 국립박물관(National Museum of Singapore)은 매일 오전 10시부터 오후 7시까지 운영됩니다. 4.5★ (16,488개 리뷰) — 방문객 후기, 운영시간, 팁을 확인하세요.
+description: 93 Stamford Rd에 위치한 싱가포르 국립박물관(National Museum of Singapore)은 매일 오전 10시부터 오후 7시까지 운영됩니다. 4.5★ (16,547개 리뷰) — 방문객 후기, 운영시간, 팁을 확인하세요.
 quickAnswer: 93 Stamford Rd에 위치한 싱가포르 국립박물관(National Museum of Singapore)은 매일 오전 10시부터 오후 7시까지 운영됩니다. 평일이 가장 한산하며, 주말 오전 11시에서 오후 6시 사이에는 방문객이 가장 몰립니다 — 평일 오전에 방문하고 2~3시간 정도 여유를 두는 것을 추천합니다. Bras Basah역이나 Dhoby Ghaut역에서 걸어서 쉽게 갈 수 있습니다.
 faq:
   - q: 운영 시간은 어떻게 되나요?

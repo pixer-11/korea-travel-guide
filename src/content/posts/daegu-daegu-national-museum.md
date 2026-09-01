@@ -1,44 +1,51 @@
 ---
-title: "Daegu National Museum: Travel Guide (4.4★)"
-description: "Daegu National Museum, in Suseong District, is a free heritage museum covering ancient Korean history, Buddhist stone pagodas, and traditional dome-shaped houses from the region. 4.4★ (1,697 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Daegu"
-category: "attraction"
-pubDate: "2026-08-24T08:17:49.843Z"
+title: 'Daegu National Museum: Travel Guide (4.4★)'
+description: >-
+  Daegu National Museum, in Suseong District, is a free heritage museum covering
+  ancient Korean history, Buddhist stone pagodas, and traditional dome-shaped
+  houses from the region. 4.4★ (1,700 reviews) — what visitors say, hours, and
+  tips.
+country: South Korea
+region: Daegu
+category: attraction
+pubDate: '2026-08-24T08:17:49.843Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Daegu_National_Museum.jpg/1920px-Daegu_National_Museum.jpg"
-  credit: "Photo: Trainholic / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Daegu_National_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Daegu_National_Museum.jpg/1920px-Daegu_National_Museum.jpg
+  credit: 'Photo: Trainholic / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Daegu_National_Museum.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1710740_okhwcnE1tGhlvS81lGTEKrYnxQUysBo0sSZReuqKZyE.jpg"
-    credit: "Photo: Foursquare user content (Daegu National Museum (국립대구박물관))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4de711978130690dbf1396eb"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1710740_okhwcnE1tGhlvS81lGTEKrYnxQUysBo0sSZReuqKZyE.jpg
+    credit: 'Photo: Foursquare user content (Daegu National Museum (국립대구박물관))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4de711978130690dbf1396eb'
 place:
-  id: "ChIJkXixpGziZTURrehQ2iAPo5Y"
-  name: "Daegu National Museum"
-  address: "321 Cheongho-ro, Suseong District, Daegu, South Korea"
+  id: ChIJkXixpGziZTURrehQ2iAPo5Y
+  name: Daegu National Museum
+  address: '321 Cheongho-ro, Suseong District, Daegu, South Korea'
   rating: 4.4
-  userRatingsTotal: 1697
-  googleMapsUrl: "https://maps.google.com/?cid=10854536160669132973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1700
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10854536160669132973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8456135
   lng: 128.63791759999998
-  phone: "+82 53-768-6051"
+  phone: +82 53-768-6051
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-24
+    updated: 2026-08-24T00:00:00.000Z
     weekdayBusy:
       - 15
     weekendQuiet:
@@ -52,24 +59,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_59356f50416932516865725255545a697a47707869586b4a496843"
+    venueId: ven_59356f50416932516865725255545a697a47707869586b4a496843
 tags:
-  - "daegu"
-  - "museum"
-quickAnswer: "Daegu National Museum, in Suseong District, is a free heritage museum covering ancient Korean history, Buddhist stone pagodas, and traditional dome-shaped houses from the region. It's open Tuesday–Sunday (closed Monday), with Sunday hours starting an hour earlier at 8am. The quietest window is 8–9am on weekends, before the 10am–6pm crowd surge hits."
+  - daegu
+  - museum
+quickAnswer: >-
+  Daegu National Museum, in Suseong District, is a free heritage museum covering
+  ancient Korean history, Buddhist stone pagodas, and traditional dome-shaped
+  houses from the region. It's open Tuesday–Sunday (closed Monday), with Sunday
+  hours starting an hour earlier at 8am. The quietest window is 8–9am on
+  weekends, before the 10am–6pm crowd surge hits.
 faq:
-  - q: "What are the opening hours for Daegu National Museum?"
-    a: "Tuesday to Saturday it's open 9am–6pm, Sunday 8am–6pm, and it's closed Mondays."
-  - q: "Is there an entrance fee?"
-    a: "Permanent exhibits are typically free to enter, though special exhibitions may have a small charge — confirm current pricing on arrival."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, arrive between 8am and 9am. Crowds build steadily after that and stay heavy from 10am to closing."
-  - q: "How do I get to the museum without a car?"
-    a: "It's not directly on the subway line, so most visitors take a bus that stops near the grounds or a taxi from downtown Daegu, about 15–20 minutes from areas like Dongseongno."
-  - q: "How long should I plan for a visit?"
-    a: "Around 90 minutes covers the main galleries; allow up to two hours if you want to explore the outdoor stone pagoda garden and dome-house reconstructions thoroughly."
+  - q: What are the opening hours for Daegu National Museum?
+    a: >-
+      Tuesday to Saturday it's open 9am–6pm, Sunday 8am–6pm, and it's closed
+      Mondays.
+  - q: Is there an entrance fee?
+    a: >-
+      Permanent exhibits are typically free to enter, though special exhibitions
+      may have a small charge — confirm current pricing on arrival.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekends, arrive between 8am and 9am. Crowds build steadily after that
+      and stay heavy from 10am to closing.
+  - q: How do I get to the museum without a car?
+    a: >-
+      It's not directly on the subway line, so most visitors take a bus that
+      stops near the grounds or a taxi from downtown Daegu, about 15–20 minutes
+      from areas like Dongseongno.
+  - q: How long should I plan for a visit?
+    a: >-
+      Around 90 minutes covers the main galleries; allow up to two hours if you
+      want to explore the outdoor stone pagoda garden and dome-house
+      reconstructions thoroughly.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

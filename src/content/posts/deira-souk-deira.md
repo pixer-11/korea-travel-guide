@@ -1,55 +1,77 @@
 ---
-title: "Souk Deira: Travel Guide (4.4★)"
-description: "Souk Deira is a low-key covered market strip in Al Sabkha, Deira, tucked away from the tour-group crush of the nearby Gold and Spice Souks. 4.4★ (138 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Deira"
-category: "hidden-gem"
-pubDate: "2026-08-16T08:06:32.303Z"
+title: 'Souk Deira: Travel Guide (4.4★)'
+description: >-
+  Souk Deira is a low-key covered market strip in Al Sabkha, Deira, tucked away
+  from the tour-group crush of the nearby Gold and Spice Souks. 4.4★ (139
+  reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Deira
+category: hidden-gem
+pubDate: '2026-08-16T08:06:32.303Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gold_Souk_in_Deira_Dubai.JPG/3840px-Gold_Souk_in_Deira_Dubai.JPG"
-  credit: "Photo: HighKing / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gold_Souk_in_Deira_Dubai.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gold_Souk_in_Deira_Dubai.JPG/3840px-Gold_Souk_in_Deira_Dubai.JPG
+  credit: 'Photo: HighKing / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Gold_Souk_in_Deira_Dubai.JPG'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJH1YcqBhDXz4R_6EPd-f_4Lc"
-  name: "Souk Deira"
-  address: "779X+MQG - Souk Deira St - Al Buteen - Al Sabkha - Dubai - United Arab Emirates"
+  id: ChIJH1YcqBhDXz4R_6EPd-f_4Lc
+  name: Souk Deira
+  address: >-
+    779X+MQG - Souk Deira St - Al Buteen - Al Sabkha - Dubai - United Arab
+    Emirates
   rating: 4.4
-  userRatingsTotal: 138
-  googleMapsUrl: "https://maps.google.com/?cid=13249871473324040703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 139
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13249871473324040703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2691819
   lng: 55.2994439
-  phone: "+971 52 917 6198"
+  phone: +971 52 917 6198
   openingHours:
-    - "Monday: 9:30 AM – 9:30 PM"
-    - "Tuesday: 9:30 AM – 9:30 PM"
-    - "Wednesday: 9:30 AM – 9:30 PM"
-    - "Thursday: 9:30 AM – 9:30 PM"
-    - "Friday: Closed"
-    - "Saturday: 9:30 AM – 9:30 PM"
-    - "Sunday: 9:30 AM – 9:30 PM"
+    - 'Monday: 9:30 AM – 9:30 PM'
+    - 'Tuesday: 9:30 AM – 9:30 PM'
+    - 'Wednesday: 9:30 AM – 9:30 PM'
+    - 'Thursday: 9:30 AM – 9:30 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 9:30 AM – 9:30 PM'
+    - 'Sunday: 9:30 AM – 9:30 PM'
 tags:
-  - "deira"
-  - "local market"
-quickAnswer: "Souk Deira is a low-key covered market strip in Al Sabkha, Deira, tucked away from the tour-group crush of the nearby Gold and Spice Souks. Go between 9:30am and noon on a weekday, when shutters are just going up and the alleys are still walkable. It's closed all day Friday, so plan around that."
+  - deira
+  - local market
+quickAnswer: >-
+  Souk Deira is a low-key covered market strip in Al Sabkha, Deira, tucked away
+  from the tour-group crush of the nearby Gold and Spice Souks. Go between
+  9:30am and noon on a weekday, when shutters are just going up and the alleys
+  are still walkable. It's closed all day Friday, so plan around that.
 faq:
-  - q: "What are the opening hours for Souk Deira?"
-    a: "It's open 9:30am–9:30pm every day except Friday, when it's closed entirely. Plan visits Saturday through Thursday."
-  - q: "How do I get to Souk Deira from the metro?"
-    a: "Baniyas Square or Al Ras stations on the Green Line are both about a 10–15 minute walk. It's also reachable by abra across the creek from Bur Dubai."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings, roughly 9:30am to noon, are calmest — stalls are just opening and foot traffic is light."
-  - q: "Is Souk Deira touristy like the Gold Souk?"
-    a: "No — it's a working local market with modest signage and cash-based bargaining, popular with residents rather than tour groups."
-  - q: "How long should I spend there?"
-    a: "An hour is enough to wander the main strip; combine it with a nearby abra ride or the Spice/Gold Souks for a half-day out."
+  - q: What are the opening hours for Souk Deira?
+    a: >-
+      It's open 9:30am–9:30pm every day except Friday, when it's closed
+      entirely. Plan visits Saturday through Thursday.
+  - q: How do I get to Souk Deira from the metro?
+    a: >-
+      Baniyas Square or Al Ras stations on the Green Line are both about a 10–15
+      minute walk. It's also reachable by abra across the creek from Bur Dubai.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings, roughly 9:30am to noon, are calmest — stalls are just
+      opening and foot traffic is light.
+  - q: Is Souk Deira touristy like the Gold Souk?
+    a: >-
+      No — it's a working local market with modest signage and cash-based
+      bargaining, popular with residents rather than tour groups.
+  - q: How long should I spend there?
+    a: >-
+      An hour is enough to wander the main strip; combine it with a nearby abra
+      ride or the Spice/Gold Souks for a half-day out.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

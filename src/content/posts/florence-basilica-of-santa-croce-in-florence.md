@@ -1,30 +1,38 @@
 ---
 title: 'Basilica of Santa Croce in Florence: Travel Guide'
-description: Santa Croce is Florence's great Franciscan basilica on Piazza di Santa Croce, famous for Giotto's frescoes and the tombs of Michelangelo, Galileo, and Machiavelli.
+description: >-
+  Santa Croce is Florence's great Franciscan basilica on Piazza di Santa Croce,
+  famous for Giotto's frescoes and the tombs of Michelangelo, Galileo, and
+  Machiavelli.
 country: Italy
 region: Florence
 category: hidden-gem
 pubDate: '2026-08-02T09:33:43.395Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg
   credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence,_Italy.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence,_Italy.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_di_Santa_Croce_%2812437%29.jpg/3840px-Basilica_di_Santa_Croce_%2812437%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_di_Santa_Croce_%2812437%29.jpg/3840px-Basilica_di_Santa_Croce_%2812437%29.jpg
     credit: 'Photo: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Croce_(12437).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Basilica_di_Santa_Croce_(12437).jpg
 place:
   id: ChIJMcPMIwdUKhMRVRITnGR5go8
   name: Basilica of Santa Croce in Florence
-  address: Piazza di Santa Croce, 16, 50122 Firenze FI, Italy
+  address: 'Piazza di Santa Croce, 16, 50122 Firenze FI, Italy'
   rating: 4.8
-  userRatingsTotal: 41902
-  googleMapsUrl: https://maps.google.com/?cid=10340961167418266197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 42227
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10340961167418266197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.7685683
   lng: 11.262267699999999
@@ -39,8 +47,10 @@ place:
     - 'Sunday: 12:30 – 5:45 PM'
   busyness:
     updated: 2026-08-02T00:00:00.000Z
-    weekdayQuiet: [10]
-    weekendQuiet: [10]
+    weekdayQuiet:
+      - 10
+    weekendQuiet:
+      - 10
     weekendBusy:
       - 13
       - 14
@@ -50,20 +60,42 @@ place:
 tags:
   - florence
   - hidden gem
-quickAnswer: Santa Croce is Florence's great Franciscan basilica on Piazza di Santa Croce, famous for Giotto's frescoes and the tombs of Michelangelo, Galileo, and Machiavelli. It's very popular, so aim for the 9:30am–11am window right after opening (Sundays open later, at 12:30pm) to see the Pazzi Chapel and Donatello's Crucifix without a crowd wall in front of them. Budget 60–90 minutes, more if you linger in the leather school and cloisters.
+quickAnswer: >-
+  Santa Croce is Florence's great Franciscan basilica on Piazza di Santa Croce,
+  famous for Giotto's frescoes and the tombs of Michelangelo, Galileo, and
+  Machiavelli. It's very popular, so aim for the 9:30am–11am window right after
+  opening (Sundays open later, at 12:30pm) to see the Pazzi Chapel and
+  Donatello's Crucifix without a crowd wall in front of them. Budget 60–90
+  minutes, more if you linger in the leather school and cloisters.
 faq:
   - q: How long should I spend at Santa Croce?
-    a: Plan 60–90 minutes for the church, tombs, and Pazzi Chapel; add 20–30 minutes if you want to see the museum, cloisters, and leather school.
+    a: >-
+      Plan 60–90 minutes for the church, tombs, and Pazzi Chapel; add 20–30
+      minutes if you want to see the museum, cloisters, and leather school.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows 9:30am–11am, right after opening, is calmest on weekdays and Saturdays. On Sundays, when the basilica opens later at 12:30pm, arriving right at opening is your best bet. Avoid weekend afternoons between 1pm and 5pm, when it's busiest.
+    a: >-
+      Foot-traffic data shows 9:30am–11am, right after opening, is calmest on
+      weekdays and Saturdays. On Sundays, when the basilica opens later at
+      12:30pm, arriving right at opening is your best bet. Avoid weekend
+      afternoons between 1pm and 5pm, when it's busiest.
   - q: What are the opening hours?
-    a: Monday to Saturday it's open 9:30am–5:30pm; Sunday hours are shorter, 12:30–5:45pm, due to morning services. Always check the official schedule before visiting, as hours can shift around holidays.
+    a: >-
+      Monday to Saturday it's open 9:30am–5:30pm; Sunday hours are shorter,
+      12:30–5:45pm, due to morning services. Always check the official schedule
+      before visiting, as hours can shift around holidays.
   - q: How do I get to Santa Croce from the train station?
-    a: From Firenze Santa Maria Novella it's about a 20–25 minute walk east through the historic center, or a short bus/taxi ride. On foot from the Duomo, it's roughly 10–15 minutes.
+    a: >-
+      From Firenze Santa Maria Novella it's about a 20–25 minute walk east
+      through the historic center, or a short bus/taxi ride. On foot from the
+      Duomo, it's roughly 10–15 minutes.
   - q: Is Santa Croce worth it if I've already seen the Duomo and Uffizi?
-    a: 'Yes — it holds a different draw: the tombs of Michelangelo, Galileo, and Machiavelli, plus Giotto''s frescoes and Brunelleschi''s Pazzi Chapel, none of which overlap with those other sights.'
+    a: >-
+      Yes — it holds a different draw: the tombs of Michelangelo, Galileo, and
+      Machiavelli, plus Giotto's frescoes and Brunelleschi's Pazzi Chapel, none
+      of which overlap with those other sights.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 You feel Santa Croce before you see its famous facade. The piazza in front of it is one of Florence's largest open spaces, a flat expanse of grey stone that in the 16th century hosted calcio storico matches and public executions, and today hosts tourists photographing the church's green-and-white marble front — a 19th-century neo-Gothic addition, not original to the medieval building behind it.
 

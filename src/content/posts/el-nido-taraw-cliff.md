@@ -1,36 +1,41 @@
 ---
-title: "Taraw Cliff: El Nido Travel Guide (4.5★)"
-description: "Taraw Cliff is El Nido's limestone karst climb rising straight out of Buena Suerte, best tackled at sunrise or mid-morning before the heat and haze set in. 4.5★ (358 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "El Nido"
-category: "attraction"
-pubDate: "2026-08-10T09:09:30.975Z"
+title: 'Taraw Cliff: El Nido Travel Guide (4.5★)'
+description: >-
+  Taraw Cliff is El Nido's limestone karst climb rising straight out of Buena
+  Suerte, best tackled at sunrise or mid-morning before the heat and haze set
+  in. 4.5★ (360 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: El Nido
+category: attraction
+pubDate: '2026-08-10T09:09:30.975Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/03/Taraw_Cliff%2C_El_Nido.jpg"
-  credit: "Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taraw_Cliff,_El_Nido.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/03/Taraw_Cliff%2C_El_Nido.jpg
+  credit: 'Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Taraw_Cliff,_El_Nido.jpg'
 gallery: []
 place:
-  id: "ChIJ0SnmgRZVtjMR0yJFmVGxPbQ"
-  name: "Taraw Cliff"
-  address: "59HQ+JGQ, Buena Suerte Pob. (Barangay 2), El Nido, Palawan, Philippines"
+  id: ChIJ0SnmgRZVtjMR0yJFmVGxPbQ
+  name: Taraw Cliff
+  address: '59HQ+JGQ, Buena Suerte Pob. (Barangay 2), El Nido, Palawan, Philippines'
   rating: 4.5
-  userRatingsTotal: 358
-  googleMapsUrl: "https://maps.google.com/?cid=12987731864428290771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 360
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12987731864428290771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.1790798
   lng: 119.38886289999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayBusy:
       - 18
       - 19
@@ -45,24 +50,42 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5162507847566d464a7930524d6a74565a52676d6e53304a496843"
+    venueId: ven_5162507847566d464a7930524d6a74565a52676d6e53304a496843
 tags:
-  - "el nido"
-  - "top attraction"
-quickAnswer: "Taraw Cliff is El Nido's limestone karst climb rising straight out of Buena Suerte, best tackled at sunrise or mid-morning before the heat and haze set in. Expect a steep 30–45 minute scramble with ropes, a suspension bridge, and a canopy walk before the summit view opens over the bay. It's open 24 hours with no gate, but weekend afternoons (4pm–11pm) draw the most foot traffic, so aim earlier in the day."
+  - el nido
+  - top attraction
+quickAnswer: >-
+  Taraw Cliff is El Nido's limestone karst climb rising straight out of Buena
+  Suerte, best tackled at sunrise or mid-morning before the heat and haze set
+  in. Expect a steep 30–45 minute scramble with ropes, a suspension bridge, and
+  a canopy walk before the summit view opens over the bay. It's open 24 hours
+  with no gate, but weekend afternoons (4pm–11pm) draw the most foot traffic, so
+  aim earlier in the day.
 faq:
-  - q: "How long does the Taraw Cliff hike take?"
-    a: "Around 30–45 minutes up, and a similar time back down. Budget 1.5–2 hours total including time at the summit."
-  - q: "Is there an entrance fee?"
-    a: "No official fee or ticket booth as of now — it's a public trail. If a local guide leads you, tipping is customary."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings are calmest. Avoid weekend afternoons between 4pm and 11pm, when foot traffic peaks."
-  - q: "Do I need a guide?"
-    a: "Not strictly, but the trail is unmarked in places and steep enough that a local guide adds safety and context, especially for a sunrise climb."
-  - q: "Is it safe for kids or people afraid of heights?"
-    a: "The climb involves rope-assisted scrambling, a suspension bridge, and an unfenced summit ledge — better suited to older kids and confident hikers than young children or anyone uneasy with exposed heights."
+  - q: How long does the Taraw Cliff hike take?
+    a: >-
+      Around 30–45 minutes up, and a similar time back down. Budget 1.5–2 hours
+      total including time at the summit.
+  - q: Is there an entrance fee?
+    a: >-
+      No official fee or ticket booth as of now — it's a public trail. If a
+      local guide leads you, tipping is customary.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings are calmest. Avoid weekend afternoons between 4pm and
+      11pm, when foot traffic peaks.
+  - q: Do I need a guide?
+    a: >-
+      Not strictly, but the trail is unmarked in places and steep enough that a
+      local guide adds safety and context, especially for a sunrise climb.
+  - q: Is it safe for kids or people afraid of heights?
+    a: >-
+      The climb involves rope-assisted scrambling, a suspension bridge, and an
+      unfenced summit ledge — better suited to older kids and confident hikers
+      than young children or anyone uneasy with exposed heights.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

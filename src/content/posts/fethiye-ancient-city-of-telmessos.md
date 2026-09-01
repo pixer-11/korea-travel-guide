@@ -1,41 +1,49 @@
 ---
-title: "Ancient City of Telmessos: Fethiye Travel Guide (4.5★)"
-description: "The rock tombs of Telmessos sit right above modern Fethiye, cut into the cliff face above Kesikkapı — open daily 9am–7:30pm and easy to see in 30–45 minutes. 4.5★ (950 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Fethiye"
-category: "attraction"
-pubDate: "2026-08-11T08:21:03.555Z"
+title: 'Ancient City of Telmessos: Fethiye Travel Guide (4.5★)'
+description: >-
+  The rock tombs of Telmessos sit right above modern Fethiye, cut into the cliff
+  face above Kesikkapı — open daily 9am–7:30pm and easy to see in 30–45 minutes.
+  4.5★ (966 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Fethiye
+category: attraction
+pubDate: '2026-08-11T08:21:03.555Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg/3840px-Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg"
-  credit: "Photo: Harald the Bard / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ancient_Tombs_of_Fethiye_(Telmessos).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg/3840px-Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg
+  credit: 'Photo: Harald the Bard / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ancient_Tombs_of_Fethiye_(Telmessos).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg/3840px-Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg"
-    credit: "Photo: Roman_Zacharij / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ruins_of_Pinara,_Ancient_Lycian_city,_Lycia,_Turkey.jpeg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg/3840px-Ruins_of_Pinara%2C_Ancient_Lycian_city%2C_Lycia%2C_Turkey.jpeg
+    credit: 'Photo: Roman_Zacharij / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ruins_of_Pinara,_Ancient_Lycian_city,_Lycia,_Turkey.jpeg
 place:
-  id: "ChIJ-U1aQV5BwBQRE2FybBeA4pg"
-  name: "Ancient City of Telmessos"
-  address: "Kesikkapı, 123. Sk. No:12, 48300 Fethiye/Muğla, Türkiye"
+  id: ChIJ-U1aQV5BwBQRE2FybBeA4pg
+  name: Ancient City of Telmessos
+  address: 'Kesikkapı, 123. Sk. No:12, 48300 Fethiye/Muğla, Türkiye'
   rating: 4.5
-  userRatingsTotal: 950
-  googleMapsUrl: "https://maps.google.com/?cid=11016508476593692947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 966
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11016508476593692947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.6182136
   lng: 29.1177526
-  phone: "+90 252 614 11 50"
+  phone: +90 252 614 11 50
   openingHours:
-    - "Monday: 9:00 AM – 7:30 PM"
-    - "Tuesday: 9:00 AM – 7:30 PM"
-    - "Wednesday: 9:00 AM – 7:30 PM"
-    - "Thursday: 9:00 AM – 7:30 PM"
-    - "Friday: 9:00 AM – 7:30 PM"
-    - "Saturday: 9:00 AM – 7:30 PM"
-    - "Sunday: 9:00 AM – 7:30 PM"
+    - 'Monday: 9:00 AM – 7:30 PM'
+    - 'Tuesday: 9:00 AM – 7:30 PM'
+    - 'Wednesday: 9:00 AM – 7:30 PM'
+    - 'Thursday: 9:00 AM – 7:30 PM'
+    - 'Friday: 9:00 AM – 7:30 PM'
+    - 'Saturday: 9:00 AM – 7:30 PM'
+    - 'Sunday: 9:00 AM – 7:30 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -56,24 +64,40 @@ place:
       - 15
       - 16
       - 18
-    venueId: "ven_677034416542627946324552514277423556516131552d4a496843"
+    venueId: ven_677034416542627946324552514277423556516131552d4a496843
 tags:
-  - "fethiye"
-  - "top attraction"
-quickAnswer: "The rock tombs of Telmessos sit right above modern Fethiye, cut into the cliff face above Kesikkapı — open daily 9am–7:30pm and easy to see in 30–45 minutes. Go on a weekday morning between 9am and 2pm (or before 1pm on weekends) to have the stone staircases mostly to yourself before tour groups and the afternoon heat arrive."
+  - fethiye
+  - top attraction
+quickAnswer: >-
+  The rock tombs of Telmessos sit right above modern Fethiye, cut into the cliff
+  face above Kesikkapı — open daily 9am–7:30pm and easy to see in 30–45 minutes.
+  Go on a weekday morning between 9am and 2pm (or before 1pm on weekends) to
+  have the stone staircases mostly to yourself before tour groups and the
+  afternoon heat arrive.
 faq:
-  - q: "How long should I spend at Telmessos?"
-    a: "Most visitors need 30–45 minutes to see the main tombs and walk the side paths, longer if you linger for photos or the harbor views."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays from 9am to 2pm are calmest; on weekends, go before 1pm. Avoid weekend afternoons (1pm–7pm), when it's busiest."
-  - q: "Is there an entrance fee?"
-    a: "Small Lycian rock-tomb sites in Turkey typically charge a modest entrance fee. Carry some cash as backup even if card payment is available."
-  - q: "How do I get there from Fethiye harbor?"
-    a: "It's a 5–10 minute walk uphill from the harbor and old bazaar, through the Kesikkapı neighborhood on 123. Sokak — no taxi needed."
-  - q: "What else is nearby?"
-    a: "The Fethiye Amphitheatre and the old town bazaar are both a short walk downhill, making it easy to combine into one outing."
+  - q: How long should I spend at Telmessos?
+    a: >-
+      Most visitors need 30–45 minutes to see the main tombs and walk the side
+      paths, longer if you linger for photos or the harbor views.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays from 9am to 2pm are calmest; on weekends, go before 1pm. Avoid
+      weekend afternoons (1pm–7pm), when it's busiest.
+  - q: Is there an entrance fee?
+    a: >-
+      Small Lycian rock-tomb sites in Turkey typically charge a modest entrance
+      fee. Carry some cash as backup even if card payment is available.
+  - q: How do I get there from Fethiye harbor?
+    a: >-
+      It's a 5–10 minute walk uphill from the harbor and old bazaar, through the
+      Kesikkapı neighborhood on 123. Sokak — no taxi needed.
+  - q: What else is nearby?
+    a: >-
+      The Fethiye Amphitheatre and the old town bazaar are both a short walk
+      downhill, making it easy to combine into one outing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

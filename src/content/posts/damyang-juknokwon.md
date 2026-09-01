@@ -1,25 +1,30 @@
 ---
 title: 'Juknokwon: Damyang Travel Guide'
-description: Juknokwon is a 31-hectare bamboo forest park in Damyang-eup, crisscrossed by eight named walking trails through towering moso bamboo, with a bonus stroll into the neighboring Korean-style garden and Metasequoia Road.
+description: >-
+  Juknokwon is a 31-hectare bamboo forest park in Damyang-eup, crisscrossed by
+  eight named walking trails through towering moso bamboo, with a bonus stroll
+  into the neighboring Korean-style garden and Metasequoia Road.
 country: South Korea
 region: Damyang
 category: attraction
 pubDate: '2026-07-26T08:32:52.242Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/122525679_ZPZ0Kl-IHl4EmsaYnQdCXQUUkLpUe08ngDJn5qNL8ks.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/122525679_ZPZ0Kl-IHl4EmsaYnQdCXQUUkLpUe08ngDJn5qNL8ks.jpg
   credit: 'Photo: Foursquare user content (Juknokwon (죽녹원))'
   license: foursquare
-  source: https://foursquare.com/v/4b63a337f964a520de882ae3
+  source: 'https://foursquare.com/v/4b63a337f964a520de882ae3'
   focus:
     x: 50
-    y: 45
+    'y': 45
 place:
   id: ChIJe8P5p_LqcTURrVA5YOtPKRk
   name: Juknokwon
-  address: 119 Jungnogwon-ro, Damyang-eup, Damyang, Jeollanam-do, South Korea
+  address: '119 Jungnogwon-ro, Damyang-eup, Damyang, Jeollanam-do, South Korea'
   rating: 4.4
-  userRatingsTotal: 11253
-  googleMapsUrl: https://maps.google.com/?cid=1813068197343613101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 11260
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1813068197343613101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.3266303
   lng: 126.9853868
@@ -35,20 +40,43 @@ place:
 tags:
   - damyang
   - top attraction
-quickAnswer: Juknokwon is a 31-hectare bamboo forest park in Damyang-eup, crisscrossed by eight named walking trails through towering moso bamboo, with a bonus stroll into the neighboring Korean-style garden and Metasequoia Road. Plan for 1.5–2 hours, arrive on the earlier side (before mid-morning) to avoid tour-bus crowds, and check whether the evening light-up walk is running if you want a quieter, cooler visit.
+quickAnswer: >-
+  Juknokwon is a 31-hectare bamboo forest park in Damyang-eup, crisscrossed by
+  eight named walking trails through towering moso bamboo, with a bonus stroll
+  into the neighboring Korean-style garden and Metasequoia Road. Plan for 1.5–2
+  hours, arrive on the earlier side (before mid-morning) to avoid tour-bus
+  crowds, and check whether the evening light-up walk is running if you want a
+  quieter, cooler visit.
 faq:
   - q: How do I get to Juknokwon from Gwangju?
-    a: Take an intercity bus from Gwangju's U-Square (Gwangcheon) Bus Terminal to Damyang, about 30–40 minutes, then walk roughly 15–20 minutes from Damyang's bus terminal to the park entrance.
+    a: >-
+      Take an intercity bus from Gwangju's U-Square (Gwangcheon) Bus Terminal to
+      Damyang, about 30–40 minutes, then walk roughly 15–20 minutes from
+      Damyang's bus terminal to the park entrance.
   - q: How long should I plan to spend there?
-    a: Budget at least 1.5 to 2 hours to walk one of the longer loop trails; a quick pass on the main paved path near the entrance takes 20–30 minutes but skips the quieter interior groves.
+    a: >-
+      Budget at least 1.5 to 2 hours to walk one of the longer loop trails; a
+      quick pass on the main paved path near the entrance takes 20–30 minutes
+      but skips the quieter interior groves.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings shortly after opening are calmest, before tour buses from Gwangju and Suncheon arrive; weekend afternoons see the heaviest foot traffic near the main entrance.
+    a: >-
+      Weekday mornings shortly after opening are calmest, before tour buses from
+      Gwangju and Suncheon arrive; weekend afternoons see the heaviest foot
+      traffic near the main entrance.
   - q: Is there a night walk?
-    a: Parts of the park have lights strung through the bamboo for evening walks, but this isn't guaranteed to run year-round — confirm current hours and whether the light-up is active before planning around it.
+    a: >-
+      Parts of the park have lights strung through the bamboo for evening walks,
+      but this isn't guaranteed to run year-round — confirm current hours and
+      whether the light-up is active before planning around it.
   - q: What else is nearby?
-    a: The Korean Traditional Garden and Metasequoia-lined road sit right next to Juknokwon, and Gwanbangjerim forest walk plus Damyang's bamboo craft museum and tteokgalbi restaurant street are all within easy reach in Damyang-eup.
+    a: >-
+      The Korean Traditional Garden and Metasequoia-lined road sit right next to
+      Juknokwon, and Gwanbangjerim forest walk plus Damyang's bamboo craft
+      museum and tteokgalbi restaurant street are all within easy reach in
+      Damyang-eup.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

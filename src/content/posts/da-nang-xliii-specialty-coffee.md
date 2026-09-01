@@ -1,6 +1,9 @@
 ---
 title: 'XLIII Specialty Coffee: Da Nang Travel Guide'
-description: XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn district of Da Nang, close to the Marble Mountains and a short ride from My Khe Beach.
+description: >-
+  XLIII Specialty Coffee is a sprawling, design-forward café in the Ngũ Hành Sơn
+  district of Da Nang, close to the Marble Mountains and a short ride from My
+  Khe Beach.
 country: Vietnam
 region: Da Nang
 category: trendy
@@ -17,7 +20,7 @@ place:
   name: XLIII Specialty Coffee
   address: 'Lô 419, 422 Ngô Thì Sĩ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam'
   rating: 4.7
-  userRatingsTotal: 9565
+  userRatingsTotal: 9873
   priceLevel: 2
   googleMapsUrl: >-
     https://maps.google.com/?cid=5867309689396930543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
@@ -38,9 +41,12 @@ place:
       - 7
       - 8
       - 9
-    weekendBusy: [19, 20, 21]
+    weekendBusy:
+      - 19
+      - 20
+      - 21
     venueId: ven_454662665078663265793752456a51584d72376d7478374a496843
-  phone: '+84 799 343 943'
+  phone: +84 799 343 943
   openingHours:
     - 'Monday: 6:30 AM – 10:30 PM'
     - 'Tuesday: 6:30 AM – 10:30 PM'
@@ -83,7 +89,7 @@ faq:
       Yes — it's close to the Marble Mountains and a short ride from My Khe
       Beach, making it an easy midday stop between the two.
 aiGenerated: true
-updatedDate: '2026-07-26'
+updatedDate: '2026-09-01'
 draft: true
 ---
 

@@ -1,40 +1,45 @@
 ---
-title: "Creek Park: Dubai Travel Guide (4.5★)"
-description: "Creek Park is a large green stretch along Dubai Creek in Umm Hurair, best known for its cable car, kids' play areas, botanical trails, and creek-side dining. 4.5★ (15,802 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Dubai"
-category: "attraction"
-pubDate: "2026-08-22T07:51:43.609Z"
+title: 'Creek Park: Dubai Travel Guide (4.5★)'
+description: >-
+  Creek Park is a large green stretch along Dubai Creek in Umm Hurair, best
+  known for its cable car, kids' play areas, botanical trails, and creek-side
+  dining. 4.5★ (15,808 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Dubai
+category: attraction
+pubDate: '2026-08-22T07:51:43.609Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CREEK_PARK_DUBAI.jpg/3840px-CREEK_PARK_DUBAI.jpg"
-  credit: "Photo: Ahmad3027 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:CREEK_PARK_DUBAI.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CREEK_PARK_DUBAI.jpg/3840px-CREEK_PARK_DUBAI.jpg
+  credit: 'Photo: Ahmad3027 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:CREEK_PARK_DUBAI.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJw2INojldXz4R6jPSTwdMgBA"
-  name: "Creek Park"
-  address: "Umm Hurair Second - Dubai - United Arab Emirates"
+  id: ChIJw2INojldXz4R6jPSTwdMgBA
+  name: Creek Park
+  address: Umm Hurair Second - Dubai - United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 15802
-  googleMapsUrl: "https://maps.google.com/?cid=1189033895913468906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15808
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1189033895913468906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2353776
   lng: 55.3270689
-  phone: "+971 4 336 7633"
+  phone: +971 4 336 7633
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 11:00 PM"
-    - "Saturday: 8:00 AM – 11:00 PM"
-    - "Sunday: 8:00 AM – 11:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 11:00 PM'
+    - 'Saturday: 8:00 AM – 11:00 PM'
+    - 'Sunday: 8:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekendQuiet:
@@ -50,24 +55,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4142674d64775453506a3652347a58646c6a6f4e4932774a496843"
+    venueId: ven_4142674d64775453506a3652347a58646c6a6f4e4932774a496843
 tags:
-  - "dubai"
-  - "park"
-quickAnswer: "Creek Park is a large green stretch along Dubai Creek in Umm Hurair, best known for its cable car, kids' play areas, botanical trails, and creek-side dining. It's open 8am–10pm on weekdays and until 11pm Friday–Sunday. Go early on weekends (8–11am) to avoid the crowds that build from 3pm onward."
+  - dubai
+  - park
+quickAnswer: >-
+  Creek Park is a large green stretch along Dubai Creek in Umm Hurair, best
+  known for its cable car, kids' play areas, botanical trails, and creek-side
+  dining. It's open 8am–10pm on weekdays and until 11pm Friday–Sunday. Go early
+  on weekends (8–11am) to avoid the crowds that build from 3pm onward.
 faq:
-  - q: "What are Creek Park's opening hours?"
-    a: "8am–10pm Monday through Thursday, and 8am–11pm Friday through Sunday. Hours can shift for holidays, so it's worth a quick check before heading out."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, 10–11pm is the calmest window. On weekends, arrive between 8am and 11am — crowds build steadily from 3pm right through closing."
-  - q: "How do I get to Creek Park without a car?"
-    a: "Take the Red Line metro to Emirates Towers or ADCB station and grab a short taxi, or arrive by abra/water bus directly along the creek for a more scenic approach."
-  - q: "How much time should I plan for a visit?"
-    a: "Budget at least two hours if you want to ride the cable car and let kids explore Children's City without rushing. A full half-day lets you add a picnic and the botanical trails."
-  - q: "Is there an entrance fee?"
-    a: "The park itself has gated zones, each charging its own small entry fee — the cable car, Children's City, and certain gardens are separate tickets. Prices change occasionally, so confirm at the gate."
+  - q: What are Creek Park's opening hours?
+    a: >-
+      8am–10pm Monday through Thursday, and 8am–11pm Friday through Sunday.
+      Hours can shift for holidays, so it's worth a quick check before heading
+      out.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays, 10–11pm is the calmest window. On weekends, arrive between
+      8am and 11am — crowds build steadily from 3pm right through closing.
+  - q: How do I get to Creek Park without a car?
+    a: >-
+      Take the Red Line metro to Emirates Towers or ADCB station and grab a
+      short taxi, or arrive by abra/water bus directly along the creek for a
+      more scenic approach.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Budget at least two hours if you want to ride the cable car and let kids
+      explore Children's City without rushing. A full half-day lets you add a
+      picnic and the botanical trails.
+  - q: Is there an entrance fee?
+    a: >-
+      The park itself has gated zones, each charging its own small entry fee —
+      the cable car, Children's City, and certain gardens are separate tickets.
+      Prices change occasionally, so confirm at the gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: downtown-dubai-at-the-top-burj-khalifa
-srcHash: 'ddf67594b8aa'
+srcHash: '58db6e98d9d6'
 title: 哈利法塔观景台(At The Top, Burj Khalifa):迪拜市中心旅游指南 (4.2★)
-description: 哈利法塔观景台(At The Top, Burj Khalifa)每天上午10点至晚上8点开放，可进入124层和125层(购买高级票还可进入148层)。4.2★(6,076条评价)——游客怎么说、开放时间与实用建议。
+description: 哈利法塔观景台(At The Top, Burj Khalifa)每天上午10点至晚上8点开放，可进入124层和125层(购买高级票还可进入148层)。4.2★(6,072条评价)——游客怎么说、开放时间与实用建议。
 quickAnswer: 哈利法塔观景台(At The Top, Burj Khalifa)每天上午10点至晚上8点开放，可进入124层和125层(购买高级票还可进入148层)。建议提前在网上预约固定时段——日落时段最先售罄——尽量选择当天最早的入场时段或工作日下午中段，以避开人流高峰。整个游览预留60-90分钟，包括乘坐电梯和走出礼品店的时间。
 faq:
   - q: 哈利法塔观景台(At The Top, Burj Khalifa)的开放时间是多少？

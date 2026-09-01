@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: east-coast-national-museum-of-singapore
-srcHash: '7540bbbf41bb'
+srcHash: '8775132f3d2e'
 title: 新加坡国家博物馆:东海岸旅行指南(4.5★)
-description: 新加坡国家博物馆位于Stamford Rd 93号，每天上午10点至晚上7点开放。4.5★(16,488条评价)——游客怎么说、开放时间及实用建议。
+description: 新加坡国家博物馆位于Stamford Rd 93号，每天上午10点至晚上7点开放。4.5★(16,547条评价)——游客怎么说、开放时间及实用建议。
 quickAnswer: 新加坡国家博物馆位于Stamford Rd 93号，每天上午10点至晚上7点开放。工作日人流最少，周末上午11点到下午6点则是人最多的时段，建议选在工作日上午前往，并预留两到三小时游览时间。从Bras Basah地铁站或Dhoby Ghaut地铁站步行过去都很方便。
 faq:
   - q: 开放时间是几点到几点?

@@ -1,38 +1,45 @@
 ---
-title: "My Son: Da Nang Travel Guide (4.5★)"
-description: My Son is a cluster of crumbling red-brick Hindu temples built by the Champa kingdom between the 4th and 14th centuries, about 1.5 hours southwest of Da Nang or 40 minutes from Hoi An. 4.5★ (12,813 reviews) — what visitors say, hours, and tips.
+title: 'My Son: Da Nang Travel Guide (4.5★)'
+description: >-
+  My Son is a cluster of crumbling red-brick Hindu temples built by the Champa
+  kingdom between the 4th and 14th centuries, about 1.5 hours southwest of Da
+  Nang or 40 minutes from Hoi An. 4.5★ (12,888 reviews) — what visitors say,
+  hours, and tips.
 country: Vietnam
 region: Da Nang
 category: attraction
-pubDate: "2026-08-19T08:00:23.761Z"
+pubDate: '2026-08-19T08:00:23.761Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg/1920px-2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg/1920px-2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:2024_-_M%E1%BB%B9_S%C6%A1n_Group_B,_C_and_D_-_img_23.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2024_-_M%E1%BB%B9_S%C6%A1n_Group_B,_C_and_D_-_img_23.jpg
   focus:
     x: 65
-    "y": 40
+    'y': 40
 gallery: []
 place:
   id: ChIJH1VVVYEAQjERe2ifm4aiugg
   name: My Son
-  address: Thánh địa Mỹ Sơn, Duy Xuyên District, Quảng Nam, Vietnam
+  address: 'Thánh địa Mỹ Sơn, Duy Xuyên District, Quảng Nam, Vietnam'
   rating: 4.5
-  userRatingsTotal: 12813
-  googleMapsUrl: https://maps.google.com/?cid=628993796991838331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12888
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=628993796991838331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 15.7687821
   lng: 108.11931539999999
   phone: +84 235 3731 309
   openingHours:
-    - "Monday: 6:00 AM – 5:00 PM"
-    - "Tuesday: 6:00 AM – 5:00 PM"
-    - "Wednesday: 6:00 AM – 5:00 PM"
-    - "Thursday: 6:00 AM – 5:00 PM"
-    - "Friday: 6:00 AM – 5:00 PM"
-    - "Saturday: 6:00 AM – 5:00 PM"
-    - "Sunday: 6:00 AM – 5:00 PM"
+    - 'Monday: 6:00 AM – 5:00 PM'
+    - 'Tuesday: 6:00 AM – 5:00 PM'
+    - 'Wednesday: 6:00 AM – 5:00 PM'
+    - 'Thursday: 6:00 AM – 5:00 PM'
+    - 'Friday: 6:00 AM – 5:00 PM'
+    - 'Saturday: 6:00 AM – 5:00 PM'
+    - 'Sunday: 6:00 AM – 5:00 PM'
   busyness:
     updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
@@ -54,20 +61,44 @@ place:
 tags:
   - da nang
   - historic site
-quickAnswer: My Son is a cluster of crumbling red-brick Hindu temples built by the Champa kingdom between the 4th and 14th centuries, about 1.5 hours southwest of Da Nang or 40 minutes from Hoi An. It's open daily 6am–5pm; go right at opening or after 3pm to dodge the tour-bus crush that peaks 9am–1pm on weekends. Budget half a day including transit, and wear real shoes — the ground is uneven jungle and broken stone.
+quickAnswer: >-
+  My Son is a cluster of crumbling red-brick Hindu temples built by the Champa
+  kingdom between the 4th and 14th centuries, about 1.5 hours southwest of Da
+  Nang or 40 minutes from Hoi An. It's open daily 6am–5pm; go right at opening
+  or after 3pm to dodge the tour-bus crush that peaks 9am–1pm on weekends.
+  Budget half a day including transit, and wear real shoes — the ground is
+  uneven jungle and broken stone.
 faq:
   - q: How do I get to My Son from Da Nang?
-    a: It's about a 1.5-hour drive southwest, either by joining a group tour with van pickup, hiring a private car, or riding a motorbike if you're comfortable on rural roads. Most Da Nang-based tours also swing through Hoi An.
+    a: >-
+      It's about a 1.5-hour drive southwest, either by joining a group tour with
+      van pickup, hiring a private car, or riding a motorbike if you're
+      comfortable on rural roads. Most Da Nang-based tours also swing through
+      Hoi An.
   - q: What's the quietest time to visit?
-    a: Foot-traffic data shows 7am–5pm on both weekdays and weekends is generally calm, but the real crush hits weekends between 9am and 1pm when tour buses cluster. Arrive at or near opening (6am) for the emptiest towers and softest light.
+    a: >-
+      Foot-traffic data shows 7am–5pm on both weekdays and weekends is generally
+      calm, but the real crush hits weekends between 9am and 1pm when tour buses
+      cluster. Arrive at or near opening (6am) for the emptiest towers and
+      softest light.
   - q: How long should I spend at My Son?
-    a: Budget at least an hour walking the site itself, plus the on-site museum, and factor in 1.5–3 hours of transit each way depending on your starting point. Many visitors treat it as a half-day trip combined with Hoi An.
+    a: >-
+      Budget at least an hour walking the site itself, plus the on-site museum,
+      and factor in 1.5–3 hours of transit each way depending on your starting
+      point. Many visitors treat it as a half-day trip combined with Hoi An.
   - q: Is My Son worth visiting if I've already seen Angkor Wat or similar ruins?
-    a: Yes, though temper expectations on scale — My Son is smaller and more weathered, its charm lying in the intimate jungle setting, Cham-specific carving style, and visible bomb damage that tells its own history.
+    a: >-
+      Yes, though temper expectations on scale — My Son is smaller and more
+      weathered, its charm lying in the intimate jungle setting, Cham-specific
+      carving style, and visible bomb damage that tells its own history.
   - q: What should I wear or bring?
-    a: Closed, sturdy shoes for uneven brick and dirt paths, a hat and water since shade is limited among the towers, and cash in Vietnamese dong for entrance fees and any small vendors on site.
+    a: >-
+      Closed, sturdy shoes for uneven brick and dirt paths, a hat and water
+      since shade is limited among the towers, and cash in Vietnamese dong for
+      entrance fees and any small vendors on site.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

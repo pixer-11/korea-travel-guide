@@ -1,34 +1,40 @@
 ---
 title: 'Palazzo Vecchio: Florence Travel Guide'
-description: Palazzo Vecchio, on Piazza della Signoria, is Florence's fortified 13th-century town hall turned museum, famous for its crenellated tower, the vast Salone dei Cinquecento, and rooms frescoed by Vasari and Ghirlandaio.
+description: >-
+  Palazzo Vecchio, on Piazza della Signoria, is Florence's fortified
+  13th-century town hall turned museum, famous for its crenellated tower, the
+  vast Salone dei Cinquecento, and rooms frescoed by Vasari and Ghirlandaio.
 country: Italy
 region: Florence
 category: attraction
 pubDate: '2026-07-26T08:20:06.921Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1400671761_eH1r_JGC4OEIcbpvuWvuvtDylPxPIndUMZlUicvxvZc.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1400671761_eH1r_JGC4OEIcbpvuWvuvtDylPxPIndUMZlUicvxvZc.jpg
   credit: 'Photo: Foursquare user content (Palazzo Vecchio)'
   license: foursquare
-  source: https://foursquare.com/v/4bd01b8077b29c74a0298a82
+  source: 'https://foursquare.com/v/4bd01b8077b29c74a0298a82'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palazzo_Vecchio_by_nigth.jpg/1920px-Palazzo_Vecchio_by_nigth.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palazzo_Vecchio_by_nigth.jpg/1920px-Palazzo_Vecchio_by_nigth.jpg
     credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Palazzo_Vecchio_by_nigth.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Palazzo_Vecchio_by_nigth.jpg'
 place:
   id: ChIJ-ZN45QBUKhMRh1fGVOcr4uQ
   name: Palazzo Vecchio
-  address: P.za della Signoria, 50122 Firenze FI, Italy
+  address: 'P.za della Signoria, 50122 Firenze FI, Italy'
   rating: 4.7
-  userRatingsTotal: 25699
-  googleMapsUrl: https://maps.google.com/?cid=16492793057943902087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 25904
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16492793057943902087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.7693012
   lng: 11.2561509
-  phone: '+39 055 276 8325'
+  phone: +39 055 276 8325
   openingHours:
     - 'Monday: 9:00 AM – 7:00 PM'
     - 'Tuesday: 9:00 AM – 7:00 PM'
@@ -40,20 +46,46 @@ place:
 tags:
   - florence
   - top attraction
-quickAnswer: Palazzo Vecchio, on Piazza della Signoria, is Florence's fortified 13th-century town hall turned museum, famous for its crenellated tower, the vast Salone dei Cinquecento, and rooms frescoed by Vasari and Ghirlandaio. Budget 1.5–2 hours for the main rooms, longer if you climb the tower or descend to the Roman-era foundations. Arrive right at opening or in the last two hours before closing to avoid the worst of the crowds that build midday.
+quickAnswer: >-
+  Palazzo Vecchio, on Piazza della Signoria, is Florence's fortified
+  13th-century town hall turned museum, famous for its crenellated tower, the
+  vast Salone dei Cinquecento, and rooms frescoed by Vasari and Ghirlandaio.
+  Budget 1.5–2 hours for the main rooms, longer if you climb the tower or
+  descend to the Roman-era foundations. Arrive right at opening or in the last
+  two hours before closing to avoid the worst of the crowds that build midday.
 faq:
   - q: How much time should I budget for Palazzo Vecchio?
-    a: Plan on 1.5–2 hours for the main museum rooms and courtyard. Add 30–45 minutes if you climb the tower, and another 30 minutes for the archaeological excavations beneath the building, since both require separate tickets and entry queues.
+    a: >-
+      Plan on 1.5–2 hours for the main museum rooms and courtyard. Add 30–45
+      minutes if you climb the tower, and another 30 minutes for the
+      archaeological excavations beneath the building, since both require
+      separate tickets and entry queues.
   - q: Do I need to book tickets in advance?
-    a: Yes, it's strongly recommended. Palazzo Vecchio is one of Florence's most visited sights, and online timed-entry booking lets you skip the walk-up line that often forms across Piazza della Signoria, especially in peak season.
+    a: >-
+      Yes, it's strongly recommended. Palazzo Vecchio is one of Florence's most
+      visited sights, and online timed-entry booking lets you skip the walk-up
+      line that often forms across Piazza della Signoria, especially in peak
+      season.
   - q: What's the best time of day to visit to avoid crowds?
-    a: Aim for right at opening or within the last two hours before closing. Midday, particularly in high season from April to September, is when tour groups converge on the square and the museum feels busiest.
+    a: >-
+      Aim for right at opening or within the last two hours before closing.
+      Midday, particularly in high season from April to September, is when tour
+      groups converge on the square and the museum feels busiest.
   - q: How do I get to Palazzo Vecchio?
-    a: It's in Piazza della Signoria in central Florence, a 12–15 minute walk from Firenze Santa Maria Novella train station, and immediately next to the Uffizi Gallery. The historic center is pedestrianized, so there's no metro or tram stop right at the door.
+    a: >-
+      It's in Piazza della Signoria in central Florence, a 12–15 minute walk
+      from Firenze Santa Maria Novella train station, and immediately next to
+      the Uffizi Gallery. The historic center is pedestrianized, so there's no
+      metro or tram stop right at the door.
   - q: Is the tower worth the extra ticket?
-    a: If you're comfortable with narrow stairs and tight spaces, yes — it offers one of the best close-up views of Brunelleschi's Duomo dome. It's a separate, limited-capacity ticket, so book it alongside your main entry if you want to guarantee a slot.
+    a: >-
+      If you're comfortable with narrow stairs and tight spaces, yes — it offers
+      one of the best close-up views of Brunelleschi's Duomo dome. It's a
+      separate, limited-capacity ticket, so book it alongside your main entry if
+      you want to guarantee a slot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

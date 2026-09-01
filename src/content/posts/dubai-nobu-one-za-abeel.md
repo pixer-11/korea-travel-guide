@@ -1,34 +1,42 @@
 ---
 title: Nobu (One Za'abeel) in Dubai
-description: Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting the two towers of One Za'abeel, roughly 230 metres above the city — making it arguably the highest-altitude Nobu on the planet.
+description: >-
+  Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting
+  the two towers of One Za'abeel, roughly 230 metres above the city — making it
+  arguably the highest-altitude Nobu on the planet.
 country: United Arab Emirates
 region: Dubai
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/536378159_0kcneMJv1Bb5wGN-Fx1YP5Ss9UA2w1LnWYelZjdz8kg.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/536378159_0kcneMJv1Bb5wGN-Fx1YP5Ss9UA2w1LnWYelZjdz8kg.jpg
   credit: 'Photo: Foursquare user content (One&Only One Za''abeel)'
   license: foursquare
-  source: https://foursquare.com/v/6553922bd019fe4b90a2aeff
+  source: 'https://foursquare.com/v/6553922bd019fe4b90a2aeff'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1368113291_YZXVvrWxizPcVt8Z1iypGmfhkHt1gIufu0PGIGCzF80.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1368113291_YZXVvrWxizPcVt8Z1iypGmfhkHt1gIufu0PGIGCzF80.jpg
     credit: 'Photo: Foursquare user content (One&Only One Za''abeel)'
     license: foursquare
-    source: https://foursquare.com/v/6553922bd019fe4b90a2aeff
+    source: 'https://foursquare.com/v/6553922bd019fe4b90a2aeff'
 place:
   id: ChIJS5tOU4dDXz4RY8LgK7wSLjI
   name: Nobu One Za'abeel
-  address: One - The Link - 24th floor - زعبيل الأولى - زعبيل - دبي - United Arab Emirates
+  address: >-
+    One - The Link - 24th floor - زعبيل الأولى - زعبيل - دبي - United Arab
+    Emirates
   rating: 4.6
-  userRatingsTotal: 198
-  googleMapsUrl: https://maps.google.com/?cid=3615848150224388707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 209
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3615848150224388707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.2275781
   lng: 55.290918999999995
-  phone: '+971 4 666 1617'
+  phone: +971 4 666 1617
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 PM – 12:00 AM'
@@ -37,23 +45,47 @@ place:
     - 'Friday: 12:00 – 3:30 PM, 5:00 PM – 1:00 AM'
     - 'Saturday: 12:00 – 3:30 PM, 5:00 PM – 1:00 AM'
     - 'Sunday: 12:00 – 3:30 PM, 5:00 PM – 12:00 AM'
+  priceLevel: 4
 tags:
   - dubai
   - new & trending
-quickAnswer: Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting the two towers of One Za'abeel, roughly 230 metres above the city — making it arguably the highest-altitude Nobu on the planet. Opened January 17, 2026, it serves the brand's familiar Japanese-Peruvian repertoire (black cod miso, yellowtail jalapeño) against a full-height Dubai skyline backdrop. Book well ahead — as one of the city's hardest reservations right now, this is not a walk-in spot.
+quickAnswer: >-
+  Nobu's newest Dubai outpost sits inside The Link, the sky-bridge connecting
+  the two towers of One Za'abeel, roughly 230 metres above the city — making it
+  arguably the highest-altitude Nobu on the planet. Opened January 17, 2026, it
+  serves the brand's familiar Japanese-Peruvian repertoire (black cod miso,
+  yellowtail jalapeño) against a full-height Dubai skyline backdrop. Book well
+  ahead — as one of the city's hardest reservations right now, this is not a
+  walk-in spot.
 faq:
   - q: How do I get to Nobu at One Za'abeel?
-    a: Take the Red Line Metro to World Trade Centre Station, then a short taxi or rideshare to One Za'abeel, since The Link sits back from the street. Arrive 15–20 minutes early to allow for lobby check-in and elevator access up to The Link.
+    a: >-
+      Take the Red Line Metro to World Trade Centre Station, then a short taxi
+      or rideshare to One Za'abeel, since The Link sits back from the street.
+      Arrive 15–20 minutes early to allow for lobby check-in and elevator access
+      up to The Link.
   - q: Do I need a reservation?
-    a: Yes — this is one of Dubai's most in-demand tables since its January 2026 opening. Book as far ahead as possible, especially for Thursday–Saturday evenings and sunset slots.
+    a: >-
+      Yes — this is one of Dubai's most in-demand tables since its January 2026
+      opening. Book as far ahead as possible, especially for Thursday–Saturday
+      evenings and sunset slots.
   - q: What should I order?
-    a: 'Start with the two Nobu signatures: black cod with miso and yellowtail jalapeño. Beyond that, expect the brand''s usual Japanese-Peruvian mix of tiraditos, robata grills, and sushi.'
+    a: >-
+      Start with the two Nobu signatures: black cod with miso and yellowtail
+      jalapeño. Beyond that, expect the brand's usual Japanese-Peruvian mix of
+      tiraditos, robata grills, and sushi.
   - q: What's the best time to visit for views?
-    a: Aim for the last hour before sunset so you see the skyline transition from daylight to night illumination without changing tables.
+    a: >-
+      Aim for the last hour before sunset so you see the skyline transition from
+      daylight to night illumination without changing tables.
   - q: Is it walkable from Downtown Dubai?
-    a: Not comfortably — it's a short taxi ride rather than a walk. Many visitors pair a Dubai Mall/Burj Khalifa afternoon with a Nobu dinner reservation the same evening.
+    a: >-
+      Not comfortably — it's a short taxi ride rather than a walk. Many visitors
+      pair a Dubai Mall/Burj Khalifa afternoon with a Nobu dinner reservation
+      the same evening.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 ## Why go

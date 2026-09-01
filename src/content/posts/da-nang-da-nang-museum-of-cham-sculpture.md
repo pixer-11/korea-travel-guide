@@ -1,40 +1,46 @@
 ---
-title: "Da Nang Museum of Cham Sculpture: Travel Guide (4.2★)"
-description: "The Da Nang Museum of Cham Sculpture sits at 02 Đ. 2 Tháng 9 in Hải Châu, right by the Han River, and is open daily 7am–5pm. 4.2★ (8,130 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Da Nang"
-category: "attraction"
-pubDate: "2026-08-18T09:14:31.434Z"
+title: 'Da Nang Museum of Cham Sculpture: Travel Guide (4.2★)'
+description: >-
+  The Da Nang Museum of Cham Sculpture sits at 02 Đ. 2 Tháng 9 in Hải Châu,
+  right by the Han River, and is open daily 7am–5pm. 4.2★ (8,160 reviews) — what
+  visitors say, hours, and tips.
+country: Vietnam
+region: Da Nang
+category: attraction
+pubDate: '2026-08-18T09:14:31.434Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/0040323_Vedic_deities%2C_Cham_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg/3840px-0040323_Vedic_deities%2C_Cham_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg"
-  credit: "Photo: Ms Sarah Welch / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:0040323_Vedic_deities,_Cham_Hindu_artwork,_Museum_of_Cham_Sculpture,_Da_Nang_Vietnam.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/0040323_Vedic_deities%2C_Cham_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg/3840px-0040323_Vedic_deities%2C_Cham_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg
+  credit: 'Photo: Ms Sarah Welch / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:0040323_Vedic_deities,_Cham_Hindu_artwork,_Museum_of_Cham_Sculpture,_Da_Nang_Vietnam.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJLWoAs80ZQjERLKHDYD-ZymI"
-  name: "Da Nang Museum of Cham Sculpture"
-  address: "02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam"
+  id: ChIJLWoAs80ZQjERLKHDYD-ZymI
+  name: Da Nang Museum of Cham Sculpture
+  address: '02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam'
   rating: 4.2
-  userRatingsTotal: 8130
-  googleMapsUrl: "https://maps.google.com/?cid=7118670658497913132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8160
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7118670658497913132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.0603007
   lng: 108.2232677
-  phone: "+84 236 3572 935"
+  phone: +84 236 3572 935
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 7:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -48,24 +54,40 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_496d795a2d445944484b4c52456a515a303873416f574c4a496843"
+    venueId: ven_496d795a2d445944484b4c52456a515a303873416f574c4a496843
 tags:
-  - "da nang"
-  - "museum"
-quickAnswer: "The Da Nang Museum of Cham Sculpture sits at 02 Đ. 2 Tháng 9 in Hải Châu, right by the Han River, and is open daily 7am–5pm. It's compact — plan on 45 minutes to an hour and a half. Arrive between 7am and 9am to see the sandstone galleries before the tour buses fill them up."
+  - da nang
+  - museum
+quickAnswer: >-
+  The Da Nang Museum of Cham Sculpture sits at 02 Đ. 2 Tháng 9 in Hải Châu,
+  right by the Han River, and is open daily 7am–5pm. It's compact — plan on 45
+  minutes to an hour and a half. Arrive between 7am and 9am to see the sandstone
+  galleries before the tour buses fill them up.
 faq:
-  - q: "What are the opening hours?"
-    a: "The museum is open every day of the week, 7:00 AM to 5:00 PM, including weekends."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45 minutes to an hour and a half, depending on how closely you read the exhibit placards."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 9am, on both weekdays and weekends — crowds build steadily after that and stay heavy from 10am to closing on weekends."
-  - q: "How do I get there from the beach or city center?"
-    a: "It's on the south bank of the Han River near the Dragon Bridge. Expect a short walk from Han Market or a 15–20 minute Grab/taxi ride from My Khe Beach."
-  - q: "What's the highlight of the collection?"
-    a: "The Tra Kieu Altar and the Thap Mam guardian figures are the standout pieces, alongside the Dong Duong bronze Buddha."
+  - q: What are the opening hours?
+    a: >-
+      The museum is open every day of the week, 7:00 AM to 5:00 PM, including
+      weekends.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors need 45 minutes to an hour and a half, depending on how
+      closely you read the exhibit placards.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 7am and 9am, on both weekdays and weekends — crowds build steadily
+      after that and stay heavy from 10am to closing on weekends.
+  - q: How do I get there from the beach or city center?
+    a: >-
+      It's on the south bank of the Han River near the Dragon Bridge. Expect a
+      short walk from Han Market or a 15–20 minute Grab/taxi ride from My Khe
+      Beach.
+  - q: What's the highlight of the collection?
+    a: >-
+      The Tra Kieu Altar and the Thap Mam guardian figures are the standout
+      pieces, alongside the Dong Duong bronze Buddha.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

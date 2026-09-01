@@ -1,27 +1,33 @@
 ---
 title: 'Uffizi Galleries: Florence Travel Guide'
-description: Book a timed-entry ticket online well in advance, arrive at your slot rather than early, and head straight for the Botticelli rooms before the mid-morning crush arrives.
+description: >-
+  Book a timed-entry ticket online well in advance, arrive at your slot rather
+  than early, and head straight for the Botticelli rooms before the mid-morning
+  crush arrives.
 country: Italy
 region: Florence
 category: attraction
 pubDate: '2026-07-26T07:53:38.760Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/1920px-Uffizi_Gallery%2C_Florence-2.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/1920px-Uffizi_Gallery%2C_Florence-2.jpg
   credit: 'Photo: Armin Kleiner / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Uffizi_Gallery,_Florence-2.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Uffizi_Gallery,_Florence-2.jpg'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1413873648_QeD2899vZtdF512A8EdXBNXMm66W5jBe0pNMfltAM78.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1413873648_QeD2899vZtdF512A8EdXBNXMm66W5jBe0pNMfltAM78.jpg
     credit: 'Photo: Foursquare user content (Uffizi Gallery)'
     license: foursquare
-    source: https://foursquare.com/v/8a5b7ec3d1384f0be11d5504
+    source: 'https://foursquare.com/v/8a5b7ec3d1384f0be11d5504'
 place:
   id: ChIJgZDFjQBUKhMRzcTwm8i33s0
   name: Uffizi Galleries
-  address: Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy
+  address: 'Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy'
   rating: 4.7
-  userRatingsTotal: 93518
-  googleMapsUrl: https://maps.google.com/?cid=14834496294842582221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 94351
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14834496294842582221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.767785599999996
   lng: 11.2553108
@@ -37,20 +43,42 @@ place:
 tags:
   - florence
   - Uffizi Gallery
-quickAnswer: Book a timed-entry ticket online well in advance, arrive at your slot rather than early, and head straight for the Botticelli rooms before the mid-morning crush arrives. The Uffizi is one of the most visited museums on earth (rated 4.7 from over 93,000 reviews), so the walk-up line at Piazzale degli Uffizi 6 can run over an hour without a reservation — skip it by pre-booking.
+quickAnswer: >-
+  Book a timed-entry ticket online well in advance, arrive at your slot rather
+  than early, and head straight for the Botticelli rooms before the mid-morning
+  crush arrives. The Uffizi is one of the most visited museums on earth (rated
+  4.7 from over 93,000 reviews), so the walk-up line at Piazzale degli Uffizi 6
+  can run over an hour without a reservation — skip it by pre-booking.
 faq:
   - q: Do I need to book Uffizi tickets in advance?
-    a: Yes — walk-up lines at Piazzale degli Uffizi 6 routinely exceed an hour. Reserve a timed-entry slot through the official online booking system before you arrive.
+    a: >-
+      Yes — walk-up lines at Piazzale degli Uffizi 6 routinely exceed an hour.
+      Reserve a timed-entry slot through the official online booking system
+      before you arrive.
   - q: How long should I spend at the Uffizi?
-    a: Plan on two to three hours minimum to see the highlights (Botticelli, Leonardo, the Tribuna, Michelangelo's Doni Tondo); art lovers often stay half a day.
+    a: >-
+      Plan on two to three hours minimum to see the highlights (Botticelli,
+      Leonardo, the Tribuna, Michelangelo's Doni Tondo); art lovers often stay
+      half a day.
   - q: What's the quietest time to visit?
-    a: Right at opening or in the final ninety minutes before closing tends to be calmest; weekday mornings in the November-February off-season are the quietest overall, while midday on weekends in spring and early summer is the busiest.
+    a: >-
+      Right at opening or in the final ninety minutes before closing tends to be
+      calmest; weekday mornings in the November-February off-season are the
+      quietest overall, while midday on weekends in spring and early summer is
+      the busiest.
   - q: How do I get to the Uffizi from Florence's train station?
-    a: It's roughly a 12-15 minute walk from Firenze Santa Maria Novella station, heading through the historic center past Piazza della Signoria; there's no metro line, so walking or a short taxi ride is standard.
+    a: >-
+      It's roughly a 12-15 minute walk from Firenze Santa Maria Novella station,
+      heading through the historic center past Piazza della Signoria; there's no
+      metro line, so walking or a short taxi ride is standard.
   - q: What's nearby the Uffizi worth combining with a visit?
-    a: The Ponte Vecchio and Palazzo Vecchio are both a couple of minutes' walk away; the Accademia Gallery (home to Michelangelo's David) is a popular pairing but needs its own separate ticket.
+    a: >-
+      The Ponte Vecchio and Palazzo Vecchio are both a couple of minutes' walk
+      away; the Accademia Gallery (home to Michelangelo's David) is a popular
+      pairing but needs its own separate ticket.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

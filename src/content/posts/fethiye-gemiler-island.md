@@ -1,25 +1,33 @@
 ---
 title: 'Gemiler Island: Fethiye Travel Guide (4.8★)'
-description: Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only, uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted arcades, and a mysterious "Tomb of St. Nicholas. 4.8★ (736 reviews) — what visitors say, hours, and tips.
+description: >-
+  Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only,
+  uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted
+  arcades, and a mysterious "Tomb of St. Nicholas. 4.8★ (744 reviews) — what
+  visitors say, hours, and tips.
 country: Turkey
 region: Fethiye
 category: hidden-gem
 pubDate: '2026-08-13T09:44:33.678Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/23523627_aYukAmfk8sKDWgKa5To8s3Z45kjui4U7HAyKDk58dA0.jpg
-  credit: 'Photo: Foursquare user content (St. Nicholas Island | Gemiler Island (Gemile Adası (Aziz Nikola Adası)))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/23523627_aYukAmfk8sKDWgKa5To8s3Z45kjui4U7HAyKDk58dA0.jpg
+  credit: >-
+    Photo: Foursquare user content (St. Nicholas Island | Gemiler Island (Gemile
+    Adası (Aziz Nikola Adası)))
   license: foursquare
-  source: https://foursquare.com/v/4deba57dfa76cc1b8b03ee85
+  source: 'https://foursquare.com/v/4deba57dfa76cc1b8b03ee85'
   focus:
     x: 50
-    y: 45
+    'y': 45
 place:
   id: ChIJPas4bh5FwBQR35aafKqVNV4
   name: Gemiler Island
-  address: Gemiler Adası, Okul Sok. 4/A, 48300 Fethiye/Muğla, Türkiye
+  address: 'Gemiler Adası, Okul Sok. 4/A, 48300 Fethiye/Muğla, Türkiye'
   rating: 4.8
-  userRatingsTotal: 736
-  googleMapsUrl: https://maps.google.com/?cid=6788496572798375647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 744
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6788496572798375647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.554719999999996
   lng: 29.067838
@@ -35,20 +43,35 @@ place:
 tags:
   - fethiye
   - hidden gem
-quickAnswer: Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only, uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted arcades, and a mysterious "Tomb of St. Nicholas." Come by day boat or private charter, wear proper shoes for the scramble up to the ruins, and aim for morning arrival before the afternoon tour-boat crowds thicken.
+quickAnswer: >-
+  Gemiler Island, just off the Fethiye coast near Ölüdeniz, is a boat-only,
+  uninhabited island scattered with Byzantine ruins — churches, barrel-vaulted
+  arcades, and a mysterious "Tomb of St. Nicholas." Come by day boat or private
+  charter, wear proper shoes for the scramble up to the ruins, and aim for
+  morning arrival before the afternoon tour-boat crowds thicken.
 faq:
   - q: How do you get to Gemiler Island?
-    a: By boat only — day trips and private charters leave from Ölüdeniz, Fethiye harbor, and Kaya Köyü, usually combined with swim stops in nearby bays.
+    a: >-
+      By boat only — day trips and private charters leave from Ölüdeniz, Fethiye
+      harbor, and Kaya Köyü, usually combined with swim stops in nearby bays.
   - q: What's the best time to visit to avoid crowds?
-    a: Mid-morning, before the larger day-tour boats arrive from Ölüdeniz in early afternoon.
+    a: >-
+      Mid-morning, before the larger day-tour boats arrive from Ölüdeniz in
+      early afternoon.
   - q: How long do you need on the island?
-    a: A focused visit to the ruins and viewpoint takes about 1–1.5 hours; confirm with your boat captain since some trips only allow 45 minutes ashore.
+    a: >-
+      A focused visit to the ruins and viewpoint takes about 1–1.5 hours;
+      confirm with your boat captain since some trips only allow 45 minutes
+      ashore.
   - q: Is there anywhere to buy food or water on the island?
-    a: No — it's uninhabited with no shops, so bring your own water and snacks.
+    a: 'No — it''s uninhabited with no shops, so bring your own water and snacks.'
   - q: What's the entry cost?
-    a: There's no formal ticket booth; cost is essentially the price of your boat trip or charter, which varies by operator and season.
+    a: >-
+      There's no formal ticket booth; cost is essentially the price of your boat
+      trip or charter, which varies by operator and season.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

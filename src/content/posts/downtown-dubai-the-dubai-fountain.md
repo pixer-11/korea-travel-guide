@@ -1,48 +1,74 @@
 ---
-title: "The Dubai Fountain: Downtown Dubai Travel Guide (4.8★)"
-description: "The Dubai Fountain performs on the man-made lake at the foot of Burj Khalifa, with jets shooting up to 140 meters in time with music and colored lights. 4.8★ (138,674 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Downtown Dubai"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:55:03.968Z"
+title: 'The Dubai Fountain: Downtown Dubai Travel Guide (4.8★)'
+description: >-
+  The Dubai Fountain performs on the man-made lake at the foot of Burj Khalifa,
+  with jets shooting up to 140 meters in time with music and colored lights.
+  4.8★ (138,727 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Downtown Dubai
+category: hidden-gem
+pubDate: '2026-08-13T09:55:03.968Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dubai_Fountain.jpg/1920px-Dubai_Fountain.jpg"
-  credit: "Photo: GinaD / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_Fountain.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dubai_Fountain.jpg/1920px-Dubai_Fountain.jpg
+  credit: 'Photo: GinaD / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_Fountain.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dubai_Fountain_%40_At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815266500693%29.jpg/3840px-Dubai_Fountain_%40_At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815266500693%29.jpg"
-    credit: "Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dubai_Fountain_@_At_the_Top_SKY_@_Burj_Khalifa_@_Dubai_(15266500693).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dubai_Fountain_%40_At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815266500693%29.jpg/3840px-Dubai_Fountain_%40_At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815266500693%29.jpg
+    credit: 'Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dubai_Fountain_@_At_the_Top_SKY_@_Burj_Khalifa_@_Dubai_(15266500693).jpg
 place:
-  id: "ChIJP_HMuyloXz4RyC5haEhlfT4"
-  name: "The Dubai Fountain"
-  address: "Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
+  id: ChIJP_HMuyloXz4RyC5haEhlfT4
+  name: The Dubai Fountain
+  address: Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 138674
-  googleMapsUrl: "https://maps.google.com/?cid=4502866564103614152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 138727
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4502866564103614152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.195155399999997
   lng: 55.2751579
-  phone: "+971 4 888 8888"
+  phone: +971 4 888 8888
 tags:
-  - "downtown dubai"
-  - "hidden gem"
-quickAnswer: "The Dubai Fountain performs on the man-made lake at the foot of Burj Khalifa, with jets shooting up to 140 meters in time with music and colored lights. Shows run in the evening every 30 minutes, and it's free to watch from the promenade — arrive at least 20 minutes early for a spot at the rail. This is one of Downtown Dubai's busiest attractions, so plan around the crowds rather than expect solitude."
+  - downtown dubai
+  - hidden gem
+quickAnswer: >-
+  The Dubai Fountain performs on the man-made lake at the foot of Burj Khalifa,
+  with jets shooting up to 140 meters in time with music and colored lights.
+  Shows run in the evening every 30 minutes, and it's free to watch from the
+  promenade — arrive at least 20 minutes early for a spot at the rail. This is
+  one of Downtown Dubai's busiest attractions, so plan around the crowds rather
+  than expect solitude.
 faq:
-  - q: "How much does it cost to watch The Dubai Fountain?"
-    a: "Watching from the promenade is free. Paid options exist if you want guaranteed seating, like a waterfront restaurant table or a fountain boat ride, but no ticket is needed to simply stand at the rail."
-  - q: "What time do the shows start?"
-    a: "Performances run in the evening, roughly every 30 minutes once the sun sets. There isn't a daytime show, so plan your visit for after dark."
-  - q: "How long should I spend at the fountain?"
-    a: "Most visitors budget 30–45 minutes — enough to watch one or two full performances and find a good vantage point beforehand."
-  - q: "How do I get to The Dubai Fountain by metro?"
-    a: "Take the Red Line to Burj Khalifa/Dubai Mall Station, then follow the footbridge into Dubai Mall and exit toward the fountain promenade."
-  - q: "Is it very crowded?"
-    a: "Yes — it's one of the most visited attractions in Downtown Dubai. Weekday evenings are calmer than weekends, and arriving 20 minutes before showtime helps you get a decent spot at the rail."
+  - q: How much does it cost to watch The Dubai Fountain?
+    a: >-
+      Watching from the promenade is free. Paid options exist if you want
+      guaranteed seating, like a waterfront restaurant table or a fountain boat
+      ride, but no ticket is needed to simply stand at the rail.
+  - q: What time do the shows start?
+    a: >-
+      Performances run in the evening, roughly every 30 minutes once the sun
+      sets. There isn't a daytime show, so plan your visit for after dark.
+  - q: How long should I spend at the fountain?
+    a: >-
+      Most visitors budget 30–45 minutes — enough to watch one or two full
+      performances and find a good vantage point beforehand.
+  - q: How do I get to The Dubai Fountain by metro?
+    a: >-
+      Take the Red Line to Burj Khalifa/Dubai Mall Station, then follow the
+      footbridge into Dubai Mall and exit toward the fountain promenade.
+  - q: Is it very crowded?
+    a: >-
+      Yes — it's one of the most visited attractions in Downtown Dubai. Weekday
+      evenings are calmer than weekends, and arriving 20 minutes before showtime
+      helps you get a decent spot at the rail.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: fethiye-gemiler-island
-srcHash: 'e5ffbb7f66b1'
+srcHash: '9c142c5d30c0'
 title: 格米勒岛（Gemiler Island）：费特希耶（Fethiye）旅行指南（4.8★）
-description: 格米勒岛（Gemiler Island）就在费特希耶（Fethiye）海岸外，靠近厄吕代尼兹（Ölüdeniz），是一座只能坐船抵达的无人岛，散布着拜占庭遗迹——教堂、筒形拱顶廊道，以及神秘的“圣尼古拉之墓”。4.8★（736条评价）——游客怎么说、开放时间及实用建议。
+description: 格米勒岛（Gemiler Island）就在费特希耶（Fethiye）海岸外，靠近厄吕代尼兹（Ölüdeniz），是一座只能坐船抵达的无人岛，散布着拜占庭遗迹——教堂、筒形拱顶廊道，以及神秘的“圣尼古拉之墓”。4.8★（744条评价）——游客怎么说、开放时间及实用建议。
 quickAnswer: 格米勒岛（Gemiler Island）就在费特希耶（Fethiye）海岸外，靠近厄吕代尼兹（Ölüdeniz），是一座只能坐船抵达的无人岛，散布着拜占庭遗迹——教堂、筒形拱顶廊道，以及神秘的“圣尼古拉之墓”。可以乘坐一日游船或包船前往，记得穿上适合攀爬遗迹的鞋子，并尽量选择上午抵达，以避开午后逐渐增多的旅游船人潮。
 faq:
   - q: 如何前往格米勒岛？

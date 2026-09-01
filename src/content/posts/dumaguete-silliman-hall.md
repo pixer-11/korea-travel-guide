@@ -1,55 +1,82 @@
 ---
-title: "Silliman Hall: Dumaguete Travel Guide"
-description: "Silliman Hall sits inside Silliman University's tree-shaded main campus on Hibbard Avenue, open daily 7am–9pm."
-country: "Philippines"
-region: "Dumaguete"
-category: "attraction"
-pubDate: "2026-08-12T08:43:41.230Z"
+title: 'Silliman Hall: Dumaguete Travel Guide'
+description: >-
+  Silliman Hall sits inside Silliman University's tree-shaded main campus on
+  Hibbard Avenue, open daily 7am–9pm.
+country: Philippines
+region: Dumaguete
+category: attraction
+pubDate: '2026-08-12T08:43:41.230Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Silliman_Hall_2025.jpg/1920px-Silliman_Hall_2025.jpg"
-  credit: "Photo: Aclarado / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Silliman_Hall_2025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Silliman_Hall_2025.jpg/1920px-Silliman_Hall_2025.jpg
+  credit: 'Photo: Aclarado / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Silliman_Hall_2025.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Silliman_Hall_in_Silliman_University_06.jpg/3840px-Silliman_Hall_in_Silliman_University_06.jpg"
-    credit: "Photo: IndayLiburan / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Silliman_Hall_in_Silliman_University_06.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Silliman_Hall_in_Silliman_University_06.jpg/3840px-Silliman_Hall_in_Silliman_University_06.jpg
+    credit: 'Photo: IndayLiburan / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Silliman_Hall_in_Silliman_University_06.jpg
 place:
-  id: "ChIJ507mVuFuqzMR3Epn7G6vCag"
-  name: "Silliman Hall"
-  address: "8865+8GP Siliman University, Hibbard Ave, Dumaguete City, Negros Oriental, Philippines"
+  id: ChIJ507mVuFuqzMR3Epn7G6vCag
+  name: Silliman Hall
+  address: >-
+    8865+8GP Siliman University, Hibbard Ave, Dumaguete City, Negros Oriental,
+    Philippines
   rating: 4.7
-  userRatingsTotal: 99
-  googleMapsUrl: "https://maps.google.com/?cid=12108401964109744860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 100
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12108401964109744860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.310799399999999
   lng: 123.3086533
   openingHours:
-    - "Monday: 7:00 AM – 9:00 PM"
-    - "Tuesday: 7:00 AM – 9:00 PM"
-    - "Wednesday: 7:00 AM – 9:00 PM"
-    - "Thursday: 7:00 AM – 9:00 PM"
-    - "Friday: 7:00 AM – 9:00 PM"
-    - "Saturday: 7:00 AM – 9:00 PM"
-    - "Sunday: 7:00 AM – 9:00 PM"
+    - 'Monday: 7:00 AM – 9:00 PM'
+    - 'Tuesday: 7:00 AM – 9:00 PM'
+    - 'Wednesday: 7:00 AM – 9:00 PM'
+    - 'Thursday: 7:00 AM – 9:00 PM'
+    - 'Friday: 7:00 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
 tags:
-  - "dumaguete"
-  - "top attraction"
-quickAnswer: "Silliman Hall sits inside Silliman University's tree-shaded main campus on Hibbard Avenue, open daily 7am–9pm. It's Dumaguete's oldest American-era building, now a museum holding anthropological finds dating back to 200 BCE. Budget 30-45 minutes, and go on a weekday morning when the campus is quiet and the light through the old windows is best."
+  - dumaguete
+  - top attraction
+quickAnswer: >-
+  Silliman Hall sits inside Silliman University's tree-shaded main campus on
+  Hibbard Avenue, open daily 7am–9pm. It's Dumaguete's oldest American-era
+  building, now a museum holding anthropological finds dating back to 200 BCE.
+  Budget 30-45 minutes, and go on a weekday morning when the campus is quiet and
+  the light through the old windows is best.
 faq:
-  - q: "What are Silliman Hall's opening hours?"
-    a: "It's open daily from 7am to 9pm, which is unusually long for a museum, so you have plenty of flexibility to fit it around other plans."
-  - q: "How much time should I set aside?"
-    a: "30 to 45 minutes is enough to see the exhibits and appreciate the building itself without rushing."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings, before the university's classes fill the campus, tend to be calmest since foot traffic here follows the academic schedule rather than tourist crowds."
-  - q: "How do I get to Silliman Hall?"
-    a: "It's inside Silliman University's main gate on Hibbard Avenue, an easy walk or short tricycle/trisikad ride from downtown Dumaguete and Rizal Boulevard."
-  - q: "What's nearby to combine with a visit?"
-    a: "The rest of Silliman University's acacia-shaded campus is worth a slow walk, and Rizal Boulevard and downtown Dumaguete are both a short walk from the main gate."
+  - q: What are Silliman Hall's opening hours?
+    a: >-
+      It's open daily from 7am to 9pm, which is unusually long for a museum, so
+      you have plenty of flexibility to fit it around other plans.
+  - q: How much time should I set aside?
+    a: >-
+      30 to 45 minutes is enough to see the exhibits and appreciate the building
+      itself without rushing.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings, before the university's classes fill the campus, tend to
+      be calmest since foot traffic here follows the academic schedule rather
+      than tourist crowds.
+  - q: How do I get to Silliman Hall?
+    a: >-
+      It's inside Silliman University's main gate on Hibbard Avenue, an easy
+      walk or short tricycle/trisikad ride from downtown Dumaguete and Rizal
+      Boulevard.
+  - q: What's nearby to combine with a visit?
+    a: >-
+      The rest of Silliman University's acacia-shaded campus is worth a slow
+      walk, and Rizal Boulevard and downtown Dumaguete are both a short walk
+      from the main gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

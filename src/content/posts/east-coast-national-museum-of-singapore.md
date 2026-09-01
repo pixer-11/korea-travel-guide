@@ -1,37 +1,42 @@
 ---
-title: "National Museum of Singapore: East Coast Travel Guide (4.5★)"
-description: "The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm. 4.5★ (16,488 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "East Coast"
-category: "attraction"
-pubDate: "2026-08-14T08:45:51.367Z"
+title: 'National Museum of Singapore: East Coast Travel Guide (4.5★)'
+description: >-
+  The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm.
+  4.5★ (16,547 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: East Coast
+category: attraction
+pubDate: '2026-08-14T08:45:51.367Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/de/National_Museum_of_Singapore_%28131537%29.jpg"
-  credit: "Photo: Moheen Reeyad / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Museum_of_Singapore_(131537).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/de/National_Museum_of_Singapore_%28131537%29.jpg
+  credit: 'Photo: Moheen Reeyad / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Museum_of_Singapore_(131537).jpg
 gallery: []
 place:
-  id: "ChIJD1u-EaMZ2jERaLhNfFkR45I"
-  name: "National Museum of Singapore"
-  address: "93 Stamford Rd, Singapore 178897"
+  id: ChIJD1u-EaMZ2jERaLhNfFkR45I
+  name: National Museum of Singapore
+  address: '93 Stamford Rd, Singapore 178897'
   rating: 4.5
-  userRatingsTotal: 16488
-  googleMapsUrl: "https://maps.google.com/?cid=10584322625286027368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16547
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10584322625286027368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.296613
   lng: 103.84850910000002
-  phone: "+65 6332 3659"
+  phone: +65 6332 3659
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 17
@@ -44,24 +49,42 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_493534526b46664e684c6152456a325a4d61452d7531444a496843"
+    venueId: ven_493534526b46664e684c6152456a325a4d61452d7531444a496843
 tags:
-  - "east coast"
-  - "museum"
-quickAnswer: "The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm. It's calmest on weekdays, while weekends between 11am and 6pm draw the heaviest crowds — aim for a weekday morning and set aside two to three hours. It's an easy walk from Bras Basah or Dhoby Ghaut MRT."
+  - east coast
+  - museum
+quickAnswer: >-
+  The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm.
+  It's calmest on weekdays, while weekends between 11am and 6pm draw the
+  heaviest crowds — aim for a weekday morning and set aside two to three hours.
+  It's an easy walk from Bras Basah or Dhoby Ghaut MRT.
 faq:
-  - q: "What are the opening hours?"
-    a: "The National Museum of Singapore is open every day, including weekends, from 10:00 AM to 7:00 PM."
-  - q: "How do I get there by MRT?"
-    a: "Bras Basah MRT (Circle Line) is about a 5-minute walk, and Dhoby Ghaut MRT (North-South, North-East, Circle lines) is about 10 minutes on foot through the Fort Canning Park area."
-  - q: "When is it quietest?"
-    a: "Weekdays are consistently calmer across the full 10am–7pm window. Weekends get busy between 11am and 6pm, so aim for right at opening or later afternoon if you're visiting on a Saturday or Sunday."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours is realistic if you want to properly cover the Singapore History Gallery plus one or two other galleries or exhibitions."
-  - q: "What's nearby if I want to make a day of it?"
-    a: "Fort Canning Park, the Peranakan Museum, and the Singapore Art Museum are all within a short walk, along with cafes and bookshops in the Bras Basah arts precinct."
+  - q: What are the opening hours?
+    a: >-
+      The National Museum of Singapore is open every day, including weekends,
+      from 10:00 AM to 7:00 PM.
+  - q: How do I get there by MRT?
+    a: >-
+      Bras Basah MRT (Circle Line) is about a 5-minute walk, and Dhoby Ghaut MRT
+      (North-South, North-East, Circle lines) is about 10 minutes on foot
+      through the Fort Canning Park area.
+  - q: When is it quietest?
+    a: >-
+      Weekdays are consistently calmer across the full 10am–7pm window. Weekends
+      get busy between 11am and 6pm, so aim for right at opening or later
+      afternoon if you're visiting on a Saturday or Sunday.
+  - q: How long should I plan to spend there?
+    a: >-
+      Two to three hours is realistic if you want to properly cover the
+      Singapore History Gallery plus one or two other galleries or exhibitions.
+  - q: What's nearby if I want to make a day of it?
+    a: >-
+      Fort Canning Park, the Peranakan Museum, and the Singapore Art Museum are
+      all within a short walk, along with cafes and bookshops in the Bras Basah
+      arts precinct.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

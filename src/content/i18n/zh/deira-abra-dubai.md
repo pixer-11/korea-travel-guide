@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: deira-abra-dubai
-srcHash: 'e50d1bc91a09'
+srcHash: '4e6c1e402100'
 title: 迪拜阿布拉水上巴士(Abra Dubai):迪拜河东岸(Deira)旅行指南 (4.7★)
-description: 迪拜河东岸(Deira)横渡迪拜河(Dubai Creek)的阿布拉(abra)渡船全天24小时运营，票价仅需1迪拉姆(AED),约五到十分钟即可抵达河对岸(Bur Dubai)的Al Seef或Al Fahidi。4.7★(571条评价)——游客怎么说、运营时间及实用建议。
+description: 迪拜河东岸(Deira)横渡迪拜河(Dubai Creek)的阿布拉(abra)渡船全天24小时运营，票价仅需1迪拉姆(AED),约五到十分钟即可抵达河对岸(Bur Dubai)的Al Seef或Al Fahidi。4.7★(573条评价)——游客怎么说、运营时间及实用建议。
 quickAnswer: 迪拜河东岸(Deira)横渡迪拜河(Dubai Creek)的阿布拉(abra)渡船全天24小时运营，票价仅需1迪拉姆(AED),约五到十分钟即可抵达河对岸(Bur Dubai)的Al Seef或Al Fahidi。建议周末上午8点到10点前往，此时船上几乎空无一人，晨光也十分柔和;尽量避开傍晚6点到晚上11点的高峰时段，因为那时大家都想着同样的事——看夕阳下的天际线。
 faq:
   - q: 乘坐阿布拉渡船需要多少钱?

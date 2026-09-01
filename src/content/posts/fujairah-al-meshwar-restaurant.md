@@ -1,31 +1,40 @@
 ---
 title: 'Al Meshwar Restaurant: Where to Eat in Fujairah'
-description: Al Meshwar is a busy, no-frills Lebanese grill restaurant on Hamad Bin Abdulla Road in Fujairah City, near Fujairah City Centre mall — a solid choice for mixed grills, shawarma, and mezze at moderate prices (price level 2 of 4, 4.1 rating from over 3,600 reviews).
+description: >-
+  Al Meshwar is a busy, no-frills Lebanese grill restaurant on Hamad Bin Abdulla
+  Road in Fujairah City, near Fujairah City Centre mall — a solid choice for
+  mixed grills, shawarma, and mezze at moderate prices (price level 2 of 4, 4.1
+  rating from over 3,600 reviews).
 country: United Arab Emirates
 region: Fujairah
 category: restaurant
 pubDate: '2026-07-23T08:01:19.136Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/406410069_4q0AuNGBHpsZYGyEAd1lY4dCohUEXnS-uKggHvDgyJQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/406410069_4q0AuNGBHpsZYGyEAd1lY4dCohUEXnS-uKggHvDgyJQ.jpg
   credit: 'Photo: Foursquare user content (Al Meshwar Restaurant مطعم المشوار)'
   license: foursquare
-  source: https://foursquare.com/v/4c0a241dbbc676b0bd5949d5
+  source: 'https://foursquare.com/v/4c0a241dbbc676b0bd5949d5'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/42271279_lrvvtOeqs_mWlteeKEGk5ZVG6bO8yejOtm8VkFKxqHs.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/42271279_lrvvtOeqs_mWlteeKEGk5ZVG6bO8yejOtm8VkFKxqHs.jpg
     credit: 'Photo: Foursquare user content (Al Meshwar Restaurant مطعم المشوار)'
     license: foursquare
-    source: https://foursquare.com/v/4c0a241dbbc676b0bd5949d5
+    source: 'https://foursquare.com/v/4c0a241dbbc676b0bd5949d5'
 place:
   id: ChIJT93bboz49D4Rop5Zc7He-2M
   name: Al Meshwar Restaurant
-  address: Hamad Bin Abdulla Rd - Fujairah City Center - Fujairah - United Arab Emirates
+  address: >-
+    Hamad Bin Abdulla Rd - Fujairah City Center - Fujairah - United Arab
+    Emirates
   rating: 4.1
-  userRatingsTotal: 3634
+  userRatingsTotal: 3661
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=7204596882635071138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7204596882635071138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.123008600000002
   lng: 56.331095999999995
@@ -54,7 +63,7 @@ place:
       - 21
       - 22
     venueId: ven_4d322d654837635a35706f52344439347a6f62623339544a496843
-  phone: '+971 9 223 1113'
+  phone: +971 9 223 1113
   openingHours:
     - 'Monday: 9:00 AM – 1:00 AM'
     - 'Tuesday: 9:00 AM – 1:00 AM'
@@ -66,19 +75,41 @@ place:
 tags:
   - fujairah
   - street food
-quickAnswer: Al Meshwar is a busy, no-frills Lebanese grill restaurant on Hamad Bin Abdulla Road in Fujairah City, near Fujairah City Centre mall — a solid choice for mixed grills, shawarma, and mezze at moderate prices (price level 2 of 4, 4.1 rating from over 3,600 reviews). Go for lunch or an early dinner to avoid the peak evening crowd, and stick to the grilled meats and fresh mezze, which is what keeps this place consistently full.
+quickAnswer: >-
+  Al Meshwar is a busy, no-frills Lebanese grill restaurant on Hamad Bin Abdulla
+  Road in Fujairah City, near Fujairah City Centre mall — a solid choice for
+  mixed grills, shawarma, and mezze at moderate prices (price level 2 of 4, 4.1
+  rating from over 3,600 reviews). Go for lunch or an early dinner to avoid the
+  peak evening crowd, and stick to the grilled meats and fresh mezze, which is
+  what keeps this place consistently full.
 faq:
   - q: How do I get to Al Meshwar Restaurant without a car?
-    a: Use a taxi or ride-hailing app, since Fujairah has no metro or tram system. It's located on Hamad Bin Abdulla Road right by Fujairah City Centre mall, making it a straightforward pickup/drop-off point for drivers.
+    a: >-
+      Use a taxi or ride-hailing app, since Fujairah has no metro or tram
+      system. It's located on Hamad Bin Abdulla Road right by Fujairah City
+      Centre mall, making it a straightforward pickup/drop-off point for
+      drivers.
   - q: How much does a meal cost at Al Meshwar?
-    a: It sits at a moderate price level (2 out of 4) — casual and affordable rather than fine dining. Exact prices vary, so check the menu on-site or via a delivery app before ordering.
+    a: >-
+      It sits at a moderate price level (2 out of 4) — casual and affordable
+      rather than fine dining. Exact prices vary, so check the menu on-site or
+      via a delivery app before ordering.
   - q: What's the best time to visit to avoid crowds?
-    a: Aim for lunch around 1–3pm or early evening before 7pm. After 8pm, especially on Thursday and Friday nights, the restaurant gets busiest with families and groups.
+    a: >-
+      Aim for lunch around 1–3pm or early evening before 7pm. After 8pm,
+      especially on Thursday and Friday nights, the restaurant gets busiest with
+      families and groups.
   - q: How long should I plan to spend here?
-    a: A typical meal with mezze and a grill platter takes about 45 minutes to an hour, though it can run faster if you're getting shawarma to go.
+    a: >-
+      A typical meal with mezze and a grill platter takes about 45 minutes to an
+      hour, though it can run faster if you're getting shawarma to go.
   - q: What else can I see near the restaurant?
-    a: Fujairah City Centre mall is right nearby, and Fujairah Fort, Fujairah Museum, Al Bidyah Mosque, and the Fujairah Corniche are all easy to combine with a meal here.
+    a: >-
+      Fujairah City Centre mall is right nearby, and Fujairah Fort, Fujairah
+      Museum, Al Bidyah Mosque, and the Fujairah Corniche are all easy to
+      combine with a meal here.
 aiGenerated: true
+updatedDate: '2026-09-01'
 ---
 
 ## Why go

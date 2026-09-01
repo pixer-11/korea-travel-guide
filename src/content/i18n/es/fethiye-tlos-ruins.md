@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fethiye-tlos-ruins
-srcHash: '2997aa9f253e'
+srcHash: 'a26eebee3909'
 title: 'Ruinas de Tlos: Guía de Viaje de Fethiye (4,6★)'
-description: 'Tlos es una extensa ciudad licia asentada en una colina, a unos 45 minutos tierra adentro desde Fethiye y cerca del cañón de Saklıkent, abierta todos los días de 8:30 a 19:30. 4,6★ (4.796 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Tlos es una extensa ciudad licia asentada en una colina, a unos 45 minutos tierra adentro desde Fethiye y cerca del cañón de Saklıkent, abierta todos los días de 8:30 a 19:30. 4,6★ (4.848 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Tlos es una extensa ciudad licia asentada en una colina, a unos 45 minutos tierra adentro desde Fethiye y cerca del cañón de Saklıkent, abierta todos los días de 8:30 a 19:30. Calcule entre 1,5 y 2 horas para ver las tumbas talladas en la roca, el teatro romano y la acrópolis, con vistas al valle de Xanthos. Vaya temprano por la mañana o después de las 17:00 para evitar el calor y las multitudes de autobuses turísticos.
 faq:
   - q: ¿Cuánto tiempo debería dedicar a las Ruinas de Tlos?

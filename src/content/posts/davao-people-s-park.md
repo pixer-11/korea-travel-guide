@@ -1,27 +1,39 @@
 ---
 title: 'People s Park: Davao Travel Guide'
-description: "People's Park is a 4.39-hectare green space in Poblacion District, right in downtown Davao City on J. Palma Gil St, best visited right after opening at 1pm or in the evening after 6pm to dodge both the afternoon heat and the biggest crowds."
+description: >-
+  People's Park is a 4.39-hectare green space in Poblacion District, right in
+  downtown Davao City on J. Palma Gil St, best visited right after opening at
+  1pm or in the evening after 6pm to dodge both the afternoon heat and the
+  biggest crowds.
 country: Philippines
 region: Davao
 category: attraction
 pubDate: '2026-07-26T08:21:15.582Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg
-  credit: 'Photo: Constantine Agustin from Manila, Philippines / Wikimedia Commons (CC BY-SA 2.0)'
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/People%27s_Park_Davao_%284621404876%29.jpg/1920px-People%27s_Park_Davao_%284621404876%29.jpg
+  credit: >-
+    Photo: Constantine Agustin from Manila, Philippines / Wikimedia Commons (CC
+    BY-SA 2.0)
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_(4621404876).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_(4621404876).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/People%27s_Park_Davao_Benches.jpg/1920px-People%27s_Park_Davao_Benches.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/People%27s_Park_Davao_Benches.jpg/1920px-People%27s_Park_Davao_Benches.jpg
     credit: 'Photo: RoyKabanlit / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_Benches.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:People%27s_Park_Davao_Benches.jpg'
 place:
   id: ChIJf7hQMHZt-TIRGg4U2az0c6M
   name: People’s Park
-  address: J. Palma Gil St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines
+  address: >-
+    J. Palma Gil St, Poblacion District, Davao City, 8000 Davao del Sur,
+    Philippines
   rating: 4.5
-  userRatingsTotal: 5543
-  googleMapsUrl: https://maps.google.com/?cid=11778026473717501466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5571
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11778026473717501466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 7.070526399999999
   lng: 125.60846640000001
@@ -36,20 +48,42 @@ place:
 tags:
   - davao
   - top attraction
-quickAnswer: People's Park is a 4.39-hectare green space in Poblacion District, right in downtown Davao City on J. Palma Gil St, best visited right after opening at 1pm or in the evening after 6pm to dodge both the afternoon heat and the biggest crowds. Entry is free, it's walkable from most downtown hotels, and you'll want 45 minutes to an hour to see the sculptures, native plant collection, and the fountain area. Go on a weekday if you can — weekends bring families in force.
+quickAnswer: >-
+  People's Park is a 4.39-hectare green space in Poblacion District, right in
+  downtown Davao City on J. Palma Gil St, best visited right after opening at
+  1pm or in the evening after 6pm to dodge both the afternoon heat and the
+  biggest crowds. Entry is free, it's walkable from most downtown hotels, and
+  you'll want 45 minutes to an hour to see the sculptures, native plant
+  collection, and the fountain area. Go on a weekday if you can — weekends bring
+  families in force.
 faq:
   - q: How much does it cost to enter People's Park?
-    a: Entry is generally free, but fees and policies can change, so it's worth checking current information locally or at the gate before you visit.
+    a: >-
+      Entry is generally free, but fees and policies can change, so it's worth
+      checking current information locally or at the gate before you visit.
   - q: How long should I spend at People's Park?
-    a: Plan on 45 minutes to an hour for a full loop past the sculptures, fountain, and butterfly dome — longer if you're visiting with kids who want time at the splash area.
+    a: >-
+      Plan on 45 minutes to an hour for a full loop past the sculptures,
+      fountain, and butterfly dome — longer if you're visiting with kids who
+      want time at the splash area.
   - q: What's the quietest time to visit?
-    a: Right after opening (1pm) on weekdays is your best bet for a calm visit; the park gets progressively busier through the afternoon and is at its most crowded on weekend afternoons and evenings.
+    a: >-
+      Right after opening (1pm) on weekdays is your best bet for a calm visit;
+      the park gets progressively busier through the afternoon and is at its
+      most crowded on weekend afternoons and evenings.
   - q: How do I get to People's Park from the airport or downtown?
-    a: It's about a 20-25 minute Grab or taxi ride from Davao International Airport, or a short walk from most downtown Poblacion hotels — it's on J. Palma Gil St, near Rizal Park and San Pedro Cathedral.
+    a: >-
+      It's about a 20-25 minute Grab or taxi ride from Davao International
+      Airport, or a short walk from most downtown Poblacion hotels — it's on J.
+      Palma Gil St, near Rizal Park and San Pedro Cathedral.
   - q: What else is nearby?
-    a: San Pedro Cathedral and Rizal Park are both within a 10-minute walk, making it easy to combine People's Park with a broader downtown Davao stroll.
+    a: >-
+      San Pedro Cathedral and Rizal Park are both within a 10-minute walk,
+      making it easy to combine People's Park with a broader downtown Davao
+      stroll.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

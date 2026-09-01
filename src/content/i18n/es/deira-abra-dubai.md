@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: deira-abra-dubai
-srcHash: 'e50d1bc91a09'
+srcHash: '4e6c1e402100'
 title: 'Abra en Dubái: Guía de viaje de Deira (4,7★)'
-description: 'El cruce en abra de Deira sobre el Dubai Creek funciona las 24 horas y cuesta una tarifa simbólica de AED 1, tardando entre cinco y diez minutos en llegar a Al Seef o Al Fahidi, en el lado de Bur Dubai. 4,7★ (571 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El cruce en abra de Deira sobre el Dubai Creek funciona las 24 horas y cuesta una tarifa simbólica de AED 1, tardando entre cinco y diez minutos en llegar a Al Seef o Al Fahidi, en el lado de Bur Dubai. 4,7★ (573 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El cruce en abra de Deira sobre el Dubai Creek funciona las 24 horas y cuesta una tarifa simbólica de AED 1, tardando entre cinco y diez minutos en llegar a Al Seef o Al Fahidi, en el lado de Bur Dubai. Ve entre las 8 y las 10 de la mañana los fines de semana para disfrutar de un barco casi vacío y una suave luz matutina; evita el ajetreo de 6pm a 11pm, cuando todos los demás tienen la misma idea.
 faq:
   - q: ¿Cuánto cuesta el viaje en abra?

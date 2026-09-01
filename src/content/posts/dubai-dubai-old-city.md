@@ -1,43 +1,54 @@
 ---
-title: "Dubai Old City: Travel Guide (4.6★)"
-description: "Dubai Old City sits in Al Hamriya, on the Deira side of Dubai Creek, a maze of low sand-coloured buildings, wind towers and narrow lanes built to evoke the emirate's pre-oil past. 4.6★ (4,441 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Dubai"
-category: "attraction"
-pubDate: "2026-08-21T08:05:13.247Z"
+title: 'Dubai Old City: Travel Guide (4.6★)'
+description: >-
+  Dubai Old City sits in Al Hamriya, on the Deira side of Dubai Creek, a maze of
+  low sand-coloured buildings, wind towers and narrow lanes built to evoke the
+  emirate's pre-oil past. 4.6★ (4,457 reviews) — what visitors say, hours, and
+  tips.
+country: United Arab Emirates
+region: Dubai
+category: attraction
+pubDate: '2026-08-21T08:05:13.247Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dubai_Old_City_%2853372631353%29.jpg/3840px-Dubai_Old_City_%2853372631353%29.jpg"
-  credit: "Photo: Domenico Convertini from Zurich, Schweiz / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_Old_City_(53372631353).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dubai_Old_City_%2853372631353%29.jpg/3840px-Dubai_Old_City_%2853372631353%29.jpg
+  credit: >-
+    Photo: Domenico Convertini from Zurich, Schweiz / Wikimedia Commons (CC
+    BY-SA 2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_Old_City_(53372631353).jpg'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dubai_Old_City_%2853372446641%29.jpg/3840px-Dubai_Old_City_%2853372446641%29.jpg"
-    credit: "Photo: Domenico Convertini from Zurich, Schweiz / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dubai_Old_City_(53372446641).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dubai_Old_City_%2853372446641%29.jpg/3840px-Dubai_Old_City_%2853372446641%29.jpg
+    credit: >-
+      Photo: Domenico Convertini from Zurich, Schweiz / Wikimedia Commons (CC
+      BY-SA 2.0)
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Dubai_Old_City_(53372446641).jpg'
 place:
-  id: "ChIJy1o3x49DXz4RG9VDdTcLsv4"
-  name: "Dubai Old City"
-  address: "7874+GCV - Al Hamriya - Dubai - United Arab Emirates"
+  id: ChIJy1o3x49DXz4RG9VDdTcLsv4
+  name: Dubai Old City
+  address: 7874+GCV - Al Hamriya - Dubai - United Arab Emirates
   rating: 4.6
-  userRatingsTotal: 4441
-  googleMapsUrl: "https://maps.google.com/?cid=18352743764306679067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4457
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18352743764306679067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2638684
   lng: 55.3060462
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-21
+    updated: 2026-08-21T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +69,42 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_3476734c6354644456394752347a5844393478336f31794a496843"
+    venueId: ven_3476734c6354644456394752347a5844393478336f31794a496843
 tags:
-  - "dubai"
-  - "historic site"
-quickAnswer: "Dubai Old City sits in Al Hamriya, on the Deira side of Dubai Creek, a maze of low sand-coloured buildings, wind towers and narrow lanes built to evoke the emirate's pre-oil past. It's open 24 hours, but go between 7am and 10am on weekdays (7–9am weekends) to have the alleys to yourself. Budget 1–2 hours, wear shoes good for uneven stone, and pair it with a walk along the Creek or a stop at the nearby souks."
+  - dubai
+  - historic site
+quickAnswer: >-
+  Dubai Old City sits in Al Hamriya, on the Deira side of Dubai Creek, a maze of
+  low sand-coloured buildings, wind towers and narrow lanes built to evoke the
+  emirate's pre-oil past. It's open 24 hours, but go between 7am and 10am on
+  weekdays (7–9am weekends) to have the alleys to yourself. Budget 1–2 hours,
+  wear shoes good for uneven stone, and pair it with a walk along the Creek or a
+  stop at the nearby souks.
 faq:
-  - q: "How do I get to Dubai Old City?"
-    a: "Take a taxi or rideshare to Al Hamriya in Deira, near Deira Old Souq. The nearest Metro stations are Al Ras or Palm Deira on the Green Line, about a 10–15 minute walk or short cab ride away."
-  - q: "Is there an entry fee?"
-    a: "No — it's an open-air historic quarter with no gates or tickets, so you can walk in freely at any time."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 10am, or weekends between 7am and 9am. Avoid weekend afternoons and evenings (4pm–11pm), which are the busiest."
-  - q: "How long should I spend there?"
-    a: "One to two hours is enough to wander the lanes, admire the wind towers, and take photos without rushing."
-  - q: "What else is nearby?"
-    a: "Dubai Creek is a short walk away, and the Gold and Spice Souks in Deira make an easy add-on to the same trip."
+  - q: How do I get to Dubai Old City?
+    a: >-
+      Take a taxi or rideshare to Al Hamriya in Deira, near Deira Old Souq. The
+      nearest Metro stations are Al Ras or Palm Deira on the Green Line, about a
+      10–15 minute walk or short cab ride away.
+  - q: Is there an entry fee?
+    a: >-
+      No — it's an open-air historic quarter with no gates or tickets, so you
+      can walk in freely at any time.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 10am, or weekends between 7am and 9am. Avoid
+      weekend afternoons and evenings (4pm–11pm), which are the busiest.
+  - q: How long should I spend there?
+    a: >-
+      One to two hours is enough to wander the lanes, admire the wind towers,
+      and take photos without rushing.
+  - q: What else is nearby?
+    a: >-
+      Dubai Creek is a short walk away, and the Gold and Spice Souks in Deira
+      make an easy add-on to the same trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 

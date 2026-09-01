@@ -1,28 +1,36 @@
 ---
 title: 'Al Khayma Heritage Restaurant: Where to Eat in Dubai'
-description: Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and luqaimat in a Bedouin-tent-style courtyard.
+description: >-
+  Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood
+  near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
+  luqaimat in a Bedouin-tent-style courtyard.
 country: United Arab Emirates
 region: Dubai
 category: restaurant
 pubDate: '2026-07-23T07:49:39.145Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/485109848_qrVE9F-68DlHRm8BjrGKI2sG_AtQUyiikDeKwJ6cdcY.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/485109848_qrVE9F-68DlHRm8BjrGKI2sG_AtQUyiikDeKwJ6cdcY.jpg
   credit: 'Photo: Foursquare user content (Al Khayma Heritage Restaurant)'
   license: foursquare
-  source: https://foursquare.com/v/60d850fe25a5381220e2738d
+  source: 'https://foursquare.com/v/60d850fe25a5381220e2738d'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/382909557_P54eknhzo3AqfFe7qVF2Mzp9CqzjTsMpkBS_rpjUcls.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/382909557_P54eknhzo3AqfFe7qVF2Mzp9CqzjTsMpkBS_rpjUcls.jpg
     credit: 'Photo: Foursquare user content (Al Khayma Heritage Restaurant)'
     license: foursquare
-    source: https://foursquare.com/v/60d850fe25a5381220e2738d
+    source: 'https://foursquare.com/v/60d850fe25a5381220e2738d'
 place:
   id: ChIJl6Wlj3JDXz4RiuVGW1AttdY
   name: Al Khayma Heritage Restaurant | مطعم الخيمة التراثي
-  address: Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al Fahidi - Dubai - United Arab Emirates
+  address: >-
+    Historical Neighbourhood - 79 Al Mussallah Rd - Al Souq Al Kabeer - Al
+    Fahidi - Dubai - United Arab Emirates
   rating: 4.9
-  userRatingsTotal: 17801
+  userRatingsTotal: 18101
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=15471321918053213578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15471321918053213578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.2637706
   lng: 55.3007685
@@ -50,7 +58,7 @@ place:
       - 21
       - 22
     venueId: ven_596474744131574756756952347a58444a336a6c57366c4a496843
-  phone: '+971 55 180 2080'
+  phone: +971 55 180 2080
   openingHours:
     - 'Monday: 8:00 AM – 11:00 PM'
     - 'Tuesday: 8:00 AM – 11:00 PM'
@@ -62,21 +70,40 @@ place:
 tags:
   - dubai
   - local restaurant
-quickAnswer: Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and luqaimat in a Bedouin-tent-style courtyard. It's a very-popular, well-reviewed spot (4.9 rating, nearly 18,000 reviews) at mid-range prices, so arrive early or book ahead, especially at dinner. Budget 60-90 minutes and pair it with a walk through the Al Fahidi lanes or the Dubai Museum at Al Fahidi Fort nearby.
+quickAnswer: >-
+  Al Khayma Heritage Restaurant sits in the Al Fahidi Historical Neighbourhood
+  near Al Souq Al Kabeer, serving Emirati classics like machboos, harees, and
+  luqaimat in a Bedouin-tent-style courtyard. It's a very-popular, well-reviewed
+  spot (4.9 rating, nearly 18,000 reviews) at mid-range prices, so arrive early
+  or book ahead, especially at dinner. Budget 60-90 minutes and pair it with a
+  walk through the Al Fahidi lanes or the Dubai Museum at Al Fahidi Fort nearby.
 faq:
   - q: How do I get to Al Khayma Heritage Restaurant without a car?
-    a: Take the Dubai Metro Green Line to Al Fahidi Station, then walk about 10-15 minutes through the Al Fahidi Historical Neighbourhood, or cross via abra ferry from Deira to a Bur Dubai dock nearby.
+    a: >-
+      Take the Dubai Metro Green Line to Al Fahidi Station, then walk about
+      10-15 minutes through the Al Fahidi Historical Neighbourhood, or cross via
+      abra ferry from Deira to a Bur Dubai dock nearby.
   - q: Is it expensive?
-    a: It's mid-range (price level 2 out of 4) — pricier than a casual cafe but well below fine-dining, reflecting its home-style Emirati menu and setting.
+    a: >-
+      It's mid-range (price level 2 out of 4) — pricier than a casual cafe but
+      well below fine-dining, reflecting its home-style Emirati menu and
+      setting.
   - q: Do I need a reservation?
-    a: It's very popular with nearly 18,000 reviews, so booking ahead or arriving at opening for lunch is strongly recommended, especially for dinner.
+    a: >-
+      It's very popular with nearly 18,000 reviews, so booking ahead or arriving
+      at opening for lunch is strongly recommended, especially for dinner.
   - q: How long should I plan to stay?
-    a: Budget 60-90 minutes for a full meal in the courtyard setting; longer if you're dining as a group with communal platters.
+    a: >-
+      Budget 60-90 minutes for a full meal in the courtyard setting; longer if
+      you're dining as a group with communal platters.
   - q: What's the best time of year or day to visit?
-    a: October through April is more comfortable for the courtyard seating; within the day, lunch or early evening tends to be calmer than peak dinner hours.
+    a: >-
+      October through April is more comfortable for the courtyard seating;
+      within the day, lunch or early evening tends to be calmer than peak dinner
+      hours.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-01'
 ---
 
 ## Why go

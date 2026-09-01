@@ -1,55 +1,79 @@
 ---
-title: "Tlos Ruins: Fethiye Travel Guide (4.6★)"
-description: "Tlos is a sprawling Lycian hilltop city about 45 minutes inland from Fethiye, near Saklıkent Gorge, open daily 8:30am–7:30pm. 4.6★ (4,796 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Fethiye"
-category: "attraction"
-pubDate: "2026-08-19T09:04:29.718Z"
+title: 'Tlos Ruins: Fethiye Travel Guide (4.6★)'
+description: >-
+  Tlos is a sprawling Lycian hilltop city about 45 minutes inland from Fethiye,
+  near Saklıkent Gorge, open daily 8:30am–7:30pm. 4.6★ (4,848 reviews) — what
+  visitors say, hours, and tips.
+country: Turkey
+region: Fethiye
+category: attraction
+pubDate: '2026-08-19T09:04:29.718Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arched_ruins_of_the_ancient_city_of_Tlos.jpg/3840px-Arched_ruins_of_the_ancient_city_of_Tlos.jpg"
-  credit: "Photo: Buğra Kaan Ersoy / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Arched_ruins_of_the_ancient_city_of_Tlos.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arched_ruins_of_the_ancient_city_of_Tlos.jpg/3840px-Arched_ruins_of_the_ancient_city_of_Tlos.jpg
+  credit: 'Photo: Buğra Kaan Ersoy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Arched_ruins_of_the_ancient_city_of_Tlos.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJv6N-xYNNwBQRJwP5Obd_7Ag"
-  name: "Tlos Ruins"
-  address: "Yakaköy, Saklıkent Yolu, 48850 Fethiye/Muğla, Türkiye"
+  id: ChIJv6N-xYNNwBQRJwP5Obd_7Ag
+  name: Tlos Ruins
+  address: 'Yakaköy, Saklıkent Yolu, 48850 Fethiye/Muğla, Türkiye'
   rating: 4.6
-  userRatingsTotal: 4796
-  googleMapsUrl: "https://maps.google.com/?cid=643029271735501607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4848
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=643029271735501607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.5542339
   lng: 29.420206000000004
-  phone: "+90 252 614 11 50"
+  phone: +90 252 614 11 50
   openingHours:
-    - "Monday: 8:30 AM – 7:30 PM"
-    - "Tuesday: 8:30 AM – 7:30 PM"
-    - "Wednesday: 8:30 AM – 7:30 PM"
-    - "Thursday: 8:30 AM – 7:30 PM"
-    - "Friday: 8:30 AM – 7:30 PM"
-    - "Saturday: 8:30 AM – 7:30 PM"
-    - "Sunday: 8:30 AM – 7:30 PM"
+    - 'Monday: 8:30 AM – 7:30 PM'
+    - 'Tuesday: 8:30 AM – 7:30 PM'
+    - 'Wednesday: 8:30 AM – 7:30 PM'
+    - 'Thursday: 8:30 AM – 7:30 PM'
+    - 'Friday: 8:30 AM – 7:30 PM'
+    - 'Saturday: 8:30 AM – 7:30 PM'
+    - 'Sunday: 8:30 AM – 7:30 PM'
 tags:
-  - "fethiye"
-  - "museum"
-quickAnswer: "Tlos is a sprawling Lycian hilltop city about 45 minutes inland from Fethiye, near Saklıkent Gorge, open daily 8:30am–7:30pm. Budget 1.5–2 hours to see the rock-face tombs, Roman theatre, and acropolis with views over the Xanthos Valley. Go early morning or after 5pm to avoid the heat and tour-bus crowds."
+  - fethiye
+  - museum
+quickAnswer: >-
+  Tlos is a sprawling Lycian hilltop city about 45 minutes inland from Fethiye,
+  near Saklıkent Gorge, open daily 8:30am–7:30pm. Budget 1.5–2 hours to see the
+  rock-face tombs, Roman theatre, and acropolis with views over the Xanthos
+  Valley. Go early morning or after 5pm to avoid the heat and tour-bus crowds.
 faq:
-  - q: "How long should I spend at Tlos Ruins?"
-    a: "Plan for 1.5 to 2 hours to walk from the entrance up to the acropolis and back down, more if you linger at the theatre or take photos at the rock tombs."
-  - q: "What are the opening hours?"
-    a: "Tlos is open daily from 8:30am to 7:30pm year-round. Arriving in the first couple of hours after opening or the last two before closing avoids both heat and crowds."
-  - q: "How do I get to Tlos from Fethiye without a car?"
-    a: "A dolmuş (local minibus) toward Kınık or Seydikemer gets you close, but connections are infrequent. A rental car, taxi, or an organized day tour combining Tlos with Saklıkent Gorge is more reliable."
-  - q: "Can I visit Tlos and Saklıkent Gorge in one day?"
-    a: "Yes — they sit about 15 minutes apart on the same inland road and are commonly combined into a single half-day trip from Fethiye."
-  - q: "Is there shade or facilities on site?"
-    a: "Shade is limited, especially near the acropolis, and there's no shop past the entrance kiosk, so bring water, a hat, and sun protection."
+  - q: How long should I spend at Tlos Ruins?
+    a: >-
+      Plan for 1.5 to 2 hours to walk from the entrance up to the acropolis and
+      back down, more if you linger at the theatre or take photos at the rock
+      tombs.
+  - q: What are the opening hours?
+    a: >-
+      Tlos is open daily from 8:30am to 7:30pm year-round. Arriving in the first
+      couple of hours after opening or the last two before closing avoids both
+      heat and crowds.
+  - q: How do I get to Tlos from Fethiye without a car?
+    a: >-
+      A dolmuş (local minibus) toward Kınık or Seydikemer gets you close, but
+      connections are infrequent. A rental car, taxi, or an organized day tour
+      combining Tlos with Saklıkent Gorge is more reliable.
+  - q: Can I visit Tlos and Saklıkent Gorge in one day?
+    a: >-
+      Yes — they sit about 15 minutes apart on the same inland road and are
+      commonly combined into a single half-day trip from Fethiye.
+  - q: Is there shade or facilities on site?
+    a: >-
+      Shade is limited, especially near the acropolis, and there's no shop past
+      the entrance kiosk, so bring water, a hat, and sun protection.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

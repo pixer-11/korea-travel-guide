@@ -1,40 +1,47 @@
 ---
-title: "Abra Dubai: Deira Travel Guide (4.7★)"
-description: "The Deira abra crossing over Dubai Creek runs 24 hours and costs a token AED 1 fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the Bur Dubai side. 4.7★ (571 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Deira"
-category: "attraction"
-pubDate: "2026-08-12T09:27:36.987Z"
+title: 'Abra Dubai: Deira Travel Guide (4.7★)'
+description: >-
+  The Deira abra crossing over Dubai Creek runs 24 hours and costs a token AED 1
+  fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the
+  Bur Dubai side. 4.7★ (573 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Deira
+category: attraction
+pubDate: '2026-08-12T09:27:36.987Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/91/Dubai_Creek_from_an_abra_5.jpg"
-  credit: "Photo: CT Cooper / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_Creek_from_an_abra_5.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/91/Dubai_Creek_from_an_abra_5.jpg
+  credit: 'Photo: CT Cooper / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Dubai_Creek_from_an_abra_5.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Abra_%40_From_Bur_Dubai_to_Deira_%40_Dubai_Creek_%2815860705846%29.jpg/3840px-Abra_%40_From_Bur_Dubai_to_Deira_%40_Dubai_Creek_%2815860705846%29.jpg"
-    credit: "Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Abra_@_From_Bur_Dubai_to_Deira_@_Dubai_Creek_(15860705846).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Abra_%40_From_Bur_Dubai_to_Deira_%40_Dubai_Creek_%2815860705846%29.jpg/3840px-Abra_%40_From_Bur_Dubai_to_Deira_%40_Dubai_Creek_%2815860705846%29.jpg
+    credit: 'Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Abra_@_From_Bur_Dubai_to_Deira_@_Dubai_Creek_(15860705846).jpg
 place:
-  id: "ChIJ5_y9mVRDXz4RsmsasDPJRU8"
-  name: "Abra Dubai"
-  address: "90 Baniyas Rd - Al Sabkha - Deira - Dubai - United Arab Emirates"
+  id: ChIJ5_y9mVRDXz4RsmsasDPJRU8
+  name: Abra Dubai
+  address: 90 Baniyas Rd - Al Sabkha - Deira - Dubai - United Arab Emirates
   rating: 4.7
-  userRatingsTotal: 571
-  googleMapsUrl: "https://maps.google.com/?cid=5712192926224378802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 573
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5712192926224378802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.267213700000003
   lng: 55.303252699999994
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekendQuiet:
       - 8
       - 9
@@ -44,24 +51,40 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_3855524a50447361736d7352347a584452566d39795f354a496843"
+    venueId: ven_3855524a50447361736d7352347a584452566d39795f354a496843
 tags:
-  - "deira"
-  - "top attraction"
-quickAnswer: "The Deira abra crossing over Dubai Creek runs 24 hours and costs a token AED 1 fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the Bur Dubai side. Go between 8am and 10am on weekends for a near-empty boat and soft morning light; avoid the 6pm–11pm crush when everyone else has the same idea."
+  - deira
+  - top attraction
+quickAnswer: >-
+  The Deira abra crossing over Dubai Creek runs 24 hours and costs a token AED 1
+  fare, taking about five to ten minutes to reach Al Seef or Al Fahidi on the
+  Bur Dubai side. Go between 8am and 10am on weekends for a near-empty boat and
+  soft morning light; avoid the 6pm–11pm crush when everyone else has the same
+  idea.
 faq:
-  - q: "How much does the abra ride cost?"
-    a: "It's a flat, token fare — around AED 1 — paid in cash directly to the boatman or at a small booth on the dock."
-  - q: "How long does the crossing take?"
-    a: "About five to ten minutes one way, depending on which dock you land at on the Bur Dubai side."
-  - q: "When is the quietest time to ride?"
-    a: "Weekend mornings between 8am and 10am see the fewest passengers. Avoid 6pm–11pm on weekends, when crowds gather for skyline views at dusk."
-  - q: "Which metro station is closest?"
-    a: "Al Ras or Baniyas Square, both on the Green Line, are a short walk from the Deira abra station on Baniyas Road."
-  - q: "Do I need to book in advance?"
-    a: "No booking needed — abras run continuously, 24 hours a day, and you simply board the next one loading at the dock."
+  - q: How much does the abra ride cost?
+    a: >-
+      It's a flat, token fare — around AED 1 — paid in cash directly to the
+      boatman or at a small booth on the dock.
+  - q: How long does the crossing take?
+    a: >-
+      About five to ten minutes one way, depending on which dock you land at on
+      the Bur Dubai side.
+  - q: When is the quietest time to ride?
+    a: >-
+      Weekend mornings between 8am and 10am see the fewest passengers. Avoid
+      6pm–11pm on weekends, when crowds gather for skyline views at dusk.
+  - q: Which metro station is closest?
+    a: >-
+      Al Ras or Baniyas Square, both on the Green Line, are a short walk from
+      the Deira abra station on Baniyas Road.
+  - q: Do I need to book in advance?
+    a: >-
+      No booking needed — abras run continuously, 24 hours a day, and you simply
+      board the next one loading at the dock.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

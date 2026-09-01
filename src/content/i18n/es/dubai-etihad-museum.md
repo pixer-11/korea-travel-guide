@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dubai-etihad-museum
-srcHash: 'e192e58467c5'
+srcHash: '847f5ae027e0'
 title: 'Museo Etihad: guía de viaje de Dubái (4,6★)'
-description: 'El Museo Etihad se alza en la calle Jumeira, en el mismo lugar donde los padres fundadores de los Emiratos firmaron el acuerdo de unión de 1971, y su fachada blanca en forma de manuscrito ondulante merece verse incluso antes de entrar. 4,6★ (3.280 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Etihad se alza en la calle Jumeira, en el mismo lugar donde los padres fundadores de los Emiratos firmaron el acuerdo de unión de 1971, y su fachada blanca en forma de manuscrito ondulante merece verse incluso antes de entrar. 4,6★ (3.287 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Etihad se alza en la calle Jumeira, en el mismo lugar donde los padres fundadores de los Emiratos firmaron el acuerdo de unión de 1971, y su fachada blanca en forma de manuscrito ondulante merece verse incluso antes de entrar. Reserva entre 60 y 90 minutos para las salas interactivas y luego recorre el pabellón exterior con los documentos originales conservados. Los fines de semana, el momento más tranquilo es entre las 10:00 y las 11:00, justo a la apertura.
 faq:
   - q: ¿Cuánto tiempo conviene dedicarle al Museo Etihad?

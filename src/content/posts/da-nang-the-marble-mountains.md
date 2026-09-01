@@ -1,42 +1,53 @@
 ---
 title: 'The Marble Mountains: Da Nang Travel Guide'
-description: The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble hills about 8km south of central Da Nang, riddled with Buddhist caves, temples, and pagodas.
+description: >-
+  The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble
+  hills about 8km south of central Da Nang, riddled with Buddhist caves,
+  temples, and pagodas.
 country: Vietnam
 region: Da Nang
 category: attraction
 pubDate: '2026-07-22T09:27:23.600Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/10959495_wI50k7AlmsPKMQp6j054oy2ewRcXXuK_qx4McfZwZ5s.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/10959495_wI50k7AlmsPKMQp6j054oy2ewRcXXuK_qx4McfZwZ5s.jpg
   credit: 'Photo: Foursquare user content (Marble Mountain (Ngũ Hành Sơn))'
   license: foursquare
-  source: https://foursquare.com/v/4cae95fdc5e6a1cdc163c6f6
+  source: 'https://foursquare.com/v/4cae95fdc5e6a1cdc163c6f6'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg/1920px-Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg/1920px-Marble_Mountain_Hoi_An%2C_Da_Nang_%2871468%29.jpg
     credit: 'Photo: Andre Hospers / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Marble_Mountain_Hoi_An,_Da_Nang_(71468).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Marble_Mountain_Hoi_An,_Da_Nang_(71468).jpg
 place:
   id: ChIJ2y5L4dQNQjERxeSLc68fbrw
   name: The Marble Mountains
-  address: 81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam
+  address: '81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam'
   rating: 4.4
-  userRatingsTotal: 41683
-  googleMapsUrl: https://maps.google.com/?cid=13577824764986909893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 42536
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13577824764986909893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.0037104
   lng: 108.2631605
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [7, 8]
+    weekdayQuiet:
+      - 7
+      - 8
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet: [7, 8]
+    weekendQuiet:
+      - 7
+      - 8
     weekendBusy:
       - 11
       - 12
@@ -44,7 +55,7 @@ place:
       - 14
       - 15
     venueId: ven_777262663836634c53657852456a514e5164344c3579324a496843
-  phone: '+84 236 3961 114'
+  phone: +84 236 3961 114
   openingHours:
     - 'Monday: 7:00 AM – 5:30 PM'
     - 'Tuesday: 7:00 AM – 5:30 PM'
@@ -56,21 +67,41 @@ place:
 tags:
   - da nang
   - top attraction
-quickAnswer: The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble hills about 8km south of central Da Nang, riddled with Buddhist caves, temples, and pagodas. Plan for 2-3 hours, wear grippy shoes for uneven cave steps, and go early morning to beat both heat and tour-bus crowds. Thuy Son (Water Mountain) is the main peak to climb, reachable by elevator or 156 stone steps.
+quickAnswer: >-
+  The Marble Mountains (Ngũ Hành Sơn) are a cluster of five stone-and-marble
+  hills about 8km south of central Da Nang, riddled with Buddhist caves,
+  temples, and pagodas. Plan for 2-3 hours, wear grippy shoes for uneven cave
+  steps, and go early morning to beat both heat and tour-bus crowds. Thuy Son
+  (Water Mountain) is the main peak to climb, reachable by elevator or 156 stone
+  steps.
 faq:
   - q: How do I get to the Marble Mountains from Da Nang or Hoi An?
-    a: By taxi, Grab, or rented motorbike — it's about a 20-minute drive from central Da Nang and 15-20 minutes from Hoi An Ancient Town along the coastal road.
+    a: >-
+      By taxi, Grab, or rented motorbike — it's about a 20-minute drive from
+      central Da Nang and 15-20 minutes from Hoi An Ancient Town along the
+      coastal road.
   - q: How long should I plan to spend there?
-    a: Most visitors need 2-3 hours to walk the cave and pagoda loop on Thuy Son at a relaxed pace, including photo stops at the viewing platforms.
-  - q: Is there an elevator, or do I have to climb?
-    a: Both options exist — you can walk 156 stone steps up Thuy Son or pay a small additional fee to take an elevator most of the way, which many visitors prefer in the heat.
+    a: >-
+      Most visitors need 2-3 hours to walk the cave and pagoda loop on Thuy Son
+      at a relaxed pace, including photo stops at the viewing platforms.
+  - q: 'Is there an elevator, or do I have to climb?'
+    a: >-
+      Both options exist — you can walk 156 stone steps up Thuy Son or pay a
+      small additional fee to take an elevator most of the way, which many
+      visitors prefer in the heat.
   - q: What's the best time of day or year to visit?
-    a: Early morning or late afternoon avoids the heat and tour-bus crowds; the dry season from roughly February to August offers safer, less slippery footing in the caves.
+    a: >-
+      Early morning or late afternoon avoids the heat and tour-bus crowds; the
+      dry season from roughly February to August offers safer, less slippery
+      footing in the caves.
   - q: What else is nearby worth combining with this visit?
-    a: Non Nuoc Beach and My Khe Beach are minutes away for a post-hike swim, and the marble-carving shops in Non Nuoc village at the mountain's base make for an easy browse.
+    a: >-
+      Non Nuoc Beach and My Khe Beach are minutes away for a post-hike swim, and
+      the marble-carving shops in Non Nuoc village at the mountain's base make
+      for an easy browse.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-01'
 ---
 
 ## Why go

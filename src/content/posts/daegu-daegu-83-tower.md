@@ -1,33 +1,42 @@
 ---
 title: 'Daegu 83 Tower: Travel Guide'
-description: Daegu 83 Tower is the observation-deck landmark inside Duryu Park in Dalseo District, best visited at sunset for city views that stretch to the surrounding mountains, then paired with an evening walk through the park's fountain and amusement area.
+description: >-
+  Daegu 83 Tower is the observation-deck landmark inside Duryu Park in Dalseo
+  District, best visited at sunset for city views that stretch to the
+  surrounding mountains, then paired with an evening walk through the park's
+  fountain and amusement area.
 region: Daegu
 country: South Korea
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Daegu_Banner_Lantern_Festival.jpg/1920px-Daegu_Banner_Lantern_Festival.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Daegu_Banner_Lantern_Festival.jpg/1920px-Daegu_Banner_Lantern_Festival.jpg
   credit: 'Photo: Daegucity.kr / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Daegu_Banner_Lantern_Festival.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Daegu_Banner_Lantern_Festival.jpg'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/530608125_p7lsOU_piuSem3ToYtfT8x3bVzZz_QNzWUTWLUFc7y0.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/530608125_p7lsOU_piuSem3ToYtfT8x3bVzZz_QNzWUTWLUFc7y0.jpg
     credit: 'Photo: Foursquare user content (83 Tower (83타워))'
     license: foursquare
-    source: https://foursquare.com/v/4dff5a551850c16c0236fcc9
+    source: 'https://foursquare.com/v/4dff5a551850c16c0236fcc9'
 place:
   id: ChIJ2YdBV4DkZTURmXneD872kw8
   name: Daegu 83 Tower
-  address: 200 Duryugongwon-ro, Dalseo District, Daegu, South Korea
+  address: '200 Duryugongwon-ro, Dalseo District, Daegu, South Korea'
   rating: 4.4
-  userRatingsTotal: 5248
-  googleMapsUrl: https://maps.google.com/?cid=1122512097035319705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5256
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1122512097035319705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.8533069
   lng: 128.5665668
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [12, 19]
+    weekdayQuiet:
+      - 12
+      - 19
     weekendBusy:
       - 12
       - 13
@@ -51,21 +60,42 @@ place:
 tags:
   - daegu
   - hidden gem
-quickAnswer: Daegu 83 Tower is the observation-deck landmark inside Duryu Park in Dalseo District, best visited at sunset for city views that stretch to the surrounding mountains, then paired with an evening walk through the park's fountain and amusement area. Budget about 2-3 hours including the park, and check current ticket prices online before you go since they change periodically.
+quickAnswer: >-
+  Daegu 83 Tower is the observation-deck landmark inside Duryu Park in Dalseo
+  District, best visited at sunset for city views that stretch to the
+  surrounding mountains, then paired with an evening walk through the park's
+  fountain and amusement area. Budget about 2-3 hours including the park, and
+  check current ticket prices online before you go since they change
+  periodically.
 faq:
   - q: How do I get to Daegu 83 Tower without a car?
-    a: Take subway Line 2 to Duryu Station and walk about 10-15 minutes into Duryu Park toward the tower, which is visible from most of the park. Line 3's monorail also stops at Duryu Station, and several city buses serve the park.
+    a: >-
+      Take subway Line 2 to Duryu Station and walk about 10-15 minutes into
+      Duryu Park toward the tower, which is visible from most of the park. Line
+      3's monorail also stops at Duryu Station, and several city buses serve the
+      park.
   - q: How much does it cost to go up the tower?
-    a: Admission has changed over time, so check the official Daegu 83 Tower or Duryu Park tourism page for current pricing before your visit rather than relying on older figures.
+    a: >-
+      Admission has changed over time, so check the official Daegu 83 Tower or
+      Duryu Park tourism page for current pricing before your visit rather than
+      relying on older figures.
   - q: How long should I plan for a visit?
-    a: Budget 45 minutes to an hour for the tower and observation deck itself, plus an extra hour or two if you want to explore Duryu Park's fountain, trails, and the adjacent E-World amusement park.
+    a: >-
+      Budget 45 minutes to an hour for the tower and observation deck itself,
+      plus an extra hour or two if you want to explore Duryu Park's fountain,
+      trails, and the adjacent E-World amusement park.
   - q: What's the best time of day to visit?
-    a: Late afternoon into early evening works best — you get daytime mountain and city views, then stay to see the city and E-World light up after dark.
+    a: >-
+      Late afternoon into early evening works best — you get daytime mountain
+      and city views, then stay to see the city and E-World light up after dark.
   - q: What else is near the tower?
-    a: Duryu Park surrounds the tower, including a musical fountain, walking trails, seasonal flower festivals, and the E-World amusement park right next door, known for its night-time LED displays.
+    a: >-
+      Duryu Park surrounds the tower, including a musical fountain, walking
+      trails, seasonal flower festivals, and the E-World amusement park right
+      next door, known for its night-time LED displays.
 aiGenerated: true
 draft: false
-updatedDate: '2026-07-24'
+updatedDate: '2026-09-01'
 ---
 
 ## Why go

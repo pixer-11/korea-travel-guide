@@ -1,56 +1,87 @@
 ---
-title: "At The Top, Burj Khalifa: Downtown Dubai Travel Guide (4.2★)"
-description: "At The Top, Burj Khalifa is open daily from 10am to 8pm, with entry to Level 124 and 125 (and Level 148 on premium tickets). 4.2★ (6,076 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Downtown Dubai"
-category: "attraction"
-pubDate: "2026-08-11T09:17:00.885Z"
+title: 'At The Top, Burj Khalifa: Downtown Dubai Travel Guide (4.2★)'
+description: >-
+  At The Top, Burj Khalifa is open daily from 10am to 8pm, with entry to Level
+  124 and 125 (and Level 148 on premium tickets). 4.2★ (6,072 reviews) — what
+  visitors say, hours, and tips.
+country: United Arab Emirates
+region: Downtown Dubai
+category: attraction
+pubDate: '2026-08-11T09:17:00.885Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg/3840px-Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg"
-  credit: "Photo: patano / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg/3840px-Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg
+  credit: 'Photo: patano / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Downtown_view_from_Burj_Khalifa_at_the_top_124_floor_-_Dubai_-_panoramio.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815700085099%29.jpg/3840px-At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815700085099%29.jpg"
-    credit: "Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:At_the_Top_SKY_@_Burj_Khalifa_@_Dubai_(15700085099).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815700085099%29.jpg/3840px-At_the_Top_SKY_%40_Burj_Khalifa_%40_Dubai_%2815700085099%29.jpg
+    credit: 'Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:At_the_Top_SKY_@_Burj_Khalifa_@_Dubai_(15700085099).jpg
 place:
-  id: "ChIJE1LWwt9DXz4RAa3pNktz2EA"
-  name: "At The Top, Burj Khalifa"
-  address: "Blvd Dubai Unit LG - 089 - burj khalifa - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates"
+  id: ChIJE1LWwt9DXz4RAa3pNktz2EA
+  name: 'At The Top, Burj Khalifa'
+  address: >-
+    Blvd Dubai Unit LG - 089 - burj khalifa - Sheikh Mohammed bin Rashid Blvd -
+    Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates
   rating: 4.2
-  userRatingsTotal: 6076
-  googleMapsUrl: "https://maps.google.com/?cid=4672611380277914881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6072
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4672611380277914881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.1974035
   lng: 55.276021500000006
-  phone: "+971 4 888 8124"
+  phone: +971 4 888 8124
   openingHours:
-    - "Monday: 10:00 AM – 8:00 PM"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "downtown dubai"
-  - "top attraction"
-quickAnswer: "At The Top, Burj Khalifa is open daily from 10am to 8pm, with entry to Level 124 and 125 (and Level 148 on premium tickets). Book a timed slot online in advance — sunset slots sell out fastest — and aim for the first entry window or a weekday mid-afternoon slot to skip the worst crowds. Give yourself 60-90 minutes for the whole visit, including the lift ride and gift shop exit."
+  - downtown dubai
+  - top attraction
+quickAnswer: >-
+  At The Top, Burj Khalifa is open daily from 10am to 8pm, with entry to Level
+  124 and 125 (and Level 148 on premium tickets). Book a timed slot online in
+  advance — sunset slots sell out fastest — and aim for the first entry window
+  or a weekday mid-afternoon slot to skip the worst crowds. Give yourself 60-90
+  minutes for the whole visit, including the lift ride and gift shop exit.
 faq:
-  - q: "What are the opening hours for At The Top, Burj Khalifa?"
-    a: "It's open daily from 10:00 AM to 8:00 PM, with the last entry typically an hour or so before closing — confirm your exact slot when booking."
-  - q: "How much does it cost and how do I book?"
-    a: "Prices vary by time slot (standard hours are cheaper than sunset) and by level — Level 124/125 versus the premium Level 148 add-on. Book online in advance through the official Burj Khalifa/Emaar site rather than at the counter."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings shortly after the 10am opening or a mid-afternoon slot tend to be calmest. Sunset slots are the most popular and sell out first, especially on weekends."
-  - q: "How long should I plan for the visit?"
-    a: "Budget 60-90 minutes total, including security screening, the walk from Dubai Mall, the multimedia intro corridor, and time on the observation decks."
-  - q: "How do I get there by metro?"
-    a: "Take the Dubai Metro Red Line to Burj Khalifa/Dubai Mall Station, then follow the covered walkway into Dubai Mall (about 10 minutes) toward the Burj Khalifa entrance on the lower ground floor."
+  - q: 'What are the opening hours for At The Top, Burj Khalifa?'
+    a: >-
+      It's open daily from 10:00 AM to 8:00 PM, with the last entry typically an
+      hour or so before closing — confirm your exact slot when booking.
+  - q: How much does it cost and how do I book?
+    a: >-
+      Prices vary by time slot (standard hours are cheaper than sunset) and by
+      level — Level 124/125 versus the premium Level 148 add-on. Book online in
+      advance through the official Burj Khalifa/Emaar site rather than at the
+      counter.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings shortly after the 10am opening or a mid-afternoon slot
+      tend to be calmest. Sunset slots are the most popular and sell out first,
+      especially on weekends.
+  - q: How long should I plan for the visit?
+    a: >-
+      Budget 60-90 minutes total, including security screening, the walk from
+      Dubai Mall, the multimedia intro corridor, and time on the observation
+      decks.
+  - q: How do I get there by metro?
+    a: >-
+      Take the Dubai Metro Red Line to Burj Khalifa/Dubai Mall Station, then
+      follow the covered walkway into Dubai Mall (about 10 minutes) toward the
+      Burj Khalifa entrance on the lower ground floor.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-01'
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

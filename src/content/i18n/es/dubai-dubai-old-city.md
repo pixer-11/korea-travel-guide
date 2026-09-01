@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dubai-dubai-old-city
-srcHash: '5a84392a8b7b'
+srcHash: 'e0cf62835934'
 title: 'Dubai Old City (Ciudad Vieja de Dubái): Guía de viaje (4.6★)'
-description: 'Dubai Old City se encuentra en Al Hamriya, en el lado de Deira de Dubai Creek: un laberinto de edificios bajos color arena, torres de viento y callejones estrechos construidos para evocar el pasado del emirato anterior al petróleo. 4.6★ (4.441 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Dubai Old City se encuentra en Al Hamriya, en el lado de Deira de Dubai Creek: un laberinto de edificios bajos color arena, torres de viento y callejones estrechos construidos para evocar el pasado del emirato anterior al petróleo. 4.6★ (4.457 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Dubai Old City se encuentra en Al Hamriya, en el lado de Deira de Dubai Creek: un laberinto de edificios bajos color arena, torres de viento y callejones estrechos construidos para evocar el pasado del emirato anterior al petróleo. Está abierto las 24 horas, pero conviene ir entre las 7:00 y las 10:00 en días de semana (de 7:00 a 9:00 los fines de semana) para tener los callejones para uno mismo. Hay que calcular entre 1 y 2 horas, llevar calzado adecuado para el suelo empedrado e irregular, y combinar la visita con un paseo junto al Creek o una parada en los zocos cercanos.'
 faq:
   - q: ¿Cómo se llega a Dubai Old City?

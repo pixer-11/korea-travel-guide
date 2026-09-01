@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: downtown-dubai-at-the-top-burj-khalifa
-srcHash: 'ddf67594b8aa'
+srcHash: '58db6e98d9d6'
 title: 'At The Top, Burj Khalifa: Guía de viaje de Downtown Dubai (4.2★)'
-description: At The Top, Burj Khalifa abre a diario de 10am a 8pm, con acceso al Nivel 124 y 125 (y al Nivel 148 con entradas premium). 4.2★ (6,076 reseñas) — qué dicen los visitantes, horarios y consejos.
+description: At The Top, Burj Khalifa abre a diario de 10am a 8pm, con acceso al Nivel 124 y 125 (y al Nivel 148 con entradas premium). 4.2★ (6,072 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: At The Top, Burj Khalifa abre a diario de 10am a 8pm, con acceso al Nivel 124 y 125 (y al Nivel 148 con entradas premium). Reserva un horario con hora fija online con antelación —los horarios de atardecer se agotan más rápido— y procura elegir el primer turno de entrada o un horario a media tarde entre semana para evitar las peores aglomeraciones. Calcula entre 60 y 90 minutos para toda la visita, incluyendo el trayecto en ascensor y la salida por la tienda de regalos.
 faq:
   - q: ¿Cuáles son los horarios de apertura de At The Top, Burj Khalifa?
