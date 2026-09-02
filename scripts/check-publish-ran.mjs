@@ -61,11 +61,41 @@ async function main() {
   const slotStart = lastFireBefore(PUBLISH_CRON, Date.now()) - 10 * 60000;
   const slotLabel = `${kstDay(new Date(slotStart + 10 * 60000).toISOString())} 16:19 KST`;
   const runs = await api(`/actions/workflows/${WORKFLOW}/runs?per_page=10`);
-  const served = (runs.workflow_runs ?? []).filter((r) => Date.parse(r.created_at) >= slotStart);
+  const inSlot = (runs.workflow_runs ?? []).filter((r) => Date.parse(r.created_at) >= slotStart);
 
-  if (served.length) {
-    const r = served[0];
-    console.log(`✅ 이번 슬롯(${slotLabel}) 발행 실행됨 — ${r.created_at.slice(11, 16)}Z ${r.status}/${r.conclusion ?? '진행중'} (${r.event})`);
+  // A run that started is not a run that published. A failed run satisfied
+  // this check until 2026-09-02, so a publish that died at npm ci got "✅"
+  // and no rescue. But "success only" is wrong in the other direction:
+  // publish pushes the batch halfway through the job and can still fail on a
+  // later step, and a rescue dispatch bypasses the one-batch-a-day guard
+  // (slot-served ignores workflow_dispatch) — a second batch would ship.
+  // So the question is whether the run reached its "Commit new posts" step:
+  // in progress counts (it may yet), success counts, and a failure counts
+  // only if the commit step already succeeded.
+  const reachedCommit = async (run) => {
+    if (run.status !== 'completed' || run.conclusion === 'success') return true;
+    try {
+      const { jobs = [] } = await api(`/actions/runs/${run.id}/jobs?per_page=20`);
+      return jobs.some((j) => (j.steps ?? []).some((st) => st.name === 'Commit new posts' && st.conclusion === 'success'));
+    } catch (e) {
+      // Cannot tell — say so and do NOT dispatch on a guess in either direction.
+      console.error(`jobs lookup failed for run ${run.id}: ${e.message}`);
+      return null;
+    }
+  };
+  let unknown = false;
+  for (const r of inSlot) {
+    const ok = await reachedCommit(r);
+    if (ok === null) { unknown = true; continue; }
+    if (ok) {
+      console.log(`✅ 이번 슬롯(${slotLabel}) 발행 실행됨 — ${r.created_at.slice(11, 16)}Z ${r.status}/${r.conclusion ?? '진행중'} (${r.event})`);
+      return;
+    }
+    console.log(`⚠️ 이번 슬롯의 실행 ${r.id}은 커밋 단계에 이르지 못하고 ${r.conclusion}로 끝났다 — 발행된 것이 없다`);
+  }
+  if (unknown) {
+    console.log('⚠️ 실행 기록은 있는데 커밋 단계 결과를 읽지 못했다 — 이중 발행 위험이 있어 자동 재시작은 하지 않는다');
+    if (!dry) await telegram(`⚠️ 오늘 발행(${slotLabel})이 완료됐는지 확인하지 못했습니다. 실행은 있었지만 커밋 단계 결과를 GitHub에서 읽지 못했습니다. Actions에서 publish 실행을 확인해 주세요.`);
     return;
   }
 

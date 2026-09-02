@@ -59,7 +59,9 @@ const SIGNATURES = [
   },
   {
     id: 'test-failure',
-    re: /# fail [1-9]|✖ failing tests|Result \(\d+ files\):\s*\n?-\s*[1-9]\d* error/,
+    // The astro-check shape allows for the timestamp GitHub puts at the start
+    // of the next line — `\s*\n?-` never matched a real log (2026-09-02).
+    re: /# fail [1-9]|✖ failing tests|Result \(\d+ files\):[\s\S]{0,80}?-\s*[1-9]\d* error/,
     cause: () => '테스트/타입 검사가 실패했습니다. 코드 변경이 원인이므로 사람이 고쳐야 합니다.',
     selfHeals: false,
   },
@@ -87,16 +89,39 @@ const ANSI = /\x1b\[[0-9;]*m/g;
 const TIMESTAMP = /^\S*\d{4}-\d{2}-\d{2}T[\d:.]+Z\s*/;
 
 /** The run's own last error line — evidence, used when nothing matches and shown when something does. */
+// GitHub echoes every `run:` script into the step log in cyan before executing
+// it. A signature that appears INSIDE a workflow's own shell — publish.yml greps
+// its logs for "reached your specified API usage limits" — therefore appears in
+// every run's log, success or failure, and matched first. Every publish failure
+// was diagnosed as a self-healing spend cap (found 2026-09-02). The echoed
+// lines are dropped before matching; the runner marks each with ESC[36;1m
+// right after the timestamp, which real output never carries.
+const ECHOED_COMMAND = /^(?:\d{4}-\d{2}-\d{2}T[\d:.]+Z )?\x1b\[36;1m/;
+export function stripEchoedCommands(log) {
+  return String(log ?? '').split('\n').filter((l) => !ECHOED_COMMAND.test(l)).join('\n');
+}
+
+// GitHub appends "##[error]Process completed with exit code N." to every failed
+// step, so scanning backwards for the last ##[error] returned that epilogue
+// every time and the owner's "로그 마지막 오류" line said nothing. Prefer the
+// nearest real error above it; fall back to the epilogue only when the log has
+// nothing else to say.
+const EPILOGUE = /^Process completed with exit code \d+\.?$/;
+const ERROR_SHAPED = /^(?:[A-Za-z]*Error|FATAL|fatal|error)\b:?/;
 export function lastErrorLine(log) {
   const lines = log.replace(ANSI, '').split('\n');
+  let epilogue = '';
   for (let i = lines.length - 1; i >= 0; i--) {
     const l = lines[i].replace(TIMESTAMP, '').trim();
     if (!l) continue;
-    if (/^##\[error\]/.test(l) || /^(?:Error|TypeError|ReferenceError|FATAL|fatal):/.test(l)) {
-      return l.replace(/^##\[error\]/, '').slice(0, 300);
+    const bare = l.replace(/^##\[error\]/, '');
+    if (/^##\[error\]/.test(l)) {
+      if (EPILOGUE.test(bare)) { if (!epilogue) epilogue = bare; continue; }
+      return bare.slice(0, 300);
     }
+    if (ERROR_SHAPED.test(l)) return l.slice(0, 300);
   }
-  return '';
+  return epilogue;
 }
 
 /**
@@ -104,7 +129,7 @@ export function lastErrorLine(log) {
  * @returns {{id:string|null, cause:string, evidence:string, selfHeals:boolean|null}}
  */
 export function diagnose(log) {
-  const clean = String(log ?? '').replace(ANSI, '');
+  const clean = stripEchoedCommands(log).replace(ANSI, '');
   for (const s of SIGNATURES) {
     const m = clean.match(s.re);
     if (m) return { id: s.id, cause: s.cause(m, clean), evidence: lastErrorLine(clean), selfHeals: s.selfHeals };

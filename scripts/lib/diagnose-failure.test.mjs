@@ -14,7 +14,30 @@ test('the 08-30 spend cap is named, dated, and marked self-healing', () => {
   assert.match(d.cause, /월 사용 한도/);
   assert.match(d.cause, /2026-09-01 00:00 UTC/);
   assert.equal(d.selfHeals, true);
-  assert.match(d.evidence, /Process completed with exit code 1/);
+  // The evidence is the line that says what happened, not GitHub's epilogue.
+  assert.match(d.evidence, /^BadRequestError: 400/);
+});
+
+// Real shape of a run log: GitHub echoes the step's own script in cyan first.
+// publish.yml greps for the spend-cap sentence, so the sentence is in EVERY
+// publish log; only real output may match.
+test('a signature inside an echoed run: script is not a diagnosis', () => {
+  const log = '2026-09-01T13:38:54.3738299Z \x1b[36;1m  if grep -qh "reached your specified API usage limits" /tmp/gen.log; then\x1b[0m\n'
+    + '2026-09-01T13:40:00.0000000Z Error: ENOENT: no such file or directory, open \'data/x.json\'\n'
+    + '2026-09-01T13:40:00.1000000Z ##[error]Process completed with exit code 1.';
+  const d = diagnose(log);
+  assert.equal(d.id, null, 'the echoed grep line must not read as a spend cap');
+  assert.equal(d.evidence, "Error: ENOENT: no such file or directory, open 'data/x.json'");
+});
+
+test('the epilogue is evidence only when nothing better exists', () => {
+  assert.equal(lastErrorLine('Error: ENOENT boom\n    at readFileSync\n##[error]Process completed with exit code 1.'), 'Error: ENOENT boom');
+  assert.equal(lastErrorLine('##[error]Process completed with exit code 7.'), 'Process completed with exit code 7.');
+});
+
+test('astro check output with GitHub timestamps is a test failure', () => {
+  const log = '2026-09-01T10:00:00.0000000Z Result (312 files):\n2026-09-01T10:00:00.0000001Z - 3 errors\n2026-09-01T10:00:00.0000002Z - 0 warnings';
+  assert.equal(diagnose(log).id, 'test-failure');
 });
 
 test('the alert says what to do — nothing, when it heals itself', () => {

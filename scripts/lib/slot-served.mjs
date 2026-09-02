@@ -33,10 +33,13 @@ export async function slotAlreadyServed(workflowFile, {
   // a day, like pinterest, must still run its later slots). guard:'kstDay':
   // the whole KST calendar day — publish promises ONE batch per day (throttle
   // experiment), so any success today serves it, whatever slot or trigger.
-  const slotStart = entry.guard === 'kstDay'
-    ? now - ((now + 9 * 3600000) % 86400000) // KST midnight, as a UTC timestamp
-    : Math.max(...entry.crons.map((c) => lastFireBefore(c, now))) - EARLY_TOLERANCE_MS;
+  // Inside the try: lastFireBefore throws on a cron field cron-window cannot
+  // parse, and outside the try that exception killed the payload it guards —
+  // the opposite of the fail-open contract above (Codex, 2026-09-02).
   try {
+    const slotStart = entry.guard === 'kstDay'
+      ? now - ((now + 9 * 3600000) % 86400000) // KST midnight, as a UTC timestamp
+      : Math.max(...entry.crons.map((c) => lastFireBefore(c, now))) - EARLY_TOLERANCE_MS;
     const since = new Date(slotStart).toISOString();
     const res = await fetchImpl(
       `https://api.github.com/repos/${repo}/actions/workflows/${workflowFile}/runs` +

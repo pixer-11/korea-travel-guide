@@ -17,6 +17,14 @@ on:
 permissions:
   actions: write   # to read the run history and to start a missed run
 
+# Three things can start this: its own cron, the Cloudflare alarm five minutes
+# later, and the schedule watchdog. Two landing within the ~30 s a run needs
+# to reach the dispatch call would both see the slot unserved and both start
+# publish — and a dispatched publish is outside the one-batch-a-day guard.
+concurrency:
+  group: publish-watchdog
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest

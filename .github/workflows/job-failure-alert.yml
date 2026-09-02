@@ -61,7 +61,11 @@ jobs:
     # alerting on it would train the owner to ignore this channel. timed_out
     # and stale are silent deaths, though: a job that never ran and a job the
     # runner abandoned both look exactly like a quiet night.
-    if: contains(fromJSON('["failure","timed_out","stale"]'), github.event.workflow_run.conclusion)
+    # startup_failure is the loudest death of all — the workflow file or the
+    # runner never got off the ground — and it was the one conclusion this list
+    # did not name. 'Backfill countries to target' died exactly that way on
+    # 2026-09-01 and produced no message.
+    if: contains(fromJSON('["failure","timed_out","stale","startup_failure"]'), github.event.workflow_run.conclusion)
     runs-on: ubuntu-latest
     # actions:read lets the alert download the failed run's log and say WHY.
     # Until 2026-08-31 every failure got the same sentence — "대개 일시적
@@ -117,7 +121,13 @@ jobs:
             "원인 진단까지는 실패했습니다 — 경보기 자신도 정상 경로를 쓰지 못했습니다." \
             "클로드에게 '${WF} 실패 원인 찾아줘'라고 말씀하세요." \
             "실행 기록: ${URL}")
-          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+          # No backslashes before $c/$t: the jq program is single-quoted, so
+          # the shell hands `\$c` to jq verbatim and jq rejects it — the fallback
+          # then posted an EMPTY body and exited 0 (found 2026-09-02). This is
+          # the path for when the rich alert cannot run, i.e. the failures most
+          # worth hearing about. --fail-with-body: a refused message must fail
+          # the step, not vanish into /dev/null.
+          curl -sS --fail-with-body -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -H 'Content-Type: application/json' \
             -d "$(jq -n --arg c "$TELEGRAM_CHAT_ID" --arg t "$TEXT" \
-                  '{chat_id:\$c, text:\$t, disable_web_page_preview:true}')" > /dev/null
+                  '{chat_id:$c, text:$t, disable_web_page_preview:true}')" > /dev/null
