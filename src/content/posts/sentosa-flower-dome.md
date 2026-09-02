@@ -35,7 +35,7 @@ place:
     - "Saturday: 9:00 AM – 9:00 PM"
     - "Sunday: 9:00 AM – 9:00 PM"
 tags:
-  - "sentosa"
+  - "marina-bay"
   - "park"
 quickAnswer: "Flower Dome at Gardens by the Bay is the world's largest columnless glasshouse, located at 18 Marina Gardens Dr on the Bay South side in Marina Bay. It's open daily 9am to 9pm, and since it's very popular, aim for a weekday morning right at opening or after 6pm to avoid tour groups. Expect to spend 45-75 minutes wandering its themed gardens of olive trees, baobabs and desert succulents."
 faq:
@@ -55,7 +55,7 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-Worth flagging before anything else: Flower Dome sits in the Gardens by the Bay complex at 18 Marina Gardens Dr, on the Marina Bay waterfront across from the Marina Bay Sands hotel. This guide treats it as filed, but plan your route accordingly.
+Worth flagging before anything else: Flower Dome sits in the Gardens by the Bay complex at 18 Marina Gardens Dr, on the Marina Bay waterfront across from the Marina Bay Sands hotel.
 
 ## What you're actually walking into
 
