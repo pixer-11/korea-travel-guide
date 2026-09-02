@@ -277,3 +277,28 @@ test('"nearer the date" and the passive "published closer to <time>" are promise
     'Verify the shuttle plan closer to race weekend.',
   ]) assert.ok(FUTURE_PROMISE.test(s), s);
 });
+
+// Codex second pass (2026-09-03): a time noun with a spatial head is a place
+// again, and a past-tense report is history, not a promise.
+test('a time noun followed by a spatial head is a place, not a time', () => {
+  for (const s of [
+    'Check the station entrance closer to the event venue.',
+    'Verify which hotel is nearer the show grounds.',
+    'Check the map and use the gate nearer the start line.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+  assert.ok(FUTURE_PROMISE.test('Check the official site closer to the event.'));   // bare: still a promise
+});
+
+test('a past-tense report of when something was published is history, not a promise', () => {
+  for (const s of [
+    'The 2026 schedule was published closer to race weekend than expected.',
+    'The lineup was announced closer to the event than the 2025 lineup.',
+    'Set times had been confirmed nearer the date in 2025.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+  for (const s of [
+    'exact set times are published closer to showtime by the promoter',
+    'details are usually published by organizers closer to race weekend',
+    'The schedule is typically announced closer to the event.',
+    'Set times will be published closer to showtime.',
+  ]) assert.ok(FUTURE_PROMISE.test(s), s);
+});

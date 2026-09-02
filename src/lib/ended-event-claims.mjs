@@ -77,7 +77,10 @@ const MONTH = String.raw`(?:(?:early|mid|late)[-\s])?${MONTHNAME}(?:\s+\d{4})?\b
 // 25-26, 2026 date") is Tokyo's E-Prix FAQ, and it needs a date noun after the
 // numbers so Aomori's "(closer to August 2-3) tend to be quieter" - numbers followed
 // by prose - stays a description of the calendar.
-const TIME = String.raw`(?:the\s+)?(?:date|time|event|show(?:time)?|festival|race(?:\s+weekend)?|weekend|kick-?off|start|opening|\d{1,2}(?:st|nd|rd|th)\b|${MONTH}|${MONTHNAME}\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?(?:,\s*\d{4})?\s+(?:date|event|show|weekend|race))`;
+// A time noun followed by a spatial head is a place again: "the event venue",
+// "the show grounds", "the start line" (Codex second pass, 2026-09-03).
+const NOT_SPATIAL = String.raw`(?!\s+(?:venue|grounds?|line|site|area|entrance|gate|hall|stage|zone|district|precinct|village|park|square|centre|center|arena|stadium|circuit))`;
+const TIME = String.raw`(?:the\s+)?(?:date|time|event|show(?:time)?|festival|race(?:\s+weekend)?|weekend|kick-?off|start|opening|\d{1,2}(?:st|nd|rd|th)\b|${MONTH}|${MONTHNAME}\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?(?:,\s*\d{4})?\s+(?:date|event|show|weekend|race))${NOT_SPATIAL}`;
 // Two more shapes, 2026-09-02 evening, both from Tokyo's E-Prix FAQ after the
 // month-anchor repair had already run on that page: "haven't been officially
 // detailed yet. Check the official Formula E website closer to the July 25-26,
@@ -97,7 +100,14 @@ const TIME = String.raw`(?:the\s+)?(?:date|time|event|show(?:time)?|festival|rac
 // set times are published closer to showtime", "details are usually published
 // by organizers closer to race weekend" (Milan A$AP Rocky, Bol d'Or - both
 // missed until the 09-03 review).
-export const FUTURE_PROMISE = new RegExp(String.raw`\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|nearer\s+(?:the\s+(?:time|date)|(?:to\s+)?${MONTH})|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|closer\s+to\s+(?:the\s+(?:event|date|festival|show)|${MONTH})|\b(?:check|confirm|verify|watch|see|recheck|re-check)\b[^.\n]{0,80}\b(?:closer\s+to|nearer(?:\s+to)?)\s+${TIME}\b|\b(?:published|announced|released|confirmed|posted|shared|finali[sz]ed)\b[^.\n]{0,40}\b(?:closer\s+to|nearer(?:\s+to)?)\s+${TIME}\b|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:(?:officially|publicly|formally|fully)\s+)?(?:announced|confirmed|released|detailed|finali[sz]ed|set|fixed|decided|locked\s+in|published)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)`, 'i');
+// Tense matters for the passive shape and for the bare "closer to the event":
+// "The lineup was announced closer to the event than the 2025 lineup" is a
+// historical statement, and on an ended event the repair would have deleted
+// it. So the passive form takes only non-past auxiliaries (is / are / will be /
+// gets / usually…), and the bare forms carry a lookbehind that refuses a past
+// auxiliary within three words before "closer to" (Codex second pass).
+
+export const FUTURE_PROMISE = new RegExp(String.raw`\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|(?<!\b(?:was|were|had\s+been|has\s+been|have\s+been)\s+(?:[\w'-]+\s+){0,3})nearer\s+(?:the\s+(?:time|date)|(?:to\s+)?${MONTH})${NOT_SPATIAL}|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|(?<!\b(?:was|were|had\s+been|has\s+been|have\s+been)\s+(?:[\w'-]+\s+){0,3})closer\s+to\s+(?:the\s+(?:event|date|festival|show)|${MONTH})${NOT_SPATIAL}|\b(?:check|confirm|verify|watch|see|recheck|re-check)\b[^.\n]{0,80}\b(?:closer\s+to|nearer(?:\s+to)?)\s+${TIME}\b|\b(?:is|are|will\s+be|gets?|usually|typically|often|normally|generally)\s+(?:(?:usually|typically|often|normally|generally|only)\s+)?(?:published|announced|released|confirmed|posted|shared|finali[sz]ed)\b[^.\n]{0,40}\b(?:closer\s+to|nearer(?:\s+to)?)\s+${TIME}\b|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:(?:officially|publicly|formally|fully)\s+)?(?:announced|confirmed|released|detailed|finali[sz]ed|set|fixed|decided|locked\s+in|published)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)`, 'i');
 
 // (2) The mirror image, and the worse one: the page claims it DID happen.
 //
