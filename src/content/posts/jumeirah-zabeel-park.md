@@ -1,8 +1,8 @@
 ---
-title: 'Zabeel Park: Jumeirah Travel Guide (4.6★)'
+title: 'Zabeel Park: Dubai Travel Guide (4.6★)'
 description: Zabeel Park in Dubai's Al Kifaf/Al Jafiliya district (near Zabeel metro station) is a 117-acre green space famous for the Dubai Frame and a weekend flea market. 4.6★ (42,040 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
-region: Jumeirah
+region: Dubai
 category: attraction
 pubDate: '2026-09-01T10:38:36.829Z'
 heroImage:

@@ -1,8 +1,8 @@
 ---
-title: 'National Museum of Singapore: East Coast Travel Guide (4.5★)'
+title: 'National Museum of Singapore: Civic District Travel Guide (4.5★)'
 description: The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm. 4.5★ (16,547 reviews) — what visitors say, hours, and tips.
 country: Singapore
-region: East Coast
+region: Civic District
 category: attraction
 pubDate: '2026-08-14T08:45:51.367Z'
 heroImage:

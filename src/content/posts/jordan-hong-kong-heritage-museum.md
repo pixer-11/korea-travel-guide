@@ -1,8 +1,8 @@
 ---
-title: 'Hong Kong Heritage Museum: Jordan Travel Guide (4.3★)'
-description: The Hong Kong Heritage Museum sits in Sha Tin, New Territories — not actually in Jordan district, despite what some travel listings say — and it's one of the territory's largest, most-visited museums. 4.3★ (7,824 reviews) — what visitors say, hours, and tips.
+title: 'Hong Kong Heritage Museum: Sha Tin Travel Guide (4.3★)'
+description: The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the Shing Mun River, and it's one of the territory's largest, most-visited museums. 4.3★ (7,824 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
-region: Jordan
+region: Sha Tin
 category: attraction
 pubDate: '2026-08-25T08:15:22.961Z'
 heroImage:
@@ -36,7 +36,7 @@ place:
 tags:
   - jordan
   - museum
-quickAnswer: The Hong Kong Heritage Museum sits in Sha Tin, New Territories — not actually in Jordan district, despite what some travel listings say — and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries.
+quickAnswer: The Hong Kong Heritage Museum sits in Sha Tin, New Territories, beside the Shing Mun River, and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries.
 faq:
   - q: Is the Hong Kong Heritage Museum actually in Jordan?
     a: No — despite some listings, it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via Che Kung Temple Station on the East Rail Line.
@@ -56,7 +56,7 @@ draft: false
 
 ## Getting your bearings first
 
-A quick note before you plan: the Hong Kong Heritage Museum is not in Jordan at all. It's across the harbour in Sha Tin, New Territories, beside the Shing Mun River. If you're starting from Jordan on the Kowloon peninsula, budget 30–40 minutes to get there.
+The Hong Kong Heritage Museum is in Sha Tin, New Territories, beside the Shing Mun River. If you're starting from Jordan or elsewhere on the Kowloon peninsula, budget 30–40 minutes to get there.
 
 The building itself gives you a hint of what's inside before you even reach the door. It's arranged around a courtyard in the style of a traditional Chinese siheyuan, low and rectangular, a deliberate contrast to Hong Kong's vertical glass towers.
 

@@ -1,8 +1,8 @@
 ---
-title: 'Alishan Forest Railway Garage Park: Travel Guide (4.3★)'
+title: 'Alishan Forest Railway Garage Park: Chiayi Travel Guide (4.3★)'
 description: This is the historic rail yard beside Chiayi Station (East District), not the mountain resort of Alishan itself — a green, walkable park of retired steam and diesel locomotives, freight cars and old repair sheds. 4.3★ (8,630 reviews) — what visitors say, hours, and tips.
 country: Taiwan
-region: Alishan
+region: Chiayi
 category: attraction
 pubDate: '2026-08-22T08:03:11.272Z'
 heroImage:

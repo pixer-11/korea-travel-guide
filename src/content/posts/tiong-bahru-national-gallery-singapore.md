@@ -1,8 +1,8 @@
 ---
-title: "National Gallery Singapore: Tiong Bahru Travel Guide (4.6★)"
-description: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings near Tiong Bahru and the Civic District, opens daily 10am–7pm. 4.6★ (16,956 reviews) — what visitors say, hours, and tips."
+title: "National Gallery Singapore: Civic District Travel Guide (4.6★)"
+description: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings in the Civic District, opens daily 10am–7pm. 4.6★ (16,956 reviews) — what visitors say, hours, and tips."
 country: "Singapore"
-region: "Tiong Bahru"
+region: "Civic District"
 category: "attraction"
 pubDate: "2026-08-14T08:54:15.406Z"
 heroImage:
@@ -47,7 +47,7 @@ place:
 tags:
   - "tiong bahru"
   - "museum"
-quickAnswer: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings near Tiong Bahru and the Civic District, opens daily 10am–7pm. Go right at opening — the museum is quietest 10am–11am on both weekdays and weekends — and avoid the noon–6pm weekend crush. Budget two to three hours to see the highlights of its Southeast Asian art collection without rushing."
+quickAnswer: "National Gallery Singapore, the twin restored former City Hall and Supreme Court buildings in the Civic District, opens daily 10am–7pm. Go right at opening — the museum is quietest 10am–11am on both weekdays and weekends — and avoid the noon–6pm weekend crush. Budget two to three hours to see the highlights of its Southeast Asian art collection without rushing."
 faq:
   - q: "What are the opening hours?"
     a: "10am to 7pm, every day of the week, with no variation by day."
@@ -75,7 +75,7 @@ That mix of layered history and serious curatorial weight is why it holds one of
 
 ## Getting there
 
-The Gallery sits in the Civic District, a short walk from Tiong Bahru's café streets but technically its own precinct. City Hall MRT station (Line 2 East-West, Line 3 North-South) sits right beneath it — take Exit B and you surface almost at the entrance.
+The Gallery sits in the Civic District, on St Andrew's Road beside the Padang. City Hall MRT station (Line 2 East-West, Line 3 North-South) sits right beneath it — take Exit B and you surface almost at the entrance.
 
 Padang, Esplanade, and the Merlion waterfront are all within a ten-minute walk, so it's easy to fold into a half-day loop through the district.
 

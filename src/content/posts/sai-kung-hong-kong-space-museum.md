@@ -1,8 +1,8 @@
 ---
-title: "Hong Kong Space Museum: Sai Kung Travel Guide (4.2★)"
-description: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, not in Sai Kung itself, though it's often filed under this wider region in travel listings. 4.2★ (6,972 reviews) — what visitors say, hours, and tips."
+title: "Hong Kong Space Museum: Tsim Sha Tsui Travel Guide (4.2★)"
+description: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on the Kowloon harbourfront. 4.2★ (6,972 reviews) — what visitors say, hours, and tips."
 country: "Hong Kong"
-region: "Sai Kung"
+region: "Tsim Sha Tsui"
 category: "attraction"
 pubDate: "2026-08-31T12:35:57.567Z"
 heroImage:
@@ -52,7 +52,7 @@ place:
 tags:
   - "sai kung"
   - "museum"
-quickAnswer: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, not in Sai Kung itself, though it's often filed under this wider region in travel listings. Its windowless egg-shaped dome houses a planetarium, Omnimax theatre and space exhibits, and it's closed Tuesdays. Weekends draw the biggest crowds between 12pm and 7pm, so aim for a morning slot right at 10am opening."
+quickAnswer: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on the Kowloon harbourfront. Its windowless egg-shaped dome houses a planetarium, Omnimax theatre and space exhibits, and it's closed Tuesdays. Weekends draw the biggest crowds between 12pm and 7pm, so aim for a morning slot right at 10am opening."
 faq:
   - q: "Is the Hong Kong Space Museum actually in Sai Kung?"
     a: "No, it's on Salisbury Road in Tsim Sha Tsui, Kowloon, though some regional travel listings file it under the broader Sai Kung area. It sits right on the harbourfront next to the Hong Kong Cultural Centre."
@@ -74,7 +74,7 @@ draft: false
 
 You won't mistake the building. It's a windowless, pale dome wedged between the Hong Kong Cultural Centre and the Star Ferry pier on Salisbury Road, Tsim Sha Tsui, its curved shell built specifically to house a planetarium sphere inside.
 
-Despite regional listings that group it under Sai Kung, the museum itself is firmly on the Kowloon waterfront. That's good news: it means you can pair a visit with the harbour promenade and the Avenue of Stars without any extra travel.
+The museum sits right on the Kowloon waterfront. That's good news: it means you can pair a visit with the harbour promenade and the Avenue of Stars without any extra travel.
 
 The dome shape isn't decorative flourish. It's structural logic, wrapping tightly around the planetarium's projection sphere so the theatre inside needs no interior support columns.
 

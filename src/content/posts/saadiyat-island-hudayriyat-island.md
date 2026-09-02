@@ -1,8 +1,8 @@
 ---
-title: 'Hudayriyat Island: Saadiyat Island Travel Guide (4.7★)'
+title: 'Hudayriyat Island: Abu Dhabi Travel Guide (4.7★)'
 description: Hudayriyat Island is Abu Dhabi's big outdoor playground — a 25-minute drive from Saadiyat Island — with a paved cycling/running track, beach clubs, watersports and cafés spread across a huge stretch of reclaimed coastline. 4.7★ (2,190 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
-region: Saadiyat Island
+region: Abu Dhabi
 category: hidden-gem
 pubDate: '2026-08-14T09:39:04.379Z'
 heroImage:

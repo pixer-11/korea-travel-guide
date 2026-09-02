@@ -1,8 +1,8 @@
 ---
-title: 'Hong Kong Science Museum: Sha Tin Travel Guide (4.4★)'
-description: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, not actually in Sha Tin proper — but it's an easy add-on to a Kowloon/New Territories day out. 4.4★ (3,510 reviews) — what visitors say, hours, and tips.
+title: 'Hong Kong Science Museum: Tsim Sha Tsui Travel Guide (4.4★)'
+description: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next door to the Hong Kong Museum of History. 4.4★ (3,510 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
-region: Sha Tin
+region: Tsim Sha Tsui
 category: attraction
 pubDate: '2026-08-25T08:18:03.888Z'
 heroImage:
@@ -56,7 +56,7 @@ place:
 tags:
   - sha tin
   - museum
-quickAnswer: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, not actually in Sha Tin proper — but it's an easy add-on to a Kowloon/New Territories day out. It's closed every Thursday, open 10am–7pm most other weekdays and 10am–9pm on weekends, and gets packed between 12pm and 7pm on Saturdays and Sundays. Plan on 2–3 hours, more if you're visiting with curious kids.
+quickAnswer: Hong Kong Science Museum sits in Tsim Sha Tsui East, on the Kowloon side, next door to the Hong Kong Museum of History. It's closed every Thursday, open 10am–7pm most other weekdays and 10am–9pm on weekends, and gets packed between 12pm and 7pm on Saturdays and Sundays. Plan on 2–3 hours, more if you're visiting with curious kids.
 faq:
   - q: Is the Hong Kong Science Museum actually in Sha Tin?
     a: No — despite the regional tag, it's located in Tsim Sha Tsui East, Kowloon, near East Tsim Sha Tsui MTR Station. From Sha Tin it's about a 20–25 minute ride on the East Rail Line.
@@ -82,7 +82,7 @@ The Hong Kong Science Museum packs more than 500 interactive exhibits across sev
 
 ## Getting there
 
-Despite what the neighborhood tag might suggest, this museum is in Tsim Sha Tsui East, Kowloon — not Sha Tin itself. The address is 2 Science Museum Road. The closest MTR stop is East Tsim Sha Tsui Station, a short walk through the underground pedestrian tunnels that link to the surrounding hotel and shopping district.
+This museum is in Tsim Sha Tsui East, Kowloon. The address is 2 Science Museum Road. The closest MTR stop is East Tsim Sha Tsui Station, a short walk through the underground pedestrian tunnels that link to the surrounding hotel and shopping district.
 
 If you're coming from Sha Tin, hop on the East Rail Line and ride it down into Kowloon; the journey takes roughly 20–25 minutes. It's an easy pairing with a day that also includes the Hong Kong Museum of History next door, or a stroll along the Tsim Sha Tsui waterfront.
 

@@ -1,11 +1,11 @@
 ---
-title: 'Hindu Temple, Dubai: Al Barsha Travel Guide (4.8★)'
+title: 'Hindu Temple, Dubai: Travel Guide (4.8★)'
 description: >-
   This is Dubai's newer Hindu temple complex in Jebel Ali, open daily
   6am–8:30pm, and it draws steady crowds all day on weekends. 4.8★ (6,449
   reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
-region: Al Barsha
+region: Dubai
 category: attraction
 pubDate: '2026-08-15T07:57:32.150Z'
 heroImage:
@@ -104,7 +104,7 @@ Cream-and-pink stone carved into tight, repeating patterns catches the desert li
 
 ## Getting there
 
-The temple sits in Jebel Ali First, on Dubai's western industrial edge, not central Al Barsha proper despite how it's often filed. It's a fair drive or taxi ride from the Metro system — there's no station right outside.
+The temple sits in Jebel Ali First, on Dubai's western industrial edge. It's a fair drive or taxi ride from the Metro system — there's no station right outside.
 
 Most visitors arrive by car, taxi, or ride-hailing app. Give yourself extra time on Fridays and weekends, when traffic into the compound itself can bottleneck at the gate.
 

@@ -1,8 +1,8 @@
 ---
-title: "Shees Park: Fujairah Travel Guide (4.4★)"
+title: "Shees Park: Sharjah Travel Guide (4.4★)"
 description: "Shees Park sits just off the Al Dhaid–Masafi mountain road, on the Sharjah/Fujairah border, and it's open daily from 8am to 10pm. 4.4★ (6,661 reviews) — what visitors say, hours, and tips."
 country: "United Arab Emirates"
-region: "Fujairah"
+region: "Sharjah"
 category: "attraction"
 pubDate: "2026-08-21T08:09:42.053Z"
 heroImage:

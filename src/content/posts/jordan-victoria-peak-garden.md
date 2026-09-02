@@ -1,8 +1,8 @@
 ---
-title: "Victoria Peak Garden: Jordan Travel Guide (4.5★)"
+title: "Victoria Peak Garden: Hong Kong Travel Guide (4.5★)"
 description: "Victoria Peak Garden sits at the very top of Mount Austin Road on Hong Kong Island, a short uphill walk past the Peak Tower crowds, and it's open 24 hours with no admission fee. 4.5★ (2,752 reviews) — what visitors say, hours, and tips."
 country: "Hong Kong"
-region: "Jordan"
+region: "Hong Kong"
 category: "attraction"
 pubDate: "2026-08-27T18:21:19.939Z"
 heroImage:

@@ -1,8 +1,8 @@
 ---
-title: "Dubai Old village: Jumeirah Travel Guide (4.6★)"
-description: "Dubai Old Village in Al Hamriya (Jumeirah district) is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. 4.6★ (1,105 reviews) — what visitors say, hours, and tips."
+title: "Dubai Old village: Travel Guide (4.6★)"
+description: "Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. 4.6★ (1,105 reviews) — what visitors say, hours, and tips."
 country: "United Arab Emirates"
-region: "Jumeirah"
+region: "Dubai"
 category: "attraction"
 pubDate: "2026-08-31T15:16:35.168Z"
 heroImage:
@@ -28,10 +28,10 @@ place:
 tags:
   - "jumeirah"
   - "historic site"
-quickAnswer: "Dubai Old Village in Al Hamriya (Jumeirah district) is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. It stays largely under the radar compared to Al Fahidi and Al Seef, so you'll often have the lanes to yourself. Plan on 45 minutes to an hour, ideally in the cooler morning or late-afternoon hours."
+quickAnswer: "Dubai Old Village in Al Hamriya, on the Bur Dubai side of Dubai Creek, is a reconstructed heritage quarter of coral-stone and gypsum buildings showing how Dubai looked before the oil boom. It stays largely under the radar compared to Al Fahidi and Al Seef, so you'll often have the lanes to yourself. Plan on 45 minutes to an hour, ideally in the cooler morning or late-afternoon hours."
 faq:
   - q: "Where exactly is Dubai Old Village?"
-    a: "It's in Al Hamriya, within the Jumeirah region of Dubai, UAE. The plus-code address is 7865+X46; GPS or a rideshare app will get you there more reliably than street signs."
+    a: "It's in Al Hamriya, on the Bur Dubai side of the Creek in Dubai, UAE. The plus-code address is 7865+X46; GPS or a rideshare app will get you there more reliably than street signs."
   - q: "How do I get there without a car?"
     a: "There's no metro station within walking distance, so a taxi or rideshare (Careem/Uber) is the practical option."
   - q: "How long should I plan to spend there?"
@@ -48,7 +48,7 @@ draft: false
 
 ## What you're actually looking at
 
-Dubai Old Village sits in Al Hamriya, on the Jumeirah side of the Creek, a cluster of low buildings built from coral stone, gypsum and palm-frond (barasti) roofing. It's a recreation rather than a surviving original quarter, modeled on how Dubai's waterfront looked before the 1966 oil discovery changed everything. Wind towers (barjeel) punctuate the rooflines, an old cooling system that predates air conditioning by centuries.
+Dubai Old Village sits in Al Hamriya, on the Bur Dubai side of the Creek, a cluster of low buildings built from coral stone, gypsum and palm-frond (barasti) roofing. It's a recreation rather than a surviving original quarter, modeled on how Dubai's waterfront looked before the 1966 oil discovery changed everything. Wind towers (barjeel) punctuate the rooflines, an old cooling system that predates air conditioning by centuries.
 
 Narrow alleys connect small courtyards and single-story houses. Wooden doors are studded with iron and painted in the same muted browns and creams as the walls. There's no ticket booth crowd here, which fits its 4.6-star rating built from just over 1,100 reviews.
 

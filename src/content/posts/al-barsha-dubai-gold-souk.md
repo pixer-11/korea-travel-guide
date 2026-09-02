@@ -1,8 +1,8 @@
 ---
-title: 'Dubai Gold Souk: Al Barsha Travel Guide (4.4★)'
-description: The Dubai Gold Souk sits in Deira's Al Ras district, not Al Barsha, despite what the map filters say — it's the historic covered market strung with hundreds of gold shops behind a carved wooden arch. 4.4★ (10,705 reviews) — what visitors say, hours, and tips.
+title: 'Dubai Gold Souk: Deira Travel Guide (4.4★)'
+description: The Dubai Gold Souk sits in Deira's Al Ras district, on the north bank of Dubai Creek — it's the historic covered market strung with hundreds of gold shops behind a carved wooden arch. 4.4★ (10,705 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
-region: Al Barsha
+region: Deira
 category: hidden-gem
 pubDate: '2026-08-24T08:26:28.880Z'
 heroImage:
@@ -32,7 +32,7 @@ place:
 tags:
   - al barsha
   - local market
-quickAnswer: The Dubai Gold Souk sits in Deira's Al Ras district, not Al Barsha, despite what the map filters say — it's the historic covered market strung with hundreds of gold shops behind a carved wooden arch. Come in the early evening, after 4pm and before the after-dinner rush, when the alleys are lit but not yet packed. It's free to walk through and browse; you only pay if you buy.
+quickAnswer: The Dubai Gold Souk sits in Deira's Al Ras district, on the north bank of Dubai Creek — it's the historic covered market strung with hundreds of gold shops behind a carved wooden arch. Come in the early evening, after 4pm and before the after-dinner rush, when the alleys are lit but not yet packed. It's free to walk through and browse; you only pay if you buy.
 faq:
   - q: Is the Dubai Gold Souk actually in Al Barsha?
     a: No — it's physically located in Al Ras, Deira, on the northern side of Dubai Creek. Some listings tag it under Al Barsha due to regional map filing, but you should head to Al Ras/Deira, not Al Barsha, to find it.
@@ -61,7 +61,7 @@ This isn't a boutique. It's dozens of independent shops competing for your atten
 
 ## Getting there
 
-The souk sits in Al Ras, part of Deira, on Dubai's northern creek bank — despite how some map listings file it under Al Barsha.
+The souk sits in Al Ras, part of Deira, on Dubai's northern creek bank.
 
 - **Metro:** Take the Green Line to Al Ras Station, then walk about 5–8 minutes through the surrounding streets.
 - **Abra:** Cross Dubai Creek by traditional wooden ferry from Bur Dubai — a slower, more atmospheric approach for around a dirham.

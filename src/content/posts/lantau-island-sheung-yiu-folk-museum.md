@@ -1,8 +1,8 @@
 ---
-title: "Sheung Yiu Folk Museum: Lantau Island Travel Guide (4.0★)"
-description: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, not on Lantau Island itself, despite what regional listings sometimes suggest. 4.0★ (658 reviews) — what visitors say, hours, and tips."
+title: "Sheung Yiu Folk Museum: Sai Kung Travel Guide (4.0★)"
+description: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, near Pak Tam Chung. 4.0★ (658 reviews) — what visitors say, hours, and tips."
 country: "Hong Kong"
-region: "Lantau Island"
+region: "Sai Kung"
 category: "attraction"
 pubDate: "2026-08-31T12:35:04.317Z"
 heroImage:
@@ -36,7 +36,7 @@ place:
 tags:
   - "lantau island"
   - "museum"
-quickAnswer: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, not on Lantau Island itself, despite what regional listings sometimes suggest. It's a small, free-to-enter recreation of an 1800s Hakka walled village with original farming tools and household objects, best visited on a weekday morning when the site is nearly empty. Allow 30–45 minutes; it's open daily except Tuesdays, 10am to 6pm."
+quickAnswer: "Sheung Yiu Folk Museum sits in Sai Kung Country Park in the New Territories, near Pak Tam Chung. It's a small, free-to-enter recreation of an 1800s Hakka walled village with original farming tools and household objects, best visited on a weekday morning when the site is nearly empty. Allow 30–45 minutes; it's open daily except Tuesdays, 10am to 6pm."
 faq:
   - q: "Is Sheung Yiu Folk Museum on Lantau Island?"
     a: "No. It's in Sai Kung Country Park in the New Territories, despite sometimes being grouped under Lantau in regional listings. If you specifically want Lantau, look at Tai O fishing village or the Big Buddha instead."
@@ -54,7 +54,7 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-Before anything else: Sheung Yiu Folk Museum is in Sai Kung Country Park, in the New Territories, not on Lantau Island. If you came here searching for Lantau attractions, you'll want to redirect toward Tai O or the Big Buddha instead. This guide covers the museum as it actually exists, in case Sai Kung is where your trip is really headed.
+Sheung Yiu Folk Museum is in Sai Kung Country Park, in the New Territories, near the Pak Tam Chung entrance to the park. This guide covers the museum as it actually exists, for anyone whose trip is headed into Sai Kung.
 
 ## What you're actually looking at
 

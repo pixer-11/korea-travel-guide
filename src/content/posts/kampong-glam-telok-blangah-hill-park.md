@@ -1,8 +1,8 @@
 ---
-title: "Telok Blangah Hill Park: Kampong Glam Travel Guide (4.6★)"
-description: "Telok Blangah Hill Park sits far from Kampong Glam itself, on the southern ridge near Mount Faber and HarbourFront, but it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. 4.6★ (2,579 reviews) — what visitors say, hours, and tips."
+title: "Telok Blangah Hill Park: Singapore Travel Guide (4.6★)"
+description: "Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber and HarbourFront, and it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. 4.6★ (2,579 reviews) — what visitors say, hours, and tips."
 country: "Singapore"
-region: "Kampong Glam"
+region: "Singapore"
 category: "attraction"
 pubDate: "2026-08-28T08:59:52.719Z"
 heroImage:
@@ -64,7 +64,7 @@ place:
 tags:
   - "kampong glam"
   - "park"
-quickAnswer: "Telok Blangah Hill Park sits far from Kampong Glam itself, on the southern ridge near Mount Faber and HarbourFront, but it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. It's open 24 hours, and on weekends the calmest window is 7am to 9am before the walking groups and picnic crowds arrive by mid-morning. Budget 1.5 to 2 hours to walk the ridge, cross into Mount Faber Park via the canopy walk, and catch the skyline from Henderson Waves."
+quickAnswer: "Telok Blangah Hill Park sits on Singapore's southern ridge near Mount Faber and HarbourFront, and it's a worthwhile detour if you want city and harbour views without the crowds of Sentosa. It's open 24 hours, and on weekends the calmest window is 7am to 9am before the walking groups and picnic crowds arrive by mid-morning. Budget 1.5 to 2 hours to walk the ridge, cross into Mount Faber Park via the canopy walk, and catch the skyline from Henderson Waves."
 faq:
   - q: "Is Telok Blangah Hill Park actually near Kampong Glam?"
     a: "No, it's on the opposite side of the city, near HarbourFront and Mount Faber on Singapore's southern ridge. Expect a 25-30 minute MRT or taxi ride from Kampong Glam."
@@ -84,7 +84,7 @@ draft: false
 
 ## Getting your bearings first
 
-Telok Blangah Hill Park is not actually in Kampong Glam. It sits on Singapore's southern ridge, closer to HarbourFront and Mount Faber, a good half-hour taxi or MRT-plus-walk from the Arab Street shophouses and Sultan Mosque.
+Telok Blangah Hill Park sits on Singapore's southern ridge, close to HarbourFront and Mount Faber, a good half-hour taxi or MRT-plus-walk from the city centre.
 
 If you're basing yourself in Kampong Glam, treat this as a half-day excursion rather than a stroll after lunch. The nearest MRT is HarbourFront (Circle and North East lines), from which the park is a short uphill walk.
 

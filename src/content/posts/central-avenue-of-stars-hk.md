@@ -1,8 +1,8 @@
 ---
-title: 'Avenue of Stars HK: Central Travel Guide (4.3★)'
+title: 'Avenue of Stars HK: Tsim Sha Tsui Travel Guide (4.3★)'
 description: The Avenue of Stars sits on the Tsim Sha Tsui waterfront, a short walk from Star Ferry Pier, with Bruce Lee's statue and dozens of handprint plaques honoring Hong Kong cinema. 4.3★ (17,298 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
-region: Central
+region: Tsim Sha Tsui
 category: attraction
 pubDate: '2026-08-12T17:09:02.439Z'
 heroImage:

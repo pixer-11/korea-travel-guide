@@ -1,11 +1,11 @@
 ---
-title: 'ArtScience Museum: Clarke Quay Travel Guide (4.4★)'
+title: 'ArtScience Museum: Marina Bay Travel Guide (4.4★)'
 description: >-
-  ArtScience Museum sits at Marina Bay, technically a short walk from Clarke
-  Quay across the river, and it's open daily 10am–7pm. 4.4★ (18,427 reviews) —
+  ArtScience Museum sits at Marina Bay, beside Marina Bay Sands on the
+  Bayfront waterfront, and it's open daily 10am–7pm. 4.4★ (18,427 reviews) —
   what visitors say, hours, and tips.
 country: Singapore
-region: Clarke Quay
+region: Marina Bay
 category: attraction
 pubDate: '2026-08-25T08:08:29.657Z'
 heroImage:
@@ -63,8 +63,8 @@ tags:
   - clarke quay
   - museum
 quickAnswer: >-
-  ArtScience Museum sits at Marina Bay, technically a short walk from Clarke
-  Quay across the river, and it's open daily 10am–7pm. It's a very popular stop,
+  ArtScience Museum sits at Marina Bay, beside Marina Bay Sands on the
+  Bayfront waterfront, and it's open daily 10am–7pm. It's a very popular stop,
   so aim for the 10am opening or the 10am–12pm weekday window to beat the
   crowds. Expect to spend two to three hours moving through its rotating design,
   science and technology exhibitions.

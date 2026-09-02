@@ -1,8 +1,8 @@
 ---
-title: 'Phi Phi Islands: Phuket Travel Guide'
-description: The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier.
+title: 'Phi Phi Islands: Koh Phi Phi Travel Guide'
+description: The Phi Phi Islands, in Krabi province, are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier.
 country: Thailand
-region: Phuket
+region: Koh Phi Phi
 category: attraction
 pubDate: '2026-07-22T09:07:24.136Z'
 heroImage:
@@ -27,7 +27,7 @@ place:
 tags:
   - phuket
   - Phi Phi Islands
-quickAnswer: The Phi Phi Islands are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier. Go for Maya Bay, the limestone cliffs of Phi Phi Leh, and snorkeling at Pileh Lagoon; budget a full day if you're not staying overnight. Book a tour or ferry a day or two ahead, especially in high season (November–April).
+quickAnswer: The Phi Phi Islands, in Krabi province, are a day-trip or overnight boat excursion from Phuket, best reached by speedboat (roughly 1–1.5 hours each way) from Rassada Pier or Chalong Pier. Go for Maya Bay, the limestone cliffs of Phi Phi Leh, and snorkeling at Pileh Lagoon; budget a full day if you're not staying overnight. Book a tour or ferry a day or two ahead, especially in high season (November–April).
 faq:
   - q: How do I get to the Phi Phi Islands from Phuket?
     a: Take a speedboat or ferry from Rassada Pier or Chalong Pier; speedboats take about 1–1.5 hours, ferries around 2 hours. Most visitors book a day-tour package that includes transfer, snorkeling stops, and lunch.

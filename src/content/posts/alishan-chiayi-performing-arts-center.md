@@ -1,8 +1,8 @@
 ---
-title: 'Chiayi Performing Arts Center: Alishan Travel Guide (4.4★)'
-description: Chiayi Performing Arts Center sits in Minxiong Township, a short drive from Chiayi city proper and often folded into an Alishan-region itinerary. 4.4★ (3,661 reviews) — what visitors say, hours, and tips.
+title: 'Chiayi Performing Arts Center: Travel Guide (4.4★)'
+description: Chiayi Performing Arts Center sits in Minxiong Township, a short drive north of Chiayi city proper. 4.4★ (3,661 reviews) — what visitors say, hours, and tips.
 country: Taiwan
-region: Alishan
+region: Chiayi
 category: attraction
 pubDate: '2026-08-23T08:08:04.960Z'
 heroImage:
@@ -35,7 +35,7 @@ place:
 tags:
   - alishan
   - art gallery
-quickAnswer: Chiayi Performing Arts Center sits in Minxiong Township, a short drive from Chiayi city proper and often folded into an Alishan-region itinerary. It's open weekdays 8am–5pm and closed on weekends, so plan around that if you want to see inside — the building's sculptural concrete exterior and gardens are viewable anytime you pass by. Give it 30–45 minutes unless a performance is on, in which case check the schedule and book ahead.
+quickAnswer: Chiayi Performing Arts Center sits in Minxiong Township, a short drive north of Chiayi city proper. It's open weekdays 8am–5pm and closed on weekends, so plan around that if you want to see inside — the building's sculptural concrete exterior and gardens are viewable anytime you pass by. Give it 30–45 minutes unless a performance is on, in which case check the schedule and book ahead.
 faq:
   - q: What are the opening hours for Chiayi Performing Arts Center?
     a: It's open Monday to Friday, 8am to 5pm, and closed entirely on Saturdays and Sundays — plan a weekday visit if you want to see inside.

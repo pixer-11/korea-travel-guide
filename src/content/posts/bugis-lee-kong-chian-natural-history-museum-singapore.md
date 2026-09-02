@@ -1,8 +1,8 @@
 ---
-title: 'Lee Kong Chian Natural History Museum, Singapore: Bugis Travel Guide'
-description: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus, not actually in Bugis proper, so budget time for the trip out. 4.6★ (2,680 reviews) — what visitors say, hours, and tips.
+title: 'Lee Kong Chian Natural History Museum, Singapore: Travel Guide'
+description: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus in the west of the island, so budget time for the trip out from the city centre. 4.6★ (2,680 reviews) — what visitors say, hours, and tips.
 country: Singapore
-region: Bugis
+region: Singapore
 category: attraction
 pubDate: '2026-09-01T10:40:49.740Z'
 heroImage:
@@ -56,7 +56,7 @@ place:
 tags:
   - bugis
   - museum
-quickAnswer: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus, not actually in Bugis proper, so budget time for the trip out. Its three mounted diplodocid dinosaur skeletons, nicknamed Apollonia, Prince and Twinky, are the headline draw, alongside vast galleries of preserved specimens. Go on a weekday morning before 11am to beat the weekend crowds that build from 11am to 6pm.
+quickAnswer: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus in the west of the island, so budget time for the trip out from the city centre. Its three mounted diplodocid dinosaur skeletons, nicknamed Apollonia, Prince and Twinky, are the headline draw, alongside vast galleries of preserved specimens. Go on a weekday morning before 11am to beat the weekend crowds that build from 11am to 6pm.
 faq:
   - q: Is the Lee Kong Chian Natural History Museum actually in Bugis?
     a: No, it's on the NUS Kent Ridge campus at 2 Conservatory Drive. It's tagged to the wider Bugis/Singapore region but sits a fair distance southwest, roughly a 30-minute journey from central Bugis.
@@ -77,7 +77,7 @@ updatedDate: '2026-09-01'
 
 ## Getting your bearings
 
-Despite the Bugis regional tag, this museum is on the NUS Kent Ridge campus at 2 Conservatory Drive, a good half-hour drive or bus ride from the Bugis district itself. It occupies a low, angular building clad in dark aluminium panels, designed to evoke a rock formation rather than a conventional museum block. Inside, the layout is compact: two main floors wrapped around a central atrium where the dinosaurs stand.
+This museum is on the NUS Kent Ridge campus at 2 Conservatory Drive, a good half-hour drive or bus ride from the city centre. It occupies a low, angular building clad in dark aluminium panels, designed to evoke a rock formation rather than a conventional museum block. Inside, the layout is compact: two main floors wrapped around a central atrium where the dinosaurs stand.
 
 Don't confuse this with a quick Bugis add-on stop. Treat it as a standalone half-day trip, ideally paired with a wander through the adjacent University Cultural Centre or the Kent Ridge Park trails if you have energy left afterward.
 

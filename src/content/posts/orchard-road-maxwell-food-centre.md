@@ -1,8 +1,8 @@
 ---
-title: 'Maxwell Food Centre: Where to Eat in Orchard Road'
-description: Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E).
+title: 'Maxwell Food Centre: Where to Eat in Chinatown'
+description: Maxwell Food Centre is a Chinatown hawker hall near Chinatown MRT (Exit A/E), about a 15-20 minute MRT ride from Orchard Road.
 country: Singapore
-region: Orchard Road
+region: Chinatown
 category: restaurant
 pubDate: '2026-07-23T07:45:00.433Z'
 heroImage:
@@ -47,7 +47,7 @@ place:
 tags:
   - orchard road
   - street food
-quickAnswer: Maxwell Food Centre is a Chinatown hawker hall, not actually on Orchard Road — it's about a 15-20 minute MRT ride away, near Chinatown MRT (Exit A/E). Go for Tian Tian Hainanese Chicken Rice and other hawker classics, arrive before noon or after 2pm to beat the lunch crush, and bring small cash. Budget 45-60 minutes and pair the trip with a walk through nearby Chinatown or Ann Siang Hill.
+quickAnswer: Maxwell Food Centre is a Chinatown hawker hall near Chinatown MRT (Exit A/E), about a 15-20 minute MRT ride from Orchard Road. Go for Tian Tian Hainanese Chicken Rice and other hawker classics, arrive before noon or after 2pm to beat the lunch crush, and bring small cash. Budget 45-60 minutes and pair the trip with a walk through nearby Chinatown or Ann Siang Hill.
 faq:
   - q: Is Maxwell Food Centre actually on Orchard Road?
     a: No — it's in Chinatown, about 15-20 minutes from Orchard Road by MRT (Orchard to Chinatown station, Exit A or E).

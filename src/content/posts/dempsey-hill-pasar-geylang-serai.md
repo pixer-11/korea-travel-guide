@@ -1,8 +1,8 @@
 ---
-title: "Pasar Geylang Serai: Dempsey Hill Travel Guide"
-description: "Pasar Geylang Serai is a wet market and hawker centre in the Geylang Serai district — not actually in Dempsey Hill despite how this guide is filed, so don't go looking for it near the Tanglin nurseries."
+title: "Pasar Geylang Serai: Singapore Travel Guide"
+description: "Pasar Geylang Serai is a wet market and hawker centre in the Geylang Serai district on Singapore's east side, a short walk from Paya Lebar MRT."
 country: "Singapore"
-region: "Dempsey Hill"
+region: "Singapore"
 category: "hidden-gem"
 pubDate: "2026-08-24T08:18:53.562Z"
 heroImage:
@@ -40,7 +40,7 @@ place:
 tags:
   - "dempsey hill"
   - "local market"
-quickAnswer: "Pasar Geylang Serai is a wet market and hawker centre in the Geylang Serai district — not actually in Dempsey Hill despite how this guide is filed, so don't go looking for it near the Tanglin nurseries. It's open 24 hours, but the market stalls and food centre really only run from early morning until early afternoon. Go before 9am on a weekday for the calmest browsing and the freshest catch."
+quickAnswer: "Pasar Geylang Serai is a wet market and hawker centre in the Geylang Serai district on Singapore's east side, a short walk from Paya Lebar MRT. It's open 24 hours, but the market stalls and food centre really only run from early morning until early afternoon. Go before 9am on a weekday for the calmest browsing and the freshest catch."
 faq:
   - q: "Is Pasar Geylang Serai actually in Dempsey Hill?"
     a: "No — despite being grouped with Dempsey Hill in some listings, it's located in Geylang Serai near Paya Lebar, about 20 minutes away by car or MRT."
@@ -58,9 +58,9 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-## A market that doesn't play by Dempsey Hill's rules
+## A market that plays by its own rules
 
-Search "Pasar Geylang Serai" alongside Dempsey Hill and you'll hit a mismatch. This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar — a good twenty-minute drive or MRT ride from Dempsey's colonial black-and-white bungalows and wine bars.
+This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar — a good twenty-minute drive or MRT ride from the city centre.
 
 That distance is actually the point. Where Dempsey trades in restored military barracks and manicured lawns, Geylang Serai trades in raw fish on ice and the smell of fried banana fritters at 7am.
 

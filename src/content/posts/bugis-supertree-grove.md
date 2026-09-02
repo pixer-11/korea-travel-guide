@@ -1,11 +1,11 @@
 ---
-title: 'Supertree Grove: Bugis Travel Guide (4.7★)'
+title: 'Supertree Grove: Marina Bay Travel Guide (4.7★)'
 description: >-
-  Supertree Grove sits in Gardens by the Bay, about a 15-minute walk or one-stop
-  bus ride from Bugis. 4.7★ (54,520 reviews) — what visitors say, hours, and
+  Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next
+  to Marina Bay Sands. 4.7★ (54,520 reviews) — what visitors say, hours, and
   tips.
 country: Singapore
-region: Bugis
+region: Marina Bay
 category: attraction
 pubDate: '2026-08-11T08:24:01.086Z'
 heroImage:
@@ -40,8 +40,8 @@ tags:
   - bugis
   - top attraction
 quickAnswer: >-
-  Supertree Grove sits in Gardens by the Bay, about a 15-minute walk or one-stop
-  bus ride from Bugis. It's open 5am–2am daily, but the reason to go is the free
+  Supertree Grove sits in Gardens by the Bay, on the Marina Bay waterfront next
+  to Marina Bay Sands. It's open 5am–2am daily, but the reason to go is the free
   Garden Rhapsody light-and-sound show, nightly at 7:45pm and 8:45pm. Arrive by
   7pm to claim a spot on the grass before the crowds pack in.
 faq:

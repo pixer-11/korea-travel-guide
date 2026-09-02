@@ -102,6 +102,18 @@ const CHECKS = [
     pick: (l) => l.match(/^INVENTED-CROWD-CLAIM:\s*(\S+\.md)/)?.[1],
   },
   {
+    // 09-02 심층검증의 24편: 사이궁의 민속박물관이 "Lantau Island", 침사추이의
+    // 우주박물관이 "Sai Kung" — 생성기가 검색어의 구역명을 region 에 그대로
+    // 적고 구글 좌표는 대조하지 않았다. 구역 허브와 일정표가 region 으로
+    // 만들어지니 오류가 그대로 전파된다. country-bbox 게이트는 나라만 본다;
+    // 이 검사가 구역 몫(같은 구역 라이브 글 3편 이상일 때 10 km 초과 AND
+    // 퍼짐 4배 초과). heldReason 은 wrong-region — 24편의 수리 이력과 같은 표식.
+    name: 'region',
+    why: '지역 태그가 좌표와 어긋남 (그 구역의 다른 글들과 동떨어진 장소)',
+    cmd: 'node scripts/audit-region-outliers.mjs',
+    pick: (l) => l.match(/^REGION-OUTLIER:\s*(\S+\.md)/)?.[1],
+  },
+  {
     name: 'content',
     why: '콘텐츠 검증 실패',
     cmd: 'node scripts/validate-content.mjs',
@@ -217,7 +229,12 @@ for (const [f, why] of reasons) {
     // Reason follows the actual finding: the repair patrol only handles the
     // hours class, and a photo/content hold mislabelled as "hours" sent it
     // re-auditing the wrong thing (full-audit 2026-08-10).
-    const reason = [...why].some((w) => /영업시간|hours/i.test(String(w))) ? 'hours' : 'content';
+    // wrong-region joined 2026-09-02 — the 24 hand-repaired posts carry the
+    // same marker, so a held newcomer and a repaired veteran read alike.
+    const whys = [...why].map(String);
+    const reason = whys.some((w) => /영업시간|hours/i.test(w)) ? 'hours'
+      : whys.some((w) => /지역 태그|region/i.test(w)) ? 'wrong-region'
+      : 'content';
     if (!/^heldReason:/m.test(next)) next = next.replace(/^draft:\s*true\s*$/m, `draft: true\nheldReason: ${reason}`);
     writeFileSync(path, next);
   }

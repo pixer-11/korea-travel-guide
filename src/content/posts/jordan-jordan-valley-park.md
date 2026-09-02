@@ -1,8 +1,8 @@
 ---
-title: 'Jordan Valley Park: Travel Guide (4.3★)'
+title: 'Jordan Valley Park: Hong Kong Travel Guide (4.3★)'
 description: Jordan Valley Park sits off New Clear Water Bay Road in Cha Liu Au — despite the name, it's a bus or taxi ride from Jordan proper, not walkable. 4.3★ (3,410 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
-region: Jordan
+region: Hong Kong
 category: hidden-gem
 pubDate: '2026-08-12T17:31:07.954Z'
 heroImage:

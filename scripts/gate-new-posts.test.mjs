@@ -82,6 +82,21 @@ t('날짜가 어긋난 쌍도 두 파일 모두 지목한다', () => {
   return /aa\.md/.test(r.out) && /bb\.md/.test(r.out) ? null : `두 파일 모두 지목하지 않음: ${r.out.slice(-300)}`;
 });
 
+t('구역 이상치 줄에서 파일을 지목한다', () => {
+  // 09-02: 24편의 region 이 실제 구역과 달랐다. 검사기가 REGION-OUTLIER 를
+  // 찍으면 게이트가 그 파일을 붙들어야 한다(--dry 라 heldReason 은 안 쓴다).
+  // 작은따옴표 없는 가짜 명령: 게이트의 cmd 는 작은따옴표 문자열이라 안쪽에
+  // 작은따옴표가 들어가면 사본이 SyntaxError 로 죽고, 그 스택트레이스에 파일명이
+  // 찍혀 "지목했다"로 오판된다. 그래서 크래시가 아님도 함께 확인한다.
+  const fake = `node -e "console.log(\\\\"REGION-OUTLIER: sai-kung-hong-kong-space-museum.md 18.2 km from the Sai Kung centre\\\\"); process.exit(1)"`;
+  const r = runWith([['node scripts/audit-region-outliers.mjs', fake]]);
+  if (/SyntaxError|GATE-CHECKER-CRASHED/.test(r.out)) return `게이트 사본이 죽음: ${r.out.slice(-300)}`;
+  if (!/WOULD HOLD/.test(r.out)) return `붙들지 않음: ${r.out.slice(-300)}`;
+  if (!/sai-kung-hong-kong-space-museum\.md/.test(r.out)) return `파일 미지목: ${r.out.slice(-300)}`;
+  if (!/지역 태그/.test(r.out)) return `사유 미표기: ${r.out.slice(-300)}`;
+  return null;
+});
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;
