@@ -533,8 +533,6 @@ jobs:
           set -o pipefail
           npm run generate 2>&1 | tee -a /tmp/gen.log
           node scripts/translate-posts.mjs || true
-          node scripts/translate-topics.mjs || true
-          node scripts/translate-static.mjs || true
           # Replacement posts are generated AFTER the wall-thumbnail step ran,
           # so without this their cards rendered blank (bordeaux-miroir-d-eau,
           # first gated run).
