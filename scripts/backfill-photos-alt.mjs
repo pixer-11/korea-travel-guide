@@ -32,6 +32,7 @@ import { hoursProblems } from './audit-hours-claims.mjs';
 import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-target.mjs';
 import { twinIndex } from './lib/live-event-twins.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
+import { identityRejection } from './lib/photo-verdict.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -65,6 +66,17 @@ const vmismatch = new Set();
 // slug only when the verdict belongs to the hero it is CURRENTLY showing.
 const vmismatchUrls = new Map(); // slug → Set(url judged MISMATCH or WEAK)
 let auditStore = null;      // the parsed store, so an acquittal can be written back
+// "Judged wrong for this post" is a fact about the PHOTO, not about one URL.
+// The store is keyed by exact URL, so when Wikimedia began answering on
+// thumb.wikimedia.org (2026-08-31) every stored rejection went invisible and
+// this patrol re-attached four photos the identity audit had thrown out —
+// among them a Hong Kong congee shop on a Gardena restaurant guide. Exact key
+// first (unchanged), then the same Commons file under any host or width.
+const judgedWrong = (slug, url, category) => {
+  const exact = auditStore?.[`${slug}\x01${url}`];
+  if (exact && /MISMATCH/.test(String(exact.verdict))) return exact;
+  return identityRejection(auditStore, slug, url, category);
+};
 let auditDirty = false;
 const acquitted = [];
 if (existsSync('data/visual-audit.json')) {
@@ -321,8 +333,8 @@ for (const f of files) {
       // the candidate quota: four remembered rejects ("Japanese woodblock
       // illustration" ×3 for HIGE DANDism) filled it every night and the
       // venue search that had Taipei Dome was never reached (2026-08-23).
-      const prior = auditStore?.[`${slug}\x01${pick.url}`];
-      if (prior && /MISMATCH/.test(String(prior.verdict))) { budget.alreadyJudged(); continue; }
+      const prior = judgedWrong(slug, pick.url, data.category);
+      if (prior) { budget.alreadyJudged(); continue; }
       budget.accepted();
       cands.push(pick);
     }
@@ -346,8 +358,8 @@ for (const f of files) {
         for (const o of ov) {
           if (cands.length >= 4) break;
           if (!tokens(o.title || '').includes(anchor)) continue;
-          const prior = auditStore?.[`${slug}\x01${o.url}`];
-          if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
+          const prior = judgedWrong(slug, o.url, data.category);
+          if (prior) continue;
           if (used.has(o.url)) continue;
           console.log(`   ${slug}: openverse candidate titled for the act — "${String(o.title).slice(0, 60)}"`);
           cands.push({ ...o, via: 'openverse-act' });
@@ -371,8 +383,8 @@ for (const f of files) {
           if (cands.length >= 4) break;
           const tt = tokens(o.title || '');
           if (!cityToks.some((t) => tt.includes(t))) continue;
-          const prior = auditStore?.[`${slug}\x01${o.url}`];
-          if (prior && /MISMATCH/.test(String(prior.verdict))) continue;
+          const prior = judgedWrong(slug, o.url, data.category);
+          if (prior) continue;
           if (used.has(o.url)) continue;
           console.log(`   ${slug}: citywide festival — host-city photo as last-resort candidate ("${String(o.title).slice(0, 50)}")`);
           cands.push({ ...o, cityscape: true, via: 'openverse-city' });
@@ -420,8 +432,8 @@ for (const f of files) {
     // bali-livingstone and chiang-mai-the-baristro came back carrying a photo the
     // audit had marked MISMATCH the day before — a genuine swap, straight back
     // into the same quarantine. The verdict store already knows; ask it.
-    const priorVerdict = auditStore[`${slug}\x01${cand.url}`];
-    if (priorVerdict && /MISMATCH/.test(String(priorVerdict.verdict))) {
+    const priorVerdict = judgedWrong(slug, cand.url, data.category);
+    if (priorVerdict) {
       console.log(`   ${slug}: candidate was judged wrong before (${priorVerdict.reasonKo || priorVerdict.reason}) — skipping`);
       continue;
     }

@@ -20,6 +20,7 @@ import { unsplashNum } from './lib/images.mjs';
 import { offTopicToken } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { keyToken } from './lib/commons.mjs';
+import { identityRejection } from './lib/photo-verdict.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
 import { words as paraWords } from '../src/lib/paragraphs.mjs';
@@ -583,8 +584,14 @@ export function photoVerificationProblems(posts, store, { today = new Date().toI
   const VENUE = new Set(['restaurant', 'trendy', 'hidden-gem', 'attraction']);
   const unverified = [];
   for (const p of posts) {
-    if (!VENUE.has(p.category) || !p.url) continue;
-    const v = store[`${p.f.replace(/\.md$/, '')}${SEP}${p.url}`];
+    // A held post is not "still published" — being held IS what the
+    // quarantine does, so reporting it every night is an alert that lies.
+    if (!VENUE.has(p.category) || !p.url || p.draft === true) continue;
+    const slug = p.f.replace(/[.]md$/, '');
+    const v = store[`${p.f.replace(/\.md$/, '')}${SEP}${p.url}`]
+      // The same photo under another host or thumbnail width is the same
+      // photo — one Commons file, several URLs (2026-08-31).
+      || identityRejection(store, slug, p.url, p.category);
     if (v && /MISMATCH/.test(String(v.verdict))) {
       issues.push(`UNQUARANTINED-MISMATCH: ${p.f} — photo judged wrong on ${String(v.at).slice(0, 10)} (${v.reasonKo || v.reason || '?'}) but the post is still published`);
       continue;

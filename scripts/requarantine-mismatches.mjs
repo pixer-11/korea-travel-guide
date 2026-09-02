@@ -26,6 +26,7 @@ import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { isMeasurementFailure } from './lib/audit-verdict.mjs';
+import { identityRejection } from './lib/photo-verdict.mjs';
 import matter from 'gray-matter';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -45,12 +46,19 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   const url = data.heroImage?.url;
   if (!url) continue;
   const slug = f.replace(/\.md$/, '');
-  const v = store[`${slug}\x01${url}`];
-  if (!v || !/MISMATCH/.test(String(v.verdict))) continue;
+  const exact = store[`${slug}\x01${url}`];
   // A row that records a failed download is not a judgement about the photo;
   // the weekly prune forgets it, but this runs nightly and must not act on it
   // in between (a 429 at 04:35 would otherwise unpublish a correct page).
-  if (isMeasurementFailure(v)) continue;
+  const judged = exact && /MISMATCH/.test(String(exact.verdict)) && !isMeasurementFailure(exact) ? exact : null;
+  // The store is keyed by the exact URL, and one photo has had several: the
+  // same Commons file started arriving on thumb.wikimedia.org on 2026-08-31
+  // and under a second thumbnail width, so a rejection recorded against one
+  // key said nothing about the other — and vision, which cannot see identity,
+  // put a Hong Kong congee shop back on a Gardena restaurant guide. An
+  // identity-grade rejection follows the FILE.
+  const v = judged || identityRejection(store, slug, url, data.category);
+  if (!v) continue;
   requarantined++;
   console.log(`  🚫 ${slug}: live with a stored-MISMATCH hero (${v.reasonKo || v.reason}) — re-quarantining`);
   if (!DRY) {
