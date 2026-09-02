@@ -10,11 +10,6 @@ heroImage:
   credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jumunjin_Lighthouse_20220501_004.jpg
-gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jumunjin_Lighthouse_20220501_004.jpg/1920px-Jumunjin_Lighthouse_20220501_004.jpg
-    credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
-    license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Jumunjin_Lighthouse_20220501_004.jpg
 place:
   id: ChIJu5ptmLCYfDURmSbRP4bS_QM
   name: Jumunjin Lighthouse (주문진등대)

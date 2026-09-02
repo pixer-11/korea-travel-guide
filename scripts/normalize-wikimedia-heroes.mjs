@@ -30,6 +30,7 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
+import { dropGalleryCopiesOfHero } from './lib/gallery-dedupe.mjs';
 
 const POSTS = 'src/content/posts';
 const UA = 'WanderAtlasHeroNormalise/1.0 (pixer.vtm@gmail.com)';
@@ -159,6 +160,7 @@ for (const f of files) {
 
 const info = await imageInfo([...new Set(posts.map((p) => p.file))]);
 
+const touched = new Set();
 let queryStripped = 0, downsized = 0, skipped = 0;
 const audit = DRY ? null : await readJson(AUDIT_PATH);
 const mirror = DRY ? null : await readJson(MIRROR_PATH);
@@ -237,6 +239,7 @@ for (const p of posts) {
   if (p.where === 'hero') data.heroImage.url = next;
   else data.gallery[Number(p.where.split(':')[1])].url = next;
   await writeFile(`${POSTS}/${p.f}`, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+  touched.add(p.f);
   if (p.where !== 'hero') continue; // verdicts and mirrors are keyed by the hero only
   const slug = p.f.replace(/\.md$/, '');
   if (audit && audit[`${slug}\u0001${p.url}`] && !audit[`${slug}\u0001${next}`]) {
@@ -247,6 +250,22 @@ for (const p of posts) {
   // mirror" (BaseLayout.astro) and must travel with the URL like any other.
   if (mirror && (p.url in mirror) && !(next in mirror)) { mirror[next] = mirror[p.url]; mirrorDirty = true; }
 }
+// One picture at two URLs becomes one URL when both ends are normalised, and
+// the page then shows the same photo twice — hero at the top, the same file
+// again halfway down (gangneung-jumunjin-lighthouse, ipoh-han-chin-pet-soo,
+// 2026-09-02). Deduped AFTER the rewrite loop, never inside it: dropping an
+// entry mid-loop would shift the gallery indices the remaining targets are
+// addressed by.
+let deduped = 0;
+for (const file of touched) {
+  const raw = await readFile(`${POSTS}/${file}`, 'utf8');
+  const { data, content } = matter(raw);
+  if (!dropGalleryCopiesOfHero(data)) continue;
+  deduped++;
+  await writeFile(`${POSTS}/${file}`, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+  console.log(`  ✂️  ${file}: the in-body photo became the hero URL — removed`);
+}
+
 // A key carrying the Commons tracking query is never a URL this site serves
 // (cleanCommonsUrl strips it at the source), so any such record is a
 // leftover of an earlier rewrite, not a verdict anyone will look up again.
@@ -262,7 +281,7 @@ for (const store of [audit, mirror]) {
 if (audit && auditDirty) await writeFile(AUDIT_PATH, JSON.stringify(audit, null, 2) + '\n', 'utf8');
 if (mirror && mirrorDirty) await writeFile(MIRROR_PATH, JSON.stringify(mirror, null, 2) + '\n', 'utf8');
 
-console.log(`\n📎 ${posts.length} wikimedia image(s): ${queryStripped} tracking quer(ies) stripped · ${downsized} downsized · ${skipped} left as-is${DRY ? ' (DRY)' : ''}`);
+console.log(`\n📎 ${posts.length} wikimedia image(s): ${queryStripped} tracking quer(ies) stripped · ${downsized} downsized · ${skipped} left as-is · ${deduped} duplicate in-body photo(s) dropped${DRY ? ' (DRY)' : ''}`);
 console.log(`HERO_NORMALISE_SUMMARY total=${posts.length} query_stripped=${queryStripped} downsized=${downsized} skipped=${skipped} verdicts_carried=${carried}`);
 }
 
