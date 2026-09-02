@@ -1,55 +1,55 @@
 ---
 lang: es
 slug: orchard-road-maxwell-food-centre
-srcHash: '45ec7294fd64'
-title: 'Maxwell Food Centre: Dónde comer cerca de Orchard Road'
-description: Maxwell Food Centre es un centro de hawkers en Chinatown, en realidad no está en Orchard Road — queda a unos 15-20 minutos en MRT, cerca de la estación Chinatown MRT (Salida A/E).
-quickAnswer: Maxwell Food Centre es un centro de hawkers en Chinatown, en realidad no está en Orchard Road — queda a unos 15-20 minutos en MRT, cerca de la estación Chinatown MRT (Salida A/E). Ve por el Tian Tian Hainanese Chicken Rice y otros clásicos de hawker, llega antes del mediodía o después de las 2pm para evitar el ajetreo del almuerzo, y lleva efectivo en billetes pequeños. Calcula entre 45 y 60 minutos y combina la visita con un paseo por el cercano Chinatown o Ann Siang Hill.
+srcHash: '79e6eb8ecbe0'
+title: 'Maxwell Food Centre: dónde comer en Chinatown'
+description: Maxwell Food Centre es un centro de comida callejera (hawker) en Chinatown, cerca de la estación Chinatown MRT (salidas A/E), a unos 15-20 minutos en MRT desde Orchard Road.
+quickAnswer: Maxwell Food Centre es un centro de comida callejera (hawker) en Chinatown, cerca de la estación Chinatown MRT (salidas A/E), a unos 15-20 minutos en MRT desde Orchard Road. Vale la pena ir por el Tian Tian Hainanese Chicken Rice y otros clásicos de la cocina callejera; conviene llegar antes del mediodía o después de las 2pm para evitar el ajetreo del almuerzo, y llevar efectivo en billetes pequeños. Calcule entre 45 y 60 minutos para la visita y combínela con un paseo por el cercano Chinatown o por Ann Siang Hill.
 faq:
   - q: ¿Maxwell Food Centre está realmente en Orchard Road?
-    a: No — está en Chinatown, a unos 15-20 minutos de Orchard Road en MRT (de la estación Orchard a la estación Chinatown, Salida A o E).
+    a: 'No: se encuentra en Chinatown, a unos 15-20 minutos de Orchard Road en MRT (desde la estación Orchard hasta la estación Chinatown, salida A o E).'
   - q: ¿Cuánto cuesta comer allí?
-    a: Es un centro de hawkers económico (nivel de precio bajo), así que la mayoría de los platos tienen los precios típicos de un hawker de Singapur — se puede gastar de forma modesta por persona por una comida completa de dos a tres platos.
+    a: 'Es un centro de comida callejera de gama económica, así que la mayoría de los platos tienen precios típicos de este tipo de locales en Singapur: el gasto por persona para una comida completa de dos o tres platos suele ser modesto.'
   - q: ¿Cuál es el plato imprescindible?
-    a: El Tian Tian Hainanese Chicken Rice es el puesto más conocido, pero el centro también tiene muy buenas opciones de dim sum, char kway teow, sopa de pescado y popiah.
-  - q: ¿Cuánto tiempo debería planear pasar allí?
-    a: Calcula entre 45 y 60 minutos para hacer fila y comer, más tiempo si quieres probar varios puestos o si visitas en horas pico de almuerzo.
-  - q: ¿Qué hay cerca si quiero alargar la visita?
-    a: El templo Sri Mariamman, Ann Siang Hill y los mercados callejeros de Chinatown quedan todos a poca distancia a pie, por lo que es fácil armar un itinerario de medio día alrededor de la visita.
+    a: El puesto más conocido es Tian Tian Hainanese Chicken Rice, aunque el centro también ofrece muy buenas opciones de dim sum, char kway teow, sopa de pescado y popiah.
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
+    a: Calcule entre 45 y 60 minutos para hacer cola y comer; más tiempo si quiere probar varios puestos o si visita el lugar en las horas pico del almuerzo.
+  - q: ¿Qué hay cerca para alargar la visita?
+    a: El templo Sri Mariamman, la colina Ann Siang Hill y los mercados callejeros de Chinatown están todos a poca distancia caminando, lo que facilita armar un itinerario de medio día alrededor de la visita.
 ---
 
 ## Por qué existe esta guía
 
-Buscas "dónde comer cerca de Orchard Road" y Maxwell Food Centre suele aparecer — pero conviene ser claros desde el principio: este centro de hawkers está en Chinatown, no en Orchard Road propiamente dicho. Es un ícono de la escena gastronómica de Singapur y un desvío genuinamente que vale la pena desde una estadía en la zona de Orchard, a unos 15-20 minutos en tren.
+Al buscar "dónde comer cerca de Orchard Road", suele aparecer Maxwell Food Centre, pero conviene aclararlo desde el principio: este centro de comida callejera está en Chinatown, no en la propia Orchard Road. Es un referente indiscutible de la escena gastronómica de Singapur y una parada realmente recomendable si uno se aloja cerca de Orchard, a unos 15-20 minutos en tren.
 
-Piensa en esta guía como la versión honesta de "cerca de Orchard Road" — lo suficientemente cerca para una excursión gastronómica de medio día, pero no un almuerzo al que se pueda llegar caminando.
+Piense en esta guía como la versión honesta de "cerca de Orchard Road": lo bastante cerca para una excursión gastronómica de medio día, pero no para un almuerzo a pie.
 
 ## Cómo llegar desde Orchard Road
 
-Desde la estación Orchard MRT (línea North-South, roja), viaja cuatro paradas hasta la estación Chinatown MRT (intercambio de la Downtown Line/North-East Line) — sin necesidad de transbordos si tomas el servicio correcto, o con un cambio en Dhoby Ghaut. La Salida A o E te deja a cinco minutos caminando del centro de hawkers, en 1 Kadayanallur Street, en el borde del distrito de conservación de Tanjong Pagar/Chinatown.
+Desde la estación Orchard MRT (línea North-South, en rojo), son cuatro paradas hasta la estación Chinatown MRT (intercambiador de las líneas Downtown y North-East): no hace falta hacer transbordo si se toma el servicio correcto, o basta con un solo cambio en Dhoby Ghaut. Las salidas A o E dejan a apenas cinco minutos a pie del centro de comida, ubicado en 1 Kadayanallur Street, al borde del distrito de conservación de Tanjong Pagar/Chinatown.
 
-Un taxi o un servicio de transporte privado desde Orchard Road toma entre 10 y 15 minutos dependiendo del tráfico y cuesta una tarifa fija modesta — razonable para un grupo, pero el MRT es más económico y a menudo más rápido en horas pico.
+Un taxi o un servicio de transporte con app desde Orchard Road tarda entre 10 y 15 minutos según el tráfico y cuesta una tarifa fija modesta; resulta razonable para un grupo, pero el MRT sale más barato y suele ser más rápido en horas pico.
 
 ## Qué comer
 
-Maxwell es un salón de hawkers de un solo piso, al aire libre, repleto de decenas de puestos, y tiene una calificación de 4.4 en más de 23,000 reseñas — una señal sólida para un patio de comidas de este tamaño. El puesto por el que la mayoría de los visitantes hace fila es **Tian Tian Hainanese Chicken Rice**, conocido por su pollo escalfado sedoso y su arroz aromático cocido en caldo de pollo; se puede esperar fila la mayor parte del día.
+Maxwell es un pabellón de comida al aire libre, de una sola planta, repleto de decenas de puestos, y acumula una calificación de 4.4 en más de 23.000 reseñas, una cifra notable para un espacio de este tamaño. El puesto que concentra la mayor parte de las colas es **Tian Tian Hainanese Chicken Rice**, célebre por su pollo escalfado sedoso y su arroz aromático cocido en caldo de pollo; es habitual encontrar fila casi todo el día.
 
-Más allá del chicken rice, busca puestos que preparan dim sum, char kway teow, sopa de pescado, popiah y Hokkien mee — la reputación del centro se basa en esta mezcla de clásicos callejeros chinos, más que en un solo plato. Los precios son de nivel hawker (este es un lugar de categoría económica, no alta cocina), así que es normal pedir dos o tres platos pequeños para compartir en la mesa.
+Más allá del arroz con pollo, hay puestos destacados de dim sum, char kway teow, sopa de pescado, popiah y Hokkien mee: la buena reputación del centro se apoya en esta variedad de clásicos de la comida callejera china, no en un único plato estrella. Los precios son los propios de un hawker centre (un local de gama económica, no de alta cocina), así que es normal pedir dos o tres platos pequeños para compartir en la mesa.
 
 ## Cómo moverse por el lugar
 
-No hay una única entrada a la cual dirigirse — el salón es una cuadrícula de puestos con asientos compartidos tipo banca en el medio, así que conviene dar una vuelta completa antes de decidirte por una fila. Los asientos se llenan rápido a la hora del almuerzo, por lo que una táctica común es que una persona del grupo consiga mesa mientras las demás hacen fila en distintos puestos.
+No hay una entrada única a la que dirigirse: el pabellón es una cuadrícula de puestos con bancos compartidos en el centro, así que conviene dar una vuelta completa antes de decidirse por una cola. Los asientos se ocupan rápido a la hora del almuerzo, por lo que una táctica habitual es que una persona del grupo reserve mesa mientras las demás hacen cola en distintos puestos.
 
-El pago es variado: muchos puestos ya aceptan PayNow o tarjeta, pero varios de los puestos más antiguos siguen aceptando solo efectivo, especialmente los que tienen más trayectoria. Las servilletas, los cubiertos y los condimentos suelen ser de autoservicio en mostradores comunes cerca de las mesas.
+El pago es mixto: muchos puestos ya aceptan PayNow o tarjeta, pero bastantes de los más antiguos —justamente los de mayor renombre— solo aceptan efectivo. Las servilletas, los cubiertos y los condimentos suelen ser de autoservicio, en mostradores comunes cerca de las mesas.
 
 ## Cuándo ir
 
-El almuerzo (aproximadamente de 11:30am a 1:30pm) y la cena (de 6:30pm a 8pm) son los momentos de mayor ajetreo, con filas en los puestos populares que superan fácilmente los 15 minutos. Entre semana, a media tarde, alrededor de las 2:30-4pm, hay notablemente menos gente, al igual que justo cuando abren los puestos por la mañana para los platos de desayuno como el congee y la leche de soya.
+El almuerzo (aproximadamente de 11:30am a 1:30pm) y la cena (de 6:30pm a 8pm) son los momentos de mayor afluencia, con colas en los puestos populares que pueden superar los 15 minutos. A media tarde entre semana, hacia las 2:30-4pm, el lugar está notablemente más tranquilo, al igual que justo cuando abren los puestos por la mañana para platos de desayuno como las gachas de arroz (porridge) y la leche de soja.
 
-Los fines de semana atraen tanto a turistas como a familias locales que hacen sus compras cerca, así que espera las mesas más llenas en esos días. El centro es una estructura techada pero al aire libre, así que un día lluvioso fuera de las horas pico puede ser, en realidad, un momento agradable y menos concurrido para visitarlo.
+Los fines de semana atraen tanto a turistas como a familias locales que hacen sus compras por la zona, así que es cuando las mesas están más llenas. Se trata de una estructura techada pero abierta al aire libre, así que un día lluvioso fuera de las horas punta puede ser, de hecho, un buen momento para visitarlo con menos gente.
 
 ## Cómo visitarlo como un local
 
-Maxwell está totalmente descubierto — recibe grupos turísticos, aparece en guías de viaje y tiene filas largas a diario, así que no tiene sentido fingir que es un secreto. La forma en que los habituales lo manejan es programando sus visitas fuera de los dos picos de almuerzo/cena y evaluando el largo de la fila de un puesto antes de decidir si esperar o cambiarse a otro más corto cercano; la calidad de la comida en muchos puestos es lo suficientemente alta como para que saltarse la fila del puesto más famoso rara vez signifique una comida peor.
+Maxwell no tiene nada de secreto: recibe grupos turísticos, aparece en todas las guías y tiene colas largas a diario, así que no tiene sentido fingir lo contrario. Los habituales lo resuelven programando sus visitas fuera de los dos picos de almuerzo y cena, y evaluando primero el largo de la cola de un puesto antes de decidir si esperar o pasar a otro cercano con menos gente; la calidad de la comida en muchos de los puestos es lo bastante alta como para que saltarse la fila más famosa rara vez signifique una comida peor.
 
-Se pide señalando el nombre del plato en el letrero o simplemente diciendo el nombre del plato (por ejemplo, "chicken rice, small") — los encargados de los puestos están acostumbrados a pedidos rápidos y sin rodeos, y agradecen a los visitantes que ya han decidido antes de llegar al mostrador. Lleva billetes pequeños y monedas para los puestos que solo aceptan efectivo, y trata el centro como una parada dentro de un recorrido más largo por Chinatown — el templo Sri Mariamman, Ann Siang Hill y los mercados callejeros de Chinatown quedan todos a poca distancia caminando, lo que facilita combinar el desvío desde Orchard Road en una tarde más completa.
+Para pedir, basta con señalar el nombre del plato en el cartel o simplemente decirlo en voz alta (por ejemplo, "chicken rice, small"): el personal de los puestos está acostumbrado a pedidos rápidos y directos, y agradece a quienes ya han decidido qué comer antes de llegar al mostrador. Conviene llevar billetes y monedas pequeñas para los puestos que solo aceptan efectivo, y conviene también tratar la visita como una parada dentro de un recorrido más largo por Chinatown: el templo Sri Mariamman, la colina Ann Siang Hill y los mercados callejeros de Chinatown están todos a poca distancia caminando, lo que permite convertir la excursión desde Orchard Road en una tarde completa.
