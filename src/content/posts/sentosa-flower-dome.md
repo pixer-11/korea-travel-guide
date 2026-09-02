@@ -1,8 +1,8 @@
 ---
-title: "Flower Dome: Sentosa Travel Guide (4.7★)"
-description: "Flower Dome at Gardens by the Bay is the world's largest columnless glasshouse, located at 18 Marina Gardens Dr on the Bay South side (technically Marina Bay, not Sentosa island, despite how this guide is filed). 4.7★ (26,669 reviews) — what visitors say, hours, and tips."
+title: "Flower Dome: Marina Bay Travel Guide (4.7★)"
+description: "Flower Dome at Gardens by the Bay is the world's largest columnless glasshouse, located at 18 Marina Gardens Dr on the Bay South side in Marina Bay. 4.7★ (26,669 reviews) — what visitors say, hours, and tips."
 country: "Singapore"
-region: "Sentosa"
+region: "Marina Bay"
 category: "attraction"
 pubDate: "2026-09-02T10:44:58.353Z"
 heroImage:
@@ -37,7 +37,7 @@ place:
 tags:
   - "sentosa"
   - "park"
-quickAnswer: "Flower Dome at Gardens by the Bay is the world's largest columnless glasshouse, located at 18 Marina Gardens Dr on the Bay South side (technically Marina Bay, not Sentosa island, despite how this guide is filed). It's open daily 9am to 9pm, and since it's very popular, aim for a weekday morning right at opening or after 6pm to avoid tour groups. Expect to spend 45-75 minutes wandering its themed gardens of olive trees, baobabs and desert succulents."
+quickAnswer: "Flower Dome at Gardens by the Bay is the world's largest columnless glasshouse, located at 18 Marina Gardens Dr on the Bay South side in Marina Bay. It's open daily 9am to 9pm, and since it's very popular, aim for a weekday morning right at opening or after 6pm to avoid tour groups. Expect to spend 45-75 minutes wandering its themed gardens of olive trees, baobabs and desert succulents."
 faq:
   - q: "Is Flower Dome actually on Sentosa island?"
     a: "No. It's part of Gardens by the Bay on the Marina Bay waterfront, about a 20-minute trip from Sentosa via MRT or taxi. The address is 18 Marina Gardens Dr."
@@ -55,7 +55,7 @@ draft: false
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).
 
-Worth flagging before anything else: Flower Dome sits in the Gardens by the Bay complex at 18 Marina Gardens Dr, on the Marina Bay waterfront across from the Marina Bay Sands hotel. It is not physically on Sentosa island. If you've come to Sentosa expecting to find it there, you'll need to backtrack to the Bayfront area, about a 20-minute MRT ride away. This guide treats it as filed, but plan your route accordingly.
+Worth flagging before anything else: Flower Dome sits in the Gardens by the Bay complex at 18 Marina Gardens Dr, on the Marina Bay waterfront across from the Marina Bay Sands hotel. This guide treats it as filed, but plan your route accordingly.
 
 ## What you're actually walking into
 

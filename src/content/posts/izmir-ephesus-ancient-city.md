@@ -1,8 +1,8 @@
 ---
-title: "Ephesus Ancient City: Izmir Travel Guide (4.8★)"
+title: "Ephesus Ancient City: Selcuk Travel Guide (4.8★)"
 description: "Ephesus is the best-preserved Roman city in the eastern Mediterranean, anchored by the Library of Celsus and the Great Theatre. 4.8★ (39,951 reviews) — what visitors say, hours, and tips."
 country: "Turkey"
-region: "Izmir"
+region: "Selcuk"
 category: "attraction"
 pubDate: "2026-08-18T09:12:36.191Z"
 heroImage:

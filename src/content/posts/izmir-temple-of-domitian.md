@@ -1,8 +1,8 @@
 ---
-title: "Temple of Domitian: Izmir Travel Guide"
+title: "Temple of Domitian: Selcuk Travel Guide"
 description: "The Temple of Domitian sits at the top of Curetes Street in the ancient city of Ephesus, near Selçuk in the Izmir region."
 country: "Turkey"
-region: "Izmir"
+region: "Selcuk"
 category: "attraction"
 pubDate: "2026-08-19T08:08:50.947Z"
 heroImage:
