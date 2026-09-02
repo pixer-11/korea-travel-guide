@@ -205,7 +205,10 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   const cut = raw.indexOf('\n---', 3);
   let fm; try { fm = yaml.load(raw.slice(4, cut)); } catch { continue; }
   if (!fm || fm.category !== 'event') continue;
-  const end = String(fm.eventEndDate || fm.eventStartDate || '').slice(0, 10);
+  // YAML parses an unquoted 2026-08-15 into a Date, and String(date) is 'Sat Aug 15 …' —
+  // never < TODAY, so Qingdao and Boryeong were invisible to this tool until 2026-09-02.
+  const rawEnd = fm.eventEndDate || fm.eventStartDate || '';
+  const end = rawEnd instanceof Date ? rawEnd.toISOString().slice(0, 10) : String(rawEnd).slice(0, 10);
   if (!end || end >= TODAY) continue;
   scanned++;
 
