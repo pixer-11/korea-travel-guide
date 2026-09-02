@@ -19,7 +19,7 @@ gallery: []
 tags:
   - singapore
   - event
-quickAnswer: MAMAMOO performed at the Singapore Indoor Stadium on 31 July 2026. Ticketing platforms, on-sale dates, and door times were confirmed through the venue's official channels and MAMAMOO's official fan/social media pages. Attendees traveling via MRT could reach the venue at Stadium/Kallang, with a full night out expected alongside fellow K-pop fans from across Southeast Asia.
+quickAnswer: MAMAMOO performed at the Singapore Indoor Stadium on 31 July 2026. Attendees traveling via MRT could reach the venue at Stadium/Kallang, with a full night out expected alongside fellow K-pop fans from across Southeast Asia.
 faq:
   - q: Where exactly is the concert held?
     a: The Singapore Indoor Stadium at 2 Stadium Walk, part of the Singapore Sports Hub in Kallang. Nearest MRT stations are Stadium (Circle Line) and Kallang (East-West Line).

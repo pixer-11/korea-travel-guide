@@ -25,7 +25,7 @@ faq:
   - q: How much are tickets and where do I buy them?
     a: Exact pricing wasn't confirmed here; ticket tiers and on-sale dates were available through the official David Byrne tour site or The Star Performing Arts Centre's box office page, with tickets available through official or authorized resale channels.
   - q: What time should I arrive on the night?
-    a: Exact doors/showtime for the August 7, 2026 date were confirmed on the official ticket page. As a general rule for this venue, arriving 45-60 minutes early leaves buffer for security screening and finding your seat.
+    a: As a general rule for this venue, arriving 45-60 minutes early left buffer for security screening and finding your seat.
   - q: How long is the show?
     a: Exact runtime hasn't been published, but Byrne's comparable theatrical tours (like American Utopia) have typically run around 100-110 minutes without an opener; treat this as a rough guide, not a guarantee.
   - q: What's nearby if I want to make a night of it?

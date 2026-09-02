@@ -23,7 +23,7 @@ tags:
 quickAnswer: F✦FOREVER — the reunited Taiwanese trio of Jerry Yan, Van Ness Wu and Vic Chou (best known as F4 from "Meteor Garden"), with Mayday's Ashin joining as an honorary fourth member — plays two nights at IMPACT Arena in Nonthaburi on August 1-2, 2026, as part of their 1st World Tour. This is a stadium-scale reunion show, so book flights/hotels in the Muang Thong Thani/Chaeng Watthana area early and confirm exact dates, doors time, and ticket tiers on the official tour and IMPACT Arena channels before you travel.
 faq:
   - q: When exactly is the F✦FOREVER Bangkok show?
-    a: The dates were August 1-2, 2026, two nights at IMPACT Arena in Nonthaburi. The final date and doors time were confirmed on the official tour or IMPACT Arena page.
+    a: The dates were August 1-2, 2026, two nights at IMPACT Arena in Nonthaburi.
   - q: How do I get to IMPACT Arena from central Bangkok?
     a: There's no direct rail line into Nonthaburi's IMPACT Muang Thong Thani complex, so most visitors take a taxi or Grab for the whole trip or for the final leg after riding BTS/MRT toward the city's edge. Allow 30-60+ minutes and extra buffer on concert nights due to traffic.
   - q: Who is performing?

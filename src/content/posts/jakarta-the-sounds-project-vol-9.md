@@ -19,7 +19,7 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: The Sounds Project Vol. 9 ran August 7–9, 2026 at Ecovention Ecopark, Ancol, North Jakarta — a three-day, multi-genre lineup mixing Indonesian acts like Pamungkas and Rizky Febian with international guests such as Australian rockers Jet. Tickets were sold through the official Sounds Project channels, and final set times and gate hours were confirmed on the official site as the festival approached.
+quickAnswer: The Sounds Project Vol. 9 ran August 7–9, 2026 at Ecovention Ecopark, Ancol, North Jakarta — a three-day, multi-genre lineup mixing Indonesian acts like Pamungkas and Rizky Febian with international guests such as Australian rockers Jet. Tickets were sold through the official Sounds Project channels.
 faq:
   - q: What are the official dates for The Sounds Project Vol. 9?
     a: August 7–9, 2026, at Ecovention Ecopark in Ancol, North Jakarta — but confirm on the official event page in case of last-minute changes.

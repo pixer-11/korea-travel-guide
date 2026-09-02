@@ -15,7 +15,7 @@ faq:
   - q: Where exactly is the Lee Hi Jakarta concert?
     a: At Bengkel Hall in the SCBD (Sudirman Central Business District) area of South Jakarta, a well-known business and entertainment hub along Jalan Jenderal Sudirman.
   - q: When is the show?
-    a: August 9, 2026, as announced. This date was confirmed via Lee Hi's official channels and the local promoter.
+    a: August 9, 2026, as announced.
   - q: Who else is performing?
     a: Korean rapper and producer DOK2 is confirmed as a special guest alongside Lee Hi; no other lineup additions have been announced.
   - q: How do I get to Bengkel Hall without a car?

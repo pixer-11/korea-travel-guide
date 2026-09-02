@@ -57,7 +57,19 @@ export const NAMED_DIRECTIONS = /(?:metro|subway|train|bus) to [A-Z][\w'\u2019-]
 //  · "confirm which days are public-access" — a promise only to a regex.
 //  · "check back" — indistinguishable from the next-edition pointer that earns a
 //    returning reader, and deleting that costs more than the stale phrasing does.
-export const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|nearer\s+the\s+time|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|closer\s+to\s+the\s+(?:event|date|festival|show)|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)/i;
+// A promise anchored to a calendar month is still a promise. "Check the official
+// page closer to July 2026" is "closer to the date" with the date filled in, and
+// the 2026-09-02 audit found nine ended events still saying it (Tokyo's E-Prix,
+// Phu Quoc's flute festival, Wuhan's snooker, Da Nang's Airtime Asia...) while
+// the rule reported clean, because it only knew "closer to the date/event/
+// festival/show". The month may carry a year ("August 2026"), a qualifier
+// ("mid-July"), or stand alone ("closer to August"). It may NOT be followed by
+// a day number: Aomori's Nebuta guide says "the earlier evenings in the run
+// (closer to August 2-3) tend to be quieter", which describes the calendar and
+// promises nothing. "nearer the time" gets the same month form for symmetry.
+// The pattern is built from a template only so MONTH can be spliced in twice.
+const MONTH = String.raw`(?:(?:early|mid|late)[-\s])?(?:January|February|March|April|May|June|July|August|September|October|November|December)(?:\s+\d{4})?\b(?!\s*\d)`;
+export const FUTURE_PROMISE = new RegExp(String.raw`\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+)?(?:full\s+)?lineup\s+(?:will|has yet to|have yet to)\b|will\s+be\s+(?:announced|confirmed|revealed|published|released)|is\s+expected\s+to\s+be\s+(?:announced|confirmed)|once\s+(?:released|published|announced|confirmed|they'?re?\s+released)|once\s+(?:it'?s|they'?re|the\s+[\w' -]{1,30}\s+(?:is|are))\s+(?:released|announced|confirmed|published|revealed|locked\s+in)|once\s+(?:ticket\s+)?sales\s+open|wait\s+for\s+[^.\n]{0,50}?\b(?:announcement|announced|confirmation)\b|nearer\s+(?:the\s+time|(?:to\s+)?${MONTH})|TBA|TBC|to\s+be\s+(?:announced|confirmed|revealed)|closer\s+to\s+(?:the\s+(?:event|date|festival|show)|${MONTH})|(?:haven'?t|hasn'?t|weren'?t|wasn'?t)\s+been\s+(?:announced|confirmed|released)|yet\s+to\s+be\s+(?:announced|confirmed|released)|expect\s+(?:the\s+)?(?:full\s+)?(?:lineup|set times|schedule)[^.]{0,40}\bto\s+drop\b)`, 'i');
 
 // (2) The mirror image, and the worse one: the page claims it DID happen.
 //
@@ -75,7 +87,14 @@ export const FUTURE_PROMISE = /\b(tickets\s+(?:go|will go)\s+on\s+sale|(?:the\s+
 // match cannot run past the full stop into the next sentence.
 // A dated, sourced claim ("the lineup was announced on July 1") carries a fact
 // and is left alone; so is "tickets were sold through official channels".
-export const FABRICATED_AVAILABILITY = /\b(?:was|were)\s+(?:published|announced|released|posted)\s+(?:on|through|via)\s+(?:[^.\n]|\.(?=\S)){0,40}\bofficial\b/i;
+// Widened 2026-09-02: the month-anchor repair turned "check letour.fr closer to
+// July 2026" into "the stage towns … were confirmed by the official Tour de
+// France website" — the same invented past in a shape ("confirmed by") the
+// pattern did not know, so the repair tool accepted its own fabrication.
+// And the model, told the phrase must not survive, reached for a synonym twice
+// in the same run: "had been confirmed on the official", "were listed on the
+// official". A synonym for an unverified claim is the same unverified claim.
+export const FABRICATED_AVAILABILITY = /\b(?:was|were|had been|has been|have been)\s+(?:published|announced|released|posted|confirmed|listed|shared)\s+(?:on|through|via|by)\s+(?:[^.\n]|\.(?=\S)){0,40}\bofficial\b/i;
 
 // What a repaired ended-event page may not say, either way round. The repair
 // tool tests its own output against this, so a rewrite that trades a future

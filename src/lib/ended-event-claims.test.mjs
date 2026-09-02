@@ -146,3 +146,74 @@ test('the venue patterns are not sticky between calls', () => {
   assert.equal(guessed(LANG_LANG), true);
   assert.equal(guessed(LANG_LANG), true);
 });
+
+// ─── 2026-09-02 ────────────────────────────────────────────────────────────
+// A promise anchored to a calendar month is still a promise. The rule knew
+// "closer to the date" but not "closer to July 2026", so the 09-02 audit found
+// nine ended events telling readers to check back in a month already past.
+// Fixtures are verbatim from those guides.
+test('a promise anchored to a month is the same class as "closer to the date"', () => {
+  for (const s of [
+    'The safest approach is to check the official Formula E Tokyo E-Prix event page closer to July 2026 for the specific loop.',
+    "Check Airtime Asia's official website and social channels closer to August 2026, and re-check accommodation availability.",
+    "Confirm show timing on the official ticketing page closer to August 2026.",
+    "Exact set times aren't set yet, so check official updates closer to August",   // no year
+    'check the official championship page closer to August for confirmed access routes.',
+    'CHECK THE OFFICIAL PAGE CLOSER TO SEPTEMBER 2026.',   // case-insensitive
+    'closer to September',
+    'closer to mid-July',
+    'check the promoter nearer to August 2026',
+    'check the promoter nearer August',
+  ]) assert.ok(FUTURE_PROMISE.test(s), s);
+});
+
+// The reverse direction: "closer to" is mostly a spatial or descriptive phrase
+// in this corpus (26× "closer to an hour", 15× "closer to yourself"), and a
+// month followed by a day number describes the calendar, not a page update.
+test('"closer to" a place, a quantity, or a dated span is not a promise', () => {
+  for (const s of [
+    'The earlier evenings in the run (closer to August 2-3) tend to be somewhat quieter.',   // aomori-aomori-nebuta-matsuri
+    'Pick a hotel closer to the city center.',
+    'Stay closer to the venue if you want to walk.',
+    'Budget closer to an hour for the queue.',
+    'Hold the umbrella closer to yourself in the crowd.',
+    'Rates climb closer to the season.',
+    'The stand is closer to the main entrance.',
+    'The hotel is closer to Mayfair than to Soho.',   // a month name inside a word
+    'The stop nearer Ho Chi Minh Square is quieter.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+});
+
+test('the month branch reaches the repair tool through the union too', () => {
+  assert.ok(OFFENDING_CLAIM.test('Check the official page closer to July 2026.'));
+  assert.ok(!OFFENDING_CLAIM.test('The earlier evenings (closer to August 2-3) tend to be quieter.'));
+});
+
+// The month-anchor repair on 2026-09-02 traded "check letour.fr closer to July
+// 2026" for "the stage towns … were confirmed by the official Tour de France
+// website" — an invented past in a shape the fabrication rule did not know, so
+// the repair tool passed its own fabrication. Verbatim from that rewrite.
+test('"were confirmed by the official …" is the invented past too', () => {
+  assert.ok(FABRICATED_AVAILABILITY.test('The finalized stage towns, Paris circuit, and any timing changes were confirmed by the official Tour de France website, letour.fr.'));
+  assert.ok(OFFENDING_CLAIM.test('Gate times were confirmed by the official venue page.'));
+  for (const s of [
+    'with the exact 2026 circuit confirmed on the official site.',   // no was/were — a hedge, not a claim
+    'The route was confirmed by the mayor on July 1.',                // sourced, not "official channels"
+    'letour.fr, the official Tour de France website, is the authority for the stage towns.',
+  ]) assert.ok(!FABRICATED_AVAILABILITY.test(s), s);
+});
+
+// Told that "were confirmed by the official" must not survive, the model reached
+// for a synonym twice in the same run. Verbatim from those two rewrites, plus
+// the "shared via" shape the Honne guide carried.
+test('a synonym for an unverified claim is the same unverified claim', () => {
+  for (const s of [
+    'Specific match days and kickoff times had been confirmed on the official festival site.',
+    'Exact doors/showtime for the August 7, 2026 date were listed on the official ticket page.',
+    "further specifics were shared via HONNE's official social media and the local promoter's announcements.",
+  ]) assert.ok(FABRICATED_AVAILABILITY.test(s), s);
+  for (const s of [
+    'Tickets were sold through official channels.',
+    'The official programme listed set times.',
+  ]) assert.ok(!FABRICATED_AVAILABILITY.test(s), s);
+});
