@@ -6,7 +6,7 @@ test('08-22 실제 사례 — quickAnswer·FAQ의 미래 약속을 잡는다', (
   assert.equal(eventFuturePromise({ quickAnswer: "Tickets and exact set times haven't been confirmed here, so check the official site.", body: '', faq: [] }), "haven't been confirmed");
   // The imperative branch (09-02) now claims the whole instruction, "Check the official site closer to" — the residue only has to name the phrase.
   assert.match(eventFuturePromise({ quickAnswer: 'x', body: '', faq: [{ q: 'Date?', a: 'Check the official site closer to the event for updates.' }] }), /closer to/);
-  assert.equal(eventFuturePromise({ quickAnswer: 'x', body: 'Additional acts may be announced closer to the date.', faq: [] }), 'closer to the date');
+  assert.match(eventFuturePromise({ quickAnswer: 'x', body: 'Additional acts may be announced closer to the date.', faq: [] }), /closer to the date/);   // the passive branch (09-03) now claims "announced closer to the date"
 });
 
 test('시간 무관 문구는 통과한다 (태어날 때 깨끗한 글의 모양)', () => {

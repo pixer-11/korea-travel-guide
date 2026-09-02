@@ -251,3 +251,29 @@ test('an imperative with "closer to your visit" is standing advice, not a promis
   assert.ok(!FUTURE_PROMISE.test('Confirm prices closer to your trip.'));
   assert.ok(FUTURE_PROMISE.test('Check official festival information closer to the festival.'));
 });
+
+// ─── 2026-09-03 ────────────────────────────────────────────────────────────
+// Codex review of the imperative branch: it took ANY "closer to" after an
+// imperative, so a station entrance and a sunset time were promises, while four
+// live promise shapes ("nearer the date", "published closer to showtime") were
+// not. The branch now requires a TIME object. All six sentences verbatim.
+test('an imperative anchored to a place or a clock reading is not a promise', () => {
+  for (const s of [
+    'Check the map and use the station entrance closer to the stadium.',
+    "check that day's sunset time before booking; in summer that's closer to 9pm.",   // barcelona-mirador-torre-glories
+    'Sit closer to the start line for the best view.',
+    'Doors opened closer to 7pm than the advertised 6pm.',
+  ]) assert.ok(!FUTURE_PROMISE.test(s), s);
+});
+
+test('"nearer the date" and the passive "published closer to <time>" are promises', () => {
+  for (const s of [
+    'check the official schedule nearer the date',                                     // madrid-formula-1-spanish-grand-prix-madring
+    'confirm nearer the date',                                                         // kaohsiung-post-malone-big-ass-world-tour
+    'exact set times are published closer to showtime by the promoter',                // milan-a-ap-rocky
+    'details are usually published by organizers closer to race weekend',              // le-castellet-bol-d-or
+    'Check the official Formula E website closer to the July 25-26, 2026 date for the confirmed map.',   // tokyo, still
+    'Confirm timings closer to the 26th.',
+    'Verify the shuttle plan closer to race weekend.',
+  ]) assert.ok(FUTURE_PROMISE.test(s), s);
+});
