@@ -10,7 +10,7 @@ eventEndDate: '2026-08-23'
 tags:
   - new delhi
   - event
-quickAnswer: The 2026 BWF World Championships ran August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years. Stars like Shi Yu Qi, An Se-young, Lakshya Sen, and PV Sindhu were expected to headline, with finals typically drawing the biggest crowds on the final weekend.
+quickAnswer: The 2026 BWF World Championships was scheduled for August 17–23, 2026 at the Indira Gandhi Arena in New Delhi — India's first time hosting the event in 17 years. Stars like Shi Yu Qi, An Se-young, Lakshya Sen, and PV Sindhu were expected to headline, with finals typically drawing the biggest crowds on the final weekend.
 faq:
   - q: What are the exact dates and venue for the 2026 BWF World Championships?
     a: August 17–23, 2026, at the Indira Gandhi Arena in New Delhi, India. Always confirm on BWF's official site, as venue details and schedules can shift before the event.

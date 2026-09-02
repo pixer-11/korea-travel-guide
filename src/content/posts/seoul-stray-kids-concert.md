@@ -38,9 +38,10 @@ eventOrganizer:
   name: JYP Entertainment
   url: https://www.jype.com
 ---
+
 ## Why this show mattered
 
-Stray Kids don't play small rooms anymore. What started as a JYP survival-show lineup has turned into one of the biggest self-producing acts in K-pop, the kind of group that can fill an arena two nights running and still leave people outside hoping for a resale ticket. A Seoul date is different from a stop on their world tour — this was a homecoming show, played in front of the fandom base that watched them from trainee days, and that changes the energy in the room.
+Stray Kids don't play small rooms anymore. What started as a JYP survival-show lineup has turned into one of the biggest self-producing acts in K-pop, the kind of group that can fill an arena two nights running and still leave people outside hoping for a resale ticket. A Seoul date is different from a stop on their world tour — this was scheduled as a homecoming show, planned in front of the fandom base that watched them from trainee days, and that was expected to change the energy in the room.
 
 Chants that need no translation, choreography the crowd already knew cold, and a production scale that a touring stage abroad often can't fully replicate were expected to be part of a Seoul date like this.
 
@@ -73,3 +74,4 @@ Etiquette-wise, follow the crowd's lead on fan chants and light-stick colors —
 ## Beyond the concert
 
 Since KSPO Dome sits inside Olympic Park, fans could build in time before or after the show to walk the park itself — the Olympic Museum, the outdoor sculpture park, and the lake loop are all a short stroll from the dome and make for an easy, low-key way to fill the afternoon before an evening of screaming Stray Kids lyrics back at the stage.
+

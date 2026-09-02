@@ -23,7 +23,7 @@ heroImage:
 tags:
   - jakarta
   - event
-quickAnswer: LALALA Fest 2026 ran August 22–23 at Jakarta International Expo (JIExpo) in Kemayoran, North Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline and The Flaming Lips alongside 30-plus other acts.
+quickAnswer: LALALA Fest 2026 was scheduled for August 22–23 at Jakarta International Expo (JIExpo) in Kemayoran, North Jakarta, headlined by Steve Lacy, Two Door Cinema Club, Kodaline and The Flaming Lips alongside 30-plus other acts.
 faq:
   - q: When exactly is LALALA Fest 2026?
     a: It's scheduled for August 22–23, 2026, at Jakarta International Expo (JIExpo) in Kemayoran, North Jakarta. Confirm final dates on the official festival site, as event dates can occasionally shift.

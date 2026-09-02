@@ -19,7 +19,7 @@ gallery: []
 tags:
   - paris
   - event
-quickAnswer: The European Aquatics Championships ran August 1–16, 2026, in Paris and Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics, most notably the Paris La Défense Arena and the Olympic Aquatics Centre in Saint-Denis. The programme covered swimming, diving, artistic swimming, water polo and open water events spread across the two host areas, with competition schedule and ticket details published on the official European Aquatics (LEN) and Paris 2026 event channels.
+quickAnswer: The European Aquatics Championships was scheduled for August 1–16, 2026, in Paris and Saint-Denis, using venues built or repurposed for the Paris 2024 Olympics, most notably the Paris La Défense Arena and the Olympic Aquatics Centre in Saint-Denis. The programme was planned to cover swimming, diving, artistic swimming, water polo and open water events spread across the two host areas, with competition schedule and ticket details published on the official European Aquatics (LEN) and Paris 2026 event channels.
 faq:
   - q: What are the official dates of the 2026 European Aquatics Championships?
     a: August 1–16, 2026, in Paris and Saint-Denis, France. Always double-check the final schedule on the official European Aquatics (LEN) site, as specific event days within that window vary by discipline.

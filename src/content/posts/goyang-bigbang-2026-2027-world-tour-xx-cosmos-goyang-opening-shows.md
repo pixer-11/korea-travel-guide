@@ -13,10 +13,10 @@ eventEndDate: '2026-08-23'
 tags:
   - goyang
   - event
-quickAnswer: 'BIGBANG played three stadium shows at Goyang Stadium on August 21–23, 2026, as part of their "XX: COSMOS" world tour marking 20 years since debut. Nearest access is via Wonheung Station (Seoul Subway Line 3).'
+quickAnswer: 'BIGBANG was scheduled to play three stadium shows at Goyang Stadium on August 21–23, 2026, as part of their "XX: COSMOS" world tour marking 20 years since debut. Nearest access is via Wonheung Station (Seoul Subway Line 3).'
 faq:
   - q: When exactly is the Goyang leg of the tour?
-    a: BIGBANG's three shows took place on August 21, 22, and 23, 2026, at Goyang Stadium.
+    a: BIGBANG's three shows were scheduled for August 21, 22, and 23, 2026, at Goyang Stadium.
   - q: How do I get to Goyang Stadium?
     a: Take Seoul Subway Line 3 to Wonheung Station, then follow signage/crowd flow toward the stadium; if coming from Incheon Airport, connect via AREX or an airport bus into Seoul first, then transfer toward Goyang.
   - q: Where can I buy tickets?

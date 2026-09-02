@@ -18,7 +18,7 @@ heroImage:
 tags:
   - abu dhabi
   - event
-quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr took place on July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr. Exact fight-card start times, prelim details, and ticket on-sale dates were provided ahead of UFC Fight Night: Ankalaev vs Rountree Jr on July 25, 2026, in Abu Dhabi.'
+quickAnswer: 'UFC Fight Night: Ankalaev vs Rountree Jr was scheduled to take place on July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi, headlined by a light heavyweight clash between Magomed Ankalaev and Khalil Rountree Jr. Exact fight-card start times, prelim details, and ticket on-sale dates were provided ahead of UFC Fight Night: Ankalaev vs Rountree Jr on July 25, 2026, in Abu Dhabi.'
 faq:
   - q: 'When and where is UFC Fight Night: Ankalaev vs Rountree Jr?'
     a: It's scheduled for July 25, 2026 at Etihad Arena on Yas Island, Abu Dhabi. Confirm this date on UFC's official website, as fight cards occasionally shift.

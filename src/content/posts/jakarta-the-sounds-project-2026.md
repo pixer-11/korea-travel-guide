@@ -16,7 +16,7 @@ tags:
 quickAnswer: The Sounds Project 2026 was scheduled to run August 7–9, 2026 in Jakarta, headlined by Australian rock band Jet alongside a strong local lineup — Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara.
 faq:
   - q: What are the exact dates for The Sounds Project 2026?
-    a: The Sounds Project 2026 took place August 7–9, 2026, in Jakarta, Indonesia.
+    a: The Sounds Project 2026 was scheduled to take place August 7–9, 2026, in Jakarta, Indonesia.
   - q: Who is playing?
     a: Confirmed acts include Australian rock band Jet plus Indonesian artists Pamungkas, Rizky Febian, JUICY LUICY, For Revenge, and Barasuara. Additional names may be added; check the official lineup poster before finalizing plans.
   - q: Where is the festival held and how do I get there?

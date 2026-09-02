@@ -8,8 +8,14 @@
 // 원문에 없던 결과를 잡고, 원문이 이미 말한 사실과 중립 표현은 놓아주는지
 // 양방향으로 확인한다.
 //
+// 09-03 2차: 원문 어딘가에 같은 동사만 있으면 통과시키던 구멍 — "The 2025
+// edition sold out"이 새로 쓴 "The 2026 edition sold out"을 허가했다 — 을
+// 막는다. 허가하는 원문 문장은 같은 판(연도·"last year"·"previous edition")을
+// 가리켜야 한다. 그리고 기사 전체를 읽는 ownEditionOutcomes 가 이번 판의 결과
+// 주장만 잡고 지난 판·관례·역사는 놓아주는지 확인한다.
+//
 //   node scripts/fix-ended-event-tense.test.mjs
-import { inventedOutcomes, OUTCOME_VERB } from './lib/invented-outcomes.mjs';
+import { inventedOutcomes, ownEditionOutcomes, editionMarkers, OUTCOME_VERB } from './lib/invented-outcomes.mjs';
 
 const cases = [];
 const t = (name, fn) => cases.push([name, fn]);
@@ -46,6 +52,16 @@ const invented = [
   ['dubai-def-leppard took place',
     'The show is on August 2, 2026, at Coca-Cola Arena.',
     'The show took place on August 2, 2026, at Coca-Cola Arena.'],
+  // 09-03 2차 — 다른 판의 같은 동사는 허가가 아니다.
+  ['2025 edition licenses nothing about 2026',
+    'The 2025 edition sold out in two days.',
+    'The 2026 edition sold out in two days.'],
+  ['"last year" licenses nothing about "this year"',
+    'Last year the race ran on a Sunday.',
+    'This year the race ran on a Saturday.'],
+  ['"previous edition" licenses nothing about a dated edition',
+    'The previous edition drew 50,000 visitors.',
+    'The 2026 edition drew 60,000 visitors.'],
 ];
 for (const [name, before, after] of invented) {
   t(`잡는다: ${name}`, () => {
@@ -68,6 +84,12 @@ const neutral = [
   ['plain tense shift of a stated fact',
     'Doors open at 6pm and the venue is in Pasay.',
     'Doors opened at 6pm and the venue is in Pasay.'],
+  ['same edition, same verb — the 2025 fact stays licensed',
+    'The 2025 edition sold out in two days; tickets go on sale in June.',
+    'The 2025 edition sold out in two days.'],
+  ['no edition marker on either side — licensed',
+    'Last edition\'s shuttle ran late. The shuttle ran every ten minutes.',
+    'The shuttle ran every ten minutes.'],
 ];
 for (const [name, before, after] of neutral) {
   t(`놓아준다: ${name}`, () => {
@@ -75,14 +97,6 @@ for (const [name, before, after] of neutral) {
     return hits.length ? `중립 표현을 결과로 오인: ${JSON.stringify(hits)}` : null;
   });
 }
-
-// 원문이 이미 결과로 말한 것은 결과가 아니다 (역방향 가드).
-t('원문에 이미 있는 "sold out"은 통과', () => {
-  const before = 'The 2025 edition sold out in two days; tickets go on sale in June.';
-  const after = 'The 2025 edition sold out in two days.';
-  const hits = inventedOutcomes(before, after);
-  return hits.length ? `원문의 사실을 기각: ${JSON.stringify(hits)}` : null;
-});
 
 t('원문의 "ran"은 통과시키되 새로 등장한 "took place"는 잡는다', () => {
   const before = 'Last year the race ran on a Sunday.';
@@ -106,6 +120,35 @@ t('OUTCOME_VERB 는 단어 경계를 지킨다 ("Iran", "granted" 는 ran 이 �
 
 t('OUTCOME_VERB 는 전역 플래그라 matchAll 에 쓸 수 있다', () =>
   OUTCOME_VERB.global ? null : 'g 플래그 없음');
+
+t('editionMarkers: 연도와 상대 표현을 모두 읽는다', () => {
+  const m = editionMarkers('Last year and in 2025 the previous editions ran late; 2026 too.');
+  for (const k of ['2025', '2026', 'last year', 'previous edition']) if (!m.has(k)) return `${k} 누락: ${[...m]}`;
+  return null;
+});
+
+// ownEditionOutcomes — 기사 전체 읽기.
+t('own: 이번 판의 "took place / was held / ran" 을 잡는다', () => {
+  const text = 'The festival took place July 25–26, 2026. It was held at Paradise City. The shuttle ran every ten minutes.';
+  const hits = ownEditionOutcomes(text, 2026);
+  return hits.length === 3 ? null : `3건이어야 하는데 ${hits.length}: ${JSON.stringify(hits)}`;
+});
+
+t('own: 지난 판·역사·관례는 놓아준다', () => {
+  const text = 'The 2025 edition sold out. Last year the race ran on a Sunday. The venue has hosted the Commonwealth Games. Crowds typically arrive early. Past editions drew big crowds.';
+  const hits = ownEditionOutcomes(text, 2026);
+  return hits.length ? `오탐: ${JSON.stringify(hits)}` : null;
+});
+
+t('own: 이번 판 연도가 함께 있으면 잡는다', () => {
+  const hits = ownEditionOutcomes('Unlike 2025, the 2026 edition sold out in an hour.', 2026);
+  return hits.length === 1 ? null : `1건이어야 하는데 ${hits.length}`;
+});
+
+t('own: "was scheduled to run" 은 결과가 아니다', () => {
+  const hits = ownEditionOutcomes('The festival was scheduled to run July 25–26, 2026, at Paradise City.', 2026);
+  return hits.length ? `오탐: ${JSON.stringify(hits)}` : null;
+});
 
 let fail = 0;
 for (const [name, fn] of cases) {

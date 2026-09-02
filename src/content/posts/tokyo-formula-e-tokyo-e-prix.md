@@ -19,7 +19,7 @@ gallery: []
 tags:
   - tokyo
   - event
-quickAnswer: The Formula E Tokyo E-Prix took place on July 25-26, 2026 on the Tokyo Street Circuit, marking one of the first times international open-wheel electric racing ran on closed public roads in central Tokyo. The race weekend was held in the Odaiba/waterfront or central business district area and included practice, qualifying, and the main E-Prix race across the two days.
+quickAnswer: The Formula E Tokyo E-Prix was scheduled for July 25-26, 2026 on the Tokyo Street Circuit, marking one of the first times international open-wheel electric racing would run on closed public roads in central Tokyo. The race weekend was planned for the Odaiba/waterfront or central business district area and was set to include practice, qualifying, and the main E-Prix race across the two days.
 faq:
   - q: Where exactly is the Tokyo Street Circuit?
     a: The precise street circuit layout and district were not detailed in this guide. The event was scheduled for July 25-26, 2026.

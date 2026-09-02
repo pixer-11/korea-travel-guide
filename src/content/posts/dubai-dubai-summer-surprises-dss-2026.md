@@ -34,9 +34,10 @@ eventOffers:
   currency: AED
 eventFactsAsked: true
 ---
+
 ## What DSS Actually Is
 
-Dubai Summer Surprises (DSS) wasn't one event — it was an umbrella festival that blanketed the city for nearly two months. DSS 2026 ran from July 3 through August 30. Rather than a single gate visitors walked through, it was a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. For those visiting Dubai in peak summer heat, DSS was the reason malls felt livelier and kids' activities multiplied.
+Dubai Summer Surprises (DSS) wasn't one event — it was an umbrella festival that blanketed the city for nearly two months. DSS 2026 was scheduled to run from July 3 through August 30. Rather than a single gate visitors walked through, it was planned as a season-long push of retail discounts, raffles, in-mall entertainment, and family-oriented programming spread across the emirate. For those visiting Dubai in peak summer heat, DSS was expected to be the reason malls felt livelier and kids' activities multiplied.
 
 ## Why It Exists
 
@@ -50,7 +51,7 @@ Dubai's malls doubled as the festival's backbone, and most sit directly on the D
 
 Historically, DSS programming has extended past retail into family entertainment: indoor theme parks (IMG Worlds of Adventure, Dubai Parks and Resorts), water parks, and Dubai's aquariums and indoor attractions often run parallel promotions during the festival window. DSS was a coordinated seasonal campaign rather than a fixed program.
 
-## When It Ran
+## Dates and window
 
 The full window was July 3 to August 30, 2026. Early-to-mid July tends to see fresh promotional rollouts and raffle launches, while late August often brings final-week pushes before the festival wraps. Weekday evenings, after the harshest afternoon heat has passed, are typically calmer in malls than weekend evenings, when local families come out in force.
 
@@ -61,3 +62,4 @@ Dubai residents tend to treat DSS less as a single spectacle and more as backgro
 The most common visitor mistake was expecting a defined festival ground or opening ceremony; DSS was diffuse by design, so arriving without a plan for which mall or attraction to target could lead to aimless wandering. Picking two or three specific attractions or malls in advance, checking their individual DSS promotions, and using the metro as the main connector between them was the more reliable approach.
 
 Etiquette-wise, standard UAE mall norms applied: modest dress is appreciated (though not strictly enforced in most malls), and Friday midday hours may see reduced activity due to prayer times.
+

@@ -55,7 +55,7 @@ Because this is a two-city festival, attendees needed to decide whether they wer
 
 ## What to expect on site
 
-Multiple outdoor and indoor stages ran concurrently — Zozo Marine Stadium hosted the big headline sets, while Makuhari Messe's halls housed additional stages, often with better shade and air conditioning, a meaningful consideration in mid-August humidity. Food areas typically mixed festival staples (yakisoba, karaage, beer stands) with international vendors. Given the size, real walking distances between stages meant transit time was needed rather than trying to catch back-to-back sets on opposite ends of the grounds.
+Multiple outdoor and indoor stages were scheduled to run concurrently — Zozo Marine Stadium was set to host the big headline sets, while Makuhari Messe's halls were to house additional stages, often with better shade and air conditioning, a meaningful consideration in mid-August humidity. Food areas typically mixed festival staples (yakisoba, karaage, beer stands) with international vendors. Given the size, real walking distances between stages meant transit time was needed rather than trying to catch back-to-back sets on opposite ends of the grounds.
 
 Earplugs were worth having for anyone stage-front for the louder rock acts, and bag checks and standard festival security were in place at entry gates.
 

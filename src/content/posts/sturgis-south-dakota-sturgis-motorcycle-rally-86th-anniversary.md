@@ -42,6 +42,7 @@ eventOffers:
   currency: USD
 eventFactsAsked: true
 ---
+
 ## Why go
 
 Sturgis is the largest motorcycle rally on the planet, and the 2026 edition marked its 86th anniversary with the theme "Sturgis Salutes America." What began in 1938 as a small race organized by the Jackpine Gypsies motorcycle club has grown into a ten-day, half-a-million-strong takeover of a South Dakota town whose year-round population is only a few thousand. Main Street becomes a wall-to-wall procession of custom choppers and touring bikes, vendor rows sell leather and chrome for blocks, and national touring acts play nightly at venues scattered across the Black Hills.
@@ -50,7 +51,7 @@ Beyond the spectacle, the surrounding landscape — granite peaks, pine forests,
 
 ## When it happens
 
-The 2026 rally ran **August 7–16**. That ten-day window is traditional for Sturgis: it always lands in early-to-mid August, and the dates rarely shift year to year. Concert lineups, race schedules, and satellite events for the year were finalized only a few months out and published on the official Sturgis Motorcycle Rally site.
+The 2026 rally was scheduled for **August 7–16**. That ten-day window is traditional for Sturgis: it always lands in early-to-mid August, and the dates rarely shift year to year. Concert lineups, race schedules, and satellite events for the year were finalized only a few months out and published on the official Sturgis Motorcycle Rally site.
 
 ## Getting there
 
@@ -74,3 +75,4 @@ Spending at least three to four days combines rally atmosphere with actual ridin
 Early in the ten-day run (the first two or three days) tends to be less crowded than the middle weekend, which is typically the peak. Temperatures in the Black Hills in August commonly reach the 80s–90s°F by day and cool markedly at night, so layered riding gear matters. Lodging in Sturgis itself sells out roughly a year in advance for rally week — Rapid City and Deadwood are reliable fallbacks with more inventory.
 
 Prices for camping, tickets, and vendor goods fluctuate year to year and venue-by-venue, so any figures circulated beforehand were approximate, with current rates and event access confirmed through the official Sturgis Motorcycle Rally website.
+

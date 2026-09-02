@@ -19,7 +19,7 @@ gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: The Sounds Project Vol. 9 ran August 7–9, 2026 at Ecovention Ecopark, Ancol, North Jakarta — a three-day, multi-genre lineup mixing Indonesian acts like Pamungkas and Rizky Febian with international guests such as Australian rockers Jet. Tickets were sold through the official Sounds Project channels.
+quickAnswer: The Sounds Project Vol. 9 was scheduled for August 7–9, 2026 at Ecovention Ecopark, Ancol, North Jakarta — a three-day, multi-genre lineup mixing Indonesian acts like Pamungkas and Rizky Febian with international guests such as Australian rockers Jet. Tickets were sold through the official Sounds Project channels.
 faq:
   - q: What are the official dates for The Sounds Project Vol. 9?
     a: August 7–9, 2026, at Ecovention Ecopark in Ancol, North Jakarta — but confirm on the official event page in case of last-minute changes.
@@ -41,6 +41,7 @@ eventOffers:
   url: https://ticket.thesoundsproject.com
 eventFactsAsked: true
 ---
+
 ## Why go
 
 The Sounds Project has built a reputation as one of Jakarta's bigger multi-genre festivals, pulling in a mix of pop, rock, hip-hop, and indie acts rather than sticking to a single scene. Vol. 9 followed that format across three days, August 7–9, 2026, with a lineup that spanned homegrown stars — Pamungkas and Rizky Febian among them — alongside international names like Australian rock veterans Jet.
@@ -59,7 +60,7 @@ There's no direct MRT or LRT line to Ancol, so extra time was needed for those r
 
 ## What to expect on site
 
-With dozens of Indonesian artists across three days plus international acts like Jet, multiple stages ran in parallel, so a printed or app-based schedule was essential for planning who to catch. Ecovention's grounds typically included food and beverage vendors, merchandise booths, and designated smoking/rest areas common to Jakarta's large festivals.
+With dozens of Indonesian artists across three days plus international acts like Jet, multiple stages were scheduled to run in parallel, so a printed or app-based schedule was essential for planning who to catch. Ecovention's grounds typically included food and beverage vendors, merchandise booths, and designated smoking/rest areas common to Jakarta's large festivals.
 
 A light rain layer and sun protection were useful for daytime sets, since the space was largely open-air. As with most Indonesian outdoor festivals, security bag checks were in place at entry.
 
@@ -74,3 +75,4 @@ Jakarta festival-goers tend to arrive fashionably late for opening acts and time
 Tipping isn't expected at festival food stalls. The most common mistake visitors make is underestimating Ancol's size and distance from the ticket gate to the actual stage area — wearing real shoes, not sandals, was worthwhile given the decent walk from parking or drop-off points. Locals also dressed light and practical: breathable fabrics, a cap, and a small backpack rather than anything bulky, since Jakarta's August heat and humidity peak in the late afternoon.
 
 The Sounds Project is an annual festival, so a Vol. 10 edition is likely — check the official Sounds Project website or social media for future dates, venue details, and ticket news before planning a trip around it.
+

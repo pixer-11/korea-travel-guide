@@ -13,7 +13,7 @@ tags:
 quickAnswer: India's first World Athletics Continental Tour Silver Meet — the Indian Open — arrives at Kalinga Stadium in Bhubaneswar on August 22, 2026, an upgrade from the bronze-level meet held there in 2025. Expect a single-day, evening-heavy program of international track and field, with tickets, gate times, and the full event schedule confirmed on official World Athletics and Odisha sports channels.
 faq:
   - q: What date is the Indian Open in Bhubaneswar?
-    a: The 2026 Indian Open was held on August 22, 2026, at Kalinga Stadium. For the next edition's date, check the World Athletics Continental Tour calendar or Odisha sports channels — the schedule is confirmed a few weeks ahead.
+    a: The 2026 Indian Open was scheduled for August 22, 2026, at Kalinga Stadium. For the next edition's date, check the World Athletics Continental Tour calendar or Odisha sports channels — the schedule is confirmed a few weeks ahead.
   - q: How do I get to Kalinga Stadium?
     a: Fly into Biju Patnaik International Airport (BBI) or arrive by train at Bhubaneswar Railway Station; both are roughly 15–20 minutes from the stadium by taxi or autorickshaw.
   - q: How much are tickets and where do I buy them?

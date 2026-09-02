@@ -10,7 +10,7 @@ eventEndDate: '2026-08-29'
 tags:
   - wuhan
   - event
-quickAnswer: The 2026 Wuhan Open, a World Snooker Tour ranking event, ran August 23-29, 2026 in Wuhan, China, with early rounds through the week building to a final on the closing day.
+quickAnswer: The 2026 Wuhan Open, a World Snooker Tour ranking event, was scheduled for August 23-29, 2026 in Wuhan, China, with early rounds through the week building to a final on the closing day.
 faq:
   - q: When exactly is the 2026 Wuhan Open?
     a: The 2026 Wuhan Open (Snooker) was scheduled for August 23-29, 2026 in Wuhan.

@@ -10,7 +10,7 @@ eventEndDate: '2026-08-09'
 tags:
   - george town
   - event
-quickAnswer: The George Town Festival 2026 ("Beyond Boundaries") ran August 1–9 in Penang's UNESCO World Heritage core, with 40+ international theatre, dance, music, and arts programmes staged across historic streets and buildings. Visitors based themselves inside the heritage zone near Armenian Street or Love Lane, with a mix of free and ticketed shows on offer.
+quickAnswer: The George Town Festival 2026 ("Beyond Boundaries") was scheduled to run August 1–9 in Penang's UNESCO World Heritage core, with 40+ international theatre, dance, music, and arts programmes planned across historic streets and buildings. Visitors were expected to base themselves inside the heritage zone near Armenian Street or Love Lane, with a mix of free and ticketed shows on offer.
 faq:
   - q: What are the exact dates for the 2026 George Town Festival?
     a: The festival was scheduled for August 1–9, 2026, themed 'Beyond Boundaries,' held in George Town.
