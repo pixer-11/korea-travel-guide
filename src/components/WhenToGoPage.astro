@@ -204,7 +204,12 @@ const ogPhoto = pickOgPhoto(data.topVenues);
     })}</p>
   </article>
 
-  <PlanTrip city={countryLabel} country={data.country} />
+  {/* English country name, not the localized label: PlanTrip's `city` is the
+      Klook search query, and /ko/ pages were sending readers to
+      klook.com/ko/search/?query=캄보디아 (2026-09-02 audit). The card text is
+      localized inside PlanTrip. hotels: a month page is a "when should I go"
+      question whose next step is a stay. */}
+  <PlanTrip city={data.country} country={data.country} hotels />
   <Newsletter lang={lang} />
 </BaseLayout>
 
