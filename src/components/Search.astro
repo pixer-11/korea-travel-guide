@@ -8,9 +8,19 @@ const { placeholder = 'Search a country, city, or place…' } = Astro.props;
 // The visible placeholder arrives already localized; the aria-label was
 // hardcoded English, so a screen reader on /ja/ announced this field in a
 // language the rest of the page is not in.
-const t = useTranslations(getLangFromUrl(Astro.url));
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+// The index is per language (/ko/search.json …), built from the same function
+// as the English one; until 2026-09-02 every localized page loaded /search.json
+// and "서울" on /ko/ found nothing. Labels and the empty message travel as data
+// attributes because the client script cannot call t().
+const indexUrl = lang === 'en' ? '/search.json' : `/${lang}/search.json`;
+const labels = JSON.stringify({
+  Country: t('search.kind.Country'), City: t('search.kind.City'), Event: t('search.kind.Event'), Guide: t('search.kind.Guide'),
+  empty: t('search.empty'),
+});
 ---
-<div class="site-search" data-search>
+<div class="site-search" data-search data-index={indexUrl} data-labels={labels}>
   <svg class="search-ico" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7" /><line x1="21" y1="21" x2="16.65" y2="16.65" /></svg>
   <input type="search" class="search-input" placeholder={placeholder} autocomplete="off" spellcheck="false" aria-label={t('a11y.searchInput')} />
   <div class="search-results" role="listbox" hidden></div>
@@ -20,14 +30,18 @@ const t = useTranslations(getLangFromUrl(Astro.url));
   document.querySelectorAll('[data-search]').forEach((box) => {
     const input = box.querySelector('.search-input') as HTMLInputElement;
     const panel = box.querySelector('.search-results') as HTMLElement;
-    let index: { t: string; s: string; u: string; k: string }[] | null = null;
+    let index: { t: string; a?: string; s: string; u: string; k: string }[] | null = null;
     let loading = false;
+    const indexUrl = (box as HTMLElement).dataset.index || '/search.json';
+    let labels: Record<string, string> = {};
+    try { labels = JSON.parse((box as HTMLElement).dataset.labels || '{}'); } catch { labels = {}; }
+    const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c] as string));
 
     async function load() {
       if (index || loading) return;
       loading = true;
       try {
-        const res = await fetch('/search.json');
+        const res = await fetch(indexUrl);
         index = await res.json();
       } catch { index = []; }
       loading = false;
@@ -38,19 +52,21 @@ const t = useTranslations(getLangFromUrl(Astro.url));
       const query = q.trim().toLowerCase();
       if (!query) { panel.hidden = true; panel.innerHTML = ''; return; }
       const rank = { Country: 0, City: 1, Event: 2, Guide: 3 } as Record<string, number>;
+      // The English name (`a`) stays searchable on every language: "Kyoto"
+      // typed on /ja/ still lands on the Japanese Kyoto page.
+      const has = (i: { t: string; a?: string; s: string }) =>
+        i.t.toLowerCase().includes(query) || (i.a ?? '').toLowerCase().includes(query) || i.s.toLowerCase().includes(query);
+      const starts = (i: { t: string; a?: string }) =>
+        i.t.toLowerCase().startsWith(query) || (i.a ?? '').toLowerCase().startsWith(query) ? 0 : 1;
       const hits = index
-        .filter((i) => i.t.toLowerCase().includes(query) || i.s.toLowerCase().includes(query))
-        .sort((a, b) => {
-          const as = a.t.toLowerCase().startsWith(query) ? 0 : 1;
-          const bs = b.t.toLowerCase().startsWith(query) ? 0 : 1;
-          return as - bs || (rank[a.k] ?? 9) - (rank[b.k] ?? 9) || a.t.length - b.t.length;
-        })
+        .filter(has)
+        .sort((a, b) => starts(a) - starts(b) || (rank[a.k] ?? 9) - (rank[b.k] ?? 9) || a.t.length - b.t.length)
         .slice(0, 8);
       if (!hits.length) {
-        panel.innerHTML = '<div class="search-empty">No matches — try a country or city.</div>';
+        panel.innerHTML = `<div class="search-empty">${esc(labels.empty || 'No matches — try a country or city.')}</div>`;
       } else {
         panel.innerHTML = hits
-          .map((i) => `<a href="${i.u}" role="option"><span class="sr-kind">${i.k}</span><span class="sr-t">${i.t}</span><span class="sr-s">${i.s}</span></a>`)
+          .map((i) => `<a href="${esc(i.u)}" role="option"><span class="sr-kind">${esc(labels[i.k] || i.k)}</span><span class="sr-t">${esc(i.t)}</span><span class="sr-s">${esc(i.s)}</span></a>`)
           .join('');
       }
       panel.hidden = false;
