@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: emergency
+srcHash: '478718e514ec'
 metaTitle: Números de emergencia y seguridad por país
 metaDescription: Cómo funcionan los números de emergencia en el extranjero — 112, 911 y las líneas turísticas locales — además de información básica sobre salud, seguros y seguridad, con los números exactos de cada destino.
 h1: Emergencias y seguridad

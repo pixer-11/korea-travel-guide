@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: visa
+srcHash: 'd6aba19b8da9'
 metaTitle: 국가별 비자 및 입국 요건
 metaDescription: 비자, ETA, 디지털 입국신고서가 어떻게 작동하는지 살펴보고, 국가별 입국 가이드와 확인 가능한 공식 출처도 함께 안내합니다.
 h1: 비자 및 입국 요건

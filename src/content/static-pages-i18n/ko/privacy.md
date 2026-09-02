@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: privacy
+srcHash: '48b9cc3642e4'
 metaTitle: 개인정보 보호정책
 metaDescription: Wander Atlas의 개인정보 보호정책 — 수집하는 정보와 그 이용 방법을 안내합니다.
 eyebrow: 법적 고지

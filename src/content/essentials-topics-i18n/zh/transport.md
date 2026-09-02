@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: transport
+srcHash: '45a6d4bdfb11'
 metaTitle: 出行指南：各国交通方式详解
 metaDescription: 交通卡、地铁、城际列车、出租车、网约车软件，以及机场接驳——实用的基础知识，外加每个目的地的详细指南。
 h1: 出行方式

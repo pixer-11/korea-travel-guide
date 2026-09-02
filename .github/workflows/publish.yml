@@ -199,6 +199,21 @@ jobs:
             echo "글 번역 (${F}/${J}건 실패)" >> /tmp/soft-fail.txt
           }
 
+      # The two sibling translators of translate-posts — the 5 essentials topic
+      # hubs and the static pages (about/privacy/terms…). Until 2026-09-02 they
+      # ran from nobody's workflow and skipped any file that existed, so an
+      # English edit to a policy page or a visa hub never reached its four
+      # translations. Same srcHash staleness queue as posts now, so the normal
+      # night costs zero calls; same soft-fail trace so a failure is named.
+      - name: Translate topic hubs and static pages (ko/ja/es/zh)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSLATE_CONCURRENCY: '8'
+        run: |
+          node scripts/translate-topics.mjs || echo "토픽 허브 번역" >> /tmp/soft-fail.txt
+          node scripts/translate-static.mjs || echo "정적 페이지 번역" >> /tmp/soft-fail.txt
+
       # The translator's recurring tic (쯤→쯍 etc, non-wansung syllables) is
       # substituted right here, BEFORE the gate and the commit — detection was
       # automatic since 08-08 but the repair was a human every time (16 files
@@ -518,6 +533,8 @@ jobs:
           set -o pipefail
           npm run generate 2>&1 | tee -a /tmp/gen.log
           node scripts/translate-posts.mjs || true
+          node scripts/translate-topics.mjs || true
+          node scripts/translate-static.mjs || true
           # Replacement posts are generated AFTER the wall-thumbnail step ran,
           # so without this their cards rendered blank (bordeaux-miroir-d-eau,
           # first gated run).
@@ -595,7 +612,10 @@ jobs:
           # country-facts.json and the essentials guides are here because the
           # step above can create them for a newly added country; without them
           # staged, that work is generated and then thrown away on every run.
-          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n
+          # essentials-topics-i18n / static-pages-i18n: their translators joined
+          # this workflow on 2026-09-02; unstaged, a re-translation would be
+          # produced every night and dropped every night.
+          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
           # Count PUBLISHED and HELD separately. The gate flips a defective new
           # post to draft before this commit, and format-post-list already skips
           # drafts — but this count didn't, so the report said "새 글 6개" over

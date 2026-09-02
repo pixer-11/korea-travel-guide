@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: terms
+srcHash: '14e331f34661'
 metaTitle: 利用規約
 metaDescription: Wander Atlasの利用規約。
 eyebrow: 法的情報

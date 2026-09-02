@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: transport
+srcHash: '45a6d4bdfb11'
 metaTitle: 'Cómo moverte: guía de transporte por país'
 metaDescription: 'Tarjetas de transporte, metros, trenes interurbanos, taxis, apps de transporte privado y traslados desde el aeropuerto: lo esencial en la práctica, más una guía para cada destino.'
 h1: Cómo moverte

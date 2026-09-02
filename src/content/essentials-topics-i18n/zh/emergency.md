@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: emergency
+srcHash: '478718e514ec'
 metaTitle: 各国紧急电话与安全须知
 metaDescription: 境外紧急电话如何拨打——112、911 以及当地旅游热线——附医疗、保险与安全基本知识，以及各目的地的具体号码。
 h1: 紧急与安全

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: newsletter
+srcHash: '97751e68392e'
 metaTitle: "El boletín de Wander Atlas — The Weekly Edit"
 metaDescription: "Un brief de viajes semanal basado en datos: adónde ir ahora, las horas tranquilas de los grandes lugares, nuevas guías verificadas e itinerarios — en tu idioma, gratis."
 eyebrow: "Boletín"

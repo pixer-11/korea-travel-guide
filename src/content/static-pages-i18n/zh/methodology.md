@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: methodology
+srcHash: 'a52dc759a524'
 metaTitle: 数据说明——方法论
 metaDescription: Wander Atlas 的人流曲线、营业时间、评分和气候表数据的来源、更新频率，以及如何引用这些数据。
 eyebrow: 方法论

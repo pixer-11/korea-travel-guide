@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: privacy
+srcHash: '48b9cc3642e4'
 metaTitle: プライバシーポリシー
 metaDescription: Wander Atlas のプライバシーポリシー — 収集する情報とその利用方法について。
 eyebrow: 法的情報

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: transport
+srcHash: '45a6d4bdfb11'
 metaTitle: '교통 이용 가이드: 국가별 대중교통 안내'
 metaDescription: 교통카드, 지하철, 도시 간 열차, 택시, 차량 호출 앱, 공항 이동까지 — 실용적인 기본 정보와 함께 각 여행지별 가이드를 제공합니다.
 h1: 교통 이용하기

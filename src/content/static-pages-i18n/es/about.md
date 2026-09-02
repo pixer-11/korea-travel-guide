@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: about
+srcHash: 'aa0f9cc64469'
 metaTitle: Política editorial
 metaDescription: 'Cómo se elabora Wander Atlas: nuestras fuentes, nuestro uso de asistencia de IA y nuestro compromiso con contenido preciso y con licencia.'
 eyebrow: Política editorial

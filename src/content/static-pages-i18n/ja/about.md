@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: about
+srcHash: 'aa0f9cc64469'
 metaTitle: 編集方針
 metaDescription: Wander Atlasの制作方法について:情報源、AIアシスタンスの活用、そして正確でライセンスされたコンテンツへのコミットメント。
 eyebrow: 編集方針

@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: money
+srcHash: '1a7fe7f31209'
 metaTitle: 'Dinero y gastos: tarjetas, efectivo y propinas por país'
 metaDescription: 'Moneda local, tarjetas vs. efectivo, cajeros y cambio de divisas, normas de propinas y devoluciones de la tasa turística: lo básico sobre el dinero, además de una guía para cada destino.'
 h1: Dinero y gastos

@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: transport
+srcHash: '45a6d4bdfb11'
 metaTitle: 移動手段ガイド:国別の交通事情まとめ
 metaDescription: 交通系ICカード、地下鉄、都市間列車、タクシー、配車アプリ、空港送迎まで——実践的な基本情報と、各渡航先ごとのガイドをまとめました。
 h1: 現地での移動手段

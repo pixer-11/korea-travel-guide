@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: newsletter
+srcHash: '97751e68392e'
 metaTitle: "Wander Atlas 通讯 — 每周精选"
 metaDescription: "每周一封、以数据为基础的旅行简报:现在该去哪里、著名景点的人少时段、新核实的指南和行程 — 用你的语言,免费。"
 eyebrow: "通讯"

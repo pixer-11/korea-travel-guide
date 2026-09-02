@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: methodology
+srcHash: 'a52dc759a524'
 metaTitle: 우리의 데이터는 어떻게 작동하는가 — 방법론
 metaDescription: Wander Atlas의 혼잡도 곡선, 운영시간, 평점, 기후 표가 어디서 오는지, 얼마나 자주 갱신되는지, 그리고 이를 인용하는 방법을 알아보세요.
 eyebrow: 방법론

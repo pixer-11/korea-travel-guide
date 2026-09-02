@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: visa
+srcHash: 'd6aba19b8da9'
 metaTitle: 各国签证与入境要求
 metaDescription: 签证、电子许可（ETA）和电子入境卡的运作方式——附各国入境指南及官方查询渠道，助你确认自己的具体情况。
 h1: 签证与入境要求

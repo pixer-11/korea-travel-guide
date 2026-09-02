@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: money
+srcHash: '1a7fe7f31209'
 metaTitle: 货币与花费：各国刷卡、现金与小费指南
 metaDescription: 各国当地货币、刷卡与现金的选择、ATM 与货币兑换、小费习惯，以及退税须知——货币基础知识，外加每个目的地的专属指南。
 h1: 货币与花费

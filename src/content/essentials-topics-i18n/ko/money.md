@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: money
+srcHash: '1a7fe7f31209'
 metaTitle: '국가별 화폐 & 비용: 카드, 현금, 팁 문화'
 metaDescription: 현지 화폐, 카드 vs 현금, ATM과 환전, 팁 문화, 그리고 관광객 세금 환급까지 — 기본적인 자금 관리 정보와 각 여행지별 가이드를 소개합니다.
 h1: 화폐 & 비용

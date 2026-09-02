@@ -294,7 +294,8 @@ const essentialsTopicsI18n = defineCollection({
     base: './src/content/essentials-topics-i18n',
     generateId: ({ entry }) => entry.replace(/\.md$/, ''),
   }),
-  schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), ...topicShape }),
+  // srcHash: same staleness fingerprint as postI18n (translate-topics.mjs, 2026-09-02).
+  schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), srcHash: z.string().optional(), ...topicShape }),
 });
 
 // Static prose pages (about/privacy/terms) as content, so they can be translated.
@@ -315,7 +316,8 @@ const staticPagesI18n = defineCollection({
     base: './src/content/static-pages-i18n',
     generateId: ({ entry }) => entry.replace(/\.md$/, ''),
   }),
-  schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), ...staticShape }),
+  // srcHash: same staleness fingerprint as postI18n (translate-static.mjs, 2026-09-02).
+  schema: z.object({ lang: z.enum(['ko', 'ja', 'es', 'zh']), slug: z.string(), srcHash: z.string().optional(), ...staticShape }),
 });
 
 export const collections = { posts, essentials, postI18n, essentialsI18n, itineraries, itinerariesI18n, essentialsTopics, essentialsTopicsI18n, staticPages, staticPagesI18n };

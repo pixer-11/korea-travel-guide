@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: methodology
+srcHash: 'a52dc759a524'
 metaTitle: データの仕組みについて — 手法解説
 metaDescription: Wander Atlasの混雑度カーブ、営業時間、評価、気候データがどこから来ているのか、どのくらいの頻度で更新されているのか、そして引用方法について説明します。
 eyebrow: 手法解説

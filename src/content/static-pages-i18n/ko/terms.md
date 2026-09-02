@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: terms
+srcHash: '14e331f34661'
 metaTitle: 이용 약관
 metaDescription: Wander Atlas 이용 약관입니다.
 eyebrow: 법적 고지

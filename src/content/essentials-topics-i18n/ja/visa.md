@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: visa
+srcHash: 'd6aba19b8da9'
 metaTitle: 国別ビザ・入国要件ガイド
 metaDescription: ビザ、ETA、デジタル入国カードの仕組みを解説し、国別の入国ガイドと公式情報源へのリンクをまとめました。
 h1: ビザ・入国要件

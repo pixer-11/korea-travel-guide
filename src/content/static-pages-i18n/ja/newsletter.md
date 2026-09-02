@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: newsletter
+srcHash: '97751e68392e'
 metaTitle: "Wander Atlas ニュースレター — ウィークリーエディット"
 metaDescription: "週1通、データで作る旅行ブリーフ: 今行くべき場所、名所の空いている時間帯、新しく検証されたガイドと旅程 — 日本語で、無料。"
 eyebrow: "ニュースレター"

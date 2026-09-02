@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: methodology
+srcHash: 'a52dc759a524'
 metaTitle: Cómo funcionan nuestros datos — Metodología
 metaDescription: De dónde provienen las curvas de afluencia, los horarios de apertura, las valoraciones y las tablas climáticas de Wander Atlas, con qué frecuencia se actualizan y cómo citarlos.
 eyebrow: Metodología

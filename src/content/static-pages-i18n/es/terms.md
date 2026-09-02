@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: terms
+srcHash: '14e331f34661'
 metaTitle: Términos de Uso
 metaDescription: Términos de uso de Wander Atlas.
 eyebrow: Legal

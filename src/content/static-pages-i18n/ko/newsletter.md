@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: newsletter
+srcHash: '97751e68392e'
 metaTitle: "완다 아틀라스 뉴스레터 — 위클리 에디트"
 metaDescription: "매주 한 통, 데이터로 만든 여행 브리핑: 지금 가기 좋은 곳, 명소의 한산한 시간대, 새로 검증된 가이드와 일정 — 한국어로, 무료."
 eyebrow: "뉴스레터"

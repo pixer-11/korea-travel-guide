@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: privacy
+srcHash: '48b9cc3642e4'
 metaTitle: Política de Privacidad
 metaDescription: Política de privacidad de Wander Atlas — qué datos se recopilan y cómo se utilizan.
 eyebrow: Legal

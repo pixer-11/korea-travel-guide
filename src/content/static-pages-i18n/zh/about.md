@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: about
+srcHash: 'aa0f9cc64469'
 metaTitle: 编辑政策
 metaDescription: Wander Atlas 是如何制作的：我们的信息来源、我们对 AI 辅助的使用，以及我们对准确、合法授权内容的承诺。
 eyebrow: 编辑政策
