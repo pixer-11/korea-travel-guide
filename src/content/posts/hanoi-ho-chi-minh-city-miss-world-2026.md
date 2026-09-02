@@ -1,9 +1,6 @@
 ---
 title: 'Miss World 2026: Dates, Host Cities & Tickets (Vietnam)'
-description: >-
-  Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to
-  September 5, 2026, with roughly 130 national delegates touring Vietnam before
-  the grand finale broadcasts live from Ho Chi Minh City on September 5.
+description: Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to September 5, 2026, with roughly 130 national delegates touring Vietnam before the grand finale broadcasts live from Ho Chi Minh City on September 5.
 country: Vietnam
 region: Hanoi
 category: event
@@ -11,53 +8,28 @@ pubDate: '2026-07-23'
 eventStartDate: '2026-08-09'
 eventEndDate: '2026-09-05'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Miss_World_Ireland_2022_Ivanna_McMahon.jpg/1280px-Miss_World_Ireland_2022_Ivanna_McMahon.jpg
   credit: 'Photo: Missirelandd / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg
+  source: https://commons.wikimedia.org/wiki/File:Miss_World_Ireland_2022_Ivanna_McMahon.jpg
   focus:
     x: 50
     'y': 40
 tags:
   - hanoi
   - event
-quickAnswer: >-
-  Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to
-  September 5, 2026, with roughly 130 national delegates touring Vietnam before
-  the grand finale broadcasts live from Ho Chi Minh City on September 5. Hanoi
-  is expected to host early contestant activities and cultural events, while
-  HCMC anchors the finale; confirm the specific venue, host city split, and
-  ticket sales on the official Miss World channels closer to the date, since
-  these logistics were not finalized at the time of writing.
+quickAnswer: Miss World 2026 — the pageant's 75th anniversary edition — runs August 9 to September 5, 2026, with roughly 130 national delegates touring Vietnam before the grand finale broadcasts live from Ho Chi Minh City on September 5. Hanoi is expected to host early contestant activities and cultural events, while HCMC anchors the finale; confirm the specific venue, host city split, and ticket sales on the official Miss World channels closer to the date, since these logistics were not finalized at the time of writing.
 faq:
   - q: When exactly is Miss World 2026?
-    a: >-
-      August 9 to September 5, 2026, with the grand finale broadcast live from
-      Ho Chi Minh City on September 5. Always check the official Miss World
-      website for any date changes.
+    a: August 9 to September 5, 2026, with the grand finale broadcast live from Ho Chi Minh City on September 5. Always check the official Miss World website for any date changes.
   - q: Will the whole event happen in one city?
-    a: >-
-      No — contestants arrive and likely take part in early events across
-      Vietnam, with Hanoi expected to feature in the northern leg, while the
-      grand finale is confirmed for Ho Chi Minh City.
+    a: No — contestants arrive and likely take part in early events across Vietnam, with Hanoi expected to feature in the northern leg, while the grand finale is confirmed for Ho Chi Minh City.
   - q: How do I get tickets to the finale?
-    a: >-
-      Ticket details had not been officially released at the time of writing.
-      Watch Miss World's official channels and Vietnamese broadcast partners for
-      confirmed on-sale dates rather than third-party resale sites.
+    a: Ticket details had not been officially released at the time of writing. Watch Miss World's official channels and Vietnamese broadcast partners for confirmed on-sale dates rather than third-party resale sites.
   - q: What's the best way to travel between Hanoi and Ho Chi Minh City?
-    a: >-
-      Flying is fastest and most practical — about 2 hours on frequent domestic
-      carriers like Vietnam Airlines, Vietjet, and Bamboo Airways. The
-      overnight/multi-day Reunification Express train is a scenic but slow
-      alternative.
+    a: Flying is fastest and most practical — about 2 hours on frequent domestic carriers like Vietnam Airlines, Vietjet, and Bamboo Airways. The overnight/multi-day Reunification Express train is a scenic but slow alternative.
   - q: What's the weather like during the event?
-    a: >-
-      Early August to early September is rainy season in Vietnam, with high
-      humidity, heat, and frequent short downpours in both cities — pack light
-      layers and a small umbrella.
+    a: Early August to early September is rainy season in Vietnam, with high humidity, heat, and frequent short downpours in both cities — pack light layers and a small umbrella.
 aiGenerated: true
 eventRecurring: true
 eventOrganizer:

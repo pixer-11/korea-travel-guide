@@ -1,36 +1,27 @@
 ---
 title: 'Place de la Bourse: Bordeaux Travel Guide (4.6★)'
-description: >-
-  Place de la Bourse is Bordeaux's showpiece 18th-century square on the Garonne,
-  best known for the Miroir d'Eau, the vast reflecting pool that turns the
-  facade into a mirror. 4.7★ (20,285 reviews) — what visitors say, hours, and
-  tips.
+description: Place de la Bourse is Bordeaux's showpiece 18th-century square on the Garonne, best known for the Miroir d'Eau, the vast reflecting pool that turns the facade into a mirror. 4.7★ (20,285 reviews) — what visitors say, hours, and tips.
 country: France
 region: Bordeaux
 category: hidden-gem
 pubDate: '2026-08-07T08:41:01.916Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bordeaux_place_de_la_bourse_with_tram.JPG/1920px-Bordeaux_place_de_la_bourse_with_tram.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bordeaux_place_de_la_bourse_with_tram.JPG/1920px-Bordeaux_place_de_la_bourse_with_tram.JPG
   credit: 'Photo: Phillip Maiwald (Nikopol) / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG
+  source: https://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/f/fd/Bordeaux_-_Place_de_la_Bourse_2009-06-29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bordeaux_-_Place_de_la_Bourse_2009-06-29.jpg/1920px-Bordeaux_-_Place_de_la_Bourse_2009-06-29.jpg
     credit: 'Photo: Coyau / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Bordeaux_-_Place_de_la_Bourse_2009-06-29.jpg
+    source: https://commons.wikimedia.org/wiki/File:Bordeaux_-_Place_de_la_Bourse_2009-06-29.jpg
 place:
   id: ChIJs2kuo9EnVQ0REAu4lz5dThc
   name: Place de la Bourse
-  address: 'Pl. de la Bourse, 33000 Bordeaux, France'
+  address: Pl. de la Bourse, 33000 Bordeaux, France
   rating: 4.7
   userRatingsTotal: 20285
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=1679382234470550288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=1679382234470550288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 44.841525
   lng: -0.5698651
@@ -74,32 +65,18 @@ place:
 tags:
   - bordeaux
   - old quarter
-quickAnswer: >-
-  Place de la Bourse is Bordeaux's showpiece 18th-century square on the Garonne,
-  best known for the Miroir d'Eau, the vast reflecting pool that turns the
-  facade into a mirror. It's open around the clock, but go between 7am and 9am
-  on weekdays (7-10am weekends) to see it nearly empty before the crowds and
-  tour groups arrive by midday.
+quickAnswer: Place de la Bourse is Bordeaux's showpiece 18th-century square on the Garonne, best known for the Miroir d'Eau, the vast reflecting pool that turns the facade into a mirror. It's open around the clock, but go between 7am and 9am on weekdays (7-10am weekends) to see it nearly empty before the crowds and tour groups arrive by midday.
 faq:
   - q: How do I get to Place de la Bourse?
-    a: >-
-      Take tram Line B or C to the Place de la Bourse stop, which lets out right
-      at the square. It's also a 10-minute walk from Place de la Comédie along
-      Cours du Chapeau Rouge.
+    a: Take tram Line B or C to the Place de la Bourse stop, which lets out right at the square. It's also a 10-minute walk from Place de la Comédie along Cours du Chapeau Rouge.
   - q: Is there an entry fee?
     a: No. It's a public square open 24 hours with no ticket or entry fee.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 7am and 9am, or 7am to 10am on weekends. Crowds build
-      steadily from midday and stay heavy until around 11pm on weekends.
+    a: Weekdays between 7am and 9am, or 7am to 10am on weekends. Crowds build steadily from midday and stay heavy until around 11pm on weekends.
   - q: How long should I spend here?
-    a: >-
-      30–45 minutes covers the square and the Miroir d'Eau; longer if you want
-      to sit by the water or catch the mist cycle a few times.
+    a: 30–45 minutes covers the square and the Miroir d'Eau; longer if you want to sit by the water or catch the mist cycle a few times.
   - q: What's nearby worth combining with this visit?
-    a: >-
-      Place des Quinconces is a 15-minute walk north along the river, and the
-      pedestrian shopping street Rue Sainte-Catherine is a few minutes inland.
+    a: Place des Quinconces is a 15-minute walk north along the river, and the pedestrian shopping street Rue Sainte-Catherine is a few minutes inland.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'

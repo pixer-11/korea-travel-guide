@@ -14,7 +14,7 @@ heroImage:
     x: 55
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Phu_Quoc_Prison_Jailbreak.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Phu_Quoc_Prison_Jailbreak.jpg/960px-Phu_Quoc_Prison_Jailbreak.jpg
     credit: 'Photo: Frank Fox / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Phu_Quoc_Prison_Jailbreak.jpg

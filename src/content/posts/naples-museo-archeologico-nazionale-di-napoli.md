@@ -6,13 +6,13 @@ region: Naples
 category: attraction
 pubDate: '2026-08-05T11:08:07.569Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/01/Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg/960px-Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg
   credit: 'Photo: Mister No / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_(1).jpg
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery: []
 place:
   id: ChIJI0DJ4mcIOxMRmHwFiRXPjrQ

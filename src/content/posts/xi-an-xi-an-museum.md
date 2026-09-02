@@ -6,7 +6,7 @@ region: Xi'an
 category: attraction
 pubDate: '2026-08-05T11:24:32.830Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/da/Xi%27an_Museum_2024.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Xi%27an_Museum_2024.jpg/1920px-Xi%27an_Museum_2024.jpg
   credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Xi%27an_Museum_2024.jpg

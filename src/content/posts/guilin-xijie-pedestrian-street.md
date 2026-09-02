@@ -1,41 +1,41 @@
 ---
-title: "Xijie Pedestrian Street: Guilin Travel Guide (4.1★)"
-description: "Xijie (West Street) is Yangshuo's old pedestrian core — a stone-flagged lane of Ming and Qing-era shopfronts turned cafés, bars and craft stalls, wedged between the Li River and the karst peaks. 4.1★ (257 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Guilin"
-category: "hidden-gem"
-pubDate: "2026-08-15T07:58:15.500Z"
+title: 'Xijie Pedestrian Street: Guilin Travel Guide (4.1★)'
+description: Xijie (West Street) is Yangshuo's old pedestrian core — a stone-flagged lane of Ming and Qing-era shopfronts turned cafés, bars and craft stalls, wedged between the Li River and the karst peaks. 4.1★ (257 reviews) — what visitors say, hours, and tips.
+country: China
+region: Guilin
+category: hidden-gem
+pubDate: '2026-08-15T07:58:15.500Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/bb/%E8%A5%BF%E8%A1%97%E6%AD%A5%E8%A1%8C%E8%A1%97_Xijie_Pedestrian_Street_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%A1%97%E6%AD%A5%E8%A1%8C%E8%A1%97_Xijie_Pedestrian_Street_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%E8%A5%BF%E8%A1%97%E6%AD%A5%E8%A1%8C%E8%A1%97_Xijie_Pedestrian_Street_-_panoramio.jpg/1920px-%E8%A5%BF%E8%A1%97%E6%AD%A5%E8%A1%8C%E8%A1%97_Xijie_Pedestrian_Street_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E8%A1%97%E6%AD%A5%E8%A1%8C%E8%A1%97_Xijie_Pedestrian_Street_-_panoramio.jpg
 gallery: []
 place:
-  id: "ChIJKWq50mGlpTYRB9fkA-mFKcY"
-  name: "Xijie Pedestrian Street"
-  address: "China, Guang Xi Zhuang Zu Zi Zhi Qu, Gui Lin Shi, Yang Shuo Xian, 西街步行街QFFV+QWJ 邮政编码: 541900"
+  id: ChIJKWq50mGlpTYRB9fkA-mFKcY
+  name: Xijie Pedestrian Street
+  address: 'China, Guang Xi Zhuang Zu Zi Zhi Qu, Gui Lin Shi, Yang Shuo Xian, 西街步行街QFFV+QWJ 邮政编码: 541900'
   rating: 4.1
   userRatingsTotal: 257
-  googleMapsUrl: "https://maps.google.com/?cid=14279091329394071303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14279091329394071303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.774465000000003
   lng: 110.49475
 tags:
-  - "guilin"
-  - "local market"
-quickAnswer: "Xijie (West Street) is Yangshuo's old pedestrian core — a stone-flagged lane of Ming and Qing-era shopfronts turned cafés, bars and craft stalls, wedged between the Li River and the karst peaks. It's technically in Guilin's greater Yangshuo County, about an hour to 90 minutes by bus or car from Guilin city. Plan an easy 2-3 hours, more if you linger over a riverside beer at dusk."
+  - guilin
+  - local market
+quickAnswer: Xijie (West Street) is Yangshuo's old pedestrian core — a stone-flagged lane of Ming and Qing-era shopfronts turned cafés, bars and craft stalls, wedged between the Li River and the karst peaks. It's technically in Guilin's greater Yangshuo County, about an hour to 90 minutes by bus or car from Guilin city. Plan an easy 2-3 hours, more if you linger over a riverside beer at dusk.
 faq:
-  - q: "How do I get to Xijie from Guilin city?"
-    a: "Take a bus from Guilin's long-distance bus station to Yangshuo (about 70-90 minutes), then walk or taxi 10-15 minutes to Xijie. Many visitors instead arrive by Li River cruise, which docks a short walk from the street."
-  - q: "How much time should I budget for Xijie?"
-    a: "Two to three hours covers a relaxed wander, some shopping and a meal. It pairs naturally with a river cruise or a countryside bike ride rather than filling a whole day."
-  - q: "When is Xijie quietest?"
-    a: "Early morning, before tour groups arrive from Guilin. Late afternoon into evening is livelier and prettier for photos, but also the most crowded stretch of the day."
-  - q: "What should I eat there?"
-    a: "Beer fish (啤酒鱼) is the signature local dish — best ordered at a sit-down restaurant to share. Stuffed rice noodles and riverside snack stalls are good for something quicker."
-  - q: "Is Xijie worth visiting if I'm short on time in Guilin?"
-    a: "Yes, if you're already heading to Yangshuo for the karst scenery or a river cruise. It's not worth a special trip from Guilin city on its own for a very tight itinerary."
+  - q: How do I get to Xijie from Guilin city?
+    a: Take a bus from Guilin's long-distance bus station to Yangshuo (about 70-90 minutes), then walk or taxi 10-15 minutes to Xijie. Many visitors instead arrive by Li River cruise, which docks a short walk from the street.
+  - q: How much time should I budget for Xijie?
+    a: Two to three hours covers a relaxed wander, some shopping and a meal. It pairs naturally with a river cruise or a countryside bike ride rather than filling a whole day.
+  - q: When is Xijie quietest?
+    a: Early morning, before tour groups arrive from Guilin. Late afternoon into evening is livelier and prettier for photos, but also the most crowded stretch of the day.
+  - q: What should I eat there?
+    a: Beer fish (啤酒鱼) is the signature local dish — best ordered at a sit-down restaurant to share. Stuffed rice noodles and riverside snack stalls are good for something quicker.
+  - q: Is Xijie worth visiting if I'm short on time in Guilin?
+    a: Yes, if you're already heading to Yangshuo for the karst scenery or a river cruise. It's not worth a special trip from Guilin city on its own for a very tight itinerary.
 aiGenerated: true
 draft: false
 ---

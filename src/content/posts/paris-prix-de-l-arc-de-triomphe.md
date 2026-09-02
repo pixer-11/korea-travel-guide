@@ -28,7 +28,7 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg/1280px-Bluestocking_winning_team_Prix_de_l%27Arc_de_Triomphe_2024.jpg
   credit: 'Photo: France Sire / wikimedia (BY)'
   license: openverse-cc
   source: https://commons.wikimedia.org/w/index.php?curid=159251064

@@ -1,57 +1,57 @@
 ---
-title: "The Parthenon: Nashville Travel Guide (4.6★)"
-description: "The Parthenon sits in the middle of Centennial Park just west of downtown Nashville, open daily (9am–4:30pm Mon–Sat, 12:30–4:30pm Sunday). 4.6★ (15,262 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Nashville"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:13:33.712Z"
+title: 'The Parthenon: Nashville Travel Guide (4.6★)'
+description: The Parthenon sits in the middle of Centennial Park just west of downtown Nashville, open daily (9am–4:30pm Mon–Sat, 12:30–4:30pm Sunday). 4.6★ (15,262 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Nashville
+category: hidden-gem
+pubDate: '2026-08-18T08:13:33.712Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Parthenon_in_Nashville_2025.jpg/3840px-Parthenon_in_Nashville_2025.jpg"
-  credit: "Photo: BullDawg2021 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parthenon_in_Nashville_2025.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Parthenon_in_Nashville_2025.jpg/3840px-Parthenon_in_Nashville_2025.jpg
+  credit: 'Photo: BullDawg2021 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Parthenon_in_Nashville_2025.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/37/The_Parthenon%2C_Nashville%2C_Tennessee.jpg"
-    credit: "Photo: Aaron Archuleta / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Parthenon,_Nashville,_Tennessee.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Parthenon%2C_Nashville%2C_Tennessee.jpg/1920px-The_Parthenon%2C_Nashville%2C_Tennessee.jpg
+    credit: 'Photo: Aaron Archuleta / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:The_Parthenon,_Nashville,_Tennessee.jpg
 place:
-  id: "ChIJ5Y_y1kthZIgRpuE6xnvT9HA"
-  name: "The Parthenon"
-  address: "2500 West End Ave, Nashville, TN 37203, USA"
+  id: ChIJ5Y_y1kthZIgRpuE6xnvT9HA
+  name: The Parthenon
+  address: 2500 West End Ave, Nashville, TN 37203, USA
   rating: 4.6
   userRatingsTotal: 15262
-  googleMapsUrl: "https://maps.google.com/?cid=8139362955125514662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8139362955125514662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.1496737
   lng: -86.81334670000001
-  phone: "+1 615-862-8431"
+  phone: +1 615-862-8431
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 12:30 – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 12:30 – 4:30 PM'
 tags:
-  - "nashville"
-  - "hidden gem"
-quickAnswer: "The Parthenon sits in the middle of Centennial Park just west of downtown Nashville, open daily (9am–4:30pm Mon–Sat, 12:30–4:30pm Sunday). Give it 45–75 minutes to see Athena Parthenos and the art galleries upstairs. It's genuinely well-visited, not a secret, so weekday mornings right at opening are your best shot at a quiet look at the statue."
+  - nashville
+  - hidden gem
+quickAnswer: The Parthenon sits in the middle of Centennial Park just west of downtown Nashville, open daily (9am–4:30pm Mon–Sat, 12:30–4:30pm Sunday). Give it 45–75 minutes to see Athena Parthenos and the art galleries upstairs. It's genuinely well-visited, not a secret, so weekday mornings right at opening are your best shot at a quiet look at the statue.
 faq:
-  - q: "How long should I spend at the Parthenon?"
-    a: "Plan 45–75 minutes for the statue of Athena Parthenos and the art galleries, plus extra time if you want to walk the surrounding Centennial Park."
-  - q: "What are the opening hours?"
-    a: "9am–4:30pm Monday through Saturday, and a shorter 12:30–4:30pm on Sundays. Confirm current hours before visiting, especially around holidays."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings right at opening are calmest. It's a heavily visited landmark, so afternoons and weekends draw noticeably bigger crowds."
-  - q: "How do I get there without a car?"
-    a: "WeGo bus routes run along West End Avenue with stops a short walk from the park entrance, or it's about a 35–40 minute walk from downtown Nashville."
-  - q: "Is there anything else to do nearby?"
-    a: "Centennial Park surrounds the building with a lake, walking paths, a sunken garden, and a WWI memorial — easy to combine with your visit."
+  - q: How long should I spend at the Parthenon?
+    a: Plan 45–75 minutes for the statue of Athena Parthenos and the art galleries, plus extra time if you want to walk the surrounding Centennial Park.
+  - q: What are the opening hours?
+    a: 9am–4:30pm Monday through Saturday, and a shorter 12:30–4:30pm on Sundays. Confirm current hours before visiting, especially around holidays.
+  - q: When is it least crowded?
+    a: Weekday mornings right at opening are calmest. It's a heavily visited landmark, so afternoons and weekends draw noticeably bigger crowds.
+  - q: How do I get there without a car?
+    a: WeGo bus routes run along West End Avenue with stops a short walk from the park entrance, or it's about a 35–40 minute walk from downtown Nashville.
+  - q: Is there anything else to do nearby?
+    a: Centennial Park surrounds the building with a lake, walking paths, a sunken garden, and a WWI memorial — easy to combine with your visit.
 aiGenerated: true
 draft: false
 ---

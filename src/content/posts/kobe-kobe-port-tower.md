@@ -1,40 +1,40 @@
 ---
-title: "Kobe Port Tower: Travel Guide (4.2★)"
-description: "Kobe Port Tower is the red, hourglass-shaped landmark on Naka Pier in Kobe's Meriken Park, open daily 9am–11pm with an observation deck around 90–100m up. 4.2★ (11,709 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kobe"
-category: "attraction"
-pubDate: "2026-08-11T08:28:38.395Z"
+title: 'Kobe Port Tower: Travel Guide (4.2★)'
+description: Kobe Port Tower is the red, hourglass-shaped landmark on Naka Pier in Kobe's Meriken Park, open daily 9am–11pm with an observation deck around 90–100m up. 4.2★ (11,709 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kobe
+category: attraction
+pubDate: '2026-08-11T08:28:38.395Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kobe_Port_Tower_and_Maritime_Museum%2C_November_2016.jpg"
-  credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_and_Maritime_Museum,_November_2016.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kobe_Port_Tower_and_Maritime_Museum%2C_November_2016.jpg/1920px-Kobe_Port_Tower_and_Maritime_Museum%2C_November_2016.jpg
+  credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_and_Maritime_Museum,_November_2016.jpg
   focus:
     x: 25
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJweTiKACPAGARgqyoB9hC7rc"
-  name: "Kobe Port Tower"
-  address: "5-5 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042, Japan"
+  id: ChIJweTiKACPAGARgqyoB9hC7rc
+  name: Kobe Port Tower
+  address: 5-5 Hatobachō, Chuo Ward, Kobe, Hyogo 650-0042, Japan
   rating: 4.2
   userRatingsTotal: 11709
-  googleMapsUrl: "https://maps.google.com/?cid=13253604249006812290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13253604249006812290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6826316
   lng: 135.1867244
-  phone: "+81 78-335-6580"
+  phone: +81 78-335-6580
   openingHours:
-    - "Monday: 9:00 AM – 11:00 PM"
-    - "Tuesday: 9:00 AM – 11:00 PM"
-    - "Wednesday: 9:00 AM – 11:00 PM"
-    - "Thursday: 9:00 AM – 11:00 PM"
-    - "Friday: 9:00 AM – 11:00 PM"
-    - "Saturday: 9:00 AM – 11:00 PM"
-    - "Sunday: 9:00 AM – 11:00 PM"
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 20
@@ -54,22 +54,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_637237436839426f797167524147415043414b695465774a496843"
+    venueId: ven_637237436839426f797167524147415043414b695465774a496843
 tags:
-  - "kobe"
-  - "top attraction"
-quickAnswer: "Kobe Port Tower is the red, hourglass-shaped landmark on Naka Pier in Kobe's Meriken Park, open daily 9am–11pm with an observation deck around 90–100m up. It's busiest 11am–8pm on weekends, so aim for a morning visit right after opening or after dark for the illuminated skyline. Give it 45–60 minutes, then walk the harbor promenade to the Kobe Maritime Museum next door."
+  - kobe
+  - top attraction
+quickAnswer: Kobe Port Tower is the red, hourglass-shaped landmark on Naka Pier in Kobe's Meriken Park, open daily 9am–11pm with an observation deck around 90–100m up. It's busiest 11am–8pm on weekends, so aim for a morning visit right after opening or after dark for the illuminated skyline. Give it 45–60 minutes, then walk the harbor promenade to the Kobe Maritime Museum next door.
 faq:
-  - q: "What are the opening hours?"
-    a: "Kobe Port Tower is open daily from 9:00 AM to 11:00 PM, with no closing days listed — check official sources before a special-occasion visit in case of maintenance closures."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday or weekend mornings right after the 9am opening are calmest. Weekends get busy from 11am to 8pm, so avoid that window if you dislike crowds."
-  - q: "How do I get there by train?"
-    a: "Take the JR Kobe Line to Motomachi Station (about a 15-minute walk) or the Kobe Municipal Subway Kaigan Line to Minato-motomachi Station (5–8 minutes on foot)."
-  - q: "How long should I spend there?"
-    a: "Plan for 45–60 minutes to ride up, take in the view, and stop at the café level. Add more time if you visit at sunset."
-  - q: "What else is nearby?"
-    a: "The Kobe Maritime Museum sits right beside the tower, and Harborland's restaurants and shops are a 10–15 minute walk west along the waterfront."
+  - q: What are the opening hours?
+    a: Kobe Port Tower is open daily from 9:00 AM to 11:00 PM, with no closing days listed — check official sources before a special-occasion visit in case of maintenance closures.
+  - q: When is the quietest time to visit?
+    a: Weekday or weekend mornings right after the 9am opening are calmest. Weekends get busy from 11am to 8pm, so avoid that window if you dislike crowds.
+  - q: How do I get there by train?
+    a: Take the JR Kobe Line to Motomachi Station (about a 15-minute walk) or the Kobe Municipal Subway Kaigan Line to Minato-motomachi Station (5–8 minutes on foot).
+  - q: How long should I spend there?
+    a: Plan for 45–60 minutes to ride up, take in the view, and stop at the café level. Add more time if you visit at sunset.
+  - q: What else is nearby?
+    a: The Kobe Maritime Museum sits right beside the tower, and Harborland's restaurants and shops are a 10–15 minute walk west along the waterfront.
 aiGenerated: true
 draft: false
 ---

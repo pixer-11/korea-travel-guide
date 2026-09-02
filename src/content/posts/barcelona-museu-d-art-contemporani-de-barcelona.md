@@ -1,31 +1,23 @@
 ---
 title: 'Museu d Art Contemporani de Barcelona: Travel Guide (4.3★)'
-description: >-
-  MACBA sits on Plaça dels Àngels in El Raval, an unmissable white ship of a
-  building by Richard Meier holding Catalan and international art from the 1940s
-  onward. 4.3★ (15,260 reviews) — what visitors say, hours, and tips.
+description: MACBA sits on Plaça dels Àngels in El Raval, an unmissable white ship of a building by Richard Meier holding Catalan and international art from the 1940s onward. 4.3★ (15,260 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
 category: attraction
 pubDate: '2026-08-07T08:35:41.187Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/0/02/MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg
-  credit: >-
-    Photo: Victoriano Javier Tornel García from Barcelona, España / Wikimedia
-    Commons (CC BY-SA 2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg/1920px-MACBA%2C_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_%282%29.jpg
+  credit: 'Photo: Victoriano Javier Tornel García from Barcelona, España / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:MACBA,_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_(2).jpg
+  source: https://commons.wikimedia.org/wiki/File:MACBA,_Museu_d%E2%80%99Art_Contemporani_de_Barcelona_(2).jpg
 gallery: []
 place:
   id: ChIJ0V6MrPWipBIRKnssXv0o_Y4
   name: Museu d’Art Contemporani de Barcelona
-  address: 'Plaça dels Àngels, 1, Ciutat Vella, 08001 Barcelona, Spain'
+  address: Plaça dels Àngels, 1, Ciutat Vella, 08001 Barcelona, Spain
   rating: 4.3
   userRatingsTotal: 15260
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=10303436591165373226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=10303436591165373226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3831913
   lng: 2.1668667999999998
@@ -59,33 +51,18 @@ place:
 tags:
   - barcelona
   - art gallery
-quickAnswer: >-
-  MACBA sits on Plaça dels Àngels in El Raval, an unmissable white ship of a
-  building by Richard Meier holding Catalan and international art from the 1940s
-  onward. Go on a weekday between 10am and 11am for the emptiest galleries, or
-  plan for around two hours. It's closed Tuesdays and shuts early (3pm) on
-  Sundays, so check the calendar before you set out.
+quickAnswer: MACBA sits on Plaça dels Àngels in El Raval, an unmissable white ship of a building by Richard Meier holding Catalan and international art from the 1940s onward. Go on a weekday between 10am and 11am for the emptiest galleries, or plan for around two hours. It's closed Tuesdays and shuts early (3pm) on Sundays, so check the calendar before you set out.
 faq:
   - q: Is MACBA open on Tuesdays?
-    a: >-
-      No, MACBA is closed every Tuesday. It's open Monday and Wednesday through
-      Saturday, 10am–8pm, and Sunday 10am–3pm.
+    a: No, MACBA is closed every Tuesday. It's open Monday and Wednesday through Saturday, 10am–8pm, and Sunday 10am–3pm.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 10am and 11am, right at opening, are calmest. On
-      weekends, the 3pm–4pm window is your best bet for smaller crowds.
+    a: Weekdays between 10am and 11am, right at opening, are calmest. On weekends, the 3pm–4pm window is your best bet for smaller crowds.
   - q: How long should I plan for a visit?
-    a: >-
-      Around two hours covers the permanent collection and a temporary
-      exhibition at a comfortable pace.
+    a: Around two hours covers the permanent collection and a temporary exhibition at a comfortable pace.
   - q: What's the nearest metro station?
-    a: >-
-      Universitat (Lines 1 and 2) or Catalunya (Lines 1 and 3), both about an
-      8–10 minute walk from the museum on Plaça dels Àngels.
+    a: Universitat (Lines 1 and 2) or Catalunya (Lines 1 and 3), both about an 8–10 minute walk from the museum on Plaça dels Àngels.
   - q: Should I book tickets in advance?
-    a: >-
-      Booking online is worth it, especially on weekend afternoons between 2pm
-      and 8pm when lines tend to form.
+    a: Booking online is worth it, especially on weekend afternoons between 2pm and 8pm when lines tend to form.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

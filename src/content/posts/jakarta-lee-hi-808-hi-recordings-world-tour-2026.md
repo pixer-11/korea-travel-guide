@@ -25,7 +25,7 @@ faq:
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jackie_Lee_in_concert_2017.jpg/3840px-Jackie_Lee_in_concert_2017.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jackie_Lee_in_concert_2017.jpg/3840px-Jackie_Lee_in_concert_2017.jpg
   credit: 'Photo: Max Goldberg / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jackie_Lee_in_concert_2017.jpg

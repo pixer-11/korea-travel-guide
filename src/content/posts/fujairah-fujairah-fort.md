@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4ce64c2c595cb1f7ec60bb14
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Fujairah_Fort_UAE.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fujairah_Fort_UAE.jpg/1280px-Fujairah_Fort_UAE.jpg
     credit: 'Photo: Aumars / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Fujairah_Fort_UAE.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.1387011
   lng: 56.3371047
-  phone: '+971 9 223 9201'
+  phone: +971 9 223 9201
   openingHours:
     - 'Monday: 8:00 AM – 5:00 PM'
     - 'Tuesday: 8:00 AM – 5:00 PM'

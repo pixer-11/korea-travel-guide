@@ -1,40 +1,40 @@
 ---
-title: "Mercato Ballarò: Palermo Travel Guide (4.3★)"
-description: "Mercato Ballarò is Palermo's oldest street market, sprawling through the Albergheria district behind Piazza Ballarò. 4.3★ (3,335 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Palermo"
-category: "hidden-gem"
-pubDate: "2026-08-15T08:00:10.763Z"
+title: 'Mercato Ballarò: Palermo Travel Guide (4.3★)'
+description: Mercato Ballarò is Palermo's oldest street market, sprawling through the Albergheria district behind Piazza Ballarò. 4.3★ (3,335 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Palermo
+category: hidden-gem
+pubDate: '2026-08-15T08:00:10.763Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mercato_di_Ballar%C3%B2_-_panoramio.jpg/3840px-Mercato_di_Ballar%C3%B2_-_panoramio.jpg"
-  credit: "Photo: ildirettore / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercato_di_Ballar%C3%B2_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mercato_di_Ballar%C3%B2_-_panoramio.jpg/3840px-Mercato_di_Ballar%C3%B2_-_panoramio.jpg
+  credit: 'Photo: ildirettore / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mercato_di_Ballar%C3%B2_-_panoramio.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mercato_di_ballar%C3%B2_-_palermo.jpg"
-    credit: "Photo: Archipenzolo / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mercato_di_ballar%C3%B2_-_palermo.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mercato_di_ballar%C3%B2_-_palermo.jpg/1920px-Mercato_di_ballar%C3%B2_-_palermo.jpg
+    credit: 'Photo: Archipenzolo / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Mercato_di_ballar%C3%B2_-_palermo.jpg
 place:
-  id: "ChIJG10YKgDlGRMRgvss8tSK0oc"
-  name: "Mercato Ballarò"
-  address: "Via Chiappara Al Carmine, 23, 90134 Palermo PA, Italy"
+  id: ChIJG10YKgDlGRMRgvss8tSK0oc
+  name: Mercato Ballarò
+  address: Via Chiappara Al Carmine, 23, 90134 Palermo PA, Italy
   rating: 4.3
   userRatingsTotal: 3335
-  googleMapsUrl: "https://maps.google.com/?cid=9787037587430243202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9787037587430243202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 38.110614399999996
   lng: 13.3636751
   openingHours:
-    - "Monday: 7:30 AM – 8:00 PM"
-    - "Tuesday: 7:30 AM – 8:00 PM"
-    - "Wednesday: 7:30 AM – 8:00 PM"
-    - "Thursday: 7:30 AM – 8:00 PM"
-    - "Friday: 7:30 AM – 8:00 PM"
-    - "Saturday: 7:30 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 2:00 PM"
+    - 'Monday: 7:30 AM – 8:00 PM'
+    - 'Tuesday: 7:30 AM – 8:00 PM'
+    - 'Wednesday: 7:30 AM – 8:00 PM'
+    - 'Thursday: 7:30 AM – 8:00 PM'
+    - 'Friday: 7:30 AM – 8:00 PM'
+    - 'Saturday: 7:30 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 2:00 PM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekdayBusy:
@@ -48,22 +48,22 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_636f304b53743873737667524d52476c44674b593031474a496843"
+    venueId: ven_636f304b53743873737667524d52476c44674b593031474a496843
 tags:
-  - "palermo"
-  - "local market"
-quickAnswer: "Mercato Ballarò is Palermo's oldest street market, sprawling through the Albergheria district behind Piazza Ballarò. Go on a weekday between 8am and 9am for the calmest browsing, or accept the crowds as part of the show on a weekend morning. It's open daily but shuts early Sunday afternoon at 2pm, so plan lunch elsewhere that day."
+  - palermo
+  - local market
+quickAnswer: Mercato Ballarò is Palermo's oldest street market, sprawling through the Albergheria district behind Piazza Ballarò. Go on a weekday between 8am and 9am for the calmest browsing, or accept the crowds as part of the show on a weekend morning. It's open daily but shuts early Sunday afternoon at 2pm, so plan lunch elsewhere that day.
 faq:
-  - q: "What's the best time to visit Mercato Ballarò?"
-    a: "Weekday mornings between 8am and 9am are the quietest. If you can only go on a weekend, mornings from 8am until the 10am rush are calmer than the 10am–2pm peak."
-  - q: "Is Mercato Ballarò open on Sundays?"
-    a: "Yes, but with shorter hours: 8am to 2pm only, versus 7:30am to 8pm the rest of the week. Plan lunch elsewhere if you're visiting Sunday afternoon."
-  - q: "How do I get to Mercato Ballarò from central Palermo?"
-    a: "It's a 10-15 minute walk south of the Quattro Canti and Palermo Cathedral, in the Albergheria district. Several city bus lines also stop near Piazza Ballarò."
-  - q: "How much time should I budget for the market?"
-    a: "Around 45 minutes to an hour covers a good wander and a few street-food stops. Add more time if you're buying groceries or produce to cook with."
-  - q: "Is it easy to eat street food there?"
-    a: "Very — panelle, crocché, and sfincione are sold ready to eat and meant to be handheld. Prices are generally budget-friendly and cash is the easiest way to pay."
+  - q: What's the best time to visit Mercato Ballarò?
+    a: Weekday mornings between 8am and 9am are the quietest. If you can only go on a weekend, mornings from 8am until the 10am rush are calmer than the 10am–2pm peak.
+  - q: Is Mercato Ballarò open on Sundays?
+    a: 'Yes, but with shorter hours: 8am to 2pm only, versus 7:30am to 8pm the rest of the week. Plan lunch elsewhere if you''re visiting Sunday afternoon.'
+  - q: How do I get to Mercato Ballarò from central Palermo?
+    a: It's a 10-15 minute walk south of the Quattro Canti and Palermo Cathedral, in the Albergheria district. Several city bus lines also stop near Piazza Ballarò.
+  - q: How much time should I budget for the market?
+    a: Around 45 minutes to an hour covers a good wander and a few street-food stops. Add more time if you're buying groceries or produce to cook with.
+  - q: Is it easy to eat street food there?
+    a: Very — panelle, crocché, and sfincione are sold ready to eat and meant to be handheld. Prices are generally budget-friendly and cash is the easiest way to pay.
 aiGenerated: true
 draft: false
 ---

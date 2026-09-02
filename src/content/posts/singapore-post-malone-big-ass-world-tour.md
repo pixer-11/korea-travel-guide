@@ -1,9 +1,7 @@
 ---
 draft: false
 title: 'Post Malone – BIG ASS World Tour: What to Know (Singapore)'
-description: >-
-  Post Malone – BIG ASS World Tour in Singapore, Singapore — September 25, 2026.
-  What it is, when and where, and how to plan around it.
+description: Post Malone – BIG ASS World Tour in Singapore, Singapore — September 25, 2026. What it is, when and where, and how to plan around it.
 country: Singapore
 region: Singapore
 category: event
@@ -13,53 +11,33 @@ eventEndDate: '2026-09-25'
 tags:
   - singapore
   - event
-quickAnswer: >-
-  Post Malone brings the BIG ASS World Tour to Singapore's National Stadium on
-  September 25, 2026, with support from Don Toliver — his first full solo
-  headline show in the city since guesting at the 2023 F1 Singapore Grand Prix.
-  Get to the Kallang / Stadium precinct via Stadium MRT (Circle Line) and
-  confirm exact gate times, ticket tiers, and any last-minute changes on the
-  official Ticketmaster/SportsHub Singapore channels before you go.
+quickAnswer: Post Malone brings the BIG ASS World Tour to Singapore's National Stadium on September 25, 2026, with support from Don Toliver — his first full solo headline show in the city since guesting at the 2023 F1 Singapore Grand Prix. Get to the Kallang / Stadium precinct via Stadium MRT (Circle Line) and confirm exact gate times, ticket tiers, and any last-minute changes on the official Ticketmaster/SportsHub Singapore channels before you go.
 faq:
   - q: Where exactly is the concert held?
-    a: >-
-      Singapore National Stadium in the Singapore Sports Hub, Kallang —
-      accessible directly from Stadium MRT station on the Circle Line.
+    a: Singapore National Stadium in the Singapore Sports Hub, Kallang — accessible directly from Stadium MRT station on the Circle Line.
   - q: How do I get tickets and how much do they cost?
-    a: >-
-      Tickets are sold through official channels such as Ticketmaster Singapore
-      and the Singapore Sports Hub site. Prices and tiers aren't fixed here, so
-      check the official ticketing page for current pricing and on-sale dates.
+    a: Tickets are sold through official channels such as Ticketmaster Singapore and the Singapore Sports Hub site. Prices and tiers aren't fixed here, so check the official ticketing page for current pricing and on-sale dates.
   - q: Who is opening the show?
-    a: >-
-      Don Toliver is confirmed as support act for the Singapore date of the BIG
-      ASS World Tour.
+    a: Don Toliver is confirmed as support act for the Singapore date of the BIG ASS World Tour.
   - q: What time should I arrive?
-    a: >-
-      Exact doors/gate times will be posted closer to the date on official
-      channels, but arriving 60–90 minutes before the stated gate time is a safe
-      buffer for security and crowd flow.
+    a: Exact doors/gate times will be posted closer to the date on official channels, but arriving 60–90 minutes before the stated gate time is a safe buffer for security and crowd flow.
   - q: Is this Post Malone's first real headline show in Singapore?
-    a: >-
-      Yes — he previously performed as a guest act during the 2023 F1 Singapore
-      Grand Prix concert weekend, but this September 25, 2026 date is his first
-      full solo headline concert in the city.
+    a: Yes — he previously performed as a guest act during the 2023 F1 Singapore Grand Prix concert weekend, but this September 25, 2026 date is his first full solo headline concert in the city.
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/a/a9/Post_Malone_July_2021_%28cropped%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/1920px-Post_Malone_July_2021_%28cropped%29.jpg
   credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg'
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg
   focus:
     x: 55
     'y': 35
 eventOrganizer:
   name: Live Nation
-  url: 'https://www.livenation.asia'
+  url: https://www.livenation.asia
 eventOffers:
-  url: 'https://ticketmaster.sg/activity/detail/26sg_postmalone'
+  url: https://ticketmaster.sg/activity/detail/26sg_postmalone
 eventPerformer:
   name: Post Malone
   kind: person

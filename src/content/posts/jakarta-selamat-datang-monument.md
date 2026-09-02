@@ -1,48 +1,48 @@
 ---
-title: "Selamat Datang Monument: Jakarta Travel Guide (4.7★)"
-description: "The Selamat Datang Monument (Welcome Monument) sits at the heart of Bundaran HI, Jakarta's famous traffic roundabout in Menteng, Central Jakarta. 4.7★ (8,643 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Jakarta"
-category: "attraction"
-pubDate: "2026-08-26T08:05:34.368Z"
+title: 'Selamat Datang Monument: Jakarta Travel Guide (4.7★)'
+description: The Selamat Datang Monument (Welcome Monument) sits at the heart of Bundaran HI, Jakarta's famous traffic roundabout in Menteng, Central Jakarta. 4.7★ (8,643 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Jakarta
+category: attraction
+pubDate: '2026-08-26T08:05:34.368Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/1920px-Bundaran_Hotel_Indonesia_%282025%29.jpg"
-  credit: "Photo: Medelam / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bundaran_Hotel_Indonesia_(2025).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/1920px-Bundaran_Hotel_Indonesia_%282025%29.jpg
+  credit: 'Photo: Medelam / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bundaran_Hotel_Indonesia_(2025).jpg
   focus:
     x: 53
-    y: 32
+    'y': 32
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Selamat_Datang_Monument_with_2019_election_countdown.jpg"
-    credit: "Photo: VulcanSphere / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Selamat_Datang_Monument_with_2019_election_countdown.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Selamat_Datang_Monument_with_2019_election_countdown.jpg/1920px-Selamat_Datang_Monument_with_2019_election_countdown.jpg
+    credit: 'Photo: VulcanSphere / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Selamat_Datang_Monument_with_2019_election_countdown.jpg
 place:
-  id: "ChIJB1Svq5_2aS4RmQyBLA0cPSQ"
-  name: "Selamat Datang Monument"
-  address: "Jl. Kebon Melati 1 No.5, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
+  id: ChIJB1Svq5_2aS4RmQyBLA0cPSQ
+  name: Selamat Datang Monument
+  address: Jl. Kebon Melati 1 No.5, RT.1/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia
   rating: 4.7
   userRatingsTotal: 8643
-  googleMapsUrl: "https://maps.google.com/?cid=2611274201851563161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2611274201851563161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.1950050999999995
   lng: 106.8230439
 tags:
-  - "jakarta"
-  - "historic site"
-quickAnswer: "The Selamat Datang Monument (Welcome Monument) sits at the heart of Bundaran HI, Jakarta's famous traffic roundabout in Menteng, Central Jakarta. It's a well-visited, easily photographed landmark best seen at dusk when the fountain lights come on and traffic swirls around it. No ticket or entry fee is needed since you view it from the roundabout's surrounding pavements and plazas rather than walking up to the statue itself."
+  - jakarta
+  - historic site
+quickAnswer: The Selamat Datang Monument (Welcome Monument) sits at the heart of Bundaran HI, Jakarta's famous traffic roundabout in Menteng, Central Jakarta. It's a well-visited, easily photographed landmark best seen at dusk when the fountain lights come on and traffic swirls around it. No ticket or entry fee is needed since you view it from the roundabout's surrounding pavements and plazas rather than walking up to the statue itself.
 faq:
-  - q: "Is there an entrance fee for the Selamat Datang Monument?"
-    a: "No. It sits in the middle of a public roundabout (Bundaran HI), so you view it from surrounding pavements and bridges for free — there's no ticket or gate."
-  - q: "How do I get to Bundaran HI / the Selamat Datang Monument?"
-    a: "Take the MRT to Bundaran HI Station, the line's northern terminus, or a TransJakarta bus to the Bundaran HI shelter. Both are a short walk from the monument."
-  - q: "What's the best time to visit?"
-    a: "Late afternoon to early evening for golden light and fountain illumination, or Sunday morning before 9am during Car Free Day when Jalan Thamrin closes to traffic."
-  - q: "How long should I spend here?"
-    a: "Ten to fifteen minutes is enough for the monument itself. Most visitors combine it with a walk toward Grand Indonesia or Plaza Indonesia malls nearby."
-  - q: "Can I walk right up to the statue?"
-    a: "No — it stands inside an active fountain surrounded by traffic. View it from the pedestrian bridge near Bundaran HI MRT station or the roadside plazas instead."
+  - q: Is there an entrance fee for the Selamat Datang Monument?
+    a: No. It sits in the middle of a public roundabout (Bundaran HI), so you view it from surrounding pavements and bridges for free — there's no ticket or gate.
+  - q: How do I get to Bundaran HI / the Selamat Datang Monument?
+    a: Take the MRT to Bundaran HI Station, the line's northern terminus, or a TransJakarta bus to the Bundaran HI shelter. Both are a short walk from the monument.
+  - q: What's the best time to visit?
+    a: Late afternoon to early evening for golden light and fountain illumination, or Sunday morning before 9am during Car Free Day when Jalan Thamrin closes to traffic.
+  - q: How long should I spend here?
+    a: Ten to fifteen minutes is enough for the monument itself. Most visitors combine it with a walk toward Grand Indonesia or Plaza Indonesia malls nearby.
+  - q: Can I walk right up to the statue?
+    a: No — it stands inside an active fountain surrounded by traffic. View it from the pedestrian bridge near Bundaran HI MRT station or the roadside plazas instead.
 aiGenerated: true
 draft: false
 ---

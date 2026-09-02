@@ -1,44 +1,44 @@
 ---
-title: "Kaohsiung City Temple of Confucius: Travel Guide (4.3★)"
-description: "The Kaohsiung City Temple of Confucius sits beside Lotus Lake in Zuoying District, open Tuesday to Sunday 9am–5pm and closed Mondays. 4.3★ (2,264 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kaohsiung"
-category: "attraction"
-pubDate: "2026-08-19T08:05:07.499Z"
+title: 'Kaohsiung City Temple of Confucius: Travel Guide (4.3★)'
+description: The Kaohsiung City Temple of Confucius sits beside Lotus Lake in Zuoying District, open Tuesday to Sunday 9am–5pm and closed Mondays. 4.3★ (2,264 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Kaohsiung
+category: attraction
+pubDate: '2026-08-19T08:05:07.499Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kaohsiung_Confucius_Temple_51390-Kaohshiung_%2849052176641%29.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kaohsiung_Confucius_Temple_51390-Kaohshiung_(49052176641).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kaohsiung_Confucius_Temple_51390-Kaohshiung_%2849052176641%29.jpg/1920px-Kaohsiung_Confucius_Temple_51390-Kaohshiung_%2849052176641%29.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kaohsiung_Confucius_Temple_51390-Kaohshiung_(49052176641).jpg
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg/3840px-Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg/3840px-Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg
 place:
-  id: "ChIJyY4lM3YFbjQRwNUcREpKXzM"
-  name: "Kaohsiung City Temple of Confucius"
-  address: "No. 400, Liantan Rd, Weibei Village, Zuoying District, Kaohsiung City, Taiwan 813"
+  id: ChIJyY4lM3YFbjQRwNUcREpKXzM
+  name: Kaohsiung City Temple of Confucius
+  address: No. 400, Liantan Rd, Weibei Village, Zuoying District, Kaohsiung City, Taiwan 813
   rating: 4.3
   userRatingsTotal: 2264
-  googleMapsUrl: "https://maps.google.com/?cid=3701759101552612800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3701759101552612800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.689332699999998
   lng: 120.29879409999998
-  phone: "+886 7 588 0023"
+  phone: +886 7 588 0023
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayBusy:
       - 10
     weekendBusy:
@@ -50,22 +50,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4d7a584b70455263554e7752516a624659334d6c3459794a496843"
+    venueId: ven_4d7a584b70455263554e7752516a624659334d6c3459794a496843
 tags:
-  - "kaohsiung"
-  - "historic site"
-quickAnswer: "The Kaohsiung City Temple of Confucius sits beside Lotus Lake in Zuoying District, open Tuesday to Sunday 9am–5pm and closed Mondays. Plan on 45–60 minutes to walk the courtyards, bronze reliefs, and Ming-style rooflines, then combine it with the Dragon and Tiger Pagodas a short walk around the lake. Weekends run busy all day (9am–5pm), so a weekday morning is your best bet for a quieter visit."
+  - kaohsiung
+  - historic site
+quickAnswer: The Kaohsiung City Temple of Confucius sits beside Lotus Lake in Zuoying District, open Tuesday to Sunday 9am–5pm and closed Mondays. Plan on 45–60 minutes to walk the courtyards, bronze reliefs, and Ming-style rooflines, then combine it with the Dragon and Tiger Pagodas a short walk around the lake. Weekends run busy all day (9am–5pm), so a weekday morning is your best bet for a quieter visit.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 9:00 AM to 5:00 PM. The temple is closed all day Monday, so avoid planning your visit then."
-  - q: "How do I get there by public transport?"
-    a: "Take the MRT Red Line to Zuoying Station, then walk about 20–25 minutes around the north shore of Lotus Lake, or hop a short taxi ride. Zuoying HSR station is in the same complex if arriving by high-speed rail."
-  - q: "When is it least crowded?"
-    a: "Weekends are busy throughout the full 9am–5pm window, so a weekday, especially soon after opening, is your best chance for a quiet visit."
-  - q: "How long should I spend there?"
-    a: "Plan on 45–60 minutes for the temple itself. If you're combining it with the Dragon and Tiger Pagodas and other Lotus Lake sites nearby, budget half a day."
-  - q: "What else is nearby?"
-    a: "The Dragon and Tiger Pagodas, Spring and Autumn Pavilions, and a large Guanyin statue are all on Lotus Lake within a 15–20 minute walk, making an easy combined half-day loop."
+  - q: What are the opening hours?
+    a: Tuesday through Sunday, 9:00 AM to 5:00 PM. The temple is closed all day Monday, so avoid planning your visit then.
+  - q: How do I get there by public transport?
+    a: Take the MRT Red Line to Zuoying Station, then walk about 20–25 minutes around the north shore of Lotus Lake, or hop a short taxi ride. Zuoying HSR station is in the same complex if arriving by high-speed rail.
+  - q: When is it least crowded?
+    a: Weekends are busy throughout the full 9am–5pm window, so a weekday, especially soon after opening, is your best chance for a quiet visit.
+  - q: How long should I spend there?
+    a: Plan on 45–60 minutes for the temple itself. If you're combining it with the Dragon and Tiger Pagodas and other Lotus Lake sites nearby, budget half a day.
+  - q: What else is nearby?
+    a: The Dragon and Tiger Pagodas, Spring and Autumn Pavilions, and a large Guanyin statue are all on Lotus Lake within a 15–20 minute walk, making an easy combined half-day loop.
 aiGenerated: true
 draft: false
 ---

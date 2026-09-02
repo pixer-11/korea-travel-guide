@@ -1,44 +1,44 @@
 ---
-title: "Hierapolis Ancient Theater: Pamukkale Travel Guide (4.9★)"
-description: "Hierapolis Ancient Theater sits on the hillside above the travertine terraces of Pamukkale, and it's the best-preserved Roman-era theater in the region — come for the stage building, still standing two stories high, and the view back over the white terraces and Denizli valley. 4.9★ (4,681 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Pamukkale"
-category: "attraction"
-pubDate: "2026-08-19T08:56:57.345Z"
+title: 'Hierapolis Ancient Theater: Pamukkale Travel Guide (4.9★)'
+description: Hierapolis Ancient Theater sits on the hillside above the travertine terraces of Pamukkale, and it's the best-preserved Roman-era theater in the region — come for the stage building, still standing two stories high, and the view back over the white terraces and Denizli valley. 4.9★ (4,681 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Pamukkale
+category: attraction
+pubDate: '2026-08-19T08:56:57.345Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ancient_Roman_theatre%2C_Hierapolis.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ancient_Roman_theatre,_Hierapolis.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ancient_Roman_theatre%2C_Hierapolis.jpg/1920px-Ancient_Roman_theatre%2C_Hierapolis.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ancient_Roman_theatre,_Hierapolis.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJCddNkCQSxxQRwqKv4O8MYds"
-  name: "Hierapolis Ancient Theater"
-  address: "Pamukkale, 20190 Pamukkale/Denizli, Türkiye"
+  id: ChIJCddNkCQSxxQRwqKv4O8MYds
+  name: Hierapolis Ancient Theater
+  address: Pamukkale, 20190 Pamukkale/Denizli, Türkiye
   rating: 4.9
   userRatingsTotal: 4681
-  googleMapsUrl: "https://maps.google.com/?cid=15807930391453475522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15807930391453475522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.926777200000004
   lng: 29.129047099999998
 tags:
-  - "pamukkale"
-  - "museum"
-quickAnswer: "Hierapolis Ancient Theater sits on the hillside above the travertine terraces of Pamukkale, and it's the best-preserved Roman-era theater in the region — come for the stage building, still standing two stories high, and the view back over the white terraces and Denizli valley. Give it 45–60 minutes, and go early morning or late afternoon to avoid both the midday sun and the tour-bus crowds. Entry is included in the Hierapolis-Pamukkale archaeological site ticket, not a separate fee."
+  - pamukkale
+  - museum
+quickAnswer: Hierapolis Ancient Theater sits on the hillside above the travertine terraces of Pamukkale, and it's the best-preserved Roman-era theater in the region — come for the stage building, still standing two stories high, and the view back over the white terraces and Denizli valley. Give it 45–60 minutes, and go early morning or late afternoon to avoid both the midday sun and the tour-bus crowds. Entry is included in the Hierapolis-Pamukkale archaeological site ticket, not a separate fee.
 faq:
-  - q: "Is there a separate ticket for the theater?"
-    a: "No. It's included in the general Hierapolis-Pamukkale archaeological site entrance fee — there's no extra charge to see the theater itself."
-  - q: "How long should I spend at the theater?"
-    a: "Plan on 45 minutes to an hour to walk the seating tiers and study the stage wall carvings, more if you want to linger for photos from the top rows."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning right after opening or the last couple of hours before closing — the hillside has no shade, and midday sun plus tour groups make it far less comfortable."
-  - q: "How do I get to the theater from the entrance gates?"
-    a: "It's about a 15–20 minute uphill walk from the north gate near the Antique Pool, or a shorter climb from the south gate near the necropolis."
-  - q: "What else should I see nearby?"
-    a: "The Martyrium of St. Philip and the Hierapolis Necropolis are both a short walk away and worth combining with the theater visit."
+  - q: Is there a separate ticket for the theater?
+    a: No. It's included in the general Hierapolis-Pamukkale archaeological site entrance fee — there's no extra charge to see the theater itself.
+  - q: How long should I spend at the theater?
+    a: Plan on 45 minutes to an hour to walk the seating tiers and study the stage wall carvings, more if you want to linger for photos from the top rows.
+  - q: What's the best time of day to visit?
+    a: Early morning right after opening or the last couple of hours before closing — the hillside has no shade, and midday sun plus tour groups make it far less comfortable.
+  - q: How do I get to the theater from the entrance gates?
+    a: It's about a 15–20 minute uphill walk from the north gate near the Antique Pool, or a shorter climb from the south gate near the necropolis.
+  - q: What else should I see nearby?
+    a: The Martyrium of St. Philip and the Hierapolis Necropolis are both a short walk away and worth combining with the theater visit.
 aiGenerated: true
 draft: false
 ---

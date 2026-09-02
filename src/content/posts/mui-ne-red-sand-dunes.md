@@ -1,49 +1,49 @@
 ---
-title: "Red Sand Dunes: Mui Ne Travel Guide (4.1★)"
-description: "The Red Sand Dunes (Đồi Cát Đỏ) sit just off ĐT716 near Hòn Rơm, a rippled orange-red landscape best seen at sunrise or the hour before sunset when the light turns the sand almost crimson. 4.1★ (6,922 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Mui Ne"
-category: "attraction"
-pubDate: "2026-08-12T09:28:59.779Z"
+title: 'Red Sand Dunes: Mui Ne Travel Guide (4.1★)'
+description: The Red Sand Dunes (Đồi Cát Đỏ) sit just off ĐT716 near Hòn Rơm, a rippled orange-red landscape best seen at sunrise or the hour before sunset when the light turns the sand almost crimson. 4.1★ (6,922 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Mui Ne
+category: attraction
+pubDate: '2026-08-12T09:28:59.779Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Red_sand_dunes_-_panoramio.jpg"
-  credit: "Photo: jetsun / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Red_sand_dunes_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Red_sand_dunes_-_panoramio.jpg/1920px-Red_sand_dunes_-_panoramio.jpg
+  credit: 'Photo: jetsun / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Red_sand_dunes_-_panoramio.jpg
 gallery: []
 place:
-  id: "ChIJG0sCU6yPdjERGKRMrcgkOxU"
-  name: "Red Sand Dunes"
-  address: "01 Hòn Rơm, ĐT716, Mũi Né, Lâm Đồng, Vietnam"
+  id: ChIJG0sCU6yPdjERGKRMrcgkOxU
+  name: Red Sand Dunes
+  address: 01 Hòn Rơm, ĐT716, Mũi Né, Lâm Đồng, Vietnam
   rating: 4.1
   userRatingsTotal: 6922
-  googleMapsUrl: "https://maps.google.com/?cid=1529856942741955608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1529856942741955608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.9492961
   lng: 108.29635019999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "mui ne"
-  - "top attraction"
-quickAnswer: "The Red Sand Dunes (Đồi Cát Đỏ) sit just off ĐT716 near Hòn Rơm, a rippled orange-red landscape best seen at sunrise or the hour before sunset when the light turns the sand almost crimson. It's open 24 hours, but go early (before 6:30am) or late (after 4:30pm) to dodge tour buses and midday heat. Expect kids renting plastic sleds for sand-sledding and a genuinely well-visited, no-shade, no-ticket-booth kind of place."
+  - mui ne
+  - top attraction
+quickAnswer: The Red Sand Dunes (Đồi Cát Đỏ) sit just off ĐT716 near Hòn Rơm, a rippled orange-red landscape best seen at sunrise or the hour before sunset when the light turns the sand almost crimson. It's open 24 hours, but go early (before 6:30am) or late (after 4:30pm) to dodge tour buses and midday heat. Expect kids renting plastic sleds for sand-sledding and a genuinely well-visited, no-shade, no-ticket-booth kind of place.
 faq:
-  - q: "How do I get to the Red Sand Dunes from Mui Ne town?"
-    a: "It's about 10-15 minutes by taxi or motorbike north along ĐT716 near Hòn Rơm. Many visitors rent a motorbike so they can time the visit around sunrise or sunset."
-  - q: "Is there an entrance fee?"
-    a: "No formal ticket booth — you park roadside and walk onto the sand freely. The only cost is the small, negotiable fee for sled rental if you want to sand-sled."
-  - q: "What's the best time of day to visit?"
-    a: "The hour after sunrise or the hour before sunset, when the light turns the sand deep red-orange and temperatures are bearable. Midday is hot and washes out the color."
-  - q: "How long should I plan to spend here?"
-    a: "Around 30-45 minutes is typical — enough to climb a ridge, sled once, and watch the light change before continuing to the White Sand Dunes or Fairy Stream."
-  - q: "Are the Red Sand Dunes crowded?"
-    a: "Yes, it's one of the most-visited stops in Mui Ne, with tour buses and jeep convoys common around sunset. Arriving at sunrise or well before the late-afternoon rush is the best way to beat the crowds."
+  - q: How do I get to the Red Sand Dunes from Mui Ne town?
+    a: It's about 10-15 minutes by taxi or motorbike north along ĐT716 near Hòn Rơm. Many visitors rent a motorbike so they can time the visit around sunrise or sunset.
+  - q: Is there an entrance fee?
+    a: No formal ticket booth — you park roadside and walk onto the sand freely. The only cost is the small, negotiable fee for sled rental if you want to sand-sled.
+  - q: What's the best time of day to visit?
+    a: The hour after sunrise or the hour before sunset, when the light turns the sand deep red-orange and temperatures are bearable. Midday is hot and washes out the color.
+  - q: How long should I plan to spend here?
+    a: Around 30-45 minutes is typical — enough to climb a ridge, sled once, and watch the light change before continuing to the White Sand Dunes or Fairy Stream.
+  - q: Are the Red Sand Dunes crowded?
+    a: Yes, it's one of the most-visited stops in Mui Ne, with tour buses and jeep convoys common around sunset. Arriving at sunrise or well before the late-afternoon rush is the best way to beat the crowds.
 aiGenerated: true
 draft: false
 ---

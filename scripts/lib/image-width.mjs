@@ -53,7 +53,7 @@ export function parseImageWidth(buf) {
 
 export async function probeWidth(url) {
   try {
-    if (/upload\.wikimedia\.org/.test(url)) {
+    if (/(?:upload|thumb)\.wikimedia\.org/.test(url)) {
       const thumb = url.match(/\/thumb\/.*?\/(\d+)px-[^/]+$/);
       if (thumb) return Number(thumb[1]);
       const file = decodeURIComponent(String(url).split('/').pop() || '');

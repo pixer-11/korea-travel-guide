@@ -6,7 +6,7 @@ region: Los Angeles
 category: restaurant
 pubDate: '2026-08-04T10:09:54.984Z'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/f/ff/The_sausage%2C_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._%2830333478632%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_sausage%2C_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._%2830333478632%29.jpg/1920px-The_sausage%2C_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._%2830333478632%29.jpg
     credit: 'Photo: Arturo Pardavila III from Hoboken, NJ, USA / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:The_sausage,_egg_and_cheese_sandwich_at_eggslut_in_the_Grand_Central_Market_in_Los_Angeles._(30333478632).jpg
@@ -68,7 +68,7 @@ heroImage:
   source: https://foursquare.com/v/527bf41911d2ff4cca3e912e
   focus:
     x: 50
-    y: 45
+    'y': 45
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

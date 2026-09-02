@@ -1,53 +1,53 @@
 ---
-title: "Sapporo Beer Museum: Travel Guide (4.3★)"
-description: "The Sapporo Beer Museum in Sapporo's Higashi Ward is Japan's only beer museum, housed in a red-brick former brewery near Sapporo Garden Park. 4.3★ (18,372 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Sapporo"
-category: "attraction"
-pubDate: "2026-09-01T10:44:08.019Z"
+title: 'Sapporo Beer Museum: Travel Guide (4.3★)'
+description: The Sapporo Beer Museum in Sapporo's Higashi Ward is Japan's only beer museum, housed in a red-brick former brewery near Sapporo Garden Park. 4.3★ (18,372 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Sapporo
+category: attraction
+pubDate: '2026-09-01T10:44:08.019Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sapporo_Beer_Museum.JPG"
-  credit: "Photo: The original uploader was K. Takeda at Japanese Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sapporo_Beer_Museum.JPG/960px-Sapporo_Beer_Museum.JPG
+  credit: 'Photo: The original uploader was K. Takeda at Japanese Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.JPG
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ0fYsL4QpC18Ry-fF7_rGYBM"
-  name: "Sapporo Beer Museum"
-  address: "9-chōme-1-1 Kita 7 Jōhigashi, Higashi Ward, Sapporo, Hokkaido 065-8633, Japan"
+  id: ChIJ0fYsL4QpC18Ry-fF7_rGYBM
+  name: Sapporo Beer Museum
+  address: 9-chōme-1-1 Kita 7 Jōhigashi, Higashi Ward, Sapporo, Hokkaido 065-8633, Japan
   rating: 4.3
   userRatingsTotal: 18372
-  googleMapsUrl: "https://maps.google.com/?cid=1396334665551701963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1396334665551701963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.0714671
   lng: 141.3689124
-  phone: "+81 11-748-1876"
+  phone: +81 11-748-1876
   openingHours:
-    - "Monday: 11:00 AM – 5:30 PM"
-    - "Tuesday: 11:00 AM – 5:30 PM"
-    - "Wednesday: 11:00 AM – 5:30 PM"
-    - "Thursday: 11:00 AM – 5:30 PM"
-    - "Friday: 11:00 AM – 5:30 PM"
-    - "Saturday: 11:00 AM – 5:30 PM"
-    - "Sunday: 11:00 AM – 5:30 PM"
+    - 'Monday: 11:00 AM – 5:30 PM'
+    - 'Tuesday: 11:00 AM – 5:30 PM'
+    - 'Wednesday: 11:00 AM – 5:30 PM'
+    - 'Thursday: 11:00 AM – 5:30 PM'
+    - 'Friday: 11:00 AM – 5:30 PM'
+    - 'Saturday: 11:00 AM – 5:30 PM'
+    - 'Sunday: 11:00 AM – 5:30 PM'
 tags:
-  - "sapporo"
-  - "museum"
-quickAnswer: "The Sapporo Beer Museum in Sapporo's Higashi Ward is Japan's only beer museum, housed in a red-brick former brewery near Sapporo Garden Park. Admission to the exhibits is free, daily 11:00 AM–5:30 PM, though paid tastings and tours cost extra. It's very popular with tour groups, so aim for right at opening or later afternoon to avoid the crush."
+  - sapporo
+  - museum
+quickAnswer: The Sapporo Beer Museum in Sapporo's Higashi Ward is Japan's only beer museum, housed in a red-brick former brewery near Sapporo Garden Park. Admission to the exhibits is free, daily 11:00 AM–5:30 PM, though paid tastings and tours cost extra. It's very popular with tour groups, so aim for right at opening or later afternoon to avoid the crush.
 faq:
-  - q: "Is admission to the Sapporo Beer Museum free?"
-    a: "Yes, entry to the exhibit floors is free. You only pay for guided tours and for beer tastings in the separate tasting hall."
-  - q: "How do I get to the Sapporo Beer Museum from Sapporo Station?"
-    a: "It's about a 10-15 minute walk from the east side of JR Sapporo Station, or a short streetcar/taxi ride if you prefer not to walk."
-  - q: "How long should I spend there?"
-    a: "Plan on about 45-60 minutes for the self-guided exhibits, plus extra time for a tasting. Two hours total covers most visits comfortably."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Arrive right at the 11:00 AM opening or go in the last hour before the 5:30 PM close; tour groups tend to fill the middle of the day."
-  - q: "What beer should I try at the tasting?"
-    a: "Order Sapporo Classic, a maltier Hokkaido-only beer you won't easily find elsewhere in Japan, plus any seasonal limited release on the menu."
+  - q: Is admission to the Sapporo Beer Museum free?
+    a: Yes, entry to the exhibit floors is free. You only pay for guided tours and for beer tastings in the separate tasting hall.
+  - q: How do I get to the Sapporo Beer Museum from Sapporo Station?
+    a: It's about a 10-15 minute walk from the east side of JR Sapporo Station, or a short streetcar/taxi ride if you prefer not to walk.
+  - q: How long should I spend there?
+    a: Plan on about 45-60 minutes for the self-guided exhibits, plus extra time for a tasting. Two hours total covers most visits comfortably.
+  - q: What's the best time to visit to avoid crowds?
+    a: Arrive right at the 11:00 AM opening or go in the last hour before the 5:30 PM close; tour groups tend to fill the middle of the day.
+  - q: What beer should I try at the tasting?
+    a: Order Sapporo Classic, a maltier Hokkaido-only beer you won't easily find elsewhere in Japan, plus any seasonal limited release on the menu.
 aiGenerated: true
 draft: false
 ---

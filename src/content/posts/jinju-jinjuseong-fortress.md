@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_02_-_Gongbukmun_Gate.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/5/50/Jinjuseong_Fortress_01.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jinjuseong_Fortress_01.jpg/1920px-Jinjuseong_Fortress_01.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Jinjuseong_Fortress_01.jpg

@@ -1,31 +1,31 @@
 ---
-title: "Jordan Valley Park: Travel Guide (4.3★)"
-description: "Jordan Valley Park sits off New Clear Water Bay Road in Cha Liu Au — despite the name, it's a bus or taxi ride from Jordan proper, not walkable. 4.3★ (3,410 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "hidden-gem"
-pubDate: "2026-08-12T17:31:07.954Z"
+title: 'Jordan Valley Park: Travel Guide (4.3★)'
+description: Jordan Valley Park sits off New Clear Water Bay Road in Cha Liu Au — despite the name, it's a bus or taxi ride from Jordan proper, not walkable. 4.3★ (3,410 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Jordan
+category: hidden-gem
+pubDate: '2026-08-12T17:31:07.954Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jordan_Valley_Park%2C_Central_Lawn_%28Hong_Kong%29.jpg"
-  credit: "Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jordan_Valley_Park,_Central_Lawn_(Hong_Kong).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jordan_Valley_Park%2C_Central_Lawn_%28Hong_Kong%29.jpg/1920px-Jordan_Valley_Park%2C_Central_Lawn_%28Hong_Kong%29.jpg
+  credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jordan_Valley_Park,_Central_Lawn_(Hong_Kong).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/07/Jordan_Valley_Park_Overview1_201308.jpg"
-    credit: "Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jordan_Valley_Park_Overview1_201308.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jordan_Valley_Park_Overview1_201308.jpg/1920px-Jordan_Valley_Park_Overview1_201308.jpg
+    credit: 'Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Jordan_Valley_Park_Overview1_201308.jpg
 place:
-  id: "ChIJVbh0M7EGBDQRSJlmU7o1JpQ"
-  name: "Jordan Valley Park"
-  address: "71號 New Clear Water Bay Rd, Cha Liu Au, Hong Kong"
+  id: ChIJVbh0M7EGBDQRSJlmU7o1JpQ
+  name: Jordan Valley Park
+  address: 71號 New Clear Water Bay Rd, Cha Liu Au, Hong Kong
   rating: 4.3
   userRatingsTotal: 3410
-  googleMapsUrl: "https://maps.google.com/?cid=10675279041107761480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10675279041107761480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.329314399999998
   lng: 114.2204443
-  phone: '+852 2342 2241'
+  phone: +852 2342 2241
   openingHours:
     - 'Monday: 5:00 AM – 11:00 PM'
     - 'Tuesday: 5:00 AM – 11:00 PM'
@@ -35,20 +35,20 @@ place:
     - 'Saturday: 5:00 AM – 11:00 PM'
     - 'Sunday: 5:00 AM – 11:00 PM'
 tags:
-  - "jordan"
-  - "hidden gem"
-quickAnswer: "Jordan Valley Park sits off New Clear Water Bay Road in Cha Liu Au — despite the name, it's a bus or taxi ride from Jordan proper, not walkable. Come for the bougainvillea garden, the hedge maze, and the model-car race track, and give it 1-2 hours. Weekday mornings are quietest; weekends bring families and remote-control car hobbyists."
+  - jordan
+  - hidden gem
+quickAnswer: Jordan Valley Park sits off New Clear Water Bay Road in Cha Liu Au — despite the name, it's a bus or taxi ride from Jordan proper, not walkable. Come for the bougainvillea garden, the hedge maze, and the model-car race track, and give it 1-2 hours. Weekday mornings are quietest; weekends bring families and remote-control car hobbyists.
 faq:
-  - q: "Is Jordan Valley Park near Jordan MTR station?"
-    a: "No — despite the shared name, the park is in Cha Liu Au off New Clear Water Bay Road, a bus or taxi ride from Jordan. It's closer to Diamond Hill and Ngau Chi Wan."
-  - q: "How much does it cost to enter?"
-    a: "There's no admission fee. It's a public park with open access to the gardens, maze, and model car track."
-  - q: "How long should I plan to spend there?"
-    a: "One to two hours covers the bougainvillea garden, maze, and a look at the model-car track. Add time if you're picnicking or exploring nearby Diamond Hill sights."
-  - q: "When is it quietest?"
-    a: "Weekday mornings see the fewest visitors. Weekend afternoons draw families and model-car hobbyists, so expect more activity then."
-  - q: "Can I bring my own remote-control car to the track?"
-    a: "Yes, the track is open to hobbyists. It's informal — watch a few laps to get a feel for the local etiquette before joining in."
+  - q: Is Jordan Valley Park near Jordan MTR station?
+    a: No — despite the shared name, the park is in Cha Liu Au off New Clear Water Bay Road, a bus or taxi ride from Jordan. It's closer to Diamond Hill and Ngau Chi Wan.
+  - q: How much does it cost to enter?
+    a: There's no admission fee. It's a public park with open access to the gardens, maze, and model car track.
+  - q: How long should I plan to spend there?
+    a: One to two hours covers the bougainvillea garden, maze, and a look at the model-car track. Add time if you're picnicking or exploring nearby Diamond Hill sights.
+  - q: When is it quietest?
+    a: Weekday mornings see the fewest visitors. Weekend afternoons draw families and model-car hobbyists, so expect more activity then.
+  - q: Can I bring my own remote-control car to the track?
+    a: Yes, the track is open to hobbyists. It's informal — watch a few laps to get a feel for the local etiquette before joining in.
 aiGenerated: true
 draft: false
 ---

@@ -1,33 +1,33 @@
 ---
-title: "Taroko National Park: Taroko Gorge Travel Guide (4.6★)"
-description: "Taroko Gorge, in Taroko National Park on Taiwan's east coast near Hualien, is a marble canyon carved by the Liwu River with trails, temples and swinging bridges. 4.6★ (24,681 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Taroko Gorge"
-category: "attraction"
-pubDate: "2026-08-11T09:12:43.418Z"
+title: 'Taroko National Park: Taroko Gorge Travel Guide (4.6★)'
+description: Taroko Gorge, in Taroko National Park on Taiwan's east coast near Hualien, is a marble canyon carved by the Liwu River with trails, temples and swinging bridges. 4.6★ (24,681 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Taroko Gorge
+category: attraction
+pubDate: '2026-08-11T09:12:43.418Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/90/Taroko_National_Park%2C_Hualien_County%2C_Taiwan_-_panoramio_%283%29.jpg"
-  credit: "Photo: The Erica Chang / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Taroko_National_Park,_Hualien_County,_Taiwan_-_panoramio_(3).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taroko_National_Park%2C_Hualien_County%2C_Taiwan_-_panoramio_%283%29.jpg/1920px-Taroko_National_Park%2C_Hualien_County%2C_Taiwan_-_panoramio_%283%29.jpg
+  credit: 'Photo: The Erica Chang / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Taroko_National_Park,_Hualien_County,_Taiwan_-_panoramio_(3).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg/3840px-Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg/3840px-Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Taroko-Gorge_Hualien_Taiwan_Pudu-Bridge-at-Taroko-National-Park-01.jpg
 place:
-  id: "ChIJ7-fCX4SCaDQRMaqw4IX92d0"
-  name: "Taroko National Park"
-  address: "Xiulin Township, Hualien County, Taiwan 972"
+  id: ChIJ7-fCX4SCaDQRMaqw4IX92d0
+  name: Taroko National Park
+  address: Xiulin Township, Hualien County, Taiwan 972
   rating: 4.6
   userRatingsTotal: 24681
-  googleMapsUrl: "https://maps.google.com/?cid=15986087103770438193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15986087103770438193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.1939246
   lng: 121.4906668
-  phone: "+886 3 862 1100"
+  phone: +886 3 862 1100
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 19
       - 20
@@ -57,22 +57,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_306432395849347771614d525144614353345843662d374a496843"
+    venueId: ven_306432395849347771614d525144614353345843662d374a496843
 tags:
-  - "taroko gorge"
-  - "top attraction"
-quickAnswer: "Taroko Gorge, in Taroko National Park on Taiwan's east coast near Hualien, is a marble canyon carved by the Liwu River with trails, temples and swinging bridges. Give it a full day, base yourself in Hualien City, and aim for early morning or evening — weekends get packed between 9am and 5pm, while 6pm–11pm stays calm. Rent a scooter or join a shuttle tour, since public transport inside the gorge is limited."
+  - taroko gorge
+  - top attraction
+quickAnswer: Taroko Gorge, in Taroko National Park on Taiwan's east coast near Hualien, is a marble canyon carved by the Liwu River with trails, temples and swinging bridges. Give it a full day, base yourself in Hualien City, and aim for early morning or evening — weekends get packed between 9am and 5pm, while 6pm–11pm stays calm. Rent a scooter or join a shuttle tour, since public transport inside the gorge is limited.
 faq:
-  - q: "How long should I spend at Taroko Gorge?"
-    a: "A full day gives you time for four or five highlights like Shakadang Trail, Swallow Grotto, Eternal Spring Shrine and Tianxiang. A rushed half-day can cover two or three stops if you have your own transport."
-  - q: "What's the best way to get around inside the park?"
-    a: "Renting a scooter or car in Hualien, or booking a half/full-day shuttle tour, gives the most flexibility. Public buses (routes 302 and 1126) run but are infrequent and can fill up."
-  - q: "When is the park least crowded?"
-    a: "Evenings are calmest — 7pm–11pm on weekdays and 6pm–11pm on weekends. Avoid weekends between 9am and 5pm, when tour buses and day-trippers pack the main viewpoints."
-  - q: "Do I need a permit to hike here?"
-    a: "Some restricted trails require a free permit arranged in advance or at the visitor center, especially routes with rockfall risk. Main sightseeing spots like Swallow Grotto and Shakadang don't require one."
-  - q: "What's nearby if I want to extend the trip?"
-    a: "Hualien City, the usual base for the gorge, has a night market and coastal scenery of its own, and is a short train ride from Taipei on the east coast rail line."
+  - q: How long should I spend at Taroko Gorge?
+    a: A full day gives you time for four or five highlights like Shakadang Trail, Swallow Grotto, Eternal Spring Shrine and Tianxiang. A rushed half-day can cover two or three stops if you have your own transport.
+  - q: What's the best way to get around inside the park?
+    a: Renting a scooter or car in Hualien, or booking a half/full-day shuttle tour, gives the most flexibility. Public buses (routes 302 and 1126) run but are infrequent and can fill up.
+  - q: When is the park least crowded?
+    a: Evenings are calmest — 7pm–11pm on weekdays and 6pm–11pm on weekends. Avoid weekends between 9am and 5pm, when tour buses and day-trippers pack the main viewpoints.
+  - q: Do I need a permit to hike here?
+    a: Some restricted trails require a free permit arranged in advance or at the visitor center, especially routes with rockfall risk. Main sightseeing spots like Swallow Grotto and Shakadang don't require one.
+  - q: What's nearby if I want to extend the trip?
+    a: Hualien City, the usual base for the gorge, has a night market and coastal scenery of its own, and is a short train ride from Taipei on the east coast rail line.
 aiGenerated: true
 draft: false
 ---

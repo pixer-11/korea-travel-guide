@@ -6,11 +6,7 @@ region: Jakarta
 category: event
 draft: true
 heldReason: duplicate
-heldNote: >-
-  2026-09-01: same festival as jakarta-the-sounds-project-vol-9 (Aug 7-9, Jakarta).
-  The twin names the real venue (Ecovention Ecopark, Ancol) while this one says the venue was
-  never finalised, so the twin keeps the URL and inherits this page vision-verified hero.
-  Released from quarantine by the alt-photo patrol on 08-31 with no duplicate check.
+heldNote: '2026-09-01: same festival as jakarta-the-sounds-project-vol-9 (Aug 7-9, Jakarta). The twin names the real venue (Ecovention Ecopark, Ancol) while this one says the venue was never finalised, so the twin keeps the URL and inherits this page vision-verified hero. Released from quarantine by the alt-photo patrol on 08-31 with no duplicate check.'
 pubDate: '2026-08-05'
 eventStartDate: '2026-08-07'
 eventEndDate: '2026-08-09'
@@ -32,7 +28,7 @@ faq:
 aiGenerated: true
 eventRecurring: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Souljah_at_The_Sounds_Project%2C_August_2025.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Souljah_at_The_Sounds_Project%2C_August_2025.jpg/1280px-Souljah_at_The_Sounds_Project%2C_August_2025.jpg
   credit: 'Photo: David Wadie Fisher-Freberg / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Souljah_at_The_Sounds_Project,_August_2025.jpg

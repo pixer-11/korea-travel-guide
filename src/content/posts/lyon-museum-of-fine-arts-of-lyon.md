@@ -1,37 +1,37 @@
 ---
-title: "Museum of Fine Arts of Lyon: Travel Guide (4.5★)"
-description: "The Musée des Beaux-Arts de Lyon, on Place des Terreaux, is one of France's largest fine art collections outside the Louvre, housed in a former 17th-century Benedictine abbey. 4.5★ (9,269 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "attraction"
-pubDate: "2026-08-09T09:40:39.682Z"
+title: 'Museum of Fine Arts of Lyon: Travel Guide (4.5★)'
+description: The Musée des Beaux-Arts de Lyon, on Place des Terreaux, is one of France's largest fine art collections outside the Louvre, housed in a former 17th-century Benedictine abbey. 4.5★ (9,269 reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: attraction
+pubDate: '2026-08-09T09:40:39.682Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/30/MBA_Lyon_facade_jour.jpg"
-  credit: "Photo: Musée des Beaux-Arts de Lyon - Photo Corentin Mossière / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:MBA_Lyon_facade_jour.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MBA_Lyon_facade_jour.jpg/1280px-MBA_Lyon_facade_jour.jpg
+  credit: 'Photo: Musée des Beaux-Arts de Lyon - Photo Corentin Mossière / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:MBA_Lyon_facade_jour.jpg
 gallery: []
 place:
-  id: "ChIJUXR07v7q9EcRb36T44_nghc"
-  name: "Museum of Fine Arts of Lyon"
-  address: "20 Pl. des Terreaux, 69001 Lyon, France"
+  id: ChIJUXR07v7q9EcRb36T44_nghc
+  name: Museum of Fine Arts of Lyon
+  address: 20 Pl. des Terreaux, 69001 Lyon, France
   rating: 4.5
   userRatingsTotal: 9269
-  googleMapsUrl: "https://maps.google.com/?cid=1694171015029161583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1694171015029161583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.7671937
   lng: 4.833565999999999
-  phone: "+33 4 72 10 17 40"
+  phone: +33 4 72 10 17 40
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:30 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:30 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -45,22 +45,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6368676e5f3434543633625263453971377637305258554a496843"
+    venueId: ven_6368676e5f3434543633625263453971377637305258554a496843
 tags:
-  - "lyon"
-  - "museum"
-quickAnswer: "The Musée des Beaux-Arts de Lyon, on Place des Terreaux, is one of France's largest fine art collections outside the Louvre, housed in a former 17th-century Benedictine abbey. Plan for two to three hours, go on a weekday morning if you can, and note it's closed all day Tuesday. Weekends fill up fast between 11am and 6pm, so arrive right at opening to beat the crowds."
+  - lyon
+  - museum
+quickAnswer: The Musée des Beaux-Arts de Lyon, on Place des Terreaux, is one of France's largest fine art collections outside the Louvre, housed in a former 17th-century Benedictine abbey. Plan for two to three hours, go on a weekday morning if you can, and note it's closed all day Tuesday. Weekends fill up fast between 11am and 6pm, so arrive right at opening to beat the crowds.
 faq:
-  - q: "How long should I spend at the Museum of Fine Arts of Lyon?"
-    a: "Plan on two to three hours for a good overview; art lovers can easily spend half a day given the size of the collection."
-  - q: "What is the quietest time to visit?"
-    a: "Weekday mornings right at opening (10am, or 10:30am on Fridays) tend to be calmest. Weekends get busy from 11am to 6pm, so arrive early if visiting then."
-  - q: "Is the museum closed on any day?"
-    a: "Yes, it's closed all day Tuesday. It's open 10am–6pm Monday, Wednesday, Thursday, Saturday and Sunday, and 10:30am–6pm on Friday."
-  - q: "How do I get there by metro?"
-    a: "Take Metro Line A to Hôtel de Ville – Louis Pradel station; the museum entrance is right on Place des Terreaux, a few steps away."
-  - q: "What's nearby if I want to combine the visit with other sights?"
-    a: "The traboules of Vieux Lyon are a 15–20 minute walk across the Saône, and the Musée Gadagne and Rue de la République shopping street are both close by."
+  - q: How long should I spend at the Museum of Fine Arts of Lyon?
+    a: Plan on two to three hours for a good overview; art lovers can easily spend half a day given the size of the collection.
+  - q: What is the quietest time to visit?
+    a: Weekday mornings right at opening (10am, or 10:30am on Fridays) tend to be calmest. Weekends get busy from 11am to 6pm, so arrive early if visiting then.
+  - q: Is the museum closed on any day?
+    a: Yes, it's closed all day Tuesday. It's open 10am–6pm Monday, Wednesday, Thursday, Saturday and Sunday, and 10:30am–6pm on Friday.
+  - q: How do I get there by metro?
+    a: Take Metro Line A to Hôtel de Ville – Louis Pradel station; the museum entrance is right on Place des Terreaux, a few steps away.
+  - q: What's nearby if I want to combine the visit with other sights?
+    a: The traboules of Vieux Lyon are a 15–20 minute walk across the Saône, and the Musée Gadagne and Rue de la République shopping street are both close by.
 aiGenerated: true
 draft: false
 ---

@@ -1,11 +1,6 @@
 ---
-title: >-
-  Sonu Nigam - 30 Years of Sonu (Revolution Tour): Dates, Tickets & Venue (Abu
-  Dhabi)
-description: >-
-  Sonu Nigam - 30 Years of Sonu (Revolution Tour) in Abu Dhabi, United Arab
-  Emirates — August 21, 2026. What it is, when and where, and how to plan around
-  it.
+title: 'Sonu Nigam - 30 Years of Sonu (Revolution Tour): Dates, Tickets & Venue (Abu Dhabi)'
+description: Sonu Nigam - 30 Years of Sonu (Revolution Tour) in Abu Dhabi, United Arab Emirates — August 21, 2026. What it is, when and where, and how to plan around it.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event
@@ -16,46 +11,25 @@ eventRecurring: false
 tags:
   - abu dhabi
   - event
-quickAnswer: >-
-  Sonu Nigam kicks off his "30 Years of Sonu" Revolution Tour at Etihad Arena on
-  Yas Island, Abu Dhabi, on August 21, 2026 — the global launch date of an
-  international concert series marking his three-decade career. Tickets and set
-  times were handled through Etihad Arena's official site and Sonu Nigam's
-  verified channels. Arrive early — Yas Island venues fill access roads fast on
-  concert nights.
+quickAnswer: Sonu Nigam kicks off his "30 Years of Sonu" Revolution Tour at Etihad Arena on Yas Island, Abu Dhabi, on August 21, 2026 — the global launch date of an international concert series marking his three-decade career. Tickets and set times were handled through Etihad Arena's official site and Sonu Nigam's verified channels. Arrive early — Yas Island venues fill access roads fast on concert nights.
 faq:
   - q: What is the confirmed date for Sonu Nigam's Abu Dhabi show?
-    a: >-
-      August 21, 2026, at Etihad Arena on Yas Island — this is the announced
-      launch date of the global Revolution Tour. Ticket details for Sonu Nigam's
-      30 Years of Sonu (Revolution Tour) in Abu Dhabi were available through
-      official ticketing sources.
+    a: August 21, 2026, at Etihad Arena on Yas Island — this is the announced launch date of the global Revolution Tour. Ticket details for Sonu Nigam's 30 Years of Sonu (Revolution Tour) in Abu Dhabi were available through official ticketing sources.
   - q: Where exactly is the concert held?
-    a: >-
-      Etihad Arena, part of the Yas Bay Waterfront development on Yas Island,
-      Abu Dhabi — the same complex as Yas Mall and Ferrari World.
+    a: Etihad Arena, part of the Yas Bay Waterfront development on Yas Island, Abu Dhabi — the same complex as Yas Mall and Ferrari World.
   - q: How do I get to Etihad Arena from central Abu Dhabi?
-    a: >-
-      It's roughly a 20–30 minute drive by car or taxi. On concert nights, allow
-      extra time for bridge traffic onto Yas Island and for parking.
+    a: It's roughly a 20–30 minute drive by car or taxi. On concert nights, allow extra time for bridge traffic onto Yas Island and for parking.
   - q: Where can I buy tickets?
-    a: >-
-      Ticket pricing and on-sale dates weren't part of the official announcement
-      used here. Buy only through Etihad Arena's official site or an authorized
-      partner, and watch for presale windows given this is the tour's opening
-      night.
+    a: Ticket pricing and on-sale dates weren't part of the official announcement used here. Buy only through Etihad Arena's official site or an authorized partner, and watch for presale windows given this is the tour's opening night.
   - q: Is this a good trip to combine with other Abu Dhabi sightseeing?
-    a: >-
-      Yes — Yas Island alone has Ferrari World, Warner Bros. World, and Yas
-      Marina Circuit, and it's a short drive from Sheikh Zayed Grand Mosque and
-      the Corniche if you stay a few extra days.
+    a: Yes — Yas Island alone has Ferrari World, Warner Bros. World, and Yas Marina Circuit, and it's a short drive from Sheikh Zayed Grand Mosque and the Corniche if you stay a few extra days.
 aiGenerated: true
 draft: false
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Sonu_Nigam_MI08.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sonu_Nigam_MI08.jpg/1920px-Sonu_Nigam_MI08.jpg
   credit: 'Photo: Splashprabhu / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Sonu_Nigam_MI08.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Sonu_Nigam_MI08.jpg
   focus:
     x: 40
     'y': 22

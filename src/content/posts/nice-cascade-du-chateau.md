@@ -1,70 +1,76 @@
 ---
-title: "Cascade du Château: Nice Travel Guide"
+title: 'Cascade du Château: Nice Travel Guide'
 description: The Cascade du Château is the waterfall you spot from the Promenade des Anglais, tumbling down the cliff face of Colline du Château, Nice's old castle hill park.
-country: "France"
-region: "Nice"
-category: "hidden-gem"
-pubDate: "2026-07-31T10:08:19.322Z"
+country: France
+region: Nice
+category: hidden-gem
+pubDate: '2026-07-31T10:08:19.322Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/18/Cascade_du_ch%C3%A2teau%2C_Nice_%287726528602%29.jpg"
-  credit: "Photo: Ole Palnatoke Andersen / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cascade_du_ch%C3%A2teau,_Nice_(7726528602).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cascade_du_ch%C3%A2teau%2C_Nice_%287726528602%29.jpg/1920px-Cascade_du_ch%C3%A2teau%2C_Nice_%287726528602%29.jpg
+  credit: 'Photo: Ole Palnatoke Andersen / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cascade_du_ch%C3%A2teau,_Nice_(7726528602).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nice_Parc_du_Ch%C3%A2teau_de_Nice_Cascade_du_Ch%C3%A2teau_2.jpg/3840px-Nice_Parc_du_Ch%C3%A2teau_de_Nice_Cascade_du_Ch%C3%A2teau_2.jpg"
-    credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nice_Parc_du_Ch%C3%A2teau_de_Nice_Cascade_du_Ch%C3%A2teau_2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nice_Parc_du_Ch%C3%A2teau_de_Nice_Cascade_du_Ch%C3%A2teau_2.jpg/3840px-Nice_Parc_du_Ch%C3%A2teau_de_Nice_Cascade_du_Ch%C3%A2teau_2.jpg
+    credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Nice_Parc_du_Ch%C3%A2teau_de_Nice_Cascade_du_Ch%C3%A2teau_2.jpg
 place:
-  id: "ChIJIWN_rNLbzRIR9jhnI7xfMMQ"
-  name: "Cascade du Château"
-  address: "All. Professeur Benoît, 06300 Nice, France"
+  id: ChIJIWN_rNLbzRIR9jhnI7xfMMQ
+  name: Cascade du Château
+  address: All. Professeur Benoît, 06300 Nice, France
   rating: 4.7
   userRatingsTotal: 2322
-  googleMapsUrl: "https://maps.google.com/?cid=14136904491968444662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14136904491968444662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.6957518
   lng: 7.2794872999999995
   openingHours:
-    - "Monday: 8:30 AM – 8:00 PM"
-    - "Tuesday: 8:30 AM – 8:00 PM"
-    - "Wednesday: 8:30 AM – 8:00 PM"
-    - "Thursday: 8:30 AM – 8:00 PM"
-    - "Friday: 8:30 AM – 8:00 PM"
-    - "Saturday: 8:30 AM – 8:00 PM"
-    - "Sunday: 8:30 AM – 8:00 PM"
+    - 'Monday: 8:30 AM – 8:00 PM'
+    - 'Tuesday: 8:30 AM – 8:00 PM'
+    - 'Wednesday: 8:30 AM – 8:00 PM'
+    - 'Thursday: 8:30 AM – 8:00 PM'
+    - 'Friday: 8:30 AM – 8:00 PM'
+    - 'Saturday: 8:30 AM – 8:00 PM'
+    - 'Sunday: 8:30 AM – 8:00 PM'
   busyness:
-    updated: 2026-07-31
-    weekdayQuiet: [9, 10, 19]
+    updated: 2026-07-31T00:00:00.000Z
+    weekdayQuiet:
+      - 9
+      - 10
+      - 19
     weekdayBusy:
       - 14
       - 15
       - 16
-    weekendQuiet: [9, 10, 19]
+    weekendQuiet:
+      - 9
+      - 10
+      - 19
     weekendBusy:
       - 12
       - 13
       - 14
       - 15
       - 16
-    venueId: "ven_514d4d667837496e686a395249527a624c4e725f4e57494a496843"
+    venueId: ven_514d4d667837496e686a395249527a624c4e725f4e57494a496843
 tags:
-  - "nice"
-  - "hidden gem"
-quickAnswer: "The Cascade du Château is the waterfall you spot from the Promenade des Anglais, tumbling down the cliff face of Colline du Château, Nice's old castle hill park. It's open daily 8:30am–8pm and free to visit; aim for early morning or after 5pm, since the 12pm–5pm window (especially weekends) draws the heaviest crowds. Budget 20-30 minutes at the falls, plus an hour or two if you climb further into the park for the panoramic viewpoints over the Baie des Anges."
+  - nice
+  - hidden gem
+quickAnswer: The Cascade du Château is the waterfall you spot from the Promenade des Anglais, tumbling down the cliff face of Colline du Château, Nice's old castle hill park. It's open daily 8:30am–8pm and free to visit; aim for early morning or after 5pm, since the 12pm–5pm window (especially weekends) draws the heaviest crowds. Budget 20-30 minutes at the falls, plus an hour or two if you climb further into the park for the panoramic viewpoints over the Baie des Anges.
 faq:
-  - q: "How do I get to the Cascade du Château?"
-    a: "Walk to the eastern end of the Promenade des Anglais or the Old Town's Rue Rossetti and take either the free public lift near Tour Bellanda or the stone stairs up Castle Hill. It's about a 10-15 minute climb on foot, or under a minute by lift."
-  - q: "Is the Cascade du Château free to visit?"
-    a: "Yes, the waterfall and the surrounding Parc de la Colline du Château are free public park space with no entry fee."
-  - q: "What are the opening hours?"
-    a: "The park and waterfall are open daily from 8:30am to 8pm, with no variation across the week."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning right at 8:30am opening or after 5pm are calmest. Try to avoid 12pm–5pm on weekends, when day-trippers and tour groups peak."
-  - q: "How much time should I plan for?"
-    a: "20-30 minutes at the waterfall itself, but budget an hour or two if you want to explore the full plateau, viewpoint, cemetery, and walk back down through the Old Town."
-  - q: "What else is nearby?"
-    a: "The Old Town (Vieux Nice), Cours Saleya market, and Nice's port are all within a short walk of the base of Castle Hill, making the cascade easy to combine with a wider half-day loop."
+  - q: How do I get to the Cascade du Château?
+    a: Walk to the eastern end of the Promenade des Anglais or the Old Town's Rue Rossetti and take either the free public lift near Tour Bellanda or the stone stairs up Castle Hill. It's about a 10-15 minute climb on foot, or under a minute by lift.
+  - q: Is the Cascade du Château free to visit?
+    a: Yes, the waterfall and the surrounding Parc de la Colline du Château are free public park space with no entry fee.
+  - q: What are the opening hours?
+    a: The park and waterfall are open daily from 8:30am to 8pm, with no variation across the week.
+  - q: When is the quietest time to visit?
+    a: Early morning right at 8:30am opening or after 5pm are calmest. Try to avoid 12pm–5pm on weekends, when day-trippers and tour groups peak.
+  - q: How much time should I plan for?
+    a: 20-30 minutes at the waterfall itself, but budget an hour or two if you want to explore the full plateau, viewpoint, cemetery, and walk back down through the Old Town.
+  - q: What else is nearby?
+    a: The Old Town (Vieux Nice), Cours Saleya market, and Nice's port are all within a short walk of the base of Castle Hill, making the cascade easy to combine with a wider half-day loop.
 aiGenerated: true
 draft: false
 ---

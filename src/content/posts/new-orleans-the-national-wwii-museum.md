@@ -1,41 +1,41 @@
 ---
-title: "The National WWII Museum: New Orleans Travel Guide (4.8★)"
-description: "The National WWII Museum sits in New Orleans' Warehouse District at 945 Magazine St, open daily 9am–5pm. 4.8★ (30,266 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "attraction"
-pubDate: "2026-08-08T08:05:28.753Z"
+title: 'The National WWII Museum: New Orleans Travel Guide (4.8★)'
+description: The National WWII Museum sits in New Orleans' Warehouse District at 945 Magazine St, open daily 9am–5pm. 4.8★ (30,266 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: attraction
+pubDate: '2026-08-08T08:05:28.753Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/96/National_WWII_Museum_corner%2C_New_Orleans_May_2017.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_WWII_Museum_corner,_New_Orleans_May_2017.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/National_WWII_Museum_corner%2C_New_Orleans_May_2017.jpg/1920px-National_WWII_Museum_corner%2C_New_Orleans_May_2017.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:National_WWII_Museum_corner,_New_Orleans_May_2017.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_National_WWII_Museum_New_Orleans_Dec_2015.jpg/3840px-The_National_WWII_Museum_New_Orleans_Dec_2015.jpg"
-    credit: "Photo: ironypoisoning / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_National_WWII_Museum_New_Orleans_Dec_2015.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_National_WWII_Museum_New_Orleans_Dec_2015.jpg/3840px-The_National_WWII_Museum_New_Orleans_Dec_2015.jpg
+    credit: 'Photo: ironypoisoning / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:The_National_WWII_Museum_New_Orleans_Dec_2015.jpg
 place:
-  id: "ChIJHc6A2namIIYRaibte9NvWoU"
-  name: "The National WWII Museum"
-  address: "945 Magazine St, New Orleans, LA 70130, USA"
+  id: ChIJHc6A2namIIYRaibte9NvWoU
+  name: The National WWII Museum
+  address: 945 Magazine St, New Orleans, LA 70130, USA
   rating: 4.8
   userRatingsTotal: 30266
-  googleMapsUrl: "https://maps.google.com/?cid=9609115709056296554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9609115709056296554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.943071099999997
   lng: -90.07053169999999
-  phone: "+1 504-528-1944"
+  phone: +1 504-528-1944
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-08
+    updated: 2026-08-08T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -49,11 +49,11 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_556f57764e396574626961525949496d616e32413663484a496843"
+    venueId: ven_556f57764e396574626961525949496d616e32413663484a496843
 tags:
-  - "new orleans"
-  - "museum"
-quickAnswer: "The National WWII Museum sits in New Orleans' Warehouse District at 945 Magazine St, open daily 9am–5pm. Budget a full half-day (4-5 hours) to cover all the pavilions properly, and go right at 9am or after 3pm to dodge the midday weekend crush (busiest 12pm–3pm). This is a very popular, heavily-visited museum, so book timed tickets online before you go."
+  - new orleans
+  - museum
+quickAnswer: The National WWII Museum sits in New Orleans' Warehouse District at 945 Magazine St, open daily 9am–5pm. Budget a full half-day (4-5 hours) to cover all the pavilions properly, and go right at 9am or after 3pm to dodge the midday weekend crush (busiest 12pm–3pm). This is a very popular, heavily-visited museum, so book timed tickets online before you go.
 faq: []
 aiGenerated: true
 draft: false

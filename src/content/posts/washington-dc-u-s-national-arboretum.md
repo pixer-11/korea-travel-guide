@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:National_Capitol_Columns_-_Washington,_D.C..jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg/1280px-Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg
     credit: 'Photo: Cliff from Arlington, Virginia, USA / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Visitors_Center_%26_Administration_Building_-_United_States_National_Arboretum.jpg

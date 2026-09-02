@@ -1,48 +1,48 @@
 ---
-title: "Phu Quoc National Park: Travel Guide (4.2★)"
-description: "Phu Quoc National Park covers roughly 70% of the island's northern half, a UNESCO Biosphere Reserve of dense evergreen forest, waterfalls and rare wildlife. 4.2★ (1,103 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Phu Quoc"
-category: "attraction"
-pubDate: "2026-08-21T08:16:38.687Z"
+title: 'Phu Quoc National Park: Travel Guide (4.2★)'
+description: Phu Quoc National Park covers roughly 70% of the island's northern half, a UNESCO Biosphere Reserve of dense evergreen forest, waterfalls and rare wildlife. 4.2★ (1,103 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Phu Quoc
+category: attraction
+pubDate: '2026-08-21T08:16:38.687Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Phu_quoc_plage_sao.jpg"
-  credit: "Photo: ntt / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phu_quoc_plage_sao.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Phu_quoc_plage_sao.jpg/1280px-Phu_quoc_plage_sao.jpg
+  credit: 'Photo: ntt / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Phu_quoc_plage_sao.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/de/Rough_road_at_north-east_of_Phu_Quoc.JPG"
-    credit: "Photo: Tonbi ko / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Rough_road_at_north-east_of_Phu_Quoc.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rough_road_at_north-east_of_Phu_Quoc.JPG/1920px-Rough_road_at_north-east_of_Phu_Quoc.JPG
+    credit: 'Photo: Tonbi ko / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Rough_road_at_north-east_of_Phu_Quoc.JPG
 place:
-  id: "ChIJvc4-RWUgCDERx4AJFW81Tg4"
-  name: "Phu Quoc National Park"
-  address: "82JJ+M57, Phu Quoc, An Giang, Vietnam"
+  id: ChIJvc4-RWUgCDERx4AJFW81Tg4
+  name: Phu Quoc National Park
+  address: 82JJ+M57, Phu Quoc, An Giang, Vietnam
   rating: 4.2
   userRatingsTotal: 1103
-  googleMapsUrl: "https://maps.google.com/?cid=1030820115925008583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1030820115925008583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.331673
   lng: 104.030407
 tags:
-  - "phu quoc"
-  - "park"
-quickAnswer: "Phu Quoc National Park covers roughly 70% of the island's northern half, a UNESCO Biosphere Reserve of dense evergreen forest, waterfalls and rare wildlife. Most visitors combine a half-day motorbike loop to Suoi Tranh or Suoi Da Ban waterfalls with a stop at Ham Ninh fishing village. Go in the dry season (November–April) and start early, since trails offer little shade and afternoon storms roll in fast in the wet months."
+  - phu quoc
+  - park
+quickAnswer: Phu Quoc National Park covers roughly 70% of the island's northern half, a UNESCO Biosphere Reserve of dense evergreen forest, waterfalls and rare wildlife. Most visitors combine a half-day motorbike loop to Suoi Tranh or Suoi Da Ban waterfalls with a stop at Ham Ninh fishing village. Go in the dry season (November–April) and start early, since trails offer little shade and afternoon storms roll in fast in the wet months.
 faq:
-  - q: "How do I get to Phu Quoc National Park without a tour?"
-    a: "Rent a motorbike in Duong Dong and ride 30–45 minutes into the interior toward Suoi Tranh or Suoi Da Ban waterfalls; a hired car or driver works if you'd rather not ride."
-  - q: "Is there an entrance fee?"
-    a: "There's no formal ticket gate for the park itself, though some waterfall access points charge a small local parking or entry fee — bring small cash notes just in case."
-  - q: "How long should I spend at the park?"
-    a: "Half a day covers a waterfall-and-village loop; allow a full day if you want to hike deeper trails or combine it with Ham Ninh fishing village."
-  - q: "When is the best time to visit?"
-    a: "Dry season, November to April, when trails are firm and afternoon storms are rare; aim to arrive before 10am for cooler temperatures and calmer trails."
-  - q: "What should I bring?"
-    a: "Proper closed-toe shoes for slippery granite, water, snacks, sun protection, and a full fuel tank — there's little infrastructure once you're inside the park."
+  - q: How do I get to Phu Quoc National Park without a tour?
+    a: Rent a motorbike in Duong Dong and ride 30–45 minutes into the interior toward Suoi Tranh or Suoi Da Ban waterfalls; a hired car or driver works if you'd rather not ride.
+  - q: Is there an entrance fee?
+    a: There's no formal ticket gate for the park itself, though some waterfall access points charge a small local parking or entry fee — bring small cash notes just in case.
+  - q: How long should I spend at the park?
+    a: Half a day covers a waterfall-and-village loop; allow a full day if you want to hike deeper trails or combine it with Ham Ninh fishing village.
+  - q: When is the best time to visit?
+    a: Dry season, November to April, when trails are firm and afternoon storms are rare; aim to arrive before 10am for cooler temperatures and calmer trails.
+  - q: What should I bring?
+    a: Proper closed-toe shoes for slippery granite, water, snacks, sun protection, and a full fuel tank — there's little infrastructure once you're inside the park.
 aiGenerated: true
 draft: false
 ---

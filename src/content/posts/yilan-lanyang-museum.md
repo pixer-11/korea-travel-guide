@@ -1,44 +1,44 @@
 ---
-title: "Lanyang Museum: Yilan Travel Guide (4.4★)"
-description: "Lanyang Museum sits on the edge of the old Wushi Harbor wetlands in Toucheng Township, its slanted, cliff-like facade rising straight out of a reflecting pond. 4.4★ (22,695 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Yilan"
-category: "attraction"
-pubDate: "2026-08-19T09:15:15.318Z"
+title: 'Lanyang Museum: Yilan Travel Guide (4.4★)'
+description: Lanyang Museum sits on the edge of the old Wushi Harbor wetlands in Toucheng Township, its slanted, cliff-like facade rising straight out of a reflecting pond. 4.4★ (22,695 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Yilan
+category: attraction
+pubDate: '2026-08-19T09:15:15.318Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d0/%E8%98%AD%E9%99%BD%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg"
-  credit: "Photo: Fcuk1203 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E8%98%AD%E9%99%BD%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%E8%98%AD%E9%99%BD%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg/1280px-%E8%98%AD%E9%99%BD%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg
+  credit: 'Photo: Fcuk1203 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E8%98%AD%E9%99%BD%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg
   focus:
     x: 35
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lanyang_Museum_20220809.jpg/3840px-Lanyang_Museum_20220809.jpg"
-    credit: "Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lanyang_Museum_20220809.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lanyang_Museum_20220809.jpg/3840px-Lanyang_Museum_20220809.jpg
+    credit: 'Photo: Yu tptw / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lanyang_Museum_20220809.jpg
 place:
-  id: "ChIJA-31vXL3ZzQRhjLz4ziA8UA"
-  name: "Lanyang Museum"
-  address: "No. 750, Section 3, Qingyun Rd, Gangkou Village, Toucheng Township, Yilan County, Taiwan 261"
+  id: ChIJA-31vXL3ZzQRhjLz4ziA8UA
+  name: Lanyang Museum
+  address: No. 750, Section 3, Qingyun Rd, Gangkou Village, Toucheng Township, Yilan County, Taiwan 261
   rating: 4.4
   userRatingsTotal: 22695
-  googleMapsUrl: "https://maps.google.com/?cid=4679662469645546118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4679662469645546118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.8686561
   lng: 121.83274080000001
-  phone: "+886 3 977 9700"
+  phone: +886 3 977 9700
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -50,22 +50,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_41553841697a347a4c6a6852517a5a334c587631332d414a496843"
+    venueId: ven_41553841697a347a4c6a6852517a5a334c587631332d414a496843
 tags:
-  - "yilan"
-  - "museum"
-quickAnswer: "Lanyang Museum sits on the edge of the old Wushi Harbor wetlands in Toucheng Township, its slanted, cliff-like facade rising straight out of a reflecting pond. It's open daily 9am–5pm except Wednesdays, and weekend crowds peak 10am–5pm, so aim for a weekday morning right at opening. Budget two to three hours to cover all three floors plus the wetland boardwalk outside."
+  - yilan
+  - museum
+quickAnswer: Lanyang Museum sits on the edge of the old Wushi Harbor wetlands in Toucheng Township, its slanted, cliff-like facade rising straight out of a reflecting pond. It's open daily 9am–5pm except Wednesdays, and weekend crowds peak 10am–5pm, so aim for a weekday morning right at opening. Budget two to three hours to cover all three floors plus the wetland boardwalk outside.
 faq:
-  - q: "How do I get to Lanyang Museum without a car?"
-    a: "Take the train to Toucheng Station on the Yilan line, then a short taxi ride (about 10-15 minutes) to the museum — there's no direct bus route that's convenient for most visitors."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings right at the 9am opening are calmest. Weekends get busy from 10am to 5pm, so avoid that window if you want breathing room."
-  - q: "How much time should I plan for a visit?"
-    a: "Two to three hours covers the three exhibition floors and a walk around the wetland boardwalk outside."
-  - q: "Is the museum open every day?"
-    a: "It's open 9am-5pm daily except Wednesdays, when it's closed. Always double-check hours before visiting, as museums occasionally adjust schedules for holidays."
-  - q: "What else is near Lanyang Museum?"
-    a: "The Waisanding sandbar and Toucheng's old street are both nearby, making this an easy pairing for a half-day trip in Toucheng Township."
+  - q: How do I get to Lanyang Museum without a car?
+    a: Take the train to Toucheng Station on the Yilan line, then a short taxi ride (about 10-15 minutes) to the museum — there's no direct bus route that's convenient for most visitors.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings right at the 9am opening are calmest. Weekends get busy from 10am to 5pm, so avoid that window if you want breathing room.
+  - q: How much time should I plan for a visit?
+    a: Two to three hours covers the three exhibition floors and a walk around the wetland boardwalk outside.
+  - q: Is the museum open every day?
+    a: It's open 9am-5pm daily except Wednesdays, when it's closed. Always double-check hours before visiting, as museums occasionally adjust schedules for holidays.
+  - q: What else is near Lanyang Museum?
+    a: The Waisanding sandbar and Toucheng's old street are both nearby, making this an easy pairing for a half-day trip in Toucheng Township.
 aiGenerated: true
 draft: false
 ---

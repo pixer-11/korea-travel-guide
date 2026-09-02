@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:El_Rinconcillo_-_Plaza_los_Terercos_-_Seville_(14678492295).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/5/58/El_Rinconcillo_%2819143224005%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/El_Rinconcillo_%2819143224005%29.jpg/960px-El_Rinconcillo_%2819143224005%29.jpg
     credit: 'Photo: Sandra Vallaure from Seville, Spain / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:El_Rinconcillo_(19143224005).jpg

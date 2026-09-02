@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/f/f5/A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg/1920px-A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg
     credit: 'Photo: Jean-Baptiste Tuby / After Charles Le Brun / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:A_sculpture_at_the_entrance_to_the_palace_of_Versailles.jpg

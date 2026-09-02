@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Piazza_del_Campo_2014_01.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/7/75/The_Piazza_Del_Campo%2C_Siena%2C_Italy.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Piazza_Del_Campo%2C_Siena%2C_Italy.jpg/1920px-The_Piazza_Del_Campo%2C_Siena%2C_Italy.jpg
     credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:The_Piazza_Del_Campo,_Siena,_Italy.jpg

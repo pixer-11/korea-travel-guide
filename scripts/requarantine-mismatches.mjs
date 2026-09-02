@@ -25,6 +25,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import matter from 'gray-matter';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -46,6 +47,10 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   const slug = f.replace(/\.md$/, '');
   const v = store[`${slug}\x01${url}`];
   if (!v || !/MISMATCH/.test(String(v.verdict))) continue;
+  // A row that records a failed download is not a judgement about the photo;
+  // the weekly prune forgets it, but this runs nightly and must not act on it
+  // in between (a 429 at 04:35 would otherwise unpublish a correct page).
+  if (isMeasurementFailure(v)) continue;
   requarantined++;
   console.log(`  🚫 ${slug}: live with a stored-MISMATCH hero (${v.reasonKo || v.reason}) — re-quarantining`);
   if (!DRY) {

@@ -12,9 +12,9 @@ heroImage:
   source: https://foursquare.com/v/4f361cf6e4b0cc4ce20bac8a
   focus:
     x: 25
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg/1920px-Sushi_Section_At_Addiction_Aquatic_Development_%2872928571%29.jpeg
     credit: 'Photo: Oliver Propst / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Sushi_Section_At_Addiction_Aquatic_Development_(72928571).jpeg

@@ -1,40 +1,40 @@
 ---
-title: "Yat Tung Heen - Eaton HK: Where to Eat in Jordan (4.3★)"
-description: "Yat Tung Heen is the acclaimed Cantonese restaurant tucked in the basement of Eaton HK on Nathan Road, known for polished dim sum and slow-cooked classics like roast goose. 4.3★ (2,157 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "restaurant"
-pubDate: "2026-08-19T07:58:27.449Z"
+title: 'Yat Tung Heen - Eaton HK: Where to Eat in Jordan (4.3★)'
+description: Yat Tung Heen is the acclaimed Cantonese restaurant tucked in the basement of Eaton HK on Nathan Road, known for polished dim sum and slow-cooked classics like roast goose. 4.3★ (2,157 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Jordan
+category: restaurant
+pubDate: '2026-08-19T07:58:27.449Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/HK_%E6%B2%B9%E9%BA%BB%E5%9C%B0_Yau_Ma_Tei_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_restaurant_Yat_Tung_Heen_am_Jan-2014_%E5%8C%97%E6%B5%B7%E8%A1%97_Pak_Hoi_Street.JPG"
-  credit: "Photo: Ericamandier / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_%E6%B2%B9%E9%BA%BB%E5%9C%B0_Yau_Ma_Tei_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_restaurant_Yat_Tung_Heen_am_Jan-2014_%E5%8C%97%E6%B5%B7%E8%A1%97_Pak_Hoi_Street.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/HK_%E6%B2%B9%E9%BA%BB%E5%9C%B0_Yau_Ma_Tei_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_restaurant_Yat_Tung_Heen_am_Jan-2014_%E5%8C%97%E6%B5%B7%E8%A1%97_Pak_Hoi_Street.JPG/1920px-HK_%E6%B2%B9%E9%BA%BB%E5%9C%B0_Yau_Ma_Tei_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_restaurant_Yat_Tung_Heen_am_Jan-2014_%E5%8C%97%E6%B5%B7%E8%A1%97_Pak_Hoi_Street.JPG
+  credit: 'Photo: Ericamandier / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:HK_%E6%B2%B9%E9%BA%BB%E5%9C%B0_Yau_Ma_Tei_%E5%BD%8C%E6%95%A6%E9%81%93_380_Nathan_Road_%E9%A6%99%E6%B8%AF%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97_Eaton_Hotel_restaurant_Yat_Tung_Heen_am_Jan-2014_%E5%8C%97%E6%B5%B7%E8%A1%97_Pak_Hoi_Street.JPG
   focus:
     x: 25
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJffLwceoABDQRgOVMpNQC1kw"
-  name: "Yat Tung Heen - Eaton HK"
-  address: "香港逸東酒店B2樓層 Level B2, Eaton HK 九龍, 380 Nathan Rd, Jordan, Kowloon, Hong Kong"
+  id: ChIJffLwceoABDQRgOVMpNQC1kw
+  name: Yat Tung Heen - Eaton HK
+  address: 香港逸東酒店B2樓層 Level B2, Eaton HK 九龍, 380 Nathan Rd, Jordan, Kowloon, Hong Kong
   rating: 4.3
   userRatingsTotal: 2157
-  googleMapsUrl: "https://maps.google.com/?cid=5536615904211428736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5536615904211428736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3080401
   lng: 114.1717085
-  phone: "+852 2710 1093"
+  phone: +852 2710 1093
   openingHours:
-    - "Monday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM"
-    - "Tuesday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM"
-    - "Wednesday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM"
-    - "Thursday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM"
-    - "Friday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM"
-    - "Saturday: 10:00 AM – 4:00 PM, 6:00 – 10:30 PM"
-    - "Sunday: 10:00 AM – 4:00 PM, 6:00 – 10:30 PM"
+    - 'Monday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM'
+    - 'Tuesday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM'
+    - 'Wednesday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM'
+    - 'Thursday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM'
+    - 'Friday: 11:00 AM – 4:00 PM, 6:00 – 10:30 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM, 6:00 – 10:30 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM, 6:00 – 10:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayBusy:
       - 13
       - 19
@@ -49,22 +49,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_776b3143514e704d564f6752514442416f6563774c66664a496843"
+    venueId: ven_776b3143514e704d564f6752514442416f6563774c66664a496843
 tags:
-  - "jordan"
-  - "seafood"
-quickAnswer: "Yat Tung Heen is the acclaimed Cantonese restaurant tucked in the basement of Eaton HK on Nathan Road, known for polished dim sum and slow-cooked classics like roast goose. It's well-known and busy, so aim for the weekend window between 10am and 11am if you want a table without a wait — avoid rolling up between noon and 10pm on Saturday or Sunday."
+  - jordan
+  - seafood
+quickAnswer: Yat Tung Heen is the acclaimed Cantonese restaurant tucked in the basement of Eaton HK on Nathan Road, known for polished dim sum and slow-cooked classics like roast goose. It's well-known and busy, so aim for the weekend window between 10am and 11am if you want a table without a wait — avoid rolling up between noon and 10pm on Saturday or Sunday.
 faq:
-  - q: "Do I need a reservation?"
-    a: "It's strongly recommended, especially for weekend lunch. This is a well-known Cantonese restaurant inside a busy hotel, and walk-ins can face long waits during peak hours."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, 10am to 11am right after opening is the calmest window. Try to avoid noon to 10pm on Saturdays and Sundays, which is the busiest stretch."
-  - q: "How do I get there by MTR?"
-    a: "Take the Tsuen Wan Line to Jordan Station and leave via Exit C2, which puts you right by Eaton HK's entrance at 380 Nathan Road. The restaurant is on Level B2."
-  - q: "How long should I plan for a meal here?"
-    a: "Budget around two hours for a proper dim sum lunch, and longer for a multi-course dinner, especially if you've ordered roast goose in advance."
-  - q: "Is it expensive?"
-    a: "It sits in the mid-range to pricier bracket for Cantonese dining in Hong Kong, reflecting the quality of ingredients and the hotel setting — not a budget dim sum spot, but not the city's most extravagant either."
+  - q: Do I need a reservation?
+    a: It's strongly recommended, especially for weekend lunch. This is a well-known Cantonese restaurant inside a busy hotel, and walk-ins can face long waits during peak hours.
+  - q: When is the quietest time to visit?
+    a: On weekends, 10am to 11am right after opening is the calmest window. Try to avoid noon to 10pm on Saturdays and Sundays, which is the busiest stretch.
+  - q: How do I get there by MTR?
+    a: Take the Tsuen Wan Line to Jordan Station and leave via Exit C2, which puts you right by Eaton HK's entrance at 380 Nathan Road. The restaurant is on Level B2.
+  - q: How long should I plan for a meal here?
+    a: Budget around two hours for a proper dim sum lunch, and longer for a multi-course dinner, especially if you've ordered roast goose in advance.
+  - q: Is it expensive?
+    a: It sits in the mid-range to pricier bracket for Cantonese dining in Hong Kong, reflecting the quality of ingredients and the hotel setting — not a budget dim sum spot, but not the city's most extravagant either.
 aiGenerated: true
 draft: false
 ---

@@ -6,7 +6,7 @@ region: Banlung
 category: attraction
 pubDate: '2026-08-29T15:11:43.340Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Virachey_Park_Banner.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Virachey_Park_Banner.jpg/1920px-Virachey_Park_Banner.jpg
   credit: 'Photo: Mangoholic2 / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Virachey_Park_Banner.jpg

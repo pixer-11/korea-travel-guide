@@ -1,53 +1,53 @@
 ---
-title: "Tam Coc - Bich Dong: Ninh Binh Travel Guide (4.5★)"
-description: "Tam Coc - Bich Dong is a limestone-karst river system south of Ninh Binh city where a rowboat carries you through rice paddies and three low cave tunnels; add the Bich Dong pagoda complex carved into a nearby cliff. 4.5★ (17,936 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ninh Binh"
-category: "attraction"
-pubDate: "2026-08-11T09:06:47.368Z"
+title: 'Tam Coc - Bich Dong: Ninh Binh Travel Guide (4.5★)'
+description: Tam Coc - Bich Dong is a limestone-karst river system south of Ninh Binh city where a rowboat carries you through rice paddies and three low cave tunnels; add the Bich Dong pagoda complex carved into a nearby cliff. 4.5★ (17,936 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Ninh Binh
+category: attraction
+pubDate: '2026-08-11T09:06:47.368Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tam_Coc_from_Summit_-_August_2023.jpg/1920px-Tam_Coc_from_Summit_-_August_2023.jpg"
-  credit: "Photo: Anass Sedrati / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tam_Coc_from_Summit_-_August_2023.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tam_Coc_from_Summit_-_August_2023.jpg/1920px-Tam_Coc_from_Summit_-_August_2023.jpg
+  credit: 'Photo: Anass Sedrati / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tam_Coc_from_Summit_-_August_2023.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/16/Ninh_Binh-Tam_Coc_04_voyage1.jpg"
-    credit: "Photo: Franzfoto / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ninh_Binh-Tam_Coc_04_voyage1.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ninh_Binh-Tam_Coc_04_voyage1.jpg/1920px-Ninh_Binh-Tam_Coc_04_voyage1.jpg
+    credit: 'Photo: Franzfoto / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ninh_Binh-Tam_Coc_04_voyage1.jpg
 place:
-  id: "ChIJpWmYell6NjERCt9I1i9QHxU"
-  name: "Tam Coc - Bich Dong"
-  address: "Ninh Hải, Hoa Lư, Ninh Bình, Vietnam"
+  id: ChIJpWmYell6NjERCt9I1i9QHxU
+  name: Tam Coc - Bich Dong
+  address: Ninh Hải, Hoa Lư, Ninh Bình, Vietnam
   rating: 4.5
   userRatingsTotal: 17936
-  googleMapsUrl: "https://maps.google.com/?cid=1522023365463301898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1522023365463301898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.216324200000003
   lng: 105.93746639999999
   openingHours:
-    - "Monday: 7:30 AM – 5:00 PM"
-    - "Tuesday: 7:30 AM – 5:00 PM"
-    - "Wednesday: 7:30 AM – 5:00 PM"
-    - "Thursday: 7:30 AM – 5:00 PM"
-    - "Friday: 7:30 AM – 5:00 PM"
-    - "Saturday: 7:30 AM – 5:00 PM"
-    - "Sunday: 7:30 AM – 5:00 PM"
+    - 'Monday: 7:30 AM – 5:00 PM'
+    - 'Tuesday: 7:30 AM – 5:00 PM'
+    - 'Wednesday: 7:30 AM – 5:00 PM'
+    - 'Thursday: 7:30 AM – 5:00 PM'
+    - 'Friday: 7:30 AM – 5:00 PM'
+    - 'Saturday: 7:30 AM – 5:00 PM'
+    - 'Sunday: 7:30 AM – 5:00 PM'
 tags:
-  - "ninh binh"
-  - "top attraction"
-quickAnswer: "Tam Coc - Bich Dong is a limestone-karst river system south of Ninh Binh city where a rowboat carries you through rice paddies and three low cave tunnels; add the Bich Dong pagoda complex carved into a nearby cliff. It's open daily 7:30am–5pm, and it's genuinely crowded, so go right at opening or after 3pm. Budget half a day, including the boat ride and a short walk or climb at Bich Dong."
+  - ninh binh
+  - top attraction
+quickAnswer: Tam Coc - Bich Dong is a limestone-karst river system south of Ninh Binh city where a rowboat carries you through rice paddies and three low cave tunnels; add the Bich Dong pagoda complex carved into a nearby cliff. It's open daily 7:30am–5pm, and it's genuinely crowded, so go right at opening or after 3pm. Budget half a day, including the boat ride and a short walk or climb at Bich Dong.
 faq:
-  - q: "How long does the Tam Coc boat ride take?"
-    a: "Around two hours for the full round trip, covering about 7km and passing through all three cave tunnels."
-  - q: "What's the best time of day to avoid crowds?"
-    a: "Go right at opening, 7:30am, or after 3pm. Midday and weekends see the longest queues at the dock and cave entrances."
-  - q: "How do I get to Tam Coc from Hanoi or Ninh Binh city?"
-    a: "It's about 100km from Hanoi (roughly 2 hours by car or bus) and 7km from Ninh Binh city, an easy taxi or scooter ride."
-  - q: "Should I visit Bich Dong Pagoda too?"
-    a: "Yes — it's a short trip from the Tam Coc dock and adds a cliffside temple complex with a cave shrine. Budget an extra hour or two."
-  - q: "What's the best season to visit?"
-    a: "May–June for golden ripening rice paddies, or spring and autumn for cooler weather. The site is open year-round, 7:30am–5pm daily."
+  - q: How long does the Tam Coc boat ride take?
+    a: Around two hours for the full round trip, covering about 7km and passing through all three cave tunnels.
+  - q: What's the best time of day to avoid crowds?
+    a: Go right at opening, 7:30am, or after 3pm. Midday and weekends see the longest queues at the dock and cave entrances.
+  - q: How do I get to Tam Coc from Hanoi or Ninh Binh city?
+    a: It's about 100km from Hanoi (roughly 2 hours by car or bus) and 7km from Ninh Binh city, an easy taxi or scooter ride.
+  - q: Should I visit Bich Dong Pagoda too?
+    a: Yes — it's a short trip from the Tam Coc dock and adds a cliffside temple complex with a cave shrine. Budget an extra hour or two.
+  - q: What's the best season to visit?
+    a: May–June for golden ripening rice paddies, or spring and autumn for cooler weather. The site is open year-round, 7:30am–5pm daily.
 aiGenerated: true
 draft: false
 ---

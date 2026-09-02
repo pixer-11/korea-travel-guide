@@ -6,7 +6,7 @@ region: Bangkok
 category: hidden-gem
 pubDate: '2026-07-29'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Bangor_City_v_Cardiff_City_in_the_Welsh_Cup_Competition_%281483526%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bangor_City_v_Cardiff_City_in_the_Welsh_Cup_Competition_%281483526%29.jpg/960px-Bangor_City_v_Cardiff_City_in_the_Welsh_Cup_Competition_%281483526%29.jpg
   credit: 'Photo: Geoff Charles / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Bangor_City_v_Cardiff_City_in_the_Welsh_Cup_Competition_(1483526).jpg

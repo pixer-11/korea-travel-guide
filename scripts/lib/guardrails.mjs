@@ -4,13 +4,30 @@
 //  what replaces a human approving each post.
 // ─────────────────────────────────────────────────────────────
 
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+
+// Coarse lat/lng boxes per country (data/country-bbox.json). A Places text
+// search for "Jordan" — the Kowloon district — resolved to the country and
+// published Petra as a Hong Kong guide (2026-09-02); nothing compared the
+// coordinates it got back with the country it was writing about. A country may
+// list several boxes (Guam and Hawaii are the United States).
+const BBOX = JSON.parse(readFileSync(fileURLToPath(new URL('../../data/country-bbox.json', import.meta.url)), 'utf8'));
+
+export function insideCountry(country, lat, lng) {
+  const boxes = BBOX[country];
+  if (!boxes) return null; // unknown country — nothing to test against
+  if (typeof lat !== 'number' || typeof lng !== 'number') return null;
+  return boxes.some(([s, w, n, e]) => lat >= s && lat <= n && lng >= w && lng <= e);
+}
+
 const MIN_RATING = Number(process.env.MIN_RATING ?? 4.0);
 const MIN_REVIEWS = Number(process.env.MIN_REVIEWS ?? 50);
 
 /**
  * @returns {{ ok: boolean, reasons: string[] }}
  */
-export function checkPlace(place) {
+export function checkPlace(place, { country } = {}) {
   const reasons = [];
 
   if (!place) {
@@ -45,6 +62,17 @@ export function checkPlace(place) {
 
   // 4. Need a name and location to write anything real.
   if (!place.name) reasons.push('missing name');
+
+  // 5. The location has to be in the country the guide is filed under. No
+  // coordinates at all is the same failure: there is nothing to file it by.
+  if (country) {
+    const inside = insideCountry(country, place.lat, place.lng);
+    if (typeof place.lat !== 'number' || typeof place.lng !== 'number') {
+      reasons.push(`no coordinates to place it in ${country}`);
+    } else if (inside === false) {
+      reasons.push(`coordinates ${place.lat},${place.lng} are outside ${country}`);
+    }
+  }
 
   return { ok: reasons.length === 0, reasons };
 }

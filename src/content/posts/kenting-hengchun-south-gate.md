@@ -1,56 +1,56 @@
 ---
-title: "Hengchun South Gate: Kenting Travel Guide (4.3★)"
-description: "Hengchun South Gate (恆春南門) is one of four surviving Qing-dynasty city gates in Hengchun, sitting inside a busy traffic roundabout on the road into Kenting. 4.3★ (2,528 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kenting"
-category: "attraction"
-pubDate: "2026-08-20T08:16:52.594Z"
+title: 'Hengchun South Gate: Kenting Travel Guide (4.3★)'
+description: Hengchun South Gate (恆春南門) is one of four surviving Qing-dynasty city gates in Hengchun, sitting inside a busy traffic roundabout on the road into Kenting. 4.3★ (2,528 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Kenting
+category: attraction
+pubDate: '2026-08-20T08:16:52.594Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/86/%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg"
-  credit: "Photo: rheins / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg/1920px-%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg
+  credit: 'Photo: rheins / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg
   focus:
     x: 68
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/29200917_meSqdIBaGCNYxbrPMLszJCuMRRpGTfEiOP9_YYQcoxc.jpg"
-    credit: "Photo: Foursquare user content (South Gate of Hengchun Ancient City (恒春古城南門 South Gate of Hengchun Ancient City))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4d9b22117668f04d9491ca93"
+  - url: https://fastly.4sqi.net/img/general/original/29200917_meSqdIBaGCNYxbrPMLszJCuMRRpGTfEiOP9_YYQcoxc.jpg
+    credit: 'Photo: Foursquare user content (South Gate of Hengchun Ancient City (恒春古城南門 South Gate of Hengchun Ancient City))'
+    license: foursquare
+    source: https://foursquare.com/v/4d9b22117668f04d9491ca93
 place:
-  id: "ChIJZV-_DhWxcTQRP3tVA_i2SMI"
-  name: "Hengchun South Gate"
-  address: "Hengchun Township, Pingtung County, Taiwan 946"
+  id: ChIJZV-_DhWxcTQRP3tVA_i2SMI
+  name: Hengchun South Gate
+  address: Hengchun Township, Pingtung County, Taiwan 946
   rating: 4.3
   userRatingsTotal: 2528
-  googleMapsUrl: "https://maps.google.com/?cid=13999640618005265215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13999640618005265215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.000824899999998
   lng: 120.7447665
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "kenting"
-  - "historic site"
-quickAnswer: "Hengchun South Gate (恆春南門) is one of four surviving Qing-dynasty city gates in Hengchun, sitting inside a busy traffic roundabout on the road into Kenting. It's free, open 24 hours, and worth a 15-20 minute stop — best at dusk when it's floodlit against the sky. Most visitors combine it with a walk through Hengchun's Old Town walls a short drive away."
+  - kenting
+  - historic site
+quickAnswer: Hengchun South Gate (恆春南門) is one of four surviving Qing-dynasty city gates in Hengchun, sitting inside a busy traffic roundabout on the road into Kenting. It's free, open 24 hours, and worth a 15-20 minute stop — best at dusk when it's floodlit against the sky. Most visitors combine it with a walk through Hengchun's Old Town walls a short drive away.
 faq:
-  - q: "Is there an entrance fee for Hengchun South Gate?"
-    a: "No, it's a public monument in the middle of a traffic circle with free, open access at all times."
-  - q: "How long should I spend here?"
-    a: "Most visitors spend 10-15 minutes at the gate itself, or 30-45 minutes if combining it with a walk through Hengchun's nearby old town walls."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon into early evening, when floodlights illuminate the stonework against the darkening sky. Midday summer heat makes the shadeless traffic circle uncomfortable."
-  - q: "How do I get to Hengchun South Gate without a car?"
-    a: "Kenting Express and Pingtung County buses stop in Hengchun town, a short walk from the gate. Most independent travelers rent a scooter or car since it sits on the main road into Kenting."
-  - q: "What else is nearby?"
-    a: "Hengchun's Old Town walls and its other surviving gates (East and West) are within walking or short driving distance, along with local eateries in Hengchun town."
+  - q: Is there an entrance fee for Hengchun South Gate?
+    a: No, it's a public monument in the middle of a traffic circle with free, open access at all times.
+  - q: How long should I spend here?
+    a: Most visitors spend 10-15 minutes at the gate itself, or 30-45 minutes if combining it with a walk through Hengchun's nearby old town walls.
+  - q: What's the best time of day to visit?
+    a: Late afternoon into early evening, when floodlights illuminate the stonework against the darkening sky. Midday summer heat makes the shadeless traffic circle uncomfortable.
+  - q: How do I get to Hengchun South Gate without a car?
+    a: Kenting Express and Pingtung County buses stop in Hengchun town, a short walk from the gate. Most independent travelers rent a scooter or car since it sits on the main road into Kenting.
+  - q: What else is nearby?
+    a: Hengchun's Old Town walls and its other surviving gates (East and West) are within walking or short driving distance, along with local eateries in Hengchun town.
 aiGenerated: true
 draft: false
 ---

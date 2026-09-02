@@ -1,36 +1,36 @@
 ---
-title: "Japanese Garden: Jurong Travel Guide (4.5★)"
-description: "Japanese Garden in Jurong is a quiet, traditionally landscaped island park with ponds, stone lanterns and arched bridges — open daily 5:30am to midnight. 4.5★ (889 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Jurong"
-category: "hidden-gem"
-pubDate: "2026-08-15T07:59:15.832Z"
+title: 'Japanese Garden: Jurong Travel Guide (4.5★)'
+description: Japanese Garden in Jurong is a quiet, traditionally landscaped island park with ponds, stone lanterns and arched bridges — open daily 5:30am to midnight. 4.5★ (889 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Jurong
+category: hidden-gem
+pubDate: '2026-08-15T07:59:15.832Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/83/Japanese_Garden_Sngapore_-_panoramio.jpg"
-  credit: "Photo: Ong Chi Hang / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Japanese_Garden_Sngapore_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Japanese_Garden_Sngapore_-_panoramio.jpg/1920px-Japanese_Garden_Sngapore_-_panoramio.jpg
+  credit: 'Photo: Ong Chi Hang / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Japanese_Garden_Sngapore_-_panoramio.jpg
 gallery: []
 place:
-  id: "ChIJYfjZ5wIQ2jER-5CKxpDbgEI"
-  name: "Japanese Garden"
-  address: "60 Yuan Ching Rd, Singapore 619672"
+  id: ChIJYfjZ5wIQ2jER-5CKxpDbgEI
+  name: Japanese Garden
+  address: 60 Yuan Ching Rd, Singapore 619672
   rating: 4.5
   userRatingsTotal: 889
-  googleMapsUrl: "https://maps.google.com/?cid=4792071418374951163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4792071418374951163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3356251
   lng: 103.7311955
   openingHours:
-    - "Monday: 5:30 AM – 12:00 AM"
-    - "Tuesday: 5:30 AM – 12:00 AM"
-    - "Wednesday: 5:30 AM – 12:00 AM"
-    - "Thursday: 5:30 AM – 12:00 AM"
-    - "Friday: 5:30 AM – 12:00 AM"
-    - "Saturday: 5:30 AM – 12:00 AM"
-    - "Sunday: 5:30 AM – 12:00 AM"
+    - 'Monday: 5:30 AM – 12:00 AM'
+    - 'Tuesday: 5:30 AM – 12:00 AM'
+    - 'Wednesday: 5:30 AM – 12:00 AM'
+    - 'Thursday: 5:30 AM – 12:00 AM'
+    - 'Friday: 5:30 AM – 12:00 AM'
+    - 'Saturday: 5:30 AM – 12:00 AM'
+    - 'Sunday: 5:30 AM – 12:00 AM'
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekendBusy:
       - 9
       - 10
@@ -42,22 +42,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_494567624470784b43352d52456a32514977355a6a66594a496843"
+    venueId: ven_494567624470784b43352d52456a32514977355a6a66594a496843
 tags:
-  - "jurong"
-  - "hidden gem"
-quickAnswer: "Japanese Garden in Jurong is a quiet, traditionally landscaped island park with ponds, stone lanterns and arched bridges — open daily 5:30am to midnight. It's still genuinely under-the-radar, so weekday mornings or evenings after 6pm feel almost empty. Budget 45–90 minutes, and pair it with the neighboring Chinese Garden for a fuller loop."
+  - jurong
+  - hidden gem
+quickAnswer: Japanese Garden in Jurong is a quiet, traditionally landscaped island park with ponds, stone lanterns and arched bridges — open daily 5:30am to midnight. It's still genuinely under-the-radar, so weekday mornings or evenings after 6pm feel almost empty. Budget 45–90 minutes, and pair it with the neighboring Chinese Garden for a fuller loop.
 faq:
-  - q: "How do I get to Japanese Garden in Jurong?"
-    a: "Take the Jurong Region Line to Chinese Garden MRT station, then walk about 10–15 minutes through Jurong Lake Gardens to the causeway entrance on Yuan Ching Rd."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free and there's no ticket booth — you can walk in anytime during opening hours."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings before 8am or evenings after 6pm are calmest. Weekends get busier from 9am to 10pm, so avoid that window if you want solitude."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour and a half, longer if you sit by the pond or combine it with the adjacent Chinese Garden."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "The Chinese Garden sits right next door across the lake, and Jurong Lake Gardens more broadly offers additional walking trails and picnic lawns."
+  - q: How do I get to Japanese Garden in Jurong?
+    a: Take the Jurong Region Line to Chinese Garden MRT station, then walk about 10–15 minutes through Jurong Lake Gardens to the causeway entrance on Yuan Ching Rd.
+  - q: Is there an entrance fee?
+    a: No, entry is free and there's no ticket booth — you can walk in anytime during opening hours.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings before 8am or evenings after 6pm are calmest. Weekends get busier from 9am to 10pm, so avoid that window if you want solitude.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 45 minutes to an hour and a half, longer if you sit by the pond or combine it with the adjacent Chinese Garden.
+  - q: What's nearby if I want to extend the visit?
+    a: The Chinese Garden sits right next door across the lake, and Jurong Lake Gardens more broadly offers additional walking trails and picnic lawns.
 aiGenerated: true
 draft: false
 ---

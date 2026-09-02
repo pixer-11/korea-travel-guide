@@ -1,41 +1,41 @@
 ---
-title: "Australia Dairy Company: Where to Eat in Jordan (4.0★)"
-description: "Australia Dairy Company in Jordan is a legendary cha chaan teng famous for wobbly steamed egg white omelettes, silky scrambled eggs on toast, and staff who move fast and expect you to too. 4.0★ (6,314 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "restaurant"
-pubDate: "2026-08-18T09:06:00.209Z"
+title: 'Australia Dairy Company: Where to Eat in Jordan (4.0★)'
+description: Australia Dairy Company in Jordan is a legendary cha chaan teng famous for wobbly steamed egg white omelettes, silky scrambled eggs on toast, and staff who move fast and expect you to too. 4.0★ (6,314 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Jordan
+category: restaurant
+pubDate: '2026-08-18T09:06:00.209Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/39/Australia_Dairy_Company_outlook.JPG"
-  credit: "Photo: 圍棋一級 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Australia_Dairy_Company_outlook.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Australia_Dairy_Company_outlook.JPG/1280px-Australia_Dairy_Company_outlook.JPG
+  credit: 'Photo: 圍棋一級 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Australia_Dairy_Company_outlook.JPG
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery: []
 place:
-  id: "ChIJgR3J8gIBBDQRz3-Yaz5vVPo"
-  name: "Australia Dairy Company"
-  address: "47號 Parkes St, Jordan, Hong Kong"
+  id: ChIJgR3J8gIBBDQRz3-Yaz5vVPo
+  name: Australia Dairy Company
+  address: 47號 Parkes St, Jordan, Hong Kong
   rating: 4
   userRatingsTotal: 6314
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=18038164721409490895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18038164721409490895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.304627999999997
   lng: 114.1705439
-  phone: "+852 2730 1356"
+  phone: +852 2730 1356
   openingHours:
-    - "Monday: 7:30 AM – 10:00 PM"
-    - "Tuesday: 7:30 AM – 10:00 PM"
-    - "Wednesday: 7:30 AM – 10:00 PM"
-    - "Thursday: Closed"
-    - "Friday: 7:30 AM – 10:00 PM"
-    - "Saturday: 7:30 AM – 10:00 PM"
-    - "Sunday: 7:30 AM – 10:00 PM"
+    - 'Monday: 7:30 AM – 10:00 PM'
+    - 'Tuesday: 7:30 AM – 10:00 PM'
+    - 'Wednesday: 7:30 AM – 10:00 PM'
+    - 'Thursday: Closed'
+    - 'Friday: 7:30 AM – 10:00 PM'
+    - 'Saturday: 7:30 AM – 10:00 PM'
+    - 'Sunday: 7:30 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -58,22 +58,22 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_6f505676357a61592d337a52514442424967384a3352674a496843"
+    venueId: ven_6f505676357a61592d337a52514442424967384a3352674a496843
 tags:
-  - "jordan"
-  - "street food"
-quickAnswer: "Australia Dairy Company in Jordan is a legendary cha chaan teng famous for wobbly steamed egg white omelettes, silky scrambled eggs on toast, and staff who move fast and expect you to too. It's open 7:30am–10pm daily except Thursdays, always busy, so go right at opening or mid-afternoon to skip the worst of the queue. Expect communal tables, cash-first habits, and a bill that stays firmly budget-friendly."
+  - jordan
+  - street food
+quickAnswer: Australia Dairy Company in Jordan is a legendary cha chaan teng famous for wobbly steamed egg white omelettes, silky scrambled eggs on toast, and staff who move fast and expect you to too. It's open 7:30am–10pm daily except Thursdays, always busy, so go right at opening or mid-afternoon to skip the worst of the queue. Expect communal tables, cash-first habits, and a bill that stays firmly budget-friendly.
 faq:
-  - q: "What's the must-order dish at Australia Dairy Company?"
-    a: "The steamed egg white omelette over rice is the signature order, alongside scrambled eggs on toast and a pot of Hong Kong-style milk tea."
-  - q: "What are the opening hours?"
-    a: "It's open 7:30am to 10pm every day except Thursday, when it's closed entirely — worth checking before you plan your trip around it."
-  - q: "When is the quietest time to visit?"
-    a: "Weekends stay busy from 10am to 9pm, so aim for a weekday right at the 7:30am opening or a mid-afternoon lull to avoid the longest queues."
-  - q: "How do I get there by MTR?"
-    a: "It's a short walk from Jordan MTR station (Tsuen Wan Line) via Exit A, down Parkes Street."
-  - q: "How much should I expect to pay?"
-    a: "It's budget-friendly by Hong Kong standards — a full meal of eggs, toast, and tea costs relatively little, though cash is the safer payment method."
+  - q: What's the must-order dish at Australia Dairy Company?
+    a: The steamed egg white omelette over rice is the signature order, alongside scrambled eggs on toast and a pot of Hong Kong-style milk tea.
+  - q: What are the opening hours?
+    a: It's open 7:30am to 10pm every day except Thursday, when it's closed entirely — worth checking before you plan your trip around it.
+  - q: When is the quietest time to visit?
+    a: Weekends stay busy from 10am to 9pm, so aim for a weekday right at the 7:30am opening or a mid-afternoon lull to avoid the longest queues.
+  - q: How do I get there by MTR?
+    a: It's a short walk from Jordan MTR station (Tsuen Wan Line) via Exit A, down Parkes Street.
+  - q: How much should I expect to pay?
+    a: It's budget-friendly by Hong Kong standards — a full meal of eggs, toast, and tea costs relatively little, though cash is the safer payment method.
 aiGenerated: true
 draft: false
 ---

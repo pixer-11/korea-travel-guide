@@ -67,7 +67,8 @@ faq:
   - q: "Should I visit before or after the temples?"
     a: "Before. The galleries explain the history and symbolism behind Angkor Wat and the other temples, so seeing the museum first makes the ruins easier to understand."
 aiGenerated: true
-draft: false
+draft: true
+heldReason: wrong-region
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

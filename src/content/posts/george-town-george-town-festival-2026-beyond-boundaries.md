@@ -1,8 +1,6 @@
 ---
 title: 'George Town Festival 2026 (Beyond Boundaries): What to Know (George Town)'
-description: >-
-  George Town Festival 2026 (Beyond Boundaries) in George Town, Malaysia —
-  August 1-9, 2026. What it is, when and where, and how to plan around it.
+description: George Town Festival 2026 (Beyond Boundaries) in George Town, Malaysia — August 1-9, 2026. What it is, when and where, and how to plan around it.
 country: Malaysia
 region: George Town
 category: event
@@ -12,56 +10,34 @@ eventEndDate: '2026-08-09'
 tags:
   - george town
   - event
-quickAnswer: >-
-  The George Town Festival 2026 ("Beyond Boundaries") ran August 1–9 in Penang's
-  UNESCO World Heritage core, with 40+ international theatre, dance, music, and
-  arts programmes staged across historic streets and buildings. Visitors based
-  themselves inside the heritage zone near Armenian Street or Love Lane, with a
-  mix of free and ticketed shows on offer.
+quickAnswer: The George Town Festival 2026 ("Beyond Boundaries") ran August 1–9 in Penang's UNESCO World Heritage core, with 40+ international theatre, dance, music, and arts programmes staged across historic streets and buildings. Visitors based themselves inside the heritage zone near Armenian Street or Love Lane, with a mix of free and ticketed shows on offer.
 faq:
   - q: What are the exact dates for the 2026 George Town Festival?
-    a: >-
-      The festival was scheduled for August 1–9, 2026, themed 'Beyond
-      Boundaries,' held in George Town.
+    a: The festival was scheduled for August 1–9, 2026, themed 'Beyond Boundaries,' held in George Town.
   - q: Where is the festival held?
-    a: >-
-      It takes place across George Town's UNESCO World Heritage core on Penang
-      Island, using streets, heritage buildings, courtyards, and public squares
-      rather than one central venue.
+    a: It takes place across George Town's UNESCO World Heritage core on Penang Island, using streets, heritage buildings, courtyards, and public squares rather than one central venue.
   - q: Do I need to book tickets in advance?
-    a: >-
-      The lineup and ticketing details for 2026 hadn't been released at the time
-      of writing, but past editions have mixed free outdoor/fringe events with
-      ticketed theatre and dance shows that sell out — buy early online once
-      tickets go live and check the official site for prices.
+    a: The lineup and ticketing details for 2026 hadn't been released at the time of writing, but past editions have mixed free outdoor/fringe events with ticketed theatre and dance shows that sell out — buy early online once tickets go live and check the official site for prices.
   - q: How do I get around between venues?
-    a: >-
-      The historic core is walkable in about 20 minutes end to end, but some
-      venues sit further out in Little India or Chinatown, so use Grab or a
-      trishaw to save time between back-to-back shows.
+    a: The historic core is walkable in about 20 minutes end to end, but some venues sit further out in Little India or Chinatown, so use Grab or a trishaw to save time between back-to-back shows.
   - q: Where should I stay for the festival?
-    a: >-
-      Areas near Armenian Street, Love Lane, or Chulia Street put you within
-      walking distance of most venues and let you retreat from the August heat
-      between performances.
+    a: Areas near Armenian Street, Love Lane, or Chulia Street put you within walking distance of most venues and let you retreat from the August heat between performances.
 aiGenerated: true
 draft: false
 eventRecurring: true
 photoless: true
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/1/10/Georgetown%2C_George_Town%2C_Penang%2C_Malaysia_-_panoramio_%286%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Georgetown%2C_George_Town%2C_Penang%2C_Malaysia_-_panoramio_%286%29.jpg/1920px-Georgetown%2C_George_Town%2C_Penang%2C_Malaysia_-_panoramio_%286%29.jpg
   credit: 'Photo: Andrew Harvey / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Georgetown,_George_Town,_Penang,_Malaysia_-_panoramio_(6).jpg
+  source: https://commons.wikimedia.org/wiki/File:Georgetown,_George_Town,_Penang,_Malaysia_-_panoramio_(6).jpg
   focus:
     x: 40
     'y': 35
 eventOrganizer:
   name: George Town World Heritage Incorporated (GTWHI)
 eventOffers:
-  url: 'https://georgetownfestival.com/'
+  url: https://georgetownfestival.com/
 eventFactsAsked: true
 ---
 

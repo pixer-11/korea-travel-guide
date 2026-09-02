@@ -35,7 +35,7 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/af/Avenged_Sevenfold.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Avenged_Sevenfold.JPG/960px-Avenged_Sevenfold.JPG
   credit: 'Photo: Sry85 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold.JPG

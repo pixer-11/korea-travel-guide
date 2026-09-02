@@ -1,40 +1,40 @@
 ---
-title: "Ak-Saray Palace: Shakhrisabz Travel Guide (4.5★)"
-description: "Ak-Saray Palace is a pair of colossal ruined gate towers in Shakhrisabz, Uzbekistan — all that remains of Timur's 14th-century summer palace. 4.5★ (626 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Shakhrisabz"
-category: "attraction"
-pubDate: "2026-08-13T09:47:48.464Z"
+title: 'Ak-Saray Palace: Shakhrisabz Travel Guide (4.5★)'
+description: Ak-Saray Palace is a pair of colossal ruined gate towers in Shakhrisabz, Uzbekistan — all that remains of Timur's 14th-century summer palace. 4.5★ (626 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Shakhrisabz
+category: attraction
+pubDate: '2026-08-13T09:47:48.464Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ak_Serai_Palace%2C_Shakhrisabz_%28490496%29.jpg"
-  credit: "Photo: upyernoz from Haverford, USA / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ak_Serai_Palace,_Shakhrisabz_(490496).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ak_Serai_Palace%2C_Shakhrisabz_%28490496%29.jpg/1280px-Ak_Serai_Palace%2C_Shakhrisabz_%28490496%29.jpg
+  credit: 'Photo: upyernoz from Haverford, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ak_Serai_Palace,_Shakhrisabz_(490496).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portico_of_Ak-Saray_Palace_-_Shakhrisabz_-_Uzbekistan_%287494239284%29.jpg"
-    credit: "Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Portico_of_Ak-Saray_Palace_-_Shakhrisabz_-_Uzbekistan_(7494239284).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portico_of_Ak-Saray_Palace_-_Shakhrisabz_-_Uzbekistan_%287494239284%29.jpg/1920px-Portico_of_Ak-Saray_Palace_-_Shakhrisabz_-_Uzbekistan_%287494239284%29.jpg
+    credit: 'Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Portico_of_Ak-Saray_Palace_-_Shakhrisabz_-_Uzbekistan_(7494239284).jpg
 place:
-  id: "ChIJ3bqFhqGaTD8RMi1HRmuLBZ0"
-  name: "Ak-Saray Palace"
-  address: "3R6H+8RF, Shahrisabz, Qashqadaryo Region, Uzbekistan"
+  id: ChIJ3bqFhqGaTD8RMi1HRmuLBZ0
+  name: Ak-Saray Palace
+  address: 3R6H+8RF, Shahrisabz, Qashqadaryo Region, Uzbekistan
   rating: 4.5
   userRatingsTotal: 626
-  googleMapsUrl: "https://maps.google.com/?cid=11314602931695070514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11314602931695070514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.0608031
   lng: 66.82955609999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -58,22 +58,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_305a424c756d524831694d5238445461477168467162334a496843"
+    venueId: ven_305a424c756d524831694d5238445461477168467162334a496843
 tags:
-  - "shakhrisabz"
-  - "top attraction"
-quickAnswer: "Ak-Saray Palace is a pair of colossal ruined gate towers in Shakhrisabz, Uzbekistan — all that remains of Timur's 14th-century summer palace. It's open 24 hours and free to walk up to, so aim for 7am–8am on weekdays or before 10am on weekends, well before the 11am–8pm weekend crush. Give it 30–45 minutes, then wander the surrounding park and old town."
+  - shakhrisabz
+  - top attraction
+quickAnswer: Ak-Saray Palace is a pair of colossal ruined gate towers in Shakhrisabz, Uzbekistan — all that remains of Timur's 14th-century summer palace. It's open 24 hours and free to walk up to, so aim for 7am–8am on weekdays or before 10am on weekends, well before the 11am–8pm weekend crush. Give it 30–45 minutes, then wander the surrounding park and old town.
 faq:
-  - q: "How much does it cost to visit Ak-Saray Palace?"
-    a: "The towers and surrounding park are open access with no gate ticket. Nearby museums and mausoleums in Shakhrisabz may charge small separate entry fees, so budget a little cash for those."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30–45 minutes at the towers themselves. Add another hour or two if you're combining it with the nearby Dorut Tilovat and Dorus Saodat mausoleums."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 8am, or weekends between 7am and 10am. Weekend afternoons and evenings, roughly 11am to 8pm, draw the biggest crowds."
-  - q: "How do I get to Shakhrisabz from Samarkand?"
-    a: "It's about an hour's drive over the Takhtakaracha pass by shared taxi, private car, or day-tour minibus. Ak-Saray sits centrally in town, an easy walk from the main bazaar."
-  - q: "What's actually left of the original palace?"
-    a: "Just the two flanking towers of the monumental entrance portal, with original turquoise and navy mosaic tilework. The halls, courtyards, and gardens described by historical visitors no longer survive."
+  - q: How much does it cost to visit Ak-Saray Palace?
+    a: The towers and surrounding park are open access with no gate ticket. Nearby museums and mausoleums in Shakhrisabz may charge small separate entry fees, so budget a little cash for those.
+  - q: How long should I spend there?
+    a: Most visitors spend 30–45 minutes at the towers themselves. Add another hour or two if you're combining it with the nearby Dorut Tilovat and Dorus Saodat mausoleums.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 7am and 8am, or weekends between 7am and 10am. Weekend afternoons and evenings, roughly 11am to 8pm, draw the biggest crowds.
+  - q: How do I get to Shakhrisabz from Samarkand?
+    a: It's about an hour's drive over the Takhtakaracha pass by shared taxi, private car, or day-tour minibus. Ak-Saray sits centrally in town, an easy walk from the main bazaar.
+  - q: What's actually left of the original palace?
+    a: Just the two flanking towers of the monumental entrance portal, with original turquoise and navy mosaic tilework. The halls, courtyards, and gardens described by historical visitors no longer survive.
 aiGenerated: true
 draft: false
 ---

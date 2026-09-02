@@ -1,49 +1,49 @@
 ---
-title: "South Gate Angkor Thom: Siem Reap Travel Guide (4.9★)"
-description: "South Gate Angkor Thom, the causeway entrance in the Siem Reap Angkor Archaeological Park, is best reached by tuk-tuk or bicycle as part of a small-circuit Angkor tour, ideally right after sunrise before the tour buses catch up. 4.9★ (108 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Siem Reap"
-category: "attraction"
-pubDate: "2026-08-26T09:41:07.519Z"
+title: 'South Gate Angkor Thom: Siem Reap Travel Guide (4.9★)'
+description: South Gate Angkor Thom, the causeway entrance in the Siem Reap Angkor Archaeological Park, is best reached by tuk-tuk or bicycle as part of a small-circuit Angkor tour, ideally right after sunrise before the tour buses catch up. 4.9★ (108 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Siem Reap
+category: attraction
+pubDate: '2026-08-26T09:41:07.519Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Angkor_Thom_south_gate_-_panoramio.jpg"
-  credit: "Photo: gary4now / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Angkor_Thom_south_gate_-_panoramio.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Angkor_Thom_south_gate_-_panoramio.jpg/1280px-Angkor_Thom_south_gate_-_panoramio.jpg
+  credit: 'Photo: gary4now / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Angkor_Thom_south_gate_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Siem_Reap%2C_Victory_Gate.jpg/3840px-Siem_Reap%2C_Victory_Gate.jpg"
-    credit: "Photo: PIERRE ANDRE LECLERCQ / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Siem_Reap,_Victory_Gate.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Siem_Reap%2C_Victory_Gate.jpg/3840px-Siem_Reap%2C_Victory_Gate.jpg
+    credit: 'Photo: PIERRE ANDRE LECLERCQ / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Siem_Reap,_Victory_Gate.jpg
 place:
-  id: "ChIJ64wFfQAXEDERNH9ikXQpoQg"
-  name: "South Gate Angkor Thom"
-  address: "CVH5+2RV, S Gate Bridge, Krong Siem Reap, Cambodia"
+  id: ChIJ64wFfQAXEDERNH9ikXQpoQg
+  name: South Gate Angkor Thom
+  address: CVH5+2RV, S Gate Bridge, Krong Siem Reap, Cambodia
   rating: 4.9
   userRatingsTotal: 108
-  googleMapsUrl: "https://maps.google.com/?cid=621823804185935668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=621823804185935668&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.427603099999999
   lng: 103.85955229999999
 tags:
-  - "siem reap"
-  - "Angkor Thom South Gate"
-quickAnswer: "South Gate Angkor Thom, the causeway entrance in the Siem Reap Angkor Archaeological Park, is best reached by tuk-tuk or bicycle as part of a small-circuit Angkor tour, ideally right after sunrise before the tour buses catch up. It's a quieter stop than Angkor Wat or the Bayon itself, so you can actually stand on the bridge and look the giant stone faces in the eye. Give it 20-30 minutes, then continue the half-kilometer into the walled city toward Bayon."
+  - siem reap
+  - Angkor Thom South Gate
+quickAnswer: South Gate Angkor Thom, the causeway entrance in the Siem Reap Angkor Archaeological Park, is best reached by tuk-tuk or bicycle as part of a small-circuit Angkor tour, ideally right after sunrise before the tour buses catch up. It's a quieter stop than Angkor Wat or the Bayon itself, so you can actually stand on the bridge and look the giant stone faces in the eye. Give it 20-30 minutes, then continue the half-kilometer into the walled city toward Bayon.
 faq:
-  - q: "How much time should I spend at South Gate Angkor Thom?"
-    a: "Plan for 20-30 minutes to walk the causeway, view the god-and-demon statues, and pass through the gate tower — most visitors treat it as a stop en route to Bayon rather than a standalone destination."
-  - q: "Do I need a separate ticket for South Gate?"
-    a: "No separate ticket, but you do need a valid Angkor Archaeological Park pass, which is checked inside the park. Buy it at the official ticket office on the road in from Siem Reap before you arrive."
-  - q: "What's the best time of day to visit?"
-    a: "Early morning right after the park opens is calmest and coolest, with soft light on the stone faces. It's noticeably quieter here than at Angkor Wat or Bayon, so even mid-morning is manageable."
-  - q: "How do I get to South Gate from Siem Reap?"
-    a: "It's about a 15-20 minute tuk-tuk ride from central Siem Reap, or a scenic bike ride if you want to explore Angkor Thom at your own pace on flat, shaded roads."
-  - q: "What's nearby that I can combine with this stop?"
-    a: "Bayon temple is about 500 meters north, with the Terrace of the Elephants and Terrace of the Leper King within easy walking distance inside Angkor Thom's walls."
+  - q: How much time should I spend at South Gate Angkor Thom?
+    a: Plan for 20-30 minutes to walk the causeway, view the god-and-demon statues, and pass through the gate tower — most visitors treat it as a stop en route to Bayon rather than a standalone destination.
+  - q: Do I need a separate ticket for South Gate?
+    a: No separate ticket, but you do need a valid Angkor Archaeological Park pass, which is checked inside the park. Buy it at the official ticket office on the road in from Siem Reap before you arrive.
+  - q: What's the best time of day to visit?
+    a: Early morning right after the park opens is calmest and coolest, with soft light on the stone faces. It's noticeably quieter here than at Angkor Wat or Bayon, so even mid-morning is manageable.
+  - q: How do I get to South Gate from Siem Reap?
+    a: It's about a 15-20 minute tuk-tuk ride from central Siem Reap, or a scenic bike ride if you want to explore Angkor Thom at your own pace on flat, shaded roads.
+  - q: What's nearby that I can combine with this stop?
+    a: Bayon temple is about 500 meters north, with the Terrace of the Elephants and Terrace of the Leper King within easy walking distance inside Angkor Thom's walls.
 aiGenerated: true
 draft: false
 ---

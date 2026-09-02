@@ -1,53 +1,53 @@
 ---
-title: "Tsim Sha Tsui Promenade: Travel Guide (4.5★)"
-description: "The Tsim Sha Tsui Promenade is the waterfront path along Victoria Harbour, facing the Hong Kong Island skyline — free, open 24 hours, and calmest in the early morning before the tour buses arrive. 4.5★ (119 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Tsim Sha Tsui"
-category: "hidden-gem"
-pubDate: "2026-08-12T17:25:13.828Z"
+title: 'Tsim Sha Tsui Promenade: Travel Guide (4.5★)'
+description: The Tsim Sha Tsui Promenade is the waterfront path along Victoria Harbour, facing the Hong Kong Island skyline — free, open 24 hours, and calmest in the early morning before the tour buses arrive. 4.5★ (119 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Tsim Sha Tsui
+category: hidden-gem
+pubDate: '2026-08-12T17:25:13.828Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/00/Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg"
-  credit: "Photo: Ceeseven / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg/1920px-Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg
+  credit: 'Photo: Ceeseven / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Promenade_at_East_Tsim_Sha_Tsui.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Tsim_Sha_Tsui_Promenade_201508.jpg"
-    credit: "Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Promenade_201508.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tsim_Sha_Tsui_Promenade_201508.jpg/1920px-Tsim_Sha_Tsui_Promenade_201508.jpg
+    credit: 'Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Promenade_201508.jpg
 place:
-  id: "ChIJL8WK5-8ABDQR1xXxev7ENzY"
-  name: "Tsim Sha Tsui Promenade"
-  address: "Tsim Sha Tsui East, Hong Kong"
+  id: ChIJL8WK5-8ABDQR1xXxev7ENzY
+  name: Tsim Sha Tsui Promenade
+  address: Tsim Sha Tsui East, Hong Kong
   rating: 4.5
   userRatingsTotal: 119
-  googleMapsUrl: "https://maps.google.com/?cid=3906807799030552023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3906807799030552023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.297086
   lng: 114.1781281
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "tsim sha tsui"
-  - "hidden gem"
-quickAnswer: "The Tsim Sha Tsui Promenade is the waterfront path along Victoria Harbour, facing the Hong Kong Island skyline — free, open 24 hours, and calmest in the early morning before the tour buses arrive. Come for the view, the Avenue of Stars, and the Symphony of Lights show at 8pm, but stroll it any time for cooler air and open sky rare in this dense city."
+  - tsim sha tsui
+  - hidden gem
+quickAnswer: The Tsim Sha Tsui Promenade is the waterfront path along Victoria Harbour, facing the Hong Kong Island skyline — free, open 24 hours, and calmest in the early morning before the tour buses arrive. Come for the view, the Avenue of Stars, and the Symphony of Lights show at 8pm, but stroll it any time for cooler air and open sky rare in this dense city.
 faq:
-  - q: "How do I get to Tsim Sha Tsui Promenade?"
-    a: "Take the MTR to East Tsim Sha Tsui Station (Tuen Ma Line, Exit J or L) or Tsim Sha Tsui Station (Tsuen Wan Line, Exit L6), both a short walk from the waterfront. The Star Ferry from Central also lands nearby."
-  - q: "Is there an entrance fee?"
-    a: "No, the promenade is free and open 24 hours every day, with no tickets or gates."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning, before the day's crowds and tour groups arrive, gives you the emptiest walkway and softest light for photos."
-  - q: "What time is the Symphony of Lights show?"
-    a: "It runs nightly starting around 8pm and lasts roughly 13 minutes, best viewed from the main harborside plaza near the Avenue of Stars."
-  - q: "How much time should I budget?"
-    a: "Plan on 45 minutes to an hour for a walk-through, or longer if you're staying to watch the evening light show or continuing on to Kowloon Park or Harbour City nearby."
+  - q: How do I get to Tsim Sha Tsui Promenade?
+    a: Take the MTR to East Tsim Sha Tsui Station (Tuen Ma Line, Exit J or L) or Tsim Sha Tsui Station (Tsuen Wan Line, Exit L6), both a short walk from the waterfront. The Star Ferry from Central also lands nearby.
+  - q: Is there an entrance fee?
+    a: No, the promenade is free and open 24 hours every day, with no tickets or gates.
+  - q: When is the quietest time to visit?
+    a: Early morning, before the day's crowds and tour groups arrive, gives you the emptiest walkway and softest light for photos.
+  - q: What time is the Symphony of Lights show?
+    a: It runs nightly starting around 8pm and lasts roughly 13 minutes, best viewed from the main harborside plaza near the Avenue of Stars.
+  - q: How much time should I budget?
+    a: Plan on 45 minutes to an hour for a walk-through, or longer if you're staying to watch the evening light show or continuing on to Kowloon Park or Harbour City nearby.
 aiGenerated: true
 draft: false
 ---

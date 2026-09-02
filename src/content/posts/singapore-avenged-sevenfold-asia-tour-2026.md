@@ -33,7 +33,7 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/52/Singapore_Indoor_Stadium.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Singapore_Indoor_Stadium.jpg/1920px-Singapore_Indoor_Stadium.jpg
   credit: 'Photo: Exec8 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Singapore_Indoor_Stadium.jpg

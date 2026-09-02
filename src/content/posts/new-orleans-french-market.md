@@ -1,54 +1,54 @@
 ---
-title: "French Market: New Orleans Travel Guide (4.5★)"
-description: "The French Market is a six-block open-air bazaar along N Peters St in the French Quarter, open daily 10am–6pm, mixing a covered flea market of jewelry, art, and souvenirs with food stalls selling pralines, hot sauce, and muffulettas. 4.5★ (15,644 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "hidden-gem"
-pubDate: "2026-08-06T10:07:10.002Z"
+title: 'French Market: New Orleans Travel Guide (4.5★)'
+description: The French Market is a six-block open-air bazaar along N Peters St in the French Quarter, open daily 10am–6pm, mixing a covered flea market of jewelry, art, and souvenirs with food stalls selling pralines, hot sauce, and muffulettas. 4.5★ (15,644 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: hidden-gem
+pubDate: '2026-08-06T10:07:10.002Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/French_Market%2C_New_Orleans.JPG/1920px-French_Market%2C_New_Orleans.JPG"
-  credit: "Photo: MusikAnimal / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:French_Market,_New_Orleans.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/French_Market%2C_New_Orleans.JPG/1920px-French_Market%2C_New_Orleans.JPG
+  credit: 'Photo: MusikAnimal / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:French_Market,_New_Orleans.JPG
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/4e/French_Market%2C_New_Orleans%2C_USA1.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:French_Market,_New_Orleans,_USA1.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/French_Market%2C_New_Orleans%2C_USA1.jpg/1920px-French_Market%2C_New_Orleans%2C_USA1.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:French_Market,_New_Orleans,_USA1.jpg
 place:
-  id: "ChIJqdiBRxGmIIYRgRBbwourAJ4"
-  name: "French Market"
-  address: "1008 N Peters St, New Orleans, LA 70116, USA"
+  id: ChIJqdiBRxGmIIYRgRBbwourAJ4
+  name: French Market
+  address: 1008 N Peters St, New Orleans, LA 70116, USA
   rating: 4.5
   userRatingsTotal: 15644
-  googleMapsUrl: "https://maps.google.com/?cid=11385288474742165633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11385288474742165633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.959742
   lng: -90.0595812
-  phone: "+1 504-636-6400"
+  phone: +1 504-636-6400
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "new orleans"
-  - "local market"
-quickAnswer: "The French Market is a six-block open-air bazaar along N Peters St in the French Quarter, open daily 10am–6pm, mixing a covered flea market of jewelry, art, and souvenirs with food stalls selling pralines, hot sauce, and muffulettas. It's well-visited, not a secret, so go right at 10am opening or on a weekday morning to beat the tour-bus crowds. Budget 45–90 minutes, plus more if you linger over food."
+  - new orleans
+  - local market
+quickAnswer: The French Market is a six-block open-air bazaar along N Peters St in the French Quarter, open daily 10am–6pm, mixing a covered flea market of jewelry, art, and souvenirs with food stalls selling pralines, hot sauce, and muffulettas. It's well-visited, not a secret, so go right at 10am opening or on a weekday morning to beat the tour-bus crowds. Budget 45–90 minutes, plus more if you linger over food.
 faq:
-  - q: "What are the French Market's hours?"
-    a: "It's open daily from 10:00 AM to 6:00 PM, seven days a week, with no variation by day currently listed — plan your visit inside that window."
-  - q: "Is the French Market free to visit?"
-    a: "Yes, there's no admission charge — it's an open public market, so you only pay for what you eat or buy."
-  - q: "When is the quietest time to go?"
-    a: "Right around opening (10am) on a weekday is calmest; afternoons and weekends draw the biggest crowds, especially once tour groups arrive after lunch."
-  - q: "How do I get there without a car?"
-    a: "It's a short walk from anywhere in the French Quarter, or take the RTA Riverfront streetcar, which stops within a couple of blocks along the levee."
-  - q: "How much time should I budget?"
-    a: "45–90 minutes covers a solid walk-through of both the craft/flea stalls and the food vendors; add extra time if you plan to sit down for beignets at Café du Monde."
+  - q: What are the French Market's hours?
+    a: It's open daily from 10:00 AM to 6:00 PM, seven days a week, with no variation by day currently listed — plan your visit inside that window.
+  - q: Is the French Market free to visit?
+    a: Yes, there's no admission charge — it's an open public market, so you only pay for what you eat or buy.
+  - q: When is the quietest time to go?
+    a: Right around opening (10am) on a weekday is calmest; afternoons and weekends draw the biggest crowds, especially once tour groups arrive after lunch.
+  - q: How do I get there without a car?
+    a: It's a short walk from anywhere in the French Quarter, or take the RTA Riverfront streetcar, which stops within a couple of blocks along the levee.
+  - q: How much time should I budget?
+    a: 45–90 minutes covers a solid walk-through of both the craft/flea stalls and the food vendors; add extra time if you plan to sit down for beignets at Café du Monde.
 aiGenerated: true
 draft: false
 ---

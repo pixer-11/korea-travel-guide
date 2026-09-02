@@ -1,36 +1,36 @@
 ---
-title: "Plaza Padre Jose Burgos: Vigan Travel Guide (4.4★)"
-description: "Plaza Padre Jose Burgos is Vigan's central square, anchored by a monument to the executed priest and ringed by food kiosks that come alive after dark. 4.4★ (2,092 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Vigan"
-category: "attraction"
-pubDate: "2026-08-11T08:30:15.320Z"
+title: 'Plaza Padre Jose Burgos: Vigan Travel Guide (4.4★)'
+description: Plaza Padre Jose Burgos is Vigan's central square, anchored by a monument to the executed priest and ringed by food kiosks that come alive after dark. 4.4★ (2,092 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Vigan
+category: attraction
+pubDate: '2026-08-11T08:30:15.320Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Plaza_Padre_Jose_Burgos%2C_Vigan%2C_Ilocos_Sur%2C_Apr_2026.jpg"
-  credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Plaza_Padre_Jose_Burgos,_Vigan,_Ilocos_Sur,_Apr_2026.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plaza_Padre_Jose_Burgos%2C_Vigan%2C_Ilocos_Sur%2C_Apr_2026.jpg/1920px-Plaza_Padre_Jose_Burgos%2C_Vigan%2C_Ilocos_Sur%2C_Apr_2026.jpg
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Plaza_Padre_Jose_Burgos,_Vigan,_Ilocos_Sur,_Apr_2026.jpg
 gallery: []
 place:
-  id: "ChIJycgZcXVljjMRUWImccIMQN4"
-  name: "Plaza Padre Jose Burgos"
-  address: "H9FQ+PG6, Florentino St, Vigan City, Ilocos Sur, Philippines"
+  id: ChIJycgZcXVljjMRUWImccIMQN4
+  name: Plaza Padre Jose Burgos
+  address: H9FQ+PG6, Florentino St, Vigan City, Ilocos Sur, Philippines
   rating: 4.4
   userRatingsTotal: 2092
-  googleMapsUrl: "https://maps.google.com/?cid=16014814304191013457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16014814304191013457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.5742759
   lng: 120.38876339999997
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -48,22 +48,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_344e514d4963636d495755524d6a6a6c5658635a6763794a496843"
+    venueId: ven_344e514d4963636d495755524d6a6a6c5658635a6763794a496843
 tags:
-  - "vigan"
-  - "top attraction"
-quickAnswer: "Plaza Padre Jose Burgos is Vigan's central square, anchored by a monument to the executed priest and ringed by food kiosks that come alive after dark. It's open 24 hours and free to wander; go between 7am and 8am for an empty plaza, or accept the evening crowds (busiest 4pm–10pm on weekends) as part of the show. Give it 20–30 minutes solo, longer if you're eating."
+  - vigan
+  - top attraction
+quickAnswer: Plaza Padre Jose Burgos is Vigan's central square, anchored by a monument to the executed priest and ringed by food kiosks that come alive after dark. It's open 24 hours and free to wander; go between 7am and 8am for an empty plaza, or accept the evening crowds (busiest 4pm–10pm on weekends) as part of the show. Give it 20–30 minutes solo, longer if you're eating.
 faq:
-  - q: "Is there an entrance fee for Plaza Padre Jose Burgos?"
-    a: "No, it's a public plaza that's free to enter and open 24 hours a day."
-  - q: "How long should I spend there?"
-    a: "20–30 minutes to see the monument and walk around; longer if you're grazing the food kiosks."
-  - q: "When is it quietest?"
-    a: "Between 7am and 8am on both weekdays and weekends, before vendors and crowds pick up."
-  - q: "What's nearby?"
-    a: "Vigan Cathedral, the Archbishop's Palace, and the heritage street Calle Crisologo are all within a short walk."
-  - q: "What should I eat at the plaza?"
-    a: "Look for Ilocos-style empanada, okoy (shrimp fritters), and halo-halo from the surrounding food kiosks."
+  - q: Is there an entrance fee for Plaza Padre Jose Burgos?
+    a: No, it's a public plaza that's free to enter and open 24 hours a day.
+  - q: How long should I spend there?
+    a: 20–30 minutes to see the monument and walk around; longer if you're grazing the food kiosks.
+  - q: When is it quietest?
+    a: Between 7am and 8am on both weekdays and weekends, before vendors and crowds pick up.
+  - q: What's nearby?
+    a: Vigan Cathedral, the Archbishop's Palace, and the heritage street Calle Crisologo are all within a short walk.
+  - q: What should I eat at the plaza?
+    a: Look for Ilocos-style empanada, okoy (shrimp fritters), and halo-halo from the surrounding food kiosks.
 aiGenerated: true
 draft: false
 ---

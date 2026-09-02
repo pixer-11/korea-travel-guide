@@ -1,36 +1,30 @@
 ---
 title: 'Ismail Samani Mausoleum: Bukhara Travel Guide (4.7★)'
-description: >-
-  The Ismail Samani Mausoleum sits in Bukhara's Samanid Park, open daily
-  8am–6pm, and takes only 20–30 minutes to see properly. 4.7★ (1,559 reviews) —
-  what visitors say, hours, and tips.
+description: The Ismail Samani Mausoleum sits in Bukhara's Samanid Park, open daily 8am–6pm, and takes only 20–30 minutes to see properly. 4.7★ (1,559 reviews) — what visitors say, hours, and tips.
 country: Uzbekistan
 region: Bukhara
 category: attraction
 pubDate: '2026-08-21T09:14:00.103Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mausoleo_Ismail_Samani_8.jpg/3840px-Mausoleo_Ismail_Samani_8.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mausoleo_Ismail_Samani_8.jpg/3840px-Mausoleo_Ismail_Samani_8.jpg
   credit: 'Photo: Viaggiamocela / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Mausoleo_Ismail_Samani_8.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Mausoleo_Ismail_Samani_8.jpg
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/e/e7/Samanid_Mausoleum%2C_Bukhara.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Samanid_Mausoleum%2C_Bukhara.jpg/1920px-Samanid_Mausoleum%2C_Bukhara.jpg
     credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Samanid_Mausoleum,_Bukhara.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Samanid_Mausoleum,_Bukhara.jpg
 place:
   id: ChIJpeK_SpwIUD8R5oaSF-3p3lE
   name: Ismail Samani Mausoleum
-  address: 'QCG2+R64, Bukhara, Bukhara Region, Uzbekistan'
+  address: QCG2+R64, Bukhara, Bukhara Region, Uzbekistan
   rating: 4.7
   userRatingsTotal: 1559
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=5899409766413928166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=5899409766413928166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.7770133
   lng: 64.4005925
@@ -61,38 +55,18 @@ place:
 tags:
   - bukhara
   - Ismail Samani Mausoleum
-quickAnswer: >-
-  The Ismail Samani Mausoleum sits in Bukhara's Samanid Park, open daily
-  8am–6pm, and takes only 20–30 minutes to see properly. Go right at opening —
-  quietest on weekdays 8–9am and weekends 8–10am — before tour buses arrive and
-  the terracotta brickwork gets crowded with cameras. It's free to wander the
-  park grounds around it, making this one of Bukhara's easiest world-class
-  sights to fit into a morning.
+quickAnswer: The Ismail Samani Mausoleum sits in Bukhara's Samanid Park, open daily 8am–6pm, and takes only 20–30 minutes to see properly. Go right at opening — quietest on weekdays 8–9am and weekends 8–10am — before tour buses arrive and the terracotta brickwork gets crowded with cameras. It's free to wander the park grounds around it, making this one of Bukhara's easiest world-class sights to fit into a morning.
 faq:
   - q: How much time do I need at the Ismail Samani Mausoleum?
-    a: >-
-      Most visitors spend 20–30 minutes, enough to circle the exterior and step
-      inside the small chamber. Add another 15–20 minutes if you continue to
-      Chashma-Ayub Mausoleum nearby.
+    a: Most visitors spend 20–30 minutes, enough to circle the exterior and step inside the small chamber. Add another 15–20 minutes if you continue to Chashma-Ayub Mausoleum nearby.
   - q: What are the opening hours?
-    a: >-
-      It's open daily from 8:00 AM to 6:00 PM, with no listed midday closure.
-      Confirm hours locally before visiting, especially around public holidays.
+    a: It's open daily from 8:00 AM to 6:00 PM, with no listed midday closure. Confirm hours locally before visiting, especially around public holidays.
   - q: When is it least crowded?
-    a: >-
-      Weekdays between 8am and 9am, and weekends between 8am and 10am, are the
-      quietest windows. Weekend afternoons from 11am to 6pm see the heaviest
-      tour-group traffic.
+    a: Weekdays between 8am and 9am, and weekends between 8am and 10am, are the quietest windows. Weekend afternoons from 11am to 6pm see the heaviest tour-group traffic.
   - q: How do I get there from central Bukhara?
-    a: >-
-      It's a 15–20 minute walk from Lyab-i Hauz or a five-minute taxi ride,
-      located inside Samanid Park northwest of the old town. There's no metro
-      system in Bukhara.
+    a: It's a 15–20 minute walk from Lyab-i Hauz or a five-minute taxi ride, located inside Samanid Park northwest of the old town. There's no metro system in Bukhara.
   - q: Is there an entrance fee?
-    a: >-
-      The mausoleum sits within a public park with no separate ticket booth at
-      the structure itself. Entry costs, if any apply to the park or site, can
-      change, so check current signage or ask locally on arrival.
+    a: The mausoleum sits within a public park with no separate ticket booth at the structure itself. Entry costs, if any apply to the park or site, can change, so check current signage or ask locally on arrival.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'

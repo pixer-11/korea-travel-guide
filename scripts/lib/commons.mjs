@@ -31,7 +31,16 @@ const stripHtml = (s = '') =>
  * Wikimedia serves the identical file without the query.
  */
 export const cleanCommonsUrl = (u) =>
-  String(u ?? '').replace(/\?utm_source=commons\.wikimedia\.org(?:&utm_[a-z]+=[A-Za-z0-9_.-]*)*/g, '');
+  String(u ?? '')
+    .replace(/\?utm_source=commons\.wikimedia\.org(?:&utm_[a-z]+=[A-Za-z0-9_.-]*)*/g, '')
+    // Since 2026-08-31 the API hands back thumbnails on thumb.wikimedia.org.
+    // Every host check downstream — identity, width ladder, normaliser, probe —
+    // knew only upload.wikimedia.org, so a photo on the new host slid past the
+    // Commons metadata gate as "not a Commons file" (7 live heroes by 09-02).
+    // upload.wikimedia.org serves the identical thumb path, so the host is
+    // folded here, at the same single entry point that strips the tracking
+    // query, rather than taught to each of the four checks separately.
+    .replace(/^https:\/\/thumb\.wikimedia\.org\//, 'https://upload.wikimedia.org/');
 
 // Every word of a string, accents folded and punctuation split out — the
 // same normalisation tokens() does, minus the length filter. Words of 1-2

@@ -1,51 +1,51 @@
 ---
-title: "Urth Caffe: Los Angeles Travel Guide"
+title: 'Urth Caffe: Los Angeles Travel Guide'
 description: This location of Urth Caffè sits in the Arts District at 459 S Hewitt St, a bright, plant-draped café known for organic coffee, oversized pastry cases, and a patio that's usually packed.
-country: "United States"
-region: "Los Angeles"
-category: "trendy"
-pubDate: "2026-07-30T09:49:53.225Z"
+country: United States
+region: Los Angeles
+category: trendy
+pubDate: '2026-07-30T09:49:53.225Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/96/Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg"
-  credit: "Photo: Motohiro Takayama / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Poached_Egg_At_Urth_Caffe_(33000317).jpeg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg/1920px-Poached_Egg_At_Urth_Caffe_%2833000317%29.jpeg
+  credit: 'Photo: Motohiro Takayama / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Poached_Egg_At_Urth_Caffe_(33000317).jpeg
 gallery: []
 place:
-  id: "ChIJF1qcgTvGwoARn7ujAJGHC1Y"
-  name: "Urth Caffe"
-  address: "459 S Hewitt St, Los Angeles, CA 90013, USA"
+  id: ChIJF1qcgTvGwoARn7ujAJGHC1Y
+  name: Urth Caffe
+  address: 459 S Hewitt St, Los Angeles, CA 90013, USA
   rating: 4.5
   userRatingsTotal: 5788
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=6200198368856357791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6200198368856357791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.041989199999996
   lng: -118.23546089999999
-  phone: '+1 213 797-4534'
+  phone: +1 213 797-4534
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 11:00 PM"
-    - "Saturday: 7:00 AM – 11:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
-  - "los angeles"
-  - "trendy cafe"
-quickAnswer: "This location of Urth Caffè sits in the Arts District at 459 S Hewitt St, a bright, plant-draped café known for organic coffee, oversized pastry cases, and a patio that's usually packed. It's open daily from 7am (closing at 10pm Sun–Thu, 11pm Fri–Sat), and the calmest window is a weekday mid-morning right after opening, before the brunch rush builds. Expect to spend 45 minutes to an hour, and go in with cash or card ready — this is a very popular stop, not a hidden find."
+  - los angeles
+  - trendy cafe
+quickAnswer: This location of Urth Caffè sits in the Arts District at 459 S Hewitt St, a bright, plant-draped café known for organic coffee, oversized pastry cases, and a patio that's usually packed. It's open daily from 7am (closing at 10pm Sun–Thu, 11pm Fri–Sat), and the calmest window is a weekday mid-morning right after opening, before the brunch rush builds. Expect to spend 45 minutes to an hour, and go in with cash or card ready — this is a very popular stop, not a hidden find.
 faq:
-  - q: "What are the opening hours at the Arts District Urth Caffè?"
-    a: "7:00 AM to 10:00 PM Sunday through Thursday, and 7:00 AM to 11:00 PM on Friday and Saturday. Hours can shift, so it's worth a quick check before you go."
-  - q: "How do I get to Urth Caffè on Hewitt St without a car?"
-    a: "Take the Metro A or E Line to Little Tokyo/Arts District station, then walk about 10–15 minutes south into the Arts District."
-  - q: "Is Urth Caffè expensive?"
-    a: "It sits in the mid-range for Los Angeles cafés — pastries, coffee, and light meals cost more than a basic diner but are in line with other sit-down Arts District spots."
-  - q: "When is the best time to avoid the crowds?"
-    a: "Weekday mornings shortly after the 7am opening are your best bet. Weekend late mornings, when brunch crowds fill the patio, are the busiest and most worth avoiding if you want a table."
-  - q: "What's nearby if I want to make a morning of it?"
-    a: "The Arts District is walkable, with Little Tokyo and the Sixth Street Viaduct both within a short stroll, plus a cluster of galleries, design shops, and murals worth exploring after your coffee."
+  - q: What are the opening hours at the Arts District Urth Caffè?
+    a: 7:00 AM to 10:00 PM Sunday through Thursday, and 7:00 AM to 11:00 PM on Friday and Saturday. Hours can shift, so it's worth a quick check before you go.
+  - q: How do I get to Urth Caffè on Hewitt St without a car?
+    a: Take the Metro A or E Line to Little Tokyo/Arts District station, then walk about 10–15 minutes south into the Arts District.
+  - q: Is Urth Caffè expensive?
+    a: It sits in the mid-range for Los Angeles cafés — pastries, coffee, and light meals cost more than a basic diner but are in line with other sit-down Arts District spots.
+  - q: When is the best time to avoid the crowds?
+    a: Weekday mornings shortly after the 7am opening are your best bet. Weekend late mornings, when brunch crowds fill the patio, are the busiest and most worth avoiding if you want a table.
+  - q: What's nearby if I want to make a morning of it?
+    a: The Arts District is walkable, with Little Tokyo and the Sixth Street Viaduct both within a short stroll, plus a cluster of galleries, design shops, and murals worth exploring after your coffee.
 aiGenerated: true
 draft: false
 ---

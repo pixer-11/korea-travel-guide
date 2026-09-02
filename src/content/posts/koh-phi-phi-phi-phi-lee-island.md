@@ -1,57 +1,57 @@
 ---
-title: "Phi Phi Lee Island: Koh Phi Phi Travel Guide"
-description: "Phi Phi Lee (Ko Phi Phi Le) is the smaller, uninhabited sister island south of Koh Phi Phi Don, famous for Maya Bay and the cliff-walled lagoon at Pileh Bay."
-country: "Thailand"
-region: "Koh Phi Phi"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:12:39.668Z"
+title: 'Phi Phi Lee Island: Koh Phi Phi Travel Guide'
+description: Phi Phi Lee (Ko Phi Phi Le) is the smaller, uninhabited sister island south of Koh Phi Phi Don, famous for Maya Bay and the cliff-walled lagoon at Pileh Bay.
+country: Thailand
+region: Koh Phi Phi
+category: hidden-gem
+pubDate: '2026-08-18T08:12:39.668Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/90/KO_PHI_PHI_LEE_-_panoramio_%281%29.jpg"
-  credit: "Photo: Silvia Franceschetti / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:KO_PHI_PHI_LEE_-_panoramio_(1).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/KO_PHI_PHI_LEE_-_panoramio_%281%29.jpg/1920px-KO_PHI_PHI_LEE_-_panoramio_%281%29.jpg
+  credit: 'Photo: Silvia Franceschetti / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:KO_PHI_PHI_LEE_-_panoramio_(1).jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/91/Maya_beach_tropical_paradise%2C_Koh_Phi_Phi_Leh%2C_Thailand.jpg"
-    credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Maya_beach_tropical_paradise,_Koh_Phi_Phi_Leh,_Thailand.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Maya_beach_tropical_paradise%2C_Koh_Phi_Phi_Leh%2C_Thailand.jpg/1920px-Maya_beach_tropical_paradise%2C_Koh_Phi_Phi_Leh%2C_Thailand.jpg
+    credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Maya_beach_tropical_paradise,_Koh_Phi_Phi_Leh,_Thailand.jpg
 place:
-  id: "ChIJ2yZOnvchTjARpQcGQrToCWY"
-  name: "Phi Phi Lee Island"
-  address: "89 ริชาร์ด ทัวร์ Richard Tour 7 ตำบล ไม้ขาว อำเภอถลาง ภูเก็ต 83110, Thailand"
+  id: ChIJ2yZOnvchTjARpQcGQrToCWY
+  name: Phi Phi Lee Island
+  address: 89 ริชาร์ด ทัวร์ Richard Tour 7 ตำบล ไม้ขาว อำเภอถลาง ภูเก็ต 83110, Thailand
   rating: 4.8
   userRatingsTotal: 85
-  googleMapsUrl: "https://maps.google.com/?cid=7352663727558494117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7352663727558494117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.6813173
   lng: 98.76859680000001
-  phone: "+66 81 562 8646"
+  phone: +66 81 562 8646
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "koh phi phi"
-  - "hidden gem"
-quickAnswer: "Phi Phi Lee (Ko Phi Phi Le) is the smaller, uninhabited sister island south of Koh Phi Phi Don, famous for Maya Bay and the cliff-walled lagoon at Pileh Bay. There's no accommodation here — you visit on a day trip or sunset speedboat tour from Phi Phi Don, Phuket, or Krabi. Aim for early morning or the dedicated evening slots, since Maya Bay itself now runs on a strict, protected-park schedule."
+  - koh phi phi
+  - hidden gem
+quickAnswer: Phi Phi Lee (Ko Phi Phi Le) is the smaller, uninhabited sister island south of Koh Phi Phi Don, famous for Maya Bay and the cliff-walled lagoon at Pileh Bay. There's no accommodation here — you visit on a day trip or sunset speedboat tour from Phi Phi Don, Phuket, or Krabi. Aim for early morning or the dedicated evening slots, since Maya Bay itself now runs on a strict, protected-park schedule.
 faq:
-  - q: "Can you stay overnight on Phi Phi Lee?"
-    a: "No — there's no accommodation on the island. All visits are day trips or sunset tours from Phi Phi Don, Phuket, or Krabi, and you head back before dark."
-  - q: "How do you get from Phi Phi Don to Phi Phi Lee?"
-    a: "Charter a longtail boat from Tonsai Pier (about 20-30 minutes) or join a half-day speedboat tour. Phuket and Krabi also run direct day trips that bypass Phi Phi Don."
-  - q: "Is Maya Bay still open to visitors?"
-    a: "Yes, but under restricted hours and rules set by the national park — swimming and boat mooring right off the beach are banned, and access is via a rear pontoon. Confirm current hours before booking, as they've changed periodically."
-  - q: "What's the best time of day to avoid the crowds?"
-    a: "Aim for early morning departures around 7-8am from Phi Phi Don, or ask about sunset trips to Pileh Lagoon. Try to avoid the 11am-2pm stretch when Phuket and Krabi boats arrive en masse."
-  - q: "What should I bring for a Phi Phi Lee trip?"
-    a: "Reef-safe sunscreen, water shoes for coral-rubble shorelines, cash in Thai baht for longtail charters, and a dry bag if you're snorkeling at Pileh Lagoon or Loh Samah Bay."
+  - q: Can you stay overnight on Phi Phi Lee?
+    a: No — there's no accommodation on the island. All visits are day trips or sunset tours from Phi Phi Don, Phuket, or Krabi, and you head back before dark.
+  - q: How do you get from Phi Phi Don to Phi Phi Lee?
+    a: Charter a longtail boat from Tonsai Pier (about 20-30 minutes) or join a half-day speedboat tour. Phuket and Krabi also run direct day trips that bypass Phi Phi Don.
+  - q: Is Maya Bay still open to visitors?
+    a: Yes, but under restricted hours and rules set by the national park — swimming and boat mooring right off the beach are banned, and access is via a rear pontoon. Confirm current hours before booking, as they've changed periodically.
+  - q: What's the best time of day to avoid the crowds?
+    a: Aim for early morning departures around 7-8am from Phi Phi Don, or ask about sunset trips to Pileh Lagoon. Try to avoid the 11am-2pm stretch when Phuket and Krabi boats arrive en masse.
+  - q: What should I bring for a Phi Phi Lee trip?
+    a: Reef-safe sunscreen, water shoes for coral-rubble shorelines, cash in Thai baht for longtail charters, and a dry bag if you're snorkeling at Pileh Lagoon or Loh Samah Bay.
 aiGenerated: true
 draft: false
 ---

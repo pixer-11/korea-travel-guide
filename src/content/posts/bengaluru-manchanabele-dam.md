@@ -1,20 +1,15 @@
 ---
 title: 'Manchanabele Dam: Bengaluru Travel Guide (4.1★)'
-description: >-
-  Manchanabele Dam sits on the Arkavathy River about 40km southwest of
-  Bengaluru, a reservoir ringed by scrubby hills that's popular for sunset
-  views, weekend picnics and birdwatching. 4.1★ (2,769 reviews) — what visitors
-  say, hours, and tips.
+description: Manchanabele Dam sits on the Arkavathy River about 40km southwest of Bengaluru, a reservoir ringed by scrubby hills that's popular for sunset views, weekend picnics and birdwatching. 4.1★ (2,769 reviews) — what visitors say, hours, and tips.
 country: India
 region: Bengaluru
 category: attraction
 pubDate: '2026-08-16T07:55:56.510Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/c/c3/Manchanabele_dam_backwaters.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Manchanabele_dam_backwaters.jpg/1920px-Manchanabele_dam_backwaters.jpg
   credit: 'Photo: Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Manchanabele_dam_backwaters.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Manchanabele_dam_backwaters.jpg
   focus:
     x: 50
     'y': 50
@@ -22,11 +17,10 @@ gallery: []
 place:
   id: ChIJm_QS1bI3rjsRFDoL2LWn2fQ
   name: Manchanabele Dam
-  address: 'V8FP+XC4, SH 85, Bengaluru, Manchanabele, Karnataka 562128, India'
+  address: V8FP+XC4, SH 85, Bengaluru, Manchanabele, Karnataka 562128, India
   rating: 4.1
   userRatingsTotal: 2769
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17643317414656162324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17643317414656162324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.8748817
   lng: 77.336068
@@ -42,38 +36,18 @@ place:
 tags:
   - bengaluru
   - waterfront
-quickAnswer: >-
-  Manchanabele Dam sits on the Arkavathy River about 40km southwest of
-  Bengaluru, a reservoir ringed by scrubby hills that's popular for sunset
-  views, weekend picnics and birdwatching. It's open 24 hours with no gate or
-  ticket booth, so plan your own visit around early morning or late afternoon
-  light. Budget half a day including the drive, and go by car or bike since
-  public transport doesn't reach the dam itself.
+quickAnswer: Manchanabele Dam sits on the Arkavathy River about 40km southwest of Bengaluru, a reservoir ringed by scrubby hills that's popular for sunset views, weekend picnics and birdwatching. It's open 24 hours with no gate or ticket booth, so plan your own visit around early morning or late afternoon light. Budget half a day including the drive, and go by car or bike since public transport doesn't reach the dam itself.
 faq:
   - q: How do I get to Manchanabele Dam from Bengaluru?
-    a: >-
-      Drive via Magadi Road and Kumbalgodu to SH 85, roughly 40km and 1–1.5
-      hours from central Bengaluru. There's no direct public transport, so a
-      car, cab, or bike is the practical option.
+    a: Drive via Magadi Road and Kumbalgodu to SH 85, roughly 40km and 1–1.5 hours from central Bengaluru. There's no direct public transport, so a car, cab, or bike is the practical option.
   - q: Is there an entry fee or fixed timing?
-    a: >-
-      No formal ticket or gate — the site is open 24 hours daily. That also
-      means no lifeguards or facilities, so visit during daylight and bring your
-      own water and snacks.
+    a: No formal ticket or gate — the site is open 24 hours daily. That also means no lifeguards or facilities, so visit during daylight and bring your own water and snacks.
   - q: When is the best time to visit for views or birdwatching?
-    a: >-
-      Early morning (around 6:30–9am) or late afternoon toward sunset (5–6:30pm)
-      offer the best light and active birdlife. October to February brings
-      cooler, clearer weather overall.
+    a: Early morning (around 6:30–9am) or late afternoon toward sunset (5–6:30pm) offer the best light and active birdlife. October to February brings cooler, clearer weather overall.
   - q: How much time should I plan for the visit?
-    a: >-
-      Most people spend 2–3 hours at the dam itself, but budget a half day total
-      once you include the drive from Bengaluru.
+    a: Most people spend 2–3 hours at the dam itself, but budget a half day total once you include the drive from Bengaluru.
   - q: Is swimming allowed at the dam?
-    a: >-
-      It's not advisable — slippery rocks and currents near the reservoir have
-      led to accidents. Enjoy the view from solid ground rather than entering
-      the water.
+    a: It's not advisable — slippery rocks and currents near the reservoir have led to accidents. Enjoy the view from solid ground rather than entering the water.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'

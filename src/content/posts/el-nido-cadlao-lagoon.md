@@ -6,10 +6,10 @@ region: El Nido
 category: attraction
 pubDate: '2026-08-21T08:14:06.891Z'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadlao_Lagoon_%2848108503048%29.jpg"
-    credit: "Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cadlao_Lagoon_(48108503048).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cadlao_Lagoon_%2848108503048%29.jpg/960px-Cadlao_Lagoon_%2848108503048%29.jpg
+    credit: 'Photo: David Stanley from Nanaimo, Canada / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Cadlao_Lagoon_(48108503048).jpg
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg
   credit: 'Photo: Foursquare user content (Cadlao Beach)'

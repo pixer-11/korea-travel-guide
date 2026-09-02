@@ -1,45 +1,45 @@
 ---
-title: "Phong Nha Cave: Travel Guide (4.7★)"
-description: "Phong Nha Cave is the show cave inside Phong Nha-Ke Bang National Park, reached by a short boat ride up the Son River from Phong Nha town. 4.7★ (2,804 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Phong Nha"
-category: "attraction"
-pubDate: "2026-08-12T09:37:39.970Z"
+title: 'Phong Nha Cave: Travel Guide (4.7★)'
+description: Phong Nha Cave is the show cave inside Phong Nha-Ke Bang National Park, reached by a short boat ride up the Son River from Phong Nha town. 4.7★ (2,804 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Phong Nha
+category: attraction
+pubDate: '2026-08-12T09:37:39.970Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PhongNhaCave2.jpg/1920px-PhongNhaCave2.jpg"
-  credit: "Photo: Genghiskhan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:PhongNhaCave2.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PhongNhaCave2.jpg/1920px-PhongNhaCave2.jpg
+  credit: 'Photo: Genghiskhan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:PhongNhaCave2.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Phong_Nha-Ke_Bang_cave3.jpg"
-    credit: "Photo: [Tycho] talk , http://shansov.net / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Phong_Nha-Ke_Bang_cave3.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Phong_Nha-Ke_Bang_cave3.jpg/1920px-Phong_Nha-Ke_Bang_cave3.jpg
+    credit: 'Photo: [Tycho] talk , http://shansov.net / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Phong_Nha-Ke_Bang_cave3.jpg
 place:
-  id: "ChIJ36vIegC7ODER1BDZUo_ppzg"
-  name: "Phong Nha Cave"
-  address: "Vườn quốc gia, Phong Nha, Quảng Trị, Vietnam"
+  id: ChIJ36vIegC7ODER1BDZUo_ppzg
+  name: Phong Nha Cave
+  address: Vườn quốc gia, Phong Nha, Quảng Trị, Vietnam
   rating: 4.7
   userRatingsTotal: 2804
-  googleMapsUrl: "https://maps.google.com/?cid=4082488389014196436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4082488389014196436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.5816795
   lng: 106.283462
 tags:
-  - "phong nha"
-  - "top attraction"
-quickAnswer: "Phong Nha Cave is the show cave inside Phong Nha-Ke Bang National Park, reached by a short boat ride up the Son River from Phong Nha town. Budget half a day: boat out, roughly an hour drifting and wading through the cave's lit chambers, then back. Go early morning on weekdays to beat tour-bus crowds that build by mid-morning."
+  - phong nha
+  - top attraction
+quickAnswer: 'Phong Nha Cave is the show cave inside Phong Nha-Ke Bang National Park, reached by a short boat ride up the Son River from Phong Nha town. Budget half a day: boat out, roughly an hour drifting and wading through the cave''s lit chambers, then back. Go early morning on weekdays to beat tour-bus crowds that build by mid-morning.'
 faq:
-  - q: "How do I get to Phong Nha Cave?"
-    a: "Take a boat from the pier in Phong Nha town up the Son River — about a 30-minute ride to the cave entrance. Most travelers base themselves in Phong Nha town, reachable by road from Đồng Hới, the nearest city with an airport and train station."
-  - q: "How long should I spend at Phong Nha Cave?"
-    a: "Plan for half a day including the boat ride there and back. The cave portion itself, from entrance to exit, takes roughly an hour."
-  - q: "What's the best time to visit?"
-    a: "Go in the dry season, roughly February to August, when river levels keep the full cave accessible. Arrive early morning on weekdays to avoid tour-bus crowds that build by mid-morning."
-  - q: "Is Phong Nha Cave worth visiting compared to Paradise Cave?"
-    a: "They're different experiences — Phong Nha is a river cave you enter by boat, while Paradise Cave is a dry cave you walk through. Many visitors do both in one trip since they're about 30 minutes apart."
-  - q: "Do I need to book a boat in advance?"
-    a: "It's usually possible to arrange a boat on arrival at the pier, priced per boat rather than per person, so it helps to team up with other travelers to share the cost."
+  - q: How do I get to Phong Nha Cave?
+    a: Take a boat from the pier in Phong Nha town up the Son River — about a 30-minute ride to the cave entrance. Most travelers base themselves in Phong Nha town, reachable by road from Đồng Hới, the nearest city with an airport and train station.
+  - q: How long should I spend at Phong Nha Cave?
+    a: Plan for half a day including the boat ride there and back. The cave portion itself, from entrance to exit, takes roughly an hour.
+  - q: What's the best time to visit?
+    a: Go in the dry season, roughly February to August, when river levels keep the full cave accessible. Arrive early morning on weekdays to avoid tour-bus crowds that build by mid-morning.
+  - q: Is Phong Nha Cave worth visiting compared to Paradise Cave?
+    a: They're different experiences — Phong Nha is a river cave you enter by boat, while Paradise Cave is a dry cave you walk through. Many visitors do both in one trip since they're about 30 minutes apart.
+  - q: Do I need to book a boat in advance?
+    a: It's usually possible to arrange a boat on arrival at the pier, priced per boat rather than per person, so it helps to team up with other travelers to share the cost.
 aiGenerated: true
 draft: false
 ---

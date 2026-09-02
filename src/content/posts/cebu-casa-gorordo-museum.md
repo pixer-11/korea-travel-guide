@@ -1,18 +1,15 @@
 ---
 title: 'Casa Gorordo Museum: Cebu Travel Guide (4.6★)'
-description: >-
-  Casa Gorordo Museum is a restored 1850s Filipino-Chinese mestizo house in Cebu
-  City's old Parian district, open daily 9am–5pm except Sundays. 4.6★ (1,249
-  reviews) — what visitors say, hours, and tips.
+description: Casa Gorordo Museum is a restored 1850s Filipino-Chinese mestizo house in Cebu City's old Parian district, open daily 9am–5pm except Sundays. 4.6★ (1,249 reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Cebu
 category: attraction
 pubDate: '2026-08-19T09:18:26.667Z'
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Casa_Gorordo.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Casa_Gorordo.jpg/1920px-Casa_Gorordo.jpg
   credit: 'Photo: Carlo Joseph Moskito / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Casa_Gorordo.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Casa_Gorordo.jpg
   focus:
     x: 40
     'y': 45
@@ -20,11 +17,10 @@ gallery: []
 place:
   id: ChIJdZVg9F6ZqTMRbU7ErBLR6vU
   name: Casa Gorordo Museum
-  address: '35 Eduardo Aboitiz St, Cebu City, 6000 Cebu, Philippines'
+  address: 35 Eduardo Aboitiz St, Cebu City, 6000 Cebu, Philippines
   rating: 4.6
   userRatingsTotal: 1249
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17720205561980800621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17720205561980800621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.299913
   lng: 123.9048616
@@ -39,34 +35,18 @@ place:
 tags:
   - cebu
   - museum
-quickAnswer: >-
-  Casa Gorordo Museum is a restored 1850s Filipino-Chinese mestizo house in Cebu
-  City's old Parian district, open daily 9am–5pm except Sundays. Give yourself
-  45–60 minutes to walk through the coral-stone-and-hardwood home, then linger
-  in the courtyard café. It's well-known but rarely crowded, so mornings on a
-  weekday are calm and unhurried.
+quickAnswer: Casa Gorordo Museum is a restored 1850s Filipino-Chinese mestizo house in Cebu City's old Parian district, open daily 9am–5pm except Sundays. Give yourself 45–60 minutes to walk through the coral-stone-and-hardwood home, then linger in the courtyard café. It's well-known but rarely crowded, so mornings on a weekday are calm and unhurried.
 faq:
   - q: What are the opening hours?
-    a: >-
-      9am–5pm Monday through Saturday. It's closed all day Sunday, so plan your
-      downtown Cebu heritage walk around that.
+    a: 9am–5pm Monday through Saturday. It's closed all day Sunday, so plan your downtown Cebu heritage walk around that.
   - q: How long should I spend there?
-    a: >-
-      Plan for about 45–60 minutes, including the guided walkthrough. Add 15–20
-      more if you want to sit at the courtyard café afterward.
+    a: Plan for about 45–60 minutes, including the guided walkthrough. Add 15–20 more if you want to sit at the courtyard café afterward.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekday mornings shortly after the 9am opening tend to be calmest, before
-      tour groups and school visits arrive later in the day.
+    a: Weekday mornings shortly after the 9am opening tend to be calmest, before tour groups and school visits arrive later in the day.
   - q: How do I get there from central Cebu?
-    a: >-
-      It's in the Parian district at 35 Eduardo Aboitiz St, about 15–20 minutes
-      by taxi or Grab from Ayala Center or SM City, and walkable from Fort San
-      Pedro and Colon Street.
+    a: It's in the Parian district at 35 Eduardo Aboitiz St, about 15–20 minutes by taxi or Grab from Ayala Center or SM City, and walkable from Fort San Pedro and Colon Street.
   - q: Is entry guided or self-directed?
-    a: >-
-      Entry includes a guided tour through the house, which is the best way to
-      see it — solo wandering isn't really the format here.
+    a: Entry includes a guided tour through the house, which is the best way to see it — solo wandering isn't really the format here.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

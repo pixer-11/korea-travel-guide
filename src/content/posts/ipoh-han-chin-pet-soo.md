@@ -6,7 +6,7 @@ region: Ipoh
 category: hidden-gem
 pubDate: '2026-07-29T10:11:39.999Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/24/Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg/1920px-Han_Chin_Pet_Soo_Museum%2C_Ipoh.jpg
   credit: 'Photo: World of Travolution / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Han_Chin_Pet_Soo_Museum,_Ipoh.jpg

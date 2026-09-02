@@ -11,7 +11,7 @@ eventRecurring: true
 eventVenue: Hanoi Opera House
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/08/ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg/1920px-ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg
   credit: 'Photo: Amelia.rojasb / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:ADRIAN_OROPEZA_JAZZTIVAL_MICHOACAN_2015.jpg

@@ -1,38 +1,30 @@
 ---
 title: 'Lower Duden Waterfalls: Antalya Travel Guide (4.7★)'
-description: >-
-  Lower Duden Waterfalls sits where the Duden River drops straight off a cliff
-  into the Mediterranean, just east of Antalya near Lara Beach. 4.7★ (32,603
-  reviews) — what visitors say, hours, and tips.
+description: Lower Duden Waterfalls sits where the Duden River drops straight off a cliff into the Mediterranean, just east of Antalya near Lara Beach. 4.7★ (32,603 reviews) — what visitors say, hours, and tips.
 country: Turkey
 region: Antalya
 category: attraction
 pubDate: '2026-08-21T08:21:57.906Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/c/c4/Antalya._Lower_D%C3%BCden_Waterfall.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Antalya._Lower_D%C3%BCden_Waterfall.jpg/1920px-Antalya._Lower_D%C3%BCden_Waterfall.jpg
   credit: 'Photo: Bestalex / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Antalya._Lower_D%C3%BCden_Waterfall.jpg
+  source: https://commons.wikimedia.org/wiki/File:Antalya._Lower_D%C3%BCden_Waterfall.jpg
   focus:
     x: 40
     'y': 55
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/b/b4/Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg/1920px-Antalya%2C_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
     credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
+    source: https://commons.wikimedia.org/wiki/File:Antalya,_Turkey_March_2022_-_D%C3%BCden_Park_-_Lower_D%C3%BCden_Waterfalls.jpg
 place:
   id: ChIJCQehRUCbwxQRtPR0g040MQw
   name: Lower Duden Waterfalls
-  address: 'Çağlayan, Lara Cd. No:457, 07230 Muratpaşa/Antalya, Türkiye'
+  address: Çağlayan, Lara Cd. No:457, 07230 Muratpaşa/Antalya, Türkiye
   rating: 4.7
   userRatingsTotal: 32603
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=878540914131530932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=878540914131530932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.8507695
   lng: 30.7833732
@@ -47,34 +39,18 @@ place:
 tags:
   - antalya
   - park
-quickAnswer: >-
-  Lower Duden Waterfalls sits where the Duden River drops straight off a cliff
-  into the Mediterranean, just east of Antalya near Lara Beach. It's open 24
-  hours, but go early morning or late afternoon to dodge tour-bus crowds and get
-  the best light on the cliff-edge viewing platforms.
+quickAnswer: Lower Duden Waterfalls sits where the Duden River drops straight off a cliff into the Mediterranean, just east of Antalya near Lara Beach. It's open 24 hours, but go early morning or late afternoon to dodge tour-bus crowds and get the best light on the cliff-edge viewing platforms.
 faq:
   - q: How do I get to Lower Duden Waterfalls from central Antalya?
-    a: >-
-      It's about a 20-minute drive or taxi ride east along Lara Caddesi, or take
-      a local bus heading to Lara and get off near the Düden Şelalesi stop.
+    a: It's about a 20-minute drive or taxi ride east along Lara Caddesi, or take a local bus heading to Lara and get off near the Düden Şelalesi stop.
   - q: How much time should I plan for the visit?
-    a: >-
-      Most visitors spend 45 minutes to an hour walking the viewing platforms
-      and grabbing a tea or coffee at the cafés along the park's edge.
+    a: Most visitors spend 45 minutes to an hour walking the viewing platforms and grabbing a tea or coffee at the cafés along the park's edge.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Go early morning or in the last couple of hours before sunset. Late
-      morning through early afternoon is when tour buses from Lara's hotels
-      arrive in numbers.
+    a: Go early morning or in the last couple of hours before sunset. Late morning through early afternoon is when tour buses from Lara's hotels arrive in numbers.
   - q: Is there an entrance fee?
-    a: >-
-      The park itself is open access with no formal ticket booth; you may find a
-      small paid boat trip option to view the falls from the sea, which is
-      optional.
+    a: The park itself is open access with no formal ticket booth; you may find a small paid boat trip option to view the falls from the sea, which is optional.
   - q: What's nearby if I want to make a half-day of it?
-    a: >-
-      Lara Beach and the Antalya Aquarium are both a short taxi ride away and
-      pair well with a Duden Falls visit.
+    a: Lara Beach and the Antalya Aquarium are both a short taxi ride away and pair well with a Duden Falls visit.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'

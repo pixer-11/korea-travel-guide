@@ -1,45 +1,45 @@
 ---
-title: "Sanya Nanshan Cultural Tourism Zone: Travel Guide (4.7★)"
-description: "Nanshan Cultural Tourism Zone sits about 40km west of downtown Sanya in Yazhou District, best known for the towering 108-metre Guanyin statue rising from the sea. 4.7★ (221 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Sanya"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:46:59.078Z"
+title: 'Sanya Nanshan Cultural Tourism Zone: Travel Guide (4.7★)'
+description: Nanshan Cultural Tourism Zone sits about 40km west of downtown Sanya in Yazhou District, best known for the towering 108-metre Guanyin statue rising from the sea. 4.7★ (221 reviews) — what visitors say, hours, and tips.
+country: China
+region: Sanya
+category: hidden-gem
+pubDate: '2026-08-13T09:46:59.078Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sanya_Nanshan_Temple._Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone._%D0%A1%D0%B0%D0%BD%D1%8C%D1%8F%2C_%D0%A5%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C%2C_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9_-_panoramio.jpg"
-  credit: "Photo: Николай Максимович / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sanya_Nanshan_Temple._Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone._%D0%A1%D0%B0%D0%BD%D1%8C%D1%8F,_%D0%A5%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C,_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sanya_Nanshan_Temple._Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone._%D0%A1%D0%B0%D0%BD%D1%8C%D1%8F%2C_%D0%A5%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C%2C_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9_-_panoramio.jpg/1920px-Sanya_Nanshan_Temple._Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone._%D0%A1%D0%B0%D0%BD%D1%8C%D1%8F%2C_%D0%A5%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C%2C_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9_-_panoramio.jpg
+  credit: 'Photo: Николай Максимович / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sanya_Nanshan_Temple._Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone._%D0%A1%D0%B0%D0%BD%D1%8C%D1%8F,_%D0%A5%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C,_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9_-_panoramio.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone_-_panoramio.jpg"
-    credit: "Photo: Николай Максимович / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone_-_panoramio.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone_-_panoramio.jpg/1280px-Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone_-_panoramio.jpg
+    credit: 'Photo: Николай Максимович / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Sanya_Nanshan_Buddhism_Cultural_Tourism_Zone_-_panoramio.jpg
 place:
-  id: "ChIJowd3eRZCRTER9xDO5aJ9MAg"
-  name: "Sanya Nanshan Cultural Tourism Zone"
-  address: "76X5+RP9, Yazhou District, Sanya, China"
+  id: ChIJowd3eRZCRTER9xDO5aJ9MAg
+  name: Sanya Nanshan Cultural Tourism Zone
+  address: 76X5+RP9, Yazhou District, Sanya, China
   rating: 4.7
   userRatingsTotal: 221
-  googleMapsUrl: "https://maps.google.com/?cid=590109689779196151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=590109689779196151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.2995493
   lng: 109.2093622
 tags:
-  - "sanya"
-  - "hidden gem"
-quickAnswer: "Nanshan Cultural Tourism Zone sits about 40km west of downtown Sanya in Yazhou District, best known for the towering 108-metre Guanyin statue rising from the sea. Give it a full half-day (4-6 hours) since the grounds are vast and include temples, gardens, and shoreline. Go early morning on a weekday to avoid tour-bus crowds and catch the coolest air before the tropical sun climbs."
+  - sanya
+  - hidden gem
+quickAnswer: Nanshan Cultural Tourism Zone sits about 40km west of downtown Sanya in Yazhou District, best known for the towering 108-metre Guanyin statue rising from the sea. Give it a full half-day (4-6 hours) since the grounds are vast and include temples, gardens, and shoreline. Go early morning on a weekday to avoid tour-bus crowds and catch the coolest air before the tropical sun climbs.
 faq:
-  - q: "How long should I spend at Nanshan Cultural Tourism Zone?"
-    a: "Plan for a half-day, roughly 4-6 hours, given the size of the grounds and the shuttle transfers between the statue, temple, and garden areas."
-  - q: "What is the best time of day to visit?"
-    a: "Early morning right after opening is calmest, before tour buses arrive; late afternoon near closing is a good second option for softer light and thinner crowds."
-  - q: "How do I get to Nanshan from Sanya city?"
-    a: "It's about 40km southwest in Yazhou District — a 45-minute to hour-plus taxi, Didi ride, or organized tour bus, as there's no direct metro or rail link."
-  - q: "Is Nanshan worth visiting if I've already seen other Buddhist sites in China?"
-    a: "The scale of the 108-metre Guanyin statue standing offshore is genuinely distinctive, and the site draws far fewer international tourists than you'd expect for a landmark this size."
-  - q: "What should I pair with a Nanshan day trip?"
-    a: "Tianya Haijiao (Ends of the Earth) is roughly on the route back to the city and pairs naturally if you start your Nanshan visit early."
+  - q: How long should I spend at Nanshan Cultural Tourism Zone?
+    a: Plan for a half-day, roughly 4-6 hours, given the size of the grounds and the shuttle transfers between the statue, temple, and garden areas.
+  - q: What is the best time of day to visit?
+    a: Early morning right after opening is calmest, before tour buses arrive; late afternoon near closing is a good second option for softer light and thinner crowds.
+  - q: How do I get to Nanshan from Sanya city?
+    a: It's about 40km southwest in Yazhou District — a 45-minute to hour-plus taxi, Didi ride, or organized tour bus, as there's no direct metro or rail link.
+  - q: Is Nanshan worth visiting if I've already seen other Buddhist sites in China?
+    a: The scale of the 108-metre Guanyin statue standing offshore is genuinely distinctive, and the site draws far fewer international tourists than you'd expect for a landmark this size.
+  - q: What should I pair with a Nanshan day trip?
+    a: Tianya Haijiao (Ends of the Earth) is roughly on the route back to the city and pairs naturally if you start your Nanshan visit early.
 aiGenerated: true
 draft: false
 ---

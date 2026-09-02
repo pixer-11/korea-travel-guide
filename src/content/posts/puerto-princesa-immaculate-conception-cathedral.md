@@ -1,49 +1,49 @@
 ---
-title: "Immaculate Conception Cathedral: Puerto Princesa Travel Guide"
-description: "Immaculate Conception Cathedral sits right on Rizal Avenue in the heart of Puerto Princesa, easy to fold into a walk around the city center. 4.6★ (1,208 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Puerto Princesa"
-category: "attraction"
-pubDate: "2026-08-20T09:10:53.540Z"
+title: 'Immaculate Conception Cathedral: Puerto Princesa Travel Guide'
+description: Immaculate Conception Cathedral sits right on Rizal Avenue in the heart of Puerto Princesa, easy to fold into a walk around the city center. 4.6★ (1,208 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Puerto Princesa
+category: attraction
+pubDate: '2026-08-20T09:10:53.540Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg"
-  credit: "Photo: jackylim / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Immaculate_Conception_Cathedral_-_panoramio_(2).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg/1920px-The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg
+  credit: 'Photo: jackylim / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Immaculate_Conception_Cathedral_-_panoramio_(2).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Immaculate_Conception_Cathedral_-_Puerto_Princesa_City2.jpg"
-    credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral_-_Puerto_Princesa_City2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Immaculate_Conception_Cathedral_-_Puerto_Princesa_City2.jpg/1280px-Immaculate_Conception_Cathedral_-_Puerto_Princesa_City2.jpg
+    credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral_-_Puerto_Princesa_City2.jpg
 place:
-  id: "ChIJUxmeSNdjtTMRGCKwwp7-dXQ"
-  name: "Immaculate Conception Cathedral"
-  address: "58 Rizal Avenue, Puerto Princesa City, 5300 Palawan, Philippines"
+  id: ChIJUxmeSNdjtTMRGCKwwp7-dXQ
+  name: Immaculate Conception Cathedral
+  address: 58 Rizal Avenue, Puerto Princesa City, 5300 Palawan, Philippines
   rating: 4.6
   userRatingsTotal: 1208
-  googleMapsUrl: "https://maps.google.com/?cid=8391893438499398168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8391893438499398168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.7403713
   lng: 118.7300839
-  phone: "+63 48 433 2607"
+  phone: +63 48 433 2607
 tags:
-  - "puerto princesa"
-  - "historic site"
-quickAnswer: "Immaculate Conception Cathedral sits right on Rizal Avenue in the heart of Puerto Princesa, easy to fold into a walk around the city center. It's a quick 15-20 minute visit unless there's Mass, and the whitewashed twin-tower facade is worth the stop even if you just linger out front. Mornings on weekdays are the calmest time to see it without a service underway."
+  - puerto princesa
+  - historic site
+quickAnswer: Immaculate Conception Cathedral sits right on Rizal Avenue in the heart of Puerto Princesa, easy to fold into a walk around the city center. It's a quick 15-20 minute visit unless there's Mass, and the whitewashed twin-tower facade is worth the stop even if you just linger out front. Mornings on weekdays are the calmest time to see it without a service underway.
 faq:
-  - q: "Is there an entrance fee to visit the cathedral?"
-    a: "No, it's a free, active parish church — donations are welcome but not required."
-  - q: "What's the best time to visit to avoid Mass crowds?"
-    a: "Weekday mornings are calmest. Sunday late morning is the busiest, tied to regular Mass schedules."
-  - q: "How long should I plan for the visit?"
-    a: "About 15 to 20 minutes for the facade and interior, longer if you want to sit quietly inside."
-  - q: "How do I get there from the airport or city center?"
-    a: "It's roughly a 10-minute tricycle or ride-share trip from Puerto Princesa airport, right on Rizal Avenue downtown."
-  - q: "What should I wear inside?"
-    a: "Modest clothing covering shoulders and knees, as with any active church in the Philippines — flip-flops are fine, tank tops aren't."
+  - q: Is there an entrance fee to visit the cathedral?
+    a: No, it's a free, active parish church — donations are welcome but not required.
+  - q: What's the best time to visit to avoid Mass crowds?
+    a: Weekday mornings are calmest. Sunday late morning is the busiest, tied to regular Mass schedules.
+  - q: How long should I plan for the visit?
+    a: About 15 to 20 minutes for the facade and interior, longer if you want to sit quietly inside.
+  - q: How do I get there from the airport or city center?
+    a: It's roughly a 10-minute tricycle or ride-share trip from Puerto Princesa airport, right on Rizal Avenue downtown.
+  - q: What should I wear inside?
+    a: Modest clothing covering shoulders and knees, as with any active church in the Philippines — flip-flops are fine, tank tops aren't.
 aiGenerated: true
 draft: false
 ---

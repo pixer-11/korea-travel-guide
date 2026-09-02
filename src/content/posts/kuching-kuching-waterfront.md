@@ -1,53 +1,53 @@
 ---
-title: "Kuching Waterfront: Travel Guide (4.7★)"
-description: "Kuching Waterfront is the mile-long promenade along the Sarawak River in the city centre, best walked in the late afternoon as the light turns gold and the astana and fort glow across the water. 4.7★ (2,565 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuching"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:42:37.185Z"
+title: 'Kuching Waterfront: Travel Guide (4.7★)'
+description: Kuching Waterfront is the mile-long promenade along the Sarawak River in the city centre, best walked in the late afternoon as the light turns gold and the astana and fort glow across the water. 4.7★ (2,565 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kuching
+category: hidden-gem
+pubDate: '2026-08-12T09:42:37.185Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kuching_Waterfront_at_night_%2815834807985%29.jpg/1920px-Kuching_Waterfront_at_night_%2815834807985%29.jpg"
-  credit: "Photo: Bernard DUPONT from FRANCE / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_at_night_(15834807985).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kuching_Waterfront_at_night_%2815834807985%29.jpg/1920px-Kuching_Waterfront_at_night_%2815834807985%29.jpg
+  credit: 'Photo: Bernard DUPONT from FRANCE / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_at_night_(15834807985).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/42/Kuching_Waterfront_Panorama.jpg"
-    credit: "Photo: Jin / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_Panorama.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kuching_Waterfront_Panorama.jpg/960px-Kuching_Waterfront_Panorama.jpg
+    credit: 'Photo: Jin / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_Panorama.jpg
 place:
-  id: "ChIJ8ZPJfLSn-zERcm674Uq78Z8"
-  name: "Kuching Waterfront"
-  address: "7, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia"
+  id: ChIJ8ZPJfLSn-zERcm674Uq78Z8
+  name: Kuching Waterfront
+  address: 7, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia
   rating: 4.7
   userRatingsTotal: 2565
-  googleMapsUrl: "https://maps.google.com/?cid=11525198851706941042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11525198851706941042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.5604695
   lng: 110.3457446
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "kuching"
-  - "hidden gem"
-quickAnswer: "Kuching Waterfront is the mile-long promenade along the Sarawak River in the city centre, best walked in the late afternoon as the light turns gold and the astana and fort glow across the water. It's open 24 hours and free to stroll, with food stalls, riverboat rides and views of the state legislative building lighting up after dark. Since it's well-known and busy with visitors, aim for early morning or after 9pm if you want the boardwalk to yourself."
+  - kuching
+  - hidden gem
+quickAnswer: Kuching Waterfront is the mile-long promenade along the Sarawak River in the city centre, best walked in the late afternoon as the light turns gold and the astana and fort glow across the water. It's open 24 hours and free to stroll, with food stalls, riverboat rides and views of the state legislative building lighting up after dark. Since it's well-known and busy with visitors, aim for early morning or after 9pm if you want the boardwalk to yourself.
 faq:
-  - q: "How do I get to Kuching Waterfront?"
-    a: "It's in the old town on Jalan Tunku Abdul Rahman, walkable from most central hotels. From Kuching International Airport, it's about a 20–25 minute taxi or e-hailing ride."
-  - q: "Is Kuching Waterfront free to visit?"
-    a: "Yes, the promenade itself is free and open 24 hours. You'll only pay for food stalls, souvenirs, or a tambang boat ride across the river."
-  - q: "When is the best time to visit?"
-    a: "Late afternoon into evening, roughly 5–8pm, when the heat breaks and the Astana and legislative building are lit up. For a quieter walk, go early morning around 8am."
-  - q: "How long should I spend there?"
-    a: "Plan for 45 minutes to an hour to walk the full length, longer if you stop for food or take a river crossing."
-  - q: "What should I eat while I'm there?"
-    a: "Try Sarawak laksa, kolo mee, and kek lapis layered cake from the stalls near the food court at the Hilton end of the promenade."
+  - q: How do I get to Kuching Waterfront?
+    a: It's in the old town on Jalan Tunku Abdul Rahman, walkable from most central hotels. From Kuching International Airport, it's about a 20–25 minute taxi or e-hailing ride.
+  - q: Is Kuching Waterfront free to visit?
+    a: Yes, the promenade itself is free and open 24 hours. You'll only pay for food stalls, souvenirs, or a tambang boat ride across the river.
+  - q: When is the best time to visit?
+    a: Late afternoon into evening, roughly 5–8pm, when the heat breaks and the Astana and legislative building are lit up. For a quieter walk, go early morning around 8am.
+  - q: How long should I spend there?
+    a: Plan for 45 minutes to an hour to walk the full length, longer if you stop for food or take a river crossing.
+  - q: What should I eat while I'm there?
+    a: Try Sarawak laksa, kolo mee, and kek lapis layered cake from the stalls near the food court at the Hilton end of the promenade.
 aiGenerated: true
 draft: false
 ---

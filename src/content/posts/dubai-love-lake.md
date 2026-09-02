@@ -1,33 +1,27 @@
 ---
 title: 'Love Lake: Dubai Travel Guide'
-description: >-
-  Love Lake is a pair of heart-shaped, man-made lakes in the Al Qudra desert
-  area (Saih Al Salam), part of Dubai's Al Qudra Lakes chain, best visited at
-  sunrise or sunset for cooler temperatures and better light.
+description: Love Lake is a pair of heart-shaped, man-made lakes in the Al Qudra desert area (Saih Al Salam), part of Dubai's Al Qudra Lakes chain, best visited at sunrise or sunset for cooler temperatures and better light.
 country: United Arab Emirates
 region: Dubai
 category: hidden-gem
 pubDate: '2026-07-23T07:53:25.164Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/2/26/Love_lake_honeymoon_in_Dubai%21%21.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Love_lake_honeymoon_in_Dubai%21%21.jpg/1280px-Love_lake_honeymoon_in_Dubai%21%21.jpg
   credit: 'Photo: ArpanDey80 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Love_lake_honeymoon_in_Dubai!!.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Love_lake_honeymoon_in_Dubai!!.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Love_lake_Dubai_2.jpg/1920px-Love_lake_Dubai_2.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Love_lake_Dubai_2.jpg/1920px-Love_lake_Dubai_2.jpg
     credit: 'Photo: Japashalin / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Love_lake_Dubai_2.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Love_lake_Dubai_2.jpg
 place:
   id: ChIJO4P3BkeBXz4RPbovWG84AvA
   name: Love Lake
   address: Dubai - Saih Al Salam - Dubai - United Arab Emirates
   rating: 4.6
   userRatingsTotal: 10207
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17294447569928174141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17294447569928174141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.8351908
   lng: 55.4033872
@@ -42,36 +36,18 @@ place:
 tags:
   - dubai
   - hidden gem
-quickAnswer: >-
-  Love Lake is a pair of heart-shaped, man-made lakes in the Al Qudra desert
-  area (Saih Al Salam), part of Dubai's Al Qudra Lakes chain, best visited at
-  sunrise or sunset for cooler temperatures and better light. It's a car-only
-  destination — bring your own vehicle or a taxi/rental — with a viewing deck,
-  walking trails, and picnic spots, and it's free to enter. Expect crowds; this
-  is a well-known, heavily photographed attraction, not a secret escape.
+quickAnswer: Love Lake is a pair of heart-shaped, man-made lakes in the Al Qudra desert area (Saih Al Salam), part of Dubai's Al Qudra Lakes chain, best visited at sunrise or sunset for cooler temperatures and better light. It's a car-only destination — bring your own vehicle or a taxi/rental — with a viewing deck, walking trails, and picnic spots, and it's free to enter. Expect crowds; this is a well-known, heavily photographed attraction, not a secret escape.
 faq:
   - q: How do I get to Love Lake without a car?
-    a: >-
-      There's no direct public transport; the practical options are
-      self-driving, a rental car, or booking a taxi/ride-hail for a round trip,
-      since taxis don't typically wait or pass through this desert area.
+    a: There's no direct public transport; the practical options are self-driving, a rental car, or booking a taxi/ride-hail for a round trip, since taxis don't typically wait or pass through this desert area.
   - q: Is there an entry fee for Love Lake?
-    a: >-
-      No, entry is free. The main cost to budget for is transport, since it's
-      roughly a 45-minute drive from central Dubai.
+    a: No, entry is free. The main cost to budget for is transport, since it's roughly a 45-minute drive from central Dubai.
   - q: What's the best time of day to visit?
-    a: >-
-      Sunrise or the hour before sunset, for cooler temperatures, softer light,
-      and better photos of the heart shape from the viewing deck.
+    a: Sunrise or the hour before sunset, for cooler temperatures, softer light, and better photos of the heart shape from the viewing deck.
   - q: How long should I plan to spend there?
-    a: >-
-      Most visitors spend 45 minutes to 1.5 hours — enough time to walk the loop
-      around both lakes, take photos from the deck, and relax at a picnic spot.
+    a: Most visitors spend 45 minutes to 1.5 hours — enough time to walk the loop around both lakes, take photos from the deck, and relax at a picnic spot.
   - q: Can I see the heart shape without a drone?
-    a: >-
-      The elevated wooden viewing platform gives a partial view of the heart
-      curve, but the full shape is best seen from above, so a drone (where
-      locally permitted) is worth checking regulations for in advance.
+    a: The elevated wooden viewing platform gives a partial view of the heart curve, but the full shape is best seen from above, so a drone (where locally permitted) is worth checking regulations for in advance.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'

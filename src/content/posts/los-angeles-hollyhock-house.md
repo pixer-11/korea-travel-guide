@@ -1,54 +1,54 @@
 ---
-title: "Hollyhock House: Los Angeles Travel Guide (4.5★)"
-description: "Hollyhock House, Frank Lloyd Wright's 1921 residence for oilwoman Aline Barnsdall, sits atop Barnsdall Art Park in East Hollywood and is only open Thursday through Saturday, 11am–4pm. 4.5★ (647 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Los Angeles"
-category: "attraction"
-pubDate: "2026-08-09T08:09:16.171Z"
+title: 'Hollyhock House: Los Angeles Travel Guide (4.5★)'
+description: Hollyhock House, Frank Lloyd Wright's 1921 residence for oilwoman Aline Barnsdall, sits atop Barnsdall Art Park in East Hollywood and is only open Thursday through Saturday, 11am–4pm. 4.5★ (647 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Los Angeles
+category: attraction
+pubDate: '2026-08-09T08:09:16.171Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aline_Barnsdall_Complex_%289736565582%29.jpg/1920px-Aline_Barnsdall_Complex_%289736565582%29.jpg"
-  credit: "Photo: Teemu008 from Palatine, Illinois / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aline_Barnsdall_Complex_(9736565582).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aline_Barnsdall_Complex_%289736565582%29.jpg/1920px-Aline_Barnsdall_Complex_%289736565582%29.jpg
+  credit: 'Photo: Teemu008 from Palatine, Illinois / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Aline_Barnsdall_Complex_(9736565582).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/10/Hollyhock_House.JPG"
-    credit: "Photo: Sfoskett / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hollyhock_House.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hollyhock_House.JPG/960px-Hollyhock_House.JPG
+    credit: 'Photo: Sfoskett / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hollyhock_House.JPG
 place:
-  id: "ChIJlVSJZ6nAwoARgCGyrTbgNbw"
-  name: "Hollyhock House"
-  address: "4800 Hollywood Blvd, Los Angeles, CA 90027, USA"
+  id: ChIJlVSJZ6nAwoARgCGyrTbgNbw
+  name: Hollyhock House
+  address: 4800 Hollywood Blvd, Los Angeles, CA 90027, USA
   rating: 4.5
   userRatingsTotal: 647
-  googleMapsUrl: "https://maps.google.com/?cid=13561992378343104896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13561992378343104896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.099975
   lng: -118.29443889999999
-  phone: "+1 323-913-4030"
+  phone: +1 323-913-4030
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 11:00 AM – 4:00 PM"
-    - "Friday: 11:00 AM – 4:00 PM"
-    - "Saturday: 11:00 AM – 4:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:00 AM – 4:00 PM'
+    - 'Friday: 11:00 AM – 4:00 PM'
+    - 'Saturday: 11:00 AM – 4:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "los angeles"
-  - "historic site"
-quickAnswer: "Hollyhock House, Frank Lloyd Wright's 1921 residence for oilwoman Aline Barnsdall, sits atop Barnsdall Art Park in East Hollywood and is only open Thursday through Saturday, 11am–4pm. Give yourself 45–60 minutes for the self-guided tour through the house, then wander the surrounding olive groves and terraces for the skyline view. It's still lightly visited compared to other LA landmarks, so an early Thursday or Friday slot is your best shot at having the rooms nearly to yourself."
+  - los angeles
+  - historic site
+quickAnswer: Hollyhock House, Frank Lloyd Wright's 1921 residence for oilwoman Aline Barnsdall, sits atop Barnsdall Art Park in East Hollywood and is only open Thursday through Saturday, 11am–4pm. Give yourself 45–60 minutes for the self-guided tour through the house, then wander the surrounding olive groves and terraces for the skyline view. It's still lightly visited compared to other LA landmarks, so an early Thursday or Friday slot is your best shot at having the rooms nearly to yourself.
 faq:
-  - q: "What are Hollyhock House's opening hours?"
-    a: "It's open Thursday, Friday, and Saturday only, from 11am to 4pm. It's closed Sunday through Wednesday, so check the calendar before planning a visit."
-  - q: "How do I get to Hollyhock House without a car?"
-    a: "Take the Metro B (Red) Line to Vermont/Sunset station, then walk about 10 minutes uphill into Barnsdall Art Park at 4800 Hollywood Blvd."
-  - q: "How long should I spend there?"
-    a: "Plan for 45 minutes to an hour inside the house on the self-guided tour, plus another 20-30 minutes wandering the surrounding park and terraces."
-  - q: "Is Hollyhock House crowded?"
-    a: "It's under-the-radar compared to other LA landmarks, so it rarely feels crowded. An early Thursday or Friday slot gives you the best chance of a near-empty house."
-  - q: "Is there anything else to do nearby?"
-    a: "Barnsdall Art Park itself is free daily and includes olive groves, skyline views, and the small Barnsdall Art Center gallery, making it easy to combine with a Hollywood or Los Feliz day out."
+  - q: What are Hollyhock House's opening hours?
+    a: It's open Thursday, Friday, and Saturday only, from 11am to 4pm. It's closed Sunday through Wednesday, so check the calendar before planning a visit.
+  - q: How do I get to Hollyhock House without a car?
+    a: Take the Metro B (Red) Line to Vermont/Sunset station, then walk about 10 minutes uphill into Barnsdall Art Park at 4800 Hollywood Blvd.
+  - q: How long should I spend there?
+    a: Plan for 45 minutes to an hour inside the house on the self-guided tour, plus another 20-30 minutes wandering the surrounding park and terraces.
+  - q: Is Hollyhock House crowded?
+    a: It's under-the-radar compared to other LA landmarks, so it rarely feels crowded. An early Thursday or Friday slot gives you the best chance of a near-empty house.
+  - q: Is there anything else to do nearby?
+    a: Barnsdall Art Park itself is free daily and includes olive groves, skyline views, and the small Barnsdall Art Center gallery, making it easy to combine with a Hollywood or Los Feliz day out.
 aiGenerated: true
 draft: false
 ---

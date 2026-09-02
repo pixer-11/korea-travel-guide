@@ -1,44 +1,44 @@
 ---
-title: "Tua Pek Kong Temple: Kuching Travel Guide (4.5★)"
-description: "Tua Pek Kong Temple sits right on the Kuching waterfront at the foot of the old Chinatown grid, open daily 6am–6pm, and takes about 20-30 minutes to see properly. 4.5★ (640 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuching"
-category: "attraction"
-pubDate: "2026-08-20T08:09:47.896Z"
+title: 'Tua Pek Kong Temple: Kuching Travel Guide (4.5★)'
+description: Tua Pek Kong Temple sits right on the Kuching waterfront at the foot of the old Chinatown grid, open daily 6am–6pm, and takes about 20-30 minutes to see properly. 4.5★ (640 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kuching
+category: attraction
+pubDate: '2026-08-20T08:09:47.896Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tua_Pek_Kong_Temple_09.jpg"
-  credit: "Photo: Yeo Jiun Tzen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tua_Pek_Kong_Temple_09.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tua_Pek_Kong_Temple_09.jpg/1920px-Tua_Pek_Kong_Temple_09.jpg
+  credit: 'Photo: Yeo Jiun Tzen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tua_Pek_Kong_Temple_09.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tua_Pek_Kong%2C_Kuching.jpg"
-    credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tua_Pek_Kong,_Kuching.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/7/7b/Tua_Pek_Kong%2C_Kuching.jpg
+    credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tua_Pek_Kong,_Kuching.jpg
 place:
-  id: "ChIJ1UcJ9-un-zERpwzU0O99EZ0"
-  name: "Tua Pek Kong Temple"
-  address: "Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia"
+  id: ChIJ1UcJ9-un-zERpwzU0O99EZ0
+  name: Tua Pek Kong Temple
+  address: Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia
   rating: 4.5
   userRatingsTotal: 640
-  googleMapsUrl: "https://maps.google.com/?cid=11317965807512980647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11317965807512980647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.5571949
   lng: 110.3489838
-  phone: "+60 82-237 643"
+  phone: +60 82-237 643
   openingHours:
-    - "Monday: 6:00 AM – 6:00 PM"
-    - "Tuesday: 6:00 AM – 6:00 PM"
-    - "Wednesday: 6:00 AM – 6:00 PM"
-    - "Thursday: 6:00 AM – 6:00 PM"
-    - "Friday: 6:00 AM – 6:00 PM"
-    - "Saturday: 6:00 AM – 6:00 PM"
-    - "Sunday: 6:00 AM – 6:00 PM"
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekdayBusy:
@@ -50,22 +50,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_305a4539394f30557a777052457a2d6e752d394a6355314a496843"
+    venueId: ven_305a4539394f30557a777052457a2d6e752d394a6355314a496843
 tags:
-  - "kuching"
-  - "historic site"
-quickAnswer: "Tua Pek Kong Temple sits right on the Kuching waterfront at the foot of the old Chinatown grid, open daily 6am–6pm, and takes about 20-30 minutes to see properly. It's Sarawak's oldest Taoist temple and still under-the-radar despite its striking red-and-gold facade, so you rarely fight crowds. For the calmest visit, go weekdays 5-6pm or weekends 3-6pm, right before closing."
+  - kuching
+  - historic site
+quickAnswer: Tua Pek Kong Temple sits right on the Kuching waterfront at the foot of the old Chinatown grid, open daily 6am–6pm, and takes about 20-30 minutes to see properly. It's Sarawak's oldest Taoist temple and still under-the-radar despite its striking red-and-gold facade, so you rarely fight crowds. For the calmest visit, go weekdays 5-6pm or weekends 3-6pm, right before closing.
 faq:
-  - q: "How do I get to Tua Pek Kong Temple?"
-    a: "It's on Jalan Tunku Abdul Rahman right on the Kuching waterfront, an easy walk from Chinatown and most riverside hotels. From further afield, take a Grab or taxi — Kuching's bus network isn't tourist-friendly."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 6am to 6pm, with no evening access, so plan your visit inside that window."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays it's calmest between 5pm and 6pm; on weekends, the quiet stretch runs from 3pm to 6pm."
-  - q: "Is there an entrance fee?"
-    a: "No formal ticket or fee — donations are welcome via boxes near the altar, and cash is the standard way to give."
-  - q: "How long should I plan for the visit?"
-    a: "Most people spend 15 to 30 minutes, a bit longer if you linger in the courtyard to look at the roof carvings."
+  - q: How do I get to Tua Pek Kong Temple?
+    a: It's on Jalan Tunku Abdul Rahman right on the Kuching waterfront, an easy walk from Chinatown and most riverside hotels. From further afield, take a Grab or taxi — Kuching's bus network isn't tourist-friendly.
+  - q: What are the opening hours?
+    a: It's open daily from 6am to 6pm, with no evening access, so plan your visit inside that window.
+  - q: When is the quietest time to visit?
+    a: Weekdays it's calmest between 5pm and 6pm; on weekends, the quiet stretch runs from 3pm to 6pm.
+  - q: Is there an entrance fee?
+    a: No formal ticket or fee — donations are welcome via boxes near the altar, and cash is the standard way to give.
+  - q: How long should I plan for the visit?
+    a: Most people spend 15 to 30 minutes, a bit longer if you linger in the courtyard to look at the roof carvings.
 aiGenerated: true
 draft: false
 ---

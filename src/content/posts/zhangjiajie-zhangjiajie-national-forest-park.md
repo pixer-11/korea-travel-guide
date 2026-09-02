@@ -1,32 +1,32 @@
 ---
-title: "Zhangjiajie National Forest Park: Travel Guide (4.7★)"
-description: "Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in \"Avatar\" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. 4.7★ (1,240 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Zhangjiajie"
-category: "attraction"
-pubDate: "2026-08-11T09:08:57.084Z"
+title: 'Zhangjiajie National Forest Park: Travel Guide (4.7★)'
+description: Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in "Avatar" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. 4.7★ (1,240 reviews) — what visitors say, hours, and tips.
+country: China
+region: Zhangjiajie
+category: attraction
+pubDate: '2026-08-11T09:08:57.084Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1920px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
-  credit: "Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1920px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
+  credit: 'Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/47/Zhangjiajie_National_Forest_Park.jpg"
-    credit: "Photo: Kuruman from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Zhangjiajie_National_Forest_Park.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zhangjiajie_National_Forest_Park.jpg/1920px-Zhangjiajie_National_Forest_Park.jpg
+    credit: 'Photo: Kuruman from Tokyo, Japan / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Zhangjiajie_National_Forest_Park.jpg
 place:
-  id: "ChIJoaxDGsqvmzYRbwukZex5gKE"
-  name: "Zhangjiajie National Forest Park"
-  address: "Wulingyuan District, Zhangjiajie, Hunan, China, 427403"
+  id: ChIJoaxDGsqvmzYRbwukZex5gKE
+  name: Zhangjiajie National Forest Park
+  address: Wulingyuan District, Zhangjiajie, Hunan, China, 427403
   rating: 4.7
   userRatingsTotal: 1240
-  googleMapsUrl: "https://maps.google.com/?cid=11637435493349854063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11637435493349854063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.315305
   lng: 110.434767
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekendQuiet:
       - 10
       - 11
@@ -45,22 +45,22 @@ place:
       - 11
       - 12
       - 22
-    venueId: "ven_454b673578655a6b75776252597a6d767173474478616f4a496843"
+    venueId: ven_454b673578655a6b75776252597a6d767173474478616f4a496843
 tags:
-  - "zhangjiajie"
-  - "top attraction"
-quickAnswer: "Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in \"Avatar\" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. Go early on weekends if you can, since the park runs 7am–11pm on Saturdays and Sundays and gets busiest right at opening; the calmer stretch on weekends tends to be 10am onward. Base yourself in Zhangjiajie City or Wulingyuan town, and budget the better part of a week if you want to combine it with the separate Tianmen Mountain glass skywalk across town."
+  - zhangjiajie
+  - top attraction
+quickAnswer: Zhangjiajie National Forest Park is the sandstone pillar wonderland that inspired the floating mountains in "Avatar" — plan a full day (or two) riding the Bailong Elevator and Yangjiajie cable car through the Wulingyuan Scenic Area. Go early on weekends if you can, since the park runs 7am–11pm on Saturdays and Sundays and gets busiest right at opening; the calmer stretch on weekends tends to be 10am onward. Base yourself in Zhangjiajie City or Wulingyuan town, and budget the better part of a week if you want to combine it with the separate Tianmen Mountain glass skywalk across town.
 faq:
-  - q: "How long should I spend at Zhangjiajie National Forest Park?"
-    a: "A minimum of one full day covers the highlights via cable car and elevator, but two days lets you split between Yuanjiajie/Tianzi and the quieter Yangjiajie and Golden Whip Stream areas without rushing."
-  - q: "When is it quietest?"
-    a: "On weekends the park is open 7am–11pm and busiest near opening; the calmer window starts around 10am. On weekdays, arriving right at gate-opening is generally your best bet for thinner crowds."
-  - q: "Is this the same place as the Tianmen Mountain glass skywalk?"
-    a: "No — Tianmen Mountain with its cliff-hanging walkway and glass skywalk is a separate mountain near Zhangjiajie city. Zhangjiajie National Forest Park is a different site in the Wulingyuan Scenic Area, known for its sandstone pillars."
-  - q: "How do I get around inside the park?"
-    a: "Use the internal shuttle bus network, which links the main scenic zones (Yuanjiajie, Tianzi Mountain, Yangjiajie). Cable cars and the Bailong Elevator cost extra beyond the entrance ticket and save significant walking and stairs."
-  - q: "What should I wear or bring?"
-    a: "Sturdy hiking shoes are essential since trails involve wet stone steps and thousands of stairs on some routes. Bring a light rain layer, cash, and a mobile payment app for food stalls."
+  - q: How long should I spend at Zhangjiajie National Forest Park?
+    a: A minimum of one full day covers the highlights via cable car and elevator, but two days lets you split between Yuanjiajie/Tianzi and the quieter Yangjiajie and Golden Whip Stream areas without rushing.
+  - q: When is it quietest?
+    a: On weekends the park is open 7am–11pm and busiest near opening; the calmer window starts around 10am. On weekdays, arriving right at gate-opening is generally your best bet for thinner crowds.
+  - q: Is this the same place as the Tianmen Mountain glass skywalk?
+    a: No — Tianmen Mountain with its cliff-hanging walkway and glass skywalk is a separate mountain near Zhangjiajie city. Zhangjiajie National Forest Park is a different site in the Wulingyuan Scenic Area, known for its sandstone pillars.
+  - q: How do I get around inside the park?
+    a: Use the internal shuttle bus network, which links the main scenic zones (Yuanjiajie, Tianzi Mountain, Yangjiajie). Cable cars and the Bailong Elevator cost extra beyond the entrance ticket and save significant walking and stairs.
+  - q: What should I wear or bring?
+    a: Sturdy hiking shoes are essential since trails involve wet stone steps and thousands of stairs on some routes. Bring a light rain layer, cash, and a mobile payment app for food stalls.
 aiGenerated: true
 draft: false
 ---

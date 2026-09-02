@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-02'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/84/Amr_Diab_With_World_Music_Awards.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amr_Diab_With_World_Music_Awards.jpg/1280px-Amr_Diab_With_World_Music_Awards.jpg
   credit: 'Photo: Muhammed Rafaat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Amr_Diab_With_World_Music_Awards.jpg

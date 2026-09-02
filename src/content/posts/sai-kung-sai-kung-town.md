@@ -1,28 +1,28 @@
 ---
-title: "Sai Kung Town: Travel Guide (4.3★)"
-description: "Sai Kung Town is a former fishing village on Hong Kong's east coast, now a promenade of seafood restaurants, sampan piers and gateway trails into Sai Kung Country Park. 4.3★ (115 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "hidden-gem"
-pubDate: "2026-08-12T17:28:17.047Z"
+title: 'Sai Kung Town: Travel Guide (4.3★)'
+description: Sai Kung Town is a former fishing village on Hong Kong's east coast, now a promenade of seafood restaurants, sampan piers and gateway trails into Sai Kung Country Park. 4.3★ (115 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sai Kung
+category: hidden-gem
+pubDate: '2026-08-12T17:28:17.047Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sai_Kung_Town_Aerial_View_201706.jpg"
-  credit: "Photo: Wpcpey / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sai_Kung_Town_Aerial_View_201706.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sai_Kung_Town_Aerial_View_201706.jpg/1280px-Sai_Kung_Town_Aerial_View_201706.jpg
+  credit: 'Photo: Wpcpey / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sai_Kung_Town_Aerial_View_201706.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2024-12-28_Sai_Kung%2C_as_seen_from_a_boat_heading_to_Sharp_Island.jpg/3840px-2024-12-28_Sai_Kung%2C_as_seen_from_a_boat_heading_to_Sharp_Island.jpg"
-    credit: "Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2024-12-28_Sai_Kung,_as_seen_from_a_boat_heading_to_Sharp_Island.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2024-12-28_Sai_Kung%2C_as_seen_from_a_boat_heading_to_Sharp_Island.jpg/3840px-2024-12-28_Sai_Kung%2C_as_seen_from_a_boat_heading_to_Sharp_Island.jpg
+    credit: 'Photo: Alexkom000 / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2024-12-28_Sai_Kung,_as_seen_from_a_boat_heading_to_Sharp_Island.jpg
 place:
-  id: "ChIJ97tC1JcFBDQR-679XsutaYw"
-  name: "Sai Kung Town"
-  address: "Chan Man St, Sai Kung, Hong Kong"
+  id: ChIJ97tC1JcFBDQR-679XsutaYw
+  name: Sai Kung Town
+  address: Chan Man St, Sai Kung, Hong Kong
   rating: 4.3
   userRatingsTotal: 115
-  googleMapsUrl: "https://maps.google.com/?cid=10117809126848179963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10117809126848179963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3821735
   lng: 114.27102839999999
   openingHours:
@@ -34,20 +34,20 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "sai kung"
-  - "hidden gem"
-quickAnswer: "Sai Kung Town is a former fishing village on Hong Kong's east coast, now a promenade of seafood restaurants, sampan piers and gateway trails into Sai Kung Country Park. Come late afternoon on a weekday to watch the fishing boats and floating seafood stalls before the dinner crowd, then walk the waterfront to Sai Kung Public Pier. Give it half a day if you're combining it with a hike or beach trip out to the peninsula."
+  - sai kung
+  - hidden gem
+quickAnswer: Sai Kung Town is a former fishing village on Hong Kong's east coast, now a promenade of seafood restaurants, sampan piers and gateway trails into Sai Kung Country Park. Come late afternoon on a weekday to watch the fishing boats and floating seafood stalls before the dinner crowd, then walk the waterfront to Sai Kung Public Pier. Give it half a day if you're combining it with a hike or beach trip out to the peninsula.
 faq:
-  - q: "How do I get to Sai Kung Town without a car?"
-    a: "Take green minibus 1A or 1 from Diamond Hill or Choi Hung MTR stations — it's about 20-25 minutes and drops you near the town centre and pier."
-  - q: "What's the quietest time to visit?"
-    a: "Weekday late afternoons, around 4-6pm, are calmest. Weekends from late morning onward get busy with day-trippers heading to the beaches."
-  - q: "How long should I spend in Sai Kung Town?"
-    a: "Budget 2-3 hours for the waterfront, market and a seafood meal, or a half day if you're combining it with a sampan ride or a hike into Sai Kung Country Park."
-  - q: "Is Sai Kung Town good for a day trip with kids?"
-    a: "Yes — the pier, sampans and seafood tanks are visually engaging for kids, and short boat rides to nearby beaches like Hap Mun Bay are an easy add-on."
-  - q: "Do I need cash?"
-    a: "Cash is still preferred at market stalls and smaller sampan sellers, though most sit-down restaurants now accept cards or mobile payment."
+  - q: How do I get to Sai Kung Town without a car?
+    a: Take green minibus 1A or 1 from Diamond Hill or Choi Hung MTR stations — it's about 20-25 minutes and drops you near the town centre and pier.
+  - q: What's the quietest time to visit?
+    a: Weekday late afternoons, around 4-6pm, are calmest. Weekends from late morning onward get busy with day-trippers heading to the beaches.
+  - q: How long should I spend in Sai Kung Town?
+    a: Budget 2-3 hours for the waterfront, market and a seafood meal, or a half day if you're combining it with a sampan ride or a hike into Sai Kung Country Park.
+  - q: Is Sai Kung Town good for a day trip with kids?
+    a: Yes — the pier, sampans and seafood tanks are visually engaging for kids, and short boat rides to nearby beaches like Hap Mun Bay are an easy add-on.
+  - q: Do I need cash?
+    a: Cash is still preferred at market stalls and smaller sampan sellers, though most sit-down restaurants now accept cards or mobile payment.
 aiGenerated: true
 draft: false
 ---

@@ -39,6 +39,23 @@ const MODEL = process.env.VISION_MODEL || 'claude-sonnet-5';
 
 // Anthropic's own URL fetcher is refused by Wikimedia (and can hit >5MB
 // originals) — download ourselves with a proper UA and send a ≤1024px JPEG.
+// The three callers that store verdicts all treat `vision unavailable` as
+// "nothing was measured, try again" and anything else as a rejection. A
+// download that never happened — 429 from Wikimedia, a 5xx, a reset, a timeout
+// — used to come back as `image unusable`, and two of them wrote that straight
+// into the audit store as a permanent MISMATCH; the nightly re-check could then
+// unpublish a correct page on one throttled fetch (found 2026-09-02). Only a
+// real absence (404/410) or a file sharp cannot decode is a property of the
+// photo; the rest is weather, and is named as such here, once, so no caller
+// has to know the difference.
+const TRANSIENT_FETCH = /image fetch (?:429|5\d\d)|fetch failed|ECONN|ETIMEDOUT|EAI_AGAIN|timeout|aborted|socket hang up/i;
+function fetchFailure(e) {
+  const m = String(e?.message || e).slice(0, 60);
+  return TRANSIENT_FETCH.test(m)
+    ? { ok: false, reason: `vision unavailable (${m}) — not measured` }
+    : { ok: false, reason: `image unusable: ${m}` };
+}
+
 async function fetchAsBase64(url) {
   const abs = url.startsWith('/') ? `https://wanderatlasguides.com${url}` : url;
   // upload.wikimedia.org throttles publish-time bursts with 429; one such
@@ -63,7 +80,10 @@ export async function verifyGalleryImage({ url, heroUrl, name, category, region,
   try {
     candidate = await fetchAsBase64(url);
   } catch (e) {
-    return { ok: false, reason: `candidate unusable: ${e.message.slice(0, 50)}` };
+    // Same split as the hero: a 429 or a reset is weather ("vision
+    // unavailable"), a 404 or an undecodable file is the candidate's own fault.
+    const f = fetchFailure(e);
+    return { ok: false, reason: f.reason.replace(/^image unusable/, 'candidate unusable') };
   }
   try {
     hero = await fetchAsBase64(heroUrl);
@@ -151,7 +171,7 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
   try {
     data = await fetchAsBase64(url);
   } catch (e) {
-    return { ok: false, reason: `image unusable: ${e.message.slice(0, 60)}` };
+    return fetchFailure(e);
   }
   try {
     const msg = await client.messages.create({
@@ -228,7 +248,7 @@ export async function verifyHeroImage({ url, name, category, region, country, ev
     const focus = focusFromReply(j);
     return { ok: !!j.ok, reason: String(j.reason || ''), ...(focus ? { focus } : {}) };
   } catch (e) {
-    if (/image|fetch|url/i.test(e.message)) return { ok: false, reason: `image unusable: ${e.message.slice(0, 60)}` };
+    if (/image|fetch|url/i.test(e.message)) return fetchFailure(e);
     // An overloaded/rate-limited API is NOT evidence the photo is right.
     return { ok: false, reason: `vision unavailable (${e.message.slice(0, 40)}) — not approved` };
   }

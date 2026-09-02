@@ -1,8 +1,6 @@
 ---
 title: 'ITZY 3rd World Tour <TUNNEL VISION>: Dates, Tickets & Venue (Singapore)'
-description: >-
-  ITZY 3rd World Tour <TUNNEL VISION> in Singapore, Singapore — September 30,
-  2026. What it is, when and where, and how to plan around it.
+description: ITZY 3rd World Tour <TUNNEL VISION> in Singapore, Singapore — September 30, 2026. What it is, when and where, and how to plan around it.
 country: Singapore
 region: Singapore
 category: event
@@ -12,14 +10,12 @@ eventEndDate: '2026-09-30'
 eventRecurring: false
 eventOrganizer:
   name: Live Nation
-  url: 'https://www.livenation.sg'
+  url: https://www.livenation.sg
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/8/8e/20240501_ITZY_Amsterdam_concert_06.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20240501_ITZY_Amsterdam_concert_06.jpg/1920px-20240501_ITZY_Amsterdam_concert_06.jpg
   credit: 'Photo: Robbie Klinkenberg / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:20240501_ITZY_Amsterdam_concert_06.jpg
+  source: https://commons.wikimedia.org/wiki/File:20240501_ITZY_Amsterdam_concert_06.jpg
   focus:
     x: 50
     'y': 45
@@ -27,39 +23,21 @@ gallery: []
 tags:
   - singapore
   - event
-quickAnswer: >-
-  ITZY brings their 3rd World Tour, TUNNEL VISION, to Singapore on September 30,
-  2026 — their first return to the city since their last concert here. Venue,
-  ticket tiers, and door times haven't been locked into this guide because they
-  shift after announcement, so confirm everything on ITZY's official social
-  channels and the official ticketing partner before you book flights or hotels.
+quickAnswer: ITZY brings their 3rd World Tour, TUNNEL VISION, to Singapore on September 30, 2026 — their first return to the city since their last concert here. Venue, ticket tiers, and door times haven't been locked into this guide because they shift after announcement, so confirm everything on ITZY's official social channels and the official ticketing partner before you book flights or hotels.
 faq:
   - q: When exactly is the ITZY TUNNEL VISION concert in Singapore?
-    a: >-
-      September 30, 2026, as announced. Always double-check the exact date on
-      ITZY's official channels in case of updates.
+    a: September 30, 2026, as announced. Always double-check the exact date on ITZY's official channels in case of updates.
   - q: Where can I buy tickets?
-    a: >-
-      Ticket tiers and the official sales platform hadn't been confirmed at the
-      time of writing. Only buy through the officially announced ticketing
-      partner once it's revealed — avoid resellers.
+    a: Ticket tiers and the official sales platform hadn't been confirmed at the time of writing. Only buy through the officially announced ticketing partner once it's revealed — avoid resellers.
   - q: What venue will the concert be held at?
-    a: >-
-      The venue wasn't confirmed in available sources. Check ITZY's or the
-      promoter's official announcement for the exact arena and its nearest MRT
-      station and exit.
+    a: The venue wasn't confirmed in available sources. Check ITZY's or the promoter's official announcement for the exact arena and its nearest MRT station and exit.
   - q: How early should I arrive on the day?
-    a: >-
-      Arrive several hours before the listed set time if you want merch or a
-      good position near the stage — merch lines and doors typically open well
-      ahead of showtime.
+    a: Arrive several hours before the listed set time if you want merch or a good position near the stage — merch lines and doors typically open well ahead of showtime.
   - q: Is this ITZY's first time performing in Singapore?
-    a: >-
-      No — this show marks their return to Singapore since their last concert
-      there, as part of their 3rd World Tour.
+    a: No — this show marks their return to Singapore since their last concert there, as part of their 3rd World Tour.
 aiGenerated: true
 eventOffers:
-  url: 'https://ticketmaster.sg/activity/detail/26sg_itzy'
+  url: https://ticketmaster.sg/activity/detail/26sg_itzy
 eventPerformer:
   name: ITZY
   kind: group

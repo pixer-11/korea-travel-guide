@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_01.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/5/5f/Seattle_-_The_Pink_Door_interior.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Seattle_-_The_Pink_Door_interior.jpg/1920px-Seattle_-_The_Pink_Door_interior.jpg
     credit: 'Photo: Joe Mabel / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Seattle_-_The_Pink_Door_interior.jpg
@@ -40,7 +40,16 @@ place:
     weekdayQuiet: []
     weekdayBusy: []
     weekendQuiet: []
-    weekendBusy: [12, 13, 14, 15, 16, 17, 18, 19, 20]
+    weekendBusy:
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
     venueId: ven_6f62727131423057536d4b5251466b714a727a4f5931394a496843
 tags:
   - seattle

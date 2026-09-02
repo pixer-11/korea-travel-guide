@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Magic_city_tungi_ko%27rinishi.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/f/fd/Magic_City_park.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Magic_City_park.jpg/960px-Magic_City_park.jpg
     credit: 'Photo: Nodir Meliev / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Magic_City_park.jpg

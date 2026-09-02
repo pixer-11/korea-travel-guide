@@ -6,7 +6,7 @@ region: Goa
 category: attraction
 pubDate: '2026-07-26T07:50:45.452Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Fort_aguada.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fort_aguada.jpg/960px-Fort_aguada.jpg
   credit: 'Photo: Nanasur at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Fort_aguada.jpg

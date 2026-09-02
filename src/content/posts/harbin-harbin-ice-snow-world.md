@@ -1,46 +1,46 @@
 ---
-title: "Harbin Ice & Snow World: Travel Guide (4.7★)"
-description: "Harbin Ice and Snow World is a massive winter-only park of illuminated ice buildings and slides on the Songhua River, usually running roughly late December through February. 4.7★ (179 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Harbin"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:36:03.784Z"
+title: 'Harbin Ice & Snow World: Travel Guide (4.7★)'
+description: Harbin Ice and Snow World is a massive winter-only park of illuminated ice buildings and slides on the Songhua River, usually running roughly late December through February. 4.7★ (179 reviews) — what visitors say, hours, and tips.
+country: China
+region: Harbin
+category: hidden-gem
+pubDate: '2026-08-13T09:36:03.784Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Snow_and_Ice_World_festival_in_Harbin%2C_China_%283237678193%29.jpg"
-  credit: "Photo: Rincewind42 from China / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Snow_and_Ice_World_festival_in_Harbin,_China_(3237678193).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Snow_and_Ice_World_festival_in_Harbin%2C_China_%283237678193%29.jpg/1920px-Snow_and_Ice_World_festival_in_Harbin%2C_China_%283237678193%29.jpg
+  credit: 'Photo: Rincewind42 from China / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Snow_and_Ice_World_festival_in_Harbin,_China_(3237678193).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ice_Snow_World.jpg"
-    credit: "Photo: Photo by Lin Yang / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ice_Snow_World.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Ice_Snow_World.jpg
+    credit: 'Photo: Photo by Lin Yang / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ice_Snow_World.jpg
 place:
-  id: "ChIJq6raXBaAQ14RfdXnDxVFhCc"
-  name: "Harbin Ice & Snow World"
-  address: "China, Hei Long Jiang Sheng, Ha Er Bin Shi, Dao Li Qu, 兆麟公园 邮政编码: 150036"
+  id: ChIJq6raXBaAQ14RfdXnDxVFhCc
+  name: Harbin Ice & Snow World
+  address: 'China, Hei Long Jiang Sheng, Ha Er Bin Shi, Dao Li Qu, 兆麟公园 邮政编码: 150036'
   rating: 4.7
   userRatingsTotal: 179
-  googleMapsUrl: "https://maps.google.com/?cid=2847476821168477565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2847476821168477565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.7776401
   lng: 126.6228455
-  phone: "+86 451 8468 1337"
+  phone: +86 451 8468 1337
 tags:
-  - "harbin"
-  - "hidden gem"
-quickAnswer: "Harbin Ice and Snow World is a massive winter-only park of illuminated ice buildings and slides on the Songhua River, usually running roughly late December through February. Go after dark, ideally on a weeknight, when the colored LEDs inside the ice blocks glow brightest and the crowds thin out. Budget two to three hours and dress for temperatures well below freezing."
+  - harbin
+  - hidden gem
+quickAnswer: Harbin Ice and Snow World is a massive winter-only park of illuminated ice buildings and slides on the Songhua River, usually running roughly late December through February. Go after dark, ideally on a weeknight, when the colored LEDs inside the ice blocks glow brightest and the crowds thin out. Budget two to three hours and dress for temperatures well below freezing.
 faq:
-  - q: "How do I get to Harbin Ice and Snow World from central Harbin?"
-    a: "Take a taxi or ride-hailing car from Zhongyang Street across the Songhua River to Daoli District — it's roughly a 20 to 30 minute drive. Seasonal public buses also run out to the site."
-  - q: "What time of day is best to visit?"
-    a: "Arrive as dusk is settling in rather than in daylight, so you see the ice structures transition into their full illuminated glow. Weeknight evenings are calmer than weekend nights."
-  - q: "How long should I plan to spend there?"
-    a: "Budget two to three hours to walk the full site, ride a few slides, and warm up at a hot drink stall in between. Rushing it in an hour undersells the place."
-  - q: "What months is it open?"
-    a: "It's a seasonal winter attraction, typically running from late December into February depending on that year's weather. Confirm current dates before booking travel, since there's no ice city outside that window."
-  - q: "What should I wear?"
-    a: "Full winter layering: thermal base layers, a windproof shell, insulated boots, and ear coverage. Temperatures regularly drop well below freezing, and vendors on-site rent heavier coats and hand warmers if needed."
+  - q: How do I get to Harbin Ice and Snow World from central Harbin?
+    a: Take a taxi or ride-hailing car from Zhongyang Street across the Songhua River to Daoli District — it's roughly a 20 to 30 minute drive. Seasonal public buses also run out to the site.
+  - q: What time of day is best to visit?
+    a: Arrive as dusk is settling in rather than in daylight, so you see the ice structures transition into their full illuminated glow. Weeknight evenings are calmer than weekend nights.
+  - q: How long should I plan to spend there?
+    a: Budget two to three hours to walk the full site, ride a few slides, and warm up at a hot drink stall in between. Rushing it in an hour undersells the place.
+  - q: What months is it open?
+    a: It's a seasonal winter attraction, typically running from late December into February depending on that year's weather. Confirm current dates before booking travel, since there's no ice city outside that window.
+  - q: What should I wear?
+    a: 'Full winter layering: thermal base layers, a windproof shell, insulated boots, and ear coverage. Temperatures regularly drop well below freezing, and vendors on-site rent heavier coats and hand warmers if needed.'
 aiGenerated: true
 draft: false
 ---

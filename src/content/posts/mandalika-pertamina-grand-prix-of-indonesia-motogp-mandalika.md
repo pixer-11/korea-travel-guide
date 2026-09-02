@@ -16,7 +16,7 @@ eventOffers:
   url: https://tickets.motogp.com/en/50127-indonesia/
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg/1920px-MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg
   credit: 'Photo: Andika Wahyu; Portal Informasi Indonesia / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika,_NTB,_Indonesia.jpg

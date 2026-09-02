@@ -1,44 +1,44 @@
 ---
-title: "Museo Nazionale dell'Automobile: Turin Travel Guide (4.7★)"
-description: "Museo Nazionale dell'Automobile (MAUTO) sits on Corso Unità d'Italia along the Po river, a short tram ride south of central Turin. 4.7★ (23,631 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Turin"
-category: "attraction"
-pubDate: "2026-08-25T08:09:08.608Z"
+title: 'Museo Nazionale dell''Automobile: Turin Travel Guide (4.7★)'
+description: Museo Nazionale dell'Automobile (MAUTO) sits on Corso Unità d'Italia along the Po river, a short tram ride south of central Turin. 4.7★ (23,631 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Turin
+category: attraction
+pubDate: '2026-08-25T08:09:08.608Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg/1920px-Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg"
-  credit: "Photo: Gianni Careddu / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Torino,_museo_nazionale_dell%27Automobile_(02).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg/1920px-Torino%2C_museo_nazionale_dell%27Automobile_%2802%29.jpg
+  credit: 'Photo: Gianni Careddu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Torino,_museo_nazionale_dell%27Automobile_(02).jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/08/GP_automobiles_Museo_Nazionale_dell%27Automobile_Torino.jpg"
-    credit: "Photo: Jokamies .fi / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:GP_automobiles_Museo_Nazionale_dell%27Automobile_Torino.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GP_automobiles_Museo_Nazionale_dell%27Automobile_Torino.jpg/960px-GP_automobiles_Museo_Nazionale_dell%27Automobile_Torino.jpg
+    credit: 'Photo: Jokamies .fi / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:GP_automobiles_Museo_Nazionale_dell%27Automobile_Torino.jpg
 place:
-  id: "ChIJh1nvjroSiEcRMmGulpZu_Aw"
-  name: "Museo Nazionale dell'Automobile"
-  address: "Corso Unità d'Italia, 40, 10126 Torino TO, Italy"
+  id: ChIJh1nvjroSiEcRMmGulpZu_Aw
+  name: Museo Nazionale dell'Automobile
+  address: Corso Unità d'Italia, 40, 10126 Torino TO, Italy
   rating: 4.7
   userRatingsTotal: 23631
-  googleMapsUrl: "https://maps.google.com/?cid=935744415638380850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=935744415638380850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.03160020000001
   lng: 7.673963899999999
-  phone: "+39 011 677666"
+  phone: +39 011 677666
   openingHours:
-    - "Monday: 10:00 AM – 2:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 2:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -49,22 +49,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_77415f755a706c75476d4d52634569536f726a766e31684a496843"
+    venueId: ven_77415f755a706c75476d4d52634569536f726a766e31684a496843
 tags:
-  - "turin"
-  - "museum"
-quickAnswer: "Museo Nazionale dell'Automobile (MAUTO) sits on Corso Unità d'Italia along the Po river, a short tram ride south of central Turin. It's very popular, so aim for a weekday morning between 10am and 11am, when galleries are calmest, and budget two to three hours. It's open Monday only until 2pm, but 10am–7pm every other day of the week."
+  - turin
+  - museum
+quickAnswer: Museo Nazionale dell'Automobile (MAUTO) sits on Corso Unità d'Italia along the Po river, a short tram ride south of central Turin. It's very popular, so aim for a weekday morning between 10am and 11am, when galleries are calmest, and budget two to three hours. It's open Monday only until 2pm, but 10am–7pm every other day of the week.
 faq:
-  - q: "How do I get to Museo Nazionale dell'Automobile from central Turin?"
-    a: "Take tram line 4, which stops close to the entrance on Corso Unità d'Italia. It's a quick ride from Porta Nuova station and the city center."
-  - q: "What is the quietest time to visit?"
-    a: "Weekday mornings between 10am and 11am are the calmest, according to measured foot-traffic data. Weekend afternoons from 11am to 6pm are the busiest, so avoid that window if you can."
-  - q: "How long should I plan for a visit?"
-    a: "Most visitors spend two to three hours moving through the galleries. Car enthusiasts or anyone catching a special exhibition should allow longer."
-  - q: "What are the opening hours?"
-    a: "The museum runs 10am–7pm Tuesday through Sunday. Monday is shorter, closing at 2pm, so plan accordingly if visiting at the start of the week."
-  - q: "Is it worth combining with other Turin attractions?"
-    a: "Yes — it sits near Parco del Valentino and the Borgo Medievale along the Po, and is a moderate walk or tram ride from the Egyptian Museum and Mole Antonelliana."
+  - q: How do I get to Museo Nazionale dell'Automobile from central Turin?
+    a: Take tram line 4, which stops close to the entrance on Corso Unità d'Italia. It's a quick ride from Porta Nuova station and the city center.
+  - q: What is the quietest time to visit?
+    a: Weekday mornings between 10am and 11am are the calmest, according to measured foot-traffic data. Weekend afternoons from 11am to 6pm are the busiest, so avoid that window if you can.
+  - q: How long should I plan for a visit?
+    a: Most visitors spend two to three hours moving through the galleries. Car enthusiasts or anyone catching a special exhibition should allow longer.
+  - q: What are the opening hours?
+    a: The museum runs 10am–7pm Tuesday through Sunday. Monday is shorter, closing at 2pm, so plan accordingly if visiting at the start of the week.
+  - q: Is it worth combining with other Turin attractions?
+    a: Yes — it sits near Parco del Valentino and the Borgo Medievale along the Po, and is a moderate walk or tram ride from the Egyptian Museum and Mole Antonelliana.
 aiGenerated: true
 draft: false
 ---

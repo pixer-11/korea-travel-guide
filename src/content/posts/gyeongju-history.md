@@ -1,12 +1,12 @@
 ---
-title: "History in Gyeongju"
+title: History in Gyeongju
 description: 'Spend two full days in Gyeongju: one for the Tumuli Park/Cheomseongdae/Wolji Pond loop in the city center, and one for Bulguksa Temple and Seokguram Grotto in the hills to the east.'
 region: Gyeongju
-country: "South Korea"
+country: South Korea
 category: attraction
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6f/Korea-Gyeongju-Silla_Art_and_Science_Museum-Entrance-01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Korea-Gyeongju-Silla_Art_and_Science_Museum-Entrance-01.jpg/1280px-Korea-Gyeongju-Silla_Art_and_Science_Museum-Entrance-01.jpg
   credit: 'Photo: by Junho Jung at Flickr from South Korea / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Silla_Art_and_Science_Museum-Entrance-01.jpg

@@ -1,49 +1,49 @@
 ---
-title: "Big buddha: Lantau Island Travel Guide (4.8★)"
-description: "The Big Buddha (Tian Tan Buddha) sits above Po Lin Monastery in Ngong Ping, Lantau Island, reached by the Ngong Ping 360 cable car from Tung Chung or by bus. 4.8★ (216 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Lantau Island"
-category: "attraction"
-pubDate: "2026-08-31T15:13:04.506Z"
+title: 'Big buddha: Lantau Island Travel Guide (4.8★)'
+description: The Big Buddha (Tian Tan Buddha) sits above Po Lin Monastery in Ngong Ping, Lantau Island, reached by the Ngong Ping 360 cable car from Tung Chung or by bus. 4.8★ (216 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Lantau Island
+category: attraction
+pubDate: '2026-08-31T15:13:04.506Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Big_Buddha_%28147830209%29.jpeg"
-  credit: "Photo: Pierre Selim Huard / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Big_Buddha_(147830209).jpeg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Big_Buddha_%28147830209%29.jpeg/1920px-Big_Buddha_%28147830209%29.jpeg
+  credit: 'Photo: Pierre Selim Huard / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Big_Buddha_(147830209).jpeg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/11/Big_Buddha_Statue_at_Lantau_Island.JPG"
-    credit: "Photo: Hadriann at English Wikipedia / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Big_Buddha_Statue_at_Lantau_Island.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Big_Buddha_Statue_at_Lantau_Island.JPG/1920px-Big_Buddha_Statue_at_Lantau_Island.JPG
+    credit: 'Photo: Hadriann at English Wikipedia / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Big_Buddha_Statue_at_Lantau_Island.JPG
 place:
-  id: "ChIJr3KcAQBZATQRKCy0qZCLerg"
-  name: "Big buddha"
-  address: "Po Lin Monastery, Ngong Ping, New Territories, Hong Kong"
+  id: ChIJr3KcAQBZATQRKCy0qZCLerg
+  name: Big buddha
+  address: Po Lin Monastery, Ngong Ping, New Territories, Hong Kong
   rating: 4.8
   userRatingsTotal: 216
-  googleMapsUrl: "https://maps.google.com/?cid=13293090703576149032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13293090703576149032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2554932
   lng: 113.9080796
 tags:
-  - "lantau island"
-  - "historic site"
-quickAnswer: "The Big Buddha (Tian Tan Buddha) sits above Po Lin Monastery in Ngong Ping, Lantau Island, reached by the Ngong Ping 360 cable car from Tung Chung or by bus. Go on a clear weekday morning for the best views and thinnest crowds; the bronze statue and its 268-step climb are free to visit. Budget half a day if you're combining it with the monastery and Ngong Ping Village."
+  - lantau island
+  - historic site
+quickAnswer: The Big Buddha (Tian Tan Buddha) sits above Po Lin Monastery in Ngong Ping, Lantau Island, reached by the Ngong Ping 360 cable car from Tung Chung or by bus. Go on a clear weekday morning for the best views and thinnest crowds; the bronze statue and its 268-step climb are free to visit. Budget half a day if you're combining it with the monastery and Ngong Ping Village.
 faq:
-  - q: "How do you get to the Big Buddha on Lantau Island?"
-    a: "Take the MTR to Tung Chung station, then either ride the Ngong Ping 360 cable car (about 25 minutes) or catch bus 23 up the mountain road to Ngong Ping Village, a short walk from the statue."
-  - q: "Is there an entrance fee for the Big Buddha?"
-    a: "No, standing on the platform around the statue is free. There may be a small charge to enter the museum inside the base; the cable car and any monastery meal tickets are separate costs."
-  - q: "How long should I spend at the Big Buddha and Po Lin Monastery?"
-    a: "Plan for half a day if you're combining the statue, the 268-step climb, the monastery grounds and Ngong Ping Village. Add extra time for the Wisdom Path walk nearby."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings, soon after the cable car and buses start running, tend to be quieter than weekend afternoons, when tour groups often arrive in larger numbers."
-  - q: "What else is near the Big Buddha on Lantau?"
-    a: "Po Lin Monastery sits right at the base of the steps, Ngong Ping Village has shops and food by the cable car terminal, and the Wisdom Path is a 20-30 minute walk away."
+  - q: How do you get to the Big Buddha on Lantau Island?
+    a: Take the MTR to Tung Chung station, then either ride the Ngong Ping 360 cable car (about 25 minutes) or catch bus 23 up the mountain road to Ngong Ping Village, a short walk from the statue.
+  - q: Is there an entrance fee for the Big Buddha?
+    a: No, standing on the platform around the statue is free. There may be a small charge to enter the museum inside the base; the cable car and any monastery meal tickets are separate costs.
+  - q: How long should I spend at the Big Buddha and Po Lin Monastery?
+    a: Plan for half a day if you're combining the statue, the 268-step climb, the monastery grounds and Ngong Ping Village. Add extra time for the Wisdom Path walk nearby.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings, soon after the cable car and buses start running, tend to be quieter than weekend afternoons, when tour groups often arrive in larger numbers.
+  - q: What else is near the Big Buddha on Lantau?
+    a: Po Lin Monastery sits right at the base of the steps, Ngong Ping Village has shops and food by the cable car terminal, and the Wisdom Path is a 20-30 minute walk away.
 aiGenerated: true
 draft: false
 ---

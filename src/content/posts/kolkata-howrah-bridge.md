@@ -1,40 +1,40 @@
 ---
-title: "Howrah Bridge: Kolkata Travel Guide (4.6★)"
-description: "Howrah Bridge is Kolkata's iconic 1943 cantilever bridge over the Hooghly River, open 24 hours and best seen at sunrise or from a river ferry rather than on foot in traffic. 4.6★ (136,048 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kolkata"
-category: "attraction"
-pubDate: "2026-08-10T09:14:09.764Z"
+title: 'Howrah Bridge: Kolkata Travel Guide (4.6★)'
+description: Howrah Bridge is Kolkata's iconic 1943 cantilever bridge over the Hooghly River, open 24 hours and best seen at sunrise or from a river ferry rather than on foot in traffic. 4.6★ (136,048 reviews) — what visitors say, hours, and tips.
+country: India
+region: Kolkata
+category: attraction
+pubDate: '2026-08-10T09:14:09.764Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg"
-  credit: "Photo: Apoorva Karlekar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Howrah_bridge_at_night.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Howrah_bridge_at_night.jpg/1280px-Howrah_bridge_at_night.jpg
+  credit: 'Photo: Apoorva Karlekar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Howrah_bridge_at_night.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Howrah_Bridge%2C_Foggy.jpg/3840px-Howrah_Bridge%2C_Foggy.jpg"
-    credit: "Photo: Dey.sandip / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Howrah_Bridge,_Foggy.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Howrah_Bridge%2C_Foggy.jpg/3840px-Howrah_Bridge%2C_Foggy.jpg
+    credit: 'Photo: Dey.sandip / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Howrah_Bridge,_Foggy.jpg
 place:
-  id: "ChIJG-seu793AjoRmRFBjKoKhMk"
-  name: "Howrah Bridge"
-  address: "Kolkata, West Bengal 711101, India"
+  id: ChIJG-seu793AjoRmRFBjKoKhMk
+  name: Howrah Bridge
+  address: Kolkata, West Bengal 711101, India
   rating: 4.6
   userRatingsTotal: 136048
-  googleMapsUrl: "https://maps.google.com/?cid=14520742826163114393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14520742826163114393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.585127
   lng: 88.3467759
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-10
+    updated: 2026-08-10T00:00:00.000Z
     weekdayBusy:
       - 9
       - 10
@@ -59,22 +59,22 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6b4d684b6f4b6a4246526d526f6a413339377565732d474a496843"
+    venueId: ven_6b4d684b6f4b6a4246526d526f6a413339377565732d474a496843
 tags:
-  - "kolkata"
-  - "top attraction"
-quickAnswer: "Howrah Bridge is Kolkata's iconic 1943 cantilever bridge over the Hooghly River, open 24 hours and best seen at sunrise or from a river ferry rather than on foot in traffic. It's extremely well-visited, so weekend daytime (busiest roughly 9am–10pm) is when it's most crowded. Give it 30–60 minutes, more if you add a boat ride or a walk through Mullick Ghat flower market underneath it."
+  - kolkata
+  - top attraction
+quickAnswer: Howrah Bridge is Kolkata's iconic 1943 cantilever bridge over the Hooghly River, open 24 hours and best seen at sunrise or from a river ferry rather than on foot in traffic. It's extremely well-visited, so weekend daytime (busiest roughly 9am–10pm) is when it's most crowded. Give it 30–60 minutes, more if you add a boat ride or a walk through Mullick Ghat flower market underneath it.
 faq:
-  - q: "How do I get to Howrah Bridge by public transport?"
-    a: "Take the Kolkata Metro Blue Line to Mahakaran station and walk a few minutes to the bridge's eastern end, or arrive by train at Howrah station, which sits right at its western foot."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekends get busy roughly 9am to 10pm, so aim for early morning right after sunrise or after dark for a calmer, more atmospheric visit."
-  - q: "Can I take photos on the bridge?"
-    a: "Photography from the bridge deck itself is discouraged and traffic doesn't stop for pedestrians. Better views come from a ferry on the Hooghly or from Millennium Park on the riverbank."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 30 to 60 minutes, longer if you combine it with the Mullick Ghat flower market below the bridge or a short river ferry ride."
-  - q: "Is there an entry fee?"
-    a: "No, the bridge is a free public roadway open 24 hours; any cost you'll pay is for a ferry ride, rickshaw, or taxi to get there."
+  - q: How do I get to Howrah Bridge by public transport?
+    a: Take the Kolkata Metro Blue Line to Mahakaran station and walk a few minutes to the bridge's eastern end, or arrive by train at Howrah station, which sits right at its western foot.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekends get busy roughly 9am to 10pm, so aim for early morning right after sunrise or after dark for a calmer, more atmospheric visit.
+  - q: Can I take photos on the bridge?
+    a: Photography from the bridge deck itself is discouraged and traffic doesn't stop for pedestrians. Better views come from a ferry on the Hooghly or from Millennium Park on the riverbank.
+  - q: How long should I plan to spend here?
+    a: Most visitors spend 30 to 60 minutes, longer if you combine it with the Mullick Ghat flower market below the bridge or a short river ferry ride.
+  - q: Is there an entry fee?
+    a: No, the bridge is a free public roadway open 24 hours; any cost you'll pay is for a ferry ride, rickshaw, or taxi to get there.
 aiGenerated: true
 draft: false
 ---

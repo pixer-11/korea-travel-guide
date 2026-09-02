@@ -1,45 +1,45 @@
 ---
-title: "Shifen Old Street: Pingxi Travel Guide (4.3★)"
-description: "Shifen Old Street is a narrow lane in Pingxi District where the Pingxi Line railway runs right between rows of shops, and where visitors write wishes on giant paper sky lanterns and release them skyward. 4.3★ (52,203 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Pingxi"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:54:16.878Z"
+title: 'Shifen Old Street: Pingxi Travel Guide (4.3★)'
+description: Shifen Old Street is a narrow lane in Pingxi District where the Pingxi Line railway runs right between rows of shops, and where visitors write wishes on giant paper sky lanterns and release them skyward. 4.3★ (52,203 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Pingxi
+category: hidden-gem
+pubDate: '2026-08-13T09:54:16.878Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8f/TRA_DRC1029_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20171028.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:TRA_DRC1029_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20171028.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TRA_DRC1029_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20171028.jpg/1920px-TRA_DRC1029_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20171028.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:TRA_DRC1029_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20171028.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d8/TRA_DR1000_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20111126.jpg"
-    credit: "Photo: MiNe / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:TRA_DR1000_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20111126.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TRA_DR1000_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20111126.jpg/1920px-TRA_DR1000_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20111126.jpg
+    credit: 'Photo: MiNe / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:TRA_DR1000_and_Pingxi_Sky_Lanterns_at_Shifen_Old_Street_20111126.jpg
 place:
-  id: "ChIJ_____y9RXTQRvnNyOkDE3vY"
-  name: "Shifen Old Street"
-  address: "No. 81號, Shifen St, Shifen Village, Pingxi District, New Taipei City, Taiwan 226"
+  id: ChIJ_____y9RXTQRvnNyOkDE3vY
+  name: Shifen Old Street
+  address: No. 81號, Shifen St, Shifen Village, Pingxi District, New Taipei City, Taiwan 226
   rating: 4.3
   userRatingsTotal: 52203
-  googleMapsUrl: "https://maps.google.com/?cid=17788871358297568190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17788871358297568190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0423966
   lng: 121.77636620000001
 tags:
-  - "pingxi"
-  - "hidden gem"
-quickAnswer: "Shifen Old Street is a narrow lane in Pingxi District where the Pingxi Line railway runs right between rows of shops, and where visitors write wishes on giant paper sky lanterns and release them skyward. Take the train from Ruifang Station on the Pingxi Line and get off at Shifen — the street sits right beside the platform. Go on a weekday morning if you can; weekends and holiday afternoons bring heavy crowds who cluster right on the tracks for photos."
+  - pingxi
+  - hidden gem
+quickAnswer: Shifen Old Street is a narrow lane in Pingxi District where the Pingxi Line railway runs right between rows of shops, and where visitors write wishes on giant paper sky lanterns and release them skyward. Take the train from Ruifang Station on the Pingxi Line and get off at Shifen — the street sits right beside the platform. Go on a weekday morning if you can; weekends and holiday afternoons bring heavy crowds who cluster right on the tracks for photos.
 faq:
-  - q: "How do I get to Shifen Old Street from Taipei?"
-    a: "Take the TRA train to Ruifang Station, then transfer to the Pingxi Line branch train toward Jingtong. Shifen Station is about six stops in, roughly 40 minutes from Ruifang, and the old street starts right at the platform."
-  - q: "How much does a sky lantern cost?"
-    a: "Prices vary a little by vendor and by number of colored panels you write on, so check the board at each stall before choosing — most travelers pick a single-color lantern, which keeps things simple."
-  - q: "How long should I plan to spend at Shifen?"
-    a: "Budget 2-3 hours for the lantern release, street food, and a walk to Shifen Waterfall. With travel time from Taipei, treat it as a half-day trip."
-  - q: "What's the best time to avoid crowds?"
-    a: "Go on a weekday morning shortly after the first trains arrive. Weekend afternoons and Taiwanese holidays bring heavy crowds clustering on the tracks for photos."
-  - q: "What else is near Shifen Old Street?"
-    a: "Shifen Waterfall is a 20-minute walk south, and the Jingan Suspension Bridge is right by the old street. Many visitors combine Shifen with Jiufen Old Street on the same day trip."
+  - q: How do I get to Shifen Old Street from Taipei?
+    a: Take the TRA train to Ruifang Station, then transfer to the Pingxi Line branch train toward Jingtong. Shifen Station is about six stops in, roughly 40 minutes from Ruifang, and the old street starts right at the platform.
+  - q: How much does a sky lantern cost?
+    a: Prices vary a little by vendor and by number of colored panels you write on, so check the board at each stall before choosing — most travelers pick a single-color lantern, which keeps things simple.
+  - q: How long should I plan to spend at Shifen?
+    a: Budget 2-3 hours for the lantern release, street food, and a walk to Shifen Waterfall. With travel time from Taipei, treat it as a half-day trip.
+  - q: What's the best time to avoid crowds?
+    a: Go on a weekday morning shortly after the first trains arrive. Weekend afternoons and Taiwanese holidays bring heavy crowds clustering on the tracks for photos.
+  - q: What else is near Shifen Old Street?
+    a: Shifen Waterfall is a 20-minute walk south, and the Jingan Suspension Bridge is right by the old street. Many visitors combine Shifen with Jiufen Old Street on the same day trip.
 aiGenerated: true
 draft: false
 ---

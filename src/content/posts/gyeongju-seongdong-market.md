@@ -6,7 +6,7 @@ region: Gyeongju
 category: hidden-gem
 pubDate: '2026-08-06T10:08:21.357Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/4a/Seongdong_Market_%28Gyeongju%2C_South_Korea%29_003.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seongdong_Market_%28Gyeongju%2C_South_Korea%29_003.jpg/1920px-Seongdong_Market_%28Gyeongju%2C_South_Korea%29_003.jpg
   credit: 'Photo: Leonard J. DeFrancisci / wikimedia (BY-SA)'
   license: openverse-cc
   source: https://commons.wikimedia.org/w/index.php?curid=10020351

@@ -8,7 +8,7 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Babymonster_Seattle.jpg/3840px-Babymonster_Seattle.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Babymonster_Seattle.jpg/3840px-Babymonster_Seattle.jpg
   credit: 'Photo: David Lee from Redmond, WA, USA / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Babymonster_Seattle.jpg

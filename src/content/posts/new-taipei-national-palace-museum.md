@@ -1,44 +1,44 @@
 ---
-title: "National Palace Museum: New Taipei Travel Guide (4.6★)"
-description: "The National Palace Museum sits in Taipei's Shilin District (address given as New Taipei/Taipei border area), open Tuesday–Sunday 9am–5pm and closed Mondays. 4.6★ (62,130 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "New Taipei"
-category: "attraction"
-pubDate: "2026-08-19T09:20:51.417Z"
+title: 'National Palace Museum: New Taipei Travel Guide (4.6★)'
+description: The National Palace Museum sits in Taipei's Shilin District (address given as New Taipei/Taipei border area), open Tuesday–Sunday 9am–5pm and closed Mondays. 4.6★ (62,130 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: New Taipei
+category: attraction
+pubDate: '2026-08-19T09:20:51.417Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b4/NationalPalace_MuseumFrontView.jpg"
-  credit: "Photo: Peellden / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:NationalPalace_MuseumFrontView.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NationalPalace_MuseumFrontView.jpg/1280px-NationalPalace_MuseumFrontView.jpg
+  credit: 'Photo: Peellden / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:NationalPalace_MuseumFrontView.jpg
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Taipei_Taiwan_National-Palace-Museum-04.jpg/3840px-Taipei_Taiwan_National-Palace-Museum-04.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_National-Palace-Museum-04.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Taipei_Taiwan_National-Palace-Museum-04.jpg/3840px-Taipei_Taiwan_National-Palace-Museum-04.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_National-Palace-Museum-04.jpg
 place:
-  id: "ChIJfUpAzTqsQjQRwQl6ORhwbV0"
-  name: "National Palace Museum"
-  address: "No. 221, Sec 2, Zhi Shan Rd, Shilin District, Taipei City, Taiwan 111"
+  id: ChIJfUpAzTqsQjQRwQl6ORhwbV0
+  name: National Palace Museum
+  address: No. 221, Sec 2, Zhi Shan Rd, Shilin District, Taipei City, Taiwan 111
   rating: 4.6
   userRatingsTotal: 62130
-  googleMapsUrl: "https://maps.google.com/?cid=6732160267334584769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6732160267334584769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.1023554
   lng: 121.54849250000001
-  phone: "+886 2 2881 2021"
+  phone: +886 2 2881 2021
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -50,22 +50,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_3056627768524f366c517752516a517371547a417055664a496843"
+    venueId: ven_3056627768524f366c517752516a517371547a417055664a496843
 tags:
-  - "new taipei"
-  - "museum"
-quickAnswer: "The National Palace Museum sits in Taipei's Shilin District (address given as New Taipei/Taipei border area), open Tuesday–Sunday 9am–5pm and closed Mondays. It's genuinely huge and genuinely crowded — weekends from 10am to 5pm draw the thickest lines — so aim for a weekday morning right at opening. Budget at least two to three hours, more if you want to see the famous Jadeite Cabbage and Meat-shaped Stone up close."
+  - new taipei
+  - museum
+quickAnswer: The National Palace Museum sits in Taipei's Shilin District (address given as New Taipei/Taipei border area), open Tuesday–Sunday 9am–5pm and closed Mondays. It's genuinely huge and genuinely crowded — weekends from 10am to 5pm draw the thickest lines — so aim for a weekday morning right at opening. Budget at least two to three hours, more if you want to see the famous Jadeite Cabbage and Meat-shaped Stone up close.
 faq:
-  - q: "What are the National Palace Museum's opening hours?"
-    a: "It's open Tuesday through Sunday, 9:00 AM to 5:00 PM, and closed all day Monday. Confirm current hours before visiting since museums occasionally adjust for holidays."
-  - q: "How do I get to the National Palace Museum without a car?"
-    a: "Take the MRT Red Line to Shilin Station, then transfer to bus 255, 304, or the red 30 minibus, all of which stop at the museum gate in about 10–15 minutes."
-  - q: "When is the National Palace Museum least crowded?"
-    a: "Weekends from 10am to 5pm are its busiest measured window, so a weekday morning right at 9am opening is your best bet for shorter lines."
-  - q: "How long should I plan for a visit?"
-    a: "Budget at least two to three hours to see the highlights properly — the Jadeite Cabbage, the Meat-shaped Stone, and a selection of the ceramics and bronze galleries — longer if you want a deeper look."
-  - q: "What's near the museum worth combining with the visit?"
-    a: "The Shung Ye Museum of Formosan Aborigines sits right across the street, and Shilin Night Market is a short ride away for an evening follow-up."
+  - q: What are the National Palace Museum's opening hours?
+    a: It's open Tuesday through Sunday, 9:00 AM to 5:00 PM, and closed all day Monday. Confirm current hours before visiting since museums occasionally adjust for holidays.
+  - q: How do I get to the National Palace Museum without a car?
+    a: Take the MRT Red Line to Shilin Station, then transfer to bus 255, 304, or the red 30 minibus, all of which stop at the museum gate in about 10–15 minutes.
+  - q: When is the National Palace Museum least crowded?
+    a: Weekends from 10am to 5pm are its busiest measured window, so a weekday morning right at 9am opening is your best bet for shorter lines.
+  - q: How long should I plan for a visit?
+    a: Budget at least two to three hours to see the highlights properly — the Jadeite Cabbage, the Meat-shaped Stone, and a selection of the ceramics and bronze galleries — longer if you want a deeper look.
+  - q: What's near the museum worth combining with the visit?
+    a: The Shung Ye Museum of Formosan Aborigines sits right across the street, and Shilin Night Market is a short ride away for an evening follow-up.
 aiGenerated: true
 draft: false
 ---

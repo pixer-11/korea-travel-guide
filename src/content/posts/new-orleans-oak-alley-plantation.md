@@ -1,18 +1,18 @@
 ---
-title: "Oak Alley Plantation: New Orleans Travel Guide (4.6★)"
+title: 'Oak Alley Plantation: New Orleans Travel Guide (4.6★)'
 description: Oak Alley Plantation sits about an hour west of New Orleans on LA-18 in Vacherie, best known for its quarter-mile tunnel of 300-year-old live oaks leading to a Greek Revival mansion. 4.6★ (10,738 reviews) — what visitors say, hours, and tips.
 country: United States
 region: New Orleans
 category: hidden-gem
-pubDate: "2026-08-07T08:46:33.100Z"
+pubDate: '2026-08-07T08:46:33.100Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg
-  credit: "Photo: Scott Oldham / Wikimedia Commons (CC BY-SA 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg/960px-Oak_Alley_Plantation%2C_Louisiana_%28Scott_Oldham%29.jpg
+  credit: 'Photo: Scott Oldham / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation,_Louisiana_(Scott_Oldham).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/a/aa/Oak_Alley_Plantation_01.jpg
-    credit: "Photo: Jeffreyareed / Wikimedia Commons (Public domain)"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Oak_Alley_Plantation_01.jpg/1920px-Oak_Alley_Plantation_01.jpg
+    credit: 'Photo: Jeffreyareed / Wikimedia Commons (Public domain)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation_01.jpg
 place:
@@ -27,21 +27,23 @@ place:
   lng: -90.77599719999999
   phone: +1 225-265-2151
   openingHours:
-    - "Monday: 8:30 AM – 4:45 PM"
-    - "Tuesday: 8:30 AM – 4:45 PM"
-    - "Wednesday: 8:30 AM – 4:45 PM"
-    - "Thursday: 8:30 AM – 4:45 PM"
-    - "Friday: 8:30 AM – 4:45 PM"
-    - "Saturday: 8:30 AM – 4:45 PM"
-    - "Sunday: 8:30 AM – 4:45 PM"
+    - 'Monday: 8:30 AM – 4:45 PM'
+    - 'Tuesday: 8:30 AM – 4:45 PM'
+    - 'Wednesday: 8:30 AM – 4:45 PM'
+    - 'Thursday: 8:30 AM – 4:45 PM'
+    - 'Friday: 8:30 AM – 4:45 PM'
+    - 'Saturday: 8:30 AM – 4:45 PM'
+    - 'Sunday: 8:30 AM – 4:45 PM'
   busyness:
     updated: 2026-08-07T00:00:00.000Z
-    weekdayQuiet: [9]
+    weekdayQuiet:
+      - 9
     weekdayBusy:
       - 12
       - 13
       - 14
-    weekendQuiet: [9]
+    weekendQuiet:
+      - 9
     weekendBusy:
       - 12
       - 13
@@ -53,7 +55,7 @@ tags:
 quickAnswer: Oak Alley Plantation sits about an hour west of New Orleans on LA-18 in Vacherie, best known for its quarter-mile tunnel of 300-year-old live oaks leading to a Greek Revival mansion. It's open daily 8:30am–4:45pm; arrive right at opening (8:30am–10am is quietest) to beat the tour buses that flood in by noon. Budget half a day including the drive, and pair it with the Whitney Plantation nearby for a fuller picture of the region's history.
 faq:
   - q: How long does a visit take?
-    a: "Plan on two to three hours: about 45 minutes for the guided mansion tour plus time to walk the oak alley and self-guided exhibits."
+    a: 'Plan on two to three hours: about 45 minutes for the guided mansion tour plus time to walk the oak alley and self-guided exhibits.'
   - q: When is the quietest time to visit?
     a: Foot-traffic data shows 8:30am–10am is calmest, both on weekdays and weekends. Avoid noon–3pm on weekends, when tour buses peak.
   - q: How do I get there from New Orleans?

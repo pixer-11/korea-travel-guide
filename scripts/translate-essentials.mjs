@@ -83,6 +83,14 @@ async function translateOne(langCode, slug, data) {
   }
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   if (!out?.body || !out?.title) throw new Error('model returned no translation');
+  // A body far shorter than its source is a stub with a title for camouflage
+  // (posts: dubai-def-leppard ko/es at 2% of the English, 2026-09-02). The
+  // existence-only skip below would then keep it forever. Same floor as
+  // translate-posts: Chinese runs at ~0.4 of English, 0.2 is under any real
+  // translation.
+  if (String(out.body).trim().length < 0.2 * String(data.body || '').trim().length) {
+    throw new Error(`translation body is a stub (${String(out.body).trim().length} chars against ${String(data.body || '').trim().length})`);
+  }
 
   const fm = {
     lang: langCode,

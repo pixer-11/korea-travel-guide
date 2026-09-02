@@ -1,32 +1,32 @@
 ---
-title: "Silvermine Bay Beach: Lantau Island Travel Guide (4.1★)"
-description: "Silvermine Bay Beach (Mui Wo) is a relaxed, sandy stretch on Lantau Island, easily reached by ferry from Central Hong Kong, good for a half-day of swimming, walking the waterfront promenade, and grabbing a meal in Mui Wo village afterward. 4.1★ (1,677 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Lantau Island"
-category: "hidden-gem"
-pubDate: "2026-08-12T17:26:36.253Z"
+title: 'Silvermine Bay Beach: Lantau Island Travel Guide (4.1★)'
+description: Silvermine Bay Beach (Mui Wo) is a relaxed, sandy stretch on Lantau Island, easily reached by ferry from Central Hong Kong, good for a half-day of swimming, walking the waterfront promenade, and grabbing a meal in Mui Wo village afterward. 4.1★ (1,677 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Lantau Island
+category: hidden-gem
+pubDate: '2026-08-12T17:26:36.253Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Silvermine_Bay_Beach_at_Mui_Wo%2C_Lantau_Island_%281351048256%29.jpg"
-  credit: "Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Silvermine_Bay_Beach_at_Mui_Wo,_Lantau_Island_(1351048256).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Silvermine_Bay_Beach_at_Mui_Wo%2C_Lantau_Island_%281351048256%29.jpg/1920px-Silvermine_Bay_Beach_at_Mui_Wo%2C_Lantau_Island_%281351048256%29.jpg
+  credit: 'Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Silvermine_Bay_Beach_at_Mui_Wo,_Lantau_Island_(1351048256).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/09/Silvermine_Bay_Beach_at_Mui_Wo%2C_Lantau_Island_%281351050414%29.jpg"
-    credit: "Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Silvermine_Bay_Beach_at_Mui_Wo,_Lantau_Island_(1351050414).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Silvermine_Bay_Beach_at_Mui_Wo%2C_Lantau_Island_%281351050414%29.jpg/1920px-Silvermine_Bay_Beach_at_Mui_Wo%2C_Lantau_Island_%281351050414%29.jpg
+    credit: 'Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Silvermine_Bay_Beach_at_Mui_Wo,_Lantau_Island_(1351050414).jpg
 place:
-  id: "ChIJZ1Q0o3_9AzQRau7aV8BPXKA"
-  name: "Silvermine Bay Beach"
-  address: "1號 Tung Wan Tau Rd, Mui Wo, Hong Kong"
+  id: ChIJZ1Q0o3_9AzQRau7aV8BPXKA
+  name: Silvermine Bay Beach
+  address: 1號 Tung Wan Tau Rd, Mui Wo, Hong Kong
   rating: 4.1
   userRatingsTotal: 1677
-  googleMapsUrl: "https://maps.google.com/?cid=11555198431452130922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11555198431452130922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2707038
   lng: 113.9991811
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -42,8 +42,8 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_414b58504238566137756152517a41395f336f3051315a4a496843"
-  phone: '+852 2852 3220'
+    venueId: ven_414b58504238566137756152517a41395f336f3051315a4a496843
+  phone: +852 2852 3220
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -53,20 +53,20 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "lantau island"
-  - "hidden gem"
-quickAnswer: "Silvermine Bay Beach (Mui Wo) is a relaxed, sandy stretch on Lantau Island, easily reached by ferry from Central Hong Kong, good for a half-day of swimming, walking the waterfront promenade, and grabbing a meal in Mui Wo village afterward. Go on a weekday between 7am and 8am for the calmest sand; weekends stay busy from 1pm right through to 11pm."
+  - lantau island
+  - hidden gem
+quickAnswer: Silvermine Bay Beach (Mui Wo) is a relaxed, sandy stretch on Lantau Island, easily reached by ferry from Central Hong Kong, good for a half-day of swimming, walking the waterfront promenade, and grabbing a meal in Mui Wo village afterward. Go on a weekday between 7am and 8am for the calmest sand; weekends stay busy from 1pm right through to 11pm.
 faq:
-  - q: "How do I get to Silvermine Bay Beach from Hong Kong Island?"
-    a: "Take the ferry from Central Pier 6 to Mui Wo (about 35–55 minutes), then walk roughly 10–15 minutes south along Tung Wan Tau Road to the beach."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 8am are the calmest, based on measured foot traffic. Weekends stay busy from 1pm until as late as 11pm, so avoid that window if you want space on the sand."
-  - q: "Is swimming safe at Silvermine Bay Beach?"
-    a: "Yes — the bay is shallow and calm, with a netted swimming area and lifeguards on duty during the official beach season (roughly June to October). Confirm current dates before you go, as they can shift year to year."
-  - q: "How long should I spend here?"
-    a: "A half-day works well: a few hours on the beach or promenade, plus time in Mui Wo village for a meal. It also pairs easily with a bike ride along the coastal roads."
-  - q: "Are there restaurants near the beach?"
-    a: "Yes — Mui Wo village, a short walk from the sand, has casual Cantonese seafood spots, noodle shops, and cafés geared toward cyclists and hikers, generally budget-friendly to mid-range."
+  - q: How do I get to Silvermine Bay Beach from Hong Kong Island?
+    a: Take the ferry from Central Pier 6 to Mui Wo (about 35–55 minutes), then walk roughly 10–15 minutes south along Tung Wan Tau Road to the beach.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings between 7am and 8am are the calmest, based on measured foot traffic. Weekends stay busy from 1pm until as late as 11pm, so avoid that window if you want space on the sand.
+  - q: Is swimming safe at Silvermine Bay Beach?
+    a: Yes — the bay is shallow and calm, with a netted swimming area and lifeguards on duty during the official beach season (roughly June to October). Confirm current dates before you go, as they can shift year to year.
+  - q: How long should I spend here?
+    a: 'A half-day works well: a few hours on the beach or promenade, plus time in Mui Wo village for a meal. It also pairs easily with a bike ride along the coastal roads.'
+  - q: Are there restaurants near the beach?
+    a: Yes — Mui Wo village, a short walk from the sand, has casual Cantonese seafood spots, noodle shops, and cafés geared toward cyclists and hikers, generally budget-friendly to mid-range.
 aiGenerated: true
 draft: false
 ---

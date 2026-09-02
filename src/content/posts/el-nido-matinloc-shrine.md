@@ -1,48 +1,48 @@
 ---
-title: "Matinloc Shrine: El Nido Travel Guide (4.3★)"
-description: "Matinloc Shrine is a weathered, white-domed chapel on Matinloc Island, reachable only by boat as part of El Nido's Tour C. Most bangka tours stop here for 20-30 minutes, giving you time to climb the cliffside steps and take in the view before moving on. 4.3★ (218 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "El Nido"
-category: "attraction"
-pubDate: "2026-08-20T09:04:17.968Z"
+title: 'Matinloc Shrine: El Nido Travel Guide (4.3★)'
+description: Matinloc Shrine is a weathered, white-domed chapel on Matinloc Island, reachable only by boat as part of El Nido's Tour C. Most bangka tours stop here for 20-30 minutes, giving you time to climb the cliffside steps and take in the view before moving on. 4.3★ (218 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: El Nido
+category: attraction
+pubDate: '2026-08-20T09:04:17.968Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Matinloc_Shrine_-_panoramio.jpg"
-  credit: "Photo: Tuderna / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Matinloc_Shrine_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Matinloc_Shrine_-_panoramio.jpg/1280px-Matinloc_Shrine_-_panoramio.jpg
+  credit: 'Photo: Tuderna / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Matinloc_Shrine_-_panoramio.jpg
   focus:
     x: 52
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/87/Matinloc_Shrine%2C_El_Nido%2C_Palawan_by_Say_Bernardo.jpg"
-    credit: "Photo: Say Bernardo / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Matinloc_Shrine,_El_Nido,_Palawan_by_Say_Bernardo.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Matinloc_Shrine%2C_El_Nido%2C_Palawan_by_Say_Bernardo.jpg/1920px-Matinloc_Shrine%2C_El_Nido%2C_Palawan_by_Say_Bernardo.jpg
+    credit: 'Photo: Say Bernardo / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Matinloc_Shrine,_El_Nido,_Palawan_by_Say_Bernardo.jpg
 place:
-  id: "ChIJgfFittlStjMRYwOu9uXwjlc"
-  name: "Matinloc Shrine"
-  address: "673G+34C Matinloc Island, El Nido, Palawan, Philippines"
+  id: ChIJgfFittlStjMRYwOu9uXwjlc
+  name: Matinloc Shrine
+  address: 673G+34C Matinloc Island, El Nido, Palawan, Philippines
   rating: 4.3
   userRatingsTotal: 218
-  googleMapsUrl: "https://maps.google.com/?cid=6309244998469419875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6309244998469419875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.202688
   lng: 119.2752761
 tags:
-  - "el nido"
-  - "historic site"
-quickAnswer: "Matinloc Shrine is a weathered, white-domed chapel on Matinloc Island, reachable only by boat as part of El Nido's Tour C. Most bangka tours stop here for 20-30 minutes, giving you time to climb the cliffside steps and take in the view before moving on. It's still off most tourists' radar, so go in with realistic expectations: this is a moody, half-abandoned ruin, not a polished landmark."
+  - el nido
+  - historic site
+quickAnswer: 'Matinloc Shrine is a weathered, white-domed chapel on Matinloc Island, reachable only by boat as part of El Nido''s Tour C. Most bangka tours stop here for 20-30 minutes, giving you time to climb the cliffside steps and take in the view before moving on. It''s still off most tourists'' radar, so go in with realistic expectations: this is a moody, half-abandoned ruin, not a polished landmark.'
 faq:
-  - q: "How do I get to Matinloc Shrine?"
-    a: "Only by boat, usually as a stop on El Nido's Tour C (the Far South route), departing from the main town beach and taking about 1.5-2 hours each way."
-  - q: "How much time do I need at the shrine?"
-    a: "Most group tours allot 20-30 minutes here before continuing to other stops like Secret Beach or Hidden Beach."
-  - q: "When is the best time to visit?"
-    a: "Dry season (November-May) for calmer seas and reliable tour departures; afternoon light generally suits photos of the dome and cliffs best."
-  - q: "Is Matinloc Shrine crowded?"
-    a: "No — it's still relatively under-the-radar compared to El Nido's headline beaches, so you're unlikely to share the site with more than one or two other boat groups."
-  - q: "Are there facilities on the island?"
-    a: "None. There's no vendor, restroom, or shade structure, so bring your own water and expect a completely undeveloped site."
+  - q: How do I get to Matinloc Shrine?
+    a: Only by boat, usually as a stop on El Nido's Tour C (the Far South route), departing from the main town beach and taking about 1.5-2 hours each way.
+  - q: How much time do I need at the shrine?
+    a: Most group tours allot 20-30 minutes here before continuing to other stops like Secret Beach or Hidden Beach.
+  - q: When is the best time to visit?
+    a: Dry season (November-May) for calmer seas and reliable tour departures; afternoon light generally suits photos of the dome and cliffs best.
+  - q: Is Matinloc Shrine crowded?
+    a: No — it's still relatively under-the-radar compared to El Nido's headline beaches, so you're unlikely to share the site with more than one or two other boat groups.
+  - q: Are there facilities on the island?
+    a: None. There's no vendor, restroom, or shade structure, so bring your own water and expect a completely undeveloped site.
 aiGenerated: true
 draft: false
 ---

@@ -1,43 +1,43 @@
 ---
-title: "Baluarte de San Diego: Manila Travel Guide (4.5★)"
-description: "Baluarte de San Diego is a circular stone fort ruin tucked inside Intramuros' walls, built in 1586 and now planted with a bonsai collection inside its old gun emplacements. 4.5★ (840 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Manila"
-category: "hidden-gem"
-pubDate: "2026-08-22T07:52:33.692Z"
+title: 'Baluarte de San Diego: Manila Travel Guide (4.5★)'
+description: Baluarte de San Diego is a circular stone fort ruin tucked inside Intramuros' walls, built in 1586 and now planted with a bonsai collection inside its old gun emplacements. 4.5★ (840 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Manila
+category: hidden-gem
+pubDate: '2026-08-22T07:52:33.692Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/99/Baluarte_de_San_Diego_Intramuros.jpg"
-  credit: "Photo: Froi Rivera / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Baluarte_de_San_Diego_Intramuros.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baluarte_de_San_Diego_Intramuros.jpg/1280px-Baluarte_de_San_Diego_Intramuros.jpg
+  credit: 'Photo: Froi Rivera / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Baluarte_de_San_Diego_Intramuros.jpg
   focus:
     x: 45
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Baluarte_de_San_Diego%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_69.jpg/3840px-Baluarte_de_San_Diego%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_69.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Baluarte_de_San_Diego,_Manila,_Filipinas,_2023-08-27,_DD_69.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Baluarte_de_San_Diego%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_69.jpg/3840px-Baluarte_de_San_Diego%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_69.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Baluarte_de_San_Diego,_Manila,_Filipinas,_2023-08-27,_DD_69.jpg
 place:
-  id: "ChIJ48-0VzvKlzMRg16kTvO3p8U"
-  name: "Baluarte de San Diego"
-  address: "Sta. Lucia St, Intramuros, Manila, 1002 Metro Manila, Philippines"
+  id: ChIJ48-0VzvKlzMRg16kTvO3p8U
+  name: Baluarte de San Diego
+  address: Sta. Lucia St, Intramuros, Manila, 1002 Metro Manila, Philippines
   rating: 4.5
   userRatingsTotal: 840
-  googleMapsUrl: "https://maps.google.com/?cid=14242554602206813827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14242554602206813827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.5853836
   lng: 120.9755666
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -48,22 +48,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_553870334f76546b363167524d7a6c4b767a56302d38344a496843"
+    venueId: ven_553870334f76546b363167524d7a6c4b767a56302d38344a496843
 tags:
-  - "manila"
-  - "old quarter"
-quickAnswer: "Baluarte de San Diego is a circular stone fort ruin tucked inside Intramuros' walls, built in 1586 and now planted with a bonsai collection inside its old gun emplacements. Open daily 8am–5pm, it's quietest right at opening (8–9am weekdays, 8–10am weekends) and busiest 1pm–5pm on weekends. Budget 45 minutes to an hour, and pair it with a walk along the adjacent walls."
+  - manila
+  - old quarter
+quickAnswer: Baluarte de San Diego is a circular stone fort ruin tucked inside Intramuros' walls, built in 1586 and now planted with a bonsai collection inside its old gun emplacements. Open daily 8am–5pm, it's quietest right at opening (8–9am weekdays, 8–10am weekends) and busiest 1pm–5pm on weekends. Budget 45 minutes to an hour, and pair it with a walk along the adjacent walls.
 faq:
-  - q: "How much time should I budget for Baluarte de San Diego?"
-    a: "About 45 minutes to an hour is enough to walk the full ring, see the bonsai garden, and climb to the upper viewpoint."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 8am and 9am, or weekends between 8am and 10am, right after opening — weekend afternoons from 1pm to 5pm get noticeably busier."
-  - q: "How do I get to Baluarte de San Diego?"
-    a: "It's on Sta. Lucia St. inside Intramuros, a short walk from Fort Santiago's main gate. Enter through the Sta. Lucia or Victoria gates, or take a taxi/ride-hail directly there."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 8:00 AM to 5:00 PM, with no variation across the week — confirm current hours before visiting since schedules can shift."
-  - q: "What else is nearby?"
-    a: "Fort Santiago, Manila Cathedral, San Agustin Church, and Casa Manila are all within easy walking distance inside Intramuros."
+  - q: How much time should I budget for Baluarte de San Diego?
+    a: About 45 minutes to an hour is enough to walk the full ring, see the bonsai garden, and climb to the upper viewpoint.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 8am and 9am, or weekends between 8am and 10am, right after opening — weekend afternoons from 1pm to 5pm get noticeably busier.
+  - q: How do I get to Baluarte de San Diego?
+    a: It's on Sta. Lucia St. inside Intramuros, a short walk from Fort Santiago's main gate. Enter through the Sta. Lucia or Victoria gates, or take a taxi/ride-hail directly there.
+  - q: What are the opening hours?
+    a: It's open daily from 8:00 AM to 5:00 PM, with no variation across the week — confirm current hours before visiting since schedules can shift.
+  - q: What else is nearby?
+    a: Fort Santiago, Manila Cathedral, San Agustin Church, and Casa Manila are all within easy walking distance inside Intramuros.
 aiGenerated: true
 draft: false
 ---

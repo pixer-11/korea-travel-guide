@@ -1,43 +1,43 @@
 ---
-title: "Chalok baan kao bay: Koh Tao Travel Guide (4.4★)"
-description: "Chalok Baan Kao Bay is a curved, coconut-palm-backed beach on Koh Tao's south coast, quieter and more local-feeling than Sairee Beach up north. 4.4★ (644 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Tao"
-category: "attraction"
-pubDate: "2026-08-16T08:03:29.231Z"
+title: 'Chalok baan kao bay: Koh Tao Travel Guide (4.4★)'
+description: Chalok Baan Kao Bay is a curved, coconut-palm-backed beach on Koh Tao's south coast, quieter and more local-feeling than Sairee Beach up north. 4.4★ (644 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Koh Tao
+category: attraction
+pubDate: '2026-08-16T08:03:29.231Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chalok_Baan_Kao_Bay_-_Ko_Tao_-_Thailand_-_panoramio.jpg"
-  credit: "Photo: diego_cue / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chalok_Baan_Kao_Bay_-_Ko_Tao_-_Thailand_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chalok_Baan_Kao_Bay_-_Ko_Tao_-_Thailand_-_panoramio.jpg/1920px-Chalok_Baan_Kao_Bay_-_Ko_Tao_-_Thailand_-_panoramio.jpg
+  credit: 'Photo: diego_cue / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chalok_Baan_Kao_Bay_-_Ko_Tao_-_Thailand_-_panoramio.jpg
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chalok_Baan_Kao_Bay%2C_Koh_Tao_%2848109490868%29.jpg/3840px-Chalok_Baan_Kao_Bay%2C_Koh_Tao_%2848109490868%29.jpg"
-    credit: "Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chalok_Baan_Kao_Bay,_Koh_Tao_(48109490868).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chalok_Baan_Kao_Bay%2C_Koh_Tao_%2848109490868%29.jpg/3840px-Chalok_Baan_Kao_Bay%2C_Koh_Tao_%2848109490868%29.jpg
+    credit: 'Photo: Fabio Achilli from Milano, Italy / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chalok_Baan_Kao_Bay,_Koh_Tao_(48109490868).jpg
 place:
-  id: "ChIJ5Yan6nehVTAR011Eqc97iL8"
-  name: "Chalok baan kao bay"
-  address: "3R8G+R2M, Ko Tao, Ko Pha-ngan District, Surat Thani 84280, Thailand"
+  id: ChIJ5Yan6nehVTAR011Eqc97iL8
+  name: Chalok baan kao bay
+  address: 3R8G+R2M, Ko Tao, Ko Pha-ngan District, Surat Thani 84280, Thailand
   rating: 4.4
   userRatingsTotal: 644
-  googleMapsUrl: "https://maps.google.com/?cid=13801417189905161683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13801417189905161683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.0670936
   lng: 99.82504759999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -60,22 +60,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_384c6937396371453131305241545668656e366e6159354a496843"
+    venueId: ven_384c6937396371453131305241545668656e366e6159354a496843
 tags:
-  - "koh tao"
-  - "top attraction"
-quickAnswer: "Chalok Baan Kao Bay is a curved, coconut-palm-backed beach on Koh Tao's south coast, quieter and more local-feeling than Sairee Beach up north. It's open 24 hours, best experienced at sunrise when it's essentially empty (7am–8am weekdays, 7am–10am weekends), and works well as a half-day base for swimming, diving and a slow seafood lunch. Avoid the 3pm–11pm weekend stretch if you want the sand to yourself."
+  - koh tao
+  - top attraction
+quickAnswer: Chalok Baan Kao Bay is a curved, coconut-palm-backed beach on Koh Tao's south coast, quieter and more local-feeling than Sairee Beach up north. It's open 24 hours, best experienced at sunrise when it's essentially empty (7am–8am weekdays, 7am–10am weekends), and works well as a half-day base for swimming, diving and a slow seafood lunch. Avoid the 3pm–11pm weekend stretch if you want the sand to yourself.
 faq:
-  - q: "How do I get to Chalok Baan Kao Bay from the ferry pier?"
-    a: "From Mae Haad pier, take a shared songthaew south for about 10–15 minutes, or rent a scooter and drive yourself along the paved coastal road."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 8am are calmest; on weekends the quiet window stretches from 7am to 10am. Avoid Saturday and Sunday afternoons into the evening (3pm–11pm), when it's busiest."
-  - q: "Is there an entry fee or set opening hours?"
-    a: "No, the beach is open 24 hours daily with free access — there's no gate or ticket."
-  - q: "How long should I plan to spend there?"
-    a: "A couple of hours covers a swim and lunch; a half-day lets you add snorkeling or a dive trip out of one of the beachfront dive centers."
-  - q: "Is Chalok Baan Kao good for snorkeling and diving?"
-    a: "Yes — the rocky points at either end of the bay have decent snorkeling, and several dive centers here run boats to nearby sites like Chumphon Pinnacle and Southwest Pinnacle."
+  - q: How do I get to Chalok Baan Kao Bay from the ferry pier?
+    a: From Mae Haad pier, take a shared songthaew south for about 10–15 minutes, or rent a scooter and drive yourself along the paved coastal road.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 7am and 8am are calmest; on weekends the quiet window stretches from 7am to 10am. Avoid Saturday and Sunday afternoons into the evening (3pm–11pm), when it's busiest.
+  - q: Is there an entry fee or set opening hours?
+    a: No, the beach is open 24 hours daily with free access — there's no gate or ticket.
+  - q: How long should I plan to spend there?
+    a: A couple of hours covers a swim and lunch; a half-day lets you add snorkeling or a dive trip out of one of the beachfront dive centers.
+  - q: Is Chalok Baan Kao good for snorkeling and diving?
+    a: Yes — the rocky points at either end of the bay have decent snorkeling, and several dive centers here run boats to nearby sites like Chumphon Pinnacle and Southwest Pinnacle.
 aiGenerated: true
 draft: false
 ---

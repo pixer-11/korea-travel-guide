@@ -6,12 +6,12 @@ region: Gyeongju
 category: attraction
 pubDate: '2026-08-05T11:37:31.177Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a8/Korea-Gyeongju.National.Museum-02.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Korea-Gyeongju.National.Museum-02.jpg/1280px-Korea-Gyeongju.National.Museum-02.jpg
   credit: 'Photo: by martinroell / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Korea-Gyeongju.National.Museum-02.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Gyeongju_National_Museum.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gyeongju_National_Museum.jpg/1280px-Gyeongju_National_Museum.jpg
     credit: 'Photo: Seaton1456 / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum.jpg

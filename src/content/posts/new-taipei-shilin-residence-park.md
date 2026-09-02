@@ -1,53 +1,53 @@
 ---
-title: "Shilin Residence Park: New Taipei Travel Guide (4.7★)"
-description: "Shilin Residence Park sits in Taipei's Shilin District (address technically listed under Fulin Village, though most visitors reach it via Shilin, not New Taipei proper) and is open daily from 8am to 6pm with free admission to the gardens. 4.7★ (1,477 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "New Taipei"
-category: "attraction"
-pubDate: "2026-08-23T07:58:04.542Z"
+title: 'Shilin Residence Park: New Taipei Travel Guide (4.7★)'
+description: Shilin Residence Park sits in Taipei's Shilin District (address technically listed under Fulin Village, though most visitors reach it via Shilin, not New Taipei proper) and is open daily from 8am to 6pm with free admission to the gardens. 4.7★ (1,477 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: New Taipei
+category: attraction
+pubDate: '2026-08-23T07:58:04.542Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg"
-  credit: "Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg/1920px-Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg
+  credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Shilin_Residence_Park_%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8%E5%85%AC%E5%9C%92_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJGbWNq1OvQjQR1HoXIbC0hF4"
-  name: "Shilin Residence Park"
-  address: "No. 4號, Lane 460, Section 5, Zhongshan N Rd, Fulin Village, Shilin District, Taipei City, Taiwan 111"
+  id: ChIJGbWNq1OvQjQR1HoXIbC0hF4
+  name: Shilin Residence Park
+  address: No. 4號, Lane 460, Section 5, Zhongshan N Rd, Fulin Village, Shilin District, Taipei City, Taiwan 111
   rating: 4.7
   userRatingsTotal: 1477
-  googleMapsUrl: "https://maps.google.com/?cid=6810767205053463252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6810767205053463252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0913793
   lng: 121.5291642
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "new taipei"
-  - "park"
-quickAnswer: "Shilin Residence Park sits in Taipei's Shilin District (address technically listed under Fulin Village, though most visitors reach it via Shilin, not New Taipei proper) and is open daily from 8am to 6pm with free admission to the gardens. It's quietest on weekday mornings right after opening, before tour groups and school trips arrive. Budget 45–90 minutes to wander the Chinese and Western gardens plus the former residence itself."
+  - new taipei
+  - park
+quickAnswer: Shilin Residence Park sits in Taipei's Shilin District (address technically listed under Fulin Village, though most visitors reach it via Shilin, not New Taipei proper) and is open daily from 8am to 6pm with free admission to the gardens. It's quietest on weekday mornings right after opening, before tour groups and school trips arrive. Budget 45–90 minutes to wander the Chinese and Western gardens plus the former residence itself.
 faq:
-  - q: "How much does it cost to enter Shilin Residence Park?"
-    a: "The garden areas are typically free to enter; the former residence building may charge a small admission fee. Prices can change, so check signage at the entrance on arrival."
-  - q: "What's the closest MRT station to Shilin Residence Park?"
-    a: "Shilin Station on the Red Line (Tamsui-Xinbeitou line) is closest, about a 15-20 minute walk from the entrance."
-  - q: "When is the best time to visit for fewer crowds?"
-    a: "Weekday mornings shortly after the 8am opening are calmest, before tour groups and school trips typically arrive later in the day."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 45-90 minutes covering both gardens and a walk through the former residence."
-  - q: "What's the best season to see the roses?"
-    a: "Spring, roughly March through May, is when the rose garden is in full bloom, though it's also the park's busiest season."
+  - q: How much does it cost to enter Shilin Residence Park?
+    a: The garden areas are typically free to enter; the former residence building may charge a small admission fee. Prices can change, so check signage at the entrance on arrival.
+  - q: What's the closest MRT station to Shilin Residence Park?
+    a: Shilin Station on the Red Line (Tamsui-Xinbeitou line) is closest, about a 15-20 minute walk from the entrance.
+  - q: When is the best time to visit for fewer crowds?
+    a: Weekday mornings shortly after the 8am opening are calmest, before tour groups and school trips typically arrive later in the day.
+  - q: How long should I plan to spend here?
+    a: Most visitors spend 45-90 minutes covering both gardens and a walk through the former residence.
+  - q: What's the best season to see the roses?
+    a: Spring, roughly March through May, is when the rose garden is in full bloom, though it's also the park's busiest season.
 aiGenerated: true
 draft: false
 ---

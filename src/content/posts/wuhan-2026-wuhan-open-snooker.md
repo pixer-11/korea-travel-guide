@@ -30,7 +30,7 @@ eventOrganizer:
   name: World Snooker Tour
   url: https://www.wst.tv/
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/58/Snooker_table_selby.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Snooker_table_selby.JPG/1920px-Snooker_table_selby.JPG
   credit: 'Photo: DmitryYakunin / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Snooker_table_selby.JPG

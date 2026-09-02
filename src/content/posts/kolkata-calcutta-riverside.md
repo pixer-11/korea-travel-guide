@@ -1,53 +1,53 @@
 ---
-title: "Calcutta Riverside: Kolkata Travel Guide (4.2★)"
-description: "Calcutta Riverside is a riverside heritage-and-leisure complex in Batanagar, on the Hooghly's edge south of central Kolkata, built around restored colonial-era architecture, gardens and river-view dining. 4.2★ (656 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kolkata"
-category: "attraction"
-pubDate: "2026-08-17T08:20:51.803Z"
+title: 'Calcutta Riverside: Kolkata Travel Guide (4.2★)'
+description: Calcutta Riverside is a riverside heritage-and-leisure complex in Batanagar, on the Hooghly's edge south of central Kolkata, built around restored colonial-era architecture, gardens and river-view dining. 4.2★ (656 reviews) — what visitors say, hours, and tips.
+country: India
+region: Kolkata
+category: attraction
+pubDate: '2026-08-17T08:20:51.803Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/19/Calcutta_Riverside%2C_Batanagar.jpg"
-  credit: "Photo: Monish700061 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Calcutta_Riverside,_Batanagar.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Calcutta_Riverside%2C_Batanagar.jpg/1920px-Calcutta_Riverside%2C_Batanagar.jpg
+  credit: 'Photo: Monish700061 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Calcutta_Riverside,_Batanagar.jpg
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJC5Xxzv97AjoRyZVSBWizdeg"
-  name: "Calcutta Riverside"
-  address: "1, New, Bata Quarter Rd, Bata Nagar Officers Quarters, Pal para, Batanagar, Maheshtala, West Bengal 700140, India"
+  id: ChIJC5Xxzv97AjoRyZVSBWizdeg
+  name: Calcutta Riverside
+  address: 1, New, Bata Quarter Rd, Bata Nagar Officers Quarters, Pal para, Batanagar, Maheshtala, West Bengal 700140, India
   rating: 4.2
   userRatingsTotal: 656
-  googleMapsUrl: "https://maps.google.com/?cid=16750491648421696969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16750491648421696969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.5126498
   lng: 88.21547389999999
-  phone: "+91 33 2395 2111"
+  phone: +91 33 2395 2111
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "kolkata"
-  - "waterfront"
-quickAnswer: "Calcutta Riverside is a riverside heritage-and-leisure complex in Batanagar, on the Hooghly's edge south of central Kolkata, built around restored colonial-era architecture, gardens and river-view dining. It's open daily 10am–6pm, and because it sits well outside the main tourist circuit, it stays uncrowded even on weekends. Budget half a day, including travel time, and go by car or app-cab rather than public transport."
+  - kolkata
+  - waterfront
+quickAnswer: Calcutta Riverside is a riverside heritage-and-leisure complex in Batanagar, on the Hooghly's edge south of central Kolkata, built around restored colonial-era architecture, gardens and river-view dining. It's open daily 10am–6pm, and because it sits well outside the main tourist circuit, it stays uncrowded even on weekends. Budget half a day, including travel time, and go by car or app-cab rather than public transport.
 faq:
-  - q: "How do I get to Calcutta Riverside from central Kolkata?"
-    a: "It's about an hour's drive by car or app-cab (Ola/Uber) from central Kolkata to Batanagar in Maheshtala. Local trains to Batanagar station plus a short auto-rickshaw ride are possible but slower."
-  - q: "What are the opening hours?"
-    a: "It's open every day of the week, 10am to 6pm, with no day-specific closures."
-  - q: "How much time should I plan for a visit?"
-    a: "Allow at least half a day once you include travel time, longer if you plan to eat at the riverside restaurant or explore the heritage buildings and gardens fully."
-  - q: "Is it crowded?"
-    a: "No — it's an under-the-radar spot rather than a mainstream tourist stop, so it stays uncrowded even on weekends, though the riverside restaurant can get busy on weekend evenings."
-  - q: "Is there somewhere to stay nearby?"
-    a: "Yes, the complex includes a boutique heritage hotel, so you can extend your visit into an overnight stay rather than a single-day trip."
+  - q: How do I get to Calcutta Riverside from central Kolkata?
+    a: It's about an hour's drive by car or app-cab (Ola/Uber) from central Kolkata to Batanagar in Maheshtala. Local trains to Batanagar station plus a short auto-rickshaw ride are possible but slower.
+  - q: What are the opening hours?
+    a: It's open every day of the week, 10am to 6pm, with no day-specific closures.
+  - q: How much time should I plan for a visit?
+    a: Allow at least half a day once you include travel time, longer if you plan to eat at the riverside restaurant or explore the heritage buildings and gardens fully.
+  - q: Is it crowded?
+    a: No — it's an under-the-radar spot rather than a mainstream tourist stop, so it stays uncrowded even on weekends, though the riverside restaurant can get busy on weekend evenings.
+  - q: Is there somewhere to stay nearby?
+    a: Yes, the complex includes a boutique heritage hotel, so you can extend your visit into an overnight stay rather than a single-day trip.
 aiGenerated: true
 draft: false
 ---

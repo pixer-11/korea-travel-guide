@@ -1,54 +1,54 @@
 ---
-title: "Yangdong Folk Village: Gyeongju Travel Guide (4.1★)"
-description: "Yangdong Folk Village is a still-inhabited 500-year-old clan village about 16km northeast of Gyeongju, open daily 9am–5pm. 4.1★ (3,297 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Gyeongju"
-category: "hidden-gem"
-pubDate: "2026-08-08T08:20:49.393Z"
+title: 'Yangdong Folk Village: Gyeongju Travel Guide (4.1★)'
+description: Yangdong Folk Village is a still-inhabited 500-year-old clan village about 16km northeast of Gyeongju, open daily 9am–5pm. 4.1★ (3,297 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Gyeongju
+category: hidden-gem
+pubDate: '2026-08-08T08:20:49.393Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Yangdong_Village_02.jpg/1920px-Yangdong_Village_02.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Yangdong_Village_02.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Yangdong_Village_02.jpg/1920px-Yangdong_Village_02.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Yangdong_Village_02.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/89/2008-Korea-Gyeongju-Yangdong_Village-02.jpg"
-    credit: "Photo: Kok Leng Yeo from Singapore, Singapore / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2008-Korea-Gyeongju-Yangdong_Village-02.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2008-Korea-Gyeongju-Yangdong_Village-02.jpg/1920px-2008-Korea-Gyeongju-Yangdong_Village-02.jpg
+    credit: 'Photo: Kok Leng Yeo from Singapore, Singapore / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2008-Korea-Gyeongju-Yangdong_Village-02.jpg
 place:
-  id: "ChIJu1Z9H1__ZjUR4vQnVFsD82k"
-  name: "Yangdong Folk Village"
-  address: "91 Yangdongmaeuran-gil, Gangdong-myeon, Gyeongju, Gyeongsangbuk-do, South Korea"
+  id: ChIJu1Z9H1__ZjUR4vQnVFsD82k
+  name: Yangdong Folk Village
+  address: 91 Yangdongmaeuran-gil, Gangdong-myeon, Gyeongju, Gyeongsangbuk-do, South Korea
   rating: 4.1
   userRatingsTotal: 3297
-  googleMapsUrl: "https://maps.google.com/?cid=7634449484111934690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7634449484111934690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.002445
   lng: 129.2550876
-  phone: "+82 54-762-2630"
+  phone: +82 54-762-2630
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "gyeongju"
-  - "old quarter"
-quickAnswer: "Yangdong Folk Village is a still-inhabited 500-year-old clan village about 16km northeast of Gyeongju, open daily 9am–5pm. Plan on 2-3 hours to walk the ridgeline paths between thatched farmhouses and tiled yangban mansions. Go on a weekday morning if you can — tour buses tend to arrive by early afternoon."
+  - gyeongju
+  - old quarter
+quickAnswer: Yangdong Folk Village is a still-inhabited 500-year-old clan village about 16km northeast of Gyeongju, open daily 9am–5pm. Plan on 2-3 hours to walk the ridgeline paths between thatched farmhouses and tiled yangban mansions. Go on a weekday morning if you can — tour buses tend to arrive by early afternoon.
 faq:
-  - q: "How do I get to Yangdong Folk Village without a car?"
-    a: "Take a local bus from Gyeongju's intercity bus terminal (check schedules the day before, as service is infrequent) or a taxi, which takes about 25-30 minutes from central Gyeongju."
-  - q: "How long should I spend at Yangdong?"
-    a: "Plan for 2-3 hours to walk the main ridge paths and see the key houses like Gwangajeong and Hyangdan. Add extra time if you're pairing it with nearby Oksan Seowon."
-  - q: "What are the opening hours?"
-    a: "The village is open daily from 9am to 5pm, year-round. Aim to arrive by mid-morning to avoid the heavier afternoon tour bus crowds."
-  - q: "Is Yangdong Folk Village free to enter?"
-    a: "No, there's a small entrance fee at the gate. Bring cash, since card payment isn't always reliable at the rural ticket booth."
-  - q: "Can you go inside the houses?"
-    a: "Most buildings are private residences still lived in by local families, so you generally view them from the outside rather than entering. A few structures near the entrance may be open for closer viewing."
+  - q: How do I get to Yangdong Folk Village without a car?
+    a: Take a local bus from Gyeongju's intercity bus terminal (check schedules the day before, as service is infrequent) or a taxi, which takes about 25-30 minutes from central Gyeongju.
+  - q: How long should I spend at Yangdong?
+    a: Plan for 2-3 hours to walk the main ridge paths and see the key houses like Gwangajeong and Hyangdan. Add extra time if you're pairing it with nearby Oksan Seowon.
+  - q: What are the opening hours?
+    a: The village is open daily from 9am to 5pm, year-round. Aim to arrive by mid-morning to avoid the heavier afternoon tour bus crowds.
+  - q: Is Yangdong Folk Village free to enter?
+    a: No, there's a small entrance fee at the gate. Bring cash, since card payment isn't always reliable at the rural ticket booth.
+  - q: Can you go inside the houses?
+    a: Most buildings are private residences still lived in by local families, so you generally view them from the outside rather than entering. A few structures near the entrance may be open for closer viewing.
 aiGenerated: true
 draft: false
 ---

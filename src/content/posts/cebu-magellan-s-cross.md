@@ -1,36 +1,30 @@
 ---
 title: 'Magellan''s Cross: Cebu Travel Guide (4.4★)'
-description: >-
-  Magellan's Cross sits in its own small octagonal kiosk on P. Burgos Street in
-  downtown Cebu City, open daily 8am–6pm, and it's free to step in and look.
-  4.4★ (12,244 reviews) — what visitors say, hours, and tips.
+description: Magellan's Cross sits in its own small octagonal kiosk on P. Burgos Street in downtown Cebu City, open daily 8am–6pm, and it's free to step in and look. 4.4★ (12,244 reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Cebu
 category: attraction
 pubDate: '2026-08-20T08:57:36.621Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Magellan%27s_Cross_2024-07-05.jpg/1920px-Magellan%27s_Cross_2024-07-05.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Magellan%27s_Cross_2024-07-05.jpg/1920px-Magellan%27s_Cross_2024-07-05.jpg
   credit: 'Photo: LMP 2001 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Magellan%27s_Cross_2024-07-05.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Magellan%27s_Cross_2024-07-05.jpg
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/e/eb/Magellan%27s_Cross_in_Cebu.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Magellan%27s_Cross_in_Cebu.jpg/1920px-Magellan%27s_Cross_in_Cebu.jpg
     credit: 'Photo: Carlo Joseph Moskito / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Magellan%27s_Cross_in_Cebu.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Magellan%27s_Cross_in_Cebu.jpg
 place:
   id: ChIJQVwA2-ObqTMR--ZXFjrCXiQ
   name: Magellan's Cross
-  address: '7WV2+CQG, P. Burgos St, Cebu City, 6000 Cebu, Philippines'
+  address: 7WV2+CQG, P. Burgos St, Cebu City, 6000 Cebu, Philippines
   rating: 4.4
   userRatingsTotal: 12244
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=2620745587914958587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=2620745587914958587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 10.2935626
   lng: 123.9019549
@@ -67,39 +61,18 @@ place:
 tags:
   - cebu
   - historic site
-quickAnswer: >-
-  Magellan's Cross sits in its own small octagonal kiosk on P. Burgos Street in
-  downtown Cebu City, open daily 8am–6pm, and it's free to step in and look. Go
-  right at opening — weekdays 8–9am are quietest — and pair it with the adjacent
-  Basilica del Santo Niño and Cebu City Hall, all walkable in under 20 minutes.
-  Weekend afternoons after 2pm draw the thickest crowds, so avoid that window if
-  you want breathing room.
+quickAnswer: Magellan's Cross sits in its own small octagonal kiosk on P. Burgos Street in downtown Cebu City, open daily 8am–6pm, and it's free to step in and look. Go right at opening — weekdays 8–9am are quietest — and pair it with the adjacent Basilica del Santo Niño and Cebu City Hall, all walkable in under 20 minutes. Weekend afternoons after 2pm draw the thickest crowds, so avoid that window if you want breathing room.
 faq:
   - q: Is there an entrance fee for Magellan's Cross?
-    a: >-
-      No, viewing the cross in its kiosk is free. You may pay a small,
-      negotiable amount only if you choose to buy a votive candle from nearby
-      vendors.
+    a: No, viewing the cross in its kiosk is free. You may pay a small, negotiable amount only if you choose to buy a votive candle from nearby vendors.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekday mornings between 8am and 9am are the calmest. Weekend afternoons
-      from 2pm to 6pm are the busiest, so avoid that window if you dislike
-      crowds.
+    a: Weekday mornings between 8am and 9am are the calmest. Weekend afternoons from 2pm to 6pm are the busiest, so avoid that window if you dislike crowds.
   - q: How long should I spend here?
-    a: >-
-      Most visitors spend 10–15 minutes at the cross itself, though pairing it
-      with the neighboring Basilica del Santo Niño and Fort San Pedro can turn
-      it into a half-day outing.
+    a: Most visitors spend 10–15 minutes at the cross itself, though pairing it with the neighboring Basilica del Santo Niño and Fort San Pedro can turn it into a half-day outing.
   - q: How do I get to Magellan's Cross from central Cebu City?
-    a: >-
-      It's on P. Burgos Street downtown, a 10–20 minute taxi or Grab ride from
-      most city hotels or the port area, and walkable from historic Colon
-      Street.
+    a: It's on P. Burgos Street downtown, a 10–20 minute taxi or Grab ride from most city hotels or the port area, and walkable from historic Colon Street.
   - q: Is the cross on display the original from 1521?
-    a: >-
-      No — the visible cross is a wooden replica said to encase a fragment of
-      the original, which was reportedly broken up and distributed as relics
-      over the centuries.
+    a: No — the visible cross is a wooden replica said to encase a fragment of the original, which was reportedly broken up and distributed as relics over the centuries.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

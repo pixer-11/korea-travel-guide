@@ -1,44 +1,44 @@
 ---
-title: "Tioman Island: Travel Guide (4.8★)"
-description: "Tioman Island sits off Malaysia's east coast in Pahang, reached by ferry from Mersing or Tanjung Gemok, or by short flight into Tioman Airport. 4.8★ (1,517 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Tioman"
-category: "attraction"
-pubDate: "2026-08-11T09:13:30.140Z"
+title: 'Tioman Island: Travel Guide (4.8★)'
+description: Tioman Island sits off Malaysia's east coast in Pahang, reached by ferry from Mersing or Tanjung Gemok, or by short flight into Tioman Airport. 4.8★ (1,517 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Tioman
+category: attraction
+pubDate: '2026-08-11T09:13:30.140Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tioman_island_%283679435126%29.jpg"
-  credit: "Photo: Peter Gronemann from Switzerland / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tioman_island_(3679435126).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tioman_island_%283679435126%29.jpg/1280px-Tioman_island_%283679435126%29.jpg
+  credit: 'Photo: Peter Gronemann from Switzerland / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tioman_island_(3679435126).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tioman_island_%283678622941%29.jpg"
-    credit: "Photo: Peter Gronemann from Switzerland / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tioman_island_(3678622941).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tioman_island_%283678622941%29.jpg/1280px-Tioman_island_%283678622941%29.jpg
+    credit: 'Photo: Peter Gronemann from Switzerland / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tioman_island_(3678622941).jpg
 place:
-  id: "ChIJOdJM-ZIbxTERjuIB_Djkt7c"
-  name: "Tioman Island"
-  address: "Tioman Island, Pahang, Malaysia"
+  id: ChIJOdJM-ZIbxTERjuIB_Djkt7c
+  name: Tioman Island
+  address: Tioman Island, Pahang, Malaysia
   rating: 4.8
   userRatingsTotal: 1517
-  googleMapsUrl: "https://maps.google.com/?cid=13238300563076145806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+  googleMapsUrl: https://maps.google.com/?cid=13238300563076145806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   lat: 2.7902494
   lng: 104.16984629999999
 tags:
-  - "tioman"
-  - "top attraction"
-quickAnswer: "Tioman Island sits off Malaysia's east coast in Pahang, reached by ferry from Mersing or Tanjung Gemok, or by short flight into Tioman Airport. Come for jungle-backed beaches, coral reef snorkeling and diving right off the sand, and easy day hikes between kampungs. Aim for March to October, when the sea is calm and dive visibility is best."
+  - tioman
+  - top attraction
+quickAnswer: Tioman Island sits off Malaysia's east coast in Pahang, reached by ferry from Mersing or Tanjung Gemok, or by short flight into Tioman Airport. Come for jungle-backed beaches, coral reef snorkeling and diving right off the sand, and easy day hikes between kampungs. Aim for March to October, when the sea is calm and dive visibility is best.
 faq:
-  - q: "How do I get to Tioman Island?"
-    a: "By ferry from Mersing or Tanjung Gemok on Peninsular Malaysia's east coast (roughly 1–2.5 hours), or by flying into Tioman Airport from Kuala Lumpur or Singapore when routes are running."
-  - q: "What's the best time of year to visit?"
-    a: "March to October, during the dry season when seas are calm and ferries run reliably. Avoid November to February, when the northeast monsoon brings rough water and some operators close."
-  - q: "How many days do I need on Tioman?"
-    a: "Two to three nights covers a snorkel or dive trip plus a jungle hike between villages. Add more time if you're doing a multi-day diving course."
-  - q: "Is Tioman good for non-divers?"
-    a: "Yes — jungle trails, waterfalls, and boat trips to nearby islands like Tulai give plenty to do beyond diving, and snorkeling straight off the beach needs no certification."
-  - q: "Which village should I stay in?"
-    a: "Air Batang (ABC) suits backpackers and a laid-back scene, Kampung Tekek is more developed and near the airport, and Salang and Genting offer quieter, dive-focused stays."
+  - q: How do I get to Tioman Island?
+    a: By ferry from Mersing or Tanjung Gemok on Peninsular Malaysia's east coast (roughly 1–2.5 hours), or by flying into Tioman Airport from Kuala Lumpur or Singapore when routes are running.
+  - q: What's the best time of year to visit?
+    a: March to October, during the dry season when seas are calm and ferries run reliably. Avoid November to February, when the northeast monsoon brings rough water and some operators close.
+  - q: How many days do I need on Tioman?
+    a: Two to three nights covers a snorkel or dive trip plus a jungle hike between villages. Add more time if you're doing a multi-day diving course.
+  - q: Is Tioman good for non-divers?
+    a: Yes — jungle trails, waterfalls, and boat trips to nearby islands like Tulai give plenty to do beyond diving, and snorkeling straight off the beach needs no certification.
+  - q: Which village should I stay in?
+    a: Air Batang (ABC) suits backpackers and a laid-back scene, Kampung Tekek is more developed and near the airport, and Salang and Genting offer quieter, dive-focused stays.
 aiGenerated: true
 draft: false
 ---

@@ -1,58 +1,58 @@
 ---
-title: "Ocean Expo Park: Okinawa Travel Guide (4.5★)"
-description: "Ocean Expo Park in Motobu, northern Okinawa, is open daily from 8:00 AM to 6:00 PM and is best tackled first thing at opening or after 4pm when tour buses thin out. 4.5★ (19,033 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Okinawa"
-category: "attraction"
-pubDate: "2026-08-26T08:20:59.618Z"
+title: 'Ocean Expo Park: Okinawa Travel Guide (4.5★)'
+description: Ocean Expo Park in Motobu, northern Okinawa, is open daily from 8:00 AM to 6:00 PM and is best tackled first thing at opening or after 4pm when tour buses thin out. 4.5★ (19,033 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Okinawa
+category: attraction
+pubDate: '2026-08-26T08:20:59.618Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/04/Okinawa_Ocean_Expo_Park_view_hdsr_Vlux5_01.jpg"
-  credit: "Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Okinawa_Ocean_Expo_Park_view_hdsr_Vlux5_01.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Okinawa_Ocean_Expo_Park_view_hdsr_Vlux5_01.jpg/1920px-Okinawa_Ocean_Expo_Park_view_hdsr_Vlux5_01.jpg
+  credit: 'Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Okinawa_Ocean_Expo_Park_view_hdsr_Vlux5_01.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/272285_DDTNfyTBGpoYFofiWIaXUDqvPAnUVdYikqPKsd7GfcM.jpg"
-    credit: "Photo: Foursquare user content (Ocean Expo Park (海洋博公園))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b57d439f964a520034328e3"
+  - url: https://fastly.4sqi.net/img/general/original/272285_DDTNfyTBGpoYFofiWIaXUDqvPAnUVdYikqPKsd7GfcM.jpg
+    credit: 'Photo: Foursquare user content (Ocean Expo Park (海洋博公園))'
+    license: foursquare
+    source: https://foursquare.com/v/4b57d439f964a520034328e3
 place:
-  id: "ChIJja-5Bsv75DQRxL_IBwlgWZk"
-  name: "Ocean Expo Park"
-  address: "424番地 Ishikawa, Motobu, Kunigami District, Okinawa 905-0206, Japan"
+  id: ChIJja-5Bsv75DQRxL_IBwlgWZk
+  name: Ocean Expo Park
+  address: 424番地 Ishikawa, Motobu, Kunigami District, Okinawa 905-0206, Japan
   rating: 4.5
   userRatingsTotal: 19033
-  googleMapsUrl: "https://maps.google.com/?cid=11049968752631791556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11049968752631791556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.694338
   lng: 127.87801309999999
-  phone: "+81 980-48-2741"
+  phone: +81 980-48-2741
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - "okinawa"
-  - "park"
-quickAnswer: "Ocean Expo Park in Motobu, northern Okinawa, is open daily from 8:00 AM to 6:00 PM and is best tackled first thing at opening or after 4pm when tour buses thin out. Give yourself at least half a day — the Churaumi Aquarium alone deserves two to three hours — and expect crowds, since this is one of Okinawa's most-visited sites. Admission to the park itself is free; only the aquarium and a few sub-attractions charge entry."
+  - okinawa
+  - park
+quickAnswer: Ocean Expo Park in Motobu, northern Okinawa, is open daily from 8:00 AM to 6:00 PM and is best tackled first thing at opening or after 4pm when tour buses thin out. Give yourself at least half a day — the Churaumi Aquarium alone deserves two to three hours — and expect crowds, since this is one of Okinawa's most-visited sites. Admission to the park itself is free; only the aquarium and a few sub-attractions charge entry.
 faq:
-  - q: "How much time should I budget for Ocean Expo Park?"
-    a: "Plan for at least half a day. The Churaumi Aquarium alone takes 2-3 hours, and the gardens, beach, and traditional village add another 2 hours if you want to see them all."
-  - q: "Is entry to Ocean Expo Park free?"
-    a: "Yes, the park grounds, Emerald Beach, and Okinawa Traditional Village are free. Only the Churaumi Aquarium and a couple of smaller facilities like the Tropical Dream Center charge separate admission."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Arrive right at opening (8:00 AM) or after 4:00 PM, when tour bus groups have thinned out. Avoid Japanese school holiday periods, especially late July through August and Golden Week in early May."
-  - q: "How do I get to Ocean Expo Park from Naha?"
-    a: "It's about 90 minutes by car via the expressway, or roughly two hours by highway bus from Naha Bus Terminal. There's no train service on this part of Okinawa, so a rental car is the most flexible option."
-  - q: "Can I swim at Ocean Expo Park?"
-    a: "Yes, Emerald Beach inside the park offers calm, shallow swimming and is open seasonally, typically through the warmer months. It's far less crowded than the aquarium queues."
+  - q: How much time should I budget for Ocean Expo Park?
+    a: Plan for at least half a day. The Churaumi Aquarium alone takes 2-3 hours, and the gardens, beach, and traditional village add another 2 hours if you want to see them all.
+  - q: Is entry to Ocean Expo Park free?
+    a: Yes, the park grounds, Emerald Beach, and Okinawa Traditional Village are free. Only the Churaumi Aquarium and a couple of smaller facilities like the Tropical Dream Center charge separate admission.
+  - q: What's the best time to visit to avoid crowds?
+    a: Arrive right at opening (8:00 AM) or after 4:00 PM, when tour bus groups have thinned out. Avoid Japanese school holiday periods, especially late July through August and Golden Week in early May.
+  - q: How do I get to Ocean Expo Park from Naha?
+    a: It's about 90 minutes by car via the expressway, or roughly two hours by highway bus from Naha Bus Terminal. There's no train service on this part of Okinawa, so a rental car is the most flexible option.
+  - q: Can I swim at Ocean Expo Park?
+    a: Yes, Emerald Beach inside the park offers calm, shallow swimming and is open seasonally, typically through the warmer months. It's far less crowded than the aquarium queues.
 aiGenerated: true
 draft: false
 ---

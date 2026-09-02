@@ -6,7 +6,7 @@ region: Las Vegas
 category: attraction
 pubDate: '2026-08-05T11:47:08.929Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Las_Vegas%2C_NV_-_Mormon_Fort_%281%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Las_Vegas%2C_NV_-_Mormon_Fort_%281%29.jpg/960px-Las_Vegas%2C_NV_-_Mormon_Fort_%281%29.jpg
   credit: 'Photo: Jrozwado / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Las_Vegas,_NV_-_Mormon_Fort_(1).jpg

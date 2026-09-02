@@ -1,44 +1,44 @@
 ---
-title: "Tin Hau Temple, Joss House Bay: Sai Kung Travel Guide (4.2★)"
-description: "Tin Hau Temple, Joss House Bay, sits above Clear Water Bay in the Sai Kung district and opens daily 8am–5pm. 4.2★ (173 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sai Kung"
-category: "attraction"
-pubDate: "2026-08-31T15:13:48.650Z"
+title: 'Tin Hau Temple, Joss House Bay: Sai Kung Travel Guide (4.2★)'
+description: Tin Hau Temple, Joss House Bay, sits above Clear Water Bay in the Sai Kung district and opens daily 8am–5pm. 4.2★ (173 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sai Kung
+category: attraction
+pubDate: '2026-08-31T15:13:48.650Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Joss_House_Bay_Tin_Hau_Temple_1.jpg/1920px-Joss_House_Bay_Tin_Hau_Temple_1.jpg"
-  credit: "Photo: Minghong / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Joss_House_Bay_Tin_Hau_Temple_1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Joss_House_Bay_Tin_Hau_Temple_1.jpg/1920px-Joss_House_Bay_Tin_Hau_Temple_1.jpg
+  credit: 'Photo: Minghong / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Joss_House_Bay_Tin_Hau_Temple_1.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/70/Joss_House_Bay_Tin_Hau_Temple_Entrance_20160714.jpg"
-    credit: "Photo: Will629 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Joss_House_Bay_Tin_Hau_Temple_Entrance_20160714.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Joss_House_Bay_Tin_Hau_Temple_Entrance_20160714.jpg/1920px-Joss_House_Bay_Tin_Hau_Temple_Entrance_20160714.jpg
+    credit: 'Photo: Will629 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Joss_House_Bay_Tin_Hau_Temple_Entrance_20160714.jpg
 place:
-  id: "ChIJ6yrQAAEDBDQRES6f8lDLfXo"
-  name: "Tin Hau Temple, Joss House Bay"
-  address: "Clear Water Bay, New Territories, Hong Kong"
+  id: ChIJ6yrQAAEDBDQRES6f8lDLfXo
+  name: Tin Hau Temple, Joss House Bay
+  address: Clear Water Bay, New Territories, Hong Kong
   rating: 4.2
   userRatingsTotal: 173
-  googleMapsUrl: "https://maps.google.com/?cid=8826434393244380689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8826434393244380689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2706153
   lng: 114.28996599999999
-  phone: "+852 2719 9257"
+  phone: +852 2719 9257
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-31
+    updated: 2026-08-31T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendBusy:
@@ -49,22 +49,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6f58664c446c38663653455251444244454141517279364a496843"
+    venueId: ven_6f58664c446c38663653455251444244454141517279364a496843
 tags:
-  - "sai kung"
-  - "historic site"
-quickAnswer: "Tin Hau Temple, Joss House Bay, sits above Clear Water Bay in the Sai Kung district and opens daily 8am–5pm. It's a quieter, under-the-radar stop even on the goddess's own festival day, with the calmest visit between 8am and 9am on weekdays. Weekends fill up fast between 9am and 4pm, so an early start pays off."
+  - sai kung
+  - historic site
+quickAnswer: Tin Hau Temple, Joss House Bay, sits above Clear Water Bay in the Sai Kung district and opens daily 8am–5pm. It's a quieter, under-the-radar stop even on the goddess's own festival day, with the calmest visit between 8am and 9am on weekdays. Weekends fill up fast between 9am and 4pm, so an early start pays off.
 faq:
-  - q: "How do I get to Tin Hau Temple, Joss House Bay without a car?"
-    a: "Take minibus 16 from Sai Kung town toward Po Toi O, then walk up the signposted staircase to the temple entrance."
-  - q: "What are the opening hours?"
-    a: "Open daily, 8am to 5pm, with no variation by day of week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 8am and 9am are calmest; weekends stay busy from 9am to 4pm, so arrive early if you want the halls to yourself."
-  - q: "How long should I plan for the visit?"
-    a: "Around 30 to 45 minutes covers the temple and the staircase views; longer if you linger by the harbour."
-  - q: "Is there an entrance fee?"
-    a: "No admission fee; donations for incense and offerings are optional and go into marked boxes on site."
+  - q: How do I get to Tin Hau Temple, Joss House Bay without a car?
+    a: Take minibus 16 from Sai Kung town toward Po Toi O, then walk up the signposted staircase to the temple entrance.
+  - q: What are the opening hours?
+    a: Open daily, 8am to 5pm, with no variation by day of week.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 8am and 9am are calmest; weekends stay busy from 9am to 4pm, so arrive early if you want the halls to yourself.
+  - q: How long should I plan for the visit?
+    a: Around 30 to 45 minutes covers the temple and the staircase views; longer if you linger by the harbour.
+  - q: Is there an entrance fee?
+    a: No admission fee; donations for incense and offerings are optional and go into marked boxes on site.
 aiGenerated: true
 draft: false
 ---

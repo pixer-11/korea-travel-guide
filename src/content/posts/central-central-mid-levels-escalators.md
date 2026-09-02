@@ -1,36 +1,27 @@
 ---
 title: 'Central-Mid-Levels Escalators: Travel Guide (4.1★)'
-description: >-
-  The Central-Mid-Levels Escalators are the world's longest outdoor covered
-  escalator system — 800 metres of linked escalators and moving walkways
-  climbing from Central up through Soho into the Mid-Levels. 4.1★ (10,425
-  reviews) — what visitors say, hours, and tips.
+description: The Central-Mid-Levels Escalators are the world's longest outdoor covered escalator system — 800 metres of linked escalators and moving walkways climbing from Central up through Soho into the Mid-Levels. 4.1★ (10,425 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Central
 category: hidden-gem
 pubDate: '2026-08-12T17:24:16.614Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/e/e8/Central%E2%80%93Mid-levels_Escalators_Central_Entrance.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Central%E2%80%93Mid-levels_Escalators_Central_Entrance.jpg/1920px-Central%E2%80%93Mid-levels_Escalators_Central_Entrance.jpg
   credit: 'Photo: Ceeseven / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Central%E2%80%93Mid-levels_Escalators_Central_Entrance.jpg
+  source: https://commons.wikimedia.org/wiki/File:Central%E2%80%93Mid-levels_Escalators_Central_Entrance.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/5/51/HK_Central_Cochrane_Street_Central-Mid-Levels_escalators_Upsidedown.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HK_Central_Cochrane_Street_Central-Mid-Levels_escalators_Upsidedown.JPG/1280px-HK_Central_Cochrane_Street_Central-Mid-Levels_escalators_Upsidedown.JPG
     credit: 'Photo: WingLuk / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:HK_Central_Cochrane_Street_Central-Mid-Levels_escalators_Upsidedown.JPG
+    source: https://commons.wikimedia.org/wiki/File:HK_Central_Cochrane_Street_Central-Mid-Levels_escalators_Upsidedown.JPG
 place:
   id: ChIJk1YpX3sABDQRcEUrangY1CY
   name: Central-Mid-Levels Escalators
-  address: 'Jubilee St, Central, Hong Kong Island, Hong Kong'
+  address: Jubilee St, Central, Hong Kong Island, Hong Kong
   rating: 4.1
   userRatingsTotal: 10425
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=2797888173960283504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=2797888173960283504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.283846399999998
   lng: 114.1549689
@@ -72,35 +63,18 @@ place:
 tags:
   - central
   - hidden gem
-quickAnswer: >-
-  The Central-Mid-Levels Escalators are the world's longest outdoor covered
-  escalator system — 800 metres of linked escalators and moving walkways
-  climbing from Central up through Soho into the Mid-Levels. They run downhill
-  6–10am and uphill 10:20am–midnight, are free to ride, and take about 20
-  minutes end to end. Weekends from 10am–8pm draw the heaviest crowds, so an
-  early morning or late evening ride is calmer.
+quickAnswer: The Central-Mid-Levels Escalators are the world's longest outdoor covered escalator system — 800 metres of linked escalators and moving walkways climbing from Central up through Soho into the Mid-Levels. They run downhill 6–10am and uphill 10:20am–midnight, are free to ride, and take about 20 minutes end to end. Weekends from 10am–8pm draw the heaviest crowds, so an early morning or late evening ride is calmer.
 faq:
   - q: How much does it cost to ride the escalators?
-    a: >-
-      It's free. There's no ticket or gate — you simply step on at any landing
-      along the route.
+    a: It's free. There's no ticket or gate — you simply step on at any landing along the route.
   - q: What direction do the escalators run?
-    a: >-
-      Downhill from about 6–10am for the morning commute, then uphill from
-      roughly 10:20am until midnight.
+    a: Downhill from about 6–10am for the morning commute, then uphill from roughly 10:20am until midnight.
   - q: When is the quietest time to visit?
-    a: >-
-      Both weekdays and weekends are calmest from around 7am to 11pm; avoid
-      weekends between 10am and 8pm, when crowds peak at entrances and photo
-      spots.
+    a: Both weekdays and weekends are calmest from around 7am to 11pm; avoid weekends between 10am and 8pm, when crowds peak at entrances and photo spots.
   - q: How long does the full ride take?
-    a: >-
-      About 20 minutes end to end without stopping, but plan an hour or two if
-      you want to explore Soho, Man Mo Temple, or Central Market along the way.
+    a: About 20 minutes end to end without stopping, but plan an hour or two if you want to explore Soho, Man Mo Temple, or Central Market along the way.
   - q: What's nearby worth stopping for?
-    a: >-
-      Central Market at the base, Lan Kwai Fong and Soho's bar streets midway,
-      and Man Mo Temple a short walk off Hollywood Road.
+    a: Central Market at the base, Lan Kwai Fong and Soho's bar streets midway, and Man Mo Temple a short walk off Hollywood Road.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

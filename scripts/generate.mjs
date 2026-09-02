@@ -918,7 +918,7 @@ async function buildLivePost(target) {
   let hero = null;
   LAST_HERO_VERDICT = null;
   for (const cand of results) {
-    if (!checkPlace(cand).ok) continue;
+    if (!checkPlace(cand, { country: target.country }).ok) continue;
     // English-site guard: a name with no Latin letters would make a Hangul slug.
     if (!/[a-z0-9]/i.test(cand.name || '')) continue;
     if (cand.id && USED_PLACE_IDS.has(cand.id)) continue;
@@ -1043,7 +1043,11 @@ async function buildLivePost(target) {
       // Transient source trouble (429/5xx after retries, a fetch that threw)
       // is a different fact from "no photo exists": the first earns a second
       // pass at the END of this run, after the burst has passed.
-      const transient = why.some((w) => /\b(429|50[234])\b|error|threw|unusable/i.test(w));
+      // 'unusable' is no longer in this list: since 2026-09-02 a transient
+      // download failure says 'vision unavailable' and 'candidate unusable'
+      // is reserved for a 404 or a file that will not decode — a second pass
+      // cannot fix either.
+      const transient = why.some((w) => /vision unavailable|\b(429|50[234])\b|error|threw/i.test(w));
       console.log(`  \u{1F5BC}  in-body photo: none${transient ? ' (transient)' : ''} — ${why.join(' · ') || 'no candidates'}`);
       if (transient) INBODY_PENDING = { place, target, heroUrl };
     }

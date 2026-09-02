@@ -1,41 +1,41 @@
 ---
-title: "New Orleans Botanical Garden: Travel Guide (4.7★)"
-description: "The New Orleans Botanical Garden sits inside City Park at 5 Victory Ave, open Tuesday–Sunday from 10am to 4:30pm (closed Mondays). 4.7★ (1,595 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "attraction"
-pubDate: "2026-08-08T08:08:57.572Z"
+title: 'New Orleans Botanical Garden: Travel Guide (4.7★)'
+description: The New Orleans Botanical Garden sits inside City Park at 5 Victory Ave, open Tuesday–Sunday from 10am to 4:30pm (closed Mondays). 4.7★ (1,595 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: attraction
+pubDate: '2026-08-08T08:08:57.572Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/New_Orleans_Botanical_Garden_2011.jpg/1920px-New_Orleans_Botanical_Garden_2011.jpg"
-  credit: "Photo: Reading Tom / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:New_Orleans_Botanical_Garden_2011.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/New_Orleans_Botanical_Garden_2011.jpg/1920px-New_Orleans_Botanical_Garden_2011.jpg
+  credit: 'Photo: Reading Tom / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:New_Orleans_Botanical_Garden_2011.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/36/New_Orleans_Botanical_Garden_Walkway.jpg"
-    credit: "Photo: Reading Tom / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:New_Orleans_Botanical_Garden_Walkway.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/New_Orleans_Botanical_Garden_Walkway.jpg/1920px-New_Orleans_Botanical_Garden_Walkway.jpg
+    credit: 'Photo: Reading Tom / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:New_Orleans_Botanical_Garden_Walkway.jpg
 place:
-  id: "ChIJQ5_Ht2ivIIYRtuFz9D-6d0M"
-  name: "New Orleans Botanical Garden"
-  address: "5 Victory Ave, New Orleans, LA 70119, USA"
+  id: ChIJQ5_Ht2ivIIYRtuFz9D-6d0M
+  name: New Orleans Botanical Garden
+  address: 5 Victory Ave, New Orleans, LA 70119, USA
   rating: 4.7
   userRatingsTotal: 1595
-  googleMapsUrl: "https://maps.google.com/?cid=4861559106616680886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4861559106616680886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.987332199999997
   lng: -90.0971328
-  phone: "+1 504-483-9488"
+  phone: +1 504-483-9488
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 4:30 PM"
-    - "Wednesday: 10:00 AM – 4:30 PM"
-    - "Thursday: 10:00 AM – 4:30 PM"
-    - "Friday: 10:00 AM – 4:30 PM"
-    - "Saturday: 10:00 AM – 4:30 PM"
-    - "Sunday: 10:00 AM – 4:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 4:30 PM'
+    - 'Wednesday: 10:00 AM – 4:30 PM'
+    - 'Thursday: 10:00 AM – 4:30 PM'
+    - 'Friday: 10:00 AM – 4:30 PM'
+    - 'Saturday: 10:00 AM – 4:30 PM'
+    - 'Sunday: 10:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-08-08
+    updated: 2026-08-08T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -43,22 +43,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4d3064362d44397a4675745259494976693274485f35514a496843"
+    venueId: ven_4d3064362d44397a4675745259494976693274485f35514a496843
 tags:
-  - "new orleans"
-  - "park"
-quickAnswer: "The New Orleans Botanical Garden sits inside City Park at 5 Victory Ave, open Tuesday–Sunday from 10am to 4:30pm (closed Mondays). Give yourself 90 minutes to two hours to wander the Art Deco walkways, orchid house, and cactus collection. Weekends between 10am and 4pm draw the biggest crowds, so aim for a weekday morning if you can."
+  - new orleans
+  - park
+quickAnswer: The New Orleans Botanical Garden sits inside City Park at 5 Victory Ave, open Tuesday–Sunday from 10am to 4:30pm (closed Mondays). Give yourself 90 minutes to two hours to wander the Art Deco walkways, orchid house, and cactus collection. Weekends between 10am and 4pm draw the biggest crowds, so aim for a weekday morning if you can.
 faq:
-  - q: "What are the opening hours?"
-    a: "Tuesday through Sunday, 10am to 4:30pm. The garden is closed on Mondays. Hours can shift around holidays, so check the official City Park site before visiting."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings tend to be calmest. Weekends from 10am to 4pm are the busiest window, so avoid that stretch if you want a quieter walk through the greenhouses."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 90 minutes to two hours, especially if you linger in the orchid house and cactus collection rather than just walking the outdoor paths."
-  - q: "How do I get there without a car?"
-    a: "Take the Canal Street Streetcar (Cemeteries line) to City Park, then walk about 10–15 minutes through the park to the garden entrance at 5 Victory Ave."
-  - q: "Is it worth combining with other City Park attractions?"
-    a: "Yes — the New Orleans Museum of Art sits right nearby, and City Park's oak-lined paths and Train Garden make for an easy add-on to the same visit."
+  - q: What are the opening hours?
+    a: Tuesday through Sunday, 10am to 4:30pm. The garden is closed on Mondays. Hours can shift around holidays, so check the official City Park site before visiting.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings tend to be calmest. Weekends from 10am to 4pm are the busiest window, so avoid that stretch if you want a quieter walk through the greenhouses.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 90 minutes to two hours, especially if you linger in the orchid house and cactus collection rather than just walking the outdoor paths.
+  - q: How do I get there without a car?
+    a: Take the Canal Street Streetcar (Cemeteries line) to City Park, then walk about 10–15 minutes through the park to the garden entrance at 5 Victory Ave.
+  - q: Is it worth combining with other City Park attractions?
+    a: Yes — the New Orleans Museum of Art sits right nearby, and City Park's oak-lined paths and Train Garden make for an easy add-on to the same visit.
 aiGenerated: true
 draft: false
 ---

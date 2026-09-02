@@ -1,31 +1,31 @@
 ---
-title: "Bukit Merese: Lombok Travel Guide"
-description: "Bukit Merese is a small grassy headland a few minutes east of Kuta Lombok, best visited at sunset for panoramic views over Tanjung Aan's twin bays."
-country: "Indonesia"
-region: "Lombok"
-category: "hidden-gem"
-pubDate: "2026-07-23T07:20:43.655Z"
+title: 'Bukit Merese: Lombok Travel Guide'
+description: Bukit Merese is a small grassy headland a few minutes east of Kuta Lombok, best visited at sunset for panoramic views over Tanjung Aan's twin bays.
+country: Indonesia
+region: Lombok
+category: hidden-gem
+pubDate: '2026-07-23T07:20:43.655Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Keindahan_Bukit_Merese.jpg"
-  credit: "Photo: Rina Harpani / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Keindahan_Bukit_Merese.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Keindahan_Bukit_Merese.jpg/960px-Keindahan_Bukit_Merese.jpg
+  credit: 'Photo: Rina Harpani / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Keindahan_Bukit_Merese.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Merese.jpg/1920px-Merese.jpg
     credit: 'Photo: Pradnyanandana / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Merese.jpg
 place:
-  id: "ChIJn1laO6izzS0RzIjQ0qj2jA8"
-  name: "Bukit Merese"
-  address: "Jl. Kuta Lombok, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia"
+  id: ChIJn1laO6izzS0RzIjQ0qj2jA8
+  name: Bukit Merese
+  address: Jl. Kuta Lombok, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83573, Indonesia
   rating: 4.7
   userRatingsTotal: 8813
-  googleMapsUrl: "https://maps.google.com/?cid=1120541612260231372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1120541612260231372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.9139299
   lng: 116.3190063
-  phone: '+62 821-1194-2348'
+  phone: +62 821-1194-2348
   openingHours:
     - 'Monday: 5:00 AM – 7:00 PM'
     - 'Tuesday: 5:00 AM – 7:00 PM'
@@ -35,20 +35,20 @@ place:
     - 'Saturday: 5:00 AM – 7:00 PM'
     - 'Sunday: 5:00 AM – 7:00 PM'
 tags:
-  - "lombok"
-  - "hidden gem"
-quickAnswer: "Bukit Merese is a small grassy headland a few minutes east of Kuta Lombok, best visited at sunset for panoramic views over Tanjung Aan's twin bays. Expect crowds and scooter/motorbike vendors up top since it's one of South Lombok's most-visited viewpoints (4.7 stars, nearly 9,000 reviews) — arrive early or go for sunrise if you want it calmer. Budget 45–60 minutes, wear grippy shoes for the short climb, and pair it with Tanjung Aan beach below."
+  - lombok
+  - hidden gem
+quickAnswer: Bukit Merese is a small grassy headland a few minutes east of Kuta Lombok, best visited at sunset for panoramic views over Tanjung Aan's twin bays. Expect crowds and scooter/motorbike vendors up top since it's one of South Lombok's most-visited viewpoints (4.7 stars, nearly 9,000 reviews) — arrive early or go for sunrise if you want it calmer. Budget 45–60 minutes, wear grippy shoes for the short climb, and pair it with Tanjung Aan beach below.
 faq:
-  - q: "How do I get to Bukit Merese without a tour?"
-    a: "Rent a scooter or hire a car/driver from Kuta Lombok — it's a 10-15 minute drive along Jl. Kuta Lombok. There's no public bus or train service to the site."
-  - q: "Is there an entrance fee?"
-    a: "There's typically a small local entry or parking contribution collected informally at the base, paid in cash rupiah; amounts can change, so it's best to bring small bills and not assume a fixed price."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 45-60 minutes total — enough for the short climb, taking in the view, and photos, especially if you're also visiting neighboring Tanjung Aan beach."
-  - q: "What's the best time to visit for photos?"
-    a: "Sunset gives the most dramatic golden light over the bays but draws the biggest crowds; sunrise or mid-morning offers similar views with far fewer people."
-  - q: "What else is nearby?"
-    a: "Tanjung Aan beach sits right at the base of the hill for swimming and food stalls, and Kuta Lombok's cafés, surf spots, and Gerupuk's surf breaks are all a short drive away."
+  - q: How do I get to Bukit Merese without a tour?
+    a: Rent a scooter or hire a car/driver from Kuta Lombok — it's a 10-15 minute drive along Jl. Kuta Lombok. There's no public bus or train service to the site.
+  - q: Is there an entrance fee?
+    a: There's typically a small local entry or parking contribution collected informally at the base, paid in cash rupiah; amounts can change, so it's best to bring small bills and not assume a fixed price.
+  - q: How long should I spend there?
+    a: Most visitors spend 45-60 minutes total — enough for the short climb, taking in the view, and photos, especially if you're also visiting neighboring Tanjung Aan beach.
+  - q: What's the best time to visit for photos?
+    a: Sunset gives the most dramatic golden light over the bays but draws the biggest crowds; sunrise or mid-morning offers similar views with far fewer people.
+  - q: What else is nearby?
+    a: Tanjung Aan beach sits right at the base of the hill for swimming and food stalls, and Kuta Lombok's cafés, surf spots, and Gerupuk's surf breaks are all a short drive away.
 aiGenerated: true
 draft: false
 ---

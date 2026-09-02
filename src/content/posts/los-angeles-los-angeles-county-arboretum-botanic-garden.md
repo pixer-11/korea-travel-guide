@@ -1,41 +1,41 @@
 ---
-title: "Los Angeles County Arboretum & Botanic Garden: Travel Guide"
-description: "The LA County Arboretum in Arcadia is a 127-acre botanic garden with peacocks roaming free, a historic Queen Anne cottage, and a lagoon that doubled as the \"Fantasy Island\" lagoon. 4.8★ (5,602 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Los Angeles"
-category: "attraction"
-pubDate: "2026-08-09T08:11:01.250Z"
+title: 'Los Angeles County Arboretum & Botanic Garden: Travel Guide'
+description: The LA County Arboretum in Arcadia is a 127-acre botanic garden with peacocks roaming free, a historic Queen Anne cottage, and a lagoon that doubled as the "Fantasy Island" lagoon. 4.8★ (5,602 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Los Angeles
+category: attraction
+pubDate: '2026-08-09T08:11:01.250Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg"
-  credit: "Photo: Rmostell / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg/1920px-Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg
+  credit: 'Photo: Rmostell / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Baldwin_Lake_-_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cassia_leptophylla%2C_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg/3840px-Cassia_leptophylla%2C_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg"
-    credit: "Photo: Tracie Hall from Orange County, us / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cassia_leptophylla,_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cassia_leptophylla%2C_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg/3840px-Cassia_leptophylla%2C_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg
+    credit: 'Photo: Tracie Hall from Orange County, us / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Cassia_leptophylla,_Los_Angeles_County_Arboretum_and_Botanic_Garden.jpg
 place:
-  id: "ChIJOalD_5DbwoARcH4Yl2C8xjE"
-  name: "Los Angeles County Arboretum & Botanic Garden"
-  address: "301 N Baldwin Ave, Arcadia, CA 91007, USA"
+  id: ChIJOalD_5DbwoARcH4Yl2C8xjE
+  name: Los Angeles County Arboretum & Botanic Garden
+  address: 301 N Baldwin Ave, Arcadia, CA 91007, USA
   rating: 4.8
   userRatingsTotal: 5602
-  googleMapsUrl: "https://maps.google.com/?cid=3586761276285025904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3586761276285025904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.1439246
   lng: -118.0516226
-  phone: "+1 626-821-3222"
+  phone: +1 626-821-3222
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-09
+    updated: 2026-08-09T00:00:00.000Z
     weekdayQuiet:
       - 16
       - 17
@@ -50,22 +50,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_456a783843326c5934486352416f776244355f446c614f4a496843"
+    venueId: ven_456a783843326c5934486352416f776244355f446c614f4a496843
 tags:
-  - "los angeles"
-  - "park"
-quickAnswer: "The LA County Arboretum in Arcadia is a 127-acre botanic garden with peacocks roaming free, a historic Queen Anne cottage, and a lagoon that doubled as the \"Fantasy Island\" lagoon. It's open daily 9am–7pm; weekends get packed 10am–5pm, so aim for a weekday, or arrive after 4pm for the quietest light. Budget two to three hours to walk the grounds properly."
+  - los angeles
+  - park
+quickAnswer: The LA County Arboretum in Arcadia is a 127-acre botanic garden with peacocks roaming free, a historic Queen Anne cottage, and a lagoon that doubled as the "Fantasy Island" lagoon. It's open daily 9am–7pm; weekends get packed 10am–5pm, so aim for a weekday, or arrive after 4pm for the quietest light. Budget two to three hours to walk the grounds properly.
 faq:
-  - q: "How do I get to the Arboretum without a car?"
-    a: "Take Metro's L Line (Gold) to Arcadia Station — it's about a 10-minute walk to the entrance from there."
-  - q: "How long should I plan to spend inside?"
-    a: "Two to three hours is realistic if you want to see the Queen Anne Cottage, the lagoon, the tropical greenhouse, and the bird sanctuary without rushing."
-  - q: "When is it least crowded?"
-    a: "Weekdays between 4pm and 7pm are quietest. On weekends, the calmest window is 6pm to 7pm, right before closing. Try to avoid 10am to 5pm on Saturdays and Sundays, when it's busiest."
-  - q: "What are the peacocks like — can I feed them?"
-    a: "They roam freely across the grounds and are a highlight for most visitors, but they're wild animals — don't feed or chase them."
-  - q: "Is there anything nearby worth combining with a visit?"
-    a: "Santa Anita Park racetrack is right next door, and downtown Arcadia's restaurants are a short drive away for a meal after."
+  - q: How do I get to the Arboretum without a car?
+    a: Take Metro's L Line (Gold) to Arcadia Station — it's about a 10-minute walk to the entrance from there.
+  - q: How long should I plan to spend inside?
+    a: Two to three hours is realistic if you want to see the Queen Anne Cottage, the lagoon, the tropical greenhouse, and the bird sanctuary without rushing.
+  - q: When is it least crowded?
+    a: Weekdays between 4pm and 7pm are quietest. On weekends, the calmest window is 6pm to 7pm, right before closing. Try to avoid 10am to 5pm on Saturdays and Sundays, when it's busiest.
+  - q: What are the peacocks like — can I feed them?
+    a: They roam freely across the grounds and are a highlight for most visitors, but they're wild animals — don't feed or chase them.
+  - q: Is there anything nearby worth combining with a visit?
+    a: Santa Anita Park racetrack is right next door, and downtown Arcadia's restaurants are a short drive away for a meal after.
 aiGenerated: true
 draft: false
 ---

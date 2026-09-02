@@ -1,54 +1,54 @@
 ---
-title: "Balboa Park: San Diego Travel Guide (4.8★)"
-description: "Balboa Park is San Diego's 1,200-acre cultural heart — a walkable cluster of Spanish Colonial Revival buildings holding the San Diego Zoo, 17 museums, gardens, and theaters, all free to wander. 4.8★ (79,113 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "San Diego"
-category: "attraction"
-pubDate: "2026-08-11T08:29:24.100Z"
+title: 'Balboa Park: San Diego Travel Guide (4.8★)'
+description: Balboa Park is San Diego's 1,200-acre cultural heart — a walkable cluster of Spanish Colonial Revival buildings holding the San Diego Zoo, 17 museums, gardens, and theaters, all free to wander. 4.8★ (79,113 reviews) — what visitors say, hours, and tips.
+country: United States
+region: San Diego
+category: attraction
+pubDate: '2026-08-11T08:29:24.100Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Balboa_Park_Botanical_Building_01.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Balboa_Park_Botanical_Building_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Balboa_Park_Botanical_Building_01.jpg/1920px-Balboa_Park_Botanical_Building_01.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Balboa_Park_Botanical_Building_01.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Front_view_of_the_Botanical_Building_in_Balboa_Park%2C_San_Diego_dllu.jpg/3840px-Front_view_of_the_Botanical_Building_in_Balboa_Park%2C_San_Diego_dllu.jpg"
-    credit: "Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Botanical_Building_in_Balboa_Park,_San_Diego_dllu.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Front_view_of_the_Botanical_Building_in_Balboa_Park%2C_San_Diego_dllu.jpg/3840px-Front_view_of_the_Botanical_Building_in_Balboa_Park%2C_San_Diego_dllu.jpg
+    credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Front_view_of_the_Botanical_Building_in_Balboa_Park,_San_Diego_dllu.jpg
 place:
-  id: "ChIJA8tw-pZU2YARxPYVsDwL8-0"
-  name: "Balboa Park"
-  address: "San Diego, CA, USA"
+  id: ChIJA8tw-pZU2YARxPYVsDwL8-0
+  name: Balboa Park
+  address: San Diego, CA, USA
   rating: 4.8
   userRatingsTotal: 79113
-  googleMapsUrl: "https://maps.google.com/?cid=17146060561609782980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17146060561609782980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 32.734147899999996
   lng: -117.14455299999997
-  phone: "+1 619-239-0512"
+  phone: +1 619-239-0512
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "san diego"
-  - "top attraction"
-quickAnswer: "Balboa Park is San Diego's 1,200-acre cultural heart — a walkable cluster of Spanish Colonial Revival buildings holding the San Diego Zoo, 17 museums, gardens, and theaters, all free to wander. The park itself never closes, but most museums run roughly 10am–5pm, so plan a half or full day. Arrive before 10am on weekends to beat both parking crunch and crowds along El Prado."
+  - san diego
+  - top attraction
+quickAnswer: Balboa Park is San Diego's 1,200-acre cultural heart — a walkable cluster of Spanish Colonial Revival buildings holding the San Diego Zoo, 17 museums, gardens, and theaters, all free to wander. The park itself never closes, but most museums run roughly 10am–5pm, so plan a half or full day. Arrive before 10am on weekends to beat both parking crunch and crowds along El Prado.
 faq:
-  - q: "How do you get to Balboa Park without a car?"
-    a: "Take MTS bus route 7 or the free Balboa Park shuttle, which loops through the park from parking areas and connects toward downtown San Diego."
-  - q: "Is Balboa Park free to visit?"
-    a: "The park grounds, gardens, and outdoor spaces are free. Individual museums and the San Diego Zoo charge separate admission, and some museums waive fees on a rotating Tuesday schedule each month."
-  - q: "How much time should I budget for Balboa Park?"
-    a: "A half day covers a couple of museums and the gardens along the Prado. Add the San Diego Zoo and you'll want a full separate day for that alone."
-  - q: "When is Balboa Park least crowded?"
-    a: "Weekday mornings are calmest. Weekends after midday draw the heaviest foot traffic along El Prado, especially with cruise-ship visitors in town."
-  - q: "Is Balboa Park open at night?"
-    a: "The park grounds are open 24 hours, but museums generally close by early evening, so nighttime visits are best for the architecture and outdoor spaces rather than exhibits."
+  - q: How do you get to Balboa Park without a car?
+    a: Take MTS bus route 7 or the free Balboa Park shuttle, which loops through the park from parking areas and connects toward downtown San Diego.
+  - q: Is Balboa Park free to visit?
+    a: The park grounds, gardens, and outdoor spaces are free. Individual museums and the San Diego Zoo charge separate admission, and some museums waive fees on a rotating Tuesday schedule each month.
+  - q: How much time should I budget for Balboa Park?
+    a: A half day covers a couple of museums and the gardens along the Prado. Add the San Diego Zoo and you'll want a full separate day for that alone.
+  - q: When is Balboa Park least crowded?
+    a: Weekday mornings are calmest. Weekends after midday draw the heaviest foot traffic along El Prado, especially with cruise-ship visitors in town.
+  - q: Is Balboa Park open at night?
+    a: The park grounds are open 24 hours, but museums generally close by early evening, so nighttime visits are best for the architecture and outdoor spaces rather than exhibits.
 aiGenerated: true
 draft: false
 ---

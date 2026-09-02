@@ -62,7 +62,8 @@ faq:
   - q: What should I see nearby afterward?
     a: Many visitors pair the museum with Choeung Ek Killing Fields (about 40 minutes away) via the same tuk-tuk hire, then decompress along the Tonle Sap riverfront or Royal Palace area back in central Phnom Penh.
 aiGenerated: true
-draft: false
+draft: true
+heldReason: wrong-region
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

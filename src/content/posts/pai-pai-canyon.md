@@ -1,41 +1,41 @@
 ---
-title: "Pai Canyon: Travel Guide (4.5★)"
-description: "Pai Canyon (Kang Lom Pai) is a red-earth ridge trail about 8km south of Pai town, open daily 6am–7pm. 4.5★ (8,324 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pai"
-category: "attraction"
-pubDate: "2026-08-13T08:59:33.173Z"
+title: 'Pai Canyon: Travel Guide (4.5★)'
+description: Pai Canyon (Kang Lom Pai) is a red-earth ridge trail about 8km south of Pai town, open daily 6am–7pm. 4.5★ (8,324 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Pai
+category: attraction
+pubDate: '2026-08-13T08:59:33.173Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pai_canyon_1.jpg"
-  credit: "Photo: Sgroey / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pai_canyon_1.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pai_canyon_1.jpg/1920px-Pai_canyon_1.jpg
+  credit: 'Photo: Sgroey / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Pai_canyon_1.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pai_canyon_2.jpg"
-    credit: "Photo: Sgroey / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pai_canyon_2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pai_canyon_2.jpg/1920px-Pai_canyon_2.jpg
+    credit: 'Photo: Sgroey / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Pai_canyon_2.jpg
 place:
-  id: "ChIJ-aDr8-iA2jARwq6VsSTh24M"
-  name: "Pai Canyon"
-  address: "8F43+F22, Mae Hi, Pai District, Mae Hong Son 58130, Thailand"
+  id: ChIJ-aDr8-iA2jARwq6VsSTh24M
+  name: Pai Canyon
+  address: 8F43+F22, Mae Hi, Pai District, Mae Hong Son 58130, Thailand
   rating: 4.5
   userRatingsTotal: 8324
-  googleMapsUrl: "https://maps.google.com/?cid=9501435386582642370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9501435386582642370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.3061375
   lng: 98.4525156
-  phone: "+66 86 113 7373"
+  phone: +66 86 113 7373
   openingHours:
-    - "Monday: 6:00 AM – 7:00 PM"
-    - "Tuesday: 6:00 AM – 7:00 PM"
-    - "Wednesday: 6:00 AM – 7:00 PM"
-    - "Thursday: 6:00 AM – 7:00 PM"
-    - "Friday: 6:00 AM – 7:00 PM"
-    - "Saturday: 6:00 AM – 7:00 PM"
-    - "Sunday: 6:00 AM – 7:00 PM"
+    - 'Monday: 6:00 AM – 7:00 PM'
+    - 'Tuesday: 6:00 AM – 7:00 PM'
+    - 'Wednesday: 6:00 AM – 7:00 PM'
+    - 'Thursday: 6:00 AM – 7:00 PM'
+    - 'Friday: 6:00 AM – 7:00 PM'
+    - 'Saturday: 6:00 AM – 7:00 PM'
+    - 'Sunday: 6:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,22 +53,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_4d3432685453735636717752416a3241692d387244612d4a496843"
+    venueId: ven_4d3432685453735636717752416a3241692d387244612d4a496843
 tags:
-  - "pai"
-  - "top attraction"
-quickAnswer: "Pai Canyon (Kang Lom Pai) is a red-earth ridge trail about 8km south of Pai town, open daily 6am–7pm. Go for sunrise or early morning — quietest 7am–11am on weekdays, 7am–10am on weekends — since the narrow ridges get genuinely crowded from 4pm–7pm when everyone arrives for sunset. Budget 1–2 hours, wear grippy shoes, and skip it entirely if it's just rained."
+  - pai
+  - top attraction
+quickAnswer: Pai Canyon (Kang Lom Pai) is a red-earth ridge trail about 8km south of Pai town, open daily 6am–7pm. Go for sunrise or early morning — quietest 7am–11am on weekdays, 7am–10am on weekends — since the narrow ridges get genuinely crowded from 4pm–7pm when everyone arrives for sunset. Budget 1–2 hours, wear grippy shoes, and skip it entirely if it's just rained.
 faq:
-  - q: "How do I get to Pai Canyon without my own scooter?"
-    a: "Book a songthaew or minivan tour from Pai town — many combine it with the Land Split and nearby hot springs. There's no public bus route directly to the site."
-  - q: "How long should I spend at Pai Canyon?"
-    a: "Plan on 1 to 2 hours to walk the main ridge trails and find a good viewpoint, longer if you're staying for sunset."
-  - q: "When is Pai Canyon least crowded?"
-    a: "Weekdays 7am–11am and weekends 7am–10am are the quietest windows. Avoid 4pm–7pm on weekends, when sunset crowds pack the narrow ridges."
-  - q: "Is Pai Canyon safe to hike?"
-    a: "The trails have no railings and can get slippery, especially after rain. Wear grippy closed-toe shoes and avoid narrow outer ledges if you're unsteady on your feet."
-  - q: "What's nearby if I want to make a half-day of it?"
-    a: "The Land Split (Pai Kong Yao) and Pai's hot springs are both a short ride from the canyon on the same road, and are commonly combined into one trip."
+  - q: How do I get to Pai Canyon without my own scooter?
+    a: Book a songthaew or minivan tour from Pai town — many combine it with the Land Split and nearby hot springs. There's no public bus route directly to the site.
+  - q: How long should I spend at Pai Canyon?
+    a: Plan on 1 to 2 hours to walk the main ridge trails and find a good viewpoint, longer if you're staying for sunset.
+  - q: When is Pai Canyon least crowded?
+    a: Weekdays 7am–11am and weekends 7am–10am are the quietest windows. Avoid 4pm–7pm on weekends, when sunset crowds pack the narrow ridges.
+  - q: Is Pai Canyon safe to hike?
+    a: The trails have no railings and can get slippery, especially after rain. Wear grippy closed-toe shoes and avoid narrow outer ledges if you're unsteady on your feet.
+  - q: What's nearby if I want to make a half-day of it?
+    a: The Land Split (Pai Kong Yao) and Pai's hot springs are both a short ride from the canyon on the same road, and are commonly combined into one trip.
 aiGenerated: true
 draft: false
 ---

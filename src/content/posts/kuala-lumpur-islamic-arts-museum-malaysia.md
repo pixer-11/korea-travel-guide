@@ -1,44 +1,44 @@
 ---
-title: "Islamic Arts Museum Malaysia: Kuala Lumpur Travel Guide"
-description: "The Islamic Arts Museum Malaysia sits in the Perdana Botanical Gardens area of Kuala Lumpur, open daily 9:30am–6pm. 4.7★ (5,949 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuala Lumpur"
-category: "attraction"
-pubDate: "2026-08-19T09:29:17.020Z"
+title: 'Islamic Arts Museum Malaysia: Kuala Lumpur Travel Guide'
+description: The Islamic Arts Museum Malaysia sits in the Perdana Botanical Gardens area of Kuala Lumpur, open daily 9:30am–6pm. 4.7★ (5,949 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kuala Lumpur
+category: attraction
+pubDate: '2026-08-19T09:29:17.020Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/88/Islamic_Arts_Museum_Malaysia_Exterior_%28May_2022%29_-_img_02.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Islamic_Arts_Museum_Malaysia_Exterior_(May_2022)_-_img_02.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Islamic_Arts_Museum_Malaysia_Exterior_%28May_2022%29_-_img_02.jpg/1280px-Islamic_Arts_Museum_Malaysia_Exterior_%28May_2022%29_-_img_02.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Islamic_Arts_Museum_Malaysia_Exterior_(May_2022)_-_img_02.jpg
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg/3840px-Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg/3840px-Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Islamic-Arts-Museum-01.jpg
 place:
-  id: "ChIJq6qqqslJzDERi7V1y0B-5Xw"
-  name: "Islamic Arts Museum Malaysia"
-  address: "Islamic Arts Museum Malaysia, Jalan Lembah, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  id: ChIJq6qqqslJzDERi7V1y0B-5Xw
+  name: Islamic Arts Museum Malaysia
+  address: Islamic Arts Museum Malaysia, Jalan Lembah, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia
   rating: 4.7
   userRatingsTotal: 5949
-  googleMapsUrl: "https://maps.google.com/?cid=8999738247126300043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8999738247126300043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.1418458
   lng: 101.68999919999999
-  phone: "+60 3-2092 7070"
+  phone: +60 3-2092 7070
   openingHours:
-    - "Monday: 9:30 AM – 6:00 PM"
-    - "Tuesday: 9:30 AM – 6:00 PM"
-    - "Wednesday: 9:30 AM – 6:00 PM"
-    - "Thursday: 9:30 AM – 6:00 PM"
-    - "Friday: 9:30 AM – 6:00 PM"
-    - "Saturday: 9:30 AM – 6:00 PM"
-    - "Sunday: 9:30 AM – 6:00 PM"
+    - 'Monday: 9:30 AM – 6:00 PM'
+    - 'Tuesday: 9:30 AM – 6:00 PM'
+    - 'Wednesday: 9:30 AM – 6:00 PM'
+    - 'Thursday: 9:30 AM – 6:00 PM'
+    - 'Friday: 9:30 AM – 6:00 PM'
+    - 'Saturday: 9:30 AM – 6:00 PM'
+    - 'Sunday: 9:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekdayBusy:
@@ -46,22 +46,22 @@ place:
     weekendQuiet:
       - 10
       - 17
-    venueId: "ven_7758352d423079315637695245447a4a6c7371717136714a496843"
+    venueId: ven_7758352d423079315637695245447a4a6c7371717136714a496843
 tags:
-  - "kuala lumpur"
-  - "museum"
-quickAnswer: "The Islamic Arts Museum Malaysia sits in the Perdana Botanical Gardens area of Kuala Lumpur, open daily 9:30am–6pm. Weekends are quiet nearly all day (10am–6pm), while on weekdays the calmest window is 5pm–6pm right before closing. Budget two to three hours, and pair it with a walk through the neighboring gardens or the nearby National Mosque."
+  - kuala lumpur
+  - museum
+quickAnswer: The Islamic Arts Museum Malaysia sits in the Perdana Botanical Gardens area of Kuala Lumpur, open daily 9:30am–6pm. Weekends are quiet nearly all day (10am–6pm), while on weekdays the calmest window is 5pm–6pm right before closing. Budget two to three hours, and pair it with a walk through the neighboring gardens or the nearby National Mosque.
 faq:
-  - q: "How much time should I budget for the Islamic Arts Museum Malaysia?"
-    a: "Plan on two to three hours to see the twelve permanent galleries properly, plus extra time if you want lunch at the on-site restaurant, Aromas of Damascus."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, 5pm–6pm right before closing is calmest. On weekends, the museum stays comparatively quiet almost all day, from 10am to 6pm."
-  - q: "How do I get to the museum without a car?"
-    a: "Take the LRT or KTM to Pasar Seni or KL Sentral, then a short Grab or taxi ride into the Perdana Botanical Gardens where the museum is located on Jalan Lembah."
-  - q: "Is the museum open every day?"
-    a: "Yes, it's open daily from 9:30am to 6pm with no weekly closing day, so it's easy to fit into any KL itinerary."
-  - q: "What else is nearby worth combining with the visit?"
-    a: "The National Mosque (Masjid Negara) and KL Bird Park are both a walk away through the Perdana Botanical Gardens, making for a full half-day outing."
+  - q: How much time should I budget for the Islamic Arts Museum Malaysia?
+    a: Plan on two to three hours to see the twelve permanent galleries properly, plus extra time if you want lunch at the on-site restaurant, Aromas of Damascus.
+  - q: When is the quietest time to visit?
+    a: On weekdays, 5pm–6pm right before closing is calmest. On weekends, the museum stays comparatively quiet almost all day, from 10am to 6pm.
+  - q: How do I get to the museum without a car?
+    a: Take the LRT or KTM to Pasar Seni or KL Sentral, then a short Grab or taxi ride into the Perdana Botanical Gardens where the museum is located on Jalan Lembah.
+  - q: Is the museum open every day?
+    a: Yes, it's open daily from 9:30am to 6pm with no weekly closing day, so it's easy to fit into any KL itinerary.
+  - q: What else is nearby worth combining with the visit?
+    a: The National Mosque (Masjid Negara) and KL Bird Park are both a walk away through the Perdana Botanical Gardens, making for a full half-day outing.
 aiGenerated: true
 draft: false
 ---

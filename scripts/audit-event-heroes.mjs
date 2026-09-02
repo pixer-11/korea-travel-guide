@@ -61,7 +61,7 @@ for (const f of files) {
     ok++;
     console.log(`  ✓ ${slug}: MATCH (event-mode)`);
     if (!DRY) store[key] = { slug, verdict: 'MATCH', reason: `event-mode back-audit: ${v.reason || 'accepted'}`, at: new Date().toISOString() };
-  } else if (/no-api-key|image unusable|api/i.test(v.reason || '')) {
+  } else if (/vision unavailable|no-api-key|vision check failed/i.test(v.reason || '')) {
     // Transport failure, not a judgement — do not store, do not strip.
     failed++;
     console.log(`  ⚠️  ${slug}: ${v.reason}`);

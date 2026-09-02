@@ -1,48 +1,48 @@
 ---
-title: "Casco Histórico De Santiago de Compostela: Travel Guide"
-description: "Santiago's Casco Histórico is the granite old town wrapped around the cathedral — a UNESCO-listed maze of arcaded streets, pilgrim squares and hidden cloisters best explored on foot in a half-day. 4.8★ (111 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Santiago de Compostela"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:04:31.685Z"
+title: 'Casco Histórico De Santiago de Compostela: Travel Guide'
+description: Santiago's Casco Histórico is the granite old town wrapped around the cathedral — a UNESCO-listed maze of arcaded streets, pilgrim squares and hidden cloisters best explored on foot in a half-day. 4.8★ (111 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Santiago de Compostela
+category: hidden-gem
+pubDate: '2026-08-18T08:04:31.685Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg/3840px-Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg"
-  credit: "Photo: D.Rovchak / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Casco_hist%C3%B3rico_de_Santiago_de_Compostela,_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg/3840px-Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg
+  credit: 'Photo: D.Rovchak / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Casco_hist%C3%B3rico_de_Santiago_de_Compostela,_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg
   focus:
     x: 68
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/60/Santiago_de_Compostela_a_vista_de_paxaro.jpg"
-    credit: "Photo: User:Iago Pillado / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Santiago_de_Compostela_a_vista_de_paxaro.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Santiago_de_Compostela_a_vista_de_paxaro.jpg/1920px-Santiago_de_Compostela_a_vista_de_paxaro.jpg
+    credit: 'Photo: User:Iago Pillado / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Santiago_de_Compostela_a_vista_de_paxaro.jpg
 place:
-  id: "ChIJM1xiDAD_Lg0RjIaFpikgjVs"
-  name: "Casco Histórico De Santiago de Compostela"
-  address: "Rúa do Franco, 15702 Santiago de Compostela, A Coruña, Spain"
+  id: ChIJM1xiDAD_Lg0RjIaFpikgjVs
+  name: Casco Histórico De Santiago de Compostela
+  address: Rúa do Franco, 15702 Santiago de Compostela, A Coruña, Spain
   rating: 4.8
   userRatingsTotal: 111
-  googleMapsUrl: "https://maps.google.com/?cid=6596964392427161228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6596964392427161228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.8796871
   lng: -8.5450874
 tags:
-  - "santiago de compostela"
-  - "hidden gem"
-quickAnswer: "Santiago's Casco Histórico is the granite old town wrapped around the cathedral — a UNESCO-listed maze of arcaded streets, pilgrim squares and hidden cloisters best explored on foot in a half-day. Skip the midday tour-bus crush around the cathedral and wander the side lanes off Rúa do Franco early morning or after dinner, when the stone glows under streetlamps and it's just you and the odd pilgrim."
+  - santiago de compostela
+  - hidden gem
+quickAnswer: Santiago's Casco Histórico is the granite old town wrapped around the cathedral — a UNESCO-listed maze of arcaded streets, pilgrim squares and hidden cloisters best explored on foot in a half-day. Skip the midday tour-bus crush around the cathedral and wander the side lanes off Rúa do Franco early morning or after dinner, when the stone glows under streetlamps and it's just you and the odd pilgrim.
 faq:
-  - q: "How do I get to the Casco Histórico from the Santiago train or bus station?"
-    a: "It's about a 15–20 minute walk uphill into the old town; taxis are also readily available outside both stations if you'd rather not walk with luggage."
-  - q: "Is there an entrance fee for the historic center?"
-    a: "No, the Casco Histórico itself is a free, open neighborhood. Individual sites inside it, like the cathedral museum, may charge separate admission — check current prices before visiting."
-  - q: "When is the quietest time to explore?"
-    a: "Early morning before 10am and after dinner past 8pm are calmest; midday sees the heaviest tour-bus and pilgrim traffic around the cathedral squares."
-  - q: "How much time should I budget?"
-    a: "A half-day is enough to wander the main squares and streets; a full day lets you add the market, a leisurely lunch, and side chapels without rushing."
-  - q: "What's the best time of year to visit?"
-    a: "Late spring (May–June) and early autumn (September) bring milder weather and fewer crowds than the summer peak Camino season."
+  - q: How do I get to the Casco Histórico from the Santiago train or bus station?
+    a: It's about a 15–20 minute walk uphill into the old town; taxis are also readily available outside both stations if you'd rather not walk with luggage.
+  - q: Is there an entrance fee for the historic center?
+    a: No, the Casco Histórico itself is a free, open neighborhood. Individual sites inside it, like the cathedral museum, may charge separate admission — check current prices before visiting.
+  - q: When is the quietest time to explore?
+    a: Early morning before 10am and after dinner past 8pm are calmest; midday sees the heaviest tour-bus and pilgrim traffic around the cathedral squares.
+  - q: How much time should I budget?
+    a: A half-day is enough to wander the main squares and streets; a full day lets you add the market, a leisurely lunch, and side chapels without rushing.
+  - q: What's the best time of year to visit?
+    a: Late spring (May–June) and early autumn (September) bring milder weather and fewer crowds than the summer peak Camino season.
 aiGenerated: true
 draft: false
 ---

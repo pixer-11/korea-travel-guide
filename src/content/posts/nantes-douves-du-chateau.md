@@ -1,58 +1,58 @@
 ---
-title: "Douves du Château: Nantes Travel Guide (4.5★)"
-description: "The Douves du Château are the grassy moats ringing the Château des Ducs de Bretagne in central Nantes, open daily 8:30 AM–7:00 PM and free to walk. 4.5★ (369 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Nantes"
-category: "hidden-gem"
-pubDate: "2026-08-24T08:13:56.383Z"
+title: 'Douves du Château: Nantes Travel Guide (4.5★)'
+description: The Douves du Château are the grassy moats ringing the Château des Ducs de Bretagne in central Nantes, open daily 8:30 AM–7:00 PM and free to walk. 4.5★ (369 reviews) — what visitors say, hours, and tips.
+country: France
+region: Nantes
+category: hidden-gem
+pubDate: '2026-08-24T08:13:56.383Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jardin_des_douves_du_Ch%C3%A2teau.jpg/3840px-Jardin_des_douves_du_Ch%C3%A2teau.jpg"
-  credit: "Photo: Kalepom / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jardin_des_douves_du_Ch%C3%A2teau.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jardin_des_douves_du_Ch%C3%A2teau.jpg/3840px-Jardin_des_douves_du_Ch%C3%A2teau.jpg
+  credit: 'Photo: Kalepom / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jardin_des_douves_du_Ch%C3%A2teau.jpg
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nantes_-_rempart_sud_du_ch%C3%A2teau.jpg"
-    credit: "Photo: Eusebius / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nantes_-_rempart_sud_du_ch%C3%A2teau.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nantes_-_rempart_sud_du_ch%C3%A2teau.jpg/1920px-Nantes_-_rempart_sud_du_ch%C3%A2teau.jpg
+    credit: 'Photo: Eusebius / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Nantes_-_rempart_sud_du_ch%C3%A2teau.jpg
 place:
-  id: "ChIJox9rL7vuBUgRN2zaYYAEvWI"
-  name: "Douves du Château"
-  address: "4 Pl. Marc Elder, 44000 Nantes, France"
+  id: ChIJox9rL7vuBUgRN2zaYYAEvWI
+  name: Douves du Château
+  address: 4 Pl. Marc Elder, 44000 Nantes, France
   rating: 4.5
   userRatingsTotal: 369
-  googleMapsUrl: "https://maps.google.com/?cid=7114847935759281207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7114847935759281207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.2156944
   lng: -1.5501152999999999
-  phone: "+33 2 51 17 49 48"
+  phone: +33 2 51 17 49 48
   openingHours:
-    - "Monday: 8:30 AM – 7:00 PM"
-    - "Tuesday: 8:30 AM – 7:00 PM"
-    - "Wednesday: 8:30 AM – 7:00 PM"
-    - "Thursday: 8:30 AM – 7:00 PM"
-    - "Friday: 8:30 AM – 7:00 PM"
-    - "Saturday: 8:30 AM – 7:00 PM"
-    - "Sunday: 8:30 AM – 7:00 PM"
+    - 'Monday: 8:30 AM – 7:00 PM'
+    - 'Tuesday: 8:30 AM – 7:00 PM'
+    - 'Wednesday: 8:30 AM – 7:00 PM'
+    - 'Thursday: 8:30 AM – 7:00 PM'
+    - 'Friday: 8:30 AM – 7:00 PM'
+    - 'Saturday: 8:30 AM – 7:00 PM'
+    - 'Sunday: 8:30 AM – 7:00 PM'
 tags:
-  - "nantes"
-  - "hidden gem"
-quickAnswer: "The Douves du Château are the grassy moats ringing the Château des Ducs de Bretagne in central Nantes, open daily 8:30 AM–7:00 PM and free to walk. They're an under-the-radar way to see the castle's ramparts without paying for the museum inside, and are calmest early morning before the courtyard fills. Give it 20-30 minutes as a loop, or longer if you linger on the grass."
+  - nantes
+  - hidden gem
+quickAnswer: The Douves du Château are the grassy moats ringing the Château des Ducs de Bretagne in central Nantes, open daily 8:30 AM–7:00 PM and free to walk. They're an under-the-radar way to see the castle's ramparts without paying for the museum inside, and are calmest early morning before the courtyard fills. Give it 20-30 minutes as a loop, or longer if you linger on the grass.
 faq:
-  - q: "Is it free to visit the Douves du Château?"
-    a: "Yes. The moat itself is open public space with no admission fee — only the château's interior museum and towers require a ticket."
-  - q: "What are the opening hours?"
-    a: "The Douves du Château are open daily from 8:30 AM to 7:00 PM, matching the château grounds' schedule."
-  - q: "How do I get to Douves du Château?"
-    a: "The entrance is at 4 Place Marc Elder in central Nantes, an easy walk from Place du Commerce and reachable by tram into the city centre."
-  - q: "How long should I spend there?"
-    a: "A full loop of the moat paths takes about 20-30 minutes; allow longer if you plan to sit on the lawns or combine it with the château courtyard."
-  - q: "When is the best time to avoid crowds?"
-    a: "Weekday mornings, shortly after the 8:30 AM opening, are the quietest — weekend afternoons see the most visitors around the courtyard and main paths."
+  - q: Is it free to visit the Douves du Château?
+    a: Yes. The moat itself is open public space with no admission fee — only the château's interior museum and towers require a ticket.
+  - q: What are the opening hours?
+    a: The Douves du Château are open daily from 8:30 AM to 7:00 PM, matching the château grounds' schedule.
+  - q: How do I get to Douves du Château?
+    a: The entrance is at 4 Place Marc Elder in central Nantes, an easy walk from Place du Commerce and reachable by tram into the city centre.
+  - q: How long should I spend there?
+    a: A full loop of the moat paths takes about 20-30 minutes; allow longer if you plan to sit on the lawns or combine it with the château courtyard.
+  - q: When is the best time to avoid crowds?
+    a: Weekday mornings, shortly after the 8:30 AM opening, are the quietest — weekend afternoons see the most visitors around the courtyard and main paths.
 aiGenerated: true
 draft: false
 ---

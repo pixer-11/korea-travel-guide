@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/8/8e/20240729_Zhanqiao_01.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20240729_Zhanqiao_01.jpg/1280px-20240729_Zhanqiao_01.jpg
     credit: 'Photo: Windmemories / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:20240729_Zhanqiao_01.jpg

@@ -1,37 +1,30 @@
 ---
 title: 'Bolo Hauz Mosque: Bukhara Travel Guide (4.8★)'
-description: >-
-  Bolo Hauz Mosque sits on the northwestern edge of Bukhara's Ark fortress,
-  facing a long stone pool that gives the site its name ("bolo hauz" means "by
-  the pool"). 4.8★ (872 reviews) — what visitors say, hours, and tips.
+description: Bolo Hauz Mosque sits on the northwestern edge of Bukhara's Ark fortress, facing a long stone pool that gives the site its name ("bolo hauz" means "by the pool"). 4.8★ (872 reviews) — what visitors say, hours, and tips.
 country: Uzbekistan
 region: Bukhara
 category: attraction
 pubDate: '2026-08-20T09:22:42.088Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/f/f7/Bukhara_Bolo_Haouz_mosque_1.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bukhara_Bolo_Haouz_mosque_1.jpg/1920px-Bukhara_Bolo_Haouz_mosque_1.jpg
   credit: 'Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Bukhara_Bolo_Haouz_mosque_1.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Bukhara_Bolo_Haouz_mosque_1.jpg
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/a/a9/Bolo_Hauz_Mosque%2C_Bukhara_%28483844%29_%282%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bolo_Hauz_Mosque%2C_Bukhara_%28483844%29_%282%29.jpg/1280px-Bolo_Hauz_Mosque%2C_Bukhara_%28483844%29_%282%29.jpg
     credit: 'Photo: upyernoz from Haverford, USA / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Bolo_Hauz_Mosque,_Bukhara_(483844)_(2).jpg
+    source: https://commons.wikimedia.org/wiki/File:Bolo_Hauz_Mosque,_Bukhara_(483844)_(2).jpg
 place:
   id: ChIJf1IpkJ8IUD8RZi2aRIW_enA
   name: Bolo Hauz Mosque
-  address: 'QCH4+4W3, Bukhara, Bukhara Region, Uzbekistan'
+  address: QCH4+4W3, Bukhara, Bukhara Region, Uzbekistan
   rating: 4.8
   userRatingsTotal: 872
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=8105001058509139302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=8105001058509139302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.7777531
   lng: 64.40728659999999
@@ -60,37 +53,18 @@ place:
 tags:
   - bukhara
   - Bolo Hauz Mosque
-quickAnswer: >-
-  Bolo Hauz Mosque sits on the northwestern edge of Bukhara's Ark fortress,
-  facing a long stone pool that gives the site its name ("bolo hauz" means "by
-  the pool"). It's a working mosque, not a museum, so dress modestly and expect
-  prayer times to shape your visit. Go early — weekdays 7-10am or weekends
-  7-11am are quietest — and pair it with the Ark fortress just across the
-  square.
+quickAnswer: Bolo Hauz Mosque sits on the northwestern edge of Bukhara's Ark fortress, facing a long stone pool that gives the site its name ("bolo hauz" means "by the pool"). It's a working mosque, not a museum, so dress modestly and expect prayer times to shape your visit. Go early — weekdays 7-10am or weekends 7-11am are quietest — and pair it with the Ark fortress just across the square.
 faq:
   - q: How do I get to Bolo Hauz Mosque?
-    a: >-
-      It's a 15-20 minute walk from Lyabi Hauz plaza in central Bukhara, right
-      beside the Ark fortress. Taxis and local tuk-tuks also serve this part of
-      the old city.
+    a: It's a 15-20 minute walk from Lyabi Hauz plaza in central Bukhara, right beside the Ark fortress. Taxis and local tuk-tuks also serve this part of the old city.
   - q: What are the opening hours?
-    a: >-
-      Most days it's open 4:30am to 9:30pm; Mondays it opens later, at 10am.
-      Hours can shift around holidays, so it's worth a quick check before you
-      go.
+    a: Most days it's open 4:30am to 9:30pm; Mondays it opens later, at 10am. Hours can shift around holidays, so it's worth a quick check before you go.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 7am and 10am, or 7am to 11am on weekends. Arriving in
-      this window means fewer people around the columns and pool.
+    a: Weekdays between 7am and 10am, or 7am to 11am on weekends. Arriving in this window means fewer people around the columns and pool.
   - q: Is there an entrance fee?
-    a: >-
-      Unlike the Ark or Poi Kalyan, Bolo Hauz typically has no formal ticket
-      booth — a donation box near the entrance is the usual way to contribute.
+    a: Unlike the Ark or Poi Kalyan, Bolo Hauz typically has no formal ticket booth — a donation box near the entrance is the usual way to contribute.
   - q: How long should I spend there?
-    a: >-
-      20 to 30 minutes is enough to see the courtyard, columns, and mihrab
-      tilework without rushing. It pairs easily with a longer visit to the Ark
-      next door.
+    a: 20 to 30 minutes is enough to see the courtyard, columns, and mihrab tilework without rushing. It pairs easily with a longer visit to the Ark next door.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'

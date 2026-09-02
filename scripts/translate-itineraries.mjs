@@ -91,7 +91,7 @@ export function stopWhyPairs(itineraryArr) {
 // Throws (never silently coerces) when the model's response doesn't match the
 // source shape 1:1 — same closed-world validation style as
 // build-itineraries.mjs's validateAiOutput.
-export function validateTranslationOutput(out, srcDays, stopSlugs) {
+export function validateTranslationOutput(out, srcDays, stopSlugs, srcFaqCount) {
   if (!out || typeof out !== 'object') throw new Error('model returned no tool_use input');
   if (typeof out.title !== 'string' || !out.title) throw new Error('model output missing title');
   if (typeof out.description !== 'string' || !out.description) throw new Error('model output missing description');
@@ -104,6 +104,13 @@ export function validateTranslationOutput(out, srcDays, stopSlugs) {
     }
   });
   if (!Array.isArray(out.faq)) throw new Error('model output missing faq array');
+  // Count, not just presence: zh/bangkok-3-days shipped 4 FAQs against 5 in
+  // the source (2026-09-02) — the page and its FAQPage schema were each one
+  // answer short, and nothing compared the two.
+  if (typeof srcFaqCount === 'number') {
+    const got = out.faq.filter((f) => f?.q && f?.a).length;
+    if (got !== srcFaqCount) throw new Error(`model returned ${got} faq item(s), expected ${srcFaqCount}`);
+  }
 
   const whys = out.whys && typeof out.whys === 'object' ? out.whys : {};
   const gotSlugs = new Set(Object.keys(whys));
@@ -236,7 +243,7 @@ async function translateOne(langCode, id, data, attempt = 1) {
   });
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   try {
-    validateTranslationOutput(out, data.days, data.stopSlugs);
+    validateTranslationOutput(out, data.days, data.stopSlugs, (data.faq || []).length);
   } catch (e) {
     if (attempt < MAX_ATTEMPTS) {
       console.log(`     ↻ ${langCode}/${id} — ${e.message}, retrying (attempt ${attempt + 1})`);

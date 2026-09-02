@@ -1,44 +1,44 @@
 ---
-title: "National Museum of Marine Biology & Aquarium: Kenting Travel Guide"
-description: "The National Museum of Marine Biology & Aquarium sits in Checheng Township, about a 20-minute drive north of Kenting town, and is open daily 9am–6pm. 4.6★ (45,532 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Kenting"
-category: "attraction"
-pubDate: "2026-08-19T09:02:23.574Z"
+title: 'National Museum of Marine Biology & Aquarium: Kenting Travel Guide'
+description: The National Museum of Marine Biology & Aquarium sits in Checheng Township, about a 20-minute drive north of Kenting town, and is open daily 9am–6pm. 4.6★ (45,532 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Kenting
+category: attraction
+pubDate: '2026-08-19T09:02:23.574Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/65/Pacific_Dabbling_Plaza%2C_National_Museum_of_Marine_Biology_and_Aquarium_20110607.jpg"
-  credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pacific_Dabbling_Plaza,_National_Museum_of_Marine_Biology_and_Aquarium_20110607.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pacific_Dabbling_Plaza%2C_National_Museum_of_Marine_Biology_and_Aquarium_20110607.jpg/1920px-Pacific_Dabbling_Plaza%2C_National_Museum_of_Marine_Biology_and_Aquarium_20110607.jpg
+  credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Pacific_Dabbling_Plaza,_National_Museum_of_Marine_Biology_and_Aquarium_20110607.jpg
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kenting_National_Park_I_Chung_Hu_8.jpg/3840px-Kenting_National_Park_I_Chung_Hu_8.jpg"
-    credit: "Photo: I Chung Hu / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kenting_National_Park_I_Chung_Hu_8.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kenting_National_Park_I_Chung_Hu_8.jpg/3840px-Kenting_National_Park_I_Chung_Hu_8.jpg
+    credit: 'Photo: I Chung Hu / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Kenting_National_Park_I_Chung_Hu_8.jpg
 place:
-  id: "ChIJL-PBocS5cTQRxKGnoxLUwj8"
-  name: "National Museum of Marine Biology & Aquarium"
-  address: "No. 2, Houwan Rd, Checheng Township, Pingtung County, Taiwan 944"
+  id: ChIJL-PBocS5cTQRxKGnoxLUwj8
+  name: National Museum of Marine Biology & Aquarium
+  address: No. 2, Houwan Rd, Checheng Township, Pingtung County, Taiwan 944
   rating: 4.6
   userRatingsTotal: 45532
-  googleMapsUrl: "https://maps.google.com/?cid=4594467746391499204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4594467746391499204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.0460159
   lng: 120.6989058
-  phone: "+886 8 882 5678"
+  phone: +886 8 882 5678
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -54,22 +54,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_386a77554c786f6e474b78525154633553636f42502d4c4a496843"
+    venueId: ven_386a77554c786f6e474b78525154633553636f42502d4c4a496843
 tags:
-  - "kenting"
-  - "museum"
-quickAnswer: "The National Museum of Marine Biology & Aquarium sits in Checheng Township, about a 20-minute drive north of Kenting town, and is open daily 9am–6pm. Budget half a day to see the coral reef tank, the walk-through tunnel and the polar/penguin exhibits properly. Arrive right at 9am or after 5pm to skip the worst of the weekend crush, which peaks 11am–5pm."
+  - kenting
+  - museum
+quickAnswer: The National Museum of Marine Biology & Aquarium sits in Checheng Township, about a 20-minute drive north of Kenting town, and is open daily 9am–6pm. Budget half a day to see the coral reef tank, the walk-through tunnel and the polar/penguin exhibits properly. Arrive right at 9am or after 5pm to skip the worst of the weekend crush, which peaks 11am–5pm.
 faq:
-  - q: "How do I get to the museum without a car?"
-    a: "Direct public transit is limited. Most visitors book a shuttle bus from Kaohsiung High Speed Rail Station or arrange transport from Kenting town, or rent a scooter and drive Highway 26."
-  - q: "How long should I plan to spend there?"
-    a: "Budget 3–4 hours to properly see the three main halls, the underwater tunnel, and catch a 3-D theater show without feeling rushed."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest right around opening at 9am and again after 4pm; weekends get busiest between 11am and 5pm, so plan around that window."
-  - q: "Is it open every day?"
-    a: "Yes, it keeps the same hours daily, 9am to 6pm, with no weekly closing day — though it's worth confirming on the official site before a holiday visit."
-  - q: "What's nearby if I want to combine it with other stops?"
-    a: "It sits about 20 minutes north of Kenting town along the coast road, so many visitors pair it with a beach stop or continue on to Kenting's main strip afterward."
+  - q: How do I get to the museum without a car?
+    a: Direct public transit is limited. Most visitors book a shuttle bus from Kaohsiung High Speed Rail Station or arrange transport from Kenting town, or rent a scooter and drive Highway 26.
+  - q: How long should I plan to spend there?
+    a: Budget 3–4 hours to properly see the three main halls, the underwater tunnel, and catch a 3-D theater show without feeling rushed.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest right around opening at 9am and again after 4pm; weekends get busiest between 11am and 5pm, so plan around that window.
+  - q: Is it open every day?
+    a: Yes, it keeps the same hours daily, 9am to 6pm, with no weekly closing day — though it's worth confirming on the official site before a holiday visit.
+  - q: What's nearby if I want to combine it with other stops?
+    a: It sits about 20 minutes north of Kenting town along the coast road, so many visitors pair it with a beach stop or continue on to Kenting's main strip afterward.
 aiGenerated: true
 draft: false
 ---

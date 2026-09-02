@@ -8,7 +8,7 @@ pubDate: '2026-08-05'
 eventStartDate: '2026-08-16'
 eventEndDate: '2026-08-16'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg/1280px-Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg
   credit: 'Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg

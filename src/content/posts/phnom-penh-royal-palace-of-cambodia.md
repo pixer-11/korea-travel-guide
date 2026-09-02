@@ -1,65 +1,65 @@
 ---
-title: "Royal Palace of Cambodia: Phnom Penh Travel Guide (4.3★)"
-description: "The Royal Palace of Cambodia is open daily from 8am to 5pm; go right at opening, since it's very popular and weekend crowds build fast after 10am. 4.3★ (13,715 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Phnom Penh"
-category: "attraction"
-pubDate: "2026-08-22T09:05:31.462Z"
+title: 'Royal Palace of Cambodia: Phnom Penh Travel Guide (4.3★)'
+description: The Royal Palace of Cambodia is open daily from 8am to 5pm; go right at opening, since it's very popular and weekend crowds build fast after 10am. 4.3★ (13,715 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Phnom Penh
+category: attraction
+pubDate: '2026-08-22T09:05:31.462Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg"
-  credit: "Photo: Jean-Pierre Dalbéra from Paris, France / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Le_Palais_Royal_(Phnom_Penh)_(6997773481).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg/1280px-Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg
+  credit: 'Photo: Jean-Pierre Dalbéra from Paris, France / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Le_Palais_Royal_(Phnom_Penh)_(6997773481).jpg
   focus:
     x: 48
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg/3840px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg"
-    credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Preah_Tineang_Phhochani_(14).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg/3840px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg
+    credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Preah_Tineang_Phhochani_(14).jpg
 place:
-  id: "ChIJ42tqxz1RCTER36bOGZOA8fg"
-  name: "Royal Palace of Cambodia"
-  address: "Samdach Sothearos Blvd (3), Phnom Penh, Cambodia"
+  id: ChIJ42tqxz1RCTER36bOGZOA8fg
+  name: Royal Palace of Cambodia
+  address: Samdach Sothearos Blvd (3), Phnom Penh, Cambodia
   rating: 4.3
   userRatingsTotal: 13715
-  googleMapsUrl: "https://maps.google.com/?cid=17938260160074917599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17938260160074917599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 11.563877000000002
   lng: 104.9312521
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekendQuiet:
       - 8
     weekendBusy:
       - 10
       - 15
       - 16
-    venueId: "ven_676638414f5a474f6236335245544352317a78717432344a496843"
+    venueId: ven_676638414f5a474f6236335245544352317a78717432344a496843
 tags:
-  - "phnom penh"
-  - "Royal Palace"
-quickAnswer: "The Royal Palace of Cambodia is open daily from 8am to 5pm; go right at opening, since it's very popular and weekend crowds build fast after 10am. Budget about 1–1.5 hours for the Throne Hall, Silver Pagoda and palace gardens. Dress modestly — shoulders and knees covered — or you'll be turned away at the gate."
+  - phnom penh
+  - Royal Palace
+quickAnswer: The Royal Palace of Cambodia is open daily from 8am to 5pm; go right at opening, since it's very popular and weekend crowds build fast after 10am. Budget about 1–1.5 hours for the Throne Hall, Silver Pagoda and palace gardens. Dress modestly — shoulders and knees covered — or you'll be turned away at the gate.
 faq:
-  - q: "What are the opening hours?"
-    a: "The Royal Palace is open daily from 8:00 AM to 5:00 PM, including weekends. Last entry is typically before closing, so aim to arrive with at least 1.5 hours to spare."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, the calmest window is 8am–9am, right after opening. Crowds build steadily and peak from 10am to 5pm as tour groups arrive."
-  - q: "How long should I spend at the palace?"
-    a: "Plan on 1 to 1.5 hours to see the Throne Hall, Silver Pagoda, Napoleon III Villa, and gardens at a comfortable pace."
-  - q: "Is there a dress code?"
-    a: "Yes, it's strictly enforced. Shoulders and knees must be covered for both men and women, or you may be denied entry or asked to rent a cover-up at the gate."
-  - q: "What's nearby if I have extra time?"
-    a: "The National Museum of Cambodia is a few minutes' walk north, and Sisowath Quay's riverside promenade and Wat Ounalom pagoda are both within easy walking distance."
+  - q: What are the opening hours?
+    a: The Royal Palace is open daily from 8:00 AM to 5:00 PM, including weekends. Last entry is typically before closing, so aim to arrive with at least 1.5 hours to spare.
+  - q: When is the quietest time to visit?
+    a: On weekends, the calmest window is 8am–9am, right after opening. Crowds build steadily and peak from 10am to 5pm as tour groups arrive.
+  - q: How long should I spend at the palace?
+    a: Plan on 1 to 1.5 hours to see the Throne Hall, Silver Pagoda, Napoleon III Villa, and gardens at a comfortable pace.
+  - q: Is there a dress code?
+    a: Yes, it's strictly enforced. Shoulders and knees must be covered for both men and women, or you may be denied entry or asked to rent a cover-up at the gate.
+  - q: What's nearby if I have extra time?
+    a: The National Museum of Cambodia is a few minutes' walk north, and Sisowath Quay's riverside promenade and Wat Ounalom pagoda are both within easy walking distance.
 aiGenerated: true
 draft: false
 ---

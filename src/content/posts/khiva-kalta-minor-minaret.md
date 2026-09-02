@@ -1,44 +1,44 @@
 ---
-title: "Kalta Minor Minaret: Khiva Travel Guide (4.8★)"
-description: "Kalta Minor is Khiva's stubby, turquoise-tiled minaret in the Ichan-Qala old town, open around the clock and free to view from the street (the small inner square around it has a modest entry fee as part of the Ichan-Qala complex ticket). 4.8★ (1,447 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Khiva"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:14:19.286Z"
+title: 'Kalta Minor Minaret: Khiva Travel Guide (4.8★)'
+description: Kalta Minor is Khiva's stubby, turquoise-tiled minaret in the Ichan-Qala old town, open around the clock and free to view from the street (the small inner square around it has a modest entry fee as part of the Ichan-Qala complex ticket). 4.8★ (1,447 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Khiva
+category: hidden-gem
+pubDate: '2026-08-18T08:14:19.286Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/40/Kalta_Minor_01.jpg"
-  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kalta_Minor_01.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kalta_Minor_01.jpg/1920px-Kalta_Minor_01.jpg
+  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kalta_Minor_01.jpg
   focus:
     x: 75
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Xiva_kalta_minor.jpg"
-    credit: "Photo: The original uploader was Bosinus at German Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Xiva_kalta_minor.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Xiva_kalta_minor.jpg/1920px-Xiva_kalta_minor.jpg
+    credit: 'Photo: The original uploader was Bosinus at German Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Xiva_kalta_minor.jpg
 place:
-  id: "ChIJQcSa_BCk30EREPmupI60JrU"
-  name: "Kalta Minor Minaret"
-  address: "99H5+85H, Khiva, Xorazm Region, Uzbekistan"
+  id: ChIJQcSa_BCk30EREPmupI60JrU
+  name: Kalta Minor Minaret
+  address: 99H5+85H, Khiva, Xorazm Region, Uzbekistan
   rating: 4.8
   userRatingsTotal: 1447
-  googleMapsUrl: "https://maps.google.com/?cid=13053319094721247504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13053319094721247504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.3783226
   lng: 60.35799050000001
-  phone: "+998 62 375 24 55"
+  phone: +998 62 375 24 55
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -66,22 +66,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_55724a30364970756d5045524530336b43425f615363514a496843"
+    venueId: ven_55724a30364970756d5045524530336b43425f615363514a496843
 tags:
-  - "khiva"
-  - "hidden gem"
-quickAnswer: "Kalta Minor is Khiva's stubby, turquoise-tiled minaret in the Ichan-Qala old town, open around the clock and free to view from the street (the small inner square around it has a modest entry fee as part of the Ichan-Qala complex ticket). Go between 7am and 9am, when the courtyard is nearly empty and the low sun catches the tilework, and give it 20-30 minutes before moving on to the rest of the old city."
+  - khiva
+  - hidden gem
+quickAnswer: Kalta Minor is Khiva's stubby, turquoise-tiled minaret in the Ichan-Qala old town, open around the clock and free to view from the street (the small inner square around it has a modest entry fee as part of the Ichan-Qala complex ticket). Go between 7am and 9am, when the courtyard is nearly empty and the low sun catches the tilework, and give it 20-30 minutes before moving on to the rest of the old city.
 faq:
-  - q: "Is Kalta Minor free to visit?"
-    a: "Viewing the minaret from outside is free. A combined Ichan-Qala ticket, bought at booths near the old town's gates, covers entry to paid sites and courtyards nearby — buy it on arrival, not online."
-  - q: "Can you climb Kalta Minor?"
-    a: "No. Construction stopped in 1855 before a staircase or viewing platform was built, so it's a look-but-don't-climb landmark. Islam Khodja Minaret nearby can be climbed instead."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 9am on both weekdays and weekends, before tour groups arrive. Weekends stay busy from 10am until 11pm."
-  - q: "How do I get to Kalta Minor from outside Khiva?"
-    a: "Fly or take the train to Urgench, then a taxi (about 30-35 minutes) to Khiva's West Gate, Ata Darvoza. The minaret is a two-minute walk inside the gate."
-  - q: "How long should I spend there?"
-    a: "20-30 minutes at the minaret itself is enough, but pair it with the adjacent Kunya-Ark citadel and Muhammad Amin Khan Madrasa for a fuller hour, or half a day for the whole old town."
+  - q: Is Kalta Minor free to visit?
+    a: Viewing the minaret from outside is free. A combined Ichan-Qala ticket, bought at booths near the old town's gates, covers entry to paid sites and courtyards nearby — buy it on arrival, not online.
+  - q: Can you climb Kalta Minor?
+    a: No. Construction stopped in 1855 before a staircase or viewing platform was built, so it's a look-but-don't-climb landmark. Islam Khodja Minaret nearby can be climbed instead.
+  - q: When is the quietest time to visit?
+    a: Between 7am and 9am on both weekdays and weekends, before tour groups arrive. Weekends stay busy from 10am until 11pm.
+  - q: How do I get to Kalta Minor from outside Khiva?
+    a: Fly or take the train to Urgench, then a taxi (about 30-35 minutes) to Khiva's West Gate, Ata Darvoza. The minaret is a two-minute walk inside the gate.
+  - q: How long should I spend there?
+    a: 20-30 minutes at the minaret itself is enough, but pair it with the adjacent Kunya-Ark citadel and Muhammad Amin Khan Madrasa for a fuller hour, or half a day for the whole old town.
 aiGenerated: true
 draft: false
 ---

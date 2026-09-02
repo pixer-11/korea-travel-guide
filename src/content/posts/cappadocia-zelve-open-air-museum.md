@@ -1,37 +1,30 @@
 ---
 title: 'Zelve Open Air Museum: Cappadocia Travel Guide (4.7★)'
-description: >-
-  Zelve Open Air Museum, near Avanos in Cappadocia, is a sprawling abandoned
-  cave village of three valleys, occupied by mixed Christian and Muslim
-  communities until 1924. 4.7★ (10,034 reviews) — what visitors say, hours, and
-  tips.
+description: Zelve Open Air Museum, near Avanos in Cappadocia, is a sprawling abandoned cave village of three valleys, occupied by mixed Christian and Muslim communities until 1924. 4.7★ (10,034 reviews) — what visitors say, hours, and tips.
 country: Turkey
 region: Cappadocia
 category: attraction
 pubDate: '2026-08-18T09:03:58.197Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg/3840px-Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg/3840px-Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg
   credit: 'Photo: rheins / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg
+  source: https://commons.wikimedia.org/wiki/File:Zelve_Open_Air_Museum_-_2014.10_-_panoramio.jpg
   focus:
     x: 60
     'y': 45
 gallery:
-  - url: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Zelve_Cappadocia.JPG'
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zelve_Cappadocia.JPG/1920px-Zelve_Cappadocia.JPG
     credit: 'Photo: Noumenon / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Zelve_Cappadocia.JPG'
+    source: https://commons.wikimedia.org/wiki/File:Zelve_Cappadocia.JPG
 place:
   id: ChIJ____v3doKhURDVATlblKsSY
   name: Zelve Open Air Museum
-  address: 'Kume Evleri No:1, 50180 Aktepe/Avanos/Nevşehir, Türkiye'
+  address: Kume Evleri No:1, 50180 Aktepe/Avanos/Nevşehir, Türkiye
   rating: 4.7
   userRatingsTotal: 10034
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=2788091805249523725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=2788091805249523725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 38.6692556
   lng: 34.8633163
@@ -75,35 +68,18 @@ place:
 tags:
   - cappadocia
   - museum
-quickAnswer: >-
-  Zelve Open Air Museum, near Avanos in Cappadocia, is a sprawling abandoned
-  cave village of three valleys, occupied by mixed Christian and Muslim
-  communities until 1924. It's open daily 8am–8pm; weekends get packed 10am–5pm,
-  so aim for early morning or after 5pm for space to breathe. Budget 1.5–2 hours
-  and wear sturdy shoes — this is a scramble, not a stroll.
+quickAnswer: Zelve Open Air Museum, near Avanos in Cappadocia, is a sprawling abandoned cave village of three valleys, occupied by mixed Christian and Muslim communities until 1924. It's open daily 8am–8pm; weekends get packed 10am–5pm, so aim for early morning or after 5pm for space to breathe. Budget 1.5–2 hours and wear sturdy shoes — this is a scramble, not a stroll.
 faq:
   - q: How long should I spend at Zelve Open Air Museum?
-    a: >-
-      Plan for 1.5 to 2 hours. It's a large, uneven site across three valleys,
-      and rushing through in under an hour means missing the tunnel, mosque, and
-      side chapels.
+    a: Plan for 1.5 to 2 hours. It's a large, uneven site across three valleys, and rushing through in under an hour means missing the tunnel, mosque, and side chapels.
   - q: When is the quietest time to visit?
-    a: >-
-      Early morning right at the 8am opening or after 5pm, on any day of the
-      week. Weekends see the heaviest crowds between 10am and 5pm.
+    a: Early morning right at the 8am opening or after 5pm, on any day of the week. Weekends see the heaviest crowds between 10am and 5pm.
   - q: How do I get to Zelve from Göreme or Avanos?
-    a: >-
-      It's about 10km from Göreme and 5km from Avanos. Most visitors come by
-      rental car, taxi, or as a stop on a Cappadocia 'Red Tour' alongside
-      Pasabag and Avanos.
+    a: It's about 10km from Göreme and 5km from Avanos. Most visitors come by rental car, taxi, or as a stop on a Cappadocia 'Red Tour' alongside Pasabag and Avanos.
   - q: Is Zelve included in the Museum Pass Cappadocia?
-    a: >-
-      It's typically covered by the regional museum pass, but pass terms change,
-      so confirm current validity at the ticket booth before relying on it.
+    a: It's typically covered by the regional museum pass, but pass terms change, so confirm current validity at the ticket booth before relying on it.
   - q: What should I wear or bring?
-    a: >-
-      Sturdy closed-toe shoes for scrambling over uneven rock, and a flashlight
-      or phone light for the darker cave interiors and the connecting tunnel.
+    a: Sturdy closed-toe shoes for scrambling over uneven rock, and a flashlight or phone light for the darker cave interiors and the connecting tunnel.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

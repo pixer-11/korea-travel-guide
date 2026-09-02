@@ -1,56 +1,56 @@
 ---
-title: "Al-Bithnah Fort: Fujairah Travel Guide (4.3★)"
-description: "Al-Bithnah Fort is a small 18th-century stone-and-mud-brick fort about 20 minutes inland from Fujairah city, open daily 8am–4pm. 4.3★ (322 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Fujairah"
-category: "attraction"
-pubDate: "2026-08-20T09:36:48.054Z"
+title: 'Al-Bithnah Fort: Fujairah Travel Guide (4.3★)'
+description: Al-Bithnah Fort is a small 18th-century stone-and-mud-brick fort about 20 minutes inland from Fujairah city, open daily 8am–4pm. 4.3★ (322 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Fujairah
+category: attraction
+pubDate: '2026-08-20T09:36:48.054Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg"
-  credit: "Photo: Mike \"fasmike\" Che / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Al_Bithnah_Fort,_Fujairah,_UAE.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg/1920px-Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg
+  credit: 'Photo: Mike "fasmike" Che / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Al_Bithnah_Fort,_Fujairah,_UAE.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fujairah_Fort_Side_View%2C_Fujairah%2C_UAE.jpg"
-    credit: "Photo: Mike Che / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fujairah_Fort_Side_View,_Fujairah,_UAE.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fujairah_Fort_Side_View%2C_Fujairah%2C_UAE.jpg/1920px-Fujairah_Fort_Side_View%2C_Fujairah%2C_UAE.jpg
+    credit: 'Photo: Mike Che / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Fujairah_Fort_Side_View,_Fujairah,_UAE.jpg
 place:
-  id: "ChIJ_WZMMI5U9D4RRJxScks68sI"
-  name: "Al-Bithnah Fort"
-  address: "56PQ+H45 - Al Bithnah - Fujairah - United Arab Emirates"
+  id: ChIJ_WZMMI5U9D4RRJxScks68sI
+  name: Al-Bithnah Fort
+  address: 56PQ+H45 - Al Bithnah - Fujairah - United Arab Emirates
   rating: 4.3
   userRatingsTotal: 322
-  googleMapsUrl: "https://maps.google.com/?cid=14047354283436973124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14047354283436973124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.186389
   lng: 56.2378657
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 4:00 PM"
-    - "Sunday: 8:00 AM – 4:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
 tags:
-  - "fujairah"
-  - "historic site"
-quickAnswer: "Al-Bithnah Fort is a small 18th-century stone-and-mud-brick fort about 20 minutes inland from Fujairah city, open daily 8am–4pm. It takes only 20-30 minutes to see, and since it's rarely crowded, any time in that window works — early morning is best if you want the light and heat on your side. Pair it with the nearby Bithnah archaeological tomb site for a fuller half-day trip."
+  - fujairah
+  - historic site
+quickAnswer: Al-Bithnah Fort is a small 18th-century stone-and-mud-brick fort about 20 minutes inland from Fujairah city, open daily 8am–4pm. It takes only 20-30 minutes to see, and since it's rarely crowded, any time in that window works — early morning is best if you want the light and heat on your side. Pair it with the nearby Bithnah archaeological tomb site for a fuller half-day trip.
 faq:
-  - q: "How long should I spend at Al-Bithnah Fort?"
-    a: "About 20 to 30 minutes is enough to walk the exterior, climb the tower, and take in the wadi views. It's a compact site, not a half-day destination on its own."
-  - q: "What are the opening hours?"
-    a: "The fort is open every day of the week, 8:00 AM to 4:00 PM. Hours are consistent across all seven days, but it's worth confirming before you drive out since schedules can change."
-  - q: "How do I get to Al-Bithnah Fort from Fujairah city?"
-    a: "It's about a 20-minute drive inland along the Wadi Ham road. There's no direct public transit, so a rental car or taxi is the most practical way to get there."
-  - q: "Is Al-Bithnah Fort crowded?"
-    a: "No — it's an under-the-radar site with light foot traffic, so you can visit comfortably at almost any point during opening hours without dealing with crowds."
-  - q: "What else is nearby worth visiting?"
-    a: "The Bithnah archaeological site, home to one of the oldest known tombs in the UAE, is close by and pairs well with the fort for a combined half-day trip."
+  - q: How long should I spend at Al-Bithnah Fort?
+    a: About 20 to 30 minutes is enough to walk the exterior, climb the tower, and take in the wadi views. It's a compact site, not a half-day destination on its own.
+  - q: What are the opening hours?
+    a: The fort is open every day of the week, 8:00 AM to 4:00 PM. Hours are consistent across all seven days, but it's worth confirming before you drive out since schedules can change.
+  - q: How do I get to Al-Bithnah Fort from Fujairah city?
+    a: It's about a 20-minute drive inland along the Wadi Ham road. There's no direct public transit, so a rental car or taxi is the most practical way to get there.
+  - q: Is Al-Bithnah Fort crowded?
+    a: No — it's an under-the-radar site with light foot traffic, so you can visit comfortably at almost any point during opening hours without dealing with crowds.
+  - q: What else is nearby worth visiting?
+    a: The Bithnah archaeological site, home to one of the oldest known tombs in the UAE, is close by and pairs well with the fort for a combined half-day trip.
 aiGenerated: true
 draft: false
 ---

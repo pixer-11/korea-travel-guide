@@ -1,43 +1,43 @@
 ---
-title: "Fort Siloso: Sentosa Travel Guide (4.6★)"
-description: "Fort Siloso, Sentosa's restored World War II coastal fort, sits at the western tip of Siloso Road and is open daily from 9am to 6pm. 4.6★ (2,611 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Sentosa"
-category: "attraction"
-pubDate: "2026-09-01T10:39:39.438Z"
+title: 'Fort Siloso: Sentosa Travel Guide (4.6★)'
+description: Fort Siloso, Sentosa's restored World War II coastal fort, sits at the western tip of Siloso Road and is open daily from 9am to 6pm. 4.6★ (2,611 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Sentosa
+category: attraction
+pubDate: '2026-09-01T10:39:39.438Z'
 heroImage:
-  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Fort_Siloso_entrance.jpg/1920px-Fort_Siloso_entrance.jpg"
-  credit: "Photo: Apetrov09703 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fort_Siloso_entrance.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fort_Siloso_entrance.jpg/1920px-Fort_Siloso_entrance.jpg
+  credit: 'Photo: Apetrov09703 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Fort_Siloso_entrance.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Casemates%2C_Fort_Siloso_Square_%28171549%29.jpg/3840px-Casemates%2C_Fort_Siloso_Square_%28171549%29.jpg"
-    credit: "Photo: Moheen Reeyad / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Casemates,_Fort_Siloso_Square_(171549).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Casemates%2C_Fort_Siloso_Square_%28171549%29.jpg/3840px-Casemates%2C_Fort_Siloso_Square_%28171549%29.jpg
+    credit: 'Photo: Moheen Reeyad / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Casemates,_Fort_Siloso_Square_(171549).jpg
 place:
-  id: "ChIJWbbHWvAb2jERpIJ56UdMj_E"
-  name: "Fort Siloso"
-  address: "Siloso Rd, Singapore 099981"
+  id: ChIJWbbHWvAb2jERpIJ56UdMj_E
+  name: Fort Siloso
+  address: Siloso Rd, Singapore 099981
   rating: 4.6
   userRatingsTotal: 2611
-  googleMapsUrl: "https://maps.google.com/?cid=17406214956553700004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17406214956553700004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.259363
   lng: 103.8086242
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-01
+    updated: 2026-09-01T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 17
@@ -51,22 +51,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_455f6a4d645536354a497052456a3262417657486262574a496843"
+    venueId: ven_455f6a4d645536354a497052456a3262417657486262574a496843
 tags:
-  - "sentosa"
-  - "museum"
-quickAnswer: "Fort Siloso, Sentosa's restored World War II coastal fort, sits at the western tip of Siloso Road and is open daily from 9am to 6pm. It's calmest on weekend mornings between 9am and 11am, so aim for that window if you want the gun batteries and tunnels to yourself. Budget at least two hours to cover the whole site, longer if you're into military history."
+  - sentosa
+  - museum
+quickAnswer: Fort Siloso, Sentosa's restored World War II coastal fort, sits at the western tip of Siloso Road and is open daily from 9am to 6pm. It's calmest on weekend mornings between 9am and 11am, so aim for that window if you want the gun batteries and tunnels to yourself. Budget at least two hours to cover the whole site, longer if you're into military history.
 faq:
-  - q: "How do I get to Fort Siloso?"
-    a: "Take the free Sentosa Bus A to its last stop on Siloso Road, or walk/cycle along the coastal path from Siloso Beach; it's about a 10-15 minute walk from the beach entrance."
-  - q: "How long should I spend at Fort Siloso?"
-    a: "Plan on at least two hours to see the Surrender Chambers, gun batteries, tunnels, and Skywalk without rushing; history buffs often stay closer to three."
-  - q: "When is Fort Siloso least crowded?"
-    a: "Weekdays are quiet throughout the 9am-6pm opening hours. On weekends, arrive between 9am and 11am before tour groups build up; try to avoid the 2pm-6pm stretch."
-  - q: "Is Fort Siloso good for kids?"
-    a: "Yes, the interactive touchscreens, real artillery you can approach, and the Skywalk boardwalk keep most kids engaged, though the Surrender Chambers' wartime themes suit older children better."
-  - q: "What else is near Fort Siloso?"
-    a: "Siloso Beach is a short walk away, and the Sentosa Merlion and cable car station are reachable on the same free shuttle bus route."
+  - q: How do I get to Fort Siloso?
+    a: Take the free Sentosa Bus A to its last stop on Siloso Road, or walk/cycle along the coastal path from Siloso Beach; it's about a 10-15 minute walk from the beach entrance.
+  - q: How long should I spend at Fort Siloso?
+    a: Plan on at least two hours to see the Surrender Chambers, gun batteries, tunnels, and Skywalk without rushing; history buffs often stay closer to three.
+  - q: When is Fort Siloso least crowded?
+    a: Weekdays are quiet throughout the 9am-6pm opening hours. On weekends, arrive between 9am and 11am before tour groups build up; try to avoid the 2pm-6pm stretch.
+  - q: Is Fort Siloso good for kids?
+    a: Yes, the interactive touchscreens, real artillery you can approach, and the Skywalk boardwalk keep most kids engaged, though the Surrender Chambers' wartime themes suit older children better.
+  - q: What else is near Fort Siloso?
+    a: Siloso Beach is a short walk away, and the Sentosa Merlion and cable car station are reachable on the same free shuttle bus route.
 aiGenerated: true
 draft: false
 ---

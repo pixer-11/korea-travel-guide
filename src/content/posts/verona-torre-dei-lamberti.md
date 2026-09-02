@@ -1,44 +1,44 @@
 ---
-title: "Torre dei Lamberti: Verona Travel Guide (4.5★)"
-description: "Torre dei Lamberti is Verona's tallest medieval tower, just off Piazza delle Erbe, with a lift and stairs up to two viewing levels over the terracotta rooftops. 4.5★ (3,954 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Verona"
-category: "attraction"
-pubDate: "2026-08-12T09:31:50.889Z"
+title: 'Torre dei Lamberti: Verona Travel Guide (4.5★)'
+description: Torre dei Lamberti is Verona's tallest medieval tower, just off Piazza delle Erbe, with a lift and stairs up to two viewing levels over the terracotta rooftops. 4.5★ (3,954 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Verona
+category: attraction
+pubDate: '2026-08-12T09:31:50.889Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Torre_dei_Lamberti-Verona.jpg"
-  credit: "Photo: Mauzzan / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Torre_dei_Lamberti-Verona.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torre_dei_Lamberti-Verona.jpg/1920px-Torre_dei_Lamberti-Verona.jpg
+  credit: 'Photo: Mauzzan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Torre_dei_Lamberti-Verona.jpg
   focus:
     x: 50
-    y: 25
+    'y': 25
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Piazza_dei_Signori_%28Verona%29.jpg/3840px-Piazza_dei_Signori_%28Verona%29.jpg"
-    credit: "Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_(Verona).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Piazza_dei_Signori_%28Verona%29.jpg/3840px-Piazza_dei_Signori_%28Verona%29.jpg
+    credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_(Verona).jpg
 place:
-  id: "ChIJCRXDE0lff0cRPlW1idTMXRU"
-  name: "Torre dei Lamberti"
-  address: "Via della Costa, 1, 37121 Verona VR, Italy"
+  id: ChIJCRXDE0lff0cRPlW1idTMXRU
+  name: Torre dei Lamberti
+  address: Via della Costa, 1, 37121 Verona VR, Italy
   rating: 4.5
   userRatingsTotal: 3954
-  googleMapsUrl: "https://maps.google.com/?cid=1539611860846073150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1539611860846073150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.442968799999996
   lng: 10.9977647
-  phone: "+39 045 927 3027"
+  phone: +39 045 927 3027
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 11:00 AM – 7:00 PM"
-    - "Sunday: 11:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendBusy:
@@ -49,22 +49,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_5552584d54646931576c5052633066666c3045445852434a496843"
+    venueId: ven_5552584d54646931576c5052633066666c3045445852434a496843
 tags:
-  - "verona"
-  - "top attraction"
-quickAnswer: "Torre dei Lamberti is Verona's tallest medieval tower, just off Piazza delle Erbe, with a lift and stairs up to two viewing levels over the terracotta rooftops. Go on a weekday between 10am and 11am for the emptiest platform, and avoid weekend afternoons (noon to 7pm), which draw the thickest crowds. Budget about an hour, including the climb and time at the top."
+  - verona
+  - top attraction
+quickAnswer: Torre dei Lamberti is Verona's tallest medieval tower, just off Piazza delle Erbe, with a lift and stairs up to two viewing levels over the terracotta rooftops. Go on a weekday between 10am and 11am for the emptiest platform, and avoid weekend afternoons (noon to 7pm), which draw the thickest crowds. Budget about an hour, including the climb and time at the top.
 faq:
-  - q: "How do I get to Torre dei Lamberti?"
-    a: "It's right off Piazza delle Erbe in Verona's historic centre, reachable on foot from anywhere downtown. From Porta Nuova station, take a bus toward Piazza Bra and walk up pedestrian Via Mazzini into the square."
-  - q: "What are the opening hours?"
-    a: "Monday to Friday it's open 10am–6pm; Saturday and Sunday it opens later but stays open longer, 11am–7pm. Confirm hours before visiting, as museums and towers occasionally adjust seasonal schedules."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and 11am, right after opening, is the calmest window. Avoid weekend afternoons from noon to 7pm, when crowds peak."
-  - q: "How long should I plan for the visit?"
-    a: "Around 45 minutes to an hour, including the climb via lift or stairs and time at the top viewing platform."
-  - q: "Is there a lift, or do I have to climb stairs?"
-    a: "Both options exist. You can take the lift up and the stairs down (or vice versa) to see the narrow window views along the staircase without doing the full climb twice."
+  - q: How do I get to Torre dei Lamberti?
+    a: It's right off Piazza delle Erbe in Verona's historic centre, reachable on foot from anywhere downtown. From Porta Nuova station, take a bus toward Piazza Bra and walk up pedestrian Via Mazzini into the square.
+  - q: What are the opening hours?
+    a: Monday to Friday it's open 10am–6pm; Saturday and Sunday it opens later but stays open longer, 11am–7pm. Confirm hours before visiting, as museums and towers occasionally adjust seasonal schedules.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 10am and 11am, right after opening, is the calmest window. Avoid weekend afternoons from noon to 7pm, when crowds peak.
+  - q: How long should I plan for the visit?
+    a: Around 45 minutes to an hour, including the climb via lift or stairs and time at the top viewing platform.
+  - q: Is there a lift, or do I have to climb stairs?
+    a: Both options exist. You can take the lift up and the stairs down (or vice versa) to see the narrow window views along the staircase without doing the full climb twice.
 aiGenerated: true
 draft: false
 ---

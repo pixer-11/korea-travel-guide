@@ -1,43 +1,43 @@
 ---
-title: "Bukhara Tower: Travel Guide (4.1★)"
-description: "Bukhara Tower is a modern observation/water tower on the edge of the old city, open daily 8am–10pm, and it's the easiest way to see Bukhara's mud-brick skyline and desert horizon from above. 4.1★ (206 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Bukhara"
-category: "hidden-gem"
-pubDate: "2026-08-20T09:17:55.081Z"
+title: 'Bukhara Tower: Travel Guide (4.1★)'
+description: Bukhara Tower is a modern observation/water tower on the edge of the old city, open daily 8am–10pm, and it's the easiest way to see Bukhara's mud-brick skyline and desert horizon from above. 4.1★ (206 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Bukhara
+category: hidden-gem
+pubDate: '2026-08-20T09:17:55.081Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bukhara_Shukhov_Tower_from_the_Ark.jpg"
-  credit: "Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bukhara_Shukhov_Tower_from_the_Ark.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bukhara_Shukhov_Tower_from_the_Ark.jpg/1920px-Bukhara_Shukhov_Tower_from_the_Ark.jpg
+  credit: 'Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bukhara_Shukhov_Tower_from_the_Ark.jpg
   focus:
     x: 47
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/29_Bukhara_Water_Tower_168.jpg/3840px-29_Bukhara_Water_Tower_168.jpg"
-    credit: "Photo: BeshevI / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:29_Bukhara_Water_Tower_168.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/29_Bukhara_Water_Tower_168.jpg/3840px-29_Bukhara_Water_Tower_168.jpg
+    credit: 'Photo: BeshevI / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:29_Bukhara_Water_Tower_168.jpg
 place:
-  id: "ChIJ5V17RyMJUD8RBXYd6NFoFSk"
-  name: "Bukhara Tower"
-  address: "QCH5+59P, Bukhara, Bukhara Region, Uzbekistan"
+  id: ChIJ5V17RyMJUD8RBXYd6NFoFSk
+  name: Bukhara Tower
+  address: QCH5+59P, Bukhara, Bukhara Region, Uzbekistan
   rating: 4.1
   userRatingsTotal: 206
-  googleMapsUrl: "https://maps.google.com/?cid=2960387580817667589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2960387580817667589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.7780767
   lng: 64.40855599999999
   openingHours:
-    - "Monday: 8:00 AM – 10:00 PM"
-    - "Tuesday: 8:00 AM – 10:00 PM"
-    - "Wednesday: 8:00 AM – 10:00 PM"
-    - "Thursday: 8:00 AM – 10:00 PM"
-    - "Friday: 8:00 AM – 10:00 PM"
-    - "Saturday: 8:00 AM – 10:00 PM"
-    - "Sunday: 8:00 AM – 10:00 PM"
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayBusy:
       - 19
     weekendQuiet:
@@ -48,22 +48,22 @@ place:
       - 9
       - 10
       - 16
-    venueId: "ven_6b53466f464e3664595842523844554a4d7952373156354a496843"
+    venueId: ven_6b53466f464e3664595842523844554a4d7952373156354a496843
 tags:
-  - "bukhara"
-  - "hidden gem"
-quickAnswer: "Bukhara Tower is a modern observation/water tower on the edge of the old city, open daily 8am–10pm, and it's the easiest way to see Bukhara's mud-brick skyline and desert horizon from above. Go early — weekends stay calmest from 8–11am before the 9am–5pm crowd window fills in. Budget 45–60 minutes including the ride up and a slow lap of the deck."
+  - bukhara
+  - hidden gem
+quickAnswer: Bukhara Tower is a modern observation/water tower on the edge of the old city, open daily 8am–10pm, and it's the easiest way to see Bukhara's mud-brick skyline and desert horizon from above. Go early — weekends stay calmest from 8–11am before the 9am–5pm crowd window fills in. Budget 45–60 minutes including the ride up and a slow lap of the deck.
 faq:
-  - q: "What are the opening hours for Bukhara Tower?"
-    a: "It's open every day of the week, 8:00 AM to 10:00 PM, with no listed closing day."
-  - q: "When is the quietest time to visit?"
-    a: "On weekends, 8am–11am is calmest. Try to avoid 9am–5pm on Saturdays and Sundays, when it's busiest."
-  - q: "How do I get to Bukhara Tower?"
-    a: "It's about a 15–20 minute walk from central old-city guesthouses, or a short, inexpensive taxi ride to QCH5+59P, Bukhara."
-  - q: "How long should I plan to spend there?"
-    a: "Most visits run 45 minutes to an hour, including time on the viewing platform and getting up and down."
-  - q: "What can I see from the top?"
-    a: "Panoramic views over Bukhara's old city, including the Kalyan Minaret, the Ark Fortress, and the desert horizon beyond the rooftops."
+  - q: What are the opening hours for Bukhara Tower?
+    a: It's open every day of the week, 8:00 AM to 10:00 PM, with no listed closing day.
+  - q: When is the quietest time to visit?
+    a: On weekends, 8am–11am is calmest. Try to avoid 9am–5pm on Saturdays and Sundays, when it's busiest.
+  - q: How do I get to Bukhara Tower?
+    a: It's about a 15–20 minute walk from central old-city guesthouses, or a short, inexpensive taxi ride to QCH5+59P, Bukhara.
+  - q: How long should I plan to spend there?
+    a: Most visits run 45 minutes to an hour, including time on the viewing platform and getting up and down.
+  - q: What can I see from the top?
+    a: Panoramic views over Bukhara's old city, including the Kalyan Minaret, the Ark Fortress, and the desert horizon beyond the rooftops.
 aiGenerated: true
 ---
 

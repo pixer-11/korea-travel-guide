@@ -1,41 +1,41 @@
 ---
-title: "Mui Ne Fishing Village: Travel Guide (4.0★)"
-description: "Mui Ne Fishing Village is a working harbor where hundreds of round, blue basket boats bob at anchor and the day's catch gets hauled ashore, sorted, and sold right on the sand. 4.0★ (3,415 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Mui Ne"
-category: "hidden-gem"
-pubDate: "2026-08-14T09:43:16.760Z"
+title: 'Mui Ne Fishing Village: Travel Guide (4.0★)'
+description: Mui Ne Fishing Village is a working harbor where hundreds of round, blue basket boats bob at anchor and the day's catch gets hauled ashore, sorted, and sold right on the sand. 4.0★ (3,415 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Mui Ne
+category: hidden-gem
+pubDate: '2026-08-14T09:43:16.760Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/56/Mui_Ne_fishing_village.jpg"
-  credit: "Photo: Michel Coutty / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mui_Ne_fishing_village.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mui_Ne_fishing_village.jpg/1920px-Mui_Ne_fishing_village.jpg
+  credit: 'Photo: Michel Coutty / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mui_Ne_fishing_village.jpg
 gallery: []
 place:
-  id: "ChIJCV30U8mPdjERU-pbq4g5q34"
-  name: "Mui Ne Fishing Village"
-  address: "Huỳnh Thúc Kháng, Mũi Né, Bình Thuận, Vietnam"
+  id: ChIJCV30U8mPdjERU-pbq4g5q34
+  name: Mui Ne Fishing Village
+  address: Huỳnh Thúc Kháng, Mũi Né, Bình Thuận, Vietnam
   rating: 4
   userRatingsTotal: 3415
-  googleMapsUrl: "https://maps.google.com/?cid=9127452328949705299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9127452328949705299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.9410098
   lng: 108.27912669999999
 tags:
-  - "mui ne"
-  - "hidden gem"
-quickAnswer: "Mui Ne Fishing Village is a working harbor where hundreds of round, blue basket boats bob at anchor and the day's catch gets hauled ashore, sorted, and sold right on the sand. Go at sunrise, between roughly 5:30am and 7am, when boats return and the market is liveliest. It's free to walk the shoreline; budget 45–60 minutes, more if you eat at a nearby seafood stall."
+  - mui ne
+  - hidden gem
+quickAnswer: Mui Ne Fishing Village is a working harbor where hundreds of round, blue basket boats bob at anchor and the day's catch gets hauled ashore, sorted, and sold right on the sand. Go at sunrise, between roughly 5:30am and 7am, when boats return and the market is liveliest. It's free to walk the shoreline; budget 45–60 minutes, more if you eat at a nearby seafood stall.
 faq:
-  - q: "What time should I arrive at Mui Ne Fishing Village?"
-    a: "Aim for 5:30am–7am, when boats return and the catch is unloaded and sold. By mid-morning the harbor is much quieter and less active."
-  - q: "Is there an entrance fee?"
-    a: "No, walking along the harbor and shoreline is free. You'll only spend money if you buy fresh seafood or eat at one of the nearby stalls."
-  - q: "How do I get there without a tour?"
-    a: "Rent a motorbike or take a taxi to Huỳnh Thúc Kháng street in Mui Ne. It's roughly 10–15 minutes from the main beach road, Nguyen Dinh Chieu."
-  - q: "How long should I spend here?"
-    a: "Plan for 45–60 minutes to walk the harbor and watch the unloading, longer if you stop to eat freshly caught seafood at a stall nearby."
-  - q: "What else can I see nearby?"
-    a: "The Mui Ne sand dunes and Fairy Stream are both a short drive away, making it easy to combine into one morning outing."
+  - q: What time should I arrive at Mui Ne Fishing Village?
+    a: Aim for 5:30am–7am, when boats return and the catch is unloaded and sold. By mid-morning the harbor is much quieter and less active.
+  - q: Is there an entrance fee?
+    a: No, walking along the harbor and shoreline is free. You'll only spend money if you buy fresh seafood or eat at one of the nearby stalls.
+  - q: How do I get there without a tour?
+    a: Rent a motorbike or take a taxi to Huỳnh Thúc Kháng street in Mui Ne. It's roughly 10–15 minutes from the main beach road, Nguyen Dinh Chieu.
+  - q: How long should I spend here?
+    a: Plan for 45–60 minutes to walk the harbor and watch the unloading, longer if you stop to eat freshly caught seafood at a stall nearby.
+  - q: What else can I see nearby?
+    a: The Mui Ne sand dunes and Fairy Stream are both a short drive away, making it easy to combine into one morning outing.
 aiGenerated: true
 draft: false
 ---

@@ -1,38 +1,30 @@
 ---
 title: 'Bamboo Train: Battambang Travel Guide (4.0★)'
-description: >-
-  The Bamboo Train (norry) runs daily 7:30am–5:30pm on a stretch of old rail
-  line just outside Battambang. 4.0★ (1,038 reviews) — what visitors say, hours,
-  and tips.
+description: The Bamboo Train (norry) runs daily 7:30am–5:30pm on a stretch of old rail line just outside Battambang. 4.0★ (1,038 reviews) — what visitors say, hours, and tips.
 country: Cambodia
 region: Battambang
 category: attraction
 pubDate: '2026-08-22T09:06:10.721Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/1/10/Bamboo_railway_at_Battambang_-_panoramio.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bamboo_railway_at_Battambang_-_panoramio.jpg/1920px-Bamboo_railway_at_Battambang_-_panoramio.jpg
   credit: 'Photo: Gonzo Gooner / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Bamboo_railway_at_Battambang_-_panoramio.jpg
+  source: https://commons.wikimedia.org/wiki/File:Bamboo_railway_at_Battambang_-_panoramio.jpg
   focus:
     x: 45
     'y': 45
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/a/a7/Bamboo_Train_in_Battambang_province_-_%28SF%29_0001.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/a/a7/Bamboo_Train_in_Battambang_province_-_%28SF%29_0001.jpg
     credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Bamboo_Train_in_Battambang_province_-_(SF)_0001.jpg
+    source: https://commons.wikimedia.org/wiki/File:Bamboo_Train_in_Battambang_province_-_(SF)_0001.jpg
 place:
   id: ChIJefiKVYxJBTERoa9DvEWmTik
   name: Bamboo Train Battambang
-  address: '3698+JWH, Krong Battambang, Cambodia'
+  address: 3698+JWH, Krong Battambang, Cambodia
   rating: 4
   userRatingsTotal: 1038
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=2976499222179983265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=2976499222179983265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.0690625
   lng: 103.21735939999999
@@ -47,35 +39,18 @@ place:
 tags:
   - battambang
   - Battambang Bamboo Train
-quickAnswer: >-
-  The Bamboo Train (norry) runs daily 7:30am–5:30pm on a stretch of old rail
-  line just outside Battambang. Go in the morning before the heat sets in,
-  expect to pay a per-person fare for the round trip, and budget about an hour
-  to 90 minutes including the stop at the far end. It's rated a solid 4.0
-  despite being a fairly niche, low-key attraction rather than a bucket-list
-  crowd magnet.
+quickAnswer: The Bamboo Train (norry) runs daily 7:30am–5:30pm on a stretch of old rail line just outside Battambang. Go in the morning before the heat sets in, expect to pay a per-person fare for the round trip, and budget about an hour to 90 minutes including the stop at the far end. It's rated a solid 4.0 despite being a fairly niche, low-key attraction rather than a bucket-list crowd magnet.
 faq:
   - q: What are the opening hours for the Bamboo Train?
-    a: >-
-      It runs daily from 7:30am to 5:30pm, with no weekly closing day. Morning
-      visits are best to avoid the midday heat on the open-air platform.
+    a: It runs daily from 7:30am to 5:30pm, with no weekly closing day. Morning visits are best to avoid the midday heat on the open-air platform.
   - q: How do I get to the Bamboo Train from Battambang town?
-    a: >-
-      It's a few kilometers outside the center, typically reached by tuk-tuk,
-      rented motorbike, or as part of a half-day tour that also stops at Phnom
-      Sampov.
+    a: It's a few kilometers outside the center, typically reached by tuk-tuk, rented motorbike, or as part of a half-day tour that also stops at Phnom Sampov.
   - q: How long does the ride take?
-    a: >-
-      Plan on roughly an hour to 90 minutes total, including the ride out, a
-      short stop at the souvenir stalls at the far end, and the ride back.
+    a: Plan on roughly an hour to 90 minutes total, including the ride out, a short stop at the souvenir stalls at the far end, and the ride back.
   - q: Do I need to book in advance?
-    a: >-
-      No booking is needed. You pay cash on arrival and depart when your cart is
-      ready — it's a walk-up, pay-per-person system.
+    a: No booking is needed. You pay cash on arrival and depart when your cart is ready — it's a walk-up, pay-per-person system.
   - q: Is it worth combining with anything else nearby?
-    a: >-
-      Yes — most visitors pair it with Phnom Sampov, home to a bat cave and the
-      killing caves, since both are along the same road out of town.
+    a: Yes — most visitors pair it with Phnom Sampov, home to a bat cave and the killing caves, since both are along the same road out of town.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

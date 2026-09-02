@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/4ae3a059f964a520699721e3
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/8/85/Springs_Preserve_garden_building.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Springs_Preserve_garden_building.jpg/1280px-Springs_Preserve_garden_building.jpg
     credit: 'Photo: Stan Shebs / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Springs_Preserve_garden_building.jpg
@@ -26,7 +26,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.1693608
   lng: -115.1906908
-  phone: '+1 702 822-7700'
+  phone: +1 702 822-7700
   openingHours:
     - 'Monday: 9:00 AM – 4:00 PM'
     - 'Tuesday: Closed'

@@ -1,57 +1,57 @@
 ---
-title: "Ayala Triangle Gardens: Manila Travel Guide (4.6★)"
-description: "Ayala Triangle Gardens is a triangle-shaped green pocket in the heart of Makati's business district, open daily 6am–10pm, best visited early morning for jogging paths free of crowds or evening for the tree-lit walkways. 4.6★ (11,877 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Manila"
-category: "attraction"
-pubDate: "2026-08-20T08:59:33.124Z"
+title: 'Ayala Triangle Gardens: Manila Travel Guide (4.6★)'
+description: Ayala Triangle Gardens is a triangle-shaped green pocket in the heart of Makati's business district, open daily 6am–10pm, best visited early morning for jogging paths free of crowds or evening for the tree-lit walkways. 4.6★ (11,877 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Manila
+category: attraction
+pubDate: '2026-08-20T08:59:33.124Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/McMicking_Memorial_%26_Courtyard%2C_Ayala_Center%2C_Makati_City.jpg/1920px-McMicking_Memorial_%26_Courtyard%2C_Ayala_Center%2C_Makati_City.jpg"
-  credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:McMicking_Memorial_%26_Courtyard,_Ayala_Center,_Makati_City.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/McMicking_Memorial_%26_Courtyard%2C_Ayala_Center%2C_Makati_City.jpg/1920px-McMicking_Memorial_%26_Courtyard%2C_Ayala_Center%2C_Makati_City.jpg
+  credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:McMicking_Memorial_%26_Courtyard,_Ayala_Center,_Makati_City.jpg
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ayala_Triangle_Gardens.jpg"
-    credit: "Photo: RioHondo (talk) (Uploads) / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ayala_Triangle_Gardens.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ayala_Triangle_Gardens.jpg/1920px-Ayala_Triangle_Gardens.jpg
+    credit: 'Photo: RioHondo (talk) (Uploads) / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ayala_Triangle_Gardens.jpg
 place:
-  id: "ChIJ3-hTyQXJlzMRqx3zTd460NM"
-  name: "Ayala Triangle Gardens"
-  address: "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines"
+  id: ChIJ3-hTyQXJlzMRqx3zTd460NM
+  name: Ayala Triangle Gardens
+  address: Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines
   rating: 4.6
   userRatingsTotal: 11877
-  googleMapsUrl: "https://maps.google.com/?cid=15262763863623540139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15262763863623540139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.5570493
   lng: 121.0244961
-  phone: "+63 2 7908 3000"
+  phone: +63 2 7908 3000
   openingHours:
-    - "Monday: 6:00 AM – 10:00 PM"
-    - "Tuesday: 6:00 AM – 10:00 PM"
-    - "Wednesday: 6:00 AM – 10:00 PM"
-    - "Thursday: 6:00 AM – 10:00 PM"
-    - "Friday: 6:00 AM – 10:00 PM"
-    - "Saturday: 6:00 AM – 10:00 PM"
-    - "Sunday: 6:00 AM – 10:00 PM"
+    - 'Monday: 6:00 AM – 10:00 PM'
+    - 'Tuesday: 6:00 AM – 10:00 PM'
+    - 'Wednesday: 6:00 AM – 10:00 PM'
+    - 'Thursday: 6:00 AM – 10:00 PM'
+    - 'Friday: 6:00 AM – 10:00 PM'
+    - 'Saturday: 6:00 AM – 10:00 PM'
+    - 'Sunday: 6:00 AM – 10:00 PM'
 tags:
-  - "manila"
-  - "park"
-quickAnswer: "Ayala Triangle Gardens is a triangle-shaped green pocket in the heart of Makati's business district, open daily 6am–10pm, best visited early morning for jogging paths free of crowds or evening for the tree-lit walkways. It's well-visited, so aim for weekday mornings or after 8pm to skip the after-work rush. Entry is free and it takes 30–60 minutes to stroll fully."
+  - manila
+  - park
+quickAnswer: Ayala Triangle Gardens is a triangle-shaped green pocket in the heart of Makati's business district, open daily 6am–10pm, best visited early morning for jogging paths free of crowds or evening for the tree-lit walkways. It's well-visited, so aim for weekday mornings or after 8pm to skip the after-work rush. Entry is free and it takes 30–60 minutes to stroll fully.
 faq:
-  - q: "Is Ayala Triangle Gardens free to visit?"
-    a: "Yes, there's no entrance fee. It's open daily from 6am to 10pm, and you only spend money if you buy from the surrounding cafés or food stalls."
-  - q: "How do I get to Ayala Triangle Gardens by public transport?"
-    a: "Take the MRT-3 to Ayala Station, which connects via an elevated walkway directly into the Ayala Triangle business district — a short walk from the park entrances."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Early morning right after the 6am opening is calmest. Weekday evenings between about 5:30pm and 8pm draw the biggest after-work jogging and walking crowds."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend 30 to 60 minutes walking the full loop and pausing at the art installations or a café along the edge."
-  - q: "Is the Christmas light show always on?"
-    a: "No, it's a seasonal feature typically run in the evenings during the Christmas period, not year-round, so check current dates before planning a night visit around it."
+  - q: Is Ayala Triangle Gardens free to visit?
+    a: Yes, there's no entrance fee. It's open daily from 6am to 10pm, and you only spend money if you buy from the surrounding cafés or food stalls.
+  - q: How do I get to Ayala Triangle Gardens by public transport?
+    a: Take the MRT-3 to Ayala Station, which connects via an elevated walkway directly into the Ayala Triangle business district — a short walk from the park entrances.
+  - q: When is the best time to visit to avoid crowds?
+    a: Early morning right after the 6am opening is calmest. Weekday evenings between about 5:30pm and 8pm draw the biggest after-work jogging and walking crowds.
+  - q: How long should I spend there?
+    a: Most visitors spend 30 to 60 minutes walking the full loop and pausing at the art installations or a café along the edge.
+  - q: Is the Christmas light show always on?
+    a: No, it's a seasonal feature typically run in the evenings during the Christmas period, not year-round, so check current dates before planning a night visit around it.
 aiGenerated: true
 draft: false
 ---

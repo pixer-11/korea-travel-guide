@@ -1,41 +1,41 @@
 ---
-title: "Erawan National Park: Kanchanaburi Travel Guide (4.6★)"
-description: "Erawan National Park, about two hours from Kanchanaburi town, is famous for its seven-tier turquoise waterfall and swimming pools cut into the limestone forest. 4.6★ (16,630 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Kanchanaburi"
-category: "attraction"
-pubDate: "2026-08-14T08:49:37.436Z"
+title: 'Erawan National Park: Kanchanaburi Travel Guide (4.6★)'
+description: Erawan National Park, about two hours from Kanchanaburi town, is famous for its seven-tier turquoise waterfall and swimming pools cut into the limestone forest. 4.6★ (16,630 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Kanchanaburi
+category: attraction
+pubDate: '2026-08-14T08:49:37.436Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Erawan_Waterfall%2C_Kanchanaburi_Province%2C_Thailand_-_June_2004.jpg/1920px-Erawan_Waterfall%2C_Kanchanaburi_Province%2C_Thailand_-_June_2004.jpg"
-  credit: "Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Erawan_Waterfall,_Kanchanaburi_Province,_Thailand_-_June_2004.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Erawan_Waterfall%2C_Kanchanaburi_Province%2C_Thailand_-_June_2004.jpg/1920px-Erawan_Waterfall%2C_Kanchanaburi_Province%2C_Thailand_-_June_2004.jpg
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Erawan_Waterfall,_Kanchanaburi_Province,_Thailand_-_June_2004.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Erawan_National_Park%2C_Kanchanaburi%2C_Thailand_%28355630091%29.jpg"
-    credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Erawan_National_Park,_Kanchanaburi,_Thailand_(355630091).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Erawan_National_Park%2C_Kanchanaburi%2C_Thailand_%28355630091%29.jpg/1920px-Erawan_National_Park%2C_Kanchanaburi%2C_Thailand_%28355630091%29.jpg
+    credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Erawan_National_Park,_Kanchanaburi,_Thailand_(355630091).jpg
 place:
-  id: "ChIJFXu8H6R25DAResligLqc7lQ"
-  name: "Erawan National Park"
-  address: "94GV+5HW, Tha Kradan, Si Sawat District, Kanchanaburi 71250, Thailand"
+  id: ChIJFXu8H6R25DAResligLqc7lQ
+  name: Erawan National Park
+  address: 94GV+5HW, Tha Kradan, Si Sawat District, Kanchanaburi 71250, Thailand
   rating: 4.6
   userRatingsTotal: 16630
-  googleMapsUrl: "https://maps.google.com/?cid=6120001268474890618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6120001268474890618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.3754962
   lng: 99.1439623
-  phone: "+66 34 574 222"
+  phone: +66 34 574 222
   openingHours:
-    - "Monday: 8:00 AM – 4:30 PM"
-    - "Tuesday: 8:00 AM – 4:30 PM"
-    - "Wednesday: 8:00 AM – 4:30 PM"
-    - "Thursday: 8:00 AM – 4:30 PM"
-    - "Friday: 8:00 AM – 4:30 PM"
-    - "Saturday: 8:00 AM – 4:30 PM"
-    - "Sunday: 8:00 AM – 4:30 PM"
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: 8:00 AM – 4:30 PM'
+    - 'Sunday: 8:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -48,22 +48,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_516c3763714c67696c73655241443532523648387558464a496843"
+    venueId: ven_516c3763714c67696c73655241443532523648387558464a496843
 tags:
-  - "kanchanaburi"
-  - "top attraction"
-quickAnswer: "Erawan National Park, about two hours from Kanchanaburi town, is famous for its seven-tier turquoise waterfall and swimming pools cut into the limestone forest. Arrive right at 8am opening — it's quietest between 8am and 10am, and by mid-morning on weekends (11am–4pm) the lower tiers fill with crowds. Budget a full day: 3-4 hours minimum if you want to hike all seven tiers and swim."
+  - kanchanaburi
+  - top attraction
+quickAnswer: 'Erawan National Park, about two hours from Kanchanaburi town, is famous for its seven-tier turquoise waterfall and swimming pools cut into the limestone forest. Arrive right at 8am opening — it''s quietest between 8am and 10am, and by mid-morning on weekends (11am–4pm) the lower tiers fill with crowds. Budget a full day: 3-4 hours minimum if you want to hike all seven tiers and swim.'
 faq:
-  - q: "How do I get to Erawan National Park from Kanchanaburi town?"
-    a: "It's about 65km, roughly 1.5-2 hours by car, rented scooter, or songthaew from the bus terminal. A private car or tour offers the most flexibility for timing your hike."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 10am, right after opening. Avoid weekends from 11am to 4pm, when crowds peak at the lower tiers."
-  - q: "How long should I plan to spend at the park?"
-    a: "Budget at least 3-4 hours if you want to hike all seven tiers and swim along the way. The park is open 8am to 4:30pm daily."
-  - q: "Is it safe to swim at all seven tiers?"
-    a: "Swimming is allowed at most tiers except where signage restricts it due to slippery rock. Water shoes are strongly recommended, especially for tiers 5 through 7."
-  - q: "What should I bring, and can I pay by card?"
-    a: "Bring cash for the entrance fee and lockers, water shoes, a dry bag, and non-oil-based sunscreen. Card payment is not reliably available this far from town."
+  - q: How do I get to Erawan National Park from Kanchanaburi town?
+    a: It's about 65km, roughly 1.5-2 hours by car, rented scooter, or songthaew from the bus terminal. A private car or tour offers the most flexibility for timing your hike.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest between 8am and 10am, right after opening. Avoid weekends from 11am to 4pm, when crowds peak at the lower tiers.
+  - q: How long should I plan to spend at the park?
+    a: Budget at least 3-4 hours if you want to hike all seven tiers and swim along the way. The park is open 8am to 4:30pm daily.
+  - q: Is it safe to swim at all seven tiers?
+    a: Swimming is allowed at most tiers except where signage restricts it due to slippery rock. Water shoes are strongly recommended, especially for tiers 5 through 7.
+  - q: What should I bring, and can I pay by card?
+    a: Bring cash for the entrance fee and lockers, water shoes, a dry bag, and non-oil-based sunscreen. Card payment is not reliably available this far from town.
 aiGenerated: true
 draft: false
 ---

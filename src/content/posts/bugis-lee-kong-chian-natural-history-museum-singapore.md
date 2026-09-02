@@ -1,20 +1,15 @@
 ---
 title: 'Lee Kong Chian Natural History Museum, Singapore: Bugis Travel Guide'
-description: >-
-  The Lee Kong Chian Natural History Museum sits on the National University of
-  Singapore's Kent Ridge campus, not actually in Bugis proper, so budget time
-  for the trip out. 4.6★ (2,680 reviews) — what visitors say, hours, and tips.
+description: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus, not actually in Bugis proper, so budget time for the trip out. 4.6★ (2,680 reviews) — what visitors say, hours, and tips.
 country: Singapore
 region: Bugis
 category: attraction
 pubDate: '2026-09-01T10:40:49.740Z'
 heroImage:
-  url: >-
-    https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Lee_Kong_Chian_Natural_History_Museum_%28114321%29.jpg/3840px-Lee_Kong_Chian_Natural_History_Museum_%28114321%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lee_Kong_Chian_Natural_History_Museum_%28114321%29.jpg/3840px-Lee_Kong_Chian_Natural_History_Museum_%28114321%29.jpg
   credit: 'Photo: Moheen Reeyad / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Lee_Kong_Chian_Natural_History_Museum_(114321).jpg
+  source: https://commons.wikimedia.org/wiki/File:Lee_Kong_Chian_Natural_History_Museum_(114321).jpg
   via: act
   focus:
     x: 55
@@ -22,12 +17,11 @@ heroImage:
 gallery: []
 place:
   id: ChIJlcijSfYa2jERGZ3CD7lpz_E
-  name: 'Lee Kong Chian Natural History Museum, Singapore'
+  name: Lee Kong Chian Natural History Museum, Singapore
   address: '2 Conservatory Dr, #01-03, Singapore 117377'
   rating: 4.6
   userRatingsTotal: 2680
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17424261726874017049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17424261726874017049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.3014156
   lng: 103.7736549
@@ -62,38 +56,18 @@ place:
 tags:
   - bugis
   - museum
-quickAnswer: >-
-  The Lee Kong Chian Natural History Museum sits on the National University of
-  Singapore's Kent Ridge campus, not actually in Bugis proper, so budget time
-  for the trip out. Its three mounted diplodocid dinosaur skeletons, nicknamed
-  Apollonia, Prince and Twinky, are the headline draw, alongside vast galleries
-  of preserved specimens. Go on a weekday morning before 11am to beat the
-  weekend crowds that build from 11am to 6pm.
+quickAnswer: The Lee Kong Chian Natural History Museum sits on the National University of Singapore's Kent Ridge campus, not actually in Bugis proper, so budget time for the trip out. Its three mounted diplodocid dinosaur skeletons, nicknamed Apollonia, Prince and Twinky, are the headline draw, alongside vast galleries of preserved specimens. Go on a weekday morning before 11am to beat the weekend crowds that build from 11am to 6pm.
 faq:
   - q: Is the Lee Kong Chian Natural History Museum actually in Bugis?
-    a: >-
-      No, it's on the NUS Kent Ridge campus at 2 Conservatory Drive. It's tagged
-      to the wider Bugis/Singapore region but sits a fair distance southwest,
-      roughly a 30-minute journey from central Bugis.
+    a: No, it's on the NUS Kent Ridge campus at 2 Conservatory Drive. It's tagged to the wider Bugis/Singapore region but sits a fair distance southwest, roughly a 30-minute journey from central Bugis.
   - q: What's the best time to visit to avoid crowds?
-    a: >-
-      Aim for a weekday morning right at the 10am opening. Weekends get busy
-      from 11am to 6pm, so if you can only go on a Saturday or Sunday, arrive as
-      early as possible.
+    a: Aim for a weekday morning right at the 10am opening. Weekends get busy from 11am to 6pm, so if you can only go on a Saturday or Sunday, arrive as early as possible.
   - q: How do I get there without driving?
-    a: >-
-      Take the Circle Line MRT to Kent Ridge station, then use the free NUS
-      Internal Shuttle Bus (ISB) or walk about fifteen minutes uphill to the
-      campus. Paid on-campus parking is also available if driving.
+    a: Take the Circle Line MRT to Kent Ridge station, then use the free NUS Internal Shuttle Bus (ISB) or walk about fifteen minutes uphill to the campus. Paid on-campus parking is also available if driving.
   - q: How long should I spend at the museum?
-    a: >-
-      Most visitors need one and a half to two hours to see the dinosaur atrium
-      and main galleries without rushing. It's a compact museum, so it works
-      well as a half-day activity.
+    a: Most visitors need one and a half to two hours to see the dinosaur atrium and main galleries without rushing. It's a compact museum, so it works well as a half-day activity.
   - q: Is the museum open every day?
-    a: >-
-      It's closed on Mondays. Tuesday through Sunday it runs 10am to 6pm, with
-      last entry usually about an hour before closing.
+    a: It's closed on Mondays. Tuesday through Sunday it runs 10am to 6pm, with last entry usually about an hour before closing.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'

@@ -1,56 +1,56 @@
 ---
-title: "Eklingji Temple: Udaipur Travel Guide (4.8★)"
-description: "Eklingji Temple sits about 22km north of Udaipur in Kailashpuri, and it's open only in three windows daily: 5–9am, 11am–1pm, and 5–7:30pm. 4.8★ (4,802 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Udaipur"
-category: "attraction"
-pubDate: "2026-08-18T07:58:43.649Z"
+title: 'Eklingji Temple: Udaipur Travel Guide (4.8★)'
+description: 'Eklingji Temple sits about 22km north of Udaipur in Kailashpuri, and it''s open only in three windows daily: 5–9am, 11am–1pm, and 5–7:30pm. 4.8★ (4,802 reviews) — what visitors say, hours, and tips.'
+country: India
+region: Udaipur
+category: attraction
+pubDate: '2026-08-18T07:58:43.649Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EklingJi_Temple.jpg/3840px-EklingJi_Temple.jpg"
-  credit: "Photo: Karora23 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:EklingJi_Temple.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EklingJi_Temple.jpg/3840px-EklingJi_Temple.jpg
+  credit: 'Photo: Karora23 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:EklingJi_Temple.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Eklingji_%282002%29_02.jpg"
-    credit: "Photo: LBM1948 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Eklingji_(2002)_02.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eklingji_%282002%29_02.jpg/960px-Eklingji_%282002%29_02.jpg
+    credit: 'Photo: LBM1948 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Eklingji_(2002)_02.jpg
 place:
-  id: "ChIJNU-cHBPjZzkRGXb5Utw34YA"
-  name: "Eklingji Temple"
-  address: "Kailashpuri, Girwa Tehsil, near the former capital of Mewar, Udaipur, Siyol, Rajasthan 313202, India"
+  id: ChIJNU-cHBPjZzkRGXb5Utw34YA
+  name: Eklingji Temple
+  address: Kailashpuri, Girwa Tehsil, near the former capital of Mewar, Udaipur, Siyol, Rajasthan 313202, India
   rating: 4.8
   userRatingsTotal: 4802
-  googleMapsUrl: "https://maps.google.com/?cid=9286765326039086617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9286765326039086617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.747082199999998
   lng: 73.72337399999999
   openingHours:
-    - "Monday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
-    - "Tuesday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
-    - "Wednesday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
-    - "Thursday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
-    - "Friday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
-    - "Saturday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
-    - "Sunday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM"
+    - 'Monday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
+    - 'Tuesday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
+    - 'Wednesday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
+    - 'Thursday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
+    - 'Friday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
+    - 'Saturday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
+    - 'Sunday: 5:00 – 9:00 AM, 11:00 AM – 1:00 PM, 5:00 – 7:30 PM'
 tags:
-  - "udaipur"
-  - "historic site"
-quickAnswer: "Eklingji Temple sits about 22km north of Udaipur in Kailashpuri, and it's open only in three windows daily: 5–9am, 11am–1pm, and 5–7:30pm. Go for the early-morning or evening aarti (prayer ceremony), when the black marble sanctum fills with bells, incense smoke, and oil-lamp light. Plan on 45–90 minutes, plus travel time, and dress modestly since this remains an active place of worship, not a museum."
+  - udaipur
+  - historic site
+quickAnswer: 'Eklingji Temple sits about 22km north of Udaipur in Kailashpuri, and it''s open only in three windows daily: 5–9am, 11am–1pm, and 5–7:30pm. Go for the early-morning or evening aarti (prayer ceremony), when the black marble sanctum fills with bells, incense smoke, and oil-lamp light. Plan on 45–90 minutes, plus travel time, and dress modestly since this remains an active place of worship, not a museum.'
 faq:
-  - q: "How far is Eklingji Temple from Udaipur city?"
-    a: "About 22km, roughly a 45-minute drive by taxi or auto-rickshaw along the road toward Nathdwara."
-  - q: "What are the opening hours?"
-    a: "The temple opens daily in three windows: 5–9am, 11am–1pm, and 5–7:30pm. It's closed outside these times, so plan your visit around one of them."
-  - q: "Is there an entry fee?"
-    a: "No formal ticket is required for general entry; a small donation at the shrine is customary but not mandatory."
-  - q: "How long should I spend there?"
-    a: "Plan for 45 minutes to an hour to see the main sanctum and walk the courtyard's smaller shrines, plus travel time from Udaipur."
-  - q: "Can I visit nearby sites on the same trip?"
-    a: "Yes — Nagda's ruined temples and the Sas-Bahu temples are close by and commonly combined with an Eklingji visit."
+  - q: How far is Eklingji Temple from Udaipur city?
+    a: About 22km, roughly a 45-minute drive by taxi or auto-rickshaw along the road toward Nathdwara.
+  - q: What are the opening hours?
+    a: 'The temple opens daily in three windows: 5–9am, 11am–1pm, and 5–7:30pm. It''s closed outside these times, so plan your visit around one of them.'
+  - q: Is there an entry fee?
+    a: No formal ticket is required for general entry; a small donation at the shrine is customary but not mandatory.
+  - q: How long should I spend there?
+    a: Plan for 45 minutes to an hour to see the main sanctum and walk the courtyard's smaller shrines, plus travel time from Udaipur.
+  - q: Can I visit nearby sites on the same trip?
+    a: Yes — Nagda's ruined temples and the Sas-Bahu temples are close by and commonly combined with an Eklingji visit.
 aiGenerated: true
 draft: false
 ---

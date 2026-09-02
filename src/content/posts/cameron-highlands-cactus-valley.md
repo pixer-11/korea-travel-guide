@@ -1,39 +1,27 @@
 ---
 title: 'Cactus Valley: Cameron Highlands Travel Guide (4.0★)'
-description: >-
-  Cactus Valley is a terraced hillside garden in Brinchang packed with cacti,
-  fuchsias, and fruit stalls, open daily 8am–6pm. 4.0★ (1,342 reviews) — what
-  visitors say, hours, and tips.
+description: Cactus Valley is a terraced hillside garden in Brinchang packed with cacti, fuchsias, and fruit stalls, open daily 8am–6pm. 4.0★ (1,342 reviews) — what visitors say, hours, and tips.
 country: Malaysia
 region: Cameron Highlands
 category: attraction
 pubDate: '2026-08-10T09:10:16.021Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg
-  credit: >-
-    Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA
-    2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg/1920px-Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg
+  credit: 'Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_(35398159902).jpg
+  source: https://commons.wikimedia.org/wiki/File:Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_(35398159902).jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/b/b5/Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_%2835527487526%29.jpg
-    credit: >-
-      Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA
-      2.0)
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_%2835527487526%29.jpg/1920px-Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_%2835527487526%29.jpg
+    credit: 'Photo: Adam Jones from Kelowna, BC, Canada / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_(35527487526).jpg
+    source: https://commons.wikimedia.org/wiki/File:Detail_of_Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_-_01_(35527487526).jpg
 place:
   id: ChIJEUa67EpYyjERt1PUWxG2ULc
   name: Cactus Valley
-  address: 'Cactus Valley, Pekan lama, 39100 Brinchang, Pahang, Malaysia'
+  address: Cactus Valley, Pekan lama, 39100 Brinchang, Pahang, Malaysia
   rating: 4
   userRatingsTotal: 1342
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=13209257892749005751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=13209257892749005751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 4.4945727
   lng: 101.3866848
@@ -65,33 +53,18 @@ place:
 tags:
   - cameron highlands
   - top attraction
-quickAnswer: >-
-  Cactus Valley is a terraced hillside garden in Brinchang packed with cacti,
-  fuchsias, and fruit stalls, open daily 8am–6pm. Go right at opening — it's
-  calmest 8am–10am on both weekdays and weekends — and avoid the 11am–5pm
-  weekend crush. Budget an hour, wear grippy shoes for the slopes, and bring
-  cash for the fruit stands.
+quickAnswer: Cactus Valley is a terraced hillside garden in Brinchang packed with cacti, fuchsias, and fruit stalls, open daily 8am–6pm. Go right at opening — it's calmest 8am–10am on both weekdays and weekends — and avoid the 11am–5pm weekend crush. Budget an hour, wear grippy shoes for the slopes, and bring cash for the fruit stands.
 faq:
   - q: What are the opening hours for Cactus Valley?
-    a: 'It''s open daily from 8:00 AM to 6:00 PM, seven days a week.'
+    a: It's open daily from 8:00 AM to 6:00 PM, seven days a week.
   - q: When is the quietest time to visit?
-    a: >-
-      Between 8am and 10am, on both weekdays and weekends — crowd data shows
-      this is consistently the calmest window.
+    a: Between 8am and 10am, on both weekdays and weekends — crowd data shows this is consistently the calmest window.
   - q: How long should I plan to spend there?
-    a: >-
-      About 45 minutes to an hour is enough to walk the terraces and browse the
-      stalls, unless you linger over plant shopping.
+    a: About 45 minutes to an hour is enough to walk the terraces and browse the stalls, unless you linger over plant shopping.
   - q: How do I get to Cactus Valley?
-    a: >-
-      It's located in Pekan Lama, on the edge of Brinchang town. Most visitors
-      reach it by rental car, taxi, or as a stop on a Cameron Highlands day
-      tour; parking is roadside and fills up with tour vans by late morning.
+    a: It's located in Pekan Lama, on the edge of Brinchang town. Most visitors reach it by rental car, taxi, or as a stop on a Cameron Highlands day tour; parking is roadside and fills up with tour vans by late morning.
   - q: What's nearby to combine with a visit?
-    a: >-
-      It's easy to pair with other Brinchang-area farms, such as strawberry
-      farms, and Brinchang's night market, since attractions here cluster within
-      a short drive of each other.
+    a: It's easy to pair with other Brinchang-area farms, such as strawberry farms, and Brinchang's night market, since attractions here cluster within a short drive of each other.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

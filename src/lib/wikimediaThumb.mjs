@@ -40,7 +40,7 @@ export const legalWidth = (want) =>
  */
 export function wikimediaThumb(url, wantWidth) {
   const s = String(url ?? '');
-  if (!s.includes('upload.wikimedia.org')) return s;
+  if (!/(?:upload|thumb)\.wikimedia\.org/.test(s)) return s;
   const m = s.match(/\/(\d{2,4})px-/);
   if (!m) return s;
   const have = Number(m[1]);

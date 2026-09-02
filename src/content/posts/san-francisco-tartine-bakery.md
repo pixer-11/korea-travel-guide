@@ -11,7 +11,7 @@ heroImage:
   license: foursquare
   source: https://foursquare.com/v/42814b00f964a52002221fe3
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/6/62/Tartine_bakery_interior_in_2010.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tartine_bakery_interior_in_2010.jpg/1920px-Tartine_bakery_interior_in_2010.jpg
     credit: 'Photo: kennejima / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Tartine_bakery_interior_in_2010.jpg
@@ -37,8 +37,10 @@ place:
     - 'Sunday: 7:30 AM – 6:00 PM'
   busyness:
     updated: 2026-08-06T00:00:00.000Z
-    weekdayQuiet: [17]
-    weekendQuiet: [8]
+    weekdayQuiet:
+      - 17
+    weekendQuiet:
+      - 8
     weekendBusy:
       - 9
       - 10

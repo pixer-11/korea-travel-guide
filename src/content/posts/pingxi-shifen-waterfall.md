@@ -1,41 +1,41 @@
 ---
-title: "Shifen Waterfall: Pingxi Travel Guide (4.5★)"
-description: "Shifen Waterfall — Taiwan's widest waterfall at 40 metres — is a 20-minute walk from Shifen Station on the Pingxi branch line, open daily 9am–5:30pm. 4.5★ (29,020 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Pingxi"
-category: "attraction"
-pubDate: "2026-08-12T09:26:05.035Z"
+title: 'Shifen Waterfall: Pingxi Travel Guide (4.5★)'
+description: Shifen Waterfall — Taiwan's widest waterfall at 40 metres — is a 20-minute walk from Shifen Station on the Pingxi branch line, open daily 9am–5:30pm. 4.5★ (29,020 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Pingxi
+category: attraction
+pubDate: '2026-08-12T09:26:05.035Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ShiFengWaterFall_002.jpg/1920px-ShiFengWaterFall_002.jpg"
-  credit: "Photo: The original uploader was Weihao.chiu at Chinese Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:ShiFengWaterFall_002.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ShiFengWaterFall_002.jpg/1920px-ShiFengWaterFall_002.jpg
+  credit: 'Photo: The original uploader was Weihao.chiu at Chinese Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:ShiFengWaterFall_002.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/95/Shifen_Waterfall_left_view_20110806.jpg"
-    credit: "Photo: ishigaki / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Shifen_Waterfall_left_view_20110806.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Shifen_Waterfall_left_view_20110806.jpg/1920px-Shifen_Waterfall_left_view_20110806.jpg
+    credit: 'Photo: ishigaki / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Shifen_Waterfall_left_view_20110806.jpg
 place:
-  id: "ChIJ8Z5my_JQXTQRSSmYoOP3EbA"
-  name: "Shifen Waterfall"
-  address: "Pingxi District, New Taipei City, Taiwan 226"
+  id: ChIJ8Z5my_JQXTQRSSmYoOP3EbA
+  name: Shifen Waterfall
+  address: Pingxi District, New Taipei City, Taiwan 226
   rating: 4.5
   userRatingsTotal: 29020
-  googleMapsUrl: "https://maps.google.com/?cid=12687194182303361353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12687194182303361353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.048960899999997
   lng: 121.78745079999999
-  phone: "+886 2 2495 8409"
+  phone: +886 2 2495 8409
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 9:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:30 PM"
-    - "Sunday: 9:00 AM – 5:30 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -48,22 +48,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_41624533504f6f596d535352515458514a5f796d355a384a496843"
+    venueId: ven_41624533504f6f596d535352515458514a5f796d355a384a496843
 tags:
-  - "pingxi"
-  - "top attraction"
-quickAnswer: "Shifen Waterfall — Taiwan's widest waterfall at 40 metres — is a 20-minute walk from Shifen Station on the Pingxi branch line, open daily 9am–5:30pm. Go on a weekday between 9am and 11am, or before 10am on weekends, to avoid the 1pm–4pm weekend crush. Budget 45 minutes to an hour for the loop trail and viewing platforms."
+  - pingxi
+  - top attraction
+quickAnswer: Shifen Waterfall — Taiwan's widest waterfall at 40 metres — is a 20-minute walk from Shifen Station on the Pingxi branch line, open daily 9am–5:30pm. Go on a weekday between 9am and 11am, or before 10am on weekends, to avoid the 1pm–4pm weekend crush. Budget 45 minutes to an hour for the loop trail and viewing platforms.
 faq:
-  - q: "How do I get to Shifen Waterfall from Taipei?"
-    a: "Take TRA from Taipei Main Station to Ruifang (under an hour), transfer to the Pingxi branch line to Shifen Station, then walk about 20 minutes along the riverside path to the falls."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 11am are calmest. On weekends, arrive between 9am and 10am — crowds build fast and peak between 1pm and 4pm."
-  - q: "How long should I spend at the waterfall?"
-    a: "Plan on 45 minutes to an hour, including the loop trail, the suspension bridge crossing, and time on the lower viewing platform."
-  - q: "Can I combine it with Pingxi's sky lanterns in one day?"
-    a: "Yes — Shifen Station itself has lantern releasing on the old tracks, and Pingxi Old Street is a short ride further up the same branch line."
-  - q: "Is the walk to the falls difficult?"
-    a: "No, it's flat and paved for most of the way, making it manageable for most fitness levels and fine for strollers, though shoes with grip help near the misty platform."
+  - q: How do I get to Shifen Waterfall from Taipei?
+    a: Take TRA from Taipei Main Station to Ruifang (under an hour), transfer to the Pingxi branch line to Shifen Station, then walk about 20 minutes along the riverside path to the falls.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 9am and 11am are calmest. On weekends, arrive between 9am and 10am — crowds build fast and peak between 1pm and 4pm.
+  - q: How long should I spend at the waterfall?
+    a: Plan on 45 minutes to an hour, including the loop trail, the suspension bridge crossing, and time on the lower viewing platform.
+  - q: Can I combine it with Pingxi's sky lanterns in one day?
+    a: Yes — Shifen Station itself has lantern releasing on the old tracks, and Pingxi Old Street is a short ride further up the same branch line.
+  - q: Is the walk to the falls difficult?
+    a: No, it's flat and paved for most of the way, making it manageable for most fitness levels and fine for strollers, though shoes with grip help near the misty platform.
 aiGenerated: true
 draft: false
 ---

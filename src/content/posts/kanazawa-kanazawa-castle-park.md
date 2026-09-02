@@ -1,45 +1,45 @@
 ---
-title: "Kanazawa Castle Park: Travel Guide (4.3★)"
-description: "Kanazawa Castle Park sits right next to Kenrokuen Garden in central Kanazawa, open daily 7am–6pm. 4.3★ (12,006 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kanazawa"
-category: "attraction"
-pubDate: "2026-08-28T08:58:37.762Z"
+title: 'Kanazawa Castle Park: Travel Guide (4.3★)'
+description: Kanazawa Castle Park sits right next to Kenrokuen Garden in central Kanazawa, open daily 7am–6pm. 4.3★ (12,006 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kanazawa
+category: attraction
+pubDate: '2026-08-28T08:58:37.762Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg/3840px-View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg"
-  credit: "Photo: DimiTalen / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:View_of_the_enclosed_area_of_Hashizume-mon,_Kanazawa_Castle,_Kanazawa,_2016.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg/3840px-View_of_the_enclosed_area_of_Hashizume-mon%2C_Kanazawa_Castle%2C_Kanazawa%2C_2016.jpg
+  credit: 'Photo: DimiTalen / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:View_of_the_enclosed_area_of_Hashizume-mon,_Kanazawa_Castle,_Kanazawa,_2016.jpg
+  via: act
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kanazawa_Castle%2C_Kanazawa_City%3B_April_2016_%2803%29.jpg"
-    credit: "Photo: fish0835 / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kanazawa_Castle,_Kanazawa_City;_April_2016_(03).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kanazawa_Castle%2C_Kanazawa_City%3B_April_2016_%2803%29.jpg/1920px-Kanazawa_Castle%2C_Kanazawa_City%3B_April_2016_%2803%29.jpg
+    credit: 'Photo: fish0835 / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Kanazawa_Castle,_Kanazawa_City;_April_2016_(03).jpg
 place:
-  id: "ChIJlUfxPYIz-F8RSh7ml54YJ6g"
-  name: "Kanazawa Castle Park"
-  address: "1-1 Marunouchi, Kanazawa, Ishikawa 920-0937, Japan"
+  id: ChIJlUfxPYIz-F8RSh7ml54YJ6g
+  name: Kanazawa Castle Park
+  address: 1-1 Marunouchi, Kanazawa, Ishikawa 920-0937, Japan
   rating: 4.3
   userRatingsTotal: 12006
-  googleMapsUrl: "https://maps.google.com/?cid=12116680391895948874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12116680391895948874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.5659458
   lng: 136.6588451
-  phone: "+81 76-234-3800"
+  phone: +81 76-234-3800
   openingHours:
-    - "Monday: 7:00 AM – 6:00 PM"
-    - "Tuesday: 7:00 AM – 6:00 PM"
-    - "Wednesday: 7:00 AM – 6:00 PM"
-    - "Thursday: 7:00 AM – 6:00 PM"
-    - "Friday: 7:00 AM – 6:00 PM"
-    - "Saturday: 7:00 AM – 6:00 PM"
-    - "Sunday: 7:00 AM – 6:00 PM"
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -57,22 +57,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_67364a5934356c6d3768535238462d7a4959507866556c4a496843"
+    venueId: ven_67364a5934356c6d3768535238462d7a4959507866556c4a496843
 tags:
-  - "kanazawa"
-  - "park"
-quickAnswer: "Kanazawa Castle Park sits right next to Kenrokuen Garden in central Kanazawa, open daily 7am–6pm. It's a very popular reconstructed 16th-century castle site, so aim for opening time or after 4pm to dodge the 11am–4pm weekend crush. Budget 60–90 minutes for the grounds and turrets, longer if you tour the interior."
+  - kanazawa
+  - park
+quickAnswer: Kanazawa Castle Park sits right next to Kenrokuen Garden in central Kanazawa, open daily 7am–6pm. It's a very popular reconstructed 16th-century castle site, so aim for opening time or after 4pm to dodge the 11am–4pm weekend crush. Budget 60–90 minutes for the grounds and turrets, longer if you tour the interior.
 faq:
-  - q: "How do I get to Kanazawa Castle Park?"
-    a: "It's a short walk or Kanazawa Loop Bus ride from Kanazawa Station; get off at the Kenrokuen-shita/Kanazawa Castle stop and walk across the bridge into the park."
-  - q: "What are the opening hours?"
-    a: "7:00 AM to 6:00 PM every day, with no listed variation by day of the week."
-  - q: "When is it least crowded?"
-    a: "Traffic runs steady throughout the 7am–6pm hours with no distinct quiet window; the clearest advice is to avoid 11am–4pm on weekends, when crowds peak."
-  - q: "How long should I plan for a visit?"
-    a: "60–90 minutes covers the grounds and turret exteriors; add 20-30 minutes if you tour the Hishi Yagura and Gojukken Nagaya interiors."
-  - q: "Is it worth combining with Kenrokuen Garden?"
-    a: "Yes, they connect by a bridge and most visitors do both in one trip; combined tickets are usually available on site."
+  - q: How do I get to Kanazawa Castle Park?
+    a: It's a short walk or Kanazawa Loop Bus ride from Kanazawa Station; get off at the Kenrokuen-shita/Kanazawa Castle stop and walk across the bridge into the park.
+  - q: What are the opening hours?
+    a: 7:00 AM to 6:00 PM every day, with no listed variation by day of the week.
+  - q: When is it least crowded?
+    a: Traffic runs steady throughout the 7am–6pm hours with no distinct quiet window; the clearest advice is to avoid 11am–4pm on weekends, when crowds peak.
+  - q: How long should I plan for a visit?
+    a: 60–90 minutes covers the grounds and turret exteriors; add 20-30 minutes if you tour the Hishi Yagura and Gojukken Nagaya interiors.
+  - q: Is it worth combining with Kenrokuen Garden?
+    a: Yes, they connect by a bridge and most visitors do both in one trip; combined tickets are usually available on site.
 aiGenerated: true
 ---
 

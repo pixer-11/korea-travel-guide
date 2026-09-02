@@ -1,48 +1,48 @@
 ---
-title: "Otres Beach: Sihanoukville Travel Guide (4.1★)"
-description: "Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. 4.1★ (883 reviews) — what visitors say, hours, and tips."
-country: "Cambodia"
-region: "Sihanoukville"
-category: "attraction"
-pubDate: "2026-08-22T09:09:56.291Z"
+title: 'Otres Beach: Sihanoukville Travel Guide (4.1★)'
+description: Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. 4.1★ (883 reviews) — what visitors say, hours, and tips.
+country: Cambodia
+region: Sihanoukville
+category: attraction
+pubDate: '2026-08-22T09:09:56.291Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Otres_Beach_Sunset_-_panoramio.jpg"
-  credit: "Photo: MCantsin / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Otres_Beach_Sunset_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Otres_Beach_Sunset_-_panoramio.jpg/1920px-Otres_Beach_Sunset_-_panoramio.jpg
+  credit: 'Photo: MCantsin / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Otres_Beach_Sunset_-_panoramio.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/df/Otres_Beach%2C_Sihanoukville.jpg"
-    credit: "Photo: Dmitry Makeev / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Otres_Beach,_Sihanoukville.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Otres_Beach%2C_Sihanoukville.jpg/1920px-Otres_Beach%2C_Sihanoukville.jpg
+    credit: 'Photo: Dmitry Makeev / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Otres_Beach,_Sihanoukville.jpg
 place:
-  id: "ChIJg8S9u90JCDERAtHL6sQuLtg"
-  name: "Otres Beach"
-  address: "Otres Beach, Cambodia"
+  id: ChIJg8S9u90JCDERAtHL6sQuLtg
+  name: Otres Beach
+  address: Otres Beach, Cambodia
   rating: 4.1
   userRatingsTotal: 883
-  googleMapsUrl: "https://maps.google.com/?cid=15577439584408817922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15577439584408817922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.571655600000001
   lng: 103.5513737
 tags:
-  - "sihanoukville"
-  - "Otres Beach"
-quickAnswer: "Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. Go for sunset, stay for the seafood grills, and rent a tuk-tuk (about 15-20 minutes from central Sihanoukville) rather than trying to walk it. It's not a secret anymore, but it's still far less packed than Serendipity or Ochheuteal beaches."
+  - sihanoukville
+  - Otres Beach
+quickAnswer: Otres Beach is Sihanoukville's calmer alternative to the casino-lined main beach — a long stretch of white sand shaded by tamarisk and casuarina trees, backed by low-key beach bars rather than high-rises. Go for sunset, stay for the seafood grills, and rent a tuk-tuk (about 15-20 minutes from central Sihanoukville) rather than trying to walk it. It's not a secret anymore, but it's still far less packed than Serendipity or Ochheuteal beaches.
 faq:
-  - q: "How do I get to Otres Beach from Sihanoukville?"
-    a: "It's about 6-7 km southeast of the city center. A tuk-tuk takes 15-20 minutes; agree the fare beforehand or book through Grab/PassApp for a fixed price."
-  - q: "What's the difference between Otres 1 and Otres 2?"
-    a: "Otres 1 has more bars, guesthouses, and nightlife; Otres 2 is quieter and better for long walks or a calmer swim."
-  - q: "When is the best time to visit Otres Beach?"
-    a: "Dry season, November to April, gives the most reliable weather. For fewer crowds, go before 9am or after 4pm any day of the week."
-  - q: "Is Otres Beach good for swimming?"
-    a: "Yes — the water is generally calm and shallow near shore for a good stretch, making it manageable for casual swimmers and families."
-  - q: "Can I visit nearby islands from Otres Beach?"
-    a: "Yes, several operators run boat and kayak trips from Otres out to Koh Ta Kiev and other nearby islands, usually as a half-day trip."
+  - q: How do I get to Otres Beach from Sihanoukville?
+    a: It's about 6-7 km southeast of the city center. A tuk-tuk takes 15-20 minutes; agree the fare beforehand or book through Grab/PassApp for a fixed price.
+  - q: What's the difference between Otres 1 and Otres 2?
+    a: Otres 1 has more bars, guesthouses, and nightlife; Otres 2 is quieter and better for long walks or a calmer swim.
+  - q: When is the best time to visit Otres Beach?
+    a: Dry season, November to April, gives the most reliable weather. For fewer crowds, go before 9am or after 4pm any day of the week.
+  - q: Is Otres Beach good for swimming?
+    a: Yes — the water is generally calm and shallow near shore for a good stretch, making it manageable for casual swimmers and families.
+  - q: Can I visit nearby islands from Otres Beach?
+    a: Yes, several operators run boat and kayak trips from Otres out to Koh Ta Kiev and other nearby islands, usually as a half-day trip.
 aiGenerated: true
 draft: false
 ---

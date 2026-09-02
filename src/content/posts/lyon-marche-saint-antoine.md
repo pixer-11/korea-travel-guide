@@ -1,53 +1,53 @@
 ---
-title: "Marché Saint-Antoine: Lyon Travel Guide (4.6★)"
-description: "Marché Saint-Antoine is the open-air riverside market that runs along the Quai des Célestins in Lyon's Presqu'île, a working food market rather than. 4.6★ (329 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Lyon"
-category: "hidden-gem"
-pubDate: "2026-08-06T10:09:21.726Z"
+title: 'Marché Saint-Antoine: Lyon Travel Guide (4.6★)'
+description: Marché Saint-Antoine is the open-air riverside market that runs along the Quai des Célestins in Lyon's Presqu'île, a working food market rather than. 4.6★ (329 reviews) — what visitors say, hours, and tips.
+country: France
+region: Lyon
+category: hidden-gem
+pubDate: '2026-08-06T10:09:21.726Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lyon_March%C3%A9_Saint-Antoine_%2832785663016%29.jpg"
-  credit: "Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Lyon_March%C3%A9_Saint-Antoine_(32785663016).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lyon_March%C3%A9_Saint-Antoine_%2832785663016%29.jpg/1920px-Lyon_March%C3%A9_Saint-Antoine_%2832785663016%29.jpg
+  credit: 'Photo: Jorge Franganillo / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lyon_March%C3%A9_Saint-Antoine_(32785663016).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lyon_march%C3%A9_St_Antoine.JPG"
-    credit: "Photo: Frachet / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lyon_march%C3%A9_St_Antoine.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lyon_march%C3%A9_St_Antoine.JPG/1920px-Lyon_march%C3%A9_St_Antoine.JPG
+    credit: 'Photo: Frachet / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Lyon_march%C3%A9_St_Antoine.JPG
 place:
-  id: "ChIJ4zMtKkfr9EcRpo-U-vR03ZY"
-  name: "Marché Saint-Antoine"
-  address: "11 Quai des Célestins, 69002 Lyon, France"
+  id: ChIJ4zMtKkfr9EcRpo-U-vR03ZY
+  name: Marché Saint-Antoine
+  address: 11 Quai des Célestins, 69002 Lyon, France
   rating: 4.6
   userRatingsTotal: 329
-  googleMapsUrl: "https://maps.google.com/?cid=10870973671067127718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10870973671067127718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.7603759
   lng: 4.8307370999999995
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 6:00 AM – 1:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 6:00 AM – 1:00 PM"
-    - "Friday: Closed"
-    - "Saturday: 6:00 AM – 1:30 PM"
-    - "Sunday: 6:00 AM – 2:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 6:00 AM – 1:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 6:00 AM – 1:00 PM'
+    - 'Friday: Closed'
+    - 'Saturday: 6:00 AM – 1:30 PM'
+    - 'Sunday: 6:00 AM – 2:00 PM'
 tags:
-  - "lyon"
-  - "local market"
-quickAnswer: "Marché Saint-Antoine is the open-air riverside market that runs along the Quai des Célestins in Lyon's Presqu'île, a working food market rather than a tourist attraction — go early on Sunday morning for the widest stalls and the best light on the Saône, and skip Monday, Wednesday and Friday entirely, as it's closed those days. Bring a canvas bag and small change, and plan on 45 minutes to an hour browsing before breakfast or a picnic."
+  - lyon
+  - local market
+quickAnswer: Marché Saint-Antoine is the open-air riverside market that runs along the Quai des Célestins in Lyon's Presqu'île, a working food market rather than a tourist attraction — go early on Sunday morning for the widest stalls and the best light on the Saône, and skip Monday, Wednesday and Friday entirely, as it's closed those days. Bring a canvas bag and small change, and plan on 45 minutes to an hour browsing before breakfast or a picnic.
 faq:
-  - q: "What days is Marché Saint-Antoine open?"
-    a: "Tuesday, Thursday, Saturday and Sunday mornings only. It's closed Monday, Wednesday and Friday."
-  - q: "What are the exact hours?"
-    a: "Tuesday and Thursday 6:00 AM–1:00 PM, Saturday 6:00 AM–1:30 PM, and Sunday 6:00 AM–2:00 PM, which is the longest and busiest session."
-  - q: "How do I get there by metro?"
-    a: "The closest stop is Vieux Lyon on Line D, about a 10-minute walk across the Saône; alternatively take Line A or D to Bellecour and walk down to the Quai des Célestins."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45 minutes to an hour to walk the full stretch of stalls, sample a hot snack, and pick up produce or cheese."
-  - q: "Should I pay by card or cash?"
-    a: "Carry some cash and small change — several smaller producer stalls are cash-preferred, especially at opening, though larger stalls often take cards."
+  - q: What days is Marché Saint-Antoine open?
+    a: Tuesday, Thursday, Saturday and Sunday mornings only. It's closed Monday, Wednesday and Friday.
+  - q: What are the exact hours?
+    a: Tuesday and Thursday 6:00 AM–1:00 PM, Saturday 6:00 AM–1:30 PM, and Sunday 6:00 AM–2:00 PM, which is the longest and busiest session.
+  - q: How do I get there by metro?
+    a: The closest stop is Vieux Lyon on Line D, about a 10-minute walk across the Saône; alternatively take Line A or D to Bellecour and walk down to the Quai des Célestins.
+  - q: How long should I spend there?
+    a: Most visitors need 45 minutes to an hour to walk the full stretch of stalls, sample a hot snack, and pick up produce or cheese.
+  - q: Should I pay by card or cash?
+    a: Carry some cash and small change — several smaller producer stalls are cash-preferred, especially at opening, though larger stalls often take cards.
 aiGenerated: true
 draft: false
 ---

@@ -1,53 +1,53 @@
 ---
-title: "Chet Singh Ghat, (Varanasi): Travel Guide"
+title: 'Chet Singh Ghat, (Varanasi): Travel Guide'
 description: Chet Singh Ghat sits on Varanasi's southern riverfront, roughly a 10–15 minute boat ride (or a longer walk through the ghat-side lanes) from Assi Ghat, and it's open round the clock since it's an outdoor riverside site.
-country: "India"
-region: "Varanasi"
-category: "hidden-gem"
-pubDate: "2026-07-30T09:58:34.548Z"
+country: India
+region: Varanasi
+category: hidden-gem
+pubDate: '2026-07-30T09:58:34.548Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg"
-  credit: "Photo: juggadery / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Varanasi_52_-_Chet_Singh_ghat_(37661099921).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg/1920px-Varanasi_52_-_Chet_Singh_ghat_%2837661099921%29.jpg
+  credit: 'Photo: juggadery / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Varanasi_52_-_Chet_Singh_ghat_(37661099921).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chet_Singh_Ghat_2024.jpg/3840px-Chet_Singh_Ghat_2024.jpg"
-    credit: "Photo: Immanuelle / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chet_Singh_Ghat_2024.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chet_Singh_Ghat_2024.jpg/3840px-Chet_Singh_Ghat_2024.jpg
+    credit: 'Photo: Immanuelle / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chet_Singh_Ghat_2024.jpg
 place:
-  id: "ChIJ7cArc-8xjjkRZLGO7xpgfpw"
-  name: "Chet Singh Ghat, (Varanasi)"
-  address: "72V4+QW6, in front of Chet Singh fort, Ghats of Varanasi, Shivala, Varanasi, Uttar Pradesh 221001, India"
+  id: ChIJ7cArc-8xjjkRZLGO7xpgfpw
+  name: Chet Singh Ghat, (Varanasi)
+  address: 72V4+QW6, in front of Chet Singh fort, Ghats of Varanasi, Shivala, Varanasi, Uttar Pradesh 221001, India
   rating: 4.4
   userRatingsTotal: 2593
-  googleMapsUrl: "https://maps.google.com/?cid=11276556185786823012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11276556185786823012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.294417799999998
   lng: 83.0072716
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "varanasi"
-  - "hidden gem"
-quickAnswer: "Chet Singh Ghat sits on Varanasi's southern riverfront, roughly a 10–15 minute boat ride (or a longer walk through the ghat-side lanes) from Assi Ghat, and it's open round the clock since it's an outdoor riverside site. The best time to come is early morning (around sunrise, 5:30–7am) for soft light on the ochre fort walls and thin crowds, or by boat at sunset when the terrace glows orange. Give it 20–30 minutes if you're passing by boat, longer if you climb up to the terrace and explore the fort's stairwells."
+  - varanasi
+  - hidden gem
+quickAnswer: Chet Singh Ghat sits on Varanasi's southern riverfront, roughly a 10–15 minute boat ride (or a longer walk through the ghat-side lanes) from Assi Ghat, and it's open round the clock since it's an outdoor riverside site. The best time to come is early morning (around sunrise, 5:30–7am) for soft light on the ochre fort walls and thin crowds, or by boat at sunset when the terrace glows orange. Give it 20–30 minutes if you're passing by boat, longer if you climb up to the terrace and explore the fort's stairwells.
 faq:
-  - q: "How do I get to Chet Singh Ghat?"
-    a: "Hire a rowboat from Assi, Shivala, or Dashashwamedh Ghat — most sunrise or sunset river tours pass right by it. On foot, you can follow the riverside path from Assi Ghat, though expect stairs and uneven stone underfoot."
-  - q: "Is there an entry fee?"
-    a: "No formal ticket booth or fee — it's an open riverfront site accessible 24 hours a day. If you land and climb into the fort itself, be aware parts of it are still inhabited, so move respectfully."
-  - q: "What's the best time to visit?"
-    a: "Early morning, around sunrise (roughly 5:30–7am), gives you the softest light on the fort walls and the fewest other boats around. Sunset is the second-best option for photography."
-  - q: "How long should I spend here?"
-    a: "Most visitors see it as a 20–30 minute stop on a longer boat tour of the ghats. If you climb up to the terrace and explore the fort's courtyards, plan for closer to an hour."
-  - q: "What else is nearby?"
-    a: "Shivala Ghat and Dashashwamedh Ghat are a short boat ride away, and Assi Ghat, a common starting point for hiring boats, sits just upstream."
+  - q: How do I get to Chet Singh Ghat?
+    a: Hire a rowboat from Assi, Shivala, or Dashashwamedh Ghat — most sunrise or sunset river tours pass right by it. On foot, you can follow the riverside path from Assi Ghat, though expect stairs and uneven stone underfoot.
+  - q: Is there an entry fee?
+    a: No formal ticket booth or fee — it's an open riverfront site accessible 24 hours a day. If you land and climb into the fort itself, be aware parts of it are still inhabited, so move respectfully.
+  - q: What's the best time to visit?
+    a: Early morning, around sunrise (roughly 5:30–7am), gives you the softest light on the fort walls and the fewest other boats around. Sunset is the second-best option for photography.
+  - q: How long should I spend here?
+    a: Most visitors see it as a 20–30 minute stop on a longer boat tour of the ghats. If you climb up to the terrace and explore the fort's courtyards, plan for closer to an hour.
+  - q: What else is nearby?
+    a: Shivala Ghat and Dashashwamedh Ghat are a short boat ride away, and Assi Ghat, a common starting point for hiring boats, sits just upstream.
 aiGenerated: true
 draft: false
 ---

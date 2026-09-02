@@ -1,9 +1,6 @@
 ---
 title: 'Harry Styles Residency – Madison Square Garden: What to Know (New York)'
-description: >-
-  Harry Styles Residency – Madison Square Garden in New York City, United States
-  — August 26 - October 31, 2026 (performances every Wed, Fri, Sat). What it is,
-  when and where, and how to plan around it.
+description: Harry Styles Residency – Madison Square Garden in New York City, United States — August 26 - October 31, 2026 (performances every Wed, Fri, Sat). What it is, when and where, and how to plan around it.
 country: United States
 region: New York
 category: event
@@ -13,61 +10,34 @@ eventEndDate: '2026-10-31'
 tags:
   - new york city
   - event
-quickAnswer: >-
-  Harry Styles is booked for a 30-night residency at Madison Square Garden from
-  August 26 through October 31, 2026, playing every Wednesday, Friday and
-  Saturday, with the run closing out on Halloween night as a "Harryween" finale.
-  Tickets, exact showtimes, and any lineup or setlist specifics haven't been
-  confirmed beyond what's on Ticketmaster and MSG's own site, so check those
-  before you book flights or hotels.
+quickAnswer: Harry Styles is booked for a 30-night residency at Madison Square Garden from August 26 through October 31, 2026, playing every Wednesday, Friday and Saturday, with the run closing out on Halloween night as a "Harryween" finale. Tickets, exact showtimes, and any lineup or setlist specifics haven't been confirmed beyond what's on Ticketmaster and MSG's own site, so check those before you book flights or hotels.
 faq:
   - q: When exactly is the Harry Styles MSG residency?
-    a: >-
-      It's scheduled to run August 26 through October 31, 2026, with shows on
-      Wednesdays, Fridays, and Saturdays only — not every night in between.
-      Confirm your specific date on Ticketmaster or MSG's site, since exact show
-      nights can be adjusted.
+    a: It's scheduled to run August 26 through October 31, 2026, with shows on Wednesdays, Fridays, and Saturdays only — not every night in between. Confirm your specific date on Ticketmaster or MSG's site, since exact show nights can be adjusted.
   - q: How do I get tickets?
-    a: >-
-      Buy through Ticketmaster or Madison Square Garden's official box
-      office/verified resale marketplace. Prices and presale details aren't
-      finalized here, so check official channels for current tiers and on-sale
-      dates.
+    a: Buy through Ticketmaster or Madison Square Garden's official box office/verified resale marketplace. Prices and presale details aren't finalized here, so check official channels for current tiers and on-sale dates.
   - q: Which subway stop do I use for MSG?
-    a: >-
-      Penn Station/34th Street, served by the 1, 2, 3, A, C, and E lines, sits
-      directly beneath the Garden — you can walk from the platform straight into
-      the venue.
+    a: Penn Station/34th Street, served by the 1, 2, 3, A, C, and E lines, sits directly beneath the Garden — you can walk from the platform straight into the venue.
   - q: Is the Halloween show different from the others?
-    a: >-
-      Yes — October 31 is billed as a themed 'Harryween' finale closing out the
-      residency, and themed closing nights like this typically draw the most
-      demand and costumed attendance, so expect it to be the hardest date to
-      get.
+    a: Yes — October 31 is billed as a themed 'Harryween' finale closing out the residency, and themed closing nights like this typically draw the most demand and costumed attendance, so expect it to be the hardest date to get.
   - q: What's nearby for food or a hotel before the show?
-    a: >-
-      Koreatown on 32nd Street and Chelsea's restaurant strip are both a short
-      walk away, and Midtown hotels cluster around Penn Station, Herald Square,
-      and Times Square (10–15 minutes north) at a range of price points.
+    a: Koreatown on 32nd Street and Chelsea's restaurant strip are both a short walk away, and Midtown hotels cluster around Penn Station, Herald Square, and Times Square (10–15 minutes north) at a range of price points.
 aiGenerated: true
 draft: false
 eventRecurring: false
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg/960px-Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg
   credit: 'Photo: Wilnel José Verdú Guerrero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Harry-Styles-en-Barcelona,-Love-On-Tour.jpg
+  source: https://commons.wikimedia.org/wiki/File:Harry-Styles-en-Barcelona,-Love-On-Tour.jpg
   focus:
     x: 40
     'y': 40
 eventOrganizer:
   name: Live Nation
-  url: 'https://www.livenationentertainment.com'
+  url: https://www.livenationentertainment.com
 eventOffers:
-  url: >-
-    https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B0064350404814E
+  url: https://www.msg.com/events-tickets/harry-styles-jamie-xx-madison-square-garden-2026/3B0064350404814E
 eventPerformer:
   name: Harry Styles
   kind: person

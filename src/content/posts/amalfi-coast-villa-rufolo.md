@@ -1,34 +1,27 @@
 ---
 title: 'Villa Rufolo: Amalfi Coast Travel Guide (4.6★)'
-description: >-
-  Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century
-  Moorish-influenced villa whose terraced gardens frame one of the most
-  photographed sea views on the Amalfi Coast. 4.6★ (20,676 reviews) — what
-  visitors say, hours, and tips.
+description: Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. 4.6★ (20,676 reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Amalfi Coast
 category: attraction
 pubDate: '2026-08-05T11:08:54.620Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG
   credit: 'Photo: Istvánka / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG'
+  source: https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/9/97/Villa_Rufolo_Ravello_31.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Villa_Rufolo_Ravello_31.JPG/1920px-Villa_Rufolo_Ravello_31.JPG
     credit: 'Photo: Mentnafunangann / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Villa_Rufolo_Ravello_31.JPG'
+    source: https://commons.wikimedia.org/wiki/File:Villa_Rufolo_Ravello_31.JPG
 place:
   id: ChIJb8673Z-VOxMR3IhhgAAESjk
   name: Villa Rufolo
-  address: 'Piazza Duomo, 84010 Ravello SA, Italy'
+  address: Piazza Duomo, 84010 Ravello SA, Italy
   rating: 4.6
   userRatingsTotal: 20676
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4128116408638867676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=4128116408638867676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.6490143
   lng: 14.612004200000001
@@ -66,37 +59,18 @@ place:
 tags:
   - amalfi coast
   - museum
-quickAnswer: >-
-  Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century
-  Moorish-influenced villa whose terraced gardens frame one of the most
-  photographed sea views on the Amalfi Coast. Set aside 45–60 minutes to wander
-  the towers, cloister and belvedere. Crowds thin out before 9am and stay
-  lighter into early morning and evening; weekends between noon and 5pm are the
-  busiest stretch, so aim either side of that window.
+quickAnswer: Villa Rufolo sits right on Ravello's Piazza Duomo, a 13th-century Moorish-influenced villa whose terraced gardens frame one of the most photographed sea views on the Amalfi Coast. Set aside 45–60 minutes to wander the towers, cloister and belvedere. Crowds thin out before 9am and stay lighter into early morning and evening; weekends between noon and 5pm are the busiest stretch, so aim either side of that window.
 faq:
   - q: How long should I spend at Villa Rufolo?
-    a: >-
-      Most visitors need 45 minutes to an hour to walk the cloister, tower and
-      terraced gardens down to the belvedere overlook.
+    a: Most visitors need 45 minutes to an hour to walk the cloister, tower and terraced gardens down to the belvedere overlook.
   - q: When is the quietest time to visit?
-    a: >-
-      Both on weekdays and weekends, the calmer hours run from 9am to 8pm
-      generally; the sharpest crowding hits on weekends between 12pm and 5pm, so
-      book either side of that if you can.
+    a: Both on weekdays and weekends, the calmer hours run from 9am to 8pm generally; the sharpest crowding hits on weekends between 12pm and 5pm, so book either side of that if you can.
   - q: How do I get to Villa Rufolo without a car?
-    a: >-
-      Take a SITA bus or taxi up to Ravello from Amalfi or Minori (about 25–30
-      minutes); the villa entrance is right on Piazza Duomo beside Ravello's
-      cathedral.
+    a: Take a SITA bus or taxi up to Ravello from Amalfi or Minori (about 25–30 minutes); the villa entrance is right on Piazza Duomo beside Ravello's cathedral.
   - q: Is Villa Rufolo worth combining with anything else in Ravello?
-    a: >-
-      Yes — Villa Cimbrone and its famous Terrace of Infinity is roughly a
-      15-minute walk away, making for a natural half-day pairing.
+    a: Yes — Villa Cimbrone and its famous Terrace of Infinity is roughly a 15-minute walk away, making for a natural half-day pairing.
   - q: What's the best season to visit?
-    a: >-
-      Spring through early summer for the gardens in bloom, and June to
-      September if you want to catch a Ravello Festival concert staged on the
-      belvedere.
+    a: Spring through early summer for the gardens in bloom, and June to September if you want to catch a Ravello Festival concert staged on the belvedere.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-09'

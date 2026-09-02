@@ -1,39 +1,40 @@
 ---
-title: "Baratti & Milano: Turin Travel Guide"
+title: 'Baratti & Milano: Turin Travel Guide'
 description: Baratti & Milano is a gilded, mirror-lined 19th-century café on Piazza Castello, right beneath the Galleria Subalpina, famous for its gianduiotto chocolates, bicerin (Turin's layered coffee-chocolate-cream drink), and marble-and-brass Belle Époque interior.
-country: "Italy"
-region: "Turin"
-category: "trendy"
-pubDate: "2026-07-31T10:21:20.720Z"
+country: Italy
+region: Turin
+category: trendy
+pubDate: '2026-07-31T10:21:20.720Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/91/Baratti_%26_Milano_in_Turino.jpg"
-  credit: "Photo: Salvatore Costa from Montesilvano, italy / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Baratti_%26_Milano_in_Turino.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Baratti_%26_Milano_in_Turino.jpg/1920px-Baratti_%26_Milano_in_Turino.jpg
+  credit: 'Photo: Salvatore Costa from Montesilvano, italy / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Baratti_%26_Milano_in_Turino.jpg
 gallery: []
 place:
-  id: "ChIJcZTTcnBtiEcRpUXvKPN_dEw"
-  name: "Baratti & Milano"
-  address: "P.za Castello, 29, 10123 Torino TO, Italy"
+  id: ChIJcZTTcnBtiEcRpUXvKPN_dEw
+  name: Baratti & Milano
+  address: P.za Castello, 29, 10123 Torino TO, Italy
   rating: 4.3
   userRatingsTotal: 2461
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=5509168926521509285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5509168926521509285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.069695499999995
   lng: 7.6865028
-  phone: '+39 011 440 7138'
+  phone: +39 011 440 7138
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 8:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 8:00 PM"
-    - "Friday: 9:00 AM – 8:00 PM"
-    - "Saturday: 9:00 AM – 8:00 PM"
-    - "Sunday: 9:00 AM – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 8:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 8:00 PM'
+    - 'Friday: 9:00 AM – 8:00 PM'
+    - 'Saturday: 9:00 AM – 8:00 PM'
+    - 'Sunday: 9:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-07-31
-    weekdayQuiet: [9]
+    updated: 2026-07-31T00:00:00.000Z
+    weekdayQuiet:
+      - 9
     weekdayBusy: []
     weekendBusy:
       - 10
@@ -46,22 +47,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_7745645f4e504b765855705263456974426e6354545a634a496843"
+    venueId: ven_7745645f4e504b765855705263456974426e6354545a634a496843
 tags:
-  - "turin"
-  - "trendy cafe"
-quickAnswer: "Baratti & Milano is a gilded, mirror-lined 19th-century café on Piazza Castello, right beneath the Galleria Subalpina, famous for its gianduiotto chocolates, bicerin (Turin's layered coffee-chocolate-cream drink), and marble-and-brass Belle Époque interior. It's open daily except Monday, 9am–8pm; go right at opening (9–10am) on a weekday to get a table without a wait, and skip the 10am–8pm weekend rush if you can."
+  - turin
+  - trendy cafe
+quickAnswer: Baratti & Milano is a gilded, mirror-lined 19th-century café on Piazza Castello, right beneath the Galleria Subalpina, famous for its gianduiotto chocolates, bicerin (Turin's layered coffee-chocolate-cream drink), and marble-and-brass Belle Époque interior. It's open daily except Monday, 9am–8pm; go right at opening (9–10am) on a weekday to get a table without a wait, and skip the 10am–8pm weekend rush if you can.
 faq:
-  - q: "How do I get to Baratti & Milano?"
-    a: "It's on Piazza Castello at the entrance to the Galleria Subalpina, in central Turin — about a 20-minute walk from Porta Nuova station, or a short tram ride. It's within easy walking distance of the Royal Palace and Palazzo Madama."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekdays between 9am and 10am, right at opening, are the quietest hours. Weekends stay busy from opening (9am) until close (8pm), so expect a fuller room any time you go on a Saturday or Sunday."
-  - q: "What should I order?"
-    a: "The bicerin — a layered espresso, drinking chocolate, and cream served unstirred — and a few gianduiotti, Turin's classic hazelnut chocolates sold by weight at the counter."
-  - q: "Is it expensive?"
-    a: "It's on the pricier side for a café, reflecting the historic setting and table service, but a coffee at the standing bar costs noticeably less than sitting at a table."
-  - q: "What days is it closed?"
-    a: "It's closed all day Monday. Tuesday through Sunday it's open 9am to 8pm."
+  - q: How do I get to Baratti & Milano?
+    a: It's on Piazza Castello at the entrance to the Galleria Subalpina, in central Turin — about a 20-minute walk from Porta Nuova station, or a short tram ride. It's within easy walking distance of the Royal Palace and Palazzo Madama.
+  - q: What's the best time to visit to avoid crowds?
+    a: Weekdays between 9am and 10am, right at opening, are the quietest hours. Weekends stay busy from opening (9am) until close (8pm), so expect a fuller room any time you go on a Saturday or Sunday.
+  - q: What should I order?
+    a: The bicerin — a layered espresso, drinking chocolate, and cream served unstirred — and a few gianduiotti, Turin's classic hazelnut chocolates sold by weight at the counter.
+  - q: Is it expensive?
+    a: It's on the pricier side for a café, reflecting the historic setting and table service, but a coffee at the standing bar costs noticeably less than sitting at a table.
+  - q: What days is it closed?
+    a: It's closed all day Monday. Tuesday through Sunday it's open 9am to 8pm.
 aiGenerated: true
 draft: false
 ---

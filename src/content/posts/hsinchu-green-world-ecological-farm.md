@@ -1,41 +1,41 @@
 ---
-title: "Green World Ecological Farm: Hsinchu Travel Guide (4.6★)"
-description: "Green World Ecological Farm is a large open-air wildlife park and botanical garden in Beipu Township, about 40–50 minutes by car from Hsinchu city. 4.6★ (32,634 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Hsinchu"
-category: "hidden-gem"
-pubDate: "2026-08-13T09:50:21.276Z"
+title: 'Green World Ecological Farm: Hsinchu Travel Guide (4.6★)'
+description: Green World Ecological Farm is a large open-air wildlife park and botanical garden in Beipu Township, about 40–50 minutes by car from Hsinchu city. 4.6★ (32,634 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Hsinchu
+category: hidden-gem
+pubDate: '2026-08-13T09:50:21.276Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pelicans_of_Green_World_Ecological_Farm.jpg/1920px-Pelicans_of_Green_World_Ecological_Farm.jpg"
-  credit: "Photo: ECO nature guide / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pelicans_of_Green_World_Ecological_Farm.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pelicans_of_Green_World_Ecological_Farm.jpg/1920px-Pelicans_of_Green_World_Ecological_Farm.jpg
+  credit: 'Photo: ECO nature guide / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Pelicans_of_Green_World_Ecological_Farm.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/75/Visitor_Center_in_Green_World_Ecological_Farm.jpg"
-    credit: "Photo: ECO nature guide / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Visitor_Center_in_Green_World_Ecological_Farm.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Visitor_Center_in_Green_World_Ecological_Farm.jpg/1280px-Visitor_Center_in_Green_World_Ecological_Farm.jpg
+    credit: 'Photo: ECO nature guide / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Visitor_Center_in_Green_World_Ecological_Farm.jpg
 place:
-  id: "ChIJE4DOdplIaDQRONNfLcJwi9A"
-  name: "Green World Ecological Farm"
-  address: "314, Taiwan, Hsinchu County, Beipu Township, 大湖村尾隘子7鄰20號"
+  id: ChIJE4DOdplIaDQRONNfLcJwi9A
+  name: Green World Ecological Farm
+  address: 314, Taiwan, Hsinchu County, Beipu Township, 大湖村尾隘子7鄰20號
   rating: 4.6
   userRatingsTotal: 32634
-  googleMapsUrl: "https://maps.google.com/?cid=15027228560939012920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15027228560939012920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.6988096
   lng: 121.07109600000001
-  phone: "+886 3 580 1000"
+  phone: +886 3 580 1000
   openingHours:
-    - "Monday: 8:30 AM – 5:30 PM"
-    - "Tuesday: 8:30 AM – 5:30 PM"
-    - "Wednesday: 8:30 AM – 5:30 PM"
-    - "Thursday: 8:30 AM – 5:30 PM"
-    - "Friday: 8:30 AM – 5:30 PM"
-    - "Saturday: 8:30 AM – 5:30 PM"
-    - "Sunday: 8:30 AM – 5:30 PM"
+    - 'Monday: 8:30 AM – 5:30 PM'
+    - 'Tuesday: 8:30 AM – 5:30 PM'
+    - 'Wednesday: 8:30 AM – 5:30 PM'
+    - 'Thursday: 8:30 AM – 5:30 PM'
+    - 'Friday: 8:30 AM – 5:30 PM'
+    - 'Saturday: 8:30 AM – 5:30 PM'
+    - 'Sunday: 8:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,22 +49,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_413969774a634c664e4e4f52514461496c70644f4434454a496843"
+    venueId: ven_413969774a634c664e4e4f52514461496c70644f4434454a496843
 tags:
-  - "hsinchu"
-  - "hidden gem"
-quickAnswer: "Green World Ecological Farm is a large open-air wildlife park and botanical garden in Beipu Township, about 40–50 minutes by car from Hsinchu city. Plan on 3–4 hours to see the animal shows, walk-through aviaries and lakeside trails. Weekdays between 9am and 5pm are noticeably calmer than weekends, when crowds build steadily from 10am onward."
+  - hsinchu
+  - hidden gem
+quickAnswer: Green World Ecological Farm is a large open-air wildlife park and botanical garden in Beipu Township, about 40–50 minutes by car from Hsinchu city. Plan on 3–4 hours to see the animal shows, walk-through aviaries and lakeside trails. Weekdays between 9am and 5pm are noticeably calmer than weekends, when crowds build steadily from 10am onward.
 faq:
-  - q: "How long should I plan for a visit?"
-    a: "Budget 3–4 hours minimum to cover the animal areas, a show, and the botanical trails without rushing; a full half-day lets you also stop by the lake."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 9am and 5pm are consistently calmer. Weekends get busy from 10am onward, so arrive right at the 8:30am opening if that's your only option."
-  - q: "How do I get there without a car?"
-    a: "Public transit is limited this far into Beipu Township's hills. Most visitors drive, rent a scooter, or book a taxi/private driver, ideally arranging the return trip in advance."
-  - q: "Is it worth combining with anything else nearby?"
-    a: "Yes — Beipu Old Street, known for Hakka lei cha tea and persimmon cakes, is a short drive away and pairs naturally with a farm visit."
-  - q: "What are the opening hours?"
-    a: "The farm is open daily from 8:30am to 5:30pm year-round based on current listings, but confirm hours before you go since they can change seasonally."
+  - q: How long should I plan for a visit?
+    a: Budget 3–4 hours minimum to cover the animal areas, a show, and the botanical trails without rushing; a full half-day lets you also stop by the lake.
+  - q: What's the quietest time to visit?
+    a: Weekdays between 9am and 5pm are consistently calmer. Weekends get busy from 10am onward, so arrive right at the 8:30am opening if that's your only option.
+  - q: How do I get there without a car?
+    a: Public transit is limited this far into Beipu Township's hills. Most visitors drive, rent a scooter, or book a taxi/private driver, ideally arranging the return trip in advance.
+  - q: Is it worth combining with anything else nearby?
+    a: Yes — Beipu Old Street, known for Hakka lei cha tea and persimmon cakes, is a short drive away and pairs naturally with a farm visit.
+  - q: What are the opening hours?
+    a: The farm is open daily from 8:30am to 5:30pm year-round based on current listings, but confirm hours before you go since they can change seasonally.
 aiGenerated: true
 draft: false
 ---

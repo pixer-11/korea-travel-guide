@@ -1,30 +1,23 @@
 ---
 title: 'Avenue of Stars HK: Central Travel Guide (4.3★)'
-description: >-
-  The Avenue of Stars sits on the Tsim Sha Tsui waterfront, a short walk from
-  Star Ferry Pier, with Bruce Lee's statue and dozens of handprint plaques
-  honoring Hong Kong cinema. 4.3★ (17,298 reviews) — what visitors say, hours,
-  and tips.
+description: The Avenue of Stars sits on the Tsim Sha Tsui waterfront, a short walk from Star Ferry Pier, with Bruce Lee's statue and dozens of handprint plaques honoring Hong Kong cinema. 4.3★ (17,298 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Central
 category: attraction
 pubDate: '2026-08-12T17:09:02.439Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/d/d6/HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E9%A6%99%E6%B8%AF%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_Avenue_of_Stars_November_2019_SS2_05.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E9%A6%99%E6%B8%AF%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_Avenue_of_Stars_November_2019_SS2_05.jpg/1920px-HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E9%A6%99%E6%B8%AF%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_Avenue_of_Stars_November_2019_SS2_05.jpg
   credit: 'Photo: SANA Haoma 211 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E9%A6%99%E6%B8%AF%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_Avenue_of_Stars_November_2019_SS2_05.jpg
+  source: https://commons.wikimedia.org/wiki/File:HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E9%A6%99%E6%B8%AF%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_Avenue_of_Stars_November_2019_SS2_05.jpg
 gallery: []
 place:
   id: ChIJsyIrnPEABDQRzjValbVWEJo
   name: Avenue of Stars HK
-  address: 'Ave of Stars, Tsim Sha Tsui, Kowloon, Hong Kong'
+  address: Ave of Stars, Tsim Sha Tsui, Kowloon, Hong Kong
   rating: 4.3
   userRatingsTotal: 17298
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=11101468419363059150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=11101468419363059150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.293004600000003
   lng: 114.1741517
@@ -64,34 +57,18 @@ place:
 tags:
   - central
   - top attraction
-quickAnswer: >-
-  The Avenue of Stars sits on the Tsim Sha Tsui waterfront, a short walk from
-  Star Ferry Pier, with Bruce Lee's statue and dozens of handprint plaques
-  honoring Hong Kong cinema. It's open 24 hours and free. Go between 7am and 9am
-  to have the promenade nearly to yourself — by mid-afternoon on weekends it's
-  packed straight through to 11pm.
+quickAnswer: The Avenue of Stars sits on the Tsim Sha Tsui waterfront, a short walk from Star Ferry Pier, with Bruce Lee's statue and dozens of handprint plaques honoring Hong Kong cinema. It's open 24 hours and free. Go between 7am and 9am to have the promenade nearly to yourself — by mid-afternoon on weekends it's packed straight through to 11pm.
 faq:
   - q: How do I get to the Avenue of Stars from Central?
-    a: >-
-      Take the Star Ferry from Central Pier to Tsim Sha Tsui (about 8-10
-      minutes), then walk east along the harbourfront. Alternatively, ride the
-      MTR to East Tsim Sha Tsui Station and follow signs to Salisbury Road.
+    a: Take the Star Ferry from Central Pier to Tsim Sha Tsui (about 8-10 minutes), then walk east along the harbourfront. Alternatively, ride the MTR to East Tsim Sha Tsui Station and follow signs to Salisbury Road.
   - q: Is there an admission fee?
-    a: >-
-      No, the Avenue of Stars is free and open to the public 24 hours a day,
-      every day.
+    a: No, the Avenue of Stars is free and open to the public 24 hours a day, every day.
   - q: When is the quietest time to visit?
-    a: >-
-      Both weekdays and weekends are calmest between 7am and 9am. Avoid weekend
-      afternoons from 3pm to 11pm, when crowds are heaviest.
+    a: Both weekdays and weekends are calmest between 7am and 9am. Avoid weekend afternoons from 3pm to 11pm, when crowds are heaviest.
   - q: How long should I plan to spend there?
-    a: >-
-      A relaxed walk end to end takes 45 minutes to an hour, longer if you queue
-      for photos at the Bruce Lee statue or stay for the evening light show.
+    a: A relaxed walk end to end takes 45 minutes to an hour, longer if you queue for photos at the Bruce Lee statue or stay for the evening light show.
   - q: What else is nearby?
-    a: >-
-      The Hong Kong Cultural Centre, Museum of Art, Space Museum, and Clock
-      Tower are all within a few minutes' walk along the same waterfront.
+    a: The Hong Kong Cultural Centre, Museum of Art, Space Museum, and Clock Tower are all within a few minutes' walk along the same waterfront.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

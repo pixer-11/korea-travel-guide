@@ -1,32 +1,32 @@
 ---
-title: "Saint Mark's Basilica: Venice Travel Guide (4.7★)"
-description: "Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. 4.7★ (29,559 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Venice"
-category: "attraction"
-pubDate: "2026-08-05T11:43:36.855Z"
+title: 'Saint Mark''s Basilica: Venice Travel Guide (4.7★)'
+description: Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. 4.7★ (29,559 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Venice
+category: attraction
+pubDate: '2026-08-05T11:43:36.855Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg/1920px-Venezia_Basilica_di_San_Marco_Fassade_2.jpg"
-  credit: "Photo: Zairon / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg/1920px-Venezia_Basilica_di_San_Marco_Fassade_2.jpg
+  credit: 'Photo: Zairon / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/79/San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg"
-    credit: "Photo: This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en]). Feel free to use my pictures, but please credit me as the author (as required by the license). An email or a message would be welcome. More free-licensed pictures on my french Wikipedia account. My website : www.romanceor.net. / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg/1920px-San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg
+    credit: 'Photo: This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en]). Feel free to use my pictures, but please credit me as the author (as required by the license). An email or a message would be welcome. More free-licensed pictures on my french Wikipedia account. My website : www.romanceor.net. / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg
 place:
-  id: "ChIJv2xSZNexfkcRBaKsgyfVEgo"
-  name: "Saint Mark's Basilica"
-  address: "P.za San Marco, 328, 30124 Venezia VE, Italy"
+  id: ChIJv2xSZNexfkcRBaKsgyfVEgo
+  name: Saint Mark's Basilica
+  address: P.za San Marco, 328, 30124 Venezia VE, Italy
   rating: 4.7
   userRatingsTotal: 29559
-  googleMapsUrl: "https://maps.google.com/?cid=725876855649640965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=725876855649640965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.434560600000005
   lng: 12.3397125
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -44,22 +44,22 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6f674556667967734b614252636b6678654e5a537832764a496843"
+    venueId: ven_6f674556667967734b614252636b6678654e5a537832764a496843
 tags:
-  - "venice"
-  - "historic site"
-quickAnswer: "Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. Go right at opening or in the early afternoon; crowds build steadily from midday and peak between 12pm and 3pm on weekends. Basic entry to the church is free, but you'll want to budget extra time and a small fee for the Loggia dei Cavalli, the Pala d'Oro, and the Treasury."
+  - venice
+  - historic site
+quickAnswer: Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. Go right at opening or in the early afternoon; crowds build steadily from midday and peak between 12pm and 3pm on weekends. Basic entry to the church is free, but you'll want to budget extra time and a small fee for the Loggia dei Cavalli, the Pala d'Oro, and the Treasury.
 faq:
-  - q: "Do I need to pay to enter Saint Mark's Basilica?"
-    a: "The main church is free to enter, but the Pala d'Oro (golden altar screen), the Treasury, and the Museo di San Marco with access to the Loggia dei Cavalli each carry a small separate fee."
-  - q: "When is the quietest time to visit?"
-    a: "Foot-traffic data shows the calm window runs 9am–6pm on both weekdays and weekends; the one stretch to avoid is 12pm–3pm on weekends, when the piazza fills with tour groups."
-  - q: "How do I get to the basilica without a metro?"
-    a: "Venice has no metro — take vaporetto lines 1 or 2 to San Marco-Vallaresso or San Zaccaria, both a short walk away, or walk about 15-20 minutes from the Rialto Bridge through the Mercerie."
-  - q: "How long should I plan to spend inside?"
-    a: "About 45 minutes for the church alone, or up to 90 minutes if you add the Pala d'Oro, Treasury, and the Loggia dei Cavalli museum."
-  - q: "Is there a dress code?"
-    a: "Yes — shoulders and knees must be covered for both men and women, and visitors in shorts, sleeveless tops, or low necklines are turned away at the door regardless of the weather."
+  - q: Do I need to pay to enter Saint Mark's Basilica?
+    a: The main church is free to enter, but the Pala d'Oro (golden altar screen), the Treasury, and the Museo di San Marco with access to the Loggia dei Cavalli each carry a small separate fee.
+  - q: When is the quietest time to visit?
+    a: Foot-traffic data shows the calm window runs 9am–6pm on both weekdays and weekends; the one stretch to avoid is 12pm–3pm on weekends, when the piazza fills with tour groups.
+  - q: How do I get to the basilica without a metro?
+    a: Venice has no metro — take vaporetto lines 1 or 2 to San Marco-Vallaresso or San Zaccaria, both a short walk away, or walk about 15-20 minutes from the Rialto Bridge through the Mercerie.
+  - q: How long should I plan to spend inside?
+    a: About 45 minutes for the church alone, or up to 90 minutes if you add the Pala d'Oro, Treasury, and the Loggia dei Cavalli museum.
+  - q: Is there a dress code?
+    a: Yes — shoulders and knees must be covered for both men and women, and visitors in shorts, sleeveless tops, or low necklines are turned away at the door regardless of the weather.
 aiGenerated: true
 draft: false
 ---

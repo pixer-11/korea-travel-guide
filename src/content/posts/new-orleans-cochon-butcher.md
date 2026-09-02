@@ -1,51 +1,51 @@
 ---
-title: "Cochon Butcher: Where to Eat in New Orleans (4.8★)"
-description: "Cochon Butcher is the casual, sandwich-and-charcuterie sibling of Cochon restaurant, tucked in a warehouse-district alley off Tchoupitoulas Street. 4.8★ (2,631 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "restaurant"
-pubDate: "2026-08-08T08:04:49.845Z"
+title: 'Cochon Butcher: Where to Eat in New Orleans (4.8★)'
+description: Cochon Butcher is the casual, sandwich-and-charcuterie sibling of Cochon restaurant, tucked in a warehouse-district alley off Tchoupitoulas Street. 4.8★ (2,631 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: restaurant
+pubDate: '2026-08-08T08:04:49.845Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg"
-  credit: "Photo: T.Tseng / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Couchon_Butcher_Restaurant,_New_Orleans_-_Cochon_Muffaletta.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg/1920px-Couchon_Butcher_Restaurant%2C_New_Orleans_-_Cochon_Muffaletta.jpg
+  credit: 'Photo: T.Tseng / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Couchon_Butcher_Restaurant,_New_Orleans_-_Cochon_Muffaletta.jpg
 gallery: []
 place:
-  id: "ChIJCe1AzC2nIIYRTU9lLew974M"
-  name: "Cochon Butcher"
-  address: "930 Tchoupitoulas St Ste B, New Orleans, LA 70130, USA"
+  id: ChIJCe1AzC2nIIYRTU9lLew974M
+  name: Cochon Butcher
+  address: 930 Tchoupitoulas St Ste B, New Orleans, LA 70130, USA
   rating: 4.8
   userRatingsTotal: 2631
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=9506885422985596749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9506885422985596749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.9422838
   lng: -90.0672549
-  phone: "+1 504-588-7675"
+  phone: +1 504-588-7675
   openingHours:
-    - "Monday: 11:00 AM – 10:00 PM"
-    - "Tuesday: 11:00 AM – 10:00 PM"
-    - "Wednesday: 11:00 AM – 10:00 PM"
-    - "Thursday: 11:00 AM – 10:00 PM"
-    - "Friday: 11:00 AM – 10:00 PM"
-    - "Saturday: 11:00 AM – 10:00 PM"
-    - "Sunday: 11:00 AM – 10:00 PM"
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
 tags:
-  - "new orleans"
-  - "grill"
-quickAnswer: "Cochon Butcher is the casual, sandwich-and-charcuterie sibling of Cochon restaurant, tucked in a warehouse-district alley off Tchoupitoulas Street. Go for the muffuletta or the pork belly cubano, order at the counter, and expect a wait at peak lunch hours. It's open daily 11am–10pm, so a late-afternoon visit (2–4pm) is your best shot at a table without a line."
+  - new orleans
+  - grill
+quickAnswer: Cochon Butcher is the casual, sandwich-and-charcuterie sibling of Cochon restaurant, tucked in a warehouse-district alley off Tchoupitoulas Street. Go for the muffuletta or the pork belly cubano, order at the counter, and expect a wait at peak lunch hours. It's open daily 11am–10pm, so a late-afternoon visit (2–4pm) is your best shot at a table without a line.
 faq:
-  - q: "How do I get to Cochon Butcher?"
-    a: "It's at 930 Tchoupitoulas St, Ste B, in the Warehouse District — look for the alley entrance rather than a street-facing door. It's walkable from the Convention Center and about 20 minutes on foot from the French Quarter."
-  - q: "What's the best time to visit to avoid a line?"
-    a: "Aim for 2pm to 4pm on a weekday. The noon-to-1:30pm lunch rush, especially near the Convention Center, is when it's busiest."
-  - q: "Do I need a reservation?"
-    a: "No — it's counter service. Order at the register, take a number, and find a seat at the communal tables or bar."
-  - q: "What should I order?"
-    a: "The muffuletta and the pork belly cubano are the standouts, along with boudin balls and whatever wood-fired oyster po'boy is running that day."
-  - q: "Is it good for a quick bite or a sit-down meal?"
-    a: "Both work. Sandwiches travel well for a quick to-go lunch, but the communal tables and bar make it easy to linger over a plate and a beer."
+  - q: How do I get to Cochon Butcher?
+    a: It's at 930 Tchoupitoulas St, Ste B, in the Warehouse District — look for the alley entrance rather than a street-facing door. It's walkable from the Convention Center and about 20 minutes on foot from the French Quarter.
+  - q: What's the best time to visit to avoid a line?
+    a: Aim for 2pm to 4pm on a weekday. The noon-to-1:30pm lunch rush, especially near the Convention Center, is when it's busiest.
+  - q: Do I need a reservation?
+    a: No — it's counter service. Order at the register, take a number, and find a seat at the communal tables or bar.
+  - q: What should I order?
+    a: The muffuletta and the pork belly cubano are the standouts, along with boudin balls and whatever wood-fired oyster po'boy is running that day.
+  - q: Is it good for a quick bite or a sit-down meal?
+    a: Both work. Sandwiches travel well for a quick to-go lunch, but the communal tables and bar make it easy to linger over a plate and a beer.
 aiGenerated: true
 draft: false
 ---

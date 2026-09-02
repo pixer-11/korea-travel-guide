@@ -8,7 +8,7 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg
   credit: 'Photo: Escla / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jacob_Forever_2019--06-09.jpg

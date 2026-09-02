@@ -1,58 +1,58 @@
 ---
-title: "Silk factory: Margilan Travel Guide (4.9★)"
-description: "The Silk factory in Margilan (on Mustaqillik ko'chasi, on the edge of town) is a working ikat silk workshop open daily 9am–6pm, and it's the best place near Fergana Valley to watch the whole process — from boiling cocoons to hand-tying and weaving on wooden looms. 4.9★ (113 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Margilan"
-category: "hidden-gem"
-pubDate: "2026-08-24T09:39:13.131Z"
+title: 'Silk factory: Margilan Travel Guide (4.9★)'
+description: The Silk factory in Margilan (on Mustaqillik ko'chasi, on the edge of town) is a working ikat silk workshop open daily 9am–6pm, and it's the best place near Fergana Valley to watch the whole process — from boiling cocoons to hand-tying and weaving on wooden looms. 4.9★ (113 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Margilan
+category: hidden-gem
+pubDate: '2026-08-24T09:39:13.131Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/97/Silk_factory_in_Margilan.jpg"
-  credit: "Photo: Bgag / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Silk_factory_in_Margilan.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Silk_factory_in_Margilan.jpg/1920px-Silk_factory_in_Margilan.jpg
+  credit: 'Photo: Bgag / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Silk_factory_in_Margilan.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Yodgorlik_Silk_Factory%2C_Margilan_%28497109%29.jpg"
-    credit: "Photo: upyernoz from Haverford, USA / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Yodgorlik_Silk_Factory,_Margilan_(497109).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Yodgorlik_Silk_Factory%2C_Margilan_%28497109%29.jpg/1280px-Yodgorlik_Silk_Factory%2C_Margilan_%28497109%29.jpg
+    credit: 'Photo: upyernoz from Haverford, USA / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Yodgorlik_Silk_Factory,_Margilan_(497109).jpg
 place:
-  id: "ChIJjUQMAgB3uzgR9nIE_vNdez4"
-  name: "Silk factory"
-  address: "uy, Mustaqillik ko'chasi 379, Marg‘ilon, Farg'ona Viloyati, Uzbekistan"
+  id: ChIJjUQMAgB3uzgR9nIE_vNdez4
+  name: Silk factory
+  address: uy, Mustaqillik ko'chasi 379, Marg‘ilon, Farg'ona Viloyati, Uzbekistan
   rating: 4.9
   userRatingsTotal: 113
-  googleMapsUrl: "https://maps.google.com/?cid=4502295555007083254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4502295555007083254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.4747485
   lng: 71.7218361
-  phone: "+998 91 329 10 87"
+  phone: +998 91 329 10 87
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - "margilan"
-  - "local market"
-quickAnswer: "The Silk factory in Margilan (on Mustaqillik ko'chasi, on the edge of town) is a working ikat silk workshop open daily 9am–6pm, and it's the best place near Fergana Valley to watch the whole process — from boiling cocoons to hand-tying and weaving on wooden looms. It's still under-the-radar, so you can often get a small-group or near-private tour. Budget an hour, and pair it with the Kumtepa bazaar if your visit lands on a market day."
+  - margilan
+  - local market
+quickAnswer: The Silk factory in Margilan (on Mustaqillik ko'chasi, on the edge of town) is a working ikat silk workshop open daily 9am–6pm, and it's the best place near Fergana Valley to watch the whole process — from boiling cocoons to hand-tying and weaving on wooden looms. It's still under-the-radar, so you can often get a small-group or near-private tour. Budget an hour, and pair it with the Kumtepa bazaar if your visit lands on a market day.
 faq:
-  - q: "How long should I spend at the Silk factory in Margilan?"
-    a: "Plan on about an hour for the guided walk-through, longer if you want to browse the showroom or watch the weavers work."
-  - q: "What are the opening hours?"
-    a: "It's open every day, including weekends, from 9:00 AM to 6:00 PM, so there's flexibility in when you visit."
-  - q: "How do I get to the Silk factory from Fergana or Tashkent?"
-    a: "There's no direct train to Margilan, so take a shared taxi or private car from Fergana city (about 12km away) or from Tashkent via the valley road, then a short local taxi to Mustaqillik ko'chasi."
-  - q: "Is it worth buying silk here versus in Tashkent?"
-    a: "Yes — buying directly from the workshop in Margilan is generally cheaper than boutique prices in Tashkent, and you can see exactly how the fabric was made."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are quietest. If you also want to see the bazaar, aim for a Thursday or Sunday when Kumtepa market is running."
+  - q: How long should I spend at the Silk factory in Margilan?
+    a: Plan on about an hour for the guided walk-through, longer if you want to browse the showroom or watch the weavers work.
+  - q: What are the opening hours?
+    a: It's open every day, including weekends, from 9:00 AM to 6:00 PM, so there's flexibility in when you visit.
+  - q: How do I get to the Silk factory from Fergana or Tashkent?
+    a: There's no direct train to Margilan, so take a shared taxi or private car from Fergana city (about 12km away) or from Tashkent via the valley road, then a short local taxi to Mustaqillik ko'chasi.
+  - q: Is it worth buying silk here versus in Tashkent?
+    a: Yes — buying directly from the workshop in Margilan is generally cheaper than boutique prices in Tashkent, and you can see exactly how the fabric was made.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings are quietest. If you also want to see the bazaar, aim for a Thursday or Sunday when Kumtepa market is running.
 aiGenerated: true
 draft: false
 ---

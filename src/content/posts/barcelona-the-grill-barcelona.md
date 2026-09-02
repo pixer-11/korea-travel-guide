@@ -1,36 +1,28 @@
 ---
 title: 'The Grill: Where to Eat in Barcelona (4.8★)'
-description: >-
-  The Grill Barcelona sits right at the foot of the Columbus Monument on Plaça
-  Portal de la Pau, where La Rambla meets the harbor — a mid-range Mediterranean
-  grill with a 4.8 rating from well over 3,000 reviews.
+description: The Grill Barcelona sits right at the foot of the Columbus Monument on Plaça Portal de la Pau, where La Rambla meets the harbor — a mid-range Mediterranean grill with a 4.8 rating from well over 3,000 reviews.
 country: Spain
 region: Barcelona
 category: restaurant
 pubDate: '2026-08-07T08:36:37.647Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/f/fd/Bar_restaurant_Grill_Room_%28Barcelona%29.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bar_restaurant_Grill_Room_%28Barcelona%29.JPG/1920px-Bar_restaurant_Grill_Room_%28Barcelona%29.JPG
   credit: 'Photo: Jordiferrer / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Bar_restaurant_Grill_Room_(Barcelona).JPG
+  source: https://commons.wikimedia.org/wiki/File:Bar_restaurant_Grill_Room_(Barcelona).JPG
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/d/d7/226_Grill_Room%2C_c._Escudellers_8_%28Barcelona%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/226_Grill_Room%2C_c._Escudellers_8_%28Barcelona%29.jpg/1920px-226_Grill_Room%2C_c._Escudellers_8_%28Barcelona%29.jpg
     credit: 'Photo: Enric / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:226_Grill_Room,_c._Escudellers_8_(Barcelona).jpg
+    source: https://commons.wikimedia.org/wiki/File:226_Grill_Room,_c._Escudellers_8_(Barcelona).jpg
 place:
   id: ChIJe4hdggijpBIR1Eh34IJNnAE
   name: The Grill Barcelona
-  address: 'Plaça Portal de la Pau, 4, Ciutat Vella, 08002 Barcelona, Spain'
+  address: Plaça Portal de la Pau, 4, Ciutat Vella, 08002 Barcelona, Spain
   rating: 4.8
   userRatingsTotal: 3376
   priceLevel: 2
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=116052914911791316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=116052914911791316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3768475
   lng: 2.177443
@@ -66,37 +58,18 @@ place:
 tags:
   - barcelona
   - grill
-quickAnswer: >-
-  The Grill Barcelona sits right at the foot of the Columbus Monument on Plaça
-  Portal de la Pau, where La Rambla meets the harbor — a mid-range Mediterranean
-  grill with a 4.8 rating from well over 3,000 reviews. Go right at 10am opening
-  or aim for a late dinner after 8pm to dodge the 1pm–8pm weekend crush. Budget
-  an hour to 90 minutes for a proper sit-down grilled meal.
+quickAnswer: The Grill Barcelona sits right at the foot of the Columbus Monument on Plaça Portal de la Pau, where La Rambla meets the harbor — a mid-range Mediterranean grill with a 4.8 rating from well over 3,000 reviews. Go right at 10am opening or aim for a late dinner after 8pm to dodge the 1pm–8pm weekend crush. Budget an hour to 90 minutes for a proper sit-down grilled meal.
 faq:
   - q: How do I get to The Grill Barcelona?
-    a: >-
-      Take the metro to Drassanes (L3), a two-minute walk down La Rambla toward
-      the harbor, or walk from Barceloneta (L4), about 10–15 minutes along the
-      waterfront.
+    a: Take the metro to Drassanes (L3), a two-minute walk down La Rambla toward the harbor, or walk from Barceloneta (L4), about 10–15 minutes along the waterfront.
   - q: When is the quietest time to visit?
-    a: >-
-      Foot traffic is lowest across the general 10am–11pm window on both
-      weekdays and weekends — avoid 1pm–8pm on Saturdays and Sundays, which is
-      the measured busiest stretch.
+    a: Foot traffic is lowest across the general 10am–11pm window on both weekdays and weekends — avoid 1pm–8pm on Saturdays and Sundays, which is the measured busiest stretch.
   - q: Do I need a reservation?
-    a: >-
-      It's not strictly required, but with a 4.8 rating and heavy weekend
-      traffic, booking ahead or arriving right at the 10am opening is a safer
-      bet than walking in during peak afternoon hours.
+    a: It's not strictly required, but with a 4.8 rating and heavy weekend traffic, booking ahead or arriving right at the 10am opening is a safer bet than walking in during peak afternoon hours.
   - q: How much does a meal cost?
-    a: >-
-      It's mid-range for Barcelona — pricier than a casual tapas bar but well
-      below fine-dining rates, despite the prime location by the Columbus
-      Monument.
+    a: It's mid-range for Barcelona — pricier than a casual tapas bar but well below fine-dining rates, despite the prime location by the Columbus Monument.
   - q: What's nearby to combine with a visit?
-    a: >-
-      The Columbus Monument, the start of La Rambla, Port Vell's marina, and the
-      Museu Marítim are all within a few minutes' walk.
+    a: The Columbus Monument, the start of La Rambla, Port Vell's marina, and the Museu Marítim are all within a few minutes' walk.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Alcazaba,_Malaga_(DSC02867-Pano).jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/5/53/Malaga_Alcazaba_25-9-2007a.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Malaga_Alcazaba_25-9-2007a.JPG/1280px-Malaga_Alcazaba_25-9-2007a.JPG
     credit: 'Photo: Hedwig Storch / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Malaga_Alcazaba_25-9-2007a.JPG

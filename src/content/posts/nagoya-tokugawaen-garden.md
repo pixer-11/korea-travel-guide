@@ -1,45 +1,45 @@
 ---
-title: "Tokugawaen Garden: Nagoya Travel Guide (4.3★)"
-description: "Tokugawaen Garden in Higashi Ward, Nagoya, is a landscaped Edo-period style garden built around a large pond, stone bridges and tea houses, open every day except Monday from 9:30 AM to 5:30 PM. 4.3★ (6,681 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Nagoya"
-category: "attraction"
-pubDate: "2026-08-28T08:58:06.195Z"
+title: 'Tokugawaen Garden: Nagoya Travel Guide (4.3★)'
+description: Tokugawaen Garden in Higashi Ward, Nagoya, is a landscaped Edo-period style garden built around a large pond, stone bridges and tea houses, open every day except Monday from 9:30 AM to 5:30 PM. 4.3★ (6,681 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Nagoya
+category: attraction
+pubDate: '2026-08-28T08:58:06.195Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/67/Peony_garden_%40Tokugawaen_-_panoramio.jpg"
-  credit: "Photo: Masaya I / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Peony_garden_@Tokugawaen_-_panoramio.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Peony_garden_%40Tokugawaen_-_panoramio.jpg/1920px-Peony_garden_%40Tokugawaen_-_panoramio.jpg
+  credit: 'Photo: Masaya I / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Peony_garden_@Tokugawaen_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tokugawaen_Ryusen-ko_01%2C_Tokugawa-cho_Higashi_Ward_Nagoya_2014.jpg"
-    credit: "Photo: Tomio344456 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tokugawaen_Ryusen-ko_01,_Tokugawa-cho_Higashi_Ward_Nagoya_2014.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tokugawaen_Ryusen-ko_01%2C_Tokugawa-cho_Higashi_Ward_Nagoya_2014.jpg/1280px-Tokugawaen_Ryusen-ko_01%2C_Tokugawa-cho_Higashi_Ward_Nagoya_2014.jpg
+    credit: 'Photo: Tomio344456 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Tokugawaen_Ryusen-ko_01,_Tokugawa-cho_Higashi_Ward_Nagoya_2014.jpg
 place:
-  id: "ChIJC9iGK_VwA2ARo3u3Cgs1Axs"
-  name: "Tokugawaen Garden"
-  address: "1001 Tokugawachō, Higashi Ward, Nagoya, Aichi 461-0023, Japan"
+  id: ChIJC9iGK_VwA2ARo3u3Cgs1Axs
+  name: Tokugawaen Garden
+  address: 1001 Tokugawachō, Higashi Ward, Nagoya, Aichi 461-0023, Japan
   rating: 4.3
   userRatingsTotal: 6681
-  googleMapsUrl: "https://maps.google.com/?cid=1946457785494895523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1946457785494895523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.1842918
   lng: 136.9321824
-  phone: "+81 52-935-8988"
+  phone: +81 52-935-8988
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:30 PM"
-    - "Wednesday: 9:30 AM – 5:30 PM"
-    - "Thursday: 9:30 AM – 5:30 PM"
-    - "Friday: 9:30 AM – 5:30 PM"
-    - "Saturday: 9:30 AM – 5:30 PM"
-    - "Sunday: 9:30 AM – 5:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:30 PM'
+    - 'Wednesday: 9:30 AM – 5:30 PM'
+    - 'Thursday: 9:30 AM – 5:30 PM'
+    - 'Friday: 9:30 AM – 5:30 PM'
+    - 'Saturday: 9:30 AM – 5:30 PM'
+    - 'Sunday: 9:30 AM – 5:30 PM'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -53,22 +53,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_737841317367433375336f5241324177565f4b476939434a496843"
+    venueId: ven_737841317367433375336f5241324177565f4b476939434a496843
 tags:
-  - "nagoya"
-  - "park"
-quickAnswer: "Tokugawaen Garden in Higashi Ward, Nagoya, is a landscaped Edo-period style garden built around a large pond, stone bridges and tea houses, open every day except Monday from 9:30 AM to 5:30 PM. It's a popular spot, so weekends between 10am and 5pm draw the biggest crowds; arrive at opening for a calmer walk. Budget an hour to ninety minutes, and pair it with the neighbouring Tokugawa Art Museum for a full morning."
+  - nagoya
+  - park
+quickAnswer: Tokugawaen Garden in Higashi Ward, Nagoya, is a landscaped Edo-period style garden built around a large pond, stone bridges and tea houses, open every day except Monday from 9:30 AM to 5:30 PM. It's a popular spot, so weekends between 10am and 5pm draw the biggest crowds; arrive at opening for a calmer walk. Budget an hour to ninety minutes, and pair it with the neighbouring Tokugawa Art Museum for a full morning.
 faq:
-  - q: "What are Tokugawaen Garden's opening hours?"
-    a: "It's open Tuesday through Sunday, 9:30 AM to 5:30 PM, and closed all day Monday. Always confirm before visiting, as seasonal events can shift the schedule."
-  - q: "When is the best time to avoid crowds?"
-    a: "Try not to visit on Saturday or Sunday between 10am and 5pm, when the garden gets busiest. Arriving right at the 9:30 AM opening on a weekday gives you the calmest walk."
-  - q: "How long should I spend at Tokugawaen Garden?"
-    a: "Plan for about an hour to ninety minutes to walk the full loop around the pond. If you're pairing it with the neighbouring Tokugawa Art Museum, allow closer to two and a half to three hours total."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Tokugawa Art Museum sits right next to the garden and holds Owari Tokugawa family heirlooms, including lacquerware and samurai armor. A combined garden-and-museum ticket is often available at the entrance."
-  - q: "Is Tokugawaen Garden good for cherry blossoms or autumn leaves?"
-    a: "Yes, spring brings cherry blossoms along the paths, and autumn turns the maples around the central pond into deep reds and oranges, drawing the heaviest local interest of the year."
+  - q: What are Tokugawaen Garden's opening hours?
+    a: It's open Tuesday through Sunday, 9:30 AM to 5:30 PM, and closed all day Monday. Always confirm before visiting, as seasonal events can shift the schedule.
+  - q: When is the best time to avoid crowds?
+    a: Try not to visit on Saturday or Sunday between 10am and 5pm, when the garden gets busiest. Arriving right at the 9:30 AM opening on a weekday gives you the calmest walk.
+  - q: How long should I spend at Tokugawaen Garden?
+    a: Plan for about an hour to ninety minutes to walk the full loop around the pond. If you're pairing it with the neighbouring Tokugawa Art Museum, allow closer to two and a half to three hours total.
+  - q: What's nearby worth combining with a visit?
+    a: The Tokugawa Art Museum sits right next to the garden and holds Owari Tokugawa family heirlooms, including lacquerware and samurai armor. A combined garden-and-museum ticket is often available at the entrance.
+  - q: Is Tokugawaen Garden good for cherry blossoms or autumn leaves?
+    a: Yes, spring brings cherry blossoms along the paths, and autumn turns the maples around the central pond into deep reds and oranges, drawing the heaviest local interest of the year.
 aiGenerated: true
 draft: false
 ---

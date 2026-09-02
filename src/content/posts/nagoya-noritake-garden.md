@@ -6,7 +6,7 @@ region: Nagoya
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg/1280px-Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg
   credit: 'Photo: Tomio344456 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Noritake_Garden02,_Nishi_Ward_Nagoya_2014.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.1791153
   lng: 136.8812176
-  phone: '+81 52-561-7114'
+  phone: +81 52-561-7114
   openingHours:
     - 'Monday: Closed'
     - 'Tuesday: 10:00 AM – 5:00 PM'

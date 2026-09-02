@@ -1,43 +1,43 @@
 ---
-title: "Dinh Cậu: Phu Quoc Travel Guide (4.5★)"
-description: "Dinh Cậu is the small rock-perched shrine and blue-and-white striped lighthouse at the mouth of Duong Dong River — a 10-minute stop that's best done between 7am and 3pm, before the sunset crowds arrive. 4.5★ (3,635 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Phu Quoc"
-category: "attraction"
-pubDate: "2026-08-20T08:10:27.465Z"
+title: 'Dinh Cậu: Phu Quoc Travel Guide (4.5★)'
+description: Dinh Cậu is the small rock-perched shrine and blue-and-white striped lighthouse at the mouth of Duong Dong River — a 10-minute stop that's best done between 7am and 3pm, before the sunset crowds arrive. 4.5★ (3,635 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Phu Quoc
+category: attraction
+pubDate: '2026-08-20T08:10:27.465Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/85/M%C5%A9i_Dinh_C%E1%BA%ADu%2C_Phu_Quoc%2C_Kien_Giang_-_panoramio.jpg"
-  credit: "Photo: trungydang / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:M%C5%A9i_Dinh_C%E1%BA%ADu,_Phu_Quoc,_Kien_Giang_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/M%C5%A9i_Dinh_C%E1%BA%ADu%2C_Phu_Quoc%2C_Kien_Giang_-_panoramio.jpg/1920px-M%C5%A9i_Dinh_C%E1%BA%ADu%2C_Phu_Quoc%2C_Kien_Giang_-_panoramio.jpg
+  credit: 'Photo: trungydang / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:M%C5%A9i_Dinh_C%E1%BA%ADu,_Phu_Quoc,_Kien_Giang_-_panoramio.jpg
   focus:
     x: 68
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/83/Dinh_C%E1%BA%ADu_Ph%C3%BA_Qu%E1%BB%91c.jpg"
-    credit: "Photo: Hoangvantoanajc / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dinh_C%E1%BA%ADu_Ph%C3%BA_Qu%E1%BB%91c.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dinh_C%E1%BA%ADu_Ph%C3%BA_Qu%E1%BB%91c.jpg/1920px-Dinh_C%E1%BA%ADu_Ph%C3%BA_Qu%E1%BB%91c.jpg
+    credit: 'Photo: Hoangvantoanajc / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Dinh_C%E1%BA%ADu_Ph%C3%BA_Qu%E1%BB%91c.jpg
 place:
-  id: "ChIJn_OoioaMpzER6LmKuuTHasY"
-  name: "Dinh Cậu"
-  address: "Khu phố 2, Kiên Giang 92500, Vietnam"
+  id: ChIJn_OoioaMpzER6LmKuuTHasY
+  name: Dinh Cậu
+  address: Khu phố 2, Kiên Giang 92500, Vietnam
   rating: 4.5
   userRatingsTotal: 3635
-  googleMapsUrl: "https://maps.google.com/?cid=14297459752237185512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14297459752237185512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.217206599999999
   lng: 103.956442
   openingHours:
-    - "Monday: 7:00 AM – 8:30 PM"
-    - "Tuesday: 7:00 AM – 8:30 PM"
-    - "Wednesday: 7:00 AM – 8:30 PM"
-    - "Thursday: 7:00 AM – 8:30 PM"
-    - "Friday: 7:00 AM – 8:30 PM"
-    - "Saturday: 7:00 AM – 8:30 PM"
-    - "Sunday: 7:00 AM – 8:30 PM"
+    - 'Monday: 7:00 AM – 8:30 PM'
+    - 'Tuesday: 7:00 AM – 8:30 PM'
+    - 'Wednesday: 7:00 AM – 8:30 PM'
+    - 'Thursday: 7:00 AM – 8:30 PM'
+    - 'Friday: 7:00 AM – 8:30 PM'
+    - 'Saturday: 7:00 AM – 8:30 PM'
+    - 'Sunday: 7:00 AM – 8:30 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 13
@@ -54,22 +54,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_597361485475754b6d4c3652457a704d616f696f4f5f6e4a496843"
+    venueId: ven_597361485475754b6d4c3652457a704d616f696f4f5f6e4a496843
 tags:
-  - "phu quoc"
-  - "historic site"
-quickAnswer: "Dinh Cậu is the small rock-perched shrine and blue-and-white striped lighthouse at the mouth of Duong Dong River — a 10-minute stop that's best done between 7am and 3pm, before the sunset crowds arrive. It's free to visit, open daily 7am–8:30pm, and pairs naturally with a walk through Duong Dong night market right next door. Avoid 5pm–8pm on weekends if you want the steps to yourself."
+  - phu quoc
+  - historic site
+quickAnswer: Dinh Cậu is the small rock-perched shrine and blue-and-white striped lighthouse at the mouth of Duong Dong River — a 10-minute stop that's best done between 7am and 3pm, before the sunset crowds arrive. It's free to visit, open daily 7am–8:30pm, and pairs naturally with a walk through Duong Dong night market right next door. Avoid 5pm–8pm on weekends if you want the steps to yourself.
 faq:
-  - q: "How much does it cost to visit Dinh Cậu?"
-    a: "It's free. There's no ticket booth — you walk up the steps and explore the shrine and lighthouse area at your own pace. Small cash donations are welcome if you light incense."
-  - q: "What are the opening hours?"
-    a: "Dinh Cậu is open daily from 7am to 8:30pm, so it suits both a morning visit and an evening sunset stop."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 3pm on any day of the week. Avoid 5pm to 8pm on weekends, when it's busiest for sunset."
-  - q: "How long should I spend here?"
-    a: "Most visitors need 15–20 minutes. If you're staying for sunset or want to linger by the harbor, plan for closer to an hour."
-  - q: "What's nearby?"
-    a: "Duong Dong night market is a couple of minutes' walk away, along with the town's fishing harbor and riverside restaurants — easy to combine into one outing."
+  - q: How much does it cost to visit Dinh Cậu?
+    a: It's free. There's no ticket booth — you walk up the steps and explore the shrine and lighthouse area at your own pace. Small cash donations are welcome if you light incense.
+  - q: What are the opening hours?
+    a: Dinh Cậu is open daily from 7am to 8:30pm, so it suits both a morning visit and an evening sunset stop.
+  - q: When is the quietest time to visit?
+    a: Between 7am and 3pm on any day of the week. Avoid 5pm to 8pm on weekends, when it's busiest for sunset.
+  - q: How long should I spend here?
+    a: Most visitors need 15–20 minutes. If you're staying for sunset or want to linger by the harbor, plan for closer to an hour.
+  - q: What's nearby?
+    a: Duong Dong night market is a couple of minutes' walk away, along with the town's fishing harbor and riverside restaurants — easy to combine into one outing.
 aiGenerated: true
 draft: false
 ---

@@ -35,8 +35,11 @@ const BATCH = 40; // API caps titles at 50 per request
  */
 export function commonsTitle(url) {
   if (!url) return null;
-  let m = /^https?:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/thumb\/[0-9a-f]\/[0-9a-f]{2}\/([^/]+)\//.exec(url);
-  if (!m) m = /^https?:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/[0-9a-f]\/[0-9a-f]{2}\/([^/?#]+)/.exec(url);
+  // Both hosts: cleanCommonsUrl folds thumb.wikimedia.org into upload., but
+  // files stored before 2026-09-02 still carry the raw host, and identity is
+  // the one check that must never answer "not Commons" to a Commons file.
+  let m = /^https?:\/\/(?:upload|thumb)\.wikimedia\.org\/wikipedia\/commons\/thumb\/[0-9a-f]\/[0-9a-f]{2}\/([^/]+)\//.exec(url);
+  if (!m) m = /^https?:\/\/(?:upload|thumb)\.wikimedia\.org\/wikipedia\/commons\/[0-9a-f]\/[0-9a-f]{2}\/([^/?#]+)/.exec(url);
   if (!m) return null;
   try { return decodeURIComponent(m[1]); } catch { return m[1]; }
 }

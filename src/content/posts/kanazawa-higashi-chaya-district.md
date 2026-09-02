@@ -1,44 +1,44 @@
 ---
-title: "Higashi Chaya District: Kanazawa Travel Guide (4.2★)"
-description: "Higashi Chaya District in Kanazawa is a preserved geisha teahouse quarter east of the Asano River, easily reached by bus or taxi from Kanazawa Station. 4.2★ (23,552 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kanazawa"
-category: "attraction"
-pubDate: "2026-08-26T08:13:16.887Z"
+title: 'Higashi Chaya District: Kanazawa Travel Guide (4.2★)'
+description: Higashi Chaya District in Kanazawa is a preserved geisha teahouse quarter east of the Asano River, easily reached by bus or taxi from Kanazawa Station. 4.2★ (23,552 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kanazawa
+category: attraction
+pubDate: '2026-08-26T08:13:16.887Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/70/Higashi_Chaya_district%2C_Kanazawa_%283810723944%29.jpg"
-  credit: "Photo: Andrea Schaffer from Sydney, Australia / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Higashi_Chaya_district,_Kanazawa_(3810723944).jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Higashi_Chaya_district%2C_Kanazawa_%283810723944%29.jpg/1920px-Higashi_Chaya_district%2C_Kanazawa_%283810723944%29.jpg
+  credit: 'Photo: Andrea Schaffer from Sydney, Australia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Higashi_Chaya_district,_Kanazawa_(3810723944).jpg
+  via: act
   focus:
     x: 65
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Higashi_Chaya_district%2C_Kanazawa_%283809893551%29.jpg/3840px-Higashi_Chaya_district%2C_Kanazawa_%283809893551%29.jpg"
-    credit: "Photo: Andrea Schaffer from Sydney, Australia / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Higashi_Chaya_district,_Kanazawa_(3809893551).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Higashi_Chaya_district%2C_Kanazawa_%283809893551%29.jpg/3840px-Higashi_Chaya_district%2C_Kanazawa_%283809893551%29.jpg
+    credit: 'Photo: Andrea Schaffer from Sydney, Australia / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Higashi_Chaya_district,_Kanazawa_(3809893551).jpg
 place:
-  id: "ChIJsfC6oXQz-F8RdA1qXiF6jLs"
-  name: "Higashi Chaya District"
-  address: "1 Chome-13 Higashiyama, Kanazawa, Ishikawa 920-0831, Japan"
+  id: ChIJsfC6oXQz-F8RdA1qXiF6jLs
+  name: Higashi Chaya District
+  address: 1 Chome-13 Higashiyama, Kanazawa, Ishikawa 920-0831, Japan
   rating: 4.2
   userRatingsTotal: 23552
-  googleMapsUrl: "https://maps.google.com/?cid=13514310865568533876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13514310865568533876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.572582499999996
   lng: 136.6665601
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 20
@@ -66,22 +66,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_734c6a36466958713141645238462d7a51586f364366734a496843"
+    venueId: ven_734c6a36466958713141645238462d7a51586f364366734a496843
 tags:
-  - "kanazawa"
-  - "historic site"
-quickAnswer: "Higashi Chaya District in Kanazawa is a preserved geisha teahouse quarter east of the Asano River, easily reached by bus or taxi from Kanazawa Station. It's a district, not a ticketed site, so it's open around the clock — but for the atmospheric wooden-lattice streets without crowds, come before 10am. Weekends from 10am to 6pm are when tour groups pack the main lane."
+  - kanazawa
+  - historic site
+quickAnswer: Higashi Chaya District in Kanazawa is a preserved geisha teahouse quarter east of the Asano River, easily reached by bus or taxi from Kanazawa Station. It's a district, not a ticketed site, so it's open around the clock — but for the atmospheric wooden-lattice streets without crowds, come before 10am. Weekends from 10am to 6pm are when tour groups pack the main lane.
 faq:
-  - q: "How do I get to Higashi Chaya District from Kanazawa Station?"
-    a: "Take the Kanazawa Loop Bus or a city bus toward Hashiba-cho, then walk about 5 minutes across the Asano River. A taxi takes roughly 10–15 minutes."
-  - q: "Is there an entrance fee for Higashi Chaya District?"
-    a: "No — it's a public street district, open 24/7 with no admission. Individual sights like Shima Teahouse or Kaikaro charge a small entry fee to go inside."
-  - q: "When is the quietest time to visit?"
-    a: "Foot traffic is calmest from 7am to 11pm on both weekdays and weekends. For the emptiest streets, aim for right around 7am; avoid 10am–6pm on weekends, which is the busiest window."
-  - q: "How long should I spend here?"
-    a: "Two to three hours covers the main street, a teahouse museum or two, and a gold-leaf shop stop. Add 20–30 minutes if you walk across to Kazuemachi district as well."
-  - q: "Can I see a real geisha performance?"
-    a: "A few teahouses still host performances, but these are typically by reservation and limited in seating — arrange this in advance rather than expecting a walk-in show."
+  - q: How do I get to Higashi Chaya District from Kanazawa Station?
+    a: Take the Kanazawa Loop Bus or a city bus toward Hashiba-cho, then walk about 5 minutes across the Asano River. A taxi takes roughly 10–15 minutes.
+  - q: Is there an entrance fee for Higashi Chaya District?
+    a: No — it's a public street district, open 24/7 with no admission. Individual sights like Shima Teahouse or Kaikaro charge a small entry fee to go inside.
+  - q: When is the quietest time to visit?
+    a: Foot traffic is calmest from 7am to 11pm on both weekdays and weekends. For the emptiest streets, aim for right around 7am; avoid 10am–6pm on weekends, which is the busiest window.
+  - q: How long should I spend here?
+    a: Two to three hours covers the main street, a teahouse museum or two, and a gold-leaf shop stop. Add 20–30 minutes if you walk across to Kazuemachi district as well.
+  - q: Can I see a real geisha performance?
+    a: A few teahouses still host performances, but these are typically by reservation and limited in seating — arrange this in advance rather than expecting a walk-in show.
 aiGenerated: true
 draft: false
 ---

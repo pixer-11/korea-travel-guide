@@ -1,54 +1,54 @@
 ---
-title: "Homigot: Pohang Travel Guide"
+title: 'Homigot: Pohang Travel Guide'
 description: Homigot, on the easternmost tip of the Korean mainland in Nam-gu, Pohang, is famous for the "Hand of Harmony" — matching bronze hands rising from the sea and from the plaza above it — and for arguably the best sunrise view in Korea.
-country: "South Korea"
-region: "Pohang"
-category: "attraction"
-pubDate: "2026-07-28T10:04:06.377Z"
+country: South Korea
+region: Pohang
+category: attraction
+pubDate: '2026-07-28T10:04:06.377Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg"
-  credit: "Photo: Paul Bailey from Uijeongbu, Republic of Korea / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg/1280px-Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg
+  credit: 'Photo: Paul Bailey from Uijeongbu, Republic of Korea / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Homigot_20240113_001.jpg/1920px-Homigot_20240113_001.jpg"
-    credit: "Photo: Mobius6 / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Homigot_20240113_001.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Homigot_20240113_001.jpg/1920px-Homigot_20240113_001.jpg
+    credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Homigot_20240113_001.jpg
 place:
-  id: "ChIJayQBP4YRZzURZFngGYZ4V6Y"
-  name: "Homigot"
-  address: "464 Guman-ri, Homigot-myeon, Nam-gu, Pohang, Gyeongsangbuk-do, South Korea"
+  id: ChIJayQBP4YRZzURZFngGYZ4V6Y
+  name: Homigot
+  address: 464 Guman-ri, Homigot-myeon, Nam-gu, Pohang, Gyeongsangbuk-do, South Korea
   rating: 4.4
   userRatingsTotal: 422
-  googleMapsUrl: "https://maps.google.com/?cid=11986181450624948580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11986181450624948580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.07797970000001
   lng: 129.5696542
-  phone: '+82 54-270-5855'
+  phone: +82 54-270-5855
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "pohang"
-  - "top attraction"
-quickAnswer: "Homigot, on the easternmost tip of the Korean mainland in Nam-gu, Pohang, is famous for the \"Hand of Harmony\" — matching bronze hands rising from the sea and from the plaza above it — and for arguably the best sunrise view in Korea. Plan for 1.5–2 hours: watch the sun break the horizon over the sea-hand, then walk the plaza, lighthouse museum, and the smoking-squid street stalls. It's an easy half-day trip from central Pohang by car or taxi, best done at dawn or late afternoon rather than midday."
+  - pohang
+  - top attraction
+quickAnswer: 'Homigot, on the easternmost tip of the Korean mainland in Nam-gu, Pohang, is famous for the "Hand of Harmony" — matching bronze hands rising from the sea and from the plaza above it — and for arguably the best sunrise view in Korea. Plan for 1.5–2 hours: watch the sun break the horizon over the sea-hand, then walk the plaza, lighthouse museum, and the smoking-squid street stalls. It''s an easy half-day trip from central Pohang by car or taxi, best done at dawn or late afternoon rather than midday.'
 faq:
-  - q: "How do I get to Homigot from Pohang without a car?"
-    a: "Take a taxi (about 40–50 minutes from central Pohang) or a local city bus from Pohang's bus terminal area — buses run less frequently early morning and at night, so check schedules the evening before if you're chasing sunrise."
-  - q: "What time should I arrive for sunrise?"
-    a: "Aim to be at the plaza 30–40 minutes before official sunrise time so you can find a spot near the water and watch the color of the sky change; sunrise times shift seasonally, so check the current time before you go."
-  - q: "Is there an entrance fee?"
-    a: "The Homigot plaza and hand sculptures are open and free to walk around; the small lighthouse museum may have its own modest admission, which is worth confirming locally as it can change."
-  - q: "How long should I plan to spend at Homigot?"
-    a: "Budget 1.5–2 hours total: time for sunrise at the plaza, a walk to the lighthouse and museum, and a stop at the seafood snack stalls along the promenade."
-  - q: "Is Homigot crowded?"
-    a: "It draws a loyal following (4.4 rating from 400+ reviews) but isn't overrun outside of New Year's Day, when huge crowds gather for the year's first sunrise — an ordinary morning here still feels calm."
+  - q: How do I get to Homigot from Pohang without a car?
+    a: Take a taxi (about 40–50 minutes from central Pohang) or a local city bus from Pohang's bus terminal area — buses run less frequently early morning and at night, so check schedules the evening before if you're chasing sunrise.
+  - q: What time should I arrive for sunrise?
+    a: Aim to be at the plaza 30–40 minutes before official sunrise time so you can find a spot near the water and watch the color of the sky change; sunrise times shift seasonally, so check the current time before you go.
+  - q: Is there an entrance fee?
+    a: The Homigot plaza and hand sculptures are open and free to walk around; the small lighthouse museum may have its own modest admission, which is worth confirming locally as it can change.
+  - q: How long should I plan to spend at Homigot?
+    a: 'Budget 1.5–2 hours total: time for sunrise at the plaza, a walk to the lighthouse and museum, and a stop at the seafood snack stalls along the promenade.'
+  - q: Is Homigot crowded?
+    a: It draws a loyal following (4.4 rating from 400+ reviews) but isn't overrun outside of New Year's Day, when huge crowds gather for the year's first sunrise — an ordinary morning here still feels calm.
 aiGenerated: true
 draft: false
 ---

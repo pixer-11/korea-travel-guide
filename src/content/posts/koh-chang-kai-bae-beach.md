@@ -1,54 +1,54 @@
 ---
-title: "Kai Bae Beach: Koh Chang Travel Guide (4.5★)"
-description: "Kai Bae Beach sits on Koh Chang's west coast, a long curve of pale sand split by rocky outcrops into three distinct stretches. 4.5★ (1,347 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Chang"
-category: "attraction"
-pubDate: "2026-08-15T07:55:01.680Z"
+title: 'Kai Bae Beach: Koh Chang Travel Guide (4.5★)'
+description: Kai Bae Beach sits on Koh Chang's west coast, a long curve of pale sand split by rocky outcrops into three distinct stretches. 4.5★ (1,347 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Koh Chang
+category: attraction
+pubDate: '2026-08-15T07:55:01.680Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg"
-  credit: "Photo: N 3 14 15 92 65 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kai_Bae_Beach,_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg/1920px-Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg
+  credit: 'Photo: N 3 14 15 92 65 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kai_Bae_Beach,_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Koh_Chang_sunset.jpg/3840px-Koh_Chang_sunset.jpg"
-    credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Koh_Chang_sunset.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Koh_Chang_sunset.jpg/3840px-Koh_Chang_sunset.jpg
+    credit: 'Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Koh_Chang_sunset.jpg
 place:
-  id: "ChIJw6xvxDIRBDER9hsGQEPt8nI"
-  name: "Kai Bae Beach"
-  address: "DPT., Tambon Ko Chang, Amphoe Ko Chang, Chang Wat Trat 23170, Thailand"
+  id: ChIJw6xvxDIRBDER9hsGQEPt8nI
+  name: Kai Bae Beach
+  address: DPT., Tambon Ko Chang, Amphoe Ko Chang, Chang Wat Trat 23170, Thailand
   rating: 4.5
   userRatingsTotal: 1347
-  googleMapsUrl: "https://maps.google.com/?cid=8282943537780497398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8282943537780497398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.0246678
   lng: 102.2911505
-  phone: "+66 63 669 5416"
+  phone: +66 63 669 5416
   openingHours:
-    - "Monday: 5:00 AM – 6:00 PM"
-    - "Tuesday: 5:00 AM – 6:00 PM"
-    - "Wednesday: 5:00 AM – 6:00 PM"
-    - "Thursday: 5:00 AM – 6:00 PM"
-    - "Friday: 5:00 AM – 6:00 PM"
-    - "Saturday: 5:00 AM – 6:00 PM"
-    - "Sunday: 5:00 AM – 6:00 PM"
+    - 'Monday: 5:00 AM – 6:00 PM'
+    - 'Tuesday: 5:00 AM – 6:00 PM'
+    - 'Wednesday: 5:00 AM – 6:00 PM'
+    - 'Thursday: 5:00 AM – 6:00 PM'
+    - 'Friday: 5:00 AM – 6:00 PM'
+    - 'Saturday: 5:00 AM – 6:00 PM'
+    - 'Sunday: 5:00 AM – 6:00 PM'
 tags:
-  - "koh chang"
-  - "top attraction"
-quickAnswer: "Kai Bae Beach sits on Koh Chang's west coast, a long curve of pale sand split by rocky outcrops into three distinct stretches. It's quieter and more residential than Klong Prao or White Sand Beach, with shallow water good for swimming and a strip of beachfront seafood shacks. Go at sunrise or late afternoon for the best light and fewest crowds; it's officially open 5am–6pm daily."
+  - koh chang
+  - top attraction
+quickAnswer: Kai Bae Beach sits on Koh Chang's west coast, a long curve of pale sand split by rocky outcrops into three distinct stretches. It's quieter and more residential than Klong Prao or White Sand Beach, with shallow water good for swimming and a strip of beachfront seafood shacks. Go at sunrise or late afternoon for the best light and fewest crowds; it's officially open 5am–6pm daily.
 faq:
-  - q: "What are the opening hours for Kai Bae Beach?"
-    a: "It's open daily from 5:00 AM to 6:00 PM. There's no night access, so plan sunset visits to wrap up before 6pm."
-  - q: "How do you get to Kai Bae Beach from the ferry pier?"
-    a: "From Ao Sapparot pier, it's about 15–20 minutes by songthaew (shared pickup taxi) along the coastal road, or you can rent a scooter for more flexibility."
-  - q: "When is the quietest time to visit Kai Bae Beach?"
-    a: "Early morning, right after it opens at 5am, and late afternoon after 4pm are both far calmer than midday, especially in high season (November–March)."
-  - q: "Is Kai Bae Beach good for swimming?"
-    a: "Yes — the northern cove near the resort cluster has a gentle, gradually sloping seafloor that's calm for swimming most of the year."
-  - q: "What else is near Kai Bae Beach?"
-    a: "Klong Prao Beach is just north and makes an easy half-day add-on, while White Sand Beach further north has the island's main restaurant and nightlife scene."
+  - q: What are the opening hours for Kai Bae Beach?
+    a: It's open daily from 5:00 AM to 6:00 PM. There's no night access, so plan sunset visits to wrap up before 6pm.
+  - q: How do you get to Kai Bae Beach from the ferry pier?
+    a: From Ao Sapparot pier, it's about 15–20 minutes by songthaew (shared pickup taxi) along the coastal road, or you can rent a scooter for more flexibility.
+  - q: When is the quietest time to visit Kai Bae Beach?
+    a: Early morning, right after it opens at 5am, and late afternoon after 4pm are both far calmer than midday, especially in high season (November–March).
+  - q: Is Kai Bae Beach good for swimming?
+    a: Yes — the northern cove near the resort cluster has a gentle, gradually sloping seafloor that's calm for swimming most of the year.
+  - q: What else is near Kai Bae Beach?
+    a: Klong Prao Beach is just north and makes an easy half-day add-on, while White Sand Beach further north has the island's main restaurant and nightlife scene.
 aiGenerated: true
 draft: false
 ---

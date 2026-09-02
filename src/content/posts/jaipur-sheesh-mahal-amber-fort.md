@@ -1,56 +1,56 @@
 ---
-title: "Sheesh Mahal, Amber Fort: Jaipur Travel Guide (4.6★)"
-description: "Sheesh Mahal sits inside Amber Fort's private royal quarters, open daily 8am–5:30pm. 4.6★ (6,271 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Jaipur"
-category: "attraction"
-pubDate: "2026-08-17T08:20:11.049Z"
+title: 'Sheesh Mahal, Amber Fort: Jaipur Travel Guide (4.6★)'
+description: Sheesh Mahal sits inside Amber Fort's private royal quarters, open daily 8am–5:30pm. 4.6★ (6,271 reviews) — what visitors say, hours, and tips.
+country: India
+region: Jaipur
+category: attraction
+pubDate: '2026-08-17T08:20:11.049Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg/3840px-PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg"
-  credit: "Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:PXL_20260305_040302328.MP_Sheesh_Mahal,_Amber_Fort_JAIGARH_FORT,_Devisinghpura,_Amer,_Jaipur,_Rajasthan_302028_06.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg/3840px-PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg
+  credit: 'Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:PXL_20260305_040302328.MP_Sheesh_Mahal,_Amber_Fort_JAIGARH_FORT,_Devisinghpura,_Amer,_Jaipur,_Rajasthan_302028_06.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/37/Amber_Fort-Jaipur-India0014.JPG"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Amber_Fort-Jaipur-India0014.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Amber_Fort-Jaipur-India0014.JPG/1920px-Amber_Fort-Jaipur-India0014.JPG
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Amber_Fort-Jaipur-India0014.JPG
 place:
-  id: "ChIJcXc6vH2xbTkRbcIu9i9aSk8"
-  name: "Sheesh Mahal, Amber Fort"
-  address: "JAIGARH FORT, Devisinghpura, Amber, Jaipur, Rajasthan 302028, India"
+  id: ChIJcXc6vH2xbTkRbcIu9i9aSk8
+  name: Sheesh Mahal, Amber Fort
+  address: JAIGARH FORT, Devisinghpura, Amber, Jaipur, Rajasthan 302028, India
   rating: 4.6
   userRatingsTotal: 6271
-  googleMapsUrl: "https://maps.google.com/?cid=5713478239313117805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5713478239313117805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 26.9857093
   lng: 75.8506434
   openingHours:
-    - "Monday: 8:00 AM – 5:30 PM"
-    - "Tuesday: 8:00 AM – 5:30 PM"
-    - "Wednesday: 8:00 AM – 5:30 PM"
-    - "Thursday: 8:00 AM – 5:30 PM"
-    - "Friday: 8:00 AM – 5:30 PM"
-    - "Saturday: 8:00 AM – 5:30 PM"
-    - "Sunday: 8:00 AM – 5:30 PM"
+    - 'Monday: 8:00 AM – 5:30 PM'
+    - 'Tuesday: 8:00 AM – 5:30 PM'
+    - 'Wednesday: 8:00 AM – 5:30 PM'
+    - 'Thursday: 8:00 AM – 5:30 PM'
+    - 'Friday: 8:00 AM – 5:30 PM'
+    - 'Saturday: 8:00 AM – 5:30 PM'
+    - 'Sunday: 8:00 AM – 5:30 PM'
 tags:
-  - "jaipur"
-  - "night view"
-quickAnswer: "Sheesh Mahal sits inside Amber Fort's private royal quarters, open daily 8am–5:30pm. Go right at opening or after 3:30pm to beat the tour-bus crowds that swamp it mid-morning, and bring a small flashlight or use your phone's torch to see the mirrorwork glitter properly."
+  - jaipur
+  - night view
+quickAnswer: Sheesh Mahal sits inside Amber Fort's private royal quarters, open daily 8am–5:30pm. Go right at opening or after 3:30pm to beat the tour-bus crowds that swamp it mid-morning, and bring a small flashlight or use your phone's torch to see the mirrorwork glitter properly.
 faq:
-  - q: "What are the opening hours for Sheesh Mahal at Amber Fort?"
-    a: "Amber Fort, including Sheesh Mahal, is open daily from 8:00 AM to 5:30 PM. There are no separate hours for the mirror palace itself since it's part of the main fort complex."
-  - q: "When is the quietest time to visit?"
-    a: "Arrive right at 8am opening or after 3:30pm. Midday, especially 11am–2pm, sees the heaviest tour-bus crowds and the longest queue to step inside the mirrored hall."
-  - q: "How do I get to Amber Fort from Jaipur city?"
-    a: "It's about 11 km north of central Jaipur, roughly a 25–40 minute ride by taxi, auto-rickshaw, or city bus from near Hawa Mahal."
-  - q: "How much time should I set aside?"
-    a: "Plan two to three hours for the full fort complex, including the walk to Sheesh Mahal through the Diwan-i-Aam and Ganesh Pol gateway."
-  - q: "Is Sheesh Mahal worth seeing beyond photos?"
-    a: "Yes — bring a phone torch or lighter and hold it near the mirrored wall. The tiny glass fragments flare into hundreds of points of light, the effect the room was originally designed to create with candlelight."
+  - q: What are the opening hours for Sheesh Mahal at Amber Fort?
+    a: Amber Fort, including Sheesh Mahal, is open daily from 8:00 AM to 5:30 PM. There are no separate hours for the mirror palace itself since it's part of the main fort complex.
+  - q: When is the quietest time to visit?
+    a: Arrive right at 8am opening or after 3:30pm. Midday, especially 11am–2pm, sees the heaviest tour-bus crowds and the longest queue to step inside the mirrored hall.
+  - q: How do I get to Amber Fort from Jaipur city?
+    a: It's about 11 km north of central Jaipur, roughly a 25–40 minute ride by taxi, auto-rickshaw, or city bus from near Hawa Mahal.
+  - q: How much time should I set aside?
+    a: Plan two to three hours for the full fort complex, including the walk to Sheesh Mahal through the Diwan-i-Aam and Ganesh Pol gateway.
+  - q: Is Sheesh Mahal worth seeing beyond photos?
+    a: Yes — bring a phone torch or lighter and hold it near the mirrored wall. The tiny glass fragments flare into hundreds of points of light, the effect the room was originally designed to create with candlelight.
 aiGenerated: true
 draft: false
 ---

@@ -1,35 +1,27 @@
 ---
 title: 'Ciutadella Park: Barcelona Travel Guide (4.6★)'
-description: >-
-  Ciutadella Park is Barcelona's grandest green space, sitting right behind the
-  Gothic-arched Arc de Triomf in Ciutat Vella — home to the monumental Cascada
-  fountain, a rowing lake, the Catalan Parliament building, and Barcelona Zoo.
-  4.6★ (78,104 reviews) — what visitors say, hours, and tips.
+description: Ciutadella Park is Barcelona's grandest green space, sitting right behind the Gothic-arched Arc de Triomf in Ciutat Vella — home to the monumental Cascada fountain, a rowing lake, the Catalan Parliament building, and Barcelona Zoo. 4.6★ (78,104 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
 category: attraction
 pubDate: '2026-08-06T10:33:29.220Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/e/e4/Ciutadella_Park_fountain.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ciutadella_Park_fountain.jpg/1920px-Ciutadella_Park_fountain.jpg
   credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Ciutadella_Park_fountain.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Ciutadella_Park_fountain.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barcelona_Parc_Ciutadella_cascada.jpg/3840px-Barcelona_Parc_Ciutadella_cascada.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barcelona_Parc_Ciutadella_cascada.jpg/3840px-Barcelona_Parc_Ciutadella_cascada.jpg
     credit: 'Photo: Isiwal / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Barcelona_Parc_Ciutadella_cascada.jpg
+    source: https://commons.wikimedia.org/wiki/File:Barcelona_Parc_Ciutadella_cascada.jpg
 place:
   id: ChIJ4QmWQ_2ipBIRcD1a5hhhOEI
   name: Ciutadella Park
-  address: 'Passeig de Picasso, 21, Ciutat Vella, 08003 Barcelona, Spain'
+  address: Passeig de Picasso, 21, Ciutat Vella, 08003 Barcelona, Spain
   rating: 4.6
   userRatingsTotal: 78104
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4771670564770823536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=4771670564770823536&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.388123
   lng: 2.1860152
@@ -62,37 +54,18 @@ place:
 tags:
   - barcelona
   - park
-quickAnswer: >-
-  Ciutadella Park is Barcelona's grandest green space, sitting right behind the
-  Gothic-arched Arc de Triomf in Ciutat Vella — home to the monumental Cascada
-  fountain, a rowing lake, the Catalan Parliament building, and Barcelona Zoo.
-  Go on foot or by Metro to Arc de Triomf (L1) and aim for early morning (7–9am)
-  to see it before the crowds and tour buses arrive; weekends get packed from
-  11am to 8pm.
+quickAnswer: Ciutadella Park is Barcelona's grandest green space, sitting right behind the Gothic-arched Arc de Triomf in Ciutat Vella — home to the monumental Cascada fountain, a rowing lake, the Catalan Parliament building, and Barcelona Zoo. Go on foot or by Metro to Arc de Triomf (L1) and aim for early morning (7–9am) to see it before the crowds and tour buses arrive; weekends get packed from 11am to 8pm.
 faq:
   - q: How do I get to Ciutadella Park?
-    a: >-
-      Take Metro L1 to Arc de Triomf, which lets out right at the park's main
-      gate on Passeig de Picasso. L4 to Jaume I or Barceloneta also works, about
-      a 10-minute walk.
+    a: Take Metro L1 to Arc de Triomf, which lets out right at the park's main gate on Passeig de Picasso. L4 to Jaume I or Barceloneta also works, about a 10-minute walk.
   - q: Is there an entrance fee?
-    a: >-
-      No, the park itself is free and open-air. Only the attractions inside —
-      Barcelona Zoo and the Museu de Ciències Naturals — charge separate
-      admission.
+    a: No, the park itself is free and open-air. Only the attractions inside — Barcelona Zoo and the Museu de Ciències Naturals — charge separate admission.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 7am and 8am, or weekends between 7am and 9am. After 11am
-      on weekends it stays busy right through to 8pm.
+    a: Weekdays between 7am and 8am, or weekends between 7am and 9am. After 11am on weekends it stays busy right through to 8pm.
   - q: How long should I plan to spend there?
-    a: >-
-      At least 90 minutes for the fountain, lake, and main avenues. Add extra
-      time if you also want to visit the zoo, which is a separate ticketed
-      attraction.
+    a: At least 90 minutes for the fountain, lake, and main avenues. Add extra time if you also want to visit the zoo, which is a separate ticketed attraction.
   - q: What's nearby if I want to extend the visit?
-    a: >-
-      The Gothic Quarter and El Born are a short walk southwest, and Barceloneta
-      beach is about 15-20 minutes on foot to the southeast.
+    a: The Gothic Quarter and El Born are a short walk southwest, and Barceloneta beach is about 15-20 minutes on foot to the southeast.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

@@ -1,8 +1,6 @@
 ---
 title: 'Phuket Vegetarian Festival: Dates, Tickets & Venue (Phuket)'
-description: >-
-  Phuket Vegetarian Festival in Phuket, Thailand — October 10-18, 2026. What it
-  is, when and where, and how to plan around it.
+description: Phuket Vegetarian Festival in Phuket, Thailand — October 10-18, 2026. What it is, when and where, and how to plan around it.
 country: Thailand
 region: Phuket
 category: event
@@ -18,47 +16,25 @@ gallery: []
 tags:
   - phuket
   - event
-quickAnswer: >-
-  The Phuket Vegetarian Festival (also known as the Nine Emperor Gods Festival)
-  runs October 10–18, 2026, with free entry to street processions and shrine
-  ceremonies across Phuket Town and nearby villages. There are no tickets — you
-  simply show up at the shrines or along the parade routes. Confirm timing and
-  tickets on the official site before you go, since exact ritual schedules shift
-  shrine by shrine.
+quickAnswer: The Phuket Vegetarian Festival (also known as the Nine Emperor Gods Festival) runs October 10–18, 2026, with free entry to street processions and shrine ceremonies across Phuket Town and nearby villages. There are no tickets — you simply show up at the shrines or along the parade routes. Confirm timing and tickets on the official site before you go, since exact ritual schedules shift shrine by shrine.
 faq:
   - q: When exactly is the Phuket Vegetarian Festival in 2026?
-    a: >-
-      It runs October 10–18, 2026, across Phuket Town and surrounding shrines.
-      Confirm exact daily procession schedules on the official festival or
-      Phuket tourism site, as they vary by shrine.
+    a: It runs October 10–18, 2026, across Phuket Town and surrounding shrines. Confirm exact daily procession schedules on the official festival or Phuket tourism site, as they vary by shrine.
   - q: Do I need tickets?
-    a: >-
-      No. Street processions and shrine visits are free and open to the public —
-      there's no ticketing system for the main events.
+    a: No. Street processions and shrine visits are free and open to the public — there's no ticketing system for the main events.
   - q: Where is the best place to watch the processions?
-    a: >-
-      Jui Tui Shrine on Ranong Road in Phuket Town hosts some of the biggest
-      processions, with Bang Niew Shrine known for especially intense piercing
-      rituals.
+    a: Jui Tui Shrine on Ranong Road in Phuket Town hosts some of the biggest processions, with Bang Niew Shrine known for especially intense piercing rituals.
   - q: What should I wear or avoid?
-    a: >-
-      Wear white or light, modest clothing as a sign of respect — avoid black.
-      Don't bring meat or alcohol near shrines or processions during the nine
-      days.
+    a: Wear white or light, modest clothing as a sign of respect — avoid black. Don't bring meat or alcohol near shrines or processions during the nine days.
   - q: How do I get from the beach areas to the festival?
-    a: >-
-      From Patong or Kata, taxis and songthaews reach Phuket Town in about 30–45
-      minutes. Expect road closures near shrines, so plan to walk the final
-      stretch.
+    a: From Patong or Kata, taxis and songthaews reach Phuket Town in about 30–45 minutes. Expect road closures near shrines, so plan to walk the final stretch.
 aiGenerated: true
 draft: false
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/6/61/2011_Phuket_Vegetarian_Festival_02.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2011_Phuket_Vegetarian_Festival_02.jpg/1920px-2011_Phuket_Vegetarian_Festival_02.jpg
   credit: 'Photo: Joseph Ferris III / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:2011_Phuket_Vegetarian_Festival_02.jpg
+  source: https://commons.wikimedia.org/wiki/File:2011_Phuket_Vegetarian_Festival_02.jpg
   focus:
     x: 47
     'y': 31

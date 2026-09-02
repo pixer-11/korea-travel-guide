@@ -6,15 +6,12 @@ region: Jakarta
 category: event
 draft: true
 heldReason: duplicate
-heldNote: >-
-  2026-09-01: same festival as jakarta-lalala-festival-2026 (JIExpo, Aug 22-23).
-  That twin is the indexed one (14 impressions, position 8.2 in GSC; this slug has none), so it
-  keeps the URL. Released from quarantine by the alt-photo patrol on 08-31 with no duplicate check.
+heldNote: '2026-09-01: same festival as jakarta-lalala-festival-2026 (JIExpo, Aug 22-23). That twin is the indexed one (14 impressions, position 8.2 in GSC; this slug has none), so it keeps the URL. Released from quarantine by the alt-photo patrol on 08-31 with no duplicate check.'
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-22'
 eventEndDate: '2026-08-23'
 heroImage:
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg
   credit: 'Photo: Thesupermat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg

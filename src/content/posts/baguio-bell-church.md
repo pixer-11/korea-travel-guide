@@ -1,73 +1,48 @@
 ---
 title: 'Bell Church: Baguio Travel Guide (4.4★)'
-description: >-
-  Bell Church is a small Buddhist and Taoist temple complex in La Trinidad, just
-  north of Baguio, known for its tiered pagoda gates, dragon-carved balustrades,
-  and a lily pond ringed by hillside views. 4.4★ (2,249 reviews) — what visitors
-  say, hours, and tips.
+description: Bell Church is a small Buddhist and Taoist temple complex in La Trinidad, just north of Baguio, known for its tiered pagoda gates, dragon-carved balustrades, and a lily pond ringed by hillside views. 4.4★ (2,249 reviews) — what visitors say, hours, and tips.
 country: Philippines
 region: Baguio
 category: attraction
 pubDate: '2026-08-20T09:09:39.887Z'
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Bell_Church_Benguet.jpg'
-  credit: >-
-    Photo: jepoycamboy from Makati, Philippines / Wikimedia Commons (CC BY-SA
-    2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bell_Church_Benguet.jpg/960px-Bell_Church_Benguet.jpg
+  credit: 'Photo: jepoycamboy from Makati, Philippines / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Bell_Church_Benguet.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Bell_Church_Benguet.jpg
   focus:
     x: 50
     'y': 40
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bell_Church%2C_Baguio_City%2C_Feb_2025_%286%29.jpg/3840px-Bell_Church%2C_Baguio_City%2C_Feb_2025_%286%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bell_Church%2C_Baguio_City%2C_Feb_2025_%286%29.jpg/3840px-Bell_Church%2C_Baguio_City%2C_Feb_2025_%286%29.jpg
     credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Bell_Church,_Baguio_City,_Feb_2025_(6).jpg
+    source: https://commons.wikimedia.org/wiki/File:Bell_Church,_Baguio_City,_Feb_2025_(6).jpg
 place:
   id: ChIJo60Jv-ejkTMRxuo8z6gqlQk
   name: Bell Church
-  address: 'CHJX+MH2, Bell Church Rd, La Trinidad, Benguet, Philippines'
+  address: CHJX+MH2, Bell Church Rd, La Trinidad, Benguet, Philippines
   rating: 4.4
   userRatingsTotal: 2249
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=690505022390987462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=690505022390987462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 16.431632999999998
   lng: 120.59887939999999
 tags:
   - baguio
   - historic site
-quickAnswer: >-
-  Bell Church is a small Buddhist and Taoist temple complex in La Trinidad, just
-  north of Baguio, known for its tiered pagoda gates, dragon-carved balustrades,
-  and a lily pond ringed by hillside views. It's free to enter (donations
-  welcome), takes about 30-45 minutes to see properly, and pairs well with a
-  stop at La Trinidad's strawberry fields since both sit along the same road out
-  of the city. Go on a weekday morning if you want the courtyards to yourself.
+quickAnswer: Bell Church is a small Buddhist and Taoist temple complex in La Trinidad, just north of Baguio, known for its tiered pagoda gates, dragon-carved balustrades, and a lily pond ringed by hillside views. It's free to enter (donations welcome), takes about 30-45 minutes to see properly, and pairs well with a stop at La Trinidad's strawberry fields since both sit along the same road out of the city. Go on a weekday morning if you want the courtyards to yourself.
 faq:
   - q: Is there an entrance fee for Bell Church?
-    a: >-
-      No official ticket — entry is free, though small donation boxes are placed
-      around the shrines and locals typically leave a few coins.
+    a: No official ticket — entry is free, though small donation boxes are placed around the shrines and locals typically leave a few coins.
   - q: How do I get to Bell Church from central Baguio?
-    a: >-
-      Take a taxi or a La Trinidad-bound jeepney and ask for the Bell Church
-      Road turnoff; the ride takes about 15-20 minutes from Session Road.
+    a: Take a taxi or a La Trinidad-bound jeepney and ask for the Bell Church Road turnoff; the ride takes about 15-20 minutes from Session Road.
   - q: How much time should I set aside?
-    a: >-
-      Most visitors spend 30 to 45 minutes walking the shrine tiers and pond
-      area; longer if you want to sit and take in the valley view.
+    a: Most visitors spend 30 to 45 minutes walking the shrine tiers and pond area; longer if you want to sit and take in the valley view.
   - q: What's the best time of day to visit?
-    a: >-
-      Early morning, before mid-morning tour groups from Baguio arrive — weekend
-      afternoons get the most crowded on the stairways.
+    a: Early morning, before mid-morning tour groups from Baguio arrive — weekend afternoons get the most crowded on the stairways.
   - q: What else is nearby?
-    a: >-
-      La Trinidad's strawberry farms and vegetable terraces are minutes away,
-      making Bell Church an easy add-on to a half-day valley trip.
+    a: La Trinidad's strawberry farms and vegetable terraces are minutes away, making Bell Church an easy add-on to a half-day valley trip.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

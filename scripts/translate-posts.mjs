@@ -235,6 +235,19 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
     }
     throw new Error(`model returned no translation after ${attempt} attempts`);
   }
+  // A body far shorter than its source is the same defect as an empty one,
+  // with a title and a first sentence for camouflage: ko and es of
+  // dubai-def-leppard-live-in-concert were 109 and 61 bytes against 4,302
+  // (found 2026-09-02), carried a valid srcHash, and read as fresh forever.
+  // Chinese runs at ~0.4 of the English length, so 0.2 is well under any real
+  // translation and well over a one-liner.
+  if (out.body.trim().length < 0.2 * String(data.body || '').trim().length) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — body is ${out.body.trim().length} chars against ${data.body.length}, retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`translation body is a stub (${out.body.trim().length} chars) after ${attempt} attempts`);
+  }
 
   // Reject a malformed translation instead of writing it. A dropped quickAnswer
   // is the same class of defect: the source had one, so a translation without it

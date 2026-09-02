@@ -1,35 +1,27 @@
 ---
 title: 'Ocean Park: Aberdeen Travel Guide (4.3★)'
-description: >-
-  Ocean Park sprawls across a headland above Aberdeen, split into a lowland area
-  and a hilltop zone linked by cable car and funicular. 4.3★ (33,745 reviews) —
-  what visitors say, hours, and tips.
+description: Ocean Park sprawls across a headland above Aberdeen, split into a lowland area and a hilltop zone linked by cable car and funicular. 4.3★ (33,745 reviews) — what visitors say, hours, and tips.
 country: Hong Kong
 region: Aberdeen
 category: attraction
 pubDate: '2026-08-12T17:18:20.263Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ocean_Park%2C_Hong_Kong_22-06-2025%2834%29.jpg/3840px-Ocean_Park%2C_Hong_Kong_22-06-2025%2834%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ocean_Park%2C_Hong_Kong_22-06-2025%2834%29.jpg/3840px-Ocean_Park%2C_Hong_Kong_22-06-2025%2834%29.jpg
   credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Ocean_Park,_Hong_Kong_22-06-2025(34).jpg
+  source: https://commons.wikimedia.org/wiki/File:Ocean_Park,_Hong_Kong_22-06-2025(34).jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/7/71/HK_%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92_Ocean_Park_view_%E5%8D%97%E7%81%A3_Larvotto_%E9%A6%99%E6%B8%AF%E4%BB%94%E6%B5%B7%E5%B3%BD_Aberdeen_Channel_01.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/HK_%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92_Ocean_Park_view_%E5%8D%97%E7%81%A3_Larvotto_%E9%A6%99%E6%B8%AF%E4%BB%94%E6%B5%B7%E5%B3%BD_Aberdeen_Channel_01.jpg/1920px-HK_%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92_Ocean_Park_view_%E5%8D%97%E7%81%A3_Larvotto_%E9%A6%99%E6%B8%AF%E4%BB%94%E6%B5%B7%E5%B3%BD_Aberdeen_Channel_01.jpg
     credit: 'Photo: Boliawennia / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:HK_%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92_Ocean_Park_view_%E5%8D%97%E7%81%A3_Larvotto_%E9%A6%99%E6%B8%AF%E4%BB%94%E6%B5%B7%E5%B3%BD_Aberdeen_Channel_01.jpg
+    source: https://commons.wikimedia.org/wiki/File:HK_%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92_Ocean_Park_view_%E5%8D%97%E7%81%A3_Larvotto_%E9%A6%99%E6%B8%AF%E4%BB%94%E6%B5%B7%E5%B3%BD_Aberdeen_Channel_01.jpg
 place:
   id: ChIJ4SEGMiQABDQRRhn7SYWq0fM
   name: Ocean Park
-  address: 'Aberdeen, Hong Kong'
+  address: Aberdeen, Hong Kong
   rating: 4.3
   userRatingsTotal: 33745
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17569011110797580614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17569011110797580614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 22.2466607
   lng: 114.1757239
@@ -45,36 +37,18 @@ place:
 tags:
   - aberdeen
   - top attraction
-quickAnswer: >-
-  Ocean Park sprawls across a headland above Aberdeen, split into a lowland area
-  and a hilltop zone linked by cable car and funicular. Give it a full day,
-  arrive right at 10am opening, and ride the cable car up before the afternoon
-  haze rolls in. Weekday mornings are calmest; weekends and Hong Kong public
-  holidays draw the thickest crowds.
+quickAnswer: Ocean Park sprawls across a headland above Aberdeen, split into a lowland area and a hilltop zone linked by cable car and funicular. Give it a full day, arrive right at 10am opening, and ride the cable car up before the afternoon haze rolls in. Weekday mornings are calmest; weekends and Hong Kong public holidays draw the thickest crowds.
 faq:
   - q: How much time should I set aside for Ocean Park?
-    a: >-
-      Plan for a full day, roughly six to eight hours, to see both the
-      Waterfront and Summit areas without rushing between rides and exhibits.
+    a: Plan for a full day, roughly six to eight hours, to see both the Waterfront and Summit areas without rushing between rides and exhibits.
   - q: How do I get to Ocean Park by public transport?
-    a: >-
-      Take the MTR South Island Line to Ocean Park Station and leave via Exit B,
-      which opens directly onto the entrance plaza.
+    a: Take the MTR South Island Line to Ocean Park Station and leave via Exit B, which opens directly onto the entrance plaza.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekday mornings, particularly Tuesday to Thursday right at the 10:00 AM
-      opening, are consistently calmer than weekends or Hong Kong public
-      holidays.
+    a: Weekday mornings, particularly Tuesday to Thursday right at the 10:00 AM opening, are consistently calmer than weekends or Hong Kong public holidays.
   - q: What are the park's hours?
-    a: >-
-      It's open 10:00 AM to 6:30 PM Monday and Tuesday, and 10:00 AM to 7:00 PM
-      Wednesday through Sunday. Confirm current hours before you go, as they can
-      shift around holidays.
+    a: It's open 10:00 AM to 6:30 PM Monday and Tuesday, and 10:00 AM to 7:00 PM Wednesday through Sunday. Confirm current hours before you go, as they can shift around holidays.
   - q: Should I ride the cable car or the Ocean Express train?
-    a: >-
-      Do both — take one up to the Summit and the other back down, so you get
-      the harbor views from the cable car and the quicker funicular ride on the
-      return.
+    a: Do both — take one up to the Summit and the other back down, so you get the harbor views from the cable car and the quicker funicular ride on the return.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'

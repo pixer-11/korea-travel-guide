@@ -1,37 +1,37 @@
 ---
-title: "Octavia Books: New Orleans Travel Guide (4.8★)"
-description: "Octavia Books is a small, hand-curated independent bookstore in New Orleans' Uptown neighborhood, near the streetcar line and a short walk from the Garden District. 4.8★ (460 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "hidden-gem"
-pubDate: "2026-08-08T08:07:02.632Z"
+title: 'Octavia Books: New Orleans Travel Guide (4.8★)'
+description: Octavia Books is a small, hand-curated independent bookstore in New Orleans' Uptown neighborhood, near the streetcar line and a short walk from the Garden District. 4.8★ (460 reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: hidden-gem
+pubDate: '2026-08-08T08:07:02.632Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Moira_Crone_at_Octavia_Books_June_2012.jpg"
-  credit: "Photo: Bart Everson / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Moira_Crone_at_Octavia_Books_June_2012.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Moira_Crone_at_Octavia_Books_June_2012.jpg/1920px-Moira_Crone_at_Octavia_Books_June_2012.jpg
+  credit: 'Photo: Bart Everson / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Moira_Crone_at_Octavia_Books_June_2012.jpg
 gallery: []
 place:
-  id: "ChIJ5Y0fgfmkIIYRzgvADUh-9Nk"
-  name: "Octavia Books"
-  address: "513 Octavia St, New Orleans, LA 70115, USA"
+  id: ChIJ5Y0fgfmkIIYRzgvADUh-9Nk
+  name: Octavia Books
+  address: 513 Octavia St, New Orleans, LA 70115, USA
   rating: 4.8
   userRatingsTotal: 460
-  googleMapsUrl: "https://maps.google.com/?cid=15705316648481197006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15705316648481197006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.918798799999998
   lng: -90.11659879999999
-  phone: "+1 504-899-7323"
+  phone: +1 504-899-7323
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-08
+    updated: 2026-08-08T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -42,22 +42,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6b4e392d6855444176677a525949496b6d6667663059354a496843"
+    venueId: ven_6b4e392d6855444176677a525949496b6d6667663059354a496843
 tags:
-  - "new orleans"
-  - "bookshop"
-quickAnswer: "Octavia Books is a small, hand-curated independent bookstore in New Orleans' Uptown neighborhood, near the streetcar line and a short walk from the Garden District. It's calmest on weekdays between 10am and 11am, or weekends from 4pm to 6pm — avoid Saturday and Sunday noon-to-4pm, when it's busiest. Budget 30–45 minutes, more if there's an author event."
+  - new orleans
+  - bookshop
+quickAnswer: Octavia Books is a small, hand-curated independent bookstore in New Orleans' Uptown neighborhood, near the streetcar line and a short walk from the Garden District. It's calmest on weekdays between 10am and 11am, or weekends from 4pm to 6pm — avoid Saturday and Sunday noon-to-4pm, when it's busiest. Budget 30–45 minutes, more if there's an author event.
 faq:
-  - q: "How do I get to Octavia Books without a car?"
-    a: "Take the St. Charles Avenue streetcar and walk a few blocks toward Magazine Street, or use a rideshare — it's about 15–20 minutes from the French Quarter."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 10am and 11am, right at opening, are calmest. On weekends, 4pm–6pm is your best bet for a quiet browse."
-  - q: "What's the busiest time I should avoid?"
-    a: "Saturday and Sunday from noon to 4pm see the heaviest foot traffic, especially around author events."
-  - q: "How long should I plan to spend there?"
-    a: "Most visits run 30–45 minutes; add extra time if there's a scheduled author signing or reading."
-  - q: "Is it worth visiting if I'm not a big reader?"
-    a: "Yes — the patio, the local-authors section, and the general atmosphere make it a pleasant stop even for a quick browse, and it pairs well with a Magazine Street walk."
+  - q: How do I get to Octavia Books without a car?
+    a: Take the St. Charles Avenue streetcar and walk a few blocks toward Magazine Street, or use a rideshare — it's about 15–20 minutes from the French Quarter.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 10am and 11am, right at opening, are calmest. On weekends, 4pm–6pm is your best bet for a quiet browse.
+  - q: What's the busiest time I should avoid?
+    a: Saturday and Sunday from noon to 4pm see the heaviest foot traffic, especially around author events.
+  - q: How long should I plan to spend there?
+    a: Most visits run 30–45 minutes; add extra time if there's a scheduled author signing or reading.
+  - q: Is it worth visiting if I'm not a big reader?
+    a: Yes — the patio, the local-authors section, and the general atmosphere make it a pleasant stop even for a quick browse, and it pairs well with a Magazine Street walk.
 aiGenerated: true
 draft: false
 ---

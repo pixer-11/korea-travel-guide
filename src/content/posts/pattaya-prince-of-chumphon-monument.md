@@ -1,40 +1,40 @@
 ---
-title: "Prince of Chumphon Monument: Pattaya Travel Guide (4.7★)"
-description: "The Prince of Chumphon Monument in Pattaya sits on a headland above Bang Lamung District, and it's open daily from 7:30am to 7pm with no admission charge. 4.7★ (1,390 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Pattaya"
-category: "attraction"
-pubDate: "2026-08-28T19:31:25.221Z"
+title: 'Prince of Chumphon Monument: Pattaya Travel Guide (4.7★)'
+description: The Prince of Chumphon Monument in Pattaya sits on a headland above Bang Lamung District, and it's open daily from 7:30am to 7pm with no admission charge. 4.7★ (1,390 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Pattaya
+category: attraction
+pubDate: '2026-08-28T19:31:25.221Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg"
-  credit: "Photo: Anil Kaushik / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Prince_of_Chumphon_Monument,_Phra_Tamnak,_Pattaya_-_panoramio.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg/1920px-Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg
+  credit: 'Photo: Anil Kaushik / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Prince_of_Chumphon_Monument,_Phra_Tamnak,_Pattaya_-_panoramio.jpg
+  via: act
   focus:
     x: 49
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJYZSxQUCWAjERJvPMYi4KZyc"
-  name: "Prince of Chumphon Monument"
-  address: "WVC8+QCH, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+  id: ChIJYZSxQUCWAjERJvPMYi4KZyc
+  name: Prince of Chumphon Monument
+  address: WVC8+QCH, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand
   rating: 4.7
   userRatingsTotal: 1390
-  googleMapsUrl: "https://maps.google.com/?cid=2839249284422759206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2839249284422759206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.921928399999999
   lng: 100.8661162
   openingHours:
-    - "Monday: 7:30 AM – 7:00 PM"
-    - "Tuesday: 7:30 AM – 7:00 PM"
-    - "Wednesday: 7:30 AM – 7:00 PM"
-    - "Thursday: 7:30 AM – 7:00 PM"
-    - "Friday: 7:30 AM – 7:00 PM"
-    - "Saturday: 7:30 AM – 7:00 PM"
-    - "Sunday: 7:30 AM – 7:00 PM"
+    - 'Monday: 7:30 AM – 7:00 PM'
+    - 'Tuesday: 7:30 AM – 7:00 PM'
+    - 'Wednesday: 7:30 AM – 7:00 PM'
+    - 'Thursday: 7:30 AM – 7:00 PM'
+    - 'Friday: 7:30 AM – 7:00 PM'
+    - 'Saturday: 7:30 AM – 7:00 PM'
+    - 'Sunday: 7:30 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-28
+    updated: 2026-08-28T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -49,22 +49,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_63795a4b3469594d50764a52456a415743555178535a594a496843"
+    venueId: ven_63795a4b3469594d50764a52456a415743555178535a594a496843
 tags:
-  - "pattaya"
-  - "historic site"
-quickAnswer: "The Prince of Chumphon Monument in Pattaya sits on a headland above Bang Lamung District, and it's open daily from 7:30am to 7pm with no admission charge. The quietest window is 8am to 9am on both weekdays and weekends, before tour buses arrive; avoid the 10am–7pm weekend stretch if you want the viewpoint to yourself. Give it 45 minutes to an hour, longer if you linger for sunset over the bay."
+  - pattaya
+  - historic site
+quickAnswer: The Prince of Chumphon Monument in Pattaya sits on a headland above Bang Lamung District, and it's open daily from 7:30am to 7pm with no admission charge. The quietest window is 8am to 9am on both weekdays and weekends, before tour buses arrive; avoid the 10am–7pm weekend stretch if you want the viewpoint to yourself. Give it 45 minutes to an hour, longer if you linger for sunset over the bay.
 faq:
-  - q: "What are the opening hours for the Prince of Chumphon Monument?"
-    a: "It's open daily from 7:30am to 7pm, with no variation by day of the week, so there's flexibility to plan around morning or evening light."
-  - q: "Is there an entrance fee?"
-    a: "No formal admission fee is charged; it's a public monument and shrine site, though small donations or offerings at the base are customary."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 9am. Weekends get busy from 10am through 7pm, so arriving right at opening avoids the crowds."
-  - q: "How do I get to the monument without a car?"
-    a: "There's no direct public bus to the summit; most visitors use a motorbike taxi, chartered songthaew, or rented scooter from central Pattaya, since the hill climb is too steep for a comfortable walk from the base."
-  - q: "How long should I plan for the visit?"
-    a: "Around 45 minutes to an hour is enough to see the statue, read the plaques on Prince Abhakara's naval career, and take in the bay view, longer if you stay for sunset."
+  - q: What are the opening hours for the Prince of Chumphon Monument?
+    a: It's open daily from 7:30am to 7pm, with no variation by day of the week, so there's flexibility to plan around morning or evening light.
+  - q: Is there an entrance fee?
+    a: No formal admission fee is charged; it's a public monument and shrine site, though small donations or offerings at the base are customary.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest between 8am and 9am. Weekends get busy from 10am through 7pm, so arriving right at opening avoids the crowds.
+  - q: How do I get to the monument without a car?
+    a: There's no direct public bus to the summit; most visitors use a motorbike taxi, chartered songthaew, or rented scooter from central Pattaya, since the hill climb is too steep for a comfortable walk from the base.
+  - q: How long should I plan for the visit?
+    a: Around 45 minutes to an hour is enough to see the statue, read the plaques on Prince Abhakara's naval career, and take in the bay view, longer if you stay for sunset.
 aiGenerated: true
 draft: false
 ---

@@ -1,58 +1,58 @@
 ---
-title: "Seoul Forest Park: Travel Guide (4.6★)"
-description: "Seoul Forest Park (Seoul Forest, in Seongdong-gu) is a free, 24-hour public park along the Han River area, best known for its deer enclosure, butterfly park, rose garden, and riverside bike paths. 4.6★ (10,886 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Seoul"
-category: "attraction"
-pubDate: "2026-09-01T10:38:00.804Z"
+title: 'Seoul Forest Park: Travel Guide (4.6★)'
+description: Seoul Forest Park (Seoul Forest, in Seongdong-gu) is a free, 24-hour public park along the Han River area, best known for its deer enclosure, butterfly park, rose garden, and riverside bike paths. 4.6★ (10,886 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Seoul
+category: attraction
+pubDate: '2026-09-01T10:38:00.804Z'
 heroImage:
-  url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Seoul_Forest_boardwalk_with_tables.jpg/3840px-Seoul_Forest_boardwalk_with_tables.jpg"
-  credit: "Photo: CartoonChess / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Seoul_Forest_boardwalk_with_tables.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Seoul_Forest_boardwalk_with_tables.jpg/3840px-Seoul_Forest_boardwalk_with_tables.jpg
+  credit: 'Photo: CartoonChess / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Seoul_Forest_boardwalk_with_tables.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Seoul_Forest_in_May_2022_%281%29.jpg/1920px-Seoul_Forest_in_May_2022_%281%29.jpg"
-    credit: "Photo: CHO woohyuck / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Seoul_Forest_in_May_2022_(1).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Seoul_Forest_in_May_2022_%281%29.jpg/1920px-Seoul_Forest_in_May_2022_%281%29.jpg
+    credit: 'Photo: CHO woohyuck / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Seoul_Forest_in_May_2022_(1).jpg
 place:
-  id: "ChIJK_b0UX2jfDURmkYPvmWYm90"
-  name: "Seoul Forest Park"
-  address: "273 Ttukseom-ro, Seongdong-gu, Seoul, South Korea"
+  id: ChIJK_b0UX2jfDURmkYPvmWYm90
+  name: Seoul Forest Park
+  address: 273 Ttukseom-ro, Seongdong-gu, Seoul, South Korea
   rating: 4.6
   userRatingsTotal: 10886
-  googleMapsUrl: "https://maps.google.com/?cid=15968524466520016538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15968524466520016538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.544387799999996
   lng: 127.03744239999999
-  phone: "+82 2-460-2905"
+  phone: +82 2-460-2905
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "seoul"
-  - "autumn foliage"
-quickAnswer: "Seoul Forest Park (Seoul Forest, in Seongdong-gu) is a free, 24-hour public park along the Han River area, best known for its deer enclosure, butterfly park, rose garden, and riverside bike paths. It's very popular, especially on weekends, so weekday mornings are calmest. No tickets needed; confirm any special exhibit hours on the official Seoul Forest site before visiting."
+  - seoul
+  - autumn foliage
+quickAnswer: Seoul Forest Park (Seoul Forest, in Seongdong-gu) is a free, 24-hour public park along the Han River area, best known for its deer enclosure, butterfly park, rose garden, and riverside bike paths. It's very popular, especially on weekends, so weekday mornings are calmest. No tickets needed; confirm any special exhibit hours on the official Seoul Forest site before visiting.
 faq:
-  - q: "How do I get to Seoul Forest Park?"
-    a: "Take Line 2 to Ttukseom Station, Exit 8 (10-minute walk north), or the Bundang Line to Seoul Forest Station, Exit 3, which is closer to the main entrance."
-  - q: "Is there an entrance fee?"
-    a: "No, the park is free and open 24 hours daily. Some attractions inside, like the butterfly house, may have separate limited hours."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings are quietest. Weekends and holidays, especially during peak rose bloom (late May-June) or autumn foliage (October), get very busy."
-  - q: "Can I feed the deer?"
-    a: "There's a designated deer-viewing and feeding area in the Ecological Forest zone; confirm current feeding rules and availability on the official site before visiting."
-  - q: "How long should I plan to spend there?"
-    a: "Two to three hours covers the main zones (deer area, butterfly house, rose garden, riverside path) at a relaxed pace."
+  - q: How do I get to Seoul Forest Park?
+    a: Take Line 2 to Ttukseom Station, Exit 8 (10-minute walk north), or the Bundang Line to Seoul Forest Station, Exit 3, which is closer to the main entrance.
+  - q: Is there an entrance fee?
+    a: No, the park is free and open 24 hours daily. Some attractions inside, like the butterfly house, may have separate limited hours.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings are quietest. Weekends and holidays, especially during peak rose bloom (late May-June) or autumn foliage (October), get very busy.
+  - q: Can I feed the deer?
+    a: There's a designated deer-viewing and feeding area in the Ecological Forest zone; confirm current feeding rules and availability on the official site before visiting.
+  - q: How long should I plan to spend there?
+    a: Two to three hours covers the main zones (deer area, butterfly house, rose garden, riverside path) at a relaxed pace.
 aiGenerated: true
 draft: false
 ---

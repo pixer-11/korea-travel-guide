@@ -12,9 +12,9 @@ heroImage:
   source: https://foursquare.com/v/4ddf1792d164da4f2326766e
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Jiufen_Old_Street_01.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jiufen_Old_Street_01.jpg/1280px-Jiufen_Old_Street_01.jpg
     credit: 'Photo: Kabacchi / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Jiufen_Old_Street_01.jpg
@@ -28,7 +28,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.109807699999998
   lng: 121.8452102
-  phone: '+886 2 2406 3270'
+  phone: +886 2 2406 3270
   openingHours:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'

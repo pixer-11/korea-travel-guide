@@ -1,10 +1,6 @@
 ---
-title: >-
-  Bol d'Or (FIM Endurance World Championship Finale): What to Know (Le
-  Castellet)
-description: >-
-  Bol d'Or (FIM Endurance World Championship Finale) in Le Castellet, France —
-  September 17-20, 2026. What it is, when and where, and how to plan around it.
+title: 'Bol d''Or (FIM Endurance World Championship Finale): What to Know (Le Castellet)'
+description: Bol d'Or (FIM Endurance World Championship Finale) in Le Castellet, France — September 17-20, 2026. What it is, when and where, and how to plan around it.
 country: France
 region: Le Castellet
 category: event
@@ -14,57 +10,34 @@ eventEndDate: '2026-09-20'
 tags:
   - le castellet
   - event
-quickAnswer: >-
-  The Bol d'Or, the 24-hour endurance race that closes out the FIM Endurance
-  World Championship season, is scheduled for September 17-20, 2026 at Circuit
-  Paul Ricard near Le Castellet in Provence. Plan for a long weekend: practice
-  and qualifying build through Thursday and Friday, then the race runs through
-  the night from Saturday afternoon into Sunday. Confirm exact timings, gate
-  hours and ticket tiers on the official Bol d'Or / FIM EWC channels before you
-  book, as schedules can shift.
+quickAnswer: 'The Bol d''Or, the 24-hour endurance race that closes out the FIM Endurance World Championship season, is scheduled for September 17-20, 2026 at Circuit Paul Ricard near Le Castellet in Provence. Plan for a long weekend: practice and qualifying build through Thursday and Friday, then the race runs through the night from Saturday afternoon into Sunday. Confirm exact timings, gate hours and ticket tiers on the official Bol d''Or / FIM EWC channels before you book, as schedules can shift.'
 faq:
   - q: What are the exact dates of the 2026 Bol d'Or?
-    a: >-
-      It's scheduled for September 17-20, 2026 at Circuit Paul Ricard, but
-      always check the official Bol d'Or/FIM EWC site closer to the date in case
-      of schedule changes.
+    a: It's scheduled for September 17-20, 2026 at Circuit Paul Ricard, but always check the official Bol d'Or/FIM EWC site closer to the date in case of schedule changes.
   - q: How do I get to Circuit Paul Ricard without a car?
-    a: >-
-      Fly into Marseille Provence Airport or take the train to
-      Marseille-Saint-Charles or Toulon, then use a rental car, taxi, or an
-      event shuttle service (details are usually published by organizers closer
-      to race weekend).
+    a: Fly into Marseille Provence Airport or take the train to Marseille-Saint-Charles or Toulon, then use a rental car, taxi, or an event shuttle service (details are usually published by organizers closer to race weekend).
   - q: How long should I plan to stay?
-    a: >-
-      Ideally a full weekend — practice and qualifying run Thursday and Friday,
-      the 24-hour race starts Saturday and finishes Sunday, and many visitors
-      camp on-site to catch the overnight hours without missing action.
+    a: Ideally a full weekend — practice and qualifying run Thursday and Friday, the 24-hour race starts Saturday and finishes Sunday, and many visitors camp on-site to catch the overnight hours without missing action.
   - q: Is it cold at night in September?
-    a: >-
-      Days are typically warm, but Provence nights in mid-to-late September cool
-      down noticeably, so pack layers if you plan to be trackside overnight.
+    a: Days are typically warm, but Provence nights in mid-to-late September cool down noticeably, so pack layers if you plan to be trackside overnight.
   - q: Do I need to buy tickets in advance?
-    a: >-
-      Endurance racing events like this typically sell tiered tickets
-      (grandstand, general admission, camping packages) that can sell out for a
-      popular finale weekend — check the official site early rather than
-      assuming walk-up access.
+    a: Endurance racing events like this typically sell tiered tickets (grandstand, general admission, camping packages) that can sell out for a popular finale weekend — check the official site early rather than assuming walk-up access.
 aiGenerated: true
 draft: false
 eventRecurring: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/a/ab/Bol_d%27or_2015.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bol_d%27or_2015.jpg/1280px-Bol_d%27or_2015.jpg
   credit: 'Photo: NathEDL / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Bol_d%27or_2015.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Bol_d%27or_2015.jpg
   focus:
     x: 70
     'y': 20
 eventOrganizer:
-  name: 'Association Moto-Cyclecariste de France, Moto Revue et l''AMCF Sport'
-  url: 'https://boldor.com'
+  name: Association Moto-Cyclecariste de France, Moto Revue et l'AMCF Sport
+  url: https://boldor.com
 eventOffers:
-  url: 'https://boldor.com/billetterie/'
+  url: https://boldor.com/billetterie/
 eventFactsAsked: true
 ---
 ## Why go

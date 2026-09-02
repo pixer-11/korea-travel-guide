@@ -1,45 +1,45 @@
 ---
-title: "Tomb of Akbar: Agra Travel Guide (4.4★)"
-description: "The Tomb of Akbar sits in Sikandra, on the northwestern edge of Agra, about 10-13 km from the Taj Mahal and Agra Fort. 4.4★ (6,341 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Agra"
-category: "attraction"
-pubDate: "2026-08-31T12:32:33.870Z"
+title: 'Tomb of Akbar: Agra Travel Guide (4.4★)'
+description: The Tomb of Akbar sits in Sikandra, on the northwestern edge of Agra, about 10-13 km from the Taj Mahal and Agra Fort. 4.4★ (6,341 reviews) — what visitors say, hours, and tips.
+country: India
+region: Agra
+category: attraction
+pubDate: '2026-08-31T12:32:33.870Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Facades_of_Akbar%27s_Tomb_in_Agra_2025.jpg"
-  credit: "Photo: Dudva / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Facades_of_Akbar%27s_Tomb_in_Agra_2025.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Facades_of_Akbar%27s_Tomb_in_Agra_2025.jpg/1920px-Facades_of_Akbar%27s_Tomb_in_Agra_2025.jpg
+  credit: 'Photo: Dudva / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Facades_of_Akbar%27s_Tomb_in_Agra_2025.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Akbar%27s_Tomb_-_Agra_-_Uttar_Pradesh_-_001.jpg/3840px-Akbar%27s_Tomb_-_Agra_-_Uttar_Pradesh_-_001.jpg"
-    credit: "Photo: Rupeshsarkar / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Akbar%27s_Tomb_-_Agra_-_Uttar_Pradesh_-_001.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Akbar%27s_Tomb_-_Agra_-_Uttar_Pradesh_-_001.jpg/3840px-Akbar%27s_Tomb_-_Agra_-_Uttar_Pradesh_-_001.jpg
+    credit: 'Photo: Rupeshsarkar / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Akbar%27s_Tomb_-_Agra_-_Uttar_Pradesh_-_001.jpg
 place:
-  id: "ChIJJdQjUx94dDkRFTbTtKTpyy4"
-  name: "Tomb of Akbar"
-  address: "Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007, India"
+  id: ChIJJdQjUx94dDkRFTbTtKTpyy4
+  name: Tomb of Akbar
+  address: Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007, India
   rating: 4.4
   userRatingsTotal: 6341
-  googleMapsUrl: "https://maps.google.com/?cid=3372045639634597397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3372045639634597397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 27.220555599999997
   lng: 77.95050859999999
-  phone: "+91 1800 200 8335"
+  phone: +91 1800 200 8335
   openingHours:
-    - "Monday: 6:00 AM – 6:00 PM"
-    - "Tuesday: 6:00 AM – 6:00 PM"
-    - "Wednesday: 6:00 AM – 6:00 PM"
-    - "Thursday: 6:00 AM – 6:00 PM"
-    - "Friday: 6:00 AM – 6:00 PM"
-    - "Saturday: 6:00 AM – 6:00 PM"
-    - "Sunday: 6:00 AM – 6:00 PM"
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-31
+    updated: 2026-08-31T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -55,24 +55,24 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_34797970544b7454625446526b4464343978556a51644a4a496843"
+    venueId: ven_34797970544b7454625446526b4464343978556a51644a4a496843
 tags:
-  - "agra"
-  - "historic site"
-quickAnswer: "The Tomb of Akbar sits in Sikandra, on the northwestern edge of Agra, about 10-13 km from the Taj Mahal and Agra Fort. It's open daily from 6am to 6pm, and the calmest window is 7am-10am on weekdays or 7am-11am on weekends, well before the 1pm-6pm weekend rush. Set aside 60-90 minutes to walk the gardens and the tomb chamber itself."
+  - agra
+  - historic site
+quickAnswer: The Tomb of Akbar sits in Sikandra, on the northwestern edge of Agra, about 10-13 km from the Taj Mahal and Agra Fort. It's open daily from 6am to 6pm, and the calmest window is 7am-10am on weekdays or 7am-11am on weekends, well before the 1pm-6pm weekend rush. Set aside 60-90 minutes to walk the gardens and the tomb chamber itself.
 faq:
-  - q: "Where exactly is the Tomb of Akbar located?"
-    a: "It's in Sikandra, on the northwestern outskirts of Agra, Uttar Pradesh, about 10-13 km from the Taj Mahal and Agra Fort."
-  - q: "What are the opening hours?"
-    a: "The site is open every day of the week from 6:00 AM to 6:00 PM, with no weekly closure."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays it's calmest between 7am and 10am, and weekends between 7am and 11am. Try to avoid weekend afternoons from 1pm to 6pm, when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 60 to 90 minutes walking the gardens, climbing to the marble terrace, and visiting the underground crypt."
-  - q: "How do I get there without a car?"
-    a: "There's no direct metro connection, so a taxi, hotel car, or app-based auto-rickshaw from central Agra, roughly 25-40 minutes depending on traffic, is the standard way in."
-  - q: "Is it worth combining with other sites nearby?"
-    a: "Yes, Mariam's Tomb, a smaller Mughal-era mausoleum, sits a short drive away and pairs well with Akbar's Tomb in the same trip."
+  - q: Where exactly is the Tomb of Akbar located?
+    a: It's in Sikandra, on the northwestern outskirts of Agra, Uttar Pradesh, about 10-13 km from the Taj Mahal and Agra Fort.
+  - q: What are the opening hours?
+    a: The site is open every day of the week from 6:00 AM to 6:00 PM, with no weekly closure.
+  - q: When is the quietest time to visit?
+    a: Weekdays it's calmest between 7am and 10am, and weekends between 7am and 11am. Try to avoid weekend afternoons from 1pm to 6pm, when it's busiest.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 60 to 90 minutes walking the gardens, climbing to the marble terrace, and visiting the underground crypt.
+  - q: How do I get there without a car?
+    a: There's no direct metro connection, so a taxi, hotel car, or app-based auto-rickshaw from central Agra, roughly 25-40 minutes depending on traffic, is the standard way in.
+  - q: Is it worth combining with other sites nearby?
+    a: Yes, Mariam's Tomb, a smaller Mughal-era mausoleum, sits a short drive away and pairs well with Akbar's Tomb in the same trip.
 aiGenerated: true
 draft: false
 ---

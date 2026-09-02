@@ -1,37 +1,37 @@
 ---
-title: "Hong Kong Park: Travel Guide (4.5★)"
-description: "Hong Kong Park is a free, always-open green pocket in Central, best known for its aviary, waterfall walk, and the Edward Youde conservatory. 4.5★ (2,325 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-08-13T08:49:32.232Z"
+title: 'Hong Kong Park: Travel Guide (4.5★)'
+description: Hong Kong Park is a free, always-open green pocket in Central, best known for its aviary, waterfall walk, and the Edward Youde conservatory. 4.5★ (2,325 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Hong Kong
+category: attraction
+pubDate: '2026-08-13T08:49:32.232Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/39/Hong_Kong_Park_Overview_2009.jpg"
-  credit: "Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Park_Overview_2009.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hong_Kong_Park_Overview_2009.jpg/1280px-Hong_Kong_Park_Overview_2009.jpg
+  credit: 'Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Park_Overview_2009.jpg
 gallery: []
 place:
-  id: "ChIJaRsyZW8ABDQRXTUWxZ3s3wg"
-  name: "Hong Kong Park"
-  address: "19號 Cotton Tree Dr, Central, Hong Kong"
+  id: ChIJaRsyZW8ABDQRXTUWxZ3s3wg
+  name: Hong Kong Park
+  address: 19號 Cotton Tree Dr, Central, Hong Kong
   rating: 4.5
   userRatingsTotal: 2325
-  googleMapsUrl: "https://maps.google.com/?cid=639489834470487389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=639489834470487389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.276947699999997
   lng: 114.1608187
-  phone: "+852 2521 5041"
+  phone: +852 2521 5041
   openingHours:
-    - "Monday: 6:00 AM – 11:00 PM"
-    - "Tuesday: 6:00 AM – 11:00 PM"
-    - "Wednesday: 6:00 AM – 11:00 PM"
-    - "Thursday: 6:00 AM – 11:00 PM"
-    - "Friday: 6:00 AM – 11:00 PM"
-    - "Saturday: 6:00 AM – 11:00 PM"
-    - "Sunday: 6:00 AM – 11:00 PM"
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 11:00 PM'
+    - 'Saturday: 6:00 AM – 11:00 PM'
+    - 'Sunday: 6:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 20
@@ -59,22 +59,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_67773373335a7857555458525144424138575a797352614a496843"
+    venueId: ven_67773373335a7857555458525144424138575a797352614a496843
 tags:
-  - "hong kong"
-  - "park"
-quickAnswer: "Hong Kong Park is a free, always-open green pocket in Central, best known for its aviary, waterfall walk, and the Edward Youde conservatory. Go on a weekday morning if you can — the park runs 6am–11pm daily and stays calmest through the morning and evening, while weekends fill up fast between 10am and 5pm."
+  - hong kong
+  - park
+quickAnswer: Hong Kong Park is a free, always-open green pocket in Central, best known for its aviary, waterfall walk, and the Edward Youde conservatory. Go on a weekday morning if you can — the park runs 6am–11pm daily and stays calmest through the morning and evening, while weekends fill up fast between 10am and 5pm.
 faq:
-  - q: "How do I get to Hong Kong Park by MTR?"
-    a: "Take the MTR to Admiralty Station and use Exit C1, following signs up through Pacific Place mall, or approach directly from Cotton Tree Drive."
-  - q: "Is there an entrance fee?"
-    a: "No, entry to Hong Kong Park is free. Only certain facilities inside, like squash courts, may involve a separate cost — check current details before visiting."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings and evenings are calmest, and even on weekends the park stays manageable outside 10am–5pm, which is the busiest stretch."
-  - q: "How long should I plan for a visit?"
-    a: "Around two hours covers the conservatory, aviary, and waterfall walk at an easy pace; add an hour if you want to explore the Museum of Tea Ware."
-  - q: "What's nearby if I want to keep exploring?"
-    a: "Pacific Place mall sits right at the park's edge, and it's about a 15-minute walk to the Peak Tram's lower terminus for those heading up to Victoria Peak."
+  - q: How do I get to Hong Kong Park by MTR?
+    a: Take the MTR to Admiralty Station and use Exit C1, following signs up through Pacific Place mall, or approach directly from Cotton Tree Drive.
+  - q: Is there an entrance fee?
+    a: No, entry to Hong Kong Park is free. Only certain facilities inside, like squash courts, may involve a separate cost — check current details before visiting.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings and evenings are calmest, and even on weekends the park stays manageable outside 10am–5pm, which is the busiest stretch.
+  - q: How long should I plan for a visit?
+    a: Around two hours covers the conservatory, aviary, and waterfall walk at an easy pace; add an hour if you want to explore the Museum of Tea Ware.
+  - q: What's nearby if I want to keep exploring?
+    a: Pacific Place mall sits right at the park's edge, and it's about a 15-minute walk to the Peak Tram's lower terminus for those heading up to Victoria Peak.
 aiGenerated: true
 draft: false
 ---

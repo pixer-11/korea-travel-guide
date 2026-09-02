@@ -68,7 +68,8 @@ faq:
   - q: "How long should I spend at the market?"
     a: "One to two hours is enough to wander the herb and produce sections, browse the food alley, and grab a snack or noodle bowl."
 aiGenerated: true
-draft: false
+draft: true
+heldReason: wrong-region
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

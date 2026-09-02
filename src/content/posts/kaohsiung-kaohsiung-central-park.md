@@ -1,49 +1,49 @@
 ---
-title: "Kaohsiung Central Park: Travel Guide"
+title: 'Kaohsiung Central Park: Travel Guide'
 description: Kaohsiung Central Park is a large, shaded city park in Qianjin District built around a lake, fountains, and looping walking paths — reachable directly via Central Park Station (Kaohsiung MRT Red Line, R9).
-country: "Taiwan"
-region: "Kaohsiung"
-category: "attraction"
-pubDate: "2026-07-26T07:51:18.310Z"
+country: Taiwan
+region: Kaohsiung
+category: attraction
+pubDate: '2026-07-26T07:51:18.310Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Central_Park%2C_Kaohsiung%2C_Taiwan.jpg"
-  credit: "Photo: tingyaoh / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Central_Park,_Kaohsiung,_Taiwan.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Central_Park%2C_Kaohsiung%2C_Taiwan.jpg/1280px-Central_Park%2C_Kaohsiung%2C_Taiwan.jpg
+  credit: 'Photo: tingyaoh / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Central_Park,_Kaohsiung,_Taiwan.jpg
 gallery: []
 place:
-  id: "ChIJUxqWpocEbjQRIUwU_iCWP4w"
-  name: "Kaohsiung Central Park"
-  address: "Zhongshan 1st Rd, Rongzhi Village, Qianjin District, Kaohsiung City, Taiwan 801"
+  id: ChIJUxqWpocEbjQRIUwU_iCWP4w
+  name: Kaohsiung Central Park
+  address: Zhongshan 1st Rd, Rongzhi Village, Qianjin District, Kaohsiung City, Taiwan 801
   rating: 4.5
   userRatingsTotal: 16347
-  googleMapsUrl: "https://maps.google.com/?cid=10105961157288545313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=10105961157288545313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.6249002
   lng: 120.30089840000001
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "kaohsiung"
-  - "top attraction"
-quickAnswer: "Kaohsiung Central Park is a large, shaded city park in Qianjin District built around a lake, fountains, and looping walking paths — reachable directly via Central Park Station (Kaohsiung MRT Red Line, R9). Plan on 45–90 minutes for a loop plus a coffee stop; early morning or after dinner are the most pleasant times, since midday heat and weekend late afternoons draw the biggest crowds."
+  - kaohsiung
+  - top attraction
+quickAnswer: Kaohsiung Central Park is a large, shaded city park in Qianjin District built around a lake, fountains, and looping walking paths — reachable directly via Central Park Station (Kaohsiung MRT Red Line, R9). Plan on 45–90 minutes for a loop plus a coffee stop; early morning or after dinner are the most pleasant times, since midday heat and weekend late afternoons draw the biggest crowds.
 faq:
-  - q: "How do I get to Kaohsiung Central Park?"
-    a: "Take the Kaohsiung MRT Red Line to Central Park Station (R9) — the exits open directly onto the park grounds, so no additional walking or transfer is needed."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a free public city park with several open entrances along its surrounding streets; you only pay if you buy food or drinks from carts and nearby shops."
-  - q: "How long should I spend here?"
-    a: "Most visitors spend 45–90 minutes doing a loop around the lake and finding a bench to relax; add extra time if you plan to explore the surrounding Qianjin District streets."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings or weekday evenings after the dinner rush are calmest. Weekend afternoons, especially in the evening when the fountain lights come on, draw the largest local crowds."
-  - q: "What's nearby?"
-    a: "The park sits within easy MRT or walking reach of Qianjin District's older residential streets and food stalls, and it's just a few stops from Kaohsiung Main Station and the Love River area."
+  - q: How do I get to Kaohsiung Central Park?
+    a: Take the Kaohsiung MRT Red Line to Central Park Station (R9) — the exits open directly onto the park grounds, so no additional walking or transfer is needed.
+  - q: Is there an entrance fee?
+    a: No, it's a free public city park with several open entrances along its surrounding streets; you only pay if you buy food or drinks from carts and nearby shops.
+  - q: How long should I spend here?
+    a: Most visitors spend 45–90 minutes doing a loop around the lake and finding a bench to relax; add extra time if you plan to explore the surrounding Qianjin District streets.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings or weekday evenings after the dinner rush are calmest. Weekend afternoons, especially in the evening when the fountain lights come on, draw the largest local crowds.
+  - q: What's nearby?
+    a: The park sits within easy MRT or walking reach of Qianjin District's older residential streets and food stalls, and it's just a few stops from Kaohsiung Main Station and the Love River area.
 aiGenerated: true
 draft: false
 ---

@@ -1,44 +1,44 @@
 ---
-title: "Perak Cave Temple: Ipoh Travel Guide (4.4★)"
-description: "Perak Cave Temple (Perak Tong) sits on Jalan Kuala Kangsar just north of central Ipoh, open daily 8am–4:30pm. 4.4★ (3,845 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Ipoh"
-category: "attraction"
-pubDate: "2026-08-19T09:26:27.308Z"
+title: 'Perak Cave Temple: Ipoh Travel Guide (4.4★)'
+description: Perak Cave Temple (Perak Tong) sits on Jalan Kuala Kangsar just north of central Ipoh, open daily 8am–4:30pm. 4.4★ (3,845 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Ipoh
+category: attraction
+pubDate: '2026-08-19T09:26:27.308Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Interior_view_of_Perak_Tong_Temple_in_Perak_in_Panorama_-_panoramio.jpg"
-  credit: "Photo: Steven Tung / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_view_of_Perak_Tong_Temple_in_Perak_in_Panorama_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Interior_view_of_Perak_Tong_Temple_in_Perak_in_Panorama_-_panoramio.jpg/1920px-Interior_view_of_Perak_Tong_Temple_in_Perak_in_Panorama_-_panoramio.jpg
+  credit: 'Photo: Steven Tung / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Interior_view_of_Perak_Tong_Temple_in_Perak_in_Panorama_-_panoramio.jpg
   focus:
     x: 47
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Reclining_Buddha_at_Ipoh%27s_Ling_Sen_Tong_cave_temple_%2853472069428%29.jpg/3840px-Reclining_Buddha_at_Ipoh%27s_Ling_Sen_Tong_cave_temple_%2853472069428%29.jpg"
-    credit: "Photo: shankar s. from Poona (pune), India, India / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Reclining_Buddha_at_Ipoh%27s_Ling_Sen_Tong_cave_temple_(53472069428).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Reclining_Buddha_at_Ipoh%27s_Ling_Sen_Tong_cave_temple_%2853472069428%29.jpg/3840px-Reclining_Buddha_at_Ipoh%27s_Ling_Sen_Tong_cave_temple_%2853472069428%29.jpg
+    credit: 'Photo: shankar s. from Poona (pune), India, India / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Reclining_Buddha_at_Ipoh%27s_Ling_Sen_Tong_cave_temple_(53472069428).jpg
 place:
-  id: "ChIJ6TVmAzSTyjERlG847zZUu-w"
-  name: "Perak Cave Temple"
-  address: "Jln. Kuala Kangsar, Kawasan Perindustrian Tasek, 31400 Ipoh, Perak, Malaysia"
+  id: ChIJ6TVmAzSTyjERlG847zZUu-w
+  name: Perak Cave Temple
+  address: Jln. Kuala Kangsar, Kawasan Perindustrian Tasek, 31400 Ipoh, Perak, Malaysia
   rating: 4.4
   userRatingsTotal: 3845
-  googleMapsUrl: "https://maps.google.com/?cid=17058320608514305940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17058320608514305940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 4.64424
   lng: 101.09936979999999
-  phone: "+60 11-2358 4126"
+  phone: +60 11-2358 4126
   openingHours:
-    - "Monday: 8:00 AM – 4:30 PM"
-    - "Tuesday: 8:00 AM – 4:30 PM"
-    - "Wednesday: 8:00 AM – 4:30 PM"
-    - "Thursday: 8:00 AM – 4:30 PM"
-    - "Friday: 8:00 AM – 4:30 PM"
-    - "Saturday: 8:00 AM – 4:30 PM"
-    - "Sunday: 8:00 AM – 4:30 PM"
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: 8:00 AM – 4:30 PM'
+    - 'Sunday: 8:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -51,22 +51,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_772d75555a7a373438476c52456a7954537a416d5654364a496843"
+    venueId: ven_772d75555a7a373438476c52456a7954537a416d5654364a496843
 tags:
-  - "ipoh"
-  - "historic site"
-quickAnswer: "Perak Cave Temple (Perak Tong) sits on Jalan Kuala Kangsar just north of central Ipoh, open daily 8am–4:30pm. Go early — it's calmest on weekdays between 8am and 10am, and on weekends only the 8–9am slot stays quiet before crowds build through the afternoon. Budget 45–60 minutes for the cave shrine and the steep climb up top for the hilltop view over Ipoh's limestone valley."
+  - ipoh
+  - historic site
+quickAnswer: Perak Cave Temple (Perak Tong) sits on Jalan Kuala Kangsar just north of central Ipoh, open daily 8am–4:30pm. Go early — it's calmest on weekdays between 8am and 10am, and on weekends only the 8–9am slot stays quiet before crowds build through the afternoon. Budget 45–60 minutes for the cave shrine and the steep climb up top for the hilltop view over Ipoh's limestone valley.
 faq:
-  - q: "How do I get to Perak Cave Temple from Ipoh city centre?"
-    a: "It's about a 10–15 minute drive north on Jalan Kuala Kangsar. Grab (ride-hailing), taxi, or a rental car are the practical options since there's no direct rail or bus line."
-  - q: "What time is quietest to visit?"
-    a: "Weekdays between 8am and 10am are calmest. On weekends only the 8am–9am slot stays quiet; from 10am onward crowds build and stay heavy until closing."
-  - q: "How much time should I set aside?"
-    a: "Plan 45–60 minutes: 20 minutes for the main cave hall and murals, plus time for the roughly 300-step climb to the hilltop pavilion if you want the view."
-  - q: "Is there an entrance fee?"
-    a: "Entry is by donation rather than a fixed ticket price. Bring small ringgit notes for the donation box at the entrance."
-  - q: "Can I combine this with other sights nearby?"
-    a: "Yes — Sam Poh Tong and Kek Lok Tong, two other cave temples, are a short drive away, making it easy to see three of Ipoh's limestone temples in one half-day."
+  - q: How do I get to Perak Cave Temple from Ipoh city centre?
+    a: It's about a 10–15 minute drive north on Jalan Kuala Kangsar. Grab (ride-hailing), taxi, or a rental car are the practical options since there's no direct rail or bus line.
+  - q: What time is quietest to visit?
+    a: Weekdays between 8am and 10am are calmest. On weekends only the 8am–9am slot stays quiet; from 10am onward crowds build and stay heavy until closing.
+  - q: How much time should I set aside?
+    a: 'Plan 45–60 minutes: 20 minutes for the main cave hall and murals, plus time for the roughly 300-step climb to the hilltop pavilion if you want the view.'
+  - q: Is there an entrance fee?
+    a: Entry is by donation rather than a fixed ticket price. Bring small ringgit notes for the donation box at the entrance.
+  - q: Can I combine this with other sights nearby?
+    a: Yes — Sam Poh Tong and Kek Lok Tong, two other cave temples, are a short drive away, making it easy to see three of Ipoh's limestone temples in one half-day.
 aiGenerated: true
 draft: false
 ---

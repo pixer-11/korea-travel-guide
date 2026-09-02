@@ -6,7 +6,7 @@ region: Jordan
 category: restaurant
 pubDate: '2026-08-14T09:40:48.231Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/62/HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg/1920px-HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg
   credit: 'Photo: Bkemaoe HOMA / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:HK_night_%E4%BD%90%E6%95%A6_Jordan_%E5%81%89%E6%99%B4%E8%A1%97_31_Wai_Ching_Street_shop_Spicy_Salt_July_2022_Px3_02.jpg

@@ -6,7 +6,7 @@ region: Los Angeles
 category: hidden-gem
 pubDate: '2026-08-04T10:06:13.644Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/98/Griffith_Park_Zoo_%28B9957%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Griffith_Park_Zoo_%28B9957%29.jpg/960px-Griffith_Park_Zoo_%28B9957%29.jpg
   credit: 'Photo: Burton Frasher / Wikimedia Commons (Public domain)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Griffith_Park_Zoo_(B9957).jpg

@@ -1,57 +1,57 @@
 ---
-title: "Maple Garden: Taichung Travel Guide (4.2★)"
-description: "Maple Garden (楓樹公園) is a large, well-shaded city park in Xitun District, Taichung, built around a big pond with fish, turtles and waterbirds, plus a paved nature trail looping the grounds. 4.2★ (24,968 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Taichung"
-category: "attraction"
-pubDate: "2026-08-21T08:06:30.623Z"
+title: 'Maple Garden: Taichung Travel Guide (4.2★)'
+description: Maple Garden (楓樹公園) is a large, well-shaded city park in Xitun District, Taichung, built around a big pond with fish, turtles and waterbirds, plus a paved nature trail looping the grounds. 4.2★ (24,968 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Taichung
+category: attraction
+pubDate: '2026-08-21T08:06:30.623Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Maple_Garden_from_above.jpg"
-  credit: "Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maple_Garden_from_above.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Maple_Garden_from_above.jpg/1920px-Maple_Garden_from_above.jpg
+  credit: 'Photo: xiquinhosilva / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Maple_Garden_from_above.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Maple_Garden%2C_Taichung%2C_Nov_2024_%282%29.jpg/3840px-Maple_Garden%2C_Taichung%2C_Nov_2024_%282%29.jpg"
-    credit: "Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Maple_Garden,_Taichung,_Nov_2024_(2).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Maple_Garden%2C_Taichung%2C_Nov_2024_%282%29.jpg/3840px-Maple_Garden%2C_Taichung%2C_Nov_2024_%282%29.jpg
+    credit: 'Photo: Ralff Nestor Nacor / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Maple_Garden,_Taichung,_Nov_2024_(2).jpg
 place:
-  id: "ChIJLfH_-vM9aTQRpL9e_PxZTxU"
-  name: "Maple Garden"
-  address: "No. 30號, Chaofu Rd, Chaoyang Village, Xitun District, Taichung City, Taiwan 407"
+  id: ChIJLfH_-vM9aTQRpL9e_PxZTxU
+  name: Maple Garden
+  address: No. 30號, Chaofu Rd, Chaoyang Village, Xitun District, Taichung City, Taiwan 407
   rating: 4.2
   userRatingsTotal: 24968
-  googleMapsUrl: "https://maps.google.com/?cid=1535544941057327012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1535544941057327012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.168004
   lng: 120.63934829999998
-  phone: "+886 4 2228 9111"
+  phone: +886 4 2228 9111
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "taichung"
-  - "park"
-quickAnswer: "Maple Garden (楓樹公園) is a large, well-shaded city park in Xitun District, Taichung, built around a big pond with fish, turtles and waterbirds, plus a paved nature trail looping the grounds. It's open 24 hours, free to enter, and best visited early morning or late afternoon to dodge both heat and the after-work crowds. Bring good shoes, expect it to be busy on weekend evenings, and treat it as a 45–90 minute stop rather than a full excursion."
+  - taichung
+  - park
+quickAnswer: Maple Garden (楓樹公園) is a large, well-shaded city park in Xitun District, Taichung, built around a big pond with fish, turtles and waterbirds, plus a paved nature trail looping the grounds. It's open 24 hours, free to enter, and best visited early morning or late afternoon to dodge both heat and the after-work crowds. Bring good shoes, expect it to be busy on weekend evenings, and treat it as a 45–90 minute stop rather than a full excursion.
 faq:
-  - q: "Is there an entrance fee for Maple Garden?"
-    a: "No, it's a free public city park with no ticket or entry fee."
-  - q: "What are the opening hours?"
-    a: "It's open 24 hours every day, though the wildlife and cooler weather make early morning or late afternoon the best windows."
-  - q: "How do I get to Maple Garden without a car?"
-    a: "There's no direct MRT or rail line; take a city bus toward Xitun/Wenxin Road and walk 10–15 minutes, or use a taxi/rideshare to the Chaofu Road address."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to 1.5 hours walking the full pond loop and trail."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings are quietest; weekend evenings draw the biggest crowds of joggers and families, so avoid that window if you want a calmer walk."
+  - q: Is there an entrance fee for Maple Garden?
+    a: No, it's a free public city park with no ticket or entry fee.
+  - q: What are the opening hours?
+    a: It's open 24 hours every day, though the wildlife and cooler weather make early morning or late afternoon the best windows.
+  - q: How do I get to Maple Garden without a car?
+    a: There's no direct MRT or rail line; take a city bus toward Xitun/Wenxin Road and walk 10–15 minutes, or use a taxi/rideshare to the Chaofu Road address.
+  - q: How long should I plan to spend there?
+    a: Most visitors spend 45 minutes to 1.5 hours walking the full pond loop and trail.
+  - q: When is it least crowded?
+    a: Weekday mornings are quietest; weekend evenings draw the biggest crowds of joggers and families, so avoid that window if you want a calmer walk.
 aiGenerated: true
 draft: false
 ---

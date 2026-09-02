@@ -1,38 +1,30 @@
 ---
 title: 'National Museum of Korea: Boryeong Travel Guide (4.7★)'
-description: >-
-  The National Museum of Korea is actually in Yongsan District, Seoul, not
-  Boryeong — despite the regional tag, its address is 137 Seobinggo-ro, right by
-  Ichon Station. 4.7★ (29,015 reviews) — what visitors say, hours, and tips.
+description: The National Museum of Korea is actually in Yongsan District, Seoul, not Boryeong — despite the regional tag, its address is 137 Seobinggo-ro, right by Ichon Station. 4.7★ (29,015 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Boryeong
 category: attraction
 pubDate: '2026-08-24T08:21:07.617Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1920px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg
-  credit: >-
-    Photo: Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY
-    2.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg/1920px-National_Museum_of_Korea%2C_Seoul_%282%29_%2840236586235%29.jpg
+  credit: 'Photo: Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea,_Seoul_(2)_(40236586235).jpg
+  source: https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea,_Seoul_(2)_(40236586235).jpg
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg"
-    credit: "Photo: Ismoon (talk) 21:43, 5 July 2018 (UTC) / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg/1920px-Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
+    credit: 'Photo: Ismoon (talk) 21:43, 5 July 2018 (UTC) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg
 place:
   id: ChIJN2x0fu2ifDUR51BupseGYmE
   name: National Museum of Korea
-  address: '137 Seobinggo-ro, Yongsan District, Seoul, South Korea'
+  address: 137 Seobinggo-ro, Yongsan District, Seoul, South Korea
   rating: 4.7
   userRatingsTotal: 29015
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=7017319361445515495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=7017319361445515495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.523850599999996
   lng: 126.98047020000001
@@ -63,37 +55,21 @@ place:
 tags:
   - boryeong
   - museum
-quickAnswer: >-
-  The National Museum of Korea is actually in Yongsan District, Seoul, not
-  Boryeong — despite the regional tag, its address is 137 Seobinggo-ro, right by
-  Ichon Station. It's open 9:30am–5:30pm most days, with late nights until 9pm
-  on Wednesdays and Saturdays. Aim for a weekday afternoon (10am–6pm) to dodge
-  the weekend crush, which peaks between noon and 6pm.
+quickAnswer: The National Museum of Korea is actually in Yongsan District, Seoul, not Boryeong — despite the regional tag, its address is 137 Seobinggo-ro, right by Ichon Station. It's open 9:30am–5:30pm most days, with late nights until 9pm on Wednesdays and Saturdays. Aim for a weekday afternoon (10am–6pm) to dodge the weekend crush, which peaks between noon and 6pm.
 faq:
   - q: Is the National Museum of Korea actually in Boryeong?
-    a: >-
-      No — despite the regional label, it's in Yongsan District, Seoul, near
-      Ichon Station. Boryeong is a separate coastal city over two hours away.
+    a: No — despite the regional label, it's in Yongsan District, Seoul, near Ichon Station. Boryeong is a separate coastal city over two hours away.
   - q: How do I get to the National Museum of Korea?
-    a: >-
-      Take Seoul Subway Line 4 or the Gyeongui-Jungang Line to Ichon Station,
-      Exit 2, then walk through Yongsan Family Park to the entrance.
+    a: Take Seoul Subway Line 4 or the Gyeongui-Jungang Line to Ichon Station, Exit 2, then walk through Yongsan Family Park to the entrance.
   - q: What are the opening hours?
-    a: >-
-      9:30am–5:30pm Monday, Tuesday, Thursday, Friday and Sunday; 9:30am–9:00pm
-      on Wednesday and Saturday for extended evening visits.
+    a: 9:30am–5:30pm Monday, Tuesday, Thursday, Friday and Sunday; 9:30am–9:00pm on Wednesday and Saturday for extended evening visits.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 10am and 6pm are calmest. On weekends, the 8pm–9pm window
-      (Wed/Sat late hours) is the quiet exception; avoid noon–6pm on weekends,
-      the busiest stretch.
+    a: Weekdays between 10am and 6pm are calmest. On weekends, the 8pm–9pm window (Wed/Sat late hours) is the quiet exception; avoid noon–6pm on weekends, the busiest stretch.
   - q: How long should I plan to spend there?
-    a: >-
-      Budget two to three hours for the permanent collection alone; add more
-      time if a special exhibition interests you, since those require separate
-      paid tickets.
+    a: Budget two to three hours for the permanent collection alone; add more time if a special exhibition interests you, since those require separate paid tickets.
 aiGenerated: true
-draft: false
+draft: true
+heldReason: wrong-region
 updatedDate: '2026-08-29'
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

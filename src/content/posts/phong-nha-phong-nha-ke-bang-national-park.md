@@ -1,33 +1,33 @@
 ---
-title: "Phong Nha - Ke Bang National Park: Travel Guide (4.7★)"
-description: "Phong Nha - Ke Bang National Park in Quang Binh Province is Vietnam's cave capital — home to Son Doong, Paradise Cave and Phong Nha Cave's underground river. 4.7★ (1,001 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Phong Nha"
-category: "hidden-gem"
-pubDate: "2026-08-15T08:35:29.509Z"
+title: 'Phong Nha - Ke Bang National Park: Travel Guide (4.7★)'
+description: Phong Nha - Ke Bang National Park in Quang Binh Province is Vietnam's cave capital — home to Son Doong, Paradise Cave and Phong Nha Cave's underground river. 4.7★ (1,001 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Phong Nha
+category: hidden-gem
+pubDate: '2026-08-15T08:35:29.509Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Phongnhakebang6.jpg/1920px-Phongnhakebang6.jpg"
-  credit: "Photo: Genghiskhanviet / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phongnhakebang6.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Phongnhakebang6.jpg/1920px-Phongnhakebang6.jpg
+  credit: 'Photo: Genghiskhanviet / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Phongnhakebang6.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Phong_Nha-Ke_Bang_cave3.jpg"
-    credit: "Photo: [Tycho] talk , http://shansov.net / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Phong_Nha-Ke_Bang_cave3.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Phong_Nha-Ke_Bang_cave3.jpg/1920px-Phong_Nha-Ke_Bang_cave3.jpg
+    credit: 'Photo: [Tycho] talk , http://shansov.net / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Phong_Nha-Ke_Bang_cave3.jpg
 place:
-  id: "ChIJ1Qr0lk66ODERsFgeYSxKO10"
-  name: "Phong Nha - Ke Bang National Park"
-  address: "Quang Binh Province, Vietnam"
+  id: ChIJ1Qr0lk66ODERsFgeYSxKO10
+  name: Phong Nha - Ke Bang National Park
+  address: Quang Binh Province, Vietnam
   rating: 4.7
   userRatingsTotal: 1001
-  googleMapsUrl: "https://maps.google.com/?cid=6718044823621621936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6718044823621621936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 17.477679
   lng: 106.1340395
-  phone: "+84 232 3677 021"
+  phone: +84 232 3677 021
   busyness:
-    updated: 2026-08-15
+    updated: 2026-08-15T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -38,22 +38,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_30314f4b785359656746735245444f36366b6c307251314a496843"
+    venueId: ven_30314f4b785359656746735245444f36366b6c307251314a496843
 tags:
-  - "phong nha"
-  - "hidden gem"
-quickAnswer: "Phong Nha - Ke Bang National Park in Quang Binh Province is Vietnam's cave capital — home to Son Doong, Paradise Cave and Phong Nha Cave's underground river. Base yourself in Phong Nha town, book cave tours a few days ahead, and aim for the 8am–9am weekday window (or 7am–8am on weekends) to have the boat dock and jungle trails to yourself. Give it two to three days minimum; a single Son Doong expedition alone runs several days."
+  - phong nha
+  - hidden gem
+quickAnswer: Phong Nha - Ke Bang National Park in Quang Binh Province is Vietnam's cave capital — home to Son Doong, Paradise Cave and Phong Nha Cave's underground river. Base yourself in Phong Nha town, book cave tours a few days ahead, and aim for the 8am–9am weekday window (or 7am–8am on weekends) to have the boat dock and jungle trails to yourself. Give it two to three days minimum; a single Son Doong expedition alone runs several days.
 faq:
-  - q: "How many days do I need for Phong Nha - Ke Bang?"
-    a: "Two to three days covers Phong Nha Cave, Paradise Cave and a jungle walk. Add several more if you're doing the multi-day Son Doong expedition."
-  - q: "What's the quietest time to visit the caves?"
-    a: "8am–9am on weekdays or 7am–8am on weekends is calmest. Avoid weekend afternoons and evenings (2pm–11pm), when domestic tour buses pack the boat dock."
-  - q: "How do I get to Phong Nha from Hanoi or Hue?"
-    a: "Fly or take an overnight train to Dong Hoi, then a 45-minute taxi or bus transfer into Phong Nha town, which sits right at the park's edge."
-  - q: "Do I need to book Son Doong Cave in advance?"
-    a: "Yes, well ahead — permits are capped annually and expeditions run for several days with a licensed operator. Paradise Cave's deeper sections can also need advance booking."
-  - q: "What's nearby if I want a break from caves?"
-    a: "The Botanical Garden and Ma Da Valley offer shorter waterfall walks, and the western Ho Chi Minh Trail branch through the park has wartime relics and quiet motorbike routes."
+  - q: How many days do I need for Phong Nha - Ke Bang?
+    a: Two to three days covers Phong Nha Cave, Paradise Cave and a jungle walk. Add several more if you're doing the multi-day Son Doong expedition.
+  - q: What's the quietest time to visit the caves?
+    a: 8am–9am on weekdays or 7am–8am on weekends is calmest. Avoid weekend afternoons and evenings (2pm–11pm), when domestic tour buses pack the boat dock.
+  - q: How do I get to Phong Nha from Hanoi or Hue?
+    a: Fly or take an overnight train to Dong Hoi, then a 45-minute taxi or bus transfer into Phong Nha town, which sits right at the park's edge.
+  - q: Do I need to book Son Doong Cave in advance?
+    a: Yes, well ahead — permits are capped annually and expeditions run for several days with a licensed operator. Paradise Cave's deeper sections can also need advance booking.
+  - q: What's nearby if I want a break from caves?
+    a: The Botanical Garden and Ma Da Valley offer shorter waterfall walks, and the western Ho Chi Minh Trail branch through the park has wartime relics and quiet motorbike routes.
 aiGenerated: true
 draft: false
 ---

@@ -1,36 +1,36 @@
 ---
-title: "Bungkul Park: Surabaya Travel Guide (4.6★)"
-description: "Taman Bungkul (Bungkul Park) sits on Jalan Raya Darmo in the Wonokromo district of Surabaya, and it's one of the city's busiest green spaces, so aim for early morning on a weekday if you want breathing room. 4.6★ (58,557 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Surabaya"
-category: "attraction"
-pubDate: "2026-08-27T18:21:58.884Z"
+title: 'Bungkul Park: Surabaya Travel Guide (4.6★)'
+description: Taman Bungkul (Bungkul Park) sits on Jalan Raya Darmo in the Wonokromo district of Surabaya, and it's one of the city's busiest green spaces, so aim for early morning on a weekday if you want breathing room. 4.6★ (58,557 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Surabaya
+category: attraction
+pubDate: '2026-08-27T18:21:58.884Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bungkul_park_-_panoramio.jpg"
-  credit: "Photo: antonov0002 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bungkul_park_-_panoramio.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bungkul_park_-_panoramio.jpg/1280px-Bungkul_park_-_panoramio.jpg
+  credit: 'Photo: antonov0002 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Bungkul_park_-_panoramio.jpg
+  via: act
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/30/Bookmobile_Bungkul_Park_Surabaya.JPG"
-    credit: "Photo: Sakurai Midori / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bookmobile_Bungkul_Park_Surabaya.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bookmobile_Bungkul_Park_Surabaya.JPG/1920px-Bookmobile_Bungkul_Park_Surabaya.JPG
+    credit: 'Photo: Sakurai Midori / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bookmobile_Bungkul_Park_Surabaya.JPG
 place:
-  id: "ChIJjSU3GL771y0RP1aWZQsG5G0"
-  name: "Bungkul Park"
-  address: "Jl. Taman Bungkul, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241, Indonesia"
+  id: ChIJjSU3GL771y0RP1aWZQsG5G0
+  name: Bungkul Park
+  address: Jl. Taman Bungkul, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241, Indonesia
   rating: 4.6
   userRatingsTotal: 58557
-  googleMapsUrl: "https://maps.google.com/?cid=7918460690842932799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7918460690842932799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.2913467999999995
   lng: 112.7398218
   busyness:
-    updated: 2026-08-27
+    updated: 2026-08-27T00:00:00.000Z
     weekendBusy:
       - 7
       - 8
@@ -41,22 +41,22 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_3047354773515a576131505230793137374c473355536a4a496843"
+    venueId: ven_3047354773515a576131505230793137374c473355536a4a496843
 tags:
-  - "surabaya"
-  - "park"
-quickAnswer: "Taman Bungkul (Bungkul Park) sits on Jalan Raya Darmo in the Wonokromo district of Surabaya, and it's one of the city's busiest green spaces, so aim for early morning on a weekday if you want breathing room. Weekends run packed from 7am to 11pm with joggers, skaters, food carts and families, so evenings are for atmosphere, not quiet. Budget an hour or two, more if you eat your way through the street food stalls."
+  - surabaya
+  - park
+quickAnswer: Taman Bungkul (Bungkul Park) sits on Jalan Raya Darmo in the Wonokromo district of Surabaya, and it's one of the city's busiest green spaces, so aim for early morning on a weekday if you want breathing room. Weekends run packed from 7am to 11pm with joggers, skaters, food carts and families, so evenings are for atmosphere, not quiet. Budget an hour or two, more if you eat your way through the street food stalls.
 faq:
-  - q: "Where exactly is Bungkul Park located?"
-    a: "On Jalan Taman Bungkul, off the main Jalan Raya Darmo, in the Wonokromo district south of central Surabaya. It's a well-known landmark, so any taxi or ride-hailing driver can find it."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings offer the most breathing room. Weekend crowds run steady from 7am to 11pm with no quiet window, so avoid Saturday and Sunday if you want open space."
-  - q: "How much time should I budget?"
-    a: "One to two hours covers the park, the tomb of Mbah Bungkul, and a browse through the food stalls. Add extra time in the evening if you plan to eat there."
-  - q: "Is there an entrance fee?"
-    a: "Bungkul Park is a free public city park with no admission charge. Bring cash only for food and parking, not for entry."
-  - q: "What's nearby if I have more time?"
-    a: "The park sits along Jalan Raya Darmo, a short ride from Surabaya's Gubeng Station and the Tunjungan shopping and heritage district, both worth combining with a visit."
+  - q: Where exactly is Bungkul Park located?
+    a: On Jalan Taman Bungkul, off the main Jalan Raya Darmo, in the Wonokromo district south of central Surabaya. It's a well-known landmark, so any taxi or ride-hailing driver can find it.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings offer the most breathing room. Weekend crowds run steady from 7am to 11pm with no quiet window, so avoid Saturday and Sunday if you want open space.
+  - q: How much time should I budget?
+    a: One to two hours covers the park, the tomb of Mbah Bungkul, and a browse through the food stalls. Add extra time in the evening if you plan to eat there.
+  - q: Is there an entrance fee?
+    a: Bungkul Park is a free public city park with no admission charge. Bring cash only for food and parking, not for entry.
+  - q: What's nearby if I have more time?
+    a: The park sits along Jalan Raya Darmo, a short ride from Surabaya's Gubeng Station and the Tunjungan shopping and heritage district, both worth combining with a visit.
 aiGenerated: true
 draft: false
 ---

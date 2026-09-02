@@ -1,41 +1,41 @@
 ---
-title: "National Center for Traditional Arts: Yilan Travel Guide"
-description: "The National Center for Traditional Arts sits on the Dongshan River in Wujie Township, just outside Yilan City, open daily 9am–6pm. 4.5★ (42,045 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Yilan"
-category: "hidden-gem"
-pubDate: "2026-08-14T08:42:12.155Z"
+title: 'National Center for Traditional Arts: Yilan Travel Guide'
+description: The National Center for Traditional Arts sits on the Dongshan River in Wujie Township, just outside Yilan City, open daily 9am–6pm. 4.5★ (42,045 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Yilan
+category: hidden-gem
+pubDate: '2026-08-14T08:42:12.155Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/268%2C_Taiwan%2C_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_%2850%29.jpg/1920px-268%2C_Taiwan%2C_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_%2850%29.jpg"
-  credit: "Photo: 徐月春 / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:268,_Taiwan,_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_(50).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/268%2C_Taiwan%2C_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_%2850%29.jpg/1920px-268%2C_Taiwan%2C_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_%2850%29.jpg
+  credit: 'Photo: 徐月春 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:268,_Taiwan,_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_(50).jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/29/National_Center_for_Traditional_Arts_01.jpg"
-    credit: "Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:National_Center_for_Traditional_Arts_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/National_Center_for_Traditional_Arts_01.jpg/1920px-National_Center_for_Traditional_Arts_01.jpg
+    credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:National_Center_for_Traditional_Arts_01.jpg
 place:
-  id: "ChIJjReEGkPvZzQR_8WyhotGs1o"
-  name: "National Center for Traditional Arts"
-  address: "No. 201號, Section 2, Wubin Rd, Jixin Village, Wujie Township, Yilan County, Taiwan 268"
+  id: ChIJjReEGkPvZzQR_8WyhotGs1o
+  name: National Center for Traditional Arts
+  address: No. 201號, Section 2, Wubin Rd, Jixin Village, Wujie Township, Yilan County, Taiwan 268
   rating: 4.5
   userRatingsTotal: 42045
-  googleMapsUrl: "https://maps.google.com/?cid=6535645049318983167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6535645049318983167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.685587
   lng: 121.824053
-  phone: "+886 3 950 8859"
+  phone: +886 3 950 8859
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-14
+    updated: 2026-08-14T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -48,22 +48,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6f317347746f687957385f52517a5a76506b474565526a4a496843"
+    venueId: ven_6f317347746f687957385f52517a5a76506b474565526a4a496843
 tags:
-  - "yilan"
-  - "local market"
-quickAnswer: "The National Center for Traditional Arts sits on the Dongshan River in Wujie Township, just outside Yilan City, open daily 9am–6pm. It's a sprawling cultural village of Qing- and Japanese-era-style streets, craft workshops, puppet and glove-puppet theatres, and riverside food stalls — plan on three to four hours. Weekdays are calmest all day; weekends between 10am and 5pm draw the biggest crowds, so arrive right at opening if you're visiting Saturday or Sunday."
+  - yilan
+  - local market
+quickAnswer: The National Center for Traditional Arts sits on the Dongshan River in Wujie Township, just outside Yilan City, open daily 9am–6pm. It's a sprawling cultural village of Qing- and Japanese-era-style streets, craft workshops, puppet and glove-puppet theatres, and riverside food stalls — plan on three to four hours. Weekdays are calmest all day; weekends between 10am and 5pm draw the biggest crowds, so arrive right at opening if you're visiting Saturday or Sunday.
 faq:
-  - q: "How long should I spend at the National Center for Traditional Arts?"
-    a: "Plan on three to four hours to see the craft lanes, catch a puppet or opera performance, and walk the riverside promenade. A half day lets you linger in workshops."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays are calm throughout the full 9am–6pm opening hours. If you can only go on a weekend, arrive right at 9am to beat the 10am–5pm rush."
-  - q: "How do I get there without a car?"
-    a: "Taxi from Yilan Train Station takes about 15 minutes. Seasonal shuttle buses also run from Yilan or Luodong station on weekends and holidays — confirm current schedules before you go."
-  - q: "Is there an entrance fee?"
-    a: "Admission and any special exhibit pricing can change, so check the official site or ask locally before your visit rather than assuming a fixed rate."
-  - q: "What should I eat there?"
-    a: "Look for Yilan-style scallion pancakes and glutinous rice sweets from the stalls along the main craft lane — both are regional specialties worth trying on site."
+  - q: How long should I spend at the National Center for Traditional Arts?
+    a: Plan on three to four hours to see the craft lanes, catch a puppet or opera performance, and walk the riverside promenade. A half day lets you linger in workshops.
+  - q: What's the quietest time to visit?
+    a: Weekdays are calm throughout the full 9am–6pm opening hours. If you can only go on a weekend, arrive right at 9am to beat the 10am–5pm rush.
+  - q: How do I get there without a car?
+    a: Taxi from Yilan Train Station takes about 15 minutes. Seasonal shuttle buses also run from Yilan or Luodong station on weekends and holidays — confirm current schedules before you go.
+  - q: Is there an entrance fee?
+    a: Admission and any special exhibit pricing can change, so check the official site or ask locally before your visit rather than assuming a fixed rate.
+  - q: What should I eat there?
+    a: Look for Yilan-style scallion pancakes and glutinous rice sweets from the stalls along the main craft lane — both are regional specialties worth trying on site.
 aiGenerated: true
 draft: false
 ---

@@ -1,21 +1,15 @@
 ---
 title: 'People''s Park: Chengdu Travel Guide (4.5★)'
-description: >-
-  People's Park is Chengdu's classic slice of everyday life — a shaded,
-  pond-side park in Qing Yang District best known for the Heming Teahouse,
-  ear-cleaners, and locals playing mahjong under the trees. 4.5★ (1,069 reviews)
-  — what visitors say, hours, and tips.
+description: People's Park is Chengdu's classic slice of everyday life — a shaded, pond-side park in Qing Yang District best known for the Heming Teahouse, ear-cleaners, and locals playing mahjong under the trees. 4.5★ (1,069 reviews) — what visitors say, hours, and tips.
 country: China
 region: Chengdu
 category: attraction
 pubDate: '2026-08-16T07:51:53.831Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/9/9c/People%27s_Park%2C_Chengdu%2C_Sichuan%2C_China%2C_610041_-_panoramio.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/People%27s_Park%2C_Chengdu%2C_Sichuan%2C_China%2C_610041_-_panoramio.jpg/1920px-People%27s_Park%2C_Chengdu%2C_Sichuan%2C_China%2C_610041_-_panoramio.jpg
   credit: 'Photo: Anders Johnson / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:People%27s_Park,_Chengdu,_Sichuan,_China,_610041_-_panoramio.jpg
+  source: https://commons.wikimedia.org/wiki/File:People%27s_Park,_Chengdu,_Sichuan,_China,_610041_-_panoramio.jpg
   focus:
     x: 50
     'y': 45
@@ -23,11 +17,10 @@ gallery: []
 place:
   id: ChIJlZD4VSHF7zYRv59cxjF5vPY
   name: People's Park
-  address: '9 Ci Tang Jie, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, China, 610015'
+  address: 9 Ci Tang Jie, Qing Yang Qu, Cheng Du Shi, Si Chuan Sheng, China, 610015
   rating: 4.5
   userRatingsTotal: 1069
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17779218683640192959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17779218683640192959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 30.657131999999997
   lng: 104.05724599999999
@@ -35,34 +28,18 @@ place:
 tags:
   - chengdu
   - park
-quickAnswer: >-
-  People's Park is Chengdu's classic slice of everyday life — a shaded,
-  pond-side park in Qing Yang District best known for the Heming Teahouse,
-  ear-cleaners, and locals playing mahjong under the trees. Go on a weekday
-  morning, order a cup of jasmine tea for a few yuan, and just sit for an hour.
-  It's easy to combine with nearby Kuanzhai Alley for a half-day loop.
+quickAnswer: People's Park is Chengdu's classic slice of everyday life — a shaded, pond-side park in Qing Yang District best known for the Heming Teahouse, ear-cleaners, and locals playing mahjong under the trees. Go on a weekday morning, order a cup of jasmine tea for a few yuan, and just sit for an hour. It's easy to combine with nearby Kuanzhai Alley for a half-day loop.
 faq:
   - q: How do I get to People's Park?
-    a: >-
-      Take Metro Line 2 to People's Park Station — the exit leads almost
-      directly to the park entrance. It's also a 10–15 minute walk from Tianfu
-      Square or Chunxi Road.
+    a: Take Metro Line 2 to People's Park Station — the exit leads almost directly to the park entrance. It's also a 10–15 minute walk from Tianfu Square or Chunxi Road.
   - q: How much does it cost to visit?
-    a: >-
-      Entry to the park itself is free. A jar of tea at Heming Teahouse
-      typically costs just a few yuan, paid directly to your server.
+    a: Entry to the park itself is free. A jar of tea at Heming Teahouse typically costs just a few yuan, paid directly to your server.
   - q: When is the best time to visit?
-    a: >-
-      Weekday mornings are calmest, before the teahouse fills up. Weekends after
-      midday get considerably busier around the pond and teahouse tables.
+    a: Weekday mornings are calmest, before the teahouse fills up. Weekends after midday get considerably busier around the pond and teahouse tables.
   - q: How long should I spend there?
-    a: >-
-      Budget at least an hour — more if you settle in for tea, which is the main
-      local experience here.
+    a: Budget at least an hour — more if you settle in for tea, which is the main local experience here.
   - q: What else is nearby?
-    a: >-
-      Kuanzhai Alley, one of Chengdu's best-known historic shopping streets, is
-      about a 15–20 minute walk away and pairs well with a park visit.
+    a: Kuanzhai Alley, one of Chengdu's best-known historic shopping streets, is about a 15–20 minute walk away and pairs well with a park visit.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'

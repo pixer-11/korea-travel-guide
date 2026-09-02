@@ -1,34 +1,27 @@
 ---
 title: 'Medinah Temple: Chicago Travel Guide (4.2★)'
-description: >-
-  Medinah Temple, at 600 N Wabash Ave in Chicago's River North, is now the shell
-  around a Bloomingdale's Home & Furniture store — but the exterior alone is
-  worth the detour. 4.2★ (322 reviews) — what visitors say, hours, and tips.
+description: Medinah Temple, at 600 N Wabash Ave in Chicago's River North, is now the shell around a Bloomingdale's Home & Furniture store — but the exterior alone is worth the detour. 4.2★ (322 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Chicago
 category: attraction
 pubDate: '2026-08-07T08:47:24.184Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg/1920px-Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg/1920px-Medinah_Temple%2C_Wabash_Avenue%2C_River_North%2C_Chicago%2C_IL_-_52907572547.jpg
   credit: 'Photo: w_lemay / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Medinah_Temple,_Wabash_Avenue,_River_North,_Chicago,_IL_-_52907572547.jpg
+  source: https://commons.wikimedia.org/wiki/File:Medinah_Temple,_Wabash_Avenue,_River_North,_Chicago,_IL_-_52907572547.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/6/61/Medinah_temple_facade.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Medinah_temple_facade.jpg/1920px-Medinah_temple_facade.jpg
     credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Medinah_temple_facade.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Medinah_temple_facade.jpg
 place:
   id: ChIJ_716D2wtDogRO8Z5MHM1m4g
   name: Medinah Temple
-  address: 'Medinah Temple, 600 N Wabash Ave, Chicago, IL 60611, USA'
+  address: Medinah Temple, 600 N Wabash Ave, Chicago, IL 60611, USA
   rating: 4.2
   userRatingsTotal: 322
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=9843520179399149115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=9843520179399149115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.8929305
   lng: -87.62716569999999
@@ -43,37 +36,18 @@ place:
 tags:
   - chicago
   - historic site
-quickAnswer: >-
-  Medinah Temple, at 600 N Wabash Ave in Chicago's River North, is now the shell
-  around a Bloomingdale's Home & Furniture store — but the exterior alone is
-  worth the detour. Go on a weekday between 9am and 5pm (it's closed weekends),
-  and pause on Wabash to take in the Moorish domes and terracotta before or
-  after browsing inside.
+quickAnswer: Medinah Temple, at 600 N Wabash Ave in Chicago's River North, is now the shell around a Bloomingdale's Home & Furniture store — but the exterior alone is worth the detour. Go on a weekday between 9am and 5pm (it's closed weekends), and pause on Wabash to take in the Moorish domes and terracotta before or after browsing inside.
 faq:
   - q: Is Medinah Temple open to the public?
-    a: >-
-      Yes — the building now operates as a Bloomingdale's Home & Furniture
-      store, so anyone can walk in during store hours, 9am–5pm Monday through
-      Friday. It's closed Saturday and Sunday.
+    a: Yes — the building now operates as a Bloomingdale's Home & Furniture store, so anyone can walk in during store hours, 9am–5pm Monday through Friday. It's closed Saturday and Sunday.
   - q: How do I get to Medinah Temple by public transit?
-    a: >-
-      The closest CTA stop is Grand/State on the Red Line, about a 5-minute
-      walk. Brown, Purple, Orange and Pink Line riders can use Merchandise Mart
-      or Washington/Wells, roughly 10–12 minutes on foot.
+    a: The closest CTA stop is Grand/State on the Red Line, about a 5-minute walk. Brown, Purple, Orange and Pink Line riders can use Merchandise Mart or Washington/Wells, roughly 10–12 minutes on foot.
   - q: How much time should I spend there?
-    a: >-
-      15–20 minutes is enough for most visitors — a slow look at the exterior
-      facade plus a walk through the ground floor. It's a quick architectural
-      stop, not a full museum visit.
+    a: 15–20 minutes is enough for most visitors — a slow look at the exterior facade plus a walk through the ground floor. It's a quick architectural stop, not a full museum visit.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekday mornings shortly after the 9am opening tend to be calmest, before
-      nearby office workers and shoppers arrive for lunch.
+    a: Weekday mornings shortly after the 9am opening tend to be calmest, before nearby office workers and shoppers arrive for lunch.
   - q: What else is nearby?
-    a: >-
-      Tree Studios is just around the corner, The Rookery Building and Loop
-      architecture are a short ride south, and Merchandise Mart with its
-      riverfront architecture boat tours is a few blocks west.
+    a: Tree Studios is just around the corner, The Rookery Building and Loop architecture are a short ride south, and Merchandise Mart with its riverfront architecture boat tours is a few blocks west.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'

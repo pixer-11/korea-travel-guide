@@ -1,43 +1,43 @@
 ---
-title: "Siyob Bozori: Samarkand Travel Guide (4.5★)"
-description: "Siyob Bozori sprawls right behind the Bibi-Khanym Mosque in Samarkand, open Tuesday to Sunday from 7am to 7pm (closed Mondays). 4.5★ (4,225 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Samarkand"
-category: "hidden-gem"
-pubDate: "2026-08-18T07:59:41.483Z"
+title: 'Siyob Bozori: Samarkand Travel Guide (4.5★)'
+description: Siyob Bozori sprawls right behind the Bibi-Khanym Mosque in Samarkand, open Tuesday to Sunday from 7am to 7pm (closed Mondays). 4.5★ (4,225 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Samarkand
+category: hidden-gem
+pubDate: '2026-08-18T07:59:41.483Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Siyob_bozori_20230621.jpg/3840px-Siyob_bozori_20230621.jpg"
-  credit: "Photo: Mirzoulug'bek / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Siyob_bozori_20230621.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Siyob_bozori_20230621.jpg/3840px-Siyob_bozori_20230621.jpg
+  credit: 'Photo: Mirzoulug''bek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Siyob_bozori_20230621.jpg
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Siyob_bozori_%28Siyab_bazaar%29.jpg"
-    credit: "Photo: Shuhrataxmedov / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Siyob_bozori_(Siyab_bazaar).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Siyob_bozori_%28Siyab_bazaar%29.jpg/1920px-Siyob_bozori_%28Siyab_bazaar%29.jpg
+    credit: 'Photo: Shuhrataxmedov / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Siyob_bozori_(Siyab_bazaar).jpg
 place:
-  id: "ChIJT1g5ULkYTT8RVMhxajWoY4Y"
-  name: "Siyob Bozori"
-  address: "MX6H+RW9, Bibikhonim Str., Samarqand, Samarqand viloyati, Uzbekistan"
+  id: ChIJT1g5ULkYTT8RVMhxajWoY4Y
+  name: Siyob Bozori
+  address: MX6H+RW9, Bibikhonim Str., Samarqand, Samarqand viloyati, Uzbekistan
   rating: 4.5
   userRatingsTotal: 4225
-  googleMapsUrl: "https://maps.google.com/?cid=9683768571149273172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9683768571149273172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.662048299999995
   lng: 66.979861
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -59,22 +59,22 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_5934596f576a6178684d5652385454596b4c55356731544a496843"
+    venueId: ven_5934596f576a6178684d5652385454596b4c55356731544a496843
 tags:
-  - "samarkand"
-  - "Siyob Bazaar"
-quickAnswer: "Siyob Bozori sprawls right behind the Bibi-Khanym Mosque in Samarkand, open Tuesday to Sunday from 7am to 7pm (closed Mondays). Go between 7am and 9am, when both weekday and weekend crowds are thinnest, before the domed bread stalls and spice pyramids get mobbed after 11am. Budget an hour to wander, longer if you plan to eat your way through it."
+  - samarkand
+  - Siyob Bazaar
+quickAnswer: Siyob Bozori sprawls right behind the Bibi-Khanym Mosque in Samarkand, open Tuesday to Sunday from 7am to 7pm (closed Mondays). Go between 7am and 9am, when both weekday and weekend crowds are thinnest, before the domed bread stalls and spice pyramids get mobbed after 11am. Budget an hour to wander, longer if you plan to eat your way through it.
 faq:
-  - q: "What are the opening hours for Siyob Bozori?"
-    a: "It's open Tuesday through Sunday, 7am to 7pm. It's closed on Mondays, so plan your visit around that."
-  - q: "When is the quietest time to visit?"
-    a: "Both on weekdays and weekends, the market is calmest between 7am and 9am. After 11am on weekends, it gets noticeably busier through closing."
-  - q: "How do I get to Siyob Bozori?"
-    a: "It's located on Bibikhonim Street, directly behind the Bibi-Khanym Mosque in central Samarkand. It's a 10-15 minute walk from Registan Square, or a short, inexpensive taxi ride from anywhere in the city."
-  - q: "How long should I spend at the market?"
-    a: "Budget at least an hour to walk through the main stalls; longer if you plan to sample food or shop for dried fruit, spices, and bread."
-  - q: "Can I pay by card?"
-    a: "Bring cash. Most individual vendors only accept Uzbek som in cash, and card readers are uncommon at stalls."
+  - q: What are the opening hours for Siyob Bozori?
+    a: It's open Tuesday through Sunday, 7am to 7pm. It's closed on Mondays, so plan your visit around that.
+  - q: When is the quietest time to visit?
+    a: Both on weekdays and weekends, the market is calmest between 7am and 9am. After 11am on weekends, it gets noticeably busier through closing.
+  - q: How do I get to Siyob Bozori?
+    a: It's located on Bibikhonim Street, directly behind the Bibi-Khanym Mosque in central Samarkand. It's a 10-15 minute walk from Registan Square, or a short, inexpensive taxi ride from anywhere in the city.
+  - q: How long should I spend at the market?
+    a: Budget at least an hour to walk through the main stalls; longer if you plan to sample food or shop for dried fruit, spices, and bread.
+  - q: Can I pay by card?
+    a: Bring cash. Most individual vendors only accept Uzbek som in cash, and card readers are uncommon at stalls.
 aiGenerated: true
 draft: false
 ---

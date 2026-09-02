@@ -1,53 +1,53 @@
 ---
-title: "Kobe Harborland: Travel Guide (4.3★)"
-description: "Kobe Harborland is a waterside shopping and dining district built around the old Kobe railway station, best visited in the late afternoon so you can shop before dark and watch the harbor lights come on. 4.3★ (11,900 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kobe"
-category: "hidden-gem"
-pubDate: "2026-08-16T08:04:18.850Z"
+title: 'Kobe Harborland: Travel Guide (4.3★)'
+description: Kobe Harborland is a waterside shopping and dining district built around the old Kobe railway station, best visited in the late afternoon so you can shop before dark and watch the harbor lights come on. 4.3★ (11,900 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kobe
+category: hidden-gem
+pubDate: '2026-08-16T08:04:18.850Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Harborland_%28Port_of_Kobe%29_20141008-3.JPG"
-  credit: "Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Harborland_(Port_of_Kobe)_20141008-3.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Harborland_%28Port_of_Kobe%29_20141008-3.JPG/1920px-Harborland_%28Port_of_Kobe%29_20141008-3.JPG
+  credit: 'Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Harborland_(Port_of_Kobe)_20141008-3.JPG
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJD5fHbgePAGARpXshMiA87rA"
-  name: "Kobe Harborland"
-  address: "1 Chome-7 Higashikawasakicho, Chuo Ward, Kobe, Hyogo 650-0044, Japan"
+  id: ChIJD5fHbgePAGARpXshMiA87rA
+  name: Kobe Harborland
+  address: 1 Chome-7 Higashikawasakicho, Chuo Ward, Kobe, Hyogo 650-0044, Japan
   rating: 4.3
   userRatingsTotal: 11900
-  googleMapsUrl: "https://maps.google.com/?cid=12749193704110128037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=12749193704110128037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6800711
   lng: 135.18351429999998
-  phone: "+81 78-360-3639"
+  phone: +81 78-360-3639
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 10:00 AM – 9:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
 tags:
-  - "kobe"
-  - "hidden gem"
-quickAnswer: "Kobe Harborland is a waterside shopping and dining district built around the old Kobe railway station, best visited in the late afternoon so you can shop before dark and watch the harbor lights come on. Shops and malls run 10am–9pm daily, though restaurants often stay open later. It's well-visited, so aim for a weekday or arrive before noon on weekends to skip the crowds."
+  - kobe
+  - hidden gem
+quickAnswer: Kobe Harborland is a waterside shopping and dining district built around the old Kobe railway station, best visited in the late afternoon so you can shop before dark and watch the harbor lights come on. Shops and malls run 10am–9pm daily, though restaurants often stay open later. It's well-visited, so aim for a weekday or arrive before noon on weekends to skip the crowds.
 faq:
-  - q: "How do I get to Kobe Harborland?"
-    a: "Take the JR Kobe Line or Kobe Kosoku Line to Kobe Station, or the Kosoku Line to Harborland Station — both are a five-minute walk from the main malls. From Sannomiya it's about a 10-minute train ride."
-  - q: "What are the opening hours?"
-    a: "Shops and malls run 10:00 AM to 9:00 PM every day of the week, including weekends. Individual restaurants may stay open a bit later, so check specific venues before heading out for dinner."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday afternoons are calmer than weekends. If you can only visit Saturday or Sunday, arrive close to the 10am opening to get a couple of hours before it fills up."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors underestimate it and end up staying three to four hours once you factor in the two malls, the waterfront deck, and a sit-down meal."
-  - q: "Is Kobe Harborland good for trying Kobe beef?"
-    a: "Yes — several teppanyaki and steakhouse spots cluster around the Mosaic area, from casual lunch sets to full dinner experiences. Weekend dinner reservations are worth booking ahead."
+  - q: How do I get to Kobe Harborland?
+    a: Take the JR Kobe Line or Kobe Kosoku Line to Kobe Station, or the Kosoku Line to Harborland Station — both are a five-minute walk from the main malls. From Sannomiya it's about a 10-minute train ride.
+  - q: What are the opening hours?
+    a: Shops and malls run 10:00 AM to 9:00 PM every day of the week, including weekends. Individual restaurants may stay open a bit later, so check specific venues before heading out for dinner.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday afternoons are calmer than weekends. If you can only visit Saturday or Sunday, arrive close to the 10am opening to get a couple of hours before it fills up.
+  - q: How long should I plan to spend there?
+    a: Most visitors underestimate it and end up staying three to four hours once you factor in the two malls, the waterfront deck, and a sit-down meal.
+  - q: Is Kobe Harborland good for trying Kobe beef?
+    a: Yes — several teppanyaki and steakhouse spots cluster around the Mosaic area, from casual lunch sets to full dinner experiences. Weekend dinner reservations are worth booking ahead.
 aiGenerated: true
 draft: false
 ---

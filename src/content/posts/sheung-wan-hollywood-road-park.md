@@ -1,40 +1,40 @@
 ---
-title: "Hollywood Road Park: Sheung Wan Travel Guide (4.0★)"
-description: "Hollywood Road Park is a small, terraced pocket of calm just below Man Mo Temple in Sheung Wan, built around ornamental ponds, a red-columned Chinese pavilion and a traditional moon gate. 4.0★ (837 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Sheung Wan"
-category: "attraction"
-pubDate: "2026-08-12T17:13:52.005Z"
+title: 'Hollywood Road Park: Sheung Wan Travel Guide (4.0★)'
+description: Hollywood Road Park is a small, terraced pocket of calm just below Man Mo Temple in Sheung Wan, built around ornamental ponds, a red-columned Chinese pavilion and a traditional moon gate. 4.0★ (837 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Sheung Wan
+category: attraction
+pubDate: '2026-08-12T17:13:52.005Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/88/HK_Sheung_Wan_Hollywood_Road_Park_Gate_2.JPG"
-  credit: "Photo: YauKee1QRW / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Hollywood_Road_Park_Gate_2.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HK_Sheung_Wan_Hollywood_Road_Park_Gate_2.JPG/1280px-HK_Sheung_Wan_Hollywood_Road_Park_Gate_2.JPG
+  credit: 'Photo: YauKee1QRW / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Hollywood_Road_Park_Gate_2.JPG
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_SW_Sheung_Wan_Hollywood_Road_Park_February_2021_SS2_01.jpg/3840px-HK_SW_Sheung_Wan_Hollywood_Road_Park_February_2021_SS2_01.jpg"
-    credit: "Photo: Hung Red Honmeni L03 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:HK_SW_Sheung_Wan_Hollywood_Road_Park_February_2021_SS2_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_SW_Sheung_Wan_Hollywood_Road_Park_February_2021_SS2_01.jpg/3840px-HK_SW_Sheung_Wan_Hollywood_Road_Park_February_2021_SS2_01.jpg
+    credit: 'Photo: Hung Red Honmeni L03 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:HK_SW_Sheung_Wan_Hollywood_Road_Park_February_2021_SS2_01.jpg
 place:
-  id: "ChIJlajU534ABDQRPxvJ5FQhGsQ"
-  name: "Hollywood Road Park"
-  address: "Hollywood Rd, Sheung Wan, Hong Kong"
+  id: ChIJlajU534ABDQRPxvJ5FQhGsQ
+  name: Hollywood Road Park
+  address: Hollywood Rd, Sheung Wan, Hong Kong
   rating: 4
   userRatingsTotal: 837
-  googleMapsUrl: "https://maps.google.com/?cid=14130643429327706943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14130643429327706943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.285949799999997
   lng: 114.1475646
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -58,22 +58,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_517347685146354a7678505251444241343335556a616c4a496843"
+    venueId: ven_517347685146354a7678505251444241343335556a616c4a496843
 tags:
-  - "sheung wan"
-  - "top attraction"
-quickAnswer: "Hollywood Road Park is a small, terraced pocket of calm just below Man Mo Temple in Sheung Wan, built around ornamental ponds, a red-columned Chinese pavilion and a traditional moon gate. It's open 24 hours, and quietest between 7am and 8am — weekdays or weekends — before the tai chi crowd and weekend visitors arrive by mid-morning. Give it 20-30 minutes on your way between Man Mo Temple and the Sheung Wan antique shops."
+  - sheung wan
+  - top attraction
+quickAnswer: Hollywood Road Park is a small, terraced pocket of calm just below Man Mo Temple in Sheung Wan, built around ornamental ponds, a red-columned Chinese pavilion and a traditional moon gate. It's open 24 hours, and quietest between 7am and 8am — weekdays or weekends — before the tai chi crowd and weekend visitors arrive by mid-morning. Give it 20-30 minutes on your way between Man Mo Temple and the Sheung Wan antique shops.
 faq:
-  - q: "How do I get to Hollywood Road Park?"
-    a: "Take the MTR to Sheung Wan Station, Exit A2, then walk uphill about 10-15 minutes along Hollywood Road. It sits right next to Man Mo Temple."
-  - q: "Is there an entrance fee?"
-    a: "No, entry is free and the park is open 24 hours every day, so there's no fixed closing time to plan around."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 8am, on both weekdays and weekends, before locals doing morning exercise give way to the daytime crowd."
-  - q: "How long should I spend here?"
-    a: "Most visitors spend 20-30 minutes — enough to walk the terraces, see the moon gate and ponds, and sit for a bit near the pavilion."
-  - q: "What else is nearby?"
-    a: "Man Mo Temple is right next door, and Hollywood Road's antique shops, Ladder Street, and PMQ are all within a 10-15 minute walk."
+  - q: How do I get to Hollywood Road Park?
+    a: Take the MTR to Sheung Wan Station, Exit A2, then walk uphill about 10-15 minutes along Hollywood Road. It sits right next to Man Mo Temple.
+  - q: Is there an entrance fee?
+    a: No, entry is free and the park is open 24 hours every day, so there's no fixed closing time to plan around.
+  - q: When is the quietest time to visit?
+    a: Between 7am and 8am, on both weekdays and weekends, before locals doing morning exercise give way to the daytime crowd.
+  - q: How long should I spend here?
+    a: Most visitors spend 20-30 minutes — enough to walk the terraces, see the moon gate and ponds, and sit for a bit near the pavilion.
+  - q: What else is nearby?
+    a: Man Mo Temple is right next door, and Hollywood Road's antique shops, Ladder Street, and PMQ are all within a 10-15 minute walk.
 aiGenerated: true
 draft: false
 ---

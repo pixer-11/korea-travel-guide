@@ -1,49 +1,49 @@
 ---
-title: "Jebel Hafeet Mountain: Al Ain Travel Guide (4.7★)"
-description: "Jebel Hafeet Mountain in Al Ain is the UAE's second-highest peak, reached by a 12km paved mountain road that switchbacks up to a lookout point near the summit. 4.7★ (1,166 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Al Ain"
-category: "attraction"
-pubDate: "2026-08-23T07:57:15.609Z"
+title: 'Jebel Hafeet Mountain: Al Ain Travel Guide (4.7★)'
+description: Jebel Hafeet Mountain in Al Ain is the UAE's second-highest peak, reached by a 12km paved mountain road that switchbacks up to a lookout point near the summit. 4.7★ (1,166 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Al Ain
+category: attraction
+pubDate: '2026-08-23T07:57:15.609Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jebel_Hafeet.jpg/3840px-Jebel_Hafeet.jpg"
-  credit: "Photo: Angela Manthorpe / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jebel_Hafeet.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jebel_Hafeet.jpg/3840px-Jebel_Hafeet.jpg
+  credit: 'Photo: Angela Manthorpe / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jebel_Hafeet.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg"
-    credit: "Photo: Riyaz Ahamed / Wikimedia Commons (CC BY-SA 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg/960px-Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg
+    credit: 'Photo: Riyaz Ahamed / Wikimedia Commons (CC BY-SA 2.5)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Jebel_Hafeet_Mountain_Al_Ain_UAE.jpg
 place:
-  id: "ChIJTUowTF6_ij4Rv54tavy9DOw"
-  name: "Jebel Hafeet Mountain"
-  address: "3Q5G+8QC - Jabal Hafeet - Jabal Hafeet 1 - Abu Dhabi - United Arab Emirates"
+  id: ChIJTUowTF6_ij4Rv54tavy9DOw
+  name: Jebel Hafeet Mountain
+  address: 3Q5G+8QC - Jabal Hafeet - Jabal Hafeet 1 - Abu Dhabi - United Arab Emirates
   rating: 4.7
   userRatingsTotal: 1166
-  googleMapsUrl: "https://maps.google.com/?cid=17009178784482303679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17009178784482303679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.0583016
   lng: 55.776879799999996
 tags:
-  - "al ain"
-  - "viewpoint"
-quickAnswer: "Jebel Hafeet Mountain in Al Ain is the UAE's second-highest peak, reached by a 12km paved mountain road that switchbacks up to a lookout point near the summit. Best time to visit is late afternoon into sunset, when the desert haze softens and temperatures drop enough to enjoy the viewpoints. It's still relatively under-the-radar compared to Abu Dhabi and Dubai's big-name sights, so you won't be fighting crowds even on weekends."
+  - al ain
+  - viewpoint
+quickAnswer: Jebel Hafeet Mountain in Al Ain is the UAE's second-highest peak, reached by a 12km paved mountain road that switchbacks up to a lookout point near the summit. Best time to visit is late afternoon into sunset, when the desert haze softens and temperatures drop enough to enjoy the viewpoints. It's still relatively under-the-radar compared to Abu Dhabi and Dubai's big-name sights, so you won't be fighting crowds even on weekends.
 faq:
-  - q: "How do I get to Jebel Hafeet Mountain?"
-    a: "You need a car, taxi, or ride-hail — there's no public bus. From central Al Ain, it's about a 20-30 minute drive to the base, then a 12km paved road climbs to near the summit."
-  - q: "Is there an entrance fee for Jebel Hafeet?"
-    a: "No, the mountain road and viewpoints are free to access. You may pay separately for facilities like the hot springs at Green Mubazzarah or the hotel near the summit."
-  - q: "What is the best time to visit Jebel Hafeet?"
-    a: "Late afternoon into sunset, especially from November to March. Avoid midday heat between May and September, when temperatures on the exposed rock and road climb sharply."
-  - q: "How long should I spend at Jebel Hafeet?"
-    a: "Plan on at least two hours round trip for the drive and viewpoint stop. Add more time if you want to visit Green Mubazzarah gardens or the Bronze Age tombs at the base."
-  - q: "What else is near Jebel Hafeet worth visiting?"
-    a: "The Jebel Hafeet Desert Park and Green Mubazzarah gardens sit at the mountain's base with warm springs and picnic areas, both easy to combine with the drive up."
+  - q: How do I get to Jebel Hafeet Mountain?
+    a: You need a car, taxi, or ride-hail — there's no public bus. From central Al Ain, it's about a 20-30 minute drive to the base, then a 12km paved road climbs to near the summit.
+  - q: Is there an entrance fee for Jebel Hafeet?
+    a: No, the mountain road and viewpoints are free to access. You may pay separately for facilities like the hot springs at Green Mubazzarah or the hotel near the summit.
+  - q: What is the best time to visit Jebel Hafeet?
+    a: Late afternoon into sunset, especially from November to March. Avoid midday heat between May and September, when temperatures on the exposed rock and road climb sharply.
+  - q: How long should I spend at Jebel Hafeet?
+    a: Plan on at least two hours round trip for the drive and viewpoint stop. Add more time if you want to visit Green Mubazzarah gardens or the Bronze Age tombs at the base.
+  - q: What else is near Jebel Hafeet worth visiting?
+    a: The Jebel Hafeet Desert Park and Green Mubazzarah gardens sit at the mountain's base with warm springs and picnic areas, both easy to combine with the drive up.
 aiGenerated: true
 draft: false
 ---

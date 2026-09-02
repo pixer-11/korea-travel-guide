@@ -1,37 +1,30 @@
 ---
 title: 'Donghwasa: Daegu Travel Guide (4.4★)'
-description: >-
-  Donghwasa is a large Buddhist temple complex on the slopes of Palgongsan, in
-  Dong-gu on the northern edge of Daegu, best known for its 30-metre
-  Seokjoyaksayeoraebulsang (stone Buddha statue). 4.4★ (2,424 reviews) — what
-  visitors say, hours, and tips.
+description: Donghwasa is a large Buddhist temple complex on the slopes of Palgongsan, in Dong-gu on the northern edge of Daegu, best known for its 30-metre Seokjoyaksayeoraebulsang (stone Buddha statue). 4.4★ (2,424 reviews) — what visitors say, hours, and tips.
 country: South Korea
 region: Daegu
 category: attraction
 pubDate: '2026-08-25T08:07:39.203Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/5/59/Korea-Daegu-Donghwasa-01.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Korea-Daegu-Donghwasa-01.jpg/1280px-Korea-Daegu-Donghwasa-01.jpg
   credit: 'Photo: by martinroell / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Korea-Daegu-Donghwasa-01.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Korea-Daegu-Donghwasa-01.jpg
   focus:
     x: 45
     'y': 40
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/b/b9/Korea-Daegu-Donghwasa-04.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korea-Daegu-Donghwasa-04.jpg/1280px-Korea-Daegu-Donghwasa-04.jpg
     credit: 'Photo: by martinroell / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Korea-Daegu-Donghwasa-04.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Korea-Daegu-Donghwasa-04.jpg
 place:
   id: ChIJLUJU0brjZTURwYRi_gMCi-U
   name: Donghwasa
-  address: '1 Palgongsan-ro 237-gil, Dong-gu, Daegu, South Korea'
+  address: 1 Palgongsan-ro 237-gil, Dong-gu, Daegu, South Korea
   rating: 4.4
   userRatingsTotal: 2424
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=16540316272624305345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=16540316272624305345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.9929105
   lng: 128.7039968
@@ -60,37 +53,18 @@ place:
 tags:
   - daegu
   - historic site
-quickAnswer: >-
-  Donghwasa is a large Buddhist temple complex on the slopes of Palgongsan, in
-  Dong-gu on the northern edge of Daegu, best known for its 30-metre
-  Seokjoyaksayeoraebulsang (stone Buddha statue). It's open 24 hours every day,
-  but weekends between 9am and 6pm draw the biggest crowds, so aim for a weekday
-  morning if you want the grounds quiet. Plan on two to three hours to see the
-  temple halls, the giant Buddha, and the cable car up Palgongsan.
+quickAnswer: Donghwasa is a large Buddhist temple complex on the slopes of Palgongsan, in Dong-gu on the northern edge of Daegu, best known for its 30-metre Seokjoyaksayeoraebulsang (stone Buddha statue). It's open 24 hours every day, but weekends between 9am and 6pm draw the biggest crowds, so aim for a weekday morning if you want the grounds quiet. Plan on two to three hours to see the temple halls, the giant Buddha, and the cable car up Palgongsan.
 faq:
   - q: How do I get to Donghwasa from downtown Daegu?
-    a: >-
-      Take Metro Line 1 to Ayanggyo Station, then transfer to a city bus heading
-      to Palgongsan/Donghwasa (confirm the current route number at the station).
-      By car or taxi, it's roughly a 30–40 minute drive from central Daegu.
+    a: Take Metro Line 1 to Ayanggyo Station, then transfer to a city bus heading to Palgongsan/Donghwasa (confirm the current route number at the station). By car or taxi, it's roughly a 30–40 minute drive from central Daegu.
   - q: What is the entrance fee for Donghwasa?
-    a: >-
-      Admission fees can change, so check current pricing locally before you go;
-      parking near the entrance is paid separately.
+    a: Admission fees can change, so check current pricing locally before you go; parking near the entrance is paid separately.
   - q: When is Donghwasa least crowded?
-    a: >-
-      Weekends from 9am to 6pm are the busiest stretch, especially during cherry
-      blossom and autumn foliage seasons. A weekday morning is your best bet for
-      a quieter visit.
+    a: Weekends from 9am to 6pm are the busiest stretch, especially during cherry blossom and autumn foliage seasons. A weekday morning is your best bet for a quieter visit.
   - q: How long should I plan to spend at Donghwasa?
-    a: >-
-      Most visitors spend two to three hours exploring the temple halls and the
-      giant stone Buddha, longer if you add the Palgongsan cable car or a hike
-      toward Gatbawi.
+    a: Most visitors spend two to three hours exploring the temple halls and the giant stone Buddha, longer if you add the Palgongsan cable car or a hike toward Gatbawi.
   - q: Is Donghwasa open at night?
-    a: >-
-      The grounds are technically open 24 hours daily, though most visitors come
-      during daylight hours to see the halls and statues clearly.
+    a: The grounds are technically open 24 hours daily, though most visitors come during daylight hours to see the halls and statues clearly.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'

@@ -23,7 +23,7 @@ faq:
 aiGenerated: true
 photoless: true
 heroImage:
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kitchen_in_Nam_Long_Congee_Shop.jpg/3840px-Kitchen_in_Nam_Long_Congee_Shop.jpg
   credit: 'Photo: Peachyeung316 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Kitchen_in_Nam_Long_Congee_Shop.jpg

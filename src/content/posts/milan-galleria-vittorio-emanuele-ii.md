@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Galleria_Milano_(179532365).jpeg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG/1920px-Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG
     credit: 'Photo: High Contrast / Wikimedia Commons (CC BY 3.0 de)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Glass_fome_of_the_Galleria_Vittorio_Emanuele_II_in_Milan.JPG

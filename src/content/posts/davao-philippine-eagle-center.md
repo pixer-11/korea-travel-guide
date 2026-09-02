@@ -1,36 +1,27 @@
 ---
 title: 'Philippine Eagle Center: Davao Travel Guide'
-description: >-
-  The Philippine Eagle Center sits in Malagos, about 45–60 minutes from downtown
-  Davao, and is open daily 8:00 AM–4:30 PM.
+description: The Philippine Eagle Center sits in Malagos, about 45–60 minutes from downtown Davao, and is open daily 8:00 AM–4:30 PM.
 country: Philippines
 region: Davao
 category: hidden-gem
 pubDate: '2026-07-30T09:54:40.837Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg/1920px-Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg/1920px-Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg
   credit: 'Photo: RoyKabanlit / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg
+  source: https://commons.wikimedia.org/wiki/File:Philippine_Eagle_at_the_Philippine_Eagle_Center_001.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/1/15/Haliastur_indus_-Philippine_Eagle_Center%2C_Davao_City%2C_Philippines_-upper_body-8a.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Haliastur_indus_-Philippine_Eagle_Center%2C_Davao_City%2C_Philippines_-upper_body-8a.jpg/1920px-Haliastur_indus_-Philippine_Eagle_Center%2C_Davao_City%2C_Philippines_-upper_body-8a.jpg
     credit: 'Photo: scorpious18 / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Haliastur_indus_-Philippine_Eagle_Center,_Davao_City,_Philippines_-upper_body-8a.jpg
+    source: https://commons.wikimedia.org/wiki/File:Haliastur_indus_-Philippine_Eagle_Center,_Davao_City,_Philippines_-upper_body-8a.jpg
 place:
   id: ChIJsVlo7aAX-TIRAjBUK3kIOEg
   name: Philippine Eagle Center
-  address: >-
-    Purok 5, Malagos-Baguio District, Davao City, 8000 Davao del Sur,
-    Philippines
+  address: Purok 5, Malagos-Baguio District, Davao City, 8000 Davao del Sur, Philippines
   rating: 4.5
   userRatingsTotal: 1491
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=5203918685937610754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=5203918685937610754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 7.18498
   lng: 125.41528369999999
@@ -46,37 +37,18 @@ place:
 tags:
   - davao
   - hidden gem
-quickAnswer: >-
-  The Philippine Eagle Center sits in Malagos, about 45–60 minutes from downtown
-  Davao, and is open daily 8:00 AM–4:30 PM. Budget 1.5–2 hours to walk the
-  forested trail past the mesh-domed enclosures, and go on a weekday morning if
-  you can — it's well-known but far enough out of town that it rarely feels
-  crowded. Combine it with the nearby Malagos Garden Resort or chocolate farm to
-  make a half-day trip.
+quickAnswer: The Philippine Eagle Center sits in Malagos, about 45–60 minutes from downtown Davao, and is open daily 8:00 AM–4:30 PM. Budget 1.5–2 hours to walk the forested trail past the mesh-domed enclosures, and go on a weekday morning if you can — it's well-known but far enough out of town that it rarely feels crowded. Combine it with the nearby Malagos Garden Resort or chocolate farm to make a half-day trip.
 faq:
   - q: How do I get to the Philippine Eagle Center from Davao City?
-    a: >-
-      It's about 45–60 minutes by road from downtown Davao, in Malagos-Baguio
-      District near Calinan. Most visitors go by Grab car, habal-habal, or a
-      hired van, since jeepney service to Malagos is infrequent.
+    a: It's about 45–60 minutes by road from downtown Davao, in Malagos-Baguio District near Calinan. Most visitors go by Grab car, habal-habal, or a hired van, since jeepney service to Malagos is infrequent.
   - q: What are the opening hours?
-    a: >-
-      The center is open every day, including weekends, from 8:00 AM to 4:30 PM,
-      with no weekly closing day.
+    a: The center is open every day, including weekends, from 8:00 AM to 4:30 PM, with no weekly closing day.
   - q: How long should I plan to spend there?
-    a: >-
-      Plan for 1.5 to 2 hours to walk the full forest trail and read the
-      enclosure information panels at an unhurried pace.
+    a: Plan for 1.5 to 2 hours to walk the full forest trail and read the enclosure information panels at an unhurried pace.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Weekday mornings shortly after the 8:00 AM opening are calmest — weekends
-      bring more local families and school groups, and the birds are generally
-      more active before midday heat sets in.
+    a: Weekday mornings shortly after the 8:00 AM opening are calmest — weekends bring more local families and school groups, and the birds are generally more active before midday heat sets in.
   - q: What else can I combine this trip with?
-    a: >-
-      The Malagos Garden Resort, Malagos Chocolate farm, and Davao Crocodile
-      Park are all in the same general area and make a natural half-day
-      itinerary alongside the Eagle Center.
+    a: The Malagos Garden Resort, Malagos Chocolate farm, and Davao Crocodile Park are all in the same general area and make a natural half-day itinerary alongside the Eagle Center.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'

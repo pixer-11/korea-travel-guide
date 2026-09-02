@@ -33,7 +33,7 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Marx%2C_Birmingham%2C_AL_2025.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Richard_Marx%2C_Birmingham%2C_AL_2025.jpg/1280px-Richard_Marx%2C_Birmingham%2C_AL_2025.jpg
   credit: 'Photo: Michael Cohn Photo / wikimedia (BY-SA)'
   license: openverse-cc
   source: https://commons.wikimedia.org/w/index.php?curid=176419912

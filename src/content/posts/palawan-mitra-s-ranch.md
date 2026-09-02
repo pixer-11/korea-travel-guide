@@ -1,43 +1,43 @@
 ---
-title: "Mitra's Ranch: Palawan Travel Guide (4.2★)"
-description: "Mitra's Ranch is a hilltop viewpoint on Mitra Road just outside Puerto Princesa, open daily 5am–6pm, with sweeping views over the city and the sea, plus a zip line and picnic huts. 4.2★ (1,364 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Palawan"
-category: "attraction"
-pubDate: "2026-08-20T09:38:41.355Z"
+title: 'Mitra''s Ranch: Palawan Travel Guide (4.2★)'
+description: Mitra's Ranch is a hilltop viewpoint on Mitra Road just outside Puerto Princesa, open daily 5am–6pm, with sweeping views over the city and the sea, plus a zip line and picnic huts. 4.2★ (1,364 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Palawan
+category: attraction
+pubDate: '2026-08-20T09:38:41.355Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mitra%27s_Ranch_Puerto_Princesa_%2C_Palawan_-_panoramio.jpg"
-  credit: "Photo: Mats Sjödin / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mitra%27s_Ranch_Puerto_Princesa_,_Palawan_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mitra%27s_Ranch_Puerto_Princesa_%2C_Palawan_-_panoramio.jpg/1280px-Mitra%27s_Ranch_Puerto_Princesa_%2C_Palawan_-_panoramio.jpg
+  credit: 'Photo: Mats Sjödin / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mitra%27s_Ranch_Puerto_Princesa_,_Palawan_-_panoramio.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1359365088_DO63ALyC5UOsiAcMgiTcaJ4Q_35jx1TFecmOG0KVwJ8.jpg"
-    credit: "Photo: Foursquare user content (Mitra’s Ranch)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/65e42490045f6a76ff9bcc2e"
+  - url: https://fastly.4sqi.net/img/general/original/1359365088_DO63ALyC5UOsiAcMgiTcaJ4Q_35jx1TFecmOG0KVwJ8.jpg
+    credit: 'Photo: Foursquare user content (Mitra’s Ranch)'
+    license: foursquare
+    source: https://foursquare.com/v/65e42490045f6a76ff9bcc2e
 place:
-  id: "ChIJETZrxDNjtTMR9MiVuV7l8fo"
-  name: "Mitra's Ranch"
-  address: "RP6P+P4F, Mitra Rd, Puerto Princesa City, 5300 Palawan, Philippines"
+  id: ChIJETZrxDNjtTMR9MiVuV7l8fo
+  name: Mitra's Ranch
+  address: RP6P+P4F, Mitra Rd, Puerto Princesa City, 5300 Palawan, Philippines
   rating: 4.2
   userRatingsTotal: 1364
-  googleMapsUrl: "https://maps.google.com/?cid=18082486173872539892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18082486173872539892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.8115885
   lng: 118.73534380000001
   openingHours:
-    - "Monday: 5:00 AM – 6:00 PM"
-    - "Tuesday: 5:00 AM – 6:00 PM"
-    - "Wednesday: 5:00 AM – 6:00 PM"
-    - "Thursday: 5:00 AM – 6:00 PM"
-    - "Friday: 5:00 AM – 6:00 PM"
-    - "Saturday: 5:00 AM – 6:00 PM"
-    - "Sunday: 5:00 AM – 6:00 PM"
+    - 'Monday: 5:00 AM – 6:00 PM'
+    - 'Tuesday: 5:00 AM – 6:00 PM'
+    - 'Wednesday: 5:00 AM – 6:00 PM'
+    - 'Thursday: 5:00 AM – 6:00 PM'
+    - 'Friday: 5:00 AM – 6:00 PM'
+    - 'Saturday: 5:00 AM – 6:00 PM'
+    - 'Sunday: 5:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,22 +53,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6f66386c37567556694d39524d54746a4e4478725a54454a496843"
+    venueId: ven_6f66386c37567556694d39524d54746a4e4478725a54454a496843
 tags:
-  - "palawan"
-  - "park"
-quickAnswer: "Mitra's Ranch is a hilltop viewpoint on Mitra Road just outside Puerto Princesa, open daily 5am–6pm, with sweeping views over the city and the sea, plus a zip line and picnic huts. Go between 7am and 9am, when it's quietest on both weekdays and weekends, and skip the 2pm–6pm weekend rush. Give it 45 minutes to 1.5 hours, longer if you ride the zip line."
+  - palawan
+  - park
+quickAnswer: Mitra's Ranch is a hilltop viewpoint on Mitra Road just outside Puerto Princesa, open daily 5am–6pm, with sweeping views over the city and the sea, plus a zip line and picnic huts. Go between 7am and 9am, when it's quietest on both weekdays and weekends, and skip the 2pm–6pm weekend rush. Give it 45 minutes to 1.5 hours, longer if you ride the zip line.
 faq:
-  - q: "How do I get to Mitra's Ranch without a private tour?"
-    a: "Hire a tricycle or habal-habal (motorbike taxi) from downtown Puerto Princesa — there's no direct jeepney route, and the final approach road is steep, so a motorbike or car is easier than walking or cycling."
-  - q: "What's the entrance fee?"
-    a: "There's a small entrance fee, plus minor separate charges for parking and the zip line. Amounts can change, so bring cash in pesos and treat any figure you're told as approximate."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 9am, on both weekdays and weekends, according to measured foot-traffic. Avoid weekend afternoons from 2pm to 6pm, when it's busiest."
-  - q: "How long should I spend at Mitra's Ranch?"
-    a: "Plan for 45 minutes to 1.5 hours — longer if you want to ride the zip line or linger for sunrise or sunset light."
-  - q: "What else is nearby?"
-    a: "It pairs well with a Puerto Princesa city tour, and Honda Bay's island-hopping trips depart from a wharf not far from downtown, making it easy to combine with a hilltop-and-beach day."
+  - q: How do I get to Mitra's Ranch without a private tour?
+    a: Hire a tricycle or habal-habal (motorbike taxi) from downtown Puerto Princesa — there's no direct jeepney route, and the final approach road is steep, so a motorbike or car is easier than walking or cycling.
+  - q: What's the entrance fee?
+    a: There's a small entrance fee, plus minor separate charges for parking and the zip line. Amounts can change, so bring cash in pesos and treat any figure you're told as approximate.
+  - q: When is the quietest time to visit?
+    a: Between 7am and 9am, on both weekdays and weekends, according to measured foot-traffic. Avoid weekend afternoons from 2pm to 6pm, when it's busiest.
+  - q: How long should I spend at Mitra's Ranch?
+    a: Plan for 45 minutes to 1.5 hours — longer if you want to ride the zip line or linger for sunrise or sunset light.
+  - q: What else is nearby?
+    a: It pairs well with a Puerto Princesa city tour, and Honda Bay's island-hopping trips depart from a wharf not far from downtown, making it easy to combine with a hilltop-and-beach day.
 aiGenerated: true
 draft: false
 ---

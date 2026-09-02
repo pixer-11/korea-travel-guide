@@ -1,31 +1,31 @@
 ---
-title: "Sultan Mosque: Kampong Glam Travel Guide"
-description: "Sultan Mosque (Masjid Sultan) at 3 Muscat St anchors Kampong Glam and is Singapore's largest mosque, easily reached via Bugis MRT (Downtown/East-West Lines)."
-country: "Singapore"
-region: "Kampong Glam"
-category: "attraction"
-pubDate: "2026-07-23T07:32:45.952Z"
+title: 'Sultan Mosque: Kampong Glam Travel Guide'
+description: Sultan Mosque (Masjid Sultan) at 3 Muscat St anchors Kampong Glam and is Singapore's largest mosque, easily reached via Bugis MRT (Downtown/East-West Lines).
+country: Singapore
+region: Kampong Glam
+category: attraction
+pubDate: '2026-07-23T07:32:45.952Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gateway_to_Sultan_Mosque%2C_Kampong_Glam_%288125489356%29.jpg"
-  credit: "Photo: Erwin Soo from Singapore. / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Gateway_to_Sultan_Mosque,_Kampong_Glam_(8125489356).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gateway_to_Sultan_Mosque%2C_Kampong_Glam_%288125489356%29.jpg/1280px-Gateway_to_Sultan_Mosque%2C_Kampong_Glam_%288125489356%29.jpg
+  credit: 'Photo: Erwin Soo from Singapore. / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Gateway_to_Sultan_Mosque,_Kampong_Glam_(8125489356).jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016_Singapur%2C_Kampong_Glam%2C_Meczet_Su%C5%82tana_%2809%29.jpg/1920px-2016_Singapur%2C_Kampong_Glam%2C_Meczet_Su%C5%82tana_%2809%29.jpg
     credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:2016_Singapur,_Kampong_Glam,_Meczet_Su%C5%82tana_(09).jpg
 place:
-  id: "ChIJb6xq2bAZ2jERE1P6sVKtofw"
-  name: "Sultan Mosque"
-  address: "3 Muscat St, Singapore 198833"
+  id: ChIJb6xq2bAZ2jERE1P6sVKtofw
+  name: Sultan Mosque
+  address: 3 Muscat St, Singapore 198833
   rating: 4.7
   userRatingsTotal: 13994
-  googleMapsUrl: "https://maps.google.com/?cid=18204021739493151507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18204021739493151507&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3022854
   lng: 103.8589636
-  phone: '+65 6293 4405'
+  phone: +65 6293 4405
   openingHours:
     - 'Monday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
     - 'Tuesday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
@@ -35,20 +35,20 @@ place:
     - 'Saturday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
     - 'Sunday: 10:00 AM – 12:00 PM, 2:00 – 4:00 PM'
 tags:
-  - "kampong glam"
-  - "top attraction"
-quickAnswer: "Sultan Mosque (Masjid Sultan) at 3 Muscat St anchors Kampong Glam and is Singapore's largest mosque, easily reached via Bugis MRT (Downtown/East-West Lines). Visit outside the five daily prayer times, dress modestly (robes are lent at the entrance), and budget 30-45 minutes for the golden-domed prayer hall and courtyard before wandering nearby Haji Lane and Arab Street."
+  - kampong glam
+  - top attraction
+quickAnswer: Sultan Mosque (Masjid Sultan) at 3 Muscat St anchors Kampong Glam and is Singapore's largest mosque, easily reached via Bugis MRT (Downtown/East-West Lines). Visit outside the five daily prayer times, dress modestly (robes are lent at the entrance), and budget 30-45 minutes for the golden-domed prayer hall and courtyard before wandering nearby Haji Lane and Arab Street.
 faq:
-  - q: "How do I get to Sultan Mosque by MRT?"
-    a: "Take the Downtown or East-West Line to Bugis MRT Station, then walk about 8-10 minutes north via Arab Street (Exit C) or through Haji Lane (Exit D)."
-  - q: "Is there an entrance fee?"
-    a: "There's generally no fixed entry fee for visitors, though donations are welcomed. Confirm current visiting hours and any tour costs at the entrance, as these can change."
-  - q: "What should I wear?"
-    a: "Dress modestly with shoulders and knees covered. Free robes/sarongs are typically available at the entrance for visitors who need them, and shoes come off before entering carpeted areas."
-  - q: "How long should I plan for a visit?"
-    a: "Allow 30-45 minutes for the mosque's exterior, courtyard, and any open visiting areas, plus extra time to explore Bussorah Street, Arab Street, and Haji Lane nearby."
-  - q: "When should I avoid visiting?"
-    a: "Avoid the midday hours on Fridays due to Jumu'ah congregational prayers, and expect the prayer hall to be closed to non-Muslim visitors during all five daily prayer times."
+  - q: How do I get to Sultan Mosque by MRT?
+    a: Take the Downtown or East-West Line to Bugis MRT Station, then walk about 8-10 minutes north via Arab Street (Exit C) or through Haji Lane (Exit D).
+  - q: Is there an entrance fee?
+    a: There's generally no fixed entry fee for visitors, though donations are welcomed. Confirm current visiting hours and any tour costs at the entrance, as these can change.
+  - q: What should I wear?
+    a: Dress modestly with shoulders and knees covered. Free robes/sarongs are typically available at the entrance for visitors who need them, and shoes come off before entering carpeted areas.
+  - q: How long should I plan for a visit?
+    a: Allow 30-45 minutes for the mosque's exterior, courtyard, and any open visiting areas, plus extra time to explore Bussorah Street, Arab Street, and Haji Lane nearby.
+  - q: When should I avoid visiting?
+    a: Avoid the midday hours on Fridays due to Jumu'ah congregational prayers, and expect the prayer hall to be closed to non-Muslim visitors during all five daily prayer times.
 aiGenerated: true
 draft: false
 ---

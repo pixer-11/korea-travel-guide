@@ -1,45 +1,45 @@
 ---
-title: "Victoria Harbour: Hong Kong Travel Guide (4.6★)"
-description: "Victoria Harbour is Hong Kong's waterfront centerpiece, best seen from the Tsim Sha Tsui Promenade or the Central/Admiralty side around sunset, when the skyline lights up and the Symphony of Lights show runs nightly at 8pm. 4.6★ (5,719 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "attraction"
-pubDate: "2026-08-13T08:52:13.320Z"
+title: 'Victoria Harbour: Hong Kong Travel Guide (4.6★)'
+description: Victoria Harbour is Hong Kong's waterfront centerpiece, best seen from the Tsim Sha Tsui Promenade or the Central/Admiralty side around sunset, when the skyline lights up and the Symphony of Lights show runs nightly at 8pm. 4.6★ (5,719 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Hong Kong
+category: attraction
+pubDate: '2026-08-13T08:52:13.320Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/51/International_Commerce_Centre_on_Victoria_Harbour.jpg"
-  credit: "Photo: Wilfredor / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:International_Commerce_Centre_on_Victoria_Harbour.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/International_Commerce_Centre_on_Victoria_Harbour.jpg/1920px-International_Commerce_Centre_on_Victoria_Harbour.jpg
+  credit: 'Photo: Wilfredor / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:International_Commerce_Centre_on_Victoria_Harbour.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/3840px-Hong_Kong_Harbour_Night_2019-06-11.jpg"
-    credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/3840px-Hong_Kong_Harbour_Night_2019-06-11.jpg
+    credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg
 place:
-  id: "ChIJ2SDZLO0ABDQRp9wW56JJj9k"
-  name: "Victoria Harbour"
-  address: "Admiralty, Hong Kong"
+  id: ChIJ2SDZLO0ABDQRp9wW56JJj9k
+  name: Victoria Harbour
+  address: Admiralty, Hong Kong
   rating: 4.6
   userRatingsTotal: 5719
-  googleMapsUrl: "https://maps.google.com/?cid=15676829791910550695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15676829791910550695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.293265200000004
   lng: 114.17262199999999
 tags:
-  - "hong kong"
-  - "night view"
-quickAnswer: "Victoria Harbour is Hong Kong's waterfront centerpiece, best seen from the Tsim Sha Tsui Promenade or the Central/Admiralty side around sunset, when the skyline lights up and the Symphony of Lights show runs nightly at 8pm. Give it an hour for a stroll, longer if you catch the Star Ferry crossing (about 10 minutes, among the cheapest harbour views anywhere). It's extremely popular, so arrive before 7:30pm to get a clear railing spot for the light show."
+  - hong kong
+  - night view
+quickAnswer: Victoria Harbour is Hong Kong's waterfront centerpiece, best seen from the Tsim Sha Tsui Promenade or the Central/Admiralty side around sunset, when the skyline lights up and the Symphony of Lights show runs nightly at 8pm. Give it an hour for a stroll, longer if you catch the Star Ferry crossing (about 10 minutes, among the cheapest harbour views anywhere). It's extremely popular, so arrive before 7:30pm to get a clear railing spot for the light show.
 faq:
-  - q: "What's the best time of day to visit Victoria Harbour?"
-    a: "Late afternoon into early evening, so you see the skyline in daylight and then catch it lit up for the 8pm Symphony of Lights show without having to move."
-  - q: "How do I get to the harbour by public transport?"
-    a: "Take the MTR to East Tsim Sha Tsui Station (Exit J) for the Kowloon side, or Admiralty Station (Exit F) / Central Station (Exit A) for the Hong Kong Island side."
-  - q: "Is the Star Ferry worth doing?"
-    a: "Yes — it's a short, inexpensive crossing between Tsim Sha Tsui and Central that gives you a completely different, on-the-water perspective of the skyline."
-  - q: "How long should I spend at Victoria Harbour?"
-    a: "At least an hour for a proper walk along one promenade; add another 30-60 minutes if you're doing the Star Ferry crossing or watching the light show."
-  - q: "How can I avoid the biggest crowds?"
-    a: "Avoid arriving right before the 8pm light show, especially on weekends — mid-morning or early afternoon on the Central/Admiralty side is noticeably calmer."
+  - q: What's the best time of day to visit Victoria Harbour?
+    a: Late afternoon into early evening, so you see the skyline in daylight and then catch it lit up for the 8pm Symphony of Lights show without having to move.
+  - q: How do I get to the harbour by public transport?
+    a: Take the MTR to East Tsim Sha Tsui Station (Exit J) for the Kowloon side, or Admiralty Station (Exit F) / Central Station (Exit A) for the Hong Kong Island side.
+  - q: Is the Star Ferry worth doing?
+    a: Yes — it's a short, inexpensive crossing between Tsim Sha Tsui and Central that gives you a completely different, on-the-water perspective of the skyline.
+  - q: How long should I spend at Victoria Harbour?
+    a: At least an hour for a proper walk along one promenade; add another 30-60 minutes if you're doing the Star Ferry crossing or watching the light show.
+  - q: How can I avoid the biggest crowds?
+    a: Avoid arriving right before the 8pm light show, especially on weekends — mid-morning or early afternoon on the Central/Admiralty side is noticeably calmer.
 aiGenerated: true
 draft: false
 ---

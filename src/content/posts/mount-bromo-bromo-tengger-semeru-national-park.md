@@ -1,47 +1,47 @@
 ---
-title: "Bromo Tengger Semeru National Park: Mount Bromo Travel Guide"
-description: "Bromo Tengger Semeru National Park is a highland volcanic landscape in East Java where you watch sunrise over Mount Bromo's smoking crater from a viewpoint above a vast grey \"Sea of Sand. 4.8★ (47,146 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Mount Bromo"
-category: "hidden-gem"
-pubDate: "2026-08-14T08:53:03.938Z"
+title: 'Bromo Tengger Semeru National Park: Mount Bromo Travel Guide'
+description: Bromo Tengger Semeru National Park is a highland volcanic landscape in East Java where you watch sunrise over Mount Bromo's smoking crater from a viewpoint above a vast grey "Sea of Sand. 4.8★ (47,146 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Mount Bromo
+category: hidden-gem
+pubDate: '2026-08-14T08:53:03.938Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg/1920px-Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg"
-  credit: "Photo: Andhika bayu nugraha / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg/1920px-Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg
+  credit: 'Photo: Andhika bayu nugraha / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bromo-Tengger-Semeru-National-Park_Indonesia_Horses-02.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bromo-Tengger-Semeru-National-Park_Indonesia_Horses-02.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bromo-Tengger-Semeru-National-Park_Indonesia_Horses-02.jpg/1920px-Bromo-Tengger-Semeru-National-Park_Indonesia_Horses-02.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bromo-Tengger-Semeru-National-Park_Indonesia_Horses-02.jpg
 place:
-  id: "ChIJRclpXzY_1i0RyZJZgSLArjY"
-  name: "Bromo Tengger Semeru National Park"
-  address: "XXH2+7X4, Ranupani, East Java, Indonesia"
+  id: ChIJRclpXzY_1i0RyZJZgSLArjY
+  name: Bromo Tengger Semeru National Park
+  address: XXH2+7X4, Ranupani, East Java, Indonesia
   rating: 4.8
   userRatingsTotal: 47146
-  googleMapsUrl: "https://maps.google.com/?cid=3940297978427314889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3940297978427314889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.0218747
   lng: 112.95243839999999
-  phone: "+62 341 491828"
-  hoursOmitted: "Google lists the park office's weekday desk hours; sunrise access runs daily before dawn"
+  phone: +62 341 491828
+  hoursOmitted: Google lists the park office's weekday desk hours; sunrise access runs daily before dawn
 tags:
-  - "mount bromo"
-  - "hidden gem"
-quickAnswer: "Bromo Tengger Semeru National Park is a highland volcanic landscape in East Java where you watch sunrise over Mount Bromo's smoking crater from a viewpoint above a vast grey \"Sea of Sand.\" Most visitors join a jeep tour from Cemoro Lawang or Malang before dawn; entry is ticketed rather than gated, and sunrise access runs every day of the week. Go in the dry season, April to October, for the clearest views."
+  - mount bromo
+  - hidden gem
+quickAnswer: Bromo Tengger Semeru National Park is a highland volcanic landscape in East Java where you watch sunrise over Mount Bromo's smoking crater from a viewpoint above a vast grey "Sea of Sand." Most visitors join a jeep tour from Cemoro Lawang or Malang before dawn; entry is ticketed rather than gated, and sunrise access runs every day of the week. Go in the dry season, April to October, for the clearest views.
 faq:
-  - q: "How do I get to Mount Bromo from Surabaya or Malang?"
-    a: "From Surabaya it's about 3-4 hours by car to the park area; from Malang, also roughly 3-4 hours. Most visitors base in Cemoro Lawang village or Malang and join a pre-booked 4WD jeep tour for the pre-dawn drive up."
-  - q: "Is the park open for sunrise every day?"
-    a: "Yes — sunrise convoys run every day of the week, weekends included, and the viewpoints are reached before dawn. Weekday office hours you may see listed online belong to the park's administration desks, not visitor access. Your jeep operator or guesthouse arranges the national-park entry ticket."
-  - q: "When is the best time of year to visit?"
-    a: "The dry season, April through October, offers the clearest skies and best sunrise views. Rainy months from December to February often bring fog that can obscure the crater entirely."
-  - q: "How long does the sunrise and crater trip take?"
-    a: "Plan for four to six hours total from a base like Cemoro Lawang, covering the pre-dawn jeep convoy, the viewpoint stop, and the walk or horse ride up to Bromo's crater rim."
-  - q: "Is it crowded, and how do I avoid the worst of it?"
-    a: "Yes, this is one of Indonesia's most-visited natural sites, especially at Penanjakan viewpoint. Try King Kong Hill or Seruni Point for a similar sunrise view with fewer jeeps jostling for space."
+  - q: How do I get to Mount Bromo from Surabaya or Malang?
+    a: From Surabaya it's about 3-4 hours by car to the park area; from Malang, also roughly 3-4 hours. Most visitors base in Cemoro Lawang village or Malang and join a pre-booked 4WD jeep tour for the pre-dawn drive up.
+  - q: Is the park open for sunrise every day?
+    a: Yes — sunrise convoys run every day of the week, weekends included, and the viewpoints are reached before dawn. Weekday office hours you may see listed online belong to the park's administration desks, not visitor access. Your jeep operator or guesthouse arranges the national-park entry ticket.
+  - q: When is the best time of year to visit?
+    a: The dry season, April through October, offers the clearest skies and best sunrise views. Rainy months from December to February often bring fog that can obscure the crater entirely.
+  - q: How long does the sunrise and crater trip take?
+    a: Plan for four to six hours total from a base like Cemoro Lawang, covering the pre-dawn jeep convoy, the viewpoint stop, and the walk or horse ride up to Bromo's crater rim.
+  - q: Is it crowded, and how do I avoid the worst of it?
+    a: Yes, this is one of Indonesia's most-visited natural sites, especially at Penanjakan viewpoint. Try King Kong Hill or Seruni Point for a similar sunrise view with fewer jeeps jostling for space.
 aiGenerated: true
 draft: false
 ---

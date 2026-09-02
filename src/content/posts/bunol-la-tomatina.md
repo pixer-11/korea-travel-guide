@@ -1,8 +1,6 @@
 ---
 title: 'La Tomatina: What to Know (Buñol)'
-description: >-
-  La Tomatina in Buñol, Spain — August 26, 2026. What it is, when and where, and
-  how to plan around it.
+description: La Tomatina in Buñol, Spain — August 26, 2026. What it is, when and where, and how to plan around it.
 country: Spain
 region: Buñol
 category: event
@@ -10,10 +8,10 @@ pubDate: '2026-07-24'
 eventStartDate: '2026-08-26'
 eventEndDate: '2026-08-26'
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Tomatina_2006.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tomatina_2006.jpg/1280px-Tomatina_2006.jpg
   credit: 'Photo: Graham McLellan from London, UK / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Tomatina_2006.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Tomatina_2006.jpg
   focus:
     x: 50
     'y': 45
@@ -21,47 +19,26 @@ gallery: []
 tags:
   - buñol
   - event
-quickAnswer: >-
-  La Tomatina takes place on the last Wednesday of August (announced as August
-  26, 2026) in the small town of Buñol, about 40km west of Valencia. Tickets are
-  required, capped in number, and sell out via the official website — buy in
-  advance, arrive early, and confirm exact start time, entry points, and price
-  on the official La Tomatina site before you travel. The fight itself lasts
-  about an hour, but the town's build-up events run for a full week.
+quickAnswer: La Tomatina takes place on the last Wednesday of August (announced as August 26, 2026) in the small town of Buñol, about 40km west of Valencia. Tickets are required, capped in number, and sell out via the official website — buy in advance, arrive early, and confirm exact start time, entry points, and price on the official La Tomatina site before you travel. The fight itself lasts about an hour, but the town's build-up events run for a full week.
 faq:
   - q: What is the exact date of La Tomatina 2026?
-    a: >-
-      It's announced for August 26, 2026, the last Wednesday of August as per
-      tradition — confirm the final date on the official La Tomatina website
-      closer to summer, as fiesta schedules can shift slightly.
-  - q: 'Do I need a ticket, and how much does it cost?'
-    a: >-
-      Yes, entry to the tomato-fight zone is capped and ticketed; tickets sell
-      out in advance most years. Check the official site for current pricing and
-      packages rather than relying on resellers.
+    a: It's announced for August 26, 2026, the last Wednesday of August as per tradition — confirm the final date on the official La Tomatina website closer to summer, as fiesta schedules can shift slightly.
+  - q: Do I need a ticket, and how much does it cost?
+    a: Yes, entry to the tomato-fight zone is capped and ticketed; tickets sell out in advance most years. Check the official site for current pricing and packages rather than relying on resellers.
   - q: How do I get from Valencia to Buñol?
-    a: >-
-      Take a regional train from Valencia's Estación del Norte to Buñol, roughly
-      50-60 minutes; organized bus transfers bundled with tickets are also
-      common on festival day.
+    a: Take a regional train from Valencia's Estación del Norte to Buñol, roughly 50-60 minutes; organized bus transfers bundled with tickets are also common on festival day.
   - q: How long does the tomato fight actually last?
-    a: >-
-      The main food fight lasts about an hour, signaled by climbing a greased
-      pole to release a ham at the top; the surrounding fiesta week includes
-      several more days of music, parades, and food.
+    a: The main food fight lasts about an hour, signaled by climbing a greased pole to release a ham at the top; the surrounding fiesta week includes several more days of music, parades, and food.
   - q: What should I bring or wear?
-    a: >-
-      Wear old clothes and closed shoes you're willing to discard, consider swim
-      goggles for eye protection, and pack a sealed bag for your phone — nothing
-      unprotected survives the tomato pulp.
+    a: Wear old clothes and closed shoes you're willing to discard, consider swim goggles for eye protection, and pack a sealed bag for your phone — nothing unprotected survives the tomato pulp.
 aiGenerated: true
 draft: false
 eventRecurring: true
 eventOrganizer:
   name: Ayuntamiento de Buñol (Buñol Town Hall / City Council)
-  url: 'https://www.bunyol.es/'
+  url: https://www.bunyol.es/
 eventOffers:
-  url: 'https://latomatina.info/'
+  url: https://latomatina.info/
 eventFactsAsked: true
 ---
 ## Why go

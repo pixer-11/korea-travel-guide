@@ -1,41 +1,41 @@
 ---
-title: "Mevlana Museum: Konya Travel Guide (4.7★)"
-description: "The Mevlana Museum, the mausoleum and dervish lodge of Rumi, opens daily from 9am to 6:30pm. 4.7★ (75,105 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Konya"
-category: "attraction"
-pubDate: "2026-08-11T09:04:26.323Z"
+title: 'Mevlana Museum: Konya Travel Guide (4.7★)'
+description: The Mevlana Museum, the mausoleum and dervish lodge of Rumi, opens daily from 9am to 6:30pm. 4.7★ (75,105 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Konya
+category: attraction
+pubDate: '2026-08-11T09:04:26.323Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg/1920px-Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg"
-  credit: "Photo: Emad Nemati / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg/1920px-Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg
+  credit: 'Photo: Emad Nemati / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/20/Mevlana_Museum%2C_Konya_07.jpg"
-    credit: "Photo: Murat Özsoy 1958 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mevlana_Museum,_Konya_07.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mevlana_Museum%2C_Konya_07.jpg/1920px-Mevlana_Museum%2C_Konya_07.jpg
+    credit: 'Photo: Murat Özsoy 1958 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Mevlana_Museum,_Konya_07.jpg
 place:
-  id: "ChIJo7nXQRCF0BQREJS6hYaxO4Q"
-  name: "Mevlana Museum"
-  address: "Aziziye, Mevlana Cd. No:1, 42030 Karatay/Konya, Türkiye"
+  id: ChIJo7nXQRCF0BQREJS6hYaxO4Q
+  name: Mevlana Museum
+  address: Aziziye, Mevlana Cd. No:1, 42030 Karatay/Konya, Türkiye
   rating: 4.7
   userRatingsTotal: 75105
-  googleMapsUrl: "https://maps.google.com/?cid=9528404627959747600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9528404627959747600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.8707281
   lng: 32.504999
-  phone: "+90 332 351 12 15"
+  phone: +90 332 351 12 15
   openingHours:
-    - "Monday: 9:00 AM – 6:30 PM"
-    - "Tuesday: 9:00 AM – 6:30 PM"
-    - "Wednesday: 9:00 AM – 6:30 PM"
-    - "Thursday: 9:00 AM – 6:30 PM"
-    - "Friday: 9:00 AM – 6:30 PM"
-    - "Saturday: 9:00 AM – 6:30 PM"
-    - "Sunday: 9:00 AM – 6:30 PM"
+    - 'Monday: 9:00 AM – 6:30 PM'
+    - 'Tuesday: 9:00 AM – 6:30 PM'
+    - 'Wednesday: 9:00 AM – 6:30 PM'
+    - 'Thursday: 9:00 AM – 6:30 PM'
+    - 'Friday: 9:00 AM – 6:30 PM'
+    - 'Saturday: 9:00 AM – 6:30 PM'
+    - 'Sunday: 9:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-08-11
+    updated: 2026-08-11T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,22 +49,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_51344f7861596836534a455251423046435251586e376f4a496843"
+    venueId: ven_51344f7861596836534a455251423046435251586e376f4a496843
 tags:
-  - "konya"
-  - "top attraction"
-quickAnswer: "The Mevlana Museum, the mausoleum and dervish lodge of Rumi, opens daily from 9am to 6:30pm. Go right at opening or after 5pm to beat the crowds — weekends between 12pm and 5pm are the busiest stretch. Budget 45–90 minutes, dress modestly, and combine it with the nearby Selimiye Mosque."
+  - konya
+  - top attraction
+quickAnswer: The Mevlana Museum, the mausoleum and dervish lodge of Rumi, opens daily from 9am to 6:30pm. Go right at opening or after 5pm to beat the crowds — weekends between 12pm and 5pm are the busiest stretch. Budget 45–90 minutes, dress modestly, and combine it with the nearby Selimiye Mosque.
 faq:
-  - q: "What are the opening hours?"
-    a: "The Mevlana Museum is open daily from 9:00 AM to 6:30 PM, with no weekly closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening, 9am, is calmest on both weekdays and weekends. Try to avoid weekends between 12pm and 5pm, when it's busiest."
-  - q: "How long should I plan for the visit?"
-    a: "Most visitors spend 45 to 90 minutes, enough to see the mausoleum and the artifact galleries without rushing."
-  - q: "How do I get there?"
-    a: "Take the tram to the Mevlana stop on Mevlana Caddesi in Karatay district; the entrance is a two-minute walk from there."
-  - q: "Is there a dress code?"
-    a: "Yes — cover shoulders and knees, and remove your shoes before entering the mausoleum hall. It's a working shrine as well as a museum."
+  - q: What are the opening hours?
+    a: The Mevlana Museum is open daily from 9:00 AM to 6:30 PM, with no weekly closing day.
+  - q: When is the quietest time to visit?
+    a: Right at opening, 9am, is calmest on both weekdays and weekends. Try to avoid weekends between 12pm and 5pm, when it's busiest.
+  - q: How long should I plan for the visit?
+    a: Most visitors spend 45 to 90 minutes, enough to see the mausoleum and the artifact galleries without rushing.
+  - q: How do I get there?
+    a: Take the tram to the Mevlana stop on Mevlana Caddesi in Karatay district; the entrance is a two-minute walk from there.
+  - q: Is there a dress code?
+    a: Yes — cover shoulders and knees, and remove your shoes before entering the mausoleum hall. It's a working shrine as well as a museum.
 aiGenerated: true
 draft: false
 ---

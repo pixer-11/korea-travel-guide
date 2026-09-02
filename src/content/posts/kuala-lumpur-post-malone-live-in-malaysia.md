@@ -1,9 +1,6 @@
 ---
 title: 'Post Malone Live in Malaysia: What to Know (Kuala Lumpur)'
-description: >-
-  Post Malone plays his debut Malaysia show on September 27, 2026, at TM
-  National Stadium (Stadium Nasional Bukit Jalil) in Kuala Lumpur, as part of
-  his world tour.
+description: Post Malone plays his debut Malaysia show on September 27, 2026, at TM National Stadium (Stadium Nasional Bukit Jalil) in Kuala Lumpur, as part of his world tour.
 country: Malaysia
 region: Kuala Lumpur
 category: event
@@ -13,58 +10,35 @@ eventEndDate: '2026-09-27'
 tags:
   - kuala lumpur
   - event
-quickAnswer: >-
-  Post Malone plays his debut Malaysia show on September 27, 2026, at TM
-  National Stadium (Stadium Nasional Bukit Jalil) in Kuala Lumpur, as part of
-  his world tour. Tickets, gate times, and support acts have not been detailed
-  in official facts here, so confirm everything through the promoter's official
-  channels before booking flights or hotels. Book accommodation near Bukit Jalil
-  or along the LRT lines early, since stadium shows in KL routinely sell out
-  transit and nearby hotels.
+quickAnswer: Post Malone plays his debut Malaysia show on September 27, 2026, at TM National Stadium (Stadium Nasional Bukit Jalil) in Kuala Lumpur, as part of his world tour. Tickets, gate times, and support acts have not been detailed in official facts here, so confirm everything through the promoter's official channels before booking flights or hotels. Book accommodation near Bukit Jalil or along the LRT lines early, since stadium shows in KL routinely sell out transit and nearby hotels.
 faq:
   - q: Where exactly is the concert?
-    a: >-
-      TM National Stadium (Stadium Nasional Bukit Jalil), inside the Bukit Jalil
-      National Sports Complex in southern Kuala Lumpur.
+    a: TM National Stadium (Stadium Nasional Bukit Jalil), inside the Bukit Jalil National Sports Complex in southern Kuala Lumpur.
   - q: What's the best way to get to the venue?
-    a: >-
-      Take the LRT Kelana Jaya Line to Bukit Jalil station, about a 10–15 minute
-      walk to the stadium. It's far more reliable than driving or ride-hailing
-      given typical concert-night traffic.
+    a: Take the LRT Kelana Jaya Line to Bukit Jalil station, about a 10–15 minute walk to the stadium. It's far more reliable than driving or ride-hailing given typical concert-night traffic.
   - q: How much are tickets and when do they go on sale?
-    a: >-
-      Official pricing and sale dates were not confirmed at the time of writing.
-      Check the official ticketing partner and Post Malone's tour page directly
-      rather than trusting resellers or unofficial listings.
-  - q: 'Is September 27, 2026 definitely the final date?'
-    a: >-
-      That's the currently announced date, but tour schedules can change.
-      Confirm the date, gate times, and any lineup changes on official channels
-      before booking flights or hotels.
+    a: Official pricing and sale dates were not confirmed at the time of writing. Check the official ticketing partner and Post Malone's tour page directly rather than trusting resellers or unofficial listings.
+  - q: Is September 27, 2026 definitely the final date?
+    a: That's the currently announced date, but tour schedules can change. Confirm the date, gate times, and any lineup changes on official channels before booking flights or hotels.
   - q: Should I book a hotel near the stadium or in central KL?
-    a: >-
-      Either works with the Kelana Jaya Line connecting them, but staying near
-      Bukit Jalil itself minimizes post-show transit congestion, while central
-      KL (Bukit Bintang, KLCC) offers more to do before and after the show.
+    a: Either works with the Kelana Jaya Line connecting them, but staying near Bukit Jalil itself minimizes post-show transit congestion, while central KL (Bukit Bintang, KLCC) offers more to do before and after the show.
 aiGenerated: true
 draft: false
 eventRecurring: false
 photoless: true
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/3/3a/Post_Malone_July_2021.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/1920px-Post_Malone_July_2021.jpg
   credit: 'Photo: Chrisallmeid / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021.jpg
   focus:
     x: 45
     'y': 35
 eventOrganizer:
   name: Live Nation Malaysia
-  url: 'https://www.livenation.my'
+  url: https://www.livenation.my
 eventOffers:
-  url: >-
-    https://www.livenation.my/event/post-malone-presents-the-big-stadium-world-tour-kuala-lumpur-tickets-edp1664612
+  url: https://www.livenation.my/event/post-malone-presents-the-big-stadium-world-tour-kuala-lumpur-tickets-edp1664612
 eventPerformer:
   name: Post Malone
   kind: person

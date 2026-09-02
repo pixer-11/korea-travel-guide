@@ -1,53 +1,53 @@
 ---
-title: "Hong Kong Heritage Museum: Jordan Travel Guide (4.3★)"
-description: "The Hong Kong Heritage Museum sits in Sha Tin, New Territories — not actually in Jordan district, despite what some travel listings say — and it's one of the territory's largest, most-visited museums. 4.3★ (7,824 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Jordan"
-category: "attraction"
-pubDate: "2026-08-25T08:15:22.961Z"
+title: 'Hong Kong Heritage Museum: Jordan Travel Guide (4.3★)'
+description: The Hong Kong Heritage Museum sits in Sha Tin, New Territories — not actually in Jordan district, despite what some travel listings say — and it's one of the territory's largest, most-visited museums. 4.3★ (7,824 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Jordan
+category: attraction
+pubDate: '2026-08-25T08:15:22.961Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hong_Kong_Heritage_Museum_201305.jpg"
-  credit: "Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Heritage_Museum_201305.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hong_Kong_Heritage_Museum_201305.jpg/1280px-Hong_Kong_Heritage_Museum_201305.jpg
+  credit: 'Photo: Wing1990hk / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Heritage_Museum_201305.jpg
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJzXjRY6kHBDQRGOILZN_aSWU"
-  name: "Hong Kong Heritage Museum"
-  address: "1 Man Lam Rd, Sha Tin, New Territories, Hong Kong"
+  id: ChIJzXjRY6kHBDQRGOILZN_aSWU
+  name: Hong Kong Heritage Museum
+  address: 1 Man Lam Rd, Sha Tin, New Territories, Hong Kong
   rating: 4.3
   userRatingsTotal: 7824
-  googleMapsUrl: "https://maps.google.com/?cid=7298605324121661976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7298605324121661976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.3766464
   lng: 114.1856267
-  phone: "+852 2180 8188"
+  phone: +852 2180 8188
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
-  - "jordan"
-  - "museum"
-quickAnswer: "The Hong Kong Heritage Museum sits in Sha Tin, New Territories — not actually in Jordan district, despite what some travel listings say — and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries."
+  - jordan
+  - museum
+quickAnswer: The Hong Kong Heritage Museum sits in Sha Tin, New Territories — not actually in Jordan district, despite what some travel listings say — and it's one of the territory's largest, most-visited museums. Best time to go is a weekday morning right at 10am opening, since it draws big weekend crowds and closes all day Tuesday. Budget two to three hours to properly cover the Bruce Lee gallery, Cantonese opera hall, and design galleries.
 faq:
-  - q: "Is the Hong Kong Heritage Museum actually in Jordan?"
-    a: "No — despite some listings, it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via Che Kung Temple Station on the East Rail Line."
-  - q: "What are the opening hours?"
-    a: "10am-6pm Wednesday to Friday, 10am-7pm on weekends, and 10am-6pm on Monday. It's closed all day Tuesday."
-  - q: "How long should I spend there?"
-    a: "Plan on two to three hours to see the Bruce Lee exhibition, Cantonese Opera Heritage Hall, and New Territories galleries properly."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings right at the 10am opening are calmest. It's a very popular museum, so weekend afternoons and school-holiday periods get busy fast."
-  - q: "What's nearby if I want to combine the visit with something else?"
-    a: "New Town Plaza shopping mall and the Shing Mun River promenade are both a short walk from the museum, near Sha Tin Station."
+  - q: Is the Hong Kong Heritage Museum actually in Jordan?
+    a: No — despite some listings, it's in Sha Tin, New Territories, about 30-40 minutes from Jordan via Che Kung Temple Station on the East Rail Line.
+  - q: What are the opening hours?
+    a: 10am-6pm Wednesday to Friday, 10am-7pm on weekends, and 10am-6pm on Monday. It's closed all day Tuesday.
+  - q: How long should I spend there?
+    a: Plan on two to three hours to see the Bruce Lee exhibition, Cantonese Opera Heritage Hall, and New Territories galleries properly.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings right at the 10am opening are calmest. It's a very popular museum, so weekend afternoons and school-holiday periods get busy fast.
+  - q: What's nearby if I want to combine the visit with something else?
+    a: New Town Plaza shopping mall and the Shing Mun River promenade are both a short walk from the museum, near Sha Tin Station.
 aiGenerated: true
 draft: false
 ---

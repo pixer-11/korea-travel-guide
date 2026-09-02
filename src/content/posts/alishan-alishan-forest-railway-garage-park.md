@@ -1,44 +1,44 @@
 ---
-title: "Alishan Forest Railway Garage Park: Travel Guide (4.3★)"
-description: "This is the historic rail yard beside Chiayi Station (East District), not the mountain resort of Alishan itself — a green, walkable park of retired steam and diesel locomotives, freight cars and old repair sheds. 4.3★ (8,630 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Alishan"
-category: "attraction"
-pubDate: "2026-08-22T08:03:11.272Z"
+title: 'Alishan Forest Railway Garage Park: Travel Guide (4.3★)'
+description: This is the historic rail yard beside Chiayi Station (East District), not the mountain resort of Alishan itself — a green, walkable park of retired steam and diesel locomotives, freight cars and old repair sheds. 4.3★ (8,630 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Alishan
+category: attraction
+pubDate: '2026-08-22T08:03:11.272Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/64/Alishan_Forest_Railway_Garage_Park_20160730.jpg"
-  credit: "Photo: 江東翰 / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway_Garage_Park_20160730.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alishan_Forest_Railway_Garage_Park_20160730.jpg/1920px-Alishan_Forest_Railway_Garage_Park_20160730.jpg
+  credit: 'Photo: 江東翰 / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway_Garage_Park_20160730.jpg
   focus:
     x: 75
-    y: 65
+    'y': 65
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turntable_at_Alishan_Forest_Railway_Garage_Park.jpg/3840px-Turntable_at_Alishan_Forest_Railway_Garage_Park.jpg"
-    credit: "Photo: ddio / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Turntable_at_Alishan_Forest_Railway_Garage_Park.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turntable_at_Alishan_Forest_Railway_Garage_Park.jpg/3840px-Turntable_at_Alishan_Forest_Railway_Garage_Park.jpg
+    credit: 'Photo: ddio / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Turntable_at_Alishan_Forest_Railway_Garage_Park.jpg
 place:
-  id: "ChIJxQNAhDKUbjQR0rls6oi0wfA"
-  name: "Alishan Forest Railway Garage Park"
-  address: "No. 2號, Linsen W Rd, Beimen Village, East District, Chiayi City, Taiwan 600"
+  id: ChIJxQNAhDKUbjQR0rls6oi0wfA
+  name: Alishan Forest Railway Garage Park
+  address: No. 2號, Linsen W Rd, Beimen Village, East District, Chiayi City, Taiwan 600
   rating: 4.3
   userRatingsTotal: 8630
-  googleMapsUrl: "https://maps.google.com/?cid=17348345739749407186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17348345739749407186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.4863428
   lng: 120.45126079999999
-  phone: "+886 5 277 9843"
+  phone: +886 5 277 9843
   openingHours:
-    - "Monday: 8:00 AM – 6:00 PM"
-    - "Tuesday: 8:00 AM – 6:00 PM"
-    - "Wednesday: 8:00 AM – 6:00 PM"
-    - "Thursday: 8:00 AM – 6:00 PM"
-    - "Friday: 8:00 AM – 6:00 PM"
-    - "Saturday: 8:00 AM – 6:00 PM"
-    - "Sunday: 8:00 AM – 6:00 PM"
+    - 'Monday: 8:00 AM – 6:00 PM'
+    - 'Tuesday: 8:00 AM – 6:00 PM'
+    - 'Wednesday: 8:00 AM – 6:00 PM'
+    - 'Thursday: 8:00 AM – 6:00 PM'
+    - 'Friday: 8:00 AM – 6:00 PM'
+    - 'Saturday: 8:00 AM – 6:00 PM'
+    - 'Sunday: 8:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -51,22 +51,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_41667730696f36736c723052516a62554b4468414e51784a496843"
+    venueId: ven_41667730696f36736c723052516a62554b4468414e51784a496843
 tags:
-  - "alishan"
-  - "park"
-quickAnswer: "This is the historic rail yard beside Chiayi Station (East District), not the mountain resort of Alishan itself — a green, walkable park of retired steam and diesel locomotives, freight cars and old repair sheds. It's open daily 8am–6pm and free to wander through. Arrive right at 8am, before the 11am–6pm weekend crush, to have the tracks nearly to yourself."
+  - alishan
+  - park
+quickAnswer: This is the historic rail yard beside Chiayi Station (East District), not the mountain resort of Alishan itself — a green, walkable park of retired steam and diesel locomotives, freight cars and old repair sheds. It's open daily 8am–6pm and free to wander through. Arrive right at 8am, before the 11am–6pm weekend crush, to have the tracks nearly to yourself.
 faq:
-  - q: "Is this the same as visiting Alishan mountain?"
-    a: "No. The Garage Park is in Chiayi City, next to Chiayi Station — the historic base of the Alishan Forest Railway. The mountain scenery and forest recreation area are a separate trip further up the line."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 8:00 AM to 6:00 PM, with no listed closing day."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 9am, right at opening. Weekends get busy from 11am onward, so aim to arrive early."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 45 minutes to an hour, longer if you want to read the exhibit boards and photograph each locomotive in detail."
-  - q: "Is there an entrance fee?"
-    a: "The park is generally free and unticketed to walk through, though it's worth confirming current admission policy before you go since these details can change."
+  - q: Is this the same as visiting Alishan mountain?
+    a: No. The Garage Park is in Chiayi City, next to Chiayi Station — the historic base of the Alishan Forest Railway. The mountain scenery and forest recreation area are a separate trip further up the line.
+  - q: What are the opening hours?
+    a: It's open daily from 8:00 AM to 6:00 PM, with no listed closing day.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest between 8am and 9am, right at opening. Weekends get busy from 11am onward, so aim to arrive early.
+  - q: How long should I spend there?
+    a: Most visitors need 45 minutes to an hour, longer if you want to read the exhibit boards and photograph each locomotive in detail.
+  - q: Is there an entrance fee?
+    a: The park is generally free and unticketed to walk through, though it's worth confirming current admission policy before you go since these details can change.
 aiGenerated: true
 draft: false
 ---

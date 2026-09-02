@@ -1,45 +1,45 @@
 ---
-title: "Brunch Club: Where to Eat in Hong Kong (4.1★)"
-description: "Brunch Club is a laid-back all-day café on Peel Street in Central, best known for eggs Benedict, avocado toast and strong coffee in a compact, plant-filled room. 4.1★ (462 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Hong Kong"
-category: "restaurant"
-pubDate: "2026-08-22T07:54:25.044Z"
+title: 'Brunch Club: Where to Eat in Hong Kong (4.1★)'
+description: Brunch Club is a laid-back all-day café on Peel Street in Central, best known for eggs Benedict, avocado toast and strong coffee in a compact, plant-filled room. 4.1★ (462 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Hong Kong
+category: restaurant
+pubDate: '2026-08-22T07:54:25.044Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/de/HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg"
-  credit: "Photo: Eplsoim / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg/1920px-HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg
+  credit: 'Photo: Eplsoim / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:HK_Central_%E4%B8%AD%E7%92%B0_%E5%8D%91%E5%88%A9%E8%A1%97_70_Peel_Street_Brunch_Club_cafe_Nov-2010.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/4714840_VIbfs8UmJdlK3xEEnM8QDInq-hvrHbz_LNgFlsFszwg.jpg"
-    credit: "Photo: Foursquare user content (Brunch Club)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b0e5623f964a520e65623e3"
+  - url: https://fastly.4sqi.net/img/general/original/4714840_VIbfs8UmJdlK3xEEnM8QDInq-hvrHbz_LNgFlsFszwg.jpg
+    credit: 'Photo: Foursquare user content (Brunch Club)'
+    license: foursquare
+    source: https://foursquare.com/v/4b0e5623f964a520e65623e3
 place:
-  id: "ChIJswSIunsABDQRYqrvisyI7sQ"
-  name: "Brunch Club"
-  address: "70 Peel Street, 70 Peel St, Central, Hong Kong Island, Hong Kong"
+  id: ChIJswSIunsABDQRYqrvisyI7sQ
+  name: Brunch Club
+  address: 70 Peel Street, 70 Peel St, Central, Hong Kong Island, Hong Kong
   rating: 4.1
   userRatingsTotal: 462
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=14190429887976680034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=14190429887976680034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.281816
   lng: 114.15192599999999
-  phone: "+852 2526 8861"
+  phone: +852 2526 8861
   openingHours:
-    - "Monday: 8:30 AM – 9:00 PM"
-    - "Tuesday: 8:30 AM – 9:00 PM"
-    - "Wednesday: 8:30 AM – 9:00 PM"
-    - "Thursday: 8:30 AM – 9:00 PM"
-    - "Friday: 8:30 AM – 9:00 PM"
-    - "Saturday: 8:00 AM – 9:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:30 AM – 9:00 PM'
+    - 'Tuesday: 8:30 AM – 9:00 PM'
+    - 'Wednesday: 8:30 AM – 9:00 PM'
+    - 'Thursday: 8:30 AM – 9:00 PM'
+    - 'Friday: 8:30 AM – 9:00 PM'
+    - 'Saturday: 8:00 AM – 9:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-22
+    updated: 2026-08-22T00:00:00.000Z
     weekdayQuiet:
       - 17
       - 18
@@ -61,22 +61,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_51733749797369767271595251444241736e75495377734a496843"
+    venueId: ven_51733749797369767271595251444241736e75495377734a496843
 tags:
-  - "hong kong"
-  - "breakfast"
-quickAnswer: "Brunch Club is a laid-back all-day café on Peel Street in Central, best known for eggs Benedict, avocado toast and strong coffee in a compact, plant-filled room. It's busiest on weekends from 10am to 4pm, so aim for a weekday morning or an evening sitting (5pm–9pm) if you want a table without waiting. Note Sunday hours run only until 5pm."
+  - hong kong
+  - breakfast
+quickAnswer: Brunch Club is a laid-back all-day café on Peel Street in Central, best known for eggs Benedict, avocado toast and strong coffee in a compact, plant-filled room. It's busiest on weekends from 10am to 4pm, so aim for a weekday morning or an evening sitting (5pm–9pm) if you want a table without waiting. Note Sunday hours run only until 5pm.
 faq:
-  - q: "What time should I go to avoid a wait?"
-    a: "Aim for 5pm–9pm any day — that's the quietest window on both weekdays and weekends. Weekend mornings from 10am to 4pm are the busiest and worth avoiding if you dislike queuing."
-  - q: "How do I get to Brunch Club without a car?"
-    a: "Take the MTR to Central Station, then walk roughly 10–15 minutes uphill through SoHo, or ride the Central–Mid-Levels Escalator partway and walk the rest. Taxis are also easy given the steep streets."
-  - q: "Is Brunch Club open on Sundays?"
-    a: "Yes, but only from 8am to 5pm — shorter than every other day of the week, so don't plan a late Sunday visit."
-  - q: "How much should I expect to pay?"
-    a: "It's mid-range for Central, in line with the neighbourhood's café pricing rather than a budget option or high-end splurge."
-  - q: "What's within walking distance afterward?"
-    a: "PMQ, the Central–Mid-Levels Escalator, and Man Mo Temple are all a short walk away, making it easy to build a half-day SoHo route around the meal."
+  - q: What time should I go to avoid a wait?
+    a: Aim for 5pm–9pm any day — that's the quietest window on both weekdays and weekends. Weekend mornings from 10am to 4pm are the busiest and worth avoiding if you dislike queuing.
+  - q: How do I get to Brunch Club without a car?
+    a: Take the MTR to Central Station, then walk roughly 10–15 minutes uphill through SoHo, or ride the Central–Mid-Levels Escalator partway and walk the rest. Taxis are also easy given the steep streets.
+  - q: Is Brunch Club open on Sundays?
+    a: Yes, but only from 8am to 5pm — shorter than every other day of the week, so don't plan a late Sunday visit.
+  - q: How much should I expect to pay?
+    a: It's mid-range for Central, in line with the neighbourhood's café pricing rather than a budget option or high-end splurge.
+  - q: What's within walking distance afterward?
+    a: PMQ, the Central–Mid-Levels Escalator, and Man Mo Temple are all a short walk away, making it easy to build a half-day SoHo route around the meal.
 aiGenerated: true
 draft: false
 ---

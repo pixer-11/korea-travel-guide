@@ -1,45 +1,45 @@
 ---
-title: "Surabaya North Quay: Travel Guide"
+title: 'Surabaya North Quay: Travel Guide'
 description: Surabaya North Quay (SNQ) is a rooftop deck in the Tanjung Perak port area offering wide-open views of container ships, tankers and cruise liners against the Java Sea skyline.
-country: "Indonesia"
-region: "Surabaya"
-category: "attraction"
-pubDate: "2026-07-23T07:14:41.873Z"
+country: Indonesia
+region: Surabaya
+category: attraction
+pubDate: '2026-07-23T07:14:41.873Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Surabaya_North_Quay_-_Tanjung_Perak_at_Night.jpg"
-  credit: "Photo: consigliere ivan from Bontang, Indonesia / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Surabaya_North_Quay_-_Tanjung_Perak_at_Night.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Surabaya_North_Quay_-_Tanjung_Perak_at_Night.jpg/1280px-Surabaya_North_Quay_-_Tanjung_Perak_at_Night.jpg
+  credit: 'Photo: consigliere ivan from Bontang, Indonesia / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Surabaya_North_Quay_-_Tanjung_Perak_at_Night.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/08_Gedung_Wisata_Surabaya_North_Quay_Pelabuhan_Tanjung_Perak.jpg/1920px-08_Gedung_Wisata_Surabaya_North_Quay_Pelabuhan_Tanjung_Perak.jpg
     credit: 'Photo: id:User:Mujionomaruf / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:08_Gedung_Wisata_Surabaya_North_Quay_Pelabuhan_Tanjung_Perak.jpg
 place:
-  id: "ChIJqU_9mSCPdy4RECfM9M_QwcE"
-  name: "Surabaya North Quay"
-  address: "Jl. Jamrud Utara, Perak Utara, Kec. Pabean Cantian, Surabaya, Jawa Timur 60165, Indonesia"
+  id: ChIJqU_9mSCPdy4RECfM9M_QwcE
+  name: Surabaya North Quay
+  address: Jl. Jamrud Utara, Perak Utara, Kec. Pabean Cantian, Surabaya, Jawa Timur 60165, Indonesia
   rating: 4.4
   userRatingsTotal: 23427
-  googleMapsUrl: "https://maps.google.com/?cid=13961669911409075984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13961669911409075984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.1969273
   lng: 112.7322829
 tags:
-  - "surabaya"
-  - "top attraction"
-quickAnswer: "Surabaya North Quay (SNQ) is a rooftop deck in the Tanjung Perak port area offering wide-open views of container ships, tankers and cruise liners against the Java Sea skyline. Go for sunset on a clear day, allow 1–1.5 hours, and arrive by private car, taxi, or ride-hailing since it sits inside the working port district away from the city's train and bus network. It's a very popular, well-reviewed spot (4.4 stars, 23,000+ reviews), so expect crowds on weekends and holidays."
+  - surabaya
+  - top attraction
+quickAnswer: Surabaya North Quay (SNQ) is a rooftop deck in the Tanjung Perak port area offering wide-open views of container ships, tankers and cruise liners against the Java Sea skyline. Go for sunset on a clear day, allow 1–1.5 hours, and arrive by private car, taxi, or ride-hailing since it sits inside the working port district away from the city's train and bus network. It's a very popular, well-reviewed spot (4.4 stars, 23,000+ reviews), so expect crowds on weekends and holidays.
 faq:
-  - q: "How do I get to Surabaya North Quay without a car?"
-    a: "Public transit doesn't reach the Tanjung Perak port area well, so use Gojek, Grab, or a taxi. It's roughly 20–40 minutes from central Surabaya depending on traffic near the port gates."
-  - q: "How much time should I plan for a visit?"
-    a: "Most visitors spend 1 to 1.5 hours, enough to settle in, order a drink or snack, and watch the ship traffic and sunset rather than just snapping quick photos."
-  - q: "What's the best time of day to visit?"
-    a: "Late afternoon through sunset is most popular for the light and cooler temperatures; mornings are quieter but hazier. Dry season (April–October) gives the clearest skyline views."
-  - q: "Is it crowded?"
-    a: "Yes — it's a very popular attraction with over 23,000 reviews, so weekends and holidays draw large crowds. Weekday late afternoons are a calmer alternative for a good rail-side spot."
-  - q: "What else is nearby?"
-    a: "It pairs well with Surabaya's Old Town sights, including the House of Sampoerna museum and the historic Jembatan Merah bridge, both a short drive south."
+  - q: How do I get to Surabaya North Quay without a car?
+    a: Public transit doesn't reach the Tanjung Perak port area well, so use Gojek, Grab, or a taxi. It's roughly 20–40 minutes from central Surabaya depending on traffic near the port gates.
+  - q: How much time should I plan for a visit?
+    a: Most visitors spend 1 to 1.5 hours, enough to settle in, order a drink or snack, and watch the ship traffic and sunset rather than just snapping quick photos.
+  - q: What's the best time of day to visit?
+    a: Late afternoon through sunset is most popular for the light and cooler temperatures; mornings are quieter but hazier. Dry season (April–October) gives the clearest skyline views.
+  - q: Is it crowded?
+    a: Yes — it's a very popular attraction with over 23,000 reviews, so weekends and holidays draw large crowds. Weekday late afternoons are a calmer alternative for a good rail-side spot.
+  - q: What else is nearby?
+    a: It pairs well with Surabaya's Old Town sights, including the House of Sampoerna museum and the historic Jembatan Merah bridge, both a short drive south.
 aiGenerated: true
 draft: false
 ---

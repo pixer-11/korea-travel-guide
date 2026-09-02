@@ -1,32 +1,32 @@
 ---
-title: "Stanley Market: Travel Guide (4.0★)"
-description: "Stanley Market is a warren of narrow covered lanes on Hong Kong's south side, packed with stalls selling clothing, silk, souvenirs and knock-off designer goods. 4.0★ (8,698 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "Stanley"
-category: "hidden-gem"
-pubDate: "2026-08-12T17:29:15.357Z"
+title: 'Stanley Market: Travel Guide (4.0★)'
+description: Stanley Market is a warren of narrow covered lanes on Hong Kong's south side, packed with stalls selling clothing, silk, souvenirs and knock-off designer goods. 4.0★ (8,698 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: Stanley
+category: hidden-gem
+pubDate: '2026-08-12T17:29:15.357Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stanley_Market_View1_201007.jpg/1920px-Stanley_Market_View1_201007.jpg"
-  credit: "Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Stanley_Market_View1_201007.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stanley_Market_View1_201007.jpg/1920px-Stanley_Market_View1_201007.jpg
+  credit: 'Photo: WiNG / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Stanley_Market_View1_201007.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Stanley_Market_in_Stanley_%281350138857%29.jpg"
-    credit: "Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Stanley_Market_in_Stanley_(1350138857).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stanley_Market_in_Stanley_%281350138857%29.jpg/1920px-Stanley_Market_in_Stanley_%281350138857%29.jpg
+    credit: 'Photo: edwin.11 / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Stanley_Market_in_Stanley_(1350138857).jpg
 place:
-  id: "ChIJySEHiGyqBjQRVcZqqpxEP_k"
-  name: "Stanley Market"
-  address: "Stanley New St, Stanley, Hong Kong"
+  id: ChIJySEHiGyqBjQRVcZqqpxEP_k
+  name: Stanley Market
+  address: Stanley New St, Stanley, Hong Kong
   rating: 4
   userRatingsTotal: 8698
-  googleMapsUrl: "https://maps.google.com/?cid=17960149278641538645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17960149278641538645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2181259
   lng: 114.21262499999999
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 18
@@ -40,22 +40,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6b5f5045787071715a635652516a4271794769484553794a496843"
+    venueId: ven_6b5f5045787071715a635652516a4271794769484553794a496843
 tags:
-  - "stanley"
-  - "hidden gem"
-quickAnswer: "Stanley Market is a warren of narrow covered lanes on Hong Kong's south side, packed with stalls selling clothing, silk, souvenirs and knock-off designer goods. It's calmest in the 10am–8pm window on both weekdays and weekends — just avoid the weekend crush between 12pm and 5pm. Give it an hour or two, then wander down to Stanley's waterfront for the real payoff."
+  - stanley
+  - hidden gem
+quickAnswer: Stanley Market is a warren of narrow covered lanes on Hong Kong's south side, packed with stalls selling clothing, silk, souvenirs and knock-off designer goods. It's calmest in the 10am–8pm window on both weekdays and weekends — just avoid the weekend crush between 12pm and 5pm. Give it an hour or two, then wander down to Stanley's waterfront for the real payoff.
 faq:
-  - q: "How do I get to Stanley Market from Central?"
-    a: "Take bus 6, 6X, 6A or 260 from the Exchange Square bus terminus in Central — the ride takes about 25–30 minutes and drops you right near Stanley New Street."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends stay calm from 10am to 8pm. Just avoid weekends between 12pm and 5pm, when tour groups and day-trippers pack the lanes."
-  - q: "How long should I spend at the market?"
-    a: "An hour is enough for a browse; give it two if you plan to bargain properly. Pair it with a walk to the waterfront and Murray House afterward."
-  - q: "Should I bargain, and how much?"
-    a: "Yes — haggling is standard practice. Start around half the asking price and negotiate toward the middle; vendors expect it."
-  - q: "What's nearby worth visiting after the market?"
-    a: "Stanley's waterfront promenade, the relocated colonial-era Murray House with its harbour-view restaurants, and the seaside Tin Hau Temple are all a short walk away."
+  - q: How do I get to Stanley Market from Central?
+    a: Take bus 6, 6X, 6A or 260 from the Exchange Square bus terminus in Central — the ride takes about 25–30 minutes and drops you right near Stanley New Street.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends stay calm from 10am to 8pm. Just avoid weekends between 12pm and 5pm, when tour groups and day-trippers pack the lanes.
+  - q: How long should I spend at the market?
+    a: An hour is enough for a browse; give it two if you plan to bargain properly. Pair it with a walk to the waterfront and Murray House afterward.
+  - q: Should I bargain, and how much?
+    a: Yes — haggling is standard practice. Start around half the asking price and negotiate toward the middle; vendors expect it.
+  - q: What's nearby worth visiting after the market?
+    a: Stanley's waterfront promenade, the relocated colonial-era Murray House with its harbour-view restaurants, and the seaside Tin Hau Temple are all a short walk away.
 aiGenerated: true
 draft: false
 ---

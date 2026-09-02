@@ -1,53 +1,53 @@
 ---
-title: "Kinabalu Park Headquarters: Kota Kinabalu Travel Guide"
-description: "Kinabalu Park Headquarters sits at 1,563m elevation, about a 2-hour drive from Kota Kinabalu, and is open daily 7am–5pm. 4.4★ (3,516 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kota Kinabalu"
-category: "attraction"
-pubDate: "2026-08-20T08:18:07.213Z"
+title: 'Kinabalu Park Headquarters: Kota Kinabalu Travel Guide'
+description: Kinabalu Park Headquarters sits at 1,563m elevation, about a 2-hour drive from Kota Kinabalu, and is open daily 7am–5pm. 4.4★ (3,516 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kota Kinabalu
+category: attraction
+pubDate: '2026-08-20T08:18:07.213Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mount_Kinabalu_from_Kinabalu_Park_Headquarters_%2813890768344%29.jpg"
-  credit: "Photo: Mike Prince from Bangalore, India / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mount_Kinabalu_from_Kinabalu_Park_Headquarters_(13890768344).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mount_Kinabalu_from_Kinabalu_Park_Headquarters_%2813890768344%29.jpg/1920px-Mount_Kinabalu_from_Kinabalu_Park_Headquarters_%2813890768344%29.jpg
+  credit: 'Photo: Mike Prince from Bangalore, India / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Mount_Kinabalu_from_Kinabalu_Park_Headquarters_(13890768344).jpg
   focus:
     x: 50
-    y: 75
+    'y': 75
 gallery: []
 place:
-  id: "ChIJU1xk7-GYOzIRL-kZzHTAFwY"
-  name: "Kinabalu Park Headquarters"
-  address: "Kinabalu GeoPark, Mt, Kinabalu Park, 89300 Ranau, Sabah, Malaysia"
+  id: ChIJU1xk7-GYOzIRL-kZzHTAFwY
+  name: Kinabalu Park Headquarters
+  address: Kinabalu GeoPark, Mt, Kinabalu Park, 89300 Ranau, Sabah, Malaysia
   rating: 4.4
   userRatingsTotal: 3516
-  googleMapsUrl: "https://maps.google.com/?cid=439031096564902191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=439031096564902191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 6.0055351
   lng: 116.5422225
-  phone: "+60 88-889 095"
+  phone: +60 88-889 095
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 7:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
 tags:
-  - "kota kinabalu"
-  - "park"
-quickAnswer: "Kinabalu Park Headquarters sits at 1,563m elevation, about a 2-hour drive from Kota Kinabalu, and is open daily 7am–5pm. Most visitors come for the cool air, the botanical trails, and the registration point for Mount Kinabalu summit climbs — plan on 2-4 hours if you're just doing the nature trails, or multiple days if you're climbing. Arrive early, since the mountain often clouds over by mid-morning."
+  - kota kinabalu
+  - park
+quickAnswer: Kinabalu Park Headquarters sits at 1,563m elevation, about a 2-hour drive from Kota Kinabalu, and is open daily 7am–5pm. Most visitors come for the cool air, the botanical trails, and the registration point for Mount Kinabalu summit climbs — plan on 2-4 hours if you're just doing the nature trails, or multiple days if you're climbing. Arrive early, since the mountain often clouds over by mid-morning.
 faq:
-  - q: "How do I get to Kinabalu Park Headquarters from Kota Kinabalu?"
-    a: "It's about a 2-hour drive, roughly 90km along the Ranau road. Private car, shared minivan, or a day-tour operator are the main options; there's no direct rail or public bus stop right at the gate."
-  - q: "How much time should I set aside?"
-    a: "Half a day (3-4 hours) covers the nature trails and Botanical Garden. If you're summiting Mount Kinabalu, plan on 2 days minimum including the mountain guesthouse stay."
-  - q: "Do I need a guide just to visit headquarters?"
-    a: "No — the lower nature trails around headquarters are open to walk independently. A licensed guide is only compulsory if you're climbing toward the summit."
-  - q: "What's the best time of day to visit?"
-    a: "Right at opening, 7am. Cloud typically rolls in by mid-to-late morning and can hide the summit and mist over the trails by afternoon."
-  - q: "Is Kinabalu Park Headquarters open every day?"
-    a: "Yes, it's open daily from 7am to 5pm, with no listed weekly closure — but confirm current hours before a long trip out, since schedules can shift seasonally."
+  - q: How do I get to Kinabalu Park Headquarters from Kota Kinabalu?
+    a: It's about a 2-hour drive, roughly 90km along the Ranau road. Private car, shared minivan, or a day-tour operator are the main options; there's no direct rail or public bus stop right at the gate.
+  - q: How much time should I set aside?
+    a: Half a day (3-4 hours) covers the nature trails and Botanical Garden. If you're summiting Mount Kinabalu, plan on 2 days minimum including the mountain guesthouse stay.
+  - q: Do I need a guide just to visit headquarters?
+    a: No — the lower nature trails around headquarters are open to walk independently. A licensed guide is only compulsory if you're climbing toward the summit.
+  - q: What's the best time of day to visit?
+    a: Right at opening, 7am. Cloud typically rolls in by mid-to-late morning and can hide the summit and mist over the trails by afternoon.
+  - q: Is Kinabalu Park Headquarters open every day?
+    a: Yes, it's open daily from 7am to 5pm, with no listed weekly closure — but confirm current hours before a long trip out, since schedules can shift seasonally.
 aiGenerated: true
 draft: false
 ---

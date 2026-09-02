@@ -1,34 +1,27 @@
 ---
 title: 'Alanya Castle: Travel Guide (4.7★)'
-description: >-
-  Alanya Castle is open daily 8:00 AM–8:30 PM, and with over 32,000 reviews and
-  a 4.7 rating, it's one of the Turkish Riviera's most-visited sights, not a
-  hidden find.
+description: Alanya Castle is open daily 8:00 AM–8:30 PM, and with over 32,000 reviews and a 4.7 rating, it's one of the Turkish Riviera's most-visited sights, not a hidden find.
 country: Turkey
 region: Alanya
 category: hidden-gem
 pubDate: '2026-08-14T09:35:04.162Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alanya_Castle.jpeg/1920px-Alanya_Castle.jpeg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alanya_Castle.jpeg/1920px-Alanya_Castle.jpeg
   credit: 'Photo: Hydrox / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Alanya_Castle.jpeg'
+  source: https://commons.wikimedia.org/wiki/File:Alanya_Castle.jpeg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/9/9b/View_of_the_Sea_from_Alanya_Castle%2C_Alanya%2C_T%C3%BCrkiye.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_of_the_Sea_from_Alanya_Castle%2C_Alanya%2C_T%C3%BCrkiye.jpg/1920px-View_of_the_Sea_from_Alanya_Castle%2C_Alanya%2C_T%C3%BCrkiye.jpg
     credit: 'Photo: Julian Lupyan / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:View_of_the_Sea_from_Alanya_Castle,_Alanya,_T%C3%BCrkiye.jpg
+    source: https://commons.wikimedia.org/wiki/File:View_of_the_Sea_from_Alanya_Castle,_Alanya,_T%C3%BCrkiye.jpg
 place:
   id: ChIJXdDn8KCi3BQROXVcSLcms1s
   name: Alanya Castle
-  address: 'Hisariçi, Kale Cd. No:12, 07400 Alanya/Antalya, Türkiye'
+  address: Hisariçi, Kale Cd. No:12, 07400 Alanya/Antalya, Türkiye
   rating: 4.7
   userRatingsTotal: 32768
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=6607667646917539129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=6607667646917539129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.5332114
   lng: 31.990320200000003
@@ -44,35 +37,18 @@ place:
 tags:
   - alanya
   - hidden gem
-quickAnswer: >-
-  Alanya Castle is open daily 8:00 AM–8:30 PM, and with over 32,000 reviews and
-  a 4.7 rating, it's one of the Turkish Riviera's most-visited sights, not a
-  hidden find. Go right at 8am or in the last two hours before closing to dodge
-  tour buses, and budget at least half a day — the walls stretch nearly 6.5km
-  along the peninsula. Wear real shoes; the cobbled paths inside are steep and
-  uneven.
+quickAnswer: Alanya Castle is open daily 8:00 AM–8:30 PM, and with over 32,000 reviews and a 4.7 rating, it's one of the Turkish Riviera's most-visited sights, not a hidden find. Go right at 8am or in the last two hours before closing to dodge tour buses, and budget at least half a day — the walls stretch nearly 6.5km along the peninsula. Wear real shoes; the cobbled paths inside are steep and uneven.
 faq:
   - q: What are Alanya Castle's opening hours?
-    a: 'It''s open daily from 8:00 AM to 8:30 PM, with no weekly closing day.'
+    a: It's open daily from 8:00 AM to 8:30 PM, with no weekly closing day.
   - q: How long should I spend at Alanya Castle?
-    a: >-
-      Plan on at least half a day — the fortified area is large, with uneven
-      paths connecting the tower, church ruins, and cisterns spread across the
-      peninsula.
+    a: Plan on at least half a day — the fortified area is large, with uneven paths connecting the tower, church ruins, and cisterns spread across the peninsula.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Arrive right at 8am opening or in the last two hours before closing
-      (around 6:30–8:30pm). Midday, roughly 11am to 3pm, is when it's busiest
-      with tour groups.
+    a: Arrive right at 8am opening or in the last two hours before closing (around 6:30–8:30pm). Midday, roughly 11am to 3pm, is when it's busiest with tour groups.
   - q: How do you get up to Alanya Castle?
-    a: >-
-      Take a local dolmuş or municipal bus marked 'Kale' from town, a 15–20
-      minute taxi ride up the switchback road, or combine it with the cable car
-      from the harbor area.
+    a: Take a local dolmuş or municipal bus marked 'Kale' from town, a 15–20 minute taxi ride up the switchback road, or combine it with the cable car from the harbor area.
   - q: What's the must-see part if I don't have much time?
-    a: >-
-      Focus on Kızıl Kule (the red tower), the Ehmedek section for harbor views,
-      and the Byzantine church with its surviving frescoes.
+    a: Focus on Kızıl Kule (the red tower), the Ehmedek section for harbor views, and the Byzantine church with its surviving frescoes.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'

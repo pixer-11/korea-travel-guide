@@ -6,7 +6,7 @@ region: Rishikesh
 category: attraction
 pubDate: '2026-08-11T09:16:01.961Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Close_up_of_Pilgrims_on_Ram_Jhula_bridge%2C_Rishikesh.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Close_up_of_Pilgrims_on_Ram_Jhula_bridge%2C_Rishikesh.jpg/1920px-Close_up_of_Pilgrims_on_Ram_Jhula_bridge%2C_Rishikesh.jpg
   credit: 'Photo: Man / wikimedia (BY)'
   license: openverse-cc
   source: https://commons.wikimedia.org/w/index.php?curid=7551627

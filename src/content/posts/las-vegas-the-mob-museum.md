@@ -6,7 +6,7 @@ region: Las Vegas
 category: attraction
 pubDate: '2026-08-05T11:16:07.763Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Las_Vegas_Mob_Museum_2012.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Las_Vegas_Mob_Museum_2012.jpg/1280px-Las_Vegas_Mob_Museum_2012.jpg
   credit: 'Photo: Wtstoffs / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_2012.jpg

@@ -1,41 +1,41 @@
 ---
-title: "Genting SkyWorlds Theme Park: Genting Highlands Travel Guide"
-description: "Genting SkyWorlds is a Hollywood-themed park atop Genting Highlands, reachable by cable car from Awana Skyway station. 4.2★ (17,028 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Genting Highlands"
-category: "hidden-gem"
-pubDate: "2026-08-12T09:49:02.972Z"
+title: 'Genting SkyWorlds Theme Park: Genting Highlands Travel Guide'
+description: Genting SkyWorlds is a Hollywood-themed park atop Genting Highlands, reachable by cable car from Awana Skyway station. 4.2★ (17,028 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Genting Highlands
+category: hidden-gem
+pubDate: '2026-08-12T09:49:02.972Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/15/Genting_Skyworld_Theme_Park%27s_Main_Entrance.jpg"
-  credit: "Photo: Dulcetia / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Genting_Skyworld_Theme_Park%27s_Main_Entrance.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Genting_Skyworld_Theme_Park%27s_Main_Entrance.jpg/1920px-Genting_Skyworld_Theme_Park%27s_Main_Entrance.jpg
+  credit: 'Photo: Dulcetia / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Genting_Skyworld_Theme_Park%27s_Main_Entrance.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Genting_SkyWorlds_entrance_%28230917%29.jpg/3840px-Genting_SkyWorlds_entrance_%28230917%29.jpg"
-    credit: "Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Genting_SkyWorlds_entrance_(230917).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Genting_SkyWorlds_entrance_%28230917%29.jpg/3840px-Genting_SkyWorlds_entrance_%28230917%29.jpg
+    credit: 'Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Genting_SkyWorlds_entrance_(230917).jpg
 place:
-  id: "ChIJdT5P3AAUzDERy1xSx2I8xB4"
-  name: "Genting SkyWorlds Theme Park"
-  address: "Genting SkyWorlds, Resorts World, Theme Park, Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia"
+  id: ChIJdT5P3AAUzDERy1xSx2I8xB4
+  name: Genting SkyWorlds Theme Park
+  address: Genting SkyWorlds, Resorts World, Theme Park, Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia
   rating: 4.2
   userRatingsTotal: 17028
-  googleMapsUrl: "https://maps.google.com/?cid=2216963311521651915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2216963311521651915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.4220344
   lng: 101.7939474
-  phone: "+60 19-201 6286"
+  phone: +60 19-201 6286
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -50,22 +50,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_34427838493278537831795245447a55414133503554644a496843"
+    venueId: ven_34427838493278537831795245447a55414133503554644a496843
 tags:
-  - "genting highlands"
-  - "hidden gem"
-quickAnswer: "Genting SkyWorlds is a Hollywood-themed park atop Genting Highlands, reachable by cable car from Awana Skyway station. It's open daily except Tuesday, 10am–6pm, and gets slammed 11am–6pm on weekends — arrive right at opening or go on a weekday for shorter lines. Budget a full day (6-7 hours) to cover its six themed zones properly."
+  - genting highlands
+  - hidden gem
+quickAnswer: Genting SkyWorlds is a Hollywood-themed park atop Genting Highlands, reachable by cable car from Awana Skyway station. It's open daily except Tuesday, 10am–6pm, and gets slammed 11am–6pm on weekends — arrive right at opening or go on a weekday for shorter lines. Budget a full day (6-7 hours) to cover its six themed zones properly.
 faq:
-  - q: "How do I get to Genting SkyWorlds from Kuala Lumpur?"
-    a: "Take a bus or drive to the Awana SkyWay cable car station, then ride the gondola up to Genting Highlands (about 15-20 minutes). Direct buses from KL Sentral or Gombak often include the cable car ticket."
-  - q: "What days is the park open?"
-    a: "Daily from 10am to 6pm except Tuesdays, when it's closed. Confirm hours on the official site before visiting since schedules can shift for holidays."
-  - q: "When is it least crowded?"
-    a: "Weekdays are calmer overall. Weekends get heavily crowded from 11am to 6pm, so arrive right at the 10am opening if you're visiting on a Saturday or Sunday."
-  - q: "How much time should I plan for a visit?"
-    a: "A full day, roughly 6-7 hours, is realistic to cover the park's themed zones and major rides without rushing."
-  - q: "Is Genting SkyWorlds good for young kids?"
-    a: "Yes — alongside the bigger coasters, there are family-friendly walkthroughs like the dinosaur jungle zone and gentler rides suited to younger children."
+  - q: How do I get to Genting SkyWorlds from Kuala Lumpur?
+    a: Take a bus or drive to the Awana SkyWay cable car station, then ride the gondola up to Genting Highlands (about 15-20 minutes). Direct buses from KL Sentral or Gombak often include the cable car ticket.
+  - q: What days is the park open?
+    a: Daily from 10am to 6pm except Tuesdays, when it's closed. Confirm hours on the official site before visiting since schedules can shift for holidays.
+  - q: When is it least crowded?
+    a: Weekdays are calmer overall. Weekends get heavily crowded from 11am to 6pm, so arrive right at the 10am opening if you're visiting on a Saturday or Sunday.
+  - q: How much time should I plan for a visit?
+    a: A full day, roughly 6-7 hours, is realistic to cover the park's themed zones and major rides without rushing.
+  - q: Is Genting SkyWorlds good for young kids?
+    a: Yes — alongside the bigger coasters, there are family-friendly walkthroughs like the dinosaur jungle zone and gentler rides suited to younger children.
 aiGenerated: true
 draft: false
 ---

@@ -1,18 +1,18 @@
 ---
-title: "Parc Phœnix: Nice Travel Guide (4.2★)"
+title: 'Parc Phœnix: Nice Travel Guide (4.2★)'
 description: Parc Phœnix is a large botanical garden and free-entry zoo on the western Promenade des Anglais, best known for its huge tropical glasshouse, aviaries, otters and wallabies. 4.2★ (12,807 reviews) — what visitors say, hours, and tips.
 country: France
 region: Nice
 category: attraction
-pubDate: "2026-08-08T08:18:23.435Z"
+pubDate: '2026-08-08T08:18:23.435Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Parc_Phoenix_serre_Nice.jpg
-  credit: "Photo: GLOBI ۞ FUZZI / Wikimedia Commons (CC BY-SA 2.0)"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Parc_Phoenix_serre_Nice.jpg/1280px-Parc_Phoenix_serre_Nice.jpg
+  credit: 'Photo: GLOBI ۞ FUZZI / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Parc_Phoenix_serre_Nice.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
-    credit: "Photo: Cette photo a été prise par André ALLIOT . / Wikimedia Commons (CC0)"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Parc_Ph%C5%93nix_%C3%A0_Nice.JPG/1920px-Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
+    credit: 'Photo: Cette photo a été prise par André ALLIOT . / Wikimedia Commons (CC0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
 place:
@@ -27,13 +27,13 @@ place:
   lng: 7.2192135
   phone: +33 4 92 29 77 00
   openingHours:
-    - "Monday: 9:30 AM – 7:30 PM"
-    - "Tuesday: 9:30 AM – 7:30 PM"
-    - "Wednesday: 9:30 AM – 7:30 PM"
-    - "Thursday: 9:30 AM – 7:30 PM"
-    - "Friday: 9:30 AM – 7:30 PM"
-    - "Saturday: 9:30 AM – 7:30 PM"
-    - "Sunday: 9:30 AM – 7:30 PM"
+    - 'Monday: 9:30 AM – 7:30 PM'
+    - 'Tuesday: 9:30 AM – 7:30 PM'
+    - 'Wednesday: 9:30 AM – 7:30 PM'
+    - 'Thursday: 9:30 AM – 7:30 PM'
+    - 'Friday: 9:30 AM – 7:30 PM'
+    - 'Saturday: 9:30 AM – 7:30 PM'
+    - 'Sunday: 9:30 AM – 7:30 PM'
   busyness:
     updated: 2026-08-08T00:00:00.000Z
     weekdayQuiet:

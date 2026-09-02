@@ -1,39 +1,30 @@
 ---
 title: 'Al Jahili Fort: Al Ain Travel Guide (4.5★)'
-description: >-
-  Al Jahili Fort is open daily 9am–7pm, and the best time to go is soon after
-  opening or in the last hour before sunset, when the light turns the mudbrick
-  walls gold. 4.5★ (2,657 reviews) — what visitors say, hours, and tips.
+description: Al Jahili Fort is open daily 9am–7pm, and the best time to go is soon after opening or in the last hour before sunset, when the light turns the mudbrick walls gold. 4.5★ (2,657 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Al Ain
 category: attraction
 pubDate: '2026-08-20T08:12:19.496Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Entrance_Up_Close.jpg/1920px-Entrance_Up_Close.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Entrance_Up_Close.jpg/1920px-Entrance_Up_Close.jpg
   credit: 'Photo: Ansari M Joshi / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Entrance_Up_Close.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Entrance_Up_Close.jpg
   focus:
     x: 50
     'y': 45
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/5/59/Al_Ain_%28Abu_Dhabi%29-_Fort_Al_Jahili_-_14280899689.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Al_Ain_%28Abu_Dhabi%29-_Fort_Al_Jahili_-_14280899689.jpg/960px-Al_Ain_%28Abu_Dhabi%29-_Fort_Al_Jahili_-_14280899689.jpg
     credit: 'Photo: Dr. Norbert Heidenbluth / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Al_Ain_(Abu_Dhabi)-_Fort_Al_Jahili_-_14280899689.jpg
+    source: https://commons.wikimedia.org/wiki/File:Al_Ain_(Abu_Dhabi)-_Fort_Al_Jahili_-_14280899689.jpg
 place:
   id: ChIJB9S-VDGxij4RaiQObxcbr2s
   name: Al Jahili Fort
-  address: >-
-    6Q82+5XM - Mohammed Bin Khalifa Al Nahyan St - Al Jahili - Hai Al Qalaa -
-    Abu Dhabi - United Arab Emirates
+  address: 6Q82+5XM - Mohammed Bin Khalifa Al Nahyan St - Al Jahili - Hai Al Qalaa - Abu Dhabi - United Arab Emirates
   rating: 4.5
   userRatingsTotal: 2657
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=7759450470444049514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=7759450470444049514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 24.216157199999998
   lng: 55.7527166
@@ -49,33 +40,18 @@ place:
 tags:
   - al ain
   - historic site
-quickAnswer: >-
-  Al Jahili Fort is open daily 9am–7pm, and the best time to go is soon after
-  opening or in the last hour before sunset, when the light turns the mudbrick
-  walls gold. Give it 45–60 minutes: enough to walk the ramparts, see the
-  Wilfred Thesiger photography exhibition, and sit a while in the garden
-  courtyard. Entry has historically been free, but confirm current hours and any
-  fees before you go.
+quickAnswer: 'Al Jahili Fort is open daily 9am–7pm, and the best time to go is soon after opening or in the last hour before sunset, when the light turns the mudbrick walls gold. Give it 45–60 minutes: enough to walk the ramparts, see the Wilfred Thesiger photography exhibition, and sit a while in the garden courtyard. Entry has historically been free, but confirm current hours and any fees before you go.'
 faq:
   - q: What are Al Jahili Fort's opening hours?
-    a: 'It''s open every day of the week from 9am to 7pm, with no weekly closure.'
+    a: It's open every day of the week from 9am to 7pm, with no weekly closure.
   - q: Is there an entrance fee?
-    a: >-
-      Entry has traditionally been free, but policies can change, so confirm
-      current fees and hours before you visit.
+    a: Entry has traditionally been free, but policies can change, so confirm current fees and hours before you visit.
   - q: How long should I spend at the fort?
-    a: >-
-      Plan for 45–60 minutes to see the tower, the Wilfred Thesiger photography
-      exhibition, and the garden courtyard without rushing.
+    a: Plan for 45–60 minutes to see the tower, the Wilfred Thesiger photography exhibition, and the garden courtyard without rushing.
   - q: How do I get to Al Jahili Fort?
-    a: >-
-      There's no metro in Al Ain, so drive or take a taxi/ride-share to Mohammed
-      Bin Khalifa Al Nahyan Street; free parking is available near the entrance.
+    a: There's no metro in Al Ain, so drive or take a taxi/ride-share to Mohammed Bin Khalifa Al Nahyan Street; free parking is available near the entrance.
   - q: What's nearby if I want to make a day of it?
-    a: >-
-      Al Ain Oasis, Al Ain National Museum, and Al Jahili Park are all a short
-      walk or drive away, making it easy to combine several sights in one
-      outing.
+    a: Al Ain Oasis, Al Ain National Museum, and Al Jahili Park are all a short walk or drive away, making it easy to combine several sights in one outing.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'

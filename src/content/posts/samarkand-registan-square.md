@@ -1,41 +1,41 @@
 ---
-title: "Registan Square: Samarkand Travel Guide (4.8★)"
-description: "Registan Square is open daily 8am–8pm, and the three tiled madrasas glow best in the early morning or an hour before closing. 4.8★ (16,404 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Samarkand"
-category: "attraction"
-pubDate: "2026-08-13T09:32:29.294Z"
+title: 'Registan Square: Samarkand Travel Guide (4.8★)'
+description: Registan Square is open daily 8am–8pm, and the three tiled madrasas glow best in the early morning or an hour before closing. 4.8★ (16,404 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Samarkand
+category: attraction
+pubDate: '2026-08-13T09:32:29.294Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/46/Registan_square_June_2007_-_panoramio_-_David_Holt.jpg"
-  credit: "Photo: David Holt / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Registan_square_June_2007_-_panoramio_-_David_Holt.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Registan_square_June_2007_-_panoramio_-_David_Holt.jpg/1280px-Registan_square_June_2007_-_panoramio_-_David_Holt.jpg
+  credit: 'Photo: David Holt / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Registan_square_June_2007_-_panoramio_-_David_Holt.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Registan_Samarkand_Uzbekistan.JPG"
-    credit: "Photo: Stomac / Wikimedia Commons (CC BY-SA 2.0 fr)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Registan_Samarkand_Uzbekistan.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Registan_Samarkand_Uzbekistan.JPG/1920px-Registan_Samarkand_Uzbekistan.JPG
+    credit: 'Photo: Stomac / Wikimedia Commons (CC BY-SA 2.0 fr)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Registan_Samarkand_Uzbekistan.JPG
 place:
-  id: "ChIJN5PlwrcYTT8Rr5LMngOOLFM"
-  name: "Registan Square"
-  address: "140101, Samarkand, Samarqand Region, Uzbekistan"
+  id: ChIJN5PlwrcYTT8Rr5LMngOOLFM
+  name: Registan Square
+  address: 140101, Samarkand, Samarqand Region, Uzbekistan
   rating: 4.8
   userRatingsTotal: 16404
-  googleMapsUrl: "https://maps.google.com/?cid=5993321350323540655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=5993321350323540655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.6546466
   lng: 66.9757669
-  phone: "+998 66 235 70 52"
+  phone: +998 66 235 70 52
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -53,22 +53,22 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_4d464c4f4f676e4d4c357252385454596372776c50354e4a496843"
+    venueId: ven_4d464c4f4f676e4d4c357252385454596372776c50354e4a496843
 tags:
-  - "samarkand"
-  - "top attraction"
-quickAnswer: "Registan Square is open daily 8am–8pm, and the three tiled madrasas glow best in the early morning or an hour before closing. Go on a weekday between 8am and 11am (or by 10am on weekends) to beat the crowds — afternoons from 1pm on weekends get packed with tour groups. Budget 1.5–2 hours to walk all three courtyards."
+  - samarkand
+  - top attraction
+quickAnswer: Registan Square is open daily 8am–8pm, and the three tiled madrasas glow best in the early morning or an hour before closing. Go on a weekday between 8am and 11am (or by 10am on weekends) to beat the crowds — afternoons from 1pm on weekends get packed with tour groups. Budget 1.5–2 hours to walk all three courtyards.
 faq:
-  - q: "What are Registan Square's opening hours?"
-    a: "It's open daily from 8:00 AM to 8:00 PM, with no listed weekly closure — but it's worth confirming locally before you go, especially around public holidays."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 8am and 11am are calmest. On weekends, aim to arrive before 10am — from 1pm onward weekend crowds build steadily until closing."
-  - q: "How long should I spend at Registan?"
-    a: "Plan on 1.5 to 2 hours to walk all three madrasas properly, including the courtyards and, if open, a minaret climb."
-  - q: "How do I get to Registan Square?"
-    a: "It's centrally located in Samarkand's old town, walkable from most central hotels, or a short taxi/ride-hailing trip from anywhere else in the city."
-  - q: "What else is near Registan Square?"
-    a: "Gur-e-Amir mausoleum, Shah-i-Zinda necropolis, and Siab Bazaar are all within a short taxi ride or walk, making for a full day of sightseeing."
+  - q: What are Registan Square's opening hours?
+    a: It's open daily from 8:00 AM to 8:00 PM, with no listed weekly closure — but it's worth confirming locally before you go, especially around public holidays.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 8am and 11am are calmest. On weekends, aim to arrive before 10am — from 1pm onward weekend crowds build steadily until closing.
+  - q: How long should I spend at Registan?
+    a: Plan on 1.5 to 2 hours to walk all three madrasas properly, including the courtyards and, if open, a minaret climb.
+  - q: How do I get to Registan Square?
+    a: It's centrally located in Samarkand's old town, walkable from most central hotels, or a short taxi/ride-hailing trip from anywhere else in the city.
+  - q: What else is near Registan Square?
+    a: Gur-e-Amir mausoleum, Shah-i-Zinda necropolis, and Siab Bazaar are all within a short taxi ride or walk, making for a full day of sightseeing.
 aiGenerated: true
 draft: false
 ---

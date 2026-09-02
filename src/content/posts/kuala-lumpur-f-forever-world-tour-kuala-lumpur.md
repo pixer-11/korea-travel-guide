@@ -25,7 +25,7 @@ faq:
 aiGenerated: true
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/cf/BOYS_FOREVER_%2830107907333%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BOYS_FOREVER_%2830107907333%29.jpg/1280px-BOYS_FOREVER_%2830107907333%29.jpg
   credit: 'Photo: Paul Hudson from United Kingdom / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:BOYS_FOREVER_(30107907333).jpg

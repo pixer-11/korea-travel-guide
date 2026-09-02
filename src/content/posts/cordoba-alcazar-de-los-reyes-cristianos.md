@@ -1,35 +1,27 @@
 ---
 title: 'Alcázar de los Reyes Cristianos: Cordoba Travel Guide (4.5★)'
-description: >-
-  The Alcázar de los Reyes Cristianos is a 14th-century Mudéjar fortress-palace
-  in central Córdoba, famous for its Roman mosaics, sarcophagus and terraced
-  gardens with reflecting pools. 4.5★ (36,363 reviews) — what visitors say,
-  hours, and tips.
+description: The Alcázar de los Reyes Cristianos is a 14th-century Mudéjar fortress-palace in central Córdoba, famous for its Roman mosaics, sarcophagus and terraced gardens with reflecting pools. 4.5★ (36,363 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Cordoba
 category: hidden-gem
 pubDate: '2026-08-15T08:02:51.033Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/1920px-Cordoba-6_%2848026780817%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/1920px-Cordoba-6_%2848026780817%29.jpg
   credit: 'Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Cordoba-6_(48026780817).jpg'
+  source: https://commons.wikimedia.org/wiki/File:Cordoba-6_(48026780817).jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/4/4e/Alcazar_de_los_Reyes_Cristianos_Cordoba_Colombo.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Alcazar_de_los_Reyes_Cristianos_Cordoba_Colombo.jpg/1920px-Alcazar_de_los_Reyes_Cristianos_Cordoba_Colombo.jpg
     credit: 'Photo: Jebulon / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Alcazar_de_los_Reyes_Cristianos_Cordoba_Colombo.jpg
+    source: https://commons.wikimedia.org/wiki/File:Alcazar_de_los_Reyes_Cristianos_Cordoba_Colombo.jpg
 place:
   id: ChIJGYSwZJwgbQ0R9RJX8WDUSss
   name: Alcázar de los Reyes Cristianos
-  address: 'C. Caballerizas Reales, s/n, Centro, 14004 Córdoba, Spain'
+  address: C. Caballerizas Reales, s/n, Centro, 14004 Córdoba, Spain
   rating: 4.5
   userRatingsTotal: 36363
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=14648754250806924021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=14648754250806924021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.8764323
   lng: -4.7809776
@@ -45,33 +37,18 @@ place:
 tags:
   - cordoba
   - hidden gem
-quickAnswer: >-
-  The Alcázar de los Reyes Cristianos is a 14th-century Mudéjar fortress-palace
-  in central Córdoba, famous for its Roman mosaics, sarcophagus and terraced
-  gardens with reflecting pools. It's well-visited, so aim for opening time on
-  weekdays (Tue–Fri 8am–8pm) to beat the crowds and heat. Budget 1.5–2 hours,
-  including a climb up the towers for rooftop views.
+quickAnswer: The Alcázar de los Reyes Cristianos is a 14th-century Mudéjar fortress-palace in central Córdoba, famous for its Roman mosaics, sarcophagus and terraced gardens with reflecting pools. It's well-visited, so aim for opening time on weekdays (Tue–Fri 8am–8pm) to beat the crowds and heat. Budget 1.5–2 hours, including a climb up the towers for rooftop views.
 faq:
   - q: How long should I spend at the Alcázar de los Reyes Cristianos?
-    a: >-
-      Plan on 1.5 to 2 hours to see the mosaics, sarcophagus, towers, and
-      gardens without rushing.
+    a: Plan on 1.5 to 2 hours to see the mosaics, sarcophagus, towers, and gardens without rushing.
   - q: What are the best hours to avoid crowds?
-    a: >-
-      Arrive right at opening on a weekday (8:00 AM Tuesday–Friday); tour groups
-      tend to arrive mid-morning.
+    a: Arrive right at opening on a weekday (8:00 AM Tuesday–Friday); tour groups tend to arrive mid-morning.
   - q: Is the Alcázar closed on Mondays?
-    a: >-
-      Yes, it's closed all day Monday. Sunday hours are also shorter, 8:00 AM to
-      3:00 PM only.
+    a: Yes, it's closed all day Monday. Sunday hours are also shorter, 8:00 AM to 3:00 PM only.
   - q: How do I get there from the Mezquita-Catedral?
-    a: >-
-      It's an easy 5-10 minute walk south through the Jewish Quarter to Calle
-      Caballerizas Reales.
+    a: It's an easy 5-10 minute walk south through the Jewish Quarter to Calle Caballerizas Reales.
   - q: Is it worth climbing the towers?
-    a: >-
-      Yes — the Torre del Homenaje and Torre de los Leones give rooftop views
-      over the gardens, river, and the Mezquita's bell tower.
+    a: Yes — the Torre del Homenaje and Torre de los Leones give rooftop views over the gardens, river, and the Mezquita's bell tower.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'

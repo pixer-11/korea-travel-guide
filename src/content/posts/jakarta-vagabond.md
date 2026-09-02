@@ -6,7 +6,7 @@ region: Jakarta
 category: trendy
 pubDate: '2026-08-19'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e7/Vagabond.png
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vagabond.png/1920px-Vagabond.png
   credit: 'Photo: Mikael Pilstrand / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Vagabond.png

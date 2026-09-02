@@ -1,41 +1,41 @@
 ---
-title: "Country Music Hall of Fame and Museum: Nashville Travel Guide"
-description: "The Country Music Hall of Fame and Museum sits at 222 Rep. John Lewis Way S in downtown Nashville, open daily 9am–5pm. 4.6★ (20,281 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Nashville"
-category: "attraction"
-pubDate: "2026-08-13T09:00:46.730Z"
+title: 'Country Music Hall of Fame and Museum: Nashville Travel Guide'
+description: The Country Music Hall of Fame and Museum sits at 222 Rep. John Lewis Way S in downtown Nashville, open daily 9am–5pm. 4.6★ (20,281 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Nashville
+category: attraction
+pubDate: '2026-08-13T09:00:46.730Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Country_Music_Hall_of_Fame_2022a.jpg/1920px-Country_Music_Hall_of_Fame_2022a.jpg"
-  credit: "Photo: Antony-22 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_2022a.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Country_Music_Hall_of_Fame_2022a.jpg/1920px-Country_Music_Hall_of_Fame_2022a.jpg
+  credit: 'Photo: Antony-22 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_2022a.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/01/Country_Music_Hall_of_Fame_Piano-Shaped_outside.jpg"
-    credit: "Photo: Jumpy542 / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_Piano-Shaped_outside.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Country_Music_Hall_of_Fame_Piano-Shaped_outside.jpg/960px-Country_Music_Hall_of_Fame_Piano-Shaped_outside.jpg
+    credit: 'Photo: Jumpy542 / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_Piano-Shaped_outside.jpg
 place:
-  id: "ChIJS2U0MVxmZIgRZw7MYMgQuKU"
-  name: "Country Music Hall of Fame and Museum"
-  address: "222 Rep. John Lewis Way S, Nashville, TN 37203, USA"
+  id: ChIJS2U0MVxmZIgRZw7MYMgQuKU
+  name: Country Music Hall of Fame and Museum
+  address: 222 Rep. John Lewis Way S, Nashville, TN 37203, USA
   rating: 4.6
   userRatingsTotal: 20281
-  googleMapsUrl: "https://maps.google.com/?cid=11941312864776359527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11941312864776359527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.1582632
   lng: -86.7761258
-  phone: "+1 615-416-2001"
+  phone: +1 615-416-2001
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-13
+    updated: 2026-08-13T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -47,22 +47,22 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_554b7551674d594d37775a5267495a6d78564d305532534a496843"
+    venueId: ven_554b7551674d594d37775a5267495a6d78564d305532534a496843
 tags:
-  - "nashville"
-  - "top attraction"
-quickAnswer: "The Country Music Hall of Fame and Museum sits at 222 Rep. John Lewis Way S in downtown Nashville, open daily 9am–5pm. Budget two to three hours, more if you add the Historic RCA Studio B tour. Weekend mornings between 9am and 10am are your calmest window; by 11am the lobby fills and stays busy until mid-afternoon."
+  - nashville
+  - top attraction
+quickAnswer: The Country Music Hall of Fame and Museum sits at 222 Rep. John Lewis Way S in downtown Nashville, open daily 9am–5pm. Budget two to three hours, more if you add the Historic RCA Studio B tour. Weekend mornings between 9am and 10am are your calmest window; by 11am the lobby fills and stays busy until mid-afternoon.
 faq:
-  - q: "How long should I plan to spend there?"
-    a: "About two hours for the main museum galleries; add 45 minutes to an hour if you book the shuttle to Historic RCA Studio B."
-  - q: "What time is least crowded?"
-    a: "Weekend mornings between 9am and 10am are quietest. Weekdays stay manageable all day, but weekends fill up fast from 11am to 4pm."
-  - q: "What are the opening hours?"
-    a: "The museum is open daily from 9am to 5pm, seven days a week, with no variation by day."
-  - q: "How do I get there without a car?"
-    a: "It's in the SoBro district, walkable from Broadway's honky-tonks and directly across from Bridgestone Arena. Nashville's WeGo buses also stop within a few blocks."
-  - q: "Is the RCA Studio B tour included in admission?"
-    a: "No, it's a separate add-on ticket booked at the front desk, with a shuttle ride included — worth reserving early since slots are limited."
+  - q: How long should I plan to spend there?
+    a: About two hours for the main museum galleries; add 45 minutes to an hour if you book the shuttle to Historic RCA Studio B.
+  - q: What time is least crowded?
+    a: Weekend mornings between 9am and 10am are quietest. Weekdays stay manageable all day, but weekends fill up fast from 11am to 4pm.
+  - q: What are the opening hours?
+    a: The museum is open daily from 9am to 5pm, seven days a week, with no variation by day.
+  - q: How do I get there without a car?
+    a: It's in the SoBro district, walkable from Broadway's honky-tonks and directly across from Bridgestone Arena. Nashville's WeGo buses also stop within a few blocks.
+  - q: Is the RCA Studio B tour included in admission?
+    a: No, it's a separate add-on ticket booked at the front desk, with a shuttle ride included — worth reserving early since slots are limited.
 aiGenerated: true
 draft: false
 ---

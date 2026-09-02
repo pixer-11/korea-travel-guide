@@ -1,8 +1,6 @@
 ---
 title: 'BTS World Tour – Arlington: What to Know (Arlington)'
-description: >-
-  BTS World Tour – Arlington in Arlington, United States — August 15-16, 2026.
-  What it is, when and where, and how to plan around it.
+description: BTS World Tour – Arlington in Arlington, United States — August 15-16, 2026. What it is, when and where, and how to plan around it.
 country: United States
 region: Arlington
 category: event
@@ -12,55 +10,32 @@ eventEndDate: '2026-08-16'
 tags:
   - arlington
   - event
-quickAnswer: >-
-  BTS brought their fourth world tour to AT&T Stadium in Arlington, Texas on
-  August 15-16, 2026 — their first stadium run since the members completed South
-  Korea's mandatory military service. Tickets were sold only through the
-  official BTS/Big Hit Music tour channels and Ticketmaster/AT&T Stadium's
-  verified box office.
+quickAnswer: BTS brought their fourth world tour to AT&T Stadium in Arlington, Texas on August 15-16, 2026 — their first stadium run since the members completed South Korea's mandatory military service. Tickets were sold only through the official BTS/Big Hit Music tour channels and Ticketmaster/AT&T Stadium's verified box office.
 faq:
   - q: What are the exact dates and times for BTS in Arlington?
-    a: >-
-      The dates were August 15-16, 2026 at AT&T Stadium. Exact gate and set
-      times were not published at the time of writing; ticket confirmations and
-      the official tour app carried that information.
+    a: The dates were August 15-16, 2026 at AT&T Stadium. Exact gate and set times were not published at the time of writing; ticket confirmations and the official tour app carried that information.
   - q: How do I get to AT&T Stadium without a car?
-    a: >-
-      Arlington has no rail transit, so most fans use rideshare drop-off zones,
-      event shuttles run by area hotels, or pre-booked stadium parking. DFW
-      Airport is about 20 minutes away by car.
+    a: Arlington has no rail transit, so most fans use rideshare drop-off zones, event shuttles run by area hotels, or pre-booked stadium parking. DFW Airport is about 20 minutes away by car.
   - q: Where should I buy tickets?
-    a: >-
-      Only through the official BTS/Big Hit Music tour channels and the
-      authorized ticketing partner (historically Ticketmaster for U.S. stadium
-      shows). Avoid unverified resale sites due to counterfeit risk.
+    a: Only through the official BTS/Big Hit Music tour channels and the authorized ticketing partner (historically Ticketmaster for U.S. stadium shows). Avoid unverified resale sites due to counterfeit risk.
   - q: Is there a bag policy at AT&T Stadium?
-    a: >-
-      Yes, AT&T Stadium enforces an NFL-style clear-bag policy for concerts as
-      well as football games, so bring a small clear bag to speed through
-      security.
+    a: Yes, AT&T Stadium enforces an NFL-style clear-bag policy for concerts as well as football games, so bring a small clear bag to speed through security.
   - q: Where's a good base for two nights of shows?
-    a: >-
-      Hotels in Arlington's Entertainment District, within walking distance of
-      the stadium and Texas Live!, are the most convenient; staying in Dallas or
-      Fort Worth means budgeting extra time for I-30 traffic before and after
-      the show.
+    a: Hotels in Arlington's Entertainment District, within walking distance of the stadium and Texas Live!, are the most convenient; staying in Dallas or Fort Worth means budgeting extra time for I-30 traffic before and after the show.
 aiGenerated: true
 eventRecurring: false
 photoless: true
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/a/a5/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_03.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_03.jpg/1920px-BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles%2C_8_September_2018_03.jpg
   credit: 'Photo: I DARE U JK / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_03.jpg
+  source: https://commons.wikimedia.org/wiki/File:BTS_performing_%22DNA%22_during_Love_Yourself_tour_in_Los_Angeles,_8_September_2018_03.jpg
   focus:
     x: 50
     'y': 40
 eventOrganizer:
   name: Live Nation
-  url: 'https://www.livenation.com'
+  url: https://www.livenation.com
 ---
 
 ## Why this show matters

@@ -6,7 +6,7 @@ region: Madrid
 category: attraction
 pubDate: '2026-08-05T11:30:40.166Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/88/National_Archaeological_Museum_of_Spain%2C_Madrid_%2815299325957%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/National_Archaeological_Museum_of_Spain%2C_Madrid_%2815299325957%29.jpg/1920px-National_Archaeological_Museum_of_Spain%2C_Madrid_%2815299325957%29.jpg
   credit: 'Photo: Carole Raddato from FRANKFURT, Germany / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:National_Archaeological_Museum_of_Spain,_Madrid_(15299325957).jpg

@@ -1,35 +1,27 @@
 ---
 title: 'Mercat de la Boqueria: Barcelona Travel Guide (4.5★)'
-description: >-
-  La Boqueria is Barcelona's biggest, most famous produce and food market, just
-  off La Rambla — worth an hour or two for the stalls, the jamón, the fruit
-  smoothies and the tapas counters at the back. 4.5★ (215,060 reviews) — what
-  visitors say, hours, and tips.
+description: La Boqueria is Barcelona's biggest, most famous produce and food market, just off La Rambla — worth an hour or two for the stalls, the jamón, the fruit smoothies and the tapas counters at the back. 4.5★ (215,060 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Barcelona
 category: hidden-gem
 pubDate: '2026-08-06T10:06:11.703Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Barcelona_-_Mercat_de_Sant_Josep_%28la_Boqueria%29_-_Entrance.jpg/1920px-Barcelona_-_Mercat_de_Sant_Josep_%28la_Boqueria%29_-_Entrance.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Barcelona_-_Mercat_de_Sant_Josep_%28la_Boqueria%29_-_Entrance.jpg/1920px-Barcelona_-_Mercat_de_Sant_Josep_%28la_Boqueria%29_-_Entrance.jpg
   credit: 'Photo: Didier Descouens / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Barcelona_-_Mercat_de_Sant_Josep_(la_Boqueria)_-_Entrance.jpg
+  source: https://commons.wikimedia.org/wiki/File:Barcelona_-_Mercat_de_Sant_Josep_(la_Boqueria)_-_Entrance.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Boqueria%2C_Barcelona.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Boqueria%2C_Barcelona.jpg/1920px-La_Boqueria%2C_Barcelona.jpg
     credit: 'Photo: Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:La_Boqueria,_Barcelona.jpg'
+    source: https://commons.wikimedia.org/wiki/File:La_Boqueria,_Barcelona.jpg
 place:
   id: ChIJAVoetfeipBIR1a1z3FTGCoY
   name: Mercat de la Boqueria
-  address: 'La Rambla, 91, Ciutat Vella, 08001 Barcelona, Spain'
+  address: La Rambla, 91, Ciutat Vella, 08001 Barcelona, Spain
   rating: 4.5
   userRatingsTotal: 215060
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=9658750418627571157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=9658750418627571157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 41.3817399
   lng: 2.1715853
@@ -70,37 +62,18 @@ place:
 tags:
   - barcelona
   - local market
-quickAnswer: >-
-  La Boqueria is Barcelona's biggest, most famous produce and food market, just
-  off La Rambla — worth an hour or two for the stalls, the jamón, the fruit
-  smoothies and the tapas counters at the back. It's open Monday to Saturday,
-  8am–8:30pm (closed Sunday), and it's calmest right at opening, 8am–10am on
-  weekdays or 8am–9am on weekends — go then, because from 11am onward on
-  weekends the aisles jam solid.
+quickAnswer: La Boqueria is Barcelona's biggest, most famous produce and food market, just off La Rambla — worth an hour or two for the stalls, the jamón, the fruit smoothies and the tapas counters at the back. It's open Monday to Saturday, 8am–8:30pm (closed Sunday), and it's calmest right at opening, 8am–10am on weekdays or 8am–9am on weekends — go then, because from 11am onward on weekends the aisles jam solid.
 faq:
   - q: What are the opening hours for La Boqueria?
-    a: >-
-      Monday to Saturday, 8:00 AM to 8:30 PM. It's closed all day Sunday, so
-      don't build a Sunday visit around it.
+    a: Monday to Saturday, 8:00 AM to 8:30 PM. It's closed all day Sunday, so don't build a Sunday visit around it.
   - q: When is the quietest time to visit?
-    a: >-
-      8am–10am on weekdays, or 8am–9am on weekends, is the calmest window. Avoid
-      weekends after 11am, when it stays busy right through closing.
+    a: 8am–10am on weekdays, or 8am–9am on weekends, is the calmest window. Avoid weekends after 11am, when it stays busy right through closing.
   - q: How do I get to La Boqueria by metro?
-    a: >-
-      Take Line 3 (green) to Liceu station — the market entrance on La Rambla is
-      about a minute's walk from the exit. Drassanes, also on Line 3, is another
-      option.
+    a: Take Line 3 (green) to Liceu station — the market entrance on La Rambla is about a minute's walk from the exit. Drassanes, also on Line 3, is another option.
   - q: How much time should I plan for a visit?
-    a: >-
-      60–90 minutes is enough to wander the stalls and grab a snack; add extra
-      time if you want a seat at one of the counter tapas bars like El Quim de
-      la Boqueria or Bar Pinotxo.
+    a: 60–90 minutes is enough to wander the stalls and grab a snack; add extra time if you want a seat at one of the counter tapas bars like El Quim de la Boqueria or Bar Pinotxo.
   - q: Is it worth eating at the tapas counters inside the market?
-    a: >-
-      Yes — the stand-up counters toward the back and sides, especially El Quim
-      de la Boqueria and Bar Pinotxo, serve food cooked to order a few feet from
-      where you sit, though seats are limited and fill fast.
+    a: Yes — the stand-up counters toward the back and sides, especially El Quim de la Boqueria and Bar Pinotxo, serve food cooked to order a few feet from where you sit, though seats are limited and fill fast.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

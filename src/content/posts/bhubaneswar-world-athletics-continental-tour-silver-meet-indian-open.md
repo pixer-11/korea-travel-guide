@@ -26,7 +26,7 @@ aiGenerated: true
 eventRecurring: true
 photoless: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/76/Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg/1920px-Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg
   credit: 'Photo: filip bossuyt / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Nadezhda_Dubovitskaya_at_2022_Belgrade_World_Athletics_Indoor_Championships.jpg

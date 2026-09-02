@@ -11,7 +11,7 @@ heroImage:
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans,_Louisiana_for_Some_Po%27Boys.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/0/09/Mother%27s_Restaurant%2C_New_Orleans_-_Interior_March_2013.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mother%27s_Restaurant%2C_New_Orleans_-_Interior_March_2013.jpg/1920px-Mother%27s_Restaurant%2C_New_Orleans_-_Interior_March_2013.jpg
     credit: 'Photo: Richard Martin / Wikimedia Commons (CC BY 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Mother%27s_Restaurant,_New_Orleans_-_Interior_March_2013.jpg

@@ -45,7 +45,8 @@ faq:
   - q: "What should I bring for a day at Petra?"
     a: "Sturdy closed-toe shoes, plenty of water, sunscreen, and a hat — the valley has little shade. In winter, bring a layer for cold evenings."
 aiGenerated: true
-draft: false
+draft: true
+heldReason: wrong-country
 ---
 
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

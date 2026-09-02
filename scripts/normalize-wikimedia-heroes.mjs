@@ -35,6 +35,18 @@ const POSTS = 'src/content/posts';
 const UA = 'WanderAtlasHeroNormalise/1.0 (pixer.vtm@gmail.com)';
 const API = 'https://commons.wikimedia.org/w/api.php';
 const DRY = process.env.DRY === '1';
+// ONLY_ORIGINALS=1 limits the run to heroes that hotlink an original file —
+// the ones Wikimedia now refuses. The tooWide rewrite is a bandwidth saving
+// that can wait for a quieter night: rewriting 1,058 URLs at once re-keys a
+// thousand verdicts and mirrors in one commit.
+const ONLY_ORIGINALS = process.env.ONLY_ORIGINALS === '1';
+// Two stores are keyed by the hero URL. Rewriting the URL without moving the
+// record would orphan the verdict (so the patrol re-judges the photo, paying
+// again and risking a bad night) and the mirror (so og:image falls back to the
+// remote file). Carry both across at the moment of the rewrite.
+const AUDIT_PATH = 'data/visual-audit.json';
+const MIRROR_PATH = 'data/og-mirror.json';
+async function readJson(path) { try { return JSON.parse(await readFile(path, 'utf8')); } catch { return null; } }
 const MAX_BYTES = Number(process.env.MAX_BYTES || 1_500_000);
 // A hero wider than this is rewritten even when its byte size looks acceptable.
 // 110 posts stored a 3840px render and every visitor downloaded it whole — on
@@ -65,7 +77,17 @@ async function politeFetch(url, opts = {}, tries = 2) {
   return null;
 }
 
-export const isWikimedia = (u) => /^https:\/\/upload\.wikimedia\.org\/wikipedia\//.test(u);
+export const isWikimedia = (u) => /^https:\/\/(?:upload|thumb)\.wikimedia\.org\/wikipedia\//.test(u);
+// The API started answering on thumb.wikimedia.org on 2026-08-31; the stored
+// URL is folded back onto upload.wikimedia.org (same path, same bytes) so the
+// rest of the pipeline keeps one host to reason about.
+export const foldHost = (u) => u.replace(/^https:\/\/thumb\.wikimedia\.org\//, 'https://upload.wikimedia.org/');
+// Widths Wikimedia actually serves, largest first, for replacing an ORIGINAL.
+// 1200 is the Discover floor, so 1280 is the smallest we want; 960 is kept as a
+// last resort because since 2026-09-02 an original is not "a bit heavy" — it
+// is a 429 ("please use thumbnail images in sizes listed"), i.e. no photo at
+// all. A 960px thumb that loads beats a 4000px original that does not.
+const ORIGINAL_LADDER = [1920, 1280, 960];
 export const stripQuery = (u) => u.split('?')[0];
 
 // Both shapes carry the original filename:
@@ -121,18 +143,28 @@ const files = (await readdir(POSTS)).filter((f) => f.endsWith('.md'));
 const posts = [];
 for (const f of files) {
   const { data } = matter(await readFile(`${POSTS}/${f}`, 'utf8'));
-  const url = String(data.heroImage?.url || '');
-  if (!isWikimedia(url)) continue;
-  const file = originalFile(url);
-  if (!file) continue;
-  posts.push({ f, url, file, servingOriginal: !stripQuery(url).includes('/thumb/') });
+  // The hero and every in-body photo: a gallery entry hotlinking an original
+  // gets the same 429 the hero does (171 live posts on 2026-09-02), it was
+  // just never in this script's scope. `where` says which field to write back.
+  const targets = [['hero', data.heroImage?.url]];
+  (Array.isArray(data.gallery) ? data.gallery : []).forEach((g, i) => targets.push([`gallery:${i}`, g?.url]));
+  for (const [where, u] of targets) {
+    const url = String(u || '');
+    if (!isWikimedia(url)) continue;
+    const file = originalFile(url);
+    if (!file) continue;
+    posts.push({ f, where, url, file, servingOriginal: !stripQuery(url).includes('/thumb/') });
+  }
 }
 
 const info = await imageInfo([...new Set(posts.map((p) => p.file))]);
 
 let queryStripped = 0, downsized = 0, skipped = 0;
+const audit = DRY ? null : await readJson(AUDIT_PATH);
+const mirror = DRY ? null : await readJson(MIRROR_PATH);
+let carried = 0, mirrorDirty = false;
 for (const p of posts) {
-  let next = stripQuery(p.url);
+  let next = foldHost(stripQuery(p.url));
   const strippedHere = next !== p.url;
 
   // Two reasons to rewrite: serving the ORIGINAL file (too big by definition),
@@ -141,9 +173,31 @@ for (const p of posts) {
   // shipping 1.7 MB per image.
   const storedWidth = Number((stripQuery(p.url).match(/\/(\d+)px-[^/]+$/) || [])[1] || 0);
   const tooWide = storedWidth > MAX_WIDTH;
-  if (p.servingOriginal || tooWide) {
-    const meta = info.get(decodeURIComponent(p.file).replace(/ /g, '_')) || info.get(p.file);
-    if (meta?.w && (tooWide || meta.size > MAX_BYTES)) {
+  const meta = info.get(decodeURIComponent(p.file).replace(/ /g, '_')) || info.get(p.file);
+  if (p.servingOriginal) {
+    // An original is rewritten regardless of its byte size now. Wikimedia
+    // answers hotlinked originals with 429 and points at the thumbnail ladder;
+    // 350 live heroes were originals on 2026-09-02, 134 of them with no mirror,
+    // and readers on a throttled path got an empty hero. Walk the ladder from
+    // the top: the API says whether it will render a width, and a HEAD says
+    // whether it serves it — a rewrite happens only when both agree.
+    let done = false;
+    for (const width of ORIGINAL_LADDER) {
+      if (meta?.w && width >= meta.w) continue; // never ask to upscale
+      const thumb = await thumbFromApi(p.file, width);
+      if (!thumb) continue;
+      await sleep(150);
+      const head = await politeFetch(thumb.url, { method: 'HEAD' });
+      if (!head?.ok) continue;
+      next = foldHost(stripQuery(thumb.url));
+      downsized++;
+      console.log(`  ✓ ${p.f} [${p.where}]: original${meta?.w ? ` (${meta.w}px)` : ''} → ${thumb.w}px thumbnail`);
+      done = true;
+      break;
+    }
+    if (!done) { console.log(`  – ${p.f}: original — Commons rendered no thumbnail on the ladder`); skipped++; }
+  } else if (tooWide && !ONLY_ORIGINALS) {
+    if (meta?.w) {
       const width = WIDTHS.find((w) => w < meta.w);
       if (!width) {
         console.log(`  – ${p.f}: ${(meta.size / 1e6).toFixed(1)}MB at ${meta.w}px — no standard width fits above the 1200px floor`);
@@ -166,7 +220,7 @@ for (const p of posts) {
             console.log(`  – ${p.f}: ${width}px thumbnail is no smaller — left alone`);
             skipped++;
           } else {
-            next = thumb.url;
+            next = foldHost(stripQuery(thumb.url));
             downsized++;
             console.log(`  ✓ ${p.f}: ${(meta.size / 1e6).toFixed(1)}MB → ${(bytes / 1e6).toFixed(2)}MB (${meta.w}px → ${thumb.w}px)`);
           }
@@ -180,12 +234,36 @@ for (const p of posts) {
   if (DRY) continue;
   const raw = await readFile(`${POSTS}/${p.f}`, 'utf8');
   const { data, content } = matter(raw);
-  data.heroImage.url = next;
+  if (p.where === 'hero') data.heroImage.url = next;
+  else data.gallery[Number(p.where.split(':')[1])].url = next;
   await writeFile(`${POSTS}/${p.f}`, `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`, 'utf8');
+  if (p.where !== 'hero') continue; // verdicts and mirrors are keyed by the hero only
+  const slug = p.f.replace(/\.md$/, '');
+  if (audit && audit[`${slug}\u0001${p.url}`] && !audit[`${slug}\u0001${next}`]) {
+    audit[`${slug}\u0001${next}`] = audit[`${slug}\u0001${p.url}`];
+    carried++;
+  }
+  // `in`, not truthiness: a null mirror entry means "measured, too narrow to
+  // mirror" (BaseLayout.astro) and must travel with the URL like any other.
+  if (mirror && (p.url in mirror) && !(next in mirror)) { mirror[next] = mirror[p.url]; mirrorDirty = true; }
 }
+// A key carrying the Commons tracking query is never a URL this site serves
+// (cleanCommonsUrl strips it at the source), so any such record is a
+// leftover of an earlier rewrite, not a verdict anyone will look up again.
+let auditDirty = carried > 0;
+for (const store of [audit, mirror]) {
+  if (!store) continue;
+  for (const k of Object.keys(store)) {
+    if (!k.includes('utm_source=commons.wikimedia.org')) continue;
+    delete store[k];
+    if (store === audit) auditDirty = true; else mirrorDirty = true;
+  }
+}
+if (audit && auditDirty) await writeFile(AUDIT_PATH, JSON.stringify(audit, null, 2) + '\n', 'utf8');
+if (mirror && mirrorDirty) await writeFile(MIRROR_PATH, JSON.stringify(mirror, null, 2) + '\n', 'utf8');
 
-console.log(`\n📎 ${posts.length} wikimedia hero(es): ${queryStripped} tracking quer(ies) stripped · ${downsized} downsized · ${skipped} left as-is${DRY ? ' (DRY)' : ''}`);
-console.log(`HERO_NORMALISE_SUMMARY total=${posts.length} query_stripped=${queryStripped} downsized=${downsized} skipped=${skipped}`);
+console.log(`\n📎 ${posts.length} wikimedia image(s): ${queryStripped} tracking quer(ies) stripped · ${downsized} downsized · ${skipped} left as-is${DRY ? ' (DRY)' : ''}`);
+console.log(`HERO_NORMALISE_SUMMARY total=${posts.length} query_stripped=${queryStripped} downsized=${downsized} skipped=${skipped} verdicts_carried=${carried}`);
 }
 
 // ── CLI (only when executed directly, not when imported) ─────

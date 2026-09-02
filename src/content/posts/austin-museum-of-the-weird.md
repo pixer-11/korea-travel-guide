@@ -1,19 +1,15 @@
 ---
 title: 'Museum of the Weird: Austin Travel Guide (4.2★)'
-description: >-
-  Museum of the Weird sits right on East 6th Street in downtown Austin, packed
-  with sideshow banners, shrunken heads, and a live Freak Show stage act tucked
-  behind the gift shop. 4.2★ (3,875 reviews) — what visitors say, hours, and
-  tips.
+description: Museum of the Weird sits right on East 6th Street in downtown Austin, packed with sideshow banners, shrunken heads, and a live Freak Show stage act tucked behind the gift shop. 4.2★ (3,875 reviews) — what visitors say, hours, and tips.
 country: United States
 region: Austin
 category: hidden-gem
 pubDate: '2026-08-18T08:06:55.810Z'
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6e/Museum_weird_2012.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Museum_weird_2012.jpg/1280px-Museum_weird_2012.jpg
   credit: 'Photo: Larry D. Moore / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Museum_weird_2012.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Museum_weird_2012.jpg
   focus:
     x: 50
     'y': 45
@@ -21,11 +17,10 @@ gallery: []
 place:
   id: ChIJpduvU6a1RIYRIqQm9JA8wJA
   name: Museum of the Weird
-  address: '412 E 6th St, Austin, TX 78701, USA'
+  address: 412 E 6th St, Austin, TX 78701, USA
   rating: 4.2
   userRatingsTotal: 3875
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=10430403330259199010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=10430403330259199010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 30.267167399999998
   lng: -97.73867
@@ -59,38 +54,18 @@ place:
 tags:
   - austin
   - hidden gem
-quickAnswer: >-
-  Museum of the Weird sits right on East 6th Street in downtown Austin, packed
-  with sideshow banners, shrunken heads, and a live Freak Show stage act tucked
-  behind the gift shop. It's open daily 10am, with the calmest visit on weekends
-  between 10am and 11am — avoid Saturday and Sunday afternoons from 1pm on, when
-  6th Street crowds spill inside. Budget 45–60 minutes, more if the live show is
-  running.
+quickAnswer: Museum of the Weird sits right on East 6th Street in downtown Austin, packed with sideshow banners, shrunken heads, and a live Freak Show stage act tucked behind the gift shop. It's open daily 10am, with the calmest visit on weekends between 10am and 11am — avoid Saturday and Sunday afternoons from 1pm on, when 6th Street crowds spill inside. Budget 45–60 minutes, more if the live show is running.
 faq:
   - q: How long should I spend at Museum of the Weird?
-    a: >-
-      Most visits run 45 minutes to an hour for the exhibit halls alone. Add
-      20–30 minutes if you plan to catch the live Freak Show performance in the
-      back theater.
+    a: Most visits run 45 minutes to an hour for the exhibit halls alone. Add 20–30 minutes if you plan to catch the live Freak Show performance in the back theater.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekends are calmest between 10am and 11am, right at opening. On weekdays,
-      crowds stay light throughout the 10am–8pm stretch, so any weekday
-      afternoon works well too.
+    a: Weekends are calmest between 10am and 11am, right at opening. On weekdays, crowds stay light throughout the 10am–8pm stretch, so any weekday afternoon works well too.
   - q: What's the best time to avoid crowds?
-    a: >-
-      Skip Saturday and Sunday afternoons from 1pm onward — that's when 6th
-      Street foot traffic peaks and the museum fills up alongside it.
+    a: Skip Saturday and Sunday afternoons from 1pm onward — that's when 6th Street foot traffic peaks and the museum fills up alongside it.
   - q: How do I get there and is parking easy?
-    a: >-
-      It's at 412 E 6th St in downtown Austin, walkable from most downtown
-      hotels. Street parking is limited, so a paid downtown garage is the more
-      reliable option.
+    a: It's at 412 E 6th St in downtown Austin, walkable from most downtown hotels. Street parking is limited, so a paid downtown garage is the more reliable option.
   - q: What's nearby if I want to make a day of it?
-    a: >-
-      The Austin Convention Center and the bars and live music venues of Dirty
-      Sixth are all within a few minutes' walk, making it easy to combine with
-      an evening out.
+    a: The Austin Convention Center and the bars and live music venues of Dirty Sixth are all within a few minutes' walk, making it easy to combine with an evening out.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

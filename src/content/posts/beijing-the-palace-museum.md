@@ -1,34 +1,28 @@
 ---
 title: 'The Palace Museum: Beijing Travel Guide (4.6★)'
-description: >-
-  The Palace Museum (better known as the Forbidden City) is Beijing's must-see
-  imperial palace complex, open Tuesday–Sunday 8:30am–4:30pm and closed Mondays.
-  4.6★ (16,777 reviews) — what visitors say, hours, and tips.
+description: The Palace Museum (better known as the Forbidden City) is Beijing's must-see imperial palace complex, open Tuesday–Sunday 8:30am–4:30pm and closed Mondays. 4.6★ (16,777 reviews) — what visitors say, hours, and tips.
 country: China
 region: Beijing
 category: hidden-gem
 pubDate: '2026-08-04T10:11:48.891Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forbidden_City_Beijing_Shenwumen_Gate.JPG/1920px-Forbidden_City_Beijing_Shenwumen_Gate.JPG
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forbidden_City_Beijing_Shenwumen_Gate.JPG/1920px-Forbidden_City_Beijing_Shenwumen_Gate.JPG
   credit: 'Photo: user:kallgan / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Forbidden_City_Beijing_Shenwumen_Gate.JPG
+  source: https://commons.wikimedia.org/wiki/File:Forbidden_City_Beijing_Shenwumen_Gate.JPG
 gallery:
-  - url: 'https://upload.wikimedia.org/wikipedia/commons/0/02/The_Palace_Museum.jpg'
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Palace_Museum.jpg/1280px-The_Palace_Museum.jpg
     credit: 'Photo: Kikolipu / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:The_Palace_Museum.jpg'
+    source: https://commons.wikimedia.org/wiki/File:The_Palace_Museum.jpg
 place:
   id: ChIJq4HNm91S8DURZGAQm-3qQ94
   name: The Palace Museum
-  address: '4 Jing Shan Qian Jie, Dong Cheng Qu, Bei Jing Shi, China, 100009'
+  address: 4 Jing Shan Qian Jie, Dong Cheng Qu, Bei Jing Shi, China, 100009
   rating: 4.6
   userRatingsTotal: 16777
   priceLevel: 4
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=16015903006089306212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=16015903006089306212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 39.916344699999996
   lng: 116.3971546
@@ -60,43 +54,20 @@ place:
 tags:
   - beijing
   - hidden gem
-quickAnswer: >-
-  The Palace Museum (better known as the Forbidden City) is Beijing's must-see
-  imperial palace complex, open Tuesday–Sunday 8:30am–4:30pm and closed Mondays.
-  Buy timed-entry tickets online in advance, arrive right at 8:30am to beat the
-  crowds (foot traffic is lightest 8:30am–9:30am and slammed 10am–4pm on
-  weekends), and budget at least three hours to cross the full north-south axis.
-  Enter via Meridian Gate on the south side, near Tiananmen Square, and exit
-  north toward Jingshan Park.
+quickAnswer: The Palace Museum (better known as the Forbidden City) is Beijing's must-see imperial palace complex, open Tuesday–Sunday 8:30am–4:30pm and closed Mondays. Buy timed-entry tickets online in advance, arrive right at 8:30am to beat the crowds (foot traffic is lightest 8:30am–9:30am and slammed 10am–4pm on weekends), and budget at least three hours to cross the full north-south axis. Enter via Meridian Gate on the south side, near Tiananmen Square, and exit north toward Jingshan Park.
 faq:
   - q: How long should I spend at the Palace Museum?
-    a: >-
-      Plan on three to four hours minimum to walk the full north-south axis and
-      a few side halls; history or photography enthusiasts often spend a full
-      day.
+    a: Plan on three to four hours minimum to walk the full north-south axis and a few side halls; history or photography enthusiasts often spend a full day.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekday mornings between 8:30am and 9:30am, right at opening, are the
-      calmest; weekends from 10am to 4pm are the busiest and worth avoiding if
-      possible.
+    a: Weekday mornings between 8:30am and 9:30am, right at opening, are the calmest; weekends from 10am to 4pm are the busiest and worth avoiding if possible.
   - q: Do I need to book tickets in advance?
-    a: >-
-      Yes — tickets are timed-entry and sold online in advance, and the museum
-      regularly sells out during peak season, so book as soon as your visit date
-      is fixed.
+    a: Yes — tickets are timed-entry and sold online in advance, and the museum regularly sells out during peak season, so book as soon as your visit date is fixed.
   - q: What's the nearest subway station?
-    a: >-
-      Tiananmen East or Tiananmen West, both on Line 1, are the closest stops,
-      with a short walk north to the Meridian Gate entrance.
+    a: Tiananmen East or Tiananmen West, both on Line 1, are the closest stops, with a short walk north to the Meridian Gate entrance.
   - q: Is the Palace Museum closed on certain days?
-    a: >-
-      Yes, it's closed every Monday; it's open Tuesday through Sunday from
-      8:30am to 4:30pm.
+    a: Yes, it's closed every Monday; it's open Tuesday through Sunday from 8:30am to 4:30pm.
   - q: What's nearby if I want to combine my visit?
-    a: >-
-      Tiananmen Square sits just south of the entrance, and Jingshan Park, with
-      its hilltop view over the palace roofs, is directly north of the exit
-      gate.
+    a: Tiananmen Square sits just south of the entrance, and Jingshan Park, with its hilltop view over the palace roofs, is directly north of the exit gate.
 aiGenerated: true
 updatedDate: '2026-08-29'
 ---

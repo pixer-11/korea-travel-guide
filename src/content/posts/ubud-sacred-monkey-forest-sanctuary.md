@@ -12,9 +12,9 @@ heroImage:
   source: https://foursquare.com/v/4c7364260e8cbfb7857509db
   focus:
     x: 35
-    y: 45
+    'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/0/04/Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg/960px-Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688747778%29.jpg
     credit: 'Photo: William Cho / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_(2688747778).jpg

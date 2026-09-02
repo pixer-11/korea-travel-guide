@@ -1,28 +1,23 @@
 ---
 title: 'National Museum of Singapore: East Coast Travel Guide (4.5★)'
-description: >-
-  The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm.
-  4.5★ (16,547 reviews) — what visitors say, hours, and tips.
+description: The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm. 4.5★ (16,547 reviews) — what visitors say, hours, and tips.
 country: Singapore
 region: East Coast
 category: attraction
 pubDate: '2026-08-14T08:45:51.367Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/d/de/National_Museum_of_Singapore_%28131537%29.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/National_Museum_of_Singapore_%28131537%29.jpg/1920px-National_Museum_of_Singapore_%28131537%29.jpg
   credit: 'Photo: Moheen Reeyad / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:National_Museum_of_Singapore_(131537).jpg
+  source: https://commons.wikimedia.org/wiki/File:National_Museum_of_Singapore_(131537).jpg
 gallery: []
 place:
   id: ChIJD1u-EaMZ2jERaLhNfFkR45I
   name: National Museum of Singapore
-  address: '93 Stamford Rd, Singapore 178897'
+  address: 93 Stamford Rd, Singapore 178897
   rating: 4.5
   userRatingsTotal: 16547
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=10584322625286027368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=10584322625286027368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 1.296613
   lng: 103.84850910000002
@@ -53,35 +48,18 @@ place:
 tags:
   - east coast
   - museum
-quickAnswer: >-
-  The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm.
-  It's calmest on weekdays, while weekends between 11am and 6pm draw the
-  heaviest crowds — aim for a weekday morning and set aside two to three hours.
-  It's an easy walk from Bras Basah or Dhoby Ghaut MRT.
+quickAnswer: The National Museum of Singapore, at 93 Stamford Rd, is open daily 10am–7pm. It's calmest on weekdays, while weekends between 11am and 6pm draw the heaviest crowds — aim for a weekday morning and set aside two to three hours. It's an easy walk from Bras Basah or Dhoby Ghaut MRT.
 faq:
   - q: What are the opening hours?
-    a: >-
-      The National Museum of Singapore is open every day, including weekends,
-      from 10:00 AM to 7:00 PM.
+    a: The National Museum of Singapore is open every day, including weekends, from 10:00 AM to 7:00 PM.
   - q: How do I get there by MRT?
-    a: >-
-      Bras Basah MRT (Circle Line) is about a 5-minute walk, and Dhoby Ghaut MRT
-      (North-South, North-East, Circle lines) is about 10 minutes on foot
-      through the Fort Canning Park area.
+    a: Bras Basah MRT (Circle Line) is about a 5-minute walk, and Dhoby Ghaut MRT (North-South, North-East, Circle lines) is about 10 minutes on foot through the Fort Canning Park area.
   - q: When is it quietest?
-    a: >-
-      Weekdays are consistently calmer across the full 10am–7pm window. Weekends
-      get busy between 11am and 6pm, so aim for right at opening or later
-      afternoon if you're visiting on a Saturday or Sunday.
+    a: Weekdays are consistently calmer across the full 10am–7pm window. Weekends get busy between 11am and 6pm, so aim for right at opening or later afternoon if you're visiting on a Saturday or Sunday.
   - q: How long should I plan to spend there?
-    a: >-
-      Two to three hours is realistic if you want to properly cover the
-      Singapore History Gallery plus one or two other galleries or exhibitions.
+    a: Two to three hours is realistic if you want to properly cover the Singapore History Gallery plus one or two other galleries or exhibitions.
   - q: What's nearby if I want to make a day of it?
-    a: >-
-      Fort Canning Park, the Peranakan Museum, and the Singapore Art Museum are
-      all within a short walk, along with cafes and bookshops in the Bras Basah
-      arts precinct.
+    a: Fort Canning Park, the Peranakan Museum, and the Singapore Art Museum are all within a short walk, along with cafes and bookshops in the Bras Basah arts precinct.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'

@@ -73,6 +73,10 @@ async function auditFrontmatter(root, lang, file, fm, body = '') {
   if (/^draft:\s*true\s*$/m.test(srcFm)) return null;
 
   if (SPILL.test(fm)) flags.push(['TOOL-SPILL', fm.match(SPILL)[0]]);
+  // quickAnswer, description and FAQ answers are rendered as plain text, so a
+  // `**` in them is not bold — it is two asterisks on the page. zh/visa carried
+  // 国籍**和**目的地 in an FAQ answer while the body check passed (2026-09-02).
+  if (/\S\*\*|\*\*\S/.test(fm)) flags.push(['broken-bold-frontmatter', fm.match(/.{0,24}\*\*.{0,24}/)[0]]);
   // A description that stops mid-clause is the page's SERP copy in that
   // language — 407 translations mirrored the truncated English descriptions
   // until the 2026-08-01 rebuild. Terminal punctuation (any script), possibly

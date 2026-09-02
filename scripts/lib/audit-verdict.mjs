@@ -20,7 +20,7 @@
 // ─────────────────────────────────────────────────────────────
 
 // Transient refusals only. 404/410 are deliberately absent: the file is gone.
-const TRANSIENT_FETCH = /\b(?:image fetch|HTTP|status)\s*(?:429|502|503|504)\b/i;
+const TRANSIENT_FETCH = /\b(?:image fetch|HTTP|status)\s*(?:429|502|503|504)\b|image unusable: (?:fetch failed|ECONN|ETIMEDOUT|EAI_AGAIN|timeout|aborted|socket hang up)/i;
 // "width: unknownpx < 1200" (old) and "width: unknown (<1200)" (new).
 const UNMEASURED_WIDTH = /width:\s*unknown/i;
 

@@ -1,57 +1,57 @@
 ---
-title: "Jaro Metropolitan Cathedral of St. Elizabeth of Hungary & National Shrine of Our Lady of Candles: Iloilo Travel Guide"
-description: "Jaro Metropolitan Cathedral sits in Jaro plaza, Iloilo City, and is free to enter. 4.7★ (1,758 reviews) — what visitors say, hours, and tips."
-country: "Philippines"
-region: "Iloilo"
-category: "attraction"
-pubDate: "2026-08-20T08:58:52.798Z"
+title: 'Jaro Metropolitan Cathedral of St. Elizabeth of Hungary & National Shrine of Our Lady of Candles: Iloilo Travel Guide'
+description: Jaro Metropolitan Cathedral sits in Jaro plaza, Iloilo City, and is free to enter. 4.7★ (1,758 reviews) — what visitors say, hours, and tips.
+country: Philippines
+region: Iloilo
+category: attraction
+pubDate: '2026-08-20T08:58:52.798Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_03.jpg"
-  credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_03.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_03.jpg/1280px-Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_03.jpg
+  credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_03.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/01/Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg"
-    credit: "Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg/1280px-Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg
+    credit: 'Photo: Herbertkikoy / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Jaro_Metropolitan_Cathedral_of_St._Elizabeth_of_Hungary_%26_National_Shrine_of_Our_Lady_of_Candles_01.jpg
 place:
-  id: "ChIJObKEbSHlrjMRwugA5l105mE"
-  name: "Jaro Metropolitan Cathedral of St. Elizabeth of Hungary & National Shrine of Our Lady of Candles"
-  address: "PHF4+GH3, Jaro, Iloilo City, 5000 Iloilo, Philippines"
+  id: ChIJObKEbSHlrjMRwugA5l105mE
+  name: Jaro Metropolitan Cathedral of St. Elizabeth of Hungary & National Shrine of Our Lady of Candles
+  address: PHF4+GH3, Jaro, Iloilo City, 5000 Iloilo, Philippines
   rating: 4.7
   userRatingsTotal: 1758
-  googleMapsUrl: "https://maps.google.com/?cid=7054453812962060482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=7054453812962060482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.723761
   lng: 122.5564186
-  phone: "+63 33 329 1625"
+  phone: +63 33 329 1625
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM"
-    - "Wednesday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM"
-    - "Thursday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM"
-    - "Friday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM"
-    - "Saturday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM"
-    - "Sunday: 8:00 AM – 12:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM'
+    - 'Wednesday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM'
+    - 'Thursday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM'
+    - 'Friday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM'
+    - 'Saturday: 8:00 AM – 12:00 PM, 1:30 – 5:30 PM'
+    - 'Sunday: 8:00 AM – 12:00 PM'
 tags:
-  - "iloilo"
-  - "historic site"
-quickAnswer: "Jaro Metropolitan Cathedral sits in Jaro plaza, Iloilo City, and is free to enter. Visit Tuesday to Saturday, 8am–12pm or 1:30–5:30pm (Sunday mornings only, closed Mondays), and aim for a weekday late morning when Mass traffic has cleared but the light through the windows is still strong."
+  - iloilo
+  - historic site
+quickAnswer: Jaro Metropolitan Cathedral sits in Jaro plaza, Iloilo City, and is free to enter. Visit Tuesday to Saturday, 8am–12pm or 1:30–5:30pm (Sunday mornings only, closed Mondays), and aim for a weekday late morning when Mass traffic has cleared but the light through the windows is still strong.
 faq:
-  - q: "Is there an entrance fee?"
-    a: "No, entry to Jaro Metropolitan Cathedral is free. Small donation boxes are available near the side altars if you wish to contribute."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Saturday it's open 8am–12pm and 1:30–5:30pm. Sunday it's morning only, 8am–12pm, and it's closed entirely on Mondays."
-  - q: "How do I get to Jaro Cathedral from Iloilo City center?"
-    a: "It's about a 20–25 minute ride by taxi, Grab, or jeepney heading to Jaro Plaza, the cathedral's frontage."
-  - q: "How long should I spend there?"
-    a: "Most visitors need 20–30 minutes for the cathedral and bell tower, longer if you also explore Jaro Plaza and its old houses nearby."
-  - q: "What else is nearby worth seeing?"
-    a: "The detached Jaro Belfry directly across the plaza, century-old acacia trees, and several preserved ancestral houses reflecting Jaro's colonial-era heritage."
+  - q: Is there an entrance fee?
+    a: No, entry to Jaro Metropolitan Cathedral is free. Small donation boxes are available near the side altars if you wish to contribute.
+  - q: What are the opening hours?
+    a: Tuesday to Saturday it's open 8am–12pm and 1:30–5:30pm. Sunday it's morning only, 8am–12pm, and it's closed entirely on Mondays.
+  - q: How do I get to Jaro Cathedral from Iloilo City center?
+    a: It's about a 20–25 minute ride by taxi, Grab, or jeepney heading to Jaro Plaza, the cathedral's frontage.
+  - q: How long should I spend there?
+    a: Most visitors need 20–30 minutes for the cathedral and bell tower, longer if you also explore Jaro Plaza and its old houses nearby.
+  - q: What else is nearby worth seeing?
+    a: The detached Jaro Belfry directly across the plaza, century-old acacia trees, and several preserved ancestral houses reflecting Jaro's colonial-era heritage.
 aiGenerated: true
 ---
 > **How this guide was made:** Editor-reviewed, AI-assisted. Facts are pulled from live Google Places data; images are licensed or public domain. See our [editorial policy](/about).

@@ -36,7 +36,7 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Stade_de_France_5_August_2024.jpg/3840px-Stade_de_France_5_August_2024.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stade_de_France_5_August_2024.jpg/3840px-Stade_de_France_5_August_2024.jpg
   credit: 'Photo: Ilan Costica / Wikimedia Commons (CC0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Stade_de_France_5_August_2024.jpg

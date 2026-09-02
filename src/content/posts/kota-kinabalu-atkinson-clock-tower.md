@@ -1,44 +1,44 @@
 ---
-title: "Atkinson Clock Tower: Kota Kinabalu Travel Guide (4.3★)"
-description: "Atkinson Clock Tower is a small 1905 wooden landmark on Signal Hill Road in downtown Kota Kinabalu, worth a 10–15 minute stop on your way up to the Signal Hill Observatory Platform. 4.3★ (1,640 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kota Kinabalu"
-category: "attraction"
-pubDate: "2026-08-19T08:07:36.716Z"
+title: 'Atkinson Clock Tower: Kota Kinabalu Travel Guide (4.3★)'
+description: Atkinson Clock Tower is a small 1905 wooden landmark on Signal Hill Road in downtown Kota Kinabalu, worth a 10–15 minute stop on your way up to the Signal Hill Observatory Platform. 4.3★ (1,640 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kota Kinabalu
+category: attraction
+pubDate: '2026-08-19T08:07:36.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Atkinson_Clock_Tower_-_panoramio.jpg"
-  credit: "Photo: Annette Teng / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Atkinson_Clock_Tower_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Atkinson_Clock_Tower_-_panoramio.jpg/1920px-Atkinson_Clock_Tower_-_panoramio.jpg
+  credit: 'Photo: Annette Teng / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Atkinson_Clock_Tower_-_panoramio.jpg
   focus:
     x: 51
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/17/KotaKinabalu_Sabah_Atkinson-Clock-Tower-11.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Atkinson-Clock-Tower-11.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/KotaKinabalu_Sabah_Atkinson-Clock-Tower-11.jpg/1920px-KotaKinabalu_Sabah_Atkinson-Clock-Tower-11.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:KotaKinabalu_Sabah_Atkinson-Clock-Tower-11.jpg
 place:
-  id: "ChIJy7ObEI1pOzIRKCKIN_C8ZqM"
-  name: "Atkinson Clock Tower"
-  address: "Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia"
+  id: ChIJy7ObEI1pOzIRKCKIN_C8ZqM
+  name: Atkinson Clock Tower
+  address: Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia
   rating: 4.3
   userRatingsTotal: 1640
-  googleMapsUrl: "https://maps.google.com/?cid=11774306015716581928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=11774306015716581928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 5.982156799999999
   lng: 116.07731840000001
-  phone: "+60 88-212 121"
+  phone: +60 88-212 121
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-08-19
+    updated: 2026-08-19T00:00:00.000Z
     weekdayQuiet:
       - 12
     weekendQuiet:
@@ -60,22 +60,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_4d715a38435f4e494b434b52497a4f70314945624f37794a496843"
+    venueId: ven_4d715a38435f4e494b434b52497a4f70314945624f37794a496843
 tags:
-  - "kota kinabalu"
-  - "historic site"
-quickAnswer: "Atkinson Clock Tower is a small 1905 wooden landmark on Signal Hill Road in downtown Kota Kinabalu, worth a 10–15 minute stop on your way up to the Signal Hill Observatory Platform. It's open daily 7am–7pm and free to view from outside. Go around midday on a weekday (quietest 12pm–1pm) or any weekend hour, since crowd data shows weekends stay calm all day."
+  - kota kinabalu
+  - historic site
+quickAnswer: Atkinson Clock Tower is a small 1905 wooden landmark on Signal Hill Road in downtown Kota Kinabalu, worth a 10–15 minute stop on your way up to the Signal Hill Observatory Platform. It's open daily 7am–7pm and free to view from outside. Go around midday on a weekday (quietest 12pm–1pm) or any weekend hour, since crowd data shows weekends stay calm all day.
 faq:
-  - q: "How much time should I budget for the Atkinson Clock Tower?"
-    a: "About 10–15 minutes for the tower itself. Most visitors combine it with the nearby Signal Hill Observatory Platform for a half-hour to an hour total."
-  - q: "Is there an entrance fee?"
-    a: "No, it's free to view from the street and surrounding grounds — there's no ticket booth or gate."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 12pm and 1pm are the calmest. On weekends, crowds stay fairly steady all day (7am–7pm), with the busiest hours generally 9am to 6pm."
-  - q: "How do I get there from downtown Kota Kinabalu?"
-    a: "It's an easy 10-minute walk from the Gaya Street/Atkinson roundabout area up Jalan Bukit Bendera (Signal Hill Road), or a short Grab/taxi ride from most hotels."
-  - q: "What else is nearby?"
-    a: "The Signal Hill Observatory Platform is a few minutes further uphill, and Gaya Street's market area is an easy walk away — both pair well with a clock tower visit."
+  - q: How much time should I budget for the Atkinson Clock Tower?
+    a: About 10–15 minutes for the tower itself. Most visitors combine it with the nearby Signal Hill Observatory Platform for a half-hour to an hour total.
+  - q: Is there an entrance fee?
+    a: No, it's free to view from the street and surrounding grounds — there's no ticket booth or gate.
+  - q: When is the quietest time to visit?
+    a: Weekdays between 12pm and 1pm are the calmest. On weekends, crowds stay fairly steady all day (7am–7pm), with the busiest hours generally 9am to 6pm.
+  - q: How do I get there from downtown Kota Kinabalu?
+    a: It's an easy 10-minute walk from the Gaya Street/Atkinson roundabout area up Jalan Bukit Bendera (Signal Hill Road), or a short Grab/taxi ride from most hotels.
+  - q: What else is nearby?
+    a: The Signal Hill Observatory Platform is a few minutes further uphill, and Gaya Street's market area is an easy walk away — both pair well with a clock tower visit.
 aiGenerated: true
 draft: false
 ---

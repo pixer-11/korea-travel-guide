@@ -6,7 +6,7 @@ country: South Korea
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Jumunjin_Lighthouse_20220501_004.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jumunjin_Lighthouse_20220501_004.jpg/1920px-Jumunjin_Lighthouse_20220501_004.jpg
   credit: 'Photo: Mobius6 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Jumunjin_Lighthouse_20220501_004.jpg
@@ -25,7 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.8977544
   lng: 128.8338509
-  phone: '+82 33-662-2131'
+  phone: +82 33-662-2131
 tags:
   - gangneung
   - K-drama filming site

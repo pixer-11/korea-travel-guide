@@ -14,7 +14,7 @@ heroImage:
     x: 45
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg/1920px-Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg
     credit: 'Photo: Eusebius / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg

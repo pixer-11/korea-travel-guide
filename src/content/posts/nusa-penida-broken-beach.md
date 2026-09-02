@@ -1,48 +1,48 @@
 ---
-title: "Broken Beach: Nusa Penida Travel Guide (4.6★)"
-description: "Broken Beach (Pasih Uug) is a natural rock arch on Nusa Penida's west coast where the sea has punched through limestone cliffs into a turquoise lagoon. 4.6★ (8,056 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Nusa Penida"
-category: "hidden-gem"
-pubDate: "2026-08-15T08:32:06.211Z"
+title: 'Broken Beach: Nusa Penida Travel Guide (4.6★)'
+description: Broken Beach (Pasih Uug) is a natural rock arch on Nusa Penida's west coast where the sea has punched through limestone cliffs into a turquoise lagoon. 4.6★ (8,056 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Nusa Penida
+category: hidden-gem
+pubDate: '2026-08-15T08:32:06.211Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/65/Nusa_Penida_-_Bali_-_Broken_Beach.jpg"
-  credit: "Photo: Agustina Sulistio / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nusa_Penida_-_Bali_-_Broken_Beach.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Nusa_Penida_-_Bali_-_Broken_Beach.jpg/1920px-Nusa_Penida_-_Bali_-_Broken_Beach.jpg
+  credit: 'Photo: Agustina Sulistio / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nusa_Penida_-_Bali_-_Broken_Beach.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Broken_Beach.jpg/3840px-Broken_Beach.jpg"
-    credit: "Photo: Aaron Rentfrew / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Broken_Beach.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Broken_Beach.jpg/3840px-Broken_Beach.jpg
+    credit: 'Photo: Aaron Rentfrew / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Broken_Beach.jpg
 place:
-  id: "ChIJyy2nId9v0i0RpUc5EjA_2y8"
-  name: "Broken Beach"
-  address: "7F82+R4, Sakti, Nusa Penida, Klungkung Regency, Bali 80771, Indonesia"
+  id: ChIJyy2nId9v0i0RpUc5EjA_2y8
+  name: Broken Beach
+  address: 7F82+R4, Sakti, Nusa Penida, Klungkung Regency, Bali 80771, Indonesia
   rating: 4.6
   userRatingsTotal: 8056
-  googleMapsUrl: "https://maps.google.com/?cid=3448419415378970533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3448419415378970533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.7327938
   lng: 115.4508319
 tags:
-  - "nusa penida"
-  - "hidden gem"
-quickAnswer: "Broken Beach (Pasih Uug) is a natural rock arch on Nusa Penida's west coast where the sea has punched through limestone cliffs into a turquoise lagoon. It's one of the island's most-photographed stops, so aim for early morning, before 9am, to beat the tour-bus crowds. Bring sturdy shoes — there's no beach access, just cliff-edge viewing."
+  - nusa penida
+  - hidden gem
+quickAnswer: Broken Beach (Pasih Uug) is a natural rock arch on Nusa Penida's west coast where the sea has punched through limestone cliffs into a turquoise lagoon. It's one of the island's most-photographed stops, so aim for early morning, before 9am, to beat the tour-bus crowds. Bring sturdy shoes — there's no beach access, just cliff-edge viewing.
 faq:
-  - q: "How do I get to Broken Beach from Bali?"
-    a: "Take a fast boat from Sanur, Padang Bai, or Kusamba to Nusa Penida (30–45 minutes), then rent a scooter or hire a driver to reach the west coast, near Sakti village."
-  - q: "Can you swim at Broken Beach?"
-    a: "No — the lagoon is fenced off from direct access and the currents through the arch are dangerous. Viewing is from the cliff-top path only."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Arrive before 9am. Broken Beach is a fixed stop on nearly every Nusa Penida day-trip itinerary, so it fills up fast by mid-morning."
-  - q: "How much time should I plan for?"
-    a: "30 to 45 minutes is typical, more if you want to walk the full cliff rim or combine it with Angel's Billabong nearby."
-  - q: "Is there an entrance fee?"
-    a: "Yes, a small parking/access fee is usually collected in cash at the site. Amounts can change, so bring small bills and don't expect card payment."
+  - q: How do I get to Broken Beach from Bali?
+    a: Take a fast boat from Sanur, Padang Bai, or Kusamba to Nusa Penida (30–45 minutes), then rent a scooter or hire a driver to reach the west coast, near Sakti village.
+  - q: Can you swim at Broken Beach?
+    a: No — the lagoon is fenced off from direct access and the currents through the arch are dangerous. Viewing is from the cliff-top path only.
+  - q: What's the best time to visit to avoid crowds?
+    a: Arrive before 9am. Broken Beach is a fixed stop on nearly every Nusa Penida day-trip itinerary, so it fills up fast by mid-morning.
+  - q: How much time should I plan for?
+    a: 30 to 45 minutes is typical, more if you want to walk the full cliff rim or combine it with Angel's Billabong nearby.
+  - q: Is there an entrance fee?
+    a: Yes, a small parking/access fee is usually collected in cash at the site. Amounts can change, so bring small bills and don't expect card payment.
 aiGenerated: true
 draft: false
 ---

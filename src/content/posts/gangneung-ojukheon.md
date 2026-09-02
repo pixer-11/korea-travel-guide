@@ -1,54 +1,54 @@
 ---
-title: "Ojukheon: Gangneung Travel Guide (4.4★)"
-description: "Ojukheon is Gangneung's most important historic house-museum, the birthplace of scholar Yi Yulgok and his mother, the artist Shin Saimdang. 4.4★ (10,721 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Gangneung"
-category: "attraction"
-pubDate: "2026-08-07T08:49:43.328Z"
+title: 'Ojukheon: Gangneung Travel Guide (4.4★)'
+description: Ojukheon is Gangneung's most important historic house-museum, the birthplace of scholar Yi Yulgok and his mother, the artist Shin Saimdang. 4.4★ (10,721 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Gangneung
+category: attraction
+pubDate: '2026-08-07T08:49:43.328Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/20151003OjukheonDSC03018.jpg/1920px-20151003OjukheonDSC03018.jpg"
-  credit: "Photo: 최광모 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20151003OjukheonDSC03018.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/20151003OjukheonDSC03018.jpg/1920px-20151003OjukheonDSC03018.jpg
+  credit: 'Photo: 최광모 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:20151003OjukheonDSC03018.jpg
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Korea-Gangneung-Ojukheon-01.jpg"
-    credit: "Photo: Klaus314 at English Wikipedia / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Korea-Gangneung-Ojukheon-01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Korea-Gangneung-Ojukheon-01.jpg/1920px-Korea-Gangneung-Ojukheon-01.jpg
+    credit: 'Photo: Klaus314 at English Wikipedia / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Korea-Gangneung-Ojukheon-01.jpg
 place:
-  id: "ChIJKQ8jYrnlYTURKf8PKysmjgA"
-  name: "Ojukheon"
-  address: "24 Yulgok-ro 3139beon-gil, Gangneung, Gangwon-do, South Korea"
+  id: ChIJKQ8jYrnlYTURKf8PKysmjgA
+  name: Ojukheon
+  address: 24 Yulgok-ro 3139beon-gil, Gangneung, Gangwon-do, South Korea
   rating: 4.4
   userRatingsTotal: 10721
-  googleMapsUrl: "https://maps.google.com/?cid=40011413540831017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=40011413540831017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.779235299999996
   lng: 128.8775226
-  phone: "+82 33-660-3301"
+  phone: +82 33-660-3301
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "gangneung"
-  - "historic site"
-quickAnswer: "Ojukheon is Gangneung's most important historic house-museum, the birthplace of scholar Yi Yulgok and his mother, the artist Shin Saimdang. It's open daily 9am–5pm, with the last entry usually about an hour before close, so give yourself 60–90 minutes. It's a well-visited landmark rather than a quiet secret, so aim for a weekday morning shortly after opening to avoid tour groups."
+  - gangneung
+  - historic site
+quickAnswer: Ojukheon is Gangneung's most important historic house-museum, the birthplace of scholar Yi Yulgok and his mother, the artist Shin Saimdang. It's open daily 9am–5pm, with the last entry usually about an hour before close, so give yourself 60–90 minutes. It's a well-visited landmark rather than a quiet secret, so aim for a weekday morning shortly after opening to avoid tour groups.
 faq:
-  - q: "How do I get to Ojukheon from Gangneung Station?"
-    a: "It's about a 15–20 minute taxi or local bus ride from Gangneung Station or the intercity bus terminal. There's on-site parking if you're driving."
-  - q: "How long should I spend at Ojukheon?"
-    a: "Plan for 60–90 minutes to walk the historic house, shrine, and take in the Yulgok Memorial Hall museum properly."
-  - q: "What are the opening hours?"
-    a: "Ojukheon is open daily from 9am to 5pm, with no weekly closing day. Last entry is generally about an hour before closing, so arrive by 4pm at the latest."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Since it's a very popular landmark, go right at 9am opening or after 3pm on weekdays. Weekend and holiday middays draw tour groups and school trips."
-  - q: "What's nearby that I can combine with a visit?"
-    a: "Gyeongpo Beach and Gyeongpodae Pavilion are a short ride away and pair naturally with Ojukheon for a half-day Gangneung itinerary."
+  - q: How do I get to Ojukheon from Gangneung Station?
+    a: It's about a 15–20 minute taxi or local bus ride from Gangneung Station or the intercity bus terminal. There's on-site parking if you're driving.
+  - q: How long should I spend at Ojukheon?
+    a: Plan for 60–90 minutes to walk the historic house, shrine, and take in the Yulgok Memorial Hall museum properly.
+  - q: What are the opening hours?
+    a: Ojukheon is open daily from 9am to 5pm, with no weekly closing day. Last entry is generally about an hour before closing, so arrive by 4pm at the latest.
+  - q: When is the best time to visit to avoid crowds?
+    a: Since it's a very popular landmark, go right at 9am opening or after 3pm on weekdays. Weekend and holiday middays draw tour groups and school trips.
+  - q: What's nearby that I can combine with a visit?
+    a: Gyeongpo Beach and Gyeongpodae Pavilion are a short ride away and pair naturally with Ojukheon for a half-day Gangneung itinerary.
 aiGenerated: true
 draft: false
 ---
